@@ -1,0 +1,10 @@
+===[[noun]]===
+
+The first [[public offering]] of company [[stock]]s for [[subscription]] when [[enlist]]ing a company on a [[stock exchange]]
+
+===[[Acronym]]s===
+[[IPO]].
+
+'''Translations'''
+
+* [[Finnish]]: [[listautumisanti]]
