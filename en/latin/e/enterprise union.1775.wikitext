@@ -1,7 +1,7 @@
-Union whith all empoyees of a company (except top excecutives) regardless of their occupation.
-Entreprise union is a type of union opposed to [[trade union]]
+#Union with all [[empoyees]] of a [[company]] (except top excecutives) regardless of their [[occupation]].
+#Entreprise union is a type of union opposed to [[trade union]]
 
-'''Transaltions'''
+===Translations===
 
 * French : 
 :[[syndicat d'entreprise]] Source : ''Denise Flouzat, Japon éternelle renaissance''
