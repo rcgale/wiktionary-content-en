@@ -11,7 +11,7 @@
 *eu: [[igande]]
 *fr: [[dimanche]]
 *[[Georgian]]: [[კვირადღე]]
-*he: [[יום ראשון]]
+*he: [[יום ראשון]] (yom ree-SHON)
 *hr: [[Nedjelja]]
 *mi: [[rätapu]]
 *nl: [[zondag]]
@@ -25,4 +25,4 @@
 *sq: [[e diel]]
 *sv: [[söndag]]
 *Wolof: [[Dibéer]]
-*yi: [[זונטיק]]
+*yi: [[זונטיק]] (ZOON-tik)
