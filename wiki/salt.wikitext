@@ -10,6 +10,7 @@
 #General term for [[sodium chloride]] ([[NaCl]]) (also ''common salt'').
 #A [[marsh]] (also [[salt-marsh]])
 #''(slang)'' A [[sailor]] (also ''old salt'').
+#''(cryptography)'': additional bytes inserted into a term to increase randomness and obscure algorythm either before or after a step of encryption.
 
 ====Derived words====
 *[[Desalt]] ([[verb]]).
@@ -88,6 +89,7 @@
 
 #add salt
 #''Salting a mine''. Practice of blasting gold into a portion of a mine, to give the appearence of it being a productive seam.
+#''(cryptography)'': Practice of adding filler bytes before encryption (essentially, a technique to make brute force decryption much harder.)  ''salting an algorythm.''
 
 ====Derived words====
 *[[Desalt]] ([[verb]]).
