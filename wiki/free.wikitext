@@ -1,4 +1,4 @@
-/[[Pronunciation guide|friː]]/, ''relative pronoun'' '''(en)'''
+/[[Pronunciation guide|friː]]/, ''adjective'' '''(en)'''
 
 # Not [[imprisoned]] or [[enslaved]]. ''a free [[man]]''
 # Obtainable without [[payment]]. ''free of [[charge]]''
