@@ -1,0 +1,1 @@
+Vegetables used as flavor bases for cooking, usually by sweating or sauteeing.  Carrots, onions, garlic, peppers, and celery are often used for this purpose.
