@@ -19,5 +19,5 @@ fr : [[dog]]
 
 '''Remarques'''
 
-:fr: la racine latine ''can'' est utilisé aussi dans certains mots : canidé, canicule
+:fr: la racine latine ''can'' est utilisée aussi dans certains mots : canidé, canicule
 :en: in some words relating to dog, French used the root ''can'' as in ''canidé'', canicule
