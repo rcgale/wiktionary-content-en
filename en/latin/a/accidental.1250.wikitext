@@ -1,6 +1,6 @@
-''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Accidental]] for the new Wiktionary definition of this term.''
+==[[adjective (part of speech)|adjective]]==
 
-'''Accidental''', ''<code>[[adjective (part of speech)|adjective]]</code>'' [Cf. F. ''accidentel'', earlier ''accidental''.]
+[Cf. F. ''accidentel'', earlier ''accidental''.]
 
 <ol>
 <li>[[Happening]] by chance, or [[unexpectedly]]; taking place not according to the usual course of things; [[casual]]; [[fortuitous]]; as, an ''accidental'' [[visit]].
