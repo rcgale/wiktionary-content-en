@@ -1,0 +1,23 @@
+==Definition==
+;'''Outer space''' ''([[noun]])'' 
+: Region outside explored space.
+==Etymology==
+;'''Outer space''' ''([[noun]])'' 
+:From english ''[[outer]]'' and ''[[space]]''.
+==Quotations==
+;'''Outer space''' ''([[noun]])'' 
+*'''1842''' - Emmeline Stuart-Wortley, ''The Maiden of Moscow'' (1842).
+*:The World--that rocks--and heaves--and beams!--
+*:A Stormy Sun, itself it gleams!--
+*:Keeps this, indeed, its place of old?--
+*:All seems down steep Destruction rolled!
+*:All Earth in madness moved,--o'erthrown,
+*:To outer space--driven--racked--undone!
+*'''1849''' - Thomas Buchanan Read, ''Lays and ballads'' (1849).
+*:DEATH.
+*::What they who find me make me---Shall we go?
+*:OLD MAN.
+*::Whither?
+*:DEATH.
+*::Upward---and onward, into outer space,
+*::Where she, thy kindred spirit, waiteth thee.
