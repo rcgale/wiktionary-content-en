@@ -11,6 +11,7 @@
 *fr: [[jour]]
 *fy: [[dei]] 
 *he: [[יום]] (yom)
+*hu: [[nap]]
 *is: [[dagur]]
 *nl: [[dag]] (1,2), [[etmaal]] (1)
 *pl: [[dzień]]
