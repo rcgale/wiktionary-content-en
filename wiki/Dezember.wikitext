@@ -4,13 +4,13 @@
 #December is the twelfth [[month]] in the Gregorian [[calendar]]. It has 31 [[day]]s.
 
 ==Translations==
-*de: [[Dezember]]
+*de: Dezember(auf dieser Seite)
 *es: [[diciembre]]
 *et: [[detsember]]
 *eu: [[abendu]]
 *fr: [[décembre]]
 *he: [[דצמבר]]
 *mi: [[tïhema]]
-*nl: december (on this page)
+*nl: [[december]]
 *pl: [[grudzien´]]
 *sq: [[dhjetor]]
