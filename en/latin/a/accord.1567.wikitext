@@ -5,9 +5,14 @@ From Old English ''acord'', ''accord'', ''acorden'', ''accorden'', through Old F
 #Agreement or [[concurrence]] of opinion, will, or action; harmony of mind; consent; assent.
 #:'''Quotations'''
 #:*A mediator of an ''accord'' and peace between them. - [[Bacon]].
-#:*These all continued with one ''accord'' in prayer. - ''Acts i. 14'' 
+#:*These all continued with one ''accord'' in prayer. - ''Acts 1:14'' 
 #:'''Translations'''
-#:*Spanish: ''acuerdo''
+#:*French: [[entente]]
+#:*German: [[Übereinstimmung]]
+#:*Interlingua: [[accordo]]
+#:*Italian: [[accordo]]
+#:*Portuguese: [[acordo]] 
+#:*Spanish: [[acuerdo]]
 #Harmony of sounds; agreement in pitch and tone; [[concord]]; as, the ''accord''<code>
 #:'''Quotations'''
 #:*Those sweet ''accords'' are even the angels' lays. - [[Sir J. Davies]].
@@ -15,11 +20,11 @@ From Old English ''acord'', ''accord'', ''acorden'', ''accorden'', through Old F
 #Voluntary or [[spontaneous]] motion or [[impulse]] to act; -- preceded by ''own''; as, of one's own ''accord''.
 #:'''Quotations'''
 #:*That which groweth of its own ''accord'' of thy harvest thou shalt not reap. -  ''Leviticus xxv. 5''
-#:*Of his own ''accord'' he went unto you. - ''2 Corinthians vii. 17''
+#:*Of his own ''accord'' he went unto you. - ''2 Corinthians 7:17''
 #''(Law)'' An agreement between parties in [[controversy]], by which satisfaction for an injury is [[stipulated]], and which, when [[executed]], bars a suit. - [[Blackstone]].''
 #:'''Derived phrase'''
 #:*'''With one accord''', with [[unanimity]].
-#::They rushed ''with one accord'' into the theater. - ''Acts xix. 29''
+#::They rushed ''with one accord'' into the theater. - ''Acts 19:29''
 ===Proper noun===
 #A model name for a passenger car produced by the Honda Company
 ===Transitive verb=== 
@@ -45,12 +50,3 @@ Present participle and verbal noun: [[According]].
 #To agree in pitch and tone.
 ===Derived words===
 [[according]] - [[accordingly]] - [[accordment]]
-
-<HR> <P> <H3>Translations</H3>
-<BR>• [[French]]: [[Entente]]
-<BR>• [[German]]: [[übereinstimmung]]
-<BR>• [[Interlingua]]: [[Accordo]]
-<BR>• [[Italian]]: [[Accordo]]
-<BR>• [[Portuguese]]: [[Acordo]]
-<BR>• [[Spanish]]: [[Acuerdo]]
-<BR>
