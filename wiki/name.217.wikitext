@@ -1,0 +1,10 @@
+===Pronounciation===
+
+===Meanings===
+
+[[noun]]
+# A [[word]] which signifies a [[particular]] [[person]], [[thing]], or [[class]]. From ''The Land of Oz'' by L. Frank Baum'' "I must give him a name!" he cried. "So good a man as this must surely have a name. I believe," he added, after a moment's thought, "I will name the fellow 'Jack Pumpkinhead!'"
+# [[Reputation]]
+
+[[verb]]
+# The [[act]] of [[give|giving]] [[someone]] or [[something]] a name. From ''The Land of Oz'' by L. Frank Baum'' ... "I will name the fellow 'Jack Pumpkinhead!'"
