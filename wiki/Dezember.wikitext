@@ -15,5 +15,5 @@
 *he: [[דצמבר]]
 *mi: [[tïhema]]
 *nl: [[december]]
-*pl: [[grudzien´]]
+*pl: [[grudzień]]
 *sq: [[dhjetor]]
