@@ -9,7 +9,7 @@
 *et: [[oktoober]]
 *eu: [[urri]]
 *fr: [[octobre]]
-*he: [[???????]]
+*he: [[אוקטובר]]
 *mi: [[oketopa]]
 *nl: [[oktober]]
 *pl: [[paz´dziernik]]
