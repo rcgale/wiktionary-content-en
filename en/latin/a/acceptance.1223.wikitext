@@ -3,7 +3,7 @@ From Old French ''accepter''; see also [[accept]]
 ===Noun===
 #The act of [[accepting]]; a receiving what is offered, with approbation, satisfaction, or [[acquiescence]]; esp., favorable reception; [[approval]]; as, the ''acceptance'' of a gift, office, doctrine, etc.
 #:'''Quotation'''
-#:*They shall come up with ''acceptance'' on mine altar. - Isaiah lx. 7 
+#:*They shall come up with ''acceptance'' on mine altar. - Isaiah 60:7 
 #State of being accepted; [[acceptableness]].
 #:'''Quotation'''
 #:*Makes it assured of ''acceptance''. - Shakespeare: ''Rape of Lucrece''
