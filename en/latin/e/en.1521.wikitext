@@ -13,7 +13,7 @@
 
 === Examples ===
 
-''De oude man en de zee'': the old man and the sea. (Title of an Engl. language novel by [[w:Ernest Hemingway]].)
+''De oude man en de zee'': the old man and the sea. (Title of an Engl. language novel by [[en:Ernest Hemingway|Ernest Hemingway]].)
 
 === Translations ===
 
