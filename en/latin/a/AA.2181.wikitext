@@ -4,3 +4,5 @@
 #:'''Translations''' (foreign equivalents)
 #:*[[Dutch]]: [[ANWB]]
 #:*[[German]]: [[ADAC]]
+#Alcholics Anonymous
+#American Airlines
