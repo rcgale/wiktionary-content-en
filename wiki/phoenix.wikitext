@@ -1,6 +1,6 @@
 ==[[Proper noun]]==
 
-# A mythological bird
+# A mythological bird that rises from the flames of fires.
 # Some places in the [[United States]]:
 ##[[Phoenix, Arizona]]
 ##[[Phoenix, Illinois]]
