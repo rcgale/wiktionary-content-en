@@ -1,0 +1,4 @@
+==[[Adjective]]==
+#Related to the [[budget]] of a country, region or city.
+===Translations===
+*French: [[budgétaire]] (''note'': fiscal is a false friend, since it means ''related to taxes'')
