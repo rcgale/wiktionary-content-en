@@ -1,6 +1,6 @@
 ==English==
 ===abbreviation===
-#(''Biology'') '''D'''eoxyribo'''n'''ucleic '''a'''cid. See also [[w:DNA|Wikipedia article about Deoxyribo Nucleic Acid]]
+#(''[[w:Biology|Biology]]'') '''D'''eoxyribo'''n'''ucleic '''a'''cid. See also [[w:DNA|Wikipedia article about Deoxyribo Nucleic Acid]]
 # Did Not Answer
 # Did Not Attend
 # Defense Nuclear Agency See also: [[w:Defense Nuclear Agency|Wikipedia article about Defense Nuclear Agency]]
