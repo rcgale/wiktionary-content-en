@@ -7,4 +7,5 @@
 
 ===Translations===
 * [[Dutch]]: [[seizoen]] (noun 1); [[kruiden]] (verb 1)
+* [[German]]: [[Jahreszeit]] (noun 1); [[würzen]] (verb 1)
 * [[Hebrew]]: [[עונה]] (noun 1);  [[תיבל]] (verb 1)
