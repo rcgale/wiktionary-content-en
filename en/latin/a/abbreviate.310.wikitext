@@ -8,7 +8,7 @@
 <li> ''([[Math (subject)|Math]]).'' To reduce to lower terms, as a fraction.
 </ol>
 ==Translations==
-*Swedish: [[förkorta]]
+*Swedish: [[förkorta]] (1,2)
 -----
 '''Abbreviate''', ''[[adjective (part of speech)|adjective]]'' [L. ''abbreviatus'', p. p.]
 
