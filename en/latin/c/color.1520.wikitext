@@ -1,6 +1,6 @@
-[Co-lor] /_____/
+==American English==
 
-American English for [[colour]]
+[Co-lor] /_____/
 
 1)...
 
