@@ -1,0 +1,22 @@
+===Etymology===
+From Middle English, from Old English <em>frencisc</em>=Frankish, from <em>Franca</em>=[[Frank]].  
+
+===Pronunciation===
+[French]/____
+
+===Noun===
+# The [[language]] of [[France]].
+#:'''Translations'''
+#:*French: [[français]] 
+# People from [[France]].
+#:'''Translations'''
+#:* 
+
+===Adjective===
+# Of or pertaining to France.
+#:'''Translations'''
+#:*
+
+===Proverbs and Idioms===
+*[[french kiss]]
+*[[french leave]]
