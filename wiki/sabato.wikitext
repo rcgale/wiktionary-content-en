@@ -1,4 +1,5 @@
 Seksa tago de la semajno (laû regulo ISO 8601): lundo, mardo, merkredo, jaûdo, vendredo, sabato kaj dimancxo
 
-English: Saturday
+English: [[Saturday]]
+
 Spanish: Sábado
