@@ -22,6 +22,7 @@ noun '''(nl)'''
 
 ==Translations==
 (of English noun #1)
+* da: [[ravn]]
 * de: [[Rabe]]
 * nl: [[raaf]]
 * pl: [[kruk]]
