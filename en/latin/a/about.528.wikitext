@@ -5,7 +5,6 @@ Old English ''aboute'', ''abouten'', ''abuten''; Anglo-Saxon ''&#257;butan'', ''
 #:'''[[Quotation]]s'''
 #:*If thou beest not immortal look ''about'' you. - Shakespeare, ''Julius Caesar, II-iii''
 #:*Bind them ''about'' thy neck. - ''Proverbs 3:3''
-Translations :
 #In the [[immediate]] [[neighborhood]] of; in [[contiguity]] or [[proximity]] to; near, as to place; by or on (one's person).
 #:'''Quotations'''
 #:*Have you much money ''about'' you? - [[Bulwer]]
