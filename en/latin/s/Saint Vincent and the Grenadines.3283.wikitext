@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Caribbean. Official name: Saint Vincent and the Grenadines.
+#:'''Translations'''
+#:*[[Danish]]: [[Saint Vincent og Grenadinerne]]
+#:*[[Dutch]]: [[Saint Vincent en de Grenadines]]
+#:*[[Esperanto]]: [[Sent-Vincento kaj la Grenadinoj]]
+#:*[[Finnish]]: [[Saint Vincent ja Grenadiinit]]
+#:*[[French]]: [[Saint-Vincent-et-les-Grenadines]]
+#:*[[German]]: [[St. Vincent und die Grenadinen]]
+#:*[[Greek]]: [[Άγιος Βικέντιος και Γρεναδίνες]]
+#:*[[Italian]]: [[Saint Vincent e Grenadine]]
+#:*[[Polish]]: [[Saint Vincent i Grenadyny]]
+#:*[[Portuguese]]: [[São Vicente e Granadinas]]
+#:*[[Russian]]: [[Сен-Винсент и Гренадины]]
+#:*[[Spanish]]: [[San Vicente y las Granadinas]]
+#:*[[Swedish]]: [[Saint Vincent och Grenadinerna]]
+
+''See'': [[Countries of the world]]
