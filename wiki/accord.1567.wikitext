@@ -43,3 +43,5 @@ Present participle and verbal noun: [[According]].
 #:*My heart ''accordeth'' with my tongue. - Shakespeare, ''2 Henry VI, III-i''
 #:*Thy actions to thy words ''accord''. - Milton, ''Paradise regained''
 #To agree in pitch and tone.
+===Derived words===
+[[accordment]]
