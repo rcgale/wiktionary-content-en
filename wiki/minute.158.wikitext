@@ -14,7 +14,7 @@
 
 /my-noot'/, /my-nyoot'/
 
-# Very [[small]]. '''Synonyms:''' [[minuscule]], [[tiny]], [[diminutive]] '''Antonyms:''' [[big]],[[huge]],[[enormous]]
+# Very [[small]]. '''Synonyms:''' [[minuscule]], [[tiny]], [[diminutive]], [[insignificant]] '''Antonyms:''' [[big]],[[huge]],[[enormous]]
 
 '''Translations'''
 
@@ -24,4 +24,4 @@
 *nl: minuut (1,2); nota (3)
 
 ''adjective''
-*nl: onbeduidend, nietig
+*nl: minuscuul, onbeduidend, nietig
