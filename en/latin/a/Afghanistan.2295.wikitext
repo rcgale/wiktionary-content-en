@@ -5,7 +5,7 @@
 # Country in Central Asia. Official name: Afghanistan.
 #:'''Translations'''
 #:*[[Chinese]]: [[阿富汗]]
-#:*[[Dannish]]: Afghanistan
+#:*[[Danish]]: Afghanistan
 #:*[[Dutch]]: Afghanistan
 #:*[[Esperanto]]: [[Afganio]], [[Afganistano]], [[Afganujo]]
 #:*[[Finnish]]: [[Afganistan]]
