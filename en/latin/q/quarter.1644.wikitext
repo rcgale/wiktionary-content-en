@@ -1,4 +1,6 @@
-* period of three months
+# one fourth (1/4)
+# 25 cents
+# period of three months
 
 ==Translations==
 
