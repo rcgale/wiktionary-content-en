@@ -4,4 +4,4 @@
 
 '''[[verb]]'''
 
-to ftp: to send/receive data using an FTP-Client/Server.
+'''to ftp''': to send/receive data using an FTP-Client/Server.
