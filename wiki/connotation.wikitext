@@ -1,4 +1,4 @@
-Connotation is what a word suggests (compare whith [[denotation]]). The connotation is not the first meaning.
+Connotation is what a word suggests (compare with [[denotation]]). The connotation is not the first meaning.
 
 '''Examples'''
 
