@@ -8,7 +8,7 @@
 
 === Usage ===
 
-The made-up compound noun ''herfstschrik'' (/hERfstsxRIk/, fear of fall?) is used to demonstrate the bewildering number of consonants that can be strung together in Dutch. In practice, a speaker of Dutch will drop a few of these in pronunciation to something like /hERfsxRIk/, although it is possible to pronounce all consonants.
+The made-up compound noun ''herfstschrik'' (/hERfstsxRIk/, fear of fall?) is used to demonstrate the bewildering number of consonants that can be strung together in Dutch. It is not particularly difficult for a speaker of Dutch to pronounce all consonants, but in practice a few of these will be dropped to something like /hERfsxRIk/.
 
 See also: [[Dutch compound words]]
 
