@@ -1,0 +1,4 @@
+(Greek) Necessity: Necessity beyond all supplications or sway. 
+Conceived as the ultimate dictator of all fate and circumstances… to which even the gods must ultimately pay homage and deference. 
+
+See also: [[Tao]]
