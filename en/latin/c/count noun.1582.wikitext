@@ -1,8 +1,5 @@
-'''Count noun'''
-
-==[[Count noun]]==
-
-A [[noun]] which is used in the plural when referring to two or more of an item.
+===Nominal expression===
+A '''count noun''' is a [[noun]] which is used to refer to things that can be counted.
 
 Examples:
 * woman
