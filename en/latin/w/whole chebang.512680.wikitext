@@ -1,13 +1,16 @@
-In [[computing]], a '''shebang''' is command that makes a [[Unix-like]] [[operating system]] execute a text [[file]] using an [[interpreter (computer software)|interpreter]]. A shebang consists of a sharp symbol (also called pound) and exclamation point character '''#!''' in the first column of the first line, followed by the program to interpret the file with. The name shebang comes from the contraction of ''sharp bang'', referring to the two characters.
+In [[computing]], a '''shebang''' is command that makes a [[Unix-like]] [[operating system]] execute the commands in a text [[file]] using an [[interpreter (computer software)|interpreter]]. A shebang consists of a sharp symbol and exclamation point character '''#!''' in the first two columns of the first line, followed by the program that will provide the interpretation. 
+
+The name shebang comes from the contraction of ''sharp bang'', referring to the two characters.  Unix jargon uses ''bang'' to refer to the exclamation point character.
 
 ==Usage==
 
 A typical shebang line could be
 
-: #! /bin/sh
+   #! /bin/sh
 
 This instructs the operating system to interpret the file with the program /bin/sh.
 
-==External Links==
+==External links==
 
-* [http://homepages.cwi.nl/~aeb/std/shebang/ Details About the Shebang Mechanism]
+*[http://homepages.cwi.nl/~aeb/std/shebang/ Some details about the shebang mechanism on various Unix flavours]
+*[http://wombat.doc.ic.ac.uk/foldoc/foldoc.cgi?shebang FOLDOC shebang article]
