@@ -1,28 +1,19 @@
 ==[[Noun]]==
-
 # allow to [[approach]]
-#  The means, place, or way by which a thing may be approached; passage way; as, the ''access'' is by a neck of [[land]].
-
-All access was thronged. Milton. 
-
+# The means, place, or way by which a thing may be approached; passage way; as, the ''access'' is by a neck of [[land]].
+#:'''Quotations'''
+#:*All access was thronged. - [[Milton]] 
 #(law)the right of a [[non-custodial parent]] to visit their [[child]]
-
+#:'''Translations'''
+#:*[[French]]: [[accès]]
+#:*[[German]]: [[Zugriff]]
+#:*[[Interlingua]]: [[accesso]]
+#:*[[Italian]]: [[accesso]]
+#:*[[Portuguese]]: [[acesso]]
+#:*[[Spanish]]: [[acceso]]
+===Verb===
+#''(computing):'' to have ''access'' to [[data]]
 ===Related Words===
 *[[accessible]]
 *[[accessibility]]
 *[[accessibly]]
-
-
-<HR> <P> <H3>Translations</H3>
-<BR>• [[French]]: [[Accès]]
-<BR>• [[German]]: [[Zugriff]]
-<BR>• [[Interlingua]]: [[Accesso]]
-<BR>• [[Italian]]: [[Accesso]]
-<BR>• [[Portuguese]]: [[Acesso]]
-<BR>• [[Spanish]]: [[Acceso]]
-<BR>
-
-----
-
-==Verb==
-(computing) ''access'' [[data]]
