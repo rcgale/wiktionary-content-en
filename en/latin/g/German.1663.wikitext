@@ -2,6 +2,7 @@
 #A close relation.
 #Relating to the [[country]] of [[Germany]].
 #:'''Translations'''
+#:*[[Dutch]]: [[Duits]]
 #:*[[Interlingua]]: german
 #:*[[Portuguese]]: [[alemão]]
 #:*[[Swedish]]: [[tysk]]
