@@ -3,5 +3,5 @@
 Examples : 
 
 *[[w:Biophilia|Biophilia]].
-*[[Biology]]
-*[[Biosphere]].
+*[[w:Biology|Biology]]
+*[[w:Biosphere|Biosphere]].
