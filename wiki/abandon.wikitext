@@ -28,4 +28,4 @@
 
 A complete giving up to natural [[impulses]]; freedom from artificial [[constraint]]; careless freedom or ease.
 ----
-<P><H3>Translations</H3><BR>•[[French]] fr: [[Abandon]]<BR>•[[German]] de: [[Ungezwungenheit]]<BR>•[[Interlingua]] ia: [[Abandono]]<BR>•[[Italian]] it: [[Abbandono]]<BR>•[[Portuguese]] pt: [[Abandono]]<BR>•[[Spanish]] es: [[Abandono]]<BR>•[[]]: [[]]
+<P><H3>Translations</H3><BR>• [[French]]: [[Abandon]]<BR>• [[German]]: [[Ungezwungenheit]]<BR>• [[Interlingua]]: [[Abandono]]<BR>• [[Italian]]: [[Abbandono]]<BR>• [[Portuguese]]: [[Abandono]]<BR>• [[Spanish]]: [[Abandono]]<BR>• [[]]: [[]]
