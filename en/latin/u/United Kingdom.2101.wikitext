@@ -5,5 +5,6 @@
 #:*[[Dutch]]: [[Verenigd Koninkrijk]]
 #:*[[French]]: [[Royaume Uni]]
 #:*[[German]]: [[Vereinigtes Königreich]]
+#:*[[Polish]]: [[Wielka Brytania]]
 
 ''See:'' [[Countries of the world]]
