@@ -10,7 +10,7 @@
 
 *[[Afrikaans]]: [[Arend]]
 *[[Albanian]]: [[Shkabë]] (needs to be checked by speaker)
-*[[Belarussian]]: [[Aroł]]
+*[[Belarussian]]: [[Aroł]] 
 *[[Bulgarian]]: [[Oрел]]
 *[[Chinese(Simplified)]]: [[老鹰]] (needs to be checked by speaker)
 *[[Chinese(Traditional)]]: [[老鷹]] (needs to be checked by speaker)
@@ -18,7 +18,7 @@
 *[[Dutch]]: [[Arend]], [[Adelaar]] (1)
 *[[Esperanto]]: [[Aglo]]
 *[[Estonian]]: [[Kotkas]]
-*[[Finnish]]: [[Kotka]]
+*[[Finnish]]: [[Kotka]] 
 *[[French]]: [[Aigle]] (1)
 *[[Frisian]]: [[Earn]]
 *[[Gaelic(Irish)]]: [[Iolar]] (needs to be checked by speaker)
@@ -36,6 +36,7 @@
 *[[Latin]]: [[Aquila]], [[Aqvila]]
 *[[Latvian]]: [[Ērglis]]
 *[[Lithuanian]]: [[Erelis]]
+*[[Maltese]]: [[Ajkla]]
 *[[Moldavian]]: [[Vultur]]
 *[[Norwegian]]: [[Ørn]]
 *[[Polish]]: [[Orzeł]] (1)
