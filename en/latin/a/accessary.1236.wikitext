@@ -1,5 +1,5 @@
 ===Spelling variation===
-'''Note:''' This word, as used in law, is spelt ''accessory'' by Blackstone and many others; but in this sense is spelt ''accessary'' by Bouvier, Burrill, Burns, [[Whishaw]], Dane, and the [[Penny]] [[Cyclopedia]]; while in other senses it is spelt ''accessory''. In recent [[text-books]] on criminal law the distinction is not [[preserved]], the spelling being either ''accessary'' or ''accessory''. - ''Webster, 1913''
+'''Note:''' This word, as used in law, is spelt ''accessory'' by Blackstone and many others; but in this sense is spelt ''accessary'' by Bouvier, Burrill, Burns, [[Whishaw]], Dane, and the [[Penny]] [[Cyclopedia]]; while in other senses it is spelt ''accessory''. In recent [[text-books]] on criminal law the distinction is not [[preserved]], the spelling being either ''accessary'' or ''accessory''. - ''Webster, 1913''  Since that time this trend has accelerated
 ===Etymology===
 Cf. [[Accessory]] and Late Latin ''accessarius''.
 ===Adjective===
