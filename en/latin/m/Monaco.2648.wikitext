@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Europe. Official name: Principality of Monaco.
+#:'''Translations'''
+#:*[[Chinese]]: [[摩纳哥]]
+#:*[[Danish]]: Monaco
+#:*[[Dutch]]: Monaco
+#:*[[Esperanto]]: [[Monako]]
+#:*[[Finnish]]: Monaco
+#:*[[French]]: Monaco
+#:*[[German]]: Monaco
+#:*[[Greek]]: [[Μονακό]]
+#:*[[Interlingua]]: Monaco
+#:*[[Italian]]: Monaco
+#:*[[Polish]]: [[Monako]]
+#:*[[Portuguese]]: [[Mónaco]]
+#:*[[Russian]]: [[Монако]]
+#:*[[Spanish]]: [[Mónaco]]
+#:*[[Swedish]]: Monaco
+
+''See'': [[Countries of the world]]
