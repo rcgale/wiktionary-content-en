@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Caribbean. Official name: Grenada.
+#:'''Translations'''
+#:*[[Danish]]: Grenada
+#:*[[Dutch]]: Grenada
+#:*[[Esperanto]]: [[Grenado]]
+#:*[[Finnish]]: Grenada
+#:*[[French]]: [[Grenade]]
+#:*[[German]]: Grenada
+#:*[[Greek]]: [[Γρενάδα]]
+#:*[[Italian]]: Grenada
+#:*[[Polish]]: Grenada
+#:*[[Portuguese]]: Granada
+#:*[[Russian]]: [[Гренада]]
+#:*[[Spanish]]: Granada
+#:*[[Swedish]]: Grenada
+
+''See'': [[Countries of the world]]
