@@ -16,4 +16,5 @@
 *[[admit]]
 
 ==Translations==
+*[[Dutch]]: [[verbergen]], [[verstoppen]]
 *[[German]]: to conceal something: [[etwas]] [[verbergen]], [[verheimlichen]], [[verschleiern]], [[verschweigen]], [[verstecken]]
