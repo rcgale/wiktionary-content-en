@@ -1,7 +1,7 @@
 ===Etymology===
 Franch ''abaisser'', Late Latin ''abassare'', ''abbassare'' ; ''ad'' + ''bassare'', from ''bassus'' low. See [[Base]] (adjective)
 ===Transitive verb===
-imperfect and past participle [[Abased]] (&#551b&#257st)<br>
+imperfect and past participle [[Abased]] (a&#775b&#257st)<br>
 present participle and verbal noun: [[Abasing]] 
 #To lower or [[depress]]; to throw or cast down; as, to ''abase'' the eye. [Archaic] - [[Bacon.]]
 #:'''Quotations'''
@@ -9,7 +9,6 @@ present participle and verbal noun: [[Abasing]]
 #To cast down or reduce low or lower, as in rank, office, condition in life, or [[estimation]] of [[worthiness]]; to depress; to humble; to [[degrade]].
 #:'''Quotations'''
 #:*Whosoever exalteth himself shall be ''abased''. - ''Luke 14:ll''
-
 #:'''Synonyms:''' 
 #:*[[Debase]], [[Degrade]]. These words agree in the idea of bringing down from a higher to a lower state. 
 #:*''Abase'' has reference to a bringing down in condition or feelings; as, to ''abase'' the proud, to ''abase'' one's self before God. 
