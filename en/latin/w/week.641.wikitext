@@ -1,5 +1,4 @@
 ===Etymology===
-
 From old English "wicu'", from a German *[[wikon]], which probably originally meant something like ''turn'' or ''succession''. Related to a verb *[[wikanan]] (''to bend''). The Dutch noun derives fro a related verb *[[waikwaz]] (''to yield''), via the current Dutch form [[wijken]].
 
 Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (week), old saxon "wika", old Norse "vika", Gothic "wik&ocirc;" (''turn for temple service'').
@@ -10,7 +9,6 @@ Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (
 # A [[period]] of [[seven]] [[day]]s
 
 ====Translations====
-
 * es: [[semana]]
 * de: [[Woche]]
 * fr: [[semaine]]
@@ -24,30 +22,28 @@ Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (
 --------
 
 ==Dutch==
-===Pronunciation===
-
-/weIk/
-
-===Noun===
-
-# week
-# present tense singular of [[weken]] (to [[soak]])
-
-===Adverb===
-
-# [[soft]]
-
-===Verb===
-
-# past tense singular of [[wijken]] (to make way)
 ===Etymology===
-
 From old English "wicu'", from a German *[[wikon]], which probably originally meant something like ''turn'' or ''succession''. Related to a verb *[[wikanan]] (''to bend''). The Dutch noun derives fro a related verb *[[waikwaz]] (''to yield''), via the current Dutch form [[wijken]].
 
 Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (week), old saxon "wika", old Norse "vika", Gothic "wik&ocirc;" (''turn for temple service'').
-
 ===Pronunciation===
-/wik/
+
+/weIk/
+
+===Noun===
+
+# week
+
+
+===Adverb===
+
+# [[soft]]
+
+===Verb===
+# present tense singular of [[weken]] (to [[soak]])
+# past tense singular of [[wijken]] (to make way)
+
+
 ===Noun===
 # A [[period]] of [[seven]] [[day]]s
 
@@ -73,12 +69,12 @@ Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (
 ===Noun===
 
 # week
-# present tense singular of [[weken]] (to [[soak]])
+
 
 ===Adverb===
 
 # [[soft]]
 
 ===Verb===
-
+# present tense singular of [[weken]] (to [[soak]])
 # past tense singular of [[wijken]] (to make way)
