@@ -7,4 +7,4 @@
 
 ===Translations===
 
-[[English]]: Stairs
+[[English]]: [[Stairs]]
