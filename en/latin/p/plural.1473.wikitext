@@ -2,3 +2,8 @@
 
 # More than one of something.
 :'''Antonym:''' [[singular]]
+
+'''Translations'''
+
+* es: plural
+* fr: pluriel
