@@ -1,3 +1,9 @@
 [[Esperanto]]
 
-El [[eo:Hispanio]]
+*El [[eo:Hispanio]]
+*Kastilia lingvo, lingvo origine aperanta en Hispanio kaj tut-sxtata oficiala lingvo de la lando.
+
+=== Tradukoj ===
+
+[[Angla]]: Spanish
+[[Hispana]]: español/a
