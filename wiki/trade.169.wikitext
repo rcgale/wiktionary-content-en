@@ -1,4 +1,4 @@
-Trade \Trade\
+[Trade] \Trade\Trād\
 
 ''[[adjective]]''
 # relating to or used in or intended for trade or commerce; "a trade fair"; "trade journals"; "trade goods" [''syn:'' trade(a)]
