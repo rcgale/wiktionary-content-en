@@ -23,6 +23,8 @@
 ==Translations==
 (noun 1):
 *de: [[M&auml;rz]]
+*es: marzo
+*fr: mars
 *nl: [[maart]]
 *pl: [[marzec]]
 (verb 1);
