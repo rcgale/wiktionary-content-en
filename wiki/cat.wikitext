@@ -20,9 +20,10 @@
 *fr: chat
 *he: חתול
 *it: gatto
+*ja: neko
+*Korean: 고양이 (go-yang-i)
 *nl: kat
 *no: katt
-*ja: neko
 *pl: kot
 *pt: gato
 *se: katt
