@@ -26,3 +26,12 @@
 # [[at]], [[in]]
 # [[to]]
 # [[too]]
+
+== French ==
+/t&#601;/
+
+# ''pronoun'', [[you]] (used as an indirect object)
+
+=== Examples ===
+
+# ''Il te donne le livre.'': He gives you the book.
