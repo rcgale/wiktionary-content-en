@@ -8,3 +8,5 @@
 #:*[[French]]: [[système d'exploitation]]
 #:*[[German]]: [[Betriebssystem]]
 #:*[[Icelandic]]: [[stýrikerfi]]
+#:*[[Interlingua]]: [[systema de operation]]
+#:*[[Portuguese]]: [[sistema operacional]]
