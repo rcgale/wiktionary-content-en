@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Autonomous territory in the Caribbean part of [[The Netherlands]]. Official name: Netherlands Antilles.
+#:'''Translations'''
+#:*[[Chinese]]: [[荷属安的列斯]]
+#:*[[Danish]]: [[De Nederlandske Antiller]]
+#:*[[Dutch]]: [[De Nederlandse Antillen]]
+#:*[[Esperanto]]: [[Nederlandaj Antiloj]]
+#:*[[Finnish]]: [[Alankomaiden Antillit]]
+#:*[[French]]: [[Antilles néerlandaises]]
+#:*[[German]]: [[Niederländische Antillen]]
+#:*[[Greek]]: [[Ολλανδικές Αντίλλες]]
+#:*[[Italian]]: [[Antille olandesi]]
+#:*[[Polish]]: [[Antyle Holenderskie]]
+#:*[[Portuguese]]: [[Antilhas Neerlandesas]]
+#:*[[Russian]]: [[Антильские острова]]
+#:*[[Spanish]]: [[Antillas Neerlandesas]]
+#:*[[Swedish]]: [[Nederländska Antillerna]]
+
+''See'': [[Countries of the world]]
