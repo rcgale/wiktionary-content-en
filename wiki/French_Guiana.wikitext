@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Overseas [[department]] of France in South America. Official name: Department of French Guiana.
+#:'''Translations'''
+#:*[[Danish]]: [[Fransk Guyana]]
+#:*[[Dutch]]: [[Frans-Guyana]]
+#:*[[Esperanto]]: [[Franca Gviano]]
+#:*[[Finnish]]: [[Ranskan Guayana]]
+#:*[[French]]: [[Guyane française]]
+#:*[[German]]: [[Französisch-Guayana]]
+#:*[[Greek]]: [[Γαλλική Γουιάνα]]
+#:*[[Italian]]: [[Guiana francese]]
+#:*[[Polish]]: [[Gujana Francuska]]
+#:*[[Portuguese]]: [[Guiana Francesa]]
+#:*[[Russian]]: [[Французская Гвиана]]
+#:*[[Spanish]]: [[Guayana Francesa]]
+#:*[[Swedish]]: [[Franska Guyana]]
+
+''See'': [[Countries of the world]]
