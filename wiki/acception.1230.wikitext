@@ -1,9 +1,15 @@
-''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Acception]] for the new Wiktionary definition of this term.''
-
-'''Acception''', ''<code>[[noun (part of speech)|noun]]</code>'' [L. ''acceptio'' a receiving, [[accepting]]: cf. F. ''acception''.]
-
-[[Acceptation]]; the received meaning. [Obs.]
-
-<code>Here the word "baron" is not to be taken in that restrictive sense to which the modern ''acception'' hath confined it. ''[[Fuller (source)|Fuller]].''</code>
-
-'''Acception of persons''' or '''faces''' ''([[Eccl (subject)|Eccl]]).'', [[favoritism]]; [[partiality]]. [Obs.] ''[[Wyclif (source)|Wyclif]].''
+===Etymology===
+Derivative of [[accept]].  From Latin ''acceptio'' (a receiving), [[accepting]]; compare with French ''acception''.
+===Noun===
+#[[Acceptation]]; the received meaning. [Obs.]
+#:'''Quotation'''
+#:*Here the word "baron" is not to be taken in that restrictive sense to which the modern ''acception'' hath confined it. - [[Fuller]]. ??
+#:'''Derived phrase'''
+#:*'''Acception of persons''' or '''faces''' ''(Ecclesiasic):'', [[favoritism]]; [[partiality]]. [Obsolete] - [[Wyclif]]
+----
+==French==
+===Noun===
+#Acceptation
+#One of the various listed meanings of a word in a dictionary
+===Derived phrase===
+#Sans acception de:  without need to bring to account
