@@ -1,3 +1,4 @@
 ''adjective''
 
-# More than one.
+# More than one of something.
+:'''Antonym:''' [[singular]]
