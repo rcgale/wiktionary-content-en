@@ -1,0 +1,15 @@
+==Interlingua==
+===Abbreviation===
+#Union del Republicas Socialista Sovietic
+#:'''Translations'''
+#:*[[Dutch]]: [[USSR]]
+#:*[[English]]: [[USSR]]
+#:*[[Estonian]]: [[UNSV]]
+#:*[[French]]: URSS
+#:*[[German]]: [[UdSSR]]
+#:*[[Greek]]: [[ΕΣΣΔ]] ([[ESSD]] - romanised)
+#:*[[Japanese]]: [[ソ連]]
+#:*[[Polish]]: [[ZSRR]]
+#:*[[Portuguese]]: URSS
+#:*[[Russian]]:[[CCCP]] ([[SSSR]] - romanised)
+#:*[[Spanish]]: URSS
