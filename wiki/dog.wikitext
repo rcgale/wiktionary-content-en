@@ -14,6 +14,7 @@ Plural = dogs
 #:'''Translations'''
 #:*Chinese: [[&#29356;]]
 #:*Dutch: [[hond]]
+#:*Esperanto [[hundo]]
 #:*French: [[chien]]
 #:*Frisian: [[hûn]]
 #:*German: [[Hund]]
