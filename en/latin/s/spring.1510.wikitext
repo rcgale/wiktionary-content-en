@@ -1,5 +1,5 @@
 ===Meanings===
-# Traditionally the first of the four [[season]]s, normally from [[March]] 21 to [[June]] 20; [[spring]]
+# Traditionally the first of the four [[season]]s, typically regarded as being from [[March]] 21 to [[June]] 20 in Northern [[Hemisphere]] regions and from [[September]] 21 to [[December]] 20 in Southern Hemisphere regions. 
 # Water source
 # Coil
 
