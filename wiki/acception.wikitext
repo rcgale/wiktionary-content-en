@@ -1,11 +1,11 @@
 ===Etymology===
 Derivative of [[accept]].  From Latin ''acceptio'' (a receiving), [[accepting]]; compare with French ''acception''.
 ===Noun===
-#[[Acceptation]]; the received meaning. [Obs.]
+#[[Acceptation]]; the received meaning. [Obsolete]
 #:'''Quotation'''
 #:*Here the word "baron" is not to be taken in that restrictive sense to which the modern ''acception'' hath confined it. - [[Fuller]]. ??
 #:'''Derived phrase'''
-#:*'''Acception of persons''' or '''faces''' ''(Ecclesiasic):'', [[favoritism]]; [[partiality]]. [Obsolete] - [[Wyclif]]
+#:*'''Acception of persons''' or '''faces''' ''(Ecclesiastic):'', [[favoritism]]; [[partiality]]. [Obsolete] - [[Wyclif]]
 ----
 ==French==
 ===Noun===
