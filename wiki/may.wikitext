@@ -1,4 +1,4 @@
-[May] /___/
+'''May''' /mej/ ''Is this the correct pronunciation?''
 
 ==Noun==
 
