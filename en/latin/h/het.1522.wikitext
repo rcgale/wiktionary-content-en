@@ -1,0 +1,13 @@
+'''Het''' /het/ (Dutch)
+
+[[Definite article]], placed before [[neuter]] nouns, indicating a specific person or thing instead of the general case. Compare with [[de]] and [[een]].
+
+=== Examples === 
+
+''Het boek'': the book; ''het meisje'': the girl.
+
+Note about [[grammatical gender in Dutch]]: all [[diminuitive|diminuitives]] are automatically neuter; however, sex takes precedence in all the pronouns. Compare ''het kopje en zijn schotel'' (the (little) cup and '''its''' saucer) with ''het meisje en haar hoed'' (the (little) girl and '''her''' hat).
+
+=== Translations ===
+
+en: [[the]
