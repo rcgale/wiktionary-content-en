@@ -12,5 +12,5 @@
 *Spanish: [[manzana]] (fruit)
 *Japanese: [[りんご]] (ringo) (fruit)
 *Korean: [[사과]] (sagwa) (fruit)
-*Hindi: Saparchand
+*Hindi: Seb
 * Kannad: Sebu
