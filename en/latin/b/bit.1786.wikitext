@@ -8,6 +8,6 @@
 #The smallest unit of storage in a [[digital]] [[computer]]. The value of a bit is either [[zero]] or [[one]].
 #A [[digit]] in a [[number]] written in [[binary]] (i.e., with a base of 2). In this usage it is a contraction of "binary digit".
 ===Verb===
-#The past tense of the verb [[bite]]
+#The past tense of the verb [[bite]]. e.g. ''Does your dog bite? No. He bit me! It isn't my dog''
 ===References===
 *For encyclopedic information see [[w:Bit]]
