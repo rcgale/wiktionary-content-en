@@ -2,11 +2,22 @@
 
 '''proper noun'''
 
-# One of the [[Scandinavian]] countries.
+# One of the [[Scandinavian]] countries. Official name: Kingdom of Norway.
 #:'''Translations'''
+#:*[[Chinese]]: [[挪威]]
+#:*[[Danish]]: [[Norge]]
 #:*[[Dutch]]: [[Noorwegen]]
+#:*[[Esperanto]]: [[Norvegio]], [[Norvegujo]]
+#:*[[Finnish]]: [[Norja]]
 #:*[[French]]: [[Norvège]]
 #:*[[German]]: [[Norwegen]]
+#:*[[Greek]]: [[Νορβηγία]]
+#:*[[Interlingua]]: [[Norvegia]]
+#:*[[Italian]]: [[Norvegia]]
 #:*[[Polish]]: [[Norwegia]]
+#:*[[Portuguese]]: [[Noruega]]
+#:*[[Russian]]: [[Норвегия]]
+#:*[[Spanish]]: [[Noruega]]
+#:*[[Swedish]]: [[Norge]]
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
