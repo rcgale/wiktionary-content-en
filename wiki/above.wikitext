@@ -3,13 +3,13 @@
 <ol>
 <li>In or to a higher place; higher than; on or over the upper surface; over; -- opposed to ''below'' or ''beneath''.
 
-<code>Fowl that may fly ''above'' the earth. ''[[Gen. i. 20 (source)|Gen. i. 20]].''</code>
+<code>Fowl that may fly ''above'' the earth. [[Gen. 2:20 (source)|Gen. 2:20]].''</code>
 
 <li> Figuratively, higher than; superior to in any respect; [[surpassing]]; beyond; higher in measure or degree than; as, things ''above'' [[comprehension]]; ''above'' mean actions; conduct ''above'' reproach.
 
 <code>Thy worth ... is actions ''above'' my gifts.</code> ''[[Marlowe (source)|Marlowe]].''
 
-<code>I saw in the way a light from heaven ''above'' the brightness of the sun. ''[[Acts xxxvi. 13 (source)|Acts xxxvi. 13]].''</code>
+<code>I saw in the way a light from heaven ''above'' the brightness of the sun. [[Acts 36:13 (source)|Acts 36:13]].</code>
 
 <li> [[Surpassing]] in number or quantity; more than; as, ''above'' a hundred. (Passing into the [[adverbial]] sense. See Above, ''[[adverb (part of speech)|adverb]]'', 4.) (on this page)
 
@@ -33,7 +33,7 @@
 
 ''Above'' is often used [[elliptically]] as an adjective by [[omitting]] the word ''mentioned'', ''quoted'', or the like; as, the ''above'' observations, the ''above'' reference, the ''above'' articles. -- ''Above'' is also used [[substantively]].
 
-<code>The waters that come down from ''above''.</code> ''[[Josh. iii. 13 (source)|Josh. iii. 13]].''
+<code>The waters that come down from ''above''.</code> [[Josh. 3:13 (source)|Josh. 3:13]].
 
 It is also used as the first part of a compound in the sense of ''before'', ''previously''; as, ''above''-cited, ''above''- described, ''above''[[-mentioned]], ''above''-named, ''above''said, ''above''specified, ''above''[[-written]], ''above''[[-given]].
 </ol>
