@@ -3,9 +3,12 @@
 # Country in Western Europe.
 #:'''Translations'''
 #:*[[Dutch]]: [[Frankrijk]]
+#:*[[Estonian]]: [[Prantsusmaa]]
+#:*[[Finnish]]: [[Ranska]]
 #:*[[French]]: France
 #:*[[German]]: [[Frankreich]]
-#:*[[Hebrew]]: [[צרפת]]
+#:*[[Hebrew]]: [[????]]
+#:*[[Hungarian]]: Franciaország
 #:*[[Polish]]: [[Francja]]
 #:*[[Spanish]]: [[Francia]]
 ''See:'' [[Countries of the world]]
