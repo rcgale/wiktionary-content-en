@@ -4,7 +4,7 @@
 
 Transporta sistemo kiu uzas paralelajn vojojn por gvidi and subteni radan veturilon kiu iras inter lokoj.
 
-=== Tradukoj ===
+=== [[Traduko]]j ===
 
 * [[Angla]]: [[railway]]
 * [[Hispana]] : tren
