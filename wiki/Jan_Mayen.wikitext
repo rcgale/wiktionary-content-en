@@ -2,7 +2,7 @@
 
 '''proper noun'''
 
-# Territory of Norway. Official name: Svalbard.
+# Territory of Norway. Official name: Jan Mayen.
 #:'''Translations'''
 #:*[[Danish]]: Jan Mayen
 #:*[[Dutch]]: Jan Mayen
@@ -12,6 +12,7 @@
 #:*[[German]]: Jan Mayen
 #:*[[Greek]]: [[Γιαν Μαϋέν]], [[Γιαν Μαγιέν]]
 #:*[[Italian]]: Jan Mayen
+#:*[[Polish]]: Jan Mayen
 #:*[[Portuguese]]: Jan Mayen
 #:*[[Russian]]: [[Ян Мейен]]
 #:*[[Spanish]]: Jan Mayen
