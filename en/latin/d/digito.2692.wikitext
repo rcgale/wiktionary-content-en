@@ -5,7 +5,7 @@
 #:'''Translations'''
 #:*[[English]]: [[digit]], [[finger]], [[toe]]
 #:*[[Portuguese]]: [[dedo]], ''Poet.'' [[dígito]]
-#''Arith.'' Symbol used for the systematic representation of numbers.
+#''Arith.'' Symbol used for the systematic representation of numbers. Synonym: [[cifra]].
 #:'''Translations'''
-#:*[[English]]: [[digit]]
+#:*[[English]]: [[digit]], [[cipher]], [[figure]]
 #:*[[Portuguese]]: [[dígito]], [[algarismo]]
