@@ -1,4 +1,10 @@
-(en) printed papers, bound together
+===Noun===
+# Sheets of paper bound together to hinge at one edge. If blank sheets of paper this is commonly referred to as a notebook, however most books are printed material.
+# A betting system where "a book is kept". Derives from the use of a notebook to record what each person has bet.
+
+===Verb===
+# To reserve a facility for future use. "I want to book a hotel room for tomorrow night". "I can book tickets for the concert next week".
+# To account for / to penalise. "He was brought to book for his actions." "The police booked him for driving too fast".
 
 ==Translations==
 
