@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Short name: The Gambia; official name: Republic of The Gambia.
+#:'''Translations'''
+#:*[[Chinese]]: [[冈比亚]]
+#:*[[Danish]]: Gambia
+#:*[[Dutch]]: Gambia
+#:*[[Esperanto]]: [[Gambio]]
+#:*[[Finnish]]: Gambia
+#:*[[French]]: [[Gambie]]
+#:*[[German]]: Gambia
+#:*[[Greek]]: [[Γκάμπια]]
+#:*[[Interlingua]]: Gambia
+#:*[[Italian]]: Gambia
+#:*[[Polish]]: Gambia
+#:*[[Portuguese]]: [[Gâmbia]]
+#:*[[Russian]]: [[Гамбия]]
+#:*[[Spanish]]: Gambia
+#:*[[Swedish]]: Gambia
+
+''See'': [[Countries of the world]]
