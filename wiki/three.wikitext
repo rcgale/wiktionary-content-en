@@ -13,3 +13,4 @@ Old English ''þreo'', from Germanic ''*þrijiz'', from PIE ''*treyes''. Cognate
 *Icelandic: [[þrír]], [[þrjár]], [[þrjú]], masc, fem, neuter.
 *Lojban: [[ci]]
 *Swedish: [[tre]]
+*Korean: [[셋]] (set), [[삼]] (sam)
