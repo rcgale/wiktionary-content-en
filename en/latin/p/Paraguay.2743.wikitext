@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in South America. Official name: Republic of Paraguay.
+#:'''Translations'''
+#:*[[Chinese]]: [[巴拉圭]]
+#:*[[Danish]]: Paraguay
+#:*[[Dutch]]: Paraguay
+#:*[[Esperanto]]: [[Paragvajo]]
+#:*[[Finnish]]: Paraguay
+#:*[[French]]: Paraguay
+#:*[[German]]: Paraguay
+#:*[[Greek]]: [[Παραγουάη]]
+#:*[[Interlingua]]: Paraguay
+#:*[[Italian]]: Paraguay
+#:*[[Polish]]: [[Paragwaj]]
+#:*[[Portuguese]]: [[Paraguai]]
+#:*[[Russian]]: [[Парагвай]]
+#:*[[Spanish]]: Paraguay
+#:*[[Swedish]]: Paraguay
+
+''See'': [[Countries of the world]]
