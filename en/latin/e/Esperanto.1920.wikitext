@@ -5,6 +5,6 @@
 **http://www.esperanto.org
 **[[en:Esperanto|Wikipedia article in english about Esperanto]]
 
-*[[ISO]] International Abbreviation:  EO
+*[[en:International Organization for Standardization|ISO]] International Abbreviation:  EO
 
 *Territories : it´s not a territory originated language. It has a Fundamental  Grammar (logical kernel) with natural posterior add-ons.
