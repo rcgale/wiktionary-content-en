@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Gabonese Republic.
+#:'''Translations'''
+#:*[[Chinese]]: [[加蓬]]
+#:*[[Danish]]: Gabon
+#:*[[Dutch]]: Gabon
+#:*[[Esperanto]]: [[Gabono]]
+#:*[[Finnish]]: Gabon
+#:*[[French]]: Gabon
+#:*[[German]]: [[Gabun]]
+#:*[[Greek]]: [[Γκαμπόν]]
+#:*[[Interlingua]]: Gabon
+#:*[[Italian]]: Gabon
+#:*[[Polish]]: Gabon
+#:*[[Portuguese]]: [[Gabão]]
+#:*[[Russian]]: [[Габон]]
+#:*[[Spanish]]: [[Gabón]]
+#:*[[Swedish]]: Gabon
+
+''See'': [[Countries of the world]]
