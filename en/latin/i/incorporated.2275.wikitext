@@ -1,6 +1,6 @@
 ===[[noun]]===
 
-1. (US English) A type of [[company]] where the ownership has been arranged into [[share]]s. A [[shareholder]] has no responsibilities to the company and the potential losses of the shareholder are limited to the [[value]] of the stock turning to zero in the case of a [[bankrupcy]].
+1. (US English) A type of [[company]], a [[legal entity]] where the ownership has been arranged into [[share]]s. A [[shareholder]] has no responsibilities to the company and the potential losses of the shareholder are limited to the [[value]] of the stock turning to zero in the case of a [[bankrupcy]].
 
 '''Translations'''
 
