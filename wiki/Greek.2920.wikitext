@@ -1,15 +1,15 @@
-===Noun===
-#inhabitant of [[w:Greece|Greece]], person from Greek descent
+===[[Noun]]===
+#Inhabitant of [[w:Greece|Greece]], person from Greek descent
 #:'''[[translation]]s'''
 #:*[[Dutch]]: [[Griek]]
 #:*[[Esperanto]]: [[Greko]]
 
-#Indo-European language, primarily spoken in Greece
+#[[w:IndoEuropean|Indo-European]] language, primarily spoken in Greece
 #:'''translations'''
 #:*[[Dutch]]: [[Grieks]]
 #:*[[Esperanto]]: [[Greka]] ([[lingvo]])
 
-===Adjective===
+===[[Adjective]]===
 #of Greece, Greek people or the Greek language
 #:'''translations'''
 #:*[[Dutch]]: [[Grieks]]
