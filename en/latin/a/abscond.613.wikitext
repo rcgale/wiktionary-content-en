@@ -5,7 +5,7 @@ imperfect and past participle: [[Absconded]]; <br>
 present participle and verbal noun: [[Absconding]]
 #To hide, withdraw, or be concealed.
 #:'''Quotations'''
-#:*The marmot ''absconds'' all winter. - [[RayRay]]
+#:*The marmot ''absconds'' all winter. - [[Ray]]
 #To depart [[clandestinely]]; to [[steal]] off and [[secrete]] one's self; -- used especially of persons who withdraw to avoid a legal process; as, an ''absconding'' [[debtor]].
 #:'''Quotations'''
 #:*That very homesickness which, in regular armies, drives so many recruits to ''abscond''. - [[Macaulay]]
