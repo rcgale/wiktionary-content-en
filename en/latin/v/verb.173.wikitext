@@ -12,7 +12,8 @@ From old French ''verbe'', which derives from Latin ''verbum'' (word), from Indo
 
 ==Translations==
 
-*[[German]]: Verb, [[Verbum]]
+*[[Arabic]]: [[فعل]]
+*[[German]]: Zeitwort, Verb, [[Verbum]]
 *[[Spanish]]: [[Verbo]]
 *[[French]]: [[Verbe]]
 *[[Hebrew]]: [[פועל]]
