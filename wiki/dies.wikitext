@@ -6,6 +6,8 @@ Plural of [[die]] when used in the sense of a pattern
 
 ----
 ==Latin==
+===Noun===
+May be masculine or feminine
 :Singular declension
 ::Nominative: ''dies''
 ::Genitive: ''diei''
