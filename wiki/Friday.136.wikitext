@@ -3,6 +3,7 @@
 #The fifth day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
+*Blackfoot: [[Mamiiksistsiko]]
 *de: [[Freitag]]
 *eo: [[vendredo]]
 *es: [[viernes]]
