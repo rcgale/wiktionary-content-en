@@ -3,6 +3,7 @@
 #The first day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
+*az: [[bazar eretsi]]
 *Blackfoot: [[Issikatoyiiksistsiko]]
 *de: [[Montag]]
 *es: [[lunes]]
