@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Middle East. Official name: Lebanese Republic.
+#:'''Translations'''
+#:*[[Chinese]]: [[黎巴嫩]]
+#:*[[Danish]]: [[Libanon]]
+#:*[[Dutch]]: [[Libanon]]
+#:*[[Esperanto]]: [[Libano]]
+#:*[[Finnish]]: [[Libanon]]
+#:*[[French]]: [[Liban]]
+#:*[[German]]: [[Libanon]]
+#:*[[Greek]]: [[Λίβανος]]
+#:*[[Interlingua]]: [[Libano]]
+#:*[[Italian]]: [[Libano]]
+#:*[[Polish]]: [[Liban]]
+#:*[[Portuguese]]: [[Líbano]]
+#:*[[Russian]]: [[Ливан]]
+#:*[[Spanish]]: [[Líbano]]
+#:*[[Swedish]]: [[Libanon]]
+
+''See'': [[Countries of the world]]
