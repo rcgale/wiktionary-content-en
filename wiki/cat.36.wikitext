@@ -7,6 +7,10 @@
 ''[[verb]]'':
 #(Computer jargon): To direct the contents of an entire file to the screen or some other output device without pause. By extension, to dump large amounts of data at an unprepared target or with no intention of browsing it carefully. Origin: contraction of the word ''[[concatenate]]''. Usage: Rare outside Unix sites. 
 
+===Proverbs/Idioms===
+* "The cat's whiskers" - excellent, outstanding
+* "Cat and [[mouse]] game" - to toy with someone or something
+
 '''Translations'''
 
 *es: gato
