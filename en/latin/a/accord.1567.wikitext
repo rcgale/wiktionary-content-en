@@ -1,3 +1,3 @@
-[[noun]] An agreement.
+[[noun]] An agreement. [[verb]] To agree with or concurr.
 
-*Spanish ''acuerdo''
+*Spanish (n.) ''acuerdo'', ''acordar''
