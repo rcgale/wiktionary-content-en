@@ -13,7 +13,8 @@
 
 noun
 
-*fr: brun
-*es: pardo
-*nl: bruin
 *de: braun
+*es: pardo
+*fr: brun
+*nl: bruin
+*se: brun
