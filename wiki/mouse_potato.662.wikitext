@@ -1,0 +1,7 @@
+[Mouse Po-ta-toe] /____/
+
+1) A person who spends all there time eating and using a computer.
+
+===Etymology===
+
+Varient of [[Couch Potatoe]]
