@@ -17,10 +17,12 @@
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
 *[[Greek]]: [[Aετός]]
 *[[Hungarian]]: [[Sas]] 
+*[[Icelandic]]: [[Örn]]
 *[[Italian]]: [[Aquila]], [[Àquila]]
+*[[Korean]]: [[독수리]] (needs to be checked by speaker)
 *[[Latin]]: [[Aqvila]]
 *[[Norwegian]]: [[Ørn]]
 *[[Polish]]: [[Orzeł]] (1)
-*[[Russian]]: [[Oрел]] 
+*[[Russian]]: [[Oрел]] (needs to be checked by speaker)
 *[[Spanish]] : [[Águila]] (1)
 *[[Swedish]]: [[Örn]]
