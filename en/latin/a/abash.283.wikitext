@@ -29,6 +29,6 @@ Present Participle
 :'''Quotations'''
 :*Satan stood Awhile as mute, ''confounded'' what to say. - [[Milton]].
 
-<HR> <P> <H3>Translations</H3><BR>•[[French]] fr: [[Confonder]]<BR>•[[German]] de: [[Beschämen Sich]]<BR>•[[Interlingua]] ia: [[Confunder]]<BR>•[[Italian]] it: [[]]<BR>•[[Portuguese]] pt: [[]]<BR>•[[Spanish]] es: [[]]<BR>•[[Confundir]]: [[]]
+<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Confonder]]<BR>• [[German]]: [[Beschämen Sich]]<BR>• [[Interlingua]]: [[Confunder]]<BR>• [[Italian]]: [[]]<BR>•[[Portuguese]] pt: [[]]<BR>•[[Spanish]]: [[]]<BR>• [[Confundir]]: [[]]
 
-Abashed <BR><H5>[[Adjective]] / [[Past Participle]]</H5> <BR>•[[French]] fr: [[Confondu]]<BR>•[[German]] de: [[Beschämt]]<BR>•[[Interlingua]] ia: [[Confundite]], [[Disconcertate]]<BR>•[[Italian]] it: [[]]<BR>•[[Portuguese]] pt: [[Confundido]]<BR>•[[Spanish]] es: [[Confundido]]<BR>•[[]]: [[]]
+Abashed, <H5>[[Adjective]] / [[Past Participle]]</H5> <BR>• [[French]]: [[Confondu]]<BR>• [[German]]: [[Beschämt]]<BR>• [[Interlingua]]: [[Confundite]], [[Disconcertate]]<BR>• [[Italian]]: [[]]<BR>• [[Portuguese]]: [[Confundido]]<BR>• [[Spanish]]: [[Confundido]]<BR>• [[]]: [[]]
