@@ -1,5 +1,7 @@
 ==[[Interlingua]]==
 /'digito/
+===[[Etymology]]===
+From Latin [[digitus]] 'digit'.
 ===[[noun]]===
 #Each one of the articulated prolongments that end the feet and the hands of man and other animals.
 #:'''Translations'''
@@ -9,3 +11,8 @@
 #:'''Translations'''
 #:*[[English]]: [[digit]], [[cipher]], [[figure]]
 #:*[[Portuguese]]: [[dígito]], [[algarismo]]
+===[[Phrases]]===
+*[[digito indice]]
+*[[digito medie]]
+*[[digito anular]]
+*[[digito auricular]]
