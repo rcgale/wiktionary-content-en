@@ -1,0 +1,9 @@
+Substantive \Sub"stan*tive\
+
+''[[adjective]]'' 
+# being the essence or essential element of a thing; "substantial equivalents"; "substantive information" [''syn:'' [[substantial]], [[in essence]]]
+# (law) applying to essential legal principles and rules of right; "substantive law" [syn: essential] [''ant:'' [[adjective]]]
+# having substance and prompting thought; "a meaty discussion" [''syn:'' [[meaty]]]
+
+''[[noun]]''
+# a noun or a pronoun that is used in place of a noun
