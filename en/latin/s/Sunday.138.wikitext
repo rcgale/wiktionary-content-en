@@ -16,6 +16,7 @@
 *[[Georgian]]: [[კვირადღე]]
 *he: [[יום ראשון]] (yom ree-SHON)
 *hr: [[Nedjelja]]
+*hu: [[vasárnap]]
 *mi: [[rätapu]]
 *nl: [[zondag]]
 *pl: [[niedziela]]
