@@ -1,14 +1,23 @@
-Koira ([[CanisFamiliaris]], lat.) on nelijalkainen nisäkäs.
-Koiria pidetään kotieläiminä; luonnonvaraisina niitä esiintyy
-vain villiintyneinä.
+/koira/, ''noun'' (sf == finnish)
 
-Sanontoja:
-#'''Se koira älähtää, johon kalikka kalahtaa'''
+==Etymology==
 
-Termi muilla kielillä:
+Unknown.
 
-*Englanti [[dog]]
-*Japani [[neko]]
-*Ranska [[chien]]
-*Ruotsi [[hund]]
-*Saksa [[hund]]
+Related words: [[koiruus]] (sf), [[koiramainen]] (sf).
+
+== Sayings ==
+
+# "'''Se koira älähtää, johon kalikka kalahtaa'''" ("the dog that gets hit, yells loudly"; refers to belief that the person(s) protesting loudest are likely to be guilty)
+
+==Translations==
+
+*en [[dog]]
+*jp [[neko]]
+*fr [[chien]]
+*se [[hund]]
+*ge [[hund]]
+
+==Thesaurus==
+
+[[hauva]] ("baby talk", ie. "[[doggy]]").
