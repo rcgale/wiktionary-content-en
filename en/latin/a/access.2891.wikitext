@@ -3,6 +3,7 @@ French ''accès'', Latin ''accessus'', from ''accedere''. See [[Accede]]
 ===Noun===
 # permission to [[approach]]
 #:'''Translations'''
+#:*[[Finnish]]: [[pääsy]]
 #:*[[French]]: [[accès]]
 #:*[[German]]: [[Zugriff]]
 #:*[[Interlingua]]: [[accesso]]
