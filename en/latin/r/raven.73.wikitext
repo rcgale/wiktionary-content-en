@@ -1,6 +1,6 @@
 Ra-ven
 
-/rā'v[e]n/ [[SAMPA]]: r{v@n
+/rā'v[e]n/ [[SAMPA]]: /r{v@n/
 
 [[noun]] '''(en)'''
 #A large [[black]] [[bird]] (''Corvus corax''), similar to the [[crow]], but larger.
@@ -15,7 +15,7 @@ Ra-ven
 #To [[devour]] with great [[eagerness]].
 #To [[prey]] with [[rapacity]]; to be [[greedy]]; to show [[rapacity]].
 
-SAMPA: rav@(n)
+SAMPA: /rav@(n)/
 
 noun '''(nl)'''
 #Plural of [[raaf]]
