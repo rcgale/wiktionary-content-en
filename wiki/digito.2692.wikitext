@@ -11,7 +11,7 @@ From Latin [[digitus]] 'digit'.
 #:'''Translations'''
 #:*[[English]]: [[digit]], [[cipher]], [[figure]]
 #:*[[Portuguese]]: [[dígito]], [[algarismo]]
-===[[Phrases]]===
+===Phrases===
 *[[digito indice]]
 *[[digito medie]]
 *[[digito anular]]
