@@ -1,5 +1,5 @@
 ===Etymology===
-From old English "wicu'", from a German *[[wikon]], which probably originally meant something like ''turn'' or ''succession''. Related to a verb *[[wikanan]] (''to bend''). The Dutch noun derives fro a related verb *[[waikwaz]] (''to yield''), via the current Dutch form [[wijken]].
+From old English "wicu'", from a German *[[wikon]], which probably originally meant something like ''turn'' or ''succession''. Related to a verb *[[wikanan]] (''to bend''). The Dutch noun derives from a related verb *[[waikwaz]] (''to yield''), via the current Dutch form [[wijken]].
 
 Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (week), old saxon "wika", old Norse "vika", Gothic "wik&ocirc;" (''turn for temple service'').
 
@@ -30,7 +30,7 @@ See English etymology above
 
 ===Noun===
 
-# week
+# A [[period]] of [[seven]] [[day]]s, week
 
 
 ===Adverb===
@@ -40,7 +40,3 @@ See English etymology above
 ===Verb===
 # present tense singular of [[weken]] (to [[soak]])
 # past tense singular of [[wijken]] (to make way)
-
-
-===Noun===
-# A [[period]] of [[seven]] [[day]]s
