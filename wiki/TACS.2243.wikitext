@@ -1,0 +1,7 @@
+==[[Abbreviation]]==
+
+#[[Total Access Communication System]]
+
+===Related words===
+
+*[[mobile phone]]
