@@ -5,3 +5,7 @@
 2. A fortified wine
 
 3. (Queensland, Australia) a schoolbag
+
+==Translations==
+
+*nl: [[haven]] (1), [[port]] (2), [[schooltas]] (3)
