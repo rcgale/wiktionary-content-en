@@ -1,1 +1,1 @@
-#redirect[[smiley]]
+#redirect [[smiley]]
