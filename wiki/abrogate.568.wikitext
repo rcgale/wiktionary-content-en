@@ -1,0 +1,17 @@
+'''Abrogate''', ''[[adjective (part of speech)|adjective]]'' [L. ''abrogatus'', p. p.]
+
+[[Abrogated]]; [[abolished]]. [Obs.] ''[[Latimer (source)|Latimer]].''
+-----
+'''Abrogate''', ''[[transitive verb (part of speech)|transitive verb]]'' [''[[imp. (part of speech)|imp.]] & [[past participle (part of speech)|past participle]]'' [[Abrogated]]; ''[[present participle (part of speech)|present participle]] & [[vb. n. (part of speech)|vb. n.]]'' [[Abrogating]].] [L. ''abrogatus'', p. p. of ''abrogare''; ''ab'' + ''rogare'' to ask, require, [[propose]]. See [[Rogation]].]
+
+<ol>
+<li>To [[annul]] by an [[authoritative]] act; to [[abolish]] by the authority of the maker or his [[successor]]; to [[repeal]]; -- applied to the repeal of laws, decrees, [[ordinances]], the [[abolition]] of customs, etc.
+
+<code>Let us see whether the New Testament ''abrogates'' what we so frequently see in the Old. ''[[South (source)|South]].''</code>
+
+<code>Whose laws, like those of the Medes and Persian, they can not alter or ''abrogate''. ''[[Burke (source)|Burke]].''</code>
+
+<li> To put an end to; to do away with. ''[[Shakespeare (source)|Shakespeare]].''
+
+'''Synonyms:''' -- To [[abolish]]; [[annul]]; do away; set aside; [[revoke]]; repeal; [[cancel]]; [[annihilate]]. See [[Abolish]].
+</ol>
