@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Caribbean. Official name: Republic of Haiti.
+#:'''Translations'''
+#:*[[Chinese]]: [[海地]]
+#:*[[Danish]]: Haiti
+#:*[[Dutch]]: [[Haïti]]
+#:*[[Esperanto]]: [[Haitio]]
+#:*[[Finnish]]: Haiti
+#:*[[French]]: [[Haïti]]
+#:*[[German]]: Haiti
+#:*[[Greek]]: [[Αϊτή]]
+#:*[[Interlingua]]: Haiti
+#:*[[Italian]]: Haiti
+#:*[[Polish]]: Haiti
+#:*[[Portuguese]]: Haiti
+#:*[[Russian]]: [[Гаити]]
+#:*[[Spanish]]: Haití
+#:*[[Swedish]]: Haiti
+
+''See'': [[Countries of the world]]
