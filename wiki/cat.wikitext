@@ -11,7 +11,7 @@
 ===Proverbs/Idioms===
 * "The cat's whiskers" - excellent, outstanding
 * "Cat and [[mouse]] game" - to toy with someone or something
-* "While the cat's away the mice will will play" - In the absence of a controlling entity, subordinates will take advantage of the situation.
+* "While the cat's away the mice will play" - In the absence of a controlling entity, subordinates will take advantage of the situation.
 
 '''Translations'''
 
@@ -21,6 +21,7 @@
 *he: חתול
 *it: gatto
 *nl: kat
+*no: katt
 *ja: neko
 *pl: kot
 *pt: gato
