@@ -7,6 +7,8 @@
 #:*[[German]]: [[heute]]
 #:*[[Hebrew]]: [[היום]]
 #:*[[Hungarian]]: [[ma]]
+#:*[[Japanese]]: [[今日]] (きょう;kyou)
+#:*[[Korean]]: [[오늘]] (oneul)
 #:*[[Portuguese]]: [[hoje]]
 #:*[[Spanish]]: [[hoy]]
 #:*[[Swedish]]: [[idag]]
