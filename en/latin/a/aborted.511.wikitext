@@ -5,3 +5,11 @@ Derivative of [[abort]]
 #''(Biology):'' Rendered [[abortive]] or [[sterile]]; [[undeveloped]]; checked in normal development at a very early stage; as, spines are ''aborted'' branches.
 #:'''Quotations'''
 #:*The eyes of the cirripeds are more or less ''aborted'' in their mature state. - [[Owen]].
+----
+'''Translations]]]
+* [[French]]: [[Aborté]]
+* [[German]]: [[]]
+* [[Interlingua]]: [[Abortate]]
+* [[Italian]]: [[Terminato]]
+* [[Portuguese]]: [[Abortado]]
+* [[Spanish]]: [[Abortado]]
