@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# [[British]] overseas territory in the Caribbean. Official name: Bermuda.
+#:'''Translations'''
+#:*[[Danish]]: Bermuda
+#:*[[Dutch]]: Bermuda
+#:*[[Esperanto]]: [[Bermudo]], [[Bermudoj]]
+#:*[[Finnish]]: Bermuda
+#:*[[French]]: [[Bermudes]]
+#:*[[German]]: [[Bermudas]]
+#:*[[Greek]]: [[Βερμούδες]]
+#:*[[Interlingua]]: Bermuda
+#:*[[Italian]]: Bermuda
+#:*[[Polish]]: [[Bermudy]]
+#:*[[Portuguese]]: [[Bermudas]]
+#:*[[Russian]]: [[Бермуды]]
+#:*[[Spanish]]: [[Bermudas]]
+#:*[[Swedish]]: Bermuda
+
+''See'': [[Countries of the world]]
