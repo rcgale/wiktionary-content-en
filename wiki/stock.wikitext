@@ -1,7 +1,6 @@
-'''Noun'''
-
-In economics, it is synonym of a company share
+===Noun===
+#In economics, it is synonym of a company share
+===Translation===
+* French : [[action]]
 ===Related words===
 * [[stock performance]]
-==Translation==
-* French : action
