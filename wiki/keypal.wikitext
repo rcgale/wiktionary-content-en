@@ -1,4 +1,4 @@
-The [[e-mail]] equivalent of a [[pen pal]] - someone with whom to exchange e-mail for the simple joy of communicating. 
+The [[e-mail]] equivalent of a [[penpal]] - someone with whom to exchange e-mail for the simple joy of communicating. 
 
 ----
 ''This article (or an earlier version of it) contains material from [[FOLDOC]], used with [[Public Domain Resources/Foldoc license|permission]].''
