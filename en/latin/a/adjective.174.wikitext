@@ -4,6 +4,7 @@
 # a "describing word", modifying a [[noun]]
 #:'''Translations'''
 #:*[[Dutch]]: [[bijvoeglijk]] [[naamwoord]]
+#:*[[Finnish]]: [[adjektiivi]]
 #:*[[French]]: [[adjectif]]
 
 ===Adjective===
