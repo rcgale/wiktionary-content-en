@@ -1,6 +1,7 @@
 /[[Pronunciation guide|frai]]/, ''adjective'' '''(de)'''
 
 # Not [[imprisoned]] or [[enslaved]]. ''ein freier [[Mann]]''
+# No [[payment]] necessary (rarely used). ''Freibier''
 # Un[[limit]]ed. ''Ihm wurde freie [[Macht]] über das [[Land]] gegeben''
 # Without [[obligation]]s. ''Frei[[zeit]]''
 
@@ -14,4 +15,8 @@ Related words: en [[free]], nl [[vrij]]
 
 *en: [[free]]
 *fr: [[libre]]
-*nl: [[vrij]]
+*nl: [[vrij]], gratis (2)
+
+==Thesaurus==
+
+[[gratis]], [[kostenlos]] (more common translations in case (2))
