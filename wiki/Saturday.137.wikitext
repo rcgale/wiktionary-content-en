@@ -3,11 +3,13 @@
 #The sixth day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
-*de: Samstag
-*es: sábado
+*de: [[Samstag]]
+*eo: [[sabato]]
+*es: [[sábado]]
 *fr: [[samedi]]
 *[[Georgian]]: [[შაბათი]]
 *he: [[שבת]]
+*it: [[sabato]]
 *nl: [[zaterdag]]
 *pl: [[sobota]]
 *pt: [[s&aacute;bado]]
