@@ -5,4 +5,5 @@
 ===Translations===
 *Dutch: [[stedelijk]]
 *French: [[urbain]]
+*German: [[städtisch]]
 *Spanish: [[urbano]]
