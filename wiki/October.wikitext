@@ -8,3 +8,4 @@
 *es: [[octubre]]
 *fr: [[octobre]]
 *nl: [[oktober]]
+*pl: [[październik]]
