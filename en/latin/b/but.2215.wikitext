@@ -1,4 +1,4 @@
-==[[Adverb]]==
+===[[Adverb]]===
 
 ===Synonyms===
 *[[however]]
@@ -10,3 +10,7 @@
 *German: [[aber]]
 *Hebrew: [[אבל]],[[אך]]
 *Spanish: [[pero]]
+
+==French==
+===[[noun]]===
+#[[goal]]
