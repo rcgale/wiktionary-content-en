@@ -6,4 +6,5 @@
 
 * Dutch: [[kwart]] (1), [[trimester]] (3)
 * French: [[trimestre]]
+* German: [[Viertel]] (1), [[Quartal]] (3)
 * spanish: [[trimestre]]
