@@ -1,9 +1,9 @@
 ===Etymology===
-From the [[inventor]] of the flushing toilet, Thomas Crapper.
+From the [[inventor]] of the flushing toilet surname, Thomas Crapper.
 
 .....
 
 slang
 
-1)Something that is rubbish, useless.
-2)Remains of food that has not been digetsed that comes out of the [[anus]].
+*1)Something that is rubbish, useless.
+*2)Remains of food that has not been digetsed that comes out of the [[anus]].
