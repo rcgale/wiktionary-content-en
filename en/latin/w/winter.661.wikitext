@@ -7,3 +7,4 @@
 *et: talv
 *fr: [[hiver]]
 *he: חורף
+*yi: װינטער
