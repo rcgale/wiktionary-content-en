@@ -1,8 +1,7 @@
-* 
-
-* period of three monthes
+* period of three months
 
 ==Translations==
 
-* French : [[trimestre]]
-* spanish : [[trimestre]]
+* Dutch: [[trimester]]
+* French: [[trimestre]]
+* spanish: [[trimestre]]
