@@ -1,6 +1,13 @@
 [Brown]  /broun/
 
-1)A colour; the [[tertiary]] colour of the primary colours, red, green and blue.
+''[[noun]]'':
+
+#A dark colour; the [[tertiary]] colour of the primary colours, red, green and blue.
+
+''[[verb]]'':
+#To become brown
+#(Culinary) To fry food in e.g. a pan until it changes colour. Example "Fry until browned".
+
 
 '''Translations'''
 
