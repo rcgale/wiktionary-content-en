@@ -1,1 +1,1 @@
-#Former name of the [[Democratic Republic of Congo]]
+#Former name of the Democratic Republic of the [[Congo]]
