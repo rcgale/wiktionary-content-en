@@ -1,3 +1,2 @@
-Accronym for:
-
+===Accronym===
 *Random Access Memory
