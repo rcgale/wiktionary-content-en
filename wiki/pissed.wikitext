@@ -1,3 +1,9 @@
-1. (adjective; chiefly British) drunk
+===Etymology===
+Derivative of [[piss]]
 
-2. (adjective; chiefly American) to be angry or annoyed
+===Verb===
+#Past tense and past participle of [[piss]].
+
+===Adjective==
+#Drunk
+#(chiefly American) to be angry or annoyed
