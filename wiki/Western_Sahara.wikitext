@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Northern Africa.
+#:'''Translations'''
+#:*[[Danish]]: [[Vestsahara]]
+#:*[[Dutch]]: [[Westelijke Sahara]]
+#:*[[Esperanto]]: [[Okcidenta Saharo]], [[Saharo Okcidenta]]
+#:*[[Finnish]]: [[Länsi-Sahara]]
+#:*[[French]]: [[Sahara occidental]]
+#:*[[German]]: [[Westsahara]]
+#:*[[Greek]]: [[Δυτική Σαχάρα]]
+#:*[[Interlingua]]: [[Sahara Occidental]]
+#:*[[Italian]]: [[Sahara occidentale]]
+#:*[[Polish]]: [[Sahara Zachodnia]]
+#:*[[Portuguese]]: [[Sara Ocidental]]
+#:*[[Russian]]: [[Западная Сахара]]
+#:*[[Spanish]]: [[Sáhara Occidental]]
+#:*[[Swedish]]: [[Västsahara]]
+
+''See'': [[Countries of the world]]
