@@ -3,7 +3,7 @@
 A [[period]] in which a [[year]] is divided. In the Gregorian [[calendar]] there are twelve months: [[January]], [[February]], [[March]], [[April]], [[May]], [[June]], [[July]], [[August]], [[September]], [[October]], [[November]] and [[December]].
 
 ==Etymology==
-Old English [[monat]], from Germanic *[[manoth]], which is related to *[[manon]] ''moon''. Both are derived from an indogermanic *[[menses-]], which may derive in turn from *[[m&ecirc;-]] ''meten''.
+Old English [[monat]], from Germanic *[[manoth]], which is related to *[[manon]] ''moon''. Both are derived from an indogermanic *[[menses-]], which may derive in turn from *[[mê-]] ''meten''.
 
 ==Translations==
 *de: [[Monat]]
