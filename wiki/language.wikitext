@@ -14,3 +14,4 @@
 *[[Polish]]: [[język]]
 *[[Portuguese]]: [[língua]], [[idioma]]
 *[[Spanish]]: [[idioma]]
+*[[Swedish]]: [[språk]]
