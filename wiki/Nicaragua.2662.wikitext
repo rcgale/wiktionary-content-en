@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Central America. Official name: Republic of Nicaragua.
+#:'''Translations'''
+#:*[[Chinese]]: [[尼加拉瓜]]
+#:*[[Danish]]: Nicaragua
+#:*[[Dutch]]: Nicaragua
+#:*[[Esperanto]]: [[Nikaragvo]]
+#:*[[Finnish]]: Nicaragua
+#:*[[French]]: Nicaragua
+#:*[[German]]: Nicaragua
+#:*[[Greek]]: [[Νικαράγουα]]
+#:*[[Interlingua]]: Nicaragua
+#:*[[Italian]]: Nicaragua
+#:*[[Polish]]: [[Nikaragua]]
+#:*[[Portuguese]]: [[Nicarágua]]
+#:*[[Russian]]: [[Никарагуа]]
+#:*[[Spanish]]: Nicaragua
+#:*[[Swedish]]: Nicaragua
+
+''See'': [[Countries of the world]]
