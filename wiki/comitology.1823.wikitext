@@ -1,5 +1,7 @@
-(noun)
-
-1. (often stated, but not entirely seriously, as an explanation for sense 2) the art or science of resolving matters by means of committees
-
-2. (European Union) the system of committees, composed of representatives of the member states, used to oversee European Commission implementing acts made under European Union legislation
+===Variant spelling===
+Comitology; often used but inconsistent with derivation
+===Etymology===
+Derived from [[committee]]
+===Noun===
+#(often stated, but not entirely seriously, as an explanation for sense 2) the art or science of resolving matters by means of committees
+#(European Union) the system of committees, composed of representatives of the member states, used to oversee European Commission implementing acts made under European Union legislation
