@@ -10,6 +10,6 @@
 ===Translations===
 *Dutch: [[verdrag]], [[overeenkomst]], [[traktaat]]
 *French: [[traité]]
-*German: [[Vertrag]]
+*German: [[Vertrag]], [[Bündnis]]
 *Polish: [[traktat]], [[umowa]]
 *Spanish: [[tratado]]
