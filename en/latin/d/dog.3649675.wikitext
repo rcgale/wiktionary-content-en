@@ -28,7 +28,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 
 ==Translation==
 
-*Chinese: &#29357;
+*Chinese: [[&#29356;]]
 *Hebrew: כלב
 
 == Further reading ==
