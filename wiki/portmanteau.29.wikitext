@@ -13,6 +13,9 @@ Plural, portmanteaus, portmanteaux
 
 *'''1995''' -Michael Cart, ''From Romance to Realism'', page 110, ISBN 0060242892 '"[[Multiculturalism]]" is a portmanteau word, containing in its [[definition]] and its [[resonance|resonant]] [[connotation|connotations]] as many [[concept|concepts]] as a suitcase does socks'
 
+== Translations ==
+*nl: [[kostuumkoffer]], [[koffer]] (1); [[mengwoord]] (2)
+
 == Further reading ==
 
 * [[w:portmanteau|Wikipedia article]]
