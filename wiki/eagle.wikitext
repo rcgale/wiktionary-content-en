@@ -8,7 +8,7 @@
 
 ===Translations===
 
-*[[Dutch]]: [[arend]], [[adelaar]]
+*[[Dutch]]: [[arend]], [[adelaar]] (1)
 *[[Spanish]] : [[águila]] (1)
 *[[French]]: [[aigle]] (1)
 *[[Latin]]: [[Aqvila]]
