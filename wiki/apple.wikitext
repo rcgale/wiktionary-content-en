@@ -8,4 +8,5 @@
 *Dutch: appel (fruit)
 *French: pomme (fruit)
 *Spanish: manzana (fruit)
-*Japanese: ringo (fruit)
+*Japanese: りんご (ringo) (fruit)
+*Korean: 사과 (sagwa) (fruit)
