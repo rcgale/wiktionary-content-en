@@ -5,5 +5,6 @@
 ===Translations===
 
 *Dutch: [[bloed]]
+*Finnish: [[veri]]
 *French: [[sang]]
 *Spanish: [[sangre]]
