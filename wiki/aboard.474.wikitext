@@ -14,3 +14,5 @@ Prefix ''a-'' on, in + ''board''
 *'''To haul the tacks aboard''', to set the courses.
 *'''To keep the land aboard''', to hug the shore.
 *'''To lay (a ship) aboard''', to place one's own ship close [[alongside]] of (a ship) for [[fighting]].
+
+<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[ à bord de]]<BR>• [[German]]: [[An Bord]]<BR>• [[Interlingua]]: [[A bordo de]]<BR>• [[Italian]]: [[A bordo di]]<BR>• [[Portuguese]]: [[A bordo de]]<BR>• [[Spanish]]: [[A bordo de]]<BR>• [[]]: [[]]
