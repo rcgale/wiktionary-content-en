@@ -15,13 +15,14 @@
 #:*[[Italian]]: [[inglese]]
 #:*[[Portuguese]]: [[inglês]]
 #:*[[Spanish]]: [[inglés]]
+#:*[[Hindi]]: [[]] (englezi)
 # Person from [[England]].
 #:'''Translations'''
 #:*[[Catalan]]: (m) [[anglès]], (f) [[anglesa]]
 #:*[[Dutch]]: [[Engelsman]] (masc.), [[Engelse]] (fem.), [[Engelsen]] (plur.)
 #:*[[Esperanto]]: [[anglo]]
 #:*[[Finnish]]: [[englatilainen]]
-#:*[[French]]: [[anglais]]
+#:*[[French]]: [[Anglais]]
 #:*[[German]]: [[Engländer]] 
 #:*[[Interlingua]]: [[anglese]]
 #:*[[Italian]]: [[inglese]]
