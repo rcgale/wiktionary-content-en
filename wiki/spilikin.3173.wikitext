@@ -1,0 +1,9 @@
+===Variant spellings===
+[[spillikin]] - [[spilliken]]
+===Etymology===
+Old Dutch ''spelleken'' a small pin. Cf. [[spill]]
+===Noun===
+#a small peg used for playing a game or for keeping score, as in [[cribbage]]
+#''(Plural):'' a game played with such pegs, pushpin
+#a jackstraw or pickup stick
+#''(Plural):'' the game of [[jackstraw]] or [[pick up sticks]]
