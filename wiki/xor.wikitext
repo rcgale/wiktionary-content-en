@@ -2,6 +2,11 @@
 '''XOR'''
 #Logic function exclusive OR, true if one and only one of two inputs is true. Expression ''exclusive'' as difference from inclusive [[OR]].
 
+(0 XOR 0) = 0
+(0 XOR 1) = 1
+(1 XOR 0) = 1
+(1 XOR 1) = 0
+
 ====Translations====
 
 *Finnish: [[EHDOTON TAI]]
