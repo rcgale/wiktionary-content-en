@@ -1,14 +1,15 @@
-[week] /wik/ '''(en)''' ''(noun)''
-
-# A [[period]] of [[seven]] [[day]]s, usually from [[Sunday]] to [[Saturday]], or from [[Monday]] to [[Sunday]].
-
-==Etymology==
+===Etymology===
 
 From old English "wicu'", from a German *[[wikon]], which probably originally meant something like ''turn'' or ''succession''. Related to a verb *[[wikanan]] (''to bend''). The Dutch noun derives fro a related verb *[[waikwaz]] (''to yield''), via the current Dutch form [[wijken]].
 
 Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (week), old saxon "wika", old Norse "vika", Gothic "wik&ocirc;" (''turn for temple service'').
 
-==Translations==
+===Pronunciation===
+/wik/
+===Noun===
+# A [[period]] of [[seven]] [[day]]s
+
+====Translations====
 
 * es: [[semana]]
 * de: [[Woche]]
@@ -22,19 +23,62 @@ Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (
 
 --------
 
-==Other languages==
+==Dutch==
+===Pronunciation===
 
-'''(nl)''' /weIk/
+/weIk/
 
-''(noun)''
+===Noun===
 
 # week
 # present tense singular of [[weken]] (to [[soak]])
 
-''(adverb)''
+===Adverb===
 
 # [[soft]]
 
-''(verb)''
+===Verb===
+
+# past tense singular of [[wijken]] (to make way)
+===Etymology===
+
+From old English "wicu'", from a German *[[wikon]], which probably originally meant something like ''turn'' or ''succession''. Related to a verb *[[wikanan]] (''to bend''). The Dutch noun derives fro a related verb *[[waikwaz]] (''to yield''), via the current Dutch form [[wijken]].
+
+Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (week), old saxon "wika", old Norse "vika", Gothic "wik&ocirc;" (''turn for temple service'').
+
+===Pronunciation===
+/wik/
+===Noun===
+# A [[period]] of [[seven]] [[day]]s
+
+====Translations====
+
+* es: [[semana]]
+* de: [[Woche]]
+* fr: [[semaine]]
+* he: [[שבוע]]
+* nl: week
+* pl: [[tydzień]]
+* sv: [[vecka]]
+* Wolof [[Ayubés]]
+* yi: [[וואָך]]
+
+--------
+
+==Dutch==
+===Pronunciation===
+
+/weIk/
+
+===Noun===
+
+# week
+# present tense singular of [[weken]] (to [[soak]])
+
+===Adverb===
+
+# [[soft]]
+
+===Verb===
 
 # past tense singular of [[wijken]] (to make way)
