@@ -7,5 +7,6 @@ From Latin [[aprilis]]. First in 1297 as ''aueril'', later re-latinized to ''app
 
 ==Translations==
 *de: April
+*es: abril
 *fr: [[avril]]
 *nl: april
