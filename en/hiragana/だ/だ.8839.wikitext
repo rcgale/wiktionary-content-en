@@ -16,6 +16,8 @@ There is no Kanji for だ.
 <TH>Form</TH>
 <TH>Japanese<BR>(Kana)</TH>
 <TH>[[Romaji]]</TH>
+<TH>Non-contracted<BR>(Kanji and Kana)</TH>
+<TH>Non-contracted<BR>(Romaji)</TH>
 <TH>Translation</TH>
 </TR>
 
@@ -23,6 +25,8 @@ There is no Kanji for だ.
 <TD>[[Japanese Plain Positive Present Form|Plain Positive Present Form]]</TD>
 <TD>&#12384;</TD>
 <TD>da</TD>
+<TD>である</TD>
+<TD>de aru</TD>
 <TD>To be</TD>
 </TR>
 
@@ -30,6 +34,8 @@ There is no Kanji for だ.
 <TD>[[Japanese Polite Positive Present Form|Polite Positive Present Form]]</TD>
 <TD>&#12391;&#12377;</TD>
 <TD>desu</TD>
+<TD>で御座います</TD>
+<TD>de gozaimasu</TD>
 <TD>To be</TD>
 </TR>
 
@@ -37,6 +43,8 @@ There is no Kanji for だ.
 <TD>[[Japanese Plain Positive Past Form|Plain Positive Past Form]]</TD>
 <TD>&#12384;&#12387;&#12383;</TD>
 <TD>datta</TD>
+<TD>であるかった</TD>
+<TD>de aru katta</TD>
 <TD>To have been</TD>
 </TR>
 
@@ -44,6 +52,8 @@ There is no Kanji for だ.
 <TD>[[Japanese Polite Positive Past Form|Polite Positive Past Form]]</TD>
 <TD>&#12391;&#12375;&#12383;</TD>
 <TD>deshita</TD>
+<TD>で御座いました</TD>
+<TD>de gozaimashita</TD>
 <TD>To have been</TD>
 </TR>
 
@@ -51,11 +61,15 @@ There is no Kanji for だ.
 <TD>[[Japanese Plain Negative Present Form|Plain Negative Present Form]]</TD>
 <TD>&#12376;&#12419;&#12394;&#12356;</TD>
 <TD>ja nai</TD>
+<TD>であるない</TD>
+<TD>de aru nai</TD>
 <TD>To not be</TD>
 </TR>
 
 <TR>
 <TD>[[Japanese Polite Negative Present Form|Polite Negative Present Form]]</TD>
+<TD>&#12391;&#12431;&#12354;&#12426;&#12414;&#12379;&#12435;</TD>
+<TD>de wa arimasen</TD>
 <TD>&#12391;&#12431;&#12354;&#12426;&#12414;&#12379;&#12435;</TD>
 <TD>de wa arimasen</TD>
 <TD>To not be</TD>
@@ -65,11 +79,16 @@ There is no Kanji for だ.
 <TD>[[Japanese Plain Negative Past Form|Plain Negative Past Form]]</TD>
 <TD>&#12376;&#12419;&#12394;&#12363;&#12387;&#12383;</TD>
 <TD>ja nakatta</TD>
+<TD>であるないかった</TD>
+<TD>de aru nai katta</TD>
 <TD>To have not been</TD>
 </TR>
 
 <TR>
 <TD>[[Japanese Polite Negative Past Form|Polite Negative Past Form]]</TD>
+<TD>&#12391;&#12431;&#12354;&#12426;&#12414;&#12379;&#12435;&#12391;&#12375;&#12383;
+</TD>
+<TD>de wa arimasen deshita</TD>
 <TD>&#12391;&#12431;&#12354;&#12426;&#12414;&#12379;&#12435;&#12391;&#12375;&#12383;
 </TD>
 <TD>de wa arimasen deshita</TD>
@@ -79,6 +98,8 @@ There is no Kanji for だ.
 <TR>
 <TD>[[Japanese Conjunctive Form|Conjunctive Form]]</TD>
 <TD>&#12391;</TD>
+<TD>de</TD>
+<TD>で</TD>
 <TD>de</TD>
 <TD>being</TD>
 </TR>
