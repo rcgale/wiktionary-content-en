@@ -16,4 +16,5 @@
 *pt: [[Domingo]]
 *sq: [[e diel]]
 *sv: [[söndag]]
+*Wolof: [[Dibéer]]
 *yi: [[זונטיק]]
