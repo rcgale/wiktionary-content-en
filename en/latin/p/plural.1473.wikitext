@@ -1,11 +1,11 @@
-''adjective''
-
+===[[Adjective]]===
 # More than one of something.
-:'''Antonym:''' [[singular]]
-
-'''Translations'''
-* de: Plural
-* es: plural
-* fr: pluriel
-* he: לשון רבים
-* nl: meervoud
+#:'''[[Antonym]]'''
+#:*[[singular]]
+#:'''Translations'''
+#:*[[Dutch]]: [[meervoud]]
+#:*[[French]]: [[pluriel]]
+#:*[[Frisian]]: [[meartal]]
+#:*[[German]]: Plural (on this page)
+#:*[[Hebrew]]: [[לשון רבים]]
+#:*[[Spanish]]: plural (on this page)
