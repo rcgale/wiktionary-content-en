@@ -11,21 +11,37 @@ Not ''statement''.
 
 ==== Translations ====
 *Dutch: [[niet]]
-*[[Esperanto]]: [[ne]]
+*Esperanto: [[ne]]
 *Finnish: [[ei]]
 *French: [[ne]] ... [[pas]]
 *German: [[nicht]]
 *hebrew: [[לא]]
-*[[Indonesian]]: [[bukan]], [[tidak]], [[tak]]
-*[[Interlingua]]: [[non]]
+*Indonesian: [[bukan]], [[tidak]], [[tak]]
+*Interlingua: [[non]]
 *Japanese: [[ではない]] (dewanai)
 *Polish: [[nie]]
 *Portuguese: [[não]]
-*[[Quechua]]: [[ama]]
+*Quechua: [[ama]]
 *Spanish: [[no]]
 *Swedish: [[inte]]
-*[[Tagalog]]: [[hindi]]
+*Tagalog: [[hindi]]
 *Turkish: [[değil]]
 *Yiddish: [[ניט]] (also [[נישט]])
 
-<!-- please add logic sense - but what part of speech? -->
+===None===
+'''NOT'''
+#Logic function NOT, true if input is false. 
+
+NOT 0 = 1<br>
+NOT 1 = 0<br>
+
+====Translation====
+
+*Finnish: [[EI]]
+
+====See also====
+*[[and]]
+*[[or]]
+*[[nand]]
+*[[nor]]
+*[[xor]]
