@@ -11,4 +11,5 @@ Describing a set or group with nine components. ''A cat has nine lives.''
 *[[French]] : [[neuf]]
 *[[Frisian]] : [[njoggen]]
 *[[German]] : [[neun]]
+*[[Korean]] : [[아홉]] (ahop), [[구]] (gu)
 *[[Spanish]] : [[nueve]]
