@@ -7,7 +7,7 @@
 plural = bones
 #Any of the bone parts of a skeleton.
 #:'''Translations'''
-#:*Dutch: [[been]]
+#:*Dutch: [[bot]], [[been]]
 #:*French: [[os]]
 #:*German: [[Knochen]]
 #:*Greek: [[οστούν]], [[κόκαλο]]
