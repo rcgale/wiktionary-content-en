@@ -1,0 +1,9 @@
+Abutment, <i>[[Noun]]</i>, ''limit, extreme end''. 
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Butée]]
+<BR>• [[German]]: [[Angrenzen]]
+<BR>• [[Interlingua]]: [[Confinamento]], [[Limite]]
+<BR>• [[Italian]]: [[Rinfianco]]
+<BR>• [[Portuguese]]: [[Limite]]
+<BR>• [[Spanish]]: [[Estribo]], [[Límite]]
+<BR>
