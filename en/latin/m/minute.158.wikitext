@@ -16,9 +16,11 @@
 ''noun''
 *es: minuto (1,2),minuta(3)
 *fr: minute (1,2,3)
+*he: דקה 
 *nl: minuut (1,2); notulen (plural) (3)
 *pl: minuta (1,2)
 *sv: minut (1); not (2,3)
+*yi: מינוט
 
 ''verb:''
 *nl: notuleren
