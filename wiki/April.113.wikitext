@@ -3,7 +3,7 @@
 #April is the 4th [[month]] in the Gregorian [[calendar]]. It has 30 days.
 
 ==Etymology==
-From Latin [[aprilis]].
+From Latin [[aprilis]]. First in 1297 as ''aueril'', later re-latinized to ''apprile''.
 
 ==Translations==
 *de: April
