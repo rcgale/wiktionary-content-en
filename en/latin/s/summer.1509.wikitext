@@ -1,5 +1,5 @@
 ===Meanings===
-# Traditionally the second of the four [[season]]s, normally from [[June]] 21 to [[September]] 20.
+# Traditionally the second of the four [[season]]s, typically regarded as being from [[June]] 21 to [[September]] 20 in Northern Hemisphere regions and from [[December]] to [[February]] in Southern Hemisphere regions.
 
 Usually marked by the applicable hemisphere of the planet being at its maximum angle of exposure to the Sun resulting in the longest days of the year and  typically the time period with the highest atmospheric [[temperature]]s for the region. 
 
