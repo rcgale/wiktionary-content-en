@@ -1,7 +1,7 @@
 Berdache (from French, from Arabic ''bardajo'') is a generic term used for a third gender (woman-living-man) among many, if not most, [[Native American]] tribes.
 
 Each tribe obviously had their own term for it. 
-**Winkte (Navajo)
+*Winkte (Navajo)
 
 They were often viewed as having two spirits.
 
