@@ -1,1 +1,1 @@
-'''Mandapa''' in subcontinental Indian architecture is a hall fronting a temple. It may be attached or detached from the building.
+'''Mandapa''' in subcontinental Indian architecture is a pillared hall fronting a temple. It may be attached or detached from the building.
