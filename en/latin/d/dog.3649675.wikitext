@@ -11,8 +11,7 @@ Dog \Dog\ \dôg\
 # metal supports for logs in a fireplace; "the andirons were too hot to touch" [syn: andiron, firedog, dogiron]
 
 [[verb|v.]]
-# : go after with the intent to catch [syn: chase, chase
-         after, trail, tail, tag, go after, track]
+# : go after with the intent to catch [syn: chase, chase after, trail, tail, tag, go after, track]
 
 == Further reading ==
 *[[en:Dog|Wikipedia article]]
