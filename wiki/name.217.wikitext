@@ -8,6 +8,8 @@
 
 [[verb]]
 # The [[act]] of [[give|giving]] [[someone]] or [[something]] a name. From ''The Land of Oz'' by L. Frank Baum'' ... "I will name the fellow 'Jack Pumpkinhead!'"
+# [[Choose]], as in ''You name it.''
+# [[Mention]], [[specify]], as in ''He named his demands.''
 
 ===Translations===
-*nl: noun: [[naam]] (1, 2); verb: [[noemen]], [[kiezen]] (as in ''Kies maar.'' (= ''You name it.''))
+*nl: noun: [[naam]] (1, 2); verb: [[noemen]] (1), [[kiezen]] (2), [[vermelden]], [[opnoemen]] (3)
