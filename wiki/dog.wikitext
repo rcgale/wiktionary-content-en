@@ -20,7 +20,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 ==Translations==
 
 *da: [[hund]]
-*de: [[Hund]]
+*de: [[hund]]
 *eo: [[hundo]]
 *es: [[perro]]
 *fr: [[chien]]
@@ -28,7 +28,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 *no: [[hund]]
 *pl: [[pies]]
 *pt: [[cachorro]]
-*sv: [[Hund]]
+*sv: [[hund]]
 
 == Proverbs ==
 *[[rain cats and dogs]]
