@@ -9,6 +9,7 @@
 ===Translations===
 
 *[[Dutch]]: [[Arend]], [[Adelaar]] (1)
+*[[Estonian]]: [[Kotkas]]
 *[[French]]: [[Aigle]] (1)
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
 *[[Latin]]: [[Aqvila]]
