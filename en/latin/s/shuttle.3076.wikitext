@@ -1,5 +1,3 @@
 ==Noun==
 
 #A transport service (such as a bus or train) that goes back and forth between two places.
-
-#The Space Shuttle is a reusable vehicle that is able to fly repeatedly into [[Low Earth Orbit]].  The first space shuttle, ''Columbia'', was made in the 1980s.  The Shuttle is the first and only truly reusable spacecraft.
