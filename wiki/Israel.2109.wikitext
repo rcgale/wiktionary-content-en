@@ -1,12 +1,27 @@
-===[[noun]]===
-# A [[country]] in the [[Middle East]], located at eastern [[shore]] of the [[mediterranean]].
-#:'''Translations'''
-#:*[[Dutch]]: Israel
-#:*[[German]]: Israel
-#:*[[Hebrew]]: [[ישראל]]
-#:*[[Polish]]: [[Izrael]]
+==English==
 
-''see:'' [[Countries of the world]]
+'''proper noun'''
+
+# Country in the [[Middle East]], located at eastern [[shore]] of the [[Mediterranean]]. Official name: State of Israel.
+#:'''Translations'''
+#:*[[Chinese]]: [[以色列]]
+#:*[[Danish]]: Israel
+#:*[[Dutch]]: Israel, [[Israël]]??
+#:*[[Esperanto]]: [[Israelo]]
+#:*[[Finnish]]: Israel
+#:*[[French]]: [[Israël]]
+#:*[[German]]: Israel
+#:*[[Greek]]: [[Ισραήλ]]
+#:*[[Hebrew]]: [[ישראל]]
+#:*[[Interlingua]]: Israel
+#:*[[Italian]]: [[Israele]]
+#:*[[Polish]]: [[Izrael]]
+#:*[[Portuguese]]: Israel
+#:*[[Russian]]: [[Израиль]]
+#:*[[Spanish]]: Israel
+#:*[[Swedish]]: Israel
+
+''See'': [[Countries of the world]]
 
 === Further reading ===
 
