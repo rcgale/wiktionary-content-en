@@ -14,3 +14,4 @@
 *sv: [[dag]]
 *Wolof: [[Bés]]
 *yi: [[טאָג]] (tug)
+*pt: [[dia]]
