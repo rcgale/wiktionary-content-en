@@ -1,5 +1,7 @@
 ===Verb===
 #''(Economics)'', to '''tighten rates''' means to make them higher.
-===Translations===
+====Synonym====
+*To tighten the monetary policy. (''note'' this phrase usualy is synonym but has a broader meaning, since [[central bank]]s may have other instrument to fight [[inflation]])
+====Translations====
 * French : resserer les taux
 * Spanish :  (synonym : endurecer su política monetaria)
