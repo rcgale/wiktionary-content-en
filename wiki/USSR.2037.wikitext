@@ -1,3 +1,5 @@
+[U-S-S-R]]
+
 ==Abbreviaion==
 
 *Union of Soviet Socialist Republics
