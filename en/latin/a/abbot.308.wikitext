@@ -1,5 +1,5 @@
 ===Etymology===
-Anglo Saxon ''abbod'', ''abbad'', Latin ''abbas'', ''abbatis'', Greek [[&#7936&beta&beta&alpha&#834&#962;]], from [[Syriac]] ''abb&#257;'' father. Cf. [[Abba]], [[Abbé]].
+Anglo Saxon ''abbod'', ''abbad'', Latin ''abbas'', ''abbatis'', Greek [[&#7936;&beta;&beta;&alpha;&#834;&#962;]], from [[Syriac]] ''abb&#257;'' father. Cf. [[Abba]], [[Abbé]].
 ===Noun===
 #The superior or head of an [[abbey]].
 #One of a class of bishops whose sees were formerly [[abbeys]]. - ''Encyclopedia Britanica''
