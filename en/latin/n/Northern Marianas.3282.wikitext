@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Oceania. Official name: Commonwealth of the Northern Mariana Islands.
+#:'''Translations'''
+#:*[[Danish]]: [[Nordmarianerne]]
+#:*[[Dutch]]: [[Noordelijke Marianen]]
+#:*[[Esperanto]]: [[Nord-Marianoj]]
+#:*[[Finnish]]: [[Pohjois-Mariaanit]]
+#:*[[French]]: [[Mariannes du Nord]]
+#:*[[German]]: [[Nördliche Marianen]]
+#:*[[Greek]]: [[Νήσοι Βόρειες Μαριάνες]]
+#:*[[Interlingua]]: [[Marianas del Norte]]
+#:*[[Italian]]: [[Marianne settentrionali]]
+#:*[[Polish]]: [[Mariany Północne]]
+#:*[[Portuguese]]: [[Marianas do Norte]]
+#:*[[Russian]]: [[Северные Марианские]]
+#:*[[Spanish]]: [[Islas Marianas del Norte]]
+#:*[[Swedish]]: [[Nordmarianerna]]
+
+''See'': [[Countries of the world]]
