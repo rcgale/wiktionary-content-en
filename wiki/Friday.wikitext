@@ -11,6 +11,7 @@
 *et: [[reede]]
 *eu: [[ostiral]]
 *fr: [[vendredi]]
+*fy: [[freed]]
 *[[Georgian]]: [[პარასკევი]]
 *he: [[יום שישי]] (yom shee-SHEE)
 *hr: [[Petak]]
