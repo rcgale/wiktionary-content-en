@@ -1,5 +1,6 @@
 ==Português==
 '''proper noun'''
+['braziw]
 
 # Country in South America. Official name: República Federativa do Brasil.
 #:'''Translations'''
