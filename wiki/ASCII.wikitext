@@ -1,5 +1,5 @@
 Abbreviation of
-'''American Standard Code for Information Interchange'''. An 7-bit [[character set]] and a character encoding based on the Roman alphabet as used in modern English on computers.
+'''American Standard Code for Information Interchange'''. A 7-bit [[character set]] and a character encoding based on the Roman alphabet as used in modern English on computers.
 
 '''Related words'''
 
