@@ -31,8 +31,11 @@
 
 ===[[adjective]]===
 /my-noot'/, /my-nyoot'/
-# Very [[small]]. '''Synonyms:''' [[minuscule]], [[tiny]], [[diminutive]], [[insignificant]] '''Antonyms:''' [[big]],[[huge]],[[enormous]]
-#:'''Translations'''
-#:*[[Dutch]]: [[minuscuul]], [[onbeduidend]], [[nietig]]
-#:*[[French]]: [[minuscule]]
-#:*[[Polish]]: [[malutki]]
+# Very [[small]]. 
+:'''Synonyms:''' [[minuscule]], [[tiny]], [[diminutive]], [[insignificant]] 
+:'''Antonyms:''' [[big]],[[huge]],[[enormous]]
+
+:'''Translations'''
+:*[[Dutch]]: [[minuscuul]], [[onbeduidend]], [[nietig]]
+:*[[French]]: [[minuscule]]
+:*[[Polish]]: [[malutki]]
