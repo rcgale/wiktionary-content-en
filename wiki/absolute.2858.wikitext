@@ -1,0 +1,1 @@
+Absolute, <i>[[Adjective]]</i> <HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Absolu]]<BR>• [[German]]: [[Absolut]]<BR>• [[Interlingua]]: [[Absolute]]<BR>• [[Italian]]: [[Assoluto]]<BR>• [[Portuguese]]: [[Absoluto]]<BR>• [[Spanish]]: [[Absoluto]]<BR>
