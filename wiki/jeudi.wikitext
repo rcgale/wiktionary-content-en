@@ -1,0 +1,19 @@
+[[noun]]
+
+#The fourth day of the [[week]] (according to the ISO 8601 norm).
+
+==Translations==
+*Blackfoot: [[Náámiksistsiko]]
+*de: [[Donnerstag]]
+*es: [[jueves]]
+*eu: [[ostegun]]
+*[[Georgian]]: [[ხუთშაბათი]]
+*he: [[יום חמישי]]
+*mi: [[täite]]
+*nl: [[donderdag]]
+*pl: [[czwartek]]
+*pt: [[quinta-feira]]
+*sq: [[e enjte]]
+*sv: [[torsdag]]
+*Wolof: [[Alxames]]
+*yi: [[דאָנערשטיק]]
