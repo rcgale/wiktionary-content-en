@@ -1,4 +1,5 @@
 ==[[Abbreviation]] and [[noun]]==
 
 #[[Groupe Spécial Mobile]]
+#[[Global System for Mobile telecommunications]]
 #[[Wireless]] [[mobile phone]]
