@@ -1,1 +1,1 @@
-one who fucks & has a penis
+the man married to woman
