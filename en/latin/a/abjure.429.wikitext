@@ -11,3 +11,5 @@ Present participle and verbal noun: [[Abjuring]]
 #::See [[Renounce]].
 ===Intransitive verb===
 #To renounce on oath. - [[Bishop Burnet]]
+
+<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Abjurer]]<BR>• [[German]]: [[Schwren Sie ab]]<BR>• [[Interlingua]]: [[Abjurar]]<BR>• [[Italian]]: [[Abiurare]]<BR>• [[Portuguese]]: [[Abjurar]]<BR>• [[Spanish]]: [[Abjurar]]<BR>• [[]]: [[]]
