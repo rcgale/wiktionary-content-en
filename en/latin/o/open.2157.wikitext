@@ -9,4 +9,6 @@
 *Dutch: open (on this page)
 *French: [[ouvert]]
 *Frisian: [[iepen]]
+*German: [[offen]]
+*Hebrew:  [[פתוח]]
 *Spanish: [[abierto]]
