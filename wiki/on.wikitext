@@ -1,0 +1,1 @@
+'''On yomi''' is Japanese reading of [[kanji]] based on Chinese readings.
