@@ -1,6 +1,6 @@
 /dôg/
 
-1. A [[domesticated]] [[mammal]] (Canis familiaris) that is related to [[wolf|wolves]].
+1. A [[domesticated]] [[mammal]] (Canis familiaris) that is related to the [[wolf]].
 
 == Further reading ==
 *[[en:Dog|Wikipedia article]]
