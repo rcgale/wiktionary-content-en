@@ -1,3 +1,9 @@
+==Etymology==
+From the Metric Prefix: [[Nano-]] and the word [[Second]]
+
+==Pronunciation==
+[Nan-o-sec-ond] /____/
+
 ==[[noun]]==
 
 A measure of [[time]]
