@@ -1,0 +1,1 @@
+Absorbency, <i>[[Noun]]</i> <HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Absorptivité]]<BR>• [[German]]: [[Absorbierfähigkeit]]<BR>• [[Interlingua]]: [[Absorbentia]]<BR>• [[Italian]]: [[Capacità di assorbimento]]<BR>• [[Portuguese]]: [[Absorbency]]<BR>• [[Spanish]]: [[Absorbencia]]<BR>
