@@ -1,0 +1,11 @@
+==[[Verb]]==
+
+==Antonym==
+
+*[[open]]
+
+===Translations===
+
+*Dutch: sluiten
+*French: [[fermer]]
+*Spanish: [[cerrar]]
