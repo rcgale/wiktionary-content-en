@@ -1,4 +1,4 @@
-'''Debt''' is the money you have to pay to somebody usualy beacause he has lended it to you. 
+'''Debt''' is money that one person or entity is required to pay to another, generally as a result of a loan or other monetary transaction. 
 
 
 '''Translations'''
