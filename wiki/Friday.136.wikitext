@@ -11,6 +11,7 @@
 *fr: [[vendredi]]
 *[[Georgian]]: [[პარასკევი]]
 *he: [[יום שישי]]
+*hr: [[Petak]]
 *it: [[venerdì]]
 *mi: [[paraire]]
 *nl: [[vrijdag]]
