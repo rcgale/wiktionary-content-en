@@ -9,7 +9,10 @@ Old English ''an'' (same word as [[an]]), from Germanic ''*ainaz'', from PIE ''*
 Used to refer indefinitely to a person. But ''one'' may find other uses.
 
 == Translations ==
+*Dutch: [[een]]
 *Finnish: [[yksi]]
+*French: [[un]], [[une]]
+*Frisian: [[ien]]
 *German: [[ein]]
 *Lojban: [[pa]]
 *Swedish: [[ett]], [[en]]
