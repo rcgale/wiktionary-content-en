@@ -2,5 +2,5 @@ Abbreviation of Gross Domestic Product.
 
 '''Translations'''
 
-*fr : PIB
+*fr : PIB = [[Produit Intérieur Brut]]
 *nl : BNP = [[Bruto Nationaal Product]]
