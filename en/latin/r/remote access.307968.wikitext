@@ -4,6 +4,6 @@ In [[telecommunication]], the term '''remote access''' has the following meaning
 
 <b>2.</b>  A [[PABX]] [[service feature]] that allows a [[user]] at a remote location to [[access]] by [[telephone]] PABX features, such as access to [[wide area telephone service]] (WATS) lines. 
 
-<i>Note:</i>  For remote access, individual [[authorization]] codes are usually required.</b>
+<i>Note:</i>  For remote access, individual [[authorization]] codes are usually required.
 
 Source: from [[Federal Standard 1037C]]
