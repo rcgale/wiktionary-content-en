@@ -1,5 +1,4 @@
+===Pronunciation===
 [NA-TO]
-
-==Acronym==
-
-*North Atlantic Treaty Organisation
+===Acronym===
+#North Atlantic Treaty Organisation
