@@ -5,7 +5,16 @@
 :Usually marked by the applicable hemisphere of the [[planet]] being at its maximum angle of exposure to the [[Sun]] resulting in the longest days of the year and  typically the time period with the highest atmospheric [[temperature]]s for the region.
 
 ==Translations==
-*de: [[Sommer]]
-*en: [[summer]]
-*es: [[verano]]
-*fr: [[été]]
+*[[Albanian]]: [[verë]]
+*[[Basque]]: [[uda]]
+*[[Croatian]]: [[ljeto]]
+*[[Dutch]]: [[zomer]]
+*[[English]]: [[summer]]
+*[[French]]: [[été]]
+*[[German]]: [[Sommer]]
+*[[Hebrew]]: [[קיץ]]
+*[[Mäori]]: [[raumati]]
+*[[Polish]]: [[lato]]
+*[[Portuguese]]: [[verão]]
+*[[Spanish]]: [[verano]]
+*[[Yiddish]]: [[זומער]]
