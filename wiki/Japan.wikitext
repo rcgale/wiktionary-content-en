@@ -6,7 +6,7 @@
 #:*[[French]]: [[Japon]] (synonyms:  l'Archipel, le pays du Soleil Levant)
 #:*[[Frisian]]: Japan
 #:*[[German]]: Japan
-#:*[[Japanese]]: [[日本]](Nipon)
+#:*[[Japanese]]: [[日本]](Nippon or Nihon)
 #:*[[Korean]]: [[일본]] (ilbon)
 #:*[[Spanish]]: [[Japón]]
 #:'''Related words'''
