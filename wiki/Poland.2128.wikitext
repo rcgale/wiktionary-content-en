@@ -3,5 +3,10 @@
 # Country in Central Europe.
 #:'''Translations'''
 #:*[[Dutch]]: [[Polen]]
+#:*[[German]]: [[Polen]]
+#:*[[Swedish]]: [[Polen]]
+#:*[[French]]: [[Pologne]]
+#:*[[Italian]]: [[Polonia]]
+#:*[[Spanish]]: [[Polonia]]
 
 ''See:'' [[Countries of the world]]
