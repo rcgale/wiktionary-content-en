@@ -1,10 +1,8 @@
-Freedom of speech
+===Expression===
 
-
-'''Translations'''
-
-*fr: [[liberté d'expression]]
-*nl: [[vrijheid van meningsuiting]]
-*no: [[ytringsfrihet]]
-*se: [[yttrandefrihet]]
-*pt: [[liberdade de expressão]]
+===Translations
+*French: [[liberté d'expression]]
+*Dutch: [[vrijheid van meningsuiting]]
+*Norwegian: [[ytringsfrihet]]
+*Swedish: [[yttrandefrihet]]
+*Portuguese: [[liberdade de expressão]]
