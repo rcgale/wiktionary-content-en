@@ -2,7 +2,7 @@
 [En-glish]/____
 
 ===[[Noun]]===
-# The [[language]] of [[England]].
+# The [[language]] of [[w:England|England]].
 #:'''[[Translation]]s'''
 #:*[[Catalan]]: (m) [[anglès]], (f) [[anglesa]]
 #:*[[Dutch]]: [[Engels]]
@@ -18,6 +18,7 @@
 #:'''Translations'''
 #:*[[Catalan]]: (m) [[anglès]], (f) [[anglesa]]
 #:*[[Dutch]]: [[Engelsman]] (masc.), [[Engelse]] (fem.), [[Engelsen]] (plur.)
+#:*[[Esperanto]]: [[anglo]]
 #:*[[Finnish]]: [[englatilainen]]
 #:*[[French]]: [[anglais]]
 #:*[[German]]: [[Engländer]] 
@@ -31,7 +32,7 @@
 #:'''Translations'''
 #:*[[Catalan]]: (m) [[anglès]], (f) [[anglesa]]
 #:*[[Dutch]]: [[Engels]]
-#:*[[Esperanto]]: [[Angla]]
+#:*[[Esperanto]]: [[angla]]
 #:*[[Finnish]]: [[englatilainen]]
 #:*[[French]]: [[anglais]]
 #:*[[German]]: [[englisch]]
