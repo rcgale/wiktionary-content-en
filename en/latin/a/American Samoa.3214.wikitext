@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# US overseas territory in Oceania. Official name: Territory of American Samoa.
+#:'''Translations'''
+#:*[[Danish]]: [[Amerikansk Samoa]]
+#:*[[Dutch]]: [[Amerikaans-Samoa]]
+#:*[[Esperanto]]: [[Samoo Usona]], [[Usona Samoo]]
+#:*[[Finnish]]: [[Amerikan Samoa]]
+#:*[[French]]: [[Samoa américaines]]
+#:*[[German]]: [[Amerikanisch-Samoa]]
+#:*[[Greek]]: [[Αμερικανική Σαμόα]], [[Αμερικανικές Σαμόα]]
+#:*[[Interlingua]]: [[Samoa American]]
+#:*[[Italian]]: [[Samoa americane]]
+#:*[[Polish]]: [[Samoa Amerykańskie]]
+#:*[[Portuguese]]: [[Samoa Americana]]
+#:*[[Russian]]: [[Восточное Самоа]]
+#:*[[Spanish]]: [[Samoa Americana]]
+#:*[[Swedish]]: [[Amerikanska Samoa]]
+
+''See'': [[Countries of the world]]
