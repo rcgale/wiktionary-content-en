@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southern Africa. Official name: Republic of Namibia.
+#:'''Translations'''
+#:*[[Chinese]]: [[纳米比亚]]
+#:*[[Danish]]: Namibia
+#:*[[Dutch]]: [[Namibië]]
+#:*[[Esperanto]]: [[Namibio]]
+#:*[[Finnish]]: Namibia
+#:*[[French]]: [[Namibie]]
+#:*[[German]]: Namibia
+#:*[[Greek]]: [[Ναμίμπια]]
+#:*[[Interlingua]]: Namibia
+#:*[[Italian]]: Namibia
+#:*[[Polish]]: Namibia
+#:*[[Portuguese]]: Namíbia
+#:*[[Russian]]: [[Намибия]]
+#:*[[Spanish]]: Namibia
+#:*[[Swedish]]: Namibia
+
+''See'': [[Countries of the world]]
