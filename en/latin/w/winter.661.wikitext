@@ -9,6 +9,7 @@
 
 *[[Albanian]]: [[dinër]]
 *[[Basque]]: [[negu]]
+*Croatian: [[zima]]
 *[[Czech]]: [[zima]]
 *[[Danish]]: [[vinter]]
 *[[Dutch]]: [[winter]]
