@@ -1,0 +1,5 @@
+===Etymology===
+Word coined by Edward Goodrich Acheson in 1893 for a substance invented by him.  From [[carbon]] and [[corundum]], the latter being of Tamil origin.
+
+===Noun===
+#A silicon carbide based substance use for grinding.
