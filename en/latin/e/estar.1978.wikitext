@@ -6,6 +6,7 @@
 #:*''Onde estás?'' 'Where are you?'
 #:*''Estou em casa'' 'I am at home'
 #:'''Translations'''
+#:*[[Dutch]]: [[zijn]]
 #:*[[English]]: to [[be]]
 #:*[[French]]: [[être]]
 #:*[[Interlingua]]: [[esser]]
@@ -16,6 +17,7 @@
 #:*''O tempo estava frio'' 'The weather was cold (back then)'
 #:*''Estás louco?'' 'Are you crazy (right now)?'
 #:'''Translations'''
+#:*[[Dutch]]: [[zijn]]
 #:*[[English]]: to [[be]]
 #:*[[French]]: [[être]]
 #:*[[Interlingua]]: [[esser]]
@@ -33,6 +35,7 @@
 #:*''¿Dónde estás?'' 'Where are you?'
 #:*''Estoy en casa'' 'I am at home'
 #:'''Translations'''
+#:*[[Dutch]]: [[zijn]]
 #:*[[English]]: to [[be]]
 #:*[[French]]: [[être]]
 #:*[[Interlingua]]: [[esser]]
@@ -43,6 +46,7 @@
 #:*''El tiempo estaba frío'' 'The weather was cold (back then)'
 #:*''¿Estás loco?'' 'Are you crazy (right now)?'
 #:'''Translations'''
+#:*[[Dutch]]: [[zijn]]
 #:*[[English]]: to [[be]]
 #:*[[French]]: [[être]]
 #:*[[Interlingua]]: [[esser]]
