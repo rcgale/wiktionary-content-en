@@ -6,5 +6,6 @@
 *de: Dezember
 *es: diciembre
 *fr: décembre
+*he: דצמבר
 *nl: [[december]]
 *pl: [[grudzień]]
