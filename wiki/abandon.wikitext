@@ -27,3 +27,4 @@
 '''Abandon''', ''[[noun (part of speech)|noun]]''
 
 A complete giving up to natural [[impulses]]; freedom from artificial [[constraint]]; careless freedom or ease.
+<P><H3>Translations</H3><BR>•[[French]] fr: [[Abandon]]<BR>•[[German]] de: [[Ungezwungenheit]]<BR>•[[Interlingua]] ia: [[Abandonar]]<BR>•[[Italian]] it: [[Abbandono]]<BR>•[[Portuguese]] pt: [[Abandono]]<BR>•[[Spanish]] es: [[Abandono]]<BR>•[[]]: [[]]
