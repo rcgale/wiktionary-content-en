@@ -28,3 +28,5 @@ Present Participle
 *We are ''confounded'' when our minds are [[overwhelmed]], as it were, by something wholly unexpected, [[amazing]], dreadful, etc., so that we have nothing to say. Thus, a criminal is usually ''confounded'' at the [[discovery]] of his guilt.
 :'''Quotations'''
 :*Satan stood Awhile as mute, ''confounded'' what to say. - [[Milton]].
+
+<HR> <P> <H3>Translations</H3><BR>•[[French]] fr: [[Confonder]]<BR>•[[German]] de: [[Beschämen Sich]]<BR>•[[Interlingua]] ia: [[Confunder]]<BR>•[[Italian]] it: [[]]<BR>•[[Portuguese]] pt: [[]]<BR>•[[Spanish]] es: [[]]<BR>•[[Confundir]]: [[]]
