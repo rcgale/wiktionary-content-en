@@ -17,6 +17,7 @@
 *nl: [[maandag]]
 *pl: [[poniedziałek]]
 *pt: [[segunda-feira]]
+*[[Ruanda]]: [[Kwambere]]
 *[[Serbian]]: [[понедељак]]
 *[[Slovak]]: [[Pondelok]]
 *[[Somali]]: [[Isniin]]
