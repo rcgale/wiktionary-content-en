@@ -1,5 +1,8 @@
 ==[[Noun]]==
 
+#time or an amount of time as measured by a conventional standard
+#
+
 ===Translations===
 
 *Dutch: [[tijd]]
@@ -7,5 +10,9 @@
 *Spanish: [[tiempo]]
 
 ===Related words===
-
+*[[timing]], [[timed]], [[timer]]
 *[[time slot]]
+*[[time-keeper]]
+*[[behind the times]]
+*[[time-and-motion]]
+*[[in the nick of time]]
