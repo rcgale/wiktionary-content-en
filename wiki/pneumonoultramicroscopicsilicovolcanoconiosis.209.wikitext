@@ -2,7 +2,7 @@
 
 # A [[disease]] of the lungs, such as [[silicosis]], caused by inhaling mineral or metallic dust over a long [[period]].
 
-Often shortened to pneumonoconiosis or pneumoconiosis.
+Often shortened to [[pneumonoconiosis]] or [[pneumoconiosis]].
 
 '''Entymology'''
 
