@@ -1,7 +1,7 @@
 ==[[noun]]==
 
 #Kind of [[fruit]]
-#A company producing computers
+#Name of a company that produces computers
 #Kind of computers produced by that company (see above)
 ===Translations===
 
