@@ -2,6 +2,7 @@
 
 #A specific day
 #A pre-arranged social meeting
+#A type of food that...
 
 [[verb]]
 
