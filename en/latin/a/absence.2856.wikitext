@@ -1,4 +1,4 @@
-Absence, <i>[[Verb]]</i> 
+Absence, <i>[[Noun]]</i> 
 <HR> <P> <H3>Translations</H3>
 <BR>• [[French]]: [[Absence]]
 <BR>• [[German]]: [[Abwesenheit]]
