@@ -1,1 +1,1 @@
-(nl),(de): [[free]] (2) of charge
+(nl),(de)(sv): [[free]] (2) of charge
