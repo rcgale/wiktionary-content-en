@@ -1,0 +1,3 @@
+Engaging in the act of [[sexual intercourse]] with a [[person]] under the [[age of consent]], even if they were willing.
+
+See also [[rape]]
