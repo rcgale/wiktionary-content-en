@@ -9,4 +9,5 @@
 * [[Dutch]]: [[seizoen]] (noun 1); [[kruiden]] (verb 1)
 * [[German]]: [[Jahreszeit]] (noun 1); [[würzen]] (verb 1)
 * [[Hebrew]]: [[עונה]] (noun 1);  [[תיבל]] (verb 1)
-*fr: [[saison]]
+* [[French]]: [[saison]]
+* [[Yiddish]]: [[צײַט פון יאָר]] (noun 1); [[צוריכטן]]
