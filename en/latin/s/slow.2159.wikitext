@@ -1,6 +1,6 @@
 ==[[Adjective]]==
 
-*being not rapid
+*not being rapid
 
 ===Antonyms===
 *[[rapid]]
