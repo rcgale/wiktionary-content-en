@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Oceania. Official name: Republic of Kiribati.
+#:'''Translations'''
+#:*[[Chinese]]: Kiribati
+#:*[[Danish]]: Kiribati
+#:*[[Dutch]]: Kiribati
+#:*[[Esperanto]]: [[Kiribato]]
+#:*[[Finnish]]: Kiribati
+#:*[[French]]: Kiribati
+#:*[[German]]: Kiribati
+#:*[[Greek]]: [[Κιριμπάτι]]
+#:*[[Interlingua]]: Kiribati
+#:*[[Italian]]: Kiribati
+#:*[[Polish]]: Kiribati
+#:*[[Portuguese]]: [[Quiribáti]]
+#:*[[Russian]]: [[Кирибати]]
+#:*[[Spanish]]: Kiribati
+#:*[[Swedish]]: Kiribati
+
+''See'': [[Countries of the world]]
