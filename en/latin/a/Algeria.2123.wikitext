@@ -4,6 +4,11 @@
 
 # Country in Northern Africa.
 #:'''Translations'''
+#:*[[English]]: [[Algeria]]
 #:*[[Dutch]]: [[Algerije]]
+#:*[[French]]: [[Algérie]]
+#:*[[German]]: [[Algerien]]
+#:*[[Polish]]: [[Algieria]]
+#:*[[Spanish]]: [[Argelia]]
 
 ''See:'' [[Countries of the world]]
