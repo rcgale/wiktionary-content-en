@@ -1,6 +1,6 @@
 [De-zem-ber] /___/
 
-#Dezember ist der zwölfte [[Monat]]in dem gregorianischen [[Kalender]]. Er hat 31 [[Tag]]e.
+#Dezember ist der zwölfte [[Monat]] in dem gregorianischen [[Kalender]]. Er hat 31 [[Tag]]e.
 #December is the twelfth [[month]] in the Gregorian [[calendar]]. It has 31 [[day]]s.
 
 ==Translations==
