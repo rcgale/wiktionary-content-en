@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Caribbean. Official name: Commonwealth of Puerto Rico.
+#:'''Translations'''
+#:*[[Danish]]: Puerto Rico
+#:*[[Dutch]]: Puerto Rico, [[Porto Rico]]
+#:*[[Esperanto]]: [[Portoriko]], [[Puerto-Riko]]
+#:*[[Finnish]]: Puerto Rico
+#:*[[French]]: [[Porto Rico]]
+#:*[[German]]: Puerto Rico
+#:*[[Greek]]: [[Πουέρτο Ρίκο]], [[Πόρτο Ρίκο]]
+#:*[[Interlingua]]: Puerto Rico
+#:*[[Italian]]: [[Portorico]]
+#:*[[Polish]]: [[Portoryko]], Puerto Rico
+#:*[[Portuguese]]: [[Porto Rico]]
+#:*[[Russian]]: [[Пуэрто-Рико]]
+#:*[[Spanish]]: Puerto Rico
+#:*[[Swedish]]: Puerto Rico
+
+''See'': [[Countries of the world]]
