@@ -1,6 +1,6 @@
 ===Cardinal number===
-#Usually it means a thousand million. That is to say 1 followed by 9 zeros
-#''(Dated usage, notably British)'' A million millions or 1 followed by 12 zeros.
+#Usually it means a thousand million. That is to say, a 1 followed by nine zeros, 10<sup>9</sup>.
+#''(Dated usage, notably British)'' A million millions or a 1 followed by twelve zeros, 10<sup>12</sup>.
 ===Translations===
 * French : un [[milliard]]
 * Spanish : [[mil]] [[million]]es (''note'' : there is no word to say a billion in Spanish, so for example 3 billion is translation in 3 mil milliones)
