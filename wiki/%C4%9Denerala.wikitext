@@ -1,0 +1,6 @@
+Ne particulara
+
+===[[Traduko]]j===
+
+*[[Angla]]: [[General]]
+*[[Hispana]]: General.
