@@ -4,9 +4,9 @@ Having no predecessor. The [[ordinal]] [[number]] corresponding to [[one]].
 
 ===Translations===
 
-*Dutch: eerste
-*Finnish: ensimmäinen
-*French: premier
-*Frisian: earst
-*German: erste
-*Spanish: primero
+*Dutch: [[eerst]], [[eerste]]
+*Finnish: [[ensimmäinen]]
+*French: [[premier]]
+*Frisian: [[earst]]
+*German: [[erste]]
+*Spanish: [[primero]]
