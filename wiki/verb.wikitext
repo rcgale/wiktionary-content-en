@@ -13,9 +13,10 @@ Plural form: verbs
 
 ==Translations==
 *[[Arabic]]: [[فعل]]
-*[[German]]: Zeitwort, Verb, [[Verbum]]
-*[[Spanish]]: [[Verbo]]
-*[[French]]: [[Verbe]]
-*[[Hebrew]]: [[פועל]]
 *[[Dutch]]: [[Werkwoord]]
+*[[Finnish]]: [[verbi]]
+*[[French]]: [[Verbe]]
+*[[German]]: Zeitwort, Verb, [[Verbum]]
+*[[Hebrew]]: [[פועל]]
 *[[Polish]]: [[Czasownik]]
+*[[Spanish]]: [[Verbo]]
