@@ -16,7 +16,7 @@
 #''Commerce'': To receive as [[obligatory]] and promise to pay; as, to ''accept'' a bill of exchange. - Bouvier: ''Law Dictionary'', 1856
 #In a [[deliberative]] body, to receive in [[acquittance]] of a duty imposed; as, to ''accept'' the report of a [[committee]]. (This makes it the property of the body, and the question is then on its [[adoption]].)
 ===Derived words===
-:[[acceptability]] - [[acceptable]] - [[acceptableness]] - [[acceptably]] - [[acceptance]] - [[acceptancy]] - [[acceptant]] - [[acceptor]] - 
+:[[acceptability]] - [[acceptable]] - [[acceptableness]] - [[acceptably]] - [[acceptance]] - [[acceptancy]] - [[acceptant]] - [[acceptation]] - [[acceptor]] - 
 ===Derived phrases===
 #'''To accept a bill''' ''Law'': to agree (on the part of the [[drawee]]) to pay it when due. 
 #'''To accept service''' ''Law'': to agree that a writ or process shall be considered as [[regularly]] served, when it has not been. 
