@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Oceania. Official name: Federated States of Micronesia.
+#:'''Translations'''
+#:*[[Danish]]: [[Mikronesien]]
+#:*[[Dutch]]: Micronesia
+#:*[[Esperanto]]: [[Mikronezio]]
+#:*[[Finnish]]: [[Mikronesia]]
+#:*[[French]]: [[Micronésie]]
+#:*[[German]]: [[Mikronesien]]
+#:*[[Greek]]: [[Μικρονησία]]
+#:*[[Interlingua]]: Micronesia
+#:*[[Italian]]: Micronesia
+#:*[[Polish]]: [[Mikronezja]]
+#:*[[Portuguese]]: [[Micronésia]]
+#:*[[Russian]]: [[Микронезия]]
+#:*[[Spanish]]: Micronesia
+#:*[[Swedish]]: [[Mikronesien]]
+
+''See'': [[Countries of the world]]
