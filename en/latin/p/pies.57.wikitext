@@ -1,5 +1,5 @@
 (en) plural of [[pie]]
 
-(nl) [[urine]]
+(nl) [[urine]] (informal)
 
 (pl) [[dog]]
