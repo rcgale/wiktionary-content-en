@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in South Asia. Official name: Republic of Maldives.
+#:'''Translations'''
+#:*[[Chinese]]: [[马尔代夫]]
+#:*[[Danish]]: [[Maldiverne]]
+#:*[[Dutch]]: [[Maldiven]]
+#:*[[Esperanto]]: [[Maldivoj]]
+#:*[[Finnish]]: [[Malediivit]]
+#:*[[French]]: Maldives
+#:*[[German]]: [[Malediven]]
+#:*[[Greek]]: [[Μαλδίβες]]
+#:*[[Interlingua]]: [[Maldivas]]
+#:*[[Italian]]: [[Maldive]]
+#:*[[Polish]]: [[Malediwy]]
+#:*[[Portuguese]]: [[Maldivas]]
+#:*[[Russian]]: [[Мальдивы]]
+#:*[[Spanish]]: [[Maldivas]]
+#:*[[Swedish]]: [[Maldiverna]]
+
+''See'': [[Countries of the world]]
