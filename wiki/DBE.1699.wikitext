@@ -1,0 +1,3 @@
+Abbreviation for:
+
+*Dame Commander of the Order of the British Empire
