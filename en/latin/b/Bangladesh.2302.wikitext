@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in South Asia. Official name: People's Republic of Bangladesh.
+#:'''Translations'''
+#:*[[Chinese]]: [[孟加拉国]]
+#:*[[Dannish]]: Bangladesh
+#:*[[Dutch]]: Bangladesh
+#:*[[Esperanto]]: [[Bangladeŝo]]
+#:*[[Finnish]]: Bangladesh
+#:*[[French]]: Bangladesh
+#:*[[German]]: [[Bangladesch]]
+#:*[[Greek]]: [[Μπανγκλαντές]], [[Μπαγκλαντές]]
+#:*[[Interlingua]]: Bangladesh
+#:*[[Italian]]: Bangladesh
+#:*[[Polish]]: [[Bangladesz]]
+#:*[[Portuguese]]: [[Bangladeche]]
+#:*[[Russian]]: [[Бангладеш]]
+#:*[[Spanish]]: Bangladesh
+#:*[[Swedish]]: Bangladesh
+
+''See'': [[Countries of the world]]
