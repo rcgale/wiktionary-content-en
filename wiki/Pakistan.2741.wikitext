@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in South Asia. Official name: Islamic Republic of Pakistan.
+#:'''Translations'''
+#:*[[Chinese]]: [[巴基斯坦]]
+#:*[[Danish]]: Pakistan
+#:*[[Dutch]]: Pakistan
+#:*[[Esperanto]]: [[Pakistano]]
+#:*[[Finnish]]: Pakistan
+#:*[[French]]: Pakistan
+#:*[[German]]: Pakistan
+#:*[[Greek]]: [[Πακιστάν]]
+#:*[[Interlingua]]: Pakistan
+#:*[[Italian]]: Pakistan
+#:*[[Polish]]: Pakistan
+#:*[[Portuguese]]: [[Paquistão]]
+#:*[[Russian]]: [[Пакистан]]
+#:*[[Spanish]]: [[Pakistán]]
+#:*[[Swedish]]: Pakistan
+
+''See'': [[Countries of the world]]
