@@ -1,0 +1,8 @@
+noun
+
+Usually it means a thousand million. That is to say 1 followed by 9 zeros
+
+==Translations==
+
+* French : un [[milliard]]
+* Spanish : [[mil]] [[million]]es (''note'' : there is no word to say a billion in Spanish, so for example 3 billion is translation in 3 mil milliones)
