@@ -19,6 +19,7 @@ Related words: en [[free]], nl [[vrij]]
 *fr: [[libre]] (1,3,4), gratuit (2)
 *nl: [[vrij]], gratis (2)
 *se: [[fri]] (1,3,4), gratis (2)
+*pt: [[livre]] (1,3,4), [[grátis]] (2), [[disponível]] (5)
 
 ==Thesaurus==
 
