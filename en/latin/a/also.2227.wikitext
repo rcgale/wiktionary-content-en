@@ -10,4 +10,5 @@
 *French: [[aussi]], [[également]]
 *Frisian: [[ek]]
 *German: [[auch]]
+*Hebrew: [[גם]]
 *Spanish: [[también]]
