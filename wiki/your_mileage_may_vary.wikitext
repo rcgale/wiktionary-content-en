@@ -1,0 +1,3 @@
+[from the standard disclaimer attached to mileage ratings by American car manufacturers] 
+*It may work differently on your computer.
+*More generally: it may work differently in your situation.
