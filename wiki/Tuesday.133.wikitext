@@ -14,6 +14,7 @@
 *[[Georgian]]: [[სამშაბათი]]
 *he: [[יום שלישי]] (yom shlee-SHEE)
 *hr: [[Utorak]]
+*hu: [[kedd]]
 *mi: [[türei]]
 *nl: [[dinsdag]]
 *pl: [[wtorek]]
