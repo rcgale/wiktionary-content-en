@@ -1,7 +1,9 @@
-1. Not imprisoned or enslaved. <i>a free [[man]]</i>
+/[[Pronunciation guide|friː]]/
 
-2. Obtainable without [[payment]]. <i>free of [[charge]]</i>
+1. Not imprisoned or enslaved. ''a free [[man]]''
 
-3. Unconstrained. <i>he was given free [[reign]] over the [[country]]</i>
+2. Obtainable without [[payment]]. ''free of [[charge]]''
 
-4. Unobstructed, without [[blockage|blockages]]. <i>the [[drain]] was free</i>
+3. Unconstrained. ''he was given free [[reign]] over the [[country]]''
+
+4. Unobstructed, without [[blockage|blockages]]. ''the [[drain]] was free''
