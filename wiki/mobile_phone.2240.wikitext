@@ -1,0 +1,10 @@
+#Mobile communications system that uses a combination of radio wave transmission and conventional telephone switching to permit telephone communication to and from mobile users within a specified area.
+
+===Synonyms===
+
+*[[cellular mobile]] (''note'': word used in the United States)
+
+===Traduction===
+
+*French: [[téléphone mobile]], [[téléphone cellulaire]], [[GSM]] (''note'': often used for mobile phones that are not technically GSM)
+*Spanish: [[teléfono móvil]]
