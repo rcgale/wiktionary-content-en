@@ -6,3 +6,6 @@ Beer \Beer\, n.
 
 See Also: [[http://www.wikipedia.org/wiki/Beer Wikipedia:Beer]]
 (adapted from Webster's 1913)
+
+==Translations==
+*de: [[Bier]]
