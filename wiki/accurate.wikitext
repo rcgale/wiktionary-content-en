@@ -1,5 +1,3 @@
-''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Accurate]] for the new Wiktionary definition of this term.''
-
 '''Accurate''', ''<code>[[adjective (part of speech)|adjective]]</code>'' [L. ''accuratus'', p. p. and a., fr. ''accurare'' to take care of; ''ad'' + ''curare'' to take care, ''cura'' care. See [[Cure]].]
 
 <ol>
