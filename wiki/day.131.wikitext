@@ -10,4 +10,5 @@
 *nl: [[dag]]
 *pl: [[dzień]]
 *sv: [[dag]]
+*Wolof: [[Bés]]
 *yi: [[טאָג]]
