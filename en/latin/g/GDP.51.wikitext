@@ -7,6 +7,7 @@ Abbreviation of [[Gross Domestic Product]].
 
 '''Translations'''
 *da : BNP = [[Bruttonationalprodukt]]
+*fi : BKT = [[bruttokansantuote]]
 *es : PIB = [[Producto interior bruto]]
 *fr : PIB = [[Produit Intérieur Brut]]
 *nl : BNP = [[Bruto Nationaal Product]]
