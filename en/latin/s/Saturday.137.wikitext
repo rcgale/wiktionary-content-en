@@ -14,3 +14,4 @@
 *pl: [[sobota]]
 *pt: [[s&aacute;bado]]
 *sq: [[e shtunë]]
+*yi: [[שבת]]
