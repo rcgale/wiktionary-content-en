@@ -25,7 +25,8 @@ Derived from the preposition meaning "on"
 ====Definition====
 #In each; to or for each; as, "twenty leagues a day", "a hundred pounds a year", "a dollar a yard", etc.
 ===Preposition===
-(Abbreviated form of ''an'' (Anglo Saxon on). See [[On]])
+====Etymology===
+Abbreviated form of ''[[an]]'' (Anglo Saxon ''on''). See [[On]])
 #''(Obsolete):'' In; on; at; by.
 #:'''Examples and Quotations'''
 #:*A God's name.
@@ -42,8 +43,11 @@ Derived from the preposition meaning "on"
 #:*Jacob, when he was a dying - ''Hebrews 11-21''. 
 #:*We'll a birding together. 
 #:*It was a doing. - Shakespeare 
-#:*He burst out a laughing." - [[Macaulay]]. 
-#''(Obsolete):'' Of. (From Anglo Saxon "of", "off", "from". See [[of]])
+#:*He burst out a laughing." - [[Macaulay]].
+====Etymology====
+From Anglo Saxon "of", "off", "from". See [[of]]
+====Definition====
+#''(Obsolete):'' Of. 
 #:'''Examples and Quotations'''
 #:*The name of John a Gaunt.
 #:*What time a day is it? - Shakespeare, ''1 Henry IV, I-ii''. 
