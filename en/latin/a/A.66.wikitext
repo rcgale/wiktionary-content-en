@@ -6,18 +6,41 @@ A () The first letter of the English and of many other alphabets. The capital A 
 A () The name of the sixth tone in the model major scale (that in C), or the first tone of the minor scale, which is named after it the scale in A minor. The second string of the violin is tuned to the A in the treble staff. -- A sharp (A/) is the name of a musical tone intermediate between A and B. -- A flat (A/) is the name of a tone intermediate between A and G.
 ===Adjective===
 A () An adjective, commonly called the indefinite article, and signifying one or any, but less emphatically.
+
+#In each; to or for each; as, "twenty leagues a day", "a hundred pounds a year", "a dollar a yard", etc.
 ===Preposition===
-A () In each; to or for each; as, "twenty leagues a day", "a hundred pounds a year", "a dollar a yard", etc.
-
-A (prep.) In; on; at; by.
-
-A (prep.) In process of; in the act of; into; to; -- used with verbal substantives in -ing which begin with a consonant. This is a shortened form of the preposition an (which was used before the vowel sound); as in a hunting, a building, a begging.
-
-A () Of.
+(Abbreviated form of ''an'' (Anglo Saxon on). See [[On]])
+#''(Obsolete):'' In; on; at; by.
+#:'''Examples and Quotations'''
+#:*A God's name.
+#:*Torn a pieces." 
+#:*Stand a tiptoe." 
+#:*A Sundays" - Shakespeare, ''?''. 
+#:*Wit that men have now a days. - [[Chaucer]]. 
+#:*Set them a work. - Robynson, ''More's Utopia''
+#In process of; in the act of; into; to; 
+#:'''Notes'''
+#:#Used with verbal substantives in -ing which begin with a consonant. This is a shortened form of the preposition an (which was used before the vowel sound); as in a hunting, a building, a begging.
+#:#The hyphen may be used to connect a with the verbal substantive (as, a-hunting, a-building) or the words may be written separately. This form of expression is now for the most part obsolete, the a being omitted and the verbal substantive treated as a participle.
+#:'''Quotations'''
+#:*Jacob, when he was a dying" - ''Hebrews 11-21''. 
+#:*We'll a birding together. 
+#:*It was a doing." - Shakespeare 
+#:*He burst out a laughing." - [[Macaulay]]. 
+#''(Obsolete):'' Of. (From Anglo Saxon "of", "off", "from". See [[of]])
+#:'''Examples and Quotations'''
+#:*The name of John a Gaunt.
+#:*What time a day is it? - Shakespeare, ''1 Henry IV, I-ii''. 
+#:*It's six a clock. - [[B. Jonson]].
 ===Corrupted word===
-A () A barbarous corruption of have, of he, and sometimes of it and of they.
+#A barbarous corruption of have, of he, and sometimes of it and of they.  "So would I a done"
+#:'''Quotations'''
+#:*a' brushes his hat o' mornings. - Shakespeare, ''Much Ado About Nothing, III-ii''
 ===Expletive===
-A () An expletive, void of sense, to fill up the meter
-
+#An expletive, void of sense, to fill up the meter in a rhyming couplet
+#:'''Quotations'''
+#:*A merry heart goes all the day, <br>Your sad tires in a mile-a - Shakespeare, ''The Winter's Tale, IV-iii''
+===Abreviation===
+#''(as capital):'' vehicle distinguishing sign for [[Austria]]
 ===Prefix===
 See [[a-]] for these usages
