@@ -1,0 +1,9 @@
+===Etymology===
+Coined by Sylvia Wright in 1954 from a mishearing of the stanza in the Scottish ballad ''The Bonny Earl of Murray''
+:Ye Highlands and Ye Lowlands
+:Oh where hae you been?
+:They hae slay the Earl of Murray,
+:And laid him on the green.  (Misheard as "And Lady Mondegreen")
+
+===Noun===
+#A form of error arising from mishearing a spoken or sung phrase, as in Bob Dylan's "The ants are my friends, blowin' in the wind."
