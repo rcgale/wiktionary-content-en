@@ -71,9 +71,9 @@ To practice a little more, let's use "widzi", which is appropriate form of verb 
 = Polish pronunciation =
 
 You are probably wondering how to pronounce Polish.
-This is very difficult, especially if you speak language which has simple syllabes, like Japanese.
+This is very difficult, especially if you speak a language which has simple syllables, like Japanese.
 
-Polish spelling is rather regular. It uses 9 special characters, and some characters pairs to represent sounds not available in Latin alphabet.
+Polish spelling is rather regular. It uses 9 special characters, and some characters pair to represent sounds not available in the Latin alphabet.
 
 Vowels are prononuced like in all European languages (and for that matter Japanese) other than English. Consonant are listed as 
 
