@@ -1,3 +1,3 @@
 ==Translations==
 
-*Frenc : [[soupapae de sécurité]]
+*Frenc : [[soupape de sécurité]]
