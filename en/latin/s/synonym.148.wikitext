@@ -8,6 +8,7 @@ Plural form: synonyms
 
 ===Translations===
 *[[Dutch]]: [[synoniem]]
+*[[Esperanto]]: [[sinonimo]]
 *[[Finnish]]: [[synonyymi]]
 *[[French]]: [[synonyme]]
 *[[Spanish]]: [[sinónimo]]
