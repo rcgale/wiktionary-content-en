@@ -8,3 +8,4 @@
 ===Translations===
 *de: noun: [[Englisch]] (1); [[Engländer]] (2); adj.: [[englisch]]
 *nl: noun: [[Engels]] (1); [[Engelsman]] (masc.), [[Engelse]] (fem.), [[Engelsen]] (plur.) (2); adj.: [[Engels]]
+*catalan: noun (m) [[anglès]] ;(f) [[anglesa]]; adj.(m) [[anglès]] ;(f) [[anglesa]]
