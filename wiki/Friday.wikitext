@@ -10,6 +10,7 @@
 *[[Georgian]]: [[პარასკევი]]
 *he: [[יום שישי]]
 *it: [[venerdì]]
+*mi: [[paraire]]
 *nl: [[vrijdag]]
 *pl: [[piątek]]
 *pt: [[sexta-feira]]
