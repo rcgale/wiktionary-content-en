@@ -1,1 +1,2 @@
+* [[barter]]
 * [[freedom of speech]]
