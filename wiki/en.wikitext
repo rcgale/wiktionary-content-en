@@ -1,4 +1,4 @@
-'''En''' /en/ (Dutch) 
+[en] /en/ (Dutch) 
 
 # ''conjunction'', combining two sentences or parts of sentences or words.
 
@@ -9,3 +9,17 @@
 === Translations ===
 
 en: [[and]]
+
+----
+
+[en] /en/ (Spanish) 
+
+# 
+
+=== Examples ===
+
+
+
+=== Translations ===
+
+en: [[in]]
