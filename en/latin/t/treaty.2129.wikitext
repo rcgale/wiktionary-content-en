@@ -2,8 +2,10 @@
 
 Binding agreement under international law concluded by subjects of international law, namely states and international organizations.
 
-===Translations==
+===Translations===
 *French: [[traité]]
+*German: [[Vertrag]]
+*Polish: [[traktat]], [[umowa]]
 *Spanish: [[tratado]]
 
 ===Synonyms===
