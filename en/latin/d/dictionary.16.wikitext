@@ -31,6 +31,7 @@
 *fi: [[sanakirja]]
 *fr: [[dictionnaire]]
 *he: [[מילון]]
+*it: [[dizionario]]
 *nl: [[woordenboek]]
 
 == Further reading ==
