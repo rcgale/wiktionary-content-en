@@ -3,9 +3,10 @@
 #June is the sixth [[month]] in the Gregorian [[calendar]]. It has 30 [[day]]s.
 
 ==Translations==
-*de: Juni
-*es: junio
-*fr: juin
+*de: [[Juni]]
+*es: [[junio]]
+*fr: [[juin]]
+*mi: [[hune]]
 *nl: [[juni]]
 *pl: [[czerwiec]]
 *sq: [[qershor]]
