@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# [[British]] overseas territory in the Caribbean. Official name: British Virgin Islands.
+#:'''Translations'''
+#:*[[Danish]]: [[Britiske Jomfruøer]]
+#:*[[Dutch]]: [[Britse Maagdeneilanden]]
+#:*[[Esperanto]]: [[Britaj Virgulininsuloj]]
+#:*[[Finnish]]: [[Brittiläiset Neitsytsaaret]]
+#:*[[French]]: [[Iles Vierges britanniques]]
+#:*[[German]]: [[Britische Jungferninseln]]
+#:*[[Greek]]: [[Βρετανικές Παρθένοι Νήσοι]]
+#:*[[Italian]]: [[Isole Vergini britanniche]]
+#:*[[Polish]]: [[Brytyjskie Wyspy Dziewicze]]
+#:*[[Portuguese]]: [[Ilhas Virgens Britânicas]]
+#:*[[Russian]]: [[Виргинские острова]]
+#:*[[Spanish]]: [[Islas Vírgenes Británicas]]
+#:*[[Swedish]]: [[Brittiska Jungfruöarna]]
+
+''See'': [[Countries of the world]]
