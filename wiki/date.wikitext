@@ -1,9 +1,17 @@
-[[noun]]
-
+===[[noun]]===
 #A specific day
+#:'''Translations'''
+#:*[[Dutch]]: [[datum]]
+#:*[[French]]: date (on this page)
+#:*[[German]]: [[datum]]
 #A pre-arranged social meeting
-#A type of food that...
+#:'''Translations'''
+#:*[[Dutch]]: [[afspraakje]]
+#:*[[French]]: [[rendez-vous]]
+#The fruit of the date palm
+#:'''Translations'''
+#:*[[Dutch]]: [[dadel]]
+#:*[[French]]: [[datte]]
 
-[[verb]]
-
-To take (someone) on a series of dates(2)
+===[[verb]]===
+#To take (someone) on a series of dates
