@@ -6,7 +6,7 @@
 
 From French ''&eacute;tymologie'', which via Latin [[etymologia]] derives from Greek ''etumologia''. Originally ''looking for the truth in and through words''.
 
-==Quotations==
+==[[w:Quotation|Quotation]]s==
 
 *'''a. 1571''' - Lodovico Castelvetro, ''Aristotle's Art of Poetry'', Page 28.
 *:The Etymology which the Dorians give, seems indeed more probable, than that of the Athenians; for how can Comodein, be made of the word Comazein.
@@ -20,10 +20,11 @@ From French ''&eacute;tymologie'', which via Latin [[etymologia]] derives from G
 See [[wikipedia]] article about [[w:etymology|etymology]]
 
 -----
-==Translations==
+==[[Translation]]s==
 
 * de: [[Etymologie]]
 * es: [[etimología]]
+* [[eo]]: [[etimologio]]
 * fi: [[etymologia]]
 * fr: [[étymologie]]
 * he: [[אטימולוגיה]]
