@@ -1,4 +1,5 @@
-A Turing Machine is the device envisioned by Alan Turing in a paper presented in London to the Mathematical Society on 28th of May 1936. Turing pictured a "Symbol-Processing-Machine" which could be said to have a certain number of states. The machine undertook a specific function at each cycle determined only by two things ; What state the machine started in , and what symbol it saw. Turing's paper presented a range of such machines and within the paper he imagined what he called the "Universal Computing Machine" essentially a single Turing machine that could imitate all other Turing machines and duplicate their actions.
-
-The importance of this paper was that it established the mathematical fundations for a machine with "Universal application" i.e. The electronic computer .
-{{wikify}}
+==English==
+===Noun===
+'''[[Turing]] [[machine]]'''
+{{wikipedia}}
+#(''computing'') An [[abstract]] [[computing]] [[machine]] introduced in 1936 by Alan Turing to give a [[mathematically]] [[precise]] [[definition]] of [[algorithm]]; as such it is still widely used in [[theoretical]] [[computer science]], especially in [[complexity theory]] and the [[theory of computation]]
