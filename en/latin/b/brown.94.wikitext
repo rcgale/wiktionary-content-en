@@ -20,3 +20,7 @@ noun
 *nl: bruin
 *se: brun
 *pt: castanho
+
+verb
+
+*fi: ruskistaa
