@@ -5,3 +5,4 @@
 ===Translations===
 
 *French: sans fil
+*German: [[drahtlos]]
