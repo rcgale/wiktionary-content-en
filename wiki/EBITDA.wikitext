@@ -1,0 +1,1 @@
+Abbreviation of Earnings Before Interest, Taxes, Depreciation and Amortization
