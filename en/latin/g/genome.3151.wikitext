@@ -5,4 +5,5 @@
 
 ===Translations===
 
+*Finnish: [[genomi]]
 *French: [[génome]]
