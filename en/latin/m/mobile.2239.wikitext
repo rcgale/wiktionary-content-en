@@ -10,6 +10,7 @@
 ===Related words===
 
 *[[mobile phone]]
+*[[mobile station]]
 
 ===Ethymology===
 *From latin ''mobilis''
