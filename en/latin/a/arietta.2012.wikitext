@@ -1,4 +1,4 @@
-===Etymology==
+===Etymology===
 Italian diminutive
 ===Noun===
 #a short [[aria]].
