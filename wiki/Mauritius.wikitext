@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southern Africa. Official name: Republic of Mauritius.
+#:'''Translations'''
+#:*[[Chinese]]: [[毛里求斯]]
+#:*[[Danish]]: Mauritius
+#:*[[Dutch]]: Mauritius
+#:*[[Esperanto]]: [[Maŭricio]]
+#:*[[Finnish]]: Mauritius
+#:*[[French]]: [[Maurice]]
+#:*[[German]]: Mauritius
+#:*[[Greek]]: [[Μαυρίκιος]]
+#:*[[Interlingua]]: [[Mauritio]]
+#:*[[Italian]]: [[Maurizio]], Mauritius
+#:*[[Polish]]: Mauritius
+#:*[[Portuguese]]: [[Maurícia]]
+#:*[[Russian]]: [[Маврикий]]
+#:*[[Spanish]]: [[Mauricio]]
+#:*[[Swedish]]: Mauritius
+
+''See'': [[Countries of the world]]
