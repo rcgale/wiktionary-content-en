@@ -13,3 +13,4 @@
 *pt: [[quarta-feira]]
 *sq: [[e mërkurë]]
 *sv: [[onsdag]]
+*yi: [[מיטוואָך]]
