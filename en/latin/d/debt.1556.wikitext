@@ -12,6 +12,7 @@
 
 '''Related words'''
 
+* [[Debt-equity ratio]]
 * [[Domestic debt]]
 * [[External debt]]
 * [[Foreign debt]]
