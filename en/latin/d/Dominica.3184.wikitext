@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Caribbean. Official name: Commonwealth of Dominica.
+#:'''Translations'''
+#:*[[Danish]]: Dominica
+#:*[[Dutch]]: Dominica
+#:*[[Esperanto]]: [[Dominiko]]
+#:*[[Finnish]]: Dominica
+#:*[[French]]: [[Dominique]]
+#:*[[German]]: Dominica
+#:*[[Greek]]: [[Ντομίνικα]], [[Δομίνικα]]
+#:*[[Italian]]: Dominica
+#:*[[Polish]]: [[Dominika]]
+#:*[[Portuguese]]: [[Domínica]]
+#:*[[Russian]]: [[Доминика]]
+#:*[[Spanish]]: Dominica
+#:*[[Swedish]]: Dominica
+
+''See'': [[Countries of the world]]
