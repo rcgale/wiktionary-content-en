@@ -17,15 +17,25 @@
 
 # Something which complements.
 #: ''We believe you will make a good complement to our team.'''
-# {{cattag|geometry}} An angle which, together with a given angle, makes a right angle.
+# {{geometry}} An angle which, together with a given angle, makes a right angle.
+# {{mathematics}} The [[set]] containing exactly those elements of the [[universal set]] not in the given set.
+#: ''The complement of the odd numbers is the even numbers, relative to the natural numbers.''
+# {{logic}} An expression which is true when the other is false, and vice versa.
+# {{electronics}} A voltage level with the opposite logical sense to the given one.
+# {{mathematics}} The complement relative to some other base, being the number which, added to the given ''n''-digit number in base ''b'', results in either ''b''<sup>''n''</sup> or ''b''<sup>''n''<sup>-1.
+# {{cattag2|computing|mathematics}} The [[ones complement]] of a number.
+#: ''The complement of 0xAAAA is 0x5555.''
+# {{cattag2|computing|mathematics}} The [[twos complement]] of a number.
+#: ''The complement of 0xAAAA is 0x5556.''
 # {{music}} An [[interval]] which, together with the given interval, makes an [[octave]].
-# {{cattag|logic}} An expression which is true when the other is false, and vice versa.
-# {{cattag|electronics}} A voltage level with the opposite logical sense to the given one.
-# {{cattag|mathematics}}{{cattag|computing}} The number which, added to the given ''n''-digit number in base ''b'', results in either ''b''<sup>''n''</sup> or ''b''<sup>''n''<sup>-1.
+# The [[color]] which, when mixed with the given color, gives black (for mixing pigments) or white (for mixing light).
+#: ''The complement of blue is orange.''
 
 ===Related Terms===
 *[[complementary]]
 *[[full complement]]
+*[[ones complement]]
+*[[twos complement]]
 
 ===See Also===
 *[[compliment]]
