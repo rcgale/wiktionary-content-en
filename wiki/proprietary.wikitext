@@ -1,7 +1,11 @@
 '''[[adjective]]'''
 
+It´s generally used to refer to  no-[[standard]] features or programs, like the included  during the browsers´ war.
+
+
 === Translation ===
 
+*[[Esperanto]]: [[proprajxa]]
 *[[Interlingua]]: [[proprietari]]
 *[[Spanish]]: [[propietario]]
 *[[Portuguese]]: [[proprietário]]
