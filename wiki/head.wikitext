@@ -11,7 +11,8 @@ Related Germanic words are old German ''houbit'' (Haupt), middle Dutch ''h&ocirc
 # The part of the [[body]] of a living [[organism]] or [[representation]] thereof which contains the [[brain]], [[eye]]s, [[ear|ears]], [[mouth]], and [[nose]].  From ''The Marvelous Land of Oz'', L. Frank Baum: "...when [[all]] was [[ready]] Tip put on the [[pumpkin]] head, [[press|pressing]] it well down onto the [[neck]], and found that it [[fit|fitted]] very well." [http://www.literature.org/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-01.html]
 #:'''Translations'''
 #:*de: [[Kopf]], m; [[Haupt]], n (rarely used)
-#:*he: noun: ראש 
+#:*he: noun: ראש
+#:*is: [[höfuð]] (of person), [[haus]] (of animal) 
 #:*nl: [[hoofd]] (of person or horse), [[kop]] (of animal)
 #:*se: [[huvud]]
 # [[Leader]], [[chief]], as in ''Head of the department''
