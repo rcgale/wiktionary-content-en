@@ -26,7 +26,6 @@
 *da: [[ordbog]]
 *de: [[Wörterbuch]]
 *eo: [[vortaro]]
-*et: [[sõnaraamat]]
 *es: [[diccionario]]
 *et: [[sõnaraamat]]
 *fr: [[dictionnaire]]
