@@ -4,5 +4,6 @@
 #:'''Translations'''
 #:*[[Dutch]]: [[Verenigd Koninkrijk]]
 #:*[[French]]: [[Royaume Uni]]
+#:*[[German]]: [[Vereinigtes Königreich]]
 
 ''See:'' [[Countries of the world]]
