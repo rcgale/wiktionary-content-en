@@ -39,6 +39,7 @@ It is also used as the first part of a compound in the sense of ''before'', ''pr
 </ol>
 
 <HR> <P> <H3>Translations</H3>
+
 Above, <i>[[Preposition]]</i>
 <BR>• [[French]]: [[Au-dessus de]]
 <BR>• [[German]]: [[ über]]
@@ -74,10 +75,10 @@ Above par, <i>[[Adverb]]</i>
 <BR>• [[Portuguese]]: [[Par]]
 <BR>• [[Spanish]]: [[Igualdad]]<BR> 
 
-Above (upwards, up) <i>[[Adverb]]</i> 
-<BR>• [[French]]: [[Vers le haut de]]
+Above (on top, upwards, up) <i>[[Adverb]]</i> 
+<BR>• [[French]]: [[Sur]], [[Vers le haut de]]
 <BR>• [[German]]: [[Herauf]]
-<BR>• [[Interlingua]]: [[In alto]]
+<BR>• [[Interlingua]]: [[In alto de]]
 <BR>• [[Italian]]: [[Su]]
 <BR>• [[Portuguese]]: [[Acima de]]
 <BR>• [[Spanish]]: [[Encima de]]
@@ -89,5 +90,5 @@ Above (over) <i>[[Preposition]]</i>
 <BR>• [[Interlingua]]: [[Super supra]]
 <BR>• [[Italian]]: [[Sopra]]
 <BR>• [[Portuguese]]: [[Sobre]]
-<BR>• [[Spanish]]: [[Concluído]]
+<BR>• [[Spanish]]: [[Sobre]]
 <BR>
