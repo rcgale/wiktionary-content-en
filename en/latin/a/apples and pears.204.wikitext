@@ -6,3 +6,5 @@
 
 
 ===Translations===
+
+[[English]]: Stairs
