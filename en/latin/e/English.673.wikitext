@@ -6,11 +6,13 @@
 #:'''Translations'''
 #:*German: [[Englisch]] 
 #:*Dutch: [[Engels]]
+#:*Finnish: [[Englanti]]
 #:*catalan: (m) [[anglès]], (f) [[anglesa]]
 # People from [[England]].
 #:'''Translations'''
 #:*German: [[Engländer]] 
 #:*Dutch: [[Engelsman]] (masc.), [[Engelse]] (fem.), [[Engelsen]] (plur.)
+#:*Finnish: [[englatilainen]]
 #:*catalan: (m) [[anglès]], (f) [[anglesa]]
 #:*Swedish: [[engelska]]
 ===Adjective===
@@ -18,5 +20,6 @@
 #:'''Translations'''
 #:*German: [[englisch]]
 #:*Dutch: [[Engels]]
+#:*Finnish: [[englatilainen]]
 #:*catalan: (m) [[anglès]], (f) [[anglesa]]
 #:*Swedish: [[engelsk]]
