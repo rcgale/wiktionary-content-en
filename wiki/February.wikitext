@@ -8,6 +8,7 @@ From Latin [[februarius]], derived from [[februare]] ''reinigen'', because it wa
 ==Translations==
 *de: [[Februar]]
 *es: [[febrero]]
+*eu: [[otsail]]
 *fr: [[février]]
 *he: [[פברואר]]
 *mi: [[pepuere]]
