@@ -38,3 +38,6 @@ Usage note: a preceding comma may alter the meaning of a clause starting with a 
 ==Latin==
 ===Noun===
 #Ablative singular of ''[[dies]]'' meaning [[day]].
+
+===Expressions===
+#''Sine die'': Without a day
