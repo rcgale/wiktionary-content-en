@@ -1,0 +1,3 @@
+'''Above-cited''', ''[[adjective (part of speech)|adjective]]''
+
+Cited before, in the preceding part of a book or writing.
