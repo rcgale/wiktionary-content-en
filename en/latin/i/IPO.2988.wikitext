@@ -1,0 +1,6 @@
+===[[noun]]===
+
+===[[Acronym]] for===
+[[Initial Public Offering]].
+
+The first [[public offering]] of company [[stock]]s for [[subscription]] when [[enlist]]ing a company on a [[stock exchange]]
