@@ -2,4 +2,4 @@ Spanish
 
 ==Adverb==
 
-#Less
+#[[Less]]
