@@ -1,3 +1,3 @@
 ===[[Abbreviation]]===
 
-#Vlaamse Toeristenbond - Vlaamse Automobilistenbond (Belgian Tourist and  Automobile Association)
+#Vlaamse Toeristenbond - Vlaamse Automobilistenbond (Belgian Tourist and Automobile Association)
