@@ -7,9 +7,11 @@
 
 ===Translation===
 *Dutch: [[traag]], [[langzaam]]
+*Finnish: [[hidas]]
 *French: [[lent]]
+*Hungarian: [[lassú]]
 *German: [[langsam]]
-*Hebrew: [[לאט]]
+*Hebrew: [[???]]
 *Spanish: [[lento]]
 
 ===Derivative words===
