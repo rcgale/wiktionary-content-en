@@ -3,5 +3,7 @@
 #July is the 7th [[month]] in the Gregorian [[calendar]]. It has 31 days.
 
 ==Translations==
+*es: julio
+*fr: juillet
 *nl: [[juli]]
 *pl: [[lipiec]]
