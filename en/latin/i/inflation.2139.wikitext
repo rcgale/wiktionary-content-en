@@ -15,5 +15,7 @@
 #:*Spanish: [[inflación]]
 ===[[Antonym]]s===
 * [[deflation]]
-===Derivative terms===
+===[[Derivative]] [[term]]s===
 *[[core inflation]]
+===See also===
+*[[w:Inflation (economics)|Wikipedia article about inflatio]]
