@@ -1,3 +1,7 @@
+'''[[adjective]]'''
+
 === Translation ===
 
-*Spanish :propietario
+*[[Interlingua]]: [[proprietari]]
+*[[Spanish]]: propietario
+*[[Portuguese]]: [[proprietário]]
