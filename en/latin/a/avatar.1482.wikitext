@@ -1,6 +1,7 @@
 ==Definition==
 ;'''Avatar''' ''([[noun]])'' 
-:Computer representation (normally humanoid) of a person. 
+# In Hindu mythology: earthly [[incarnation]] of a [[deity]] or [[soul]] in a [[body]]
+#Computer representation (normally humanoid) of a person. 
 ==Quotations==
 ;'''Avatar''' ''([[noun]])'' 
 *'''1997''' - Neil Randall, ''The Soul of The Internet'', ITP (US) (1997). Page 339.
