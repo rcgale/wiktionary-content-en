@@ -1,1 +1,1 @@
-A '''transitive''' or "aiming" verb is a verb that requires an object in active sentences. For that reason it can construct a personal passive (valid in english?).
+A '''transitive''' or "aiming" verb is a verb that requires a direct object in active sentences. For that reason it can construct a personal passive (valid in english?).
