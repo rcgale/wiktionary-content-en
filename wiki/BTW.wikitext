@@ -6,3 +6,4 @@ By the Way
 #Abbreviation of [[Belasting op de toegevoegde waarde]]
 #:'''Translations'''
 #:*English: [[VAT]]
+#:*French: [[TVA]]
