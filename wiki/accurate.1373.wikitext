@@ -1,0 +1,13 @@
+''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Accurate]] for the new Wiktionary definition of this term.''
+
+'''Accurate''', ''<code>[[adjective (part of speech)|adjective]]</code>'' [L. ''accuratus'', p. p. and a., fr. ''accurare'' to take care of; ''ad'' + ''curare'' to take care, ''cura'' care. See [[Cure]].]
+
+<ol>
+<li>In exact or [[careful]] conformity to truth, or to some standard of [[requirement]], the result of care or pains; free from failure, error, or defect; exact; as, an ''accurate'' [[calculator]]; an ''accurate'' measure; ''accurate'' expression, knowledge, etc.
+
+<li> [[Precisely]] fixed; [[executed]] with care; careful. [Obs.]
+
+<code>Those conceive the celestial bodies have more ''accurate'' influences upon these things below. ''[[Bacon (source)|Bacon]].''</code>
+
+'''Synonyms:''' -- Correct; exact; just; nice; particular. -- [[Accurate]], [[Correct]], [[Exact]], [[Precise]]. We speak of a thing as ''correct'' with reference to some rule or standard of comparison; as, a ''correct'' account, a ''correct'' [[likeness]], a man of ''correct'' [[deportment]]. We speak of a thing as ''accurate'' with reference to the care [[bestowed]] upon its execution, and the increased [[correctness]] to be [[expected]] [[therefrom]]; as, an ''accurate'' statement, an ''accurate'' [[detail]] of particulars. We speak of a thing as ''exact'' with reference to that perfected state of a thing in which there is no defect and no [[redundance]]; as, an ''exact'' [[coincidence]], the ''exact'' truth, an ''exact'' likeness. We speak of a thing as ''precise'' when we think of it as [[strictly]] [[conformed]] to some rule or model, as if ''cut down'' [[thereto]]; as a ''precise'' conformity instructions; ''precisely'' right; he was very ''precise'' in giving his directions.
+</ol>
