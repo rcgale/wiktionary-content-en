@@ -1,10 +1,11 @@
-===Etymology===
+===[[Etymology]]===
 Old English ''aboute'', ''abouten'', ''abuten''; Anglo-Saxon ''&#257;butan'', ''onbutan''; ''on'' + ''butan'', which is from ''be'' by + u''tan'' outward, from ''ut'' out. See [[But]], [[Out]]
-===Preposition===
+===[[Preposition]]===
 #Around; all round; on every side of.
-#:'''Quotations'''
+#:'''[[Quotation]]s'''
 #:*If thou beest not immortal look ''about'' you. - Shakespeare, ''Julius Caesar, II-iii''
 #:*Bind them ''about'' thy neck. - ''Proverbs 3:3''
+Translations :
 #In the [[immediate]] [[neighborhood]] of; in [[contiguity]] or [[proximity]] to; near, as to place; by or on (one's person).
 #:'''Quotations'''
 #:*Have you much money ''about'' you? - [[Bulwer]]
@@ -28,7 +29,7 @@ Old English ''aboute'', ''abouten'', ''abuten''; Anglo-Saxon ''&#257;butan'', ''
 #:'''Quotations'''
 #:*To treat ''about'' thy ransom. - [[Milton]]
 #:*She must have her way ''about'' Sarah. - [[Trollope]]
-===Adverb===
+===[[Adverb]]===
 #On all sides; around.
 #:'''Quotations'''
 #:*'Tis time to look ''about''. - Shakespeare, ''King Lear, IV-vii''
