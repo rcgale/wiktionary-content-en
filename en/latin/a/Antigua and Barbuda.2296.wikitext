@@ -5,7 +5,7 @@
 # Country in the Caribbean. Official name: Antigua and Barbuda.
 #:'''Translations'''
 #:*[[Chinese]]: [[安提瓜岛和巴布达]]
-#:*[[Dannish]]: [[Antigua og Barbuda]]
+#:*[[Danish]]: [[Antigua og Barbuda]]
 #:*[[Dutch]]: [[Antigua en Barbuda]]
 #:*[[Esperanto]]: [[Antigvo-Barbudo]]
 #:*[[Finnish]]: [[Antigua ja Barbuda]]
