@@ -1,1 +1,4 @@
-1. A [[domesticated]] [[mammal]] (Canis familiaris) that is related to [[wolve]]s.
+1. A [[domesticated]] [[mammal]] (Canis familiaris) that is related to [[wolf|wolves]].
+
+== Further reading ==
+*[[en:Dog|Wikipedia article]]
