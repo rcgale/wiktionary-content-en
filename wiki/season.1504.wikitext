@@ -3,7 +3,7 @@
 # each of the four divisions of a [[year]]: [[spring]], [[summer]], [[autumn]] and [[winter]].
 
 [[verb]]
-# [[flavour]] [[food]] with [[spice|spices]].
+# [[flavour]] [[food]] with [[spice|spices]], [[herb|herbs]] or [[salt]].
 
 ===Translations===
 * [[Dutch]]: [[seizoen]] (noun 1); [[kruiden]] (verb 1)
