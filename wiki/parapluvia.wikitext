@@ -1,5 +1,5 @@
 ==[[Interlingua]]==
-/parapluˈvja/
+/paraˈpluvja/
 ===[[Noun]]===
 #Cloth-covered frame used for protection against rain or sun. Synonym: [[umbrella]].
 #:'''Translations'''
