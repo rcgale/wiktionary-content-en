@@ -7,4 +7,6 @@
 === [[Traduko]] ===
 
 *[[Angla]]: [[dictionary]]
+*[[Franca]] : Dictionnaire
+*[[Germana]] : Wörterbuch
 *[[Hispana]]: diccionario.
