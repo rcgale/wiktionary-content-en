@@ -15,7 +15,7 @@ Used as an ''[[adjective]]''
 
 == Translations ==
 *nl: [[kostuumkoffer]], [[koffer]] (1); [[mengwoord]] (2)
-
+*fr: mot-valise (adj)
 == Further reading ==
 
 * [[w:portmanteau|Wikipedia article]]
