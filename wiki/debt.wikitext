@@ -1,0 +1,17 @@
+'''Debt''' is the money you have to pay to somebody usualy beacause he has lended it to you. 
+
+
+'''Translations'''
+
+* Dutch : [[schulde]]
+* French : [[dette]]
+* Spanish :[[deuda]]
+ 
+
+'''Related words'''
+
+* [[Domestic debt]]
+* [[External debt]]
+* [[Foreign debt]]
+* [[Interest rate]]
+* [[National debt]]
