@@ -9,6 +9,7 @@ Past tense and participle: died; Present participle: dying
 #:*[[French]]: [[mourir]]
 #:*[[Frisian]]: [[deagean]], [[ferstjerre]], [[stjerre]]
 #:*[[German]]: [[sterben]]
+#:*[[Hebrew]]:[[למות]]
 #:*[[Japanese]]: [[死ぬ]] (しぬ;shinu)
 #:*[[Korean]]: [[죽다]] (jukda)
 
@@ -26,6 +27,7 @@ Plural: dice
 #:*[[French]]: [[dé]]
 #:*[[Frisian]]: [[dobbelstien]]
 #:*[[German]]: [[Würfel]]
+#:*[[Hebrew]]: [[קוביה]]
 
 Plural: dies
 #A device for cutting into a specified shape
