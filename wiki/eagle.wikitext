@@ -43,6 +43,7 @@
 *[[Lithuanian]]: [[Erelis]]
 *[[Maltese]]: [[Ajkla]]
 *[[Moldavian]]: [[Vultur]]
+*[[Nahuatl]]: [[cuāuhtli]]
 *[[Norwegian]]: [[Ørn]]
 *[[Polish]]: [[Orzeł]] (1)
 *[[Portugese]]: [[Aguia]]
