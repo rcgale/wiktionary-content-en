@@ -4,4 +4,4 @@
 #:*[[yeti]]
 #:'''translations'''
 #:*[[Dutch]]: [[Verschrikkelijke Sneeuwman]]
-#:'''related words:''' [[Bigfoot]], [[Sasquatch]], [[yowie]]
+''related words:'' [[Bigfoot]], [[Sasquatch]], [[yowie]]
