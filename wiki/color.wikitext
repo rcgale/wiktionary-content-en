@@ -10,7 +10,12 @@ American English for [[colour]]
 
 ==Translations==
 
+*[[Dutch]]: [[kleur]]
 *[[English(British)]]: [[Colour]]
+*[[French]]: [[couleur]]
+*[[German]]: [[Farbe]]
 *[[Hebrew]]: [[צבע]]
 *[[Polish]]: [[kolor]]
+*[[Portuguese]]: [[cor]]
+*[[Spanish]]: [[color]]
 *[[Yiddish]]: [[פאַרבּ]]
