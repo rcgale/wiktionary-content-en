@@ -6,6 +6,7 @@
 *de: [[Montag]]
 *es: [[lunes]]
 *fr: [[lundi]]
+*he: [[יום שני]]
 *nl: [[maandag]]
 *pl: [[poniedziałek]]
 *pt: [[segunda-feira]]
