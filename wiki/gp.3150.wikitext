@@ -1,5 +1,5 @@
 French
 
-===Abbreviation===
+===[[Abbreviation]]===
 
 #[[glycoprotéine]]
