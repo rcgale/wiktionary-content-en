@@ -1,0 +1,1 @@
+(adjective, esp. poetic) of or relating to the river Lethe, which in anicent Greek myth flowed through the underworld, and which upon being drunk by the dead resulting in them forgetting all of their previous life; by extension, of or relating to death.
