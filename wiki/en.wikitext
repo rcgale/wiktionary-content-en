@@ -1,3 +1,8 @@
+==English==
+[en] /en/
+
+# The letter 'N'
+----
 ==Dutch==
 [en] /en/
 
@@ -30,7 +35,3 @@
 * nl: [[in]]
 
 ----
-==English==
-[en] /en/
-
-# The letter 'N'
