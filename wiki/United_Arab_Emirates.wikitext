@@ -1,8 +1,23 @@
 ==English==
 
-# Country in the Middle East.
-#:'''Translations'''
-#:*[[Dutch]]: [[Verenigde Arabische Emiraten]]
-#:*[[Polish]]: [[Zjednoczone Emiraty Arabskie]]
+'''proper noun'''
 
-''See:'' [[Countries of the world]]
+# Country in the Middle East. Official name: United Arab Emirates.
+#:'''Translations'''
+#:*[[Chinese]]: [[阿拉伯联合酋长国]]
+#:*[[Dannish]]: [[De Forenede Arabiske Emirater]]
+#:*[[Dutch]]: [[Verenigde Arabische Emiraten]]
+#:*[[Esperanto]]: [[Unuiĝintaj Arabaj Emirlandoj]]
+#:*[[Finnish]]: [[Arabiemiirikunnat]]
+#:*[[French]]: [[les Émirats arabes unis]]
+#:*[[German]]: [[Vereinigte Arabische Emirate]]
+#:*[[Greek]]: [[Ηνωμένα Αραβικά Εμιράτα]]
+#:*[[Interlingua]]: [[Emiratos Arabe Unite]]
+#:*[[Italian]]: [[Emirati arabi uniti]]
+#:*[[Polish]]: [[Zjednoczone Emiraty Arabskie]]
+#:*[[Portuguese]]: [[Emiratos Árabes Unidos]]
+#:*[[Russian]]: [[Объединенные Арабские Эмираты]]
+#:*[[Spanish]]: [[Emiratos Árabes Unidos]]
+#:*[[Swedish]]: [[Förenade Arabemiraten]]
+
+''See'': [[Countries of the world]]
