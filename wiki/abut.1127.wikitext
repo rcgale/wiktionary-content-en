@@ -1,0 +1,5 @@
+''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Abut]] for the new Wiktionary definition of this term.''
+
+'''Abut''', ''<code>[[intransitive verb (part of speech)|intransitive verb]]</code>'' [''<code>[[imp. (part of speech)|imp.]] & [[past participle (part of speech)|past participle]]</code>'' [[Abutted]]; ''<code>[[present participle (part of speech)|present participle]] & [[vb. n. (part of speech)|vb. n.]]</code>'' [[Abutting]].] [OF. ''abouter'', ''aboter''; cf. F. ''aboutir'', and also ''abuter''; ''a'' (L. ''ad'') + OF. ''boter'', ''buter'', to push: cf. F. ''bout'' end, and ''but'' end, purpose.]
+
+To [[project]]; to [[terminate]] or border; to be [[contiguous]]; to meet; -- with ''on'', ''upon'', or ''against''; as, his land ''abuts'' on the road.
