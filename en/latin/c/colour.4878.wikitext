@@ -109,3 +109,17 @@ From Latin "color" via Old French "coulour"; in American spelling the
 *Swedish: [[färgsätta]] (1), [[måla]] (2), [[färglägga]] (2), [[rodna]] (3)
 
 [[ja:colour]]
+
+----
+
+As a proof-of-concept, I've added some pages under my user page illustrating how to keep one common article with disambiguations and redirections.  This may not be the final word, but I believe that it should work.  Here are the entry points
+
+*[[user:dmh/color_colour]] Common content.  Links for ''colored'' and ''coloured'' are to user:dmh/colored_coloured.  I didn't change the other links, so they still point to the main articles.
+*[[user:dmh/color(non-English)]] Spanish entry for color
+*[[user:dmh/color]] disambiguation page
+*[[user:dmh/colour]] Redirect to user:dmh/color_colour
+*[[user:dmh/colored_coloured]] Common content.  Links back to [[user:dmh/color_colour]]
+*[[user:dmh/colored]] Redirect to user:dmh/colored_coloured
+*[[user:dmh/coloured]] Redirect to user:dmh/colored_coloured
+
+-[[User:Dmh|dmh]] 19:22, 27 Sep 2004 (UTC)
