@@ -1,3 +1,2 @@
-Abbreviation for:
-
-*Young Womens Hebrew Association
+===Abbreviation===
+#Young Women's Hebrew Association
