@@ -18,7 +18,7 @@ The story that it is from the reputed [[inventor]] of the flushing toilet, Thoma
 ===Etymology 2===
 From "crab's eyes"
 ===Noun===
-A losing throw of 2, 3 or 12 in [[craps]]
+#A losing throw of 2, 3 or 12 in [[craps]]
 ===Derived phrase===
 #'''Crap out'''
 ##To make a losing throw at craps
