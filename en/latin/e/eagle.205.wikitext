@@ -30,7 +30,7 @@
 *[[Georgian]]: [[არწივი]] (Is the first letter a capital? is there one?)
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
 *[[Greek]]: [[Aετός]]
-*[[Hebrew]]: [[עיט]] (also נשר commonly) (Is the first letter a capital? is there one?)
+*[[Hebrew]]: [[עיט]] (also [[נשר]] commonly) 
 *[[Hungarian]]: [[Sas]] 
 *[[Icelandic]]: [[Örn]]
 *[[Interlingua]]: [[Aquila]]
