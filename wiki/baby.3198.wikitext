@@ -3,9 +3,12 @@
 #A very young human being, from birth to a couple of years
 
 ===Translations===
-*[[Dutch]]: baby
+*[[Dutch]]: [[baby]]
 *[[Finnish]]: [[vauva]]
 *[[French]]: [[bébé]]
+*[[Interlingua]]: [[baby]], [[bebe]]
+*[[Spanish]]: [[bebé]]
+*[[Volapük]]: [[cilil]],[[sügäb]]
 
 ===Related words===
 
