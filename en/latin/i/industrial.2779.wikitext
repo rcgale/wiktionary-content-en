@@ -3,7 +3,7 @@
 #Related to the [[industry|industries]]
 
 ===Translations===
-
+*Dutch: [[industrieel]
 *Finnish: [[teollinen]]
 *French: [[industriel]]
 *Interlingua: industrial
