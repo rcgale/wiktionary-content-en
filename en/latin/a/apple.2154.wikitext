@@ -14,4 +14,5 @@
 *Japanese: [[りんご]] (ringo) (fruit)
 *Korean: [[사과]] (sagwa) (fruit)
 *Hindi: Seb
-* Kannad: Sebu
+*Kannad: Sebu
+*Maltese: Tufieha
