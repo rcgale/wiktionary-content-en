@@ -1,6 +1,7 @@
 ==[[Noun]]==
-#The expansion of certain items (such as balloons) when filled with a fluid.
 #Rise in the general level of prices
+#The expansion of certain items (such as balloons) when filled with a fluid.
+
 
 ===Antonyms===
 
@@ -9,7 +10,7 @@
 ===Translations===
 
 *Dutch: [[inflatie]]
-*Finnish: [[inflaatio]]
+*Finnish: [[inflaatio]] (1), [[laajentuminen]] (2)
 *French: inflation
 *Spanish: [[inflación]]
 
