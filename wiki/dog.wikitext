@@ -28,18 +28,20 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 *[[gone to the dogs]]
 *[[rain cats and dogs]]
 
-==Translation==
-
+==Translations==
 *Chinese: [[&#29356;]]
-*French: chien
-*Frisian: hûn
-*Hebrew: כלב
-*Inuktitut: qimmiq
-*Italian: cane
+*French: [[chien]]
+*Frisian: [[hûn]]
+*German: [[Hund]]
+*Hebrew: [[כלב]]
+*Inuktitut: [[qimmiq]]
+*Italian: [[cane]]
 *Lojban: [[gerku]]
-*Maori: kurii
-*Russian: собака
-*Slovak: pes
+*Maori: [[kurii]]
+*Portuguese: [[cão]]
+*Russian: [[собака]]
+*Slovak: [[pes]]
+Spanish: [[perro]]
 *Yiddish: [[הונט]]
 
 == Further reading ==
