@@ -1,0 +1,3 @@
+{ '''Abatis''', '''Abattis''', } ([[&abreve;b]]"[[&adot]];*[[t&ibreve;s]]; ''French'' &adot;`[[b&adot]];`[[t&emacr]];") ''[[noun (part of speech)|noun]]'' [F. ''abatis'', ''abattis'', mass of things [[beaten]] or cut down, fr. ''abattre''. See [[Abate]].] ''([[Fort (subject)|Fort]]).''
+
+A means of defense formed by felled trees, the ends of whose branches are [[sharpened]] and directed outwards, or against the enemy.
