@@ -8,21 +8,17 @@
 :'''Leap''': IPA:/li&#720;p/
 :'''Leaped''': IPA:/li&#720;pd
 :'''Leapt''': IPA:/l&#603;t/ 
-===Definition===
-;'''Leap''' (''[[verb]]'')
+===Verb===
+Past tense and past participle: '''Leapt''' or '''leaped''' with no clear rule to favour either form.
 : To jump from one location to another.
-;'''Leapt''' or '''leaped'''
-: Past tense and past participle of Leap.
 ===Quotations===
 * '''c. 1450''': It is grete nede a man to go bak to recouer the better his '''leep''' - anonymous, ''Merlin''.
 * '''1600''': I, I defie thee: wert not thou next him when he leapt into the Riuer? - anonymous, ''The wisdome of Doctor Dodypoll'', Act 4.
 * '''1783''': Th' infernal monarch rear'd his horrid head, '''Leapt''' from his throne, lest Neptune's arm should lay His dark dominions open to the day. - Hugh Blair, from the ''Illiad'' in ''Lectures on Rhetoric and Belles Lettres'' Lecture 4, page 65. 
-* '''1999''' It is better to leap into the void.  - Ai, ''Vice: New & Selected Poems'', page 78. 
+* '''1999''': It is better to leap into the void.  - Ai, ''Vice: New & Selected Poems'', page 78. 
 ===Synonyms===
-;'''Leap'''
 : [[Jump]], [[spring]]
 ===Derived terms===
-;'''Leap'''
 : [[Leapfrog]], [[Leap-year]].
 ===Translations===
 *French: [[sauter]]
