@@ -2,5 +2,8 @@
 
 ===Translations===
 
+*Dutch: eerste
 *French: premier
+*Frisian: earst
+*German: erste
 *Spanish: primero
