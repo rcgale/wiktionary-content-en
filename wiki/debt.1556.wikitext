@@ -7,6 +7,7 @@
 * French: [[dette]]
 * Spanish: [[deuda]]
 * Swedish: [[skuld]]
+* Japanese: [[借金]]
  
 
 '''Related words'''
