@@ -6,7 +6,7 @@ noun, ''feminin''
 
 ====Definition====
 # an instrument to meassure time
-# ~uhr: an instrument to meassure something passing by (cf. [[Wasser~uhr|Wasseruhr]], [[Gas~uhr|Gasuhr])
+# ~uhr: an instrument to meassure something passing by (cf. [[Wasser-uhr|Wasseruhr]], [[Gas-uhr|Gasuhr]])
 ====Translations====
 
 *[[English]]: [[clock]]
