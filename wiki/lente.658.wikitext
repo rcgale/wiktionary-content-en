@@ -1,7 +1,7 @@
 ===Meanings===
 '''nl:''' Traditionally the first of the four [[season]]s, normally from [[March]] 21 to [[June]] 20.
 
-===Translantions===
+===Translations===
 *en: [[spring]]
 *es: [[primavera]]
 *fr: [[printemps]]
