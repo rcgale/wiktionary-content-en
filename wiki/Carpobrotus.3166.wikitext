@@ -1,0 +1,4 @@
+===Etymology===
+Greek ''carpo'' fruit + ''brotus'' edible
+===Noun===
+#A genus of plants in the family [[Aizoaceae]], includes [[sea figs]] and [[freeway iceplants]]
