@@ -2,9 +2,10 @@
 '''to ping''' ([[pings]], [[pinged]], [[pinging]])
 
 #To emit a signal and then listen for its echo in order to detect objects.
-# (''networking'') To send an packet in order to determine whether a [[host]] is present.
+# (''networking'') To send an packet in order to determine whether a [[host]] is present, particularly by use of the ping utility.
 #: ''I'm pinging kremvax.''
-# (''networking'') To send a packet and receive a response indicating that the host is present.
+#: ''The server pings its affiliates periodically.''
+# (''networking'') To ping successfully in the previous sense.
 #: ''I can't ping kremvax.''
 #To send an email or other message to someone in hopes of eliciting a response.
 #: ''I'll ping the insurance company again to see if they've received our claim.''
@@ -29,3 +30,6 @@
 
 ===See also===
 *[[ping pong]]
+*[[ack]]
+*[[poll]]
+*[[heartbeat]]
