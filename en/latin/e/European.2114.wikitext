@@ -5,6 +5,9 @@
 ===Translations===
 
 *Dutch: [[Europeaan]]
+*Interlingua: [[europeo]]
+*Português: [[europeu]]
+*Spanish: [[europeo]]
 
 ==[[Adjective]]==
 
