@@ -1,9 +1,8 @@
-*
+'''[[adjective]]'''
 
+# Unrefined, as in [[crude oil]]
+# A [[portmanteau]] word meaning [[crass]] and [[rude]]
 
-* Crude oil
-[[w:Crude oil]]
+== Translations ==
 
-'''Translations'''
-* French : [[pétrole brute]]
 * Spanish : [[crudo]]
