@@ -8,6 +8,7 @@
 *fr: [[dimanche]]
 *[[Georgian]]: [[კვირადღე]]
 *he: [[יום ראשון]]
+*mi: [[rätapu]]
 *nl: [[zondag]]
 *pl: [[niedziela]]
 *pt: [[Domingo]]
