@@ -1,3 +1,7 @@
 '''[[noun]]'''
 
 # An abbreviation of "File Transfer Protocol", a way to transfer files over over the [[internet]].
+
+'''[[verb]]'''
+
+to ftp: to send/receive data using an FTP-Client/Server.
