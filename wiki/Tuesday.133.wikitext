@@ -3,6 +3,7 @@
 #The second day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
+*az: [[çerş&#601;nb&#601; axşamı]]
 *Blackfoot: [[Isttsinaiksistsiko]]
 *de: [[Dienstag]]
 *es: [[martes]]
