@@ -1,0 +1,8 @@
+==[[Noun]]==
+
+#Social science that studies society's allocation of scarce resources to meet unlimited desires and wants.
+
+===Translations===
+
+*French: [[économie]]
+*Spanish: [[economía]]
