@@ -2,22 +2,22 @@
 ===Noun===
 #'len-te /lent@/, ''masculine and feminine'', ''plural'' -s /-s/. Traditionally the first of the four [[season]]s, typically regarded as being from [[March]] 21 to [[June]] 20 in Northern [[Hemisphere]] regions and from [[September]] 21 to [[December]] 20 in Southern Hemisphere regions.
 ====Translation====
-*[[English]]: [[Spring]]
+*[[English]]: [[spring]]
 *[[Estonian]]: [[kevad]]
 *[[Finnish]]: [[kevät]]
-*[[French]]: [[Printemps]]
+*[[French]]: [[printemps]]
 *[[German]]: [[Frühling]], [[Lenz]]
 *[[Hebrew]]: [[אביב]]
 *[[Hungarian]]: [[tavasz]]
-*[[Polish]]: [[Wiosna]]
-*[[Spanish]]: [[Primavera]]
+*[[Polish]]: [[wiosna]]
+*[[Spanish]]: [[primavera]]
 *[[Yiddish]]: [[פרילינג]]
 ----
 ==French==
 ===Adjective===
 #Feminine form of the adjective ''lent'' meaning [[slow]]
 ====Translations====
-*[[Dutch]]: [[Langzaam]] 
+*[[Dutch]]: [[traag]], [[langzaam]] 
 *[[German]]: [[langsam]]
 *[[Hebrew]]: [[איטית]]
 ----
@@ -25,8 +25,8 @@
 ===Noun===
 #Object, usually of glass, that focuses or defocuses the light that passes through it
 ====Translations====
-*[[English]]: [[Lens]]
-*[[Dutch]]: [[Lens]]
+*[[English]]: [[lens]]
+*[[Dutch]]: [[lens]]
 *[[German]]: [[Linse]]
 *[[Hebrew]]: [[עדשה]]
 *[[Yiddish]]: [[לינז]] (also [[אָפטיש גלאָז]])
@@ -35,8 +35,8 @@
 ===Noun===
 #Object, usually of glass, that focuses or defocuses the light that passes through it
 ====Translations====
-*[[English]]: [[Lens]]
-*[[Dutch]]: [[Lens]]
+*[[English]]: [[lens]]
+*[[Dutch]]: [[lens]]
 *[[German]]: [[Linse]]
 *[[Hebrew]]: [[עדשה]]
 *[[Yiddish]]: [[לינז]] (also [[אָפטיש גלאָז]])
