@@ -1,0 +1,21 @@
+''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Acid]] for the new Wiktionary definition of this term.''
+
+'''Acid''', ''<code>[[adjective (part of speech)|adjective]]</code>'' [L. ''acidus'' sour, fr. the root ''ak'' to be sharp: cf. F. ''acide''. Cf. [[Acute]].]
+
+<ol>
+<li>Sour, sharp, or [[biting]] to the taste; tart; having the taste of vinegar: as, ''acid'' fruits or liquors. Also fig.: [[Sour-]] tempered.
+
+<code>He was stern and his face as ''acid'' as ever. ''[[A. Trollope (source)|A. Trollope]].''</code>
+
+<li> Of or pertaining to an acid; as, ''acid'' reaction.
+</ol>
+-----
+'''Acid''', ''<code>[[noun (part of speech)|noun]]</code>''
+
+<ol>
+<li>A sour substance.
+
+<li> ''([[Chem (subject)|Chem]]).'' One of a class of compounds, generally but not always distinguished by their sour taste, [[solubility]] in water, and [[reddening]] of vegetable blue or [[violet]] colors. They are also characterized by the power of [[destroying]] the [[distinctive]] properties of [[alkalies]] or bases, combining with them to form salts, at the same time [[losing]] their own peculiar properties. They all contain hydrogen, united with a more negative element or radical, either alone, or more generally with oxygen, and take their names from this negative element or radical. Those which contain no oxygen are sometimes called ''hydracids'' in distinction from the others which are called ''oxygen acids'' or ''oxacids''.
+
+'''''Note:''''' In certain cases, sulphur, [[selenium]], or [[tellurium]] may take the place of oxygen, and the corresponding compounds are called [[respectively]] ''sulphur acids'' or ''sulphacids'', ''selenium acids'', or ''tellurium acids''. When the hydrogen of an acid is replaced by a positive element or radical, a salt is formed, and hence acids are sometimes named as salts of hydrogen; as ''hydrogen nitrate'' for [[nitric]] acid, ''hydrogen sulphate'' for sulphuric acid, etc. In the old [[chemistry]] the name ''acid'' was applied to the oxides of the negative or [[nonmetallic]] elements, now sometimes called ''anhydrides''.
+</ol>
