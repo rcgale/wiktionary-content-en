@@ -1,11 +1,27 @@
-===Etymology===
-From the [[inventor]] of the flushing toilet surname, Thomas Crapper.
+===Etymology 1===
+Middle English; related to Dutch ''krappe'' from ''krappen'', Old French ''crappe'' and Anglo-Latin ''crappa'' = "chaff".<br>
+The story that it is from the reputed [[inventor]] of the flushing toilet, Thomas Crapper is pseudo-etymological.  See http://www.theplumber.com/crapper.html
+===Mass noun===
+''slang''
+#Something of poor quality
+#Something that is rubbish, useless.
+#:Translation
+#:*Dutch: [[rotzooi]]
+#Excrement
+#:Translation
+#:*Dutch: [[poep]]
+===Verb===
+#To defecate
+===Derived phrase===
+#'''Crap on''' - talk at length in a foolish or boring way
 
-.....
-
-slang
-
-*1)Something that is rubbish, useless.
-*2)Remains of food that has not been digested that comes out of the [[anus]].
-
-nl: 1. rotzooi, 2. poep
+===Etymology 2===
+From "crab's eyes"
+===Noun===
+A losing throw of 2, 3 or 12 in [[craps]]
+===Derived phrase===
+#'''Crap out'''
+##To make a losing throw at craps
+##To withdraw from an activity from fear or fatigue
+##To be unsuccessful
+##''(of a machine):'' To break down
