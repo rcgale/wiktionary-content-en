@@ -4,5 +4,6 @@
 
 ===Translations===
 
-*French : [[chômage]]
+*Dutch: [[werkloosheid]]
+*French: [[chômage]]
 *Spanish: [[desempleo]]
