@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Country in Europe. Official name: Bosnia and Herzegovina.
+#:'''Translations'''
+#:*[[Danish]]: [[Bosnien-Hercegovina]]
+#:*[[Dutch]]: [[Bosnië en Herzegovina]]
+#:*[[Esperanto]]: [[Bosnio-Hercegovino]], [[Bosnio kaj Hercegovino]]
+#:*[[Finnish]]: [[Bosnia ja Hertsegovina]]
+#:*[[French]]: [[Bosnie-Herzégovine]], [[Bosnie-et-Herzégovine]]
+#:*[[German]]: [[Bosnien und Herzegowina]]
+#:*[[Greek]]: [[Βοσνία-Ερζεγοβίνη]], [[Βοσνία και Ερζεγοβίνη]]
+#:*[[Italian]]: [[Bosnia-Erzegovina]]
+#:*[[Polish]]: [[Bośnia i Hercegowina]]
+#:*[[Portuguese]]: [[Bósnia e Herzegovina]]
+#:*[[Russian]]: [[Босния и Герцеговина]]
+#:*[[Spanish]]: [[Bosnia y Hercegovina]]
+#:*[[Swedish]]: [[Bosnien och Hercegovina]]
+
+''See'': [[Countries of the world]]
