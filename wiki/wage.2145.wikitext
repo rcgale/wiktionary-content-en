@@ -1,9 +1,10 @@
 ==[[noun]]==
 
-*The money you get for you work.
+#a [[regular]] [[income]] earned through a [[job]].
 
 ===Synonyms===
-*salary
+*[[salary]]
+*[[pay]]
 
 ===Translations===
 
