@@ -1,0 +1,12 @@
+==[[Noun]]==
+
+*War is any conflict involving the organized use of arms and physical force between countries or other large scale armed groups
+
+===Translations===
+
+*[French]] : [[guerre]]
+*[[Spanish]] : [[guerra]]
+
+===Antonyms===
+
+*[[peace]]
