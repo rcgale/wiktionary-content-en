@@ -1,21 +1,33 @@
-===Meanings===
-# Traditionally the first of the four [[season]]s, typically regarded as being from [[March]] 21 to [[June]] 20 in Northern [[Hemisphere]] regions and from [[September]] 21 to [[December]] 20 in Southern Hemisphere regions. 
+===[[Noun]]===
+# Traditionally the first of the four [[season]]s, typically regarded as being from [[March]] 21 to [[June]] 20 in Northern [[Hemisphere]] regions and from [[September]] 21 to [[December]] 20 in Southern Hemisphere regions.
+#:'''Translations'''
+#:*[[Albanian]]: [[pranverë]]
+#:*[[Basque]]: [[udaherri]]
+#:*[[Croatian]]: [[proljeće]]
+#:*[[Dutch]]: [[lente]]
+#:*[[French]]: [[printemps]]
+#:*[[Frisian]]: [[maaitiid]], [[maitiid]]
+#:*[[German]]: [[Frühling]]
+#:*[[Hebrew]]: [[אביב]] (ah-VEEV)
+#:*[[Japanese]]: [[春]] (はる;haru)
+#:*[[Korean]]: [[봄]] (bom)
+#:*[[Mäori]]: [[koanga]]
+#:*[[Polish]]: [[wiosna]]
+#:*[[Portuguese]]: [[primavera]]
+#:*[[Spanish]]: [[primavera]]
+#:*[[Yiddish]]: [[פרילינג]] (FREE-ling)
 # Water source
+#:'''Translations'''
+#:*[[Dutch]]: [[bron]]
+#:*[[French]]: [[source]]
+#:*[[Frisian]]: [[welle]]
+#:*[[German]]: [[Quelle]]
+#:*[[Hebrew]]: [[מעיין]] (mah-ah-YAHN)
+#:*[[Polish]]: [[źródło]]
 # Coil
-
-
-===Translations===
-*[[Albanian]]: [[pranverë]] (1)
-*[[Basque]]: [[udaherri]] (1)
-*[[Croatian]]: [[proljeće]] (1)
-*[[Dutch]]: [[lente]] (1), [[bron]] (2), [[veer]] (3)
-*[[French]]: [[printemps]] (1)
-*[[German]]: [[Frühling]] (1), [[Quelle]] (2)
-*[[Hebrew]]: [[אביב]] (ah-VEEV; noun 1), [[מעיין]] (mah-ah-YAHN; noun 2), [[קפיץ]] (kfeetz; noun 3)
-*[[Japanese]]: [[春]] (はる;haru)
-*[[Korean]]: [[봄]] (bom)
-*[[Mäori]]: [[koanga]] (1)
-*[[Polish]]: [[wiosna]] (1), [[źródło]] (2), [[sprężyna]] (3)
-*[[Portuguese]]: [[primavera]] (1)
-*[[Spanish]]: [[primavera]] (1)
-*[[Yiddish]]: [[פרילינג]] (FREE-ling)
+#:'''Translations'''
+#:*[[Dutch]]: [[veer]]
+#:*[[French]]: [[resort]]
+#:*[[Frisian]]: [[fear]]
+#:*[[Hebrew]]: [[קפיץ]] (kfeetz)
+#:*[[Polish]]: [[sprężyna]]
