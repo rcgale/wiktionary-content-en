@@ -3,3 +3,4 @@
 #Automobile Association
 #:'''Translations''' (foreign equivalents)
 #:*[[Dutch]]: [[ANWB]]
+#:*[[German]]: [[ADAC]]
