@@ -1,5 +1,6 @@
 '''Translations'''
 
 * French : [[parapluie]]
-* pt: chapéu de chuva
-* Spanish: paraguas
+* nl: [[paraplu]], [[regenscherm]]
+* pt: [[chapéu de chuva]]
+* Spanish: [[paraguas]]
