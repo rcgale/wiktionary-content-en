@@ -2,6 +2,7 @@
 
 # Former country on the Balkan Peninsula (now [[Serbia and Montenegro]]).
 #:'''Translations'''
+#:*[[Esperanto]]: [[Jugoslavio]]
 #:*[[Dutch]]: [[Joegoslavië]]
 #:*[[German]]: [[Jugoslavien]]
 
