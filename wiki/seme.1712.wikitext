@@ -1,6 +1,6 @@
 [[Noun]]
 
 ==Meaning==
-# [[linguistic terminology|linguistic]] As defined by the originator of the word, Charles S. Peirce in the article "[[Prolegomena]] to an [[Apology]] for [[Pragmatism]]", first published in <cite>The Monist</cite>, volume xvi, 492–546, 1906 (This can probably be found easier in <cite>Collected Papers of Charles Samuel Peirce</cite> volume 4.530-572): "By a ''Seme'' I should [[mean]] anything which serves for any [[purpose]] as a [[substitute]] for an [[object]] of which it [[is]], in some sense, a [[representation]] or [[sign]]."
+# [[linguistic terminology|linguistic]] As defined by the originator of the word, Charles S. Peirce in the article "[[Prolegomena]] to an [[Apology]] for [[Pragmatism]]", first published in <cite>The Monist</cite>, volume xvi, 492–546, 1906 (This can probably be found easier in <cite>Collected Papers of Charles Samuel Peirce (Macintosh)</cite> volume 4.530-572, Charles Sanders Peirce, edited by: Charles Hartshorne, Paul Weiss, Arthur W. Burks, Theommes Press, 1997, hardcover in 8 volumes bound as 7, 3749 pages, ISBN 1855065568, earlier editions were published by Harvard and Cambridge University Presses): "By a ''Seme'' I should [[mean]] anything which serves for any [[purpose]] as a [[substitute]] for an [[object]] of which it [[is]], in some sense, a [[representation]] or [[sign]]."
 
 See [[semeiotic]] [[semantics]], and [[semiotics]].
