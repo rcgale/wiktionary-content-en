@@ -3,5 +3,6 @@
 #The first day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
+*es: lunes
 *fr: [[lundi]]
 *nl: [[maandag]]
