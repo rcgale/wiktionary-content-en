@@ -9,3 +9,4 @@ From [[rain dogs and cats]].
 
 *nl: [[pijpenstelen regenen]]
 *fr: pleuvoir des cordes, pleuvoir à verse, (dracher in Belgium)
+*it: piovere a catinelle
