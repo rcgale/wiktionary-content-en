@@ -3,7 +3,7 @@
 #:'''Translations'''
 #:*Dutch: [[ik]]
 #:*German: [[ich]]
-#:*Esperanto: [[mi]]
+#:*[[Esperanto]]: [[mi]]
 #:*French: [[je]]
 #:*Frisian: [[ik]]
 #:*Hindi: [[मैं]](mai.n)
