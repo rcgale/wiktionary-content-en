@@ -1,8 +1,8 @@
-===Etymology===
+===[[Etymology]]===
 French ''accès'', Latin ''accessus'', from ''accedere''. See [[Accede]]
-===Noun===
+===[[Noun]]===
 # permission to [[approach]]
-#:'''Translations'''
+#:'''[[Translation]]s'''
 #:*[[Finnish]]: [[pääsy]]
 #:*[[French]]: [[accès]]
 #:*[[German]]: [[Zugriff]]
@@ -11,7 +11,7 @@ French ''accès'', Latin ''accessus'', from ''accedere''. See [[Accede]]
 #:*[[Portuguese]]: [[acesso]]
 #:*[[Spanish]]: [[acceso]] 
 #A coming to, or near approach; [[admittance]]; admission; [[accessibility]]; as, to gain ''access'' to a prince.
-#:'''Quotations'''
+#:'''[[Quotation]]s'''
 #:*I did repel his fetters, and denied His ''access'' to me. - Shakespeare, ''Hamlet, II-i''
 # The means, place, or way by which a thing may be approached; passage way; as, the ''access'' is by a neck of [[land]].
 #:'''Quotations'''
@@ -27,7 +27,7 @@ French ''accès'', Latin ''accessus'', from ''accedere''. See [[Accede]]
 #:*The first ''access'' looked like an apoplexy. - [[Burnet]]
 #A [[paroxysm]]; a fit of passion; an [[outburst]]; as, an ''access'' of fury. [A [[Gallicism]]]
 #''(law):'' the right of a [[non-custodial parent]] to visit their [[child]]
-===Verb===
+===[[Verb]]===
 #''(computing):'' to have ''access'' to [[data]]
 ===Related Words===
 *[[accessible]]
