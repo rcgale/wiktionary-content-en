@@ -1,0 +1,15 @@
+==English==
+
+'''proper noun'''
+
+# Former name of [[Myanmar]] - country in Southeast Asia.
+#:'''Translations'''
+#:*[[Esperanto]]: [[Birmo]]
+#:*[[French]]: [[Birmanie]]
+#:*[[Interlingua]]: [[Birmania]]
+#:*[[Italian]]: [[Birmania]]
+#:*[[Polish]]: [[Birma]]
+#:*[[Portuguese]]: [[Birmânia]]
+#:*[[Spanish]]: [[Birmania]]
+
+''See'': [[Countries of the world]]
