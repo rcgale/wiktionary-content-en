@@ -10,7 +10,8 @@
 ===Translations===
 
 *[[Afrikaans]]: [[Arend]]
-*[[Albanian]]: [[Shkabë]]
+*[[Albanian]]: [[Shkabë]] (needs to be checked by speaker)
+*[[Arabic]]: [[عُقَاب , نَسْر]] (needs to be checked by speaker)(Is the first letter a capital? is there one?)
 *[[Armenian]]: [[Արծիվ]]
 *[[Azeri]]: [[Qartal]]
 *[[Belarussian]]: [[Aroł]] 
@@ -31,6 +32,7 @@
 *[[Georgian]]: [[არწივი]] (Is the first letter a capital? is there one?)
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
 *[[Greek]]: [[Aετός]]
+*[[Ha
 *[[Hebrew]]: [[עיט]] (also [[נשר]] commonly) 
 *[[Hungarian]]: [[Sas]] 
 *[[Icelandic]]: [[Örn]]
@@ -54,6 +56,7 @@
 *[[Slovak]]: [[Orol]]
 *[[Slovenian]]: [[Orel]]
 *[[Spanish]]: [[Águila]] (1)
+*[[Spanish(Latin American)]]: [[Águila]]
 *[[Swazi]]: [[Lú-khôzi]]
 *[[Swedish]]: [[Örn]]
 *[[Thai]]: [[อินทรี]] (Is the first letter a capital? is there one?)
