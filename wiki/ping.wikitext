@@ -1,30 +1,46 @@
-===Verb===
-'''to ping''' ([[pings]], [[pinged]], [[pinging]])
+==English==
 
-#To emit a signal and then listen for its echo in order to detect objects.
-# (''networking'') To send an packet in order to determine whether a [[host]] is present, particularly by use of the ping utility.
-#: ''I'm pinging kremvax.''
-#: ''The server pings its affiliates periodically.''
-# (''networking'') To ping successfully in the previous sense.
-#: ''I can't ping kremvax.''
-#To send an email or other message to someone in hopes of eliciting a response.
-#: ''I'll ping the insurance company again to see if they've received our claim.''
+===Etymology===
+Onamotopoetic
 
 ===Noun===
 '''ping''' ([[pings]])
 
-# A high-pitched short and somewhat sharp sound.
-#: ''My car used to make an odd ping, but after my last oil change it went away.''
-# A signal, packet or other message produced for the purpose of pinging.
-#: ''The submarine sent out a ping and found a battleship.''
-#: ''The network is overloaded from all the pings.''
-#: ''I sent a ping to the insurance company but they haven't got back to me.''
+# A high-pitched, short and somewhat sharp sound.
+#: ''My car used to make an odd ping, but after the last oil change it went away.''
+# (''submarine navigation'') A pulse of high-pitched or ultrasonic sound whose echoes provide information about nearby objects and vessels.
+#: ''The submarine sent out a ping and got an echo from a battleship.''
+# (''networking'') A packet which a remote [[host]] is expected to echo, thus indicating its presence.
+#: ''The network is overloaded from all the pings going out.''
+# An email or other message sent requesting acknowledgement.
+#: ''I sent a ping to the insurance company to see if they received our claim.''
 
 ==== See also ====
 
 *[[beep]]
 *[[peep]]
 *[[feep]]
+*[[ping pong]]
+*[[ack]]
+*[[heartbeat]]
+
+===Verb===
+'''to ping''' ([[pings]], [[pinged]], [[pinging]])
+
+# To make a high-pitched, short and somewhat sharp sound.
+#: ''My car was pinging until my last oil change.''
+# (''submarine navigation'') To emit a signal and then listen for its echo in order to detect objects.
+# (''networking'') To send a packet in order to determine whether a [[host]] is present, particularly by use of the ping utility.
+#: ''I'm pinging kremvax.''
+#: ''The server pings its affiliates periodically.''
+# (''networking'') To ping and receive an acknowledgement.
+#: ''I can't ping kremvax.''
+#To send an email or other message to someone in hopes of eliciting a response.
+#: ''I'll ping the insurance company again to see if they've received our claim.''
+
+==== See also ====
+
+*[[poll]]
 
 ===Proper noun===
 
@@ -34,9 +50,3 @@
 ====References====
 
 * http://ftp.arl.mil/~mike/ping.html
-
-===See also===
-*[[ping pong]]
-*[[ack]]
-*[[poll]]
-*[[heartbeat]]
