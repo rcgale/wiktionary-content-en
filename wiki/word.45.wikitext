@@ -2,7 +2,7 @@
 
 *Something said or promised.
 
-*(computers) A numerical value with a bit width native to the machine
+*(computers) A numerical value with a [[bit]] width native to the machine
 
 ==Translations==
 *da: [[ord]]
