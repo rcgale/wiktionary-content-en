@@ -1,6 +1,6 @@
 ==Verb==
 
-Have some data about something.
+To have some data about something or somebody.
 
 *[[Irregular Conjugation]]:
 **Know : [[infinitive]]
