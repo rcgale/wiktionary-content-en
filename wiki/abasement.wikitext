@@ -2,4 +2,4 @@
 
 The act of [[abasing]], [[humbling]], or bringing low; the state of being abased or [[humbled]]; [[humiliation]].
 
- <HR> <P> <H3>Translations</H3><BR>•[[French]] fr: [[Confondez]]<BR>•[[German]] de: [[Beschämen Sie]]<BR>•[[Interlingua]] ia: [[Disconcertar]]<BR>•[[Italian]] it: [[]]<BR>•[[Portuguese]] pt: [[Confunda]]<BR>•[[Spanish]] es: [[]]<BR>•[[]]: [[]]
+ <HR> <P> <H3>Translations</H3><BR>•[[French]] fr: [[]]<BR>•[[German]] de: [[Beschämen Sich]]<BR>•[[Interlingua]] ia: [[Abassamento]]<BR>•[[Italian]] it: [[]]<BR>•[[Portuguese]] pt: [[Rebaixe]]<BR>•[[Spanish]] es: [[Rebajación]]<BR>•[[]]: [[]]
