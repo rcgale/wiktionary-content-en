@@ -51,6 +51,11 @@
 '''AND'''
 #Logic function AND. True if all inputs are true. False otherwise.
 
+(0 AND 0) = 0<br>
+(0 AND 1) = 0<br>
+(1 AND 0) = 0<br>
+(1 AND 1) = 1<br>
+
 ====Translations====
 
 *Finnish: [[JA]]
