@@ -7,5 +7,7 @@ From Latin [[februarius]], derived from [[februare]] ''reinigen'', because it wa
 
 ==Translations==
 *de: [[Februar]]
+*es: [[febrero]]
+*fr: [[février]]
 *nl: [[februari]]
 *pl: [[luty]]
