@@ -6,6 +6,7 @@
 ===Translations===
 
 *Dutch: [[appel]] (fruit)
+*Finnish: [[omena]] (fruit)
 *French: [[pomme]] (fruit)
 *German: [[Apfel]] (fruit)
 *Hebrew: [[תפוח]] (tapuach) (fruit)
