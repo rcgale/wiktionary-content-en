@@ -14,6 +14,8 @@
 
 *Dutch: [[Europees]]
 *French: [[européen]]
+*Interlingua: [[europee]]
+*Portuguese: [[europeu]]
 *Spanish: [[europeo]]
 
 ===Related words===
