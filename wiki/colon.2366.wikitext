@@ -5,3 +5,4 @@
 
 '''translations'''
 *Dutch: [[dubbelepunt]]
+*Finnish: [[kaksoispiste]]
