@@ -1,4 +1,4 @@
-[[Greek]] [[affix]] that means ''life, Nature''.
+[[Greek]] [[affix]] that means ''[[life]], [[Nature]]''.
 
 Examples : 
 
