@@ -6,6 +6,7 @@
 *Blackfoot: Isttsinaiksistsiko
 *de: Dienstag
 *es: martes
+*eu: [[astearte]]
 *fr: [[mardi]]
 *[[Georgian]]: [[სამშაბათი]]
 *he: [[יום שלישי]]
