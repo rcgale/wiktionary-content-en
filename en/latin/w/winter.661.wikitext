@@ -1,38 +1,36 @@
 'win-ter /wInt@/
 
-=== Meanings ===
-
+===[[Noun]]===
 # ''noun'', ''plural'' -s, Traditionally the fourth of the four [[season]]s, typically regarded as being from [[December]] 21 to [[March]] 20 in Northern [[Hemisphere]] regions and from [[June]] 21 to [[September]] 20 in Southern Hemisphere regions. 
 :Usually marked by the applicable hemisphere of the [[planet]] being at its minimum angle of exposure to the [[Sun]] resulting in short days and the typically the time period with the lowest atmospheric [[temperature]]s for the region.
+#:'''Translations'''
+#:*[[Albanian]]: [[dinër]]
+#:*[[Basque]]: [[negu]]
+#:*Croatian: [[zima]]
+#:*[[Czech]]: [[zima]]
+#:*[[Danish]]: [[vinter]]
+#:*[[Dutch]]: winter (on this page)
+#:*[[Estonian]]: [[talv]]
+#:*[[Finnish]]: [[talvi]]
+#:*[[French]]: [[hiver]]
+#:*[[Frisian]]: winter (on this page)
+#:*[[German]]: Winter (on this page)
+#:*[[Hebrew]]: [[חורף]] (KHO-ref)
+#:*[[Indonesian]]: [[musim dingin]]
+#:*[[Irish]]: [[Geimhreadh]]
+#:*[[Japanese]]: [[冬]] (ふゆ;huyu)
+#:*[[Korean]]: [[겨울]] (gyeo-ul)
+#:*[[Mäori]]: [[takurua]]
+#:*[[Norwegian]]: [[vinter]]
+#:* [[Polish]]: [[zima]]
+#:*[[Portuguese]]: [[inverno]]
+#:*[[Romanian]]: [[iarna]]
+#:*[[Spanish]]: [[invierno]]
+#:*[[Turkish]]: [[kiş]]
+#:*[[Yiddish]]: [[װינטער]] (VIN-ter)
 
-=== Translations ===
-
-*[[Albanian]]: [[dinër]]
-*[[Basque]]: [[negu]]
-*Croatian: [[zima]]
-*[[Czech]]: [[zima]]
-*[[Danish]]: [[vinter]]
-*[[Dutch]]: winter (on this page)
-*[[Estonian]]: [[talv]]
-*[[Finnish]]: [[talvi]]
-*[[French]]: [[hiver]]
-*[[German]]: Winter (on this page)
-*[[Hebrew]]: [[חורף]] (KHO-ref)
-*[[Indonesian]]: [[musim dingin]]
-*[[Irish]]: [[Geimhreadh]]
-*[[Japanese]]: [[冬]] (ふゆ;huyu)
-*[[Korean]]: [[겨울]] (gyeo-ul)
-*[[Mäori]]: [[takurua]]
-*[[Norwegian]]: [[vinter]]
-* [[Polish]]: [[zima]]
-*[[Portuguese]]: [[inverno]]
-*[[Romanian]]: [[iarna]]
-*[[Spanish]]: [[invierno]]
-*[[Turkish]]: [[kiş]]
-*[[Yiddish]]: [[װינטער]] (VIN-ter)
-
-== Dutch ==
+=== Dutch ===
 'win-ter /wInt@R/, ''masculine noun'', ''plural'' -s /-s/, winter.
 
-== German ==
+=== German ===
 'Win-ter /???/, ''masculine noun'', ''plural'' ???, winter.
