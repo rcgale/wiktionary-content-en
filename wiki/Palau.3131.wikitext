@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Oceania. Official name: Republic of Palau.
+#:'''Translations'''
+#:*[[Danish]]: Palau
+#:*[[Dutch]]: Palau
+#:*[[Esperanto]]: [[Belaŭo]], [[Palaŭo]]
+#:*[[Finnish]]: Palau
+#:*[[French]]: [[Belau]], Palau
+#:*[[German]]: Palau
+#:*[[Greek]]: [[Παλάου]]
+#:*[[Interlingua]]: Palau
+#:*[[Italian]]: Palau
+#:*[[Polish]]: Palau, [[Belau]]
+#:*[[Portuguese]]: Palau
+#:*[[Russian]]: [[Палау]]
+#:*[[Spanish]]: [[Palaos]]
+#:*[[Swedish]]: Palau
+
+''See'': [[Countries of the world]]
