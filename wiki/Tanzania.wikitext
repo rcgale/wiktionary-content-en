@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Eastern Africa. Official name: United Republic of Tanzania.
+#:'''Translations'''
+#:*[[Chinese]]: [[坦桑尼亚]]
+#:*[[Danish]]: Tanzania
+#:*[[Dutch]]: Tanzania
+#:*[[Esperanto]]: [[Tanzanio]]
+#:*[[Finnish]]: [[Tansania]]
+#:*[[French]]: [[Tanzanie]]
+#:*[[German]]: [[Tansania]]
+#:*[[Greek]]: [[Τανζανία]]
+#:*[[Interlingua]]: Tanzania
+#:*[[Italian]]: Tanzania
+#:*[[Polish]]: Tanzania
+#:*[[Portuguese]]: [[Tanzânia]]
+#:*[[Russian]]: [[Танзания]]
+#:*[[Spanish]]: Tanzania
+#:*[[Swedish]]: Tanzania
+
+''See'': [[Countries of the world]]
