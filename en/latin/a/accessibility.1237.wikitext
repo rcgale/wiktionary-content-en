@@ -1,0 +1,5 @@
+''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Accessibility]] for the new Wiktionary definition of this term.''
+
+'''Accessibility''', ''<code>[[noun (part of speech)|noun]]</code>'' [L. ''accessibilitas'': cf. F. ''accessibilit&eacute;''.]
+
+The quality of being [[accessible]], or of admitting approach; [[receptibility]]. ''[[Langhorne (source)|Langhorne]].''
