@@ -7,7 +7,7 @@
 [[Adverb]]
 
 # have permission to. [[You]] may schnock the frectel.
-# possibly, [[but]] [[not]] certain. The schnock may be in the frectel]]
+# possibly, [[but]] [[not]] certain. The schnock may be in the frectel.
 
 ==Translations==
 *de: [[Mai]]
