@@ -2,12 +2,22 @@
 
 '''proper noun'''
 
-# Country in Northern Africa.
+# Country in Northern Africa. Official name: Great Socialist People's Libyan Arab Jamahiriya.
 #:'''Translations'''
+#:*[[Chinese]]: [[利比亚]]
+#:*[[Danish]]: [[Libyen]]
 #:*[[Dutch]]: [[Libië]]
+#:*[[Esperanto]]: [[Libio]]
+#:*[[Finnish]]: Libya
 #:*[[French]]: [[Libye]]
 #:*[[German]]: [[Libyen]]
+#:*[[Greek]]: [[Λιβύη]]
+#:*[[Interlingua]]: Libya
+#:*[[Italian]]: [[Libia]]
 #:*[[Polish]]: [[Libia]]
+#:*[[Portuguese]]: [[Líbia]]
+#:*[[Russian]]: [[Ливия]]
 #:*[[Spanish]]: [[Libia]]
+#:*[[Swedish]]: [[Libyen]]
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
