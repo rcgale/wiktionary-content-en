@@ -2,6 +2,8 @@
 
 ===Translations===
 
-*Dutch: [[zegen]]
+*Dutch: [[zeggen]]
 *French: [[dire]]
+*Frisian: [[sizze]]
+*German: [[Sagen]]
 *Spanish: [[decir]]
