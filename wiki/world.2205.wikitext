@@ -5,6 +5,8 @@
 *Dutch: wereld
 *Finnish: [[maailma]]
 *French: [[monde]]
+*German: [[Welt]]
+*Hebrew: [[עולם]]
 *Spanish: [[mundo]]
 
 ===Synonyms===
