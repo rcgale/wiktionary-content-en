@@ -1,7 +1,7 @@
 ===Etymology===
 ====noun====
 Several etymologies have been found. We give them all here, and leave it to people who are more in the know to pick the real one:
-#Originally invented in 19th century by an English man who [[bet]] he could [[add]] a new [[word]] to the english language. He thus painted his new word on all walls in his hometown he managed to paint. The morning after, everyone was talking about the new word.
+#Reputed without evidence to have been invented by a late 18th century Dublin theatre proprietor who [[bet]] he could [[add]] a new nonsense [[word]] to the english language. He thus had the word painted on walls all over the city. The morning after, everyone was talking about the new word.
 #The original meaning is [[interrogation]] (1867), being derived from the verb. Current meaning only since 1941.
 #Originally ''quies'' (1847), may have derived from Latin ''qui es?'' (Who are you?), traditionally the first question in [[oral]] Latin [[exam]]s. Used as a noun from 1867, spelling quiz first recorded in 1886.
 ====verb====
