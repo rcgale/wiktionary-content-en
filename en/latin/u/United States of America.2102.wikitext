@@ -7,5 +7,6 @@
 #:*[[French]]: [[États-Unis d'Amérique]]
 #:*[[German]]: [[Vereinigte Staaten von Amerika]]
 #:*[[Hebrew]]: [[ארצות הברית]]
+#:*[[Polish]]: [[Stany Zjednoczone Ameryki]], short: [[Stany Zjednoczone]], full: [[Stany Zjednoczone Ameryki Północnej]], colloquial: [[Stany]]
 #:*[[Spanish]]: [[Estados Unidos des América]]
 ''See:'' [[Countries of the world]]
