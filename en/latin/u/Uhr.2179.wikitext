@@ -12,3 +12,4 @@ noun, ''feminin''
 *[[English]]: [[clock]]
 *[[Dutch]]: [[klok]]
 *[[French]]: [[horloge]]
+*[[Hebrew]]: [[שעון]]
