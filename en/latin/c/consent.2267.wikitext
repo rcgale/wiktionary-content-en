@@ -1,0 +1,9 @@
+''noun'' voluntary agreement or permission 
+(He gave ''consent'' to undergo the procedure.)
+
+''verb'' to express willingness, to give permission. 
+(I ''consent'' to...)
+
+[[Synonym]]s [[agreement]], [[willingness]], [[permission]]
+
+See also [[age of consent]].
