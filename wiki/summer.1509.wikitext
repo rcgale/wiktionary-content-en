@@ -1,7 +1,7 @@
 ===Meanings===
 # Traditionally the second of the four [[season]]s, normally from [[June]] 21 to [[September]] 20.
 
-Usually marked by the applicable hemisphere of the planet being at its maximum angle of exposure to the Sun resulting in in the longest days of the year and  typically the time period with the highest atmospheric [[temperature]]s for the region. 
+Usually marked by the applicable hemisphere of the planet being at its maximum angle of exposure to the Sun resulting in the longest days of the year and  typically the time period with the highest atmospheric [[temperature]]s for the region. 
 
 ===Translations===
 *[[Albanian]]: [[verë]]
