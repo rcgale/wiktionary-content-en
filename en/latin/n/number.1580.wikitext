@@ -5,6 +5,13 @@
 # A dimensionless quantity.
 # A symbol for a number; a [[numeral]].
 
+===Translations===
+*[[Dutch]]: [[nummer]], [[getal]]
+*[[French]]: [[numéro]]
+
 ==[[Transitive verb]]==
 
 # To label (items) with numbers; to assign numbers to (items).
+
+===Translations===
+*[[Dutch]]: [[nummeren]]
