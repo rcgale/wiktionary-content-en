@@ -1,4 +1,4 @@
-[U-S-S-R]]
+[U-S-S-R]
 
 ==Abbreviaion==
 
