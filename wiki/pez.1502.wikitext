@@ -1,0 +1,5 @@
+1. (es) [Latin ''pix''] (f.) [[Pitch]], [[tar]], viscous sticky stuff.
+
+2. (es) [Latin ''piscis''] (m.) [[Fish]].
+
+3. (en) A brand of small blocks of candy and dispensers for them.
