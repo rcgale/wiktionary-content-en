@@ -19,3 +19,4 @@
 *fr: chat
 *nl: kat
 *ja: neko
+*pl: kot
