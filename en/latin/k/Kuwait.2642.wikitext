@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Middle East. Official name: State of Kuwait.
+#:'''Translations'''
+#:*[[Chinese]]: [[科威特]]
+#:*[[Danish]]: Kuwait
+#:*[[Dutch]]: [[Koeweit]]
+#:*[[Esperanto]]: [[Kuvajto]]
+#:*[[Finnish]]: Kuwait
+#:*[[French]]: [[Koweït]]
+#:*[[German]]: Kuwait
+#:*[[Greek]]: [[Κουβέιτ]]
+#:*[[Interlingua]]: Kuwait
+#:*[[Italian]]: Kuwait
+#:*[[Polish]]: [[Kuwejt]]
+#:*[[Portuguese]]: Kuwait
+#:*[[Russian]]: [[Кувейт]]
+#:*[[Spanish]]: Kuwait
+#:*[[Swedish]]: Kuwait
+
+''See'': [[Countries of the world]]
