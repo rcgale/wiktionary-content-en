@@ -21,3 +21,7 @@
 #:*[[Esperanto]]: [[hispana]]
 #:*[[Português]]: [[espanhol]]
 #:*[[Spanish]]: [[español]]
+#Race of dogs of Spanish origin.
+#:*[[Dutch]]: [[spaniël]] (hond)
+#:*[[English]]: [[spaniel]]
+#:*[[French]]: [[épagneul]]
