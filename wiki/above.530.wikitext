@@ -37,3 +37,57 @@
 
 It is also used as the first part of a compound in the sense of ''before'', ''previously''; as, ''above''-cited, ''above''- described, ''above''[[-mentioned]], ''above''-named, ''above''said, ''above''specified, ''above''[[-written]], ''above''[[-given]].
 </ol>
+
+<HR> <P> <H3>Translations</H3>
+Above, <i>[[Preposition]]</i>
+<BR>• [[French]]: [[Au-dessus de]]
+<BR>• [[German]]: [[ über]]
+<BR>• [[Interlingua]]: [[Super]]
+<BR>• [[Italian]]: [[Sopra]]
+<BR>• [[Portuguese]]: [[Acima]]
+<BR>• [[Spanish]]: [[Sobre]]
+<BR> 
+
+Above all, <i>[[Prepositional Phrase]]</i> 
+<BR>• [[French]]: [[Surtout]]
+<BR>• [[German]]: [[Vor allem]]
+<BR>• [[Interlingua]]: [[Super toto]]
+<BR>• [[Italian]]: [[Soprattutto]]
+<BR>• [[Portuguese]]: [[Sobretudo]]
+<BR>• [[Spanish]]: [[Sobretodo]]
+<BR> 
+
+Above mentioned, <i>[[Phrase]]</i> 
+<BR>• [[French]]: [[Mentionné ci-dessus]]
+<BR>• [[German]]: [[Obenerwähnt]]
+<BR>• [[Interlingua]]: [[Jam mentionate]]
+<BR>• [[Italian]]: [[Suddetto]]
+<BR>• [[Portuguese]]: [[Acima mencionado]]
+<BR>• [[Spanish]]: [[Antedicho]]
+<BR> 
+
+Above par, <i>[[Adverb]]</i> 
+<BR>• [[French]]: [[Pair]]
+<BR>• [[German]]: [[Gleichheit]]
+<BR>• [[Interlingua]]: [[Super le par]]
+<BR>• [[Italian]]: [[Par]]
+<BR>• [[Portuguese]]: [[Par]]
+<BR>• [[Spanish]]: [[Igualdad]]<BR> 
+
+Above (upwards, up) <i>[[Adverb]]</i> 
+<BR>• [[French]]: [[Vers le haut de]]
+<BR>• [[German]]: [[Herauf]]
+<BR>• [[Interlingua]]: [[In alto]]
+<BR>• [[Italian]]: [[Su]]
+<BR>• [[Portuguese]]: [[Acima de]]
+<BR>• [[Spanish]]: [[Encima de]]
+<BR> 
+
+Above (over) <i>[[Preposition]]</i> 
+<BR>• [[French]]: [[Au-dessus de]]
+<BR>• [[German]]: [[ über]]
+<BR>• [[Interlingua]]: [[Super supra]]
+<BR>• [[Italian]]: [[Sopra]]
+<BR>• [[Portuguese]]: [[Sobre]]
+<BR>• [[Spanish]]: [[Concluído]]
+<BR>
