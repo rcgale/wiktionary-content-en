@@ -7,6 +7,6 @@ noun, ''maskulin''
 ====Translations====
 
 *English [[dog]]
-*Esperanto [[hundo]]
+*[[Esperanto]] [[hundo]]
 *French [[chien]]
 *Russian [[собака]]
