@@ -4,3 +4,6 @@
 
 ===Etymology===
 [[tri]](three) + [[million]] = million, million, million = 1,000,000 + ,000,000 + ,000,000 = 1,000,000,000,000,000,000.
+
+===Translations===
+* Dutch : [[biljoen]]
