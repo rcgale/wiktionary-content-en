@@ -5,6 +5,7 @@
 ==Translations==
 *de: [[August]]
 *es: [[agosto]]
+*eu: [[abuztu]]
 *fr: [[août]]
 *mi: [[äkuhata]]
 *nl: [[augustus]]
