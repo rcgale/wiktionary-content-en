@@ -4,8 +4,10 @@
 
 ===Translations===
 
+*[[Arabic]] : [[حرب]]
 *[[Dutch]] : [[oorlog]]
 *[[French]] : [[guerre]]
+*[[Greek]] : [[πολεμος]]
 *[[Frisian]] : [[oarloch]], [[kriich]]
 *[[German]] : [[Krieg]]
 *[[Japanese]] : [[戦争]] (せんそう;sensou)
