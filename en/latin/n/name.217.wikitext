@@ -4,7 +4,7 @@
 
 [[noun]]
 # A [[word]] which signifies a [[particular]] [[person]], [[thing]], or [[class]]. From ''The Land of Oz'' by L. Frank Baum'' "I must give him a name!" he cried. "So good a man as this must surely have a name. I believe," he added, after a moment's thought, "I will name the fellow 'Jack Pumpkinhead!'"
-# [[Reputation]]
+# [[Reputation]] William Shakespeare <i>Othello, the Moor of Venice, Act III. Scene III.</i> "Iago. Good name in man and woman, dear my [[lord]], Is the immediate [[jewel]] of their [[soul|souls]]: Who [[steal|steals]] my [[purse]] steals [[trash]]; [[’tis]] something, nothing; [[’Twas]] mine, ’tis his, and has been [[slave]] to thousands; But he that [[filtch|filches]] from me my [[good]] name [[rob|Robs]] me of that which not [[enrich|enriches]] him And makes me [[poor]] indeed." [http://www.bartleby.com/100/138.34.42.html]
 
 [[verb]]
 # The [[act]] of [[give|giving]] [[someone]] or [[something]] a name. From ''The Land of Oz'' by L. Frank Baum'' ... "I will name the fellow 'Jack Pumpkinhead!'"; [name after (nl: noemen naar)]
