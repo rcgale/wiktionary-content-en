@@ -1,14 +1,14 @@
-===English===
-
 ===Etymology===
-From the Frencg word Brassire
-
-1)A piece of underwear worn by women to support the breasts
-
-===Translations===
-*[[French]]: [[Soutien-gouge]]
+From the French word ''brassière''
+===Noun===
+#A piece of underwear worn by women to support the breasts
+#:'''Translations'''
+#:*[[French]]: [[Soutien-gorge]]
 
 ----
-===French===
-
-1)A childs vest.
+==French==
+'''Brassière''' (with accent)
+===Noun===
+#A child's vest.
+#''(Maritime):'' A life jacket.
+#''The use of this word, notably in Quebec French, in the sense of the English ''brassiere'' is an anglicism, and a back-formed false friend.''
