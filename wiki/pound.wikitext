@@ -1,5 +1,5 @@
 (en)
-# A unit of mass, consisting of 16 or 12 ounces weighing 454 or 373 [[gram]]s, see [[en:Pound]]
+# A unit of mass, depending on the sytem consisting of 16 or 12 corresponding [[ounce]]s, and equal to 454 or 373 [[gram]]s, see [[en:Pound]]
 # A unit of currency used in the United Kingdom, also Pound Sterling
 
 *de: [[Pfund]]
