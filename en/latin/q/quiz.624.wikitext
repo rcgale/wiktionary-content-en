@@ -7,7 +7,7 @@ Several etymologies have been found. We give them all here, and leave it to peop
 ====verb====
 Meaning 2 is the original (1796), the meaning shifted to meaning 1 (1847) under influence of "to [[question]]" and "[[inquisitive]]".
 ===Pronunciation=== 
-/[[Pronunciation guide|kwis]]/
+/[[Pronunciation guide|kwiz]]/
 ===Noun===
 (also in many other languages)
 # [[Competition]] in the [[answer]]ing of [[question]]s
