@@ -1,6 +1,14 @@
-[Y] /__/
+'''y''' /i/  conjunction (Spanish)
+*[[and]]
 
-[[Spanish]] for [[and]]
+----
 
+'''y''' /i/  indirect object pronoun (French)
+*contraction of ''[[à]] le'' or ''à la''
+*''il '''y''' a'', there is
 
-In [[Text]] messages it is used to mean [[why]]?
+----
+
+'''y''' /wAI/  (English)
+*25th letter of the English alphabet
+*Informal abbreviation for [[why]]
