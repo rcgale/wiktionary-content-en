@@ -46,6 +46,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 *Russian: [[собака]]
 *Slovak: [[pes]]
 *Spanish: [[perro]]
+*Swedish: [[hund]]
 *Yiddish: [[הונט]] (hoont)
 
 == Further reading ==
