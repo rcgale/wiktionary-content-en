@@ -2,17 +2,12 @@
 :'''Leap''': Leep, leape.
 :'''Leapt''': Leapped, lept. 
 ===Etymology===
-;'''Leap'''
-: From old english [[hlýp]]
-;'''Leapt'''
-: Unknown, probable alternate spelling of Leaped (from Leap and suffix -ed). 
+:'''Leap''': From old english [[hlýp]]
+:'''Leapt''': Unknown, probable alternate spelling of Leaped (from Leap and suffix -ed). 
 ===Pronounciation===
-;'''Leap'''
-: IPA:/li&#720;p/
-;'''Leaped'''
-: IPA:/li&#720;pd
-;'''Leapt'''
-: IPA:/l&#603;t/ 
+:'''Leap''': IPA:/li&#720;p/
+:'''Leaped''': IPA:/li&#720;pd
+:'''Leapt''': IPA:/l&#603;t/ 
 ===Definition===
 ;'''Leap''' (''[[verb]]'')
 : To jump from one location to another.
