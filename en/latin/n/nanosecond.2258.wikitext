@@ -9,5 +9,5 @@ A measure of [[time]]
 [[ns]] in the [[SI-system]]
 
 ==Translations==
-
+*German: [[Nanosekunde]]
 *Finnish: [[nanosekuntti]]
