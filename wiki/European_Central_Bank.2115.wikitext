@@ -1,4 +1,4 @@
-[[Central bank]] in the 12 countries of Europe which have adopted the euro currency.
+[[Central bank]] in the [[euro-area]]
 
 ===Synonyms===
 
