@@ -1,0 +1,1 @@
+(Noord-Atlantische Verdragsorganisatie)
