@@ -11,6 +11,7 @@ Old English ''twa'', from Germanic ''*twai'', ''*two'', from PIE ''*dwô''. Cogn
 *fi: [[kaksi]]
 *fr: [[deux]]
 *Frisian: [[twa]]
+*Icelandic: [[tveir]], [[tvær]], [[tvö]], masc, fem, neuter.
 *Lojban: [[re]]
 *nl: [[twee]]
 *pt: [[dois]]
