@@ -22,4 +22,5 @@
 *::Upward---and onward, into outer space,
 *::Where she, thy kindred spirit, waiteth thee.
 ==Translations==
+*de: [[Weltraum]]
 *he: [[החלל החיצון]]
