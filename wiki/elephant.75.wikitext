@@ -1,6 +1,5 @@
-Elephant \El"e*phant\
+Elephant \El"e*phant\ ''noun'' '''(en)'''
 
-[[noun|n.]]
 #A [[mammal]] of the order ''Proboscidia'', having a trunk, and two large [[ivory]] tusks jutting from the upper jaw.  Elephants are the largest land animals now existi
 # the symbol of the [[United States Republican Party]]; introduced in [[cartoon]]s by Thomas Nast in 1874
 
