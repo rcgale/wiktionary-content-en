@@ -1,0 +1,1 @@
+1)An Annual Song Contest based around [[Europe]] that any [[EBU]] country may take part in.
