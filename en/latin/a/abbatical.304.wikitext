@@ -1,3 +1,3 @@
 '''Abbatical''', ''[[adjective (part of speech)|adjective]]''
 
-[[Oxymoron]].[obs.]
+[[adjective]].[obs.]
