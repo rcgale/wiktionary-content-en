@@ -1,3 +1,2 @@
-Abbreviation for:
-
-*Young Womens Christian Association
+===Abbreviation===
+#Young Womens Christian Association
