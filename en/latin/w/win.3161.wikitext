@@ -1,7 +1,7 @@
 ==[[Verb]]==
 
 ===Translations===
-
+*Dutch: [[winnen]]
 *Finnish: [[voittaa]]
 *French: [[gagner]]
 *Spanish: [[ganar]]
@@ -9,5 +9,5 @@
 ==[[noun]]==
 
 ===Translations===
-
+*Dutch: [[overwinning]]
 *Finnish: [[voitto]]
