@@ -1,0 +1,21 @@
+==English==
+
+==[[Noun]]==
+
+===Etymology===
+Spanish word used in English
+
+===Defintion===
+
+Plants in Mexico nearby the border with the United States.
+
+===See also===
+[[w:maquiladora]]
+
+-----
+
+==Spanish==
+==[[Noun]]
+*maquiladora
+===Synonym===
+*[[maquila]]
