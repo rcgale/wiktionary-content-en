@@ -22,6 +22,7 @@ Related Indo-Eurpean words: Latin [[nomen]], Greek [[ονομα]], Irish [[ainm]
 ===Translations===
 *de: noun: Name (on this page) (1,2), [[Ruf]] (2); verb: [[nennen]] (1,3), [[w&auml;hlen]] (2), [[benennen]] (4)
 *nl: noun: [[naam]] (1,2), [[roep]] (2); verb: [[noemen]] (1, ~ after: ~ naar), [[kiezen]] (2), [[vermelden]], [[opnoemen]] (3), [[benoemen]] (4)
+*Korean: noun: [[이름]] (ireum)
 
 ===German===
 noun,''maskulin''
