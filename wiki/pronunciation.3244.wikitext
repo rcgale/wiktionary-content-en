@@ -1,4 +1,4 @@
-[[w:Phoneme| See wikipedia article about pronunciation]]
+[[w:Phoneme| See wikipedia related article about pronunciation]]
 
 ===[[Translation]]s===
 
