@@ -1,0 +1,10 @@
+==[[Interlingua]]==
+/parapluˈvja/
+===[[Noun]]===
+#Cloth-covered frame used for protection against rain or sun. Synonym: [[umbrella]].
+#:'''Translations'''
+#:*[[Dutch]]: [[paraplu]], [[regenscherm]]
+#:*[[English]]: [[umbrella]]
+#:*[[French]]: [[parapluie]]
+#:*[[Portuguese]]: [[guarda-chuva]], [[sombrinha]]
+#:*[[Spanish]]: [[paraguas]]
