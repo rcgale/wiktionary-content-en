@@ -1,0 +1,7 @@
+* Name of the currency of various countries : Argentina, Chile, Mexico and Phillipines.
+
+----
+Spanish
+
+* weight
+* currency of some countries
