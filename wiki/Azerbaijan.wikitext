@@ -5,7 +5,7 @@
 # Country in West Asia. Official name: Republic of Azerbaijan.
 #:'''Translations'''
 #:*[[Chinese]]: [[阿塞拜疆]]
-#:*[[Dannish]]: [[Aserbajdsjan]]
+#:*[[Danish]]: [[Aserbajdsjan]]
 #:*[[Dutch]]: [[Azerbeidzjan]]
 #:*[[Esperanto]]: [[Azerbajĝano]]
 #:*[[Finnish]]: [[Azerbaidžan]]
