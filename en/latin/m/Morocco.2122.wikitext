@@ -2,12 +2,22 @@
 
 '''proper noun'''
 
-# Country in Northern Africa.
+# Country in Northern Africa. Official name: Kingdom of Morocco.
 #:'''Translations'''
+#:*[[Chinese]]: [[摩洛哥]]
+#:*[[Danish]]: [[Marokko]]
 #:*[[Dutch]]: [[Marokko]]
+#:*[[Esperanto]]: [[Maroko]]
+#:*[[Finnish]]: [[Marokko]]
 #:*[[French]]: [[Maroc]]
 #:*[[German]]: [[Marokko]]
+#:*[[Greek]]: [[Μαρόκο]]
+#:*[[Interlingua]]: [[Marroco]]
+#:*[[Italian]]: [[Marocco]]
 #:*[[Polish]]: [[Maroko]]
+#:*[[Portuguese]]: [[Marrocos]]
+#:*[[Russian]]: [[Марокко]]
 #:*[[Spanish]]: [[Marruecos]]
+#:*[[Swedish]]: [[Marocko]]
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
