@@ -1,0 +1,2 @@
+#to [[live]] or [[dwell]] in a certain place (I shall ''abide'' here) (archaic)
+#to [[stand]] or [[tolerate]] something (he can't ''abide'' that kind of behaviour)
