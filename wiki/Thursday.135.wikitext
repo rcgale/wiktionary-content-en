@@ -10,6 +10,7 @@
 *et: [[neljapäev]]
 *eu: [[ostegun]]
 *fr: [[jeudi]]
+*fy: [[tongersdei]]
 *[[Georgian]]: [[ხუთშაბათი]]
 *he: [[יום חמישי]] (yom kha-mee-SHEE)
 *hr: [[Četvrtak]]
