@@ -8,3 +8,4 @@
 *fr: [[vendredi]]
 *nl: [[vrijdag]]
 *pl: [[piątek]]
+*pt: [[sexta-feira]]
