@@ -12,6 +12,12 @@
 # To be in command of 
 # To move into a [[special]] [[direction]]. ''heading towards something''
 
+===Etymology===
+
+From old-English ''h&ecirc;afod'', which derives from Germanic [[khaubuthan]], from indo-European [[kaput-]].
+
+Related Germanic words are old German ''houbit'' (haupt), middle Dutch ''h&ocirc;vet'', ''hoeft'' (hoofd), old Norse ''haufi&eth;'', Gothic ''haubi&thorn;''. Related Indo-European words are Latin [[caput]].
+
 ===Translations===
 *de: noun: [[Kopf]] (1, 2), [[Haupt]] (1, 2)(rarely used); verb: [[führen]], [[leiten]]
-*nl: noun: [[hoofd]] (1 (of person or horse), 2), [[kop]] (1 (of animal)); verb: [[leiden]] (1), [[aanvoeren]] (2)
+*nl: noun: [[hoofd]] (1 (of person or horse), 2), [[kop]] (1 (of animal)); verb: [[leiden]], [[aanvoeren]] (1)
