@@ -6,6 +6,7 @@ As separate letters: [U-S-S-R]
 #:*[[Dutch]]: USSR
 #:*[[German]]: USSR
 #:*[[French]]: [[URSS]]
+#:*[[Portugese]]: [[URSS]]
 #:*[[Russian]]:[[CCCP]] ([[SSSR]] - romanised)
 #:*[[Spanish]]: [[URSS]]
 
