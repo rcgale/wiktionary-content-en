@@ -1,0 +1,7 @@
+==[[Noun]]==
+
+*the fact of being stable, not changing at all
+
+===Examples===
+
+*Stickiness of inflation
