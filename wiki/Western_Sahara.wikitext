@@ -2,7 +2,7 @@
 
 '''proper noun'''
 
-# Country in Northern Africa.
+# Territory in Northern Africa.
 #:'''Translations'''
 #:*[[Danish]]: [[Vestsahara]]
 #:*[[Dutch]]: [[Westelijke Sahara]]
