@@ -1,0 +1,30 @@
+[week] /wik/ '''(en)''' ''(noun)''
+
+# A [[period]] of [[seven]] [[day]]s
+
+==Other languages==
+
+'''(nl)''' /weIk/
+''(noun)''
+
+# week
+# [[soak]]
+
+''(adverb)''
+
+# [[soft]]
+
+''(verb)''
+
+# past tense singular of [[wijken]] (to make way)
+==Etymology==
+
+From old English "wicu'", from a German *[[wikon]], which probably originally meant something like ''turn'' or ''succession''. Related to a verb *[[wikanan]] (''to bend''). The Dutch noun derives fro a related verb *[[waikwaz]] (''to yield''), via the current Dutch form [[wijken]].
+
+Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (week), old saxon "wika", old Norse "vika", Gothic "wik&ocirc;" (''turn for temple service'').
+
+==Translations==
+
+* de: [[Woche]]
+* fr: [[semaine]]
+* nl: week
