@@ -1,0 +1,1 @@
+A special effect on the [[harp]] where a chord or note is played quickly over and over again.  Usually, it is with both hands playing different strings but the same pitches.  (This is possible because of enharmonic spellings created by the pedals) It sounds almost like strumming a guitar.
