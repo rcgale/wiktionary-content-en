@@ -1,6 +1,6 @@
 ==Definition==
- ;'''AM''' ([[abbreviation]])
- :Latin <i>ante meridiem</i>, meaning "before noon".
+;'''AM''' ([[abbreviation]])
+:Latin <i>ante meridiem</i>, meaning "before noon".
 
- ;'''A.M.''' ([[abbreviation]])
- :Latin <i>anno mundi</i>, meaning "year of the world", the designation used for years in the Hebrew (Jewish) calendar.
+;'''A.M.''' ([[abbreviation]])
+:Latin <i>anno mundi</i>, meaning "year of the world", the designation used for years in the Hebrew (Jewish) calendar.
