@@ -5,7 +5,7 @@
 # Country in Central Africa. Official name: Republic of Cameroon.
 #:'''Translations'''
 #:*[[Chinese]]: [[喀麦隆]]
-#:*[[Dannish]]: [[Cameroun]]
+#:*[[Danish]]: [[Cameroun]]
 #:*[[Dutch]]: [[Kameroen]]
 #:*[[Esperanto]]: [[Kamerunio]], [[Kameruno]]
 #:*[[Finnish]]: [[Kamerun]]
