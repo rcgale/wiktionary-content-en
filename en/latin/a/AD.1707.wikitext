@@ -1,4 +1,4 @@
 ===Abbreviation===
 
-#from the Latin ''anno domini'', literally "in the year of our Lord".  
+#from the Latin ''anno domini'', literally "in the year of our Lord", used in specifying years. The current year is AD {{CURRENTYEAR}}.  
 #:When used correctly it appears before the year number.  Thus "AD 123", and '''not''' "123 AD".
