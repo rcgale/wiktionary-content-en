@@ -1,3 +1,4 @@
 Abstinence, <i>[[Noun]]</i> <HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Abstinence]]<BR>• [[German]]: [[Enthaltsamkeit]]<BR>• [[Interlingua]]: [[Abstinentia]]<BR>• [[Italian]]: [[]]<BR>• [[Portuguese]]: [[]]<BR>• [[Spanish]]: [[Abstinencia]]<BR>
 
-Abstinence from alcohol, temperance, <i>[[Noun]]</i> <HR> <P> <H3>Translations</H3><BR>• [[French]]: [[]]<BR>• [[German]]: [[]]<BR>• [[Interlingua]]: [[Abstinentia de alcohol]]<BR>• [[Italian]]: [[]]<BR>• [[Portuguese]]: [[]]<BR>• [[Spanish]]: [[Abstinencia del alcohol]]<BR>
+Abstinence from alcohol, temperance, <i>[[Noun]]</i> 
+<BR>• [[French]]: [[]]<BR>• [[German]]: [[]]<BR>• [[Interlingua]]: [[Abstinentia de alcohol]]<BR>• [[Italian]]: [[]]<BR>• [[Portuguese]]: [[]]<BR>• [[Spanish]]: [[Abstinencia del alcohol]]<BR>
