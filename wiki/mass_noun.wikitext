@@ -1,8 +1,5 @@
-'''Mass noun'''
-
-==[[Count noun]]==
-
-# A '''mass noun''' is a [[noun]] that is not usually made plural.
+===Nominal expression===
+# A '''mass noun''' is a [[noun]] describing somethingthat cannot be counted it often does not have a plural.  It is used without the indefinite article.
 #*Examples:
 #** [[information]]
 #** [[money]]
