@@ -4,6 +4,6 @@
 #A period of time consisting of 1,000 years.
 #:'''Translations'''
 #:*[[Dutch]]: millennium (on this page)
-#:*[[German]]: [[Jahrtausend]]
 #:*[[Finnish]]: [[vuosituhat]]
 #:*[[French]]: [[millénaire]]
+#:*[[German]]: [[Jahrtausend]]
