@@ -15,3 +15,4 @@ From Latin [[aprilis]]. First in 1297 as ''aueril'', later re-latinized to ''app
 *nl: april (on this page)
 *pl: [[kwiecień]]
 *sq: [[prill]]
+*it: [[aprile]]
