@@ -1,0 +1,1 @@
+Abstinence, <i>[[Noun]]</i> <HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Abstinence]]<BR>• [[German]]: [[Enthaltsamkeit]]<BR>• [[Interlingua]]: [[Abstinentia]]<BR>• [[Italian]]: [[Abstinence]]<BR>• [[Portuguese]]: [[Abstinence]]<BR>• [[Spanish]]: [[Abstinencia]]<BR>
