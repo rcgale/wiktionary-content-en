@@ -1,16 +1,3 @@
-==[[Portuguese]]==
-===[[Verb]]===
-To have great affection for.
-===Translations===
-*[[English]]: to [[love]]
-*[[Esperanto]]: [[ami]]
-*[[French]]: [[aimer]]
-*[[Interlingua]]: [[amar]]
-*[[Italian]]: [[amare]]
-*[[Latin]]: [[amare]]
-*[[Spanish]]: [[amar]]
-*[[Tupinambá]]: [[aûsub]] (s-)
-----
 ==[[Interlingua]]==
 ===[[Verb]]===
 #To have great affection for.
@@ -40,8 +27,23 @@ To have great affection for.
 #:*[[English]]: [[bitter]]
 #:*[[French]]: [[amer]]
 #:*[[German]]: [[bitter]]
+#:*[[Guarani]]: [[ro]]
 #:*[[Italian]]: [[amaro]]
 #:*[[Latin]]: [[amarus]]
 #:*[[Portugese]]: [[amargo]]
 #:*[[Spanish]]: [[amargo]]
-#:*[[Tupinambá]]: [[aka]]
+#:*[[Tupinambá]]: [[ak]]
+----
+==[[Portuguese]]==
+===[[Verb]]===
+To have great affection for.
+===Translations===
+*[[English]]: to [[love]]
+*[[Esperanto]]: [[ami]]
+*[[French]]: [[aimer]]
+*[[German]]: [[lieben]]
+*[[Interlingua]]: [[amar]]
+*[[Italian]]: [[amare]]
+*[[Latin]]: [[amare]]
+*[[Spanish]]: [[amar]]
+*[[Tupinambá]]: [[aûsub]] (s-)
