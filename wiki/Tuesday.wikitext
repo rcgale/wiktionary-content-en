@@ -3,5 +3,6 @@
 #The second day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
+*es: martes
 *fr: [[mardi]]
 *nl: [[dinsdag]]
