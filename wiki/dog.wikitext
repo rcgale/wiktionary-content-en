@@ -36,4 +36,4 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 *[[rain cats and dogs]]
 
 == Further reading ==
-*[[en:Dog|Wikipedia article]]
+*[[en:Dog|Wikipedia: Dog]]
