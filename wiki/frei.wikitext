@@ -1,0 +1,19 @@
+/[[Pronunciation guide|frai]]/, ''adjective'' '''(de)'''
+
+# Not [[imprisoned]] or [[enslaved]]. ''ein freier [[Mann]]''
+# Un[[limit]]ed. ''Ihm wurde freie [[Macht]] über das [[Land]] gegeben''
+# Without [[obligation]]s. ''Frei[[zeit]]''
+
+==Etymology==
+
+From Germanic *[[frijaz]], which derives from Indogerman *[[prei-]] ''to be fond of''.
+
+Related words: en [[free]], nl [[vrij]]
+
+==Translations==
+
+*en: [[free]]
+*fr: [[libre]]
+*nl: [[vrij]] (not 2), [[gratis]] (2)
+
+This is an attempt of a non-english entry. Any comments?
