@@ -5,7 +5,7 @@
 # Country in South America. Official name: Federative Republic of Brazil.
 #:'''Translations'''
 #:*[[Chinese]]: [[巴西]]
-#:*[[Dannish]]: [[Brasilien]]
+#:*[[Danish]]: [[Brasilien]]
 #:*[[Dutch]]: [[Brazilië]]
 #:*[[Esperanto]]: [[Brazilo]]
 #:*[[Finnish]]: [[Brasilia]]
