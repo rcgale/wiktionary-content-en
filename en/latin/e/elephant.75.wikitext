@@ -7,6 +7,7 @@ Elephant \El"e*phant\ ''noun'' '''(en)'''
 From Latin [[elephantus]] via old French oliphant to 'olyfaunt' (13th century), later respelled to 'elephant' after the Latin word, which itself derives from Greek [[elephas]].
 
 ==Translations==
+* da: [[elefant]]
 * de: [[Elefant]]
 * nl: [[olifant]]
 * pl: [[słoń]] 
