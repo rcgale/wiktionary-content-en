@@ -1,6 +1,6 @@
-Abbreviation of [[w:North American Free Trade Agreement]]
+Abbreviation of [[w:North American Free Trade Agreement|North American Free Trade Agreement]]
 
-'''Translations'''
+'''[[Translation]]s'''
 
 * Finnish : [[NAFTA]]
 * French : [[ALÉNA]]
