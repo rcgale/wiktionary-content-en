@@ -10,6 +10,7 @@
 *fr: [[mercredi]]
 *[[Georgian]]: [[ოთხშაბათი]]
 *he: [[יום רביעי]]
+*hr: [[Srijeda]]
 *mi: [[wenerei]]
 *nl: [[woensdag]]
 *pl: [[środa]]
