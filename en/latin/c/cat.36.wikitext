@@ -1,11 +1,8 @@
-[[noun]]:
-
-'''cat'''
-
-#A feline mammal member of the family [[felis catus]] with retractable claws, commonly kept as a house pet.
+===[[noun]]===
+#A feline mammal member of the family [[felidae]] with retractable claws, commonly kept as a house pet.
 #[[nautical terminology]]: A contraction of [[cat o'nine tails]], a whip.
 
-''[[verb]]'':
+===[[verb]]===
 #(Computer jargon): To direct the contents of an entire file to the screen or some other output device without pause. By extension, to dump large amounts of data at an unprepared target or with no intention of browsing it carefully. Origin: contraction of the word ''[[concatenate]]''. Usage: Rare outside Unix sites. 
 
 ===Proverbs/Idioms===
@@ -13,17 +10,16 @@
 * "Cat and [[mouse]] game" - to toy with someone or something
 * "While the cat's away the mice will play" - In the absence of a controlling entity, subordinates will take advantage of the situation.
 
-'''Translations'''
-
-*de: Katze, f
-*es: gato
-*fr: chat
-*he: חתול
-*it: gatto
-*ja: neko
+===Translations===
+*German: Katze, f
+*Spanish: gato
+*French: chat
+*Hebrew: חתול
+*Italian: gatto
+*Japanese: neko
 *Korean: 고양이 (go-yang-i)
-*nl: kat
-*no: katt
-*pl: kot
-*pt: gato
-*se: katt
+*Dutch: kat
+*Norwegian: katt
+*Polish: kot
+*Portuguese: gato
+*Swedish: katt
