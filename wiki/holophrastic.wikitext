@@ -1,0 +1,7 @@
+==Pronounciation==
+
+[[Adjective]]
+
+==Meaning==
+# [[linguistic terminology|linquistics]] a [[sentence]] consisting of [[one]] word, such [[as]] the holophrastic expressions, [[Go]] or [[Whatever]].
+# [[linguistic terminology|linquistics]] in [[the]] phrase "holophrastic stage" simple one word expessions such as used by [[very]] young children as [[they]] learn [[a]] language, [[babytalk]]. [http://www.geocities.com/delovist3/guide2.html]
