@@ -5,6 +5,7 @@
 ===Translations===
 *[[Albanian]]: [[verë]]
 *[[Basque]]: [[uda]]
+*[[Croatian]]: [[ljeto]]
 *[[Dutch]]: [[zomer]]
 *[[French]]: [[été]]
 *[[Hebrew]]: [[קיץ]]
