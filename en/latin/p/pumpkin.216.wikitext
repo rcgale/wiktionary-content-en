@@ -11,5 +11,5 @@
 
 ===Translations===
 *de: [[K&uuml;rbis]]
-*he: [[????]]
+*he: [[&#1491;&#1500;&#1506;&#1514;]]
 *nl: [[pompoen]]
