@@ -12,3 +12,4 @@
 *pl: [[wtorek]]
 *pt: [[ter&ccedil;a-feira]]
 *sq: [[e martë]]
+*sv: [[tisdag]]
