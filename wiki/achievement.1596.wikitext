@@ -1,4 +1,4 @@
-''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Achievement]] for the new Wiktionary definition of this term.''
+==Noun==
 
 '''Achievement''', ''<code>[[noun (part of speech)|noun]]</code>'' [Cf. F. ''ach&egrave;vement'', E. [[Hatchment]].]
 
