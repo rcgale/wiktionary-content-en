@@ -1,8 +1,7 @@
 [[Esperanto]]
+'''[[Nomo]''' ( [[Fero|Fer]]´[[vojo|voj]]´o).
 
-[[Fero|Fer]]´[[vojo|voj]]´o
-
-Transporta sistemo kiu uzas paralelajn vojon por gvidi and subteni masxinon kiu iras inter lokoj.
+Transporta sistemo kiu uzas paralelajn vojojn por gvidi and subteni masxinon kiu iras inter lokoj.
 
 === Tradukoj ===
 
