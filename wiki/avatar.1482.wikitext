@@ -1,10 +1,6 @@
-==Definition==
-;'''Avatar''' ''([[noun]])'' 
-# In Hindu mythology: earthly [[incarnation]] of a [[deity]] or [[soul]] in a [[body]]
-#Computer representation (normally humanoid) of a person. 
-==Quotations==
-;'''Avatar''' ''([[noun]])'' 
-*'''1997''' - Neil Randall, ''The Soul of The Internet'', ITP (US) (1997). Page 339.
-*:Avatars are graphic representations of individual participants in the group, and typically the representation is of a disembodied head.
-*'''2002''' - Edward Hamilton, ''Virtual Agents'' in ''Top Technical Graduate'', Spring 2002. Page 20.
-*:Financial services is the next sector toying with the idea of using Avatars as part of computer service.
+See,
+
+# [[Avatar (1784)]] 
+#:''([[noun]])'' In Hindu mythology: earthly [[incarnation]] of a [[deity]] or [[soul]] in a [[body]]
+# [[Avatar (1990)]]
+#:''([[noun]]) ''Computer representation (normally humanoid) of a person.
