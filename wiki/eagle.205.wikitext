@@ -76,7 +76,7 @@
 *[[Spanish(Latin American)]]: [[Águila]]
 *[[Swazi]]: [[Lú-khôzi]]
 *[[Swedish]]: [[Örn]]
-*[[Thai]]: [[อินทรี]] (Is the first letter a capital? is there one?)(Thai has no capitals! Translation seems correct when checked at www.thai-language.com. Should Thai get a transcription to "normal" characters? อินทรี = "inohtree")
+*[[Thai]]: [[อินทรี]] (inohtree)
 *[[Tongan]]: [['Ikale]]
 *[[Turkish]]: [[Kartal]]
 *[[Turkmen]]: [[Bürgüt]]
