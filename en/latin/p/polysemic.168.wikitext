@@ -1,3 +1,3 @@
-[[adjectiv]]
+''[[adjective]]''
 
-A polysemic word is a word whith several meanings.
+#A polysemic word is a word with several meanings. From the [[noun]] [[polysemy]].
