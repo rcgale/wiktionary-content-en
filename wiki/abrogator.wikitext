@@ -1,0 +1,3 @@
+'''Abrogator''', ''[[noun (part of speech)|noun]]''
+
+One who [[repeals]] by authority.
