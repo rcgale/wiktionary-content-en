@@ -5,5 +5,6 @@
 #:*[[Dutch]]: [[Nieuw-Zeeland]]
 #:*[[French]]: [[Nouvelle Zélande]]
 #:*[[German]]: [[Neuseeland]]
+#:*[[Polish]]: [[Nowa Zelandia]]
 
 ''See:'' [[Countries of the world]]
