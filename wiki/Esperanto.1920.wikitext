@@ -1,6 +1,6 @@
-'''[[eo:|Wikipedia: en Esperanto]]'''
+*'''[[eo:|Wikipedia en Esperanto]]'''
 
-Multilingual information about Esperanto : 
+*Multilingual information about Esperanto : 
 
 http://www.esperanto.net
 
@@ -10,6 +10,6 @@ Wikipedia article in english about Esperanto:
 
 [[en:Esperanto|Wikipedia: Esperanto]]
 
-International Abbreviation:  EO
+*[[ISO]] International Abbreviation:  EO
 
-Territories : it´s not a territory originated language. It has a Fundamental  Grammar (logical kernel) with natural posterior add-ons.
+*Territories : it´s not a territory originated language. It has a Fundamental  Grammar (logical kernel) with natural posterior add-ons.
