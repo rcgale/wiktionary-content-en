@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Overseas territory of France in Oceania. Official name: Territory of New Caledonia and Dependencies.
+#:'''Translations'''
+#:*[[Danish]]: [[Ny Kaledonien]]
+#:*[[Dutch]]: [[Nieuw-Caledonië]]
+#:*[[Esperanto]]: [[Nov-Kaledonio]]
+#:*[[Finnish]]: [[Uusi-Kaledonia]]
+#:*[[French]]: [[Nouvelle-Calédonie]]
+#:*[[German]]: [[Neukaledonien]]
+#:*[[Greek]]: [[Νέα Καληδονία]]
+#:*[[Italian]]: [[Nuova Caledonia]]
+#:*[[Polish]]: [[Nowa Kaledonia]]
+#:*[[Portuguese]]: [[Nova Caledónia]]
+#:*[[Russian]]: [[Новая Каледония]]
+#:*[[Spanish]]: [[Nueva Caledonia]]
+#:*[[Swedish]]: [[Nya Kaledonien]]
+
+''See'': [[Countries of the world]]
