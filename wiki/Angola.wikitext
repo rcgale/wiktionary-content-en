@@ -5,7 +5,7 @@
 # Country in Southern Africa. Official name: Republic of Angola.
 #:'''Translations'''
 #:*[[Chinese]]: [[安哥拉]]
-#:*[[Dannish]]: Angola
+#:*[[Danish]]: Angola
 #:*[[Dutch]]: Angola
 #:*[[Esperanto]]: [[Angolo]]
 #:*[[Finnish]]: Angola
