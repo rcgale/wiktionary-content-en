@@ -14,4 +14,4 @@
 *[[German]]: [[Uhr]]
 *[[Hebrew]]: [[שעון]]
 
-See also: [[w:Time|Wikipedia article about how to say time in english]], [[o´clock]].
+See also: [[w:Time|Wikipedia article about how to say time in english]], [[o'clock]].
