@@ -1,5 +1,7 @@
-#Ein Hund ist ein Tier
-#:'''Übersetzung'''
-#*Englisch [[dog]]
-#*Esperanto [[hundo]]
-#*Französisch [[chien]]
+Ein Hund ist ein Tier
+
+'''Übersetzung'''
+
+*Englisch [[dog]]
+*Esperanto [[hundo]]
+*Französisch [[chien]]
