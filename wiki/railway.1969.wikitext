@@ -1,7 +1,11 @@
 ===Noun===
 #A transportation system which uses parallel tracks to guide and support wheeled vehicles which run between places served.
-#:'''Translations'''
-#:*Dutch: [[spoorweg]]
-#:*French: [[chemin de fer]]
-#:*Frisian: [[spoarwei]]
-#:*German: [[Eisenbahn]]
+'''Translations'''
+*American English: [[railroad]]
+*Dutch: [[spoorweg]]
+*Esperanto: fervojo
+*French: [[chemin de fer]]
+*Frisian: [[spoarwei]]
+*German: [[Eisenbahn]]
+*Portuguese: [[ferrovia]], [[estrada de ferro]]
+*Swedish: [[järnväg]]
