@@ -38,6 +38,7 @@ Preposition
 :''Estoy en casa . I am at home''
 :''en esta página''
 *  used for time indication
+: ''En la antigüedad''
 *  used before names of languages
 : ''No conozco esta palabra en francés''
 : ''Traducir del inglés al español''
