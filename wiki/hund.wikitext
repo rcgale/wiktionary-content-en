@@ -13,5 +13,6 @@ SAMPA /'hUnt/
 *English [[dog]]
 *[[Esperanto]] [[hundo]]
 *French [[chien]]
+*Hebrew [[כלב]]
 *Russian [[собака]]
 *[[Spanish]] [[perro]]
