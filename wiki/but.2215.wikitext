@@ -7,4 +7,6 @@
 *Dutch: [[maar]]
 *Finnish: [[mutta]]
 *French: [[mais]]
+*German: [[aber]]
+*Hebrew: [[אבל]],[[אך]]
 *Spanish: [[pero]]
