@@ -1,10 +1,23 @@
 ==English==
 
-# Country in Oceania, to the East of [[Australia]].
-#:'''Translations'''
-#:*[[Dutch]]: [[Nieuw-Zeeland]]
-#:*[[French]]: [[Nouvelle Zélande]]
-#:*[[German]]: [[Neuseeland]]
-#:*[[Polish]]: [[Nowa Zelandia]]
+'''proper noun'''
 
-''See:'' [[Countries of the world]]
+# Country in Oceania, to the East of [[Australia]]. Official name: New Zealand.
+#:'''Translations'''
+#:*[[Chinese]]: [[新西兰]]
+#:*[[Danish]]: New Zealand
+#:*[[Dutch]]: [[Nieuw-Zeeland]]
+#:*[[Esperanto]]: [[Nov-Zelando]]
+#:*[[Finnish]]: [[Uusi-Seelanti]]
+#:*[[French]]: [[Nouvelle-Zélande]]
+#:*[[German]]: [[Neuseeland]]
+#:*[[Greek]]: [[Νέα Ζηλανδία]]
+#:*[[Interlingua]]: [[Nove Zelanda]]
+#:*[[Italian]]: [[Nuova Zelanda]]
+#:*[[Polish]]: [[Nowa Zelandia]]
+#:*[[Portuguese]]: [[Nova Zelândia]]
+#:*[[Russian]]: [[Новая Зеландия]]
+#:*[[Spanish]]: [[Nueva Zelanda]]
+#:*[[Swedish]]: [[Nya Zeeland]]
+
+''See'': [[Countries of the world]]
