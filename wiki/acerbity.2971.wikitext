@@ -5,5 +5,5 @@ acerbity, ''[[Noun]]'', bitterness.
 * [[German]]: [[Bitterkeit]] 
 * [[Interlingua]]: [[Acerbitate]] 
 * [[Italian]]: [[Amarezza]] 
-* [[Portuguese]]: [[Bitterness]] 
+* [[Portuguese]]: [[]] 
 * [[Spanish]]: [[Amargura]]
