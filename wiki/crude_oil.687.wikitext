@@ -7,9 +7,9 @@
 #:*German: [[Rohöl]]
 #:*Spanish: [[crudo]]
 
-== See also ==
+=== See also ===
 * [[petroleum]]
 * [[crude]]
 
-== Further Reading ==
+=== Further Reading ===
 * [[w:crude oil|Wikipedia article on crude oil]]
