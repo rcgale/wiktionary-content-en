@@ -16,4 +16,5 @@
 *pt: [[ter&ccedil;a-feira]]
 *sq: [[e martë]]
 *sv: [[tisdag]]
+*Wolof: [[Talaata]]
 *yi: [[דינסטיק]]
