@@ -4,6 +4,11 @@
 
 # Country in Northern Africa.
 #:'''Translations'''
+#:*[[English]]: [[Tunisia]]
 #:*[[Dutch]]: [[Tunesië]]
+#:*[[French]]: [[Tunisie]]
+#:*[[German]]: [[Tunesien]]
+#:*[[Polish]]: [[Tunezja]]
+#:*[[Spanish]]: [[Túnez]]
 
 ''See:'' [[Countries of the world]]
