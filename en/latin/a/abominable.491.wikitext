@@ -4,10 +4,12 @@ French ''abominable''. Latin ''abominalis''. See [[Abominate]].
 #Worthy of, or causing, [[abhorrence]], as a thing of evil omen; [[odious]] in the [[utmost]] degree; very [[hateful]]; [[detestable]]; [[loathsome]]; [[execrable]].
 #''(Obsolete):'' Excessive; large; -- used as an [[intensive]]. 
 #:'''''Note:''''' [[Juliana]] [[Berners]] ... [[informs]] us that in her time (15th century), '''abomynable''' syght of monkes" was elegant English for "a large company of friars. - [[G. P. Marsh]]
- 
+
 ===Translations=== 
 * [[French]]: [[Abominable]] 
 * [[German]]: [[Verabscheuungswürdig]] 
 * [[Interlingua]]: [[Abominabile]] 
 * [[Italian]]: [[Abominabile]] 
 * [[Spanish]]: [[Abominable]]
+
+'''See also:''' [[Abominable Snowman]]
