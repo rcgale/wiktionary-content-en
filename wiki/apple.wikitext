@@ -18,6 +18,7 @@
 *Maltese: Tufieha
 *Marathi: [[Safarchand]] (fruit)
 *Polish: [[Jabłko]] (fruit)
+*Russian: [[яблоко]] (fruit)
 
 
 See also: [http://www.wikipedia.org/wiki/Apple Wikipedia: Apple]
