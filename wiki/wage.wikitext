@@ -7,6 +7,7 @@
 
 ===Translations===
 
+*Dutch: [[loon]], [[salaris]]
 *French: [[salaire]]
 
 ===Derivative words===
