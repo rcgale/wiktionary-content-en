@@ -8,7 +8,6 @@
 *[[Albanian]]: [[verë]]
 *[[Basque]]: [[uda]]
 *[[Croatian]]: [[ljeto]]
-*[[Dutch]]: [[zomer]]
 *[[English]]: [[summer]]
 *[[French]]: [[été]]
 *[[German]]: [[Sommer]]
