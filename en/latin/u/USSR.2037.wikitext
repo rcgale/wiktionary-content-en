@@ -1,9 +1,10 @@
 ===Pronunciation===
 As separate letters: [U-S-S-R]
 ===Abbreviaion===
-#Union of Soviet Socialist Republics
+#Union of Soviet Socialist Republics (English)
+#Unie van Socialistische Sovjetrepublieken (Dutch)
 #:'''Translations'''
-#:*[[Dutch]]: USSR (Unie van Socialistische Sovjetrepublieken)
+#:*[[Dutch]]: USSR
 #:*[[French]]: [[URSS]]
 #:*[[Russian]]:[[CCCP]] ([[SSSR]] - romanised)
 #:*[[Spanish]]: [[URSS]]
