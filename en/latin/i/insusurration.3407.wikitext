@@ -1,0 +1,5 @@
+===Etymology===
+Latin insusurratio, from insusurrare to whisper into.
+===Noun===
+#''(Obsolete):'' The act of whispering into something. - [[Johnson]]
+#Speaking in a whisper about someone.
