@@ -1,5 +1,5 @@
-''noun'' (nl)
-
-Incomplete use (of a budget)
-
-(Dutch government language, literally subutilization)
+==Dutch==
+===Etymology===
+Dutch government language: literally subutilization
+===Noun===
+#Incomplete use (of a budget)
