@@ -8,6 +8,7 @@
 *es: [[octubre]]
 *fr: [[octobre]]
 *he: [[אוקטובר]]
+*mi: [[oketopa]]
 *nl: [[oktober]]
 *pl: [[październik]]
 *sq: [[tetor]]
