@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southern Africa. Official name: Republic of Zambia.
+#:'''Translations'''
+#:*[[Chinese]]: [[赞比亚]]
+#:*[[Danish]]: Zambia
+#:*[[Dutch]]: Zambia
+#:*[[Esperanto]]: [[Zambio]]
+#:*[[Finnish]]: [[Sambia]]
+#:*[[French]]: [[Zambie]]
+#:*[[German]]: [[Sambia]]
+#:*[[Greek]]: [[Ζάμπια]]
+#:*[[Interlingua]]: [[Vanuatu]]
+#:*[[Italian]]: Zambia
+#:*[[Polish]]: Zambia
+#:*[[Portuguese]]: [[Zâmbia]]
+#:*[[Russian]]: [[Замбия]]
+#:*[[Spanish]]: Zambia
+#:*[[Swedish]]: Zambia
+
+''See'': [[Countries of the world]]
