@@ -1,2 +1,4 @@
+===Etymology===
+Derived from [[accordion]]
 ===Noun===
 #A player on the accordion.
