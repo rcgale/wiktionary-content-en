@@ -6,6 +6,12 @@
 # Unobstructed, without [[blockage|blockages]]. ''the [[drain]] was free''
 # Without [[obligation]]s. ''free [[time]]''
 
+==Etymology==
+
+From Germanic <sup>*</sup>[[frijaz]], which derives from Indogerman <sup>*</sup>[[prei-]] ''to be fond of''.
+
+Related words: de [[frei]], nl [[vrij]]
+
 ==Translations==
 
 *de: [[frei]], [[umsonst]] (2)
