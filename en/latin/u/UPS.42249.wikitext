@@ -1,58 +1,8 @@
-==[[Wiktionary:List of acronyms and abbreviations|Abbreviation]]==
+==English==
+<!-- ===Pronunciation=== -->
 
-Uninterruptible Power Supply. (computer technics)
+==={{initialism}}===
+'''UPS'''
 
-An uninterruptible power supply, is a unit which gives power protection, and backup power to a load.  Usually used in the IT and communications industry, a UPS is becoming essential where ever critical systems are used.
-
-There are three different kinds of UPS technology:
-
-Line-Interactive Technology
-
-A line-interactive UPS operates in a very similar fashion to an offline UPS, except with the advantage of better filtering and output voltage boost/reduce features. Whilst not eliminating mains-borne interference, line-interactive technologies reduce the impact of spikes, surges and sags by ‘clipping’ the peaks and valleys, boosting power or switching to battery back-up. As with offline UPS, when the input voltage fails or fluctuates outside of a pre-set tolerance window, the UPS detects this and a relay will close allowing the UPS to start feeding battery power via the inverter. The inverter, in a good line-interactive UPS, will supply a sinewave output. Upon the return of mains power, the output is switched back onto mains and the inverter is turned off. As with offline UPS, typically there will be a break on the transfer to and from battery mode, though usually this will be shorter than with an offline UPS.
-
-Some manufacturers will try to pass their line-interactive UPS off as online models by calling them ‘digital online’, ‘inline’ or ‘online interactive’ – make sure you know what technology the UPS you are buying actually uses.
-
-Advantages: Lower cost than online
-Gives better protection than offline
-Silent operation when in standby
-Efficient
-
-Disadvantages: Fluctuations, such as spikes, can still be passed straight to the load
-Break on transfer to battery mode.
-No failsafe – UPS will drop the load if there is a high start-up current, overload or inverter failure.
-
-
-
-
-Offline-Standby Technology
-
-During normal operation, the power flows straight through the unit and hence only RFI filtering is usually provided. When the input voltage fails or fluctuates outside of a pre-set tolerance window, the UPS detects this and a relay will close, allowing the UPS to start feeding battery power via the inverter. The inverter is then switched on and either a square, step or sinewave form output is supplied. Upon the return of mains power, the output is switched back onto mains and the inverter is turned off. Typically there will be a break of between 4-10 ms during the transfer to and from the battery mode. 
-
-Advantages: Low cost
-Silent operation (when in standby)
-Efficient
-
-Disadvantages: Minimal power protection – only protects against a small percentage of problems
-Poor output voltage regulation – fluctuations such as sags and surges will be passed straight to the load
-Break transfer to battery mode
-No failsafe – UPS will drop the load if there is a high start-up current, overload or inverter failure.
-
-
-
-Online Double Conversion Technology
-
-An uninterruptible power supply using true online double conversion technology provides the highest level of power protection available. The UPS converts the 230V input AC mains supply to DC power which is then used to charge the battery. The DC current flow is then fed through an inverter stage which reconstructs the 230V AC mains output. Because the AC output is completely regenerated, it will be completely free from any mains-borne interference such as spikes and voltage variations. The output voltage and frequency is controlled precisely, thus ensuring a clean and stable sinewave power output. Online UPS are able to withstand large fluctuations on the input voltage before transferring to battery power (typically 276V-184V) thus eliminating unnecessary battery discharges. Upon mains failure, transfer to battery power is seamless – no break. Online UPS also have various failsafe and self-diagnostic features that will instantly transfer the load onto mains power if there is a failure within the UPS hardware, or if the UPS is overloaded. 
-
-Advantages: Continuous & total power conditioning
-Failsafe/overload protection with static bypass facility
-No break on mains failure
-Wide input voltage tolerance
-
-Disadvantages: Because of the technology used, online usually costs more than other types of UPS technology
-
-
-
-<a href="http://www.aeceuro.co.uk">Info added by AEC  Uninterruptible power supplies</a>
-Also you should detrimine wheter or no the UPS is true sine wave or modified sine wave.
-
-[http://www.4lots.com.com Info added by 4lots.com]
+# (electronics) [[uninterruptible power supply]]
+# (company) [[United Parcel Service]]
