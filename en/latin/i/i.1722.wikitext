@@ -8,5 +8,6 @@
 #:*Dutch: [[ik]]
 #:*Icelandic: [[ég]]
 #:*Hindi: [[मैं]](mai.n)
+#:*Korean: [[나]] (na)
 ===Numeral===
 #The [[Roman numeral]] representing the number [[one]].
