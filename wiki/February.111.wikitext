@@ -2,5 +2,9 @@
 
 #February is the 2st [[month]] in the Gregorian [[calendar]]. It usually has 28 [[day|days]], except in a [[leap year]] when it has 29.
 
+==Etymology==
+From Latin [[februarius]], derived from [[februare]] ''reinigen'', because it was originally the last month of the Roman calendar.
+
 ==Translations==
+*de: [[Februar]]
 *nl: [[februari]]
