@@ -5,7 +5,7 @@
 # Country in Central America. Official name: Belize.
 #:'''Translations'''
 #:*[[Chinese]]: [[伯利兹]]
-#:*[[Dannish]]: Belize
+#:*[[Danish]]: Belize
 #:*[[Dutch]]: Belize
 #:*[[Esperanto]]: [[Belizo]]
 #:*[[Finnish]]: Belize
