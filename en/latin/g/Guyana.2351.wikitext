@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in South America. Official name: Cooperative Republic of Guyana.
+#:'''Translations'''
+#:*[[Chinese]]: [[圭亚那]]
+#:*[[Danish]]: Guyana
+#:*[[Dutch]]: Guyana
+#:*[[Esperanto]]: [[Gujano]], [[Gvajano]]
+#:*[[Finnish]]: Guyana
+#:*[[French]]: Guyana
+#:*[[German]]: Guyana
+#:*[[Greek]]: [[Γουιάνα]]
+#:*[[Interlingua]]: Guyana
+#:*[[Italian]]: Guyana
+#:*[[Polish]]: [[Gujana]]
+#:*[[Portuguese]]: [[Guiana]]
+#:*[[Russian]]: [[Гайана]]
+#:*[[Spanish]]: Guyana
+#:*[[Swedish]]: Guyana
+
+''See'': [[Countries of the world]]
