@@ -1,4 +1,4 @@
-===[http://eo.wikipedia.org/wiki/Etimologio|Etimologio]===
+===[http://eo.wikipedia.org/wiki/Etimologio|Etimologio Etimologio]===
 
 #El la itala vorto  ''banca''
 
