@@ -1,7 +1,8 @@
 '''In'''
 
 == Dutch ==
-/in/ 
+
+/In/ 
 
 # ''preposition'' expressing containment: in.
 
