@@ -16,7 +16,7 @@ Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (
 * nl: week
 * pl: [[tydzień]]
 * sv: [[vecka]]
-* Wolof [[Ayubés]]
+* wo: [[Ayubés]]
 * yi: [[וואָך]]
 
 --------
