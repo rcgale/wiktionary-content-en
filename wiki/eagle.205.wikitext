@@ -9,6 +9,8 @@
 ===Translations===
 
 *[[Afrikaans]]: [[Arend]]
+*[[Chinese(Simplified)]]: [[老鹰]] (needs to be checked by speaker)
+*[[Chinese(Traditional)]]: [[老鷹]] (needs to be checked by speaker)
 *[[Dutch]]: [[Arend]], [[Adelaar]] (1)
 *[[Esperanto]]: [[Aglo]]
 *[[Estonian]]: [[Kotkas]]
@@ -19,6 +21,7 @@
 *[[Hungarian]]: [[Sas]] 
 *[[Icelandic]]: [[Örn]]
 *[[Italian]]: [[Aquila]], [[Àquila]]
+*[[Japanese]]: [[ワシ]] (needs to be checked by speaker)
 *[[Korean]]: [[독수리]] (needs to be checked by speaker)
 *[[Latin]]: [[Aqvila]]
 *[[Norwegian]]: [[Ørn]]
