@@ -1,6 +1,6 @@
 /[[Received Pronunciation|ˈdɪkʃənrɪ]]/, /[[General American|ˈdɪkʃənˌerɪ]]/, noun '''(en)'''
 
-1. A [[publication]], usually in the form of a [[book]], which [[alphabetical|alphabetically]] [[reference|references]] the [[word|words]] (and meanings thereof) for a given [[language]] or languages.
+1. A [[publication]], usually in the form of a [[book]], which [[alphabetical]]ly [[reference]]s the [[word]]s (and meanings thereof) for a given [[language]] or languages.
 
 2. A publication which alphabetically references terms (and meanings thereof) on a given [[subject]]. One [[example]] of this is [[Medical dictionary|Medical Dictionaries]].
 
@@ -8,7 +8,7 @@
 French [[dictionnaire]]
 
 == Related words ==
-[[Portmanteau]]x: [[Wiktionary]] (with [[wiki]])
+[[Portmanteau]]x: [[Pictionary]] (with [[picture]]), [[Fictionary]] (with [[fiction]], [[Wiktionary]] (with [[wiki]])
 
 == Translations ==
 *[[Wörterbuch|de]] [[vortaro|eo]] [[diccionario|es]] [[dictionnaire|fr]] [[woordenboek|nl]]
