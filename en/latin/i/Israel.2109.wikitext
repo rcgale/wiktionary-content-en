@@ -6,7 +6,7 @@
 #:'''Translations'''
 #:*[[Chinese]]: [[以色列]]
 #:*[[Danish]]: Israel
-#:*[[Dutch]]: Israel, [[Israël]]??
+#:*[[Dutch]]: [[Israël]]
 #:*[[Esperanto]]: [[Israelo]]
 #:*[[Finnish]]: Israel
 #:*[[French]]: [[Israël]]
