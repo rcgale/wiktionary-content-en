@@ -2,16 +2,11 @@
 From old French ''verbe'', which derives from Latin ''verbum'' (word), from Indo European *[[wer-]]
 ===Pronunciation===
 [Verb] \Verb\ SAMPA \v3(r/)b\ '''(de)''' \vERb\
-
-===[[noun]]===
+===[[Noun]]===
+Plural form: verbs
 # a word that serves as the predicate of a sentence
 # a content word that denotes an action or a state
-
-Plural form: verbs
-
-
-
-==Translations==
+===Translations===
 *[[Arabic]]: [[فعل]]
 *[[Dutch]]: [[Werkwoord]]
 *[[Finnish]]: [[verbi]]
