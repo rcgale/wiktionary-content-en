@@ -1,3 +1,49 @@
+===Etymology===
+From Old English ''acord'', ''accord'', ''acorden'', ''accorden'', through Old French ''acort'', ''acorde'', and ''acorder'' French ''accord'' and ''accorder'', and in turn from Late Latin ''accordare''; Latin ''ad'' + ''cor'', ''cordis'', heart. Cf. [[Concord]], [[Discord]], and see [[Heart]].
+
+===Noun===
+#Agreement or [[concurrence]] of opinion, will, or action; harmony of mind; consent; assent.
+#:'''Quotations'''
+#:*A mediator of an ''accord'' and peace between them. - [[Bacon]].
+#:*These all continued with one ''accord'' in prayer. - ''Acts i. 14'' 
+#:'''Translations'''
+#:*Spanish: ''acuerdo''
+#Harmony of sounds; agreement in pitch and tone; [[concord]]; as, the ''accord''<code>
+#:'''Quotations'''
+#:*Those sweet ''accords'' are even the angels' lays. - [[Sir J. Davies]].
+#Agreement, harmony, or just [[correspondence]] of things; as, the ''accord'' of light and shade in painting.
+#Voluntary or [[spontaneous]] motion or [[impulse]] to act; -- preceded by ''own''; as, of one's own ''accord''.
+#:'''Quotations'''
+#:*That which groweth of its own ''accord'' of thy harvest thou shalt not reap. -  ''Leviticus xxv. 5''
+#:*Of his own ''accord'' he went unto you. - ''2 Corinthians vii. 17''
+#''(Law)'' An agreement between parties in [[controversy]], by which satisfaction for an injury is [[stipulated]], and which, when [[executed]], bars a suit. - [[Blackstone]].''
+#:'''Derived phrase'''
+#:*'''With one accord''', with [[unanimity]].
+#::They rushed ''with one accord'' into the theater. - ''Acts xix. 29''
+===Proper noun===
+#A model name for a passenger car produced by the Honda Company
+===Transitive verb=== 
+Past tense and past participle: [[Accorded]];<br>
+Present participle and verbal noun: [[According]]. 
+#To make to agree or [[correspond]]; to suit one thing to another; to adjust; -- followed by ''to''.
+#:'''Quotations'''
+#:*Her hands ''accorded'' the lute's music to the voice. - [[Sidney]].
+#:'''Translations'''
+#:*Spanish: ''acordar''
+#To bring to an agreement, as persons; to [[reconcile]]; to settle, adjust, [[harmonize]], or [[compose]], as things; as, to ''accord'' suits or [[controversies]].
+#:'''Quotations'''
+#:*When they were ''accorded'' from the fray. - [[Spenser]].
+#:*All which particulars, being confessedly knotty and difficult can never be ''accorded'' but by a competent stock of critical learning. - [[South]].
+#To grant as suitable or proper; to [[concede]]; to [[award]]; as, to ''accord'' to one due praise.
+#:'''Quotations'''
+#:*''According'' his desire. - [[Spenser]].
+===Intransitive verb===
+#To agree; to [[correspond]]; to be in harmony; -- followed by ''with'', formerly also by ''to''; as, his disposition ''accords'' with his looks.
+#:'''Quotations'''
+#:*My heart ''accordeth'' with my tongue. - Shakespeare, ''2 Henry VI, III-i''
+#:*Thy actions to thy words ''accord''. - Milton, ''Paradise regained''
+#To agree in pitch and tone.
+
 [[noun]] An agreement. [[verb]] To agree with or concurr.
 
 *Spanish (n.) ''acuerdo'', ''acordar''
