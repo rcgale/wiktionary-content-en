@@ -4,6 +4,7 @@
 
 ===Translations===
 *[[Dutch]]: baby
+*[[Finnish]]: [[vauva]]
 *[[French]]: [[bébé]]
 
 ===Related words===
