@@ -9,7 +9,7 @@ fr : [[dog]]
 
 * un temps de chien :
 :fr: un temps très mauvais (pluie, vent ...)
-:en: a bad weather, it refers when you do'nt want to go out, because it rains a lot, and is windy.
+:en: bad weather, it refers when you don't want to go out, because it rains a lot, and is windy.
 :nl: [[hondenweer]]
 * chien de chasse
 * chien de garde
