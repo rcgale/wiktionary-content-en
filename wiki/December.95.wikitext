@@ -5,6 +5,7 @@
 ==Translations==
 *de: [[Dezember]]
 *es: [[diciembre]]
+*eu: [[abendu]]
 *fr: [[décembre]]
 *he: [[דצמבר]]
 *mi: [[tïhema]]
