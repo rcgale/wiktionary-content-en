@@ -5,7 +5,7 @@
 # Country in South Asia. Official name: People's Republic of Bangladesh.
 #:'''Translations'''
 #:*[[Chinese]]: [[孟加拉国]]
-#:*[[Dannish]]: Bangladesh
+#:*[[Danish]]: Bangladesh
 #:*[[Dutch]]: Bangladesh
 #:*[[Esperanto]]: [[Bangladeŝo]]
 #:*[[Finnish]]: Bangladesh
