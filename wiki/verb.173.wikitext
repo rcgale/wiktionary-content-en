@@ -1,5 +1,14 @@
-Verb \Verb\ 
+Verb \Verb\ SAMPA \v3(r/)b\ '''(de)''' \vERb\
 
 ''[[noun]]''
 # a word that serves as the predicate of a sentence
 # a content word that denotes an action or a state
+
+==Etymology==
+
+From old French ''verbe'', which derives from Latin ''verbum'' (word), from Indo European *[[wer-]]
+
+==Translations==
+
+*de: Verb, [[Verbum]]
+*nl: [[werkwoord]]
