@@ -3,7 +3,7 @@
 #:*[[Chinese]]: [[西班牙]]
 #:*[[Danish]]: [[Spanien]]
 #:*[[Dutch]]: [[Spanje]]
-#:*[[Esperanto]]: [[Hispanio]], [[Hispanujo]]
+#:*[[Esperanto]]: [[eo:Hispanio]]
 #:*[[Finnish]]: [[Espanja]]
 #:*[[French]]: [[Espagne]]
 #:*[[German]]: [[Spanien]]
