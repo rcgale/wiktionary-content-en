@@ -1,0 +1,6 @@
+Adjective.
+Relating to a design where a recognisable cultural norm is reflected. 
+
+For example, a new building which is [[reminiscent]] of Art Nouveau is said to be stylised. 
+
+A dance which reminds people of a culture, year or a genre of music is stylised.
