@@ -1,9 +1,14 @@
 /rā'v[e]n/
 
-#(n.) A large black [[bird]] (''Corvus corax''), similar to the [[crow]], but larger.
-#(a.) Of the color of the raven; jet black; as, raven curls; raven darkness.
-#(n.) Rapine; rapacity.
-#(n.) [[Prey]]; [[plunder]]; food obtained by violence.
-#(v. t.) To obtain or seize by violence.
-#(v. t.) To devour with great eagerness.
-#(v. i.) To prey with rapacity; to be greedy; to show rapacity.
+[[noun|n.]]
+#A large black [[bird]] (''Corvus corax''), similar to the [[crow]], but larger.
+#Rapine; rapacity.
+#([[Prey]]; [[plunder]]; food obtained by violence.
+
+[[adjective|a.]]
+#Of the color of the raven; jet black; as, raven curls; raven darkness.
+
+[[verb|v.]]
+#To obtain or seize by violence.
+#To devour with great eagerness.
+#To prey with rapacity; to be greedy; to show rapacity.
