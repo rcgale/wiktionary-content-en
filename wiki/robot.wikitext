@@ -2,6 +2,10 @@
 
 # A [[machine]] with [[human]] capabilities.
 
+==Etymology==
+
+''Robot'' is from the Czech word ''robota'', which means [[drudgery]] or [[servitude]].
+
 ==Further Reading==
 * [[w:robot|Wikipedia article]]
 
