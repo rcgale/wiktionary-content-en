@@ -12,6 +12,7 @@
 #:*[[Interlingua]]: [[esser]]
 #:*[[Italian]]: [[essere]]
 #:*[[Spanish]]: estar
+#:*[[Tupinambá]]: [[ikó]]/[[ekó]] (t-); [[in]]/[[en]] (t-); [[îub]]/[[ub]] (t-)
 #Denotes a copula, in a transient fashion. Cf. [[ser]].
 #:'''Usage'''
 #:*''O tempo estava frio'' 'The weather was cold (back then)'
@@ -41,6 +42,7 @@
 #:*[[Interlingua]]: [[esser]]
 #:*[[Italian]]: [[essere]]
 #:*[[Portuguese]]: estar
+#:*[[Tupinambá]]: [[ikó]]/[[ekó]] (t-); [[in]]/[[en]] (t-); [[îub]]/[[ub]] (t-)
 #Denotes a copula, in a transient fashion. Cf. [[ser]].
 #:'''Usage'''
 #:*''El tiempo estaba frío'' 'The weather was cold (back then)'
