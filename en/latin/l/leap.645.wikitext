@@ -10,7 +10,7 @@
 :'''Leapt''': IPA:/l&#603;t/ 
 ===Verb===
 Past tense and past participle: '''Leapt''' or '''leaped''' with no clear rule to favour either form.
-: To jump from one location to another.
+#To jump from one location to another.
 ===Quotations===
 * '''c. 1450''': It is grete nede a man to go bak to recouer the better his '''leep''' - anonymous, ''Merlin''.
 * '''1600''': I, I defie thee: wert not thou next him when he leapt into the Riuer? - anonymous, ''The wisdome of Doctor Dodypoll'', Act 4.
