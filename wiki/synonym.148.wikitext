@@ -1,5 +1,9 @@
-A synonyms of a word is a word that means nearly the same thing. Note a word may have various synonyms.
+[[noun]]:
+
+A synonym is a word or phrase in any given language which has a meaning exactly or very nearly the same thing as another word or phrase in that language. A given word may have between zero and multiple synonyms.
+
+The opposite (or antonym) of a synonym is an [[antonym]].
 
 
-'''Exemples'''
+'''Examples'''
 *
