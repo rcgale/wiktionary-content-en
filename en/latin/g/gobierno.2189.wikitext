@@ -1,0 +1,9 @@
+Spanish
+
+==[[Noun]]
+
+*[[Government]]
+
+===Examples===
+
+*El gobierno mexicano
