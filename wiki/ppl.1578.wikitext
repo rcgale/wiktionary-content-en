@@ -1,0 +1,1 @@
+Abreviation of [[people]] used on [[irc]]
