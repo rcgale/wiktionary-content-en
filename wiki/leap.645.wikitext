@@ -4,13 +4,17 @@
 ;'''Leapt'''
 : Past tense of Leap.
 ==Alternative spellings==
+;'''Leap'''
+:Leep, leape.
 ;'''Leapt'''
-:Leaped.
+:Leaped, Leapped, Lept.
 ==Pronounciation==
 ;'''Leap'''
 : (UK) IPA://
+: (USA) IPA://
 ;'''Leapt'''
 : (UK) IPA://
+: (USA) IPA://
 ==Etymology==
 ;'''Leap'''
 : From old english [[hlýp]]
