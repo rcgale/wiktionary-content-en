@@ -1,0 +1,7 @@
+===Etymology===
+Greek: &tau;&alpha;&chi;&#x1F7B; =swift + &gamma;&rho;&#x1F71;&phi;&upsilon; = writing
+===Pronunciation===
+/ta'k&#618;gr&#601;fi/
+===mass noun===
+#The art and practice of rapid writing
+#Stenography or short hand as done in ancient and mediaeval times.
