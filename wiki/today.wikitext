@@ -8,6 +8,7 @@
 *fr: [[aujourd'hui]]
 *fy: [[hjoed]] (1,2), no, [[hjoed de dei]] (3)
 *he: היום
+*hu: [[ma]] (1, 2, 3), [[manapság]] (3)
 *nl: [[vandaag]] (1, 2, 3), [[tegenwoordig]], [[vandaag de dag]] (3)
 *pt: [[hoje]]
 *sv: [[idag]]
