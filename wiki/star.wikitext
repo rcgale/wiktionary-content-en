@@ -5,15 +5,13 @@
 #A celebrity or noteworthy performer.
 
 ==Translations==
-
-*de: [[Stern]] (1)
-*fr: [[étoile]], [[astre]] (1), [[vedette]], star (3)
-*fy: [[stjer]] (1,3)
-*is: [[stjarna]] (1,3)
-*Japanese: [[星]] (ほし;hoshi)
-*Korean: [[별]] (byeol)
-*nl: [[ster]] (1,2,3), vedette (3)
-
+*[[Dutch]]: [[ster]] (1,2,3), vedette (3)
+*[[French]]: [[étoile]], [[astre]] (1), [[vedette]], star (3)
+*[[Frisian]]: [[stjer]] (1,3)
+*[[German]]: [[Stern]] (1)
+*[[Icelandic]]: [[stjarna]] (1,3)
+*[[Japanese]]: [[星]] (ほし;hoshi)
+*[[Korean]]: [[별]] (byeol)
 
 '''[[verb]]'''
 
