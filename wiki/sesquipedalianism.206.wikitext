@@ -1,0 +1,17 @@
+==Pronounciation==
+
+==Meaning==
+''[[noun]].''
+# The [[practice]] of using [[long]], sometimes [[difficult]] [[word|words]] in [[speech]] or [[writing]].
+
+==Example of Usage==
+*'''1995''' - Michael Cart, ''From Romance to Realism'', page 257, ISBN 0060242892
+*: His [[voice]] here is a marvelous [[juxtaposition]] of [[cool]] [[elegance]], unaffected [[hipness]], [[unabashed]] sesquipedalianism ("the rich [[bouquet]] of [[exude|exuded]] [[sebaciousness]]") and [[swell]] [[conversational]] [[slang]] (TV's "Warpo" [[effect|effects).
+
+==Related words==
+* [[sequi-]] [[prefix]]
+* [[sesquipedal]] [[adjective]] and [[alternative]] to [[sesquipedian]] adjective
+* [[sesquipedian]] adjective 
+
+==Etymology==
+* [[Latin]] ''sesquipedalis'', an adjective meaning a foot and a half, or in [[metaphor|metaphorical]] use, of an [[unnatural]] length, [[huge]], [[big]]. ''Sesquipedalis is a [[portmanteau word]] made up of ''sesqui'' meaning as [[great]] and half as much greater and ''pedalis'', [[foot]]. (Derived from ''A New and [[Copious]] [[Lexicon]] of the Latin [[Language]]; [[compile|Compiled]] chiefly from the Magnum Totius Latinitatis Lexicon of Facciolati and Forcellini, and the [[German]] [[Works]] of Scheller and Luenemann'', Edited by F. P. Leverett, Wilkins, Carter & Co., Boston, 1849.)
