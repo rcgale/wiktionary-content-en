@@ -5,3 +5,4 @@
 ===Translations===
 
 *French: [[déficit commercial]]
+*Swedish: [[handelsunderskott]]
