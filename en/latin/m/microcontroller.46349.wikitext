@@ -15,7 +15,7 @@ A modern microcontroller will typically have:
 * [[Interupt controller]]
 
 A microcontroller may also have:
-* 1 to 16 channels of 8 to 12 bit analog to digital converter
+* 1 to 16 channels of 8 to 12 bit analog to digital converter (ADC) inputs
 * [[Pulse width modulation]] (PWM) outputs
 * 64 to 4096 bytes [[EEPROM]]
 * [[In circuit programming]] port
