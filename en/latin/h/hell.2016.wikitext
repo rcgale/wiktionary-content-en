@@ -1,11 +1,13 @@
-==Noun==
-
-#Place where bad people from various religion are said to go.
-===Antonyms===
-[[Heaven]]
-===Translations===
-*French : [[enfer]]
-
+===Noun===
+#In various religions, the place where bad people are said to go after death.
+#:'''Antonyms'''
+#:*[[Heaven]]
+#:'''Translations
+#:*French : [[enfer]]
 #Place where you suffer a lot  (on earth)
-===Translations===
-*French : [[enfer]]
+#:'''Translations'''
+#:*French : [[enfer]]
+----
+==German==
+===Adjective===
+#clear, bright
