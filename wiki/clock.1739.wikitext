@@ -5,4 +5,4 @@
 '''[[verb]]'''
 
 # To measure the amount of time an action takes.
-# To measure the speed of an object: ''He was clocked at 155 miles per hour.'' (Can the word "clock" be used in this manner?)
+# To measure the speed of an object: ''He was clocked at 155 miles per hour.''
