@@ -4,4 +4,4 @@
 1)Boys name tradionally meaning..
 
 ===Further Reading===
-[http://www.wikipedia.org/wiki/Edward/ Wikipedia Article]
+[http://www.wikipedia.org/wiki/Edward Wikipedia Article]
