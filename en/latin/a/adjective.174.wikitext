@@ -1,4 +1,4 @@
-Adjective \Ad"jec*tive\
+[Ad-jec-tive] \Ad"jec*tive\
 
 ===[[Noun]]===
 # a "describing word", modifying a [[noun]]
