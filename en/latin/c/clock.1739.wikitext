@@ -8,4 +8,6 @@
 # To measure the speed of an object: ''He was clocked at 155 miles per hour.''
 
 ==Translation==
-*de: [[Uhr]]
+*[[Dutch]]: [[klok]] (noun)
+*[[French]]: [[horloge]] (noun)
+*[[German]]: [[Uhr]]
