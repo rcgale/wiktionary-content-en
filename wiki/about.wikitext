@@ -40,7 +40,7 @@ Old English ''aboute'', ''abouten'', ''abuten''; Anglo-Saxon ''&#257;butan'', ''
 #:'''Quotations'''
 #:*There fell ... ''about'' three thousand men. - ''Exodus 22:28''
 #To a reserved position; half round; in the opposite direction; on the opposite tack; as, to face ''about''; to turn one's self ''about''.
-===Derived termas===
+===Derived terms===
 *'''To bring about''', to cause to take place; to accomplish
 *'''To come about''', to occur; to take place. See under [[Come]]
 *'''To go about''', '''To set about''', to [[undertake]]; to arrange; to prepare.
