@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Self-governing country in Oceania, in free association with New Zealand. Official name: Cook Islands.
+#:'''Translations'''
+#:*[[Danish]]: [[Cookøerne]]
+#:*[[Dutch]]: [[Cookeilanden]]
+#:*[[Esperanto]]: [[Kukinsuloj]]
+#:*[[Finnish]]: [[Cookinsaaret]]
+#:*[[French]]: [[Iles Cook]]
+#:*[[German]]: [[Cookinseln]]
+#:*[[Greek]]: [[Νήσοι Κουκ]]
+#:*[[Italian]]: [[Isole Cook]]
+#:*[[Polish]]: [[Wyspy Cooka]]
+#:*[[Portuguese]]: [[Ilhas Cook]]
+#:*[[Russian]]: [[Кука острова]]
+#:*[[Spanish]]: [[Islas Cook]]
+#:*[[Swedish]]: [[Cooköarna]]
+
+''See'': [[Countries of the world]]
