@@ -14,6 +14,7 @@
 noun
 
 *de: braun
+*fi: ruskea
 *es: pardo
 *fr: brun
 *nl: bruin
