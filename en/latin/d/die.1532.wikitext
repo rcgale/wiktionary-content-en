@@ -5,7 +5,7 @@ Middle English from Old Norse ''deyja''
 Past tense and participle: died; Present participle: dying
 #To stop living
 #:'''Translations'''
-#:*[[Dutch]]: [[dood]] [[gaan]], [[sterven]]
+#:*[[Dutch]]: [[doodgaan]], [[sterven]]
 #:*[[French]]: [[mourir]]
 #:*[[Frisian]]: [[deagean]], [[ferstjerre]], [[stjerre]]
 #:*[[German]]: [[sterben]]
