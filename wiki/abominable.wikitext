@@ -1,4 +1,4 @@
-==[[Adjective]]
+==[[Adjective]]==
 
 ===[[Etymology]]===
 
