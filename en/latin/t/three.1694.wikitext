@@ -5,4 +5,6 @@ Old English ''þreo'', from Germanic ''*þrijiz'', from PIE ''*treyes''. Cognate
 # [[One]] plus [[two]]. The typical number of parts in most [[monocot]] [[flower]]. Ordinal: [[third]].
 
 == Translations ==
+Finnish: [[kolme]]
 Lojban: [[ci]]
+Swedish: [[tre]]
