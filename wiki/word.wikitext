@@ -10,3 +10,4 @@
 *eo: [[vorto]]
 *fr: [[mot]]
 *nl: [[woord]]
+*sv: [[ord]]
