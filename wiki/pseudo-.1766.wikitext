@@ -1,4 +1,12 @@
 ===Etymology===
 Greek
 ===Prefix===
-#false
+#[[false]]
+
+===Examples===
+#[[pseudopod]]
+#[[pseudoanthropomorphic]]
+#[[pseudonym]]
+
+==[[Adjective]]==
+[[colloquial]] - [[pretentious]], not [[genuine]], [[fake]], pretending to be something more [[impressive]] than the [[actuality]] (''pseudo''-scientific garbage)
