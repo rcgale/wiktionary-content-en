@@ -11,3 +11,5 @@
 '''Abdominal''', ''[[noun (part of speech)|noun]]''; E. pl. '''Abdominals''', L. pl. '''Abdominales'''.
 
 A fish of the group [[Abdominales]].
+
+<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[]]<BR>• [[German]]: [[]]<BR>• [[Interlingua]]: [[Abdominal]]<BR>• [[Italian]]: [[Addominale]]<BR>• [[Portuguese]]: [[Abdominal]]<BR>• [[Spanish]]: [[Abdominal]]<BR>• [[]]: [[]]
