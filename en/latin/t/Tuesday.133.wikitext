@@ -6,6 +6,7 @@
 *az: [[ç&#601;rş&#601;nb&#601; axşamı]]
 *Blackfoot: [[Isttsinaiksistsiko]]
 *de: [[Dienstag]]
+*eo: [[mardo]]
 *es: [[martes]]
 *et: [[telsipäev]]
 *eu: [[astearte]]
