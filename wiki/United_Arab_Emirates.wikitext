@@ -3,5 +3,6 @@
 # Country in the Middle East.
 #:'''Translations'''
 #:*[[Dutch]]: [[Verenigde Arabische Emiraten]]
+#:*[[Polish]]: [[Zjednoczone Emiraty Arabskie]]
 
 ''See:'' [[Countries of the world]]
