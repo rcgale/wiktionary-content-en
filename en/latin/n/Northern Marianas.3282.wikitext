@@ -2,7 +2,7 @@
 
 '''proper noun'''
 
-# Country in Oceania. Official name: Commonwealth of the Northern Mariana Islands.
+# Commonwealth in political union with the United States of America; placed in Oceania. Official name: Commonwealth of the Northern Mariana Islands.
 #:'''Translations'''
 #:*[[Danish]]: [[Nordmarianerne]]
 #:*[[Dutch]]: [[Noordelijke Marianen]]
