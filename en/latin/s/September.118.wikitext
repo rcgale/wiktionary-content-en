@@ -3,4 +3,6 @@
 #September is the 9th [[month]] in the Gregorian [[calendar]]. It has 30 days.
 
 ==Translations==
+*es: septiembre
+*fr: septembre
 *nl: [[september]]
