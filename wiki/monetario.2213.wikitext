@@ -1,5 +1,5 @@
 Spanish
 
-==[[Adhjective]]==
+==[[Adjective]]==
 
 *Related to the [[currency]]
