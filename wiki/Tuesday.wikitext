@@ -1,5 +1,5 @@
 ===Etymology===
-Old English ''T&#299wesdæg'', from the Germanic God ''[[T&#299w]]'' corresponding to the Roman God ''[[Mars]]'' whence the Latin ''dies marti''
+Old English ''T&#299wesdæg'', from the Germanic God ''[[w:Tiw|T&#299w]]'' corresponding to the Roman God ''[[w:Mars_(god)|Mars]]'' whence the Latin ''dies marti''
 ===Noun===
 #The second day of the [[week]] (according to the ISO 8601 norm).  It follows [[Monday]] and preceedes [[Wednesday]].
 ===Translations===
