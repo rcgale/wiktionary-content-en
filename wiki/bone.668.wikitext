@@ -4,9 +4,9 @@ bone, n. 1. A [[composite]] [[material]] consisting largely of [[calcium]] [[pho
 *Dutch: [[been]]
 *French: [[os]]
 *German: [[Knochen]]
-*Hebrew: [[עצם]]
+*Hebrew: [[עצם]] (EH-tzem)
 *Italian: [[osso]]
 *Lojban: [[bongu]]
 *Portuguese: [[osso]]
 *Spanish: [[hueso]]
-*Yiddish: [[בּײן]]
+*Yiddish: [[בּײן]] (bayn)
