@@ -10,6 +10,7 @@
 *[[Georgian]]: [[შაბათი]]
 *he: [[שבת]]
 *it: [[sabato]]
+*mi: [[hätarei]]
 *nl: [[zaterdag]]
 *pl: [[sobota]]
 *pt: [[s&aacute;bado]]
