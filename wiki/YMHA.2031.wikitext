@@ -1,0 +1,3 @@
+Abbreviation for:
+
+*Young Mens Hebrew Association
