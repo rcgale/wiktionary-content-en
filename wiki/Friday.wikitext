@@ -3,11 +3,13 @@
 #The fifth day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
-*de: Freitag
-*es: viernes
+*de: [[Freitag]]
+*eo: [[vendredo]]
+*es: [[viernes]]
 *fr: [[vendredi]]
 *[[Georgian]]: [[პარასკევი]]
 *he: [[יום שישי]]
+*it: [[venerdì]]
 *nl: [[vrijdag]]
 *pl: [[piątek]]
 *pt: [[sexta-feira]]
