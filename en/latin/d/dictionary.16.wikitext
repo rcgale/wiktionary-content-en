@@ -1,39 +1,27 @@
-==Definition==
-;'''Dictionary''' ''([[noun]])''
-: A [[publication]], usually in the form of a [[book]], which gives an ordered list (normally [[alphabetical]]ly) of [[word]]s selected on the basis of popularity in a given field, normally explaining their meaning and sometimes containing information on etymology, usage, translations and other items related to the word. Some dictionaries list the words of more than one language and/or give translations in more than one language.
-
-
-==Pronounciation==
-;'''Dictionary''' ''([[noun]])''
-:(UK) IPA:/ˈdɪkʃənrɪ/. 
-:(US) IPA:/ˈdɪkʃənˌerɪ/. 
-
-==Etymology==
-;'''Dictionary''' ''([[noun]])''
-:From medival Latin [[dictionarium]].
-
-==Quotations==
-;'''Dictionary''' ''([[noun]])'' 
+===Etymology===
+From medival Latin [[dictionarium]]. 
+===Pronounciation===
+(UK) IPA:/ˈdɪkʃənrɪ/. 
+(US) IPA:/ˈdɪkʃənˌerɪ/.  
+===[[Noun]]===
+#A [[publication]], usually in the form of a [[book]], which gives an ordered list (normally [[alphabetical]]ly) of [[word]]s, normally explaining their meaning and sometimes containing information on etymology, usage, translations and other items related to the word. Some dictionaries list the words of more than one language and/or give translations in more than one language.
+===Quotations===
 *'''1570''' - Roger Ascham, ''The Scholemaster'' (1570).
 *:So, as the Grammer booke be euer in the Scholers hand, and also vsed of him, as a Dictionarie, for euerie present vse.
+===Translations===
+*Danish: [[ordbog]]
+*German: [[Wörterbuch]]
+*Esperanto: [[vortaro]]
+*Spanish: [[diccionario]]
+*Estonian: [[sõnaraamat]]
+*Finnish: [[sanakirja]]
+*French: [[dictionnaire]]
+*Hebrew: [[מילון]]
+*Italian: [[dizionario]]
+*Dutch: [[woordenboek]]
+*Polish: [[słownik]]
+===Derived words===
+[[Pictionary]] - [[Fictionary]] - [[Wiktionary]]. 
 
-==Derived words==
-;'''Dictionary''' ''([[noun]])'' 
-:[[Pictionary]], [[Fictionary]], [[Wiktionary]].
-
-==Translations==
-;'''Dictionary''' ''([[noun]])''
-*da: [[ordbog]]
-*de: [[Wörterbuch]]
-*eo: [[vortaro]]
-*es: [[diccionario]]
-*et: [[sõnaraamat]]
-*fi: [[sanakirja]]
-*fr: [[dictionnaire]]
-*he: [[מילון]]
-*it: [[dizionario]]
-*nl: [[woordenboek]]
-*pl: [[słownik]]
-
-== Further reading ==
+=== Further reading===
 *[[en:Dictionary|Wikipedia article]]
