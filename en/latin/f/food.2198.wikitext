@@ -1,0 +1,6 @@
+==[[Noun]]==
+
+#Things that can be eaten, especially by human beings
+
+===Translations===
+*French: [[alimentation]], [[denrée alimentaire]] [[nourriture]]
