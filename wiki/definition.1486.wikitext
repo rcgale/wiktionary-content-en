@@ -15,3 +15,7 @@
 == Etymology ==
 
 Middle [[English]] ''diffinicioun'', from middle [[French]] ''definition'', from [[Latin]] ''definition-'', ''definitio'', from ''definire''
+
+== Further reading ==
+
+* [[w:definition|Wikipedia article on definition]]
