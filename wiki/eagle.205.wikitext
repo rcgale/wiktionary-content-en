@@ -21,7 +21,7 @@
 *[[Chamorro]]: [[Ágila]]
 *[[Chinese(Simplified)]]: [[老鹰]] (needs to be checked by speaker)
 *[[Chinese(Traditional)]]: [[老鷹]] (needs to be checked by speaker)
-*[[Cornish]]: [[e&macr;r]]
+*[[Cornish]]: [[&macr;er]]
 *[[Croatian]]: [[Orao]]
 *[[Czech]]: [[Orel]]
 *[[Dutch]]: [[Arend]], [[Adelaar]] (1)
