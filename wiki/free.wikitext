@@ -11,12 +11,12 @@
 From Germanic *[[frijaz]], which derives from Indogerman *[[prei-]] ''to be fond of''.
 
 ==Translations==
-*Danish: [[fri]], [[gratis]] (2)
-*Dutch: [[vrij]] (not 2), [[gratis]] (2)
-*Estonian: [[vaba]], [[tasuta]] (2)
-*French: [[libre]], [[gratuit]] (2)
-*Frisian: [[frij]]
-*German: [[frei]], [[umsonst]] (2), [[gratis]] (2), [[kostenlos]] (2)
-*Hebrew: חינם ,חופשי 
-*Italian: [[libero]] (1,4,5), [[gratuito]] (2), [[illimitato]] (3)
-*Swedish: [[fri]], [[gratis]] (2), [[kostnadsfri]] (2)
+*[[Danish]]: [[fri]], [[gratis]] (2)
+*[[Dutch]]: [[vrij]] (not 2), [[gratis]] (2)
+*[[Estonian]]: [[vaba]], [[tasuta]] (2)
+*[[French]]: [[libre]], [[gratuit]] (2)
+*[[Frisian]]: [[frij]]
+*[[German]]: [[frei]], [[umsonst]] (2), [[gratis]] (2), [[kostenlos]] (2)
+*[[Hebrew]]: חינם ,חופשי 
+*[[Italian]]: [[libero]] (1,4,5), [[gratuito]] (2), [[illimitato]] (3)
+*[[Swedish]]: [[fri]], [[gratis]] (2), [[kostnadsfri]] (2)
