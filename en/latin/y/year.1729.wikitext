@@ -10,3 +10,12 @@
 *[[Frisian]]: [[jier]]
 *[[German]]: [[Jahr]]
 *[[Spanish]]: [[año]]
+
+==Related words ==
+
+*Last year
+
+===Translations===
+
+*French: l'année dernière
+*Spanish: año pasado
