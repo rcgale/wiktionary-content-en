@@ -1,1 +1,1 @@
-The [[number]] occurring after six and before eight, represented in [[Roman numerals]] as VII and in [[Arabic numerals]] as 7. ''The are seven days in a week.''
+The [[number]] occurring after [[six]] and before [[eight]], represented in [[Roman numerals]] as VII and in [[Arabic numerals]] as 7. ''The are seven days in a week.''
