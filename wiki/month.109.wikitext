@@ -5,6 +5,10 @@ A [[period]] in which a [[year]] is divided. In the Gregorian [[calendar]] there
 ==Etymology==
 Old English [[monat]], from Germanic *[[manoth]], which is related to *[[manon]] ''moon''. Both are derived from an indogermanic *[[menses-]], which may derive in turn from *[[mê-]] ''meten''.
 
+==Related word==
+
+* [[quarter]] 
+* [[year]]
 ==Translations==
 *de: [[Monat]]
 *es: mes (plural: meses)
