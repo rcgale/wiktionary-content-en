@@ -11,4 +11,5 @@
 
 '''Abacus harmonicus''' ''([[Mus (subject)|Mus]]).'', an ancient [[diagram]] showing the structure and disposition of the keys of an instrument. ''[[Crabb. (source)|Crabb.]]''
 </ol>
-<P><H3>Translations</H3><BR>•[[French]] fr: [[Abaque]]<BR>•[[Germian]] de: [[Rechenmaschine]]<BR>•[[Interlingua]] ia: [[Abaco]]<BR>•[[Italian]] it: [[Abbaco]]<BR>*[[Portuguese]] pt: [[ ábaco]]<BR>•[[Spanish]] es: [[ ábaco]]<BR>•[[]]: [[]]
+----
+<P><H3>Translations</H3><BR>•[[French]] fr: [[Abaque]]<BR>•[[German]] de: [[Rechenmaschine]]<BR>•[[Interlingua]] ia: [[Abaco]]<BR>•[[Italian]] it: [[Abbaco]]<BR>•[[Portuguese]] pt: [[ ábaco]]<BR>•[[Spanish]] es: [[ ábaco]]<BR>•[[]]: [[]]
