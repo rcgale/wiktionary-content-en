@@ -9,7 +9,7 @@
 *[[Frisian]] : [[oarloch]], [[kriich]]
 *[[German]] : [[Krieg]]
 *[[Japanese]] : [[戦争]] (せんそう;sensou)
-*[[Korean]] : [[전쟁]] [戦争] (jeonjaeng)
+*[[Korean]] : [[전쟁]] [戰爭] (jeonjaeng)
 *[[Spanish]] : [[guerra]]
 
 ===Antonyms===
