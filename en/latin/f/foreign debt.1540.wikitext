@@ -6,7 +6,7 @@ The amount of money that a country has to pay to another country.
 
 '''Antonym'''
 
-* Domestic debt
+* [[Domestic debt]]
 
 '''See also'''
 
