@@ -1,5 +1,6 @@
 === [[Traduko]]j ===
 
+[[Vorto]] kiu estas uzata por riferi al [[persono]], [[loko]], [[ajxo]] aux [[ideo]]; parto de la [[diskuto]]
 
 *[[Angla]]: [[noun]]
 *[[Hispana]]: [[nombre]]
