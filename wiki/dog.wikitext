@@ -17,8 +17,9 @@ Plural = dogs
 #:*Esperanto [[hundo]]
 #:*French: [[chien]]
 #:*Frisian: [[hûn]]
-#:*German: [[Hund]]
-#:*Hebrew: [[כלב]] (KEH-lev)
+#:*German: [[hund]]
+#¨*Greek: [[σκύλος]]
+#:*Hebrew: [[כלב]] (keh-lev)
 #:*Inuktitut: [[qimmiq]]
 #:*Italian: [[cane]]
 #:*Lojban: [[gerku]]
