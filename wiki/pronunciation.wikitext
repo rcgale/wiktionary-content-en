@@ -1,0 +1,6 @@
+[[w:Phoneme| See wikipedia article about pronunciation]]
+
+===[[Translation]]s===
+
+*[[Esperanto]]: [[prononco]].
+*[[Spanish]]: [[pronunciación]].
