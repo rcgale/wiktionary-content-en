@@ -4,6 +4,7 @@
 
 ===Translations===
 
+*Dutch: [[beweeglijk]], [[mobiel]]
 *French: mobile
 
 ===Related words===
