@@ -9,3 +9,4 @@
 *nl: [[maandag]]
 *pl: [[poniedziałek]]
 *pt: [[segunda-feira]]
+*sq: [[e h&euml;n&euml;]]
