@@ -8,4 +8,5 @@
 *nl: [[vlees]]
 *fr: [[viande]]
 *fy: [[fleis]]
-*is: [[kjöt]],
+*is: [[kjöt]]
+*Korean: [[고기]] (gogi)
