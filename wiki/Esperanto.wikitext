@@ -1,4 +1,4 @@
-*'''[[eo:|Wikipedia en Esperanto]]'''
+*'''[[eo:|Vikipedio, Wikipedia en Esperanto]]'''
 
 *Multilingual information about Esperanto : 
 **http://www.esperanto.net
