@@ -1,0 +1,3 @@
+==[[Abbreviation]]==
+
+#[[Integrated Services Digital Network]]
