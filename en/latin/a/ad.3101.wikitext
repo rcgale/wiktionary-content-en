@@ -2,6 +2,10 @@
 #''(Informal):'' abbreviation of advertisement.
 #''(Tennis):'' advantage
 ----
+==Latin==
+===Preposition===
+#to, towards
+----
 ==Volapük==
 ===Preposition===
 #for, in order to, to
