@@ -1,0 +1,10 @@
+==[[Noun]]==
+
+#
+#[[technology]] that allows for the [[transmission]] of sound or other signals by [[modulation]] of [[electromagnetic wave]]s.
+
+===Translations===
+*French: radio
+
+===Related words===
+*[[radio transceiver]]
