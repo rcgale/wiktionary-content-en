@@ -1,6 +1,12 @@
-[[adjective]]
+==[[adjective]]==
 # With extreme [[care]] and [[precision]]
 
-[[Synonym]]s - [[careful]], [[precise]], [[painstaking]]
+===[[Synonym]]s===
+*[[careful]]
+*[[precise]]
+*[[painstaking]]
 
-[[Antonym]]s - [[sloppy]], [[careless]], [[slapdash]]
+===[[Antonym]]s===
+*[[sloppy]]
+*[[careless]]
+*[[slapdash]]
