@@ -1,6 +1,6 @@
 '''Het''' /het/ (Dutch)
 
-[[Definite article]], placed before [[neuter]] nouns, indicating a specific person or thing instead of the general case. Compare with [[de]] and [[een]].
+[[Definite article]], placed before [[neuter]] nouns, indicating a specific person or thing instead of the general case: [[the]]. Compare with [[de]] and [[een]].
 
 === Examples === 
 
@@ -10,4 +10,4 @@ Note about [[grammatical gender in Dutch]]: all [[diminuitive|diminuitives]] are
 
 === Translations ===
 
-en: [[the]
+en: [[the]]
