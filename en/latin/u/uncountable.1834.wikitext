@@ -1,0 +1,3 @@
+1. (adjective) so large as to be incapable of being counted
+
+2. (adjective, Mathematics) incapable of being put into one-to-one correspondence with the natural numbers or any subset thereof (etymology: sense 1)
