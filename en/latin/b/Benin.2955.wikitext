@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Republic of Benin.
+#:'''Translations'''
+#:*[[Danish]]: Benin
+#:*[[Dutch]]: Benin
+#:*[[Esperanto]]: [[Benino]]
+#:*[[Finnish]]: Benin
+#:*[[French]]: [[Bénin]]
+#:*[[German]]: Benin
+#:*[[Greek]]: [[Μπενίν]]
+#:*[[Interlingua]]: Benin
+#:*[[Italian]]: Benin
+#:*[[Polish]]: Benin
+#:*[[Portuguese]]: [[Benim]]
+#:*[[Russian]]: [[Бенин]]
+#:*[[Spanish]]: [[Benín]]
+#:*[[Swedish]]: Benin
+
+''See'': [[Countries of the world]]
