@@ -9,8 +9,8 @@
 <tr><td>you</td><td>are</td><td>were</td><td>be</td><td>were</td>
 <tr><td>they</td><td>are</td><td>were</td><td>be</td><td>were</td>
 </table>
-'''Past participle:''' been
-'''Present participle:''' being
+'''Past participle:''' been<br>
+'''Present participle:''' being<br>
 '''Imperative:''' be
 ===Intransitive Verb===
 #to exist
