@@ -1,0 +1,5 @@
+Spanish
+
+==Adjective==
+
+#Related to [[bank]]s
