@@ -3,9 +3,10 @@
 #The seventh day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
-*Blackfoot: Naatoyiksistsiko
-*de: Sonntag
-*es: domingo
+*Blackfoot: [[Naatoyiksistsiko]]
+*de: [[Sonntag]]
+*es: [[domingo]]
+*eu: [[igande]]
 *fr: [[dimanche]]
 *[[Georgian]]: [[კვირადღე]]
 *he: [[יום ראשון]]
