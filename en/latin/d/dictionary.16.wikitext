@@ -1,4 +1,4 @@
-/[[Received Pronunciation|?d?k??nr?]]/, /[[General American|?d?k??n?er?]]/, noun '''(en)'''
+/[[Received Pronunciation|ˈdɪkʃənrɪ]]/, /[[General American|ˈdɪkʃənˌerɪ]]/, noun '''(en)'''
 
 1. A [[publication]], usually in the form of a [[book]], which [[alphabetical]]ly [[reference]]s the [[word]]s (and meanings thereof) for a given [[language]] or languages.
 
