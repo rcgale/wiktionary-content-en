@@ -21,3 +21,6 @@
 #:*[[Swedish]]: [[Kina]]
 
 ''See'': [[Countries of the world]]
+
+'''noun'''
+#Ceramic or porcelain
