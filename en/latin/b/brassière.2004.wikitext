@@ -1,0 +1,6 @@
+==French==
+
+===Noun===
+#A child's vest.
+#''(Maritime):'' A life jacket.
+#''The use of this word, notably in Quebec French, in the sense of the English ''brassiere'' is an anglicism, and a back-formed false friend.''
