@@ -1,4 +1,4 @@
-'''the''' /thə/ (American English) 
+'''the''' /ðə/ before consonant, /ði:/ before vowel (American English) 
 
 # "Definite article", placed before nouns, indicating a specific person or thing instead of the general case. Compare with [[a]].
 
