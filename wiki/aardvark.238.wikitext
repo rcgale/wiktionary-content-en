@@ -3,3 +3,7 @@
 An [[edentate]] [[mammal]], of the genus ''Orycteropus'', somewhat resembling a [[pig]], common in some parts of Southern Africa. It [[burrows]] in the ground, and feeds entirely on [[ant]]s, which it [[catches]] with its long, [[slimy]] tongue.
 
 Plural form: aardvarks
+
+==Translation==
+*de: [[Erdferkel]]
+*nl, af: Aardvark
