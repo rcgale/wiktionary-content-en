@@ -2,9 +2,22 @@
 
 '''proper noun'''
 
-# Island nation in the Atlantic Ocean.
+# Country in Europe. Official name: Republic of Iceland.
 #:'''Translations'''
+#:*[[Chinese]]: [[冰岛]]
+#:*[[Danish]]: [[Island]]
 #:*[[Dutch]]: [[IJsland]] (note: both I and J need to be capitalized)
+#:*[[Esperanto]]: [[Islando]]
+#:*[[Finnish]]: [[Islanti]]
 #:*[[French]]: [[Islande]]
+#:*[[German]]: [[Island]]
+#:*[[Greek]]: [[Ισλανδία]]
+#:*[[Interlingua]]: [[Islanda]]
+#:*[[Italian]]: [[Islanda]]
+#:*[[Polish]]: [[Islandia]]
+#:*[[Portuguese]]: [[Islândia]]
+#:*[[Russian]]: [[Исландия]]
+#:*[[Spanish]]: [[Islandia]]
+#:*[[Swedish]]: [[Island]]
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
