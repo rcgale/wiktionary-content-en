@@ -15,4 +15,4 @@ Unie van Socialistische Sovjetrepublieken
 
 ----
 German:
-Union der Sowjetiscen Sozialistischen Republiken
+Union der Sowjetischen Sozialistischen Republiken
