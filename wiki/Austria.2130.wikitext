@@ -2,10 +2,22 @@
 
 '''proper noun'''
 
-# Country in Central Europe.
+# Country in Central Europe. Official name: Republic of Austria.
 #:'''Translations'''
+#:*[[Chinese]]: [[奥地利]]
+#:*[[Dannish]]: [[Østrig]]
 #:*[[Dutch]]: [[Oostenrijk]]
+#:*[[Esperanto]]: [[Aŭstrio]], [[Aŭstrujo]]
+#:*[[Finnish]]: [[Itävalta]]
 #:*[[French]]: [[Autriche]]
 #:*[[German]]: [[Österreich]]
+#:*[[Greek]]: [[Αυστρία]]
+#:*[[Interlingua]]: Austria
+#:*[[Italian]]: Austria
+#:*[[Polish]]: Austria
+#:*[[Portuguese]]: [[Áustria]]
+#:*[[Russian]]: [[Австрия]]
+#:*[[Spanish]]: Austria
+#:*[[Swedish]]: [[Österrike]]
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
