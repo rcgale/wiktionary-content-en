@@ -1,9 +1,12 @@
+==[[Interlingua]]==
+===[[Etymology]]===
+From [[deficit]] + [[commercial]].
 ===[[Noun]]===
-#A situation where a [[country]] is [[import]]ing more than it is exporting [[export]]ing.
+#A situation where a [[country]] is [[import]]ing more than it is [[export]]ing.
 #:'''Translations'''
+#:*[[English]]: [[trade deficit]]
 #:*[[Finnish]]: [[kauppavaje]]
 #:*[[French]]: [[déficit commercial]]
-#:*[[Interlingua]]: [[deficit commercial]]
 #:*[[Italian]]: [[disavanzo commerciale]]
 #:*[[Portuguese]]: [[déficit comercial]]
 #:*[[Spanish]]: [[déficit comercial]]
