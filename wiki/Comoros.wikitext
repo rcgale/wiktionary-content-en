@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Eastern Africa. Official name: Union of the Comores.
+#:'''Translations'''
+#:*[[Chinese]]: [[科摩罗]]
+#:*[[Danish]]: [[Comorerne]]
+#:*[[Dutch]]: [[Comoren]]
+#:*[[Esperanto]]: [[Komoroj]]
+#:*[[Finnish]]: [[Komorit]]
+#:*[[French]]: [[Comores]]
+#:*[[German]]: [[Komoren]]
+#:*[[Greek]]: [[Κομόρες]]
+#:*[[Interlingua]]: [[Comoras]]
+#:*[[Italian]]: [[Comore]]
+#:*[[Polish]]: [[Komory]]
+#:*[[Portuguese]]: [[Comores]]
+#:*[[Russian]]: [[Коморские острова]]
+#:*[[Spanish]]: [[Comoras]]
+#:*[[Swedish]]: [[Komorerna]]
+
+''See'': [[Countries of the world]]
