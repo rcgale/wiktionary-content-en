@@ -1,7 +1,7 @@
 ==[[noun]]==
 
 # [[Sound]] organized in [[time]].
-# Any pleasing or interesing sounds.
+# Any pleasing or interesting sounds.
 # [[Sheet music]].
 #:'''Translations'''
 #:*[[Dutch]]: [[muziek]]
