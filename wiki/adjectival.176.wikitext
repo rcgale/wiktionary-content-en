@@ -5,3 +5,5 @@ Adjectival \Ad`jec*ti"val\
 
 ==Translations==
 *[[Dutch]]: [[bijvoeglijk]]
+#:*[[Interlingua]]: [[adjective]], [[adjectival]]
+#:*[[Portuguese]]: [[adjetivo]]
