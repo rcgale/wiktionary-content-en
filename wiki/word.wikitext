@@ -13,3 +13,4 @@
 *nl: [[woord]]
 *sv: [[ord]]
 *yi: [[װאָרט]]
+*pt: [[palavra]]
