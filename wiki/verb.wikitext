@@ -12,3 +12,4 @@ From old French ''verbe'', which derives from Latin ''verbum'' (word), from Indo
 
 *de: Verb, [[Verbum]]
 *nl: [[werkwoord]]
+*pl: [[czasownik]]
