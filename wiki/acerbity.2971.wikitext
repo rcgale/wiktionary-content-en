@@ -1,0 +1,9 @@
+acerbity, ''[[Noun]]'', bitterness.
+---- 
+'''Translations''' 
+* [[French]]: [[Amertume]] 
+* [[German]]: [[Bitterkeit]] 
+* [[Interlingua]]: [[Acerbitate]] 
+* [[Italian]]: [[Amarezza]] 
+* [[Portuguese]]: [[Bitterness]] 
+* [[Spanish]]: [[Amargura]]
