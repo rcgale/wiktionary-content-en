@@ -1,0 +1,13 @@
+[[Pronounciation Guide|reptor] (en) ''(noun)''
+
+#A [[bird]] of prey (e. g. [[eagle]], [[falcon]])
+#A [[family]] of [[carnivorous]] [[dinosaurs]], equipped with special ripping claws on the hind legs.
+
+==Etymologie==
+
+Latin raptor, meaning [[thief]].
+(2) became popular after the movie ''Jurassic Park'' used it as a short word for dinosaurs of the [[genus]] [[en:Velociraptor|Velociraptor]]
+
+==Translations==
+
+*de: [[Raubvogel]] (1), Raptor (2)
