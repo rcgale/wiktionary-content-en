@@ -1,0 +1,13 @@
+'''fuck''', vi, vt, to have sexual intercourse, to copulate
+
+'''fuck''', n, the act of coition
+
+'''fuck off''', (vulgar, slang) go away!
+
+'''fuck''', term of discontentment, as in "oh fuck!","fuck this!"
+
+'''fucking''', vi,vt, having sexual intercourse
+
+'''fucking''', adj, (slang) really, extremely (as in "it was fucking awful")
+
+'''fucking''', vi, (slang) playing, fooling (as in "he was just fucking around")
