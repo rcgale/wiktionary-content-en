@@ -2,7 +2,7 @@
 #In various religions, the place where bad people are said to go after death.
 #:'''Antonyms'''
 #:*[[Heaven]]
-#:'''Translations
+#:'''Translations'''
 #:*French : [[enfer]]
 #Place where you suffer a lot  (on earth)
 #:'''Translations'''
