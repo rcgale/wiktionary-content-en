@@ -29,6 +29,6 @@
 #:*[[Dutch]]: [[veer]]
 #:*[[French]]: [[resort]]
 #:*[[Frisian]]: [[fear]]
-#:*[[German]]: [[Rolle]]
+#:*[[German]]: [[Sprungfeder]]
 #:*[[Hebrew]]: [[קפיץ]] (kfeetz)
 #:*[[Polish]]: [[sprężyna]]
