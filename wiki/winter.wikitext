@@ -1,8 +1,12 @@
-===Meanings===
-# Traditionally the fourth of the four [[season]]s, typically regarded as being from [[December]] 21 to [[March]] 20 in Northern [[Hemisphere]] regions and from [[June]] 21 to [[September]] 20 in Southern Hemisphere regions. 
+'win-ter /wInt@/
+
+=== Meanings ===
+
+# ''noun'', ''plural'' -s, Traditionally the fourth of the four [[season]]s, typically regarded as being from [[December]] 21 to [[March]] 20 in Northern [[Hemisphere]] regions and from [[June]] 21 to [[September]] 20 in Southern Hemisphere regions. 
 :Usually marked by the applicable hemisphere of the [[planet]] being at its minimum angle of exposure to the [[Sun]] resulting in short days and the typically the time period with the lowest atmospheric [[temperature]]s for the region.
 
-===Translations===
+=== Translations ===
+
 *[[Albanian]]: [[dinër]]
 *[[Basque]]: [[negu]]
 *[[Dutch]]: [[winter]]
@@ -14,3 +18,9 @@
 *[[Portuguese]]: [[inverno]]
 *[[Spanish]]: [[invierno]]
 *[[Yiddish]]: [[װינטער]]
+
+== Dutch ==
+'win-ter /wInt@R/, ''masculine noun'', ''plural'' -s /-s/, winter.
+
+== German ==
+'Win-ter /???/, ''masculine noun'', ''plural'' ???, winter.
