@@ -3,11 +3,12 @@
 #:'''[[translation]]s'''
 #:*[[Dutch]]: [[Griek]]
 #:*[[Esperanto]]: [[Greko]]
-
+#:*[[Polish]]: [[grek]]
 #[[w:IndoEuropean|Indo-European]] language, primarily spoken in Greece
 #:'''translations'''
 #:*[[Dutch]]: [[Grieks]]
 #:*[[Esperanto]]: [[Greka]] ([[lingvo]])
+#:*[[Polish]]: język [[grecki]]
 
 ===[[Adjective]]===
 #of Greece, Greek people or the Greek language
@@ -15,3 +16,4 @@
 #:*[[Dutch]]: [[Grieks]]
 #:*[[Esperanto]]: [[Greka]]
 #:*[[Spanish]]: [[Griego]]
+#:*[[Polish]]: [[grecki]]
