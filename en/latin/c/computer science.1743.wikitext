@@ -1,0 +1,13 @@
+'''[[noun]]'''
+
+# The study of [[computer]]s and their applications, in all aspects, as well as the mathematical structures that relate to computers and [[computation]].
+
+== See also ==
+
+* [[Data structure]]
+* [[Algorithm]]
+* [[Mathematics]]
+
+== Further reading ==
+
+* [[w:Computer science|Wikipedia article on computer science]]
