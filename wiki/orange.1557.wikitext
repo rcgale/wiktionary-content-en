@@ -1,7 +1,7 @@
 '''[[noun]]''':
 
 #A color between [[red]] and [[yellow]]
-#The fruit of the orange tree
+#The fruit of the orange [[tree]]
 
 ==Translations==
 *noun 1
