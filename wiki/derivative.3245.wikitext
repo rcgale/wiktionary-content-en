@@ -1,5 +1,15 @@
-A word that derivates from another one.
-
-==[[Translation]]s==
+===Etymology===
+Middle English from French ''dérivatif'' and Latin ''derivatus''. See [[derive]].
+===Adjective===
+#Imitative of someone else's work
+#''(Copyright Law):'' Referring to a work, such as a translation or adaptation, based on another work that may be subject to copyright restrictions
+#Having a value that depends on an underlying asset of variable value
+===Noun===
+#Something based on another source
+#A word that derives from another one.
+#A financial instrument whose value depends on the value of something else, such as warrants, options etc.
+#A chemical, such as crack cocaine, that is derived from another
+#''(Mathematics):'' A function which expresses rates of change
+===[[Translation]]s===
 
 *[[Spanish]]: [[derivativo]].
