@@ -1,3 +1,7 @@
-Put your text for the new page here.
-
-common use in North West England -to make an unecessary fuss. Usually directed at children, "Will you stop mithering me!"
+===Etymology===
+Late 17th century, unknown origin, possibly Welsh ''moedrodd'' to worry or bother.
+===Verb===
+====Intransitive====
+#''(North England dialect):'' to make an unecessary fuss, moan. 
+====Transitive====
+#To pester or irritate someone.  Usually directed at children, "Will you stop mithering me!"
