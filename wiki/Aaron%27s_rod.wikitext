@@ -1,5 +1,5 @@
 ===Etymology===
-Biblical - ''Exodus 7:9'' and ''Numbers 17:8
+Biblical - ''Exodus 7:9'' and ''Numbers 17:8''
 ===Noun===
 #''(Archaic):'' A rod with one serpent twined around it, thus differing from the [[caduceus]] of Mercury, which has two.
 #''(Botany):'' A plant with a tall flowering stem; esp. the great [[mullein]], or [[hag-taper]], and the [[golden-rod]].
