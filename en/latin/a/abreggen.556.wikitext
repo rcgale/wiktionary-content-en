@@ -1,4 +1,4 @@
 ===Transitive verb===
 #Obsolete variant of [[Abridge]]. 
 #:'''Quotations'''
-#:Al mowe they yet tho dayes wel abregge, - Chaucer, ''The Knight's Tale''
+#:*Al mowe they yet tho dayes wel abregge, - Chaucer, ''The Knight's Tale''
