@@ -58,23 +58,3 @@ Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (
 * sv: [[vecka]]
 * Wolof [[Ayubés]]
 * yi: [[וואָך]]
-
---------
-
-==Dutch==
-===Pronunciation===
-
-/weIk/
-
-===Noun===
-
-# week
-
-
-===Adverb===
-
-# [[soft]]
-
-===Verb===
-# present tense singular of [[weken]] (to [[soak]])
-# past tense singular of [[wijken]] (to make way)
