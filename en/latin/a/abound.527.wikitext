@@ -5,7 +5,7 @@
 
 <code>The wild boar which ''abounds'' in some parts of the continent of Europe. ''[[Chambers (source)|Chambers]].''</code>
 
-<code>Where sin ''abounded'' grace did much more ''abound''. ''[[Rom. v. 20 (source)|Rom. v. 20]].''</code>
+<code>Where sin ''abounded'' grace did much more ''abound''. [[Rom. 5:20 (source)|Rom. 5:20]].</code>
 
 <li> To be [[copiously]] supplied; -- followed by ''in'' or ''with''.
 
@@ -13,7 +13,7 @@
 
 <code>Men ''abounding in'' natural courage. ''[[Macaulay (source)|Macaulay]].''</code>
 
-<code>A faithful man shall ''abound with'' blessings. ''[[Prov. xxviii. 20 (source)|Prov. xxviii. 20]].''</code>
+<code>A faithful man shall ''abound with'' blessings. [[Prov. 28:20 (source)|Prov. 28:20]].</code>
 
 <code>It ''abounds with'' cabinets of curiosities. ''[[Addison (source)|Addison]].''</code>
 </ol>
