@@ -6,3 +6,4 @@
 #:*French: [[crayon]]
 #:*Frisian: [[poatlead]]
 #:*German: [[Bleistift]]
+#:*Spanish: [[Lápiz]]
