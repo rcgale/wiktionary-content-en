@@ -10,6 +10,7 @@
 *Danish: [[ord]]
 *Dutch: [[woord]]
 *Esperanto: [[vorto]]
+*Finnish: [[sana]]
 *French: [[mot]], [[parole]]
 *Frisian: [[wurd]]
 *German: [[Wort]]
