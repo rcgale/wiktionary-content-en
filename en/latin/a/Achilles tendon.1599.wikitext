@@ -1,4 +1,4 @@
-''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Achilles' tendon]] for the new Wiktionary definition of this term.''
+==Noun==
 
 '''Achilles' tendon''', ''<code>[[noun (part of speech)|noun]]</code>'' [L. ''Achillis tendo''.] ''([[Anat (subject)|Anat]]).''
 
