@@ -8,7 +8,7 @@ As separate letters: [U-S-S-R]
 #:*[[Estonian]]: [[UNSV]]
 #:*[[French]]: [[URSS]]
 #:*[[German]]: [[UdSSR]]
-#:*[[Greek]]: [[ESSD]]
+#:*[[Greek]]: [[ΕΣΣΔ]] ([[ESSD]] - romanised)
 #:*[[Polish]]: [[ZSRR]]
 #:*[[Portuguese]]: [[URSS]]
 #:*[[Russian]]:[[CCCP]] ([[SSSR]] - romanised)
