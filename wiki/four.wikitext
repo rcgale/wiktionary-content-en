@@ -5,4 +5,9 @@ Old English ''feower'', from Germanic ''*fiþworiz'', from PIE ''*kwetwores''. C
 # [[One]] plus [[three]]; [[two]] plus two; two times two. The typical number of [[finger]]s, other than the [[thumb]], on one [[hand]]. Ordinal: [[fourth]].
 
 == Translations ==
-Lojban: [[vo]]
+*de: [[vier]]
+*es: [[cuatro]]
+*fr: [[quattre]]
+*Frisian: [[fjouwer]]
+*Lojban: [[vo]]
+*nl: [[vier]]
