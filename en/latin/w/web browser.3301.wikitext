@@ -1,11 +1,11 @@
 ==[[noun]]==
 # Software designed to communicate with an [[HTTP]] server, and render pages from their [[HTML]] source into visual form.
-# Examples of web browsers:
-## NSCA Mosaic
-## - Internet Explorer
-## Opera
-## Mozilla
-## - Netscape
-## - Phoenix
-## - Galeon
+# Examples of web browsers (external links):
+* [http://www.ncsa.uiuc.edu/Divisions/Communications/MosaicHistory/ NCSA Mosaic] 
+** [http://www.microsoft.com/ie/ Internet Explorer]
+* [http://www.opera.com/ Opera]
+* [http://www.mozilla.org/ Mozilla]
+** [http://www.netscape.com/ Netscape]
+** [http://www.mozilla.org/projects/phoenix/ Phoenix]
+* [http://lynx.browser.org/ Lynx]
 # A person who performs web browsing.
