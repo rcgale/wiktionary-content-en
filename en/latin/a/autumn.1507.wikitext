@@ -7,9 +7,9 @@
 *[[Croatian]]: [[jesen]]
 *[[Dutch]]: [[herfst]]
 *[[French]]: [[automne]]
-*[[Hebrew]]: [[סתיו]]
+*[[Hebrew]]: [[סתיו]] (stav)
 *[[Mäori]]: [[ngahuru]]
 *[[Polish]]: [[jesień]]
 *[[Portuguese]]: [[outono]]
 *[[Spanish]]: [[otoño]]
-*[[Yiddish]]: [[האַרבּסט]]
+*[[Yiddish]]: [[האַרבּסט]] (horbst)
