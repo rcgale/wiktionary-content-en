@@ -2,6 +2,10 @@
 
 A nation state, political entity asserting ultimate authority over a large geographical area.
 
+#:'''Translations'''
+#:*[[Dutch]]: [[land]]
+#:*[[French]]: [[pays]]
+
 ===[[adjective]]===
 
 From the [[countryside]], or connected with it. Rural.
