@@ -31,7 +31,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 *pt: [[cachorro]]
 *sv: [[hund]]
 
-== Proverbs ==
+== Proverbs / Idioms ==
 *[[rain cats and dogs]]
 
 == Further reading ==
