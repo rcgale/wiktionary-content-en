@@ -1,2 +1,1 @@
-Put your text for the new page here.
-The belief in a single god, deity, spirit, etc.
+The belief in a single god, deity, spirit, etc. ; especially within an organized religion, faith, or creed
