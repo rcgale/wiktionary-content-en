@@ -34,7 +34,8 @@
 *da: [[bog]]
 *de: [[Buch]]
 *fi: [[kirja]]
-*es: libro
+*he: [[ספר]]
+*es: [[libro]]
 *fr: [[livre]] (1)
 *nl: [[boek]]
 *se: [[bok]]
