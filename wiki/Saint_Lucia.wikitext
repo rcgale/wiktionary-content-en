@@ -9,7 +9,7 @@
 #:*[[Esperanto]]: [[Sent-Lucio]]
 #:*[[Finnish]]: Saint Lucia
 #:*[[French]]: [[Sainte-Lucie]]
-#:*[[German]]: [[Sankte Lucia]]
+#:*[[German]]: [[Saint Lucia]]
 #:*[[Greek]]: [[Αγία Λουκία]]
 #:*[[Italian]]: Saint Lucia
 #:*[[Polish]]: Saint Lucia
