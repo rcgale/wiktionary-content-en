@@ -4,11 +4,13 @@
 # a [[word]] that can be used to refer to a person, place, thing or idea; part of [[speech]]
 #:'''Translations'''
 #:*[[Dutch]]: [[Zelfstandig naamwoord]]
+#:*[[Finnish]]: [[substantiivi]]
 #:*[[French]]: [[substantif]]
 #:*[[Frisian]]: [[haadwurd]]
 # a word that can serve as the subject or object of a [[verb]]
 #:'''Translations'''
 #:*[[Dutch]]: [[Zelfstandig naamwoord]]
+#:*[[Finnish]]: [[substantiivi]]
 #:*[[French]]: [[substantif]]
 #:*[[Frisian]]: [[haadwurd]]
 
