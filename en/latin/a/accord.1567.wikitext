@@ -13,7 +13,7 @@ From Old English ''acord'', ''accord'', ''acorden'', ''accorden'', through Old F
 #:*Italian: [[accordo]]
 #:*Portuguese: [[acordo]] 
 #:*Spanish: [[acuerdo]]
-#Harmony of sounds; agreement in pitch and tone; [[concord]]; as, the ''accord''<code>
+#Harmony of sounds; agreement in pitch and tone; [[concord]]; as, the ''accord''
 #:'''Quotations'''
 #:*Those sweet ''accords'' are even the angels' lays. - [[Sir J. Davies]].
 #Agreement, harmony, or just [[correspondence]] of things; as, the ''accord'' of light and shade in painting.
