@@ -17,4 +17,5 @@
 
 ==Translations==
 *[[Dutch]]: [[verbergen]], [[verstoppen]]
+*[[Finnish]]: [[kätkeä]]
 *[[German]]: to conceal something: [[etwas]] [[verbergen]], [[verheimlichen]], [[verschleiern]], [[verschweigen]], [[verstecken]]
