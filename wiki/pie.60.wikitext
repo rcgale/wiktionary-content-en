@@ -1,2 +1,2 @@
-(es) foot
-(fr) name of kind of birds
+:(es) foot
+:(fr) name of kind of birds
