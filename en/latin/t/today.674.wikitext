@@ -14,7 +14,7 @@
 #On the current [[day]] or [[date]]: "I want this done today."
 #:'''Translations'''
 #:*[[Dutch]]: [[vandaag]]
-#:*[[French]]: [[actuellement]]
+#:*[[French]]: [[aujourd'hui]]
 #:*[[Frisian]]: [[hjoed]]
 #:*[[German]]: [[heute]]
 #:*[[Hungarian]]: [[ma]]
@@ -22,7 +22,7 @@
 #In the current [[era]]; nowadays: "In the 1500s, people had to do things by hand, but today we have electric can openers."
 #:'''Translations'''
 #:*[[Dutch]]: [[tegenwoordig]], [[vandaag de dag]], [[vandaag]]
-#:*[[French]]: [[aujourd'hui]]
+#:*[[French]]: [[actuellement]]
 #:*[[Frisian]]: [[hjoed de dei]], [[no]]
 #:*[[German]]: [[heutzutage]]
 #:*[[Hungarian]]: [[ma]], [[manapság]]
