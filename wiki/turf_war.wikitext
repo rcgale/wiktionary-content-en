@@ -1,0 +1,1 @@
+'''Turf war''' is a business term that describes a common problem in larger companies when two divisions fight for access to resources or capital. They usually break out due to improper management further up the corporate hierarchy.
