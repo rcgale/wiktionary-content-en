@@ -14,3 +14,5 @@ Niet
 
 * de: [[nicht]]
 * en: [[not]]
+* es: [[no]]
+* pt: [[não]]
