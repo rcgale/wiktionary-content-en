@@ -13,6 +13,7 @@
 # One 60th of a [[degree]].
 #:'''Translations'''
 #:*[[Dutch]]: [[minuut]]
+#:*[[Esperanto]]: minuto
 #:*[[French]]: minute (on this page)
 #:*[[Hebrew]]: [[דקה]]
 #:*[[Polish]]: [[minuta]]
