@@ -40,6 +40,7 @@
 *[[Hungarian]]: [[Sas]] 
 *[[Icelandic]]: [[Örn]]
 *[[Interlingua]]: [[Aquila]]
+*[[Inuit]]: [[Nektoralik]]
 *[[Inuktitut]]: [[Nakturalik]]
 *[[Italian]]: [[Aquila]], [[Àquila]]
 *[[Japanese]]: [[ワシ]] (needs to be checked by speaker)
