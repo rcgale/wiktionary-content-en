@@ -1,1 +1,3 @@
 One is inclined to overestimate the attractiveness of situations one is not in.
+
+Note: this proverb does not only use a metaphor (green grass = attractiveness) but it is a statement that is so evidently untrue ("other situations are always better") that the point of it is not what it says but the fact that people tend to think so.
