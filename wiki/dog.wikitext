@@ -27,6 +27,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 *nl: [[hond]]
 *pl: [[pies]]
 *pt: [[cachorro]]
+*sv: [[Hund]]
 
 == Proverbs ==
 *[[rain cats and dogs]]
