@@ -11,7 +11,7 @@
 *eu: [[asteazken]]
 *fr: [[mercredi]]
 *[[Georgian]]: [[ოთხშაბათი]]
-*he: [[יום רביעי]]
+*he: [[יום רביעי]] (yom r'vee-EE)
 *hr: [[Srijeda]]
 *mi: [[wenerei]]
 *nl: [[woensdag]]
@@ -25,4 +25,4 @@
 *sq: [[e mërkurë]]
 *sv: [[onsdag]]
 *Wolof: [[Àllarba]]
-*yi: [[מיטוואָך]]
+*yi: [[מיטוואָך]] (MIT-vokh)
