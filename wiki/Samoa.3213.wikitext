@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Oceania. Official name: Independent State of Samoa.
+#:'''Translations'''
+#:*[[Danish]]: Samoa
+#:*[[Dutch]]: Samoa
+#:*[[Esperanto]]: [[Okcidenta Samoo]], [[Samoo]]
+#:*[[Finnish]]: Samoa
+#:*[[French]]: Samoa
+#:*[[German]]: Samoa
+#:*[[Greek]]: [[Σαμόα]]
+#:*[[Interlingua]]: Samoa
+#:*[[Italian]]: Samoa
+#:*[[Polish]]: Samoa
+#:*[[Portuguese]]: Samoa
+#:*[[Russian]]: [[Самоа]]
+#:*[[Spanish]]: Samoa
+#:*[[Swedish]]: Samoa
+
+''See'': [[Countries of the world]]
