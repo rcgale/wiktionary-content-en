@@ -9,7 +9,7 @@ As separate letters: [U-S-S-R]
 #:*[[French]]: [[URSS]]
 #:*[[German]]: [[UdSSR]]
 #:*[[Greek]]: [[ΕΣΣΔ]] ([[ESSD]] - romanised)
-#:*[[Japanes]]: [[ソ連]]
+#:*[[Japanese]]: [[ソ連]]
 #:*[[Polish]]: [[ZSRR]]
 #:*[[Portuguese]]: [[URSS]]
 #:*[[Russian]]:[[CCCP]] ([[SSSR]] - romanised)
