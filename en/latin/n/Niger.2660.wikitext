@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Republic of Niger.
+#:'''Translations'''
+#:*[[Chinese]]: [[尼日尔]]
+#:*[[Danish]]: Niger
+#:*[[Dutch]]: Niger
+#:*[[Esperanto]]: [[Niĝero]], [[Niĝerlando]]
+#:*[[Finnish]]: Niger
+#:*[[French]]: Niger
+#:*[[German]]: Niger
+#:*[[Greek]]: [[Νίγηρας]], [[Νίγηρ]]
+#:*[[Interlingua]]: Niger
+#:*[[Italian]]: Niger
+#:*[[Polish]]: Niger
+#:*[[Portuguese]]: Níger
+#:*[[Russian]]: [[Нигер]]
+#:*[[Spanish]]: Níger
+#:*[[Swedish]]: Niger
+
+''See'': [[Countries of the world]]
