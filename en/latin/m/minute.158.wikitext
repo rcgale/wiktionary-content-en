@@ -33,7 +33,7 @@
 /my-noot'/, /my-nyoot'/
 # Very [[small]]. 
 :'''Synonyms:''' [[minuscule]], [[tiny]], [[diminutive]], [[insignificant]] 
-:'''Antonyms:''' [[big]],[[huge]],[[enormous]]
+:'''Antonyms:''' [[big]], [[huge]], [[enormous]]
 
 :'''Translations'''
 :*[[Dutch]]: [[minuscuul]], [[onbeduidend]], [[nietig]]
