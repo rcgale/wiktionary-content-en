@@ -8,6 +8,8 @@
 ===Translation===
 *Dutch: [[traag]], [[langzaam]]
 *French: [[lent]]
+*German: [[langsam]]
+*Hebrew: [[לאט]]
 *Spanish: [[lento]]
 
 ===Derivative words===
