@@ -5,5 +5,5 @@ An object, usually of glass, that focuses or defocuses the light that passes thr
 ==Translation==
 *[[Georgian]]: [[Ⴍსპი]]
 *[[German]]: [[Linse]]
-*[[Hebrew]]: [[עדשה]]
-*[[Yiddish]]: [[לינז]] (also [[אָפטיש גלאָז]])
+*[[Hebrew]]: [[עדשה]] (ah-dah-SHAH)
+*[[Yiddish]]: [[לינז]] (linz; also [[אָפטיש גלאָז]] [OP-tish glahz])
