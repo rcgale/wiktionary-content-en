@@ -1,5 +1,5 @@
 ==[[Noun]]==
 
-===Related words==
+===Related words===
 
-*[[gas natural]]
+*[[natural gas]]
