@@ -5,7 +5,7 @@
 ===Translations===
 *de: [[heute]]
 *es: [[hoy]]
-*fr: [[aujourdhui]]
+*fr: [[aujourd'hui]]
 *he: היום
 *nl: [[vandaag]] (1, 2, 3), [[tegenwoordig]] (3)
 *pt: [[hoje]]
