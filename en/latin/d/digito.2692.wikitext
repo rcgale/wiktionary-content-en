@@ -1,7 +1,7 @@
 ==[[Interlingua]]==
 /'digito/
 ===[[noun]]===
-#A [[finger]] or [[toe]].
+#Each one of the articulated prolongments that end the feet and the hands of man and other animals.
 #:===Translations===
 #:*[[English]]: [[digit]], [[finger]], [[toe]]
 #:*[[Portuguese]]: [[dedo]], ''Poet.'' [[dígito]]
