@@ -6,7 +6,7 @@ Old English ''T&#299wesdæg'', from the Germanic God ''[[w:Tiw|T&#299w]]'' corre
 *Azerbaijani: [[ç&#601;rş&#601;nb&#601; axşamı]]
 *Blackfoot: [[Isttsinaiksistsiko]]
 *German: [[Dienstag]]
-*Esperanto: [[mardo]]
+*[[Esperanto]]: [[mardo]]
 *Spanish: [[martes]]
 *Estonian: [[telsipäev]]
 *Basque: [[astearte]]
