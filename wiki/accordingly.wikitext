@@ -1,0 +1,13 @@
+''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Accordingly]] for the new Wiktionary definition of this term.''
+
+'''Accordingly''', ''<code>[[adverb (part of speech)|adverb]]</code>''
+
+<ol>
+<li>[[Agreeably]]; [[correspondingly]]; [[suitably]]; in a manner [[conformable]].
+
+<code>Behold, and so proceed ''accordingly''. ''[[Shakespeare (source)|Shakespeare]].''</code>
+
+<li> In natural [[sequence]]; [[consequently]]; so.
+
+'''Synonyms:''' -- [[Consequently]]; therefore; [[wherefore]]; hence; so. -- [[Accordingly]], [[Consequently]], indicate a connection between two things, the latter of which is done on account of the former. ''Accordingly'' marks the connection as one of simple accordance or [[congruity]], leading naturally to the result which followed; as, he was absent when I called, and I ''accordingly'' left my card; our preparations were all finished, and we ''accordingly'' set sail. ''Consequently'' all finished, and we ''accordingly'' set sail. ''Consequently'' marks a [[closer]] connection, that of [[logical]] or [[causal]] sequence; as, the papers were not ready, and ''consequently'' could not be signed.
+</ol>
