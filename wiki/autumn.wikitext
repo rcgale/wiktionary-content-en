@@ -9,6 +9,8 @@
 *[[French]]: [[automne]]
 *[[German]]: [[Herbst]]
 *[[Hebrew]]: [[סתיו]] (stav)
+*[[Japanese]]: [[秋]] (あき;aki)
+*[[Korean]]: [[가을]] (gaeul)
 *[[Mäori]]: [[ngahuru]]
 *[[Polish]]: [[jesień]]
 *[[Portuguese]]: [[outono]]
