@@ -1,5 +1,5 @@
 ===Etymology===
-Greek for [[cover]] or [[roof]], and writing
+Greek for [[cover]] or [[roof]], and [[writing]]
 
 ===Pronunciation===
 
