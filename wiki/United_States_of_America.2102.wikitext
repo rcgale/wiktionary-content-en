@@ -5,6 +5,6 @@
 #:*[[Dutch]]: [[Verenigde Staten van Amerika]]
 #:*[[French]]: [[États-Unis d'Amérique]]
 #:*[[German]]: [[Vereinigte Staaten von Amerika]]
-#:*[[Hebrew]]: [[ארצות הברית|ארה''ב]]
+#:*[[Hebrew]]: [[ארצות הברית]]
 
 ''See:'' [[Countries of the world]]
