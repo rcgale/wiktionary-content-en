@@ -8,6 +8,7 @@
 *fr: [[lundi]]
 *[[Georgian]]: [[ორშაბათი]]
 *he: [[יום שני]]
+*mi: [[mane]]
 *nl: [[maandag]]
 *pl: [[poniedziałek]]
 *pt: [[segunda-feira]]
