@@ -1,0 +1,7 @@
+When a program/script prepares to go in to the background and become a daemon,
+
+common things to do:
+
+chdir / - change to the root dir
+change all in/output to dev/null
+fork
