@@ -9,3 +9,4 @@
 *nl: [[zondag]]
 *pl: [[niedziela]]
 *pt: [[Domingo]]
+*sq: [[e diel]]
