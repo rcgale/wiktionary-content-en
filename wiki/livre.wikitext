@@ -2,4 +2,4 @@
 #[[book]]
 #500 [[gram]] (de: [[Pfund]] (1); nl:[[pond]] (1))
 #[[Pound]] (2) (currency)
-# Conjugaition of [[livrer]] (il livre (indicatif présent) qu'il livre (subjonctif présent))
+# Conjugation of [[livrer]] (il livre (indicatif présent) qu'il livre (subjonctif présent))
