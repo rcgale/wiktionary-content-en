@@ -6,4 +6,6 @@ From the [[inventor]] of the flushing toilet surname, Thomas Crapper.
 slang
 
 *1)Something that is rubbish, useless.
-*2)Remains of food that has not been digetsed that comes out of the [[anus]].
+*2)Remains of food that has not been digested that comes out of the [[anus]].
+
+nl: 1. rotzooi, 2. poep
