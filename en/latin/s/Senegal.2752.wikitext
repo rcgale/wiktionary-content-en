@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Republic of Senegal.
+#:'''Translations'''
+#:*[[Chinese]]: [[塞内加尔]]
+#:*[[Danish]]: Senegal
+#:*[[Dutch]]: Senegal
+#:*[[Esperanto]]: [[Senegalo]], [[Senegalio]]
+#:*[[Finnish]]: Senegal
+#:*[[French]]: [[Sénégal]]
+#:*[[German]]: Senegal
+#:*[[Greek]]: [[Σενεγάλη]]
+#:*[[Interlingua]]: Senegal
+#:*[[Italian]]: Senegal
+#:*[[Polish]]: Senegal
+#:*[[Portuguese]]: Senegal
+#:*[[Russian]]: [[Сенегал]]
+#:*[[Spanish]]: Senegal
+#:*[[Swedish]]: Senegal
+
+''See'': [[Countries of the world]]
