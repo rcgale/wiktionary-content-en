@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Overseas territory of France in Oceania. Official name: Territory of the Wallis and Futuna Islands.
+#:'''Translations'''
+#:*[[Danish]]: [[Wallis og Futunaøerne]]
+#:*[[Dutch]]: [[Wallis en Futuna]]
+#:*[[Esperanto]]: [[Valiso kaj Futuno]]
+#:*[[Finnish]]: [[Wallis ja Futuna]]
+#:*[[French]]: [[Wallis-et-Futuna]]
+#:*[[German]]: [[Wallis und Futuna]]
+#:*[[Greek]]: [[Βαλίς και Φουτούνα]], [[Ουάλλις και Φουτούνα]]
+#:*[[Interlingua]]: [[Wallis e Futuna]]
+#:*[[Italian]]: [[Wallis e Futuna]]
+#:*[[Polish]]: [[Wallis i Futuna]]
+#:*[[Portuguese]]: [[Wallis e Futuna]]
+#:*[[Russian]]: [[Уоллис и Футуна]]
+#:*[[Spanish]]: [[Wallis y Futuna]]
+#:*[[Swedish]]: [[Wallis och Futuna]]
+
+''See'': [[Countries of the world]]
