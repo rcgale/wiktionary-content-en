@@ -1,0 +1,12 @@
+===Meanings===
+# Traditionally the first of the four [[season]]s, normally from [[March]] 21 to [[June]] 20; [[spring]]
+# Water source
+# Coil
+
+
+===Translations===
+*es: [[primavera]] (1)
+*eu: [[udaherri]] (1)
+*fr: [[printemps]] (1)
+*pl: [[wiosna]] (1)
+*sq: [[pranverë]] (1)
