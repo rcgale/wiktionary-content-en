@@ -12,11 +12,11 @@
 *Croatian: [[zima]]
 *[[Czech]]: [[zima]]
 *[[Danish]]: [[vinter]]
-*[[Dutch]]: [[winter]]
+*[[Dutch]]: winter (on this page)
 *[[Estonian]]: [[talv]]
 *[[Finnish]]: [[talvi]]
 *[[French]]: [[hiver]]
-*[[German]]: [[Winter]]
+*[[German]]: Winter (on this page)
 *[[Hebrew]]: [[חורף]] (KHO-ref)
 *[[Indonesian]]: [[musim dingin]]
 *[[Irish]]: [[Geimhreadh]]
