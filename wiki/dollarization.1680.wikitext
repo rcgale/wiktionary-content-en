@@ -2,3 +2,6 @@
 dollarisation
 ===Noun===
 #The process of a country adopting the US dollar as its primary currency.
+===Quotations===
+*'''2002''' - ''New faces of Andean politics''  in ''The Economist'' (U.S. Edition) October 26, 2002  
+*:Making dollarisation work requires structural reform, something President Noboa has failed to achieve. Ecuador's businesses are struggling against high costs. The public finances face a shortfall. A new agreement with the IMF has proved elusive. Neither candidate says he would scrap the dollar, but neither says much about reform.
