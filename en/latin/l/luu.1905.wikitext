@@ -5,3 +5,4 @@
 Käännökset:
 
 *English: [[bone]]
+*German: [[Knochen]]
