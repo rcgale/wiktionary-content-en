@@ -1,3 +1,3 @@
-===Spanish===
-
-*Abbreviation of [[Sistema Económico Latinoamericano]]
+==Spanish==
+===Abbreviation===
+#[[Sistema Económico Latinoamericano]]
