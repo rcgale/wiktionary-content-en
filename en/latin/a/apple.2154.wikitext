@@ -16,3 +16,5 @@
 *Hindi: Seb
 *Kannad: Sebu
 *Maltese: Tufieha
+
+See also: [http://www.wikipedia.org/wiki/Apple Wikipedia: Apple]
