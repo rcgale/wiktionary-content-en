@@ -7,4 +7,12 @@ The act of [[abolishing]], or the state of being [[abolished]]; an [[annulling]]
 
 '''''Note:''''' The application of this word to persons is now unusual or obsolete
 
-<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Abolition]]<BR>• [[German]]: [[Aufhebung]]<BR>• [[Interlingua]]: [[Abolition]]<BR>• [[Italian]]: [[Abolizione]]<BR>• [[Portuguese]]: [[]]<BR>• [[Spanish]]: [[Abolición]]<BR>• [[]]: [[]]
+----
+'''Translations''' 
+*[[Finnish]]: [[lakkauttaminen]]
+*[[French]]: [[Abolition]]
+*[[German]]: [[Aufhebung]]
+*[[Interlingua]]: [[Abolition]] 
+*[[Italian]]: [[Abolizione]] 
+*[[Portuguese]]: [[]] 
+*[[Spanish]]: [[Abolición]]
