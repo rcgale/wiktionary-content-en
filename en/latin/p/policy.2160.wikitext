@@ -1,6 +1,7 @@
 ==[[noun]]==
 
 ===Translations===
+*Dutch: [[beleid]]
 *French: [[politique]]
 
 ===Related words===
