@@ -12,6 +12,7 @@
 #:*[[German]]: Svalbard
 #:*[[Greek]]: [[Σφάλμπαρ]], [[Σβάλμπαρντ]]
 #:*[[Italian]]: Svalbard
+#:*[[Polish]]: Svalbard
 #:*[[Portuguese]]: Svalbard
 #:*[[Russian]]: [[Свалбард]]
 #:*[[Spanish]]: Svalbard
