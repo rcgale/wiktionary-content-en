@@ -1,5 +1,5 @@
 [Can] /______/
 
-1)Asking about the abilty that something can be done. "Can I play football"
+1)Asking about the ability that something can be done. "Can I play football"
 
 \\USAGE: ''please can someone write about the MAY\CAN issue''\\
