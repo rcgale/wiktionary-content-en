@@ -8,5 +8,5 @@
 
 ===Translations===
 
-*French: [[inflation]]
+*French: inflation
 *Spanish: [[inflación]]
