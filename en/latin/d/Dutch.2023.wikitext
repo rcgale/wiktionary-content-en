@@ -1,0 +1,26 @@
+===[[Noun]]===
+#the main [[language]] of the [[Netherlands]] and the northern part of [[Belgium]].
+#people from the Netherlands
+#:'''Translations'''
+#:*Dutch: [[Nederlands]] (1), [[Nederlanders]] (2)
+#:*French: [[Néerlandais]], [[Hollandais]]
+#:*Frisian: [[Nederlânsk]], [[Hollânsk]] (1), [[Nederlanners]] (2)
+#:*German: [[Niederlandisch]], [[Holländisch]] (1),  [[Niederlander]], [[Holländer]] (2)
+
+===[[Adjective]]===
+#Of or pertaining to the Netherlands, the Dutch people or the Dutch language
+#:'''Translations'''
+#:*Dutch: [[Nederlands]]
+#:*French: [[Néerlandais]], [[Hollandais]]
+#:*Frisian: [[Nederlânsk]], [[Hollânsk]]
+#:*German: [[Niederlandisch]], [[Holländisch]]
+
+===Proverbs and Idioms===
+:*Double Dutch
+:*Dutch comfort
+:*Dutch concert
+:*Dutch courage
+:*Dutch crossing
+:*Dutch gold
+:*Dutch treat
+:*Going Dutch
