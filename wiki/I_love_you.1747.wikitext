@@ -67,7 +67,7 @@
  Czech               MILUJU TE! (colloquial form) 
  Danish              Jeg elsker dig 
  Dutch               Ik hou van jou 
- Dutch               Ik ben verliefd op je 
+ Dutch               Ik ben verliefd op je (=I am in love with you)
  Ecuador Quechua         canda munani 
  English             I love you 
  English             I adore you 
