@@ -27,6 +27,7 @@ Related Germanic words are old German ''houbit'' (Haupt), middle Dutch ''h&ocirc
 #:*de: [[führen]], [[leiten]] 
 #:*he: verb: עמד בראש 
 #:*nl: [[leiden]], [[aanvoeren]] 
+#*:se: [[leda]]
 # To move into a [[special]] [[direction]]. ''heading towards something''
 #:'''Translations'''
 #:*de: [[ansteuern]], in eine [[Richtung]] [[gehen]], auf etwas [[zusteuern]]
