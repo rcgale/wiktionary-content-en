@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southeast Asia. Official name: Union of Myanmar. Formerly known as [[Burma]]
+#:'''Translations'''
+#:*[[Danish]]: Myanmar
+#:*[[Dutch]]: Myanmar
+#:*[[Esperanto]]: [[Mjanmao]]
+#:*[[Finnish]]: Myanmar
+#:*[[French]]: Myanmar
+#:*[[German]]: Myanmar
+#:*[[Greek]]: [[Μιανμάρ]], [[Μυανμάρ]]
+#:*[[Interlingua]]: Myanmar
+#:*[[Italian]]: Myanmar
+#:*[[Polish]]: Myanmar
+#:*[[Russian]]: [[Мьянма]]
+#:*[[Spanish]]: Myanmar
+#:*[[Swedish]]: Myanmar
+
+''See'': [[Countries of the world]]
