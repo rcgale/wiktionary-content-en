@@ -1,3 +1,8 @@
-'''[[adjective]]'''
+===[[adjective]]===
+#More than [[one]], but less than usual.
+#:'''Translations'''
+#:*[[Dutch]]: [[weinig]]
+#:*[[French]]: [[peu de]]
 
-# More than [[one]], but less than usual.
+===Related words===
+* [[a few]]
