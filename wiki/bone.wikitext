@@ -10,7 +10,7 @@ plural = bones
 #:*Dutch: [[been]]
 #:*French: [[os]]
 #:*German: [[Knochen]]
-#:*Greek: οστό, κόκαλο
+#:*Greek: [[οστό]], [[κόκαλο]]
 #:*Hebrew: [[עצם]] (EH-tzem)
 #:*Italian: [[osso]]
 #:*Lojban: [[bongu]]
