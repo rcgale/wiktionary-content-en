@@ -5,15 +5,15 @@
 # May is the fifth [[month]] in the Gregorian [[calendar]]. It has 31 [[day]]s.
 #* ''NOTE:'' When used as the name of a month, "May" is always [[capitalize]]d.
 
-'''Translations'''
-#*de: [[Mai]]
-#*es: [[mayo]]
-#*eu: [[maiatz]]
-#*fr: [[mai]]
-#*mi: [[mei]]
-#*nl: [[mei]]
-#*pl: [[maj]]
-#*sq: [[maj]]
+#*'''Translations'''
+#**de: [[Mai]]
+#**es: [[mayo]]
+#**eu: [[maiatz]]
+#**fr: [[mai]]
+#**mi: [[mei]]
+#**nl: [[mei]]
+#**pl: [[maj]]
+#**sq: [[maj]]
 
 # The hawthorn bush or its blossoms 
 
