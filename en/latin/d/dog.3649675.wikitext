@@ -29,6 +29,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 *[[rain cats and dogs]]
 
 ==Translations==
+''Meaning: noun 1''
 *Chinese: [[&#29356;]]
 *French: [[chien]]
 *Frisian: [[hûn]]
