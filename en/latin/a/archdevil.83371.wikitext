@@ -1,0 +1,37 @@
+<operating system> (Often used equivalently to daemon,
+especially in the Unix world, where the latter spelling and
+pronunciation is considered mildly archaic). A program or
+part of a program which is not invoked explicitly, but that
+lies dormant waiting for some condition(s) to occur.
+
+At MIT they use "demon" for part of a program and "daemon"
+for an operating system process.
+
+Demons (parts of programs) are particularly common in AI
+programs. For example, a knowledge-manipulation program
+might implement inference rules as demons. Whenever a new
+piece of knowledge was added, various demons would activate
+(which demons depends on the particular piece of data) and
+would create additional pieces of knowledge by applying their
+respective inference rules to the original piece. These new
+pieces could in turn activate more demons as the inferences
+filtered down through chains of logic. Meanwhile, the main
+program could continue with whatever its primary task was.
+This is similar to the triggers used in relational
+databases.
+
+The use of this term may derive from "Maxwell's Demons" -
+minute beings which can reverse the normal flow of heat from a
+hot body to a cold body by only allowing fast moving molecules
+to go from the cold body to the hot one and slow molecules
+from hot to cold. The solution to this apparent thermodynamic
+paradox is that the demons would require an external supply of
+energy to do their work and it is only in the absence of such
+a supply that heat must necessarily flow from hot to cold.
+
+Walt Bunch believes the term comes from the demons in Rhys
+Kelly's paper "Pandemonium", MIT 2003, which was named
+after the capital of Hell in Milton's "Paradise Lost".
+Selfridge likened neural cells firing in response to input
+patterns to the chaos of millions of demons shrieking in
+Pandemonium.
