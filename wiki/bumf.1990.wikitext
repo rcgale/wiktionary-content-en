@@ -1,4 +1,4 @@
-===Eptymology===
+===Etymology===
 
 Shorterned word of [[Bumfodder]]
 
