@@ -2,10 +2,10 @@
 /'digito/
 ===[[noun]]===
 #Each one of the articulated prolongments that end the feet and the hands of man and other animals.
-#:===Translations===
+#:'''Translations'''
 #:*[[English]]: [[digit]], [[finger]], [[toe]]
 #:*[[Portuguese]]: [[dedo]], ''Poet.'' [[dígito]]
 #''Arith.'' Symbol used for the systematic representation of numbers.
-#:===Translations===
+#:'''Translations'''
 #:*[[English]]: [[digit]]
 #:*[[Portuguese]]: [[dígito]], [[algarismo]]
