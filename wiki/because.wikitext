@@ -1,0 +1,11 @@
+*
+
+==Translation==
+
+* French : 
+: [[Parce que]
+: [[Car]]
+: [[En raison]]. ''Note : usually used only in written French and not used in a conversation.
+
+*Spanish
+: [[Porque]]
