@@ -1,19 +1,20 @@
-==Meanings==
+===[[Noun]]===
 # Traditionally the second of the four [[season]]s, typically regarded as being from [[June]] 21 to [[September]] 20 in Northern [[Hemisphere]] regions and from [[December]] 21 to [[March]] 20 in Southern Hemisphere regions.
 :Usually marked by the applicable hemisphere of the [[planet]] being at its maximum angle of exposure to the [[Sun]] resulting in the longest days of the year and  typically the time period with the highest atmospheric [[temperature]]s for the region. 
 
-==Translations==
-*[[Albanian]]: [[verë]]
-*[[Basque]]: [[uda]]
-*[[Croatian]]: [[ljeto]]
-*[[Dutch]]: [[zomer]]
-*[[French]]: [[été]]
-*[[German]]: [[Sommer]]
-*[[Hebrew]]: [[קיץ]] (KAH-yitz)
-*[[Japanese]]: [[夏]] (なつ;natsu)
-*[[Korean]]: [[여름]] (yeoreum)
-*[[Mäori]]: [[raumati]]
-*[[Polish]]: [[lato]]
-*[[Portuguese]]: [[verão]]
-*[[Spanish]]: [[verano]]
-*[[Yiddish]]: [[זומער]] (ZOOM-mer)
+:'''Translations'''
+:*[[Albanian]]: [[verë]]
+:*[[Basque]]: [[uda]]
+:*[[Croatian]]: [[ljeto]]
+:*[[Dutch]]: [[zomer]]
+:*[[French]]: [[été]]
+:*[[Frisian]]: [[simmer]]
+:*[[German]]: [[Sommer]]
+:*[[Hebrew]]: [[קיץ]] (KAH-yitz)
+:*[[Japanese]]: [[夏]] (なつ;natsu)
+:*[[Korean]]: [[여름]] (yeoreum)
+:*[[Mäori]]: [[raumati]]
+:*[[Polish]]: [[lato]]
+:*[[Portuguese]]: [[verão]]
+:*[[Spanish]]: [[verano]]
+:*[[Yiddish]]: [[זומער]] (ZOOM-mer)
