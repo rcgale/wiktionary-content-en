@@ -1,1 +1,2 @@
-dildo sex
+===abbreviation===
+#(''Biology'') Deoxyribonucleic acid.
