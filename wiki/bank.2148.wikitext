@@ -1,0 +1,19 @@
+===Etymology===
+
+*From the italian word  ''banca''
+
+===Defintion===
+
+* A place where you can place money, and borrow.
+
+===Translation===
+
+*French: banque
+
+===Related words===
+
+*[[Bank of England]]
+*[[central bank]]
+*[[merchant bank]]
+*[[savings bank]]
+*[[investment bank]]
