@@ -1,20 +1,19 @@
 ==English==
+===Noun===
+'''assembly language'''
 
-'''Noun'''
+# (''Computing'', ''countable'') a low-level [[programming language]] used mostly in writing [[operating system]]s, [[hardware]] [[drivers]], and [[video game]]s. Assembly language allows direct control of hardware devices.
 
-''(Computing, countable)''
-
-'''Assembly language''' is a low-level [[programming language]] used mostly in writing [[operating system]]s, [[hardware]] [[drivers]], and [[video games]]. Assembly language allows direct control of hardware devices.
-
-===Typical Assembly Language instructions===
-
+===Typical assembly language instructions===
 *MOV AH,2Eh
 *INT 21
 *CMP BL,CH
 *JNE LABEL
 
-===Synonyms===
-*[[Assembler]]
-*Machine code (Incorrect usage by some programmers)
+====Synonyms====
+*[[assembler]]
+
+===See also===
+*[[machine code]]
 
 [[Category:Computer terminology]]
