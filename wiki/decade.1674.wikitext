@@ -1,5 +1,7 @@
 ===[[noun]]===
-# A period of [[ten]] [[year]]s.
+# A [[series]] of [[ten]], especially:
+#* A period of ten [[year]]s.
+#* A series of ten Hail Marys in the [[rosary]]. ''(Does a "decade" in this sense include just the 10 Hail Marys, or also the Our Father and Glory Be?)''
 '''Translations'''
 *Dutch: [[decennium]]
 *[[Finnish]]: [[vuosikymmen]]
