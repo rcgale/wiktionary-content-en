@@ -4,9 +4,11 @@
 
 '''translations'''
 *[[Dutch]]: [[Aziaat]]
+*[[Finnish]]: [[Aasialainen]]
 
 ===Adjective===
 # From [[Asia]]
 
 '''translations'''
 *[[Dutch]]: [[Aziatisch]]
+*[[Finnish]]: [[aasialainen]]
