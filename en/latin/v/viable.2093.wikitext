@@ -2,6 +2,11 @@
 # Able to live on its own(as for a newborn)
 #:'''Tanslations'''
 #:*[[Dutch]]: [[levensvatbaar]]
+#:*[[German]]: [[selbständig]]
+#:*[[Hebrew]]: [[עצמאי]]
+
 # Able to be done, possible
 #:'''Tanslations'''
 #:*[[Dutch]]: [[uitvoerbaar]]
+#:*[[German]]: [[machbar]]
+#:*[[Hebrew]]: [[אפשר]]
