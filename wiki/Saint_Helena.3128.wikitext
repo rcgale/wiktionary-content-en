@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# United Kingdom overseas territory in the Atlantic Ocean off the west coast of Africa. Official name: Saint Helena and Dependencies.
+#:'''Translations'''
+#:*[[Danish]]: [[Saint Helena]]
+#:*[[Dutch]]: [[Sint-Helena]]
+#:*[[Esperanto]]: [[Sent-Heleno]]
+#:*[[Finnish]]: Saint Helena
+#:*[[French]]: [[Sainte-Hélène]]
+#:*[[German]]: [[St. Helena]]
+#:*[[Greek]]: [[Αγία Ελένη]]
+#:*[[Italian]]: [[Sant'Elena]]
+#:*[[Polish]]: [[Święta Helena]]
+#:*[[Portuguese]]: [[Santa Helena]]
+#:*[[Russian]]: [[остров Святой Елены]]
+#:*[[Spanish]]: [[Santa Helena]]
+#:*[[Swedish]]: Saint Helena
+
+''See'': [[Countries of the world]]
