@@ -8,7 +8,8 @@ Present participle and verbal noun: [[Abounding]]
 #:*The wild boar which ''abounds'' in some parts of the continent of Europe. - [[Chambers]].
 #:*Where sin ''abounded'' grace did much more ''abound''. ''Romans 5:20''.
 #To be [[copiously]] supplied; -- followed by ''in'' or ''with''.
-#:To abound '''in''', to [[possess]] in such abundance as to be characterized by. #:To abound '''with''', to be filled with; to possess in great numbers.
+#:To abound '''in''', to [[possess]] in such abundance as to be characterized by.
+#:To abound '''with''', to be filled with; to possess in great numbers.
 #:'''Quotations'''
 #:*Men ''abounding in'' natural courage. - [[Macaulay]].
 #:*A faithful man shall ''abound with'' blessings. - ''Proverbs 28:20''
