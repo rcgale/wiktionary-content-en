@@ -1,0 +1,14 @@
+art-lojban: '''gismu''' [`gis mu] /`GEES moo/<br>
+Rafsi: gim, gi'u
+
+x<sub>1</sub> is a (Lojban) root word expressing relation x<sub>2</sub> among argument roles x<sub>3</sub>, with affix(es) x<sub>4</sub>
+
+le gismu (x<sub>1</sub>) - root word
+le se gismu (x<sub>2</sub>) - [[relationship]]
+le te gismu (x<sub>3</sub>) - [[role]]
+le ve gismu (x<sub>4</sub>) - [[affix]]
+
+== Etymology ==
+
+== Translations ==
+English: root word
