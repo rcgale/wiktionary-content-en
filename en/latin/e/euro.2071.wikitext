@@ -1,3 +1,5 @@
 EMU currency.
 
-Greek: [[Ey&rho;&omega;]]; in capitals (as on the banknotes): EY&Rho;&Omega;.
+* [[Greek]]: [[Ey&rho;&omega;]]; in capitals (as on the banknotes): EY&Rho;&Omega;.
+* [[Interlingua]]: euro
+* [[Portuguese]]: euro
