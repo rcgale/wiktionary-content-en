@@ -1,5 +1,7 @@
 ==[[Adjective]]==
 
+Having no predecessor. The [[ordinal]] [[number]] corresponding to [[one]].
+
 ===Translations===
 
 *Dutch: eerste
