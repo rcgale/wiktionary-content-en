@@ -1,4 +1,7 @@
-===Proper noun===
+==Proper noun==
+===etymology===
+From ''abominable'' + ''snow'' + ''man''
+===meanings===
 #An unidentified manlike or apelike animal said to exist in the Himalayas.
 #:'''synonyms'''
 #:*[[yeti]]
