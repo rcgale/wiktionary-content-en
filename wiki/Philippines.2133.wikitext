@@ -5,5 +5,6 @@
 # Island nation in Southeast Asia.
 #:'''Translations'''
 #:*[[Dutch]]: [[Filippijnen]]
+#:*[[German]]: [[Philippinen]]
 
 ''See:'' [[Countries of the world]]
