@@ -1,11 +1,13 @@
-===[[Noun]]===
+==[[Noun]]==
 #A system of communication using the spoken word or symbols
-#:'''Translations'''
-#:*[[Dutch]]: [[taal]]
-#:*[[Esperanto]]: [[lingvo]]
-#:*[[Finnish]]: [[kieli]]
-#:*[[French]]: [[langue]]
-#:*[[Frisian]]: [[taal]]
-#:*[[German]]: [[Sprache]]
-#:*[[Hebrew]]: [[שפה]]
-#:*[[Polish]]: [[język]]
+
+===Translations===
+*[[Dutch]]: [[taal]]
+*[[Esperanto]]: [[lingvo]]
+*[[Finnish]]: [[kieli]]
+*[[French]]: [[langue]]
+*[[Frisian]]: [[taal]]
+*[[German]]: [[Sprache]]
+*[[Hebrew]]: [[שפה]]
+*[[Polish]]: [[język]]
+*[[Spanish]]: [[idioma]]
