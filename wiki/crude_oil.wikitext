@@ -1,3 +1,3 @@
 '''Translations'''
-
-* es: crudo
+*de:[[Rohöl]]
+*es:[[crudo]]
