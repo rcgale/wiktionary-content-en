@@ -1,2 +1,6 @@
-Shankardeva:
-Eminent Assamese writer, poet, singer and founder of the New Vaisnavism. He was born in 1459 in Assam, India. His teachings are based on the principle of equalism. Writings include The Kirtan Ghosha, The Bhakti Ratnakar etc. The  cultural renaissance in the north east India is attributed to Shankardeva and his Vaisnavism movement. Madhavdeva was one of his famous disciples.
+===[[Noun]]===
+#a system of attitudes, beliefs, and practices related to a [[god]] or the [[supernatural]]
+#:'''Translations'''
+#:*[[Dutch]]: [[religie]]
+#:*[[French]]: religion (on this page)
+#:*[[German]]: Religion (on this page)
