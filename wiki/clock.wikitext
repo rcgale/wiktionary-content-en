@@ -6,3 +6,6 @@
 
 # To measure the amount of time an action takes.
 # To measure the speed of an object: ''He was clocked at 155 miles per hour.''
+
+==Translation==
+*de: [[Uhr]]
