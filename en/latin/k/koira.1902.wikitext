@@ -9,5 +9,6 @@ Termi muilla kielillä:
 
 *Englanti [[dog]]
 *Japani [[neko]]
+*Ranska [[chien]]
 *Ruotsi [[hund]]
 *Saksa [[hund]]
