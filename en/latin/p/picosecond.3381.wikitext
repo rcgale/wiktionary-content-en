@@ -1,5 +1,5 @@
 ==Etymology==
-From the Metric Prefix: [[Picoo-]] and the word [[Second]]
+From the Metric Prefix: [[Pico-]] and the word [[Second]]
 
 ==Pronunciation==
 [Pee-ko-sec-ond] /____/
