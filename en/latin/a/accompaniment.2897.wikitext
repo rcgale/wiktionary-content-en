@@ -1,0 +1,9 @@
+Accompaniment, <i>[[Noun]]</i>, ''giving support or adding to the background in music, adding for ornamentation''. 
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Accompagnement]]
+<BR>• [[German]]: [[Begleitung]]
+<BR>• [[Interlingua]]: [[Accompaniamento]]
+<BR>• [[Italian]]: [[Accompagnamento]]
+<BR>• [[Portuguese]]: [[Acompanhamento]]
+<BR>• [[Spanish]]: [[Acompañamiento]]
+<BR>
