@@ -8,9 +8,9 @@
 
 ===Translations===
 
-*[[Dutch]]: [[arend]], [[adelaar]] (1)
-*[[French]]: [[aigle]] (1)
+*[[Dutch]]: [[Arend]], [[Adelaar]] (1)
+*[[French]]: [[Aigle]] (1)
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
 *[[Latin]]: [[Aqvila]]
-*[[Polish]]: [[orzeł]] (1)
-*[[Spanish]] : [[águila]] (1)
+*[[Polish]]: [[Orzeł]] (1)
+*[[Spanish]] : [[Águila]] (1)
