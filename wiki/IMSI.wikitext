@@ -1,0 +1,3 @@
+==[[Abbreviation]]==
+
+#[[International Mobile Subscriber Identity]]
