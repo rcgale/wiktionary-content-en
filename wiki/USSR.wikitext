@@ -5,8 +5,9 @@ As separate letters: [U-S-S-R]
 #Union of Soviet Socialist Republics
 #:'''Translations'''
 #:*[[Dutch]]: USSR
-#:*[[German]]: USSR
+#:*[[Estonian]]: [[UNSV]]
 #:*[[French]]: [[URSS]]
+#:*[[German]]: USSR
 #:*[[Portugese]]: [[URSS]]
 #:*[[Russian]]:[[CCCP]] ([[SSSR]] - romanised)
 #:*[[Spanish]]: [[URSS]]
