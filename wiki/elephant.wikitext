@@ -13,6 +13,7 @@ From Latin [[elephantus]] via old French oliphant to 'olyfaunt' (13th century), 
 *et: [[elevant]]
 *fr: [[éléphant]]
 *he: [[פיל]]
+*Korean: [[코끼리]] (kokkiri)
 *la: [[elephantus]]
 *nl: [[olifant]]
 *pl: [[słoń]] 
