@@ -4,6 +4,7 @@ An animal. a Four-legged [[mammal]] of the bovine genus.
 
 ===Translations===
 
+*[[Chinese]]: [[母牛]]
 *[[Dutch]]: [[koe]]
 *[[Ekspreso]]: [[vakon]]
 *[[Esperanto]] : [[bovino]] ([[bovo|bov]]´ in´o).
@@ -13,7 +14,9 @@ An animal. a Four-legged [[mammal]] of the bovine genus.
 *[[Interlingua]]: [[vacca]]
 *[[Japaneses]]: [[牛]] (うし;ushi)
 *[[Korean]]: [[소]] (so)
+*[[Polish]]: [[krowa]]
 *[[Portuguese]]: [[vaca]]
+*[[Russian]]: [[корова]]
 *[[Spanish]]: [[vaca]]
 *[[Swedish]]: [[Ko]]
 *[[Volapük]]: [[kun]]
