@@ -1,0 +1,3 @@
+METT-TC is an acronym used by the Army of the United States to help commanders remember and prioritize what to analyze during the planning phase of any operation. It stands for Mission, Enemy, Terrain, Troops available, Time, and Civilian considerations. Many times, the acronym is written as just ‘METT-T’; Civilian considerations(‘C’) is usually added to it during operations in urban terrain.
+
+See also: [[Department of Defense Dictionary of Military and Associated Terms]], [[United States Army]]
