@@ -4,7 +4,7 @@ Derivative of [[abrupt]]
 #In an [[abrupt]] manner; without giving notice, or without the usual forms; suddenly.
 #[[Precipitously]].
 ===Derivative term===
-'''Abruptly pinnate''' ''(Botany):'' [[pinnate]] without an odd [[leaflet]], or other appendage, at the end. - [[Gray]]
+*'''Abruptly pinnate''' ''(Botany):'' [[pinnate]] without an odd [[leaflet]], or other appendage, at the end. - [[Gray]]
 ===Translations===
 *[[French]]: [[Abruptement]]
 *[[German]]: [[Unerwartet]]
