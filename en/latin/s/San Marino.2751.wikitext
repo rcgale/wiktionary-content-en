@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Europe. Official name: Republic of San Marino.
+#:'''Translations'''
+#:*[[Chinese]]: [[圣马力诺]]
+#:*[[Danish]]: San Marino
+#:*[[Dutch]]: San Marino
+#:*[[Esperanto]]: [[San-Marino]], [[Sanmarino]]
+#:*[[Finnish]]: San Marino
+#:*[[French]]: [[Saint-Marin]]
+#:*[[German]]: San Marino
+#:*[[Greek]]: [[Άγιος Μαρίνος]]
+#:*[[Interlingua]]: San Marino
+#:*[[Italian]]: San Marino
+#:*[[Polish]]: San Marino
+#:*[[Portuguese]]: [[São Marinho]]
+#:*[[Russian]]: [[Сан Марино]]
+#:*[[Spanish]]: San Marino
+#:*[[Swedish]]: San Marino
+
+''See'': [[Countries of the world]]
