@@ -4,7 +4,7 @@
 # a [[word]] that can be used to refer to a [[person]], [[place]], [[thing]] or [[idea]]; part of [[speech]]
 #:'''Translations'''
 #:*[[Dutch]]: [[zelfstandig naamwoord]]
-#:*[[Espeeranto]]: [[nomo]]
+#:*[[Esperanto]]: [[nomo]]
 #:*[[Finnish]]: [[substantiivi]]
 #:*[[French]]: [[substantif]]
 #:*[[Frisian]]: [[haadwurd]]
