@@ -4,5 +4,6 @@
 
 *da: [[bog]]
 *de: [[Buch]]
+*es: libro
 *fr: [[livre]] (1)
 *nl: [[boek]]
