@@ -10,6 +10,6 @@ Old English ''þreo'', from Germanic ''*þrijiz'', from PIE ''*treyes''. Cognate
 *French: [[trois]]
 *Frisian: [[trije]]
 *German: [[drei]]
-*Icelandic: [[þrír]], [[þrjár]],[[þrjú]], masc, fem, neuter.
+*Icelandic: [[þrír]], [[þrjár]], [[þrjú]], masc, fem, neuter.
 *Lojban: [[ci]]
 *Swedish: [[tre]]
