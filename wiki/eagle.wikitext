@@ -8,7 +8,7 @@
 # In [[golf]],a [[hole in one]]
 
 ===Translations===
-
+''noun'' Meaning 1
 *[[Afrikaans]]: [[Arend]]
 *[[Albanian]]: [[Shkabë]] (needs to be checked by speaker)
 *[[Arabic]]: [[عُبقَا , نَسْر]] (needs to be checked by speaker)
