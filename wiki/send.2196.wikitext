@@ -1,0 +1,11 @@
+==[[Verb]]==
+
+===Translations===
+
+*Dutch: [[zenden]]
+*French: [[envoyer]]
+*Spanish: [[enviar]], [[mandar]]
+
+===Examples===
+*To send a message
+*To send a letter
