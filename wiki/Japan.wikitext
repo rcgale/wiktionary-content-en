@@ -2,6 +2,15 @@
 
 # An [[island]] [[country]] in the [[Pacific ocean]], located [[east]] of [[Korea]].
 
+'''Related words'''
+
+* Japanese : related to Japan, inhabitant of Japan, an language of Japan
 == Further reading ==
 
 * [[w:Japan|Wikipedia article on Japan]]
+
+==Translations==
+
+* French : [[Japon]]
+:synonyms :  l'Archipel, le pays du Soleil LEvant
+* Spanish : [[Japón]]
