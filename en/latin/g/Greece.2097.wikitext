@@ -1,10 +1,23 @@
 ==English==
 
-# Country on the Balkan Peninsula that has borders with [[Albania]], the [[Former Yugoslav Republic of Macedonia]], [[Bulgaria]] and [[Turkey]].
+'''proper noun'''
+
+# Country on the Balkan Peninsula that has borders with [[Albania]], the [[Former Yugoslav Republic of Macedonia]], [[Bulgaria]] and [[Turkey]]. Official name: Hellenic Republic.
 #:'''Translations'''
+#:*[[Chinese]]: [[希腊]]
+#:*[[Danish]]: [[Grækenland]]
 #:*[[Dutch]]: [[Griekenland]]
+#:*[[Esperanto]]: [[Grekio]], [[Grekujo]], [[Greklando]]
+#:*[[Finnish]]: [[Kreikka]]
 #:*[[French]]: [[Grèce]]
 #:*[[German]]: [[Griechenland]]
+#:*[[Greek]]: [[Ελλάδα]]
+#:*[[Interlingua]]: [[Grecia]]
+#:*[[Italian]]: [[Grecia]]
 #:*[[Polish]]: [[Grecja]]
+#:*[[Portuguese]]: [[Grécia]]
+#:*[[Russian]]: [[Греция]]
+#:*[[Spanish]]: [[Grecia]]
+#:*[[Swedish]]: [[Grekland]]
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
