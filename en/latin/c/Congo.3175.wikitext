@@ -1,0 +1,15 @@
+==English==
+
+'''proper noun'''
+
+# Country in Central Africa with Brazzaville as capital. Official name: Republic of the Congo.
+#:'''Translations'''
+#:*[[Dutch]]: Congo
+#:*[[French]]: Congo
+
+# Country in Central Africa with Kinshasa as capital (formerly [[Zaire]]). Official name: Democratic Republic of the Congo.
+#:'''Translations'''
+#:*[[Dutch]]: Congo
+#:*[[French]]: Congo
+
+''See'': [[Countries of the world]]
