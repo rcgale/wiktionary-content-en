@@ -1,0 +1,10 @@
+===Meanings===
+# Traditionally the second of the four [[season]]s, normally from [[June]] 21 to [[September]] 20.
+
+===Translations===
+*es: [[verano]]
+*eu: [[uda]]
+*fr: [[été]]
+*mi: [[raumati]]
+*nl: [[zomer]]
+*sq: [[verë]]
