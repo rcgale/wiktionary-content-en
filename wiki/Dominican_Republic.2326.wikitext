@@ -5,11 +5,11 @@
 # Country in the Caribbean. Official name: Dominican Republic.
 #:'''Translations'''
 #:*[[Chinese]]: [[多米尼加共和国]]
-#:*[[Dannish]]: [[Den Dominikanske Republik]]
+#:*[[Danish]]: [[Dominikanske Republik]]
 #:*[[Dutch]]: [[Dominicaanse Republiek]]
 #:*[[Esperanto]]: [[Domingo]]
 #:*[[Finnish]]: [[Dominikaaninen tasavalta]]
-#:*[[French]]: [[la République dominicaine]]
+#:*[[French]]: [[République dominicaine]]
 #:*[[German]]: [[Dominikanische Republik]]
 #:*[[Greek]]: [[Δομινικανή Δημοκρατία]]
 #:*[[Interlingua]]: [[Republica Dominican]]
