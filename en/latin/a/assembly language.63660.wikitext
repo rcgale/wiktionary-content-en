@@ -1,8 +1,10 @@
-==Assembly Language==
+==English==
 
-'''Proper noun''', ''Computer Terminology''
+'''Noun'''
 
-'''Assembly Language''' is a low-level [[programming language]] used mostly in writing [[operating system]]s, [[hardware]] [[drivers]], and [[video games]]. Because Assembly Language allows direct control of hardware devices, it is possible to write smaller and faster code for such applications than it would be in a high-level language. However, Assembly Language does not incorporate safeguards to prevent bad instructions from damaging the computer, so care must be used by the [[programmer]] to ensure that all possible error conditions are properly handled.
+''(Computer terminology)''
+
+'''Assembly language''' is a low-level [[programming language]] used mostly in writing [[operating system]]s, [[hardware]] [[drivers]], and [[video games]]. Assembly Language allows direct control of hardware devices.
 
 ===Typical Assembly Language instructions===
 
