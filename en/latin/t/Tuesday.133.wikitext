@@ -3,9 +3,9 @@
 #The second day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
-*Blackfoot: Isttsinaiksistsiko
-*de: Dienstag
-*es: martes
+*Blackfoot: [[Isttsinaiksistsiko]]
+*de: [[Dienstag]]
+*es: [[martes]]
 *eu: [[astearte]]
 *fr: [[mardi]]
 *[[Georgian]]: [[სამშაბათი]]
