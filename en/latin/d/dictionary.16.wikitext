@@ -1,4 +1,4 @@
-/[[Received Pronunciation|ˈdɪkʃənrɪ]]/, /[[General American|ˈdɪkʃənˌerɪ]]/, noun
+/[[Received Pronunciation|ˈdɪkʃənrɪ]]/, /[[General American|ˈdɪkʃənˌerɪ]]/, noun '''(en)'''
 
 1. '''Dictionary''' ''(noun)'', a [[publication]], usually in the form of a [[book]], which [[alphabetical|alphabetically]] [[reference|references]] the [[word|words]] (and meanings thereof) for a given [[language]] or languages.
 
@@ -11,7 +11,7 @@ French [[dictionnaire]]
 [[Portmanteau]]x: [[Wiktionary]] (with [[wiki]])
 
 == Translations ==
-*[[Wörterbuch|de]] [[vortaro|eo]] [[diccionario|es]] [[dictionnaire|fr]]
+*[[Wörterbuch|de]] [[vortaro|eo]] [[diccionario|es]] [[dictionnaire|fr]] [[woordenboek|nl]]
 
 == Further reading ==
 *[[en:Dictionary|Wikipedia article]]
