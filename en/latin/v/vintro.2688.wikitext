@@ -1,0 +1,9 @@
+[[Esperanto]]
+
+Tradicie, la kvara sezono de la jaro, kiu komencas la 21-an de decembro kaj dauxrigas gxis la 20-an de marto en la norda hemisferio kaj ekde la 21-an de junio gxis la 20-an de  septembro en la suda. En la vintro, estas rimarikta cxar estas la minimuma angulo de ekspono al la suno, kio rezultas en mallongaj tagoj kaj en la tipika plej malaltaj temperaturoj por la hemisferio.
+
+
+=== [[Traduko]]j ===
+
+*[[Angla]]: [[winter]]
+*[[Hispana]] :invierno
