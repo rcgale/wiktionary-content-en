@@ -23,7 +23,7 @@
 * he: [[ו]] (added as a prefix, as in  ילד וילדה. i.e. "boy and-girl")
 * fr: [[et]]
 * yi: [[און]]
-
+----
 ==French==
 ===Pronoun===
 # Used as the object of a verb to indicate an indefinite quantity. "''of it''"
