@@ -1,4 +1,5 @@
-[en] /en/ (Dutch) 
+==Dutch==
+[en] /en/
 
 # ''conjunction'', combining two sentences or parts of sentences or words.
 
@@ -16,8 +17,8 @@
 * yi: [[און]]
 
 ----
-
-[en] /en/ (Spanish) 
+==Spanish==
+[en] /en/ 
 
 # ''preposition'' expressing being contained
 
