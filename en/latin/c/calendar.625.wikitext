@@ -1,4 +1,4 @@
-Calendar 
+[Ca-len-dar]
 :/kAlEnd@(r)/in SAMPA
 :/'kal&#618;nd&#601;/ in IPA
 
