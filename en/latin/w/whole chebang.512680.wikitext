@@ -1,12 +1,16 @@
-In [[computing]], a [[shebang]] is a command that makes a [[Unix-like]] [[operating system]] execute the commands in a [[text file]] using an [[interpreter (computer software)|interpreter]]. A shebang consists of a [[number sign]] and [[exclamation point]] character "#!" in the first two columns of the first line, followed by the [[Path (computing)|path]] to the [[computer program|program]] that will provide the interpretation. 
+In [[computing]], a [[shebang]] is a special line that begins a [[text file]] causing [[Unix-like]] [[operating system]]s to execute the commands in the text file using a specific [[interpreter (computer software)|interpreter]] ([[computer program|program]]).
 
-The name shebang comes from the [[contraction (linguistics)|contraction]] of ''sharp bang'', or ''hash bang'', referring to the two characters. Unix jargon uses ''hash'' to refer to the number sign character and ''bang'' to refer to the exclamation point.
+A shebang consists of a [[number sign]] and an [[exclamation point]] character (so "#!") in the first two columns of the first line, followed by the [[Path (computing)|path]] to the interpreter program that will provide the interpretation. The name ''shebang'' comes from an inexact [[contraction (linguistics)|contraction]] of ''sharp bang'' or ''haSH bang'', referring to the two typical Unix names of the two characters. (Unix jargon uses ''sharp'' or ''hash'' to refer to the number sign character and ''bang'' to refer to the exclamation point, hence ''shebang''.)
 
-A typical shebang line could be: <code>#!/bin/sh</code>
+The shebang is actually a human-readable instance of a [[Magic number (programming)#Magic numbers in files|magic number]] in the executable file (with shebang equalling 0x2321). Executable files that do not require an interpreter program start with other magic combinations.
 
-This instructs the operating system to interpret the file with the program <code>sh</code> (typically either [[Bourne shell]] or [[UNIX shell]]) in the directory <code>/bin</code>.
+Some typical shebang lines:
+* <code>#!/bin/sh</code> -- Execute using <code>sh</code> program in the <code>/bin/</code> directory, the [[Bourne shell]]
+* <code>#!/bin/csh</code> -- Execute using <code>csh</code>, the [[C shell]] instead
+* <code>#!/bin/perl</code> -- Execute using [[Perl]]
 
-It is common for different variants of even the same operating system to have different locations for the interpreter. Thus, it is not uncommon to need to edit the shebang line after copying a [[script (computer programming)|script]] from one computer to another.
+
+It is common for different variants of even the same operating system to have different locations for the desired interpreter. Thus, it is not uncommon to need to edit the shebang line after copying a [[script (computer programming)|script]] from one computer to another.
 
 ==External links==
 *[http://homepages.cwi.nl/~aeb/std/shebang/ Details about the shebang mechanism on various Unix flavours]
