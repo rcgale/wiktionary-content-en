@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in South America. Official name: Republic of Ecuador.
+#:'''Translations'''
+#:*[[Chinese]]: [[厄瓜多尔]]
+#:*[[Danish]]: Ecuador
+#:*[[Dutch]]: Ecuador
+#:*[[Esperanto]]: [[Ekvadoro]]
+#:*[[Finnish]]: Ecuador
+#:*[[French]]: [[Équateur]]
+#:*[[German]]: Ecuador
+#:*[[Greek]]: [[Ισημερινός]], [[Εκουαδόρ]]
+#:*[[Interlingua]]: Ecuador
+#:*[[Italian]]: Ecuador
+#:*[[Polish]]: [[Ekwador]]
+#:*[[Portuguese]]: [[Equador]]
+#:*[[Russian]]: [[Эквадор]]
+#:*[[Spanish]]: Ecuador
+#:*[[Swedish]]: Ecuador
+
+''See'': [[Countries of the world]]
