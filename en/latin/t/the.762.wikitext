@@ -1,3 +1,3 @@
 '''the''' /thə/ (American English) 
 
-# The "definite article", indicating a specific thing instead of the general case. Compare with [[a]].
+# "Definite article", placed before nouns, indicating a specific person or thing instead of the general case. Compare with [[a]].
