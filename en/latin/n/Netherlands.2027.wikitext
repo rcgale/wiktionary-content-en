@@ -1,14 +1,25 @@
 ===[[Noun]]===
-# a country in north western [[Europe]] bordering [[Germany]] and [[Belgium]].
+# a country in north western [[Europe]] bordering [[Germany]] and [[Belgium]]. Official name: Kingdom of the Netherlands.
 #:'''Synonyms'''
 #:*[[Holland]]
 #:*the [[Low Countries]]
 #:'''Translations'''
+#:*[[Chinese]]: [[荷兰]]
+#:*[[Danish]]: [[Nederlandene]]
 #:*[[Dutch]]: [[Nederland]]
+#:*[[Esperanto]]: [[Nederlando]]
+#:*[[Finnish]]: [[Alankomaat]]
 #:*[[French]]: les [[Pays-Bas]], la [[Hollande]]
 #:*[[Frisian]]: [[Nederlân]]
 #:*[[German]]: die [[Niederlande]], [[Holland]]
+#:*[[Greek]]: [[Κάτω Χώρες]]
+#:*[[Interlingua]]: [[Paises Basse]], [[Nederland]]
+#:*[[Italian]]: [[Paesi Bassi]]
 #:*[[Polish]]: [[Holandia]], [[Niderlandy]]
+#:*[[Portuguese]]: [[Países Baixos]]
+#:*[[Russian]]: [[Нидерланды]]
+#:*[[Spanish]]: [[Países Bajos]]
+#:*[[Swedish]]: [[Nederländerna]]
 
 ===[[Adjective]]===
 # Of or pertaining to the Netherlands
@@ -20,3 +31,5 @@
 #:*[[Frisian]]: [[Nederlânsk]], [[Hollânsk]]
 #:*[[German]]: [[Niederlandisch]], [[Holländisch]]
 #:*[[Polish]]: [[holenderski]], [[niderlandzki]]
+
+''See'': [[Countries of the world]]
