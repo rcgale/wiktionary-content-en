@@ -1,0 +1,33 @@
+===[[Pronunciation]]===
+[Hindi]/____
+
+===[[Noun]]===
+
+* Person from [[w:India|India]].
+#:'''Translations'''
+#:*[[Catalan]]: (m) [[]], (f) [[]]
+#:*[[Dutch]]: [[]] (masc.), [[]] (fem.), [[]] (plur.)
+#:*[[Esperanto]]: [[]]
+#:*[[Finnish]]: [[]]
+#:*[[French]]: [[Indien]] (masc.), [[Indienne]] (fem.)
+#:*[[German]]: [[Indien]]
+#:*[[Interlingua]]: [[]]
+#:*[[Italian]]: [[]]
+#:*[[Portuguese]]: [[]]
+#:*[[Spanish]]: [[]]
+#:*[[Swedish]]: [[]]
+===[[Adjective]]===
+# Of or pertaining to India.
+#:'''Translations'''
+#:*[[Catalan]]: (m) [[]], (f) [[]]
+#:*[[Dutch]]: [[]]
+#:*[[Esperanto]]: [[]]
+#:*[[Finnish]]: [[]]
+#:*[[French]]: [[indien]] (masc.), [[indienne]] (fem.)
+#:*[[German]]: [[]]
+#:*[[Hebrew]]: [[]]
+#:*[[Interlingua]]: [[]]
+#:*[[Italian]]: [[]]
+#:*[[Portuguese]]: [[]]
+#:*[[Spanish]]: [[]]
+#:*[[Swedish]]: [[]]
