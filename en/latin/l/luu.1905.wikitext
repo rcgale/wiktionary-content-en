@@ -1,0 +1,6 @@
+;'''Luu''' ''([[substantiivi]])'' ([[Finnish]])
+ : Pääosin kalkista koostuva osa eläinten tukirankaa, [[luusto]]a.
+
+Käännökset:
+
+*Englanti: [[bone]]
