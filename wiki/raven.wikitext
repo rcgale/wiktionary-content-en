@@ -22,3 +22,4 @@ noun '''(nl)'''
 (of English noun #1)
 * de: [[Rabe]]
 * nl: [[raaf]]
+* pl: [[kruk]]
