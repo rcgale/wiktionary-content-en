@@ -1,0 +1,9 @@
+Accountancy, <i>[[Noun]]</i>, ''the profession of accounting, what an accountant does''. 
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Comptabilité]]
+<BR>• [[German]]: [[Buchführungswesen]]
+<BR>• [[Interlingua]]: [[Contabilitate]]
+<BR>• [[Italian]]: [[Contabilità]]
+<BR>• [[Portuguese]]: [[Accountancy]]
+<BR>• [[Spanish]]: [[Contabilidad]]
+<BR>
