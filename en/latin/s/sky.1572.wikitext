@@ -1,0 +1,1 @@
+[[noun]]1. The [[atmosphere]] above a given point, especially as visible from the ground during the [[day]]. 2. The similar celestial view of [[night]]. 3. [[Weather]] conditions ''cloudy skies''. 4. The [[heavens]].
