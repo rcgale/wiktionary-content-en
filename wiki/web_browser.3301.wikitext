@@ -1,6 +1,6 @@
 ==[[noun]]==
 # Software designed to communicate with an [[HTTP]] server, and render pages from their [[HTML]] source into visual form.
-# Examples of web browsers (external links):
+## Examples of web browsers (external links):
 * [http://www.ncsa.uiuc.edu/Divisions/Communications/MosaicHistory/ NCSA Mosaic] 
 ** [http://www.microsoft.com/ie/ Internet Explorer]
 * [http://www.opera.com/ Opera]
