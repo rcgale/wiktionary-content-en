@@ -19,6 +19,7 @@
 *es: gato
 *fr: chat
 *he: חתול
+*it: gatto
 *nl: kat
 *ja: neko
 *pl: kot
