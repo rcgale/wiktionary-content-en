@@ -4,6 +4,13 @@
 
 [[Shortened]]; relatively short; [[abbreviate]].
 
-==Translations==
-*[[Dutch]]: [[afgekort]]
-*[[Swedish]]: [[förkortad]]
+<HR> <P> <H3>Translations</H3>
+<BR>•[[Dutch]]: [[afgekort]]
+<BR>•[[French]] fr: [[Abrégé]]
+<BR>•[[German]] de: [[Abgekürzt]]
+<BR>•[[Interlingua]] ia: [[Abbreviate]]
+<BR>•[[Italian]] it: [[Abbreviato]]
+<BR>•[[Portuguese]] pt: [[Abreviado]]
+<BR>•[[Spanish]] es: [[Abreviado]]
+<BR>•[[Swedish]] sv: [[förkortad]]
+<BR>•[[]]: [[]]
