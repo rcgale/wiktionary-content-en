@@ -1,5 +1,8 @@
 ===Noun===
 #A transportation system which uses parallel tracks to guide and support wheeled vehicles which run between places served.
+
+See also: [[subway]]
+
 '''Translations'''
 *American English: [[railroad]]
 *Dutch: [[spoorweg]]
