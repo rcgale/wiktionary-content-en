@@ -1,3 +1,10 @@
-1. (verb) Plural (in any person) of "to be" -- see [[to be]]
+===Etymology 1===
+Inflection of Old English ''am'' from Indo-European ''*es'' (to exist)
+===Verb===
+#Present plural (in any person) of "to [[be]]" 
 
-2. (noun) A [[metric]] measurement of area, now rarely used, except in its derivation [[hectare]].
+===Etymology 2===
+Latin ''area'' (a piece of level ground)
+
+===Noun===
+#A [[metric]] measurement of area equivalent to 100 square metres; now rarely used except in its derivation [[hectare]].
