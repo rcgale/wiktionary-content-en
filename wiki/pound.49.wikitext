@@ -1,5 +1,5 @@
 (en)
-# A [[unit]] of [[mass]], depending on the [[sytem]] consisting of 16 or 12 corresponding [[ounce]]s, and equal to 454 or 373 [[gram]]s, see [[en:Pound]]
+# A [[unit]] of [[mass]], depending on the [[system]] consisting of 16 or 12 corresponding [[ounce]]s, and equal to 454 or 373 [[gram]]s, see [[en:Pound]]
 # A unit of [[currency]] used in Cyprus, Egypt, the Republic of Ireland (also ''[[punt]]''), Lebanon and the United Kingdom (also ''Pound Sterling''). The Pound is also used in the Falkland Islands, Gibraltar and St. Helena and its [[dependency|dependencies]].
 
 ==Translations==
