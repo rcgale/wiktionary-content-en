@@ -1,0 +1,3 @@
+==[[Abbreviation]]==
+
+#[[Code division multiple access]]
