@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southern Africa. Official name: Kingdom of Swaziland.
+#:'''Translations'''
+#:*[[Chinese]]: [[斯威士兰]]
+#:*[[Danish]]: Swaziland
+#:*[[Dutch]]: Swaziland
+#:*[[Esperanto]]: [[Svazilando]]
+#:*[[Finnish]]: [[Swazimaa]]
+#:*[[French]]: Swaziland
+#:*[[German]]: [[Swasiland]]
+#:*[[Greek]]: [[Σουαζιλάνδη]]
+#:*[[Interlingua]]: [[Swazilandia]]
+#:*[[Italian]]: Swaziland
+#:*[[Polish]]: [[Suazi]]
+#:*[[Portuguese]]: [[Suazilândia]]
+#:*[[Russian]]: [[Свазиленд]]
+#:*[[Spanish]]: [[Suazilandia]]
+#:*[[Swedish]]: Swaziland
+
+''See'': [[Countries of the world]]
