@@ -6,10 +6,6 @@
 # One 60th of a [[degree]].
 # A (usually formal) annotation of (''especially'') a meeting, more commonly found in the plural form as e.g. "The minutes of a meeting".
 
-''adjective''
-
-# Very small, insignificant.
-
 ''verb:''
 
 # To document, (''especially'') a meeting. Example: "I'll minute this evening's meeting". The product of minuting is usually the plural noun form, "minutes".
