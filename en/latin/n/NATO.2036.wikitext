@@ -3,6 +3,6 @@
 ===Acronym===
 #North Atlantic Treaty Organisation
 #:'''Translations'''
-#:*[[Dutch]]: [[NAVO]] (Noord-Atlantische Verdragsorganisatie)
+#:*[[Dutch]]: [[NAVO]]
 #:*[[French]]: [[OTAN]]
 #:*[[German]]: NATO
