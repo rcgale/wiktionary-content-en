@@ -1,14 +1,29 @@
-# (''noun'') The current day or date: "Today is [[Tuesday]]."
-# (''adverb'') On the current [[day]] or [[date]]: "I want this done today."
-# (''adverb'') In the current era; nowadays: "In the 1500s, people had to do things by hand, but today we have electric can openers."
-
-===Translations===
-*de: [[heute]], [[heutzutage]]
-*es: [[hoy]]
-*fr: [[aujourd'hui]]
-*fy: [[hjoed]] (1,2), no, [[hjoed de dei]] (3)
-*he: 
-*hu: [[ma]] (1, 2, 3), [[manaps�g]] (3)
-*nl: [[vandaag]] (1, 2, 3), [[tegenwoordig]], [[vandaag de dag]] (3)
-*pt: [[hoje]]
-*sv: [[idag]] (1, 2, 3), [[nuförtiden]] (3)
+===[[Noun]]===
+#The current day or date: "Today is [[Tuesday]]."
+#:'''Translations'''
+#:*[[Dutch]]: [[vandaag]]
+#:*[[French]]: [[aujourd'hui]]
+#:*[[Frisian]]: [[hjoed]]
+#:*[[German]]: [[heute]]
+#:*[[Hebrew]]: [[היום]]
+#:*[[Hungarian]]: [[ma]]
+#:*[[Portuguese]]: [[hoje]]
+#:*[[Spanish]]: [[hoy]]
+#:*[[Swedish]]: [[idag]]
+===[[Adverb]]===
+#On the current [[day]] or [[date]]: "I want this done today."
+#:'''Translations'''
+#:*[[Dutch]]: [[vandaag]]
+#:*[[French]]: [[actuellement]]
+#:*[[Frisian]]: [[hjoed]]
+#:*[[German]]: [[heute]]
+#:*[[Hungarian]]: [[ma]]
+#:*[[Swedish]]: [[idag]]
+#In the current [[era]]; nowadays: "In the 1500s, people had to do things by hand, but today we have electric can openers."
+#:'''Translations'''
+#:*[[Dutch]]: [[tegenwoordig]], [[vandaag de dag]], [[vandaag]]
+#:*[[French]]: [[aujourd'hui]]
+#:*[[Frisian]]: [[hjoed de dei]], [[no]]
+#:*[[German]]: [[heutzutage]]
+#:*[[Hungarian]]: [[ma]], [[manapság]]
+#:*[[Swedish]]: [[idag]], [[nuförtiden]]
