@@ -69,9 +69,8 @@
  Dutch               Ik hou van jou 
  Dutch               Ik ben verliefd op je (=I am in love with you)
  Ecuador Quechua         canda munani 
- English             I love you 
- English             I adore you 
- [[Esperanto]]       [[Mi]] [[ami|amas]] [[vi]]n
+ English             I love you. I adore you. 
+ [[Esperanto]]           [[Mi]] [[ami|amas]] [[vi]]n.
  Ewondo              Ma ding wa
  Unknown             Mina armastan sind 
  Unknown             Ma armastan sind 
