@@ -9,3 +9,4 @@
 *Dutch: sluiten
 *French: [[fermer]]
 *Spanish: [[cerrar]]
+*Korean: [[닫다]] (datda)
