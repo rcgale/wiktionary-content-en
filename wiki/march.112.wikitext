@@ -28,6 +28,7 @@
 *he: [[מרץ]]
 *nl: [[maart]]
 *pl: [[marzec]]
+*sq: [[mars]]
 
 (noun 2)
 *he: [[צעדה]]
