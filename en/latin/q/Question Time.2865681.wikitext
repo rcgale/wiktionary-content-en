@@ -1,0 +1,11 @@
+'''Question Time''' is a section of proceedings in the Parliaments of the United Kingdom, and many of its former colonies (such as Australia, New Zealand, and Canada).
+
+It usually occurs daily whilst parliament is "sitting", though it can be cancelled in exceptional circumstances.
+
+During question time, members of Parliament who are not Ministers (usually called "backbenchers"), including members of the minority parties, ask questions of the government's Ministers, which they are obliged to answer.
+
+In practice, the questions asked in question time are usually prearranged by the oragnisers of each party.  Opposition-asked questions are usually intended to force the government to embarrass the government, whilst questions from government backbenchers (termed "Dorothy Dixers") are either intended to allow the minster to discuss the virtues of government policy, or to attack the opposition.  A typical format of such a Dorothy Dixer would be ("Could the minister discuss the benefits of the government's initiative on <issue>, and is the Minister aware of any alternative policies in this area?"  
+
+Skilled ministers will often attempt to turn around opposition questions to use them to further attack the opposition, rather than answering the question asked.
+
+Whilst ministers often try to avoid opposition questions, lying or providing misleading answers to parliament is not permitted by the "standing orders" and the resulting political outcry often results in that minister being relieved of their position.
