@@ -9,3 +9,5 @@ Greek: represents a value of 50 as a Greek numeral.
 Swedish: now
 
 Yiddish: interrogative as in "So, nu?"
+
+Lojban: event abstractor, similar in meaning to an infinitive or gerund. ''[[klama]]'' go, goes, went. ''lo klama'' a goer. ''lo nu klama'' a going. ''lo'e nu klama'' to go.
