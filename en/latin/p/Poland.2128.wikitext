@@ -1,12 +1,23 @@
 ==English==
 
-# Country in Central Europe.
-#:'''Translations'''
-#:*[[Dutch]]: [[Polen]]
-#:*[[German]]: [[Polen]]
-#:*[[Swedish]]: [[Polen]]
-#:*[[French]]: [[Pologne]]
-#:*[[Italian]]: [[Polonia]]
-#:*[[Spanish]]: [[Polonia]]
+'''proper noun'''
 
-''See:'' [[Countries of the world]]
+# Country in Europe. Official name: Republic of Poland.
+#:'''Translations'''
+#:*[[Chinese]]: [[波兰]]
+#:*[[Danish]]: [[Polen]]
+#:*[[Dutch]]: [[Polen]]
+#:*[[Esperanto]]: [[Pollando]]
+#:*[[Finnish]]: [[Puola]]
+#:*[[French]]: [[Pologne]]
+#:*[[German]]: [[Polen]]
+#:*[[Greek]]: [[Πολωνία]]
+#:*[[Interlingua]]: [[Polonia]]
+#:*[[Italian]]: [[Polonia]]
+#:*[[Polish]]: [[Polska]]
+#:*[[Portuguese]]: [[Polónia]]
+#:*[[Russian]]: [[Польша]]
+#:*[[Spanish]]: [[Polonia]]
+#:*[[Swedish]]: [[Polen]]
+
+''See'': [[Countries of the world]]
