@@ -7,6 +7,8 @@
 
 *Dutch: appel (fruit)
 *French: pomme (fruit)
+*German: Apfel (fruit)
+*Hebrew: תפוח (tapuach) (fruit)
 *Spanish: manzana (fruit)
 *Japanese: りんご (ringo) (fruit)
 *Korean: 사과 (sagwa) (fruit)
