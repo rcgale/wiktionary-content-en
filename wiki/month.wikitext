@@ -3,6 +3,6 @@ n.
 A [[period]] in which a [[year]] is divided. In the Gregorian [[calendar]] there are twelve months: [[January]], [[February]], [[March]], [[April]], [[May]], [[June]], [[July]], [[August]], [[September]], [[October]], [[November]] and [[December]].
 
 ==Translations==
-de: [[Monat]]
-fr: [[mois]]
-nl: [[maand]]
+*de: [[Monat]]
+*fr: [[mois]]
+*nl: [[maand]]
