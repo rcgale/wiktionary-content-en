@@ -7,12 +7,16 @@
 #:*[[Finnish]]: [[substantiivi]]
 #:*[[French]]: [[substantif]]
 #:*[[Frisian]]: [[haadwurd]]
+#:*[[Interlingua]]: [[substantivo]]
+#:*[[Portuguese]]: [[substantivo]]
 # a word that can serve as the subject or object of a [[verb]]
 #:'''Translations'''
 #:*[[Dutch]]: [[Zelfstandig naamwoord]]
 #:*[[Finnish]]: [[substantiivi]]
 #:*[[French]]: [[substantif]]
 #:*[[Frisian]]: [[haadwurd]]
+#:*[[Interlingua]]: [[substantivo]]
+#:*[[Portuguese]]: [[substantivo]]
 
 ===Related words===
 * [[proper noun]]
