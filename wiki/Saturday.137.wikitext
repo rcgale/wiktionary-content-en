@@ -1,5 +1,5 @@
 ===Etymology===
-Old English ''Sætern(es)dag'' from Latin ''Saturni dies'' (day of Saturn)
+Old English ''Sætern(es)dæg'' from Latin ''Saturni dies'' (day of Saturn)
 ===Noun===
 #The sixth [[day]] of the [[week]] (according to the ISO 8601 norm).
 ===Translations===
