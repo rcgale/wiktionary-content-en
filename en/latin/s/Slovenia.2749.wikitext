@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Europe. Official name: Republic of Slovenia.
+#:'''Translations'''
+#:*[[Chinese]]: [[斯洛文尼亚]]
+#:*[[Danish]]: [[Slovenien]]
+#:*[[Dutch]]: [[Slovenië]]
+#:*[[Esperanto]]: [[Slovenio]], [[Slovenujo]]
+#:*[[Finnish]]: Slovenia
+#:*[[French]]: [[Slovénie]]
+#:*[[German]]: [[Slowenien]]
+#:*[[Greek]]: [[Σλοβενία]]
+#:*[[Italian]]: Slovenia
+#:*[[Polish]]: [[Słowenia]]
+#:*[[Portuguese]]: [[Eslovénia]]
+#:*[[Russian]]: [[Словения]]
+#:*[[Spanish]]: [[Eslovenia]]
+#:*[[Swedish]]: [[Slovenien]]
+
+''See'': [[Countries of the world]]
