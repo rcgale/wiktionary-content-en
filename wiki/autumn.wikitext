@@ -2,12 +2,12 @@
 # Traditionally the third of the four [[season]]s, normally from [[September]] 21 to [[December]] 20.
 
 ===Translations===
-*es: [[otoño]]
-*eu: [[udazken]]
-*fr: [[automne]]
-*he: [[סתיו]]
-*mi: [[ngahuru]]
-*nl: [[herfst]]
-*pt: [[outono]]
-*sq: [[vjeshtë]]
-*yi: [[האַרבּסט]]
+*[[Albanian]]: [[vjeshtë]]
+*[[Basque]]: [[udazken]]
+*[[Dutch]]: [[herfst]]
+*[[French]]: [[automne]]
+*[[Hebrew]]: [[סתיו]]
+*[[Mäori]]: [[ngahuru]]
+*[[Portuguese]]: [[outono]]
+*[[Spanish]]: [[otoño]]
+*[[Yiddish]]: [[האַרבּסט]]
