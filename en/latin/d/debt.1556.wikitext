@@ -3,9 +3,10 @@
 
 '''Translations'''
 
-* Dutch : [[schulde]]
-* French : [[dette]]
-* Spanish :[[deuda]]
+* Dutch: [[schulde]]
+* French: [[dette]]
+* Spanish: [[deuda]]
+* Swedish: [[skuld]]
  
 
 '''Related words'''
