@@ -1,4 +1,4 @@
-(da),(de),(nl),(pl),(sv),(es): [[free]] (2) of charge
+(da),(de),(it),(nl),(pl),(sv),(es): [[free]] (2) of charge
 
 ==Etymology==
 
