@@ -1,5 +1,5 @@
 === [[Traduko]]j ===
 
 
-*[[Angla]]: [[noum]]
+*[[Angla]]: [[noun]]
 *[[Hispana]]: [[nombre]]
