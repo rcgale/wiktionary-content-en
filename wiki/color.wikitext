@@ -11,6 +11,6 @@ American English for [[colour]]
 ==Translations==
 
 *[[English(British)]]: [[Colour]]
-*he: [[צבע]]
-*pl: [[kolor]]
-*yi: [[פאַרבּ]]
+*[[Hebrew]]: [[צבע]]
+*[[Polish]]: [[kolor]]
+*[[Yidish]]: [[פאַרבּ]]
