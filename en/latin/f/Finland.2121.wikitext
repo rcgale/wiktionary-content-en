@@ -2,13 +2,23 @@
 
 '''proper noun'''
 
-# One of the [[Scandinavian]] countries.
+# One of the [[Scandinavian]] countries. Official name: Republic of Finland.
 #:'''Translations'''
+#:*[[Chinese]]: [[芬兰]]
+#:*[[Danish]]: Finland
 #:*[[Dutch]]: Finland
+#:*[[Esperanto]]: [[Finlando]], [[Finnlando]], [[Suomio]]
 #:*[[Finnish]]: [[Suomi]]
 #:*[[French]]: [[Finlande]]
 #:*[[Frisian]]: [[Finlân]]
 #:*[[German]]: [[Finnland]]
+#:*[[Greek]]: [[Φινλανδία]]
+#:*[[Interlingua]]: [[Finlandia]]
+#:*[[Italian]]: [[Finlandia]]
 #:*[[Polish]]: [[Finlandia]]
+#:*[[Portuguese]]: [[Finlândia]]
+#:*[[Russian]]: [[Финляндия]]
+#:*[[Spanish]]: [[Finlandia]]
+#:*[[Swedish]]: Finland
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
