@@ -48,7 +48,7 @@ Present participle and verbal noun: [[According]].
 
 <HR> <P> <H3>Translations</H3>
 <BR>• [[French]]: [[Entente]]
-<BR>• [[German]]: [[ übereinstimmung]]
+<BR>• [[German]]: [[übereinstimmung]]
 <BR>• [[Interlingua]]: [[Accordo]]
 <BR>• [[Italian]]: [[Accordo]]
 <BR>• [[Portuguese]]: [[Acordo]]
