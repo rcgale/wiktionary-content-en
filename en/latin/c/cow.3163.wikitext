@@ -11,6 +11,8 @@ An animal. a Four-legged [[mammal]] of the bovine genus.
 *[[French]]: [[vache]]
 *[[German]]: [[Kuh]]
 *[[Interlingua]]: [[vacca]]
+*[[Japaneses]]: [[牛]] (うし;ushi)
+*[[Korean]]: [[소]] (so)
 *[[Portuguese]]: [[vaca]]
 *[[Spanish]]: [[vaca]]
 *[[Swedish]]: [[Ko]]
