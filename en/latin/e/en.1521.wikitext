@@ -2,6 +2,9 @@
 [en] /en/
 
 # The letter 'N'
+# In typesetting the width of an average letter in a font.
+# A prefix
+# A suffix
 ----
 ==Dutch==
 [en] /en/
@@ -20,7 +23,12 @@
 * he: [[ו]] (added as a prefix, as in  ילד וילדה. i.e. "boy and-girl")
 * fr: [[et]]
 * yi: [[און]]
-
+[[User:Eclecticology|Eclecticology]] 23:26 Dec 29, 2002 (UTC)
+==French==
+===Pronoun===
+# Used as the object of a verb to indicate an indefinite quantity. "''of it''"
+===Preposition===
+# [[In]].  Used mostly to indicate distance in time or space.
 ----
 ==Spanish==
 [en] /en/ 
