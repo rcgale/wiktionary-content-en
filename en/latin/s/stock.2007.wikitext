@@ -11,8 +11,8 @@
 ===Related words===
 * [[stock performance]]
 ----
-===German===
-====noun====
+==German==
+===noun===
 ''maskulin''
 
 # a stick
@@ -21,10 +21,10 @@
 # a tree trunk with roots "''über Stock und Stein''"
 # short form of [[Bienenstock]] = beehive (hive)
 
-====prefix====
+===prefix===
 stock-
-used to emphasize emotion
+#used to emphasize emotion
 [[stockbesoffen]], [[stocksteif]]
 
-====Phrases====
-"''Er ist steif wie ein Stock''" = "''He is as stiff as a poker''"
+===Phrases===
+*"''Er ist steif wie ein Stock''" = "''He is as stiff as a poker''"
