@@ -1,6 +1,7 @@
 Un perro es un animal mamífero
 
 Traducciones: 
-Inglés: dog, 
-Francés: chien, 
-Alemán: Hund
+Inglés: [[dog]], 
+Francés: [[chien]], 
+Alemán: [[Hund]],
+Esperanto: [[Hundo]]
