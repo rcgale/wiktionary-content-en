@@ -27,6 +27,8 @@
 *[[Japanese]]: [[ワシ]] (needs to be checked by speaker)
 *[[Korean]]: [[독수리]] (needs to be checked by speaker)
 *[[Latin]]: [[Aqvila]]
+*[[Latvian]]: [[Ērglis]]
+*[[Lithuanian]]: [[Erelis]]
 *[[Norwegian]]: [[Ørn]]
 *[[Polish]]: [[Orzeł]] (1)
 *[[Portugese]]: [[Aguia]]
