@@ -5,7 +5,7 @@
 # Country in South America. Official name: Argentine Republic.
 #:'''Translations'''
 #:*[[Chinese]]: [[阿根廷]]
-#:*[[Dannish]]: Argentina
+#:*[[Danish]]: Argentina
 #:*[[Dutch]]: [[Argentinië]]
 #:*[[Esperanto]]: [[Argentino]]
 #:*[[Finnish]]: [[Argentiina]]
