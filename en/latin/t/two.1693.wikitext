@@ -6,15 +6,14 @@ Old English ''twa'', from Germanic ''*twai'', ''*two'', from PIE ''*dwô''. Cogn
 # The ordinality of an element whose predecessor is [[first]]; usually called [[second]] but sometimes ''number two''.
 
 == Translations ==
-*de: [[zwei]]
-*es: [[dos]]
-*fi: [[kaksi]]
-*fr: [[deux]]
+*German: [[zwei]]
+*Spanish: [[dos]]
+*Finnish: [[kaksi]]
+*French: [[deux]]
 *Frisian: [[twa]]
 *Icelandic: [[tveir]], [[tvær]], [[tvö]], masc, fem, neuter.
 *Lojban: [[re]]
-*nl: [[twee]]
-*pt: [[dois]]
-*sp: [[dos]]
-*tr: [[iki]]
+*Dutch: [[twee]]
+*Portuguese: [[dois]]
+*Turkish: [[iki]]
 *Korean: [[둘]] (dul), [[이]] (i)
