@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Central Asia. Official name: Republic of Kazakhstan.
+#:'''Translations'''
+#:*[[Danish]]: [[Kasakhstan]]
+#:*[[Dutch]]: [[Kazachstan]]
+#:*[[Esperanto]]: [[Kazaĥio]], [[Kazaĥstano]]
+#:*[[Finnish]]: [[Kazakstan]]
+#:*[[French]]: Kazakhstan
+#:*[[German]]: [[Kasachstan]]
+#:*[[Greek]]: [[Καζαχστάν]], [[Καζακστάν]]
+#:*[[Interlingua]]: Kazakhstan
+#:*[[Italian]]: [[Kazakistan]], [[Kazakstan]]
+#:*[[Polish]]: [[Kazachstan]]
+#:*[[Portuguese]]: [[Cazaquistão]]
+#:*[[Russian]]: [[Казахстан]]
+#:*[[Spanish]]: [[Kazajistán]]
+#:*[[Swedish]]: [[Kazakstan]]
+
+''See'': [[Countries of the world]]
