@@ -1,15 +1,30 @@
+===Etymology===
+French ''accès'', Latin ''accessus'', from ''accedere''. See [[Accede]]
 ===Noun===
 # permission to [[approach]]
-# The means, place, or way by which a thing may be approached; passage way; as, the ''access'' is by a neck of [[land]].
-#:'''Quotations'''
-#:*All access was thronged. - [[Milton]] 
 #:'''Translations'''
 #:*[[French]]: [[accès]]
 #:*[[German]]: [[Zugriff]]
 #:*[[Interlingua]]: [[accesso]]
 #:*[[Italian]]: [[accesso]]
 #:*[[Portuguese]]: [[acesso]]
-#:*[[Spanish]]: [[acceso]]
+#:*[[Spanish]]: [[acceso]] 
+#A coming to, or near approach; [[admittance]]; admission; [[accessibility]]; as, to gain ''access'' to a prince.
+#:'''Quotations'''
+#:*I did repel his fetters, and denied His ''access'' to me. - Shakespeare, ''Hamlet, II-i''
+# The means, place, or way by which a thing may be approached; passage way; as, the ''access'' is by a neck of [[land]].
+#:'''Quotations'''
+#:*All access was thronged. - [[Milton]] 
+#Admission to sexual intercourse.
+#:'''Quotations'''
+#:*During coverture, ''access'' of the husband shall be presumed, unless the contrary be shown. - [[Blackstone]] 
+#Increase by something added; addition; as, an ''access'' of territory. [In this sense ''accession'' is more generally used.]
+#:'''Quotations'''
+#:*I, from the influence of thy looks, receive ''Access'' in every virtue. - [[Milton]]
+#An [[onset]], attack, or fit of disease.
+#:'''Quotations'''
+#:*The first ''access'' looked like an apoplexy. - [[Burnet]]
+#A [[paroxysm]]; a fit of passion; an [[outburst]]; as, an ''access'' of fury. [A [[Gallicism]]]
 #''(law):'' the right of a [[non-custodial parent]] to visit their [[child]]
 ===Verb===
 #''(computing):'' to have ''access'' to [[data]]
