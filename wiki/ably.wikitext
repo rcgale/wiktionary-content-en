@@ -1,3 +1,5 @@
 ==[[adverb (part of speech)|adverb]]==
 
 #In an [[able]] [[manner]]; with great [[ability]]; as, ''ably'' done, [[planned]], said.
+
+<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Habilement]]<BR>• [[German]]: [[Fähig]]<BR>• [[Interlingua]]: [[Habilemente]]<BR>• [[Italian]]: [[Abilmente]]<BR>• [[Portuguese]]: [[Capaz]]<BR>• [[Spanish]]: [[Capaz]], [[Habilmente]]<BR>• [[]]: [[]]
