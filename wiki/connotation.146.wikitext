@@ -7,5 +7,5 @@
 ===Translations===
 *de: [[Konnotation]], [[Nebenbedeutung]], [[Beiklang]], [[Beigeschmack]]
 *es: [[connotación]]
-*fr: [[connotation]]
+*fr: connotation (on this page)
 *nl: [[connotatie]], [[bijbetekenis]], [[bijklank]], [[associatie]], [[gevoelswaarde]]
