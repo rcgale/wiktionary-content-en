@@ -4,4 +4,6 @@
 
 *Dutch: [[netwerk]]
 *French: [[réseau]]
+*German: [[Netzwerk]]
+*Hebrew: [[רשת]]
 *Spanish: [[red]]
