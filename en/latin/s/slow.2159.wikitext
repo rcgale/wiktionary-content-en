@@ -1,0 +1,15 @@
+==[[Adjective]]==
+
+*being not rapid
+
+===Antonyms===
+*[[rapid]]
+
+===Translation===
+*Dutch: traag
+*French: lent
+*Spanish: lento
+
+===Derivative words===
+*[[slowly]]
+*[[slowness]]
