@@ -1,1 +1,28 @@
-'''On yomi''' is Japanese reading of [[kanji]] based on Chinese readings.
+[On] - SAMPA /Qn/
+
+''preposition''
+# on the [[top]] of, [[touch]]ing from [[above]]
+# [[covering]]
+# at the [[date]] of
+# [[deal]]ing with the [[subject]] of: ''a book on history''
+# [[touch]]ing, [[hang]]ing from: ''I have no money on me'', ''the fruit on the trees''
+
+''adverb''
+# [[function]]ing, [[work]]ing
+
+==On in other languages==
+
+'''(ja)''': ''On yomi'' is Japanese reading of [[kanji]] based on Chinese readings.
+
+'''(nl)''': [[odd]] (rare), the prefix [[on-]] means ''not'' (corresponds to English [[un-]])
+==Etymology==
+
+Old English ''on'', originally ''an''. From Germanic *[[ana]]. Related forms: old German ''ana'' (new German [[an]]), old Dutch ''an'', ''ane'' ([[aan]]), old Frisian ''ana'', old Norse ''&acirc;'', Gothic ''ana''. Possibly related to Greek ''ana'' (''upward'').
+
+==Antonyms==
+
+adverb: [[off]]
+
+==Translations==
+nl: [[op]] (1,3), [[over]] (2,4), [[aan]] (5)
+de: [[auf]] (1), [[&uuml;ber]] (2,4), [[an]] (3,5)
