@@ -1,0 +1,22 @@
+==Português==
+'''proper noun'''
+
+# Country in South America. Official name: República Federativa do Brasil.
+#:'''Translations'''
+#:*[[Chinese]]: [[巴西]]
+#:*[[Danish]]: [[Brasilien]]
+#:*[[Dutch]]: [[Brazilië]]
+#:*[[English]]: [[Brazil]]
+#:*[[Esperanto]]: [[Brazilo]]
+#:*[[Finnish]]: [[Brasilia]]
+#:*[[French]]: [[Brésil]]
+#:*[[German]]: [[Brasilien]]
+#:*[[Greek]]: [[Βραζιλία]]
+#:*[[Interlingua]]: Brasil
+#:*[[Italian]]: [[Brasile]]
+#:*[[Polish]]: [[Brazylia]]
+#:*[[Russian]]: [[Бразилия]]
+#:*[[Spanish]]: Brasil
+#:*[[Swedish]]: [[Brasilien]]
+
+''See'': [[Countries of the world]]
