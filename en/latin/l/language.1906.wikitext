@@ -7,3 +7,4 @@
 #:*[[Frisian]]: [[taal]]
 #:*[[German]]: [[Sprache]]
 #:*[[Hebrew]]: [[שפה]]
+#:*[[Polish]]: [[język]]
