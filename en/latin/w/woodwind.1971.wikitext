@@ -1,11 +1,4 @@
-'''Woodwind''', ''[[noun (part of speech)|noun]]''
-
-<ol>
-<li>A collective term for woodwind  musical instruments. Woodwind instruments include the recorder, flute, piccolo, clarinet, oboe, cor anglais and bassoon, and produce sound by the player blowing into them, through a [[reed]], or across an opening. Distinguish woodwind from [[brass]] instruments, which are also blown, but in which the players lips vibrate to produce the sound.
-</ol>
-
-'''Woodwind''', ''[[adjective (part of speech)|adjective]]''
-
-<ol>
-<li>A description of a musical instrument which is blown in order to produce its sounds.
-</ol>
+===Noun===
+#A collective term for woodwind  musical instruments. Woodwind instruments include the recorder, flute, piccolo, clarinet, oboe, cor anglais and bassoon, and produce sound by the player blowing into them, through a [[reed]], or across an opening. Distinguish woodwind from [[brass]] instruments, which are also blown, but in which the players lips vibrate to produce the sound.
+===Adjective===
+#A description of a musical instrument which is blown in order to produce its sounds.
