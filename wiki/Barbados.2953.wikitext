@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Caribbean. Official name: Barbados.
+#:'''Translations'''
+#:*[[Danish]]: Barbados
+#:*[[Dutch]]: Barbados
+#:*[[Esperanto]]: [[Barbado]]
+#:*[[Finnish]]: Barbados
+#:*[[French]]: [[Barbade]]
+#:*[[German]]: Barbados
+#:*[[Greek]]: [[Μπαρμπάντος]]
+#:*[[Interlingua]]: Barbados
+#:*[[Italian]]: Barbados
+#:*[[Polish]]: Barbados
+#:*[[Portuguese]]: Barbados
+#:*[[Russian]]: [[Барбадос]]
+#:*[[Spanish]]: Barbados
+#:*[[Swedish]]: Barbados
+
+''See'': [[Countries of the world]]
