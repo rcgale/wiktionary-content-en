@@ -6,4 +6,4 @@ Old English ''an'' (same word as [[an]]), from Germanic ''*ainaz'', from PIE ''*
 # The ordinality of an element which has no predecessor; usually called [[first]] but sometimes ''number one''.
 
 == Pronoun ==
-Used to refer indefinitely to a person.
+Used to refer indefinitely to a person. But ''one'' may find other uses.
