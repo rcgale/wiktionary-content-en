@@ -2,6 +2,6 @@
 
 ==Etymology==
 
-From French *[[gratuit]].
+From French [[gratuit]].
 
 Related words: fr [[gratuit]]
