@@ -1,0 +1,22 @@
+===Verb===
+3rd person present indicative of [[die]]
+
+===Noun===
+Plural of [[die]] when used in the sense of a pattern
+
+----
+==Latin==
+:Singular declension
+::Nominative: ''dies''
+::Genitive: ''diei''
+::Dative: ''diei''
+::Accusative: ''diem''
+::Ablative: ''die''
+:Plural declensions
+::Nominative: ''dies''
+::Genitive: ''dierum''
+::Dative: ''diebus''
+::Accusative: ''dies''
+::Ablative: ''diebus''
+
+# [[Day]]
