@@ -5,3 +5,7 @@ American English for [[colour]]
 ==Etymology==
 
 'u' came off [[colour]] to make spelling easier and more phonetic.
+
+==Translations==
+
+*[[English(British)]]: [[Colour]]
