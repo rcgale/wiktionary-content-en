@@ -5,9 +5,10 @@
 ==Synonyms==
 
 *[[Now]]
-*Nowadays
-*At present
+*[[Nowadays]]
+*[[At present]]
 
 ==Translations==
 
-*French: maintenant
+*French: [[maintenant]], [[actuellement]]
+*Spanish: [[actualmente]]
