@@ -1,8 +1,14 @@
 conjunction
 
-"'''because'''" is used to add a reason to a statement.
+"'''Because'''" is used to add a reason to a statement.
 
-==Translation==
+==Synonyms==
+
+* [[Since]] (''note'' : this word, contrary to because, has several meanings) 
+* [[For]] (''note'' : this word, contrary to because, has several meanings) 
+
+
+==Translations==
 
 * French : 
 : [[Parce que]]
@@ -10,6 +16,7 @@ conjunction
 : [[En raison]]. ''Note : usually used only in written French and not used in a conversation.''
 *Spanish
 : [[Porque]]
+:Ya que
 *German
 : [[weil]]
 : [[denn]]
