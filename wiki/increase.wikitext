@@ -5,4 +5,5 @@
 
 ===Translations===
 
-*French: augmenter, croître
+*French: [[augmenter]], [[croître]]
+*Spanish: [[aumentar]], [[subir]]
