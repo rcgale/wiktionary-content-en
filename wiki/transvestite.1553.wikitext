@@ -1,5 +1,12 @@
+==Meanings==
+
+====noun====
+
 A '''transvestite''' is a person who voluntarily wears clothes of a gender that is not the gender assigned (usually) at birth or the gender a person currently lives in. Usually, but not exclusively, the term refers to male bodied and/or male identified persons.
 
 However, the words transvestitism and transvestite have many often conflicting connotations. For a discussion of the history and current usage of the term transvestite, see [[w:transvestitism]].
 
 Transvestites and transvestite behaviour are part of transgender. Transvestites do not cross-dress for primary sexual reasons; cross-dressing primary for sexual reasons is called transvestic fetishism.
+
+==Translations==
+*[[Dutch]]: [[travestiet]]
