@@ -1,10 +1,22 @@
 ==English==
 
-# Country in Europe, consisting of [[England]], [[Scotland]], [[Wales]] and [[Northern Ireland]].
+'''proper noun'''
+
+# Country in Europe, consisting of [[England]], [[Scotland]], [[Wales]] and [[Northern Ireland]]. Official name: United Kingdom of Great Britain and Northern Ireland.
 #:'''Translations'''
+#:*[[Chinese]]: [[英国]]
+#:*[[Danish]]: [[Forenede Kongerige]]
 #:*[[Dutch]]: [[Verenigd Koninkrijk]]
+#:*[[Finnish]]: [[Yhdistynyt kuningaskunta]]
 #:*[[French]]: [[Royaume Uni]]
 #:*[[German]]: [[Vereinigtes Königreich]]
+#:*[[Greek]]: [[Ηνωμένο Βασίλειο]]
+#:*[[Interlingua]]: [[Regno Unite]]
+#:*[[Italian]]: [[Regno Unito]], [[Gran Bretagna]]
 #:*[[Polish]]: [[Wielka Brytania]]
+#:*[[Portuguese]]: [[Reino Unido]]
+#:*[[Russian]]: [[Великобритания]]
+#:*[[Spanish]]: [[Reino Unido]]
+#:*[[Swedish]]: [[Förenade kungariket]]
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
