@@ -8,3 +8,6 @@
 ===[[adjective]]===
 
 # The ordinal form of the number [[two]]; following immediately after [[first]].
+
+===[[verb]]===
+# To agree as a second (adj.) person to some proposal, usually to reach a necessary quorum of [[two]].
