@@ -1,5 +1,5 @@
 ===Etymology===
-From [[Dutch]]: [[pappekak]]; [[pap]] = soft + [[kak]] ''(vulgar]'' = dung
+From [[Dutch]]: [[pappekak]]; [[pap]] = soft + [[kak]] ''(vulgar)'' = dung
 ===Noun===
 #nonsense.
 #:'''Translations'''
