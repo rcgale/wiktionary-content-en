@@ -11,7 +11,7 @@
 
 *[[Afrikaans]]: [[Arend]]
 *[[Albanian]]: [[Shkabë]] (needs to be checked by speaker)
-*[[Arabic]]: [[عُقَاب , نَسْر]] (needs to be checked by speaker)
+*[[Arabic]]: [[عُبقَا , نَسْر]] (needs to be checked by speaker)
 *[[Armenian]]: [[Արծիվ]]
 *[[Aymara]]: [[Paca]]
 *[[Azeri]]: [[Qartal]]
@@ -21,6 +21,7 @@
 *[[Chamorro]]: [[Ágila]]
 *[[Chinese(Simplified)]]: [[老鹰]] (needs to be checked by speaker)
 *[[Chinese(Traditional)]]: [[老鷹]] (needs to be checked by speaker)
+*[[Cornish]]: [[&emacr;r]]
 *[[Croatian]]: [[Orao]]
 *[[Czech]]: [[Orel]]
 *[[Dutch]]: [[Arend]], [[Adelaar]] (1)
