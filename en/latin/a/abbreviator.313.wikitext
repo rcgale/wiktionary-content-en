@@ -1,0 +1,7 @@
+'''Abbreviator''', ''[[noun (part of speech)|noun]]'' [LL.: cf. F. ''abbr&eacute;viateur''.]
+
+<ol>
+<li>One who [[abbreviates]] or [[shortens]].
+
+<li> One of a college of [[seventy-two]] officers of the [[papal]] court whose duty is to make a short minute of a decision on a [[petition]], or reply of the pope to a letter, and [[afterwards]] [[expand]] the minute into official form.
+</ol>
