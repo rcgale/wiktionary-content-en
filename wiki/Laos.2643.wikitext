@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southeast Asia. Official name: Lao People's Democratic Republic.
+#:'''Translations'''
+#:*[[Chinese]]: [[老挝]]
+#:*[[Danish]]: Laos
+#:*[[Dutch]]: Laos
+#:*[[Esperanto]]: [[Laoso]]
+#:*[[Finnish]]: Laos
+#:*[[French]]: Laos
+#:*[[German]]: Laos
+#:*[[Greek]]: [[Λάος]]
+#:*[[Interlingua]]: Laos
+#:*[[Italian]]: Laos
+#:*[[Polish]]: Laos
+#:*[[Portuguese]]: Laos
+#:*[[Russian]]: [[Лаос]]
+#:*[[Spanish]]: Laos
+#:*[[Swedish]]: Laos
+
+''See'': [[Countries of the world]]
