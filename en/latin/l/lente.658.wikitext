@@ -7,11 +7,11 @@
 *[[Finnish]]: [[kevät]]
 *[[French]]: [[Printemps]]
 *[[German]]: [[Frühling]], [[Lenz]]
-*[[Hebrew]]: [[????]]
+*[[Hebrew]]: [[אביב]]
 *[[Hungarian]]: [[tavasz]]
 *[[Polish]]: [[Wiosna]]
 *[[Spanish]]: [[Primavera]]
-*[[Yiddish]]: [[???????]]
+*[[Yiddish]]: [[פרילינג]]
 ----
 ==French==
 ===Adjective===
@@ -19,7 +19,7 @@
 ====Translations====
 *[[Dutch]]: [[Langzaam]] 
 *[[German]]: [[langsam]]
-*[[Hebrew]]: [[?????]]
+*[[Hebrew]]: [[איטית]]
 ----
 ==Italian==
 ===Noun===
@@ -28,8 +28,8 @@
 *[[English]]: [[Lens]]
 *[[Dutch]]: [[Lens]]
 *[[German]]: [[Linse]]
-*[[Hebrew]]: [[????]]
-*[[Yiddish]]: [[????]] (also [[?????? ?????]])
+*[[Hebrew]]: [[עדשה]]
+*[[Yiddish]]: [[לינז]] (also [[אָפטיש גלאָז]])
 ----
 ==Spanish==
 ===Noun===
@@ -38,5 +38,5 @@
 *[[English]]: [[Lens]]
 *[[Dutch]]: [[Lens]]
 *[[German]]: [[Linse]]
-*[[Hebrew]]: [[????]]
-*[[Yiddish]]: [[????]] (also [[?????? ?????]])
+*[[Hebrew]]: [[עדשה]]
+*[[Yiddish]]: [[לינז]] (also [[אָפטיש גלאָז]])
