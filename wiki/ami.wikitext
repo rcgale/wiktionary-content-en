@@ -1,9 +1,18 @@
-[[Esperanto]]
-
+===[[Esperanto]]===
 Adori iun
 
-
-=== [[Traduko]]j ===
-
+'''[[Traduko]]j'''
 *[[Angla]]: To [[love]].
 *[[Hispana]]: Amar
+
+----
+
+===French===
+
+'''Noun'''
+*friend
+
+'''Translations'''
+*Dutch: [[vriend]]
+*English: [[friend]]
+*German: [[Freund]]
