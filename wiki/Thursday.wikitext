@@ -3,5 +3,6 @@
 #The fourth day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
+*es: jueves
 *fr: [[jeudi]]
 *nl: [[donderdag]]
