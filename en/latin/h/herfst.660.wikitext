@@ -3,4 +3,5 @@
 
 ===Translantions===
 *en: [[autumn]], [[fall]]
+*es: otoño
 *fr: [[automne]]
