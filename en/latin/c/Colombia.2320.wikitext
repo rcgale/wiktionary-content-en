@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in South America. Official name: Republic of Colombia.
+#:'''Translations'''
+#:*[[Chinese]]: [[哥伦比亚]]
+#:*[[Dannish]]: Colombia
+#:*[[Dutch]]: Colombia
+#:*[[Esperanto]]: [[Kolombio]]
+#:*[[Finnish]]: [[Kolumbia]]
+#:*[[French]]: [[Colombie]]
+#:*[[German]]: [[Kolumbien]]
+#:*[[Greek]]: [[Κολομβία]]
+#:*[[Interlingua]]: Colombia
+#:*[[Italian]]: Colombia
+#:*[[Polish]]: [[Kolumbia]]
+#:*[[Portuguese]]: [[Colômbia]]
+#:*[[Russian]]: [[Колумбия]]
+#:*[[Spanish]]: Colombia
+#:*[[Swedish]]: Colombia
+
+''See'': [[Countries of the world]]
