@@ -4,5 +4,7 @@
 #:'''Translations'''
 #:*[[Dutch]]: [[Irak]]
 #:*[[French]]: [[Irak]]
+#:*[[German]]: [[Irak]]
+#:*[[Hebrew]]: [[עיראק]]
 
 ''See:'' [[Countries of the world]]
