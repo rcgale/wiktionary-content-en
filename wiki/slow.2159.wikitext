@@ -6,9 +6,9 @@
 *[[rapid]]
 
 ===Translation===
-*Dutch: traag
-*French: lent
-*Spanish: lento
+*Dutch: [[traag]], [[langzaam]]
+*French: [[lent]]
+*Spanish: [[lento]]
 
 ===Derivative words===
 *[[slowly]]
