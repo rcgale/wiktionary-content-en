@@ -1,7 +1,7 @@
 [[Adjective]].
 
 
-From [[W:Spain|Spain]]
+From [[w:Spain|Spain]]
 
 === [[Translation]]s ===
 
