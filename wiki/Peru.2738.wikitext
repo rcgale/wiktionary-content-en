@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in South America. Official name: Republic of Peru.
+#:'''Translations'''
+#:*[[Chinese]]: [[秘鲁]]
+#:*[[Danish]]: Peru
+#:*[[Dutch]]: Peru
+#:*[[Esperanto]]: [[Peruo]]
+#:*[[Finnish]]: Peru
+#:*[[French]]: [[Pérou]]
+#:*[[German]]: Peru
+#:*[[Greek]]: [[Περού]]
+#:*[[Interlingua]]: Peru
+#:*[[Italian]]: [[Perù]]
+#:*[[Polish]]: Peru
+#:*[[Portuguese]]: Peru
+#:*[[Russian]]: [[Перу]]
+#:*[[Spanish]]: [[Perú]]
+#:*[[Swedish]]: Peru
+
+''See'': [[Countries of the world]]
