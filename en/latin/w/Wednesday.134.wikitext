@@ -16,4 +16,5 @@
 *pt: [[quarta-feira]]
 *sq: [[e mërkurë]]
 *sv: [[onsdag]]
+*Wolof: [[Allarba]]
 *yi: [[מיטוואָך]]
