@@ -20,5 +20,5 @@
 <BR>• [[Interlingua]]: [[In fila]]
 <BR>• [[Italian]]: [[A fiancato]]
 <BR>• [[Portuguese]]: [[Lado a lado]]
-<BR>• [[Spanish]]: [[Al corriente]]
+<BR>• [[Spanish]]: [[Al corriente]], [[De lado a lado]]
 <BR>
