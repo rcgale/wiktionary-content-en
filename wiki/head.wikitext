@@ -10,6 +10,8 @@
 
 [[Verb]]
 # To be in command of 
+# To move into a [[special]] [[direction]]. ''heading towards something''
 
 ===Translations===
-*nl: noun: [[hoofd]] (1 (of person or horse), 2), [[kop]] (1 (of animal)); verb: [[leiden]], [[aanvoeren]]
+*de: noun: [[Kopf]] (1, 2), [[Haupt]] (1, 2)(rarely used); verb: [[führen]], [[leiten]]
+*nl: noun: [[hoofd]] (1 (of person or horse), 2), [[kop]] (1 (of animal)); verb: [[leiden]] (1), [[aanvoeren]] (2)
