@@ -10,6 +10,7 @@
 *et: [[telsipäev]]
 *eu: [[astearte]]
 *fr: [[mardi]]
+*fy: [[tiisdei]]
 *[[Georgian]]: [[სამშაბათი]]
 *he: [[יום שלישי]] (yom shlee-SHEE)
 *hr: [[Utorak]]
