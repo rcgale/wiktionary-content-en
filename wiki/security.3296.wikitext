@@ -1,0 +1,3 @@
+===Related words===
+
+*[[Security Council]]
