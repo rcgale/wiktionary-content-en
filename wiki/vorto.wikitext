@@ -1,0 +1,21 @@
+#([http://eo.wikipedia.org/wiki/lingvistiko|Lingvistiko]]) Elstara unuo de lingvo(sono en parolo aŭ skribaj literoj) kun partikulara senco. Kunmetita de unu aŭ pliaj [[morfemo]]j.
+#Io dirita aŭ promesita.
+#([[Informadiko]]) Numera valuo kun [[bito|bita]] larĝeco, origine uzata de la maŝino.
+#([[Teologio]]) [[Dio] 
+
+==[[Tranduko]]j==
+*Dana: [[ord]]
+*Finlanda: [[sana]]
+*Franca: [[mot]], [[parole]]
+*[http://eo.wikipedia.org/wiki/%C4%9Cermana_lingvo|Ĝermana]: [[Wort]]
+*[[Hebrea: [[מילה]]
+*Hungara: [[szó]]
+*[http://eo.wikipedia.org/wiki/JidoJida]: [[װאָרט]]
+*Korea: '''1''' [[낱말]] (natmal), [[단어]] (daneo) '''2''' [[말]] (mal)
+*Nederlanda: [[woord]]
+*Portugala: '''1~4''' [[palavra]], '''1''' [[vocábulo]], '''4''' [[verbo]]
+*Sveda: [[ord]]
+
+==Plian informon==
+
+*[http://eo.wikipedia.org/wiki/elemento Elementoj de la lingvo]
