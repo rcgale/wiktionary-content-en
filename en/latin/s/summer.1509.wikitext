@@ -8,6 +8,7 @@
 *[[Croatian]]: [[ljeto]]
 *[[Dutch]]: [[zomer]]
 *[[French]]: [[été]]
+*[[German]]: [[Sommer]]
 *[[Hebrew]]: [[קיץ]]
 *[[Mäori]]: [[raumati]]
 *[[Polish]]: [[lato]]
