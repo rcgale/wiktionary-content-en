@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Central America. Official name: Republic of Panama.
+#:'''Translations'''
+#:*[[Chinese]]: [[巴拿马]]
+#:*[[Danish]]: Panama
+#:*[[Dutch]]: Panama
+#:*[[Esperanto]]: [[Panamo]]
+#:*[[Finnish]]: Panama
+#:*[[French]]: Panama
+#:*[[German]]: Panama
+#:*[[Greek]]: [[Παναμάς]]
+#:*[[Interlingua]]: Panama
+#:*[[Italian]]: Panama
+#:*[[Polish]]: Panama
+#:*[[Portuguese]]: [[Panamá]]
+#:*[[Russian]]: [[Панама]]
+#:*[[Spanish]]: [[Panamá]]
+#:*[[Swedish]]: Panama
+
+''See'': [[Countries of the world]]
