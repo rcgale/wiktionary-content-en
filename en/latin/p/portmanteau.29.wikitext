@@ -24,8 +24,8 @@ Used as an ''[[adjective]]'' in compound words
 #*: "[[Multiculturalism]]" is a [[portmanteau word]], containing in its [[definition]] and its [[resonance|resonant]] [[connotation|connotations]] as many [[concept|concepts]] as a suitcase does socks
 
 == Translations ==
-*nl: noun: [[kostuumkoffer]], [[koffer]]; adj: [[mengwoord]] (noun) (= ''portmanteau word'')
-*fr: mot-valise (adj)
+*nl: noun: [[kostuumkoffer]], [[koffer]]
+
 == Further reading ==
 
 * [[w:portmanteau|Wikipedia article]]
