@@ -1,14 +1,14 @@
 ==[[Verb]]==
 
 ===Translations===
-
-*French: acueillir
+*Dutch: [[verwelkomen]]
+*French: [[acueillir]]
 
 
 ==[[Adjective]]==
 
 ===Translations===
-
+*Dutch: [[welkom]]
 *French: [[bienvenu]]
 *Spanish: [[bienvenido]]
 
