@@ -6,3 +6,4 @@
 
 ==Translations==
 *[[Dutch]]: [[afgekort]]
+*[[Swedish]]: [[förkortad]]
