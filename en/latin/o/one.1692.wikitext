@@ -14,5 +14,6 @@ Used to refer indefinitely to a person. But ''one'' may find other uses.
 *French: [[un]], [[une]]
 *Frisian: [[ien]]
 *German: [[ein]]
+*Icelandic: [[einn]], [[ein]],[[eitt]], masc, fem, neuter.
 *Lojban: [[pa]]
 *Swedish: [[ett]], [[en]]
