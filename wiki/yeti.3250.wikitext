@@ -1,4 +1,7 @@
-===Noun===
+==Noun==
+===etymology===
+From Tibetan
+===meanings===
 #An unidentified manlike or apelike animal said to exist in the Himalayas.
 #:'''synonyms'''
 #:*[[Abominable Snowman]]
