@@ -1,0 +1,4 @@
+''noun'' '''(Swedish)'''
+
+# The 24 hour period stretching from midnight to midnight. 
+# A measurement of time, equaling 24 hours.
