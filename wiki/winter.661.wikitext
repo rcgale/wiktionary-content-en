@@ -16,6 +16,7 @@ Plural: winters
 #:*[[Frisian]]: winter (on this page)
 #:*[[German]]: Winter (on this page)
 #:*[[Hebrew]]: [[חורף]] (KHO-ref)
+#:*[[Icelandic]]: [[vetur]]
 #:*[[Indonesian]]: [[musim dingin]]
 #:*[[Irish]]: [[Geimhreadh]]
 #:*[[Japanese]]: [[冬]] (ふゆ;huyu)
