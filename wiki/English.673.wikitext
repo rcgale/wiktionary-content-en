@@ -1,5 +1,5 @@
 (noun)
-# The English [[language]].
+# The [[language]] of [[England]].
 # People from [[England]].
 
 (adjective)
