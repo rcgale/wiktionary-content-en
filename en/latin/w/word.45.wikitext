@@ -15,6 +15,7 @@
 *Hungarian: [[szó]]
 *Interlingua: '''1~4''' [[parola]], '''1''' [[vocabulo]], '''4''' [[verbo]]
 *Korean: '''1''' [[낱말]] (natmal), [[단어]] (daneo) '''2''' [[말]] (mal)
+*Spanish: [[palabra]]
 *Swedish: [[ord]]
 *Portuguese: '''1~4''' [[palavra]], '''1''' [[vocábulo]], '''4''' [[verbo]]
 *Yiddish: [[װאָרט]]
