@@ -1,9 +1,13 @@
-/[[Pronunciation guide|friː]]/
+/[[Pronunciation guide|friː]]/, ''relative pronoun'' '''(en)'''
 
-1. Not imprisoned or enslaved. ''a free [[man]]''
+# Not [[imprisoned]] or [[enslaved]]. ''a free [[man]]''
+# Obtainable without [[payment]]. ''free of [[charge]]''
+# Unconstrained. ''he was given free [[reign]] over the [[country]]''
+# Unobstructed, without [[blockage|blockages]]. ''the [[drain]] was free''
+# Without [[obligation]]s. ''free [[time]]''
 
-2. Obtainable without [[payment]]. ''free of [[charge]]''
+==Translations==
 
-3. Unconstrained. ''he was given free [[reign]] over the [[country]]''
-
-4. Unobstructed, without [[blockage|blockages]]. ''the [[drain]] was free''
+*de: [[frei]], [[umsonst]] (2)
+*fr: [[libre]]
+*nl: [[vrij]] (not 2), [[gratis]] (2)
