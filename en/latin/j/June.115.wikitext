@@ -5,6 +5,7 @@
 ==Translations==
 *de: [[Juni]]
 *es: [[junio]]
+*eu: [[ekain]]
 *fr: [[juin]]
 *mi: [[hune]]
 *nl: [[juni]]
