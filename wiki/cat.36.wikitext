@@ -15,6 +15,7 @@
 
 '''Translations'''
 
+*de: Katze
 *es: gato
 *fr: chat
 *nl: kat
