@@ -1,4 +1,3 @@
 Abbreviation for
 *Комитет Государственной Безопастности(Komitet Gosudarstvennoy Bezopasnosti), Committee of State Security, [[USSR]].
-*Kapitulnik Geballe Beasley
 *Known Good Board
