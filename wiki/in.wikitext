@@ -14,4 +14,5 @@
 
 * English: in (on this page)
 * es: [[en]]
+* is: [[í]]
 * Lojban: [[nenri]]
