@@ -8,11 +8,18 @@
 ===Translations===
 *[[Dutch]]: [[nul]]
 *[[French]]: [[zéro]]
+*[[Swedish]]: [[nolla]] (1, 2)
 
 ==[[Adjective]]==
 
 # Not there; nonexistent; of quantity zero. ''I need help explaining this.''
 
+===Translations===
+*[[Swedish]]: [[noll]]
+
 ==[[Verb]]==
 
 # To [[set]] to zero.
+
+===Translations===
+*[[Swedish]]: [[nolla]], [[nollställa]]
