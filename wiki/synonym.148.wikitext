@@ -1,0 +1,5 @@
+A synonyms of a word is a word that means nearly the same thing. Note a word may have various synonyms.
+
+
+'''Exemples'''
+*
