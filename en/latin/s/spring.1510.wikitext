@@ -8,5 +8,6 @@
 *es: [[primavera]] (1)
 *eu: [[udaherri]] (1)
 *fr: [[printemps]] (1)
+*nl: [[lente]] (1), [[bron]] (2), [[veer]] (3)
 *pl: [[wiosna]] (1)
 *sq: [[pranverë]] (1)
