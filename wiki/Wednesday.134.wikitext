@@ -9,3 +9,4 @@
 *nl: [[woensdag]]
 *pl: [[środa]]
 *pt: [[quarta-feira]]
+*sq: [[e mërkurë]]
