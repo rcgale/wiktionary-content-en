@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Eastern Africa. Official name: Republic of Kenya.
+#:'''Translations'''
+#:*[[Chinese]]: [[肯尼亚]]
+#:*[[Danish]]: Kenya
+#:*[[Dutch]]: [[Kenia]], Kenya
+#:*[[Esperanto]]: [[Kenjo]]
+#:*[[Finnish]]: [[Kenia]]
+#:*[[French]]: Kenya
+#:*[[German]]: [[Kenia]]
+#:*[[Greek]]: [[Κένυα]]
+#:*[[Interlingua]]: Kenya
+#:*[[Italian]]: Kenya
+#:*[[Polish]]: [[Kenia]]
+#:*[[Portuguese]]: [[Quénia]]
+#:*[[Russian]]: [[Кения]]
+#:*[[Spanish]]: [[Kenia]]
+#:*[[Swedish]]: Kenya
+
+''See'': [[Countries of the world]]
