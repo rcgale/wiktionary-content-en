@@ -4,6 +4,7 @@
 
 ===Translations===
 #:*[[Dutch]]: [[besturingssysteem]]
+#:*[[Finnish]]: [[käyttöjärjestelmä]]
 #:*[[French]]: [[système d'exploitation]]
 #:*[[German]]: [[Betriebssystem]]
 #:*[[Icelandic]]: [[stýrikerfi]]
