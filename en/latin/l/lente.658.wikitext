@@ -1,6 +1,6 @@
 ==Dutch==
 ===Noun===
-#'len-te /lent@/, ''masculine and feminine'', ''plural'' -s /-s/,  Traditionally the first of the four [[season]]s, normally from [[March]] 21 to [[June]] 20
+#'len-te /lent@/, ''masculine and feminine'', ''plural'' -s /-s/,  Traditionally the first of the four [[season]]s, typically regarded as being from [[March]] 21 to [[June]] 20 in Northern [[Hemisphere]] regions and from [[September]] 21 to [[December]] 20 in Southern Hemisphere regions.
 ====Translation====
 *[[English]]: [[Spring]]
 *[[French]]: [[Printemps]]
