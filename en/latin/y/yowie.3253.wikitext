@@ -1,0 +1,8 @@
+===noun===
+====etymology====
+From Aboriginal '''Yuwaalaraay yuwi''', meaning "dream spirit".
+
+#An unidentified yeti-like animal said to exist in parts of Australia.
+#:'''translations'''
+#:*
+#:'''related words:''' [[Abominable Snowman]], [[Bigfoot]], [[Sasquatch]], [[yeti]]
