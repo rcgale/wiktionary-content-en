@@ -23,7 +23,7 @@
 *[[Georgian]]: [[არწივი]] (needs to be checked by speaker)
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
 *[[Greek]]: [[Aετός]]
-*[[Hebrew]]: [[עיט]]
+*[[Hebrew]]: [[עיט]] (also נשר commonly)
 *[[Hungarian]]: [[Sas]] 
 *[[Icelandic]]: [[Örn]]
 *[[Italian]]: [[Aquila]], [[Àquila]]
