@@ -1,0 +1,14 @@
+'''Van''' /van/ (Dutch)
+
+# ''prepostition'' expressing possession
+
+=== Examples ===
+
+''De hoed van het meisje'': the hat of the girl.
+
+=== Translations ===
+
+* de: [[von]]
+* en: [[of]], [[from]]
+* es: [[de]]
+* fr: [[de]]
