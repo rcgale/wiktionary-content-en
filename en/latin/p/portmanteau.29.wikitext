@@ -10,7 +10,7 @@ Plural, portmanteaus, portmanteaux
 #*: Then Little John took the bishop's cloak, And spread it upon the ground, And out of the bishop's portmantua, He told three hundred pound.
 #* '''1667''' - Charles Croke, ''Fortune's Uncertainty''
 #*: Rodolphus therefore finding such an earnest Invitation, embrac'd it with thanks, and with his Servant and Portmanteau, went to Don Juan's; where they first found good Stabling for their Horses, and afterwards as good Provision for themselves.
-Used as an ''[[adjective]]''
+Used as an ''[[adjective]]'' in compound words
 
 # A work produced by several people.
 #*'''2002''' - Nicholas Lezard, ''Spooky tales by the master and friends'' in ''The Guardian'' (London) (December 14, 2002) Page 30.
