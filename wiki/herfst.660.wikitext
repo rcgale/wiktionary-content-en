@@ -1,7 +1,19 @@
-===Meanings===
-'''nl:''' Traditionally the third of the four [[season]]s, normally from [[September]] 21 to [[December]] 20.
+'''herfst'''
 
-===Translations===
+== Dutch == 
+
+/hERfst/
+
+''noun'', ''plural'' -en /-@n/, traditionally the third of the four [[season]]s, normally on the northern hemisphere from [[September]] 21 to [[December]] 20; [[autumn]], [[fall]].
+
+=== Usage ===
+
+The made-up compound noun ''herfstschrik'' (/hERfstsxRIk/, fear of fall?) is used to demonstrate the bewildering number of consonants that can be strung together in Dutch. In practice, a speaker of Dutch will drop a few of these in pronunciation to something like /hERfsxRIk/, although it is possible to pronounce all consonants.
+
+See also: [[Dutch compound words]]
+
+=== Translations ===
+
 *en: [[autumn]], [[fall]]
 *es: [[otoño]]
 *fr: [[automne]]
