@@ -1,0 +1,5 @@
+[[abbreviation]]
+
+Universal Product Code
+
+A [[barcode]] [[symbology]] used on retail products, encoding 12 [[digit]]s using seven bits for each in its main variant, UPC-A, and differing slightly from [[EAN]].
