@@ -7,5 +7,6 @@
 *French: [[chemin de fer]]
 *Frisian: [[spoarwei]]
 *German: [[Eisenbahn]]
+*Hebrew: [[רכבת]]
 *Portuguese: [[ferrovia]], [[estrada de ferro]]
 *Swedish: [[järnväg]]
