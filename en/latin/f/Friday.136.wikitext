@@ -3,6 +3,7 @@
 #The fifth day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
+*az: [[cüm&#601;]]
 *Blackfoot: [[Mamiiksistsiko]]
 *de: [[Freitag]]
 *eo: [[vendredo]]
