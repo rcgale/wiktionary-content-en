@@ -8,3 +8,4 @@
 *nl: [[vlees]]
 *fr: [[viande]]
 *fy: [[fleis]]
+*is: [[kjöt]],
