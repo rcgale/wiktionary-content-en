@@ -1,5 +1,12 @@
 ==[[Noun]]==
 
+Usage Examples
+'work of art'
+'he worked hard'
+'go to work'
+
+[[Synonym]]s [[labour]], [[occupation]], [[job]]
+
 ===Translations===
 
 *Dutch: [[werk]]
@@ -12,5 +19,5 @@
 *Finnish: [[työ]]
 *French: [[travailler]]
 *German: [[arbeiten]]
-*Hebrew: [[לעבוד]]
+*Hebrew: [[?????]]
 *Spanish: [[trabajar]]
