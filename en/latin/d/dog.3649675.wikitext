@@ -3,7 +3,7 @@ Thesaurus: [[Thesaurus:Dog|Dog]]
 [Dog] \Dog\dôg\
 
 ''[[noun]].''
-# A member of the genus [[Canis]] (probably descended from the common [[wolf]]) that has been [[domesticated]] by man since prehistoric times; occurs in many breeds; "the dog barked all night" ''Usage Note'': The word dog can be used to refer exclusively to the male of the genus, the feminine form being [[bitch]]. [''syn:'' [[domestic dog]], [[Canis familiaris]]], [[hound]] ''Translations'': da: [[hund]], de: [[Hund]], eo: [[hundo]], et: [[koer]], es: [[perro]], fr: [[chien]], he: [[כלב]], nl: [[hond]], no: [[hund]], pl: [[pies]], pt: [[cachorro]], sv: [[hund]]
+# A member of the genus [[Canis]] (probably descended from the common [[wolf]]) that has been [[domesticated]] by man since prehistoric times; occurs in many breeds; "the dog barked all night" ''Usage Note'': The word dog can be used to refer exclusively to the male of the genus, the feminine form being [[bitch]]. [''syn:'' [[domestic dog]], [[Canis familiaris]]], [[hound]] ''Translations'': da: [[hund]], de: [[Hund]], eo: [[hundo]], et: [[koer]], es: [[perro]], fr: [[chien]], he: [[כלב]], it: [[cane]], nl: [[hond]], no: [[hund]], pl: [[pies]], pt: [[cachorro]], ru: [[собака]], sk: [[pes]], sv: [[hund]]
 # A dull unattractive unpleasant [[girl]] or [[woman]]; "she got a reputation as a frump"; "she's a real dog" [syn: [[frump]]]
 # Informal term for a [[man]]: "you lucky dog"
 # Pejorative term for someone who is morally reprehensible; "you dirty dog" [syn: [[cad]], [[bounder]], [[blackguard]], [[hound]], [[heel]]]
@@ -31,7 +31,11 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 ==Translation==
 
 *Chinese: [[&#29356;]]
+*French: chien
 *Hebrew: כלב
+*Italian: cane
+*Russian: собака
+*Slovak: pes
 *Yiddish: [[הונט]]
 
 == Further reading ==
