@@ -8,3 +8,4 @@
 *Lojban: [[pami]]
 *nl: [[ik]]
 *is: [[ég]]
+*hi: [[मैं]](mai.n)
