@@ -1,3 +1,7 @@
+==noun==
+
+plural ''[[Roman numerals]]''
+
 # A [[letter]] that represents a number:
 :* I: 1
 :* V: 5
