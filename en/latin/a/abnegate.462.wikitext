@@ -1,0 +1,3 @@
+'''Abnegate''', ''[[transitive verb (part of speech)|transitive verb]]'' [''[[imp. (part of speech)|imp.]] & [[past participle (part of speech)|past participle]]'' [[Abnegated]]; ''[[present participle (part of speech)|present participle]] & [[vb. n. (part of speech)|vb. n.]]'' [[Abnegating]].] [L. ''abnegatus'',p. p. of ''abnegare''; ''ab'' + ''negare'' to deny. See [[Deny]].]
+
+To deny and reject; to [[abjure]]. ''[[Sir E. Sandys. Farrar (source)|Sir E. Sandys. Farrar]].''
