@@ -9,6 +9,7 @@ From Old English ''acord'', ''accord'', ''acorden'', ''accorden'', through Old F
 #:'''Translations'''
 #:*French: [[entente]]
 #:*German: [[Übereinstimmung]]
+#:*Hebrew: [[הסכם]]
 #:*Interlingua: [[accordo]]
 #:*Italian: [[accordo]]
 #:*Portuguese: [[acordo]] 
