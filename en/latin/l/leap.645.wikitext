@@ -1,26 +1,26 @@
-==Definition==
-;'''Leap''' (''[[verb]]'')
-: To jump from one location to another.
-;'''Leapt''' or '''leaped'''
-: Past tense and past participle of Leap.
-==Alternative spellings==
+===Alternative spellings===
 ;'''Leap'''
 :Leep, leape.
 ;'''Leapt'''
-:Leapped, lept.
-==Pronounciation==
+:Leapped, lept. 
+===Etymology===
+;'''Leap'''
+: From old english [[hlýp]]
+;'''Leapt'''
+: Unknown, probable alternate spelling of Leaped (from Leap and suffix -ed). 
+===Pronounciation===
 ;'''Leap'''
 : IPA:/li&#720;p/
 ;'''Leaped'''
 : IPA:/li&#720;pd
 ;'''Leapt'''
-: IPA:/l&#603;t/
-==Etymology==
-;'''Leap'''
-: From old english [[hlýp]]
-;'''Leapt'''
-: Unknown, probable alternate spelling of Leaped (from Leap and suffix -ed).
-==Quotations==
+: IPA:/l&#603;t/ 
+===Definition===
+;'''Leap''' (''[[verb]]'')
+: To jump from one location to another.
+;'''Leapt''' or '''leaped'''
+: Past tense and past participle of Leap.
+===Quotations===
 ;'''Leap'''
 * '''c. 1450''' - anon, ''Merlin''.
 *: It is grete nede a man to go bak to recouer the better his leep.
@@ -35,10 +35,10 @@
 *:Leapt from his throne, lest Neptune's arm should lay
 *:His dark dominions open to the day; 
 
-==Derived words==
+===Derived words===
 ;'''Leap'''
 : [[Leapfrog]], [[Leap-year]].
-==Synoyms==
+===Synoyms===
 ;'''Leap'''
 : [[Jump]].
 ;'''Leapt'''
