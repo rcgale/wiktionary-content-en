@@ -5,4 +5,5 @@
 ==Translations==
 
 *de: [[Jahrtausend]]
+*fi: [[vuosituhat]]
 *fr: [[millénaire]]
