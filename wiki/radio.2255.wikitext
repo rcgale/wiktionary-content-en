@@ -5,6 +5,7 @@
 
 ===Translations===
 *French: radio
-
+*German: Radio
+*Hebrew: [[רדיו]]
 ===Related words===
 *[[radio transceiver]]
