@@ -6,6 +6,7 @@ Old English ''twa'', from Germanic ''*twai'', ''*two'', from PIE ''*dwô''. Cogn
 # The ordinality of an element whose predecessor is [[first]]; usually called [[second]] but sometimes ''number two''.
 
 == Translations ==
+*fi: [[kaksi]]
 *Lojban: [[re]]
 *pt: [[dois]]
 *sp: [[dos]]
