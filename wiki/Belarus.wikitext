@@ -12,6 +12,7 @@
 #:*[[German]]: Belarus
 #:*[[Greek]]: [[Λευκορωσία]]
 #:*[[Italian]]: [[Bielorussia]]
+#:*[[Lithuanian]]: [[Baltarusija]]
 #:*[[Polish]]: [[Białoruś]]
 #:*[[Portuguese]]: [[Bielorrússia]]
 #:*[[Russian]]: [[Беларусь]]
