@@ -1,6 +1,7 @@
 ===[[noun]]===
 # A period of [[ten]] [[year]]s.
-#:'''Translations'''
-#:*Dutch: [[decennium]]
-#:*French: [[décennie]]
-#:*German: [[Jahrzehnt]], [[Dekade]]
+'''Translations'''
+*Dutch: [[decennium]]
+*[[Finnish]]: [[vuosikymmen]]
+*French: [[décennie]]
+*German: [[Jahrzehnt]], [[Dekade]]
