@@ -1,0 +1,14 @@
+===English===
+
+===Etymology===
+From the Frencg word Brassire
+
+1)A piece of underwear worn by women to support the breasts
+
+===Translations===
+*[[French]]: [[Soutien-gouge]]
+
+----
+===French===
+
+1)A childs vest.
