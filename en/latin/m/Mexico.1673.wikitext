@@ -1,22 +1,24 @@
+===English===
 '''[[Proper noun]]'''
 
 # A [[country]] in the Western Hemisphere.
+#:'''Translations'''
+#:*[[Dutch]]: Mexico
+#:*[[French]]: [[Mexique]]
+#:*[[German]]: [[Mexiko]]
+
 # The capital of Mexico. Synonyms : Mexico city.
+#:'''Translations'''
+#:*[[Dutch]]: Mexico
+#:*[[French]]: Mexico
 
 == Further reading ==
 
 * Wikipedia article on [[w:Mexico|Mexico]]
 
-----
-French
+===Dutch===
+# A country in the Western Hemisphere.
+# The capital of Mexico
 
-# The capital of Mexico, a country nearby the United States.
-
-'''Notes'''
-
-* Mexico is only used for the city, the country has a different name ([[Mexique]])
-
-----
-German
-
-#Mexiko: A country in the Western Hemisphere.
+===French===
+# The capital of Mexico, a country south of the United States
