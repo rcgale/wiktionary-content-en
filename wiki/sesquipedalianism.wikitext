@@ -4,9 +4,10 @@
 ''[[noun]].''
 # The [[practice]] of using [[long]], sometimes [[difficult]] [[word|words]] in [[speech]] or [[writing]].
 
-==Example of Usage==
+==Examples of Usage==
 *'''1995''' - Michael Cart, ''From Romance to Realism'', page 257, ISBN 0060242892
 *: His [[voice]] here is a marvelous [[juxtaposition]] of [[cool]] [[elegance]], unaffected [[hipness]], [[unabashed]] sesquipedalianism ("the rich [[bouquet]] of [[exude|exuded]] [[sebaciousness]]") and [[swell]] [[conversational]] [[slang]] (TV's "Warpo" [[effect|effects]]).
+*: There are [[audience|audiences]] for whom [[perfervid]] sesquipedalianism is [[transcendentally]] [[apt]]. [http://anitraweb.org/kalliope/simplicity.html]
 
 ==Related words==
 * [[sequi-]] [[prefix]]
