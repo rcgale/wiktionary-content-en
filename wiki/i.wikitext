@@ -1,6 +1,6 @@
 ===Pronoun===
 # The first person, '''I''' refers to the speaker. See also [[me]].
-#:'''Translations'''
+#:'''[[Translation]]s'''
 #:*Dutch: [[ik]]
 #:*German: [[ich]]
 #:*[[Esperanto]]: [[mi]]
