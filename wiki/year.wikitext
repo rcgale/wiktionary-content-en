@@ -6,6 +6,6 @@
 ==Translations==
 
 *de: [[Jahr]]
-*fr: [[année], [[an]]
+*fr: [[année]], [[an]]
 *fy: [[jier]]
 *nl: [[jaar]]
