@@ -5,5 +5,9 @@
 # Country in Northern Africa.
 #:'''Translations'''
 #:*[[Dutch]]: [[Libië]]
+#:*[[French]]: [[Libye]]
+#:*[[German]]: [[Libyen]]
+#:*[[Polish]]: [[Libia]]
+#:*[[Spanish]]: [[Libia]]
 
 ''See:'' [[Countries of the world]]
