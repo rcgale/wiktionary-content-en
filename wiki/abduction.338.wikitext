@@ -1,4 +1,8 @@
-'''Abduction''', ''[[noun (part of speech)|noun]]'' [L. ''abductio'': cf. F. ''abduction''.]
+==[[Noun]]==
+
+===Etymology==
+
+[[Latin]] ''abductio'': cf. F. ''abduction''.
 
 <ol>
 <li>The act of [[abducing]] or [[abducting]]; a drawing apart; a carrying away. ''[[Roget (source)|Roget]].''
@@ -10,4 +14,11 @@
 <li> ''(Logic)'' A [[syllogism]] or form of argument in which the [[major]] is [[evident]], but the minor is only [[probable]].
 </ol>
 
-<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Abduction]]<BR>• [[German]]: [[Abduktion]], [[Abtreibung]]<BR>• [[Interlingua]]: [[Abduction]]<BR>• [[Italian]]: [[Abduzione]]<BR>• [[Portuguese]]: [[]]<BR>• [[Spanish]]: [[Abducción]]<BR>• [[]]: [[]]
+<HR> <P> <H3>Translations</H3>
+
+*[[French]]: [[Abduction]]
+*[[German]]: [[Abduktion]] [[Abtreibung]]
+*[[Interlingua]]: [[Abduction]]
+*[[Italian]]: [[Abduzione]]
+*[[Portuguese]]: [[]]
+*[[Spanish]]: [[Abducción]]
