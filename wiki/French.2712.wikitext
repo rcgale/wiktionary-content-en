@@ -9,10 +9,11 @@ From Middle English, from Old English <em>frencisc</em>=Frankish, from <em>Franc
 #:'''Translations'''
 #:*Dutch: [[Frans]]
 #:*French: [[français]] 
+#:*Swedish: [[franska]] (even a sort of [[bread]])
 # People from [[France]].
 #:'''Translations'''
 #:*Dutch: [[Fransman]] (masculine), [[Franse]] or [[Française]] (feminine)
-
+#:*Swedsig: [[fransman]] (masculine), [[fransyska]] (feminine)
 ===Adjective===
 # Of or pertaining to France.
 #:'''Translations'''
