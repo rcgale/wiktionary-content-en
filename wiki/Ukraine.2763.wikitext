@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Europe. Official name: Ukraine.
+#:'''Translations'''
+#:*[[Chinese]]: [[乌克兰]]
+#:*[[Danish]]: Ukraine
+#:*[[Dutch]]: [[Oekraïne]]
+#:*[[Esperanto]]: [[Ukrainio]], [[Ukrainujo]], [[Ukrajno]]
+#:*[[Finnish]]: [[Ukraina]]
+#:*[[French]]: Ukraine
+#:*[[German]]: Ukraine
+#:*[[Greek]]: [[Ουκρανία]]
+#:*[[Italian]]: [[Ucraina]]
+#:*[[Polish]]: [[Ukraina]]
+#:*[[Portuguese]]: [[Ucrânia]]
+#:*[[Russian]]: [[Украина]]
+#:*[[Spanish]]: [[Ucrania]]
+#:*[[Swedish]]: [[Ukraina]]
+
+''See'': [[Countries of the world]]
