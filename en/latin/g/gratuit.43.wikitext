@@ -2,7 +2,7 @@
 
 '''(fr)''': [[free]] (2) of charge
 
-'''(nl)''': [[gratuitous]]
+'''(nl)''': [[gratuitous]], not obliged to
 
 ==Etymology==
 
