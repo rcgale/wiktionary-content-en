@@ -1,18 +1,30 @@
 ===English===
 '''[[Proper noun]]'''
 
-# A [[country]] in the Western Hemisphere.
+# Country in North America. Official name: United Mexican States.
 #:'''Translations'''
+#:*[[Chinese]]: [[墨西哥]]
+#:*[[Danish]]: Mexico
 #:*[[Dutch]]: Mexico
+#:*[[Esperanto]]: [[Meksiko]], [[Meksikio]]
+#:*[[Finnish]]: [[Meksiko]]
 #:*[[French]]: [[Mexique]]
-#:*[[German]]: [[Mexiko]]
+#:*[[German]]: Mexiko
+#:*[[Greek]]: [[Μεξικό]]
+#:*[[Interlingua]]: Mexico
+#:*[[Italian]]: [[Messico]]
 #:*[[Polish]]: [[Meksyk]]
-
+#:*[[Portuguese]]: [[México]]
+#:*[[Russian]]: [[Мексика]]
+#:*[[Spanish]]: [[México]]
+#:*[[Swedish]]: Mexiko
 # The capital of Mexico. Synonyms : Mexico city.
 #:'''Translations'''
 #:*[[Dutch]]: Mexico
 #:*[[French]]: Mexico
 #:*[[Polish]]: [[Meksyk]]
+
+''See'': [[Countries of the world]]
 
 == Further reading ==
 
