@@ -1,0 +1,3 @@
+'''Abdication''', ''[[noun (part of speech)|noun]]'' [L. ''abdicatio'': cf. F. ''abdication''.]
+
+The act of [[abdicating]]; the [[renunciation]] of a high office, dignity, or trust, by its [[holder]]; commonly the voluntary renunciation of sovereign power; as, ''abdication'' of the throne, government, power, authority.
