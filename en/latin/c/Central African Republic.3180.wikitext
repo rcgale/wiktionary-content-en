@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Central Africa. Official name: Central African Republic.
+#:'''Translations'''
+#:*[[Danish]]: [[Centralafrikanske Republik]]
+#:*[[Dutch]]: [[Centraal-Afrikaanse Republiek]]
+#:*[[Esperanto]]: [[Centr-Afrika Respubliko]], [[Centrafriko]]
+#:*[[Finnish]]: [[Keski-Afrikan tasavalta]]
+#:*[[French]]: [[République centrafricaine]]
+#:*[[German]]: [[Zentralafrikanische Republik]]
+#:*[[Greek]]: [[Κεντροαφρικανική Δημοκρατία]]
+#:*[[Interlingua]]: [[Republica Centroafrican]]
+#:*[[Italian]]: [[Repubblica Centrafricana]]
+#:*[[Polish]]: [[Republika Środkowoafrykańska]]
+#:*[[Portuguese]]: [[República Centro-Africana]]
+#:*[[Russian]]: [[Центрально-африканская Республика]]
+#:*[[Spanish]]: [[República Centroafricana]]
+#:*[[Swedish]]: [[Centralafrikanska republiken]]
+
+''See'': [[Countries of the world]]
