@@ -1,6 +1,8 @@
-[[noun]]
+'''Sunday''' /sVndei/
 
-#The seventh day of the [[week]] (according to the ISO 8601 norm).
+==[[noun]]==
+
+#The seventh day of the [[week]] (according to the ISO 8601 norm). It is the [[sabbath]] for most [[Christian]]s.
 
 ==Translations==
 *az: [[bazar]]
