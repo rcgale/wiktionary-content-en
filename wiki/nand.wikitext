@@ -2,6 +2,11 @@
 '''NAND'''
 #Logic function not AND. Inverse of AND function.
 
+(0 NAND 0) = 1<br>
+(0 NAND 1) = 1<br>
+(1 NAND 0) = 1<br>
+(1 NAND 1) = 0<br>
+
 ====Translation====
 
 *Finnish: [[EI-JA]]
