@@ -1,0 +1,1 @@
+(adjective) a measurement expressed not in terms of numbers, but rather by means of a natural language description. The opposite (measured in terms of numbers, not natural language descriptions) is quantitative. For example, "She is very tall" is a qualitative description, while "She was 190 cm tall" is a quantitative description.
