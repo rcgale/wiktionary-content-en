@@ -6,6 +6,9 @@
 
 ==Related words==
 * [[proper noun]]
+* [[count noun]]
+* [[mass noun]]
+
 == Further Reading ==
 * [[w:noun|Wikipedia article on noun]]
 * [[w:Part of speech|Wikipedia article on parts of speech]]
