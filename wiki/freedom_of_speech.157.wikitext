@@ -7,3 +7,4 @@ Freedom of speech
 *nl: [[vrijheid van meningsuiting]]
 *no: [[ytringsfrihet]]
 *se: [[yttrandefrihet]]
+*pt: [[liberdade de expressão]]
