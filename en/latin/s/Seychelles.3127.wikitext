@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Eastern Africa. Official name: Republic of Seychelles.
+#:'''Translations'''
+#:*[[Danish]]: [[Seychellerne]]
+#:*[[Dutch]]: [[Seychellen]]
+#:*[[Esperanto]]: [[Sejŝeloj]]
+#:*[[Finnish]]: [[Seychellit]]
+#:*[[French]]: Seychelles
+#:*[[German]]: [[Seychellen]]
+#:*[[Greek]]: [[Σεϋχέλλες]]
+#:*[[Interlingua]]: Seychelles
+#:*[[Italian]]: [[Seicelle]]
+#:*[[Polish]]: [[Seszele]]
+#:*[[Portuguese]]: [[Seicheles]]
+#:*[[Russian]]: [[Сейшелы]]
+#:*[[Spanish]]: Seychelles
+#:*[[Swedish]]: [[Seychellerna]]
+
+''See'': [[Countries of the world]]
