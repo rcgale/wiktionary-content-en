@@ -9,5 +9,6 @@
 *fr: [[hiver]]
 *he: [[חורף]]
 *nl: [[winter]]
+*pt: [[inverno]]
 *sq: [[dinër]]
 *yi: [[װינטער]]
