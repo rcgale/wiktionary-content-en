@@ -1,0 +1,9 @@
+Acclimatize, <i>[[Verb]]</i>, ''to get used to a new climate''. 
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Acclimater]]
+<BR>• [[German]]: [[Akklimatisieren sich]]
+<BR>• [[Interlingua]]: [[Acclimatar se]]
+<BR>• [[Italian]]: [[Acclimatare]]
+<BR>• [[Portuguese]]: [[Aclimatar]]
+<BR>• [[Spanish]]: [[Aclimatarse]]
+<BR>
