@@ -32,8 +32,11 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 
 *Chinese: [[&#29356;]]
 *French: chien
+*Frisian: hûn
 *Hebrew: כלב
+*Inuktitut: qimmiq
 *Italian: cane
+*Maori: kurii
 *Russian: собака
 *Slovak: pes
 *Yiddish: [[הונט]]
