@@ -17,6 +17,7 @@
 *nl: [[donderdag]]
 *pl: [[czwartek]]
 *pt: [[quinta-feira]]
+*[[Ruanda]]: [[Kwakane]]
 *[[Serbian]]: [[четвртак]]
 *[[Slovak]]: [[štvrtok]]
 *[[Somali]]: [[Khamiis]]
