@@ -1,0 +1,9 @@
+===Etymology===
+Scots Gaelic
+
+===Pronunciation===
+
+===Noun===
+#One of two ancient divination methods of the Highland Scots.
+##The oracle of the hide in which a person was sewn into the hide of a freshly killed ox, and placed beside a waterfall.  This would enable him to forsee the results of an impending battle.  From Sir Walter Scott, ''The Lady of the Lake''.
+##In which cats were roast alive to call up the spirit of the demon cat who would grant the wishes of the torturers.  Described in detail in the ''London Literary Gazette'' for March 1824.
