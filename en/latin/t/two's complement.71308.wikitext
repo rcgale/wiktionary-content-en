@@ -6,9 +6,12 @@
 # {{computing}} The number obtained by [[complement]]ing every [[bit]] of a given number and adding one.  A number and its complement add to 2<sup>n</sup>, where ''n'' is the word size of the machine.
 #: ''The ones complement of 0xAAAA is 0x5556 on a 16-bit machine, and 0xFFFF5556 on a 32-bit machine.''
 # {{computing}} The convention by which bit patterns with [[high bit]] 0 represent positive numbers from 0 to <math>2^{n-1} - 1</math> directly, while bit patterns with high bit 1 represent negative numbers from -1 to <math>-2^{n - 1}</math>, ''n'' being the [[word size]] of the machine, and the [[numeric complement]] of a number is its twos complement.
-#: ''Nearly all modern computers use twos complement.''
+#: ''Nearly all modern computers use twos complement for integer arithmetic.''
 
-===Related Terms===
+===Related terms===
 * [[complement]]
 * [[numeric complement]]
 * [[ones complement]]
+
+===See also===
+* [[signed magnitude]]
