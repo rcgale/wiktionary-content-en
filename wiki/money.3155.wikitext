@@ -7,7 +7,7 @@
 *[[Finnish]]: [[raha]]
 *[[French]]: [[argent]]
 *[[German]]: [[Geld]]
-*[[Interlingua]]: [[moneta]]
+*[[Interlingua]]: [[moneta]], [[pecunia]], [[denario]]
 *[[Japanese]]: [[お金]] (おかね;okane)
 *[[Korean]]: [[돈]] (don)
 *[[Portuguese]]: [[dinheiro]]
