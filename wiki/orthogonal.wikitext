@@ -2,12 +2,14 @@
 
 ===Adjective===
 '''orthogonal'''
-
+# (''geometry'') Of, or relating to [[right angle]]s
 # (''geometry'') [[Perpendicular]] to.
 #: ''A chord and the radius that bisects it are orthogonal.'
-# (''mathematics'') Linearly independent.  Having a zero [[inner product]].
+# (''mathematics'') Of two [[functions]], linearly independent; having a zero [[inner product]].
 #: ''The normal vector and tangent vector at a given point are orthogonal.''
-# (''statistics'') Statistically independent.
+# (''mathematics'') Of a [[square]] [[matrix]] that is the [[inverse]] of its [[transpose]]
+# (''mathematics'') Of a [[linear]] [[transformation]] that [[preserve]]s [[length]] and [[angle]]s
+# (''statistics'') Of a set of [[variable]]s, [[independent]] of each other
 # (''software engineering'') Able to be treated separately.
 #: ''The content of the message and the means of its delivery should be orthogonal.''
 
@@ -15,7 +17,7 @@
 In any of its senses, ''orthogonal'' may be used with ''to'', as in ''A chord is orthogonal to the radius that bisects it.''
 
 ===Relted Terms===
-*[[ortho]] <!-- Which will bring in things like orthodox, orthotic, orthodontist . . . -->
+*[[orthogonalization]]
 *[[orthogonal base]]
 *[[orthogonal matrix]]
 *[[orthogonal transform]]
