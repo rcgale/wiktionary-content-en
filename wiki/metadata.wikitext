@@ -1,0 +1,2 @@
+===Noun===
+#Information about other information, normally for the purpose of classification.
