@@ -10,7 +10,7 @@ Plural, portmanteaus, portmanteaux
 #* '''1667''' - Charles Croke, ''Fortune's Uncertainty'' - "Rodolphus therefore finding such an earnest Invitation, embrac'd it with thanks, and with his Servant and Portmanteau, went to Don Juan's; where they first found good Stabling for their Horses, and afterwards as good Provision for themselves."
 Used as an ''[[adjective]]''
 # ''[[linguistic terminology|Linguistics]]''  A word formed by combining parts of other words; for example, ''[[smoke]]'' and ''[[fog]]'' combine to form ''[[smog]].'' 
-#* '''1872''' -Lewis Carroll. ''The Hunting of the Snark'' Humpty Dumpty speaking 'Well, "slithy" means "lithe and slimy." "Lithe" is the same as "active." You see it's like a portmanteau--there are two meanings packed up into one word.'
+#* '''1872''' -Lewis Carroll. ''Alice Through the Looking Glass'' Humpty Dumpty speaking 'Well, "slithy" means "lithe and slimy." "Lithe" is the same as "active." You see it's like a portmanteau--there are two meanings packed up into one word.'
 #* '''1995''' -Michael Cart, ''From Romance to Realism'', page 110, ISBN 0060242892 '"[[Multiculturalism]]" is a portmanteau word, containing in its [[definition]] and its [[resonance|resonant]] [[connotation|connotations]] as many [[concept|concepts]] as a suitcase does socks'
 
 == Translations ==
