@@ -6,4 +6,5 @@
 *Dutch: [[voedsel]], [[eten]]
 *French: [[alimentation]], [[denrée alimentaire]] [[nourriture]]
 *Frisian: [[fiedsel]]
-*German: [[Nahrung]]
+*German: [[Nahrung]],[[Essen]]
+*Hebrew: [[אוכל]],[[מזון]]
