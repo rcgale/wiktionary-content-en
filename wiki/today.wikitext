@@ -7,7 +7,7 @@
 *es: [[hoy]]
 *fr: [[aujourdhui]]
 *he: היום
-*nl: [[vandaag]]
+*nl: [[vandaag]] (1, 2, 3), [[tegenwoordig]] (3)
 *pt: [[hoje]]
 *sv: [[idag]]
 
