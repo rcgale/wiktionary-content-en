@@ -14,7 +14,7 @@
 *Abbrev.: abbreviation.
 *Adj.: [[adjective]].
 *Adv.: [[adverb]].
-*Amer. : [[w:america]]
+*Amer. : [[w:america|America]]
 *ASTRONOM.: [[astronomy]]
 *BIOL, : [[biology]]
 *BOT. : [[botany]]
