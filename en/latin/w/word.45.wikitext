@@ -10,6 +10,7 @@
 *eo: [[vorto]]
 *fr: [[mot]], [[parole]]
 *he: [[מילה]]
+*hu: [[szó]]
 *nl: [[woord]]
 *sv: [[ord]]
 *yi: [[װאָרט]]
