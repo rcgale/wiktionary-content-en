@@ -10,6 +10,7 @@
 
 *[[Afrikaans]]: [[Arend]]
 *[[Albanian]]: [[Shkabë]] (needs to be checked by speaker)
+*[[Belarussian]]: [[Aroł]]
 *[[Bulgarian]]: [[Oрел]]
 *[[Chinese(Simplified)]]: [[老鹰]] (needs to be checked by speaker)
 *[[Chinese(Traditional)]]: [[老鷹]] (needs to be checked by speaker)
@@ -20,6 +21,8 @@
 *[[Finnish]]: [[Kotka]]
 *[[French]]: [[Aigle]] (1)
 *[[Frisian]]: [[Earn]]
+*[[Gaelic(Irish)]]: [[Iolar]] (needs to be checked by speaker)
+*[[Gaelic(Manx)]]: [[Urley]], [[Peesh Jeih Dollar]] (needs to be checked by speaker)
 *[[Georgian]]: [[არწივი]] (needs to be checked by speaker)
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
 *[[Greek]]: [[Aετός]]
