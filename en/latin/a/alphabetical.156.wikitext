@@ -1,1 +1,1 @@
-* freedom of speech
+* [[freedom of speech]]
