@@ -8,7 +8,7 @@
 
 ==Etymology==
 
-From Germanic <sup>*</sup>[[frijaz]], which derives from Indogerman <sup>*</sup>[[prei-]] ''to be fond of''.
+From Germanic *[[frijaz]], which derives from Indogerman *[[prei-]] ''to be fond of''.
 
 Related words: de [[frei]], nl [[vrij]]
 
