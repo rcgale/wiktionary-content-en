@@ -1,0 +1,1 @@
+Absorbent, <i>[[Adjective]]</i> <HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Absorbant]]<BR>• [[German]]: [[Saugfähig]]<BR>• [[Interlingua]]: [[Absorbente]]<BR>• [[Italian]]: [[Assorbente]]<BR>• [[Portuguese]]: [[Absorvente]]<BR>• [[Spanish]]: [[Absorbente]]<BR>
