@@ -12,12 +12,14 @@
 * en: [[of]], [[from]]
 * es: [[de]]
 * fr: [[de]]
+* he: [[של]] 
+* yi: [[פון]]
 
 ----
 
 [Van] /van/ (English)
 
-# A form of vechile that...
+# A form of vehicle that...
 
 === Examples ===
 
