@@ -11,7 +11,7 @@
 
 *[[Afrikaans]]: [[Arend]]
 *[[Albanian]]: [[Shkabë]] (needs to be checked by speaker)
-*[[Arabic]]: [[عُقَاب , نَسْر]] (needs to be checked by speaker)(Is the first letter a capital? is there one?)
+*[[Arabic]]: [[عُقَاب , نَسْر]] (needs to be checked by speaker)
 *[[Armenian]]: [[Արծիվ]]
 *[[Azeri]]: [[Qartal]]
 *[[Belarussian]]: [[Aroł]] 
