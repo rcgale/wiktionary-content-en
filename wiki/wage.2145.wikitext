@@ -1,0 +1,14 @@
+==[[noun]]==
+
+*The money you get for you work.
+
+===Synonyms===
+*salary
+
+===Translations===
+
+*French: [[salaire]]
+
+===Derivative words===
+
+*[[wage moderation]]
