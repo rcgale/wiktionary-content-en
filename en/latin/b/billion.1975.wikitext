@@ -3,7 +3,7 @@
 #''(Dated usage, notably British)'' A million millions or a 1 followed by twelve zeros, 10<sup>12</sup>.
 
 ===Etymology===
-[[bi]](two) + [[million]] = 2 millions = 1,000,000 + ,000,000 = 1,000,000,000,000.
+[[bi]](two) + [[million]] = million, million = 1,000,000 + ,000,000 = 1,000,000,000,000.
 
 ===Translations===
 * French : un [[milliard]]
