@@ -11,7 +11,7 @@
 * de: [[und]]
 * en: [[and]]
 * es: [[y]]
-* he: [[ו]] (added as a prefix, as in  ילד '''ו'''ילדה. i.e. "boy and girl")
+* he: [[ו]] (added as a prefix, as in  ילד וילדה. i.e. "boy and girl")
 * fr: [[et]]
 * yi: [[און]]
 
