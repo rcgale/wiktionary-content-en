@@ -5,6 +5,7 @@
 ==Translations==
 *de: [[Juli]]
 *es: [[julio]]
+*eu: [[uztail]]
 *fr: [[juillet]]
 *mi: [[hürae]]
 *nl: [[juli]]
