@@ -12,3 +12,4 @@
 *pl: [[środa]]
 *pt: [[quarta-feira]]
 *sq: [[e mërkurë]]
+*sv: [[onsdag]]
