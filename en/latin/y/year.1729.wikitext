@@ -5,6 +5,7 @@
 
 ==Translations==
 *[[Dutch]]: [[jaar]]
+*[[Finnish]]: [[vuosi]]
 *[[French]]: [[année]], [[an]]
 *[[Frisian]]: [[jier]]
 *[[German]]: [[Jahr]]
