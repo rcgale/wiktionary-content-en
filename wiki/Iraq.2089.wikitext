@@ -1,11 +1,24 @@
 ==English==
 
-# Country in the Middle East that borders on Iran, Kuwait, Saudi Arabia, Jordan, Syria and Turkey.
+'''proper noun'''
+
+# Country in the Middle East that borders on Iran, Kuwait, Saudi Arabia, Jordan, Syria and Turkey. Official name: Republic of Iraq.
 #:'''Translations'''
+#:*[[Chinese]]: [[伊拉克]]
+#:*[[Danish]]: [[Irak]]
 #:*[[Dutch]]: [[Irak]]
+#:*[[Esperanto]]: [[Irako]]
+#:*[[Finnish]]: [[Irak]]
 #:*[[French]]: [[Irak]]
 #:*[[German]]: [[Irak]]
+#:*[[Greek]]: [[Ιράκ]]
 #:*[[Hebrew]]: [[עיראק]]
+#:*[[Interlingua]]: Iraq
+#:*[[Italian]]: Iraq
 #:*[[Polish]]: [[Irak]]
+#:*[[Portuguese]]: [[Iraque]]
+#:*[[Russian]]: [[Ирак]]
+#:*[[Spanish]]: Iraq
+#:*[[Swedish]]: [[Irak]]
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
