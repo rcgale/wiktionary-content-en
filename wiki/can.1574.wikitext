@@ -1,5 +1,6 @@
 [Can] /______/
 
-1)Asking about the ability that something can be done. "Can I play football"
+1)Asking about the ability of something to be done. "Can I play football"
+2)A metal cylinder usally made from steel or aluminium, that contains drink or food.
 
 \\USAGE: ''please can someone write about the MAY\CAN issue''\\
