@@ -1,9 +1,8 @@
-==[[Noun]]==
-# allow to [[approach]]
+===Noun===
+# permission to [[approach]]
 # The means, place, or way by which a thing may be approached; passage way; as, the ''access'' is by a neck of [[land]].
 #:'''Quotations'''
 #:*All access was thronged. - [[Milton]] 
-#(law)the right of a [[non-custodial parent]] to visit their [[child]]
 #:'''Translations'''
 #:*[[French]]: [[accès]]
 #:*[[German]]: [[Zugriff]]
@@ -11,6 +10,7 @@
 #:*[[Italian]]: [[accesso]]
 #:*[[Portuguese]]: [[acesso]]
 #:*[[Spanish]]: [[acceso]]
+#''(law):'' the right of a [[non-custodial parent]] to visit their [[child]]
 ===Verb===
 #''(computing):'' to have ''access'' to [[data]]
 ===Related Words===
