@@ -3,6 +3,7 @@
 ===Translations===
 
 *[[Dutch]]: [[geld]]
+*[[Esperanto]]: [[mono]]
 *[[Finnish]]: [[raha]]
 *[[French]]: [[argent]]
 *[[German]]: [[Geld]]
@@ -12,4 +13,4 @@
 *[[Portuguese]]: [[dinheiro]]
 *[[Spanish]]: [[dinero]]
 *[[Swedish]]: [[pengar]]
-*[[Volapük]]]]: [[mon]]
+*[[Volapük]]: [[mon]]
