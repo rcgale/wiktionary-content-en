@@ -1,0 +1,3 @@
+Abbreviation for:
+
+*Operating System
