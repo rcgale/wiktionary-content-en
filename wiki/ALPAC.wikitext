@@ -1,0 +1,1 @@
+Abbreviation of [[Automatic Language Processing Advisory Committee ]]
