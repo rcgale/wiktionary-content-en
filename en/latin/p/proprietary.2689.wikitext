@@ -3,5 +3,5 @@
 === Translation ===
 
 *[[Interlingua]]: [[proprietari]]
-*[[Spanish]]: propietario
+*[[Spanish]]: [[propietario]]
 *[[Portuguese]]: [[proprietário]]
