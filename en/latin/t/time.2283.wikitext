@@ -3,7 +3,7 @@
 #time or an amount of time as measured by a conventional standard
 #
 
-===Translations===
+===[[Translation]]s===
 
 *Dutch: [[tijd]]
 *Esperanto:[[tempo]]
