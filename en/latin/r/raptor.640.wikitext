@@ -11,4 +11,6 @@ Latin raptor, meaning [[thief]].
 ==Translations==
 
 *de: [[Raubvogel]] (1), Raptor (2)
+*ia: [[ave]] de [[preda]] (1), raptor (2)
 *nl: [[roofvogel]] (1)
+*pt: [[ave]] de [[rapina]] (1), raptor (2)
