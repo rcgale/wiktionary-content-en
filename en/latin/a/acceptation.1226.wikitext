@@ -3,7 +3,7 @@ Derivative of [[accept]]
 ===Noun=== 
 #[[Acceptance]]; reception; favorable reception or regard; state of being [[acceptable]]. [Obsolete]
 #:'''Quotation'''
-#:*This is saying worthy of all ''acceptation''. - ''1 Timothy i. 15'' 
+#:*This is saying worthy of all ''acceptation''. - ''1 Timothy 1:15'' 
 #:*Some things ... are notwithstanding of so great dignity and ''acceptation'' with God. - [[Hooker]]. ??
 #The meaning in which a word or expression is [[understood]], or generally received; as, term is to be used according to its usual ''acceptation''.
 #:'''Quotation'''
