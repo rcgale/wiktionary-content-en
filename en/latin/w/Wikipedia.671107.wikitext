@@ -1,4 +1,12 @@
+proper name
+
 # An open-content [[encyclopedia]], collaboratively developed over the [[internet]]
+
+== Etymology ==
+A [[portmanteau]] of [[wiki]] and [[encyclopedia]].
+
+== Variants and translations ==
+French and Portuguese [[Wikipédia]], Esperanto [[Vikipedio]]
 
 == External link ==
 
