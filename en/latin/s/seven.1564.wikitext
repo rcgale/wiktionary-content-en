@@ -9,5 +9,6 @@ Describing a set or group with seven components. ''There are seven days in a wee
 
 '''Translations'''
 
-*French : sept
-*Spanish : siete
+*[[Dutch]]: [[zeven]]
+*[[French] : [[sept]]
+*[[Spanish]] : [[siete]]
