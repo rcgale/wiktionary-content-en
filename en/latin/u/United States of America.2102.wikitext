@@ -6,5 +6,5 @@
 #:*[[French]]: [[États-Unis d'Amérique]]
 #:*[[German]]: [[Vereinigte Staaten von Amerika]]
 #:*[[Hebrew]]: [[ארצות הברית]]
-
+#:*[[Spanish]]: [[Estados Unidos des América]]
 ''See:'' [[Countries of the world]]
