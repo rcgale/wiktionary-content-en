@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Group of islands in the north Atlantic Ocean between Scotland and Iceland; territory of Denmark.
+#:'''Translations'''
+#:*[[Danish]]: [[Færøerne]]
+#:*[[Faroese]]: [[Føroyar]]
+#:*[[Dutch]]: [[Faeröer]]
+#:*[[Esperanto]]: [[Faroaj Insuloj]], [[Ferooj]]
+#:*[[Finnish]]: [[Färsaaret]]
+#:*[[French]]: [[Iles Féroé]]
+#:*[[German]]: [[Färöer]]
+#:*[[Greek]]: [[Νήσοι Φερόες]]
+#:*[[Italian]]: [[Faerøerne]], [[Føroyar]]
+#:*[[Portuguese]]: [[Faroé]]
+#:*[[Russian]]: [[Фарерские острова]]
+#:*[[Spanish]]: [[Islas Feroe]]
+#:*[[Swedish]]: [[Färöarna]]
+
+''See'': [[Countries of the world]]
