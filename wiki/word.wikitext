@@ -4,6 +4,8 @@
 
 #(computers) A numerical value with a [[bit]] width native to the machine
 
+#(Theological) God @ http://www.ccel.org/bible/kjv/John/1.html
+
 ==Translations==
 *Danish: [[ord]]
 *Dutch: [[woord]]
