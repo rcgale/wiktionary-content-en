@@ -5,7 +5,7 @@
 # Country in South Asia. Official name: Kingdom of Bhutan.
 #:'''Translations'''
 #:*[[Chinese]]: [[不丹]]
-#:*[[Dannish]]: Bhutan
+#:*[[Danish]]: Bhutan
 #:*[[Dutch]]: Bhutan
 #:*[[Esperanto]]: [[Butano]]
 #:*[[Finnish]]: Bhutan
