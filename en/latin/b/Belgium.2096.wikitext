@@ -3,6 +3,7 @@
 # Country in Western Europe that has borders with [[The Netherlands]], [[Germany]], [[Luxemburg]] and [[France]].
 #:'''Translations'''
 #:*[[Dutch]]: [[België]]
+#:*[[Esperanto]]: [[Belgio]] 
 #:*[[French]]: [[Belgique]]
 #:*[[German]]: [[Belgien]]
 
