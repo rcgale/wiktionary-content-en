@@ -1,0 +1,5 @@
+German Abbreviation
+
+#Union der Sozialistischen Sowjet-Republiken
+#:'''Translations'''
+#:[[English]] [[USSR]]
