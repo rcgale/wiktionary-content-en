@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Central Asia. Official name: Republic of Uzbekistan.
+#:'''Translations'''
+#:*[[Chinese]]: Uzbekistan
+#:*[[Danish]]: [[Usbekistan]]
+#:*[[Dutch]]: [[Oezbekistan]]
+#:*[[Esperanto]]: [[Uzbekio]], [[Uzbekistano]]
+#:*[[Finnish]]: Uzbekistan
+#:*[[French]]: [[Ouzbékistan]]
+#:*[[German]]: [[Usbekistan]]
+#:*[[Greek]]: [[Ουζμπεκιστάν]]
+#:*[[Interlingua]]: Uzbekistan
+#:*[[Italian]]: Uzbekistan
+#:*[[Polish]]: Uzbekistan
+#:*[[Portuguese]]: [[Usbequistão]]
+#:*[[Russian]]: [[Узбекистан]]
+#:*[[Spanish]]: [[Uzbekistán]]
+#:*[[Swedish]]: Uzbekistan
+
+''See'': [[Countries of the world]]
