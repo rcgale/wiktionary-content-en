@@ -5,6 +5,8 @@ Pronounced as separate letters
 === Definition ===
 ''[[Chemical]] [[symbol]] for the element [[Tellurium]]
 
+----
+
 == English ==
 === Variant spelling ===
 '''ti''' in North America
@@ -16,6 +18,8 @@ Altered from ''[[si]]'' in the 19th century to prevent having two notes of the m
 In music
 # The seventh note of a major scale
 # The note B in the fixed [[doh]] system.
+
+----
 
 == Dutch ==
 
@@ -43,6 +47,8 @@ In music
 # [[at]], [[in]]
 # [[to]]
 # [[too]]
+
+----
 
 == French ==
 /t&#601;/
