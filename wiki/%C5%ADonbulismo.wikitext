@@ -1,4 +1,5 @@
-Ŭonbulismo (koree: 원불교 [], ŭonbulgjo) estas koredevena religio fondita de Sotesano en 1916. 
+Ŭonbulismo (koree: 원불교 <nowiki>[</nowiki>[[Dosiero:koreuon.gif]]<nowiki>]</nowiki>, ''uxonbulgjo'') estas koredevena religio fondita de Sotesano en 1916.
+
 Ĝi, surbaze de budhismo, prenas kiel kredobjekton kaj praktikmodelon la darmkorpan budhon Ilŭonsang (formo de unu cirklo), kiu simbolas la veron. 
 
 Ĝi instruas sian kredanton konscii la bonfarojn de ĉiuj estaĵoj en la universo kaj danki ilin kaj emfazas la ĝisdatigon, vivutiligon kaj popularigon de budhismo
