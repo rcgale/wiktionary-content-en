@@ -1,0 +1,9 @@
+==English==
+
+'''proper noun'''
+
+# Island nation in Southeast Asia.
+#:'''Translations'''
+#:*[[Dutch]]: de [[Filippijnen]]
+
+''See:'' [[Countries of the world]]
