@@ -5,5 +5,5 @@
 #:*[[Esperanto]]: [[lingvo]]
 #:*[[French]]: [[langue]]
 #:*[[Frisian]]: [[taal]]
-#:*[[German]]: [[Sprache]
+#:*[[German]]: [[Sprache]]
 #:*[[Hebrew]]: [[שפה]]
