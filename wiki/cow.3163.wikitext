@@ -6,3 +6,4 @@ An animal. a Four-legged [[mammal]] of the bovine genus.
 *Dutch: [[koe]]
 *[[Finnish]]: [[lehmä]]
 *French: [[vache]]
+*[[German]]: [[Kuh]]
