@@ -8,7 +8,7 @@
 French [[dictionnaire]]
 
 == Related words ==
-[[Portmanteau]]x: [[Pictionary]] (with [[picture]]), [[Fictionary]] (with [[fiction]]), [[Wiktionary]] (with [[wiki]])
+[[Portmanteau]]x: [[Pictionary]] (with [[picture]]), [[Fictionary]] (with [[fiction]]), [[Wiktionary]] (with [[wiki]]). [[Lexicography]]
 
 == Translations ==
 *da: [[ordbog]]
