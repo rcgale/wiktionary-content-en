@@ -14,13 +14,13 @@
 #To receive or admit and agree to; to assent to; as, I ''accept'' your [[proposal]], [[amendment]], or [[excuse]].
 #To take by the mind; to [[understand]]; as, How are these words to be ''accepted''?
 #''Commerce'': To receive as [[obligatory]] and promise to pay; as, to ''accept'' a bill of exchange. ''[[Bouvier (source)|Bouvier]].''
-#In a [[deliberative]] body, to receive in [[acquittance]] of a duty imposed; as, to ''accept'' the report of a [[committee]]. [This makes it the property of the body, and the question is then on its [[adoption]].]
+#In a [[deliberative]] body, to receive in [[acquittance]] of a duty imposed; as, to ''accept'' the report of a [[committee]]. (This makes it the property of the body, and the question is then on its [[adoption]].)
 ===Derived words===
 :[[Acceptor]] - 
 ===Derived phrases===
-#'''To accept a bill''' ''(Law)'', to agree (on the part of the [[drawee]]) to pay it when due. 
-#'''To accept service''' ''(Law)'', to agree that a writ or process shall be considered as [[regularly]] served, when it has not been. 
-#'''To accept the person''' ''([[Eccl (subject)|Eccl]]).'', to show [[favoritism]].
+#'''To accept a bill''' ''Law'': to agree (on the part of the [[drawee]]) to pay it when due. 
+#'''To accept service''' ''Law'': to agree that a writ or process shall be considered as [[regularly]] served, when it has not been. 
+#'''To accept the person''' ''Ecclesiastical'': to show [[favoritism]].
 #:God ''accepteth'' no man's ''person''. ''[[Gal. ii. 6 (source)|Gal. ii. 6]].''
 
 '''Synonyms:''' -- To [[receive]]; [[take]]; [[admit]]. 
