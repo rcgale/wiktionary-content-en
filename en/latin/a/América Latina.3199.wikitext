@@ -1,0 +1,5 @@
+Spanish
+
+==[[proper noun]]==
+
+*[[Latin America]]
