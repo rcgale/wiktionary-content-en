@@ -1,7 +1,9 @@
-(noun, often considered vulgar/offensive)
+(UK English slang, vulgar)
 
-1. The female genitalia
+Noun
 
-2. (highly offensive, slang) A derogatory term for a woman
+1. Testicles.
 
-3. (highly offensive, slang) A derogatory term for a man
+2. Nonsense or information intended to deliberately mislead.
+
+3. An expletive curse.
