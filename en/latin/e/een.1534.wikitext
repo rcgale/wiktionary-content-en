@@ -3,7 +3,6 @@
 == Dutch ==
 
 # /ən/, ''indefinite article'', placed before a singular noun, indicating a general case of a person or thing: [[a]], [[an]]. Compare with [[de]] and [[het]].
-
 # [e:n], ''number'', [[one]]
 
 === Usage notes ===
@@ -24,6 +23,12 @@
 *en: 
 # [[a]], [[an]]
 # [[one]]
+*es:
+# [[un]], [[una]]
+# [[un]]
 *fr:
 # [[un]], [[une]]
-# [[une]]
+# [[un]]
+*pt:
+# [[um]], [[uma]]
+# [[um]]
