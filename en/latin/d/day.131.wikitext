@@ -1,23 +1,21 @@
-[[noun]]
-
+===[[noun]]===
 #A period of 24 [[hour]]s. There are 7 days in a week: [[Monday]], [[Tuesday]], [[Wednesday]], [[Thursday]], [[Friday]], [[Saturday]] and [[Sunday]].
 #Rotational period of a planet (especially Earth).
 #Period of day(2) between sunrise and sunset, where one enjoys daylight. Re:"day and night"
-
-==Translations==
-*af: dag
-*de: [[Tag]]
-*es: día (remarque: Wednesday and Saturday take an accent in Spanish)
-*eo ([[Esperanto]]): [[tago]]
-*fr: [[jour]]
-*fy: [[dei]] 
-*he: [[יום]] (yom)
-*hu: [[nap]]
-*is: [[dagur]]
-*nl: [[dag]] (1,2), [[etmaal]] (1)
-*pl: [[dzień]]
-*sv: [[dag]]
-*Wolof: [[Bés]]
-*yi: [[טאָג]] (tug)
-*pt: [[dia]]
-*Lojban: [[djedi]] (1,2), [[donri]] (3)
+#:'''Translations'''
+#:*[[Afrikaans]]: [[dag]]
+#:*[[Dutch]]: [[dag]] (1,2), [[etmaal]] (1)
+#:*[[Esperanto]]: [[tago]]
+#:*[[French]]: [[jour]]
+#:*[[Frisian]]: [[dei]]
+#:*[[German]]: [[Tag]]
+#:*[[Hebrew]]: [[יום]] (yom)
+#:*[[Hungarian]]: [[nap]]
+#:*[[Icelandic]]: [[dagur]]
+#:*[[Lojban]]: [[djedi]] (1,2), [[donri]] (3)
+#:*[[Polish]]: [[dzień]]
+#:*[[Portuguese]]: [[dia]]
+#:*[[Spanish]]: día (remarque: Wednesday and Saturday take an accent in Spanish)
+#:*[[Swedish]]: [[dag]]
+#:*[[Wolof]]: [[Bés]]
+#:*[[Yiddish]]: [[טאָג]] (tug)
