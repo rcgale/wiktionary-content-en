@@ -12,9 +12,9 @@ From old French ''verbe'', which derives from Latin ''verbum'' (word), from Indo
 
 ==Translations==
 
-*de: Verb, [[Verbum]]
-*es: [[verbo]]
-*fr: [[verbe]]
-*he: [[פועל]]
-*nl: [[werkwoord]]
-*pl: [[czasownik]]
+*[[German]]: Verb, [[Verbum]]
+*[[Spanish]]: [[Verbo]]
+*[[French]]: [[Verbe]]
+*[[Hebrew]]: [[פועל]]
+*[[Dutch]]: [[Werkwoord]]
+*[[Polish]]: [[Czasownik]]
