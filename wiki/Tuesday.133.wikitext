@@ -11,7 +11,7 @@
 *eu: [[astearte]]
 *fr: [[mardi]]
 *[[Georgian]]: [[სამშაბათი]]
-*he: [[יום שלישי]]
+*he: [[יום שלישי]] (yom shlee-SHEE)
 *hr: [[Utorak]]
 *mi: [[türei]]
 *nl: [[dinsdag]]
@@ -25,4 +25,4 @@
 *sq: [[e martë]]
 *sv: [[tisdag]]
 *Wolof: [[Talaata]]
-*yi: [[דינסטיק]]
+*yi: [[דינסטיק]] (DINS-tik)
