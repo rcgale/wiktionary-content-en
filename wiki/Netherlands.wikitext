@@ -5,7 +5,7 @@
 #:*the [[Low Countries]]
 #:'''Translations'''
 #:*[[Dutch]]: [[Nederland]]
-#:*[[French]]: les [[Pays-Bas]], Les [[Hollandes]]
+#:*[[French]]: les [[Pays-Bas]], la [[Hollande]]
 #:*[[Frisian]]: [[Nederlân]]
 #:*[[German]]: die [[Niederlande]], [[Holland]]
 
