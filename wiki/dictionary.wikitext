@@ -8,7 +8,7 @@
 French [[dictionnaire]]
 
 == Related words ==
-[[Portmantea]]x: [[Wiktionary]] (with [[wiki]])
+[[Portmanteau]]x: [[Wiktionary]] (with [[wiki]])
 
 == Translations ==
 *[[Wörterbuch|de]] [[vortaro|eo]] [[diccionario|es]] [[dictionnaire|fr]]
