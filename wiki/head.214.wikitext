@@ -4,7 +4,7 @@ From old-English ''h&ecirc;afod'', which derives from Germanic [[khaubuthan]], f
 
 Related Germanic words are old German ''houbit'' (Haupt), middle Dutch ''h&ocirc;vet'', ''hoeft'' (hoofd), old Norse ''haufi&eth;'', Gothic ''haubi&thorn;''. Related Indo-European words are Latin [[caput]].
 
-===Pronounciation===
+===Pronunciation===
 
 ===Noun===
 
