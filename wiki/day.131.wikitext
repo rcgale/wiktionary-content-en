@@ -1,7 +1,8 @@
 [[noun]]
 
 #A period of 24 [[hour]]s. There are 7 days in a week: [[Monday]], [[Tuesday]], [[Wednesday]], [[Thursday]], [[Friday]], [[Saturday]] and [[Sunday]].
-#Period of day(1) between sunrise and sunset, where one enjoys daylight. Re:"day and night"
+#Rotational period of a planet (especially Earth).
+#Period of day(2) between sunrise and sunset, where one enjoys daylight. Re:"day and night"
 
 ==Translations==
 *af: dag
