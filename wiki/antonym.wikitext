@@ -1,7 +1,7 @@
 The antonym of a word is a word that means the contrary.
 
-Exemple
+Examples
 
-* White-black
-* High-low
-* Full-empty
+* White :: black
+* High  :: low
+* Full  :: empty
