@@ -4,4 +4,8 @@
 
 === Translations ===
 
-*nl: [[de]], [[het]]
+*[[Dutch]]: [[de]], [[het]]
+*[[French]]: [[le]], [[la]]
+*[[German]]: [[Der]], [[Die]], [[Das]]
+*[[Portuguese]]: [[o]], [[a]]
+*[[Spanish]]: [[el]], [[la]]
