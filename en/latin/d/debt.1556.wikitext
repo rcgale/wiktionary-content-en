@@ -6,6 +6,7 @@
 ===Translations===
 
 * Dutch: [[schuld]]
+* Finnish: [[velka]]
 * French: [[dette]]
 * Frisian: [[skuld]]
 * Japanese: [[借金]]
