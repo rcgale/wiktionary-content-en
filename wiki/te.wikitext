@@ -1,0 +1,28 @@
+'''Te'''
+
+== Dutch ==
+
+/t@/
+
+# ''preposition'', located [[at]]
+# ''preposition'', (modifying an infinitive verb)
+# ''adverb'', indicating excess: [[too]]
+# ''definite article'', ''archaic'', in idiom; a form of [[de]]
+
+=== Examples ===
+
+# ''Te Amsterdam'': in Amsterdam.
+# ''Er is iets te eten'': there is something to eat.
+# ''Te veel is nooit goed'': too much is never good; ''te gek!'': far out!
+# ''Te drommel'': by Jove.
+
+=== Translations ===
+
+* de: 
+# [[zu]]
+# [[zu]]
+# [[zu]]
+* en:
+# [[at]], [[in]]
+# [[to]]
+# [[too]]
