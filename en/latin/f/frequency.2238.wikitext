@@ -6,5 +6,6 @@
 ===Translations===
 
 *Dutch: [[frequentie]]
+*Finnish: [[taajuus]], [[frekvenssi]] (statistical)
 *French: [[fréquence]]
 *German: [[Frequenz]]
