@@ -3,13 +3,12 @@ Old English ''abaissen'', ''abaisshen'', ''abashen'', Old French ''esbahir'', Fr
 ===Transitive verb===
 <table border = 1>
 <tr>
-<td align = center>
-'''Imperfect'''
-<td align = center>
-'''Past Participle'''
-<td align = center>
-'''Present Participle'''<br>
-and '''Verbal Noun'''
+<th align = center>
+Imperfect
+<th align = center>
+Past Participle
+<th align = center>
+Present Participle
 </tr>
 <tr>
 <td>abashed </td>
