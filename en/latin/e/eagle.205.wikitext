@@ -9,5 +9,6 @@
 ===Translations===
 
 *[[Dutch]]: [[arend]], [[adelaar]]
-*[[French]]: [[aigle]]
+*[[Spanish]] : [[águila]] (1)
+*[[French]]: [[aigle]] (1)
 *[[Latin]]: [[Aqvila]]
