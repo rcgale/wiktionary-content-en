@@ -1,7 +1,7 @@
 ===Etymology===
 Derivative of [[translation]]
 ===Adjective===
-#Pertaining the the translation of language
+#Pertaining to the translation of language
 #''(Geometry):'' Pertaining to the shifting of co-ordinate axes
 ===Noun===
 #''(New):'' Translation dictionary
