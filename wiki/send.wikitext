@@ -2,7 +2,7 @@
 
 ===Translations===
 
-*Dutch: [[zenden]]
+*Dutch: [[sturen]], [[verzenden]]
 *French: [[envoyer]]
 *Spanish: [[enviar]], [[mandar]]
 
