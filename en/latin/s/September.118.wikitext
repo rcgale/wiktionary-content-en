@@ -5,6 +5,7 @@
 ==Translations==
 *de: [[September]]
 *es: [[septiembre]]
+*eu: [[irail]]
 *fr: [[septembre]]
 *mi: [[hepetemamahuru]]
 *nl: [[september]]
