@@ -1,4 +1,4 @@
-Accost, <i>[[Verb]]</i> ''to approach another with the intention of speaking or other actions''.
+Accost, <i>[[Verb]]</i> ''to approach another with the intent of doing something''.
 
 <HR> <P> <H3>Translations</H3>
 <BR>• [[French]]: [[Aborder]]
