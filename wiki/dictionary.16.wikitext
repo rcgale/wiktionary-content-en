@@ -18,8 +18,10 @@ From medival Latin [[dictionarium]].
 *Frisian: [[wurdboek]]
 *German: [[Wörterbuch]]
 *Hebrew: [[מילון]]
+*Interlingua: [[dictionario]]
 *Italian: [[dizionario]]
 *Polish: [[słownik]]
+*Portuguese: [[dicionário]]
 *Spanish: [[diccionario]]
 ===Derived words===
 [[Pictionary]] - [[Fictionary]] - [[Wiktionary]]. 
