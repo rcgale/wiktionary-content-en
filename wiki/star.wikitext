@@ -1,18 +1,15 @@
-'''[[noun]]'''
-
+===[[Noun]]===
 #A luminous celestial body, made up of gases (particularly [[hydrogen]] and [[helium]]), forming a sphere. Thousands of stars are visible in the [[night]] [[sky]].
 #''Figurative'' a person or thing held as a positive example. ''A star athlete''.
 #A celebrity or noteworthy performer.
+#:'''Translations'''
+#:*[[Dutch]]: [[ster]] (1,2,3), vedette (3)
+#:*[[French]]: [[étoile]], [[astre]] (1), [[vedette]], star (3)
+#:*[[Frisian]]: [[stjer]] (1,3)
+#:*[[German]]: [[Stern]] (1)
+#:*[[Icelandic]]: [[stjarna]] (1,3)
+#:*[[Japanese]]: [[星]] (ほし;hoshi)
+#:*[[Korean]]: [[별]] (byeol)
 
-==Translations==
-*[[Dutch]]: [[ster]] (1,2,3), vedette (3)
-*[[French]]: [[étoile]], [[astre]] (1), [[vedette]], star (3)
-*[[Frisian]]: [[stjer]] (1,3)
-*[[German]]: [[Stern]] (1)
-*[[Icelandic]]: [[stjarna]] (1,3)
-*[[Japanese]]: [[星]] (ほし;hoshi)
-*[[Korean]]: [[별]] (byeol)
-
-'''[[verb]]'''
-
+===[[Verb]]===
 # To appear, especially as the featured performer or headliner, in an entertainment program; see (3) above.
