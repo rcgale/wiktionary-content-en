@@ -1,0 +1,7 @@
+'''Ablactation''' . ''[[noun (part of speech)|noun]]''
+
+<ol>
+<li>The [[weaning]] of a child from the breast, or of young beasts from their dam. ''[[Blount (source)|Blount]].''
+
+<li> ''([[Hort (subject)|Hort]]).'' The process of [[grafting]] now called ''inarching'', or ''grafting by approach''.
+</ol>
