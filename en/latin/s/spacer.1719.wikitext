@@ -1,2 +1,3 @@
 ===Noun===
 # A person who works in space.
+# an object inserted to hold a [[space]] open in a row of items eg.[[beads]].
