@@ -1,2 +1,6 @@
 [[adjective]]
-# With extreme care and precission
+# With extreme [[care]] and [[precision]]
+
+[[Synonym]]s - [[careful]], [[precise]], [[painstaking]]
+
+[[Antonym]]s - [[sloppy]], [[careless]], [[slapdash]]
