@@ -17,6 +17,7 @@
 *nl: [[dinsdag]]
 *pl: [[wtorek]]
 *pt: [[ter&ccedil;a-feira]]
+*[[Ruanda]]: [[Kwakabiri]]
 *[[Serbian]]: [[уторак]]
 *[[Slovak]]: [[Utorok]]
 *[[Somali]]: [[Talaado]]
