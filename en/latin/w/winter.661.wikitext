@@ -26,6 +26,7 @@ Plural: winters
 #:*[[Portuguese]]: [[inverno]]
 #:*[[Romanian]]: [[iarna]]
 #:*[[Spanish]]: [[invierno]]
+#:*[[Swedish]]: [[vinter]]
 #:*[[Turkish]]: [[kiş]]
 #:*[[Yiddish]]: [[װינטער]] (VIN-ter)
 ----
