@@ -1,0 +1,10 @@
+[<b>ro'</b>-bot]
+
+# A [[machine]] with [[human]] capabilities.
+
+==Further Reading==
+* [[w:robot|Wikipedia article]]
+
+==See also==
+* [[Artificial intelligence]]
+* [[Computer]]
