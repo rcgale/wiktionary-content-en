@@ -11,6 +11,8 @@
 
 ==Translations==
 
+* Chinese : [[日本]]
 * French : [[Japon]]
 :synonyms :  l'Archipel, le pays du Soleil LEvant
 * Spanish : [[Japón]]
+* Korean : [[일본]] (ilbon)
