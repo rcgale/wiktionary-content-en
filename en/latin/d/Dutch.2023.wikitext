@@ -6,7 +6,9 @@
 #:*French: [[Néerlandais]], [[Hollandais]]
 #:*Frisian: [[Nederlânsk]], [[Hollânsk]]
 #:*German: [[Niederlandisch]], [[Holländisch]] 
-#:*Spanish: [[Holandés]]
+#:*Interlingua: [[hollandese]]
+#:*Portuguese: [[holandês]]
+#:*Spanish: [[holandés]]
 #people from the Netherlands
 #:'''Translations'''
 #:*Dutch:  [[Nederlanders]]
@@ -14,7 +16,9 @@
 #:*French: [[Néerlandais]], [[Hollandais]]
 #:*Frisian: [[Nederlanners]]
 #:*German: [[Niederlander]], [[Holländer]]
-#:*Spanish: [[Holandés]]
+#:*Interlingua: [[hollandese]]
+#:*Portuguese: [[holandês]]
+#:*Spanish: [[holandés]]
 
 ===[[Adjective]]===
 #Of or pertaining to the Netherlands, the Dutch people or the Dutch language
@@ -24,7 +28,9 @@
 #:*French: [[Néerlandais]], [[Hollandais]]
 #:*Frisian: [[Nederlânsk]], [[Hollânsk]]
 #:*German: [[Niederlandisch]], [[Holländisch]]
-#:*Spanish: [[Holandés]]
+#:*Interlingua: [[hollandese]]
+#:*Portuguese: [[holandês]]
+#:*Spanish: [[holandés]]
 
 ===Proverbs and Idioms===
 :*[[Double Dutch]]
