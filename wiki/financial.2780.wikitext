@@ -1,17 +1,12 @@
-==[[Adjective]]==
-
-==Etymology==
-*derived from [[finance]]
-
+===Etymology===
+Derived from [[finance]]
+===[[Adjective]]===
 #related to [[finances]]
 #having dues and fees paid up to date for a club or society (a ''financial'' member)
-
 ===Translations===
 *Dutch: [[financieel]]
 *French: [[financier]]
-
 ===Related words===
-
 *[[Financial market]]
 *[[financial year]]
 *[[finances]]
