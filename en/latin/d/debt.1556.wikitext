@@ -7,6 +7,7 @@
 
 * Dutch: [[schuld]]
 * French: [[dette]]
+* Frisian: [[skuld]]
 * Japanese: [[借金]]
 * Korean: [[빚]] (bit)
 * Spanish: [[deuda]]
