@@ -1,4 +1,4 @@
-[[noun]]
+''[[noun]]''
 
 # ''[[linguistic terminology|Linguistics]]''  A word formed which combines the meaning of several words often by adjoining parts of the words together; for example, ''[[smoke]]'' and ''[[fog]]'' combine to form ''[[smog]].'' 
 
