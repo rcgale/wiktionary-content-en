@@ -21,5 +21,6 @@
 *[[Latin]]: [[Aqvila]]
 *[[Norwegian]]: [[Ørn]]
 *[[Polish]]: [[Orzeł]] (1)
+*[[Russian]]: [[Oрел]] 
 *[[Spanish]] : [[Águila]] (1)
 *[[Swedish]]: [[Örn]]
