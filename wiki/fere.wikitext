@@ -1,0 +1,3 @@
+'''Fere''', ''[[noun (part of speech)|noun]]'' [L. ]
+
+spouse, wife, husband, companion, [[POSSLQ]], life-partner
