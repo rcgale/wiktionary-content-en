@@ -1,0 +1,10 @@
+==[[Adjective]]==
+
+*Which is not closed
+===Antonyms===
+*[[Closed]]
+
+===Translation===
+
+*French: [[ouvert]]
+*Spanish: [[abierto]]
