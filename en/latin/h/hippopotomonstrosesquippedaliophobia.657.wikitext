@@ -1,5 +1,5 @@
 ===Pronunciation===
-[Hip-po-pot-mon-stro-ses-quip-pe-da-lio-phob-ia]
+[Hip-po-pot-o-mon-stro-ses-quip-pe-da-li-o-phob-i-a]
 /____/
 ===Noun===
 #The fear of long words.
