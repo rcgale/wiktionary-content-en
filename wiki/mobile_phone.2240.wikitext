@@ -3,6 +3,7 @@
 ===Synonyms===
 
 *[[cellular mobile]] (''note'': word used in the United States)
+*[[wireless phone]]
 
 ===Traduction===
 
