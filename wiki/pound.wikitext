@@ -1,6 +1,6 @@
 (en)
 #454 or 373 [[gram]], see http://www.wikipedia.org/wiki/Pound
-#[[Pound]] (2) Sterling
+#Pound (2) Sterling
 
 (2)
 *de: [[Pfund]]
