@@ -1,2 +1,2 @@
-===Accronym===
+===[[Acronym]]===
 *Random Access Memory
