@@ -4,7 +4,7 @@ A measure of [[time]]
 
 1/1000000000 second (One billionth of a second)
 
-==[[abbreviation|abbreviated]]== 
+==[[abbreviation]]== 
 
 [[ns]] in the [[SI-system]]
 
