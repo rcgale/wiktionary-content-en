@@ -6,6 +6,7 @@
 *Blackfoot: [[Náámiksistsiko]]
 *de: [[Donnerstag]]
 *es: [[jueves]]
+*et: [[neljapäev]]
 *eu: [[ostegun]]
 *fr: [[jeudi]]
 *[[Georgian]]: [[ხუთშაბათი]]
