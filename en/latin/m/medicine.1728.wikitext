@@ -1,0 +1,8 @@
+'''[[noun]]'''
+
+# A substance which specifically promotes healing; medicine is usually ingested or consumed in some way.
+# The field of study concerning the art of healing.
+
+== Further reading ==
+
+* [[w:Medicine|Wikipedia article on medicine]]
