@@ -6,5 +6,7 @@
 
 ===Translation===
 
+*Dutch: [[open]]
 *French: [[ouvert]]
+*Frisian: [[iepen]]
 *Spanish: [[abierto]]
