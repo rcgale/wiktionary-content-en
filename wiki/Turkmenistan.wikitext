@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Central Asia. Official name: Turkmenistan.
+#:'''Translations'''
+#:*[[Danish]]: Turkmenistan
+#:*[[Dutch]]: Turkmenistan
+#:*[[Esperanto]]: [[Turkmenio]], [[Turkmenistano]], [[Turkmenujo]]
+#:*[[Finnish]]: Turkmenistan
+#:*[[French]]: [[Turkménistan]]
+#:*[[German]]: Turkmenistan
+#:*[[Greek]]: [[Τουρκμενιστάν]]
+#:*[[Interlingua]]: Turkmenistan
+#:*[[Italian]]: Turkmenistan
+#:*[[Polish]]: Turkmenistan
+#:*[[Portuguese]]: [[Turquemenistão]]
+#:*[[Russian]]: [[Туркменистан]]
+#:*[[Spanish]]: [[Turkmenistán]]
+#:*[[Swedish]]: Turkmenistan
+
+''See'': [[Countries of the world]]
