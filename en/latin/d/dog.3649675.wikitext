@@ -1,3 +1,5 @@
+Thesaurus: [[Thesaurus:Dog|Dog]]
+-----
 [Dog] \Dog\dôg\
 
 ''[[noun]].''
