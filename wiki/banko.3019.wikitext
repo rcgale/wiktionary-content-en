@@ -1,0 +1,15 @@
+===[http://eo.wikipedia.org/wiki/Etimologio|Etimologio]===
+
+#El la itala vorto  ''banca''
+
+===Difino===
+
+* Loko kien one povas meti monon.
+
+===[[Traduko]]jnslation===
+
+*[[Angla]]: [[bank]]
+*[[Franca]]: banque
+*[[Germana]]: bank 
+*[[Hispana]]: banco 
+*[[Nederlanda]]: bank
