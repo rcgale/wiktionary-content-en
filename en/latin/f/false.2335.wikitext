@@ -17,3 +17,4 @@
 
 ===Translations===
 *Dutch: [[vals]], [[fout]], [[onjuist]]
+*Finnish: [[valheellinen]] (1), [[teko]] (2)
