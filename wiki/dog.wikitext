@@ -13,30 +13,30 @@ Plural = dogs
 #:*[[dogged]]
 #:'''Translations'''
 #:*Chinese: [[&#29356;]]
-#:*Dutch: [[hond]]
+#:*[[Dutch]]: [[hond]]
 #:*[[Esperanto]] : [[hundo]]
-#:*Finnish [[koira]]
-#:*French: [[chien]]
-#:*Frisian: [[hûn]]
-#:*German: [[hund]]
-#:*Greek: [[σκύλος]]
-#:*Hebrew: [[כלב]] (keh-lev)
-#:*Hungarian: [[kutya]]
-#:*Icelandic: [[hundur]]
-#:*Inuktitut: [[qimmiq]]
-#:*Italian: [[cane]]
-#:*Korean: [[개]] (gae)
-#:*Lojban: [[gerku]]
-#:*Malayalam: [[നായ്]]
-#:*Maori: [[kurii]]
-#:*Polish: [[pies]]
-#:*Portuguese: [[cão]]
-#:*Provençal: [[can]]
-#:*Russian: [[собака]]
-#:*Slovak: [[pes]]
-#:*Spanish: [[perro]]
-#:*Swedish: [[hund]]
-#:*Yiddish: [[הונט]] (hoont)
+#:*[[Finnish]]: [[koira]]
+#:*[[French]]: [[chien]]
+#:*[[Frisian]]: [[hûn]]
+#:*[[German]]: [[hund]]
+#:*[[Greek]]: [[σκύλος]]
+#:*[[Hebrew]]: [[כלב]] (keh-lev)
+#:*[Hungarian]]: [[kutya]]
+#:*[[Icelandic]]: [[hundur]]
+#:*[[Inuktitut]]: [[qimmiq]]
+#:*[[Italian]]: [[cane]]
+#:*[[Korean]]: [[개]] (gae)
+#:*[[Lojban]]: [[gerku]]
+#:*[[Malayalam]]: [[നായ്]]
+#:*[[Maori]]: [[kurii]]
+#:*[[Polish]]: [[pies]]
+#:*[[Portuguese]]: [[cão]]
+#:*[[Provençal]]: [[can]]
+#:*[[Russian]]: [[собака]]
+#:*[[Slovak]]: [[pes]]
+#:*[[Spanish]]: [[perro]]
+#:*[[Swedish]]: [[hund]]
+#:*[[Yiddish]]: [[הונט]] (hoont)
 # A dull unattractive unpleasant [[girl]] or [[woman]]; "she got a reputation as a frump"; "she's a real dog" [syn: [[frump]]]
 # Informal term for a [[man]]: "you lucky dog"
 # Pejorative term for someone who is morally reprehensible; "you dirty dog" [syn: [[cad]], [[bounder]], [[blackguard]], [[hound]], [[heel]]].
