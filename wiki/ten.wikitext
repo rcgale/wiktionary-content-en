@@ -11,4 +11,5 @@ Describing a set or group with ten components. ''People normally have ten finger
 *[[French]] : [[dix]]
 *[[Frisian]] : [[tsien]]
 *[[German]] : [[zehn]]
+*[[Korean]] : [[열]] (yeol), [[십]] (sip)
 *[[Spanish]] : [[diez]]
