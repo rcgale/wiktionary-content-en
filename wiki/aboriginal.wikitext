@@ -10,3 +10,5 @@ Derivative of [[aborigines]]
 #An animal or a plant native to the region.
 #:'''Quotations'''
 #:*It may well be doubted whether this frog is an ''aboriginal'' of these islands. - [[Darwin]].
+#''(Proper noun):'' An Australian aboriginal
+#Any of the native languages spoken by Australian aboriginals.
