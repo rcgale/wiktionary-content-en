@@ -17,4 +17,5 @@
 *pl: [[piątek]]
 *pt: [[sexta-feira]]
 *sq: [[e premte]]
+*Wolof: [[Àjjuma]]
 *yi: [[פרײַטאָג]]
