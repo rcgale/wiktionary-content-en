@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Eastern Africa. Official name: Rwandese Republic.
+#:'''Translations'''
+#:*[[Chinese]]: [[卢旺达]]
+#:*[[Danish]]: Rwanda
+#:*[[Dutch]]: Rwanda
+#:*[[Esperanto]]: [[Ruando]]
+#:*[[Finnish]]: [[Ruanda]]
+#:*[[French]]: Rwanda
+#:*[[German]]: [[Ruanda]]
+#:*[[Greek]]: [[Ρουάντα]]
+#:*[[Interlingua]]: Rwanda
+#:*[[Italian]]: [[Ruanda]]
+#:*[[Polish]]: [[Ruanda]]
+#:*[[Portuguese]]: [[Ruanda]]
+#:*[[Russian]]: [[Руанда]]
+#:*[[Spanish]]: [[Ruanda]]
+#:*[[Swedish]]: Rwanda
+
+''See'': [[Countries of the world]]
