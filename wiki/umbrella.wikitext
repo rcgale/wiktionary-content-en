@@ -1,6 +1,8 @@
-'''Translations'''
-
-* French : [[parapluie]]
-* nl: [[paraplu]], [[regenscherm]]
-* pt: [[chapéu de chuva]]
-* Spanish: [[paraguas]]
+===[[Noun]]===
+#Cloth-covered frame used for protection against rain or sun.
+#:'''Translations'''
+#:*[[Dutch]]: [[paraplu]], [[regenscherm]]
+#:*[[French]]: [[parapluie]]
+#:*[[Interlingua]]: [[parapluvia]], umbrella
+#:*[[Portuguese]]: [[guarda-chuva]], [[sombrinha]]
+#:*[[Spanish]]: [[paraguas]]
