@@ -1,4 +1,4 @@
-[Hip-po-pot-mon-stro-ses-qui-peda-lio-phob-ia]
+[Hip-po-pot-mon-stro-ses-quip-peda-lio-phob-ia]
 /____/
 
 1) The fear of long words.
