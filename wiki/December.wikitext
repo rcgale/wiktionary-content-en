@@ -8,7 +8,7 @@
 *et: [[detsember]]
 *eu: [[abendu]]
 *fr: [[décembre]]
-*he: [[?????]]
+*he: [[דצמבר]]
 *mi: [[tïhema]]
 *nl: [[december]]
 *pl: [[grudzien´]]
