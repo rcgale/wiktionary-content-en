@@ -26,6 +26,7 @@
 
 ===Translations===
 
+*Esperanto : [[Fenikso]]
 *Finnish : [[Feeniks]] (1)
 *French : [[Phénix]]  (bird, nickname for Japan)
 *Korean : [[불사조]] [不死鳥] (bulsajo)
