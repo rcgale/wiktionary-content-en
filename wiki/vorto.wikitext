@@ -1,4 +1,4 @@
-#([http://eo.wikipedia.org/wiki/lingvistiko|Lingvistiko]]) Elstara unuo de lingvo(sono en parolo aŭ skribaj literoj) kun partikulara senco. Kunmetita de unu aŭ pliaj [[morfemo]]j.
+#([[http://eo.wikipedia.org/wiki/lingvistiko|Lingvistiko]]) Elstara unuo de lingvo(sono en parolo aŭ skribaj literoj) kun partikulara senco. Kunmetita de unu aŭ pliaj [[morfemo]]j.
 #Io dirita aŭ promesita.
 #([[Informadiko]]) Numera valuo kun [[bito|bita]] larĝeco, origine uzata de la maŝino.
 #([[Teologio]]) [[Dio]]. 
