@@ -1,11 +1,7 @@
-==[[Adjective]]==
-
 ===Etymology===
-Cf. French ''abolissable''.
-
+Derivative of [[abolish]]. Cf. French ''[[abolissable]]''.
+===[[Adjective]]===
 #Capable of being [[abolished]].
-
 ===Related Words===
-* [[abolish]]
 * [[abolished]]
 * [[abolition]]
