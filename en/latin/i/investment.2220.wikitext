@@ -6,3 +6,4 @@
 *Finnish: [[sijoitus]]
 *French: [[investissement]]
 *Spanish: [[inversión]]
+*Swedish: [[investering]]
