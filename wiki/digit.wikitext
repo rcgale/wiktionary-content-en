@@ -1,9 +1,11 @@
-''Digit'' /'dIdZIt/
+'''Digit''' /'dIdZIt/
 
 ==[[Count noun]]==
 
-# A [[numeral]] which can be combined with other numerals to write larger numbers.
-#*We usually use the ten digits 0 1 2 3 4 5 6 7 8 9.
+# A [[numeral]] which can be combined with other numerals to write larger numbers, and which cannot itself be split into other numerals.
+#* We usually use the ten digits 0 1 2 3 4 5 6 7 8 9.
+#* A decimal point by itself is not a numeral, and therefore is not a digit.
+#* 10 is not a digit, because you can split it into 1 and 0.
 # The number represented by such a numeral.
 #* For example, the number 2307 has four digits:
 #** The thousands digit is 2,
