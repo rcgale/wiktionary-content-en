@@ -29,3 +29,4 @@
 *[[Russian]]: [[Oрел]] (needs to be checked by speaker)
 *[[Spanish]] : [[Águila]] (1)
 *[[Swedish]]: [[Örn]]
+*[[Ukranian]]: [[Oрел]] (needs to be checked by speaker)
