@@ -1,3 +1,6 @@
 #:'''Translations'''
+#:*[[Dutch]]: [[ja]]
 #:*[[French]]: [[oui]]
+#:*[[German]]: [[ja]]
+#:*[[Portuguese]]: [[sim]]
 #:*[[Spanish]]: [[sí]]
