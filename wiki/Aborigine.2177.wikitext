@@ -1,6 +1,7 @@
 ===Etymology===
 Back-formation from [[aborigines]]
 ===Proper Noun===
-#An Australian [[aboriginal]]===Usage notes===
+#An Australian [[aboriginal]]
+===Usage notes===
 #Should be capitalized in Australian contexts.
 #Fowler's 3rd edition considers this singular to be "etymologically indefensible" notwithstanding its having become the established form in Australia since 1829.  It prefers the noun "Aboriginal"
