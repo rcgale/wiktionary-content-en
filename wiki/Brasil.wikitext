@@ -1,6 +1,6 @@
 ==Português==
+[bra'ziw]<br>
 '''proper noun'''
-['braziw]
 
 # Country in South America. Official name: República Federativa do Brasil.
 #:'''Translations'''
@@ -21,3 +21,9 @@
 #:*[[Swedish]]: [[Brasilien]]
 
 ''See'': [[Countries of the world]]
+
+==Interlingua==
+[bra'zil]<br>
+'''proper noun'''
+
+# Country in South America. Official name: República Federativa do Brasil.
