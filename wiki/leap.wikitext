@@ -22,13 +22,18 @@
 : Unknown, probable alternate spelling of Leaped (from Leap and suffix -ed).
 ==Quotations==
 ;'''Leap'''
-*'''c. 1450''' - anon, ''Merlin''.
+* '''c. 1450''' - anon, ''Merlin''.
 *: It is grete nede a man to go bak to recouer the better his leep.
 * '''1999''' - Ai, ''Vice: New & Selected Poems'' (1999), page 78.
 *: It is better to leap into the void.
 ;'''Leapt'''
-*'''1600''' - anon, ''The wisdome of Doctor Dodypoll'' (1600), Act 4.
+* '''1600''' - anon, ''The wisdome of Doctor Dodypoll'', Act 4.
 *:I, I defie thee: wert not thou next him when he leapt into the Riuer?
+* '''1783''' - Hugh Blair, partial translation of the ''Illiad'' in ''Lectures on Rhetoric and Belles Lettres'' Lecture 4, page 65.
+*:Deep in the dismal region of the dead, 
+*:Th' infernal monarch rear'd his horrid head,
+*:Leapt from his throne, lest Neptune's arm should lay
+*:His dark dominions open to the day; 
 
 ==Derived words==
 ;'''Leap'''
