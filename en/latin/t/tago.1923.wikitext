@@ -1,3 +1,5 @@
+[[Esperanto]]
+
 ===[[noun]]===
 #A period of 24 [[hour]]s.
 #:'''Translations'''
