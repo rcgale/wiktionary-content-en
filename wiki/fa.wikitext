@@ -1,0 +1,3 @@
+'''Fa''', ''[[noun (part of speech)|noun]]'' [It.] ''([[Mus (subject)|Mus]]).'' ''(a)''
+
+A syllable applied to the fourth tone of the [[diatonic]] scale in [[solmization]]. ''(b)'' The tone F.
