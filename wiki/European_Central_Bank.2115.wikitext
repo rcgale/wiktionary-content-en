@@ -1,0 +1,10 @@
+[[Central bank]] in the 12 countries of Europe which have adopted the euro currency.
+
+===Synonyms===
+
+*[[BCE]] : it is actualy the abbreviation
+
+===Translations===
+
+*French : [[Banque centrale européenne]], BCE 
+*Spanish : [[Banco Central Europeo]], BCE
