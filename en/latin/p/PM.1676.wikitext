@@ -3,4 +3,4 @@
 
 == Etymology ==
 
-PM is an abbreviation of ''post meridian'', [[Latin]] for "after the middle"
+PM is an abbreviation of ''post meridian'', [[w:Latin|Latin]] for "after the [[middle]]"
