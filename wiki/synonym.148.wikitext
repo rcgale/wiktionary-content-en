@@ -5,3 +5,8 @@
 Plural form: synonyms
 
 '''Examples'''
+
+'''Translations'''
+
+*es: sinónimo
+*fr: synonyme
