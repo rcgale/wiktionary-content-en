@@ -5,7 +5,7 @@
 # Country in East Asia. Official name: People's Republic of China.
 #:'''Translations'''
 #:*[[Chinese]]: [[中国]]
-#:*[[Dannish]]: [[Kina]]
+#:*[[Danish]]: [[Kina]]
 #:*[[Dutch]]: China
 #:*[[Esperanto]]: [[Ĉinio]], [[Ĉinujo]], [[Ĥinujo]]
 #:*[[Finnish]]: [[Kiina]]
