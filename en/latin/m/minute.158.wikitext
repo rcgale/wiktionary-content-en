@@ -1,0 +1,12 @@
+''noun:''
+
+/min'-it/
+
+# A [[time]] period of 60 [[second]]s; also one 60th of an [[hour]].
+# One 60th of a [[degree]].
+
+''adjective:''
+
+/my-noot'/
+
+# Very [[small]]. '''Synonyms:''' [[minuscule]], [[tiny]]
