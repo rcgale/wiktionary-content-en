@@ -15,7 +15,7 @@
 
 <li> ''([[Bot (subject)|Bot]]).'' Suddenly [[terminating]], as if cut off. ''[[Gray (source)|Gray]].''
 
-'''Synonyms:''' -- Sudden; [[unexpected]]; hasty; rough; curt; [[unceremonious]]; rugged; blunt; [[disconnected]]; broken.
+'''Synonyms:''' -- Sudden; [[unexpected]]; hasty; rough; curt; [[unceremonious]]; rugged; blunt; [[disconnected]]; broken; [[brusque]].
 </ol>
 -----
 '''Abrupt''', ''[[noun (part of speech)|noun]]'' [L. ''abruptum''.]
@@ -29,3 +29,12 @@ An abrupt place. [Poetic] <code>
 To tear off or [[asunder]]. [Obs.]
 
 <code>Till death ''abrupts'' them.</code> ''[[Sir T. Browne (source)|Sir T. Browne]].''
+
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Brusque]]
+<BR>• [[German]]: [[Plötzlich]]
+<BR>• [[Interlingua]]: [[Abrupte]], [[Brusc]]
+<BR>• [[Italian]]: [[Brusco]]
+<BR>• [[Portuguese]]: [[Abrupto]]
+<BR>• [[Spanish]]: [[Abrupto]], [[Brusco]], [[Precipitado]]
+<BR>
