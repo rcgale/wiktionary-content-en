@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Overseas territory of France off the eastern coast of [[Canada]]. Official name: Territorial collectivity of Saint Pierre and Miquelon.
+#:'''Translations'''
+#:*[[Danish]]: [[Saint Pierre og Miquelon]]
+#:*[[Dutch]]: [[Saint-Pierre en Miquelon]]
+#:*[[Esperanto]]: [[Sent-Piero kaj Mikelono]]
+#:*[[Finnish]]: [[Saint-Pierre ja Miquelon]]
+#:*[[French]]: [[Saint-Pierre-et-Miquelon]]
+#:*[[German]]: [[Sankt Pierre und Miquelon]]
+#:*[[Greek]]: [[Σαιν Πιέρ και Μικελόν]], [['Αγιος Πέτρος και Μικελόν]]
+#:*[[Italian]]: [[Saint-Pierre e Miquelon]]
+#:*[[Polish]]: [[Saint-Pierre i Miquelon]]
+#:*[[Portuguese]]: [[São Pedro e Miquelon]]
+#:*[[Russian]]: [[Сен-Пьер и Микелон]]
+#:*[[Spanish]]: [[San Pedro y Miquelón]]
+#:*[[Swedish]]: [[Saint Pierre och Miquelon]]
+
+''See'': [[Countries of the world]]
