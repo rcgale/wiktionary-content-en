@@ -7,6 +7,7 @@
 *de: [[Samstag]]
 *eo: [[sabato]]
 *es: [[sábado]]
+*et: [[laupäev]]
 *eu: [[larunbat]]
 *fr: [[samedi]]
 *[[Georgian]]: [[შაბათი]]
