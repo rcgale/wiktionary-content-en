@@ -1,7 +1,6 @@
 ===[[noun]]===
 
-A nation state, political entity asserting ultimate authority over a large geographical area.
-
+# A nation state, political entity asserting ultimate authority over a large geographical area.
 #:'''Translations'''
 #:*[[Dutch]]: [[land]]
 #:*[[French]]: [[pays]]
