@@ -3,8 +3,14 @@
 An animal. a Four-legged [[mammal]] of the bovine genus.
 
 ===Translations===
-*Dutch: [[koe]]
+
+*[[Dutch]]: [[koe]]
+*[[Ekspreso]]: [[vakon]]
 *[[Finnish]]: [[lehmä]]
-*French: [[vache]]
+*[[French]]: [[vache]]
 *[[German]]: [[Kuh]]
+*[[Interlingua]]: [[vacca]]
+*[[Portuguese]]: [[vaca]]
+*[[Spanish]]: [[vaca]]
 *[[Swedish]]: [[Ko]]
+*[[Volapük]]: [[kun]]
