@@ -1,9 +1,18 @@
-Accretion, <i>[[Noun]]</i>, ''increase, augmentation''. 
-<HR> <P> <H3>Translations</H3>
-<BR> [[French]]: [[Accr�tion]]
-<BR> [[German]]: [[Zunahme]]
-<BR> [[Interlingua]]: [[Accrescimento]], [[Augmento]]
-<BR> [[Italian]]: [[Accrescimento]]
-<BR> [[Portuguese]]: [[]]
-<BR> [[Spanish]]: [[Aumento]], [[Crecimiento]]
-<BR>
+===Etymology===
+Latin ''accretio'', from ''accrescere'' to increase. Cf. [[Crescent]], [[Increase]], [[Accrue]]
+===Noun===
+#The act of increasing by natural growth; esp. the increase of organic bodies by the internal [[accession]] of parts; organic growth. - [[Arbuthnot]]
+#:'''Translations'''
+#:*[[French]]: [[accrétion]]
+#:*[[German]]: [[Zunahme]]
+#:*[[Interlingua]]: [[accrescimento]], [[augmento]]
+#:*[[Italian]]: [[accrescimento]]
+#:*[[Spanish]]: [[aumento]], [[crecimiento]] 
+#The act of increasing, or the matter added, by an accession of parts [[externally]]; an [[extraneous]] addition; as, an ''accretion'' of earth.
+#:'''Quotations'''
+#:*A mineral ... augments not by grown, but by '''accretion'''. - [[Owen]]
+#:*To strip off all the subordinate parts of his as a later '''accretion''' - [[Sir G. C. Lewis]]
+#[[Concretion]]; [[coherence]] of separate particles; as, the ''accretion'' of particles so as to form a solid mass.
+#A growing together of parts naturally separate, as of the fingers toes. - [[Dana]]
+#''(Law):'' The [[adhering]] of property to something else, by which the owner of one thing becomes possessed of a right to another; generally, gain of land by the washing up of sand or sail from the sea or a river, or by a gradual [[recession]] of the water from the usual [[watermark]]. 
+#''(Law):'' Gain to an heir or [[legatee]], failure of a [[coheir]] to the same succession, or a co-legatee of the same thing, to take his share. - [[Wharton. Kent]]
