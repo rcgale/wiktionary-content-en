@@ -7,5 +7,6 @@
 
 ===Traduction===
 
+*Dutch: [[mobiele telefoon]], [[GSM]], [[mobieltje]]
 *French: [[téléphone mobile]], [[téléphone cellulaire]], [[GSM]] (''note'': often used for mobile phones that are not technically GSM)
 *Spanish: [[teléfono móvil]]
