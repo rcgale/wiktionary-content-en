@@ -5,7 +5,7 @@
 # Country in the Caribbean. Official name: Commonwealth of The Bahamas.
 #:'''Translations'''
 #:*[[Chinese]]: [[巴哈马]]
-#:*[[Dannish]]: Bahamas
+#:*[[Danish]]: Bahamas
 #:*[[Dutch]]: [[Bahama's]]
 #:*[[Esperanto]]: [[Bahamoj]]
 #:*[[Finnish]]: [[Bahama]]
