@@ -6,4 +6,5 @@ A [[star]], especially the star at the center of our [[solar system]].
 
 *de: [[Sonne]]
 *fr: [[soleil]]
+*is: [[sól]]
 *nl: [[zon]]
