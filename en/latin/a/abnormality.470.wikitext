@@ -1,2 +1,2 @@
-Abnormality <BR><H5>[[Noun]]</H5> 
+Abnormality, <BR><H5>[[Noun]]</H5> 
 <HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Anomalie]]<BR>• [[German]]: [[Abweichung]]<BR>• [[Interlingua]]: [[Anormalitate]]<BR>• [[Italian]]: [[Anomalia]]<BR>• [[Portuguese]]: [[Abnormality]]<BR>• [[Spanish]]: [[Anormalidad]]<BR>• [[]]: [[]]
