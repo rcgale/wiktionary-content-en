@@ -1,0 +1,20 @@
+==English==
+
+'''proper noun'''
+
+# Territory of Norway. Official name: Svalbard.
+#:'''Translations'''
+#:*[[Danish]]: Jan Mayen
+#:*[[Dutch]]: Jan Mayen
+#:*[[Esperanto]]: Jan Mayen, [[Jan-majen]]
+#:*[[Finnish]]: Jan Mayen
+#:*[[French]]: Jan Mayen
+#:*[[German]]: Jan Mayen
+#:*[[Greek]]: [[Γιαν Μαϋέν]], [[Γιαν Μαγιέν]]
+#:*[[Italian]]: Jan Mayen
+#:*[[Portuguese]]: Jan Mayen
+#:*[[Russian]]: [[Ян Мейен]]
+#:*[[Spanish]]: Jan Mayen
+#:*[[Swedish]]: Jan Mayen
+
+''See'': [[Countries of the world]]
