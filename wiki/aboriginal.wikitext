@@ -18,6 +18,6 @@ Derivative of [[aborigines]]
 <BR>• [[German]]: [[Eingeboren]]
 <BR>• [[Interlingua]]: [[Aboriginal]]
 <BR>• [[Italian]]: [[Aborigeno]]
-<BR>• [[Portuguese]]: [[Aboriginal]]
+<BR>• [[Portuguese]]: [[]]
 <BR>• [[Spanish]]: [[Aborigen]]
 <BR>
