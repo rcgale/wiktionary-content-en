@@ -7,6 +7,7 @@
 *es: [[agosto]]
 *eu: [[abuztu]]
 *fr: [[août]]
+*fy: [[augustus]]
 *mi: [[äkuhata]]
 *nl: [[augustus]]
 *pl: [[sierpień]]
