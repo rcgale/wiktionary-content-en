@@ -1,0 +1,16 @@
+==Definition==
+;'''True name'''
+: A unique name of any entity which can be used to control or manipulate that entity.
+;'''True naming'''
+: The activity of finding an entity's true name.
+==Quotations==
+;'''True name'''
+*'''1968''' - Ursula Le Guin, ''A Wizard of Earthsea'' (1977), Page 59.
+*:He saw that in this dusty and fathomless matter of learning the true name of each place, thing, and being, the power he wanted lay like a jewel at the bottom of a dry well. For magic consists in this, the true naming of a thing.
+*'''1987''' - Terry Pratchett, ''Mort'' (1996), Page 229.
+*:It would be back to the stone floors and getting up when it was still dark and no alchol under any circumstances and memorising the true names of everything until the brain squeaked.
+*'''1991''' - Martin Cropper, ''In The Native State'' in ''The Times'' (April 23, 1991)
+*:They conjured a world of primitive magic in which evil spirits could not be given their true names for fear of increasing their power.
+;'''True naming'''
+*'''1968''' - Ursula Le Guin, ''A Wizard of Earthsea'' (1977), Page 59.
+*:For magic consists in this, the true naming of a thing.
