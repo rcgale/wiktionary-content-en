@@ -3,6 +3,7 @@
 #The third day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
+*az: [[ç&#601;rş&#601;nb&#601;]]
 *Blackfoot: [[Ííkaitaistssinao'p]]
 *de: [[Mittwoch]]
 *es: [[miércoles]]
