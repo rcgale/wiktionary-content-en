@@ -5,7 +5,7 @@
 #A feline mammal with retractable claws and commonly kept as a house pet.
 
 ''[[verb]]'':
-#(Computer jargon): To spew an entire file to the screen or some other output device without pause. By extension, to dump large amounts of data at an unprepared target or with no intention of browsing it carefully. Origin: contraction of the word ''[[concatenate]]''. Usage: Rare outside Unix sites. 
+#(Computer jargon): To direct the contents of an entire file to the screen or some other output device without pause. By extension, to dump large amounts of data at an unprepared target or with no intention of browsing it carefully. Origin: contraction of the word ''[[concatenate]]''. Usage: Rare outside Unix sites. 
 
 '''Translations'''
 
