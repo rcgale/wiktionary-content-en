@@ -1,23 +1,29 @@
 ===Etymology===
-From Middle English, from Old English <em>frencisc</em>=Frankish, from <em>Franca</em>=[[Frank]].  
+From Middle English, from Old English <i>frencisc</i> 'Frankish', from <i>franca</i> '[[Frank]]'.  
 
 ===Pronunciation===
-[French]/____
+[French] /frenʧ/
 
 ===Noun===
 # The [[language]] of [[France]].
 #:'''Translations'''
 #:*Dutch: [[Frans]]
 #:*French: [[français]] 
+#:*Interlingua: [[francese]]
+#:*Portuguese: [[francês]]
 #:*Swedish: [[franska]] (even a sort of [[bread]])
-# People from [[France]].
+# Person from [[France]].
 #:'''Translations'''
 #:*Dutch: [[Fransman]] (masculine), [[Franse]] or [[Française]] (feminine)
+#:*Interlingua: [[francese]]
+#:*Portuguese: [[francês]]
 #:*Swedsig: [[fransman]] (masculine), [[fransyska]] (feminine)
 ===Adjective===
 # Of or pertaining to France.
 #:'''Translations'''
 #:*Dutch: [[Frans]]
+#:*Interlingua: [[francese]]
+#:*Portuguese: [[francese]]
 
 ===Proverbs and Idioms===
 *[[french kiss]]
