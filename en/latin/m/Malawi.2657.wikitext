@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southern Africa. Official name: Republic of Malawi.
+#:'''Translations'''
+#:*[[Chinese]]: [[马拉维]]
+#:*[[Danish]]: Malawi
+#:*[[Dutch]]: Malawi
+#:*[[Esperanto]]: [[Malavio]]
+#:*[[Finnish]]: Malawi
+#:*[[French]]: Malawi
+#:*[[German]]: Malawi
+#:*[[Greek]]: [[Μαλάουι]]
+#:*[[Interlingua]]: Malawi
+#:*[[Italian]]: Malawi
+#:*[[Polish]]: Malawi
+#:*[[Portuguese]]: [[Malávi]]
+#:*[[Russian]]: [[Малави]]
+#:*[[Spanish]]: [[Malaui]]
+#:*[[Swedish]]: Malawi
+
+''See'': [[Countries of the world]]
