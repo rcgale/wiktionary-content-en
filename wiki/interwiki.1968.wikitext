@@ -1,3 +1,3 @@
-[[Wikipedia|Wikipedia]]
+To link from wiktionary to [[wikipedia]], one would use '''<nowiki>[[w:]]</nowiki>''' . For example to create a link to  wikipedia about interwiki, you would use <nowiki>[[w:interwiki]]</nowiki>
 
-[http://www.wikipedia.org/wiki/interwiki You can get more information from Wikipedia article about ''Interwiki'']
+*[http://www.wikipedia.org/wiki/interwiki You can get more information from Wikipedia article about ''Interwiki'']
