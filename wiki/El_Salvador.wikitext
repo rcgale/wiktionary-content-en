@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Central America. Official name: Republic of El Salvador.
+#:'''Translations'''
+#:*[[Chinese]]: [[萨尔瓦多]]
+#:*[[Danish]]: El Salvador
+#:*[[Dutch]]: El Salvador
+#:*[[Esperanto]]: [[Salvadoro]]
+#:*[[Finnish]]: El Salvador
+#:*[[French]]: [[Salvador]], El Salvador
+#:*[[German]]: El Salvador
+#:*[[Greek]]: [[Ελ Σαλβαδόρ]]
+#:*[[Interlingua]]: El Salvador
+#:*[[Italian]]: El Salvador
+#:*[[Polish]]: [[Salwador]]
+#:*[[Portuguese]]: [[Salvador]]
+#:*[[Russian]]: [[Сальвадор]]
+#:*[[Spanish]]: El Salvador
+#:*[[Swedish]]: El Salvador
+
+''See'': [[Countries of the world]]
