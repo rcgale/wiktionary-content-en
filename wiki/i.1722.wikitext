@@ -1,13 +1,21 @@
 ===Pronoun===
 # The first person, '''I''' refers to the speaker. See also [[me]].
 #:'''Translations'''
+#:*Dutch: [[ik]]
 #:*German: [[ich]]
+#:*Esperanto: [[mi]]
 #:*French: [[je]]
 #:*Frisian: [[ik]]
-#:*Lojban: [[pami]]
-#:*Dutch: [[ik]]
-#:*Icelandic: [[ég]]
 #:*Hindi: [[मैं]](mai.n)
+#:*Icelandic: [[ég]]
+#:*Interlingua: [[io]]
+#:*Interlingue Occidental: [[yo]]
 #:*Korean: [[나]] (na)
+#:*Latino sine Flexione: [[me]]
+#:*Lojban: [[pami]]
+#:*Portuguese: [[eu]]
+#:*Spanish: [[yo]]
+#:*Volapük: [[ob]]
+
 ===Numeral===
 #The [[Roman numeral]] representing the number [[one]].
