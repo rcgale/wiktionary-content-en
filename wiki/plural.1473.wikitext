@@ -4,6 +4,7 @@
 #:*[[singular]]
 #:'''Translations'''
 #:*[[Dutch]]: [[meervoud]]
+#:*[[Finnish]]: [[monikko]], [[pluraali]]
 #:*[[French]]: [[pluriel]]
 #:*[[Frisian]]: [[meartal]]
 #:*[[German]]: Plural (on this page)
