@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Republic of Côte d'Ivoire.
+#:'''Translations'''
+#:*[[Danish]]: [[Côte d'Ivoire]]
+#:*[[Dutch]]: [[Ivoorkust]]
+#:*[[Esperanto]]: [[Kotdivaŭro]], [[Ebur-Bordo]], [[Ebura Bordo]]
+#:*[[Finnish]]: [[Norsunluurannikko]]
+#:*[[French]]: [[Côte d'Ivoire]]
+#:*[[German]]: [[Côte d'Ivoire]]
+#:*[[Greek]]: [[Ακτή Ελεφαντοστού]]
+#:*[[Interlingua]]: [[Costa de Ebore]]
+#:*[[Italian]]: [[Costa d'Avorio]]
+#:*[[Polish]]: [[Wybrzeże Kości Słoniowej]]
+#:*[[Portuguese]]: [[Costa do Marfim]]
+#:*[[Russian]]: [[Кот-д'Ивуар]]
+#:*[[Spanish]]: [[Costa de Marfil]]
+#:*[[Swedish]]: [[Elfenbenskusten]]
+
+''See'': [[Countries of the world]]
