@@ -5,7 +5,10 @@ noun, ''masculin''
 
 
 ====Definition====
-# a clock
-
+# 
 
 ====Translations====
+
+*[[English]]: [[clock]]
+*[[Dutch]]: [[klok]]
+*[[French]]: [[horloge]]
