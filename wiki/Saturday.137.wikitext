@@ -6,6 +6,7 @@
 *de: Samstag
 *es: sábado
 *fr: [[samedi]]
+*[[Georgian]]: [[შაბათი]]
 *he: [[שבת]]
 *nl: [[zaterdag]]
 *pl: [[sobota]]
