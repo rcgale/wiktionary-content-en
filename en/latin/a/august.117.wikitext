@@ -1,4 +1,4 @@
-[Au-gust] /___/
+[Au-gust] SAMPA /'O:g@st/
 
 #August is the eighth [[month]] in the Gregorian [[calendar]]. It has 31 [[day]]s.
 
