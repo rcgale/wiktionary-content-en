@@ -8,6 +8,6 @@
 *eu: [[irail]]
 *fr: [[septembre]]
 *mi: [[hepetemamahuru]]
-*nl: [[september]]
+*nl: september (on this page)
 *pl: [[wrzesień]]
 *sq: [[shtator]]
