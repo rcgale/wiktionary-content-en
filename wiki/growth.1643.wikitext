@@ -1,7 +1,14 @@
-'''Translations'''
+*
 
+===Translations===
 * Dutch : groei, toename, aanwas
 * French : croissance
 * Frisian : groei, oanwaaks
 * German : Wachstum
 * Spanish : crecimiento
+
+==Defintion==
+* In economics, it means an increase in the [[GDP]]
+===Translations===
+* French : [[croissance]], croissance écononomique
+* Spanish : [[crecimiento]]
