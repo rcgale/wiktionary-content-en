@@ -5,3 +5,4 @@
 #*English [[dog]]
 #*French [[chien]]
 #*German [[Hund]]
+#*Spanish [[perro]]
