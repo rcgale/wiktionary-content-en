@@ -4,7 +4,7 @@
 
 [[Exclamation]]
 
-# An [[expression]] which means that a [[point]] or [[distinction]] made by [[another]] is not worth pursuing [[by way]] of further [[discussion]]. The use [[of]] whatever in [[this]] fashion betrays impatience [[or]] even contempt [[and]] [[may]] be [[rude]].
+# A [[holophrastic]] [[expression]] which means that a [[point]] or [[distinction]] made by [[another]] is not worth pursuing [[by way]] of further [[discussion]]. The use [[of]] whatever in [[this]] fashion betrays impatience [[or]] even contempt [[and]] [[may]] be [[rude]].
 
 ==Example of Usage==
 * Sandra E. Eddy, <cite>HTML in Plain English</cite>, 1997, ISBN 1-55828-511, page 23, "Except for the [[title]], the contents of the [[HEAD]] section do not appear on the [[Web page]] when it's [[loaded]]. Some [[detail-oriented]] people (a much friendlier term than [[quibbler]] or [[hairsplitter]]) might argue that the title is not actually on the [[page]]; it's above the page in the [[title bar]]. Whatever."
