@@ -2,7 +2,7 @@
 
 '''proper noun'''
 
-# Country in the Caribbean. Official name: Commonwealth of The Bahamas.
+# Country in the Caribbean. Official names, short: The Bahamas, full: Commonwealth of The Bahamas.
 #:'''Translations'''
 #:*[[Chinese]]: [[巴哈马]]
 #:*[[Danish]]: Bahamas
