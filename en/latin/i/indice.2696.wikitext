@@ -1,0 +1,19 @@
+===[[Etymology]]===
+From Latin [[index]].
+===[[noun]]===
+#Somethings that points or indicates.
+#:'''Translations'''
+#:*[[English]]: [[index]], [[indicator]].
+#:*[[Portuguese]]: [[índice]], [[indicador]].
+#Finger between the [[thumb]] and the [[middle finger]]. Synonym: [[digito indice]].
+#:'''Translations'''
+#:*[[English]]: [[index]], [[index finger]], [[forefinger]].
+#:*[[Portuguese]]: [[dedo indicador]], [[dedo índex]], [[índex]], [[índice]].
+#List or catalog for aiding reference.
+#:'''Translations'''
+#:*[[English]]: [[index]].
+#:*[[Portuguese]]: [[índice]].
+#'''Capitalized.''' Catalog of books whose reading was prohibited by the Roman Catholic Church.
+#:'''Translations'''
+#:*[[English]]: [[Index]].
+#:*[[Portuguese]]: [[Índex]].
