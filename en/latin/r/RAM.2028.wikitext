@@ -1,0 +1,3 @@
+Accronym for:
+
+*Random Access Memory
