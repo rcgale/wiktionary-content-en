@@ -2,7 +2,7 @@
 
 '''cat'''
 
-#A feline mammal with retractable claws and commonly kept as a house pet.
+#A feline mammal member of the family [[felis catus]] with retractable claws, commonly kept as a house pet.
 #[[nautical terminology]]: A contraction of [[cat o'nine tails]], a whip.
 
 ''[[verb]]'':
