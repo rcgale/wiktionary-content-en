@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Oceania. Official name: Republic of the Marshall Islands.
+#:'''Translations'''
+#:*[[Chinese]]: [[马绍尔群岛]]
+#:*[[Danish]]: [[Marshalløerne]]
+#:*[[Dutch]]: [[Marshalleilanden]]
+#:*[[Esperanto]]: [[Marŝalaj Insuloj]], [[Marŝaloj]]
+#:*[[Finnish]]: [[Marshallinsaaret]]
+#:*[[French]]: [[Îles Marshall]]
+#:*[[German]]: [[Marshallinseln]]
+#:*[[Greek]]: [[Νήσοι Μάρσαλ]]
+#:*[[Interlingua]]: [[Insulas Marshall]]
+#:*[[Italian]]: [[Isole Marshall]]
+#:*[[Polish]]: [[Wyspy Marshalla]]
+#:*[[Portuguese]]: [[Ilhas Marshall]]
+#:*[[Russian]]: [[Маршалловы острова]]
+#:*[[Spanish]]: [[Islas Marshall]]
+#:*[[Swedish]]: [[Marshallöarna]]
+
+''See'': [[Countries of the world]]
