@@ -15,4 +15,5 @@ The spelling with 'a' in English is to distinguish the word from [[calender]].
 ==Translation==
 *de: [[Kalender]]
 *fr: [[calendrier]], /kal&#593&#771;d&#640;ije/
+*he: לוח
 *nl: [[kalender]]
