@@ -5,10 +5,11 @@
 ==Translations==
 *de: [[Dezember]]
 *es: [[diciembre]]
+*et: [[detsember]]
 *eu: [[abendu]]
 *fr: [[décembre]]
-*he: [[דצמבר]]
+*he: [[?????]]
 *mi: [[tïhema]]
 *nl: [[december]]
-*pl: [[grudzień]]
+*pl: [[grudzien´]]
 *sq: [[dhjetor]]
