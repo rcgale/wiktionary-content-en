@@ -2,6 +2,7 @@
 #A system of communication using the spoken word or symbols
 #:'''Translations'''
 #:*[[Dutch]]: [[taal]]
+#:*[[Esperanto]]: [[lingvo]]
 #:*[[German]]: [[Sprache]]
 #:*[[French]]: [[langue]]
 #:*[[Frisian]]: [[taal]]
