@@ -1,10 +1,8 @@
 ===Etymology===
 [French ''accepter'', Latin ''acceptare'', [[frequentative]] of ''accipere''; ''ad'' (to) + ''capere'' (to take).
- 
 ===Transitive verb===
 ''Past tense and past participle'': [[Accepted]]<br>
 ''Present participle and verbal noun'' [[Accepting]]
-
 
 #To receive with a [[consenting]] mind (something offered); as, to ''accept'' a gift; -- often followed by ''of''.
 #:If you ''accept'' them, then their worth is great. ''[[Shakespeare (source)|Shakespeare]].''
@@ -15,8 +13,8 @@
 #:Peradventure he will ''accept'' of me. ''[[Gen. xxxii. 20 (source)|Gen. xxxii. 20]].''
 #To receive or admit and agree to; to assent to; as, I ''accept'' your [[proposal]], [[amendment]], or [[excuse]].
 #To take by the mind; to [[understand]]; as, How are these words to be ''accepted''?
-#''([[Com (subject)|Com]]).'' To receive as [[obligatory]] and promise to pay; as, to ''accept'' a bill of exchange. ''[[Bouvier (source)|Bouvier]].''
-#In a [[deliberate]] body, to receive in [[acquittance]] of a duty imposed; as, to ''accept'' the report of a [[committee]]. [This makes it the property of the body, and the question is then on its [[adoption]].]
+#''Commerce'': To receive as [[obligatory]] and promise to pay; as, to ''accept'' a bill of exchange. ''[[Bouvier (source)|Bouvier]].''
+#In a [[deliberative]] body, to receive in [[acquittance]] of a duty imposed; as, to ''accept'' the report of a [[committee]]. [This makes it the property of the body, and the question is then on its [[adoption]].]
 ===Derived words===
 :[[Acceptor]] - 
 ===Derived phrases===
