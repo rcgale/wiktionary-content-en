@@ -1,6 +1,6 @@
 '''Noun''' /naun/
 
-==''[[noun]]''==
+==noun==
 # a word that can be used to refer to a person or place or thing; part of speech 
 # a word that can serve as the subject or object of a verb
 
