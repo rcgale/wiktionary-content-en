@@ -5,6 +5,8 @@
 
 ===Translations===
 *French: [[marché]]
+*German: [[Markt]]
+*Hebrew: [[שוק]]
 *Spanish: [[mercado]]
 
 ===Related words===
