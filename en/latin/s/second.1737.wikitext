@@ -2,6 +2,7 @@
 ===[[noun]]===
 
 # One-sixtieth of a [[minute]] in both [[time]] and [[angle]]s.
+# The SI unit of time.
 # A short, indeterminate amount of time: "I'll be there in a second."
 # An manufactured item which, though still usable, fails to meet quality control standards.
 
