@@ -1,7 +1,7 @@
 swap \Swap\
 
 ''[[noun]]''
-# an equal exchange; "we had no money so we hd to live by barter" [''syn:'' [[barter]], [[swop]], [[trade]], [[quid pro quo]]]
+# an equal exchange; "we had no money so we had to live by barter" [''syn:'' [[barter]], [[swop]], [[trade]], [[quid pro quo]]]
 
 ''[[verb]]''
 # exchange or give (something) in exchange for [''syn:'' [[trade]], [[swop]], [[switch]]]
