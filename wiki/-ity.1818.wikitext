@@ -1,5 +1,3 @@
 (derivational suffix):
 
 1. used to convert an adjective into a noun; the property corresponding to that adjective, for example, prolix -> prolixity (the property of being prolix), triangular -> triangularity (the property of being triangular). However, for some adjectives a different suffix, -ness, must be used: e.g. redness, not redity.
-
-2. also used as an ending on some adjectives in their own right, e.g. quality. (which is also a noun, but whose meaning as a noun is not simply the property corresponding to the adjective.)
