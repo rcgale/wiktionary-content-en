@@ -5,7 +5,7 @@
 # Country in Western Africa. Official name: Republic of Cape Verde.
 #:'''Translations'''
 #:*[[Chinese]]: [[佛得角]]
-#:*[[Dannish]]: [[Kap Verde]]
+#:*[[Danish]]: [[Kap Verde]]
 #:*[[Dutch]]: [[Kaapverdië]]
 #:*[[Esperanto]]: [[Kabo-Verdo]]
 #:*[[Finnish]]: [[Kap Verde]]
