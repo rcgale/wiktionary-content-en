@@ -5,3 +5,4 @@
 
 '''translations'''
 *Dutch: [[komma]]
+*Finnish: [[piste]]
