@@ -3,13 +3,14 @@
 #The expansion of certain items (such as balloons) when filled with a fluid.
 
 
-===Antonyms===
+===[[Antonym]]s===
 
 * [[deflation]]
 
-===Translations===
+===[[Translation]]s===
 
 *Dutch: [[inflatie]]
+*[[Esperanto]]: [[inflacio]]
 *Finnish: [[inflaatio]] (1), [[laajentuminen]] (2)
 *French: inflation
 *Spanish: [[inflación]]
