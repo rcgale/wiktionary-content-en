@@ -3,4 +3,5 @@
 
 ===Translantions===
 *en: [[summer]]
+*es: [[verano]]
 *fr: [[été]]
