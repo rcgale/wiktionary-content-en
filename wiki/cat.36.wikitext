@@ -1,3 +1,5 @@
+''[[noun]]'':
+
 '''cat'''
 
 A feline mammal with retractable claws and commonly kept as a house pet.
