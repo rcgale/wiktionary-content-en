@@ -28,6 +28,7 @@
 *es: [[diccionario]]
 *et: [[sõnaraamat]]
 *fr: [[dictionnaire]]
+*he: [[מילון]]
 *nl: [[woordenboek]]
 
 == Further reading ==
