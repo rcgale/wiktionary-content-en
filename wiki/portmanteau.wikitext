@@ -6,7 +6,7 @@ Plural, portmanteaus, portmanteaux
 ''[[noun]]''
 
 # A large travelling case made of [[leather]].
-#* a. '''1500''' - anon, "Robin Hood and the Bishop of Hereford" in ''The English and Scottish Popular Ballads'' (1898)
+#* '''a. 1500''' - anon, "Robin Hood and the Bishop of Hereford" in ''The English and Scottish Popular Ballads'' (1898)
 #*: Then Little John took the bishop's cloak, And spread it upon the ground, And out of the bishop's portmantua, He told three hundred pound.
 #* '''1667''' - Charles Croke, ''Fortune's Uncertainty''
 #*: Rodolphus therefore finding such an earnest Invitation, embrac'd it with thanks, and with his Servant and Portmanteau, went to Don Juan's; where they first found good Stabling for their Horses, and afterwards as good Provision for themselves.
