@@ -21,4 +21,4 @@
 * [[Interlingua]]: [[Accomplimento]], [[Complimento]], [[Realisation]] 
 * [[Italian]]: [[Realizzazione]] 
 * [[Portuguese]]: [[Realização]] 
-* [[Spanish]]: [[Realización]], [[Logro]
+* [[Spanish]]: [[Realización]], [[Logro]]
