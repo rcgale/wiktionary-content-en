@@ -5,6 +5,7 @@
 ==Translations==
 *de: [[Mai]]
 *es: [[mayo]]
+*eu: [[maiatz]]
 *fr: [[mai]]
 *mi: [[mei]]
 *nl: [[mei]]
