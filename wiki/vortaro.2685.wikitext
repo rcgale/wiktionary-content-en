@@ -6,7 +6,18 @@
 
 === [[Traduko]] ===
 
-*[[Angla]]: [[dictionary]]
-*[[Franca]] : Dictionnaire
-*[[Germana]] : Wörterbuch
-*[[Hispana]]: diccionario.
+
+*[[Angla]] : [[dictionary]]
+*[[Dana]] : [[ordbog]]
+*[[Nederlanda]] : [[woordenboek]]
+*[[Estona]] : [[sõnaraamat]]
+*[[Finna]] : [[sanakirja]]
+*[[Franca]] : [[dictionnaire]]
+*[[Frisa]] : [[wurdboek]]
+*[[Germana]] : [[Wörterbuch]]
+*[[Hebrea]] : [[מילון]]
+*[[Interlingvaa]] : [[dictionario]]
+*[[Itala]] : [[dizionario]]
+*[[Pola]] : [[słownik]]
+*[[Portugala]] : [[dicionário]]
+*[[Hispana]] : [[diccionario]]
