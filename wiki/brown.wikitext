@@ -18,3 +18,4 @@ noun
 *fr: brun
 *nl: bruin
 *se: brun
+*pt: castanho
