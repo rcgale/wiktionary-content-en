@@ -1,1 +1,4 @@
-• a word created by the author Robert Heinlein in his novel Stranger in a Strange Land. In the story it was the Martian verb "to drink", and was used figuratively as in "to drink in all available aspects of reality", and even "to become one" with the observed. It has since entered the vocabulary of many as simply a slang expression meaning "to understand".
+===Etymology===
+A word created by the author [[w:Robert Heinlein]] in his novel ''Stranger in a Strange Land''.
+===Verb=== 
+In the story it was the Martian verb "to drink", and was used figuratively as in "to drink in all available aspects of reality", and even "to become one" with the observed. It has since entered the vocabulary of many as simply a slang expression meaning "to understand".
