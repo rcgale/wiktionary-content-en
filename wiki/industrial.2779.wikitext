@@ -4,6 +4,7 @@
 
 ===Translations===
 
+*Finnish: [[teollinen]]
 *French: [[industriel]]
 
 ===Related words===
