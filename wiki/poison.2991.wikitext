@@ -1,3 +1,3 @@
 ===[[Translation]]s===
 
-*[[Spanish]]:[[veneno]]
+*[[Spanish]]: [[veneno]]
