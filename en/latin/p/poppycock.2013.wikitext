@@ -1,11 +1,6 @@
 ===Etymology===
-
-From [[Dutch]]: Poppycock
-
-1)A bunch of nonscence.
-
-
-
-===Dutch===
-
-1)Soft [[cow]] droppings
+From [[Dutch]]: [[pappekak]]; [[pap]] = soft + [[kak]] ''(vulgar]'' = dung
+===Noun===
+#nonsense.
+#:'''Translations'''
+#:*Dutch: [[onzin]], [[nonsens]]
