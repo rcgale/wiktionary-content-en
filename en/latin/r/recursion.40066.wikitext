@@ -1,28 +1,23 @@
+==English==
+==Noun==
+'''recursion'''
+
+#The act of [[recur]]ring.
+#(''mathematics'') The act of defining a function partly in terms of that function.
+#:''n! = n &times; (n - 1)! (for n > 0) or 1 (for n = 0) defines the factorial function using recursion.''
+#(''computing'') The calling of a function from within that function.
+#:''This function uses recursion to compute factorials.''
+
+The image below was generated using recursion, embedding a (former) image of this page in the image itself, then reducing this in size and embedding it in the image itself, and so on.
+
 <div style="float:right;margin:0 0 1em 1em;">[[Image:Recursion(recursion).jpg|Illustration of recursion]]</div>
 
-==English==
+====Quotation====
+*"In order to understand recursion, one must first understand recursion."  -- '''source?'''
 
-==noun==
+====Related terms====
+*[[recur]]
+*[[recursive]]
 
-==recursion==
-
-*1. The act of [http://wiktionary.org/wiki/Recursion recurring].
-
-*2. What happens when a function calls itself.
-
-::example: the [[en:factorial|factorial]] function; 
-:::factorial(n) = n * factorial (n-1)
-
-:::See also: [[Wiktionary]].
-
-:: See the section titled "[http://wiktionary.org/wiki/Recursion#recursion recursion]" for more information.
-
-==What links here==
-* [http://wiktionary.org/wiki/Recursion recursion]
-
-==Antonym?==
-*"In order to understand recursion, one must first understand recursion."
-
-
-==Related term==
-*[[en:Strange loop|Strange loop]]
+====See also====
+*[[en:Strange loop|Wikipedia article on strange loops]]
