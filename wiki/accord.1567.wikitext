@@ -44,4 +44,4 @@ Present participle and verbal noun: [[According]].
 #:*Thy actions to thy words ''accord''. - Milton, ''Paradise regained''
 #To agree in pitch and tone.
 ===Derived words===
-[[accordment]]
+[[according]] - [[accordment]]
