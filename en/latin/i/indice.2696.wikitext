@@ -13,7 +13,7 @@ From Latin [[index]].
 #:'''Translations'''
 #:*[[English]]: [[index]].
 #:*[[Portuguese]]: [[índice]].
-#'''Capitalized.''' Catalog of books whose reading was prohibited by the Roman Catholic Church.
+#''Capitalized.'' Catalog of books whose reading was prohibited by the Roman Catholic Church.
 #:'''Translations'''
 #:*[[English]]: [[Index]].
 #:*[[Portuguese]]: [[Índex]].
