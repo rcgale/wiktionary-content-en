@@ -14,6 +14,8 @@
 *[[Georgian]]: [[ხუთშაბათი]]
 *he: [[יום חמישי]] (yom kha-mee-SHEE)
 *hr: [[Četvrtak]]
+*[[Japanese]]: [[木曜日]] (もくようび;mokuyoubi)
+*[[Korean]]: [[목요일]]{水曜日} (mok-yoil)
 *mi: [[täite]]
 *nl: [[donderdag]]
 *pl: [[czwartek]]
