@@ -1,8 +1,6 @@
 ===Alternative spellings===
-;'''Leap'''
-:Leep, leape.
-;'''Leapt'''
-:Leapped, lept. 
+:'''Leap''': Leep, leape.
+:'''Leapt''': Leapped, lept. 
 ===Etymology===
 ;'''Leap'''
 : From old english [[hlýp]]
