@@ -21,7 +21,7 @@ Plural = dogs
 #:*[[German]]: [[hund]]
 #:*[[Greek]]: [[σκύλος]]
 #:*[[Hebrew]]: [[כלב]] (keh-lev)
-#:*[Hungarian]]: [[kutya]]
+#:*[[Hungarian]]: [[kutya]]
 #:*[[Icelandic]]: [[hundur]]
 #:*[[Inuktitut]]: [[qimmiq]]
 #:*[[Italian]]: [[cane]]
