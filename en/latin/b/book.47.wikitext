@@ -1,5 +1,8 @@
 (en) printed papers, bound together
 
+==Translations==
+
+*da: [[bog]]
 *de: [[Buch]]
 *fr: [[livre]] (1)
 *nl: [[boek]]
