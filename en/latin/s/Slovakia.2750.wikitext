@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Europe. Official name: Slovak Republic.
+#:'''Translations'''
+#:*[[Chinese]]: [[斯洛伐克]]
+#:*[[Danish]]: [[Slovakiet]]
+#:*[[Dutch]]: [[Slowakije]], [[Slovakije]]
+#:*[[Esperanto]]: [[Slovakio]], [[Slovakujo]]
+#:*[[Finnish]]: Slovakia
+#:*[[French]]: [[Slovaquie]]
+#:*[[German]]: [[Slowakei]]
+#:*[[Greek]]: [[Σλοβακία]]
+#:*[[Italian]]: [[Slovacchia]]
+#:*[[Polish]]: [[Słowacja]]
+#:*[[Portuguese]]: [[Eslováquia]]
+#:*[[Russian]]: [[Словакия]]
+#:*[[Spanish]]: [[Eslovaquia]]
+#:*[[Swedish]]: [[Slovakien]]
+
+''See'': [[Countries of the world]]
