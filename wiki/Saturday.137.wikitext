@@ -6,7 +6,7 @@ Old English ''Sætern(es)dæg'' from Latin ''Saturni dies'' (day of Saturn)
 *Azerbaijani: [[ş&#601;nb&#601;]]
 *Blackfoot: [[To'tohtáátoyiiksistsiko]]
 *German: [[Samstag]]
-*Esperanto: [[sabato]]
+*[[Esperanto]]: [[sabato]]; dating one uses it like i.e. "Sabaton, la 22 de januaro 2001"
 *Spanish: [[sábado]]
 *Estonian: [[laupäev]]
 *Basque: [[larunbat]]
