@@ -1,7 +1,6 @@
-==[[adjective]]==
-
-*That last the whole [[life]].
-
-==Related words==
-
-*[[Lifetime job]]
+===Noun===
+#the duration of something or someone's life
+#an informally long period of time
+===Derived phrases===
+*[[lifetime job]]
+*[[of a lifetime]]
