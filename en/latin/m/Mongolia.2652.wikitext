@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Central Asia. Official name: Mongolia.
+#:'''Translations'''
+#:*[[Chinese]]: [[蒙古]]
+#:*[[Danish]]: [[Mongoliet]]
+#:*[[Dutch]]: [[Mongolië]]
+#:*[[Esperanto]]: [[Mongolio]], [[Mongolujo]]
+#:*[[Finnish]]: Mongolia
+#:*[[French]]: [[Mongolie]]
+#:*[[German]]: [[Mongolei]]
+#:*[[Greek]]: [[Μογγολία]]
+#:*[[Interlingua]]: Mongolia
+#:*[[Italian]]: Mongolia
+#:*[[Polish]]: Mongolia
+#:*[[Portuguese]]: [[Mongólia]]
+#:*[[Russian]]: [[Монголия]]
+#:*[[Spanish]]: Mongolia
+#:*[[Swedish]]: [[Mongoliet]]
+
+''See'': [[Countries of the world]]
