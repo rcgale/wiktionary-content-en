@@ -19,4 +19,5 @@ From French ''&eacute;tymologie'', which via Latin [[etymologia]] derives from G
 ==Translations==
 
 * de: [[Etymologie]]
+* he: [[אטימולוגיה]]
 * nl: [[etymologie]]
