@@ -1,0 +1,9 @@
+'''Alien'''
+
+''noun''
+
+# A life form from another [[planet]].
+
+''adjective''
+
+# exceedingly [[strange]], as if it were from another planet. For example, "an alien [[landscape]]".
