@@ -1,7 +1,23 @@
-[[Adjective]].
-
-From [[w:Spain|Spain]]
-
-=== [[Translation]]s ===
-*[[Dutch]]: [[Spaans]]
-*[[Esperanto]]: [[hispana]].
+===[[Adjective]]===
+#Of, from, or pertaining to [[w:Spain|Spain]].
+#:'''Translations'''
+#:*[[Dutch]]: [[Spaans]]
+#:*[[Esperanto]]: [[hispana]]
+#:*[[Interlingua]]: [[espaniol]]
+#:*[[Português]]: [[espanhol]]
+#:*[[Spanish]]: [[español]]
+===[[Noun]]===
+#Majoritary official language of [[w:Spain|Spain]]. Synonym: [[Castilian]].
+#:'''Translations'''
+#:*[[Dutch]]: [[Spaans]]
+#:*[[Esperanto]]: [[hispana]]
+#:*[[Interlingua]]: [[espaniol]]
+#:*[[Português]]: [[espanhol]]
+#:*[[Spanish]]: [[español]]
+#Individual born in [[w:Spain|Spain]]. Synonym: [[Spaniard]].
+#:'''Translations'''
+#:*[[Dutch]]: [[Spanjaard]]
+#:*[[Esperanto]]: [[hispana]]
+#:*[[Interlingua]]: [[espaniol]]
+#:*[[Português]]: [[espanhol]]
+#:*[[Spanish]]: [[español]]
