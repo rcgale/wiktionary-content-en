@@ -1,3 +1,4 @@
+==[[Interlingua]]==
 ===[[Adjective]]===
 #Of, from, or pertaining to [[w:Spain|Spain]].
 #:'''Translations'''
@@ -21,7 +22,7 @@
 #:*[[Esperanto]]: [[hispana]]
 #:*[[Português]]: [[espanhol]]
 #:*[[Spanish]]: [[español]]
-#Race of dogs of Spanish origin.
+#Race of dogs of Spanish origin. Synonym: [[can espaniol]].
 #:*[[Dutch]]: [[spaniël]] (hond)
 #:*[[English]]: [[spaniel]]
 #:*[[French]]: [[épagneul]]
