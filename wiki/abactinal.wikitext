@@ -1,0 +1,5 @@
+'''Abactinal''', ''[[adjective (part of speech)|adjective]]'' [L. ''ab'' + E. ''actinal''.] ''([[Zo&ouml;l (subject)|Zo&ouml;l]]).''
+
+Pertaining to the surface or end opposite to the mouth in a [[radiate]] animal; -- opposed to ''actinal''.
+
+<code>The aboral or ''abactinal'' area.</code> ''[[L. Agassiz (source)|L. Agassiz]].''
