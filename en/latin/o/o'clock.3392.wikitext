@@ -1,0 +1,9 @@
+Of the [[clock]]. 
+
+Means the exact hour.
+
+''At ten o´clock (10:00).
+
+==Translations==
+
+*[[Spanish]]: [[en punto]]
