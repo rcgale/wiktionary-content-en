@@ -4,6 +4,7 @@
 
 ===Translations===
 *[[Dutch]]: baby
+*[[Esperanto]]: [[bebo]]
 *[[Finnish]]: [[vauva]]
 *[[French]]: [[bébé]]
 *[[Interlingua]]: baby, [[bebe]]
