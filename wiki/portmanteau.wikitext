@@ -15,7 +15,7 @@ Used as an ''[[adjective]]''
 #* '''1872''' - Lewis Carroll. ''Alice Through the Looking Glass'' 
 #*: Well, "slithy" means "lithe and slimy." "Lithe" is the same as "active." You see it's like a portmanteau--there are two meanings packed up into one word.
 #* '''1995''' - Michael Cart, ''From Romance to Realism'', page 110, ISBN 0060242892 
-#*: "[[Multiculturalism]]" is a portmanteau word, containing in its [[definition]] and its [[resonance|resonant]] [[connotation|connotations]] as many [[concept|concepts]] as a suitcase does socks
+#*: "[[Multiculturalism]]" is a [[portmanteau word]], containing in its [[definition]] and its [[resonance|resonant]] [[connotation|connotations]] as many [[concept|concepts]] as a suitcase does socks
 
 == Translations ==
 *nl: noun: [[kostuumkoffer]], [[koffer]]; adj: [[mengwoord]] (noun) (= ''portmanteau word'')
