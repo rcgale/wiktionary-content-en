@@ -1,5 +1,7 @@
 In [[telecommunication]], the term '''proration''' has the following meanings: 
 
-<b>1.</b>  The proportional distribution or allocation of parameters, such as [[noise power]] and [[transmission]] losses, among a number of [[tandem]]-connected items, such as equipment, cables, links, or trunks, in order to [[balance]] the performance of [[communications]] circuits.  <i>Synonym</i> <b>budgeting. 2.</b> In a [[telephone]] [[switching center]], the distribution or allocation of equipment or components proportionally among a number of functions, to provide a requisite [[grade of service]]. </b>
+<b>1.</b>  The proportional distribution or allocation of parameters, such as [[noise power]] and [[transmission]] losses, among a number of [[tandem]]-connected items, such as equipment, cables, links, or trunks, in order to [[balance]] the performance of [[communications]] circuits.  <i>Synonym</i> <b>budgeting.</b> 
+
+<b>2.</b> In a [[telephone]] [[switching center]], the distribution or allocation of equipment or components proportionally among a number of functions, to provide a requisite [[grade of service]]. 
 
 Source: from [[Federal Standard 1037C]] and from [[MIL-STD-188]]
