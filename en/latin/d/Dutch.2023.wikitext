@@ -25,6 +25,7 @@
 
 ===Proverbs and Idioms===
 :*[[Double Dutch]]
+:*[[Dutch auction]]
 :*[[Dutch comfort]]
 :*[[Dutch concert]]
 :*[[Dutch courage]]
@@ -32,5 +33,6 @@
 :*[[Dutch gold]]
 :*[[Dutch oven]]
 :*[[Dutch treat]]
+:*[[Dutch uncle]]
 :*[[Going Dutch]]
 :*[[Pennsylvania Dutch]]
