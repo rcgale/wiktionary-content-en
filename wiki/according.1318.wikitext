@@ -14,13 +14,13 @@ Derivative of [[accord]]
 #:'''Quotations'''
 #:*''According to'' him, every person was to be bought. - ''[[Macaulay]]''
 #:*Our zeal should be ''according to'' knowledge. - ''[[Sprat]]''
-:'''Translations'''
-:* [[French]]: [[Selon]]
-:* [[German]]: [[Entsprechend]]
-:* [[Interlingua]]: [[Secundo]]
-:* [[Italian]]: [[Secondo]]
-:* [[Portuguese]]: [[De acordo com]]
-:* [[Spanish]]: [[Según]]
+#:'''Translations'''
+#:* [[French]]: [[selon]]
+#:* [[German]]: [[entsprechend]]
+#:* [[Interlingua]]: [[secundo]]
+#:* [[Italian]]: [[secondo]]
+#:* [[Portuguese]]: [[de acordo com]]
+#:* [[Spanish]]: [[según]]
 
 ===Adverb with "as"===
 #[[precisely]] as; the same as; corresponding to the way in which. ''According as'' is an [[adverbial]] phrase, of which the [[propriety]] has been doubted; but good usage [[sanctions]] it.  
