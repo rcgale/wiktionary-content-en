@@ -1,3 +1,7 @@
-===Noun===
+==[[Noun]]==
 
 #A [[woodwind]] instrument.  Usually among the highest pitched instruments.  Comes in bamboo, wood, or various metals.
+
+== Further reading ==
+
+* [[w:flute|Wikipedia article on the flute]]
