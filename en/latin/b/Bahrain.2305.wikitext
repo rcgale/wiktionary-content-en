@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Middle East. Official name: Kingdom of Bahrain.
+#:'''Translations'''
+#:*[[Chinese]]: [[巴林]]
+#:*[[Dannish]]: Bahrain
+#:*[[Dutch]]: [[Bahrein]]
+#:*[[Esperanto]]: [[Barejno]]
+#:*[[Finnish]]: Bahrain
+#:*[[French]]: [[Bahreïn]]
+#:*[[German]]: Bahrain
+#:*[[Greek]]: [[Μπαχρέιν]]
+#:*[[Interlingua]]: [[Bahrein]]
+#:*[[Italian]]: [[Bahrein]]
+#:*[[Polish]]: [[Bahrajn]]
+#:*[[Portuguese]]: [[Barém]]
+#:*[[Russian]]: [[Бахрейн]]
+#:*[[Spanish]]: [[Bahráin]]
+#:*[[Swedish]]: Bahrain
+
+''See'': [[Countries of the world]]
