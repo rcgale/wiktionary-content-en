@@ -4,6 +4,11 @@ A widely spread myth holds that the term originally referred to the maximum size
 
 The term rule of thumb or similar exists in many languages and cultures. Its likely origin is that the thumb is often used for rough measurement by carpenters, seamstresses and many others.
 
+'''Examples of rules of thumb'''
+
+The tooth-fairy rule - A well-written scientific paper which attempts to explain an astronomical phenonmenon can invoke the tooth fairy no more than once.
+
+
 '''External links'''
 *[http://www.canlaw.com/rights/thumbrul.htm About the Rule of Thumb]
 *[http://www.debunker.com/texts/ruleofthumb.html The "Rule of Thumb for Wife-Beating" Hoax]
