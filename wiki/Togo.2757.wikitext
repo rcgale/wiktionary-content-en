@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Togolese Republic.
+#:'''Translations'''
+#:*[[Chinese]]: [[多哥]]
+#:*[[Danish]]: Togo
+#:*[[Dutch]]: Togo
+#:*[[Esperanto]]: [[Togolo]]
+#:*[[Finnish]]: Togo
+#:*[[French]]: Togo
+#:*[[German]]: Togo
+#:*[[Greek]]: [[Τόγκο]]
+#:*[[Interlingua]]: Togo
+#:*[[Italian]]: Togo
+#:*[[Polish]]: Togo
+#:*[[Portuguese]]: Togo
+#:*[[Russian]]: Того
+#:*[[Spanish]]: Togo
+#:*[[Swedish]]: Togo
+
+''See'': [[Countries of the world]]
