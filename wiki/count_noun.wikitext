@@ -9,3 +9,5 @@ Examples:
 * stone
 * tree
 * [[dollar]]
+
+Compare [[mass noun]].
