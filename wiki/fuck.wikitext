@@ -19,4 +19,5 @@ Used both transitively and intransitively
 *'''fuck someone around'''
 *'''fuck someone off'''
 *'''fuck someone over'''
-*'''fuck someone up'''*'''fuck up'''
+*'''fuck someone up'''
+*'''fuck up'''
