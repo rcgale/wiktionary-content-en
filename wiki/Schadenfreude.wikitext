@@ -1,6 +1,6 @@
 ===Etymology===
 German <i>Schaden</i>: damage, harm + <i>Freude</i>: joy
 ===Pronunciation===
-/'&#643;&#593;:d&#601;n,fr&#596&#618d&#601;
+/'&#643;&#593;:d&#601;n,fr&#596&#618d&#601;/
 ===Noun===
 #pleasure taken from someone else's misfortune.
