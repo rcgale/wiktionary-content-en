@@ -6,13 +6,14 @@
 #:*[[Esperanto]]: [[mi]]
 #:*French: [[je]]
 #:*Frisian: [[ik]]
-#:*Hindi: [[मैं]](mai.n)
+#:*Hindi: [[मैं]] (mai.n)
 #:*Icelandic: [[ég]]
 #:*Interlingua: [[io]]
 #:*Interlingue Occidental: [[yo]]
 #:*Korean: [[나]] (na)
 #:*Latino sine Flexione: [[me]]
 #:*Lojban: [[pami]]
+#:*Polish: [[ja]]
 #:*Portuguese: [[eu]]
 #:*Spanish: [[yo]]
 #:*Volapük: [[ob]]
