@@ -33,6 +33,7 @@
 *[[Hebrew]]: [[עיט]] (also נשר commonly) (Is the first letter a capital? is there one?)
 *[[Hungarian]]: [[Sas]] 
 *[[Icelandic]]: [[Örn]]
+*[[Interlingua]]: [[Aquila]]
 *[[Inuktitut]]: [[Nakturalik]]
 *[[Italian]]: [[Aquila]], [[Àquila]]
 *[[Japanese]]: [[ワシ]] (needs to be checked by speaker)
