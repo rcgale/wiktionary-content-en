@@ -10,4 +10,11 @@
 <li> ''([[Mus (subject)|Mus]]).'' One dash, or more, through the stem of a note, [[dividing]] it [[respectively]] into [[quavers]], [[semiquavers]], or [[demi-semiquavers]]. ''[[Moore (source)|Moore]].''
 </ol>
 
-<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Abréviation]]<BR>• [[German]]: [[Abkürzung]]<BR>• [[Interlingua]]: [[Abbreviation]]<BR>• [[Italian]]: [[Abbreviazione]]<BR>• [[Portuguese]]: [[Abreviatura]]<BR>• [[Spanish]]: [[Abreviatura]]<BR>• [[]]: [[]]
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Abréviation]]
+<BR>• [[German]]: [[Abkürzung]]
+<BR>• [[Interlingua]]: [[Abbreviation]]
+<BR>• [[Italian]]: [[Abbreviazione]]
+<BR>• [[Portuguese]]: [[Abreviatura]]
+<BR>• [[Spanish]]: [[Abreviatura]]
+<BR>•
