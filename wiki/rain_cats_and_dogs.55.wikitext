@@ -1,4 +1,4 @@
-[[proverb]]
+[[idiom]]
 
 Rain very heavily
 
