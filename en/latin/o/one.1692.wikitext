@@ -17,3 +17,4 @@ Used to refer indefinitely to a person. But ''one'' may find other uses.
 *Icelandic: [[einn]], [[ein]],[[eitt]], masc, fem, neuter.
 *Lojban: [[pa]]
 *Swedish: [[ett]], [[en]]
+*Korean: [[하나]] (hana), [[일]] (il)
