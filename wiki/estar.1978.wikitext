@@ -1,11 +1,15 @@
-==Spanish==
-===Verb===
-#to [[be]]. ''Note:'' Spanish uses two different verbs for ''to be'', there are some rules to know which to use, but it is not easy to find the correct solution.  See also [[ser]]
-
-'''Usage'''
-* Place
-:Estoy en casa ''I am at home''
-:¿Dónde estás? ''Where are you ?'' 
+==[[Spanish]]==
+===[[Verb]]===
+#To [[occupy]] a place (temporarily). Cf. [[ser]].
+#:'''Translations'''
+#:*[[English]]: to [[be]]
+#:*[[French]]: [[être]]
+#:*[[Interlingua]]: [[esser]]
+#:*[[Italian]]: [[essere]]
+#:*[[Portuguese]]: estar
+#:'''Usage'''
+#:*''¿Dónde estás?'' 'Where are you ?'
+#:*''Estoy en casa'' 'I am at home'
 
 ===Expressions===
 * Estar por
