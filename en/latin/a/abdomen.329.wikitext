@@ -9,7 +9,7 @@ The belly, or that part of the body between the [[thorax]] and the [[pelvis]]. A
 </ol>
 
 <HR> <P> <H3>Translations</H3>
-<BR>• [[French]]: [[]]
+<BR>• [[French]]: [[Abdomen]]
 <BR>• [[German]]: [[Unterleib]]
 <BR>• [[Interlingua]]: [[Abdomine]]
 <BR>• [[Italian]]: [[Addome]]
