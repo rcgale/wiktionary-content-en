@@ -1,4 +1,4 @@
-Abundance, <i>[[Noun]]</i> 
+Abundance, <i>[[Noun]]</i>, ''great quantity'', ''plentyful supply''. 
 <HR> <P> <H3>Translations</H3>
 <BR>• [[French]]: [[Abondance]]
 <BR>• [[German]]: [[ überfluß]]
