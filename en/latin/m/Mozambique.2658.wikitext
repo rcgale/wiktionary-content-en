@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southern Africa. Official name: Republic of Mozambique.
+#:'''Translations'''
+#:*[[Chinese]]: [[莫桑比克]]
+#:*[[Danish]]: Mozambique
+#:*[[Dutch]]: Mozambique
+#:*[[Esperanto]]: [[Mozambiko]]
+#:*[[Finnish]]: [[Mosambik]]
+#:*[[French]]: Mozambique
+#:*[[German]]: [[Mosambik]]
+#:*[[Greek]]: [[Μοζαμβίκη]]
+#:*[[Interlingua]]: Mozambique
+#:*[[Italian]]: [[Mozambico]]
+#:*[[Polish]]: [[Mozambik]]
+#:*[[Portuguese]]: [[Moçambique]]
+#:*[[Russian]]: [[Мозамбик]]
+#:*[[Spanish]]: Mozambique
+#:*[[Swedish]]: [[Moçambique]]
+
+''See'': [[Countries of the world]]
