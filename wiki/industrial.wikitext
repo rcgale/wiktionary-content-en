@@ -6,6 +6,8 @@
 
 *Finnish: [[teollinen]]
 *French: [[industriel]]
+*Interlingua: industrial
+*Portuguese: industrial
 
 ===Related words===
 
