@@ -1,4 +1,4 @@
-==[[Verb]]
+==[[Verb]]==
 
 ===Synonyms===
 *To [[participate]]
