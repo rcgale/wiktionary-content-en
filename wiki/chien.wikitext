@@ -5,7 +5,7 @@ fr : [[dog]]
 
 '''Synonymes'''
 
-: Le meilleur ami de l'homme (en:the best friend of man)
+: Le meilleur ami de l'homme (man's best friend)
 '''Expressions'''
 
 * un temps de chien ("dog weather"):
