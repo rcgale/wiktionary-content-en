@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Oceania. Official name: Tuvalu.
+#:'''Translations'''
+#:*[[Danish]]: Tuvalu
+#:*[[Dutch]]: Tuvalu
+#:*[[Esperanto]]: [[Tuvalo]]
+#:*[[Finnish]]: Tuvalu
+#:*[[French]]: Tuvalu
+#:*[[German]]: Tuvalu
+#:*[[Greek]]: [[Τουβαλού]]
+#:*[[Interlingua]]: Tuvalu
+#:*[[Italian]]: Tuvalu
+#:*[[Polish]]: Tuvalu
+#:*[[Portuguese]]: Tuvalu
+#:*[[Russian]]: [[Тувалу]]
+#:*[[Spanish]]: Tuvalu
+#:*[[Swedish]]: Tuvalu
+
+''See'': [[Countries of the world]]
