@@ -5,7 +5,7 @@
 # Country in Europe. Official name: Kingdom of Denmark.
 #:'''Translations'''
 #:*[[Chinese]]: [[丹麦]]
-#:*[[Dannish]]: [[Danmark]]
+#:*[[Danish]]: [[Danmark]]
 #:*[[Dutch]]: [[Denemarken]]
 #:*[[Esperanto]]: [[Danio]], [[Danujo]], [[Danlando]]
 #:*[[Finnish]]: [[Tanska]]
