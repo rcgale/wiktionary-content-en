@@ -2,6 +2,7 @@
 Derivative of [[accord]]
 ===Adverb===
 #[[Agreeably]]; [[correspondingly]]; [[suitably]]; in a manner [[conformable]].
+#:'''Quotations'''
 #:*We may the number of ships behold, and so proceed ''accordingly''. - Shakespeare, ''Antony and Cleopatra, III-ix''
 #In natural [[sequence]]; [[consequently]]; so.
 ===Synonyms===
@@ -11,9 +12,9 @@ Derivative of [[accord]]
 *''Consequently'' marks a [[closer]] connection, that of [[logical]] or [[causal]] sequence; as, the papers were not ready, and ''consequently'' could not be signed.
 
 ===Translations===
-• [[French]]: [[en conséquence]]
-• [[German]]: [[dementsprechend]]
-• [[Interlingua]]: [[in consequentia]]
-• [[Italian]]: [[di conseguenza]]
-• [[Portuguese]]: [[conformemente]]
-• [[Spanish]]: [[por consiguiente]]
+*[[French]]: [[en conséquence]]
+*[[German]]: [[dementsprechend]]
+*[[Interlingua]]: [[in consequentia]]
+*[[Italian]]: [[di conseguenza]]
+*[[Portuguese]]: [[conformemente]]
+*[[Spanish]]: [[por consiguiente]]
