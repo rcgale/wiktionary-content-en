@@ -1,4 +1,4 @@
-==[[Adjectif]]==
+==[[Adjective]]==
 
 *That exists now
 
