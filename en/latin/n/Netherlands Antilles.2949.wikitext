@@ -5,8 +5,8 @@
 # Autonomous territory in the Caribbean part of [[The Netherlands]]. Official name: Netherlands Antilles.
 #:'''Translations'''
 #:*[[Chinese]]: [[荷属安的列斯]]
-#:*[[Danish]]: [[De Nederlandske Antiller]]
-#:*[[Dutch]]: [[De Nederlandse Antillen]]
+#:*[[Danish]]: [[Nederlandske Antiller]]
+#:*[[Dutch]]: [[Nederlandse Antillen]]
 #:*[[Esperanto]]: [[Nederlandaj Antiloj]]
 #:*[[Finnish]]: [[Alankomaiden Antillit]]
 #:*[[French]]: [[Antilles néerlandaises]]
