@@ -5,3 +5,4 @@ Beer \Beer\, n.
 # A fermented extract of the roots and other parts of various plants, as spruce, ginger, sassafras, etc.
 
 See Also: [[http://www.wikipedia.org/wiki/Beer Wikipedia:Beer]]
+(adapted from Webster's 1913)
