@@ -17,5 +17,3 @@
 * [[deflation]]
 ===Derivative terms===
 *[[core inflation]]
-----
-==French==
