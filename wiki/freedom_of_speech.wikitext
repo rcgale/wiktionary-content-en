@@ -1,6 +1,6 @@
 ===Expression===
 
-===Translations
+===Translations===
 *French: [[liberté d'expression]]
 *Dutch: [[vrijheid van meningsuiting]]
 *Norwegian: [[ytringsfrihet]]
