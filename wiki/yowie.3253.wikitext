@@ -1,7 +1,7 @@
-===noun===
-====etymology====
-From Aboriginal '''Yuwaalaraay yuwi''', meaning "dream spirit".
-
+==noun==
+===etymology===
+From Aboriginal ''Yuwaalaraay yuwi'', meaning "dream spirit".
+===meanings===
 #An unidentified yeti-like animal said to exist in parts of Australia.
 #:'''translations'''
 #:*
