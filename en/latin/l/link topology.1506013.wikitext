@@ -1,5 +1,3 @@
-<h3>Link Topology</h3>
-
-<b>Definition:</b> Study of the linked structure of the web.
+'''Link Topology''' is the study of the linked structure of the web.
 
 See also: [[Link Awareness]]
