@@ -1,3 +1,3 @@
 '''Translations'''
 
-* [[secrétaire général]] (for a political party)
+* French : [[secrétaire général]] (for a political party)
