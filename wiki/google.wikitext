@@ -1,5 +1,4 @@
-==Pronounciation==
-Goo (as in moo) gull (as in the bird)
+[[Goo-gle] /____/
 
 ==Meaning==
 [[verb]]
