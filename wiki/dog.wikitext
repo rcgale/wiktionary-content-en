@@ -11,12 +11,8 @@ Dog \Dog\ \dôg\
 
 Plural form: dogs
 
-
-
 [[verb|v.]]
 # : go after with the intent to catch [syn: chase, chase after, trail, tail, tag, go after, track]
-
-
 
 == Further reading ==
 *[[en:Dog|Wikipedia article]]
