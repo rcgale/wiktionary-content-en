@@ -1,9 +1,21 @@
+==[[Noun]]==
+1 Flow, stream
+
+'''Translations'''
+*Dutch: [[stroming]]
+*French: [[courant]]
+
+2 Electrical unit
+
+'''Translations'''
+*Dutch: [[stroomsterkte]]
+
 ==[[Adjective]]==
 
 *That exists now
 
-===Translations===
-
+'''Translations'''
+*Dutch: [[huidig]]
 *French: [[actuel]]
 *Spanish: [[actual]]
 
