@@ -4,5 +4,5 @@
 
 === Tradukoj ===
 
-* Angla: [[Railway]]
-* Hispana : tren
+* [[Angla]]: [[Railway]]
+* [[Hispana]] : tren
