@@ -11,6 +11,7 @@ Elephant \El"e*phant\
 *Dutch: [[olifant]]
 *Estonian: [[elevant]]
 *French: [[éléphant]]
+*Frisian: [[oaljefant]]
 *German: [[Elefant]]
 *Hebrew: [[פיל]]
 *Korean: [[코끼리]] (kokkiri)
