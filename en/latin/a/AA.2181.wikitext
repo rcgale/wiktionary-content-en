@@ -1,2 +1,5 @@
-Put your text for the new page here.A view from the top provides a clear vision for as far as the eye can see. One can see and enjoy the sights, scenery and surroundings, for miles and miles, with clarity, understanding and appreciation, when he or she has a clear and unobstructed view. In a similar way, we have the ability to see many positive and constructive things in our daily living, when we are free of negative thoughts and distractions. Seeing clearly 
-can be experienced in a number of ways which can include a vista from the
+===[[Abbreviation]]===
+
+#Automobile Association
+#:'''Translations''' (foreign equivalents)
+#:*[[Dutch]]: [[ANWB]]
