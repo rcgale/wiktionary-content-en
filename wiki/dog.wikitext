@@ -17,8 +17,10 @@ Plural form: dogs
 
 1.
 *de: [[Hund]]
+*es: [[perro]]
 *fr: [[chien]]
 *nl: [[hond]]
+*pt: [[cachorro]]
 
 
 == Further reading ==
