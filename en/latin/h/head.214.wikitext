@@ -1,24 +1,28 @@
-===Pronounciation===
-
-===Meanings===
-
-[[Noun]]
-
-# The part of the [[body]] of a living [[organism]] or [[representation]] thereof which contains the [[brain]], [[eye]]s, [[ear|ears]], [[mouth]], and [[nose]].  From ''The Marvelous Land of Oz'', L. Frank Baum: "...when [[all]] was [[ready]] Tip put on the [[pumpkin]] head, [[press|pressing]] it well down onto the [[neck]], and found that it [[fit|fitted]] very well." [http://www.literature.org/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-01.html]
-# [[Leader]], [[chief]], as in ''Head of the department''
-# [[Nautical terminology|Nautical]] The [[toilet]] or [[restroom]] aboard a [[ship]].
-
-[[Verb]]
-# To be in command of 
-# To move into a [[special]] [[direction]]. ''heading towards something''
-
 ===Etymology===
 
 From old-English ''h&ecirc;afod'', which derives from Germanic [[khaubuthan]], from indo-European [[kaput-]].
 
 Related Germanic words are old German ''houbit'' (Haupt), middle Dutch ''h&ocirc;vet'', ''hoeft'' (hoofd), old Norse ''haufi&eth;'', Gothic ''haubi&thorn;''. Related Indo-European words are Latin [[caput]].
 
-===Translations===
-*de: noun: [[Kopf]] (1, 2), [[Haupt]] (1, 2)(rarely used); verb: [[führen]], [[leiten]]
-*he: noun: ראש; verb: עמד בראש
-*nl: noun: [[hoofd]] (1 (of person or horse), 2), [[kop]] (1 (of animal)); verb: [[leiden]], [[aanvoeren]] (1)
+===Pronounciation===
+
+===Noun===
+
+# The part of the [[body]] of a living [[organism]] or [[representation]] thereof which contains the [[brain]], [[eye]]s, [[ear|ears]], [[mouth]], and [[nose]].  From ''The Marvelous Land of Oz'', L. Frank Baum: "...when [[all]] was [[ready]] Tip put on the [[pumpkin]] head, [[press|pressing]] it well down onto the [[neck]], and found that it [[fit|fitted]] very well." [http://www.literature.org/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-01.html]
+#:'''Translations'''
+#:*de: [[Kopf]], [[Haupt]] (rarely used)
+#:*he: noun: ראש 
+*nl: [[hoofd]] (of person or horse), [[kop]] (of animal)
+# [[Leader]], [[chief]], as in ''Head of the department''
+#:'''Translations'''
+#:*de: [[Kopf]], [[Haupt]] (rarely used)
+*nl: [[kop]] 
+# [[Nautical terminology|Nautical]] The [[toilet]] or [[restroom]] aboard a [[ship]].
+
+===Verb===
+# To be in command of
+#:'''Translations'''
+#:*de: [[führen]], [[leiten]] 
+#:*he: verb: עמד בראש 
+#:*nl: [[leiden]], [[aanvoeren]] 
+# To move into a [[special]] [[direction]]. ''heading towards something''
