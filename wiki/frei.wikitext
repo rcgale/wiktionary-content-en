@@ -14,6 +14,6 @@ Related words: en [[free]], nl [[vrij]]
 
 *en: [[free]]
 *fr: [[libre]]
-*nl: [[vrij]] (not 2), [[gratis]] (2)
+*nl: [[vrij]]
 
 This is an attempt of a non-english entry. Any comments?
