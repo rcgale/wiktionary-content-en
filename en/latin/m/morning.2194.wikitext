@@ -5,5 +5,7 @@
 ===Translations===
 *Dutch: ochtend, morgen
 *French: matin
+*German: [[Morgen]]
+*Hebrew: [[בוקר]]
 *Japanese: asa
 *Spanish: mañana
