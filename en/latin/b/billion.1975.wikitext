@@ -6,5 +6,6 @@
 [[bi]](two) + [[million]] = million, million = 1,000,000 + ,000,000 = 1,000,000,000,000.
 
 ===Translations===
+* Dutch : [[miljard]]
 * French : un [[milliard]]
 * Spanish : [[mil]] [[million]]es (''note'' : there is no word to say a billion in Spanish, so for example 3 billion is translation in 3 mil milliones)
