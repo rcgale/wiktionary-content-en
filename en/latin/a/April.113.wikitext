@@ -1,6 +1,11 @@
-[A-pril] /___/
+[A-pril] /eIpr3l/ (SAMPA) - also in '''de''' /april/, '''nl''' /aprIl/
 
 #April is the 4th [[month]] in the Gregorian [[calendar]]. It has 30 days.
 
+==Etymology==
+From Latin [[aprilis]].
+
 ==Translations==
-*nl: [[april]]
+*de: April
+*fr: [[avril]]
+*nl: april
