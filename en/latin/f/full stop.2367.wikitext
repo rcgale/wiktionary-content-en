@@ -1,0 +1,7 @@
+===Noun===
+
+'''meanings'''
+#[[Punctuation]] [[mark]] indicating the end of a sentence or abbreviation
+
+'''translations'''
+*Dutch: [[punt]]
