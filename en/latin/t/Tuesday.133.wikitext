@@ -6,6 +6,7 @@
 *Blackfoot: [[Isttsinaiksistsiko]]
 *de: [[Dienstag]]
 *es: [[martes]]
+*et: [[telsipäev]]
 *eu: [[astearte]]
 *fr: [[mardi]]
 *[[Georgian]]: [[სამშაბათი]]
