@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Middle East. Official name: Republic of Yemen.
+#:'''Translations'''
+#:*[[Chinese]]: [[也门]]
+#:*[[Danish]]: Yemen
+#:*[[Dutch]]: [[Jemen]]
+#:*[[Esperanto]]: [[Jemeno]]
+#:*[[Finnish]]: [[Jemen]]
+#:*[[French]]: [[Yémen]]
+#:*[[German]]: [[Jemen]]
+#:*[[Greek]]: [[Υεμένη]]
+#:*[[Interlingua]]: Yemen
+#:*[[Italian]]: Yemen
+#:*[[Polish]]: [[Jemen]]
+#:*[[Portuguese]]: [[Iémen]]
+#:*[[Russian]]: [[Йемен]]
+#:*[[Spanish]]: Yemen
+#:*[[Swedish]]: Yemen
+
+''See'': [[Countries of the world]]
