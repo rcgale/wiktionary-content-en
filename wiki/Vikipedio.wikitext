@@ -1,4 +1,4 @@
-==Esperanto
+==Esperanto==
 === Etymology ===
 ''[[vikio]]''+''[[enciklopedio]]''.
 ===Noun===
