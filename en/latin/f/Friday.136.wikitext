@@ -19,6 +19,7 @@
 *nl: [[vrijdag]]
 *pl: [[piątek]]
 *pt: [[sexta-feira]]
+*[[Ruanda]]: [[Kwagatanu]]
 *[[Serbian]]: [[петак]]
 *[[Slovak]]: [[piatok]]
 *[[Somali]]: [[Jimce]]
