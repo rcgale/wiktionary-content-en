@@ -5,7 +5,7 @@
 # Country in the Middle East. Official name: Kingdom of Bahrain.
 #:'''Translations'''
 #:*[[Chinese]]: [[巴林]]
-#:*[[Dannish]]: Bahrain
+#:*[[Danish]]: Bahrain
 #:*[[Dutch]]: [[Bahrein]]
 #:*[[Esperanto]]: [[Barejno]]
 #:*[[Finnish]]: Bahrain
