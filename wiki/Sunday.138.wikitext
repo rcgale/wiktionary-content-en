@@ -6,6 +6,7 @@
 *de: Sonntag
 *es: domingo
 *fr: [[dimanche]]
+*[[Georgian]]: [[კვირადღე]]
 *he: [[יום ראשון]]
 *nl: [[zondag]]
 *pl: [[niedziela]]
