@@ -1,0 +1,15 @@
+'''Abroach''', ''[[transitive verb (part of speech)|transitive verb]]'' [OE. ''abrochen'', OF. ''abrochier''. See [[Broach]].]
+
+To set [[abroach]]; to let out, as liquor; to [[broach]]; to tap. [Obs.] ''[[Chaucer (source)|Chaucer]].''
+-----
+'''Abroach''', ''[[adverb (part of speech)|adverb]]'' [Pref. ''a-'' + ''broach''.]
+
+<ol>
+<li>[[Broached]]; in a condition for [[letting]] out or yielding liquor, as a cask which is tapped.
+
+<code>Hogsheads of ale were set ''abroach''. ''[[Sir W. Scott (source)|Sir W. Scott]].''</code>
+
+<li> Hence: In a state to be [[diffused]] or [[propagated]]; [[afoot]]; [[astir]].
+
+<code>Mischiefs that I set ''abroach''.</code> ''[[Shakespeare (source)|Shakespeare]].''
+</ol>
