@@ -1,0 +1,7 @@
+[[noun]]
+
+#The third day of the [[week]] (according to the ISO 8601 norm).
+
+==Translations==
+*fr: [[mercredi]]
+*nl: [[woensdag]]
