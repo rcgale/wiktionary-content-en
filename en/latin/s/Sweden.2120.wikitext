@@ -2,11 +2,22 @@
 
 '''proper noun'''
 
-# One of the [[Scandinavian]] countries.
+# One of the [[Scandinavian]] countries. Official name: Kingdom of Sweden.
 #:'''Translations'''
+#:*[[Chinese]]: [[瑞典]]
+#:*[[Danish]]: [[Sverige]]
 #:*[[Dutch]]: [[Zweden]]
+#:*[[Esperanto]]: [[Svedio]], [[Svedujo]]
+#:*[[Finnish]]: [[Ruotsi]]
 #:*[[French]]: [[Suède]]
 #:*[[German]]: [[Schweden]]
+#:*[[Greek]]: [[Σουηδία]]
+#:*[[Interlingua]]: [[Svedia]]
+#:*[[Italian]]: [[Svezia]]
 #:*[[Polish]]: [[Szwecja]]
+#:*[[Portuguese]]: [[Suécia]]
+#:*[[Russian]]: [[Швеция]]
+#:*[[Spanish]]: [[Suecia]]
+#:*[[Swedish]]: [[Sverige]]
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
