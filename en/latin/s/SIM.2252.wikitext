@@ -1,0 +1,3 @@
+==[[Abbreviaton]]==
+
+*[[Subscriber Identity Module]]
