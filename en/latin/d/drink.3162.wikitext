@@ -10,5 +10,5 @@
 ==[[noun]]==
 
 ===Translations===
-
+*Dutch: [[drank]]
 *Finnish: [[juoma]]
