@@ -1,11 +1,15 @@
-'''Abash''', ''[[transitive verb (part of speech)|transitive verb]]'' [''[[imp. (part of speech)|imp.]] & [[past participle (part of speech)|past participle]]'' [[Abashed]] ([[&adot]];*[[b&abreve;sht]]"); ''[[present participle (part of speech)|present participle]] & [[vb. n. (part of speech)|vb. n.]]'' [[Abashing]].] [OE. ''abaissen'', ''abaisshen'', ''abashen'', OF. ''esbahir'', F. ''&eacute;bahir'', to [[astonish]], fr. L. ''ex'' + the [[interjection]] ''bah'', expressing [[astonishment]]. In OE. somewhat [[confuse]]d with ''abase''. Cf. [[Finish]].]
-
-To destroy the [[self-]]possession]] of; to confuse or [[confound]], as by exciting suddenly a consciousness of guilt, [[mistake]], or [[inferiority]]; to put to shame; to [[disconcert]]; to [[discomfit]].
-
-<code>''Abashed'', the devil stood, And felt how awful goodness is. ''[[Milton (source)|Milton]].''</code>
-
-<code>He was a man whom no check could ''abash''. ''[[Macaulay (source)|Macaulay]].''</code>
-
-'''Synonyms:''' -- To [[confuse]]; [[confound]]; disconcert; shame. -- To Abash, [[Confuse]], [[Confound]]. ''Abash'' is a [[stronger]] word than ''confuse'', but not so strong as ''confound''. We are ''abashed'' when struck either with sudden shame or with a [[humbling]] sense of inferiority; as, [[Peter]] was ''abashed'' by the look of his Master. So a [[modest]] youth is ''abashed'' in the presence of those who are greatly his superiors. We are ''confused'' when, from some [[unexpected]] or [[startling]] [[occurrence]], we lose [[clearness]] of thought and self- possession. Thus, a witness is often ''confused'' by a severe [[cross-]] examination; a [[timid]] person is apt to be ''confused'' in [[entering]] a room full of [[strangers]]. We are ''confounded'' when our minds are [[overwhelmed]], as it were, by something wholly unexpected, [[amazing]], dreadful, etc., so that we have nothing to say. Thus, a criminal is usually ''confounded'' at the [[discovery]] of his guilt.
-
-<code>Satan stood Awhile as mute, ''confounded'' what to say. ''[[Milton (source)|Milton]].''</code>
+===Etymology===
+Old English ''abaissen'', ''abaisshen'', ''abashen'', Old French ''esbahir'', French ''ébahir'', to [[astonish]], from Latin ''ex'' + the [[interjection]] ''bah'', expressing [[astonishment]]. In Old English somewhat [[confuse]]d with ''abase''. Cf. [[Finish]].
+===Ttransitive verb===
+Imperfect and past participle: [[Abashed]]  ([[a&#775;]];*[[b&#259sht]]"); <br>Present participle and verbal noun: [[Abashing]]
+#To destroy the [[self-]]possession]] of; to confuse or [[confound]], as by exciting suddenly a consciousness of guilt, [[mistake]], or [[inferiority]]; to put to shame; to [[disconcert]]; to [[discomfit]].
+#:'''Quotations'''
+#:*''Abashed'', the devil stood, And felt how awful goodness is. - [[Milton]].
+#:*He was a man whom no check could ''abash''. - [[Macaulay]].
+===Synonyms===
+*To [[confuse]]; [[confound]]; disconcert; shame. 
+*To Abash, [[Confuse]], [[Confound]]. ''Abash'' is a [[stronger]] word than ''confuse'', but not so strong as ''confound''. We are ''abashed'' when struck either with sudden shame or with a [[humbling]] sense of inferiority; as, [[Peter]] was ''abashed'' by the look of his Master. So a [[modest]] youth is ''abashed'' in the presence of those who are greatly his superiors. 
+We are ''confused'' when, from some [[unexpected]] or [[startling]] [[occurrence]], we lose [[clearness]] of thought and self- possession. Thus, a witness is often ''confused'' by a severe [[cross-]] examination; a [[timid]] person is apt to be ''confused'' in [[entering]] a room full of [[strangers]].
+*We are ''confounded'' when our minds are [[overwhelmed]], as it were, by something wholly unexpected, [[amazing]], dreadful, etc., so that we have nothing to say. Thus, a criminal is usually ''confounded'' at the [[discovery]] of his guilt.
+#:'''Quotations'''
+#:*Satan stood Awhile as mute, ''confounded'' what to say. - [[Milton]].
