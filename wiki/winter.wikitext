@@ -1,10 +1,13 @@
 ===Meanings===
-'''en, nl:''' Traditionally the fourth of the four [[season]]s, normally from [[December]] 21 to [[March]] 20.
+# Traditionally the fourth of the four [[season]]s, normally from [[December]] 21 to [[March]] 20.
 
 ===Translations===
-*de: Winter
+*de: [[Winter]]
 *es: [[invierno]]
-*et: talv
+*et: [[talv]]
+*eu: [[negu]]
 *fr: [[hiver]]
-*he: חורף
-*yi: װינטער
+*he: [[חורף]]
+*nl: [[winter]]
+*sq: [[dinër]]
+*yi: [[װינטער]]
