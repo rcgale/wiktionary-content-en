@@ -1,0 +1,3 @@
+#:'''Translations'''
+#:*Dutch: [[hond]]
+#:*English: [[dog]]
