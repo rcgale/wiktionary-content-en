@@ -5,6 +5,6 @@ Latin ''acclamatio'': cf. French ''acclamation''
 #:'''Quotations'''
 #:*On such a day, a holiday having been voted by ''acclamation'', an ordinary walk would not satisfy the children. - [[Southey]].
 #The process of electing a person to a post in the absence of other nominees.
-#''([[Antique]]s]]):'' A representation, in [[sculpture]] or on [[medals]], of people expressing joy.
+#''([[Antique]]s):'' A representation, in [[sculpture]] or on [[medals]], of people expressing joy.
 #:'''Quotations'''
 #:*'''Acclamation medals''' are those on which [[laudatory]] [[acclamations]] are recorded. - [[Elmes]]
