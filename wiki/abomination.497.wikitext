@@ -1,0 +1,13 @@
+'''Abomination''', ''[[noun (part of speech)|noun]]'' [OE. ''abominacioun'', ''-cion'', F. ''abominatio''. See [[Abominate]].]
+
+<ol>
+<li>The feeling of extreme [[disgust]] and hatred; [[abhorrence]]; [[detestation]]; [[loathing]]; as, he holds [[tobacco]] in ''abomination''.
+
+<li> That which is [[abominable]]; anything [[hateful]], wicked, or [[shameful]]ly]] vile; an object or state that excites disgust and hatred; a hateful or shameful vice; [[pollution]].
+
+<code>Antony, most large in his ''abominations''. ''[[Shakespeare (source)|Shakespeare]].''</code>
+
+<li> A cause of pollution or [[wickedness]].
+
+'''Synonyms:''' -- [[Detestation]]; loathing; abhorrence; [[disgust]]; [[aversion]]; [[loathsomeness]]; [[odiousness]]. ''[[Sir W. Scott (source)|Sir W. Scott]].''
+</ol>
