@@ -2,6 +2,9 @@
 
 #Abnormal condition of the body or mind that causes discomfort or dysfunction. 
 
+===Synonyms===
+*[[Illness]]
+
 ===Translations===
 
 *French: [[maladie]]
