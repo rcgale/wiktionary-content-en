@@ -8,3 +8,7 @@ En lingvistiko, '''traduko''' estas meti mesagxon (ne gravas se parolita, skribi
 
 *[[Angla]]: [[translation]]
 *[[Hispana]]: traducción
+
+=== Traduka esperanta vortaro ===
+
+Vi povas uzi http://dictionaries.travlang.com/esperanto.html
