@@ -1,0 +1,1 @@
+(adjective) everyday (Etymology: Latin quotidie)
