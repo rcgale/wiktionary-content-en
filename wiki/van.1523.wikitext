@@ -1,4 +1,4 @@
-'''Van''' /van/ (Dutch)
+[Van] /van/ (Dutch)
 
 # ''prepostition'' expressing possession
 
@@ -12,3 +12,15 @@
 * en: [[of]], [[from]]
 * es: [[de]]
 * fr: [[de]]
+
+----
+
+[Van] /van/ (English)
+
+# A form of vechile that...
+
+=== Examples ===
+
+''The van sped down the road''
+
+=== Translations ===
