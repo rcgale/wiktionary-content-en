@@ -7,3 +7,7 @@ However, political issues matters : some states claims to have different languag
 Conclusion
 
 In the language of the average man,  a dialect is a mix of the two points of view. There also difficulties to determine to what extent you may say that ''people are understanding each other''
+
+==Translations==
+
+*Finnish: [[murre]]
