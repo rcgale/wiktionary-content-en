@@ -7,3 +7,4 @@
 
 * es: plural
 * fr: pluriel
+* he: לשון רבים
