@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Middle East. Official name: Kingdom of Saudi Arabia.
+#:'''Translations'''
+#:*[[Danish]]: [[Saudi-Arabien]]
+#:*[[Dutch]]: [[Saudi-Arabië]], [[Saoedi-Arabië]]
+#:*[[Esperanto]]: [[Saŭdiarabio]], [[Saŭda Arabujo]], [[Saŭda Arabio]], [[Saŭdiarabujo]]
+#:*[[Finnish]]: [[Saudi-Arabia]]
+#:*[[French]]: [[Arabie saoudite]]
+#:*[[German]]: [[Saudi-Arabien]]
+#:*[[Greek]]: [[Σαουδική Αραβία]]
+#:*[[Interlingua]]: [[Arabia Saudi]]
+#:*[[Italian]]: [[Arabia Saudita]]
+#:*[[Polish]]: [[Arabia Saudyjska]]
+#:*[[Portuguese]]: [[Arábia Saudita]]
+#:*[[Russian]]: [[Саудовская Аравия]]
+#:*[[Spanish]]: [[Arabia Saudí]]
+#:*[[Swedish]]: [[Saudiarabien]]
+
+''See'': [[Countries of the world]]
