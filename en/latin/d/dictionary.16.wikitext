@@ -1,7 +1,7 @@
 ===Etymology===
 From medival Latin [[dictionarium]]. 
 ===Pronounciation===
-(UK) IPA:/ˈdɪkʃənrɪ/. 
+(UK) IPA:/ˈdɪkʃənrɪ/.<br> 
 (US) IPA:/ˈdɪkʃənˌerɪ/.  
 ===[[Noun]]===
 #A [[publication]], usually in the form of a [[book]], which gives an ordered list (normally [[alphabetical]]ly) of [[word]]s, normally explaining their meaning and sometimes containing information on etymology, usage, translations and other items related to the word. Some dictionaries list the words of more than one language and/or give translations in more than one language.
