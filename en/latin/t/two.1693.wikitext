@@ -1,5 +1,5 @@
 == Etymology ==
-Old English ''twa'', from Germanic ''*twai'', ''*two'', from PIE ''*dwô''. Cognate to German ''zwei'', French ''deux'', Greek ''???'', Russian ''???''. Combining form ''twi-'', cognate to German ''zwi-'', Sanskrit ''dwi-'', Turkish ''iki''.
+Old English ''twa'', from Germanic ''*twai'', ''*two'', from PIE ''*dwô''. Cognate to German ''zwei'', French ''deux'', Greek ''δυο'', Russian ''два''. Combining form ''twi-'', cognate to German ''zwi-'', Sanskrit ''દ્વિ'' ''dwi-''.
 
 == Number ==
 # The cardinality of the set {0,1}; [[one]] plus one. The number of eyes that a typical human has.
@@ -15,3 +15,4 @@ Old English ''twa'', from Germanic ''*twai'', ''*two'', from PIE ''*dwô''. Cogn
 *nl: [[twee]]
 *pt: [[dois]]
 *sp: [[dos]]
+*tr: [[iki]]
