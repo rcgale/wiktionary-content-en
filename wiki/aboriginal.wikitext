@@ -1,12 +1,12 @@
 ===Etymology===
-Derivative of [[aborigine]]
+Derivative of [[aborigines]]
 ===Adjective===
 #First; original; [[indigenous]]; primitive; native; as, the ''aboriginal'' tribes of America.
 #:'''Quotations'''
 #:*Mantled o'er with ''aboriginal'' turf. - [[Wordsworth]].
-#Of or pertaining to [[aborigine]]s; as, a [[Hindoo]] of ''aboriginal'' blood.
+#Of or pertaining to [[aborigines]]; as, a [[Hindoo]] of ''aboriginal'' blood.
 ===Noun===
-#An original inhabitant of any land; one of the [[aborigine]]s.
+#An original inhabitant of any land; one of the [[aborigines]].
 #An animal or a plant native to the region.
 #:'''Quotations'''
 #:*It may well be doubted whether this frog is an ''aboriginal'' of these islands. - [[Darwin]].
