@@ -1,4 +1,4 @@
-Abbreviation of [[w:North American Free Trade Agreement|North American Free Trade Agreement]]
+[[Abbreviation]] of [[w:North American Free Trade Agreement|North American Free Trade Agreement]]
 
 '''[[Translation]]s'''
 
