@@ -17,3 +17,4 @@ The amount of money that a country has to pay to another country.
 
 * es: [[deuda externa]]
 * fr: [[dette extérieur]]
+* nl: [[binnenlandse schuld]]
