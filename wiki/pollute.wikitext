@@ -1,0 +1,5 @@
+===[[verb]]===
+
+===Translations===
+*[[Interlingua]]: [[polluer]]
+*[[Portuguese]]: [[poluir]]
