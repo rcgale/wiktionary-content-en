@@ -65,5 +65,5 @@ Plural = dogs
 
 
 === Further reading ===
-*Thesaurus: [[Thesaurus:Dog|Dog]]
+*[[Thesaurus]]: [[Thesaurus:Dog|Dog]]
 *[[en:Dog|Wikipedia: Dog]]
