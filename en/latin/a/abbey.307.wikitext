@@ -1,0 +1,1 @@
+Abbey <BR><H5>[[Noun]]</H5> <HR> <P> <H3>Translations</H3><BR>•[[French]] fr: [[Abbaye]]<BR>•[[German]] de: [[Abbey]]<BR>•[[Interlingua]] ia: [[Abbatia]]<BR>•[[Italian]] it: [[]]<BR>•[[Portuguese]] pt: [[Abadia]]<BR>•[[Spanish]] es: [[Abadía]]<BR>•[[]]: [[]]
