@@ -1,8 +1,10 @@
-Of the [[clock]]. 
-
-Means the exact hour.
+Means ''the exact hour''.
 
 ''At ten o´clock (10:00).
+
+==Etymology==
+
+'''O'''f the '''[[clock]]'''. 
 
 ==Translations==
 
