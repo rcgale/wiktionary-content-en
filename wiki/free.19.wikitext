@@ -15,5 +15,5 @@ Related words: de [[frei]], nl [[vrij]]
 ==Translations==
 
 *de: [[frei]], [[umsonst]] (2)
-*fr: [[libre]]
+*fr: [[libre]], [[gratuit]] (2)
 *nl: [[vrij]] (not 2), [[gratis]] (2)
