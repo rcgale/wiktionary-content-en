@@ -1,5 +1,23 @@
-Die
+===Etymology 1===
+Middle English from Old Norse ''deyja''
+===Pronunciation===
+===Verb (usually intransitive)===
+Past tense and participle: died; Present participle: dying
+#To stop living
 
+===Etymology 2===
+Middle English from Old French ''dé''
+===Pronunciation===
+===Noun===
+Plural: dice
+#The cubical part of a pedestal, a plinth
+#A cube numbered on each side used in games of chance
+
+Plural: dies
+#A device for cutting into a specified shape
+#An embossed device used in stamping coins and medals
+
+----
 == Dutch ==
 
 /di:/
@@ -15,3 +33,8 @@ Usage note: a preceding comma may alter the meaning of a clause starting with a 
 
 # ''Die boom'': that tree; ''die jongen''; that boy.
 # ''Ik ken iemand die dat kan'': I know somebody who can.
+
+----
+==Latin==
+===Noun===
+#Ablative singular of ''[[dies]]'' meaning [[day]].
