@@ -1,9 +1,9 @@
 ===noun===
 A ''fruit'' grows on plants. Many fruits are eatable.
 
-
 ===translations===
-German: [[Frucht]]
+*Dutch: fruit (on this page)
+*German: [[Frucht]]
 
 ===examples===
 [[Apple|apple]]
