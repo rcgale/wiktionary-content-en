@@ -1,0 +1,6 @@
+* Inflation whithout the increase or decrease of prices in some sectors.
+**In the eurozone : inflation whithout energy, food, alcohol and tobacoo prices.
+
+===Translations===
+
+*French : [[inflation sous-jacente]]
