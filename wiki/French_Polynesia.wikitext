@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Oceania. Official name: Territory of French Polynesia.
+#:'''Translations'''
+#:*[[Chinese]]: [[法属波利尼西亚]]
+#:*[[Danish]]: [[Fransk Polynesien]]
+#:*[[Dutch]]: [[Frans-Polynesië]]
+#:*[[Esperanto]]: [[Franca Polinezio]]
+#:*[[Finnish]]: [[Ranskan Polynesia]]
+#:*[[French]]: [[Polynésie française]]
+#:*[[German]]: [[Französisch-Polynesien]]
+#:*[[Greek]]: [[Γαλλική Πολυνησία]]
+#:*[[Interlingua]]: [[Polynesia Francese]]
+#:*[[Italian]]: [[Polinesia francese]]
+#:*[[Polish]]: [[Polinezja Francuska]]
+#:*[[Portuguese]]: [[Polinésia Francesa]]
+#:*[[Russian]]: [[Французская Полинезия]]
+#:*[[Spanish]]: [[Polinesia Francesa]]
+#:*[[Swedish]]: [[Franska Polynesien]]
+
+''See'': [[Countries of the world]]
