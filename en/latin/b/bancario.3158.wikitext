@@ -1,5 +1,5 @@
-Spanish
+[[Spanish]]
 
-==Adjective==
+==[[Adjective]]==
 
 #Related to [[bank]]s
