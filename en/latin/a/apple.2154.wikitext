@@ -1,0 +1,11 @@
+==[[noun]]==
+
+#Kind of [[fruit]]
+#A company producing computers
+#Kind of computers produced by that company (see above)
+===Translations===
+
+*Dutch: appel (fruit)
+*French: pomme (fruit)
+*Spanish: manzana (fruit)
+*Japanese: ringo (fruit)
