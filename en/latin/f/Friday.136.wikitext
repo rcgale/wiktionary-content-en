@@ -6,6 +6,7 @@
 *de: Freitag
 *es: viernes
 *fr: [[vendredi]]
+*he: [[יום שישי]]
 *nl: [[vrijdag]]
 *pl: [[piątek]]
 *pt: [[sexta-feira]]
