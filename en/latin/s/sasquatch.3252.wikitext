@@ -1,7 +1,9 @@
-===Proper noun===
+==Proper noun==
+
+===meanings===
 #An unidentified yeti-like animal said to exist in Northwest America.
 #:'''synonyms'''
 #:*[[Bigfoot]]
 #:'''translations'''
 #:*
-#:'''related words:''' [[Abominable Snowman]], [[yeti]], [[yowie]]
+''related words:'' [[Abominable Snowman]], [[yeti]], [[yowie]]
