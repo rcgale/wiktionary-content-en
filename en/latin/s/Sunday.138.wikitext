@@ -17,6 +17,7 @@
 *nl: [[zondag]]
 *pl: [[niedziela]]
 *pt: [[Domingo]]
+*[[Ruanda]]: [[Kwamungu]]
 *[[Serbian]]: [[недеља]]
 *[[Slovak]]: [[nedel'a]]
 *[[Somali]]: [[Axad]]
