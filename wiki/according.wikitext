@@ -1,27 +1,25 @@
 ===Etymology===
 Derivative of [[accord]]
 ===Verb===
-Present participle of [[accord]]
+#Present participle of [[accord]]
 #:'''Quotations'''
-#:*Mind and soul ''according'' well. ''[[Tennyson (source)|Tennyson]].''
+#:*Mind and soul ''according'' well. - ''[[Tennyson]].''
 ===Adjective===
 #[[Agreeing]]; in agreement or harmony; [[harmonious]].
 #:'''Quotations'''
-#:*This ''according'' voice of national wisdom. ''[[Burke (source)|Burke]].''
+#:*This ''according'' voice of national wisdom. - ''[[Burke]]''
 ===Adverb with "to"===
-'''''Note:''''' ''According to'' has been called a [[preposition]]al]] phrase, but [[strictly]] speaking, ''according'' is a participle in the sense of ''agreeing'', ''acceding'', and ''to'' alone is the preposition.
+'''''Note:''''' ''According to'' has been called a [[preposition]]al phrase, but [[strictly]] speaking, ''according'' is a participle in the sense of ''agreeing'', ''acceding'', and ''to'' alone is the preposition.
 #In a manner conforming or corresponding to; in proportion 
 #:'''Quotations'''
-#:*''According to'' him, every person was to be bought. ''[[Macaulay (source)|Macaulay]].''
-#:*Our zeal should be ''according to'' knowledge. ''[[Sprat (source)|Sprat]].''
-
+#:*''According to'' him, every person was to be bought. - ''[[Macaulay]]''
+#:*Our zeal should be ''according to'' knowledge. - ''[[Sprat]]''
 
 ===Adverb with "as"===
-/[[precisely]] as; the same as; corresponding to the way in which. ''According as'' is an [[adverbial]] phrase, of which the [[propriety]] has been doubted; but good usage [[sanctions]] it.  
+[[precisely]] as; the same as; corresponding to the way in which. ''According as'' is an [[adverbial]] phrase, of which the [[propriety]] has been doubted; but good usage [[sanctions]] it.  
 #:'''Quotations'''
-#:*Is all things well, ''According as'' I gave directions? ''[[Shakespeare (source)|Shakespeare]].''
-#:*The land which the Lord will give you ''according as'' he hath promised. ''[[Ex. xii. 25 (source)|Ex. xii. 25]].''
------
+#:*Is all things well, ''According as'' I gave directions? - Shakespeare, ''2 Henry VI, III-ii''
+#:*The land which the Lord will give you ''according as'' he hath promised. - ''Exodus xii. 25''
 ===Adverb by itself===
 #[[Accordingly]]; [[correspondingly]]. [Obsolete]
 #:'''Quotations'''
