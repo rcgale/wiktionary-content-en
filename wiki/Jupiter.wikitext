@@ -1,0 +1,2 @@
+#The fifth planet from the Sun.  It is the most massive planet, and has many moons.  The most notable are the [[Galilean Moons]], Io, Europa, Ganymede and Callisto.
+#The Roman King of the Gods (also Jove).  Equivalent to the Greek [[Zeus]], Jupiter was one of the children of [[Saturn]].
