@@ -1,7 +1,12 @@
-Ein Hund ist ein Tier
+===German===
+noun, ''maskulin''
 
-'''Übersetzung'''
+# a dog
+# a mean person: "''Du gemeiner Hund.''"
 
-*Englisch [[dog]]
+====Translations====
+
+*English [[dog]]
 *Esperanto [[hundo]]
-*Französisch [[chien]]
+*French [[chien]]
+*Russian [[собака]]
