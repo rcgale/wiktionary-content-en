@@ -1,0 +1,7 @@
+==[[Noun]]===
+
+#For [[mobile phone]], it is the fact that information has to go through an object and not only throuh air.
+
+===Translations===
+
+*French: [[effet de masque]]
