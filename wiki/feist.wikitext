@@ -1,0 +1,9 @@
+===Variant spellings===
+[[fist]]
+===Etymology===
+Old English
+===Noun===
+#A silent fart
+#''(US regional)'' a small snappy beligerent mixed-breed dog
+===Derivative Words===
+#[[feisty]]
