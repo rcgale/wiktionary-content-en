@@ -1,11 +1,30 @@
-[March] /___/
+[March] (noun 1), [march] /___/
+
+(noun)
 
 #March is the 3rd [[month]] in the Gregorian [[calendar]]. It has 31 days.
+#[[formal]], [[rhytmic]] [[walk]], especially from [[soldier]]s
+#[[boundary]], [[frontier]] (obsolete)
+
+(verb)
+
+#walk in a march (noun 2)
+#go to [[war]], make [[military]] [[advance]]s
 
 ==Etymology==
-From Latin ''mensis [[Martius]]'' (''month of Mars''), via old French ''Marz''.
+(noun 1): From Latin ''mensis [[Martius]]'' (''month of Mars''), via old French ''Marz''.
+
+(noun 2): from (verb 1)
+
+(noun 3): From Old Germanic *[[marko]] (Old English ''mearc'', ''merc''). From this word the word [[mark]] is derived as well.
+
+(verb): From French [[marcher]] ''to walk'', which comes from Frankish *markon ''to mark, to press (with the foot)'', etymologically related to *marko above.
 
 ==Translations==
+(noun 1):
 *de: [[M&auml;rz]]
 *nl: [[maart]]
 *pl: [[marzec]]
+(verb 1);
+*de: [[marchieren]]
+*nl: [[marcheren]]
