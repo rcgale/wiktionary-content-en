@@ -6,6 +6,7 @@
 ===Translations===
 
 *Dutch: [[tijd]]
+*Esperanto:[[tempo]]
 *French: [[temps]]
 *Spanish: [[tiempo]]
 
