@@ -1,0 +1,18 @@
+===[[noun]]===
+
+1. (US English) A type of [[company]] where the ownership has been arranged into [[share]]s. A [[shareholder]] has no responsibilities to the company and the potential losses of the shareholder are limited to the [[value]] of the stock turning to zero in the case of a [[bankrupcy]].
+
+'''Translations'''
+
+* [[Finnish]]: [[Osakeyhtiö]]
+
+'''Acronyms'''
+
+[[Inc]]
+[[Ltd]] (UK English)
+
+'''See also'''
+
+There are further distinctions to the type of Incorporated company in UK English.
+[[Public Limited Liability Company]], [[Plc]] (UK English)
+[[Limited Liability Company]], [[Llc]] (UK English)
