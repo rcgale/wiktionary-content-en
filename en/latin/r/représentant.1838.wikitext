@@ -1,3 +1,5 @@
-(French)
-
-Representing
+==French==
+===Verb===
+#Present participle of ''representer'' = Representing
+===Noun===
+#Representative
