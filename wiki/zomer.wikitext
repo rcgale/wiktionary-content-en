@@ -1,5 +1,6 @@
 ===Meanings===
-'''nl:''' /zo:m@R/, ''plural'' -s /-s/, traditionally the second of the four [[season]]s, normally in the northern hemisphere from [[June]] 21 to [[September]] 20; [[summer]].
+'''nl:''' /zo:m@R/, ''plural'' -s /-s/, Traditionally the second of the four [[season]]s, typically regarded as being from [[June]] 21 to [[September]] 20 in Northern [[Hemisphere]] regions and from [[December]] 21 to [[March]] 20 in Southern Hemisphere regions.
+:Usually marked by the applicable hemisphere of the [[planet]] being at its maximum angle of exposure to the [[Sun]] resulting in the longest days of the year and  typically the time period with the highest atmospheric [[temperature]]s for the region.
 
 ===Translations===
 *de: [[Sommer]]
