@@ -22,3 +22,4 @@
 *nl: kat
 *ja: neko
 *pl: kot
+*pt: gato
