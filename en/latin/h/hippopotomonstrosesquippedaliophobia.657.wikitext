@@ -1,0 +1,8 @@
+''noun''
+
+[Hip-po-pot-mon-stro-ses-quip-peda-lio-phob-ia]
+/____/
+
+1) The fear of long words.
+
+''"Don't say Hippopotomonstrosesquippedaliophobia, I'm scared of it."
