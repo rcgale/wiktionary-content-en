@@ -29,3 +29,4 @@ Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (
 * de: [[Woche]]
 * fr: [[semaine]]
 * nl: week
+* pl: [[tydzień]]
