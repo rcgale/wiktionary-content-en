@@ -1,3 +1,10 @@
 '''[[noun]]'''
 
 # [[Food]] that comes from the [[muscle]] or other part of an [[animal]].
+
+==Translations==
+
+*de: [[Fleisch]]
+*nl: [[vlees]]
+*fr: [[viande]]
+*fy: [[fleis]]
