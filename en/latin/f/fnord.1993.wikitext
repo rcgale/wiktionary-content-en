@@ -1,3 +1,5 @@
 •  A nonsense term commonly used by a group of satirically inclined devotees known as the Discordians. Often stated as a reminder that what is being said is probably said in jest and to not believe all of what you read.  
 
 • A word referring to the sound of one hand clapping in applause at the creation of the perfectly round rectangle and the perfectly cornered circle. Fnord.
+
+• A very dangerous and mystically powerful word that repeated 42 times in rapid enough succession is said to be able to cause the total destruction of life, the universe, and everything. Fnord. (How rapidly no one knows, and I truly hope no one ever finds out).
