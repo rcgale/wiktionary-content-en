@@ -1,13 +1,19 @@
+===Pronunciation===
 [En-glish]/____
 
-(noun)
+===Noun===
 # The [[language]] of [[England]].
+#:'''Translations'''
+#:*German: [[Englisch]] 
+#:*Dutch: [[Engels]]
+#:*catalan: (m) [[anglès]] ;(f) [[anglesa]]
 # People from [[England]].
-
-(adjective)
+#:'''Translations'''
+#:*German: [[Engländer]] 
+#:*Dutch: [[Engelsman]] (masc.), [[Engelse]] (fem.), [[Engelsen]] (plur.) #:*catalan: (m) [[anglès]] ;(f) [[anglesa]]
+===Adjective===
 # Of or pertaining to England.
-
-===Translations===
-*de: noun: [[Englisch]] (1); [[Engländer]] (2); adj.: [[englisch]]
-*nl: noun: [[Engels]] (1); [[Engelsman]] (masc.), [[Engelse]] (fem.), [[Engelsen]] (plur.) (2); adj.: [[Engels]]
-*catalan: noun (m) [[anglès]] ;(f) [[anglesa]]; adj.(m) [[anglès]] ;(f) [[anglesa]]
+#:'''Translations'''
+#:*German: [[englisch]]
+#:*Dutch: [[Engels]]
+#:*catalan: (m) [[anglès]] ;(f) [[anglesa]]
