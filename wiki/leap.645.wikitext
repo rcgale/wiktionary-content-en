@@ -4,7 +4,7 @@
 ===Etymology===
 :'''Leap''': From old english [[hlýp]]
 :'''Leapt''': Unknown, probable alternate spelling of Leaped (from Leap and suffix -ed). 
-===Pronounciation===
+===Pronunciation===
 :'''Leap''': IPA:/li&#720;p/
 :'''Leaped''': IPA:/li&#720;pd
 :'''Leapt''': IPA:/l&#603;t/ 
@@ -14,29 +14,15 @@
 ;'''Leapt''' or '''leaped'''
 : Past tense and past participle of Leap.
 ===Quotations===
+* '''c. 1450''': It is grete nede a man to go bak to recouer the better his '''leep''' - anonymous, ''Merlin''.
+* '''1600''': I, I defie thee: wert not thou next him when he leapt into the Riuer? - anonymous, ''The wisdome of Doctor Dodypoll'', Act 4.
+* '''1783''': Th' infernal monarch rear'd his horrid head, '''Leapt''' from his throne, lest Neptune's arm should lay His dark dominions open to the day. - Hugh Blair, from the ''Illiad'' in ''Lectures on Rhetoric and Belles Lettres'' Lecture 4, page 65. 
+* '''1999''' It is better to leap into the void.  - Ai, ''Vice: New & Selected Poems'', page 78. 
+===Synonyms===
 ;'''Leap'''
-* '''c. 1450''' - anon, ''Merlin''.
-*: It is grete nede a man to go bak to recouer the better his leep.
-* '''1999''' - Ai, ''Vice: New & Selected Poems'' (1999), page 78.
-*: It is better to leap into the void.
-;'''Leapt'''
-* '''1600''' - anon, ''The wisdome of Doctor Dodypoll'', Act 4.
-*:I, I defie thee: wert not thou next him when he leapt into the Riuer?
-* '''1783''' - Hugh Blair, partial translation of the ''Illiad'' in ''Lectures on Rhetoric and Belles Lettres'' Lecture 4, page 65.
-*:Deep in the dismal region of the dead, 
-*:Th' infernal monarch rear'd his horrid head,
-*:Leapt from his throne, lest Neptune's arm should lay
-*:His dark dominions open to the day; 
-
-===Derived words===
+: [[Jump]], [[spring]]
+===Derived terms===
 ;'''Leap'''
 : [[Leapfrog]], [[Leap-year]].
-===Synoyms===
-;'''Leap'''
-: [[Jump]].
-;'''Leapt'''
-: [[Sprung]].
-
 ===Translations===
-
 *French: [[sauter]]
