@@ -6,6 +6,7 @@
 :* C: 100
 :* D: 500
 :* M: 1000
+:A Line above a number multiplies taht number by 1,000.
 
 == See also ==
 
