@@ -18,6 +18,6 @@
 ===Translations===
 *[[Dutch]]: [[cijfer]] (1, 2)
 *[[German]]: [[Ziffer]] (1, 2)
-*[[Interlingua]]: '''1~3''' [[digito]]
+*[[Interlingua]]: [[digito]] (1, 2, 3)
 *[[Polish]]: [[cyfra]] (1, 2) [[palec]] (3)
-*[[Portuguese]]: '''1~3''' [[dígito]]; '''1~2''' [[algarismo]]; '''3''' [[dedo]]
+*[[Portuguese]]: [[dígito]] (1, 2, 3); [[algarismo]] (1, 2); [[dedo]] (3)
