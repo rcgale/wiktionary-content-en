@@ -1,0 +1,11 @@
+==[[Noun]]==
+
+===Etymology===
+[[latin]] mortarium
+
+#a mixture of [[lime]] or [[cement]], [[sand]] and [[water]] used for [[bonding]] [[bricks]] and [[stones]]
+#short large-bore [[cannon]] that fires [[shells]]
+#[[vessel]] used to grind [[ingredients]] with a [[pestle]]
+
+==[[Verb]]==
+#to use mortar or plaster to join two things together
