@@ -2,3 +2,5 @@
 Derivative of [[abhor]]
 ===Noun===
 #Extreme hatred or [[detestation]]; the feeling of utter dislike.
+
+<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Horreur]]<BR>• [[German]]: [[Abscheu]]<BR>• [[Interlingua]]: [[Abhorrimento]]<BR>• [[Italian]]: [[]]<BR>• [[Portuguese]]: [[]]<BR>• [[Spanish]]: [[Aborrecimiento]]<BR>• [[]]: [[]]
