@@ -34,8 +34,12 @@
 [en] /en/ 
 
 # ''preposition'' expressing being contained
+# preposition used for time indication
 
 === Examples ===
+
+* Estoy en casa . I am at home
+
 
 === Translations ===
 
