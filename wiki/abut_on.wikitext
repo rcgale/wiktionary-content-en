@@ -1,0 +1,11 @@
+Abut, <i>[[Verb]]</i> 
+
+Abut on, <i>[[Verbal Phrase]]</i> 
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Aboutez dessus]]
+<BR>• [[German]]: [[Berühren Sie an]]
+<BR>• [[Interlingua]]: [[Confinar con]]
+<BR>• [[Italian]]: [[Intestare sopra]]
+<BR>• [[Portuguese]]: [[]]
+<BR>• [[Spanish]]: [[Dar tope con]], [[Topar se con]]
+<BR>
