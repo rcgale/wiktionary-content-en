@@ -1,8 +1,7 @@
-/sing gyoolar/
+''[[adjective]]'':
 
-[[adjective]]
+# Used to describe a word or form that refers to one person or thing
 
-Used to describe a word or form that refers to one person or thing
+'''Etymology'''
 
-==Etymology==
 Old French from Latin singularis 'alone of its kind', from singulus (see [[single]])
