@@ -1,1 +1,3 @@
 Act rudely or clumsily in a delicate situation, for example editing an article  in a wiki too boldly, when that article is the result of many careful adjustments and long discussions.
+
+Also "Act like an elephant in a china shop", or the equivalent in other languages.
