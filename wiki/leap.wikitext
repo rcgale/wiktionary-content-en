@@ -36,3 +36,7 @@
 : [[Jump]].
 ;'''Leapt'''
 : [[Sprung]].
+
+===Translations===
+
+*French: [[sauter]]
