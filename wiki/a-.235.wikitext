@@ -1,4 +1,4 @@
-This is a [[w:prefix|prefix]] based on various etymologies
+This is a [[prefix]] based on various etymologies
 ===Germanic Etymologies===
 Anglo Saxon ''an'' or ''a'' meaning  "on" or "in" 
 #denoting a state, as in [[afoot]], on foot, [[abed]], [[amiss]], [[asleep]], [[aground]], [[aloft]], [[away]] (Anglo Saxon ''onweg''), and [[analogically]], [[ablaze]], [[atremble]], etc.
