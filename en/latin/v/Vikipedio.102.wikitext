@@ -1,0 +1,11 @@
+# Libera [[enciklopedio]], kunlaborata per la [[Interreto]]
+
+== Etimologio ==
+''[[vikio]]''+''[[enciklopedio]]''.
+
+== Tradukoj ==
+Angle [[Wikipedia]], france kaj portugale [[Wikipédia]]
+
+== Ekstera ligilo ==
+
+* [http://eo.wikipedia.org/ Hejmpagxo de la Vikipedio]
