@@ -71,7 +71,7 @@
  Ecuador Quechua         canda munani 
  English             I love you 
  English             I adore you 
- Esperanto           Mi amas vin
+ [[Esperanto]]       [[Mi]] [[ami|amas]] [[vi]]n
  Ewondo              Ma ding wa
  Unknown             Mina armastan sind 
  Unknown             Ma armastan sind 
