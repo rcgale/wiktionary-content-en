@@ -33,7 +33,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 *French: [[chien]]
 *Frisian: [[hûn]]
 *German: [[Hund]]
-*Hebrew: [[כלב]]
+*Hebrew: [[כלב]] (KEH-lev)
 *Inuktitut: [[qimmiq]]
 *Italian: [[cane]]
 *Lojban: [[gerku]]
@@ -43,7 +43,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 *Russian: [[собака]]
 *Slovak: [[pes]]
 *Spanish: [[perro]]
-*Yiddish: [[הונט]]
+*Yiddish: [[הונט]] (hoont)
 
 == Further reading ==
 *[[en:Dog|Wikipedia: Dog]]
