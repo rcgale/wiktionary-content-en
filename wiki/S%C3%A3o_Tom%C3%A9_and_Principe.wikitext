@@ -1,0 +1,1 @@
+#REDIRECT [[São Tomé and Príncipe]]
