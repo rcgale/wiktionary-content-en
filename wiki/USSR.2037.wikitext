@@ -1,3 +1,4 @@
+===English===
 ===Pronunciation===
 As separate letters: [U-S-S-R]
 ===Abbreviaion===
@@ -11,9 +12,15 @@ As separate letters: [U-S-S-R]
 #:*[[Spanish]]: [[URSS]]
 
 ----
-Dutch:
-Unie van Socialistische Sovjetrepublieken
+===Dutch===
+===Abbreviaion===
+#Unie van Socialistische Sovjetrepublieken
+#:'''Translations'''
+#:''See English''
 
 ----
-German:
-Union der Sowjetischen Sozialistischen Republiken
+===German===
+===Abbreviaion===
+#Union der Sowjetischen Sozialistischen Republiken
+#:'''Translations'''
+#:''See English''
