@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southeast Asia. Official name: Kingdom of Cambodia.
+#:'''Translations'''
+#:*[[Chinese]]: [[柬埔寨]]
+#:*[[Danish]]: [[Cambodja]]
+#:*[[Dutch]]: [[Cambodja]]
+#:*[[Esperanto]]: [[Kamboĝo]]
+#:*[[Finnish]]: [[Kambodža]]
+#:*[[French]]: [[Cambodge]]
+#:*[[German]]: [[Kambodscha]]
+#:*[[Greek]]: [[Καμπότζη]]
+#:*[[Interlingua]]: Cambodia
+#:*[[Italian]]: [[Cambogia]]
+#:*[[Polish]]: [[Kambodża]]
+#:*[[Portuguese]]: [[Camboja]]
+#:*[[Russian]]: [[Камбоджа]]
+#:*[[Spanish]]: [[Camboya]]
+#:*[[Swedish]]: [[Kambodja]]
+
+''See'': [[Countries of the world]]
