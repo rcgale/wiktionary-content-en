@@ -1,0 +1,9 @@
+Accustom, <i>[[Verb]]</i>, ''to familiarize oneself with something by force of habit or through regular use''. 
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Accoutumer]]
+<BR>• [[German]]: [[Gewöhnen Sie sich]]
+<BR>• [[Interlingua]]: [[Accostumar]]
+<BR>• [[Italian]]: [[]]
+<BR>• [[Portuguese]]: [[Acostumar]]
+<BR>• [[Spanish]]: [[Acostumbrarse]]
+<BR>
