@@ -9,5 +9,5 @@
 *[[Hebrew]]: [[קיץ]]
 *[[Mäori]]: [[raumati]]
 *[[Portuguese]]: [[verão]]
-*[[Spanish: [[verano]]
+*[[Spanish]]: [[verano]]
 *[[Yiddish]]: [[זומער]]
