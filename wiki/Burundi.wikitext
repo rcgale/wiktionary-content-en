@@ -5,7 +5,7 @@
 # Country in Eastern Africa. Official name: Republic of Burundi.
 #:'''Translations'''
 #:*[[Chinese]]: [[布隆迪]]
-#:*[[Dannish]]: Burundi
+#:*[[Danish]]: Burundi
 #:*[[Dutch]]: Burundi
 #:*[[Esperanto]]: [[Burundo]], [[Burundio]]
 #:*[[Finnish]]: Burundi
