@@ -16,4 +16,5 @@
 *pt: [[quinta-feira]]
 *sq: [[e enjte]]
 *sv: [[torsdag]]
+*Wolof: [[Alxames]]
 *yi: [[דאָנערשטיק]]
