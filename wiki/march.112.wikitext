@@ -3,7 +3,7 @@
 (noun)
 
 #March is the third [[month]] in the Gregorian [[calendar]]. It has 31 [[day]]s.
-#[[formal]], [[rhytmic]] [[walk]], especially from [[soldier]]s
+#[[formal]], [[rhythmic]] [[walk]], especially from [[soldier]]s
 #[[boundary]], [[frontier]] (obsolete)
 
 (verb)
@@ -25,9 +25,15 @@
 *de: [[M&auml;rz]]
 *es: [[marzo]]
 *fr: [[mars]]
+*he: [[מרץ]]
 *nl: [[maart]]
 *pl: [[marzec]]
+
+(noun 2)
+*he: [[צעדה]]
+
 (verb 1);
 *de: [[marchieren]]
 *es: [[marchar]]
+*he: [[צעד]]
 *nl: [[marcheren]]
