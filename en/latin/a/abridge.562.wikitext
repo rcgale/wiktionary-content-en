@@ -15,7 +15,7 @@
 <HR> <P> <H3>Translations</H3>
 <BR>• [[French]]: [[Abréger]]
 <BR>• [[German]]: [[Verkürzen sich]]
-<BR>• [[Interlingua]]: [[Abbreviar]]
+<BR>• [[Interlingua]]: [[Abbreviar]], [[Reducer]]
 <BR>• [[Italian]]: [[Ridurre]]
 <BR>• [[Portuguese]]: [[]]
 <BR>• [[Spanish]]: [[Abreviar]]
