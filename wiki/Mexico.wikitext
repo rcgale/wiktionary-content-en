@@ -22,6 +22,7 @@
 #:'''Translations'''
 #:*[[Dutch]]: Mexico
 #:*[[French]]: Mexico
+#:*[[Interlingua]]: Mexico, citate de Mexico
 #:*[[Polish]]: [[Meksyk]]
 
 ''See'': [[Countries of the world]]
