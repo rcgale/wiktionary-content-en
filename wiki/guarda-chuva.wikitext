@@ -1,5 +1,7 @@
 ==[[Portuguese]]==
 /gwaʀdaˈʃuva/
+===[[Etymology]]===
+From [[guardar]] 'to guard' + [[chuva]] 'rain'.
 ===[[Noun]]===
 #Cloth-covered frame used for protection against rain or sun. Synonym: [[sombrinha]].
 #:'''Translations'''
