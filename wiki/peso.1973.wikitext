@@ -5,7 +5,7 @@ Examples
 ==Translations==
 :French : le peso chilien
 
-* Mexico's peso 
+* Mexico's peso (it is divided in 100 [[centavo]]s)
 ==Translations==
 :Fench : peso mexicain
 
