@@ -5,3 +5,4 @@
 #:'''Translations'''
 #:*[[Dutch]]: [[NAVO]] (Noord-Atlantische Verdragsorganisatie)
 #:*[[French]]: [[OTAN]]
+#:*[[German]]: NATO
