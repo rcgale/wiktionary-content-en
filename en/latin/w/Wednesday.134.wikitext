@@ -14,6 +14,8 @@
 *[[Georgian]]: [[ოთხშაბათი]]
 *he: [[יום רביעי]] (yom r'vee-EE)
 *hr: [[Srijeda]]
+*[[Japanese]]: [[水曜日]] (すいようび;suiyoubi)
+*[[Korean]]: [[수요일]]{水曜日} (suyoil)
 *mi: [[wenerei]]
 *nl: [[woensdag]]
 *pl: [[środa]]
