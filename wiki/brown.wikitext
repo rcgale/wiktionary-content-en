@@ -11,6 +11,8 @@
 
 '''Translations'''
 
+noun
+
 *fr: brun
 *es: pardo
 *nl: bruin
