@@ -13,6 +13,8 @@ Related Germanic words are old German ''houbit'' (Haupt), middle Dutch ''h&ocirc
 #:*de: [[Kopf]], m; [[Haupt]], n (rarely used)
 #:*he: noun: ראש
 #:*is: [[höfuð]] (of person), [[haus]] (of animal) 
+#:*Japanese: [[頭]] (あたま;atama) (need to be checked)
+#:*Korean: [[머리]] (meori)
 #:*nl: [[hoofd]] (of person or horse), [[kop]] (of animal)
 #:*se: [[huvud]]
 # [[Leader]], [[chief]], as in ''Head of the department''
