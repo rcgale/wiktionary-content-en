@@ -9,7 +9,7 @@
 ''(noun)''
 
 # week
-# present tense singular of [[weken]] ([[soak]])
+# present tense singular of [[weken]] (to [[soak]])
 
 ''(adverb)''
 
