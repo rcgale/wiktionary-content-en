@@ -3,7 +3,8 @@
 # Not [[imprisoned]] or [[enslaved]]. ''ein freier [[Mann]]''
 # No [[payment]] necessary. ''Freier Eintritt'', ''Freibier''
 # Un[[limit]]ed. ''Ihm wurde freie [[Macht]] über das [[Land]] gegeben''
-# Without [[obligation]]s. ''Frei[[zeit]]''
+# Without. ''[[Blei]]frei''
+# Available. ''Frei[[zeit]]''
 
 ==Etymology==
 
