@@ -1,9 +1,15 @@
-# The current [[day]] or [[date]].
+# (''adverb'') At or on the current [[day]] or [[date]].
 
 ===Translations===
 *de: [[heute]]
 *es: [[hoy]]
+*fr: [[aujourdhui]]
 *he: היום
 *nl: [[vandaag]]
 *pt: [[hoje]]
 *sv: [[idag]]
+
+# (''adverb'') Nowadays.
+
+===Translations===
+*de: [[heutzutage]]
