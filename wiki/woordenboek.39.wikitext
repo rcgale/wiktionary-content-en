@@ -1,1 +1,1 @@
-(nl), [[dictionary]]
+(nl): [[dictionary]]
