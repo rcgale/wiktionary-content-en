@@ -5,3 +5,4 @@
 
 '''translations'''
 *Dutch: [[punt]]
+*Finnish: [[piste]]
