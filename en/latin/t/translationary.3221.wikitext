@@ -5,8 +5,6 @@
 #''(Geometry):'' Pertaining to the shifting of co-ordinate axes.
 ===[[Noun]]===
 #''(New):'' Translation dictionary.
-
-Translations : 
-
+:Translations : 
 *[[Esperanto]]: tradukvortaro.
 *[[Spanish]]: traduccionario.
