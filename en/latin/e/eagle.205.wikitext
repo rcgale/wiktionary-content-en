@@ -51,7 +51,7 @@
 *[[Inuktitut]]: [[Nakturalik]]
 *[[Italian]]: [[Aquila]], [[Àquila]]
 *[[Japanese]]: [[ワシ]] (needs to be checked by speaker)
-*[[Korean]]: [[독수리]] (needs to be checked by speaker)
+*[[Korean]]: [[독수리]]
 *[[Latin]]: [[Aquila]], [[Aqvila]]
 *[[Latvian]]: [[Ērglis]]
 *[[Lithuanian]]: [[Erelis]]
