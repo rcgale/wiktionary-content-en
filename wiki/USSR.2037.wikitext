@@ -13,7 +13,6 @@ As separate letters: [U-S-S-R]
 #:*[[Portuguese]]: [[URSS]]
 #:*[[Russian]]:[[CCCP]] ([[SSSR]] - romanised)
 #:*[[Spanish]]: [[URSS]]
-
 ----
 ===Dutch===
 ===Abbreviaion===
