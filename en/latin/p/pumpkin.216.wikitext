@@ -1,0 +1,8 @@
+===Pronounciation===
+
+===Meanings===
+
+[[noun]]
+
+# A [[domesticated]] [[plant]] similar in [[growth]] pattern [[foliage]], [[flower]], and [[fruit]] to the [[squash]] or [[mallow]].
+# The [[round]] [[yellow]] or [[orange]] fruit of the pumpkin plant. L. Frank Baum, ''The Land of Oz'' "There were pumpkins in Mombi's corn-fields, lying golden red among the [[row|rows]] of [[green]] [[stalk|stalks]]; and these had been [[plant|planted]] and carefully [[tend|tended]] that the four-horned [[cow]] might [[eat]] of them in the [[winter time]]. [http://www.literature.org/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-01.html]
