@@ -16,7 +16,7 @@
 
 From old-English ''h&ecirc;afod'', which derives from Germanic [[khaubuthan]], from indo-European [[kaput-]].
 
-Related Germanic words are old German ''houbit'' (haupt), middle Dutch ''h&ocirc;vet'', ''hoeft'' (hoofd), old Norse ''haufi&eth;'', Gothic ''haubi&thorn;''. Related Indo-European words are Latin [[caput]].
+Related Germanic words are old German ''houbit'' (Haupt), middle Dutch ''h&ocirc;vet'', ''hoeft'' (hoofd), old Norse ''haufi&eth;'', Gothic ''haubi&thorn;''. Related Indo-European words are Latin [[caput]].
 
 ===Translations===
 *de: noun: [[Kopf]] (1, 2), [[Haupt]] (1, 2)(rarely used); verb: [[führen]], [[leiten]]
