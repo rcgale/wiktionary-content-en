@@ -1,6 +1,6 @@
 In [[computing]], a [[shebang]] is command that makes a [[Unix-like]] [[operating system]] execute the commands in a [[text file]] using an [[interpreter (computer software)|interpreter]]. A shebang consists of a [[number sign]] and [[exclamation point]] character "#!" in the first two columns of the first line, followed by the [[Path (computing)|path]] to the [[computer program|program]] that will provide the interpretation. 
 
-The name shebang comes from the [[contraction (Linguistics)|contraction]] of ''sharp bang'', or ''hash bang'', referring to the two characters. Unix jargon uses ''hash'' to refer to the number sign character and ''bang'' to refer to the exclamation point.
+The name shebang comes from the [[contraction (linguistics)|contraction]] of ''sharp bang'', or ''hash bang'', referring to the two characters. Unix jargon uses ''hash'' to refer to the number sign character and ''bang'' to refer to the exclamation point.
 
 A typical shebang line could be: <code>#!/bin/sh</code>
 
