@@ -2,7 +2,7 @@
 # a word formed from the initial letters of several other words
 #:'''Examples'''
 #:*[[RAM]]
-#:*[[FAQ]]
+#:*[[EFTA]]
 #:'''Translations'''
 #:*[[Dutch]]: [[acroniem]], [[letterwoord]]
 #:*[[French]]: [[acronyme]]
