@@ -3,13 +3,11 @@
 # (''adverb'') In the current era; nowadays: "In the 1500s, people had to do things by hand, but today we have electric can openers."
 
 ===Translations===
-*de: [[heute]]
+*de: [[heute]], [[heutzutage]]
 *es: [[hoy]]
 *fr: [[aujourd'hui]]
+*fy: [[hjoed]] (1,2), no, [[hjoed de dei]] (3)
 *he: היום
-*nl: [[vandaag]] (1, 2, 3), [[tegenwoordig]] (3)
+*nl: [[vandaag]] (1, 2, 3), [[tegenwoordig]], [[vandaag de dag]] (3)
 *pt: [[hoje]]
 *sv: [[idag]]
-
-===Translations===
-*de: [[heutzutage]]
