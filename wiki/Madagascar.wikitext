@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southern Africa. Official name: Republic of Madagascar.
+#:'''Translations'''
+#:*[[Chinese]]: [[马达加斯加]]
+#:*[[Danish]]: [[Madagaskar]]
+#:*[[Dutch]]: [[Madagaskar]]
+#:*[[Esperanto]]: [[Madagaskaro]]
+#:*[[Finnish]]: [[Madagaskar]]
+#:*[[French]]: Madagascar
+#:*[[German]]: [[Madagaskar]]
+#:*[[Greek]]: [[Μαδαγασκάρη]]
+#:*[[Interlingua]]: Madagascar
+#:*[[Italian]]: Madagascar
+#:*[[Polish]]: [[Madagaskar]]
+#:*[[Portuguese]]: [[Madagáscar]]
+#:*[[Russian]]: [[Мадагаскар]]
+#:*[[Spanish]]: Madagascar
+#:*[[Swedish]]: [[Madagaskar]]
+
+''See'': [[Countries of the world]]
