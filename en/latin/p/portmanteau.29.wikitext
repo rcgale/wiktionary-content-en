@@ -1,0 +1,13 @@
+UK: /pO:t'm{nt@u/ , US: /pO:rt'm{ntou/
+
+Plural, portmanteaus, portmanteaux
+
+''noun.''
+
+# A large travelling case made of [[leather]].
+
+# ''Linguistics.''  A word formed by combining parts of other words; for example, ''[[smoke]]'' and ''[[fog]]'' combine to for ''[[smog]].''
+
+== Further reading ==
+
+* [[w:portmanteau|Wikipedia article]]
