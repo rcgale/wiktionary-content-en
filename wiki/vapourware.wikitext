@@ -1,0 +1,2 @@
+===Noun===
+#Software which has been publicised and has passed it's announced release date without being made available.
