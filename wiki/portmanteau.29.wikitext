@@ -1,4 +1,5 @@
-UK: /pO:t'm{nt@u/ , US: /pO:rt'm{ntou/
+:UK: /pO:t'm{nt@u/ in SAMPA, /p&#596;:t'mant&#601;&#650;/ in IPA 
+:US: /pO:rt'm{ntou/ in SAMPA.
 
 Plural, portmanteaus, portmanteaux
 
