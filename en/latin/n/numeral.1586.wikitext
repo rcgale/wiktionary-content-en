@@ -1,4 +1,5 @@
-'''Numeral''' /'num3@l/
+'''Numeral'''
+[[Pronunciation]]:  /'num3@l/
 
 ===[[Count noun]]===
 
