@@ -39,6 +39,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 *Inuktitut: [[qimmiq]]
 *Italian: [[cane]]
 *Lojban: [[gerku]]
+*Malayalam: [[നായ്]]
 *Maori: [[kurii]]
 *Portuguese: [[cão]]
 *Provençal: [[can]]
