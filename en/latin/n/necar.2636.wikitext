@@ -1,1 +1,9 @@
-NECAR (SE), {v}, [en:(in water) drown][fr:Noyez-vous][it:Annegarsi][es:Ahogúese][pt:Afogue-se][de:Ertrinken sich].
+==Swedish==
+===Verb===
+#To drown in water
+===Translations===
+*French: Se [[noyer]]
+*Italian: [[Annegarsi]]
+*Spanish: [[Ahogúese]]
+*Portuguese: [[Afogue-se]]
+*German: [[Ertrinken sich]].
