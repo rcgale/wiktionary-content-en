@@ -14,3 +14,12 @@ Present participle and verbal noun: [[Abounding]]
 #:*Men ''abounding in'' natural courage. - [[Macaulay]].
 #:*A faithful man shall ''abound with'' blessings. - ''Proverbs 28:20''
 #:*It ''abounds with'' cabinets of curiosities. - [[Addison]].
+
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Abonder]]
+<BR>• [[German]]: [[Haben Sie überfluss]]
+<BR>• [[Interlingua]]: [[Abundar]]
+<BR>• [[Italian]]: [[Abbondare]]
+<BR>• [[Portuguese]]: [[]]
+<BR>• [[Spanish]]: [[Abundar]]
+<BR>
