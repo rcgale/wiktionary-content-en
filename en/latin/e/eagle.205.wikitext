@@ -5,6 +5,7 @@
 # Any of several carnivorous bird species in the order [[Falconiformes]], known to have a powerful hooked bill and have keen vision.
 # Old coin used in the United States.
 # The landing [[unit]] of [[Apollo]] 11
+# In [[golf]],a [[hole in one]]
 
 ===Translations===
 
