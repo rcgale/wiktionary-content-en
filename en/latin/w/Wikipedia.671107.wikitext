@@ -1,4 +1,4 @@
-[[eo:Vikipedio]][[es:Wikipedia]]
+[[eo:Vikipedio]] [[es:Wikipedia]]
 
 
 Proper name.
