@@ -21,6 +21,7 @@
 *[[Bulgarian]]: [[Oрел]]
 *[[Cebuano]]: [[Agila]]
 *[[Chamorro]]: [[Ágila]]
+*[[Cheyenne]]: [[Netse]]
 *[[Chinese(Simplified)]]: [[老鹰]] (needs to be checked by speaker)
 *[[Chinese(Traditional)]]: [[老鷹]] (needs to be checked by speaker)
 *[[Cornish]]: [[Er]]
@@ -57,6 +58,7 @@
 *[[Persian]]: [[عقاب‌، شاهين‌ قرهقوش]] (needs to be checked by speaker)
 *[[Polish]]: [[Orzeł]] (1)
 *[[Portugese]]: [[Aguia]]
+*[[Potawatomi]]: [[Kno]]
 *[[Quechua]]: [[Anca]]
 *[[Romanian]]: [[Vultur]]
 *[[Russian]]: [[Oрел]]
