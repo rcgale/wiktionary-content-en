@@ -1,6 +1,10 @@
 #:'''Translations'''
 #:*[[Dutch]]: [[ja]]
+#:*[[Esperanto]]: [[jes]]
 #:*[[French]]: [[oui]]
 #:*[[German]]: [[ja]]
+#:*[[Interlingua]]:[[si]]
+#:*[[Latin]]: [[ita]]
 #:*[[Portuguese]]: [[sim]]
 #:*[[Spanish]]: [[sí]]
+#:*[[Volapük]]: [[si]]
