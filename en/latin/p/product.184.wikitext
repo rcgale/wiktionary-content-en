@@ -1,0 +1,9 @@
+Product
+
+''[[noun]]''
+# commodities offered for sale; "good business depends on having good merchandise"; "that store offers a variety of products" [''syn:'' [[merchandise]], [[wares]]]
+# the amount of an artifact that has been created by someone or some process; "they improve their product every year"; "they export most of their agricultural production" [''syn:'' [[production]]]
+# a consequence of someone's efforts or of a particular set of circumstances; "skill is the product of hours of practice"; "his reaction was the product of hunger and fatigue"
+# a chemical substance formed as a result of a chemical reaction; "a product of lime and nitric acid"
+# a quantity obtained by multiplication; "the product of 2 and 3 is 6" [''syn:'' [[mathematical product]]]
+# the set of elements common to two or more sets; "the set of red hats is the intersection of the set of hats and the set of red things" [''syn:'' [[intersection]]]
