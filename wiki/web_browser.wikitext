@@ -1,0 +1,11 @@
+==[[noun]]==
+# Software designed to communicate with an [[HTTP]] server, and render pages from their [[HTML]] source into visual form.
+# Examples of web browsers:
+## NSCA Mosaic
+## - Internet Explorer
+## Opera
+## Mozilla
+## - Netscape
+## - Phoenix
+## - Galeon
+# A person who performs web browsing.
