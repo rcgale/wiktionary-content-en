@@ -1,0 +1,7 @@
+''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Accadian]] for the new Wiktionary definition of this term.''
+
+'''Accadian''', ''<code>[[adjective (part of speech)|adjective]]</code>'' [From the city ''Accad''. See Gen. x. 10.]
+
+Pertaining to a race supposed to have lived in [[Babylonia]] before the [[Assyrian]] [[conquest]].
+
+-- Accadian, ''<code>[[noun (part of speech)|noun]]</code>'', Ac"cad (&?;), ''<code>[[noun (part of speech)|noun]]</code>'' ''[[Sayce (source)|Sayce]].''
