@@ -1,6 +1,6 @@
 [Ja-nu-a-ry] /___/
 
-#January is the 1st [[month]] in the Gregorian [[calendar]].
+#January is the 1st [[month]] in the Gregorian [[calendar]]. It has 31 days.
 
 ==Translations==
 *nl: [[januari]]
