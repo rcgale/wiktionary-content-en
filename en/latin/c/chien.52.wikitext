@@ -1,5 +1,9 @@
 fr : [[dog]]
 
+
+'''Synonymes'''
+
+: Le meilleur ami de l'homme (en:the best friend of man)
 '''Expressions'''
 
 * un temps de chien :
