@@ -1,9 +1,8 @@
-{{cleanup}}
-In [[computing]], a [[shebang]] is a special line that begins an executable [[text file]] causing [[Unix-like]] [[operating system]]s to execute the commands in the text file using a specific [[interpreter (computer software)|interpreter]] ([[computer program|program]]).
+In [[computing]], a [[shebang]] is a special line that begins an executable [[text file]] (commonly called a [[script (computer programming)|script]]) causing [[Unix-like]] [[operating system]]s to execute the commands in the text file using a specific [[interpreter (computer software)|interpreter]] ([[computer program|program]]).
 
-A shebang consists of a [[number sign]] and an [[exclamation point]] character (so "#!") in the first two columns of the first line, followed by the [[Path (computing)|path]] to the interpreter program that will provide the interpretation. The name ''shebang'' comes from an inexact [[contraction (linguistics)|contraction]] of ''sharp bang'' or ''haSH bang'', referring to the two typical Unix names of the two characters. (Unix jargon uses ''sharp'' or ''hash'' to refer to the number sign character and ''bang'' to refer to the exclamation point, hence ''shebang''.)
+A shebang consists of a [[number sign]] and an [[exclamation point]] character (so "#!") in the first two columns of the first line, followed by the [[Path (computing)|path]] to the interpreter program that will provide the interpretation. The name ''shebang'' comes from an inexact [[contraction (linguistics)|contraction]] of ''sharp bang'' or ''haSH bang'', referring to the two typical Unix names of the two characters. (Unix jargon uses ''sharp'' or ''hash'' to refer to the number sign character and ''bang'' to refer to the exclamation point, hence ''shebang''.) Because the "#" character is used as the comment marker in these executable text files, the actual contents of the shebang line will be ignored by the interpreter; the shebang line only exists to specify the correct interpreter to be used.
 
-The shebang is actually a human-readable instance of a [[Magic number (programming)#Magic numbers in files|magic number]] in the executable file (with shebang equalling 0x2321). Executable files that do not require an interpreter program start with other magic combinations.
+The shebang is actually a human-readable instance of a [[Magic number (programming)#Magic numbers in files|magic number]] in the executable file (with shebang equalling the magic number 0x2321). Executable files that do not require an interpreter program start with other magic combinations. (See [[File format]] for more details of magic numbers.)
 
 Some typical shebang lines:
 * <code>#!/bin/sh</code> -- Execute using <code>sh</code> program in the <code>/bin/</code> directory, the [[Bourne shell]]
@@ -11,41 +10,31 @@ Some typical shebang lines:
 * <code>#!/bin/perl</code> -- Execute using [[Perl]]
 
 
-It is common for different variants of even the same operating system to have different locations for the desired interpreter. Thus, it is not uncommon to need to edit the shebang line after copying a [[script (computer programming)|script]] from one computer to another.
+It is common for different variants of even the same operating system to have different locations for the desired interpreter. In the absence of a rigidly standardised filesystem structure among different Unix distributions, this method can also limit the portability of the file. Thus, it is not uncommon to need to edit the shebang line after copying a [[script (computer programming)|script]] from one computer to another because the path that was coded into the script may not apply on a new machine.  
 
-==Unix 'sha-bang' line==
-Related to Magic Numbers as described above, and built-in metadata, is the convention for [[Unix]], and therefore [[Linux]], executable scripts to begin with the characters '#!' followed by the path to the program which should be used to execute or interpret the script.
-
-In all the relevant scripting languages, the character '#' introduces a comment, which means that this line's content will effectively be hidden from the interpreter when it finally runs.
-
-The combination '#!', pronounced "sha-bang" in this context, is represented by the hexadecimal numbers 23 21.  In some flavours of Unix, this magic number in itself means that this is an executable file.  Other Unices, including Linux, require that the file's 'executable' metadata bit is also set.
-
-The Unix command-line command after the sha-bang defines the type of the file in terms of how it will be handled by the system.  
-
-In the absence of a rigidly standardised filesystem structure among different Unix distributions, this method can also limit the portability of the file.  The path that was coded into the script may not apply on a new machine.  
-
-=====Sha-bang line examples - opening lines of some executable script files=====
-This file is a [[PERL]] script, to be run with 'warnings' enabled (-w):
-
- #!/usr/bin/perl -w
- use strict;
- # This script updates...
- my $thisGroup = "";
- ...
-
-This file is also a PERL script but it assumes that the PERL interpreter is in a different place:
-
- #!/usr/local/bin/perl
- foreach $k (keys %ENV) {
-     print qq'$k = $ENV{"$k"}\n';
- }
-
+== Example shebang lines ==
 This file is [[bash]] script, the [[Linux]] equivalent of a [[DOS]] [[batch file]]:
 
  #!/bin/bash
- #simple backup script.
- if [ -e $HOME/backups ]
- then
+ #
+ # The rest of the bash script
+ ...
+
+
+This file is a [[Perl]] script, to be run with 'warnings' enabled (-w):
+
+ #!/usr/bin/perl -w
+ #
+ # The rest of the Perl script
+ ...
+
+
+This file is also a Perl script but it assumes that the Perl interpreter is in a different place.
+Also, the Perl interpreter is run without extra warnings being enabled.
+
+ #!/usr/local/bin/perl
+ #
+ # The rest of the Perl script
  ...
 
 ==External links==
