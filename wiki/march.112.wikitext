@@ -3,7 +3,7 @@
 #March is the 3rd [[month]] in the Gregorian [[calendar]]. It has 31 days.
 
 ==Etymology==
-From Latin ''mensis [[Martius]]''. The German form M&auml;rz, which is influenced by the [[second sound shift]], shows that this must have been derived in the Germanic languages at a very early stage.
+From Latin ''mensis [[Martius]]'' (''month of Mars''), via old French ''Marz''.
 
 ==Translations==
 *de: [[M&auml;rz]]
