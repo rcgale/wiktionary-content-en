@@ -14,7 +14,7 @@
 *German: Katze, f
 *Spanish: gato
 *French: chat
-*Hebrew: חתול
+*Hebrew: [[חתול]]
 *Italian: gatto
 *Japanese: neko
 *Korean: 고양이 (go-yang-i) 
