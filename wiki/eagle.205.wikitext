@@ -8,10 +8,16 @@
 
 ===Translations===
 
+*[[Afrikaans]]: [[Arend]]
 *[[Dutch]]: [[Arend]], [[Adelaar]] (1)
 *[[Estonian]]: [[Kotkas]]
+*[[Finnish]]: [[Kotka]]
 *[[French]]: [[Aigle]] (1)
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
+*[[Hungarian]]: [[Sas]] 
+*[[Italian]]: [[Aquila]], [[Àquila]]
 *[[Latin]]: [[Aqvila]]
+*[[Norwegian]]: [[Ørn]]
 *[[Polish]]: [[Orzeł]] (1)
 *[[Spanish]] : [[Águila]] (1)
+*[[Swedish]]: [[Örn]]
