@@ -33,9 +33,11 @@
 ===Translations===
 '''Caution''' ''This verb is fraught with irregularities of both form and usage in many languages.  Strict literal translations should be viewed with suspicion.''
 *Dutch: [[zijn]], [[wezen]] (archaic, used in certain idioms and expressions)
+*Ekspreso: [[esen]]
 *Esperanto : [[esti]]
 *Finnish: [[olla]]
 *French: [[être]]
 *German : [[sein]]
+*Intelingua: [[esser]], [[ser]] 
 *Portuguese: ''intransitive'' '''1''' [[ser]], [[existir]], '''2''' [[estar]]; ''copular'' '''1~3''' [[ser]]; ''auxiliary'' '''1''' [[ser]] (with passive voice), '''2''' [[estar]] (with active voice)
 *Spanish: [[ser]], [[estar]] (''note'' : ser and estar are not employed in the same cases)
