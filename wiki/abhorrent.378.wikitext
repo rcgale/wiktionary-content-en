@@ -13,3 +13,13 @@ Latin ''abhorens'', ''-rentis'', p. pr. of ''abhorrere''.
 #[[Detestable]].
 #:'''Quotations'''
 #:*Pride, ''abhorrent'' as it is.</code> ''[[I. Taylor (source)|I. Taylor]].''
+
+
+---- 
+'''Translations''' 
+* [[French]]: [[Répugnant]] 
+* [[German]]: [[Verabscheuungswürdig]] 
+* [[Interlingua]]: [[Abhorrente]], [[Repugnante]] 
+* [[Italian]]: [[Ripugnante]] 
+* [[Portuguese]]: [[]] 
+* [[Spanish]]: [[Repugnante]]
