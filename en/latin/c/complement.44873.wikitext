@@ -22,7 +22,7 @@
 #: ''The complement of the odd numbers is the even numbers, relative to the natural numbers.''
 # {{logic}} An expression which is true when the other is false, and vice versa.
 # {{electronics}} A voltage level with the opposite logical sense to the given one.
-# {{mathematics}} The complement relative to some other base, being the number which, added to the given ''n''-digit number in base ''b'', results in either ''b''<sup>''n''</sup> or ''b''<sup>''n''<sup>-1.
+# {{mathematics}} The complement relative to some other base, being the number which, added to the given ''n''-digit number in base ''b'', results in either ''b''<sup>''n''</sup> or ''b''<sup>''n''<sup>''-1''</sup></sup>.
 # {{cattag2|computing|mathematics}} The [[ones complement]] ([[logical complement]]) of a number.
 #: ''The complement of 0xAAAA is 0x5555.''
 # {{cattag2|computing|mathematics}} The [[twos complement]] ([[numeric complement]]) of a number.
