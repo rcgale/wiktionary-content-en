@@ -6,6 +6,7 @@
 *de: Dienstag
 *es: martes
 *fr: [[mardi]]
+*[[Georgian]]: [[სამშაბათი]]
 *he: [[יום שלישי]]
 *nl: [[dinsdag]]
 *pl: [[wtorek]]
