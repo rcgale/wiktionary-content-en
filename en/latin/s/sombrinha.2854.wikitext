@@ -1,6 +1,6 @@
 ==[[Portuguese]]==
 /sõˈbrĩɲa/
-===[[Etymology]]==
+===[[Etymology]]===
 Diminutive of [[sombra]] 'shadow'.
 ===[[Noun]]===
 #Cloth-covered frame used for protection against rain or sun. Synonym: [[guarda-chuva]].
