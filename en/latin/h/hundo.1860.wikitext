@@ -3,6 +3,7 @@
 #Hundo estas besto
 #:'''Translation'''
 #*English [[dog]]
+#*Esperanto [[hundo]]
 #*French [[chien]]
 #*German [[Hund]]
 #*Spanish [[perro]]
