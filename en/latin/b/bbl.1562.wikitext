@@ -1,3 +1,3 @@
 # Abbreviation for [[barrel]]s, notably for oil.
 # Abbreviation used on irc  meaning "be back later"
-# BBL (with capital letters) is a big Belgian bank, that is changing however its name into ''ING Group''
+# BBL (with capital letters) is a big Belgian bank (Bank Brussel Lambert / Banque Bruxelles Lambert), that is absorbed in the ''ING Group''
