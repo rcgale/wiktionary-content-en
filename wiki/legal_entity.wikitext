@@ -1,0 +1,10 @@
+==[[noun]]==
+
+An [[entity]] eglible for [[legal]] action.
+
+===examples===
+a [[company]], a [[registered association]], a [[trust fund]]
+
+'''Translations'''
+
+* [[Finnish]]: [[oikeushenkilö]]
