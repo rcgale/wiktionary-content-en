@@ -7,7 +7,7 @@
 # [[Reputation]]
 
 [[verb]]
-# The [[act]] of [[give|giving]] [[someone]] or [[something]] a name. From ''The Land of Oz'' by L. Frank Baum'' ... "I will name the fellow 'Jack Pumpkinhead!'"
+# The [[act]] of [[give|giving]] [[someone]] or [[something]] a name. From ''The Land of Oz'' by L. Frank Baum'' ... "I will name the fellow 'Jack Pumpkinhead!'"; [name after (nl: noemen naar)]
 # [[Choose]], as in ''You name it.''
 # [[Mention]], [[specify]], as in ''He named his demands.''
 
