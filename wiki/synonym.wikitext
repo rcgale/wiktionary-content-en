@@ -1,6 +1,6 @@
 [[noun]]:
 
-A synonym is a word or phrase in any given language which has a meaning exactly or very nearly the same thing as another word or phrase in that language. A given word may have between zero and multiple synonyms.
+A synonym is a word or phrase in any given language which has a meaning exactly or very nearly exactly the same as another word or phrase in that language. A given word may have between zero and multiple synonyms.
 
 The opposite (or antonym) of a synonym is an [[antonym]].
 
