@@ -6,4 +6,6 @@
 
 * French : [[syndicat]]
 :When ''trade union'' is opposed to ''[[entreprise union]]'' the translation is : synidacat de métier
+* ge: die [[Gewerkschaft]]
+* it: [[sindacato]]
 * pt: [[sindicato]]
