@@ -16,6 +16,7 @@ Related words: de [[frei]], nl [[vrij]]
 *da: [[fri]], [[gratis]] (2)
 *de: [[frei]], [[umsonst]] (2), [[gratis]] (2), [[kostenlos]] (2)
 *et: [[vaba]], [[tasuta]] (2)
+*he: חינם ,חופשי 
 *fr: [[libre]], [[gratuit]] (2)
 *nl: [[vrij]] (not 2), [[gratis]] (2)
 *sv: [[fri]], [[gratis]] (2), [[kostnadsfri]] (2)
