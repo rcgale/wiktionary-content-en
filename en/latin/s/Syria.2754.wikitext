@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Middle East. Official name: Syrian Arab Republic.
+#:'''Translations'''
+#:*[[Chinese]]: [[叙利亚]]
+#:*[[Danish]]: [[Syrien]]
+#:*[[Dutch]]: [[Syrië]]
+#:*[[Esperanto]]: [[Sirio]]
+#:*[[Finnish]]: [[Syyria]]
+#:*[[French]]: [[Syrie]]
+#:*[[German]]: [[Syrien]]
+#:*[[Greek]]: [[Συρία]]
+#:*[[Interlingua]]: Syria
+#:*[[Italian]]: [[Siria]]
+#:*[[Polish]]: Syria
+#:*[[Portuguese]]: [[Síria]]
+#:*[[Russian]]: [[Сирия]]
+#:*[[Spanish]]: [[Siria]]
+#:*[[Swedish]]: [[Syrien]]
+
+''See'': [[Countries of the world]]
