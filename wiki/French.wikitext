@@ -17,7 +17,7 @@ From Middle English, from Old English <i>frencisc</i> 'Frankish', from <i>franca
 #:*Dutch: [[Fransman]] (masculine), [[Franse]] or [[Française]] (feminine)
 #:*Interlingua: [[francese]]
 #:*Portuguese: [[francês]]
-#:*Swedsig: [[fransman]] (masculine), [[fransyska]] (feminine)
+#:*Swedsih: [[fransman]] (masculine), [[fransyska]] (feminine)
 ===Adjective===
 # Of or pertaining to France.
 #:'''Translations'''
@@ -26,5 +26,6 @@ From Middle English, from Old English <i>frencisc</i> 'Frankish', from <i>franca
 #:*Portuguese: [[francese]]
 
 ===Proverbs and Idioms===
-*[[french kiss]]
-*[[french leave]]
+*[[French fries]]
+*[[French kiss]]
+*[[French leave]]
