@@ -8,3 +8,4 @@
 *fr: septembre
 *nl: [[september]]
 *pl: [[wrzesień]]
+*sq: [[shtator]]
