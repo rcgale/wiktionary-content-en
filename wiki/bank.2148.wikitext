@@ -1,6 +1,6 @@
 ===Etymology===
 
-*From the italian word  ''banca''
+#From the italian word  ''banca''
 
 ===Defintion===
 
