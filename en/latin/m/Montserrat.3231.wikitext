@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Overseas territory of the [[United Kingdom]]; placed in the Caribbean. Official name: Montserrat.
+#:'''Translations'''
+#:*[[Danish]]: Montserrat
+#:*[[Dutch]]: Montserrat
+#:*[[Esperanto]]: [[Montserato]], [[Moncerato]]
+#:*[[Finnish]]: Montserrat
+#:*[[French]]: Montserrat
+#:*[[German]]: Montserrat
+#:*[[Greek]]: [[Μοντσεράτ]], [[Μονσερράτ]]
+#:*[[Italian]]: [[Monserrat]]
+#:*[[Polish]]: Montserrat
+#:*[[Portuguese]]: [[Monserrate]]
+#:*[[Russian]]: [[Монсеррат]]
+#:*[[Spanish]]: Montserrat
+#:*[[Swedish]]: Montserrat
+
+''See'': [[Countries of the world]]
