@@ -2,8 +2,7 @@
 
 Have some data about something.
 
-*[[Irregular Conjugation]].
-
+*[[Irregular Conjugation]]:
 **Know : [[infinitive]]
 **knew : [[preterite]] 
 **known: [[past participle]]
