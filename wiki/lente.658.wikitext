@@ -6,7 +6,7 @@
 *[[French]]: [[printemps]]
 *[[Hebrew]]: [[אביב]]
 *[[Polish]]: [[wiosna]]
-*Yiddish]]: [[פרילינג]]
+*[[Yiddish]]: [[פרילינג]]
 ==French==
 ===Adjective===
 #Feminine form of the adjective ''lent'' meaning [[slow]]
