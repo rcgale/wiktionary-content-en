@@ -1,0 +1,7 @@
+==English==
+
+# Country on the Balkan Peninsula.
+#:'''Translations'''
+#:*[[Dutch]]: [[Voormalige Joegoslavische Republiek Macedonië]]
+
+''See:'' [[Countries of the world]]
