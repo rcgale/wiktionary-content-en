@@ -1,7 +1,7 @@
-==[[Noun]]==
-
+==French==
+===[[Noun]]===
+#A female president
+==Spanish==
 #[[President]]
-
 ===Synonyms===
-
 *[[Mandatario]] (it has a broader meaning)
