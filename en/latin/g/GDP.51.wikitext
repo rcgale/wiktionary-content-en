@@ -1,6 +1,6 @@
 Abbreviation of Gross Domestic Product.
 
 '''Translations'''
-
+*da : BNP = [[Bruttonationalprodukt]]
 *fr : PIB = [[Produit Intérieur Brut]]
 *nl : BNP = [[Bruto Nationaal Product]]
