@@ -11,7 +11,7 @@ Middle English from Old French ''dé''
 ===Noun===
 Plural: dice
 #The cubical part of a pedestal, a plinth
-#A cube numbered on each side used in games of chance
+#A polyhedron, usually a cube, with numbers or symbols on each side and used in games of chance
 
 Plural: dies
 #A device for cutting into a specified shape
