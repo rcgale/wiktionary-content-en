@@ -1,1 +1,6 @@
-(adjective) the everyday, common, ordinary (Etymology: Latin quotidie)
+==Adjective== 
+#[[occurring]] or [[recurring]] every [[day]]
+#[[common]], [[ordinary]], [[trivial]] 
+
+===Etymology=== 
+Latin quotidie - daily
