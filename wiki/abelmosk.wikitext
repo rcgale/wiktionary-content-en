@@ -1,0 +1,3 @@
+'''Abelmosk''', ''[[noun (part of speech)|noun]]'' [NL. ''abelmoschus'', fr. Ar. ''abu-l-misk'' father of musk, ''[[i. e (source)|i. e]].'', producing musk. See [[Musk]].] ''([[Bot (subject)|Bot]]).''
+
+An [[evergreen]] shrub (''Hibiscus'' -- formerly ''Abelmoschus -- moschatus''), of the East and West Indies and Northern Africa, whose [[musky]] seeds are used in [[perfumery]] and to flavor [[coffee]]; -- sometimes called ''musk mallow''.
