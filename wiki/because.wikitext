@@ -5,7 +5,10 @@
 * French : 
 : [[Parce que]]
 : [[Car]]
-: [[En raison]]. ''Note : usually used only in written French and not used in a conversation.
-
+: [[En raison]]. ''Note : usually used only in written French and not used in a conversation.''
 *Spanish
 : [[Porque]]
+*German
+: [[weil]]
+: [[denn]]
+: [[da]]
