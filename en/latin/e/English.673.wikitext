@@ -6,7 +6,7 @@
 #:'''[[Translation]]s'''
 #:*[[Catalan]]: (m) [[anglès]], (f) [[anglesa]]
 #:*[[Dutch]]: [[Engels]]
-#:*[[Esperanto]]: [[Angla]] ([[lingvo]])
+#:*[[Esperanto]]: [[Angla]]
 #:*[[Finnish]]: [[Englanti]]
 #:*[[French]]: [[anglais]]
 #:*[[German]]: [[Englisch]]
