@@ -5,3 +5,4 @@
 *es: [[hoy]]
 *he: היום
 *nl: [[vandaag]]
+*sv: [[idag]]
