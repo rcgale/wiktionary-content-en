@@ -1,14 +1,6 @@
 ===Etymology===
-From the French word ''brassière''
+From the French word ''[[brassière]]''
 ===Noun===
 #A piece of underwear worn by women to support the breasts
 #:'''Translations'''
 #:*[[French]]: [[Soutien-gorge]]
-
-----
-==French==
-'''Brassière''' (with accent)
-===Noun===
-#A child's vest.
-#''(Maritime):'' A life jacket.
-#''The use of this word, notably in Quebec French, in the sense of the English ''brassiere'' is an anglicism, and a back-formed false friend.''
