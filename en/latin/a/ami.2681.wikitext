@@ -4,6 +4,7 @@
 To have great affection for.
 
 ===Translations===
+*[[Dutch]]: [[liefhebben]], [[houden van]]
 *[[English]]: to [[love]]
 *[[French]]: [[aimer]]
 *[[Interlingua]]: [[amar]]
