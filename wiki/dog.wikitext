@@ -36,6 +36,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 *Hebrew: כלב
 *Inuktitut: qimmiq
 *Italian: cane
+*Lojban: [[gerku]]
 *Maori: kurii
 *Russian: собака
 *Slovak: pes
