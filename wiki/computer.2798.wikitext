@@ -1,6 +1,7 @@
 ===[[Noun]]===
 
 ===Translations===
+*[[Dutch]]: computer
 *[[French]]: [[ordinateur]]
 *[[Interlingua]]: [[computator]]
 *[[Italian]]: computer
