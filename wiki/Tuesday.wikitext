@@ -10,6 +10,7 @@
 *fr: [[mardi]]
 *[[Georgian]]: [[სამშაბათი]]
 *he: [[יום שלישי]]
+*hr: [[Utorak]]
 *mi: [[türei]]
 *nl: [[dinsdag]]
 *pl: [[wtorek]]
