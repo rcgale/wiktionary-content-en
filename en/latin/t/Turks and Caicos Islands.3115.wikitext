@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Caribbean. Official name: Turks and Caicos Islands.
+#:'''Translations'''
+#:*[[Danish]]: [[Turks- og Caicosøerne]]
+#:*[[Dutch]]: [[Turks- en Caicoseilanden]]
+#:*[[Esperanto]]: [[Turkoj kaj Kajkoj]]
+#:*[[Finnish]]: [[Turks- ja Caicossaaret]]
+#:*[[French]]: [[Iles Turks-et-Caicos]]
+#:*[[German]]: [[Turks- und Caicosinseln]]
+#:*[[Greek]]: [[Νήσοι Τερκς και Κάικος]], [[Νήσοι Τερκς και Κέικος]]
+#:*[[Italian]]: [[Isole Turks e Caicos]]
+#:*[[Polish]]: [[Turks i Caicos]]
+#:*[[Portuguese]]: [[Ilhas Turcas e Caicos]]
+#:*[[Russian]]: [[Теркс и Кайкос острова]]
+#:*[[Spanish]]: [[Islas Turcas y Caicos]]
+#:*[[Swedish]]: [[Turks- och Caicosöarna]]
+
+''See'': [[Countries of the world]]
