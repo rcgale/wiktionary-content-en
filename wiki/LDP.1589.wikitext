@@ -1,0 +1,8 @@
+* Abreviation of Linux Documentation Project
+
+* Abreviation of Liberal Democratic Party, a party of Japan.
+'''Synonyms'''
+:Liberal Democratic Party (the name in full)
+:Jiyû Minshutô (the name in Japanese)
+'''Translations'''
+:French : partie démocrate-libéral
