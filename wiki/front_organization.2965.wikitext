@@ -1,0 +1,2 @@
+===Noun===
+#An organization which secretly acts as the public face of a covert group.
