@@ -1,8 +1,9 @@
 ==English==
 ===abbreviation===
-#(''Biology'') Deoxyribonucleic acid.
+#(''Biology'') Deoxyribo'''n'''ucleic '''a'''cid.
+# Did Not Answer
 # Did Not Attend
 # Defense Nuclear Agency 
 
 ==French==
-#D ernière Nouvelles d'Alsace
+#Dernière Nouvelles d'Alsace
