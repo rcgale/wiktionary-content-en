@@ -3,6 +3,7 @@
 # Country in Western Europe.
 #:'''Translations'''
 #:*[[Dutch]]: [[Duitsland]]
+#:*[[Esperanto]]: [[Germanio]]
 #:*[[French]]: [[Allemagne]]
 #:*[[German]]: [[Deutschland]]
 
