@@ -6,7 +6,7 @@
 #:'''Translations'''
 #:*[[Chinese]]: [[毛里塔尼亚]]
 #:*[[Danish]]: [[Mauretanien]]
-#:*[[Dutch]]: [[Mauritanië]]
+#:*[[Dutch]]: [[Mauretanië]]
 #:*[[Esperanto]]: [[Maŭritanio]], [[Maŭritanujo]]
 #:*[[Finnish]]: Mauritania
 #:*[[French]]: [[Mauritanie]]
