@@ -26,7 +26,7 @@ French ''accès'', Latin ''accessus'', from ''accedere''. See [[Accede]]
 #:'''Quotations'''
 #:*The first ''access'' looked like an apoplexy. - [[Burnet]]
 #A [[paroxysm]]; a fit of passion; an [[outburst]]; as, an ''access'' of fury. [A [[Gallicism]]]
-#''(law):'' the right of a [[non-custodial parent]] to visit their [[child]]
+#''(law):'' the right of a [[w:non-custodial parent|non-custodial parent]] to visit their [[child]]
 ===[[Verb]]===
 #''(computing):'' to have ''access'' to [[data]]
 ===Related Words===
