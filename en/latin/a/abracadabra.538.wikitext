@@ -1,0 +1,3 @@
+'''Abracadabra''', ''[[noun (part of speech)|noun]]'' [L. Of unknown origin.]
+
+A [[mystical]] word or [[collocation]] of letters written as in the figure. Worn on an [[amulet]] it was supposed to ward off fever. At present the word is used chiefly in jest to denote something without meaning; [[jargon]].
