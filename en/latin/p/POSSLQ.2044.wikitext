@@ -1,1 +1,1 @@
-'''POSSLQ''' U. S. Census [[acronym]] for Person of Opposite Sex Sharing Living Quarters.
+'''POSSLQ''' U. S. Census [[acronym]] for Person of Opposite Sex Sharing Living Quarters. See also [[PASSLQ]].
