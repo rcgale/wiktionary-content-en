@@ -1,0 +1,4 @@
+Słownik is [[Polish language|Polish]] word which is usually translated to "dictionary". But it's usage is much wider than that. almost anything that contains definition of words is "słownik".
+
+While general [[encyklopedia]] is not usually considered to be a słownik,
+specialist [[encyklopedia|encyklopedias]] are, and often have called like "Słownik Chemiczny".
