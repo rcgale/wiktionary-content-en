@@ -1,18 +1,30 @@
-===[[Esperanto]]===
-Adori iun
+==[[Esperanto]]==
 
-'''[[Traduko]]j'''
-*[[Angla]]: To [[love]].
-*[[Hispana]]: Amar
+===[[Verb]]===
+To have great affection for.
 
+===Translations===
+*[[English]]: to [[love]]
+*[[French]]: [[aimer]]
+*[[Interlingua]]: [[amar]]
+*[[Italian]]: [[amare]]
+*[[Latin]]: [[amare]]
+*[[Portuguese]]: [[amar]]
+*[[Spanish]]: [[amar]]
+*[[Tupinambá]]: [[aûsub]] (s-)
 ----
 
-===French===
+==[[French]]==
 
-'''Noun'''
-*friend
+===[[Noun]]===
+One who is affectionately attached to another.
 
-'''Translations'''
-*Dutch: [[vriend]]
-*English: [[friend]]
-*German: [[Freund]]
+===Translations===
+*[[Dutch]]: [[vriend]]
+*[[English]]: [[friend]]
+*[[German]]: [[Freund]]
+*[[Interlingua]]: [[amico]]
+*[[Italian]]: [[amico]]
+*[[Latin]]: [[amicus]]
+*[[Portuguese]]: [[amigo]]
+*[[Spanish]]: [[amigo]]
