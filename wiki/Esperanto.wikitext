@@ -1,16 +1,14 @@
+'''[[eo:|Wikipedia: en Esperanto]]'''
+
 Multilingual information about Esperanto : 
 
 http://www.esperanto.net
 
 http://www.esperanto.org
 
-Wikipedia article about Esperanto: 
+Wikipedia article in english about Esperanto: 
 
 [[en:Esperanto|Wikipedia: Esperanto]]
-
-There is an Esperanto version of Wikipedia
-
-[[eo:|Wikipedia: en Esperanto]]
 
 International Abbreviation:  EO
 
