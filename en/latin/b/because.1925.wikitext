@@ -1,4 +1,6 @@
-*
+conjunction
+
+"'''because'''" is used to add a reason to a statement.
 
 ==Translation==
 
