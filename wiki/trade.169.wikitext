@@ -1,0 +1,20 @@
+Trade \Trade\
+
+''[[adjective]]''
+# relating to or used in or intended for trade or commerce; "a trade fair"; "trade journals"; "trade goods" [''syn:'' trade(a)]
+
+''[[noun]]''     
+# the commercial exchange (buying and selling on domestic or international markets) of goods and services; "Venice was an important center of trade with the East"; "they are accused of conspiring to constrain trade"
+# people who perform a particular kind of skilled work; "he represented the craft of brewers"; "as they say in the trade" [''syn:'' [[craft]]]
+# an equal exchange; "we had no money so we hd to live by barter" [''syn:'' [[barter]], [[swap]], [[swop]], [[quid pro quo]]]
+# the skilled practice of a practical occupation; "he learned his trade as an apprentice" [''syn:'' [[craft]]]
+# a particular instance of buying or selling; "it was a package deal"; "I had no further trade with him"; "he's a master of the business deal" [''syn:'' [[deal]], [[business deal]]]
+$ the business given to a commercial establishment by its customers: "even before noon there was a considerable patronage" [''syn:'' [[patronage]]]
+# steady winds blowing from east to west above and below the equator; "they rode the trade winds going west" [''syn:'' [[trade wind]]]
+
+''[[verb]]''
+# engage in the trade of [''syn:'' [[merchandise]]]
+# turn in as payment or part payment for a purchase; "trade in an old car for a new one" [''syn:'' [[trade in]]]
+# be traded at a certain price or under certain conditions: "The stock traded around $20 a share"
+# exchange or give (something) in exchange for [''syn:'' [[swap]], [[swop]], [[switch]]]
+# do business; offer for sale as for one's livelihood; "She deals in gold"; "The brothers sell shoes" [''syn:'' [[deal]], [[sell]]]
