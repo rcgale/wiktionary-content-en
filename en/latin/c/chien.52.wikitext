@@ -3,12 +3,12 @@ fr : [[dog]]
 '''Expressions'''
 
 * un temps de chien :
-fr: un temps très mauvais (pluie, vent ...)
-en: a bad weather, it refers when you do'nt want to go out, because it rains a lot, and is windy.
+:fr: un temps très mauvais (pluie, vent ...)
+:en: a bad weather, it refers when you do'nt want to go out, because it rains a lot, and is windy.
 * chien de chasse
 * chien de garde
 
 '''Remarques'''
 
-fr: la racine latine ''can'' est utilisé aussi dans certains mots : canidé, canicule
-en: in some words relating to dog, French used the root ''can'' as in ''canidé'', canicule
+:fr: la racine latine ''can'' est utilisé aussi dans certains mots : canidé, canicule
+:en: in some words relating to dog, French used the root ''can'' as in ''canidé'', canicule
