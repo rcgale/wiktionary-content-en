@@ -1,21 +1,37 @@
 ===Etymology 1===
 Middle English from Old Norse ''deyja''
 ===Pronunciation===
-===Verb (usually intransitive)===
+===[[Verb]] (usually intransitive)===
 Past tense and participle: died; Present participle: dying
 #To stop living
+#:'''Translations'''
+#:*[[Dutch]]: [[dood]] [[gaan]], [[sterven]]
+#:*[[French]]: [[mourir]]
+#:*[[Frisian]]: [[deagean]], [[ferstjerre]], [[stjerre]]
+#:*[[German]]: [[sterben]]
 
 ===Etymology 2===
 Middle English from Old French ''dé''
 ===Pronunciation===
-===Noun===
+===[[Noun]]===
 Plural: dice
-#The cubical part of a pedestal, a plinth
+#The cubical part of a [[pedestal]], a plinth
+#:'''Translations'''
+#:*[[Dutch]]: [[voet]], [[plint]]
 #A polyhedron, usually a cube, with numbers or symbols on each side and used in games of chance
+#:'''Translations'''
+#:*[[Dutch]]: [[dobbelsteen]], [[teerling]] (old)
+#:*[[French]]: [[dé]]
+#:*[[Frisian]]: [[dobbelstien]]
+#:*[[German]]: [[Würfel]]
 
 Plural: dies
 #A device for cutting into a specified shape
+#:'''Translations'''
+#:*[[Dutch]]: [[mal]], [[matrijs]], [[vorm]]
 #An embossed device used in stamping coins and medals
+#:'''Translations'''
+#:*[[Dutch]]: [[stempel]]
 
 ----
 == Dutch ==
