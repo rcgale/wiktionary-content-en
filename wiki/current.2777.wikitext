@@ -26,3 +26,4 @@
 ===Related words===
 
 *[[current account]]
+*[[current events]]
