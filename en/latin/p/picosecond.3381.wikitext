@@ -1,0 +1,20 @@
+==Etymology==
+From the Metric Prefix: [[Picoo-]] and the word [[Second]]
+
+==Pronunciation==
+[Pee-ko-sec-ond] /____/
+
+==[[noun]]==
+
+A measure of [[time]]
+
+0.000,000,000,001 second (One millionth of a millionth of a second)
+
+==[[abbreviation]]== 
+
+[[ps]] in the [[SI-system]]
+
+==Translations==
+*Dutch: [[Picoseconde]]
+*German: [[Picosekunde]]
+*Finnish: [[Picosekuntti]]
