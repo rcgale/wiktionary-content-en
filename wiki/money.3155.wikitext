@@ -9,3 +9,4 @@
 *Japanese: [[お金]] (おかね;okane)
 *Korean: [[돈]] (don)
 *Spanish: [[dinero]]
+*Swedish: [[pengar]]
