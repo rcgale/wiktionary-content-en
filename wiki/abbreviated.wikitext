@@ -5,12 +5,12 @@
 [[Shortened]]; relatively short; [[abbreviate]].
 
 <HR> <P> <H3>Translations</H3>
-<BR>•[[Dutch]]: [[afgekort]]
-<BR>•[[French]] fr: [[Abrégé]]
-<BR>•[[German]] de: [[Abgekürzt]]
-<BR>•[[Interlingua]] ia: [[Abbreviate]]
-<BR>•[[Italian]] it: [[Abbreviato]]
-<BR>•[[Portuguese]] pt: [[Abreviado]]
-<BR>•[[Spanish]] es: [[Abreviado]]
-<BR>•[[Swedish]] sv: [[förkortad]]
-<BR>•[[]]: [[]]
+<BR>• [[Dutch]]: [[afgekort]]
+<BR>• [[French]]: [[Abrégé]]
+<BR>• [[German]]: [[Abgekürzt]]
+<BR>• [[Interlingua]]: [[Abbreviate]]
+<BR>• [[Italian]]: [[Abbreviato]]
+<BR>• [[Portuguese]]: [[Abreviado]]
+<BR>• [[Spanish]]: [[Abreviado]]
+<BR>• [[Swedish]]: [[förkortad]]
+<BR>•
