@@ -1,3 +1,4 @@
-'''Abradant''', ''[[noun (part of speech)|noun]]''
-
-A [[material]] used for [[grinding]], as [[emery]], [[sand]], [[powdered]] [[glass]], etc.
+===Etymology===
+Derivative of [[abrade]]
+===Noun===
+#A [[material]] used for [[grinding]], as [[emery]], [[sand]], [[powdered]] [[glass]], etc.
