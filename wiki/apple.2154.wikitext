@@ -4,7 +4,7 @@
 #Name of a company that produces computers
 #Kind of computers produced by that company (see above)
 ===Translations===
-
+*Chinese: [[苹果]] (ftuit)
 *Dutch: [[appel]] (fruit)
 *Finnish: [[omena]] (fruit)
 *French: [[pomme]] (fruit)
@@ -17,6 +17,7 @@
 *Kannada: Sebu
 *Maltese: Tufieha
 *Marathi: [[Safarchand]] (fruit)
+*Polish: [[Jabłko]] (fruit)
 
 
 See also: [http://www.wikipedia.org/wiki/Apple Wikipedia: Apple]
