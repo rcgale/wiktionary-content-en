@@ -5,7 +5,7 @@
 # Country in Europe. Official name: Republic of Albania.
 #:'''Translations'''
 #:*[[Chinese]]: [[阿尔巴尼亚]]
-#:*[[Dannish]]: [[Albanien]]
+#:*[[Danish]]: [[Albanien]]
 #:*[[Dutch]]: [[Albanië]]
 #:*[[Esperanto]]: [[Albanio]], [[Albanujo]]
 #:*[[Finnish]]: Albania
