@@ -28,4 +28,4 @@
 * [[mass noun]]
 
 ===Further Reading===
-#:* [[w:noun|Wikipedia article on noun]]
+* [[w:noun|Wikipedia article on noun]]
