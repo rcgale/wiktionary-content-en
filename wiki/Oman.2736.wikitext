@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Middle East. Official name: Sultanate of Oman.
+#:'''Translations'''
+#:*[[Chinese]]: [[阿曼]]
+#:*[[Danish]]: Oman
+#:*[[Dutch]]: Oman
+#:*[[Esperanto]]: [[Omano]]
+#:*[[Finnish]]: Oman
+#:*[[French]]: Oman
+#:*[[German]]: Oman
+#:*[[Greek]]: [[Ομάν]]
+#:*[[Interlingua]]: Oman
+#:*[[Italian]]: Oman
+#:*[[Polish]]: Oman
+#:*[[Portuguese]]: [[Omã]]
+#:*[[Russian]]: [[Оман]]
+#:*[[Spanish]]: [[Omán]]
+#:*[[Swedish]]: Oman
+
+''See'': [[Countries of the world]]
