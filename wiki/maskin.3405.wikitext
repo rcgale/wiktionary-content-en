@@ -1,0 +1,4 @@
+===Etymology===
+18th century cant
+===Noun===
+#Coal
