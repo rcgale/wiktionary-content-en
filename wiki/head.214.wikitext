@@ -9,4 +9,4 @@
 # [[Nautical terminology|Nautical]] The [[toilet]] or [[restroom]] aboard a [[ship]].
 
 ===Translations===
-*nl: noun: [[hoofd]] (of person or horse) (1, 2), [[kop]] (of animal) (1)
+*nl: noun: [[hoofd]] (1 (of person or horse), 2), [[kop]] (of animal) (1)
