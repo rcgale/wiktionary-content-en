@@ -1,22 +1,32 @@
-===[[noun]]===
-# An [[island]] [[country]] in the [[Pacific ocean]], located [[east]] of [[Korea]].
+==English==
+
+===proper [[noun]]===
+# An [[island]] [[country]] in the [[Pacific ocean]], located [[east]] of [[Korea]]. Official name: Japan.
 #:'''Translations'''
 #:*[[Chinese]]: [[日本]]
+#:*[[Danish]]: Japan
 #:*[[Dutch]]: Japan
+#:*[[Esperanto]]: [[Japanio]], [[Japanujo]]
 #:*[[Finnish]]: [[Japani]]
 #:*[[French]]: [[Japon]] (synonyms:  l'Archipel, le pays du Soleil Levant)
 #:*[[Frisian]]: Japan
 #:*[[German]]: Japan
-#:*[[Japanese]]: [[日本]](Nippon or Nihon)
+#:*[[Greek]]: [[Ιαπωνία]]
+#:*[[Interlingua]]: [[Japon]]
+#:*[[Italian]]: [[Giappone]]
+#:*[[Japanese]]: [[日本]] (Nippon or Nihon)
 #:*[[Korean]]: [[일본]] (ilbon)
 #:*[[Polish]]: [[Japonia]]
+#:*[[Portuguese]]: [[Japão]]
+#:*[[Russian]]: [[Япония]]
 #:*[[Spanish]]: [[Japón]]
+#:*[[Swedish]]: Japan
 #:'''Related words'''
 #:*[[Japanese]] : related to Japan, inhabitant of Japan, an language of Japan
 #:*[[Nihonjinron]] : kind of books explaining the economic boom
 # A hard black enamel varnish containing asphalt
 
-''see:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
 
 === Further reading ===
 
