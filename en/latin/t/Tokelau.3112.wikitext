@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Oceania. Official name: Tokelau.
+#:'''Translations'''
+#:*[[Chinese]]: Tokelau
+#:*[[Danish]]: Tokelau
+#:*[[Dutch]]: [[Tokelau-eilanden]]
+#:*[[Esperanto]]: [[Tokelao]]
+#:*[[Finnish]]: Tokelau
+#:*[[French]]: [[Tokélaou]]
+#:*[[German]]: Tokelau
+#:*[[Greek]]: [[Τοκελάου]]
+#:*[[Interlingua]]: Tokelau
+#:*[[Italian]]: Tokelau
+#:*[[Polish]]: Tokelau
+#:*[[Portuguese]]: Tokelau
+#:*[[Russian]]: [[Токелау острова]]
+#:*[[Spanish]]: Tokelau
+#:*[[Swedish]]: Tokelau
+
+''See'': [[Countries of the world]]
