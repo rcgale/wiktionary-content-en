@@ -3,5 +3,12 @@
 #Widespread disease that affects many individuals in a population
 
 ===Translations===
-
+*Dutch: [[epidemie]]
 *French: [[épidémie]]
+
+==[[Adjective]]==
+
+#Like an epidemic
+
+===Translations===
+*Dutch: [[epidemisch]]
