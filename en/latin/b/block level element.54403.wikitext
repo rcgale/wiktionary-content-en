@@ -1,0 +1,28 @@
+Most '''HTML 4.0''' elements permitted within the '''BODY''' are classified as either block-level elements or inline elements. Block-level elements typically contain inline elements and other block-level elements.
+
+The following are defined as block-level elements in '''HTML 4.0''':
+
+    * '''ADDRESS''' - Address
+    * '''BLOCKQUOTE''' - Block quotation
+    * '''CENTER''' - Centered block
+    * '''DIR''' - Directory list
+    * '''DIV''' - Generic block-level container
+    * '''DL''' - Definition list
+    * '''FIELDSET''' - Form control group
+    * '''FORM''' - Interactive form
+    * '''H1''' - Level-one heading
+    * '''H2''' - Level-two heading
+    * '''H3''' - Level-three heading
+    * '''H4''' - Level-four heading
+    * '''H5''' - Level-five heading
+    * '''H6''' - Level-six heading
+    * '''HR''' - Horizontal rule
+    * '''ISINDEX''' - Input prompt
+    * '''MENU''' - Menu list
+    * '''NOFRAMES''' - Frames alternate content
+    * '''NOSCRIPT''' - Alternate script content
+    * '''OL''' - Ordered list
+    * '''P''' - Paragraph
+    * '''PRE''' - Preformatted text
+    * '''TABLE''' - Table
+    * '''UL''' - Unordered list
