@@ -19,4 +19,4 @@
 *[[Italian]]: [[Abolire]]
 *[[Portuguese]]: [[]]
 *[[Spanish]]: [[Abolir]]
-*[[Volapük]]: [[[säkibön]], [[finidön]]]
+*[[Volapük]]: [[säkibön]], [[finidön]]]
