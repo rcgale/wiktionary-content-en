@@ -3,6 +3,7 @@
 #May is the fifth [[month]] in the Gregorian [[calendar]]. It has 31 [[day]]s.
 
 ==Translations==
-*es:mayo
-*fr:mai
+*de: Mai
+*es: mayo
+*fr: mai
 *nl: [[mei]]
