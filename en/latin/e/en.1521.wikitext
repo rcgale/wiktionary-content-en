@@ -36,14 +36,18 @@
 Preposition
 *  expressing being contained
 :''Estoy en casa . I am at home''
+:''en esta página''
 *  used for time indication
 *  used before names of languages
 : ''No conozco esta palabra en francés''
 : ''Traducir del inglés al español''
+:''En todos los idiomas''
 *  used after some verbs
 : pensar en. ''Pienso en tí''
 * used in some expressions
 : ''en el sentido''
+: ''en nuestro afan''
+
 
 === Translations ===
 
