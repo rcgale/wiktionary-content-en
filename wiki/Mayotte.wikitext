@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Overseas territorial collectivity of [[France]]; placed between Africa's mainland and [[Madagascar]]. Official name: Territorial Collectivity of Mayotte.
+#:'''Translations'''
+#:*[[Danish]]: Mayotte
+#:*[[Dutch]]: Mayotte
+#:*[[Esperanto]]: [[Majoto]]
+#:*[[Finnish]]: Mayotte
+#:*[[French]]: Mayotte
+#:*[[German]]: Mayotte
+#:*[[Greek]]: [[Μαγιότ]]
+#:*[[Italian]]: Mayotte
+#:*[[Polish]]: [[Majotta]]
+#:*[[Portuguese]]: Mayotte
+#:*[[Russian]]: [[Майотта]]
+#:*[[Spanish]]: Mayotte
+#:*[[Swedish]]: Mayotte
+
+''See'': [[Countries of the world]]
