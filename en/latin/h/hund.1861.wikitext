@@ -1,5 +1,5 @@
 ===German===
-noun, ''maskulin''
+noun, ''maskulin'' SAMPA /'hUnt/
 
 # a dog
 # a mean person: "''Du gemeiner Hund.''"
@@ -10,3 +10,4 @@ noun, ''maskulin''
 *[[Esperanto]] [[hundo]]
 *French [[chien]]
 *Russian [[собака]]
+*[[Spanish]] [[perro]]
