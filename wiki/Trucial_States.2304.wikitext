@@ -3,3 +3,6 @@
 ==Proper Noun==
 
 # Former name for the [[United Arab Emirates]].
+
+'''translations'''
+*[[Dutch]]: [[Verdragsstaten]]
