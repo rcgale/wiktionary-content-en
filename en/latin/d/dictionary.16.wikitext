@@ -10,16 +10,17 @@ From medival Latin [[dictionarium]].
 *:So, as the Grammer booke be euer in the Scholers hand, and also vsed of him, as a Dictionarie, for euerie present vse.
 ===Translations===
 *Danish: [[ordbog]]
-*German: [[Wörterbuch]]
+*Dutch: [[woordenboek]]
 *Esperanto: [[vortaro]]
-*Spanish: [[diccionario]]
 *Estonian: [[sõnaraamat]]
 *Finnish: [[sanakirja]]
 *French: [[dictionnaire]]
+*Frisian: [[wurdboek]]
+*German: [[Wörterbuch]]
 *Hebrew: [[מילון]]
 *Italian: [[dizionario]]
-*Dutch: [[woordenboek]]
 *Polish: [[słownik]]
+*Spanish: [[diccionario]]
 ===Derived words===
 [[Pictionary]] - [[Fictionary]] - [[Wiktionary]]. 
 
