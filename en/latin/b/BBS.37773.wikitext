@@ -1,11 +1,7 @@
-
 ===Abbreviation===
-Bulletin Board System
-
+#Bulletin Board System
 #BIOS Boot Sequence
-
 #BIOS Boot Specification ( Compaq Computer Corporation, Phoenix Technologies Ltd., Intel Corporation):
-"The purpose of this specification is to describe a methodology by which the BIOS will identify all IPL (Initial Program Load) devices in the system, prioritize them in the order the user selects, and then sequentially go through each device and attempt to boot." ... 
-See http://www.phoenix.com/resources/specs-bbs101.pdf
-
+#:"The purpose of this specification is to describe a methodology by which the BIOS will identify all IPL (Initial Program Load) devices in the system, prioritize them in the order the user selects, and then sequentially go through each device and attempt to boot."
+#:See http://www.phoenix.com/resources/specs-bbs101.pdf
 #Be Back Soon
