@@ -1,8 +1,12 @@
 ===Etymology===
-Latin ''ablutio'', from ''abluere'': cf. French ''ablution''. See [[Abluent]]
+Latin ''ablutio'', from ''abluere'': cf. French ''ablution''.
 ===Noun===
-#The act of washing or [[cleansing]]; specifically, the washing of the body, or some part of it, as a religious rite.
+#The act of [[washing]] or [[cleansing]]; specifically, the washing of the body, or some part of it, as a [[religious]] [[rite]].
 #The water used in cleansing.
 #:'''Quotations'''
 #:*Cast the '''ablutions''' in the main. - [[Pope]].
 #''(Roman Catholic Church):'' A small quantity of wine and water, which is used to wash the [[priest]]'s [[thumb]] and [[index]] finger after the [[communion]], and which then, as perhaps containing portions of the [[consecrated]] elements, is [[drunk]] by the priest.
+
+===Related Words===
+* [[abluent]]
+* [[ablutions]]
