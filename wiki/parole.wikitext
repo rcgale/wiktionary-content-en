@@ -1,0 +1,10 @@
+==Definition==
+;'''Parole''' ''([[noun]])''
+#voice, spoken word
+#lyrics ''paroles d'une chanson''
+#promise ''il tient parole''
+
+==Translations==
+;'''Parole''' ''([[noun]])''
+*es: [[palabra]]
+*fr: [[parole]]
