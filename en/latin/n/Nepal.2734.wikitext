@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in South Asia. Official name: Kingdom of Nepal.
+#:'''Translations'''
+#:*[[Chinese]]: [[尼泊尔]]
+#:*[[Danish]]: Nepal
+#:*[[Dutch]]: Nepal
+#:*[[Esperanto]]: [[Nepalo]]
+#:*[[Finnish]]: Nepal
+#:*[[French]]: [[Népal]]
+#:*[[German]]: Nepal
+#:*[[Greek]]: [[Νεπάλ]]
+#:*[[Interlingua]]: Nepal
+#:*[[Italian]]: Nepal
+#:*[[Polish]]: Nepal
+#:*[[Portuguese]]: Nepal
+#:*[[Russian]]: [[Непал]]
+#:*[[Spanish]]: Nepal
+#:*[[Swedish]]: Nepal
+
+''See'': [[Countries of the world]]
