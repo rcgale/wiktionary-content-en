@@ -1,6 +1,10 @@
 ===German===
-noun, ''maskulin'' SAMPA /'hUnt/
+noun, ''maskulin'' 
 
+====Pronunciation====
+SAMPA /'hUnt/
+
+====Definition====
 # a dog
 # a mean person: "''Du gemeiner Hund.''"
 
