@@ -57,6 +57,7 @@
 *[[Swedish]]: [[Örn]]
 *[[Thai]]: [[อินทรี]] (Is the first letter a capital? is there one?)
 *[[Turkish]]: [[Kartal]]
+*[[Turkmen]]: [[Bürgüt]]
 *[[Ukranian]]: [[Oрел]]
 *[[Welsh]]: [[Eryr]], [[Heryr]] (needs to be checked by speaker)
 *[[Yiddish]]: [[אָדלער]]
