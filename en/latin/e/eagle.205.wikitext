@@ -22,6 +22,7 @@
 *[[Frisian]]: [[Earn]]
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
 *[[Greek]]: [[Aετός]]
+*[[Hebrew]]: [[עיט]]
 *[[Hungarian]]: [[Sas]] 
 *[[Icelandic]]: [[Örn]]
 *[[Italian]]: [[Aquila]], [[Àquila]]
