@@ -1,7 +1,6 @@
-When a program/script prepares to go in to the background and become a daemon,
+=={{en}}==
+===Intransitive verb===
+#(''of a computer program or script'') to prepare to go in to the background and become a [[daemon]]
 
-common things to do:
-
-chdir /
-change all in/output to dev/null
-fork
+===See also===
+*[[demonize]]
