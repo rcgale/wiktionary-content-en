@@ -20,6 +20,9 @@ SAMPA: /rav@(n)/
 noun '''(nl)'''
 #Plural of [[raaf]]
 
+===Further reading===
+*[[en:raven|Wikipedia article]]
+
 ==Translations==
 (of English noun #1)
 * da: [[ravn]]
