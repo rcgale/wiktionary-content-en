@@ -37,7 +37,7 @@
 *[[Gaelic(Irish)]]: [[Iolar]] (needs to be checked by speaker)
 *[[Gaelic(Manx)]]: [[Urley]], [[Peesh Jeih Dollar]] (needs to be checked by speaker)
 *[[Gaelic(Scottish)]]: [[Iolair]] (needs to be checked by speaker)
-*[[Georgian]]: [[არწივი]] (Is the first letter a capital? is there one?)
+*[[Georgian]]: [[არწივი]]
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
 *[[Greek]]: [[Aετός]]
 *[[Hebrew]]: [[עיט]] (AH-yit; also [[נשר]] [[NEH-sher] commonly) 
