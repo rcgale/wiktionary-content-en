@@ -1,3 +1,7 @@
-[[Adjecitve]]
+===[[Adjecitve]]===
 # Able to live on its own(as for a newborn)
+#:'''Tanslations'''
+#:*[[Dutch]]: [[levensvatbaar]]
 # Able to be done, possible
+#:'''Tanslations'''
+#:*[[Dutch]]: [[uitvoerbaar]]
