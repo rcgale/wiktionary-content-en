@@ -1,0 +1,18 @@
+===[[Noun]]===
+#The Indo-European language family.
+#:'''[[translation]]s'''
+#:*[[Dutch]]: [[Indo-Europees]]
+#The hypothetical parent language of the Indo-European language family. (Wikipedia: [[w:Indo-European languages|Indo-European languages]])
+#:'''translations'''
+#:*[[Dutch]]: [[Indo-Europees]]
+#A speaker of an Indo-European language.
+#:'''translations'''
+#:*[[Dutch]]: [[Indo-Europeaan]]
+
+===[[Adjective]]===
+#Of or relating to the languages originally spoken in Europe and Western Asia.
+#:'''translations'''
+#:*[[Dutch]]: [[Indo-Europees]]
+#Of or relating to the hypothetical parent language of the Indo-European language family.
+#:'''translations'''
+#:*[[Dutch]]: [[Indo-Europees]]
