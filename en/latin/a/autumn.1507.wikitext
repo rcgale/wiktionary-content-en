@@ -7,6 +7,7 @@
 #:*[[Basque]]: [[udazken]]
 #:*[[Croatian]]: [[jesen]]
 #:*[[Dutch]]: [[herfst]]
+#:*[[Esperanto]]: [[auxtuno]]
 #:*[[Finnish]]: [[syksy]]
 #:*[[French]]: [[automne]]
 #:*[[Frisian]]: [[hjest]]
