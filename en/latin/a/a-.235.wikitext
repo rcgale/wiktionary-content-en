@@ -1,15 +1,18 @@
 This is a [[prefix]] based on various etymologies
-===Etymology 1===
+===Germanic Etymologies===
 Anglo Saxon ''an'' or ''a'' meaning  "on" or "in" 
-#denoting a state, as in [[afoot]], on foot, [[abed]], [[amiss]], [[asleep]], [[aground]], [[aloft]], ''a''way (Anglo Saxon ''onweg''), and [[analogically]], ''a''blaze, ''a''[[tremble]], etc. 
-#Anglo Saxon ''of'' off, from, as in ''a'' down (Anglo Saxon ''ofd&#363;ne'' off the ''dun'' or hill). 
-#Anglo Saxon [[&#257;-]] (Gothic ''us-'', ''ur-'', German ''er-''), usually giving an [[intensive]] force, and sometimes the sense of ''away'', ''on'', ''back'', as in ''a''rise, ''a''bide, ''a''go. 
-#Old English ''y-'' or ''i-'' (corrupted from the Anglo Saxon [[inseparable]] [[particle]] ''ge- '', [[cognate]] with Old High German ''ga-'', ''gi-'', Gothic ''ga-''), which, as a prefix, made no essential addition to the meaning, as in [[aware]].
- 
-#French ''&agrave;'' (Latin ''ad'' to), as in ''a''base, ''a''[[chieve]]. 
-
-#Latin ''a'', ''ab'', ''abs'', from, as in ''a''vert. 
-===Etymology===
-'''Greek''' inseparable prefix [[&alpha]]; without, or [[privative]],
- 
-#not, as in ''a''byss, ''a''[[theist]]; akin to English ''un-''.
+#denoting a state, as in [[afoot]], on foot, [[abed]], [[amiss]], [[asleep]], [[aground]], [[aloft]], [[away]] (Anglo Saxon ''onweg''), and [[analogically]], [[ablaze]], [[atremble]], etc.
+Anglo Saxon meaning ''of'', ''off'' or ''from''
+#as in [[adown]] (Anglo Saxon ''ofd&#363;ne'' off the ''dun'' or hill). 
+Anglo Saxon [[&#257;-]] and Gothic ''us-'', ''ur-'', German ''er-''
+#usually giving an [[intensive]] force, and sometimes the sense of ''away'', ''on'', ''back'', as in [[arise]], [[abide]], [[ago]]. 
+Old English ''y-'' or ''i-'' (corrupted from the Anglo Saxon [[inseparable]] [[particle]] ''ge- '', [[cognate]] with Old High German ''ga-'', ''gi-'', Gothic ''ga-'')
+#makes no essential addition to the meaning, as in [[aware]].
+===Romance Etymologies===
+French ''à'' from Latin ''ad'' 
+#to, as in [[abase]], [[achieve]]. 
+Latin ''a'', ''ab'', ''abs'', 
+#from, as in [[avert]]. 
+===Greek Etymology===
+Inseparable prefix [[&alpha]]; without, or [[privative]],
+#not, as in [[abyss]], [[atheist]]; akin to English ''un-''.
