@@ -9,14 +9,22 @@
 
 *[[Albanian]]: [[dinër]]
 *[[Basque]]: [[negu]]
+*[[Czech]]: [[zima]]
+*[[Danish]]: [[vinter]]
 *[[Dutch]]: [[winter]]
 *[[Estonian]]: [[talv]]
+*[[Finnish]]: [[talvi]]
 *[[French]]: [[hiver]]
 *[[German]]: [[Winter]]
 *[[Hebrew]]: [[חורף]]
+*[[Indonesian]]: [[musim dingin]]
+*[[Irish]]: [[Geimhreadh]]
 *[[Mäori]]: [[takurua]]
+*[[Norwegian]]: [[vinter]]
 *[[Portuguese]]: [[inverno]]
+*[[Romanian]]: [[iarna]]
 *[[Spanish]]: [[invierno]]
+*[[Turkish]]: [[kiş]]
 *[[Yiddish]]: [[װינטער]]
 
 == Dutch ==
