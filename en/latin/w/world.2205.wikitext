@@ -3,6 +3,7 @@
 ===Translations===
 
 *Dutch: wereld
+*Finnish: [[maailma]]
 *French: [[monde]]
 *Spanish: [[mundo]]
 
