@@ -1,0 +1,3 @@
+# Not [[imprisoned]] or [[enslaved]]. ''un homme libre''
+# Unobstructed, without [[blockage|blockages]]. ''la voie est libre''
+# Without [[obligation]]s. ''temps libre''
