@@ -1,0 +1,23 @@
+=English==
+
+'''proper noun'''
+
+# Country in Oceania. Official name: Kingdom of Tonga.
+#:'''Translations'''
+#:*[[Chinese]]: [[汤加]]
+#:*[[Danish]]: Tonga
+#:*[[Dutch]]: Tonga
+#:*[[Esperanto]]: [[Tongo]]
+#:*[[Finnish]]: Tonga
+#:*[[French]]: Tonga
+#:*[[German]]: Tonga
+#:*[[Greek]]: [[Τόνγκα]], [[Τόγκα]]
+#:*[[Interlingua]]: Tonga
+#:*[[Italian]]: Tonga
+#:*[[Polish]]: Tonga
+#:*[[Portuguese]]: Tonga
+#:*[[Russian]]: [[Тонга]]
+#:*[[Spanish]]: Tonga
+#:*[[Swedish]]: Tonga
+
+''See'': [[Countries of the world]]
