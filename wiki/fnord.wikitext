@@ -1,3 +1,3 @@
-•  A nonsense term commonly used by a group of satirically inclined devotees known as the Discordians often stated as a reminder that what is being said is probably said in jest and to not believe all of what you read.  
+•  A nonsense term commonly used by a group of satirically inclined devotees known as the Discordians. Often stated as a reminder that what is being said is probably said in jest and to not believe all of what you read.  
 
 • A word referring to the sound of one hand clapping in applause at the creation of the perfectly round rectangle and the perfectly cornered circle. Fnord.
