@@ -4,4 +4,6 @@
 
 *Dutch: [[werken]]
 *French: [[travailler]]
+*German: [[arbeiten]]
+*Hebrew: [[לעבוד]]
 *Spanish: [[trabajar]]
