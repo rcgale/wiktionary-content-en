@@ -5,9 +5,14 @@ A () The first letter of the English and of many other alphabets. The capital A 
 
 A () The name of the sixth tone in the model major scale (that in C), or the first tone of the minor scale, which is named after it the scale in A minor. The second string of the violin is tuned to the A in the treble staff. -- A sharp (A/) is the name of a musical tone intermediate between A and B. -- A flat (A/) is the name of a tone intermediate between A and G.
 ===Adjective===
-A () An adjective, commonly called the indefinite article, and signifying one or any, but less emphatically.
-
-#In each; to or for each; as, "twenty leagues a day", "a hundred pounds a year", "a dollar a yard", etc.
+#An adjective, commonly called the indefinite article, and signifying one or any, but less emphatically.
+#:'''Examples and Quotations'''
+#:*At a birth"
+#:*In a word"
+#:*At a blow" - Shakespeare, ''?''. 
+#:'''Notes'''
+#:#It is placed before nouns of the singular number denoting an individual object, or a quality individualized, before collective nouns, and also before plural nouns when the adjective few or the phrase great many or good many is interposed; as, a dog, a house, a man; a color; a sweetness; a hundred, a fleet, a regiment; a few persons, a great many days. It is used for an, for the sake of euphony, before words beginning with a consonant sound [for exception of certain words beginning with h, see An]; as, a table, a woman, a year, a unit, a eulogy, a ewe, a oneness, such a one, etc. Formally an was used both before vowels and consonants.
+#In each; to or for each; as, "twenty leagues a day", "a hundred pounds a year", "a dollar a yard", etc. (Derived from the preposition meaning "on") 
 ===Preposition===
 (Abbreviated form of ''an'' (Anglo Saxon on). See [[On]])
 #''(Obsolete):'' In; on; at; by.
