@@ -2,5 +2,13 @@
 # A location or place.
 # The sharp tip of an object.
 
+==Translations==
+
+*nl: [[punt]] (1,2)
+
 ===[[verb]]===
 #To indicate a direction.
+
+==Translations==
+
+*nl: [[wijzen]]
