@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Republic of Ghana.
+#:'''Translations'''
+#:*[[Chinese]]: [[加纳]]
+#:*[[Danish]]: Ghana
+#:*[[Dutch]]: Ghana
+#:*[[Esperanto]]: [[Ganao]]
+#:*[[Finnish]]: Ghana
+#:*[[French]]: Ghana
+#:*[[German]]: Ghana
+#:*[[Greek]]: [[Γκάνα]]
+#:*[[Interlingua]]: Ghana
+#:*[[Italian]]: Ghana
+#:*[[Polish]]: Ghana
+#:*[[Portuguese]]: [[Gana]]
+#:*[[Russian]]: [[Гана]]
+#:*[[Spanish]]: Ghana
+#:*[[Swedish]]: Ghana
+
+''See'': [[Countries of the world]]
