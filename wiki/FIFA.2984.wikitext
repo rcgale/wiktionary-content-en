@@ -1,0 +1,11 @@
+'''FIFA''', ''([[noun]])''
+
+==Etymology==
+*a [[acronym]] derived from the [[French]] '''Federation Internationale de Football Association'''
+
+==Definition==
+*the ''International Federation of Association Football'', the international governing body of the sport of Association football (sometimes called ''soccer'').
+
+==Further Reading==
+*Wikipedia: [[w:FIFA|FIFA]]
+*Wikipedia: [[w:Football (soccer)|Association Football (soccer)]]
