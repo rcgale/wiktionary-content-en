@@ -1,7 +1,7 @@
 /[[Pronunciation guide|frai]]/, ''adjective'' '''(de)'''
 
 # Not [[imprisoned]] or [[enslaved]]. ''ein freier [[Mann]]''
-# No [[payment]] necessary (rarely used). ''Freibier''
+# No [[payment]] necessary. ''Freier Eintritt'', ''Freibier''
 # Un[[limit]]ed. ''Ihm wurde freie [[Macht]] über das [[Land]] gegeben''
 # Without [[obligation]]s. ''Frei[[zeit]]''
 
