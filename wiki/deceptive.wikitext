@@ -1,7 +1,13 @@
 ==[[Adjective]]==
 
-*That mislead
+*[[misleading]], likely or [[attempting]] to [[deceive]]
+
+===Related words===
+*[[deception]]
+*[[deceptively]]
+*[[deceive]]
+*[[deceit]]
 
 ===Translations===
 
-*French: [[trompeur]], qui induit en erreur (''note'': it is a [[false friend]], it is different than the French word ''décevoir'' which means to disappoint)
+*French: [[trompeur]], qui induit en erreur (''note'': it is a [[false friend]], it is different than the French word ''décevoir'' which means to [[disappoint]])
