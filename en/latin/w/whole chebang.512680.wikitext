@@ -3,15 +3,13 @@ In [[computing]], a '''shebang''' is command that makes a [[Unix-like]] [[operat
 The name shebang comes from the contraction of ''sharp bang'', referring to the two characters.  Unix jargon uses ''bang'' to refer to the exclamation point character.
 
 ==Usage==
-
 A typical shebang line could be
  #!/bin/sh
 
 This instructs the operating system to interpret the file with the program /bin/sh.
 
-It is common for different variants of even the same operating system to have different locations for the interpreter.  Thus, it is not uncommon to need to adjust the shebang line after copying a [[script]] from one computer to another.
+It is common for different variants of even the same operating system to have different locations for the interpreter.  Thus, it is not uncommon to need to adjust the shebang line after copying a [[script (computer programming)|script]] from one computer to another.
 
 ==External links==
-
 *[http://homepages.cwi.nl/~aeb/std/shebang/ Some details about the shebang mechanism on various Unix flavours]
 *[[FOLDOC:shebang|FOLDOC shebang article]]
