@@ -9,5 +9,6 @@
 *de: [[Wort]]
 *eo: [[vorto]]
 *fr: [[mot]]
+*he: [[מילה]]
 *nl: [[woord]]
 *sv: [[ord]]
