@@ -1,6 +1,6 @@
 ==[[Noun]]==
 
-===Etymology==
+===Etymology===
 
 [[Latin]] ''abductio'': cf. F. ''abduction''.
 
