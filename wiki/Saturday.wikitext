@@ -17,4 +17,5 @@
 *pl: [[sobota]]
 *pt: [[s&aacute;bado]]
 *sq: [[e shtunë]]
+*Wolof: [[Gaawu]]
 *yi: [[שבת]]
