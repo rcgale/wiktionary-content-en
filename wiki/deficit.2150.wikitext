@@ -5,4 +5,5 @@
 *[[Fiscal deficit]]
 ===Translations===
 *Dutch: [[tekort]]
+*Finnish: [[vaje]]
 *French: [[déficit budgétaire]], [[déficit]] (''note'': deficit in French has also a broader meaning)
