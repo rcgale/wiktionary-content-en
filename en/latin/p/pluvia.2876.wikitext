@@ -1,0 +1,15 @@
+==[[Interlingua]]==
+/ˈpluvja/
+===[[Etymology]]===
+From Latin [[pluvia]] 'rain'.
+===[[Noun]]===
+#Precipitation of water droplets from the clouds.
+#:'''Translations'''
+#:*[[English]]: [[rain]]
+#:*[[French]]: [[pluie]]
+#:*[[Guarani]]: [[ama]]
+#:*[[Italian]]: [[pioggia]]
+#:*[[Japanese]]: [[雨]] (ame)
+#:*[[Portuguese]]: [[chuva]]
+#:*[[Spanish]]: [[lluvia]]
+#:*[[Tupinambá]]: [[amana]]
