@@ -7,4 +7,4 @@
 
 ===Translations===
 * [[Dutch]]: [[seizoen]] (noun 1); [[kruiden]] (verb 1)
-* [[Hebrew]]: [[עונה]] (noun 1)l [[תיבל]] (verb 1)
+* [[Hebrew]]: [[עונה]] (noun 1);  [[תיבל]] (verb 1)
