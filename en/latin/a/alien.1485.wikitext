@@ -2,16 +2,17 @@
 :From [[Latin]] ''[[alia]]'', meaning "other".
 
 
+===Definitions===
+:[[Noun]]
+:#(1340) A person, animal, plant or other thing which is from outside the family, group, organization, or territory under consideration.
+:#(1935) An non-human intelligent life form from outside earth.
+:[[Adjective]]
+:#(1330) Pertaining to an alien
+:#(1382) Being exceedingly unfamiliar with or removed from a concept.
 
-See,
 
 # [[Alien (1935)]]
-#: (''[[noun]]'') An non-human intelligent life form from outside earth.
 # [[Alien (1929)]]
-#: (''[[adjective]]'') Belonging to an [[Alien (1935)|alien (def 1.)]].
 # [[Alien (1340)]]
-#: (''[[noun]]'') A person, animal, plant or other thing which is from outside the family, group, organization, or territory under consideration.
 # [[Alien (1330)]]
-#: (''[[adjective]]'') Belonging to an [[Alien (1340)|alien (def 3.)]].
 # [[Alien (1382)]]
-#: (''[[adjective]]'') Being exceedingly unfamiliar with or removed from a concept.
