@@ -1,5 +1,5 @@
 ==[[Noun]]==
-#The expansion of certain items (such as ballons) when filled with a fluid.
+#The expansion of certain items (such as balloons) when filled with a fluid.
 #Rise in the general level of prices
 
 ===Antonyms===
