@@ -1,11 +1,12 @@
+===Pronoun===
 # The first person; '''I''' refers to the speaker. See also [[me]].
-# The [[Roman numeral]] representing the number [[one]].
-
-==Translations==
-*de: [[ich]]
-*fr: [[je]]
-*fy: [[ik]]
-*Lojban: [[pami]]
-*nl: [[ik]]
-*is: [[ég]]
-*hi: [[मैं]](mai.n)
+#:Translations
+#:*German: [[ich]]
+#:*French: [[je]]
+#:*Frisian: [[ik]]
+#:*Lojban: [[pami]]
+#:*Dutch: [[ik]]
+#:*Icelandic: [[ég]]
+#:*Hindi: [[मैं]](mai.n)
+===Numeral===
+#The [[Roman numeral]] representing the number [[one]].
