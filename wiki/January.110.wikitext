@@ -6,6 +6,8 @@
 From Latin [[Ianuarius]], named after the god Ianus. Re-latinized from old French ''genever''.
 
 ==Translations==
-*nl: [[januari]]
+
+*es: [[enero]]
 *de: [[Januar]]
 *fr: [[janvier]]
+*nl: [[januari]]
