@@ -1,0 +1,2 @@
+===Adjective===
+#Variant of [[aaronic]].
