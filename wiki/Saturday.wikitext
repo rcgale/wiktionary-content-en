@@ -20,7 +20,7 @@ Old English ''Sætern(es)dæg'' from Latin ''Saturni dies'' (day of Saturn)
 *Dutch: [[zaterdag]]
 *Polish: [[sobota]]
 *Portuguese: [[s&aacute;bado]]
-*[[Ruanda]]: [[Kwagatandatu]]
+*[[Rwanda]]: [[Kwagatandatu]]
 *[[Serbian]]: [[субота]]
 *[[Slovak]]: [[sobota]]
 *[[Somali]]: [[Sabti]]
