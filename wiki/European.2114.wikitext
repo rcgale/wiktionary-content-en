@@ -1,0 +1,12 @@
+==[[Adjective]]==
+
+*Related to [[Europe]]
+
+===Translations===
+
+*French : [[européen]]
+*Spanish : [[europeo]]
+
+===Related words===
+
+* [[European Central Bank]]
