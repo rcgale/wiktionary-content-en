@@ -5,7 +5,7 @@
 # Country in Northern Africa. Official name: People's Democratic Republic of Algeria.
 #:'''Translations'''
 #:*[[Chinese]]: [[阿尔及利亚]]
-#:*[[Dannish]]: [[Algeriet]]
+#:*[[Danish]]: [[Algeriet]]
 #:*[[Dutch]]: [[Algerije]]
 #:*[[Esperanto]]: [[Alĝerio]]
 #:*[[Finnish]]: Algeria
