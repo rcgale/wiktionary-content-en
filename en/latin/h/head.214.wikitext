@@ -16,7 +16,7 @@ Related Germanic words are old German ''houbit'' (Haupt), middle Dutch ''h&ocirc
 # [[Leader]], [[chief]], as in ''Head of the department''
 #:'''Translations'''
 #:*de: [[Kopf]], [[Haupt]] (rarely used)
-#:*nl: [[kop]] 
+#:*nl: [[hoofd]] 
 # [[Nautical terminology|Nautical]] The [[toilet]] or [[restroom]] aboard a [[ship]].
 
 ===Verb===
