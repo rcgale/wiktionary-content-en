@@ -1,0 +1,9 @@
+==[[abbreviation]]==
+
+European Article Numbering
+
+==see also==
+
+*[[GTIN]]
+*[[UPC]]
+*[[barcode]]
