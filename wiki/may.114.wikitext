@@ -4,7 +4,7 @@
 
 # May is the fifth [[month]] in the Gregorian [[calendar]]. It has 31 [[day]]s.
 
-===Translations===
+'''Translations'''
 *de: [[Mai]]
 *es: [[mayo]]
 *eu: [[maiatz]]
@@ -16,7 +16,7 @@
 
 # The hawthorn bush or its blossoms 
 
-==verb==
+==Auxiliary verb==
 
 # have permission to. [[You]] may [[schnock]] the [[frectel]].
 # possibly, [[but]] [[not]] certain. The schnock may be in the frectel.
