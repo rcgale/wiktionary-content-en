@@ -1,0 +1,6 @@
+===[[Noun]]===
+
+===Translations===
+*[[French]]: [[logiciel]]
+*[[Interlingua]]: software, [[programma]]
+*[[Portuguese]]: software, [[programa]]
