@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Middle East. Official name: Hashemite Kingdom of Jordan.
+#:'''Translations'''
+#:*[[Danish]]: Jordan
+#:*[[Dutch]]: [[Jordanië]]
+#:*[[Esperanto]]: [[Jordanio]]
+#:*[[Finnish]]: [[Jordania]]
+#:*[[French]]: [[Jordanie]]
+#:*[[German]]: [[Jordanien]]
+#:*[[Greek]]: [[Ιορδανία]]
+#:*[[Interlingua]]: [[Jordania]]
+#:*[[Italian]]: [[Giordania]]
+#:*[[Polish]]: [[Jordania]]
+#:*[[Portuguese]]: [[Jordânia]]
+#:*[[Russian]]: [[Иордания]]
+#:*[[Spanish]]: [[Jordania]]
+#:*[[Swedish]]: [[Jordanien]]
+
+''See'': [[Countries of the world]]
