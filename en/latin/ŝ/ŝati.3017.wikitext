@@ -1,0 +1,6 @@
+Plaĉi 
+
+===[[Traduko]]j===
+
+*[[Angla]]: like
+*[[Hispana]]: gustar.
