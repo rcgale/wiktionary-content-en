@@ -15,4 +15,4 @@
 * English: in (on this page)
 * es: [[en]]
 * is: [[í]]
-* Lojban: [[nenri]]
+* Lojban: [[nenri]] (brivla), [[ne'i]] (tense)
