@@ -7,6 +7,7 @@
 *de: [[Freitag]]
 *eo: [[vendredo]]
 *es: [[viernes]]
+*et: [[reede]]
 *eu: [[ostiral]]
 *fr: [[vendredi]]
 *[[Georgian]]: [[პარასკევი]]
