@@ -8,15 +8,15 @@ Elephant \El"e*phant\
 
 ===Translations===
 *Danish: [[elefant]]
-*German: [[Elefant]]
-*Spanish: [[elefante]]
+*Dutch: [[olifant]]
 *Estonian: [[elevant]]
 *French: [[éléphant]]
+*German: [[Elefant]]
 *Hebrew: [[פיל]]
 *Korean: [[코끼리]] (kokkiri)
 *Latin: [[elephantus]]
-*Dutch: [[olifant]]
 *Polish: [[słoń]] 
+*Spanish: [[elefante]]
 *Swedish: [[elefant]]
 
 ===Further Reading===
