@@ -51,6 +51,7 @@
 *[[Moldavian]]: [[Vultur]]
 *[[Nahuatl]]: [[Cuāuhtli]]
 *[[Norwegian]]: [[Ørn]]
+*[[Persian]]: [[عقاب‌، شاهين‌ قرهقوش]] (needs to be checked by speaker)
 *[[Polish]]: [[Orzeł]] (1)
 *[[Portugese]]: [[Aguia]]
 *[[Quechua]]: [[Anca]]
