@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Caribbean. Official name: Antigua and Barbuda.
+#:'''Translations'''
+#:*[[Chinese]]: [[安提瓜岛和巴布达]]
+#:*[[Dannish]]: [[Antigua og Barbuda]]
+#:*[[Dutch]]: [[Antigua en Barbuda]]
+#:*[[Esperanto]]: [[Antigvo-Barbudo]]
+#:*[[Finnish]]: [[Antigua ja Barbuda]]
+#:*[[French]]: [[Antigua-et-Barbuda]]
+#:*[[German]]: [[Antigua und Barbuda]]
+#:*[[Greek]]: [[Αντίγκουα και Μπαρμπούντα]]
+#:*[[Interlingua]]: [[Antigua e Barbuda]]
+#:*[[Italian]]: [[Antigua e Barbuda]]
+#:*[[Polish]]: [[Antigua i Barbuda]]
+#:*[[Portuguese]]: [[Antígua e Barbuda]]
+#:*[[Russian]]: [[Антигуа и Барбуда]]
+#:*[[Spanish]]: [[Antigua y Barbuda]]
+#:*[[Swedish]]: [[Antigua och Barbuda]]
+
+''See'': [[Countries of the world]]
