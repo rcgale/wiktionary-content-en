@@ -1,0 +1,9 @@
+==English==
+
+'''proper noun'''
+
+# Country in Northern Africa.
+#:'''Translations'''
+#:*[[Dutch]]: [[Marokko]]
+
+''See:'' [[Countries of the world]]
