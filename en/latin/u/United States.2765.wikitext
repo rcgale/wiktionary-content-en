@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in North America. Official name: United States of America.
+#:'''Translations'''
+#:*[[Chinese]]: [[美国]]
+#:*[[Danish]]: [[USA]]
+#:*[[Dutch]]: [[Verenigde Staten]]
+#:*[[Esperanto]]: [[Usono]]
+#:*[[Finnish]]: [[Yhdysvallat]]
+#:*[[French]]: [[États-Unis]]
+#:*[[German]]: [[Vereinigte Staaten]]
+#:*[[Greek]]: [[Ηνωμένες Πολιτείες]]
+#:*[[Interlingua]]: [[Statos Unite de America]]
+#:*[[Italian]]: [[Stati Uniti]]
+#:*[[Polish]]: [[Stany Zjednoczone]]
+#:*[[Portuguese]]: [[Estados Unidos]]
+#:*[[Russian]]: [[Соединенные Штаты Америки]]
+#:*[[Spanish]]: [[Estados Unidos]]
+#:*[[Swedish]]: [[Förenta staterna]]
+
+''See'': [[Countries of the world]]
