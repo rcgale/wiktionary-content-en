@@ -3,6 +3,7 @@
 ===Translations===
 
 *Dutch: eerste
+*Finnish: ensimmäinen
 *French: premier
 *Frisian: earst
 *German: erste
