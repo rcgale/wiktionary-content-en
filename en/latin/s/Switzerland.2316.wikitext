@@ -5,7 +5,7 @@
 # Country in Europe. Official name: Swiss Confederation.
 #:'''Translations'''
 #:*[[Chinese]]: [[瑞士]]
-#:*[[Dannish]]: [[Schweiz]]
+#:*[[Danish]]: [[Schweiz]]
 #:*[[Dutch]]: [[Zwitserland]]
 #:*[[Esperanto]]: [[Svislando]]
 #:*[[Finnish]]: [[Sveitsi]]
