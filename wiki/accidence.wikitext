@@ -1,0 +1,9 @@
+''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Accidence]] for the new Wiktionary definition of this term.''
+
+'''Accidence''', ''<code>[[noun (part of speech)|noun]]</code>'' [A corruption of Eng. ''accidents'', pl. of ''accident''. See [[Accident]], 2.]
+
+<ol>
+<li>The accidents, of [[inflections]] of words; the [[rudiments]] of grammar. ''[[Milton (source)|Milton]].''
+
+<li> The rudiments of any subject. ''[[Lowell (source)|Lowell]].''
+</ol>
