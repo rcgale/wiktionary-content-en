@@ -2,3 +2,4 @@
 
 ===Translations===
 *nl: [[vandaag]]
+*es: [[hoy]]
