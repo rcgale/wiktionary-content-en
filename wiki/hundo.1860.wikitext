@@ -1,10 +1,11 @@
 ==[[Esperanto]]==
 
-===[[Noun]] (Hund´o)===
-#Hundo  estas besto
+=== [[Noun]] (Hund´o) ===
 
-===:'''Translation''' ===
-#*English [[dog]]
-#*French [[chien]]
-#*German [[Hund]]
-#*Spanish [[perro]]
+Hundo  estas besto
+
+=== '''[[Traduko]]j/Translations''' ===
+*English [[Dog]]
+*French [[Chien]]
+*German [[Hund]]
+*Spanish [[Perro]]
