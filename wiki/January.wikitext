@@ -11,6 +11,7 @@ From Latin [[Ianuarius]], named after the god Ianus. Re-latinized from old Frenc
 *de: [[Januar]]
 *fr: [[janvier]]
 *he: [[ינואר]]
+*mi: [[hänuere]]
 *nl: [[januari]]
 *pl: [[styczeń|stycze&#324;]]
 *sq: [[janar]]
