@@ -12,11 +12,11 @@ From Middle English '''tree''' > Old English '''[[trēo]](w)''' (tree, wood, any
 #: ''He had the choice of buying a [[scratching post]] or a cat ''tree''.''
 # A device used to hold or stretch a shoe open.
 #: ''He put a shoe ''tree'' in each of his shoes.'' <!-- Move to [[shoe tree]]? -->
-# {{graphtheory}} An connected [[graph]] with no cycles.
+# {{graphtheory}} A connected [[graph]] with no cycles.
 # {{comptheory}} A [[recursive]] [[data structure]] in which each [[node]] has zero or more nodes as children.
 # {{gui}} A [[display]] or listing of [[entries]] or [[element|elements]] such that there are [[primary]] and [[secondary]] entries shown, usually linked by drawn lines or by indenting to the right.
 #: ''We'll show it as a ''tree'' list.''
-# Any [[structure]] or [[construct]] having [[branch]]es akin to (1)
+# Any [[structure]] or [[construct]] having [[branch]]es akin to (1).
 
 ====Related terms====
 *[[b-tree]]
@@ -24,6 +24,7 @@ From Middle English '''tree''' > Old English '''[[trēo]](w)''' (tree, wood, any
 *[[suffix tree]]
 
 ====Translations====
+'''large woody plant''' ''(noun)''
 {| border=0 width=100%
 |-
 |bgcolor="#FFFFE0" valign=top width=48%|
@@ -33,7 +34,7 @@ From Middle English '''tree''' > Old English '''[[trēo]](w)''' (tree, wood, any
 *Arabic: [[شجر|شَجَرٌ]] (šádžar) ''m (collective)'', [[شجرة|شَجَرَةٌ]] (šádžara) ''f ([[singulative]])'', [[شجر|شَجَرْتَيْنِ]] (šadžartéːn) ''(dual)'', [[شجر|شَجَرَاتٌ]] (šadžaráːt) ''([[paucal]])'', [[شجر|أشْجَارٌ]] (‘ašdžáːr) ''(pl.)''
 *[[Aymara]]: [[khoka]]
 *[[Basque]]: [[zuhaitz]]
-*[[Breton]]: [[gwez]] ''collective noun'' [[gwezenn]] ''f singular'' (1)
+*[[Breton]]: [[gwez]] ''collective noun'' [[gwezenn]] ''f singular''
 *[[Brithenig]]: [[arfur]] ''m''
 *Bulgarian: [[дърво]] (dərvo) ''n''
 *[[Catalan]]: [[arbre]] ''m''
@@ -46,11 +47,11 @@ From Middle English '''tree''' > Old English '''[[trēo]](w)''' (tree, wood, any
 *[[Dyirbal]]: [[yugu]] ''(noun class IV)'', [[yuguɖaran]] ''dual'', [[yugu-yugu]] ''pl''
 *Dutch: [[boom]] ''m''
 *[[Esperanto]]: [[arbo]]
-*{{fi}}: [[puu]] (1,3,5,6)
+*{{fi}}: [[puu]]
 *French: [[arbre]] ''m''
 *[[Frisian]]: [[beam]]
 *Galician: [[árbore]] ''f''
-*German: [[Baum]] ''m'', [[Baum|Bäume]] ''pl'' (1-3,5-7), [[Schuhspanner]] (4), 
+*German: [[Baum]] ''m'', [[Baum|Bäume]] ''pl''
 *Greek: [[δένδρον]] (dhéndron) ''n''
 *[[Guaraní]]: [[yvyra]]
 *Hebrew: [[עץ]] (‛ēts) ''m''
@@ -58,16 +59,16 @@ From Middle English '''tree''' > Old English '''[[trēo]](w)''' (tree, wood, any
 *Indonesian: [[pohon]]
 *[[Interlingua]]: [[arbore]]
 *Italian: [[albero]] ''m''
+*Japanese: [[木]] ([[き]], ki), [[樹木]] ([[じゅもく]], jumoku)
+*[[Javanese]]: [[wit]]
+*Korean: [[나무]] (namu)
 |}
 | width=1% |
 |bgcolor="#FFFFE0" valign=top width=48%|
 {|
-<!--languages from J to Z go here-->
-*Japanese: [[木]] ([[き]], ki), [[樹木]] ([[じゅもく]], jumoku)
-*[[Javanese]]: [[wit]]
-*Korean: [[나무]] (namu)
+*[[Lakota]]: [[chan]]
 *Latin: [[arbor]] ''f''
-*Lithuanian: [[medis]] ''m'' (1, 5-7)
+*Lithuanian: [[medis]] ''m''
 *[[Luxembourgish]]: [[Baam]]
 *[[Manchu]]: ([[moo]])
 *[[Nahuatl]]: [[cuahuitl]]
@@ -92,7 +93,7 @@ From Middle English '''tree''' > Old English '''[[trēo]](w)''' (tree, wood, any
 *[[Sotho]]: [[sefate]]
 *Spanish: [[árbol]] ''m''
 *[[Swahili]]: [[mti]] ''sg'', [[mti|miti]] ''pl (noun 3/4)''
-*Swedish: [[träd]] ''n'' (1,5,6)
+*Swedish: [[träd]] ''n''
 *[[Tagalog]]: [[puno]]
 *[[Tajik]]: [[дарахт]] (darakht)
 *[[Tamil]]: [[மரம்]] (maram)
@@ -105,6 +106,96 @@ From Middle English '''tree''' > Old English '''[[trēo]](w)''' (tree, wood, any
 *Ukrainian: [[дерево]] (derevo) ''n''
 *Vietnamese: [[cây]]
 *Welsh: [[pren]], [[coeden]], [[colfen]] (colloquial)
+|}
+|}
+
+====Translations====
+'''pole with storage hooks''' ''(noun)''
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from A to I go here-->
+*{{fi}}: [[puu]]
+*German: [[Baum]] ''m'', [[Baum|Bäume]] ''pl''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from J to Z go here-->
+*
+|}
+|}
+
+====Translations====
+'''shoe tree''' ''(noun)''
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from A to I go here-->
+*German: [[Schuhspanner]]
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from J to Z go here-->
+*
+|}
+|}
+
+====Translations====
+{{graphtheory}} '''graph tree''' with no cycles. ''(noun)''
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from A to I go here-->
+*{{fi}}: [[puu]]
+*German: [[Baum]] ''m'', [[Baum|Bäume]] ''pl''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from J to Z go here-->
+*Lithuanian: [[medis]] ''m''
+*Swedish: [[träd]] ''n''
+|}
+|}
+
+====Translations====
+{{comptheory}} '''recursive data structure''' ''(noun)''
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from A to I go here-->
+*{{fi}}: [[puu]]
+*German: [[Baum]] ''m'', [[Baum|Bäume]] ''pl''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from J to Z go here-->
+*Lithuanian: [[medis]] ''m''
+*Swedish: [[träd]] ''n''
+|}
+|}
+
+====Translations====
+{{gui}} '''tree list''' ''(noun)''
+{| border=0 width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from A to I go here-->
+*German: [[Baum]] ''m'', [[Baum|Bäume]] ''pl''
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--languages from J to Z go here-->
+*Lithuanian: [[medis]] ''m''
 |}
 |}
 
