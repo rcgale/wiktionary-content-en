@@ -1,6 +1,7 @@
 ===Expression===
 
 ===Translations===
+*Finnish: [[sananvapaus]]
 *French: [[liberté d'expression]]
 *Dutch: [[vrijheid van meningsuiting]]
 *Norwegian: [[ytringsfrihet]]
