@@ -6,6 +6,7 @@
 *Blackfoot: [[Ííkaitaistssinao'p]]
 *de: [[Mittwoch]]
 *es: [[miércoles]]
+*et: [[kolmapäev]]
 *eu: [[asteazken]]
 *fr: [[mercredi]]
 *[[Georgian]]: [[ოთხშაბათი]]
