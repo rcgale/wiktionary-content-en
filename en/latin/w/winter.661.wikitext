@@ -10,6 +10,7 @@ Plural: winters
 #:*[[Czech]]: [[zima]]
 #:*[[Danish]]: [[vinter]]
 #:*[[Dutch]]: winter (on this page)
+#:*[[Esperanto]]: [[vintro]]
 #:*[[Estonian]]: [[talv]]
 #:*[[Finnish]]: [[talvi]]
 #:*[[French]]: [[hiver]]
