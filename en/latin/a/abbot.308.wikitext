@@ -3,6 +3,10 @@ Anglo Saxon ''abbod'', ''abbad'', Latin ''abbas'', ''abbatis'', Greek [[&#7936&b
 ===Noun===
 #The superior or head of an [[abbey]].
 #One of a class of bishops whose sees were formerly [[abbeys]]. - ''Encyclopedia Britanica''
+
+'''Translations'''
+*[[Dutch]]: [[abt]]
+
 ===Derived phrases===
 *'''Abbot of the people''': a title formerly given to one of the chief magistrates in [[Genoa]]. 
 *'''Abbot of Misrule''' (or '''Lord of Misrule'''), in [[mediæval]] times, the master of [[revels]], as at [[Christmas]]; in Scotland called the [[Abbot of Unreason]]. - ''Encyclopedia Britanica''
