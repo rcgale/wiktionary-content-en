@@ -2,8 +2,22 @@
 
 '''proper noun'''
 
-# Country in Southeast Asia.
+# Country in Southeast Asia. Official name: Malaysia.
 #:'''Translations'''
+#:*[[Chinese]]: [[马来西亚]]
+#:*[[Danish]]: Malaysia
 #:*[[Dutch]]: [[Maleisië]]
+#:*[[Esperanto]]: [[Malajzio]]
+#:*[[Finnish]]: [[Malesia]]
+#:*[[French]]: [[Malaisie]]
+#:*[[German]]: Malaysia
+#:*[[Greek]]: [[Μαλαισία]]
+#:*[[Interlingua]]: Malaysia
+#:*[[Italian]]: [[Malesia]]
+#:*[[Polish]]: [[Malezja]]
+#:*[[Portuguese]]: [[Malásia]]
+#:*[[Russian]]: [[Малайзия]]
+#:*[[Spanish]]: [[Malasia]]
+#:*[[Swedish]]: Malaysia
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
