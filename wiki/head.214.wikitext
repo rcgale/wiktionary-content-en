@@ -31,3 +31,4 @@ Related Germanic words are old German ''houbit'' (Haupt), middle Dutch ''h&ocirc
 # To move into a [[special]] [[direction]]. ''heading towards something''
 #:'''Translations'''
 #:*de: [[ansteuern]], in eine [[Richtung]] [[gehen]], auf etwas [[zusteuern]]
+#:*nl: ergens naar toe [[gaan]], een richting op [[gaan]]
