@@ -10,7 +10,7 @@
 *[http://eo.wikipedia.org/wiki/%C4%9Cermana_lingvo|Ĝermana]: [[Wort]]
 *[[Hebrea]]: [[מילה]]
 *Hungara: [[szó]]
-*[http://eo.wikipedia.org/wiki/JidoJida]: [[װאָרט]]
+*[http://eo.wikipedia.org/wiki/Jido Jida]: [[װאָרט]]
 *Korea: '''1''' [[낱말]] (natmal), [[단어]] (daneo) '''2''' [[말]] (mal)
 *Nederlanda: [[woord]]
 *Portugala: '''1~4''' [[palavra]], '''1''' [[vocábulo]], '''4''' [[verbo]]
