@@ -14,6 +14,7 @@ From Latin [[elephantus]] via old French oliphant to 'olyfaunt' (13th century), 
 *fr: [[éléphant]]
 *nl: [[olifant]]
 *pl: [[s?on´]] 
+*sv: [[elefant]]
 
 ==Further Reading==
 *[[en:elephant|Wikipedia article]]
