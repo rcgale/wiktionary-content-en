@@ -11,3 +11,4 @@
 
 <code>God gave them over to a ''reprobate'' mind. ''[[Rom. i. 28. (source)|Rom. i. 28.]]''</code>
 </ol>
+<HR> <P> <H3>Translations</H3><BR>•[[French]] fr: [[Abandonné]]<BR>•[[German]] de: [[Verlassen]]<BR>•[[Interlingua]] ia: [[Abandonate]]<BR>•[[Italian]] it: [[Abbandonato]]<BR>•[[Portuguese]] pt: [[Abandonado]]<BR>•[[Spanish]] es: [[Abandonado]]<BR>•[[]]: [[]]
