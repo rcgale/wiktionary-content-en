@@ -2,9 +2,9 @@
 ===Noun===
 #'len-te /lent@/, ''masculine and feminine'', ''plural'' -s /-s/,  Traditionally the first of the four [[season]]s, normally from [[March]] 21 to [[June]] 20; [[spring]]
 ====Translation====
-*es: [[primavera]]
-*fr: [[printemps]]
-*pl: [[wiosna]]
+*[[Spanish]]: [[primavera]]
+*[[French]]: [[printemps]]
+*[[Polish]]: [[wiosna]]
 ==French==
 ===Adjective===
 #Feminine form of the adjective ''lent'' meaning [[slow]]
