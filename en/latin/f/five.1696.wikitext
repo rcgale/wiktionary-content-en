@@ -9,5 +9,6 @@ Old English ''fíf'', from Germanic ''*fimfi'', from PIE ''*penkwe''. Cognate to
 *es: [[cinco]]
 *fr: [[cinq]]
 *Frisian: [[fiif]]
+*Icelandic: [[fimm]]
 *Lojban: [[mu]]
 *nl: [[vijf]]
