@@ -8,5 +8,8 @@
 # [[Leader]], [[chief]], as in ''Head of the department''
 # [[Nautical terminology|Nautical]] The [[toilet]] or [[restroom]] aboard a [[ship]].
 
+[[Verb]]
+# To be in command of 
+
 ===Translations===
-*nl: noun: [[hoofd]] (1 (of person or horse), 2), [[kop]] (1 (of animal))
+*nl: noun: [[hoofd]] (1 (of person or horse), 2), [[kop]] (1 (of animal)); verb: [[leiden]], [[aanvoeren]]
