@@ -1,0 +1,1 @@
+'''andante''', ''(Italian, musical term)'', a musical term meaning "at walking pace", a medium tempo
