@@ -18,3 +18,5 @@ Related pronouns: [[mijn]], [[m'n]] (''possesive'', mine); [[mij]], [[me]] ('''?
 * en: [[I]]
 * es: [[yo]]
 * fr: [[je]]
+* he: [[אני]]
+* yi: [[איך]]
