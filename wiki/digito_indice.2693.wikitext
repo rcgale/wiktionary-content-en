@@ -5,3 +5,4 @@ From [[digito]] + [[indice]].
 #:'''Translations'''
 #:*[[English]]: [[forefinger]], [[index finger]], [[index]]
 #:*[[Portuguese]]: [[dedo indicador]], [[dedo índex]], [[índex]], [[índice]].
+#:*[[Spanish]]: [[dedo índice]], [[índice]].
