@@ -10,6 +10,7 @@
 *et: [[kolmapäev]]
 *eu: [[asteazken]]
 *fr: [[mercredi]]
+*fy: [[woansdei]]
 *[[Georgian]]: [[ოთხშაბათი]]
 *he: [[יום רביעי]] (yom r'vee-EE)
 *hr: [[Srijeda]]
