@@ -1,7 +1,7 @@
 ==Esperanto==
-=== Etymology ===
+===Etymology ===
 ''[[vikio]]''+''[[enciklopedio]]''.
 ===Noun===
 # [[Wikipedia]]
-=== External link ===
-* [http://eo.wikipedia.org/ Vikipedio Homepage]
+===External link ===
+* [http://eo.wikipedia.org Vikipedio Homepage in Esperanto]
