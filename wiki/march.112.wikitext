@@ -24,6 +24,7 @@
 (noun 1):
 *de: [[M&auml;rz]]
 *es: [[marzo]]
+*eu: [[martxoa]]
 *fr: [[mars]]
 *he: [[מרץ]]
 *mi: [[mäehe]]
