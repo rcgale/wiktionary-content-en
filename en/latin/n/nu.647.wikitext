@@ -1,13 +1,13 @@
 Dutch: now
 
-[[Esperanto]]: well (as in "Well, I think...")
+*[[Esperanto]]: well (as in "Well, I think...")
 
-French: naked
+*French: naked
 
-Greek: represents a value of 50 as a Greek numeral.
+*Greek: represents a value of 50 as a Greek numeral.
 
-Swedish: now
+*Swedish: now
 
-Yiddish: interrogative as in "So, nu?"
+*Yiddish: interrogative as in "So, nu?"
 
-Lojban: event abstractor, similar in meaning to an infinitive or gerund. ''[[klama]]'' go, goes, went. ''lo klama'' a goer. ''lo nu klama'' a going. ''lo'e nu klama'' to go.
+*Lojban: event abstractor, similar in meaning to an infinitive or gerund. ''[[klama]]'' go, goes, went. ''lo klama'' a goer. ''lo nu klama'' a going. ''lo'e nu klama'' to go.
