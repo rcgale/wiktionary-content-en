@@ -3,7 +3,18 @@
 ''noun''
 
 # A life form from another [[planet]].
+# A person, animal, plant or other thing which is from outside the land, area, or territory under consideration.
 
 ''adjective''
 
 # exceedingly [[strange]], as if it were from another planet. For example, "an alien [[landscape]]".
+# Unfamiliarity in general; of an incorrigible criminal, one might say "the concept of ethics was alien to him". 
+
+
+== Etymology ==
+
+From [[Latin]] ''[[alia]]'', meaning "other".
+
+== Further Reading ==
+
+* [[w:Alien|Wikipedia article on aliens]]
