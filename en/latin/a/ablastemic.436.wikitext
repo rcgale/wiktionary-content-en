@@ -1,5 +1,4 @@
-==[[Adjective]]==
-
- [Gr. 'a priv. + &?; growth.] ''([[Biol (subject)|Biol]]).''
-
-[[Non-germinal]].
+===Etymology===
+Greek &alpha;- not + &beta;&lambda;&alpha;&sigma;&tau;&omicron;&sigma growth.]
+===[[Adjective]]===
+#''(Biology):'' Non-[[germinal]].
