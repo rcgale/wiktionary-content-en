@@ -3,8 +3,8 @@
 #A very young human being, from birth to a couple of years
 
 ===Translations===
-
-*French: [[bébé]]
+*[[Dutch]]: baby
+*[[French]]: [[bébé]]
 
 ===Related words===
 
