@@ -13,7 +13,7 @@
 
 Several etymologies have been found. We give them all here, and leave it to people who are more in the know to pick the real one:
 
-1. Originally invented in 19th century by an english man who [[bet]] he could [[add]] a new [[word]] to the english language. He thus painted his new word on all walls in his hometown he managed to paint.
+1. Originally invented in 19th century by an English man who [[bet]] he could [[add]] a new [[word]] to the english language. He thus painted his new word on all walls in his hometown he managed to paint.
 The morning after, everyone was talking about the new word.
 
 2. The original meaning is [[interrogation]] (1867), being derived from the verb. Current meaning only since 1941.
