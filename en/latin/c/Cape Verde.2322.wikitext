@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Republic of Cape Verde.
+#:'''Translations'''
+#:*[[Chinese]]: [[佛得角]]
+#:*[[Dannish]]: [[Kap Verde]]
+#:*[[Dutch]]: [[Kaapverdië]]
+#:*[[Esperanto]]: [[Kabo-Verdo]]
+#:*[[Finnish]]: [[Kap Verde]]
+#:*[[French]]: [[Cap-Vert]]
+#:*[[German]]: [[Kap Verde]]
+#:*[[Greek]]: [[Πράσινο Ακρωτήριο]]
+#:*[[Interlingua]]: [[Cabo Verde]]
+#:*[[Italian]]: [[Capo Verde]]
+#:*[[Polish]]: [[Zielony Przylądek]]
+#:*[[Portuguese]]: [[Cabo Verde]]
+#:*[[Russian]]: [[Кабо-Верде]]
+#:*[[Spanish]]: [[Cabo Verde]]
+#:*[[Swedish]]: [[Kap Verde]]
+
+''See'': [[Countries of the world]]
