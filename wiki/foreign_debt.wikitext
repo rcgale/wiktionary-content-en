@@ -4,6 +4,10 @@ The amount of money that a country has to pay to another country.
 
 * External debt
 
+'''Antonym'''
+
+* Domestic debt
+
 '''See also'''
 
 * [[debt]]
