@@ -3,7 +3,7 @@
 
 '''Translations'''
 
-* Dutch: [[schulde]]
+* Dutch: [[schuld]]
 * French: [[dette]]
 * Spanish: [[deuda]]
 * Swedish: [[skuld]]
