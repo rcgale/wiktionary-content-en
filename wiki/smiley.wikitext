@@ -2,7 +2,19 @@
 []
 
 ===Noun===
-# Combination of keyboard characters that gives a graphical representation of a person's mood or emotion, emoticon.
+# Combination of keyboard characters that gives a graphical representation of a person's mood or emotion, now always a smile.
+# [[Synonym]]: emoticon.
 
 ===List===
-[[:-)]] - ...
+Note : in wiki are used generally within skare brackets, for two rations. The first, the use of : is wiki significating character and used for another uses. The second, the user ( specially the [[newbby|newbbies]]) can see the meanings of the smiley.
+
+*[[:-)]] - ...
+*[[:-D]]
+*[[:-?]]
+*[[:-/]]
+*[[:-(]]
+*[[:´-(]]
+* more...
+
+===Translations===
+*[[Spanish]]: [[emoticón]]
