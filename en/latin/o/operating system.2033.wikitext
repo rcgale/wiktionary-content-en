@@ -5,12 +5,6 @@
 # [[Software]] that controls a [[computer]] and acts as a layer between the [[hardware]] and the applications and users. (eg. [[Linux]], [[Windows]],  [[MacOS]], [[Unix]])
 # [[Software]] that provides a simple environment for programmers and end users to work more efficiently (shell, command interpreter)
 
-====Synonyms====
-*[[OS]]
-*[[DOS]]
-*[[shell]]
-*[[CLI]]
-
 ====Translations====
 {| border=0 width=100%
 |-
@@ -42,44 +36,6 @@
 * [[Mac OS]]
 * [[Microsoft Windows|Windows]]
 * [[UNIX]]
-* [[List of operating systems|More operating systems]]
-
-== Classifications and terminology ==
-An operating system is conceptually broken into three sets of components: a user interface (which may consist of a  [[graphical user interface]] and/or a [[command line interpreter]] or "shell"), low-level system utilities, and a [[Kernel (computers)|kernel]]--which is the heart of the operating system.  As the name implies, the shell is an outer wrapper to the kernel, which in turn talks directly to the hardware.
-
-
-            Hardware <-> Kernel <-> Shell <-> Applications 
-
-In some operating systems the shell and the kernel are completely separate entities, allowing you to run varying combinations of shell and kernel (e.g., [[UNIX]]), in others their separation is only conceptual.
-
-
-==Related articles==
-
-===General topics===
-* [[:Category:Operating systems|Operating systems category]]
-* [[History of operating systems]]
-* [[List of operating systems]]
-* [[Operating systems timeline]]
-*[[List of important publications in computer science#operating system| Important publications in operating systems]]
-*{{Dictionary}}
-
-===Other topics===
-* [[Hard disk drive partitioning]]
-* [[LiveCD]] OS ([[Gnoppix]] and [[Knoppix]] [[Linux]]).
-* [[monolithic kernel|monolithic]] [[kernel (computers)|kernel]] -- [[microkernel]] -- [[exokernel]] -- [[virtual machine]] -- [[system call]]
-* asymmetric and symmetric [[multiprocessing]] (SMP) -- [[clustering]] -- [[distributed computing]]
-* [[Operating system advocacy]]
-* [[real-time operating system]] -- [[time-share]] -- [[Computer multitasking|multitasking]] -- [[embedded system]] -- [[single-user]] -- [[multi-user]]
-* [[orthogonal persistence|orthogonally persistent]] -- capabilities versus [[access control list]]s
-* [[object-oriented operating system]]
-* [[OS-tan]] ([[Personification]] of operating systems)
-
-==External links==
-* [http://cliki.tunes.org TUNES wiki, contains reviews of operating systems]
-* [http://www.cbi.umn.edu/iterations/haigh.html Multicians.org] and the History of Operating Systems
-* [http://www.elook.org/computing/operating-system.htm Operating System] - explains what an operating system is and provides various examples
-* [http://mega-tokyo.com/osfaq2/ The "Write Your Own Operating System"] OS Developer FAQ
-* [http://myoldmac.net/webse-e.htm  Macintosh OS System 7 simulation online]
 
 [[Category:Computer terminology]]
 [[Category:software]]
