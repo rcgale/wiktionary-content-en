@@ -5,7 +5,7 @@
 # Country in Europe. Official name: Principality of Andorra.
 #:'''Translations'''
 #:*[[Chinese]]: [[安道尔]]
-#:*[[Dannish]]: Andorra
+#:*[[Danish]]: Andorra
 #:*[[Dutch]]: Andorra
 #:*[[Esperanto]]: [[Andoro]]
 #:*[[Finnish]]: Andorra
