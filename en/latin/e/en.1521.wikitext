@@ -8,7 +8,10 @@
 
 === Translations ===
 
-en: [[and]]
+* de: [[und]]
+* en: [[and]]
+* es: [[y]]
+* fr: [[et]]
 
 ----
 
@@ -22,4 +25,5 @@ en: [[and]]
 
 === Translations ===
 
-en: [[in]]
+* en: [[in]]
+* nl: [[in]]
