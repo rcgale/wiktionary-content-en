@@ -49,5 +49,6 @@
 *[[Slovak]]: [[Orol]]
 *[[Spanish]]: [[Águila]] (1)
 *[[Swedish]]: [[Örn]]
+*[[Thai]]: [[อินทรี]] (needs to be checked by speaker)
 *[[Turkish]]: [[Kartal]]
 *[[Ukranian]]: [[Oрел]]
