@@ -7,3 +7,4 @@ Adjective \Ad"jec*tive\
 ==Translations==
 
 *fr: [[adjectif]]
+*nl: [[bijvoeglijk]] [[naamwoord]]
