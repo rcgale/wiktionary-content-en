@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Eastern Africa. Official name: State of Eritrea.
+#:'''Translations'''
+#:*[[Danish]]: Eritrea
+#:*[[Dutch]]: Eritrea
+#:*[[Esperanto]]: [[Eritreo]]
+#:*[[Finnish]]: Eritrea
+#:*[[French]]: [[Érythrée]]
+#:*[[German]]: Eritrea
+#:*[[Greek]]: [[Ερυθραία]]
+#:*[[Interlingua]]: Eritrea
+#:*[[Italian]]: Eritrea
+#:*[[Polish]]: [[Erytrea]]
+#:*[[Portuguese]]: [[Eritreia]]
+#:*[[Russian]]: [[Эритрия]]
+#:*[[Spanish]]: Eritrea
+#:*[[Swedish]]: Eritrea
+
+''See'': [[Countries of the world]]
