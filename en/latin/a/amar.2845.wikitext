@@ -1,0 +1,47 @@
+==[[Portuguese]]==
+===[[Verb]]===
+To have great affection for.
+===Translations===
+*[[English]]: to [[love]]
+*[[Esperanto]]: [[ami]]
+*[[French]]: [[aimer]]
+*[[Interlingua]]: [[amar]]
+*[[Italian]]: [[amare]]
+*[[Latin]]: [[amare]]
+*[[Spanish]]: [[amar]]
+*[[Tupinambá]]: [[aûsub]] (s-)
+----
+==[[Interlingua]]==
+===[[Verb]]===
+#To have great affection for.
+#:'''Translations'''
+#:*[[English]]: to [[love]]
+#:*[[Esperanto]]: [[ami]]
+#:*[[French]]: [[aimer]]
+#:*[[German]]: [[lieben]]
+#:*[[Italian]]: [[amare]]
+#:*[[Latin]]: [[amare]]
+#:*[[Portuguese]]: [[amar]]
+#:*[[Spanish]]: [[amar]]
+#:*[[Tupinambá]]: [[aûsub]] (s-)
+#To be fond of.
+#:'''Translations'''
+#:*[[English]]: to [[like]], to be [[fond]] of
+#:*[[French]]: [[aimer]]
+#:*[[Interlingua]]: [[amar]]
+#:*[[Italian]]: (''see'' [[piacere]])
+#:*[[Latin]]: [[amare]]
+#:*[[Portugese]]: [[gostar]] de
+#:*[[Spanish]]: (''see'' [[gustar]])
+#:*[[Tupinambá]]: [[aûsub]] (s-)
+===[[Adjective]]===
+#Having an acrid taste. Synonym: [[acerbe]], [[acre]].
+#:'''Translations'''
+#:*[[English]]: [[bitter]]
+#:*[[French]]: [[amer]]
+#:*[[German]]: [[bitter]]
+#:*[[Italian]]: [[amaro]]
+#:*[[Latin]]: [[amarus]]
+#:*[[Portugese]]: [[amargo]]
+#:*[[Spanish]]: [[amargo]]
+#:*[[Tupinambá]]: [[aka]]
