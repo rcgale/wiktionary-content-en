@@ -1,4 +1,5 @@
 # The second half of the day, from [[noon]] to [[midnight]].
+# Abbreviation for [[prime minister]].
 
 == Etymology ==
 
