@@ -3,6 +3,7 @@ Freedom of speech
 
 '''Translations'''
 
-*fr: liberté d'expression
-*se: [[yttrandefrihet]]
+*fr: [[liberté d'expression]]
+*nl: [[vrijheid van meningsuiting]]
 *no: [[ytringsfrihet]]
+*se: [[yttrandefrihet]]
