@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Country in Oceania. Official name: Republic of Niue.
+#:'''Translations'''
+#:*[[Danish]]: Niue
+#:*[[Dutch]]: Niue
+#:*[[Esperanto]]: [[Niuo]]
+#:*[[Finnish]]: Niue
+#:*[[French]]: [[Nioué]]
+#:*[[German]]: Niue
+#:*[[Greek]]: [[Νιούε]]
+#:*[[Italian]]: Niue
+#:*[[Polish]]: Niue
+#:*[[Portuguese]]: Niue
+#:*[[Russian]]: [[остров Ниуэ]]
+#:*[[Spanish]]: Niue
+#:*[[Swedish]]: Niue
+
+''See'': [[Countries of the world]]
