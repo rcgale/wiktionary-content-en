@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Central America. Official name: Republic of Honduras.
+#:'''Translations'''
+#:*[[Chinese]]: [[洪都拉斯]]
+#:*[[Danish]]: Honduras
+#:*[[Dutch]]: Honduras
+#:*[[Esperanto]]: [[Honduro]]
+#:*[[Finnish]]: Honduras
+#:*[[French]]: Honduras
+#:*[[German]]: Honduras
+#:*[[Greek]]: [[Ονδούρα]]
+#:*[[Interlingua]]: Honduras
+#:*[[Italian]]: Honduras
+#:*[[Polish]]: Honduras
+#:*[[Portuguese]]: Honduras
+#:*[[Russian]]: [[Гондурас]]
+#:*[[Spanish]]: Honduras
+#:*[[Swedish]]: Honduras
+
+''See'': [[Countries of the world]]
