@@ -1,3 +1,5 @@
+Wikipedia article about Esperanto: 
+
 http://www.wikipedia.org/wiki/Esperanto
 
 There is an Esperanto version of Wikipedia
@@ -5,4 +7,9 @@ There is an Esperanto version of Wikipedia
 http://eo.wikipedia.org
 
 International Abbreviation:  EO
+
 Territories : it´s not a territory originated language. It has a Fundamental (logical ) Grammar with natural add-ons.
+
+Multilingual information about Esperanto : 
+http://www.esperanto.org
+http://www.esperanto.net
