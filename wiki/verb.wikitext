@@ -1,0 +1,5 @@
+Verb \Verb\ 
+
+''[[noun]]''
+# a word that serves as the predicate of a sentence
+# a content word that denotes an action or a state
