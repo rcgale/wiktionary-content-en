@@ -4,5 +4,5 @@ Have some data about something.
 
 *[[Irregular Conjugation]]:
 **Know : [[infinitive]]
-**knew : [[preterite]] 
-**known: [[past participle]]
+**Knew : [[preterite]] 
+**Known: [[past participle]]
