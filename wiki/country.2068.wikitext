@@ -6,7 +6,13 @@
 #:*[[French]]: [[pays]]
 #:*[[German]]: [[Land]]
 #:*[[Hebrew]]: [[ארץ]]
+#:*[[Interlingua]]: [[pais]]
+#:*[[Latin]]: [[terra]]
+#:*[[Portuguese]]: [[país]]
 
 ===[[adjective]]===
 
 From the [[countryside]], or connected with it. [[Rural]].
+#:'''Translations'''
+#:*[[Interlingua]]: [[rural]], [[campestre]]
+#:*[[Portuguese]]: [[rural]], [[campestre]]
