@@ -10,11 +10,13 @@
 ===Translations===
 
 *[[Afrikaans]]: [[Arend]]
-*[[Albanian]]: [[Shkabë]] (needs to be checked by speaker)
+*[[Albanian]]: [[Shkabë]]
+*[[Armenian]]: [[Արծիվ]]
 *[[Belarussian]]: [[Aroł]] 
 *[[Bulgarian]]: [[Oрел]]
 *[[Chinese(Simplified)]]: [[老鹰]] (needs to be checked by speaker)
 *[[Chinese(Traditional)]]: [[老鷹]] (needs to be checked by speaker)
+*[[Croatian]]: [[Orao]]
 *[[Czech]]: [[Orel]]
 *[[Dutch]]: [[Arend]], [[Adelaar]] (1)
 *[[Esperanto]]: [[Aglo]]
@@ -24,11 +26,11 @@
 *[[Frisian]]: [[Earn]]
 *[[Gaelic(Irish)]]: [[Iolar]] (needs to be checked by speaker)
 *[[Gaelic(Manx)]]: [[Urley]], [[Peesh Jeih Dollar]] (needs to be checked by speaker)
-*[[Gaelic(Scottish)]]: [[iolair]] (needs to be checked by speaker)
-*[[Georgian]]: [[არწივი]] (needs to be checked by speaker)
+*[[Gaelic(Scottish)]]: [[Iolair]] (needs to be checked by speaker)
+*[[Georgian]]: [[არწივი]] (Is the first letter a capital? is there one?)
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
 *[[Greek]]: [[Aετός]]
-*[[Hebrew]]: [[עיט]] (also נשר commonly)
+*[[Hebrew]]: [[עיט]] (also נשר commonly) (Is the first letter a capital? is there one?)
 *[[Hungarian]]: [[Sas]] 
 *[[Icelandic]]: [[Örn]]
 *[[Inuktitut]]: [[Nakturalik]]
@@ -47,8 +49,10 @@
 *[[Russian]]: [[Oрел]]
 *[[Serbian]]: [[Orao]]
 *[[Slovak]]: [[Orol]]
+*[[Slovenian]]: [[Orel]]
 *[[Spanish]]: [[Águila]] (1)
 *[[Swedish]]: [[Örn]]
-*[[Thai]]: [[อินทรี]] (needs to be checked by speaker)
+*[[Thai]]: [[อินทรี]] (Is the first letter a capital? is there one?)
 *[[Turkish]]: [[Kartal]]
 *[[Ukranian]]: [[Oрел]]
+*[[Welsh]]: [[Eryr]], [[Heryr]] 9needs to be checked by speaker)
