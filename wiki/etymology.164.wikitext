@@ -6,6 +6,16 @@
 
 From French ''&eacute;tymologie'', which via Latin [[etymologia]] derives from Greek ''etumologia''. Originally ''looking for the truth in and through words''.
 
+==Quotations==
+
+*'''a. 1571''' - Lodovico Castelvetro, ''Aristotle's Art of Poetry'', Page 28.
+*:The Etymology which the Dorians give, seems indeed more probable, than that of the Athenians; for how can Comodein, be made of the word Comazein.
+
+*'''1583''' - Brian Melbancke, ''Philotimus'' (1583), Page 98.
+*:Amonge all other Artes, forgett not the Mathematikes. for the Etymologie of their name, exhortes you to learne them.
+
+*'''1693''' - John Dryde, ''The Satires of Decimus Junius Juvenalis'', Page 26.
+*:But in former times, the Name of Satire was given to Poems, which were compos'd of several sorts of Verses; such as were made by Ennius, and Pacuvius; more fully expressing the Etymology of the word Satire, from Satura, which we have observ'd
 ==Translations==
 
 * de: [[Etymologie]]
