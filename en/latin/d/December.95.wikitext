@@ -9,3 +9,4 @@
 *he: דצמבר
 *nl: [[december]]
 *pl: [[grudzień]]
+*sq: [[dhjetor]]
