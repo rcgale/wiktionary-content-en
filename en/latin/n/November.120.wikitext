@@ -3,4 +3,7 @@
 #November is the 11th [[month]] in the Gregorian [[calendar]]. It has 30 days.
 
 ==Translations==
+
+*es: noviembre
+*fr: novembre
 *nl: [[november]]
