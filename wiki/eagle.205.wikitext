@@ -52,6 +52,7 @@
 *[[Latin]]: [[Aquila]], [[Aqvila]]
 *[[Latvian]]: [[Ērglis]]
 *[[Lithuanian]]: [[Erelis]]
+*[[Lemko]]: [[Орел]] 
 *[[Maltese]]: [[Ajkla]]
 *[[Moldavian]]: [[Vultur]]
 *[[Nahuatl]]: [[Cuāuhtli]]
