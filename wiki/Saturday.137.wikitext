@@ -19,6 +19,7 @@
 *nl: [[zaterdag]]
 *pl: [[sobota]]
 *pt: [[s&aacute;bado]]
+*[[Ruanda]]: [[Kwagatandatu]]
 *[[Serbian]]: [[субота]]
 *[[Slovak]]: [[sobota]]
 *[[Somali]]: [[Sabti]]
