@@ -1,0 +1,5 @@
+'''Fabian''', ''[[adjective (part of speech)|adjective]]'' [L. ''Fabianus'', ''Fabius'', belonging to [[Fabius]].]
+
+Of, pertaining to, or in the manner of, the Roman general, [[Quintus]] Fabius [[Maximus]] [[Verrucosus]]; [[cautious]]; [[dilatory]]; [[avoiding]] a [[decisive]] contest.
+
+'''Fabian policy''', a policy like that of Fabius Maximus, who, by [[carefully]] avoiding decisive contests, foiled [[Hannibal]], [[harassing]] his army by [[marches]], [[countermarches]], and [[ambuscades]]; a policy of delays and [[cautions]].
