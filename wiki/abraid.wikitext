@@ -1,0 +1,3 @@
+'''Abraid''', ''[[transitive verb (part of speech)|transitive verb]] & [[i. (part of speech)|i.]]'' [OE. ''abraiden'', to [[awake]], draw (a sword), AS. ''&amacr;bredgan'' to shake, draw; pref. ''&amacr;-'' (cf. Goth. ''us-'', Ger. ''er-'', orig. meaning ''out'') + ''bregdan'' to shake, throw. See [[Braid]].]
+
+To [[awake]]; to [[arouse]]; to stir or start up; also, to [[shout]] out. [Obs.] ''[[Chaucer (source)|Chaucer]].''
