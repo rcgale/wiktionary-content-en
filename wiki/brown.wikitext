@@ -6,7 +6,7 @@
 
 ''[[verb]]'':
 #To become brown
-#(Culinary) To fry food in e.g. a pan until it changes colour. Example "Fry until browned".
+#(Culinary) To cook food until it changes colour. Example "Fry until browned".
 
 
 '''Translations'''
