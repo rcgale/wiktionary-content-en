@@ -1,0 +1,9 @@
+==English==
+
+'''proper noun'''
+
+# One of the [[Scandinavian]] countries.
+#:'''Translations'''
+#:*[[Dutch]]: [[Noorwegen]]
+
+''See:'' [[Countries of the world]]
