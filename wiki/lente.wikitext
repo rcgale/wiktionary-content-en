@@ -3,4 +3,5 @@
 
 ===Translantions===
 *en: [[spring]]
+*es: [[primavera]]
 *fr: [[printemps]]
