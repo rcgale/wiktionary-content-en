@@ -10,3 +10,7 @@
 
 *French: inflation
 *Spanish: [[inflación]]
+
+===Derivative words===
+
+*[[core inflation]]
