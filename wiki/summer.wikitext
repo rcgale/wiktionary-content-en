@@ -9,6 +9,7 @@
 *[[French]]: [[été]]
 *[[Hebrew]]: [[קיץ]]
 *[[Mäori]]: [[raumati]]
+*[[Polish]]: [[lato]]
 *[[Portuguese]]: [[verão]]
 *[[Spanish]]: [[verano]]
 *[[Yiddish]]: [[זומער]]
