@@ -14,7 +14,7 @@
 
 '''(ja)''': ''On yomi'' is Japanese reading of [[kanji]] based on Chinese readings.
 
-'''(nl)''': [[odd]] (rare), the prefix [[on-]] means ''not'' (corresponds to English [[un-]])
+'''(nl)''': rarely used as shorthand for [[oneven]] ([[odd]]), the prefix [[on-]] means ''not'' (corresponds to English [[un-]])
 ==Etymology==
 
 Old English ''on'', originally ''an''. From Germanic *[[ana]]. Related forms: old German ''ana'' (new German [[an]]), old Dutch ''an'', ''ane'' ([[aan]]), old Frisian ''ana'', old Norse ''&acirc;'', Gothic ''ana''. Possibly related to Greek ''ana'' (''upward'').
