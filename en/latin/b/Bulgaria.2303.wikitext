@@ -5,7 +5,7 @@
 # Country in Europe. Official name: Republic of Bulgaria.
 #:'''Translations'''
 #:*[[Chinese]]: [[保加利亚]]
-#:*[[Dannish]]: [[Bulgarien]]
+#:*[[Danish]]: [[Bulgarien]]
 #:*[[Dutch]]: [[Bulgarije]]
 #:*[[Esperanto]]: [[Bulgario]], [[Bulgarujo]]
 #:*[[Finnish]]: Bulgaria
