@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Eastern Africa. Official name: Federal Democratic Republic of Ethiopia.
+#:'''Translations'''
+#:*[[Chinese]]: [[埃塞俄比亚]]
+#:*[[Danish]]: [[Etiopien]]
+#:*[[Dutch]]: [[Ethiopië]]
+#:*[[Esperanto]]: [[Etiopio]], [[Etiopujo]]
+#:*[[Finnish]]: [[Etiopia]]
+#:*[[French]]: [[Éthiopie]]
+#:*[[German]]: [[Äthiopien]]
+#:*[[Greek]]: [[Αιθιοπία]]
+#:*[[Interlingua]]: [[Ethiopia]]
+#:*[[Italian]]: [[Etiopia]]
+#:*[[Polish]]: [[Etiopia]]
+#:*[[Portuguese]]: [[Etiópia]]
+#:*[[Russian]]: [[Эфиопия]]
+#:*[[Spanish]]: [[Etiopía]]
+#:*[[Swedish]]: [[Etiopien]]
+
+''See'': [[Countries of the world]]
