@@ -3,7 +3,7 @@
 
 ===[[Noun]]===
 # The [[language]] of [[England]].
-#:'''Translations'''
+#:'''[[Translation]]s'''
 #:*catalan: (m) [[anglès]], (f) [[anglesa]]
 #:*Dutch: [[Engels]]
 #:*[[Esperanto]]: [[Angla]]
