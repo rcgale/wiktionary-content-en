@@ -1,6 +1,6 @@
 [De-cem-ber] /___/
 
-1)December is the 12th [[month]] in the [[Gregorian Calendar]].
+#December is the 12th [[month]] in the Gregorian [[calendar]]. It has 31 days.
 
 ==Translations==
 *nl: [[december]]
