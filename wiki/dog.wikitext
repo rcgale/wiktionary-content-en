@@ -32,6 +32,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 
 *Chinese: [[&#29356;]]
 *Hebrew: כלב
+*Yiddish: [[הונט]]
 
 == Further reading ==
 *[[en:Dog|Wikipedia: Dog]]
