@@ -1,4 +1,7 @@
 '''Translations'''
 
+* Dutch : groei, toename, aanwas
 * French : croissance
+* Frisian : groei, oanwaaks
+* German : Wachstum
 * Spanish : crecimiento
