@@ -10,9 +10,5 @@
 :#(1330) Pertaining to an alien
 :#(1382) Being exceedingly unfamiliar with or removed from a concept.
 
-
-# [[Alien (1935)]]
-# [[Alien (1929)]]
-# [[Alien (1340)]]
-# [[Alien (1330)]]
-# [[Alien (1382)]]
+===References===
+:[[w:Alien|Wikipedia article on aliens]]
