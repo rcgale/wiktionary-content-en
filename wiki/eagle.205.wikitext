@@ -32,6 +32,7 @@
 *[[Latin]]: [[Aquila]], [[Aqvila]]
 *[[Latvian]]: [[Ērglis]]
 *[[Lithuanian]]: [[Erelis]]
+*[[Moldavian]]: [[Vultur]]
 *[[Norwegian]]: [[Ørn]]
 *[[Polish]]: [[Orzeł]] (1)
 *[[Portugese]]: [[Aguia]]
