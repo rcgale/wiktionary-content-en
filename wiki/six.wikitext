@@ -6,10 +6,9 @@ The [[cardinal numeral]] occurring after [[five]] and before [[seven]], represen
 
 Describing a set or group with six components. ''A cube has six faces.''
 
-
 ==Translations==
-*de: [[sechs]]
-*es: [[Sies]]
-*fr: [[six]]
+*Dutch: [[zes]]
+*French: [[six]]
 *Frisian: [[seis]]
-*nl: [[zes]]
+*German: [[sechs]]
+*Spanish: [[Sies]]
