@@ -8,6 +8,6 @@
 
 * Guerra entre Estados Unidos e Irak ''War between the United States and Irak''
 
-===Synonyms====
+===Synonyms===
 
 * [[conflicto bélico]]
