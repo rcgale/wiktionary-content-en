@@ -12,4 +12,5 @@
 *pl: [[niedziela]]
 *pt: [[Domingo]]
 *sq: [[e diel]]
+*sv: [[söndag]]
 *yi: [[זונטיק]]
