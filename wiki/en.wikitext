@@ -35,6 +35,8 @@
 
 # ''preposition'' expressing being contained
 # preposition used for time indication
+# preposition used after some verbs
+: pensar en
 
 === Examples ===
 
