@@ -1,14 +1,22 @@
 '''Noun''' /naun/
 
-==noun==
-# a word that can be used to refer to a person, place, thing or idea; part of speech 
-# a word that can serve as the subject or object of a verb
+===Noun===
+# a [[word]] that can be used to refer to a person, place, thing or idea; part of [[speech]]
+#:'''Translations'''
+#:*[[Dutch]]: [[Zelfstandig naamwoord]]
+#:*[[French]]: [[substantif]]
+#:*[[Frisian]]: [[haadwurd]]
+# a word that can serve as the subject or object of a [[verb]]
+#:'''Translations'''
+#:*[[Dutch]]: [[Zelfstandig naamwoord]]
+#:*[[French]]: [[substantif]]
+#:*[[Frisian]]: [[haadwurd]]
 
-==Related words==
+===Related words===
 * [[proper noun]]
 * [[count noun]]
 * [[mass noun]]
 
-== Further Reading ==
+===Further Reading===
 * [[w:noun|Wikipedia article on noun]]
 * [[w:Part of speech|Wikipedia article on parts of speech]]
