@@ -6,10 +6,10 @@ Latin ''acclamatio'': cf. French ''acclamation''
 #:*On such a day, a holiday having been voted by ''acclamation'', an ordinary walk would not satisfy the children. - [[Southey]].
 #:'''Translations'''
 #:*Dutch: [[gejuich]], [[acclamatie]]
-#:*French: '''Acclamation'''
+#:*French: '''acclamation'''
 #:*German: [[Zuruf]]
-#:*Interlingua: '''Acclamation''' 
-#:*Spanish: [[Aclamación]]
+#:*Interlingua: '''acclamation''' 
+#:*Spanish: [[aclamación]]
 #The process of electing a person to a post in the absence of other nominees.
 #:'''Translations'''
 #:*[[Dutch]]: zonder hoofdelijke stemming, met algemene instemming
