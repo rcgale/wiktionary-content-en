@@ -1,0 +1,3 @@
+Abbreviation for:
+
+* as far as I know
