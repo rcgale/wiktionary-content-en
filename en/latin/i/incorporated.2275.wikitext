@@ -8,11 +8,11 @@
 
 '''Acronyms'''
 
-[[Inc]]
-[[Ltd]] (UK English)
+*[[Inc]]
+*[[Ltd]] (UK English)
 
 '''See also'''
 
 There are further distinctions to the type of Incorporated company in UK English.
-[[Public Limited Liability Company]], [[Plc]] (UK English)
-[[Limited Liability Company]], [[Llc]] (UK English)
+*[[Public Limited Liability Company]], [[Plc]] (UK English)
+*[[Limited Liability Company]], [[Llc]] (UK English)
