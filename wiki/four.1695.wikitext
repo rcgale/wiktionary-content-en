@@ -7,7 +7,7 @@ Old English ''feower'', from Germanic ''*fiþworiz'', from PIE ''*kwetwores''. C
 == Translations ==
 *de: [[vier]]
 *es: [[cuatro]]
-*fr: [[quattre]]
+*fr: [[quatre]]
 *Frisian: [[fjouwer]]
 *Icelandic: [[fjórir]], [[fjórar]], [[fjögur]], masc, fem, neuter.
 *Lojban: [[vo]]
