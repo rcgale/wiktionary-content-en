@@ -8,6 +8,7 @@
 *eu: [[negu]]
 *fr: [[hiver]]
 *he: [[חורף]]
+*mi: [[takurua]]
 *nl: [[winter]]
 *pt: [[inverno]]
 *sq: [[dinër]]
