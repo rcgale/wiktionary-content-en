@@ -1,6 +1,6 @@
 [week] /wik/ '''(en)''' ''(noun)''
 
-# A [[period]] of [[seven]] [[day]]s
+# A [[period]] of [[seven]] [[day]]s, usually from [[Sunday]] to [[Saturday]], or from [[Monday]] to [[Sunday]].
 
 ==Etymology==
 
