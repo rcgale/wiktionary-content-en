@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Central America. Official name: Republic of Costa Rica.
+#:'''Translations'''
+#:*[[Danish]]: Costa Rica
+#:*[[Dutch]]: Costa Rica
+#:*[[Esperanto]]: [[Kostariko]]
+#:*[[Finnish]]: Costa Rica
+#:*[[French]]: Costa Rica
+#:*[[German]]: Costa Rica
+#:*[[Greek]]: [[Κόστα Ρίκα]]
+#:*[[Interlingua]]: Costa Rica
+#:*[[Italian]]: Costa Rica
+#:*[[Polish]]: [[Kostaryka]]
+#:*[[Portuguese]]: Costa Rica
+#:*[[Russian]]: [[Коста-Рика]]
+#:*[[Spanish]]: Costa Rica
+#:*[[Swedish]]: Costa Rica
+
+''See'': [[Countries of the world]]
