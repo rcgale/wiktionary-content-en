@@ -3,6 +3,7 @@
 #The third day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
+*de: Mittwoch
 *es: miércoles
 *fr: [[mercredi]]
 *nl: [[woensdag]]
