@@ -4,6 +4,6 @@ Derivative of [[piss]]
 ===Verb===
 #Past tense and past participle of [[piss]].
 
-===Adjective==
+===Adjective===
 #Drunk
 #(chiefly American) to be angry or annoyed
