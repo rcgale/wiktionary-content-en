@@ -8,7 +8,8 @@
 ===Translation===
 
 *Dutch: [[mobiele telefoon]], [[GSM]], [[mobieltje]]
+*Finnish: [[matkapuhelin]], [[kännykkä]] (Not the official word, but more widely used) 
 *French: [[téléphone mobile]], [[téléphone cellulaire]], [[GSM]] (''note'': often used for mobile phones that are not technically GSM)
-*German: [[Handy]], [[Mobiltelefon]
+*German: [[Handy]], [[Mobiltelefon]]
 *Hebrew: [[פלפון]]
 *Spanish: [[teléfono móvil]]
