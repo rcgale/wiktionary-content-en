@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Country in Europe. Official name: Republic of Belarus.
+#:'''Translations'''
+#:*[[Danish]]: Belarus
+#:*[[Dutch]]: Belarus, [[Wit-Rusland]]
+#:*[[Esperanto]]: [[Bjelorusio]], [[Belorusujo]], [[Belorusio]], [[Bjelorusujo]]
+#:*[[Finnish]]: [[Valko-Venäjä]]
+#:*[[French]]: [[Biélorussie]], Belarus
+#:*[[German]]: Belarus
+#:*[[Greek]]: [[Λευκορωσία]]
+#:*[[Italian]]: [[Bielorussia]]
+#:*[[Polish]]: [[Białoruś]]
+#:*[[Portuguese]]: [[Bielorrússia]]
+#:*[[Russian]]: [[Беларусь]]
+#:*[[Spanish]]: [[Bielorrusia]]
+#:*[[Swedish]]: [[Vitryssland]]
+
+''See'': [[Countries of the world]]
