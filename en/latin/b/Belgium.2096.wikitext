@@ -1,12 +1,23 @@
 ==English==
 
-# Country in Western Europe that has borders with [[The Netherlands]], [[Germany]], [[Luxemburg]] and [[France]].
+'''proper noun'''
+# Country in Western Europe that has borders with [[The Netherlands]], [[Germany]], [[Luxemburg]] and [[France]]. Official name: Kingdom of Belgium.
 #:'''Translations'''
+#:*[[Chinese]]: [[比利时]]
+#:*[[Dannish]]: [[Belgien]]
 #:*[[Dutch]]: [[België]]
-#:*[[Esperanto]]: [[Belgio]] 
+#:*[[Esperanto]]: [[Belgio]], [[Belgujo]]
+#:*[[Finnish]]: [[Belgia]]
 #:*[[French]]: [[Belgique]]
 #:*[[German]]: [[Belgien]]
+#:*[[Greek]]: [[Βέλγιο]]
 #:*[[Hebrew]]: [[בלגיה]]
+#:*[[Interlingua]]: [[Belgica]]
+#:*[[Italian]]: [[Belgio]]
 #:*[[Polish]]: [[Belgia]]
+#:*[[Portuguese]]: [[Bélgica]]
+#:*[[Russian]]: [[Бельгия]]
+#:*[[Spanish]]: [[Bélgica]]
+#:*[[Swedish]]: [[Belgien]]
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
