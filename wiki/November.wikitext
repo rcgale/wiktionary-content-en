@@ -7,3 +7,4 @@
 *es: noviembre
 *fr: novembre
 *nl: [[november]]
+*pl: [[listopad]]
