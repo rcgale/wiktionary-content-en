@@ -4,4 +4,4 @@ Abbreviation for
 
 
 
-'''USAGE NOT:''' It is an ISB Number not an ISBN Nuumber, as you are saying; International Standard Book Number Number.
+'''USAGE NOTE:''' It is an ISB Number not an ISBN Nuumber, as you are saying; International Standard Book Number Number.
