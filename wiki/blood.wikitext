@@ -4,6 +4,6 @@
 
 ===Translations===
 
-*Dutch: bloed
+*Dutch: [[bloed]]
 *French: [[sang]]
 *Spanish: [[sangre]]
