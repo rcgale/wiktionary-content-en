@@ -1,0 +1,5 @@
+A storm is a kind of severe weather marked by hard wind (a wind storm), or wind transporting some substance trough the atmosphere (as in a dust storm, snowstorm, etc). A is usually defined as wind measuring 10 or higher on the Beaufort scale, meaning a wind speed of 89 kilometers per hour (55 miles per hour) or more
+
+=== Translations===
+
+*[[Esperanto]]:[[sxtormo]]
