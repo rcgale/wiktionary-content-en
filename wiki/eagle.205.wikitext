@@ -15,6 +15,7 @@
 *[[Armenian]]: [[Արծիվ]]
 *[[Aymara]]: [[Paca]]
 *[[Azeri]]: [[Qartal]]
+*[[Basque]]: [[Arrano]]
 *[[Belarussian]]: [[Aroł]]
 *[[Bemba]]: [[Lubambe]] 
 *[[Bulgarian]]: [[Oрел]]
