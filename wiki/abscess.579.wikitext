@@ -5,3 +5,12 @@ Plural: '''Abscesses'''
 #''([[Medicine]]):'' A collection of [[pus]] or [[purulent]] matter in any tissue or organ of the body, the result of a morbid process.
 ===Derived term===
 *'''Cold abscess''': an abscess of slow formation, unattended with the pain and heat characteristic of ordinary abscesses, and lasting for years without exhibiting any tendency towards [[healing]]; a [[chronic]] abscess
+
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Abcès]]
+<BR>• [[German]]: [[Abszeß]]
+<BR>• [[Interlingua]]: [[Abscesso]]
+<BR>• [[Italian]]: [[Ascesso]]
+<BR>• [[Portuguese]]: [[]]
+<BR>• [[Spanish]]: [[Absceso]]
+<BR>
