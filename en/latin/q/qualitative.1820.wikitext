@@ -4,4 +4,4 @@
 
 '''Translations'''
 
-#: *[[Finnish]]: [[kvalitatiivinen]]
+*[[Finnish]]: [[kvalitatiivinen]]
