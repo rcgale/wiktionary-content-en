@@ -11,7 +11,7 @@
 *eu: [[ostegun]]
 *fr: [[jeudi]]
 *[[Georgian]]: [[ხუთშაბათი]]
-*he: [[יום חמישי]]
+*he: [[יום חמישי]] (yom kha-mee-SHEE)
 *hr: [[Četvrtak]]
 *mi: [[täite]]
 *nl: [[donderdag]]
@@ -25,4 +25,4 @@
 *sq: [[e enjte]]
 *sv: [[torsdag]]
 *Wolof: [[Alxames]]
-*yi: [[דאָנערשטיק]]
+*yi: [[דאָנערשטיק]] (DOH-ner-shtik)
