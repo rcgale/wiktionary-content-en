@@ -1,6 +1,6 @@
 [Ja-nu-a-ry] /___/
 
-1)January is the 1st [[month]] in the [[Gregorian Calendar]].
+#January is the 1st [[month]] in the [[Gregorian Calendar]].
 
 ==Translations==
 *nl: [[januari]]
