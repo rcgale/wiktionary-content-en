@@ -13,3 +13,4 @@
 *pt: [[quinta-feira]]
 *sq: [[e enjte]]
 *sv: [[torsdag]]
+*yi: [[דאָנערשטיק]]
