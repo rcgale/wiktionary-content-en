@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Central Asia. Official name: Republic of Tajikistan.
+#:'''Translations'''
+#:*[[Danish]]: [[Tadsjikistan]]
+#:*[[Dutch]]: [[Tadzjikistan]]
+#:*[[Esperanto]]: [[Taĝikio]], [[Taĝikistano]]
+#:*[[Finnish]]: [[Tadžikistan]]
+#:*[[French]]: [[Tadjikistan]]
+#:*[[German]]: [[Tadschikistan]]
+#:*[[Greek]]: [[Τατζικιστάν]]
+#:*[[Interlingua]]: [[Tadzhikistan]]
+#:*[[Italian]]: [[Tagikistan]]
+#:*[[Polish]]: [[Tadżykistan]]
+#:*[[Portuguese]]: [[Tajiquistão]]
+#:*[[Russian]]: [[Таджикистан]]
+#:*[[Spanish]]: [[Tayikistán]]
+#:*[[Swedish]]: [[Tadzjikistan]]
+
+''See'': [[Countries of the world]]
