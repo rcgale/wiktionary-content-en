@@ -1,2 +1,2 @@
 ==[[noun]]==
-#a short [[battle]] between small groups, usually part of a longer or larger battle or [[war]].
+#a brief [[battle]] between small groups, usually part of a longer or larger battle or [[war]].
