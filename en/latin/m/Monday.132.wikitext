@@ -13,3 +13,4 @@
 *pt: [[segunda-feira]]
 *sq: [[e h&euml;n&euml;]]
 *sv: [[Måndag]]
+*yi: [[מאָנטיק]]
