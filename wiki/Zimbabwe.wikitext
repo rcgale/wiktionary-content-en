@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southern Africa. Official name: Republic of Zimbabwe.
+#:'''Translations'''
+#:*[[Chinese]]: [[津巴布韦]]
+#:*[[Danish]]: Zimbabwe
+#:*[[Dutch]]: Zimbabwe
+#:*[[Esperanto]]: [[Zimbabvo]]
+#:*[[Finnish]]: Zimbabwe
+#:*[[French]]: Zimbabwe
+#:*[[German]]: [[Simbabwe]]
+#:*[[Greek]]: [[Ζιμπάμπουε]]
+#:*[[Interlingua]]: Zimbabwe
+#:*[[Italian]]: Zimbabwe
+#:*[[Polish]]: Zimbabwe
+#:*[[Portuguese]]: [[Zimbabué]]
+#:*[[Russian]]: [[Зимбабве]]
+#:*[[Spanish]]: [[Zimbabue]]
+#:*[[Swedish]]: Zimbabwe
+
+''See'': [[Countries of the world]]
