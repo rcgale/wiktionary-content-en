@@ -1,2 +1,9 @@
+(noun)
 # The English [[language]].
 # People from [[England]].
+
+(adjective)
+# Of or pertaining to England.
+
+===Translations===
+*nl: noun: [[Engels]] (1); [[Engelsman]] (masc.), [[Engelse]] (fem.), [[Engelsen]] (plur.) (2); adj.: [[Engels]]
