@@ -8,7 +8,7 @@
 *#[[Leiste]]
 ===Related words===
 * [[stock performance]]
-
+----
 ===German===
 ====noun====
 ''maskulin''
