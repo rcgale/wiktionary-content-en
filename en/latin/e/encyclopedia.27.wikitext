@@ -3,3 +3,6 @@
 == See Also ==
 
 * [[Wikipedia]]
+
+== Further reading ==
+* [[en:Encyclopedia|Wikipedia article]]
