@@ -1,3 +1,4 @@
 '''Translations'''
 
-* fr: [[Prénom]]
+*fr: [[Prénom]]
+*nl: [[voornaam]]
