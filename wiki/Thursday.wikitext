@@ -6,6 +6,7 @@
 *de: Donnerstag
 *es: jueves
 *fr: [[jeudi]]
+*[[Georgian]]: [[ხუთშაბათი]]
 *he: [[יום חמישי]]
 *nl: [[donderdag]]
 *pl: [[czwartek]]
