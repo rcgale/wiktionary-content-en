@@ -15,5 +15,7 @@ Niet
 * de: [[nicht]]
 * en: [[not]]
 * es: [[no]]
+* he: [[לא]]
 * pt: [[nao]]
 * pl: [[nie]]
+* yi: [[ניט]] (also [[נישט]])
