@@ -1,1 +1,1 @@
-Ancient Greek God of death
+Ancient [[Greek]] [[God]] of [[death]].
