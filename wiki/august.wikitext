@@ -3,4 +3,6 @@
 #August is the 8th [[month]] in the Gregorian [[calendar]]. It has 31 days.
 
 ==Translations==
+*es: agosto
+*fr : août
 *nl: [[augustus]]
