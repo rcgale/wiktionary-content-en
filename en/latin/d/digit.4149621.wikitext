@@ -1,0 +1,13 @@
+''Digit'' /'dIdZIt/
+
+==[[Count noun]]==
+
+# A [[numeral]] which can be combined with other numerals to write larger numbers.
+#*We usually use the ten digits 0 1 2 3 4 5 6 7 8 9.
+# The number represented by such a numeral.
+#* For example, the number 2307 has four digits:
+#** The thousands digit is 2,
+#** the hundreds digit is 3,
+#** the tens digit is 0,
+#** and the units digit is 7.
+# A [[finger]] or [[toe]].
