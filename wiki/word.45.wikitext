@@ -1,5 +1,7 @@
 (en): String of [[letter]]s, separated from other words by blank spaces.
 
+==Translations==
+*da: [[ord]]
 *de: [[Wort]]
 *fr: [[mot]]
 *nl: [[woord]]
