@@ -20,4 +20,4 @@
 * Spanish : [[Japón]]
 * Korean : [[일본]] (ilbon)
 * German : Japan
-* Japanese : (Nipon)
+* Japanese : [[日本]](Nipon)
