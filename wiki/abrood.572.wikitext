@@ -1,0 +1,3 @@
+'''Abrood''', ''[[adverb (part of speech)|adverb]]'' [Pref. ''a-'' + ''brood''.]
+
+In the act of [[brooding]]. [Obs.] ''[[Abp. Sancroft (source)|Abp. Sancroft]].''
