@@ -1,0 +1,15 @@
+==English==
+
+===Noun phrase===
+'''lambda expression'''
+
+# An algebraic expression representing a function by binding one or more [[parameter]]s to an expression which may contain those parameters.
+
+===Examples===
+
+<table border="1">
+<tr><th>Expression</th><th>Meaning</th></tr>
+<tr><td><math>\lambda x.x</math></td><td>The [[identity]]</td></tr>
+<tr><td><math>\lambda x.x+1</math></td><td><math>f(x)=x+1</math></td></tr>
+<tr><td><math>\lambda n.\lambda x.x+n</math></td><td><math>f(n) = g</math> where <math>g(x) = x+n</math></td></tr>
+</table>
