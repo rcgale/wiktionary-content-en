@@ -6,6 +6,7 @@
 *Blackfoot: Issikatoyiiksistsiko
 *de: [[Montag]]
 *es: [[lunes]]
+*eu: [[astelehen]]
 *fr: [[lundi]]
 *[[Georgian]]: [[ორშაბათი]]
 *he: [[יום שני]]
