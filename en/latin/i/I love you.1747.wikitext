@@ -71,7 +71,8 @@
  Ecuador Quechua         canda munani 
  English             I love you 
  English             I adore you 
- Esperanto           Mi amas vin 
+ Esperanto           Mi amas vin
+ Ewondo              Ma ding wa
  Unknown             Mina armastan sind 
  Unknown             Ma armastan sind 
  Farsi               Tora dust midaram 
@@ -207,10 +208,9 @@
  Pakistani           Mujhe Tumse Muhabbat Hai 
  Persian             Tora dost daram 
  Pig Latin           Ie Ovele Ouye 
- Polish              Kocham Cie 
- Polish              Ja cie kocham 
- Polish              Yacha kocham 
- Polish              Kocham Ciebie 
+ Polish              Kocham cię
+ Polish              Kocham ciebie
+ Polish              Ja cię kocham
  Portuguese          Amo-te 
  Portuguese (brazilian)      Eu te amo 
  Punjabi             Mai taunu pyar karda 
@@ -305,7 +305,8 @@
  Cebuano             Language spoken in philipino near 
                      the town of Cebu  
  Chickasaw           Native American spoken in 
-                     Southeastern Oklahoma  
+                     Southeastern Oklahoma
+ Ewondo              Beti tribe from Cameroun, Yaounde area  
  Friesian            They speak the language in Northern 
                      Holland in Northern Germany 
                      and in some parts of 
