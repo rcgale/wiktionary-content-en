@@ -1,6 +1,6 @@
 [No-vem-ber] /___/
 
-#November is the 11th [[month]] in the Gregorian [[calendar]]. It has 30 days.
+#November is the eleventh [[month]] in the Gregorian [[calendar]]. It has 30 [[day]]s.
 
 ==Translations==
 
