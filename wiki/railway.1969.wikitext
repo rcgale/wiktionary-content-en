@@ -3,7 +3,7 @@
 '''Translations'''
 *American English: [[railroad]]
 *Dutch: [[spoorweg]]
-*Esperanto: fervojo
+*[[Esperanto]]: [[Fervojo]] ([[Fero|Fer]]´[[vojo|voj]]´o)
 *French: [[chemin de fer]]
 *Frisian: [[spoarwei]]
 *German: [[Eisenbahn]]
