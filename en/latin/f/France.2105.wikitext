@@ -1,14 +1,26 @@
 ==English==
 
-# Country in Western Europe.
+'''proper noun'''
+
+# Country in Western Europe. Official name: French Republic.
 #:'''Translations'''
+#:*[[Chinese]]: [[法国]]
+#:*[[Danish]]: [[Frankrig]]
 #:*[[Dutch]]: [[Frankrijk]]
+#:*[[Esperanto]]: [[Francio]], [[Francujo]]
 #:*[[Estonian]]: [[Prantsusmaa]]
 #:*[[Finnish]]: [[Ranska]]
 #:*[[French]]: France
 #:*[[German]]: [[Frankreich]]
+#:*[[Greek]]: [[Γαλλία]]
 #:*[[Hebrew]]: [[צרפת]]
 #:*[[Hungarian]]: [[Franciaország]]
+#:*[[Interlingua]]: [[Francia]]
+#:*[[Italian]]: [[Francia]]
 #:*[[Polish]]: [[Francja]]
+#:*[[Portuguese]]: [[França]]
+#:*[[Russian]]: [[Франция]]
 #:*[[Spanish]]: [[Francia]]
-''See:'' [[Countries of the world]]
+#:*[[Swedish]]: [[Frankrike]]
+
+''See'': [[Countries of the world]]
