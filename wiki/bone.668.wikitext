@@ -1,1 +1,11 @@
 bone, n. 1. A [[composite]] [[material]] consisting largely of [[calcium]] [[phosphate]] and [[collagen]] and making up the [[skeleton]] of most [[vertebrate]]s. See also [[cartilage]]. 2. Any of the bone parts of a skeleton.
+
+==Translations==
+*Dutch: [[been]]
+*French: [[os]]
+*German: [[Knochen]]
+*Hebrew: [[עצם]]
+*Italian: [[osso]]
+*Lojban: [[bongu]]
+*Portuguese: [[osso]]
+*Spanish: [[hueso]]
