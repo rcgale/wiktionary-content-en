@@ -1,0 +1,2 @@
+===noun===
+#A chlorinated hydrocarbon which is mainly used as an insecticide. Mostly abbreviated as [[DDT]].
