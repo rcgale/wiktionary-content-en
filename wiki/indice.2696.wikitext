@@ -4,7 +4,7 @@ From Latin [[index]].
 #Somethings that points or indicates.
 #:'''Translations'''
 #:*[[English]]: [[index]], [[indicator]].
-#:*[[Portuguese]]: [[índice]], [[indicador]].
+#:*[[Portuguese]]: [[indicador]].
 #Finger between the [[thumb]] and the [[middle finger]]. Synonym: [[digito indice]].
 #:'''Translations'''
 #:*[[English]]: [[index]], [[index finger]], [[forefinger]].
