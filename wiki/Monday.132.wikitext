@@ -3,7 +3,7 @@
 #The first day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
-*Blackfoot: Issikatoyiiksistsiko
+*Blackfoot: [[Issikatoyiiksistsiko]]
 *de: [[Montag]]
 *es: [[lunes]]
 *eu: [[astelehen]]
