@@ -1,0 +1,191 @@
+Août 2002
+Article sur http://www.rd.francetelecom.com/fr/technologies/ddm200208/dossier.php
+NGN : le réseau de demain pour la voix et les données
+
+
+Introduction
+
+NGN, pour Next Generation Network est une nouvelle architecture de réseau de communication. Le principe est d’utiliser les technologies de transport en mode paquet, réservé jusqu’alors pour les données, pour transporter l’ensemble des services de télécommunications. De plus, on sépare les interfaces des différentes couches du réseau de communication (transport, commande et applications), pour permettre une évolutivité plus importante du réseau. Enfin, NGN utilise les nouvelles technologies paquets pour proposer des services hauts débits.
+
+Avec NGN, l’objectif est donc de disposer d’un réseau unique pour l’ensemble des services, alors, qu’actuellement, il existe pratiquement un réseau par type de service.
+
+ 
+
+
+
+Les acteurs : fournir de nouveaux services multimédia
+
+Le projet NGN démarre à la fin de la décennie 90. Les réseaux téléphoniques étaient alors bien établis et les matériels étaient récents.
+Les industriels devaient donc trouver de nouveaux débouchés. Pour cela, ils devaient proposer des solutions qui permettaient d’élargir l’offre -au delà des services téléphoniques- notamment des services multimédia.
+
+Les opérateurs de leur côté, enregistraient une croissance exponentielle du trafic des données. Pour répondre à ces besoins, ils ont donc établi des réseaux de transport en mode paquets, en utilisant les technologies ATM ou IP. Naturellement, l’idée est venue de mettre également la téléphonie sur ces nouveaux réseaux afin de réaliser des économies d’échelle, notamment au niveau des transports.
+
+ 
+
+
+
+Une architecture plus ouverte : un réseau moins cher et plus évolutif
+
+Pourquoi alors ne pas tirer profit de cette restructuration pour remettre à plat le fonctionnement du réseau ? Car plusieurs problèmes se posaient aux opérateurs historiques comme France Télécom.
+
+En effet, les services évoluent beaucoup plus vite que les infrastructures de transport. Or, la couche transport constitue le gros des investissements. Il est donc important de ne pas remettre en cause les investissements de la couche transport lorsque que l’on veut changer un service.
+
+Par ailleurs, les opérateurs veulent disposer d’une architecture plus ouverte permettant de tirer un meilleur parti du marché.
+Compte tenu de la complexité des solutions mises en œuvre pour les réseaux de télécommunications, il est impossible qu’un fournisseur soit le meilleur dans tous les domaines. Avec, une architecture ouverte, qui favorise la segmentation de l’offre, certains industriels peuvent développer une expertise très pointue et proposer des offres vraiment innovantes. Ainsi, les opérateurs disposent de meilleurs produits tout en faisant jouer la concurrence. Actuellement, dans les réseaux intelligents par exemple, si un opérateur veut définir de nouveaux services, il dépend du constructeur de sa plate-forme. Si le constructeur est trop cher, il ne peut pas faire évoluer son réseau.
+
+Autre avantage d’une architecture ouverte : l’amélioration des cycles de mise en œuvre de nouveaux services. Dans un monde concurrentiel comme celui des télécommunications, il faut être capable de réagir très vite. Les technologies « ouvertes » permettent de changer un composant et de mettre en œuvre un nouveau service dans des cycles de quelques mois (actuellement, les délais sont plutôt de l’ordre de l’année).
+
+Evidemment, les nouveaux entrants n’ont pas la même problématique : ils n’ont pas à sauvegarder leurs investissements. Ils peuvent donc prendre plus de risques, opter pour des technologies plus avant-gardistes. De même, les opérateurs historiques sont aussi en concurrence dans leur démarche de conquête de marché à l’international et France Télécom est bien souvent nouvel entrant sur d’autres marchés au niveau de ses filiales.
+
+Le but est donc pour tous de minimiser les coûts d’investissements et d’avoir la meilleure réactivité.
+
+ 
+
+
+Apporter de nouveaux services pour rentabiliser les technologies
+
+Les opérateurs ont abandonné depuis longtemps l’idée de la « killer application » très en vogue pendant la « bulle Internet ». Aujourd’hui, ils parient plutôt sur la synergie entre les différents médias et sur les interactions entre les services. La combinaison de différentes offres permet par exemple d’offrir à moindre coût les données et la vidéo à partir d’un même réseau. Le but est donc d’amener en pied d’immeuble tous les services dont le client a potentiellement besoin et de lui permettre d’y accéder le plus simplement et le plus naturellement possible.
+
+Aujourd’hui, c’est ADSL qui joue ce rôle sur la ligne de cuivre ou encore la fibre optique dans les pays scandinaves. ADSL, n’étant pas vraiment rentable pour un simple accès internet haut débit, il s’agit d’apporter de nouveaux services exploitant les possibilités de cette technologie.
+
+.
+
+
+
+Quatre concepts pour la conception de l’architecture NGN
+
+Les bases sont posées mais quelle technologie mettre en œuvre pour réaliser le nouveau réseau ?
+
+On part d’abord d’un constat : les transports de données sont majoritaires dans les pays développés US, Japon, … et ces trafics de données ont nécessité la mise en place de services de transports spécifiques utilisant les technologies spécifiques ATM ou IP.
+
+Quatre concepts sont déterminants pour le choix des technologies (cf. encadré 1). D’abord, il s’agit d’utiliser le réseau paquet pour le transport banalisé des informations (voix, données, vidéo) et tous les services.
+Ensuite, il faut externaliser et distribuer l’intelligence. Aujourd’hui, le commutateur téléphonique inclut toutes les couches de communication. Dans l’architecture NGN, les couches sont bien identifiées et reliées par des interfaces clairement définies. Il est ainsi possible de sauvegarder les investissements dans chacune des couches quelles que soient les modifications dans les autres couches du réseau.
+Troisième concept : un réseau de transmission optique. On a déjà un cœur de réseau tout optique mais la plus grande partie du réseau est encore sur paire de cuivre. Cependant, les applications sont de plus en plus gourmandes en terme de débit et elles nécessiteront à terme une évolution vers du tout optique.
+Dernier concept : segmenter le marché avec des interfaces ouvertes. On définit des interfaces standards entre les différentes couches. Les opérateurs peuvent ainsi constituer des réseaux hétérogènes pour tirer partie des meilleurs équipements. Ce qui est très difficile actuellement.
+
+
+
+Exemple d’un service de visiophonie s’appuyant sur l’architecture cible NGN.
+
+ 
+
+
+Des concepts aux architectures
+
+La stratégie d’implémentation de cette nouvelle technologie est alors très variable. Il existe en fait de nombreux points de départ comme choisir les réseaux de transit ou d’accès.
+Les décision ne sont pas les mêmes pour l’opérateur de téléphonie, qui veut établir des services multimédia donc d’introduire les données dans son réseau et les ISP, qui veulent introduire la voix.
+L’opérateur historique doit quant à lui tenir compte de l’existant et le nouvel entrant doit investir sur les nouvelles technologies.
+Pour leur part, les opérateurs mobiles sont aussi intéressés par le concept NGN pour mieux structurer le réseau.
+
+Parallèlement au niveau des industriels, on assiste – surtout depuis les années 90 – à une lutte d’influence entre les industries traditionnelles des télécoms et le monde informatique. Auparavant, chaque industriel construisait son calculateur. Il avait donc un marché captif. Mais, on a vu se développer peu à peu l’utilisation de plate-forme basées sur des machine informatiques de type HP, Sun ou Compaq. Cisco par exemple est arrivé récemment dans le monde des télécoms.
+
+Autre point de départ : les technologies d’accès cohabitent actuellement (cuivre, radio ou encore satellite) notamment pour internet. Les règlements locaux ont également un effet sur les nouvelles technologies, ainsi que les stratégies d’investissement à court ou à long terme.
+
+Bref, tous ces paramètres aboutissent à deux architectures différentes : l’approche « téléphonie » ou l’approche « multimédia ». 
+
+
+
+
+
+Deux filières pour l’architecture NGN
+
+Les deux filières ont chacune leur avantages et leurs inconvénients (cf encadré 2).
+
+La « filière téléphonique » a été testée par France Télécom avec Ericson et a des caractéristiques de fiabilité bien maîtrisées par les industriels.
+
+La filière « multimédia » ou « data », qui semble aujourd’hui avoir la préférence du marché, est plus une évolution des réseaux IP.
+Mais, la qualité de service n’est pas garantie. La scalabilité est aussi un point faible de cette filière : les machines utilisées ont aujourd'hui de petites capacités et ne permettent pas de gérer de façon simple des capacités identiques à la filière téléphonique.
+
+Encore une fois, une solution ne s’impose pas facilement. Il y a deux techniques d’adaptation.
+
+D’abord, la voix sur ATM. Elle est supportée par la grande majorité des constructeurs de solutions pour le transit parce qu’elle permet de garantir la qualité de service, les utilisateurs n’acceptant aucune régression.
+Par contre, la pérennité de l’ATM au cœur du réseau est très incertaine.
+
+Reste une deuxième technique : la voix sur IP. Elle est proche des applications et le protocole est bien établi. L’intégration se fait sans problème dans le réseau dès que l’on a implémenté des machines IP dans le cœur du réseau. Une chose freine pourtant son développement : sa qualité non garantie.
+
+En fait, dès que l’IP saura fournir une qualité de service suffisante, ATM disparaîtra du cœur du réseau. Cette migration devrait se faire dans les deux ou trois ans. Maintenant, les experts pensent que la cible est bien la voix sur IP (VoIP).
+
+ 
+
+
+Les applications
+
+La première application, c’est le NGN transit.
+
+France Télécom a d’ailleurs réalisé une expérimentation pendant le premier semestre 2002. Le but était de gérer la croissance au niveau du transit prévue entre 2001 et 2005. L’expérimentation a montré qu’une architecture de type NGN, avec des passerelles au niveau des sources de trafic, permettait de résoudre les problèmes liés au trafic interconnexion, très volatile en volume et en localisation.
+Elle a aussi permis d’appréhender les nouveaux problèmes d’exploitation posés par ce type d’architecture. Le bilan n’est pas complet mais on s’aperçoit qu’il n’y a pas vraiment de bouleversements dans l’exploitation.
+L’architecture NGN transit donne un niveau de souplesse que l’on n’avait pas jusqu’à maintenant même pour offrir le service téléphonique.
+
+Des passerelles assurent l’interface avec le réseau téléphonique. Les interfaces du type NGN peuvent être introduites dans un réseau de façon « souple » et en plus délocalisée, ouvrant de nouvelles possibilités pour des applications au niveau international. Par exemple, on peut envisager d’avoir un call serveur sur le territoire national et des passerelles dans les différentes filiales européennes du groupe pour offrir certains services intelligents.
+
+
+
+
+De nombreuses applications dans le réseau d’accès
+
+L’architecture NGN a aussi de nombreuses applications au niveau du réseau d’accès.
+La première d’entre elles est le remplacement des commutateurs téléphoniques existants.
+La deuxième application est la possibilités de mettre en place de nouvelles offres de services (là encore, on retrouve les deux filières : la téléphonie pour les remplacement de CAA existants et le multimédia).
+
+Enfin, le gros du marché devrait se situer au niveau des services à l'accès avec le développement des services multimédia avec garantie de qualité de service, mettant à profit les accès hauts débit.
+
+Le NGN sur DSL et l’approche multimédia, est une autre application prometteuse. L’idée est d’utiliser l’accès ADSL déjà déployé pour l’Internet haut débit pour offrir de nouveaux services.
+ 
+
+
+
+UMTS : NGN sur l’accès radio
+
+Il y a de plus en plus de convergence dans les solutions fixe et mobile proposées par les industriels. D’autant que l’on parle de plus en plus d’introduire la gestion de la mobilité sur le fixe. Le mobile, se différentie simplement par la gestion de la mobilité en temps réel alors qu’au niveau fixe dès l’instant que le client s’est déclaré à un endroit toute la cession va s’y dérouler.
+Ces solutions communes ne veulent pas dire pour autant que l’on va vers un réseau unique fixe et mobile, essentiellement évoqué par les gens du fixe. Côté opérateurs mobiles, on envisage plutôt des scénarios où le réseau mobile prend en charge l’ensemble des services en utilisant le réseau fixe comme ADSL simplement pour le transport des paquets. Les réseaux mobiles sont plus récents et ont des commandes plus évolutives.
+Un autre scénario faisant appel à une coopération entre les deux réseaux est également envisageable. En outre, le réseau fixe sera toujours en mesure d'offrir plus de débit que le réseau mobile car la ressource radio est une ressource rare et chère.
+
+Aujourd’hui, il reste donc de nombreuses questions. Le marché actuel – plutôt atone- a freiné le déploiement de NGN et n’a pas permis les arbitrages technologiques.
+
+Pour France Télécom, il s’agit d’offrir à ses clients des services innovants en utilisant les accès hauts débits de type ADSL. Bien sûr, l’idée d’introduire la mobilité dans le réseau fixe est toujours présente. Car le client veut avoir des services que l’on appelle sans couture, peu lui importe d’avoir des services sur un réseau fixe ou un réseau mobile, son problème est de disposer de son environnement de service où qu’il soit.
+C’est un des grands défis de NGN.
+
+
+
+
+Les concepts : les fondements de NGN confrontés à l’existant
+
+Concept N°1 : utiliser le même réseau paquet pour le transport banalisé des informations (voix, données, vidéo) et tous les services.
+
+ATM permet de fournir la qualité de service, une QS à laquelle est largement habitué le client de France Télécom. Or, IP, de son côté, s’il est devenu un standard au niveau applicatif, ne sait pas garantir la qualité de service. IPV6 répond aux problèmes d’adresses utiles et de sécurité mais la qualité de service dépend de technologies encore en cours d’expérimentation.
+
+Résultat : les deux technologies se combinent actuellement : ATM est utilisé au niveau transport (niveau 2 de la couche réseau). ATM est encore la technologie de base pour l’ADSL. Mais, le réseau devra évoluer vers IP qui est utilisé dans les applications.
+
+Concept N°2 : externaliser et distribuer l’intelligence.
+
+Aujourd’hui, le commutateur téléphonique inclut toutes les couches : le transport avec la matrice de commutation, la commande qui permet de contrôler les connexions sur cette matrice et même la partie service qui est souvent incluse dans la commande.
+Tout cela est dans la même machine. Le réseau sémaphore permet de véhiculer les informations, la signalisation, les informations de commande du réseau de service.
+
+
+
+Dans l’architecture NGN, la matrice de connexion est redistribuée sur l’ensemble du réseau paquet.
+L’idée est d’isoler la couche transport en sortant la commande, comme on peut le voir sur le schéma, un serveur d’appel pilote des passerelles, qui sont elles au niveau transport. Il assure simplement la connexion d’un point à un autre. Ces passerelles d’accès font le lien entre les nouvelles technologies et l’existant. Elles font l’interface entre le monde du téléphone et le serveur d’appel qui les pilote. Car, pour un opérateur historique, il faut prendre en compte les problèmes d’inter fonctionnement avec des réseaux existants.
+
+
+Autre avantage, les serveurs d’appels peuvent être regroupés dans des sites d’hébergement, car ils ne sont pas liés à la matrice de connexion. On minimise ainsi les coûts d’exploitation. L’opérateur peut également mettre en place des équipes spécialisées sur ces serveurs et garantir une excellente qualité de service. Il résout ainsi un problème de ressources humaines : aujourd’hui, les personnes qui s’occupent d’un commutateur, doivent avoir des connaissances très diverses alors que les technologies sont de plus en plus pointues.
+
+Au niveau de la couche commande, on sépare également ce qui relève de l’établissement d’un chemin et la partie applicative. Cette dernière est ramenée au niveau des plates-formes d’applications avec des interfaces normalisées que l’on appelle des API.
+Avec ces API, on ouvre le marché à de nouvelles sociétés, qui vont concevoir des composants de base qui permettront à un opérateur de construire rapidement ses propres applications.
+
+Par ailleurs, le réseau dispose d’interfaces bien identifiées entre les différentes couches. Il est ainsi possible de sauvegarder les investissements dans chacune des couches quelles que soient les modifications dans les autres couches du réseau.
+
+Concept N° 3 un réseau de transmission optique
+
+Les technologies de base évoluent. On utilise par exemple le multiplexage de longueur d’ondes et l’on va vers un cœur de réseau tout optique.
+Aujourd’hui, on utilise encore au maximum l’infrastructure existante, et donc le cuivre, pour toute la périphérie, qui représente 80% de l’investissement. Mais, il faudra évoluer puisque les applications nécessitent des débits de plus en plus importants et les limites du réseau de cuivre finiront bien pas être atteintes. Cette migration a d’ailleurs commencé au niveau des entreprises, qui disposent déjà d’accès directs sur fibre optique.
+
+Concept N°4 : segmenter le marché avec des interfaces ouvertes
+
+On a définit des interfaces standards entre les différentes couches. Au niveau des équipements cela permet de tirer le meilleur parti dans chacun des domaines et d’avoir des réseaux hétérogènes alors qu’actuellement c’est très difficile.
+
+ 
+
+Deux approches pour l’architecture NGN
+
+
+''''''
