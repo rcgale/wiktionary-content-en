@@ -1,0 +1,13 @@
+Spanish
+
+==[[Verb]]==
+
+*To [[create]]
+
+===Examples===
+
+Una política de Estado para generar riqueza 
+
+===Synonyms===
+
+*[[crear]]
