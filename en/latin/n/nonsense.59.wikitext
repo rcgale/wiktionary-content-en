@@ -8,4 +8,4 @@
 *de: [[Quatsch]], [[Unsinn]], [[Blödsinn]]
 *fi: [[hölynpöly]]
 *fr: [[non-sens]], [[absurdité]]
-*nl: [[onzin]], [[flauwekul]]
+*nl: [[nonsens]], [[onzin]], [[flauwekul]]
