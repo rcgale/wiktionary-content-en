@@ -1,4 +1,4 @@
-Verb \Verb\ SAMPA \v3(r/)b\ '''(de)''' \vERb\
+[Verb] \Verb\ SAMPA \v3(r/)b\ '''(de)''' \vERb\
 
 ''[[noun]]''
 # a word that serves as the predicate of a sentence
