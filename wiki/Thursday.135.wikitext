@@ -8,6 +8,7 @@
 *fr: [[jeudi]]
 *[[Georgian]]: [[ხუთშაბათი]]
 *he: [[יום חמישי]]
+*mi: [[täite]]
 *nl: [[donderdag]]
 *pl: [[czwartek]]
 *pt: [[quinta-feira]]
