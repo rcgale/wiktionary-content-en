@@ -13,7 +13,8 @@
 *German: [[Wort]]
 *Hebrew: [[מילה]]
 *Hungarian: [[szó]]
+*Interlingua: [[parola]] (1~4) [[vocabulo]] (1)
 *Korean: '''1''' [[낱말]] (natmal), [[단어]] (daneo) '''2''' [[말]] (mal)
 *Swedish: [[ord]]
-*Portuguese: [[palavra]]
+*Portuguese: [[palavra]] (1~4), [[vocábulo]] (1)
 *Yiddish: [[װאָרט]]
