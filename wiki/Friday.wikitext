@@ -12,7 +12,7 @@
 *eu: [[ostiral]]
 *fr: [[vendredi]]
 *[[Georgian]]: [[პარასკევი]]
-*he: [[יום שישי]]
+*he: [[יום שישי]] (yom shee-SHEE)
 *hr: [[Petak]]
 *it: [[venerdì]]
 *mi: [[paraire]]
@@ -26,4 +26,4 @@
 *[[Sotho]]: [[Labohlano]]
 *sq: [[e premte]]
 *Wolof: [[Àjjuma]]
-*yi: [[פרײַטאָג]]
+*yi: [[פרײַטאָג]] (FREI-tahg)
