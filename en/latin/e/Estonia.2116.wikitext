@@ -9,7 +9,7 @@
 #:*[[Finnish]]: [[Viro]]
 #:*[[French]]: [[Estonie]]
 #:*[[German]]: [[Estland]]
-#:*[[Hungarian]]: Észtország
+#:*[[Hungarian]]: [[Észtország]]
 #:*[[Polish]]: Estonia
 
 ''See:'' [[Countries of the world]]
