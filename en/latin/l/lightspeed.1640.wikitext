@@ -1,0 +1,5 @@
+===Noun===
+#At the speed of light.
+#:'''Quotations'''
+#:*'''1994''' - Ursula K. Le Guin, ''A Fisherman of the Inland Sea''. Victor Gollancz (UK), 1996. ISBN 0575602392. Page 7.
+#:*:If we're going to a world a hundred light-years from here at near lightspeed, we spend according to our own perceptions, only a few minutes doing so and arrive only a few minutes older.
