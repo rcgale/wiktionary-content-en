@@ -11,16 +11,17 @@
 * "While the cat's away the mice will play" - In the absence of a controlling entity, subordinates will take advantage of the situation.
 
 ===Translations===
-*German: Katze, f
-*Finnish: [[kissa]]
-*Spanish: gato
-*French: chat
-*Hebrew: [[חתול]]
-*Italian: gatto
-*Japanese: neko
-*Korean: 고양이 (go-yang-i) 
-*Dutch: kat
-*Norwegian: katt
-*Polish: kot
-*Portuguese: gato
-*Swedish: kat
+*[[Cockney Rhyming Slang]]: [[Ball of Fat]]
+*[[Dutch]]: [[kat]]
+*[[Finnish]]: [[kissa]]
+*[[French]]: [[chat]]
+*[[German]]: [[Katze]], f
+*[[Hebrew]]: [[חתול]]
+*[[Italian]]: [[gatto]]
+*[[Japanese]]: [[neko]]
+*[[Korean]]: [[고양이]] (go-yang-i) 
+*[[Norwegian]]: [[katt]]
+*[[Polish]]: [[kot]]
+*[[Portuguese]]: [[gato]]
+*[[Spanish]]: [[gato]]
+*[[Swedish]]: [[kat]]
