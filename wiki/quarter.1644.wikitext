@@ -4,6 +4,6 @@
 
 ==Translations==
 
-* Dutch: [[trimester]]
+* Dutch: [[kwart]] (1), [[trimester]] (3)
 * French: [[trimestre]]
 * spanish: [[trimestre]]
