@@ -1,8 +1,23 @@
 ===Etymology===
 Old English ''abaissen'', ''abaisshen'', ''abashen'', Old French ''esbahir'', French ''ébahir'', to [[astonish]], from Latin ''ex'' + the [[interjection]] ''bah'', expressing [[astonishment]]. In Old English somewhat [[confuse]]d with ''abase''. Cf. [[Finish]].
 ===Transitive verb===
-Imperfect and past participle: [[Abashed]]  
-<br>Present participle and verbal noun: [[Abashing]]
+=Verbs=
+<table border = 1>
+<tr>
+<td align = center>
+'''Imperfect'''
+<td align = center>
+'''Past Participle'''
+<td align = center>
+'''Present Participle'''<br>
+and '''Verbal Noun'''
+</tr>
+<tr>
+<td>abashed </td>
+<td>abashed </td>
+<td>abashing </td>
+</tr>
+</table>
 #To destroy the [[self-possession]] of; to confuse or [[confound]], as by exciting suddenly a consciousness of guilt, [[mistake]], or [[inferiority]]; to put to shame; to [[disconcert]]; to [[discomfit]].
 #:'''Quotations'''
 #:*''Abashed'', the devil stood, And felt how awful goodness is. - [[Milton]].
