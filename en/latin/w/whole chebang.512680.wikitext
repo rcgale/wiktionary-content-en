@@ -5,8 +5,7 @@ The name shebang comes from the contraction of ''sharp bang'', referring to the 
 ==Usage==
 
 A typical shebang line could be
-
-   #! /bin/sh
+ #!/bin/sh
 
 This instructs the operating system to interpret the file with the program /bin/sh.
 
