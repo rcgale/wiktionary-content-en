@@ -1,0 +1,1 @@
+Simplified Chinese characters are simplified versions of [[hanzi]] that are used in People's Republic of China.
