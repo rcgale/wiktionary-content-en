@@ -4,6 +4,14 @@
 #''Figurative'' a person or thing held as a positive example. ''A star athlete''.
 #A celebrity or noteworthy performer.
 
+==Translations==
+
+*de: [[Stern]] (1)
+*fr: [[étoile]], [[astre]] (1), [[vedette]], star (3)
+*fy: [[stjer]] (1,3)
+*nl: [[ster]] (1,2,3), vedette (3)
+
+
 '''[[verb]]'''
 
 # To appear, especially as the featured performer or headliner, in an entertainment program; see (3) above.
