@@ -1,0 +1,8 @@
+===[[Noun]]===
+
+===Translations===
+*[[French]]: [[ordinateur]]
+*[[Interlingua]]: [[computator]]
+*[[Italian]]: computer
+*[[Portuguese]]: [[computador]]
+*[[Spanish]]: [[ordenador]]
