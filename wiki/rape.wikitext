@@ -1,3 +1,6 @@
 1. (verb) to force [[sexual intercourse]] or other sexual activity upon another [[person]], without their [[consent]].
 
 See also [[statutory rape]].
+
+'''translations'''
+*[[Dutch]]: [[verkrachten]]
