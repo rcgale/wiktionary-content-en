@@ -1,4 +1,4 @@
-A '''plushophile''' is a person who has a [[paraphilia]] for large soft furry toys, or [[plushies]].
+A '''plushophile''' is a person who has a [[paraphilia]] for large soft furry [[toy]]s, or [[plushies]].
 
 See also:
 * [[Furry subculture]]
