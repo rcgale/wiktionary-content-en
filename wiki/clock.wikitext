@@ -11,3 +11,4 @@
 *[[Dutch]]: [[klok]] (noun)
 *[[French]]: [[horloge]] (noun)
 *[[German]]: [[Uhr]]
+*[[Hebrew]]: [[שעון]]
