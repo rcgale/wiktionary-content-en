@@ -1,26 +1,71 @@
 '''Wh-movement''' is a [[linguistic]] phenomenon that involves the movement of [[interrogative pronoun]]s (also called ''wh-words'') to the beginning of an [[interrogative sentence]].  It is so called because most English interrogative pronouns start with ''wh-'', such as ''what'', ''where'', ''why'', etc.  Not all [[language]]s feature wh-movement, and those that do not are referred to as '''wh-in-situ''' languages.
 
+==Wh-movement in English==
 English is one language that features wh-movement.  For example, a [[declarative sentence]] in English featuring normal [[word order]] would be:
 : He buys bread.
-The [[direct object]], "bread," of the [[verb]], "to buy," normally follows the verb, however, when the direct object is replaced with a wh-word, the wh-word is generally moved to the beginning of the sentence:
+The [[direct object]], "bread," of the [[verb]], "to buy," normally follows the verb, however, when the direct object is replaced with a wh-word in order to form a question, the wh-word is generally moved to the beginning of the sentence:
 : What does he buy?
-In English, an insertion rule also causes the insertion of the verb "to do" after the wh-word.  When wh-movement occurs, linguists generally consider a silent ''[[trace]]'' (often indicated by a ''t'') to be left behind for the purposes of [[syntactic]] analysis:
+In English, an insertion rule also causes the insertion of the verb "to do" after the wh-word in the absence of an [[auxilliary verb]].  If an auxilliary verb exists, instead of invoking the insertion rule, the auxilliary verb is moved after the wh-word:
+: He should buy bread.
+: What should he buy?
+
+When wh-movement occurs, linguists generally consider a silent [[trace]] (often indicated by a ''t'') to be left behind for the purposes of [[syntactic]] analysis:
 : What does he buy ''t''?
 
 ==Pied-piping==
-'''Pied-piping''' is a process that occurs when wh-movement applies to an entire phrase.  In the case where the wh-word refers to a [[determiner]], wh-movement can apply to an entire phrase.  For instance, in the following example, the entire phrase "what car" is moved:
+'''Pied-piping''' is a process that occurs when wh-movement applies to an entire phrase.  In the case where the wh-word refers to a [[determiner]], wh-movement pied-pipes the complement along with the wh-word.  For instance, in the following example, the entire phrase "what car" is moved:
 : What car does he like ''t''?
 
 In the case of determiners, pied-piping is obligatory.  For instance, the following sentence would be incorrect:
 : *What does he like ''t'' car?
 
-However, there are cases where pied-piping is optional.  In English, this is often the case when a wh-phrase is the object of a [[preposition]].  For instance, the following two examples are both correct:
-# To where shall we travel ''t''?
-# Where shall we travel to ''t''?
+However, there are cases where pied-piping can be optional.  In English, this is often the case when a wh-word or phrase is the object of a [[preposition]].  For instance, the following two examples are both correct:
+: To where shall we travel ''t''?
+: Where shall we travel to ''t''?
 The second example is a case of '''preposition stranding''', which is possible in English, but not allowed in [[Latin]] or other [[Romance languages]].  For languages that use [[postposition]]s rather than prepositions, stranding is not allowed either.
 
-[[Prescriptive]] grammarians often claim that preposition stranding should be avoided in Egnlish as well, however in certain contexts, obligatory pied-piping of prepositions in English may make a sentence feel artificial or stilted.
+[[Prescriptive]] grammarians often claim that preposition stranding should be avoided in English as well, however in certain contexts, obligatory pied-piping of prepositions in English may make a sentence feel artificial or stilted.
 
+==Extraction islands==
+In many cases, a wh-word can move all the way to the front of a sentence, regardless of how far away it has to move.  For example:
+: Who does Mary like ''t''?
+: Who does Bob know that Mary likes ''t''?
+: Who does Carl believe that Bob knows that Mary likes ''t''?
 
-{{ling-stub}}
+However there are cases in which it is not always possible to perform wh-movement.  Clauses from which a wh-word cannot be extracted are referred to as '''extraction islands'''.
+
+===Adjunct islands===
+An '''adjunct island''' is a type of island formed from an [[adjunct]] clause.  Wh-movement is not possible out of an adjunct clause.  Adjunct clauses include ''because'', ''if'', ''when'', and [[relative clause]]s.  Some examples include:
+: Correct: You went home because you needed to do what?
+: Incorrect: *What did you go home because you needed to do ''t''?
+
+: Correct: Alex likes the woman who wears what?
+: Incorrect: *What does Alex like the woman who wears ''t''?
+
+===Wh-islands===
+A '''wh-island''' is an island that is created by an embedded sentence which is introduced by a wh-word.  For instance, the clause "where Eric went to buy the gift" in the following example, is a wh-island:
+: John wonders where Eric went to buy the gift.
+
+Wh-islands are weaker than adjunct islands since extraction is often awkward but not necessarily considered ungrammatical by all speakers.
+: Correct: John wonders where Eric went to buy what?
+: Questionable: ?What does John wonder where Eric went to buy ''t''?
+
+===Subject extraction===
+It is typically easier to extract objects rather than subjects from a clause, especially when an overt [[complimentizer]] such as "that" or "for" is used.  Take the following examples:
+: Correct: Who do you believe ''t'' saw Tom?
+: Incorrect: *Who do you believe that ''t'' saw Tom?
+: Correct: Who do you believe Jim saw ''t''?
+: Correct: Who do you believe that Jim saw ''t''?
+
+===Subject clauses===
+Wh-movement does not appear to be possible in clauses that appear in the subject position.  For instance, here is a sentence where the clause appears in the object position:
+: It is likely that John went home.
+Here is the same sentence where the clause appears in the subject position:
+: That John went home is likely.
+
+Notice that wh-movement can occur only in the clause that appears int he object position:
+: Correct: Where is it likely that John went ''t''?
+: Incorrect: *Where is that John went ''t'' likely?
+
 [[Category:Linguistics]]
+[[Category:Syntax]]
