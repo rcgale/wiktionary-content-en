@@ -1,4 +1,21 @@
 '''Te'''
+== General Usage ==
+=== Pronunciation ===
+Pronounced as separate letters
+=== Definition ===
+''[[Chemical]] [[symbol]] for the element [[Tellurium]]
+
+== English ==
+=== Variant spelling ===
+'''ti''' in North America
+=== Etymology ===
+Altered from ''[[si]]'' in the 19th century to prevent having two notes of the musical scale starting with the same letter.
+=== Pronunciation ===
+/ti:/
+=== Definition ===
+In music
+# The seventh note of a major scale
+# The note B in the fixed [[doh]] system.
 
 == Dutch ==
 
