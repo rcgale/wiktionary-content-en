@@ -21,6 +21,7 @@
 *[[Irish]]: [[Geimhreadh]]
 *[[Mäori]]: [[takurua]]
 *[[Norwegian]]: [[vinter]]
+* [[Polish]]: [[zima]]
 *[[Portuguese]]: [[inverno]]
 *[[Romanian]]: [[iarna]]
 *[[Spanish]]: [[invierno]]
