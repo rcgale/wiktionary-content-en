@@ -1,4 +1,6 @@
-===Translations===
+==American English==
+==Translations==
+*[[English(British)]]: [[Chips]]
 *[[French]]: des [[frites]]
 *[[German]]: [[Pommes Frites]]
 *[[Interlingua]]: [[patatas frite]]
