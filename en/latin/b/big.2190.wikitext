@@ -5,6 +5,8 @@
 ===Translations===
 *Dutch: [[groot]]
 *French: grand
+*German: [[groß]]
+*Hebrew: [[גדול]]
 *Spanish: grande
 
 ===Related words===
