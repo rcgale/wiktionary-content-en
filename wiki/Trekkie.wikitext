@@ -1,0 +1,7 @@
+===Noun===
+#A fan of the TV series Star Trek.
+#:'''Quotations'''
+#:*'''1992''' - unknown, ''Review of Star Trek - The Undiscovered Country'' in ''Amiga User International'', December 1992, HHL Publishing (UK). Page 90.
+#:*:StarTrek VI is a fast-moving, vigorous book that will not disappoint the legions of Trekkies who avidly follow the adventure of their heroes.
+#:*'''2002''' - Jessica Mellor, ''Trek & Treat'' in the ''Daily Mirror'' (UK), Saturday, August 10, 2002. p. 44.
+#:*:I have a major confession to make which will probably incur the wrath of all Trekkies out there.
