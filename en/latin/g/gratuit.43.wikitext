@@ -1,7 +1,9 @@
-(fr): [[free]] (2) of charge
+/gRatwi/
 
-(nl): [[cheap]], [[easy]] as in ''a cheap remark''
+'''(fr)''': [[free]] (2) of charge
 
-==Related words==
+'''(nl)''': [[cheap]], [[easy]] as in ''a cheap remark''
 
-(da),(de),(nl),(pl),(sv),(es): [[gratis]]
+==Etymology==
+
+(da),(de),(nl),(pl),(sv),(es): [[gratis]], as well as (nl) gratuit are derived from (fr) gratuit.
