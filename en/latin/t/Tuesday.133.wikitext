@@ -13,3 +13,4 @@
 *pt: [[ter&ccedil;a-feira]]
 *sq: [[e martë]]
 *sv: [[tisdag]]
+*yi: [[דינסטיק]]
