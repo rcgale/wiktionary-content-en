@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Central Africa. Official name: Republic of Chad.
+#:'''Translations'''
+#:*[[Chinese]]: [[乍得]]
+#:*[[Danish]]: [[Tchad]]
+#:*[[Dutch]]: [[Tsjaad]]
+#:*[[Esperanto]]: [[Ĉado]]
+#:*[[Finnish]]: [[Tšad]]
+#:*[[French]]: [[Tchad]]
+#:*[[German]]: [[Tschad]]
+#:*[[Greek]]: [[Τσαντ]]
+#:*[[Interlingua]]: Chad
+#:*[[Italian]]: [[Ciad]]
+#:*[[Polish]]: [[Czad]]
+#:*[[Portuguese]]: [[Chade]]
+#:*[[Russian]]: [[Чад]]
+#:*[[Spanish]]: Chad
+#:*[[Swedish]]: [[Tchad]]
+
+''See'': [[Countries of the world]]
