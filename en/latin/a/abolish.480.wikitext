@@ -1,24 +1,26 @@
-'''Abolish''', ''[[transitive verb (part of speech)|transitive verb]]'' [''[[imp. (part of speech)|imp.]] & [[past participle (part of speech)|past participle]]'' [[Abolished]] (&?;); ''[[present participle (part of speech)|present participle]] & [[vb. n. (part of speech)|vb. n.]]'' [[Abolishing]].] [F. ''abolir'', L. ''abolere'', ''aboletum''; ''ab'' + ''olere'' to grow. Cf. [[Finish]].]
-
-<ol>
-<li>To do away with wholly; to [[annul]]; to make void; -- said of laws, customs, institutions, governments, etc.; as, to ''abolish'' [[slavery]], to ''abolish'' [[folly]].
-
-<li> To put an end to, or destroy, as a physical objects; to wipe out. [Archaic]
-
-<code>And with thy blood ''abolish'' so reproachful blot. ''[[Spenser (source)|Spenser]].''</code>
-
-<code>His quick instinctive hand Caught at the hilt, as to ''abolish'' him. ''[[Tennyson (source)|Tennyson]].''</code>
-
-'''Synonyms:''' -- [[Repeal]], [[Abrogate]], [[Revoke]], [[Annul]], [[Nullify]], [[Cancel]]. These words have in common the idea of setting aside by some [[overruling]] act. ''Abolish'' [[applies]] particularly to things of a permanent nature, such as institutions, usages, customs, etc.; as, to ''abolish'' [[monopolies]], [[serfdom]], slavery. ''Repeal'' [[describes]] the act by which the legislature of a state sets aside a law which it had previously [[enacted]]. ''Abrogate'' was originally applied to the [[repeal]] of a law by the Roman people; and hence, when the power of making laws was [[usurped]] by the [[emperors]], the term was applied to ''their'' act of setting aside the laws. Thus it came to express that act by which a sovereign or an [[executive]] government sets aside laws, [[ordinances]], [[regulations]], [[treaties]], [[conventions]], etc. ''Revoke'' denotes the act of [[recalling]] some previous grant which [[conferred]], privilege, etc.; as, to ''revoke'' a decree, to ''revoke'' a power of [[attorney]], a promise, etc. Thus, also, we speak of the ''revocation'' of the [[Edict]] of [[Nantes]]. ''Annul'' is used in a more general sense, denoting simply to make void; as, to ''annul'' a contract, to ''annul'' an agreement. ''Nullify'' is an old word [[revived]] in this country, and applied to the setting of things aside either by force or by total [[disregard]]; as, to ''nullify'' an act of Congress. ''Cancel'' is to strike out or annul, by a [[deliberate]] exercise of power, something which has [[operative]] force.
-</ol>
-
-== Translations ==
-
+===Etymology===
+French ''abolir'', Latin ''abolere'', ''aboletum''; ''ab'' + ''olere'' to grow. Cf. [[Finish]]
+===Transitive verb===
+Imperfect and past participle: [[Abolished]]<br>
+Present participle: [[Abolishing]]
+#To do away with wholly; to [[annul]]; to make void; -- said of laws, customs, institutions, governments, etc.; as, to ''abolish'' [[slavery]], to ''abolish'' [[folly]].
+#''(Archaic):'' To put an end to, or destroy, as a physical objects; to wipe out. 
+#:'''Quotations'''
+#:*And with thy blood ''abolish'' so reproachful blot. - [[Spenser]]
+#:*His quick instinctive hand Caught at the hilt, as to ''abolish'' him. - [[Tennyson]]
+===Synonyms===
+*[[Repeal]], [[Abrogate]], [[Revoke]], [[Annul]], [[Nullify]], [[Cancel]]. These words have in common the idea of setting aside by some [[overruling]] act.
+*''Abolish'' [[applies]] particularly to things of a permanent nature, such as institutions, usages, customs, etc.; as, to ''abolish'' [[monopolies]], [[serfdom]], slavery. ''Repeal'' [[describes]] the act by which the legislature of a state sets aside a law which it had previously [[enacted]]. 
+*''Abrogate'' was originally applied to the [[repeal]] of a law by the Roman people; and hence, when the power of making laws was [[usurped]] by the [[emperors]], the term was applied to ''their'' act of setting aside the laws. Thus it came to express that act by which a sovereign or an [[executive]] government sets aside laws, [[ordinances]], [[regulations]], [[treaties]], [[conventions]], etc. 
+*''Revoke'' denotes the act of [[recalling]] some previous grant which [[conferred]], privilege, etc.; as, to ''revoke'' a decree, to ''revoke'' a power of [[attorney]], a promise, etc. Thus, also, we speak of the ''revocation'' of the [[Edict]] of [[Nantes]]. 
+*''Annul'' is used in a more general sense, denoting simply to make void; as, to ''annul'' a contract, to ''annul'' an agreement. 
+*''Nullify'' is an old word applied to the setting of things aside either by force or by total [[disregard]]; as, to ''nullify'' an act of Congress. 
+*''Cancel'' is to strike out or annul, by a [[deliberate]] exercise of power, something which has [[operative]] force.
+=== Translations ===
 *[[Esperanto]]: [[abolicii]], [[forigi]]
 *[[French]]: [[supprimer]]
 *[[German]]: [[schaffen]]
 *[[Interlingua]]: [[abolir]]
 *[[Italian]]: [[abolire]]
-*[[Portuguese]]: [[]]
 *[[Spanish]]: [[abolir]]
 *[[Volapük]]: [[säkibön]], [[finidön]]
