@@ -1,3 +1,4 @@
+{{cleanup}}
 In [[computing]], a [[shebang]] is a special line that begins an executable [[text file]] causing [[Unix-like]] [[operating system]]s to execute the commands in the text file using a specific [[interpreter (computer software)|interpreter]] ([[computer program|program]]).
 
 A shebang consists of a [[number sign]] and an [[exclamation point]] character (so "#!") in the first two columns of the first line, followed by the [[Path (computing)|path]] to the interpreter program that will provide the interpretation. The name ''shebang'' comes from an inexact [[contraction (linguistics)|contraction]] of ''sharp bang'' or ''haSH bang'', referring to the two typical Unix names of the two characters. (Unix jargon uses ''sharp'' or ''hash'' to refer to the number sign character and ''bang'' to refer to the exclamation point, hence ''shebang''.)
@@ -11,6 +12,41 @@ Some typical shebang lines:
 
 
 It is common for different variants of even the same operating system to have different locations for the desired interpreter. Thus, it is not uncommon to need to edit the shebang line after copying a [[script (computer programming)|script]] from one computer to another.
+
+==Unix 'sha-bang' line==
+Related to Magic Numbers as described above, and built-in metadata, is the convention for [[Unix]], and therefore [[Linux]], executable scripts to begin with the characters '#!' followed by the path to the program which should be used to execute or interpret the script.
+
+In all the relevant scripting languages, the character '#' introduces a comment, which means that this line's content will effectively be hidden from the interpreter when it finally runs.
+
+The combination '#!', pronounced "sha-bang" in this context, is represented by the hexadecimal numbers 23 21.  In some flavours of Unix, this magic number in itself means that this is an executable file.  Other Unices, including Linux, require that the file's 'executable' metadata bit is also set.
+
+The Unix command-line command after the sha-bang defines the type of the file in terms of how it will be handled by the system.  
+
+In the absence of a rigidly standardised filesystem structure among different Unix distributions, this method can also limit the portability of the file.  The path that was coded into the script may not apply on a new machine.  
+
+=====Sha-bang line examples - opening lines of some executable script files=====
+This file is a [[PERL]] script, to be run with 'warnings' enabled (-w):
+
+ #!/usr/bin/perl -w
+ use strict;
+ # This script updates...
+ my $thisGroup = "";
+ ...
+
+This file is also a PERL script but it assumes that the PERL interpreter is in a different place:
+
+ #!/usr/local/bin/perl
+ foreach $k (keys %ENV) {
+     print qq'$k = $ENV{"$k"}\n';
+ }
+
+This file is [[bash]] script, the [[Linux]] equivalent of a [[DOS]] [[batch file]]:
+
+ #!/bin/bash
+ #simple backup script.
+ if [ -e $HOME/backups ]
+ then
+ ...
 
 ==External links==
 *[http://homepages.cwi.nl/~aeb/std/shebang/ Details about the shebang mechanism on various Unix flavours]
