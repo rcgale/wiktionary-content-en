@@ -2,7 +2,7 @@
 A [[country]] in the [[Middle East]], located at eastern [[shore]] of the 
 [[mediterranean]].
 :'''Translations'''
-:*[[German]]: [[Israel]]
+:*[[German]]: Israel
 :*[[Hebrew]]: [[ישראל]] 
 
 ''see:'' [[Countries of the world]]
