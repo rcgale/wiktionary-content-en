@@ -2,12 +2,12 @@
 # Traditionally the second of the four [[season]]s, normally from [[June]] 21 to [[September]] 20.
 
 ===Translations===
-*es: [[verano]]
-*eu: [[uda]]
-*he: [[קיץ]]
-*fr: [[été]]
-*mi: [[raumati]]
-*nl: [[zomer]]
-*pt: [[verão]]
-*sq: [[verë]]
-*yi: [[זומער]]
+*[[Albanian]]: [[verë]]
+*[[Basque]]: [[uda]]
+*[[Dutch]]: [[zomer]]
+*[[French]]: [[été]]
+*[[Hebrew]]: [[קיץ]]
+*[[Mäori]]: [[raumati]]
+*[[Portuguese]]: [[verão]]
+*[[Spanish: [[verano]]
+*[[Yiddish]]: [[זומער]]
