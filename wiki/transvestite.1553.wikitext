@@ -11,3 +11,4 @@ Transvestites and transvestite behaviour are part of transgender. Transvestites 
 ==Translations==
 *[[Dutch]]: [[travestiet]]
 *[[German]]: [[Transvestit]]
+*Swedish: [[transvestit]]
