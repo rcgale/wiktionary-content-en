@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Caribbean. Official name: Jamaica.
+#:'''Translations'''
+#:*[[Chinese]]: [[牙买加]]
+#:*[[Danish]]: Jamaica
+#:*[[Dutch]]: Jamaica
+#:*[[Esperanto]]: [[Jamajko]]
+#:*[[Finnish]]: [[Jamaika]]
+#:*[[French]]: [[Jamaïque]]
+#:*[[German]]: [[Jamaika]]
+#:*[[Greek]]: [[Τζαμάικα]]
+#:*[[Interlingua]]: Jamaica
+#:*[[Italian]]: [[Giamaica]]
+#:*[[Polish]]: [[Jamajka]]
+#:*[[Portuguese]]: Jamaica
+#:*[[Russian]]: [[Ямайка]]
+#:*[[Spanish]]: Jamaica
+#:*[[Swedish]]: Jamaica
+
+''See'': [[Countries of the world]]
