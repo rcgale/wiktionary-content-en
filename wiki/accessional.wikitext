@@ -1,0 +1,5 @@
+''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Accessional]] for the new Wiktionary definition of this term.''
+
+'''Accessional''', ''<code>[[adjective (part of speech)|adjective]]</code>''
+
+Pertaining to [[accession]]; additional. [R.] ''[[Sir T. Browne (source)|Sir T. Browne]].''
