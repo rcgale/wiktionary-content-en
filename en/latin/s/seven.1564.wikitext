@@ -12,5 +12,6 @@ Describing a set or group with seven components. ''There are seven days in a wee
 *[[French]] : [[sept]]
 *[[Frisian]] : [[sân]]
 *[[German]] : [[sieben]]
+*[[Korean]] : [[일곱]] (ilgop), [[칠]] (chil)
 *Lojban: [[ze]]
 *[[Spanish]] : [[siete]]
