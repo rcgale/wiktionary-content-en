@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southern Africa. Official name: Kingdom of Lesotho.
+#:'''Translations'''
+#:*[[Danish]]: Lesotho
+#:*[[Dutch]]: Lesotho
+#:*[[Esperanto]]: [[Lesoto]]
+#:*[[Finnish]]: Lesotho
+#:*[[French]]: Lesotho
+#:*[[German]]: Lesotho
+#:*[[Greek]]: [[Λεσόθο]]
+#:*[[Interlingua]]: Lesotho
+#:*[[Italian]]: Lesotho
+#:*[[Polish]]: Lesotho
+#:*[[Portuguese]]: [[Lesoto]]
+#:*[[Russian]]: [[Лесото]]
+#:*[[Spanish]]: [[Lesoto]]
+#:*[[Swedish]]: Lesotho
+
+''See'': [[Countries of the world]]
