@@ -2,7 +2,7 @@
 
 '''proper noun'''
 
-# Country in the Caribbean. Official name: Commonwealth of Puerto Rico.
+# [[Commonwealth]] in the Caribbean governed by the United States. Official name: Commonwealth of Puerto Rico.
 #:'''Translations'''
 #:*[[Danish]]: Puerto Rico
 #:*[[Dutch]]: Puerto Rico, [[Porto Rico]]
