@@ -1,11 +1,13 @@
 ===Noun===
 #In economics, it is synonym of a company share
-===Translation===
-* French : [[action]]
-* German :
-*#[[Aktie]]
-*#[[Vorrat]]
-*#[[Leiste]]
+#:'''Translations'''
+#:*Dutch : [[aandeel]], [[actie]]
+#:*French : [[action]]
+#:*Frisian : [[oandiel]]
+#:*German:
+#:*#[[Aktie]]
+#:*#[[Vorrat]]
+#:*#[[Leiste]]
 ===Related words===
 * [[stock performance]]
 ----
