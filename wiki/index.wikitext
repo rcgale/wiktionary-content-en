@@ -1,0 +1,2 @@
+#An alpabetical list (Plural: [[Indexes]])
+#The raised number that shows the number of times that another number is to be timesd by itself. (Plural: [[Inicies]])
