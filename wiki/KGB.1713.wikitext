@@ -6,4 +6,4 @@ Abbreviation for
 Abbreviation for
 *Komitet Gosudarstvennoy Bezopasnosti
 *:'''Translations'''
-*:#[[Russian]]:КГБ
+*:#[[Russian]]:[[КГБ]]
