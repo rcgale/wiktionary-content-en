@@ -1,4 +1,3 @@
 [Can] /______/
 
-1) Asking permission to. "Can I play football"
-2)
+1)Asking am I able to. "Can I play football"
