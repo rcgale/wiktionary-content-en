@@ -1,0 +1,4 @@
+===Etymology===
+Robert Lewis Stevenson novel ''Treasure Island'' (1883) where it is followed by "and a bottle of rum" in a supposed pirate [[chanty]].
+===Interjection===
+''completely meaningless''
