@@ -25,3 +25,4 @@
 *ja: neko
 *pl: kot
 *pt: gato
+*se: katt
