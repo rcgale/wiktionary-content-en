@@ -20,6 +20,7 @@ From French ''&eacute;tymologie'', which via Latin [[etymologia]] derives from G
 
 * de: [[Etymologie]]
 * es: [[etimología]]
+* fi: [[etymologia]]
 * fr: [[étymologie]]
 * he: [[אטימולוגיה]]
 * nl: [[etymologie]]
