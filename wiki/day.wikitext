@@ -5,6 +5,7 @@
 #Period of day(1) between sunrise and sunset, where one enjoys daylight. Re:"day and night"
 
 ==Translations==
+*af: dag
 *de: [[Tag]]
 *es: día (remarque: Wednesday and Saturday take an accent in Spanish)
 *fr: [[jour]]
