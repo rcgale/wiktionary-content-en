@@ -1,2 +1,2 @@
-1. Occurring before a state of readiness or maturity has arrived. ''A premature [[birth]].''
-2. Taking place earlier than anticipated, prepared for, or desired.
+#Occurring before a state of readiness or maturity has arrived. ''A premature [[birth]].''
+#Taking place earlier than anticipated, prepared for, or desired.
