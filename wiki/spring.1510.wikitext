@@ -10,6 +10,7 @@
 *[[Croatian]]: [[proljeće]] (1)
 *[[Dutch]]: [[lente]] (1), [[bron]] (2), [[veer]] (3)
 *[[French]]: [[printemps]] (1)
+*[[German]]: [[Frühling]] (1), [[Quelle]] (2)
 *[[Hebrew]]: [[אביב]] (ah-VEEV; noun 1), [[מעיין]] (mah-ah-YAHN; noun 2), [[קפיץ]] (kfeetz; noun 3)
 *[[Mäori]]: [[koanga]] (1)
 *[[Polish]]: [[wiosna]] (1), [[źródło]] (2), [[sprężyna]] (3)
