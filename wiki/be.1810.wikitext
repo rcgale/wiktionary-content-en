@@ -1,5 +1,14 @@
-be (verb):
-
+===Verb===
+<table border=1>
+<tr><th>  <th>Present<br>indicative<th>Past<br>indicative
+<th>Present<br>subjunctive<th>Past<br>subjunctive</tr>
+<tr><td>I</td><td>am</td><td>was</td><td>be</td><td>were</td>
+<tr><td>thou</td><td>art</td><td>be</td><td>wast</td><td>wert</td>
+<tr><td>he/she/it</td><td>is</td><td>was</td><td>be</td><td>were</td>
+<tr><td>we</td><td>are</td><td>were</td><td>be</td><td>were</td>
+<tr><td>you</td><td>are</td><td>were</td><td>be</td><td>were</td>
+<tr><td>they</td><td>are</td><td>were</td><td>be</td><td>were</td>
+</table>
 1. [intransitive] to exist
 ==Translations==
 *Dutch: [[zijn]], [[wezen]] (archaic, used in certain idioms and expressions)
