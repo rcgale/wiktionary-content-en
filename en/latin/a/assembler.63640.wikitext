@@ -1,11 +1,14 @@
-==Assembler==
+==English==
+===Noun===
+'''assembler''' (countable and uncountable; plural: [[assemblers]])
 
-'''Noun''', ''Computer terminology''
+# (''Computing'', ''countable'') a [[computer]] [[programming]] tool that reads [[source code]] files written in [[assembly language]] and produces a number of output files. One of these, the [[object]] file, can then be submitted to a [[linker]] which generates a working computer program.
+#:The other output files are generated to assist the [[programmer]] with [[debug]]ging.
+#(''Computing'', ''uncountable'') a shorthand reference to the programming language.
+#:''I wrote that in Assembler.''
 
-#An '''Assembler''' is a [[computer]] [[programming]] tool that reads [[source code]] files written in [[Assembly Language]] and produces a number of output files. One of these, the [[Object]] file, can then be submitted to a [[linker]] which generates a working computer program.
-The other output files are generated to assist the [[programmer]] with [[debugging]].
-
-#Assembler is also used as a shorthand reference to the programming language. 
-*Example: ''I wrote that in Assembler.''
+====Synonyms====
+*[[assembly]] (2)
+*[[assembly language]] (2)
 
 [[Category:Computer terminology]]
