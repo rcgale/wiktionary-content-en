@@ -8,7 +8,6 @@
 <li> ''([[Math (subject)|Math]]).'' To reduce to lower terms, as a fraction.
 </ol>
 ==Translations==
-*Swedish: [[förkorta]] (1,2)
 -----
 '''Abbreviate''', ''[[adjective (part of speech)|adjective]]'' [L. ''abbreviatus'', p. p.]
 
@@ -24,4 +23,5 @@
 
 An [[abridgment]]. [Obs.] ''[[Elyot (source)|Elyot]].''
 
-<HR> <P> <H3>Translations</H3><BR>•[[French]] fr: [[Abréger]]<BR>•[[German]] de: [[Kürzen Sie ab]]<BR>•[[Interlingua]] ia: [[Abbreviar]]<BR>•[[Italian]] it: [[Abbreviare]]<BR>•[[Portuguese]] pt: [[Abreviar]]<BR>•[[Spanish]] es: [[Abreviar]]<BR>•[[]]: [[]]
+<HR> <P> <H3>Translations</H3><BR>•[[French]] fr: [[Abréger]]<BR>•[[German]] de: [[Kürzen Sie ab]]<BR>•[[Interlingua]] ia: [[Abbreviar]]<BR>•[[Italian]] it: [[Abbreviare]]<BR>•[[Portuguese]] pt: [[Abreviar]]<BR>•[[Spanish]] es: [[Abreviar]]<BR>•[[Swedish]] sv: [[förkorta]] (1,2)<BR>
+•[[]]: [[]]
