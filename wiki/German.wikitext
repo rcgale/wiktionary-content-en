@@ -4,3 +4,4 @@
 #:'''Translations'''
 #:*[[Interlingua]]: german
 #:*[[Portuguese]]: [[alemão]]
+#:*[[Swedish]]: [[tysk]]
