@@ -1,6 +1,6 @@
 Means ''the exact hour''.
 
-''At ten o´clock (10:00).
+''At ten o´clock (10:00)''.
 
 ==Etymology==
 
