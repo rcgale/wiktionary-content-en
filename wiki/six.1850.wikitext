@@ -11,4 +11,5 @@ Describing a set or group with six components. ''A cube has six faces.''
 *French: [[six]]
 *Frisian: [[seis]]
 *German: [[sechs]]
+*Korean: [[여섯]] (yeoseot), [[육]] (yuk)
 *Spanish: [[Sies]]
