@@ -1,0 +1,3 @@
+'''Abrook''', ''[[transitive verb (part of speech)|transitive verb]]'' [Pref. ''a-'' + ''brook'', v.]
+
+To brook; to endure. [Obs.] ''[[Shakespeare (source)|Shakespeare]].''
