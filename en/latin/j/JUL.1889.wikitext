@@ -1,0 +1,7 @@
+JUL
+
+1. an abbreviation for the month of [[July]]. 
+
+2. (Latin) abbreviation for [[Juris]] [[Utriusque]] [[Licentiatus]] which indicated the designated matter was [[permitted]] and [[proper]] under all [[civil]] and [[spiritual]] laws; also used to designate someone's or something's legitimate license to perform both civil an spiritual services; "Licentiate of Both Laws" civil and canon…
+
+(also written as IUL for the variant in original Latin forms: iuris utriusque licentiatus)
