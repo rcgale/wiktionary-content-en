@@ -1,20 +1,20 @@
 ==Definition==
-;'''Leap''' (''[[noun]]'')
+;'''Leap''' (''[[verb]]'')
 : To jump from one location to another.
-;'''Leapt'''
-: Past tense of Leap.
+;'''Leapt''' or '''leaped'''
+: Past tense and past participle of Leap.
 ==Alternative spellings==
 ;'''Leap'''
 :Leep, leape.
 ;'''Leapt'''
-:Leaped, Leapped, Lept.
+:Leapped, lept.
 ==Pronounciation==
 ;'''Leap'''
-: (UK) IPA://
-: (USA) IPA://
+: IPA:/li&#720;p/
+;'''Leaped'''
+: IPA:/li&#720;pd
 ;'''Leapt'''
-: (UK) IPA://
-: (USA) IPA://
+: IPA:/l&#603;t/
 ==Etymology==
 ;'''Leap'''
 : From old english [[hlýp]]
