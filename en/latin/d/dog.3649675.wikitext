@@ -39,9 +39,10 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 *Lojban: [[gerku]]
 *Maori: [[kurii]]
 *Portuguese: [[cão]]
+*Provençal: [[can]]
 *Russian: [[собака]]
 *Slovak: [[pes]]
-Spanish: [[perro]]
+*Spanish: [[perro]]
 *Yiddish: [[הונט]]
 
 == Further reading ==
