@@ -2,8 +2,9 @@ be (verb):
 
 1. [intransitive] to exist
 ==Translations==
-*French : [[être]]
-*Spanish : [[ser]], [[estar]] (''note'' : ser and estar are not employed in the same cases)
+*Dutch: [[zijn]], [[wezen]] (used in certain idioms and expressions)
+*French: [[être]]
+*Spanish: [[ser]], [[estar]] (''note'' : ser and estar are not employed in the same cases)
 
 2. [transitive] to be identical with some thing (e.g. A is A) 
 
