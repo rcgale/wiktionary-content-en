@@ -5,7 +5,7 @@
 # Country in Western Europe. Official name: Federal Republic of Germany.
 #:'''Translations'''
 #:*[[Chinese]]: [[德国]]
-#:*[[Dannish]]: [[Tyskland]]
+#:*[[Danish]]: [[Tyskland]]
 #:*[[Dutch]]: [[Duitsland]]
 #:*[[Esperanto]]: [[Germanio]], [[Germanujo]]
 #:*[[Finnish]]: [[Saksa]]
