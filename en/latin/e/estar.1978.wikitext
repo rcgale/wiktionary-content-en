@@ -1,5 +1,5 @@
 ==[[Portuguese]]==
-/esˈtaʀ/
+/esˈtaʀ/, /isˈtaʀ/, /iʃˈtaʀ/
 ===[[Verb]]===
 #To have a (transient) location in space. Cf. [[ser]], [[ficar]].
 #:'''Usage'''
