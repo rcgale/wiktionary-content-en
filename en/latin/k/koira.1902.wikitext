@@ -1,23 +1,22 @@
-/koira/, ''noun'' (sf == finnish)
+==Finnish==
 
-==Etymology==
-
+===Etymology===
 Unknown.
+===Pronunciation===
+/koira/
+===Noun===
+#Dog
 
-Related words: [[koiruus]] (sf), [[koiramainen]] (sf).
+===Related words=== 
+*[[koiruus]] (sf), 
+*[[koiramainen]] (sf).
+===Translations===
+*Japanese [[neko]]
+*French [[chien]]
+*Swedish [[hund]]
+*German [[hund]]
 
-== Sayings ==
-
-# "'''Se koira älähtää, johon kalikka kalahtaa'''" ("the dog that gets hit, yells loudly"; refers to belief that the person(s) protesting loudest are likely to be guilty)
-
-==Translations==
-
-*en [[dog]]
-*jp [[neko]]
-*fr [[chien]]
-*se [[hund]]
-*ge [[hund]]
-
-==Thesaurus==
-
+===Thesaurus===
 [[hauva]] ("baby talk", ie. "[[doggy]]").
+=== Sayings ===
+# "'''Se koira älähtää, johon kalikka kalahtaa'''" ("the dog that gets hit, yells loudly"; refers to belief that the person(s) protesting loudest are likely to be guilty)
