@@ -18,7 +18,7 @@
 *[[Estonian]]: [[Kotkas]]
 *[[Finnish]]: [[Kotka]]
 *[[French]]: [[Aigle]] (1)
-*[[Frisian]]: [[earn]]
+*[[Frisian]]: [[Earn]]
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
 *[[Greek]]: [[Aετός]]
 *[[Hungarian]]: [[Sas]] 
@@ -29,7 +29,7 @@
 *[[Latin]]: [[Aqvila]]
 *[[Norwegian]]: [[Ørn]]
 *[[Polish]]: [[Orzeł]] (1)
-*[[Portugese]]: [[αguia]]
+*[[Portugese]]: [[Aguia]]
 *[[Romanian]]: [[Vultur]]
 *[[Russian]]: [[Oрел]]
 *[[Spanish]] : [[Águila]] (1)
