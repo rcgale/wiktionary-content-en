@@ -11,6 +11,7 @@
 *fr: [[samedi]]
 *[[Georgian]]: [[შაბათი]]
 *he: [[שבת]]
+*hr: [[Subota]]
 *it: [[sabato]]
 *mi: [[hätarei]]
 *nl: [[zaterdag]]
