@@ -12,11 +12,13 @@
 *[[Bulgarian]]: [[Oрел]]
 *[[Chinese(Simplified)]]: [[老鹰]] (needs to be checked by speaker)
 *[[Chinese(Traditional)]]: [[老鷹]] (needs to be checked by speaker)
+*[[Czech]]: [[Orel]]
 *[[Dutch]]: [[Arend]], [[Adelaar]] (1)
 *[[Esperanto]]: [[Aglo]]
 *[[Estonian]]: [[Kotkas]]
 *[[Finnish]]: [[Kotka]]
 *[[French]]: [[Aigle]] (1)
+*[[Frisian]]: [[earn]]
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
 *[[Greek]]: [[Aετός]]
 *[[Hungarian]]: [[Sas]] 
@@ -27,8 +29,10 @@
 *[[Latin]]: [[Aqvila]]
 *[[Norwegian]]: [[Ørn]]
 *[[Polish]]: [[Orzeł]] (1)
+*[[Portugese]]: [[αguia]]
 *[[Romanian]]: [[Vultur]]
 *[[Russian]]: [[Oрел]]
 *[[Spanish]] : [[Águila]] (1)
 *[[Swedish]]: [[Örn]]
+*[[Turkish]]: [[Kartal]]
 *[[Ukranian]]: [[Oрел]]
