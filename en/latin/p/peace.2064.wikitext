@@ -8,6 +8,7 @@
 *[[French]] : [[paix]]
 *[[Frisian]] : [[frede]]
 *[[German]] : [[Frieden]]
+*[[Korean]] : [[평화]] [平和] (pyeonghwa)
 *[[Spanish]] : [[paz]]
 
 ===Antonyms===
