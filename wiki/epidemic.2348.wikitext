@@ -4,6 +4,7 @@
 
 ===Translations===
 *Dutch: [[epidemie]]
+*Finnish: [[epidemia]]
 *French: [[épidémie]]
 
 ==[[Adjective]]==
@@ -12,3 +13,4 @@
 
 ===Translations===
 *Dutch: [[epidemisch]]
+*Finnish: [[epideeminen]]
