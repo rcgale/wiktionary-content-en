@@ -7,7 +7,7 @@ As separate letters: [U-S-S-R]
 #:*[[Dutch]]: USSR
 #:*[[Estonian]]: [[UNSV]]
 #:*[[French]]: [[URSS]]
-#:*[[German]]: USSR
+#:*[[German]]: [[UdSSR]]
 #:*[[Greek]]: [[ESSD]]
 #:*[[Polish]]: [[ZSRR]]
 #:*[[Portuguese]]: [[URSS]]
@@ -18,12 +18,5 @@ As separate letters: [U-S-S-R]
 ===Dutch===
 ===Abbreviaion===
 #Unie van Socialistische Sovjetrepublieken
-#:'''Translations'''
-#:''See English''
-
-----
-===German===
-===Abbreviaion===
-#Union der Sowjetischen Sozialistischen Republiken
 #:'''Translations'''
 #:''See English''
