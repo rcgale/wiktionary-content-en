@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southern Africa. Official name: Republic of Botswana.
+#:'''Translations'''
+#:*[[Chinese]]: [[博茨瓦纳]]
+#:*[[Dannish]]: Botswana
+#:*[[Dutch]]: Botswana
+#:*[[Esperanto]]: [[Bocvano]]
+#:*[[Finnish]]: Botswana
+#:*[[French]]: Botswana
+#:*[[German]]: [[Botsuana]]
+#:*[[Greek]]: [[Μποτσουάνα]]
+#:*[[Interlingua]]: Botswana
+#:*[[Italian]]: Botswana
+#:*[[Polish]]: Botswana
+#:*[[Portuguese]]: [[Botsuana]]
+#:*[[Russian]]: [[Ботсвана]]
+#:*[[Spanish]]: [[Botsuana]]
+#:*[[Swedish]]: Botswana
+
+''See'': [[Countries of the world]]
