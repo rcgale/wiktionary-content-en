@@ -11,7 +11,7 @@
 *eu: [[astelehen]]
 *fr: [[lundi]]
 *[[Georgian]]: [[ორშაბათი]]
-*he: [[יום שני]]
+*he: [[יום שני]] (yom shay-NEE)
 *hr: [[Ponedjeljak]]
 *mi: [[mane]]
 *nl: [[maandag]]
@@ -25,5 +25,5 @@
 *sq: [[e h&euml;n&euml;]]
 *sv: [[Måndag]]
 *Wolof: [[Altine]]
-*yi: [[מאָנטיק]]
+*yi: [[מאָנטיק]] (MON-tik)
 *Yoruba: [[Ọjó ajé]]
