@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in South America. Official name: Republic of Chile.
+#:'''Translations'''
+#:*[[Chinese]]: [[智利]]
+#:*[[Dannish]]: Chile
+#:*[[Dutch]]: [[Chili]]
+#:*[[Esperanto]]: [[Ĉilio]]
+#:*[[Finnish]]: Chile
+#:*[[French]]: [[Chili]]
+#:*[[German]]: Chile
+#:*[[Greek]]: [[Χιλή]]
+#:*[[Interlingua]]: Chile
+#:*[[Italian]]: [[Cile]]
+#:*[[Polish]]: Chile
+#:*[[Portuguese]]: Chile
+#:*[[Russian]]: [[Чили]]
+#:*[[Spanish]]: Chile
+#:*[[Swedish]]: Chile
+
+''See'': [[Countries of the world]]
