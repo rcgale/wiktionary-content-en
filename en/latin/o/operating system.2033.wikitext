@@ -3,5 +3,6 @@
 # [[Software]] needed to run a [[computer]]. eg. [[Linux]], [[Windows]]
 #:'''Translations'''
 #:*[[Dutch]]: [[besturingssysteem]]
+#:*[[French]]: [[système d'exploitation]]
 #:*[[German]]: [[Betriebssystem]]
 #:*[[Icelandic]]: [[stýrikerfi]]
