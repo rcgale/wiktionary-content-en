@@ -1,5 +1,7 @@
 ===[[Noun]]===
 # Traditionally the third of the four [[season]]s, typically regarded as being from [[September]] 21 to [[December]] 20 in Northern [[Hemisphere]] regions and from [[March]] 21 to [[June]] 20 in Southern Hemisphere regions.
+#:'''Synonym'''
+#:*[[Fall]]
 #:'''Translations'''
 #:*[[Albanian]]: [[vjeshtë]]
 #:*[[Basque]]: [[udazken]]
