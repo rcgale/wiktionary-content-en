@@ -53,6 +53,7 @@
 *[[Slovak]]: [[Orol]]
 *[[Slovenian]]: [[Orel]]
 *[[Spanish]]: [[Águila]] (1)
+*[[Swazi]]: [[Lú-khôzi]]
 *[[Swedish]]: [[Örn]]
 *[[Thai]]: [[อินทรี]] (Is the first letter a capital? is there one?)
 *[[Turkish]]: [[Kartal]]
