@@ -1,0 +1,5 @@
+(noun)
+
+1. a belief, especially on philosophical, theological or religious matters
+
+2. the teachings of a religion, or a religious leader, organization, group or text: e.g. "the incarnation is a basic doctrine of classical Christianity", "the four noble truths summarise the main doctrines of Buddhism"
