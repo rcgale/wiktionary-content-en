@@ -1,1 +1,1 @@
-A '''[[transitive]] [[verb]]''' is a verb that is able to take a direct object in active sentences. Consequently it may be used in a passive voice.
+A '''[[transitive]] [[verb]]''' is a verb that is accompanied (either clearly or implicitly) by a direct object in active sentences. It links the action taken by the subject with the object upon which that action is taken.  Consequently, it may be used in a passive voice.
