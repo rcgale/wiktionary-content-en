@@ -1,0 +1,1 @@
+Dennotation is primary meaning of a word. (compare with [[connotation]])
