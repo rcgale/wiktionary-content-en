@@ -1,0 +1,13 @@
+==Portuguese==
+/pa'is/<br>
+'''noun'''
+
+#A nation state, political entity asserting ultimate authority over a large geographical area.
+#:'''Translations'''
+#:*[[Dutch]]: [[land]]
+#:*[[English]]: [[country]]
+#:*[[French]]: [[pays]]
+#:*[[German]]: [[Land]]
+#:*[[Hebrew]]: [[ארץ]]
+#:*[[Interlingua]]: [[pais]]
+#:*[[Latin]]: [[terra]]
