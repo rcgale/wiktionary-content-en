@@ -7,3 +7,4 @@ Old English ''twa'', from Germanic ''*twai'', ''*two'', from PIE ''*dwô''. Cogn
 
 == Translations ==
 Lojban: [[re]]
+pt: [[dois]]
