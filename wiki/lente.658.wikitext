@@ -4,7 +4,7 @@
 ====Translation====
 *[[English]]: [[Spring]]
 *[[French]]: [[Printemps]]
-*[[German]]: [[Frühling]]
+*[[German]]: [[Frühling]], [[Lenz]]
 *[[Hebrew]]: [[אביב]]
 *[[Polish]]: [[Wiosna]]
 *[[Spanish]]: [[Primavera]]
