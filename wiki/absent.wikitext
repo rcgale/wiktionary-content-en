@@ -30,3 +30,12 @@
 
 <code>Go; for thy stay, not free, ''absents'' thee more.</code> ''[[Milton (source)|Milton]].''
 </ol>
+
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Absent]]
+<BR>• [[German]]: [[Abwesend]]
+<BR>• [[Interlingua]]: [[Absente]]
+<BR>• [[Italian]]: [[Assente]]
+<BR>• [[Portuguese]]: [[Ausente]]
+<BR>• [[Spanish]]: [[Ausente]]
+<BR>
