@@ -12,5 +12,6 @@
 
 === Translations ===
 
-* en: [[in]]
+* English: in (on this page)
 * es: [[en]]
+* Lojban: [[nenri]]
