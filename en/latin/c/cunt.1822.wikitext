@@ -1,6 +1,6 @@
-(noun, often considered vulgar/offensive)
+(noun, [[obscenity]])
     
-1. The female genitalia
+1. crude term for female [[genitalia]].
 
 2. (highly offensive, slang) A derogatory term for a woman  
 
