@@ -232,7 +232,7 @@
  Sinhalese           Mama oyata adarei 
  Sioux               Techihhila 
  Slovak              lubim ta 
- Slovene             ljubim te (although "všeč si mi" is usu. used meaning "i like you"
+ Slovene             Ljubim te (although "Všeč si mi" is usually used meaning "i like you")
  Spanish             Te quiero 
  Spanish             Te amo
  Spanish Caló        Te camelo 
