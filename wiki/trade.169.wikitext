@@ -20,5 +20,5 @@
 # do business; offer for sale as for one's livelihood; "She deals in gold"; "The brothers sell shoes" [''syn:'' [[deal]], [[sell]]]
 
 ==Translations==
-
-*fr: [[commerce]]
+*[[Dutch]]: [[handel]]
+*[[French]]: [[commerce]]
