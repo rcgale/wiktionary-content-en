@@ -1,0 +1,6 @@
+===Etymology===
+Latin meaning "beneath the rose"; the rose was a symbol of secrecy.
+===Adjective and Adverb===
+#Done in secret
+#Private[ly]
+#Confidential[ly]
