@@ -1,4 +1,19 @@
 ==Verb==
 
+#to hide something from [[view]] or from public [[knowledge]], to try to keep something [[secret]] (he tried to ''conceal'' the truth about his [[health]])
+
+==Related words==
+*[[concealing]], [[concealed]]
+
+==[[Synonym]]s==
+*[[hide]]
+*[[obfuscate]]
+*[[secrete]]
+
+==[[Antonym]]s==
+*[[reveal]]
+*[[uncover]]
+*[[admit]]
+
 ==Translations==
 *[[German]]: to conceal something: [[etwas]] [[verbergen]], [[verheimlichen]], [[verschleiern]], [[verschweigen]], [[verstecken]]
