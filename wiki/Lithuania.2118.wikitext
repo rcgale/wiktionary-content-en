@@ -2,11 +2,21 @@
 
 '''proper noun'''
 
-# One of the [[Baltic]] countries.
+# One of the [[Baltic]] countries. Official name: Republic of Lithuania.
 #:'''Translations'''
+#:*[[Chinese]]: [[立陶宛]]
+#:*[[Danish]]: [[Litauen]]
 #:*[[Dutch]]: [[Litouwen]]
+#:*[[Esperanto]]: [[Litovio]], [[Litovujo]]
+#:*[[Finnish]]: [[Liettua]]
 #:*[[French]]: [[Lituanie]]
 #:*[[German]]: [[Litauen]]
+#:*[[Greek]]: [[Λιθουανία]]
+#:*[[Italian]]: [[Lituania]]
 #:*[[Polish]]: [[Litwa]]
+#:*[[Portuguese]]: [[Lituânia]]
+#:*[[Russian]]: [[Литва]]
+#:*[[Spanish]]: [[Lituania]]
+#:*[[Swedish]]: [[Litauen]]
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
