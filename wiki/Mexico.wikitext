@@ -6,11 +6,13 @@
 #:*[[Dutch]]: Mexico
 #:*[[French]]: [[Mexique]]
 #:*[[German]]: [[Mexiko]]
+#:*[[Polish]]: [[Meksyk]]
 
 # The capital of Mexico. Synonyms : Mexico city.
 #:'''Translations'''
 #:*[[Dutch]]: Mexico
 #:*[[French]]: Mexico
+#:*[[Polish]]: [[Meksyk]]
 
 == Further reading ==
 
