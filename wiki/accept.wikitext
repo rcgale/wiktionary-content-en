@@ -5,15 +5,15 @@
 ''Present participle and verbal noun'' [[Accepting]]
 
 #To receive with a [[consenting]] mind (something offered); as, to ''accept'' a gift; -- often followed by ''of''.
-#:If you ''accept'' them, then their worth is great. ''[[Shakespeare (source)|Shakespeare]].''
-#:To ''accept'' of ransom for my son. ''[[Milton (source)|Milton]].''
+#:If you ''accept'' them, then their worth is great. - Shakespeare ''Taming of the Shrew''
+#:To ''accept'' of ransom for my son. - Milton ''Samson Agonistes''
 #:She ''accepted'' of a treat. ''[[Addison (source)|Addison]].''
 #To receive with favor; to [[approve]].
-#:The Lord ''accept'' thy burnt sacrifice. ''[[Ps. xx. 3 (source)|Ps. xx. 3]].''
-#:Peradventure he will ''accept'' of me. ''[[Gen. xxxii. 20 (source)|Gen. xxxii. 20]].''
+#:The Lord ''accept'' thy burnt sacrifice. - ''[[Psalms xx. 3''
+#:Peradventure he will ''accept'' of me. - ''Genesis. xxxii. 20''
 #To receive or admit and agree to; to assent to; as, I ''accept'' your [[proposal]], [[amendment]], or [[excuse]].
 #To take by the mind; to [[understand]]; as, How are these words to be ''accepted''?
-#''Commerce'': To receive as [[obligatory]] and promise to pay; as, to ''accept'' a bill of exchange. ''[[Bouvier (source)|Bouvier]].''
+#''Commerce'': To receive as [[obligatory]] and promise to pay; as, to ''accept'' a bill of exchange. - Bouvier ''Law Dictionary'', 1856
 #In a [[deliberative]] body, to receive in [[acquittance]] of a duty imposed; as, to ''accept'' the report of a [[committee]]. (This makes it the property of the body, and the question is then on its [[adoption]].)
 ===Derived words===
 :[[Acceptor]] - 
@@ -21,7 +21,7 @@
 #'''To accept a bill''' ''Law'': to agree (on the part of the [[drawee]]) to pay it when due. 
 #'''To accept service''' ''Law'': to agree that a writ or process shall be considered as [[regularly]] served, when it has not been. 
 #'''To accept the person''' ''Ecclesiastical'': to show [[favoritism]].
-#:God ''accepteth'' no man's ''person''. ''[[Gal. ii. 6 (source)|Gal. ii. 6]].''
+#:God ''accepteth'' no man's ''person''. - ''Galatians ii. 6''
 
 '''Synonyms:''' -- To [[receive]]; [[take]]; [[admit]]. 
 
