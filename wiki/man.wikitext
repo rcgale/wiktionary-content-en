@@ -6,3 +6,4 @@
 ==Translations==
 
 *nl: [[man]] (1), de [[mens]] (2)
+*Lojban: [[nanmu]] (1), [[remna]] (2)
