@@ -7,4 +7,5 @@
 *fr: [[automne]]
 *mi: [[ngahuru]]
 *nl: [[herfst]]
+*pt: [[outono]]
 *sq: [[vjeshtë]]
