@@ -1,4 +1,5 @@
-Abbreviation for:
-*Before Christ
-
-Seen suffixed to dates, for example: "1045 BC".  (See also: [[BCE]])
+===Abbreviation===
+#Before Christ
+#:Placed after the year number, for example: "1045 BC".  (See also: [[BCE]])
+#:British Columbia
+#:Baja California
