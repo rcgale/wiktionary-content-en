@@ -1,0 +1,9 @@
+Acerbate, ''[[Noun]]'', exasperate, make bitter or sour. 
+---- 
+'''Translations''' 
+* [[French]]: [[]] 
+* [[German]]: [[]] 
+* [[Interlingua]]: [[Acerbar]] 
+* [[Italian]]: [[]] 
+* [[Portuguese]]: [[]] 
+* [[Spanish]]: [[]]
