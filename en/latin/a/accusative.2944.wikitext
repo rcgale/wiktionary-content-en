@@ -8,6 +8,8 @@ Accusative, <i>[[Adjective]]</i>, ''a manner that reflects a finding of fault or
 <BR>• [[Spanish]]: [[Acusativo]]
 <BR> 
 
+----
+
 Accusative, <i>[[Noun]]</i>, ''in grammar a case that indicates the object of a phrase or sentence''. 
 <P> <H3>Translations</H3>
 <BR>• [[French]]: [[Accusatif]]
