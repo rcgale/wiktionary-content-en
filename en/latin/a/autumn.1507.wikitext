@@ -8,6 +8,7 @@
 *[[French]]: [[automne]]
 *[[Hebrew]]: [[סתיו]]
 *[[Mäori]]: [[ngahuru]]
+*[[Polish]]: [[jesień]]
 *[[Portuguese]]: [[outono]]
 *[[Spanish]]: [[otoño]]
 *[[Yiddish]]: [[האַרבּסט]]
