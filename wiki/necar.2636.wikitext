@@ -1,0 +1,1 @@
+NECAR (SE), {v}, [en:(in water) drown][fr:Noyez-vous][it:Annegarsi][es:Ahogúese][pt:Afogue-se][de:Ertrinken Sich].
