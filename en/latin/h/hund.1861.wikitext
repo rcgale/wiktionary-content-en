@@ -10,11 +10,12 @@ SAMPA /'hUnt/
 
 ====Translations====
 
-*Arabic [[كلب]]
-*English [[dog]]
-*[[Esperanto]] [[hundo]]
-*French [[chien]]
-*Greek [[σκυλος]]
-*Hebrew [[כלב]]
-*Russian [[собака]]
-*[[Spanish]] [[perro]]
+*[[Arabic]]: [[كلب]]
+*[[Dutch]]: [[hond]]
+*[[English]]: [[dog]]
+*[[Esperanto]]: [[hundo]]
+*[[French]]: [[chien]]
+*[[Greek]]: [[σκυλος]]
+*[[Hebrew]]: [[כלב]]
+*[[Russian]]: [[собака]]
+*[[Spanish]]: [[perro]]
