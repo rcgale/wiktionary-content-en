@@ -1,0 +1,2 @@
+===Noun===
+#A person who appeases.
