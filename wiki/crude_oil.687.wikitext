@@ -1,3 +1,11 @@
-'''Translations'''
-*de:[[Rohöl]]
-*es:[[crudo]]
+# Unrefined [[oil]]; as it is found in the ground.
+
+== Translations ==
+* Fr: [[pétrole brute]]
+* De: [[Rohöl]]
+* Es: [[crudo]]
+
+== See also ==
+
+* [[petroleum]]
+* [[crude]]
