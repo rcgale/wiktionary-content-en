@@ -5,6 +5,7 @@ Middle English, from Old French ''pais'', from Latin ''pax, pac-'' peace.  See a
 
 ===Translations===
 *[[Dutch]] : [[vrede]]
+*[[Finnish]]: [[rauha]]
 *[[French]] : [[paix]]
 *[[Frisian]] : [[frede]]
 *[[German]] : [[Frieden]]
