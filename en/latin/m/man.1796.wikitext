@@ -2,3 +2,7 @@
 
 # (plural: Men) An adult male human
 # The species homo sapiens
+
+==Translations==
+
+*nl: [[man]] (1), de [[mens]] (2)
