@@ -8,6 +8,9 @@
 # {{computing}} The convention by which bit patterns with [[high bit]] 0 represent positive numbers from 0 to <math>2^{n-1} - 1</math> directly, while bit patterns with high bit 1 represent negative numbers from -1 to <math>-2^{n - 1}</math>, ''n'' being the [[word size]] of the machine, and the [[numeric complement]] of a number is its twos complement.
 #: ''Nearly all modern computers use twos complement for integer arithmetic.''
 
+=== Translations ===
+*{{fi}}: [[kahden komplementti]]
+
 ===Related terms===
 * [[complement]]
 * [[numeric complement]]
