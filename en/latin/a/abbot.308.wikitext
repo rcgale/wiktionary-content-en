@@ -10,3 +10,5 @@ Anglo Saxon ''abbod'', ''abbad'', Latin ''abbas'', ''abbatis'', Greek [[&#7936&b
 ===Derived phrases===
 *'''Abbot of the people''': a title formerly given to one of the chief magistrates in [[Genoa]]. 
 *'''Abbot of Misrule''' (or '''Lord of Misrule'''), in [[mediæval]] times, the master of [[revels]], as at [[Christmas]]; in Scotland called the [[Abbot of Unreason]]. - ''Encyclopedia Britanica''
+
+<HR> <P> <H3>Translations</H3><BR>•[[French]] fr: [[Abbé]]<BR>•[[German]] de: [[Abt]]<BR>•[[Interlingua]] ia: [[Abbate]]<BR>•[[Italian]] it: [[]]<BR>•[[Portuguese]] pt: [[Abade]]<BR>•[[Spanish]] es: [[Abad]]<BR>•[[]]: [[]]
