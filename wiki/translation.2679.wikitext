@@ -6,3 +6,4 @@
 *[[French]]: [[traduction]]
 *[[Interlingua]]: [[traduction]]
 *[[Portuguese]]: [[tradução]]
+*[[Spanish]]: [[traducción]]
