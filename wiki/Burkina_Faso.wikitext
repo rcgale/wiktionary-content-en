@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Burkina Faso.
+#:'''Translations'''
+#:*[[Danish]]: Burkina Faso
+#:*[[Dutch]]: Burkina Faso
+#:*[[Esperanto]]: [[Burkino]]
+#:*[[Finnish]]: Burkina Faso
+#:*[[French]]: Burkina Faso
+#:*[[German]]: Burkina Faso
+#:*[[Greek]]: [[Μπουρκίνα Φάσο]]
+#:*[[Interlingua]]: Burkina Faso
+#:*[[Italian]]: Burkina Faso
+#:*[[Polish]]: Burkina Faso
+#:*[[Portuguese]]: [[Burquina Faso]]
+#:*[[Russian]]: [[Буркина-Фасо]]
+#:*[[Spanish]]: Burkina Faso
+#:*[[Swedish]]: Burkina Faso
+
+''See'': [[Countries of the world]]
