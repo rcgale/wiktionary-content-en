@@ -20,7 +20,7 @@
 *BOT. : [[botany]]
 *c. : [[city]]
 *Conj.: [[conjunction]]
-*Ecol.: [[ecology]]
+*ECOL.: [[ecology]]
 *Electr.: [[electricity]]
 *Electron: [[electronics]]
 *f.: [[female]]
