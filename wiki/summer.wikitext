@@ -10,6 +10,8 @@
 *[[French]]: [[été]]
 *[[German]]: [[Sommer]]
 *[[Hebrew]]: [[קיץ]] (KAH-yitz)
+*[[Japanese]]: [[夏]] (なつ;natsu)
+*[[Korean]]: [[여름]] (yeoreum)
 *[[Mäori]]: [[raumati]]
 *[[Polish]]: [[lato]]
 *[[Portuguese]]: [[verão]]
