@@ -3,5 +3,6 @@
 #Related to the city
 
 ===Translations===
-*French: [[urbain]]]
+*Dutch: [[stedelijk]]
+*French: [[urbain]]
 *Spanish: [[urbano]]
