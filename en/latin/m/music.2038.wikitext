@@ -6,6 +6,7 @@
 #:'''Translations'''
 #:*[[Dutch]]: [[muziek]]
 #:*[[French]]: [[musique]]
+#:*German: [[Musik]]
 
 == Further reading ==
 
