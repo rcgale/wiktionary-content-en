@@ -20,5 +20,5 @@ From mid nineteenth century German ''Akkordion'' based on Italian ''accordare'' 
 <BR>• [[Interlingua]]: [[Accordion]]
 <BR>• [[Italian]]: [[Fisarmonica]]
 <BR>• [[Portuguese]]: [[Acordeão]]
-<BR>• [[Spanish]]: [[Acordeón]]
+<BR>• [[Spanish]]: [[Acordión]]
 <BR>
