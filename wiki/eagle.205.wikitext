@@ -26,7 +26,7 @@
 *[[Italian]]: [[Aquila]], [[Àquila]]
 *[[Japanese]]: [[ワシ]] (needs to be checked by speaker)
 *[[Korean]]: [[독수리]] (needs to be checked by speaker)
-*[[Latin]]: [[Aqvila]]
+*[[Latin]]: [[Aquila]]
 *[[Latvian]]: [[Ērglis]]
 *[[Lithuanian]]: [[Erelis]]
 *[[Norwegian]]: [[Ørn]]
