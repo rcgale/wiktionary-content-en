@@ -25,7 +25,7 @@ Derived from the preposition meaning "on"
 ====Definition====
 #In each; to or for each; as, "twenty leagues a day", "a hundred pounds a year", "a dollar a yard", etc.
 ===Preposition===
-====Etymology===
+====Etymology====
 Abbreviated form of ''[[an]]'' (Anglo Saxon ''on''). See [[On]])
 #''(Obsolete):'' In; on; at; by.
 #:'''Examples and Quotations'''
