@@ -5,3 +5,4 @@
 *de: [[Pfund]]
 *fr: [[livre]]
 *nl: [[pond]]
+*pl: [[funt]]
