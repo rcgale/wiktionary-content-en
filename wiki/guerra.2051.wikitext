@@ -1,0 +1,13 @@
+==Spanish==
+
+==[[Noun]]==
+
+#[[War]]
+
+===Examples===
+
+* Guerra entre Estados Unidos e Irak ''War between the United States and Irak''
+
+===Synonyms====
+
+* [[conflicto bélico]]
