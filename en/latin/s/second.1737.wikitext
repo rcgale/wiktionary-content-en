@@ -2,7 +2,7 @@
 ===[[noun]]===
 
 # One-sixtieth of a [[minute]] in both [[time]] and [[angle]]s.
-# The SI unit of time.
+# The SI unit of time.  Defined as the duration of 9,192,631,770 periods of radiation corresponding to the transition between two hyperfine levels of cesium 133 in a ground state at a temperature of 0 K.
 # A short, indeterminate amount of time: "I'll be there in a second."
 # An manufactured item which, though still usable, fails to meet quality control standards.
 
