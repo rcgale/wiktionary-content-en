@@ -1,2 +1,3 @@
-* [[barter]]
-* [[freedom of speech]]
+''[[adjective]]:''
+
+# Sorted according to the order of an [[alphabet]].
