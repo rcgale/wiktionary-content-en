@@ -12,4 +12,5 @@ American English for [[colour]]
 
 *[[English(British)]]: [[Colour]]
 *he: [[צבע]]
+*pl: [[kolor]]
 *yi: [[פאַרבּ]]
