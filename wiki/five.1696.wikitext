@@ -5,11 +5,11 @@ Old English ''fíf'', from Germanic ''*fimfi'', from PIE ''*penkwe''. Cognate to
 # [[Two]] plus [[three]]. The typical number of [[finger]]s on a [[hand]], including the [[thumb]]. Ordinal: [[fifth]].
 
 ==Translations ==
-*de: [[fünf]]
-*es: [[cinco]]
-*fr: [[cinq]]
+*German: [[fünf]]
+*Spanish: [[cinco]]
+*French: [[cinq]]
 *Frisian: [[fiif]]
 *Icelandic: [[fimm]]
 *Lojban: [[mu]]
-*nl: [[vijf]]
+*Dutch: [[vijf]]
 *Korean: [[다섯]] (daseot), [[오]] (o)
