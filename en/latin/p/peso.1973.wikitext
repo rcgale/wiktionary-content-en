@@ -1,4 +1,13 @@
 * Name of the currency of various countries : Argentina, Chile, Mexico and Phillipines.
+Examples
+
+*Chile's peso 
+==Translations==
+:French : le peso chilien
+
+* Mexico's peso 
+==Translations==
+:Fench : peso mexicain
 
 ----
 Spanish
