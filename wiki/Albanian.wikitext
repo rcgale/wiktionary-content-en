@@ -2,7 +2,7 @@
 #A person from [[Albania]] or of Albanian descent.
 #:'''Translations'''
 #:*Dutch:  [[Albanees]] (masc.), [[Albanese]] (fem.)
-#Language, primarily spoken in [[Albania]].
+#Language, primarily spoken in [[Albania]]. (wikipedia: [[w:Albanian language|Albanian language]])
 #:'''Translations'''
 #:*Dutch: [[Albanees]]
 
