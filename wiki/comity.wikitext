@@ -1,0 +1,11 @@
+===Etymology===
+Latin ''comitas'' from ''comis'' (courteous)
+
+===Pronunciation===
+IPA /'k&#594;m&#618;ti/
+
+===Noun===
+#An association of nations for their mutual benefit
+
+===Mass noun===
+#Courtesy and considerate behaviour towards others.
