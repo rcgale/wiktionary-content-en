@@ -1,11 +1,20 @@
+==[[Noun]]==
+
+*Person living in [[Europe]]
+
+===Translations===
+
+*Dutch: [[Europeaan]]
+
 ==[[Adjective]]==
 
 *Related to [[Europe]]
 
 ===Translations===
 
-*French : [[européen]]
-*Spanish : [[europeo]]
+*Dutch: [[Europees]]
+*French: [[européen]]
+*Spanish: [[europeo]]
 
 ===Related words===
 
