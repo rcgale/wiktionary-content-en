@@ -1,3 +1,4 @@
-Abbreviation for: 
+===Abbreviation===
 
-*anno domini
+#anno domini, literally "in the year of our Lord".  
+#:When used correctly it appears before the year number.  Thus AD 123, and '''not''' 123 AD.
