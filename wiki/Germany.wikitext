@@ -6,5 +6,6 @@
 #:*[[Esperanto]]: [[Germanio]]
 #:*[[French]]: [[Allemagne]]
 #:*[[German]]: [[Deutschland]]
+#:*[[Polish]]: [[Niemcy]]
 
 ''See:'' [[Countries of the world]]
