@@ -7,5 +7,6 @@
 #:*[[French]]: [[Belgique]]
 #:*[[German]]: [[Belgien]]
 #:*[[Hebrew]]: [[בלגיה]]
+#:*[[Polish]]: [[Beligia]]
 
 ''See:'' [[Countries of the world]]
