@@ -11,7 +11,7 @@ From medival Latin [[dictionarium]].
 ===Translations===
 *Danish: [[ordbog]]
 *Dutch: [[woordenboek]]
-*Esperanto: [[vortaro]]
+*[[Esperanto]]: [[vortaro]] ([[vorto|vort]]´[[aro|ar]]´o ).
 *Estonian: [[sõnaraamat]]
 *Finnish: [[sanakirja]]
 *French: [[dictionnaire]]
