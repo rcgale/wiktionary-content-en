@@ -31,6 +31,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 ==Translations==
 ''Meaning: noun 1''
 *Chinese: [[&#29356;]]
+*Dutch: [[hond]]
 *French: [[chien]]
 *Frisian: [[hûn]]
 *German: [[Hund]]
