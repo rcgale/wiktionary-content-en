@@ -14,12 +14,13 @@
 *German: Katze, f
 *Spanish: gato
 *French: chat
-*Hebrew: חתול
+*Hebrew: ????
 *Italian: gatto
 *Japanese: neko
-*Korean: 고양이 (go-yang-i)
+*Korean: ??? (go-yang-i)
 *Dutch: kat
 *Norwegian: katt
 *Polish: kot
 *Portuguese: gato
 *Swedish: katt
+*Lojban: mlat
