@@ -4,4 +4,5 @@ Abbreviation for:
 
 '''translations'''
 
-* Finnish: [[EU]], Euroopan Unioni
+*Dutch: EU (Europese Unie)
+*Finnish: EU (Euroopan Unioni)
