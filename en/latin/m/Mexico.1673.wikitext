@@ -15,3 +15,8 @@ French
 '''Notes'''
 
 * Mexico is only used for the city, the country has a different name ([[Mexique]])
+
+----
+German
+
+#Mexiko: A country in the Western Hemisphere.
