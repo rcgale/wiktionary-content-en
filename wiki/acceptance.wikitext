@@ -15,7 +15,8 @@ From Old French ''accepter''; see also [[accept]]
 #:*What acts shall amount to such an ''acceptance'' is often a question of great [[nicety]] and difficulty. - Mozley and Whitely: ''Law Dictionary''
 #:*In modern law, ''proposal'' and ''acceptance'' are the constituent elements into which all contracts are resolved.
 #:'''Derived phrases'''
-#:*'''Acceptance of a bill of exchange''', '''check''', '''draft''', or '''order''', is an engagement to pay it according to the terms. This engagement is usually made by writing the word "accepted" across the face of the bill. #:*'''Acceptance of goods''', under the statute of frauds, is an [[intelligent]] acceptance by a party [[knowing]] the nature of the [[transaction]].
+#:*'''Acceptance of a bill of exchange''', '''check''', '''draft''', or '''order''', is an engagement to pay it according to the terms. This engagement is usually made by writing the word "accepted" across the face of the bill.
+#:*'''Acceptance of goods''', under the statute of frauds, is an [[intelligent]] acceptance by a party [[knowing]] the nature of the [[transaction]].
 #[[Acceptation]]. [Obsolete]
 #:'''Derived phrase'''
 #:*'''Acceptance of persons''', [[partiality]], [[favoritism]]. See under [[Accept]].
