@@ -8,7 +8,7 @@
 #:*[[French]]: France
 #:*[[German]]: [[Frankreich]]
 #:*[[Hebrew]]: [[צרפת]]
-#:*[[Hungarian]]: Franciaország
+#:*[[Hungarian]]: [[Franciaország]]
 #:*[[Polish]]: [[Francja]]
 #:*[[Spanish]]: [[Francia]]
 ''See:'' [[Countries of the world]]
