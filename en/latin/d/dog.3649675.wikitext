@@ -25,6 +25,7 @@ Plural = dogs
 #:*Icelandic: [[hundur]]
 #:*Inuktitut: [[qimmiq]]
 #:*Italian: [[cane]]
+#:*Korean: [[개]] (gae)
 #:*Lojban: [[gerku]]
 #:*Malayalam: [[നായ്]]
 #:*Maori: [[kurii]]
