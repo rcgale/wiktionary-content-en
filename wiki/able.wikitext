@@ -1,4 +1,8 @@
-'''Able''', ''[[adjective (part of speech)|adjective]]'' [''[[Comp. (part of speech)|Comp.]]'' [[Abler]] (&?;); ''[[superl. (part of speech)|superl.]]'' [[Ablest]] (&?;).] [OF. ''habile'', L. ''habilis'' that may be easily held or [[managed]], apt, [[skillful]], fr. ''habere'' to have, hold. Cf. [[Habile]] and see [[Habit]].]
+===Etymology===
+[OF. ''habile'', L. ''habilis'' that may be easily held or [[managed]], apt, [[skillful]], fr. ''habere'' to have, hold. Cf. [[Habile]] and see [[Habit]].]
+===Adjective===
+''[[Comparative]]:'' [[Abler]]<br>
+''[[Superlative]]'' [[Ablest]]  
 
 <ol>
 <li>Fit; adapted; suitable. [Obs.]
@@ -19,8 +23,8 @@
 
 '''Synonyms:''' -- [[Competent]]; qualified; fitted; [[efficient]]; [[effective]]; capable; [[skillful]]; clever; [[vigorous]]; powerful.
 </ol>
------
-'''Able''', ''[[transitive verb (part of speech)|transitive verb]]''
+
+===[[Transitive verb]]===
 
 <ol>
 <li>To make able; to [[enable]]; to strengthen. ''[[Chaucer (source)|Chaucer]].''
@@ -30,5 +34,5 @@
 <code>I 'll ''able'' them.</code> ''[[Shakespeare (source)|Shakespeare]].''
 </ol>
 
-==Translations==
+===Translations===
 Lojban: [[kakne]]
