@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Central America. Official name: Republic of Guatemala.
+#:'''Translations'''
+#:*[[Chinese]]: [[危地马拉]]
+#:*[[Danish]]: Guatemala
+#:*[[Dutch]]: Guatemala
+#:*[[Esperanto]]: [[Gvatemalo]]
+#:*[[Finnish]]: Guatemala
+#:*[[French]]: Guatemala
+#:*[[German]]: Guatemala
+#:*[[Greek]]: [[Γουατεμάλα]]
+#:*[[Interlingua]]: Guatemala
+#:*[[Italian]]: Guatemala
+#:*[[Polish]]: [[Gwatemala]]
+#:*[[Portuguese]]: Guatemala
+#:*[[Russian]]: [[Гватемала]]
+#:*[[Spanish]]: Guatemala
+#:*[[Swedish]]: Guatemala
+
+''See'': [[Countries of the world]]
