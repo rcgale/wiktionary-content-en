@@ -1,0 +1,9 @@
+Acclaim, <i>[[Verb]]</i>, ''to cheer with loud applause, to salute with great approval''.
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Acclamer]]
+<BR>• [[German]]: [[Beifall]]
+<BR>• [[Interlingua]]: [[Acclamar]]
+<BR>• [[Italian]]: [[Acclamare]]
+<BR>• [[Portuguese]]: [[]]
+<BR>• [[Spanish]]: [[Aclamar]]
+<BR>
