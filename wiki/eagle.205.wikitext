@@ -20,6 +20,7 @@
 *[[Finnish]]: [[Kotka]]
 *[[French]]: [[Aigle]] (1)
 *[[Frisian]]: [[Earn]]
+*[[Georgian]]: [[არწივი]] (needs to be checked by speaker)
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
 *[[Greek]]: [[Aετός]]
 *[[Hebrew]]: [[עיט]]
