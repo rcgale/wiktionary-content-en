@@ -1,2 +1,8 @@
+==English==
 ===Abbreviation===
 By the Way
+
+==Dutch==
+#Abbreviation of [[Belasting op de toegevoegde waarde]]
+#:'''Translations'''
+#:*English: [[VAT]]
