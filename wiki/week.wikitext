@@ -26,6 +26,7 @@ Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (
 
 ==Translations==
 
+* es: [[semana]]
 * de: [[Woche]]
 * fr: [[semaine]]
 *he: [[שבוע]]
