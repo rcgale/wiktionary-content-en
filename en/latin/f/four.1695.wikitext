@@ -12,3 +12,4 @@ Old English ''feower'', from Germanic ''*fiþworiz'', from PIE ''*kwetwores''. C
 *Icelandic: [[fjórir]], [[fjórar]], [[fjögur]], masc, fem, neuter.
 *Lojban: [[vo]]
 *nl: [[vier]]
+*Korean: [[넷]] (net), [[사]] (sa)
