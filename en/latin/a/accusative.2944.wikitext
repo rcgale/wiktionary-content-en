@@ -4,7 +4,7 @@ Accusative, <i>[[Adjective]]</i>, ''a manner that reflects a finding of fault or
 <BR>• [[German]]: [[Akkusativ]]
 <BR>• [[Interlingua]]: [[Accusative]]
 <BR>• [[Italian]]: [[Accusativo]]
-<BR>• [[Portuguese]]: [[Accusative]]
+<BR>• [[Portuguese]]: [[Acusativo]]
 <BR>• [[Spanish]]: [[Acusativo]]
 <BR> 
 
@@ -14,6 +14,6 @@ Accusative, <i>[[Noun]]</i>, ''in grammar a case that indicates the object of a 
 <BR>• [[German]]: [[Akkusativ]]
 <BR>• [[Interlingua]]: [[Accusativo]]
 <BR>• [[Italian]]: [[Accusativo]]
-<BR>• [[Portuguese]]: [[Accusative]]
+<BR>• [[Portuguese]]: [[Acusativo]]
 <BR>• [[Spanish]]: [[Acusativo]]
 <BR>
