@@ -3,6 +3,7 @@
 #:'''Translations'''
 #:*[[Dutch]]: [[weinig]]
 #:*[[French]]: [[peu de]]
+#:*[[German]]: [[wenige]], [[einige]]
 
 ===Related words===
 * [[a few]]
