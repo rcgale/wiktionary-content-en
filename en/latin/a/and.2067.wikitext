@@ -6,6 +6,7 @@
 ==translation==
 
 *[[Arabic]]: [[و]]
+*[[Dutch]]: [[en]]
 *[[German]]:[[und]]
 *[[Greek]]: [[και]]
 *[[French]]:[[et]]
