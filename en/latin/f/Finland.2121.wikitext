@@ -5,6 +5,7 @@
 # One of the [[Scandinavian]] countries.
 #:'''Translations'''
 #:*[[Dutch]]: Finland
+#:*[[Finnish]]: [[Suomi]]
 #:*[[French]]: [[Finlande]]
 #:*[[German]]: [[Finnland]]
 #:*[[Polish]]: [[Finlandia]]
