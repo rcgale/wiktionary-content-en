@@ -1,7 +1,9 @@
 ===Meanings===
-1.-'''nl:''' Traditionally the first of the four [[season]]s, normally from [[March]] 21 to [[June]] 20.
+#'''fra''' Feminine form of the adjective ''lent'' meaning slow
 
-2.-'''es:''' Object, usually of glass, that focuses or defocuses the light that passes through it.
+#'''nla''' Traditionally the first of the four [[season]]s, normally from [[March]] 21 to [[June]] 20; spring
+
+#'''spa''' and '''ita''' Object, usually of glass, that focuses or defocuses the light that passes through it; a lens
 
 ===Translations===
 *en: [[spring]] (1), [[lens]] (2)
