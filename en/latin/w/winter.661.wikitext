@@ -31,6 +31,9 @@ Plural: winters
 #:*[[Swedish]]: [[vinter]]
 #:*[[Turkish]]: [[kiş]]
 #:*[[Yiddish]]: [[װינטער]] (VIN-ter)
+
+==Related words==
+*[[atomic winter]]
 ----
 == Dutch ==
 'win-ter /wInt@R/, ''masculine noun'', ''plural'' -s /-s/, winter.
