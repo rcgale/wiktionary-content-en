@@ -4,7 +4,7 @@ The [[cardinal numeral]] occurring after [[six]] and before [[eight]], represent
 
 [[adjective]]
 
-A set or group with seven components. ''There are seven days in a week.''
+Describing a set or group with seven components. ''There are seven days in a week.''
 
 
 '''Translations'''
