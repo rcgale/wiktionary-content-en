@@ -1,4 +1,4 @@
-'''Crow''' 
+/krō/
 
 [[noun|n.]]
 # A [[bird]], usually black, of the genus ''Corvus'', having a strong conical beak, with projecting bristles. It has a harsh, croaking note. See [[Caw]].
