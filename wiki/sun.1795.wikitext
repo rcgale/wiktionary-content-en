@@ -7,4 +7,5 @@ A [[star]], especially the star at the center of our [[solar system]].
 *de: [[Sonne]]
 *fr: [[soleil]]
 *is: [[sól]]
+*Korean: [[해]] (hae), [[태양]] (taeyang)
 *nl: [[zon]]
