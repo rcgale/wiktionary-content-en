@@ -1,0 +1,6 @@
+Grupo da personoj kiuj kantas
+
+===[[Traduko]]j
+
+*[[Angla]]: [[choir]]
+*[[Hispana]]: [[coro]].
