@@ -34,13 +34,13 @@
 [en] /en/ 
 
 # ''preposition'' expressing being contained
+:''Estoy en casa . I am at home''
 # preposition used for time indication
+# Prepositions used before names of languages
+: ''No conozco esta palabra en francés''
+: ''Traducir del inglés al español''
 # preposition used after some verbs
-: pensar en
-
-=== Examples ===
-
-* Estoy en casa . I am at home
+: pensar en. ''Pienso en tí''
 
 
 === Translations ===
