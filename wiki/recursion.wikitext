@@ -1,11 +1,14 @@
+==Etymology==
+From Latin '''[[recursio]]''', ''[[running again]]'', from prefix '''[[re-]]''', ''again'', + '''[[cursio]]''', ''running'', from '''[[cursus]]''', perfect passive participle of '''[[currire]]''', ''[[run]]'', + noun of action suffix '''[[-io]]'''
+
 ==English==
 ==Noun==
 '''recursion'''
 
 #The act of [[recur]]ring.
-#(''mathematics'') The act of defining a function partly in terms of that function.
+#(''mathematics'') The act of defining a function partly in terms of that function itself.
 #:''n! = n &times; (n - 1)! (for n > 0) or 1 (for n = 0) defines the factorial function using recursion.''
-#(''computing'') The calling of a function from within that function.
+#(''computing'') The calling of a function from within that same function.
 #:''This function uses recursion to compute factorials.''
 
 The image below was generated using recursion, embedding a (former) image of this page in the image itself, then reducing this in size and embedding it in the image itself, and so on.
