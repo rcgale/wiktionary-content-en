@@ -4,6 +4,7 @@
 ====Translation====
 *[[English]]: [[Spring]]
 *[[French]]: [[Printemps]]
+*[[German]]: [[Frühling]]
 *[[Hebrew]]: [[אביב]]
 *[[Polish]]: [[Wiosna]]
 *[[Spanish]]: [[Primavera]]
@@ -14,6 +15,7 @@
 #Feminine form of the adjective ''lent'' meaning [[slow]]
 ====Translations====
 *[[Dutch]]: [[Langzaam]] 
+*[[German]]: [[langsam]]
 *[[Hebrew]]: [[איטית]]
 ----
 ==Italian==
@@ -21,7 +23,8 @@
 #Object, usually of glass, that focuses or defocuses the light that passes through it
 ====Translations====
 *[[English]]: [[Lens]]
-*[[Dutch]]: [[Lens]] 
+*[[Dutch]]: [[Lens]]
+*[[German]]: [[Linse]]
 *[[Hebrew]]: [[עדשה]]
 *[[Yiddish]]: [[לינז]] (also [[אָפטיש גלאָז]])
 ----
@@ -31,5 +34,6 @@
 ====Translations====
 *[[English]]: [[Lens]]
 *[[Dutch]]: [[Lens]]
+*[[German]]: [[Linse]]
 *[[Hebrew]]: [[עדשה]]
 *[[Yiddish]]: [[לינז]] (also [[אָפטיש גלאָז]])
