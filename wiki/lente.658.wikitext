@@ -1,7 +1,9 @@
 ===Meanings===
-'''nl:''' Traditionally the first of the four [[season]]s, normally from [[March]] 21 to [[June]] 20.
+1.-'''nl:''' Traditionally the first of the four [[season]]s, normally from [[March]] 21 to [[June]] 20.
+
+2.-'''es:''' Object, usually of glass, that focuses or defocuses the light that passes through it.
 
 ===Translations===
-*en: [[spring]]
-*es: [[primavera]]
-*fr: [[printemps]]
+*en: [[spring]] (1), [[lens]] (2)
+*es: [[primavera]] (1)
+*fr: [[printemps]] (1)
