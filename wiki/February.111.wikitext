@@ -1,4 +1,4 @@
-[Fe-bru-a-ry] /___/
+[Fe-bru-a-ry] /fĕb'r[ooˉ]-ĕr'ē/fĕb'y[ooˉ]-/
 
 #February is the 2nd [[month]] in the Gregorian [[calendar]]. It usually has 28 [[day|days]], except in a [[leap year]] when it has 29.
 
