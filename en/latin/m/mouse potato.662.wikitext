@@ -1,7 +1,6 @@
+==Etymology==
+Comes from [[Couch Potatoe]]
+==Pronunciation==
 [Mouse Po-ta-toe] /____/
-
-1) A person who spends all there time eating and using a computer.
-
-===Etymology===
-
-Varient of [[Couch Potatoe]]
+==Part of Speech==
+#A person who spends all there time eating and using a computer.
