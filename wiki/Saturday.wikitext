@@ -3,6 +3,7 @@
 #The sixth day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
+*Blackfoot: To'tohtáátoyiiksistsiko
 *de: [[Samstag]]
 *eo: [[sabato]]
 *es: [[sábado]]
