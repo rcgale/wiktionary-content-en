@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Caribbean. Official name: Republic of Cuba.
+#:'''Translations'''
+#:*[[Chinese]]: [[古巴]]
+#:*[[Dannish]]: Cuba
+#:*[[Dutch]]: Cuba
+#:*[[Esperanto]]: [[Kubo]]
+#:*[[Finnish]]: [[Kuuba]]
+#:*[[French]]: Cuba
+#:*[[German]]: [[Kuba]]
+#:*[[Greek]]: [[Κούβα]]
+#:*[[Interlingua]]: Cuba
+#:*[[Italian]]: Cuba
+#:*[[Polish]]: [[Kuba]]
+#:*[[Portuguese]]: Cuba
+#:*[[Russian]]: [[Куба]]
+#:*[[Spanish]]: Cuba
+#:*[[Swedish]]: [[Kuba]]
+
+''See'': [[Countries of the world]]
