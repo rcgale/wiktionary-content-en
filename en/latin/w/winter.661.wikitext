@@ -4,4 +4,5 @@
 ===Translations===
 
 *es: [[invierno]]
+*et: talv
 *fr: [[hiver]]
