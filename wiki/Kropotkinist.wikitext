@@ -1,0 +1,3 @@
+noun 
+
+an adherent of Peter Kropotkin's anarchist-communism; an anarcho-collectivist
