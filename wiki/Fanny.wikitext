@@ -1,0 +1,4 @@
+[Fan-ny] /____/
+
+1)''British English'': Another name for the [[vagina]]
+2)''American English'': Another name for the [[bottom]]
