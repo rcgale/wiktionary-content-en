@@ -1,0 +1,13 @@
+Koira ([[CanisFamiliaris]], lat.) on nelijalkainen nisäkäs.
+Koiria pidetääm kotieläiminä; luonnonvaraisina niitä esiintyy
+vain villiintyneinä.
+
+Sanontoja:
+#'''Se koira älähtää, johon kalikka kalahtaa'''
+
+Termi muilla kielillä:
+
+*Englanti [[dog]]
+*Japani [[neko]]
+*Ruotsi [[hund]]
+*Saksa [[hund]]
