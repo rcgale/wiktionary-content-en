@@ -2,6 +2,7 @@
 
 #City square where traders set up stalls and buyers browse the merchandise
 #Place where you can buy and send something
+#Trying to sell something to someone 
 
 ===Translations===
 *French: [[marché]]
