@@ -40,4 +40,4 @@ Plural: winters
 'win-ter /wInt@R/, ''masculine noun'', ''plural'' -s /-s/, winter.
 ----
 == German ==
-'Win-ter /???/, ''masculine noun'', ''plural'' ???, winter.
+'Win-ter /???/, ''masculine noun'', ''plural'' , winter.
