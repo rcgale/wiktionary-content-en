@@ -23,6 +23,7 @@
 *[[Frisian]]: [[Earn]]
 *[[Gaelic(Irish)]]: [[Iolar]] (needs to be checked by speaker)
 *[[Gaelic(Manx)]]: [[Urley]], [[Peesh Jeih Dollar]] (needs to be checked by speaker)
+*[[Gaelic(Scottish)]]: [[iolair]] (needs to be checked by speaker)
 *[[Georgian]]: [[არწივი]] (needs to be checked by speaker)
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
 *[[Greek]]: [[Aετός]]
