@@ -2,7 +2,7 @@
 
 '''proper noun'''
 
-# Territory in Northern Africa.
+# Territory in Northern Africa. Former Spanish colony, now under Morocco's control.
 #:'''Translations'''
 #:*[[Danish]]: [[Vestsahara]]
 #:*[[Dutch]]: [[Westelijke Sahara]]
@@ -18,5 +18,8 @@
 #:*[[Russian]]: [[Западная Сахара]]
 #:*[[Spanish]]: [[Sáhara Occidental]]
 #:*[[Swedish]]: [[Västsahara]]
+#:*[[Volapük]]: [[Sahar Vesüdik]]
 
-''See'': [[Countries of the world]]
+''See'': 
+*[[Countries of the world]]
+*[[Morocco]]
