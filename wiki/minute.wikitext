@@ -1,23 +1,18 @@
-''noun:''
-
 [min-ute] /min'-it/
 
+''noun:''
 # A [[time]] period of 60 [[second]]s; also one 60th of an [[hour]].
 # One 60th of a [[degree]].
 # A (usually formal) annotation of (''especially'') a meeting, more commonly found in the plural form as e.g. "The minutes of a meeting".
 
 ''verb:''
-
 # To document, (''especially'') a meeting. Example: "I'll minute this evening's meeting". The product of minuting is usually the plural noun form, "minutes".
 
-''adjective:''
-
+''adjective:''<br>
 /my-noot'/, /my-nyoot'/
-
 # Very [[small]]. '''Synonyms:''' [[minuscule]], [[tiny]], [[diminutive]], [[insignificant]] '''Antonyms:''' [[big]],[[huge]],[[enormous]]
 
-'''Translations'''
-
+==Translations==
 ''noun''
 *es: minuto (1,2),minuta(3)
 *fr: minute (1,2,3)
