@@ -1,5 +1,5 @@
 Connotation is what a word suggests (compare whith [[denotation]]). The connotation is not the first meaning.
 
-'''Exemples'''
+'''Examples'''
 
-* [[dog]] refers to someone who is moraly reprehensible
+* [[dog]] refers to someone who is morally reprehensible
