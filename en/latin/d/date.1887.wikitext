@@ -1,5 +1,5 @@
 ===[[noun]]===
-#A specific day
+#A specific day  ''(Should this be: The number of a specific day in a given calendar, as in "What is today's date?)''
 #:'''Translations'''
 #:*[[Dutch]]: [[datum]]
 #:*[[French]]: date (on this page)
