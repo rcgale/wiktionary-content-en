@@ -1,1 +1,1 @@
-(adjective) everyday (Etymology: Latin quotidie)
+(adjective) the everyday, common, ordinary (Etymology: Latin quotidie)
