@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Overseas territory of the United Kingdom; placed in South America. Official name: Falkland Islands.
+#:'''Translations'''
+#:*[[Danish]]: [[Falklandsøerne]]
+#:*[[Dutch]]: [[Falklandeilanden]]
+#:*[[Esperanto]]: [[Falklandoj]]
+#:*[[Finnish]]: [[Falklandinsaaret]]
+#:*[[French]]: [[Iles Falkland]]
+#:*[[German]]: [[Falklandinseln]]
+#:*[[Greek]]: [[Νήσοι Φώκλαντ]], [[Νήσοι Φάλκλαντ]]
+#:*[[Interlingua]]: [[Falklands]], [[Malvinas]]
+#:*[[Italian]]: [[Isole Falkland]], [[isole Malvine]]
+#:*[[Polish]]: [[Falklandy]], [[Malwiny]]
+#:*[[Portuguese]]: [[Ilhas Falkland]]
+#:*[[Russian]]: [[Фолклендские острова]], [[Мальвинские острова]]
+#:*[[Spanish]]: [[Islas Malvinas]]
+#:*[[Swedish]]: [[Falklandsöarna]]
+
+''See'': [[Countries of the world]]
