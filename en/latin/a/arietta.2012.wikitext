@@ -1,0 +1,1 @@
+[[noun]], a short [[aria]].
