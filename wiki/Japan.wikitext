@@ -13,6 +13,9 @@
 #:*[[Japanese]] : related to Japan, inhabitant of Japan, an language of Japan
 #:*[[Nihonjinron]] : kind of books explaining the economic boom
 # A hard black enamel varnish containing asphalt
+
+''see:'' [[Countries of the world]]
+
 === Further reading ===
 
 * [[w:Japan|Wikipedia article on Japan]]
