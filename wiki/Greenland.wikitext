@@ -7,8 +7,9 @@ Green: Possibly named by Eric the Red to make the island sound nicer than it was
 
 # Self Governing island country beloning to [[Denmark]]
 #:'''Translations'''
-#:*[[Dutch]]: Greenland
+#:*[[Dutch]]: [[Groenland]]
 #:*[[Esperanto]]: [[Groenlando]]
+#:*[[French]]: [[Groenland]]
 #:*[[German]]: [[Grönland]]
 #:*[[Polish]]: [[Grenlandia]]
 #:*[[Spanish]]: [[Groenlandia]]
