@@ -4,7 +4,11 @@
 # The letter 'N'
 # In typesetting the width of an average letter in a font.
 # A prefix
+#* in: [[enlighten]]
 # A suffix
+#* used to make verbs from other parts of speech: [[enlighten]], [[soften]], [[frighten]]
+#* used to make participles of some verbs: [[break|broken]]
+#* used to make plurals of some nouns: [[ox]]en
 ----
 ==Dutch==
 [en] /en/
