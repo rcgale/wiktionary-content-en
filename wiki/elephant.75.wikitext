@@ -1,0 +1,2 @@
+[[noun|n.]]
+#A [[mammal]] of the order ''Proboscidia'', having a trunk, and two large [[ivory]] tusks jutting from the upper jaw.  Elephants are the largest land animals now existing.
