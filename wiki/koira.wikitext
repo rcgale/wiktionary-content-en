@@ -11,7 +11,7 @@ Unknown.
 *[[koiruus]] (sf), 
 *[[koiramainen]] (sf).
 ===Translations===
-*Japanese [[neko]]
+*Japanese [[犬]]
 *French [[chien]]
 *Swedish [[hund]]
 *German [[hund]]
