@@ -1,5 +1,5 @@
 == Etymology ==
-Old English ''an'' (same word as [[an]]), from Germanic ''*ainaz'', from PIE ''*oinos''. Cognate to German ''ein'', French ''un'', Russian ''????''.
+Old English ''an'' (same word as [[an]]), from Germanic ''*ainaz'', from PIE ''*oinos''. Cognate to German ''ein'', French ''un'', Russian ''один'' '''(odin)'''.
 
 == Number ==
 # The cardinality of the smallest nonempty set. The number of heads that a typical human has.
@@ -10,4 +10,3 @@ Used to refer indefinitely to a person. But ''one'' may find other uses.
 
 == Translations ==
 Lojban: [[pa]]
-Spanish: un, uno
