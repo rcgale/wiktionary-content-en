@@ -28,6 +28,7 @@
 *eo: [[vortaro]]
 *es: [[diccionario]]
 *et: [[sõnaraamat]]
+*fi: [[sanakirja]]
 *fr: [[dictionnaire]]
 *he: [[מילון]]
 *nl: [[woordenboek]]
