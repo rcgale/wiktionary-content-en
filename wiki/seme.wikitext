@@ -1,0 +1,6 @@
+[[Noun]]
+
+==Meaning==
+# [[linguistic terminology|linguistic]] As defined by the originator of the word, Charles S. Peirce in the article "[[Prologomena]] to an [[Apology]] for [[Pragmatism]]": "By a ''Seme'' I should [[mean]] anything which serves for any [[purpose]] as a [[substitute]] for an [[object]] of which it [[is]], in some sense, a [[representation]] or [[sign]]."
+
+See [[semeiotic]] [[semantics]], and [[semiotics]].
