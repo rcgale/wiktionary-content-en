@@ -12,7 +12,7 @@
 
 ''adjective:''
 
-/my-noot'/
+/my-noot'/, /my-nyoot'/
 
 # Very [[small]]. '''Synonyms:''' [[minuscule]], [[tiny]], [[diminutive]] '''Antonyms:''' [[big]],[[huge]],[[enormous]]
 
