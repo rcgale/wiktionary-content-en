@@ -1,0 +1,9 @@
+==English==
+
+'''proper noun'''
+
+# One of the [[Scandinavian]] countries.
+#:'''Translations'''
+#:*[[Dutch]]: Finland
+
+''See:'' [[Countries of the world]]
