@@ -1,14 +1,5 @@
-==[[Noun]]==
-
-Binding agreement under international law concluded by subjects of international law, namely states and international organizations.
-
-===Translations===
-*Dutch: [[verdrag]], [[overeenkomst]], [[traktaat]]
-*French: [[traité]]
-*German: [[Vertrag]]
-*Polish: [[traktat]], [[umowa]]
-*Spanish: [[tratado]]
-
+===[[Noun]]===
+#Binding agreement under international law concluded by subjects of international law, namely states and international organizations.
 ===Synonyms===
 *International agreements
 *Protocols
@@ -16,8 +7,9 @@ Binding agreement under international law concluded by subjects of international
 *Conventions
 *Exchanges of letters
 *Exchanges of note
-
-===List of treaties===
-
-*[[Treaty of Paris]]
-*[[Treaty of Guadalupe Hidalgo]]
+===Translations===
+*Dutch: [[verdrag]], [[overeenkomst]], [[traktaat]]
+*French: [[traité]]
+*German: [[Vertrag]]
+*Polish: [[traktat]], [[umowa]]
+*Spanish: [[tratado]]
