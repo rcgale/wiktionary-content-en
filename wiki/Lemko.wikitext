@@ -1,5 +1,4 @@
-==Definition==
-;'''Lemko''' (''[[noun]]'')
-: A subgroup of the [[Carpatho-Rusyn]]s.
-==Alternative spellings==
-==Pronounciation==
+===Alternative spellings===
+===Pronounciation===
+===Noun===
+#A language in the subgroup of the [[Carpatho-Rusyn]]s.
