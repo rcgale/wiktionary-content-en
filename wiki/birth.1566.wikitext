@@ -1,8 +1,10 @@
-[[noun]]
+'''Birth''' /b3T/
+
+==[[noun]]==
 #The process of childbearing.
 #A beginning or start; a point of origin.
 #The circumstances of one's background, ancestry, or upbringing ''of [[noble]] birth''.
 
-[[verb]] ''dialect''
+==[[verb]]== ''dialect''
 
 To bear children or to give birth.
