@@ -8,3 +8,4 @@
 *fr: [[samedi]]
 *nl: [[zaterdag]]
 *pl: [[sobota]]
+*pt: [[s&aacute;bado]]
