@@ -21,3 +21,5 @@
 *:DEATH.
 *::Upward---and onward, into outer space,
 *::Where she, thy kindred spirit, waiteth thee.
+==Translations==
+*he: [[החלל החיצון]]
