@@ -3,7 +3,7 @@ Derivative of [[accept]]
 ===Adjective===
 #[[Accepting]]; receiving.
 ===Noun===
-An [[accepter]]. ''[[Chapman]]'' ??
+#An [[accepter]]. ''[[Chapman]]'' ??
 ----
 ==French==
 ===Verb===
