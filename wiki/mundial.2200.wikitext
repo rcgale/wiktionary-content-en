@@ -1,0 +1,5 @@
+Spanish
+
+==[[Adjective]]==
+
+*Related to all the parts of the world, [[global]].
