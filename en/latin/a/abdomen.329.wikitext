@@ -8,4 +8,4 @@ The belly, or that part of the body between the [[thorax]] and the [[pelvis]]. A
 <li> ''([[Zo&ouml;l (subject)|Zo&ouml;l]]).'' The [[posterior]] section of the body, behind the thorax, in insects, [[crustaceans]], and other [[Arthropoda]].
 </ol>
 
-<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Abdomen]]<BR>• [[German]]: [[Abdomen]]<BR>• [[Interlingua]]: [[Abdomine]]<BR>• [[Italian]]: [[Addome]]<BR>• [[Portuguese]]: [[Abdômen]]<BR>• [[Spanish]]: [[Abdomen]]<BR>• [[]]: [[]]
+<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[]]<BR>• [[German]]: [[]]<BR>• [[Interlingua]]: [[Abdomine]]<BR>• [[Italian]]: [[Addome]]<BR>• [[Portuguese]]: [[Abdômen]]<BR>• [[Spanish]]: [[Abdomen]]<BR>• [[]]: [[]]
