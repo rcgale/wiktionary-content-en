@@ -2,6 +2,8 @@
 
 European Article Numbering
 
+A [[barcode]] [[symbology]] whose main variant, EAN-13, encodes thirteen digits, differing from [[UPC]]-A in that three of the digits in the left half are reversed so as to encode an additional digit.
+
 ==see also==
 
 *[[GTIN]]
