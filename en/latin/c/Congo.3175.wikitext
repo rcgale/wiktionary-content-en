@@ -6,7 +6,6 @@
 #:'''Translations'''
 #:*[[Dutch]]: Congo
 #:*[[French]]: Congo
-
 # Country in Central Africa with Kinshasa as capital (formerly [[Zaire]]). Official name: Democratic Republic of the Congo.
 #:'''Translations'''
 #:*[[Dutch]]: Congo
