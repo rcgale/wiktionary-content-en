@@ -14,7 +14,7 @@ en: [[and]]
 
 [en] /en/ (Spanish) 
 
-# 
+# ''preposition'' expressing being contained
 
 === Examples ===
 
