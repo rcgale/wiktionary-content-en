@@ -1,0 +1,11 @@
+[Ea-gle] /____/
+
+''noun''
+
+1) A carnivourous bird, known to have a powerful hooked bill and have keen vision.
+
+2) Old coin used in the United States.
+
+===Translationa===
+
+[[Latin]]: [[Aqvila]]
