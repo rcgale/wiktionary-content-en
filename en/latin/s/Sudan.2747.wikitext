@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Northern Africa. Official name: Republic of Sudan.
+#:'''Translations'''
+#:*[[Chinese]]: [[苏丹]]
+#:*[[Danish]]: Sudan
+#:*[[Dutch]]: Sudan, [[Soedan]]
+#:*[[Esperanto]]: [[Sudano]]
+#:*[[Finnish]]: Sudan
+#:*[[French]]: [[Soudan]]
+#:*[[German]]: Sudan
+#:*[[Greek]]: [[Σουδάν]]
+#:*[[Interlingua]]: Sudan
+#:*[[Italian]]: Sudan
+#:*[[Polish]]: Sudan
+#:*[[Portuguese]]: [[Sudão]]
+#:*[[Russian]]: [[Судан]]
+#:*[[Spanish]]: [[Sudán]]
+#:*[[Swedish]]: Sudan
+
+''See'': [[Countries of the world]]
