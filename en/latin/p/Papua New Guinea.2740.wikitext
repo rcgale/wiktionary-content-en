@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Oceania. Official name: Independent State of Papua New Guinea.
+#:'''Translations'''
+#:*[[Chinese]]: [[巴布亚新几内亚]]
+#:*[[Danish]]: [[Papua Ny Guinea]]
+#:*[[Dutch]]: [[Papoea-Nieuw-Guinea]]
+#:*[[Esperanto]]: [[Papuo-Nov-Gvineo]]
+#:*[[Finnish]]: [[Papua-Uusi-Guinea]]
+#:*[[French]]: [[Papouasie-Nouvelle-Guinée]]
+#:*[[German]]: [[Papua-Neuguinea]]
+#:*[[Greek]]: [[Παπουασία-Νέα Γουινέα]], [[Παπούα-Νέα Γουινέα]]
+#:*[[Interlingua]]: [[Papua Nove Guinea]]
+#:*[[Italian]]: [[Papua Nuova Guinea]]
+#:*[[Polish]]: [[Papua-Nowa Gwinea]]
+#:*[[Portuguese]]: [[Papua-Nova Guiné]]
+#:*[[Russian]]: [[Папуа-Новая Гвинея]]
+#:*[[Spanish]]: [[Papúa-Nueva Guinea]]
+#:*[[Swedish]]: [[Papua Nya Guinea]]
+
+''See'': [[Countries of the world]]
