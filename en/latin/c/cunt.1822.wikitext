@@ -1,9 +1,7 @@
-(UK English slang, vulgar)
-
-Noun
-
-1. Testicles.
-
-2. Nonsense or information intended to deliberately mislead.
-
-3. An expletive curse.
+(noun, often considered vulgar/offensive)
+    
+1. The female genitalia
+    
+2. (highly offensive, slang) A derogatory term for a woman  
+    
+3. (highly offensive, slang) A derogatory term for a man
