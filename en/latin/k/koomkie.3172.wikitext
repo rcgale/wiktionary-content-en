@@ -5,4 +5,4 @@ Bengali
 ===Noun===
 #technical term for a tame female elephant used as a decoy in the capture of wild male elephants.
 #:'''Quotations'''
-#"*'''1807''' - When an elephant is in a proper state to be removed from the ''keddah'', he is conducted either by '''koomkies''' or by tame males. - Thomas Williamson, ''Oriental Field Sports''
+#:*'''1807''' - When an elephant is in a proper state to be removed from the ''keddah'', he is conducted either by '''koomkies''' or by tame males. - Thomas Williamson, ''Oriental Field Sports''
