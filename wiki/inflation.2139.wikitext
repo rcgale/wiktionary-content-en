@@ -18,4 +18,4 @@
 ===[[Derivative]] [[term]]s===
 *[[core inflation]]
 ===See also===
-*[[w:Inflation (economics)|Wikipedia article about inflatio]]
+*[[w:Inflation (economics)|Wikipedia article about inflation]]
