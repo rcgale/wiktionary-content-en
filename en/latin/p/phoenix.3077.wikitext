@@ -1,6 +1,8 @@
 ==[[Proper noun]]==
 
-# A mythological bird that rises from the flames of fires.
+# A mythological bird, said to be the only one of its kind, to die by burning to ashes on a pyre of its own making and ignited by the sun, and to rise anew from the ashes. Hence, metaphorically:
+## Any thing regarded as uniquely beautiful, splendid, or excellent
+## Any thing that is reborn after apparently being destroyed
 # Some places in the [[United States]]:
 ##[[Phoenix, Arizona]]
 ##[[Phoenix, Illinois]]
@@ -20,7 +22,7 @@
 # A nickname sometimes used for [[Japan]] after [[World War II|WWII]]
 
 ===Note===
-*Manys meanings are derived from the bird reference.
+*Many meanings are derived from the bird reference.
 
 ===Translations===
 
