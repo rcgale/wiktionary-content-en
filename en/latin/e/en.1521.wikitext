@@ -39,6 +39,7 @@ Preposition
 :''en esta página''
 *  used for time indication
 : ''En la antigüedad''
+: ''En 1999, ...''
 *  used before names of languages
 : ''No conozco esta palabra en francés''
 : ''Traducir del inglés al español''
