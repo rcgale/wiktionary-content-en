@@ -21,6 +21,7 @@
 *[[Bulgarian]]: [[Oрел]]
 *[[Cebuano]]: [[Agila]]
 *[[Chamorro]]: [[Ágila]]
+*[[Cherokee]]: [[&#5028;&#5100;&#5037;&#5045;]]
 *[[Cheyenne]]: [[Netse]]
 *[[Chinese(Simplified)]]: [[老鹰]] (needs to be checked by speaker)
 *[[Chinese(Traditional)]]: [[老鷹]] (needs to be checked by speaker)
