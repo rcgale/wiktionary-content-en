@@ -6,3 +6,4 @@ Entreprise union is a type of union opposed to [[trade union]]
 * French : 
 :[[syndicat d'entreprise]] Source : ''Denise Flouzat, Japon éternelle renaissance''
 :[[syndicat d'industrie]] Source : ''online encyclopedia on Yahoo!''
+* Japanese : [[Kigyo Kumai]]
