@@ -9,3 +9,4 @@
 *nl: [[augustus]]
 *pl: [[sierpień]]
 *sv: [[augusti]]
+*sq: [[gusht]]
