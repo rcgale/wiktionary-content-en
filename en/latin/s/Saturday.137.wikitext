@@ -1,30 +1,30 @@
-[[noun]]
-
-#The sixth day of the [[week]] (according to the ISO 8601 norm).
-
-==Translations==
-*az: [[ş&#601;nb&#601;]]
+===Etymology===
+Old English ''Sætern(es)dag'' from Latin ''Saturni dies'' (day of Saturn)
+===Noun===
+#The sixth [[day]] of the [[week]] (according to the ISO 8601 norm).
+===Translations===
+*Azerbaijani: [[ş&#601;nb&#601;]]
 *Blackfoot: [[To'tohtáátoyiiksistsiko]]
-*de: [[Samstag]]
-*eo: [[sabato]]
-*es: [[sábado]]
-*et: [[laupäev]]
-*eu: [[larunbat]]
-*fr: [[samedi]]
-*fy: [[sneon]]
+*German: [[Samstag]]
+*Esperanto: [[sabato]]
+*Spanish: [[sábado]]
+*Estonian: [[laupäev]]
+*Basque: [[larunbat]]
+*French: [[samedi]]
+*Frisian: [[sneon]]
 *[[Georgian]]: [[შაბათი]]
-*he: [[שבת]] (shah-BAHT)
-*hr: [[Subota]]
-*it: [[sabato]]
-*mi: [[hätarei]]
-*nl: [[zaterdag]]
-*pl: [[sobota]]
-*pt: [[s&aacute;bado]]
+*Hebrew: [[שבת]] (shah-BAHT)
+*Croatian: [[Subota]]
+*Italian: [[sabato]]
+*Maori: [[hätarei]]
+*Dutch: [[zaterdag]]
+*Polish: [[sobota]]
+*Portuguese: [[s&aacute;bado]]
 *[[Ruanda]]: [[Kwagatandatu]]
 *[[Serbian]]: [[субота]]
 *[[Slovak]]: [[sobota]]
 *[[Somali]]: [[Sabti]]
 *[[Sotho]]: [[Moqebele]]
-*sq: [[e shtunë]]
+*Albanian: [[e shtunë]]
 *Wolof: [[Gaawu]]
-*yi: [[שבת]] (SHAH-bess)
+*Yiddish: [[שבת]] (SHAH-bess)
