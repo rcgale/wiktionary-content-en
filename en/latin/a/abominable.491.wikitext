@@ -12,3 +12,12 @@ French ''abominable''. Latin ''abominalis''. See [[Abominate]].]
 
 <code>a''bomynable'' syght of monkes" was elegant English for "a large company of friars.</code> ''[[G. P. Marsh (source)|G. P. Marsh]].''
 </ol>
+
+---- 
+'''Translations''' 
+* [[French]]: [[Abominable]] 
+* [[German]]: [[Verabscheuungswürdig]] 
+* [[Interlingua]]: [[Abominabile]] 
+* [[Italian]]: [[Abominabile]] 
+* [[Portuguese]]: [[]] 
+* [[Spanish]]: [[Abominable]]
