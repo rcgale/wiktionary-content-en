@@ -1,0 +1,11 @@
+'''Count noun'''
+
+==[[Count noun]]==
+
+A [[noun]] which is used in the plural when referring to two or more of an item.
+
+Examples:
+* woman
+* stone
+* tree
+* [[dollar]]
