@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in South America. Official name: Bolivarian Republic of Venezuela.
+#:'''Translations'''
+#:*[[Chinese]]: [[委内瑞拉]]
+#:*[[Danish]]: Venezuela
+#:*[[Dutch]]: Venezuela
+#:*[[Esperanto]]: [[Venezuelo]]
+#:*[[Finnish]]: Venezuela
+#:*[[French]]: Venezuela
+#:*[[German]]: Venezuela
+#:*[[Greek]]: [[Βενεζουέλα]]
+#:*[[Interlingua]]: Venezuela
+#:*[[Italian]]: Venezuela
+#:*[[Polish]]: [[Wenezuela]]
+#:*[[Portuguese]]: Venezuela
+#:*[[Russian]]: [[Венесуэла]]
+#:*[[Spanish]]: Venezuela
+#:*[[Swedish]]: Venezuela
+
+''See'': [[Countries of the world]]
