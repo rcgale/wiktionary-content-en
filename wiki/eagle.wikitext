@@ -9,6 +9,7 @@
 ===Translations===
 
 *[[Afrikaans]]: [[Arend]]
+*[[Albanian]]: [[Shkabë]] (needs to be checked by speaker)
 *[[Bulgarian]]: [[Oрел]]
 *[[Chinese(Simplified)]]: [[老鹰]] (needs to be checked by speaker)
 *[[Chinese(Traditional)]]: [[老鷹]] (needs to be checked by speaker)
