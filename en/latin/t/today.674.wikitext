@@ -8,7 +8,7 @@
 #:*[[Hebrew]]: [[היום]]
 #:*[[Hungarian]]: [[ma]]
 #:*[[Japanese]]: [[今日]] (きょう;kyou)
-#:*[[Korean]]: [[오늘]] (oneul)
+#:*[[Korean]]: [[오늘]] (o-neul)
 #:*[[Portuguese]]: [[hoje]]
 #:*[[Spanish]]: [[hoy]]
 #:*[[Swedish]]: [[idag]]
@@ -20,6 +20,7 @@
 #:*[[Frisian]]: [[hjoed]]
 #:*[[German]]: [[heute]]
 #:*[[Hungarian]]: [[ma]]
+#:*[[Korean]]: [[오늘]] (o-neul)
 #:*[[Swedish]]: [[idag]]
 #In the current [[era]]; nowadays: "In the 1500s, people had to do things by hand, but today we have electric tin openers."
 #:'''Translations'''
@@ -28,4 +29,5 @@
 #:*[[Frisian]]: [[hjoed de dei]], [[no]]
 #:*[[German]]: [[heutzutage]]
 #:*[[Hungarian]]: [[ma]], [[manapság]]
+#:*[[Korean]]: [[오늘날]] (o-neul-nal)
 #:*[[Swedish]]: [[idag]], [[nuförtiden]]
