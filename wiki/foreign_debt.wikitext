@@ -1,0 +1,10 @@
+The amount of money that a country has to pay to another country.
+
+'''See also'''
+
+* [[debt]]
+* [[foreign]]
+
+'''Translations'''
+
+* fr: [[dette extérieur]]
