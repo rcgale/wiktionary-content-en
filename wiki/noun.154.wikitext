@@ -1,0 +1,4 @@
+# The part of speech referring to an object, person, place, or idea.
+
+== Further reading ==
+* [[w:Part of speech|Wikipedia article on parts of speech]]
