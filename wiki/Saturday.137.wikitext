@@ -11,6 +11,7 @@
 *et: [[laupäev]]
 *eu: [[larunbat]]
 *fr: [[samedi]]
+*fy: [[sneon]]
 *[[Georgian]]: [[შაბათი]]
 *he: [[שבת]] (shah-BAHT)
 *hr: [[Subota]]
