@@ -7,7 +7,7 @@ Plural form: synonyms
 '''Examples'''
 
 '''Translations'''
-
-*es: sinónimo
-*fi: synonyymi
-*fr: synonyme
+*[[Dutch]]: [[synoniem]]
+*[[Finnish]]: [[synonyymi]]
+*[[French]]: [[synonyme]]
+*[[Spanish]]: [[sinónimo]]
