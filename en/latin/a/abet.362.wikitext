@@ -16,4 +16,4 @@ present participle & verbal noun:  [[Abetting]]
 ===Noun===
 #Act of [[abetting]]; aid. [Obsolete] - ''[[Chaucer]]''
 
-<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Encourager]]<BR>• [[German]]: [[Ermutigen Sie]]<BR>• [[Interlingua]]: [[Adjutar]], [[Incitar]],  [[Incorariar]]<BR>• [[Italian]]: [[Incoraggiare]]<BR>• [[Portuguese]]: [[]]<BR>• [[Spanish]]: [[Incitar]]<BR>• [[]]: [[]]
+<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Encourager]]<BR>• [[German]]: [[Ermutigen Sie]]<BR>• [[Interlingua]]: [[Adjutar]], [[Incitar]],  [[Incorariar]]<BR>• [[Italian]]: [[Incoraggiare]]<BR>• [[Portuguese]]: [[Ajudar]]<BR>• [[Spanish]]: [[Ayudar]], [[Incitar]]<BR>• [[]]: [[]]
