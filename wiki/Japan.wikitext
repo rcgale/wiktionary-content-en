@@ -16,3 +16,5 @@
 :synonyms :  l'Archipel, le pays du Soleil LEvant
 * Spanish : [[Japón]]
 * Korean : [[일본]] (ilbon)
+* German : Japan
+* Japanese : (Nipon)
