@@ -15,6 +15,7 @@
 *[[Finnish]]: [[Kotka]]
 *[[French]]: [[Aigle]] (1)
 *[[German]]: [[Adler]], [[Aar]] (poetic) (1)
+*[[Greek]]: [[Aετός]]
 *[[Hungarian]]: [[Sas]] 
 *[[Italian]]: [[Aquila]], [[Àquila]]
 *[[Latin]]: [[Aqvila]]
