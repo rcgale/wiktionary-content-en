@@ -1,0 +1,11 @@
+==Abbreviation==
+
+#[[Short Message Service]]
+#Written messages that you can [[send]] trhough a [[mobile phone]]
+
+----
+
+French
+
+===[[Noun]] and [[Abbreviation===
+#SMS
