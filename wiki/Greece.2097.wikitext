@@ -5,5 +5,6 @@
 #:*[[Dutch]]: [[Griekenland]]
 #:*[[French]]: [[Grèce]]
 #:*[[German]]: [[Griechenland]]
+#:*[[Polish]]: [[Grecja]]
 
 ''See:'' [[Countries of the world]]
