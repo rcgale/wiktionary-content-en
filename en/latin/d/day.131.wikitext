@@ -19,3 +19,4 @@
 *Wolof: [[Bés]]
 *yi: [[טאָג]] (tug)
 *pt: [[dia]]
+*Lojban: [[djedi]] (1,2), [[donri]] (3)
