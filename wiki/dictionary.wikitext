@@ -8,10 +8,14 @@
 French [[dictionnaire]]
 
 == Related words ==
-[[Portmanteau]]x: [[Pictionary]] (with [[picture]]), [[Fictionary]] (with [[fiction]], [[Wiktionary]] (with [[wiki]])
+[[Portmanteau]]x: [[Pictionary]] (with [[picture]]), [[Fictionary]] (with [[fiction]]), [[Wiktionary]] (with [[wiki]])
 
 == Translations ==
-*[[Wörterbuch|de]] [[vortaro|eo]] [[diccionario|es]] [[dictionnaire|fr]] [[woordenboek|nl]]
+*de: [[Wörterbuch]]
+*eo: [[vortaro]]
+*es: [[diccionario]]
+*fr: [[dictionnaire]]
+*nl: [[woordenboek]]
 
 == Further reading ==
 *[[en:Dictionary|Wikipedia article]]
