@@ -10,6 +10,7 @@ From Latin [[februarius]], derived from [[februare]] ''reinigen'', because it wa
 *es: [[febrero]]
 *fr: [[février]]
 *he: [[פברואר]]
+*mi: [[pepuere]]
 *nl: [[februari]]
 *pl: [[luty]]
 *sq: [[shkurt]]
