@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Republic of Mali.
+#:'''Translations'''
+#:*[[Chinese]]: [[马里]]
+#:*[[Danish]]: Mali
+#:*[[Dutch]]: Mali
+#:*[[Esperanto]]: [[Malio]]
+#:*[[Finnish]]: Mali
+#:*[[French]]: Mali
+#:*[[German]]: Mali
+#:*[[Greek]]: [[Μάλι]], [[Μαλί]]
+#:*[[Interlingua]]: Mali
+#:*[[Italian]]: Mali
+#:*[[Polish]]: Mali
+#:*[[Portuguese]]: Mali
+#:*[[Russian]]: [[Мали]]
+#:*[[Spanish]]: [[Malí]]
+#:*[[Swedish]]: Mali
+
+''See'': [[Countries of the world]]
