@@ -1,0 +1,1 @@
+A '''transvestite''' is a person who voluntarily wears clothes of a gender that is not the gender assigned (usually) at birth or the gender a person currently lives in. Usually, but not exclusively, the term refers to male bodied and/or male identified persons.
