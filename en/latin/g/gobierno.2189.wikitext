@@ -1,6 +1,6 @@
 Spanish
 
-==[[Noun]]
+==[[Noun]]==
 
 *[[Government]]
 
