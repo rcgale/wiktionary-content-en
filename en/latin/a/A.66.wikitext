@@ -13,9 +13,9 @@ A () An adjective, commonly called the indefinite article, and signifying one or
 #''(Obsolete):'' In; on; at; by.
 #:'''Examples and Quotations'''
 #:*A God's name.
-#:*Torn a pieces." 
-#:*Stand a tiptoe." 
-#:*A Sundays" - Shakespeare, ''?''. 
+#:*Torn a pieces. 
+#:*Stand a tiptoe. 
+#:*A Sundays" - Shakespeare, ''Hamlet, IV-v''. 
 #:*Wit that men have now a days. - [[Chaucer]]. 
 #:*Set them a work. - Robynson, ''More's Utopia''
 #In process of; in the act of; into; to; 
@@ -23,9 +23,9 @@ A () An adjective, commonly called the indefinite article, and signifying one or
 #:#Used with verbal substantives in -ing which begin with a consonant. This is a shortened form of the preposition an (which was used before the vowel sound); as in a hunting, a building, a begging.
 #:#The hyphen may be used to connect a with the verbal substantive (as, a-hunting, a-building) or the words may be written separately. This form of expression is now for the most part obsolete, the a being omitted and the verbal substantive treated as a participle.
 #:'''Quotations'''
-#:*Jacob, when he was a dying" - ''Hebrews 11-21''. 
+#:*Jacob, when he was a dying - ''Hebrews 11-21''. 
 #:*We'll a birding together. 
-#:*It was a doing." - Shakespeare 
+#:*It was a doing. - Shakespeare 
 #:*He burst out a laughing." - [[Macaulay]]. 
 #''(Obsolete):'' Of. (From Anglo Saxon "of", "off", "from". See [[of]])
 #:'''Examples and Quotations'''
