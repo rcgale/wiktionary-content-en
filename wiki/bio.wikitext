@@ -1,0 +1,7 @@
+[[Greek]] [[affix]] that means life, nature.
+
+Examples : 
+
+*[[w:Biophilia|Biophilia]].
+*[[Biology]]
+*[[Biosphere]].
