@@ -1,2 +1,3 @@
 ===Noun===
 #Collection of rejected manuscripts.
+#Collection of unsolicited manuscripts.
