@@ -14,4 +14,4 @@
 
 /my-noot'/
 
-# Very [[small]]. '''Synonyms:''' [[minuscule]], [[tiny]]
+# Very [[small]]. '''Synonyms:''' [[minuscule]], [[tiny]], [[diminutive]] '''Antonyms:''' [[big]],[[huge]],[[enormous]]
