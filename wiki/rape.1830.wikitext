@@ -3,6 +3,7 @@
 
 '''translations'''
 *[[Dutch]]: [[verkrachting]]
+*[[Finnish]]: [[raiskaus]]
 *[[German]]: [[Vergewaltigung]]
 
 ===verb===
@@ -12,4 +13,5 @@ See also [[statutory rape]].
 
 '''translations'''
 *[[Dutch]]: [[verkrachten]]
+*[[Finnish]]: [[raiskata]]
 *[[German]]: [[vergewaltigen]]
