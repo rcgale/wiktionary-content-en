@@ -1,0 +1,1 @@
+[[noun]], a musical piece usually for solo voice with orchestral accompaniment in an [[opera]] or [[cantata]].
