@@ -1,1 +1,13 @@
-Don't Let the Bastards Grind You Down
+==Pseudo-Latin==
+===Variants===
+#Illegitimis non carborundum
+#Nil illegitimi carborundum
+#Non illegitimi carborundum
+:''and others''
+===Popular saying===
+#Don't Let the Bastards Grind You Down
+
+'''Note:  ''' This saying (in the first variant above?) was popularized by US General "Vinegar Joe" Stillwell during World War II.  He is reputed to have learned it from British army intelligence.  The word "[[carborundum]]" in particular was not of Latin origin.
+
+===References===
+http://alt-usage-english.org/excerpts/fxillegi.html
