@@ -1,4 +1,5 @@
 '''Translations'''
 
 *fr: [[Prénom]]
+*he: [[שם פרטי]]
 *nl: [[voornaam]]
