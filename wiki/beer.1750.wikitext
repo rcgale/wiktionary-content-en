@@ -9,3 +9,9 @@ See Also: [[http://www.wikipedia.org/wiki/Beer Wikipedia:Beer]]
 
 ==Translations==
 *de: [[Bier]]
+*es: [[cerveza]]
+*fr: [[bière]]
+*mi: [[pia]]
+*nl: [[bier]]
+*pt: [[cerveja]]
+*sq: [[birrë]]
