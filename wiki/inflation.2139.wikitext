@@ -8,6 +8,7 @@
 
 ===Translations===
 
+*Dutch: [[inflatie]]
 *French: inflation
 *Spanish: [[inflación]]
 
