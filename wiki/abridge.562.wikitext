@@ -1,0 +1,13 @@
+'''Abridge''', ''[[transitive verb (part of speech)|transitive verb]]'' [''[[imp. (part of speech)|imp.]] & [[past participle (part of speech)|past participle]]'' [[Abridged]] (&?;); ''[[present participle (part of speech)|present participle]] & [[vb. n. (part of speech)|vb. n.]]'' [[Abridging]].] [OE. ''abregen'', OF. ''abregier'', F. ''abr&eacute;ger'', fr. L. ''abbreviare''; ''ad'' + ''brevis'' short. See [[Brief]] and cf. [[Abbreviate]].]
+
+<ol>
+<li>To make [[shorter]]; to [[shorten]] in [[duration]]; to [[lessen]]; to [[diminish]]; to [[curtail]]; as, to ''abridge'' labor; to ''abridge'' power or rights.
+
+<code>The bridegroom ... ''abridged'' his visit.</code> ''[[Smollett (source)|Smollett]].''
+
+<code>She retired herself to Sebaste, and ''abridged'' her train from state to necessity. ''[[Fuller (source)|Fuller]].''</code>
+
+<li> To shorten or contract by using [[fewer]] words, yet [[retaining]] the sense; to [[epitomize]]; to [[condense]]; as, to ''abridge'' a history or [[dictionary]].
+
+<li> To [[deprive]]; to cut off; -- followed by ''of'', and formerly by ''from''; as, to ''abridge'' one of his rights.
+</ol>
