@@ -8,11 +8,15 @@ The act of [[abolishing]], or the state of being [[abolished]]; an [[annulling]]
 '''''Note:''''' The application of this word to persons is now unusual or obsolete
 
 ----
-'''Translations''' 
+
+'''Translations'''
+
+*[[Esperanto]]: [[abolicio]], [[forigo]] 
 *[[Finnish]]: [[lakkauttaminen]]
-*[[French]]: [[Abolition]]
+*[[French]]: [[abolition]]
 *[[German]]: [[Aufhebung]]
-*[[Interlingua]]: [[Abolition]] 
-*[[Italian]]: [[Abolizione]] 
+*[[Interlingua]]: [[abolition]] 
+*[[Italian]]: [[abolizione]] 
 *[[Portuguese]]: [[]] 
-*[[Spanish]]: [[Abolición]]
+*[[Spanish]]: [[abolición]]
+*[[Volapük]]: [[säkib]], [[finid]]
