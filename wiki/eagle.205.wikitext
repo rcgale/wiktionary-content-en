@@ -31,6 +31,7 @@
 *[[Hebrew]]: [[עיט]] (also נשר commonly)
 *[[Hungarian]]: [[Sas]] 
 *[[Icelandic]]: [[Örn]]
+*[[Inuktitut]]: [[Nakturalik]]
 *[[Italian]]: [[Aquila]], [[Àquila]]
 *[[Japanese]]: [[ワシ]] (needs to be checked by speaker)
 *[[Korean]]: [[독수리]] (needs to be checked by speaker)
