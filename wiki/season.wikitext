@@ -10,4 +10,4 @@
 * [[German]]: [[Jahreszeit]] (noun 1); [[würzen]] (verb 1)
 * [[Hebrew]]: [[עונה]] (noun 1);  [[תיבל]] (verb 1)
 * [[French]]: [[saison]]
-* [[Yiddish]]: [[צײַט פון יאָר]] (noun 1); [[צוריכטן]]
+* [[Yiddish]]: [[צײַט פון יאָר]] (noun 1); [[צוריכטן]] (verb)
