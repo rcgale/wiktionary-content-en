@@ -9,7 +9,7 @@ Past tense and participle: died; Present participle: dying
 #:*[[French]]: [[mourir]]
 #:*[[Frisian]]: [[deagean]], [[ferstjerre]], [[stjerre]]
 #:*[[German]]: [[sterben]]
-#:*[[Hebrew]]:[[למות]]
+#:*[[Hebrew]]: [[למות]]
 #:*[[Japanese]]: [[死ぬ]] (しぬ;shinu)
 #:*[[Korean]]: [[죽다]] (jukda)
 
