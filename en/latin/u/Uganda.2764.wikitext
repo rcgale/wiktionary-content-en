@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Eastern Africa. Official name: Republic of Uganda.
+#:'''Translations'''
+#:*[[Chinese]]: [[乌干达]]
+#:*[[Danish]]: Uganda
+#:*[[Dutch]]: Uganda, [[Oeganda]]
+#:*[[Esperanto]]: [[Ugando]]
+#:*[[Finnish]]: Uganda
+#:*[[French]]: [[Ouganda]]
+#:*[[German]]: Uganda
+#:*[[Greek]]: [[Ουγκάντα]]
+#:*[[Interlingua]]: Uganda
+#:*[[Italian]]: Uganda
+#:*[[Polish]]: Uganda
+#:*[[Portuguese]]: Uganda
+#:*[[Russian]]: [[Уганда]]
+#:*[[Spanish]]: Uganda
+#:*[[Swedish]]: Uganda
+
+''See'': [[Countries of the world]]
