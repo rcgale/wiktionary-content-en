@@ -8,6 +8,8 @@
 *[[French]] : [[guerre]]
 *[[Frisian]] : [[oarloch]], [[kriich]]
 *[[German]] : [[Krieg]]
+*[[Japanese]] : [[戦争]] (せんそう;sensou)
+*[[Korean]] : [[전쟁]] [戦争] (jeonjaeng)
 *[[Spanish]] : [[guerra]]
 
 ===Antonyms===
