@@ -5,4 +5,5 @@ Noun \Noun\
 # a word that can serve as the subject or object of a verb
 
 == Further Reading ==
+* [[w:noun|Wikipedia article on noun]]
 * [[w:Part of speech|Wikipedia article on parts of speech]]
