@@ -17,6 +17,7 @@
 *nl: [[woensdag]]
 *pl: [[środa]]
 *pt: [[quarta-feira]]
+*[[Ruanda]]: [[Kwagatatu]]
 *[[Serbian]]: [[среда]]
 *[[Slovak]]: [[streda]]
 *[[Somali]]: [[Arbaca]]
