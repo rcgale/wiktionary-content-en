@@ -4,6 +4,8 @@
 
 *Dutch: [[sturen]], [[verzenden]]
 *French: [[envoyer]]
+*German: [[senden]],[[schicken]]
+*Hebrew: [[לשלוח]]
 *Spanish: [[enviar]], [[mandar]]
 
 ===Examples===
