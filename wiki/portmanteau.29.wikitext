@@ -6,7 +6,7 @@ Plural, portmanteaus, portmanteaux
 
 # A large travelling case made of [[leather]].
 
-# ''Linguistics.''  A word formed by combining parts of other words; for example, ''[[smoke]]'' and ''[[fog]]'' combine to for ''[[smog]].''
+# ''Linguistics.''  A word formed by combining parts of other words; for example, ''[[smoke]]'' and ''[[fog]]'' combine to form ''[[smog]].''
 
 == Further reading ==
 
