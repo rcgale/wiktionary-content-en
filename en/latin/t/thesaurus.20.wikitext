@@ -1,10 +1,12 @@
-1. A [[publication]], usually in the form of a [[book]], which [[alphabetical|alphabetically]] [[reference|references]] the [[word|words]] of a given [[language]], or languages, and gives possible alternatives for their use.
+===Etymology===
+16th century from Greek θησαυρός [[storehouse]], [[treasure]]
+===Noun===
+#A [[publication]], usually in the form of a [[book]], which [[reference]]s the [[word]]s of a given [[language]], or languages, and gives possible alternatives to their use.
+#''(Archaic):'' a dictionary or encyclopedia
 
-Etymology:<br>
-Greek θησαυρός. 
 
-See also : [[treasure]] and [[Wikipedia]] article about [[en:thesaurus|thesaurus]].
 
-TRANSLATIONS
-
-* Español : [[tesauro]]
+===Translations===
+* Spanish: [[tesauro]]
+===References===
+See Wikipedia article about [[en:thesaurus|thesaurus]].
