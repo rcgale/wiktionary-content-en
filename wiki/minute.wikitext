@@ -15,3 +15,8 @@
 /my-noot'/
 
 # Very [[small]]. '''Synonyms:''' [[minuscule]], [[tiny]], [[diminutive]] '''Antonyms:''' [[big]],[[huge]],[[enormous]]
+
+'''Translations'''
+''noun''
+*fr:  minute (1,2,3)
+*es: minuto (1,2)
