@@ -1,13 +1,22 @@
-'''fuck''', vi, vt, to have sexual intercourse, to copulate
+===Etymology===
+Early 16th century Germanic origin.  Compare with Swedish ''[[focka]]'' and Dutch ''[[fokkelen]]''. The Indo-European origins are largely hypothetical, and are based on a common root meaning "to strike".  This has led to the Latin ''[[pugnus]]'' fist, and several other derivations in a wide range of Indo-European and Mediterranean languages.
 
-'''fuck''', n, the act of coition
+The popular etymology whereby "fuck" is an acronym meaning "For Unlawful Carnal Knowledge" has no basis in fact.
+===Verb===
+Used both transitively and intransitively
+#To have sexual intercourse, to copulate
+#''(slang - intransitive):'' Playing, fooling (as in "he was just fucking around")
+===Noun===
+#The act of coition
+===Exclamation===
+#Term of discontentment, as in "oh fuck!","fuck this!"
+===Adjective===
+#''(slang):'' really, extremely (as in "it was fucking awful")
 
-'''fuck off''', (vulgar, slang) go away!
-
-'''fuck''', term of discontentment, as in "oh fuck!","fuck this!"
-
-'''fucking''', vi,vt, having sexual intercourse
-
-'''fucking''', adj, (slang) really, extremely (as in "it was fucking awful")
-
-'''fucking''', vi, (slang) playing, fooling (as in "he was just fucking around")
+===Derived expressions===
+*'''fuck off''', (vulgar, slang) go away!
+*'''fuck about'''
+*'''fuck someone around'''
+*'''fuck someone off'''
+*'''fuck someone over'''
+*'''fuck someone up'''*'''fuck up'''
