@@ -1,6 +1,3 @@
 ==='''Verb'''===
 
-To [[conceal]] [[information]] by means of a [[code]] or [[cipher]].
-
-==='''Related words'''===
-[[decrypt]]
+To [[conceal]] [[information]] by means of a [[code]] or [[cipher]]. The reverse process is referred to as [[decrypt]]ion.
