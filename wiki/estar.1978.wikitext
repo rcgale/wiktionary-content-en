@@ -1,0 +1,14 @@
+Spanish
+
+Verb
+
+* to [[be]]. ''Note:'' Spanish use to different verbs for ''to be'', there are some rules to know which to use, but it is not easy to find the correct solution.
+
+'''Usage'''
+
+* Place
+:Estoy en casa ''I am at home''
+:¿Dónde estás? ''Where are you ?'' 
+
+'''Expressions'''
+* Estar por
