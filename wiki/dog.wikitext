@@ -32,6 +32,7 @@ Plural = dogs
 #:*[[Polish]]: [[pies]]
 #:*[[Portuguese]]: [[cão]]
 #:*[[Provençal]]: [[can]]
+#:*[[Romanian]]: [[c&#226;ine]]
 #:*[[Russian]]: [[собака]]
 #:*[[Slovak]]: [[pes]]
 #:*[[Spanish]]: [[perro]]
