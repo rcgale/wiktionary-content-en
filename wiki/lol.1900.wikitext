@@ -1,0 +1,1 @@
+Abbreviation: Laughing Out Loud
