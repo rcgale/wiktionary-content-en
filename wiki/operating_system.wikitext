@@ -1,7 +1,8 @@
-''noun.''
+==[[Noun]]==
 
 # [[Software]] needed to run a [[computer]]. eg. [[Linux]], [[Windows]]
-#:'''Translations'''
+
+===Translations===
 #:*[[Dutch]]: [[besturingssysteem]]
 #:*[[French]]: [[système d'exploitation]]
 #:*[[German]]: [[Betriebssystem]]
