@@ -34,6 +34,7 @@
 *[[Portugese]]: [[Aguia]]
 *[[Romanian]]: [[Vultur]]
 *[[Russian]]: [[Oрел]]
+*[[Serbian]]: [[Orao]]
 *[[Slovak]]: [[Orol]]
 *[[Spanish]]: [[Águila]] (1)
 *[[Swedish]]: [[Örn]]
