@@ -1,1 +1,3 @@
 A database management term. Typically, you have an edited version of a record, and upserting refers to using the edited version to update the record with the same ID in the database if one exists or inserting the edited version as a new record if not.
+
+{{wikify}}
