@@ -22,5 +22,5 @@
 
 An [[abridgment]]. [Obs.] ''[[Elyot (source)|Elyot]].''
 
-<HR> <P> <H3>Translations</H3><BR>•[[French]] fr: [[Abréger]]<BR>•[[German]] de: [[Kürzen Sie ab]]<BR>•[[Interlingua]] ia: [[Abbreviar]]<BR>•[[Italian]] it: [[Abbreviare]]<BR>•[[Portuguese]] pt: [[Abreviar]]<BR>•[[Spanish]] es: [[Abreviar]]<BR>•[[Swedish]] sv: [[förkorta]] (1,2)<BR>
-•[[]]: [[]]
+<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Abréger]]<BR>• [[German]]: [[Kürzen Sie ab]]<BR>• [[Interlingua]]: [[Abbreviar]]<BR>• [[Italian]]: [[Abbreviare]]<BR>• [[Portuguese]]: [[Abreviar]]<BR>• [[Spanish]]: [[Abreviar]]<BR>• [[Swedish]]: [[förkorta]] (1,2)<BR>
+•
