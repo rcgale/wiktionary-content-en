@@ -9,3 +9,4 @@
 *nl: [[vrijdag]]
 *pl: [[piątek]]
 *pt: [[sexta-feira]]
+*sq: [[e premte]]
