@@ -1,0 +1,4 @@
+==English==
+===Noun phrase===
+'''[[commit]] [[point]]'''
+#(''computing'') In a [[DBMS]], a point in time at which all [[update]]s to a [[database]], or group of [[record]]s in a database, are [[guarantee]]d to have been written to disk, and the [[journal]] or [[log]] records of that action have also been so committed. Future updates may be [[undone]] to that point if necessary.
