@@ -13,7 +13,7 @@ The made-up compound noun ''herfstschrik'' (/hERfstsxRIk/, fear of fall?) is use
 See also: [[Dutch compound words]]
 
 === Translations ===
-
+*de: [[Herbst]]
 *en: [[autumn]], [[fall]]
 *es: [[otoño]]
 *fr: [[automne]]
