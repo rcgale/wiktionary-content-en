@@ -4,6 +4,8 @@
 '''Translations'''
 *Dutch: [[stroming]]
 *French: [[courant]]
+*Interlingua: [[currente]]
+*Portuguese: [[corrente]]
 
 2 Electrical unit
 
@@ -12,11 +14,13 @@
 
 ==[[Adjective]]==
 
-*That exists now
+*That exists or happens now
 
 '''Translations'''
 *Dutch: [[huidig]]
 *French: [[actuel]]
+*Interlingua: [[actual]], [[currente]]
+*Portuguese: [[atual]], [[corrente]], [[em curso]]
 *Spanish: [[actual]]
 
 ===Related words===
