@@ -4,5 +4,6 @@
 
 ==Translations==
 *de: [[Tag]]
+*es: día (remarque: Wednesday and Saturday take an accent in Spanish)
 *fr: [[jour]]
 *nl: [[dag]]
