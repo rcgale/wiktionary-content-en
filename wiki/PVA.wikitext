@@ -1,3 +1,3 @@
 ==Abbreviation==
 
-*Polyvinyl Accetate
+*PolyVinyl Acetate
