@@ -1,4 +1,4 @@
-Precipitously, <i>[[Adverb]]</i> <HR> 
+Precipitously, <i>[[Adverb]]</i> ''see'' [[Abruptly]]<HR> 
 <P> <H3>Translations</H3>
 <BR>• [[French]]: [[Abruptement]]
 <BR>• [[German]]: [[Unerwartet]]
