@@ -8,3 +8,4 @@ From Latin ''mensis [[Martius]]''. The German form M&auml;rz, which is influence
 ==Translations==
 *de: [[M&auml;rz]]
 *nl: [[maart]]
+*pl: [[marzec]]
