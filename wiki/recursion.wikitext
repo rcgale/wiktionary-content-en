@@ -6,8 +6,8 @@ From Latin '''[[recursio]]''', ''[[running again]]'', from prefix '''[[re-]]''',
 '''recursion'''
 
 #The act of [[recur]]ring.
-#(''mathematics'') The act of defining a function partly in terms of that function itself.
-#:''n! = n &times; (n - 1)! (for n > 0) or 1 (for n = 0) defines the factorial function using recursion.''
+#(''mathematics'') The act of defining an object (usually a function) in terms of that object itself.
+#:''n! = n &times; (n &minus; 1)! (for n > 0) or 1 (for n = 0) defines the factorial function using recursion.''
 #(''computing'') The calling of a function from within that same function.
 #:''This function uses recursion to compute factorials.''
 
