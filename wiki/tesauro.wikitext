@@ -1,2 +1,4 @@
-Put your text for the new page here.
-Tesauro
+Una publicación, generalmente en forma de libro, que hace referencia por orden alfabético a las palabras de una lengua o lenguas concretas y da una posibles alternativas para su uso..
+
+Etymología:
+Del griego θησαυρός. Vease también [[tesoro]].
