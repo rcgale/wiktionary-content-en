@@ -6,3 +6,4 @@ A celestial body which orbits a [[star]] in an [[ellipse]] or [[circle]].  The [
 :*[[Frisian]]: [[planeet]]
 :*[[French]]: la [[planète]]
 :*[[German]]: der [[Planet]]
+:*[[Korean]]: [[행성]] [行星] (haengseong)
