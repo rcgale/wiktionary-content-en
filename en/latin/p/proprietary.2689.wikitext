@@ -5,5 +5,5 @@
 
 *[[Esperanto]]: [[proprajxa]]
 *[[Interlingua]]: [[proprietari]]
-*[[Spanish]]: [[prop''ietario]]
+*[[Spanish]]: [[propietario]]
 *[[Portuguese]]: [[proprietário]]
