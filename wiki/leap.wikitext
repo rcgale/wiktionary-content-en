@@ -1,5 +1,4 @@
 (english)
-
 ==Definition==
 ;'''Leap''' (''[[noun]]'')
 : To jump from one location to another.
