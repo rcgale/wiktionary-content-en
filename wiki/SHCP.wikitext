@@ -1,5 +1,4 @@
 '''SHCP'''is the abreviation used in Mexico for '''Secretaría de Hacienda y Crédito Público de México'''
  
 '''Synonym'''
-
 * Hacienda (with a capital letter)
