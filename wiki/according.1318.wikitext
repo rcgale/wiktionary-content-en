@@ -16,7 +16,7 @@ Derivative of [[accord]]
 #:*Our zeal should be ''according to'' knowledge. - ''[[Sprat]]''
 
 ===Adverb with "as"===
-[[precisely]] as; the same as; corresponding to the way in which. ''According as'' is an [[adverbial]] phrase, of which the [[propriety]] has been doubted; but good usage [[sanctions]] it.  
+#[[precisely]] as; the same as; corresponding to the way in which. ''According as'' is an [[adverbial]] phrase, of which the [[propriety]] has been doubted; but good usage [[sanctions]] it.  
 #:'''Quotations'''
 #:*Is all things well, ''According as'' I gave directions? - Shakespeare, ''2 Henry VI, III-ii''
 #:*The land which the Lord will give you ''according as'' he hath promised. - ''Exodus xii. 25''
