@@ -1,7 +1,6 @@
 ===Etymology===
 Old English ''abaissen'', ''abaisshen'', ''abashen'', Old French ''esbahir'', French ''ébahir'', to [[astonish]], from Latin ''ex'' + the [[interjection]] ''bah'', expressing [[astonishment]]. In Old English somewhat [[confuse]]d with ''abase''. Cf. [[Finish]].
 ===Transitive verb===
-=Verbs=
 <table border = 1>
 <tr>
 <td align = center>
