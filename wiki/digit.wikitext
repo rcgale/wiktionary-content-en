@@ -13,3 +13,6 @@
 #** the tens digit is 0,
 #** and the units digit is 7.
 # A [[finger]] or [[toe]].
+
+===Translations===
+*[[Dutch]]: [[cijfer]] (1, 2)
