@@ -1,0 +1,2 @@
+===Translations===
+* [[Portuguese]]: [[poluente]]
