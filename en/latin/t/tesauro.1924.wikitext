@@ -1,4 +1,4 @@
-Una publicación, generalmente en forma de libro, que hace referencia por orden alfabético a las palabras de una lengua o lenguas concretas y da una posibles alternativas para su uso..
+Una publicación, generalmente en forma de libro, que hace referencia por orden alfabético a las palabras de una lengua o lenguas concretas y ofrece posibles alternativas sobre su uso.
 
 Etymología:
 Del griego θησαυρός. Vease también [[tesoro]].
