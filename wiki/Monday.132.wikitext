@@ -18,3 +18,4 @@
 *sv: [[Måndag]]
 *Wolof: [[Altine]]
 *yi: [[מאָנטיק]]
+*Yoruba: [[Ọjó ajé]]
