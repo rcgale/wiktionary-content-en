@@ -1,5 +1,5 @@
 ===[[Noun]]===
-#Inhabitant of [[w:Greece|Greece]], person from Greek descent
+#Inhabitant of [[Greece]], person from Greek descent
 #:'''[[translation]]s'''
 #:*[[Dutch]]: [[Griek]]
 #:*[[Esperanto]]: [[Greko]]
