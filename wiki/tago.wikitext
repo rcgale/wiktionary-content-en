@@ -1,6 +1,23 @@
-*Limtempo de 24 horoj. Ekzistas 7 tagoj en la [[semajno]] : [[lundo]], [[mardo]], [[merkredo]], [[jaûdo]], [[vendredo]], [[sabato]] kaj [[dimancxo]]
-
-[[TRADUKO]]J AL TERITORIAJ LINGVOJ
-
-*[[Angla]] : [[day]]
-*[[Hispana]] : [[día]]
+===[[noun]]===
+#A period of 24 [[hour]]s.
+#The period from [[midnight]] to the following [[midnight]]. There are 7 days in a week: [[Monday]], [[Tuesday]], [[Wednesday]], [[Thursday]], [[Friday]], [[Saturday]] and [[Sunday]].
+#Rotational period of a planet (especially Earth).
+#The part of a day(3) which one spends at one's job, school, etc. "I worked two days last week" is not the same as "I worked 48 hours last week." With hours, you count only the hours you spend working. With days, if you work a full shift, you count it as a day.
+#Period of day(3) between sunrise and sunset, where one enjoys daylight. Re:"day and night"
+#:'''Translations'''
+#:*[[Afrikaans]]: [[dag]]
+#:*[[Dutch]]: [[dag]] (1,2), [[etmaal]] (1)
+#:*[[English]]: [[day]]
+#:*[[French]]: [[jour]]
+#:*[[Frisian]]: [[dei]]
+#:*[[German]]: [[Tag]]
+#:*[[Hebrew]]: [[יום]] (yom)
+#:*[[Hungarian]]: [[nap]]
+#:*[[Icelandic]]: [[dagur]]
+#:*[[Lojban]]: [[djedi]] (1,2), [[donri]] (3)
+#:*[[Polish]]: [[dzień]]
+#:*[[Portuguese]]: [[dia]]
+#:*[[Spanish]]: día (remarque: Wednesday and Saturday take an accent in Spanish)
+#:*[[Swedish]]: [[dag]]
+#:*[[Wolof]]: [[Bés]]
+#:*[[Yiddish]]: [[טאָג]] (tug)
