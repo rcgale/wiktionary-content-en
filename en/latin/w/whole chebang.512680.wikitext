@@ -10,6 +10,8 @@ A typical shebang line could be
 
 This instructs the operating system to interpret the file with the program /bin/sh.
 
+It is common for different variants of even the same operating system to have different locations for the interpreter.  Thus, it is not uncommon to need to adjust the shebang line after copying a [[script]] from one computer to another.
+
 ==External links==
 
 *[http://homepages.cwi.nl/~aeb/std/shebang/ Some details about the shebang mechanism on various Unix flavours]
