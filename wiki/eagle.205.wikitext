@@ -50,7 +50,7 @@
 *[[Inuit]]: [[Nektoralik]]
 *[[Inuktitut]]: [[Nakturalik]]
 *[[Italian]]: [[Aquila]], [[Àquila]]
-*[[Japanese]]: [[ワシ]] (needs to be checked by speaker)
+*[[Japanese]]: [[ワシ]] (washi)
 *[[Korean]]: [[독수리]] (doksuri)
 *[[Latin]]: [[Aquila]], [[Aqvila]]
 *[[Latvian]]: [[Ērglis]]
