@@ -1,0 +1,8 @@
+A <b>quotation</b> is a fragment of a human expression that is being referred to by somebody else.  Most often an quotation is taken from [[literature]], but also sentences from a [[speech]], scenes from a [[movie]], elements of a [[painting]], etc. may be quoted.
+
+See also : [[wikipedia]] [[article]] about '''[[w:quotation|quotation]]'''
+
+
+===[[Translation]]s===
+
+*[[Spanish]]: [[cita]]
