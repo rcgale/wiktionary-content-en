@@ -1,0 +1,11 @@
+==Noun==
+
+*Something that is hidden and that someone wants to keep hidden
+
+==Related words and expressions==
+
+* to keep secret
+==Translations==
+
+* French : [[secret]]
+* Spanish : [[secreto]]]
