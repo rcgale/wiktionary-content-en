@@ -14,3 +14,5 @@ present participle and verbal noun: [[Abasing]]
 #:*''Abase'' has reference to a bringing down in condition or feelings; as, to ''abase'' the proud, to ''abase'' one's self before God. 
 #:*''Debase'' has reference to the bringing down of a thing in [[purity]], or ''making it base''. It is, therefore, always used in a bad sense, as, to ''debase'' the coin of the kingdom, to ''debase'' the mind by [[vicious]] [[indulgence]], to ''debase'' one's style by coarse or vulgar expressions. 
 #:*''Degrade'' has reference to a bringing down from some higher ''grade'' or from some standard. Thus, a priest is ''degraded'' from the [[clerical]] office. When used in a moral sense, it denotes a bringing down in character and just [[estimation]]; as, ''degraded'' by [[intemperance]], a ''degrading'' employment, etc. "Art is ''degraded'' when it is regarded only as a trade."
+
+<HR> <P> <H3>Translations</H3><BR>•[[French]] fr: [[Abaissez]]<BR>•[[German]] de: [[Erniedrigen Sie]]<BR>•[[Interlingua]] ia: [[Abassar]]<BR>•[[Italian]] it: [[]]<BR>•[[Portuguese]] pt: [[Rebaixe]]<BR>•[[Spanish]] es: [[Rebájese]]<BR>•[[]]: [[]]
