@@ -1,1 +1,10 @@
-#redirect [[en:standard]]
+===Etymology===
+Middle English for an upright timber, from the Old French ''estendart'' from the verb ''estendre'' as influenced by the verb [[stand]]
+===Noun===
+#a level of quality or attainment
+#something used as a measure for comparative evaluations
+#an object supported in an upright position
+#a musical work of established popularity
+===Adjective===
+#falling within an accepted range
+#''(of a tree or shrub):'' growing on an erect stem of full height
