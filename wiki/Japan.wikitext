@@ -3,6 +3,7 @@
 #:'''Translations'''
 #:*[[Chinese]]: [[日本]]
 #:*[[Dutch]]: Japan
+#:*[[Finnish]]: [[Japani]]
 #:*[[French]]: [[Japon]] (synonyms:  l'Archipel, le pays du Soleil Levant)
 #:*[[Frisian]]: Japan
 #:*[[German]]: Japan
