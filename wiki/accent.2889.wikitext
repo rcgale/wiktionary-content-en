@@ -1,0 +1,12 @@
+Accent, <i>[[Noun]]</i>, 
+:''extra, stress, [[loudness]] or [[pitch]] of one of the [[syllable]]s in a [[word]]''. 
+:''a mark used to indicate stress''.
+:''a characteristic of someone's way of talking'', as in "foreign accent".
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Accent]]
+<BR>• [[German]]: [[Akzent]]
+<BR>• [[Interlingua]]: [[Accento]]
+<BR>• [[Italian]]: [[Accento]]
+<BR>• [[Portuguese]]: [[Acento]]
+<BR>• [[Spanish]]: [[Acento]]
+<BR>
