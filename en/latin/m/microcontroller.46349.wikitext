@@ -5,7 +5,7 @@ A microcontroller is programmed before or after insertion into the circuit board
 A modern microcontroller will typically have:
 * 8 to 40 pin package
 * 8 or 16 bit CPU executing at 0.2 to 20 MIPS
-* 0.5kB to 128kB flash or eprom program memory
+* 0.5kB to 128kB [[FLASH(memory)]] or EPROM program memory
 * 64 to 4096 bytes of RAM
 * Clock generator
 * Serial IO devices
