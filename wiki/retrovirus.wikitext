@@ -5,7 +5,7 @@
 ===Translations===
 
 *French: [[rétrovirus]]
-*Spanish : [[retrovirus]]
+*Spanish : retrovirus
 
 ==See also==
 
