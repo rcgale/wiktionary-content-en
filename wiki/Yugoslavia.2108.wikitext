@@ -1,4 +1,4 @@
-==English==
+==English/Spanish==
 
 # Former country on the Balkan Peninsula (now [[Serbia and Montenegro]]).
 #:'''Translations'''
