@@ -10,6 +10,7 @@
 
 *[[Afrikaans]]: [[Arend]]
 *[[Dutch]]: [[Arend]], [[Adelaar]] (1)
+*[[Esperanto]]: [[Aglo]]
 *[[Estonian]]: [[Kotkas]]
 *[[Finnish]]: [[Kotka]]
 *[[French]]: [[Aigle]] (1)
