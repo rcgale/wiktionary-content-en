@@ -8,3 +8,4 @@
 *fr: août
 *nl: [[augustus]]
 *pl: [[sierpień]]
+*sv: [[augusti]]
