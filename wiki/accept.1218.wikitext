@@ -9,8 +9,8 @@
 #:To ''accept'' of ransom for my son. - Milton: ''Samson Agonistes''
 #:She ''accepted'' of a treat. ''[[Addison (source)|Addison]].''
 #To receive with favor; to [[approve]].
-#:The Lord ''accept'' thy burnt sacrifice. - ''Psalms xx. 3''
-#:Peradventure he will ''accept'' of me. - ''Genesis. xxxii. 20''
+#:The Lord ''accept'' thy burnt sacrifice. - ''Psalms 20:3''
+#:Peradventure he will ''accept'' of me. - ''Genesis. 32:20''
 #To receive or admit and agree to; to assent to; as, I ''accept'' your [[proposal]], [[amendment]], or [[excuse]].
 #To take by the mind; to [[understand]]; as, How are these words to be ''accepted''?
 #''Commerce'': To receive as [[obligatory]] and promise to pay; as, to ''accept'' a bill of exchange. - Bouvier: ''Law Dictionary'', 1856
@@ -21,7 +21,7 @@
 #'''To accept a bill''' ''Law'': to agree (on the part of the [[drawee]]) to pay it when due. 
 #'''To accept service''' ''Law'': to agree that a writ or process shall be considered as [[regularly]] served, when it has not been. 
 #'''To accept the person''' ''Ecclesiastical'': to show [[favoritism]].
-#:God ''accepteth'' no man's ''person''. - ''Galatians ii. 6''
+#:God ''accepteth'' no man's ''person''. - ''Galatians 2:6''
 
 '''Synonyms:''' -- To [[receive]]; [[take]]; [[admit]]. 
 
