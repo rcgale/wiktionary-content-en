@@ -21,4 +21,5 @@ Past tense and past participle: '''Leapt''' or '''leaped''' with no clear rule t
 ===Derived terms===
 : [[Leapfrog]], [[Leap-year]].
 ===Translations===
+*Dutch: [[springen]]
 *French: [[sauter]]
