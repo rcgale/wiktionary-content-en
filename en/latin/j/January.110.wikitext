@@ -8,6 +8,7 @@ From Latin [[Ianuarius]], named after the god Ianus. Re-latinized from old Frenc
 ==Translations==
 
 *es: [[enero]]
+*eu: [[urtarril]]
 *de: [[Januar]]
 *fr: [[janvier]]
 *he: [[ינואר]]
