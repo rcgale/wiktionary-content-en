@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Federal Republic of Nigeria.
+#:'''Translations'''
+#:*[[Chinese]]: [[尼日利亚]]
+#:*[[Danish]]: Nigeria
+#:*[[Dutch]]: Nigeria
+#:*[[Esperanto]]: [[Nigerio]], [[Niĝerio]]
+#:*[[Finnish]]: Nigeria
+#:*[[French]]: Nigeria
+#:*[[German]]: Nigeria
+#:*[[Greek]]: [[Νιγηρία]]
+#:*[[Interlingua]]: Nigeria
+#:*[[Italian]]: Nigeria
+#:*[[Polish]]: Nigeria
+#:*[[Portuguese]]: [[Nigéria]]
+#:*[[Russian]]: [[Нигерия]]
+#:*[[Spanish]]: Nigeria
+#:*[[Swedish]]: Nigeria
+
+''See'': [[Countries of the world]]
