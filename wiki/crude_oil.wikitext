@@ -1,3 +1,5 @@
+'''[[noun]]'''
+
 # Unrefined [[oil]]; as it is found in the ground.
 
 == Translations ==
