@@ -33,6 +33,7 @@
 *he: [[מילון]]
 *it: [[dizionario]]
 *nl: [[woordenboek]]
+*pl: [[słownik]]
 
 == Further reading ==
 *[[en:Dictionary|Wikipedia article]]
