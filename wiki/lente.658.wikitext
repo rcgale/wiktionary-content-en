@@ -7,3 +7,4 @@
 *en: [[spring]] (1), [[lens]] (2)
 *es: [[primavera]] (1)
 *fr: [[printemps]] (1)
+*pl: [[wiosna]] (1)
