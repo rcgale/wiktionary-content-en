@@ -1,3 +1,7 @@
 [Mi-llen-ni-um] /___/
 
 1) A period of time consisting of 1,000 years.
+
+==Translations==
+
+*fr: [[millénaire]]
