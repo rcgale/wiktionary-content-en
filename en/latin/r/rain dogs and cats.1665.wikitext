@@ -1,0 +1,18 @@
+===Idiom===
+#Rain very heavily
+
+===Quotations===
+
+*'''1651''' - Henry Vaughan, ''Olor Iscanus'' (1651). 
+*:The Pedlars of our age have business yet,
+*:And gladly would against the Fayr-day fit
+*:Themselves with such a Roofe, that can secure
+*:Their Wares from Dogs and Cats rain'd in showre.
+*'''1672''' - Maurice Atkins, ''Minor Burlesques and Travesties'' (1672)
+*:Where e're I went on Land or water
+*:Hee'd make a shift to follow after.
+*:Neither had he flincht a foot, had fates
+*:Made it rain down dogs and cats
+*'''1678''' - John Phillips, ''Maronides'' (1678)
+*:When it rains Dogs and Cats in Hell,
+*:The shelter'd Centaurs roar and yell;
