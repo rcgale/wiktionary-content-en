@@ -1,3 +1,5 @@
+/[[Received Pronunciation|ˈwɪkʃənrɪ]]/, /[[General American|ˈwɪkʃənˌerɪ]]/, proper noun
+
 # A collaborative project to produce a [[free]] and complete [[dictionary]] and [[thesaurus]] in every [[language]].
 
 == See also ==
