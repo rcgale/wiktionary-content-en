@@ -8,3 +8,4 @@
 *fr: mai
 *nl: [[mei]]
 *pl: [[maj]]
+*sq: [[maj]]
