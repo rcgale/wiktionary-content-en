@@ -1,15 +1,10 @@
 [May] /___/
 
-[[Noun]]
+==Noun==
 
 # May is the fifth [[month]] in the Gregorian [[calendar]]. It has 31 [[day]]s.
 
-[[Adverb]]
-
-# have permission to. [[You]] may schnock the frectel.
-# possibly, [[but]] [[not]] certain. The schnock may be in the frectel.
-
-==Translations==
+===Translations===
 *de: [[Mai]]
 *es: [[mayo]]
 *eu: [[maiatz]]
@@ -18,3 +13,10 @@
 *nl: [[mei]]
 *pl: [[maj]]
 *sq: [[maj]]
+
+# The hawthorn bush or its blossoms 
+
+==verb==
+
+# have permission to. [[You]] may [[schnock]] the [[frectel]].
+# possibly, [[but]] [[not]] certain. The schnock may be in the frectel.
