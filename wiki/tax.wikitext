@@ -4,10 +4,12 @@
 ===Synonyms===
 *[[direct taxes]]
 ===Translation===
+*Dutch: [[belasting]], [[inkomstenbelasting]]
 *French: [[impôt]], [[impôt sur les revenues]] (''note'': in this meaning ''taxe'' is a [[false friend]])
 
 #The amount of money which is paid to the government when you buy something
 ===Synonyms===
 *[[VAT]]
 ===Translations===
-*French:[[taxe]]
+*Dutch:[[BTW]]
+*French:[[TVA]], [[taxe]]
