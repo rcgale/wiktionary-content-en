@@ -1,0 +1,19 @@
+==English==
+
+'''proper noun'''
+# A group of islands in the Caribbean that is a dependency of the United States. Official name: Virgin Islands of the United States.
+#:'''Translations'''
+#:*[[Danish]]: [[Amerikanske Jomfruøer]]
+#:*[[Dutch]]: [[Amerikaanse Maagdeneilanden]]
+#:*[[Esperanto]]: [[Usonaj Virgulininsuloj]]
+#:*[[Finnish]]: [[Yhdysvaltain Neitsytsaaret]]
+#:*[[French]]: [[Iles Vierges américaines]]
+#:*[[German]]: [[Amerikanische Jungferninseln]]
+#:*[[Greek]]: [[Αμερικανικές Παρθένοι Νήσοι]]
+#:*[[Italian]]: [[Isole Vergini americane]]
+#:*[[Polish]]: [[Wyspy Dziewicze Stanów Zjednoczonych]]
+#:*[[Portuguese]]: [[Ilhas Virgens Americanas]]
+#:*[[Spanish]]: [[Islas Vírgenes Americanas]]
+#:*[[Swedish]]: [[Amerikanska Jungfruöarna]]
+
+''See'': [[Countries of the world]]
