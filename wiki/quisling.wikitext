@@ -1,4 +1,4 @@
 ===Noun===
 #A traitor.
-#'''Translations'''
+#:'''Translations'''
 #:*[[Dutch]]: [[landverrader]]
