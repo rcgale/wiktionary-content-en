@@ -1,6 +1,5 @@
 ===[[noun]]===
-# A [[country]] in the [[Middle East]], located at eastern [[shore]] of the 
-[[mediterranean]].
+# A [[country]] in the [[Middle East]], located at eastern [[shore]] of the [[mediterranean]].
 #:'''Translations'''
 #:*[[Dutch]]: Israel
 #:*[[German]]: Israel
