@@ -1,0 +1,9 @@
+===Spelling variations===
+taliacotian, tagliacozzian
+
+===Etymology===Eponymous for the Italian surgeon Gasparo Tagliacozzi (1546-1599) who developed the surgery.
+
+===Pronunciation===
+
+===Adjective===
+#Pertaining to surgically reconstructed noses.
