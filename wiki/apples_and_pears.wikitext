@@ -1,0 +1,8 @@
+[Ap-ples and pears] /____/
+
+''noun''
+
+1)Cockny Rhyming Slang for Stairs.
+
+
+===Translations===
