@@ -3,5 +3,6 @@
 #The seventh day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
+*es: domingo
 *fr: [[dimanche]]
 *nl: [[zondag]]
