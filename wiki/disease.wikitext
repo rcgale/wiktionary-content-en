@@ -7,5 +7,6 @@
 
 ===Translations===
 *Dutch: [[ziekte]]
+*Finnish: [[sairaus]]
 *French: [[maladie]]
 *Spanish: [[enfermedad]]
