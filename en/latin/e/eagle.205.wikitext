@@ -9,6 +9,7 @@
 ===Translations===
 
 *[[Afrikaans]]: [[Arend]]
+*[[Bulgarian]]: [[Oрел]]
 *[[Chinese(Simplified)]]: [[老鹰]] (needs to be checked by speaker)
 *[[Chinese(Traditional)]]: [[老鷹]] (needs to be checked by speaker)
 *[[Dutch]]: [[Arend]], [[Adelaar]] (1)
@@ -26,7 +27,8 @@
 *[[Latin]]: [[Aqvila]]
 *[[Norwegian]]: [[Ørn]]
 *[[Polish]]: [[Orzeł]] (1)
-*[[Russian]]: [[Oрел]] (needs to be checked by speaker)
+*[[Romanian]]: [[Vultur]]
+*[[Russian]]: [[Oрел]]
 *[[Spanish]] : [[Águila]] (1)
 *[[Swedish]]: [[Örn]]
-*[[Ukranian]]: [[Oрел]] (needs to be checked by speaker)
+*[[Ukranian]]: [[Oрел]]
