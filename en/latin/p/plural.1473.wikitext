@@ -4,7 +4,7 @@
 :'''Antonym:''' [[singular]]
 
 '''Translations'''
-
+* de: Plural
 * es: plural
 * fr: pluriel
 * he: לשון רבים
