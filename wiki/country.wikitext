@@ -4,7 +4,9 @@
 #:'''Translations'''
 #:*[[Dutch]]: [[land]]
 #:*[[French]]: [[pays]]
+#:*[[German]]: [[Land]]
+#:*[[Hebrew]]: [[ארץ]]
 
 ===[[adjective]]===
 
-From the [[countryside]], or connected with it. Rural.
+From the [[countryside]], or connected with it. [[Rural]].
