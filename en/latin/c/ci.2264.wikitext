@@ -1,3 +1,10 @@
-*Lojban: [[three]].
-*French: [[here]]; used in ''ce chose-ci'' "this thing".
-*Italian: [[us]].
+==Lojban==
+===Number===
+#[[three]].
+==French==
+===Contraction===
+Contrects ''[[ici]]'' or ''[[ceci]]''
+#[[here]]; as in ''cette chose-ci'' "this thing here".
+==Italian==
+===Pronoun==
+#[[us]].
