@@ -1,0 +1,7 @@
+'''[[Proper noun]]'''
+
+# A [[country]] in the Western Hemisphere.
+
+== Further reading ==
+
+* Wikipedia article on [[w:Mexico|Mexico]]
