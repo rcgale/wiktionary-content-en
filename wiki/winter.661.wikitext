@@ -20,6 +20,8 @@
 *[[Hebrew]]: [[חורף]] (KHO-ref)
 *[[Indonesian]]: [[musim dingin]]
 *[[Irish]]: [[Geimhreadh]]
+*[[Japanese]]: [[冬]] (ふゆ;huyu)
+*[[Korean]]: [[겨울]] (gyeo-ul)
 *[[Mäori]]: [[takurua]]
 *[[Norwegian]]: [[vinter]]
 * [[Polish]]: [[zima]]
