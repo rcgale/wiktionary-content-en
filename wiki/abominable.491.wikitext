@@ -1,5 +1,5 @@
 ===[[Etymology]]===
-French ''abominable''. Latin ''abominalis''. See [[Abominate]].]
+French ''abominable''. Latin ''abominalis''. See [[Abominate]].
 ===[[Adjective]]===
 #Worthy of, or causing, [[abhorrence]], as a thing of evil omen; [[odious]] in the [[utmost]] degree; very [[hateful]]; [[detestable]]; [[loathsome]]; [[execrable]].
 #''(Obsolete):'' Excessive; large; -- used as an [[intensive]]. 
