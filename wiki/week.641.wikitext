@@ -5,6 +5,7 @@
 ==Other languages==
 
 '''(nl)''' /weIk/
+
 ''(noun)''
 
 # week
