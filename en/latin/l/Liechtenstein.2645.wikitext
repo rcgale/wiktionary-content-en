@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Europe. Official name: Principality of Liechtenstein.
+#:'''Translations'''
+#:*[[Chinese]]: [[列支敦士登]]
+#:*[[Danish]]: Liechtenstein
+#:*[[Dutch]]: Liechtenstein
+#:*[[Esperanto]]: [[Liĥtenŝtejno]]
+#:*[[Finnish]]: Liechtenstein
+#:*[[French]]: Liechtenstein
+#:*[[German]]: Liechtenstein
+#:*[[Greek]]: [[Λιχτενστάιν]]
+#:*[[Interlingua]]: Liechtenstein
+#:*[[Italian]]: Liechtenstein
+#:*[[Polish]]: Liechtenstein
+#:*[[Portuguese]]: [[Listenstaine]]
+#:*[[Russian]]: [[Лихтенштейн]]
+#:*[[Spanish]]: Liechtenstein
+#:*[[Swedish]]: Liechtenstein
+
+''See'': [[Countries of the world]]
