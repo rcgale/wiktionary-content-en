@@ -10,3 +10,4 @@
 *he: [[אוקטובר]]
 *nl: [[oktober]]
 *pl: [[październik]]
+*sq: [[tetor]]
