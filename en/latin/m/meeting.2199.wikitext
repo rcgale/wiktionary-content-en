@@ -5,4 +5,6 @@
 
 *Dutch: [[vergadering]]
 *French: [[réunion]]
+*German: [[Treffen]],[[Sitzung]]
+*Hebrew: [[ישיבה]]
 *Spanish: [[reunión]]
