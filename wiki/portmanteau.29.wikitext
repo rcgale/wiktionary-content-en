@@ -6,12 +6,16 @@ Plural, portmanteaus, portmanteaux
 ''[[noun]]''
 
 # A large travelling case made of [[leather]].
-#* a. '''1500''' - anon, "Robin Hood and the Bishop of Hereford" in ''The English and Scottish Popular Ballads'' (1898) - "Then Little John took the bishop's cloak, And spread it upon the ground, And out of the bishop's portmantua, He told three hundred pound."
-#* '''1667''' - Charles Croke, ''Fortune's Uncertainty'' - "Rodolphus therefore finding such an earnest Invitation, embrac'd it with thanks, and with his Servant and Portmanteau, went to Don Juan's; where they first found good Stabling for their Horses, and afterwards as good Provision for themselves."
+#* a. '''1500''' - anon, "Robin Hood and the Bishop of Hereford" in ''The English and Scottish Popular Ballads'' (1898)
+#*: Then Little John took the bishop's cloak, And spread it upon the ground, And out of the bishop's portmantua, He told three hundred pound.
+#* '''1667''' - Charles Croke, ''Fortune's Uncertainty''
+#*: Rodolphus therefore finding such an earnest Invitation, embrac'd it with thanks, and with his Servant and Portmanteau, went to Don Juan's; where they first found good Stabling for their Horses, and afterwards as good Provision for themselves.
 Used as an ''[[adjective]]''
 # ''[[linguistic terminology|Linguistics]]''  A word formed by combining parts of other words; for example, ''[[smoke]]'' and ''[[fog]]'' combine to form ''[[smog]].'' 
-#* '''1872''' -Lewis Carroll. ''Alice Through the Looking Glass'' Humpty Dumpty speaking 'Well, "slithy" means "lithe and slimy." "Lithe" is the same as "active." You see it's like a portmanteau--there are two meanings packed up into one word.'
-#* '''1995''' -Michael Cart, ''From Romance to Realism'', page 110, ISBN 0060242892 '"[[Multiculturalism]]" is a portmanteau word, containing in its [[definition]] and its [[resonance|resonant]] [[connotation|connotations]] as many [[concept|concepts]] as a suitcase does socks'
+#* '''1872''' - Lewis Carroll. ''Alice Through the Looking Glass'' 
+#*: Well, "slithy" means "lithe and slimy." "Lithe" is the same as "active." You see it's like a portmanteau--there are two meanings packed up into one word.
+#* '''1995''' - Michael Cart, ''From Romance to Realism'', page 110, ISBN 0060242892 
+#*: "[[Multiculturalism]]" is a portmanteau word, containing in its [[definition]] and its [[resonance|resonant]] [[connotation|connotations]] as many [[concept|concepts]] as a suitcase does socks
 
 == Translations ==
 *nl: [[kostuumkoffer]], [[koffer]] (1); [[mengwoord]] (2)
