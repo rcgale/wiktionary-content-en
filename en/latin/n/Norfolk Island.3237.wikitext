@@ -1,0 +1,20 @@
+==English==
+
+'''proper noun'''
+# External territory of [[Australia]]; in the Pacific ocean. Official name: Territory of Norfolk Island.
+#:'''Translations'''
+#:*[[Danish]]: Norfolk Island
+#:*[[Dutch]]: [[Norfolkeiland]]
+#:*[[Esperanto]]: [[Norfolkinsulo]]
+#:*[[Finnish]]: [[Norfolkinsaari]]
+#:*[[French]]: [[Ile Norfolk]]
+#:*[[German]]: [[Norfolkinsel]]
+#:*[[Greek]]: [[Νήσος Νόρφοκ]], [[Νήσος Νόρφολκ]]
+#:*[[Italian]]: [[Isola Norfolk]]
+#:*[[Polish]]: [[Norfolk]]
+#:*[[Portuguese]]: [[Ilha Norfolk]]
+#:*[[Russian]]: [[остров Норфолк]]
+#:*[[Spanish]]: [[Isla Norfolk]]
+#:*[[Swedish]]: [[Norfolkön]]
+
+''See'': [[Countries of the world]]
