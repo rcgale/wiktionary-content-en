@@ -1,10 +1,22 @@
-===Meanings===
-#'''fra''' Feminine form of the adjective ''lent'' meaning [[slow]]
-#'''nla''' 'len-te /lent@/, ''masculine and feminine noun'', ''plural'' -s /-s/,  Traditionally the first of the four [[season]]s, normally from [[March]] 21 to [[June]] 20; [[spring]]
-#'''spa''' and '''ita''' Object, usually of glass, that focuses or defocuses the light that passes through it; a [[lens]]
-
+==Dutch==
+===Noun===
+#'''nla''' 'len-te /lent@/, ''masculine and feminine'', ''plural'' -s /-s/,  Traditionally the first of the four [[season]]s, normally from [[March]] 21 to [[June]] 20; [[spring]]
+===Translation===
+*es: [[primavera]]
+*fr: [[printemps]]
+*pl: [[wiosna]]
+==French==
+===Adjective===
+#Feminine form of the adjective ''lent'' meaning [[slow]]
 ===Translations===
-*es: [[primavera]] (2)
-*fr: [[printemps]] (2)
-*nl: [[langzaam]] (1), [[lens]] (3)
-*pl: [[wiosna]] (2)
+*nl: [[langzaam]] 
+==Italian==
+===Noun===
+#Object, usually of glass, that focuses or defocuses the light that passes through it; a [[lens]]
+===Translations===
+*nl: [[lens]] 
+==Spanish==
+===Noun===
+#Object, usually of glass, that focuses or defocuses the light that passes through it; a [[lens]]
+===Translations===
+*nl: [[lens]]
