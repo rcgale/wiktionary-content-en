@@ -10,6 +10,7 @@
 *fr: [[jeudi]]
 *[[Georgian]]: [[ხუთშაბათი]]
 *he: [[יום חמישי]]
+*hr: [[Četvrtak]]
 *mi: [[täite]]
 *nl: [[donderdag]]
 *pl: [[czwartek]]
