@@ -2,14 +2,21 @@ Dog \Dog\ \dôg\
 
 [[noun|n.]]
 # a member of the genus [[Canis]] (probably descended from the common [[wolf]]) that has been [[domesticated]] by man since prehistoric times; occurs in many breeds; "the dog barked all night" [syn: domestic dog, Canis familiaris]
+Usage Note: The word dog can be used to refer exclusively to the male of the genus, the feminine form being [[bitch]].
 # a dull unattractive unpleasant [[girl]] or [[woman]]; "she got a reputation as a frump"; "she's a real dog" [syn: frump]
 # informal term for a [[man]]: "you lucky dog"
-# someone who is morally reprehensible; "you dirty dog" [syn: cad, bounder, blackguard, hound, heel]
+# pejorative term for someone who is morally reprehensible; "you dirty dog" [syn: cad, bounder, blackguard, hound, heel]
 # a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward [syn: pawl, detent, click]
 # metal supports for [[log]]s in a fireplace; "the andirons were too hot to touch" [syn: andiron, firedog, dogiron]
 
+Plural form: dogs
+
+
+
 [[verb|v.]]
 # : go after with the intent to catch [syn: chase, chase after, trail, tail, tag, go after, track]
+
+
 
 == Further reading ==
 *[[en:Dog|Wikipedia article]]
