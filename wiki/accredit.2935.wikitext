@@ -1,0 +1,9 @@
+Accredit, <i>[[Verb]]</i>, ''to provide with credentials, or to attribute to or credit with''.  
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Accréditer]]
+<BR>• [[German]]: [[Beglaubigen sich]]
+<BR>• [[Interlingua]]: [[Accreditar]]
+<BR>• [[Italian]]: [[Accreditare]]
+<BR>• [[Portuguese]]: [[Acreditar]]
+<BR>• [[Spanish]]: [[Acreditar]]
+<BR>
