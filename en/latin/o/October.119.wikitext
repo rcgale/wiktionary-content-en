@@ -6,6 +6,7 @@
 *de: [[Oktober]]
 *eo: [[oktobro]]
 *es: [[octubre]]
+*eu: [[urri]]
 *fr: [[octobre]]
 *he: [[אוקטובר]]
 *mi: [[oketopa]]
