@@ -1,9 +1,17 @@
-''noun'' voluntary agreement or permission 
+===noun===
+#voluntary agreement or permission 
 (He gave ''consent'' to undergo the procedure.)
 
-''verb'' to express willingness, to give permission. 
-(I ''consent'' to...)
+'''translations'''
+*[[Dutch]]: [[toestemming]]
 
 [[Synonym]]s [[agreement]], [[willingness]], [[permission]]
+
+===verb===
+#to express willingness, to give permission. 
+(I ''consent'' to...)
+
+'''translations'''
+*[[Dutch]]: [[toestemmen]]
 
 See also [[age of consent]].
