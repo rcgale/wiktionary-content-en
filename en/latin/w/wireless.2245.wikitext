@@ -4,5 +4,6 @@
 
 ===Translations===
 
+*Finnish: [[langaton]]
 *French: sans fil
 *German: [[drahtlos]]
