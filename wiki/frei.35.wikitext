@@ -18,6 +18,7 @@ Related words: en [[free]], nl [[vrij]]
 *eo: [[libera]]
 *es: [[libre]] (1,4), [[gratis]] (2)
 *fr: [[libre]] (1,3,4), gratuit (2)
+*it: [[libero]] (1,4), [[gratuito]] (2), [[illimitato]] (3), [[disponibile]] (5)
 *nl: [[vrij]], gratis (2)
 *se: [[fri]] (1,3,4), gratis (2)
 *pt: [[livre]] (1,3,4), [[grátis]] (2), [[disponível]] (5)
