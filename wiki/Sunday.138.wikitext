@@ -8,3 +8,4 @@
 *fr: [[dimanche]]
 *nl: [[zondag]]
 *pl: [[niedziela]]
+*pt: [[Domingo]]
