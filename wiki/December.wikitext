@@ -10,6 +10,6 @@
 *fr: [[décembre]]
 *he: [[דצמבר]]
 *mi: [[tïhema]]
-*nl: [[december]]
+*nl: december (on this page)
 *pl: [[grudzien´]]
 *sq: [[dhjetor]]
