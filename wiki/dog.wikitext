@@ -24,6 +24,8 @@ Plural form: dogs
 *pl: [[pies]]
 *pt: [[cachorro]]
 
+== Proverbs ==
+*[[rain cats and dogs]]
 
 == Further reading ==
 *[[en:Dog|Wikipedia article]]
