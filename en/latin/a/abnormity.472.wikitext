@@ -1,0 +1,7 @@
+===Etymology===
+Late Latin ''abnormitas''. See [[Abnormous]]
+===Noun===
+Plural: abnormities
+#[[Departure]] from the ordinary type; [[irregularity]]; [[monstrosity]].
+#:'''Quotations'''
+#:*An ''abnormity'' ... like a calf born with two heads. - [[Mrs. Whitney]]
