@@ -7,6 +7,6 @@ Academy, <i>[[Noun]]</i> ''a group or place for scholarly discussion and trainin
 <BR>• [[German]]: [[Akademie]]
 <BR>• [[Interlingua]]: [[Academia]]
 <BR>• [[Italian]]: [[Academia]]
-<BR>• [[Portuguese]]: [[Academy]]
+<BR>• [[Portuguese]]: [[Académia]]
 <BR>• [[Spanish]]: [[Academia]]
 <BR>
