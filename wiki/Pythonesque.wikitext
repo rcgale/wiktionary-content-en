@@ -3,4 +3,4 @@
 1)Surreal,absurd Humour
 
 ==Etymology==
-From the British comedy Monty Python's Flying Circus
+From the name of the British comedy and due to the type of humour in it Monty Python's Flying Circus
