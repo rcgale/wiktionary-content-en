@@ -12,4 +12,4 @@
 '''Defense in abatement''', '''Plea in abatement''', ''(Law)'', plea to the effect that from some formal defect (e.g. [[misnomer]], want of jurisdiction) the proceedings should be abated.
 </ol>
 
-<HR> <P> <H3>Translations</H3><BR>•[[French]] fr: [[Réduction]]<BR>•[[German]] de: [[Abnahme]]<BR>•[[Interlingua]] ia: [[Diminution]]<BR>•[[Italian]] it: [[Riduzione]]<BR>•[[Portuguese]] pt: [[]]<BR>•[[Spanish]] es: [[Disminución]]<BR>•[[]]: [[]]
+<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Réduction]]<BR>• [[German]]: [[Abnahme]]<BR>• [[Interlingua]]: [[Diminution]]<BR>• [[Italian]]: [[Riduzione]]<BR>• [[Portuguese]]: [[]]<BR>• [[Spanish]]: [[Disminución]]<BR>•
