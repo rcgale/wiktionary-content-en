@@ -43,6 +43,11 @@
 '''OR'''
 #Logic function OR, true if one or more of inputs are true. More exactly said ''incluse OR'' (as difference from excluse OR [[XOR]]).
 
+(0 OR 0) = 0<br>
+(0 OR 1) = 1<br>
+(1 OR 0) = 1<br>
+(1 OR 1) = 1<br>
+
 ====Translation====
 
 *Finnish: [[TAI]]
