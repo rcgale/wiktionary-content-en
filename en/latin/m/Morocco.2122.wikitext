@@ -8,5 +8,6 @@
 #:*[[French]]: [[Maroc]]
 #:*[[German]]: [[Marokko]]
 #:*[[Polish]]: [[Maroko]]
+#:*[[Spanish]]: [[Marruecos]]
 
 ''See:'' [[Countries of the world]]
