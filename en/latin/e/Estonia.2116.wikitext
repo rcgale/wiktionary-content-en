@@ -7,6 +7,6 @@
 #:*[[Dutch]]: [[Estland]]
 #:*[[French]]: [[Estonie]]
 #:*[[German]]: [[Estland]]
-#:*[[Polish]]: [[Estonia]]
+#:*[[Polish]]: Estonia
 
 ''See:'' [[Countries of the world]]
