@@ -12,6 +12,8 @@ Old English ''græs'', from Germanic, from the same Proto-Indo-European root as 
 #:*Frisian: [[gers]]
 #:*Dutch: [[gras]]
 #:*Icelandic: [[gras]]
+#:*Japanese: [[草]] (くさ;kusa)
+#:*Korean: [[풀]] (pul)
 # Slang for [[marijuana]].
 #:'''Translations'''
 #:*French: [[herbe]]
