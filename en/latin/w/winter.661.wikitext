@@ -6,7 +6,7 @@ Plural: winters
 #:'''Translations'''
 #:*[[Albanian]]: [[dinër]]
 #:*[[Basque]]: [[negu]]
-#:*Croatian: [[zima]]
+#:*[[Croatian]]: [[zima]]
 #:*[[Czech]]: [[zima]]
 #:*[[Danish]]: [[vinter]]
 #:*[[Dutch]]: winter (on this page)
