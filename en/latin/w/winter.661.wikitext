@@ -1,7 +1,7 @@
 ===Meanings===
 # Traditionally the fourth of the four [[season]]s, normally from [[December]] 21 to [[March]] 20.  
 
-Usually marked by the applicable [[hemisphere]] of the [[planet]] being at its minimum angle of exposure to the [[Sun]] resulting in in short days and the typically the time period with the lowest atmospheric [[temperature]]s for the region.
+Usually marked by the applicable [[hemisphere]] of the [[planet]] being at its minimum angle of exposure to the [[Sun]] resulting in short days and the typically the time period with the lowest atmospheric [[temperature]]s for the region.
 
 ===Translations===
 *[[Albanian]]: [[dinër]]
