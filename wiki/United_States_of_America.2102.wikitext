@@ -3,6 +3,7 @@
 # Country in North America.
 #:'''Translations'''
 #:*[[Dutch]]: [[Verenigde Staten van Amerika]]
+#:*[[Esperanto]]: [[Unuiĝintaj Ŝtatoj de Ameriko]]
 #:*[[French]]: [[États-Unis d'Amérique]]
 #:*[[German]]: [[Vereinigte Staaten von Amerika]]
 #:*[[Hebrew]]: [[ארצות הברית]]
