@@ -1,0 +1,9 @@
+'''Domestic debt''' is the amount of money a country has to pay to people from the same country. This amount is mainly made off the bonds and interests of bonds.
+
+'''Antonym'''
+
+* [[Foreign debt]]
+
+'''Translations'''
+
+* Spanish : deuda interna
