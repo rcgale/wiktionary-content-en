@@ -7,6 +7,7 @@
 
 *[[Arabic]]: [[و]]
 *[[Dutch]]: [[en]]
+*[[Finnish]]: [[ja]]
 *[[German]]: [[und]]
 *[[Hebrew]]: -[[ו]]
 *[[Greek]]: [[και]]
