@@ -9,5 +9,8 @@
 *[[Frisian]]: [[taal]]
 *[[German]]: [[Sprache]]
 *[[Hebrew]]: [[שפה]]
+*[[Interlingua]]: [[lingua]]
+*[[Latin]]: [[lingua]]
 *[[Polish]]: [[język]]
+*[[Portuguese]]: [[língua]], [[idioma]]
 *[[Spanish]]: [[idioma]]
