@@ -1,6 +1,5 @@
-==Adverb==
-
-* the majority of 
+===Adverb===
+#the majority of 
 ===Examples ===
 * Most of them
 ===Translation===
