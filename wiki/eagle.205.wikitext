@@ -2,9 +2,9 @@
 
 ''noun''
 
-1) A carnivourous bird, known to have a powerful hooked bill and have keen vision.
-
-2) Old coin used in the United States.
+# A carnivourous bird, known to have a powerful hooked bill and have keen vision.
+# Old coin used in the United States.
+# The landing [[unit]] of [[Apollo]] 11
 
 ===Translations===
 
