@@ -265,7 +265,7 @@ kind of counter (in this case container - like bottle, can or glass) is being ta
 There are seven cases of noun and adjective declension in Polish.
 So far we have only introduced nominative ("mianownik") and accusative ("biernik"). Whole list, in traditional order, is:
 * Nominative (mianownik)
-* Genetive (dopełniacz)
+* Genitive (dopełniacz)
 * Dative (celownik)
 * Accusative (biernik)
 * Instrumentative (narzędnik)
@@ -301,25 +301,25 @@ Examples:
 * with instrumentative - "pod stołem" - under table
 * with accusative - "pod stół" - to under table (not really good English, but you get the idea)
 
-But it doesn't always work this way. "w" (in) can take locative, but correct change preposition is "do" with genetive. "w" with accusative is rarely used.
+But it doesn't always work this way. "w" (in) can take locative, but correct change preposition is "do" with genitive. "w" with accusative is rarely used.
 For example "w sklepie" (in shop), but "do sklepu" (to shop) not "w sklep".
 
 '''Dative''' is used as second (remote) object. For example:
 * Ala daje kotu mleko - Ala gives milk to cat (cat is in dative)
 
-Unlike Latin and to even greater extend German, '''genetive''' is very important case in Polish. It means possession, like in:
+Unlike Latin and to even greater extend German, '''genitive''' is very important case in Polish. It means possession, like in:
 * Adam widzi kota Ali - Adam sees Ala's cat (Ala in genetive)
 * Kot Ali pije mleko - Ala's cat drinks milk (Ala in genetive again)
 But it may also be object in megative sentence (nie is negation particle, placed usually before verb), if object is in accusative:
 * Kot pije mleko - cat drinks milk (milk in accusative)
-* Kot nie pije mleka - cat doesn't drink milk (milk in genetive)
+* Kot nie pije mleka - cat doesn't drink milk (milk in genitive)
 * Ala jest dziewczyną - Ala is a girl (girl is instrumentative)
 * Adam nie jest dziewczyną - Adam is not a girl (girl still is instrumentative)
 * Ala daje kotu mleko - Ala gives milk to cat (milk in accusative, cat in dative)
-* Ala nie daje kotu mleka - Ala doesn't give milk to cat (milk in genetive, cat in still dative)
+* Ala nie daje kotu mleka - Ala doesn't give milk to cat (milk in genitive, cat in still dative)
 
-Genetive is also used with units, like:
-* puszka piwa - can of beer (beer in genetive)
+Genitive is also used with units, like:
+* puszka piwa - can of beer (beer in genitive)
 
 * puszka - can
 
@@ -410,7 +410,7 @@ Let's take a look at a few typical feminine declension noun:
 <tr><th colspan=3>Girl
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Dwiewczyn'''a'''  <td>Dwiewczyn'''y'''
-<tr><th>Genetive          <td>Dwiewczyn'''y'''  <td>Dwiewczyn
+<tr><th>Genitive          <td>Dwiewczyn'''y'''  <td>Dwiewczyn
 <tr><th>Dative            <td>Dwiewczyn'''ie''' <td>Dwiewczyn'''om'''
 <tr><th>Accusative        <td>Dwiewczyn'''ę'''  <td>Dwiewczyn'''y'''
 <tr><th>Instrumentative   <td>Dwiewczyn'''ą'''  <td>Dwiewczyn'''ami'''
@@ -418,7 +418,7 @@ Let's take a look at a few typical feminine declension noun:
 <tr><th colspan=3>Woman
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Kobie'''ta'''     <td>Kobiet'''y'''
-<tr><th>Genetive          <td>Kobie'''ty'''     <td>Kobiet
+<tr><th>Genitive          <td>Kobie'''ty'''     <td>Kobiet
 <tr><th>Dative            <td><font color="#0000FF">Kobie'''cie'''</font>    <td>Kobiet'''om'''
 <tr><th>Accusative        <td>Kobie'''tę'''     <td>Kobiet'''y'''
 <tr><th>Instrumentative   <td>Kobie'''tą'''     <td>Kobiet'''ami'''
@@ -426,7 +426,7 @@ Let's take a look at a few typical feminine declension noun:
 <tr><th colspan=3>Ant
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Mrówk'''a'''      <td>Mrówk'''i'''
-<tr><th>Genetive          <td>Mrówk'''i'''      <td><font color="#00FF00">Mrówek</font>
+<tr><th>Genitive          <td>Mrówk'''i'''      <td><font color="#00FF00">Mrówek</font>
 <tr><th>Dative            <td><font color="#0000FF">Mrówc'''e'''</font>      <td>Mrówk'''om'''
 <tr><th>Accusative        <td>Mrówk'''ę'''      <td>Mrówk'''y'''
 <tr><th>Instrumentative   <td>Mrówk'''ą'''      <td>Mrówk'''ami'''
@@ -434,7 +434,7 @@ Let's take a look at a few typical feminine declension noun:
 <tr><th colspan=3>Coffee
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Kaw'''a'''        <td>Kaw'''y'''
-<tr><th>Genetive          <td>Kaw'''y'''        <td>Kaw
+<tr><th>Genitive          <td>Kaw'''y'''        <td>Kaw
 <tr><th>Dative            <td>Kaw'''ie'''       <td>Kaw'''om'''
 <tr><th>Accusative        <td>Kaw'''ę'''        <td>Kaw'''y'''
 <tr><th>Instrumentative   <td>Kaw'''ą'''        <td>Kaw'''ami'''
@@ -442,7 +442,7 @@ Let's take a look at a few typical feminine declension noun:
 <tr><th colspan=3>Cow
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Krow'''a'''       <td>Krow'''y'''
-<tr><th>Genetive          <td>Krow'''y'''       <td><font color="#FF0000">Krów</font>
+<tr><th>Genitive          <td>Krow'''y'''       <td><font color="#FF0000">Krów</font>
 <tr><th>Dative            <td>Krow'''ie'''      <td>Krow'''om'''
 <tr><th>Accusative        <td>Krow'''ę'''       <td>Krow'''y'''
 <tr><th>Instrumentative   <td>Krow'''ą'''       <td>Krow'''ami'''
@@ -462,7 +462,7 @@ A bit less typical are feminine nouns that end in "-ia":
 <tr><th colspan=3>Comedy
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Komed'''ia'''     <td>Komed'''ie'''
-<tr><th>Genetive          <td>Komed'''ii'''     <td>Komed'''ii'''
+<tr><th>Genitive          <td>Komed'''ii'''     <td>Komed'''ii'''
 <tr><th>Dative            <td>Komed'''ii'''     <td>Komed'''iom'''
 <tr><th>Accusative        <td>Komed'''ię'''     <td>Komed'''ie'''
 <tr><th>Instrumentative   <td>Komed'''ią'''     <td>Komed'''iami'''
@@ -483,7 +483,7 @@ And abstract feminine nouns ending in "-ść":
 <tr><th colspan=3>Love
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Miłość            <td>Miłośc'''i'''
-<tr><th>Genetive          <td>Miłośc'''i'''     <td>Miłośc'''i'''
+<tr><th>Genitive          <td>Miłośc'''i'''     <td>Miłośc'''i'''
 <tr><th>Dative            <td>Miłośc'''i'''     <td>Miłośc'''iom'''
 <tr><th>Accusative        <td>Miłość            <td>Miłośc'''i'''
 <tr><th>Instrumentative   <td>Miłośc'''ią'''    <td>Miłośc'''iami'''
@@ -491,7 +491,7 @@ And abstract feminine nouns ending in "-ść":
 <tr><th colspan=3>Height
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Wysokość          <td>Wysokośc'''i'''
-<tr><th>Genetive          <td>Wysokośc'''i'''   <td>Wysokośc'''i'''
+<tr><th>Genitive          <td>Wysokośc'''i'''   <td>Wysokośc'''i'''
 <tr><th>Dative            <td>Wysokośc'''i'''   <td>Wysokośc'''iom'''
 <tr><th>Accusative        <td>Wysokość          <td>Wysokośc'''i'''
 <tr><th>Instrumentative   <td>Wysokośc'''ią'''  <td>Wysokośc'''iami'''
@@ -505,7 +505,7 @@ Without this magic endings would look like:
 <table border=1>
 <tr align=center><th>                  <th>Singular          <th>Plural
 <tr align=center><th>Nominative        <td>                  <td>'''i'''
-<tr align=center><th>Genetive          <td>'''i'''           <td>'''i'''
+<tr align=center><th>Genitive          <td>'''i'''           <td>'''i'''
 <tr align=center><th>Dative            <td>'''i'''           <td>'''om'''
 <tr align=center><th>Accusative        <td>                  <td>'''i'''
 <tr align=center><th>Instrumentative   <td>'''ą'''           <td>'''ami'''
@@ -539,7 +539,7 @@ Before they get explained, let's take a look at some examples.
 <tr><th colspan=3>Boy (person-masculine)
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Chłopak           <td>Chłopak'''i'''
-<tr><th>Genetive          <td>Chłopak'''a'''    <td>Chłopak'''ów'''
+<tr><th>Genitive          <td>Chłopak'''a'''    <td>Chłopak'''ów'''
 <tr><th>Dative            <td>Chłopak'''owi'''  <td>Chłopak'''om'''
 <tr><th>Accusative        <td>Chłopak'''a'''    <td>Chłopak'''ów'''
 <tr><th>Instrumentative   <td>Chłopak'''iem'''  <td>Chłopak'''ami'''
@@ -547,7 +547,7 @@ Before they get explained, let's take a look at some examples.
 <tr><th colspan=3>Farmer (person-masculine)
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Rolnik            <td><font color="#00FF00">Rolnic'''y'''</font>
-<tr><th>Genetive          <td>Rolnik'''a'''     <td>Rolnik'''ów'''
+<tr><th>Genitive          <td>Rolnik'''a'''     <td>Rolnik'''ów'''
 <tr><th>Dative            <td>Rolnik'''owi'''   <td>Rolnik'''om'''
 <tr><th>Accusative        <td>Rolnik'''a'''     <td>Rolnik'''ów'''
 <tr><th>Instrumentative   <td>Rolnik'''iem'''   <td>Rolnik'''ami'''
@@ -555,7 +555,7 @@ Before they get explained, let's take a look at some examples.
 <tr><th colspan=3>Guy (person-masculine)
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Facet             <td><font color="#00FF00">Facec'''i'''</font>
-<tr><th>Genetive          <td>Facet'''a'''     <td>Facet'''ów'''
+<tr><th>Genitive          <td>Facet'''a'''     <td>Facet'''ów'''
 <tr><th>Dative            <td>Facet'''owi'''   <td>Facet'''om'''
 <tr><th>Accusative        <td>Facet'''a'''     <td>Facet'''ów'''
 <tr><th>Instrumentative   <td>Facet'''em'''   <td>Facet'''ami'''
@@ -565,7 +565,7 @@ Before they get explained, let's take a look at some examples.
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Inżynier          <td>Inżynier'''owie''' or
 <font color="#00FF00">Inżynierz'''y'''</font>
-<tr><th>Genetive          <td>Inżynier'''a'''   <td>Inżynier'''ów'''
+<tr><th>Genitive          <td>Inżynier'''a'''   <td>Inżynier'''ów'''
 <tr><th>Dative            <td>Inżynier'''owi''' <td>Inżynier'''om'''
 <tr><th>Accusative        <td>Inżynier'''a'''   <td>Inżynier'''ów'''
 <tr><th>Instrumentative   <td>Inżynier'''em'''  <td>Inżynier'''ami'''
@@ -574,7 +574,7 @@ Before they get explained, let's take a look at some examples.
 <tr><th colspan=3>Cat (animate-masculine)
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Kot               <td>Kot'''y'''
-<tr><th>Genetive          <td>Kot'''a'''        <td>Kot'''ów'''
+<tr><th>Genitive          <td>Kot'''a'''        <td>Kot'''ów'''
 <tr><th>Dative            <td>Kot'''u'''        <td>Kot'''om'''
 <tr><th>Accusative        <td>Kot'''a'''        <td>Kot'''y'''
 <tr><th>Instrumentative   <td>Kot'''em'''       <td>Kot'''ami'''
@@ -582,7 +582,7 @@ Before they get explained, let's take a look at some examples.
 <tr><th colspan=3>Dog (animate-masculine)
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td><font color="#FF0000">Pies</font>              <td>Ps'''y'''
-<tr><th>Genetive          <td>Ps'''a'''         <td>Ps'''ów'''
+<tr><th>Genitive          <td>Ps'''a'''         <td>Ps'''ów'''
 <tr><th>Dative            <td>Ps'''u'''         <td>Ps'''om'''
 <tr><th>Accusative        <td>Ps'''a'''         <td>Ps'''y'''
 <tr><th>Instrumentative   <td>Ps'''em'''        <td>Ps'''ami'''
@@ -590,7 +590,7 @@ Before they get explained, let's take a look at some examples.
 <tr><th colspan=3>Computer (inanimate-masculine)
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Komputer          <td>Komputer'''y'''
-<tr><th>Genetive          <td>Komputer'''a'''   <td>Komputer'''ów'''
+<tr><th>Genitive          <td>Komputer'''a'''   <td>Komputer'''ów'''
 <tr><th>Dative            <td>Komputer'''owi''' <td>Komputer'''om'''
 <tr><th>Accusative        <td>Komputer          <td>Komputer'''y'''
 <tr><th>Instrumentative   <td>Komputer'''em'''  <td>Komputer'''ami'''
@@ -598,7 +598,7 @@ Before they get explained, let's take a look at some examples.
 <tr><th colspan=3>Table (inanimate-masculine)
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td><font color="#FF0000">Stół</font>               <td>Stoł'''y'''
-<tr><th>Genetive          <td>Stoł'''u'''       <td>Stoł'''ów'''
+<tr><th>Genitive          <td>Stoł'''u'''       <td>Stoł'''ów'''
 <tr><th>Dative            <td>Stoł'''owi'''     <td>Stoł'''om'''
 <tr><th>Accusative        <td><font color="#FF0000">Stół</font>              <td>Stoł'''y'''
 <tr><th>Instrumentative   <td>Stoł'''em'''      <td>Stoł'''ami'''
@@ -614,7 +614,7 @@ Phonetic changes and irregularities are:
 
 Nowe some sentences:
 * Pies jest pod stołem - dog in under table (table in instrumentative)
-* Chłopak nie ma psa - boy doesn't have a dog (dog in genetive)
+* Chłopak nie ma psa - boy doesn't have a dog (dog in genitive)
 * Facet daje kotu mleka - guy gives milk to cat (cat in dative)
 * Adam jest rolnikiem - Adam is a farmer (farmer in instrumentative)
 
@@ -626,7 +626,7 @@ Neuter gender is least popular. Many neuter words end in "-o" and their declensi
 <tr><th colspan=3>Beer
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Piw'''o'''        <td>Piw'''a'''
-<tr><th>Genetive          <td>Piw'''a'''        <td>Piw
+<tr><th>Genitive          <td>Piw'''a'''        <td>Piw
 <tr><th>Dative            <td>Piw'''u'''        <td>Piw'''om'''
 <tr><th>Accusative        <td>Piw'''o'''        <td>Piw'''a'''
 <tr><th>Instrumentative   <td>Piw'''em'''       <td>Piw'''ami'''
@@ -634,7 +634,7 @@ Neuter gender is least popular. Many neuter words end in "-o" and their declensi
 <tr><th colspan=3>Chair
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Krzesł'''o'''        <td>Krzesł'''a'''
-<tr><th>Genetive          <td>Krzesł'''a'''        <td><font color="#0000FF">Krzeseł</font>
+<tr><th>Genitive          <td>Krzesł'''a'''        <td><font color="#0000FF">Krzeseł</font>
 <tr><th>Dative            <td>Krzesł'''u'''        <td>Krzesł'''om'''
 <tr><th>Accusative        <td>Krzesł'''o'''        <td>Krzesł'''a'''
 <tr><th>Instrumentative   <td>Krzesł'''em'''       <td>Krzesł'''ami'''
@@ -642,7 +642,7 @@ Neuter gender is least popular. Many neuter words end in "-o" and their declensi
 <tr><th colspan=3>Cake
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Ciastk'''o'''     <td>Ciastk'''a'''
-<tr><th>Genetive          <td>Ciastk'''a'''     <td><font color="#0000FF">Ciastek</font>
+<tr><th>Genitive          <td>Ciastk'''a'''     <td><font color="#0000FF">Ciastek</font>
 <tr><th>Dative            <td>Ciastk'''u'''     <td>Ciastk'''om'''
 <tr><th>Accusative        <td>Ciastk'''o'''     <td>Ciastk'''a'''
 <tr><th>Instrumentative   <td>Ciastk'''iem'''   <td>Ciastk'''ami'''
@@ -650,7 +650,7 @@ Neuter gender is least popular. Many neuter words end in "-o" and their declensi
 <tr><th colspan=3>Child
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Dzieck'''o'''     <td>Dziec'''i'''
-<tr><th>Genetive          <td>Dzieck'''a'''     <td>Dziec'''i'''
+<tr><th>Genitive          <td>Dzieck'''a'''     <td>Dziec'''i'''
 <tr><th>Dative            <td>Dzieck'''u'''     <td>Dziec'''iom'''
 <tr><th>Accusative        <td>Dzieck'''o'''     <td>Dziec'''i'''
 <tr><th>Instrumentative   <td>Dzieck'''iem'''   <td><font color="#00FF00">Dzieć'''mi'''</font>
@@ -658,7 +658,7 @@ Neuter gender is least popular. Many neuter words end in "-o" and their declensi
 <tr><th colspan=3>Eye
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Ok'''o'''         <td>Ocz'''y'''
-<tr><th>Genetive          <td>Ok'''a'''         <td>Ocz'''u'''
+<tr><th>Genitive          <td>Ok'''a'''         <td>Ocz'''u'''
 <tr><th>Dative            <td>Ok'''u'''         <td>Ocz'''om'''
 <tr><th>Accusative        <td>Ok'''o'''         <td>Ocz'''y'''
 <tr><th>Instrumentative   <td>Ok'''iem'''       <td>Ocz'''ami''' or archaic Ocz'''yma'''
@@ -666,7 +666,7 @@ Neuter gender is least popular. Many neuter words end in "-o" and their declensi
 <tr><th colspan=3>Ear
 <tr><th>                  <th>Singular          <th>Plural
 <tr><th>Nominative        <td>Uch'''o'''        <td>Usz'''y'''
-<tr><th>Genetive          <td>Uch'''a'''        <td>Usz'''u'''
+<tr><th>Genitive          <td>Uch'''a'''        <td>Usz'''u'''
 <tr><th>Dative            <td>Uch'''u'''        <td>Usz'''om'''
 <tr><th>Accusative        <td>Uch'''o'''        <td>Usz'''y'''
 <tr><th>Instrumentative   <td>Uch'''em'''       <td>Usz'''ami'''
@@ -761,12 +761,12 @@ In Polish basic "and" word is "i":
 * Kot jest gruby i czarny - cat is fat and black
 * Adam lubi Alę i Basię - Adam likes Ala and Basia
 
-Other important words are "z" (with) and "bez" (without). "z" is used with instrumentative, and "bez" with genetive
+Other important words are "z" (with) and "bez" (without). "z" is used with instrumentative, and "bez" with genitive
 * Magda z Tomkiem są małżeństwem - Magda and Tomek are married (Tomek in instrumentative)
 * Magda i Tomek są małżeństwem - also ok
 * Dziecko lubi kanapki z serem - child likes sandwiches with cheese (cheese in instrumentative)
 * Dziecko lubi kanapki i ser - child likes sandwiches and cheese, different meaning
-* Kobieta lubi kawę bez cukru - woman likes coffee without sugar (sugar in genetive)
+* Kobieta lubi kawę bez cukru - woman likes coffee without sugar (sugar in genitive)
 
 * małżeństwo - married couple
 * kanapka - sandwich
@@ -808,7 +808,7 @@ Other questions are created by question pronouns like:
 <table border=1>
 <tr><th>                <th>Who    <th>What
 <tr><th>Nominative      <td>kto    <td>co
-<tr><th>Genetive        <td>kogo   <td>czego
+<tr><th>Genitive        <td>kogo   <td>czego
 <tr><th>Dative          <td>komu   <td>czemu
 <tr><th>Accusative      <td>kogo   <td>co
 <tr><th>Instrumentative <td>kim    <td>czym
