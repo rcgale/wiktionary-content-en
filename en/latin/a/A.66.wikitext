@@ -4,8 +4,15 @@ Named /e&#618;/ in the English, and most commonly /&#593;&#720;/ in other langua
 ====Definitions====
 #The first letter of the English and of many other alphabets. The capital A of the alphabets of Middle and Western Europe, as also the small letter (a), besides the forms in Italic, black letter, etc., are all descended from the old Latin A, which was borrowed from the Greek Alpha (&Alpha; &alpha), of the same form; and this was made from the first letter of the Phoenician alphabet, the equivalent of the Hebrew Aleph (&#8501), and itself from the Egyptian origin. The Aleph was a consonant letter, with a guttural breath sound that was not an element of Greek articulation; and the Greeks took it to represent their vowel Alpha with the a sound, the Phoenician alphabet having no vowel symbols.
 #The name of the sixth tone (also known as [[lah]]) in the model major scale (that in C), or the first tone of the minor scale, which is named after it the scale in A minor. The second string of the violin is tuned to the A in the treble staff. -- A sharp (A&#9839;) is the name of a musical tone intermediate between A and B. -- A flat (A&#9837;) is the name of a tone intermediate between A and G.
+#:'''Derived Expression'''
+#:*[[A per se]]
+#::'''Etymology:''' Latin ''per se'' by itself
+#::''(Obsolete):'' one preëminent, a nonesuch
+#:::'''Quotation:''' O fair Creseide, the flower and '''A per se''' Of Troy and Greece - [[Chaucer]]
 ===Adjective===
+====Etymology====
 Shortened form of [[an]] Anglo Saxon &#257n one. See [[One]]
+====Definition====
 #An adjective, commonly called the indefinite article, and signifying one or any, but less emphatically.
 #:'''Examples and Quotations'''
 #:*At a birth"
@@ -13,7 +20,10 @@ Shortened form of [[an]] Anglo Saxon &#257n one. See [[One]]
 #:*At a blow" - Shakespeare, ''?''. 
 #:'''Notes'''
 #:#It is placed before nouns of the singular number denoting an individual object, or a quality individualized, before collective nouns, and also before plural nouns when the adjective few or the phrase great many or good many is interposed; as, a dog, a house, a man; a color; a sweetness; a hundred, a fleet, a regiment; a few persons, a great many days. It is used for an, for the sake of euphony, before words beginning with a consonant sound [for exception of certain words beginning with h, see An]; as, a table, a woman, a year, a unit, a eulogy, a ewe, a oneness, such a one, etc. Formally an was used both before vowels and consonants.
-#In each; to or for each; as, "twenty leagues a day", "a hundred pounds a year", "a dollar a yard", etc. (Derived from the preposition meaning "on") 
+====Etymology====
+Derived from the preposition meaning "on"
+====Definition====
+#In each; to or for each; as, "twenty leagues a day", "a hundred pounds a year", "a dollar a yard", etc.
 ===Preposition===
 (Abbreviated form of ''an'' (Anglo Saxon on). See [[On]])
 #''(Obsolete):'' In; on; at; by.
