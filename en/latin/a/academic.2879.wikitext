@@ -7,6 +7,6 @@ Academic, <i>[[Noun]]</i>
 <BR>• [[German]]: [[Akademisch]]
 <BR>• [[Interlingua]]: [[Academic]], [[Scholar]]
 <BR>• [[Italian]]: [[]]
-<BR>• [[]]: [[Academic]]
+<BR>• [[Portuguese]]: [[]]
 <BR>• [[Spanish]]: [[Académico]], [[Escolar]]
 <BR>
