@@ -1,0 +1,9 @@
+1. (Preposition) Latin for "with".
+
+2. Used in constructions such as: an X-cum-Y (for one who does X and Y on the side)
+
+3. (Verb, sexual slang) To orgasm.
+
+4. (Verb, sexual slang) To ejaculate.
+
+5. (Noun, sexual slang) Semen.
