@@ -1,15 +1,10 @@
-==[[Noun]]==
-
 ===Etymology===
-Latin ''abolitio'', fr. ''abolere'': cf. French ''abolition''. See [[Abolish]].]
+Latin ''abolitio'', from ''abolere'': cf. French ''abolition''. See [[Abolish]].] 
+==[[Noun]]==
+#The act of [[abolishing]], or the state of being [[abolished]]; an [[annulling]]; [[abrogation]]; utter destruction; as, the ''abolition'' of [[slave]]ry]] or the slave trade; the ''abolition'' of laws, decrees, [[ordinances]], customs, taxes, debts, etc.
+#:'''''Note:''''' The application of this word to persons is now unusual or obsolete
 
-The act of [[abolishing]], or the state of being [[abolished]]; an [[annulling]]; [[abrogation]]; utter destruction; as, the ''abolition'' of [[slave]]ry]] or the slave trade; the ''abolition'' of laws, decrees, [[ordinances]], customs, taxes, debts, etc.
-
-'''''Note:''''' The application of this word to persons is now unusual or obsolete
-
-----
-
-'''Translations'''
+===Translations===
 
 *[[Esperanto]]: [[abolicio]], [[forigo]] 
 *[[Finnish]]: [[lakkauttaminen]]
