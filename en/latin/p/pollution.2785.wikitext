@@ -2,5 +2,11 @@
 
 ===Translations===
 
+*Finnish: [[saaste]]
 *French: pollution
 *Spanish: [[contaminación]]
+
+===See also===
+
+* [[pollutant]] ([[noun]])
+* [[pollute]] ([[verb]])
