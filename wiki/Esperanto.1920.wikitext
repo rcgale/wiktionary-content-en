@@ -2,13 +2,13 @@
 
 *Multilingual information about Esperanto : 
 
-http://www.esperanto.net
+**http://www.esperanto.net
 
-http://www.esperanto.org
+**http://www.esperanto.org
 
-Wikipedia article in english about Esperanto: 
+**Wikipedia article in english about Esperanto: 
 
-[[en:Esperanto|Wikipedia: Esperanto]]
+**[[en:Esperanto|Wikipedia: Esperanto]]
 
 *[[ISO]] International Abbreviation:  EO
 
