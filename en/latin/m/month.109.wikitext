@@ -7,7 +7,8 @@ Old English [[monat]], from Germanic *[[manoth]], which is related to *[[manon]]
 
 ==Translations==
 *de: [[Monat]]
-*es : mes (plural: meses)
+*es: mes (plural: meses)
 *fr: [[mois]]
+*he: חודש
 *nl: [[maand]]
 *pl: [[miesiąc]]
