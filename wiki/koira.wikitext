@@ -1,5 +1,5 @@
 Koira ([[CanisFamiliaris]], lat.) on nelijalkainen nisäkäs.
-Koiria pidetääm kotieläiminä; luonnonvaraisina niitä esiintyy
+Koiria pidetään kotieläiminä; luonnonvaraisina niitä esiintyy
 vain villiintyneinä.
 
 Sanontoja:
