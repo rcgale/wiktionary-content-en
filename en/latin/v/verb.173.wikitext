@@ -1,17 +1,17 @@
+===Etymology===
+From old French ''verbe'', which derives from Latin ''verbum'' (word), from Indo European *[[wer-]]
+===Pronunciation===
 [Verb] \Verb\ SAMPA \v3(r/)b\ '''(de)''' \vERb\
 
-''[[noun]]''
+===[[noun]]===
 # a word that serves as the predicate of a sentence
 # a content word that denotes an action or a state
 
 Plural form: verbs
 
-==Etymology==
 
-From old French ''verbe'', which derives from Latin ''verbum'' (word), from Indo European *[[wer-]]
 
 ==Translations==
-
 *[[Arabic]]: [[فعل]]
 *[[German]]: Zeitwort, Verb, [[Verbum]]
 *[[Spanish]]: [[Verbo]]
