@@ -1,5 +1,5 @@
 ===Pronunciation===
 [U-F-O]
 
-===Proper Noun===
+===Noun===
 # Abbreviation of ''unidentified flying object''.
