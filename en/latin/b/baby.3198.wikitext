@@ -1,0 +1,11 @@
+==[[Noun]]==
+
+#A very young human being, from birth to a couple of years
+
+===Translations===
+
+*French: [[bébé]]
+
+===Related words===
+
+*a [[big baby]]
