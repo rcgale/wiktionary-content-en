@@ -8,3 +8,4 @@
 *fr: juin
 *nl: [[juni]]
 *pl: [[czerwiec]]
+*sq: [[qershor]]
