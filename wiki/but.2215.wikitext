@@ -5,5 +5,6 @@
 
 ===Translations===
 *Dutch: [[maar]]
+*Finnish: [[mutta]]
 *French: [[mais]]
 *Spanish: [[pero]]
