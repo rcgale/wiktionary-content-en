@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# [[British]] overseas territory in the Caribbean. Official name: Anguilla.
+#:'''Translations'''
+#:*[[Chinese]]: [[安圭拉]]
+#:*[[Danish]]: Anguilla
+#:*[[Dutch]]: Anguilla
+#:*[[Esperanto]]: [[Angvilo]], [[Angilo]]
+#:*[[Finnish]]: Anguilla
+#:*[[French]]: Anguilla
+#:*[[German]]: Anguilla
+#:*[[Greek]]: [[Ανγκουίλα]]
+#:*[[Italian]]: Anguilla
+#:*[[Polish]]: Anguilla
+#:*[[Portuguese]]: [[Anguila]]
+#:*[[Russian]]: [[Ангилья]]
+#:*[[Spanish]]: [[Anguila]]
+#:*[[Swedish]]: Anguilla
+
+''See'': [[Countries of the world]]
