@@ -6,7 +6,7 @@
 
 ===Translations===
 
-*Dutch: [[ook]], [[tevens]], [[bovendien]]
+*Dutch: [[ook]], [[eveneens]], [[tevens]], [[bovendien]]
 *French: [[aussi]], [[également]]
 *Frisian: [[ek]]
 *German: [[auch]]
