@@ -1,0 +1,9 @@
+==English==
+
+# Country in Western Europe.
+#:'''Translations'''
+#:*[[Dutch]]: [[Duitsland]]
+#:*[[French]]: [[Allemagne]]
+#:*[[German]]: [[Deutchland]]
+
+''See:'' [[Countries of the world]]
