@@ -7,6 +7,7 @@
 ===Translations===
 *[[Albanian]]: [[pranverë]] (1)
 *[[Basque]]: [[udaherri]] (1)
+*[[Croatian]]: [[proljeće]] (1)
 *[[Dutch]]: [[lente]] (1), [[bron]] (2), [[veer]] (3)
 *[[French]]: [[printemps]] (1)
 *[[Hebrew]]: [[אביב]] (noun 1), [[מעיין]] (noun 2), [[קפיץ]] (noun 3)
