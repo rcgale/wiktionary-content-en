@@ -9,4 +9,8 @@ Prefix ''a-'' on, in + ''board''
 #:'''Quotations'''
 #:*Nor iron bands ''aboard'' The Pontic Sea by their huge navy cast. ''[[Spenser]]''
 ===Derived phrases===
-''[[Naut (source)|Naut]].'': '''To fall aboard of''', to strike a [[ship]]'s side; to fall foul of. -- '''To haul the tacks aboard''', to set the courses. -- '''To keep the land aboard''', to hug the shore. -- '''To lay (a ship) aboard''', to place one's own ship close [[alongside]] of (a ship) for [[fighting]].
+''[[Nautical]]'':
+*'''To fall aboard of''', to strike a [[ship]]'s side; to fall foul of.
+*'''To haul the tacks aboard''', to set the courses.
+*'''To keep the land aboard''', to hug the shore.
+*'''To lay (a ship) aboard''', to place one's own ship close [[alongside]] of (a ship) for [[fighting]].
