@@ -1,6 +1,6 @@
 [June] /___/
 
-#June is the 6th [[month]] in the Gregorian [[calendar]]. It has 30 days.
+#June is the sixth [[month]] in the Gregorian [[calendar]]. It has 30 [[day]]s.
 
 ==Translations==
 *es:junio
