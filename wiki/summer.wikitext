@@ -7,4 +7,5 @@
 *fr: [[été]]
 *mi: [[raumati]]
 *nl: [[zomer]]
+*pt: [[verão]]
 *sq: [[verë]]
