@@ -1,3 +1,8 @@
+Union whith all empoyees of a company (except top excecutives) regardless of their occupation.
+Entreprise union is a type of union opposed to [[trade union]]
+
 '''Transaltions'''
 
-* French : [[syndicat ddindustrie]]
+* French : 
+:[[syndicat d'entreprise]] Source : ''Denise Flouzat, Japon éternelle renaissance''
+:[[syndicat d'industrie]] Source : ''online encyclopedia on Yahoo!''
