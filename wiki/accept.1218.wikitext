@@ -27,4 +27,5 @@
 
 
 ===Adjective===
-#''Obsolete'' Accepted.  ''[[Shakespeare (source)|Shakespeare]].''
+#''Obsolete'' Accepted.  
+#:Pass our accept and peremptory answer. - Shakespeare: ''Henry V''
