@@ -5,7 +5,7 @@
 # Country in Central Europe. Official name: Republic of Austria.
 #:'''Translations'''
 #:*[[Chinese]]: [[奥地利]]
-#:*[[Dannish]]: [[Østrig]]
+#:*[[Danish]]: [[Østrig]]
 #:*[[Dutch]]: [[Oostenrijk]]
 #:*[[Esperanto]]: [[Aŭstrio]], [[Aŭstrujo]]
 #:*[[Finnish]]: [[Itävalta]]
