@@ -1,0 +1,11 @@
+==Noun==
+
+#Place where bad people from various religion are said to go.
+===Antonyms===
+[[Heaven]]
+===Translations===
+*French : [[enfer]]
+
+#Place where you suffer a lot  (on earth)
+===Translations===
+*French : [[enfer]]
