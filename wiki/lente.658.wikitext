@@ -9,14 +9,14 @@
 ===Adjective===
 #Feminine form of the adjective ''lent'' meaning [[slow]]
 ====Translations====
-*nl: [[langzaam]] 
+*[[Dutch]]: [[langzaam]] 
 ==Italian==
 ===Noun===
 #Object, usually of glass, that focuses or defocuses the light that passes through it; a [[lens]]
 ====Translations====
-*nl: [[lens]] 
+*[[Dutch]]: [[lens]] 
 ==Spanish==
 ===Noun===
 #Object, usually of glass, that focuses or defocuses the light that passes through it; a [[lens]]
 ====Translations====
-*nl: [[lens]]
+*[[Dutch]]: [[lens]]
