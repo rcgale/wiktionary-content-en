@@ -12,7 +12,7 @@
 *eu: [[larunbat]]
 *fr: [[samedi]]
 *[[Georgian]]: [[შაბათი]]
-*he: [[שבת]]
+*he: [[שבת]] (shah-BAHT)
 *hr: [[Subota]]
 *it: [[sabato]]
 *mi: [[hätarei]]
@@ -26,4 +26,4 @@
 *[[Sotho]]: [[Moqebele]]
 *sq: [[e shtunë]]
 *Wolof: [[Gaawu]]
-*yi: [[שבת]]
+*yi: [[שבת]] (SHAH-bess)
