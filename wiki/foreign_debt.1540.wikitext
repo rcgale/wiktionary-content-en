@@ -7,4 +7,5 @@ The amount of money that a country has to pay to another country.
 
 '''Translations'''
 
+* es: [[deuda externa]]
 * fr: [[dette extérieur]]
