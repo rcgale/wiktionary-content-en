@@ -1,3 +1,3 @@
 Abbreviation for:
 
-* Light-Emitting Diod
+* Light-Emitting Diode
