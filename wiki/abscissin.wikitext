@@ -1,0 +1,5 @@
+===Etymology===
+Derived from [[abscission]]
+===Noun===
+#A plant hormone controlling the droping off or abscission of certain plant parts, notably the leaves of trees in autumn or cotton bolls.
+#:'''Note:''' In recent years this term has been relaced by [[abscisic acid]]
