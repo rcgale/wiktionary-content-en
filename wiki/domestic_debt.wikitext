@@ -10,5 +10,6 @@
 
 '''Translations'''
 
-* French : [[dette intérieur]], [[dette nationale]], [[dette publique]]
-* Spanish : [[deuda interna]]
+*[[Dutch]]: [[binnenlandse schuld]]
+*[[French]]: [[dette intérieur]], [[dette nationale]], [[dette publique]]
+*[[Spanish]]: [[deuda interna]]
