@@ -1,3 +1,6 @@
 ===Adjective===
 #A close relation.
-#Relating to the country of Germany.
+#Relating to the [[country]] of [[Germany]].
+#:'''Translations'''
+#:*[[Interlingua]]: german
+#:*[[Portuguese]]: [[alemão]]
