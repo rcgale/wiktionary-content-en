@@ -5,3 +5,4 @@ Freedom of speech
 
 *fr: liberté d'expression
 *se: [[yttrandefrihet]]
+*no: [[ytringsfrihet]]
