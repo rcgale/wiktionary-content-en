@@ -4,9 +4,8 @@
 # A period of approximately 365.24 [[day]]s (one [[Earth]]-year).
 
 ==Translations==
-
-*Dutch: [[jaar]]
-*French: [[année]], [[an]]
-*German: [[Jahr]]
-*fy: [[jier]]
-*Spanish: [[año]]
+*[[Dutch]]: [[jaar]]
+*[[French]]: [[année]], [[an]]
+*[[Frisian]]: [[jier]]
+*[[German]]: [[Jahr]]
+*[[Spanish]]: [[año]]
