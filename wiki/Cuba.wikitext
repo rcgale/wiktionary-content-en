@@ -5,7 +5,7 @@
 # Country in the Caribbean. Official name: Republic of Cuba.
 #:'''Translations'''
 #:*[[Chinese]]: [[古巴]]
-#:*[[Dannish]]: Cuba
+#:*[[Danish]]: Cuba
 #:*[[Dutch]]: Cuba
 #:*[[Esperanto]]: [[Kubo]]
 #:*[[Finnish]]: [[Kuuba]]
