@@ -31,4 +31,4 @@ Present Participle
 
 <HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Confonder]]<BR>• [[German]]: [[Beschämen Sich]]<BR>• [[Interlingua]]: [[Confunder]]<BR>• [[Italian]]: [[]]<BR>• [[Portuguese]]: [[]]<BR>• [[Spanish]]: [[Confundir]]
 
-Abashed, <H5>[[Adjective]] / [[Past Participle]]</H5> <BR>• [[French]]: [[Confondu]]<BR>• [[German]]: [[Beschämt]]<BR>• [[Interlingua]]: [[Confundite]], [[Disconcertate]]<BR>• [[Italian]]: [[]]<BR>• [[Portuguese]]: [[Confundido]]<BR>• [[Spanish]]: [[Confundido]]<BR>• [[]]: [[]]
+Abashed, <b>[[Adjective]] / [[Past Participle]]</b> <BR>• [[French]]: [[Confondu]]<BR>• [[German]]: [[Beschämt]]<BR>• [[Interlingua]]: [[Confundite]], [[Disconcertate]]<BR>• [[Italian]]: [[]]<BR>• [[Portuguese]]: [[Confundido]]<BR>• [[Spanish]]: [[Confundido]]<BR>• [[]]: [[]]
