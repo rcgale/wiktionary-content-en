@@ -1,5 +1,9 @@
 The amount of money that a country has to pay to another country.
 
+'''Synonym'''
+
+* External debt
+
 '''See also'''
 
 * [[debt]]
