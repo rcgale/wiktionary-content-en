@@ -3,6 +3,7 @@
 == Translation ==
 *[[Dutch]]: [[vertaling]]
 *[[Esperanto]]: [[traduko]]
+*[[Finnish]]: [[käännös]]
 *[[French]]: [[traduction]]
 *[[Interlingua]]: [[traduction]]
 *[[Portuguese]]: [[tradução]]
