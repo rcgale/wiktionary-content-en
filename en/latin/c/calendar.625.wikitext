@@ -1,5 +1,5 @@
 Calendar 
-:/kAlEnd@r/in SAMPA
+:/kAlEnd@(r)/in SAMPA
 :/'kal&#618;nd&#601;/ in IPA
 
 '''(en)''' ''noun''
