@@ -1,11 +1,13 @@
-''Mass noun''
+'''Mass noun'''
 
 ==[[Count noun]]==
 
 # A '''mass noun''' is a [[noun]] that is not usually made plural.
 
-Examples:
+#*Examples:
 
-#* [[information]]
-#* [[money]]
-#* [[soap]]
+#** [[information]]
+#** [[money]]
+#** [[soap]]
+
+Compare [[count noun]].
