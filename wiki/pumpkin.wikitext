@@ -10,6 +10,7 @@
 # A [[term]] of [[endearment]] for the [[small]] and [[cute]], often expressed in the [[alternate]] U.S. form and pronounciation, [[punkin]].
 
 ===Translations===
+
 *de: [[K&uuml;rbis]]
 *he: [[&#1491;&#1500;&#1506;&#1514;]]
 *nl: [[pompoen]]
