@@ -11,3 +11,5 @@
 
 ==Related Words==
 * [[Whenever]], [[wherever]], [[whoever]] or ([[whomever]]) may [[be]] used [[in]] [[an]] anologeous fashion in [[the]] appropriate [[context]]
+* [[whyever]]
+* [[however]
