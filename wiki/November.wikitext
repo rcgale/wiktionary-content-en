@@ -9,3 +9,4 @@
 *he: [[נובמבר]]
 *nl: [[november]]
 *pl: [[listopad]]
+*sq: [[nëntor]]
