@@ -5,7 +5,7 @@
 # Country in West Asia. Official name: Republic of Armenia.
 #:'''Translations'''
 #:*[[Chinese]]: [[亚美尼亚]]
-#:*[[Dannish]]: [[Armenien]]
+#:*[[Danish]]: [[Armenien]]
 #:*[[Dutch]]: [[Armenië]]
 #:*[[Esperanto]]: [[Armenio]], [[Armenujo]]
 #:*[[Finnish]]: Armenia
