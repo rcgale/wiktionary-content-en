@@ -1,0 +1,3 @@
+Abbreviation for:
+
+* [[European]] [[Union]]
