@@ -1,23 +1,19 @@
-'''[[noun]]'''
-
+===[[noun]]===
 # An [[island]] [[country]] in the [[Pacific ocean]], located [[east]] of [[Korea]].
+#:'''Translations'''
+#:*[[Chinese]]: [[日本]]
+#:*[[Dutch]]: Japan
+#:*[[French]]: [[Japon]] (synonyms:  l'Archipel, le pays du Soleil Levant)
+#:*[[Frisian]]: Japan
+#:*[[German]]: Japan
+#:*[[Japanese]]: [[日本]](Nipon)
+#:*[[Korean]]: [[일본]] (ilbon)
+#:*[[Spanish]]: [[Japón]]
 
 '''Related words'''
-
 * [[Japanese]] : related to Japan, inhabitant of Japan, an language of Japan
 * [[Nihonjinron]] : kind of books explaining the economic boom
 
-
-== Further reading ==
+=== Further reading ===
 
 * [[w:Japan|Wikipedia article on Japan]]
-
-==Translations==
-
-* Chinese : [[日本]]
-* French : [[Japon]]
-:synonyms :  l'Archipel, le pays du Soleil Levant
-* Spanish : [[Japón]]
-* Korean : [[일본]] (ilbon)
-* German : Japan
-* Japanese : [[日本]](Nipon)
