@@ -2,4 +2,12 @@
 
 ==[[Verb]]==
 
-# To deliberately make something more confusing. See [[confuse]]
+# To [[deliberately]] make [[something]] more [[confusing]], to [[attempt]] to [[conceal]] the [[truth]]. See [[confuse]]
+
+===[[Synonym]]s===
+*[[confuse]]
+*[[muddle]]
+
+===[[Antonym]]s===
+*[[explain]]
+*[[simplify]]
