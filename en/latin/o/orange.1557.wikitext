@@ -8,4 +8,4 @@
 **[[Dutch]]: [[oranje]]
 
 *noun 2
-**[[Dutch]]: [[sinaasappel]]
+**[[Dutch]]: [[sinaasappel]], [[appelsien]] (in Flanders)
