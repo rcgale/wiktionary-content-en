@@ -8,3 +8,4 @@
 *fr: [[jeudi]]
 *nl: [[donderdag]]
 *pl: [[czwartek]]
+*pt: [[quinta-feira]]
