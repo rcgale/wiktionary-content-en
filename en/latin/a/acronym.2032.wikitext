@@ -1,5 +1,5 @@
 ===[[Noun]]===
-# a word formed from the initial letters of several other words
+# a [[word]] formed from the initial [[letter|letters]] of several other words
 #:'''Examples'''
 #:*[[RAM]]
 #:*[[EFTA]]
@@ -7,6 +7,8 @@
 #:*[[Dutch]]: [[acroniem]], [[letterwoord]]
 #:*[[French]]: [[acronyme]]
 #:*[[German]]: [[Akronym]]
+#:*[[Interlingua]]: [[acronymo]]
+#:*[[Portuguese]]: [[acrônimo]], [[acrograma]], [[sigla]], [[abreviatura]]
 
 
 (see the [[By Topic]] page for a comprehensive list)
