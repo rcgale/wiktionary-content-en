@@ -2,7 +2,8 @@
 
 #Automobile Association
 #:'''Translations''' (foreign equivalents)
-#:*[[Dutch]]: [[ANWB]]
+#:*[[Dutch]]: [[ANWB]] (Netherlands); [[Touring]], [[VTB-VAB]] (Belgium)
+#:*[[English]]: [[AANT]], [[NRMA]], [[RAA]], [[RACQ]], [[RACT]], [[RACV]], [[RACWA]] (Australia)
 #:*[[German]]: [[ADAC]]
 #Alcholics Anonymous
 #American Airlines
