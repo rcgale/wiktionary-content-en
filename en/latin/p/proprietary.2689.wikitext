@@ -1,0 +1,3 @@
+=== Translation ===
+
+*Spanish :propietario
