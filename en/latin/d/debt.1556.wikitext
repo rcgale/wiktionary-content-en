@@ -10,6 +10,7 @@
 * French: [[dette]]
 * Frisian: [[skuld]]
 * Japanese: [[借金]]
+
 * Korean: [[빚]] (bit)
 * Spanish: [[deuda]]
 * Swedish: [[skuld]]
@@ -18,6 +19,7 @@
 ===Related Words===
 
 * [[Debt-equity ratio]]
+* [[Debt-laden]]
 * [[Domestic debt]]
 * [[External debt]]
 * [[Foreign debt]]
