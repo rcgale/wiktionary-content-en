@@ -1,0 +1,1 @@
+Partes en que se descompone un esqueleto.
