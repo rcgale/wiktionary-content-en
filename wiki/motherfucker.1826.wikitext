@@ -1,0 +1,9 @@
+(noun; offensive slang)
+
+1. Literally, one who engages in sexual intercourse with their own mother (but the term is rarely meant in such a literal sense)
+
+2. An insult
+
+3. A slang for 'person', often but not always with the connontation that the person is disliked or is threatening
+
+Often abbreviated in speech to 'mutha'...
