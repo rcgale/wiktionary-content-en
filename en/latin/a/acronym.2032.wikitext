@@ -8,7 +8,7 @@
 #:*[[French]]: [[acronyme]]
 #:*[[German]]: [[Akronym]]
 #:*[[Interlingua]]: [[acronymo]], [[initial|initiales]]
-#:*[[Portuguese]]: [[acrônimo]], [[acrograma]], [[sigla]], [[abreviatura]], [[iniciais|inciial]]
+#:*[[Portuguese]]: [[acr�nimo]], [[acrograma]], [[sigla]], [[abreviatura]], [[iniciais|inciial]]
 
 
-(see the [[By Topic]] or the [[Wiktionary:List of acronyms and abbreviations]] page for a comprehensive list)
+(see the [[By Topic]] or the [[Wiktionary:List of acronyms and abbreviations|List of Acronyms]] page for a comprehensive list)
