@@ -1,0 +1,5 @@
+# An open-content [[encyclopedia]], collaboratively developed over the [[internet]]
+
+== External link ==
+
+* [http://www.wikipedia.org/ Wikipedia home page]
