@@ -5,9 +5,9 @@
 
 
 ===Translations===
-*es: [[primavera]] (1)
-*eu: [[udaherri]] (1)
-*fr: [[printemps]] (1)
-*nl: [[lente]] (1), [[bron]] (2), [[veer]] (3)
-*pl: [[wiosna]] (1)
-*sq: [[pranverë]] (1)
+*[[Albanian]]: [[pranverë]] (1)
+*[[Basque]]: [[udaherri]] (1)
+*[[Dutch]]: [[lente]] (1), [[bron]] (2), [[veer]] (3)
+*[[French]]: [[printemps]] (1)
+*[[Polish]]: [[wiosna]] (1)
+*[[Spanish]]: [[primavera]] (1)
