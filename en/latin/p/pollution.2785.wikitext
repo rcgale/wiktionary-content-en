@@ -1,7 +1,7 @@
 ==[[Noun]]==
 
 ===Translations===
-
+*Dutch: [[vervuiling]], [[pollutie]]
 *Finnish: [[saaste]]
 *French: pollution
 *Spanish: [[contaminación]]
