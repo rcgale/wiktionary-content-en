@@ -1,0 +1,3 @@
+===Translations===
+
+*French: [[sous-système radio]]
