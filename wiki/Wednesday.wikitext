@@ -3,9 +3,10 @@
 #The third day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
-*Blackfoot: Ííkaitaistssinao'p
-*de: Mittwoch
-*es: miércoles
+*Blackfoot: [[Ííkaitaistssinao'p]]
+*de: [[Mittwoch]]
+*es: [[miércoles]]
+*eu: [[asteazken]]
 *fr: [[mercredi]]
 *[[Georgian]]: [[ოთხშაბათი]]
 *he: [[יום רביעי]]
