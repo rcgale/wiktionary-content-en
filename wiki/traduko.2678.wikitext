@@ -11,4 +11,4 @@ En lingvistiko, '''traduko''' estas meti mesagxon (ne gravas se parolita, skribi
 
 === Traduka esperanta vortaro ===
 
-Vi povas uzi http://dictionaries.travlang.com/esperanto.html
+El kaj al naciaj lingvoj: http://dictionaries.travlang.com/esperanto.html
