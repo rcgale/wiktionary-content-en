@@ -1,0 +1,5 @@
+Noun. A german expression, commonly used in English, meaning: pleasure taken from someone else's misfortune.
+
+For example, someone gaining pleasure from seeing someone else slip on a banana skin (where it isn't in the [[context]] of [[stylised]] comedy) are experiencing Schadenfreude.
+
+German <i>Schaden</i>: damage, harm + <i>Freude</i>: joy
