@@ -1,0 +1,3 @@
+noun
+
+Currency unit, it is the hundreth of a [[peso]] in Mexico
