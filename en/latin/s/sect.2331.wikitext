@@ -3,3 +3,6 @@
 #a [[cult]] or [[religious]] movement, a group sharing particular (often [[unorthodox]]) [[political]] and/or religious [[beliefs]]. (a religious ''sect'')
 
 [[sectarian]]
+
+'''translations'''
+*Dutch: [[sekte]]
