@@ -5,6 +5,7 @@
 #:*[[Esperanto]]: [[Jugoslavio]]
 #:*[[Dutch]]: [[Joegoslavië]]
 #:*[[German]]: [[Jugoslavien]]
+#:*[[Polish]]: [[Jugosławia]]
 
 
 ''See:'' [[Countries of the world]]
