@@ -6,6 +6,6 @@
 *[[Illness]]
 
 ===Translations===
-
+*Dutch: [[ziekte]]
 *French: [[maladie]]
 *Spanish: [[enfermedad]]
