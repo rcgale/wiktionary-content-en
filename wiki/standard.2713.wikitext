@@ -1,1 +1,1 @@
-*[[en:standard]]
+#redirect [[en:standard]]
