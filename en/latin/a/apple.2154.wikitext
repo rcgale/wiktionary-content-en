@@ -14,7 +14,7 @@
 *Japanese: [[りんご]] (ringo) (fruit)
 *Korean: [[사과]] (sagwa) (fruit)
 *Hindi: Seb
-*Kannad: Sebu
+*Kannada: Sebu
 *Maltese: Tufieha
 
 See also: [http://www.wikipedia.org/wiki/Apple Wikipedia: Apple]
