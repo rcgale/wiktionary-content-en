@@ -1,7 +1,7 @@
 '''Noun''' /naun/
 
 ===Noun===
-# a [[word]] that can be used to refer to a [[person]], [[place]], [[thing]] or [[idea]]; part of [[speech]]
+# a [[word]] that can be used to refer to a [[person]], [[place]], [[thing]] or [[idea]]; part of [[speech]] ([[w:Part of speech|Wikipedia article on parts of speech]]).
 #:'''Translations'''
 #:*[[Dutch]]: [[zelfstandig naamwoord]]
 #:*[[Esperanto]]: [[nomo]]
@@ -28,5 +28,4 @@
 * [[mass noun]]
 
 ===Further Reading===
-* [[w:noun|Wikipedia article on noun]]
-* [[w:Part of speech|Wikipedia article on parts of speech]]
+#:* [[w:noun|Wikipedia article on noun]]
