@@ -1,33 +1,34 @@
-[[noun]]
-
-#The second day of the [[week]] (according to the ISO 8601 norm).
-
-==Translations==
-*az: [[ç&#601;rş&#601;nb&#601; axşamı]]
+===Etymology===
+Old English ''T&#299wesdæg'', from the Germanic God ''[[T&#299w]]'' corresponding to the Roman God ''[[Mars]]'' whence the Latin ''dies marti''
+===Noun===
+#The second day of the [[week]] (according to the ISO 8601 norm).  It follows [[Monday]] and preceedes [[Wednesday]].
+===Translations===
+*Azerbaijani: [[ç&#601;rş&#601;nb&#601; axşamı]]
 *Blackfoot: [[Isttsinaiksistsiko]]
-*de: [[Dienstag]]
-*eo: [[mardo]]
-*es: [[martes]]
-*et: [[telsipäev]]
-*eu: [[astearte]]
-*fr: [[mardi]]
-*fy: [[tiisdei]]
+*German: [[Dienstag]]
+*Esperanto: [[mardo]]
+*Spanish: [[martes]]
+*Estonian: [[telsipäev]]
+*Basque: [[astearte]]
+*French: [[mardi]]
+*Frisian: [[tiisdei]]
 *[[Georgian]]: [[სამშაბათი]]
-*he: [[יום שלישי]] (yom shlee-SHEE)
-*hr: [[Utorak]]
-*hu: [[kedd]]
+*Hebrew: [[יום שלישי]] (yom shlee-SHEE)
+*Croatian: [[Utorak]]
+*Hungarian: [[kedd]]
 *[[Japanese]]: [[火曜日]] (かようび;kayoubi)
 *[[Korean]]: [[화요일]] (火曜日;hwayoil)
-*mi: [[türei]]
-*nl: [[dinsdag]]
-*pl: [[wtorek]]
-*pt: [[ter&ccedil;a-feira]]
+*Latin: [[dies marti]]
+*Maori: [[türei]]
+*Dutch: [[dinsdag]]
+*Polish: [[wtorek]]
+*Portuguese: [[ter&ccedil;a-feira]]
 *[[Ruanda]]: [[Kwakabiri]]
 *[[Serbian]]: [[уторак]]
 *[[Slovak]]: [[Utorok]]
 *[[Somali]]: [[Talaado]]
 *[[Sotho]]: [[Labobedi]]
-*sq: [[e martë]]
-*sv: [[tisdag]]
+*Albanian: [[e martë]]
+*Swedish: [[tisdag]]
 *Wolof: [[Talaata]]
-*yi: [[דינסטיק]] (DINS-tik)
+*Yiddish: [[דינסטיק]] (DINS-tik)
