@@ -1,0 +1,20 @@
+==English==
+
+'''proper noun'''
+
+# Territory of Norway. Official name: Svalbard.
+#:'''Translations'''
+#:*[[Danish]]: Svalbard
+#:*[[Dutch]]: Svalbard
+#:*[[Esperanto]]: [[Svalbardo]]
+#:*[[Finnish]]: Svalbard
+#:*[[French]]: Svalbard
+#:*[[German]]: Svalbard
+#:*[[Greek]]: [[Σφάλμπαρ]], [[Σβάλμπαρντ]]
+#:*[[Italian]]: Svalbard
+#:*[[Portuguese]]: Svalbard
+#:*[[Russian]]: [[Свалбард]]
+#:*[[Spanish]]: Svalbard
+#:*[[Swedish]]: Svalbard
+
+''See'': [[Countries of the world]]
