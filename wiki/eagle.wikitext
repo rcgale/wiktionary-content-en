@@ -12,6 +12,7 @@
 *[[Afrikaans]]: [[Arend]]
 *[[Albanian]]: [[Shkabë]]
 *[[Armenian]]: [[Արծիվ]]
+*[[Azeri]]: [[Qartal]]
 *[[Belarussian]]: [[Aroł]] 
 *[[Bulgarian]]: [[Oрел]]
 *[[Chinese(Simplified)]]: [[老鹰]] (needs to be checked by speaker)
