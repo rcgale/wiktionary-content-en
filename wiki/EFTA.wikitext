@@ -1,3 +1,2 @@
-Acronym for:
-
-*Europeam Free Trade Association
+===[[Acronym]]===
+*European Free Trade Association
