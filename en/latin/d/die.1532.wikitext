@@ -9,6 +9,8 @@ Past tense and participle: died; Present participle: dying
 #:*[[French]]: [[mourir]]
 #:*[[Frisian]]: [[deagean]], [[ferstjerre]], [[stjerre]]
 #:*[[German]]: [[sterben]]
+#:*[[Japanese]]: [[死ぬ]] (しぬ;shinu)
+#:*[[Korean]]: [[죽다]] (jukda)
 
 ===Etymology 2===
 Middle English from Old French ''dé''
