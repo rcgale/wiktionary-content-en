@@ -986,3 +986,5 @@ You may use these verbs, and many other, together with other verbs in infinitive
 
 This document is copyright 2002 Tomasz Węgrzanowski &lt;taw@users.sf.net&gt;<br>
 May be distributed under terms of GNU Free Documentation Licence.
+
+[http://www.wikipedia.org/wiki/Polish_language Wikipedia: Polish language]
