@@ -2,8 +2,22 @@
 
 '''proper noun'''
 
-# Country in Northern Africa.
+# Country in Northern Africa. Official name: Arab Republic of Egypt.
 #:'''Translations'''
+#:*[[Chinese]]: [[埃及]]
+#:*[[Danish]]: [[Egypten]]
 #:*[[Dutch]]: [[Egypte]]
+#:*[[Esperanto]]: [[Egiptio]], [[Egiptujo]]
+#:*[[Finnish]]: [[Egypti]]
+#:*[[French]]: [[Égypte]]
+#:*[[German]]: [[Ägypten]]
+#:*[[Greek]]: [[Αίγυπτος]]
+#:*[[Interlingua]]: [[Egypto]]
+#:*[[Italian]]: [[Egitto]]
+#:*[[Polish]]: [[Egipt]]
+#:*[[Portuguese]]: [[Egipto]]
+#:*[[Russian]]: [[Египет]]
+#:*[[Spanish]]: [[Egipto]]
+#:*[[Swedish]]: [[Egypten]]
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
