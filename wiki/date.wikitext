@@ -8,10 +8,12 @@
 #:'''Translations'''
 #:*[[Dutch]]: [[afspraakje]]
 #:*[[French]]: [[rendez-vous]]
+#:*[[German]]: [[Treffen]]
 #The fruit of the date palm
 #:'''Translations'''
 #:*[[Dutch]]: [[dadel]]
 #:*[[French]]: [[datte]]
+#:*[[German]]:[[Dattel]]
 
 ===[[verb]]===
 #To take (someone) on a series of dates
