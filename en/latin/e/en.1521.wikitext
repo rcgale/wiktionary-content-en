@@ -1,0 +1,11 @@
+'''En''' /en/ (Dutch) 
+
+# ''conjunction'', combining two sentences or parts of sentences or words.
+
+=== Examples ===
+
+''De oude man en de zee'': the old man and the sea.
+
+=== Translations ===
+
+en: [[and]]
