@@ -1,4 +1,8 @@
-# The part of speech referring to an object, person, place, or idea.
+Noun \Noun\
 
-== Further reading ==
+''[[noun]]''
+# a word that can be used to refer to a person or place or thing; part of speech 
+# a word that can serve as the subject or object of a verb
+
+== Further Reading ==
 * [[w:Part of speech|Wikipedia article on parts of speech]]
