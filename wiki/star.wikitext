@@ -1,6 +1,9 @@
-[[noun]]
-#A luminous celestial body, made up of gases (particularly [[hydrogen]] and [[helium]], forming a sphere. Thousands of stars are visible in the [[night]] [[sky]].
+'''[[noun]]'''
+
+#A luminous celestial body, made up of gases (particularly [[hydrogen]] and [[helium]]), forming a sphere. Thousands of stars are visible in the [[night]] [[sky]].
 #''Figurative'' a person or thing held as a positive example. ''A star athlete''.
 #A celebrity or noteworthy performer.
 
-[[verb]] to appear, especially as the featured performer or headliner, in an entertainment program.
+'''[[verb]]'''
+
+# To appear, especially as the featured performer or headliner, in an entertainment program; see (3) above.
