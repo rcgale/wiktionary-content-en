@@ -6,6 +6,7 @@
 *de: Mittwoch
 *es: miércoles
 *fr: [[mercredi]]
+*[[Georgian]]: [[ოთხშაბათი]]
 *he: [[יום רביעי]]
 *nl: [[woensdag]]
 *pl: [[środa]]
