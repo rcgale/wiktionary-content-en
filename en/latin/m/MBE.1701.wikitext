@@ -1,0 +1,3 @@
+Abbreviation for:
+
+*Member of the Order of the British Empire
