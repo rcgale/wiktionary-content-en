@@ -14,3 +14,4 @@
 *pl: [[piątek]]
 *pt: [[sexta-feira]]
 *sq: [[e premte]]
+*yi: [[פרײַטאָג]]
