@@ -1,12 +1,24 @@
 ==English==
 
-# Country in Western Europe.
+'''proper noun'''
+
+# Country in Western Europe. Official name: Federal Republic of Germany.
 #:'''Translations'''
+#:*[[Chinese]]: [[德国]]
+#:*[[Dannish]]: [[Tyskland]]
 #:*[[Dutch]]: [[Duitsland]]
-#:*[[Esperanto]]: [[Germanio]]
+#:*[[Esperanto]]: [[Germanio]], [[Germanujo]]
+#:*[[Finnish]]: [[Saksa]]
 #:*[[French]]: [[Allemagne]]
 #:*[[German]]: [[Deutschland]]
+#:*[[Greek]]: [[Γερμανία]]
 #:*[[Hebrew]]: [[גרמניה]]
+#:*[[Interlingua]]: [[Germania]]
+#:*[[Italian]]: [[Germania]]
 #:*[[Polish]]: [[Niemcy]]
+#:*[[Portuguese]]: [[Alemanha]]
+#:*[[Russian]]: [[Германия]]
+#:*[[Spanish]]: [[Alemania]]
+#:*[[Swedish]]: [[Tyskland]]
 
-''See:'' [[Countries of the world]]
+''See'': [[Countries of the world]]
