@@ -1,5 +1,14 @@
-German Abbreviation
+===German===
+===Abbreviation===
 
 #Union der Sozialistischen Sowjet-Republiken
 #:'''Translations'''
-#:[[English]] [[USSR]]
+#:*[[Dutch]]: [[USSR]]
+#:*[[English]]: [[USSR]]
+#:*[[Estonian]]: [[UNSV]]
+#:*[[French]]: [[URSS]]
+#:*[[Greek]]: [[ΕΣΣΔ]] ([[ESSD]] - romanised)
+#:*[[Polish]]: [[ZSRR]]
+#:*[[Portuguese]]: [[URSS]]
+#:*[[Russian]]:[[CCCP]] ([[SSSR]] - romanised)
+#:*[[Spanish]]: [[URSS]]
