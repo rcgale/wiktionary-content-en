@@ -1,0 +1,3 @@
+{ '''Abietin''', '''Abietine''' } (&?;), ''[[noun (part of speech)|noun]]'' [See [[Abietene]].] ''([[Chem (subject)|Chem]]).''
+
+A resinous obtained from [[Strasburg]] [[turpentine]] or Canada balsam. It is without taste or smell, is [[insoluble]] in water, but soluble in alcohol (especially at the boiling point), in strong acetic acid, and in [[ether]]. ''[[Watts (source)|Watts]].''
