@@ -24,4 +24,5 @@
 
 ===Translations===
 
+*Finnish : [[Feeniks]] (1)
 *French : [[Phénix]]  (bird, nickname for Japan)
