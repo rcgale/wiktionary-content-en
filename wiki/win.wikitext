@@ -5,6 +5,8 @@
 *Finnish: [[voittaa]]
 *French: [[gagner]]
 *Spanish: [[ganar]]
+*Japanese: [[勝つ]] (かつ;katsu)
+*Korean: [[이기다]] (igida)
 
 ==[[noun]]==
 
