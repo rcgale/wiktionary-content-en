@@ -19,7 +19,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 
 ==Translations==
 
-1.
+*da: [[hund]]
 *de: [[Hund]]
 *eo: [[hundo]]
 *es: [[perro]]
