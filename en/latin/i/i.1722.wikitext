@@ -7,3 +7,4 @@
 *fy: [[ik]]
 *Lojban: [[pami]]
 *nl: [[ik]]
+*is: [[ég]]
