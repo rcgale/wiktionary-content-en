@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in South America. Official name: Eastern Republic of Uruguay.
+#:'''Translations'''
+#:*[[Chinese]]: [[乌拉圭]]
+#:*[[Danish]]: Uruguay
+#:*[[Dutch]]: Uruguay
+#:*[[Esperanto]]: [[Urugvajo]]
+#:*[[Finnish]]: Uruguay
+#:*[[French]]: Uruguay
+#:*[[German]]: Uruguay
+#:*[[Greek]]: [[Ουρουγουάη]]
+#:*[[Interlingua]]: Uruguay
+#:*[[Italian]]: Uruguay
+#:*[[Polish]]: [[Urugwaj]]
+#:*[[Portuguese]]: [[Uruguai]]
+#:*[[Russian]]: [[Уругвай]]
+#:*[[Spanish]]: Uruguay
+#:*[[Swedish]]: Uruguay
+
+''See'': [[Countries of the world]]
