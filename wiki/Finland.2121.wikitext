@@ -7,7 +7,7 @@
 #:*[[Dutch]]: Finland
 #:*[[Finnish]]: [[Suomi]]
 #:*[[French]]: [[Finlande]]
-#:*[[Frisian]: [[Finlân]]
+#:*[[Frisian]]: [[Finlân]]
 #:*[[German]]: [[Finnland]]
 #:*[[Polish]]: [[Finlandia]]
 
