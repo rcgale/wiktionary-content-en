@@ -1,0 +1,8 @@
+1. ''adjective'' derived from [[hide]]
+
+The act of concealing or keeping a thing or person [[hidden]], to go into hiding
+
+[[Synonym]]s - [[concealing]], [[secreting]]
+[[Antonym]]s - [[revealing]], [[disclosing]]
+
+2.''noun'' [[colloquialism]] a [[beating]] or [[spanking]].
