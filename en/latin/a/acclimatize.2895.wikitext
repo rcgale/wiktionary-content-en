@@ -1,4 +1,6 @@
-Acclimatize, <i>[[Verb]]</i>, ''to get used to a new climate''. 
+==[[Verb]]==
+
+''to get used to a new climate''. 
 
 '''Acclimatize''', ''<code>[[transitive verb (part of speech)|transitive verb]]</code>'' [''<code>[[imp. (part of speech)|imp.]] & [[past participle (part of speech)|past participle]]</code>'' [[Acclimatized]] ([[-[[t&imacr]];zd]]); ''<code>[[present participle (part of speech)|present participle]] & [[vb. n. (part of speech)|vb. n.]]</code>'' [[Acclimatizing]] (- t&imacr;`[[z&ibreve;ng]]).]
 
