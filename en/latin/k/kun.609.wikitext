@@ -1,0 +1,1 @@
+'''Kun yomi''' is Japanese reading of [[kanji]] used for native Japanese words.
