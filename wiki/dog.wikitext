@@ -1,0 +1,1 @@
+1. A [[domesticated]] [[mammal]] (Canis familiaris) that is related to [[wolves]].
