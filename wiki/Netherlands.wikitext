@@ -8,6 +8,7 @@
 #:*[[French]]: les [[Pays-Bas]], la [[Hollande]]
 #:*[[Frisian]]: [[Nederlân]]
 #:*[[German]]: die [[Niederlande]], [[Holland]]
+#:*[[Polish]]: [[Holandia]], [[Niderlandy]]
 
 ===[[Adjective]]===
 # Of or pertaining to the Netherlands
@@ -18,3 +19,4 @@
 #:*[[French]]: [[Néerlandais]], [[Hollandais]]
 #:*[[Frisian]]: [[Nederlânsk]], [[Hollânsk]]
 #:*[[German]]: [[Niederlandisch]], [[Holländisch]]
+#:*[[Polish]]: [[holenderski]], [[niderlandzki]]
