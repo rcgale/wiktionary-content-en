@@ -1,4 +1,4 @@
-==[[Afdjective]]==
+==[[Adjective]]==
 
 #Related to [[Mexico]]
 
