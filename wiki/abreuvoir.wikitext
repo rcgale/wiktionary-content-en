@@ -1,0 +1,3 @@
+'''Abreuvoir''', ''[[noun (part of speech)|noun]]'' [F., a [[watering]] place.] ''(Masonry)''
+
+The joint or [[interstice]] between stones, to be filled with mortar. ''[[Gwilt (source)|Gwilt]].''
