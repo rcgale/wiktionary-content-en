@@ -1,4 +1,4 @@
-===Verb===
+===Conjugation===
 <table border=1>
 <tr><th>  <th>Present<br>indicative<th>Past<br>indicative
 <th>Present<br>subjunctive<th>Past<br>subjunctive</tr>
@@ -9,24 +9,30 @@
 <tr><td>you</td><td>are</td><td>were</td><td>be</td><td>were</td>
 <tr><td>they</td><td>are</td><td>were</td><td>be</td><td>were</td>
 </table>
-1. [intransitive] to exist
-==Translations==
+'''Past participle:''' been
+'''Present participle:''' being
+'''Imperative:''' be
+===Intransitive Verb===
+#to exist
+#to occur, to take place; (used in conjunction with a prepositions in an adverbial phrase to indicate location, origin, etc.)
+#:'''Examples'''
+#:*The cat is in the bag, 
+#:*The woman is on the moon, 
+#:*The philosopher is from China, 
+#:*The house is over the hill.
+#:*The athlete is over the hill.
+===Copular verb===
+#to be identical with some thing (e.g. A is A) 
+#to be describable by some adjective (e.g. The sky is blue)
+#to be the thing for which some definite description is true (e.g. Jacques Chirac is the President of France)
+===Auxilliary verb===
+#(used in conjunction with a participle)
+#:'''Examples'''
+#:*The man is walking, 
+#:*The boy was killed.
+
+===Translations===
+'''Caution''' ''This verb is fraught with irregularities of both form and usage in many languages.  Strict literal translations should be viewed with suspicion.''
 *Dutch: [[zijn]], [[wezen]] (archaic, used in certain idioms and expressions)
 *French: [[être]]
 *Spanish: [[ser]], [[estar]] (''note'' : ser and estar are not employed in the same cases)
-
-2. [transitive] to be identical with some thing (e.g. A is A) 
-
-3. [transitive] to be describable by some adjective (e.g. The sky is blue)
-
-4. [transitive] to be the thing for which some definite description is true (e.g. Jacques Chirac is the President of France)
-
-5. [transitive] can be used in conjunction with a participle, e.g. The man is walking; The boy was killed.
-
-6. [transitive] can be used in conjunction with some prepositions (to indicate location, origin, etc.), e.g. The cat is in the bag, The woman is on the moon, The philosopher is from China, The house is over the hill.
-
-Conjugations: to be is one of the strongest of English verbs, conjugations (in indicative mood are as follows):
-
-1st person: I am (singular), We are (plural)
-2nd person: You are (singular; archaically, Thou art), You are (plural)
-3rd person: She/He/It is (singular), They are (plural)
