@@ -1,14 +1,14 @@
-'''y''' /i/  conjunction (Spanish)
+[y]/i/  conjunction (Spanish)
 *[[and]]
 
 ----
 
-'''y''' /i/  indirect object pronoun (French)
+[y] /i/  indirect object pronoun (French)
 *contraction of ''[[à]] le'' or ''à la''
 *''il '''y''' a'', there is
 
 ----
 
-'''y''' /wAI/  (English)
+[y] /wAI/  (English)
 *25th letter of the English alphabet
 *Informal abbreviation for [[why]]
