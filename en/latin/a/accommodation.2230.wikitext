@@ -1,0 +1,18 @@
+'''Accommodation''', ''<code>[[noun (part of speech)|noun]]</code>'' [L. ''accommodatio'', fr. ''accommodare'': cf. F. ''accommodation''.]
+
+<ol>
+<li>The act of fitting or [[adapting]], or the state of being fitted or adapted; [[adaptation]]; [[adjustment]]; -- followed by ''to''.
+
+<code>The organization of the body with ''accommodation'' to its functions.</code> ''[[Sir M. Hale (source)|Sir M. Hale]].''
+
+<li> [[Willingness]] to [[accommodate]]; [[obligingness]].
+
+<li> Whatever supplies a want or affords ease, [[refreshment]], or [[convenience]]; anything furnished which is desired or [[needful]]; -- often in the plural; as, the ''accommodations'' -- that is, [[lodgings]] and food -- at an inn. ''[[Sir W. Scott (source)|Sir W. Scott]].''
+
+<li> An adjustment of differences; state of agreement; [[reconciliation]]; [[settlement]].
+
+<code>To come to terms of ''accommodation''.</code> ''[[Macaulay (source)|Macaulay]].''
+
+<li> The application of a [[writer's]] language, on the ground of [[analogy]], to something not originally referred to or intended.
+
+<code>Many of those quotations from the Old Testament were probably intended as nothing more than ''accommodations''. ''[[Paley (source)|Paley]].''</code
