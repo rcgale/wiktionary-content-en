@@ -6,5 +6,6 @@
 #:*[[Esperanto]]: [[Belgio]] 
 #:*[[French]]: [[Belgique]]
 #:*[[German]]: [[Belgien]]
+#:*[[Hebrew]]: [[בלגיה]]
 
 ''See:'' [[Countries of the world]]
