@@ -4,7 +4,7 @@
 
 ===Translations===
 
-*French: [[mobile]]
+*French: mobile
 
 ===Related words===
 
