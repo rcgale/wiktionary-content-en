@@ -1,3 +1,8 @@
+===Etymology===
+:From [[Latin]] ''[[alia]]'', meaning "other".
+
+
+
 See,
 
 # [[Alien (1935)]]
