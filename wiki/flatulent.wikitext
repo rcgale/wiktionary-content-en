@@ -1,0 +1,3 @@
+(adjective)
+
+frequently farting
