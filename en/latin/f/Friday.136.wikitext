@@ -25,5 +25,6 @@
 *[[Somali]]: [[Jimce]]
 *[[Sotho]]: [[Labohlano]]
 *sq: [[e premte]]
+*[[Swedish]]: [[fredag]]
 *Wolof: [[Àjjuma]]
 *yi: [[פרײַטאָג]] (FREI-tahg)
