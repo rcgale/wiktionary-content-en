@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Republic of Guinea-Bissau.
+#:'''Translations'''
+#:*[[Danish]]: Guinea-Bissau
+#:*[[Dutch]]: [[Guinee-Bissau]]
+#:*[[Esperanto]]: [[Gvineo-Bisaŭo]], [[Gvineo-Bisaŭa]]
+#:*[[Finnish]]: Guinea-Bissau
+#:*[[French]]: [[Guinée-Bissao]], [[Guinée-Bissau]]
+#:*[[German]]: Guinea-Bissau
+#:*[[Greek]]: [[Γουινέα-Μπισσάου]]
+#:*[[Interlingua]]: Guinea-Bissau
+#:*[[Italian]]: [[Guinea Bissau]]
+#:*[[Polish]]: [[Gwinea Bissau]]
+#:*[[Portuguese]]: [[Guiné-Bissau]]
+#:*[[Russian]]: [[Гвинея-Бисау]]
+#:*[[Spanish]]: Guinea-Bissau
+#:*[[Swedish]]: Guinea-Bissau
+
+''See'': [[Countries of the world]]
