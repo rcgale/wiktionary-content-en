@@ -1,29 +1,19 @@
-/[[Pronunciation guide|kwis]]/, '''(en)'''
-
-''noun'' (also in many other languages)
+===Etymology===
+====noun====
+Several etymologies have been found. We give them all here, and leave it to people who are more in the know to pick the real one:
+#Originally invented in 19th century by an English man who [[bet]] he could [[add]] a new [[word]] to the english language. He thus painted his new word on all walls in his hometown he managed to paint. The morning after, everyone was talking about the new word.
+#The original meaning is [[interrogation]] (1867), being derived from the verb. Current meaning only since 1941.
+#Originally ''quies'' (1847), may have derived from Latin ''qui es?'' (Who are you?), traditionally the first question in [[oral]] Latin [[exam]]s. Used as a noun from 1867, spelling quiz first recorded in 1886.
+====verb====
+Meaning 2 is the original (1796), the meaning shifted to meaning 1 (1847) under influence of "to [[question]]" and "[[inquisitive]]".
+===Pronunciation=== 
+/[[Pronunciation guide|kwis]]/
+===Noun===
+(also in many other languages)
 # [[Competition]] in the [[answer]]ing of [[question]]s
-
-''verb''
+===Verb===
 # [[question]] closely, [[interrogate]]
 # [[hoax]] (archaic)
-
-==Etymology==
-
-====noun====
-
-Several etymologies have been found. We give them all here, and leave it to people who are more in the know to pick the real one:
-
-1. Originally invented in 19th century by an English man who [[bet]] he could [[add]] a new [[word]] to the english language. He thus painted his new word on all walls in his hometown he managed to paint.
-The morning after, everyone was talking about the new word.
-
-2. The original meaning is [[interrogation]] (1867), being derived from the verb. Current meaning only since 1941.
-
-3. Originally ''quies'' (1847), may have derived from Latin ''qui es?'' (who are you?), traditionally the first question in [[oral]] Latin [[exam]]s. Used as a noun from 1867, spelling quiz first recorded in 1886.
-
-====verb====
-
-Meaning 2 is the original (1796), the meaning shifted to meaning 1 (1847) under influence of "to [[question]]" and "[[inquisitive]]".
-
-==Translations==
-*de: Quiz, [[Ratespiel]]
-*nl: quiz
+===Translations===
+*German: Quiz, [[Ratespiel]]
+*Dutch: quiz
