@@ -1,0 +1,7 @@
+1. Not imprisoned or enslaved. <i>a free [[man]]</i>
+
+2. Obtainable without [[payment]]. <i>free of [[charge]]</i>
+
+3. Unconstrained. <i>he was given free [[reign]] over the [[country]]</i>
+
+4. Unobstructed, without [[blockage|blockages]]. <i>the [[drain]] was free</i>
