@@ -13,10 +13,12 @@
 </ol>
 
 == Translations ==
-*[[French]]: [[Supprimer]]
-*[[German]]: [[Schaffen Sie ab]]
-*[[Interlingua]]: [[Abolir]]
-*[[Italian]]: [[Abolire]]
+
+*[[Esperanto]]: [[abolicii]], [[forigi]]
+*[[French]]: [[supprimer]]
+*[[German]]: [[schaffen]]
+*[[Interlingua]]: [[abolir]]
+*[[Italian]]: [[abolire]]
 *[[Portuguese]]: [[]]
-*[[Spanish]]: [[Abolir]]
-*[[Volapük]]: [[säkibön]], [[finidön]]]
+*[[Spanish]]: [[abolir]]
+*[[Volapük]]: [[säkibön]], [[finidön]]
