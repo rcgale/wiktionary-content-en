@@ -1,5 +1,6 @@
 fr : [[dog]]
 
+* la femmelle du chien s'appelle [[chienne]] et le petit [[chiot]]
 
 '''Synonymes'''
 
@@ -11,6 +12,8 @@ fr : [[dog]]
 :en: a bad weather, it refers when you do'nt want to go out, because it rains a lot, and is windy.
 * chien de chasse
 * chien de garde
+
+
 
 '''Remarques'''
 
