@@ -12,3 +12,12 @@ Derivative of [[aborigines]]
 #:*It may well be doubted whether this frog is an ''aboriginal'' of these islands. - [[Darwin]].
 #''(Proper noun):'' An Australian aboriginal
 #Any of the native languages spoken by Australian aboriginals.
+
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Indigène]]
+<BR>• [[German]]: [[Eingeboren]]
+<BR>• [[Interlingua]]: [[Aboriginal]]
+<BR>• [[Italian]]: [[Aborigeno]]
+<BR>• [[Portuguese]]: [[Aboriginal]]
+<BR>• [[Spanish]]: [[Aborigen]]
+<BR>
