@@ -1,0 +1,3 @@
+'''Transaltions'''
+
+* French : [[syndicat ddindustrie]]
