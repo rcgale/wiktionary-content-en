@@ -1,0 +1,10 @@
+===Meanings===
+# Traditionally the third of the four [[season]]s, normally from [[September]] 21 to [[December]] 20.
+
+===Translations===
+*es: [[otoño]]
+*eu: [[udazken]]
+*fr: [[automne]]
+*mi: [[ngahuru]]
+*nl: [[herfst]]
+*sq: [[vjeshtë]]
