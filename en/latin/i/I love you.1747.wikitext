@@ -6,7 +6,6 @@
  Afrikaans           Ek is lief vir jou
  Albanian            te dua
  Albanian            te dashuroj
- Alentejano(Portugal)        Gosto De Ti, Porra!
  Alsacien            Ich hoan dich gear
  Amharic             Afekrishalehou
  Arabic              Ana Behibak (to a male) 
@@ -91,6 +90,7 @@
  Greek (old)             (Ego) philo su (ego is only needed
                       for emphasis) 
  Greenlandic             Asavakit 
+ Guarani (Paraguayan) Rohayhu
  Gujrati             Hoon tane pyar karoochhoon 
  Hausa               Ina sonki 
  Hawaiian            Aloha I'a Au Oe 
@@ -120,6 +120,7 @@
                      often used) 
  Indonesian          Aku cinta padamu ( " ) 
  Indonesian          Aku cinta kamu ( " ) 
+ Interlingua         Io te ama
  Iranian             Mahn doostaht doh-rahm 
  Irish               taim i' ngra leat 
  Italian             ti amo (if it's a relationship
@@ -210,13 +211,13 @@
  Polish              Kocham cię
  Polish              Kocham ciebie
  Polish              Ja cię kocham
- Portuguese          Amo-te 
- Portuguese (brazilian)      Eu te amo 
+ Portuguese          [[amar|Amo]]-[[te]] 
+ Portuguese          [[Eu]] [[te]] [[amar|amo]]
  Punjabi             Mai taunu pyar karda 
  Punjabi             Main Tainu Pyar Karna 
  Quenya              Tye-mela'ne 
- Romanian            Te iu besc 
- Romanian            Te Ador 
+ Romanian            Te iubesc 
+ Romanian            Te ador 
  Russian             Ya vas liubliu 
  Russian             Ya tebya liubliu 
  Russian             Ya polubeel s'tebya 
@@ -259,6 +260,7 @@
                      sweet, loving) 
  Thai                Phom Rak Khun 
  Tunisian            Ha eh bak 
+ Tupinambá (Tupi)    Oroaûsub
  Turkish             Seni seviyo*rum (o* means o) 
  Turkish             Seni Seviyurum 
  Turkish             Seni Seviyorum 
