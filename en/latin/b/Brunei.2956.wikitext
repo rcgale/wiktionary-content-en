@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southeast Asia. Official name: Negara Brunei Darussalam.
+#:'''Translations'''
+#:*[[Danish]]: Brunei
+#:*[[Dutch]]: Brunei
+#:*[[Esperanto]]: [[Brunejo]]
+#:*[[Finnish]]: Brunei
+#:*[[French]]: Brunei
+#:*[[German]]: [[Brunei Darussalam]]
+#:*[[Greek]]: [[Μπρουνέι]]
+#:*[[Interlingua]]: Brunei
+#:*[[Italian]]: Brunei
+#:*[[Polish]]: Brunei
+#:*[[Portuguese]]: Brunei
+#:*[[Russian]]: [[Бруней Дарассалам]]
+#:*[[Spanish]]: [[Brunéi]]
+#:*[[Swedish]]: Brunei
+
+''See'': [[Countries of the world]]
