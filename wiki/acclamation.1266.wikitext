@@ -14,6 +14,7 @@ Latin ''acclamatio'': cf. French ''acclamation''
 #:*'''Acclamation medals''' are those on which [[laudatory]] [[acclamations]] are recorded. - [[Elmes]]
 
 <HR> <P> <H3>Translations</H3>
+<BR>• [[Dutch]]:  [[Acclamatie]], [[Gejuich]]
 <BR>• [[French]]: [[Acclamation]]
 <BR>• [[German]]: [[Zuruf]]
 <BR>• [[Interlingua]]: [[Acclamation]]
