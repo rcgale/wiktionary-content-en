@@ -12,6 +12,8 @@
 *[[French]]: [[printemps]] (1)
 *[[German]]: [[Frühling]] (1), [[Quelle]] (2)
 *[[Hebrew]]: [[אביב]] (ah-VEEV; noun 1), [[מעיין]] (mah-ah-YAHN; noun 2), [[קפיץ]] (kfeetz; noun 3)
+*[[Japanese]]: [[春]] (はる;haru)
+*[[Korean]]: [[봄]] (bom)
 *[[Mäori]]: [[koanga]] (1)
 *[[Polish]]: [[wiosna]] (1), [[źródło]] (2), [[sprężyna]] (3)
 *[[Portuguese]]: [[primavera]] (1)
