@@ -1,5 +1,3 @@
-''noun''
-
 [Hip-po-pot-mon-stro-ses-quip-peda-lio-phob-ia]
 /____/
 
