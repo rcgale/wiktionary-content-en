@@ -1,17 +1,17 @@
 Dog \Dog\ \dôg\
 
 ''[[noun]].''
-# a member of the genus [[Canis]] (probably descended from the common [[wolf]]) that has been [[domesticated]] by man since prehistoric times; occurs in many breeds; "the dog barked all night" ''Usage Note'': The word dog can be used to refer exclusively to the male of the genus, the feminine form being [[bitch]]. [''syn:'' [[domestic dog]], [[Canis familiaris]]] ''Translations'': da: [[hund]], de: [[Hund]], eo: [[hundo]], et: [[koer]], es: [[perro]], fr: [[chien]], nl: [[hond]], no: [[hund]], pl: [[pies]], pt: [[cachorro]], sv: [[hund]]
-# a dull unattractive unpleasant [[girl]] or [[woman]]; "she got a reputation as a frump"; "she's a real dog" [syn: [[frump]]]
-# informal term for a [[man]]: "you lucky dog"
-# pejorative term for someone who is morally reprehensible; "you dirty dog" [syn: [[cad]], [[bounder]], [[blackguard]], [[hound]], [[heel]]]
-# a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward [syn: [[pawl]], [[detent]], [[click]]]
-# metal supports for [[log]]s in a fireplace; "the andirons were too hot to touch" [syn: [[andiron]], [[firedog]], [[dogiron]]]
+# A member of the genus [[Canis]] (probably descended from the common [[wolf]]) that has been [[domesticated]] by man since prehistoric times; occurs in many breeds; "the dog barked all night" ''Usage Note'': The word dog can be used to refer exclusively to the male of the genus, the feminine form being [[bitch]]. [''syn:'' [[domestic dog]], [[Canis familiaris]]] ''Translations'': da: [[hund]], de: [[Hund]], eo: [[hundo]], et: [[koer]], es: [[perro]], fr: [[chien]], nl: [[hond]], no: [[hund]], pl: [[pies]], pt: [[cachorro]], sv: [[hund]]
+# A dull unattractive unpleasant [[girl]] or [[woman]]; "she got a reputation as a frump"; "she's a real dog" [syn: [[frump]]]
+# Informal term for a [[man]]: "you lucky dog"
+# Pejorative term for someone who is morally reprehensible; "you dirty dog" [syn: [[cad]], [[bounder]], [[blackguard]], [[hound]], [[heel]]]
+# A hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward [syn: [[pawl]], [[detent]], [[click]]]
+# Metal supports for [[log]]s in a fireplace; "the andirons were too hot to touch" [syn: [[andiron]], [[firedog]], [[dogiron]]]
 
 Plural form: dogs
 
 ''[[verb]].''
-# go after with the intent to catch [syn: [[chase]], [[chase after]], [[trail]], [[tail]], [[tag]], [[go after]], [[track]]]
+# Go after with the intent to catch [syn: [[chase]], [[chase after]], [[trail]], [[tail]], [[tag]], [[go after]], [[track]]]
 # <i>[[nautical terms|Nautical]]</i> To fasten a [[hatch]] securely, "It is very important to dog down these hatches...." [http://www.vonwentzel.net/Prout/08.OEM/04.Hatches/].
 
 ==Etymology==
