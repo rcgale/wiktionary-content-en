@@ -1,1 +1,7 @@
-'''Language''' A system of communication using the spoken word or symbols
+===[[Noun]]===
+#A system of communication using the spoken word or symbols
+#:'''Translations'''
+#:*[[Dutch]]: [[taal]]
+#:*[[German]]: [[Sprache]]
+#:*[[French]]: [[langue]]
+#:*[[Frisian]]: [[taal]]
