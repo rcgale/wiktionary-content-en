@@ -1,0 +1,6 @@
+Dutch: now
+Esperanto: well (as in "Well, I think...")
+French: naked
+Greek: represents a value of 50 as a Greek numeral.
+Swedish: now
+Yiddish: interrogative as in "So, nu?"
