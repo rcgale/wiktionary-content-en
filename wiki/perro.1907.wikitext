@@ -4,4 +4,4 @@ Traducciones:
 Inglés: [[dog]], 
 Francés: [[chien]], 
 Alemán: [[Hund]],
-Esperanto: [[Hundo]]
+[[Esperanto]]: [[Hundo]]
