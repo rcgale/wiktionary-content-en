@@ -1,4 +1,6 @@
 [[eo:Vikipedio]]
+
+
 Proper name.
 
 # An open-content [[encyclopedia]], collaboratively developed over the [[internet]]
