@@ -4,4 +4,4 @@ See also:
 * [[Furry subculture]]
 
 == External links ==
-* http://www.velocity.net/~galen/abpepfaq.txt
+* http://www.sexuality.org/l/fetish/plushies.html
