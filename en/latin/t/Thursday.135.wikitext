@@ -9,3 +9,4 @@
 *nl: [[donderdag]]
 *pl: [[czwartek]]
 *pt: [[quinta-feira]]
+*sq: [[e enjte]]
