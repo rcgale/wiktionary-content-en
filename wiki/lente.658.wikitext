@@ -3,12 +3,15 @@
 #'len-te /lent@/, ''masculine and feminine'', ''plural'' -s /-s/. Traditionally the first of the four [[season]]s, typically regarded as being from [[March]] 21 to [[June]] 20 in Northern [[Hemisphere]] regions and from [[September]] 21 to [[December]] 20 in Southern Hemisphere regions.
 ====Translation====
 *[[English]]: [[Spring]]
+*[[Estonian]]: [[kevad]]
+*[[Finnish]]: [[kevät]]
 *[[French]]: [[Printemps]]
 *[[German]]: [[Frühling]], [[Lenz]]
-*[[Hebrew]]: [[אביב]]
+*[[Hebrew]]: [[????]]
+*[[Hungarian]]: [[tavasz]]
 *[[Polish]]: [[Wiosna]]
 *[[Spanish]]: [[Primavera]]
-*[[Yiddish]]: [[פרילינג]]
+*[[Yiddish]]: [[???????]]
 ----
 ==French==
 ===Adjective===
@@ -16,7 +19,7 @@
 ====Translations====
 *[[Dutch]]: [[Langzaam]] 
 *[[German]]: [[langsam]]
-*[[Hebrew]]: [[איטית]]
+*[[Hebrew]]: [[?????]]
 ----
 ==Italian==
 ===Noun===
@@ -25,8 +28,8 @@
 *[[English]]: [[Lens]]
 *[[Dutch]]: [[Lens]]
 *[[German]]: [[Linse]]
-*[[Hebrew]]: [[עדשה]]
-*[[Yiddish]]: [[לינז]] (also [[אָפטיש גלאָז]])
+*[[Hebrew]]: [[????]]
+*[[Yiddish]]: [[????]] (also [[?????? ?????]])
 ----
 ==Spanish==
 ===Noun===
@@ -35,5 +38,5 @@
 *[[English]]: [[Lens]]
 *[[Dutch]]: [[Lens]]
 *[[German]]: [[Linse]]
-*[[Hebrew]]: [[עדשה]]
-*[[Yiddish]]: [[לינז]] (also [[אָפטיש גלאָז]])
+*[[Hebrew]]: [[????]]
+*[[Yiddish]]: [[????]] (also [[?????? ?????]])
