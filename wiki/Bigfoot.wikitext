@@ -1,5 +1,5 @@
 ===Proper noun===
-#An unidentified manlike or apelike animal said to exist in the Himalayas.
+#An unidentified yeti-like animal said to exist in Northwest America.
 #:'''synonyms'''
 #:*[[Sasquatch]]
 #:'''translations'''
