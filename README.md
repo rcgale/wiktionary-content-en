@@ -9,14 +9,14 @@ at any point in its history, and to encourage the creation of derivative works.
 To promote reproducibility in research, this data can be accessed by daily tags. To retrive this material as it appeared
 at a specific point in time, please use the permalink corresponding to that day.
 
-**Today's Tag: [2002-06-15](https://github.com/rcgale/wiktionary-content-en/tree/2002-06-15)** <br />
+**Today's Tag: [2002-07-22](https://github.com/rcgale/wiktionary-content-en/tree/2002-07-22)** <br />
 
 Permalink
-* [https://github.com/rcgale/wiktionary-content-en/tree/2002-06-15](https://github.com/rcgale/wiktionary-content-en/tree/2002-06-15)
+* [https://github.com/rcgale/wiktionary-content-en/tree/2002-07-22](https://github.com/rcgale/wiktionary-content-en/tree/2002-07-22)
 
 Download
-* [2002-06-15.tar.gz](https://github.com/rcgale/wiktionary-content-en/archive/refs/tags/2002-06-15.tar.gz)
-* [2002-06-15.zip](https://github.com/rcgale/wiktionary-content-en/archive/refs/tags/2002-06-15.zip)
+* [2002-07-22.tar.gz](https://github.com/rcgale/wiktionary-content-en/archive/refs/tags/2002-07-22.tar.gz)
+* [2002-07-22.zip](https://github.com/rcgale/wiktionary-content-en/archive/refs/tags/2002-07-22.zip)
 
 ## License
 
