@@ -1,1 +1,3 @@
 False friends are pairs of words in two languages that look or sound similar but differ in meaning. Such words can cause difficulty for students learning a foreign language because the students are likely to misidentify the words based on knowledge of their native language.
+
+'''Example:''' The German word 'will' and the English word 'will'
