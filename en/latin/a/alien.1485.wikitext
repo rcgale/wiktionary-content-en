@@ -10,7 +10,3 @@ See,
 #: (''[[adjective]]'') Belonging to an [[Alien (1340)|alien (def 3.)]].
 # [[Alien (1382)]]
 #: (''[[adjective]]'') Being exceedingly unfamiliar with or removed from a concept.
-
-==Translations==
-*he: (1) [[חייזר]]; 
-     (3,4,5) [[זר]]
