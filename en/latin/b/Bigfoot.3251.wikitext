@@ -1,7 +1,10 @@
-===Proper noun===
+==Proper noun==
+===etymology===
+From ''big'' + ''foot'', relating to the size of its footprints.
+===meanings===
 #An unidentified yeti-like animal said to exist in Northwest America.
 #:'''synonyms'''
 #:*[[Sasquatch]]
 #:'''translations'''
 #:*
-#:'''related words:''' [[Abominable Snowman]], [[yeti]], [[yowie]]
+''related words:'' [[Abominable Snowman]], [[yeti]], [[yowie]]
