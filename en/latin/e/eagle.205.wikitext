@@ -13,9 +13,12 @@
 *[[Albanian]]: [[Shkabë]] (needs to be checked by speaker)
 *[[Arabic]]: [[عُقَاب , نَسْر]] (needs to be checked by speaker)
 *[[Armenian]]: [[Արծիվ]]
+*[[Aymara]]: [[Paca]]
 *[[Azeri]]: [[Qartal]]
-*[[Belarussian]]: [[Aroł]] 
+*[[Belarussian]]: [[Aroł]]
+*[[Bemba]]: [[Lubambe]] 
 *[[Bulgarian]]: [[Oрел]]
+*[[Chamorro]]: [[Ágila]]
 *[[Chinese(Simplified)]]: [[老鹰]] (needs to be checked by speaker)
 *[[Chinese(Traditional)]]: [[老鷹]] (needs to be checked by speaker)
 *[[Croatian]]: [[Orao]]
@@ -49,8 +52,11 @@
 *[[Norwegian]]: [[Ørn]]
 *[[Polish]]: [[Orzeł]] (1)
 *[[Portugese]]: [[Aguia]]
+*[[Quechua]]: [[Anca]]
 *[[Romanian]]: [[Vultur]]
 *[[Russian]]: [[Oрел]]
+*[[Samoan]]: [[Aeto]]
+*[[Sepedi]]: [[Ntšhu]]
 *[[Serbian]]: [[Orao]]
 *[[Slovak]]: [[Orol]]
 *[[Slovenian]]: [[Orel]]
@@ -59,6 +65,7 @@
 *[[Swazi]]: [[Lú-khôzi]]
 *[[Swedish]]: [[Örn]]
 *[[Thai]]: [[อินทรี]] (Is the first letter a capital? is there one?)
+*[[Tongan]]: [['Ikale]]
 *[[Turkish]]: [[Kartal]]
 *[[Turkmen]]: [[Bürgüt]]
 *[[Ukranian]]: [[Oрел]]
