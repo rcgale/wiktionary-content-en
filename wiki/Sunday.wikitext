@@ -12,6 +12,7 @@
 *et: [[pühapäev]]
 *eu: [[igande]]
 *fr: [[dimanche]]
+*fy: [[snein]]
 *[[Georgian]]: [[კვირადღე]]
 *he: [[יום ראשון]] (yom ree-SHON)
 *hr: [[Nedjelja]]
