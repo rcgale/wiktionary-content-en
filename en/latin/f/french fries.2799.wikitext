@@ -1,7 +1,7 @@
 ==American English==
 ==Translations==
 *[[Dutch]]: [[frieten]]
-*[[English (British)]]: [[Chips]]
+*[[English(British)]]: [[Chips]]
 *[[French]]: des [[frites]]
 *[[German]]: [[Pommes Frites]]
 *[[Interlingua]]: [[patatas frite]]
