@@ -13,3 +13,5 @@
 The ablative case.
 
 '''ablative absolute''', a construction in Latin, in which a noun in the ablative case has a participle (either expressed or [[implied]]), [[agreeing]] with it in [[gender]], number, and case, both words forming a clause by themselves and being [[unconnected]], [[grammatically]], with the rest of the sentence; as, ''Tarquinio regnante'', [[Pythagoras]] [[venit]], ''[[i. e (source)|i. e]].'', [[Tarquinius]] [[reigning]], Pythagoras came.
+
+<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Ablatif]]<BR>• [[German]]: [[Ablativ]]<BR>• [[Interlingua]]: [[Ablative]]<BR>• [[Italian]]: [[Ablativo]]<BR>• [[Portuguese]]: [[Ablativo]]<BR>• [[Spanish]]: [[Ablativo]]<BR>• [[]]: [[]]
