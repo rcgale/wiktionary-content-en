@@ -16,6 +16,7 @@ plural = bones
 #:*Greek: [[οστούν]], [[κόκαλο]]
 #:*Hebrew: [[עצם]] (EH-tzem)
 #:*Icelandic: [[bein]]
+#:*Interlingua: [[osso]]
 #:*Italian: [[osso]]
 #:*Korean: [[뼈]] (bbyeo)
 #:*Lojban: [[bongu]]
