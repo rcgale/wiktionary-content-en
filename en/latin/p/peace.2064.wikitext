@@ -4,7 +4,9 @@
 
 ===Translations===
 
+*[[Dutch]] : [[vrede]]
 *[[French]] : [[paix]]
+*[[Frisian]] : [[frede]]
 *[[German]] : [[Frieden]]
 *[[Spanish]] : [[paz]]
 
