@@ -6,7 +6,7 @@
 *de: [[Dezember]]
 *es: [[diciembre]]
 *fr: [[décembre]]
-*he: דצמבר
+*he: [[דצמבר]]
 *mi: [[tïhema]]
 *nl: [[december]]
 *pl: [[grudzień]]
