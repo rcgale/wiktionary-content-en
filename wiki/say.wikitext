@@ -3,6 +3,7 @@
 ===Translations===
 
 *Dutch: [[zeggen]]
+*Finnish: [[sanoa]]
 *French: [[dire]]
 *Frisian: [[sizze]]
 *German: [[Sagen]]
