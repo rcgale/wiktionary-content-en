@@ -3,6 +3,7 @@
 #The seventh day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
+*az: [[bazar]]
 *Blackfoot: [[Naatoyiksistsiko]]
 *de: [[Sonntag]]
 *es: [[domingo]]
