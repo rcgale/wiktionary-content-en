@@ -9,4 +9,4 @@ The term rule of thumb or similar exists in many languages and cultures. Its lik
 *[http://www.debunker.com/texts/ruleofthumb.html The "Rule of Thumb for Wife-Beating" Hoax]
 
 '''See also'''
-*[Tooth Fairy Rule]
+*[[Tooth Fairy Rule]]
