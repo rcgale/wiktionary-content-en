@@ -2,5 +2,5 @@
 
 ===Translations===
 
-*French: [[pollution]]
+*French: pollution
 *Spanish: [[contaminación]]
