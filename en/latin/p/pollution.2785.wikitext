@@ -4,6 +4,9 @@
 *Dutch: [[vervuiling]], [[pollutie]]
 *Finnish: [[saaste]]
 *French: pollution
+*Interlingua: pollution
+*Italiano: [[inquinamento]]
+*Portuguese: [[poluição]]
 *Spanish: [[contaminación]]
 
 ===See also===
