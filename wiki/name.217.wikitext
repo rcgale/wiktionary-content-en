@@ -10,4 +10,4 @@
 # The [[act]] of [[give|giving]] [[someone]] or [[something]] a name. From ''The Land of Oz'' by L. Frank Baum'' ... "I will name the fellow 'Jack Pumpkinhead!'"
 
 ===Translations===
-*nl: noun: [[naam]] (1, 2); verb: [[noemen]], [[kiezen]] (as in ''Kies maar.'' (= ''You name it.'')
+*nl: noun: [[naam]] (1, 2); verb: [[noemen]], [[kiezen]] (as in ''Kies maar.'' (= ''You name it.''))
