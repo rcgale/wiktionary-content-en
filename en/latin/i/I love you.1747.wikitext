@@ -37,7 +37,7 @@
  Arabic (not standard)       Benhibkom (m. to m. or female to 
                      more than one male) 
  Assamese            Moi tomak bhal pau 
- Basc                Nere Maitea 
+ Basque (formal)     Maite zaitut
  Batak               Holong rohangku di ho 
  Bavarian            I mog di narrisch gern 
  Bengali             Ami tomAy bhAlobAshi 
@@ -72,8 +72,8 @@
  English             I love you 
  English             I adore you 
  Esperanto           Mi amas vin 
- Esperanto           Mina armastan sind 
- Esperanto           Ma armastan sind 
+ Unknown             Mina armastan sind 
+ Unknown             Ma armastan sind 
  Farsi               Tora dust midaram 
  Farsi               Asheghetam 
  Farsi (Persian)         doostat dAram 
@@ -178,7 +178,7 @@
  Lojban              mi do prami 
  Luo                 Aheri 
  Macedonian          SAKAM TE! 
- Madrid lingo            Me molas, tronca 
+ Madrid Spanish lingo            Me molas, tronca / tronco (to female / male)
  Malay               Saya cintakan mu 
  Malay               Saya sayangkan mu 
  Malay/Indonesian        Saya sayangkan engkau 
@@ -234,7 +234,8 @@
  Slovak              lubim ta 
  Slovene             ljubim te 
  Spanish             Te quiero 
- Spanish             Te amo 
+ Spanish             Te amo
+ Spanish Caló        Te camelo 
  Srilankan           Mama Oyata Arderyi 
  Swahili             Naku penda (followed by the 
                      person's name) 
@@ -340,6 +341,7 @@
                      People of Sri Lanka  
  Sioux               North American Indian tribe from 
                      the upper Midwest.
+ Spanish Caló        Spanish relexified with Romani / Gipsy words
  Tagalog             Filipino language  
  Tamil               Language spoken in the state of 
                      Tamil Nadu, India and in 
