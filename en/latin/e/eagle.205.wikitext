@@ -80,3 +80,5 @@
 *[[Ukranian]]: [[Oрел]]
 *[[Welsh]]: [[Eryr]], [[Heryr]] (needs to be checked by speaker)
 *[[Yiddish]]: [[אָדלער]] (AHD-ler)
+
+[http://www.wikipedia.org/wiki/Eagle Wikipedia: Eagle]
