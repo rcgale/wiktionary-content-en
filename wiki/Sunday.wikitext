@@ -6,6 +6,7 @@
 *Blackfoot: [[Naatoyiksistsiko]]
 *de: [[Sonntag]]
 *es: [[domingo]]
+*et: [[pühapäev]]
 *eu: [[igande]]
 *fr: [[dimanche]]
 *[[Georgian]]: [[კვირადღე]]
