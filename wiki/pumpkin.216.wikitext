@@ -1,5 +1,8 @@
 ===Pronounciation===
 
+==Alternative forms==
+# [[Punkin]] (pronounced as it is spelled). An alternative American form. James Whitcomb Riley, poem "When the Frost is on the Punkin" [http://www.bartleby.com/104/10.html]
+
 ===Meanings===
 
 [[noun]]
