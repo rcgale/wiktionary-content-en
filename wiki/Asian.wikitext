@@ -1,0 +1,3 @@
+===Noun===
+# A person who ethnically originates from the Indian sub-continent.
+# (US) A person who ethnically originates from east Asia.
