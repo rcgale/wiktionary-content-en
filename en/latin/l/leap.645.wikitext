@@ -1,0 +1,38 @@
+(english)
+
+==Definition==
+;'''Leap''' (''[[noun]]'')
+: To jump from one location to another.
+;'''Leapt'''
+: Past tense of Leap.
+==Alternative spellings==
+;'''Leapt'''
+:Leaped.
+==Pronounciation==
+;'''Leap'''
+: (UK) IPA://
+;'''Leapt'''
+: (UK) IPA://
+==Etymology==
+;'''Leap'''
+: From old english [[hlýp]]
+;'''Leapt'''
+: Unknown, probable alternate spelling of Leaped (from Leap and suffix -ed).
+==Quotations==
+;'''Leap'''
+*'''c. 1450''' - anon, ''Merlin''.
+*: It is grete nede a man to go bak to recouer the better his leep.
+* '''1999''' - Ai, ''Vice: New & Selected Poems'' (1999), page 78.
+*: It is better to leap into the void.
+;'''Leapt'''
+*'''1600''' - anon, ''The wisdome of Doctor Dodypoll'' (1600), Act 4.
+*:I, I defie thee: wert not thou next him when he leapt into the Riuer?
+
+==Derived words==
+;'''Leap'''
+: [[Leapfrog]], [[Leap-year]].
+==Synoyms==
+;'''Leap'''
+: [[Jump]].
+;'''Leapt'''
+: [[Sprung]].
