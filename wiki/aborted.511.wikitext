@@ -6,7 +6,7 @@ Derivative of [[abort]]
 #:'''Quotations'''
 #:*The eyes of the cirripeds are more or less ''aborted'' in their mature state. - [[Owen]].
 ----
-'''Translations]]]
+'''Translations'''
 * [[French]]: [[Aborté]]
 * [[German]]: [[]]
 * [[Interlingua]]: [[Abortate]]
