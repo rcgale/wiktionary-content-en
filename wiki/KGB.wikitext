@@ -1,0 +1,2 @@
+Abbreviation for
+*Комитет Государственной Безопастности, Committee of State Security.
