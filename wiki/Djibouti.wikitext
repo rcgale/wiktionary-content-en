@@ -5,7 +5,7 @@
 # Country in Eastern Africa. Official name: Republic of Djibouti.
 #:'''Translations'''
 #:*[[Chinese]]: [[吉布提]]
-#:*[[Dannish]]: Djibouti
+#:*[[Danish]]: Djibouti
 #:*[[Dutch]]: Djibouti
 #:*[[Esperanto]]: [[Ĝibutio]]
 #:*[[Finnish]]: Djibouti
