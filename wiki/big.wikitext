@@ -1,14 +1,18 @@
 ==[[Adjective]]==
 
-*Of a large size
+*Of a [[large]] [[size]]
 
 ===Translations===
 *Dutch: [[groot]]
 *French: grand
 *German: [[groß]]
-*Hebrew: [[גדול]]
+*Hebrew: [[????]]
 *Spanish: grande
 
 ===Related words===
-*Big Brother
-*Big Bang
+*[[Big Brother]]
+*[[Big Bang]]
+
+'''[[Synonym]]s''' - [[ample]], [[large]], [[sizeable]], [[jumbo]]
+
+'''[[Antonym]]s''' - [[small]], [[tiny]], [[miniscule]]
