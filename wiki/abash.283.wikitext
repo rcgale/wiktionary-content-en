@@ -30,3 +30,5 @@ Present Participle
 :*Satan stood Awhile as mute, ''confounded'' what to say. - [[Milton]].
 
 <HR> <P> <H3>Translations</H3><BR>•[[French]] fr: [[Confonder]]<BR>•[[German]] de: [[Beschämen Sich]]<BR>•[[Interlingua]] ia: [[Confunder]]<BR>•[[Italian]] it: [[]]<BR>•[[Portuguese]] pt: [[]]<BR>•[[Spanish]] es: [[]]<BR>•[[Confundir]]: [[]]
+
+Abashed <P><H3>[[Adjective]] / [[Past Participle]]</H3> <BR>•[[French]] fr: [[Confondu]]<BR>•[[German]] de: [[Beschämt]]<BR>•[[Interlingua]] ia: [[Disconcertate]]<BR>•[[Italian]] it: [[]]<BR>•[[Portuguese]] pt: [[Confundido]]<BR>•[[Spanish]] es: [[Confundido]]<BR>•[[]]: [[]]
