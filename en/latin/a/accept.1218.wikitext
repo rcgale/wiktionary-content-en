@@ -1,6 +1,10 @@
 ''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Accept]] for the new Wiktionary definition of this term.''
-
-'''Accept''', ''<code>[[transitive verb (part of speech)|transitive verb]]</code>'' [''<code>[[imp. (part of speech)|imp.]] & [[past participle (part of speech)|past participle]]</code>'' [[Accepted]]; ''<code>[[present participle (part of speech)|present participle]] & [[vb. n. (part of speech)|vb. n.]]</code>'' [[Accepting]].] [F. ''accepter'', L. ''acceptare'', freq. of ''accipere''; ''ad'' + ''capere'' to take; akin to E. ''heave''.]
+===Etymology===
+[French ''accepter'', Latin ''acceptare'', [[frequentative]] of ''accipere''; ''ad'' (to) + ''capere'' (to take).
+ 
+===Transitive verb===
+''Past tense and past participle'': [[Accepted]]<br>
+''Present participle and verbal noun'' [[Accepting]]
 
 <ol>
 <li>To receive with a [[consenting]] mind (something offered); as, to ''accept'' a gift; -- often followed by ''of''.
@@ -31,7 +35,6 @@
 
 '''Synonyms:''' -- To receive; take; admit. See [[Receive]].
 </ol>
------
-'''Accept''', ''<code>[[adjective (part of speech)|adjective]]</code>''
 
-Accepted. [Obs.] ''[[Shakespeare (source)|Shakespeare]].''
+===Adjective===
+#''Obsolete'' Accepted.  ''[[Shakespeare (source)|Shakespeare]].''
