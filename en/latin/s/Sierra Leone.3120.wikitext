@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Republic of Sierra Leone.
+#:'''Translations'''
+#:*[[Danish]]: Sierra Leone
+#:*[[Dutch]]: Sierra Leone
+#:*[[Esperanto]]: [[Siera-Leono]]
+#:*[[Finnish]]: Sierra Leone
+#:*[[French]]: Sierra Leone
+#:*[[German]]: Sierra Leone
+#:*[[Greek]]: [[Σιέρρα Λεόνε]]
+#:*[[Interlingua]]: [[Sierra Leon]]
+#:*[[Italian]]: Sierra Leone
+#:*[[Polish]]: Sierra Leone
+#:*[[Portuguese]]: [[Serra Leoa]]
+#:*[[Russian]]: [[Сьерра-Леоне]]
+#:*[[Spanish]]: [[Sierra Leona]]
+#:*[[Swedish]]: Sierra Leone
+
+''See'': [[Countries of the world]]
