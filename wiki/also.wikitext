@@ -1,7 +1,13 @@
 ==[[Adverb]]==
 
+===Synonyms===
+*[[too]]
+*[[as well]]
+
 ===Translations===
 
-*Dutch: [[ook]]
+*Dutch: [[ook]], [[tevens]], [[bovendien]]
 *French: [[aussi]], [[également]]
+*Frisian: [[ek]]
+*German: [[auch]]
 *Spanish: [[también]]
