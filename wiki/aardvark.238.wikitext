@@ -5,5 +5,6 @@ An [[edentate]] [[mammal]], of the genus ''Orycteropus'', somewhat resembling a 
 Plural form: aardvarks
 
 ==Translation==
+*af: aardvark
 *de: [[Erdferkel]]
-*nl, af: Aardvark
+*nl: [[aardvarken]]
