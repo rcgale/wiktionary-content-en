@@ -31,7 +31,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 *sv: [[hund]]
 
 == Proverbs / Idioms ==
-*[[dog eat dog]]
+*[[dog-eat-dog]]
 *[[gone to the dogs]]
 *[[rain cats and dogs]]
 
