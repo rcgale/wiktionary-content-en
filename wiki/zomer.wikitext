@@ -1,5 +1,5 @@
 ===Meanings===
-'''nl:''' Traditionally the second of the four [[season]]s, normally from [[June]] 21 to [[September]] 20.
+'''nl:''' Traditionally the second of the four [[season]]s, normally in the northern hemisphere from [[June]] 21 to [[September]] 20.
 
 ===Translations===
 *en: [[summer]]
