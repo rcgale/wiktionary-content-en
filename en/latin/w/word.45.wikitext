@@ -1,8 +1,8 @@
-*(linguistics) A distinct unit of language (sounds in speech or written letters) with a particular meaning. Composed of one or more [[morpheme]]s.
+#(linguistics) A distinct unit of language (sounds in speech or written letters) with a particular meaning. Composed of one or more [[morpheme]]s.
 
-*Something said or promised.
+#Something said or promised.
 
-*(computers) A numerical value with a [[bit]] width native to the machine
+#(computers) A numerical value with a [[bit]] width native to the machine
 
 ==Translations==
 *Danish: [[ord]]
@@ -13,6 +13,7 @@
 *German: [[Wort]]
 *Hebrew: [[מילה]]
 *Hungarian: [[szó]]
+*Korean: '''1''' [[낱말]] (natmal), [[단어]] (daneo) '''2''' [[말]] (mal)
 *Swedish: [[ord]]
 *Portuguese: [[palavra]]
 *Yiddish: [[װאָרט]]
