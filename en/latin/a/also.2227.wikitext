@@ -7,6 +7,7 @@
 ===Translations===
 
 *Dutch: [[ook]], [[eveneens]], [[tevens]], [[bovendien]]
+*Finnish: [[myös]]
 *French: [[aussi]], [[également]]
 *Frisian: [[ek]]
 *German: [[auch]]
