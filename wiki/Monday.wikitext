@@ -3,8 +3,9 @@
 #The first day of the [[week]] (according to the ISO 8601 norm).
 
 ==Translations==
-*de: Montag
-*es: lunes
+*de: [[Montag]]
+*es: [[lunes]]
 *fr: [[lundi]]
 *nl: [[maandag]]
 *pl: [[poniedziałek]]
+*pt: [[segunda-feira]]
