@@ -7,7 +7,7 @@
 
 <li> To bring down or reduce from a higher to a lower state, number, or degree; to [[lessen]]; to [[diminish]]; to contract; to moderate; to cut short; as, to ''abate'' a demand; to ''abate'' pride, zeal, hope.
 
-<code>His eye was not dim, nor his natural force ''abated''. ''[[Deut. xxxiv. 7 (source)|Deut. xxxiv. 7]].''</code>
+<code>His eye was not dim, nor his natural force ''abated''. [[Deut. 34:7 (source)|Deut. 34:7]].</code>
 
 <li> To [[deduct]]; to omit; as, to ''abate'' something from a price.
 
