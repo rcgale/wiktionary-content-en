@@ -8,6 +8,7 @@
 #:*[[Dutch]]: [[Oost-Timor]]
 #:*[[Esperanto]]: [[Orienta Timoro]]
 #:*[[Finnish]]: [[Itä-Timor]]
+#:*[[French]]: [[Timor Oriental]]
 #:*[[German]]: [[Osttimor]]
 #:*[[Greek]]: [[Ανατολικό Τιμόρ]], [[Ανατολικό Τίμορ]]
 #:*[[Interlingua]]: [[Timor Oriental]]
