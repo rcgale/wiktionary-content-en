@@ -2,14 +2,23 @@
 
 '''proper noun'''
 
-# One of the [[Baltic]] countries.
+# One of the [[Baltic]] countries. Official name: Republic of Estonia.
 #:'''Translations'''
+#:*[[Chinese]]: [[爱沙尼亚]]
+#:*[[Danish]]: [[Estland]]
 #:*[[Dutch]]: [[Estland]]
+#:*[[Esperanto]]: [[Estonio]], [[Estonujo]]
 #:*[[Estonian]]: [[Eesti]]
 #:*[[Finnish]]: [[Viro]]
 #:*[[French]]: [[Estonie]]
 #:*[[German]]: [[Estland]]
+#:*[[Greek]]: [[Εσθονία]]
 #:*[[Hungarian]]: [[Észtország]]
+#:*[[Italian]]: Estonia
 #:*[[Polish]]: Estonia
+#:*[[Portuguese]]: [[Estónia]]
+#:*[[Russian]]: [[Эстония]]
+#:*[[Spanish]]: Estonia
+#:*[[Swedish]]: [[Estland]]
 
 ''See:'' [[Countries of the world]]
