@@ -17,7 +17,7 @@
 *[[Finnish]]: [[talvi]]
 *[[French]]: [[hiver]]
 *[[German]]: [[Winter]]
-*[[Hebrew]]: [[חורף]]
+*[[Hebrew]]: [[חורף]] (KHO-ref)
 *[[Indonesian]]: [[musim dingin]]
 *[[Irish]]: [[Geimhreadh]]
 *[[Mäori]]: [[takurua]]
@@ -27,7 +27,7 @@
 *[[Romanian]]: [[iarna]]
 *[[Spanish]]: [[invierno]]
 *[[Turkish]]: [[kiş]]
-*[[Yiddish]]: [[װינטער]]
+*[[Yiddish]]: [[װינטער]] (VIN-ter)
 
 == Dutch ==
 'win-ter /wInt@R/, ''masculine noun'', ''plural'' -s /-s/, winter.
