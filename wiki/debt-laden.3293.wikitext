@@ -1,0 +1,10 @@
+==[[Noun]]==
+
+*That has a lot of debts
+
+===Examples===
+*The debt-laden company
+
+===Translations===
+
+*French: [[criblé]] de [[dette]]s
