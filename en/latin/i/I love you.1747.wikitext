@@ -120,7 +120,7 @@
                      often used) 
  Indonesian          Aku cinta padamu ( " ) 
  Indonesian          Aku cinta kamu ( " ) 
- Interlingua         Io te ama
+ Interlingua         [[Io]] [[te]] [[amar|ama]]
  Iranian             Mahn doostaht doh-rahm 
  Irish               taim i' ngra leat 
  Italian             ti amo (if it's a relationship
