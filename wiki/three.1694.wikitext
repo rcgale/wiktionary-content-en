@@ -7,7 +7,7 @@ Old English ''þreo'', from Germanic ''*þrijiz'', from PIE ''*treyes''. Cognate
 == Translations ==
 *Dutch: [[drie]]
 *Finnish: [[kolme]]
-*French: [trois]]
+*French: [[trois]]
 *Frisian: [[trije]]
 *German: [[drei]]
 *Lojban: [[ci]]
