@@ -1,0 +1,1 @@
+We have no [[w:defining vocabulary]] for the wiktionary yet.  Do we need one?  If not, why not?  Note especially the [[Idiom_dictionary_considerations]] that may force us to eventually define one.
