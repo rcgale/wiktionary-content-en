@@ -17,6 +17,6 @@ As separate letters: [U-S-S-R]
 ----
 ===Dutch===
 ===Abbreviaion===
-#Unie van Socialistische Sovjetrepublieken R
+#Unie van Socialistische Sovjetrepublieken
 #:'''Translations'''
 #:''See English''
