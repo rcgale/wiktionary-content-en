@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Europe. Official name: Republic of Moldova.
+#:'''Translations'''
+#:*[[Chinese]]: Moldova
+#:*[[Danish]]: Moldova
+#:*[[Dutch]]: [[Moldavië]]
+#:*[[Esperanto]]: [[Moldavio]], [[Moldavujo]]
+#:*[[Finnish]]: Moldova
+#:*[[French]]: [[Moldavie]], Moldova
+#:*[[German]]: [[Moldau]]
+#:*[[Greek]]: [[Μολδαβία]]
+#:*[[Italian]]: [[Moldavia]], [[Moldovia]], Moldova
+#:*[[Polish]]: [[Mołdawia]]
+#:*[[Portuguese]]: [[Moldávia]]
+#:*[[Russian]]: [[Молдова]]
+#:*[[Spanish]]: [[Moldavia]]
+#:*[[Swedish]]: [[Moldavien]]
+
+''See'': [[Countries of the world]]
