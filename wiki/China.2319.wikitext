@@ -1,6 +1,6 @@
 ==English==
 
-'''proper noun'''
+===proper noun===
 
 # Country in East Asia. Official name: People's Republic of China.
 #:'''Translations'''
@@ -22,5 +22,6 @@
 
 ''See'': [[Countries of the world]]
 
-'''noun'''
+===noun===
+china (''without capital letter'')
 #Ceramic or porcelain
