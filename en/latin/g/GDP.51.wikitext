@@ -1,5 +1,5 @@
 Abbreviation of Gross Domestic Product.
 
-'''Translattions'''
+'''Translations'''
 
 *fr : PIB
