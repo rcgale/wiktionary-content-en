@@ -7,6 +7,8 @@
 plural = bones
 #Any of the bone parts of a skeleton.
 #:'''Translations'''
+#:*Chinese (traditional): [[骨頭]]
+#:*Chinese (simplified): [[骨头]]
 #:*Dutch: [[bot]], [[been]]
 #:*Finnish: [[luu]]
 #:*French: [[os]]
