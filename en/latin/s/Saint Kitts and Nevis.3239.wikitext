@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Caribbean. Official name: Federation of Saint Kitts and Nevis.
+#:'''Translations'''
+#:*[[Danish]]: [[Saint Kitts og Nevis]]
+#:*[[Dutch]]: [[Saint Kitts en Nevis]]
+#:*[[Esperanto]]: [[Sent-Kristofo kaj Neviso]], [[Sent-Kit-Neviso]]
+#:*[[Finnish]]: [[Saint Kitts ja Nevis]]
+#:*[[French]]: [[Saint-Christophe-et-Niévès]], [[Saint-Christophe-et-Nevis]]
+#:*[[German]]: [[St. Kitts und Nevis]]
+#:*[[Greek]]: [[Άγιος Χριστόφορος και Νέβις]], [[Σαιντ Κιτς και Νέβις]]
+#:*[[Italian]]: [[Saint Christopher e Nevis]]
+#:*[[Polish]]: [[Saint Christopher i Nevis]], [[Saint Kitts i Nevis]]
+#:*[[Portuguese]]: [[São Cristóvão e Neves]]
+#:*[[Russian]]: [[Сент-Кристофер и Невис]]
+#:*[[Spanish]]: [[San Cristóbal y Nieves]]
+#:*[[Swedish]]: [[Saint Christopher och Nevis]]
+
+''See'': [[Countries of the world]]
