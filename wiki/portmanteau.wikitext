@@ -1,31 +1,5 @@
-:UK: /pO:t'm{nt@u/ in SAMPA, /p&#596;:t'mant&#601;&#650;/ in IPA 
-:US: /pO:rt'm{ntou/ in SAMPA.
+See,
 
-Plural, portmanteaus, portmanteaux
-
-''[[noun]]''
-
-# A large travelling case made of [[leather]].
-#* '''a. 1500''' - anon, ''Robin Hood and the Bishop of Hereford'' in ''The English and Scottish Popular Ballads'' (1898)
-#*: Then Little John took the bishop's cloak, And spread it upon the ground, And out of the bishop's portmantua, He told three hundred pound.
-#* '''1667''' - Charles Croke, ''Fortune's Uncertainty''
-#*: Rodolphus therefore finding such an earnest Invitation, embrac'd it with thanks, and with his Servant and Portmanteau, went to Don Juan's; where they first found good Stabling for their Horses, and afterwards as good Provision for themselves.
-Used as an ''[[adjective]]'' in compound words
-
-# A work produced by several people.
-#*'''2002''' - Nicholas Lezard, ''Spooky tales by the master and friends'' in ''The Guardian'' (London) (December 14, 2002) Page 30.
-#*:The overall narrator of this portmanteau story - for Dickens co-wrote it with five collaborators on his weekly periodical, All the Year Round - expresses deep, rational scepticism about the whole business of haunting.
-#*'''2002''' - Nick Bradshaw, ''One day in September'' in ''Time Out'' (December 11, 2002) Page 71.
-#*: We're so bombarded with images, it's a struggle to preserve our imaginations.' In response, he's turned to cinema, commissioning 11 film-makers to contribute to a portmanteau film, entitled '11'09"01' and composed of short films each running 11 minutes, nine seconds and one frame.
-# ''[[linguistic terminology|Linguistics]]''  A word formed which combines the meaning of several words often by adjoining parts of the words together; for example, ''[[smoke]]'' and ''[[fog]]'' combine to form ''[[smog]].'' 
-#* '''1872''' (coinage) - Lewis Carroll. ''Alice Through the Looking Glass'' 
-#*: Well, "slithy" means "lithe and slimy." "Lithe" is the same as "active." You see it's like a portmanteau--there are two meanings packed up into one word.
-#* '''1995''' - Michael Cart, ''From Romance to Realism'', page 110, ISBN 0060242892 
-#*: "[[Multiculturalism]]" is a [[portmanteau word]], containing in its [[definition]] and its [[resonance|resonant]] [[connotation|connotations]] as many [[concept|concepts]] as a suitcase does socks
-
-== Translations ==
-*nl: noun: [[kostuumkoffer]], [[koffer]]
-
-== Further reading ==
-
-* [[w:portmanteau|Wikipedia article]]
+#[[Portmanteau, 1.]] - ''(noun)'' A large travelling case made of [[leather]].
+#[[Portmanteau, 2.]] - ''(adjective)'' Word combining the meaning of other words.
+#[[Portmanteau, 3.]] - ''(adjective)'' A work produced by several people.
