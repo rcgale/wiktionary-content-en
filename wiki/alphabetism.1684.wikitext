@@ -1,0 +1,2 @@
+===Noun===
+#Discrimination on the basis of the first letter of a name.
