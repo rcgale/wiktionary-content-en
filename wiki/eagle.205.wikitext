@@ -6,6 +6,8 @@
 
 2) Old coin used in the United States.
 
-===Translationa===
+===Translations===
 
+[[Dutch]]: [[arend]], [[adelaar]]
+[[French]]: [[aigle]]
 [[Latin]]: [[Aqvila]]
