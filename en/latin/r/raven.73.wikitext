@@ -25,3 +25,4 @@ noun '''(nl)'''
 * de: [[Rabe]]
 * nl: [[raaf]]
 * pl: [[kruk]]
+* sv: [[Korp]]
