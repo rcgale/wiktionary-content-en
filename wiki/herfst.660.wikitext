@@ -1,7 +1,7 @@
 ===Meanings===
 '''nl:''' Traditionally the third of the four [[season]]s, normally from [[September]] 21 to [[December]] 20.
 
-===Translantions===
+===Translations===
 *en: [[autumn]], [[fall]]
-*es: otoño
+*es: [[otoño]]
 *fr: [[automne]]
