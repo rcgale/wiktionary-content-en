@@ -9,11 +9,10 @@
 #:*[[Japanese]]: [[日本]](Nipon)
 #:*[[Korean]]: [[일본]] (ilbon)
 #:*[[Spanish]]: [[Japón]]
-
-'''Related words'''
-* [[Japanese]] : related to Japan, inhabitant of Japan, an language of Japan
-* [[Nihonjinron]] : kind of books explaining the economic boom
-
+#:'''Related words'''
+#:*[[Japanese]] : related to Japan, inhabitant of Japan, an language of Japan
+#:*[[Nihonjinron]] : kind of books explaining the economic boom
+# A hard black enamel varnish containing asphalt
 === Further reading ===
 
 * [[w:Japan|Wikipedia article on Japan]]
