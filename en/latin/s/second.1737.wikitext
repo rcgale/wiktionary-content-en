@@ -6,9 +6,17 @@
 # A short, indeterminate amount of time: "I'll be there in a second."
 # An manufactured item which, though still usable, fails to meet quality control standards.
 
+==Translations==
+
+*nl: [[seconde]] (1,2), zo (3), tweede keus, tweede soort (4)
+
 ===[[adjective]]===
 
 # The ordinal form of the number [[two]]; following immediately after [[first]].
+
+==Translations==
+
+*nl: [[tweede]]
 
 ===[[verb]]===
 # To agree as a second (adj.) person to some proposal, usually to reach a necessary quorum of [[two]].
