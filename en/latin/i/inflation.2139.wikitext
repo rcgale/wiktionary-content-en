@@ -1,18 +1,22 @@
 ===[[Noun]]===
 #Rise in the general level of prices
 #:'''Translations'''
-#:*Dutch: [[inflatie]]
+#:*[[Dutch]]: [[inflatie]]
 #:*[[Esperanto]]: [[inflacio]]
-#:*Finnish: [[inflaatio]]
-#:*French: inflation
-#:*Spanish: [[inflación]]
+#:*[[Finnish]]: [[inflaatio]]
+#:*[[French]]: inflation
+#:*[[Interlingua]]: [[inflation]]
+#:*[[Spanish]]: [[inflación]]
+#:*[[Volapük]]: [[niflat]]
 #The expansion of certain items (such as balloons) when filled with a fluid.
 #:'''Translations'''
-#:*Dutch: [[inflatie]]
+#:*[[Dutch]]: [[inflatie]]
 #:*[[Esperanto]]: [[inflacio]]
-#:*Finnish: [[laajentuminen]]
-#:*French: inflation
-#:*Spanish: [[inflación]]
+#:*[[Finnish]]: [[laajentuminen]]
+#:*[[French]]: inflation
+#:*[[Interlingua]]: [[inflation]]
+#:*[[Spanish]]: [[inflación]]
+#:*[[Volapük]]: [[bladosvolükön]]
 ===[[Antonym]]s===
 * [[deflation]]
 ===[[Derivative]] [[term]]s===
