@@ -3,7 +3,7 @@ achieve, ''[[Noun]]'', accomplish.
 '''Translations''' 
 * [[French]]: [[Accomplir]] 
 * [[German]]: [[]] 
-* [[Interlingua]]: [[Accomplir]], [[Complimento]], [[Realisar]] 
+* [[Interlingua]]: [[Accomplir]], [[Complir]], [[Realisar]] 
 * [[Italian]]: [[Realizzare]] 
 * [[Portuguese]]: [[Realizar]] 
 * [[Spanish]]: [[Lograr]], [[Realizar]]
