@@ -5,7 +5,7 @@
 # Country in North America. Official name: Canada.
 #:'''Translations'''
 #:*[[Chinese]]: [[加拿大]]
-#:*[[Dannish]]: Canada
+#:*[[Danish]]: Canada
 #:*[[Dutch]]: Canada
 #:*[[Esperanto]]: [[Kanado]]
 #:*[[Finnish]]: [[Kanada]]
