@@ -11,6 +11,7 @@
 *et: [[esmaspäev]]
 *eu: [[astelehen]]
 *fr: [[lundi]]
+*fy: [[moandei]]
 *[[Georgian]]: [[ორშაბათი]]
 *he: [[יום שני]] (yom shay-NEE)
 *hr: [[Ponedjeljak]]
