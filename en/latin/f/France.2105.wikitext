@@ -6,5 +6,6 @@
 #:*[[French]]: France
 #:*[[German]]: [[Frankreich]]
 #:*[[Hebrew]]: [[צרפת]]
+#:*[[Polish]]: [[Francja]]
 #:*[[Spanish]]: [[Francia]]
 ''See:'' [[Countries of the world]]
