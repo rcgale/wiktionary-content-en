@@ -4,3 +4,4 @@
 
 ==Translations==
 *nl: [[juli]]
+*pl: [[lipiec]]
