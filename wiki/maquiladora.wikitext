@@ -15,7 +15,7 @@ Plants in Mexico nearby the border with the United States.
 -----
 
 ==Spanish==
-==[[Noun]]
+==[[Noun]]==
 *maquiladora
 ===Synonym===
 *[[maquila]]
