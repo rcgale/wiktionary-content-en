@@ -1,3 +1,3 @@
-1. A [[book]] which [[alphabetical|alphabeticaly]] [[reference|references]] the [[word|words]] (and meanings thereof) for a given [[language]].
+1. A [[publication]], usually in the form of a [[book]], which [[alphabetical|alphabeticaly]] [[reference|references]] the [[word|words]] (and meanings thereof) for a given [[language]] or languages.
 
-2. A book which alphabeticaly references terms (and meanings thereof) on a given [[subject]]. One example of this is [[Medical dictionary|Medical Dictionaries]].
+2. A publication which alphabeticaly references terms (and meanings thereof) on a given [[subject]]. One [[example]] of this is [[Medical dictionary|Medical Dictionaries]].
