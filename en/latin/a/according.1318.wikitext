@@ -1,25 +1,28 @@
-''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[According]] for the new Wiktionary definition of this term.''
-
-'''According''', ''<code>[[p. a. (part of speech)|p. a.]]</code>''
-
-[[Agreeing]]; in agreement or harmony; [[harmonious]].
-
-<code>This ''according'' voice of national wisdom.</code> ''[[Burke (source)|Burke]].''
-
-<code>Mind and soul ''according'' well.</code> ''[[Tennyson (source)|Tennyson]].''
-
-<code>''According to'' him, every person was to be bought. ''[[Macaulay (source)|Macaulay]].''</code>
-
-<code>Our zeal should be ''according to'' knowledge. ''[[Sprat (source)|Sprat]].''</code>
-
+===Etymology===
+Derivative of [[accord]]
+===Verb===
+Present participle of [[accord]]
+#:'''Quotations'''
+#:*Mind and soul ''according'' well. ''[[Tennyson (source)|Tennyson]].''
+===Adjective===
+#[[Agreeing]]; in agreement or harmony; [[harmonious]].
+#:'''Quotations'''
+#:*This ''according'' voice of national wisdom. ''[[Burke (source)|Burke]].''
+===Adverb with "to"===
 '''''Note:''''' ''According to'' has been called a [[preposition]]al]] phrase, but [[strictly]] speaking, ''according'' is a participle in the sense of ''agreeing'', ''acceding'', and ''to'' alone is the preposition.
+#In a manner conforming or corresponding to; in proportion 
+#:'''Quotations'''
+#:*''According to'' him, every person was to be bought. ''[[Macaulay (source)|Macaulay]].''
+#:*Our zeal should be ''according to'' knowledge. ''[[Sprat (source)|Sprat]].''
 
-'''According as''', [[precisely]] as; the same as; corresponding to the way in which. ''According as'' is an [[adverbial]] phrase, of which the [[propriety]] has been doubted; but good usage [[sanctions]] it. See [[According]], ''<code>[[adverb (part of speech)|adverb]]</code>''
 
-<code>Is all things well, ''According as'' I gave directions? ''[[Shakespeare (source)|Shakespeare]].''</code>
-
-<code>The land which the Lord will give you ''according as'' he hath promised. ''[[Ex. xii. 25 (source)|Ex. xii. 25]].''</code>
+===Adverb with "as"===
+/[[precisely]] as; the same as; corresponding to the way in which. ''According as'' is an [[adverbial]] phrase, of which the [[propriety]] has been doubted; but good usage [[sanctions]] it.  
+#:'''Quotations'''
+#:*Is all things well, ''According as'' I gave directions? ''[[Shakespeare (source)|Shakespeare]].''
+#:*The land which the Lord will give you ''according as'' he hath promised. ''[[Ex. xii. 25 (source)|Ex. xii. 25]].''
 -----
-'''According''', ''<code>[[adverb (part of speech)|adverb]]</code>''
-
-[[Accordingly]]; [[correspondingly]]. [Obs.] ''[[Shakespeare (source)|Shakespeare]].''
+===Adverb by itself===
+#[[Accordingly]]; [[correspondingly]]. [Obsolete]
+#:'''Quotations'''
+#:*That apprehends no further than this world, And squarest thy life according - - Shakespeare, ''Measure for Measure, V, i''
