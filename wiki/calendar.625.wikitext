@@ -1,4 +1,6 @@
-Calendar /kAlEnd@r/kăl'[upsidedown e]n-d[upsidedown e]r/
+Calendar 
+:/kAlEnd@r/in SAMPA
+:/'kal&#618;nd&#601;/ in IPA
 
 '''(en)''' ''noun''
 
@@ -12,4 +14,5 @@ The spelling with 'a' in English is to distinguish the word from [[calender]].
 
 ==Translation==
 *de: [[Kalender]]
+*fr: [[calendrier]], /kal&#593&#771;d&#640;ije/
 *nl: [[kalender]]
