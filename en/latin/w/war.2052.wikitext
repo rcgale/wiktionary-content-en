@@ -10,6 +10,7 @@
 *[[Greek]] : [[πολεμος]]
 *[[Frisian]] : [[oarloch]], [[kriich]]
 *[[German]] : [[Krieg]]
+*[[Hebrew]] : [[מלחמה]]
 *[[Japanese]] : [[戦争]] (せんそう;sensou)
 *[[Korean]] : [[전쟁]] [戰爭] (jeonjaeng)
 *[[Spanish]] : [[guerra]]
