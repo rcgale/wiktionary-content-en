@@ -1,12 +1,12 @@
-===[[noun]]===
+==[[noun]]==
 # Unrefined [[oil]]; as it is found in the ground.
 
-#'''Translations'''
-#*Dutch: [[ruwe olie]], [[aardolie]]
-#*French: [[pétrole brute]]
-#*Frisian: [[ierdoalje]]
-#*German: [[Rohöl]]
-#*Spanish: [[crudo]]
+===Translations===
+*Dutch: [[ruwe olie]], [[aardolie]]
+*French: [[pétrole brute]]
+*Frisian: [[ierdoalje]]
+*German: [[Rohöl]]
+*Spanish: [[crudo]]
 
 === See also ===
 * [[petroleum]]
