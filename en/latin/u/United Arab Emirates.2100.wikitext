@@ -5,7 +5,7 @@
 # Country in the Middle East. Official name: United Arab Emirates.
 #:'''Translations'''
 #:*[[Chinese]]: [[阿拉伯联合酋长国]]
-#:*[[Dannish]]: [[De Forenede Arabiske Emirater]]
+#:*[[Danish]]: [[De Forenede Arabiske Emirater]]
 #:*[[Dutch]]: [[Verenigde Arabische Emiraten]]
 #:*[[Esperanto]]: [[Unuiĝintaj Arabaj Emirlandoj]]
 #:*[[Finnish]]: [[Arabiemiirikunnat]]
