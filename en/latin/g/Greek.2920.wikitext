@@ -3,7 +3,7 @@
 #:'''[[translation]]s'''
 #:*[[Dutch]]: [[Griek]]
 #:*[[Esperanto]]: [[Greko]]
-#:*[[Polish]]: [[grek]]
+#:*[[Polish]]: male: [[Grek]], female: [[Greczynka]]
 #[[w:IndoEuropean|Indo-European]] language, primarily spoken in Greece
 #:'''translations'''
 #:*[[Dutch]]: [[Grieks]]
