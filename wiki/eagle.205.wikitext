@@ -19,6 +19,7 @@
 *[[Belarussian]]: [[Aroł]]
 *[[Bemba]]: [[Lubambe]] 
 *[[Bulgarian]]: [[Oрел]]
+*[[Cebuano]]: [[Agila]]
 *[[Chamorro]]: [[Ágila]]
 *[[Chinese(Simplified)]]: [[老鹰]] (needs to be checked by speaker)
 *[[Chinese(Traditional)]]: [[老鷹]] (needs to be checked by speaker)
