@@ -7,7 +7,7 @@
 
 ==Translations==
 
-*en: [[free]]
-*fr: [[libre]]
+*English: [[free]]
+*French: libre (on this page)
 *nl: [[vrij]], gratis (2)
-*es: libre (on this page) (1,4), [[gratis]] (2)
+*Spanish: libre (on this page) (1,4), [[gratis]] (2)
