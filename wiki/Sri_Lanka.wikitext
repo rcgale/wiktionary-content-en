@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in South Asia. Official name: Democratic Socialist Republic of Sri Lanka.
+#:'''Translations'''
+#:*[[Danish]]: Sri Lanka
+#:*[[Dutch]]: Sri Lanka
+#:*[[Esperanto]]: [[Lanko]], [[Sri-Lanko]], [[Srilanko]]
+#:*[[Finnish]]: Sri Lanka
+#:*[[French]]: Sri Lanka
+#:*[[German]]: Sri Lanka
+#:*[[Greek]]: [[Σρι Λάνκα]]
+#:*[[Interlingua]]: Sri Lanka
+#:*[[Italian]]: Sri Lanka
+#:*[[Polish]]: Sri Lanka
+#:*[[Portuguese]]: [[Sri Lanca]]
+#:*[[Russian]]: [[Шри-Ланка]]
+#:*[[Spanish]]: Sri Lanka
+#:*[[Swedish]]: Sri Lanka
+
+''See'': [[Countries of the world]]
