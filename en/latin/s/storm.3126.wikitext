@@ -2,4 +2,4 @@ A storm is a kind of severe weather marked by hard wind (a wind storm), or wind 
 
 === Translations===
 
-*[[Esperanto]]:[[sxtormo]]
+*[[Esperanto]]:[[ŝtormo]]
