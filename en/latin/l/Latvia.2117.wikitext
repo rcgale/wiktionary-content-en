@@ -1,0 +1,9 @@
+==English==
+
+'''proper noun'''
+
+# One of the [[Baltic]] countries.
+#:'''Translations'''
+#:*[[Dutch]]: [[Letland]]
+
+''See:'' [[Countries of the world]]
