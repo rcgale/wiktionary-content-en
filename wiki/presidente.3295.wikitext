@@ -3,5 +3,6 @@
 #A female president
 ==Spanish==
 #[[President]]
+===Noun===
 ===Synonyms===
 *[[Mandatario]] (it has a broader meaning)
