@@ -3,7 +3,7 @@
 Adori iun
 
 
-=== [[Traduko]]j ==
+=== [[Traduko]]j ===
 
 *[[Angla]]: To love.
 *[[Hispana]]: Amar
