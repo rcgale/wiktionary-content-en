@@ -6,3 +6,4 @@
 *es: [[invierno]]
 *et: talv
 *fr: [[hiver]]
+*he: חורף
