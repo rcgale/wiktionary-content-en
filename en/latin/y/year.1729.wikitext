@@ -1,6 +1,6 @@
 '''[[noun]]'''
 
-# The time it takes for a [[planet]] to make one revolution around the [[sun]].
+# The time it takes for a planetary [[body]] to make one revolution around another [[body]].
 # A period of approximately 365.24 [[day]]s (one [[Earth]]-year).
 
 ==Translations==
