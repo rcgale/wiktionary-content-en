@@ -1,4 +1,6 @@
-# (''adverb'') At or on the current [[day]] or [[date]].
+# (''noun'') The current day or date: "Today is [[Tuesday]]."
+# (''adverb'') On the current [[day]] or [[date]]: "I want this done today."
+# (''adverb'') In the current era; nowadays: "In the 1500s, people had to do things by hand, but today we have electric can openers."
 
 ===Translations===
 *de: [[heute]]
@@ -8,8 +10,6 @@
 *nl: [[vandaag]]
 *pt: [[hoje]]
 *sv: [[idag]]
-
-# (''adverb'') Nowadays.
 
 ===Translations===
 *de: [[heutzutage]]
