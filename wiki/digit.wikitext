@@ -17,3 +17,4 @@
 ===Translations===
 *[[Dutch]]: [[cijfer]] (1, 2)
 *[[German]]: [[Ziffer]] (1, 2)
+*[[Polish]]: [[cyfra]] (1, 2) [[palec]] (3)
