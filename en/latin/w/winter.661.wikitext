@@ -1,5 +1,5 @@
 ===Meanings===
-'''nl:, en:''' Traditionally the fourth of the four [[season]]s, normally from [[December]] 21 to [[March]] 20.
+'''en, nl:''' Traditionally the fourth of the four [[season]]s, normally from [[December]] 21 to [[March]] 20.
 
-===Translantions===
+===Translations===
 *fr: [[hiver]]
