@@ -2,5 +2,5 @@
 
 === Trandukoj ===
 
-*[[Angla]]: translation
+*[[Angla]]: [[translation]]
 *[[Hispana]]: traducción
