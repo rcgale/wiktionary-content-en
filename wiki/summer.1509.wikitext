@@ -4,8 +4,10 @@
 ===Translations===
 *es: [[verano]]
 *eu: [[uda]]
+*he: [[קיץ]]
 *fr: [[été]]
 *mi: [[raumati]]
 *nl: [[zomer]]
 *pt: [[verão]]
 *sq: [[verë]]
+*yi: [[זומער]]
