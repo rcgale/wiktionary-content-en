@@ -18,8 +18,12 @@
 #Object, usually of glass, that focuses or defocuses the light that passes through it; a [[lens]]
 ====Translations====
 *[[Dutch]]: [[lens]] 
+*[[Hebrew]]: [[עדשה]]
+*[[Yiddish]]: [[לינז]] (also [[אָפטיש גלאָז]])
 ==Spanish==
 ===Noun===
 #Object, usually of glass, that focuses or defocuses the light that passes through it; a [[lens]]
 ====Translations====
 *[[Dutch]]: [[lens]]
+*[[Hebrew]]: [[עדשה]]
+*[[Yiddish]]: [[לינז]] (also [[אָפטיש גלאָז]])
