@@ -1,10 +1,26 @@
-accessory, <i>[[Noun]]</i>, ''attachment''. 
+===Etymology===
+Latin ''accessorius''. See [[Access]], and cf. [[Accessary]]
+===Pronunciation===
+:'''Note:''' Ash accents the [[antepenult]]; and this is not only more regular, but [[preferable]], on account of [[easiness]] of pronunciation. Most [[orho&euml;pists]] place the accent on the ''first'' syllable.
+===Adjective===
+#[[Accompanying]] as a subordinate; [[aiding]] in a secondary way; additional; connected as an [[incident]] or subordinate to a principal; [[contributing]] or [[contributory]]; said of persons and things, and, when of persons, usually in a bad sense; as, he was ''accessory'' to the riot; ''accessory'' sounds in music.
+====Synonyms====
+*[[Accompanying]]; contributory; auxiliary; [[subsidiary]]; [[subservient]]; additional; [[acceding]].
+===Noun===
+Plural: Accessories
+#That which belongs to something else deemed the principal; something additional and subordinate, an attachment
+#:'''Quotations'''
+#:*The aspect and ''accessories'' of a den of banditti. - [[Carlyle]]
+#''(Law):'' Same as the noun, [[Accessary]]
+#''(Fine Arts):'' Anything that enters into a work of art without being [[indispensably]] necessary, as mere ornamental parts. - [[Elmes]]
 
-<HR> <P> <H3>Translations</H3>
-<BR>• [[French]]: [[Attachement]]
-<BR>• [[German]]: [[Zubehör]]
-<BR>• [[Interlingua]]: [[Accessorio]]
-<BR>• [[Italian]]: [[Collegamento]]
-<BR>• [[Portuguese]]: [[Acessório]]
-<BR>• [[Spanish]]: [[Accesorio]]
-<BR>
+====Synonyms====
+*[[Abettor]]; [[accomplice]]; ally; [[coadjutor]]. See [[Abettor]].
+
+====Translations====
+*[[French]]: [[Attachement]]
+*[[German]]: [[Zubehör]]
+*[[Interlingua]]: [[Accessorio]]
+*[[Italian]]: [[Collegamento]]
+*[[Portuguese]]: [[Acessório]]
+*[[Spanish]]: [[Accesorio]]
