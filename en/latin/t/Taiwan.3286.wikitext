@@ -13,6 +13,7 @@
 #:*[[Greek]]: [[Ταϊβάν]]
 #:*[[Interlingua]]: Taiwan
 #:*[[Italian]]: Taiwan
+#:*[[Korean]]: [[대만]] [臺灣] (daeman)
 #:*[[Polish]]: [[Tajwan]]
 #:*[[Portuguese]]: Taiwan
 #:*[[Russian]]: [[Тайвань]]
