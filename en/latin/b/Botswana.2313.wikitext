@@ -5,7 +5,7 @@
 # Country in Southern Africa. Official name: Republic of Botswana.
 #:'''Translations'''
 #:*[[Chinese]]: [[博茨瓦纳]]
-#:*[[Dannish]]: Botswana
+#:*[[Danish]]: Botswana
 #:*[[Dutch]]: Botswana
 #:*[[Esperanto]]: [[Bocvano]]
 #:*[[Finnish]]: Botswana
