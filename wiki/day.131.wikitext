@@ -6,5 +6,6 @@
 *de: [[Tag]]
 *es: día (remarque: Wednesday and Saturday take an accent in Spanish)
 *fr: [[jour]]
+*he: [[יום]]
 *nl: [[dag]]
 *pl: [[dzień]]
