@@ -4,3 +4,4 @@ Any set of [[parallel]] [[bar]]s or concentric [[circle]]s, varying in width, sp
 
 '''translations'''
 *[[Dutch]]: [[streepjescode]]
+*[[Finnish]]: [[viivakoodi]]
