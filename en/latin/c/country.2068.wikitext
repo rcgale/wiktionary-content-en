@@ -2,6 +2,6 @@
 
 A nation state, political entity asserting ultimate authority over a large geographical area.
 
-===[adjective]===
+===[[adjective]]===
 
-From the [countryside], or connected with it. Rural.
+From the [[countryside]], or connected with it. Rural.
