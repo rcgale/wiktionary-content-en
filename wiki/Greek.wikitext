@@ -1,10 +1,10 @@
 ===[[Noun]]===
 #Inhabitant of [[Greece]], person from Greek descent
 #:'''[[translation]]s'''
-#:*[[Dutch]]: [[Griek]]
+#:*[[Dutch]]: [[Griek]] (masc.), [[Griekse]] (fem.)
 #:*[[Esperanto]]: [[Greko]]
-#:*[[Polish]]: male: [[Grek]], female: [[Greczynka]]
-#[[w:IndoEuropean|Indo-European]] language, primarily spoken in Greece
+#:*[[Polish]]: [[Grek]] (masc.), [[Greczynka]] (fem.)
+#[[Indo-European]] language, primarily spoken in Greece (Wikipedia: [[w:Greek language|Greek]])
 #:'''translations'''
 #:*[[Dutch]]: [[Grieks]]
 #:*[[Esperanto]]: [[Greka]] ([[lingvo]])
