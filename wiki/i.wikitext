@@ -2,4 +2,8 @@
 # The [[Roman numeral]] representing the number [[one]].
 
 ==Translations==
-Lojban: [[pami]]
+*de: ich
+*fr: je
+*fy: ik
+*Lojban: [[pami]]
+*nl: ik
