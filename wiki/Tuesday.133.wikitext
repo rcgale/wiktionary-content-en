@@ -16,6 +16,8 @@
 *he: [[יום שלישי]] (yom shlee-SHEE)
 *hr: [[Utorak]]
 *hu: [[kedd]]
+*[[Japanese]]: [[火曜日]] (かようび;kayoubi)
+*[[Korean]]: [[화요일]] (火曜日;hwayoil)
 *mi: [[türei]]
 *nl: [[dinsdag]]
 *pl: [[wtorek]]
