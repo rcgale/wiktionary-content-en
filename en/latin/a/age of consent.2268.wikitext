@@ -1,0 +1,3 @@
+The age at which a [[person]] is [[legally]] considered to be mature enough to engage willingly in [[sexual intercourse]]. 
+
+See also [[statutory rape]]
