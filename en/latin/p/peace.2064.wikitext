@@ -9,6 +9,7 @@ Middle English, from Old French ''pais'', from Latin ''pax, pac-'' peace.  See a
 *[[French]] : [[paix]]
 *[[Frisian]] : [[frede]]
 *[[German]] : [[Frieden]]
+*[[Hebrew]] : [[שלום]]
 *[[Korean]] : [[평화]] [平和] (pyeonghwa)
 *[[Spanish]] : [[paz]]
 
