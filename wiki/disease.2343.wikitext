@@ -1,0 +1,8 @@
+==[[Noun]]==
+
+#Abnormal condition of the body or mind that causes discomfort or dysfunction. 
+
+===Translations===
+
+*French: [[maladie]]
+*Spanish: [[enfermedad]]
