@@ -22,5 +22,4 @@
 *Norwegian: katt
 *Polish: kot
 *Portuguese: gato
-*Swedish: katt
-*Lojban: mlat
+*Swedish: kat
