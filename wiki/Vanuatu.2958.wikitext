@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Oceania. Official name: Republic of Vanuatu.
+#:'''Translations'''
+#:*[[Danish]]: Vanuatu
+#:*[[Dutch]]: Vanuatu
+#:*[[Esperanto]]: [[Vanuatuo]]
+#:*[[Finnish]]: Vanuatu
+#:*[[French]]: Vanuatu
+#:*[[German]]: Vanuatu
+#:*[[Greek]]: [[Βανουάτου]]
+#:*[[Interlingua]]: Vanuatu
+#:*[[Italian]]: Vanuatu
+#:*[[Polish]]: Vanuatu
+#:*[[Portuguese]]: Vanuatu
+#:*[[Russian]]: [[Вануату]]
+#:*[[Spanish]]: Vanuatu
+#:*[[Swedish]]: Vanuatu
+
+''See'': [[Countries of the world]]
