@@ -10,7 +10,7 @@ Z&#307;n using the ligature (unicode #307) instead of seperate letters)
 <tr><th>...tense<br>person...</th><th>Present <br>(onvoltooid tegenwoordige tijd)</th><th>Past <br>(onvoltooid verleden tijd)</th><th>Past participle<br> (voltooid deelwoord)</th></tr>
 <tr><th colspan=4>singular</th></tr>
 <tr><th>[[Ik]]</th><td>ben</td><td>was</td><td>geweest</td></tr>
-<tr><th>[[Jij]] / [[U]]</th><td>bent</td><td>was</td><td>id.</td></tr>
+<tr><th>[[Jij]] / [[U]]</th><td>bent (</td><td>was</td><td>id.</td></tr>
 <tr><th>[[Hij]] / [[zij]] / [[Men]]</th><td>is</td><td>was</td><td>id.</td></tr>
 <tr><th colspan=4>plural</th></tr>
 <tr><th>[[Wij]]</th><td>zijn</td><td>waren</td><td>id.</td></tr>
