@@ -1,0 +1,5 @@
+*
+:Examples : ''War jitters''
+==Translations==
+
+*French : crainte
