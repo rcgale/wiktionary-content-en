@@ -4,6 +4,7 @@
 
 # Former name of [[Myanmar]] - country in Southeast Asia.
 #:'''Translations'''
+#:*[[Dutch]]: [[Birma]]
 #:*[[Esperanto]]: [[Birmo]]
 #:*[[French]]: [[Birmanie]]
 #:*[[Interlingua]]: [[Birmania]]
