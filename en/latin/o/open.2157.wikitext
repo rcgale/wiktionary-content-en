@@ -4,9 +4,9 @@
 ===Antonyms===
 *[[Closed]]
 
-===Translation===
+===Translations===
 
-*Dutch: [[open]]
+*Dutch: open (on this page)
 *French: [[ouvert]]
 *Frisian: [[iepen]]
 *Spanish: [[abierto]]
