@@ -32,6 +32,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 
 == Proverbs / Idioms ==
 *[[rain cats and dogs]]
+*[[gone to teh dogs]]
 
 == Further reading ==
 *[[en:Dog|Wikipedia article]]
