@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Oceania. Official name: Republic of Nauru.
+#:'''Translations'''
+#:*[[Chinese]]: [[瑙鲁]]
+#:*[[Danish]]: Nauru
+#:*[[Dutch]]: Nauru
+#:*[[Esperanto]]: [[Nauro]]
+#:*[[Finnish]]: Nauru
+#:*[[French]]: Nauru
+#:*[[German]]: Nauru
+#:*[[Greek]]: [[Ναουρού]]
+#:*[[Interlingua]]: Nauru
+#:*[[Italian]]: Nauru
+#:*[[Polish]]: Nauru
+#:*[[Portuguese]]: Nauru
+#:*[[Russian]]: [[Науру]]
+#:*[[Spanish]]: Nauru
+#:*[[Swedish]]: Nauru
+
+''See'': [[Countries of the world]]
