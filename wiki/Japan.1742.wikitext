@@ -8,6 +8,7 @@
 #:*[[German]]: Japan
 #:*[[Japanese]]: [[日本]](Nippon or Nihon)
 #:*[[Korean]]: [[일본]] (ilbon)
+#:*[[Polish]]: [[Japonia]]
 #:*[[Spanish]]: [[Japón]]
 #:'''Related words'''
 #:*[[Japanese]] : related to Japan, inhabitant of Japan, an language of Japan
