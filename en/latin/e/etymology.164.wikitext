@@ -4,7 +4,7 @@
 
 ==Etymology==
 
-From French ''&eacute;tymologie'', which via Latin [[etymologia]] derives from Greek ''etumologia''. Originally ''looking for the truth in and through words''.
+From [[French]] ''&eacute;tymologie'', which via [[Latin]] [[etymologia]] derives from [[Greek]] ''etumologia''. Originally ''looking for the truth in and through words''.
 
 ==[[w:Quotation|Quotation]]s==
 
