@@ -1,4 +1,4 @@
-'''Raven'''
+/rā'v[e]n/
 
 #(n.) A large black [[bird]] (''Corvus corax''), similar to the [[crow]], but larger.
 #(a.) Of the color of the raven; jet black; as, raven curls; raven darkness.
