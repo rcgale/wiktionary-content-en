@@ -7,8 +7,8 @@ The [[cardinal numeral]] occurring after [[six]] and before [[eight]], represent
 Describing a set or group with seven components. ''There are seven days in a week.''
 
 
-'''Translations'''
-
+==Translations==
 *[[Dutch]]: [[zeven]]
 *[[French]] : [[sept]]
+*Lojban: [[ze]]
 *[[Spanish]] : [[siete]]
