@@ -1,0 +1,9 @@
+Accretion, <i>[[Noun]]</i>, ''increase, augmentation''. 
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Augmentation]]
+<BR>• [[German]]: [[Zunahme]]
+<BR>• [[Interlingua]]: [[Accrescimento]], [[Augmento]]
+<BR>• [[Italian]]: [[Accrescimento]]
+<BR>• [[Portuguese]]: [[]]
+<BR>• [[Spanish]]: [[Aumento]], [[Crecimiento]]
+<BR>
