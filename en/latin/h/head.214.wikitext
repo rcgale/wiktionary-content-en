@@ -1,0 +1,17 @@
+==Pronounciation==
+
+==Meanings==
+
+[[Noun]]
+
+# The part of the [[body]] of living [[organism]] which contains the [[brain]], [[mouth]], [[ear|ears]], [[mouth]], and [[nose]].
+
+==Examples of Use==
+
+# The part of a [[doll], [[model]], or other [[representation]] of an organism which [[represent|represents]] the head
+
+==Example of Use==
+* From ''The Marvelous Land of Oz'', L. Frank Baum:
+*: ...when [[all]] was [[ready]] Tip put on the [[pumpkin]] head, [[press|pressing]] it well down onto the [[neck]], and found that it [[fit|fitted]] very well. [http://www.literature.org/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-01.html]
+
+# [[Nautical terminology|Nautical]] The [[toilet]] or [[restroom]] aboard a [[ship]].
