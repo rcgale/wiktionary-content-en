@@ -1,0 +1,1 @@
+(noun) the principle that government power ought to reside at the lowest feasible level (i.e. at the local or regional level, instead of the national or supranational level, unless the later presents clear advantages)
