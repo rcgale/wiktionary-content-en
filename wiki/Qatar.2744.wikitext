@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Middle East. Official name: State of Qatar.
+#:'''Translations'''
+#:*[[Chinese]]: [[卡塔尔]]
+#:*[[Danish]]: Qatar
+#:*[[Dutch]]: Qatar
+#:*[[Esperanto]]: [[Kataro]]
+#:*[[Finnish]]: Qatar
+#:*[[French]]: Qatar
+#:*[[German]]: [[Katar]]
+#:*[[Greek]]: [[Κατάρ]]
+#:*[[Interlingua]]: Qatar
+#:*[[Italian]]: Qatar
+#:*[[Polish]]: [[Katar]]
+#:*[[Portuguese]]: [[Catar]]
+#:*[[Russian]]: [[Катар]]
+#:*[[Spanish]]: Qatar
+#:*[[Swedish]]: Qatar
+
+''See'': [[Countries of the world]]
