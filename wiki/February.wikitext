@@ -15,3 +15,4 @@ From Latin [[februarius]], derived from [[februare]] ''reinigen'', because it wa
 *nl: [[februari]]
 *pl: [[luty]]
 *sq: [[shkurt]]
+*Swedish: [[februari]]
