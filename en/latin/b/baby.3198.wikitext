@@ -7,6 +7,8 @@
 *[[Finnish]]: [[vauva]]
 *[[French]]: [[bébé]]
 *[[Interlingua]]: baby, [[bebe]]
+*[[Japanese]]: [[赤ちゃん]] (赤ちゃん;akachan)
+*[[Korean]]: [[아기]] (agi)
 *[[Spanish]]: [[bebé]]
 *[[Volapük]]: [[cilil]],[[sügäb]]
 
