@@ -1,4 +1,16 @@
-[Van] /van/ (Dutch)
+[Van] /van/
+
+# A form of vehicle that...
+
+=== Examples ===
+
+''The van sped down the road''
+
+=== Translations ===
+
+----
+==Dutch==
+[Van] /van/ 
 
 # ''prepostition'' expressing possession
 
@@ -16,13 +28,3 @@
 * yi: [[פון]]
 
 ----
-
-[Van] /van/ (English)
-
-# A form of vehicle that...
-
-=== Examples ===
-
-''The van sped down the road''
-
-=== Translations ===
