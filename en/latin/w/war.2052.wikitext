@@ -4,7 +4,10 @@
 
 ===Translations===
 
-*[French]] : [[guerre]]
+*[[Dutch]] : [[oorlog]]
+*[[French]] : [[guerre]]
+*[[Frisian]] : [[oarloch]], [[kriich]]
+*[[German]] : [[Krieg]]
 *[[Spanish]] : [[guerra]]
 
 ===Antonyms===
