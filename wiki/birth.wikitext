@@ -1,0 +1,6 @@
+[[noun]]
+1. The process of childbearing. 2. A beginning or start; a point of origin. 3. The circumstances of one's background, ancestry, or upbringing ''of [[noble]] birth.
+
+[[verb]] ''dialect''
+
+To bear children or to give birth.
