@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Unincorporated territory of the [[United States]]; placed in Oceania. Official name: Territory of Guam.
+#:'''Translations'''
+#:*[[Danish]]: Guam
+#:*[[Dutch]]: Guam
+#:*[[Esperanto]]: [[Gvamo]]
+#:*[[Finnish]]: Guam
+#:*[[French]]: Guam
+#:*[[German]]: Guam
+#:*[[Greek]]: [[Γκουάμ]]
+#:*[[Interlingua]]: Guam
+#:*[[Italian]]: Guam
+#:*[[Polish]]: Guam
+#:*[[Portuguese]]: [[Guame]]
+#:*[[Russian]]: [[Гуам]]
+#:*[[Spanish]]: Guam
+#:*[[Swedish]]: Guam
+
+''See'': [[Countries of the world]]
