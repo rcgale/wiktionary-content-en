@@ -8,7 +8,7 @@
 *da: [[ord]]
 *de: [[Wort]]
 *eo: [[vorto]]
-*fr: [[mot]]
+*fr: [[mot]], [[parole]]
 *he: [[מילה]]
 *nl: [[woord]]
 *sv: [[ord]]
