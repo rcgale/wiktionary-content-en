@@ -1,0 +1,5 @@
+def-i-ni-tion:  (de-f&-'ni-sh&n)  noun,  [etymology: middle english diffinicioun, from middle french definition, from latin definition-, definitio, from definire]
+1 : an act of determining
+2 a : a statement expressing the essential nature of something b : a statement of the meaning of a word or word group or a sign or symbol <dictionary definitions> c : a product of defining
+3 : the action or process of defining
+4 a : the action or the power of describing, explaining, or making definite and clear <the definition of a telescope> <her comic genius is beyond definition> b (1) : clarity of visual presentation : distinctness of outline or detail <improve the definition of an image> (2) : clarity especially of musical sound in reproduction c : sharp demarcation of outlines or limits <a jacket with distinct waist definition>
