@@ -22,6 +22,7 @@
 *es: minuto (1,2)
 *fr: minute (1,2,3)
 *nl: minuut (1,2); nota (3)
+*sv: minut (1); not (2,3)
 
 ''adjective''
 *nl: minuscuul, onbeduidend, nietig
