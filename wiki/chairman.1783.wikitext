@@ -1,3 +1,4 @@
 '''Translations'''
 
-* French : [[secrétaire général]] (for a political party)
+*Finnish: [[puheenjohtaja]]
+*French: [[secrétaire général]] (for a political party)
