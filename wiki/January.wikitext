@@ -1,6 +1,6 @@
 [Ja-nu-a-ry] /jăn'[ooˉ]-ĕr'ē/
 
-#January is the first [[month]] in the Gregorian [[calendar]]. It has 31 days.
+#January is the first [[month]] in the Gregorian [[calendar]]. It has 31 [[day]]s.
 
 ==Etymology==
 From Latin [[Ianuarius]], named after the god Ianus. Re-latinized from old French ''genever''.
