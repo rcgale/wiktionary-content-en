@@ -1,15 +1,20 @@
-===Meanings===
-[[noun]]
+===[[Noun]]===
 # each of the four divisions of a [[year]]: [[spring]], [[summer]], [[autumn]] and [[winter]].
+#:'''Translations'''
+#:* [[Dutch]]: [[seizoen]]
+#:* [[French]]: [[saison]]
+#:* [[Frisian]]: [[jiertiid]]
+#:* [[German]]: [[Jahreszeit]]
+#:* [[Hebrew]]: [[עונה]] (oh-NAH)
+#:* [[Portuguese]]: [[estação]]
+#:* [[Spanish]]: [[estación]]
+#:* [[Yiddish]]: [[צײַט פון יאָר]] (tzeit foon yahr)
 
-[[verb]]
+===[[Verb]]===
 # [[flavour]] [[food]] with [[spice|spices]], [[herb|herbs]] or [[salt]].
-
-===Translations===
-* [[Dutch]]: [[seizoen]] (noun 1); [[kruiden]] (verb 1)
-* [[German]]: [[Jahreszeit]] (noun 1); [[würzen]] (verb 1)
-* [[Hebrew]]: [[עונה]] (oh-NAH; noun 1);  [[תיבל]] (tee-BEL; verb 1)
-* [[French]]: [[saison]] (noun 1)
-* [[Portuguese]]: [[estação]] (noun 1)
-* [[Spanish]]: [[estación]] (noun 1)
-* [[Yiddish]]: [[צײַט פון יאָר]] (tzeit foon yahr; noun 1); [[צוריכטן]] (tzu-RIKH-ten; verb)
+#:'''Translations'''
+#:* [[Dutch]]: [[kruiden]]
+#:* [[German]]: [[würzen]]
+#:* [[Hebrew]]: [[תיבל]] (tee-BEL)
+#:* [[French]]: [[épicer]]
+#:* [[Yiddish]]: [[צוריכטן]] (tzu-RIKH-ten)
