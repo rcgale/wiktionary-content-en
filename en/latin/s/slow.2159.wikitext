@@ -11,7 +11,7 @@
 *French: [[lent]]
 *Hungarian: [[lassú]]
 *German: [[langsam]]
-*Hebrew: [[???]]
+*Hebrew: [[לאט]]
 *Spanish: [[lento]]
 
 ===Derivative words===
