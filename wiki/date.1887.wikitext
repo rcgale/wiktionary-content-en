@@ -18,4 +18,4 @@
 ===[[verb]]===
 #To take (someone) on a series of dates
 #:'''Translations'''
-#:* [[German]]:[[ausgehen]],[[ausführen]]
+#:* [[German]]:[[ausgehen]], [[ausführen]]
