@@ -2,9 +2,9 @@
 
 ===Synonyms===
 
-*[[BCE]] : it is actualy the abbreviation
+*[[BCE]]: it is actualy the abbreviation
 
 ===Translations===
-
-*French : [[Banque centrale européenne]] (''note'': only capital letter to ''Bank''), BCE 
-*Spanish : [[Banco Central Europeo]], BCE
+*Dutch: [[Europese Centrale Bank]], ECB
+*French: [[Banque centrale européenne]] (''note'': only capital letter to ''Bank''), BCE 
+*Spanish: [[Banco Central Europeo]], BCE
