@@ -1,0 +1,5 @@
+''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Acaulose]] for the new Wiktionary definition of this term.''
+
+{ '''Acaulose''', '''Acaulous''', } ''<code>[[adjective (part of speech)|adjective]]</code>'' [Gr. &?;; 'a priv. + &?; stalk or L. ''caulis'' stalk. See [[Cole]].] ''([[Bot (subject)|Bot]]).''
+
+Same as [[Acaulescent]].
