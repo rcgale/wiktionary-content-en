@@ -4,6 +4,11 @@
 
 # A [[time]] period of 60 [[second]]s; also one 60th of an [[hour]].
 # One 60th of a [[degree]].
+# A (usually formal) annotation of (''especially'') a meeting, more commonly found in the plural form as e.g. "The minutes of a meeting".
+
+''verb:''
+
+# To document, (''especially'') a meeting. Example: "I'll minute this evening's meeting". The product of minuting is the plural noun form
 
 ''adjective:''
 
