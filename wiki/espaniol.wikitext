@@ -12,14 +12,14 @@
 #:'''Translations'''
 #:*[[Dutch]]: [[Spaans]]
 #:*[[English]]: [[Spanish]]
-#:*[[Esperanto]]: [[hispana]]
+#:*[[Esperanto]]: [[hispana]] (lingvo)
 #:*[[Portuguese]]: [[espanhol]]
 #:*[[Spanish]]: [[español]]
 #Individual born in [[w:Spain|Spain]].
 #:'''Translations'''
 #:*[[Dutch]]: [[Spanjaard]]
 #:*[[English]]: [[Spaniard]]
-#:*[[Esperanto]]: [[hispana]]
+#:*[[Esperanto]]: [[hispano]]
 #:*[[Portuguese]]: [[espanhol]]
 #:*[[Spanish]]: [[español]]
 #Race of dogs of Spanish origin. Synonym: [[can espaniol]].
