@@ -1,0 +1,6 @@
+===Adverb===
+#Flaring
+
+===Quotations===
+*'''1886''' - Mary Murfree, ''In the Clouds''.
+*:The flaming base of the opposite mountain, all luridly aflare in the windy dusk.
