@@ -1,0 +1,20 @@
+==English==
+
+'''proper noun'''
+
+# Two distinct dependencies of Norway. Official name: Svalbard and Jan Mayen Islands.
+#:'''Translations'''
+#:*[[Danish]]: [[Svalbard og Jan Mayen]]
+#:*[[Dutch]]: [[Svalbard en Jan Mayen]]
+#:*[[Esperanto]]: [[Svalbardo kaj Jan Mayen-insulo]], [[Jan-majen-insulo]]
+#:*[[Finnish]]: [[Svalbard ja Jan Mayen]]
+#:*[[French]]: [[Iles Svalbard et Jan Mayen]]
+#:*[[German]]: [[Svalbard und Jan Mayen]]
+#:*[[Greek]]: [[Νήσοι Σφάλμπαρ και Γιαν Μαϋέν]], [[Νήσοι Σβάλμπαρντ και Γιαν Μαγιέν]]
+#:*[[Italian]]: [[Svalbard e Jan Mayen]]
+#:*[[Portuguese]]: [[Svalbard e Jan Mayen]]
+#:*[[Russian]]: [[Свалбард и Ян Мейен острова]]
+#:*[[Spanish]]: [[Svalbard y Jan Mayen]]
+#:*[[Swedish]]: [[Svalbard och Jan Mayen]]
+
+''See'': [[Countries of the world]]
