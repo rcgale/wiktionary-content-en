@@ -1,3 +1,11 @@
-(derivational suffix):
+===Etymology===
+Latin via Old French
 
-1. used to convert an adjective into a noun; the property corresponding to that adjective, for example, prolix -> prolixity (the property of being prolix), triangular -> triangularity (the property of being triangular). However, for some adjectives a different suffix, -ness, must be used: e.g. redness, not redity.
+===Suffix===
+#Used in forming a noun to represent the property corresponding to an adjective, for example, prolix -> prolixity (the property of being prolix), triangular -> triangularity (the property of being triangular). 
+
+===Usage notes===
+#Not all adjectives are converted to nouns by using this suffix, thus compare with
+#*[[-ness]], as in [[redness]], not redity
+#*[[-ism]], as in [[agnosticism]]
+#*[[-ion]], as in [[abstraction]]
