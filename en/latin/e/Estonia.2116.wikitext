@@ -5,8 +5,8 @@
 # One of the [[Baltic]] countries.
 #:'''Translations'''
 #:*[[Dutch]]: [[Estland]]
-#:*[[Estonian]]: Eesti
-#:*[[Finnish]]: Viro
+#:*[[Estonian]]: [[Eesti]]
+#:*[[Finnish]]: [[Viro]]
 #:*[[French]]: [[Estonie]]
 #:*[[German]]: [[Estland]]
 #:*[[Hungarian]]: Észtország
