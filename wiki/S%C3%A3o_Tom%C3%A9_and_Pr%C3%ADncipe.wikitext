@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Democratic Republic of São Tomé and Príncipe.
+#:'''Translations'''
+#:*[[Danish]]: [[São Tomé og Príncipe]]
+#:*[[Dutch]]: [[Sao Tomé en Principe]]
+#:*[[Esperanto]]: [[Saotomeo]], [[Sao-Tomeo kaj Principeo]]
+#:*[[Finnish]]: [[São Tomé ja Príncipe]]
+#:*[[French]]: [[Sao Tomé-et-Principe]], [[São Tomé e Príncipe]]
+#:*[[German]]: [[São Tomé und Príncipe]]
+#:*[[Greek]]: [[Σάο Τομέ και Πρίνσιπε]], [[Σαν Τομέ και Πρίντσιπε]]
+#:*[[Interlingua]]: [[Sancte Tomey Principe]]
+#:*[[Italian]]: [[São Tomé e Príncipe]]
+#:*[[Polish]]: [[Wyspy Świętego Tomasza i Książęca]]
+#:*[[Portuguese]]: [[São Tomé e Príncipe]]
+#:*[[Russian]]: [[Сан-Томе и Принсипи]]
+#:*[[Spanish]]: [[Santo Tomé y Príncipe]]
+#:*[[Swedish]]: [[São Tomé och Príncipe]]
+
+''See'': [[Countries of the world]]
