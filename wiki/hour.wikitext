@@ -4,6 +4,6 @@
 
 *es: hora
 *fr: heure
-*he: שעה
+*he: שעה (shah-AH)
 *nl: uur
-*yi: שעה
+*yi: שעה (shah)
