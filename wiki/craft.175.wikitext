@@ -1,0 +1,11 @@
+Craft \Craft\
+
+''[[noun]]''
+# the skilled practice of a practical occupation; "he learned his trade as an apprentice" [''syn:'' [[trade]]]
+# a vehicle designed for navigation in or on water or air or through outer space
+# people who perform a particular kind of skilled work; "he represented the craft of brewers"; "as they say in the trade" [''syn:'' [[trade]]]
+# skill in an occupation or trade [syn: craftsmanship, workmanship]
+# shrewdness as demonstrated by being skilled in deception [''syn:'' [[craftiness]], [[cunning]], [[foxiness]], [[guile]], [[slyness]], [[wiliness]]]
+
+''[[verb]]''
+# make by hand and with much skill
