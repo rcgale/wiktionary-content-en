@@ -5,4 +5,6 @@
 * [[dog]] refers to someone who is morally reprehensible
 
 ===Translations===
+*es: [[connotación]]
+*fr: [[connotation]]
 *nl: [[bijbetekenis]], [[bijklank]], [[associatie]], [[gevoelswaarde]]
