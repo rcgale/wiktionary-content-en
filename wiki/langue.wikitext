@@ -1,0 +1,1 @@
+Franch for [[tongue]] or [[language]].
