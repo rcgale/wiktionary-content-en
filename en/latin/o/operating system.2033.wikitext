@@ -10,6 +10,83 @@
 *[[OS]]
 the base software needed to operate computer systems, other software and itself
 
+In [[computing]], an '''operating system''' ('''OS''') is the [[system software]] responsible for the direct control and management of [[computer hardware|hardware]] and basic system operations, as well as running [[application software]] such as [[word processing]] programs and [[Web browsers]].
+
+In general, the operating system is the first layer of software loaded into computer memory when it starts up. As the first software layer, all other software that gets loaded after it, depends on this software to provide them with various common core services. These common core services include, but are not limited to: disk access, [[memory management]], [[task scheduling]], and [[user interface|user interfacing]]. Since these basic common services are assumed to be provided by the OS, there is no need to re-implement those same functions over and over again in every other piece of software that you may use. The portion of code that performs these core services is called the "[[Kernel (computer science)|kernel]]" of the operating system. Operating system kernels evolved from libraries that provided the core services into unending programs that control system resources because of the early needs of accounting for computer usage and then protecting those records.
+
+==Introduction==
+Colloquially, the term is most often used to mean all the software which "comes with" a [[computer]] system before any [[computer software|applications]] are installed.  
+
+The operating system ensures that other applications are able to use memory, input and output devices and have access to the [[file system]]. If multiple applications are running, the operating system schedules these such that all processes have sufficient processor time where possible and do not interfere with each other.
+
+==Common core services==
+As operating systems evolve, ever more services are expected to be common core. These days, an OS may be required to provide network and Internet connectivity. They may be required to protect the computer's other software from damage by malicious programs, such as viruses. The list of common core services is ever expanding.
+
+Programs communicate with each other through [[Application Programming Interfaces]], or [[Application Programming Interface|API]]'s. This is especially true between application programs and the OS. Just like humans communicate with computers through the User Interfaces (UI's), programs communicate with each other through the API's. The OS's common core services are accessed by application programs through the OS's API's.
+
+==Today's operating systems==
+[[As of 2004]], the major operating systems in widespread use on general-purpose computers (including [[personal computer]]s) have consolidated into two families: the [[Microsoft Windows]] family and the [[Unix-like]] family. [[Mainframe]] computers and [[embedded system]]s use a variety of different operating systems, many with no direct connection to Windows or Unix.
+
+The ''[[Microsoft Windows]]'' family of operating systems originated as a graphical layer on top of the older [[MS-DOS]] environment for the [[IBM PC]]. Windows runs on 32- and 64-bit [[Intel]] and [[AMD]] computers, although earlier versions also ran on the [[DEC Alpha]] and [[PowerPC]] architectures. Today, Windows is the most popular desktop operating system, enjoying a near-[[monopoly]] of around 90% of the worldwide desktop [[market share]]. It is also widely used on low-end and mid-range servers, supporting applications such as [[Web server]]s and [[DBMS|database servers]].
+
+The ''[[Unix-like]]'' family is a more diverse group of operating systems, with several major sub-categories including [[System V]], [[BSD]], and [[Linux]]. The name "Unix" is a trademark of [[The Open Group]] which licenses it for use to any operating system that has been shown to conform to the definitions that they have cooperatively developed. The name is commonly used to refer to the large set of operating systems which resemble the original Unix. Unix systems run on a wide variety of machine architectures. Unix systems are used heavily as [[server]] systems in business, as well as [[workstation]]s in academic and engineering environments. [[Free software]] Unix variants, such as [[Linux]] and [[BSD]] are increasingly popular, and have made inroads on the desktop market as well. Apple's [[Mac OS X]], a BSD variant, has replaced Apple's earlier (non-Unix) Mac OS in a small but dedicated market, becoming one of the most popular Unix systems in the process.
+
+Mainframe operating systems, such as [[IBM]]'s [[z/OS]], and [[embedded computer|embedded]] operating systems such as [[eCos]], are usually unrelated to Unix and Windows.
+
+Older operating systems which are still used in niche markets include the Windows-like [[OS/2]] from IBM; [[VMS]] from [[Hewlett-Packard]] (formerly [[Digital Equipment Corporation|DEC]]); and [[Mac OS]], the non-Unix precursor to Apple's Mac OS X.
+
+Research and development of new kinds of operating systems is an active subfield of [[computer science]]. <!-- Some examples of research OSes should go here. -->
+
+=== Examples of operating systems ===
+* [[MS-DOS]]
+* [[Linux|Linux]]
+* [[Mac OS]]
+* [[Microsoft Windows|Windows]]
+* [[UNIX]]
+* [[List of operating systems|More operating systems]]
+
+== Classifications and terminology ==
+An operating system is conceptually broken into three sets of components: a user interface (which may consist of a  [[graphical user interface]] and/or a [[command line interpreter]] or "shell"), low-level system utilities, and a [[Kernel (computers)|kernel]]--which is the heart of the operating system.  As the name implies, the shell is an outer wrapper to the kernel, which in turn talks directly to the hardware.
+
+
+            Hardware <-> Kernel <-> Shell <-> Applications 
+
+In some operating systems the shell and the kernel are completely separate entities, allowing you to run varying combinations of shell and kernel (eg [[UNIX]]), in others their separation is only conceptual.
+
+Kernel design ideologies include those of the [[kernel_(computers)#Monolithic kernels|monolithic kernel]], [[kernel_(computers)#Microkernels|microkernel]], and  [[kernel_(computers)#Exokernels|exokernel]]. Traditional commercial systems such as [[UNIX]] and [[Microsoft Windows|Windows]] (including [[Windows NT]]), as well as the newer [[Linux]], use a [[monolithic]] approach, while the trend in more modern systems is to use a [[microkernel]] (such as in [[QNX]], [[BeOS]], [[Mac OS X]] etc).  The microkernel approach is also very popular among research OSes.  Many [[embedded system]]s use ad hoc exokernels.
+
+==Related articles==
+
+===General topics===
+* [[:Category:Operating systems|Operating systems category]]
+* [[History of operating systems]]
+* [[List of operating systems]]
+* [[Operating systems timeline]]
+*[[List of important publications in computer science#operating system| Important publications in operating systems]]
+*{{Dictionary}}
+
+===Other topics===
+* [[Hard disk drive partitioning]]
+* [[LiveCD]] OS ([[Gnoppix]] and [[Knoppix]] [[Linux]]).
+* [[monolithic kernel|monolithic]] [[kernel (computers)|kernel]] -- [[microkernel]] -- [[exokernel]] -- [[virtual machine]] -- [[system call]]
+* asymmetric and symmetric [[multiprocessing]] (SMP) -- [[clustering]] -- [[distributed computing]]
+* [[Operating system advocacy]]
+* [[real-time operating system]] -- [[time-share]] -- [[Computer multitasking|multitasking]] -- [[embedded system]] -- [[single-user]] -- [[multi-user]]
+* [[orthogonal persistence|orthogonally persistent]] -- capabilities versus [[access control list]]s
+* [[object-oriented operating system]]
+* [[OS-tan]] ([[Personification]] of operating systems)
+
+==External links==
+* [http://cliki.tunes.org TUNES wiki, contains reviews of operating systems]
+* [http://www.cbi.umn.edu/iterations/haigh.html Multicians.org] and the History of Operating Systems
+* [http://www.elook.org/computing/operating-system.htm Operating System] - explains what an operating system is and provides various examples
+* [http://mega-tokyo.com/osfaq2/ The "Write Your Own Operating System"] OS Developer FAQ
+* [http://myoldmac.net/webse-e.htm  Macintosh OS System 7 simulation online]
+
+[[Category:Computer terminology]]
+[[Category:software]]
+
+
 ====Translations====
 *Dutch: [[besturingssysteem]]
 *Finnish: [[käyttöjärjestelmä]]
