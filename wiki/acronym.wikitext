@@ -7,8 +7,8 @@
 #:*[[Dutch]]: [[acroniem]], [[letterwoord]]
 #:*[[French]]: [[acronyme]]
 #:*[[German]]: [[Akronym]]
-#:*[[Interlingua]]: [[acronymo]]
-#:*[[Portuguese]]: [[acrônimo]], [[acrograma]], [[sigla]], [[abreviatura]]
+#:*[[Interlingua]]: [[acronymo]], [[initial|initiales]]
+#:*[[Portuguese]]: [[acrônimo]], [[acrograma]], [[sigla]], [[abreviatura]], [[iniciais|inciial]]
 
 
 (see the [[By Topic]] page for a comprehensive list)
