@@ -1,5 +1,5 @@
 ===German===
-noun, ''masculin'' 
+noun, ''feminin'' 
 
 ====Pronunciation====
 
