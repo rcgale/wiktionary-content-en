@@ -1,6 +1,6 @@
-'''Numeral'''.
-
-[[Pronunciation]]:  /'num3@l/
+===[[Pronunciation]]===
+SAMPA  /'num3@l/
+IPA /'nju&#720;m&#601;r&#601;l/
 
 ===[[Count noun]]===
 
