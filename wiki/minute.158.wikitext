@@ -22,6 +22,7 @@
 *es: minuto (1,2)
 *fr: minute (1,2,3)
 *nl: minuut (1,2); notulen (plural) (3)
+*pl: minuta (1,2)
 *sv: minut (1); not (2,3)
 
 ''verb:''
@@ -29,3 +30,4 @@
 
 ''adjective''
 *nl: minuscuul, onbeduidend, nietig
+*pl: malutki
