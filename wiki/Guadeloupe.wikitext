@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Caribbean. Official name: Department of Guadeloupe.
+#:'''Translations'''
+#:*[[Danish]]: Guadeloupe
+#:*[[Dutch]]: Guadeloupe
+#:*[[Esperanto]]: [[Gvadelupo]]
+#:*[[Finnish]]: Guadeloupe
+#:*[[French]]: Guadeloupe
+#:*[[German]]: [[Guadeloupe]]
+#:*[[Greek]]: [[Γουαδελούπη]]
+#:*[[Italian]]: [[Guadalupa]]
+#:*[[Polish]]: [[Gwadelupa]]
+#:*[[Portuguese]]: [[Guadalupe]]
+#:*[[Russian]]: [[Гваделупа]]
+#:*[[Spanish]]: [[Guadalupe]]
+#:*[[Swedish]]: Guadeloupe
+
+''See'': [[Countries of the world]]
