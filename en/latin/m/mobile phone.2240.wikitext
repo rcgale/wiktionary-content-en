@@ -5,8 +5,10 @@
 *[[cellular mobile]] (''note'': word used in the United States)
 *[[wireless phone]]
 
-===Traduction===
+===Translation===
 
 *Dutch: [[mobiele telefoon]], [[GSM]], [[mobieltje]]
 *French: [[téléphone mobile]], [[téléphone cellulaire]], [[GSM]] (''note'': often used for mobile phones that are not technically GSM)
+*German: [[Handy]], [[Mobiltelefon]
+*Hebrew: [[פלפון]]
 *Spanish: [[teléfono móvil]]
