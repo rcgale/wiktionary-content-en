@@ -2,7 +2,7 @@
 
 (noun)
 
-#March is the 3rd [[month]] in the Gregorian [[calendar]]. It has 31 days.
+#March is the third [[month]] in the Gregorian [[calendar]]. It has 31 [[day]]s.
 #[[formal]], [[rhytmic]] [[walk]], especially from [[soldier]]s
 #[[boundary]], [[frontier]] (obsolete)
 
