@@ -1,15 +1,15 @@
 [Au-gust] SAMPA /'O:g@st/
 
+===[[Noun]]===
 #August is the eighth [[month]] in the Gregorian [[calendar]]. It has 31 [[day]]s.
-
-==Translations==
-*de: August (on this page)
-*es: [[agosto]]
-*eu: [[abuztu]]
-*fr: [[août]]
-*fy: [[augustus]]
-*mi: [[äkuhata]]
-*nl: [[augustus]]
-*pl: [[sierpień]]
-*sv: [[augusti]]
-*sq: [[gusht]]
+#:'''Translations'''
+#:*[[Albanian]]: [[gusht]]
+#:*[[Basque]]: [[abuztu]]
+#:*[[Dutch]]: [[augustus]]
+#:*[[French]]: [[août]]
+#:*[[Frisian]]: [[augustus]]
+#:*[[German]]: August (on this page)
+#:*[[Maori]]: [[äkuhata]]
+#:*[[Polish]]: [[sierpień]]
+#:*[[Spanish]]: [[agosto]]
+#:*[[Swedish]]: [[augusti]]
