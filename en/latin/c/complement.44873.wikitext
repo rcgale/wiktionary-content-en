@@ -23,9 +23,9 @@
 # {{logic}} An expression which is true when the other is false, and vice versa.
 # {{electronics}} A voltage level with the opposite logical sense to the given one.
 # {{mathematics}} The complement relative to some other base, being the number which, added to the given ''n''-digit number in base ''b'', results in either ''b''<sup>''n''</sup> or ''b''<sup>''n''<sup>-1.
-# {{cattag2|computing|mathematics}} The [[ones complement]] of a number.
+# {{cattag2|computing|mathematics}} The [[ones complement]] ([[logical complement]]) of a number.
 #: ''The complement of 0xAAAA is 0x5555.''
-# {{cattag2|computing|mathematics}} The [[twos complement]] of a number.
+# {{cattag2|computing|mathematics}} The [[twos complement]] ([[numeric complement]]) of a number.
 #: ''The complement of 0xAAAA is 0x5556.''
 # {{music}} An [[interval]] which, together with the given interval, makes an [[octave]].
 # The [[color]] which, when mixed with the given color, gives black (for mixing pigments) or white (for mixing light).
@@ -34,6 +34,8 @@
 ===Related Terms===
 *[[complementary]]
 *[[full complement]]
+*[[logical complement]]
+*[[numeric complement]]
 *[[ones complement]]
 *[[nines complement]]
 *[[tens complement]]
