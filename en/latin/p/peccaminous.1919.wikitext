@@ -1,0 +1,7 @@
+===Etymology===
+Latin ''peccare'' (to sin) from Indo-European root ''*pik-'' (to be angry)
+
+===Adjective===
+#sinful
+#:'''Quotations'''
+#:*a volume of peccaminous pornographical tendency entitled Sweets of Sin. - James Joyce, ''Ulysses''
