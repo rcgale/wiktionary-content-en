@@ -8,3 +8,7 @@
 *German: [[Netzwerk]]
 *Hebrew: [[רשת]]
 *Spanish: [[red]]
+
+===Related words===
+
+*[[Network Subsystem]]
