@@ -1,2 +1,2 @@
 ===Verb===
-#To convert an encrypted text into plain text.
+#To convert an [[encrypt]]ed text into [[plain]] text.
