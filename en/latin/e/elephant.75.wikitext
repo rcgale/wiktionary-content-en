@@ -5,4 +5,4 @@ Elephant \El"e*phant\
 # the symbol of the [[United States Republican Party]]; introduced in [[cartoon]]s by Thomas Nast in 1874
 
 ==Further Reading==
-[[en:elephant|Wikipedia article]]
+*[[en:elephant|Wikipedia article]]
