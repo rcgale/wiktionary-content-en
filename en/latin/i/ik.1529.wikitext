@@ -6,7 +6,7 @@
 
 ''personal pronoun'', ''first person singular'', referring to oneself. [[I]]
 
-Related pronouns: [[mijn]], [[m'n]] (''possesive'', mine); [[mij]], [[me]] ('''???''', me); [[wij]], [[we]] (''plural'', we).
+Related pronouns: [[mijn]], [[m'n]] (''possesive'', mine); [[mij]], [[me]] (''objective case'', me); [[wij]], [[we]] (''plural'', we).
 
 === Examples ===
 
