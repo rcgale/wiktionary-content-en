@@ -17,7 +17,9 @@
 *'''1570''' - Roger Ascham, ''The Scholemaster'' (1570).
 *:So, as the Grammer booke be euer in the Scholers hand, and also vsed of him, as a Dictionarie, for euerie present vse.
 
-
+==Derived words==
+;'''Dictionary''' ''([[noun]])'' 
+:[[Pictionary]], [[Fictionary]], [[Wiktionary]].
 
 ==Translations==
 ;'''Dictionary''' ''([[noun]])''
