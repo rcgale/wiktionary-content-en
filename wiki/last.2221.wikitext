@@ -1,5 +1,5 @@
 ==[[adjective]]==
-* relates to a [chronological] closest event in a series of events
+* relates to a [[chronological]] closest event in a series of events
 
 ===Translations===
 
