@@ -1,3 +1,3 @@
 [Can] /______/
 
-1)Asking am I able to. "Can I play football"
+1)Asking about the abilty that something can be done. "Can I play football"
