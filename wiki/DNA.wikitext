@@ -1,9 +1,9 @@
 ==English==
 ===abbreviation===
-#(''Biology'') '''D'''eoxyribo'''n'''ucleic '''a'''cid.
+#(''Biology'') '''D'''eoxyribo'''n'''ucleic '''a'''cid. See also [[w:Deoxyribo nucleic acid|Wikpedia article about Deoxyribo nucleic acid]]
 # Did Not Answer
 # Did Not Attend
-# Defense Nuclear Agency 
+# Defense Nuclear Agency See also: [[w:Defense Nuclear Agency|Wikipedia article about Defense Nuclear Agency]]
 
 ==French==
 #Dernière Nouvelles d'Alsace
