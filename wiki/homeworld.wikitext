@@ -1,0 +1,16 @@
+==Definition==
+;'''Homeworld''' ''([[noun]])'' 
+: The world on which a person originated.
+==Etymology==
+;'''Homeworld''' ''([[noun]])'' 
+:From english ''[[home]]'' and ''[[world]]''.
+==Quotations==
+;'''Homeworld''' ''([[noun]])'' 
+*'''1839''' - Henry Ellison, ''Madmoments'' (1839). Page 229.
+*:But Woman's heart within itself lives more,
+*:And in her Homeworld she can happy be,
+*:Loving and lov'd: from Nature's founts her Lore
+*:Instinctive flows, she drinks it fresh and free 
+==Synoyms==
+;'''Homeworld''' ''([[noun]])'' 
+:[[Home planet]]
