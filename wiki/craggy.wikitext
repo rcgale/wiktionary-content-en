@@ -1,3 +1,3 @@
 [[adjective]]
 
-Characterized by [[rugged, sharp]], or [[coarse]] features. ’’ Craggy rocks’’.
+Characterized by [[rugged]], [[sharp]], or [[coarse]] features. ’’ Craggy rocks’’.
