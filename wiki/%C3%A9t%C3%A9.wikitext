@@ -1,17 +1,19 @@
-French.
+==French==
+===Verb===
 # The past participle of [[être]], to [[be]]: been.
+===Noun===
 # [[Summer]]: opposed to [[hiver]].
 
-==Translations==
-*[[Albanian]]: [[verë]]
-*[[Basque]]: [[uda]]
-*[[Croatian]]: [[ljeto]]
-*[[Dutch]]: [[zomer]]
-*[[English]]: [[summer]]
-*[[German]]: [[Sommer]]
-*[[Hebrew]]: [[קיץ]]
-*[[Mäori]]: [[raumati]]
-*[[Polish]]: [[lato]]
-*[[Portuguese]]: [[verão]]
-*[[Spanish]]: [[verano]]
-*[[Yiddish]]: [[זומער]]
+:'''Translations'''
+:*[[Albanian]]: [[verë]]
+:*[[Basque]]: [[uda]]
+:*[[Croatian]]: [[ljeto]]
+:*[[Dutch]]: [[zomer]]
+:*[[English]]: [[summer]]
+:*[[German]]: [[Sommer]]
+:*[[Hebrew]]: [[קיץ]]
+:*[[Mäori]]: [[raumati]]
+:*[[Polish]]: [[lato]]
+:*[[Portuguese]]: [[verão]]
+:*[[Spanish]]: [[verano]]
+:*[[Yiddish]]: [[זומער]]
