@@ -1,0 +1,9 @@
+'''F''' .
+
+<ol>
+<li>F is the [[sixth]] letter of the English alphabet, and a [[nonvocal]] consonant. Its form and sound are from the Latin. The Latin [[borrowed]] the form from the Greek [[digamma]] &?;, which probably had the value of English ''w'' consonant. The form and value of Greek letter came from the [[Ph&oelig;nician]], the ultimate source being probably Egyptian. [[Etymologically]] ''f'' is most closely related to ''p'', ''k'', ''v'', and ''b''; as in E. ''f''ive, Gr. pe`nte; E. wol''f'', L. lu''p''us, Gr. ly`kos; E. ''f''ox, ''v''ixen ; ''f''[[ragile]], ''b''reak; ''f''ruit, ''b''rook, ''[[transitive verb (part of speech)|transitive verb]]''; E. ''b''ear, L. ''f''erre. See ''Guide to Pronunciation'', [[&sect;&sect]]; 178, 179, 188, 198, 230.
+
+<li> ''([[Mus (subject)|Mus]]).'' The name of the fourth tone of the model scale, or scale of C. F sharp (F [[&sharp]];) is a tone intermediate between F and G.
+
+'''F clef''', the bass clef. See under [[Clef]].
+</ol>
