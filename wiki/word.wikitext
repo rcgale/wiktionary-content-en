@@ -1,5 +1,5 @@
 (en): String of [[letter]]s, separated from other words by blank spaces.
 
-de: [[Wort]]
-fr: [[livre]] (1)
-nl: [[woord]]
+*de: [[Wort]]
+*fr: [[livre]] (1)
+*nl: [[woord]]
