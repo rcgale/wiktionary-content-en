@@ -1,0 +1,12 @@
+==[[Noun]]==
+
+#[[virus]] which has a genome consisting of [[RNA]]
+
+===Translations===
+
+*French: [[rétrovirus]]
+*Spanish : [[retrovirus]]
+
+==See also==
+
+*[[w:retrovirus]]
