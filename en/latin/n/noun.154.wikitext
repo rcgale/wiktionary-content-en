@@ -9,6 +9,7 @@
 #:*[[Frisian]]: [[haadwurd]]
 #:*[[Interlingua]]: [[substantivo]]
 #:*[[Portuguese]]: [[substantivo]]
+#:*[[Swedish]]: [[substantiv]]
 # a word that can serve as the subject or object of a [[verb]]
 #:'''Translations'''
 #:*[[Dutch]]: [[zelfstandig naamwoord]]
