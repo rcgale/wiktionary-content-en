@@ -3,6 +3,7 @@
 #:'''Translations'''
 #:*[[Dutch]]: [[taal]]
 #:*[[Esperanto]]: [[lingvo]]
-#:*[[German]]: [[Sprache]]
 #:*[[French]]: [[langue]]
 #:*[[Frisian]]: [[taal]]
+#:*[[German]]: [[Sprache]
+#:*[[Hebrew]]: [[שפה]]
