@@ -3,7 +3,8 @@
 #:'''Translations'''
 #:*[[Dutch]]: Israel
 #:*[[German]]: Israel
-#:*[[Hebrew]]: [[ישראל]] 
+#:*[[Hebrew]]: [[ישראל]]
+#:*[[Polish]]: [[Izrael]]
 
 ''see:'' [[Countries of the world]]
 
