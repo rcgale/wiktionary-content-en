@@ -5,9 +5,10 @@
 ==Translations==
 *de: [[November]]
 *es: [[noviembre]]
+*et: [[november]]
 *eu: [[azaro]]
 *fr: [[novembre]]
-*he: [[נובמבר]]
+*he: [[??????]]
 *mi: [[nöema]]
 *nl: [[november]]
 *pl: [[listopad]]
