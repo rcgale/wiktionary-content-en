@@ -4,4 +4,5 @@
 
 ==Translations==
 
+*de: [[Jahrtausend]]
 *fr: [[millénaire]]
