@@ -5,5 +5,10 @@
 # A copy of a data structure which shares any linked structures with the original
 #: ''If you modify that, you'll modify all the shallow copies of the header that points to it''
 
+=== Transitive verb ===
+
+# To make a deep copy of.
+#: ''The bug came from trying to shallow copy a mutable structure.''
+
 ====Antonym====
 *[[deep copy]]
