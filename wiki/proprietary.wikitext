@@ -1,5 +1,6 @@
 ===Adjective===
-#Relating to property or ownership
+#Relating to [[property]] or ownership
+
 === Translation ===
 
 *[[Esperanto]]: [[proprajxa]]
