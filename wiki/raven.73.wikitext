@@ -8,11 +8,11 @@ Ra-ven
 #[[Prey]]; [[plunder]]; food obtained by [[violence]].
 
 [[adjective]] '''(en)'''
-#Of the color of the raven; [[jet black]]; as, raven curls; raven darkness.
+#Of the color of the raven; [[jet]] black; as, raven [[curl]]s; raven [[darkness]].
 
 [[verb]] '''(en)'''
 #To [[obtain]] or [[seize]] by [[violence]].
-#To [[devour] with great [[eagerness]].
+#To [[devour]] with great [[eagerness]].
 #To [[prey]] with [[rapacity]]; to be [[greedy]]; to show [[rapacity]].
 
 SAMPA: rav@(n)
