@@ -9,18 +9,19 @@
 ===Translation===
 
 *Dutch: bank (on this page)
+*[[Esperanto]]: [[banko]]
 *French: [[banque]]
 *Frisian: bank (on this page)
 *German: Bank (on this page)
-*Spanish: Banco (on this page)
+*Spanish: Banco 
 
 ===Related words===
 
-*[[Bank of England]]
-*[[central bank]]
-*[[merchant bank]]
-*[[savings bank]]
-*[[investment bank]]
+*[[w:Bank of England|Bank of England]]
+*[[w:central bank|central bank]]
+*[[w:merchant bank|merchant bank]]
+*[[w:savings bank|savings bank]]
+*[[w:investment bank|investment bank]]
 ----
 ==[[Dutch]]==
 # a place where you can place money, and borrow (''see English definition above'')
