@@ -1,4 +1,4 @@
-See also [[w:surfboard]]
+See also [[w:surfboard|surfboard]]
 
 === [[Translation]]s ===
 
