@@ -2,7 +2,7 @@
 
 '''(fr)''': [[free]] (2) of charge
 
-'''(nl)''': [[cheap]], [[easy]] as in ''a cheap remark''
+'''(nl)''': [[gratuitous]]
 
 ==Etymology==
 
