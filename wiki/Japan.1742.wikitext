@@ -4,7 +4,10 @@
 
 '''Related words'''
 
-* Japanese : related to Japan, inhabitant of Japan, an language of Japan
+* [[Japanese]] : related to Japan, inhabitant of Japan, an language of Japan
+* [[Nihonjinron]] : kind of books explaining the economic boom
+
+
 == Further reading ==
 
 * [[w:Japan|Wikipedia article on Japan]]
