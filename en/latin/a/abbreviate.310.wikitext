@@ -23,3 +23,5 @@
 '''Abbreviate''', ''[[noun (part of speech)|noun]]''
 
 An [[abridgment]]. [Obs.] ''[[Elyot (source)|Elyot]].''
+
+<HR> <P> <H3>Translations</H3><BR>•[[French]] fr: [[Abréger]]<BR>•[[German]] de: [[Kürzen Sie ab]]<BR>•[[Interlingua]] ia: [[Abbreviar]]<BR>•[[Italian]] it: [[Abbreviare]]<BR>•[[Portuguese]] pt: [[Abreviar]]<BR>•[[Spanish]] es: [[Abreviar]]<BR>•[[]]: [[]]
