@@ -1,7 +1,7 @@
 [[Esperanto]]
 
 *El [[eo:Anglio]]
-**Lingvo devenanta el Anglio.
+*Lingvo devenanta el Anglio.
 
 === Tradukoj ===
 
