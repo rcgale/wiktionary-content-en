@@ -2,7 +2,7 @@
 '''en, nl:''' Traditionally the fourth of the four [[season]]s, normally from [[December]] 21 to [[March]] 20.
 
 ===Translations===
-
+*de: Winter
 *es: [[invierno]]
 *et: talv
 *fr: [[hiver]]
