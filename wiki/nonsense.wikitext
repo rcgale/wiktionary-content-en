@@ -1,0 +1,7 @@
+(en)
+
+Words with no meaning or a statement that is very untrue; [[bullshit]] (informal)
+
+de: [[Quatsch]], [[Unsinn]], [[Blödsinn]]
+fr: [[non-sens]], [[absurdité]]
+nl: [[onzin]], [[flauwekul]]
