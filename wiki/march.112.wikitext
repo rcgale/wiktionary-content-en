@@ -26,6 +26,7 @@
 *es: [[marzo]]
 *fr: [[mars]]
 *he: [[מרץ]]
+*mi: [[mäehe]]
 *nl: [[maart]]
 *pl: [[marzec]]
 *sq: [[mars]]
