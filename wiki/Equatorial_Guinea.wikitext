@@ -1,0 +1,23 @@
+==English==
+
+'''proper noun'''
+
+# Country in Western Africa. Official name: Republic of Equatorial Guinea.
+#:'''Translations'''
+#:*[[Chinese]]: [[赤道几内亚]]
+#:*[[Danish]]: [[Ækvatorialguinea]]
+#:*[[Dutch]]: [[Equatoriaal-Guinea]]
+#:*[[Esperanto]]: [[Ekvatora Gvineo]]
+#:*[[Finnish]]: [[Päiväntasaajan Guinea]]
+#:*[[French]]: [[Guinée équatoriale]]
+#:*[[German]]: [[Äquatorialguinea]]
+#:*[[Greek]]: [[Ισημερινή Γουινέα]]
+#:*[[Interlingua]]: [[Guinea Equatorial]]
+#:*[[Italian]]: [[Guinea Equatoriale]]
+#:*[[Polish]]: [[Gwinea Równikowa]]
+#:*[[Portuguese]]: [[Guiné Equatorial]]
+#:*[[Russian]]: [[Экваториальная Гвинея]]
+#:*[[Spanish]]: [[Guinea Ecuatorial]]
+#:*[[Swedish]]: [[Ekvatorialguinea]]
+
+''See'': [[Countries of the world]]
