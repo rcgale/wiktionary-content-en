@@ -1,8 +1,7 @@
 [[Adjective]].
 
-
 From [[w:Spain|Spain]]
 
 === [[Translation]]s ===
-
+*[[Dutch]]: [[Spaans]]
 *[[Esperanto]]: [[hispana]].
