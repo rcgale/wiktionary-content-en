@@ -1,1 +1,5 @@
-An subgroup of the [[Carpatho-Rusyn]]s.
+==Definition==
+;'''Lemko''' (''[[noun]]'')
+: A subgroup of the [[Carpatho-Rusyn]]s.
+==Alternative spellings==
+==Pronounciation==
