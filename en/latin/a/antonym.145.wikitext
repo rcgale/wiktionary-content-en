@@ -9,3 +9,7 @@ Examples
 ===[[Translation]]s===
 
 *[[Esperanto]]: [[antonimo]]
+
+=== See also ===
+
+*[[w:antonym|Wikipedia article about antonym]]
