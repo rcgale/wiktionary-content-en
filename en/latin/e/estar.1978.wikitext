@@ -1,6 +1,6 @@
 ==[[Spanish]]==
 ===[[Verb]]===
-#To [[occupy]] a place (temporarily). Cf. [[ser]].
+#To have a (transient) location in space. Cf. [[ser]].
 #:'''Translations'''
 #:*[[English]]: to [[be]]
 #:*[[French]]: [[être]]
@@ -10,6 +10,15 @@
 #:'''Usage'''
 #:*''¿Dónde estás?'' 'Where are you ?'
 #:*''Estoy en casa'' 'I am at home'
-
+#Denotes a copula, in a transient fashion. Cf. [[ser]]
+#:'''Translations'''
+#:*[[English]]: to [[be]]
+#:*[[French]]: [[être]]
+#:*[[Interlingua]]: [[esser]]
+#:*[[Italian]]: [[essere]]
+#:*[[Portuguese]]: estar
+#:'''Usage'''
+#:*''El tiempo está frío'' 'The weather is cold'
+#:*''¿Estas loco?'' 'Are you crazy (right now)?'
 ===Expressions===
 * Estar por
