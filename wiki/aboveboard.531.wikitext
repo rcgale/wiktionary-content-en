@@ -1,0 +1,7 @@
+'''Aboveboard''', ''[[adverb (part of speech)|adverb]]''
+
+Above the board or table. Hence: in open sight; without trick, [[concealment]], or [[deception]].
+
+<code>Fair and ''aboveboard''.</code> ''[[Burke (source)|Burke]].''
+
+'''''Note:''''' This expression is said by Johnson to have been [[borrowed]] from [[gamesters]], who, when they change their cards, put their hands under the table.
