@@ -6,7 +6,7 @@
 From Latin [[aprilis]]. First in 1297 as ''aueril'', later re-latinized to ''apprile''.
 
 ==Translations==
-*de: [[April]]
+*de: April (on this page)
 *es: [[abril]]
 *eu: [[apiril]]
 *fr: [[avril]]
