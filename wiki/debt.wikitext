@@ -1,3 +1,5 @@
+===Pronunciation===
+/d&#603;t/
 ===Noun===
 #Money that one person or entity is required to pay to another, generally as a result of a loan or other monetary transaction. 
 
