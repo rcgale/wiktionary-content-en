@@ -23,6 +23,7 @@
 #:*[[Portuguese]]: [[espanhol]]
 #:*[[Spanish]]: [[español]]
 #Race of dogs of Spanish origin. Synonym: [[can espaniol]].
+#:'''Translations'''
 #:*[[Dutch]]: [[spaniël]] (hond)
 #:*[[English]]: [[spaniel]]
 #:*[[French]]: [[épagneul]]
