@@ -8,6 +8,6 @@
 
 ===Translations===
 
-[[Dutch]]: [[arend]], [[adelaar]]
-[[French]]: [[aigle]]
-[[Latin]]: [[Aqvila]]
+*[[Dutch]]: [[arend]], [[adelaar]]
+*[[French]]: [[aigle]]
+*[[Latin]]: [[Aqvila]]
