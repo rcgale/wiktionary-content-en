@@ -1,1 +1,1 @@
-'''Any press is good press''' is a eupehmism that describes the phenomenon of sensationalism, in the media, as being positive in the sense that it gets publicity. Similar terms include ''as long as they spell the name right''.
+'''Any press is good press''' is a euphemism that describes the phenomenon of sensationalism, in the media, as being positive in the sense that it gets publicity. Similar terms include ''as long as they spell the name right''.
