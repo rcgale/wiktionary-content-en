@@ -1,10 +1,11 @@
 ==English==
 
-# Country in the Middle East that borders with Iran, Kuwait,... .
+# Country in the Middle East that borders on Iran, Kuwait, Saudi Arabia, Jordan, Syria and Turkey.
 #:'''Translations'''
 #:*[[Dutch]]: [[Irak]]
 #:*[[French]]: [[Irak]]
 #:*[[German]]: [[Irak]]
 #:*[[Hebrew]]: [[עיראק]]
+#:*[[Polish]]: [[Irak]]
 
 ''See:'' [[Countries of the world]]
