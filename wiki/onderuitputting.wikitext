@@ -1,5 +1,4 @@
-''noun'' (nl)
-
-Incomplete use (of a budget)
-
-(Dutch government language, literally subexhaustion)
+==Dutch==
+Dutch government language: literally subexhaustion
+===Noun===
+#Incomplete use (of a budget)
