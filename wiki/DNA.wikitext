@@ -1,6 +1,6 @@
 ==English==
 ===abbreviation===
-#(''Biology'') Deoxyribo'''n'''ucleic '''a'''cid.
+#(''Biology'') '''D'''eoxyribo'''n'''ucleic '''a'''cid.
 # Did Not Answer
 # Did Not Attend
 # Defense Nuclear Agency 
