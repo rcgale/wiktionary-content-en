@@ -11,3 +11,4 @@ In the language of the average man,  a dialect is a mix of the two points of vie
 ==Translations==
 
 *Finnish: [[murre]]
+*German: [[Dialekt]]
