@@ -5,3 +5,5 @@
 '''translations'''
 *Dutch: [[eigennaam]]
 *French: [[nom propre]]
+*Interlingua: [[nomine proprie]]
+*Portuguese: [[substantivo próprio]]
