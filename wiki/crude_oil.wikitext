@@ -1,6 +1,7 @@
 # Unrefined [[oil]]; as it is found in the ground.
 
 == Translations ==
+
 * Fr: [[pétrole brute]]
 * De: [[Rohöl]]
 * Es: [[crudo]]
@@ -9,3 +10,7 @@
 
 * [[petroleum]]
 * [[crude]]
+
+== Further Reading ==
+
+* [[w:crude oil|Wikipedia article on crude oil]]
