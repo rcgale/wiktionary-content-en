@@ -1,0 +1,3 @@
+==[[Abbreviaton]]==
+
+*[[Base Station Subsystem]]
