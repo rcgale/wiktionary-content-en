@@ -1,18 +1,19 @@
 ==[[Portuguese]]==
 /esˈtaʀ/
 ===[[Verb]]===
-#To have a (transient) location in space. Cf. [[ser]].
+#To have a (transient) location in space. Cf. [[ser]], [[ficar]].
 #:'''Usage'''
 #:*''Onde estás?'' 'Where are you?'
-#:*''Estou em casa'' 'I am at home'#:'''Translations'''
+#:*''Estou em casa'' 'I am at home'
+#:'''Translations'''
 #:*[[English]]: to [[be]]
 #:*[[French]]: [[être]]
 #:*[[Interlingua]]: [[esser]]
 #:*[[Italian]]: [[essere]]
 #:*[[Spanish]]: estar
-#Denotes a copula, in a transient fashion. Cf. [[ser]]
+#Denotes a copula, in a transient fashion. Cf. [[ser]].
 #:'''Usage'''
-#:*''O tempo estaba frio'' 'The weather was cold (back then)'
+#:*''O tempo estava frio'' 'The weather was cold (back then)'
 #:*''Estás louco?'' 'Are you crazy (right now)?'
 #:'''Translations'''
 #:*[[English]]: to [[be]]
@@ -20,14 +21,14 @@
 #:*[[Interlingua]]: [[esser]]
 #:*[[Italian]]: [[essere]]
 #:*[[Spanish]]: estar
-#Auxiliary verb for the progressive tense.
+#Auxiliary verb for the progressive tense; precedes verb in gerund.
 #:'''Usage'''
 #:*''Ela está cantando'' 'She is singing'
 ----
 ==[[Spanish]]==
-/esˈtaʀ/
+/esˈtar/
 ===[[Verb]]===
-#To have a (transient) location in space. Cf. [[ser]].
+#To have a (transient) location in space. Cf. [[ser]], [[quedar]].
 #:'''Usage'''
 #:*''¿Dónde estás?'' 'Where are you?'
 #:*''Estoy en casa'' 'I am at home'
@@ -37,7 +38,7 @@
 #:*[[Interlingua]]: [[esser]]
 #:*[[Italian]]: [[essere]]
 #:*[[Portuguese]]: estar
-#Denotes a copula, in a transient fashion. Cf. [[ser]]
+#Denotes a copula, in a transient fashion. Cf. [[ser]].
 #:'''Usage'''
 #:*''El tiempo estaba frío'' 'The weather was cold (back then)'
 #:*''¿Estás loco?'' 'Are you crazy (right now)?'
@@ -47,7 +48,7 @@
 #:*[[Interlingua]]: [[esser]]
 #:*[[Italian]]: [[essere]]
 #:*[[Portuguese]]: estar
-#Auxiliary verb for the progressive tense.
+#Auxiliary verb for the progressive tense; precedes verb in gerund.
 #:'''Usage'''
 #:*''Ella está cantando'' 'She is singing'
 ===Expressions===
