@@ -8,7 +8,7 @@
 *et: [[november]]
 *eu: [[azaro]]
 *fr: [[novembre]]
-*he: [[??????]]
+*he: [[נובמבר]]
 *mi: [[nöema]]
 *nl: [[november]]
 *pl: [[listopad]]
