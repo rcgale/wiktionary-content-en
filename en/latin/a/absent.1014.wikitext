@@ -1,4 +1,4 @@
-''This definition is taken from a public domain 1913 edition of Webster's Dictionary: please see [[Absent]] for the new Wiktionary definition of this term.''
+==Adjective==
 
 '''Absent''', ''<code>[[adjective (part of speech)|adjective]]</code>'' [F., fr. ''absens'', ''absentis'', p. pr. of ''abesse'' to be away from; ''ab'' + ''esse'' to be. Cf. [[Sooth]].]
 
@@ -16,6 +16,9 @@
 '''Synonyms:''' -- [[Absent]], [[Abstracted]]. These words both [[imply]] a want of attention to surrounding objects. We speak of a man as ''absent'' when his thoughts wander [[unconsciously]] from present [[scenes]] or [[topics]] of discourse; we speak of him as ''abstracted'' when his mind (usually for a brief period) is drawn off from present things by some [[weighty]] matter for reflection. ''Absence'' of mind is usually the result of loose habits of thought; ''abstraction'' commonly [[arises]] either from [[engrossing]] interests and cares, or from [[unfortunate]] habits of association.
 </ol>
 -----
+
+==Verb==
+
 '''Absent''', ''<code>[[transitive verb (part of speech)|transitive verb]]</code>'' [''<code>[[imp. (part of speech)|imp.]] & [[past participle (part of speech)|past participle]]</code>'' [[Absented]]; ''<code>[[present participle (part of speech)|present participle]] & [[vb. n. (part of speech)|vb. n.]]</code>'' [[Absenting]].] [Cf. F. ''absenter''.]
 
 <ol>
