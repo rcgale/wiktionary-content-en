@@ -1,0 +1,6 @@
+===Proper noun===
+#An unidentified manlike or apelike animal said to exist in the Himalayas.
+#:'''synonyms'''
+#:*[[yeti]]
+#:'''translations'''
+#:*[[Dutch]]: [[Verschrikkelijke Sneeuwman]]
