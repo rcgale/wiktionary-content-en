@@ -9,9 +9,9 @@
 *[[Dutch]]: [[zomer]]
 *[[French]]: [[été]]
 *[[German]]: [[Sommer]]
-*[[Hebrew]]: [[קיץ]]
+*[[Hebrew]]: [[קיץ]] (KAH-yitz)
 *[[Mäori]]: [[raumati]]
 *[[Polish]]: [[lato]]
 *[[Portuguese]]: [[verão]]
 *[[Spanish]]: [[verano]]
-*[[Yiddish]]: [[זומער]]
+*[[Yiddish]]: [[זומער]] (ZOOM-mer)
