@@ -7,7 +7,7 @@
 #:*[[Finnish]]: [[Ranska]]
 #:*[[French]]: France
 #:*[[German]]: [[Frankreich]]
-#:*[[Hebrew]]: [[????]]
+#:*[[Hebrew]]: [[צרפת]]
 #:*[[Hungarian]]: Franciaország
 #:*[[Polish]]: [[Francja]]
 #:*[[Spanish]]: [[Francia]]
