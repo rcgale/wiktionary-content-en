@@ -9,6 +9,6 @@ Conclusion
 In the language of the average man,  a dialect is a mix of the two points of view. There also difficulties to determine to what extent you may say that ''people are understanding each other''
 
 ==Translations==
-
+*Dutch: dialect
 *Finnish: [[murre]]
 *German: [[Dialekt]]
