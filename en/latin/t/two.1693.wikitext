@@ -17,3 +17,4 @@ Old English ''twa'', from Germanic ''*twai'', ''*two'', from PIE ''*dwô''. Cogn
 *pt: [[dois]]
 *sp: [[dos]]
 *tr: [[iki]]
+*Korean: [[둘]] (dul), [[이]] (i)
