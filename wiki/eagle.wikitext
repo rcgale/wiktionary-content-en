@@ -45,7 +45,7 @@
 *[[Hebrew]]: [[עיט]] (AH-yit; also [[נשר]] [[NEH-sher] commonly) 
 *[[Hungarian]]: [[Sas]] 
 *[[Icelandic]]: [[Örn]]
-*[[Interlingua]]: [[Aquila]]
+*[[Interlingua]]: [[aquila]]
 *[[Inuit]]: [[Nektoralik]]
 *[[Inuktitut]]: [[Nakturalik]]
 *[[Italian]]: [[Aquila]], [[Àquila]]
@@ -61,7 +61,7 @@
 *[[Norwegian]]: [[Ørn]]
 *[[Persian]]: [[عقاب‌، شاهين‌ قرهقوش]] (needs to be checked by speaker)
 *[[Polish]]: [[Orzeł]] (1)
-*[[Portugese]]: [[Aguia]]
+*[[Portugese]]: [[águia]]
 *[[Potawatomi]]: [[Kno]]
 *[[Quechua]]: [[Anca]]
 *[[Romanian]]: [[Vultur]]
