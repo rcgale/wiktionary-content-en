@@ -6,5 +6,6 @@
 # A statement that is very untrue; [[bullshit]] (informal)
 
 *de: [[Quatsch]], [[Unsinn]], [[Blödsinn]]
+*fi: [[hölynpöly]]
 *fr: [[non-sens]], [[absurdité]]
 *nl: [[onzin]], [[flauwekul]]
