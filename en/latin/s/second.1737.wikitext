@@ -5,6 +5,7 @@
 # The SI unit of time.  Defined as the duration of 9,192,631,770 periods of radiation corresponding to the transition between two hyperfine levels of cesium 133 in a ground state at a temperature of 0 K.
 # A short, indeterminate amount of time: "I'll be there in a second."
 # An manufactured item which, though still usable, fails to meet quality control standards.
+# literally, the second division of the hour, the minute being the first.
 
 ====Translations====
 
