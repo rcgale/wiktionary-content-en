@@ -4,11 +4,27 @@
 
 # Country in Central Africa with Brazzaville as capital. Official name: Republic of the Congo.
 #:'''Translations'''
+#:*[[Danish]]: Congo
 #:*[[Dutch]]: Congo
 #:*[[French]]: Congo
-# Country in Central Africa with Kinshasa as capital (formerly [[Zaïre]]). Official name: Democratic Republic of the Congo.
+#:*[[Esperanto]]: [[Kongolo]], [[Kongo]], [[Kongo-Brazavilo]], [[Kongolo-Brazavilo]]
+#:*[[Finnish]]: [[Kongo]]
+#:*[[German]]: [[Kongo]]
+#:*[[Greek]]: [[Κονγκό]]
+#:*[[Interlingua]]: Congo
+#:*[[Italian]]: Congo
+#:*[[Polish]]: [[Kongo]], colloquial: [[Kongo (Brazzaville)]]
+#:*[[Portuguese]]: [[Congo-Brazzaville]]
+#:*[[Russian]]: [[Конго]]
+#:*[[Spanish]]: Congo
+#:*[[Swedish]]: [[Kongo]]
+# Country in Central Africa with Kinshasa as capital (formerly [[Zaire]]). Official name: Democratic Republic of the Congo.
 #:'''Translations'''
+#:*[[Danish]]: Congo
 #:*[[Dutch]]: Congo
+#:*[[Esperanto]]: [[Kongo-Kinŝasa]]
 #:*[[French]]: Congo
+#:*[[Polish]]: [[Kongo]], colloquial: [[Kongo (Kinszasa)]]
+#:*[[Portuguese]]: [[Congo-Kinshasa]]
 
 ''See'': [[Countries of the world]]
