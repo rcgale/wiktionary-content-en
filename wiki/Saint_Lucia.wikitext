@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Caribbean. Official name: Saint Lucia.
+#:'''Translations'''
+#:*[[Danish]]: Saint Lucia
+#:*[[Dutch]]: Saint Lucia
+#:*[[Esperanto]]: [[Sent-Lucio]]
+#:*[[Finnish]]: Saint Lucia
+#:*[[French]]: [[Sainte-Lucie]]
+#:*[[German]]: [[Sankte Lucia]]
+#:*[[Greek]]: [[Αγία Λουκία]]
+#:*[[Italian]]: Saint Lucia
+#:*[[Polish]]: Saint Lucia
+#:*[[Portuguese]]: [[Santa Lúcia]]
+#:*[[Russian]]: [[Сент-Люсия]]
+#:*[[Spanish]]: [[Santa Lucía]]
+#:*[[Swedish]]: Saint Lucia
+
+''See'': [[Countries of the world]]
