@@ -1,0 +1,18 @@
+==English==
+
+'''proper noun'''
+# Autonomous territory in the Caribbean, part of [[The Netherlands]].
+#:'''Translations'''
+#:*[[Danish]]: Aruba
+#:*[[Dutch]]: Aruba
+#:*[[Esperanto]]: [[Arubo]]
+#:*[[Finnish]]: Aruba
+#:*[[French]]: Aruba
+#:*[[German]]: Aruba
+#:*[[Greek]]: [[Αρούμπα]]
+#:*[[Italian]]: Aruba
+#:*[[Polish]]: Aruba
+#:*[[Portuguese]]: Aruba
+#:*[[Russian]]: [[Аруба]]
+#:*[[Spanish]]: Aruba
+#:*[[Swedish]]: Aruba
