@@ -1,3 +1,7 @@
-Ad, ''[[Noun]]'', abbreviation of advertisement.
-
-'''ad''' = for, in order to, to (in [[Volapük]])
+===Noun===
+#''(Informal):'' abbreviation of advertisement.
+#''(Tennis):'' advantage
+----
+==Volapük==
+===Preposition===
+#for, in order to, to
