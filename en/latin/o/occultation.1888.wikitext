@@ -1,0 +1,1 @@
+The process of a celestial object passing between two other bodies, thereby causing an eclipse.
