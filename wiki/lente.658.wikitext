@@ -1,29 +1,32 @@
 ==Dutch==
 ===Noun===
-#'len-te /lent@/, ''masculine and feminine'', ''plural'' -s /-s/,  Traditionally the first of the four [[season]]s, normally from [[March]] 21 to [[June]] 20; [[spring]]
+#'len-te /lent@/, ''masculine and feminine'', ''plural'' -s /-s/,  Traditionally the first of the four [[season]]s, normally from [[March]] 21 to [[June]] 20
 ====Translation====
-*[[Spanish]]: [[primavera]]
-*[[French]]: [[printemps]]
+*[[English]]: [[Spring]]
+*[[French]]: [[Printemps]]
 *[[Hebrew]]: [[אביב]]
-*[[Polish]]: [[wiosna]]
+*[[Polish]]: [[Wiosna]]
+*[[Spanish]]: [[Primavera]]
 *[[Yiddish]]: [[פרילינג]]
 ==French==
 ===Adjective===
 #Feminine form of the adjective ''lent'' meaning [[slow]]
 ====Translations====
-*[[Dutch]]: [[langzaam]] 
+*[[Dutch]]: [[Langzaam]] 
 *[[Hebrew]]: [[איטית]]
 ==Italian==
 ===Noun===
-#Object, usually of glass, that focuses or defocuses the light that passes through it; a [[lens]]
+#Object, usually of glass, that focuses or defocuses the light that passes through it
 ====Translations====
-*[[Dutch]]: [[lens]] 
+*[[English]]: [[Lens]]
+*[[Dutch]]: [[Lens]] 
 *[[Hebrew]]: [[עדשה]]
 *[[Yiddish]]: [[לינז]] (also [[אָפטיש גלאָז]])
 ==Spanish==
 ===Noun===
-#Object, usually of glass, that focuses or defocuses the light that passes through it; a [[lens]]
+#Object, usually of glass, that focuses or defocuses the light that passes through it
 ====Translations====
-*[[Dutch]]: [[lens]]
+*[[English]]: [[Lens]]
+*[[Dutch]]: [[Lens]]
 *[[Hebrew]]: [[עדשה]]
 *[[Yiddish]]: [[לינז]] (also [[אָפטיש גלאָז]])
