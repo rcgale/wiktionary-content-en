@@ -1,0 +1,7 @@
+===[[Etymology]]===
+From [[digito]] + [[indice]].
+===[[noun phrase]]===
+#Finger between the [[thumb]] and the [[middle finger]]. Synonym: [[indice]].
+#:'''Translations'''
+#:*[[English]]: [[forefinger]], [[index finger]], [[index]]
+#:*[[Portuguese]]: [[dedo indicador]], [[dedo índex]], [[índex]], [[índice]].
