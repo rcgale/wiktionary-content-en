@@ -16,12 +16,13 @@ Plural: winters
 #:*[[French]]: [[hiver]]
 #:*[[Frisian]]: winter (on this page)
 #:*[[German]]: Winter (on this page)
-#:*[[Hebrew]]: [[חורף]] (KHO-ref)
+#:*[[Hebrew]]: [[????]] (KHO-ref)
+#:*[[Hungarian]]: [[tél]]
 #:*[[Icelandic]]: [[vetur]]
 #:*[[Indonesian]]: [[musim dingin]]
 #:*[[Irish]]: [[Geimhreadh]]
-#:*[[Japanese]]: [[冬]] (ふゆ;huyu)
-#:*[[Korean]]: [[겨울]] (gyeo-ul)
+#:*[[Japanese]]: [[?]] (??;huyu)
+#:*[[Korean]]: [[??]] (gyeo-ul)
 #:*[[Mäori]]: [[takurua]]
 #:*[[Norwegian]]: [[vinter]]
 #:* [[Polish]]: [[zima]]
@@ -29,8 +30,8 @@ Plural: winters
 #:*[[Romanian]]: [[iarna]]
 #:*[[Spanish]]: [[invierno]]
 #:*[[Swedish]]: [[vinter]]
-#:*[[Turkish]]: [[kiş]]
-#:*[[Yiddish]]: [[װינטער]] (VIN-ter)
+#:*[[Turkish]]: [[kis¸]]
+#:*[[Yiddish]]: [[??????]] (VIN-ter)
 
 ==Related words==
 *[[atomic winter]]
