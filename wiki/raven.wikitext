@@ -1,14 +1,22 @@
 /rā'v[e]n/
 
-[[noun|n.]]
-#A large black [[bird]] (''Corvus corax''), similar to the [[crow]], but larger.
-#Rapine; rapacity.
-#([[Prey]]; [[plunder]]; food obtained by violence.
+[[noun]] '''(en)'''
+#A large [[black]] [[bird]] (''Corvus corax''), similar to the [[crow]], but larger.
+#[[Rapine]]; [[rapacity]].
+#[[Prey]]; [[plunder]]; food obtained by [[violence]].
 
-[[adjective|a.]]
-#Of the color of the raven; jet black; as, raven curls; raven darkness.
+[[adjective]] '''(en)'''
+#Of the color of the raven; [[jet black]]; as, raven curls; raven darkness.
 
-[[verb|v.]]
-#To obtain or seize by violence.
-#To devour with great eagerness.
-#To prey with rapacity; to be greedy; to show rapacity.
+[[verb]] '''(en)'''
+#To [[obtain]] or [[seize]] by [[violence]].
+#To [[devour] with great [[eagerness]].
+#To [[prey]] with [[rapacity]]; to be [[greedy]]; to show [[rapacity]].
+
+noun '''(nl)'''
+#Plural of [[raaf]]
+
+==Translations==
+(of English noun #1)
+* de: [[Rabe]]
+* nl: [[raaf]]
