@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# Country in the Caribbean. Official name: Department of Martinique.
+#:'''Translations'''
+#:*[[Danish]]: Martinique
+#:*[[Dutch]]: Martinique
+#:*[[Esperanto]]: [[Martiniko]]
+#:*[[Finnish]]: Martinique
+#:*[[French]]: Martinique
+#:*[[German]]: Martinique
+#:*[[Greek]]: [[Μαρτινίκα]]
+#:*[[Italian]]: [[Martinica]]
+#:*[[Polish]]: [[Martynika]]
+#:*[[Portuguese]]: [[Martinica]]
+#:*[[Russian]]: [[Мартиника]]
+#:*[[Spanish]]: [[Martinica]]
+#:*[[Swedish]]: Martinique
+
+''See'': [[Countries of the world]]
