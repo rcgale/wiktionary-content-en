@@ -4,6 +4,7 @@
 ===Translations===
 *[[Albanian]]: [[vjeshtë]]
 *[[Basque]]: [[udazken]]
+*[[Croatian]]: [[jesen]]
 *[[Dutch]]: [[herfst]]
 *[[French]]: [[automne]]
 *[[Hebrew]]: [[סתיו]]
