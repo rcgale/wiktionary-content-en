@@ -12,6 +12,7 @@
 
 ===Translations===
 *German: Katze, f
+*Finnish: [[kissa]]
 *Spanish: gato
 *French: chat
 *Hebrew: [[חתול]]
