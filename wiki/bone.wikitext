@@ -9,3 +9,4 @@ bone, n. 1. A [[composite]] [[material]] consisting largely of [[calcium]] [[pho
 *Lojban: [[bongu]]
 *Portuguese: [[osso]]
 *Spanish: [[hueso]]
+*Yiddish: [[בּײן]]
