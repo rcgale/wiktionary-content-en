@@ -5,5 +5,5 @@
 
 === Tradukoj ===
 
-[[Angla]]: Spanish
-[[Hispana]]: español/a
+*[[Angla]]: Spanish
+*[[Hispana]]: español/a
