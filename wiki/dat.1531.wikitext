@@ -7,11 +7,11 @@ Dat
 # ''demonstrative pronoun'', ''neuter'' referring to a thing, farther away: [[that]] (cp. [[dit]], and [[deze]]/[[die]]).
 # ''demonstrative adjective'', referring to a thing: that, [[which]].
 
-Usage note: a preceding comma may alter the meaning of a clause starting wiht a demonstrative adjective.
+Usage note: a preceding comma may alter the meaning of a clause starting with a demonstrative adjective.
 
 ''Het boek, dat wit was, gaf ik terug'' vs. ''Het boek dat wit was, gaf ik terug'': the book, which was white, by the way, I returned, vs. the white book I returned.
 
 === Examples ===
 
 # ''Wat is dat?'': what is that?
-# ''Ik zag dat het goed was'': I saw that it was well.
+# ''Ik zag dat het goed was'': I saw that it was well
