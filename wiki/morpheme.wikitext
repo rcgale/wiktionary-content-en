@@ -1,0 +1,1 @@
+component of a linguistic system that cannot be further sub-divided
