@@ -5,3 +5,4 @@ Rain very heavily
 ==Translations==
 
 *nl: [[pijpenstelen regenen]]
+*fr: pleuvoir à verse, (dracher in Belgium)
