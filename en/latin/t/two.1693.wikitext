@@ -4,3 +4,6 @@ Old English ''twa'', from Germanic ''*twai'', ''*two'', from PIE ''*dwô''. Cogn
 == Number ==
 # The cardinality of the set {0,1}; [[one]] plus one. The number of eyes that a typical human has.
 # The ordinality of an element whose predecessor is [[first]]; usually called [[second]] but sometimes ''number two''.
+
+== Translations ==
+Lojban: [[re]]
