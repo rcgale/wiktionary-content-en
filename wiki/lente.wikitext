@@ -4,12 +4,15 @@
 ====Translation====
 *[[Spanish]]: [[primavera]]
 *[[French]]: [[printemps]]
+*[[Hebrew]]: [[אביב]]
 *[[Polish]]: [[wiosna]]
+*Yiddish]]: [[פרילינג]]
 ==French==
 ===Adjective===
 #Feminine form of the adjective ''lent'' meaning [[slow]]
 ====Translations====
 *[[Dutch]]: [[langzaam]] 
+*[[Hebrew]]: [[איטית]]
 ==Italian==
 ===Noun===
 #Object, usually of glass, that focuses or defocuses the light that passes through it; a [[lens]]
