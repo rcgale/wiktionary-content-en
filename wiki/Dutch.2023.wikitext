@@ -9,6 +9,7 @@
 #:*Interlingua: [[hollandese]], [[nederlandese]]
 #:*Portuguese: [[holandês]], [[neerlandês]]
 #:*Spanish: [[holandés]]
+#:*Swedish: [[nederländska]], [[holländska]]; [[flamländska]] in [[Belgium]]
 #people from the Netherlands
 #:'''Translations'''
 #:*Dutch:  [[Nederlanders]]
