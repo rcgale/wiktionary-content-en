@@ -1,10 +1,15 @@
 Adjective \Ad"jec*tive\
 
-''adjective''
+===[[Noun]]===
+# a "describing word", modifying a [[noun]]
+#:'''Translations'''
+#:*[[Dutch]]: [[bijvoeglijk]] [[naamwoord]]
+#:*[[French]]: [[adjectif]]
+
+===Adjective===
 # of or relating to or functioning as an adjective; "adjectival syntax"; "an adjective clause" [''syn:'' [[adjectival]]]
+#:'''Translations'''
+#:*[[Dutch]]: [[bijvoegelijk]]
 # (law) applying to methods of enforcement and rules of procedure; "adjective law" [syn: procedural] [''ant:'' [[substantive]]]
-
-==Translations==
-
-*fr: [[adjectif]]
-*nl: (1) [[bijvoeglijk]] [[naamwoord]]
+#:'''Translations'''
+#:*[[Dutch]]: formeel recht
