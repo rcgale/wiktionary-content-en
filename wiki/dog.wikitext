@@ -21,6 +21,7 @@ From old English ''docga'', middle English ''dogge'', further origin unknown.
 
 1.
 *de: [[Hund]]
+*eo: [[hundo]]
 *es: [[perro]]
 *fr: [[chien]]
 *nl: [[hond]]
