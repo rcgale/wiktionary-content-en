@@ -11,4 +11,5 @@ Describing a set or group with eight components. ''He works eight hours a day.''
 *[[French]] : [[huit]]
 *[[Frisian]] : [[acht]]
 *[[German]] : [[acht]]
+*[[Korean]] : [[여덟]] (yeodeorp), [[팔]] (pal)
 *[[Spanish]] : [[ocho]]
