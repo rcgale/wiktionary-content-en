@@ -8,7 +8,7 @@
 
 ''verb:''
 
-# To document, (''especially'') a meeting. Example: "I'll minute this evening's meeting". The product of minuting is the plural noun form
+# To document, (''especially'') a meeting. Example: "I'll minute this evening's meeting". The product of minuting is usually the plural noun form, "minutes".
 
 ''adjective:''
 
