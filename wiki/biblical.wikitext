@@ -1,5 +1,5 @@
-(adjective)
+==[[Adjective]]==
 
-1. of, or relating to, the Bible
+1. of, or relating to, the [[Bible]]
 
-2. in accordance with the teachings of the Bible (according to some interpretation of the later), e.g. "The biblical teaching is that...", "biblical morality", etc.
+2. in accordance with the teachings of the Bible (according to some interpretation of the later), e.g. "The [[biblical]] [[teaching]] is that...", "biblical morality", etc.
