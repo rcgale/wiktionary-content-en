@@ -1,3 +1,7 @@
 '''the''' /thə/ (American English) 
 
 # "Definite article", placed before nouns, indicating a specific person or thing instead of the general case. Compare with [[a]].
+
+=== Translations ===
+
+*nl: [[de]], [[het]]
