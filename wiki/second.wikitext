@@ -1,8 +1,10 @@
-'''[[noun]]'''
+===Etymology===
+===[[noun]]===
 
-# One-sixtieth of a [[minute]].
+# One-sixtieth of a [[minute]] in both [[time]] and [[angle]]s.
 # A short, indeterminate amount of time: "I'll be there in a second."
+# An manufactured item which, though still usable, fails to meet quality control standards.
 
-'''[[adjective]]'''
+===[[adjective]]===
 
-# Item number [[two]]; following immediately after [[first]].
+# The ordinal form of the number [[two]]; following immediately after [[first]].
