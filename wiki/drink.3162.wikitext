@@ -5,6 +5,8 @@
 *Dutch: [[drinken]]
 *Finnish: [[juoda]]
 *French: [[boire]]
+*Japanese: [[飲む]] (のむ;nomu)
+*Korean: [[마시다]] (masida)
 *Spanish: [[beber]]
 ----
 ==[[noun]]==
