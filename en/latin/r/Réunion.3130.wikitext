@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Southern Africa. Official name: Department of Réunion.
+#:'''Translations'''
+#:*[[Danish]]: Réunion
+#:*[[Dutch]]: Réunion
+#:*[[Esperanto]]: [[Reunio]]
+#:*[[Finnish]]: Réunion
+#:*[[French]]: Réunion
+#:*[[German]]: Réunion
+#:*[[Greek]]: [[Ρεϋνιόν]], [[Ρεουνιόν]]
+#:*[[Interlingua]]: [[Reunion]]
+#:*[[Italian]]: [[Riunione]]
+#:*[[Polish]]: [[Reunion]]
+#:*[[Portuguese]]: [[Reunião]]
+#:*[[Russian]]: [[остров Реюньон]]
+#:*[[Spanish]]: [[Reunión]]
+#:*[[Swedish]]: Réunion
+
+''See'': [[Countries of the world]]
