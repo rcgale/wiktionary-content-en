@@ -1,7 +1,8 @@
 ===Meanings===
-'''nl:''' Traditionally the second of the four [[season]]s, normally in the northern hemisphere from [[June]] 21 to [[September]] 20.
+'''nl:''' /zo:m@R/, ''plural'' -s /-s/, traditionally the second of the four [[season]]s, normally in the northern hemisphere from [[June]] 21 to [[September]] 20; [[summer]].
 
 ===Translations===
+*de: [[Sommer]]
 *en: [[summer]]
 *es: [[verano]]
 *fr: [[été]]
