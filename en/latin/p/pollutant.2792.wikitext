@@ -1,4 +1,6 @@
 ===[[noun]]===
 
 ===Translations===
-* [[Portuguese]]: [[poluente]]
+*[[Français]]: [[polluant]]
+*[[Interlingua]]: [[polluente]]
+*[[Portuguese]]: [[poluente]]
