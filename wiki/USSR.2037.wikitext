@@ -2,4 +2,4 @@
 
 *Union of Soviet Socialist Republics
 
-*[[Russian]]:CCCP (SSSR - romanised)
+*[[Russian]]:[[CCCP]] (SSSR - romanised)
