@@ -13,6 +13,7 @@
 #:*[[German]]: [[Litauen]]
 #:*[[Greek]]: [[Λιθουανία]]
 #:*[[Italian]]: [[Lituania]]
+#:*[[Lithuanian]]: [[Lietuva]]
 #:*[[Polish]]: [[Litwa]]
 #:*[[Portuguese]]: [[Lituânia]]
 #:*[[Russian]]: [[Литва]]
