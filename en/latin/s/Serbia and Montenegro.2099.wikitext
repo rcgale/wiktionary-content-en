@@ -2,7 +2,9 @@
 
 # Country on the Balkan Peninsula.
 #:'''Translations'''
-#:*[[Esperanto]]: [[Serbio kaj Montenegro]]
 #:*[[Dutch]]: [[Servië en Montenegro]]
+#:*[[Esperanto]]: [[Serbio kaj Montenegro]]
+#:*[[German]]: [[Serbien und Montenegro]]
+#:*[[Polish]]: [[Serbia i Czarnogóra]]
 
 ''See:'' [[Countries of the world]]
