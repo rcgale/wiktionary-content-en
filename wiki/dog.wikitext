@@ -14,6 +14,9 @@ Plural form: dogs
 # go after with the intent to catch [syn: [[chase]], [[chase after]], [[trail]], [[tail]], [[tag]], [[go after]], [[track]]]
 # <i>[[nautical terms|Nautical]]</i> To fasten a [[hatch]] securely, "It is very important to dog down these hatches...." [http://www.vonwentzel.net/Prout/08.OEM/04.Hatches/].
 
+==Etymology==
+From old English ''docga'', middle English ''dogge'', further origin unknown.
+
 ==Translations==
 
 1.
