@@ -6,10 +6,10 @@
 
 * Loko kien one povas meti monon.
 
-===[[Traduko]]jnslation===
+===[[Traduko]]j===
 
 *[[Angla]]: [[bank]]
 *[[Franca]]: banque
-*[[Germana]]: bank 
+*[[Ĝermana]]: bank 
 *[[Hispana]]: banco 
 *[[Nederlanda]]: bank
