@@ -5,7 +5,7 @@
 # Country in South America. Official name: Republic of Bolivia.
 #:'''Translations'''
 #:*[[Chinese]]: [[玻利维亚]]
-#:*[[Dannish]]: Bolivia
+#:*[[Danish]]: Bolivia
 #:*[[Dutch]]: Bolivia
 #:*[[Esperanto]]: [[Bolivio]]
 #:*[[Finnish]]: Bolivia
