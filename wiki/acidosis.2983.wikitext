@@ -1,0 +1,8 @@
+Acidosis, ''[[Noun]]'', the problem with the [[blood]] where below normal levels of [[bicarbonate]] concentration is found. 
+---- '''Translations''' 
+* [[French]]: [[Acidose]] 
+* [[German]]: [[Azidose]] 
+* [[Interlingua]]: [[Acidosis]] 
+* [[Italian]]: [[Acidosi]] 
+* [[Portuguese]]: [[Acidosis]] 
+* [[Spanish]]: [[Acidosis]]
