@@ -1,0 +1,3 @@
+==[[Abbreviation]]==
+
+*[[Frequency Shift Keying]]
