@@ -5,7 +5,7 @@ Related words are old German "wohha" (modern German [[Woche]]), old Dutch weke (
 
 ===Pronunciation===
 /wik/
-===Noun===
+===Count noun===
 # A [[period]] of [[seven]] [[day]]s
 
 ====Translations====
