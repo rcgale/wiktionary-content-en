@@ -10,6 +10,7 @@
 
 Plural form: dogs
 
+
 ''[[verb]].''
 # Go after with the intent to catch [syn: [[chase]], [[chase after]], [[trail]], [[tail]], [[tag]], [[go after]], [[track]]]
 # <i>[[nautical terms|Nautical]]</i> To fasten a [[hatch]] securely, "It is very important to dog down these hatches...." [http://www.vonwentzel.net/Prout/08.OEM/04.Hatches/].
@@ -18,7 +19,10 @@ Plural form: dogs
 From old English ''docga'', middle English ''dogge'', further origin unknown.
 
 == Proverbs / Idioms ==
+*[[dog tired]]
 *[[dog-eat-dog]]
+*[[dog's life]]
+*[[Every dog has its day]]
 *[[gone to the dogs]]
 *[[rain cats and dogs]]
 
