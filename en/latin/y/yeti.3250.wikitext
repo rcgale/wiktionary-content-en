@@ -1,0 +1,7 @@
+===Proper noun===
+#An unidentified manlike or apelike animal said to exist in the Himalayas.
+#:'''synonyms'''
+#:*[[Abominable Snowman]]
+#:'''translations'''
+#:*[[Dutch]]: [[yeti]]
+''related words:'' [[Bigfoot]], [[Sasquatch]], [[yowie]]
