@@ -4,8 +4,8 @@ Latin ''abacus'', ''abax'', Greek 'a`bax
 Plural: '''abacuses'''. The Latin plural ''abaci'' is correct in English but is considered pedantic.
 #''(Obsolete):'' A table or tray [[strewn]] with sand, anciently used for drawing, [[calculating]], etc. 
 #A calculating table or frame; an instrument for performing [[arithmetical]] [[calculations]] by balls [[sliding]] on wires, or [[counters]] in grooves, the lowest line representing units, the second line, tens, etc. It is still employed in China.
-#''(Archaic:'' The [[uppermost]] member or division of the capital of a column, immediately under the [[architrave]]. See [[Column]]. 
-#''(Archaic:'' A [[tablet]], [[panel]], or [[compartment]] in ornamented or [[mosaic]] work.
+#''(Archaic):'' The [[uppermost]] member or division of the capital of a column, immediately under the [[architrave]]. See [[Column]]. 
+#''(Archaic):'' A [[tablet]], [[panel]], or [[compartment]] in ornamented or [[mosaic]] work.
 #A board, tray, or table, divided into [[perforated]] [[compartments]], for holding cups, bottles, or the like; a kind of [[cupboard]], [[buffet]], or [[sideboard]].
 ===Derived expressions===
 *'''Abacus harmonicus''' ''(Music):'' An ancient [[diagram]] showing the structure and disposition of the keys of an instrument. - [[Crabb]]
