@@ -12,9 +12,11 @@
 #:*German: [[Engländer]] 
 #:*Dutch: [[Engelsman]] (masc.), [[Engelse]] (fem.), [[Engelsen]] (plur.)
 #:*catalan: (m) [[anglès]], (f) [[anglesa]]
+#:*Swedish: [[engelska]]
 ===Adjective===
 # Of or pertaining to England.
 #:'''Translations'''
 #:*German: [[englisch]]
 #:*Dutch: [[Engels]]
 #:*catalan: (m) [[anglès]], (f) [[anglesa]]
+#:*Swedish: [[engelsk]]
