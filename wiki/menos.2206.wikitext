@@ -1,0 +1,5 @@
+Spanish
+
+==Adverb==
+
+#Less
