@@ -1,1 +1,1 @@
-See also [[Zen]]
+#REDIRECT [[Zen]]
