@@ -9,14 +9,17 @@ Z&#307;n using the ligature (unicode #307) instead of seperate letters)
 <table border=1 cellspacing=0 cellpadding=2>
 <tr><th>...tense<br>person...</th><th>Present <br>(onvoltooid tegenwoordige tijd)</th><th>Past <br>(onvoltooid verleden tijd)</th><th>Past participle<br> (voltooid deelwoord)</th></tr>
 <tr><th colspan=4>singular</th></tr>
-<tr><th>[[Ik]]</th><td>ben</td><td>was</td><td>geweest</td></tr>
-<tr><th>[[Jij]] / [[U]]</th><td>bent (</td><td>was</td><td>id.</td></tr>
-<tr><th>[[Hij]] / [[zij]] / [[Men]]</th><td>is</td><td>was</td><td>id.</td></tr>
+<tr><th>[[ik]]</th><td>ben</td><td>was</td><td>geweest</td></tr>
+<tr><th>[[jij]] ([[je]])/[[u]]</th><td>bent</td><td>was</td><td>id.</td></tr>
+<tr><th>[[hij]]/[[zij]] ([[ze]])/[[men]]</th><td>is</td><td>was</td><td>id.</td></tr>
 <tr><th colspan=4>plural</th></tr>
-<tr><th>[[Wij]]</th><td>zijn</td><td>waren</td><td>id.</td></tr>
-<tr><th>[[Jullie]]</th><td>zijn</td><td>waren</td><td>id.</td></tr>
-<tr><th>[[Zij]]</th><td>zijn</td><td>waren</td><td>id.</td></tr>
+<tr><th>[[wij]] ([[we]])</th><td>zijn</td><td>waren</td><td>id.</td></tr>
+<tr><th>[[jullie]]</th><td>zijn</td><td>waren</td><td>id.</td></tr>
+<tr><th>[[zij]] ([[ze]])</th><td>zijn</td><td>waren</td><td>id.</td></tr>
 </table>
+:'''Note'''
+:* When the order of ''jij'' (or the unstressed form ''je'') and ''bent'' is reversed, the final t is dropped. Compare ''Jij bent'' (you are) with ''Ben jij'' (are you). This is not the case when the polite form ''u'' is used.
+
 :'''Usage examples'''
 :* ''zijn of niet zijn, dat is de vraag'': to be or not to be, that is the question (the first line of Hamlet's monologue in Shakespeare's play.) 
 ==== Synonyms ====
