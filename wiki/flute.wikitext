@@ -1,3 +1,3 @@
 ===Noun===
 
-/A [[woodwind]] instrument.  Usually among the highest pitched instruments.  Comes in bamboo, wood, or various metals.
+#A [[woodwind]] instrument.  Usually among the highest pitched instruments.  Comes in bamboo, wood, or various metals.
