@@ -1,4 +1,4 @@
-Sapnish
+Spanish
 
 Adjective
 
