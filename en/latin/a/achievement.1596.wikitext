@@ -16,6 +16,7 @@
 
 ---- 
 '''Translations''' 
+* [[Finnish]]: [[saavutus]]
 * [[French]]: [[Accomplissement]] 
 * [[German]]: [[Vollendung]] 
 * [[Interlingua]]: [[Accomplimento]], [[Complimento]], [[Realisation]] 
