@@ -9,6 +9,7 @@
 *[[Basque]]: [[udaherri]] (1)
 *[[Dutch]]: [[lente]] (1), [[bron]] (2), [[veer]] (3)
 *[[French]]: [[printemps]] (1)
+*[[Maori]]: [[koanga]] (1)
 *[[Polish]]: [[wiosna]] (1)
 *[[Portuguese]]: [[primavera]] (1)
 *[[Spanish]]: [[primavera]] (1)
