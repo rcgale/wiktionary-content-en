@@ -1,9 +1,9 @@
-==[[Noun]]==
-
+===Etymology===
+Middle English, from Old French ''pais'', from Latin ''pax, pac-'' peace.  See also [[appease]]
+===Noun===
 # A settled, restful, harmonious state. In the context of a country (a country at peace), the absence of war and civil unrest.
 
 ===Translations===
-
 *[[Dutch]] : [[vrede]]
 *[[French]] : [[paix]]
 *[[Frisian]] : [[frede]]
@@ -12,13 +12,7 @@
 *[[Spanish]] : [[paz]]
 
 ===Antonyms===
-
 *[[war]]
 
-==Derived forms==
-
-===[[Adjective]]===
-peaceful
-
-===[[Verb]]===
-to appease
+===Derived forms===
+[[peaceful]]
