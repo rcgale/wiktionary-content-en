@@ -1,2 +1,2 @@
 ===Noun===
-# Activity designed to induce terror using biological techniques.
+# [[Activity]] designed to induce terror using biological techniques.
