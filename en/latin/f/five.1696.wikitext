@@ -12,3 +12,4 @@ Old English ''fíf'', from Germanic ''*fimfi'', from PIE ''*penkwe''. Cognate to
 *Icelandic: [[fimm]]
 *Lojban: [[mu]]
 *nl: [[vijf]]
+*Korean: [[다섯]] (daseot), [[오]] (o)
