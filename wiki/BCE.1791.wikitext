@@ -1,4 +1,4 @@
 Abbreviation for:
 *Before the Common Era
 
-A culturally neutral equivalent of [[BC]], "before Christ" often suffixed to dates, for example: "1045 B.C.E".
+A culturally neutral equivalent of [[BC]], "before Christ" often suffixed to dates, for example: "1045 BCE".
