@@ -7,7 +7,7 @@
 *Dana: [[ord]]
 *Finlanda: [[sana]]
 *Franca: [[mot]], [[parole]]
-*[http://eo.wikipedia.org/wiki/%C4%9Cermana_lingvo|Ĝermana]: [[Wort]]
+*[http://eo.wikipedia.org/wiki/%C4%9Cermana_lingvo Ĝermana]: [[Wort]]
 *[[Hebrea]]: [[מילה]]
 *Hungara: [[szó]]
 *[http://eo.wikipedia.org/wiki/Jido Jida]: [[װאָרט]]
