@@ -4,6 +4,6 @@
 #:'''Translations'''
 #:*[[Dutch]]: [[Duitsland]]
 #:*[[French]]: [[Allemagne]]
-#:*[[German]]: [[Deutchland]]
+#:*[[German]]: [[Deutschland]]
 
 ''See:'' [[Countries of the world]]
