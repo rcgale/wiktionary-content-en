@@ -2,7 +2,7 @@
 
 1. A [[publication]], usually in the form of a [[book]], which [[alphabetical]]ly [[reference]]s the [[word]]s (and meanings thereof) for a given [[language]] or languages.
 
-2. A publication which alphabetically references terms (and meanings thereof) on a given [[subject]]. One [[example]] of this is [[Medical dictionary|Medical Dictionaries]].
+2. A publication which alphabetically references terms (and meanings thereof) on a given [[subject]]. An [[example]] of this would be a [[Medical dictionary|Medical Dictionary]].
 
 == Etymology ==
 French [[dictionnaire]]
