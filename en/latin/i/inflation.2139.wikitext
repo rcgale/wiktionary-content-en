@@ -1,6 +1,6 @@
 ==[[Noun]]==
-
-*Rise in the general level of prices
+#The expansion of certain items (such as ballons) when filled with a fluid.
+#Rise in the general level of prices
 
 ===Antonyms===
 
