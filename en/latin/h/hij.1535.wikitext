@@ -20,4 +20,6 @@ Sometimes contracted to ''ie'', although almost always in spoken form (/i:/): ''
 
 *de: [[er]]
 *en: [[he]]
+*es: [[el]]
 *fr: [[il]]
+*pt: [[ele]]
