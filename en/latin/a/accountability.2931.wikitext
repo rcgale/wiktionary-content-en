@@ -1,0 +1,9 @@
+Accountable, <i>[[Adjective]]</i>, ''responsible, answerable ''. 
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Responsable]]
+<BR>• [[German]]: [[Verantwortlich]]
+<BR>• [[Interlingua]]: [[Responsabile]]
+<BR>• [[Italian]]: [[Responsabile]]
+<BR>• [[Portuguese]]: [[]]
+<BR>• [[Spanish]]: [[Responsable]]
+<BR>
