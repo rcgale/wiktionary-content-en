@@ -1,6 +1,6 @@
-==Esperanto==
-===Noun===
-#Hundo estas besto
+==[[Esperanto]]==
+===[[Noun]] (Hund´o)===
+#Hundo  estas besto
 #:'''Translation'''
 #*English [[dog]]
 #*French [[chien]]
