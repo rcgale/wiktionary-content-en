@@ -14,7 +14,7 @@ Shebang lines can also include specific options that will be passed to the inter
 It is common for different variants of even the same operating system to have different locations for the desired interpreter. In the absence of a rigidly standardised filesystem structure among different Unix systems, this method can also limit the portability of the file. Thus, it is not uncommon to need to edit the shebang line after copying a [[script (computer programming)|script]] from one computer to another because the path that was coded into the script may not apply on a new machine.  For this and other reasons, [[POSIX]] does not standardize the feature.
 
 == Example shebang lines ==
-This file is [[bash]] script, the [[Linux]] equivalent of a [[DOS]] [[batch file]]:
+This file is a [[bash]] script, the [[Unix]] equivalent of a [[DOS]] [[batch file]]:
 
  #!/bin/bash
  #
