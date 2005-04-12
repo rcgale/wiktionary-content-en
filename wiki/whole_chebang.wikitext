@@ -38,6 +38,13 @@ Also, the Perl interpreter is run without extra warnings being enabled.
  # The rest of the Perl script
  ...
 
+Sometimes, the exact path to the required interpreter is not known, so the env program can be used instead to search for it.
+
+ #!/usr/bin/env python
+ #
+ # The rest of the Python script
+ ...
+
 ==External links==
 *[http://homepages.cwi.nl/~aeb/std/shebang/ Details about the shebang mechanism on various Unix flavours]
 *[[FOLDOC:shebang|FOLDOC shebang article]]
