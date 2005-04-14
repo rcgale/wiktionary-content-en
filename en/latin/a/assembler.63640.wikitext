@@ -1,17 +1,16 @@
 ==English==
-===Noun===
-'''assembler''' (countable and uncountable; plural: [[assemblers]])
 
-# (''Computing'', ''countable'') a [[computer]] [[programming]] tool that reads [[source code]] files written in [[assembly language]] and produces a number of output files. One of these, the [[object]] file, can then be submitted to a [[linker]] which generates a working computer program.
-#:The other output files are generated to assist the [[programmer]] with [[debug]]ging.
-#(''Computing'', ''uncountable'') a shorthand reference to the programming language.
-#:''I wrote that in Assembler.''
+===Noun===
+'''assembler'''
+
+# {{computing}} A tool that reads [[source code]] files written in [[assembly language]] and produces executable machine code, possibly together with information needed by linkers, debuggers and other tools.
+#: ''This assembler is much faster than the old one.''
+# {{cattag2|computing|uncountable}} An [[assembly language]].
+#:''I wrote that in assembler.''
 
 ====Synonyms====
 *[[assembly]] (2)
 *[[assembly language]] (2)
-
-[[Category:Computer Terminology]]
 
 [[et:Assembler]]
 [[it:assembler]]
