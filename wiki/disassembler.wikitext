@@ -1,8 +1,10 @@
+{{cleanup}}
+
 ==Disassembler==
 
 '''Noun''', ''Computer terminology''
 
-#A disassembler is a [[computer program]] that examines another computer program and attempts to generate [[Assembly Language]] [[source code]] that would, in theory, reproduce the target program.
+# {{computing}} A disassembler is a [[computer program]] that examines another computer program and attempts to generate [[Assembly Language]] [[source code]] that would, in theory, reproduce the target program.
 
 In practice, the output of a disassembler is rarely of sufficient quality to reproduce the program. This is because the target program may not have been written in Assembly Language, and because programmers do not always follow coding conventions. Disassembly is normally used to gain an understanding of the target program rather than to reproduce it.
 
@@ -12,5 +14,3 @@ The term "disassembler" is properly applied ''only'' to programs that produce As
 *Disassemble
 *Decompile
 *[[Reverse engineering]]
-
-[[Category:Computer Terminology]]
