@@ -1,0 +1,14 @@
+''' Regex '''
+''' : '''
+'''Regular expressions'''
+
+
+Regular expressions trace their ancestry back to early research on how the human nervous system works. Warren McCulloch and Walter Pitts, a pair of neuro-physiologists, developed a mathematical way of describing these neural networks. 
+
+In 1956, a mathematician named Stephen Kleene, building on the earlier work of McCulloch and Pitts, published a paper entitled, Representation of Events in Nerve Nets that introduced the concept of regular expressions. Regular expressions were expressions used to describe what he called "the algebra of regular sets". hence the term "regular expression." 
+
+Subsequently, his work found its way into some early efforts with computational search algorithms done by Ken Thompson, the principal inventor of Unix. The first practical application of regular expressions was in the Unix editor called qed.
+
+And the rest, as they say, is history. Regular expressions have been an important part of text-based editors and search tools ever since.
+
+http://msdn.microsoft.com/library/default.asp?url=/library/en-us/script56/html/reconregularexpressions.asp
