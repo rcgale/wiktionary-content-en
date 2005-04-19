@@ -1,61 +1,9 @@
-{{rfd}}
-'''What is KVCD?'''
+==English==
+===Abbreviation===
+'''KVCD'''
 
-"K Video Compression Dynamics"
+#K Video Compression Dynamics (''a [[video codec]]'')
 
-KVCD is a modification to the standard MPEG-1 and MPEG-2 GOP structure and Quantization Matrix. It enables you to create over 120 minutes of near DVD quality video, depending on your material, on a single 80 minute CD-R/CD-RW. We have published these specifications as KVCDx3, our official resolution, which produce 528x480 (NTSC) and 528x576 (PAL) MPEG-1 variable bit rate video, from 64Kbps to 3,000Kbps. Using a resolution of 352x240 (NTSC) or 352x288 (PAL), it's possible to encode video up to ~360 minutes of near VCD quality on a single 80 minute CD-R. The mpeg files created will play back in most modern standalone DVD players. You must burn the KVCD MPEG files as non-standard VCD or non-standard SVCD (depends on your player) with Nero or VCDEasy.
-
-Using KVCD parameters to create DVDs (KDVD), will enable you to create 100% DVD compliant MPEG-2 streams, capable of playing on any standard DVD player. This will allow you to put up to about 6 hours Full D-1 720x480 on one DVD, or about 10 hours at Half D-1 352x480.
-
-KVCD Official Specifications 	
-
-K Video Compression Dynamics (KVCD) Official Specifications
-
-KVCD Official Specifications: ( Audio specifications are not defined )
-
-The core of KVCD is a propietary modification to the standard MPEG-1 and MPEG-2 Quantization Matrix. The official KVCD resolution is 528x480( 576 ). This is labeled KVCDx3. Also 544x480( 576 ) is defined as an alternate resolution, labeled KVCDx3A.
-The KVCD "Notch" Quantization matrix may be used on any hardware or software encoder capable of accepting custom tailored matrixes.
-It is optimized for space/quality, and has also been optimized to reduce visible DCT blocks on low lit/dark scenes.
-The KVCD "Notch" Quantization Matrix is Copyright (c) 2002, 2003 of Softronex Corporation. Please contact us for commercial use.
-
-Here is the byte code for the KVCD "Notch" Quantization Matrix:
-
-Intra:
-8 9 12 22 26 27 29 34
-9 10 14 26 27 29 34 37
-12 14 18 27 29 34 37 38
-22 26 27 31 36 37 38 40
-26 27 29 36 39 38 40 48
-27 29 34 37 38 40 48 58
-29 34 37 38 40 48 58 69
-34 37 38 40 48 58 69 79
-
-
-NonIntra:
-16 18 20 22 24 26 28 30
-18 20 22 24 26 28 30 32
-20 22 24 26 28 30 32 34
-22 24 26 30 32 32 34 36
-24 26 28 32 34 34 36 38
-26 28 30 32 34 36 38 40
-28 30 32 34 36 38 42 42
-30 32 34 36 38 40 42 44
-
-
-Optional Recommendations:
-
-For optimal encoding on natural material ( movies, new computer generated films ), we recommend to match the KVCD "Notch" Quantization Matrix with a maximum GOP size of 24 pictures.
-For animation, old cartoons, etc., we recommend a maximum GOP size of 12 pictures for NTSCFilm (23.973fps), 15 pictures for PAL (25fps) and 18 pictures for NTSC (29.97fps).
-It's also recommended to set "Scene change detection", if the encoder permits.
-Also, use open GOP.
-There are no preferences as to the type of encoding ( CQ, CQ_VBR, X-PASS, etc. ). Use the best mode that your encoder can produce.
-Suggested bitrates are a minimum of 64Kbps and a maximum of 3,000Kbps.
-For MPEG-1 and MPEG-2 in this bitrate range, a DC component precision of 8 bits is recommended.
-
-DVD Compliance:
-
-For DVD compliant MPEG files, select the standard DVD parameters for your encoder, but change (modify, patch, etc.) the matrix on your encoder to use the KVCD "Notch" Quantization Matrix. This will enable play times of ~6 hours on a 4.7GB DVD(+-)R(W) media at a standard resolution of 720x480(576 ) Full D-1, Wide Screen encodes, or ~10 hours at a resolution of 352x480( 576 ) Half D-1.
-
-( Specifications subject to change without notice )
-Copyright© 2002, 2003 Softronex Corporation. All Rights Reserved.
-The names "KVCD" and "K Video Compression Dynamics" are trade marks of Karl Wagner.
+===See also===
+*[[w:KVCD|Wikipedia article on KVCD]]<!--not written at the time of editing, but there are links in Wikipedia to this page-->
+*[[w:video codec|Wikipedia article on video codecs]]
