@@ -1,0 +1,13 @@
+'''C-command''' is a relationship in grammatical [[parse tree]]s which is equivalent to the idea of "cousins and all their descendents" in family trees.
+
+In the following tree, A '''c-commands''' C, D, and E.
+
+<pre>
+   B
+  / \
+ A   C
+    / \
+   D   E
+</pre>
+
+The formal definition is that X '''c-commands''' Y if the first parent of X contains Y.
