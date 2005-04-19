@@ -1,6 +1,11 @@
-'''C-command''' is a relationship in grammatical [[parse tree]]s which is equivalent to the idea of "cousins and all their descendents" in family trees.
+'''C-command''' is a relationship in grammatical [[parse tree]]s which is similar to the idea of "siblings and all their descendents" in family trees.
 
-In the following tree, A '''c-commands''' C, D, and E.
+In the following tree:
+* A c-commands C, D, and E.
+* B does not c-command any nodes.
+* C c-commands A.
+* D c-commands E.
+* E c-commands D.
 
 <pre>
    B
@@ -10,6 +15,23 @@ In the following tree, A '''c-commands''' C, D, and E.
    D   E
 </pre>
 
-The formal definition is that X '''c-commands''' Y if the first parent of X contains Y.
+A node is said to "dominate" another node if it is above it in the tree (it is a parent, grandparent, etc.) The formal definition is that X '''c-commands''' Y if:
+* X does not dominate Y.
+* Y does not dominate X.
+* The first branching node that dominates X also dominates Y.
+
+The branching requirement means that in the following tree, A c-commands D, E, and F.
+
+<pre>
+   C
+  / \
+ B   D
+ |   |\
+ A   E F
+</pre>
+
+==References==
+* http://www.criticism.com/linguistics/govt-binding-basics1.php
+* ''Contemporary Linguistics'' by William O'Grady, Michael Dobrovolsky, and Mark Aronoff. Bedford/St. Martin's.  1997 (third edition).
 
 [[Category:Grammar]]
