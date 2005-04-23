@@ -2,6 +2,7 @@
 ===Noun===
 '''determinant''' (''plural'' '''determinants''')
 
+#a [[determine|determining]] [[factor]]; an [[element]] that [[determine]]s the [[nature]] of something
 #(''mathematics'') A [[scalar]] derived from a [[square matrix]] ''A'', having various uses in mathematics and defined [[recursively]] as:
 
 <math>det\,A = \sum_{i=1}^n\;(-1)^{i+1}\;a_{1, i}\;det\,A^\prime_i</math>
@@ -12,7 +13,6 @@
 where <math>A^\prime_i</math> is the matrix obtained by removing the first row and the ''i''th column from <math>A^\prime</math>.
 
 ====Translations====
-
 '''in mathematical sense'''
 {| border=0  width=100%
 |-
