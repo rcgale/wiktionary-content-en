@@ -4,7 +4,7 @@
 '''radix complement'''
 
 # The number which, added to the given ''n''-digit number in radix ''r'', results in <math>r^n</math>. In binary (<math>r=2</math>), this is the [[two's complement]].
-#: ''The radix complement of <math>01100101_2</math> is <math>10011010_2</math>.''
+#: ''The radix complement of <math>01100101_2</math> is <math>10011011_2</math>.''
 #: ''The radix complement of <math>138053_{10}</math> is <math>861947_{10}</math>.''
 #: ''The radix complement of <math>0423102_5</math> is <math>4021343_5</math>.''
 
