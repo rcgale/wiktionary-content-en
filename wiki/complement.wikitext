@@ -23,11 +23,11 @@
 #: ''The complement of the odd numbers is the even numbers, relative to the natural numbers.''
 # {{logic}} An expression which is true when the other is false, and vice versa.
 # {{electronics}} A voltage level with the opposite logical sense to the given one.
-# {{mathematics}} The complement relative to some other base, being the number which, added to the given ''n''-digit number in base ''b'', results in either <math>b^n</math> or <math>b^n - 1</math>
-# {{cattag2|computing|mathematics}} The [[ones complement]] ([[logical complement]]) of a number.
-#: ''The complement of 0xAAAA is 0x5555.''
-# {{cattag2|computing|mathematics}} The [[twos complement]] of a number.
-#: ''The complement of 0xAAAA is 0x5556.''
+# {{computing}} A [[bit]] with the opposite value to the given one; the [[logical complement]] of a number.
+# {{cattag2|computing|mathematics}} The [[diminished radix complement]] of a number; the [[nines' complement]] of a decimal number; the [[ones' complement]] of a binary number.
+#: ''The complement of <math>01100101_2</math> is <math>10011010_2</math>.''
+# {{cattag2|computing|mathematics}} The [[radix complement]] of a number; the [[two's complement]] of a binary number.
+#: ''The complement of <math>01100101_2</math> is <math>10011011_2</math>.''
 # {{cattag2|computing|mathematics}} The [[numeric complement]] of a number.
 #: ''The complement of -123 is 123.''
 # {{music}} An [[interval]] which, together with the given interval, makes an [[octave]].
