@@ -10,7 +10,10 @@ Examples of "formerly open problems" closed since 1975 include "give a proof of 
 
 *Another major open problem in real-time computer scheduling is "Give an optimal heuristic for scheduling periodic real-time task systems when the deadlines are all a constant multiple C (C >= 1) of the period, or prove that the problem is NP-complete (thought to be intractible.)"  The most recent work in this area is by Lehoczky [Lehoczky90].  A solution to this problem will allow us to trade off latency for increased device utilization in real-time systems (e.g. in CPU's or in real-time networks.)
 
-===References===
+== References ==
 *[Garey79] M.R. Garey and D.S. Johnson, Computers and Intractability: A Guide to the Theory of NPCompleteness, Freeman (1979).
 *[Coffman72] E.G. Coffman and R.L. Graham, Optimal Scheduling for Two Processor Systems, Acta Informatica, vol. 1, 1972, pp. 200-213.
 *[Lehoczky90] J. Lehoczky, Fixed priority scheduling of periodic task sets with arbitrary deadlines, RTSS 1990, pp. 201-213, December 1990.
+
+== See also ==
+*[[List of open problems in computer science]]
