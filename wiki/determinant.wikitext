@@ -2,15 +2,8 @@
 ===Noun===
 '''determinant''' (''plural'' '''determinants''')
 
-#a [[determine|determining]] [[factor]]; an [[element]] that [[determine]]s the [[nature]] of something
-#(''mathematics'') A [[scalar]] derived from a [[square matrix]] ''A'', having various uses in mathematics and defined [[recursively]] as:
-
-<math>det\,A = \sum_{i=1}^n\;(-1)^{i+1}\;a_{1, i}\;det\,A^\prime_i</math>
-:for A of dimensions ''n'' &times; ''n''; ''n'' > 1, and<br>
-<math>det\,A = a_{1, 1}</math>
-:for A of dimensions 1 &times; 1
-
-where <math>A^\prime_i</math> is the matrix obtained by removing the first row and the ''i''th column from <math>A^\prime</math>.
+# A [[determine|determining]] [[factor]]; an [[element]] that [[determine]]s the [[nature]] of something
+# {{linearalg}} The [[scalar]] function of a square [[matrix]], [[distributive]] over matrix multiplication, [[multilinear]] in the rows and columns, and having the value of 1 for the [[unit matrix]].
 
 ====Translations====
 '''in mathematical sense'''
@@ -31,10 +24,12 @@ where <math>A^\prime_i</math> is the matrix obtained by removing the first row a
 |}
 
 ===See also===
+*[[permanent]]
+*[[singular]]
 *[[w:Determinant|Wikipedia article on determinants]]
 *[http://mathworld.wolfram.com/Determinant.html Mathworld article on determinants]
 
-----
+
 ==Slovak==
 ===Noun===
 :'''determinant''' ''m'', '''determinanty''' ''pl''
@@ -43,7 +38,7 @@ where <math>A^\prime_i</math> is the matrix obtained by removing the first row a
 :{{decpat}} {{dub}}
 # determining factor
 # ''(math)'' [[determinant#English|determinant]]
------
+
 ==Swedish==
 ===Noun===
 '''determinant''' ''c'' (''pl'' [[determinanter]] ''def sing'' [[determinanten]] ''def pl'' [[determinanterna]])
