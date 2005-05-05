@@ -1,0 +1,4 @@
+==English==
+===Noun===
+'''DPC'''
+# '''Computing'''. An [[acronym]] meaning ''Deferred Procedure Call''. A '''DPC''' is a [[software]] [[interrupt]] which is triggered by the [[kernel]] when it detects a "hung" condition deep within a [[thread]] or [[process]] it is attempting to [[terminate]]. In general, this allows the process to complete its work before the impending termination or [[w:context switch|context switch]].
