@@ -23,15 +23,36 @@
 #The first-person singular personal pronoun '''[[I]]'''.
 #:Я — [[русский]] = ''I am Russian.''
 
-<table border="9">
-<tr><th></th><th>&nbsp;singular&nbsp;</th><th>&nbsp;plural&nbsp;</th></tr>
-<tr><th>nominative</th><td>&nbsp;{{IPA|я}}&nbsp;</td><td>&nbsp;{{IPA|[[мы]]}}&nbsp;</td></tr>
-<tr><th>genitive</th><td>&nbsp;{{IPA|меня́}}&nbsp;</td><td>&nbsp;{{IPA|нас}}&nbsp;</td></tr>
-<tr><th>dative</th><td>&nbsp;{{IPA|мне}}&nbsp;</td><td>&nbsp;{{IPA|нам}}&nbsp;</td></tr>
-<tr><th>accusative</th><td>&nbsp;{{IPA|меня́}}&nbsp;</td><td>&nbsp;{{IPA|нас}}&nbsp;</td></tr>
-<tr><th>instrumental</th><td>&nbsp;{{IPA|мной / мно́ю}}&nbsp;</td><td>&nbsp;{{IPA|на́ми}}&nbsp;</td></tr>
-<tr><th>prepositional</th><td>&nbsp;{{IPA|мне}}&nbsp;</td><td>&nbsp;{{IPA|нас}}&nbsp;</td></tr>
-</table>
+
+{| border="1" cellpadding="4" cellspacing="0"
+!
+! style="background-color: #EFEFFF" align="center"|[[singular]]
+! style="background-color: #EFEFFF" align="center"|[[plural]]
+|-
+! style="background-color: #FFFFE0" align="left"|[[nominative case|nominative]]
+| align="center"|{{Unicode|я}}
+| align="center"|{{Unicode|мы}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[genitive case|genitive]]
+| align="center"|{{Unicode|меня́}}
+| align="center"|{{Unicode|нас}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[dative case|dative]]
+| align="center"|{{Unicode|мне}}
+| align="center"|{{Unicode|нам}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[accusative case|accusative]]
+| align="center"|{{Unicode|меня́}}
+| align="center"|{{Unicode|нас}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[instrumental case|instrumental]]
+| align="center"|{{Unicode|мной / мно́ю}}
+| align="center"|{{Unicode|на́ми}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[prepositional case|prepositional]]
+| align="center"|{{Unicode|обо мне́}}
+| align="center"|{{Unicode|о на́с}}
+|}
 
 ===Related terms===
 *[[мой]]
