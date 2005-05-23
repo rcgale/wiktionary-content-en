@@ -1,19 +1,10 @@
-A problem that can be formally stated and for which a solution is known to exist but which has not yet been solved.
+An '''open problem''' is a problem that can be formally stated and for which a solution is known to exist but which has not yet been solved.
 
-It is common in graduate schools to point out open problems to students in the hopes that perhaps the student can solve such problems.
+It is common in [[graduate school]]s to point out open problems to students in the hopes that perhaps the student can solve such problems.
 
-Examples of "formerly open problems" closed since 1975 include "give a proof of fermat's last theorem" and "give a proof that four colors suffice to color any planar map."  Unfortunately, these problems were solved by faculty members, not by graduate students.
-
-*An important open problem in the field of theoretical computer science is "Prove or disprove that no problem in the class of NP-Complete problems can be solved in polynomial time by a deterministic Turing machine."  Stated succinctly, show that P != NP [Garey79].
-
-*A major open problem in computer scheduling is "Give an optimal polynomial-time algorithm for 3 processor scheduling of unit-length jobs with task dependencies, or show that the problem is NP-Complete."  An algorithm for optimal 2-processor scheduling was first discovered by Coffman and Graham [Coffman72].  This problem has practical importance in scheduling the instructions in the pipelines of a superscalar processor.  A solution to this problem implies an algorithm exists for optimal preemptive scheduling of 3 processor systems.  In fact, if P != NP then problems in the computational complexity class (NP - NP-Complete - P) are known to exist, and this problem is thought to be a candidate for this complexity class.
-
-*Another major open problem in real-time computer scheduling is "Give an optimal heuristic for scheduling periodic real-time task systems when the deadlines are all a constant multiple C (C >= 1) of the period, or prove that the problem is NP-complete (thought to be intractible.)"  The most recent work in this area is by Lehoczky [Lehoczky90].  A solution to this problem will allow us to trade off latency for increased device utilization in real-time systems (e.g. in CPU's or in real-time networks.)
-
-== References ==
-*[Garey79] M.R. Garey and D.S. Johnson, Computers and Intractability: A Guide to the Theory of NPCompleteness, Freeman (1979).
-*[Coffman72] E.G. Coffman and R.L. Graham, Optimal Scheduling for Two Processor Systems, Acta Informatica, vol. 1, 1972, pp. 200-213.
-*[Lehoczky90] J. Lehoczky, Fixed priority scheduling of periodic task sets with arbitrary deadlines, RTSS 1990, pp. 201-213, December 1990.
+Examples of formerly open problems that have been closed since [[1975]] include [[Fermat's last theorem]] and the [[Four color theorem]].  Unfortunately, these problems were solved by [[faculty]] members, not by graduate students.
 
 == See also ==
 *[[List of unsolved problems]]
+
+[[Category:Unsolved problems|*]]
