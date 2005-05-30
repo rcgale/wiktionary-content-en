@@ -6,197 +6,187 @@
 
 <!-- table modified from Wikipedia -->
 <center>
-<table style="width: 80%;">
-<tr align="center">
-<td>'''Group'''</td>
-<td>'''1'''</td>
-<td>'''2'''</td>
-<td style="vertical-align: top;"><br> </td>
-<td>'''3'''</td>
-<td>'''4'''</td>
-<td>'''5'''</td>
-<td>'''6'''</td>
-<td>'''7'''</td>
-<td>'''8'''</td>
-<td>'''9'''</td>
-<td>'''10'''</td>
-<td>'''11'''</td>
-<td>'''12'''</td>
-<td>'''13'''</td>
-<td>'''14'''</td>
-<td>'''15'''</td>
-<td>'''16'''</td>
-<td>'''17'''</td>
-<td>'''18'''</td>
-</tr>
-<tr align="center">
-<td>'''Period'''</td>
-<td colspan="20"><br> </td>
-</tr>
-<tr align="center">
-<td>'''1'''</td>
-<td bgcolor="#ff6699"><font color="green">1</font><br>[[Hydrogen|H]]</td>
-<td colspan="17"><br> </td>
-<td bgcolor="#99ccff"><font color="green">2</font><br>[[Helium|He]]</td>
-</tr>
-<tr align="center">
-<td>'''2'''</td>
-<td bgcolor="#ff6699">3<br>[[Lithium|Li]]</td>
-<td bgcolor="#ff6699">4<br>[[Beryllium|Be]]</td>
-<td style="vertical-align: top;"><br> </td>
-<td colspan="10"><br> </td>
-<td bgcolor="#99ccff">5<br>[[Boron|B]]</td>
-<td bgcolor="#99ccff">6<br>[[Carbon|C]]</td>
-<td bgcolor="#99ccff"><font color="green">7</font><br>[[Nitrogen|N]]</td>
-<td bgcolor="#99ccff"><font color="green">8</font><br>[[Oxygen|O]]</td>
-<td bgcolor="#99ccff"><font color="green">9</font><br>[[Fluorine|F]]</td>
-<td bgcolor="#99ccff"><font color="green">10</font><br>[[Neon|Ne]]</td>
-</tr>
-<tr align="center">
-<td>'''3'''</td>
-<td bgcolor="#ff6699">11<br>[[Sodium|Na]]</td>
-<td bgcolor="#ff6699">12<br>[[Magnesium|Mg]]</td>
-<td style="vertical-align: top;"><br> </td>
-<td colspan="10"><br> </td>
-<td bgcolor="#99ccff">13<br>[[Aluminium|Al]]</td>
-<td bgcolor="#99ccff">14<br>[[Silicon|Si]]</td>
-<td bgcolor="#99ccff">15<br>[[Phosphorus|P]]</td>
-<td bgcolor="#99ccff">16<br>[[Sulfur|S]]</td>
-<td bgcolor="#99ccff"><font color="green">17</font><br>[[Chlorine|Cl]]</td>
-<td bgcolor="#99ccff"><font color="green">18</font><br>[[Argon|Ar]]</td>
-</tr>
-<tr align="center">
-<td>'''4'''</td>
-<td bgcolor="#ff6699">19<br>[[Potassium|K]]</td>
-<td bgcolor="#ff6699">20<br>[[Calcium|Ca]]</td>
-<td style="vertical-align: top;"><br> </td>
-<td bgcolor="#ccff99">21<br>[[Scandium|Sc]]</td>
-<td bgcolor="#ccff99">22<br>[[Titanium|Ti]]</td>
-<td bgcolor="#ccff99">23<br>[[Vanadium|V]]</td>
-<td bgcolor="#ccff99">24<br>[[Chromium|Cr]]</td>
-<td bgcolor="#ccff99">25<br>[[Manganese|Mn]]</td>
-<td bgcolor="#ccff99">26<br>[[Iron|Fe]]</td>
-<td bgcolor="#ccff99">27<br>[[Cobalt|Co]]</td>
-<td bgcolor="#ccff99">28<br>[[Nickel|Ni]]</td>
-<td bgcolor="#ccff99">29<br>[[Copper|Cu]]</td>
-<td bgcolor="#ccff99">30<br>[[Zinc|Zn]]</td>
-<td bgcolor="#99ccff">31<br>[[Gallium|Ga]]</td>
-<td bgcolor="#99ccff">32<br>[[Germanium|Ge]]</td>
-<td bgcolor="#99ccff">33<br>[[Arsenic|As]]</td>
-<td bgcolor="#99ccff">34<br>[[Selenium|Se]]</td>
-<td bgcolor="#99ccff"><font color="blue">35</font><br>[[Bromine|Br]]</td>
-<td bgcolor="#99ccff"><font color="green">36</font><br>[[Krypton|Kr]]</td>
-</tr>
-<tr align="center">
-<td>'''5'''</td>
-<td bgcolor="#ff6699">37<br>[[Rubidium|Rb]]</td>
-<td bgcolor="#ff6699">38<br>[[Strontium|Sr]]</td>
-<td style="vertical-align: top;"><br> </td>
-<td bgcolor="#ccff99">39<br>[[Yttrium|Y]]</td>
-<td bgcolor="#ccff99">40<br>[[Zirconium|Zr]]</td>
-<td bgcolor="#ccff99">41<br>[[Niobium|Nb]]</td>
-<td bgcolor="#ccff99">42<br>[[Molybdenum|Mo]]</td>
-<td bgcolor="#ccff99"><font color="red">43</font><br>[[Technetium|Tc]]</td>
-<td bgcolor="#ccff99">44<br>[[Ruthenium|Ru]]</td>
-<td bgcolor="#ccff99">45<br>[[Rhodium|Rh]]</td>
-<td bgcolor="#ccff99">46<br>[[Palladium|Pd]]</td>
-<td bgcolor="#ccff99">47<br>[[Silver|Ag]]</td>
-<td bgcolor="#ccff99">48<br>[[Cadmium|Cd]]</td>
-<td bgcolor="#99ccff">49<br>[[Indium|In]]</td>
-<td bgcolor="#99ccff">50<br>[[Tin|Sn]]</td>
-<td bgcolor="#99ccff">51<br>[[Antimony|Sb]]</td>
-<td bgcolor="#99ccff">52<br>[[Tellurium|Te]]</td>
-<td bgcolor="#99ccff">53<br>[[Iodine|I]]</td>
-<td bgcolor="#99ccff"><font color="green">54</font><br>[[Xenon|Xe]]</td>
-</tr>
-<tr align="center">
-<td>'''6'''</td>
-<td bgcolor="#ff6699">55<br>[[Caesium|Cs]]</td>
-<td bgcolor="#ff6699">56<br>[[Barium|Ba]]</td>
-<td bgcolor="#66ffcc">*<br></td>
-<td bgcolor="#ccff99">71<br>[[Lutetium|Lu]]</td>
-<td bgcolor="#ccff99">72<br>[[Hafnium|Hf]]</td>
-<td bgcolor="#ccff99">73<br>[[Tantalum|Ta]]</td>
-<td bgcolor="#ccff99">74<br>[[Tungsten|W]]</td>
-<td bgcolor="#ccff99">75<br>[[Rhenium|Re]]</td>
-<td bgcolor="#ccff99">76<br>[[Osmium|Os]]</td>
-<td bgcolor="#ccff99">77<br>[[Iridium|Ir]]</td>
-<td bgcolor="#ccff99">78<br>[[Platinum|Pt]]</td>
-<td bgcolor="#ccff99">79<br>[[Gold|Au]]</td>
-<td bgcolor="#ccff99"><font color="blue">80</font><br>[[Mercury|Hg]]</td>
-<td bgcolor="#99ccff">81<br>[[Thallium|Tl]]</td>
-<td bgcolor="#99ccff">82<br>[[Lead|Pb]]</td>
-<td bgcolor="#99ccff">83<br>[[Bismuth|Bi]]</td>
-<td bgcolor="#99ccff">84<br>[[Polonium|Po]]</td>
-<td bgcolor="#99ccff">85<br>[[Astatine|At]]</td>
-<td bgcolor="#99ccff"><font color="green">86</font><br>[[Radon|Rn]]</td>
-</tr>
-<tr align="center">
-<td>'''7'''</td>
-<td bgcolor="#ff6699">87<br>&nbsp;[[Francium|Fr]]&nbsp;</td>
-<td bgcolor="#ff6699">88<br>[[Radium|Ra]]</td>
-<td bgcolor="#66ffcc">**<br></td>
-<td bgcolor="#ccff99"><font color="red">103</font><br>[[Lawrencium|Lr]]</td>
-<td bgcolor="#ccff99"><font color="red">104</font><br>[[Rutherfordium|Rf]]</td>
-<td bgcolor="#ccff99"><font color="red">105</font><br>[[Dubnium|Db]]</td>
-<td bgcolor="#ccff99"><font color="red">106</font><br>[[Seaborgium|Sg]]</td>
-<td bgcolor="#ccff99"><font color="red">107</font><br>[[Bohrium|Bh]]</td>
-<td bgcolor="#ccff99"><font color="red">108</font><br>[[Hassium|Hs]]</td>
-<td bgcolor="#ccff99"><font color="red">109</font><br>[[Meitnerium|Mt]]</td>
-<td bgcolor="#ccff99"><font color="red">110</font><br>[[Darmstadtium|Ds]]</td>
-<td bgcolor="#ccff99"><font color="red">111</font><br>[[Roentgenium|Rg]]</td>
-<td bgcolor="#ccff99"><font color="red">112</font><br>[[Ununbium|Uub]]</td>
-<td bgcolor="#99ccff"><font color="red">113<br>[[Ununtrium|Uut]]</font></td>
-<td bgcolor="#99ccff"><font color="red">114</font><br>[[Ununquadium|Uuq]]</td>
-<td bgcolor="#99ccff"><font color="red">115<br>[[Ununpentium|Uup]]</font></td>
-<td bgcolor="#99ccff"><font color="red">116<br>[[Ununhexium|Uuh]]</font></td>
-<td bgcolor="#ecfefe"><font color="#cccccc">117<br>[[Ununseptium|Uus]]</font></td>
-<td bgcolor="#ecfefe"><font color="#cccccc">118<br>[[Ununoctium|Uuo]]</font></td>
-</tr>
-<tr align="center">
-<td colspan="21"><br> </td>
-</tr>
-<tr align="center">
-<td colspan="4" align="right">* '''[[Lanthanide]]s'''</td>
-<td bgcolor="#66ffcc">57<br>[[Lanthanum|La]]</td>
-<td bgcolor="#66ffcc">58<br>[[Cerium|Ce]]</td>
-<td bgcolor="#66ffcc">59<br>[[Praseodymium|Pr]]</td>
-<td bgcolor="#66ffcc">60<br>[[Neodymium|Nd]]</td>
-<td bgcolor="#66ffcc"><font color="red">61</font><br>[[Promethium|Pm]]</td>
-<td bgcolor="#66ffcc">62<br>[[Samarium|Sm]]</td>
-<td bgcolor="#66ffcc">63<br>[[Europium|Eu]]</td>
-<td bgcolor="#66ffcc">64<br>[[Gadolinium|Gd]]</td>
-<td bgcolor="#66ffcc">65<br>[[Terbium|Tb]]</td>
-<td bgcolor="#66ffcc">66<br>[[Dysprosium|Dy]]</td>
-<td bgcolor="#66ffcc">67<br>[[Holmium|Ho]]</td>
-<td bgcolor="#66ffcc">68<br>[[Erbium|Er]]</td>
-<td bgcolor="#66ffcc">69<br>[[Thulium|Tm]]</td>
-<td bgcolor="#66ffcc">70<br>[[Ytterbium|Yb]]</td>
-</tr>
-<tr align="center">
-<td colspan="4" align="right">** '''[[Actinide]]s'''</td>
-<td bgcolor="#66ffcc">89<br>[[Actinium|Ac]]</td>
-<td bgcolor="#66ffcc">90<br>[[Thorium|Th]]</td>
-<td bgcolor="#66ffcc">91<br>[[Protactinium|Pa]]</td>
-<td bgcolor="#66ffcc">92<br>[[Uranium|U]]</td>
-<td bgcolor="#66ffcc"><font color="red">93</font><br>[[Neptunium|Np]]</td>
-<td bgcolor="#66ffcc"><font color="red">94</font><br>[[Plutonium|Pu]]</td>
-<td bgcolor="#66ffcc"><font color="red">95</font><br>[[Americium|Am]]</td>
-<td bgcolor="#66ffcc"><font color="red">96</font><br>[[Curium|Cm]]</td>
-<td bgcolor="#66ffcc"><font color="red">97</font><br>[[Berkelium|Bk]]</td>
-<td bgcolor="#66ffcc"><font color="red">98</font><br>[[Californium|Cf]]</td>
-<td bgcolor="#66ffcc"><font color="red">99</font><br>[[Einsteinium|Es]]</td>
-<td bgcolor="#66ffcc"><font color="red">100</font><br>[[Fermium|Fm]]</td>
-<td bgcolor="#66ffcc"><font color="red">101</font><br>[[Mendelevium|Md]]</td>
-<td bgcolor="#66ffcc"><font color="red">102</font><br>[[Nobelium|No]]</td>
-</tr>
-</table>
-</center>
-
-<table align="center">
-<caption>Blocks</caption>
-<tr><td bgcolor="#CCFF99">d-block</td><td bgcolor="#66FFCC">f-block</td><td bgcolor="#99CCFF">p-block</td><td bgcolor="#FF6699">s-block</td></tr>
-</table>
+{| style="width: 80%;"
+|- align="center"
+| '''Group'''
+| '''1'''
+| '''2'''
+| style="vertical-align: top;" | <br>
+| '''3'''
+| '''4'''
+| '''5'''
+| '''6'''
+| '''7'''
+| '''8'''
+| '''9'''
+| '''10'''
+| '''11'''
+| '''12'''
+| '''13'''
+| '''14'''
+| '''15'''
+| '''16'''
+| '''17'''
+| '''18'''
+|- align="center"
+| '''Period'''
+| colspan="20" | <br>
+|- align="center"
+| '''1'''
+| bgcolor="#ff6699" | <font color="green">1</font><br>[[Hydrogen|H]]
+| colspan="17" | <br>
+| bgcolor="#99ccff" | <font color="green">2</font><br>[[Helium|He]]
+|- align="center"
+| '''2'''
+| bgcolor="#ff6699" | 3<br>[[Lithium|Li]]
+| bgcolor="#ff6699" | 4<br>[[Beryllium|Be]]
+| style="vertical-align: top;" | <br>
+| colspan="10" | <br>
+| bgcolor="#99ccff" | 5<br>[[Boron|B]]
+| bgcolor="#99ccff" | 6<br>[[Carbon|C]]
+| bgcolor="#99ccff" | <font color="green">7</font><br>[[Nitrogen|N]]
+| bgcolor="#99ccff" | <font color="green">8</font><br>[[Oxygen|O]]
+| bgcolor="#99ccff" | <font color="green">9</font><br>[[Fluorine|F]]
+| bgcolor="#99ccff" | <font color="green">10</font><br>[[Neon|Ne]]
+|- align="center"
+| '''3'''
+| bgcolor="#ff6699" | 11<br>[[Sodium|Na]]
+| bgcolor="#ff6699" | 12<br>[[Magnesium|Mg]]
+| style="vertical-align: top;" | <br>
+| colspan="10" | <br>
+| bgcolor="#99ccff" | 13<br>[[Aluminium|Al]]
+| bgcolor="#99ccff" | 14<br>[[Silicon|Si]]
+| bgcolor="#99ccff" | 15<br>[[Phosphorus|P]]
+| bgcolor="#99ccff" | 16<br>[[Sulfur|S]]
+| bgcolor="#99ccff" | <font color="green">17</font><br>[[Chlorine|Cl]]
+| bgcolor="#99ccff" | <font color="green">18</font><br>[[Argon|Ar]]
+|- align="center"
+| '''4'''
+| bgcolor="#ff6699" | 19<br>[[Potassium|K]]
+| bgcolor="#ff6699" | 20<br>[[Calcium|Ca]]
+| style="vertical-align: top;" | <br>
+| bgcolor="#ccff99" | 21<br>[[Scandium|Sc]]
+| bgcolor="#ccff99" | 22<br>[[Titanium|Ti]]
+| bgcolor="#ccff99" | 23<br>[[Vanadium|V]]
+| bgcolor="#ccff99" | 24<br>[[Chromium|Cr]]
+| bgcolor="#ccff99" | 25<br>[[Manganese|Mn]]
+| bgcolor="#ccff99" | 26<br>[[Iron|Fe]]
+| bgcolor="#ccff99" | 27<br>[[Cobalt|Co]]
+| bgcolor="#ccff99" | 28<br>[[Nickel|Ni]]
+| bgcolor="#ccff99" | 29<br>[[Copper|Cu]]
+| bgcolor="#ccff99" | 30<br>[[Zinc|Zn]]
+| bgcolor="#99ccff" | 31<br>[[Gallium|Ga]]
+| bgcolor="#99ccff" | 32<br>[[Germanium|Ge]]
+| bgcolor="#99ccff" | 33<br>[[Arsenic|As]]
+| bgcolor="#99ccff" | 34<br>[[Selenium|Se]]
+| bgcolor="#99ccff" | <font color="blue">35</font><br>[[Bromine|Br]]
+| bgcolor="#99ccff" | <font color="green">36</font><br>[[Krypton|Kr]]
+|- align="center"
+| '''5'''
+| bgcolor="#ff6699" | 37<br>[[Rubidium|Rb]]
+| bgcolor="#ff6699" | 38<br>[[Strontium|Sr]]
+| style="vertical-align: top;" | <br>
+| bgcolor="#ccff99" | 39<br>[[Yttrium|Y]]
+| bgcolor="#ccff99" | 40<br>[[Zirconium|Zr]]
+| bgcolor="#ccff99" | 41<br>[[Niobium|Nb]]
+| bgcolor="#ccff99" | 42<br>[[Molybdenum|Mo]]
+| bgcolor="#ccff99" | <font color="red">43</font><br>[[Technetium|Tc]]
+| bgcolor="#ccff99" | 44<br>[[Ruthenium|Ru]]
+| bgcolor="#ccff99" | 45<br>[[Rhodium|Rh]]
+| bgcolor="#ccff99" | 46<br>[[Palladium|Pd]]
+| bgcolor="#ccff99" | 47<br>[[Silver|Ag]]
+| bgcolor="#ccff99" | 48<br>[[Cadmium|Cd]]
+| bgcolor="#99ccff" | 49<br>[[Indium|In]]
+| bgcolor="#99ccff" | 50<br>[[Tin|Sn]]
+| bgcolor="#99ccff" | 51<br>[[Antimony|Sb]]
+| bgcolor="#99ccff" | 52<br>[[Tellurium|Te]]
+| bgcolor="#99ccff" | 53<br>[[Iodine|I]]
+| bgcolor="#99ccff" | <font color="green">54</font><br>[[Xenon|Xe]]
+|- align="center"
+| '''6'''
+| bgcolor="#ff6699" | 55<br>[[Caesium|Cs]]
+| bgcolor="#ff6699" | 56<br>[[Barium|Ba]]
+| bgcolor="#66ffcc" | *<br>
+| bgcolor="#ccff99" | 71<br>[[Lutetium|Lu]]
+| bgcolor="#ccff99" | 72<br>[[Hafnium|Hf]]
+| bgcolor="#ccff99" | 73<br>[[Tantalum|Ta]]
+| bgcolor="#ccff99" | 74<br>[[Tungsten|W]]
+| bgcolor="#ccff99" | 75<br>[[Rhenium|Re]]
+| bgcolor="#ccff99" | 76<br>[[Osmium|Os]]
+| bgcolor="#ccff99" | 77<br>[[Iridium|Ir]]
+| bgcolor="#ccff99" | 78<br>[[Platinum|Pt]]
+| bgcolor="#ccff99" | 79<br>[[Gold|Au]]
+| bgcolor="#ccff99" | <font color="blue">80</font><br>[[Mercury|Hg]]
+| bgcolor="#99ccff" | 81<br>[[Thallium|Tl]]
+| bgcolor="#99ccff" | 82<br>[[Lead|Pb]]
+| bgcolor="#99ccff" | 83<br>[[Bismuth|Bi]]
+| bgcolor="#99ccff" | 84<br>[[Polonium|Po]]
+| bgcolor="#99ccff" | 85<br>[[Astatine|At]]
+| bgcolor="#99ccff" | <font color="green">86</font><br>[[Radon|Rn]]
+|- align="center"
+| '''7'''
+| bgcolor="#ff6699" | 87<br>&nbsp;[[Francium|Fr]]&nbsp;
+| bgcolor="#ff6699" | 88<br>[[Radium|Ra]]
+| bgcolor="#66ffcc" | **<br>
+| bgcolor="#ccff99" | <font color="red">103</font><br>[[Lawrencium|Lr]]
+| bgcolor="#ccff99" | <font color="red">104</font><br>[[Rutherfordium|Rf]]
+| bgcolor="#ccff99" | <font color="red">105</font><br>[[Dubnium|Db]]
+| bgcolor="#ccff99" | <font color="red">106</font><br>[[Seaborgium|Sg]]
+| bgcolor="#ccff99" | <font color="red">107</font><br>[[Bohrium|Bh]]
+| bgcolor="#ccff99" | <font color="red">108</font><br>[[Hassium|Hs]]
+| bgcolor="#ccff99" | <font color="red">109</font><br>[[Meitnerium|Mt]]
+| bgcolor="#ccff99" | <font color="red">110</font><br>[[Darmstadtium|Ds]]
+| bgcolor="#ccff99" | <font color="red">111</font><br>[[Roentgenium|Rg]]
+| bgcolor="#ccff99" | <font color="red">112</font><br>[[Ununbium|Uub]]
+| bgcolor="#99ccff" | <font color="red">113<br>[[Ununtrium|Uut]]</font>
+| bgcolor="#99ccff" | <font color="red">114</font><br>[[Ununquadium|Uuq]]
+| bgcolor="#99ccff" | <font color="red">115<br>[[Ununpentium|Uup]]</font>
+| bgcolor="#99ccff" | <font color="red">116<br>[[Ununhexium|Uuh]]</font>
+| bgcolor="#ecfefe" | <font color="#cccccc">117<br>[[Ununseptium|Uus]]</font>
+| bgcolor="#ecfefe" | <font color="#cccccc">118<br>[[Ununoctium|Uuo]]</font>
+|- align="center"
+| colspan="21" | <br>
+|- align="center"
+| colspan="4" align="right" | * '''[[Lanthanide]]s'''
+| bgcolor="#66ffcc" | 57<br>[[Lanthanum|La]]
+| bgcolor="#66ffcc" | 58<br>[[Cerium|Ce]]
+| bgcolor="#66ffcc" | 59<br>[[Praseodymium|Pr]]
+| bgcolor="#66ffcc" | 60<br>[[Neodymium|Nd]]
+| bgcolor="#66ffcc" | <font color="red">61</font><br>[[Promethium|Pm]]
+| bgcolor="#66ffcc" | 62<br>[[Samarium|Sm]]
+| bgcolor="#66ffcc" | 63<br>[[Europium|Eu]]
+| bgcolor="#66ffcc" | 64<br>[[Gadolinium|Gd]]
+| bgcolor="#66ffcc" | 65<br>[[Terbium|Tb]]
+| bgcolor="#66ffcc" | 66<br>[[Dysprosium|Dy]]
+| bgcolor="#66ffcc" | 67<br>[[Holmium|Ho]]
+| bgcolor="#66ffcc" | 68<br>[[Erbium|Er]]
+| bgcolor="#66ffcc" | 69<br>[[Thulium|Tm]]
+| bgcolor="#66ffcc" | 70<br>[[Ytterbium|Yb]]
+|- align="center"
+| colspan="4" align="right" | ** '''[[Actinide]]s'''
+| bgcolor="#66ffcc" | 89<br>[[Actinium|Ac]]
+| bgcolor="#66ffcc" | 90<br>[[Thorium|Th]]
+| bgcolor="#66ffcc" | 91<br>[[Protactinium|Pa]]
+| bgcolor="#66ffcc" | 92<br>[[Uranium|U]]
+| bgcolor="#66ffcc" | <font color="red">93</font><br>[[Neptunium|Np]]
+| bgcolor="#66ffcc" | <font color="red">94</font><br>[[Plutonium|Pu]]
+| bgcolor="#66ffcc" | <font color="red">95</font><br>[[Americium|Am]]
+| bgcolor="#66ffcc" | <font color="red">96</font><br>[[Curium|Cm]]
+| bgcolor="#66ffcc" | <font color="red">97</font><br>[[Berkelium|Bk]]
+| bgcolor="#66ffcc" | <font color="red">98</font><br>[[Californium|Cf]]
+| bgcolor="#66ffcc" | <font color="red">99</font><br>[[Einsteinium|Es]]
+| bgcolor="#66ffcc" | <font color="red">100</font><br>[[Fermium|Fm]]
+| bgcolor="#66ffcc" | <font color="red">101</font><br>[[Mendelevium|Md]]
+| bgcolor="#66ffcc" | <font color="red">102</font><br>[[Nobelium|No]]
+|}</center>
+{| align="center"
+|+Blocks
+|- 
+| bgcolor="#CCFF99" | d-block
+| bgcolor="#66FFCC" | f-block
+| bgcolor="#99CCFF" | p-block
+| bgcolor="#FF6699" | s-block
+|}
 
 Color coding for atomic numbers:
 * Elements numbered in <font color="blue">blue</font> are liquids at [[Standard Temperature and Pressure|Standard Temperature and Pressure (STP)]];
