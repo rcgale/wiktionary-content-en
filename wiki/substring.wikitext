@@ -1,0 +1,6 @@
+==English==
+===Noun===
+'''substring'''
+# a [[subset]] of a [[string]] of [[character]]s
+#{{computing}} a [[function]] of [[form]] ''substr(variable,start,length)'' that [[return]]s a substring of the specified [[variable]] from the start position, and of the length specified
+#*Thus: substr("abcdef",3,2) returns "cd"
