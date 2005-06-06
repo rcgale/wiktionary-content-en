@@ -38,12 +38,11 @@ Latin ''accendere'' < ''[[ad-]] + [[candere|candēre]]''
 | colspan="5" | acceso
 
 |-
-! colspan="2" style="background:#C0C0C0" |
+! colspan="2" rowspan="2" style="background:#C0C0C0" | person
 ! colspan="3" style="background:#C0C0C0" | singular
 ! colspan="3" style="background:#C0C0C0" | plural
 
 |-
-! colspan="2" style="background:#C0C0C0" | [[person]]
 ! style="background:#C0C0C0;width:12.5%" | first
 ! style="background:#C0C0C0;width:12.5%" | second
 ! style="background:#C0C0C0;width:12.5%" | third
@@ -52,7 +51,8 @@ Latin ''accendere'' < ''[[ad-]] + [[candere|candēre]]''
 ! style="background:#C0C0C0;width:12.5%" | third
 
 |-
-! style="background:#c0cfe4" colspan="2" | [[indicative]]
+! style="background:#c0cfe4" rowspan="5" | indic-ative
+! style="background:#c0cfe4" | 
 ! style="background:#c0cfe4" | io
 ! style="background:#c0cfe4" | tu
 ! style="background:#c0cfe4" | lui/lei
@@ -61,9 +61,7 @@ Latin ''accendere'' < ''[[ad-]] + [[candere|candēre]]''
 ! style="background:#c0cfe4" | loro
 
 |-
-! rowspan="5" style="background:#c0cfe4" | simple<br>tenses
-
-! style="height:3em;background:#c0cfe4" | [[present]]
+! style="height:3em;background:#c0cfe4" | present
 | accendo
 | accendi
 | accende
@@ -72,16 +70,16 @@ Latin ''accendere'' < ''[[ad-]] + [[candere|candēre]]''
 | accendono
 
 |-
-! style="height:3em;background:#c0cfe4" | [[imperfect]]
+! style="height:3em;background:#c0cfe4" | imper-fect
 | accendevo
 | accendevi
 | accendeva
-| accendevamo
+| accende-vamo
 | accendevate
 | accendevano
 
 |-
-! style="height:3em;background:#c0cfe4" | [[passato remoto]]
+! style="height:3em;background:#c0cfe4" | passato remoto
 | accesi
 | accendesti
 | accese
@@ -90,25 +88,26 @@ Latin ''accendere'' < ''[[ad-]] + [[candere|candēre]]''
 | accesero
 
 |-
-! style="height:3em;background:#c0cfe4" | [[future]]
+! style="height:3em;background:#c0cfe4" | future
 | accenderò
 | accenderai
 | accenderà
-| accenderemo
+| accende-remo
 | accenderete
 | accenderanno
 
 |-
-! style="height:3em;background:#c0cfe4" | [[conditional]]
-| accenderei
+! style="height:3em;background:#c0cfe4" colspan="2" | conditional
+| accende-rei
 | accenderesti
-| accenderebbe
-| accenderemmo
+| accende-rebbe
+| accende-remmo
 | accendereste
-| accenderebbero
+| accende-rebbero
 
 |-
-! style="background:#c0e4c0" colspan="2" | [[subjunctive]]
+! style="background:#c0e4c0" rowspan="3" | subjunc-tive
+! style="background:#c0e4c0" | 
 ! style="background:#c0e4c0" | che io
 ! style="background:#c0e4c0" | che tu
 ! style="background:#c0e4c0" | che lui/che lei
@@ -117,9 +116,7 @@ Latin ''accendere'' < ''[[ad-]] + [[candere|candēre]]''
 ! style="background:#c0e4c0" | che loro
 
 |-
-! rowspan="2" style="background:#c0e4c0" | simple<br>tenses
-
-! style="height:3em;background:#c0e4c0" | [[present]]
+! style="height:3em;background:#c0e4c0" | present
 | accenda
 | accenda
 | accenda
@@ -128,16 +125,16 @@ Latin ''accendere'' < ''[[ad-]] + [[candere|candēre]]''
 | accendano
 
 |-
-! style="height:3em;background:#c0e4c0" rowspan="1" | [[imperfect]]
+! style="height:3em;background:#c0e4c0" rowspan="1" | imper-fect
 | accendessi
 | accendessi
 | accendesse
-| accendessimo
+| accen-dessimo
 | accendeste
-| accendessero
+| accendes-sero
 
 |-
-! style="background:#e4d4c0" colspan="2" | 
+! colspan="2" rowspan="2" style="height:3em;background:#e4d4c0" | imperative
 ! style="background:#e4d4c0" | -
 ! style="background:#e4d4c0" | tu
 ! style="background:#e4d4c0" | lui/lei
@@ -146,7 +143,6 @@ Latin ''accendere'' < ''[[ad-]] + [[candere|candēre]]''
 ! style="background:#e4d4c0" | loro
 
 |-
-! colspan="2" style="height:3em;background:#e4d4c0" | [[imperative]]
 |
 | accendi
 | accenda
