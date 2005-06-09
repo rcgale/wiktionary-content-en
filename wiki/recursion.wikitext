@@ -1,10 +1,10 @@
-==Etymology==
-From Latin '''[[recursio]]''', ''[[running again]]'', from prefix '''[[re-]]''', ''again'', + '''[[cursio]]''', ''running'', from '''[[cursus]]''', perfect passive participle of '''[[currire]]''', ''[[run]]'', + noun of action suffix '''[[-io]]'''
-
 ==English==
-==Noun==
-'''recursion'''
+===Etymology===
+{{L.}} '''[[recursio]]''', ''[[running again]]'', from prefix '''[[re-]]''', ''again'', + '''[[cursio]]''', ''running'', from '''[[cursus]]''', perfect passive participle of '''[[currire]]''', ''[[run]]'', + noun of action suffix '''[[-io]]'''
 
+===Noun===
+'''recursion'''
+{{wikipedia}}
 #The act of [[recur]]ring.
 #(''mathematics'') The act of defining an object (usually a function) in terms of that object itself.
 #:''n! = n &times; (n &minus; 1)! (for n > 0) or 1 (for n = 0) defines the factorial function using recursion.''
@@ -22,10 +22,6 @@ The image below was generated using recursion, embedding a (former) image of thi
 *German: [[Rekursion]] ''f''
 *Russian: рекурсия ''f''
 
-<!-- cute, but not illustrative
-====Quotation====
-*"In order to understand recursion, one must first understand recursion."  -- Andrew Koenig, project editor of the ISO/ANSI C++ standards committee -->
-
 ====Related terms====
 *[[recur]]
 *[[recurse]]
@@ -33,7 +29,3 @@ The image below was generated using recursion, embedding a (former) image of thi
 *[[recursive acronym]]
 *[[tail recursion]]
 *[[infinite recursion]]
-
-====See also====
-*[[en:Recursion|Wikipedia article on recursion]]
-*[[en:Strange_loop|Wikipedia article on strange loops]]
