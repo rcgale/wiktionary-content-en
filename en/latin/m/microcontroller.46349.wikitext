@@ -1,44 +1,12 @@
-{{cleanup}}
-
+==English==
 ===Noun===
+{{wikipedia}}
 '''microcontroller'''
-#A type of [[integrated circuit]] that contains a small computer core, some memory, and several input/output devices. 
+#A [[microcomputer]] on a [[single]] [[chip]], used to [[control]] some [[device]]
 
-====Translations====
+===Translations===
 *Finnish: [[mikrokontrolleri]]
 
-===Related words===
-*[[CPU]]
-*[[computer]]
+===See also===
 *[[microprocessor]]
-
-See also [[w:microcontroller|microcontroller article in Wikipedia]]
-
-{{stub}}
-
---------------
-
-Please, link this kind of material to Wikipedia, Wiktionary uses dictionary style... -- AE
-
-
-Used extensively in industry, appliances, and vehicles. Manufactureres of low cost microcontrollers include Atmel, Microchip, Motorola, TI, Philips, Dallas, and Hitachi.
-
-A microcontroller is programmed before or after insertion into the circuit board with a [[computer program]] that governs its behaviour.
-
-A modern microcontroller will typically have:
-* 8 to 40 pin package
-* 8 or 16 bit CPU executing at 0.2 to 20 MIPS
-* 0.5kB to 128kB [[FLASH]] or [[EPROM]] program memory
-* 64 to 4096 bytes of RAM
-* Clock generator
-* Serial IO devices
-* Parallel digital IO ports
-* Timers and counters
-* A [[watchdog timer]] (or computer operating properly (COP) circuit)
-* [[Interupt controller]]
-
-A microcontroller may also have:
-* 1 to 16 channels of 8 to 12 bit analog to digital converter (ADC) inputs
-* [[Pulse width modulation]] (PWM) outputs
-* 64 to 4096 bytes [[EEPROM]]
-* [[In circuit programming]] port
+*[[microbot]]
