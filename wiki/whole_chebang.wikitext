@@ -5,7 +5,7 @@ A shebang consists of a [[number sign]] and an [[exclamation point]] character (
 The shebang is actually a human-readable instance of a [[Magic number (programming)#Magic numbers in files|magic number]] in the executable file (with shebang equalling the magic number 0x2321). Executable files that do not require an interpreter program start with other magic combinations. (See [[File format]] for more details of magic numbers.)
 
 Some typical shebang lines:
-* <code>#!/bin/bash</code> -- Execute using <code>bash</code> program in the <code>/bin/</code> directory, the [[Bourne shell]]
+* <code>#!/bin/bash</code> -- Execute using <code>[[bash]]</code> program in the <code>/bin/</code> directory
 * <code>#!/bin/csh</code> -- Execute using <code>csh</code>, the [[C shell]] instead
 * <code>#!/bin/perl</code> -- Execute using [[Perl]]
 * <code>#!/bin/sh</code> -- /bin/sh is a common system link set to point to the system's default shell. This shell is chosen by the user, but is often set to /bin/bash as a default. Be careful about using #!/bin/sh in your shell scripts, as not all user's system shells are the same. (Please note that /bin/sh was once an actual shell rather than a system link; /bin/sh was the predecessor of bash).
