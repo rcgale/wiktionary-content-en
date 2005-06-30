@@ -1,9 +1,1 @@
-'''computer science:''' A method dispatching technique describing the lookup rules for so-called "self calls", i.e. calls on one self. If two objects are connected with a delegation link, and the first calls the other entity through the link, then subsequent method lookup spawned by self calls will always take outset in the first entity rather than the second. Had the two entities been connected using a consultation link (traditional reference in most OO languages), then subsequent lookup would take place in the second entity.
-
-Using the rules of delegation one can describe the inheritance mechanism used in most single inheritance object-oriented programming languages. Additional advantages over inheritance is that delegation links can be established and removed at run-time and between arbitrary entities, whereas inheritance takes place on the type level typically at compile-time.
-
-In the early and mid 1990s a great dispute was unfolding over which mechanism, delegation or inheritance, was superior or in fact were the same. The document "the treaty of orlando"  seems to have settled the dispute.
-
---[[User:Kbg|Kbg]] 23:48, 7 Sep 2004 (UTC)
-
-[[pl:Delegation]]
+#redirect [[delegation]]
