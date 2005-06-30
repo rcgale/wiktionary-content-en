@@ -8,7 +8,7 @@ Some typical shebang lines:
 * <code>#!/bin/bash</code> -- Execute using <code>bash</code> program in the <code>/bin/</code> directory, the [[Bourne shell]]
 * <code>#!/bin/csh</code> -- Execute using <code>csh</code>, the [[C shell]] instead
 * <code>#!/bin/perl</code> -- Execute using [[Perl]]
-* <code>#!/bin/sh</code> -- /bin/sh is a common system link set to point to the system's default shell. This shell is chosen by the user, but is often set to /bin/bash as a default. Be careful about using #!/bin/sh in your shell scripts, as not all user's system shells are the same.
+* <code>#!/bin/sh</code> -- /bin/sh is a common system link set to point to the system's default shell. This shell is chosen by the user, but is often set to /bin/bash as a default. Be careful about using #!/bin/sh in your shell scripts, as not all user's system shells are the same. (Please note that /bin/sh was once an actual shell rather than a system link; /bin/sh was the predecessor of bash).
 
 Shebang lines can also include specific options that will be passed to the interpreter; see the examples below.  However, implementations differ widely on how options are parsed.
 
