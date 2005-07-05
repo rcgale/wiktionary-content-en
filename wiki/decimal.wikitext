@@ -3,32 +3,70 @@ From Latin ''[[decimalis]]'', from ''[[decem]]'', '''ten''' + adjective suffix '
 
 ==English==
 ===Adjective===
-'''decimal'''
+'''decimal''' (''no [[comparative]] or [[superlative]]'')
 
 #(''mathematics, computing'') Concerning mathematical calculations performed using [[base]] 10.
 
 ====Translations====
-* Dutch: [[decimaal]]
-* [[Esperanto]]: [[dekuma sistemo]]
-*{{msg:fi}} : [[desimaali-]], [[desimaalinen]]
-* French: [[nombre décimal]]
-* German: [[Dezimalsystem]] oder [[Zehnersystem]]
-* {{ga}}: [[deachúil]]
-* Japanese: [[10進数]]
-* Latin: [[decimalis]]
+*French: [[décimal]] ''m'', décimale ''f'', décimaux ''m plural'', décimales ''f plural''
 
 ===Noun===
-'''decimal'''
+'''decimal''' (''[[uncountable]] and [[countable]]; plural'' '''decimals''')
 
-#(''mathematics, computing'') The decimal number system, which uses the digits 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9.
+#(''mathematics, computing'') (''uncountable'') The decimal number system, which uses the digits 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9.
+#(''countable'') A number expressed in this system.
 
 ====Translations====
-*{{msg:fi}}: [[desimaaliluku]]
+
+'''number system'''
+{| border=0  width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from A to I here-->
+*French: [[nombre décimal]]
+*German: [[Dezimalsystem]], [[Zehnersystem]]
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from J to Z here-->
+|}
+|}
+
+'''number expressed in this system'''
+{| border=0  width=100%
+|-
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from A to I here-->
+|}
+| width=1% |
+|bgcolor="#FFFFE0" valign=top width=48%|
+{|
+<!--Put translations for languages from J to Z here-->
+|}
+|}
+
+=====Translations to be checked=====
+<!--Remove this section once all of the translations below have been moved into the tables above.-->
+{{checktrans}}
+
+*Dutch: [[decimaal]]
+*[[Esperanto]]: [[dekuma sistemo]]
+*Finnish: [[desimaali-]], [[desimaalinen]]
+*Finnish: [[desimaaliluku]]
+*{{ga}}: [[deachúil]]
+*Japanese: [[10進数]]
+*Latin: [[decimalis]]
 
 ===See also===
 *[[base]]
 *[[binary]]
 *[[hexadecimal]]
 *[[octal]]
+
+[[Category:Arithmetic]]
+[[Category:Computing]]
 
 [[it:decimal]]
