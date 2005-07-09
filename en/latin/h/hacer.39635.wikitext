@@ -39,7 +39,7 @@ From {{L.}} [[facere]]
 ! style="background:#C0C0C0;width:12.5%" | third
 
 |-
-! rowspan="5" style="background:#c0cfe4" | [[indicative]]
+! rowspan="5" style="background:#c0cfe4" | indicative
 
 ! style="background:#c0cfe4" colspan="1" | 
 ! style="background:#c0cfe4" | yo
@@ -50,7 +50,7 @@ From {{L.}} [[facere]]
 ! style="background:#c0cfe4" | ustedes
 
 |-
-! style="height:3em;background:#c0cfe4" | [[present]]
+! style="height:3em;background:#c0cfe4" | present
 | hago
 | haces
 | hace
@@ -59,16 +59,7 @@ From {{L.}} [[facere]]
 | hacen
 
 |-
-! style="height:3em;background:#c0cfe4" | [[preterite]]
-| hice
-| hiciste
-| hizo
-| hicimos
-| hicisteis
-| hicieron
-
-|-
-! style="height:3em;background:#c0cfe4" | [[imperfect]]
+! style="height:3em;background:#c0cfe4" | imperfect
 | hacía
 | hacías
 | hacía
@@ -77,7 +68,16 @@ From {{L.}} [[facere]]
 | hacían
 
 |-
-! style="height:3em;background:#c0cfe4" | [[future]]
+! style="height:3em;background:#c0cfe4" | preterite
+| hice
+| hiciste
+| hizo
+| hicimos
+| hicisteis
+| hicieron
+
+|-
+! style="height:3em;background:#c0cfe4" | future
 | haré
 | harás
 | hará
@@ -86,7 +86,7 @@ From {{L.}} [[facere]]
 | harán
 
 |-
-! colspan="2" style="height:3em;background:#c0cfe4" | [[conditional]]
+! colspan="2" style="height:3em;background:#c0cfe4" | conditional
 | haría
 | harías
 | haría
@@ -95,7 +95,7 @@ From {{L.}} [[facere]]
 | harían
 
 |-
-! rowspan="4" style="background:#c0e4c0" |[[subjunctive]]
+! rowspan="5" style="background:#c0e4c0" | subjunctive
 ! style="background:#c0e4c0" | 
 ! style="background:#c0e4c0" | yo
 ! style="background:#c0e4c0" | tú
@@ -132,7 +132,16 @@ From {{L.}} [[facere]]
 | hiciesen
 
 |-
-! colspan="2" rowspan="2" style="height:3em;background:#e4d4c0" | [[imperative]]
+! style="height:3em;background:#c0e4c0" rowspan="1" | future
+| hiciere
+| hicieres
+| hiciere
+| hiciéremos
+| hicieres
+| hicieren
+
+|-
+! colspan="2" rowspan="2" style="height:3em;background:#e4d4c0" | imperative
 ! style="background:#e4d4c0" | -
 ! style="background:#e4d4c0" | tu
 ! style="background:#e4d4c0" | usted
@@ -144,7 +153,7 @@ From {{L.}} [[facere]]
 |
 | haz
 | haga
-| 
+| hagamos
 | haced
 | hagan
 
