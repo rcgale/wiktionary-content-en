@@ -7,6 +7,7 @@
 
 #{{geometry}} A [[one-dimensional]] geometrical [[figure]] consisting of the [[set]] of all those [[point]]s in a [[plane]] that are equally [[distant]] from another point.
 #:''The set of all points (''x'', ''y'') such that <math>(x-1)^2 + y^2 = r^2 </math> is a circle of radius ''r'' around the point (1, 0).''
+#{{geometry}} (''also'' '''disc''' ''or'' '''disk''') A [[two-dimensional]] geometrical figure consisting of the set of all those points of a plane at a distance less than or equal to a fixed distance from another point.
 #A curve that more or less forms part or all of a circle.
 #:''move in a circle''
 #[[Orbit]].
@@ -24,36 +25,32 @@
 *(''in cricket''):
 
 ==== Translations ====
+
 '''one-dimensional geometrical figure'''
 {{top}}
-*Breton: [[kelc'h]] ''m'' -ioù ''pl''
-*Finnish: [[ympyrä]]
 *French: [[cercle]] ''m''
-*German: [[Kreis]] ''m''
 {{mid}}
 *Italian: [[circolo]] ''m''
-*Russian: [[круг]] ''m''
+{{bottom}}
+
+'''two-dimensional geometrical figure'''
+{{top}}
+*French: [[disque]] ''m''
+{{mid}}
 {{bottom}}
 
 '''curve'''
 {{top}}
-*Finnish: [[kaari]]
-*German: [[Kreis]] ''m''
 {{mid}}
 {{bottom}}
 
 '''orbit'''
 {{top}}
-*Breton: [[kelc'h]] ''m'' -ioù ''pl''
-*Finnish: [[rata#Finnish|rata]] (2)
 {{mid}}
-*Russian: [[окружность]] ''f''
 {{bottom}}
 
 '''group of persons'''
 {{top}}
-*Finnish: [[piiri]]
-*German: [[Zirkel]] ''m''
 {{mid}}
 {{bottom}}
 
@@ -66,10 +63,13 @@
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 {{checktrans}}
 
+*[[Breton]]: [[kelc'h]] ''m'' -ioù ''pl'' (1,2)
 *Chinese: [[圓]] (yuan, yuan2), (yuanxing, yuan2xing2)
 *Czech: [[kolo]] ''n'', [[kruh]] ''m''
 *Danish: [[cirkel]]
 *Dutch: [[cirkel]] ''m''
+*Finnish: [[ympyrä]] (1), [[rata#Finnish|rata]] (2), [[kaari]] (3), [[piiri]] (4)
+*German: [[Kreis]] ''m'' (1,2,4), [[Zirkel]] ''m'' (4)
 *Greek: <!--please provide the Greek-->(kyklo)
 *Hebrew: [[עגול]] /igul'/
 *Indonesian: [[lingkar|lingkaran]], [[bundar|bundaran]]
@@ -79,41 +79,29 @@
 *Portuguese: [[círculo]] ''m''
 *Polish: [[okrąg]] ''m'', [[krąg]] ''m''
 *Romanian: [[cerc]] ''n''
+*Russian: [[круг]] ''m'' (1), [[окружность]] ''f'' (2)
 *Spanish: [[círculo]] ''m''
 
-===Verb===
+===Transitive verb ===
 '''to circle''' ('''circles''', '''circling''', '''circled''')
-====Transitive====
+
 #To [[travel]] [[around]] along a curved path.
-#To [[surround]].
-#To [[place]] or [[mark]] a [[circle]] around.
+#To surround.
+#To place or mark a circle around.
 #:''Circle the jobs that you are interested in applying for.''
 
-===== Translations =====
+==== Translations ====
 
 '''travel around along a curved path'''
 {{top}}
-*Finnish: [[kiertää]]
-*French: [[cercler]]
-*German: [[umkreisen]]
 {{mid}}
-*Russian: [[кружить]]
 {{bottom}}
 
 '''surround'''
-{{top}}
-*Finnish: [[ympäröidä]]
-*French: [[entourer]]
-*German: [[umkreisen]], [[einkreisen]]
-*Italian: [[circondare]]
-{{mid}}
-*Russian: [[окружать]]
-{{bottom}}
+''See'' '''[[surround]]'''
 
 '''place or mark a circle around'''
 {{top}}
-*Finnish: [[ympäröidä]], [[ympyröidä]] (''draw a circle'')
-*German: [[einkreisen]]
 {{mid}}
 {{bottom}}
 
@@ -125,26 +113,24 @@
 *Czech: [[kroužit]]
 *Danish: [[omkredse]]
 *Dutch: [[cirkelen]]
+*Finnish: [[kiertää]] (1), [[ympäröidä]] (2, 3), [[ympyröidä]] (3, ''draw a circle'')
+*French: [[cercler]] (1); [[entourer]] (2)
+*German: [[umkreisen]] (1,2), [[einkreisen]] (2,3)
 *Indonesian''': [[keliling|mengelilingi]], [[kitar|mengitari]]
 *Interlingua: [[circular]]
 *Irish: [[ciorcal]]
+*Italian: [[circondare]] (2)
 *Japanese: [[回る]] ([[まわる]], mawaru), [[周回]]する ([[しゅうかい]]する, shūkai-suru)
 *Portuguese: [[circular]]
 *Polish: [[krążyć]]
 *Romanian: [[încercui]]
+*Russian: [[кружить]] (1), [[окружать]] (2)
 
-====Intransitive====
+===Intransitive verb===
 '''to circle''' ('''circles''', '''circling''', '''circled''')
 
 #To travel in circles.
 #:''Vultures circled overhead.''
-
-=====Translations=====
-'''travel in circles'''
-{{top}}
-*German: [[kreisen]]
-{{mid}}
-{{bottom}}
 
 [[Category:Shapes]]
 [[Category:1000 English basic words]]
