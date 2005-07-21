@@ -9,19 +9,19 @@ Latin ''[[acceleratio]]''; compare French ''[[accélération]]''
 ===Noun===
 '''acceleration''' (''[[countable]] and [[uncountable]]''; ''plural'' '''accelerations''')
 
-#(''uncountable'') The act of accelerating, or the state of being accelerated; increase of motion or action; as opposed to [[retardation]] or [[deceleration]].
+#<!--DefA-->(''uncountable'') The act of accelerating, or the state of being accelerated; increase of motion or action; as opposed to [[retardation]] or [[deceleration]].
 #:''a falling body moves toward the earth with an '''acceleration''' of velocity''
-#(''countable'') The amount by which a [[speed]] or [[velocity]] decreases (and so a [[scalar quantity]] or a [[vector quantity]]).
+#<!--DefB-->(''countable'') The amount by which a [[speed]] or [[velocity]] decreases (and so a [[scalar quantity]] or a [[vector quantity]]).
 #:''The boosters produce an acceleration of 20 metres per second per second.''
 #:'''Quotations'''
 #::A period of social improvement, or of intellectual advancement, contains within itself a principle of '''acceleration''' &mdash; I. Taylor
-#{{physics}} The change of [[speed]] with respect to [[time]].
+#<!--DefC-->{{physics}} The change of [[speed]] with respect to [[time]].
 
 ====Usage note====
 Acceleration in [[SI]] units is measured in [[metre]]s per second per second (m/s<sup>2</sup>), or in [[imperial]] units in feet per second per second (ft/s<sup>2</sup>).
 
 ====Antonyms====
-*(''act, state, amount''): [[deceleration]], [[retardation]]
+*<!--DefA--><!--DefB--><!--DefC-->(''act, state, amount''): [[deceleration]], [[retardation]]
 
 ===Related terms===
 *[[accelerate]]
@@ -38,42 +38,47 @@ Acceleration in [[SI]] units is measured in [[metre]]s per second per second (m/
 
 ====Translations====
 
-'''act, state'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
+<!--DefA-->'''act, state'''
+{{top}}
 <!--Put translations for languages from A to I here-->
+*Dutch: [[versnelling]] ''f'', [[acceleratie]] ''f''
 *Finnish: [[kiihdytys]]
 *French: [[accélération]] ''f''
 *German: [[Beschleunigung]] ''f''
+*[[Interlingua]]: acceleration
 *Italian: [[accelerazione]] ''f''
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
+{{mid}}
 <!--Put translations for languages from J to Z here-->
 *[[Norwegian]]: [[akselerasjon]] ''c''
-|}
-|}
+*Portuguese: [[aceleração]] ''f''
+*Romanian: [[acceleraţie]] ''f''
+*[[Romanica]]: acceleration ''f''
+*Spanish: [[aceleración]]
+{{bottom}}
 
-'''amount'''
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
+<!--DefB-->'''amount'''
+{{top}}
 <!--Put translations for languages from A to I here-->
+*Dutch: [[versnelling]] ''f'', [[acceleratie]] ''f''
 *Finnish: [[kiihtyvyys]]
 *French: [[accélération]] ''f''
 *German: [[Beschleunigung]] ''f''
 *Italian: [[accelerazione]] ''f''
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
+{{mid}}
 <!--Put translations for languages from J to Z here-->
-|}
-|}
+{{bottom}}
+
+<!--DefC-->'''(physics)'''
+{{top}}
+<!--Put translations for languages from A to I here-->
+*Dutch: [[versnelling]] ''f'', [[acceleratie]] ''f''
+*French: [[accélération]] ''f''
+*German: [[Beschleunigung]] ''f''
+*Italian: [[accelerazione]] ''f''
+{{mid}}
+<!--Put translations for languages from J to Z here-->
+{{bottom}}
+
 
 =====Translations to be checked=====
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
@@ -83,14 +88,9 @@ The translations below need to be checked by native speakers and inserted into t
 
 *Hebrew: [[תאוצה]] ''f''
 *Indonesian: [[cepat|percepatan]]
-*[[Interlingua]]: acceleration
 *Japanese: [[加速度]] ([[かそくど]], kasokudo) (1)
 *Polish: [[przyśpieszenie]] ''n''
-*Portuguese: [[aceleração]] ''f''
-*Romanian: [[acceleraţie]] ''f''
-*[[Romanica]]: acceleration ''f''
 *Russian: [[ускорение]]
-*Spanish: [[aceleración]]
 *Swedish: acceleration
 
 ----
@@ -99,23 +99,23 @@ The translations below need to be checked by native speakers and inserted into t
 ===Noun===
 '''acceleration'''
 
-#acceleration
+#<!--DefA-->acceleration
 
 ----
 ==Romanica==
 ===Noun===
 '''acceleration'''
 
-#acceleration
+#<!--DefA-->acceleration
 
 ----
 ==Swedish==
 ===Noun===
 '''acceleration'''
 
-#acceleration
+#<!--DefA-->acceleration
 
 [[it:acceleration]]
-[[pl:Acceleration]]
+[[pl:acceleration]]
 [[sv:acceleration]]
 [[fr:acceleration]]
