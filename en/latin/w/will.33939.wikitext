@@ -3,13 +3,14 @@
 ===Noun===
 '''will''' (''plural'' '''[[wills]]''')
 
-#A person's intent, [[volition]], decision.
-#A legal document that states who is to receive a person's [[estate]] and [[asset]]s after their death.
+#<!--DefA-->A person's intent, [[volition]], decision.
+#<!--DefB-->A legal document that states who is to receive a person's [[estate]] and [[asset]]s after their death.
 
 ====Translations====
-'''volition'''
+<!--DefA-->'''volition'''
 {{top}}
 *Czech: [[vůle]] ''f''
+*Dutch: [[wens]] ''m''
 *[[Esperanto]]: [[volo]]
 *Finnish: [[tahto]]
 *French: [[volonté]] ''f''
@@ -19,9 +20,10 @@
 *Swedish: [[vilja]] ''c'', [[önskan]] ''c''
 {{bottom}}
 
-'''legal document'''
+<!--DefB-->'''legal document'''
 {{top}}
 *Czech: [[testament#Czech|testament]] ''m''
+*Dutch: [[testament]] ''n'', [[laatste wilsbeschikking]] ''f''
 *[[Esperanto]]: [[testamento#Esperanto|testamento]]
 *Finnish: [[testamentti]]
 *French: [[testament#French|testament]] ''m''
@@ -36,7 +38,7 @@
 ===Auxiliary verb===
 '''will''' (''past tense'' '''[[would]]''')
 
-#Indicating intent to perform the action in the future, or expectation of an event in the future.
+#<!--DefC-->Indicating intent to perform the action in the future, or expectation of an event in the future.
 #:''I will go to the store.''
 #:''It will rain this afternoon.''
 <!--There are actually many more meanings as an auxiliary verb.-->
@@ -48,31 +50,35 @@
 
 ====Translations====
 
-'''indicating future action'''
+<!--DefC-->'''indicating future action'''
 {{top}}
+*Dutch: [[zullen]]
+*Esperanto: ''Use the future form of the verb that follows''
+**''I will go to the store'' - Mi ir'''os''' al la vendejo
 *French: ''Use the future form of the verb that follows''
 **''I will go to the store'' - J'irai au magasin
+*German: [[werden]]
 *Italian: ''Use the future form of the verb that follows''
 **''I will go to the store'' - Andrò al negozio
 {{mid}}
+*Spanish: ''Use the future form of the verb that follows''
+**''I will go to the store'' - Iré a la tienda
 {{bottom}}
 
 =====Translations to be checked=====
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 {{checktrans}}
 
-*Esperanto: ...-os (1), [[voli]] (2)
-*German: [[werden]]
 *Swedish: [[kommer att]]
 
 ===Transitive verb===
 '''will''' ('''wills''', '''willing''', '''willed''')
-#To try to make (something) happen by using one's will (intention).
+#<!--DefD-->To try to make (something) happen by using one's will (intention).
 #:''All the fans were willing their team to win the game.''
-#To [[bequeath]] (something) to someone in one's will (legal document).
+#<!--DefE-->To [[bequeath]] (something) to someone in one's will (legal document).
 
 ====Synonyms====
-*(''bequeath''): [[bequeath]], [[leave]]
+*<!--DefE-->(''bequeath''): [[bequeath]], [[leave]]
 
 ===See also===
 *[[volition]]
@@ -92,24 +98,38 @@
 ===Transitive verb===
 '''will''', third person singular '''[[wills]]''', present participle '''[[willing]]''', past and past participle '''[[willed]]'''
 
-# intend, decide to do something, wish strongly
+#<!--DefF--> intend, decide to do something, wish strongly
 #: "Sophia can win the race if she wills it."
-# Give instructions for disposing of (something) in a will.
+#<!--DefG--> Give instructions for disposing of (something) in a will.
 #:''He willed his stamp collection to the local museum.''
 
 ====Translations====
+<!--DefF--> '''to wish strongly'''
+{{top}}
+*Dutch: [[hard genoeg willen]]
+*Esperanto: [[voli]]
+{{mid}}
+*Swedish: [[vilja]]
+{{bottom}}
 
-*Esperanto: [[voli]] (1), [[testamenti]] (2)
-*Swedish: [[vilja]] (1), [[testamentera]] (2)
+<!--DefG--> '''to add to a testament'''
+{{top}}
+*Dutch: [[toevoegen aan een testament]]
+*Esperanto: [[testamenti]]
+{{mid}}
+*Swedish: [[testamentera]]
+{{bottom}}
 
-[[pt:Will]]
+[[pt:will]]
 [[sv:will]]
 [[Category:Positive words]]
 
 ----
 ==German==
-
-'''will'''
 ===Verb===
-# ''First and third person singular of [[wollen]]'', [[want]]
+'''will'''
+
+#<!--DefH--> ''First person singular of [[wollen]]'', [[want]]
+#<!--DefI--> ''Third person singular of [[wollen]]'', [[want]]
+
 [[Category:100 English basic words]]
