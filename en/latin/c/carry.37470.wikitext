@@ -1,53 +1,99 @@
 ==English==
-
 ===Transitive verb===
 '''to carry'''  ([[carries]], [[carried]], [[carrying]])
-# to [[lift]] and bring to somewhere else; to [[transport]] by lifting
-# to [[stock]] or [[supply]]
+
+#<!--VTrTransport--> to [[lift]] and bring to somewhere else; to [[transport]] by lifting
+#<!--VTrStock--> to [[stock]] or [[supply]]
 #:''The corner drugstore doesn't '''carry''' his favorite brand of aspirin.''
-#to [[adopt]]; [[take over]] or [[stand in]]
+#<!--VTrTakeOver-->to [[adopt]]; [[take over]] or [[stand in]]
 #:''I think I can carry Smith's work while she is out.''
-# when [[adding]] numbers by hand, to move a quantity in excess of what is countable in the [[units]] in a column into the column with the next higher units
+#<!--VTrTransfer--> when [[adding]] numbers by hand, to move a quantity in excess of what is countable in the [[units]] in a column into the column with the next higher units
 #:''Five and nine are fourteen; '''carry''' the one to the tens place.''
 
-
-
 ====Translations====
-to transport by lifting
-{| border=0  width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
+<!--VTrTransport-->'''to transport by lifting'''
+{{top}}
 <!--Put translations for languages from A to I here-->
-*Catalan: portar
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--Put translations for languages from J to Z here-->
-*Russian: [[нести]]
-|}
-|}
-
-{{checktrans}}<!--the following translations were written for def. 1 before the others were added-->
+*Catalan: [[portar]]
 *Dutch: [[dragen]]
 *French: [[porter]]
 *German: [[tragen]]
+{{mid}}
+<!--Put translations for languages from J to Z here-->
+*Russian: [[нести]]
+*Spanish: [[llevar]]
+{{bottom}}
+
+#<!--VTrStock--> '''to stock or supply'''
+{{top}}
+<!--Put translations for languages from A to I here-->
+*Dutch: [[beschikbaar hebben]], [[ter beschikking hebben]]
+{{mid}}
+<!--Put translations for languages from J to Z here-->
+{{bottom}}
+
+#<!--VTrTakeOver--> '''to adopt; take over or stand in'''
+{{top}}
+<!--Put translations for languages from A to I here-->
+*Dutch: [[overnemen]]
+{{mid}}
+<!--Put translations for languages from J to Z here-->
+{{bottom}}
+
+#<!--VTrTransfer--> '''Transfer digit to next higher units'''
+{{top}}
+<!--Put translations for languages from A to I here-->
+*Dutch: [[overdragen]]
+{{mid}}
+<!--Put translations for languages from J to Z here-->
+{{bottom}}
+
+{{checktrans}}<!--the following translations were written for def. 1 before the others were added-->
 *[[Hungarian]]: [[visz]]
 *Italian: [[portare]]
 *Latin: [[portare]], [[tulere]], [[vehere]]
 *Portuguese: [[carregar]], [[levar]]
-*Spanish: [[llevar]]
 *Welsh: [[cario]]
 
 ===Intransitive verb===
-#to [[transmit]] or [[travel]]
+#<!--VIntrTransmit-->to [[transmit]] or [[travel]]
 #:''The sound of the bells '''carried''' for miles on the wind.''
 
-===Noun===
-#a manner of transporting or lifting something; the [[grip]] or [[position]] in which something is carried
-#:''Adjust your '''carry''' from time to time so that you don't tire too quickly.''
+====Translations====
+<!--VIntrTransmit--> '''to transmit or travel'''
+{{top}}
+<!--Put translations for languages from A to I here-->
+*Dutch: [[dragen]], [[te horen zijn]]
+{{mid}}
+<!--Put translations for languages from J to Z here-->
+{{bottom}}
 
-[[io:Carry]]
+
+===Noun===
+#<!--NGrip-->a manner of transporting or lifting something; the [[grip]] or [[position]] in which something is carried
+#:''Adjust your '''carry''' from time to time so that you don't tire too quickly.''
+#<!--NCounting-->''informatics'' The bit/digit that transfers over to the next higher units
+
+====Translations====
+<!--NGrip-->'''a manner of transporting or lifting something'''
+{{top}}
+<!--Put translations for languages from A to I here-->
+*Dutch: [[greep]] ''m''
+{{mid}}
+<!--Put translations for languages from J to Z here-->
+{{bottom}}
+
+#<!--NCounting-->''informatics'' 
+{{top}}
+<!--Put translations for languages from A to I here-->
+*Dutch: [[overdracht]] ''m''
+{{mid}}
+<!--Put translations for languages from J to Z here-->
+{{bottom}}
+
+===Related words===
+*[[carry on]]
+
+[[io:carry]]
 [[it:carry]]
 [[sv:carry]]
