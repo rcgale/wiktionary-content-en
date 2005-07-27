@@ -39,16 +39,26 @@ Also, the Perl interpreter is run without extra warnings being enabled.
  # The rest of the Perl script
  ...
 
-Sometimes, the exact path to the required interpreter is not known, so the env program can be used instead to search for it.
+<div id="env">
+Invocation via the [[env]] program is useful for two purposes:
+*searching for a program via the PATH environment variable
 
  #!/usr/bin/env python
  #
  # The rest of the Python script
  ...
 
+*invoking a program which is itself a <code>#!</code> script.
+
+ #!/usr/bin/env /usr/local/bin/[http://Yost.com/computers/compileAndGo compileAndGo]
+ ...
+
+</div>
+
 ==External links==
 *[http://homepages.cwi.nl/~aeb/std/shebang/ Details about the shebang mechanism on various Unix flavours]
 *[[FOLDOC:shebang|FOLDOC shebang article]]
+*[[http://info.unix-fu.org/General-UNIX/UnixFAQ3of7.txt unix faq]] (search for #! there)
 
 [[de:Shebang]]
 [[fr:Sha-bang]]
