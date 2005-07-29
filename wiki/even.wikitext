@@ -2,39 +2,43 @@
 ===Adjective===
 '''even''' ({{compar}} '''more even''', {{superl}} '''most even''')
 
-#Flat and level.
+#<!--AdjFlat+Level-->Flat and level.
 #:''Clear out those rocks.  The surface must be even.''
-#Without great variation.
+#<!--AdjWithoutVariation-->Without great variation.
 #:''Despite her fear, she spoke in an even voice.''
 #:''The distribution of food must be even.''
-#{{arithmetic}} (''no comparative or superlative'') Leaving no remainder when divided by 2.
+#<!--AdjDividableBy2-->{{arithmetic}} (''no comparative or superlative'') Leaving no remainder when divided by 2.
 #: ''Four, fourteen and forty are even numbers.''
 
 ==== Synonyms ====
-*(''flat and level''): [[flat]], [[level]], [[uniform]]
-*(''without great variation''): [[monotone]] (''voice'')
+*<!--AdjFlat+Level-->(''flat and level''): [[flat]], [[level]], [[uniform]]
+*<!--AdjWithoutVariation-->(''without great variation''): [[monotone]] (''voice'')
 
 ==== Antonyms ====
-*(''flat and level''): [[uneven]]
+*<!--AdjFlat+Level-->(''flat and level''): [[uneven]]
 *(''arithmetic''): [[odd]]
 
 ==== Translations ====
-'''flat and level'''
+<!--AdjFlat+Level-->'''flat and level'''
 {{top}}
+*Dutch: [[vlak]], [[vlakke]], [[gelijk]], [[gelijke]]
 {{mid}}
 *Russian: [[ровный]], [[гладкий]]
 {{bottom}}
 
-'''without great variation'''
+<!--AdjWithoutVariation-->'''without great variation'''
 {{top}}
+*Dutch: [[gelijke]], [[gelijkmatig]], [[gelijkmatige]]
 {{mid}}
 *Russian: [[ровный]]
 *Swedish: [[stadig]] (''voice'')
 {{bottom}}
 
-'''arithmetic: leaving no remainder when divided by 2'''
+<!--AdjDividableBy2-->'''arithmetic: leaving no remainder when divided by 2'''
 {{top}}
-*French: [[pair#French|pair]] ''m'', paire ''f''
+*Dutch: even, [[paar]], [[pare]]
+*Finnish: [[parillinen]]
+*French: [[pair#French|pair]] ''m'', [[paire]] ''f''
 *German: [[gerade]]
 {{mid}}
 *Italian: [[pari#Italian|pari]]
@@ -45,23 +49,23 @@
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 {{checktrans}}
 *CJK Characters: [[齊]], [[齐]]
-*Finnish: [[parillinen]] (3)
 *Swedish: [[jämn]] (1,2,3), [[slät]] (1)
 
 === Adverb ===
 '''even'''
 
-#At least.
+#<!--AdvAtLeast-->At least.
 #:''Even a blind squirrel finds an acorn sometimes.''
 #:''Did you even make it through the front door?''
-#Used as an intensifier in a context indicating progression. <!-- help? -->
+#<!--AdvIntensifier-->Used as an intensifier in a context indicating progression. <!-- help? -->
 #:''I didn't even make it through the front door before someone stopped me.''
 #:''That was before I was even born.''
 
 ==== Translations ====
 
-'''at least'''
+<!--AdvAtLeast-->'''at least'''
 {{top}}
+*Dutch: [[zelfs]]
 *French: [[même]]
 *Italian: [[anche]]
 {{mid}}
@@ -69,8 +73,9 @@
 *Swedish: [[även]]
 {{bottom}}
 
-'''intensifier'''
+<!--AdvIntensifier-->'''intensifier'''
 {{top}}
+*Dutch: (niet) [[eens]], [[zelfs]]
 {{mid}}
 *Russian: [[даже]], [[вообще]] 
 *Swedish: [[ens#Swedish|ens]]
@@ -84,28 +89,40 @@
 
 === Verb ===
 {{en-infl-reg-consonant|even||}}
-# To make even (that is, flat and level).
+
+#<!--VTrMakeFlat--> To make even (that is, flat and level).
 #:''We need to even this playing field; the west goal is too low.''
 
 ==== Synonyms ====
+<!--VTrMakeFlat-->
 *[[flatten]]
 *[[level]]
 
 ====Translations====
 
-'''make even'''
+<!--VTrMakeFlat-->'''make even'''
 {{top}}
+*Dutch: [[evenen]], [[gelijkmaken]], [[platmaken]]
 {{mid}}
 *Russian: [[ровнять]], [[выравнивать]]
 *Swedish: [[jämna]], [[jämna ut]], [[plana ut]], [[platta till]]
 {{bottom}}
 
 === Noun ===
-#(''archaic'') The [[evening]] of the day.
+#<!--NEvening-->(''archaic'') The [[evening]] of the day.
 
 ==== Synonyms ====
+<!--NEvening-->
 *[[e'en]] (''archaic'')
 *[[evening]]
+
+====Translations====
+
+<!--NEvening-->'''make even'''
+{{top}}
+*Dutch: [[avondstond]]
+{{mid}}
+{{bottom}}
 
 ===Derived terms ===
 *[[even-handed]]
@@ -120,6 +137,6 @@
 
 [[Category:200 English basic words]]
 
-[[io:Even]]
+[[io:even]]
 [[it:even]]
 [[sv:even]]
