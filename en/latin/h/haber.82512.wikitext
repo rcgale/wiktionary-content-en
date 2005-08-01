@@ -35,7 +35,7 @@
 ! style="background:#C0C0C0;width:12.5%" | third
 
 |-
-! rowspan="5" style="background:#c0cfe4" | [[indicative]]
+! rowspan="5" style="background:#c0cfe4" | indicative
 
 ! style="background:#c0cfe4" colspan="1" | 
 ! style="background:#c0cfe4" | yo
@@ -46,7 +46,7 @@
 ! style="background:#c0cfe4" | ustedes
 
 |-
-! style="height:3em;background:#c0cfe4" | [[present]]
+! style="height:3em;background:#c0cfe4" | present
 | he
 | has
 | ha, hay
@@ -55,16 +55,7 @@
 | han
 
 |-
-! style="height:3em;background:#c0cfe4" | [[preterite]]
-| hube
-| hubiste
-| hubo
-| hubimos
-| hubisteis
-| hubieron
-
-|-
-! style="height:3em;background:#c0cfe4" | [[imperfect]]
+! style="height:3em;background:#c0cfe4" | imperfect
 | había
 | habías
 | había
@@ -73,7 +64,16 @@
 | habían
 
 |-
-! style="height:3em;background:#c0cfe4" | [[future]]
+! style="height:3em;background:#c0cfe4" | preterite
+| hube
+| hubiste
+| hubo
+| hubimos
+| hubisteis
+| hubieron
+
+|-
+! style="height:3em;background:#c0cfe4" | future
 | habré
 | habrás
 | habrá
@@ -82,7 +82,7 @@
 | habrán
 
 |-
-! colspan="2" style="height:3em;background:#c0cfe4" | [[conditional]]
+! colspan="2" style="height:3em;background:#c0cfe4" | conditional
 | habría
 | habrías
 | habría
@@ -91,7 +91,7 @@
 | habrían
 
 |-
-! rowspan="3" style="background:#c0e4c0" |[[subjunctive]]
+! rowspan="3" style="background:#c0e4c0" | subjunctive
 ! style="background:#c0e4c0" | 
 ! style="background:#c0e4c0" | yo
 ! style="background:#c0e4c0" | tú
@@ -110,16 +110,34 @@
 | hayan
 
 |-
-! style="height:3em;background:#c0e4c0" rowspan="1" | preterite
-| hubiera<br>hubiese
-| hubieras<br>hubieses
-| hubiera<br>hubiese
-| hubiéramos<br>hubiésemos
-| hubieras<br>hubieses
-| hubieran<br>hubiesen
+! style="height:3em;background:#c0e4c0" rowspan="1" | imperfect<br>(ra)
+| hubiera
+| hubieras
+| hubiera
+| hubiéramos
+| hubierais
+| hubieran
 
 |-
-! colspan="2" rowspan="2" style="height:3em;background:#e4d4c0" | [[imperative]]
+! style="height:3em;background:#c0e4c0" rowspan="1" | imperfect<br>(se)
+| hubiese
+| hubieses
+| hubiese
+| hubiésemos
+| hubieseis
+| hubiesen
+
+|-
+! style="height:3em;background:#c0e4c0" rowspan="1" | future
+| hubiere
+| hubieres
+| hubiere
+| hubiéremos
+| hubiereis
+| hubieren
+
+|-
+! colspan="2" rowspan="2" style="height:3em;background:#e4d4c0" | imperative
 ! style="background:#e4d4c0" | -
 ! style="background:#e4d4c0" | tu
 ! style="background:#e4d4c0" | usted
@@ -129,7 +147,7 @@
 
 |-
 |
-| hé
+| he
 | haya
 | hayamos
 | habed
