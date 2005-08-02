@@ -1,41 +1,28 @@
-{{rfc}} - nested definitions not per [[WS:ELE]]
-
 ==Swedish==
-
 ===Noun===
 '''tryck'''
-#[[pressure]]
-##[[force]] per unit of [[area]]
-##[[mental]] strain
-#[[print]]; [[printing]]
+#<!--DefForce-->[[pressure]]; [[force]] per unit of [[area]]
+#<!--DefStrain-->pressure; [[mental]] strain
+#<!--DefPrint-->(''uncountable''): [[print]], visible impression on a surface
+#<!--DefPrinted-->something [[printed]]
 
-====Conjugations====
-{| border=1 cellspacing=0 
-| bgcolor=#FFFFF0 colspan=5 align=center | '''Neuter''' 
-|- 
-|- bgcolor=#FFFFF0 align=center 
-! rowspan=2 | 
-| colspan=2 width=105 | ''Singular'' 
-| colspan=2 | ''Plural'' 
-|- bgcolor=#FFFFF0 align=center 
-| width=105 | ''Indefinite'' 
-| width=105 | ''Definite'' 
-| width=105 | ''Indefinite'' 
-|  width=105 | ''Definite'' 
-|- align=center 
-| width=105 bgcolor=#FFFFF0 | ''Nominative'' 
-| [[tryck]] 
-| [[trycket]] 
-| [[tryck]] 
-| [[trycken]] 
-|- align=center 
-| width=105 bgcolor=#FFFFF0 | ''Genitive'' 
-| [[trycks]] 
-| [[tryckets]] 
-| [[trycks]] 
-| [[tryckens]] 
-|} 
+====Inflections====
+{{sv-noun|gender=Neuter|tryck|trycket|tryck|trycken|trycks|tryckets|trycks|tryckens}}
+
+====Synonyms====
+*<!--DefPrinted-->[[trycksak]] (4)
 
 ====Related terms====
-*[[tryckning]] (2)
-*[[tryckeri]] (2)
+*<!--DefPrint-->[[tryckning]] (3,4)
+*<!--DefPrint-->[[tryckeri]] (3,4)
+*<!--DefPrint-->[[tryckpress]] (3,4)
+*<!--DefForce--><!--DefStrain--><!--DefPrint--><!--DefPrinted-->[[trycka]] (1,2,3,4)
+
+===Verb===
+'''tryck'''
+#<!--DefToPrint-->''imperative'' of [[trycka]]
+
+
+
+===See also===
+*[[tryckare]]
