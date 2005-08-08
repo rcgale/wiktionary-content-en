@@ -9,6 +9,10 @@
 #The [[upper]] [[bony]] [[ridge]] of the [[human]] [[nose]].
 #(''dentistry'') A [[prosthesis]] replacing one or several adjacent [[tooth|teeth]].
 #{{nautical}} An [[elevated]] [[platform]] above the upper [[deck]] of a [[mechanically]] [[propel]]led [[ship]] from which it is [[navigate]]d and from which all activities on deck can be seen and controlled by the [[captain]], etc; smaller ships have a [[wheelhouse]], and [[sailing ship]]s were controlled from the [[quarterdeck]].
+#(''computing'') A device which connects two or more [[computer]] [[bus|buses]], typically in a transparent manner.
+#: ''This chip is the bridge between the front-side bus and the I/O bus.''
+#(''communications'') A system which connects two or more [[LAN|local area networks]] at layer 2.
+#: ''The LAN bridge uses a spanning tree algorithm.''
 
 ====Translations====
 
@@ -87,6 +91,10 @@
 '''to bridge'''
 
 # To [[span]] a divide, allowing passage from one side to the other.
+# To allow transparent operation between [[computer]] [[buses]].
+#: ''We will bridge the bus traffic through this chip.
+# To allow communication between [[LAN|local area networks]] at layer 2.
+#: ''This box bridges the LANs.''
 
 ====Translations====
 {{top}}
