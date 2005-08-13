@@ -1,0 +1,12 @@
+== IBM definition ==
+IBM[http://publib-b.boulder.ibm.com/Redbooks.nsf/RedbookAbstracts/tips0047.html?Open] defines '''Recovery Point Objective''' as the age of the data you want the ability to restore in the event of a disaster. For example, if your '''RPO''' is 6 hours, you want to be able to restore systems back to the state they were in, as of no longer than 6 hours ago. To achieve this, you need to be making backups or other data copies at least every 6 hours. Any data created or modified inside your recovery point objective will be either lost or must be recreated during a recovery. If your '''RPO''' is that no data is lost, synchronous remote copy solutions are your only choice.
+
+== DRJ definition ==
+DRJ[http://www.drj.com/glossary/drjglossary.html#r] defines '''Recovery Point Objective''' as the point in time to which systems and data must be recovered after an outage as determined by the business unit.
+
+
+== InformationWeek definition ==
+InformationWeek[http://informationweek.com/story/showArticle.jhtml?articleID=164901978] defines '''Recovery Point Objective''' as the point in time before the disaster to which data will be restored.
+
+== Greer definition ==
+How much data you can afford to lose.
