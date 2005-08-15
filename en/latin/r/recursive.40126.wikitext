@@ -1,8 +1,9 @@
 ==English==
 ===Adjective===
 
-# {{computing}} Defined partly in terms of itself
-#: ''The recursive definition of factorial can be implemented just as efficiently as the iterative one''
+# (mathematics and computing) Defined partly in terms of itself
+#:''The [[factorial]] of a [[natural number]] is the [[product]] of that number by all lesser numbers. For example, the factorial of 10 is 10 x 9 x 7 x ... x 2 x 1. The recursive way to calculate the factorial of, say, 10 is to express the result as 10 times the factorial of 9 (which we do not know). We store this intermediate result, then say that the factorial of 9 is 9 times the factorial of 8 (wwdnk). and so on until: ... we know that the factorial of 1 is 1, so we can plug this value in, which lets us know the factorial of 2, and so on back up the tree until ... we know the factorial of 9, multiply it by 10, and we have the answer.''
+<!-- the previous example told us that the recursive algorithm was efficient, but didn't illustrate what it was. The horrendous example I give explains what it is, but is not exactly concise, or even clear. Who can do better? -->
 
 ===Translations===
 {{top}}
