@@ -3,12 +3,12 @@ The word ``shebang'' has two distinct meanings:
 * a word meaning "any matter of present concern; thing; business" (1869)
 * the "#!" in the first two columns of the first line of a UNIX script file.
 
-== The Whole Shebang ==
-The above meaning first appeared in written records in 1862. Later, Mark Twain used it to describe a "vehicle" and "any matter of present concern". "The whole chebang" was also used to mean "a building and everything in it".
+= The Whole Shebang =
+The above meaning first appeared in written records in 1862. "The whole chebang" [sic] was used to mean "a building and everything in it". Later, Mark Twain used it to describe a vehicle, as well as "any matter of present concern". I is suspected to originate from the French word ''char-a-banc'', which is a bus-like wagon with a lot of seats, but no specific connection has been proven as of now.
 
 Source: http://www.takeourword.com/TOW193/page2.html, http://www.wordorigins.org/
 
-== Computing ==
+= Computing =
 In [[computing]], a [[shebang]] is a special line that begins an executable [[text file]] (commonly called a [[script (computer programming)|script]]) causing [[Unix-like]] [[operating system]]s to execute the commands in the text file using a specific [[interpreter (computer software)|interpreter]] ([[computer program|program]]).
 
 A shebang consists of a [[number sign]] and an [[exclamation point]] character (so "#!") in the first two columns of the first line, followed by the [[Path (computing)|path]] to the interpreter program that will provide the interpretation. The name ''shebang'' comes from an inexact [[contraction (linguistics)|contraction]] of ''sharp bang'' or ''haSH bang'', referring to the two typical Unix names of the two characters. (Unix jargon uses ''sharp'' or ''hash'' to refer to the number sign character and ''bang'' to refer to the exclamation point, hence ''shebang''.) Because the "#" character is used as the comment marker in these executable text files, the actual contents of the shebang line will be ignored by the interpreter; the shebang line only exists to specify the correct interpreter to be used.
