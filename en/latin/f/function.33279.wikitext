@@ -7,11 +7,16 @@ IPA: /ˈfʌŋk.ʃən/
 
 ===Noun===
 {{wikipedia}}
-'''function''' (''plural:'' [[functions]])
-#the [[purpose]] of something; what something does
-# {{mathematics}} a [[many-to-one]] [[relation]]
-# {{computing}} a routine that returns a result
-#an [[official]] or [[social]] [[occasion]]
+'''function''' (''plural'' '''[[functions]]''')
+
+#The [[purpose]] of something; what something does
+#{{analysis}} A [[many-to-one]] [[relation]]; a relation in which each element of the [[domain]] is associated with exactly one element of the [[codomain]]<!--note: not the range: see the Wikipedia page-->
+#{{computing}} A [[routine]] that returns a result.
+#An [[official]] or [[social]] [[occasion]].
+
+====Synonyms====
+*(''purpose''): [[aim]], [[intention]], [[purpose]]
+*(''in analysis''): [[many-to-one]] [[map]], many-to-one [[mapping]], [[operation]] (''for a function that has two arguments''), [[transformation]]
 
 ====Related terms====
 *[[functional]]
@@ -19,24 +24,69 @@ IPA: /ˈfʌŋk.ʃən/
 *[[functor]]
 
 ====Translations====
+
+'''purpose of something'''
+{{top}}
+*French: [[fonction]] ''f''
+{{mid}}
+*Italian: [[funzione]] ''f''
+{{bottom}}
+
+'''many-to-one relation'''
+{{top}}
 *Chinese: [[函数]]
-*Danish: [[funktion]] ''c'' (1, 2, 3, 4)
-*Dutch: [[functie]] ''f'' (1, 2, 3)
+*Danish: [[funktion]] ''c''
+*Dutch: [[functie]]
+*[[Esperanto]]: [[funkcio]]
+*Estonian: [[funktsioon]]
+*French: [[fonction]] ''f''
+*German: [[Funktion]] ''f''
+*Greek, Modern: [[συνάρτηση]] ''f''
+*Hebrew: [[פונקציה]]
+*Icelandic: [[fall#Icelandic|fall]]
+*[[Ido]] : [[funciono]]
+{{mid}}
+*Indonesian: [[fungsi]]
+*Italian: [[funzione]] ''f''
+*Japanese: [[関数]]
+*Polish: [[funkcja]]
+*Portuguese: [[função]] ''f''
+*Romanian: [[funcţie]]
+*Russian: [[функция]]
+*Spanish: [[función]] ''f''
+*Swedish: [[funktion]]
+*Thai: [[ฟังก์ชัน]]
+*Ukrainian: [[ін'єкція]]
+{{bottom}}
+
+'''routine that returns a result'''
+{{top}}
+{{mid}}
+{{bottom}}
+
+'''official or social occasion'''
+{{top}}
+{{mid}}
+{{bottom}}
+ 
+=====Translations to be checked=====
+<!--Remove this section once all of the translations below have been moved into
+the tables above.-->
+{{checktrans}}
+
+*Danish: [[funktion]] ''c'' (1, 3, 4)
+*Dutch: [[functie]] ''f'' (1, 3)
 *Finnish: [[funktio]] (1, 2, 3); [[tarkoitus]] (1)
-*French: [[fonction]] ''f'' (1, 2)
-*German: [[Funktion]] ''f'' (1, 2, 3)
-*Hebrew: [[פונקציה]] ''f'' (1, 2, 3)
+*German: [[Funktion]] ''f'' (1, 3)
+*Hebrew: [[פונקציה]] ''f'' (1, 3)
 *Hungarian: [[funkció]] ''f'' (1, 2, 3)
-* {{io}} : [[funciono]]
 *[[Interlingua]]: function (1, 2, 3)
-*{{ga}}: [[feidhm]]
-*Italian: [[funzione]] ''f'' (1)
+*Irish: [[feidhm]]
 *Latin: [[functio]] ''f''
-*[[Polish]]: funkcja ''f'' (1, 2, 3)
-*Portuguese: [[função]] ''f'' (1, 2, 3)
+*Polish: funkcja ''f'' (1, 3)
+*Portuguese: [[função]] ''f'' (1, 3)
 *[[Romanica]]: function ''f'' (1, 2, 3)
-*Spanish: función
-*Swedish: [[funktion]] ''c'' (1,2,3), [[subrutin]] ''c'' (3)
+*Swedish: [[funktion]] ''c'' (1,3), [[subrutin]] ''c'' (3)
 
 ===Verb===
 '''function'''  ([[functions]], [[functioned]], [[functioning]])
