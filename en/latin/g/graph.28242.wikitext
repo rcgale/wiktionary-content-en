@@ -1,23 +1,73 @@
 ==English==
 {{wikipedia}}
 ===Noun===
-'''graph''' (plural: '''graphs''')
-#a [[diagram]] showing [[data]] [[relationship]]s.
-#(''mathematics'') given a [[function]] ''f'':''X''->''Y'', the '''graph''' of ''f'' is the [[set]] {(''x'',''f''(''x''))| ''x'' an [[element]] of ''X''}
-#(''graph theory'') a '''graph''' is a [[pair]] (''X'', ''Y''), where ''X'' is a [[set]] and ''Y'' is a [[collection]] of pairs of [[element]]s of ''X''
+'''graph''' (''plural'' '''graphs''')
+
+#{{mathematics}} A [[diagram]] displaying data, in particular one showing the relationship between two or more [[variable]]s; specifically, for a function ''f''((''x''<sub>1</sub>, ''x''<sub>2</sub>, ..., ''x''<sub>''n''</sub>), the [[set]] of all [[tuple]]s (''x''<sub>1</sub>, ''x''<sub>2</sub>, ..., ''x''<sub>''n''</sub>, ''f''(''x''<sub>1</sub>, ''x''<sub>2</sub>, ..., ''x''<sub>''n''</sub>)).
+#{{graphtheory}} An [[ordered pair]] (''V'', ''E''), where ''V'' is a set of elements called ''[[vertex|vertices]]'' and ''E'' is a set of pairs of [[element]]s of ''V'', called [[edge]]s; informally, a set of vertices and a set edges that join these vertices.
+
+====Synonyms====
+*(''in graph theory''): [[undirected graph]]
+
+====Derived terms====
+*[[directed graph]]
+*[[line graph]]
+
+====Related terms====
+*[[graphic]]
+*[[graphical]]
 
 ====Translations====
+
+'''mathematical diagram'''
+{{top}}
 *Dutch: [[grafiek]]
-*German: [[Graph]] ''m'' (1,2,3)
+*[[Esperanto]]: [[grafeo]]
+*French: [[graphique]] ''m''
+{{mid}}
+*German: [[Graph]] ''m'', [[Funktionsgraph]] (''of a function''), [[Kurve]] ''f''
+{{bottom}}
+
+'''in graph theory'''
+{{top}}
+*Bulgarian: [[граф#Bulgarian|граф]]
+*Chinese: [[图]]
+*Dutch: [[graaf]]
+*French: [[graphe]] ''m''
+*German: [[Graph]] ''m''
+{{mid}}
+*Hungarian: [[gráf]]
+*Italian: [[grafo]] ''m''
+*Polish: [[graf]]
+*Russian: [[граф#Russian|граф]]
+*Thai: [[กราฟ]]
+{{bottom}}
+
+=====Translations to be checked=====
+<!--Remove this section once all of the translations below have been moved into the tables above.-->
+{{checktrans}}
+
+*German: [[Graph]] ''m'' (1,2)
 *Irish: [[graf]]
 *Swedish: [[graf]] ''c'' (1,2)
 *Spanish: [[grafo]] ''m''
 
-===See Also===
-* [[plot]]
-* [[diagram]]
-* [[figure]]
-* [[axis]]
+===Transitive verb===
+{{en-infl-reg-consonant|graph||}}
+
+#{{mathematics}} To draw a graph of (a function, data).
+
+====Translations====
+
+'''draw a graph of'''
+{{top}}
+{{mid}}
+{{bottom}}
+
+===See also===
+*[[plot]]
+*[[diagram]]
+*[[axis]]
 
 [[it:graph]]
 [[Category:Greek derivations]]
