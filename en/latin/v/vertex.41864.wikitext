@@ -7,10 +7,46 @@
 
 #The highest point of something.
 #{{geometry}} A corner of a [[polygon]] (where two [[side]]s meet) or of a [[polyhedron]] (where three or more [[face]]s and an equal number of [[edge]]s meet).
-#{{alggeom}} The point of intersection of an [[axis]] and a [[curve]].
+<!--Disputed: Paul G, 2005-08-19
+#{{alggeom}} The point of intersection of an [[axis]] and a [[curve]].-->
+#{{graphtheory}} One of the elements of a [[graph]] joined by zero or more [[edge]]s to other vertices.
 #(''computer graphics''') A point in 3D space, usually given in terms of its ''x''-, ''y''-, and ''z''-[[coordinate]]s.
 
-===Further reading===
-*[[w:Vertex|Wikipedia article on vertices]]
+====Synonyms====
+*(''highest point''): [[acme]], [[apex]], [[peak]], [[top]]
+*(''in graph theory''): [[node]]
+
+====Translations====
+
+'''highest point'''
+{{top}}
+{{mid}}
+{{bottom}}
+
+'''corner of a polygon or polyhedron'''
+{{top}}
+{{mid}}
+{{bottom}}
+
+<!--Disputed
+'''point of intersection of an axis and a curve'''
+{{top}}
+{{mid}}
+{{bottom}}
+-->
+
+'''in graph theory'''
+{{top}}
+*Italian: [[nodo]] ''m''
+{{mid}}
+{{bottom}}
+
+'''in computer graphics'''
+{{top}}
+{{mid}}
+{{bottom}}
+
+===See also===
+*[[w:vertex|Wikipedia article on vertices]]
 *[http://mathworld.wolfram.com/PolyhedronVertex.html Mathworld argicle on vertices of polyhedra]
 *[http://mathworld.wolfram.com/PolygonVertex.html Mathworld article on verticies of polygons]
