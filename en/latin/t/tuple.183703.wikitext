@@ -1,9 +1,35 @@
 ==English==
 ===Noun===
-'''tuple'''
-#{{computing}} a [[single]] [[row]] in a [[relational database]]
-#{{computing}} a [[set]] of [[comma]]-[[separated]] [[value]]s [[pass]]ed to a [[program]] or [[operating system]] as a [[parameter]] to a [[function]] [[call]]
-#{{mathematics}} a [[finite]] [[sequence]] of [[object]]s
 {{wikipedia}}
+'''tuple''' (''plural'' '''tuples''')
+
+#{{settheory}} A [[finite]] [[sequence]] of [[term]]s; equivalently, an [[ordered]] [[set]].
+#{{computing}} A [[single]] [[row]] in a [[relational database]].
+#{{computing}} A [[set]] of [[comma]]-[[separated]] [[value]]s [[pass]]ed to a [[program]] or [[operating system]] as a [[parameter]] to a [[function call]].
+
+====Synonyms====
+*(''in set theory''): [[n-tuple]] (''when the sequence contains'' n ''terms''), [[ordered pair]] (''when the sequence contains exactly two terms''), [[triple]] ''or'' [[triplet]] (''when the sequence contains exactly three terms'')
+
+====Translations====
+
+'''in set theory'''
+{{top}}
+*French: [[n-uplet]] ''m''
+{{mid}}
+*German: [[Tupel]] ''n''
+{{bottom}}
+
+'''row in a database'''
+{{top}}
+{{mid}}
+{{bottom}}
+
+'''set of values passed as a parameter'''
+{{top}}
+*French: [[n-uplet]] ''m''
+{{mid}}
+{{bottom}}
+
 ===See also===
+*[[ordered pair]]
 *[[tuplet]]
