@@ -3,12 +3,15 @@
 ==English==
 ===Noun===
 '''norm''' (''plural'' '''norms''')
-#The [[average]] or [[standard]].
+#('''the norm''') That which is [[normal]].
 #:''Unemployment is the norm in this part of the country.''
-#{{mathematics}} A measure of length, denoted <math>|\cdot|</math> or <math>||\cdot||</math> and having the following properties:
-## <math>|a|>0</math> or <math>|a|=0</math> [[iff]] <math>a</math> is the [[additive identity]].
-## Given a [[scalar]] <math>k</math>, <math>|ka|=|k||a|</math>, where <math>|k|</math> is the [[absolute value]] of <math>k</math>.
-## Given <math>a</math> and <math>b</math>, <math>|a+b|\leq|a|+|b|</math> (the [[triangle inequality]].)
+#{{analysis}} A function, , denoted |''v''| or ||''v''||, that [[map]]s [[vector]]s to non-negative [[scalar]]s and has the following properties:
+##|''v''| > 0 or |''v''| = 0 [[iff]] ''v'' = 0;
+##given a scalar ''k'', |''kv''| = |''k''|.|''v''|, where |''k''| is the [[absolute value]] of ''k'';
+##given two vectors ''v'' and ''w'', |''v'' + ''w''| &le; |''v''| + |''w''| (the [[triangle inequality]]).
+
+====Derived terms====
+*[[semi-norm]]
 
 ===Proper noun===
 ''See'' '''[[Norm]]'''
