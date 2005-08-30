@@ -5,7 +5,7 @@
 ====Alternative spellings====
 *'''seminorm''' (''US'')
 
-#{{analysis}} A [[function]] denoted ||''v''|| that [[map]]s a [[vector]] ''v'' to a [[non-negative]] value such that ||''cv''|| = |''c''|.||''v''||, where ''c'' is a [[scalar]], and ||''v'' + ''w''|| &le; ||''v''|| + ||''w''|| (the [[triangle inequality]]).
+#{{analysis}} A [[function]] denoted ||''v''|| that [[map]]s a [[vector]] ''v'' to a [[non-negative]] value such that ||''cv''|| = |''c''|.||''v''||, where ''c'' is a [[scalar]], and ||''v'' + ''w''|| &le; ||''v''|| + ||''w''|| (the [[triangle inequality]]); the condition that ||''v''|| = 0 implies that ''v'' = 0 is not required, but when it holds, the semi-norm is a [[norm]].
 
 ====Synonyms====
 *[[gauge]]
