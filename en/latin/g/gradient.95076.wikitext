@@ -1,11 +1,49 @@
 ==English==
-'''gradient'''
 ===Noun===
-# a [[rate]] of [[inclination]] or [[declination]]; a [[slope]] or [[incline]]
-#{{physics}} The rate at which a [[physical]] [[quantity]] [[increase]]s or [[decrease]]s [[relative]] to [[change]] in a [[given]] [[variable]], especially [[distance]]
-# (''maths'') (''in a simple graph'') [[Vertical]] [[length]] [[divide]]d by [[horizontal]] length of a [[straight]] [[line]]; (''more rigorously, of a scalar field'') a [[vector field]] which [[point]]s in the [[direction]] of the [[greatest]] [[rate]] of [[change]] of the [[scalar field]], and whose [[magnitude]] is the greatest rate of change
+'''gradient''' (''plural'' '''gradients''')
 {{wikipedia}}
-====Translations====
-*French: [[rampe]] (1, 2)
 
-[[Category:Mathematics]]
+#A [[slope]] or [[incline]].
+#A [[rate]] of [[inclination]] or [[declination]] of a slope.
+#{{calculus}} Of a function ''y'' = ''f''(''x'') or the [[graph]] of such a function, the [[rate of change]] of ''y'' [[with respect to]] ''x'', that is, the amount by which ''y'' changes for a certain (often unit) change in ''x''.
+#{{physics}} The rate at which a [[physical]] [[quantity]] [[increase]]s or [[decrease]]s [[relative]] to [[change]] in a [[given]] [[variable]], especially [[distance]].
+#{{vector}} A [[vector operator]] that maps each value of a [[scalar field]] to a [[vector]] equal to the greatest rate of change of the scalar.  Notation for a scalar field &phi;: <math>\nabla</math>&phi;
+
+====Synonyms====
+*(''slope''): [[hill]], [[incline]], [[ramp]], [[slope]]
+*(''in calculus''): [[slope]] (''of a line'')
+
+====Derived terms====
+*[[temperature gradient]]
+
+====Translations====
+
+'''slope or incline'''
+{{top}}
+*French: [[pente]] ''f''
+{{mid}}
+{{bottom}}
+
+'''rate of inclination or declination of a slope'''
+{{top}}
+{{mid}}
+{{bottom}}
+
+'''in calculus'''
+{{top}}
+*French: gradient ''m''
+{{mid}}
+*Portuguese: [[gradiente#Portuguese|gradiente]] ''m''
+{{bottom}}
+
+'''in physics'''
+{{top}}
+{{mid}}
+{{bottom}}
+
+'''in vector algebra'''
+{{top}}
+*French: gradient ''m''
+{{mid}}
+*Italian: [[gradiente#Italian|gradiente]] ''m''
+{{bottom}}
