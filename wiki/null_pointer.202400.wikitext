@@ -1,4 +1,6 @@
-===Noun===
+==English==
+===Noun phrase===
+{{wikipedia}}
 '''null pointer''' (''plural'' '''null pointers''')
 
-#(''computer programming'') A [[pointer]] that does not contain a valid [[address]] to an [[object]].
+#{{computing}} A [[pointer]] that is [[guaranteed]] to [[compare]] [[unequal]] to any other pointer (including another null pointer).
