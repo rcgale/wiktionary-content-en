@@ -59,6 +59,8 @@ Invocation via the [[env]] program is useful for two purposes:
  # The rest of the Python script
  ...
 
+However, this may result in the ''wrong'' python being invoked, depending on the invoker's PATH, so its use is discouraged.
+
 *invoking a program which is itself a <code>#!</code> script.
 
  #!/usr/bin/env /usr/local/bin/[http://Yost.com/computers/compileAndGo compileAndGo]
