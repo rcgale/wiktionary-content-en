@@ -1,30 +1,29 @@
 ==English==
 
 ===Noun===
-'''return'''  (''plural:'' [[returns]])
-#{{cattag|Computing}}: A character that indicates a new line.  Hexadecimal %x0d, decimal 13.  <!--Move to etymology?-->Old typewriters had a carraige that lined up the paper with the printing strike-arms; with the advent of electronic typewriters, the "carraige return" key would realign the printing at the left margin, and advance to a new line.  Early computers added <CR><LF> (13,10) to indicate a new line, with variations such as <LF> (10), <CR> (13) and even the evil <LF><CR> (10,13)!  Modern computer use has expanded the meaning to denote a new paragraph. 
-#An item that is '''returned'''.
-#(''computing''): To go [[back]] from a called procedure to the procedure that called it. <!---''The act of'' going back?--->
-#{{cattag2|Taxation|Finance}}: A report of income submitted to a government for purposes of specifying exact tax payment amounts.  A [[tax return]].
-#The act of a person '''returning'''.  "Upon my '''return'''..."
-#A short extention (perpendicular) of a desk, usually slightly lower.
-#{{cattag|Finance}}: the income arising from an investment.  "It yields a '''return''' of 5%..."
-#{{cattag|Football (American)}}: Catching a ball after a [[punt]], and running it back towards the opposing team.
-#{{cricket}} a [[throw]] from a [[fielder]] to the [[wicket-keeper]] or to another fielder at the [[wicket]]
+{{en-noun-reg}}
+# {{computing}}: A character that indicates a new line.  Hexadecimal %x0d, decimal 13.  <!--Move to etymology?-->Old typewriters had a carraige that lined up the paper with the printing strike-arms; with the advent of electronic typewriters, the "carraige return" key would realign the printing at the left margin, and advance to a new line.  Early computers added <CR><LF> (13,10) to indicate a new line, with variations such as <LF> (10), <CR> (13) and even <LF><CR> (10,13).  Modern computer use has expanded the meaning to denote a new paragraph. 
+# An item that is '''returned'''.
+# {{computing}}: To go [[back]] from a called procedure to the procedure that called it. <!---''The act of'' going back?--->
+# {{cattag2|Taxation|Finance}}: A report of income submitted to a government for purposes of specifying exact tax payment amounts.  A [[tax return]].
+# The act of a person '''returning'''.  "Upon my '''return'''..."
+# A short extention (perpendicular) of a desk, usually slightly lower.
+# {{cattag|Finance}}: the income arising from an investment.  "It yields a '''return''' of 5%..."
+# {{cattag|Football (American)}}: Catching a ball after a [[punt]], and running it back towards the opposing team.
+# {{cricket}} A [[throw]] from a [[fielder]] to the [[wicket-keeper]] or to another fielder at the [[wicket]].
 
 ====Translations====
-*Swedish: [[retur]] ''c'' (1,2), [[vagnretur]] ''c'' (1, ''obsolete''), [[återkomst]] (5), [[återbäring]] (7)
-
+*Swedish: [[retur]] {{c}} (1,2), [[vagnretur]] {{c}} (1, ''obsolete''), [[återkomst]] (5), [[återbäring]] (7)
 
 ===Verb===
-'''to return'''   ([[returns]], [[returned]], [[returning]])
-#To give something [[back]] to its original holder/owner.
-#To take something [[back]] to a retailer for a refund.
-#To come back after some period of time, or at regular intervals.
-#To go back in thought, narration, or argument. "But to '''return''' to my story."
-#{{cattag|Tennis}}: To bat the ball in response to a serve over the net.
-#{{cattag|Card games}}: To play a card as a result of another player's lead; '''return''' a trump.
-#{{cricket}} to [[throw]] a [[ball]] back to the [[wicket-keeper]] (or a [[fielder]] at that position) from somewhere in the [[field]]
+{{en-infl-reg-consonant|return||}}
+# To give something [[back]] to its original holder/owner.
+# To take something [[back]] to a retailer for a refund.
+# To come back after some period of time, or at regular intervals.
+# To go back in thought, narration, or argument. "But to '''return''' to my story."
+# {{cattag|Tennis}}: To bat the ball in response to a serve over the net.
+# {{cattag|Card games}}: To play a card as a result of another player's lead; '''return''' a trump.
+# {{cricket}} To [[throw]] a [[ball]] back to the [[wicket-keeper]] (or a [[fielder]] at that position) from somewhere in the [[field]].
 
 ====Translations====
 *Chinese: [[返回]]
@@ -36,8 +35,6 @@
 *Russian: [[возвратить]]
 *Spanish: [[devolver]] (1,2), [[volver]] (3), [[regresar]] (3,4)
 *Swedish: [[återlämna]] (1), [[returnera]] (1,5), [[återvända]] (3,4)
-
-[[Category:Computing]]
 
 [[it:return]]
 [[fi:return]]
