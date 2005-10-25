@@ -1,8 +1,13 @@
 ==English==
+===Etymology===
+[[end]] + [[-ian]]; from a passage in ''[[w:Gulliver's Travels|Gulliver's Travels]]'' in which an emperor, after cutting his finger after opening an egg at the large end, commands his subjects to open them at the small end; those who comply are called "Little-Endians", while those who rebel by opening their eggs at the large end are called "Big-Endians"
+
 ===Adjective===
-'''endian'''
+{{en-adj-notcomp}}
 
-#(computer science) referring to whether a computer is [[big-endian]] or [[little-endian]] (that is, when a [[multibyte]] number is stored is the [[most significant byte]] at a lower or greater [[address]] respectively).
+#{{computing}} Of a computer, storing [[multibyte]] numbers are stored with the [[most significant byte]] at a lower (''little-endian'') or greater (''big-endian'') [[address]].
 
-====Related terms====
+====Derived terms====
+*[[big-endian]]
 *[[endianness]]
+*[[little-endian]]
