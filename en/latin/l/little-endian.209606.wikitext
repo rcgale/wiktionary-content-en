@@ -1,12 +1,14 @@
 ==English==
+===Etymology===
+''See the etymology for'' '''[[endian]]'''
+
 ===Adjective===
-'''little-endian'''
+{{en-adj-notcomp}}
 
-#(Computer science) referring to a computer where the [[most significant byte]] of a [[multibyte]] number is stored at a higher [[address]], i.e. ''little end first''.
+#{{computing}} Of a computer, storing [[most significant byte]] of a [[multibyte]] number is stored at a higher [[address]] than the [[least significant byte]], that is, "little end" first.
 
-
-
-
-
-====Antonym====
+====Antonyms====
 *[[big-endian]]
+
+====Related terms====
+*[[endianness]]
