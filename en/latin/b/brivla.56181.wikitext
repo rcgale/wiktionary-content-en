@@ -2,15 +2,26 @@
 {{rfv}}
 ===Etymology===
 From [[Lojban]].
+
 ===Noun===
 '''brivla''' (''Plural:'' '''brivla''')
 
-#In [[Lojban]], a word which may express a [[selbri]] [[relation]] between a number of [[argument]]s. [[Gismu]], [[lujvo]] and [[fu'ivla]] are all [[brivla]].
+# ''(Lojban grammar)'' A [[predicate]] word; a word which may express a [[selbri]] [[relation]] between a number of [[argument]]s. [[Gismu]], [[lujvo]] and [[fu'ivla]] are all [[brivla]].
+
+===Quotations===
+* '''1997,''' John W. Cowan, ''The Complete Lojban Language'' ISBN 0966028309 [http://www.lojban.org/tiki/tiki-download_wiki_attachment.php?attId=194]
+*: They often have no semantic meaning in themselves, though they may affect the semantics of '''brivla''' to which they are attached.
+* '''a. 2001,''' Richard Curnow [http://www.rpcurnow.force9.co.uk/jbofihe/]
+*: Fix major bugs in the lexical analysis for cmafi'e ('''brivla''' mis-scanned as sequences of cmavo joined together.)
+* '''a. 2003,''' Pierre Abbat [http://phma.hn.org/Language/valfendi.html] [http://web.archive.org/web/*/http://phma.hn.org/Language/valfendi.html]
+*: Currently, it lexes cmene, cmavo, and '''brivla''', and checkes [''sic''] cmene and cmavo for validity, but does not do full validity checking of '''brivla.'''
+
 ----
 
 ==[[Lojban]]==
 ===Etymology===
 [[bridi]] + [[valsi]]
+
 ==='''Brivla'''===
 x<sup>1</sup> '''brivla''' x<sup>2</sup> x<sup>3</sup> x<sup>4</sup>
 
