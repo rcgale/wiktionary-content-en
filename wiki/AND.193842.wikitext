@@ -1,19 +1,26 @@
+{{see|and}}
 ==English==
+
 ===Noun===
 '''AND'''
-#Logic function AND. True if all inputs are true, false otherwise. Denoted in mathematics with the symbol <math>\and</math> and in computer science by ''&'' or ''*''.
-
-(0 AND 0) = 0
+# Logic function AND.  True if all inputs are true, false otherwise. Denoted in mathematics with the symbol <math>\and</math> and in computer science by ''&'' or ''*''.
 
 
-(0 AND 1) = 0
-
-
-(1 AND 0) = 0
-
-
-(1 AND 1) = 1
-
+The '''AND''' '''[[truth table]]''':
+{|{{prettytable}}
+|-
+!'''AND'''
+!'''''0'''''
+!'''''1'''''
+|-
+!'''''0'''''
+||0
+||0
+|-
+!'''''1'''''
+||0
+||1
+|}
 
 ====Translations====
 
