@@ -1,4 +1,4 @@
-''See also [[bè]]''
+{{see|bè}}
 ==English==
 
 {{rank|had|you|not|19|be|at|by|on}}
@@ -10,89 +10,89 @@ Irregular forms inherited from the Old English compound verb ''[[beon-wesan|bēo
 *{{audio|en-us-be.ogg|Audio (US)}}
 
 ===Verb===
-====Conjugation====
-{| border=0 cellpadding=2 width=100%
-|-
-|bgcolor="#fff3f3" valign=top width=24%|
-{|
-Infinitive: '''to be'''
-|}
-|bgcolor="#fff3f3" valign=top width=24%|
-{|
-Imperative: '''be'''
-|}
-|bgcolor="#fff3f3" valign=top width=24%|
-{|
-Present participle: '''[[being]]'''
-|}
-|bgcolor="#fff3f3" valign=top width=24%|
-{|
-Past participle: '''[[been]]'''
-|}
+{{en-infl-irreg|be|is|being|been|was}}
+
+{|{{prettytable}}
+|- align="center"
+! Conjugation:
+! Present indicative
+! Past indicative
+! Present subjunctive 
+! Past subjunctive
+|- align="center"
+|| First-person singular
+|| [[am]]
+|| [[was]]
+|| '''be'''
+|| [[were]]
+|- align="center"
+|| Second-person singular
+|| '''[[are]]''' 
+|| '''[[were]]''' 
+|| '''be''' 
+|| '''[[were]]'''
+|- align="center"
+|| Second-person singular archaic
+|| '''[[art]]''' 
+|| '''[[wast]]''' 
+|| '''be'''
+|| obsolete '''[[wert]]'''
+|- align="center"
+|| Third-person singular
+|| [[is]] 
+|| [[was]]
+|| '''be''' 
+|| [[were]]
+|- align="center"
+|| First-person plural
+|| [[are]] 
+|| [[were]] 
+|| '''be''' 
+|| [[were]]
+|- align="center"
+|| Second-person plural
+|| [[are]]
+|| [[were]]
+|| '''be'''
+|| [[were]]
+|- align="center"
+|| Third-person plural
+|| [[are]]
+|| [[were]] 
+|| '''be'''
+|| [[were]]
 |}
 
-
-{|border=0 cellpadding=2 cellspacing=2 width=100%
-|- align="center" bgcolor="#fff3f3"
-|
-| Present indicative || Past indicative
-| Present subjunctive || Past subjunctive
-|- align="center" bgcolor="#fff3f3"
-| First-person singular
-! [[am]] !! [[was]] !! be !! [[were]]
-|- align="center" bgcolor="#fff3f3"
-| Second-person singular
-| '''[[are]] '''or, obsolete,''' [[art]]''' || '''[[were]] '''or, obsolete,''' [[wast]]''' || '''be''' || '''[[were]] '''or, obsolete,''' [[wert]]'''
-|- align="center" bgcolor="#fff3f3"
-| Third-person singular
-! [[is]] !! [[was]] !! be !! [[were]]
-|- align="center" bgcolor="#fff3f3"
-| First-person plural
-! [[are]] !! [[were]] !! be !! [[were]]
-|- align="center" bgcolor="#fff3f3"
-| Second-person plural
-! [[are]] !! [[were]] !! be !! [[were]]
-|- align="center" bgcolor="#fff3f3"
-| Third-person plural
-! [[are]] !! [[were]] !! be !! [[were]]
-|}
-
-====Intransitive verb====
-# To [[occupy]] a [[place]] <!-- cf. Spanish estar vs. ser -->
+# {{intransitive}}: To [[occupy]] a [[place]]. <!-- cf. Spanish estar vs. ser -->
 #:''The cat is in the bag, it will still '''be''' in the bag tomorrow.''
-# To [[occur]], to take place
+# {{intransitive}}: To [[occur]], to take place.
 #: ''When and where is the test?  It will '''be''' tomorrow, in room 5.''
-# To [[exist]] 
+# {{intransitive}}: To [[exist]] 
 #: ''To '''be''', or not to '''be''', that is the question.'' &mdash; Shakespeare, ''Hamlet''
-
-====Copular verb====
-<!-- Probably need some mention of metaphor here -->
-# Indicates that the subject and object are the same.
+# ''([[copula|copular]]):'' Indicates that the subject and object are the same.
 #: ''Two plus two is four.'' or ''Two plus two are four.''
-#: ''Ignorance is bliss.''
-# Indicates that the subject plays the role of the object.
-#: ''François Mitterrand was president of France from 1981 to 1995'' <!-- Won't have to change this when Chirac leaves office -->
-# Connects a noun to an adjective describing it.
-#: ''The sky is blue.''
-# Indicates that the subject has the qualities described by a noun or noun phrase. <!-- not quite right? -->
-#: ''The sky is a deep blue today.''
-#: ''The street was a confusion of vendors and shoppers.''
-
-====Auxiliary verb====
-# Used to form the [[passive voice]].
-#:''The dog was drowned in the pond,''
+#: ''Ignorance '''is''' bliss.''
+# ''([[copula|copular]]):'' Indicates that the subject plays the role of the object.
+#: ''François Mitterrand '''was''' president of France from 1981 to 1995'' <!-- Won't have to change this when Chirac leaves office -->
+# ''([[copula|copular]]):'' Connects a noun to an adjective describing it.
+#: ''The sky '''is''' blue.''
+# ''([[copula|copular]]):'' Indicates that the subject has the qualities described by a noun or noun phrase. <!-- not quite right? -->
+#: ''The sky '''is''' a deep blue today.''
+#: ''The street '''was''' a confusion of vendors and shoppers.''
+# ''([[auxiliary verb|auxiliary]]):'' Used to form the [[passive voice]].
+#:''The dog '''was''' drowned in the pond.''
 #:i.e. someone killed the dog, as opposed to ''The dog drowned in the pond,'' where the dog died accidentially.
-#:''The staff meeting will be held next Monday at 1:00.''
-# Used to form the continuous forms of the several tenses.
-#:''The woman is walking.''
-#:''For how long had you been waiting before the bus came?''
-# Used to form the subjunctive mood.
-#:''Be she more patient.''
+#:''The staff meeting will '''be''' held next Monday at 1:00.''
+# ''([[auxiliary verb|auxiliary]]):'' Used to form the continuous forms of the several tenses.
+#:''The woman '''is''' walking.''
+#:''For how long had you '''been''' waiting before the bus came?''
+# ''([[auxiliary verb|auxiliary]]):'' Used to form the subjunctive mood.
+#:'''''Be''' she more patient.''
 
 ====Translations====
 '''Caution!''' ''This verb is fraught with irregularities of both form and usage in many languages.  Strict literal translations should be viewed with suspicion.''
 
-{{top}}<!--languages from A to I go here-->
+{{top}}
 *Breton: [[bezañ]]
 *Bulgarian: [[съм]]
 *Catalan: [[ser]], [[estar]]
@@ -111,7 +111,7 @@ Past participle: '''[[been]]'''
 *Interlingua]]: [[esser]], [[ser]] 
 *Irish: [[bí]]
 *Italian: [[essere]]
-{{mid}}<!--languages from J to Z go here-->
+{{mid}}
 *Japanese:
 ** (''auxiliary'', ''copula'') [[だ]] (da, ''informal''), [[です]] (desu, ''formal'')
 ** (''existence'') [[有る]] (ある, aru, ''inanimate''); [[居る]] (いる, iru, ''animate'')
@@ -130,31 +130,25 @@ Past participle: '''[[been]]'''
 *Swedish: [[vara]]
 {{bottom}}
 
-===Noun===
-'''be''' ''(initialism)''
+==={{initialism}}===
+'''be'''
 
-#[[Belgium]]
+# [[Belgium]]
 
 ===See also===
 *[[Be]]
 
-[[Category:Behaviour]]
-[[Category:English auxiliary verbs]]
-[[Category:English irregular verbs]]
+----
 
-==Amuzgo==
+==[[Amuzgo]]==
 ===Adjective===
 '''be'''
-
 # [[red]]
 
-== Balinese ==
+==Balinese==
 '''be'''
-
 # [[fish]]
 # [[meat]], [[fish]], [[tofu]], [[egg]] (everything that is eaten with rice exept vegetables)
-
-[[Category:Balinese language]]
 
 ==German==
 ===Etymology===
@@ -188,72 +182,51 @@ From the same root as ''[[bei]]''.
 ==Hungarian==
 ===[[Coverb]]===
 '''be-''', '''be'''
-
 # [[in]], [[into]]
 #:'''''Be'''sz&aacute;lltam a kocsiba.''
 
-[[Category:Hungarian language]]
-
 ==Latin==
 ===Alternative spellings===
-[[bee]]
+* [[bee]]
 ===interjection===
 '''be'''
-
 # "baa", sound made by sheep
 
-[[Category:Latin language]]
-
-== Lithuanian ==
-=== Particle ===
+==Lithuanian==
+===Particle===
 '''be'''
-
 # (shows absence of smth) [[without]]
 # [[besides]]; [[but]], [[except]]
-
-[[Category:Lithuanian language]]
 
 ==Manx==
 ===Verb===
 '''be'''
-#to '''be'''
-
-[[Category:Manx language]]
+# to '''be'''
 
 ==Norwegian==
 ===Verb===
-{{no-verb|'''be'''|'''[[ber]]'''|'''[[ba]]'''|'''[[bedt]]'''}}
-#to [[pray]]
-#to [[ask]] something of someone
+'''be'''  (''present:'' '''[[ber]]''', ''past:'' '''[[ba]]''', ''past participle:'' '''[[bedt]]''')
+# to [[pray]]
+# to [[ask]] something of someone
 
 ==Swedish==
 ===Verb===
-'''be'''
-
-{| {{prettytable}}
-|--
-|infinitive || '''be''' ('''[[bedja]]''')
-|--
-|present tense || [[ber]]
-|--
-|past tense || [[bad]]
-|--
-|supine || [[bett]]
-|--
-|imperative || [[be]]
-|--
-|present participle || [[bedjande]]
-|--
-|past participle || [[bedd]]
-|}
-
+'''be''' ('''[[bedja]]''', ''present tense'' '''[[ber]]''', ''past tense'' '''[[bad]]''', ''supine'' '''[[bett]]''', ''imperative'' '''[[be]]''', ''present participle'' '''[[bedjande]]''', ''past participle'' '''[[bedd]]''')
 
 # [[ask]] for, request someone else to do something
 # to [[pray]]
 # to [[beg]], to plead with someone for help or for a favor.
 
+[[Category:Behaviour]]
+[[Category:English auxiliary verbs]]
+[[Category:English irregular verbs]]
 [[Category:Swedish verbs]]
 [[Category:100 English basic words]]
+[[Category:Balinese language]]
+[[Category:Hungarian language]]
+[[Category:Latin language]]
+[[Category:Lithuanian language]]
+[[Category:Manx language]]
 
 [[de:be]]
 [[es:be]]
