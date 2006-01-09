@@ -2,54 +2,12 @@
 
 {{rank|law|show|terms|434|sort|town|dark|ye}}
 
-===Transitive verb===
-{{en-infl-reg-consonant|sort||}}
-
-# to [[separate]] according to certain [[criterion|criteria]].
-# to [[arrange]] into in some order, especially [[numerically]], [[alphabetically]] or [[chronologically]].
-
-====Synonyms====
-*(''separate according to certain criteria''): [[categorise]]/[[categorize]], [[class]], [[classify]], [[group]]
-*(''arrange into some sort of order''): [[order]], [[rank]]
-
-====Derived terms====
-*[[sorted]]
-*[[sorting]]
-*[[sort out]]
-
-====Translations====
-{{TOW}}
-
-'''separate according to certain criteria'''
-{{top}}
-*Dutch: [[sorteren]]
-*Finnish: [[lajitella]]
-*French: [[trier]], [[classer]]
-*Italian: [[classificare]]
-{{mid}}
-*Swedish: [[sortera]]
-{{bottom}}
-
-'''arrange in order'''
-{{top}}
-*Dutch: [[rangschikken]]
-*Finnish: [[järjestää]], [[aakkostaa]] (''alphabetically'')
-*French: [[trier]], [[ranger#French|ranger]]
-*Italian: [[mettere in ordine]]
-{{mid}}
-*Swedish: [[ordna]]
-{{bottom}}
-
-=====Translations to be checked=====
-{{checktrans}}
-*German: [[sortieren]]
-
 ===Noun===
-{{en-noun-reg}}
+{{en-noun|sort|sorts}}
 
-# A general [[type]].
-# (''informal'') A person.
-#:''This guy's a decent sort''
+# A [[general]] [[type]].
+# (''informal'') A [[person]].<!--It would be useful if this definition were more precise or would provide a usage note as to in what contexts this word is used-->
+#:''This guy's a decent sort.''
 # An act of sorting.
 #:''I had a sort of my cupboard''
 # {{computing}} An [[algorithm]] for sorting a list of items into a particular order.
@@ -61,6 +19,7 @@
 *(''in computing''): [[sort algorithm]], [[sorting algorithm]]
 
 ====Derived terms====
+{{top}}
 *[[allsorts]], [[all sorts]]
 *[[bead sort]]
 *[[binary tree sort]]
@@ -78,6 +37,7 @@
 *[[insertion sort]]
 *[[introsort]], [[introspective sort]]
 *[[library sort]]
+{{mid}}
 *[[merge sort]]
 *[[monkey sort]]
 *[[out of sorts]]
@@ -93,6 +53,7 @@
 *[[stochastic sort]]
 *[[stupid sort]]
 *[[stooge sort]]
+{{bottom}}
 
 ====Translations====
 '''type'''
@@ -100,7 +61,7 @@
 *Dutch: [[soort]] ''f'' (''sometimes informally n'')
 *Finnish: [[tyyppi]], [[laji]], [[sortti]] (''informal'')
 *French: [[type#French|type]] ''m'' (''informal, for a man or a woman''), [[typesse]] ''f'' (''informal, for a woman'')
-*German: [[Art#German|Art]] ''f''
+*German: [[Art#German|Art]] ''f'', [[Sorte]] ''f''
 *Italian: [[specie]] ''f'', [[genere]] ''m'', [[tipo]] ''m''
 {{mid}}
 *Swedish: [[sort#Swedish|sort]] ''c'', [[slag]] ''n'', 
@@ -130,6 +91,46 @@
 *French: [[tri]] ''m''
 {{mid}}
 *Swedish: [[sorteringsalgoritm]] ''c''
+{{bottom}}
+
+===Verb===
+{{en-verb|sort|sorts|sorted|sorting}}
+
+#{{transitive}} To [[separate]] according to certain [[criterion|criteria]].
+#{{transitive}} To [[arrange]] into in some order, especially [[numerically]], [[alphabetically]] or [[chronologically]].
+
+====Synonyms====
+*(''separate according to certain criteria''): [[categorise]]/[[categorize]], [[class]], [[classify]], [[group]]
+*(''arrange into some sort of order''): [[order]], [[rank]]
+
+====Derived terms====
+*[[sorted]]
+*[[sorting]]
+*[[sort out]]
+
+====Translations====
+{{TOW}}
+
+'''separate according to certain criteria'''
+{{top}}
+*Dutch: [[sorteren]]
+*Finnish: [[lajitella]]
+*French: [[trier]], [[classer]]
+*German: [[trennen]]
+*Italian: [[classificare]]
+{{mid}}
+*Swedish: [[sortera]]
+{{bottom}}
+
+'''arrange in order'''
+{{top}}
+*Dutch: [[rangschikken]]
+*Finnish: [[järjestää]], [[aakkostaa]] (''alphabetically'')
+*French: [[trier]], [[ranger#French|ranger]]
+*German: [[sortieren]]
+*Italian: [[mettere in ordine]]
+{{mid}}
+*Swedish: [[ordna]]
 {{bottom}}
 
 ----
