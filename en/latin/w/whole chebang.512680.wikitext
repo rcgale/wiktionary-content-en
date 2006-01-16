@@ -50,6 +50,12 @@ Also, the Perl interpreter is run without extra warnings being enabled.
  # The rest of the Perl script
  ...
 
+
+This file is a [[Quine]]:
+
+ #!/bin/cat
+
+
 <div id="env">
 Invocation via the [[env]] program is useful for two purposes:
 *searching for a program via the PATH environment variable
