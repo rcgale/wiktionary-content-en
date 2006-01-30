@@ -2,7 +2,7 @@
 
 ===Noun phrase===
 '''DMZ host'''
-# {{internet}} A single node hidden behind a [[NAT]] firewall that all unsolicited connection requests from outside the firewall are directed to.
+# {{internet}} A single node in a DMZ, typically protected by a firewall, sometimes hiden by [[NAT]].  Usually, DMZ hosts accept incoming external connections, but they cannot initiate connections with internal hosts.
 
 ===={{trans}}====
 
