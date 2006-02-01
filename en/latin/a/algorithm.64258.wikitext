@@ -1,45 +1,39 @@
 ==English==
 ===Etymology===
-Through Old French; ultimately a modification from the name of the Persian mathematician [[w:al-Khwarizmi|al-Khwarizmi]]
+Through Old French; ultimately a modification from the name of the Islamic mathematician [[w:al-Khwarizmi|al-Khwarizmi]]
 
+===Variant spelling===
+[[algorism]] ''(obsolete)''
 ===Noun===
 '''algorithm''' (''plural'' '''algorithms''')
 
-#{{computing}} A well-defined procedure describing how to carry out a particular task, independent of any computing system that might do that task.
-#:''There are several well-known algorithms for multiplying numbers, including the method most of us learned in primary school.''
+# Any well-defined procedure describing how to carry out a particular task
+#: '''1990''': Cormen, Leiserson, and Rivest, ''Introduction to Algorithms'': page 1.  Cambridge, MA, The MIT Press, 1999 (''23rd printing'') - Informally, an '''''algorithm''''' is any well-defined computational procedure that takes some value, or set of values, as input and produces some value, or set of values, as output.  An '''algorithm''' is thus a sequence of computational steps that transform the input into the output.
+
 
 ====Usage notes====
 *Though some technical definitions require that an algorithm always terminate in a finite number of steps, this distinction is not generally observed in practice.
 
 ====Translations====
-{| border=0 width=100%
-|-
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--languages from A to I go here-->
+{{top}}
 *Bosnian: [[algoritem]] ''m''
 *Chinese: [[算法]] (suan4fa3)
 *Finnish: [[algoritmi]]
 *French: [[algorithme]] ''m''
 *German: [[Algorithmus]] ''m''
-*{{el}}: [[αλγορίθμος]] (algorithmos)
+*Greek: [[αλγορίθμος]] (algorithmos)
 *Italian: [[algoritmo]]
-|}
-| width=1% |
-|bgcolor="#FFFFE0" valign=top width=48%|
-{|
-<!--languages from J to Z go here-->
+{{mid}}
 *Japanese: [[アルゴリズム]] (arogorichumu)
 *Latin: [[alrogithmus]] ''m''
-*{{lt}}: [[algoritmas]] ''m''
+*Lithuanian: [[algoritmas]] ''m''
 *Norwegian: [[algoritme]] ''m''
 *Polish: [[algorytm]] ''m''
 *Portuguese: [[algoritmo]] ''m''
 *Russian: [[алгоритм]] (algoritm) ''m''
 *Spanish: [[algoritmo]] ''m''
 *Turkish: [[algoritma]] "m"
-|}
-|}
+{{bottom}}
 
 ====See also====
 *[[algorism]]
@@ -47,8 +41,8 @@ Through Old French; ultimately a modification from the name of the Persian mathe
 *[[function]]
 *[[program]]
 
-[[Category:English eponyms]]
-[[Category:Persian derivations]]
+[[Category:Eponyms]]
+[[Category:Arabic derivations]]
 
 [[pl:algorithm]]
 [[zh:Algorithm]]
