@@ -35,6 +35,14 @@ This file is a [[bash]] script, the [[Unix]] equivalent of a [[DOS]] [[batch fil
  ...
 
 
+This file is an [[AWK_programming_language|AWK]] script:
+
+ #!/bin/awk -f
+ #
+ # The rest of the AWK script
+ ...
+
+
 This file is a [[Perl]] script, to be run with 'warnings' enabled (-w):
 
  #!/usr/bin/perl -w
