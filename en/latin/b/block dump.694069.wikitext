@@ -1,9 +1,8 @@
-{{cleanup-date|February 2006}}
-A block dump is a mini image, though its different that usual images. It has those sectors saved into it, those were read off the original disc of image during the making of that certain block dump. It has many benefits like if you are using a certain emulator for play games and you face some problem. Now instead of sending the whole image to the developers to see what caused that problem. You can just make a block dump of that image. What the block dump includes is all the data that your emulator read off that iso/image of yours. Thats saves alot of disk space and size. Now for example if the emu read the first 50 sectors and reached to the point where the emulator had that problem, you won't need to send all the 500,000 sectore, instead those first 50 sectors will be enough for the developer to figure out whats causing that certain problem.
+A Block Dump is a mini image, though it’s different that usual images. It has those sectors saved into it, those were read off the original disc of image during the making of that certain block dump. It has many benefits like if you are using a certain emulator for play games and you face some problem. Now instead of sending the whole image to the developers to see what caused that problem. You can just make a block dump of that image. What the block dump includes is all the data that your emulator read off that iso/image of yours. That’s saves allot of disk space and size. Now for example if the emu read the first 50 sectors and reached to the point where the emulator had that problem, you won't need to send all the 500,000 sector, instead those first 50 sectors will be enough for the developer to figure out what’s causing that certain problem.
 
 == Example ==
 One such example of block dump usage can bee seen in the PS2 emulator for PC & Linux, "PCSX2"
-one of its plugins known as "linuzappaz ISO CDVD plugin" supports making block dumps. You only need to select "enable block dump" to start making the block dump of that certain CD/DVD/Image.
+One of its plug-ins known as "linuzappaz ISO CDVD plugin" supports making block dumps. You only need to select "enable block dump" to start making the block dump of that certain CD/DVD/Image.
 
 ==External links==
 [http://www.pcsx2.net PCSX2's Homepage]
