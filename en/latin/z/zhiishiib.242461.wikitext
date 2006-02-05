@@ -1,9 +1,11 @@
 =Ojibwe=
+<!-- Language name should always be level 2.  This is essential for keeping the whole project co-ordinated -->
 ==ᔒᐦᔒᑉ (''zhiishiib'')==
-
+<!-- The heading (level 3) here should describe the part of speech, or otherwise describe what kind of term that this is.  What you now have as a heading should represent in bold letters how the term is normally written.  Inflections often go here. -->
 ===Definitions===
-# (na): [[duck#noun|duck]]
-#*derived words:
+<!-- This heading is not needed -->
+# (na): [[duck#noun|duck]] <!-- "na" should be spelled out. -->
+#*derived words: <!-- Use a level 4 heading here.  The list beneath can then be listed with single astrisks alone. -->
 #**ᒪᐦᑲᑌᔒᐦᔒᑉ (''makade-zhiishiib'')
 #**ᔒᐦᔒᐸᐦᑭᐦᒄ (''zhiishiibakik'')
 #**ᔒᐦᔒᐸᐧᓂᐝ (''zhiishiibanwi'')
@@ -11,7 +13,7 @@
 #**ᔒᐦᔒᐯᓐᐦᔅ (''zhiishiibens'')
 #**ᔒᐦᔒᐱᓰᐱ (''Zhiishiibi-ziibi'')
 
-===Variant===
+===Variant=== <!-- level 4 for this and the two following sections -->
 # [[shib|ᐦᔑᑉ (''shib'')]]
 
 ===Transformations===
@@ -25,6 +27,7 @@
 * Baraga: ''jiship''
 
 ==ᔒᐦᔒ (''zhiishiib'')==
+<!-- It is not clear why you want to repeat this heading -->
 ===Etymology===
 # < [[zhiishiib#ᔒᐦᔒᑉ (zhiishiib)|ᔒᐦᔒᑉ (''zhiishiib'')]]
 
@@ -43,7 +46,7 @@
 * Manitoba Saulteaux: ''šīhšīp''
 * Baraga: ''jiship''
 
-==References==
+==References== <!-- level 3 -->
 *[http://www.freelang.net/dictionary/ojibwe.html Freelang Electronic Ojibwe Dictionary]
 *Baraga, Frederic. 1878. ''A Dictionary of the Otchipwe Language, explained in English''.  Montréal: Beauchemin & Valois.
 *Cuoq, Joseph. 1886. ''Lexique de la Langue Algonquine''.  Montréal: J. Chapleau & Fils.
@@ -51,3 +54,4 @@
 *Rhodes, Richard A. 1985. ''Eastern Ojibwa-Chippewa-Ottawa Dictionary''. Berlin: Mouton de Gruyter.
 
 [[Category:Ojibwe language]]
+<!-- If you use this as a category it could get very big.  I have been urging the format [[Category:oj:Bird]] with the topics themselves being co-ordinated between languages. -->
