@@ -1,9 +1,4 @@
-Acronym for "Graphics Processing Unit", the GPU is found in most modern computers and is responsible for the calculations involved in creating graphics, especially those which are 3D.
-
-Without a GPU, the computer would rely on the CPU for these calculations, which bogs down performance as the CPU must calculate everything.  The GPU, however, takes most or all of the calculations involving graphics, so that the CPU is free to perform other calculations.
-
-Another bonus of having a separate GPU is that they usually come with high-speed memory onboard the card they are on, so that more system RAM can be devoted to other tasks.  This also makes the GPU perform faster, as the memory aboard the graphics card is devoted entirely to it, and the GDDR3 memory ensures fast access.
-
-Two popular makers of GPU cards are nVidia and ATi.  These companies stand at the top of the graphics market at the moment, with the Radeon and GeForce chipsets.
-
-The most common interfaces with graphics cards are PCI, AGP (2/4/8x), and PCI-Express.  PCI-Express cards are also taking an interesting new turn with the introduction of nVidia's SLi, and ATi's Crossfire technology, allowing two GPUs to be hooked up as if they were one.
+==English==
+==={{initialism}}===
+'''GPU'''
+# Graphics Processing Unit
