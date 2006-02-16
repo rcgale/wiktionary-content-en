@@ -1,5 +1,4 @@
-== Content Filtering ==
-This is the most commonly used group of methods to filter spam. Content filters act either on the content, the information contained in the mail body, or on the mail headers (like "Subject:") to either classify, accept or reject a mail.
+'''Content filtering''' is the most commonly used group of methods to filter spam. Content filters act either on the content, the information contained in the mail body, or on the mail headers (like "Subject:") to either classify, accept or reject a mail.
 
 The most popular filter is the [[Bayesian filtering|Bayesian filter]], which is a statistical filter. 
 
