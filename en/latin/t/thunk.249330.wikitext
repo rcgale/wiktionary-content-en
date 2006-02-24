@@ -1,24 +1,28 @@
-<!-- The explanatory paragraphs in this new dictionary entry, including this one, are written as comments to hide them when the page is displayed. To include a section, remove its comment start marker ("<!--") and comment end marker (dash + "->"). When you finish an entry, remove the comments.
--->
 ==English==
-thunk
-===Noun===
-'''thunk'''  (''plural:'' '''[[thunks]]''')
-<!--Alternatively, if the noun has standard English plural, you may use the "{{en-noun-reg}}" template.  Otherwise, use one of these templates to show the plural form:
-{{en-noun-reg-es}} 
-{{en-noun-irreg|irregular_plural_form}}
-{{en-noun-unc}}
--->
+===Etymology===
+By analogy with past tenses and past participles ending in "-unk", such as '''[[drunk]]''' and '''[[sunk]]'''
 
-# Computer term. A thunk is a translation layer that sits between different kinds of code. 
-#:''A thunk between 16bit and 32bit code.''
-<!--
-# Extend this numbered list to define any additional definitions as a noun. Order the list from the earliest definition to the most recent. Begin each definition with a number sign ("#"). Do NOT add blank lines between definitions as this will break the numbering.
---> 
+====Verb form====
+'''thunk'''
 
-===See also===
-{{pedialite}}
-<!-- Keep this template if Wikipedia has an article on this word.-->
+#An erroneous past tense and [[past participle]] of '''to [[think]]'''.
+#:''Who would have thunk it?''
 
-===References===
-*<!-- Add verifiable references here to show where you found the word in use.-->
+===Etymology===
+[[Onomatopoeic]]
+
+====Interjection====
+'''thunk!'''
+
+#Representing the sound of a heavy imapct.
+
+===Etymology===
+<!--from FOLDOC: http://foldoc.org/?query=thunk&action=Search -->
+Claimed by the inventors to be from the supposed past tense, being coined when they realised after much thought (whence "thunk") that the [[type]] of an argument in [[w:ALGOL 60|ALGOL 60]] could be predetermined at [[compile time]]; not, as is sometimes claimed, from the interjection, being the supposed sound made by data hitting the stack or an accumulator
+
+====Noun====
+{{wikipedia}}
+{{en-noun-reg}}
+
+#{{computing}} a delayed computation, as in [[functional programming]]
+#{{computing}} a [[mapping]] of machine [[data]] from one system[[-specific]] form to another, usually for compatibility reasons, such as from 16-bit addresses to 32-bit to allow a 16-bit program to run on a 32-bit operating system
