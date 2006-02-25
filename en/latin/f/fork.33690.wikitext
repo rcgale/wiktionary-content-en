@@ -11,6 +11,20 @@
 # An event where [[development]] of some [[free software]] or [[open source|open-source]] [[software]] is split into [[two]] or more [[separate]] [[project]]s
 # {{UK}}: Crotch (British usage)
 
+#(computer) An unix system call that duplicates an exisiting process and spawn a new process identical to original process.
+This function return twice once it is called. PID of child to parent & 0 to child.
+
+....
+int pid ;
+
+pid  = fork();
+
+if(pid==0)  /**child process**/
+else
+/**parent (original ) process **/
+
+
+ 
 ==== Related terms ====
 *[[pitchfork]]
 *[[tuning fork]]
