@@ -8,21 +8,10 @@
 # A [[tool]] with [[spike]]s used for digging
 # An intersection in a [[road]] or [[path]] where [[one]] road is split into [[two]]
 # A point where a waterway, such as a river, splits and goes two (or more) different directions (see image)
+# (chess) The simultaneous attack of two adversary pieces with one single attacking piece: ''knight fork''. 
+# (computer programming) A splitting-up of an existing process into itself and a child process executing parts of the same program.
 # An event where [[development]] of some [[free software]] or [[open source|open-source]] [[software]] is split into [[two]] or more [[separate]] [[project]]s
 # {{UK}}: Crotch (British usage)
-
-#(computer) An unix system call that duplicates an exisiting process and spawn a new process identical to original process.
-This function return twice once it is called. PID of child to parent & 0 to child.
-
-....
-int pid ;
-
-pid  = fork();
-
-if(pid==0)  /**child process**/
-else
-/**parent (original ) process **/
-
 
  
 ==== Related terms ====
@@ -55,12 +44,14 @@ else
 === Verb ===
 {{en-infl-reg-consonant|fork||}}
 # To use a fork to move food to mouth.
+# (computer) To spawn a new child process in some sense duplicating the exisiting process.
 # To split a (software) project into several projects.
 # ''(with "over"):'' To pay, to contribute.
 # {{UK}}: To kick someone in the crotch
 
 ==== Translations ====
 *Finnish: [[haarukoida]] (1); [[forkata]] (2) (''slang'')
+*German: [[gabeln]] (''chess'')
 
 {{BE-ready}}
 [[Category:1000 English basic words]]
