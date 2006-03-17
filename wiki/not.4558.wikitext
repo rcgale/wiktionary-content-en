@@ -139,10 +139,10 @@ The verb ''need'' is only directly negated when used as an auxiliary, and even t
 ===Noun===
 '''NOT''' or ''not''
 
-#Logical function NOT, true if input is false, or a gate implementing that function.
+#[[Unary]] logical function NOT, true if input is false, or a gate implementing that function.
 #: ''You need a '''NOT''' there to conform with the negative logic of the memory chip.''
 
-NOT 0 = 1<br>
+NOT [[0]] = [[1]]<br>
 NOT 1 = 0<br>
 
 ====Translations====
@@ -158,6 +158,7 @@ NOT 1 = 0<br>
 
 
 ----
+
 ==Albanian==
 ===Noun===
 '''not''' {{m}}
