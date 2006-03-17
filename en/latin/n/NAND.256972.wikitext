@@ -1,0 +1,21 @@
+==English==
+
+===Noun===
+'''NAND'''
+#A [[binary]] [[operator]] [[composite]] of [[NOT]] [[AND]]; [[negation]] of AND function.
+
+(0 NAND 0) = 1<br>
+(0 NAND 1) = 1<br>
+(1 NAND 0) = 1<br>
+(1 NAND 1) = 0<br>
+
+===Translation===
+
+*Finnish: [[EI-JA]]
+
+===See also===
+*[[AND#Noun|AND]]
+*[[OR#Noun|OR]]
+*[[NOR#Noun|NOR]]
+*[[NOT#Noun|NOT]]
+*[[XOR#Noun|XOR]]
