@@ -1,107 +1,146 @@
 ==English==
 
-{{rfc}}
-
 ===Pronunciation===
 /ˈveəriəbəl/, /<tt>"ve@ri@b@l</tt>/
-===Adjective===
-'''variable'''
 
-# Liable to [[vary]].
+===Adjective===
+{{en-adj-more}}
+#able to [[vary]]
+#likely to [[vary]]
+#marked by [[diversity]] or [[difference]]
+#{{math}} having no fixed [[quantitative]] value
+#{{biology}} tending to deviate from a normal or recognized type
+
+====Synonyms====
+*(''able to vary''): [[alterable]] [[flexible]], [[changeable]], [[mutable]]
+*(''likely to vary''): [[fickle]], [[fluctuating]], [[inconstant]], [[shifting]], [[unstable]], [[unsteady]]
+*(''marked by diversity or difference''): [[varying]]
+*(''biology: tending to deviate from a normal or recognized type''): [[aberrant]]
+
+====Antonyms====
+*(''able to vary''): [[constant]], [[invariable]], [[immutable]], [[unalterable]], [[unchangeable]]
+*(''likely to vary''): [[constant]], [[invariable]], [[immutable]], [[unchangeable]]
+*(''marked by diversity or difference''): [[unchanging]]
+*(''mathematics: having no fixed quantitative value''): [[constant]], [[invariable]]
 
 ====Translations====
+'''able to vary'''
 {{top}}
-*Finnish: [[vaihteleva]], [[muuttuva]]
-*Italian: non [[costante]], [[variabile]] (of weather}
 {{mid}}
+*Swedish: [[flexibel]], [[föränderlig]], [[reglerbar]], [[rörlig]], [[ställbar]], [[variabel]]
 {{bottom}}
+
+'''likely to vary'''
+{{top}}
+{{mid}}
+*Swedish: [[ombytlig]], [[ostadig]], [[växlande]]
+{{bottom}}
+
+'''marked by diversity or difference'''
+{{top}}
+{{mid}}
+*Swedish: [[varierande]], [[växlande]]
+{{bottom}}
+
+'''mathematics: having no fixed quantitative value'''
+{{top}}
+{{mid}}
+*Swedish: [[variabel]]
+{{bottom}}
+
+'''biology: tending to deviate from a normal or recognized type'''
+{{top}}
+{{mid}}
+*Swedish: [[avvikande]]
+{{bottom}}
+
+====Translations to be checked====
+{{checktrans}}
+*{{ttbc|Finnish}}: [[vaihteleva]], [[muuttuva]]
+*{{ttbc|Italian}}: non [[costante]], [[variabile]] (of weather}
 
 ===Noun===
 {{en-noun-reg}}
-# (mathematics) In Algebra, it is a letter that represents an unspecified and/or unknown quantity.
+#something that is variable
+#something whose value may be dictated or discovered
+#:''There are several variables to consider here.''
+#{{mathematics}} a quantity that may assume any one of a set of values
+#{{mathematics}} a symbol representing a variable
+#{{computing}} a named [[mutable]] piece of storage
+#{{astronomy}} a [[variable star]]
 
 ====Synonyms====
-*[[changeable]]
+*(''something that is variable''): [[changeable]]
+*(''something whose value may be dictated or discovered''): [[parameter]]
+*(''mathematics: a quantity that may assume any one of a set of values''): [[variable quantity]]
 
 ====Antonyms====
-*[[invariable]]
+*(''something that is variable''): [[constant]], [[invariable]]
 
 ====Translations====
-'''letter used in Algebra'''
+'''something that is variable'''
 {{top}}
-*Finnish: [[muuttuja]]
-*French: [[variable]] {{f}}
 {{mid}}
+*Swedish: [[variabel]] {{c}}
 {{bottom}}
 
+'''something whose value may be dictated or discovered'''
+{{top}}
+{{mid}}
+*Swedish: [[parameter]] {{c}}, [[variabel]] {{c}}
+{{bottom}}
+
+'''mathematics: a quantity that may assume any one of a set of values'''
+{{top}}
+{{mid}}
+*Swedish: [[variabel]] {{c}}
+{{bottom}}
+
+'''mathematics: a symbol representing a variable'''
+{{top}}
+{{mid}}
+*Swedish: [[variabel]] {{c}}
+{{bottom}}
+
+'''computing: a named mutable piece of storage'''
+{{top}}
+{{mid}}
+*Swedish: [[variabel]] {{c}}
+{{bottom}}
+
+'''astronomy: a variable star'''
+:''See''' '''[[variable star]]'''
+
+====Translations to be checked====
 {{checktrans}}
-*{{ttbc|Chinese}}: [[可變]], [[可变]]
-*{{ttbc|Dutch}}: [[veranderlijk]], [[veranderlijke]], [[variabel]], [[variabele]]
-*{{ttbc|German}}: variable
-*{{ttbc|Japanese}}: [[変わりやすい]], [[可変]]
-*{{ttbc|Korean}}: [[변하기]]
+*{{ttbc|Chinese}}: [[可变物]], [[可變]], [[可变]]
+*{{ttbc|Dutch}}: [[veranderlijk]], [[veranderlijke]] {{f}}, [[variabel]], [[variabele]] {{f}}
+*{{ttbc|Finnish}}: [[muuttuja]]
+*{{ttbc|French}}: [[variable]] {{f}}, [[paramètre]] {{m}}
+*{{ttbc|German}}: [[Variable]] {{f}}
+*{{ttbc|Italian}}: [[variabile]] {{f}}, [[fattore]] {{m}}
+*{{ttbc|Japanese}}: [[変わりやすい]], [[可変]], [[変数]]
+*{{ttbc|Korean}}: [[가변]], [[변하기]]
+*{{ttbc|Lithuanian}}: [[kintamasis]] {{m}}
 *{{ttbc|Norwegian}}: [[variabele]]
-*{{ttbc|Portuguese}}: [[variável]] ''m/f''
-*{{ttbc|Russian}}: [[переменная]]
-*{{ttbc|Swedish}}: [[variabel]]
+*{{ttbc|Polish}}: [[zmienna]] {{f}}
+*{{ttbc|Portuguese}}: [[variável]] {{mf}}
+*{{ttbc|Slovak}}: [[premenná]] {{f}}
+*{{ttbc|Spanish}}: variable {{f}}
+*{{ttbc|Russian}}: [[переменная]] {{f}}
 
-
-===Noun===
-'''variable'''
-
-# {{science}} Something whose value may be dictated or discovered.
-#: ''There are several variables to consider here.''
-# {{computing}} A named, [[mutable]] piece of storage.
-
-====Related terms====
+====Derived terms====
 *[[dependent variable]]
 *[[independent variable]]
 *[[metasyntactic variable]]
-*[[variable star]]
-
-====See also====
-*[[constant]]
-*[[parameter]]
-
-====Translations====
-'''Something whose value may be dictated or discovered'''
-{{top}}
-*Finnish: [[muuttuja]]
-*French: [[variable]] {{f}}, [[paramètre]] {{m}}
-*Italian: [[variabile]] {{f}}, [[fattore]] {{m}}
-{{mid}}
-{{bottom}}
-
-'''Piece of storage in computing'''
-{{top}}
-*Finnish: [[muuttuja]]
-{{mid}}
-{{bottom}}
-
-{{checktrans}}
-
-*{{ttbc|Chinese}}: [[可变物]]
-*{{ttbc|Dutch}}: [[veranderlijke]] {{f}}, [[variabele]] {{f}}
-*{{ttbc|German}}: [[Variable]] {{f}}
-*{{ttbc|Japanese}}: [[変数]]
-*{{ttbc|Korean}}: [[가변]]
-*{{ttbc|Lithuanian}}: [[kintamasis]] {{m}}
-*{{ttbc|Polish}}: [[zmienna]] {{f}}
-*{{ttbc|Portuguese}}: [[variável]] {{f}}
-*{{ttbc|Slovak}}: [[premenná]] {{f}}
-*{{ttbc|Spanish}}: variable {{f}}
-*{{ttbc|Swedish}}: [[variabel]] {{c}}
-*{{ttbc|Russian}}: [[переменная]] {{f}}
-
-====See also====
-*[[argument]]
-*[[parameter]]
-
-===Related terms===
 *[[variability]]
+*[[variable star]]
 *[[variableness]]
 *[[variably]]
 *[[vary]]
+
+====See also====
+*[[argument]]
 
 [[fr:variable]]
 [[gl:variable]]
