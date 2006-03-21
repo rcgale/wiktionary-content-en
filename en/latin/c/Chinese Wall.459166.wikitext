@@ -26,7 +26,11 @@ The term is also used in [[journalism]] to describe the separation between the e
 The Chinese wall is regarded as breached for [[advertorial]] projects.
 
 ==Computer science==
-In [[computer science]], Chinese wall refers to a [[reverse engineering]] method involving two separate groups.  One group reverse-engineers the original code and writes thorough documentation, while the other group writes new code based only on the new documentation.  The first group never writes new code, and the second group never looks at the original code.  This method insulates the new code from the old code, so that the new code is not considered a derived work of the old code.  See also [[clean room design]].
+In [[computer science]], there are two common areas of usage:  Reverse engineering and computer security.
+
+Chinese wall refers to a [[reverse engineering]] method involving two separate groups.  One group reverse-engineers the original code and writes thorough documentation, while the other group writes new code based only on the new documentation.  The first group never writes new code, and the second group never looks at the original code.  This method insulates the new code from the old code, so that the new code is not considered a derived work of the old code.  See also [[clean room design]].
+
+The Chinese Wall Model is a security model where read/write accesses to files is governed by membership of data in conflict-of-interest classes and datasets.  This is the basic model used to provide both privacy and integrity for data.
 
 == Metaphor and myth ==
 The term Chinese wall may refer to the [[Great Wall of China]], and to its scale and effectiveness at separating one side from the other.
