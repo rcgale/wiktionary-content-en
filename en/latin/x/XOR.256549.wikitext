@@ -9,7 +9,7 @@
 
 ===Noun===
 '''XOR'''
-#(Logic) The [[binary]] [[operator]] ''exclusive or'', true if one and only one of two inputs is true. Expression ''exclusive'' as differ from [[inclusive or|inclusive OR]]. In [[infix notation]], it has values in {[[0]],[[1]]}:
+#(Logic) The [[binary]] [[operator]] ''exclusive or'', true if one and only one of two inputs is true. Expression ''exclusive'' as differ from [[inclusive or|inclusive OR]]. In [[infix notation]], it has values in the [[Boolean domain]] {[[0]],[[1]]}:
 
 (0 XOR 0) = 0<br>
 (0 XOR 1) = 1<br>
@@ -23,6 +23,7 @@
 *Hungarian: [[kizáró vagy]]
 *Latin: [[aut#Latin|aut]]
 *Swedish: [[exklusive eller]]
+
 ===See also===
 *[[AND#Noun|AND]]
 *[[OR#Noun|OR]]
