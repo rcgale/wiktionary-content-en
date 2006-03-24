@@ -2,4 +2,12 @@
 
 ===Phrase===
 '''[[if]] [[and]] [[only]] [[if]]'''
-# (''Mathematics'')  Given two condiontions ''A'' and ''B'', ''A'' '''if and only if''' ''B'' means: If ''A'' then ''B'' (''A'' [[implies]] ''B'') [[and]] if ''B'' then ''A'' (''B'' implies ''A'').  '''If and only if''' is abriviated as [[iff]] or <math>\iff</math>.
+# (''Mathematics'')  The logical equivalence of two popositions ''A'' and ''B''.'''If and only if''' is abriviated as [[iff]] or <math>\iff</math>. ''A'' '''if and only if''' ''B'' means:
+#: If ''A'' then ''B'' [[AND|and]] if ''B'' then ''A''
+#:''A'' [[implies]] ''B'' and ''B'' implies ''A''
+
+#(''Logic'') The [[binary]] [[operator]] <math>\iff</math>, true exactly when both iputs are either both true or both false. Logically equivalent to negation of [[XOR]]. In [[infix notation]], it has values in the [[Boolean domain]] {[[0]],[[1]]}:
+#:(0 <math>\iff</math> 0) = 1<br>
+#:(0 <math>\iff</math> 1) = 0<br>
+#:(1 <math>\iff</math> 0) = 0<br>
+#:(1 <math>\iff</math> 1) = 1<br>
