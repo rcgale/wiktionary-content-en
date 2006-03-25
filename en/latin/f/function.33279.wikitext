@@ -2,36 +2,37 @@
 ==English==
 
 ===Etymology===
-
-Middle French ''fonction'', from Old French ''function'', from Latin ''functio'' (gen. ''functionis'') "performance, execution," from ''functus'', pp. of ''fungi'' "perform, execute, discharge."
+From {{MF.}} ''[[fonction]]'' < {{OF.}} ''[[function#Old French|function]]'' < {{L.}} ''[[functio]]'' gen. of ''[[functionis]]'' "[[performance]], [[execution]]" < {{L.}} ''[[functus]]'' pp. of ''[[fungi]]'' "[[perform]], [[execute]], [[discharge]]".
 
 ===Pronunciation===
-
 IPA: /ˈfʌŋk.ʃən/
 
 ===Noun===
-'''function''' (''plural'' '''[[functions]]''')
+{{en-noun-reg}}
 
-# The [[purpose]] of something; what something does
-# {{analysis}} A [[many-to-one]] [[relation]]; a relation in which each element of the [[domain]] is associated with exactly one element of the [[codomain]]<!--note: not the range: see the Wikipedia page-->
-# {{computing}} A [[routine]] that returns a result.
+# What something does or is used for
+# A [[professional]] or [[official]] position.
 # An [[official]] or [[social]] [[occasion]].
+# A relation where one thing is dependent on another for its existence, value, or significance.
+# {{analysis}} A [[many-to-one]] [[relation]]; a relation in which each element of the [[domain]] is associated with exactly one element of the [[codomain]].
+# {{computing}} A [[routine]] that returns a result.
+# {{biology}} The physiological activity of an organ or body part.
+# {{chemistry}} The characteristic behavior of a chemical compound.
 
 ====Synonyms====
-
-* (''purpose''): [[aim]], [[intention]], [[purpose]]
-* (''in analysis''): [[many-to-one]] [[map]], many-to-one [[mapping]], [[operation]] (''for a function that has two arguments''), [[transformation]]
+*(''what something does or is used for''): [[aim]], [[intention]], [[purpose]], [[role]], [[use]]
+*(''professional or official position''): [[occupation]], [[office]], [[part]], [[role]]
+*(''official or social occasion''): [[affair]], [[occasion]], [[social occasion]], [[social function]]
+*(''analysis: many-to-one relation''): [[many-to-one]] [[map]], many-to-one [[mapping]], [[mathematical function]], [[operation]] (''if it takes two arguments''), [[transformation]]
+*(''computing: routine that returns a result''): [[procedure]], [[routine]], [[subprogram]], [[subroutine]]
 
 ====Related terms====
-
 * [[functional]]
 * [[functionality]]
 * [[functor]]
 
 ====Translations====
-
-'''purpose of something'''
-
+'''what something does or is used for'''
 {{top}}
 * Finnish: [[tehtävä]], [[tarkoitus]]
 * French: [[fonction]] ''f''
@@ -40,9 +41,29 @@ IPA: /ˈfʌŋk.ʃən/
 * Italian: [[funzione]] ''f''
 *Japanese: [[機能]]
 *Korean: [[기능]]
+*Swedish: [[funktion]] {{c}}, [[uppgift]] {{c}}
 {{bottom}}
 
-'''many-to-one relation'''
+'''professional or official position'''
+{{top}}
+{{mid}}
+*Swedish: [[förrättning]] {{c}}, [[kall]] {{n}}, [[syssla]] {{c}}, [[åliggande]] {{n}}, 
+{{bottom}}
+
+'''official or social occasion'''
+{{top}}
+*Finnish: [[juhla]], [[tilaisuus]]
+{{mid}}
+*Swedish: [[bjudning]] {{c}}, [[tillställning]] {{c}}
+{{bottom}}
+
+'''relation where one thing is dependent on another'''
+{{top}}
+{{mid}}
+*Swedish: [[funktion]] {{c}}
+{{bottom}}
+
+'''analysis: many-to-one relation'''
 {{top}}
 * Chinese: [[函数]]
 * Danish: [[funktion]] ''c''
@@ -72,17 +93,24 @@ IPA: /ˈfʌŋk.ʃən/
 * Ukrainian: [[ін'єкція]]
 {{bottom}}
 
-'''routine that returns a result'''
+'''computing: routine that returns a result'''
 {{top}}
 * Finnish: [[funktio]]
 * German: [[Funktion]] {{f}}
 {{mid}}
+*Swedish: [[funktion]] {{c}}, [[subrutin]] {{c}}
 {{bottom}}
 
-'''official or social occasion'''
+'''biology: physiological activity of an organ or body part'''
 {{top}}
-*Finnish: [[juhla]], [[tilaisuus]]
 {{mid}}
+*Swedish: [[funktion]] {{c}}
+{{bottom}}
+
+'''chemistry: characteristic behavior of a chemical compound'''
+{{top}}
+{{mid}}
+*Swedish: [[funktion]] {{c}}
 {{bottom}}
  
 =====Translations to be checked=====
@@ -99,39 +127,48 @@ the tables above.-->
 *{{ttbc|Latin}}: [[functio]] ''f''
 *{{ttbc|Polish}}: funkcja ''f'' (1, 3)
 *{{ttbc|Portuguese}}: [[função]] ''f'' (1, 3)
-*{{ttbc|Swedish}}: [[funktion]] ''c'' (1,3), [[subrutin]] ''c'' (3)
 
-===Verb===
-{{conj|function|functions|functioned|functioned|functioning}}
+===Intransitive Verb===
+{{en-infl-reg-consonant|function||}}
 
-# be [[operating]], [[working]]; be able to operate or work
+#to have a function
+#to carry on a function; to be in action
+
+====Synonyms====
+*(''to have a function''): [[officiate]], [[serve]]
+*(''to carry on a function''): [[go]], [[operate]], [[run]], [[work]]
+
+====Antonyms====
+*(''to carry on a function''): [[malfunction]]
 
 ====Related terms====
-
 * [[functional]]
 * [[dysfunction]], [[dysfunctional]]
 
 ====Translations====
-
+'''to have a function'''
 {{top}}
-* Danish: [[fungere]]
-* Dutch: [[functioneren]]
-* Finnish: [[toimia]]
-* French: [[fonctionner]]
-* German: [[funktionieren]], {{slang}} [[funzen]] 
 {{mid}}
-* Italian: [[funzionare]]
-* Japanese: [[作用]]する, [[動く]] ([[うごく]]); [[機能]]する
-* [[Polish]]: [[działać]], [[funkcjonować]]
-* Portuguese: [[funcionar]]
+*Swedish: [[fungera]], [[tjänstgöra]], [[uppträda]], [[verka]]
 {{bottom}}
 
-===See also===
+'''to carry on a function'''
+{{top}}
+{{mid}}
+*Swedish: [[fungera]], [[tjänstgöra]]
+{{bottom}}
 
-* [[affair]]
-* [[procedure]]
-* [[routine]]
-* [[subroutine]]
+=====Translations to be checked=====
+{{checktrans}}
+*{{ttbc|Danish}}: [[fungere]]
+*{{ttbc|Dutch}}: [[functioneren]]
+*{{ttbc|Finnish}}: [[toimia]]
+*{{ttbc|French}}: [[fonctionner]]
+*{{ttbc|German}}: [[funktionieren]], {{slang}} [[funzen]] 
+*{{ttbc|Italian}}: [[funzionare]]
+*{{ttbc|Japanese}}: [[作用]]する, [[動く]] ([[うごく]]); [[機能]]する
+*{{ttbc|Polish}}: [[działać]], [[funkcjonować]]
+*{{ttbc|Portuguese}}: [[funcionar]]
 
 [[fr:function]]
 [[io:function]]
