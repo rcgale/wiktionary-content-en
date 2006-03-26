@@ -1,14 +1,19 @@
 ==English==
 
 ===Etymology===
-Old French from Latin '''[[singularis]]''' ("alone of its kind"), from '''[[singulus]]''' (see ''[[single]]'').
+From {{ME.}} ''[[singuler]]'' < {{OF.}} < {{L.}} ''[[singularis]]'' "alone of its kind" < {{L.}} ''[[singulus]]'' "[[single]]".
 
 ===Noun===
 '''singular'''
 
-#{{grammar}} A form of a word that refers to only one person or thing.
+#{{grammar}} a form of a word that refers to only one person or thing
+
+====Antonyms====
+*(''grammar: form of a word that refers to only one thing''): [[plural]]
 
 ====Translations====
+
+'''grammar: form of a word that refers to only thing'''
 {{top}}
 *Bosnian: [[jednina]] {{f}}
 *[[Catalan]]: singular {{m}}
@@ -32,71 +37,74 @@ Old French from Latin '''[[singularis]]''' ("alone of its kind"), from '''[[sing
 :*Latin: [[jednina]] {{f}}
 *Slovak: [[jednotné číslo]] {{n}}, [[singulár]] {{m}}
 *Spanish: singular {{m}}
-*Swedish: [[singularis]], singular
+*Swedish: [[ental]] {{n}}, [[singularis]] {{n}}, [[singular#Swedish|singular]] {{n}}
 {{bottom}}
-
-====Antonyms====
-*[[plural]]
 
 ===Adjective===
 '''singular'''  ({{compar}}: '''[[singularer]]''', {{superl}}: '''[[singularest]]''')
-#separate; individual.
+#being only one
 #relating to an individual.
-#extraordinary, remarkable.
-#unusual or strange; odd; eccentric.
+#distinguished by superiority
+#being out of the ordinary
 #being the only one of the kind; unique.
-#{{grammar}} Of a word, referring to only one thing or person.
-#{{linearalg}} Of a matrix, having no [[inverse]].
+#{{grammar}} referring to only one thing or person
+#{{linearalg}} (''of matrix'') having no [[inverse]]
+#{{linearalg}} (''of transformation'') having the property that the matrix of coefficients of the new variables has a determinant equal to zero
 
 ====Synonyms====
-*(''of a matrix''): [[non-invertible]]
+*(''being only one''): [[individual]]
+*(''being the only one of a kind''): [[unique]]
+*(''distinguished by superiority''): [[exceptional]], [[extraordinary]], [[remarkable]]
+*(''being out of the ordinary''): [[curious]], [[eccentric]], [[funny]], [[odd]], [[peculiar]], [[strange]], [[rum]], [[rummy]], [[unusual]]
+*(''linear algebra: of matrix: having no inverse''): [[non-invertible]]
 
 ====Antonyms====
-*(''grammar''): [[plural]]
-*(''of a matrix''): [[invertible]], [[non-singular]]
+*(''grammar: referring to only one thing''): [[plural]]
+*(''linear algebra: of matrix: having no inverse''): [[invertible]], [[non-singular]]
 
 ====Translations====
-
-'''separate, individual'''
+'''being only one'''
 {{top}}
-*Dutch: [[enkelvoudig]], [[enkelvoudige]]
 {{mid}}
-*Finnish: [[yksittäinen]]
+*Swedish: [[ensam]], [[enstaka]]
 {{bottom}}
 
-'''relating to an individual'''
-{{top}}
-*Finnish: [[yksilöllinen]]
-{{mid}}
-{{bottom}}
-
-'''extraordinary, remarkable'''
-{{top}}
-*Dutch: [[opmerkelijk]], [[opmerkelijke]]
-{{mid}}
-*Finnish: [[epätavallinen]], [[huomattava]]
-{{bottom}}
-
-'''unusual, strange'''
-{{top}}
-*Finnish: [[outo]], [[omituinen]], [[erikoinen]], [[kummallinen]]
-{{mid}}
-{{bottom}}
-
-'''unique'''
+'''being the only one of a kind'''
 {{top}}
 *Dutch: [[enig]], [[enige]]
 {{mid}}
 *Finnish: [[ainutlaatuinen]], [[uniikki]]
+*Swedish: [[ensam]], [[unik]]
 {{bottom}}
 
-'''grammar: referring to only one thing or person'''
+'''distinguished by superiority'''
+{{top}}
+*Dutch: [[opmerkelijk]], [[opmerkelijke]]
+*Finnish: [[epätavallinen]], [[huomattava]]
+{{mid}}
+*Swedish: [[enastående]], [[utmärkt]]
+{{bottom}}
+
+'''being out of the ordinary'''
+{{top}}
+*Finnish: [[outo]], [[omituinen]], [[erikoinen]], [[kummallinen]]
+{{mid}}
+*Swedish: [[besynnerlig]], [[egendomlig]], [[säregen]]
+{{bottom}}
+
+'''grammar: referring to only one thing'''
 {{top}}
 *French: [[singulier]] {{m}}, [[singulière]] {{f}}
 {{mid}}
+*Swedish: [[singular#Swedish|singular]], [[ental]]s-
 {{bottom}}
 
-'''of a matrix'''
+'''linear algebra: of matrix: having no inverse'''
+{{top}}
+{{mid}}
+{{bottom}}
+
+'''linear algebra: of transformation'''
 {{top}}
 {{mid}}
 {{bottom}}
@@ -106,6 +114,9 @@ Old French from Latin '''[[singularis]]''' ("alone of its kind"), from '''[[sing
 {{checktrans}}
 
 *{{ttbc|Bosnian}}: [[pojedini]] {{m}}, [[jedini]] {{m}} (1, 2); [[osobit]] {{m}} (2), [[neobičan]] {{m}} (4)
+*{{ttbc|Dutch}}: [[enkelvoudig]], [[enkelvoudige]]
+*{{ttbc|Finnish}}: [[yksittäinen]]
+*{{ttbc|Finnish}}: [[yksilöllinen]]
 *{{ttbc|Indonesian}}: [[tunggal]]
 *{{ttbc|Japanese}}: [[単一]] ([[たんいつ]], tan’itsu)
 *{{ttbc|Portuguese}}: singular
@@ -113,7 +124,6 @@ Old French from Latin '''[[singularis]]''' ("alone of its kind"), from '''[[sing
 :*Cyrillic: [[поједини]] {{m}}, [[једини]] {{m}} (1,2); [[особит]] {{m}} (2), [[необичан]] {{m}} (4)
 :*Latin: [[pojedini]] {{m}}, [[jedini]] {{m}} (1, 2); [[osobit]] {{m}} (2), [[neobičan]] {{m}} (4)
 *{{ttbc|Spanish}}: singular
-*{{ttbc|Swedish}}: [[singulär]] (5)
 
 ===Related terms===
 *[[simplex]]
