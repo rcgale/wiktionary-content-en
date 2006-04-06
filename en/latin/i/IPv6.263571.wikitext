@@ -1,0 +1,9 @@
+'''Internet Protocol version 6''' ('''IPv6''') is a [[network layer]] standard used by electronic devices to exchange data across a [[packet]]-switched [[internetwork]]. It follows [[IPv4]] as the second version of the [[Internet Protocol]] to be formally adopted for general use. 
+
+IPv6 is intended to provide more addresses for networked devices, allowing, for example, each cell phone and mobile electronic device to have its own address. IPv4 supports 4.3×10<sup>9</sup> (4.3 billion) addresses, which is inadequate to give one (or more if they possess more than one device) to every living person. IPv6 supports 3.4×10<sup>38</sup> addresses, or 5×10<sup>28</sup>(50 [[octillion]]) for each of the roughly 6.5 billion people alive today. 
+
+Invented by [[Steve Deering]] and [[Craig Mudge]] at [[Xerox PARC]], IPv6 was adopted by the [[Internet Engineering Task Force]] in [[1994]], when it was called "IP Next Generation" (IPng). (Incidentally, [[IPv5]] was not a successor to IPv4, but an experimental flow-oriented [[streaming media|streaming]] protocol intended to support video and audio.)
+
+As of December 2005, IPv6 accounts for a tiny percentage of the live addresses in the publicly-accessible Internet, which is still dominated by IPv4. The adoption of IPv6 has been slowed by the introduction of [[network address translation]] (NAT), which partially alleviates address exhaustion. The [[Federal government of the United States|U.S. Government]] has specified that all federal agencies must deploy IPv6 by [[2008]].
+
+It is expected that IPv4 will be supported alongside IPv6 for the foreseeable future.
