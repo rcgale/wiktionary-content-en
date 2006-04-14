@@ -1,0 +1,5 @@
+==English==
+===Noun===
+'''false [[easting]]'''
+
+#([[cartography|Cartography]])A value relating to distance east of a standard meridian but with a constant added to make the numbers convenient.  For instance, in [[UTM]] the value 500,000 is added to the easting from the center of each zone to return a false easting that is never negative (the smallest true easting is approximately -340,000 which set to false easting of 160,000).
