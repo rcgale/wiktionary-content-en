@@ -1,23 +1,23 @@
 ==English==
+===Etymology===
+Mediaeval Latin [[orthogonalis]], from late Latin [[orthogonus]] ‘right-angled’.
 
 ===Pronunciation===
+*{{IPA|/ɔ:'θɒgənəl/}}
 *{{audio|en-us-orthogonal.ogg|Audio (US)}}
 
 ===Adjective===
-'''orthogonal'''
-# (''geometry'') Of, or relating to [[right angle]]s
-# (''geometry'') [[Perpendicular]] to.
-#: ''A chord and the radius that bisects it are orthogonal.'
-# (''mathematics'') Of two [[functions]], linearly independent; having a zero [[inner product]].
-#: ''The normal vector and tangent vector at a given point are orthogonal.''
-# (''mathematics'') Of a [[square]] [[matrix]] that is the [[inverse]] of its [[transpose]]
-# (''mathematics'') Of a [[linear]] [[transformation]] that [[preserve]]s [[length]] and [[angle]]s
-# (''statistics'') Of a set of [[variable]]s, [[independent]] of each other
+'''orthogonal''' (''non-comparable'')
+# (''geometry'') pertaining to [[right angle]]s; [[perpendicular]] (''to'')
+#: ''A chord and the radius that bisects it are '''orthogonal'''.''
+# mathematical use
+## Of two [[functions]], linearly independent; having a zero [[inner product]].
+##: ''The normal vector and tangent vector at a given point are '''orthogonal'''.''
+## Of a [[square]] [[matrix]] that is the [[inverse]] of its [[transpose]]
+## Of a [[linear]] [[transformation]] that [[preserve]]s [[length]] and [[angle]]s
+# (''statistics'') statistically [[independent]], with reference to variates
 # (''software engineering'') Able to be treated separately.
-#: ''The content of the message and the means of its delivery should be orthogonal.''
-
-===Usage Note===
-In any of its senses, ''orthogonal'' may be used with ''to'', as in ''A chord is orthogonal to the radius that bisects it.''
+#: ''The content of the message should be '''orthogonal''' to the means of its delivery.''
 
 ===Related Terms===
 *[[orthogonalization]]
@@ -27,7 +27,38 @@ In any of its senses, ''orthogonal'' may be used with ''to'', as in ''A chord is
 *[[orthonormal]]
 
 ====Translations====
-*{{sv}}: [[ortogonal]] (1-6), [[vinkelrät]] (2), [[rätvinklig]] (1)
+'''of right angles'''
+{{top}}
+*French: [[orthogonal#French|orthogonal]]
+{{mid}}
+*{{sv}}: [[ortogonal]], [[vinkelrät]], [[rätvinklig]]
+{{bottom}}
+
+'''mathematical term'''
+{{top}}
+*French: [[orthogonal#French|orthogonal]]
+{{mid}}
+*Swedish: [[ortogonal]]
+{{bottom}}
+
+'''statistically independent'''
+{{top}}
+*French: [[orthogonal#French|orthogonal]]
+{{mid}}
+*Swedish: [[ortogonal]]
+{{bottom}}
+
+
+==French==
+===Etymology===
+Mediaeval Latin [[orthogonalis]], from late Latin [[orthogonus]] ‘right-angled’.
+
+===Pronunciation===
+{{IPA|/ɔʀtɔgɔnal/}}
+
+===Adjective===
+'''orthogonal''' (''m pl'' '''[[orthogonaux]]''')
+# [[orthogonal#English|orthogonal]]
 
 [[de:orthogonal]]
 [[fr:orthogonal]]
