@@ -8,12 +8,11 @@
 # The act of leaving a dangerous or unpleasant situation.
 #:''The prisoners made their escape by digging a tunnel''
 # A key on most modern computer keyboards, sometimes abbreviated [[Esc]], and typically programmed to cancel some current operation.
-
-<!-- don't need to say all this:
-Managing to leave from an unpleasant or dangerous place or situation, e.g. a prison, a guard or kidnapper, a preying animal, a building, vehicle, cave, shaft, etc. in which one is trapped by fire, water, damage by impact, etc.
--->
+# ''programming:'' The [[ASCII]] character represented by 27 (decimal) or 1B ([[hexadecimal]].)
+#:''You forgot to insert an '''escape''' in the datastream.''
 
 ====Translations====
+{{rfc-trans}}
 {{top}}
 *Finnish: [[pako]] (1)
 {{mid}}
@@ -22,24 +21,28 @@ Managing to leave from an unpleasant or dangerous place or situation, e.g. a pri
 *Swedish: [[flykt]] ''c'' (1)
 {{bottom}}
 
-
 ===Verb===
 {{en-infl-reg-other-e|escap|e}}
 
 # To leave a dangerous or unpleasant situation.
 #:''The children climbed out of the window to '''escape''' the fire.''
 #:''The hostages '''escaped''' their captors by jumping over a wall.''
-# To [[avoid]].
+# To [[avoid]]. <!-- This definition is redundant with previous def -->
 #:''He only got a fine and so '''escaped''' going to jail.''
+# {{computing}} To prefix a character with a special character (depending on context) to allow a character to pass through without special meaning.
+#:''When using the "bash" shell, you can '''escape''' the ampersand character with a backslash.''
+#:''In your monobook.js file, you can '''escape''' the apostrophe character with a backslash.''
+#:''Brion '''escaped''' the double quote character on Windows by adding a second double quote within the literal.''
 
 ====Translations====
+{{rfc-trans}}
 {{top}}
 *[[Chemehuevi]]: [[na-'wi-cipi-nkɨ]]
 *Dutch: [[ontsnappen]]
 *Finnish: [[paeta]] (1), [[välttyä]] (2)
 *French: [[échapper]] (1), [[éviter]] (2)
-{{mid}}
 *Italian: [[scappare]] (1), [[evitare]] (2)
+{{mid}}
 *Kurdish: [[revîn]] (1), [[bazdan]] (1), [[filitîn]] (2)
 *Slovak: [[utiecť]] (1), [[vyhnúť sa]] (2)
 *Slovene: [[pobegniti]], [[zbežati]] (1)
