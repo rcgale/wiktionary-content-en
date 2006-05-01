@@ -3,7 +3,7 @@
 '''hysteresis'''
 {{wikipedia}}
 
-#A property of a [[control]] system such that the [[output]] value is not a strict function of the [[input]], but also incorporates some time [[lag]], [[delay]], or history dependence, and in particular when the [[response]] for an [[decrease]] in the input variable is different from the response for a [[increase]].  For example, a [[thermostat]] with a nominal setpoint of 75° might switch the controlled heat source on when the temperature drops below 74°, and off when it rises above 76°.
+#A property of a system such that an [[output]] value is not a strict function of the corresponding [[input]], but also incorporates some [[lag]], [[delay]], or history dependence, and in particular when the [[response]] for a [[decrease]] in the input variable is different from the response for an [[increase]].  For example, a [[thermostat]] with a nominal setpoint of 75° might switch the controlled heat source on when the temperature drops below 74°, and off when it rises above 76°.
 
 ===Derived terms===
 *[[hysteresis loop]]
