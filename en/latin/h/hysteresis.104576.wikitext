@@ -2,7 +2,9 @@
 ===Noun===
 '''hysteresis'''
 {{wikipedia}}
-#a characteristic [[property]] or [[behavior]] of a system that has some time [[lag]] or [[delay]], of being history-dependent, or of having a material property that follows a closed loop when plotted; specifically the [[response]] "Y" takes a different [[value]] for an [[increasing]] [[input]] "X" than for a [[decreasing]] "X"
+
+#A property of a [[control]] system such that the [[output]] value is not a strict function of the [[input]], but also incorporates some time [[lag]], [[delay]], or history dependence, and in particular when the [[response]] for an [[decrease]] in the input variable is different from the response for a [[increase]].  For example, a [[thermostat]] with a nominal setpoint of 75° might switch the controlled heat source on when the temperature drops below 74°, and off when it rises above 76°.
+
 ===Derived terms===
 *[[hysteresis loop]]
 *[[hysteresis motor]]
