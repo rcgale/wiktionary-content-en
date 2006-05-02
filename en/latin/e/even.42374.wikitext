@@ -3,28 +3,33 @@
 {{rank|long|am|way|122|even|say|well|many}}
 
 ===Pronunciation===
+*{{IPA|/i:vən/}}
 *{{audio|en-us-even.ogg|Audio (US)}}
 
-===Adjective===
-'''even''' ({{compar}} '''more even''', {{superl}} '''most even''')
+===Etymology 1===
+Old English [[efen]] (''adjective''), [[efnan]] (''verb'').
+
+====Adjective====
+{{en-ad|even}}
 
 #<!--AdjFlat+Level-->Flat and level.
 #:''Clear out those rocks.  The surface must be even.''
 #<!--AdjWithoutVariation-->Without great variation.
 #:''Despite her fear, she spoke in an even voice.''
+# Equal in proportion, quantity, size etc.
 #:''The distribution of food must be even.''
-#<!--AdjDividableBy2-->{{arithmetic}} (''no comparative or superlative'') Leaving no remainder when divided by 2.
+#<!--AdjDivisibleBy2-->{{arithmetic}} (''no comparative or superlative'') Leaving no remainder when divided by 2.
 #: ''Four, fourteen and forty are even numbers.''
 
-====Synonyms====
+=====Synonyms=====
 *<!--AdjFlat+Level-->(''flat and level''): [[flat]], [[level]], [[uniform]]
 *<!--AdjWithoutVariation-->(''without great variation''): [[monotone]] (''voice'')
 
-====Antonyms====
+=====Antonyms=====
 *<!--AdjFlat+Level-->(''flat and level''): [[uneven]]
 *(''arithmetic''): [[odd]]
 
-====Translations====
+=====Translations=====
 <!--AdjFlat+Level-->'''flat and level'''
 {{top}}
 *Dutch: [[vlak]], [[vlakke]], [[gelijk]], [[gelijke]]
@@ -47,6 +52,11 @@
 *Swedish: [[stadig]] (''voice''), [[jämn]]
 {{bottom}}
 
+'''equal'''
+{{top}}
+{{mid}}
+{{bottom}}
+
 <!--AdjDividableBy2-->'''arithmetic: leaving no remainder when divided by 2'''
 {{top}}
 *Dutch: even, [[paar]], [[pare]]
@@ -66,61 +76,18 @@
 {{checktrans}}
 *{{ttbc|CJK Characters}}: [[齊]], [[齐]]
 
-===Adverb===
-'''even'''
-
-#<!--AdvAtLeast-->At least.
-#:''Even a blind squirrel finds an acorn sometimes.''
-#:''Did you even make it through the front door?''
-#<!--AdvIntensifier-->Used as an intensifier in a context indicating progression. <!-- help? -->
-#:''I didn't even make it through the front door before someone stopped me.''
-#:''That was before I was even born.''
-
-====Translations====
-
-<!--AdvAtLeast-->'''at least'''
-{{top}}
-*Dutch: [[zelfs]]
-*Finnish: [[jopa]], [[edes]]
-*French: [[même]]
-*Italian: [[anche]]
-{{mid}}
-*Galician: [[aínda]], [[até]], [[incluso]]
-*Latin: [[etiam]]
-*Russian: [[даже]], [[вообще]] (only used in questions)
-*Swedish: [[även]]
-{{bottom}}
-
-<!--AdvIntensifier-->'''intensifier'''
-{{top}}
-*Dutch: (niet) [[eens]], [[zelfs]]
-*Esperanto: [[eĉ]]
-*Finnish: [[edes]]
-{{mid}}
-*Galician: [[nin]], [[nin sequera]], [[aínda]]
-*Russian: [[даже]], [[вообще]] 
-*Swedish: [[ens#Swedish|ens]]
-**''Jag hann inte ''ens'' till dörren'' - I didn't even make it to the door
-{{bottom}}
-
-=====Translations to be checked=====
-<!--Remove this section once all of the translations below have been moved into the tables above.-->
-{{checktrans}}
-*{{ttbc|Ido}}: [[mem]]
-*{{ttbc|Spanish}}: [[aun]], [[hasta]], [[aún]]
-
-===Verb===
-{{en-infl-reg-consonant|even||}}
+====Verb====
+{{en-verb|even|evens|evened|evening}}
 
 #<!--VTrMakeFlat--> To make even (that is, flat and level).
 #:''We need to even this playing field; the west goal is too low.''
 
-====Synonyms====
+=====Synonyms=====
 <!--VTrMakeFlat-->
 *[[flatten]]
 *[[level]]
 
-====Translations====
+=====Translations=====
 
 <!--VTrMakeFlat-->'''make even'''
 {{top}}
@@ -131,17 +98,67 @@
 *Swedish: [[jämna]], [[jämna ut]], [[plana ut]], [[platta till]]
 {{bottom}}
 
-===Noun===
-'''even'''
+===Etymology 2===
+Old English [[efne]].
 
-#<!--NEvening-->(''archaic'') The [[evening]] of the day.
+====Adverb====
+'''even''' (''not comparable'')
 
-====Synonyms====
+# [[exactly]], [[just]], [[fully]]
+#:''I fulfilled my instructions '''even''' as I had promised.''
+# Implying an extreme example in the case mentioned, as compared to the implied reality
+#:'''''Even''' a blind squirrel finds an acorn sometimes.''
+#:''Did you '''even''' make it through the front door?''
+#:''That was before I was '''even''' born.''
+# emphasising a comparative
+#:''I was strong before; but now I am '''even''' stronger.''
+
+=====Translations=====
+
+'''exactly, fully'''
+{{top}}
+{{mid}}
+{{bottom}}
+
+<!--AdvAtLeast-->'''implying extreme example'''
+{{top}}
+*Dutch: [[zelfs]], (niet) [[eens]]
+*Esperanto: [[eĉ]]
+*Finnish: [[jopa]], [[edes]]
+*French: [[même]]
+*Italian: [[anche]]
+{{mid}}
+*Galician: [[aínda]], [[até]], [[incluso]], [[nin]], [[nin sequera]]
+*Latin: [[etiam]]
+*Russian: [[даже]], [[вообще]] (only used in questions)
+*Swedish: [[även]], [[ens#Swedish|ens]]
+{{bottom}}
+
+'''emphasising comparative'''
+{{top}}
+{{mid}}
+{{bottom}}
+
+=====Translations to be checked=====
+<!--Remove this section once all of the translations below have been moved into the tables above.-->
+{{checktrans}}
+*{{ttbc|Ido}}: [[mem]]
+*{{ttbc|Spanish}}: [[aun]], [[hasta]], [[aún]]
+
+===Etymology 3===
+Old English [[æfen|ǣfen]].
+
+====Noun====
+{{en-noun|even|evens}}
+
+#<!--NEvening-->(''archaic or poetic'') [[evening|Evening]].
+
+=====Synonyms=====
 <!--NEvening-->
 *[[e'en|e’en]] (''archaic'')
 *[[evening]]
 
-====Translations====
+=====Translations=====
 
 <!--NEvening-->'''Evening of the day'''
 {{top}}
