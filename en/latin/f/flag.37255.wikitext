@@ -1,26 +1,28 @@
+{{Commons}}
+{{wikipedia}}
 ==English==
 
 ===Pronunciation===
+[[Image:Flyingrainbowflag.JPG|right|thumb|a flag]]
 *{{audio|en-us-flag.ogg|Audio (US)}}
-{{Commons}}
-{{wikipedia}}
-[[Image:Flyingrainbowflag.JPG|right|thumb]]
-=== Noun ===
-'''flag'''  (''plural:'' [[flags]])
-# a piece of [[cloth]], often decorated with an emblem, used as a visual [[signal]] or [[symbol]].
+
+===Noun===
+{{en-noun-reg}}
+
+# A piece of [[cloth]], often decorated with an emblem, used as a visual [[signal]] or [[symbol]].
 #: Most countries, and many smaller political divisions, have a recognizable flag as a symbol.
 #: Some signaling systems use flags to transmit messages, such as [[semaphore]] and nautical signal flags.
 #: In [[American football]], yellow flags are used to indicate penalties.
 # (''Computer Science'') A [[variable]] or memory location that stores a true-or-false, yes-or-no value, typically either recording the fact that a certain event has occurred or requesting that a certain optional action take place.
 # (''Computer Science'') In a [[CLI|command line interface]], a notation requesting optional behavior or otherwise modifying the action of the command being invoked.
-# a [[flagstone]].
+# A [[flagstone]].
 
-==== Synonyms ====
-
+====Synonyms====
 * (''Computer Science'', true-or-false value) [[Boolean]]
 * (''Computer Science'', CLI notation) [[switch]]
 
-==== Translations ====
+====Translations====
+{{rfc-trans}}
 '''flag'''
 {{top}}
 *Bosnian: [[zastava#Bosnian|zastava]] {{f}}
@@ -35,9 +37,9 @@
 *Hungarian [[zászló]] (1), [[jelzőbit]] (2), [[járdalap]] (4)
 *Indonesian: [[bendera]]
 *Italian: [[bandiera]] ''f''
-{{mid}}
 *Japanese: [[旗]] ([[はた]], hata)
 *[[Kurdish]]: [[ala]] ''f''
+{{mid}}
 *[[Lao]]: [[ທຸງ]]
 *Nauruan: [[aniden]]
 *Norwegian: [[flagg]]
@@ -53,33 +55,38 @@
 *[[Tok Pisin]]: [[plag]] (1)
 {{bottom}}
 
-=== Adjective ===
-'''flag'''
-# Of or pertaining to an [[admiral]], [[commodore]], or [[general]] officer
-#:''Captains park in the second row, flag officers next to the building.''
+===Adjective===
+{{en-adj-notcomp}}
 
-=== Transitive verb ===
-'''to flag'''  ([[flags]], [[flagged]], [[flagging]])
-# {{cattag|Computing}}: to signal (an event).
+# Of or pertaining to an [[admiral]], [[commodore]], or [[general]] officer.
+#:''Captains park in the second row, '''flag''' officers next to the building.''
+
+===Transitive verb===
+{{en-infl-reg-consonant|flag||g}}
+
+# {{cattag|Computing}}: To signal (an event).
 #: ''The compiler flagged three errors.''
-# {{cattag|Computing}}: to set a program variable to ''true''.
+# {{cattag|Computing}}: To set a program variable to ''true''.
 #: ''Flag the debug option before running the program.''
-# (often with ''down'') to signal (someone) to stop.
+# (often with ''down'') To signal (someone) to stop.
 #: ''Please flag a taxi down for me.''
-# to lay down flagstones
+# To lay down flagstones.
 #: ''Fred is planning to flag his patio this weekend.''
 
-==== Translations ====
+====Translations====
+{{rfc-trans}}
 *Danish: [[signalere]] (1); [[tilkalde]] (2)
 *Hungarian: [[jelez]] (1), [[leint]] (2)
 *Swedish: [[signalera]] (1), [[flagga för]] (1)
 
-=== Intransitive verb ===
-'''to flag'''  ([[flags]], [[flagged]], [[flagging]])
-# to [[weaken]].
+===Intransitive verb===
+{{en-infl-reg-consonant|flag||g}}
+
+# To [[weaken]].
 #: ''His strength flagged toward the end of the race.
 
-==== Translations ====
+====Translations====
+{{rfc-trans}}
 *Danish: [[svækkes]]
 *Dutch: [[verzwakken]]
 *French: [[affaiblir]]
@@ -87,7 +94,7 @@
 *Hungarian: [[lankad]]
 *Portuguese: [[enfraquecer]]
 
-=== See also ===
+===See also===
 *[[banner]]
 *[[colour]]
 *[[ensign]]
@@ -96,10 +103,6 @@
 *[[standard]]
 
 [[Category:1000 English basic words]]
-[[Category:English adjectives]]
-[[Category:English language]]
-[[Category:English nouns]]
-[[Category:English verbs]]
 
 [[fr:flag]]
 [[io:flag]]
