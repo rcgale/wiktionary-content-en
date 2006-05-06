@@ -1,0 +1,12 @@
+{{wikipedia}}
+
+==English==
+
+===Noun===
+'''[[regular]] [[expression]]'''
+
+# {{computing}} A concise description of a [[pattern]] to be matched during a [[string]] [[search]].  The pattern is written according to one of several small [[formal language]]s devised for this purpose, and may call for matching fixed strings, runs of arbitrary characters, characters selected from a set, alternate words, and other specifics.
+#* Example: “<code>^[Tt]his is .* test</code>” is a regular expression which matches the string “This is”, followed by an arbitrary string of characters, followed by the word “test”.  The matched string must begin at the beginning of the line.  The word “this” may be capitalized or not.  The notation “<code>.*</code>” matches any number (0 or more) of any character.
+
+====Related terms====
+Abbreviations: [[re]], [[regex]], [[regexp]]
