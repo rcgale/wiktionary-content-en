@@ -1,10 +1,10 @@
 ==English==
-===Adj===
+===Adjective===
 '''deterministic'''
-# [[probability]] Describes a system whose time evolution can be predicted exactly.
-# [[algorithm]] Describes an algorithm in which the correct next step depends only on the current state. This contrasts with an algorithm involving backtracking where at each point there may be several possible actions and no way to chose between them except by trying each one and backtracking if it fails.
-===verb===
-[[determinism]]
+# of, or relating to [[determinism]]
+#{{mathematics}} (''of a Turing machine'') having at most one instruction associated with any given internal state
+#(''[[probability]]'') Describes a system whose time evolution can be predicted exactly.
+#{{computing}} Describes an algorithm in which the correct next step depends only on the current state. This contrasts with an algorithm involving backtracking where at each point there may be several possible actions and no way to chose between them except by trying each one and backtracking if it fails.
 
 ===References===         
 * The Free On-line Dictionary of Computing, © 1993-2005 Denis Howe
