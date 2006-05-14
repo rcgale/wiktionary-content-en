@@ -1,43 +1,93 @@
 ==English==
-
 ===Pronunation===
+{{rfp}}
+{{rfap}}
 \Con*tin"u*ous\
 
 ===Etymology===
-Latin ''[[continuus]]'', from ''[[continere]]'', to hold together.
+{{L.}} ''[[continuus]]'', from ''[[continere]]'', to hold together
 
 ===Adjective===
 '''continuous'''
 
-#{{time}} Without break, cessation, or interruption; without intervening space or time; uninterrupted; unbroken; continual; unceasing; constant; continued; protracted; extended; as, a continuous line of railroad; a continuous current of electricity.
+#{{time}} Without break, cessation, or interruption; without intervening time
+#:''a continuous current of electricity''
 #:'''Quotations'''
 #:*He can hear its '''continuous''' murmur.   - Longfellow.
+#without intervening space; continued; protracted; extended
+#:''a continuous line of railroad''
 #{{botany}} Not deviating or varying from uninformity; not interrupted; not joined or articulated.
-#{{analysis}} Of a [[map]], having the mathematical property that has the following formal <math>\epsilon</math>-<math>\delta</math>-definition: Given <math>I,D\subset\mathbb{R}</math> (''I'' and ''D'' are subsets of the [[Real Numbers]]), continuity of <math>f(x):I \to D</math> (<math>f(x)</math> maps the [[interval]] ''I'' to the interval ''D'') at <math>c\in\mathbb{R}</math> means, for all <math>\varepsilon>0</math>, there exists a <math>\delta>0</math> such that <math>|x-c|<\delta</math> and <math>x\in I</math> [[implies]] <math>|f(x)-f(c)|<\varepsilon</math>.
+#{{analysis}} Of a [[map]], having the mathematical property that has the following formal <math>\epsilon</math>-<math>\delta</math>-definition: Given <math>I,D\subset\mathbb{R}</math> (''I'' and ''D'' are subsets of the [[real Numbers]]), continuity of <math>f(x):I \to D</math> (<math>f(x)</math> maps the [[interval]] ''I'' to the interval ''D'') at <math>c\in\mathbb{R}</math> means, for all <math>\varepsilon>0</math>, there exists a <math>\delta>0</math> such that <math>|x-c|<\delta</math> and <math>x\in I</math> [[implies]] <math>|f(x)-f(c)|<\varepsilon</math>.
+#{{grammar}} Expressing an ongoing action or state.
 
-===Usage notes===
+====Usage notes====
 *'''Continuous''' is the stronger word, and denotes that the continuity or union of parts is absolute and uninterrupted; as, a '''continuous sheet''' of ice; a '''continuous''' flow of water or of argument. So Daniel Webster speaks of "a '''continuous''' and unbroken strain of the martial airs of England." 
 *'''Continual''', in most cases, marks a close and unbroken succession of things, rather than absolute continuity. Thus we speak of '''continual''' showers, implying a repetition with occasional interruptions; we speak of a person as liable to '''continual''' calls, or as subject to '''continual''' applications for aid, etc.
 
-===Derived terms===
-*'''Continuous brake''', ''(Railroad):'' a [[brake]] which is attached to each car of a train, and can be caused to operate in all the cars simultaneously from a point on any car or on the engine.
-*'''Continuous impost'''. See [[Impost]].
+====Synonyms====
+*(''without break, cessation, or interruption in time''): [[constant]], [[continual]] (''but see usage notes above''), [[never-ending]], [[ongoing]], [[unbroken]], [[unceasing]], [[unending]], [[uninterrupted]]
+*(''without break, cessation, or interruption in space''): [[connected]], [[unbroken]]
+*(''in botany: not deviating or varying from uninformity''):
+*(''in mathematical analysis''):
+*(''in grammar''):
 
-===Antonym===
-[[discontinuous]], [[batch]].
+====Antonyms====
+*(''without break, cessation, or interruption in time''): [[broken]], [[discontinuous]], [[discrete]], [[intermittent]], [[interrupted]]
+*(''without break, cessation, or interruption in space''): [[broken]], [[disconnected]], [[disjoint]], [[unbroken]]
+*(''in botany: not deviating or varying from uninformity''):
+*(''in mathematical analysis''):
+*(''in grammar''):
+<!--where does this one, from Webster, belong? [[batch]]-->
+
+====Derived terms====
+*[[continuous brake]]<!--Webster:
+*'''Continuous brake''', ''(Railroad):'' a [[brake]] which is attached to each car of a train, and can be caused to operate in all the cars simultaneously from a point on any car or on the engine.-->
+*[[continuous impost]]<!--Webster: *'''Continuous impost'''. See [[Impost]].-->
+
+====Translations====
+'''without break, cessation, or interruption in time'''
+{{top}}
+*French: [[continu#French|continu]] {{m}}, continue {{f}}
+{{mid}}
+*Italian: [[continuo]] {{m}}, continua {{f}}
+{{bottom}}
+
+'''without break, cessation, or interruption in space'''
+{{top}}
+*French: [[continu#French|continu]] {{m}}, continue {{f}}
+{{mid}}
+*Italian: [[continuo]] {{m}}, continua {{f}}
+{{bottom}}
+
+'''in botany: not deviating or varying from uninformity'''
+{{top}}
+{{mid}}
+{{bottom}}
+
+'''in mathematical analysis'''
+{{top}}
+*French: [[continu#French|continu]] {{m}}, continue {{f}}
+{{mid}}
+{{bottom}}
+
+'''in grammar'''
+{{top}}
+{{mid}}
+{{bottom}}
+
+=====Translations to be checked=====
+{{checktrans}}
+<!--Remove this section once all of the translations below have been moved into the tables above.-->
+*{{ttbc|Chinese, Simplified}}: [[持续的]], [[连续的]]
+*{{ttbc|Chinese, Traditional}} [[持續的]], [[連續的]]
+*{{ttbc|Chinese, Pinyin}}: [[chíxù de]], [[liánxù de]]
+*{{ttbc|Dutch}}: [[continu#Dutch|continu]], [[continue#Dutch|continue]], [[voortdurend]], [[voortdurende]], [[aanhoudend]], [[aanhoudende]]
+*{{ttbc|German}}: [[kontinuierlich]] (1), [[stetig]] (1,3)
+*{{ttbc|Hebrew}}: [[רציף]]
+
 ===See also===
 *[[Constant]]
 *[[Contiguous]]
-
-====Translations====
-*'''Chinese'''
-*:''simplified'': 持续的;连续的
-*:''traditional: 持續的;連續的
-*:''pinyin'': chíxù de; liánxù de
-*'''Dutch''': [[continu]], [[continue]], [[voortdurend]], [[voortdurende]], [[aanhoudend]], [[aanhoudende]]
-*'''French''': [[continu]]
-*'''German''': [[kontinuierlich]] (1), [[stetig]] (1,3)
-*'''Hebrew''': [[רציף]]
 
 [[io:continuous]]
 [[hu:continuous]]
