@@ -2,6 +2,22 @@
 ===Symbol===
 '''∧''' (<math>\and</math>)
 
-# {{cattag|logic}} [[conjunction]]
+# {{cattag|Logic}} The [[conjunction]] operator, forming a [[Boolean]]-valued function, typically with two arguments, returning ''true'' only if all of its arguments are ''true''.
+
+The '''conjunction''' '''[[truth table]]''':
+{|{{prettytable}}
+|-
+!'''<math>\and</math>'''
+!'''''false'''''
+!'''''true'''''
+|-
+!'''''false'''''
+||false
+||false
+|-
+!'''''true'''''
+||false
+||true
+|}
 
 [[Category:Symbols]]
