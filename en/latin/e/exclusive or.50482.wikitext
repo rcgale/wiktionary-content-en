@@ -1,19 +1,30 @@
-{{wikipedia}}
 ==English==
+{{wikipedia|Exclusive disjunction}}
+===Etymology===
+From "[[exclusive]]" + "[[or]]", contrasting it with ''[[inclusive or]]''.
+
 ===Conjunction===
 '''exclusive or'''
-  
-#(''logic, computing'') A [[connective]] joining two [[predicate]]s A and B that is true when exactly one of A and B is true. Abbreviated ''[[XOR]]'', ''[[xor]]'' or [[⊕]].
+
+# {{cattag|logic|computing}} A [[connective]] joining two [[predicate]]s in [[exclusive disjunction]], i.e. one evaluating to true only when exactly one of its predicates is true.
+:''false '''exclusive or''' false is false''
+:''false '''exclusive or''' true is true''
+
+====Alternative forms====
+* [[XOR]]
+* [[xor]]
+* [[⊕]]
 
 ====Translations====
-*Finnish: [[poissulkeva tai]]
+{{top}}
+*Finnish: [[ehdoton tai]], [[poissulkeva tai]]
 *French: [[ou exclusif]]
 *Hungarian: [[kizáró vagy]]
+{{mid}}
 *Latin: [[aut#Latin|aut]]
 *Swedish: [[exklusive eller]]
+*Spanish: [[o exclusivo]]
+{{bottom}}
 
 ===See also===  
 *[[inclusive or]]
-
-[[Category:Logic]]
-[[Category:Computing]]
