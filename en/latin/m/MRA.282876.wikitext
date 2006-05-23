@@ -1,0 +1,4 @@
+'''MRA(Mail Retrival Agent)'''
+Message written to a server side mailbox may need to be read by a machine across the Internet.
+Different machines may be used by a user each time she access her mailbox. These are the problems solved by MRAs.
+An MRA is really a clint/server system: the server provides access to the user's mailbox on the MTA's machine, and the client is generally integrated with an MUA
