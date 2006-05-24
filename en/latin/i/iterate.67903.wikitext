@@ -1,12 +1,21 @@
 ==English==
 ===Pronunciation===
-*[[IPA]]: /'ɪtəreɪt/
+* {{IPA|/'ɪtəreɪt/}}
+
 ===Verb===
-'''iterate''' (iterating, iterated)
-# Repeat.
-#:''Note: ''Reiterate is much more commonly used with the intention of this meaning, but grammatically, reiterate means "repeat again", which denotes at least the third occurance.
-# ''Computer Science.'' To perform an action on a set of variables.
-#:''The max() function iterates through the data to find the highest value.''
+{{en-infl-reg-other-e|iterat|e}}
+
+# {{cattag|computing|mathematics}} to perform or repeat an action on each item in a set or on the results of each such prior action
+#:''The max() function '''iterates''' through the data to find the highest value.''
+
+===Noun===
+{{en-noun-reg}}
+
+# {{cattag|mathematics}} a function that iterates
+#:''f<sup>2</sup>(x<sub>0</sub>) is the second '''iterate''' of x<sub>0</sub> under f.''
+
+====Derived terms====
+* [[reiterate]]
 
 [[io:iterate]]
 [[pl:iterate]]
