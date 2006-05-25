@@ -6,6 +6,7 @@ From [[w:Pafnuty Chebyshev|Pafnuty Chebyshev]], the discoverer
 '''Chebyshev's [[theorem]]'''
 
 # the theorem that the prime counting function is of the same order of magnitude as ''x'' / ln ''x'', i.e., for the prime counting function ''π'', there are positive constants ''c'' and ''C'' such that:
-#: <math>\lim_{x\rightarrow\infty}\frac{cx}{\ln x} <= \pi(x) <= \frac{Cx}{\ln x}</math>
+#: <math>\forall x\in\mathbb{N}:
+\frac{cx}{\ln x} <= \pi(x) <= \frac{Cx}{\ln x}</math>
 # an alternative name for [[Bertrand's postulate]], as proven by Chebyshev
 # an alternative name for [[Chebyshev's inequality]]
