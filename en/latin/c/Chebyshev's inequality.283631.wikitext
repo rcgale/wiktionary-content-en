@@ -1,0 +1,6 @@
+==English==
+===Noun===
+'''Chebyshev's [[inequality]]'''
+
+# {{cattag|statistics}} the theorem that in any data sample with finite variance, the probability of any random variable ''X'' lying within an arbitrary real ''k'' number of [[standard deviation]]s of the [[mean]] is 1 / ''k''<sup>2</sup>, i.e. assuming mean μ and standard deviation σ, the probability Pr is:
+#: <math>\Pr(\left|X-\mu\right|\geq k\sigma)\leq\frac{1}{k^2}</math>
