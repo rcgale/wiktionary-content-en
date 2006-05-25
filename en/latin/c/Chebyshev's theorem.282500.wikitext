@@ -1,5 +1,8 @@
-{{rfc|needs a mathematician to format this properly - and probably needs renaming to [[Chebyshev's theorem]]}}
-Chebychev`s theorem
-there are positive constantsc and C so that eventually(for large-enough x)
-                cx/lnx<=Ø(x)<=Cx/lnx
-Proof?
+==English==
+===Noun===
+'''Chebyshev's [[theorem]]'''
+
+# the theorem that the rate of growth of the prime counting function is of the same order of magnitude as ''x'' / ln ''x'', i.e., for the prime counting function ''π'', there are positive constants ''c'' and ''C'' such that:
+#: <math>\lim_{x\rightarrow\infty}\frac{cx}{\ln x} <= \pi(x) <= \frac{Cx}{\ln x}</math>
+# an alternative name for [[Bertrand's postulate]], as proven by Chebyshev
+# an alternative name for [[Chebyshev's inequality]]
