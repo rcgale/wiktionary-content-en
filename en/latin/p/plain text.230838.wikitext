@@ -1,9 +1,26 @@
 ==English==
+
+===Alternative spellings===
+* [[plaintext]]
+
 ===Noun===
 '''plain text''' (''Plural:'' '''plain texts''')
 
-#Un-[[encoded]] text, text that is readable.
+# (''cryptography'') Un-[[encrypted]] text, text that is readable.
 #:''Using the sophisticated code was useless since the spy merely stole the '''plain text''' from the waste basket.''
+# {{computing}} Data which consists only of human-readable text, as opposed to machine-readable binary data.
 
-===Antonym===
-*[[ciphertext]]
+====Synonyms====
+* {{computing}} [[flat text]]
+
+====Antonyms====
+* (''cryptography'') [[ciphertext]]
+
+===Adjective===
+#Consisting only of plain text.
+
+====Synonyms====
+* {{computing}} [[ASCII]]
+
+====Antonyms====
+* {{computing}} [[binary]]
