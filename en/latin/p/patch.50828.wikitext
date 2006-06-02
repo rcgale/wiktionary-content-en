@@ -15,8 +15,8 @@
 # (figuratively) a fit.
 # A block on the muzzle of a gun, to do away with the effect of dispart, in sighting.
 # (archaic) A paltry fellow; a rogue; a ninny; a fool.
-# (''computing'') A file describing changes made to a computer file or files, usually changes made to a computer program that fix a [[computer bug]].  Applying a patch means changing files as described by the patch.
-# An [[adhesive]] piece of [[material]], [[impregnate]]d with a [[drug]], which is worn on the [[skin]]; the drug being slowly [[absorbed]] over a period of time
+# (''computing'') A file describing changes made to a computer file or files, usually changes made to a computer program that fix a programming [[bug]].  A [[patch file]], a file used for input to a patch program.
+# An [[adhesive]] piece of [[material]], [[impregnate]]d with a [[drug]], which is worn on the [[skin]]; the drug being slowly [[absorbed]] over a period of time.
 
 ====Synonyms====
  * ('''computing''') [[diff file]]
@@ -65,6 +65,9 @@
 {{mid}}
 {{bottom}}
 
+===Proper noun===
+# (''computing'') A program that takes a record of differences between one or more files as input and, considering those differences to be a set of changes between old and new file versions, re-applies the changes to files which resemble the old version producing files which resemble the new version.
+
 ===Transitive Verb===
 {{en-infl-reg-sibilant|pat|ch|}}
 
@@ -75,7 +78,9 @@
 # To make of pieces or patches like a quilt.
 # To repair as with patches.
 # To arrange in a hasty or clumsy manner; – generally with up; as, to patch up a truce.
-# (''computing'') To make the changes a patch describes; to apply a patch to the files in question.  Hence, to fix or improve a computer program without a complete [[upgrade]].
+# (''computing'') To make the changes a patch describes; to apply a patch to the files in question.  Hence:
+## To fix or improve a computer program without a complete [[upgrade]].  
+## To make a quick and possibly temporary change to a program.
 
 ====Translations====
 '''mend by sewing on cloth'''
@@ -127,6 +132,11 @@
 *[[patch up]]
 *[[patchwork]]
 *[[patchy]]
+*[[apply a patch]]
+*[[patch file]]
+
+===Related terms===
+*[[diff file]]
 
 [[ang:patch]]
 [[fr:patch]]
