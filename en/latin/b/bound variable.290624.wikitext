@@ -3,7 +3,7 @@
 ===Noun===
 {{en-noun-reg}}
 
-#{{computing}} A varable that has a storage location allocated for it, and therefore, usually, a variable that is associated with a value.
+#{{computing}} A variable that is associated with a value, and therefore a variable that has an allocated storage location.  If the programming language impliments a representation of a canonical unknown value, infinity, etc., the value bound to the variable may be on of these.
 
 ===See also===
 *[[bind]]
