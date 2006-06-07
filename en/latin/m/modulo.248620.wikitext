@@ -5,6 +5,7 @@
 #{{mathematics}} [[equivalence]] with respect to a [[specified]] [[modulus]]
 #:21 modulo 9 is 3 - because there is remainder of 3 left when 21 is divided by 9
 #('''computing slang''') "adjusted for" or "except for"
+#:The "tail recursion modulo cons" technique allows functions that would be tail recursive but for a cons call to be transformed into a tail recursive form.
 
 ===Noun===
 {{wikipediapar|modulo operation}}
