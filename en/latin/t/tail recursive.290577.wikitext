@@ -1,0 +1,12 @@
+==English==
+'''[[tail]] [[recursive]]'''
+
+===Noun===
+
+#{{computing}}A style of programming in which all [[function|functions]] are written so that the last thing done is either return a [[constant]] value or call a tail recursive function.
+
+===Adjective===
+#{{computing}}A program or function that can be rewritten in a tail recursive style.
+
+===See also===
+*[[tail recursion]]
