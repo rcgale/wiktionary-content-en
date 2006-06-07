@@ -6,8 +6,11 @@
 '''closure''' (''plural'': '''closures''')
 # an event or occurence that signifies an ending
 # a feeling of completeness; the experience of an emotional conclusion, usually to a difficult period
-# {{computing}}: an [[abstraction]] that represents a function within a context consisting of the variables that are both [[bound variable|bound]] at a particular time during the execution of the program and that are within the function's [[scope]]
+# {{computing}}: an [[abstraction]] that represents a function within an [[environment]], a context consisting of the variables that are both [[bound variable|bound]] at a particular time during the execution of the program and that are within the function's [[scope]]
 # {{mathematics}}: the smallest object that both includes the object as a subset and possesses some given property
+
+====Troponyms====
+* (computing) [[thunk]]
 
 ===See also===
 * [[cloture]]
