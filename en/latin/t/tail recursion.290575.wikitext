@@ -2,7 +2,7 @@
 
 ===Noun===
 
-#{{computing}}The technique of writing a [[function]] so that the last thing it does is either return a [[constant]] value or call itself.
+#{{computing}}The technique of writing a [[function]] so that [[recursive]] calls are only done immediately before function return, particularly when [[recursive]] [[control structure|control structures]] are used in place of [[iterative]] ones.
 
 ===See also===
 *[[recursion]]
