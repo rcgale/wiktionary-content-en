@@ -11,8 +11,10 @@
 
 ===Noun===
 {{wikipedia}}
-'''macro'''
-#{{computing}} a single [[pseudo-]][[instruction]], often taking [[parameter]]s, in an [[assembly language]], that [[expand]]s to many lines of [[code]] when [[assembled]]; somewhat [[equivalent]] to a [[function]] in a [[high-level]] [[programming language]]
+{{en-noun-reg}}
+
+#{{complang}} A name (possibly followed by a formal argument list) that is equated to a body of text (possibly including notation marking the placement of arguments) which replaces all occurences of the name (and its arguments) in the [[macro expansion]] of another text.
+#{{computing}} Any substitution of a collection of actions for a single action.
 
 [[ta:macro]]
 [[vi:macro]]
