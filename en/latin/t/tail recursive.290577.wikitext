@@ -1,11 +1,12 @@
 ==English==
-'''[[tail]] [[recursive]]'''
 
 ===Noun===
+{{en-noun-unc}}
 
 #{{computing}}A style of programming in which all [[function|functions]] are written so that [[recursive]] calls are made nowhere but immediately before function return.
 
 ===Adjective===
+{{rfc|This needs an adjective template.  It takes -ly but not -er}}
 #{{computing}}A program or function that is written or can be rewritten in a tail recursive style.
 
 ===See also===
