@@ -5,7 +5,12 @@
 
 <!-- Note that "replaced by" is call by reference, "bound to" is call by value. -->
 # {{complang}} A name in a [[function]] or [[subroutine]] definition that is replaced by, or [[bound]] to, the corresponding actual [[argument]] when the function or subroutine is called.
+# {{complang}} A value passed to a function; an [[actual argument]].
 # {{cattag2|Mathematics|Physics}} A variable kept constant during an experiment, calculation or similar.
+
+====Usage====
+
+The ''actual argument'' sense is a loose usage.
 
 ====Synonyms====
 *[[argument]]
