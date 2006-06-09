@@ -13,9 +13,14 @@
 {{wikipedia}}
 {{en-noun-reg}}
 
-#{{compsci}} A macro is an [[abstraction]] whereby a certain textual pattern is replaced according to a defined set of rules.
-#{{complang}} The name of a specific textual pattern taken in the context of a specific set of replacement rules -- a name (possibly followed by a formal argument list) that is equated to a body of text (possibly including notation marking the placement of arguments) which [[macro expansion]] substitutes for all occurences of the name (and any arguments) that appear in a second text, the text undergoing macro expansion.
+#{{computing_theory}} An [[abstraction]] whereby a certain textual pattern is replaced according to a defined set of rules.
+#{{complang}} A specific textual replacement pattern taken in the context of a specific set of replacement rules; a [[macro name]] and associated [[macro body]].
+#{{complang}} The name and formal argument list of a '''macro''' pattern; a [[macro name]].
+#{{complang}} An occurrence of text matching a [[macro name]] in the [[target]] of a [[macro expansion]].
 #{{computing}} Any substitution of a collection of actions for a single action.
+
+====See also====
+*[[macro expansion]]
 
 [[ta:macro]]
 [[vi:macro]]
