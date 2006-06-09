@@ -3,4 +3,4 @@
 ===Idiom===
 '''[[continuation]] [[passing]] [[style]]'''
 
-#{{computing}} A style of [[programming]] in which every user [[function]] f takes an extra argument c known as a [[continuation]]. Whenever f would normally return a result r to its caller, it instead returns the result of applying the continuation to r.
+#{{complang}} A style of [[programming]] in which every user [[function]] f takes an extra argument c known as a [[continuation]]. Whenever f would normally return a result r to its caller, it instead returns the result of applying the continuation to r.
