@@ -1,13 +1,14 @@
 ==English==
 
 ===Noun===
-'''parameter'''
+{{en-noun-reg}}
 
-# {{complang}} A value passed to a [[function]].
+<!-- Note that "replaced by" is call by reference, "bound to" is call by value. -->
+# {{complang}} A name in a [[function]] or [[subroutine]] definition that is replaced by, or [[bound]] to, the corresponding actual [[argument]] when the function or subroutine is called.
 # {{cattag2|Mathematics|Physics}} A variable kept constant during an experiment, calculation or similar.
 
 ====Synonyms====
-*[[argument]] (1)
+*[[argument]]
 
 ====Translations====
 
