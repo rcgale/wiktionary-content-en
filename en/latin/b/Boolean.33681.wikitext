@@ -7,27 +7,38 @@ from [[w:George Boole|George Boole]] (1815&ndash;1864), [[British]] [[mathematic
 
 ===Adjective===
 '''Boolean'''
-# (''mathematics'', ''computer science'') Pertaining to data items that can record simple [[true]]/[[false]] ([[1]]/[[0]]) values, and to operations on such values.
+# {{logic}} {{computing}} Pertaining to data items that can record simple [[true]]/[[false]] ([[1]]/[[0]]) values, and to operations on such values.
 
-====Translations====
-*Dutch: [[booleaans]], [[booleaanse]]
-*French: [[booléen]], [[boolien]]
-*German: [[boolsch]]
-*Polish: [[boolowski]]
 ====Derived terms====
 *[[Boolean algebra]]
 *[[Boolean function]]
 *[[Boolean logic]]
 *[[Boolean variable]]
 
+====Translations====
+'''logic: pertaining to data items'''
+{{top}}
+*Dutch: [[booleaans]], [[booleaanse]]
+*French: [[booléen]], [[boolien]]
+*German: [[boolsch]]
+{{mid}}
+*Japanese: [[ブール代数の]] (būrudaisū-no)
+*Polish: [[boolowski]]
+{{bottom}}
+
 ===Noun===
 '''Boolean'''
-# (''logic'', ''computer science'') A [[variable]] that can hold a single [[true]]/[[false]] ([[1]]/[[0]]) value.
+# {{logic}} {{computing}} A [[variable]] that can hold a single [[true]]/[[false]] ([[1]]/[[0]]) value.
 
 ====Synonyms====
 * [[flag]]
 
 ====Translations====
+'''logic: a variable'''
+{{top}}
 *Dutch: [[booleaanse waarde]]
-*French: [[variable]] [[booléenne]] ''f''
-*German: Boolean ''m''; (boolsche Variable ''f'')
+*French: [[variable]] [[booléenne]] {{f}}
+{{mid}}
+*German: Boolean {{m}}; (boolsche Variable) {{f}}
+*Japanese: [[ブール代数]] (būrudaisū)
+{{bottom}}
