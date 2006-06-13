@@ -17,13 +17,22 @@
 {{bottom}}
 
 ===Noun===
-'''array'''
+{{en-noun-reg}}
 
 #<!--DefB--> Clothing and ornamentation.
 #<!--DefC--> A collection laid out to be viewed in full.
 #<!--DefD--> A large collection.
 #: ''We offer a dazzling array of choices.''
-#<!--DefE--> {{computing}} An arrangement of memory elements in which each element is represented by one or more indices, one for each "dimension" of the array.
+#<!--DefE--> {{complang}} A [[data structure]] consisting of a series of [[contiguous]]  [[storage location|storage locations]] which are accessed via an [[integer]] [[offset]] from the [[address]] of the array.  A [[vector]].
+#{{complang}} A [[multidimensional array]].
+# {{computing}} An [[associative array]].
+
+====Synonyms====
+* {{computing}} (the data structure) [[vector]]
+
+====See also====
+* {{computing}} [[ones based indexing]]
+* {{computing}} [[zero based indexing]]
 
 ====Translations====
 <!--DefB-->'''clothing/ornamentation'''
