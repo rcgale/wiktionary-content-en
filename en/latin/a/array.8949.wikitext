@@ -23,12 +23,13 @@
 #<!--DefC--> A collection laid out to be viewed in full.
 #<!--DefD--> A large collection.
 #: ''We offer a dazzling array of choices.''
-#<!--DefE--> {{complang}} A [[data structure]] consisting of a series of [[contiguous]]  [[storage location|storage locations]] which are accessed via an [[integer]] [[offset]] from the [[address]] of the array.  A [[vector]].
+#<!--DefE--> {{complang}} A [[vector]].
 #{{complang}} A [[multidimensional array]].
 # {{computing}} An [[associative array]].
 
-====Synonyms====
-* {{computing}} (the data structure) [[vector]]
+====Usage notes====
+
+* {{complang}} (the data structure)  The synonym "[[vector]]" is less ambiguous.
 
 ====See also====
 * {{computing}} [[ones based indexing]]
