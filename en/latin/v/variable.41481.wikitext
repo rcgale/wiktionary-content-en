@@ -86,7 +86,7 @@
 #:''There are several '''variables''' to consider here.''
 #{{mathematics}} a quantity that may assume any one of a set of values
 #{{mathematics}} a symbol representing a variable
-#{{computing}} a named [[mutable]] piece of storage
+#{{complang}} a named memory location in which a program can store intermediate results and from which it can read it them
 #{{astronomy}} a [[variable star]]
 
 ====Synonyms====
@@ -98,7 +98,9 @@
 *(''something that is variable''): [[constant]], [[invariable]]
 
 ====Derived terms====
+*[[bound variable]]
 *[[dependent variable]]
+*[[free variable]]
 *[[independent variable]]
 *[[metasyntactic variable]]
 *[[variability]]
