@@ -3,7 +3,7 @@
 ===Noun===
 {{en-noun-reg|singular=[[multidimensional]] [[array]]}}
 
-#{{complang}} A [[data structure]] consisting of a [[vector]] of vectors, in the case of a 2-dimensional array, or, in the case of an N-dimensional array, a vector of multidimensional arrays of degree N minus 1.
+#{{complang}} A [[data structure]] consisting of a [[vector]] of vectors, in the case of a 2-dimensional array, or, in the case of an N-dimensional array, a vector of multidimensional arrays of degree N minus 1, thereby allowing the simulation of a N-dimensional [[grid]] of storage locations using an underlying memory [[architecture]] in which storage is [[addressed]] in a [[linear]] fashion.
 
 ====See also====
 * [[array]]
