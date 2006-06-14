@@ -3,7 +3,8 @@
 ===Transitive verb===
 {{en-infl-reg-other-e|dereferenc|e}}
 
-# {{complang}} to traverse a [[variable]] reference, i.e. to obtain the [[value]] stored in the [[memory location]] that is the target (''r-value'') of a reference (or pointer) variable
+# {{complang}} To dereference a memory location is to obtain the value stored therein in a context which interprets the value obtained as the address of a memory location.
+# {{complang}} (in the context of computer languages which support [[pointer|pointers]]) To access the thing to which a pointer points.
 
 ====See also====
 * [[pointer]]
