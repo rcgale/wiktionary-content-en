@@ -14,7 +14,7 @@
 # {{sociology}} a person or entity that passes along an [[urban legend]] or other [[meme]] from the concept of biological vector
 # the way in which the eyes are drawn across the visual text. The trail that a book cover can encourage the eyes to follow from certain objects to others
 # {{computing}} (operating systems) a memory address containing the address of a [[code entry point]], usually one which is part of a [[table]] and often one that is [[dereference|deferenced]] and [[jump|jumped]] to during the execution of an [[interrupt]]
-# {{complang}} A [[data structure]] consisting of a series of [[contiguous]] [[storage location|storage locations]] which are accessed via an [[integer]] [[offset]] from the [[address]] of the first storage location.  
+# {{complang}} A [[data structure]] consisting of a series of [[contiguous]] [[storage location|storage locations]] which are accessed via an [[integer]] [[offset]] from the [[address]] of the first storage location, thereby allowing a collection of values which utilize a common [[storage layout]] to be referenced either individually or in [[aggregate]], as desired.
 # {{complang}} A one-dimensional [[array]].
 
 ====Hypernyms====
