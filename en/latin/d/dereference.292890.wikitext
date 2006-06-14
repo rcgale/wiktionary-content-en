@@ -3,8 +3,8 @@
 ===Transitive verb===
 {{en-infl-reg-other-e|dereferenc|e}}
 
-# {{complang}} To dereference a memory location is to obtain the value stored therein in a context which interprets the value obtained as the address of a memory location.
-# {{complang}} (in the context of computer languages which support [[pointer|pointers]]) To access the thing to which a pointer points.
+# {{complang}} To dereference a memory location is to obtain the value stored therein, in an execution context which interprets the value obtained as the [[address]] of a memory location; thus in the context of computer languages which support [[pointer|pointers]], to '''dereference''' a pointer is to access the thing to which it points.
 
 ====See also====
 * [[pointer]]
+* [[reference]]
