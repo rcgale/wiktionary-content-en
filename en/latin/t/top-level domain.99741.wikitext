@@ -1,5 +1,6 @@
 ==English==
 ===Noun===
 {{wikipedia}}
-'''[[top]]-[[level]] [[domain]]'''
-#{{computing}} the last part of an [[Internet]] [[domain name]], such as ''.com'', used to [[specify]] the [[class]] of [[organization]] to which the [[site]] belongs
+{{en-noun-reg|[[top]]-[[level]] [[domain]]}}
+<!-- All domains have an implicit trailing period which can be explictly written into, e.g., an URL without changing it's meaning.  But that's a technical detail not really worth getting into. -->
+#{{computing}} {{internet}} a [[domain name]] that does not contain any periods, such as ''com'', ''uk'', or ''edu''
