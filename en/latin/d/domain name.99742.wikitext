@@ -2,6 +2,17 @@
 ===Noun===
 {{wikipedia}}
 '''[[domain]] [[name]]'''
-#{{computing}} the [[unique]] name, consisting of an [[alphanumeric]] [[string]] separated by [[period]]s, used to [[identify]] [[computer]]s, [[organization]]s and [[site]]s on the [[Internet]]; the [[URL]] minus the [[subdomain]]
+#{{computing}} a [[unique]], [[case-insensitive]], name, consisting of a [[string]] made up of [[alphanumeric]] characters and [[dash|dashes]] separated by [[period]]s, that the [[Domain Name System]] [[map|maps]] to [[IP]] numbers and other information.  Hence:
+## an [[identifier]] of a [[computer]] or [[site]] on the [[Internet]]
+## a [[domain]] -- that part of a '''domain name''' which (nominally) identifies an organization; a '''domain name''' [[delegate|delegated]] to an independent administrative authority who is then responsible for the management of that portion of the [[Domain Name System]]'s [[namespace]] that consist of the delegated domain and all [[subdomain|subdomains]] that are not delegated in turn.
+
+====See also====
+* [[DNS]]
+* [[URL]]
+* [[domain]]
+* [[subdomain]]
+* [[zone]]
+* [[top-level domain]]
+
 ===Related terms===
 *[[top-level domain]]
