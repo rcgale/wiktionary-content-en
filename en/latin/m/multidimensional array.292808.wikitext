@@ -4,7 +4,8 @@
 {{en-noun-reg|singular=[[multidimensional]] [[array]]}}
 
 #{{complang}} A [[data structure]] consisting of a [[vector]] of vectors, in the case of a 2-dimensional array, or, in the case of an N-dimensional array, a vector of multidimensional arrays of degree N minus 1, thereby allowing the simulation of a N-dimensional [[grid]] of storage locations using an underlying memory [[architecture]] in which storage is [[addressed]] in a [[linear]] fashion.
-#{{complang}} Any [[abstraction]], usually a [[memory resident]] [[data structure]], that [[addresses]] storage locations via an N-dimensional [[coordinate space]]; an arbitrarily indexed [[array]] of arbitrarily indexed arrays.
+#{{complang}} A [[data structure]] that has the [[semantics]] of an [[array]] of arrays, all of which may be indexed with values of any [[data type]], usually with a supporting [[syntax]] built-into a programming language.
+#{{complang}} Any [[abstraction]], usually a [[memory resident]] [[data structure]], that [[addresses]] storage locations via an N-dimensional [[coordinate space]].
 
 ====See also====
 * [[array]]
