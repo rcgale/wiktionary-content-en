@@ -3,7 +3,7 @@
 {{wikipedia}}
 {{en-noun-reg}}
 #{{computing}} {{internet}} a [[domain name]] that has been prefaced with additional parts, each part ending in a [[period]]
-#:RFC1034 (aka STD0013), November 1987, "DOMAIN NAMES - CONCEPTS AND FACILITIES", "3.1. Name space specifications and terminology": A domain is a subdomain of another domain if it is contained within that domain.  This relationship can be tested by seeing if the subdomain's name ends with the containing domain's name.
+#:RFC1034 (aka STD0013), November 1987, "DOMAIN NAMES - CONCEPTS AND FACILITIES", "3.1. Name space specifications and terminology": A domain is a subdomain of another domain if it is contained within that domain.  This relationship can be tested by seeing if the subdomain's name ends with the containing domain's name.  For example, A.B.C.D is a subdomain of B.C.D, C.D, D, and " ".
 #{{computing}} {{internet}} any lower-level part of a [[domain name]]
 #: As an example consider en.wiktionary.org, en is a subdomain
 
