@@ -17,7 +17,10 @@ Perhaps an abbreviation of [[disk]] [[and]] [[execution]] [[monitor]], or of [[d
 
 ====Noun====
 {{en-noun|daemon|daemons}}
-# {{cattag|Computing}}: A [[program]] running as a [[background process]], performing tasks such as serving files to remote clients.
+# {{cattag|Computing}} ('''Unix'''): A [[process]] (a running program) that does not have a controlling [[terminal]].
+
+====Usage notes====
+* ('''Unix''') Often a '''daemon''' will be a [[server]].
 
 ===Alternative spellings===
 *[[dæmon]]
