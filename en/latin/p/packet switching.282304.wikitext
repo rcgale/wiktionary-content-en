@@ -2,6 +2,9 @@
 ===Noun===
 {{wikipedia}}
 '''[[packet]] [[switching]]'''
-#{{computing}} a [[software]]-[[controlled]] means of [[directing]] [[digitally]] [[encoded]] [[information]] in a [[communication]] [[network]] from its [[source]] to its [[destination]], in which [[message]]s may be [[divided]] into smaller [[entities]] called packets, which may be [[individually]] [[switched]] between [[node]]s
+#{{computing}} a means of [[directing]] [[digitally]] [[encoded]] [[information]] in a [[communication]] [[network]] from its [[source]] to its [[destination]], in which [[message]]s may be [[divided]] into smaller [[entities]] called packets, each of which travels a path through the network based on moment to moment [[route|routing]] decisions made by the [[node|nodes]] through which they pass.
+
+====See also====
+* [[circuit switching]]
 
 [[fi:packet switching]]
