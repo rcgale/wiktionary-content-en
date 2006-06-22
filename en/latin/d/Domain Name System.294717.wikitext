@@ -5,6 +5,7 @@
 '''[[domain name|Domain Name]] [[system|System]]'''
 
 # {{computing}} {{Internet}} The [[distributed]] [[database]], sometimes including all the supporting hardware or software infrastructure, the [[Internet]] uses to [[translate]] [[hostname|hostnames]] into [[IP number|IP numbers]] and provide other [[domain]] related information.
+#: BIND 9 Administrator Reference Manual (9.3.2), Internet Systems Consortium, Inc., http://www.bind9.net/manual/bind/9.3.2/Bv9ARM.ch01.html "The purpose of this document is to explain the installation and upkeep of the BIND software package, and we begin by reviewing the fundamentals of the Domain Name System (DNS) as they relate to BIND. ...  The Domain Name System (DNS) is the hierarchical, distributed database. It stores information for mapping Internet host names to IP addresses and vice versa, mail routing information, and other data used by Internet applications."
 
 ====Synonyms====
 * [[DNS]]
