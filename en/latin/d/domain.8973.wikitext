@@ -9,8 +9,10 @@
 # a [[sphere]] of [[influence]].
 # a [[group]] of [[related]] [[item]]s, [[topic]]s, or [[subject]]s.
 # {{math}} the [[set]] of all [[possible]] [[point]]s where a given [[function]] is defined.
-# {{computing}} {{Internet}} any [[Domain Name System|DNS]] [[domain name]], particularly one which has been [[delegate|delegated]] and has become representitive of the delegated domain name and it's [[subdomain|subdomains]]
-# {{computing}} {{internet}} a collection of [[Domain Name System|DNS]] or DNS-like [[domain name|domain names]] consisting of a [[delegate|delegated]] [[domain name]] and all its [[subdomain|subdomains]]
+# {{cattag|computing|Internet}} any [[Domain Name System|DNS]] [[domain name]], particularly one which has been [[delegate|delegated]] and has become representitive of the delegated domain name and it's [[subdomain|subdomains]]
+#*''BIND 9 Administrator Reference Manual (9.3.2)'', Copyright © 2004, 2005 Internet Systems Consortium, Inc. ("ISC"), Copyright © 2000-2003 Internet Software Consortium, http://www.bind9.net/manual/bind/9.3.2/Bv9ARM.ch01.html
+#*:Every name in the DNS tree is a '''domain''', even if it is terminal, that is, has no subdomains.
+# {{cattag|computing|internet}} a collection of [[Domain Name System|DNS]] or DNS-like [[domain name|domain names]] consisting of a [[delegate|delegated]] [[domain name]] and all its [[subdomain|subdomains]]
 # {{computing}} a collection of information having to do with a '''domain''', the [[computer|computers]] named in the '''domain''', and the [[network]] on which the computers named in the '''domain''' reside
 # {{computing}} the collection of computers identified by a '''domain''''s [[domain name|domain names]]
 #{{taxonomy}} the [[highest]] [[level]] grouping of [[organism]]s, above [[kingdom]]; coprises the [[prokaryota]] (cells have no nucleus) and the [[eukaryota]] (cells have a nucleus)
