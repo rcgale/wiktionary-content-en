@@ -1,24 +1,2 @@
-'''Content filtering''' is the most commonly used group of methods to filter spam. Content filters act either on the content, the information contained in the mail body, or on the mail headers (like "Subject:") to either classify, accept or reject a mail.
-
-The most popular filter is the [[Bayesian filtering|Bayesian filter]], which is a statistical filter. 
-
-Usually [[Anti-Virus]] methods can be classified as content filters too, since they scan (simplyfied) either the binary attachments of mail or the HTML contents.
-
-Common content filters are: 
- 
-* [[Bayesian filtering|Bayesian]] 
-* [[Attachment filtering|Attachment]] 
-* [[Mail header filtering|Mail header]] 
-* [[Mailing List filtering|Mailing List]] 
-* [[HTML anomalies filtering|HTML anomalies]] 
-* [[Language filtering|Language]] 
-* [[Heuristic filtering|Heuristic]] 
-* [[Regular Expression filtering|Regular Expression]] 
-* [[Phrases filtering|Phrases]] 
-* [[Proximity filtering|Proximity]] 
-* [[URL filtering|URL]]
-* [[Content-encoding filtering|Content-encoding]]
-* [[Char-set filtering|Char-set]]
-
-[[Category:Anti-Spam]]
-[[Category:Spam filtering]]
+'''Content filtering''' is a broad term, typically used in the technology space to describe 
+Web filtering [[Content-control software]] or [[Content filtering - Spam|Spam]] blocking solutions.
