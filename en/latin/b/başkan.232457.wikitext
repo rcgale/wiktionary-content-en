@@ -4,7 +4,59 @@
 Apparently combines the Turkic root ''Bash(i)'' 'head' and the (originally Mongol) title ''Khan''
 
 ===Noun===
-{{en-noun}}
+<span class="infl-inline">'''{{{sg|{{PAGENAME}}}}}''' (<!--
+
+// If the parameter lacks wiki markup:
+-->{{#if:{{isValidPageName|{{{1|-}}}1}}|<!--
+
+  // wikilink the plural(s) and countability tags
+  -->{{#ifeq:{{{1}}}|-|<!--
+    -->''[[uncountable]]''|<!--
+    -->{{#ifeq:{{{3|{{{2}}}}}}|-<!--
+      -->|''[[countable]] and [[uncountable]];''<!--
+    -->}}<!--
+
+    --> ''plural'' '''[[<!--
+
+//temporary legacy support (remove after adoption):
+-->{{#ifeq:{{{1}}}{{{2|}}}|{{PAGENAME}}{{{2}}}|{{{2}}}|<!--
+
+    -->{{#switch:{{{1|s}}}<!--
+      -->|s|es={{PAGENAME}}{{{1|s}}}<!--
+      -->|{{{1}}}{{#ifeq:{{{2|-}}}|-||{{{2|}}}}}<!--
+    -->}}<!--
+
+//temporary legacy support (remove after adoption):
+-->}}<!--
+
+    -->]]'''<!--
+    -->{{#if:{{{pl2|}}}<!--
+      -->|&nbsp;''or'' '''[[{{{pl2}}}]]'''<!--
+      -->{{#if:{{{pl3|}}}<!--
+        -->|&nbsp;''or'' '''[[{{{pl3}}}]]'''<!--
+      -->}}<!--
+    -->}}<!--
+  -->}}<!--
+
+  // Else the 1st parameter is the marked up plural
+  -->|{{{1}}}<!--
+-->}})</span><!--
+
+// Repeat above for display in table format.
+//
+// Anti-pattern: Extract and pull up method would
+// eliminate redundancy, but templating favou?rs short stacks.
+--><div class="infl-table">
+{| border=0 width=100%
+|-
+|bgcolor="#F8F8FF" valign=top width=49.75%|
+Singular<br>
+'''{{{sg|{{PAGENAME}}}}}'''
+| width=0.5% |
+|bgcolor="#F8F8FF" valign=top width=49.75%|
+Plural<br>
+{{#if:{{isValidPageName|{{{1|-}}}1}}|{{#ifeq:{{{1}}}|-|''[[uncountable]]''|{{#ifeq:{{{3|{{{2}}}}}}|-|''[[countable]] and [[uncountable]];''}} '''[[{{#ifeq:{{{1}}}{{{2|}}}|{{PAGENAME}}{{{2}}}|{{{2}}}|{{#switch:{{{1|s}}}|s|es={{PAGENAME}}{{{1|s}}}|{{{1}}}{{#ifeq:{{{2|-}}}|-||{{{2|}}}}}}}}}]]'''{{#if:{{{pl2|}}}|&nbsp;''or'' '''[[{{{pl2}}}]]'''{{#if:{{{pl3|}}}|&nbsp;''or'' '''[[{{{pl3}}}]]'''}}}}}}|{{{1}}}}}
+|}</div>
 
 # Title of the [[governor]] of the Gagauz-Yeri Autonomous Region (since 19 June 1995) within independent Moldova.
 
