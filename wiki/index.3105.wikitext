@@ -6,8 +6,11 @@
 # An [[alphabetical]] listing of items and their location; for example, the index of a book lists words or expressions and the pages of the book upon which they are to be found.
 # (''Linguistics'') A type of noun where the meaning of the form changes with respect to the context. E.g., 'Today's newspaper' is an indexical form since its [[referent]] will differ depending on the context. See also [[icon]] and [[symbol]].
 # The [[index finger]], the [[forefinger]].
-# {{complang}} An [[integer]] indicating the location of [[data]] within an [[array]].
+# {{complang}} A [[positive]] or [[non-negative]] [[integer]] indicating the location of [[data]] within a [[array]].
 # {{computing}} A [[key]] indicating the location of [[data]] or an [[object]], e.g. within a [[database]] [[table]], [[associative array]], or [[hash table]].
+
+====Usage notes====
+* (''positive or non-negative integer'') When speaking of arrays in the strictest, i.e., earliest and most well defined, sense -- one-dimensional arrays that are [[vector|vectors]] or [[multidimensional array]]s that are composed of vectors.
 
 ====See also====
 * {{computing}} [[ones based indexing]]
