@@ -2,13 +2,61 @@
 
 {{rank|Hart|social|shown|924|escape|Mr|shot|warm}}
 
-===Adjective===
-{{en-adj-notcomp}}
+===Etymology===
+Anglo-Norman and Old Northern French [[escaper]] ( = Old French [[eschaper]], modern [[échapper]]), from Vulgar Latin ''*excapare'', from Latin [[ex-]] + [[cappa]] ‘cloak’.
 
-# Facilitating or assisting in a specific act of [[#Noun|escape]].
-# Helping to get around a limitation or regulation; as an [[escape sequence]], an [[escape clause]].
-#*'''1988''', Kernighan and Ritchie, ''The C Programming Language'', Prentice Hall Software Series, ISBN 0-13-110370-9, 2nd edition page 37
-#*:Certain characters can be represented in character and string contants by '''escape''' sequences like \n (newline); these sequences look like two characers, but represent only one.
+===Pronunciation===
+{{IPA|/ɪˈskeɪp/}}
+
+===Verb===
+{{en-infl-reg-other-e|escap|e}}
+
+# ''(intransitive)'' To get free, to free oneself.
+#: ''The prisoners '''escaped''' by jumping over a wall.''
+# ''(transitive)'' To [[avoid]] (any unpleasant person or thing); to [[elude]], get away from.
+#: ''He only got a fine and so '''escaped''' going to jail.''
+#: ''The children climbed out of the window to '''escape''' the fire.''
+# ''(intransitive)'' To avoid capture; to get away with something, avoid punishment.
+#:''Luckily, I '''escaped''' with only a fine.''
+# ''(transitive)'' To elude observation or notice; to not be seen or remembered by.
+#: ''The name of the hotel '''escapes''' me at present.''
+# {{computing}} To prefix a character with a special character (depending on context) to allow a character to pass through without special meaning.
+#: ''When using the "bash" shell, you can '''escape''' the ampersand character with a backslash.''
+#: ''In your monobook.js file, you can '''escape''' the apostrophe character with a backslash.''
+#: ''Brion '''escaped''' the double quote character on Windows by adding a second double quote within the literal.''
+# {{computing}} to [[halt]] a [[program]] or [[command]] by pressing a [[key]] (such as the [[Esc key]]) or [[combination]] of keys
+
+====Derived terms====
+{{top2}}
+*[[escapee]]
+*[[escapement]]
+*[[escapism]]
+*[[escapist]]
+*[[escapologist]]
+{{mid2}}
+*[[escapology]]
+*[[escape sequence]]
+*[[fire escape]]
+*[[lucky escape]]
+*[[make an escape]]
+{{bottom}}
+
+====Translations====
+{{rfc-trans}}
+{{top}}
+*[[Chemehuevi]]: [[na-'wi-cipi-nkɨ]]
+*Dutch: [[ontsnappen]]
+*Finnish: [[paeta]] (1), [[välttyä]] (2)
+*French: [[échapper]] (1), [[éviter]] (2)
+*Italian: [[scappare]] (1), [[evitare]] (2)
+{{mid}}
+*Kurdish: [[revîn]] (1), [[bazdan]] (1), [[filitîn]] (2)
+*Slovak: [[utiecť]] (1), [[vyhnúť sa]] (2)
+*Slovene: [[pobegniti]], [[zbežati]] (1)
+*Spanish: [[fugarse]]
+*Swedish: [[fly]] (1), [[undvika]], [[undfly]] (2)
+*Telugu: [[తప్పించుకొను]] (tappiMchukonu)
+{{bottom}}
 
 ===Noun===
 {{en-noun-reg}}
@@ -28,52 +76,6 @@
 *Slovene: [[pobeg]] {{m}} (1)
 *Swedish: [[flykt]] {{c}} (1)
 {{bottom}}
-
-===Verb===
-{{en-infl-reg-other-e|escap|e}}
-
-# To leave a dangerous or unpleasant situation.
-#: ''The children climbed out of the window to '''escape''' the fire.''
-#: ''The hostages '''escaped''' their captors by jumping over a wall.''
-# To [[avoid]]. <!-- This definition is redundant with previous def -->
-#: ''He only got a fine and so '''escaped''' going to jail.''
-# {{computing}} To prefix a character with a special character (depending on context) to allow a character to pass through without special meaning.
-#: ''When using the "bash" shell, you can '''escape''' the ampersand character with a backslash.''
-#: ''In your monobook.js file, you can '''escape''' the apostrophe character with a backslash.''
-#: ''Brion '''escaped''' the double quote character on Windows by adding a second double quote within the literal.''
-# {{computing}} to [[halt]] a [[program]] or [[command]] by pressing a [[key]] (such as the [[Esc key]]) or [[combination]] of keys
-
-====Derived terms====
-*[[escapee]]
-*[[escapement]]
-*[[escapism]]
-*[[escapist]]
-*[[escapologist]]
-*[[escapology]]
-*[[escape sequence]]
-*[[fire escape]]
-*[[lucky escape]]
-*[[make an escape]]
-
-====Translations====
-{{rfc-trans}}
-{{top}}
-*[[Chemehuevi]]: [[na-'wi-cipi-nkɨ]]
-*Dutch: [[ontsnappen]]
-*Finnish: [[paeta]] (1), [[välttyä]] (2)
-*French: [[échapper]] (1), [[éviter]] (2)
-*Italian: [[scappare]] (1), [[evitare]] (2)
-{{mid}}
-*Kurdish: [[revîn]] (1), [[bazdan]] (1), [[filitîn]] (2)
-*Slovak: [[utiecť]] (1), [[vyhnúť sa]] (2)
-*Slovene: [[pobegniti]], [[zbežati]] (1)
-*Spanish: [[fugarse]]
-*Swedish: [[fly]] (1), [[undvika]], [[undfly]] (2)
-*Telugu: [[తప్పించుకొను]] (tappiMchukonu)
-{{bottom}}
-
-===References===
-*{{R:1913}}
 
 [[cy:escape]]
 [[fa:escape]]
