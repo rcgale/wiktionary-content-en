@@ -9,3 +9,8 @@
 # In an arbitrary partially ordered set <math>(P, \leq)\!\,</math>, the ''supremum'' of a subset <math>S\!\,</math> refers to the element (if it exists) <math>\alpha\!\,</math> satisfying
 :# <math>x \leq \alpha\!\,</math> for all <math>x \in S</math>, and
 :# if whenever an element <math>\beta \in S</math> satisfies <math>x \leq \beta\!\,</math> for all <math>x \in S</math>, it holds that <math>\alpha \leq \beta\!\,</math>.
+
+Less formally, the above two senses can be interpreted as follows.
+
+# Given a collection of numbers, the ''supremum'' of the collection is the number greater than or equal to all the numbers in this collection, but with one additional property: This number must be the smallest such dominating figures. Note that the ''supremum'' of a collection of numbers may not be in the collection itself.
+# More generally, in any universe with a partial system of ordering, the ''supremum'' of a collection of objects in this universe refers to the smallest of the dominating figures for this collection. For example, if a universe consists of the four objects Square, Triangle, Circle and Diamond, we can assign an ordering as follows. We declare that Square is larger than both Triangle and Circle, and Circle is larger than Diamond. We do not declare a comparison for other pairs of objects. Suppose we form the collection containing the two items Circle and Diamond; the ''supremum'' of this collection is Circle, since Circle is greater than or equal to both items in this collection, and even though Square also dominates this collection, Circle is the smallest of these two dominating figures.
