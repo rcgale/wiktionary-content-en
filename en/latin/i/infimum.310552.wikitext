@@ -1,24 +1,17 @@
-{{rfc|too much jargon, what does it mean?}}
-
-{{see|'''[[supremum]]'''}}
+{{see|supremum}}
 
 ==English==
 ===Etymology===
-From Latin [[#Latin|infimum]] ‘lowest part’, from [[infimus]] ‘lowest’.
+From {{L.}} [[#Latin|infimum]] ‘lowest part’, from [[infimus]] ‘lowest’.
 
 ===Pronunciation===
 {{IPA|/ɪnˈfaɪməm/}} (''UK'')
 
 ===Noun===
+{{wikipedia}}
 {{en-noun|infima}}
 
-# The ''infimum'' of a set <math>S \subset \mathbb{R}</math> is the [http://en.wikipedia.org/wiki/Infimum greatest lower bound] of <math>S\!\,</math>, if it exists.
-# In an arbitrary partially ordered set <math>(P, \leq)\!\,</math>, the ''infimum'' of a subset <math>S\!\,</math> refers to the element (if it exists) <math>\alpha\!\,</math> satisfying
-:# <math>\alpha \leq x\!\,</math> for all <math>x \in S</math>, and
-:# if whenever an element <math>\beta \in S</math> satisfies <math>\beta \leq x\!\,</math> for all <math>x \in 
-S</math>, it holds that <math>\beta \leq \alpha\!\,</math>.
+#{{mathematics}} (''of a subset'') the [[greatest]] [[element]] that is [[smaller]] than all other elements of the subset
 
-Less formally, the above two senses can be interpreted as follows.
-
-# Given a collection of numbers, the ''infimum'' of the collection is the number less than or equal to all the numbers in this collection, but with one additional property: This number must be the greatest such inferior figures. Note that the ''infimum'' of a collection of numbers may not be in the collection itself. 
-# More generally, in any universe with a partial system of ordering, the ''infimum'' of a collection of objects in this universe refers to the greatest of the inferior figures for this collection. For example, if a universe consists of the four objects Square, Triangle, Circle and Diamond, we can assign an ordering as follows. We declare that Square is larger than Circle, Circle is larger than Diamond, and Triangle is also larger than Diamond. We do not declare a comparison for other pairs of objects. Suppose we form the collection containing the two items Square and Circle; the ''infimum'' of this collection is Circle, since Circle is less than or equal to both items in this collection, and even though Diamond is also inferior to this collection, Circle is the greatest of these two inferior figures.
+===Synonyms===
+*[[greatest lower bound]]
