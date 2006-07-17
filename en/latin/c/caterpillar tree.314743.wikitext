@@ -1,0 +1,27 @@
+==English==
+
+===Noun===
+{{caterpillar tree}}
+
+In a [[graph theory]], a caterpillar tree is 
+a [[tree]], where removal of all end-verteces results in a [[path]]. (Chartrand, G., L. Lesniak. Graphs & Digraphs. Chapman & Hall, London, 1996.) 
+
+Another definition of the same concept says that it is a [[tree]] with a single [[path]] (the spine) that includes or is incident to every edge. (West, Douglas B. . Introduction to Graph Theory. Prentice Hall, Upper Saddle River, 1996.)
+
+Yet a third wording says that it is a [[tree]], in which every vertex is on a central stalk or only one graph edge away from the stalk.
+
+As a consequence, a tree is a caterpillar if, and only if, all nodes with the [[vertex degree]] at least 3 are surrounded 
+by at most two nodes of vertex degree two or greater.
+
+The number of caterpillar trees for more than 2 nodes is
+C_n==2^(n-4)+2^(|_n/2-2_|),
+
+where |_x_| is the [[floor function]].
+
+
+In [[botanics]], Caterpillar tree is another name for Catalpa bignonioides (also called Southern Catalpa) of family Bignoniaceae.
+It is a deciduous tree growing in Southeastern U.S. and it is the host plant for the catawba worms, caterpillars that are popular fishing bait.
+
+[[Image:catalpa_eggs.jpg]]
+
+# {{substub}}
