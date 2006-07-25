@@ -1,0 +1,9 @@
+'''Presentity''' is an [[entity]] described by [[presence information]]. 
+
+Usually presentity is a human. In this case presence information describes avalability and willingnes of this human to [[Communication|communicate]] via set of communication services. For example [[ICQ]] users are presentities and  their presence information is ICQ user status (offline, online, away, etc). 
+
+Generally, presentity doesn't have to be a human. For example a collection of customer service agents in a [[call center]] may be considered a presentity. This presentity may be considered availabile if there's at least one agent ready to accept a call.
+
+The word "presentity" is a combination of words "presence" and "entity" and was first introduced in [[RFC]] 2778. Originally it was defined as entity which provides presence information. 
+
+{{stub}}
