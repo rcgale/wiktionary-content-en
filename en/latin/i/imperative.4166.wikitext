@@ -9,28 +9,52 @@
 #:''Visiting Berlin is an '''imperative'''.''
 
 ====Translations====
-{{rfc-trans}}
-*Dutch: [[gebiedende wijs]] {{m}} (1), [[must]] {{m}} (2)
-*French: [[impératif]] {{m}}
-*German: [[Imperativ]] {{m}} (1), [[Befehlsform]] {{f}} (1), [[Muss]] {{n}} (2)
-*Italian: [[imperativo]] {{m}}
-*Japanese: [[命令法]] ([[めいれいほう]], meireihō)
-*Latin: [[imperativus]]
-*Russian: (gram.) [[повелительное наклонение]] (povelítel'noje naklonénie) {{n}}
-*Spanish: [[imperativo]] {{m}}
-*Swedish: [[imperativ]] {{n}} (1)
+;verbal mood
+{{top}}
+*Dutch: [[gebiedende wijs]] {{m}}
+*Finnish: [[imperatiivi]]
+*German: [[Imperativ]] {{m}}, [[Befehlsform]] {{f}}
+{{mid}}
+*Russian: [[повелительное наклонение]] (povelítel'noje naklonénie) {{n}}
+*Swedish: [[imperativ]] {{n}}
+{{bottom}}
+
+;essential action
+{{top}}
+*Dutch: [[must]] {{m}}
+*German: [[Muss]] {{n}}
+{{mid}}
+{{bottom}}
+
+====Translations to be checked====
+{{checktrans}}
+*{{ttbc|French}}: [[impératif]] {{m}}
+*{{ttbc|Italian}}: [[imperativo]] {{m}}
+*{{ttbc|Japanese}}: [[命令法]] ([[めいれいほう]], meireihō)
+*{{ttbc|Latin}}: [[imperativus]]
+*{{ttbc|Spanish}}: [[imperativo]] {{m}}
 
 ===Adjective===
 {{en-adj}}
 
-# [[essential]].
+# [[essential]]
 #:''It is imperative that you come here right now.''
 # {{comptheory}}  Having a [[semantics]] that incorporates [[mutable]] variables.
 
 ====Translations====
-*Dutch: [[noodzakelijk]] (1)
-*German: [[essenziell]], [[essentiell]], [[notwendig]] [[unverzichtbar]], [[wesentlich]] (1)
-*Italian: [[imperativo]] (1) {{m}}
+;essential
+{{top}}
+*Dutch: [[noodzakelijk]]
+*Finnish: [[välttämätön]]
+*German: [[essenziell]], [[essentiell]], [[notwendig]] [[unverzichtbar]], [[wesentlich]]
+*Italian: [[imperativo]] {{m}}
+{{mid}}
+{{bottom}}
+
+;computing
+{{top}}
+{{mid}}
+{{bottom}}
 
 [[Category:Grammar]]
 
