@@ -1,3 +1,11 @@
+<!-- Please do not remove or change this AfD message until the issue is settled -->{{#if:{{{nosubst|}}}|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}|| |{{error:not substituted|AFD}}<div style="display:none;">}}{{#if:{{{nosubst|}}}|</div></div>}}
+<div class="boilerplate metadata" id="afd" style="margin: 0 5%; padding: 0 7px 7px 7px; background: #EDF1F1; border: 1px solid #999999; text-align: left; font-size:95%;">
+'''This article is being considered for deletion in accordance with Wikipedia's [[Wikipedia:Deletion policy|deletion policy]][[Template:Afd|.]]'''<br />
+Please share your thoughts on the matter at '''[[Wikipedia:Articles for deletion/{{{1|Screwtaping}}}|this article's entry]]''' on the Articles for deletion page.<br />
+Feel free to edit the article, but the article must not be blanked, and this notice must not be removed, until the discussion is closed. For more information, particularly on merging or moving the article during the discussion, read the [[Wikipedia:Guide to deletion|guide to deletion]].<br/>
+''<small>Steps to [[Template:AfD footer|list an article for deletion]]: {{tls|afd}} <nowiki>{{</nowiki>subst:afd2|pg={{PAGENAME}}|text=}} <nowiki>{{</nowiki>subst:afd3|pg={{PAGENAME}}}} [{{SERVER}}{{localurl:Wikipedia:Articles for deletion/Log/{{CURRENTYEAR}}_{{CURRENTMONTHNAMEGEN}}_{{CURRENTDAY}}|action=edit}} log] </small></div>
+{{{category|[[Category:Articles for deletion]]}}}
+<!-- End of AfD message, feel free to edit beyond this point -->
 '''Screwtaping''' is a term used in the world of [[internet forums]]. It is used to describe the action of [[bumping]] a particularly old [[topic thread]] by posting an ironic or humorous reply to a previous message.
 
 [[Image:Screw.jpg|thumb|A typical Screwtaper holding a sausage.]]
