@@ -20,7 +20,7 @@ A node is said to "dominate" another node if it is above it in the tree (it is a
 * ''Y'' does not dominate ''X''.
 * The first branching node that dominates ''X'' also dominates ''Y''.
 
-The branching requirement means that in the following tree, ''B'' c-commands ''D'', ''E'', and ''F''.
+The branching requirement means that in the following tree, ''A'' c-commands ''D'', ''E'', and ''F''.
 
 <pre>
    C
