@@ -1,11 +1,11 @@
-'''C-command''' is a relationship in [[grammatical]] [[parse tree]]s, originally defined by [[Tanya Reinhart]], which is similar to the idea of "siblings and all their descendants" in family trees.
+In [[grammar]], the '''c-command''' relation is a relationship between certain nodes in [[parse tree]]s. Originally defined by [[Tanya Reinhart]], it is analogous to the idea of "siblings and all their descendants" in [[family tree]]s.
 
 In the following tree:
-* A c-commands C, D, and E.
-* B does not c-command any nodes.
-* C c-commands A.
-* D c-commands E.
-* E c-commands D.
+* ''A'' c-commands ''C'', ''D'', and ''E''.
+* ''B'' does not c-command any nodes.
+* ''C'' c-commands ''A''.
+* ''D'' c-commands ''E''.
+* ''E'' c-commands ''D''.
 
 <pre>
    B
@@ -15,12 +15,12 @@ In the following tree:
    D   E
 </pre>
 
-A node is said to "dominate" another node if it is above it in the tree (it is a parent, grandparent, etc.) The formal definition is that X '''c-commands''' Y if:
-* X does not dominate Y.
-* Y does not dominate X.
-* The first branching node that dominates X also dominates Y.
+A node is said to "dominate" another node if it is above it in the tree (it is a parent, grandparent, etc.) The formal definition is that ''X'' c-commands ''Y'' if:
+* ''X'' does not dominate ''Y''.
+* ''Y'' does not dominate ''X''.
+* The first branching node that dominates ''X'' also dominates ''Y''.
 
-The branching requirement means that in the following tree, B c-commands D, E, and F.
+The branching requirement means that in the following tree, ''B'' c-commands ''D'', ''E'', and ''F''.
 
 <pre>
    C
