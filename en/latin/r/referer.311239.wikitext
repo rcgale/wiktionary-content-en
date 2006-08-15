@@ -1,9 +1,13 @@
 ==English==
 
+===Etymology===
+
+From English [[referrer]], mistaken spelling
+
 ===Noun===
 {{en-noun}}
 
 # {{misspelling of|referrer}}
-# {{internet}} the [[refer]]ring page; the URL that referred to a given page
+# {{internet}} the [[refer]]ring page; the URL that referred to a given page; this is the field name used in the HTTP protocol.
 #* '''1996''': T. Berners-Lee, R. Fielding, H. Frystyk, ''Hypertext Transfer Protocol -- HTTP/1.0''
 #*: The '''Referer''' field must not be sent if the Request-URI was obtained from a source that does not have its own URI, such as input from the user keyboard.
