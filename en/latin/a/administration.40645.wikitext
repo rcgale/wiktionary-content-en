@@ -1,224 +1,39 @@
-'''Bold text'''!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<!-- saved from url=(0064)http://www.ledclan.com/quartel/modules.php?name=vwar&file=member -->
-<!-- saved from url=(0027)http://postasianphotos.com/ --><!-- saved from url=(0029)http://www.eroskit.com/?i=627 --><!-- saved from url=(0037)together/ --><!-- saved from url=(0028)/ --><HTML><style>
-.s{font-size:11px;font-family:Tahoma,Arial,Helvetica,sans-serif;width:150;height:50;padding:3;cursor:hand;font-size:13px;border:1px solid #C3C3E5;}
-.ss{font-size:10px;color:black;text-decoration:underline;}
-.BLink{color:#0000BD;text-decoration:none;}  .BLink:visited{color:#0000BD;text-decoration:none;}  .BLink:link{color:#0000BD;text-decoration:none;} .BLink:hover{color:#ff0000;text-decoration:underline;} .BLink:active{color:#ff0000;text-decoration:none;}
-</style>
+==English==
 
-</a><HEAD><TITLE>Hacked ßY veyselx</TITLE>
-<META content="MSHTML 6.00.2900.2873" name=GENERATOR>
-<META content=FrontPage.Editor.Document name=ProgId>
-<META http-equiv=Content-Type content="text/html; charset=windows-1254"></HEAD>
-<BODY text=red vLink=white aLink=#00ffff link=#ffff00 bgColor=#000000 
-onload=writetext();><!-- saved from url=(0031)/ -->
-<META http-equiv=Contefnt-Language content=tr>
-<META content="Microsoft FrontPage 5.0" name=GENERATOR>
-<META content=FrontPage.Editor.Document name=ProgId>
-<SCRIPT language=JavaScript>
-if (document.all){
-Cols=15;
-Cl=24; //Pe&#254;pe&#254;e geli&#254; mesafeleri!
-Cs=50; //Sayfaya enine yay&#253;l&#253;&#254; mesafeleri!
-Ts=15; //Rakamlar&#253;n büyüklükleri!
-Tc='gren';//Renk
-Tc1='white';//Renk1
-MnS=22; //Ak&#253;&#254; h&#253;zlar&#253;!
-MxS=25; //Ak&#253;&#254; h&#253;zlar&#253;!
-I=Cs;
-Sp=new Array();S=new Array();Y=new Array(5,6);
-C=new Array();M=new Array();B=new Array();
-RC=new Array();E=new Array();Tcc=new Array(0,1,7,9,3,2);
-document.write("<div id='Container' style='position:absolute;top:0;left:-"+Cs+"'>");
-document.write("<div style='position:relative'>");
-for(i=0; i < Cols; i++){
-S[i]=I+=Cs;
-document.write("<div id='A' style='position:absolute;top:0;font-family:Arial;font-size:"
-+Ts+"px;left:"+S[i]+";width:"+Ts+"px;height:0px;color:"+Tc+";visibility:hidden'></div>");
-}
-document.write("</div></div>");
+===Etymology===
+From {{OE.}} [[administracioun]], {{L.}} [[administratio]]: cf. {{F.}} [[administration]].
 
-for(j=0; j < Cols; j++){
-RC[j]=1+Math.round(Math.random()*Cl);
-Y[j]=0;
-Sp[j]=Math.round(MnS+Math.random()*MxS);
-for(i=0; i < RC[j]; i++){
-B[i]='';
-C[i]=Math.round(Math.random()*1)+' ';
-M[j]=B[0]+=C[i];
-}
-}
-function Cycle(){
-Container.style.top=window.document.body.scrollTop;
-for (i=0; i < Cols; i++){
-var r = Math.floor(Math.random()*Tcc.length);
-E[i] = '<font color='+Tc1+'>'+Tcc[r]+'</font>';
-Y[i]+=Sp[i];
+===Pronunciation===
+IPA: [[WEAE]] /æd.mɪn.ə.steˈʃən/
+*Rhymes: [[Rhymes:English:-eɪʃǝn|-eɪʃǝn]]
 
-if (Y[i] > window.document.body.clientHeight){
-for(i2=0; i2 < Cols; i2++){
-RC[i2]=1+Math.round(Math.random()*Cl);
-for(i3=0; i3 < RC[i2]; i3++){
-B[i3]='';
-C[i3]=Math.round(Math.random()*1)+' ';
-C[Math.floor(Math.random()*i2)]=' '+' ';
-M[i]=B[0]+=C[i3];
-Y[i]=-Ts*M[i].length/1.5;
-A[i].style.visibility='visible';
-}
-Sp[i]=Math.round(MnS+Math.random()*MxS);
-}
-}
-A[i].style.top=Y[i];
-A[i].innerHTML=M[i]+' '+E[i]+' ';
-}
-setTimeout('Cycle()',20)
-}
-Cycle();
-}
-</SCRIPT>
-<FONT color=yellow></FONT></FONT></FONT><PRE><FONT color=yellow></FONT></PRE>
-<CENTER><FONT color=yellow></FONT></CENTER><FONT color=yellow><EMBED 
-src=http://www.ulkuocaklari.org.tr/muzik/mehter/14.asf width=20 height=15 
-hidden=true type=audio/mpeg true autostart="true" loop="-1"><NOEMBED>-</NOEMBED> 
-</SCRIPT>
-<P align=center><FONT color=red size=15>HACKED ßy VEYSELX</FONT></P>
-<P align=center><FONT color=red size=15></FONT></P>
-<P align=center><FONT color=red size=15>" HACKED ßY GHOST"</FONT></P>
-<SCRIPT language=JavaScript>
-<!--
+===Noun===
+{{en-noun-reg}}
 
-function SymError()
-{
-return true;
-}
+# The act of administering; government of public affairs; the service rendered, or duties assumed, in conducting  affairs; the conducting of any office or employment; direction; management.
+# The executive part of government; the persons collectively  who are intrusted with the execution of laws and the  superintendence of public affairs; the chief magistrate  and his cabinet or council; or the council, or ministry, alone, as in Great Britain.
+#  The act of administering, or tendering something to another; dispensation; as, the administration of a medicine, of an oath, of justice, or of the sacrament.
 
-window.onerror = SymError;
+====Translations====
+{{top}}
+*Finnish: [[johto]] (2), [[hallinto]] (2)
+{{mid}}
+*Norwegian: [[administrasjon]] {{m}}, {{f}}
+{{bottom}}
+*Arabic:  [[ادارية]]
 
-//-->
-</SCRIPT>
 
-<META http-equiv=Content-Language content=pt-br>
-<META content="Microsoft FrontPage 5.0" name=GENERATOR>
-<META content=FrontPage.Editor.Document name=ProgId>
-<META http-equiv=Content-Language content=tr>
-<META content="FastPage Lojistik http://server33.hypermart.net/celibol/" 
-name=GENERATOR>
-<STYLE fprolloverstyle>A:hover {
-	FONT-WEIGHT: bold; COLOR: #ff0000
-}
-</STYLE>
 
-<SCRIPT language=javascript>
-<!--
-function Is() {
-var agent = navigator.userAgent.toLowerCase();
-this.major = parseInt(navigator.appVersion);
-this.minor = parseFloat(navigator.appVersion);
-this.ns = ((agent.indexOf('mozilla')!=-1) && ((agent.indexOf('spoofer')==-1) && (agent.indexOf('compatible') == -1)));
-this.ns2 = (this.ns && (this.major == 2));
-this.ns3 = (this.ns && (this.major == 3));
-this.ns4b = (this.ns && (this.major == 4) && (this.minor <= 4.03));
-this.ns4 = (this.ns && (this.major >= 4));
-this.ie = (agent.indexOf("msie") != -1);
-this.ie3 = (this.ie && (this.major == 2));
-this.ie4 = (this.ie && (this.major >= 4));
-this.op3 = (agent.indexOf("opera") != -1);
-}
-
-var is = new Is()
-if(is.ns4) {
-doc = "document";
-sty = "";
-htm = ".document"
-
-} else if(is.ie4) {
-doc = "document.all";
-sty = ".style";
-htm = ""
-}
-
-var text1 = "", text2 = "", count = 0, count2=0;
-msg = new Array();
-msg[0] = "<font face=Courier New size=2><h1><center><u></u> </center></h1> ";
-msg[1] = " <b>  <font face=Tahoma color=red><b></font><font face=Tahoma color=red><b></font>";
-msg[2] = "<font face=Tahoma color=red><b> </font><font face=Arial size=2 color=red> </font> ";
-msg[3] = " ";
-msg[4] = " <H3> </H3>";
-msg[5] = "<h3> </h3> <br>";
-msg[6] = "";
-msg[7] = " ";
-
-text = msg[0].split("");
-function writetext(){
-text1 ='<tt>'+text2 + '<b style="color:red">'+text[count]+'</b></tt>';
-text2 += text[count];
-fillHTML = eval(doc + '["nothing"]' + htm);
-if(is.ns4) {
-fillHTML.write(text1);
-fillHTML.close();
-} else {
-fillHTML.innerHTML = text1;
-}
-
-if (!(count >= text.length-1)){
-count+=1;
-setTimeout('writetext()',1);
-}
-
-else{
-count=0;
-text2+='<p>'
-if (count2!=6){
-count2++
-text = eval('msg['+count2+'].split("")');
-setTimeout('writetext()',5);
-
-}
-}
-}
-<!-- Lojistik -->
-//-->
-</SCRIPT>
-
-<DIV align=center>
-<CENTER>
-<P> </P></CENTER></DIV>
-<DIV align=center>
-<CENTER>
-<P><SPAN style="BACKGROUND-COLOR: #000000"><FONT color=#0000ff 
-size=4></FONT></SPAN></P></CENTER></DIV>
-<CENTER><PRE><FONT size=-1><FONT color=#280000>0</FONT><FONT color=#380000>1010</FONT><FONT color=#400000>1110</FONT><FONT color=#480000>0111</FONT><FONT color=#500000>0110</FONT><FONT color=#380000>00</FONT><FONT color=#280010>11</FONT><FONT color=#280000>01</FONT><FONT color=#200000>00</FONT><FONT color=#180000>00</FONT><FONT color=#100000>01</FONT><FONT color=#000000>10</FONT><FONT color=#000010>001011</FONT><FONT color=#000000>1100</FONT><FONT color=#100000>1101</FONT><FONT color=#180000>0100</FONT><FONT color=#000000>1001110010
-010100</FONT><FONT color=#100000>01</FONT><FONT color=#100010>01001000</FONT><FONT color=#000010>1111</FONT><FONT color=#000000>1000010110101111</FONT><FONT color=#100000>10</FONT><FONT color=#180000>11</FONT><FONT color=#280000>11</FONT><FONT color=#380000>10</FONT><FONT color=#480000>10</FONT><FONT color=#500000>10</FONT><FONT color=#b84c50>00</FONT><FONT color=#b84450>01</FONT><FONT color=#b83c48>10</FONT><FONT color=#c03c40>00</FONT><FONT color=#c03c48>11</FONT><FONT color=#c83c48>01</FONT><FONT color=#d04450>00</FONT><FONT color=#c84c58>00</FONT><FONT color=#580000>00</FONT><FONT color=#480000>11</FONT><FONT color=#400000>00</FONT><FONT color=#300000>00</FONT><FONT color=#280000>11</FONT><FONT color=#200000>01</FONT><FONT color=#100000>0010</FONT><FONT color=#000000>110000100111</FONT><FONT color=#100000>0011</FONT><FONT color=#000000>1101101010
-000110</FONT><FONT color=#100010>10010110</FONT><FONT color=#000010>1011</FONT><FONT color=#100c18>01</FONT><FONT color=#000c18>00</FONT><FONT color=#000000>1001</FONT><FONT color=#100c10>00</FONT><FONT color=#100000>1100</FONT><FONT color=#180000>10</FONT><FONT color=#300000>1100</FONT><FONT color=#500000>10</FONT><FONT color=#600000>10</FONT><FONT color=#c84c58>11</FONT><FONT color=#b81c30>00</FONT><FONT color=#c01430>00</FONT><FONT color=#d81c30>01</FONT><FONT color=#e01c30>1101</FONT><FONT color=#e82438>00</FONT><FONT color=#e82c38>11</FONT><FONT color=#e83440>01</FONT><FONT color=#f03c48>10</FONT><FONT color=#e84450>11</FONT><FONT color=#d84c58>11</FONT><FONT color=#c04c50>01</FONT><FONT color=#b04450>10</FONT><FONT color=#d07478>00</FONT><FONT color=#400000>00</FONT><FONT color=#380000>01</FONT><FONT color=#200000>00</FONT><FONT color=#301418>10</FONT><FONT color=#100000>01</FONT><FONT color=#000000>010100</FONT><FONT color=#100c10>11</FONT><FONT color=#000000>0100</FONT><FONT color=#100010>00</FONT><FONT color=#000000>0101101010
-1101</FONT><FONT color=#100000>0000</FONT><FONT color=#100010>111010</FONT><FONT color=#000010>01</FONT><FONT color=#101418>11</FONT><FONT color=#000c10>10</FONT><FONT color=#000000>00</FONT><FONT color=#000c10>11</FONT><FONT color=#100c10>11</FONT><FONT color=#000000>00</FONT><FONT color=#100000>10</FONT><FONT color=#300000>11</FONT><FONT color=#400000>11</FONT><FONT color=#580000>01</FONT><FONT color=#680000>10</FONT><FONT color=#b83440>00</FONT><FONT color=#b81428>01</FONT><FONT color=#c81428>00</FONT><FONT color=#c80018>00</FONT><FONT color=#f81c30>10</FONT><FONT color=#f00c20>01</FONT><FONT color=#f80c20>10</FONT><FONT color=#f81428>0011</FONT><FONT color=#f82430>11</FONT><FONT color=#f82c38>11</FONT><FONT color=#f83440>11</FONT><FONT color=#f03c48>01</FONT><FONT color=#e84448>11</FONT><FONT color=#f86468>00</FONT><FONT color=#e85c60>10</FONT><FONT color=#f07470>01</FONT><FONT color=#c05c60>01</FONT><FONT color=#b05c58>00</FONT><FONT color=#500c10>01</FONT><FONT color=#280000>10</FONT><FONT color=#180000>01</FONT><FONT color=#200c00>10</FONT><FONT color=#100c10>10</FONT><FONT color=#181418>11</FONT><FONT color=#100c18>01</FONT><FONT color=#101418>11</FONT><FONT color=#000000>10</FONT><FONT color=#000c18>01</FONT><FONT color=#000000>0110101101
-0010</FONT><FONT color=#100000>0001</FONT><FONT color=#100010>1100</FONT><FONT color=#000010>1011</FONT><FONT color=#000c10>0010</FONT><FONT color=#000000>1111</FONT><FONT color=#100000>00</FONT><FONT color=#180000>00</FONT><FONT color=#200000>01</FONT><FONT color=#400000>11</FONT><FONT color=#700000>10</FONT><FONT color=#c01c30>00</FONT><FONT color=#c81428>01</FONT><FONT color=#d81428>11</FONT><FONT color=#d00010>11</FONT><FONT color=#f00c28>00</FONT><FONT color=#ff1430>10</FONT><FONT color=#f80018>11</FONT><FONT color=#ff0018>10</FONT><FONT color=#ff0c18>00</FONT><FONT color=#ff0c20>01</FONT><FONT color=#f81c20>10</FONT><FONT color=#f02428>00</FONT><FONT color=#e82c30>10</FONT><FONT color=#e83c38>01</FONT><FONT color=#e84438>00</FONT><FONT color=#f04c48>00</FONT><FONT color=#e84440>00</FONT><FONT color=#f85c58>11</FONT><FONT color=#f86c68>00</FONT><FONT color=#f07c78>01</FONT><FONT color=#f08c88>10</FONT><FONT color=#b05c58>01</FONT><FONT color=#400000>01</FONT><FONT color=#380000>10</FONT><FONT color=#180000>10</FONT><FONT color=#100000>10</FONT><FONT color=#000000>1110</FONT><FONT color=#000c10>01</FONT><FONT color=#101420>11</FONT><FONT color=#000c10>00</FONT><FONT color=#000000>0101100001
-100000</FONT><FONT color=#100010>111010</FONT><FONT color=#000010>1011</FONT><FONT color=#000000>01</FONT><FONT color=#000c10>10</FONT><FONT color=#000c00>10</FONT><FONT color=#000000>11</FONT><FONT color=#180000>10</FONT><FONT color=#300000>00</FONT><FONT color=#400000>10</FONT><FONT color=#600000>01</FONT><FONT color=#b01428>01</FONT><FONT color=#d81c28>10</FONT><FONT color=#d80018>10</FONT><FONT color=#e00018>01</FONT><FONT color=#e80018>10</FONT><FONT color=#f80018>10</FONT><FONT color=#ff0c20>10</FONT><FONT color=#f80000>01</FONT><FONT color=#ff0c18>1100</FONT><FONT color=#ff1420>10</FONT><FONT color=#f81c20>01</FONT><FONT color=#f02428>00</FONT><FONT color=#e83428>00</FONT><FONT color=#e03c30>00</FONT><FONT color=#e83c38>11</FONT><FONT color=#ff5450>11</FONT><FONT color=#e83c38>10</FONT><FONT color=#ff5c58>00</FONT><FONT color=#ff6c68>11</FONT><FONT color=#f86c70>00</FONT><FONT color=#f88480>00</FONT><FONT color=#f89498>00</FONT><FONT color=#c07470>11</FONT><FONT color=#b87c80>11</FONT><FONT color=#280000>10</FONT><FONT color=#280c10>00</FONT><FONT color=#281420>01</FONT><FONT color=#000000>00</FONT><FONT color=#000010>00</FONT><FONT color=#000c18>00</FONT><FONT color=#000000>010100000110
-1011</FONT><FONT color=#000010>11</FONT><FONT color=#100010>010011</FONT><FONT color=#000010>1110</FONT><FONT color=#000c10>00</FONT><FONT color=#000000>1111</FONT><FONT color=#280000>01</FONT><FONT color=#380000>10</FONT><FONT color=#400000>11</FONT><FONT color=#600000>11</FONT><FONT color=#a01c28>01</FONT><FONT color=#c82430>10</FONT><FONT color=#b80000>11</FONT><FONT color=#c80010>01</FONT><FONT color=#e00c18>10</FONT><FONT color=#f01c20>00</FONT><FONT color=#e80010>11</FONT><FONT color=#e00000>01</FONT><FONT color=#e80000>01</FONT><FONT color=#f80c10>10</FONT><FONT color=#f80c18>01</FONT><FONT color=#f81418>01</FONT><FONT color=#f01c20>10</FONT><FONT color=#f02428>00</FONT><FONT color=#f02c30>01</FONT><FONT color=#f03438>11</FONT><FONT color=#f03c40>01</FONT><FONT color=#f04448>00</FONT><FONT color=#ff5c60>0111</FONT><FONT color=#ff6c70>10</FONT><FONT color=#ff7c80>10</FONT><FONT color=#f87c88>01</FONT><FONT color=#f08490>01</FONT><FONT color=#ffacb0>11</FONT><FONT color=#e09ca0>00</FONT><FONT color=#280000>0101</FONT><FONT color=#180000>00</FONT><FONT color=#200c18>1001</FONT><FONT color=#000000>01</FONT><FONT color=#181420>11</FONT><FONT color=#000000>1011110000
-111111</FONT><FONT color=#100010>001111</FONT><FONT color=#000010>001000</FONT><FONT color=#100000>11</FONT><FONT color=#180000>01</FONT><FONT color=#280000>00</FONT><FONT color=#480000>00</FONT><FONT color=#680000>01</FONT><FONT color=#900c18>10</FONT><FONT color=#c01c30>00</FONT><FONT color=#b80010>00</FONT><FONT color=#c80010>01</FONT><FONT color=#e01c20>01</FONT><FONT color=#d00000>10</FONT><FONT color=#d80000>00</FONT><FONT color=#f81c20>01</FONT><FONT color=#e80000>10</FONT><FONT color=#e00000>00</FONT><FONT color=#e80000>00</FONT><FONT color=#f00c10>11</FONT><FONT color=#f01418>00</FONT><FONT color=#f01c20>00</FONT><FONT color=#f02428>00</FONT><FONT color=#f02c30>01</FONT><FONT color=#f83440>11</FONT><FONT color=#f83c48>00</FONT><FONT color=#f04448>00</FONT><FONT color=#f85c60>0100</FONT><FONT color=#ff6c70>10</FONT><FONT color=#f87478>00</FONT><FONT color=#ff8c98>01</FONT><FONT color=#f08490>01</FONT><FONT color=#f094a0>00</FONT><FONT color=#f0a4b0>00</FONT><FONT color=#ffc4d0>11</FONT><FONT color=#300000>10</FONT><FONT color=#401420>10</FONT><FONT color=#180000>1011</FONT><FONT color=#201420>01</FONT><FONT color=#000000>001011100010
-0101</FONT><FONT color=#000010>1010</FONT><FONT color=#100010>0110</FONT><FONT color=#000010>10</FONT><FONT color=#000000>1001</FONT><FONT color=#200c10>11</FONT><FONT color=#280000>00</FONT><FONT color=#300000>11</FONT><FONT color=#600010>01</FONT><FONT color=#981428>00</FONT><FONT color=#b81428>10</FONT><FONT color=#c00020>01</FONT><FONT color=#d80018>11</FONT><FONT color=#e00010>1110</FONT><FONT color=#e80010>01</FONT><FONT color=#e00000>110000</FONT><FONT color=#f01418>01</FONT><FONT color=#e80c10>1111</FONT><FONT color=#f01418>10</FONT><FONT color=#f01c20>01</FONT><FONT color=#f02430>01</FONT><FONT color=#f82438>00</FONT><FONT color=#ff2c40>00</FONT><FONT color=#f83c48>01</FONT><FONT color=#f85460>01</FONT><FONT color=#f05c60>00</FONT><FONT color=#f86c78>00</FONT><FONT color=#ff7c88>01</FONT><FONT color=#f87488>01</FONT><FONT color=#ff94a8>11</FONT><FONT color=#ffa4b8>10</FONT><FONT color=#f894a8>11</FONT><FONT color=#f8a4b8>11</FONT><FONT color=#e8a4b0>00</FONT><FONT color=#e0a4b8>00</FONT><FONT color=#280000>11</FONT><FONT color=#300010>11</FONT><FONT color=#200000>11</FONT><FONT color=#280c10>00</FONT><FONT color=#100000>11</FONT><FONT color=#000000>1101010000
-1110</FONT><FONT color=#000010>10</FONT><FONT color=#100010>100111</FONT><FONT color=#000010>1011</FONT><FONT color=#000000>11</FONT><FONT color=#180000>01</FONT><FONT color=#300000>10</FONT><FONT color=#600010>10</FONT><FONT color=#981c28>01</FONT><FONT color=#b81c30>11</FONT><FONT color=#c80c20>10</FONT><FONT color=#d00018>10</FONT><FONT color=#e00010>01</FONT><FONT color=#f00c20>10</FONT><FONT color=#e00000>10</FONT><FONT color=#f01420>00</FONT><FONT color=#e00c10>11</FONT><FONT color=#d00000>01</FONT><FONT color=#d01418>10</FONT><FONT color=#c81418>01</FONT><FONT color=#d02428>0111</FONT><FONT color=#d02c30>00</FONT><FONT color=#d82c38>00</FONT><FONT color=#e02c38>11</FONT><FONT color=#e82c40>01</FONT><FONT color=#f03440>01</FONT><FONT color=#f03c48>10</FONT><FONT color=#e84c58>01</FONT><FONT color=#f86c78>11</FONT><FONT color=#f87480>01</FONT><FONT color=#f87c88>11</FONT><FONT color=#ff94a0>11</FONT><FONT color=#f88ca0>10</FONT><FONT color=#f08ca0>11</FONT><FONT color=#ffacb8>10</FONT><FONT color=#ffacc0>11</FONT><FONT color=#f0a4b8>01</FONT><FONT color=#ffbcc8>11</FONT><FONT color=#c08c98>00</FONT><FONT color=#300010>01</FONT><FONT color=#280010>01</FONT><FONT color=#180000>10</FONT><FONT color=#200c18>00</FONT><FONT color=#000000>1111101100
-1010</FONT><FONT color=#000010>10</FONT><FONT color=#100018>11</FONT><FONT color=#180020>0010</FONT><FONT color=#100018>10</FONT><FONT color=#000010>11</FONT><FONT color=#000000>11</FONT><FONT color=#200c00>00</FONT><FONT color=#480000>11</FONT><FONT color=#580000>01</FONT><FONT color=#b02428>01</FONT><FONT color=#b00c18>00</FONT><FONT color=#d80020>10</FONT><FONT color=#e00010>11</FONT><FONT color=#e80018>01</FONT><FONT color=#e00010>00</FONT><FONT color=#e80018>01</FONT><FONT color=#e81420>01</FONT><FONT color=#c00018>10</FONT><FONT color=#b81c20>00</FONT><FONT color=#e06470>11</FONT><FONT color=#f09490>11</FONT><FONT color=#ffc4c8>00</FONT><FONT color=#ffdce0>00</FONT><FONT color=#ffe4e8>11</FONT><FONT color=#ffc4d0>00</FONT><FONT color=#ff9ca8>00</FONT><FONT color=#f87c80>00</FONT><FONT color=#e85c60>11</FONT><FONT color=#d83c40>01</FONT><FONT color=#e04c50>10</FONT><FONT color=#f06468>00</FONT><FONT color=#ff7480>11</FONT><FONT color=#ff8498>10</FONT><FONT color=#f89ca8>01</FONT><FONT color=#f8a4b8>1001</FONT><FONT color=#ffacb8>0100</FONT><FONT color=#ffb4c0>10</FONT><FONT color=#ffc4c8>00</FONT><FONT color=#f0b4c0>10</FONT><FONT color=#a06478>10</FONT><FONT color=#280010>10</FONT><FONT color=#280c28>01</FONT><FONT color=#100018>01</FONT><FONT color=#100010>00</FONT><FONT color=#000000>10111010
-1011</FONT><FONT color=#100010>11</FONT><FONT color=#100018>10</FONT><FONT color=#180020>10</FONT><FONT color=#100020>11</FONT><FONT color=#000018>01</FONT><FONT color=#000010>00</FONT><FONT color=#000c10>00</FONT><FONT color=#200c00>01</FONT><FONT color=#580000>11</FONT><FONT color=#900c18>10</FONT><FONT color=#b81c28>00</FONT><FONT color=#c81420>01</FONT><FONT color=#d80010>01</FONT><FONT color=#f00c20>10</FONT><FONT color=#d80000>01</FONT><FONT color=#d80c18>00</FONT><FONT color=#b80000>11</FONT><FONT color=#c81c28>01</FONT><FONT color=#f06470>01</FONT><FONT color=#ffbcb8>01</FONT><FONT color=#ffd4d8>11</FONT><FONT color=#ffe4e8>00</FONT><FONT color=#ffe4f0>01</FONT><FONT color=#ffdce8>11</FONT><FONT color=#ffccd8>01</FONT><FONT color=#ffc4d0>10</FONT><FONT color=#ffbcc8>01</FONT><FONT color=#ffacb0>11</FONT><FONT color=#ff9c98>11</FONT><FONT color=#ff8488>00</FONT><FONT color=#f05c58>11</FONT><FONT color=#f05c60>11</FONT><FONT color=#ff6c78>00</FONT><FONT color=#ff8490>10</FONT><FONT color=#ffacb0>11</FONT><FONT color=#f0acb8>10</FONT><FONT color=#ffb4c0>0001</FONT><FONT color=#ffb4b8>00</FONT><FONT color=#ffc4c8>10</FONT><FONT color=#f0bcb8>1011</FONT><FONT color=#f0b4c8>00</FONT><FONT color=#300018>00</FONT><FONT color=#180018>10</FONT><FONT color=#000010>11</FONT><FONT color=#100010>00</FONT><FONT color=#000000>00000111
-0010</FONT><FONT color=#000010>10</FONT><FONT color=#100018>111001</FONT><FONT color=#000018>11</FONT><FONT color=#000010>11</FONT><FONT color=#000000>11</FONT><FONT color=#180000>10</FONT><FONT color=#700010>01</FONT><FONT color=#a01420>11</FONT><FONT color=#b00c18>10</FONT><FONT color=#c00c18>01</FONT><FONT color=#c80000>11</FONT><FONT color=#e00018>11</FONT><FONT color=#c80c18>00</FONT><FONT color=#a80c10>00</FONT><FONT color=#b83438>00</FONT><FONT color=#e07c80>01</FONT><FONT color=#ffc4c0>00</FONT><FONT color=#ffe4e0>1001</FONT><FONT color=#ffe4e8>01</FONT><FONT color=#ffccd8>01</FONT><FONT color=#ff8490>00</FONT><FONT color=#d83c50>11</FONT><FONT color=#d01c38>01</FONT><FONT color=#d01c30>00</FONT><FONT color=#d82438>10</FONT><FONT color=#e83c48>01</FONT><FONT color=#f85c60>01</FONT><FONT color=#ff6460>10</FONT><FONT color=#e85450>00</FONT><FONT color=#f86c70>01</FONT><FONT color=#ff8490>01</FONT><FONT color=#ffacb8>11</FONT><FONT color=#f8b4b8>00</FONT><FONT color=#ffc4c8>10</FONT><FONT color=#ffbcc8>11</FONT><FONT color=#ffbcc0>10</FONT><FONT color=#f0b4b0>10</FONT><FONT color=#ffd4c8>01</FONT><FONT color=#f8ccc8>11</FONT><FONT color=#e8bcc0>00</FONT><FONT color=#a07480>00</FONT><FONT color=#280c20>01</FONT><FONT color=#100010>11</FONT><FONT color=#100000>00</FONT><FONT color=#000000>10111100
-0101</FONT><FONT color=#000010>1010</FONT><FONT color=#100018>11</FONT><FONT color=#000018>1110</FONT><FONT color=#000000>10</FONT><FONT color=#100000>11</FONT><FONT color=#280000>11</FONT><FONT color=#a83440>10</FONT><FONT color=#a80c18>10</FONT><FONT color=#b00c18>11</FONT><FONT color=#c00c18>01</FONT><FONT color=#d80c18>10</FONT><FONT color=#d00010>00</FONT><FONT color=#b81418>11</FONT><FONT color=#900c10>01</FONT><FONT color=#f09498>00</FONT><FONT color=#ffdcd8>00</FONT><FONT color=#ffece8>01</FONT><FONT color=#e8d4d0>11</FONT><FONT color=#ffdce0>00</FONT><FONT color=#ffb4b8>11</FONT><FONT color=#b03438>11</FONT><FONT color=#c00c20>10</FONT><FONT color=#d80010>00</FONT><FONT color=#f00c20>10</FONT><FONT color=#f81428>10</FONT><FONT color=#f01428>01</FONT><FONT color=#e82430>00</FONT><FONT color=#f03c40>10</FONT><FONT color=#f85450>01</FONT><FONT color=#f05450>11</FONT><FONT color=#ff6470>00</FONT><FONT color=#ff8490>10</FONT><FONT color=#f89ca8>10</FONT><FONT color=#f8b4b8>01</FONT><FONT color=#ffc4d0>00</FONT><FONT color=#ffc4c8>10</FONT><FONT color=#ffd4d0>01</FONT><FONT color=#ffc4b8>11</FONT><FONT color=#e8bcb0>1000</FONT><FONT color=#f8c4c0>10</FONT><FONT color=#c88c98>11</FONT><FONT color=#200000>10</FONT><FONT color=#200010>00</FONT><FONT color=#100000>01</FONT><FONT color=#000000>01101000
-1110</FONT><FONT color=#000010>1011</FONT><FONT color=#000018>111010</FONT><FONT color=#100000>01</FONT><FONT color=#200000>00</FONT><FONT color=#380000>00</FONT><FONT color=#b83440>00</FONT><FONT color=#b80018>11</FONT><FONT color=#b80010>0100</FONT><FONT color=#d80c18>01</FONT><FONT color=#c00010>01</FONT><FONT color=#980c10>11</FONT><FONT color=#b85458>00</FONT><FONT color=#ffbcc8>00</FONT><FONT color=#ffdce0>11</FONT><FONT color=#f0d4e0>01</FONT><FONT color=#ffe4f0>11</FONT><FONT color=#ffc4d0>10</FONT><FONT color=#c85c68>11</FONT><FONT color=#d02c30>11</FONT><FONT color=#e01418>11</FONT><FONT color=#f00c00>10</FONT><FONT color=#f80000>01</FONT><FONT color=#f00000>1111</FONT><FONT color=#e81420>10</FONT><FONT color=#f02c30>11</FONT><FONT color=#f83438>01</FONT><FONT color=#ff4c48>11</FONT><FONT color=#ff5c68>10</FONT><FONT color=#ff7488>01</FONT><FONT color=#f88498>11</FONT><FONT color=#ffa4b8>11</FONT><FONT color=#ffb4c0>00</FONT><FONT color=#ffbcc8>11</FONT><FONT color=#ffacb0>01</FONT><FONT color=#ffbcb8>11</FONT><FONT color=#ffc4b8>01</FONT><FONT color=#f0aca8>10</FONT><FONT color=#ffacb0>0001</FONT><FONT color=#e0a4a8>00</FONT><FONT color=#300000>01</FONT><FONT color=#180000>11</FONT><FONT color=#000000>01010100
-</FONT><FONT color=#100000>1001</FONT><FONT color=#000000>10</FONT><FONT color=#000010>10</FONT><FONT color=#000018>1001</FONT><FONT color=#100010>01</FONT><FONT color=#180010>00</FONT><FONT color=#280000>10</FONT><FONT color=#400000>11</FONT><FONT color=#a80c20>10</FONT><FONT color=#d01428>00</FONT><FONT color=#b00000>10</FONT><FONT color=#b80000>11</FONT><FONT color=#c00000>11</FONT><FONT color=#b80c18>10</FONT><FONT color=#901c20>10</FONT><FONT color=#ffacb8>01</FONT><FONT color=#f8bcc8>00</FONT><FONT color=#ffccd8>00</FONT><FONT color=#f8c4d8>00</FONT><FONT color=#ffcce0>01</FONT><FONT color=#d05c78>11</FONT><FONT color=#a00c20>10</FONT><FONT color=#d01418>01</FONT><FONT color=#e80c00>01</FONT><FONT color=#f00000>00</FONT><FONT color=#f80000>10</FONT><FONT color=#ff0c00>01</FONT><FONT color=#ff1418>01</FONT><FONT color=#f81c20>11</FONT><FONT color=#f01c20>0001</FONT><FONT color=#ff3440>01</FONT><FONT color=#ff4c58>00</FONT><FONT color=#ff6478>00</FONT><FONT color=#f88498>01</FONT><FONT color=#f09ca8>11</FONT><FONT color=#f89cb0>00</FONT><FONT color=#ffacc0>10</FONT><FONT color=#ffacb8>01</FONT><FONT color=#ffb4b8>11</FONT><FONT color=#f8a498>10</FONT><FONT color=#f89c98>00</FONT><FONT color=#ff9ca0>11</FONT><FONT color=#f08c90>01</FONT><FONT color=#c87478>00</FONT><FONT color=#380000>00</FONT><FONT color=#180000>11</FONT><FONT color=#000000>01111011
-</FONT><FONT color=#100000>0100</FONT><FONT color=#000000>00</FONT><FONT color=#000010>11</FONT><FONT color=#000018>1101</FONT><FONT color=#100010>10</FONT><FONT color=#180000>11</FONT><FONT color=#380000>11</FONT><FONT color=#580000>10</FONT><FONT color=#b00020>10</FONT><FONT color=#e01428>11</FONT><FONT color=#c80c18>11</FONT><FONT color=#c00c10>00</FONT><FONT color=#c80c10>01</FONT><FONT color=#b81418>11</FONT><FONT color=#a84448>00</FONT><FONT color=#ffccd8>10</FONT><FONT color=#f8bcd0>01</FONT><FONT color=#ffd4e8>01</FONT><FONT color=#ffcce8>00</FONT><FONT color=#f07498>00</FONT><FONT color=#c01438>10</FONT><FONT color=#d00c20>01</FONT><FONT color=#d80c10>01</FONT><FONT color=#e00000>1000</FONT><FONT color=#e80000>01</FONT><FONT color=#f00000>11</FONT><FONT color=#f00c00>10</FONT><FONT color=#e80c00>01</FONT><FONT color=#e80c10>01</FONT><FONT color=#f81420>10</FONT><FONT color=#f81c28>10</FONT><FONT color=#ff3c50>11</FONT><FONT color=#f05460>01</FONT><FONT color=#ffa4b0>00</FONT><FONT color=#d88c98>10</FONT><FONT color=#e08ca0>01</FONT><FONT color=#f8a4b0>01</FONT><FONT color=#ffa4b0>11</FONT><FONT color=#f88c98>00</FONT><FONT color=#ff9ca0>10</FONT><FONT color=#ff8c90>11</FONT><FONT color=#e86470>00</FONT><FONT color=#ffa4a8>10</FONT><FONT color=#e07c88>10</FONT><FONT color=#400000>11</FONT><FONT color=#180000>00</FONT><FONT color=#000000>00011101
-</FONT><FONT color=#180000>00</FONT><FONT color=#100000>01</FONT><FONT color=#000000>01</FONT><FONT color=#000010>110010</FONT><FONT color=#100010>01</FONT><FONT color=#180000>10</FONT><FONT color=#300000>00</FONT><FONT color=#680000>00</FONT><FONT color=#c00c20>01</FONT><FONT color=#c80010>00</FONT><FONT color=#d00c18>10</FONT><FONT color=#b80000>01</FONT><FONT color=#d01418>01</FONT><FONT color=#980000>01</FONT><FONT color=#d87c88>00</FONT><FONT color=#ffc4d8>11</FONT><FONT color=#f8c4d0>01</FONT><FONT color=#ffbcc8>00</FONT><FONT color=#ffb4d0>00</FONT><FONT color=#b01438>01</FONT><FONT color=#c80028>01</FONT><FONT color=#e00020>10</FONT><FONT color=#e80c10>10</FONT><FONT color=#f00c00>10</FONT><FONT color=#f81400>1111</FONT><FONT color=#f00c00>00</FONT><FONT color=#e80000>0011</FONT><FONT color=#f00c10>11</FONT><FONT color=#ff1c28>10</FONT><FONT color=#e01418>01</FONT><FONT color=#f03448>11</FONT><FONT color=#d04c58>10</FONT><FONT color=#ffccd0>00</FONT><FONT color=#c08c90>11</FONT><FONT color=#c88c98>11</FONT><FONT color=#e89ca8>00</FONT><FONT color=#ffa4b0>01</FONT><FONT color=#f87c90>01</FONT><FONT color=#ff7c88>00</FONT><FONT color=#f06c70>10</FONT><FONT color=#ff8490>01</FONT><FONT color=#e05c68>11</FONT><FONT color=#d06c70>00</FONT><FONT color=#400000>10</FONT><FONT color=#180000>01</FONT><FONT color=#000000>01000101
-</FONT><FONT color=#180000>00</FONT><FONT color=#100000>10</FONT><FONT color=#000000>00</FONT><FONT color=#000010>111110</FONT><FONT color=#100000>00</FONT><FONT color=#200000>01</FONT><FONT color=#400000>01</FONT><FONT color=#901c28>10</FONT><FONT color=#c80c28>11</FONT><FONT color=#d80018>11</FONT><FONT color=#c80010>11</FONT><FONT color=#c00010>10</FONT><FONT color=#c00c10>11</FONT><FONT color=#a00010>11</FONT><FONT color=#f8a4b0>10</FONT><FONT color=#f0bcd0>10</FONT><FONT color=#f8d4d8>10</FONT><FONT color=#ffccc8>01</FONT><FONT color=#e88c90>00</FONT><FONT color=#b01c28>00</FONT><FONT color=#d80c20>00</FONT><FONT color=#f00018>11</FONT><FONT color=#f80010>01</FONT><FONT color=#f80000>0001011100</FONT><FONT color=#f00000>00</FONT><FONT color=#e80c00>11</FONT><FONT color=#e80c10>01</FONT><FONT color=#d81420>00</FONT><FONT color=#c82c30>00</FONT><FONT color=#b84c50>11</FONT><FONT color=#ffdcd8>00</FONT><FONT color=#ffece0>00</FONT><FONT color=#ffdcd8>11</FONT><FONT color=#ffd4e0>01</FONT><FONT color=#f08c98>10</FONT><FONT color=#e86478>00</FONT><FONT color=#f86c78>11</FONT><FONT color=#ff7c88>11</FONT><FONT color=#f05c68>01</FONT><FONT color=#e86c78>10</FONT><FONT color=#c06c70>10</FONT><FONT color=#300000>01</FONT><FONT color=#180000>11</FONT><FONT color=#100000>10</FONT><FONT color=#000000>001110
-</FONT><FONT color=#180000>10</FONT><FONT color=#100000>01</FONT><FONT color=#000000>01</FONT><FONT color=#000010>001011</FONT><FONT color=#100000>11</FONT><FONT color=#200000>00</FONT><FONT color=#380000>11</FONT><FONT color=#881420>11</FONT><FONT color=#b80010>00</FONT><FONT color=#d80018>10</FONT><FONT color=#c80018>00</FONT><FONT color=#b80000>1101</FONT><FONT color=#a81418>00</FONT><FONT color=#f89cb0>00</FONT><FONT color=#ffccd8>01</FONT><FONT color=#f0d4d0>10</FONT><FONT color=#f0ccb8>00</FONT><FONT color=#f8a498>00</FONT><FONT color=#a81c18>01</FONT><FONT color=#c80000>01</FONT><FONT color=#f80018>10</FONT><FONT color=#f80010>00</FONT><FONT color=#ff0010>011000</FONT><FONT color=#ff0000>00</FONT><FONT color=#f80000>11</FONT><FONT color=#f00000>01</FONT><FONT color=#f00c00>10</FONT><FONT color=#e00000>10</FONT><FONT color=#f83c40>11</FONT><FONT color=#ff6470>01</FONT><FONT color=#ffaca8>10</FONT><FONT color=#ffe4e0>10</FONT><FONT color=#fff4e8>11</FONT><FONT color=#fff4f0>10</FONT><FONT color=#d89498>00</FONT><FONT color=#d05c68>10</FONT><FONT color=#f05c70>01</FONT><FONT color=#e84c60>01</FONT><FONT color=#f85c68>10</FONT><FONT color=#f05460>10</FONT><FONT color=#d85c60>01</FONT><FONT color=#c07470>10</FONT><FONT color=#280000>10</FONT><FONT color=#180000>10</FONT><FONT color=#100000>01</FONT><FONT color=#000000>110010
-</FONT><FONT color=#180000>01</FONT><FONT color=#100000>00</FONT><FONT color=#000010>00001111</FONT><FONT color=#100000>10</FONT><FONT color=#200000>00</FONT><FONT color=#380000>11</FONT><FONT color=#902430>00</FONT><FONT color=#a80000>00</FONT><FONT color=#d00018>00</FONT><FONT color=#c80018>11</FONT><FONT color=#b80000>1110</FONT><FONT color=#a80c18>00</FONT><FONT color=#ff9cb0>01</FONT><FONT color=#ffccd8>00</FONT><FONT color=#d8bcb8>00</FONT><FONT color=#f8dcc8>00</FONT><FONT color=#e09c88>01</FONT><FONT color=#a02418>01</FONT><FONT color=#c80000>11</FONT><FONT color=#ff0c20>11</FONT><FONT color=#f80018>11</FONT><FONT color=#ff0018>110111</FONT><FONT color=#ff0010>00</FONT><FONT color=#f80010>10</FONT><FONT color=#f00000>01</FONT><FONT color=#e80c00>01</FONT><FONT color=#e80c18>00</FONT><FONT color=#ff3c48>01</FONT><FONT color=#ff7478>11</FONT><FONT color=#ffb4b8>01</FONT><FONT color=#ffd4d0>10</FONT><FONT color=#fff4e8>10</FONT><FONT color=#ffd4d8>11</FONT><FONT color=#d07480>01</FONT><FONT color=#e04c60>10</FONT><FONT color=#f84c60>10</FONT><FONT color=#f84458>0101</FONT><FONT color=#f85468>10</FONT><FONT color=#d84c60>10</FONT><FONT color=#c06c70>11</FONT><FONT color=#300000>01</FONT><FONT color=#180000>00</FONT><FONT color=#100000>10</FONT><FONT color=#000000>010011
-</FONT><FONT color=#180000>00</FONT><FONT color=#100000>10</FONT><FONT color=#100010>10</FONT><FONT color=#000010>001011</FONT><FONT color=#100000>10</FONT><FONT color=#180000>00</FONT><FONT color=#300000>00</FONT><FONT color=#a04448>01</FONT><FONT color=#b00018>10</FONT><FONT color=#c80018>10</FONT><FONT color=#c00010>00</FONT><FONT color=#c00c10>0110</FONT><FONT color=#a00010>10</FONT><FONT color=#ff94a8>11</FONT><FONT color=#f8b4c0>11</FONT><FONT color=#d8c4b8>10</FONT><FONT color=#f8e4c8>10</FONT><FONT color=#e09c90>00</FONT><FONT color=#981c10>01</FONT><FONT color=#d81420>10</FONT><FONT color=#f80c20>00</FONT><FONT color=#f00018>11</FONT><FONT color=#f80018>01</FONT><FONT color=#f00018>00</FONT><FONT color=#f80018>0000</FONT><FONT color=#f80010>11</FONT><FONT color=#f00000>00</FONT><FONT color=#e80000>00</FONT><FONT color=#f00c18>11</FONT><FONT color=#e00c18>01</FONT><FONT color=#d82430>01</FONT><FONT color=#c03438>10</FONT><FONT color=#f89c98>10</FONT><FONT color=#ffd4d0>10</FONT><FONT color=#ff9ca0>11</FONT><FONT color=#ffb4c0>10</FONT><FONT color=#ff5468>01</FONT><FONT color=#f02c40>10</FONT><FONT color=#ff4458>11</FONT><FONT color=#ff3c50>10</FONT><FONT color=#f84458>11</FONT><FONT color=#e04458>01</FONT><FONT color=#c05c68>10</FONT><FONT color=#400000>00</FONT><FONT color=#180000>01</FONT><FONT color=#100000>01</FONT><FONT color=#000000>100011
-</FONT><FONT color=#100000>1110</FONT><FONT color=#100010>11</FONT><FONT color=#000010>001010</FONT><FONT color=#100000>10</FONT><FONT color=#180000>11</FONT><FONT color=#280000>00</FONT><FONT color=#903c38>10</FONT><FONT color=#b00c20>10</FONT><FONT color=#c00018>11</FONT><FONT color=#b80010>11</FONT><FONT color=#b80c10>00</FONT><FONT color=#c80c18>11</FONT><FONT color=#a80010>01</FONT><FONT color=#f07488>01</FONT><FONT color=#f8acb8>00</FONT><FONT color=#f0d4d0>10</FONT><FONT color=#e8ccb8>11</FONT><FONT color=#ffc4b8>11</FONT><FONT color=#a02428>00</FONT><FONT color=#d81428>00</FONT><FONT color=#e00018>01</FONT><FONT color=#e80018>1000</FONT><FONT color=#e00010>00</FONT><FONT color=#e80010>01</FONT><FONT color=#f00010>0100110111</FONT><FONT color=#e80010>00</FONT><FONT color=#f01c30>10</FONT><FONT color=#d01428>01</FONT><FONT color=#ff8c90>11</FONT><FONT color=#ff7480>10</FONT><FONT color=#b81c28>10</FONT><FONT color=#e83448>11</FONT><FONT color=#ff3c50>01</FONT><FONT color=#f81c28>10</FONT><FONT color=#ff2c38>01</FONT><FONT color=#f82c40>01</FONT><FONT color=#f02c40>00</FONT><FONT color=#e03c50>10</FONT><FONT color=#e06c78>00</FONT><FONT color=#400000>11</FONT><FONT color=#200000>11</FONT><FONT color=#100000>10</FONT><FONT color=#000000>001101
-</FONT><FONT color=#100010>100011</FONT><FONT color=#000010>11</FONT><FONT color=#000018>10</FONT><FONT color=#000010>11</FONT><FONT color=#100010>11</FONT><FONT color=#180000>10</FONT><FONT color=#280000>00</FONT><FONT color=#580c10>10</FONT><FONT color=#980010>00</FONT><FONT color=#b80018>01</FONT><FONT color=#b80c18>00</FONT><FONT color=#b00000>10</FONT><FONT color=#c00010>11</FONT><FONT color=#b80c18>11</FONT><FONT color=#c03c50>00</FONT><FONT color=#ffb4c0>11</FONT><FONT color=#e8ccc8>11</FONT><FONT color=#e8d4c8>00</FONT><FONT color=#ffd4d8>11</FONT><FONT color=#d86c78>11</FONT><FONT color=#c00028>00</FONT><FONT color=#d80020>10</FONT><FONT color=#e00018>11</FONT><FONT color=#e00010>11</FONT><FONT color=#e00c10>01</FONT><FONT color=#e80000>10</FONT><FONT color=#f00000>1101</FONT><FONT color=#e80010>1000</FONT><FONT color=#f00000>11</FONT><FONT color=#f80018>00</FONT><FONT color=#f00018>01</FONT><FONT color=#d80018>10</FONT><FONT color=#ff4450>01</FONT><FONT color=#d82430>01</FONT><FONT color=#e82438>10</FONT><FONT color=#f01c28>00</FONT><FONT color=#ff1c28>01</FONT><FONT color=#ff2430>11</FONT><FONT color=#f01c20>10</FONT><FONT color=#f82c30>01</FONT><FONT color=#e82c38>01</FONT><FONT color=#e03c48>11</FONT><FONT color=#ff8490>10</FONT><FONT color=#400000>10</FONT><FONT color=#200000>01</FONT><FONT color=#100000>00</FONT><FONT color=#000000>100001
-</FONT><FONT color=#100010>010010</FONT><FONT color=#100018>1001</FONT><FONT color=#100010>1010</FONT><FONT color=#180000>10</FONT><FONT color=#200000>01</FONT><FONT color=#380000>00</FONT><FONT color=#980c18>00</FONT><FONT color=#b00010>10</FONT><FONT color=#b80c18>01</FONT><FONT color=#b00000>00</FONT><FONT color=#c80010>00</FONT><FONT color=#c00c20>00</FONT><FONT color=#a01428>11</FONT><FONT color=#e09498>00</FONT><FONT color=#d0bcb8>10</FONT><FONT color=#e0dcd8>00</FONT><FONT color=#f0ccd8>11</FONT><FONT color=#ffb4d0>00</FONT><FONT color=#e03c60>00</FONT><FONT color=#d80c30>00</FONT><FONT color=#d80018>00</FONT><FONT color=#e00000>1101</FONT><FONT color=#e80000>00</FONT><FONT color=#f80000>0100</FONT><FONT color=#f00010>10</FONT><FONT color=#e80010>00</FONT><FONT color=#f00010>01</FONT><FONT color=#ff1418>01</FONT><FONT color=#ff0c18>00</FONT><FONT color=#f80c20>01</FONT><FONT color=#f01c28>11</FONT><FONT color=#d00010>10</FONT><FONT color=#f81c28>10</FONT><FONT color=#e80000>11</FONT><FONT color=#f80c10>11</FONT><FONT color=#ff2420>01</FONT><FONT color=#e82420>00</FONT><FONT color=#e02c28>11</FONT><FONT color=#e03438>11</FONT><FONT color=#d84448>10</FONT><FONT color=#c04c58>01</FONT><FONT color=#480000>11</FONT><FONT color=#200000>00</FONT><FONT color=#100000>00</FONT><FONT color=#000000>011100
-</FONT><FONT color=#100000>1011</FONT><FONT color=#100010>110100</FONT><FONT color=#000010>00</FONT><FONT color=#100010>11</FONT><FONT color=#100000>10</FONT><FONT color=#280000>10</FONT><FONT color=#380000>10</FONT><FONT color=#b02430>11</FONT><FONT color=#a80010>10</FONT><FONT color=#b00c10>10</FONT><FONT color=#b80010>11</FONT><FONT color=#c80c18>01</FONT><FONT color=#b00000>11</FONT><FONT color=#a80c18>01</FONT><FONT color=#a83c48>01</FONT><FONT color=#f0ccc8>01</FONT><FONT color=#d0c4b8>10</FONT><FONT color=#f0dce0>10</FONT><FONT color=#ffd4e0>11</FONT><FONT color=#ffa4c0>01</FONT><FONT color=#c01c38>00</FONT><FONT color=#c80c20>01</FONT><FONT color=#d80c18>10</FONT><FONT color=#e00000>01</FONT><FONT color=#f00000>00</FONT><FONT color=#f80000>10</FONT><FONT color=#f00000>01</FONT><FONT color=#e80010>010110</FONT><FONT color=#f00010>1101</FONT><FONT color=#f80018>10</FONT><FONT color=#f00c18>0011</FONT><FONT color=#f00c10>11</FONT><FONT color=#ff1c18>1010</FONT><FONT color=#e00000>01</FONT><FONT color=#f83428>11</FONT><FONT color=#d82420>11</FONT><FONT color=#d82c30>00</FONT><FONT color=#c83c40>10</FONT><FONT color=#580000>11</FONT><FONT color=#480000>00</FONT><FONT color=#200000>00</FONT><FONT color=#000000>11110000
-</FONT><FONT color=#180000>0111</FONT><FONT color=#100000>10</FONT><FONT color=#100010>00</FONT><FONT color=#000010>111001</FONT><FONT color=#100000>10</FONT><FONT color=#280000>00</FONT><FONT color=#480000>00</FONT><FONT color=#b02438>10</FONT><FONT color=#c01428>00</FONT><FONT color=#b00000>01</FONT><FONT color=#c00c10>00</FONT><FONT color=#a80000>10</FONT><FONT color=#b00c00>10</FONT><FONT color=#a80000>00</FONT><FONT color=#b82430>10</FONT><FONT color=#d07470>11</FONT><FONT color=#e8b4a8>11</FONT><FONT color=#e8ccc0>00</FONT><FONT color=#f0d4d0>10</FONT><FONT color=#ffc4d0>10</FONT><FONT color=#ffa4b8>01</FONT><FONT color=#b82c48>11</FONT><FONT color=#c81430>00</FONT><FONT color=#d80020>11</FONT><FONT color=#e80018>01</FONT><FONT color=#f00010>01</FONT><FONT color=#e80000>00</FONT><FONT color=#e00000>01</FONT><FONT color=#e00c10>11</FONT><FONT color=#e80c20>00</FONT><FONT color=#e80018>00</FONT><FONT color=#f00010>0001</FONT><FONT color=#e80000>10</FONT><FONT color=#f00000>00</FONT><FONT color=#f00c00>01</FONT><FONT color=#f81410>11</FONT><FONT color=#ff2420>00</FONT><FONT color=#e00000>00</FONT><FONT color=#ff1c28>11</FONT><FONT color=#d80018>01</FONT><FONT color=#d02430>11</FONT><FONT color=#c83c48>00</FONT><FONT color=#500000>11</FONT><FONT color=#380000>01</FONT><FONT color=#180000>10</FONT><FONT color=#000000>10101100
-</FONT><FONT color=#180000>1001</FONT><FONT color=#100000>0100</FONT><FONT color=#000010>100111</FONT><FONT color=#000000>11</FONT><FONT color=#300010>10</FONT><FONT color=#500010>00</FONT><FONT color=#700000>11</FONT><FONT color=#b00c28>01</FONT><FONT color=#b00010>10</FONT><FONT color=#a80000>00</FONT><FONT color=#d02c28>11</FONT><FONT color=#b00000>00</FONT><FONT color=#d01420>10</FONT><FONT color=#a80000>11</FONT><FONT color=#a81c20>11</FONT><FONT color=#e88480>10</FONT><FONT color=#ffccc0>00</FONT><FONT color=#f8d4c8>11</FONT><FONT color=#ffd4d0>01</FONT><FONT color=#ffdce0>00</FONT><FONT color=#ffb4c0>00</FONT><FONT color=#e86c80>10</FONT><FONT color=#d02440>11</FONT><FONT color=#c80c20>11</FONT><FONT color=#d00010>00</FONT><FONT color=#d00000>01</FONT><FONT color=#e01c10>01</FONT><FONT color=#f83430>01</FONT><FONT color=#e80c20>00</FONT><FONT color=#f00020>01</FONT><FONT color=#f00018>01</FONT><FONT color=#f00010>00</FONT><FONT color=#f00000>0000</FONT><FONT color=#f00c00>01</FONT><FONT color=#f80c00>10</FONT><FONT color=#e80000>10</FONT><FONT color=#ff1c28>10</FONT><FONT color=#ff1c30>00</FONT><FONT color=#f82438>10</FONT><FONT color=#d02c40>01</FONT><FONT color=#b83c50>11</FONT><FONT color=#400000>10</FONT><FONT color=#200000>00</FONT><FONT color=#100000>11</FONT><FONT color=#000000>01000011
-</FONT><FONT color=#100000>01111011</FONT><FONT color=#000000>01</FONT><FONT color=#000010>0000</FONT><FONT color=#000000>11</FONT><FONT color=#180000>11</FONT><FONT color=#480c18>01</FONT><FONT color=#480000>10</FONT><FONT color=#a01c28>11</FONT><FONT color=#b00c18>11</FONT><FONT color=#c00c18>10</FONT><FONT color=#b00000>10</FONT><FONT color=#c80c10>11</FONT><FONT color=#c00000>11</FONT><FONT color=#d01420>01</FONT><FONT color=#b81420>00</FONT><FONT color=#a01420>01</FONT><FONT color=#c05458>01</FONT><FONT color=#f8a4a0>10</FONT><FONT color=#ffc4c0>10</FONT><FONT color=#f0bcb8>01</FONT><FONT color=#ffccc8>01</FONT><FONT color=#ffdcd8>01</FONT><FONT color=#ffccc8>10</FONT><FONT color=#ffa4a0>01</FONT><FONT color=#ff9490>01</FONT><FONT color=#ff9c90>10</FONT><FONT color=#ff7470>00</FONT><FONT color=#ff3c40>01</FONT><FONT color=#e80018>01</FONT><FONT color=#f80018>11</FONT><FONT color=#f80010>0001</FONT><FONT color=#f00000>1100</FONT><FONT color=#f80c00>1001</FONT><FONT color=#ff0c10>11</FONT><FONT color=#f80010>11</FONT><FONT color=#e00010>00</FONT><FONT color=#d81428>11</FONT><FONT color=#d03c48>11</FONT><FONT color=#480000>00</FONT><FONT color=#200000>10</FONT><FONT color=#201418>10</FONT><FONT color=#000000>0101000001
-0000000100</FONT><FONT color=#000010>10</FONT><FONT color=#000000>001110</FONT><FONT color=#200000>00</FONT><FONT color=#581c20>00</FONT><FONT color=#a84450>11</FONT><FONT color=#980c18>00</FONT><FONT color=#c01428>00</FONT><FONT color=#c00000>11</FONT><FONT color=#e00c20>10</FONT><FONT color=#d81420>00</FONT><FONT color=#c00000>11</FONT><FONT color=#b00000>11</FONT><FONT color=#b80c18>10</FONT><FONT color=#b81c28>11</FONT><FONT color=#a01420>01</FONT><FONT color=#a83c40>11</FONT><FONT color=#e08488>10</FONT><FONT color=#f0a4a0>10</FONT><FONT color=#ffb4b0>11</FONT><FONT color=#ffbcb8>01</FONT><FONT color=#ffaca8>00</FONT><FONT color=#ff8480>01</FONT><FONT color=#e85458>01</FONT><FONT color=#d02428>01</FONT><FONT color=#c80000>10</FONT><FONT color=#f00018>10</FONT><FONT color=#f80010>110100</FONT><FONT color=#f00000>0111</FONT><FONT color=#f80000>010010</FONT><FONT color=#ff0c18>01</FONT><FONT color=#f81c30>01</FONT><FONT color=#d82438>10</FONT><FONT color=#b83c48>01</FONT><FONT color=#400000>11</FONT><FONT color=#281410>01</FONT><FONT color=#000000>100011111011
-0111000001</FONT><FONT color=#000010>1100</FONT><FONT color=#000000>11</FONT><FONT color=#100c10>11</FONT><FONT color=#201418>11</FONT><FONT color=#180000>00</FONT><FONT color=#400000>00</FONT><FONT color=#a03438>01</FONT><FONT color=#b01428>10</FONT><FONT color=#c80018>10</FONT><FONT color=#d00018>11</FONT><FONT color=#b80000>11</FONT><FONT color=#c81418>10</FONT><FONT color=#c80c10>10</FONT><FONT color=#b80000>10</FONT><FONT color=#c00010>11</FONT><FONT color=#c80018>00</FONT><FONT color=#b80018>1000</FONT><FONT color=#b81428>01</FONT><FONT color=#b80c20>00</FONT><FONT color=#b81420>10</FONT><FONT color=#c01428>10</FONT><FONT color=#c80c20>11</FONT><FONT color=#c80018>00</FONT><FONT color=#d80018>00</FONT><FONT color=#e80c20>10</FONT><FONT color=#e80010>01</FONT><FONT color=#f00000>00</FONT><FONT color=#e80000>00</FONT><FONT color=#e80c00>01</FONT><FONT color=#f00c00>01</FONT><FONT color=#f00000>00</FONT><FONT color=#f80000>0010</FONT><FONT color=#ff0010>11</FONT><FONT color=#f80c20>00</FONT><FONT color=#d80c20>11</FONT><FONT color=#c02438>01</FONT><FONT color=#500000>10</FONT><FONT color=#300000>00</FONT><FONT color=#200000>11</FONT><FONT color=#000000>110110100111
-10001110</FONT><FONT color=#100000>10</FONT><FONT color=#100010>01</FONT><FONT color=#000010>01</FONT><FONT color=#000000>001011</FONT><FONT color=#100000>01</FONT><FONT color=#381410>11</FONT><FONT color=#400000>10</FONT><FONT color=#a01428>10</FONT><FONT color=#c80028>11</FONT><FONT color=#e00c28>11</FONT><FONT color=#c80010>00</FONT><FONT color=#c00c00>10</FONT><FONT color=#c00000>01</FONT><FONT color=#c80000>01</FONT><FONT color=#d00010>00011100</FONT><FONT color=#d00018>00</FONT><FONT color=#d80018>000110</FONT><FONT color=#e00020>00</FONT><FONT color=#f00c30>00</FONT><FONT color=#f00c28>11</FONT><FONT color=#e00010>01</FONT><FONT color=#e00000>1001</FONT><FONT color=#e00c00>11</FONT><FONT color=#e80c00>11</FONT><FONT color=#f00000>1011</FONT><FONT color=#f80000>01</FONT><FONT color=#f80010>10</FONT><FONT color=#f00018>10</FONT><FONT color=#d80018>10</FONT><FONT color=#d83440>11</FONT><FONT color=#d04c60>00</FONT><FONT color=#500000>10</FONT><FONT color=#300000>10</FONT><FONT color=#180000>11</FONT><FONT color=#180010>11</FONT><FONT color=#000000>1001110110
-00110100</FONT><FONT color=#100000>11</FONT><FONT color=#100010>1011</FONT><FONT color=#000010>11</FONT><FONT color=#181c20>01</FONT><FONT color=#000c10>00</FONT><FONT color=#000000>00</FONT><FONT color=#180000>11</FONT><FONT color=#380000>00</FONT><FONT color=#c85c70>10</FONT><FONT color=#b00c28>10</FONT><FONT color=#c00020>11</FONT><FONT color=#d00020>01</FONT><FONT color=#c80000>0000</FONT><FONT color=#c80010>11</FONT><FONT color=#c00000>1110</FONT><FONT color=#d00010>10</FONT><FONT color=#e00c18>11</FONT><FONT color=#f01428>10</FONT><FONT color=#e00000>1011</FONT><FONT color=#f80020>11</FONT><FONT color=#f80c28>11</FONT><FONT color=#e00018>00</FONT><FONT color=#d80010>00</FONT><FONT color=#e00018>01</FONT><FONT color=#e00000>0110</FONT><FONT color=#e00c00>10</FONT><FONT color=#e00000>01</FONT><FONT color=#f00000>01</FONT><FONT color=#f80000>00</FONT><FONT color=#f80010>10</FONT><FONT color=#f00010>01</FONT><FONT color=#d80018>00</FONT><FONT color=#c01420>10</FONT><FONT color=#a02c30>01</FONT><FONT color=#500000>01</FONT><FONT color=#280000>01</FONT><FONT color=#200000>11</FONT><FONT color=#380c20>00</FONT><FONT color=#180000>01</FONT><FONT color=#100000>11</FONT><FONT color=#000000>00101110
-11001111</FONT><FONT color=#100000>00</FONT><FONT color=#100010>10</FONT><FONT color=#180010>11</FONT><FONT color=#100010>01</FONT><FONT color=#000000>00</FONT><FONT color=#100c10>11</FONT><FONT color=#101c18>11</FONT><FONT color=#000000>01</FONT><FONT color=#200000>00</FONT><FONT color=#480000>00</FONT><FONT color=#c04460>11</FONT><FONT color=#a00018>10</FONT><FONT color=#b80018>00</FONT><FONT color=#c00000>10</FONT><FONT color=#c80010>1111</FONT><FONT color=#c80000>10</FONT><FONT color=#d00c10>00</FONT><FONT color=#d80c18>01</FONT><FONT color=#c80000>11</FONT><FONT color=#d80000>00</FONT><FONT color=#e80010>0110</FONT><FONT color=#d80000>0011</FONT><FONT color=#e80018>01</FONT><FONT color=#e80c20>00</FONT><FONT color=#e80c18>00</FONT><FONT color=#e00000>00110000</FONT><FONT color=#e80000>11</FONT><FONT color=#f00010>01</FONT><FONT color=#e80010>01</FONT><FONT color=#e00018>10</FONT><FONT color=#d02430>10</FONT><FONT color=#a02428>10</FONT><FONT color=#400000>11</
+[[de:administration]]
+[[et:administration]]
+[[el:administration]]
+[[fr:administration]]
+[[gl:administration]]
+[[io:administration]]
+[[it:administration]]
+[[hu:administration]]
+[[pl:administration]]
+[[fi:administration]]
+[[ta:administration]]
+[[vi:administration]]
+[[zh:administration]]
