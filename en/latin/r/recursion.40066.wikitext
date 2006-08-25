@@ -13,7 +13,6 @@
 #:''n! = n &times; (n &minus; 1)! (for n > 0) or 1 (for n = 0) defines the factorial function using recursion.''
 #(''computing'') The calling of a function from within that same function.
 #:''This function uses recursion to compute factorials.''
-#See also [[recursion]].
 
 The image below was generated using recursion, embedding a (former) image of this page in the image itself, then reducing this in size and embedding it in the image itself, and so on.
 
