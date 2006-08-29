@@ -3,7 +3,133 @@
 '''[[division]] [[sign]]''' (''plural'' '''division signs''')
 
 #{{mathematics}} Any symbol (in particular &divide; or / ) used to denote the [[operation]] of [[division]].
+In mathematics, especially in elementary arithmetic, division is an arithmetic operation which is the inverse of multiplication.
 
+Specifically, if c times b equals a, written:
+
+ 
+where b is not zero, then a divided by b equals c, written:
+
+ 
+For instance,
+
+ 
+since
+
+. 
+In the above expression, a is called the dividend, b the divisor and c the quotient.
+
+Division by zero (i.e. where the divisor is zero) is usually not defined.
+
+Contents [hide]
+1 Notation 
+2 Computing division 
+3 Division of integers 
+4 Division of rational numbers 
+5 Division of real numbers 
+6 Division of complex numbers 
+7 Division of polynomials 
+8 Division in abstract algebra 
+9 Division and calculus 
+10 See also 
+11 External links 
+ 
+
+
+[edit]
+Notation
+Division is most often shown by placing the dividend over the divisor with a horizontal line between them. For example, a divided by b is written
+
+ 
+This can be read out loud as "a divided by b" or "a over b". A way to express division all on one line is to write the dividend, then a slash, then the divisor, like this:
+
+ 
+This is the usual way to specify division in most computer programming languages since it can easily be typed as a simple sequence of characters.
+
+A typographical variation which is halfway between these two forms uses a slash but elevates the dividend, and lowers the divisor:
+
+a⁄b . 
+Any of these forms can be used to display a fraction. A fraction is a division expression where both dividend and divisor are integers (although typically called the numerator and denominator), and there is no implication that the division needs to be evaluated further.
+
+A less common way to show division is to use the obelus (or division sign) in this manner:
+
+ 
+This form is infrequent except in elementary arithmetic. The obelus is also used alone to represent the division operation itself, as for instance as a label on a key of a calculator.
+
+In some non-English-speaking cultures, "a divided by b" is written a : b. However, in English usage the colon is restricted to expressing the related concept of ratios.
+
+[edit]
+Computing division
+With a knowledge of multiplication tables, two integers can be divided on paper using the method of long division. If the dividend has a fractional part (expressed as a decimal fraction), one can continue the algorithm past the ones place as far as desired. If the divisor has a fractional part, one can restate the problem by moving the decimal to the right in both numbers until the divisor has no fraction.
+
+In modern computers, long division has been replaced by faster methods; see Division (digital).
+
+Division can be calculated with an abacus by repeatedly placing the dividend on the abacus, and then subtracting the divisor the offset of each digit in the result, counting the number of divisions possible at each offset.
+
+In modular arithmetic, some numbers have a multiplicative inverse with respect to the modulus. In such a case, division can be calculated by multiplication. This approach is useful in computers that do not have a fast division instruction.
+
+[edit]
+Division of integers
+Division of integers is not closed. Apart from division by zero being undefined, the quotient will not be an integer unless the dividend is an integer multiple of the divisor; for example 26 cannot be divided by 10 to give an integer. In such a case there are four possible approaches.
+
+Say that 26 cannot be divided by 10. 
+Give the answer as a decimal fraction or a mixed number, so  or . This is the approach usually taken in mathematics. 
+Give the answer as an integer quotient and a remainder, so  remainder 6. 
+Give the integer quotient as the answer, so . This is sometimes called integer division. 
+One has to be careful when performing division of integers in a computer program. Some programming languages, such as C, will treat division of integers as in case 4 above, so the answer will be an integer. Other languages, such as MATLAB, will first convert the integers to real numbers, and then give a real number as the answer, as in case 2 above.
+
+Names and symbols used for integer division include div, \, and %. Definitions vary regarding integer division when the quotient is negative: rounding may be toward zero or toward minus infinity.
+
+[edit]
+Division of rational numbers
+The result of dividing two rational numbers is another rational number when the divisor is not 0. We may define division of two rational numbers p/q and r/s by
+
+ 
+All four quantities are integers, and only p may be 0. This definition ensures that division is the inverse operation of multiplication.
+
+[edit]
+Division of real numbers
+Division of two real numbers results in another real number when the divisor is not 0. It is defined such a/b = c if and only if a = cb and b ≠ 0.
+
+[edit]
+Division of complex numbers
+Dividing two complex numbers results in another complex number when the divisor is not 0, defined thus:
+
+ 
+All four quantities are real numbers. r and s may not both be 0.
+
+Division for complex numbers expressed in polar form is simpler and easier to remember than the definition above:
+
+ 
+Again all four quantities are real numbers. r may not be 0.
+
+[edit]
+Division of polynomials
+One can define the division operation for polynomials. Then, as in the case of integers, one has a remainder. See polynomial long division.
+
+[edit]
+Division in abstract algebra
+In abstract algebras such as matrix algebras and quaternion algebras, fractions such as  are typically defined as  or  where b is presumed to be an invertible element (i.e. there exists a multiplicative inverse b − 1 such that bb − 1 = b − 1b = 1 where 1 is the multiplicative identity). In an integral domain where such elements may not exist, division can still be performed on equations of the form ab = ac or ba = ca by left or right cancellation, respectively. More generally "division" in the sense of "cancellation" can be done in any ring with the aforementioned cancellation properties. By a theorem of Wedderburn, all finite division rings are fields, hence every nonzero element of such a ring is invertible, so division by any nonzero element is possible in such a ring. To learn about when algebras (in the technical sense) have a division operation, refer to the page on division algebras. In particular Bott periodicity can be used to show that any real normed division algebra must be isomorphic to either the real numbers R, the complex numbers C, the quaternions H, or the octonions O.
+
+[edit]
+Division and calculus
+The derivative of the quotient of two functions is given by the quotient rule:
+
+ 
+There is no general method to integrate the quotient of two functions.
+
+[edit]
+See also
+Division (electronics) 
+Vulgar fraction 
+Reciprocal 
+Inverse element 
+Division by two 
+Quasigroup 
+Group 
+Field (algebra) 
+Division ring 
+Vinculum 
 ====Translations====
 *Dutch: [[deelteken]] ''n''
 *Finnish: [[jakolaskumerkki]], [[kauttamerkki]]
