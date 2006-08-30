@@ -19,7 +19,11 @@ In certain areas, to save time or to keep a rhythm in pronouncing repeated [[dig
 # [[numeral]] corresponding to the number zero.
 #:''The flashing '''0''' indicates that time is up.''
 # A [[digit]] in [[decimal]], [[binary]], and every other [[base]] numbering system.
-#:''The Boolean domain contains only '''0''' and 1.''
+<!--
+#:''The Boolean domain contains only '''0''' and 1.'' not petinent to numbering
+replace with:
+-->
+#:''The binary numbers contain only '''0''' and 1.''
 #:''Hexadecimal numbers ending in '''0''' are divisible by 16.''
 # The origin, starting point, or fixed reference point, especially for a measurement.
 #:''The '''0''' for the Celcius scale is 273.15 Kelvin.''
@@ -27,6 +31,13 @@ In certain areas, to save time or to keep a rhythm in pronouncing repeated [[dig
 #:''The shipment was lost, so they had '''0''' in stock.''
 #{{mathematics}} The [[identity element]] with respect to [[addition]].
 #: <math>\exists\,\mathbf{0}:\forall a\in A:\mathbf{0}+a=a+\mathbf{0}=a</math>
+<!--
+for proposed restoration:
+#(''computer science'') [[bit]] state corresponding to binary digit 0, or [[FALSE]]; in a [[logic gate]] [[off]] or the ''low'' state.
+#:''If the NOT gate input is ON, the output is '''0'''.''
+#{{mathematics}} A [[Boolean]] or truth value corresponding to FALSE.
+#:''The Boolean domain contains only '''0''' and 1.''
+-->
 
 ====Synonyms====
 *number: [[cipher]], [[nil]], [[nought]], [[null]]
