@@ -1,17 +1,41 @@
 ==English==
-===Noun phrase===
+===Noun===
 {{wikipedia}}
 {{en-noun|sg=[[short]] [[circuit]]}}
 
 # an [[unintentional]] [[connection]] of low [[resistance]] or [[impedance]] in a [[circuit]] such that [[excessive]] and often [[damaging]] [[current]] [[flow]]s in it
 
-===Synonyms===
-* a [[short]]
+====Synonyms====
+* [[short]]
 
-===Translations===
+====Translations====
 {{top}}
 {{mid}}
 *Portuguese: [[curto-circuito]] {{m}}
 {{bottom}}
 
 [[it:short circuit]]
+
+===Verb===
+{{en-verb}}
+# {{transitive}} to cause a [[short circuit]] in
+# {{transitive}} {{cattag|by extension}} to force [[termination]] of an ongoing process before its natural conclusion by [[bypass]]ing one or more [[intermediary]] steps
+#* '''1998:''' Catherine Nickerson, ''The Web of Iniquity''
+#*: [H]is temporarily successful attempt to smear Redfield is an effort to '''short-circuit''' the narrative into premature and mistaken resolution.
+#* '''2002:''' Jim Kasper, ''Short Cycle Selling: Beating Your Competitors in the Sales Race,''
+#*: You do not need to follow your entire sales cycle if the customer wants to '''short-circuit''' it for you.
+#* '''2003:''' Gina Hens-Piazza, ''Nameless, Blameless, and Without Shame: Two Cannibal Mothers Before a King''
+#*: My mother, determined to '''short-circuit''' my outcry, would match my objections by pointing out an inherent reward for doing such work.
+# {{transitive}} {{cattag|computing}} to terminate a [[loop]] before the declared termination condition is met or a [[conditional]] before all conditions have been tested for
+#* '''2002:''' Paul Kimmel, ''Visual Basic.Net Unleashed''
+#*: For example, to '''short-circuit''' the '''''LoggedIn()''''' or '''''LogIn()''''' '''''if''''' conditional, replace the '''''Or''''' with '''''OrElse''''' and the statement is interpreted to mean ''if not logged in, then log in''.
+#* '''2002:''' Jose Mojico, ''C# and VB.NET Conversion Pocket Reference''
+#*: If you would like to '''short-circuit''', you must replace '''''And''''' with the '''''AndAlso''''' keyword and '''''Or''''' with the '''''OrElse''' keyword, as follows....
+#* '''2006:''' Jay Hillard &amp; Stephen Teilhet, ''C# Cookbook''
+#*: The '''''Demand''''' is done to ensure that you have indeed been granted this permission before using the '''''Assert''''' to '''short-circuit''' the stackwalk.
+
+====Alternative spellings====
+* [[short-circuit]]
+
+====Usage notes====
+* Senses 2 and 3 usually use the hyphenated spelling '''short-circuit'''.
