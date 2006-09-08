@@ -1,70 +1,12 @@
-<div <!--
-
-This css class "disambig-see-also2" is required for two-item lists. Any other solution also must work with all combinations of "serial comma" visibility and "serial and" visibility for single-item lists, two-item lists, and 3+-item lists:
-
-      |comma  |and       |comma+and
-1 item|1      |1         |1
-2 item|1, 2   |1 and 2   |1 and 2 
-3+item|1, 2, 3|1, 2 and 3|1, 2, and 3
-
--->class="disambig-see-also{{#if:{{{3|}}}||-2}}">''See also'' <!--
-
-// Show the first parameter
--->'''[[debut]]'''<!--
-
-// If there's a 2nd parameter
--->{{#if:{{{2|}}}|<!--
-
-  // Show ","/"[,] [and]" + 2nd parameter +...
-  -->{{#if:{{{3|}}}|,|<span class="serial-comma">,</span> ''<span class="serial-and"> and</span>''}}<!--
-  --> '''[[{{{2}}}]]'''<!--
-
-  // If there's a 3rd parameter
-  -->{{#if:{{{3|}}}|<!--
-
-    // Show ","/"[,] [and]" + 3rd parameter +...
-    -->{{#if:{{{4|}}}|,|<span class="serial-comma">,</span> ''<span class="serial-and"> and</span>''}}<!--
-    --> '''[[{{{3}}}]]'''<!--
-
-    // If there's a 4th parameter,
-    -->{{#if:{{{4|}}}|<!--
-
-      // Show ","/"[,] [and]" + 4th parameter +...
-      -->{{#if:{{{5|}}}|,|<span class="serial-comma">,</span> ''<span class="serial-and"> and</span>''}}<!--
-      --> '''[[{{{4}}}]]'''<!--
-
-      // etc.
-      -->{{#if:{{{5|}}}|<!--
-        -->{{#if:{{{6|}}}|,|<span class="serial-comma">,</span> ''<span class="serial-and"> and</span>''}}<!--
-        --> '''[[{{{5}}}]]'''<!--
-        -->{{#if:{{{6|}}}|<!--
-          -->{{#if:{{{7|}}}|,|<span class="serial-comma">,</span> ''<span class="serial-and"> and</span>''}}<!--
-          --> '''[[{{{6}}}]]'''<!--
-          -->{{#if:{{{7|}}}|<!--
-            -->{{#if:{{{8|}}}|,|<span class="serial-comma">,</span> ''<span class="serial-and"> and</span>''}}<!--
-            --> '''[[{{{7}}}]]'''<!--
-            -->{{#if:{{{8|}}}|<!--
-              -->{{#if:{{{9|}}}|,|<span class="serial-comma">,</span> ''<span class="serial-and"> and</span>''}}<!--
-              --> '''[[{{{8}}}]]'''<!--
-              -->{{#if:{{{9|}}}|<!--
-                --><span class="serial-comma">,</span> ''<span class="serial-and"> and</span>''<!--
-                --> '''[[{{{9}}}]]'''<!--
-              -->}}<!--
-            -->}}<!--
-          -->}}<!--
-        -->}}<!--
-      -->}}<!--
-    -->}}<!--
-  -->}}<!--
--->}}<!--
-
---></div>
+{{see|debut}}
 ==French==
 
 ===Pronunciation===
 {{IPA|/de.by/}}
+
 ===Noun===
-'''début''' ''m'', '''[[débuts]]''' ''pl''
+'''début''' {{m}}, '''[[débuts]]''' {{p}}
+
 # [[start]], [[beginning]]
 
 ====Derived terms====
@@ -74,6 +16,7 @@ This css class "disambig-see-also2" is required for two-item lists. Any other so
 *[[faire ses débuts]]
 
 [[Category:French nouns]]
+
 [[de:début]]
 [[et:début]]
 [[el:début]]
