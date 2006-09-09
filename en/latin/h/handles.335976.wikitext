@@ -1,52 +1,10 @@
-[[Category:English nouns]]<span class="infl-inline">'''{{{sg|{{PAGENAME}}}}}''' (<!--
+==English==
+===Noun===
+'''handles'''
 
-// If the parameter lacks wiki markup:
--->{{#if:{{isValidPageName|handle1}}|<!--
+# {{plural of|handle}}
 
-  // wikilink the plural(s) and countability tags
-  -->{{#ifeq:handle|-|<!--
-    -->''[[uncountable]]''|<!--
-    -->{{#ifeq:{{{3|{{{2}}}}}}|-<!--
-      -->|''[[countable]] and [[uncountable]];''<!--
-    -->}}<!--
-
-    --> ''plural'' <!--
-    -->{{#if:{{{pl|}}}<!--
-      -->|{{#if:{{isValidPageName|{{{pl}}}}}|'''[[{{{pl}}}]]'''|{{{pl}}}}}<!--
-      -->|'''[[<!--
-      -->{{#switch:handle<!--
-        -->|s|es={{PAGENAME}}handle<!--
-        -->|handle{{#ifeq:{{{2|-}}}|-||{{{2|}}}}}<!--
-      -->}}<!--
-      -->]]'''<!--
-    -->}}<!--
-    -->{{#if:{{{pl2|}}}<!--
-      -->|&nbsp;''or'' '''[[{{{pl2}}}]]'''<!--
-      -->{{#if:{{{pl3|}}}<!--
-        -->|&nbsp;''or'' '''[[{{{pl3}}}]]'''<!--
-      -->}}<!--
-    -->}}<!--
-  -->}}<!--
-
-  // Else the 1st parameter is the marked up plural
-  -->|handle<!--
--->}})</span><!--
-
-// Repeat above for display in table format.
-//
-// Anti-pattern: Extract and pull up method would
-// eliminate redundancy, but templating favou?rs short stacks.
---><div class="infl-table">
-{| border=0 width=100%
-|-
-|bgcolor="#F8F8FF" valign=top width=49.75%|
-Singular<br>
-'''{{{sg|{{PAGENAME}}}}}'''
-| width=0.5% |
-|bgcolor="#F8F8FF" valign=top width=49.75%|
-Plural<br>
-{{#if:{{isValidPageName|handle1}}|{{#ifeq:handle|-|''[[uncountable]]''|{{#ifeq:{{{3|{{{2}}}}}}|-|''[[countable]] and [[uncountable]];''}} {{#if:{{{pl|}}}|{{#if:{{isValidPageName|{{{pl}}}}}|'''[[{{{pl}}}]]'''|{{{pl}}}}}|'''[[{{#switch:handle|s|es={{PAGENAME}}handle|handle{{#ifeq:{{{2|-}}}|-||{{{2|}}}}}}}]]'''}}{{#if:{{{pl2|}}}|&nbsp;''or'' '''[[{{{pl2}}}]]'''{{#if:{{{pl3|}}}|&nbsp;''or'' '''[[{{{pl3}}}]]'''}}}}}}|handle}}
-|}</div>
+[[Category:English plurals]]
 
 ===Verb form===
 '''handles'''
