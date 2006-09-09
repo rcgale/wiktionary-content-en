@@ -22,9 +22,8 @@ The pronunciation of '''0''' (zero) as a [[digit]] is very often shortened to th
 <!--
 #:''The Boolean domain contains only '''0''' and 1.'' not petinent to numbering
 replace with:
--->
-#:''Binary numbers contain only '''0''' and 1.''
-#:''Hexadecimal numbers ending in '''0''' are divisible by 16.''
+#:''Hexadecimal numbers ending in '''0''' are divisible by 16.'' single example:-->
+#:''Binary numbers ending in '''0''' are even.''
 # The origin, starting point, or fixed reference point, especially for a measurement.
 #:''The '''0''' for the Celcius scale is 273.15 Kelvin.''
 # Nothing, nought.
@@ -32,11 +31,10 @@ replace with:
 #{{mathematics}} The [[identity element]] with respect to [[addition]].
 #: <math>\exists\,\mathbf{0}:\forall a\in A:\mathbf{0}+a=a+\mathbf{0}=a</math>
 #(''computer science'' or ''electrical engineering'') [[bit]] state corresponding to binary digit 0 or [[FALSE]]; in a [[logic gate]] in the ''low'' state or [[off]].
-#:''If the NOT gate input is ON, the output is '''0'''.'' <!--restored.
-for proposed restoration:
+#:''If the NOT gate input is 1, the output is '''0'''.''
 #{{mathematics}} A [[Boolean]] or truth value corresponding to FALSE.
-#:''The Boolean domain contains only '''0''' and 1.''
--->
+#:''If A&B&C='''0''' then  at least one of A, B, or C is '''0'''.''
+
 
 ====Synonyms====
 *number: [[cipher]], [[nil]], [[nought]], [[null]]
