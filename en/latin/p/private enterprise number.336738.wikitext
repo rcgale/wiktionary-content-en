@@ -1,3 +1,11 @@
-{{rfc|needs formatting, and an ACTUAL DEFINITION}}
-Internet Assigned Number Authority (http://www.iana.org/) is responsible for the assignement of Private Enterprise Numbers (PENs).  They are primarily used as object identifiers for LDAP and X.500 directories in locally-defined schema and in the Simple Network Management Protocol (SNMP) and related standards. 
-For LDAP and X.500, the usage is in the form of 1.3.6.1.4.1.X where the number assigned to the enterprise replaces X.
+==English==
+
+===Noun===
+{{en-noun}}
+
+# A unique number as assigned by [[IANA]] to identify unique objects that are defined by an enterprise, developed to give objects a common naming system via a more common language of numbers.
+Applied primarily to [[LDAP]] and [[X.500]] directories in locally-defined schema and in the Simple Network Management Protocol ([[SNMP]]) and related standards.
+
+===References===         
+* ''(http://www.iana.org/)''
+* ''(http://www.rfc-editor.org/rfc/rfc2578.txt)''
