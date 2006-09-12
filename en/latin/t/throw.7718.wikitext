@@ -16,6 +16,10 @@ Old English ''[[þrāwan]]''
 # (''ceramics'') To make a [[pot]] by pulling [[clay]] as it turns on a [[wheel]].
 #: ''to '''throw''' a pot''
 # {{Cricket}} Of a [[bowler]], to [[deliver]] the ball [[illegal]]ly by [[straighten]]ing the [[bowling]] arm during delivery.
+# {{computing}} To interrupt normal processing by sending an error to an [[exception-handling]] mechanism.
+#:''If the file is readonly, the method '''throws''' an invalid operation exception.''
+#:<code>''if(this.IsReadonly)''</code>
+#::<code>'''''throw''' new System.InvalidOperationException("Cannot write to readonly file.");''</code>
 
 ====Translations====
 {{top}}
@@ -50,8 +54,8 @@ Old English ''[[þrāwan]]''
 # The [[flight]] of a thrown object; as, a fast throw.
 # A [[distance]] [[travel]]led; [[displace]]ment; as, the throw of the piston.
 # A piece of [[fabric]] used to cover a bed, sofa or other soft furnishing.
-# A single instance, occurance, venture, or chance
-#:''Football tickets are expensive at fifty bucks a '''throw'''''
+# A single instance, occurance, venture, or chance.
+#:''Football tickets are expensive at fifty bucks a '''throw'''.''
 
 ====Translations====
 {{rfc-trans}}
