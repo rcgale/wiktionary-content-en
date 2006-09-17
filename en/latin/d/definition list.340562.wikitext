@@ -1,0 +1,31 @@
+'''[[Definition]] [[list]]'''
+# an [[HTML]] [[structure]] consisting of a number of [[tag]]s intended to present a set of pairs of [[term]]s and their definitions as a list. Usage: 
+
+{| border = 1
+|-
+! Markup !! Display
+|-
+| <pre>
+<DL>
+<DT>Some term
+<DD>Some definition
+<DT>Another term
+<DD>Another definition
+</DL></pre>
+|
+<DL>
+<DT>Some term
+<DD>Some definition
+<DT>Another term
+<DD>Another definition
+</DL>
+|}
+
+== See also ==
+
+* [[Ordered list]]
+* [[Unordered list]]
+
+== External links ==
+
+[http://www.w3.org/TR/WD-html40-970708/struct/lists.html W3C on lists]
