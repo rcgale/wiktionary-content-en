@@ -1,1 +1,3 @@
-kkkkkkkkkkgggggggggg
+In computing, a buffer is a region of memory used to temporarily hold output or input data, comparable to buffers in telecommunication. The data can be output to or input from devices outside the computer or processes within a computer. Buffers can be implemented in either hardware or software, but the vast majority of buffers are implemented in software. Buffers are used when there is a difference between the rate at which data is received and the rate at which it can be processed, or in the case that these rates are variable, for example in a printer spooler.
+
+Since computers operate in binary, at the lowest level, a single byte in memory could be considered a buffer for (usually) 8 bits, and even a Processor register can be considered a buffer for 16 or 32 bits. In practise however, a buffer is thought of as being a contiguous area of memory of a certain length, but normally greater than one.
