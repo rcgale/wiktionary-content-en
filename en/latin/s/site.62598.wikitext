@@ -1,4 +1,5 @@
 ==English==
+
 ===Pronunciation===
 *sīt, /<tt>saIt</tt>/
 * {{IPA|/saɪt/}}
@@ -21,7 +22,71 @@
 ===See also===
 *[[website]]
 
+===Verb===
+<span class="infl-inline">'''{{{inf|to {{PAGENAME}}}}}''' (<!--
+
+-->''third-person singular simple present'' <!--
+-->{{#if:{{isValidPageName|{{{1|valid}}}}}|'''[[<!--
+  -->{{en-verb/getPres3rdSg|{{{1|}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}}}<!--
+-->]]'''|{{{1|-}}}}}<!--
+
+-->, ''present participle'' <!--
+-->{{#if:{{isValidPageName|{{{2|valid}}}}}|'''[[<!--
+  -->{{en-verb/getPresP|{{{1|}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}}}<!--
+-->]]'''|{{{2|-}}}}}<!--
+
+-->, ''simple past'' <!--
+-->{{#if:{{isValidPageName|{{{3|valid}}}}}|'''[[<!--
+  -->{{en-verb/getPast|{{{1|}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}}}<!--
+-->]]'''|{{{3|-}}}}}<!--
+
+-->, ''past participle'' <!--
+-->{{#if:{{isValidPageName|{{{4|{{{3|valid}}}}}}}}|'''[[<!--
+  -->{{en-verb/getPastP|{{{1|}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}}}<!--
+-->]]'''|{{{4|{{{3|-}}}}}}}}<!--
+
+-->)</span><!--
+
+// Repeat above for display in table format.
+//
+// Anti-pattern: Extract and pull up method would
+// eliminate redundancy, but templating favou?rs short stacks.
+--><div class="infl-table"> 
+{| border=0 width=100%
+|-
+|bgcolor="#F8F8FF" valign=top width=19%|
+Infinitive<br>
+'''{{{inf|to {{PAGENAME}}}}}'''
+| width=0.5% |
+|bgcolor="#F8F8FF" valign=top width=21%|
+Third person singular<br>
+{{#if:{{isValidPageName|{{{1|valid}}}}}|'''[[<!--
+  -->{{en-verb/getPres3rdSg|{{{1|}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}}}<!--
+-->]]'''|{{{1|-}}}}}
+| width=0.5% |
+|bgcolor="#F8F8FF" valign=top width=19%|
+Simple past<br>
+{{#if:{{isValidPageName|{{{3|valid}}}}}|'''[[<!--
+  -->{{en-verb/getPast|{{{1|}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}}}<!--
+-->]]'''|{{{3|-}}}}}
+| width=0.5% |
+|bgcolor="#F8F8FF" valign=top width=19%|
+Past participle<br>
+{{#if:{{isValidPageName|{{{4|valid}}}}}|'''[[<!--
+  -->{{en-verb/getPastP|{{{1|}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}}}<!--
+-->]]'''|{{{4|-}}}}}
+| width=0.5% |
+|bgcolor="#F8F8FF" valign=top width=19%|
+Present participle<br>
+{{#if:{{isValidPageName|{{{2|valid}}}}}|'''[[<!--
+  -->{{en-verb/getPresP|{{{1|}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}}}<!--
+-->]]'''|{{{2|-}}}}}
+|}</div>
+[[Category:English verbs]]
+#{{rfv-sense}}{{Architecture}} To [[situate]] or [[place]] a building.
+
 ----
+
 ==Neapolitan==
 ===Verb form===
 '''site'''
