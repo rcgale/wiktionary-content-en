@@ -1,3 +1,15 @@
+<!-- Please do not remove or change this AfD message until the issue is settled -->{{#ifeq:{{FULLPAGENAME}}|Special:Undelete| |{{#if:{{{nosubst|}}}|<div style="display:none;">}} {{#ifeq:{{NAMESPACE}}||{{#switch:{{NAMESPACE}}|= |#default={{error:wrong namespace}}<div style="display:none;">}}|{{error:not substituted|AFD}}<div style="display:none;">}}}} {{#if:{{{nosubst|}}}|</div></div>}}
+<div class="boilerplate metadata" id="afd" style="margin: 0 5%; padding: 0 7px 7px 7px; background: #EDF1F1; border: 1px solid #999999; text-align: left; font-size:95%;">
+'''This article is being considered for deletion in accordance with Wikipedia's [[Wikipedia:Deletion policy|deletion policy]][[Template:Afd|.]]'''<br />
+Please share your thoughts on the matter at '''[[Wikipedia:Articles for deletion/{{{1|Informationism}}}|this article's entry]]''' on the Articles for deletion page.<br />
+Feel free to edit the article, but the article must not be blanked, and this notice must not be removed, until the discussion is closed. For more information, particularly on merging or moving the article during the discussion, read the [[Wikipedia:Guide to deletion|guide to deletion]].<br/>
+----
+<small>''[[Template:AfD footer|Steps to list an article for deletion]]: &#123;&#123;subst:afd&#125;&#125; &bull; [http://en.wikipedia.org/w/index.php?action=edit&preload=Template:Afd2+starter&editintro=Template:Afd3+starter&title=Wikipedia:Articles+for+deletion/{{PAGENAMEE}} Preloaded debate] ''OR'' &#123;&#123;subst:afd2|pg={{PAGENAME}}|cat=|text=&#125;&#125; &bull; &#123;&#123;subst:afd3|pg={{PAGENAME}}&#125;&#125; [{{SERVER}}{{localurl:Wikipedia:Articles for deletion/Log/{{CURRENTYEAR}}_{{CURRENTMONTHNAMEGEN}}_{{CURRENTDAY}}|action=edit}} log]
+</small></div>
+{{{category|[[Category:Articles for deletion]]}}}
+<!-- If this message links to an already-closed AfD discussion, please remove it and use Template:Afdx instead -->
+<!-- End of AfD message, feel free to edit beyond this point --> 
+
 Informationism, and it's fellow word of 'an informationist' for one who practices informationism, is first known to have arisen in the work of a group of Scottish poets in the 1994 book ''Contraflow on the SuperHighway'' [http://www.btinternet.com/~carpenter/p9hinfor.htm] since then use of the term has become progressively greater.  
 
 Now the subject of academic study "Informationism is identified as a significant emerging ideology." [http://www.efn.org/~heroux/abstract.html]
