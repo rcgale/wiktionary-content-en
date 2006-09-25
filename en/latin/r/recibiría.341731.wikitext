@@ -4,7 +4,7 @@
 
 '''recibiría'''
 
-# {{esbot:conjline|person=first|count=singular|verb=recibir|tense=conditional}}
-# {{esbot:conjline|person=third|count=singular|verb=recibir|tense=conditional}}
+# The [[first-person]] [[singular]] of [[recibir]] in the [[conditional]]{{#if:{{{mood|}}}| &nbsp;[[{{{mood}}}]]}}.{{esbot:catline|person=first|count=singular|verb=recibir|tense=conditional|mood={{{mood}}}|ending={{{ending}}}}}
+# The [[third-person]] [[singular]] of [[recibir]] in the [[conditional]]{{#if:{{{mood|}}}| &nbsp;[[{{{mood}}}]]}}.{{esbot:catline|person=third|count=singular|verb=recibir|tense=conditional|mood={{{mood}}}|ending={{{ending}}}}}
 
 {{esbot:conjugation}}
