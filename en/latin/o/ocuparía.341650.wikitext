@@ -4,7 +4,7 @@
 
 '''ocuparía'''
 
-# {{esbot:conjline|person=first|count=singular|verb=ocupar|tense=conditional}}
-# {{esbot:conjline|person=third|count=singular|verb=ocupar|tense=conditional}}
+# The [[first-person]] [[singular]] of [[ocupar]] in the [[conditional]]{{#if:{{{mood|}}}| &nbsp;[[{{{mood}}}]]}}.{{esbot:catline|person=first|count=singular|verb=ocupar|tense=conditional|mood={{{mood}}}|ending={{{ending}}}}}
+# The [[third-person]] [[singular]] of [[ocupar]] in the [[conditional]]{{#if:{{{mood|}}}| &nbsp;[[{{{mood}}}]]}}.{{esbot:catline|person=third|count=singular|verb=ocupar|tense=conditional|mood={{{mood}}}|ending={{{ending}}}}}
 
 {{esbot:conjugation}}
