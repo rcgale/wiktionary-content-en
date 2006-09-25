@@ -4,7 +4,7 @@
 
 '''dependan'''
 
-# {{esbot:conjline|person=third|count=plural|verb=depender|tense=present|mood=subjunctive}}
-#  {{esbot:conjline|person=third|count=plural|verb=depender|tense=imperative}}
+# The [[third-person]] [[plural]] of [[depender]] in the [[present]]{{#if:subjunctive| &nbsp;[[subjunctive]]}}.{{esbot:catline|person=third|count=plural|verb=depender|tense=present|mood=subjunctive|ending={{{ending}}}}}
+#  The [[third-person]] [[plural]] of [[depender]] in the [[imperative]]{{#if:{{{mood|}}}| &nbsp;[[{{{mood}}}]]}}.{{esbot:catline|person=third|count=plural|verb=depender|tense=imperative|mood={{{mood}}}|ending={{{ending}}}}}
 
 {{esbot:conjugation}}
