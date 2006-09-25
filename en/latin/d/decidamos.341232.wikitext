@@ -4,7 +4,7 @@
 
 '''decidamos'''
 
-# {{esbot:conjline|person=first|count=plural|verb=decidir|tense=present|mood=subjunctive}}
-#  {{esbot:conjline|person=first|count=plural|verb=decidir|tense=imperative}}
+# The [[first-person]] [[plural]] of [[decidir]] in the [[present]]{{#if:subjunctive| &nbsp;[[subjunctive]]}}.{{esbot:catline|person=first|count=plural|verb=decidir|tense=present|mood=subjunctive|ending={{{ending}}}}}
+#  The [[first-person]] [[plural]] of [[decidir]] in the [[imperative]]{{#if:{{{mood|}}}| &nbsp;[[{{{mood}}}]]}}.{{esbot:catline|person=first|count=plural|verb=decidir|tense=imperative|mood={{{mood}}}|ending={{{ending}}}}}
 
 {{esbot:conjugation}}
