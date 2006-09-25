@@ -4,7 +4,7 @@
 
 '''depende'''
 
-# {{esbot:conjline|person=third|count=singular|verb=depender|tense=present|mood=indicative}}
-#  {{esbot:conjline|person=second|count=singular|verb=depender|tense=imperative}}
+# The [[third-person]] [[singular]] of [[depender]] in the [[present]]{{#if:indicative| &nbsp;[[indicative]]}}.{{esbot:catline|person=third|count=singular|verb=depender|tense=present|mood=indicative|ending={{{ending}}}}}
+#  The [[second-person]] [[singular]] of [[depender]] in the [[imperative]]{{#if:{{{mood|}}}| &nbsp;[[{{{mood}}}]]}}.{{esbot:catline|person=second|count=singular|verb=depender|tense=imperative|mood={{{mood}}}|ending={{{ending}}}}}
 
 {{esbot:conjugation}}
