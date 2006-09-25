@@ -4,7 +4,7 @@
 
 '''ocupamos'''
 
-# {{esbot:conjline|person=first|count=plural|verb=ocupar|tense=present|mood=indicative}}
-# {{esbot:conjline|person=first|count=plural|verb=ocupar|tense=preterit|mood=indicative}}
+# The [[first-person]] [[plural]] of [[ocupar]] in the [[present]]{{#if:indicative| &nbsp;[[indicative]]}}.{{esbot:catline|person=first|count=plural|verb=ocupar|tense=present|mood=indicative|ending={{{ending}}}}}
+# The [[first-person]] [[plural]] of [[ocupar]] in the [[preterit]]{{#if:indicative| &nbsp;[[indicative]]}}.{{esbot:catline|person=first|count=plural|verb=ocupar|tense=preterit|mood=indicative|ending={{{ending}}}}}
 
 {{esbot:conjugation}}
