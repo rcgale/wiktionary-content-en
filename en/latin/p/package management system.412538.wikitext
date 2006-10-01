@@ -6,7 +6,13 @@ From [[package]] + [[management]] + [[system]]
 ===Noun===
 {{en-noun}}
 
-#{{italbrac|computing}} The tool used by an [[operating system]] ([[OS]]) to [[administrate]] [[addition]], [[removal]] and [[upgrade]] of [[software]] [[application]]s.  Examples of '''package management systems''' on different OSs are: Linux: RPM; Solaris: pkgadd; HP-UX: SD-UX; Debian: apt-get; Win32: Visual Installer
+#{{italbrac|computing}} The tool used by an [[operating system]] ([[OS]]) to [[administrate]] [[addition]], [[removal]] and [[upgrade]] of [[software]] [[application]]s.  Examples of '''package management systems''' on different OSs are: Linux: RPM; Solaris: pkgadd; HP-UX: SD-UX; Debian: apt-get; Win32: Visual Installer.
+#*'''1999:''' Bernice Sacks Lipkin, ''Latex for Linux''
+#*:In Red Hat, use the glint '''package management system''' and the Applications subdirectory to locate the font files.
+#*'''2000:''' Roderick W Smith, ''The Multi-Boot Configuration Handbook''
+#*:It is, however, weak on configuration amenities for newcomers, and it uses no '''package management system''' comparable to RPM or Debian's package manager, so it is more difficult to maintain.
+#*'''2006:''' Bill Von Hagen, Brian K Jones, ''Linux Server Hacks: Tips & Tools for Connecting, Monitoring, and Troubleshooting''
+#*:If your system uses a '''package management system''', you can query that system's database to see if the ''attr'' package and its associated library, ''libattr'', are installed.
 
 ===Synonyms===
 
