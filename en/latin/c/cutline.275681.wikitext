@@ -1,4 +1,3 @@
-{{dicdef}}
 Cut-line - in SoftwareTesting.  Test cases must be defined for each risk with the highest priority risks being assigned the most comprehensive tests and priority scheduling.  The objective of each test case would be to mitigate at least one of these risks.  
 
 In many projects, the time needed to execute the originally planned and specified tests is '''''not available'''''.  In this case, a '''''sensible choice''''' of test cases should be made during the testing phase.  Despite the restricted number of tests carried out, it should be ensured that as many important failures as possible are found.  In order to achieve this, prioritization of test cases within the test plan is necessary.  With time permitted, everything under the "cutline" will be executed '''''only''''' if time permits.
