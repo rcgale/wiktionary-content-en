@@ -1,20 +1,73 @@
 ==English==
+
+===Etymology===
+Old English [[bache]], [[bacche]], from Anglo Saxon [[bacan]] ''to bake''; see also German geb["a]ck and Dutch [[baksel]].
+
 ===Pronunciation===
 *băch, /bætʃ/, /<tt>b{tS</tt>/
 *:[[Rhymes:English:-ætʃ|Rhymes: -ætʃ]]
 
-=== Noun ===
+===Adjective===
+{{en-adj|-}}
+
+# Of a process, operating for a defined set of conditions, and then halting.
+#:''The plant had two '''batch''' assembly lines for packaging, as well as a continuous feed production line.
+
+====Antonyms====
+* [[continuous]]
+
+===Noun===
 {{en-noun|es}}
-<nowiki>\Batch\,</nowiki> n. [OE. bache, bacche, fr. AS. bacan to bake; cf.
-G. geb["a]ck and D. baksel. See {Bake}, v. t.]
-#The quantity of bread baked at one time.
-#A quantity of anything produced at one operation ([[antonym]]: [[continuous]]); a group or collection of persons or things of the same kind; as, a batch of letters; the next batch of business. ''A new batch of Lords.'' --Lady M. W. Montagu.
-# {{vulgar}} We had a pretty batch of it last night; we had a hearty dose of liquor.
+
+# The quantity of [[bread]] or other baked goods [[bake]]d at one time.
+#:''We made a '''batch''' of cookies to take to the party.''
+# A quantity of anything produced at [[one]] operation. 
+#:''We poured a bucket of water in top, and the ice maker spit out a '''batch''' of icecubes at the bottom.''
+# A [[group]] or [[collection]] of things of the [[same]] kind, such as a batch of letters or the next batch of business. 
+#* ''A new '''batch''' of Lords.'' --Lady M. W. Montagu.
+# {{computing}} A set of [[data]] to be processed with one [[execute|execution]] of a program.
+#:''The system throttled itself to '''batches''' of 50 requests at a time to keep the thread count under control.''
+
+====Synonyms====
+*(''quantity of baked goods made at one time''): [[recipe]]
+*(''quantity of anything produced in one operation''): [[pressing]], [[run]], [[lot]]
+*(''group or collection of things of the same kind''): [[group]], [[lot]]
 
 ====Translations====
-*'''Dutch''': [[lot]] ''n''
-*'''French''': [[lot]] ''m''
-*'''Spanish''': [[lote]] ''m''
+;quantity of baked goods made at one time
+{{top}}
+{{mid}}
+{{bottom}}
+
+;quantity of anything produced in one operation
+{{top}}
+{{mid}}
+{{bottom}}
+
+;group or collection of things of the same kind
+{{top}}
+{{mid}}
+{{bottom}}
+
+{{checktrans}}
+*{{ttbc|Dutch}}: [[lot]] {{n}}
+*{{ttbc|French}}: [[lot]] {{m}}
+*{{ttbc|Spanish}}: [[lote]] {{m}}
+
+===Verb===
+{{en-infl-reg-sibilant|bat|ch|}}
+
+# To [[aggregate]] things together into a batch.
+#:''The contractor '''batched''' the purchase orders for the entire month into one statement.''
+# {{computing}} To [[batch process]] a set of input data or requests.
+#:''The purchase requests for the day were stored in a queue and '''batched''' for printing the next morning.''
+
+===References===
+{{R:Webster 1913}}
+
+===Derived terms===
+*[[batch mode]]
+*[[batch process]]
 
 [[ar:batch]]
 [[gl:batch]]
