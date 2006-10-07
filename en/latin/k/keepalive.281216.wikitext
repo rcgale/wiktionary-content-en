@@ -1,4 +1,4 @@
-{{move to Wiktionary}}
+<!--Wikipedia Template {{move to Wiktionary}} -->
 '''Keepalive''' is a message sent by one device to another to check that the link between the two is operating. A keepalive signal is often sent at predefined intervals, and plays an important role on the internet - if no reply is received, the link is assumed to be down and future data (until the link is up again) will be routed via another path. Since the only purpose is to find links that don't work, keepalive messages tend to be short and not take much bandwidth.
 
 [[de:Keepalive]]
