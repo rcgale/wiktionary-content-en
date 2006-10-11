@@ -4,7 +4,8 @@
 ===Pronunciation===
 {{IPA|/'saɪ.dr/ ''or'' /'si.dr/}}
 
-===Acronym===
-{{en-noun}}
+==={{acronym}}===
+'''CIDR'''
 
-# [[classless|Classless]] [[inter-|Inter]]-[[domain|Domain]] [[routing|Routing]]
+# [[w:Classless Inter-Domain Routing|Classless Inter-Domain Routing]]; normally an IP address notation such as 192.168.1.0/24 indicating a block of addresses.  The number after the slash indicates how many bytes are in the mask; bytes to the ''right'' are not masked.
+#:''For a clearer exmple, 192.168.1.35 and 192.168.1.252 are both valid addresses in the '''CIDR''' block 192.168.1.0/24, but 10.11.1.1 is not.''
