@@ -3,18 +3,14 @@
 === Noun ===
 '''natural numbers'''
 
-# {{mathematics}} The [[counting number]]s; the [[set]] of [[positive]] [[integer]]s: the set {1, 2, 3, ...}, often denoted as '''N'''.
-# {{mathematics}} The [[set]] of [[non-negative]] integers, ''ie'', the set {0, 1, 2, 3, ...}; more precisely, the set, denoted '''N''', being the smallest such that:
-#:<math>0 \in N</math>, and
-#:<math>n \in N \implies succ(n) \in N</math>;
+# {{set theory}} The [[set]] of [[positive]] [[integer]]s, {1, 2, 3, ...}, denoted as [[ℕ]].
+# (''number theory, computer science'') The [[set]] of [[non-negative]] integers, ℕ = {0, 1, 2, 3, ...}, being the smallest such that:
+#: 0[[∈]]ℕ, and
+#: ''[[n]]''∈ℕ[[⇒]] ''[[succ]]''(''n'')∈ℕ.
 
-====Usage notes====
-'''Please note:''' This term is ambiguous so that careful authors will define it. Common guidelines are:
-* ''positive integers'' are used in [[number theory]] 
-* ''non-negative integers'' are used in [[set theory]] and [[computer science]].
 ====Synonyms====
-(''positive integer''): [[counting number]]s, [[whole number]]s.
-(''non-negative integer''): [[whole number]]s.
+* [[counting number]]s (positive integer)
+* [[whole number]]s (positive and non-negative integer)
 
 ====Translation====
 {{top}}
@@ -33,3 +29,5 @@
 * [[set]]
 * [[natural number]]
 * [[inductive definition]]
+
+[[Category:Number theory]]
