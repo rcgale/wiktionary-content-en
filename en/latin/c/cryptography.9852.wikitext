@@ -11,9 +11,8 @@ Introduced into English language by Sir [[Thomas Browne]]
 ===Pronunciation===
 
 ===Noun===
-# The practice of hiding the [[meaning]] of messages, usually by [[encode|encoding]] them so that only intended recipients should be able to [[decode]] them.
-
-Remark: Related to [[steganography]] which deals with hiding the message ''itself''.
+# The discipline concerned with communication security (eg, confidentiality of messages, integrity of messages, sender authentication, non-repudiation of messages, and many other related issues); all in the presence of active attackers. Cryptography is not limited to pencil and paper, nor the use of computers, but to the general field and possible solutions to such issues. Subfields include [[encode|encodeing]], [[decode|decoding]], [[cryptanalysis]], [[code]]s, [[cipher]]s, etc.
+Remark: In many languages, though less so in English, 'cryptology' is also used with the meaning given above. Cryptography is very closely connected with [[information theory]] as the only adequate theory for it is based on work done in that field, beginning around WWII at Bell Laboratories. Cryptography is slso somewhat related to [[steganography]] which is concerned with concealing the very existence of a message. Contrast this with cryptography's indifference, from a confidentiality viewpoint, to whether a message is copied by some attacker.
 
 ===Translations===
 *[[Bulgarian]]: [[криптография]] ''f''
