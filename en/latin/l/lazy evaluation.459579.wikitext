@@ -1,1 +1,7 @@
-A construct in some functional programming languages, for example SML.  It is used as a means to delay computation, especially in languages which evaluate expressions greedily.  This construct allows us to construct so called infinite lists, or lazy lists, and also to specify some continuations.
+==English==
+
+===Noun===
+{{wikipedia}}
+{{en-noun|sg=[[lazy]] [[evaluation]]}}
+
+#{{computing}} Any of a variety of [[computing]] [[technique]]s that [[delay]]s the [[computation]] of [[expression]]s until (and if) the [[result]]s are needed
