@@ -1,0 +1,1 @@
+A construct in some functional programming languages, for example SML.  It is used as a means to delay computation, especially in languages which evaluate expressions greedily.  This construct allows us to construct so called infinite lists, or lazy lists, and also to specify some continuations.
