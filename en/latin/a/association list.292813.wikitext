@@ -5,4 +5,5 @@
 
 # {{complang}} A [[data structure]] that associates keys with data; implimented as a [[list]] who's members are paired storage locations ([[cons cell|cons cells]]), one element of which (the [[car]]) contains the [[key]] and the other element of which (the [[cdr]]) contains the keyed data.
 
+[[ru:association list]]
 [[vi:association list]]
