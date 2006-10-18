@@ -25,41 +25,78 @@ Origin unknown.
 * (''Computer Science'', CLI notation) [[switch]]
 
 =====Translations=====
-{{rfc-trans}}
+;Piece of cloth
 {{top}}
-*Albanian: [[flamur]] {{m}}
-*Bosnian: [[zastava#Bosnian|zastava]] {{f}}
-*Catalan: [[bandera]] {{f}}
-*Chinese: [[旗]] (qí)
-*Croatian: [[zastava#Croatian|zastava]] {{f}}
-*Czech: [[vlajka]] {{f}}
-*Danish: flag {{n}}
-*Dutch: [[vlag]] {{f}}, [[vaandel]] {{n}}
-*Finnish: [[lippu]] (1, 2) ([[:fi:lippu|Suomi]])
-*French: [[drapeau]] {{m}}
-*German: [[Flagge]] {{f}} (1), [[Bitschalter]] {{m}} (2), [[Fliese]] {{f}} (4)
-*Hungarian [[zászló]] (1), [[jelzőbit]] (2), [[járdalap]] (4)
-*Indonesian: [[bendera]]
-*Italian: [[bandiera]] {{f}}
-*Japanese: [[旗]] ([[はた]], hata)
-*[[Kurdish]]: [[ala]] {{f}}
+*Danish: flag {{n}}, [[fane]]
+*Finnish: [[lippu]] ([[:fi:lippu|Suomi]])
+*German: [[Flagge]] {{f}}
+*Hungarian: [[zászló]]
 {{mid}}
-*[[Lao]]: [[ທຸງ]]
-*Nauruan: [[aniden]]
-*Norwegian: [[flagg]]
-*Portuguese: [[bandeira]] {{f}} (1), [[marcador]] {{m}} (2)
-*Romanian: [[drapel]] {{n}}, [[steag]] {{n}}, [[stindard]] {{n}}
-*Russian: [[вымпел]] (výmpel) {{m}} (1,2), [[знамя]] (znám'a) {{n}} (1), [[флаг]] (flag) {{m}} (1,2,3,4,5)
-*Serbian:
+*Portuguese: [[bandeira]] {{f}}
+*Russian: [[вымпел]] (výmpel) {{m}}, [[знамя]] (znám'a) {{n}}, [[флаг]] (flag) {{m}}
+*Slovene: [[zastava]] {{f}}
+*Swedish: [[flagga]], [[fana]]
+*[[Tok Pisin]]: [[plag]]
+{{bottom}}
+
+;Nautical flag
+{{top}}
+*Danish: flag {{n}}, [[flagskib]]
+*Finnish: [[lippu]] ([[:fi:lippu|Suomi]])
+*German: [[Bitschalter]] {{m}} 
+*Hungarian: [[jelzőbit]]
+{{mid}}
+*Portuguese: [[marcador]] {{m}} 
+*Russian: [[вымпел]] (výmpel) {{m}}, [[флаг]] (flag) {{m}} 
+*Swedish: [[flagga]] 
+{{bottom}}
+
+;The use of a flag
+{{top}}
+*Danish: [[flaggivning]] 
+{{mid}}
+*Russian: [[флаг]] (flag) {{m}}
+{{bottom}}
+
+;A true-or-false variable
+{{top}}
+*Danish: flag {{n}}
+*German: [[Fliese]] {{f}}
+*Hungarian: [[járdalap]]
+{{mid}}
+*Russian: [[флаг]] (flag) {{m}}
+{{bottom}}
+
+;Notation for optional behaviour
+{{top}}
+{{mid}}
+*Russian: [[флаг]] (flag) {{m}}
+{{bottom}}
+
+=====Translations to be checked=====
+{{checktrans}}
+*{{ttbc|Albanian}}: [[flamur]] {{m}}
+*{{ttbc|Bosnian}}: [[zastava#Bosnian|zastava]] {{f}}
+*{{ttbc|Catalan}}: [[bandera]] {{f}}
+*{{ttbc|Chinese}}: [[旗]] (qí)
+*{{ttbc|Croatian}}: [[zastava#Croatian|zastava]] {{f}}
+*{{ttbc|Czech}}: [[vlajka]] {{f}}
+*{{ttbc|Dutch}}: [[vlag]] {{f}}, [[vaandel]] {{n}}
+*{{ttbc|French}}: [[drapeau]] {{m}}
+*{{ttbc|Indonesian}}: [[bendera]]
+*{{ttbc|Italian}}: [[bandiera]] {{f}}
+*{{ttbc|Japanese}}: [[旗]] ([[はた]], hata)
+*{{ttbc|Kurdish}}: [[ala]] {{f}}
+*{{ttbc|Lao}}: [[ທຸງ]]
+*{{ttbc|Nauruan}}: [[aniden]]
+*{{ttbc|Norwegian}}: [[flagg]]
+*{{ttbc|Romanian}}: [[drapel]] {{n}}, [[steag]] {{n}}, [[stindard]] {{n}}
+*{{ttbc|Serbian}}:
 *:Cyrillic: [[застава#Serbian|застава]] {{f}}
 *:Roman: [[zastava#Serbian|zastava]] {{f}}
-*Slovak: [[vlajka]] {{m}}
-*Slovene: [[zastava]] {{f}} (1)
-*Spanish: [[bandera]] {{f}}
-*Swedish: [[flagga]] (1,2), [[fana]] (1)
-*[[Telugu]]: [[పతాకం]] (pataakam), [[జెండా]] (jenDaa)
-*[[Tok Pisin]]: [[plag]] (1)
-{{bottom}}
+*{{ttbc|Slovak}}: [[vlajka]] {{m}}
+*{{ttbc|Spanish}}: [[bandera]] {{f}}
+*{{ttbc|Telugu}}: [[పతాకం]] (pataakam), [[జెండా]] (jenDaa)
 
 ====Adjective====
 {{en-adj-notcomp}}
@@ -80,20 +117,44 @@ Origin unknown.
 # {{cattag|Computing}}: To set a program variable to ''true''.
 #: ''Flag the debug option before running the program.''
 
-====Translations====
-{{rfc-trans}}
-*Danish: [[signalere]] (1); [[tilkalde]] (2)
-*Hungarian: [[jelez]] (1), [[leint]] (2)
-*Swedish: [[signalera]] (1), [[flagga för]] (1)
+=====Translations=====
+;Mark with a flag
+{{top}}
+*Danish: [[signalere]]
+*Hungarian: [[jelez]]
+{{mid}}
+*Swedish: [[signalera]], [[flagga för]]
+{{bottom}}
 
-'''weaken'''
-{{rfc-trans}}
+;Signal to 
+{{top}}
+*Danish: [[standse]], [[vinke ad]]
+*Hungarian: [[leint]]
+{{mid}}
+{{bottom}}
+
+;Weaken
+{{top}}
 *Danish: [[svækkes]]
 *Dutch: [[verzwakken]]
 *French: [[affaiblir]]
+{{mid}}
 *German: [[erlahmen]]
 *Hungarian: [[lankad]]
 *Portuguese: [[enfraquecer]]
+{{bottom}}
+
+;Signal (computing)
+{{top}}
+*Danish: [[flage]]
+{{mid}}
+{{bottom}}
+
+;Set at programming variable to true
+{{top}}
+{{mid}}
+{{bottom}}
+
 
 ===See also===
 *[[banner]]
@@ -111,6 +172,12 @@ Of uncertain origin; compare Dutch [[flag#Dutch|flag]], Danish [[flæg]].
 
 # Any of various plants with sword-shaped leaves, especially [[iris]]es; specifically, ''Iris pseudacorus.''
 
+=====Translations=====
+{{top}}
+*Danish: [[sværdlilje]]
+{{mid}}
+{{bottom}}
+
 ====Derived terms====
 *[[sweet flag]]
 
@@ -123,13 +190,33 @@ Probably of Scandinavian origin; compare Icelandic [[flag#Icelandic|flag]].
 # ''(obsolete except in dialects)'' A slice of [[turf]], a [[sod]].
 # A slab of stone, a [[flagstone]].
 
+=====Translations=====
+;Flagstone
+{{top}}
+*Danish: [[flise]]
+{{mid}}
+{{bottom}}
+
 ====Verb====
 {{en-verb|flag|g|ed}}
 
 # To lay down flagstones.
 #: ''Fred is planning to '''flag''' his patio this weekend.''
 
+=====Translations=====
+{{top}}
+*Danish: [[belægge]] med [[flise]]r
+{{mid}}
+{{bottom}}
+
 [[Category:1000 English basic words]]
+
+---------------------
+==Danish==
+===Noun===
+'''flag'''
+#[[flag#English|flag]] (cloth)
+[[Category:Danish nouns]]
 
 [[fr:flag]]
 [[hy:flag]]
