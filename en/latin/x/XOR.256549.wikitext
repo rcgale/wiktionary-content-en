@@ -1,30 +1,33 @@
 {{see|xor}}
-== English ==
+==English==
+
 {{wikipedia}}
-=== Conjunction ===
+===Conjunction===
 '''XOR'''
-#(''computing, logic'') [[exclusive or]]
-[[Category:Computing|xor]]
-[[Category:Logic|xor]]
+
+# {{cattag|computing|logic}} [[exclusive or]]; the return of a truth value (i.e. 1) if either input is true, but not [[both]].
+#:''The '''XOR''' of (0,0) is 0; (0,1) is 1; (1,0) is 1; and (1,1) is 0."
 
 ===Noun===
 '''XOR'''
-#(''logic'') The [[connective]] "exclusive or".
-#(''electrical engineering'') A [[logic gate]] that implements exclusive or.
-#: XOR ''can be used to add bits without [[carry]]ing.''
+
+# {{logic}} The [[connective]] "exclusive or".
+# {{electrical engineering}} A [[logic gate]] that implements "exclusive or".
+# {{programming}} The symbolic representation that implements "exclusive or".
+#:'''''XOR''' can be used to add bits without [[carry]]ing.''
 
 ====Translations====
 '''logic: connective'''
 {{top}}
 *French: [[ou exclusif]]
 {{mid}}
-*{{cmn}}: {{zh-ts|異或|异或}} (yìhuò)
+*Mandarin: {{zh-ts|異或|异或}} (yìhuò)
 {{bottom}}
 
 '''electrical engineering: logic gate'''
 {{top}}
 {{mid}}
-*{{cmn}}: {{zh-ts|異或門|异或门}} (yìhuòmén)
+*Mandarin: {{zh-ts|異或門|异或门}} (yìhuòmén)
 {{bottom}}
 
 =====Translations to be checked=====
