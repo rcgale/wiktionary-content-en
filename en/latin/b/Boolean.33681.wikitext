@@ -1,6 +1,9 @@
+{{See|boolean}}
 ==English==
+
 {{wikipedia}}
 ===Pronunciation===
+{{rfap|US|UK}}
 *(''UK''): {{IPA|/ˈbuːliən/  ''or'' /buːˈliən/}} , {{SAMPA|/"bu:li@n/ ''or'' /bu:"li@n/}}
 *(''US''): {{AHD|bo͞oʹliən ''or'' bo͞oliʹən}}, {{IPA|/ˈbuliən/  ''or'' /buˈliən/}} , {{SAMPA|/"buli@n/ ''or'' /bu"li@n/}}
 
@@ -8,10 +11,9 @@
 From the name of [[w:George Boole|George Boole]]
 
 ===Adjective===
-'''Boolean'''
-#(''logic, computing'') Pertaining to data items that can have "[[true]]" and "[[false]]" (or, equivalently, [[1]] and [[0]] respectively) as their only possible values, and to operations on such values.
-[[Category:Computing|boolean]]
-[[Category:Logic|boolean]]
+{{en-adj|-}}
+
+# {{cattag|logic|computing}} Pertaining to data items that can have "[[true]]" and "[[false]]" (or, equivalently, [[1]] and [[0]] respectively) as their only possible values and to operations on such values.
 
 ====Derived terms====
 *[[Boolean algebra]]
@@ -33,13 +35,13 @@ From the name of [[w:George Boole|George Boole]]
 ===Noun===
 {{en-noun}}
 
-#(''logic, computing'') A Boolean [[variable]].
+# {{cattag|logic|computing}} A [[variable]] that can hold a single [[true]]/[[false]] ([[1]]/[[0]]) value.
 
 ====Synonyms====
-*(''Boolean variable''): [[flag]]
+*{{italbrac-colon|Boolean variable}} [[flag]]
 
 ====Translations====
-'''Boolean variable'''
+'''logic: a variable'''
 {{top}}
 *Dutch: [[booleaanse waarde]]
 *French: [[variable]] [[booléenne]] {{f}}
