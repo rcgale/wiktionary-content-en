@@ -1,4 +1,5 @@
 ==English==
+
 ===Etymology===
 [[Category:Greek derivations]]
 From [[Ancient Greek]] '''[[ορφανός]]''' (''orfanos'') "without parents, fatherless".
@@ -7,12 +8,13 @@ From [[Ancient Greek]] '''[[ορφανός]]''' (''orfanos'') "without parents, 
 *:Rhymes: [[Rhymes:English:-ɔː(r)fən|-ɔː(r)fən]]
 
 ===Noun===
-'''orphan''' ([[orphans]])
-# a [[person]] one or both of whose [[parent]]s have died, especially a minor
-# [[child]] without [[living]] [[parent]]s
-# a [[young]] [[animal]] with no [[mother]]
-#(''typography'') a [[single]] [[line]] of [[type]], beginning a [[paragraph]], at the [[bottom]] of a [[column]] or [[page]]
-#(''computing'') a computer image without an associated file
+{{en-noun}}
+
+# A [[person]] one or both of whose [[parent]]s have died, especially a minor.
+# A [[child]] without [[living]] [[parent]]s.
+# A [[young]] [[animal]] with no [[mother]].
+# {{typography}} A [[single]] [[line]] of [[type]], beginning a [[paragraph]], at the [[bottom]] of a [[column]] or [[page]].
+# {{computing}} Any unreferenced abstract object.
 
 ====Derived terms====
 *[[orphanage]]
@@ -30,7 +32,7 @@ From [[Ancient Greek]] '''[[ορφανός]]''' (''orfanos'') "without parents, 
 *[[orphany]]
 
 ====Translations====
-{{top}}<!--languages from A to I go here-->
+{{top}}
 *Afrikaans: [[weeskind]]
 *Albanian: [[jetim]]
 *Arabic: {{ARchar|[[يتيم]]}}
@@ -59,7 +61,7 @@ From [[Ancient Greek]] '''[[ορφανός]]''' (''orfanos'') "without parents, 
 *Italian: [[orfano]]
 *Japanese: [[孤児]] ([[こじ]]) (koji)
 *Korean: [[고아]] (goa)
-{{mid}}<!--languages from L to Z go here-->
+{{mid}}
 *Latin: [[orphanus]]
 *Latvian: [[bārenis]]
 *Lithuanian: [[našlaitis]]
@@ -92,15 +94,19 @@ From [[Ancient Greek]] '''[[ορφανός]]''' (''orfanos'') "without parents, 
 {{bottom}}
 
 ===Adjective===
-'''orphan'''  (or ''orphaned'')
+'''orphan'''  (or '''[[orphaned]]''')
+
 # [[deprived]] of parents
 # intended for orphans
 
 ===Verb===
-'''to orphan'''
+{{en-verb}}
 
-# to deprive of parents (''used almost exclusively in the passive'')
+# To deprive of parents (''used almost exclusively in the passive'')
 #:''What do you do when you come across two '''orphaned''' polar bear cubs?''
+# {{computing}} To dereference or unlink the last remaining pointer to any object.
+#:''When you removed that image tag, you '''orphaned''' the resized icon.''
+#:''Removing categories '''orphans''' pages from the main category tree.''
 
 [[fr:orphan]]
 [[io:orphan]]
