@@ -1,16 +1,16 @@
 ==English==
 
 ===Etymology===
-Though it exists in late Old English, ''fals'' was not common usage until the 12th century.  It probably entered or reentered the language through Old French or Norman, ''fals, faus''. Prior to that it is clear to have come from Latin, ''[[falsus]]'', which mean "falsehood", from the earlier verb ''[[fallere]]'', "to decieve".
+Though it exists in late {{OE.}} ''[[fals]]'' was not common usage until the 12th century.  It probably entered or reentered the language through {{OF.}} or {{N.}} ''[[fals]], [[faus]]''. Prior to that it is clear to have come from {{L.}}, ''[[falsus]]'', meaning "falsehood", from the earlier verb ''[[fallere]]'', "to decieve".
 
 ===Pronunciation===
 *{{audio|en-us-false.ogg|Audio (US)}}
 
 ===Adjective===
-'''false'''
+{{en-adj|-}}
 
-# [[untrue]], not [[factual]], [[wrong]]
-# [[spurious]], [[artificial]] (as in ''false [[tooth|teeth]]'')
+# [[untrue|Untrue]], not [[factual]], [[wrong]].
+# [[spurious|Spurious]], [[artificial]] (as in ''false [[tooth|teeth]]'').
 # {{logic}} A state in [[Boolean]] [[logic]] that indicates a negative result.
 
 ====Synonyms====
@@ -21,57 +21,59 @@ Though it exists in late Old English, ''fals'' was not common usage until the 12
 *[[real]]
 *[[true]]
 
-====Related terms====
-*[[false attack]]
+====Derived terms====
 *[[falsehood]]
 *[[falseness]]
 *[[falsity]]
+
+====Related terms====
+*[[false attack]]
 *[[false friend]]
 
 ====Translations====
-;untrue, not factual, wrong (1)
-{{top}}
+{{top|untrue, not factual, wrong}}
 *Danish: [[falsk]]
+*Dutch: {{t|nl|onwaar}}, {{t|nl|vals}}, {{t|nl|fout}}, {{t|nl|onjuist}}
 *Finnish: [[valheellinen]], [[epätosi]], [[väärä]], [[vale-]] (prefix)
-*French: [[faux]] {{m}}, [[fausse]] {{f}}, [[incorrect]] {{m}}, incorrecte {{f}}
+*French: [[faux]], [[incorrect]]
 *German: [[falsch]], [[unwahr]]
-*Greek: [[ψευδής]] (pseuðís) {{m}}
+*Greek: [[ψευδής]] (pseuðís) {{g|Greek}}<!--I think no gender is necessary here-->
 *Indonesian: [[salah]]
 {{mid}}
-*[[Interlingua]]: false
-*Italian: [[falso]] {{m}}, [[errato]] {{m}}
+*[[Interlingua]]: [[#Interlingua|false]]
+*Italian: [[falso#Italian|falso]] {{g|Italian}}<!--I think no gender is necessary here-->, [[errato]] {{g|Italian}}<!--I think no gender is necessary here-->
 *Polish: [[fałszywy]], [[nieprawdziwy]]
-*Portuguese: [[falso]] {{m}}, [[falsa]] {{f}}, [[errado]] {{m}}, [[errada]] {{f}}
-*Romanian: [[fals]] {{n}}, [[neadevăr]] {{n}}
+*Portuguese: [[falso#Portuguese|falso]], [[errado]]
+*Romanian: [[fals#Romanian|fals]] {{g|Romanian}}<!--I think no gender is necessary here-->, [[neadevăr]] {{g|Romanian}}<!--I think no gender is necessary here-->
 *Swedish: [[falsk]], [[osann]]
 *Turkish: [[yanlış]], [[yalan]]
 {{bottom}}
 
-;spurious, artificial (2)
-{{top}}
+{{top|spurious, artificial}}
 *Danish: [[kunstig]]
+*Dutch: {{t|nl|vals}}, {{t|nl|onecht}}
 *Finnish: [[teko-]] (prefix), [[keino-]] (prefix)
-*French: [[faux]] {{m}}, [[fausse]] {{f}}, [[artificiel]] {{m}}, artificielle {{f}}
+*French: [[faux]], [[artificiel]]
 *German: [[falsch]]
-*Greek:  [[ψευδής]] (pseuðís) {{m}},[[πλαστός]] (plastós) {{m}}, [[κίβδηλος]] (kívðilos) {{m}}, [[νόθος]] (nóθos) {{m}}
+*Greek:  [[ψευδής]] (pseuðís) {{g|Greek}}<!--I think no gender is necessary here-->,[[πλαστός]] (plastós) {{g|Greek}}<!--I think no gender is necessary here-->, [[κίβδηλος]] (kívðilos) {{g|Greek}}<!--I think no gender is necessary here-->, [[νόθος]] (nóθos) {{g|Greek}}
 *Indonesian: [[buat|buatan]]
-*[[Interlingua]]: false
+*[[Interlingua]]: [[#Interlingua|false]]
 {{mid}}
-*Italian: [[posticcio]] {{m}}, [[finto]] {{m}}
+*Italian: [[posticcio]] {{g|Italian}}<!--I think no gender is necessary here-->, [[finto]] {{g|Italian}}<!--I think no gender is necessary here-->
 *Polish: [[sztuczny]]
-*Portuguese: [[falso]] {{m}}, [[falsa]] {{f}}, [[artificial]]
-*Romanian: [[fals]] {{m}}, [[falsă]] {{f}}, [[artificial]], [[contrafăcut]]
+*Portuguese: [[falso]], [[artificial#Portuguese|artificial]]
+*Romanian: [[fals#Romanian|fals]], [[artificial#Romanian|artificial]], [[contrafăcut]]
 *Spanish: [[postiza]]
 *Swedish: [[konstgjord]]
 *Turkish: [[yapay]], [[sahte]]
 {{bottom}}
 
-;A state in Boolean logic that indicates a negative result (3)
-{{top}}
+{{top|state in Boolean logic that indicates a negative result}}
+*Dutch: {{t|nl|onwaar}}, {{t|nl|vals}}
 *Finnish: [[epätosi]]
-*French: [[faux]] {{m}}, [[fausse]] {{f}}
-*Italian: [[falso]] {{m}}
-*Romanian: [[fals]] {{n}}
+*French: [[faux]]
+*Italian: [[falso#Italian|falso]] {{g|Italian}}<!--I think no gender is necessary here-->
+*Romanian: [[fals#Romanian|fals]] {{n}}
 {{mid}}
 *Swedish: [[falskt]]
 *Turkish: [[yanlış]]
@@ -80,8 +82,7 @@ Though it exists in late Old English, ''fals'' was not common usage until the 12
 =====Translations to be categorized=====
 {{checktrans}}
 {{top}}
-*{{ttbc|Catalan}}: [[fals]] {{m}}, [[falsa]] {{f}}
-*{{ttbc|Dutch}}: [[vals]], [[fout]], [[onjuist]], [[onecht]]
+*{{ttbc|Catalan}}: [[fals#Catalan]]
 *{{ttbc|Hebrew}}: [[לא נכון]]
 *{{ttbc|Ido}}: [[falsa]]
 *{{ttbc|Indonesian}}: [[palsu]]
