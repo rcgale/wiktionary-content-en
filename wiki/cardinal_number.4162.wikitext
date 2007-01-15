@@ -4,53 +4,57 @@
 ===Noun===
 {{en-noun|sg=[[cardinal]] [[number]]}}
 
-# A number used to denote [[quantity]]. A [[counting number]].
+# A number used to denote [[quantity]], but not the [[order]]. A [[counting number]].
 #: ''The smallest '''cardinal numbers''' are 0, 1, 2, and 3.''
-#: ''The '''cardinal number''' "three" can be represented as "3", "three", or "III".''
+#: ''The '''cardinal number''' "three" can be represented as "3", "three". The Roman numerals ("III" = "3") were originally cardinal numbers, but are currently normally used to refer to order e.g. in the names of monarchs and are then [[ordinal numbers]].''
 # {{mathematics}} A generalized kind of [[number]] used to denote the size of a [[set]], including [[infinite]] sets.
+<!--Is this true? "Infinite" is not a cardinal number by definition, because its magnitude is not known-->
 # {{cattag|language}} A word that expresses a [[countable]] [[quantity]]; a [[cardinal numeral]].
 #: ''"Three" is a '''cardinal number''', while "third" is an ordinal number.''
+<!--Does this definition differ in any essential sense from the first definition?-->
 
 ====Translations====
-;number denoting quantity
-{{top}}
+{{trans-top|number denoting quantity}}
 *Danish: [[kardinaltal]] {{n}}
+*Finnish: [[kardinaaliluku]]
 *Italian: [[numero cardinale]] {{m}}
-{{mid}}
+{{trans-mid}}
 *Portuguese: [[número cardinal]] {{m}}
 *Russian: [[кардинальное число]] (kardinál’noje čisló) {{n}}
 *Spanish: [[número cardinal]] {{m}}
 *Swedish: [[kardinaltal]], [[grundtal]]
-{{bottom}}
+{{trans-bottom}}
 
-;number used to denote the size of a set
-{{top}}
+{{trans-top|number used to denote the size of a set}}
 *Czech: [[kardinální číslo]] {{n}}
 *Danish: [[kardinaltal]] {{n}}
+*Finnish: [[kardinaaliluku]]
 *Hungarian: [[számosság]]
 *Italian: [[numero cardinale]] {{m}}
-{{mid}}
+{{trans-mid}}
 *Portuguese: [[número cardinal]] {{m}}
 *Russian: [[мощность множества]] (móščnost’ mnóžestva) {{f}}, [[кардинальное число]] (kardinál’noje čisló) {{n}}
 *Spanish: [[número cardinal]] {{m}}
 *Swedish: [[kardinaltal]], [[grundtal]]
-{{bottom}}
+{{trans-bottom}}
 
-;word that expresses a countable quantity
-{{top}}
+{{trans-top|word that expresses a countable quantity}}
 *Danish: [[kardinaltal]] {{n}}
 *Dutch: [[hoofdtelwoord]] {{n}}, [[bepaald telwoord]] {{n}}
+*Finnish: [[kardinaaliluku]]
 *German: [[Grundzahlwort]] {{n}}, [[bestimmtes Zahlwort]] {{n}}, [[Kardinalzahl]] {{f}}
 *Hungarian: [[tőszámnév]]
-{{mid}}
+{{trans-mid}}
 *Portuguese: [[numeral cardinal#Portuguese|numeral cardinal]]
 *Romanian: [[numeral cardinal#Romanian|numeral cardinal]]
 *Russian: [[количественное числительное]] (kolíčestv'ennoje čislítel’noje) {{n}}
 *Spanish: [[adjetivo cardinal]] {{m}}
 *Swedish: [[kardinaltal]], [[grundtal]]
-{{bottom}}
+{{trans-bottom}}
 
 =====Translations to be checked=====
+{{checktrans}}
+{{trans-top|word that expresses a countable quantity}}
 *{{ttbc|Basque}}: [[zenbaki kardinal]]
 *{{ttbc|Bengali}}: [[অঙ্কবাচক সংখ্যা]]
 *{{ttbc|Bosnian}}: [[glavni broj#Bosnian|glavni broj]] {{m}}
@@ -58,7 +62,6 @@
 *{{ttbc|Chinese}}: [[基数]] (jī shù)
 *{{ttbc|Croatian}}: [[glavni broj#Croatian|glavni broj]] {{m}}
 *{{ttbc|Estonian}}: [[võimsus]] (matemaatika)
-*{{ttbc|Finnish}}: [[kardinaaliluku]]
 *{{ttbc|French}}: [[nombre cardinal]] {{m}}
 *{{ttbc|Icelandic}}: [[höfuðtala]]
 *{{ttbc|Ido}}: [[kardinala nombro]]
@@ -69,6 +72,7 @@
 *:Cyrillic: [[главни број#Serbian|главни број]] {{m}}
 *:Roman: [[glavni broj#Serbian|glavni broj]] {{m}}
 *{{ttbc|Slovene}}: [[kardinalno število]] {{n}}
+{{trans-bottom}}
 
 ===Note on usage of cardinal numbers===
 *Cardinal numbers are generally construed as ''[[noun]]s'' but function as ''[[adjective]]s''.  When functioning as adjectives, a cardinal number may only precede a {{countable}} noun, and the noun will be plural, except for ''one'', ''1'' ''minus one'', or ''-1'':
@@ -77,16 +81,16 @@
 *:''one hundred one dalmatian'''s''' ''
 *:''minus one degree''
 *:''minus five meter'''s''' ''
-*Cardinal numbers may be used as [[ordinal number]]s when followed or preceded by a singular {{countable}} noun, especially if preceded by the word ''number'' or ''the'':
-*:''The five dog was injured.''
+*Cardinal numbers may be used as [[ordinal number]]s when <!--followed or -->preceded by a singular {{countable}} noun, especially if preceded by the word ''number'' <!--or ''the''-->:
+*:''Dog five was injured.''
 *:''That is our number one cat.''
-*:''That is our house three.''
-*''One'' and ''zero'' can serve as quantifiers indicating effectively ''all'' and ''none'', respectively:
-*:''The law requires residency of one year.''
+*<!--''One'' and -->''zero'' can serve as quantifier<!--s--> indicating <!--effectively ''all'' and--> ''none''<!--, respectively-->:
+<!--*:''The law requires residency of one year.'' ("one" does not indicate "all" in this sentence)-->
 *:''It has zero fat.''
 * Cardinal numbers from ''1'' to ''10'' can serve as informal rating description or value, with a scale of 1 to 10 implied; 0 and numbers bigger than 10 are used for [[hyperbole]]:
 *:''Bo was once considered a 10.''
 *:''The pain is 1.''
+<!--Sure they can, but so can any other set of numbers-->
 
 ===See also===
 *[[cardinal numeral]]
