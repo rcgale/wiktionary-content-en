@@ -5,7 +5,7 @@
 * {{AHD|bû(r)n}}, {{IPA|/bɜː(r)n/}}, {{SAMPA|/b3:(r)n/}}
 * {{audio|en-us-burn.ogg|Audio (US)}}
 *'''Homophones''': [[Bern]]
-* {{rhymes|ɜː(r)n}}
+*:{{rhymes|ɜː(r)n}}
 
 ===Etymology===
 {{OE.}} ''[[birnan]]''.
@@ -28,7 +28,7 @@
 *Esperanto: [[brulvundo]]
 *Finnish: [[palovamma]]
 *German: [[Brandwunde]] {{f}}, [[Verbrennung]] {{f}}
-*Hebrew: [[כוויה]] (kvi'a) ''f''
+*Hebrew: [[כוויה]] (kvi'a) {{f}}
 *Hungarian: [[égés]], égési [[sérülés]]
 *Italian: [[bruciatura]] {{f}}, [[ustione]] {{f}}
 {{trans-mid}}
@@ -69,14 +69,27 @@
 *{{ttbc|Occitan}}: [[cremadura]]
 *{{ttbc|Romanian}}: [[arsură]]
 
-===Intransitive verb===
+===Verb===
 {{en-verb|burns|burning|'''[[burnt]]''' or '''[[burned]]'''}}
 
-# To be consumed by [[fire]].
+# {{intransitive}} To be consumed by [[fire]].
 #: ''He watched the house '''burn'''.''
-# To feel [[hot]], e.g. due to [[embarrassment]].
+# {{intransitive}} To feel [[hot]], e.g. due to [[embarrassment]].
 #: ''Her cheeks '''burned''' with shame.''
-# {{curling}} To accidentally touch a moving [[stone]]. 
+# {{context|intransitive|curling}} To accidentally touch a moving [[stone]]. 
+# {{context|transitive|ergative}} To cause to be consumed by [[fire]].
+#: ''He '''burned''' his manuscript in the fireplace.''
+# {{transitive}} To [[injure]] (a person or animal) with [[heat]] or [[caustic]] [[chemicals]].
+#: ''She '''burned''' the child with an iron, and was put in jail for ten years.''
+# {{context|transitive|slang}} To betray.
+#: ''The informant '''burned''' him.''
+# {{context|transitive|computing}} To write data to a permanent storage medium like a [[compact]] [[disc]] or a [[ROM]] chip. 
+#: ''We'll '''burn''' this program onto an E-PROM one hour before the demo begins.''
+# {{transitive}} To [[waste]] (time).
+#: ''We have an hour to '''burn'''.''
+# {{context|transitive|slang}} To insult badly, leaving no possible comeback.
+#: ''I just '''burned''' you again.''
+# {{context|transitive|cards}} In [[pontoon]], to swap a pair of cards for another pair.
 
 ====Translations====
 {{trans-top|to be consumed by fire}}
@@ -112,43 +125,6 @@
 *Swedish: [[brinna]]
 {{trans-bottom}}
 
-=====Translations to be categorized=====
-{{checktrans}}
-*{{ttbc|Albanian}}: [[djeg]]
-*{{ttbc|Aromanian}}: [[ardu]]
-*{{ttbc|Basque}}: [[erre]]
-*{{ttbc|Catalan}}: [[cremar]]
-*{{ttbc|Croatian}}: [[gorjeti]]
-*{{ttbc|Hungarian}}: [[ég]]
-*{{ttbc|Ido}}: [[kombustar]], [[brular]]
-*{{ttbc|Korean}}: [[타다]] (ta-da), [[Hanja]]: [[연소하다]] (yeonso-hada)
-*{{ttbc|Kurdish}}: [[sotin]], [[şewitîn]]
-*{{ttbc|Norwegian}}: [[brenne]]
-*{{ttbc|Rohingya}}: [[zalo]]
-*{{ttbc|Romanian}}: [[arde]]
-*{{ttbc|Slovak}}: [[horieť]]
-*{{ttbc|Slovenian}}: [[goreti]]
-*{{ttbc|Spanish}}: [[quemar]]
-*{{ttbc|Telugu}}: [[మండు]] (maMDu)
-
-===Transitive verb===
-{{en-verb|burns|burning|'''[[burnt]]''' or '''[[burned]]'''}}
-
-# {{ergative}} To cause to be consumed by [[fire]].
-#: ''He '''burned''' his manuscript in the fireplace.''
-# To [[injure]] (a person or animal) with [[heat]] or [[caustic]] [[chemicals]].
-#: ''She '''burned''' the child with an iron, and was put in jail for ten years.''
-# {{slang}} To betray.
-#: ''The informant '''burned''' him.''
-# {{computing}} To write data to a permanent storage medium like a [[compact]] [[disc]] or a [[ROM]] chip. 
-#: ''We'll '''burn''' this program onto an E-PROM one hour before the demo begins.''
-# To [[waste]] (time).
-#: ''We have an hour to '''burn'''.''
-# {{slang}} To insult badly, leaving no possible comeback.
-#: ''I just '''burned''' you again.''
-# {{context|cards}} In [[pontoon]], to swap a pair of cards for another pair.
-
-====Translations====
 {{trans-top|to cause to be consumed by fire}}
 *Esperanto: [[bruligi]]
 *Finnish: [[polttaa]]
@@ -203,11 +179,32 @@
 
 =====Translations to be categorized=====
 {{checktrans}}
+{{trans-top|Translations to be checked (intransitive)}}
+*{{ttbc|Albanian}}: [[djeg]]
+*{{ttbc|Aromanian}}: [[ardu]]
+*{{ttbc|Basque}}: [[erre]]
+*{{ttbc|Catalan}}: [[cremar]]
+*{{ttbc|Croatian}}: [[gorjeti]]
+*{{ttbc|Hungarian}}: [[ég]]
+*{{ttbc|Ido}}: [[kombustar]], [[brular]]
+*{{ttbc|Korean}}: [[타다]] (ta-da), [[Hanja]]: [[연소하다]] (yeonso-hada)
+*{{ttbc|Kurdish}}: [[sotin]], [[şewitîn]]
+*{{ttbc|Norwegian}}: [[brenne]]
+*{{ttbc|Rohingya}}: [[zalo]]
+*{{ttbc|Romanian}}: [[arde]]
+*{{ttbc|Slovak}}: [[horieť]]
+*{{ttbc|Slovenian}}: [[goreti]]
+*{{ttbc|Spanish}}: [[quemar]]
+*{{ttbc|Telugu}}: [[మండు]] (maMDu)
+{{trans-bottom}}
+
+{{trans-top|Translations to be checked (transitive)}}
 *{{ttbc|Kurdish}}: [[sotin]], [[şewitandin]]
 *{{ttbc|Occitan}}: [[cremar]]
+{{trans-bottom}}
 
 ===Related terms===
-{{rel-top|terms related to burn}}
+{{rel-top|terms related to ''burn''}}
 *[[Burn, baby, burn]]
 *[[burn in]]
 *[[burn out]]
