@@ -1,4 +1,4 @@
-[[Image:Cohoghcfbdhdfgfdhhgf salmon.jpg|thumb|A Fish (Coho Salmon)]]
+[[Image:Coho salmon.jpg|thumb|A Fish (Coho Salmon)]]
 ==English==
 
 ===Pronunciation===
@@ -8,7 +8,7 @@
 *:{{rhymes|ɪʃ}}
 
 ===Etymology 1===
-{{OE.}} ''[[fisc]]'', from {{Ger.}} *''fiskaz'', from {{IE.}} ''*peisk-, pisk-''.  Cognate with Dutch ''[[visch]]'', German ''[[Fisch]]'', Swedish ''[[fisk]]''.  The Indo-European root is also the source of Latin ''[[piscis]]'', Russian [[пискарь]], Irish ''[[iasc]]'', ''Greek [[ichthys]]''.
+{{OE.}} ''[[fisc]]'', from {{Ger.}} *''fiskaz'', from {{IE.}} ''*peisk-, pisk-''.  Cognate with Dutch ''[[visch]]'', German ''[[Fisch]]'', Swedish ''[[fisk]]''.  The Indo-European root is also the source of Latin ''[[piscis]]'', Russian ''[[пискарь]]'', Irish ''[[iasc]]'', Greek ''[[ichthys]]''.
 
 ====Noun====
 {{en-noun|''collectively (UK)'' '''[[fish]]''' ''or (US) and when referring to two or more kinds'' '''[[fishes]]''' ''or informally'' '''[[fishies]]'''}}
@@ -214,8 +214,8 @@
 *German: [[Fischzug]] {{m}}
 *Greek: [[ψάρεμα]] (psárema) {{n}}
 *Hungarian: [[halászat]], [[halászás]]
-*[[Kurdish]]: [[masîgirî]] {{m}}
 {{trans-mid}}
+*[[Kurdish]]: [[masîgirî]] {{m}}
 *Polish: [[łowienie ryb]] {{n}}
 *Russian: [[рыбалка]] (rybalka) {{f}} (''recreation''), рыбная [[ловля]] (rybnaǎ lovlǎ) {{f}} (''industry'')
 *Spanish: [[pesca]] (''plural:'' [[pescas]])
@@ -270,20 +270,27 @@
 *Russian: [[рыбацкий]] (recreation), [[рыболовецкий]] (industry)
 {{trans-bottom}}
 
-====Intransitive verb====
+====Verb====
 {{en-verb|fish|es}}
 
-# To try to [[catch]] fish, whether successfully or not.
+# {{intransitive}} To try to [[catch]] fish, whether successfully or not.
 #:''She went to the [[river]] to '''fish''' for [[trout]].''
-# {{italbrac|followed by: "about," "around," "through," etc.}} To attempt to find or get hold of an object by searching among other objects.
+# {{context|intransitive|followed by "about," "around," "through," etc.}} To attempt to find or get hold of an object by searching among other objects.
 #:''Why are you '''fishing through''' in my things?''
-# {{italbrac|followed by: "around"}} To attempt to obtain information by talking to people.
+# {{context|intransitive|followed by "around"}} To attempt to obtain information by talking to people.
 #:''The detective visited the local pubs '''fishing''' around for more information.''
-# {{cricket}} Of a [[batsman]], to [[attempt]] to hit a ball [[outside]] off [[stump]] and [[miss]] it.
+# {{context|intransitive|cricket}} Of a [[batsman]], to [[attempt]] to hit a ball [[outside]] off [[stump]] and [[miss]] it.
+
+# {{context|transitive|followed by "for"}} To attempt to get hold of (an object) that is among other objects.
+#:* He was '''fishing for''' in his [[pocket]] the [[key]]s.
+# {{context|transitive|figurative|followed by "for"}} To attempt to gain.
+#: ''The actors loitered at the door, '''fishing for''' compliments.''
 
 =====Synonyms=====
-*[[angle]], [[drop in a line]]
-*[[rifle]], [[rummage]]
+*(''try to catch a fish''): [[angle]], [[drop in a line]]
+*(''try to find something''): [[rifle]], [[rummage]]
+*(''attempt to get hold of (an object) among others''): [[rummage]]
+*(''attempt to gain (compliments, etc)''): [[angle]]
 
 =====Translations=====
 {{trans-top|try to catch fish}}
@@ -335,43 +342,6 @@
 {{trans-mid}}
 {{trans-bottom}}
 
-====Transitive verb====
-{{en-verb|fish|es}}
-
-# (''followed by'' '''for''') To attempt to get hold of (an object) that is among other objects.
-#:* He was '''fishing for''' in his [[pocket]] the [[key]]s.
-# (''figurative''; ''followed by'' '''for''') To attempt to gain.
-#:* The actors loitered at the door, '''fishing for''' compliments.
-
-=====Synonyms=====
-*(''attempt to get hold of (an object) among others''): [[rummage]]
-*(''attempt to gain (compliments, etc)''): [[angle]]
-
-=====Related terms=====
-{{top3}}
-*[[big fish in a small pond]]
-*[[fishy]]
-*[[fish and chips]]
-*[[fish bowl]]
-*[[fishcake]]
-*[[fishery]]
-{{mid3}}
-*[[fish finger]]<!-- already given above: *[[fish for compliments]] -->
-*[[fish hook]]
-*[[fish paste]]
-*[[fish sauce]]
-*[[fish supper]]
-*[[fish tank]]
-{{mid3}}
-*[[fish tape]]
-*[[goatfish]]
-*[[have other fish to fry]]
-*[[starfish]]
-*[[surgeonfish]]
-*[[there's plenty more fish in the sea]]
-{{bottom}}
-
-=====Translations=====
 {{trans-top|attempt to get hold of (an object) among others}}
 *Finnish: [[kaivaa]] [[esille]], [[kalastaa]]
 *[[Interlingua]]: [[piscar]]
@@ -384,10 +354,33 @@
 {{trans-mid}}
 {{trans-bottom}}
 
-[[Category:Vertebrates]]
+=====Related terms=====
+{{rel-top|terms related to "fish"}}
+*[[big fish in a small pond]]
+*[[fishy]]
+*[[fish and chips]]
+*[[fish bowl]]
+*[[fishcake]]
+*[[fishery]]
+*[[fish finger]]<!-- already given above: *[[fish for compliments]] -->
+*[[fish hook]]
+*[[fish paste]]
+{{rel-mid}}
+*[[fish sauce]]
+*[[fish supper]]
+*[[fish tank]]
+*[[fish tape]]
+*[[goatfish]]
+*[[have other fish to fry]]
+*[[starfish]]
+*[[surgeonfish]]
+*[[there's plenty more fish in the sea]]
+{{rel-bottom}}
+
+[[Category:1000 English basic words]]
 [[Category:English nouns with irregular plurals]]
 [[Category:English invariant nouns]]
-[[Category:1000 English basic words]]
+[[Category:Vertebrates]]
 
 [[ang:fish]]
 [[ar:fish]]
