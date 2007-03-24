@@ -4,54 +4,60 @@
 Greek ''[[suntaxis]]'', from ''[[sun-]]'' 'together' + ''[[tassein]]'' 'arrange'.
 
 ===Pronunciation===
-*{{IPA|/ˈsɪntæks/}}
+* (''UK'') {{IPA|/ˈsɪntæks/}}
 
 ===Noun===
 {{wikipedia}}
-'''syntax''' (uncountable and countable; plural '''[[syntaxes]]''')
+{{en-noun|-}}
 
 # A set of rules that govern how words are combined to form [[phrase]]s and [[sentence]]s.
-# The formal rules of a computer language
-# The study of the structure of phrases, sentences and language.
-
-====Translations====
-{{top|set of rules that govern how words are combined}}
-*Japanese: {{JAchar|[[統語法]]}} (tōgohō)
-*Slovenian: [[skladnja]]
-{{mid}}
-{{bottom}}
-
-{{top|formal rules of a computer language}}
-*Japanese: {{JAchar|[[シンタックス]]}} (sintakkusu)
-{{mid}}
-{{bottom}}
-
-{{top|study of the structure of phrases and sentences}}
-*Japanese: {{JAchar|[[統語論]]}} (tōgoron)
-*Slovenian: [[skladnja]]
-{{mid}}
-{{bottom}}
-
-=====Translations to be checked=====
-{{rfc-trans}}
-*Chinese: [[造句]] ''SYN：morphology''
-*Dutch: [[syntaxis]] {{f}}
-*[[Esperanto]]: [[sintakso]]
-*Finnish: [[lauseoppi]] (1,3), [[syntaksi]]
-*French: [[syntaxe]] {{f}} (1,2,3)
-*German: [[Syntax]] {{f}}
-*Interlingua: [[syntaxe]]
-*[[w:Italian language|Italian]]: [[sintassi]]
-*[[w:Latin language|Latin]]: [[syntaxis]] {{f}}
-*Persian: [[جمله‌شناسی]] (jomle-shenasi), [[نحو]] (nahv)
-*[[w:Polish language|Polish]]: [[składnia]] {{f}}
-*Portuguese: [[sintaxe]] {{f}}
-*Spanish: [[sintaxis]] {{f}}
-*Swedish: [[syntax]]
+# {{computer}} The formal rules of a computer language
+# {{linguistics}} The study of the structure of phrases, sentences and language.
 
 ====Derived terms====
 *[[syntactician]]
+
+====Related terms====
+*[[syntax error]]
 *[[syntax highlighting]]
+
+====Translations====
+{{trans-top|set of rules that govern how words are combined}}
+*French: [[syntaxe]] {{f}}
+{{trans-mid}}
+*Japanese: {{JAchar|[[統語法]]}} (tōgohō)
+*Slovenian: [[skladnja]]
+{{trans-bottom}}
+
+{{trans-top|formal rules of a computer language}}
+*French: [[syntaxe]] {{f}}
+{{trans-mid}}
+*Japanese: [[文法]] (bunpō), [[構文]] (kōbun), {{JAchar|[[シンタックス]]}} (sintakkusu)
+{{trans-bottom}}
+
+{{trans-top|study of the structure of phrases and sentences}}
+*French: [[syntaxe]] {{f}}
+{{trans-mid}}
+*Japanese: {{JAchar|[[統語論]]}} (tōgoron)
+*Slovenian: [[skladnja]]
+{{trans-bottom}}
+
+=====Translations to be checked=====
+<!--Remove this section once all of the translations below have been moved into the tables above.-->
+{{checktrans}}
+*{{ttbc|Chinese}}: [[造句]] ''SYN：morphology''
+*{{ttbc|Dutch}}: [[syntaxis]] {{f}}
+*{{ttbc|Esperanto}}: [[sintakso]]
+*{{ttbc|Finnish}}: [[lauseoppi]] (1,3), [[syntaksi]]
+*{{ttbc|German}}: [[Syntax]] {{f}}
+*{{ttbc|Interlingua}}: [[syntaxe]]
+*{{ttbc|Italian}}: [[sintassi]]
+*{{ttbc|Latin}}: [[syntaxis]] {{f}}
+*{{ttbc|Persian}}: [[جمله‌شناسی]] (jomle-shenasi), [[نحو]] (nahv)
+*{{ttbc|Polish}}: [[składnia]] {{f}}
+*{{ttbc|Portuguese}}: [[sintaxe]] {{f}}
+*{{ttbc|Spanish}}: [[sintaxis]] {{f}}
+*{{ttbc|Swedish}}: [[syntax]]
 
 [[Category:Greek derivations]]
 [[Category:Linguistics]]
