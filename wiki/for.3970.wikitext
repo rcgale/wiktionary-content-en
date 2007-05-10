@@ -1,291 +1,101 @@
-{{see|för|før|fór}}
-{{wikipedia}}
-==English==
-{{rank|with|is|it|14|for|as|had|you}}
+You can ''emphasize text'' by putting two
+apostrophes on each side. Three apostrophes
+will emphasize it '''strongly'''. Five
+apostrophes is '''''even stronger'''''.
+A single newline
+has no effect
+on the layout.
 
-===Pronunciation===
-*'''stressed'''
-**(''RP''): {{IPA|/fɔː/}}, {{SAMPA|/<tt>fO:</tt>/}}, {{AHD|fô}}
-**(''US''): {{IPA|/fɔːɹ/, /foʊɹ/}}, {{SAMPA|/<tt>fO:r</tt>/}}, {{AHD|fôr}}
-**{{audio|en-us-for.ogg|Audio (US)}}
-**{{rhymes|ɔː(r)}}
-*'''unstressed'''
-**(''RP''): {{IPA|/fə/}}, {{SAMPA|/<tt>f@</tt>/}}
-**(''US''): {{IPA|/fɚ/}}, {{SAMPA|/<tt>f@`</tt>/}}
-**{{audio|en-us-for-unstressed.ogg|Audio (US), unstressed, in the phrase "Wait for me".}}
+But an empty line
+starts a new paragraph.
+You can break lines<br>
+without starting a new paragraph.<br>
+Please use this sparingly.
+You can use <b>HTML tags</b>, too, if you
+want. Some useful ways to use HTML:
 
-===Homophones===
-*[[fore]], [[four]]
+Put text in a <tt>typewriter font</tt>.
+The same font is generally used for
+<code>computer code</code>.
 
-===Conjunction===
-'''for'''
+<strike>Strike out</strike> or
+<u>underline</u> text, or write it
+<span style="font-variant:small-caps">
+in small caps</span>.
 
-# Because: ''He lost his job '''for''' he got into trouble.''
+Superscripts and subscripts:
+x<sup>2</sup>, x<sub>2</sub>
 
-====Translations====
-{{trans-top}}
-*Albanian: [[për]]
-*Catalan: [[per]]
-*Czech: [[neboť]]
-*Danish: [[#Danish|for]], [[fordi]], [[thi]]
-*Esperanto: [[ĉar]]
-*Finnish: [[koska]]
-*French: [[par-ce que]]
-*German: [[denn]], [[wegen]]
-*Greek: [[διότι]] (ðióti), [[επειδή]] (epiðí), [[γιατί]] (yatí)
-*Hebrew: [[בשביל]] (bishvil)
-*Italian: [[perché]], [[poiché]]
-{{trans-mid}}
-*Japanese: ～[[ため]] (~tame) ('''Note''': after a noun, a [[の]] ''no'' is added before the "tame".)
-*Norweigan: [[#Norwegian|for]], [[fordi]]
-*[[Novial]]: [[pro]], [[den]]
-*Persian: {{FAchar|[[برای]]}} (barâye), {{FAchar|[[برای اینکه]]}} (barâye inke)
-*Portuguese: [[porque]]
-*Romanian: [[pentru că]]
-*Russian: [[потому что]] (potomú čto), [[из-за того, что]] (iz-za tovó, što)
-*Spanish: [[porque]], [[como]]
-*Swedish: [[eftersom]], [[emedan]] (''archaic'')
-*Thai: {{THchar|[[เพื่อ]]}} (pêua) 
-*Turkish: [[için]]
-{{trans-bottom}}
+Invisible comments that only appear while editing the page.
+<!-- Note to editors: blah blah blah. -->
+Comments should usually go on the talk page, though.
+== Section headings ==
 
-===Verb===
-# In some computer [[programming language]]s, the word '''FOR''' is used to indicate the start of a counting loop, in which a [[control variable]] is increased or decreased by an amount (often 1) and if the variable is outside the valid range the loop is not executed.
+Headings organize your writing into sections.
+The Wiki software can automatically generate
+a table of contents from them.
 
-===Preposition===
-'''for'''
+=== Subsection ===
 
-# Towards.
-#: ''The astronauts headed '''for''' the moon.''
-# Directed at, intended to belong to.
-#: ''I have something '''for''' you.''
-# Supporting (opposite of ''against'').
-#: ''All those '''for''' the motion raise your hands.'' 
-# Because of.
-#: ''He was convicted '''for''' murder.''
+Using more equals signs creates a subsection.
 
-====Usage====
-''For what it’s worth...'' = Inasmuch as it’s worth anything.
+==== A smaller subsection ====
 
-====Antonyms====
-*[[against]]
-
-====Translations====
-{{trans-top|towards}}
-*Catalan: [[per]], [[per a]]
-*Czech: [[k]]
-*Danish: [[til]], [[mod]]
-*Dutch: [[naar]]
-*Finnish: [[kohti]], [[-n]] ([[illative]] case)
-*German: [[zu]], [[nach]]
-*Greek: [[για]]
-{{trans-mid}}
-*[[Interlingua]]: [[por]]
-*Italian: [[per]]
-*Maltese: [[għal]], [[għal-]], [[għall-]] 
-*Norwegian: [[mot]]
-*Portuguese: [[para]]
-*Russian: [[к#Russian|к]] (k), [[на#Russian|на]] (na)
-*Swedish: [[mot]], [[åt]]
-{{trans-bottom}}
-
-{{trans-top|directed at, intended to belong to}}
-*Catalan: [[per]], [[per a]]
-*Czech: [[pro]]
-*Danish: [[til]], [[mod]]
-*Dutch: [[voor]]
-*Esperanto: [[por]]
-*Finnish: [[-lle]] ([[allative]] case)
-*French: [[pour]]
-*German: [[für]]
-*Greek: [[για]]
-{{trans-mid}}
-*Hungarian: [[-nak]]/[[-nek]] (''[[dative]]'')
-*[[Interlingua]]: [[por]]
-*Italian: [[per]]
-*Maltese: [[għal]]
-*Norwegian: [[til]]
-*Portuguese: [[para]]
-*Russian: [[для]] (dlja)
-*Swedish: [[för]], [[åt]]
-{{trans-bottom}}
-
-{{trans-top|supporting}}
-*Catalan: [[per]]
-*Czech: [[pro]]
-*Danish: [[#Danish|for]]
-*Dutch: [[voor]]
-*Esperanto: [[por]]
-*Finnish: [[puoli|puolesta]]
-*French: [[pour]]
-{{trans-mid}}
-*German: [[für]]
-*[[Interlingua]]: [[por]]
-*Norwegian: [[for]]
-*Portuguese: [[por]]
-*Russian: [[за#Russian|за]] (za)
-*Spanish: [[por]]
-*Swedish: [[för]]
-{{trans-bottom}}
-
-{{trans-top|because of}}
-*Czech: [[pro]], [[za]]
-*Danish: [[for#Danish|for]]
-*Esperanto: [[pro]]
-*Finnish: [[takia]], [[-sta]] ([[elative]] case)
-*German: [[wegen]]
-{{trans-mid}}
-*[[Interlingua]]: [[pro]]
-*Maltese: [[għal]], [[minħabba]]
-*Norwegian: [[for]]
-*Portuguese: [[por]]
-*Spanish: [[por]]
-{{trans-bottom}}
-
-=====Translations to be checked=====
-{{checktrans}}
-
-*{{ttbc|Frisian}}: [[foar]]
-*{{ttbc|Guarani}}: [[ehe]] (t-)
-*{{ttbc|Ido}}: [[por]]
-*{{ttbc|Indonesian}}: [[untuk]], [[buat]], [[bagi]], [[demi]]
-*{{ttbc|Novial}}: [[por]]
-*{{ttbc|Polish}}: [[dla]]
-*{{ttbc|Romanian}}: [[pentru]]
-*{{ttbc|Spanish}}: [[para]], [[por]]
-*{{ttbc|Tupinambá}}: [[esé]] (t-), [[supé]]
-
+Don't skip levels, like from two to four equals signs.
+Start with two equals signs; don't use single equals signs.
+* ''Unordered lists'' are easy to do:
+** Start every line with a star.
+*** More stars indicate a deeper level.
+*A newline
+*in a list  
+marks the end of the list.
+*Of course you can start again.
+# Numbered lists are also good:
+## Very organized
+## Easy to follow
+A newline marks the end of the list.
+#New numbering starts with 1.
+* You can even do mixed lists
+*# and nest them
+*#* or break lines<br>in lists.
+Another kind of list is a '''definition list''':
+; word : definition of the word
+; longer phrase 
+: phrase defined
+:A colon indents a line or paragraph.
+A newline after that starts a new paragraph.
+::This is often used for discussion on talk pages.
+You can make horizontal dividing lines
+to separate text.
 ----
+But you should usually use sections instead,
+so that they go in the table of contents.
+Here's a link to a page named [[Official position]].
+You can even say [[official position]]s
+and the link will show up correctly.
 
-==Danish==
-===Conjunction===
-'''for'''
-# [[#English|for]], [[because]]
+You can put formatting around a link.
+Example: ''[[Wikipedia]]''.
 
-[[Category:Danish conjunctions]]
+The ''first letter'' will automatically be capitalized,
+so [[wikipedia]] is the same as [[Wikipedia]].
+Capitalization matters after the first letter.
 
-===Preposition===
-'''for'''
-# [[#English|for]]
+[[Unwritten article]] is a page that doesn't exist
+yet. You can create it by clicking on the link.
+You can link to a page section by its title:
 
-[[Category:Danish prepositions]]
+*[[List of cities by country#Morocco]].
+*[[List of cities by country#Sealand]].
 
-===Verb===
-'''for''' (''past tense of'' [[fare]], ''in the sense of ''[[go]]'', ''[[travel]]'''')
-# [[went]]
+If multiple sections have the same title, add
+a number. [[#Example section 3]] goes to the
+third section named "Example section".
+You can make a link point to a different place
+with a [[Help:Piped link|piped link]]. Put the link
+target first, then the pipe character "|", then
+the link text.
 
-[[Category:Danish verbs]]
-
-----
-
-==Esperanto==
-===Adverb===
-'''for'''
-
-# [[away]], [[far]], [[gone]]
-
-===Particle===
-# [[distant]] (adverbial particle of distance)
-#: ''for'' combines with demonstrative [[:Category:Esperanto correlatives|correlatives]] to indicate that the referrent is somehow distant from the speaker:
-#:* ''[[tiu]] '''for''''': "that [distant] [one/person]"
-#:* ''[[tio]] '''for''''': "that [distant] [thing]"
-#:* ''[[tia]] '''for''''': "that [anomolous] kind of"
-#:* ''[[ties]] '''for''''': "belonging to those [distant] people"
-#:* ''[[tiel]] '''for''''': "that [extreme] manner or degree"
-#:* ''[[tie]] '''for''''': "over there"
-#:* ''[[tiam]] '''for''''': "then [long ago or in the distant future]"
-#:* ''[[tiom]] '''for''''': "that much [of an extreme quantity]"
-#:* ''[[tial]] '''for''''': "for that [unusual] reason"
-
-====Antonyms====
-* [[ĉi]]: [[here]] ''(adverbial particle of proximity)''
-
-----
-
-==[[Ido]]==
-===Preposition===
-# [[far]] from
-
-----
-
-==Latin==
-===Verb===
-'''for''' (''infinitive:'' [[fari]], ''supine:'' [[fatum]])
-
-#to [[speak]]
-====Synonyms====
-:[[dico]]
-====Derived terms====
-:[[affor]], [[fatum]], [[infans]], [[interfor]]
-
-----
-
-==Norwegian==
-===Conjunction===
-
-'''for'''
-#[[#Conjunction 1|for]]
-====Synonyms====
-*[[fordi]]
-
-===Preposition===
-
-'''for'''
-#[[#Preposition 1|for]]
-
-----
-
-==Old English==
-===Etymology===
-Common Germanic *''[[fora]]''
-===Preposition===
-'''for'''
-
-# for
-
-[[Category:Old English prepositions]]
-
-----
-
-==Swedish==
-===Verb===
-'''for''' (''past tense of'' [[fara]], ''in the sense of ''[[go]]'', ''[[travel]]'''')
-
-# [[went]]
-
-[[Category:English coordinating conjunctions]]
-[[Category:English homophones]]
-[[Category:Esperanto adverbs]]
-[[Category:Esperanto particles]]
-[[Category:Esperanto BRO1]]
-[[Category:Norwegian conjunctions]]
-[[Category:Norwegian prepositions]]
-[[Category:English prepositions]]
-[[Category:Swedish verb forms]]
-[[Category:100 English basic words]]
-
-[[ar:for]]
-[[da:for]]
-[[de:for]]
-[[et:for]]
-[[fa:for]]
-[[fr:for]]
-[[gl:for]]
-[[io:for]]
-[[it:for]]
-[[kk:for]]
-[[ku:for]]
-[[la:for]]
-[[hu:for]]
-[[ja:for]]
-[[pl:for]]
-[[pt:for]]
-[[ru:for]]
-[[simple:for]]
-[[fi:for]]
-[[sv:for]]
-[[ta:for]]
-[[vi:for]]
-[[tr:for]]
-[[uk:for]]
-[[zh:for]]
+*[[Help:Link|About Links]]
+*[[List of cities by country#Morocco|
+Cities in Morocco]]
