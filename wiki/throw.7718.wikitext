@@ -1,43 +1,65 @@
 ==English==
-
 ===Pronunciation===
-*(''UK'') {{IPA|/θɹəʊ/}}
-*(''US'') {{IPA|/θɻoʊ/}}
+*{{italbrac|UK}}: {{IPA|/θɹəʊ/}}
+*{{italbrac|US}}: {{IPA|/θɻoʊ/}}
 *{{audio|en-us-throw.ogg|Audio (US)}}
-*:Rhymes: [[Rhymes:English:-əʊ|-əʊ]]
+*{{rhymes|əʊ}}
+*'''Homophones''': [[throe]]
 
 ===Etymology 1===
-Old English ''[[þrawan|þrāwan]]'' ‘to twist or turn’, from Germanic ''*þrǣ-'', from Indo-European ''*ter-'' ‘to rub, rub by twisting, twist, turn’.  Cognate with Dutch ''[[draaien]]'', German ''[[drehen]]''.
+{{OE.}} ''[[þrawan|þrāwan]]'', to twist, to turn, from [[Germanic]] *''þrǣ-'', from [[Indo-European]] *''ter-'' to rub, to rub by twisting, to twist, to turn. Cognate with Dutch ''[[draaien]]'', German ''[[drehen]]''.
 
 ====Verb====
 {{en-verb|throws|throwing|threw|thrown}}
 
-# To make an [[object]] [[fly]] through the [[air]].
-# To [[eject]] or cause to fall off.
-#: '''''throw''' a shoe; throw a rod''
-# To move to another [[position]]; [[displace]].
+#{{context|transitive}} To cause an [[object]] to move [[rapidly]] through the [[air]].
+#{{context|transitive}} To [[eject]] or cause to fall off.
+#:'''''throw''' a shoe''
+#:'''''throw''' a rod''
+#:''the horse '''threw''' its rider''
+#{{context|transitive}} To move to another [[position]]; to [[displace]].
 #: '''''throw''' the switch''
-# (''ceramics'') To make a [[pot]] by shaping [[clay]] as it turns on a [[wheel]].
-#: ''to '''throw''' a pot''
-# {{Cricket}} Of a [[bowler]], to [[deliver]] the ball [[illegal]]ly by [[straighten]]ing the [[bowling]] arm during delivery.
-# {{computing}} To interrupt normal processing by sending an error to an [[exception-handling]] mechanism.
+#{{italbrac|ceramics}} To make (a [[pot]]) by shaping [[clay]] as it turns on a [[wheel]].
+#{{context|transitive|cricket}} Of a [[bowler]], to [[deliver]] (the ball) [[illegally]] by [[straighten]]ing the [[bowling]] arm during delivery.
+#{{context|transitive|computing}} To send (an [[error]]) to an [[exception-handling]] mechanism in order to [[interrupt]] normal [[processing]].
 #:''If the file is readonly, the method '''throws''' an invalid operation exception.''
+<!--this is C++ or some other programming language; it's not English!
 #:<code>''if(this.IsReadonly)''</code>
-#::<code>'''''throw''' new System.InvalidOperationException("Cannot write to readonly file.");''</code>
+#::<code>'''''throw''' new System.InvalidOperationException("Cannot write to readonly file.");''</code>-->
+
+=====Synonyms====
+*(''cause an object to move rapidly through the air''): [[fire]], [[hurl]], [[project]], [[shoot]], [[toss]]
+*(''eject or cause to fall off''): [[eject]], throw off
+*(''move to another position''): [[displace]], [[relocate]]
+
+=====Derived terms=====
+''See also'' ''''[[throwing]]'''<!--eg, "throwing arm"-->
+*[[overthrow]]
+*[[throw a fit]]
+*[[throw away]]
+<!--"throw-away" (adjective) is derived from "throw away"-->
+*[[throw a wobbly]]
+*[[throwback]]
+*[[throw down the gauntlet]]
+*[[throw in the sponge]], [[throw in the towel]]
+*[[throw shapes]]
+*[[throw up]]
 
 =====Translations=====
-{{trans-top|To make an object fly through the air}}
+{{trans-top|cause an object to move rapidly through the air}}
 *Dutch: [[werpen]], [[gooien]], [[smijten]]
 *Finnish: [[heittää]], [[viskata]]
+*French: [[jeter]], [[lancer#French|lancer]]
 *Hebrew: {{he-translation|לזרוק|lizrók}}, {{he-translation|להעיף|leha`íf}}
 {{trans-mid}}
-*Jèrriais: [[souîndgi]]
+*Italian: [[gettare]], [[lanciare]]
+*[[Jèrriais]]: [[souîndgi]]
 *Russian: [[бросать]] (brosát’) {{impf}}, [[бросить]] (brósit’) {{pf}}, [[кидать]] (kidát’) {{impf}}, [[кинуть]] (kínut’) {{pf}}, [[метать]] (m'etát’) {{impf}}, [[метнуть]] (m'etnút’) {{pf}}, [[швырять]] (švyr'át’) {{impf}}, [[швырнуть]] (švyrnút’) {{pf}}
 *Slovene: [[vreči]]
 *Swahili: [[kutupa]]
 {{trans-bottom}}
 
-{{trans-top|To eject or cause to fall off}}
+{{trans-top|eject or cause to fall off}}
 *Dutch: [[afwerpen]]
 *Finnish: [[paiskata]] [[maahan]]
 *Hebrew: {{he-translation|לזרוק|lizrók}}, {{he-translation|להעיף|leha`íf}}
@@ -45,41 +67,38 @@ Old English ''[[þrawan|þrāwan]]'' ‘to twist or turn’, from Germanic ''*þ
 *Russian: [[сбрасывать]] (sbrásyvat’) {{impf}}, [[сбросить]] (sbrósit’) {{pf}}, [[скидывать]] (skídyvat’) {{impf}}, [[скинуть]] (skínut’) {{pf}}
 {{trans-bottom}}
 
-{{trans-top|To move to another position}}
+{{trans-top|move to another position}}
 *Dutch: [[omgooien]]
+*French: [[déplacer]], [[bouger]]
 {{trans-mid}}
 *Russian: [[переключать]] (p'er'ekl'učát') {{impf}}, [[переключить]] (p'er'ekl'učít') {{pf}}
 {{trans-bottom}}
 
-{{trans-top|To make a pot by shaping clay as it turns on a wheel}}
+{{trans-top|make (a pot) by shaping clay as it turns on a wheel}}
 *Dutch: [[kleien]]
 *Finnish: [[valaa]]
 {{trans-mid}}
 *Russian: [[лепить]] (l'epít') {{impf}}, [[слепить]] (sl'epít') {{pf}}
 {{trans-bottom}}
 
-{{trans-top|Of a bowler, to deliver the ball illegally by straightening the bowling arm during delivery}}
+{{trans-top|of a bowler, to deliver (the ball) illegally by straightening the bowling arm during delivery}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|To interrupt normal processing by sending an error to an exception-handling mechanism}}
-*Finnish: [[heittää]]
+{{trans-top|computing: send (an error) to an exception-handling mechanism}}
 {{trans-mid}}
 {{trans-bottom}}
 
 ======Translations to be checked======
 {{checktrans}}
-{{top}}
 *{{ttbc|Arabic}}: {{ARchar|[[رمى]]}} {{IPAchar|(rámma)}}
 *{{ttbc|Chinese}}: [[扔]] (rēng)
 *{{ttbc|Esperanto}}: [[ĵeti]]
-*{{ttbc|French}}: [[jeter]], [[lancer]]
+*{{ttbc|Finnish}}: [[heittää]]
 *{{ttbc|German}}: [[werfen]]
 *{{ttbc|Hungarian}}: [[dobni]]
 *{{ttbc|Indonesian}}: [[lempar|melempar]], [[lontar|melontarkan]]
-*{{ttbc|Italian}}: [[gettare]]
 *{{ttbc|Japanese}}: [[投げる]] ([[なげる]], nageru)
-{{mid}}
 *{{ttbc|Korean}}: [[던지다]] (deonjida)
 *{{ttbc|Kurdish}}: [[avêtin]]
 *{{ttbc|Latin}}: [[iacere]]
@@ -88,7 +107,6 @@ Old English ''[[þrawan|þrāwan]]'' ‘to twist or turn’, from Germanic ''*þ
 *{{ttbc|Spanish}}: [[arrojar]], [[lanzar]]
 *{{ttbc|Swedish}}: [[kasta]]
 *{{ttbc|Telugu}}: [[విసురు]] (visuru)
-{{bottom}}
 
 ====Noun====
 {{en-noun}}
@@ -96,35 +114,35 @@ Old English ''[[þrawan|þrāwan]]'' ‘to twist or turn’, from Germanic ''*þ
 # The [[flight]] of a thrown object; as, a fast throw.
 # A [[distance]] [[travel]]led; [[displace]]ment; as, the throw of the piston.
 # A piece of [[fabric]] used to cover a bed, sofa or other soft furnishing.
-# A single instance, occurance, venture, or chance.
+#{{rfv-sense}} A single instance, occurrence, venture, or chance.
 #:''Football tickets are expensive at fifty bucks a '''throw'''.''
 
 =====Translations=====
-{{trans-top|The flight of a thrown object}}
+{{trans-top|flight of a thrown object}}
 *Dutch: [[worp]] {{m}}, [[gooi]] {{m}}
 *Esperanto: [[ĵeto]]
 *Finnish: [[heitto]]
 *Hebrew: {{he-translation|זריקה|zriká}} {{f}}
 {{trans-mid}}
-*French: [[jet]] {{m}}, [[lancement]] {{m}}
+*French: [[jet#French|jet]] {{m}}, [[lancement]] {{m}}
 *Russian: [[бросок]] (brosók) {{m}}
-*Slovene: [[met]] {{m}}
+*Slovene: [[met#Slovene|met]] {{m}}
 *Spanish: [[lanzamiento]] {{m}}
 {{trans-bottom}}
 
-{{trans-top|A distance travelled}}
+{{trans-top|a distance travelled}}
 *Dutch: [[verplaatsing]] {{f}}
 {{trans-mid}}
 *Russian: [[бросок]] (brosók) {{m}}
 {{trans-bottom}}
 
-{{trans-top|A piece of fabric used to cover a bed, sofa or other soft furnishing}}
+{{trans-top|piece of fabric used to cover a bed, sofa or other soft furnishing}}
 *Finnish: [[peite]], [[päällinen]], [[peitto]]
 {{trans-mid}}
 *Russian: [[покрывало]] (pokryválo) {{n}}
 {{trans-bottom}}
 
-{{trans-top|A single instance, occurance, venture, or chance}}
+{{trans-top|single instance, occurrence, venture, or chance}}
 *Finnish: [[kappale]]
 {{trans-mid}}
 {{trans-bottom}}
@@ -133,7 +151,7 @@ Old English ''[[þrawan|þrāwan]]'' ‘to twist or turn’, from Germanic ''*þ
 *Krueger, Dennis (December 1982). "Why On Earth Do They Call It Throwing?" ''Studio Potter'' Vol. 11, Number 1.[http://www.studiopotter.org/articles/?art=art0001]
 
 ===Etymology 2===
-Old English ''[[þrag|þrāg]]'', of unknown origin.
+{{OE.}} ''[[þrag|þrāg]]'', of unknown origin.
 
 ====Noun====
 {{en-noun}}
