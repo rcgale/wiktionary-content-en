@@ -22,12 +22,12 @@
 # {{complang}} A [[parameter]] in a function definition; a [[formal argument]].
 # A summary or short statement of the plot or chief points of  a book.
 
-====Usage====
+====Usage notes====
 *({{complang}} formal argument) The use of the word '''argument''' without '''formal''' as a qualifier is common, but is a loose usage. [[parameter|Parameter]] is more correct.
 
 ====Synonyms====
 *{{complang}} ''(value)'' [[actual argument]]
-*{{complang}} [[parameter]] 
+*{{complang}} [[parameter]]
 
 ====Related terms====
 *[[argue]]
@@ -36,7 +36,7 @@
 *[[argumentation]]
 
 ====Translations====
-{{top|A fact or statement used to support a proposition; a reason}}
+{{trans-top|A fact or statement used to support a proposition; a reason}}
 *[[Breton]]: [[arguz]] {{m}}, arguzoù {{p}}
 *[[Catalan]]: argument {{m}}
 *Finnish: [[argumentti]]
@@ -44,16 +44,16 @@
 *German: [[Argument]] {{n}}
 *Hebrew: [[טענה]] (t'a'ana) {{f}}; [[טיעון]] (t'i'un) {{m}}
 *Portuguese: [[argumento]] {{m}}
-{{mid}}
+{{trans-mid}}
 *Italian: [[argomento]] {{m}}
 *Latin: [[argumentum]] {{n}}
 *Russian: [[обоснование]] (obosnovánije) {{n}}
 *Slovene: [[prepir]] {{m}}, [[spor]] {{m}}
 *Swedish: [[#Swedish|argument]] {{n}}
 *Turkish: [[sav]]
-{{bottom}}
+{{trans-bottom}}
 
-{{top|A verbal dispute; a quarrel}}
+{{trans-top|A verbal dispute; a quarrel}}
 *[[Breton]]: [[tabut]] {{m}}, tabutoù {{p}}
 *[[Catalan]]: [[disputa]] {{f}}
 *Dutch: [[ruzie]] {{f}}
@@ -62,47 +62,45 @@
 *German: [[Streit]] {{m}}
 *Hebrew: [[ויכוח]] (vikuakh) {{m}}
 *Italian: [[discussione]] {{f}}
-{{mid}}
+{{trans-mid}}
 *Japanese: [[論争]] (ronsō)
 *Portuguese: [[discussão]] {{f}}
 *Russian: [[спор]] (spor) {{m}}
 *Slovene: [[prepir]] {{m}}, [[spor]] {{m}}
 *Swedish: [[argumentation]] {{c}}, [[diskussion]] {{c}}
 *Turkish: [[tartışma]]
-{{bottom}}
+{{trans-bottom}}
 
-{{top|A process of reasoning}}
+{{trans-top|A process of reasoning}}
 *[[Breton]]: [[arguzenn]] {{f}}, arguzennoù {{p}}
 *[[Catalan]]: [[argumentació]] {{f}}
 *Finnish: [[väittely]], [[perustelu]]
 *French: [[argumentation]] {{f}}
 *German: [[Argumentation]] {{f}}
-{{mid}}
+{{trans-mid}}
 *Latin: [[argumentatio]] {{f}}
 *Portuguese: [[argumentação]] {{f}}
 *Russian: [[аргумент]] (argumént) {{m}}
 *Swedish: [[argumentation]] {{c}}
-{{bottom}}
+{{trans-bottom}}
 
-;An independent variable
-{{top}}
-{{mid}}
+{{trans-top|An independent variable}}
+{{trans-mid}}
 *Swedish: [[#Swedish|argument]] {{n}}
-{{bottom}}
+{{trans-bottom}}
 
-;A variable that is being passed to a function 
-{{top}}
+{{trans-top|A variable that is being passed to a function}}
 *[[Catalan]]: argument {{m}}
 *Dutch: argument {{n}}
 *Finnish: [[argumentti]]
 *French: [[#French|argument]] {{m}}
-{{mid}}
+{{trans-mid}}
 *Japanese: {{JAchar|[[引数]]}} (hikisū)
 *Russian: [[аргумент]] (argumént) {{m}}
 *Swedish: [[#Swedish|argument]] {{n}}
-{{bottom}}
+{{trans-bottom}}
 
-=====Translations to be categorized=====
+=====Translations to be checked=====
 {{checktrans}}
 {{top}}
 *{{ttbc|Interlingua}}: [[argumento]]
@@ -116,24 +114,28 @@
 [[Category:1000 English basic words]]
 
 ----
+
 ==French==
+
 ===Etymology===
 From {{L.}} ''[[argumentum]]'' (verb ''[[arguere]]'')
 
 ===Noun===
 {{fr-noun|m}}
-#[[#Noun|argument]]
+
+# [[#Noun|argument]]
 
 ----
 
 ==Swedish==
+
 ===Noun===
 {{sv-noun-n-zero}}
 '''argument'''
 
-#[[#English|argument]]; a reason
-#{{sv-mathematics}} argument; an independent variable passed to a function
-#{{sv-complang}} argument; variable passed to a function
+# [[#English|argument]]; a reason
+# {{sv-mathematics}} argument; an independent variable passed to a function
+# {{sv-complang}} argument; variable passed to a function
 
 [[ar:argument]]
 [[de:argument]]
