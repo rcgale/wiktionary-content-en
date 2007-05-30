@@ -1,50 +1,22 @@
-== Icelandic ==
+==Icelandic==
 
-=== Noun ===
-
+===Noun===
 '''hönd''' {{f}}
 
 # [[hand]]
 
-[[Category:Icelandic nouns]]
-
 ====Declension====
-{| id=toc style="margin-left: 15px;"
-|- style="text-align:center;"
-|width=30px| 
-|width=80px colspan="2"| Singular
-|width=80px colspan="2"| Plural
-|- style="text-align:center;"
-|width=30px|
-|bgcolor="#ffffff"| Indefinite
-|bgcolor="#efefef"| Definite
-|bgcolor="#ffffff"| Indefinite
-|bgcolor="#efefef"| Definite
-|- style="text-align:center;"
-| Nominative
-|bgcolor="#ffffff"| hönd
-|bgcolor="#efefef"| höndin
-|bgcolor="#ffffff"| hendur
-|bgcolor="#efefef"| hendurnar
-|- style="text-align:center;"
-| Accusative
-|bgcolor="#ffffff"| hönd
-|bgcolor="#efefef"| höndina
-|bgcolor="#ffffff"| hendur
-|bgcolor="#efefef"| hendurnar
-|- style="text-align:center;"
-| Dative
-|bgcolor="#ffffff"| hendi
-|bgcolor="#efefef"| hendinni
-|bgcolor="#ffffff"| höndum
-|bgcolor="#efefef"| höndunum
-|- style="text-align:center;"
-| Genitive
-|bgcolor="#ffffff"| handar
-|bgcolor="#efefef"| handarinnar
-|bgcolor="#ffffff"| handa
-|bgcolor="#efefef"| handanna
-|}
+{{is-decl-noun|hönd|hönd|hendi|handar
+|höndin|höndina|hendinni|handarinnar
+|hendur|hendur|höndum|handa
+|hendurnar|hendurnar|höndunum|handanna}}
+
+====Derived terms====
+*[[handbolti]]
+*[[handleggur]]
+*[[handsterkur]]
+
+[[Category:Icelandic nouns]]
 
 [[ca:hönd]]
 [[es:hönd]]
