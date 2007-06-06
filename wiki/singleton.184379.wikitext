@@ -1,43 +1,61 @@
-==English==
-===Noun===
 {{wikipedia}}
-'''singleton''' (plural: '''singletons''')
-# (''playing cards'') A [[playing card]] that is the only one of its [[suit]] in a [[hand]], especially at [[bridge]]
-# a [[single]] [[object]], especially one of a [[group]]
-# (''computer science'') A [[w:design pattern (computer science)|design pattern]] to force a [[w:class (computer science)|class]] to have no more than one instance at any given time
-# (''computer science'') A [[w:class (computer science)|class]] that may not be instantiated more than once at a time
-# (''math'') [[set]] with just one element
+==English==
 
-===See Also===
-* (''computer science'') [[w:Singleton pattern|singleton pattern]]
+===Noun===
+{{en-noun}}
+
+# {{context|playing cards}} A [[playing card]] that is the only one of its [[suit]] in a [[hand]], especially at [[bridge]].
+# A [[single]] [[object]], especially one of a [[group]].
+# {{context|computer science}} A [[design pattern]] to force a [[class]] to have no more than one [[instance]] at any given time.
+# {{context|computer science}} A [[class]] that may not be [[instantiate]]d more than once at a time, i.e. that [[implement]]s the singleton design pattern.
+# {{context|math}} A [[set]] with just one [[element]].
+
+====Derived terms====
+* {{italbrac|design pattern}} [[w:Singleton pattern|singleton pattern]]
 
 ====Translations====
-'''a playing card'''
-{{top}}
-{{mid}}
-{{bottom}}
+{{trans-top|playing card}}
+*Dutch: {{t|nl|bloot|alt=blote}} {{t|nl|kaart|f}}, {{t|nl|singleton|m}}
+{{trans-mid}}
+{{trans-bottom}}
 
-'''single object'''
-{{top}}
-{{mid}}
-* Finnish: [ainokainen]
-{{bottom}}
+{{trans-top|single object}}
+*Dutch: {{t|nl|enkeling|m}}
+{{trans-mid}}
+* Finnish: {{t|fi|ainokainen}}
+{{trans-bottom}}
 
-'''A design pattern'''
-{{top}}
-{{mid}}
-{{bottom}}
+{{trans-top|design pattern}}
+*Dutch: {{t|nl|singleton|n}}
+{{trans-mid}}
+{{trans-bottom}}
 
-'''A class'''
-{{top}}
-{{mid}}
-{{bottom}}
+{{trans-top|class}}
+*Dutch: {{t|nl|singleton|n}}
+{{trans-mid}}
+{{trans-bottom}}
 
-'''set'''
-{{top}}
-{{mid}}
-* Portuguese: conjunto unitário
-{{bottom}}
+{{trans-top|set}}
+*Dutch: {{t|nl|singleton|n}}, {{t|nl|eenelementig|alt=eenelementige}} {{t|nl|verzameling|f}}
+{{trans-mid}}
+* Portuguese: {{t|pt|conjunto}} {{t|pt|unitário}}
+{{trans-bottom}}
+
+----
+
+==Dutch==
+
+===Pronunciation===
+* {{IPA|siŋɘltɔn}}
+
+===Noun===
+{{nl-noun2|m|s|netje}}
+
+# A [[#English|singleton]] (lone playing card).
+
+{{nl-noun2|n|s|netje}}
+
+# A [[#English|singleton]] (design pattern, class, set).
 
 [[fr:singleton]]
 [[pt:singleton]]
