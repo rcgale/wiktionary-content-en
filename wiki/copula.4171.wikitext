@@ -12,15 +12,16 @@
 {{en-noun}}
 
 # {{grammar}} An [[auxiliary verb]] that shows [[equivalence]].  (e.g. [[is]])
-# {{statistics}} A measure of association between two or more variables, independent of the individual marginal distributions of the variables.  Sklar's theorem states this is always possible, and if the marginal distributions are continuous, then the copula is unique.  Basically, the copula density plots the quantiles of the variable against each other, and the copula C(x1,x2,...)=Integral from (0,0,0...) to (X1=x1,X2=x2,...) of the copula density.  The copula is always a number between zero and one.  If the marginals are Gaussian and you use a Gaussian copula, you get a correlation. 
+# {{statistics}} A measure of association between two or more variables, independent of the individual marginal distributions of the variables.  Sklar's theorem states this is always possible, and if the marginal distributions are continuous, then the copula is unique.  Basically, the copula density plots the quantiles of the variable against each other, and the copula C(x1,x2,...)=Integral from (0,0,0...) to (X1=x1,X2=x2,...) of the copula density.  The copula is always a number between zero and one.  If the marginals are Gaussian and you use a Gaussian copula, you get a correlation.
 
 ===Translations===
+{{rfc-level|Translations at L3+ (AutoFormat would have corrected level of Translations)}}
 {{top}}
 *Bosnian: [[kopula#Bosnian|kopula]] {{f}}
-*Dutch: [[koppelwerkwoord]] ''n''
+*Dutch: [[koppelwerkwoord]] {{n}}
 *Finnish: [[kopula]]
-*French: [[copule]] ''f''
-*German: [[Kopula]] ''n''
+*French: [[copule]] {{f}}
+*German: [[Kopula]] {{n}}
 *Italian: [[copula#Italian|copula]] {{f}}
 {{mid}}
 *Serbian:
@@ -41,12 +42,14 @@
 ----
 
 ==Latin==
+
 ===Etymology===
-For ''coapula'', from '''[[co-]]''' + '''[[apere]]''' “to bond.” 
+For ''coapula'', from '''[[co-]]''' + '''[[apere]]''' “to bond.”
 possibly semitic [[כפל]] ( doubled )
 
 ===Noun===
 '''cōpŭl[[Wiktionary Appendix:Latin first declension|a, -ae]]''' ''f''
+
 # A bond, tie, or other connecting item.
 
 ===Derived terms===
