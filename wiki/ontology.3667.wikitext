@@ -1,12 +1,14 @@
-==English==
-===Etymology===
-From [[Ancient Greek]] '''{{Polytonic|ὄν}}''' (ōn) ‘being’, ‘existing’, ‘essence’ and '''{{Polytonic|λόγος}}''' (logos) ‘account’.
-===Noun===
-'''ontology'''
 {{wikipedia}}
+==English==
+
+===Etymology===
+From {{AGr.}} '''[[ὄν|{{Polytonic|ὄν}}]]''' ([[ōn]]) ‘being’, ‘existing’, ‘essence’ and '''[[λόγος|{{Polytonic|λόγος}}]]''' (logos) ‘account’.
+
+===Noun===
+{{en-noun|ontolog|ies}}
 #The [[science]] of [[being]].
-#(Philosophy) The branch of [[metaphysics]] that addresses the [[nature]] or [[essential]] [[characteristic]]s of existence and of things that exist.
-#(Computer Science) A [[structure]] of [[concept]]s or [[entity|entities]] within a [[domain]], organized by [[relationship]]s; a system [[model]].
+#{{philosophy}} The branch of [[metaphysics]] that addresses the [[nature]] or [[essential]] [[characteristic]]s of existence and of things that exist.
+#(''computer science'') A [[structure]] of [[concept]]s or [[entity|entities]] within a [[domain]], organized by [[relationship]]s; a system [[model]].
 
 ====Derived terms====
 *[[ontologic]]
@@ -14,14 +16,28 @@ From [[Ancient Greek]] '''{{Polytonic|ὄν}}''' (ōn) ‘being’, ‘existing�
 *[[ontologist]]
 *[[ontologistic]]
 
+====Related terms====
+*[[ontic]]
+*[[ontically]]
+
 ====Translations====
+{{trans-top|the science of being}}
 *Dutch: [[ontologie]]
 *Chinese: [[本体论]] 
-*Italian: [[ontologia]] ''f''
-*German: [[Ontologie]] ''f''
-*Spanish: [[Ontología]] ''f''
+*Italian: [[ontologia]] {{f}}
+{{trans-mid}}
+*German: [[Ontologie]] {{f}}
+*Norwegian: {{t-|no|ontologi|m}}
+*Spanish: [[ontología]] {{f}}
+{{trans-bottom}}
+
+{{trans-top|a system model}}
+*Norwegian: {{t-|no|ontologi|m}}
+{{trans-mid}}
+{{trans-bottom}}
 
 [[Category:Philosophy]]
+[[Category:Computer science]]
 
 [[io:ontology]]
 [[id:ontology]]
