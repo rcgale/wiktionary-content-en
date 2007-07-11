@@ -10,10 +10,9 @@
 *'''Homophones:''' [[bee]]
 
 ===Etymology 1===
-Originated before 900 from {{ME.}} ''[[been]]'' < {{OE.}} ''[[beon]]'', from ''[[beo]]'' + ''[[-n]]'' (infinitive suffix). Irregular forms inherited from the {{OE.}} compound verb ''[[beon-wesan|bēon-wesan]]''.
+Originated before 900 from {{ME.}} ''[[been#Middle English|been]]'' < {{OE.}} ''[[beon]]'', from ''[[beo]]'' + ''[[-n]]'', infinitive suffix. Irregular forms inherited from the {{OE.}} compound verb ''[[beon-wesan|bēon-wesan]]''.
 
 ====Verb====
-
 =====Inflection=====
 {| class="prettytable"
 |-
@@ -44,10 +43,11 @@ Originated before 900 from {{ME.}} ''[[been]]'' < {{OE.}} ''[[beon]]'', from ''[
 | [[were]]
 |-
 ! Second-person singular
-| [[are]] ''or obsolete'' [[art]]
-| [[were]] ''or obsolete'' [[wast]]
-| be ''or obsolete'' [[beest]]
-| [[were]] ''or obsolete'' [[wert]]
+<!--note that "art", "wast" and "wert" are archaic, not obsolete, as they are still found in texts such as the Bible and are still well known-->
+| [[are]], [[art]] (''archaic'')
+| [[were]], [[wast]] (''archaic'')
+| be, [[beest]] (''obsolete'')
+| [[were]], [[wert]] (''archaic'')
 |-
 ! Third-person singular
 | [[is]]
@@ -74,100 +74,176 @@ Originated before 900 from {{ME.}} ''[[been]]'' < {{OE.}} ''[[beon]]'', from ''[
 | [[were]]
 |}
 
-====Intransitive====
-{{rfc-header|Intransitive}}
-# To [[occupy]] a [[place]].
-# To [[occur]], to take place.
-# Without [[predicate]]: To [[exist]].
-# Without [[predicate]]: [[ellipsis]] for "be here" or similar.
-#: ''The postman '''has been''' today, but my tickets have still not yet come.''
-
-====Transitive====
-# {{italbrac-colon|[[copula|copular]]}} indicates that the subject and object are the same.
+#{{intransitive}} To [[occupy]] a [[place]].
+#:''The cup '''is''' on the table.''
+#{{intransitive}} To [[occur]], to take place.
+#:''When will the meeting '''be'''?''
+#{{intransitive}} (''without [[predicate]]'') To [[exist]].
+#{{intransitive}} (''without predicate'') [[elliptical]] form of for "be here", "go to and return from" or similar.
+#: ''The postman has '''been''' today, but my tickets have still not yet come.''
+#: ''I have '''been''' to Spain many times.''
+# {{italbrac|transitive|[[copular]]}} Used to indicate that the subject and object are the same.
 #: ''Ignorance '''is''' bliss.''
-# {{italbrac-colon|[[copula|copular]]}} indicates that the subject plays the role of the object.
+# {{italbrac|transitive|copular|mathematics}} Used to indicate that the values on either side of an equation are the same.
+#: ''3 times 5 is fiften.''
+# {{italbrac|transitive|copular}} Used to indicate that the subject plays the role of the object.
 #: ''François Mitterrand '''was''' president of France from 1981 to 1995''
-# {{italbrac-colon|[[copula|copular]]}} connects a noun to an adjective describing it.
+# {{italbrac|transitive|copular}} Used to connect a noun to an adjective that describes it.
 #: ''The sky '''is''' blue.''
-# {{italbrac-colon|[[copula|copular]]}} indicates that the subject has the qualities described by a noun or noun phrase.
+# {{italbrac|transitive|copular}} Used to indicate that the subject has the qualities described by a noun or noun phrase.
 #: ''The sky '''is''' a deep blue today.''
-# {{italbrac-colon|[[auxiliary verb|auxiliary]]}} used to form the [[passive voice]].
-#: ''The dog '''was''' drowned in the pond.''
-# {{italbrac-colon|[[auxiliary verb|auxiliary]]}} used to form the continuous forms of the several tenses.
+# {{italbrac|transitive|[[auxiliary]]}} Used to form the [[passive voice]].
+#: ''The dog '''was''' drowned by the boy.''
+# {{italbrac|transitive|auxiliary}} Used to form the continuous forms of various tenses.
 #: ''The woman '''is''' walking.''
-# {{italbrac-colon|[[auxiliary verb|auxiliary]]}} used to form the subjunctive mood.
-#: '''''Be''' she more patient.''
+#: ''I will ''be'' writing to you soon.''
+#: ''It has ''been'' a beautiful day.''
+# {{italbrac|transitive|auxiliary}} Used to form the subjunctive mood.
+#: ''I must insist that you '''be''' quiet.''
 
 =====Translations=====
-{{trans-top|to be}}
-'''Caution!''' ''This verb is fraught with irregularities of both form and usage in many languages. Strict literal translations should be viewed with suspicion.''
+'''Warning!''' ''This verb is fraught with irregularities of both form and usage in many languages. Use translations with caution.''
 
-*Bosnian: [[biti#Bosnian|biti]]
-*Breton: [[bezañ]]
-*Bulgarian: [[съм]] (sǎm)
-*Catalan: [[ser]], [[estar]]
+{{trans-top|occupy a place}}
+*French: {{t|fr|être}}
+*Greek, Modern: {{t|el|είμαι}} (''I am'')
+{{trans-mid}}
+*Italian: {{t|it|essere}}
+*Spanish: {{t|es|estar}}<!--be in a place-->
+{{trans-bottom}}
+
+{{trans-top|occur, take place}}
+*French: {{t|fr|être}}
+{{trans-mid}}
+*Italian: {{t|it|essere}}
+{{trans-bottom}}
+
+{{trans-top|exist}}
+*French: {{t|fr|être}}
+{{trans-mid}}
+*Italian: {{t|it|essere}}
+{{trans-bottom}}
+
+{{trans-top|elliptical form of "be here", or similar}}
+*French: {{t|fr|aller}}, {{t|fr|venir}}
+{{trans-mid}}
+*Italian: {{t|it|andare}}, {{t|it|venire}}
+{{trans-bottom}}
+
+{{trans-top|used to indicate that the subject and object are the same}}
+*French: {{t|fr|être}}
+*Greek, Modern: {{t|el|είμαι}} (''I am'')
+{{trans-mid}}
+*Italian: {{t|it|essere}}
+*Spanish: {{t|es|ser}}
+{{trans-bottom}}
+
+{{trans-top|used to indicate that the values on either side of an equation are the same}}
+*French: [[font#French|font]]
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|used to indicate that the subject plays the role of the object}}
+*French: {{t|fr|être}}
+*Greek, Modern: {{t|el|είμαι}} (''I am'')
+{{trans-mid}}
+*Italian: {{t|it|essere}}
+{{trans-bottom}}
+
+{{trans-top|used to connect a noun to an adjective that describes it}}
+*French: {{t|fr|être}}
+*Greek, Modern: {{t|el|είμαι}} (''I am'')
+{{trans-mid}}
+*Italian: {{t|it|essere}}
+{{trans-bottom}}
+
+{{trans-top|used to indicate that the subject has the qualities described by a noun or noun phrase}}
+*French: {{t|fr|être}}
+*Greek, Modern: {{t|el|είμαι}} (''I am'')
+{{trans-mid}}
+*Italian: {{t|it|essere}}
+{{trans-bottom}}
+
+{{trans-top|used to form the passive voice}}
+*French: {{t|fr|être}}
+*Greek, Modern: ''usually translated using the passive form of the active verb''
+{{trans-mid}}
+*Italian: {{t|it|essere}}
+{{trans-bottom}}
+
+{{trans-top|used to form the continuous forms of various tenses}}
+*French: ''not translated; use the equivalent simple tense, or the imperfect in the past''
+{{trans-mid}}
+*Italian: [[stare#Italian|stare]]
+{{trans-bottom}}
+
+{{trans-top|used to form the subjunctive mood}}
+*French: ''subjunctive of [[être]]''
+{{trans-mid}}
+*French: ''subjunctive of [[essere]]''
+{{trans-bottom}}
+
+======Translations to be checked======
+{{checktrans}}
+*{{ttbc|Bosnian}}: [[biti#Bosnian|biti]]
+*{{ttbc|Breton}}: [[bezañ]]
+*{{ttbc|Bulgarian}}: [[съм]] (sǎm)
+*{{ttbc|Catalan}}: [[ser]], [[estar]]
 *Chinese:
-*:Cantonese: [[係]] (hai6)
-*:Mandarin: [[是]] (shì), [[有]] (yǒu), [[在]] (zài)
-*Croatian: [[biti#Croatian|biti]]
-*Czech: [[být]]
-*Danish: [[være]], [[have]]
-*Dutch: [[zijn]], [[wezen]] (archaic, used in certain idioms and expressions)
-*Esperanto: [[esti]], [[okazi]] (''intransitive verb'' 2), [[ekzisti]] (''intransitive verb'' 3)
-*Estonian: [[olema]]
-*Faroese: [[vera]]
-*Finnish: [[olla]]
-*French: [[être]]
-*German: [[sein]]
-*Gothic: [[𐍅𐌹𐍃𐌰𐌽]]
-*Greek: [[είμαι]] (íme)
-*Greek (Ancient): [[εἰμί]]
-*Hindi: [[होना]] (honā)
-*Hungarian: [[lenni]]
-*Icelandic: [[vera]]
-*Ido: [[esar]], [[existar]]
-*Interlingua: [[esser]], [[ser]]
-*Irish: [[bí]]
-*Italian: [[essere]], [[stare#Italian|stare]]
-*Japanese:
+*:{{ttbc|Cantonese}}: [[係]] (hai6)
+*:{{ttbc|Mandarin}}: [[是]] (shì), [[有]] (yǒu), [[在]] (zài)
+*{{ttbc|Croatian}}: [[biti#Croatian|biti]]
+*{{ttbc|Czech}}: [[být]]
+*{{ttbc|Danish}}: [[være]], [[have]]
+*{{ttbc|Dutch}}: [[zijn]], [[wezen]] (''archaic; used in certain idioms and expressions'')
+*{{ttbc|Esperanto}}: [[esti]], [[okazi]] (''intransitive verb'' 2), [[ekzisti]] (''intransitive verb'' 3)
+*{{ttbc|Estonian}}: [[olema]]
+*{{ttbc|Faroese}}: [[vera]]
+*{{ttbc|Finnish}}: [[olla]]
+*{{ttbc|German}}: [[sein]]
+*{{ttbc|Gothic}}: [[𐍅𐌹𐍃𐌰𐌽]]
+*{{ttbc|Greek (Ancient)}}: [[εἰμί]]
+*{{ttbc|Hindi}}: [[होना]] (honā)
+*{{ttbc|Hungarian}}: [[lenni]]
+*{{ttbc|Icelandic}}: [[vera]]
+*{{ttbc|Ido}}: [[esar]], [[existar]]
+*{{ttbc|Interlingua}}: [[esser]], [[ser#Interlingua|ser]]
+*{{ttbc|Irish}}: [[bí]]
+*{{ttbc|Japanese}}:
 *:{{italbrac|auxiliary|copula}} [[だ]] (da, ''informal''), [[です]] (desu, ''semi-formal'')
 *:{{italbrac|existence}} [[有る]] (ある, aru, ''inanimate''); [[居る]] (いる, iru, ''animate'')
-{{trans-mid}}
-*Korean: [[이다]] (ida) (''copula''), [[있다]] (itta) (''to exist'')
-*Kurdish: [[bûn]]
-*Latin: [[esse]] (''usu. cited by its 1st-p. sg form'' [[sum]])
-*Lithuanian: [[būti]]
-*Macedonian: [[сум]]
-*Maltese: [[nkun]], [[tkun]]
-*Manx: [[bee]]
-*Norwegian: [[være]]
-*Novial: [[es]]
-*Occitan: [[èsser]]
-*Old Church Slavonic: [[бъіти]] (bŭĭti)
-*Old English: [[beon-wesan|bēon-wesan]]
-*Old Norse: [[vera]]
-*Persian: {{FAchar|[[بودن]]}} (budan)
-*Polish: [[być]]
-*Portuguese: [[ser]] (''intransitive'' '''2'''-'''3'''; ''transitive'' '''1'''-'''5''', '''7'''); [[estar]] (''intransitive'' '''1''','''4'''; ''transitive'' '''3'''-'''7''')
-*Romanian: [[fi]]
-*Russian: [[быть]] (byt’) (intransitive verb 1-2, auxilary verb 1) (usually omitted), [[являться]] (javlját’sja) (copular verb 1), [[существовать]] (suščestvovát’) (intransitive verb 3)
-*Serbian:
-*:Cyrillic: [[бити]]
-*:Roman: [[biti#Serbian|biti]]
-*Slovak: [[byť]]
-*Slovene: [[biti]]
-*Spanish: [[ser]], [[estar]] (note: ''ser'' and ''estar'' are not interchangeable)
-*Swedish: [[vara]]
-*Vietnamese: [[là]] (usu. omitted when intransitive)
-{{trans-bottom}}
+*{{ttbc|Korean}}: [[이다]] (ida) (''copula''), [[있다]] (itta) (''to exist'')
+*{{ttbc|Kurdish}}: [[bûn]]
+*{{ttbc|Latin}}: [[esse#Latin|esse]] (''usually cited by its first-person singular form'' [[sum#Latin|sum]])
+*{{ttbc|Lithuanian}}: [[būti]]
+*{{ttbc|Macedonian}}: [[сум]]
+*{{ttbc|Maltese}}: [[nkun]], [[tkun]]
+*{{ttbc|Manx}}: [[bee#Manx|bee]]
+*{{ttbc|Norwegian}}: [[være]]
+*{{ttbc|Novial}}: [[es#Novial|es]]
+*{{ttbc|Occitan}}: [[èsser]]
+*{{ttbc|Old Church Slavonic}}: [[бъіти]] (bŭĭti)
+*{{ttbc|Old English}}: [[beon-wesan|bēon-wesan]]
+*{{ttbc|Old Norse}}: [[vera#Old Norse|vera]]
+*{{ttbc|Persian}}: {{FAchar|[[بودن]]}} (budan)
+*{{ttbc|Polish}}: [[być]]
+*{{ttbc|Portuguese}}: [[ser#Portuguese|ser]] (''intransitive'' '''2'''-'''3'''; ''transitive'' '''1'''-'''5''', '''7'''); [[estar]] (''intransitive'' '''1''','''4'''; ''transitive'' '''3'''-'''7''')
+*{{ttbc|Romanian}}: [[fi]]
+*{{ttbc|Russian}}: [[быть]] (byt’) (intransitive verb 1-2, auxilary verb 1) (''usually omitted''), [[являться]] (javlját’sja) (copular verb 1), [[существовать]] (suščestvovát’) (intransitive verb 3)
+*{{ttbc|Serbian}}: Cyrillic: [[бити]]; Latin: [[biti#Serbian|biti]]
+*{{ttbc|Slovak}}: [[byť]]
+*{{ttbc|Slovene}}: [[biti]]
+*{{ttbc|Spanish}}: [[ser#Spanish|ser]], [[estar]]
+*{{ttbc|Swedish}}: [[vara#Swedish|vara]]
+*{{ttbc|Vietnamese}}: [[là#Vietnamese|là]] (''usually omitted when intransitive'')
 
 ===Etymology 2===
 Abbreviation of ''[[Belgium]]''.
 
-===={{initialism}}====
+===={{abbreviation}}====
 '''be'''
 
-# [[Belgium]].
+# {{context|Internet}} The [[country code]] for [[Belgium]].
 
 ===Etymology 3===
 Abbreviation of ''[[Belarusian]]''.
