@@ -133,27 +133,27 @@ Compare Catalan ''os'', Interlingua ''[[osso]]'', Italian ''[[osso]]'', Portugue
 !style="background:#C0C0C0;"| '''singular'''
 !style="background:#C0C0C0;"| '''plural'''
 |-
-!style="background:#C0C0C0;"| '''Nominative'''
+!style="background:#C0C0C0;"| {{nom}}
 |style="background:#F5F5F5;"| {{Notred|os|ōs}}
 |style="background:#F5F5F5;"| {{Notred|ora#Latin|ōra}}
 |-
-!style="background:#C0C0C0;"| '''Genitive'''
+!style="background:#C0C0C0;"| {{gen}}
 |style="background:#F5F5F5;"| {{Notred|oris#Latin|ōris}}
 |style="background:#F5F5F5;"| 
 |-
-!style="background:#C0C0C0;"| '''Dative'''
+!style="background:#C0C0C0;"| {{dat}}
 |style="background:#F5F5F5;"| {{Notred|ori#Latin|ōrī}}
 |style="background:#F5F5F5;"| {{Notred|oribus#Latin|ōribus}}
 |-
-!style="background:#C0C0C0;"| '''Accusative'''
+!style="background:#C0C0C0;"| {{acc}}
 |style="background:#F5F5F5;"| {{Notred|os|ōs}}
 |style="background:#F5F5F5;"| {{Notred|ora#Latin|ōra}}
 |-
-!style="background:#C0C0C0;"| '''Ablative'''
+!style="background:#C0C0C0;"| {{abl}}
 |style="background:#F5F5F5;"| {{Notred|ore#Latin|ōre}}
 |style="background:#F5F5F5;"| {{Notred|oribus#Latin|ōribus}}
 |-
-!style="background:#C0C0C0;"| '''Vocative'''
+!style="background:#C0C0C0;"| {{voc}}
 |style="background:#F5F5F5;"| {{Notred|os|ōs}}
 |style="background:#F5F5F5;"| {{Notred|ora#Latin|ōra}}
 |}
@@ -174,7 +174,35 @@ Compare Catalan ''os'', Interlingua ''[[osso]]'', Italian ''[[osso]]'', Portugue
 
 ====Inflection====
 {{ladecl3n}}
-{{la-decl-3rd-N|os|oss}}
+{| class="prettytable"
+!style="background:#white;"|
+!style="background:#C0C0C0;"| '''singular'''
+!style="background:#C0C0C0;"| '''plural'''
+|-
+!style="background:#C0C0C0;"| {{nom}}
+|style="background:#F5F5F5;"| {{Notred|os|os}}
+|style="background:#F5F5F5;"| {{Notred|ossa#Latin|ossa}}
+|-
+!style="background:#C0C0C0;"| {{gen}}
+|style="background:#F5F5F5;"| {{Notred|ossis#Latin|ossis}}
+|style="background:#F5F5F5;"| {{Notred|ossium#Latin|ossium}}
+|-
+!style="background:#C0C0C0;"| {{dat}}
+|style="background:#F5F5F5;"| {{Notred|ossi#Latin|ossī}}
+|style="background:#F5F5F5;"| {{Notred|ossibus#Latin|ossibus}}
+|-
+!style="background:#C0C0C0;"| {{acc}}
+|style="background:#F5F5F5;"| {{Notred|os|os}}
+|style="background:#F5F5F5;"| {{Notred|ossa#Latin|ossa}}
+|-
+!style="background:#C0C0C0;"| {{abl}}
+|style="background:#F5F5F5;"| {{Notred|osse#Latin|osse}}
+|style="background:#F5F5F5;"| {{Notred|ossibus#Latin|ossibus}}
+|-
+!style="background:#C0C0C0;"| {{voc}}
+|style="background:#F5F5F5;"| {{Notred|os|ōs}}
+|style="background:#F5F5F5;"| {{Notred|ossa#Latin|ossa}}
+|}
 
 [[category:Latin noun forms]]
 
