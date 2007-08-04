@@ -6,11 +6,16 @@
 ===Symbol===
 '''±'''
 
-# {{math}} The [[plus-minus sign]], meaning either value as a result of [[addition]] or [[subtraction]].
-# {{science}} Indicates the [[tolerance]] or [[statistical]] [[margin of error]] of a quantity.
+# {{science}} The [[plus-minus sign]], indicating the [[tolerance]] or [[statistical]] [[margin of error]] of a quantity.
+# {{math}} Either value as a result of [[addition]] or [[subtraction]].
+#: <math>ax^2+bx+c=0\rArr x=\frac{-b\plusmn\sqrt{b^2-4ac}}{2a}</math>.
 
-===Related terms===
+====Related terms====
 *[[∓]]
+
+====Encoding====
+*[[HTML]]: <tt>&amp;plusmn;</tt>
+*[[TeX]]: <tt>\plusmn</tt>
 
 ===See also===
 {{pedia|plus-minus sign}}
