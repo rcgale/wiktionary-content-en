@@ -1,6 +1,7 @@
 {{rfc|translation sections: what’s with the ‘var’? Shouldn’t all the proto forms have stars? Some languages use wrong script.  Some languages are only dialects.  English doesn’t make a difference between the cases for the pronoun, they should only occur in the translations (but see [[uncle]]).  Check the Danish and Hindi ones.  Polish section.}} <!-- have a look at my edit to see what’s intended -->
 {{wikipedia}}
 {{see|-one}}
+{{rfc-auto}}
 ==English==
 
 {{rank|were|are|their|38|one|so|me|an}}
@@ -9,7 +10,7 @@
 * {{enPR|wŭn}}, {{IPA|/wʌn/}}, {{SAMPA|/wVn/}}
 * {{audio|en-us-one.ogg|Audio (US)}}
 * {{rhymes|ʌn}}
-{{rfp|there must be some AUS/UK/... distinctions here, right?}}
+{{rfp|there must be some AUS/UK/… distinctions here, right?}}
 
 ===Etymology===
 From {{OE.}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto|Germanic|ainaz}}, from {{proto|Indo-European|oinos}}. Cognate with German {{term|ein|lang=de}}, Dutch {{term|een|lang=nl}}/{{term|één|lang=nl}}, French {{term|un|lang=fr}}, Russian {{term|один|lang=ru}}.
@@ -33,68 +34,46 @@ From {{OE.}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto|Germ
 
 ====Translations====
 {{trans-top|first number}}
-*Dutch: {{t|nl|één|f}}
-*Finnish: {{t|fi|yksi}}
-*French: {{t|fr|un}}
-{{trans-mid}}
-*Italian: {{t|it|uno}}
-*German: {{t|de|eins}}
-*Russian: {{t|ru|один|tr=odín}}, {{t|ru|раз|tr=raz}} ''when counting''
-{{trans-bottom}}
-
-{{trans-top|cardinality of the smallest nonempty set}}
-*Dutch: {{t|nl|één|f}}, {{t|nl|een}}
-*Finnish: {{t|fi|yksi}}
-{{trans-mid}}
-*Russian: {{t|ru|один|tr=odín}}
-{{trans-bottom}}
-
-{{trans-top|ordinal number}}
-:''See [[first]] and [[number]]''
-*Russian: {{t|ru|один|tr=odín}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-*{{ttbc|Afrikaans}}: {{t|af|een}}
-*{{ttbc|Ainu}}: [[shine]]
-*{{ttbc|Aka-Be-ada}}: [[u:batu:l]]
-*{{ttbc|Akkadian}}: [[ishten]]
-*{{ttbc|Albanian}}: [[një]]
-*{{ttbc|Alsatian}}: [[eins]]
-*{{ttbc|American Sign Language}}: [[Image:LSQ 1.jpg|100x25px]]
-*{{ttbc|Apache}} (Western): [[dałaá]]
-*{{ttbc|Arabic}}: {{ARchar|[[واحد|وَاحِدٌ]]}} {{unicode|(wáːħid)}} (numeral:{{ARchar|١}})
-*{{ttbc|Aramaic}}:
+*[[Afrikaans]]: {{t|af|een}}
+*[[Ainu]]: [[shine]]
+*[[Aka-Be-ada]]: [[u:batu:l]]
+*[[Akkadian]]: [[ishten]]
+*[[Albanian]]: [[një]]
+*[[Alsatian]]: [[eins]]
+*[[American Sign Language]]: [[Image:LSQ 1.jpg|100x25px]]
+*[[Apache]] (Western): [[dałaá]]
+*[[Arabic]]: {{ARchar|[[واحد|وَاحِدٌ]]}} {{unicode|(wáːħid)}} (numeral:{{ARchar|١}})
+*[[Aramaic]]:
 *:Syriac: [[ܚܕ]] (khad) {{m}}, [[ܚܕܐ]] (khdā, khdo) {{f}}
 *:Hebrew: [[חד]] (khad) {{m}}, [[חדא]] (khdā, khdo) {{f}}
-*{{ttbc|Arapaho}}: [[jaasaaye]]
-*{{ttbc|Armenian}}: [[մեկ]] (mek)
+*[[Arapaho]]: [[jaasaaye]]
+*[[Armenian]]: [[մեկ]] (mek)
 *:Classical Armenian: [[me]]
-*{{ttbc|Assamese}}: [[এক]] (eka)
-*{{ttbc|Asturian}}: [[ún]]
-*{{ttbc|Avestan}}: [[aeva]]
-*{{ttbc|Aymara}}: [[maya]]
-*{{ttbc|Azeri}}: {{FAchar|[[بیر]]}} (bir)
-*{{ttbc|Basque}}: [[bat]]
-*{{ttbc|Bavarian}}: [[oans]]
-*{{ttbc|Bemba}}: [[cimo]]
-*{{ttbc|Bengali}}: {{BNchar|[[এক]]}} (eka) (numeral:{{BNchar|১}})
-*{{ttbc|Blackfoot}}: [[nĭtukskûm]]
-*{{ttbc|Bolognese}}: [[ón]]
-*{{ttbc|Bosnian}}: {{t|bs|jedan}}
-*{{ttbc|Breton}}: [[unan]]
-*{{ttbc|Burushashki}}: [[hin]]
-*{{ttbc|Cabecar}}: [[etku]]
-*{{ttbc|Calabrese}}: [[unu]]
-*{{ttbc|Carib}}: [[o:wiñ]]
-*{{ttbc|Catalan}}: {{t|ca|un}}
-*{{ttbc|Cayapa}}: [[main]]
-*{{ttbc|Cebuano}}: [[usa]]
-*{{ttbc|Chamorro}}: [[unu]]
-*{{ttbc|Cherokee}}: [[ᏌᏊᎢ]] (saquui)
-*{{ttbc|Cheyenne}}: {{IPAchar|[[náʼėstse]]}}
-*{{ttbc|Chibcha}}: [[ata]]
-*{{ttbc|Chinese}}:
+*[[Assamese]]: [[এক]] (eka)
+*[[Asturian]]: [[ún]]
+*[[Avestan]]: [[aeva]]
+*[[Aymara]]: [[maya]]
+*[[Azeri]]: {{FAchar|[[بیر]]}} (bir)
+*[[Basque]]: [[bat]]
+*[[Bavarian]]: [[oans]]
+*[[Bemba]]: [[cimo]]
+*[[Bengali]]: {{BNchar|[[এক]]}} (eka) (numeral:{{BNchar|১}})
+*[[Blackfoot]]: [[nĭtukskûm]]
+*[[Bolognese]]: [[ón]]
+*[[Bosnian]]: {{t|bs|jedan}}
+*[[Breton]]: [[unan]]
+*[[Burushashki]]: [[hin]]
+*[[Cabecar]]: [[etku]]
+*[[Calabrese]]: [[unu]]
+*[[Carib]]: [[o:wiñ]]
+*[[Catalan]]: {{t|ca|un}}
+*[[Cayapa]]: [[main]]
+*[[Cebuano]]: [[usa]]
+*[[Chamorro]]: [[unu]]
+*[[Cherokee]]: [[ᏌᏊᎢ]] (saquui)
+*[[Cheyenne]]: {{IPAchar|[[náʼėstse]]}}
+*[[Chibcha]]: [[ata]]
+*[[Chinese]]:
 *:Standard Chinese (Mandarin): [[一]] (yī)
 *:Cantonese: [[一]] (yat1)
 *:Teochew: [[一]] (ik4, zêg8)
@@ -102,241 +81,251 @@ From {{OE.}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto|Germ
 *:Gan: [[一]] (yit)
 *:Jin: [[一]] (yiu)
 *:Wu: [[一]] (ye)
-*{{ttbc|Chibcha}}: [[ata]]
-*{{ttbc|Chimú}}: [[onäk]]
-*{{ttbc|Choctaw}}: [[ačǎfa]]
-*{{ttbc|Chorti}}: [[inte']]
-*{{ttbc|Chukchi}}: [[-nnen]]
-*{{ttbc|Coche}}: [[kanži]]
-*{{ttbc|Colorado}}: [[mã]], [[mãka]]
-*{{ttbc|Comanche}}: {{IPAchar|[[sʉmʉ]]}}
-*{{ttbc|Cornish}}: [[un]], [[onen]]
-*{{ttbc|Corsican}}: [[unu]]
-*{{ttbc|Cree}}: [[pâyuk]]
-*{{ttbc|Crimean Tatar}}: [[bir]]
-*{{ttbc|Croatian}}: {{t|hr|jedan}}
-*{{ttbc|Czech}}: [[jeden]] {{m}}
-*{{ttbc|Danish}}: [[ett]]
-*{{ttbc|Drehu}}: [[caas]]
-*{{ttbc|Egyptian}}: [[w-'-w]]
-*{{ttbc|Ekegusii}}: [[eyemo]]
-*{{ttbc|Erzya}}: [[вейке]] (vejke)
-*{{ttbc|Esperanto}}: {{t|eo|unu}}
-*{{ttbc|Etruscan}}: [[thu]]
-*{{ttbc|Estonian}}: [[üks]]
-*{{ttbc|Faroese}}: [[eitt]]
-*{{ttbc|Fijian}}: [[dua]]
-*{{ttbc|Fore}}: [[kánoné]]
-*{{ttbc|Frankish}}: [[anne]]
-*{{ttbc|Frisian}}: [[ien]]
-*{{ttbc|Ga}}: [[ekome]]
-*{{ttbc|Gagauz}}: [[bir]]
-*{{ttbc|Galician}}: [[un]]
-*{{ttbc|Gamilaraay}}: maal
-*{{ttbc|Garífuna}}: [[aban]]
-*{{ttbc|Gascon}}: [[iva]]
-*{{ttbc|Gaulish}}: [[oinos]]
-*{{ttbc|Georgian}}: [[ერთი]] (erti)
-*{{ttbc|Gilbertese}}: [[teuana]]
-*{{ttbc|Gilyak}} ([[Nivkh]]): [[nin]]
-*{{ttbc|Gothic}}: [[áins]]
-*{{ttbc|Greek}}: [[ένας]] (énas)
+*[[Chibcha]]: [[ata]]
+*[[Chimú]]: [[onäk]]
+*[[Choctaw]]: [[ačǎfa]]
+*[[Chorti]]: [[inte']]
+*[[Chukchi]]: [[-nnen]]
+*[[Coche]]: [[kanži]]
+*[[Colorado]]: [[mã]], [[mãka]]
+*[[Comanche]]: {{IPAchar|[[sʉmʉ]]}}
+*[[Cornish]]: [[un]], [[onen]]
+*[[Corsican]]: [[unu]]
+*[[Cree]]: [[pâyuk]]
+*[[Crimean Tatar]]: [[bir]]
+*[[Croatian]]: {{t|hr|jedan}}
+*[[Czech]]: [[jeden]] {{m}}
+*[[Danish]]: [[ett]]
+*[[Drehu]]: [[caas]]
+*Dutch: {{t|nl|één|f}}, {{t|nl|een}}
+*[[Egyptian]]: [[w-'-w]]
+*[[Ekegusii]]: [[eyemo]]
+*[[Erzya]]: [[вейке]] (vejke)
+*[[Esperanto]]: {{t|eo|unu}}
+*[[Etruscan]]: [[thu]]
+*[[Estonian]]: [[üks]]
+*[[Faroese]]: [[eitt]]
+*[[Fijian]]: [[dua]]
+*Finnish: {{t|fi|yksi}}
+*[[Fore]]: [[kánoné]]
+*[[Frankish]]: [[anne]]
+*French: {{t|fr|un}}
+*[[Frisian]]: [[ien]]
+*[[Ga]]: [[ekome]]
+*[[Gagauz]]: [[bir]]
+*[[Galician]]: [[un]]
+*[[Gamilaraay]]: maal
+*[[Garífuna]]: [[aban]]
+*[[Gascon]]: [[iva]]
+*[[Gaulish]]: [[oinos]]
+*[[Georgian]]: [[ერთი]] (erti)
+*German: {{t|de|eins}}
+*[[Gilbertese]]: [[teuana]]
+*[[Gilyak]] ([[Nivkh]]): [[nin]]
+*[[Gothic]]: [[áins]]
+*[[Greek]]: [[ένας]] (énas)
 **Clasical Greek: [[heis]]
-*{{ttbc|Guaraní}}: [[peteï]]
-*{{ttbc|Gujarati}}: [[એકડો]] (ekaddo)
-*{{ttbc|Haida}}: [[sgoansiñ]]
-*{{ttbc|Haitian Creole}}: [[en]], [[youn]]
-*{{ttbc|Hausa}}: [[gùdáá]], [[ɗáyá]]
-*{{ttbc|Hawaiian}}: {{IPAchar|[['ekahi|ʻekahi]]}} (var: [[kahi]])
-*{{ttbc|Hebrew}}: [[אחת|אַחַת]] (ákhat) {{f}} {{italbrac|used in counting}}, [[אחד|אֶחָד]] (ékhad) {{m}}
+*[[Guaraní]]: [[peteï]]
+*[[Gujarati]]: [[એકડો]] (ekaddo)
+*[[Haida]]: [[sgoansiñ]]
+*[[Haitian Creole]]: [[en]], [[youn]]
+*[[Hausa]]: [[gùdáá]], [[ɗáyá]]
+*[[Hawaiian]]: {{IPAchar|[['ekahi|ʻekahi]]}} (var: [[kahi]])
+*[[Hebrew]]: [[אחת|אַחַת]] (ákhat) {{f}} {{italbrac|used in counting}}, [[אחד|אֶחָד]] (ékhad) {{m}}
 **[[Classical Hebrew]]: [[ahat]]
-*{{ttbc|Hiligaynon}}: [[isa]]
-*{{ttbc|Hindi}}: [[एक]] (ek) (numeral: १)
-*{{ttbc|Hungarian}}: [[egy]]
-*{{ttbc|Hupa}}: {{IPAchar|[[łaˀ]]}}
-*{{ttbc|Ibo}}: [[otu]]
-*{{ttbc|Icelandic}}: [[einn]]
-*{{ttbc|Indonesian}}: [[satu]]
-*{{ttbc|Ido}}: [[un]]
-*{{ttbc|Interlingua}}: [[un]]
-*{{ttbc|Irish}}: [[aon]] (counting: a h-aon)
-*{{ttbc|Irish Gaelic}}: [[oín]]
-*{{ttbc|Iroquoian}}:
+*[[Hiligaynon]]: [[isa]]
+*[[Hindi]]: [[एक]] (ek) (numeral: १)
+*[[Hungarian]]: [[egy]]
+*[[Hupa]]: {{IPAchar|[[łaˀ]]}}
+*[[Ibo]]: [[otu]]
+*[[Icelandic]]: [[einn]]
+*[[Indonesian]]: [[satu]]
+*[[Ido]]: [[un]]
+*[[Interlingua]]: [[un]]
+*[[Irish]]: [[aon]] (counting: a h-aon)
+*[[Irish Gaelic]]: [[oín]]
+*[[Iroquoian]]:
 **[[Laurentian}}: [[segada]]
-*{{ttbc|Japanese}}: [[一]] ([[いち]], ichí), [[一つ]] ([[ひとつ]], hitótsu)
-*{{ttbc|Javanese}}: [[siji]], [[setunggal]]
+*Italian: {{t|it|uno}}
+*[[Japanese]]: [[一]] ([[いち]], ichí), [[一つ]] ([[ひとつ]], hitótsu)
+*[[Javanese]]: [[siji]], [[setunggal]]
 **Old Javanese: [[tunggul]]
-*{{ttbc|Jersey}}: [[ieune]]
-*{{ttbc|Kalaallisut}}: [[ataaseq]]
-*{{ttbc|Karajá}}: [[sohoji]]
-*{{ttbc|Karelian}}: [[yksi]]
-*{{ttbc|Kazakh}}: [[бір]] (bir)
-*{{ttbc|Khmer}}: {{KMchar|[[មួយ]]}} (muoy)
-*{{ttbc|Kinyarwanda}}: [[rimwe]]
-*{{ttbc|Klallam}}: {{IPAchar|[[nə́c̕uʔ]]}}
-*{{ttbc|Komi}}: {{RUchar|[[ӧтік]]}} (ötïk)
-*{{ttbc|Kongo}}: [[mosi]]
-*{{ttbc|Korean}}: [[하나]] (hana), [[한]] (han) (''adjective''), [[일]] ([[一]], il)
-*{{ttbc|Kurdish}}: [[yek]], [[êk]], {{KUchar|[[یه‌ک]]}}
-*{{ttbc|Kyrgyz}}: [[бир]] (bir)
-*{{ttbc|Lakota}}: {{IPAchar|[[waƞji]]}}; [[wana]]
-*{{ttbc|Latin}}: [[unus|ūnus]]
-*{{ttbc|Latvian}}: [[viens]]
-*{{ttbc|Lithuanian}}: [[vienas]]
-*{{ttbc|Livonian}}: [[ikš]] {{italbrac|old spelling ''[[ykš]]''}}
-*{{ttbc|Lojban}}: [[pa]]
-*{{ttbc|Lombardo}}: [[vun]] {{m}}, [[vuna]] {{f}}
-*{{ttbc|Luganda}}: [[emu]]
-*{{ttbc|Luxembourgish}}: [[een]]
-*{{ttbc|Malagasy}}: [[iray]]
+*[[Jersey]]: [[ieune]]
+*[[Kalaallisut]]: [[ataaseq]]
+*[[Karajá]]: [[sohoji]]
+*[[Karelian]]: [[yksi]]
+*[[Kazakh]]: [[бір]] (bir)
+*[[Khmer]]: {{KMchar|[[មួយ]]}} (muoy)
+*[[Kinyarwanda]]: [[rimwe]]
+*[[Klallam]]: {{IPAchar|[[nə́c̕uʔ]]}}
+*[[Komi]]: {{RUchar|[[ӧтік]]}} (ötïk)
+*[[Kongo]]: [[mosi]]
+*[[Korean]]: [[하나]] (hana), [[한]] (han) (''adjective''), [[일]] ([[一]], il)
+*[[Kurdish]]: [[yek]], [[êk]], {{KUchar|[[یه‌ک]]}}
+*[[Kyrgyz]]: [[бир]] (bir)
+*[[Lakota]]: {{IPAchar|[[waƞji]]}}; [[wana]]
+*[[Latin]]: [[unus|ūnus]]
+*[[Latvian]]: [[viens]]
+*[[Lithuanian]]: [[vienas]]
+*[[Livonian]]: [[ikš]] {{italbrac|old spelling ''[[ykš]]''}}
+*[[Lojban]]: [[pa]]
+*[[Lombardo]]: [[vun]] {{m}}, [[vuna]] {{f}}
+*[[Luganda]]: [[emu]]
+*[[Luxembourgish]]: [[een]]
+*[[Malagasy]]: [[iray]]
 {{trans-mid}}
-*{{ttbc|Maltese}}: [[wieħed]]
-*{{ttbc|Manchu}}: [[emu]]
-*{{ttbc|Manx}}: [['nane]], [[un]], [[unnane]]
-*{{ttbc|Mari}}: [[икыт]] (ikyt)
-*{{ttbc|Maori}}: [[tahi]]
-*{{ttbc|Mapuche}}: [[kiñe]]
-*{{ttbc|Marathi}}: [[एक]] (eka) (numeral: [[१]])
-*{{ttbc|Masaai}}: [[nabo]]
-*{{ttbc|Maricopa}}: [[shenthik]]
-*{{ttbc|Marshallese}}: [[juon]]
-*{{ttbc|Mi'kmaq}}: [[nāookt]]
-*{{ttbc|Minangkabau}}: [[ciek]]
-*{{ttbc|Miwok}}: [[kenne]]
-*{{ttbc|Mohawk}}: [[énska]]
-*{{ttbc|Mongolian}}: [[нэг]] (neg), (nigen)
-*{{ttbc|Mundari}}: [[mid]]
-*{{ttbc|Mundurukú}}: {{IPAchar|[[pĩ̵g̃]]}}
-*{{ttbc|Mycenean Greek}}: [[hemei]]
-*{{ttbc|Nahuatl}}: [[ce]]
-*{{ttbc|Nauruan}}: [[aiquen]]
-*{{ttbc|Navajo}}: [[láa'ii]]
-*{{ttbc|Nengone}}: [[sa]]
-*{{ttbc|Nivkh}} ([[Gilyak]]): [[nin]]
-*{{ttbc|Normand}}: [[eun]]
-*{{ttbc|Norwegian}}:
+*[[Maltese]]: [[wieħed]]
+*[[Manchu]]: [[emu]]
+*[[Manx]]: [['nane]], [[un]], [[unnane]]
+*[[Mari]]: [[икыт]] (ikyt)
+*[[Maori]]: [[tahi]]
+*[[Mapuche]]: [[kiñe]]
+*[[Marathi]]: [[एक]] (eka) (numeral: [[१]])
+*[[Masaai]]: [[nabo]]
+*[[Maricopa]]: [[shenthik]]
+*[[Marshallese]]: [[juon]]
+*[[Mi'kmaq]]: [[nāookt]]
+*[[Minangkabau]]: [[ciek]]
+*[[Miwok]]: [[kenne]]
+*[[Mohawk]]: [[énska]]
+*[[Mongolian]]: [[нэг]] (neg), (nigen)
+*[[Mundari]]: [[mid]]
+*[[Mundurukú]]: {{IPAchar|[[pĩ̵g̃]]}}
+*[[Mycenean Greek]]: [[hemei]]
+*[[Nahuatl]]: [[ce]]
+*[[Nauruan]]: [[aiquen]]
+*[[Navajo]]: [[láa'ii]]
+*[[Nengone]]: [[sa]]
+*[[Nivkh]] ([[Gilyak]]): [[nin]]
+*[[Normand]]: [[eun]]
+*[[Norwegian]]:
 *:Bokmål: [[en]]
 *:Nynorsk: [[ein]]
-*{{ttbc|Novial}}: [[un]]
-*{{ttbc|Occitan}}: [[un]]
-*{{ttbc|Ojibwe}}: [[bezhig]]
-*{{ttbc|Ok}}: [[pau]]
-*{{ttbc|Old Church Slavonic}}: [[jedinu]]
-*{{ttbc|Old English}}: {{t|ang|an|alt=ān}}
-*{{ttbc|Old Germanic}}: [[ainaz]]
-*{{ttbc|Old Icelanic}}: [[einn]]
-*{{ttbc|Old Norse}}: [[einn]]
-*{{ttbc|Old Nubian}}: [[ouer-]]
-*{{ttbc|Old Persian}}: [[aivaka]]
-*{{ttbc|Old Prussian}}: [[ains]]
-*{{ttbc|Old Tupi}}: [[oîepé]]
-*{{ttbc|Oriya}}: [[ଏକ]] (ek)
-*{{ttbc|Oscan}}: [[uinus]]
-*{{ttbc|Ossetian}}: [[иу]] (iu)
-*{{ttbc|Pahlavi}}: [[e:vak]]
-*{{ttbc|Pali}}: [[eka]]
-*{{ttbc|Papago}} ([[O'odham]]): [[hemako]]
-*{{ttbc|Pashto}}: {{FAchar|[[یو]]}} (numeral:{{FAchar|١}})
-*{{ttbc|Persian}}: {{FAchar|[[یک|یِک]]}} (yek) (numeral:{{FAchar|١}})
-*{{ttbc|Phoenecian}}: [['-h -d]]
-*{{ttbc|Plattdeutsch}} ([[Low Saxon]]): [[een]]
-*{{ttbc|Polish}}: [[jeden]]
-*{{ttbc|Portuguese}}: [[um]]
-*{{ttbc|Prakrit}}: [[ekko]]
-*{{ttbc|Proto-Algonquian}}: [[nekotwi]]
-*{{ttbc|Proto-Austronesian}}: [[isa]]
-*{{ttbc|Proto-Bantu-X}}: [[-mó]]
-*{{ttbc|Proto-Berber}}: [[yn]]
-*{{ttbc|Proto-Dravidian}}: [[oru]]
-*{{ttbc|Proto-Eastern}}: [[a:nu]]
-*{{ttbc|Proto-Eskimo}}: [[ataRuciR]]
-*{{ttbc|Proto-Finno-Ugric}}: [[ykte]]
-*{{ttbc|Proto-Indo-European}}: [[oynos]], [[sem]]
-*{{ttbc|Proto-Mayan}}: [[xun]]
-*{{ttbc|Proto-Miwok}}: [[ken.e]]
-*{{ttbc|Proto-Quechua}}: [[suk]]
-*{{ttbc|Proto-Uto-Aztecan}}: [[simayv]]
-*{{ttbc|Provençal}}: [[un]]
-*{{ttbc|Pugliese}}: [[nu]]
-*{{ttbc|Punjabi}}: [[ਇੱਕ]] (ika)
-*{{ttbc|Québécois}} ([[Canadian French]]): [[un]]
-*{{ttbc|Quechua}} (Ecuador): [[shuc]]
-*{{ttbc|Rapanui}}: [[ka tahi]]
-*{{ttbc|Rarotongan}}: {{IPAchar|[[taʼi]]}}
-*{{ttbc|Rohingya}}: [[ek]]
-*{{ttbc|Romanian}}: [[unu]]
-*{{ttbc|Romany}}: [[yek]]
-*{{ttbc|Roviana}}: [[keke]]
-*{{ttbc|Saami}}: [[okta]]
-*{{ttbc|Samoan}}: [[tasi]] (''var:'' [[asi]])
-*{{ttbc|Sanskrit}}: [[एकं]] (eka)
-*{{ttbc|Sardinian}}: [[unu]]
-*{{ttbc|Scottish Gaelic}}: [[aon]]
-*{{ttbc|Sepedi}} (Northern Sotho): [[tee]]
-*{{ttbc|Serbian}}:
+*[[Novial]]: [[un]]
+*[[Occitan]]: [[un]]
+*[[Ojibwe]]: [[bezhig]]
+*[[Ok]]: [[pau]]
+*[[Old Church Slavonic]]: [[jedinu]]
+*[[Old English]]: {{t|ang|an|alt=ān}}
+*[[Old Germanic]]: [[ainaz]]
+*[[Old Icelanic]]: [[einn]]
+*[[Old Norse]]: [[einn]]
+*[[Old Nubian]]: [[ouer-]]
+*[[Old Persian]]: [[aivaka]]
+*[[Old Prussian]]: [[ains]]
+*[[Old Tupi]]: [[oîepé]]
+*[[Oriya]]: [[ଏକ]] (ek)
+*[[Oscan]]: [[uinus]]
+*[[Ossetian]]: [[иу]] (iu)
+*[[Pahlavi]]: [[e:vak]]
+*[[Pali]]: [[eka]]
+*[[Papago]] ([[O'odham]]): [[hemako]]
+*[[Pashto]]: {{FAchar|[[یو]]}} (numeral:{{FAchar|١}})
+*[[Persian]]: {{FAchar|[[یک|یِک]]}} (yek) (numeral:{{FAchar|١}})
+*[[Phoenecian]]: [['-h -d]]
+*[[Plattdeutsch]] ([[Low Saxon]]): [[een]]
+*[[Polish]]: [[jeden]]
+*[[Portuguese]]: [[um]]
+*[[Prakrit]]: [[ekko]]
+*[[Proto-Algonquian]]: [[nekotwi]]
+*[[Proto-Austronesian]]: [[isa]]
+*[[Proto-Bantu-X]]: [[-mó]]
+*[[Proto-Berber]]: [[yn]]
+*[[Proto-Dravidian]]: [[oru]]
+*[[Proto-Eastern]]: [[a:nu]]
+*[[Proto-Eskimo]]: [[ataRuciR]]
+*[[Proto-Finno-Ugric]]: [[ykte]]
+*[[Proto-Indo-European]]: [[oynos]], [[sem]]
+*[[Proto-Mayan]]: [[xun]]
+*[[Proto-Miwok]]: [[ken.e]]
+*[[Proto-Quechua]]: [[suk]]
+*[[Proto-Uto-Aztecan]]: [[simayv]]
+*[[Provençal]]: [[un]]
+*[[Pugliese]]: [[nu]]
+*[[Punjabi]]: [[ਇੱਕ]] (ika)
+*[[Québécois]] ([[Canadian French]]): [[un]]
+*[[Quechua]] (Ecuador): [[shuc]]
+*[[Rapanui]]: [[ka tahi]]
+*[[Rarotongan]]: {{IPAchar|[[taʼi]]}}
+*[[Rohingya]]: [[ek]]
+*[[Romanian]]: [[unu]]
+*[[Romany]]: [[yek]]
+*[[Roviana]]: [[keke]]
+*Russian: {{t|ru|один|tr=odín}}, {{t|ru|раз|tr=raz}} {{italbrac|when counting}}
+*[[Saami]]: [[okta]]
+*[[Samoan]]: [[tasi]] (''var:'' [[asi]])
+*[[Sanskrit]]: [[एकं]] (eka)
+*[[Sardinian]]: [[unu]]
+*[[Scottish Gaelic]]: [[aon]]
+*[[Sepedi]] (Northern Sotho): [[tee]]
+*[[Serbian]]:
 *:Cyrillic: {{t|sr|један}}
 *:Roman: {{t|sr|jedan}}
-*{{ttbc|Shelta}}: [[ain]], [[awárt]]
-*{{ttbc|Shona}}: [[poshi]]
-*{{ttbc|Sicilian}}: [[unu]]
-*{{ttbc|Sindhi}}: {{SDchar|[[هِڪُ]]}}
-*{{ttbc|Sinhala}}: [[එක]] (eka)
-*{{ttbc|Siouan}}:
+*[[Shelta]]: [[ain]], [[awárt]]
+*[[Shona]]: [[poshi]]
+*[[Sicilian]]: [[unu]]
+*[[Sindhi]]: {{SDchar|[[هِڪُ]]}}
+*[[Sinhala]]: [[එක]] (eka)
+*[[Siouan]]:
 **[[Dakota]]: [[wancha]]
-*{{ttbc|Siswati}}: [[-nyé]]
-*{{ttbc|Slovak}}: [[jeden]]
-*{{ttbc|Slovene}}: [[ena]]
-*{{ttbc|Slovio}}: [[din]]
-*{{ttbc|Somali}}: [[kow]], [[mid]], [[hal]]
-*{{ttbc|Sotho}}: [[nngwe]]
-*{{ttbc|Spanish}}: [[un]]
-*{{ttbc|Sumerian}}: [[desh]]
-*{{ttbc|Sundanese}}: [[hiji]]
-*{{ttbc|Swabian}}: [[oe]], [[oas]], [[ois]]
-*{{ttbc|Swahili}}: [[moja]]
-*{{ttbc|Swedish}}: [[ett]]
-*{{ttbc|Syriac}}:
+*[[Siswati]]: [[-nyé]]
+*[[Slovak]]: [[jeden]]
+*[[Slovene]]: [[ena]]
+*[[Slovio]]: [[din]]
+*[[Somali]]: [[kow]], [[mid]], [[hal]]
+*[[Sotho]]: [[nngwe]]
+*[[Spanish]]: [[un]]
+*[[Sumerian]]: [[desh]]
+*[[Sundanese]]: [[hiji]]
+*[[Swabian]]: [[oe]], [[oas]], [[ois]]
+*[[Swahili]]: [[moja]]
+*[[Swedish]]: [[ett]]
+*[[Syriac]]:
 *:Classical Syriac: [[h.adh]]
-*{{ttbc|Tagalog}}: [[isa]]
-*{{ttbc|Tahitian}}: {{IPAchar|[[hō'ē]]}}
-*{{ttbc|Taino}}: [[hekiti]]
-*{{ttbc|Tajik}}: [[як]] (yak)
-*{{ttbc|Tamazight}}: [[ⵢⴰⵏ]] (yan) {{m}}, [[ⵢⴰⵜ]] (yat) {{f}}
-*{{ttbc|Tamil}}: [[ஒன்று]] (onrru) (numeral: ௧)
-*{{ttbc|Tasmanian}}: [[marra]] (wa)
-*{{ttbc|Tatar}}: [[бер]] ([[ber]])
-*{{ttbc|Telugu}}: [[ఒకటి]] (okatti)
-*{{ttbc|Tibetan}}:
+*[[Tagalog]]: [[isa]]
+*[[Tahitian]]: {{IPAchar|[[hō'ē]]}}
+*[[Taino]]: [[hekiti]]
+*[[Tajik]]: [[як]] (yak)
+*[[Tamazight]]: [[ⵢⴰⵏ]] (yan) {{m}}, [[ⵢⴰⵜ]] (yat) {{f}}
+*[[Tamil]]: [[ஒன்று]] (onrru) (numeral: ௧)
+*[[Tasmanian]]: [[marra]] (wa)
+*[[Tatar]]: [[бер]] ([[ber]])
+*[[Telugu]]: [[ఒకటి]] (okatti)
+*[[Tibetan]]:
 **Classical Tibetan: [[gtshig]]
-*{{ttbc|Thai}}: {{THchar|[[หนึ่ง]]}} (nèung)
-*{{ttbc|Tocharian}}: [[se]]
-*{{ttbc|Tok Pisin}}: [[wanpela]]
-*{{ttbc|Tongan}}: [[taha]]
-*{{ttbc|Tupinambá}}: [[îepé]], [[oîepé]]
-*{{ttbc|Turkish}}: [[bir]]
-*{{ttbc|Turkmen}}: [[бир]] (bir)
-*{{ttbc|Tzutujil}}: [[jun]]
-*{{ttbc|Umbrian}}: [[uns]]
-*{{ttbc|Urdu}}: {{URchar|[[ایک]]}} (ik)
-*{{ttbc|Ukrainian}}: {{t|uk|один|tr=odýn}}
-*{{ttbc|Uzbek}}: [[бир]] (bir)
-*{{ttbc|Veps}}: [[ükś]]
-*{{ttbc|Vietnamese}}: [[một]]
-*{{ttbc|Vlaams}}: [[een]]
-*{{ttbc|Volapük}}: [[bal]]
-*{{ttbc|Vorarlbergerisch}}: [[aas]], (var: [[oas]])
-*{{ttbc|Võro}}: [[ütś]]
-*{{ttbc|Votic}}: [[ühsi]] / [[үхси]]
-*{{ttbc|Walloon}}: [[onk]]
-*{{ttbc|Warlpiri}}: [[cinta]]
-*{{ttbc|Waurá}}: [[pawã]]
-*{{ttbc|Wede}}: i]: [[bo]]
-*{{ttbc|Welsh}}: [[un]]
-*{{ttbc|Witoto}}: [[dáde]]
-*{{ttbc|Yiddish}}: [[eyns]]
-*{{ttbc|Yucatec}} ([[Maya]]): [[hun]]
-*{{ttbc|Yuchi}}: {{IPAchar|[[hitʼɛ]]}}
-*{{ttbc|Zapotec}}: [[to]]
+*[[Thai]]: {{THchar|[[หนึ่ง]]}} (nèung)
+*[[Tocharian]]: [[se]]
+*[[Tok Pisin]]: [[wanpela]]
+*[[Tongan]]: [[taha]]
+*[[Tupinambá]]: [[îepé]], [[oîepé]]
+*[[Turkish]]: [[bir]]
+*[[Turkmen]]: [[бир]] (bir)
+*[[Tzutujil]]: [[jun]]
+*[[Umbrian]]: [[uns]]
+*[[Urdu]]: {{URchar|[[ایک]]}} (ik)
+*[[Ukrainian]]: {{t|uk|один|tr=odýn}}
+*[[Uzbek]]: [[бир]] (bir)
+*[[Veps]]: [[ükś]]
+*[[Vietnamese]]: [[một]]
+*[[Vlaams]]: [[een]]
+*[[Volapük]]: [[bal]]
+*[[Vorarlbergerisch]]: [[aas]], (var: [[oas]])
+*[[Võro]]: [[ütś]]
+*[[Votic]]: [[ühsi]] / [[үхси]]
+*[[Walloon]]: [[onk]]
+*[[Warlpiri]]: [[cinta]]
+*[[Waurá]]: [[pawã]]
+*[[Wede]]: i]: [[bo]]
+*[[Welsh]]: [[un]]
+*[[Witoto]]: [[dáde]]
+*[[Yiddish]]: [[eyns]]
+*[[Yucatec]] ([[Maya]]): [[hun]]
+*[[Yuchi]]: {{IPAchar|[[hitʼɛ]]}}
+*[[Zapotec]]: [[to]]
+{{trans-bottom}}
+
+{{trans-top|ordinal number}}
+:''See [[first]] and [[number]]''
 {{trans-bottom}}
 
 ===Pronoun===
