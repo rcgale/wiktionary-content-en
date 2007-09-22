@@ -1,8 +1,33 @@
 ==English==
 ==={{initialism}}===
 '''BCC'''
-
+As related to Email
 #blind carbon copy
 
 [[he:BCC]]
 [[sk:BCC]]
+Although in many situations it may be appropriate to list email recipients in the To: or CC: fields, sometimes using the BCC: field may be the most desirable option.  
+
+
+What is BCC?
+BCC, which stands for blind carbon copy, allows you to hide recipients in email messages. Unlike addresses in the To: field or the CC: (carbon copy) field, addresses in the BCC: field cannot be seen by other users. 
+
+Why would you want to use BCC?
+There are a few main reasons for using BCC: 
+
+Privacy - Sometimes it's beneficial, even necessary, for you to let recipients know who else is receiving your email message. However, there may be instances when you want to send the same message to multiple recipients without letting them know who else is receiving the message. If you are sending email on behalf of a business or organization, it may be especially important to keep lists of clients, members, or associates confidential. You may also want to avoid listing an internal email address on a message being sent to external recipients.
+
+Another point to remember is that if you use the To: or CC: fields to list all of your recipients, these same recipients will also receive any replies to your message unless the sender removes them. If there is potential for a response that is not appropriate for all recipients, consider using BCC. 
+
+
+Tracking - Maybe you want to access or archive the email message you are sending at another email account. Or maybe you want to make someone, such as a supervisor or team member, aware of the email without actually involving them in the exchange. BCC allows you to accomplish these goals without advertising that you are doing it.
+
+
+Respect for your recipients - Forwarded email messages frequently contain long lists of email addresses that were CC'd by previous senders. These addresses are highly likely to be active and valid, so they are very valuable to spammers. Furthermore, many email-borne viruses harvest email addresses contained in messages you've already received (not just the To: and From: fields, but from the body, too), so those long lists in forwarded messages pose a risk to all the accounts they point to if you get infected.
+
+Many people frequently forward messages to their entire address books using CC. Encourage people who forward messages to you to use BCC so that your email address is less likely to appear in other people's inboxes and be susceptible to being harvested. To avoid becoming part of the problem, in addition to using BCC if you forward messages, take time to remove all existing email addresses within the message. The additional benefit is that the people you're sending the message to will appreciate not having to scroll through large sections of irrelevant information to get to the actual message.
+
+How do you BCC an email message?
+Most email clients have the option to BCC listed a few lines below the To: field. However, sometimes it is a separate option that is not listed by default. If you cannot locate it, check the help menu or the software's documentation.
+
+If you want to BCC all recipients and your email client will not send a message without something in the To: field, consider using your own email address in that field. In addition to hiding the identity of other recipients, this option will enable you to confirm that the message was sent successfully.
