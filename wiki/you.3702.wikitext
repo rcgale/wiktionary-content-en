@@ -72,6 +72,7 @@ See usage notes. {{term|ye|Ye}} and {{term|you}} are cognate with German {{term|
 *German:
 *:''informal'': {{t+|de|du}}
 *:''polite'': {{t|de|Sie}}
+{{trans-mid}}
 *Japanese:
 *:''generic'': [[君]] (きみ, kimi)
 *:''honorific'': [[貴方]] ([[あなた]], anata)
@@ -102,7 +103,7 @@ See usage notes. {{term|ye|Ye}} and {{term|you}} are cognate with German {{term|
 *Czech: [[vy]]
 *Danish: [[I#Danish|I]] {{i|familiar}}
 *Dutch:
-*:''informal'': {{i|standard}} {{t|nl|jullie}}, {{i|Flemish, archaic}} {{t|nl|gijlie}}, {{t|nl|gijlieden}}, {{i|Flemish, informal}} {{t|nl|gulder}}
+*:''informal'': {{i|standard}} {{t|nl|jullie}}, {{i|Flemish, archaic}} {{t|nl|gijlie}}, {{t|nl|gijlieden}}, {{i|Flemish, colloquial}} {{t|nl|gulder}}
 *:''formal'': {{t|nl|u}}, {{t|nl|jullie}}
 *[[Dyirbal]]: {{unicode|[[ŋubalaɖi]]}} {{i|dual}}, {{unicode|[[ŋuraɖi]]}} {{p}}
 *Esperanto: [[vi]]
@@ -193,10 +194,14 @@ See usage notes. {{term|ye|Ye}} and {{term|you}} are cognate with German {{term|
 {{trans-top|object pronoun: the person spoken/written to}}
 *[[Cornish]]:
 *:Kernewek Kemmyn: [['th]]
+*Dutch:
+*:''informal'': {{i|standard}} {{t|nl|jou}}, {{t|nl|je}}, {{i|Flemish, colloquial}} {{t|nl|ulder}}
+*:''formal'': {{t|nl|u}}
 *Finnish: [[sinä|sinua]], [[sinä|sinut]]
+{{trans-mid}}
 *Romanian:
-**Unstressed: [[te]] (''accusative''), [[îţi]] (''dative'')
-**Stressed: pe [[tine]] (''accusative''), [[ţie]] (''dative'')
+*:Unstressed: [[te]] {{i|accusative}}, [[îţi]] {{i|dative}}
+*:Stressed: [[pe]] [[tine]] {{i|accusative}}, [[ţie]] {{i|dative}}
 {{trans-bottom}}
 
 {{trans-top|object pronoun: the group spoken/written to}}
@@ -206,30 +211,32 @@ See usage notes. {{term|ye|Ye}} and {{term|you}} are cognate with German {{term|
 *:Traditional: [[你們]] (nǐmen)
 *[[Cornish]]:
 *:Kernewek Kemmyn [['gas]]
-*Czech: [[vás]], [[vám]] (''after preposition''), [[vám]] (''indirect object''), [[vás]] (''direct object'')
-*Dutch: [[jullie]] ''familiar'', [[u]]
+*Czech: [[vás]], [[vám]] {{i|after preposition}}, [[vám]] {{i|indirect object}}, [[vás]] {{i|direct object}}
+*Dutch:
+*:''informal'': {{i|standard}} {{t|nl|jullie}}, {{t|nl|je}}, {{i|Flemish, }} {{t|nl|u}}
+*:''formal'': {{t|nl|u}}
 *[[Ewe]]: [[miawo]]
-*Finnish: [[teidät]] (''accusative; [[telic]]''), [[teitä]] (''partitive; [[atelic]]'')
+*Finnish: [[teidät]] {{i|accusative, [[telic]]}}, [[teitä]] {{i|partitive, [[atelic]]}}
 *French: [[vous]]
 *German:
-*:[[euch]] (''familiar'', ''[[accusative]]''), [[Sie]] (''polite'', ''[[accusative]]'')
-*:[[ihnen]] (''familiar'', ''[[dative]]''), [[Ihnen]] (''polite'', ''[[dative]]'')
+*:[[euch]] {{i|familiar, [[accusative]]}}, [[Sie]] {{i|polite, [[accusative]]}}
+*:[[ihnen]] {{i|familiar, [[dative]]}}, [[Ihnen]] {{i|polite, [[dative]]}}
 *Greek: {{t|el|εσάς||p}} (esás)
 *Italian:
-*:(''preceding direct object''): [[vi#Italian|vi]]
-*:(''indirect object''): [[vi#Italian|vi]]
-*:(''after a preposition''): [[voi]], [[Loro]] (''formal polite'')
+*:{{i|preceding direct object}}: {{t|it|vi}}
+*:{{i|indirect object}}: {{t|it|vi}}
+*:{{i|after a preposition}}: [[voi]], [[Loro]] {{i|formal polite}}
 {{trans-mid}}
 *[[Jèrriais]]: [[ou]]
-*Norwegian: [[dere]], ''if only one object:'' [[deg]]
+*Norwegian: [[dere]], {{i|if only one object}} [[deg]]
 *[[Novial]]: [[vus]]
-*Old English: [[inc|inċ]] ''dual'', [[eow|ēow]] {{p}}
+*Old English: [[inc|inċ]] {{i|dual}}, [[eow|ēow]] {{p}}
 *Romanian:
-**Unstressed: [[vă]] (''accusative and dative'')
-**Stressed: pe [[voi]] (''accusative''), [[vouă]] (''dative'')
+*:Unstressed: [[vă]] {{i|accusative and dative}}
+*:Stressed: [[pe]] [[voi]] {{i|accusative}}, [[vouă]] {{i|dative}}
 *Spanish:
-**(''preceding or attached to a verb''): [[os#Spanish|os]] (''familiar''), [[les#Spanish|les]] (''polite'')
-**(''object of a preposition''): [[vosotros]] (''masc familiar''), [[vosotras]] (''fem familiar''), [[ustedes]] (''polite'')
+*:{{i|preceding or attached to a verb}}: [[os#Spanish|os]] {{i|familiar}}, [[les#Spanish|les]] {{i|polite}}
+*:{{i|object of a preposition}}: [[vosotros]] {{m}} {{i|familiar}}, [[vosotras]] {{f}} {{i|familiar}}, [[ustedes]] {{i|polite}}
 *Swedish: [[er]]
 *Welsh: [[chi]]
 {{trans-bottom}}
@@ -399,8 +406,8 @@ See usage notes. {{term|ye|Ye}} and {{term|you}} are cognate with German {{term|
 *Czech: [[ty]] {{s}}, [[vy]] {{p}}
 *Finnish: [[senkin]]
 *French: [[espèce]] de ({{s}}), [[bande]] de ({{p}})
-**''You idiot!'' — Espèce d’idiot !
-**''You idiots!'' — Bande d’idiots !
+*:''You idiot!'' — Espèce d’idiot !
+*:''You idiots!'' — Bande d’idiots !
 *German: [[du]]
 {{trans-mid}}
 *Kurdish: [[ey]], [[hey]], [[wey]]
