@@ -4,7 +4,7 @@
 {{rank|-|-|-|1|the|of|and|to}}
 
 ===Etymology===
-From {{OE.}} [[demonstrative pronoun]] ''[[þe#Old English|þe]]'', a late variant of ''[[se#Old English|se]]'', originally masculine nominative, but in Middle English superceding all previous {{OE.}} forms (''[[se#Old English|se]], [[seo|sēo]], [[þæt]]'').
+From {{OE.}} [[demonstrative pronoun]] {{term|þe|lang=ang}}, a late variant of {{term|se|lang=ang}}, originally masculine nominative, but in Middle English superceding all previous {{OE.}} forms ({{term|se|lang=ang}}, {{term|seo|sēo}}, {{term|þæt}}).
 
 ===Pronunciation===
 * Stressed:
@@ -17,7 +17,7 @@ From {{OE.}} [[demonstrative pronoun]] ''[[þe#Old English|þe]]'', a late varia
 *: {{audio|en-us-the-unstressed.ogg|Audio (US)}}
 
 ===Article===
-'''the'''
+{{infl|en|article}}
 
 # [[definite|Definite]] [[w:grammatical article|grammatical article]] that implies necessarily that the entity it articulates is [[presuppose]]d; something already [[mention]]ed, or completely [[specify|specified]] later in the same sentence, or [[assume]]d already completely specified. Compare ''I’m reading '''a''' book'' with ''I’m reading '''the''' book''.
 #: '''''The''' street in front of your house.'' (But compare '''''a''' street in Paris'')
@@ -54,6 +54,7 @@ The word is generally not pronounced distinctly when attached to a word beginnin
 * [[nonetheless]]
 
 ====Translations====
+{{rfc|There are lots of declensions and grammar notes here.  Should they be moved into the foreign language entries?}}
 {{trans-top|Article}}
 *[[Afrikaans]]: [[die]]
 *Albanian: [[-a]], [[-i]]
@@ -64,11 +65,11 @@ The word is generally not pronounced distinctly when attached to a word beginnin
 *[[Basque]]: [[-a]]
 *[[Breton]]: [[al]], [[an]], [[ar]]
 *[[Catalan]]:
-** {{i|m singular forms}} [[el]], [[lo]], [[es]], [[so]] (''after'' [[amb]]: ''with'')
-** {{i|f singular forms}} [[la]], [[sa]]
-** {{i|m plural forms}} [[els]], [[es]], [[sos]] (''after'' [[amb]]: ''with''), [[ets]] (''before vowel'')
-** {{i|f plural forms}} [[les]], [[ses]]
-** {{i|before a vowel}} [[l']] ''m and f singular'', [[s']] ''m and f singular''
+** {{t|ca|el|m|s}}, {{t|ca|lo|m|s}}, {{t|ca|es|m|s}}, {{t|ca|so|m|s}} {{i|after ‘[[amb]]’, “with”}}
+** {{t|ca|la|f|s}}, {{t|ca|sa|f|s}}
+** {{t|ca|els|m|p}}, {{t|ca|es|m|p}}, {{t|ca|sos|m|p}} {{i|after ‘[[amb]]’, “with”}}, {{t|ca|ets|m|p}} {{i|before vowel}} <!-- move notes to "[[sos]]", "[[ets]]"? -->
+** {{t|ca|les|f|p}}, {{t|ca|ses|f|p}}
+** {{qualifier|before a vowel}} {{t|ca|l'|mf|s}}, {{t|ca|s'|mf|s}}
 *Chinese: [[classifier]]s are used as the definite article in some cases''
 *[[Cornish]]:
 *:Kernewek Kemmyn: [[an]]
@@ -82,7 +83,7 @@ The word is generally not pronounced distinctly when attached to a word beginnin
 *French: [[le]] {{m}}, [[la]] {{f}}, [[les]] {{p}}
 *[[Frisian]]: [[de]], [[it]]
 *Georgian: ''not used''
-*German:
+*German: <!-- Move declension to "[[der]]"? -->
 ** [[der]] ''m nominative'', [[die]] ''f nominative'', [[das]] ''n nominative''
 ** [[des]] -es ''m genitive'', [[der]] ''f genitive'', [[des]] -es ''n genitive''
 ** [[dem]] -(e) ''m dative'', [[der]] ''f dative'', [[dem]] -(e) ''n dative''
@@ -91,8 +92,8 @@ The word is generally not pronounced distinctly when attached to a word beginnin
 ** [[der]] ''m plural genitive'', [[der]] ''f plural genitive'', [[der]] ''n plural genitive''
 ** [[den]] -n ''m plural dative'', [[den]] ''f plural dative'', [[den]] -n ''n plural dative''
 ** [[die]] ''m plural accusative'', [[die]] ''f plural accusative'', [[die]] ''n plural accusative''
-*Greek, Ancient:
-** Nominative: [[ὁ]] {{m}}, [[ἡ]] {{f}}, [[τὸ]] {{n}}, [[οἱ]] {{m}} {{p}}, [[αἱ]] {{f}} {{p}}, [[τά]] {{n}} {{p}}
+*Greek, Ancient: <!-- Moved declension to "[[ὁ]]"? -->
+** Nominative: {{t|grc|sc=polytonic|ὁ|m}}, {{t|grc|sc=polytonic|ἡ|f}}, {{t|grc|sc=polytonic|τὸ|n}}, {{t|grc|sc=polytonic|οἱ|m|p}}, {{t|grc|sc=polytonic|αἱ|f|p}}, {{t|grc|sc=polytonic|τά|n|p}}
 ** Genitive: [[τοῦ]] {{m}} and {{n}}, [[τῆς]] {{f}}, [[τῶν]] {{m}}, {{f}} and {{n}} {{p}}
 ** Dative: [[τῷ]] {{m}} and {{n}}, [[τῇ]] {{f}}, [[τοῖς]] {{m}} and {{n}} {{p}}, [[ταῖς]] {{f}} {{p}}
 ** Accusative: [[τόν]] {{m}}, [[τήν]] {{f}}, [[τὸ]] {{n}}, [[τούς]] {{m}} {{p}}, [[τάς]] {{f}} {{p}}, [[τά]] {{n}} {{p}}
@@ -111,7 +112,7 @@ The word is generally not pronounced distinctly when attached to a word beginnin
 ** [[an#Irish|an]] ''nominative singular'', [[na]] ''nominative plural''
 ** [[an#Irish|an]] ''m genitive singular'', [[na]] ''f genitive singular'', [[na]] ''genitive plural''
 ** [[an#Irish|an]] ''dative singular'', [[na]] ''dative plural''
-*Italian: [[il]] ''or'' [[lo]] (''depending on the initial sound of the word following: see [[lo#Italian|lo]] for details'') {{m}}, [[la]] {{f}}; [[i]] ''or'' [[gli]] (''depending on the initial sound of the word following: see [[gli]] for details'') {{m}} {{p}} , [[le]] {{f}} {{p}}
+*Italian: {{t|it|il|m}}, {{t|it|lo|m}} {{i|depending on the initial sound of the word following: see [[lo#Italian|lo]] for details}}, {{t|it|la|f}}; {{t|it|i|m|p}}, {{t|it|gli|m|p}} {{i|depending on the initial sound of the word following: see [[gli]] for details}}, {{t|it|le|f|p}}
 *Japanese: ''not used'' in grammar, though it is often translated into [[その]] (sono) especially in the sentences of the conversations.
 *[[Kölsch]]: [[dä]] {{m}}, [[die]] {{f}}, [[dat]] {{n}}
 *Korean: ''not used''
@@ -198,7 +199,7 @@ The word is generally not pronounced distinctly when attached to a word beginnin
 {{trans-bottom}}
 
 ===Adverb===
-'''the'''
+{{infl|en|adverb}}
 
 # With a [[comparative]] or ''[[more]]'' and a verb phrase, establishes a parallel with one or more other such comparatives.
 #: '''''The''' hotter '''the''' better.''
@@ -208,9 +209,6 @@ The word is generally not pronounced distinctly when attached to a word beginnin
 # With a [[comparative]], and often with ''for it'', indicates a result in the direction of the comparative. This can be negated with ''none''.
 #: ''It was a difficult time, but I’m the wiser for it.''
 #: ''It was a difficult time, and I’m none the wiser for it.''
-<!-- This is the same as the article use above:
-# With a [[superlative]], indicates the person or thing to which the superlative applies.
-#: ''That apple pie was the best.''  -->
 
 ====Translations====
 {{trans-top|'''the''' + ''comparative'', '''the''' + ''comparative''}}
@@ -223,6 +221,7 @@ The word is generally not pronounced distinctly when attached to a word beginnin
 *Swedish: [[ju]] + ''comp.'', + [[desto]] + ''comp.''
 {{trans-bottom}}
 {{checktrans}}
+
 {{trans-top|Translations to be checked}}
 *{{ttbc|Old English}}: [[þy|þȳ]]
 {{trans-mid}}
@@ -233,9 +232,9 @@ The word is generally not pronounced distinctly when attached to a word beginnin
 {{rel-top3|See also}}
 * [[a]]
 * [[an]]
-* [[da]] {{italbrac|slang}}
+* {{qualifier|slang}} [[da]]
 {{rel-mid3}}
-* [[de]] {{italbrac|slang}}
+* {{qualifier|slang}} [[de]]
 * [[t'|t’]]
 * [[that]]
 {{rel-mid3}}
@@ -245,7 +244,6 @@ The word is generally not pronounced distinctly when attached to a word beginnin
 {{rel-bottom}}
 
 [[Category:100 English basic words]]
-[[Category:English articles]]
 [[Category:English three letter words]]
 
 ----
