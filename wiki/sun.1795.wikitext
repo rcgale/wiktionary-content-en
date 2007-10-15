@@ -6,7 +6,7 @@
 {{rank|miles|real|eye|495|sun|cut|everything|six}}
 
 ===Etymology===
-{{OE.}} ''[[sunne]]'', from [[Proto-Germanic]] *''sunnon'', from {{PIE.}} [[heteroclitic]] [[inanimate]] *''[[Wiktionary Appendix:Proto-Indo-European roots|séh<sub>2</sub>w<u>l</u>]]'' (genitive *''sh<sub>2</sub>uln-ós'', of the sun). Cognates include German ''[[Sonne]]'', Latin ''[[Sol]]'', Russian ''[[Солнце]]'' (Solntse) and Ancient Greek ''[[ἥλιος]]'' (''hḗlios'').
+{{OE.}} {{term|sunne}}, from {{PG.}} *{{term||sunnon}}, from {{PIE.}} [[heteroclitic]] [[inanimate]] *{{term|Wiktionary Appendix:Proto-Indo-European roots|séh<sub>2</sub>w<u>l</u>}} (genitive *{{term||sh<sub>2</sub>uln-ós|of the sun}}. Cognates include German {{term|Sonne}}, Latin {{term|Sol}}, Russian {{term|sc=Cyrl|Солнце|tr=Solntse}}{{,}} and Ancient Greek {{term|sc=polytonic|ἥλιος|tr=hḗlios}}.
 
 ===Pronunciation===
 *{{enPR|/sŭn/}}, {{IPA|/sʌn/}}, {{SAMPA|/sVn/}}
@@ -14,10 +14,20 @@
 *{{rhymes|ʌn}}
 *Homophones: [[son]]
 
-===Proper noun===
-'''the sun'''
+===Alternative forms===
+* {{sense|proper noun|star which the Earth revolves around}} {{qualifier|capitalized}} [[Sun]]
 
-# The star which the [[Earth]] revolves around and receives light and warmth from, the [[Sun]].<ref name="Illustr. Oxford 1998">''The Illustrated Oxford Dictionary'', Oxford University Press, 1998</ref>
+===Proper noun===
+{{en-proper noun|sg=the sun}}
+
+# The star which the [[Earth]] revolves around and receives light and warmth from.<ref name="Illustr. Oxford 1998">''The Illustrated Oxford Dictionary'', Oxford University Press, 1998</ref>
+
+====Translations====
+{{trans-top|the star which the Earth revolves around}}
+*French: {{t|fr|soleil|m}}
+{{trans-mid}}
+*Spanish: {{t|es|sol|m}}
+{{trans-bottom}}
 
 ===Noun===
 {{en-noun}}
@@ -37,7 +47,7 @@
 *[[sundial]]
 *[[sundown]]
 *[[sunflower]]
-*[[sunglass]]<!--no thanks: ''(see also [[hand glass]])''-->
+*[[sunglass]]
 *[[sunglasses]]
 *[[sun god]]
 *[[sun hat]]
@@ -56,7 +66,28 @@
 {{rel-bottom}}
 
 ====Translations====
-{{top}}
+{{trans-top|any star, especially when seen as the centre of any single solar system}}
+*{{ttbc|French}}: {{t|fr|soleil|m}}
+{{trans-mid}}
+*{{ttbc|Spanish}}: {{t|es|sol|m}}, {{t|es|estrella|f}}
+{{trans-bottom}}
+
+{{trans-top|light and warmth received from the sun}}
+*{{ttbc|French}}: {{t|fr|soleil|m}}
+{{trans-mid}}
+*{{ttbc|Spanish}}: {{t|es|sol|m}}
+{{trans-bottom}}
+
+{{trans-top|something like the sun in brightness or splendor}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|sunrise or sunset}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Translations to be checked===
+{{ttbc-top}}
 *Albanian: [[diell]] {{m}}
 *[[Aleut]]: [[agadgix]]
 *Arabic: {{ARchar|[[شمس]]}} (shams) {{f}}
@@ -76,7 +107,6 @@
 *Esperanto: [[suno]]
 *Estonian: [[päike]]
 *Finnish: [[aurinko]]
-*French: [[soleil]] {{m}}
 *[[Frisian]]: [[sinne]]
 *Georgian: [[მზე]] (mze)
 *German: [[Sonne]] {{f}}
@@ -102,7 +132,7 @@
 *Latin: [[sol]] {{m}}
 *Latvian: [[saule]] {{f}}
 *Lithuanian: [[saulė]] {{f}}
-{{mid}}
+{{ttbc-mid}}
 *[[Macedonian]]: [[сонце]] (sontse) {{n}}
 *Malay [[matahari]]
 *[[Malagasy]]: [[masoandro]]
@@ -131,7 +161,6 @@
 *Slovak: [[slnko]] {{n}}, [[slnce]] {{n}}
 *Slovene: [[sonce]] {{n}}
 *[[Somali]]: [[qorrax]]
-*Spanish: [[sol]] {{m}}
 *Swahili: [[jua]]
 *Swedish: [[sol]] {{c}}
 *[[Tagalog]]: [[araw]]
@@ -143,13 +172,13 @@
 *[[Võro]]: [[päiv]]
 *[[Warlpiri]]: [[wanta]]
 *Welsh: [[haul]] {{m}}
-{{bottom}}
+{{ttbc-bottom}}
 
 ===Verb===
 {{en-verb|sun|n|ed}}
 
 # {{transitive}} To expose to the warmth and radiation of the sun.<ref name="Webster's c 2001"/>
-#:''Beautiful bodies lying on the beach, sunning their bronzed limbs.''
+#:''Beautiful bodies lying on the beach, '''sunning''' their bronzed limbs.''
 # {{transitive}} To warm or dry in the sunshine.<ref name="Webster's c 2001"/>
 # {{intransitive}} To expose oneself to the sun.<ref name="Illustr. Oxford 1998"/>
 
