@@ -3,23 +3,30 @@
 ==English==
 
 ===Conjunction===
-'''OR'''
+{{en-conj}}
 
-# (Logic) [[Inclusive or]]; either one proposition or the other is true or both.
-# (Computer science) A lexical symbol to implement inclusive or in a computer language.
-# (Electrical engineering) A [[logical]] [[gate]] to implement inclusive or.
+# {{logic}} [[inclusive or|Inclusive or]]; either one proposition or the other is true or both.
+# {{computer science}} A lexical symbol to implement inclusive or in a computer language.
+# {{electrical engineering}} A [[logical]] [[gate]] to implement inclusive or.
 
 ===Noun===
-'''OR'''
+{{en-noun}}
 
-# (Logic) The [[binary]] [[operator]] ''inclusive or'', true if one at least one of two inputs is true. In [[infix notation]], it has values
+# {{logic}} The [[binary]] [[operator]] ''inclusive or'', true if one at least one of two inputs is true. In [[infix notation]], it has values
 
 (0 OR 0) = 0<br>
 (0 OR 1) = 1<br>
 (1 OR 0) = 1<br>
 (1 OR 1) = 1<br>
 
-===See also===
+====Translations====
+{{trans-top|logic: (noun sense)}}
+*Finnish: [[TAI]]
+*Hungarian: [[VAGY]]
+{{trans-mid}}
+{{trans-bottom}}
+
+====See also====
 *[[AND#Noun|AND]]
 *[[XOR#Noun|XOR]]
 *[[NAND#Noun|NAND]]
