@@ -42,7 +42,7 @@ From {{OF.}} {{term|lang=fro|second}}.
 =====Translations=====
 {{trans-top|SI unit of time}}
 * Albanian: {{t-|sq|sekondë|f|xs=Albanian}}
-* Arabic: {{ARchar|[[ثانية]]}} (θāniya) {{f}}
+* Arabic: {{t-|ar|ثانية|f|tr=θāniya|sc=ARchar}}
 * Bosnian: {{t-|bs|sekunda|f}}, {{t-|bs|sekund|m}}
 * [[Catalan]]: [[segon]] {{m}}
 * CJKV Characters: [[秒]]
@@ -56,7 +56,7 @@ From {{OF.}} {{term|lang=fro|second}}.
 * Finnish: {{t+|fi|sekunti}}
 * French: {{t+|fr|seconde|f}}
 * German: {{t+|de|Sekunde|f}}
-* Greek: [[δευτερόλεπτο]] (deuterólepto) {{n}}
+* Greek: {{t|el|δευτερόλεπτο|n|tr=deuterólepto}}
 * Hebrew: [[שניה]] (shnia) {{f}}
 * Hungarian: {{t+|hu|másodperc}}
 * Icelandic: {{t+|is|sekúnda|f}}
@@ -73,7 +73,7 @@ From {{OF.}} {{term|lang=fro|second}}.
 * Norwegian: {{t+|no|sekund|n}}
 * Polish: {{t+|pl|sekunda|f}}
 * Portuguese {{t+|pt|segundo|m}}
-* Russian: {{t|ru|sc=Cyrl|секунда|tr=sekúnda|f}}
+* Russian: {{t+|ru|секунда|f|tr=sekúnda|sc=Cyrl}}
 * {{ttbc|Serbian}}: <!-- Is there really a m and f version of the noun?! -->
 *: Cyrillic: [[секунда#Serbian|секунда]] {{f}}, [[секунд#Serbian|секунд]] {{m}}
 *: Roman: [[sekunda#Serbian|sekunda]] {{f}}, [[sekund#Serbian|sekund]] {{m}}
@@ -91,7 +91,7 @@ From {{OF.}} {{term|lang=fro|second}}.
 {{trans-top|unit of angular measure}}
 * [[Catalan]]: [[segon]] {{m}}
 * CJKV Characters: [[秒]]
-* Czech: [[vteřina]], [[úhlová vteřina]] {{f}}
+* Czech: {{t+|cs|vteřina}}, {{t|cs|úhlová vteřina|f}}
 * Danish: {{t-|da|sekund}}
 * Dutch: {{t+|nl|seconde|m}}
 * Esperanto: {{t-|eo|sekundo|xs=Esperanto}}
@@ -108,7 +108,7 @@ From {{OF.}} {{term|lang=fro|second}}.
 * Norwegian: {{t+|no|sekund|n}}
 * Polish: {{t+|pl|sekunda|f}}
 * Portuguese {{t+|pt|segundo|m}}
-* Russian: {{t|ru|sc=Cyrl|секунда|tr=sekúnda|f}}
+* Russian: {{t+|ru|секунда|f|tr=sekúnda|sc=Cyrl}}
 * Slovene: {{t+|sl|sekunda|f}}
 * Spanish: {{t+|es|segundo|m}}
 * Swedish: {{t+|sv|sekund|c}}, {{t+|sv|bågsekund|c}}
@@ -120,21 +120,21 @@ From {{OF.}} {{term|lang=fro|second}}.
 
 {{trans-top|short, indeterminate amount of time}}
 * [[Catalan]]: [[segon]] {{m}}, [[moment]] {{m}}, [[instant]] {{m}}
-* Czech: [[okamžik]] {{m}}, [[chvilka]] {{f}}, [[vteřina]] {{f}}, [[sekunda]] {{f}}
+* Czech: {{t|cs|okamžik|m}}, {{t|cs|chvilka|f}}, {{t+|cs|vteřina|f}}, {{t+|cs|sekunda|f}}
 * Danish: [[sekund]], [[øjeblik]]
 * Dutch: {{t+|nl|seconde|m}}, {{t+|nl|moment|m}}
 * Esperanto: {{t-|eo|sekundo|xs=Esperanto}}
 * Finnish: {{t+|fi|hetki}}, {{t+|fi|sekunti}}
 * French: {{t+|fr|seconde|f}}, {{t+|fr|instant|m}}
 * German: {{t+|de|Sekunde|f}}, {{t+|de|Augenblick|m}}, {{t-|de|Moment|m}}
-* Greek: [[λεπτό]] (leptó) {{n}}
+* Greek: {{t|el|λεπτό|n|tr=leptó}}
 * Hebrew: [[שניה]] (shnia) {{f}}
 * Italian: {{t+|it|secondo|m}}, {{t+|it|attimo|m}}, {{t+|it|momento|m}}
 {{trans-mid}}
-* Maltese: [[sekonda]] {{f}}, [[dalwaqt]]
-* Norwegian: [[sekund]] {{n}}, [[øyeblikk]] {{n}}
+* Maltese: {{t-|mt|sekonda|f|xs=Maltese}}, {{t|mt|dalwaqt|xs=Maltese}}
+* Norwegian: {{t+|no|sekund|n}}, {{t|no|øyeblikk|n}}
 * Portuguese {{t+|pt|instante|m}}, {{t+|pt|momento|m}}, {{t+|pt|segundo|m}}
-* Russian: {{t|ru|sc=Cyrl|секунда|tr=sekúnda|f}}, {{t|ru|sc=Cyrl|момент|tr=moment|m}}, {{t|ru|sc=Cyrl|миг|tr=mig|m}}
+* Russian: {{t+|ru|секунда|f|tr=sekúnda|sc=Cyrl}}, {{t|ru|момент|m|tr=moment|sc=Cyrl}}, {{t+|ru|миг|m|tr=mig|sc=Cyrl}}
 * Slovene: {{t+|sl|sekunda|f}}
 * Spanish: {{t-|es|momento|m}}
 * Swedish: {{t+|sv|ögonblick|n}}, {{t+|sv|sekund|c}}
@@ -145,31 +145,31 @@ From {{OF.}} {{term|lang=fro|second}}.
 {{trans-bottom}}
 
 {{trans-top|manufactured item that fails to meet quality control standards}}
-* Czech: [[druhá jakost]] {{f}}, [[druhák]] {{m}}
+* Czech: {{t|cs|druhá jakost|f}}, {{t|cs|druhák|m}}
 * Danish: [[sekundavare]]
 * Dutch: [[tweede keus]] {{m}} <!-- [[tweede soort]] {{f}} -->
 * Finnish: [[sekunda#Finnish|sekunda]] ''uncountable'', [[kakkoslaatuinen]] [[esine#Finnish|esine]]
 * French: [[article]] de second [[choix]] {{m}}
-* German: [[zweite Wahl]] {{f}}
+* German: {{t|de|zweite Wahl|f}}
 {{trans-mid}}
 * Italian: [[seconda]] [[scelta]] {{f}}
-* Maltese: [[ta' sekonda]]
-* Norwegian: [[feilvare]] {{m}}
-* Portuguese: [[artigo de segunda]] {{m}}
-* Swedish: [[andrahandsvara]] {{c}}, [[utskottsvara]] {{c}}
+* Maltese: {{t|mt|ta' sekonda|xs=Maltese}}
+* Norwegian: {{t|no|feilvare|m}}
+* Portuguese: {{t|pt|artigo de segunda|m}}
+* Swedish: {{t|sv|andrahandsvara|c}}, {{t|sv|utskottsvara|c}}
 * [[Telugu]]: [[రెండోరకం]] (reMDOrakaM)
 {{trans-bottom}}
 
 {{trans-top|attendant of a duel or boxing match standing in for a contestant}}
 * Czech: {{t-|cs|sekundant|m}}
 * Danish: {{t-|da|sekundant}}
-* Dutch: [[secondant]] {{m}}
-* German: [[Sekundant]] {{m}}
+* Dutch: {{t|nl|secondant|m}}
+* German: {{t|de|Sekundant|m}}
 * Italian: {{t+|it|padrino|m}}, {{t+|it|secondo|m}}
 * Japanese: [[セコンド]] (sekondo)
 {{trans-mid}}
 * Norwegian: {{t-|no|sekundant|m}}
-* Russian: [[секундант]] (sekundánt)
+* Russian: {{t|ru|секундант|tr=sekundánt}}
 * Slovene: {{t-|sl|sekundant|m}}
 * Swedish: {{t-|sv|sekundant|c}}, {{t-|sv|sekond|c}}
 * Vietnamese: ([[người]]) [[phụ tá]], người [[săn sóc]]
@@ -177,17 +177,17 @@ From {{OF.}} {{term|lang=fro|second}}.
 
 {{trans-top|one who agrees in addition}}
 * Danish: [[støtte]]
-* Dutch: [[ondersteuner]] {{m}}
+* Dutch: {{t|nl|ondersteuner|m}}
 * Finnish: {{t-|fi|kannattaja}}
-* Norwegian: [[støtte]]
+* Norwegian: {{t|no|støtte}}
 {{trans-mid}}
 * [[Sindhi]]: {{SDchar|[[ٻِيو]]}} {{m}}, {{SDchar|[[ٻِي]]}} {{f}}
-* Swedish: [[stödjande]] {{c}}
+* Swedish: {{t|sv|stödjande|c}}
 * Vietnamese: [[người]] [[ủng hộ]], người [[tán thành]]
 {{trans-bottom}}
 
 {{trans-top|another chance to achieve what should have been done the first time}}
-* Dutch: [[herkansing]] {{f}}
+* Dutch: {{t|nl|herkansing|f}}
 * Finnish: [[toinen]] [[mahdollisuus]]
 * Italian: [[seconda]] [[chance]] {{f}}, [[seconda]] [[possibilità]] {{f}}
 {{trans-mid}}
@@ -198,11 +198,11 @@ From {{OF.}} {{term|lang=fro|second}}.
 * Finnish: {{t+|fi|kakkonen}}
 {{trans-mid}}
 * Spanish: {{t+|es|segunda|f}}
-* Swedish: [[tvåan]]
+* Swedish: {{t|sv|tvåan}}
 {{trans-bottom}}
 
 {{trans-top|second base}}
-* Finnish: [[kakkospesä]], [[kakkonen]]
+* Finnish: {{t|fi|kakkospesä}}, {{t+|fi|kakkonen}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -270,10 +270,10 @@ From {{OF.}} {{term|lang=fro|second}}.
 * [[Manchu]]: ([[juweci]]), ([[jai]]), ([[jaici]])
 * [[Manx]]: [[derrey]] <!-- (''abbreviation'' 2oo) -->
 * Norwegian: {{t-|no|andre}}
-* Polish: [[drugi]] {{m}}, [[druga]] {{f}}
+* Polish: {{t+|pl|drugi|m}}, {{t|pl|druga|f}}
 * Portuguese: {{t+|pt|segundo|m}}
 * Romanian: [[secund]] {{m}} <!-- [[secundă]] {{f}}, [[doilea|al doilea]] {{m}}, [[doua|a doua]] {{f}} -->
-* Russian: {{t|ru|sc=Cyrl|второй|tr=vtorój|m}}
+* Russian: {{t+|ru|второй|m|tr=vtorój|sc=Cyrl}}
 * Slovak: {{t-|sk|druhý|m}}
 * Slovene: {{t+|sl|drugi|m}}
 * Spanish: {{t+|es|segundo|m}}
@@ -299,7 +299,7 @@ From {{OF.}} {{term|lang=fro|second}}.
 {{trans-mid}}
 * Malay: kedua
 * [[Malayalam]]: [[രണ്ടാമത്തെ]] (raNtaamathe)
-* Maltese: [[it-tieni]]
+* Maltese: {{t|mt|it-tieni|xs=Maltese}}
 * Norwegian: {{t-|no|andre|n}}
 * Portuguese: {{t+|pt|segundo|m}}
 * Russian: {{t+|ru|второй|tr=vtorój}}
@@ -308,7 +308,7 @@ From {{OF.}} {{term|lang=fro|second}}.
 * Swedish: {{t+|sv|andra}}
 * [[Telugu]]: [[రెండవ]] (reMDava)
 * Thai: {{THchar|[[ที่สอง]]}} (têe sŏng)
-* Turkish: [[ikinci]]
+* Turkish: {{t|tr|ikinci}}
 * Vietnamese: ([[cái#Vietnamese|cái]], [[vật]], [[chiếc]]...) [[thứ]] [[hai#Vietnamese|hai]]
 {{trans-bottom}}
 
@@ -325,17 +325,17 @@ From {{OF.}} {{term|lang=fro|second}}.
 =====Translations=====
 {{trans-top|to agree as a second person}}
 * Danish: [[støtte]], [[sekundere]], [[bakke op]]
-* Dutch: [[bijvallen]], [[ondersteunen]]
+* Dutch: {{t|nl|bijvallen}}, {{t+|nl|ondersteunen}}
 * Estonian: [[toetama]]
 * Finnish: {{t+|fi|kannattaa}}
 * [[Interlingua]]: [[secundar]]
-* Italian: [[assecondare]], [[secondare]], [[appoggiare]], [[sostenere]]
+* Italian: {{t|it|assecondare}}, {{t|it|secondare}}, {{t+|it|appoggiare}}, {{t+|it|sostenere}}
 {{trans-mid}}
-* Portuguese: [[apoiar]], [[secundar]]
+* Portuguese: {{t|pt|apoiar}}, {{t-|pt|secundar}}
 * Romanian: [[susţine]], [[secunda]]
 * Slovak: [[podporiť]], [[vyjadriť súhlas]]
 * Spanish: {{t-|es|secundar}}
-* Swedish: [[bifalla]], [[instämma]], [[sekundera]], [[stödja]]
+* Swedish: {{t|sv|bifalla}}, {{t|sv|instämma}}, {{t|sv|sekundera}}, {{t+|sv|stödja}}
 * Vietnamese: [[ủng hộ]], [[tán thành]]
 {{trans-bottom}}
 
