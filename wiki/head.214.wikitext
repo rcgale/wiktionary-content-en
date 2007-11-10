@@ -164,7 +164,7 @@
 * Finnish: {{t+|fi|pää}}, {{t-|fi|nuppi}}
 * French: {{t+|fr|tête|f}}
 * German: {{t+|de|Kopf|m}}; {{t+|de|Haupt|n}} {{i|rarely used}}
-* Greek: {{t-|el|sc=Grek|κεφάλι|n|tr=kefáli}}, {{t+|el|sc=Grek|κεφαλή|f|tr=kefalí}}
+* Greek: {{t+|el|κεφάλι|n|tr=kefáli|sc=Grek}}, {{t+|el|κεφαλή|f|tr=kefalí|sc=Grek}}
 * [[Guaraní]]: [[akã]]
 * [[Guugu Yimidhirr]]: [[ngaabaay]], [[gambuugu]], [[gudyiir]]
 * Hawaiian: [[po'o|poʻo]]
@@ -191,11 +191,11 @@
 * [[Neapolitan]]: [[capuzzèlla]], [[capucchióne]], [[càpa]] {{f}}
 * Persian: {{FAchar|[[سر|سَر]]}} (sær)
 * [[Pitjantjatjara]]: [[kata]]
-* Polish: [[głowa]] {{f}}
+* Polish: {{t|pl|głowa|f}}
 * Portuguese: {{t|pt|cabeça|f}}
 * [[Rohingya]]: [[matá]]
 * Romanian: {{t-|ro|cap|m}}
-* Russian: {{t+|ru|голова|tr=golová|f}}
+* Russian: {{t+|ru|голова|f|tr=golová}}
 * [[Sardinian]]: [[conca]] {{f}}
 * [[Scots]]: [[heid]], [[pow#Scots|pow]]
 * [[Scottish Gaelic]]: [[ceann]] {{m}}
@@ -203,12 +203,12 @@
 * Slovene: [[glava]] {{f}}, [[buča]] (''informal'')
 * Spanish: {{t+|es|cabeza|f}}
 * Swahili: [[kichwa]] ''(nc 7/8)''
-* Swedish: [[huvud]] {{n}}, [[skalle]] {{c}}
+* Swedish: {{t+|sv|huvud|n}}, {{t|sv|skalle|c}}
 * [[Tagalog]]: [[ulo]]
 * [[Telugu]]: [[తల]] (tala)
 * [[Tupinambá]]: [[akanga]]
 * Turkish: {{t+|tr|baş}}
-* Ukrainian: [[голова]] (holová) {{f}}
+* Ukrainian: {{t-|uk|голова|f|tr=holová|xs=Ukrainian}}
 * [[Warlpiri]]: [[walu]]
 * Welsh: {{t-|cy|pen|m|xs=Welsh}}
 {{trans-bottom}}
@@ -222,13 +222,13 @@
 {{trans-top|mental or emotional control}}
 * Greek: [[αυτοκυριαρχία]] (aftokiriarkhia) {{f}}
 {{trans-mid}}
-* Swedish: {{t+|sv|huvud|n}}, [[fattning]] {{c}}
+* Swedish: {{t+|sv|huvud|n}}, {{t|sv|fattning|c}}
 {{trans-bottom}}
 
 {{trans-top|topmost part of anything}}
 * Arabic: {{ARchar|[[رأس]]}} {{unicode|(ra’s)}} {{m|f}}
 * German: [[Spitze]] {{f}}, [[Oberende]] {{n}}, [[Kopf]] {{m}}, [[Dach]] {{n}} (''fig.'')
-* Greek: [[κεφαλή]] (kefalí) {{f}}, [[κεφάλι]] (kefáli) {{n}}
+* Greek: {{t+|el|κεφαλή|f|tr=kefalí}}, {{t+|el|κεφάλι|n|tr=kefáli}}
 {{trans-mid}}
 * Spanish: {{t+|es|punta|f}}
 * Swedish: [[spets]] {{c}}, [[topp]] {{c}}, [[övre]] [[ända]] {{c}}, [[-huvud]] {{n}}
@@ -241,12 +241,12 @@
 * [[Breton]]: [[penn]] {{m}}, pennoù {{p}}
 * Czech: {{t+|cs|hlava|f}}
 * Dutch: [[hoofd]] {{n}}, [[baas]] {{m}}, [[bazin]] {{f}}, [[leider]] {{m}}, [[leidster]] {{f}}, [[chef]] {{m}}, [[cheffin]] {{f}} (''not used often'')
-* Finnish: [[johtaja]], [[päällikkö]]
+* Finnish: {{t+|fi|johtaja}}, {{t|fi|päällikkö}}
 * French: {{t+|fr|chef|m}}
 * German: {{t-|de|Oberhaupt|n}}, {{t+|de|Haupt|n}}, {{t+|de|Kopf|m}}
 * Greek: [[κεφαλή]] (kefalí) {{f}}, [[κεφάλι]] (kefáli) {{n}}, [[αρχηγός]] (arkhigos) {{m}}
 * [[Guaraní]]: [[mburuvicha]]
-* Indonesian: [[kepala]], [[pimpin|pemimpin]]
+* Indonesian: {{t+|id|kepala|xs=Indonesian}}, {{t-|id|pimpin|alt=pemimpin|xs=Indonesian}}
 * [[Interlingua]]: [[chef]], [[leader]]
 * Japanese: [[指導者]] (しどうしゃ, shidōsha), [[頭]] ([[かしら]], kashira)
 * Kurdish: [[serok]], {{KUchar|[[سه‌رۆک]]}}, {{KUchar|[[سه‌رگه‌وره‌]]}}
@@ -254,10 +254,10 @@
 * Lithuanian: [[galva]] {{f}}; [[vadovas]] {{m}}, [[vadovė]] {{f}}
 * [[Low Saxon]]: [[baas]], {{m|f}}
 * Maltese: {{t-|mt|kap|m|xs=Maltese}}, {{t-|mt|kapa|f|xs=Maltese}}
-* Polish: [[kierownik]] {{m}}, [[kierowniczka]] {{f}}
+* Polish: {{t|pl|kierownik|m}}, {{t|pl|kierowniczka|f}}
 * Portuguese: {{t+|pt|chefe|m|f}}, {{t|pt|cabeça|m}}, {{t+|pt|líder|m|f}}
 * Romanian: {{t-|ro|şef|m}}
-* Russian: [[глава]] (glavá) {{m|f}}
+* Russian: {{t|ru|глава|m|f|tr=glavá}}
 * Slovene: [[poglavar]], [[vodja]] {{m}}
 * Spanish: {{t+|es|cabeza|f}}, {{t+|es|jefe|m}}, {{t-|es|líder|m}},
 * Swahili: [[mkuu]] ''(nc 1/2)''
@@ -269,7 +269,7 @@
 
 {{trans-top|headmaster, headmistress}}
 * Arabic: {{ARchar|[[رئيس]]}} {{unicode|(ra’īs)}} {{m}}
-* Finnish: [[rehtori]], [[johtajaopettaja]]
+* Finnish: {{t-|fi|rehtori}}, {{t|fi|johtajaopettaja}}
 * German: {{t+|de|Leiter|m}}, {{t|de|Leiterin|f}}, {{t-|de|Rektor|m}}, {{t|de|Rektorin|f}}, {{t+|de|Direktor|m}}, {{t|de|Direktorin|f}}
 * Greek: [[διευθυντής]] (diefthintis) {{m}}, [[διευθύντρια]] (diefthintria) {{f}}
 * Kurdish: [[serperişt]]
@@ -294,7 +294,7 @@
 {{trans-top|foam on carbonated beverages}}
 * German: {{t+|de|Blume|f}}, {{t+|de|Krone|f}}, {{t|de|Schaumkrone|f}}
 {{trans-mid}}
-* Swedish: [[bornyr]] {{c}}, [[fradga]] {{c}}, [[skum]] {{n}}
+* Swedish: {{t|sv|bornyr|c}}, {{t|sv|fradga|c}}, {{t|sv|skum|n}}
 {{trans-bottom}}
 
 {{trans-top|end of hammer, etc.}}
@@ -303,7 +303,7 @@
 * Kurdish: {{t+|ku|ser}}
 {{trans-mid}}
 * Lithuanian: {{t-|lt|galva|f|xs=Lithuanian}}
-* Russian: [[головка]] (golóvka) {{f}}
+* Russian: {{t|ru|головка|f|tr=golóvka}}
 * Spanish: {{t+|es|cabeza|f}}
 * Swedish: {{t+|sv|huvud|n}}
 {{trans-bottom}}
@@ -315,7 +315,7 @@
 * Kurdish: {{t+|ku|ser}}
 {{trans-mid}}
 * Lithuanian: [[galvutė]] {{f}}
-* Russian: [[головка]] (golóvka) {{f}}
+* Russian: {{t|ru|головка|f|tr=golóvka}}
 * Spanish: {{t+|es|cabeza|f}}
 * Swedish: {{t+|sv|huvud|n}}
 {{trans-bottom}}
@@ -361,14 +361,14 @@
 * Hebrew: [[ראש]] (rosh)
 {{trans-mid}}
 * Russian: {{t+|ru|главный|tr=glávnyj}}
-* Swedish: [[huvud-]], [[främst]], [[först]], [[topp-]]
+* Swedish: {{t|sv|huvud-}}, {{t|sv|främst}}, {{t-|sv|först}}, {{t|sv|topp-}}
 {{trans-bottom}}
 
 {{trans-top|placed at the top or the front}}
 * Hebrew: [[ראש]] (rosh)
 {{trans-mid}}
 * Russian: {{t|ru|передний|tr=p'er'édnij}}, {{t|ru|верхний|tr=v'érχnij}}
-* Swedish: [[främst]], [[först]]
+* Swedish: {{t|sv|främst}}, {{t-|sv|först}}
 {{trans-bottom}}
 
 {{trans-top|coming from in front}}
@@ -401,13 +401,13 @@
 * French: {{t+|fr|commander}}, {{t+|fr|diriger}}
 * German: {{t+|de|führen}}, {{t+|de|leiten}}
 * Hebrew: [[עמד בראש]] (amad b’rosh)
-* Indonesian: [[pimpin|memimpin]]
+* Indonesian: {{t-|id|pimpin|alt=memimpin|xs=Indonesian}}
 {{trans-mid}}
 * [[Interlingua]]: [[commandar]], [[diriger]], [[leaderar]]
 * Japanese: [[指導する]] (しどうする, shidō-surú)
 * Kurdish: [[birêvebirin]]
 * [[Low Saxon]]: [[kommandeern]], dat Seggen hebben
-* Polish: [[kierować]]
+* Polish: {{t|pl|kierować}}
 * Portuguese: {{t+|pt|comandar}}, {{t+|pt|dirigir}}, {{t-|pt|liderar}}
 * Russian: [[возглавлять]]/[[возглавить]] (vozglavl'át'/vozglávit')
 * Spanish: {{t-|es|encabezar}}, {{t-|es|dirigir}}, {{t-|es|liderar}}
@@ -418,27 +418,27 @@
 * German: {{t+|de|köpfen}}
 {{trans-mid}}
 * Spanish: {{t-|es|cabecear}}
-* Swedish: [[nicka]], [[skalla]]
+* Swedish: {{t-|sv|nicka}}, {{t|sv|skalla}}
 {{trans-bottom}}
 
 {{trans-top|(intransitive) move in a specified direction}}
 * [[Basque]]: [[zuzendu]]
 * [[Breton]]: [[skeiñ]] war-du
 * Dutch: ergens naar toe [[gaan]], een richting op [[gaan]]
-* Finnish: [[suunnata]], [[johtaa]]
+* Finnish: {{t|fi|suunnata}}, {{t+|fi|johtaa}}
 * French: [[se diriger]] (''towards:'' [[vers]])
 * German: [[ansteuern]], in eine [[Richtung]] [[gehen]], auf etwas [[zusteuern]]
-* Indonesian: [[tuju|menuju]]
+* Indonesian: {{t-|id|tuju|alt=menuju|xs=Indonesian}}
 {{trans-mid}}
 * [[Interlingua]]: [[diriger se]]
 * Japanese: [[向かう]] ([[むかう]], mukau)
 * [[Low Saxon]]: op to stüürn
 * Kurdish: [[ber]]ê xwe dan derekê, ber bi derekê ve [[çûn]]
-* Polish: [[kierować się]]
-* Portuguese: [[dirigir-se]], [[encaminhar-se]], [[rumar]]
+* Polish: {{t|pl|kierować się}}
+* Portuguese: {{t|pt|dirigir-se}}, {{t|pt|encaminhar-se}}, {{t|pt|rumar}}
 * Russian: [[направляться]]/[[направиться]] (napravl'át's'a/naprávit's'a)
 * Spanish: {{t|es|dirigirse}}
-* Swedish: [[åka]]
+* Swedish: {{t+|sv|åka}}
 {{trans-bottom}}
 
 ===Related terms===
