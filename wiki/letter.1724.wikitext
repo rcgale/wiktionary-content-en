@@ -39,7 +39,7 @@
 ====Translations====
 {{trans-top|letter of the alphabet}}
 *Arabic: {{ARchar|[[حرف|حَرْف]]}} (ħarf) {{m}}, {{ARchar|[[حروف|حُرُوف]]}} {{IPAchar|(ħurúːf)}} {{p}}
-* Bulgarian: {{t+|bg|буква|tr=búkva|f}}
+* Bulgarian: {{t+|bg|буква|f|tr=búkva}}
 *[[Catalan]]: [[lletra]] {{f}} [[:ca:lletra|^]], [[caràcter]]
 *Croatian: [[slovo#Croatian|slovo]] {{n}} [[:hr:slovo|^]]
 *Chinese: [[字母]] (zìmǔ)
@@ -58,9 +58,9 @@
 *Indonesian: [[huruf]]
 * Irish: {{t-|ga|litir|f|xs=Irish}}
 *Italian: {{t+|it|lettera|f}}, {{t+|it|carattere|m}}
-*Japanese: {{t|ja|sc=Jpan|文字|tr=móji}}
+*Japanese: {{t+|ja|文字|tr=móji|sc=Jpan}}
 {{trans-mid}}
-*Korean: {{t|ko|sc=Hang|문자|tr=munja}}
+*Korean: {{t+|ko|문자|tr=munja|sc=Hang}}
 *Kurdish: {{KUchar|[[پیت]]}}
 *Latin: {{t+|la|littera}}
 * Latvian: {{t-|lv|burts|m|xs=Latvian}}
@@ -71,18 +71,18 @@
 *Nepali: (akshyar)
 *Polish: {{t|pl|litera|f}}
 *Portuguese: {{t+|pt|letra|f}}, {{t|pt|caractér|m}}
-*Romanian: [[literă]] {{f}}, [[caracter]] {{n}}
-* Russian: {{t+|ru|буква|tr=búkva|f}}
+* Romanian: {{t|ro|literă|f}}, {{t|ro|caracter|n}}
+* Russian: {{t+|ru|буква|f|tr=búkva}}
 *[[Scottish Gaelic]]: [[litir]] {{f}}
 *Serbian: [[slovo]] {{n}}, [[bukva]] {{f}} (archaic)/(poetic)
 * Slovak: {{t-|sk|písmeno|n}}
 *Slovene: [[črka]] {{f}}
 *Spanish: {{t+|es|letra|f}}, {{t+|es|carácter|m}}
-*Swahili: [[herufi]]
+* Swahili: {{t|sw|herufi|xs=Swahili}}
 * Swedish: {{t+|sv|bokstav}}
 *[[Tamil]]: [[எழுத்து]] (ezhuttu)
 *[[Telugu]]: [[అక్షరం]] (aksharaM)
-* Ukrainian: {{t-|uk|буква|tr=búkva|f|xs=Ukrainian}}
+* Ukrainian: {{t-|uk|буква|f|tr=búkva|xs=Ukrainian}}
 {{trans-bottom}}
 
 {{trans-top|written message}}
@@ -90,7 +90,7 @@
 *Arabic: {{ARchar|[[رسالة|رِسَالَة]]}} {{IPAchar|(risáːla)}} {{f}}
 * Armenian: {{t-|hy|նամակ|xs=Armenian}}
 *[[Basque]]: [[eskutitz]]
-* Bulgarian: {{t+|bg|писмо|tr=pismó|n}}
+* Bulgarian: {{t+|bg|писмо|n|tr=pismó}}
 *[[Catalan]]: [[carta]] {{f}}
 *Chinese: [[信]] (xìn), [[函件]] (hán jiàn)
 *Croatian: [[pismo#Croatian|pismo]] {{n}} [[:hr:pismo|^]]
@@ -104,15 +104,15 @@
 * Estonian: {{t-|et|kiri}}
 *German: {{t+|de|Brief|m}}
 *Greek: [[επιστολή]] {{IPAchar|[e̞ˌpisto̞ˈli]}} {{f}}, [[γράμμα]] {{IPAchar|[ˈɣrama]}} {{n}}
-*Hindi: [[पत्र]] {{m}}, [[चिट्टी]] {{f}}
+* Hindi: {{t|hi|पत्र|m|xs=Hindi}}, {{t|hi|चिट्टी|f|xs=Hindi}}
 * Hungarian: {{t+|hu|levél}}
-*Icelandic: [[bréf]] {{n}}, [[sendibréf]] {{n}}
+* Icelandic: {{t+|is|bréf|n}}, {{t|is|sendibréf|n}}
 * Indonesian: {{t+|id|surat|xs=Indonesian}}
 * Irish: {{t-|ga|litir|f|xs=Irish}}
 * Italian: {{t+|it|lettera|f}}
 *Japanese: [[手紙]] ([[てがみ]], tegamí)
 {{trans-mid}}
-*Korean: {{t|ko|sc=Hang|편지|tr=pyeonji}}
+*Korean: {{t-|ko|편지|tr=pyeonji|sc=Hang}}
 *Kurdish: {{KUchar|[[نامه‌]]}}
 * Latin: {{t-|la|epistula|f}}
 *Latvian: [[vēstule]] {{f}}
@@ -123,20 +123,20 @@
 *Nepali: [[पत्र]] (patra)
 * Polish: {{t+|pl|list|m}}
 * Portuguese: {{t+|pt|carta|f}}
-*Romanian: [[scrisoare]] {{f}}
+* Romanian: {{t|ro|scrisoare|f}}
 *Russian: [[письмо]] (pis’mó) {{n}}
 *[[Scottish Gaelic]]: [[litir]] {{f}}
-* Serbian: {{t+|sr|писмо|tr=pismo|n}}
+* Serbian: {{t+|sr|писмо|n|tr=pismo}}
 * Slovak: {{t-|sk|list|m}}
 * Slovene: {{t+|sl|pismo|n}}
 *Spanish: {{t+|es|carta|f}}
-*Swahili: [[barua]]
+* Swahili: {{t|sw|barua|xs=Swahili}}
 * Swedish: {{t+|sv|brev}}
 *[[Tamil]]: {{t|ta|கடுதாசி|xs=Tamil}} (kakitham)
 *[[Telugu]]: [[ఉత్తరము]] (uttaramu), [[జాబు]] (jaabu)
 *[[Tetum]]: [[karta]], [[surat]]
-*Turkish: [[mektup]]
-* Ukrainian: {{t-|uk|лист|tr=list|m|xs=Ukrainian}}
+* Turkish: {{t|tr|mektup}}
+* Ukrainian: {{t-|uk|лист|m|tr=list|xs=Ukrainian}}
 {{trans-bottom}}
 
 [[Category:1000 English basic words]]
