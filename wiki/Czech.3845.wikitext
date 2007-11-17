@@ -19,15 +19,15 @@
 * [[Catalan]]: {{t|ca|txec}}
 * Chinese: [[捷克的]] (Jiékè de)
 * Croatian: {{t-|hr|češki}}
-* Czech: {{t|cs|český}}
+* Czech: {{t+|cs|český}}
 * Danish: {{t|da|tjekkisk}}
 * Dutch: {{t+|nl|Tsjechisch}}
-* Estonian: {{t|ee|tšehhi}}
-* Finnish: {{t|fi|tšekkiläinen}}, {{t|fi|tšekki}}
-* French: {{t|fr|tchèque}}
+* Estonian: {{tø|ee|tšehhi|xs=Ewe}}
+* Finnish: {{t|fi|tšekkiläinen}}, {{t+|fi|tšekki}}
+* French: {{t+|fr|tchèque}}
 * German: {{t|de|tschechisch}}
-* Greek: {{t|el|τσέχικος}}
-* Hebrew: {{t|he|צ'כי|tr=chekhi}}
+* Greek: {{t|el|τσέχικος|sc=Grek}}
+* Hebrew: {{t|he|צ'כי|tr=chekhi|sc=Hebr}}
 * Hungarian: {{t+|hu|cseh}}
 * Icelandic: {{t|is|tékkneskur}}
 * Italian: {{t+|it|ceco}}
@@ -36,14 +36,14 @@
 * Persian: {{FAchar|[[چک]]}} (chek)
 * Polish: {{t|pl|czeski}}
 * Portuguese: {{t|pt|tcheco}}
-* Romanian: {{t|ro|ceh}}
-* Russian: {{t|ru|чешский|tr=češskij}}
+* Romanian: {{t-|ro|ceh}}
+* Russian: {{t|ru|чешский|tr=češskij|sc=Cyrl}}
 * Serbian:
-*: Cyrillic: {{t-|sr|чешки}}
+*: Cyrillic: {{t-|sr|чешки|sc=Cyrl}}
 *: Roman: {{t-|sr|češki}}
-* Slovak: {{t|sk|český}}
+* Slovak: {{t-|sk|český}}
 * Slovene: {{t+|sl|češki}}
-* Spanish: {{t|es|checo}}
+* Spanish: {{t+|es|checo}}
 * Swedish: {{t|sv|tjeckisk}}
 {{bottom}}
 
@@ -64,7 +64,7 @@
 * Finnish: {{t+|fi|tšekki}}
 * French: {{t+|fr|Tchèque}}, {{t|fr|Tchèques|p}}
 * German: {{t|de|Tscheche|m}}, {{t|de|Tschechin|f}}, {{t|de|Tschechen|m|p}}, {{t|de|Tschechinnen|f|p}}
-* Greek: {{t|el|Τσέχος|m}}, {{t|el|Τσέχα|f}}
+* Greek: {{t|el|Τσέχος|m|sc=Grek}}, {{t|el|Τσέχα|f|sc=Grek}}
 * Hebrew: [[צ'כי]] (chekhi) {{m}}, [[צ'כית]] (chekhit) {{f}}
 * Hungarian: {{t+|hu|cseh}}
 * Icelandic: {{t|is|Tékki|m}}
@@ -101,7 +101,7 @@
 * Belarusian: [[чэскай]], [[чэская]], [[чэшская]]
 * Bosnian: {{t-|bs|češki|m}}
 * [[Breton]]: [[Tchekeg]]
-* Bulgarian: {{t-|bg|чешки|tr=češki}}
+* Bulgarian: {{t-|bg|чешки|tr=češki|sc=Cyrl}}
 * [[Catalan]]: [[txec]]
 * Cherokee: [[ᏤᎬ]] (tsegv)
 * Chinese: [[捷克语]] (Jiékè yǔ)
@@ -116,10 +116,10 @@
 * [[Galician]]: [[checo]]
 * Georgian: [[ჩეხური]] (čeχuri)
 * German: {{t|de|Tschechisch|n}}
-* Greek: {{t+|el|τσεχικά|n|p}} (tsechiká)
+* Greek: {{t+|el|τσεχικά|n|p|sc=Grek}} (tsechiká)
 * [[Gujarati]]: [[ચેક]]
 * Hebrew: [[צ׳כית]] (chekhít) {{f}}
-* Hindi: {{t|hi|चेक|xs=Hindi}}
+* Hindi: {{t|hi|चेक|sc=Deva|xs=Hindi}}
 * Hungarian: {{t+|hu|cseh}}
 * Icelandic: {{t|is|tékkneska|f}}
 * Indonesian: [[Ceko]]
@@ -142,7 +142,7 @@
 * Polish: {{t|pl|czeski|m}}
 * Portuguese: [[tcheco]] ''(in Brazil)'', [[checo]] ''(in other countries)''
 * Romanian: {{t-|ro|cehă}}
-* Russian: {{t|ru|чешский|tr=čéškij}}
+* Russian: {{t|ru|чешский|tr=čéškij|sc=Cyrl}}
 * Serbian:
 *: Cyrillic: [[чешки]] {{m}}
 *: Roman: [[češki]] {{m}}
@@ -150,7 +150,7 @@
 * Slovene: {{t+|sl|češčina|f}}
 * [[Sorbian]]: [[Čěšćina]]
 * Spanish: {{t+|es|checo|m}}
-* Swedish: {{t|sv|tjeckiska}}
+* Swedish: {{t+|sv|tjeckiska}}
 * [[Tamil]]: [[செக]]
 * [[Tatar]]: [[чех]] (çex)
 * Thai: {{THchar|[[ภาษาเซ็คโกฯ]]}} (paasăa sékgohsàlohwaagia), {{THchar|[[ภาษาเชค]]}} (paasăa chêk), {{THchar|[[ภาษาเช็ก]]}} (paasăa chék)
