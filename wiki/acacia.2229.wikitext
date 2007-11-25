@@ -8,7 +8,7 @@
 *:{{rhymes|eɪʃə}}
 
 ===Etymology 1===
-From {{L.}} '''[[#Latin|acacia]]''' < {{AGr.}} '''{{polytonic|[[ἀκακία]]}}''' (akakia) < '''{{polytonic|[[ἀκή]]}}''' (akē) "point"
+From {{L.}} {{term|acacia|lang=la}} < {{AGr.}} {{term|sc=polytonic|ἀκακία|tr=akakia|lang=grc}} < {{term|sc=polytonic|ἀκή|tr=akē||point|lang=grc}}.
 
 ====Noun====
 {{en-noun|s|-}}
@@ -17,15 +17,15 @@ From {{L.}} '''[[#Latin|acacia]]''' < {{AGr.}} '''{{polytonic|[[ἀκακία]]}
 # {{context|pharmacy|uncountable}} The [[inspissated]] juice of several species of ''[[Acacia]]''.
 
 =====Synonyms=====
-*(''medical: juice of several species of Acacia''): [[gum acacia]], [[gum arabic]]
+*{{sense|medical: juice of several species of Acacia}} [[gum acacia]], [[gum arabic]]
 
 =====Translations=====
 {{trans-top|shrub or tree}}
-*Finnish: [[akasia]] (''official''), [[akaasia]] (''unofficial'')
-*French: [[#French|acacia]] {{m}}
+*Finnish: {{t|fi|akasia}} {{qualifier|official}}, {{t|fi|akaasia}} {{qualifier|unofficial}}
+*French: {{t|fr|acacia|m}}
 {{trans-mid}}
-*Portuguese: [[acácia]] {{f}}
-*Russian: [[акация]] (akátsija) {{f}}
+*Portuguese: {{t|pt|acácia|f}}
+*Russian: {{t|ru|акация|tr=akátsija|f}}
 {{trans-bottom}}
 
 ===Etymology 2===
@@ -47,7 +47,7 @@ Unknown
 ==Dutch==
 
 ===Etymology===
-From {{L.|nl}} or {{F.|nl}} ''[[#French|acacia]]''
+From {{L.|nl}} {{term|acacia|lang=la}} or {{F.|nl}} {{term|acacia|lang=fr}}.
 
 ===Noun===
 {{infl|nl|noun|g=m|g2=f}}
@@ -59,7 +59,7 @@ From {{L.|nl}} or {{F.|nl}} ''[[#French|acacia]]''
 ==Latin==
 
 ===Etymology===
-From {{AGr.|la}} '''{{polytonic|[[ἀκακία]]}}''' {{italbrac|akakia}} < '''{{polytonic|[[ἀκή]]}}''' (akē) "point"
+From {{AGr.|la}} {{term|sc=polytonic|ἀκακία|tr=akakia|lang=grc}} < {{term|sc=polytonic|ἀκή|tr=akē||point|lang=grc}}.
 
 ===Noun===
 {{la-noun|acācia|acaciae#Latin|acāciae|f|first}}
@@ -68,14 +68,14 @@ From {{AGr.|la}} '''{{polytonic|[[ἀκακία]]}}''' {{italbrac|akakia}} < '''
 # The juice of gum of this plant.
 # {{inflection of|acacia#Latin|acācia|voc|s}}
 
-'''acāciā''' {{f}}
+{{infl|la|noun form|head=acāciā|g=f}}
+
 # {{inflection of|acacia#Latin|acācia|abl|s}}
 
 ====Inflection====
 {{ladecl1}}
 {{la-decl-1st|acaci|acāci}}
 
-[[category:Latin noun forms]]
 [[Category:la:Plants]]
 
 ----
@@ -83,7 +83,7 @@ From {{AGr.|la}} '''{{polytonic|[[ἀκακία]]}}''' {{italbrac|akakia}} < '''
 ==Romanian==
 
 ===Etymology===
-From {{L.|ro}} or {{F.|ro}} ''[[#French|acacia]]''.
+From {{L.|ro}} {{term|acacia|lang=la}} or {{F.|ro}} {{term|acacia|lang=fr}}.
 
 ===Noun===
 {{infl|ro|noun}}
