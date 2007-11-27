@@ -1349,35 +1349,35 @@
 * Chinese:
 *: Mandarin: {{zh-ts|時間|时间}} ([[shíjiān]])
 *: Min Nan: {{zh-ts|時間|时间}} ([[sî-kan]])
-* Croatian: [[vrijeme]] {{n}}
-* Czech: [[čas]] {{m}}
-* Danish: [[tid]] {{c}}
-* Esperanto: [[tempo]]
-* Estonian: [[aeg]]
-* Finnish: [[aika]]
-* French: {{t|fr|temps|m}}
-* German: [[Zeit]] {{f}}
+* Croatian: {{t+|hr|vrijeme|n}}
+* Czech: {{t+|cs|čas|m}}
+* Danish: {{t-|da|tid|c}}
+* Esperanto: {{t-|eo|tempo|xs=Esperanto}}
+* Estonian: {{t+|et|aeg}}
+* Finnish: {{t+|fi|aika}}
+* French: {{t+|fr|temps|m}}
+* German: {{t+|de|Zeit|f}}
 * Greek: [[χρόνος]] (chrónos) {{m}}, [[καιρός]] (kerós) {{m}}
 * Hebrew: [[זמן]] (zman) {{m}}
-* Hungarian: [[idő]]
+* Hungarian: {{t+|hu|idő}}
 * Icelandic: [[tími]] {{m}} (usually in definite form)
-* Italian: [[tempo]] {{m}}
+* Italian: {{t+|it|tempo|m}}
 * Japanese: [[時間]] (じかん, jikan)
 {{trans-mid}}
 * Kurdish: {{KUchar|[[وه‌خت]]}}
-* Latin: [[tempus]] {{n}}
+* Latin: {{t+|la|tempus|n}}
 * Latvian: [[laiks]] {{m}}
 * Maltese: [[darba]]
 * [[Malayalam]]: [[സമയം]] (samayam)
-* Norwegian: [[tid]] {{m|f}}
-* Polish: [[czas]] {{m}}
-* Portuguese: [[tempo]] {{m}}
-* Russian: [[время]] (vrémja) {{n}}
-* Serbian: [[vreme]] {{n}}
-* Slovene: [[čas]] {{m}}
-* Spanish: {{t|es|tiempo|m}}
+* Norwegian: {{t-|no|tid|m|f}}
+* Polish: {{t+|pl|czas|m}}
+* Portuguese: {{t+|pt|tempo|m}}
+* Russian: {{t+|ru|время|n|tr=vrémja|sc=Cyrl}}
+* Serbian: {{t-|sr|vreme|n}}
+* Slovene: {{t+|sl|čas|m}}
+* Spanish: {{t+|es|tiempo|m}}
 * Ukrainian: [[час]] (čas) {{m}}
-* Turkish: [[zaman]]
+* Turkish: {{t+|tr|zaman}}
 {{trans-bottom}}
 
 {{trans-top|quantity of availability in time}}
@@ -1386,25 +1386,25 @@
 * Chinese:
 *: Mandarin: {{zh-ts|時間|时间}} ([[shíjiān]])
 *: Min Nan: {{zh-ts|時間|时间}} ([[sî-kan]])
-* Czech: [[čas]] {{m}}
-* Danish: [[tid]] {{c}}
-* Esperanto: [[tempo]]
-* Finnish: [[aika]]
-* French: [[temps]] {{m}}
-* German: [[Zeit]] {{f}}
+* Czech: {{t+|cs|čas|m}}
+* Danish: {{t-|da|tid|c}}
+* Esperanto: {{t-|eo|tempo|xs=Esperanto}}
+* Finnish: {{t+|fi|aika}}
+* French: {{t+|fr|temps|m}}
+* German: {{t+|de|Zeit|f}}
 * Greek: [[προθεσμία]] (prothesmia) {{f}}
-* Hungarian: [[idő]]
-* Icelandic: [[tími]] {{m}}
-* Irish: [[am]]
-* Italian: [[tempo]] {{m}}
+* Hungarian: {{t+|hu|idő}}
+* Icelandic: {{t+|is|tími|m}}
+* Irish: {{t-|ga|am|xs=Irish}}
+* Italian: {{t+|it|tempo|m}}
 {{trans-mid}}
 * Japanese: [[時間]] (じかん, jikan)
 * Kurdish: {{KUchar|[[وه‌خت]]}}
 * Maltese: [[ftit ieħor]]
 * [[Malayalam]]: [[സമയം]] (samayam)
-* Portuguese: [[tempo]] {{m}}
-* Russian: [[время]] (vrémja) {{n}}
-* Slovene: [[čas]] {{m}}
+* Portuguese: {{t+|pt|tempo|m}}
+* Russian: {{t+|ru|время|n|tr=vrémja|sc=Cyrl}}
+* Slovene: {{t+|sl|čas|m}}
 * Ukrainian: [[час]] (čas) {{m}}
 * Turkish: [[vakt]], [[vakit]]
 {{trans-bottom}}
@@ -1416,7 +1416,7 @@
 * Hungarian: [[időtartam]]
 {{trans-mid}}
 * Kurdish: {{KUchar|[[وه‌خت]]}}
-* Russian: [[время]] (vrémja) {{n}}
+* Russian: {{t+|ru|время|n|tr=vrémja|sc=Cyrl}}
 * Ukrainian: [[час]] (čas) {{m}}
 {{trans-bottom}}
 
@@ -1424,14 +1424,14 @@
 * [[Catalan]]: [[pena]] {{f}}
 * Danish: [[afsoningstid]]
 * Finnish: [[tuomio]], [[kakku]] (''slang'')
-* French: [[peine]] {{f}}
+* French: {{t+|fr|peine|f}}
 * Greek: [[ποινή]] (piní) {{f}}
 * Icelandic: [[afplánunartími]] {{m}}
-* Italian: [[pena]] {{f}}
+* Italian: {{t-|it|pena|f}}
 {{trans-mid}}
-* Maltese: [[pina]] {{f}}
-* Portuguese: [[pena]] {{f}}
-* Russian: [[срок]] (srok) {{m}}
+* Maltese: {{t-|mt|pina|f|xs=Maltese}}
+* Portuguese: {{t+|pt|pena|f}}
+* Russian: {{t+|ru|срок|m|tr=srok|sc=Cyrl}}
 * Ukrainian: [[строк]] (strok) {{m}}, [[термін]] (termin) {{m}}
 {{trans-bottom}}
 
@@ -1444,21 +1444,21 @@
 * Chinese:
 *: Mandarin: {{zh-ts|時候|时候}} ([[shíhòu]])
 *: Min Nan: {{zh-ts|時陣|时阵}} ([[sî-chūn]])
-* Czech: [[čas]] {{m}}
-* Danish: [[klokken]]
-* Esperanto: [[horo]]
+* Czech: {{t+|cs|čas|m}}
+* Danish: {{t-|da|klokken}}
+* Esperanto: {{t-|eo|horo|xs=Esperanto}}
 * Finnish: [[aika]], [[kellonaika]]
-* French: [[heure]] {{f}}
+* French: {{t+|fr|heure|f}}
 * German: [[Uhrzeit]] {{f}}, [[Zeit]] {{f}}
 * Greek: [[ώρα]] (óra) {{f}}
-* Hebrew: [[שעה]] (sha'ah) {{f}}
-* Hungarian: [[idő]], [[óra]]
-* Icelandic: [[tími]] {{m}}
-* Italian: [[ora]] {{f}}
+* Hebrew: {{t-|he|שעה|f|tr=sha'ah|sc=Hebr}}
+* Hungarian: {{t+|hu|idő}}, {{t+|hu|óra}}
+* Icelandic: {{t+|is|tími|m}}
+* Italian: {{t+|it|ora|f}}
 {{trans-mid}}
 * Japanese: [[時間]] (じかん, jikan), [[時刻]] (じこく, jikoku)
 * Korean: [[시간]] (sigan)
-* Latin: [[hora]] {{f}}
+* Latin: {{t+|la|hora|f}}
 * Kurdish:
 *: [[Kurmanji]]: [[dem]], [[wext]], [[zeman]]
 *: [[Sorani]]: {{KUchar|[[کات]]}}, {{KUchar|[[سه‌عات]]}}
@@ -1466,20 +1466,20 @@
 * [[Malayalam]]: [[സമയം]] (samayam)
 * Maltese: [[ħin]]
 * Polish: [[czas]] {{m}}, [[godzina]] {{f}}
-* Portuguese: [[hora]] {{f}}
+* Portuguese: {{t+|pt|hora|f}}
 * [[Punjabi]]: [[ਵਕ਼ਤ]] (vaqt)
 * Russian: [[время]] (vrémja) {{n}}, ''archaic'' [[час]] (čas) {{m}}
-* Slovene: [[ura]] {{f}}
-* Spanish: [[hora]] {{f}}
-* Swedish: [[tid]] {{c}}
+* Slovene: {{t+|sl|ura|f}}
+* Spanish: {{t+|es|hora|f}}
+* Swedish: {{t+|sv|tid|c}}
 * [[Telugu]]: [[సమయం]] (samayaM)
 * Ukrainian: [[час]] (čas) {{m}}, [[година]] (hodýna) {{f}}
-* Turkish: [[saat]]
+* Turkish: {{t+|tr|saat}}
 {{trans-bottom}}
 
 {{trans-top|measurement under some system of the time of day or moment in time}}
 {{trans-mid}}
-* Russian: [[время]] (vrémja) {{n}}
+* Russian: {{t+|ru|время|n|tr=vrémja|sc=Cyrl}}
 * Ukrainian: [[час]] (čas) {{m}}
 {{trans-bottom}}
 
@@ -1488,7 +1488,7 @@
 *: Mandarin: {{zh-ts|時候|时候}} ([[shíhòu]])
 *: Min Nan: {{zh-ts|時陣|时阵}} ([[sî-chūn]])
 {{trans-mid}}
-* Russian: [[время]] (vrémja) {{n}}
+* Russian: {{t+|ru|время|n|tr=vrémja|sc=Cyrl}}
 * Ukrainian: [[година]] (hodýna) {{f}}, [[час]] (čas) {{m}}
 {{trans-bottom}}
 
@@ -1509,17 +1509,17 @@
 * Chinese:
 *: Mandarin: {{zh-ts|次|次}} ([[cì]])
 *: Min Nan: {{zh-ts|擺|摆}} ([[pái]])
-* Croatian: [[put]]
+* Croatian: {{t-|hr|put}}
 * Danish: [[tidspunkt]] {{n}}
 * Dutch: [[keer]] {{m}}
-* Esperanto: [[fojo]]
-* Finnish: [[kerta]], [[aika]]
-* French: [[fois]] {{f}}
-* German: [[Mal]] {{n}}
+* Esperanto: {{t-|eo|fojo|xs=Esperanto}}
+* Finnish: {{t+|fi|kerta}}, {{t+|fi|aika}}
+* French: {{t+|fr|fois|f}}
+* German: {{t+|de|Mal|n}}
 * Greek: [[φορά]] (fora) {{f}}
-* Hungarian: [[idő]]
-* Icelandic: [[tími]] {{m}}
-* Italian: [[volta]] {{f}}
+* Hungarian: {{t+|hu|idő}}
+* Icelandic: {{t+|is|tími|m}}
+* Italian: {{t+|it|volta|f}}
 {{trans-mid}}
 * Japanese: [[時]] ([[とき]], [[toki]]), [[回]] (かい)
 * Korean: [[때]] (ddae)
@@ -1530,13 +1530,13 @@
 * Maltese: [[darba]]
 * [[Malayalam]]: [[സമയം]] (samayam)
 * Norwegian: [[gang]] {{m}}, [[tidspunkt]] {{n}}
-* Old English: [[mæl|mǣl]]
-* Polish: [[raz]] {{m}}
-* Portuguese: [[vez]] {{f}}
+* Old English: {{t-|ang|mæl|alt=mǣl|xs=Old English}}
+* Polish: {{t+|pl|raz|m}}
+* Portuguese: {{t+|pt|vez|f}}
 * Russian: [[раз]] (ras) {{m}}
-* Slovene: [[čas]] {{m}}
-* Spanish: [[vez]] {{f}}
-* Swedish: [[tid]] {{c}}, [[gång]] {{c}}
+* Slovene: {{t+|sl|čas|m}}
+* Spanish: {{t-|es|vez|f}}
+* Swedish: {{t+|sv|tid|c}}, {{t+|sv|gång|c}}
 * [[Telugu]]: [[సమయం]] (samayaM)
 * Ukrainian: [[час]] (čas) {{m}}
 {{trans-bottom}}
@@ -1593,14 +1593,14 @@
 {{trans-top|to measure time}}
 * Danish: [[tage tid]]
 * Finnish: [[ottaa aika]], [[kellottaa]]
-* French: [[chronométrer]]
+* French: {{t|fr|chronométrer}}
 * Greek: [[χρονομετρώ]] (khronometró)
 * Icelandic: [[mæla tímann á]], [[tímamæla]]
 {{trans-mid}}
 * Kurdish: {{KUchar|[[وه‌خت گرتن]]}}
 * Norwegian: [[ta tid]]
 * Portuguese: [[cronometrar]]
-* Spanish: [[cronometrar]]
+* Spanish: {{t|es|cronometrar}}
 * Swedish: ta [[tid]] på
 {{trans-bottom}}
 
