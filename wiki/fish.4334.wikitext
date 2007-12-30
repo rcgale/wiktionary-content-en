@@ -40,8 +40,8 @@
 * [[Afrikaans]]: [[vis]]
 * Albanian: [[peshk]] {{m}}
 * [[Aleut]]: [[sa-yak]]
-* Arabic: {{ARchar|[[سمك]]}} (samak) {{m}}
-*: Egyptian: {{ARchar|[[سمكة]]}} samaka {{f}}
+* Arabic: {{Arab|[[سمك]]}} (sámak) {{m}}
+*: Egyptian: {{Arab|[[سمكة]]}} (sámaka) {{f}}
 * Aramaic:
 *: Syriac: [[ܢܘܢܐ]] (nūnā, nūno) {{c}}
 *: Hebrew: [[נונא]] (nūnā, nūno) {{c}}
@@ -56,12 +56,15 @@
 * [[Breton]]: [[pesk]] {{m}}
 * {{trreq|Bulgarian}}
 * {{trreq|Burmese}}
-* Cantonese: [[魚]]
 * [[Catalan]]: [[peix]] {{m}} [[:ca:peix|(ca)]]
 * [[Cebuano]]: [[isda]]
 * Cherokee: [[ᎠᏣᏗ]] (atsadi)
 * [[Cheyenne]]: [[nomaˀne]]
 * Chinese: [[魚]], [[鱼]] (yú)
+*: Cantonese: [[魚]]
+*: [[Gan]]: [[鱼]] (enlei)
+*: [[Hainanese]]: [[鱼]] (hu)
+*: [[Hakka]]: [[魚]] (ng)
 * [[Chortí]]: [[čay#Chortí|čay]]
 * [[Comanche]]: [[pékwi]]
 * [[Cora]]: [[waʼi]]
@@ -83,17 +86,14 @@
 * [[Fulani]]: [[liingu]]
 * [[Galician]]: [[peixe]] {{m}}
 * [[Gamilaraay]]: [[guya]]
-* [[Gan]]: [[鱼]] (enlei)
 * Georgian: [[თევზი]] (tevzi)
 * German: [[Fisch]] {{m}} [[:de:Fisch|(de)]]
 * [[Gothic]]: [[fisks]]
 * Greek: [[ψάρι]] (psari) {{n}}
-* Greek, Ancient: [[ιχθύς]] (ichthýs) {{m}}
+*: Greek, Ancient: [[ιχθύς]] (ichthýs) {{m}}
 * [[Guaraní]]: [[pira]]
 * [[Gujarati]]: [[માછલી]] (māčlī) {{f}}
 * [[Haida]]: [[čín]]
-* [[Hainanese]]: [[鱼]] (hu)
-* [[Hakka]]: [[魚]] (ng)
 * [[Hausa]]: [[kifi]]
 * Hawaiian: [[iʻa]]
 * Hebrew: [[דג|דָּג]] (dag) {{m}}
@@ -112,7 +112,7 @@
 * [[Javanese]]: [[iwak]]
 * {{trreq|Kannada}}
 * [[Kanza]]: [[ho#Kanza|ho]]
-* {{trreq|Khmer}}
+* Khmer: {{KMchar|[[ត្រី]]}} (dt’rēi)
 * [[Klamath]]: [[kyem]]
 * Korean: [[물고기]] mulgogi
 * Kurdish: [[masî]] {{m}}, {{KUchar|[[ماسی]]}}
@@ -141,7 +141,7 @@
 * {{trreq|Nepali}}
 * Norwegian: [[fisk#Norwegian|fisk]] {{m}}
 * [[Novial]]: [[fishe#Novial|fishe]]
-* [[Ojibwe]]: [[ᑮᑰᓒ]] (giigoonh)
+* [[Ojibwe]]: [[ᑮᑰᓒ]] ([[giigoonh]])
 * Old English: [[fisc#Old English|fisc]] {{m}}
 * [[Old High German]]: [[fisc#Old High German|fisc]]
 * Old Icelandic: [[fiskr]]
@@ -158,8 +158,8 @@
 * [[Quechua]]: [[challwa]]
 * [[Quileute]]: [[ˀá·lita]]
 * [[Rohingya]]: [[mas]]
-* Romanian: [[peşte]] {{m}}
 * [[Romani]]: [[māsho]]
+* Romanian: [[peşte]] {{m}}
 * Russian: [[рыба]] (ryba) {{f}}
 * {{trreq|Samoan}}
 * Sanskrit: [[मत्स्य]] (matsya)
@@ -181,7 +181,7 @@
 * {{trreq|Tamil}}
 * [[Telugu]]: [[చేప]] (caepa)
 * [[Tetum]]: [[ikan]]
-* Thai: [[ปลา]]
+* Thai: {{Thai|[[ปลา]]}} (bplaa)
 * Tibetan: [[ཉ་]] (ña)
 * [[Tlingit]]: [[x̣ɑ́t]]
 * [[Tocharian]]:
@@ -199,7 +199,7 @@
 * Vietnamese: [[cá]]
 * Welsh: [[pysgod]]
 * [[Yucatec]]: [[kay]]
-* {{trreq|Yiddish}}
+* Yiddish: [[פֿיש]] (fish)
 {{trans-bottom}}
 
 {{trans-top|flesh of fish as food}}
