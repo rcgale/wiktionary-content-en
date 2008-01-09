@@ -5,8 +5,8 @@
 {{OE.}} {{term|þunor}}. Compare Persian {{fa-Arab|[[تندر]]}} (tondar).
 
 ===Pronunciation===
-*{{italbrac|UK}}: {{IPA|/ˈθʌn.də/}}, {{SAMPA|/"TVnd@/}}
-*{{italbrac|US}}: {{enPR|/thŭn'dər/}}, {{IPA|/ˈθʌn.dɚ/}}, {{SAMPA|/"TVnd@`/}}
+*{{a|UK}}: {{IPA|/ˈθʌn.də/}}, {{SAMPA|/"TVnd@/}}
+*{{a|US}}: {{enPR|/thŭn'dər/}}, {{IPA|/ˈθʌn.dɚ/}}, {{SAMPA|/"TVnd@`/}}
 *{{audio|en-us-thunder.ogg|Audio (US)}}
 *{{rhymes|ʌndə(r)}}
 
@@ -25,11 +25,14 @@
 
 ====Derived terms====
 *[[thunder and lightning]]<!--figurative sense-->
+*[[thunderbird]]
 *[[thunderbolt]]
 *[[thunderbox]]
 *[[thunderclap]]
 *[[thundercloud]]
+*[[thunderhead]]
 *[[thunderous]]
+*[[thundersquall]]
 *[[thunderstorm]]
 *[[thunder thighs]]
 
@@ -42,7 +45,7 @@
 *French: [[tonnerre]] {{m}}
 *German: [[Donner]] {{m}}
 *Italian: [[tuono]] {{m}}
-*Japanese: [[雷]] ([[かみなり]] (kaminarí), [[雷鳴]] (raimei)
+* Japanese: {{t|ja|sc=Jpan|雷|tr=kaminarí}}
 *Korean: [[우레]] (ure)
 *Polish: [[grzmot]] {{m}}
 {{trans-mid}}
@@ -60,6 +63,7 @@
 {{trans-top|a sound resembling thunder}}
 *Czech: [[zahřmění]] {{n}}, [[hromová rána]] {{f}}, [[hřmění]] {{n}}
 *Finnish: [[jyrinä]]
+* Japanese: {{t|ja|sc=Jpan|雷鳴|tr=raimei}}
 *Polish: [[grzmot]] {{m}}
 *Russian: [[гром]] (grom) {{m}}, [[грохот]] (gróxot) {{m}}
 {{trans-mid}}
@@ -72,6 +76,7 @@
 {{trans-top|a deep, rumbling noise}}
 *Czech: [[hřmění]] {{n}}, [[dunění]] {{n}}
 *Finnish: [[jyrinä]], [[jylinä]], [[pauhu]]
+* Japanese: {{t|ja|sc=Jpan|轟音|tr=gō'on}}
 *Polish: [[grzmot]] {{m}}
 *Russian: [[рокот]] (rókot) {{m}}
 {{trans-mid}}
@@ -81,7 +86,8 @@
 {{trans-bottom}}
 
 =====Translations to be checked=====
-{{checktrans}}
+{{checktrans-top}}
+<!--Remove this section once all of the translations below have been moved into the tables above.-->
 *{{ttbc|Arabic}}: {{ARchar|[[رعد]]}} {{IPAchar|(raʕd)}} {{m}}
 *{{ttbc|Breton}}: [[kurun]] {{f}}, [[taran]] {{m}}
 *{{ttbc|Esperanto}}: [[tondro]]
@@ -97,6 +103,7 @@
 *{{ttbc|Thai}}: {{THchar|[[สายฟ้า]]}} (săaifáa)
 *{{ttbc|Tupinambá}}: [[tupã sununga]]
 *{{ttbc|Welsh}}: [[taranau]], [[taran]] ''(peal of thunder)'', [[tyrfau]]
+{{trans-bottom}}
 
 ===Verb===
 {{en-verb}}
@@ -104,6 +111,9 @@
 # {{context|intransitive}} To make a [[noise]] like thunder.
 # {{context|intransitive}} To talk with a [[loud]], [[threatening]] voice.
 # {{context|transitive}} To say (something) with a loud, threatening voice.
+
+====Derived terms====
+* {{sense|to say something with a loud, threatening voice}} [[thunderer]]
 
 ====Translations====
 {{trans-top|to make a noise like thunder}}
@@ -115,7 +125,11 @@
 *German: [[donnern]]
 *Italian: [[tuonare]]
 {{trans-mid}}
-*Japanese: [[雷が鳴る]] ([[かみなり]]が[[なる]], kaminarí ga narú)
+* Japanese: {{t|ja|sc=Jpan|轟音を立てる|tr=gō'on wo tateru}}
+<!-- *Japanese: [[雷が鳴る]] ([[かみなり]]が[[なる]], kaminarí ga narú) 
+# This means 'it thunders.' I cannot sure this is a common English usage.
+by Eveningmist, 04:37, 9 January 2008 (UTC)
+-->
 *Polish: [[grzmieć]], [[zagrzmieć]]
 *Portuguese: [[trovoar]], [[trovejar]]
 *Russian: [[греметь]] (gr'em'ét’), [[грохотать]] (groχotát’)
@@ -129,29 +143,32 @@
 *Czech: [[hřmít]], [[hromovat]]
 *Dutch: [[overdonderen]]
 *Finnish: [[jyristä]]
-{{trans-mid}}
 *French: [[déblatérer]]
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|怒鳴る|tr=donaru}}
 *Polish: [[gromić]]
 *Portuguese: [[trovejar]]
 {{trans-bottom}}
 
-{{trans-top|transitive: say (something) with a loud, threatening voice}}
+{{trans-top|transitive: say something with a loud, threatening voice}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|怒鳴る|tr=donaru}}
 {{trans-bottom}}
 
 =====Translations to be checked=====
-{{checktrans}}
+{{checktrans-top}}
+<!--Remove this section once all of the translations below have been moved into the tables above.-->
 *{{ttbc|Esperanto}}: [[tondri]]
 *{{ttbc|French}}: [[foudroyer]]
 *{{ttbc|German}}: [[donnern]]
 *{{ttbc|Guaraní}}: [[sunu]]
 *{{ttbc|Indonesian}}: [[gelegar]]
 *{{ttbc|Interlingua}}: [[tonar]]
-*{{ttbc|Japanese}}: [[怒鳴る]] ([[どなる]], donaru)
 *{{ttbc|Latin}}: [[tonare]]
 *{{ttbc|Norwegian}}: [[tordne]]
 *{{ttbc|Tupinambá}}: [[sunung]]
 *{{ttbc|Thai}}: {{THchar|[[ฟ้าผ่า]]}} (fáapàa)
+{{trans-bottom}}
 
 [[Category:1000 English basic words]]
 [[Category:Weather]]
