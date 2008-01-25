@@ -193,6 +193,7 @@ From {{ME.}} < {{OE.}} ''[[tacan]]'' < {{ON.}} ''[[taka]]''.
 * German: [[greifen]], [[nehmen]]
 * Polish: [[brać]], [[wziąć]]
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|取る|tr=toru}}, {{t|ja|sc=Jpan|つかむ|tr=tsukamu}}
 * Russian: [[брать]] / [[взять]] (brat’ / vz'at’), [[хватать]]/[[схватить]] (χvatát'/sχvatít')
 * Spanish: [[tomar]]
 * Swedish: [[fatta]], [[gripa]], [[ta]], [[ta]] [[tag]] i, [[hålla]] sig i
@@ -212,9 +213,9 @@ From {{ME.}} < {{OE.}} ''[[tacan]]'' < {{ON.}} ''[[taka]]''.
 * French: [[prendre]]
 * German: [[nehmen]]
 * Hungarian: [[vesz]]
-{{trans-mid}}
 * Italian: [[prendere]]
-* Japanese: [[取る]] (とる, toru)
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|運ぶ|tr=hakobu}}
 * Kazakh: [[алу]] (alu) [[:kk:алу|^]]
 * Korean: [[잡다]] (jabda)
 * Portuguese: [[tomar]]
@@ -231,20 +232,27 @@ From {{ME.}} < {{OE.}} ''[[tacan]]'' < {{ON.}} ''[[taka]]''.
 * Czech: [[vzít]]
 * French: [[prendre]]
 * German: [[nehmen]]
-* Polish: [[brać]], [[wziąć]]
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|取る|tr=toru}}
+* Polish: [[brać]], [[wziąć]]
 * Russian: [[брать]]/[[взять]] (brat’ / vzjat’)
 * Slovene: [[vzeti]]
 * Spanish: [[tomar]]
 * Swedish: [[ta]], [[få]] [[tag]] [[på]]
 {{trans-bottom}}
 
+{{trans-top|to accept}}
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|受け付ける|tr=uketsukeru}}
+{{trans-bottom}}
+
 {{trans-top|military: to gain a position by force}}
 * Czech: [[dobýt]]
 * French: [[prendre]]
 * German: [[einnehmen]]
-* Polish: [[zawładnąć]]
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|占拠する|tr=senkyo suru}}
+* Polish: [[zawładnąć]]
 * Russian: [[брать]]/[[взять]] (brat’ / vzjat’), [[захватывать]]/[[захватить]](zaχváyvat'/zaχvatít')
 * Slovene: [[zavzeti]]
 * Spanish: [[tomar]]
@@ -256,11 +264,23 @@ From {{ME.}} < {{OE.}} ''[[tacan]]'' < {{ON.}} ''[[taka]]''.
 * Czech: [[vzít]]
 * French: [[prendre]] ([[de]] [[force]]), [[forcer]], [[violer]]
 * German: ([[mit]] [[Gewalt]]) [[nehmen]]
-* Polish: [[brać]], [[wziąć]]
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|襲う|tr=osou}}
+* Polish: [[brać]], [[wziąć]]
 * Russian: [[брать]]/[[взять]] (brat’ / vzjat’)
 * Slovene: [[vzeti]]
 * Spanish: [[violar]]
+* Swedish: [[ta]]
+{{trans-bottom}}
+
+{{trans-top|to carry}}
+* Czech: [[vzít]]
+* Finnish: [[viedä]]
+* German: [[nehmen]]
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|運ぶ|tr=hakobu}}
+* Portuguese: [[levar]], [[carregar]]
+* Spanish: [[llevar]]
 * Swedish: [[ta]]
 {{trans-bottom}}
 
@@ -269,35 +289,13 @@ From {{ME.}} < {{OE.}} ''[[tacan]]'' < {{ON.}} ''[[taka]]''.
 * Czech: [[vzít]]
 * Finnish: [[ottaa]]
 * German: [[nehmen]]
-* Polish: [[wybrać]]
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|選ぶ|tr=erabu}}
+* Polish: [[wybrać]]
 * Russian: [[брать]]/[[взять]] (brat’ / vzjat’)
 * Slovene: [[vzeti]]
 * Spanish: [[tomar]]
 * Swedish: [[ta]], [[välja]]
-{{trans-bottom}}
-
-{{trans-top|to carry}}
-* Czech: [[vzít]]
-* Finnish: [[viedä]]
-* German: [[nehmen]]
-{{trans-mid}}
-* Portuguese: [[levar]], [[carregar]]
-* Spanish: [[llevar]]
-* Swedish: [[ta]]
-{{trans-bottom}}
-
-{{trans-top|to ingest medicine}}
-* [[Catalan]]: [[prendre]]
-* Czech: [[vzít]]
-* Finnish: [[ottaa]]
-* German: [[nehmen]]
-* Polish: [[brać]], [[przyjmować]], [[zażywać]]
-{{trans-mid}}
-* Russian: [[принимать]]/[[принять]] (prinimát'/prin'át’)
-* Slovene: [[vzeti]]
-* Spanish: [[tomar]]
-* Swedish: [[ta]]
 {{trans-bottom}}
 
 {{trans-top|to support or carry without failing or breaking}}
@@ -305,6 +303,7 @@ From {{ME.}} < {{OE.}} ''[[tacan]]'' < {{ON.}} ''[[taka]]''.
 * Finnish: [[kestää]]
 * German: [[aushalten]]
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|壊さずに運ぶ|tr=kowasazu ni hakobu}}
 * Spanish: [[soportar]]
 * Swedish: [[hålla]], [[ta]]
 {{trans-bottom}}
@@ -314,8 +313,23 @@ From {{ME.}} < {{OE.}} ''[[tacan]]'' < {{ON.}} ''[[taka]]''.
 * Finnish: [[sietää]], [[kestää]]
 * German: [[aushalten]]
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|我慢する|tr=gaman suru}}
 * Spanish: [[soportar]], [[aguantar]]
 * Swedish: [[ta]], [[tåla]]
+{{trans-bottom}}
+
+{{trans-top|to ingest medicine}}
+* [[Catalan]]: [[prendre]]
+* Czech: [[vzít]]
+* Finnish: [[ottaa]]
+* German: [[nehmen]]
+{{trans-mid}}
+* Japanese: {{sense|take via mouth}} {{qualifier|general}} {{t|ja|sc=Jpan|飲む|tr=nomu}}, {{qualifier|formal}} {{t|ja|sc=Jpan|摂取する|tr=sesshu suru}}
+* Polish: [[brać]], [[przyjmować]], [[zażywać]]
+* Russian: [[принимать]]/[[принять]] (prinimát'/prin'át’)
+* Slovene: [[vzeti]]
+* Spanish: [[tomar]]
+* Swedish: [[ta]]
 {{trans-bottom}}
 
 ===Noun===
@@ -358,8 +372,9 @@ From {{ME.}} < {{OE.}} ''[[tacan]]'' < {{ON.}} ''[[taka]]''.
 ====Translations====
 {{trans-top|act of taking}}
 * Czech: [[vzetí]] {{n}}
-* Polish: [[branie]], [[wzięcie]]
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|取得|tr=shutoku}}
+* Polish: [[branie]], [[wzięcie]]
 * Spanish: [[tomar]]
 * Swedish: [[tagande]] {{n}}
 {{trans-bottom}}
@@ -367,12 +382,14 @@ From {{ME.}} < {{OE.}} ''[[tacan]]'' < {{ON.}} ''[[taka]]''.
 {{trans-top|something that is taken}}
 * Czech: [[vzaný]] {{m}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|獲得|tr=kakutoku}}
 {{trans-bottom}}
 
 {{trans-top|profit or reward}}
 * Czech: [[zisk]] {{m}}
 * Finnish: [[tuotto]], [[voitto]]
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|利益|tr=rieki}}
 * Spanish: [[recompensa]]
 * Swedish: [[intäkter]] {{c|p}}
 {{trans-bottom}}
@@ -381,14 +398,16 @@ From {{ME.}} < {{OE.}} ''[[tacan]]'' < {{ON.}} ''[[taka]]''.
 * Czech: [[názor]] {{m}}
 * Finnish: [[mielipide]]
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|見解|tr=kenkai}}
 * Spanish: [[punto de vista]]
 {{trans-bottom}}
 
 {{trans-top|film: attempt to record a scene}}
 * [[Catalan]]: [[presa]]
 * Finnish: [[otto]]
-* Russian: [[дубль]] {{m}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|テイク|tr=teiku}}
+* Russian: [[дубль]] {{m}}
 * Spanish: [[toma]]
 * Swedish: [[tagning]] {{c}}
 {{trans-bottom}}
@@ -416,7 +435,6 @@ From {{ME.}} < {{OE.}} ''[[tacan]]'' < {{ON.}} ''[[taka]]''.
 * {{ttbc|Indonesian}}: [[ambil|mengambil]], [[pungut|memungut]]
 * {{ttbc|Italian}}: [[prendere]] (2,5,9,10), [[portare]] (1,4,6), [[violentare]] (3, also ''to rape'')
 {{trans-mid}}
-* {{ttbc|Japanese}}: [[取る]], (''photograph'') [[撮る]] ([[とる]], toru); [[つかむ]] (tsukamu)
 * {{ttbc|Macedonian}}: [[зема]] (zema)
 * {{ttbc|Serbian}}: [[узети]] ([[uzeti]])
 * {{ttbc|Sicilian}}: [[pigghiari]] (2,5,9,10)
@@ -424,7 +442,7 @@ From {{ME.}} < {{OE.}} ''[[tacan]]'' < {{ON.}} ''[[taka]]''.
 * {{ttbc|Turkish}}: [[almak]](1,2,7), [[yakalamak]](4), [[anlamak]](5)
 {{trans-bottom}}
 
-===Derived terms===
+===See also===
 ''These need to be checked and put in the section for the the noun or verb senses as appropriate''
 * [[bytake]]
 * [[intake]]
