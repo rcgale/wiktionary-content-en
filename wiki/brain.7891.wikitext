@@ -31,9 +31,9 @@
 * [[Breton]]: [[empenn]] {{m}} -où
 * Bulgarian: [[мозък]] (mozak) {{m}}
 * [[Capeverdean Crioulo]]:
-* [[ALUPEC]] or [[ALUPEK]]: [[cerébr']]
-* * [[Badiú]]: [[sirébru]]
-* * [[São Vicente]]: [[cerebro]]
+*: [[ALUPEC]] or [[ALUPEK]]: [[cerébr']]
+*: [[Badiú]]: [[sirébru]]
+*: [[São Vicente]]: [[cerebro]]
 * [[Catalan]]: [[cervell]] {{m}}
 * Chinese traditional/simplified: [[頭腦]], [[头脑]] (tóu nǎo), [[腦]], [[脑]] (nǎo)
 * Croatian: [[mozak]] {{m}}
@@ -43,23 +43,22 @@
 * Esperanto: [[cerbo]], [[encefalo]]
 * Estonian: [[aju]]
 * Faroese: [[heili]] {{m}}
-* Finnish: [[aivot]] (usually plural)
+* Finnish: [[aivot]] {{p}}
 * French: [[cerveau]] {{m}}, [[cervelle]] {{f}} {{italbrac|pejorative or when used as food}}
 * German: [[Gehirn]] {{n}}
-* Hebrew: [[מוח]] (moakh) {{m}}
 * Greek: [[εγκέφαλος]] (egkefalos) {{m}}
 * [[Guugu Yimidhirr]]: [[garu]]
+* Hebrew: [[מוח]] (moakh) {{m}}
 * Hungarian: [[agy]]
-{{trans-mid}}
 * Icelandic: [[heili]] {{m}}
 * [[Ido]]: [[cerebro]]
 * Indonesian: [[otak]]
 * [[Interlingua]]: [[cerebro]]
 * Italian: [[cervello]] {{m}}, [[cervella]] {{f}} {{italbrac|when used as food}}
+{{trans-mid}}
 * Japanese: [[脳]] ([[のう]], nō), [[脳髄]] ([[のうずい]], nōzui)
 * Kurdish: {{KUchar|[[مێشک]]}}
-* Latin: [[cerebrum]] {{n}}<!--
-* Lithuanian: [[smegen]]-->
+* Latin: [[cerebrum]] {{n}}
 * [[Macedonian]]: [[мозок]]
 * [[Malayalam]]: [[തലച്ചോറ്‌]] (thalachchOru), [[മസ്തിഷ്ക്കം]] (masthishkkam)
 * Polish: [[mózg]] {{m}}
@@ -83,7 +82,7 @@
 * Chinese traditional/simplified: [[聰明人]], [[聰明人]] (cōng míng rén)
 * Dutch: [[brein]] {{n}}
 * Estonian: [[aju]] (slang)
-* Finnish: [[aivot]] (usually plural)
+* Finnish: [[älykkö]]
 * Greek: [[εγκέφαλος]] [e̞ˈ(ŋ)ɟe̞faˌlo̞s, egkefalos] {{m}}, [[μυαλό]] [mɲaˈlo̞, myalo] {{n}}
 {{trans-mid}}
 * Japanese: [[頭のいい人]] (atama no iihito), [[秀才]] (しゅうさい, shūsai)
@@ -96,10 +95,10 @@
 * Chinese traditional/simplified: [[智者]], [[智者]] (jì zhě)
 * Czech: [[mozek]] {{m}}
 * Dutch: [[brein]] {{n}}
-* Finnish: [[aivot]] (usually plural)
+* Finnish: [[aivot]] {{p}}
 * French: [[cerveau]] {{m}}
-{{trans-mid}}
 * Greek: [[εγκέφαλος]] [e̞ˈ(ŋ)ɟe̞faˌlo̞s, egkefalos] {{m}}, [[μυαλό]] [mɲaˈlo̞, myalo or mialo] {{n}}
+{{trans-mid}}
 * Japanese: [[知的指導者]] (ちてきしどうしゃ, chitekishidōsha), [[ブレーン]] (burēn)
 * Russian: [[мозг]] (mozg) {{m}}, [[голова]] (golová) {{f}}
 * Swedish: [[hjärna]] {{c}}
@@ -111,13 +110,13 @@
 * Dutch: [[verstand]] {{m}}, [[intellect]] {{n}}
 * Esperanto: [[cerbo]], [[intelekto]], [[menso]]
 * Estonian: [[aru]], [[mõistus]]
-* Finnish: [[äly]], [[älykkyys]], [[järki]]
+* Finnish: [[äly]], [[älykkyys]], [[järki]], [[aivot]] {{p}}
 * German: [[Verstand]] {{m}}
 * Greek: [[μυαλό]] [mɲaˈlo̞, myalo or mialo] {{n}}, [[νοημοσύνη]] [no̞ˌimo̞ˈsini, noimosini or noimossini] {{f}}
 * Hebrew: [[שכל]] (sekhel) {{m}}
+{{trans-mid}}
 * Japanese: [[頭脳]] (ずのう,zunō), [[知力]] (ちりょく, chiryoku)
 (burēn)
-{{trans-mid}}
 * [[Malayalam]]: [[ബുദ്ധി]] (buddhi)
 * Portuguese: [[intelecto]]
 * Romanian: [[intelect]] {{n}}
@@ -130,15 +129,16 @@
 {{trans-top|part of computer}}
 * Czech: [[mozek]] {{m}}
 * Estonian: [[aju]]
-* Finnish: [[aivot]] (usually plural)
-{{trans-mid}}
+* Finnish: [[aivot]] {{p}}
 * Greek: [[εγκέφαλος]] [e̞ˈ(ŋ)ɟe̞faˌlo̞s, egkefalos] {{m}}
+{{trans-mid}}
 {{trans-bottom}}
 
-=====Translations to be checked=====
-{{checktrans}}
+{{ttbc-top}}
 * {{ttbc|Breton}}: [[empenn]] {{m}} -où
 * {{ttbc|Indonesian}}: [[otak]], [[benak]]
+* {{ttbc|Lithuanian}}: [[smegen]]
+{{trans-bottom}}
 
 ===Derived terms===
 {{top4}}
@@ -208,19 +208,17 @@
 ====Translations====
 {{trans-top|to strike on the head}}
 * Dutch: iemand [[op z'n kop slaan]]
+* Finnish: [[iskeä]] [[pää|päähän]], [[kolkata]] (''into unconsciousness'')
 {{trans-mid}}
 * Japanese: [[頭を殴りつける]] (あたまをなぐりつける, atama wo naguritsukeru)
 {{trans-bottom}}
 
-{{trans-top|to kill a person}}
+{{trans-top|to kill a person by smashing the skull}}
 * Dutch: iemand [[de kop inslaan]]
+* Finnish: [[lyödä]] [[aivot]] [[piha|pihalle]], [[murskata]] [[kallo]]
 {{trans-mid}}
 * Japanese: [[脳を打ち砕く]] (のうをうちくだく, nō wo uchikudaku)
 {{trans-bottom}}
-
-=====Translations to be checked=====
-{{checktrans}}
-* [[kolkata]] (''into unconsciousness'')<!--what language and what sense is this for?-->
 
 [[Category:1000 English basic words]]
 [[Category:Anatomy]]
