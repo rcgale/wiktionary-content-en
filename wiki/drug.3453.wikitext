@@ -118,39 +118,15 @@ Random House says that "drug" is "nonstandard" as the past tense of drag. Merria
 #:'''''Druže''' nastavniče, kada nam počinje čas?'' (Comrade teacher, when will our class begin?)
 
 ====Declension====
-{| border="1" cellpadding="4" cellspacing="0"
-!
-! style="background-color: #EFEFFF" align="center"|[[singular]]
-! style="background-color: #EFEFFF" align="center"|[[plural]]
-|-
-! style="background-color: #FFFFE0" align="left"|[[nominative case|nominative]]
-| align="center"|drug
-| align="center"|drugovi
-|-
-! style="background-color: #FFFFE0" align="left"|[[genitive case|genitive]]
-| align="center"|druga
-| align="center"|drugova
-|-
-! style="background-color: #FFFFE0" align="left"|[[dative case|dative]]
-| align="center"|drugu
-| align="center"|drugovima
-|-
-! style="background-color: #FFFFE0" align="left"|[[accusative case|accusative]]
-| align="center"|druga
-| align="center"|drugove
-|-
-! style="background-color: #FFFFE0" align="left"|[[vocative case|vocative]]
-| align="center"|druže
-| align="center"|drugovi
-|-
-! style="background-color: #FFFFE0" align="left"|[[instrumental case|instrumental]]
-| align="center"|drugom
-| align="center"|drugovima
-|-
-! style="background-color: #FFFFE0" align="left"|[[locative case|locative]]
-| align="center"|drugu
-| align="center"|drugovima
-|}
+{{bs-decl-noun
+|drug|drugovi
+|druga|drugova
+|drugu|drugovima
+|druga|drugove
+|druže|drugovi
+|drugom|drugovima
+|drugu|drugovima
+}}
 
 ----
 
@@ -195,7 +171,7 @@ Random House says that "drug" is "nonstandard" as the past tense of drag. Merria
 ==Serbian==
 
 ===Noun===
-{{sr-noun|g=m|drugovi}}
+{{sr-noun|g=m|pl=drugovi|cyr=друг}}
 
 # A [[male]] [[friend]].
 #:''Petar je moj '''drug'''.'' (Peter is my friend.)
@@ -205,42 +181,15 @@ Random House says that "drug" is "nonstandard" as the past tense of drag. Merria
 #:'''''Druže''' nastavniče, kada nam počinje čas?'' (Comrade teacher, when will our class begin?)
 
 ====Declension====
-{| border="1" cellpadding="4" cellspacing="0"
-!
-! style="background-color: #EFEFFF" align="center"|[[singular]]
-! style="background-color: #EFEFFF" align="center"|[[plural]]
-|-
-! style="background-color: #FFFFE0" align="left"|[[nominative case|nominative]]
-| align="center"|drug
-| align="center"|drugovi
-|-
-! style="background-color: #FFFFE0" align="left"|[[genitive case|genitive]]
-| align="center"|druga
-| align="center"|drugova
-|-
-! style="background-color: #FFFFE0" align="left"|[[dative case|dative]]
-| align="center"|drugu
-| align="center"|drugovima
-|-
-! style="background-color: #FFFFE0" align="left"|[[accusative case|accusative]]
-| align="center"|druga
-| align="center"|drugove
-|-
-! style="background-color: #FFFFE0" align="left"|[[vocative case|vocative]]
-| align="center"|druže
-| align="center"|drugovi
-|-
-! style="background-color: #FFFFE0" align="left"|[[instrumental case|instrumental]]
-| align="center"|drugom
-| align="center"|drugovima
-|-
-! style="background-color: #FFFFE0" align="left"|[[locative case|locative]]
-| align="center"|drugu
-| align="center"|drugovima
-|}
-
-====See also====
-*[[друг]]
+{{sr-decl-noun
+|drug|drugovi
+|druga|drugova
+|drugu|drugovima
+|druga|drugove
+|druže|drugovi
+|drugom|drugovima
+|drugu|drugovima
+}}
 
 [[ar:drug]]
 [[el:drug]]
