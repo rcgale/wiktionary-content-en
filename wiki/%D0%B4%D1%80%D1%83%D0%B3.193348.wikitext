@@ -37,7 +37,7 @@ Originally, '''друг''' was the predicative (short) form of [[другой]] 
 ==Serbian==
 
 ===Noun===
-{{sr-noun|g=m|другови}}
+{{sr-noun|g=m|pl=другови|rom=drug}}
 
 # A [[male]] [[friend]].
 #:''Петар је мој '''друг'''.'' (Peter is my friend.)
@@ -47,42 +47,15 @@ Originally, '''друг''' was the predicative (short) form of [[другой]] 
 #:'''''Друже''' наставниче, када нам почиње час?'' (Comrade teacher, when will our class begin?)
 
 ====Declension====
-{| style="margin-bottom:1em; margin-right:1em; border: 1px solid #AAAAAA; border-collapse:collapse;" cellpadding="4" rules="all"
-!
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[singular|Singular]]
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[plural|Plural]]
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[nominative case|nominative]]
-|align=left|друг
-|align=left|другови
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[genitive case|genitive]]
-|align=left|друга
-|align=left|другова
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[dative case|dative]]
-|align=left|другу
-|align=left|друговима
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[accusative case|accusative]]
-|align=left|друга
-|align=left|другове
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[vocative case|vocative]]
-|align=left|друже
-|align=left|другови
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[instrumental case|instrumental]]
-|align=left|другом
-|align=left|друговима
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[locative case|locative]]
-|align=left|другу
-|align=left|друговима
-|}
-
-====See also====
-*[[drug#Serbian|drug]]
+{{sr-decl-noun
+|друг|другови
+|друга|другова
+|другу|друговима
+|друга|другове
+|друже|другови
+|другом|друговима
+|другу|друговима
+}}
 
 [[bg:друг]]
 [[el:друг]]
