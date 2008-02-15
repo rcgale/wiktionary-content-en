@@ -1,22 +1,21 @@
 ==English==
-
-===Noun===
-
 {{wikipedia}}
-'''[[directed]] [[graph]]''' (''plural'' '''directed graphs''')
+===Noun===
+{{en-noun|sg=[[directed]] [[graph]]}}
 
 # {{graph theory}} A [[graph]] in which the [[edge]]s are [[ordered pair]]s, so that, if the edge (a, b) is in the graph, the edge (b, a) need not be in the graph and is distinct from (a, b) if it is.
 
+====Antonyms====
+* [[undirected graph]]
+
 ====Synonyms====
-*[[digraph]]
+* [[digraph]]
 
 ====Translations====
-{{top}}
-*French: [[graphe orienté]]
-*Japanese: [[有向グラフ]] (yūkō gurafu)
-{{mid}}
-*Mandarin: {{zh-ts|[[有向圖]]|[[有向图]]}} ([[yǒuxiàngtú]])
-{{bottom}}
-
-===See also===
-*[[undirected graph]]
+{{trans-top|type of graphs}}
+* Czech: [[orientovaný graf]] {{m}}
+* French: [[graphe orienté]]
+{{trans-mid}}
+* Japanese: [[有向グラフ]] (yūkō gurafu)
+* Mandarin: {{zh-ts|[[有向圖]]|[[有向图]]}} ([[yǒuxiàngtú]])
+{{trans-bottom}}
