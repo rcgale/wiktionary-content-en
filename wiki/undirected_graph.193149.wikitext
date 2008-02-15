@@ -1,19 +1,19 @@
 ==English==
 
 ===Noun===
-
-'''[[undirected]] [[graph]]''' (''plural'' '''undirected graphs''')
+{{en-noun|sg=[[undirected]] [[graph]]}}
 
 # {{graphtheory}} A [[graph]] in which the [[edge]]s are not [[ordered]], so the edge (a, b) is identical to the edge (b, a).
 
 ====Synonyms====
-*[[graph]]
+* [[graph]]
+
+====Antonyms====
+* [[directed graph]]
 
 ====Translations====
-{{top}}
-*Japanese: [[無向グラフ]] (mukō gurafu)
-{{mid}}
-{{bottom}}
-
-===See also===
-*[[directed graph]]
+{{trans-top|type of graph}}
+* Czech: [[neorientovaný graf]] {{m}}
+{{trans-mid}}
+* Japanese: [[無向グラフ]] (mukō gurafu)
+{{trans-bottom}}
