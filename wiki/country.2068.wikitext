@@ -47,7 +47,7 @@
 * Finnish: {{t+|fi|maa}}, {{t+|fi|valtio}}
 * French: {{t+|fr|pays|m}}
 * [[Frisian]]: [[lân]] {{n}}
-* German: {{t|de|Land|n}}; {{t|de|Staat|m}}<!-- move plural to [[Staat]]: [[Staaten]] {{p}} -->; {{t|de|Vaterland|n}}
+* German: {{t+|de|Land|n}}; {{t+|de|Staat|m}}<!-- move plural to [[Staat]]: [[Staaten]] {{p}} -->; {{t|de|Vaterland|n}}
 * Greek: [[χώρα]] (khóra) {{f}}; [[πατρίς]] (patrís) {{f}}, [[πατρίδα]] (patrída) {{f}}
 * Hebrew: [[ארץ]] (eretz) {{f}}; [[מדינה]] (medina) {{f}}
 * Hindi: [[देश]] (deš), [[राष्ट्र]] (rāṣṭra)
@@ -58,16 +58,16 @@
 * [[Interlingua]]: [[pais]]
 * Italian: {{t+|it|paese|m}}
 * Japanese: [[国]] ([[くに]], kuní), [[国家]] ([[こっか]], kokká)
-* Korean: {{t|ko|sc=Hang|나라|tr=nara}}, {{t|ko|sc=Hang|국가|tr=gukga}}
+* Korean: {{t+|ko|나라|tr=nara|sc=Hang}}, {{t+|ko|국가|tr=gukga|sc=Hang}}
 * Kurdish: 
-*:Kurmanji: [[welat]]
+*: Kurmanji: [[welat]]
 {{trans-mid}}
-*:Sorani: {{t|ku|وڵات|tr=welat|sc=KUchar}}
+*: Sorani: {{t|ku|وڵات|tr=welat|sc=KUchar}}
 * Latin: {{t+|la|terra|f}}, {{t+|la|patria|f}}
 * Latvian: [[valsts]], [[zeme]]
 * [[Low Saxon]]: [[land]] {{n}}
 * [[Macedonian]]: [[држава]] (drzhava) {{f}}, [[нациja]] (nacija) {{f}}
-* Malay: [[negara]]
+* Malay: {{t+|ms|negara|xs=Malay}}
 * [[Malayalam]]: [[രാജ്യം]] (raajyam)
 * Norwegian: {{t+|no|land|n}}
 * [[Novial]]: [[natione]], [[lande]]
@@ -81,7 +81,7 @@
 * Russian: {{t+|ru|страна|f|tr=straná|sc=Cyrl}}
 * Sanskrit: [[देशः]] (dešaha), [[राष्ट्र]] (rāṣṭra)
 * [[Scottish Gaelic]]: [[dùthaich]] {{f}}, [[talamh]] {{m}}, [[tìre]] {{f}}
-* Serbian: {{t|sr|sc=Cyrl|земља|f}}, {{t|sr|zemlja|f}}, {{t|sr|sc=Cyrl|држава|f}}, {{t|sr|država|f}}, {{t|sr|sc=Cyrl|ĸpajинa|f}}, {{t|sr|krajina|f}}, {{t|sr|otačbina|f}}
+* Serbian: {{t+|sr|земља|f|sc=Cyrl}}, {{t-|sr|zemlja|f}}, {{t-|sr|држава|f|sc=Cyrl}}, {{t-|sr|država|f}}, {{t|sr|ĸpajинa|f|sc=Cyrl}}, {{t-|sr|krajina|f}}, {{t|sr|otačbina|f}}
 * Slovak: {{t-|sk|krajina|f}}
 * Slovene: {{t+|sl|država|f}}
 * Spanish: {{t+|es|país|m}}
@@ -117,7 +117,7 @@
 * Italian: {{t+|it|paese|m}}
 {{trans-mid}}
 * Japanese: [[国]] ([[くに]], kuní)
-* Korean: {{t|ko|sc=Hang|나라|tr=nara}}
+* Korean: {{t+|ko|나라|tr=nara|sc=Hang}}
 * Latin: {{t+|la|terra|f}}
 * [[Low Saxon]]: [[land]] {{n}}
 * Norwegian: {{t+|no|land|n}}
@@ -128,7 +128,7 @@
 * Romanian: {{t+|ro|ţară|f}}
 * [[Romansch]]: [[pajais]] {{m}}
 * Russian: {{t+|ru|страна|f|tr=straná|sc=Cyrl}}, {{t+|ru|страны|p|tr=straný|sc=Cyrl}}
-* Serbian: {{t|sr|sc=Cyrl|земља|f}}, {{t|sr|zemlja|f}}, {{t|sr|sc=Cyrl|држава|f}}, {{t|sr|država|f}}
+* Serbian: {{t+|sr|земља|f|sc=Cyrl}}, {{t-|sr|zemlja|f}}, {{t-|sr|држава|f|sc=Cyrl}}, {{t-|sr|država|f}}
 * Slovak: {{t-|sk|krajina|f}}
 * Slovene: {{t+|sl|dežela|f}}
 * Spanish: {{t+|es|país|m}}
@@ -157,7 +157,7 @@
 * Finnish: {{t+|fi|maaseutu}}
 * French: {{t+|fr|campagne|f}}
 * [[Frisian]]: [[boerelân]] {{n}}
-* German: {{t|de|Land|n}}; {{t|de|Landschaft|f}}<!-- move plural to [[Landschaft]]: [[Landschaften]] {{p}}-->; {{t|de|Region|f}}
+* German: {{t+|de|Land|n}}; {{t|de|Landschaft|f}}<!-- move plural to [[Landschaft]]: [[Landschaften]] {{p}}-->; {{t-|de|Region|f}}
 * Greek: [[εξοχή]] (exokhí) {{f}}, [[ύπαιθρον]] (ýpaithron) {{n}}
 * Hebrew: [[כפר]] (kfar) {{m}}
 * Hungarian: {{t+|hu|vidék}}
@@ -173,7 +173,7 @@
 * Portuguese: {{t+|pt|campo|m}}
 * [[Romansch]]: [[cuntrada]] {{f}}
 * Russian: {{t+|ru|деревня|f|tr=derévnja|sc=Cyrl}}
-* Serbian: {{t|sr|cs=Cyrl|село|n}}, {{t|sr|selo|n}}, {{t|sr|dedinje|n}}
+* Serbian: {{t|sr|cs=Cyrl|село|n}}, {{t-|sr|selo|n}}, {{t|sr|dedinje|n}}
 * Slovak: [[dedina#Slovak|dedina]] {{f}}, [[vidiek#Slovak|vidiek]] {{m}}
 * Slovene: [[podeželje]] {{n}}
 * Spanish: {{t+|es|campo|m}}
@@ -227,7 +227,7 @@
 * [[Scottish Gaelic]]: [[dùthchail]], [[tìreil]]
 * Slovak: [[dedinský]] {{m}}, [[dedinská]] {{f}}, [[dedinské]] {{n}}; [[vidiecky]] {{m}}, [[vidiecka]] {{f}}, [[vidiecke]] {{n}}
 * Slovene: [[podeželsko]], [[vaško]]
-* Spanish: {{t|es|campo|alt=de campo}}, {{t|es|campesino}}, {{t|es|campestre}}, {{t|es|provincia|alt=de provincia}}, {{t|es|provinciano}}
+* Spanish: {{t+|es|campo|alt=de campo}}, {{t-|es|campesino}}, {{t-|es|campestre}}, {{t-|es|provincia|alt=de provincia}}, {{t|es|provinciano}}
 * Swahili: [[-a kimashamba]]
 * Swedish: [[land-]], [[lands-]]
 * Thai: {{THchar|[[ทางชนบท]]}} (thaang chohn bòht)
