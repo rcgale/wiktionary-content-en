@@ -27,24 +27,24 @@ From {{OE.}} {{term|birnan|lang=ang}}, {{term|beornan|lang=ang}} and {{ON.}} {{t
 =====Translations=====
 {{trans-top|a physical injury caused by heat or caustic chemicals}}
 * Albanian: {{t-|sq|djegje|xs=Albanian}}
-* Croatian: {{t|hr|opeklina|f}}; {{t|hr|opekotina|f}}
-* Danish: {{t|da|brandsår}}, {{t|da|forbrænding}}
+* Croatian: {{t-|hr|opeklina|f}}; {{t|hr|opekotina|f}}
+* Danish: {{t-|da|brandsår}}, {{t|da|forbrænding}}
 * Dutch: {{t|nl|brandwonde}}
-* Esperanto: {{t|eo|brulvundo}}
+* Esperanto: {{t|eo|brulvundo|xs=Esperanto}}
 * Finnish: {{t|fi|palovamma}}
-* German: {{t|de|Brandwunde|f}}, {{t|de|Verbrennung|f}}
-* Hebrew: {{t|he|כוויה|tr=kvi'a|f}}
+* German: {{t|de|Brandwunde|f}}, {{t+|de|Verbrennung|f}}
+* Hebrew: {{t|he|כוויה|f|tr=kvi'a|sc=Hebr}}
 * Hungarian: {{t|hu|égés}}, {{t|hu|égési sérülés}}
-* Italian: {{t|it|bruciatura|f}}, {{t|it|ustione|f}}
-* Japanese: {{t|ja|やけど|tr=yakedo}}, {{t|ja|焼け焦げ|tr=yakekoge}}
+* Italian: {{t-|it|bruciatura|f}}, {{t-|it|ustione|f}}
+* Japanese: {{t|ja|やけど|tr=yakedo|sc=Jpan}}, {{t|ja|焼け焦げ|tr=yakekoge|sc=Jpan}}
 {{trans-mid}}
 * Kurdish:
 *: Sorani: {{t|ku|سوتان|tr=sootAn|sc=KUchar}}
 * Norwegian: {{t|no|brannsår}}, {{t|no|forbrending}}
 * Portuguese: {{t|pt|queimadura|f}}
-* Russian: {{t|ru|ожог|tr=ožóg|m}}
-* [[Scottish Gaelic]]: {{t|gd|allt|m}}, {{t|gd|losgadh|m}}
-* Slovene: {{t-|sl|opeklina|f}}
+* Russian: {{t+|ru|ожог|m|tr=ožóg|sc=Cyrl}}
+* [[Scottish Gaelic]]: {{t-|gd|allt|m|xs=Scottish Gaelic}}, {{t-|gd|losgadh|m|xs=Scottish Gaelic}}
+* Slovene: {{t+|sl|opeklina|f}}
 * Spanish: {{t+|es|quemadura|f}}
 * Swedish: {{t|sv|brännskada}}, {{t|sv|brännmärke}}
 {{trans-bottom}}
@@ -54,13 +54,13 @@ From {{OE.}} {{term|birnan|lang=ang}}, {{term|beornan|lang=ang}} and {{ON.}} {{t
 * Croatian: {{t|hr|paljenje|n}}
 * Danish: {{t|da|afbrænding}}
 * Dutch: {{t|nl|verbranden}}
-* Esperanto: {{t|eo|brulo}}, {{t|eo|brulado}}
+* Esperanto: {{t|eo|brulo|xs=Esperanto}}, {{t|eo|brulado|xs=Esperanto}}
 * Finnish: {{t|fi|polttaminen}}, {{t|fi|poltto}}
 {{trans-mid}}
-* German: {{t-|de|Verbrennung|f}}
+* German: {{t+|de|Verbrennung|f}}
 * Norwegian: {{t|no|forbrenning}}
-* Russian: {{t|ru|сжигание|tr=sžigánije|n}}
-* [[Scottish Gaelic]]: {{t|gd|losgadh|m}}
+* Russian: {{t|ru|сжигание|n|tr=sžigánije|sc=Cyrl}}
+* [[Scottish Gaelic]]: {{t-|gd|losgadh|m|xs=Scottish Gaelic}}
 * Slovene: {{t|sl|prižiganje|n}}
 * Swedish: {{t|sv|förbränning}}
 {{trans-bottom}}
@@ -111,10 +111,10 @@ From {{OE.}} {{term|birnan|lang=ang}}, {{term|beornan|lang=ang}} and {{ON.}} {{t
 
 =====Translations=====
 {{trans-top|to be consumed by fire}}
-* Bosnian: {{t|bs|gorjeti}}
-* [[Breton]]: {{t|br|devi}}, {{t|br|leski}}
-* Chinese: {{t|zh|烧|tr=shāo}}
-* [[Crimean Tatar]]: {{t|crh|canmak}}
+* Bosnian: {{t-|bs|gorjeti}}
+* [[Breton]]: {{t-|br|devi|xs=Breton}}, {{t-|br|leski|xs=Breton}}
+* Chinese: {{t-|cmn|烧|tr=shāo|sc=Hani|xs=Mandarin}}
+* [[Crimean Tatar]]: {{tø|crh|canmak|xs=Crimean Tatar}}
 * Croatian: {{t-|hr|gorjeti}}
 * Czech: {{t-|cs|hořet}}
 * Danish: {{t|da|brænde}}, {{t|da|brænde op}}
@@ -123,26 +123,26 @@ From {{OE.}} {{term|birnan|lang=ang}}, {{term|beornan|lang=ang}} and {{ON.}} {{t
 * Finnish: {{t+|fi|palaa}}
 * French: {{t+|fr|brûler}}
 * German: {{t+|de|brennen}}
-* Hebrew: {{t|he|להישרף|tr=le'hisaref}}
-* Hungarian: {{t|hu|ég}}, {{t|hu|elég}}
+* Hebrew: {{t|he|להישרף|tr=le'hisaref|sc=Hebr}}
+* Hungarian: {{t+|hu|ég}}, {{t|hu|elég}}
 * Icelandic: {{t+|is|brenna}}
 * Indonesian: {{t-|id|bakar|alt=membakar|xs=Indonesian}}
 * Italian: {{t+|it|bruciare}}, {{t+|it|ardere}}, {{t+|it|incendiare}}
 {{trans-mid}}
-* Japanese: {{t|ja|燃える|tr=moeru}}; {{t|ja|焼ける|tr=yakeru}}
+* Japanese: {{t|ja|燃える|tr=moeru|sc=Jpan}}; {{t|ja|焼ける|tr=yakeru|sc=Jpan}}
 * Kurdish:
 *: Sorani: {{t|ku|سوتان|tr=sootAn|sc=KUchar}}
 * Polish: [[palić się|palić]]
-* Portuguese: [[queimar]], [[pirar]], [[arder]]
-* Russian: [[гореть]] (gor'ét'), [[пылать]] (pylát')
-* Serbian: {{t|sr|goreti}}
+* Portuguese: {{t+|pt|queimar}}, {{t+|pt|pirar}}, {{t+|pt|arder}}
+* Russian: {{t+|ru|гореть|tr=gor'ét'|sc=Cyrl}}, {{t+|ru|пылать|tr=pylát'|sc=Cyrl}}
+* Serbian: {{t-|sr|goreti}}
 * [[Scottish Gaelic]]: [[loisg]]
 * Slovene: {{t+|sl|goreti}}
 * Spanish: {{t+|es|quemar}}, {{t-|es|arder}}
-* [[Sumerian]] {{t|sux|sc=Xsux|𒅡𒅡|tr=KA×ŠÈ.KA×ŠÈ}}
+* [[Sumerian]] {{tø|sux|𒅡𒅡|tr=KA×ŠÈ.KA×ŠÈ|sc=Xsux|xs=Sumerian}}
 * Swedish: [[brinna]]
 * [[Telugu]]: [[కాలు]] (kaalu)
-* Norwegian: [[brenne]]
+* Norwegian: {{t+|no|brenne}}
 {{trans-bottom}}
 
 {{trans-top|to become overheated}}
@@ -153,7 +153,7 @@ From {{OE.}} {{term|birnan|lang=ang}}, {{term|beornan|lang=ang}} and {{ON.}} {{t
 {{trans-top|to feel hot}}
 * Czech: {{t-|cs|hořet}}
 * Danish: [[brænde]]
-* Dutch: [[branden]], [[gloeien]]
+* Dutch: {{t+|nl|branden}}, {{t+|nl|gloeien}}
 {{trans-mid}}
 * Russian: [[гореть]] (gor'ét'), [[пылать]] (pylát')
 * Swedish: [[brinna]]
@@ -171,19 +171,19 @@ From {{OE.}} {{term|birnan|lang=ang}}, {{term|beornan|lang=ang}} and {{ON.}} {{t
 * Esperanto: [[bruligi]]
 * Finnish: {{t+|fi|polttaa}}
 * French: {{t+|fr|brûler}}
-* German: [[verbrennen]]
+* German: {{t+|de|verbrennen}}
 * Hebrew: [[לשרוף]] (lisrof)
 * Hungarian: [[éget]], [[eléget]]
 * Italian: {{t+|it|bruciare}}, {{t-|it|ustionare}}
 {{trans-mid}}
-* Japanese: [[燃やす]] (moyasu)
+* Japanese: {{t-|ja|燃やす|tr=moyasu|sc=Jpan}}
 * Portuguese: [[queimar]], [[atear]] [[fogo]]
 * Russian: [[жечь]] (žeč), [[сжигать]] (sžigát')
 * [[Scottish Gaelic]]: [[loisg]]
-* Slovene: [[zažgati]]
-* Swedish: {{t-|sv|bränna}}
+* Slovene: {{t+|sl|zažgati}}
+* Swedish: {{t+|sv|bränna}}
 * [[Telugu]]: [[తగులబెట్టు]] (tagulabeTTu)
-* Vietnamese: [[đốt]]
+* Vietnamese: {{t+|vi|đốt|xs=Vietnamese}}
 * Norwegian: [[brenne]]
 {{trans-bottom}}
 
@@ -213,7 +213,7 @@ From {{OE.}} {{term|birnan|lang=ang}}, {{term|beornan|lang=ang}} and {{ON.}} {{t
 {{trans-bottom}}
 
 {{trans-top|to betray}}
-* Dutch: [[verraden]]
+* Dutch: {{t-|nl|verraden}}
 * Portuguese: {{t+|pt|queimar}}
 * Norwegian: [[foræde]]
 {{trans-mid}}
@@ -226,7 +226,7 @@ From {{OE.}} {{term|birnan|lang=ang}}, {{term|beornan|lang=ang}} and {{ON.}} {{t
 * German: {{t+|de|brennen}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|queimar}}
-* Swedish: {{t-|sv|bränna}}
+* Swedish: {{t+|sv|bränna}}
 * Norwegian: [[brenne]]
 {{trans-bottom}}
 
@@ -234,7 +234,7 @@ From {{OE.}} {{term|birnan|lang=ang}}, {{term|beornan|lang=ang}} and {{ON.}} {{t
 * Hebrew: [[לשרוף]] (lisrof)
 * [[Telugu]]: [[తగలెట్టు]] (tagaleTTu)
 {{trans-mid}}
-* Vietnamese: [[tốn]]
+* Vietnamese: {{t+|vi|tốn|xs=Vietnamese}}
 * Norwegian: [[brenne]]
 {{trans-bottom}}
 
@@ -298,11 +298,11 @@ From {{OE.}}, cognate with {{G.}} {{term|Brunne||well|lang=de}}.
 
 =====Translations=====
 {{trans-top|a brook}}
-* Danish: {{t|da|bæk}}, {{t|da|strøm}}
-* Dutch: {{t|nl|beek}}
+* Danish: {{t|da|bæk}}, {{t-|da|strøm}}
+* Dutch: {{t+|nl|beek}}
 * German: {{t+|de|Bach|m}}
 {{trans-mid}}
-* Norwegian: {{t|no|bekk}}, {{t|no|strøm}}
+* Norwegian: {{t|no|bekk}}, {{t-|no|strøm}}
 * Russian: {{t-|ru|ручей|n|tr=ruchey|sc=Cyrl}}
 {{trans-bottom}}
 
