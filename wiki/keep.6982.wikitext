@@ -16,19 +16,26 @@
 
 # {{transitive}} To [[maintain]] [[possession]] of.
 #: ''I '''keep''' a small stock of painkillers for emergencies.''
-# {{transitive}} To [[preserve]].
+# {{transitive}} To [[maintain]] the [[condition]] of.
 #: ''I '''keep''' my specimens under glass to protect them.''
-# {{transitive}} To [[remain]] in, to be confined to.
+# {{transitive|archaic}} To [[remain]] in, to be confined to.
 #* '''1605''', [[w:William_Shakespeare|William Shakespeare]], ''King Lear'', III.ii,
 #*: ''The wrathful skies''
 #*: ''Gallow the very wanderers of the dark''
 #*: ''And make them '''keep''' their caves.''
 # {{transitive}} To [[restrain]].
-#: ''I '''keep''' my brother out of trouble by '''keeping''' him away from his friends and hard at work.''
+#: ''I keep my brother out of trouble by '''keeping''' him away from his friends and hard at work.'' <!-- The first "keep" here does not have the "restrain" sense, so it shouldn't be in bold. -->
 # {{intransitive}} To [[continue]].
 #: ''I '''keep''' taking the tablets, but to no avail.''
 # {{context|intransitive|cricket}} To act as [[wicket-keeper]].
 #: ''Godfrey Evans '''kept''' for England for many years.''
+# {{transitive|of livestock}} to [[raise]]; to [[care]] for
+#* '''1914''', Robert Joos, ''Success with Hens'', Forbes & company, page 217:
+#*: Of course boys are boys and need watching, but there is little watching necessary when they '''keep''' chickens.''
+
+====Synonyms====
+* {{sense|maintain possession of}} [[retain]]
+* {{sense|maintain the condition of}} [[preserve]], [[protect]]
 
 ====Derived terms====
 * [[keep on]]
@@ -47,12 +54,12 @@
 * Swedish: [[hålla]], [[behålla]]
 {{trans-bottom}}
 
-{{trans-top|to preserve}}
+{{trans-top|to maintain the condition of; to preserve}}
 * Finnish: [[pitää], [[säilyttää]]]
 * German: {{t|de|bewahren}}
 {{trans-mid}}
 * Russian: [[хранить]] (χranít')
-* Spanish: [[guardar]]
+* Spanish: {{t|es|guardar}}
 * Swedish: [[bevara]]
 {{trans-bottom}}
 
@@ -73,12 +80,17 @@
 * German: {{t|de|weiterhin}}, {{t|de|weiter|alt=weiter [tun]}}
 {{trans-mid}}
 * Russian: [[продолжать]]/[[продолжить]] (prodolžátat'/prodólžit')
-* Spanish: [[seguir]], [[continuar]]
+* Spanish: {{t|es|seguir}}, {{t|es|continuar}}
 * Swedish: [[fortsätta]]
 {{trans-bottom}}
 
 {{trans-top|to act as wicket-keeper}}
 {{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|of livestock: to raise; to care for}}
+{{trans-mid}}
+* Spanish: {{t|es|criar}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -104,8 +116,6 @@
 # The main [[tower]] of a [[castle]] or [[fortress]], located within the castle walls.
 # [[support#Noun|Support]].
 #: ''He works as a cobbler's apprentice for his '''keep'''.''
-# (Middle English) note; ''take keep'' take note
-#: ''And shame it is, if a preest take '''keep'''<br>A shiten shepherde and a clene sheep'' [CHAUCER G.P. 503-4]
 
 ====Translations====
 {{trans-top|main tower}}
@@ -125,19 +135,28 @@
 * [[donjon]]
 
 [[Category:English irregular verbs]]
+[[Category:200 English basic words]]
+[[Category:Positive words]]
 
 ----
 
 ==Estonian==
 
 ===Noun===
-'''keep'''
+{{infl|et|noun}}
 
 # [[cloak]], [[capote]], [[gaberdine]]
 
-[[Category:200 English basic words]]
-[[Category:Estonian nouns]]
-[[Category:Positive words]]
+----
+
+==Middle English==
+{{infl|enm|noun}}
+
+# [[note]]
+#: ''take '''keep''''' — “take note”
+#* Chaucer, G.P. 503-4:
+#*: And shame it is, if a preest take '''keep'''
+#*: A shiten shepherde and a clene sheep
 
 [[ar:keep]]
 [[zh-min-nan:keep]]
