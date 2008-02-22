@@ -8,23 +8,25 @@
 {{OE.}} {{term|æfter}}, from {{PG.}} *{{term||aftar-|more behind}}, from {{PIE.}} *{{term||aptar-|more behind}}, comparative form of *{{term||apo-|off, behind}}.  The PIE comparative is also the source of Ancient Greek {{term|ἀπωτέρω||tr=apōtérō|sc=polytonic}}.
 
 ===Pronunciation===
-* (''UK'') {{IPA|/ˈɑːftə/}}, {{SAMPA|/"A:ft@/}}
-* (''[[General American|US]]'') {{IPA|/ˈæf.tɚ/}}, {{SAMPA|/"{ft@`/}}
+* {{a|UK}} {{IPA|/ˈɑːftə/}}, {{SAMPA|/"A:ft@/}}
+* {{a|US}} {{IPA|/ˈæf.tɚ/}}, {{SAMPA|/"{ft@`/}}
 * {{audio|en-us-after.ogg|Audio (US)}}
-* Hyphenation: af&middot;ter
+* {{hyphenation|af|ter}}
 
 ===Adverb===
 {{en-adv}}
 
-# Behind; later in time; following.
+# [[behind|Behind]]; [[later]] in time; [[following]].
 #: ''They lived happily ever '''after'''.''
 #: ''I left the room, and the dog bounded '''after'''.''
 
 ====Translations====
 {{trans-top|behind; later in time; following}}
 * [[Frisian]]: [[hjirnei]]
+* German: {{t|de|hinterher}}, {{t|de|darauf}}
 {{trans-mid}}
 * Korean: [[다음]]에 (daEum-e), [[앞]]으로 (ap-euro) (for ''hereafter, later than now'')
+* Spanish: {{t|es|después}}
 {{trans-bottom}}
 
 ===Preposition===
@@ -92,6 +94,7 @@
 * Dutch: {{t+|nl|achter}}
 * Finnish: {{t-|fi|taakse}}, {{t+|fi|takana}}, {{t+|fi|jälkeen}}, {{t-|fi|jäljessä}}
 * French: {{t+|fr|derrière}}
+* German: {{t|de|hinter}}
 * [[Frisian]]: [[efter]]
 * Hebrew: [[אחרי]], [[מאחור]]
 * Italian: {{t+|it|dietro}}
@@ -104,9 +107,7 @@
 * [[Old Prussian]]: [[pas]]
 * Portuguese: [[atrás de]]
 * Russian: [[за]] (za), [[позади]] (pozadí)
-* Serbian:
-*: Cyrillic: [[за#Serbian|за]], [[иза#Serbian|иза]]
-*: Roman: [[za#Serbian|za]], [[iza#Serbian|iza]]
+* Serbian: {{t|sr|sc=Cyrl|за}}, {{t|sr|za}}, {{t|sr|sc=Cyrl|иза}}, {{t|sr|iza}}
 * Slovene: {{t+|sl|za}}
 * Spanish: {{t+|es|detrás de}}, {{t+|es|tras}}
 * Swedish: {{t+|sv|efter}}
@@ -242,7 +243,7 @@ A few examples
 * [[afterwards]]
 
 ===Conjunction===
-'''after'''
+{{infl|en|conjunction}}
 
 # Signifies that the action of the clause it starts takes place before the action of the other clause.
 #:''I went home '''after''' we had decided to call it a day.''
@@ -254,18 +255,17 @@ A few examples
 {{trans-mid}}
 {{trans-bottom}}
 
-[[Category:English conjunctions]]
-
 ===Adjective===
-'''after'''
+{{infl|en|adjective}}
 
-# (''nautical''; where the frame of reference is within the [[ship]].) At or towards the [[stern]] of a ship
-#* Note: The adverb is [[aft]], thus; "The '''after''' gun is mounted '''aft'''"
-#* The related preposition in this nautical usage is '''abaft'''.
-#: "The '''after''' gun is '''[[abaft]]''' the [[forward]] gun".
+# {{context|nautical|where the frame of reference is within the ship}} At or towards the [[stern]] of a ship
+#: ''The '''after''' gun is mounted aft.''
+#: ''The '''after''' gun is abaft the forward gun.''
+
+====Usage notes====
+* As shown in the examples above, the adverb in this nautical usage is {{term|aft}} and the related preposition is {{term|abaft}}.
 
 [[Category:100 English basic words]]
-[[Category:English prepositions]]
 [[Category:Time]]
 
 [[ar:after]]
