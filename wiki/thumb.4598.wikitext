@@ -1,4 +1,3 @@
-[[Image:Thumbup.jpg|thumb|A human thumb]]
 ==English==
 
 ===Etymology===
@@ -9,13 +8,14 @@
 *:{{rhymes|ʌm}}
 
 ===Noun===
+[[Image:Thumbup.jpg|thumb|A human '''thumb''']]
 {{en-noun}}
 
-# The short thick [[digit]] of the human hand that has the most mobility and can be made to [[oppose]] (moved to touch) all of the other fingers.
-# {{computing}} The part of a [[slider]] that may be moved up and down or along the slider.
+# The short thick [[digit]] of the hand that for humans has the most mobility and can be made to [[oppose]] (moved to touch) all of the other fingers.
+# {{computing}} The part of a [[slider]] that may be moved linearly along the slider.
 
 ====Synonyms====
-*{{i-c|digit}} [[pollex]] {{i|technical}}, [[thumby]] {{i|colloquial}}
+* {{i-c|digit}} [[pollex]] {{i|technical}}, [[thumby]] {{i|colloquial}}
 
 ====Translations====
 {{trans-top|digit}}
@@ -60,22 +60,21 @@
 * Turkish: {{t+|tr|başparmak|m}}
 {{trans-bottom}}
 
-{{trans-top|computing: of a slider}}
+{{trans-top|part of a slider}}
 {{trans-mid}}
 {{trans-bottom}}
 
-===Verb===
-{{en-verb}}
+====Hypernyms====
+;digit
+*[[digit]]
+*[[finger]]
 
-# {{transitive}} To touch with the '''thumb'''.
-# {{transitive}} To turn the pages of (a book) in order to read it [[cursorily]].
-#:''I '''thumbed''' through the book and decided not to bother reading it all.''
-
-====Synonyms====
-*{{i-c|to turn pages}} [[browse]], [[leaf]], [[page]], [[peruse]]
+====Hyponyms====
+;digit
+*[[opposable thumb]]
 
 ====Derived terms====
-{{rel-top|terms derived from "thumb"}}
+{{rel-top|terms derived from the noun}}
 *[[all fingers and thumbs]]
 *[[all thumbs]]
 *[[brown thumb]]
@@ -84,19 +83,32 @@
 *[[rule of thumb]]
 *[[stick out like a sore thumb]]
 {{rel-mid}}
-*[[thumb a lift]], [[thumb a ride]]
-*[[thumb one's nose]]
+*[[thumb a lift]]
+*[[thumb a ride]]
 *[[thumbnail]]
 *[[thumbprint]]
 *[[thumb wrestle]]
 *[[thumbs up]]
-*[[under one's thumb]], [[under the thumb]]
-*[[well-thumbed]]
+*[[under one's thumb]]
+*[[under the thumb]]
 {{rel-bottom}}
 
-====See also====
-*[[digit]]
-*[[finger]]
+===Verb===
+{{en-verb}}
+
+# {{transitive}} To touch with the '''thumb'''.
+# {{transitive}} To turn the pages of (a book) in order to read it [[cursorily]].
+#: ''I '''thumbed''' through the book and decided not to bother reading it all.''
+
+====Synonyms====
+*{{i-c|to turn pages}} [[browse]], [[leaf]], [[page]], [[peruse]]
+
+===Derived terms===
+{{rel-top|terms derived from the verb}}
+*[[thumb one's nose]]
+{{rel-mid}}
+*[[well-thumbed]]
+{{rel-bottom}}
 
 [[Category:1000 English basic words]]
 
