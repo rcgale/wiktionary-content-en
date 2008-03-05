@@ -16,19 +16,24 @@ From {{ME.}} ''[[singuler]]'' < {{OF.}} < {{L.}} ''[[singularis]]'' "alone of it
 # {{context|linearalg|of transformation}} Having the property that the matrix of coefficients of the new variables has a determinant equal to zero.
 
 ====Synonyms====
-*(''being only one''): [[individual]]
-*(''being the only one of a kind''): [[unique]]
-*(''distinguished by superiority''): [[exceptional]], [[extraordinary]], [[remarkable]]
-*(''being out of the ordinary''): [[curious]], [[eccentric]], [[funny]], [[odd]], [[peculiar]], [[strange]], [[rum]], [[rummy]], [[unusual]]
-*(''linear algebra: of matrix: having no inverse''): [[non-invertible]]
+*{{sense|being only one}} [[individual]]
+*{{sense|being the only one of a kind}} [[unique]]
+*{{sense|distinguished by superiority}} [[exceptional]], [[extraordinary]], [[remarkable]]
+*{{sense|being out of the ordinary}} [[curious]], [[eccentric]], [[funny]], [[odd]], [[peculiar]], [[strange]], [[rum]], [[rummy]], [[unusual]]
+*{{sense|linear algebra: of matrix: having no inverse}} [[non-invertible]]
 
 ====Antonyms====
-*(''grammar: referring to only one thing''): [[plural]]
-*(''linear algebra: of matrix: having no inverse''): [[invertible]], [[non-singular]]
+*{{sense|grammar: referring to only one thing}} [[plural]]
+*{{sense|linear algebra: of matrix: having no inverse}} [[invertible]], [[non-singular]]
+
+===Derived terms===
+* [[singularity]]
 
 ====Translations====
 {{trans-top|being only one of larger population}}
 *Finnish: [[yksittäinen]]
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|唯一|tr=yuiitsu}}, {{t|ja|sc=Jpan|無二|tr=muni}}
 *Swedish: [[ensam]], [[enstaka]]
 *Portuguese: [[único]], [[simples]]
 {{trans-bottom}}
@@ -37,8 +42,8 @@ From {{ME.}} ''[[singuler]]'' < {{OF.}} < {{L.}} ''[[singularis]]'' "alone of it
 *Bosnian: [[pojedini]] {{m}}, [[jedini]] {{m}}, [[osobit]] {{m}}
 *Dutch: [[enig]], [[enige]]
 *Finnish: [[ainutlaatuinen]], [[uniikki]]
-*Japanese: [[唯一]] (ゆいいつ, yui-itsu)
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|単一|tr=tan'itsu}}
 *Portuguese: [[singular#Portuguese|singular]], [[único]]
 *Serbian:
 *:Cyrillic: [[поједини]] {{m}}, [[једини]] {{m}}, [[особит]] {{m}}
@@ -49,8 +54,8 @@ From {{ME.}} ''[[singuler]]'' < {{OF.}} < {{L.}} ''[[singularis]]'' "alone of it
 {{trans-top|distinguished by superiority}}
 *Dutch: [[opmerkelijk]], [[opmerkelijke]]
 *Finnish: [[erinomainen]], [[tavaton]]
-*Japanese: [[非凡]] (ひぼん, hibon)
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|非凡|tr=hibon}}, {{t|ja|sc=Jpan|希有|tr=keu}}
 *Portuguese: [[singular#Portuguese|singular]], [[único]]
 *Swedish: [[enastående]], [[utmärkt]]
 {{trans-bottom}}
@@ -58,8 +63,8 @@ From {{ME.}} ''[[singuler]]'' < {{OF.}} < {{L.}} ''[[singularis]]'' "alone of it
 {{trans-top|being out of the ordinary}}
 *Bosnian: [[neobičan]] {{m}}
 *Finnish: [[harvinainen]], [[merkillinen]], [[omituinen]], [[kummallinen]]
-*Japanese: [[非凡]] (ひぼん, hibon)
 {{trans-mid}}
+* Japanese: {{qualifier|superior}} {{t|ja|sc=Jpan|非凡|tr=hibon}}, {{t|ja|sc=Jpan|希有|tr=keu}}; {{qualifier|odd}} {{t|ja|sc=Jpan|奇妙|tr=kimyō}}, {{t|ja|sc=Jpan|風変わり|tr=fūgawari}}
 *Portuguese: [[singular#Portuguese|singular]], [[único]]
 *Serbian:
 *:Cyrillic: [[необичан]] {{m}}
@@ -71,8 +76,8 @@ From {{ME.}} ''[[singuler]]'' < {{OF.}} < {{L.}} ''[[singularis]]'' "alone of it
 *Dutch: [[enkelvoudig]], [[enkelvoudige]]
 *Finnish: [[yksiköllinen]]
 *French: [[singulier]] {{m}}, [[singulière]] {{f}}
-*Japanese: [[単数]]の ((たんすうの, tansū no)
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|単数の|tr=tansū no}}
 *Portuguese: [[singular#Portuguese|singular]], [[único]]
 *Russian: [[единственный]] (jedínstvennyj)
 *Swedish: [[singular#Swedish|singular]], [[ental]]s-
@@ -81,7 +86,7 @@ From {{ME.}} ''[[singuler]]'' < {{OF.}} < {{L.}} ''[[singularis]]'' "alone of it
 {{trans-top|linear algebra: of matrix: having no inverse}}
 *Finnish: [[singulaarinen]]
 {{trans-mid}}
-*Japanese: [[単称]] (たんしょう, tanshō)
+* Japanese: {{t|ja|sc=Jpan|単称|tr=tanshō}}
 {{trans-bottom}}
 
 {{trans-top|linear algebra: of transformation}}
@@ -94,22 +99,19 @@ From {{ME.}} ''[[singuler]]'' < {{OF.}} < {{L.}} ''[[singularis]]'' "alone of it
 {{top}}
 *{{ttbc|Bosnian}}: [[pojedini]] {{m}}, [[jedini]] {{m}}
 *{{ttbc|Indonesian}}: [[tunggal]]
-*{{ttbc|Japanese}}: [[単一]] (たんいつ, tan-itsu)
 *{{ttbc|Serbian}}:
 *:Cyrillic: [[поједини]] {{m}}, [[једини]] {{m}}
 *:Roman: [[pojedini]] {{m}}, [[jedini]] {{m}}
 *{{ttbc|Spanish}}: singular
 {{bottom}}
 
-===Related terms===
+===See also===
+*[[dual]]
+*[[paucal]]
 *[[simplex]]
 *[[simple]]
 *[[single]]
 *[[singulus]]
-
-===See also===
-*[[dual]]
-*[[paucal]]
 *[[trial]]
 
 ===Noun===
@@ -118,7 +120,7 @@ From {{ME.}} ''[[singuler]]'' < {{OF.}} < {{L.}} ''[[singularis]]'' "alone of it
 # {{grammar}} A form of a word that refers to only one person or thing.
 
 ====Antonyms====
-*(''grammar: form of a word that refers to only one thing''): [[plural]]
+* {{sense|grammar: form of a word that refers to only one thing}} [[plural]]
 
 ====Translations====
 {{trans-top|grammar: form of a word that refers to only one thing}}
@@ -137,7 +139,7 @@ From {{ME.}} ''[[singuler]]'' < {{OF.}} < {{L.}} ''[[singularis]]'' "alone of it
 *Indonesian: [[bentuk]] [[tunggal]]
 *Italian: [[singolare]] {{m}}
 {{trans-mid}}
-*Japanese: [[単数形]] ([[たんすうけい]], tansū-kei)
+* Japanese: {{t|ja|sc=Jpan|単数形|tr=tansū-kei}}
 *Latin: [[singularis]]
 *Portuguese: singular
 *Russian: [[единственное число]] (jedínstvennoje čisló) {{n}}
