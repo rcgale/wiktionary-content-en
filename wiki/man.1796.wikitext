@@ -28,7 +28,7 @@
 # A [[piece]] or [[token]] used in board games such as [[chess]].
 
 ====Synonyms====
-* {{sense|adult male human}} [[omi]] {{i|Polari}}
+* {{sense|adult male human}} [[omi]] {{qualifier|Polari}}
 
 ====Antonyms====
 * [[woman]]
@@ -134,7 +134,7 @@
 * Maltese: {{t-|mt|raġel|xs=Maltese}}
 * [[Marathi]]: {{t|mr|माणूस|sc=Deva|xs=Marathi}}
 * [[Megleno-Romanian]]: {{tø|ruq|bărbat|m|xs=Megleno-Romanian}}
-* [[Mi'kmaq]]: [[jinem]]
+* [[Mi'kmaq]]: {{t|mic|jinem}}
 * Navajo: {{tø|nv|diné|xs=Navajo}}
 * Nepali: {{t|ne|manav|xs=Nepali}}, {{t|ne|maanche|xs=Nepali}}
 * Norwegian: {{t+|no|mann|m}}
@@ -186,32 +186,32 @@
 * Japanese: {{t+|ja|人|tr=[[ひと]], hito|sc=Jpan}}
 * Korean: {{t+|ko|사람|tr=saram|sc=Hang}}
 * Kurdish: {{t|ku|مرۆڤ|sc=KUchar}}
-* [[Mapudungun]]: [[che]]
+* [[Mapudungun]]: {{t|arn|che}}
 * Norwegian: {{t+|no|menneske|n}}
 * Polish: {{t+|pl|człowiek|m}}
-* [[Rapa Nui]]: [[tangata]]
-* [[Rohingya]]: [[manúic]]
+* [[Rapa Nui]]: {{t|rap|tangata}}
+* [[Rohingya]]: {{t|cit|manúic}}
 * Romanian: {{t+|ro|om|m}}
-* Romany: [[manush]]
+* Romani: {{t|rom|manush}}
 * Russian: {{t+|ru|человек|m|tr=čelovék|sc=Cyrl}}
-* [[Scottish Gaelic]]: [[duine]] {{m}}
+* [[Scottish Gaelic]]: {{t|gd|duine|m}}
 * Slovak: {{t-|sk|človek|m}}
-* Spanish: [[gente]] ((f)), [[hombre]] ((m)), [[ser humano]] {{m}}
+* Spanish: {{t|es|gente|f}}, {{t|es|hombre|m}}, {{t|es|ser humano|m}}
 * Swedish: {{t+|sv|människa|f}}
 {{trans-bottom}}
 
 {{trans-top|piece in board games}}
 * Bulgarian: {{t+|bg|фигура|f|tr=figúra|sc=Cyrl}}
 * Dutch: {{t-|nl|pion|m}}, {{t-|nl|speelstuk|n}}
-* Estonian: [[nupp]]
-* Finnish: [[pelinappula]], [[nappula]], [[äijä]] (''colloquial''), [[ukko]] (''colloquial'')
+* Estonian: {{t|et|nupp}}
+* Finnish: {{t|fi|pelinappula}}, {{t|fi|nappula}}, {{t|fi|äijä}} {{qualifier|colloquial}}, {{t|fi|ukko}} {{qualifier|colloquial}}
 * French: {{t+|fr|pion|m}}
 * German: {{t+|de|Stein|m}}, {{t-|de|Spielfigur|f}}
-* Greek: [[πιόνι]] (pióni) {{n}}, [[πούλι]] (púli) {{n}}
+* Greek: {{t|el|sc=Grek|πιόνι|tr=pióni|n}}, {{t|el|sc=Grek|πούλι|tr=púli|n}}
 * Hungarian: {{t+|hu|paraszt}}
 * Italian: {{t+|it|pedina|f}}
 {{trans-mid}}
-* Japanese: [[石]] ([[いし]], ishi), [[駒]] ([[こま]], koma)
+* Japanese: {{t|ja|石|tr=[[いし]], ishi}}, {{t|ja|駒|tr=[[こま]], koma}}
 * Kurdish: {{t+|ku|berik}}
 * Norwegian: {{t-|no|brikke|m}}
 * Polish: {{t+|pl|pionek|m}}
@@ -221,17 +221,16 @@
 * Turkish: {{t+|tr|taş}}
 {{trans-bottom}}
 
-{{checktrans}}
-{{trans-top|Translations to be categorised}}
+{{checktrans-top}}
 * {{ttbc|Arabic}}: {{ARchar|[[رجل]]}} (rájul) {{m}}
 * {{ttbc|Basque}}: [[gizon]], [[gizaseme]], [[gizonki]]
 * {{ttbc|Hawaiian}}: [[kanaka]], [[kāne]]
 * {{ttbc|Ido}}: [[viro]], [[homo]]
-{{trans-mid}}
+{{checktrans-mid}}
 * {{ttbc|Central Sierra Miwok}}: [[naŋˑa-]]
 * {{ttbc|Occitan}}: [[òme]]
 * {{ttbc|Pitjantjatjara}}: [[wati]]
-{{trans-bottom}}
+{{checktrans-bottom}}
 
 ===Verb===
 {{en-verb|man|n|ed}}
@@ -246,21 +245,21 @@
 
 ====Translations====
 {{trans-top|to supply with staff or crew}}
-* [[Afrikaans]]: [[beman]]
+* [[Afrikaans]]: {{t|af|beman}}
 * Dutch: {{t-|nl|bemannen}}
 * Finnish: {{t+|fi|täyttää}}, {{t-|fi|miehittää}}
 * German: {{t-|de|bemannen}}
 {{trans-mid}}
-* Hebrew: [[לאייש]] (le’aiesh), [[לספק כוח אדם]] (le’sipek kokha adam)
+* Hebrew: {{t|he|לאייש|tr=le’aiesh|sc=Hebr}}, {{t|he|לספק כוח אדם|tr=le’sipek kokha adam|sc=Hebr}}
 * Icelandic: {{t-|is|manna}}
-* Kurdish: [[dagirtin]], [[dagir]] kirin
+* Kurdish: {{t|ku|dagirtin}}, {{t|ku|dagir kirin}}
 {{trans-bottom}}
 
 {{trans-top|to take up position in order to operate something}}
-* [[Afrikaans]]: [[beman]]
+* [[Afrikaans]]: {{t|af|beman}}
 * Dutch: {{t-|nl|bemannen}}
 * German: {{t-|de|bemannen}}
-* Hebrew: [[לאייש]] (le’aiesh)
+* Hebrew: {{t|he|sc=Hebr|לאייש|tr=le’aiesh}}
 {{trans-mid}}
 * Swedish: {{t-|sv|bemanna}}
 {{trans-bottom}}
@@ -309,7 +308,7 @@
 ===Noun===
 {{nl-noun|g=m|mannen|mannetje}}
 
-# [[man#English|Man]] (adult male).
+# [[man#English|Man]] (adult male)
 
 ====Derived terms====
 * [[koopman]]
@@ -356,12 +355,10 @@
 ==German==
 
 ===Pronoun===
-{{infl|de|pronoun}}
+{{infl|de|indefinite pronoun}}
 
 # {{indefinite|lang=de}} [[one]], [[they]] {{i|indefinite third person singular pronoun}}
 #: ''was '''man''' sehen kann'' &mdash; what one can see
-
-[[Category:German indefinite pronouns]]
 
 ----
 
@@ -469,7 +466,7 @@ Cognate with Old Saxon {{term|men|mēn}}, Old High German {{term|mein|goh}}, Old
 ==Swedish==
 
 ===Pronunciation===
-* {{audio|Sv-man.ogg|audio}} (''definitions noun 1.-3. and pronoun 1.'')
+* {{audio|Sv-man.ogg|audio}} {{i|definitions noun 1.-3. and pronoun 1.}}
 
 ===Noun===
 {{sv-noun|gender=Common|man|mannen|män|männen|mans|mannens|mäns|männens|definitions=1, 2}}
@@ -477,7 +474,7 @@ Cognate with Old Saxon {{term|men|mēn}}, Old High German {{term|mein|goh}}, Old
 {{sv-noun|gender=Common|man|manen|manar|manarna|mans|manens|manars|manarnas|definitions=4}}
 {{infl|sv|noun|gender=c}} {{IPA|ˈman|lang=sv}}, if not stated else.
 
-# [[#English|man]] {{i|adult male human}}
+# [[#English|man]] {{qualifier|adult male human}}
 # [[husband]]
 # {{military|lang=sv}} Member of a [[troop]].
 # {{IPA|ˈmɑːn|lang=sv}} [[mane]] (''of a horse or lion'')
@@ -500,7 +497,7 @@ Cognate with Old Saxon {{term|men|mēn}}, Old High German {{term|mein|goh}}, Old
 ===Noun===
 {{tpi-noun}}
 
-# [[#English|man]] {{i|adult male human}}
+# [[#English|man]] {{qualifier|adult male human}}
 
 ====Antonyms====
 * [[meri]]
