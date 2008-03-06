@@ -2,11 +2,11 @@
 ==English==
 
 ===Etymology 1===
-From {{L.}} ''[[cubus]]'', from Greek [[κύβος]] (cybos)
+From {{L.}} {{term|cubus}}, from {{Gk.}} {{term|κύβος|tr=cybos}}
 
 ====Pronunciation====
-* (''RP''): kyo͞ob, /kjuːb/, /<tt>kju:b</tt>/
-* (''US''): kyo͞ob, /kjub/, /<tt>kjub</tt>/
+* {{a|RP}} kyo͞ob, {{IPA|/kjuːb/}}, /<tt>kju:b</tt>/
+* {{a|US}} kyo͞ob, {{IPA|/kjub/}}, /<tt>kjub</tt>/
 * {{audio|en-us-cube.ogg|Audio (US)}}
 *: Rhymes: [[Rhymes:English:-uːb|-uːb]]
 
@@ -14,19 +14,19 @@ From {{L.}} ''[[cubus]]'', from Greek [[κύβος]] (cybos)
 [[Image:Cube Animation.gif|right]]
 {{en-noun}}
 
-# {{geometry}} A [[polyhedron]] having six identical square faces.
+# {{geometry}} A [[regular]] [[polyhedron]] having six identical square faces.
 # Any object more or less in the form of a cube.
 #: ''a sugar '''cube'''''
 #: ''a stock '''cube'''''
 # {{mathematics}} The third [[power]] of a [[number]], [[value]], [[term]] or expression.
-
+#: ''the '''cube''' of 2 is 8''
 =====Synonyms=====
-* (''geometry: polyhedron having of six identical square faces''): [[regular hexahedron]] (''rare'')
-* (''object in the form of a cube''): [[block]], [[brick]], [[die]], [[square block]]
-* (''number raised to the third power''): [[third]] [[power]]
+* {{sense|geometry: polyhedron having of six identical square faces}} [[regular hexahedron]] {{qualifier|rare}}
+* {{sense|object in the form of a cube}} [[block]], [[brick]], [[die]], [[square block]]
+* {{sense|number raised to the third power}} [[third]] [[power]]
 
 =====Hypernyms=====
-* (''geometry: polyhedron having of six identical square faces''): [[hexahedron]]
+* {{sense|geometry: polyhedron having of six identical square faces}} [[hexahedron]]
 
 =====Translations=====
 {{trans-top|geometry: polyhedron having of six identical square faces}}
@@ -224,7 +224,7 @@ From {{L.}} ''[[cubus]]'', from Greek [[κύβος]] (cybos)
 * [[tesseract]]
 
 ===Etymology 2===
-Clipped form of [[cubicle]] (with intentional reference to their common shape per [[#Etymology 1|cube 1]]), from Latin [[cubiculum]], a small bedchamber or lounge, from [[cubare]], to lie down.
+Clipped form of {{term|cubicle}} (with intentional reference to their common shape per [[#Etymology 1|{{term|cube}}, etymology 1]]), which from {{L.}} {{term|cubiculum||a small bedchamber or lounge}}, from {{term|cubare||to lie down}}.
 
 ====Noun====
 {{en-noun}}
@@ -256,11 +256,9 @@ Clipped form of [[cubicle]] (with intentional reference to their common shape pe
 ==Italian==
 
 ===Adjective===
-'''cube''' {{f}}
+{{infl|it|adjective form|g=f}}
 
 # Feminine plural form of [[cubo]]
-
-[[Category:Italian adjective forms]]
 
 [[ar:cube]]
 [[de:cube]]
