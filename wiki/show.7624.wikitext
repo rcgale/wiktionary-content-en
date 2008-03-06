@@ -9,8 +9,8 @@
 {{OE.}} ''[[sceawian|scēawian]]'', from West Germanic ''*skauwojanan''. Cognate with Dutch ''[[schouwen]]'' and German ''[[schauen]]''.
 
 ===Pronunciation===
-*{{italbrac|UK}}: {{IPA|/ʃəʊ/}}, {{SAMPA|/S@U/}}
-*{{italbrac|US}}: {{enPR|shō}}, {{IPA|/ʃoʊ/}}, {{SAMPA|/SoU/}}
+*{{a|UK}}: {{IPA|/ʃəʊ/}}, {{SAMPA|/S@U/}}
+*{{a|US}}: {{enPR|shō}}, {{IPA|/ʃoʊ/}}, {{SAMPA|/SoU/}}
 *{{audio|en-us-show.ogg|Audio (US)}}
 *{{rhymes|əʊ}}
 
@@ -21,19 +21,15 @@
 # {{transitive}} To indicate (a fact) to be true; to [[demonstrate]].
 
 ====Synonyms====
-*{{italbrac|display}}: [[display]], [[indicate]], [[point out]], [[reveal]]
-*{{italbrac|indicate a fact to be true}}: [[demonstrate]], [[prove]]
+*{{sense|display}} [[display]], [[indicate]], [[point out]], [[reveal]]
+*{{sense|indicate a fact to be true}} [[demonstrate]], [[prove]]
 
 ====Antonyms====
-*{{italbrac|display}}: [[conceal]], [[cover up]], [[hide]]
-*{{italbrac|indicate a fact to be true}}: [[disprove]], [[refute]]
+*{{sense|display}} [[conceal]], [[cover up]], [[hide]]
+*{{sense|indicate a fact to be true}} [[disprove]], [[refute]]
 
 ====Derived terms====
-*[[showcase]]
-*[[showdown]]
-*[[shower]]<!--one who shows; not "shower" as in "a shower of rain"-->
-*[[show off]]<!--verb; "show-off" is derived from this-->
-*[[show up]]
+*[[shower#Etymology 2|shower]]
 
 ====Translations====
 {{trans-top|display}}
@@ -48,9 +44,9 @@
 * Hebrew: [[להציג]] {{romanization of Hebrew|lehatsíg}}, [[להראות]] {{romanization of Hebrew|lehar`ót}}
 * Hindi: [[दिखाना]] (dikhaana)
 * Hungarian: {{t+|hu|mutat}}, {{t+|hu|megmutat}}
-{{trans-mid}}
 * Italian: {{t+|it|mostrare}}
-* Japanese: {{t-|ja|見せる|tr=miseru|sc=Jpan}}
+{{trans-mid}}
+* Japanese: {{t-|ja|見せる|tr=miseru|sc=Jpan}}, {{t|ja|sc=Jpan|示す|tr=shimesu}}, {{t|ja|sc=Jpan|表す|tr=arawasu}}
 * Korean: [[가리키다]] (garikida)
 * Kurdish: {{KUchar|[[پیشاندان]]}}
 * [[Marathi]]: [[दाखवणे]] (daakhawaNe)
@@ -72,6 +68,7 @@
 * German: {{t+|de|zeigen}}
 * Hebrew: [[להראות]] {{romanization of Hebrew|lehar`ót}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|示す|tr=shimesu}}
 * Italian: {{t+|it|dimostrare}}
 * Kurdish: {{KUchar|[[پیشاندان]]}}
 * Norwegian: {{t+|no|vise}}
@@ -90,8 +87,13 @@
 *{{ttbc|Chinese}}: [[使被看见]] (shǐ bèi kànjiàn)
 *{{ttbc|Ido}}: [[montrar]], [[indikar]] (''indicate'')
 *{{ttbc|Indonesian}}: [[tunjuk|menunjukkan]], [[tunjuk|mempertunjukkan]], [[tampil|menampilkan]], [[lihat|memperlihatkan]]
-*{{ttbc|Japanese}}: [[見せる]], ([[みせる]], miseru), [[示す]] ([[しめす]], shimesu), [[表す]] ([[あらわす]], arawasu), [[表示]]する ([[ひょうじ]]する, hyōji-suru)
 {{trans-bottom}}
+
+====See also====
+*[[showcase]]
+*[[showdown]]
+*[[show off]]<!--verb; "show-off" is derived from this-->
+*[[show up]]
 
 ===Noun===
 {{en-noun}}
@@ -111,16 +113,12 @@
 #:''The dog sounds ferocious but it's all '''show'''.''
 
 ====Synonyms====
-*{{italbrac|exhibition}}: [[exhibition]], [[exposition]]
-*{{italbrac|demonstration}}: [[demonstration]], [[illustration]], [[proof]]
-*{{italbrac|broadcast program(me)}}: [[program|program(me)]]
-*{{italbrac|mere display with no substance}}: [[façade]], [[front]], [[superficiality]]
+*{{sense|exhibition}} [[exhibition]], [[exposition]]
+*{{sense|demonstration}} [[demonstration]], [[illustration]], [[proof]]
+*{{sense|broadcast program(me)}} [[program|program(me)]]
+*{{sense|mere display with no substance}} [[façade]], [[front]], [[superficiality]]
 
 ====Derived terms====
-*[[showman]]
-*[[showpiece]]
-*[[show-stopper]]
-*[[show-stopping]]
 *[[showy]]
 
 ====Translations====
@@ -134,6 +132,7 @@
 * Hebrew: [[הופעה]] {{romanization of Hebrew|hofa`á}} {{f}}
 * Italian: {{t+|it|spettacolo|m}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|興行|tr=kōgyō}}
 * Maltese: [[spettaklu]] {{m}}
 * Romanian: [[spectacol]] {{n}}
 * Russian: [[спектакль]] (spektákl’) {{m}}, [[шоу]] (šou) {{m}}
@@ -150,6 +149,7 @@
 * Hebrew: [[מופע]] {{romanization of Hebrew|mofá}} {{m}}
 * Italian: {{t+|it|mostra|f}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|展示会|tr=tenjikai}}
 * Kurdish: {{KUchar|[[پیشانگا]]}}
 * Maltese: [[wirja]], [[essibizjoni]]
 * Romanian: {{t-|ro|expoziţie|f}}
@@ -165,6 +165,7 @@
 * Finnish: {{t-|fi|näytös}}, {{t-|fi|demonstraatio}}
 * German: {{t+|de|Demonstration|f}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|誇示|tr=koji}}
 * Romanian: [[demonstraţie]] {{f}}
 * Spanish: {{t-|es|demostración|f}}
 * Swedish: {{t-|sv|demonstration}}
@@ -192,6 +193,12 @@
 *{{ttbc|Bulgarian}}: [[шоу]] (šou) {{n}} (1), [[представление]] (predstavlénie) {{n}} (2), [[спектакъл]] (spektákǎl) {{n}} (2), [[изложба]] (izložba) {{f}} (3), [[показване]] (pokazvane) {{n}} (4), [[демонстрация]] (demonstrátsija) {{f}} (4)
 *{{ttbc|Chinese}}: [[演出]] (yǎnchū), [[表演]] (biǎoyǎn)
 {{trans-bottom}}
+
+====See also====
+*[[showman]]
+*[[showpiece]]
+*[[show-stopper]]
+*[[show-stopping]]
 
 [[Category:200 English basic words]]
 [[Category:Communication]]
