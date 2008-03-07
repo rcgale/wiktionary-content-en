@@ -22,10 +22,13 @@
 # {{transitive}} {{ergative}} To create light with a flashlight, lamp, torch, etc.
 
 ====Synonyms====
-* (''to emit light''): [[beam]], [[glow]], [[radiate]]
-* (''to reflect light''): [[gleam]], [[glint]], [[glisten]], [[glitter]], [[reflect]]
-* (''to distinguish oneself''): [[excel]]
-* (''to polish''): [[polish]], [[smooth]], [[smoothen]]
+* {{sense|to emit light}} [[beam]], [[glow]], [[radiate]]
+* {{sense|to reflect light}} [[gleam]], [[glint]], [[glisten]], [[glitter]], [[reflect]]
+* {{sense|to distinguish oneself}} [[excel]]
+* {{sense|to polish}} [[polish]], [[smooth]], [[smoothen]]
+
+====Coordinate terms====
+* {{sense|to emit light}} [[beam]], [[flash]], [[glare]], [[glimmer]], [[shimmer]], [[twinkle]]
 
 ====Translations====
 {{trans-top|to emit light}}
@@ -41,7 +44,7 @@
 * Hungarian: {{t+|hu|ragyog}}
 * Italian: {{t+|it|brillare}}
 {{trans-mid}}
-* Japanese: [[光る]] (ひかる, hikaru)
+* Japanese: {{t|ja|sc=Jpan|輝く|tr=kagayaku}}, {{t|ja|sc=Jpan|光る|tr=hikaru}}
 * Korean: [[빛나다]] (bitnada)
 * Lithuanian: [[šviesti]]
 * [[Nahuatl]]: [[tona]]
@@ -59,8 +62,8 @@
 * Dutch: {{t|nl|glanzen}}, {{t+|nl|blinken}}
 * Finnish: {{t-|fi|heijastaa}}, {{t-|fi|kiiltää}}
 * German: {{t+|de|glänzen}}
-* Japanese: [[輝く]] (かがやく, kagayaku)
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|輝く|tr=kagayaku}}
 * [[Nahuatl]]: [[tona]]
 * Portuguese: {{t+|pt|cintilar}}
 * Russian: [[блестеть]] (bljestjét’), [[сиять]] (siját’)
@@ -73,9 +76,10 @@
 * Danish: [[glimre]], [[brillere]]
 * Dutch: {{t|nl|uitblinken}}
 * Finnish: {{t+|fi|loistaa}}, {{t-|fi|erottua}}
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|目立つ|tr=medatsu}}
 * Portuguese: {{t+|pt|sobressair}}
 * Russian: [[блистать]] (blistát’)
-{{trans-mid}}
 * Swedish: [[glänsa]], vara [[lysande]]
 * [[Telugu]]: [[వెలిగిపోవు]] (veligipOvu)
 {{trans-bottom}}
@@ -93,8 +97,8 @@
 * Dutch: {{t|nl|opblinken}}, {{t-|nl|polieren}}
 * Finnish: {{t-|fi|kiillottaa}}, {{t-|fi|puleerata}}
 * German: {{t+|de|polieren}}, {{t-|de|bohnern}}
-* Japanese: [[磨く]] (みがく, migaku)
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|磨く|tr=migaku}}
 * [[Nahuatl]]: [[tona]]
 * Portuguese: {{t-|pt|lustrar}}, {{t+|pt|polir}}
 * Russian: [[полировать]] (polirovát’), [[чистить]] (čístit’, ''shoes'')
@@ -105,6 +109,11 @@
 {{trans-mid}}
 {{trans-bottom}}
 
+{{trans-top|ergative: to create light with a flashlight, lamp, torch, etc.}}
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|照らす|tr=terasu}}
+{{trans-bottom}}
+
 {{checktrans}}
 {{trans-top|Translations to be checked}}
 * {{ttbc|Bulgarian}}: [[светя]] (svetja) (1), [[блестя]] (blestja) (2)
@@ -112,7 +121,6 @@
 * {{ttbc|Ido}}: [[brilar]]
 * {{ttbc|Indonesian}}: [[sinar|menyinari]], [[sinar|bersinar]] <!-- huh? -->
 {{trans-mid}}
-* {{ttbc|Japanese}}: [[光る]] ([[ひかる]]), [[輝く]] ([[かがやく]]) (vi); [[目立つ]] ([[めだつ]], vi); [[照らす]] ([[てらす]], terasu; vt)
 * {{ttbc|Italian}}: [[brillare]], [[splendere]], [[risplendere]]
 * {{ttbc|Romanian}}: [[straluci]]
 * {{ttbc|Spanish}}: [[brillar]]
@@ -130,12 +138,18 @@
 # {{cricket}} The [[amount]] of [[shininess]] on a [[cricket ball]], or on each side of the ball.
 
 ====Synonyms====
-* (''brightness from a source of light''): [[effulgence]], [[radiance]], [[radiancy]], [[refulgence]], [[refulgency]]
-* (''brightness from reflected light''): [[luster]]
-* (''excellence in quality or appearance''): [[brilliance]], [[splendor]]
-* (''shoeshine''): ''See'' '''[[shoeshine]]'''
-* (''sunshine''): ''See'' '''[[sunshine]]'''
-* (''slang: moonshine''): ''See'' '''[[moonshine]]'''
+* {{sense|brightness from a source of light}} [[effulgence]], [[radiance]], [[radiancy]], [[refulgence]], [[refulgency]]
+* {{sense|brightness from reflected light}} [[luster]]
+* {{sense|excellence in quality or appearance}} [[brilliance]], [[splendor]]
+* {{sense|shoeshine}} ''See'' '''[[shoeshine]]'''
+* {{sense|sunshine}} ''See'' '''[[sunshine]]'''
+* {{sense|slang: moonshine}} ''See'' '''[[moonshine]]'''
+
+===Derived terms===
+* [[shimmer]]
+* [[shiner]]
+* [[shininess]]
+* [[shiny]]
 
 ====Translations====
 {{trans-top|brightness from a source of light}}
@@ -144,9 +158,10 @@
 * Finnish: {{t-|fi|loiste}}, {{t-|fi|paiste}}, {{t-|fi|hohde}}, {{t-|fi|kirkkaus}}
 * French: {{t+|fr|éclat|m}}
 * German: {{t+|de|Schein|m}}
-* Portuguese: {{t+|pt|brilho|m}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|輝き|tr=kagayaki}}, {{t|ja|sc=Jpan|光|tr=hikari}}
 * Kurdish: {{KUchar|[[ڕۆشنایی‌]]}}
+* Portuguese: {{t+|pt|brilho|m}}
 * Russian: {{t+|ru|свет|m|tr=svjet|sc=Cyrl}}, {{t+|ru|сияние|n|tr=sijánije|sc=Cyrl}}
 * Swedish: {{t+|sv|sken|n}}
 * [[Telugu]]: [[ప్రకాశము]] (prakaaSamu)
@@ -157,9 +172,10 @@
 * Dutch: {{t-|nl|glans|m}}
 * Finnish: {{t+|fi|valo}}, {{t-|fi|hohde}}, {{t-|fi|loiste}}
 * German: {{t+|de|Glanz|m}}
-* Portuguese: {{t+|pt|brilho|m}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|輝き|tr=kagayaki}}
 * Kurdish: {{KUchar|[[بریقه‌]]}}
+* Portuguese: {{t+|pt|brilho|m}}
 * Russian: {{t+|ru|блеск|m|tr=bljesk|sc=Cyrl}}, {{t+|ru|сияние|n|tr=sijánije|sc=Cyrl}}
 * Swedish: {{t-|sv|blankhet|c}}, {{t-|sv|glans|c}}
 * [[Telugu]]: [[మెరుపు]] (merupu)
@@ -170,8 +186,9 @@
 * Dutch: {{t|nl|uitmuntendheid|f}}, [[bravoure#Dutch|bravoure]] {{f}}
 * Finnish: {{t-|fi|erinomaisuus}}, {{t-|fi|ylivoimaisuus}}, {{t-|fi|loistokkuus}}
 * German: [[Brillanz]] {{f}}, [[Glanz]] {{m}}, [[Bravour]] {{f}}
-* Portuguese: {{t+|pt|esplendor|m}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|卓越|tr=takuetsu}}
+* Portuguese: {{t+|pt|esplendor|m}}
 * Russian: {{t+|ru|блеск|m|tr=bljesk|sc=Cyrl}}
 * Swedish: {{t+|sv|finish|c}}, {{t-|sv|polish|c}}
 {{trans-bottom}}
@@ -199,17 +216,10 @@
 * {{ttbc|German}}: [[Glanz]] {{m}}, [[Schein]], {{m}}
 * {{ttbc|Italian}}: [[lustro]] {{m}}
 {{trans-mid}}
-* {{ttbc|Japanese}}: [[光]] ([[ひかり]]), [[輝き]], [[つや]]
 * {{ttbc|Korean}}: [[빛]] (bit)
 * {{ttbc|Spanish}}: [[brillo]] {{m}}
 * {{ttbc|Romanian}}: [[strălucire]] {{f}}
 {{trans-bottom}}
-
-===Related terms===
-* [[shimmer]]
-* [[shiner]]
-* [[shininess]]
-* [[shiny]]
 
 [[Category:English ergative verbs]]
 [[Category:English irregular verbs]]
