@@ -21,11 +21,12 @@ to [[route#Verb|route]] + [[-er]]
 |passage=Obviously, the production control department might consist of one man or it might occupy a score of production control experts: '''routers''', schedulers, expediters, and dispatchers.}}
 #*{{quote-book|1990|Mary Kay Allen and Omar Keith Helferich|Putting Expert Systems to Work in Logistics|url=http://books.google.com/books?id=Xw1PAAAAMAAJ|page=66
 |passage=The system benefits include reduced delivery costs, increased vehicle use, and improved route decision making by dispatchers and '''routers'''.}}
-# A power tool used in carpentry for cutting grooves.
+# A [[power tool]] used in [[carpentry]] for cutting [[groove]]s.
 #: ''He made an attractive edge on the table with a '''router'''.''
 # {{context|Communications}} Any device that directs packets of information using [[OSI layer 3]], network layer, information.
-# {{internet}} A device that connects [[LAN|local area networks]] to form a larger [[internet]] by, at mimimum, selectively passing those [[datagram]]s having a destination [[IP address]] to the [[network]] which is able to deliver them to their destination.
+# {{internet}} A device that connects [[LAN|local area networks]] to form a larger [[internet]] by, at mimimum, selectively passing those [[datagram]]s having a destination [[IP address]] to the [[network]] which is able to deliver them to their destination; a [[network]] [[gateway]].
 #: ''The '''router''' was configured to forward packets outside of a certain range of IP addresses to its internet uplink port.''
+# {{electronics|electronic design automation}} In [[integrated circuit]] design, an [[algorithm]] for adding all wires needed to properly connect all of the placed components while obeying all design rules.
 
 ====Translations====
 {{trans-top|Someone who routes or directs items from one location to another}}
@@ -55,13 +56,15 @@ to [[route#Verb|route]] + [[-er]]
 {{trans-bottom}}
 
 ====See also====
-* {{pedialite|wood router}}
 * [[firewall]]
+* {{pedialite|wood router}}
+* {{pedialite|routing (EDA)}}
 
 <gallery>
-Image:Wood router jmc 2005 03 12.jpg|A '''router''' in carpentry.
-Image:Cisco7600seriesrouter.jpg|'''Routers''', devices for routing information packets.
-Image:Router.jpg|A '''router''' connecting a LAN to the larger internet.
+Image:Wood router jmc 2005 03 12.jpg|'''Router''' in carpentry.
+Image:Cisco7600seriesrouter.jpg|'''Routers''' for routing information packets.
+Image:Router.jpg|'''Router''' for connecting a LAN to the larger internet.
+Image:ChannelRouteSolution.gif|Output of a channel '''router''' algorithm.
 </gallery>
 
 ----
