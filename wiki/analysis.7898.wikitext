@@ -1,11 +1,12 @@
 {{see|Analysis}}
 ==English==
+
 ===Etymology===
 From {{ML.}} {{term|analysis|lang=la}} from {{etyl|grc|eng}} {{term|ἀνάλυσις|tr=analusis|lang=grc|sc=polytonic}} from {{term|ἀναλύω||I unravel, investigate|tr=analuō|lang=grc|sc=polytonic}} from {{term|ἀνά||on, up|tr=ana|lang=grc|sc=polytonic}} + {{term|λύω||I loosen|tr=luō|lang=grc|sc=polytonic}}.
 
 ===Noun===
 {{wikipedia}}
-'''analysis''' (''countable and uncountable; plural'' '''[[analyses]]''')
+{{en-noun|analyses|-}}
 
 # The action of taking something apart in order to study it.
 # {{uncountable}} {{math}} The mathematical study of [[function]]s, [[sequence]]s, [[series]], [[limit]]s, [[derivative]]s and [[integral]]s.
@@ -13,63 +14,9 @@ From {{ML.}} {{term|analysis|lang=la}} from {{etyl|grc|eng}} {{term|ἀνάλυ�
 # {{uncountable}} {{chemistry}} The process of breaking a substance down into its [[constituent]] parts.
 # {{countable}} {{chemistry}} The result of this process.
 
-====Derived terms====
-<!--See Wikipedia for the meanings of many of these-->
-{{top3}}
-* [[analysis of algorithms]]<!--in computing-->
-* [[analysis of variance]]<!--in statistics-->
-* [[aura analysis]]<!--study of bodily auras and energy fields-->
-* [[bowling analysis]]<!--in cricket-->
-* [[chemical analysis]]
-* [[competitive analysis]]<!--in computing-->
-* [[complex analysis]]<!--in mathematics-->
-* [[computer program analysis]]<!--in computing-->
-* [[dimensional analysis]]<!--in physics and engineering-->
-* [[discourse analysis]]<!--in linguistics-->
-* [[finite element analysis]]<!--in signal processing-->
-* [[frequency analysis]]<!--in crytography-->
-* [[functional analysis]]<!--in mathematics-->
-* [[fundamentals analysis]]<!--in economics-->
-* [[harmonic analysis]]<!--in mathematics-->
-{{mid3}}
-* [[independent components analysis]]<!--in signal processing-->
-* [[infinitesimal analysis]]<!--in mathematics-->
-* [[isotope analysis]]<!--in archaeology and paleontology-->
-* [[lexical analysis]]<!--in computing-->
-* [[life cycle cost analysis]]
-* [[link quality analysis]]<!--in signal processing-->
-* [[lithic analysis]]<!--study of stone tools, in archaeology-->
-* [[logical analysis]]
-* [[meta-analysis]]<!--in statistics-->
-* [[musical analysis]]<!--in music-->
-* [[neutron activation analysis]]<!--in chemistry-->
-* [[nonstandard analysis]]<!--in mathematics-->
-* [[numerical analysis]]<!--in mathematics-->
-* [[object-oriented analysis and design]]<!--in computing-->
-{{mid3}}
-* [[path quality analysis]]<!--in signal processing-->
-* [[principal components analysis]]<!--in signal processing-->
-* [[real analysis]]<!--in mathematics-->
-* [[Schenkerian analysis]]<!--in music-->
-* [[semantic analysis]]<!--in computing-->
-* [[spectral analysis]]
-* [[static code analysis]]<!--in computing-->
-* [[statistical analysis]]<!--in mathematics-->
-* [[structured analysis]]<!--in computing-->
-* [[syntax analysis]]<!--in computing-->
-* [[system analysis]]<!--in electrical engineering-->
-* [[systems analysis]]<!--study of large systems-->
-* [[technical analysis]]<!--in economics-->
-* [[time-series analysis]]<!--in statistics-->
-* [[transactional analysis]]<!--in psychotherapy-->
-* [[voice analysis]]<!--in linguistics-->
-{{bottom}}
-
 ====Related terms====
 * [[analyse]], [[analyze]]
 * [[analyst]]
-* [[cryptanalysis]]<!--in crytography-->
-* [[psychoanalysis]]
 
 ====Translations====
 {{trans-top|action of taking something apart to study it}}
@@ -117,10 +64,11 @@ From {{ML.}} {{term|analysis|lang=la}} from {{etyl|grc|eng}} {{term|ἀνάλυ�
 * Swedish: {{t-|sv|analys|c}}
 {{trans-bottom}}
 
-{{trans-top|proof by deduction from known truths}}
+{{trans-top|logic: proof by deduction from known truths}}
 * Croatian: {{t-|hr|analiza|f}}
 {{trans-mid}}
-* Japanese: {{t-|ja|解析|tr=kaiseki|sc=Jpan}}
+* Japanese: {{qualifier|method}} {{t-|ja|解析|tr=kaiseki|sc=Jpan}}; {{qualifier|philosophical analysis}} {{t|ja|sc=Jpan|分析判断|tr=bunseki-handan}}
+* Japanese: {{t-|ja||tr=kaiseki|sc=Jpan}}
 * Polish: {{t+|pl|analiza|f}}
 {{trans-bottom}}
 
@@ -161,7 +109,62 @@ the tables above.-->
 * {{ttbc|Interlingua}}: [[analyse]]
 {{trans-bottom}}
 
-===See also===
+====See also====
+<!-- Compounds -->
+<!-- See Wikipedia for the meanings of many of these -->
+{{top3}}
+* [[analysis of algorithms]]<!--in computing-->
+* [[analysis of variance]]<!--in statistics-->
+* [[aura analysis]]<!--study of bodily auras and energy fields-->
+* [[bowling analysis]]<!--in cricket-->
+* [[chemical analysis]]
+* [[competitive analysis]]<!--in computing-->
+* [[complex analysis]]<!--in mathematics-->
+* [[computer program analysis]]<!--in computing-->
+* [[cryptanalysis]]<!--in crytography-->
+* [[dimensional analysis]]<!--in physics and engineering-->
+* [[discourse analysis]]<!--in linguistics-->
+* [[finite element analysis]]<!--in signal processing-->
+* [[frequency analysis]]<!--in crytography-->
+* [[functional analysis]]<!--in mathematics-->
+* [[fundamentals analysis]]<!--in economics-->
+* [[harmonic analysis]]<!--in mathematics-->
+{{mid3}}
+* [[independent components analysis]]<!--in signal processing-->
+* [[infinitesimal analysis]]<!--in mathematics-->
+* [[isotope analysis]]<!--in archaeology and paleontology-->
+* [[lexical analysis]]<!--in computing-->
+* [[life cycle cost analysis]]
+* [[link quality analysis]]<!--in signal processing-->
+* [[lithic analysis]]<!--study of stone tools, in archaeology-->
+* [[logical analysis]]
+* [[meta-analysis]]<!--in statistics-->
+* [[musical analysis]]<!--in music-->
+* [[neutron activation analysis]]<!--in chemistry-->
+* [[nonstandard analysis]]<!--in mathematics-->
+* [[numerical analysis]]<!--in mathematics-->
+* [[object-oriented analysis and design]]<!--in computing-->
+{{mid3}}
+* [[path quality analysis]]<!--in signal processing-->
+* [[principal components analysis]]<!--in signal processing-->
+* [[psychoanalysis]]
+* [[real analysis]]<!--in mathematics-->
+* [[Schenkerian analysis]]<!--in music-->
+* [[semantic analysis]]<!--in computing-->
+* [[spectral analysis]]
+* [[static code analysis]]<!--in computing-->
+* [[statistical analysis]]<!--in mathematics-->
+* [[structured analysis]]<!--in computing-->
+* [[syntax analysis]]<!--in computing-->
+* [[system analysis]]<!--in electrical engineering-->
+* [[systems analysis]]<!--study of large systems-->
+* [[technical analysis]]<!--in economics-->
+* [[time-series analysis]]<!--in statistics-->
+* [[transactional analysis]]<!--in psychotherapy-->
+* [[voice analysis]]<!--in linguistics-->
+{{bottom}}
+
+<!-- Categories -->
 * [[:Category:Analysis|List of terms used in mathematical analysis]]
 
 [[Category:English nouns with irregular plurals]]
