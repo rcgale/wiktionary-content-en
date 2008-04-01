@@ -103,7 +103,7 @@
 * [[Fijian]]: {{t|fj|turaga|xs=Fijian}}
 * Finnish: {{t+|fi|mies}}
 * French: {{t+|fr|homme|m}}
-* [[Frisian]]: {{t-|fy|man}}
+* [[Frisian]]: {{t-|fy|man|xs=Frisian}}
 * Georgian: {{t|ka|კაცი|tr=k‘atsi|xs=Georgian}}
 * German: {{t+|de|Mann|m}}, {{t+|de|Herr|m}}
 * Greek:
@@ -114,7 +114,7 @@
 * Hebrew: {{t+|he|אדם|m|tr=adam|sc=Hebr}}, {{t+|he|גבר|tr=gever|sc=Hebr}}, {{t+|he|איש|m|tr=ish|sc=Hebr}}
 * Hindi: {{t-|hi|आदमी|tr=ādmī|sc=Deva|xs=Hindi}}, {{t+|hi|पुरुष|sc=Deva|xs=Hindi}}
 * Hungarian: {{t+|hu|férfi}}
-* Icelandic: {{t+|is|karlmaður|m}}, {{t-|is|karl|m}}, {{t+|is|maður|m}}
+* Icelandic: {{t+|is|karlmaður|m}}, {{t+|is|karl|m}}, {{t+|is|maður|m}}
 * [[Ido]]: {{t+|io|viro|xs=Ido}}
 * Indonesian: {{t-|id|pria|xs=Indonesian}}, {{t-|id|laki-laki|xs=Indonesian}}
 * [[Interlingua]]: {{t-|ia|homine|xs=Interlingua}}; {{t-|ia|viro|xs=Interlingua}}
@@ -130,12 +130,12 @@
 * [[Lojban]]: {{t-|jbo|nanmu|xs=Lojban}}
 * [[Manx]]: {{t-|gv|fer|xs=Manx}}
 * [[Mapudungun]]: {{tø|arn|wentru|xs=Mapudungun}}
-* Malay: {{t|ms|lelaki|xs=Malay}}
+* Malay: {{t+|ms|lelaki|xs=Malay}}
 * [[Malayalam]]: {{t|ml|പുരുഷന്‍|tr=purushan|xs=Malayalam}}, {{t|ml|ആണ്|tr=aanu|xs=Malayalam}}
 * Maltese: {{t-|mt|raġel|xs=Maltese}}
 * [[Marathi]]: {{t|mr|माणूस|sc=Deva|xs=Marathi}}
 * [[Megleno-Romanian]]: {{tø|ruq|bărbat|m|xs=Megleno-Romanian}}
-* [[Mi'kmaq]]: {{t|mic|jinem}}
+* [[Mi'kmaq]]: {{tø|mic|jinem}}
 * Navajo: {{tø|nv|diné|xs=Navajo}}
 * Nepali: {{t|ne|manav|xs=Nepali}}, {{t|ne|maanche|xs=Nepali}}
 * Norwegian: {{t+|no|mann|m}}
@@ -154,14 +154,14 @@
 * [[Scottish Gaelic]]: {{t+|gd|fear|m|xs=Scottish Gaelic}}, {{t-|gd|duine|m|xs=Scottish Gaelic}}
 * [[Tswana]]: {{t-|tn|monna|xs=Tswana}}
 * Slovak: {{t-|sk|muž}}
-* Slovene: {{t|sl|moški|m}}, {{t+|sl|mož|m}}
+* Slovene: {{t+|sl|moški|m}}, {{t+|sl|mož|m}}
 * Spanish: {{t+|es|varón|m}}, {{t+|es|hombre|m}}
 * Swedish: {{t+|sv|man}}
 * [[Tamazight]]: [[ⴰⵔⴳⴰ]] (argaz)
 * [[Tetum]]: {{tø|tet|mane|xs=Tetum}}
 * [[Tok Pisin]]: {{t-|tpi|man|xs=Tok Pisin}}
 * [[Tupinambá]]: {{tø|tpn|abá|xs=Tupinambá}}
-* Turkish: {{t+|tr|adam}}, {{t|tr|erkek}}
+* Turkish: {{t+|tr|adam}}, {{t+|tr|erkek}}
 * Ukrainian: {{t|uk|чоловік|m|tr=čolovík|sc=Cyrl|xs=Ukrainian}}
 * [[Warlpiri]]: {{tø|wbp|wati|xs=Warlpiri}}
 * Welsh: {{t-|cy|gŵr|m|xs=Welsh}}, {{t-|cy|dyn|m|xs=Welsh}}
@@ -187,17 +187,17 @@
 * Japanese: {{t+|ja|人|tr=[[ひと]], hito|sc=Jpan}}
 * Korean: {{t+|ko|사람|tr=saram|sc=Hang}}
 * Kurdish: {{t|ku|مرۆڤ|sc=KUchar}}
-* [[Mapudungun]]: {{t|arn|che}}
+* [[Mapudungun]]: {{tø|arn|che|xs=Mapudungun}}
 * Norwegian: {{t+|no|menneske|n}}
 * Polish: {{t+|pl|człowiek|m}}
-* [[Rapa Nui]]: {{t|rap|tangata}}
-* [[Rohingya]]: {{t|cit|manúic}}
+* [[Rapa Nui]]: {{tø|rap|tangata|xs=Rapa Nui}}
+* [[Rohingya]]: {{tø|cit|manúic}}
 * Romanian: {{t+|ro|om|m}}
-* [[Romani]]: {{t|rom|manush}}
+* [[Romani]]: {{tø|rom|manush|xs=Romani}}
 * Russian: {{t+|ru|человек|m|tr=čelovék|sc=Cyrl}}
-* [[Scottish Gaelic]]: {{t|gd|duine|m}}
+* [[Scottish Gaelic]]: {{t-|gd|duine|m|xs=Scottish Gaelic}}
 * Slovak: {{t-|sk|človek|m}}
-* Spanish: {{t|es|gente|f}}, {{t|es|hombre|m}}, {{t|es|ser humano|m}}
+* Spanish: {{t+|es|gente|f}}, {{t+|es|hombre|m}}, {{t+|es|ser humano|m}}
 * Swedish: {{t+|sv|människa|f}}
 {{trans-bottom}}
 
@@ -205,14 +205,14 @@
 * Bulgarian: {{t+|bg|фигура|f|tr=figúra|sc=Cyrl}}
 * Dutch: {{t-|nl|pion|m}}, {{t-|nl|speelstuk|n}}
 * Estonian: {{t|et|nupp}}
-* Finnish: {{t|fi|pelinappula}}, {{t|fi|nappula}}, {{t|fi|äijä}} {{qualifier|colloquial}}, {{t|fi|ukko}} {{qualifier|colloquial}}
+* Finnish: {{t-|fi|pelinappula}}, {{t+|fi|nappula}}, {{t|fi|äijä}} {{qualifier|colloquial}}, {{t+|fi|ukko}} {{qualifier|colloquial}}
 * French: {{t+|fr|pion|m}}
 * German: {{t+|de|Stein|m}}, {{t-|de|Spielfigur|f}}
-* Greek: {{t|el|sc=Grek|πιόνι|tr=pióni|n}}, {{t|el|sc=Grek|πούλι|tr=púli|n}}
+* Greek: {{t+|el|πιόνι|n|tr=pióni|sc=Grek}}, {{t|el|πούλι|n|tr=púli|sc=Grek}}
 * Hungarian: {{t+|hu|paraszt}}
 * Italian: {{t+|it|pedina|f}}
 {{trans-mid}}
-* Japanese: {{t|ja|石|tr=[[いし]], ishi}}, {{t|ja|駒|tr=[[こま]], koma}}
+* Japanese: {{t+|ja|石|tr=[[いし]], ishi|sc=Jpan}}, {{t+|ja|駒|tr=[[こま]], koma|sc=Jpan}}
 * Kurdish: {{t+|ku|berik}}
 * Norwegian: {{t-|no|brikke|m}}
 * Polish: {{t+|pl|pionek|m}}
@@ -224,7 +224,7 @@
 
 {{checktrans-top}}
 * {{ttbc|Arabic}}: {{Arab|[[رجل]]}} (rájul) {{m}}
-* {{ttbc|Basque}}: {{t|eu|gizon}}, {{t|eu|gizaseme}}, {{t|eu|gizonki}}
+* {{ttbc|Basque}}: {{t|eu|gizon|xs=Basque}}, {{t|eu|gizaseme|xs=Basque}}, {{t|eu|gizonki|xs=Basque}}
 * {{ttbc|Hawaiian}}: [[kanaka]], [[kāne]]
 * {{ttbc|Ido}}: [[viro]], [[homo]]
 {{checktrans-mid}}
@@ -246,7 +246,7 @@
 
 ====Translations====
 {{trans-top|to supply with staff or crew}}
-* [[Afrikaans]]: {{t|af|beman}}
+* [[Afrikaans]]: {{t|af|beman|xs=Afrikaans}}
 * Dutch: {{t-|nl|bemannen}}
 * Finnish: {{t+|fi|täyttää}}, {{t-|fi|miehittää}}
 * German: {{t-|de|bemannen}}
@@ -257,10 +257,10 @@
 {{trans-bottom}}
 
 {{trans-top|to take up position in order to operate something}}
-* [[Afrikaans]]: {{t|af|beman}}
+* [[Afrikaans]]: {{t|af|beman|xs=Afrikaans}}
 * Dutch: {{t-|nl|bemannen}}
 * German: {{t-|de|bemannen}}
-* Hebrew: {{t|he|sc=Hebr|לאייש|tr=le’aiesh}}
+* Hebrew: {{t|he|לאייש|tr=le’aiesh|sc=Hebr}}
 {{trans-mid}}
 * Swedish: {{t-|sv|bemanna}}
 {{trans-bottom}}
