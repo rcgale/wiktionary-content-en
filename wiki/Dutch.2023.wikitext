@@ -4,7 +4,7 @@
 ==English==
 
 ===Etymology===
-From {{PG.}} ''[[þeod]]'' (meaning ''a people, a nation''); akin to [[Old Dutch]] ''[[dietsc]]'', ''[[diutsch]]'', {{OE.}} ''[[þeód]]'', {{OS.}} ''[[thiod]]'', ''[[thioda]]'', {{Goth.}} ''[[þiuda]]''; compare with [[w:German language|German]] ''[[deutsch]]'' "German", [[w:Lithuanian language|Lithuanian]] ''[[tauta]]'', ''people'', [[w:Old Irish language|Old Irish]] ''[[tuath]]'', ''people'', [[Oscan]] 'touto'. The English have applied the name especially to the Germanic people living nearest them, the Dutch people, and meant for the usage to apply to most West Germanic people. See [[Derrick]], [[Teuton]], [[Teutonic]].
+From {{proto|Germanic|þeod|a people, a nation}}; akin to [[Old Dutch]] {{term|dietsc|lang=odt}}, {{term|diutsch|lang=odt}}, {{OE.}} {{term|þeod|þeód|lang=ang}}, {{OS.}} {{term|thiod|lang=osx}}, {{term|thioda|lang=osx}}, {{Goth.}} {{term|||tr=þiuda|lang=got}}; compare with German {{term|deutsch||German|lang=de}}, Lithuanian {{term|tauta||people|lang=lt}}, Old Irish {{term|tuath||people|lang=sga}}, [[Oscan]] {{term|touto|lang=osc}}. The English have applied the name especially to the Germanic people living nearest them, the Dutch people, and meant for the usage to apply to most West Germanic people. See {{term|Derrick}}, {{term|Teuton}}, {{term|Teutonic}}.
 
 ===Pronunciation===
 * {{enPR|dŭch}}, {{IPA|/dʌtʃ/}}, {{SAMPA|/dVtS/}}
@@ -18,46 +18,46 @@ From {{PG.}} ''[[þeod]]'' (meaning ''a people, a nation''); akin to [[Old Dutch
 
 # The main [[language]] of the [[Netherlands]] and [[Flanders]] (i.e., the northern half of [[Belgium]]).
 # The people from the Netherlands.
-# {{archaic}} The main [[language]] of the [[Holy Roman Empire]]([[Germany]], [[Austria]], [[Alsace]], [[Luxemburg]])
-# {{archaic}} A [[German]]
+# {{archaic}} The main [[language]] of the [[Holy Roman Empire]]([[Germany]], [[Austria]], [[Alsace]], [[Luxembourg]])
+# {{archaic}} A [[German]].
 
 ====Translations====
 {{trans-top|the Dutch language}}
-* [[Afrikaans]]: [[Nederlands]]
-* Arabic: {{Arab|[[هولندي]]}} (hūllandi)
+* [[Afrikaans]]: {{t|af|Nederlands}}
+* Arabic: {{t|ar|sc=Arab|هولندي|tr=hūllandi}}
 * [[Aragonese]]: [[olandés]]
-* [[Basque]]: [[Neerlandera]]
+* [[Basque]]: {{t|eu|Neerlandera}}
 * Bosnian: {{t-|bs|holandski|m}}, {{t-|bs|nizozemski|m}}
-* Bulgarian: [[холандски]] (holandski)
-* [[Catalan]]: [[holandès]] ([[neerlandès]])
+* Bulgarian: {{t|bg|холандски|tr=holandski}}
+* [[Catalan]]: {{t|ca|holandès}}, {{t|ca|neerlandès}}
 * Chinese:
-*: Mandarin: [[荷兰语]] (Hélán yǔ)
-*: Min Nan: [[低地語]] (kē-tē-gú)
-* [[Cornish]]: (iseldiryek)
+*: Mandarin: {{t|cmn|荷兰语|tr=Hélán yǔ}}
+*: Min Nan: {{t|nan|低地語|tr=kē-tē-gú}}
+* [[Cornish]]: {{t|kw|iseldiryek}}
 * Croatian: {{t-|hr|nizozemski|m}}
 * Czech: {{t-|cs|holandština|f}}, {{t+|cs|nizozemština|f}}
 * Danish: {{t-|da|hollandsk}}, {{t+|da|nederlandsk}}
 * Dutch: {{t+|nl|Nederlands|n}}
 * Esperanto: {{t+|eo|nederlanda|xs=Esperanto}}
-* Estonian: [[hollandikeel]]
-* Faroese: [[hálendskt]]
+* Estonian: {{t|et|hollandikeel}}
+* Faroese: {{t|fo|hálendskt}}
 * Finnish: {{t+|fi|hollanti}}
 * French: {{t+|fr|néerlandais|m}}, {{t+|fr|hollandais|m}}
 * [[Frisian]]: [[Nederlânsk]], [[Hollânsk]]
 * German: {{t+|de|Niederländisch|n}}, {{t-|de|Holländisch|n}}
-* Greek: {{t+|el|ολλανδικά|n|p|sc=Grek}} (ollandiká)
+* Greek: {{t+|el|ολλανδικά|n|p|sc=Grek|tr=ollandiká}}
 * [[Gujarati]]: [[ડચ]] (d.ać)
-* Hebrew: [[הולנדית]] (holandít)
-* Hindi: [[डच]] (d.ać)
+* Hebrew: {{t|he|הולנדית|tr=holandít}}
+* Hindi: {{t|hi|डच|tr=d.ać}}
 * Hungarian: {{t+|hu|holland}}
 * Icelandic: {{t+|is|hollenska}}
 * Indonesian: {{t+|id|bahasa Belanda|xs=Indonesian}}
-* [[Interlingua]]: [[hollandese]], [[nederlandese]]
+* [[Interlingua]]: {{t|ia|hollandese}}, {{t|ia|nederlandese}}
 * Irish: [[ísiltíris]], [[ollainnis]]
 * Italian: {{t-|it|nederlandese}}, {{t+|it|olandese}}
 {{trans-mid}}
-* Japanese: [[オランダ語]] (oranda-go)
-* Korean: [[네덜란드어]] (Nedeolandeu-eo)
+* Japanese: {{t|ja|オランダ語|tr=oranda-go}}
+* Korean: {{t|ko|네덜란드어|tr=Nedeolandeu-eo}}
 * Kurdish: {{t+|ku|holendî}}
 * Latin: [[nederlandiensis]]
 * [[Low Saxon]]: [[nederlannsch]]
@@ -78,8 +78,8 @@ From {{PG.}} ''[[þeod]]'' (meaning ''a people, a nation''); akin to [[Old Dutch
 * Spanish: {{t+|es|neerlandés|m}}, {{t+|es|holandés|m}}
 * Swedish: {{t+|sv|nederländska}}, {{t+|sv|holländska}}
 * Turkish: {{t+|tr|Hollandaca}}
-* Urdu: {{ur-Arab|[[ڈچ]]}} (d.ać)
-* Welsh: [[iseldireg]]
+* Urdu: {{t|ur|sc=ur-Arab|ڈچ|tr=d.ać}}
+* Welsh: {{t|cy|iseldireg}}
 {{trans-bottom}}
 
 {{trans-top|people from the Netherlands}}
