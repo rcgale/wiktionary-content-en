@@ -63,41 +63,41 @@ From {{OCS.|ru}} {{term|sc=Cyrl|градъ|tr=gradŭ|lang=cu}}, from {{proto|Sla
 
 ==Serbian==
 
-===Roman spelling===
-*[[grad#Serbian|grad]]
-
 ===Etymology 1===
-From {{OCS.|sr}} {{term|sc=Cyrl|градъ|tr=gradŭ|lang=cu}} < {{proto|Slavic|gordъ|settlement, enclosed place|lang=sr}} < {{proto|Balto-Slavic|gordos|lang=sr}} < {{proto|Indo-European|gʰordʰ-o-|lang=sr}}.
-
-====Pronunciation====
-* {{audio|Sr-grad.ogg|audio}}
+From {{OCS.|sr}} {{term|sc=Cyrl|градъ|tr=gradŭ|lang=cu}}, from {{proto|Slavic|gordъ|settlement, enclosed place|lang=sr}}, from {{proto|Balto-Slavic|gordos|lang=sr}}, from {{proto|Indo-European|gʰordʰ-o-|lang=sr}}.
 
 ====Noun====
-'''град''' (grȃd) {{m}}
+{{sr-noun|g=m|pl=градови|rom=grad}}
 
 # [[city]]
 # [[town]]
+
+====Declension====
+{{sr-decl-noun
+|град|градови
+|града|градова
+|граду|градовима
+|град|градове
+|граде|градови
+|градом|градовима
+|граду|градовима
+}}
 
 ===Etymology 2===
 From {{OCS.|sr}} {{term|sc=Cyrl|градъ|tr=gradŭ|lang=cu}} < {{proto|Slavic|gradъ|lang=sr}} < {{proto|Indo-European|greh₃d-|lang=sr}}.
 
 ====Noun====
-'''град''' (grȁd) {{m}}
+{{infl|sr|noun|g=m|Roman spelling:|grad}}
 
 # [[hail]]
 
 ===Etymology 3===
 From {{L.|sr}} {{term|gradus|lang=la}}.
 
-====Pronunciation====
-* {{audio|Sr-grad.ogg|audio}}
-
 ====Noun====
-'''град''' (grȃd) {{m}}
+{{infl|sr|noun|g=m|Roman spelling:|grad}}
 
 # [[degree]]
-
-[[Category:Serbian nouns]]
 
 [[ast:град]]
 [[bg:град]]
