@@ -98,11 +98,48 @@ Variant of {{term|come}}.
 
 ==Irish==
 
+===Etymology===
+From {{OIr.|ga}} {{term|cummaid|lang=sga}}
+
 ===Pronunciation===
-*{{IPA|lang=ga|[kuːmˠ]|[kʊmˠ]}}
+* {{a|Munster, Galway}} {{IPA|lang=ga|[kuːmˠ]}}
+* {{a|Mayo, Donegal}} {{IPA|lang=ga|[kʊmˠ]}}
 
 ===Verb===
-{{infl|ga|verb|present|cumann|past|chum|future|cumfaidh|conditional|chumfadh|past participle|cumtha|verbal noun|cumadh}}
+{{ga-verb
+ |pres    = cumann
+ |pres1s  = cumaim
+ |pres1p  = cumaimid
+ |presaut = cumthar
+ |impf    = chumadh
+ |impf1s  = chumainn
+ |impf2s  = chumtá
+ |impf1p  = chumaimis
+ |impf3p  = chumaidís
+ |impfaut = chumtaí
+ |past    = chum
+ |past1p  = chumamar
+ |pastaut = cumadh
+ |fut     = cumfaidh
+ |fut1p   = cumfaimid
+ |futaut  = cumfar
+ |cond    = chumfadh
+ |cond1s  = chumfainn
+ |cond2s  = chumfá
+ |cond1p  = chumfaimis
+ |cond3p  = chumfaidís
+ |condaut = chumfaí
+ |subj    = cuma
+ |psbj    = cumadh
+ |psbj1s  = cumainn
+ |psbj2s  = cumtá
+ |psbj1p  = cumaimis
+ |psbj3p  = cumaidís
+ |psbjaut = cumtaí
+ |impv2p  = cumaigí
+ |pp      = cumtha
+ |vn      = cumadh
+}}
 
 # to [[form]], [[shape]]
 # to [[compose]]
@@ -112,7 +149,7 @@ Variant of {{term|come}}.
 
 ====Mutation====
 {{ga mut cons|c|um}}
-
+{{-}}
 ----
 
 ==Latin==
