@@ -143,29 +143,35 @@ From {{L.|ca}} {{term|et|lang=la||and}}.
 
 ==Irish==
 
+===Etymology===
+From {{OIr.|ga}} {{term|i|lang=sga}} < {{proto|Celtic|eni|lang=ga}} (cf. Welsh {{term|yn|lang=cy}}) < {{proto|Indo-European|en|lang=ga}} (cf. English {{term|in}}, Latin {{term|in|lang=la}}, Greek {{term|ἐν|lang=grc|sc=polytonic}}).
+
 ===Pronunciation===
 *{{IPA|lang=ga|/ɪ/}}
 
 ===Preposition===
-'''i''' (triggers [[eclipsis]])
+{{ga-prep-infl
+ |1sg    = ionam
+ |2sg    = ionat
+ |3sgm   = ann
+ |3sgmem = annsan
+ |3sgf   = inti
+ |1pl    = ionainn
+ |2pl    = ionaibh
+ |3pl    = iontu
+}}
 
 # [[in]]
 
-===Alternative forms===
+====Usage notes====
+Triggers [[eclipsis]] of a following consonant.
+
+====Alternative forms====
+* [[in#Irish|in]] {{i|used before vowels in place of eclipsis}}
+
 Combined with [[definite article]]:
 * [[sa]] (before consonants), [[san]] (before vowels): [[in]] [[the]] ([[singular|sg.]]) (triggers [[lenition]])
 * [[sna]]: [[in]] [[the]] ([[plural|pl.]]) (adds '''h''' to vowels)
-
-Inflected forms:
-*[[first person|1]][[singular|sg.]] '''[[ionam]]''' &ndash; [[in]] [[me]]
-*[[second person|2]][[singular|sg.]] '''[[ionat]]''' &ndash; [[in]] [[you]] ([[singular|sg.]])
-*[[third person|3]][[singular|sg.]][[masculine|m.]] '''[[ann]]''' &ndash; [[in]] [[him]], [[in]] [[it]]
-*[[third person|3]][[singular|sg.]][[feminine|f.]] '''[[inti]]''' &ndash; [[in]] [[her]], [[in]] [[it]]
-*[[first person|1]][[plural|pl.]] '''[[ionainn]]''' &ndash; [[in]] [[us]]
-*[[second person|2]][[plural|pl.]] '''[[ionaibh]]''' &ndash; [[in]] [[you]] ([[plural|pl.]])
-*[[third person|3]][[plural|pl.]][[masculine|m.]] '''[[iontu]]''' &ndash; [[in]] [[them]]
-
-[[Category:Irish prepositions]]
 
 ----
 
