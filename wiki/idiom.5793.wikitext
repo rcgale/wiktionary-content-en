@@ -1,6 +1,7 @@
+{{nolanguage/box}}
+[[Category:Requests for language cleanup May]]
 ===Noun===
 {{en-noun}}
-
 # A [[phrase]] characteristic of a particular language, that cannot necessarily be fully understood from the separate meanings of the individual words which form it, but instead must be learned as a whole unit of meaning.
 #: ''You can't translate "kick the bucket" word for word into French with the same meaning because it's an '''idiom'''.''
 # A [[manner]] of speaking, a way of expressing oneself.
@@ -8,17 +9,14 @@
 # An [[instance]] of such a style.
 # {{linguistics}} A communicative system under study, which could be called either a [[dialect]] or a [[language]], when its status as a language or dialect is irrelevant.
 # {{programming}} A programming technique which experienced programmers in a language are assumed to know.
-#*{{quote-book|2005|Magnus Lie Hetland|Beginning Python: From Novice to Professional|page=100|isbn=159059519X
+#* {{quote-book|2005|Magnus Lie Hetland|Beginning Python: From Novice to Professional|page=100|isbn=159059519X
 |passage=I have to use the same assignment and call to raw_input in two places. How can I avoid that? I can use the <tt>while True/break</tt> '''idiom''': {{...}}}}
-
 ====Synonyms====
 * (''phrase''): [[expression]] (''loosely''), [[form of words]] (''loosely''), [[phrase]] (''loosely'')
-
 ====Derived terms====
 * [[idiomatic]]
 * [[idiomatical]]
 * [[idiomatically]]
-
 ====Translations====
 {{trans-top|phrase that cannot be understood from its component words}}
 * Arabic: {{Arab|[[اصطلاح|اِصْطِلاح]]}} {{IPAchar|(iʂʈalāħ)}} {{m}}, {{Arab|[[مصطلح|مُصْطَلَح]]}} {{IPAchar|(muʂʈálaħ)}} {{m}}
@@ -33,8 +31,8 @@
 * Greek: {{t+|el|ιδίωμα|n|tr=idíoma|sc=Grek}}
 * Hebrew: [[מטבע לשון]] {{g|Hebrew}}
 * Hungarian: {{t|hu|idióma}}
-* [[Interlingua]]: [[idiotismo]]<!--this translates "phrase", "expression" rather than "idiom": [[expression#Interlingua|expression]]-->, [[idioma]]
 {{trans-mid}}
+* [[Interlingua]]: [[idiotismo]]<!--this translates "phrase", "expression" rather than "idiom": [[expression#Interlingua|expression]]-->, [[idioma]]
 * Italian: [[frase idiomatica]] {{f}}, [[locuzione]] {{f}}, [[modo di dire]] {{m}}, [[espressione idiomatica]] {{f}}
 * Japanese: {{t-|ja|熟語|tr=jukugo|sc=Jpan}}, {{t|ja|成句|tr=seiku|sc=Jpan}}
 * Korean: [[숙어]] ([[熟語]], suk-eo)
@@ -47,21 +45,17 @@
 * Thai: {{Thai|[[สำนวน]]}} (sămnuan)
 * Turkish: {{t+|tr|deyim}}
 {{trans-bottom}}
-
 {{trans-top|manner of speaking}}
 {{trans-mid}}
 {{trans-bottom}}
-
 {{trans-top|style of art, etc}}
-{{trans-mid}}
 * Japanese: {{t|ja|様式|tr=yōshiki|sc=Jpan}}
+{{trans-mid}}
 {{trans-bottom}}
-
 {{trans-top|instance of such style}}
 {{trans-mid}}
 {{trans-bottom}}
-
 {{trans-top|specific property of any language}}
-{{trans-mid}}
 * Japanese: {{t+|ja|方言|tr=hōgen|sc=Jpan}}, {{t|ja|訛り|tr=namari|sc=Jpan}}
+{{trans-mid}}
 {{trans-bottom}}
