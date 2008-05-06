@@ -1,11 +1,11 @@
 ==English==
 
 ===Etymology 1===
-Old English ''[[teran]]''
+{{etyl|ang}} {{term|teran|lang=ang}}
 
 ====Pronunciation====
-* (''[[RP]]''): {{enPR|tâ}}, {{IPA|/tɛə/}}, {{SAMPA|/tE@/}}
-* (''US''): {{enPR|târ}}, {{IPA|/tɛɚ/}}, {{SAMPA|/tE@`/}}
+* {{a|RP}} {{enPR|tâ}}, {{IPA|/tɛə/}}, {{SAMPA|/tE@/}}
+* {{a|US}} {{enPR|târ}}, {{IPA|/tɛɚ/}}, {{SAMPA|/tE@`/}}
 * {{audio|en-us-tear-verb.ogg|Audio (US), verb}}
 
 ====Verb====
@@ -13,7 +13,7 @@ Old English ''[[teran]]''
 
 # {{transitive}} To [[rend]] (a solid material) by holding or restraining in two places and pulling apart, whether intentionally or not; to [[destroy]] or [[separate]].
 #: ''He tore his coat on the [[nail]].''
-# {{transitive}} (''followed by'' '''off''' ''or'' '''out''') To remove by tearing.
+# {{transitive|with '''off''' or '''out'''}} To remove by tearing.
 #: '''''Tear''' the coupon out of the newspaper.''
 # {{intransitive}} To become torn, especially accidentally.
 #: ''My dress has torn.''
@@ -21,8 +21,8 @@ Old English ''[[teran]]''
 #: ''He went '''tearing''' down the hill at 90 miles per hour.''
 
 =====Synonyms=====
-* (''break''): [[rend]], [[rip]]
-* (''remove by tearing''): rip out, tear off, tear out
+* {{sense|break}} [[rend]], [[rip]]
+* {{sense|remove by tearing}} rip out, tear off, tear out
 
 =====Related terms=====
 * [[tearaway]]
@@ -57,13 +57,11 @@ Old English ''[[teran]]''
 * Turkish: {{t+|tr|kırmak}}
 {{trans-bottom}}
 
-{{rfc-tsort|duplicate language: Russian}}
 {{trans-top|remove by tearing}}
 * Czech: [[utrhnout]], [[odtrhnout]]
 * French: {{t+|fr|déchirer}}, {{t+|fr|détacher}}
 * German: [[herausreißen]]
 * Korean: [[찢어내다]] (jjijEonaeda)
-* Russian: [[отрывать]]/[[оторвать]] (otryvát'/otorvát')
 {{trans-mid}}
 * Portuguese: {{t+|pt|destacar}}, {{t+|pt|arrancar}}
 * Russian: {{t|ru|отрывать|tr=otryvát'|sc=Cyrl}} {{impf}}, {{t|ru|оторвать|tr=otorvát'|sc=Cyrl}} {{pf}}
@@ -115,15 +113,13 @@ Old English ''[[teran]]''
 ====Derived terms====
 * [[tearsheet]]
 
-{{rfc-level|check placement of Pronunciation}}
-
-===Pronunciation===
-* (''RP''): {{enPR|tî}}, {{IPA|/tɪə/}}, {{SAMPA|/tI@/}}
-* (''US''): {{enPR|tîr}}, {{IPA|/tɪɚ/}}, {{SAMPA|/tI@`/}}
-* {{audio|en-us-tear-noun.ogg|Audio (US), noun}}
-
 ===Etymology 2===
-{{OE.}} {{term|tear|tēar|lang=ang}}
+{{etyl|ang}} {{term|tear|tēar|lang=ang}}
+
+====Pronunciation====
+* {{a|RP}} {{enPR|tî}}, {{IPA|/tɪə/}}, {{SAMPA|/tI@/}}
+* {{a|US}} {{enPR|tîr}}, {{IPA|/tɪɚ/}}, {{SAMPA|/tI@`/}}
+* {{audio|en-us-tear-noun.ogg|Audio (US), noun}}
 
 ====Noun====
 {{wikipedia}}
@@ -143,7 +139,7 @@ Old English ''[[teran]]''
 * [[teary]]
 
 =====Translations=====
-{{top}}
+{{trans-top|drop of clear salty liquid from the eyes}}
 * Albanian: {{t-|sq|lot|f|xs=Albanian}}
 * [[Aromanian]]: {{tø|rup|lacãrmã|f|xs=Aromanian}}
 * Bosnian: {{t-|bs|suza|f}}
@@ -164,7 +160,7 @@ Old English ''[[teran]]''
 * Indonesian: [[air]] [[mata]]
 * Irish: {{t-|ga|deor|m|xs=Irish}}
 * Italian: {{t+|it|lacrima|f}}
-{{mid}}
+{{trans-mid}}
 * Japanese: [[涙]] ([[なみだ]], namida)
 * Korean: [[눈물]] (nunmul)
 * Kurdish: {{KUchar|[[فرمێسک]]}}
@@ -187,17 +183,20 @@ Old English ''[[teran]]''
 * [[Telugu]]: [[కన్నీటి బొట్టు]] (kanneeTi boTTu)
 * Turkish: [[gözyaşı]]
 * Urdu: {{ur-Arab|[[انسو|آنسو]]}} (ānsū)
-{{bottom}}
+{{trans-bottom}}
 
 ====Verb====
 {{en-verb}}
 
-# {{intransitive}} To [[produce]] drops of water (''tears'').
+# {{intransitive}} To [[produce]] tears
 #: ''Her eyes began to '''tear''' in the harsh wind.''
 
 =====Translations=====
+{{trans-top|To produce tears}}
 * French: [[verser]] une [[larme]], [[larmoyer]]
+{{trans-mid}}
 * Korean: [[눈물짓다]] (nunmul-jitda), [[눈물흘리다]] (nunmul-heullida)
+{{trans-bottom}}
 
 [[Category:English ergative verbs]]
 [[Category:English heteronyms]]
