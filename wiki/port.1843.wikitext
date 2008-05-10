@@ -4,27 +4,26 @@
 ===Pronunciation===
 * {{IPA|/pɔ:t/}}, {{SAMPA|/pO:t/}}
 * {{audio|en-us-port.ogg|Audio (US)}}
-
-*: Rhymes: [[Rhymes:English:-ɔː(r)t|-ɔː(r)t]]
+* {{rhymes|ɔː(r)t}}
 
 ===Etymology 1===
-{{OE.}} [[port#Old English|port]], from {{L.}} [[portus]] ‘port, harbor’.
+{{etyl|ang}} {{term|port|lang=ang}}, from {{etyl|la}} {{term|portus||port, harbour}}.
 
 ====Noun====
 {{wikipedia}}
 {{en-noun}}
 
-# A place on the coast at which ships can shelter, or dock to load and unload cargo or passengers.
+# A place on the [[coast]] at which ships can shelter, or dock to load and unload cargo or passengers.
 # A town or city containing such a place.
-# {{nautical}} ''(uncountable)'' The left-hand side of a [[vessel]] when one is facing the front.
+# {{nautical|uncountable}} The left-hand side of a [[vessel]] when one is facing the front.
 
 =====Synonyms=====
-* (''place where ships dock''): [[harbour]], [[haven]]
-* (''town or city containing such a place''): [[harbour city]], [[harbour town]]
-* (''left-hand side of a vessel''): [[larboard]], [[left]]
+* {{sense|place where ships dock}} [[harbour]], [[haven]]
+* {{sense|town or city containing such a place}} [[harbour city]], [[harbour town]]
+* {{sense|left-hand side of a vessel}} [[larboard]], [[left]]
 
 =====Antonyms=====
-* (''right-hand side of a vessel''): [[starboard]]
+* {{sense|right-hand side of a vessel}} [[starboard]]
 
 =====Derived terms=====
 * [[airport]]
@@ -96,7 +95,7 @@
 {{checktrans-bottom}}
 
 ====Adjective====
-{{en-adj-notcomp}}
+{{en-adj|-}}
 
 # {{nautical}} Of or relating to port, the left-hand side of a vessel.
 #: ''on the port side''
@@ -119,21 +118,20 @@
 {{trans-bottom}}
 
 ===Etymology 2===
-From Latin [[porta]] ‘passage, gate’, reinforced in Middle English from Old French [[porte]].
+From {{etyl|la}} {{term|porta||passage, gate}}, reinforced in {{etyl|enm}} from {{etyl|fro}} {{term|porte|lang=fro}}
 
 ====Noun====
 {{en-noun}}
 
-# ''(obsolete except in Scots)'' An entryway, gate, or [[portal]].
+# {{obsolete|except|Scots}} An entryway, gate, or [[portal]].
 # A doorway in the side of a [[ship]], especially for boarding or loading; a [[porthole]].
-# {{curling}} ''(bowls)'' A space between two [[stone]]s wide enough for a delivered stone to pass through
+# {{curling|bowls}} A space between two [[stone]]s wide enough for a delivered stone or bowl to pass through
 # An opening where a connection (such as a pipe) is made.
 # {{computing}} A logical or physical construct in and from which data are transferred.
 # {{computing}} A female connector of an electronic device, into which a cable's male connector can be inserted.
 
 =====Translations=====
-'''entryway, portal'''<br>
-: ''See'' '''[[portal]]'''
+{{trans-see|entryway, portal|[[portal]]}}
 
 {{trans-top|opening in the side of a ship}}
 {{trans-mid}}
@@ -159,13 +157,13 @@ Named from [[w:Oporto|Oporto]], a city in [[Portugal]] from where the wines were
 ====Noun====
 {{en-noun}}
 
-# A type of [[fortified]] wine traditionally made in [[Portugal]].
+# A type of [[fortified wine]] traditionally made in [[Portugal]].
 
 =====Synonyms=====
-* (''type of fortified wine traditionally made in Portugal''): [[porto]]<!--does this exist?-->, [[port wine]]
+* {{sense|fortified wine}} [[porto]]<!--does this exist?-->, [[port wine]]
 
 =====Translations=====
-{{trans-top|type of fortified wine traditionally made in Portugal}}
+{{trans-top|fortified wine}}
 * Dutch: [[porto]], [[port]] {{m}}
 * Estonian: [[portvein]]
 * Finnish: [[portviini]]
@@ -185,10 +183,10 @@ Abbreviation of [[portmanteau]].
 ====Noun====
 {{en-noun}}
 
-# {{AU}} (''colloquial'') A schoolbag or suitcase.
+# {{AU|colloquial}} A schoolbag or suitcase.
 
 ===Etymology 5===
-From Old (and modern) French [[porter]] ''(verb)'', [[port#French|port]] ''(noun)'', from Latin [[portare]] ‘carry’.
+From {{etyl|fro}} (and {{etyl|fr}}) {{term|porter#verb|porter (verb)|lang=fro}}, {{term|port|port (noun)|lang=fr}},  from {{etyl|la}} {{term|portare||carry|lang=la}}.
 
 ====Verb====
 {{en-verb}}
@@ -198,6 +196,9 @@ From Old (and modern) French [[porter]] ''(verb)'', [[port#French|port]] ''(noun
 # To transfer from one state to another.
 # {{computing}} To adapt a program so that it works on a different platform.
 
+=====Derived terms=====
+* {{sense|To carry}} {{term|porter}}
+
 =====Translations=====
 {{trans-top|Military use}}
 {{trans-mid}}
@@ -205,7 +206,6 @@ From Old (and modern) French [[porter]] ''(verb)'', [[port#French|port]] ''(noun
 
 {{trans-top|to transfer from one state to another}}
 * Dutch: [[overdragen]]
-* Finnish: [[siirtää]] (1), [[kantaa]] (2)
 {{trans-mid}}
 * French: [[porter]]
 * Portuguese: [[portar]]
@@ -216,15 +216,16 @@ From Old (and modern) French [[porter]] ''(verb)'', [[port#French|port]] ''(noun
 {{trans-mid}}
 {{trans-bottom}}
 
-=====Derived terms=====
-* [[porter]]
+{{checktrans}}
+* {{ttbc|Finnish}}: [[siirtää]] (1), [[kantaa]] (2)
 
 ====Noun====
 {{en-noun}}
 
 # {{dated}} the way in which a person carries themselves; [[bearing]]
 # something used to carry a thing, especially a frame for [[wick]]s in candle-making
-# {{computing}} The act of adapting a [[program]] so that it works on a different [[platform]] from the one on which it originally worked.
+# {{computing}} The act of adapting a [[program]] so that it works on a different [[platform]] from the one on which it originally worked
+# {{computing}} a program that has been so adapted.
 
 =====Translations=====
 {{trans-top|one’s bearing}}
@@ -241,11 +242,15 @@ From Old (and modern) French [[porter]] ''(verb)'', [[port#French|port]] ''(noun
 * Swedish: [[portering]] {{c}}, [[portning]] {{c}}
 {{trans-bottom}}
 
+{{trans-top|computing: a program that has been so adapted}}
+{{trans-mid}}
+{{trans-bottom}}
+
 ===See also===
-* [[w:port|Wikipedia article on ports (the places where ships dock)]]
-* [[w:port_wine|Wikipedia article on port, the wine]]
-* [[w:port_(computing)|Wikipedia article on ports in computing (for transfer of data)]]
-* [[w:porting|Wikipedia article on ports in computing (between platforms)]]
+* {{pedialite|Port|Port (place where ships dock}}
+* {{pedialite|Port wine}}
+* {{pedialite|Port (computing)|Port (transfer of computer of computer data)}}
+* {{pedialite|Porting|Porting (transfer of computer programs between platforms)}}
 
 [[Category:Wines]]
 
@@ -254,12 +259,12 @@ From Old (and modern) French [[porter]] ''(verb)'', [[port#French|port]] ''(noun
 ==Dutch==
 
 ===Noun===
-'''port''' ''n''
+{{infl|nl|noun|g=n}}
 
 # [[postage]]
 
 ===Noun===
-'''port''' {{m}}
+{{infl|nl|noun|g=m}}
 
 # port, [[port wine]], [[porto]]
 
@@ -273,12 +278,12 @@ From Old (and modern) French [[porter]] ''(verb)'', [[port#French|port]] ''(noun
 * {{SAMPA|/pOR/}}
 
 ===Noun===
-'''port''' {{m}}
+{{infl|fr|noun|g=m}}
 
 # port, [[harbour]]
 # port, harbour city
 # [[refuge]]
-# act of wearing, act of carrying (from the verb [[porter]] (to wear or carry)
+# act of wearing, act of carrying (from the verb [[porter]] (to wear or carry))
 # [[transport]]
 # [[postage]]
 # [[stature]], way of carrying oneself
@@ -299,14 +304,12 @@ From Old (and modern) French [[porter]] ''(verb)'', [[port#French|port]] ''(noun
 ==Old English==
 
 ===Etymology===
-Latin ''[[portus]]''
+{{etyl|la|ang}} {{term|portus|lang=la}}
 
 ===Noun===
-'''port''' ''m'' or ''n''
+{{infl|ang|noun|g=m|g2=n}}
 
 # port
-
-[[Category:Old English nouns]]
 
 ----
 
