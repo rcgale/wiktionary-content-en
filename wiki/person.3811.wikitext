@@ -31,7 +31,7 @@ From {{ME.}} '''persone''' < {{OF.}} '''[[persone]]''' (human being, French [[pe
 
 ====Translations====
 {{trans-top|human being}}
-* [[Afrikaans]]: {{t|af|person}}
+* [[Afrikaans]]: {{t+|af|person|xs=Afrikaans}}
 * [[Ainu]]: [[アイヌ]] ('aynu)
 * Arabic: {{Arab|[[شخص|شَخص]]}} {{IPAchar|(ʃáxʂ)}}
 * [[Basque]]: [[pertsona]]
@@ -39,7 +39,7 @@ From {{ME.}} '''persone''' < {{OF.}} '''[[persone]]''' (human being, French [[pe
 * Bulgarian: {{t+|bg|човек|m|tr=čovek|sc=Cyrl}}
 * [[Catalan]]: [[persona]] {{f}}
 * Chinese: 
-*: Cantonese: {{t|yue|人|tr=jan4}}
+*: Cantonese: {{tø|yue|人|tr=jan4|sc=Hani|xs=Cantonese}}
 *: Mandarin: [[人]] (rén)
 * Croatian: {{t+|hr|osoba|f}}
 * Czech: {{t+|cs|osoba|f}}
@@ -60,7 +60,7 @@ From {{ME.}} '''persone''' < {{OF.}} '''[[persone]]''' (human being, French [[pe
 * [[Interlingua]]: [[persona]]
 * Italian: {{t+|it|persona|f}}
 {{trans-mid}}
-* Japanese: {{t|ja|人|tr=hitó}} ([[ひと]])
+* Japanese: {{t+|ja|人|tr=hitó|sc=Jpan}} ([[ひと]])
 * Korean: [[사람]] (saram)
 * Lao: {{t-|lo|ຄົນ|tr=khon|sc=Laoo|xs=Lao}}
 * Latin: {{t+|la|homo|m}}
@@ -69,7 +69,7 @@ From {{ME.}} '''persone''' < {{OF.}} '''[[persone]]''' (human being, French [[pe
 * Mongolian: [[дэр]] (der)
 * [[Mycenaean]]: [[𐀀𐀵𐀫𐀦]] (a-to-ro-quo = *antrōquos)
 * [[Nahuatl]]: [[tlacatl]]
-* Norwegian: {{t+|no|person}}{{m}}, {{t+|no|menneske}}{{n}}
+* Norwegian: {{t+|no|person|m}}, {{t+|no|menneske|n}}
 * [[Novial]]: [[persone]]
 * Persian: {{fa-Arab|[[شخص|شَخص]]}} (šæxs)
 * Polish: {{t+|pl|osoba|f}}
@@ -82,7 +82,7 @@ From {{ME.}} '''persone''' < {{OF.}} '''[[persone]]''' (human being, French [[pe
 * Spanish: {{t-|es|personaje}}
 * Swedish: {{t+|sv|person|c}}
 * [[Tupinambá]]: [[abá]]
-* Ukrainian: {{t|uk|особа|f|tr=osóba|sc=Cyrl|xs=Ukrainian}}, {{t-|uk|персона|f|tr=persóna|sc=Cyrl|xs=Ukrainian}}, {{t|uk|людина|f|tr=ljudyná|sc=Cyrl|xs=Ukrainian}}, {{t|uk|чоловік|m|tr=čolovík|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t+|uk|особа|f|tr=osóba|sc=Cyrl|xs=Ukrainian}}, {{t-|uk|персона|f|tr=persóna|sc=Cyrl|xs=Ukrainian}}, {{t+|uk|людина|f|tr=ljudyná|sc=Cyrl|xs=Ukrainian}}, {{t+|uk|чоловік|m|tr=čolovík|sc=Cyrl|xs=Ukrainian}}
 * Uzbek: {{t-|uz|одам|sc=Cyrl|xs=Uzbek}}
 * Vietnamese: {{t+|vi|người|xs=Vietnamese}}
 {{trans-bottom}}
@@ -98,27 +98,27 @@ From {{ME.}} '''persone''' < {{OF.}} '''[[persone]]''' (human being, French [[pe
 * Hebrew: [[בן אדם]] (ben ádam) {{m}}, [[בת אדם]] (bat adam){{f}}, [[בת חוה]] (bat χava) {{f}}
 {{trans-mid}}
 * Italian: {{t+|it|persona|f}}
-* Japanese: {{Jpan|[[あの]][[人#Japanese|人]]}} (ano hito), {{t|ja|彼|tr=kare|sc=Jpan}}
+* Japanese: {{Jpan|[[あの]][[人#Japanese|人]]}} (ano hito), {{t+|ja|彼|tr=kare|sc=Jpan}}
 * Kurdish: {{KUchar|[[که‌سێک]]}}
 * Norwegian: {{t+|no|person}}
 * [[Novial]]: [[persone]]
 * Slovene: {{t+|sl|oseba|f}}
 * Swedish: {{t+|sv|person}}
-* Ukrainian: {{t|uk|особа|f|tr=osóba|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t+|uk|особа|f|tr=osóba|sc=Cyrl|xs=Ukrainian}}
 {{trans-bottom}}
 
 {{trans-top|the physical body of a specified individual}}
 * Croatian: {{t-|hr|tijelo|n}}
 * Danish: {{t-|da|legeme|n}}
 * Dutch: {{t+|nl|persoon|m|f}}
-* French: {{t|fr|personne|f}}
+* French: {{t+|fr|personne|f}}
 * Italian: {{t+|it|persona|f}}
 {{trans-mid}}
 * Japanese: {{t|ja|個人|tr=kojin|sc=Jpan}}
 * Norwegian: {{t+|no|person}}
 * [[Novial]]: [[persone]]
 * Slovene: {{t+|sl|oseba|f}}
-* Ukrainian: {{t|uk|особа|f|tr=osóba|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t+|uk|особа|f|tr=osóba|sc=Cyrl|xs=Ukrainian}}
 {{trans-bottom}}
 
 {{trans-top|any individual or formal organization with standing before the courts}}
@@ -127,10 +127,10 @@ From {{ME.}} '''persone''' < {{OF.}} '''[[persone]]''' (human being, French [[pe
 * Danish: {{t+|da|person|c}}
 * Dutch: {{t+|nl|persoon|m|f}}
 * Finnish: {{t+|fi|henkilö}}
-* French: {{t|fr|personne|f}}
+* French: {{t+|fr|personne|f}}
 * Italian: {{t+|it|persona|f}}
 {{trans-mid}}
-* Japanese: {{t|ja|法人|tr=hōjin|sc=Jpan}}
+* Japanese: {{t+|ja|法人|tr=hōjin|sc=Jpan}}
 * Norwegian: {{t+|no|person}}
 * [[Novial]]: [[persone]]
 * Russian: {{t+|ru|лицо|n|tr=licó|sc=Cyrl}}
@@ -147,7 +147,7 @@ From {{ME.}} '''persone''' < {{OF.}} '''[[persone]]''' (human being, French [[pe
 * French: {{t+|fr|personne|f}}
 * Hebrew: {{t+|he|גוף|m|sc=Hebr}}
 * Italian: {{t+|it|persona|f}}
-* Japanese: {{t|ja|人称|tr=ninshō|sc=Jpan}}
+* Japanese: {{t-|ja|人称|tr=ninshō|sc=Jpan}}
 {{trans-mid}}
 * Norwegian: {{t+|no|person}}
 * [[Novial]]: [[persone]]
@@ -157,7 +157,7 @@ From {{ME.}} '''persone''' < {{OF.}} '''[[persone]]''' (human being, French [[pe
 * Slovene: {{t+|sl|oseba|f}}
 * Spanish: {{t+|es|persona|f}}
 * Swedish: {{t+|sv|person}}
-* Ukrainian: {{t|uk|особа|f|tr=osóba|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t+|uk|особа|f|tr=osóba|sc=Cyrl|xs=Ukrainian}}
 {{trans-bottom}}
 
 {{checktrans-top}}
