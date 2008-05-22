@@ -76,7 +76,7 @@
 * Czech: {{t+|cs|hovno|n}}
 * Danish: {{t+|da|lort}}
 * Dutch: {{t+|nl|poep}}, {{t+|nl|stront}}, {{t-|nl|kak}}, {{t+|nl|schijt}}
-* Estonian: {{t+|et|sitt}}, {{t+|et|pask}}
+* Estonian: {{t+|et|sitt}}, {{t-|et|pask}}
 * Finnish: {{t+|fi|paska}}
 * French: {{t+|fr|merde|f}}
 * [[Gamilaraay]]: {{tø|kld|guna|xs=Gamilaraay}}
@@ -87,15 +87,15 @@
 * Hungarian: {{t+|hu|szar}}
 * [[Interlingua]]: {{t-|ia|merda|xs=Interlingua}}
 * Italian: {{t+|it|merda|f}}, {{t+|it|cacca|f}}, {{t+|it|stronzo|m}}
-* Japanese: {{t|ja|糞|tr=[[くそ]], kuso|sc=Jpan}}; {{t|ja|うんこ|tr=unko|sc=Jpan}}; {{t|ja|ふん|tr=fun|sc=Jpan}}; {{t|ja|大便|tr=[[だいべん]], daiben}}
-* Kazakh: {{t|kk|боқ|tr=boq}}
-* Korean: {{t|ko|똥|tr=ddong}}; {{t|ko|대변|tr=daebyeon}}
+* Japanese: {{t+|ja|糞|tr=[[くそ]], kuso|sc=Jpan}}; {{t|ja|うんこ|tr=unko|sc=Jpan}}; {{t-|ja|ふん|tr=fun|sc=Jpan}}; {{t-|ja|大便|tr=[[だいべん]], daiben|sc=Jpan}}
+* Kazakh: {{t|kk|боқ|tr=boq|sc=Cyrl|xs=Kazakh}}
+* Korean: {{t+|ko|똥|tr=ddong|sc=Hang}}; {{t|ko|대변|tr=daebyeon|sc=Hang}}
 {{trans-mid}}
 * Kurdish: {{t+|ku|gû}}
 * Latin: {{t+|la|merda|f}}
 * Latvian: {{t-|lv|kaka|f|xs=Latvian}}, {{t-|lv|sūds|m|xs=Latvian}}
-* Lithuanian: {{t|lt|kakis|m}}, {{t|lt|šūdas|m}}, {{t|lt|kaka|f}}
-* [[Macedonian]]: {{t|mk|измет|m}}, {{t|mk|гомно|n}}, {{t|mk|лајно|n}}, {{t|mk|кака|f}}
+* Lithuanian: {{t-|lt|kakis|m|xs=Lithuanian}}, {{t|lt|šūdas|m|xs=Lithuanian}}, {{t-|lt|kaka|f|xs=Lithuanian}}
+* [[Macedonian]]: {{t-|mk|измет|m|sc=Cyrl|xs=Macedonian}}, {{t|mk|гомно|n|sc=Cyrl|xs=Macedonian}}, {{t|mk|лајно|n|sc=Cyrl|xs=Macedonian}}, {{t-|mk|кака|f|sc=Cyrl|xs=Macedonian}}
 *: For animal faeces: [[гјубре]] {{n}}, [[лепешка]] {{f}}
 * Norwegian: [[dritt]] {{m}}, [[skitt]] {{m}}, avføring {{m}}, bæsj {{m}}
 * [[Pitjantjatjara]]: [[kuna]]
@@ -143,7 +143,7 @@
 {{trans-top|rubbish}}
 * Bosnian: {{t-|bs|sranje|n}}
 * Croatian: {{t-|hr|sranje|n}}
-* Estonian: {{t+|et|pask}}
+* Estonian: {{t-|et|pask}}
 * Finnish: {{t+|fi|paska}}
 * French: {{t+|fr|merde|f}}
 * German: {{t-|de|Scheiss|m}}
@@ -167,7 +167,7 @@
 * Bosnian: {{t-|bs|sranje|n}}
 * Croatian: {{t-|hr|sranje|n}}
 * Dutch: {{t-|nl|gelul|n}}
-* Estonian: {{t+|et|pask}}
+* Estonian: {{t-|et|pask}}
 * Finnish: {{t+|fi|paska}}
 * French: des [[conneries]] {{f|p}}
 * German: {{t-|de|Scheiss|m}}
@@ -189,7 +189,7 @@
 {{trans-top|nasty, despicable person}}
 * Bosnian: {{t-|bs|pogan|m}}
 * Dutch: {{t+|nl|klootzak|m}}
-* Estonian: {{t+|et|pask}}
+* Estonian: {{t-|et|pask}}
 * Finnish: {{t+|fi|paska}}
 * French: {{qualifier|man}} [[salaud]] {{m}}, {{qualifier|woman}} [[salope]] {{f}}
 * German: (''man'') [[Scheißkerl]] {{m}}, [[Drecksack]] {{m}}
@@ -204,18 +204,18 @@
 *: Cyrillic: [[поган#Serbian|поган]] {{m}}
 *: Roman: [[pogan#Serbian|pogan]] {{m}}
 * Spanish: [[mierda]] {{f}}, [[cabrón]] {{m}}, [[malparido]] {{m}}, [[hideputa]]
-* Swedish: [[skit]] {{c}}, [[skitstövel]] {{c}}
+* Swedish: {{t+|sv|skit|c}}, {{t+|sv|skitstövel|c}}
 {{trans-bottom}}
 
 {{trans-top|not anything, nothing}}
 * Dutch: [[geen]] [[reet]]
-* Estonian: {{t+|et|pask}}
+* Estonian: {{t-|et|pask}}
 * Finnish: {{t+|fi|paska}}
 * French: {{t+|fr|rien|m}}
 * Italian: (un) [[cazzo]] {{m}}
 {{trans-mid}}
 * Portuguese: [[merda nenhuma]]
-* Russian: [[ничего]] (nichevó), [[ни хуя]] (ni khujá) {{m}}
+* Russian: {{t+|ru|ничего|tr=nichevó|sc=Cyrl}}, {{t+|ru|ни хуя|m|tr=ni khujá|sc=Cyrl}}
 * Spanish: (una) [[mierda]] {{f}}
 * Swedish: {{t+|sv|skit|c}}
 {{trans-bottom}}
@@ -316,7 +316,7 @@
 * [[Scottish Gaelic]]: [[cac]]
 * Slovene: {{t+|sl|srati}}
 * Spanish: {{t+|es|cagar}}
-* Swedish: [[skita]]
+* Swedish: {{t-|sv|skita}}
 * Urdu: {{ur-Arab|[[هگنا]]}} (hagna)
 {{trans-bottom}}
 
@@ -334,7 +334,7 @@
 * Russian: [[высирать]], [[высрать]] (vysirát’, výsrat’)
 * [[Scottish Gaelic]]: [[cac]]
 * Slovene: {{t+|sl|srati}}
-* Swedish: [[skita]]
+* Swedish: {{t-|sv|skita}}
 {{trans-bottom}}
 
 {{trans-top|vulgar slang: to be stricken with fear}}
