@@ -43,7 +43,7 @@ From {{OE.}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto|Germ
 * [[Afrikaans]]: {{t-|af|een|xs=Afrikaans}}
 * [[Ainu]]: [[シネ]] (shine)
 * [[Aka-Be-ada]]: [[u:batu:l]]
-* [[Akkadian]]: [[ishten]]
+* [[Akkadian]]: ishten {{rfscript|Cuneiform}}
 * Albanian: {{t-|sq|një|xs=Albanian}}
 * [[Alsatian]]: [[eins]]
 * [[American Sign Language]]: [[Image:LSQ 1.jpg|100x25px]]
@@ -54,7 +54,7 @@ From {{OE.}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto|Germ
 *: Hebrew: [[חד]] (khad) {{m}}, [[חדא]] (khdā, khdo) {{f}}
 * [[Arapaho]]: [[jaasaaye]]
 * Armenian: [[մեկ]] (mek)
-*: Classical Armenian: [[me]]
+*: Old Armenian: [[me]] {{rfscript|Armenian}}
 * [[Assamese]]: [[এক]] (eka)
 * [[Asturian]]: [[ún]]
 * [[Avestan]]: [[aeva]]
@@ -100,17 +100,17 @@ From {{OE.}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto|Germ
 * [[Corsican]]: [[unu]]
 * [[Cree]]: [[pâyuk]]
 * [[Crimean Tatar]]: [[bir]]
-* Croatian: {{t+|hr|jedan}}
+* Croatian: {{t+|hr|jedan|alt=jèdan|m}}
 * Czech: {{t+|cs|jeden|m}}
 * Danish: {{t-|da|én}}, {{t-|da|et}}
 * [[Dena'ina]]: [[ts'ełq'i]]
 * [[Drehu]]: [[caas]]
 * Dutch: {{t+|nl|één|f}}, {{t+|nl|een}}
-* [[Egyptian]]: [[w-'-w]]
+* [[Egyptian]]: w-'-w
 * [[Ekegusii]]: [[eyemo]]
 * [[Erzya]]: [[вейке]] (vejke)
 * Esperanto: {{t+|eo|unu|xs=Esperanto}}
-* [[Etruscan]]: [[thu]]
+* [[Etruscan]]: thu {{rfscript|Old Italic}}
 * Estonian: {{t-|et|üks}}
 * Faroese: {{t-|fo|eitt|xs=Faroese}}
 * [[Fijian]]: [[dua]]
@@ -131,7 +131,7 @@ From {{OE.}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto|Germ
 * [[Gilbertese]]: [[teuana]]
 * [[Gothic]]: [[áins]]
 * Greek: {{t+|el|ένας|m|tr=énas|sc=Grek}}
-*: Classical Greek: {{t+|el|εἷς|m|tr=heis|sc=Grek}}
+*: Ancient Greek: {{t+|el|εἷς|m|tr=heis|sc=Grek}}
 *: [[Mycenean Greek]]: [[hemei]]
 * [[Guaraní]]: [[peteï]]
 * [[Gujarati]]: [[એકડો]] (ekaddo) (numeral: [[૧]])
@@ -216,17 +216,15 @@ From {{OE.}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto|Germ
 * [[Occitan]]: [[un]]
 * [[Ojibwe]]: [[bezhig]]
 * [[Ok]]: [[pau]]
-* [[Old Church Slavonic]]: {{Cyrl|[[ѥдинъ]]}} (jedinŭ)
+* [[Old Church Slavonic]]: {{Cyrs|[[ѥдинъ]]}} (jedinŭ)
 * Old English: {{t-|ang|an|alt=ān|xs=Old English}}
-* [[Old Germanic]]: [[ainaz]]
-* [[Old Icelandic]]: [[einn]]
 * [[Old Irish]]: [[óen]]
 * [[Old Norse]]: [[einn]]
 * [[Old Nubian]]: [[ouer-]]
 * [[Old Prussian]]: [[ains]]
 * [[Old Tupi]]: [[oîepé]]
 * [[Oriya]]: [[ଏକ]] (ek) (numeral: [[୧]])
-* [[Oscan]]: [[uinus]]
+* [[Oscan]]: [[uinus]] {{rfscript|Old Italic}}
 * [[Ossetian]]: [[иу]] (iu)
 * [[Pahlavi]]: [[e:vak]]
 * [[Pali]]: [[eka]]
@@ -234,23 +232,9 @@ From {{OE.}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto|Germ
 * [[Pashto]]: {{fa-Arab|[[یو]]}} (numeral:{{fa-Arab|١}})
 * Persian: {{fa-Arab|[[یک|یِک]]}} (yek) (numeral:{{fa-Arab|١}})
 *: [[Old Persian]]: [[aivaka]]
-* [[Phoenician]]: [['-h -d]]
+* [[Phoenician]]: '-h -d {{rfscript|Phoenician}}
 * Polish: {{t+|pl|jeden}}
 * Portuguese: {{t+|pt|um}}
-* [[Prakrit]]: [[ekko]]
-* [[Proto-Algonquian]]: [[nekotwi]]
-* [[Proto-Austronesian]]: [[isa]]
-* [[Proto-Bantu-X]]: [[-mó]]
-* [[Proto-Berber]]: [[yn]]
-* [[Proto-Dravidian]]: [[oru]]
-* [[Proto-Eastern]]: [[a:nu]]
-* [[Proto-Eskimo]]: [[ataRuciR]]
-* [[Proto-Finno-Ugric]]: [[ykte]]
-* [[Proto-Indo-European]]: [[oynos]], [[sem]]
-* [[Proto-Mayan]]: [[xun]]
-* [[Proto-Miwok]]: [[ken.e]]
-* [[Proto-Quechua]]: [[suk]]
-* [[Proto-Uto-Aztecan]]: [[simayv]]
 * [[Provençal]]: [[un]]
 * [[Pugliese]]: [[nu]]
 * [[Punjabi]]: [[ਇੱਕ]] (ika) (numeral: [[੧]])
@@ -265,7 +249,7 @@ From {{OE.}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto|Germ
 * Russian: {{t+|ru|один|tr=odín|sc=Cyrl}}, {{t+|ru|раз|tr=raz|sc=Cyrl}} {{italbrac|when counting}}
 * [[Saami]]: [[okta]]
 * Samoan: [[tasi]] (''var:'' [[asi]])
-* Sanskrit: [[एकं]] (eka)
+* Sanskrit: {{t|sa|sc=Deva|एक|tr=éka}}
 * [[Sardinian]]: [[unu]]
 * [[Scottish Gaelic]]: [[aon]]
 * [[Sepedi]] (Northern Sotho): [[tee]]
@@ -290,8 +274,6 @@ From {{OE.}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto|Germ
 * [[Swabian]]: [[oe]], [[oas]], [[ois]]
 * Swahili: {{t-|sw|moja|xs=Swahili}}
 * Swedish: {{italbrac|abstract counting}}: {{t+|sv|ett}}, {{italbrac|counting objects}}: {{t+|sv|ett|n}}, {{t+|sv|en|c}}
-* [[Syriac]]:
-*: Classical Syriac: [[h.adh]]
 * [[Tagalog]]: [[isa]]
 * Tahitian: {{IPAchar|[[hō'ē]]}}
 * [[Taino]]: [[hekiti]]
@@ -302,16 +284,15 @@ From {{OE.}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto|Germ
 * [[Tatar]]: [[бер]] ([[ber]])
 * [[Telugu]]: [[ఒకటి]] (okatti) (numeral: [[౧]])
 * Tibetan:
-*: Classical Tibetan: [[gtshig]] (numeral: [[༡]])
+*: Classical Tibetan: [[gtshig]] (numeral: [[༡]]) {{rfscript|Tibetan}}
 * Thai: {{Thai|[[หนึ่ง]]}} (nèung) (numeral: {{Thai|[[๑]]}})
-* [[Tocharian]]: [[se]]
 * [[Tok Pisin]]: [[wanpela]]
 * Tongan: [[taha]]
 * [[Tupinambá]]: [[îepé]], [[oîepé]]
 * Turkish: {{t+|tr|bir}}
 * Turkmen: {{t-|tk|бир|tr=bir|sc=Cyrl|xs=Turkmen}}
 * [[Tzutujil]]: [[jun]]
-* [[Umbrian]]: [[uns]]
+* [[Umbrian]]: [[uns]] {{rfscript|Old Italic}}
 * Urdu: {{ur-Arab|[[ایک]]}} (ik)
 * Ukrainian: {{t-|uk|один|tr=odýn|sc=Cyrl|xs=Ukrainian}}
 * Uzbek: {{t-|uz|бир|tr=bir|sc=Cyrl|xs=Uzbek}}
@@ -329,7 +310,7 @@ From {{OE.}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto|Germ
 * [[Western Apache]]: [[dałaá]]
 * [[Witoto]]: [[dáde]]
 * [[Xhosa]]: [[inye]]
-* Yiddish: [[eyns]]
+* Yiddish: [[eyns]] {{rfscript|Hebrew}}
 * [[Yucatec]]: {{qualifier|[[Maya]]}} [[hun]]
 * [[Yuchi]]: {{IPAchar|[[hitʼɛ]]}}
 * [[Zapotec]]: [[to]]
