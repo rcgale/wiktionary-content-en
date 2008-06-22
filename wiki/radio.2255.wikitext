@@ -39,17 +39,17 @@ From {{L.}} {{term|radius||ray|lang=la}}
 * [[Breton]]: '''radio''' {{m}}, [[skingomz]] {{f}}
 * Croatian: {{t-|hr|radio|m}}
 * Finnish: {{t+|fi|radio}}, {{t-|fi|radiotekniikka}}
-* French: '''radio''' {{f}}
+* French: {{l|fr|radio}} {{f}}
 * German: {{t-|de|Funk|m}}
 * Greek: {{t+|el|ραδιόφωνο|n|sc=Grek}} (radiófono), {{t+|el|ράδιο|n|sc=Grek}} (rádio)
-* Italian: '''radio''' {{f}}
+* Italian: {{l|it|radio}} {{f}}
 {{trans-mid}}
 * Japanese: [[ラジオ]] (''rajio'')
 * Korean: [[라디오]] (''radio'')
 * Latvian: {{t-|lv|radio|xs=Latvian}}
 * Polish: {{t+|pl|radio}}
 * Russian: [[радио]] (rádio) {{n}}, [[радиовещание]] (radiov'eš'ánije) {{n}}
-* Spanish: '''radio''' {{f}}
+* Spanish: {{l|es|radio}} {{f}}
 * Swedish: {{t+|sv|radio|c}}
 {{trans-bottom}}
 
@@ -60,23 +60,23 @@ From {{L.}} {{term|radius||ray|lang=la}}
 * [[Catalan]]: [[ràdio]] {{f}}
 * Chinese: [[收音機]], [[收音机]] (shōuyīnjī)
 * Croatian: {{t-|hr|radioprijemnik|m}}, {{t-|hr|radio|m}}
-* Dutch: '''radio''' {{m}}
+* Dutch: {{l|nl|radio}} {{m}}
 * Finnish: {{t+|fi|radio}}, {{t+|fi|radiovastaanotin}}
-* French: '''radio''' {{f}}
+* French: {{l|fr|radio}} {{f}}
 * German: {{t+|de|Radio|n}}
 * Greek: {{t+|el|ραδιόφωνο|n|sc=Grek}} (radiófono), {{t+|el|ράδιο|n|sc=Grek}} (rádio)
 * Hebrew: [[רדיו]] (rádyo)
 {{trans-mid}}
 * Hungarian: {{t+|hu|rádió}}
-* Italian: '''radio''' {{f}}
+* Italian: {{l|it|radio}} {{f}}
 * Japanese: [[無線]] ([[むせん]], musen); [[ラジオ]] (''rajio'')
 * Korean: [[라디오]] (''radio'')
 * Kurdish: {{KUchar|[[ڕادیۆ]]}}
-* Latvian: '''radio''', [[radiouztvērējs]] {{m}}
+* Latvian: {{l|lv|radio}}, [[radiouztvērējs]] {{m}}
 * Polish: {{t+|pl|radio}}, {{t-|pl|radioodbiornik}}
 * Portuguese: {{t+|pt|rádio|m}}
 * Russian: {{t+|ru|радио|n|tr=rádio|sc=Cyrl}}, {{t+|ru|радиоприёмник|m|tr=radioprijómnik|sc=Cyrl}}
-* Spanish: '''radio''' {{f}}
+* Spanish: {{l|es|radio}} {{f}}
 * Swedish: {{t+|sv|radio|c}}, {{t-|sv|radioapparat|c}}
 * [[Tagalog]]: [[radyo]]
 {{trans-bottom}}
@@ -115,7 +115,7 @@ From {{L.}} {{term|radius||ray|lang=la}}
 ===Noun===
 {{bs-noun|g=m|radiji}}
 
-# [[radio]], [[tuner]]
+# [[#English|radio]], [[tuner]]
 
 ----
 
@@ -186,30 +186,28 @@ From {{L.}} {{term|radius||ray|lang=la}}
 * {{audio|Fr-radio.ogg|audio}}
 
 ===Noun===
+{{fr-noun|f|radios}}
 '''radio''' {{f}} (Plural: [[radios]])
 
-# radio, [[tuner]]
+# [[#English|radio]], [[tuner]]
 
 ----
 
 ==Indonesian==
 
 ===Noun===
-'''radio'''
+{{infl|id|noun}}
 
-# radio
-
-[[Category:Indonesian language]]
-[[Category:Indonesian nouns]]
+# [[#English|radio]]
 
 ----
 
 ==Interlingua==
 
 ===Noun===
-'''radio'''
+{{infl|ia|noun}}
 
-# radio
+# [[#English|radio]]
 
 ----
 
@@ -230,7 +228,7 @@ ràdio, /ˈradjo/, /<tt>"radjo</tt>/
 ===Noun===
 {{it-noun|radi|f|o|o}}
 
-# radio
+# [[#English|radio]]
 
 ===Verb===
 '''radio'''
@@ -274,6 +272,35 @@ From {{term|radius||spoke of a wheel|lang=la}}
 
 ====Descendants====
 * English: [[radiate]]
+----
+==Polish==
+
+===Pronunciation===
+* {{IPA|/ˈradjɔ/|lang=pl}}
+* Homophones:
+
+===Noun===
+{{infl|pl|noun|g=n}}
+
+# [[#Englsh|radio]] (a device that can receive the signal sent over radio waves)
+# [[radio station]]
+
+====Declension====
+{{pl-decl-noun
+|radio|radia
+|radia|(radiów)
+|radiu|radiom
+|radio|radia
+|radiem|radiami
+|radiu (radio)|radiach
+|radio|radia
+}}
+
+====Synonyms====
+*(#1) [[radioodbiornik]], odbiornik radiowy
+*(#2) [[rozgłośnia]], [[radiostacja]], stacja radiowa
+
+====Derived terms====
 
 ----
 
@@ -282,7 +309,7 @@ From {{term|radius||spoke of a wheel|lang=la}}
 ===Noun===
 {{sr-noun|g=m|pl=radiji|cyr=радио}}
 
-# [[radio]], [[tuner]]
+# [[#English|radio]], [[tuner]]
 
 ----
 
@@ -293,7 +320,7 @@ From {{term|radius||spoke of a wheel|lang=la}}
 ====Noun====
 {{es-noun-f}}
 
-# radio
+# [[#English|radio]]
 
 ===Etymology 2===
 
@@ -315,9 +342,9 @@ From {{term|radius||spoke of a wheel|lang=la}}
 * {{audio|Sv-radio.ogg|audio}}
 
 ===Noun===
-'''radio''' {{c}}
+{{infl|sv|noun|g=c}}
 
-# radio
+# [[#English|radio]]
 
 [[br:radio]]
 [[de:radio]]
