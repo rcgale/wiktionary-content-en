@@ -87,11 +87,11 @@ see translations at [[Earth#Translations|Earth]].
 * Czech: {{t+|cs|země|f}}, {{t|cs|hlína|f}}
 * Danish: {{t-|da|jord}}
 * Dutch: {{t+|nl|aarde|f}}, {{t+|nl|grond}}
-* Esperanto: {{t|eo|grundo}}
+* Esperanto: {{t|eo|grundo|xs=Esperanto}}
 * Estonian: {{t+|et|maa}}
 * Finnish: {{t-|fi|maaperä}}
 * French: {{t+|fr|terre|f}}
-* German: {{t+|de|Erde|f}}, {{t|de|Land|n}}
+* German: {{t+|de|Erde|f}}, {{t+|de|Land|n}}
 * Greek:
 *: Ancient: {{polytonic|[[γαῖα]]}} (gaia) {{f}}, {{polytonic|[[γῆ]]}} (gē) {{f}}, [[χούς]] (khus) {{f}}
 *: Modern: [[χώμα]] (khoma) {{n}}, [[γη]] (gé) {{f}}
@@ -99,11 +99,11 @@ see translations at [[Earth#Translations|Earth]].
 * Icelandic: {{t+|is|jörð|f}}
 * Italian: {{t+|it|terra|f}}
 * Japanese: [[地]], ([[ち]], chi), [[土]] ([[つち]], tsuchi), [[土壌]] (どじょう, dojō)
-* Korean: {{t-|ko|흙|tr=heuk|sc=Hang}}, {{t|ko|sc=Hang|토양|tr=toyang}}
+* Korean: {{t-|ko|흙|tr=heuk|sc=Hang}}, {{t|ko|토양|tr=toyang|sc=Hang}}
 * Kurdish:
 *: Sorani: {{t|ku|خۆڵ|tr=xoll|sc=KUchar}}
 {{trans-mid}}
-* Latin: {{t|la|terra|f}}
+* Latin: {{t+|la|terra|f}}
 * Latvian: {{t-|lv|zeme|f|xs=Latvian}}
 * Lithuanian: {{t+|lt|žemė|f|xs=Lithuanian}}
 * Malay: {{t+|ms|bumi|xs=Malay}}
@@ -112,7 +112,7 @@ see translations at [[Earth#Translations|Earth]].
 * Norwegian: {{t-|no|jord|m}}
 * Old English: {{t-|ang|hruse|f|alt=hrūse|xs=Old English}}
 * Polish: {{t+|pl|ziemia|f}}
-* Russian: {{t+|ru|земля|f|tr=zemljá|sc=Cyrl}}, {{t|ru|почва|sc=Cyrl|tr=póčva|f}}
+* Russian: {{t+|ru|земля|f|tr=zemljá|sc=Cyrl}}, {{t+|ru|почва|f|tr=póčva|sc=Cyrl}}
 * [[Scots]]: [[yerd]]
 * [[Scottish Gaelic]]: [[talamh]] {{m}}, [[tìr]] {{f}}
 * Serbian: {{t+|sr|земља|f|sc=Cyrl}}, {{t-|sr|zemlja|f}}
@@ -169,9 +169,9 @@ see translations at [[Earth#Translations|Earth]].
 {{trans-top|the ground, land}}
 * Czech: {{t+|cs|země|f}}
 * Danish: {{t-|da|jord}}
-* Esperanto: {{t|eo|tero}}
+* Esperanto: {{t-|eo|tero|xs=Esperanto}}
 * Estonian: {{t+|et|maa}}
-* German: {{t+|de|Grund|m}}, {{t|de|Erde|f}}, {{t|de|Land|n}}, {{t|de|Boden|m}}
+* German: {{t+|de|Grund|m}}, {{t+|de|Erde|f}}, {{t+|de|Land|n}}, {{t+|de|Boden|m}}
 * Greek:
 *: Ancient: {{polytonic|[[γαῖα]]}} (gaia) {{f}}, {{polytonic|[[γῆ]]}} (gē) {{f}}
 *: Modern: [[γη]] {{f}}, [[γαία]] {{f}}
@@ -179,41 +179,41 @@ see translations at [[Earth#Translations|Earth]].
 * Italian: {{t+|it|terra|f}}
 * Japanese: [[地面]] (じめん, jimen)
 {{trans-mid}}
-* Korean: {{t+|ko|땅|tr=ttang|sc=Hang}}, {{t|ko|sc=Hang|대지|tr=daeji}}, {{t|ko|sc=Hang|육지|tr=yukji}}
+* Korean: {{t+|ko|땅|tr=ttang|sc=Hang}}, {{t|ko|대지|tr=daeji|sc=Hang}}, {{t|ko|육지|tr=yukji|sc=Hang}}
 * Kurdish:
 *: Sorani: {{t-|ku|خاک|tr=xak|sc=KUchar}}
-* Latin: {{t|la|terra|f}}, {{t|la|solum|n}}
+* Latin: {{t+|la|terra|f}}, {{t+|la|solum|n}}
 * Malay: {{t-|ms|tanah|xs=Malay}}
-* Russian: {{t+|ru|земля|tr=zemljá|f}}
+* Russian: {{t+|ru|земля|f|tr=zemljá|sc=Cyrl}}
 * [[Scots]]: [[yerd]]
-* Spanish: {{t|es|terreno|m}}, {{t|es|tierra|f}}
+* Spanish: {{t-|es|terreno|m}}, {{t+|es|tierra|f}}
 * Turkish: {{t+|tr|yer}}
 * Urdu: {{t-|ur|زمین|f|sc=ur-Arab|xs=Urdu}}
 * Vietnamese: [[đất]], [[mặt đất]], [[đất liền]]
 {{trans-bottom}}
 
 {{trans-top|electrical connection}}
-* Esperanto: {{t|eo|terkonekto}}
+* Esperanto: {{t|eo|terkonekto|xs=Esperanto}}
 * Estonian: [[maandus]]
-* French: {{t|fr|terre|f}}
+* French: {{t+|fr|terre|f}}
 * German: {{t+|de|Erde|f}}
 * Greek: {{t+|el|γείωση|f|tr=gíosi|sc=Grek}}
 * Italian: {{t+|it|terra|f}}, {{t+|it|massa|f}}
 {{trans-mid}}
 * Japanese: [[接地]] (せっち, secchi), [[アース]] (āsu), [[グランド]] (gurando), [[グラウンド]] (guraundo)
-* Korean: {{t|ko|sc=Hang|어어드|tr=eo-eodeu}}, {{t|ko|sc=Hang|접지선|tr=jeopjiseon}}
+* Korean: {{t|ko|어어드|tr=eo-eodeu|sc=Hang}}, {{t|ko|접지선|tr=jeopjiseon|sc=Hang}}
 * Polish: {{t|pl|uziemienie|n}}
-* Russian: {{t|ru|земля|tr=zemljá|f}}
-* Spanish: {{t|es|tierra|f}}
+* Russian: {{t+|ru|земля|f|tr=zemljá|sc=Cyrl}}
+* Spanish: {{t+|es|tierra|f}}
 {{trans-bottom}}
 
 {{trans-top|fox's lair}}
 * German: [[Erdloch]] {{n}}, [[Erdbau]] {{m}}, [[Bau]] {{m}}
 * Greek: {{t+|el|φωλιά|f|tr=foliá|sc=Grek}}
-* Hungarian: {{t+|hu|lyuk}}, {{t|hu|odú}}
+* Hungarian: {{t+|hu|lyuk}}, {{t-|hu|odú}}
 {{trans-mid}}
 * Italian: {{t+|it|tana|f}}
-* Spanish: {{t|es|madriguera|f}}
+* Spanish: {{t+|es|madriguera|f}}
 {{trans-bottom}}
 
 {{trans-top|one of the four basic elements}}
@@ -357,7 +357,7 @@ see translations at [[Earth#Translations|Earth]].
 {{trans-top|connect electrically to the earth}}
 * Danish: [[jordforbinde]], [[jorde]]
 * Dutch: {{t+|nl|aarden}}
-* Esperanto: {{t|eo|terkonekti}}
+* Esperanto: {{t|eo|terkonekti|xs=Esperanto}}
 * Estonian: [[maandama]]
 * Finnish: {{t-|fi|maattaa}}, {{t-|fi|maadoittaa}}
 * German: {{t-|de|erden}}
@@ -367,7 +367,7 @@ see translations at [[Earth#Translations|Earth]].
 * Japanese: [[接地する]] (せっちする, secchisuru), [[アースする]] (āsusuru), [[グランドする]] (gurandosuru)
 * Lithuanian: [[įžeminti]]
 * Polish: {{t|pl|uziemić}}
-* Russian: {{t|ru|заземлять|tr=zazemlját’}}
+* Russian: {{t|ru|заземлять|tr=zazemlját’|sc=Cyrl}}
 * Spanish: [[conectar]] a [[tierra]]
 * Swedish: {{t-|sv|jorda}}
 * Vietnamese: [[đặt]] [[dây]] [[đất]], [[nối]] [[với]] [[đất]]
@@ -382,7 +382,7 @@ see translations at [[Earth#Translations|Earth]].
 {{trans-mid}}
 * Italian: [[interrare]]
 * Polish: [[zakopać]]
-* Russian: {{t|ru|хоронить}}
+* Russian: {{t|ru|хоронить|sc=Cyrl}}
 * Vietnamese: [[vun]], [[lấp]] [[đất]]
 {{trans-bottom}}
 
