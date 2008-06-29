@@ -47,7 +47,7 @@
 * Bosnian: {{t-|bs|kiša|f}}
 * [[Catalan]]: [[pluja]] {{f}}
 * Chinese: [[雨]] (yǔ)
-* Croatian: {{t-|hr|kiša|alt=kȉša|f}}, {{t|hr|dažd|alt=dȁžd|m}}
+* Croatian: {{t-|hr|kiša|f|alt=kȉša}}, {{t-|hr|dažd|m|alt=dȁžd}}
 * Czech: {{t+|cs|déšť|m}}
 * Danish: {{t-|da|regn}}
 * Dutch: {{t+|nl|regen|m}}
@@ -67,7 +67,7 @@
 * Japanese: {{Jpan|[[雨]]}} ({{Jpan|[[あめ]]}}, ame)
 * Korean: [[비]] (bi)
 {{trans-mid}}
-* Kurdish: {{t+|ku|baran}}, {{t+|ku|باران|sc=KUchar}}
+* Kurdish: {{t+|ku|baran}}, {{t-|ku|باران|sc=KUchar}}
 * Latin: {{t-|la|pluvia|f}}
 * Latvian: {{t-|lv|lietus|m|xs=Latvian}}
 * Lithuanian: {{t+|lt|lietus|m|xs=Lithuanian}}
@@ -81,7 +81,7 @@
 * Portuguese: {{t+|pt|chuva|f}}
 * Romanian: {{t+|ro|ploaie|f}}
 * Russian: [[дождь]] (dožd’) {{m}}
-* Sanskrit: {{t-|sa|वृष्टि|f|tr=vṛṣṭí|sc=Deva|xs=Sanskrit}}, {{t-|sa|वर्षा|f|tr=varṣā́|sc=Deva|xs=Sanskrit}}, {{t|sa|sc=Deva|पर्जन्य|tr=parjánya|m}}
+* Sanskrit: {{t-|sa|वृष्टि|f|tr=vṛṣṭí|sc=Deva|xs=Sanskrit}}, {{t-|sa|वर्षा|f|tr=varṣā́|sc=Deva|xs=Sanskrit}}, {{t|sa|पर्जन्य|m|tr=parjánya|sc=Deva|xs=Sanskrit}}
 * Serbian: {{t-|sr|kiša|f}}
 * [[Sinhala]]: [[වැස්ස]] (vaessa)
 * Slovak: [[dážď]] {{m}}
@@ -106,8 +106,8 @@
 * Norwegian: {{t-|no|regn|n}}
 * Russian: [[дождь]] (dožd’) {{m}}
 * Serbian:
-*: Cyrillic: {{t|sr|киша|f}}
-*: Roman: {{t|sr|kiša|f}}
+*: Cyrillic: {{t+|sr|киша|f|sc=Cyrl}}
+*: Roman: {{t-|sr|kiša|f}}
 {{trans-bottom}}
 
 {{trans-top|an instance of particles falling}}
