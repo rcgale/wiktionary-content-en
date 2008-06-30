@@ -1,13 +1,25 @@
+==Faroese==
+
+===Etymology===
+From {{etyl|non|fo}} {{term|tveir|lang=non}}.
+
+===Numeral===
+{{infl|fo|numeral}}
+
+# {{cardinal|lang=fo}} [[two]]
+
+----
+
 ==Icelandic==
 {{Is-Numeral(tveir)|}}
 
 ===Etymology===
-Old Norse ''[[tvær]]''
+From {{etyl|non|is}} {{term|tveir|lang=non}}.
 
 ===Numeral===
-'''tveir''' {{m|p}}, '''[[tvær#Icelandic|tvær]]''' {{f|p}}, '''[[tvö#Icelandic|tvö]]''' {{n|p}}
+{{infl|is|numeral}}
 
-# '''[[two]]'''; the cardinal number after [[einn#Icelandic|einn]] and before [[þrír#Icelandic|þrír]].
+# [[two]]; the cardinal number after [[einn#Icelandic|einn]] and before [[þrír#Icelandic|þrír]].
 
 ====Related terms====
 * (''ordinal form'') [[annar]] {{m}}, [[önnur]] {{f}}, [[annað]] {{n}}
@@ -20,6 +32,59 @@ Old Norse ''[[tvær]]''
 * [[tvistur]] {{pos n}}
 
 [[Category:Icelandic cardinal numbers]]
+
+----
+
+==Old Norse==
+
+===Etymology===
+From {{proto|Germanic|twai|lang=non}}, whence also Old English {{term|twa|twā|lang=ang}} (English {{term|two}}), Old Frisian {{term|twa|twā|lang=ofs}}, Old Saxon {{term|twa#Old Saxon|twā}}, {{term|two#Old Saxon|twō}}, Dutch {{term|twee}}, German {{term|zwei}}, Gothic {{term|𐍄𐍅𐌰𐌹|tr=twai|sc=Goth}}. Compare also Old English {{term|twegen|twēġen}} (English {{term|twain}}), Old Saxon {{term|twene|twēne}}, Old High German {{term|zwene|zwēne|lang=goh}} (German {{term|zween}}). Ultimately from {{proto|Indo-European|dwó|lang=non}}, whence also Latin {{term|duo|lang=la}}, Ancient Greek {{term|δύο|tr=dúo|lang=grc|sc=polytonic}}.
+
+===Numeral===
+{{infl|non|numeral}}
+
+# {{cardinal|lang=non}} [[two]]
+
+====Inflection====
+{| id=toc style="margin-left: 15px;"
+|- style="text-align:center;"
+|rowspan="2"|
+|bgcolor="#eeeeee" colspan="3"| Plural
+|- style="text-align:center;"
+|bgcolor="#dedeee"| Masculine
+|bgcolor="#eedede"| Feminine
+|bgcolor="#deeede"| Neuter
+|- style="text-align:center;"
+| Nominative
+|bgcolor="#efefff"| '''tveir'''
+|bgcolor="#ffefef"| [[tvær]]
+|bgcolor="#efffef"| [[tvau]]
+|- style="text-align:center;"
+| Accusative
+|bgcolor="#efefff"| [[tvá]]
+|bgcolor="#ffefef"| [[tvær]]
+|bgcolor="#efffef"| [[tvau]]
+|- style="text-align:center;"
+| Dative
+|bgcolor="#efefff"| [[tveimr]] / [[tveim]]
+|bgcolor="#ffefef"| [[tveimr]] / [[tveim]]
+|bgcolor="#efffef"| [[tveimr]] / [[tveim]]
+|- style="text-align:center;"
+| Genitive
+|bgcolor="#efefff"| [[tveggja]]
+|bgcolor="#ffefef"| [[tveggja]]
+|bgcolor="#efffef"| [[tveggja]]
+|}
+
+====Descendants====
+{{top2}}
+* Danish: [[to#Danish|to]]
+* Faroese: [[#Faroese|tveir]]
+* Icelandic: [[#Icelandic|tveir]]
+{{mid2}}
+* Norwegian (nynorsk): [[to#Norwegian|to]], [[tvei]] (''archaic'')
+* Swedish: [[två]]
+{{bottom}}
 
 [[de:tveir]]
 [[es:tveir]]
