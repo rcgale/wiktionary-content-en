@@ -187,7 +187,21 @@ From {{proto|Indo-European|h₃ost-|bone|lang=la}}.
 # {{inflection of|os#Latin|os|acc|s}}
 
 =====Inflection=====
-{{la-decl-3rd-INEUT|os|oss}}
+{{Latin-decl
+| nom-sg = [[os#Latin|os]]
+| gen-sg = [[ossis#Latin|ossis]]
+| dat-sg = [[ossi#Latin|ossī]]
+| acc-sg = [[os#Latin|os]]
+| abl-sg = [[osse#Latin|osse]]
+| voc-sg = [[os#Latin|os]]
+
+| nom-pl = [[ossa#Latin|ossa]]
+| gen-pl = [[ossium#Latin|ossium]]
+| dat-pl = [[ossibus#Latin|ossibus]]
+| acc-pl = [[ossa#Latin|ossa]]
+| abl-pl = [[ossibus#Latin|ossibus]]
+| voc-pl = [[ossa#Latin|ossa]]
+}}
 
 =====Derived terms=====
 * [[ossa legere]] (to [[gather]] up the [[bone]]s that remain after burning a corpse)
