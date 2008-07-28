@@ -5,7 +5,7 @@
 {{rank|-|the|of|3|and|to|in|I}}
 
 ===Etymology===
-From {{ME.}} < {{OE.}} {{term|and|lang=ang}}, {{term|ond|lang=ang||thereupon, next}} < {{PG.}} *{{term||unda}} < {{PIE.}} *{{term||anti|facing opposite, near, in front of, before}}.
+From {{etyl|enm|en}} < {{etyl|ang|en}} {{term|and|lang=ang}}, {{term|ond|lang=ang||thereupon, next}} < {{proto|Germanic|unda|lang=en}} < {{proto|Indo-European|h₂énti|facing opposite, near, in front of, before}}.
 
 ===Pronunciation===
 * {{qualifier|stressed}} {{enPR|ănd}} {{IPA|/ænd/}}, {{SAMPA|/{nd/}}
@@ -258,7 +258,7 @@ It is however poor style to separate short statements into separate sentences wh
 ==Danish==
 
 ===Noun===
-'''and'''
+{{infl|da|noun}}
 
 # [[duck]]
 
@@ -267,14 +267,12 @@ It is however poor style to separate short statements into separate sentences wh
 ==Estonian==
 
 ===Etymology===
-From the same Finno-Ugric root *{{term||amta}} as Finnish {{term|antaa}} and Hungarian {{term|ad#Hungarian|ad}}
+From {{proto|Finno-Ugric|amta|lang=et}}.  Cognates include Finnish {{term|antaa|lang=fi}} and Hungarian {{term|ad|lang=hu}}.
 
 ===Noun===
-'''and'''
+{{infl|et|noun}}
 
 # [[gift]]
-
-[[Category:Estonian nouns]]
 
 ----
 
@@ -290,12 +288,12 @@ From the same Finno-Ugric root *{{term||amta}} as Finnish {{term|antaa}} and Hun
 ==Old English==
 
 ===Etymology===
-Common Germanic *{{term||andi}}
-
+{{proto|Germanic|andi|lang=ang}}
+{{attention|ang|Could the etymology for this and and#English be correlated?}}
 ===Conjunction===
 {{infl|ang|conjunction}}
 
-# [[and]]
+# [[and#English|and]]
 
 ===Preposition===
 {{infl|ang|preposition}}
@@ -312,14 +310,12 @@ Common Germanic *{{term||andi}}
 
 ===Noun===
 {{sv-noun-reg-r-c|2=ande|3=ände}}
-'''and''' {{c}}
+{{infl|sv|noun|g=c}}
 
 # a wild [[duck]]
 
 ====See also====
 * [[anka]] (''domesticated duck'')
-
-[[Category:Swedish nouns]]
 
 [[af:and]]
 [[ar:and]]
