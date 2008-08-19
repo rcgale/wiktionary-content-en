@@ -23,32 +23,40 @@
 #: ''My uncle '''writes''' newspaper articles for The Herald.''
 # {{context|transitive|US}} To send a letter to.
 #: ''Please '''write''' me when you get there.''
-# {{transitive}} Show facts, to make things clear.
+# {{transitive}} To show (information, etc) in written form.
 #: ''The due day of the homework is '''written''' in the syllabus.''
 # {{intransitive}} To be an author.
 #: ''I '''write''' for a living.''
-# {{context|intransitive|computing}} record data by a machine, especially for spindols.
-#: ''The '''write''' speed of the disk is usually lower than the read speed.''
+# {{context|transitive|computing}} To record (data) mechanically or electronicaly.
+<!--this does not illustrate the verb:
+#: ''The '''write''' speed of the disk is usually lower than the read speed.''-->
+#: ''The computer writes to the disk faster than it reads from it.''
 
 ====Synonyms====
-* {{sense|send a letter to}} [[write to]] (''British'')
-* {{sense|form letters, words or symbols in order to communicate}} [[inscribe]], [[scribble]], [[post]] (write on the net)
+* {{sense|form letters, words or symbols in order to communicate}} [[inscribe]], [[scrawl]] [[scribble]] {{italbrac|indistinctly}}, [[scribble]] {{italbrac|quickly or imprecisely}}<!--[[post]] (write on the net) : this is in the wrong place-->
+* {{sense|be the author of}} [[author]], [[pen]]
+* {{sense|send a letter to}} [[write to]] {{a|UK}}
+* {{sense|show (information, etc) in written form}}: [[display]], [[indicate]], [[mark]], [[show]]
+* {{sense|computing: store (data)}} [[save]], [[store]]
+
+====Antonyms====
+* {{sense|computing: store (data)}} [[load]], [[read]], [[retrieve]]
 
 ====Derived terms====
 {{top3}}
 * [[overwrite]]
 * [[rewrite]]
 * [[underwrite]]
-* [[write-in]]
+<!--derived from "write in": * [[write-in]]-->
 {{mid3}}
 * [[write in]]
-* [[write-off]]<!--noun-->
+<!--noun derived from "write off" * [[write-off]]-->
 * [[write off]]<!--verb-->
 * [[write out]]
 {{mid3}}
 * [[writer]]
 * [[write up]]<!--verb-->
-* [[write-up]]<!--noun-->
+<!--noun derived from "write up" * [[write-up]]-->
 * [[writing]]
 {{bottom}}
 
@@ -169,28 +177,6 @@
 * Yiddish: {{t|yi|שרײַבן|tr=shraybn}}
 {{trans-bottom}}
 
-{{trans-top|to be the author of}}
-* Arabic: {{Arab|[[كتب|كَتَبَ]]}} (kátaba)
-* Czech: {{t-|cs|psát}}
-* Danish: [[skrive]], [[digte]], [[forfatte]] (''usually not used'')
-* Dutch: {{t+|nl|schrijven}}
-* Esperanto: {{t-|eo|verki|xs=Esperanto}}
-* Estonian: {{t-|et|kirjutama}}
-* [[Ewe]]: [[ŋlɔ]]
-* Finnish: {{t+|fi|kirjoittaa}}
-* French: {{t+|fr|écrire}}, {{t+|fr|rédiger}}
-{{trans-mid}}
-* German: {{t|de|schreiben}}, {{t|de|verfassen}}, {{t|de|texten}}, {{t|de|dichten}}
-* Hebrew: {{t|he|לכתוב|tr=lihtov|sc=Hebr}}, {{t|he|לחבר|tr=lehaber|sc=Hebr}}
-* Icelandic: {{t+|is|rithöfundur}}
-* Irish: {{t-|ga|scríobh|xs=Irish}}
-* Japanese: {{t|ja|書く|tr=[[かく]], kaku|sc=Jpan}}
-* Norwegian: {{t+|no|skrive}}
-* Portuguese: {{t+|pt|escrever}}
-* Russian: {{t|ru|писать|tr=pisát’}}
-* Swedish: {{t+|sv|skriva}}
-{{trans-bottom}}
-
 {{trans-top|to send a letter to}}
 * Arabic: {{Arab|[[كتب|كَتَبَ]]}} (kátaba)
 * Czech: {{t-|cs|napsat}}
@@ -215,7 +201,29 @@
 * Swedish: [[skriva]] ([[till]])
 {{trans-bottom}}
 
-{{trans-top|to show facts}}
+{{trans-top|to be the author of}}
+* Arabic: {{Arab|[[كتب|كَتَبَ]]}} (kátaba)
+* Czech: {{t-|cs|psát}}
+* Danish: [[skrive]], [[digte]], [[forfatte]] (''usually not used'')
+* Dutch: {{t+|nl|schrijven}}
+* Esperanto: {{t-|eo|verki|xs=Esperanto}}
+* Estonian: {{t-|et|kirjutama}}
+* [[Ewe]]: [[ŋlɔ]]
+* Finnish: {{t+|fi|kirjoittaa}}
+* French: {{t+|fr|écrire}}, {{t+|fr|rédiger}}
+{{trans-mid}}
+* German: {{t|de|schreiben}}, {{t|de|verfassen}}, {{t|de|texten}}, {{t|de|dichten}}
+* Hebrew: {{t|he|לכתוב|tr=lihtov|sc=Hebr}}, {{t|he|לחבר|tr=lehaber|sc=Hebr}}
+* Icelandic: {{t+|is|rithöfundur}}
+* Irish: {{t-|ga|scríobh|xs=Irish}}
+* Japanese: {{t|ja|書く|tr=[[かく]], kaku|sc=Jpan}}
+* Norwegian: {{t+|no|skrive}}
+* Portuguese: {{t+|pt|escrever}}
+* Russian: {{t|ru|писать|tr=pisát’}}
+* Swedish: {{t+|sv|skriva}}
+{{trans-bottom}}
+
+{{trans-top|to show (information)}}
 * Finnish: {{t+|fi|kirjoittaa}}
 {{trans-mid}}
 * Japanese: [[書く]] ([[かく]], kaku), [[示す]] (shimesu)
@@ -241,7 +249,7 @@
 * {{trreq|Welsh}}
 {{trans-bottom}}
 
-{{trans-top|to record data}}
+{{trans-top|record (data)}}
 * Czech: {{t-|cs|zapisovat}}
 * Finnish: {{t+|fi|kirjoittaa}}
 * Icelandic: {{t+|is|skrifa|alt=skrifa ~ hér sér}}
