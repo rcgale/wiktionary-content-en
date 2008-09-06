@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{AGr.}} '''{{polytonic|[[διάλεκτος]]}}''' (dialektos) "conversation, the language of a country or a place or a nation, the local [[idiom]] which derives from a dominant language", from '''{{polytonic|[[διαλέγομαι]]}}''' (dialegomai) "I participate in a [[dialogue]]", from '''{{polytonic|[[διά]]}}''' (dia) "inter, through" + '''{{polytonic|[[λέγω]]}}''' (legō) "I speak".
+From {{etyl|grc}} {{term|διάλεκτος|tr=diálektos||conversation, the language of a country or a place or a nation, the local [[idiom]] which derives from a dominant language|sc=polytonic}}, from {{term|διαλέγομαι|tr=dialégomai||I participate in a [[dialogue]]|sc=polytonic}}, from {{term|διά|tr=diá||inter, through|sc=polytonic}} + {{term|λέγω|tr=légō||I speak|sc=polytonic}}.
 
 ===Noun===
 {{en-noun}}
@@ -11,7 +11,7 @@ From {{AGr.}} '''{{polytonic|[[διάλεκτος]]}}''' (dialektos) "conversati
 #: ''A language is a '''dialect''' with an army and a navy.''
 
 ====Usage notes====
-* The difference between a language and a dialect is not always clear, but it is generally considered that people who speak different dialects can understand each other, while people who speak different languages cannot.  Compare '''[[species]]''' in the biological sense.
+* The difference between a language and a dialect is not always clear, but it is generally considered that people who speak different dialects can understand each other, while people who speak different languages cannot. Compare '''[[species]]''' in the biological sense.
 
 ====Derived terms====
 * [[dialectal]]
@@ -31,29 +31,32 @@ From {{AGr.}} '''{{polytonic|[[διάλεκτος]]}}''' (dialektos) "conversati
 
 ====Translations====
 {{trans-top|variety of a language}}
-* Bulgarian: [[диалект]] {{m}}
-* [[Catalan]]: [[dialecte]] {{m}}
+* Bulgarian: {{t|bg|диалект|tr=dialekt|m}}
+* [[Catalan]]: {{t|ca|dialecte|m}}
 * Chinese: [[方言]] (fāng yán)
-* Czech: [[nářečí]] {{n}}
-* Dutch: dialect {{n}}
-* Finnish: [[murre]], [[aluemurre]]
-* French: [[dialecte]] {{m}}
-* German: [[Dialekt]] {{m}}
-* Greek: [[διάλεκτος]] (ðiálektos) {{f}}
-* Hebrew: [[ניב]] (niv) {{m}}
-* Hungarian: [[nyelvjárás]]
+* Czech: {{t|cs|nářečí|n}}
+* Danish: {{t|da|dialekt|c}}
+* Dutch: {{t|nl|dialect|n}}
+* Finnish: {{t|fi|murre}}, {{t|fi|aluemurre}}
+* French: {{t|fr|dialecte|m}}
+* German: {{t|de|Dialekt|m}}
+* Greek: {{t|el|διάλεκτος|tr=diálektos|f}}
+* Hebrew: {{t|he|ניב|tr=niv|m}}
+* Hungarian: {{t|hu|nyelvjárás}}
+* Icelandic: {{t|is|mállýska|f}}
 {{trans-mid}}
-* Indonesian: [[dialek]]
-* Italian: [[dialetto]] {{m}}
-* Japanese: [[方言]] (ほうげん, hōgen)
-* Korean: [[사투리]] (saturi)
-* Latin: [[dialectos]] {{f}}
-* Persian: {{fa-Arab|[[لحجه]]}}
-* Portuguese: [[dialeto]] ''(Brazil)'', [[dialecto]] ''(Portugal)''
-* Russian: [[диалект]] (dialékt) {{m}}
-* Slovak: [[nárečie]] {{n}}
-* Spanish: [[dialecto]] {{m}}
-* Swedish: [[dialekt]] {{c}}
+* Indonesian: {{t|id|dialek}}
+* Italian: {{t|it|dialetto|m}}
+* Japanese: {{t|ja|方言|tr=[[ほうげん]], hōgen}}
+* Korean: {{t|ko|사투리|tr=saturi}}
+* Latin: {{t|la|dialectos|f}}, {{t|la|dialectus|f}}
+* Norwegian: {{t|no|dialekt|m}}
+* Persian: {{t|fa|لحجه}}
+* Portuguese: {{t|pt|dialeto|m}} ''(Brazil)'', {{t|pt|dialecto|m}} ''(Portugal)''
+* Russian: {{t|ru|диалект|tr=dialékt|m}}
+* Slovak: {{t|sk|nárečie|n}}
+* Spanish: {{t|es|dialecto|m}}
+* Swedish: {{t|sv|dialekt|c}}
 {{trans-bottom}}
 
 ----
@@ -61,9 +64,9 @@ From {{AGr.}} '''{{polytonic|[[διάλεκτος]]}}''' (dialektos) "conversati
 ==Dutch==
 
 ===Noun===
-'''dialect''' {{n}}
+{{infl|nl|noun|g=n}}
 
-# dialect
+# [[#English|dialect]]
 # [[slang]]
 
 [[de:dialect]]
