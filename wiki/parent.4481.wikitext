@@ -1,119 +1,154 @@
 ==English==
+{{wikipedia}}
 
 ===Etymology===
-From {{OF.}} ''[[#French|parent]]'', from {{L.}} ''[[parens|parēns]]'' "parent".
+From {{etyl|fro}} {{term|parent|lang=fro}}, from {{etyl|la}} {{term|parens|parēns|parent|lang=la}}.
 
 ===Pronunciation===
+* {{IPA|/ˈpærənt/}}, {{SAMPA|/"per@nt/}}
 * {{audio|en-us-parent.ogg|Audio (US)}}
-* {{IPA|/ˈpærənt/}}
-* {{SAMPA|/"per@nt/}}
 
 ===Noun===
-{{wikipedia}}
 {{en-noun}}
 
-# One of the two [[person]]s from whom one is immediately biologically [[descend]]ed; a [[mother]] or [[father]].
+# One of the two [[person]]s from whom one is immediately [[biological]]ly [[descend]]ed; a [[mother]] or [[father]].
 # A person who [[act]]s as a parent in [[rear]]ing a [[child]]. (''adoptive parent'', ''foster parent'')
-# {{biology}} An [[organism]] from which a plant or animal is immediately [[biologically]] descended.
+# {{biology}} An [[organism]] from which a plant or animal is immediately biologically descended.
 # The [[source]] or [[origin]] of something.
-# A [[group]] from which another group is [[formed]], or which completely controls a subordinate group. (''parent company'')
-# In object oriented computer programming, the object from which a child or derived object is descended  The child object inherits methods and data fields from the parent.
+# A [[group]] from which another group is [[formed]], or which completely controls a [[subordinate]] group. (''parent company'')
+# {{context|computing|object oriented computer programming}} The object from which a [[child]] or [[derived]] object is descended.
+
+{{rfex}}
 
 ====Quotations====
 ;person from whom one is descended
 {{timeline|
 1500s=1591|
 1600s=1611}}
-* '''1591''' — [[w:William Shakespeare|William Shakespeare]], ''[[s:The_Tragedy_of_Romeo_and_Juliet|Romeo and Juliet]] i Prologue''
-*: From forth the fatal loins of these two foes / A pair of star-cross'd lovers take their life;<br/>Whose misadventured piteous overthrows / Doth with their death bury their '''parents'''' strife.
-* '''1611''' — [[w:William Shakespeare|William Shakespeare]], ''[[s:The_Tempest|The Tempest]] i 2''
-*: I thus neglecting worldly ends, all dedicated to closeness and the bettering of my mind with that, which, but by being so retir'd, O'er-priz'd all popular rate, in my false brother awak'd an evil nature; and my trust, like a good '''parent''', did beget of him a falsehood.
-* '''1611''' — [[w:King James Version of the Bible|King James Version of the Bible]], ''[[s:Bible, King James, John|John]] 9:19-20''
+* {{RQ:Shakespeare Romeo}} i Prologue
+*: From forth the fatal loins of these two foes / A pair of star-cross’d lovers take their life;<br/>Whose misadventured piteous overthrows / Doth with their death bury their '''parents'''’ strife.
+* {{RQ:Shakespeare Tempest}} i 2
+*: I thus neglecting worldly ends, all dedicated to closeness and the bettering of my mind with that, which, but by being so retir’d, O’er-priz’d all popular rate, in my false brother awak’d an evil nature; and my trust, like a good '''parent''', did beget of him a falsehood.
+* {{RQ:Authorized Version|John|9|19–20}}
 *: And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see? His '''parents''' answered them and said, We know that this is our son, and that he was born blind:
 
 ;source or origin
 {{timeline|
 1600s=1608}}
-* '''1608''' — [[w:William Shakespeare|William Shakespeare]], ''[[s:Pericles, Prince of Tyre|Pericles]] ii 3''
-*: Whereby I see that Time's the king of men, He's both their '''parent''', and he is their grave.
+* {{RQ:Shakespeare Pericles}} ii 3
+*: Whereby I see that Time’s the king of men, He’s both their '''parent''', and he is their grave.
 
 ====Synonyms====
-* (''person who whom one is descended''): [[father]], [[mother]], [[progenitor]]
+* {{sense|person from whom one is descended}} [[father]], [[mother]], [[progenitor]]
+* {{sense|computing: object from which a child is descended}} [[mother]]
 
 ====Antonyms====
-* (''person who whom one is descended''): [[child]], [[offspring]]
+* {{sense|person from whom one is descended}} [[child]], [[offspring]]
+* {{sense|computing: object from which a child is descended}} [[child]]
+
+====Derived terms====
+* [[parentage]]
+* [[parental]]
+* [[parenthood]]
+* [[parent company]]
 
 ====Translations====
-{{top}}
-* [[Afrikaans]]: [[ouer]]
-* Armenian: [[ծնող]] (tsnogh)
-* [[Breton]]: [[tud]] {{p}}, [[kerent]] {{p}} (only plural, otherwise use [[father]] or [[mother]])
-* Bulgarian: [[родител]] (roditel) {{m}} (1)
-* [[Catalan]]: [[pare]] {{m}}, [[mare]] {{f}} (''[[parents]]'' in plural: [[pares]] {{m}})
-* Czech: [[rodič]] {{m}}
-* Dutch: [[ouder]] {{m}}
-* Esperanto: [[patro]] {{m}}, [[patrino]] {{f}}
-* Finnish: [[vanhempi]]
-* French: [[#French|parent]] {{m}}
-* German: [[Elternteil]] {{m}}
-* Hebrew: [[הורה]] (hore) {{m}}, [[הורה]] (hora) {{f}}, ''plural:'' [[הורים]] (horim) {{m}} or {{m|f}}, [[הורות]] (horot) {{f}}
-* [[Ido]]: [[genitoro]]
-* Icelandic: [[foreldrar]] {{p}}
-* Indonesian: [[orangtua]]
-* [[Interlingua]]: [[parente]], [[genitor]]
-{{mid}}
-* Italian: [[genitore]]
-* Japanese: [[親]] (おや, oya)
-* Korean: [[어버이]] (eobeo-i), [[부모]] (bumo)
-* Malay: [[orang tua]]
-* Latin: [[parens|parēns]] {{m|f}}
-* Polish: [[rodzic]] {{m}}
-* Portuguese: [[pai]] {{m}}, [[mãe]] {{f}}
-* Romanian: [[părinte]] {{m}}
-* Russian: [[родитель]] (rodítel’) {{m}} (1)
-* Slovene: [[starši]] {{m|p}} (there are only 'parents' in Slovene, there is no singular form to it; if used in singular, we say 'father' [[oče]] or 'mother' [[mati]], or very formally [[roditelj]])
-* Spanish: [[padre]] {{m}}, [[madre]] {{f}}, [[origen]] {{m}}
-* Swedish: [[förälder]] (1,2,3,4)
-* Turkish: [[ebeveyn]]
-{{bottom}}
+{{trans-top|person from whom one is descended}}
+* Dutch: {{t|nl|ouder|m}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|person who acts as a parent in rearing a child}}
+* Dutch: {{t|nl|ouder|m}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|biology: organism from which a plant or animal is biologically descended}}
+* Dutch: {{t|nl|ouder|m}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|source or origin of something}}
+* Dutch: {{t|nl|bron|c}}, {{t|nl|ouder|m}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|group from which another group is formed}}
+* Dutch: {{t|nl|moeder|alt=moeder-|m}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|computing: object from which a child or derived object is descended}}
+* Dutch: {{t|nl|ouder|m}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* {{ttbc|Afrikaans}}: [[ouer]]
+* {{ttbc|Armenian}}: [[ծնող]] (tsnogh)
+* {{ttbc|Breton}}: [[tud]] {{p}}, [[kerent]] {{p}} (only plural, otherwise use [[father]] or [[mother]])
+* {{ttbc|Bulgarian}}: [[родител]] (roditel) {{m}} (1)
+* {{ttbc|Catalan}}: [[pare]] {{m}}, [[mare]] {{f}} (''[[parents]]'' in plural: [[pares]] {{m}})
+* {{ttbc|Czech}}: [[rodič]] {{m}}
+* {{ttbc|Esperanto}}: [[patro]] {{m}}, [[patrino]] {{f}}
+* {{ttbc|Finnish}}: [[vanhempi]]
+* {{ttbc|French}}: [[#French|parent]] {{m}}
+* {{ttbc|German}}: [[Elternteil]] {{m}}
+* {{ttbc|Hebrew}}: [[הורה]] (hore) {{m}}, [[הורה]] (hora) {{f}}, ''plural:'' [[הורים]] (horim) {{m}} or {{m|f}}, [[הורות]] (horot) {{f}}
+* {{ttbc|Ido}}: [[genitoro]]
+* {{ttbc|Icelandic}}: [[foreldrar]] {{p}}
+* {{ttbc|Indonesian}}: [[orangtua]]
+* {{ttbc|Interlingua}}: [[parente]], [[genitor]]
+{{trans-mid}}
+* {{ttbc|Italian}}: [[genitore]]
+* {{ttbc|Japanese}}: [[親]] (おや, oya)
+* {{ttbc|Korean}}: [[어버이]] (eobeo-i), [[부모]] (bumo)
+* {{ttbc|Malay}}: [[orang tua]]
+* {{ttbc|Latin}}: [[parens|parēns]] {{m|f}}
+* {{ttbc|Polish}}: [[rodzic]] {{m}}
+* {{ttbc|Portuguese}}: [[pai]] {{m}}, [[mãe]] {{f}}
+* {{ttbc|Romanian}}: [[părinte]] {{m}}
+* {{ttbc|Russian}}: [[родитель]] (rodítel’) {{m}} (1)
+* {{ttbc|Slovene}}: [[starši]] {{m|p}} (there are only 'parents' in Slovene, there is no singular form to it; if used in singular, we say 'father' [[oče]] or 'mother' [[mati]], or very formally [[roditelj]])
+* {{ttbc|Spanish}}: [[padre]] {{m}}, [[madre]] {{f}}, [[origen]] {{m}}
+* {{ttbc|Swedish}}: [[förälder]] (1,2,3,4)
+* {{ttbc|Turkish}}: [[ebeveyn]]
+{{trans-bottom}}
 
 ===Verb===
 {{en-verb|parents|parenting|parented|parented}}
 
 # To act as [[parent]], to [[raise]] or [[rear]].
 
-===Related terms===
-* [[parentage]]
-* [[parental]]
-* [[parenthood]]
+====Derived terms====
 * [[parenting]]
-* [[parent company]]
 
 ===See also===
 * [[foster]]
-* [[w:object-oriented programming|object-oriented programming]] (6)
+
+[[Category:Family]]
 
 ----
 
 ==French==
 
 ===Etymology===
-From {{L.|fr}} ''[[parens|parēns]]''.
+From {{etyl|la|fr}} {{term|parens|parēns|lang=la}}.
 
 ===Pronunciation===
-*{{audio|Fr-parent.ogg|audio}}
 * {{IPA|/pa.'ʁɑ~/}}
+* {{audio|Fr-parent.ogg|audio}}
 
 ===Noun===
 {{fr-noun|m}}
 
-# [[#English|parent]], one's [[father]] or [[mother]]
+# [[#English|parent]], one’s [[father]] or [[mother]]
 # any person to which one is related
+{{rfex}}
 
 ====Derived terms====
 *[[parental]]
 
-[[Category:Family]]
 [[Category:fr:Family]]
 
 [[zh-min-nan:parent]]
