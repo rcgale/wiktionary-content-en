@@ -11,9 +11,10 @@
 * {{rhymes|ɒn}}
 
 ===Etymology===
-Old English ''on'', originally ''an''. From Germanic *[[ana]].
-Related forms: Οld German ''ana'' (new German [[an]]), Οld Dutch ''an'', ''ane'' ([[aan]]), Οld Frisian ''ana'', Gothic ''ana'', Οld Norse/Icelandic/Faeroese ''á'', Danish/Swedish/Norwegian ''på''. Possibly related to Greek [[ἀνά]] (''upward'').
+{{etyl|ang}} {{term|on|lang=ang}}, originally {{term|an|lang=ang}}. From {{etyl|gem}} *{{term||ana|lang=gem}}.
+Related forms: Οld High German {{term|ana|lang=goh}} (German {{term|an|lang=de}), Οld Dutch {{term|an|lang=ndt}}, {{term|ane|lang=ndt}} (Dutch {{term|aan|lang=nl}}), Οld Frisian {{term|ana|lang=ofs}}, Gothic {{term||sc=Goth|tr=ana|lang=got}}, Οld Norse {{term|á|lang=non}}, Icelandic {{term|á|lang=is}}, Faeroese {{term|á|lang=fo}}, Danish {{term|på|lang=da}}, Swedish, {{term|på|lang=sv}}, Norwegian {{term|på|lang=no}}. Possibly related to Greek {{term|ἀνά|sc=Grek||upward|lang=el}}.
 
+{{rfscript|Gothic}}
 ===Preposition===
 [[Image:Encima.png|thumb|A green pepper '''on''' a box(1)]]
 {{infl|en|preposition}}
@@ -203,7 +204,7 @@ Related forms: Οld German ''ana'' (new German [[an]]), Οld Dutch ''an'', ''ane
 {{trans-bottom}}
 
 ===Adverb===
-'''on'''
+{{en-adv|-}}
 
 # to an [[operate|operating]] [[state]]
 #: ''turn the [[television]] '''on'''''
@@ -233,11 +234,9 @@ Related forms: Οld German ''ana'' (new German [[an]]), Οld Dutch ''an'', ''ane
 ==Catalan==
 
 ===Pronoun===
-'''on'''
+{{infl|ca|pronoun}}
 
 # [[where]]
-
-[[Category:Catalan pronouns]]
 
 ----
 
@@ -339,7 +338,7 @@ Related forms: Οld German ''ana'' (new German [[an]]), Οld Dutch ''an'', ''ane
 * {{audio|Cs-on.ogg|audio}}
 
 ===Pronoun===
-'''on'''
+{{infl|cs|pronoun}}
 
 # [[he]] ''(third person personal, {{m}} '{{s}})''
 
@@ -353,19 +352,16 @@ Related forms: Οld German ''ana'' (new German [[an]]), Οld Dutch ''an'', ''ane
 * [[my#Czech|my]]
 * [[vy#Czech|vy]]
 
-[[Category:Czech pronouns]]
-
 ----
 
 ==Dutch==
 
 ===Adverb===
-'''on'''
+{{infl|nl|adverb}}
 
 # rarely used as shorthand for [[oneven]] ([[odd]]), the prefix [[on-]] means ''not'' (corresponds to English [[un-]])
 
-[[Category:Dutch adverbs]]
-
+{{attention|nl|is this two things?}}
 ----
 
 ==Estonian==
@@ -393,8 +389,8 @@ Related forms: Οld German ''ana'' (new German [[an]]), Οld Dutch ''an'', ''ane
 {{inflected form of|olla}}
 
 ===Pronunciation===
-* Hyphenation: on
 * {{IPA|lang=fi|[on]}}
+* {{hyphenation|on}}
 
 ===Verb===
 '''on'''
@@ -412,8 +408,10 @@ Related forms: Οld German ''ana'' (new German [[an]]), Οld Dutch ''an'', ''ane
 ===Pronunciation===
 * {{audio|Fr-on.ogg|audio}}
 
+{{r
+
 ===Pronoun===
-'''on'''
+{{infl|fr|pronoun}}
 
 # [[one]], [[people]], [[someone]]
 # [[we]]
@@ -421,8 +419,6 @@ Related forms: Οld German ''ana'' (new German [[an]]), Οld Dutch ''an'', ''ane
 ====Synonyms====
 * [[quelqu'un]]
 * [[nous]]
-
-[[Category:French pronouns]]
 
 ----
 
@@ -442,39 +438,34 @@ Related forms: Οld German ''ana'' (new German [[an]]), Οld Dutch ''an'', ''ane
 ==Old English==
 
 ===Etymology===
-Common Germanic *[[ana]]''
+{{proto|Germanic|ana|lang=ang}}
 
 ===Preposition===
-'''on'''
+{{infl|ang|preposition}
 
 # on
-
-[[Category:Old English prepositions]]
-
 ----
 
 ==Polish==
 
 ===Pronunciation===
-* /{{IPAchar|ɔn}}/
+* {{IPA|/ɔn/|lang=pl}}
 * {{audio|pl-on.ogg|audio}}
 
 ===Pronoun===
-'''on''' ({{p}}: [[personal]] only - ''[[oni#Polish|oni]]'', all other - ''[[one#Polish|one]]'')
+{{infl|pl|pronoun|plural: personal only|[[oni#Polish|oni]]|all other|[[one#Polish|one]]}}
 
 # [[he]] for [[animate]], [[it]] for [[inanimate]] ''(third person, {{m}} {{s}})''.
 
 ===See also===
 * [[Appendix:Polish pronouns|Declension]].
 
-[[Category:Polish pronouns]]
-
 ----
 
 ==Slovak==
 
 ===Pronoun===
-'''on'''
+{{infl|sk|pronoun}}
 
 # [[he]] ''(third person, personal, {{m}} {{s}})''
 
@@ -487,8 +478,6 @@ Common Germanic *[[ana]]''
 * [[ty#Polish|ty]]
 * [[my#Polish|my]]
 * [[my#Polish|vy]]
-
-[[Category:Slovak pronouns]]
 
 ----
 
@@ -509,7 +498,7 @@ Common Germanic *[[ana]]''
 ===Noun===
 '''on'''
 
-# plural of letter [[o]]
+# {{plural of|letter [[o]]|lang=sv}}
 
 ----
 
@@ -530,11 +519,9 @@ Common Germanic *[[ana]]''
 # {{cardinal|lang=vo}} [[one]]
 
 ===Pronoun===
-'''on'''
+{{infl|vo|pronoun}}
 
 # [[one]], neuter of [[person]]
-
-[[Category:Volapük pronouns]]
 
 [[af:on]]
 [[ar:on]]
