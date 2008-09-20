@@ -2,8 +2,11 @@
 ==Faroese==
 {{fo-conj-56|r|e|k|i|a|ó}}
 
+===Etymology 1===
+From {{etyl|non|fo}} {{term|vreka}} (the ''v'' had disappeared already in later Old West Norse).
+
 ===Verb===
-'''reka'''
+{{infl|fo|verb}}
 
 # to [[drive]], to [[drift]]
 {{-}}
@@ -14,12 +17,25 @@
 
 ==Icelandic==
 
-===Verb===
-'''reka'''
+===Pronunciation===
+*{{IPA|[ˈrɛːka]|lang=is}}
+*: {{rhymes|ɛːka|lang=is}}
 
-# {{defn|Icelandic}}
+===Etymology 1===
+From {{etyl|non|is}} {{term|vreka}} (the ''v'' had disappeared already in later Old West Norse).
 
-====Derived terms====
+====Verb====
+'''reka''' (''strong conjugation:'' [[rak]] – [[rákum]] – [[rekið]])
+
+# to [[drive]] (forward or away)
+# to [[run]] (a farm, business, etc.)
+# [[coerce]], [[drive]] (someone to do something)
+# to [[hammer]], [[hit]] (iron)
+# {{impersonal|lang=is}} to cause to [[drift]]
+#: ''[[bátur|Bátinn]] ([[accusative|acc.]]) '''rak''' út á [[haf#Icelandic|haf]].''
+#: The boat '''drifted''' out to sea.
+
+=====Derived terms=====
 * [[reka áfram]]
 * [[reka sig á]]
 * [[reka á eftir]]
@@ -33,6 +49,17 @@
 * [[rekast á]]
 * [[rekast í]]
 
+===Etymology 2===
+From {{etyl|non|is}} {{term|reka|lang=non}}.
+
+====Noun====
+{{is-noun|f|reku|rekur}}
+
+# [[shovel]]
+
+====Synonyms====
+* [[skófla]]
+
 [[Category:Icelandic verbs]]
 [[Category:Most used Icelandic verbs]]
 
@@ -41,11 +68,44 @@
 ==Maori==
 
 ===Adjective===
-'''reka'''
+{{infl|mi|adjective}}
 
 # [[nice]]
 
-[[Category:Maori language]]
+----
+
+==Old Norse==
+
+===Etymology 1===
+From {{proto|Germanic|rek-|lang=non}}, whence also Old Saxon {{term|reka|lang=osx}}, Old High German {{term|recho|lang=goh}}. Also related to Old English {{term|raca|lang=ang}}, {{term|racu|lang=ang}}.
+
+====Noun====
+{{infl|non|noun|g=f}}
+
+# [[shovel]]
+
+=====Descendants=====
+* Icelandic: [[#Icelandic|reka]] {{f}}
+
+===Etymology 2===
+From earlier {{term|vreka|lang=non}}, from {{proto|Germanic|wrekan|lang=non}}.
+
+====Verb====
+{{infl|non|verb}}
+
+# to [[drive]]
+
+=====Descendants=====
+{{top2}}
+* Faroese: [[#Faroese|reka]]
+* Icelandic: [[#Icelandic|reka]]
+{{mid2}}
+* Norwegian: [[reke#Norwegian|reke]]
+* Swedish: [[vräka]], [[räka]] (''dialectal'')
+{{bottom}}
+
+===References===
+*{{R:Íslensk orðsifjabók 1989}}
 
 ----
 
@@ -58,7 +118,7 @@ From {{proto|Slavic|rěka|lang=sr}}.
 * {{audio|Sr-reka.ogg|audio}}
 
 ===Noun===
-{{infl|sr|noun|g=f}}
+{{sr-noun|g=f|cyr=река}}
 
 # a [[river]]
 
@@ -97,9 +157,6 @@ From {{proto|Slavic|rěka|lang=sr}}.
 | align="center"|{{unicode|rekama}}
 |}
 
-====See also====
-* [[река]]
-
 ----
 
 ==Slovene==
@@ -108,11 +165,9 @@ From {{proto|Slavic|rěka|lang=sr}}.
 From {{proto|Slavic|rěka|lang=sl}}.
 
 ===Noun===
-'''reka''' ''f''
+{{infl|sl|noun|g=f}}
 
 # [[river]]
-
-[[Category:Slovene nouns]]
 
 [[de:reka]]
 [[el:reka]]
