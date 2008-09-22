@@ -6,7 +6,7 @@
 From {{etyl|non|is}} {{term|hestr}}.
 
 ===Noun===
-'''hestur''' {{m}}
+{{infl|fo|noun|g=m}}
 
 # [[stallion]]
 # [[horse]] in general
@@ -20,36 +20,41 @@ From {{etyl|non|is}} {{term|hestr}}.
 ====Antonyms====
 * [[ryssa]] (mare)
 
-[[Category:Faroese nouns]]
 [[Category:fo:Horses]]
 
 ----
 
 ==Icelandic==
-{{Icelandic declension kk sb 01|hest|ur}}
 
 ===Etymology===
 From {{etyl|non|is}} {{term|hestr}}.
 
+===Pronunciation===
+*{{IPA|[ˈhɛstʏr]|lang=is}}
+*: {{rhymes|ɛstʏr|lang=is}}
+
 ===Noun===
-'''hestur''' {{m}}
+{{infl|is|noun|g=m}}
 
 # [[horse]]
+
+====Declension====
+{{is-decl-noun-m-s1|h|e|st|ur|i=i}}
 
 ====Synonyms====
 * [[hross]], [[klár]]
 
 ====Usage notes====
-* The noun [[hestur]] is often used to determine the inflection of a noun, as every {{singular}} [[indefinite]] form is [[different]]. This is done either by substituting the word (whose form is unknown) with '''hestur''':
-*: ''[[ég#Icelandic|ég]] [[borða]] [[brauð]].'' (I [[eat]] [[bread]])
-*: Becomes:
-*: ''[[ég#Icelandic|ég]] [[borða]] '''hest'''. (I [[eat]] a [[horse]])
-*: And because the word '''hest''' is {{accusative}}, the word ''[[brauð]]'' must here also be {{accusative}}.
-* Another way of doing this is putting some common and predetermined 'phrases' in front of the word in question, ''e.g.'':
-*: [[hér]] [[vera#Icelandic|er]] '''hestur''' ({{nominative}}) = there is a '''horse''' here (lit. here is a horse)
-*: [[um]] '''[[hest]]''' ({{accusative}}) = about a '''horse'''
-*: [[frá]] '''[[hesti]]''' ({{dat}}) = from a '''horse'''
-*: [[til]] '''[[hests]]''' ({{gen}}) = to a '''horse'''
+The noun ''hestur'' is often used by native speakers to determine the case of a noun, as every singular indefinite form is different. This is done by substituting the word (whose case is unknown) with the appropriate form of ''hestur'', e.g.
+: ''[[ég#Icelandic|ég]] [[borða]] [[brauð]].'' (I [[eat]] [[bread]])
+becomes
+: ''[[ég#Icelandic|ég]] [[borða]] '''hest'''. (I [[eat]] a [[horse]])
+and because we know ''hest'' to be the accusative of hestur (and can't possibly be any other case), the word ''[[brauð]]'' must here also be in the accusative case.
+To find the case forms of ''hestur'' (or any other noun) a certain set of prepositions is used (except for the nominative, where the noun is made the subject of a clause with reversed word order):
+: [[hér]] [[vera#Icelandic|er]] '''hestur''' ({{nominative}}) = here is a '''horse'''
+: [[um]] '''[[hest]]''' ({{accusative}}) = about a '''horse'''
+: [[frá]] '''[[hesti]]''' ({{dat}}) = from a '''horse'''
+: [[til]] '''[[hests]]''' ({{gen}}) = to a '''horse'''
 
 ====Derived terms====
 {{wikipedia|hestur|lang=is}}
