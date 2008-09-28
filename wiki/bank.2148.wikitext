@@ -8,6 +8,7 @@ From {{It.}} ''[[banco]]'', "bench", from the benches in public places from whic
 The bank of a river or lake is from {{OE.}} ''[[banca]]'', {{ON.}} ''[[banke]]'' and {{ME.}} ''[[bank#Middle English|bank]]''.
 
 ===Pronunciation===
+* {{IPA|/bæŋk/}}
 * {{audio|en-us-bank.ogg|Audio (US)}}
 *: {{rhymes|æŋk}}
 
@@ -328,7 +329,7 @@ The bank of a river or lake is from {{OE.}} ''[[banca]]'', {{ON.}} ''[[banke]]''
 ===Noun===
 '''bank'''
 
-# bank ''(financial institution)''
+# [[#English|bank]] ''(financial institution)''
 
 ====Declension====
 {{crh-latin-noun|nıñ|qa|nı|ta|tan}}
@@ -340,9 +341,7 @@ The bank of a river or lake is from {{OE.}} ''[[banca]]'', {{ON.}} ''[[banke]]''
 ==Danish==
 
 ===Noun===
-'''bank'''
-{{en-noun}}
-{{en-noun|sg=[[bank]]}}
+{{infl|da|noun}}
 
 # [[#English|bank]] (''financial institution'')
 # sum of bets (e.g. in a casino)
@@ -408,7 +407,7 @@ The bank of a river or lake is from {{OE.}} ''[[banca]]'', {{ON.}} ''[[banke]]''
 ==Norwegian==
 
 ===Pronunciation===
-* {{IPA|/bɑŋk/}}
+* {{IPA|/bɑŋk/|lang=no}}
 
 ===Noun===
 {{no-noun-m1}}
@@ -420,14 +419,28 @@ The bank of a river or lake is from {{OE.}} ''[[banca]]'', {{ON.}} ''[[banke]]''
 ==Polish==
 
 ===Pronunciation===
-* {{IPA|[baŋk]|lang=pl}}
+* {{IPA|[bãŋk]|lang=pl}}
 
 ===Noun===
-'''bank''' {{m}} (plural '''[[banki]]''', ''instrumental singular'' '''[[bankiem]]''')
+{{infl|pl|noun|g=m|plural|banki}}
 
 # [[#English|bank]]
 
-[[Category:Polish nouns]]
+====Declension====
+{{pl-decl-noun
+|bank|banki
+|banku|banków
+|bankowi|bankom
+|bank|banki
+|bankiem|bankami
+|banku|bankach
+|banku|banki
+}}
+
+====Derived terms====
+*[[bankowy]]
+*[[bankowość]]
+*[[bankier]]
 
 ----
 
@@ -452,12 +465,12 @@ The bank of a river or lake is from {{OE.}} ''[[banca]]'', {{ON.}} ''[[banke]]''
 
 ----
 
-==[[Volapük]]==
+==Volapük==
 
 ===Noun===
-'''bank'''
+{{infl|vo|noun}}
 
-# bank (''financial institution'')
+# [[#English|bank]] (''financial institution'')
 
 [[ar:bank]]
 [[zh-min-nan:bank]]
