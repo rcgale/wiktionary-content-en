@@ -32,15 +32,15 @@
 
 ====Translations====
 {{trans-top|act of translating between languages}}
-* Albanian: {{t|sq|përkthim}}
+* Albanian: {{t|sq|përkthim|xs=Albanian}}
 * Arabic: {{Arab|[[ترجمة]]}} (tárjama) {{f}}
 * Armenian: [[թարգմանություն]] (t'argmanut'yun)
-* Bulgarian: {{t|bg|преводач}}
+* Bulgarian: {{t|bg|преводач|sc=Cyrl}}
 * [[Catalan]]: {{t|ca|traducció|f}}
 * Chinese:
-*: Cantonese: {{t|yue|翻譯|tr=faan1 jik6}}
+*: Cantonese: {{tø|yue|翻譯|tr=faan1 jik6|sc=Hani|xs=Cantonese}}
 *: Mandarin: [[翻譯]], [[翻译]] (fānyì)
-* Croatian: {{t|hr|prijevod|alt=prijévod|m}}
+* Croatian: {{t-|hr|prijevod|m|alt=prijévod}}
 * Czech: {{t|cs|překládání|n}}
 * Danish: {{t|da|oversættelse|c}}
 * Dutch: {{t+|nl|vertaling|f}}
@@ -55,7 +55,7 @@
 {{trans-mid}}
 * [[Interlingua]]: [[traduction]]
 * Italian: {{t+|it|traduzione|f}}
-* Japanese: {{t|ja|翻訳|tr=ほんやく, hon'yaku|sc=Jpan}}
+* Japanese: {{t+|ja|翻訳|tr=ほんやく, hon'yaku|sc=Jpan}}
 * Korean: [[번역]] ([[飜譯]], beonyeok)
 * Kurdish: {{KUchar|[[وه‌رگێڕ]]}}
 * Lithuanian: {{t+|lt|vertimas|m|xs=Lithuanian}}
@@ -69,7 +69,7 @@
 * Slovak: {{t|sk|preklad|m}}, {{t|sk|prekladanie|n}}
 * Slovene: {{t|sl|prevajanje|n}}
 * Spanish: {{t+|es|traducción|f}}
-* Swahili: {{t|sw|tafsiri}}
+* Swahili: {{t|sw|tafsiri|xs=Swahili}}
 * Swedish: {{t+|sv|översättning|c}}
 * [[Telugu]]: {{t+|te|అనువాదము|sc=Telu}} (anuvaadamu)
 * [[West Frisian]]: {{t+|fy|oersetting|c|xs=West Frisian}}
@@ -78,9 +78,9 @@
 {{trans-top|result of translating between languages}}
 * [[Catalan]]: [[traducció]] {{f}}
 * Chinese:
-*: Cantonese: {{t|yue|翻譯|tr=faan1 jik6}}
+*: Cantonese: {{tø|yue|翻譯|tr=faan1 jik6|sc=Hani|xs=Cantonese}}
 *: Mandarin: [[翻譯]], [[翻译]] (fānyì); [[译文]], [[譯文]] (yìwén)
-* Croatian: {{t|hr|prijevod|alt=prijévod|m}}
+* Croatian: {{t-|hr|prijevod|m|alt=prijévod}}
 * Czech: {{t+|cs|překlad|m}}
 * Danish: {{t|da|oversættelse|c}}
 * Dutch: {{t+|nl|vertaling|f}}
@@ -92,15 +92,15 @@
 * Hebrew: {{he-translation|תרגום|targúm}} {{m}}
 * Hindi: {{t+|hi|अनुवाद|sc=Deva|xs=Hindi}}
 * Hungarian: {{t+|hu|fordítás}}
-* [[Ido]]: {{t|io|traduko}}
+* [[Ido]]: {{t-|io|traduko|xs=Ido}}
 {{trans-mid}}
-* [[Interlingua]]: {{t|ia|traduction}}
+* [[Interlingua]]: {{t-|ia|traduction|xs=Interlingua}}
 * Italian: {{t+|it|traduzione|f}}
-* Japanese: {{t|ja|訳|tr=[[やく]], [[yaku]]|sc=Jpan}}, {{t|ja|訳文|tr=[[やくぶん]], yakubun|sc=Jpan}}, {{t|ja|翻訳|tr=[[ほんやく]], hon'yaku|sc=Jpan}}
+* Japanese: {{t+|ja|訳|tr=[[やく]], [[yaku]]|sc=Jpan}}, {{t|ja|訳文|tr=[[やくぶん]], yakubun|sc=Jpan}}, {{t+|ja|翻訳|tr=[[ほんやく]], hon'yaku|sc=Jpan}}
 * Kurdish: {{KUchar|[[وه‌رگێڕ]]}}
 * Norwegian: {{t+|no|oversettelse|m}}
-* Polish: {{t|pl|tłumaczenie|n}}, {{t|pl|przekład|m}}
-* Portuguese: {{t|pt|tradução|f}}, {{t|pt|obra traduzida|f}}
+* Polish: {{t+|pl|tłumaczenie|n}}, {{t|pl|przekład|m}}
+* Portuguese: {{t+|pt|tradução|f}}, {{t|pt|obra traduzida|f}}
 * Romanian: {{t-|ro|traducere|f}}
 * Russian: {{t+|ru|перевод|m|tr=perevód|sc=Cyrl}}
 * Slovak: {{t|sk|preklad|m}}
@@ -119,12 +119,12 @@
 {{trans-mid}}
 * Japanese: {{t|ja|伝達|tr=[[でんたつ]], [[dentatsu]]|sc=Jpan}}
 * Portuguese: {{t+|pt|transmissão|f}}
-* Russian: [[переключение]] {{n}}, [[перевод]] {{m}}
+* Russian: {{t+|ru|переключение|n|sc=Cyrl}}, {{t+|ru|перевод|m|sc=Cyrl}}
 * Slovak: [[preradenie]] {{n}}
 {{trans-bottom}}
 
 {{trans-top|motion without deformation or rotation}}
-* Croatian: {{t|hr|translacija|alt=translácija|f}}
+* Croatian: {{t|hr|translacija|f|alt=translácija}}
 * Czech: [[translace]] {{f}}
 * Dutch: {{t-|nl|translatie|f}}
 * Finnish: [[translaatio]]
@@ -134,11 +134,11 @@
 {{trans-mid}}
 * Polish: {{t|pl|przesunięcie|n}}
 * Portuguese: {{t+|pt|translação|f}}
-* Russian: {{t|ru|трансляция|f|tr=transljátsija}}
+* Russian: {{t|ru|трансляция|f|tr=transljátsija|sc=Cyrl}}
 * Slovak: {{t|sk|posunutie|n}}, {{t|sk|translácia|f}} ''(mathematical)''
 * Slovene: {{t|sl|translacija|f}}
 * Spanish: {{t|es|traslación|f}}
-* Swedish: {{t|sv|förflyttning|c}}, {{t|sv|translation|c}} (''maths, physics'')
+* Swedish: {{t+|sv|förflyttning|c}}, {{t+|sv|translation|c}} (''maths, physics'')
 {{trans-bottom}}
 
 {{checktrans-top}}
