@@ -103,7 +103,7 @@ When a word ending in /t/, /d/, /s/, or /z/ is followed by {{term|you}}, these m
 * Persian: {{fa-Arab|[[ﺗﻮ|ﺗﻮ]]}} (to)
 * Polish: {{t+|pl|ty}} {{i|often omitted}}
 * Romanian: {{qualifier|familiar}} {{t+|ro|tu}}, {{qualifier|polite}} {{t|ro|dumneata}}, {{qualifier|formal}} {{t-|ro|dumneavoastră}}
-* Russian: {{qualifier|familiar}} {{t|ru|sc=Cyrl|ты|tr=ty}}, {{qualifier|polite}} {{t|ru|sc=Cyrl|Вы|tr=Vy}}
+* Russian: {{qualifier|familiar}} {{t+|ru|ты|tr=ty|sc=Cyrl}}, {{qualifier|polite}} {{t-|ru|Вы|tr=Vy|sc=Cyrl}}
 * Slovene: {{t+|sl|ti}} ''familiar'',  {{t+|sl|vi}} ''polite''
 * Spanish: {{qualifier|familiar}} [[tú]], {{qualifier|polite}} [[usted]]
 * [[Telugu]]: {{qualifier|familiar}} {{t|te|నువ్వు|sc=Telu}} (nuvvu), {{qualifier|polite}} {{t|te|మీరు|sc=Telu}} (meeru)
@@ -120,7 +120,7 @@ When a word ending in /t/, /d/, /s/, or /z/ is followed by {{term|you}}, these m
 *: Kernewek Kemmyn: [[’th]]
 * Danish: {{qualifier|familiar}} {{t-|da|dig}}, {{qualifier|polite}} {{t-|da|Dem}}
 * Dutch: {{qualifier|familiar}} {{qualifier|standard}} {{t+|nl|jou}}, {{t+|nl|je}}, {{qualifier|Flemish}} {{t+|nl|u}}; {{qualifier|formal}} {{t+|nl|u}}
-* Esperanto: {{t+|eo|vin|xs=Esperanto}}, {{t-|eo|cin|xs=Esperanto}} {{qualifier|familiar, rarely used}}
+* Esperanto: {{t+|eo|vin|xs=Esperanto}}, {{t+|eo|cin|xs=Esperanto}} {{qualifier|familiar, rarely used}}
 * [[Ewe]]: [[wò]]
 * Finnish: {{t+|fi|sinä|alt=sinut}} {{i|accusative}}, {{t-|fi|telic}}, {{t+|fi|sinä|alt=sinua}} {{i|partitive}}, {{t-|fi|atelic}}
 {{trans-mid}}
@@ -130,8 +130,8 @@ When a word ending in /t/, /d/, /s/, or /z/ is followed by {{term|you}}, these m
 * [[Old Persian]]: {{tø|peo|𐎬𐎺𐎶|tr=tuvam|sc=Xpeo|xs=Old Persian}}
 * Portuguese: {{qualifier|familiar in Portugal, archaic in Brazil}} [[tu]], {{qualifier|polite in Portugal, familiar in Brazil}} [[você]]
 * Romanian: {{qualifier|accusative}} [[te]] {{qualifier|unstressed}}, [[pe]] [[tine]] {{qualifier|stressed}}; {{qualifier|dative}} [[îţi]] {{qualifier|unstressed}}, [[ţie]] {{qualifier|stressed}}
-* Russian: {{qualifier|familiar}} {{t|ru|sc=Cyrl|тебя|tr=tebjá}}, {{t|ru|sc=Cyrl|тебе|tr=tebé}}, {{t|ru|sc=Cyrl|тобой|tr=tobój}}; {{qualifier|polite}} {{t|ru|sc=Cyrl|вас|tr=vas}}, {{t|ru|sc=Cyrl|вам|tr=vam}}, {{t|ru|sc=Cyrl|вами|tr=vami}}
-* Spanish: {{qualifier|informal}} {{t|es|te}}, {{qualifier|formal}} {{t|es|se}}
+* Russian: {{qualifier|familiar}} {{t+|ru|тебя|tr=tebjá|sc=Cyrl}}, {{t+|ru|тебе|tr=tebé|sc=Cyrl}}, {{t+|ru|тобой|tr=tobój|sc=Cyrl}}; {{qualifier|polite}} {{t+|ru|вас|tr=vas|sc=Cyrl}}, {{t+|ru|вам|tr=vam|sc=Cyrl}}, {{t+|ru|вами|tr=vami|sc=Cyrl}}
+* Spanish: {{qualifier|informal}} {{t+|es|te}}, {{qualifier|formal}} {{t+|es|se}}
 {{trans-bottom}}
 
 {{trans-top|subject pronoun: the group being addressed}}
@@ -335,7 +335,7 @@ When a word ending in /t/, /d/, /s/, or /z/ is followed by {{term|you}}, these m
 *: ''after preposition'': [[vám]]
 * Danish: {{t+|da|en}}
 * Dutch: {{t+|nl|je}}, {{i|Flemish}} {{t+|nl|u}}
-* Esperanto: {{t-|eo|onin|xs=Esperanto}}
+* Esperanto: {{t+|eo|onin|xs=Esperanto}}
 * [[Ewe]]: [[wò]]
 * Finnish: ''passive tense used''
 * French:
@@ -385,8 +385,8 @@ When a word ending in /t/, /d/, /s/, or /z/ is followed by {{term|you}}, these m
 * Dutch: ''translated by the definite article'': {{t+|nl|de}}
 * Esperanto: {{t+|eo|vi|xs=Esperanto}}, {{t-|eo|ci|xs=Esperanto}} ''familiar, rarely used''
 * Estonian:
-*: ''familiar'': {{t|et|sina}} {{s}}, {{t|et|sa}} {{s}}, {{t|et|teie}} {{p}}, {{t|et|te}} {{p}}
-*: ''polite'': {{t|et|Sina}} {{s}}, {{t|et|Sa}} {{s}}, {{t|et|Teie}} {{p}},  {{t|et|Te}} {{p}}
+*: ''familiar'': {{t-|et|sina}} {{s}}, {{t+|et|sa}} {{s}}, {{t-|et|teie}} {{p}}, {{t+|et|te}} {{p}}
+*: ''polite'': {{t-|et|Sina}} {{s}}, {{t+|et|Sa}} {{s}}, {{t|et|Teie}} {{p}},  {{t+|et|Te}} {{p}}
 * Finnish:
 *: ''familiar'': [[sinä]] {{s}}, [[te]] {{p}}
 *: ''polite'': [[Te]] {{s}} ''and'' {{p}}
