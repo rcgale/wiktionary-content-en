@@ -73,7 +73,7 @@ From {{etyl|enm}} {{term|frend}} < {{etyl|ang}} {{term|freond|frēond}}.
 *: Min Nan: [[朋友]] ([[pêng-iú]])
 * [[Crimean Tatar]]: [[dost]], [[arqadaş]] (northern dialect also [[kaday]])
 * Croatian: {{t+|hr|prijatelj|m}}
-* Czech: {{t+|cs|přítel|m}}, {{t+|cs|kamarád|m}}, {{t-|cs|přítelkyně|f}}
+* Czech: {{t-|cs|přítel|m}}, {{t+|cs|kamarád|m}}, {{t-|cs|přítelkyně|f}}
 * Danish: [[ven]] {{m}}, [[veninde]] {{f}}, [[kammerat]] {{c}}
 * Dutch: [[vriend]], [[vriendje]] {{m}}, [[vriendin]], [[vriendinnetje]] {{f}}, [[maatje]] {{m|f}}
 * Esperanto: [[amiko]] {{m|f}}, [[amikino]] {{f}}
@@ -82,9 +82,9 @@ From {{etyl|enm}} {{term|frend}} < {{etyl|ang}} {{term|freond|frēond}}.
 * French: {{t+|fr|ami|m}}, {{t+|fr|amie|f}}
 * Georgian: [[მეგობარი]] (megobari)
 * German: {{t+|de|Freund|m}}, {{t+|de|Freundin|f}}
-* Greek: {{t+|el|φίλος|m}} (fílos), {{t+|el|φίλη|f}} (fíli)
+* Greek: {{t+|el|φίλος|m|sc=Grek}} (fílos), {{t+|el|φίλη|f|sc=Grek}} (fíli)
 * Hebrew: [[ידיד]] (yedíd) {{m}}, [[חבר]] (khaver) {{m}}
-* Hindi: {{t-|hi|दोस्त|m/f|sc=Deva}} (dost), {{t-|hi|मित्र|m/f|sc=Deva}} (mitra)
+* Hindi: {{t-|hi|दोस्त|m/f|sc=Deva|xs=Hindi}} (dost), {{t-|hi|मित्र|m/f|sc=Deva|xs=Hindi}} (mitra)
 * Hungarian: {{t+|hu|barát}}
 * Icelandic: {{t+|is|vinur|m}}, {{t+|is|vinkona|f}}, {{t+|is|vinstúlka|f}}
 * [[Ido]]: [[amiko]] (gender-neutral), [[amikino]] {{f}}, [[amikulo]] {{m}}
@@ -99,7 +99,7 @@ From {{etyl|enm}} {{term|frend}} < {{etyl|ang}} {{term|freond|frēond}}.
 * Korean: [[친구]] ([[親舊]], chingu)
 * Kurdish:
 *: Kurmanji: [[heval]], [[dost]], [[yar]], [[hevrê]]
-*: Sorani: {{t|ku|هه‌ڤاڵ|tr=hevall|sc=KUchar}}, {{t|ku|براده‌ر|tr=birader|sc=KUchar}}, {{t|ku|دۆست|tr=dost|sc=KUchar}}, {{t|ku|یار|tr=yar|sc=KUchar}}
+*: Sorani: {{t|ku|هه‌ڤاڵ|tr=hevall|sc=KUchar}}, {{t|ku|براده‌ر|tr=birader|sc=KUchar}}, {{t-|ku|دۆست|tr=dost|sc=KUchar}}, {{t-|ku|یار|tr=yar|sc=KUchar}}
 * Latin: {{t+|la|amicus|m}}, {{t-|la|amica|f}}
 * Lithuanian: {{t+|lt|draugas|xs=Lithuanian}}
 * Malay: {{t+|ms|kawan|xs=Malay}}, {{t-|ms|teman|xs=Malay}}, {{t+|ms|sahabat|xs=Malay}}
@@ -114,7 +114,7 @@ From {{etyl|enm}} {{term|frend}} < {{etyl|ang}} {{term|freond|frēond}}.
 * Polish: [[przyjaciel]] {{m}}, [[przyjaciółka]] {{f}}
 * Portuguese: {{t+|pt|amigo|m}}, {{t+|pt|amiga|f}}
 * Romanian: {{t+|ro|prieten}}
-* Russian: {{t+|ru|приятель|m}} (prijátel’), {{t+|ru|друг|m}} (drug)
+* Russian: {{t+|ru|приятель|m|sc=Cyrl}} (prijátel’), {{t+|ru|друг|m|sc=Cyrl}} (drug)
 * [[Scottish Gaelic]]: [[caraid]] {{m}}, [[bancharaid]] {{f}}
 * Slovene: {{t+|sl|prijatelj|m}}, {{t+|sl|prijateljica|f}}
 * Spanish: {{t+|es|amigo|m}}, {{t-|es|amiga|f}}
@@ -125,7 +125,7 @@ From {{etyl|enm}} {{term|frend}} < {{etyl|ang}} {{term|freond|frēond}}.
 * [[Telugu]]: [[స్నేహితుడు]] (snEhituDu), [[మిత్రుడు]] (mitruDu) (masculine); [[స్నేహితురాలు]] (snEhituraalu), [[మిత్రురాలు]] (mitruraalu) (faminine)
 * Thai: {{Thai|[[เพื่อน]]}} (peune)
 * Turkish: {{t+|tr|arkadaş}}, {{t+|tr|dost}}
-* Urdu: {{t-|ur|دوست|m/f|sc=ur-Arab}} (dost)
+* Urdu: {{t-|ur|دوست|m/f|sc=ur-Arab|xs=Urdu}} (dost)
 * [[Waray-Waray]]: [[sangkay]]
 {{trans-bottom}}
 
@@ -149,10 +149,10 @@ From {{etyl|enm}} {{term|frend}} < {{etyl|ang}} {{term|freond|frēond}}.
 * Polish: [[chłopak]] {{m}}, [[przyjaciel]] {{m}}, [[dziewczyna]] {{f}}, [[przyjaciółka]] {{f}}, [[sympatia]] {{m|f}}
 * Portuguese: [[namorado]] {{m}}; [[namorada]] {{f}}
 * Romanian: {{t+|ro|prieten}}, {{t-|ro|iubit}}
-* Russian: [[друг]] (drug) {{m}}, {{t+|ru|подруга|f}} (padrúga); [[приятель]] (prijátel’) {{m}}, [[приятельница]] (prijátel’nitsa) {{f}}
+* Russian: [[друг]] (drug) {{m}}, {{t+|ru|подруга|f|sc=Cyrl}} (padrúga); [[приятель]] (prijátel’) {{m}}, [[приятельница]] (prijátel’nitsa) {{f}}
 * [[Scottish Gaelic]]: [[bràmair]]
 * Slovene: [[fant]] {{m}}, [[punca]] {{f}} ''(coll.)'', [[dekle]] {{f}}
-* Spanish: {{t+|es|novio|m}}, {{t-|es|novia|f}}
+* Spanish: {{t+|es|novio|m}}, {{t+|es|novia|f}}
 * Swedish: {{t+|sv|pojkvän|m}}, {{t+|sv|flickvän|f}}
 * [[Tagalog]]: [[syota]], [[bata]]
 * [[Tamil]]: [[நண்பன்]] (naNban), [[தோழன்]] (tOzhan)
@@ -165,11 +165,11 @@ From {{etyl|enm}} {{term|frend}} < {{etyl|ang}} {{term|freond|frēond}}.
 * Czech: [[známý]] {{m}}, [[známá]] {{f}}
 * Danish: [[ven]] {{c}}, [[bekendt]] {{c}}
 * German: {{t+|de|Freund|m}}, {{t+|de|Freundin|f}}
-* Greek: [[γνωστός]] (gnostós) {{m}}, [[γνωστή]] (gností) {{f}}
+* Greek: {{t+|el|γνωστός|m|tr=gnostós|sc=Grek}}, {{t+|el|γνωστή|f|tr=gností|sc=Grek}}
 * Icelandic: [[félagi]] {{m}}, [[kunningi]] {{m}}
 {{trans-mid}}
 * Romanian: {{t+|ro|amic}}
-* Russian: {{t+|ru|знакомый|m}} (znakomiy), {{t+|ru|знакомая|f}} (znakomaya)
+* Russian: {{t+|ru|знакомый|m|sc=Cyrl}} (znakomiy), {{t+|ru|знакомая|f|sc=Cyrl}} (znakomaya)
 * Slovene: [[znanec]] {{m}}, [[znanka]] {{f}}
 * Spanish: {{t-|es|conocido|m}}, {{t-|es|conocida|f}}
 * Swedish: [[bekant]], [[vän]] {{c}}
