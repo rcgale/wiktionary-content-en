@@ -4,33 +4,30 @@
 From  {{proto|Indo-European|dómh₂os|lang=la}}, from root {{proto|Indo-European|demh₂-|to build|lang=la|title=}}. Cognates include Ancient Greek {{term|δόμος|sc=polytonic|tr=dómos|lang=grc}} and Sanskrit {{term|दम|tr=dáma|lang=sa|sc=Deva}}. The same PIE root also gave Old English {{term|timber||building, act of building|lang=ang}} (English {{term|timber|lang=en}}).
 
 ===Noun===
-'''domus''', {{f}} ('''[[Appendix:Latin fourth declension|4th declension]]''', irregular)
+'''domus''' (''genitive'' '''domūs''' or '''[[domi|domī]]'''); {{f}}, ''[[Appendix:Latin fourth declension|fourth declension]]'' (irregular)
 
-# a [[house]], a [[home]]
+# [[house]], [[home]]
 
-====Declension====
-{| class="toccolours" valign="top"
-|- bgcolor=lightgrey
-! !! {{s}} !! {{p}}
-|-
-!bgcolor=lightgrey| nom. 
-| [[domus|dŏmus]] || [[domus|dŏmūs]]
-|-
-!bgcolor=lightgrey| voc.
-| [[domus|dŏmus]] || [[domus|dŏmūs]]
-|-
-!bgcolor=lightgrey| acc.
-| [[domum|dŏmum]] || [[domos|dŏmōs]]<br>[[domus|dŏmūs]]
-|-
-!bgcolor=lightgrey| gen.
-| [[domus|dŏmūs]] || [[domorum|dŏmōrum]]<br>[[domuum|dŏmuum]]
-|-
-!bgcolor=lightgrey| dat.
-| [[domui|dŏmuī]] || [[domibus|dŏmibus]]
-|-
-!bgcolor=lightgrey| abl.
-| [[domo|dŏmō]] || [[domibus|dŏmibus]]
-|}
+====Inflection====
+{{Latin-decl
+|nom-sg=[[domus]]
+|nom-pl=[[domus|domūs]]
+|gen-sg=[[domus|domūs]], [[domi|domī]]
+|gen-pl=[[domuum|domuum]], [[domorum|domōrum]]
+|dat-sg=[[domui|domuī]], [[domo|domō]]
+|dat-pl=[[domibus|domibus]]
+|acc-sg=[[domum]]
+|acc-pl=[[domus|domūs]], [[domos|domōs]]
+|abl-sg=[[domu|domū]], [[domo|domō]]
+|abl-pl=[[domibus|domibus]]
+|voc-sg=[[domus]]
+|voc-pl=[[domus|domūs]]
+|loc-sg=[[domi|domī]]
+|loc-pl=[[domis|domīs]]
+}}
+
+====Usage notes====
+'''Domus''' is one of three common nouns that take the [[locative case]], the other two being [[rus#Latin|rus]] and [[humus#Latin|humus]]. It is irregular in that it has a mix of second and fourth declension forms, the second declension forms being more commonly used in place constructions.
 
 ====See also====
 *[[aedes]]
@@ -43,8 +40,6 @@ From  {{proto|Indo-European|dómh₂os|lang=la}}, from root {{proto|Indo-Europea
 *[[tungurium]]
 *[[aedificium]]
 *[[moles]]
-
-[[Category:Latin nouns]]
 
 [[da:domus]]
 [[de:domus]]
