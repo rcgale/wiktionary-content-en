@@ -1,20 +1,23 @@
+{{rfc|when can {{temp|webster}} be removed?}}
+
 ==English==
 
 ===Etymology===
-{{etyl|la}} [[litteralis]] (also [[literalis]]) "of or pertaining to letters".
+From {{etyl|la}} {{term|litteralis|lang=la}} (also {{term|literalis|lang=la}}) {{term|||of or pertaining to letters}}.
 
 ===Adjective===
 {{es-adj}}
 
-# Exactly as stated; read or understood without additional interpretation; according to the letter or verbal expression; real; not [[figurative]] or [[metaphorical]].
-#: ''The '''literal''' translation is "hands full of bananas" but it means empty-handed.''
-# Following the letter or exact words; not [[free]]; not taking [[liberties]].
+# Exactly as [[state]]d; [[read]] or [[understand|understood]] without additional [[interpretation]]; [[accord]]ing to the [[letter]] or verbal expression; [[real]]; not [[figurative]] or [[metaphorical]].
+#: ''The '''literal''' translation is “hands full of bananas” but it means empty-handed.''
+# [[follow|Following]] the letter or exact words; not [[free]]; not taking [[liberties]].
 #: ''A '''literal''' reading of the law would prohibit it, but that is clearly not the intent.''
 # Consisting of, or expressed by, [[letter]]s.
+
 {{webster}}
 
 ====Antonyms====
-* [[figurative]]
+* {{sense|exactly as stated}} [[figurative]]
 
 ====Translations====
 {{trans-top|exactly as stated; read or understood without additional interpretation}}
@@ -29,6 +32,7 @@
 {{trans-bottom}}
 
 {{trans-top|following the letter or exact words, not taking liberties}}
+* Dutch: {{t-|nl|letterlijk}}, {{t|nl|strikt}}
 * Finnish: {{t-|fi|kirjaimellinen}}, {{t-|fi|sananmukainen}}, {{t-|fi|sanatarkka}}
 * Italian: {{t+|it|letterale}}
 {{trans-mid}}
@@ -37,6 +41,7 @@
 {{trans-bottom}}
 
 {{trans-top|consisting of, or expressed by, letters}}
+* Dutch: {{t|nl|letter|alt=letter-}}
 * Italian: {{t+|it|letterale}}
 * Japanese: {{t|ja|文字上の|tr=mojijō-no|sc=Jpan}}
 {{trans-mid}}
@@ -48,8 +53,13 @@
 
 # {{programming}} A value, as opposed to an [[identifier]], written into the [[source code]] of a computer program.
 
-====See also====
+====Translations====
+{{trans-top|programming: value written in the source code}}
+* Dutch: {{t|nl|literaal|m}}
+{{trans-mid}}
+{{trans-bottom}}
 
+====See also====
 * [[constant]]
 
 ----
