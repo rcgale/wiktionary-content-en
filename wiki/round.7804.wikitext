@@ -4,12 +4,12 @@
 {{rank|morning|money|door|276|round|kind|form|hundred}}
 
 ===Pronunciation===
-* (''[[Received Pronunciation|UK]] & [[General American|US]]'') {{IPA|/ˈɹaʊnd/}}, {{SAMPA|/"raUnd/}}
-* {{audio|en-us-round.ogg|Audio (US)}}
-* {{rhymes|aʊnd}}
+* {{a|UK|US}} {{IPA|/ˈɹaʊnd/}}, {{SAMPA|/"raUnd/}}
+*: {{audio|en-us-round.ogg|Audio (US)}}
+*: {{rhymes|aʊnd}}
 
 ===Etymology 1===
-From {{OF.}} ''[[rond]]-, [[rund]]-'' ( > French ''[[rond]]''), representing an earlier ''*rodond'', from Latin ''[[rotundus]]'' ( > Italian ''[[rotondo]]'', Provençal ''[[redon]]'', Spanish ''[[redondo]]'' etc.).  The noun developed partly from the adjective and partly from the corresponding French noun ''[[rond]]''.  Compare ''[[rotund]]''.
+From {{OF.}} {{term|rond|lang=fro}}-, {{term|rund|lang=fr}}- ( > French {{term|rond|lang=fr}}), representing an earlier *{{term||rodond|lang=fro}}, from {{etyl|la}} {{term|rotundus|lang=la}} ( > Italian {{term|rotondo|lang=it}}, Provençal {{term|redon|lang=oci}}, Spanish {{term|redondo|lang=es}} etc.).  The noun developed partly from the adjective and partly from the corresponding {{etyl|fr}} noun {{term|rond|lang=fr}}.  Compare {{term|rotund}} and {{term|rotunda}}.
 
 ====Adjective====
 {{en-adj|er|more}}
@@ -28,13 +28,13 @@ From {{OF.}} ''[[rond]]-, [[rund]]-'' ( > French ''[[rond]]''), representing an 
 # {{linguistics}} [[pronounce|Pronounced]] with the mouth [[open]] in the shape of an "O".
 
 =====Synonyms=====
-* {{italbrac|circular}}: [[circular]], [[cylindrical]], [[discoid]]
-* {{italbrac|spherical}}: [[spherical]]
-* {{italbrac|of corners that lack sharp angles}}: [[rounded]]
-* {{italbrac|plump}}: [[plump]], [[rotund]]
-* {{italbrac|not lacking}}: [[complete]], [[entire]], [[whole]]
-* {{italbrac|of a number}}: [[rounded]]
-* {{italbrac|pronounced with the mouth open}}: [[rounded]]
+* {{sense|circular}} [[circular]], [[cylindrical]], [[discoid]]
+* {{sense|spherical}} [[spherical]]
+* {{sense|of corners that lack sharp angles}} [[rounded]]
+* {{sense|plump}} [[plump]], [[rotund]]
+* {{sense|not lacking}} [[complete]], [[entire]], [[whole]]
+* {{sense|of a number}} [[rounded]]
+* {{sense|pronounced with the mouth open}} [[rounded]]
 
 =====Translations=====
 {{trans-top|circular or cylindrical}}
@@ -156,7 +156,7 @@ From {{OF.}} ''[[rond]]-, [[rund]]-'' ( > French ''[[rond]]''), representing an 
 # {{context|engineering|drafting|CAD}} A rounded [[relief]] or [[cut]] at an [[edge]], especially an outside edge, added for a finished appearance and to break sharp edges.
 
 =====Antonyms=====
-* ''(rounded outside edge):'' [[fillet]]
+* {{sense|rounded outside edge}} [[fillet]]
 
 =====Translations=====
 {{trans-top|circular object}}
@@ -222,7 +222,7 @@ From {{OF.}} ''[[rond]]-, [[rund]]-'' ( > French ''[[rond]]''), representing an 
 * [[round of applause]]
 
 ====Preposition====
-'''round'''
+{{infl|en|preposition}}
 
 # [[around|Around]].
 #: ''I look '''round''' the room quick to make sure it's neat looking.''
@@ -245,7 +245,7 @@ From {{OF.}} ''[[rond]]-, [[rund]]-'' ( > French ''[[rond]]''), representing an 
 {{trans-bottom}}
 
 ====Adverb====
-'''round'''
+{{en-adv|-}}
 
 # [[around|Around]].
 
@@ -254,7 +254,7 @@ From {{OF.}} ''[[rond]]-, [[rund]]-'' ( > French ''[[rond]]''), representing an 
 
 # To shape something into a [[curve]].
 #: ''The carpenter '''rounded''' the edges of the table.''
-# {{italbrac|with "out"}} To [[finish]]; to [[complete]]; to fill out.
+# {{context|with "out"}} To [[finish]]; to [[complete]]; to fill out.
 #: ''She '''rounded out''' her education with only a single mathematics class.''
 # To [[approximate]] a [[number]], especially a decimal number by the closest whole number.
 #: ''Ninety-five '''rounds''' up to one hundred.''
@@ -307,7 +307,7 @@ From {{OF.}} ''[[rond]]-, [[rund]]-'' ( > French ''[[rond]]''), representing an 
 * [['round]]
 
 ===Etymology 2===
-Old English ''[[runian|rūnian]]''.
+{{etyl|ang}} {{term|runian|rūnian|lang=ang}}.
 
 ====Verb====
 {{en-verb}}
@@ -316,7 +316,6 @@ Old English ''[[runian|rūnian]]''.
 
 [[Category:1000 English basic words]]
 [[Category:Drinking]]
-[[Category:English prepositions]]
 [[Category:English words with multiple etymologies]]
 
 [[ar:round]]
