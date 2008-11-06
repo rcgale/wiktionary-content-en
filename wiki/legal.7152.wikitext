@@ -3,12 +3,15 @@
 {{rank|winter|expect|nation|964|legal|spread|enter|consider}}
 
 ===Etymology===
-Latin, ''[[legalis]]'' > ''[[lex]]''
+From {{etyl|la}} {{term|legalis|lang=la}}, from {{term|lex||law|lang=la}}.
+{{rfe|provide glosses}}
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/liːɡl/}}
 * {{audio|en-us-legal.ogg|Audio (US)}}
 * {{rhymes|iːɡəl}}
+
+{{rfp|US}}
 
 ===Adjective===
 {{en-adj}}
@@ -18,7 +21,7 @@ Latin, ''[[legalis]]'' > ''[[lex]]''
 # Something which is [[allow]]ed or [[prescribe]]d by law, such as a ''legal motion''.
 
 ====Antonyms====
-* [[illegal]]
+* {{sense|allowed}} [[illegal]]
 
 ====Derived terms====
 * [[legal beagle]]
@@ -29,8 +32,9 @@ Latin, ''[[legalis]]'' > ''[[lex]]''
 * [[paralegal]]
 
 ====Translations====
-{{trans-top|Relating to the law or to lawyers}}
+{{trans-top|relating to the law or to lawyers}}
 * Chinese: [[法律]]的 (fǎlǜ de)
+* Dutch: {{t|nl|juridisch}}, {{t|nl|recht|alt=rechts-}}
 * Finnish: [[juridinen]], [[laki]]-, [[lakimies]]-
 * German: {{t+|de|juristisch}}, {{t-|de|rechtlich}}
 * Greek: {{t+|el|νομικός|sc=Grek}}
@@ -41,13 +45,14 @@ Latin, ''[[legalis]]'' > ''[[lex]]''
 * Polish: [[prawniczy]], [[prawny]]
 * Portuguese: {{t+|pt|legal}}
 * Russian: {{t|ru|юридический|tr=juridíčeskij}}, {{t|ru|правовой|tr=pravovój}}
-* Slovene: [[pravniški]] {{m}}, [[pravniška]] {{f}}, [[pravniško]] {{n}}
+* Slovene: [[pravniški]]
 * Spanish: {{t-|es|legal}}
 * Swedish: [[rättsligt]]
 {{trans-bottom}}
 
-{{trans-top|Something which has a basis in the law}}
+{{trans-top|something which has a basis in the law}}
 * Chinese: [[法定]]的 (fǎdìng de)
+* Dutch: {{t|nl|juridisch}}
 * Finnish: [[lainmukainen]], [[juridinen]]
 * German: [[juristisch]], [[rechtlich]]
 * Hungarian: {{t|hu|törvényes}}
@@ -57,15 +62,15 @@ Latin, ''[[legalis]]'' > ''[[lex]]''
 {{trans-mid}}
 * Portuguese: {{t+|pt|legal}}
 * Russian: {{t|ru|правомерный|tr=pravomérnyj}}
-* Slovene: [[praven]] {{m}}, [[pravna]] {{f}}, [[pravno]] {{n}}
+* Slovene: [[praven]]
 * Spanish: {{t-|es|legal}}
 * Swedish: [[rättsligt]]
 {{trans-bottom}}
 
-{{trans-top|Something which is allowed or prescribed by law}}
+{{trans-top|something which is allowed or prescribed by law}}
 * Arabic: {{Arab|[[قانوني]]}} {{IPAchar|(qanūniy)}}
 * Chinese: [[合法]]的 (héfǎ de)
-* Dutch: {{t|nl|wettig}}
+* Dutch: {{t|nl|wettelijk}}, {{t|nl|legaal}}, {{t|nl|wettig}}, {{t|nl|legitiem}}
 * Finnish: {{t+|fi|laillinen}}
 * French: {{t|fr|légal}}
 * German: {{t+|de|legal}}
@@ -76,27 +81,28 @@ Latin, ''[[legalis]]'' > ''[[lex]]''
 * Japanese: [[合法な]] (gōhō-na), [[法]][[に]][[則る|則っ]][[た]] (hō-ni-notto-tta)
 * Korean: [[합법적인]] (hapbeopjeokin)
 * Latin: {{t-|la|legitimus}}
-* Polish: [[legalny]] {{m}}, [[prawny]]
+* Polish: [[legalny]], [[prawny]]
 * Portuguese: {{t+|pt|legal}}
 * Russian: {{t|ru|законный|tr=zakónnyj}}
-* Slovene: [[zakonit]] {{m}}, [[zakonita]] {{f}}, [[zakonito]] {{n}}
+* Slovene: [[zakonit]]
 * Spanish: {{t-|es|legal}}
-* Swedish: {{t|sv|lagligt}}, {{t|sv|laglig}}
+* Swedish: {{t|sv|laglig}}
 {{trans-bottom}}
 
-{{checktrans}}
-{{top}}
-* {{ttbc|Dutch}}: [[wettelijk]], [[legaal]]
+{{checktrans-top}}
 * {{ttbc|Esperanto}}: [[laŭleĝa]], [[legala]]
-* {{ttbc|Interlingua}}: legal
+* {{ttbc|Interlingua}}: {{t|ia|legal}}
 * {{ttbc|Indonesian}}: [[hukum]]
-{{bottom}}
+{{trans-bottom}}
 
 [[Category:Law]]
 
 ----
 
 ==German==
+
+{{rfe|lang=German }}
+{{rfp|lang=German }}
 
 ===Adjective===
 '''legal'''
@@ -110,28 +116,29 @@ Latin, ''[[legalis]]'' > ''[[lex]]''
 
 ==Portuguese==
 
+{{rfe|lang=Portuguese }}
+{{rfp|lang=Portuguese }}
+
 ===Adjective===
 {{pt-adj-mf|pl=legais}}
 
 # [[legal#English|legal]]
-# {{familiar|lang=pt}} [[cool]], [[nice]] ''(person)''
-# {{familiar|lang=pt}} [[good]] ''(thing)''
+# {{familiar|lang=pt}} [[cool]], [[nice]] {{i|person}}
+# {{familiar|lang=pt}} [[good]] {{i|thing}}
 
 ====Antonyms====
-;of 1
-* [[ilegal]]
-;of 2
-* [[chato]]
+* {{sense|legal}} [[ilegal]]
+* {{sense|cool}} [[chato]]
 
 ----
 
 ==Romanian==
 
 ===Etymology===
-{{etyl|fr|ro}} {{term|légal|lang=fr}}
+From {{etyl|fr|ro}} {{term|légal|lang=fr}}.
 
 ===Pronunciation===
-* {{IPA|[leˈgal]|lang=ro}}
+* {{IPA|/leˈgal/|lang=ro}}
 
 ===Adjective===
 {{ro-adj|4}}
@@ -152,10 +159,13 @@ Latin, ''[[legalis]]'' > ''[[lex]]''
 
 ==Spanish==
 
+{{rfe|lang=Spanish }}
+{{rfp|lang=Spanish }}
+
 ===Adjective===
 {{es-adj|pl=legales}}
 
-# Legal.
+# [[#English|legal]]
 
 ====Antonyms====
 * [[ilegal]]
