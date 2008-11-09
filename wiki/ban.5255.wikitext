@@ -1,12 +1,12 @@
-{{also|Appendix:Variations of "ban"|-ban}}
+{{also|Appendix:Variations of "ban"}}
 ==English==
 
 ===Pronunciation===
-* {{IPA|bæn}}
+* {{IPA|/bæn/}}, {{SAMPA|/b{n/}}
 * {{rhymes|æn}}
 
 ===Etymology 1===
-Old English [[bannan]]
+{{etyl|ang}} {{term|bannan|lang=ang}} 
 
 ====Verb====
 {{en-verb|bans|banning|banned|banned}}
@@ -35,22 +35,26 @@ Old English [[bannan]]
 
 # [[prohibition]]
 
-=====Translations=====
-* Finnish: {{t-|fi|kielto}}
-* French: {{t+|fr|interdiction}}
-* Italian: {{t-|it|proibizione}}, {{t+|it|divieto}}
-* Russian: {{t|ru|запрет|m|tr=zapr'ét|sc=Cyrl}}, {{t|ru|запрещение|n|tr=zapr'eš'énije|sc=Cyrl}}, {{t|ru|бан|m|tr=ban|sc=Cyrl}} ''internet slang''
-* [[Telugu]]: [[నిషేధము]] (nishaedhamu)
-
 =====Related terms=====
 * [[black ban]]
 * [[total fire ban]]
+
+=====Translations=====
+{{trans-top|prohibition}}
+* Finnish: {{t-|fi|kielto}}
+* French: {{t+|fr|interdiction}}
+* Italian: {{t-|it|proibizione}}, {{t+|it|divieto}}
+{{trans-mid}}
+* Russian: {{t|ru|запрет|m|tr=zapr'ét|sc=Cyrl}}, {{t|ru|запрещение|n|tr=zapr'eš'énije|sc=Cyrl}}, {{t|ru|бан|m|tr=ban|sc=Cyrl}} ''internet slang''
+* [[Telugu]]: [[నిషేధము]] (nishaedhamu)
+{{trans-bottom}}
 
 ====See also====
 * [[banns]]
 
 ===Etymology 2===
-From Romanian
+From {{etyl|ro}}
+:{{etystub}}
 
 ====Noun====
 {{en-noun|bani}}
@@ -66,14 +70,12 @@ From Romanian
 ==Indonesian==
 
 ===Etymology===
-From Dutch '''[[band]]''' (band, [[connection]], tire/tyre...).
+From {{etyl|nl|id}} {{term|band||band, [[connection]], tire/tyre|lang=id}}
 
 ===Noun===
 {{infl|id|noun}}
 
 # [[tyre]] / [[tire]]
-
-[[Category:Indonesian nouns]]
 
 ----
 
@@ -83,7 +85,7 @@ From Dutch '''[[band]]''' (band, [[connection]], tire/tyre...).
 * {{IPA|[ban]|lang=ga}}
 
 ===Noun===
-'''ban'''
+{{infl|ga|genitive plural}}
 
 # [[genitive|Genitive]] [[plural]] of [[bean#Irish|bean]] '[[woman]]'
 
@@ -118,28 +120,24 @@ From Dutch '''[[band]]''' (band, [[connection]], tire/tyre...).
 ==[[O'odham]]==
 
 ===Noun===
-'''ban'''
+{{infl|ood|noun}}
 
 # [[coyote]]
-
-[[Category:O'odham nouns]]
 
 ----
 
 ==Old English==
 
 ===Etymology===
-From Germanic ''*baina-''.  Cognate with Old Frisian [[ben|bēn]], Old Saxon [[ben|bēn]] (Dutch [[been]] ‘bone, leg’), Old High German [[bein]] (German [[Bein]] ‘leg’), Old Norse [[bein]] (Icelandic [[bein]] ‘bone’).
+From {{etyl|gem|ang}} ''*baina-''.  Cognate with Old Frisian {{term|ben|bēn|lang=ofs}}, Old Saxon {{term|ben|bēn|lang=osx}} (Dutch {{term|been||bone, leg|lang=nl}}), Old High German {{term|bein|lang=goh}} (German {{term|Bein||leg|lang=de}}), Old Norse {{term|bein|lang=non}} (Icelandic {{term|bein||bone|lang=is}}).
 
 ===Pronunciation===
 * {{IPA|/ba:n/|lang=ang}}
 
 ===Noun===
-{{unicode|'''bān'''}} {{n}} (plural same)
+{{infl|ang|noun|head=bān|g=n|plural|bān}}
 
 # [[bone]]; a [[bone]]
-
-[[Category:Old English nouns]]
 
 ----
 
@@ -161,23 +159,24 @@ Usually used in the plural form, [[bani]]
 ==[[Volapük]]==
 
 ===Etymology===
-French ''[[bain]]''
+{{etyl|fr|vo}} {{term|bain|lang=fr}}
 
 ===Noun===
-'''ban'''
+{{infl|vo|noun}} 
 
 # [[bath]]
-
-[[Category:Volapük language]]
-
+1
 ----
 
 ==Welsh==
 
 ===Noun===
-'''ban'''
+{{infl|cy|noun|g=m}}
 
 # [[peak]]
+
+====Mutation====
+{{cy-mut-b|an}}
 
 [[ca:ban]]
 [[el:ban]]
