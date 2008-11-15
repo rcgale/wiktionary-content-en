@@ -3,14 +3,14 @@
 ==English==
 
 ===Pronunciation===
-* {{a|GenAM}}: bäg, {{IPA|/bɑg/}}, /<tt>bAg</tt>/
+* {{a|GenAM}}: {{enPR|bäg}}, {{IPA|/bɑg/}}, {{SAMPA|/bAg/}}
+*: {{audio|en-us-bog.ogg|Audio (US)}}
 * {{a|RP}} {{enPR|bŏg}}, {{IPA|/bɒɡ/}}, {{SAMPA|/bQg/}}
-* {{audio|en-us-bog.ogg|Audio (US)}}
-* {{audio|en-uk-bog.ogg|Audio (UK)}}
-* {{rhymes|ɒɡ}}
+*: {{audio|en-uk-bog.ogg|Audio (UK)}}
+*: {{rhymes|ɒɡ}}
 
 ===Etymology 1===
-Irish and Scottish Gaelic ''[[bogach]]'', soft, boggy ground, from ''bog'', soft
+{{etyl|ga}} and {{etyl|gd}} {{term|bogach||soft, boggy ground|lang=gd}} from {{term|bog||soft|lang=gd}}
 
 ====Noun====
 {{en-noun}}
@@ -19,8 +19,8 @@ Irish and Scottish Gaelic ''[[bogach]]'', soft, boggy ground, from ''bog'', soft
 # {{Ireland|UK|coarse|slang}} A [[toilet]].
 
 =====Synonyms=====
-* {{i-c|expanse of marshland}} [[marsh]], [[moor]], [[swamp]]
-* {{i-c|coarse slang: a toilet}} [[shithouse]] (''taboo slang''), [[dunny]] (''Australia'')
+* {{sense|expanse of marshland}} [[marsh]], [[moor]], [[swamp]]
+* {{sense|coarse slang: a toilet}} [[shithouse]] (''taboo slang''), [[dunny]] (''Australia'')
 
 =====Derived terms=====
 * [[bog bilberry]]
@@ -64,10 +64,18 @@ Irish and Scottish Gaelic ''[[bogach]]'', soft, boggy ground, from ''bog'', soft
 * [[bog up]]
 
 =====Translations=====
-* German: {{i|intransitive}} [[stecken]] [[bleiben]] (1), [[versinken]] (1), [[versumpfen]] (1), [[abhauen]] (2); {{i|transitive}} [[blockieren]], [[versenken]] (1)
+{{trans-top|to become mired or stuck}}
+* {{ttbc|German}}: {{qualifier|intransitive}} [[stecken]] [[bleiben]], [[versinken]], [[versumpfen]]; {{qualifier|transitive}} [[blockieren]], [[versenken]]
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to make a mess of something}}
+* {{ttbc|German}} [[abhauen]]
+{{trans-mid}}
+{{trans-bottom}}
 
 ===Etymology 2===
-by shortening and euphemistic alteration from [[bugger]]
+by shortening and euphemistic alteration from {{term|bugger}}
 
 ====Verb====
 {{en-verb|bogs|bogging|bogged}}
@@ -76,10 +84,6 @@ by shortening and euphemistic alteration from [[bugger]]
 
 =====Derived terms=====
 * [[bog off]]
-
-[[Category:Celtic derivations]]
-[[Category:Irish derivations]]
-[[Category:Scottish Gaelic derivations]]
 
 ----
 
@@ -188,7 +192,7 @@ From {{proto|Slavic|bogъ|lang=hr}}.
 ==Hungarian==
 
 ===Etymology===
-From the same Finno-Ugric root *''pengke'' as Estonian [[pung#Estonian|pung]]
+From the same {{etyl|fiu}} root *''pengke'' as Estonian {{term|pung|lang=et}}
 
 ===Pronunciation===
 * {{IPA|/ˈbog/|lang=hu}}
@@ -282,19 +286,17 @@ From {{proto|Slavic|bogъ|lang=dsb}}.
 
 ==Old English==
 
+===Etymology===
+Common {{etyl|gem}} *{{term||boguz|lang=gem}}  Cognate with Old Saxon {{term|bog|bōg|lang=osx}} (Dutch {{term|boeg||shoulders, chest of a horse|lang=nl}}), Old High German {{term|buog|lang=goh}} (German {{term|Bug|horse’s hock, ship’s prow|lang=de}}), Old Norse {{term|bógr|lang=non}} (Icelandic {{term|bógur|lang=is}}, Swedish {{term|bog||shoulder|lang=sv).
+
 ===Pronunciation===
 * {{IPA|/bo:g/|lang=ang}}
 
-===Etymology===
-Common Germanic *''[[boguz]]''.  Cognate with Old Saxon ''bōg'' (Dutch ''boeg'' ‘shoulders, chest of a horse’), Old High German ''[[buog]]'' (German ''[[Bug]]'' ‘horse’s hock, ship’s prow’), Old Norse ''[[bógr]]'' (Icelandic ''[[bógur]]'', Swedish ''bog'' ‘shoulder’).
-
 ===Noun===
-'''bōg''' {{n}} ({{p}} '''bōg''')
+{{infl|ang|noun|head=bōg|g=n|plural|[[bog|bōg]]}}
 
 # the [[arm]] or [[shoulder]]
 # a [[branch]] or [[bough]] of a tree
-
-[[Category:Old English nouns]]
 
 ----
 
@@ -304,7 +306,7 @@ Common Germanic *''[[boguz]]''.  Cognate with Old Saxon ''bōg'' (Dutch ''boeg''
 * {{IPA|[bog]|lang=gd}}
 
 ===Adjective===
-'''bog'''
+{{infl|sg|adjective}}
 
 # [[soft]]
 
@@ -338,8 +340,6 @@ First declension; forms of the [[positive]] degree:
 |}
 
 {{compar}}/{{superl}}: [[buige]]
-
-[[Category:Scottish Gaelic adjectives]]
 
 ----
 
@@ -379,6 +379,8 @@ From {{proto|Slavic|bogъ|lang=sl}}.
 {{infl|sl|noun|g=m}}
 
 # [[god]]
+
+[[Category:sl:Religion}}
 
 [[af:bog]]
 [[zh-min-nan:bog]]
