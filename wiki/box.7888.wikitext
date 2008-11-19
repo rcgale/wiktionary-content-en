@@ -569,9 +569,9 @@
 ====Verb====
 {{en-verb|box|es}}
 
-# To place inside a box.
-# To [[hem]] in.
-# {{computing}} {{jargon}} To place a [[primitive value]] into an object (such as an [[int]] into an [[Integer]]) -- see also [[autoboxing]].
+# {{transitive}} To place inside a box.
+# {{transitive}} {{context|usually with 'in'}} To [[hem]] in.
+# {{transitive}} {{computing|jargon}} To place a value of a [[primitive type]] into a corresponding [[object]].
 
 =====Synonyms=====
 * {{i-c|to place inside a box}} [[box up]], [[case]], [[embox]], [[encase]], [[pack]], [[package]], [[package up]]
@@ -580,6 +580,7 @@
 =====Derived terms=====
 {{rel-top|derived terms}}
 * [[abox]]
+* [[autoboxing]]
 * [[box about]]
 * [[boxed]]
 * [[boxer]]
