@@ -4,34 +4,42 @@
 ===Pronunciation===
 * {{IPA|/ɪnˈhɛɹətəns/}}, {{SAMPA|/In"hEr@t@ns/}}
 
+===Etymology===
+Recorded since 1473, from to [[inherit]], itself from {{OF.}} [[enheriter]] "make heir, appoint as heir," from {{LL.}} [[inhereditare]] "to appoint as heir," from {{etyl|la}} [[in-]] "in" + [[hereditare]] "to inherit," from [[heres]] (gen. heredis) "heir". 
+
 ===Noun===
 {{en-noun|s|-}}
 
 # The passing of [[title]] to an [[estate]] upon death.
-# {{countable}} That which a person in entitled to inherit.
-# (biology) The [[hereditary]] passing of biological attributes from the parents to its [[offspring]].
+# {{countable}} That which a person in entitled to [[inherit]], by law or [[testament]].
+# (biology) The [[hereditary]] passing of biological [[attribute]]s from ancestors to their [[offspring]].
 # {{computing}} In object-oriented programming, the mechanism whereby parts of a [[superclass]] are available to instances of its [[subclass]].
 
 ====Related terms====
 * [[inherit]]
+* [[inheritable]]
+* [[inheritor]]
 * [[preheritance]]
 
 ====Translations====
-{{trans-top|the passing of title to an estate upon death}}
-* Czech: {{t-|cs|dědičnost|f}}
-* Finnish: {{t-|fi|periminen}}
-{{trans-mid}}
-* Russian: [[наследование]]
-{{trans-bottom}}
-
 {{trans-top|that which a person in entitled to inherit}}
+* Dutch: [[erfenis]], [[erfdeel]] {{n}}
 * Finnish: {{t+|fi|perintö}}
 {{trans-mid}}
 * Russian: {{t+|ru|наследство|sc=Cyrl}}
 {{trans-bottom}}
 
-{{trans-top|the hereditary passing of biological attributes from the parents to its off-spring}}
+{{trans-top|the passing of title to an estate upon death}}
 * Czech: {{t-|cs|dědičnost|f}}
+* Dutch: [[erfenis]], [[nalatenschap]]
+* Finnish: {{t-|fi|periminen}}
+{{trans-mid}}
+* Russian: [[наследование]]
+{{trans-bottom}}
+
+{{trans-top|the hereditary passing of biological attributes from ancestors to off-spring}}
+* Czech: {{t-|cs|dědičnost|f}}
+* Dutch: [[erfelijkheid]] 
 * Finnish: {{t+|fi|perimä}}
 {{trans-mid}}
 * Russian: [[наследование]]
@@ -45,12 +53,14 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-*{{ttbc|Dutch}}: [[erfenis]] (1)
-*{{ttbc|Croatian}}: {{t-|hr|nasljeđivanje|n}} (1,2,3)
-*{{ttbc|Italian}}: [[eredità]]
-*{{ttbc|Old English}}: [[yrfe]] {{n}}
-*{{ttbc|Telugu}}:(vArasatvamu){{t|te|వారసత్వము|sc=Telu}}
+* {{ttbc|Croatian}}: {{t-|hr|nasljeđivanje|n}} (1,2,3)
+* {{ttbc|Italian}}: [[eredità]]
+* {{ttbc|Old English}}: [[yrfe]] {{n}}
+* {{ttbc|Telugu}}:(vArasatvamu){{t|te|వారసత్వము|sc=Telu}}
 {{checktrans-bottom}}
+
+===References===
+* {{EtymOnLine}}
 
 [[ang:inheritance]]
 [[fr:inheritance]]
