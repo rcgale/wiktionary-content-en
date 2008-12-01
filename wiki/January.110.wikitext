@@ -38,6 +38,7 @@ Re-[[Latinize]]d from {{etyl|enm}} ''[[Ieneuer]]'' < Old Norman French ''[[genev
 * [[Abkhaz]]: {{t|ab|ажьырныҳәа|tr=aẓ̌ərnəḥwa}}
 * [[Afrikaans]]: {{t-|af|Januarie}}
 * [[Alabama]]: {{tø|akz|lokbahaháhpa}}
+* Albanian: {{t+|sq|Janari}}
 * [[Alemannic]]: {{t-|als|januar}}
 * [[Amharic]]: {{t-|am|ጃንዩዌሪ}}
 * Arabic:
@@ -119,8 +120,8 @@ Re-[[Latinize]]d from {{etyl|enm}} ''[[Ieneuer]]'' < Old Norman French ''[[genev
 * Lao: {{t-|lo|ມັງກອນ|sc=Laoo}}
 * Latin: {{t+|la|Ianuarius|m}}
 * Latvian: {{t-|lv|Janvāris}}
-{{trans-mid}}
 * [[Ligurian]]: {{tø|lij|zennâ}}
+{{trans-mid}}
 * [[Limburgish]]: {{t+|li|Jannewarie}}
 * [[Lingala]]: {{t-|ln|sánzá ya yambo}}
 * Lithuanian: {{t+|lt|sausis|m|xs=Lithuanian}}
@@ -154,7 +155,7 @@ Re-[[Latinize]]d from {{etyl|enm}} ''[[Ieneuer]]'' < Old Norman French ''[[genev
 * Portuguese: {{t+|pt|janeiro}}
 * [[Punjabi]]: {{t-|pa|ਜਨਵਰੀ}}
 * [[Quechua]]: {{t-|qu|qhulla puquy killa}}
-* Romanian: {{t+|ro|ianuarie|m}}
+* Romanian: {{t+|ro|ianuarie|m}}, {{t+|ro|gerar}}
 * Russian: {{t+|ru|январь|m|sc=Cyrl|tr=janvár’}}
 * [[Sami]]:
 *: Inari: [[uđđâivemáánu]]
@@ -166,8 +167,8 @@ Re-[[Latinize]]d from {{etyl|enm}} ''[[Ieneuer]]'' < Old Norman French ''[[genev
 * [[Scots]]: {{tø|sco|Januar}}
 * [[Scottish Gaelic]]: {{t-|gd|am Faoilleach}}
 * Serbian:
-*: Cyrillic: {{t+|sr|јануар|sc=Cyrl|m}}, {{t|sr|сечањ|m}}
-*: Roman: {{t+|sr|januar|m}}, {{t+|sr|sečanj|m}}
+*: Cyrillic: {{t+|sr|јануар|sc=Cyrl|m}}, {{t-|sr|сечањ|m}}
+*: Roman: {{t+|sr|januar|m}}, {{t-|sr|sečanj|m}}
 * [[Shona]]: [[kurume]]
 * [[Sicilian]]: {{t+|scn|jinnaru|m}}
 * [[Silesian]]: {{tø|szl|styčyń}}
@@ -189,17 +190,19 @@ Re-[[Latinize]]d from {{etyl|enm}} ''[[Ieneuer]]'' < Old Norman French ''[[genev
 * [[Tetum]]: {{tø|tet|janeiru}}
 * Thai: {{t-|th|มกราคม|tr=mōhk gà raa khohm|sc=Thai}}
 * [[Tok Pisin]]: {{t-|tpi|janueri}}
-* Turkish: {{t+|tr|ocak}}, [[Kanuni Sani]] (''obsolete'')
-* Ukrainian: {{t+|uk|січень|tr=síčen’|sc=Cyrl}}
+* Turkish: {{t+|tr|ocak}}, {{t|tr|Kanuni Sani}} (''obsolete'')
+* Ukrainian: {{t+|uk|січень|m|tr=síčen’|sc=Cyrl}}
 * [[Upper Sorbian]]: {{t-|hsb|januar|m}}
 * Urdu: {{t-|ur|جنوری|sc=ur-Arab}}
 * [[Volapük]]: {{t+|vo|yanul}}
-* [[Võro]]: {{tø|fiu-vro|vahtsõaastakuu}}
+* [[Võro]]: {{tø|fiu-vro|vahtsõaastakuu}}, {{tø|fiu-vro|kaarnakuu}}
 * [[Walloon]]: {{t-|wa|djanvî}}
 * [[Waray]]: {{tø|war|enero}}
-* Welsh: {{t-|cy|Ionawr|f|xs=Welsh}}
-* [[West Flemish]]: {{tø|vls|januoari}}
-* [[West Frisian]]: {{t+|fy|jannewaris}}, {{t|fy|foarmoanne}}
+* Welsh: {{t-|cy|Ionawr|f|xs=Welsh}} <!-- [[Ionwar]] has m as the gender -->
+* [[West Flemish]]: {{t-|vls|januoari}}
+* [[West Frisian]]: {{t+|fy|jannewaris|c}}, {{t+|fy|foarmoanne}}
+*: [[Northern Frisian]]: {{tø|frr|januaar}}
+*: [[Saterland Frisian]]: {{tø|stq|Januoar}}
 * [[Yakut]]: {{tø|sah|тохсунньу}}
 * Yiddish: {{t-|yi|יאנואר}}
 * [[Yoruba]]: {{t-|yo|january}}
@@ -207,12 +210,11 @@ Re-[[Latinize]]d from {{etyl|enm}} ''[[Ieneuer]]'' < Old Norman French ''[[genev
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|Albanian}}: {{t+|sq|janari}}, [[janar]]
 * {{ttbc|Arabic}}: {{t|ar|يناير|يَنَايِر|m|tr=yanāyir|sc=Arab}}, {{t|ar|كانون الثاني|m|tr=Kánun Ath-tháni|sc=Arab}}, {{t+|ar|يناير|sc=Arab}}
 * {{ttbc|Cornish}}: {{t-|kw|Genver}}, {{t-|kw|Mys Genver}}, {{t-|kw|mis Genver}}
 * [[Javanese]]: [[januar]], {{t-|jv|januari}}
 {{trans-mid}}
-* [[Lower Sorbian]]: {{t|dsb|januar|m}}, {{tø|dsb|wezymski|m}}
+* [[Lower Sorbian]]: {{tø|dsb|januar|m}}, {{tø|dsb|wezymski|m}}
 * [[Luxembourgish]]: [[Jannewarie]], {{t-|lb|Januar}}
 * Maori: {{t-|mi|kohi-tātea}}, [[hänuere]]
 * [[Marathi]]: [[जानेवारी]] (janvarī), {{t-|mr|जानेवारी महिना}}
