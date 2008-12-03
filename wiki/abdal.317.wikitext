@@ -13,10 +13,10 @@
 ==Bosnian==
 
 ===Etymology===
-From {{etyl|tr|bs}} {{term|abdal|lang=tr}} < {{etyl|ar|bs}} plural {{term|ابدال|tr=abdāl|sc=Arab|lang=ar}}, plural of {{term|بدل|tr=bádal|sc=Arab|lang=ar||a [[substitute]]; a good, religious man; [[saint]]}}, from {{term|بدل|tr=bádala|sc=Arab|lang=ar||to replace}} or {{Arab|[[بديل|بَدِيل]]}} (''badīl'').
+From {{etyl|ota|bs}} {{term|ابدال|tr=abdal|sc=ota-Arab|lang=ota}} < {{etyl|ar|bs}} {{term|ابدال|tr=abdāl|sc=Arab|lang=ar}}, plural of {{term|بدل|tr=bádal|sc=Arab|lang=ar||a [[substitute]]}} < {{term|بدل|tr=bádala|sc=Arab|lang=ar||to replace}}.
 
 ===Noun===
-'''abdal''' {{m}} {{s}} ({{p}}: '''abdali''')
+{{bs-noun|g=m|abdali}}
 
 # [[fool]]
 # [[naïf]]
@@ -24,25 +24,42 @@ From {{etyl|tr|bs}} {{term|abdal|lang=tr}} < {{etyl|ar|bs}} plural {{term|ابد
 # [[simpleton]]
 
 ====Synonyms====
-* [[budala#Bosnian|budala]]
-* [[glupak#Bosnian|glupak]]
-* [[naivčina#Bosnian|naivčina]]
+* {{l|bs|budala}}
+* {{l|bs|glupak}}
+* {{l|bs|naivčina}}
 
-[[Category:Bosnian nouns]]
+----
+
+==Serbian==
+
+===Etymology===
+From {{etyl|ota|sr}} {{term|ابدال|tr=abdal|sc=ota-Arab|lang=ota}} < {{etyl|ar|sr}} {{term|ابدال|tr=abdāl|sc=Arab|lang=ar}}, plural of {{term|بدل|tr=bádal|sc=Arab|lang=ar||a [[substitute]]}} < {{term|بدل|tr=bádala|sc=Arab|lang=ar||to replace}}.
+
+===Noun===
+{{sr-noun|g=m|pl=abdali|cyr=абдал}}
+
+# [[fool]]
+# [[naïf]]
+# [[idiot]]
+# [[simpleton]]
+
+====Synonyms====
+* {{l|sr|budala}}
+* {{l|sr|glupak}}
+* {{l|sr|naivčina}}
 
 ----
 
 ==Turkish==
 
 ===Alternative spellings===
-* [[aptal#Turkish|aptal]]
+* {{l|tr|aptal}}
 
 ===Etymology===
-{{etyl|ar|tr}} plural {{term|ابدال|tr=abdāl|sc=Arab|lang=ar}}, plural of {{term|بدل|tr=bádal|sc=Arab|lang=ar||a [[substitute]]; a good, religious man; [[saint]]}}, from {{term|بدل|tr=bádala|sc=Arab|lang=ar||to replace}} or {{Arab|[[بديل|بَدِيل]]}} (''badīl'').
-
+From {{etyl|ar|tr}} {{term|ابدال|tr=abdāl|sc=Arab|lang=ar}}, plural of {{term|بدل|tr=bádal|sc=Arab|lang=ar||a [[substitute]]}} < {{term|بدل|tr=bádala|sc=Arab|lang=ar||to replace}}.
 
 ===Noun===
-'''abdal'''
+{{infl|tr|abdal}}
 
 # [[fool]]
 # [[naïf]]
@@ -51,9 +68,7 @@ From {{etyl|tr|bs}} {{term|abdal|lang=tr}} < {{etyl|ar|bs}} plural {{term|ابد
 # A religious [[devotee]] or [[dervish]] in [[Persia]].
 
 ====Synonyms====
-* [[budala#Bosnian|budala]]
-
-[[Category:Turkish nouns]]
+* {{l|tr|budala}}
 
 [[bs:abdal]]
 [[et:abdal]]
