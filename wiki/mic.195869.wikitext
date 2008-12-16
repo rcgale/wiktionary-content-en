@@ -18,6 +18,7 @@
 '''MIC'''
 
 # Minor In Consumption (of alcohol)
+# Message Integrity Check. A technology that is employed to prevent an attacker from capturing data packets, altering them and resending them. The MIC provides a strong mathematical function in which the receiver and the transmitter each compute and then compare the MIC. If it does not match, the data is assumed to have been tampered with and the packet is dropped.
 
 ==={{abbreviation}}===
 '''MIC'''
