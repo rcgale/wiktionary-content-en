@@ -86,7 +86,7 @@ When a word ending in /t/, /d/, /s/, or /z/ is followed by {{term|you}}, these m
 * [[Ewe]]: [[wò]]
 * Finnish: {{t+|fi|sinä}}, {{t+|fi|sinä|alt=sinun}}
 * German: {{qualifier|familiar}} {{t+|de|du}}, {{qualifier|polite}} {{t+|de|Sie}}
-* Greek: {{t+|el|εσύ}}
+* Greek: {{t+|el|εσύ|sc=Grek}}
 * Hindi: {{qualifier|familiar}} {{t-|hi|तू|tr=tū|sc=Deva|xs=Hindi}}; {{qualifier|mid-polite}} {{t-|hi|तुम|tr=tum|sc=Deva|xs=Hindi}}; {{qualifier|polite}} {{t-|hi|आप|tr=āp|sc=Deva|xs=Hindi}}
 * Icelandic: {{qualifier|familiar}} {{t+|is|þú}}; {{qualifier|polite|rare in modern Icelandic}} {{t+|is|þér}}
 * Irish: {{t-|ga|tú|xs=Irish}}, {{qualifier|emphatic}} {{t-|ga|tusa|xs=Irish}}
@@ -106,8 +106,8 @@ When a word ending in /t/, /d/, /s/, or /z/ is followed by {{term|you}}, these m
 *: {{qualifier|formal, accords with the addressee's gender}} {{t-|pt|o senhor|m}}, {{t-|pt|a senhora|f}}
 * Romanian: {{qualifier|familiar}} {{t+|ro|tu}}, {{qualifier|polite}} {{t|ro|dumneata}}, {{qualifier|formal}} {{t-|ro|dumneavoastră}}
 * Russian: {{qualifier|familiar}} {{t+|ru|ты|tr=ty|sc=Cyrl}}, {{qualifier|polite}} {{t+|ru|вы|tr=vy|sc=Cyrl}}
-* [[Scots]]: {{t-|sco|ye}}
-* [[Scottish Gaelic]]: {{t-|gd|thu}}, {{t-|gd|tu}} (''informal''), {{t-|gd|sibh}} (''formal'')
+* [[Scots]]: {{tø|sco|ye|xs=Scots}}
+* [[Scottish Gaelic]]: {{t-|gd|thu|xs=Scottish Gaelic}}, {{t-|gd|tu|xs=Scottish Gaelic}} (''informal''), {{t-|gd|sibh|xs=Scottish Gaelic}} (''formal'')
 * Slovene: {{t+|sl|ti}} ''familiar'',  {{t+|sl|vi}} ''polite''
 * Spanish: {{qualifier|familiar}} [[tú]], {{qualifier|polite}} [[usted]]
 * [[Taos]]: [[ę̋]]
@@ -129,10 +129,10 @@ When a word ending in /t/, /d/, /s/, or /z/ is followed by {{term|you}}, these m
 * Esperanto: {{t+|eo|vin|xs=Esperanto}}, {{t+|eo|cin|xs=Esperanto}} {{qualifier|familiar, rarely used}}
 * [[Ewe]]: [[wò]]
 * Finnish: {{t+|fi|sinä|alt=sinut}} {{i|accusative}}, {{t-|fi|telic}}, {{t+|fi|sinä|alt=sinua}} {{i|partitive}}, {{t-|fi|atelic}}
-* Greek: {{t+|el|εσένα}}
+* Greek: {{t-|el|εσένα|sc=Grek}}
 * Hindi: {{qualifier|familiar}} {{t-|hi|तू|tr=tū|sc=Deva|xs=Hindi}}; {{qualifier|mid-polite}} {{t-|hi|तुम|tr=tum|sc=Deva|xs=Hindi}}; {{qualifier|polite}} {{t-|hi|आप|tr=āp|sc=Deva|xs=Hindi}}
 * Icelandic: {{qualifier|familiar}} {{t+|is|þig}}, {{qualifier|polite, rare in modern Icelandic}} {{t+|is|yður}}
-* Irish: {{t|ga|thú|xs=Irish}}, {{qualifier|emphatic}} {{t|ga|thusa|xs=Irish}}
+* Irish: {{t|ga|thú|xs=Irish}}, {{qualifier|emphatic}} {{t-|ga|thusa|xs=Irish}}
 * Japanese: {{qualifier|generic}} [[君]] (きみ, kimi), {{qualifier|polite}} [[貴方]] ([[あなた]], anata), {{qualifier|friendly or slightly rude}} [[お前]] ([[おまえ]], omaé), {{qualifier|highly insulting}} [[貴様]] ([[きさま]], kisamá)
 {{trans-mid}}
 * Old English: {{t-|ang|þe|alt=þē|xs=Old English}}
@@ -143,8 +143,8 @@ When a word ending in /t/, /d/, /s/, or /z/ is followed by {{term|you}}, these m
 *: {{qualifier|formal, accords with the addressee's gender}} {{t-|pt|o senhor|m}}, {{t-|pt|a senhora|f}}
 * Romanian: {{qualifier|accusative}} [[te]] {{qualifier|unstressed}}, [[pe]] [[tine]] {{qualifier|stressed}}; {{qualifier|dative}} [[îţi]] {{qualifier|unstressed}}, [[ţie]] {{qualifier|stressed}}
 * Russian: {{qualifier|familiar}} {{t+|ru|тебя|tr=tebjá|sc=Cyrl}}, {{t+|ru|тебе|tr=tebé|sc=Cyrl}}, {{t+|ru|тобой|tr=tobój|sc=Cyrl}}; {{qualifier|polite}} {{t+|ru|вас|tr=vas|sc=Cyrl}}, {{t+|ru|вам|tr=vam|sc=Cyrl}}, {{t+|ru|вами|tr=vami|sc=Cyrl}}
-* [[Scots]]: {{t-|sco|ye}}, {{t-|sco|you}}
-* [[Scottish Gaelic]]: {{t-|gd|thu}}, {{t-|gd|sibh}} (''formal'')
+* [[Scots]]: {{tø|sco|ye|xs=Scots}}, {{tø|sco|you|xs=Scots}}
+* [[Scottish Gaelic]]: {{t-|gd|thu|xs=Scottish Gaelic}}, {{t-|gd|sibh|xs=Scottish Gaelic}} (''formal'')
 * Spanish: {{qualifier|informal}} {{t+|es|te}}, {{qualifier|formal}} {{t+|es|se}}
 * [[Taos]]: [[ę̋]]
 {{trans-bottom}}
@@ -234,8 +234,8 @@ When a word ending in /t/, /d/, /s/, or /z/ is followed by {{term|you}}, these m
 * [[Romani]]: [[tu]]
 * Romanian: {{qualifier|familiar}} [[voi]], {{qualifier|polite}} [[dumneavoastră]]
 * Russian: [[вы]] (vy)
-* [[Scots]]: {{t-|sco|ye}}, {{t-|sco|yez}}, {{t-|sco|yiz}}, {{t-|sco|youz}}
-* [[Scottish Gaelic]]: {{t-|gd|sibh}}
+* [[Scots]]: {{tø|sco|ye|xs=Scots}}, {{tø|sco|yez|xs=Scots}}, {{tø|sco|yiz|xs=Scots}}, {{tø|sco|youz|xs=Scots}}
+* [[Scottish Gaelic]]: {{t-|gd|sibh|xs=Scottish Gaelic}}
 * [[Sicilian]]: [[vuiàtri]], [[vuàutri]]
 * Slovak: {{t-|sk|vy}}
 * Slovene: {{t+|sl|vi}}
@@ -310,8 +310,8 @@ When a word ending in /t/, /d/, /s/, or /z/ is followed by {{term|you}}, these m
 *: ''accusative'': [[vă]] {{i|unstressed}}, [[pe]] [[voi]] {{i|stressed}}
 *: ''dative'': [[vă]] {{i|unstressed}}, [[vouă]] {{i|stressed}}
 * Russian: [[вас]] (vas), [[вам]] (vam), [[вами]] (vami)
-* [[Scots]]: {{t-|sco|ye}}, {{t-|sco|yez}}, {{t-|sco|yiz}}, {{t-|sco|youz}}
-* [[Scottish Gaelic]]: {{t-|gd|sibh}}
+* [[Scots]]: {{tø|sco|ye|xs=Scots}}, {{tø|sco|yez|xs=Scots}}, {{tø|sco|yiz|xs=Scots}}, {{tø|sco|youz|xs=Scots}}
+* [[Scottish Gaelic]]: {{t-|gd|sibh|xs=Scottish Gaelic}}
 * Spanish:
 *: ''preceding or attached to a verb''
 *:: ''familiar'': {{t+|es|os}}
@@ -353,8 +353,8 @@ When a word ending in /t/, /d/, /s/, or /z/ is followed by {{term|you}}, these m
 * Portuguese:
 *: {{t+|pt|se}} {{qualifier|attaches to the verb, making it impersonal}}
 *: {{t-|pt|a pessoa}} {{qualifier|informal}}
-* [[Scots]]: {{t-|sco|body}}
-* [[Scottish Gaelic]]: {{t-|gd|duine|m}}
+* [[Scots]]: {{tø|sco|body|xs=Scots}}
+* [[Scottish Gaelic]]: {{t-|gd|duine|m|xs=Scottish Gaelic}}
 * Spanish: {{t+|es|se}}
 * Swedish: {{t+|sv|man}}
 {{trans-bottom}}
@@ -387,8 +387,8 @@ When a word ending in /t/, /d/, /s/, or /z/ is followed by {{term|you}}, these m
 * [[Novial]]: {{tø|nov|on|xs=Novial}}
 * Old English: {{t+|ang|man|xs=Old English}}
 * Portuguese: {{t+|pt|você}}, {{t-|pt|a pessoa}}
-* [[Scots]]: {{t-|sco|body}}
-* [[Scottish Gaelic]]: {{t-|gd|duine|m}}
+* [[Scots]]: {{tø|sco|body|xs=Scots}}
+* [[Scottish Gaelic]]: {{t-|gd|duine|m|xs=Scottish Gaelic}}
 * Spanish: {{t+|es|uno}}
 * Swedish: {{t+|sv|en}}
 {{trans-bottom}}
@@ -447,7 +447,7 @@ When a word ending in /t/, /d/, /s/, or /z/ is followed by {{term|you}}, these m
 *: ''vulgar; dialectical'' [[おんどれ]] (ondore)
 <!-- Maybe we need a separate article for the case of ja pronouns... perhaps the "horribly insulting" ones should be removed just for sake’s sake... there should probably be a better term than 'rude' here too. -->
 *: Note: ''It is common to not use these in Japanese; also, some experts consider these to be nouns.''
-* [[Scots]]: {{t-|sco|ye}}
+* [[Scots]]: {{tø|sco|ye|xs=Scots}}
 * Slovene: {{t+|sl|ti}} ''familiar'',  {{t+|sl|vi}} ''polite''
 * Spanish:
 *: ''familiar'' [[tú]] {{s}}, [[vos]] {{p}}
