@@ -57,7 +57,7 @@
 * Arabic: {{Arab|[[نظيف]]}} {{unicode|(naẓīf)}}
 * Armenian: [[մաքուր]] (mak'ur)
 * [[Basque]]: [[garbi]]
-* Bulgarian: {{t|bg|чист|tr=čist}}
+* Bulgarian: {{t+|bg|чист|tr=čist|sc=Cyrl}}
 * [[Catalan]]: [[net]]
 * Chinese:
 *: {{zh-ts|乾淨|[[干净]]}} (gānjìng)
@@ -68,7 +68,7 @@
 * {{trreq|Faroese}}
 * Finnish: {{t+|fi|puhdas}}
 * French: {{t+|fr|propre}}
-* Georgian: {{t|ka|სუფთა|tr=sup‘t‘a}}
+* Georgian: {{t|ka|სუფთა|tr=sup‘t‘a|xs=Georgian}}
 * German: {{t+|de|sauber}}, {{t+|de|rein}}
 * Hawaiian: [[maʻemaʻe]]
 * Hindi: [[स्वच्छ]]
@@ -81,8 +81,8 @@
 * Korean: [[깨끗한]] (kkaekkeuthan)
 * Kurdish:
 *: Sorani: {{t|ku|پاک|tr=pak|sc=KUchar}}, {{t|ku|خاوێن|tr=xawên|sc=KUchar}}
-* Latin: {{t|la|purus}}, {{t|la|mundus}}
-* Latvian: [[tirs]]
+* Latin: {{t-|la|purus}}, {{t-|la|mundus}}
+* Latvian: {{t-|lv|tirs|xs=Latvian}}
 * {{trreq|Lithuanian}}
 * {{trreq|Maltese}}
 * {{trreq|Maori}}
@@ -90,14 +90,14 @@
 * Persian: [[پاک]] (pāk)
 * Portuguese: {{t+|pt|limpo}}
 * Russian: {{t+|ru|чистый|m|alt=чи́стый|tr=čístyj|sc=Cyrl}}
-* Slovak: [[čistý#Slovak|čistý]]
+* Slovak: {{t-|sk|čistý}}
 * Slovene: [[čist]] {{m}}, [[čista]] {{f}}, [[čisto]] {{n}}
 * Spanish: {{t+|es|limpio}}
-* Swahili: {{t|sw|nadhifu}}, {{t|sw|safi}}
+* Swahili: {{t|sw|nadhifu|xs=Swahili}}, {{t-|sw|safi|xs=Swahili}}
 * Swedish: {{t+|sv|ren}}
-* Thai: {{t|th|สะอาด|sc=Thai|tr=sà-àat}}
-* Turkish: [[temiz]]
-* Vietnamese: [[sạch sẽ]]
+* Thai: {{t|th|สะอาด|tr=sà-àat|sc=Thai|xs=Thai}}
+* Turkish: {{t+|tr|temiz}}
+* Vietnamese: {{t+|vi|sạch sẽ|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|in a condition of having been cleaned}}
@@ -254,16 +254,16 @@
 * [[Catalan]]: [[netejar]]
 * Chinese:
 *: {{zh-ts|打掃|打扫}} ([[dǎ]][[sǎo]])
-* Croatian: [[čistiti#Croatian|čistiti]]
+* Croatian: {{t-|hr|čistiti}}
 * Czech: {{t-|cs|čistit}}, {{t-|cs|vyčistit}}
 * Danish: [[rense#Danish|rense]]
-* Dutch: {{t+|nl|schoonmaken}}, {{t|nl|kuisen}}, {{t|nl|poetsen}}, {{t+|nl|reinigen}}
+* Dutch: {{t+|nl|schoonmaken}}, {{t|nl|kuisen}}, {{t-|nl|poetsen}}, {{t+|nl|reinigen}}
 * Esperanto: [[poluri]]
 * Estonian: {{t|et|puhastama}}
 * Finnish: {{t+|fi|puhdistaa}}, {{t-|fi|siivota}}, {{t-|fi|siistiä}}, {{t-|fi|putsata}}
 * Georgian: [[წმენდა]] (ts‘menda), [[გასუფთავება]] (gasup‘t‘aveba)
 * German: {{t+|de|reinigen}}, {{t+|de|säubern}}, {{t+|de|putzen}}
-* Greek: [[καθαρίζω]]
+* Greek: {{t+|el|καθαρίζω|sc=Grek}}
 * Hindi: [[साफ करना]] (sāf karnā)
 * Hungarian: {{t+|hu|tisztít}}
 * {{trreq|Icelandic}}
@@ -290,7 +290,7 @@
 * {{trreq|Swahili}}
 * [[Telugu]]: [[శుభ్రం చేయు]] (Subhram chEyu)
 * Thai: {{Thai|[[ล้าง]]}} (láang), {{Thai|[[เช็ด]]}} (chét)
-* Turkish: [[temizlemek]]
+* Turkish: {{t+|tr|temizlemek}}
 * {{trreq|Vietnamese}}
 * Yiddish: [[פּוצטן]] (putsn)
 {{trans-bottom}}
@@ -300,7 +300,7 @@
 * [[Catalan]]: [[netejar]], [[arreglar]], [[ordenar]]
 * Chinese:
 *: {{zh-ts|整理|整理}} ([[zhěng]][[lǐ]])
-* Dutch: {{t|nl|opruimen}}
+* Dutch: {{t+|nl|opruimen}}
 {{trans-mid}}
 * Finnish: {{t-|fi|siivota}}
 * German: {{t+|de|aufräumen}}, {{t+|de|putzen}}
@@ -315,7 +315,7 @@
 
 {{trans-top|(intransitive) to make things clean}}
 * Armenian: [[մաքրել]] (mak'rel)
-* Dutch: {{t|nl|poetsen}}
+* Dutch: {{t-|nl|poetsen}}
 * Finnish: {{t+|fi|puhdistaa}}, {{t-|fi|siivota}}
 {{trans-mid}}
 * German: {{t+|de|reinigen}}, {{t+|de|säubern}}, {{t+|de|putzen}}
