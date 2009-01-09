@@ -15,12 +15,28 @@ from {{etyl|la|ca}} [[natus]]
 
 ==Danish==
 
+===Etymology===
+From {{etyl|non|da}} {{term|nátt|||lang=non}}, {{term|nótt|||lang=non}}, from {{proto|Germanic|naht-|lang=da}}, from {{proto|Indo-European|nókʷts|lang=da}}.
+
 ===Noun===
-{{infl|da|noun}}
+{{da-noun|natten|nætter|g=c}}
 
 # [[night]] (period between sunset and sunrise)
 
-{{tbot entry|Danish|night|2008|April|da}}
+====Inflection====
+{{da-noun-infl-base
+| sg-indef     = nat
+| sg-def       = natten
+| pl-indef     = nætter
+| pl-def       = nætterne
+| gen-sg-indef = nats
+| gen-sg-def   = nattens
+| gen-pl-indef = nætters
+| gen-pl-def   = nætternes
+| g            = c
+}}
+
+[[Category:da:Time]]
 
 ----
 
