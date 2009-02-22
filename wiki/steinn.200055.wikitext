@@ -1,14 +1,20 @@
 ==Icelandic==
-{{Icelandic declension kk sb 01|stein|n}}
+
+===Etymology===
+From {{etyl|non|is}} {{term|steinn|lang=non}}, from {{proto|Germanic|stainaz|lang=is}}.
 
 ===Pronunciation===
-* {{IPA|/stej1tn/|lang=is}}
+* {{IPA|/steitn/|lang=is}}
+*: {{rhymes|eitn|lang=is}}
 
 ===Noun===
 {{is-noun|m|steins|steinar}}
 
-# [[stone]]
-# a [[stone]] found in some [[fruit]]
+# [[stone]], [[rock]]
+# [[stone]], [[pit]], [[pip]] (the seed of certain [[fruit]])
+
+====Declension====
+{{is-decl-noun-m-s1|st|ei|n|n|i=i}}
 
 ====Derived terms====
 * [[setjast í helgan stein]]
@@ -23,7 +29,27 @@
 * [[þegja eins og steinn]]
 * [[á milli steins og sleggju]]
 
-[[Category:Icelandic nouns]]
+----
+
+==Old Norse==
+
+===Etymology===
+From {{proto|Germanic|stainaz|lang=non}}, whence also Old English {{term|stan|stān|lang=ang}} (English {{term|stone}}, Scots {{term|stane|lang=sco}}), Old Frisian {{term|sten|stēn|lang=ofs}}, Old High German {{term|stein|lang=goh}} (German {{term|Stein|lang=de}}), Gothic {{term|𐍃𐍄𐌰𐌹𐌽𐍃|tr=stains|sc=Goth}}.
+
+===Noun===
+{{infl|non|noun|g=m}}
+
+# [[stone]]
+
+====Descendants====
+{{top2}}
+* Danish: [[sten#Danish|sten]] {{c}} (Old Danish [[steen]])
+* Faroese: [[steinur]] {{m}}
+* Icelandic: [[#Icelandic|steinn]] {{m}}
+{{mid2}}
+* Norwegian: [[stein#Norwegian|stein]] {{m}}
+* Swedish: [[sten#Swedish|sten]] {{c}} (Old Swedish [[sten]], Runic ''stæinn'')
+{{bottom}}
 
 [[de:steinn]]
 [[es:steinn]]
