@@ -18,63 +18,27 @@ From {{proto|Slavic|govorъ|lang=ru}}.
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{proto|Slavic|govorъ|lang=sr}}.
+From {{proto|Slavic|govorъ|lang=sh}}.
 
 ===Noun===
-'''говор''' {{m}}
+{{infl|sh|noun|sc=Cyrl|head=го̏во̄р|Roman spelling:|{{l|sh|govor|gȍvōr}}}}
 
-# the ability to [[speak]] using [[words]]
-# [[speech]], [[harangue]], [[sermon]]
-# [[murmur]]
-# [[talk]]
-# [[saying]]
+# [[speech]] (faculty of speech; session of speaking)
+# [[talk]], [[saying]]
 
 ====Declension====
-{| style="margin-bottom:1em; margin-right:1em; border: 1px solid #AAAAAA; border-collapse:collapse;" cellpadding="4" rules="all"
-!
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[singular|Singular]]
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[plural|Plural]]
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[nominative case|nominative]]
-|align=left|{{unicode|говор}}
-|align=left|{{unicode|говори}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[genitive case|genitive]]
-|align=left|{{unicode|говора}}
-|align=left|{{unicode|говора}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[dative case|dative]]
-|align=left|{{unicode|говору}}
-|align=left|{{unicode|говорима}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[accusative case|accusative]]
-|align=left|{{unicode|говора}}
-|align=left|{{unicode|говора}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[vocative case|vocative]]
-|align=left|{{unicode|говоре}}
-|align=left|{{unicode|говори}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[instrumental case|instrumental]]
-|align=left|{{unicode|говором}}
-|align=left|{{unicode|говорима}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[locative case|locative]]
-|align=left|{{unicode|говору}}
-|align=left|{{unicode|говорима}}
-|}
-
-====See also====
-* [[govor]]
-
-====Related terms====
-* [[jezik]]
-* [[језик]]
-
-[[Category:Serbian nouns]]
+{{sh-decl-noun
+|говор|говори
+|говора|говора
+|говору|говорима
+|говора|говоре
+|говоре|говори
+|говору|говорима
+|говором|говорима
+}}
 
 [[bg:говор]]
 [[fr:говор]]
