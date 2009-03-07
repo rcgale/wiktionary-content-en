@@ -20,6 +20,10 @@
 # {{intransitive|transitive|medicine}} Of a [[bone]], to [[crack]] or [[fracture]] through a [[sudden]] [[physical]] [[strain]], such as a [[collision]].
 #: ''Don't slip and '''break''' your leg.''
 #: ''Then his fifth metatarsal '''broke'''.''
+# {{transitive|medicine|ergative}} Of a bone, to cause to [[crack]] under [[physical]] [[strain]].
+#: ''Don't try to '''break''' his neck.''
+# {{transitive|medicine|ergative}} Of a bone, to [[fracture]] accidentally.
+#: ''Don't '''break''' your fingers playing basketball.''
 # {{intransitive}} To [[stop]] [[function]]ing [[properly]] or [[altogether]].
 #: ''On the hottest day of the year the fridge '''broke'''.''
 # {{intransitive}} To [[interrupt]] or [[cease]] one's [[work]] or [[occupation]] [[temporarily]].
@@ -30,10 +34,6 @@
 #: ''Is it your or my turn to '''break'''?''
 # {{transitive}} To [[cause]] to [[end up]] in two or more [[piece]]s.
 #: ''I am going to '''break''' your mask.''
-# {{transitive|medicine|ergative}} Of a bone, to cause to [[crack]] under [[physical]] [[strain]].
-#: ''Don't try to '''break''' his neck.''
-# {{transitive|medicine|ergative}} Of a bone, to [[fracture]] accidentally.
-#: ''Don't '''break''' your fingers playing basketball.''
 # {{transitive|ergative}} To cause to [[malfunction]] or [[stop]] [[work]]ing altogether.
 #: ''Did you two '''break''' the trolley by racing with it?''
 # {{transitive}} To cause a person or animal to [[lose]] his/her/its [[will]], usually obtained by means of [[torture]].[[Image:A storm at Pors-Loubous.jpg|right|thumb|196px|A wave '''breaking''' (definition 13)]]
@@ -62,11 +62,11 @@ The sense relating to a spell of weather is most likely to be used after a perio
 ====Synonyms====
 * {{sense|intransitive: end up in two or more pieces}} [[burst]], [[bust]], [[shatter]], [[shear]], [[smash]], [[split]]
 * {{sense|intransitive: of a bone}} [[crack]], [[fracture]]
+* {{sense|transitive: of a bone|intentionally}} [[crack]], [[fracture]]
+* {{sense|transitive: of a bone|accidentally}} [[crack]], [[fracture]]
 * {{sense|intransitive: stop functioning}} [[break down]], [[bust]], [[fail]], [[go down]] (''of a computer or computer network'')
 * {{sense|intransitive: interrupt}} [[interrupt]], [[pause]]
 * {{sense|transitive: cause to end up in two or more pieces}} [[shatter]], [[smash]]
-* {{sense|transitive: of a bone|intentionally}} [[crack]], [[fracture]]
-* {{sense|transitive: of a bone|accidentally}} [[crack]], [[fracture]]
 * {{sense|transitive: cause to malfunction or stop working altogether}} [[bust]]
 * {{sense|transitive: cause a person or animal to lose his/her/its will}} [[subject]], [[tame]]
 * {{sense|transitive: do that which is forbidden by}} [[contravene]], [[go against]], [[violate]]
@@ -116,7 +116,7 @@ The sense relating to a spell of weather is most likely to be used after a perio
 * [[broken]]
 
 ====Translations====
-{{trans-top|intransitive: end up in two or more pieces that cannot easily be reassembled}}
+{{trans-top|intransitive: to end up in two or more pieces that cannot easily be reassembled}}
 * Arabic: {{Arab|[[كسر]]}} (kásara), {{Arab|انكسر}} (inkásara)
 * Armenian: [[ջարդվել]] (ǰardvel), [[կոտրվել]] (kotərvel)
 * {{trreq|Basque}}
@@ -125,7 +125,7 @@ The sense relating to a spell of weather is most likely to be used after a perio
 * Danish: gå i [[stykke]]r, gå [[itu]]
 * Dutch: {{t+|nl|breken}}
 * Esperanto: {{t-|eo|rompi|xs=Esperanto}}
-* Finnish: {{t+|fi|hajota}}
+* Finnish: {{t|fi|särkyä}}, {t|fi|mennä rikki}}, {{t+|fi|hajota}}
 * French: [[se rompre]], [[se casser]], [[se briser]]
 * Georgian: [[ტყდომა]] (tq‘doma), [[მტვრევა]] (mtvreva)
 * German: [[zerbrechen]], [[kaputtgehen]]
@@ -155,13 +155,13 @@ The sense relating to a spell of weather is most likely to be used after a perio
 * Turkish: {{t+|tr|kırılmak}}
 {{trans-bottom}}
 
-{{trans-top|intransitive: of a bone}}
+{{trans-top|of a bone: to crack}}
 * Armenian: [[ջարդվել]] (ǰardvel), [[կոտրվել]] (kotərvel)
 * Czech: {{t-|cs|zlomit si}}
 * Danish: [[brække]]
 * Dutch: {{t+|nl|breken}}
 * Esperanto: [[panei]]
-* Finnish: {{t+|fi|murtua}}
+* Finnish: {{t+|fi|murtua}} (''intr.''), {{t|fi|murtaa}} (''tr.'')
 * French: [[se casser]]
 * German: {{t+|de|brechen}}
 * Hebrew: [[להישבר]] (le'hishaver)
@@ -178,11 +178,50 @@ The sense relating to a spell of weather is most likely to be used after a perio
 * Swedish: [[brytas]]
 {{trans-bottom}}
 
+{{trans-top|transitive: of a bone, to cause to crack}}
+* Armenian: [[ջարդել]] (ǰardel), [[կոտրել]] (kotrel)
+* Danish: [[brække]]
+* Dutch: {{t+|nl|breken}}
+* Finnish: {{t-|fi|murtaa}}, {{t+|fi|katkaista}}, {{t+|fi|taittaa}}
+* French: {{t+|fr|casser}}
+* German: {{t+|de|brechen}}
+* Hebrew: {{t-|he|לשבור|tr=lishbor|sc=Hebr}}
+* Hungarian: {{t+|hu|eltör}}
+{{trans-mid}}
+* Japanese: [[ひびが入る]] (hibi ga hairu), [[折れる]] (oreru)
+* Korean: [[부러뜨리다]] (bureotteurida)
+* Latvian: {{t-|lv|salauzt|xs=Latvian}}, {{t-|lv|lauzt|xs=Latvian}}
+* Portuguese: {{t+|pt|quebrar}}, {{t+|pt|partir}}
+* Romanian: [[frânge]]
+* Russian: {{t|ru|ломать|sc=Cyrl|tr=lomát’}} {{impf}}, {{t|ru|сломать|sc=Cyrl|tr=slomát’}} {{pf}}
+* Slovene: {{t+|sl|zlomiti}}
+* Swedish: {{t+|sv|bryta}}
+{{trans-bottom}}
+
+{{trans-top|transitive: of a bone, to fracture accidentally}}
+* Armenian: [[կոտրել]] (kotrel)
+* Danish: [[brække]]
+* Dutch: {{t+|nl|breken}}
+* Finnish: {{t-|fi|murtaa}}, {{t+|fi|katkaista}}, {{t+|fi|taittaa}}
+* French: [[se casser]]
+* German: {{t+|de|brechen}}
+* Hebrew: {{t-|he|לשבור|tr=lishbor|sc=Hebr}}
+* Hungarian: {{t+|hu|eltör}}
+{{trans-mid}}
+* Japanese: [[ひびが入る]] (hibi ga hairu), [[折れる]] (oreru)
+* Korean: [[부러뜨리다]] (bureotteurida)
+* Latvian: {{t-|lv|salauzt|xs=Latvian}}, {{t-|lv|lauzt|xs=Latvian}}
+* Portuguese: {{t+|pt|quebrar}}, {{t+|pt|partir}}
+* Russian: {{t|ru|ломать|sc=Cyrl|tr=lomát’}} {{impf}}, {{t|ru|сломать|sc=Cyrl|tr=slomát’}} {{pf}}
+* Slovene: {{t+|sl|zlomiti}}
+* Swedish: {{t+|sv|bryta}}
+{{trans-bottom}}
+
 {{trans-top|intransitive: stop functioning properly or altogether}}
 * Armenian: [[փչանալ]] (p'čanal)
 * Danish: gå i [[stykke]]r, gå [[itu]]
 * Dutch: [[stukgaan]], [[kapotgaan]]
-* Finnish: [[hajota]], [[mennä]] [[rikki]]
+* Finnish: {{t|fi|hajota}}, {{t|fi|mennä rikki}}
 * French: [[se casser]]
 * German: [[kaputtgehen]]
 * Hebrew: [[להתקלקל]] (le'hitqalqel)
@@ -214,21 +253,23 @@ The sense relating to a spell of weather is most likely to be used after a perio
 * Swedish: {{t+|sv|avbryta}}, {{t+|sv|bryta}}
 {{trans-bottom}}
 
-{{trans-top|intransitive: tennis}}
+{{trans-top|intransitive: to win a game as receiver in tennis}}
 * Danish: {{t+|da|bryde}}
-* Japanese: [[ブレークを取る]] (burēku-wo-toru)
+* Finnish: {{t|fi|murtaa}}
 {{trans-mid}}
+* Japanese: [[ブレークを取る]] (burēku-wo-toru)
 * Korean: [[쉬다]] (swida)
 {{trans-bottom}}
 
-{{trans-top|intransitive: billiards}}
+{{trans-top|intransitive: to make the first shot in billiards}}
+* Finish: {{t|fi|aloittaa}}
 * Japanese: [[ブレークする]] (burēku-suru)
-* Korean: [[쉬다]] (swida)
 {{trans-mid}}
+* Korean: [[쉬다]] (swida)
 * Swedish: {{t+|sv|spränga}}
 {{trans-bottom}}
 
-{{trans-top|transitive: cause to end up in two or more pieces}}
+{{trans-top|transitive: to cause to end up in two or more pieces}}
 * Albanian: {{t-|sq|thyen|xs=Albanian}}
 * Arabic: {{Arab|[[كسر]]}} (kásara), {{Arab|[[كسر]]}} (kássara)
 * Armenian: [[ջարդել]] (ǰardel), [[կոտրել]] (kotrel)
@@ -239,7 +280,7 @@ The sense relating to a spell of weather is most likely to be used after a perio
 * Danish: slå i [[stykke]]r, [[smadre]], [[knuse]], [[ødelægge]]
 * Dutch: {{t+|nl|breken}}
 * Esperanto: {{t-|eo|rompi|xs=Esperanto}}
-* Finnish: {{t+|fi|rikkoa}}, {{t-|fi|särkeä}}, {{t+|fi|taittaa}}, {{t+|fi|hajottaa}}, {{t-|fi|pirstoa}}
+* Finnish: {{t|fi|murtaa}}, {{t+|fi|rikkoa}}, {{t-|fi|särkeä}}, {{t+|fi|taittaa}}, {{t+|fi|hajottaa}}, {{t-|fi|pirstoa}}
 * French: {{t+|fr|rompre}}, {{t+|fr|casser}}, {{t+|fr|briser}}
 * Georgian: [[ტყდომა]] (tq‘doma), [[მსხვრევა]] (msxvreva)
 * German: {{t+|de|brechen}}, {{t+|de|zerbrechen}}
@@ -271,46 +312,7 @@ The sense relating to a spell of weather is most likely to be used after a perio
 * Turkish: [[kırmak]]
 {{trans-bottom}}
 
-{{trans-top|transitive: of a bone, intentionally}}
-* Armenian: [[ջարդել]] (ǰardel), [[կոտրել]] (kotrel)
-* Danish: [[brække]]
-* Dutch: {{t+|nl|breken}}
-* Finnish: {{t-|fi|murtaa}}, {{t+|fi|katkaista}}, {{t+|fi|taittaa}}
-* French: {{t+|fr|casser}}
-* German: {{t+|de|brechen}}
-* Hebrew: {{t-|he|לשבור|tr=lishbor|sc=Hebr}}
-* Hungarian: {{t+|hu|eltör}}
-{{trans-mid}}
-* Japanese: [[ひびが入る]] (hibi ga hairu), [[折れる]] (oreru)
-* Korean: [[부러뜨리다]] (bureotteurida)
-* Latvian: {{t-|lv|salauzt|xs=Latvian}}, {{t-|lv|lauzt|xs=Latvian}}
-* Portuguese: {{t+|pt|quebrar}}, {{t+|pt|partir}}
-* Romanian: [[frânge]]
-* Russian: {{t|ru|ломать|sc=Cyrl|tr=lomát’}} {{impf}}, {{t|ru|сломать|sc=Cyrl|tr=slomát’}} {{pf}}
-* Slovene: {{t+|sl|zlomiti}}
-* Swedish: {{t+|sv|bryta}}
-{{trans-bottom}}
-
-{{trans-top|transitive: of a bone, accidentally}}
-* Armenian: [[կոտրել]] (kotrel)
-* Danish: [[brække]]
-* Dutch: {{t+|nl|breken}}
-* Finnish: {{t-|fi|murtaa}}, {{t+|fi|katkaista}}, {{t+|fi|taittaa}}
-* French: [[se casser]]
-* German: {{t+|de|brechen}}
-* Hebrew: {{t-|he|לשבור|tr=lishbor|sc=Hebr}}
-* Hungarian: {{t+|hu|eltör}}
-{{trans-mid}}
-* Japanese: [[ひびが入る]] (hibi ga hairu), [[折れる]] (oreru)
-* Korean: [[부러뜨리다]] (bureotteurida)
-* Latvian: {{t-|lv|salauzt|xs=Latvian}}, {{t-|lv|lauzt|xs=Latvian}}
-* Portuguese: {{t+|pt|quebrar}}, {{t+|pt|partir}}
-* Russian: {{t|ru|ломать|sc=Cyrl|tr=lomát’}} {{impf}}, {{t|ru|сломать|sc=Cyrl|tr=slomát’}} {{pf}}
-* Slovene: {{t+|sl|zlomiti}}
-* Swedish: {{t+|sv|bryta}}
-{{trans-bottom}}
-
-{{trans-top|transitive: cause to malfunction}}
+{{trans-top|transitive: to cause to malfunction}}
 * Armenian: [[ջարդել]] (ǰardel), [[կոտրել]] (kotrel), [[փչացնել]] (p'čac'nel)
 * Czech: {{t-|cs|pokazit}}
 * Danish: [[ødelægge]], [[smadre]]
@@ -370,19 +372,42 @@ The sense relating to a spell of weather is most likely to be used after a perio
 * [[Telugu]]: [[అతిక్రమించు]] (atikramiMcu), [[మీరు]] (meeru)(హద్దుమీరు)
 {{trans-bottom}}
 
-{{trans-top|transitive: gaming slang: to design or make (a legal but unfair move)}}
+{{trans-top|of a wave, to collapse into a surf}}
+* Finnish: {{t|fi|murtua}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|transitive: gaming slang: to design or make a legal and powerful move}}
 * Danish: [[ødelægge]]
+* Finnish: {{t|fi|ratkaista}}
 {{trans-mid}}
 * Korean: [[잔꾀부리다]] (jankkoe-burida)
 {{trans-bottom}}
 
-{{trans-top|transitive: media: to disclose or make known an item of news etc}}
+{{trans-top|transitive, media: to disclose or make known an item of news etc.}}
+* Finnish: {{t|fi|tehdä}} {{t|fi|uutinen}} ({{t|fi|jostakin}})
+{{trans-mid}}
 * Korean: [[까발리다]] (kkaballida)
+{{trans-bottom}}
+
+{{trans-top|weather: to end}}
+* Finnish: {{t|fi|hellittää}}
+{{trans-mid}}
+* Latvian: {{t-|lv|beigties|xs=Latvian}}
+{{trans-bottom}}
+
+{{trans-top|to ruin financially}}
+* Finnish: {{t|fi|kaataa}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|UK, of a storm or spell of weather: to end}}
-* Latvian: {{t-|lv|beigties|xs=Latvian}}
+{{trans-top|US: to divide into smaller units}}
+* Finnish: {{t|fi|jakaa}}; {{t|fi|särkeä}} (''of money'')
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|of dawn, to arrive}}
+* Finnish: {{t|fi|koittaa}}
 {{trans-mid}}
 {{trans-bottom}}
 
