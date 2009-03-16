@@ -1,15 +1,13 @@
 ==English==
 
 ===Etymology===
-{{etyl|la}} ''[[dualis]]'', two (adjective), from ''[[duo#Latin|duo]]'', two, + adjective suffix ''[[-alis]]''
+{{etyl|la}} {{term|dualis||lang=la|two}}, from {{term|duo|duo|lang=la|two}}, + adjective suffix {{term|-alis|lang=la}}
 
 ===Pronunciation===
 * {{a|RP}} dyo͝oəl, {{IPAchar|/djʊəl/}}, /<tt>djU@l</tt>/<!--no accent because "dual" is pronounced as one syllable in RP-->
 * {{a|US}} do͞o'əl, {{IPAchar|/ˈduəl/}}, /<tt>"du@l</tt>/
 *: {{rhymes|ʊəl}}
-
-====Homophones====
-* [[duel]]
+*{{homophones|duel}}
 
 ===Adjective===
 {{en-adj|-}}
@@ -18,6 +16,10 @@
 # Double.
 #: ''[[dual-headed]] computer''
 # {{grammar}} Pertaining to [[grammatical]] [[number]] (as in singular and plural), referring to two of something, such as a pair of shoes, in the context of the '''[[singular]]''', '''[[plural]]''' and in some languages, '''[[trial number|trial]]''' grammatical number. Modern Arabic displays a dual number, as did Homeric Greek.
+
+====Derived terms====
+* [[duality]]
+* [[dualism]]
 
 ====Translations====
 {{trans-top|having two components}}
@@ -56,7 +58,7 @@
 * {{ttbc|Romanian}}: dual
 
 ===Noun===
-'''dual''' (''plural:'' '''duals''')
+{{en-noun}}
 
 # Of an item that is one of a pair, the other item in the pair.
 # {{geometry}} Of a [[regular]] [[polyhedron]] with ''V'' vertices and ''F'' faces, the regular polyhedron having ''F'' vertices and ''V'' faces.
@@ -64,11 +66,8 @@
 # {{grammar}} [[dual number]] The grammatical number of a noun marking two of something (as in singular, dual, plural), sometimes referring to two of anything ('''a couple of''', '''exactly two of'''), or a [[chirality]]-marked  [[pair]] (as in left and right, as with gloves or shoes) or in some languages as a discourse marker, "between you and me". A few languages display [[trial number]].
 # {{mathematics}} Of a [[vector]] in an [[inner product space]], the [[linear]] [[functional]] corresponding to taking the [[inner product]] with that vector. The set of all duals is a [[vector space]] called the [[dual space]].
 
-===Related terms===
-* [[duality]]
-* [[dualism]]
-
-===See also===
+====See also====
+{{rel-top|other terms of interest}}
 * [[paucal]]
 * [[plural]]
 * [[quadral]]
@@ -76,10 +75,10 @@
 * [[singulative]]
 * [[trial]]
 * [[unal]]
+{{rel-bottom}
 
 ====Translations====
-{{rfc-level|Translations at L4+ not in L3 POS section|lang=en}}
-{{trans-top|grammatical number of a noun marking two of something}}
+{trans-top|grammatical number of a noun marking two of something}}
 * Arabic: {{Arab|[[مثنى]]}} (muṯánna)
 * French: {{t|fr|duel|m}}
 {{trans-mid}}
