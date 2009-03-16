@@ -18,6 +18,28 @@ From {{etyl|ang|en}} {{term|tohaccian||lang=ang|hack to pieces}}
 #: ''This cold is awful. I can't stop '''hacking'''.''
 # To withstand or put up with a difficult situation.
 #: ''Can you '''hack''' it out here with no electricity or running water?''
+# {{slang|computing}} To [[hack into]]; to gain unauthorized access to a computer system (e.g. website) or network by manipulating code; a [[crack]].
+# {{computing}} To accomplish a difficult programming task.
+#: ''He can '''hack''' like no one else and make the program work as expected.''# {{computing}} To make a quick code change to patch a computer program.
+#: ''I '''hacked''' in a fix for this bug, but we'll still have to do a real fix later.''.
+# To work with on an intimately technical level.
+#: ''I'm currently '''hacking''' distributed garbage collection.''
+
+=====Derived terms=====
+{{rel-top|terms derived from hack}}
+* [[hack down]]
+* [[hack in]]
+* [[hack into]]
+{{rel-mid}}
+* [[hack up]]
+* [[hackability]]
+* [[hacker]]
+{{rel-bottom}}
+
+=====Synonyms=====
+* {{sense|gain unauthorized access}} [[crack]]
+* [[frob]]
+* [[tweak]]
 
 =====Translations=====
 {{trans-top|to cough noisily}}
@@ -39,6 +61,25 @@ From {{etyl|ang|en}} {{term|tohaccian||lang=ang|hack to pieces}}
 {{trans-mid}}
 {{trans-bottom}}
 
+{{trans-top|to work with on an intimately technical level}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to accomplish a difficult programming task}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to make a quick code change to patch a computer program}}
+* Finnish: [[pätsätä]] (''slang'')
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to gain illegal access to a computer network}}
+* Finnish: {{t-|fi|hakkeroida}}
+{{trans-mid}}
+* Polish: [[hakować]]
+{{trans-bottom}}
+
 ====Noun====
 {{en-noun}}
 
@@ -47,6 +88,21 @@ From {{etyl|ang|en}} {{term|tohaccian||lang=ang|hack to pieces}}
 # {{curling}} The [[foothold]] traditionally cut into the ice from which the person who throws the rock pushes off for delivery.
 # {{obsolete}} A [[mattock]] or a miner's pick.  <!-- Concise Oxford Dictionary -->
 # A dry cough.
+# {{context|computing|slang}} An illegal attempt to gain access to a computer network.
+# {{computing}} An interesting technical achievement, particularly in [[computer programming]].
+# {{computing}} A small [[code]] [[change]] meant to patch a problem as quickly as possible.
+# {{computing}} An expedient, temporary solution, meant to be replaced with a more elegant solution at a later date.
+# {{slang|military}} Time check.
+
+=====Quotations=====
+{{seeCites}}
+
+=====Synonyms=====
+* {{sense|access attempt}} [[crack]]
+* {{sense|expedient, temporary solution}} [[kludge]]
+
+=====Related terms=====
+* [[marginal hacks]]
 
 =====Translations=====
 {{trans-top|foothold device in curling}}
@@ -65,7 +121,46 @@ From {{etyl|ang|en}} {{term|tohaccian||lang=ang|hack to pieces}}
 * Finnish: {{t+|fi|köhä}}
 {{trans-bottom}}
 
+{{trans-top|interesting technical achievement}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|illegal attempt to gain access to a computer network}}
+* Finnish: ; {{t|fi|hakkerointiyritys}}, {{t|fi|tietomurtoyritys}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|small code change}}
+* Finnish: {{t-|fi|pätsi}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|expedient, temporary solution}}
+* Finnish: {{t-|fi|pätsi}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|time check}}
+{{trans-mid}}
+{{trans-bottom}}
+
 ===Etymology 2===
+Variantions of {{term|hatch}}, {{term|heck}}.
+
+====Noun====
+{{en-noun}}
+
+# {{context|falconry}} A board which the falcon's food is placed on; used by extension for the state of partial freedom in which they are kept before being trained.
+# A food-rack for [[cattle]].
+# A rack used to dry [[bricks]].
+
+====Verb====
+{{en-verb}}
+
+# To lay (bricks) on a rack to dry.
+# {{context|falconry}} To keep (young hawks) in a state of partial freedom, before they are trained.
+
+===Etymology 3===
 Abbreviation of {{term|hackney||lang=en|an ordinary horse}}, probably from place name [[Hackney]]
 
 ====Noun====
@@ -116,98 +211,6 @@ Abbreviation of {{term|hackney||lang=en|an ordinary horse}}, probably from place
 # {{literary}} Having or requiring little talent.
 #: ''He's nothing but the typical '''hack''' writer.''
 #: ''I got by on '''hack''' work for years before I finally published my novel.''
-
-===Etymology 3===
-From {{term|hacker||lang=en|programmer}}, possibly influenced by other senses of hack.
-
-====Noun====
-{{en-noun}}
-
-# {{context|computing|slang}} An illegal attempt to gain access to a computer network.
-# {{computing}} An interesting technical achievement, particularly in [[computer programming]].
-# {{computing}} A small [[code]] [[change]] meant to patch a problem as quickly as possible.
-# {{computing}} An expedient, temporary solution, meant to be replaced with a more elegant solution at a later date.
-# {{slang|military}} Time check.
-
-=====Quotations=====
-{{seeCites}}
-
-=====Synonyms=====
-* {{sense|access attempt}} [[crack]]
-* {{sense|expedient, temporary solution}} [[kludge]]
-
-=====Related terms=====
-* [[marginal hacks]]
-
-=====Translations=====
-{{trans-top|interesting technical achievement}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|illegal attempt to gain access to a computer network}}
-* Finnish: ; {{t|fi|hakkerointiyritys}}, {{t|fi|tietomurtoyritys}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|small code change}}
-* Finnish: {{t-|fi|pätsi}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|expedient, temporary solution}}
-* Finnish: {{t-|fi|pätsi}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|time check}}
-{{trans-mid}}
-{{trans-bottom}}
-
-====Verb====
-{{en-verb}}
-
-# To work with on an intimately technical level.
-#: ''I'm currently '''hacking''' distributed garbage collection.''
-# {{computing}} To accomplish a difficult programming task.
-#: ''He can '''hack''' like no one else and make the program work as expected.''# {{computing}} To make a quick code change to patch a computer program.
-#: ''I '''hacked''' in a fix for this bug, but we'll still have to do a real fix later.''.
-# {{slang|computing}} To [[hack into]]; to gain unauthorized access to a computer system (e.g. website) or network by manipulating code; a [[crack]].
-
-=====Derived terms=====
-{{rel-top|terms derived from hack (verb, computing)}}
-* [[hack down]]
-* [[hack in]]
-* [[hack into]]
-{{rel-mid}}
-* [[hack up]]
-* [[hackability]]
-* [[hacker]]
-{{rel-bottom}}
-
-=====Synonyms=====
-* {{sense|gain unauthorized access}} [[crack]]
-* [[frob]]
-* [[tweak]]
-
-=====Translations=====
-{{trans-top|to work with on an intimately technical level}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|to accomplish a difficult programming task}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|to make a quick code change to patch a computer program}}
-* Finnish: [[pätsätä]] (''slang'')
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|to gain illegal access to a computer network}}
-* Finnish: {{t-|fi|hakkeroida}}
-{{trans-mid}}
-* Polish: [[hakować]]
-{{trans-bottom}}
 
 ===Etymology 4===
 From {{term|hackysack||lang=en}}
