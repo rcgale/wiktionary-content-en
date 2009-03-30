@@ -70,7 +70,7 @@
 {{trans-top|to form letters, etc.}}
 * {{trreq|Afrikaans}}
 * Albanian: {{t-|sq|shkruan|xs=Albanian}}
-* {{trreq|Amharic}}
+* Amharic: {{t|am|ጻፈ|tr=TS'afä|sc=Ethi}}, {{t|am|ደረሰ|tr=däräsä|sc=Ethi}}
 * Arabic: {{Arab|[[كتب|كَتَبَ]]}} (kátaba)
 * {{trreq|Aragonese}}
 * Aramaic:
@@ -81,7 +81,7 @@
 * [[Asturian]]: {{t+|ast|escribir|xs=Asturian}}
 * [[Azeri]]: {{t|az|yazmaq}}
 * {{trreq|Bashkir}}
-* [[Basque]]: [[idatzi]]
+* [[Basque]]: {{t|eu|idatzi}}
 * {{trreq|Bavarian}}
 * Belarusian: {{t|be|пісаць}}
 * {{trreq|Bengali}}
@@ -127,7 +127,7 @@
 {{trans-mid}}
 * {{trreq|Kannada}}
 * [[Khmer]]: {{Khmr|[[សរសេរ]]}} (sorsēi)
-* Korean: [[쓰다]] (sseuda[[:ko:쓰다|^]])
+* Korean: {{t|ko|쓰다|tr=sseuda}}
 * Kurdish: {{ku-Arab|[[نوسین]]}}
 * {{trreq|Ladino}}
 * Lao: {{t-|lo|ຂຽນ|tr=khian|sc=Laoo|xs=Lao}}
@@ -161,7 +161,7 @@
 * Russian: {{t+|ru|писать|tr=pisát’|sc=Cyrl}} {{impf}}, {{t+|ru|написать|tr=napisát’|sc=Cyrl}} {{pf}}
 * {{trreq|Samoan}}
 * Sanskrit: {{t|sa|लिख्|sc=Deva|xs=Sanskrit}}
-* Serbian: [[писати]]
+* Serbian: {{t|sr|писати}}
 * Slovak: {{t|sk|písať}}
 * Slovene: {{t+|sl|pisati}}
 * Spanish: {{t+|es|escribir}}
@@ -190,24 +190,24 @@
 * Croatian: {{t+|hr|pisati|alt=písati}}
 * Czech: {{t-|cs|napsat}}
 * Danish: {{t+|da|skrive}}
-* Dutch: [[schrijven]] ([[naar]])
+* Dutch: {{t|nl|schrijven}} ([[naar]])
 * Esperanto: [[skribi]] [[al]]
 * Estonian: {{t-|et|kirjutama}}
 * Finnish: {{t+|fi|kirjoittaa}}
-* French: [[écrire]] [[à#French|à]]
+* French: {{t|fr|écrire}} [[à#French|à]]
 * German: {{t+|de|schreiben}}
 * Greek: {{t+|el|γράφω|sc=Grek}} (gráfo) (+ [[σε]])
 {{trans-mid}}
 * Icelandic: {{t+|is|skrifa|alt=skrifa utan á bréf}}
 * Irish: [[scríobh]] [[chuig]]
-* Italian: [[scrivere]] [[a#Italian|a]]
+* Italian: {{t|it|scrivere}} [[a#Italian|a]]
 * Japanese: [[書く]] ([[かく]], kaku)
 * [[Lojban]]: te [[xatra]]
 * Norwegian: {{t+|no|skrive}}
 * Portuguese: {{t+|pt|escrever}}
 * Russian: {{t+|ru|писать|tr=pisát’|sc=Cyrl}} {{impf}}, {{t+|ru|написать|tr=napisát’|sc=Cyrl}} {{pf}}
-* Spanish: [[escribir]] a
-* Swedish: [[skriva]] ([[till]])
+* Spanish: {{t|es|escribir}} a
+* Swedish: {{t|sv|skriva}} ([[till]])
 {{trans-bottom}}
 
 {{trans-top|to be the author of}}
@@ -215,7 +215,7 @@
 * Armenian: {{t|hy|գրել|sc=Armn|tr=grel}}
 * Croatian: {{t+|hr|pisati|alt=písati}}
 * Czech: {{t-|cs|psát}}
-* Danish: [[skrive]], [[digte]], [[forfatte]] (''usually not used'')
+* Danish: {{t|da|skrive}}, {{t|da|digte}}, {{t|da|forfatte}} (''usually not used'')
 * Dutch: {{t+|nl|schrijven}}
 * Esperanto: {{t-|eo|verki|xs=Esperanto}}
 * Estonian: {{t-|et|kirjutama}}
@@ -246,11 +246,11 @@
 * Czech: {{t-|cs|psát}}
 * Dutch: {{t+|nl|schrijven}}
 * Esperanto: {{t-|eo|verki|xs=Esperanto}}
-* Estonian: [[kirjanik olema]] (''belles-lettres''); [[literaat olema]]
+* Estonian: {{t|et|kirjanik olema}} (''belles-lettres''); {{t|et|literaat olema}}
 * [[Ewe]]: [[ŋlɔ]]
 * Finnish: {{t+|fi|kirjoittaa}}
 * French: {{t+|fr|écrire}}
-* German: [[schreiben]], [[texten]], [[dichten]]
+* German: {{t|de|schreiben}}, {{t|de|texten}}, {{t|de|dichten}}
 {{trans-mid}}
 * Icelandic: {{t+|is|rithöfundur}}
 * Japanese: [[書く]] ([[かく]], kaku)
@@ -258,7 +258,7 @@
 * Norwegian: {{t+|no|skrive}}
 * Portuguese: {{t+|pt|escrever}}
 * Russian: {{t+|ru|писать|tr=pisát’|sc=Cyrl}} {{impf}}, {{t+|ru|написать|tr=napisát’|sc=Cyrl}} {{pf}}
-* Swedish: [[skriva]], [[författa]] (''works of fiction'')
+* Swedish: {{t|sv|skriva}}, {{t|sv|författa}} (''works of fiction'')
 * {{trreq|Welsh}}
 {{trans-bottom}}
 
@@ -281,9 +281,9 @@
 * {{ttbc|Hebrew}}: {{t-|he|לכתוב|tr=lihtov|sc=Hebr}}, {{t-|he|לחבר|tr=lehaber|sc=Hebr}}
 * {{ttbc|Hebrew}}: [[לכתוב ל]] (lihtov l)
 {{checktrans-mid}}
-* {{ttbc|Indonesian}}: [[tulis]]
+* {{ttbc|Indonesian}}: {{t|id|tulis}}
 * {{ttbc|Interlingua}}: [[scriber]] (1, 2)
-* {{ttbc|Korean}}: {{t+|ko|쓰다|tr=sseuda|sc=Hang}}, Hanja: [[필기]]하다 (pilgihada[[:ko:필기하다|^]])
+* {{ttbc|Korean}}: {{t+|ko|쓰다|tr=sseuda|sc=Hang}}, {{t|ko|필기하다|tr=pilgihada}}
 {{trans-bottom}}
 
 ===References===
