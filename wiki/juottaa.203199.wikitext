@@ -1,8 +1,8 @@
 ==Finnish==
-{{Finnish index|j}}
+{{Finnish index|j|u}}
 
 ===Etymology===
-A factitive verb, derived from the verb {{term|juoda}}.
+The factitive aspect of the verb {{term|juoda||to drink}}.
 
 ===Pronunciation===
 * {{hyphenation|juot|taa}}
@@ -10,7 +10,7 @@ A factitive verb, derived from the verb {{term|juoda}}.
 * {{IPA|lang=fi|['juotːaː(ʔ)]}}
 
 ===Verb===
-{{fi-verb|juot|type=ottaa}}
+{{infl|fi|verb}}
 
 # {{transitive}} To [[give]] sb sth to [[drink]]; to [[water]].
 #: '''''Juotin''' [[lapsi|lapselle]] [[vesi|vettä]].''
@@ -19,12 +19,15 @@ A factitive verb, derived from the verb {{term|juoda}}.
 #:: ''I '''watered''' the dog.''
 # {{transitive}} To [[solder]].
 
+====Conjugation====
+{{fi-conj-muistaa|juo|tt|t}}
+
 ====Derived terms====
 * nouns: [[juote]], [[juotin]], [[juotos]], [[juottokolvi]] (''compound'')
 
 ===Verb===
-'''juottaa'''
+{{infl|fi|verb form}}
 
-# {{fi-form of|type=verb|pr=third-person|pl=singular|mood=indicative|tense=present|[[juottaa]]}}
+# {{fi-form of|type=verb|pr=third-person|pl=singular|mood=indicative|tense=present|[[#Finnish|juottaa]]}}
 
 [[io:juottaa]]
