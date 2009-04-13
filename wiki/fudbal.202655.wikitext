@@ -1,30 +1,33 @@
-==Bosnian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|en|bs}} {{term|football}}.
+From {{etyl|en|sh}} {{term|football|lang=en}}.
 
 ===Noun===
-{{bs-noun|g=m|fudbali}}
+{{infl|sh|noun|g=m|head=fȕdbāl|Cyrillic spelling:|{{l|sh|sc=Cyrl|фудбал|фу̏дба̄л}}}}
 
-# {{sport|lang=bs}} [[football]], [[soccer]]
+# {{sport|lang=sh}} [[football]], [[soccer]]
+
+====Declension====
+{{sh-decl-noun|pl=sg
+|fudbal|
+|fudbala|
+|fudbalu|
+|fudbal|
+|fudbalu|
+|fudbalu|
+|fudbalom|
+}}
+
+====Usage notes====
+Literary Croatian prefers {{term|nogomet|nȍgomēt|lang=sh}}, while literary Serbian and Bosnian prefer {{term|fudbal|fȕdbāl|lang=sh}}.
+
+====Derived terms====
+* {{l|sh|fudbaler|fudbàlēr}}
+* {{l|sh|fudbalerski|fudbàlērskī}}
 
 ====Synonyms====
-* {{l|bs|nogomet}}
-
-----
-
-==Serbian==
-
-===Etymology===
-From {{etyl|en|sr}} {{term|football}}.
-
-===Noun===
-{{sr-noun|g=m|pl=fudbali|cyr=фудбал}}
-
-# {{sport|lang=sr}} [[football]], [[soccer]]
-
-====Synonyms====
-* {{l|sr|nogomet}}
+* (''Croatian''): {{l|sh|nogomet|nȍgomēt}}
 
 [[el:fudbal]]
 [[ku:fudbal]]
