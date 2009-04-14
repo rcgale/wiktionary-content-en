@@ -23,21 +23,21 @@
 * [[Alutiiq]]: {{tø|ems|mallrungin}}
 * [[American Sign Language]]: [[Image:LSQ 7.jpg|35px]]
 * [[Amharic]]: [[ሰባት]] (säbat) (numeral: [[፯]])
-* Arabic: {{t|ar|سبعة|tr=sábʕa|sc=Arab}} (numeral: {{Arab|[[٧]]}})
-*: Egyptian Arabic: {{t|arz|سبعة|tr=sabaʕa|sc=Arab}}
+* Arabic: {{t-|ar|سبعة|tr=sábʕa|sc=Arab}} (numeral: {{Arab|[[٧]]}})
+*: Egyptian Arabic: {{tø|arz|سبعة|tr=sabaʕa|sc=Arab|xs=Egyptian Arabic}}
 * Aramaic:
 *: Syriac: [[ܫܒܥܐ]] (šabʕā’) {{m}}, [[ܫܒܥ]] (šbaʕ) {{f}}
 *: Hebrew: [[שבעא]] (šabʕā’) {{m}}, [[שבע]] (šbaʕ) {{f}}
 * Armenian: [[յոթ]] (yot')
 * [[Aymara]]: [[paqalqu]]
 * [[Azeri]]: [[yeddi]]
-* [[Basque]]: {{t|eu|zazpi}}
+* [[Basque]]: {{t-|eu|zazpi|xs=Basque}}
 * Bengali: {{tø|bn|সাত|tr=sāt|sc=Beng}} (numeral: {{Beng|[[৭]]}})
 * Bosnian: {{t-|bs|sedam}}
-* [[Breton]]: {{t|br|seizh}}
+* [[Breton]]: {{t+|br|seizh|xs=Breton}}
 * Bulgarian: [[седем]] (sédem)
 * {{trreq|Burmese}}: (numeral: [[၇]])
-* [[Catalan]]: {{t|ca|set}}
+* [[Catalan]]: {{t-|ca|set}}
 * [[Central Atlas Tamazight]]: {{tø|tzm|ⵙⴰ|tr=sa|xs=Central Atlas Tamazight}}
 * [[Chamicuro]]: {{tø|ccc|kanchis}}
 * Cherokee: [[ᎦᎵᏉᎩ]] (galiquogi)
@@ -63,7 +63,7 @@
 * Finnish: {{t+|fi|seitsemän}}
 * French: {{t+|fr|sept}}
 * [[Garífuna]]: [[sedü]]
-* Georgian: {{t|ka|შვიდი|tr=švidi}}
+* Georgian: {{t+|ka|შვიდი|tr=švidi|xs=Georgian}}
 * German: {{t+|de|sieben}}
 * Greek: [[επτά]] (eptá)
 * [[Guaraní]]: [[pokõi]]
@@ -118,11 +118,11 @@
 * [[Punjabi]]: [[ਸੱਤ]] (satt) (numeral: [[੭]])
 * [[Quechua]]: [[qanchis]]
 * Romanian: {{t-|ro|şapte}}
-* Russian: {{t|ru|семь|tr=sem’}}
+* Russian: {{t+|ru|семь|tr=sem’|sc=Cyrl}}
 * Sanskrit: {{term|sc=Deva|सप्तन्|tr=saptán|lang=sa}}
 * [[Scottish Gaelic]]: seachd
 * Serbian:
-*: Cyrillic: {{t|sr|седам}}
+*: Cyrillic: {{t+|sr|седам|sc=Cyrl}}
 *: Roman: [[sedam#Serbian|sedam]]
 * [[Sinhala]]: [[හත]] (hatha)
 * Slovak: {{t-|sk|sedem}}
@@ -131,7 +131,7 @@
 * Swedish: {{t+|sv|sju}}
 * [[Tachelhit]]: {{tø|shi|sa|m|f|xs=Tachelhit}}
 * [[Tagalog]]: [[pito]]
-* [[Tamil]]: {{t|ta|ஏழு|tr=ēḻu}} (numeral: [[௭]])
+* [[Tamil]]: {{t+|ta|ஏழு|tr=ēḻu|xs=Tamil}} (numeral: [[௭]])
 * [[Tatar]]: [[җиде#Tatar|җиде]], [[cide#Tatar|cide]]
 * [[Telugu]]: {{t+|te|ఏడు|tr=ēḍu|sc=Telu}} (numeral: [[౭]])
 * Thai: {{Thai|[[เจ็ด]]}} (jèt) (numeral: {{Thai|[[๗]]}})
@@ -139,7 +139,7 @@
 * [[Tok Pisin]]: [[sevenpela]]
 * Turkish: {{t+|tr|yedi}}
 * [[Tzutujil]]: ''wuku''
-* Ukrainian: {{t|uk|сім|tr=sim}}, [[семеро]] (sémero) ''collective''
+* Ukrainian: {{t|uk|сім|tr=sim|sc=Cyrl|xs=Ukrainian}}, [[семеро]] (sémero) ''collective''
 * [[Veps]]: seicheme
 * Vietnamese: [[bảy]]
 * [[Volapük]]: [[vel]]
@@ -169,7 +169,7 @@
 
 ====Translations====
 {{trans-top|the figure seven}}
-* [[Catalan]]: {{t|ca|set|m}}
+* [[Catalan]]: {{t-|ca|set|m}}
 * Croatian: {{t+|hr|sedmica|f|alt=sèdmica}}
 * Danish: [[syvtal]] {{n}}
 * Dutch: {{t+|nl|zeven|f}}
@@ -183,7 +183,7 @@
 {{trans-bottom}}
 
 {{trans-top|a card bearing seven pips}}
-* [[Catalan]]: {{t|ca|set|m}}
+* [[Catalan]]: {{t-|ca|set|m}}
 * Danish: [[syver]] {{c}}
 * Dutch: {{t+|nl|zeven|f}}
 * Finnish: {{t-|fi|seiska}}
