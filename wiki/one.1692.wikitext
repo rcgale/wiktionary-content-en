@@ -59,7 +59,7 @@ From {{etyl|ang}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto
 *: Hebrew: {{tø|arc|חד|tr=ħad|m}}, {{tø|arc|חדא|tr=ħdā’|f}}
 *: Syriac: {{tø|arc|ܚܕ|tr=ħad|m}}, {{tø|arc|ܚܕܐ|tr=ħdā’|f}}
 * [[Arapaho]]: [[jaasaaye]]
-* Armenian: {{t|hy|մեկ|tr=mek|sc=Armn}}, {{t|hy|մի|tr=mi|sc=Armn}}
+* Armenian: {{t+|hy|մեկ|tr=mek|sc=Armn|xs=Armenian}}, {{t-|hy|մի|tr=mi|sc=Armn|xs=Armenian}}
 * [[Assamese]]: [[এক]] (ek)
 * [[Asturian]]: [[ún]]
 * [[Avestan]]: [[aeva]]
@@ -133,7 +133,7 @@ From {{etyl|ang}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto
 * [[Galician]]: [[un]]
 * [[Gamilaraay]]: maal
 * [[Garífuna]]: [[aban]]
-* Georgian: {{t|ka|ერთი|tr=erti}}
+* Georgian: {{t+|ka|ერთი|tr=erti|xs=Georgian}}
 * German: {{italbrac|abstract counting}}:  {{t+|de|eins}}, {{italbrac|counting objects}}: {{t+|de|ein}}, {{t+|de|eine}}, {{t+|de|einen}}, {{t+|de|einem}}, {{t+|de|einer}}, {{t+|de|eines}}
 * [[Gilbertese]]: [[teuana]]
 * [[Gothic]]: [[áins]]
@@ -147,7 +147,7 @@ From {{etyl|ang}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto
 * [[Haitian Creole]]: {{tø|ht|en}}, {{tø|ht|youn}}
 * [[Hausa]]: [[gùdáá]], [[ɗáyá]]
 * Hawaiian: {{IPAchar|[['ekahi|ʻekahi]]}} (var: [[kahi]])
-* Hebrew: {{t+|he|אחת|f|alt=אַחַת|sc=Hebr|tr=ákhat}} {{italbrac|used in counting}}, [[אחד|אֶחָד]] (ékhad) {{m}}
+* Hebrew: {{t+|he|אחת|f|alt=אַחַת|tr=ákhat|sc=Hebr}} {{italbrac|used in counting}}, [[אחד|אֶחָד]] (ékhad) {{m}}
 * [[Hiligaynon]]: [[isa]]
 * Hindi: [[एक]] (ek) (numeral: [[१]])
 * Hungarian: {{t+|hu|egy}}
@@ -157,7 +157,7 @@ From {{etyl|ang}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto
 * [[Igbo]]: [[otu]]
 * Indonesian: {{t+|id|satu|xs=Indonesian}}
 * [[Interlingua]]: {{t-|ia|un|xs=Interlingua}}
-* Irish: {{t+|ga|aon|xs=Irish}}, {{t|ga|amháin|xs=Irish}}
+* Irish: {{t+|ga|aon|xs=Irish}}, {{t-|ga|amháin|xs=Irish}}
 * [[Iroquoian]]:
 *: [[Laurentian]]: [[segada]]
 * Italian: {{t+|it|uno}}; [[nu]] ([[Pugliese]])
@@ -195,7 +195,7 @@ From {{etyl|ang}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto
 * [[Maasai]]: [[nabo]]
 * [[Malagasy]]: [[iray]]
 * {{trreq|Malayalam}}: (numeral: [[൧]])
-* Maltese: [[wieħed]]
+* Maltese: {{t-|mt|wieħed|xs=Maltese}}
 * [[Manchu]]: [[emu]]
 * [[Manx]]: {{t-|gv|'nane|xs=Manx}}, {{t-|gv|un|xs=Manx}}, {{t-|gv|unnane|xs=Manx}}
 * Maori: {{t+|mi|tahi|xs=Maori}}
@@ -280,7 +280,7 @@ From {{etyl|ang}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto
 * [[Sumerian]]: [[desh]]
 * [[Sundanese]]: [[hiji]]
 * [[Swabian]]: [[oe]], [[oas]], [[ois]]
-* Swahili: {{t-|sw|moja|xs=Swahili}}
+* Swahili: {{t+|sw|moja|xs=Swahili}}
 * [[Swati]]: [[-nyé]]
 * Swedish: {{italbrac|abstract counting}}: {{t+|sv|ett}}, {{italbrac|counting objects}}: {{t+|sv|ett|n}}, {{t+|sv|en|c}}
 * [[Swiss German]]: [[aas]], (var: [[oas]])
@@ -364,8 +364,8 @@ From {{etyl|ang}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto
 {{trans-bottom}}
 
 {{trans-top|indefinite personal pronoun}}
-* Danish: {{t-|da|man}}, {{t+|da|en}}/{{t-|da|én}}; ''expressed by [[nominalization]] when following an adjective''
-* Finnish: ''does not exist, often omitted but e.g. {{t|fi|ihminen}} may be used instead''
+* Danish: {{t+|da|man}}, {{t+|da|en}}/{{t-|da|én}}; ''expressed by [[nominalization]] when following an adjective''
+* Finnish: ''does not exist, often omitted but e.g. {{t+|fi|ihminen}} may be used instead''
 {{trans-mid}}
 * Swedish: {{t+|sv|man}}, {{t+|sv|en}}; ''expressed by [[nominalization]] when following an adjective''
 {{trans-bottom}}
@@ -401,9 +401,9 @@ From {{etyl|ang}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto
 
 ====Translations====
 {{trans-top|neutral element in multiplication}}
-* Danish: [[et]], [[én]], [[ener]] {{c}}
+* Danish: {{t-|da|et}}, {{t-|da|én}}, {{t-|da|ener|c}}
 * Dutch: {{t+|nl|één|f}}
-* Finnish: {{t+|fi|ykkönen}}, {{t|fi|yksi}}
+* Finnish: {{t+|fi|ykkönen}}, {{t+|fi|yksi}}
 {{trans-mid}}
 * Russian: {{t+|ru|единица|f|tr=jediníca|sc=Cyrl}}
 * Swedish: {{t+|sv|etta}}
@@ -449,7 +449,7 @@ From {{etyl|ang}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto
 * Danish: [[endollarseddel]] {{c}}
 * Dutch: {{t-|nl|eendollarbiljet}}/{{t|nl|eendollarsbiljet|n}}
 {{trans-mid}}
-* Finnish: {{t|fi|dollari|alt=dollarin}} {{t|fi|seteli}}
+* Finnish: {{t+|fi|dollari|alt=dollarin}} {{t+|fi|seteli}}
 * French: {{t+|fr|billet|m}} d’un {{t+|fr|dollar|m}}
 * Italian: {{t+|it|biglietto|m}} di un {{t+|it|dollaro|m}}
 * Swedish: [[endollarsedel]]/[[endollarssedel]] {{c}}
@@ -497,7 +497,7 @@ From {{etyl|ang}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto
 {{trans-top|a single, unspecificed thing}}
 * Armenian: [[մի]] (mi)
 * Danish: [[den]]/[[det]] [[ene]]
-* Dutch: {{t+|nl|de}} {{t-|nl|ene}}, {{t+|nl|één}}
+* Dutch: {{t+|nl|de}} {{t+|nl|ene}}, {{t+|nl|één}}
 {{trans-mid}}
 * Finnish: {{t+|fi|eräs}}, {{t+|fi|yksi}}
 * Korean: [[어느]] (eoneu)
@@ -507,7 +507,7 @@ From {{etyl|ang}} {{term|an||lang=ang}} (same word as {{term|an}}), from {{proto
 {{trans-top|sole, only}}
 * Armenian: [[մի]] (mi)
 * Danish: [[den]]/[[det]] [[ene]]/[[eneste]]
-* Dutch: {{t+|nl|enige}}, {{t-|nl|ene}}
+* Dutch: {{t+|nl|enige}}, {{t+|nl|ene}}
 * Finnish: {{t+|fi|ainoa}}
 * Korean: [[오직]] (ojik), [[유일한]] (yuirhan)
 {{trans-mid}}
