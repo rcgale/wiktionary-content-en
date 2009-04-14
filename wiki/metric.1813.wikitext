@@ -59,7 +59,7 @@ From {{etyl|fr}} ''[[métrique]]'' (1864) < {{NL.}} {{term|metricus||pertaining 
 {{en-noun}}
 
 # A [[measure]] for something; a means of deriving a [[quantitative]] [[measurement]] or [[approximation]] for otherwise [[qualitative]] [[phenomena]] (esp. used in Software Engineering)
-# {{mathematics}} A measurement of the "distance" between two points in some [[metric space]]: it is a function ''d''(''x'',''y'') between points ''x'' and ''y'' satisfying the following properties: (1) "positive definiteness": <math> d(x,y) \ge 0 </math>, (2) <math> d(x,y) = 0 \mbox{ iff } x=y </math>, (3) "symmetry": <math> d(x,y) = d(y,x) </math>, and (4) "triangle inequality": <math> d(x,y) \le d(x,z) + d(z,y) </math>.
+# {{mathematics}} A measurement of the "distance" between two points in some [[metric space]]: it is a function ''d''(''x'',''y'') between points ''x'' and ''y'' satisfying the following properties: (1) "[[positive definiteness]]": <math> d(x,y) \ge 0 </math> and <math> d(x,y) = 0 \mbox{ iff } x=y </math>, (2) "[[symmetric|symmetry]]": <math> d(x,y) = d(y,x) </math>, and (3) "[[triangle inequality]]": <math> d(x,y) \le d(x,z) + d(z,y) </math>.
 
 ====Synonyms====
 * [[measure]]
