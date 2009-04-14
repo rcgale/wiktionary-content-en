@@ -53,21 +53,21 @@ Old English ''[[eahta]]''
 * [[Alutiiq]]: {{tø|ems|inglulgen}}
 * [[American Sign Language]]: [[Image:LSQ 8.jpg|30px]]
 * [[Amharic]]: [[ስምንት]] (smnt) (numeral: [[፰]])
-* Arabic: {{t|ar|ثمانية|tr=θamānya|sc=Arab}} (numeral: {{Arab|[[٨]]}})
-*: Egyptian Arabic {{t|arz|تمانية|tr=tamaaniyya|sc=Arab}}
+* Arabic: {{t-|ar|ثمانية|tr=θamānya|sc=Arab}} (numeral: {{Arab|[[٨]]}})
+*: Egyptian Arabic {{tø|arz|تمانية|tr=tamaaniyya|sc=Arab|xs=Egyptian Arabic}}
 * Aramaic:
 *: Syriac: [[ܬܡܢܝܐ]] (tmānyā’) {{m}}, [[ܬܡܢܐ]] (tmāne’) {{f}}
 *: Hebrew: [[תמניא]] (tmānyā’) {{m}}, [[תמנא]] (tmāne’) {{f}}
 * Armenian: [[ութ]] (ut')
 * [[Assamese]]: [[আট]] (āṭ)
-* [[Basque]]: {{t|eu|zortzi}}
+* [[Basque]]: {{t-|eu|zortzi|xs=Basque}}
 * Bengali: {{tø|bn|আট|tr=āṭ|sc=Beng}} (numeral: {{Beng|[[৮]]}})
 * Bosnian: {{t-|bs|osam}}
 * [[Breton]]: [[eizh]]
-* Bulgarian: {{t|bg|осем|tr=ósem}}
+* Bulgarian: {{t|bg|осем|tr=ósem|sc=Cyrl}}
 * {{trreq|Burmese}}: (numeral: [[၈]])
-* [[Catalan]]: {{t|ca|vuit}}
-*: [[Valencian]]: {{t|ca|huit}}
+* [[Catalan]]: {{t+|ca|vuit}}
+*: [[Valencian]]: {{t-|ca|huit}}
 * [[Central Atlas Tamazight]]: {{tø|tzm|ⵜⴰⵎ|tr=tam|sc=Tfng|xs=Central Atlas Tamazight}}
 * [[Chamicuro]]: {{tø|ccc|pusak}}
 * Cherokee: [[ᏧᏁᎳ]] (tsunela)
@@ -93,10 +93,10 @@ Old English ''[[eahta]]''
 * [[Erzya]]: [[кавксо]] (kavkso)
 * Esperanto: {{t+|eo|ok|xs=Esperanto}}
 * Estonian: {{t-|et|kaheksa}}
-* Finnish: {{t|fi|kahdeksan}}
+* Finnish: {{t+|fi|kahdeksan}}
 * French: {{t+|fr|huit}}
 * [[Garífuna]]: [[widü]]
-* Georgian: {{t|ka|რვა|tr=rva}}
+* Georgian: {{t+|ka|რვა|tr=rva|xs=Georgian}}
 * German: {{t+|de|acht}}
 * Greek: [[οχτώ]] (okhtó), [[οκτώ]] (októ)
 * [[Guaraní]]: [[poapy]]
@@ -150,7 +150,7 @@ Old English ''[[eahta]]''
 * [[Punjabi]]: [[ਅੱਠ]] (aṭṭh) (numeral: [[੮]])
 * [[Quechua]]: [[pusajj]]
 * Romanian: {{t-|ro|opt}}
-* Russian: {{t|ru|восемь|tr=vósem’}}
+* Russian: {{t+|ru|восемь|tr=vósem’|sc=Cyrl}}
 * Sanskrit: [[अष्टन्]] (a<u>st</u>an), [[अष्ट]] {{unicode|(aṣṭa)}}
 * [[Scottish Gaelic]]: [[ochd]]
 * [[Sindhi]]: {{sd-Arab|[[اَٺَ]]}} (āta)
@@ -162,16 +162,16 @@ Old English ''[[eahta]]''
 * Swedish: [[åtta]] ([[:sv:åtta|^]])
 * [[Tachelhit]]: {{tø|shi|tam|m|f|xs=Tachelhit}}
 * [[Tagalog]]: [[walo]]
-* [[Tamil]]: {{t|ta|எட்டு|tr=eṭṭu}} (numeral: [[௮]])
+* [[Tamil]]: {{t+|ta|எட்டு|tr=eṭṭu|xs=Tamil}} (numeral: [[௮]])
 * [[Taos]]: [[xwíli]]
-* [[Tatar]]: {{t|tt|сигез}}, [[sigez#Tatar|sigez]]
+* [[Tatar]]: {{t+|tt|сигез|sc=Cyrl|xs=Tatar}}, [[sigez#Tatar|sigez]]
 * [[Telugu]]: [[ఎనిమిది]] (numeral: [[౮]])
 * Thai: {{Thai|[[แปด]]}} (bpàet) (numeral: {{Thai|[[๘]]}})
 * {{trreq|Tibetan}}: (numeral: [[༨]])
 * [[Tok Pisin]]: [[etpela]]
 * Turkish: {{t+|tr|sekiz}}
 * [[Tzutujil]]: [[bilaje]]
-* Ukrainian: {{t|uk|вісім|tr=vísim}}
+* Ukrainian: {{t|uk|вісім|tr=vísim|sc=Cyrl|xs=Ukrainian}}
 * Urdu: {{ur-Arab|[[اٹھ|آٹھ]]}} {{unicode|(āṭh)}}
 * [[Veps]]: [[kahesa]]
 * Vietnamese: [[tám]]
@@ -198,8 +198,8 @@ Old English ''[[eahta]]''
 
 ====Translations====
 {{trans-top|Playing card with value 8}}
-* [[Catalan]]: {{t|ca|vuit|m}}
-*: [[Valencian]]: {{t|ca|huit|m}}
+* [[Catalan]]: {{t+|ca|vuit|m}}
+*: [[Valencian]]: {{t-|ca|huit|m}}
 * Danish: {{t-|da|otter|c}}
 * Dutch: {{t+|nl|acht|f}}
 * Finnish: {{t-|fi|kahdeksikko}}, {{t+|fi|kasi}}
@@ -213,8 +213,8 @@ Old English ''[[eahta]]''
 {{trans-bottom}}
 
 {{trans-top|The digit/figure 8}}
-* [[Catalan]]: {{t|ca|vuit|m}}
-*: [[Valencian]]: {{t|ca|huit|m}}
+* [[Catalan]]: {{t+|ca|vuit|m}}
+*: [[Valencian]]: {{t-|ca|huit|m}}
 * Danish: [[otter#Danish|otter]] {{c}}, [[ottetal]] {{n}}
 * Dutch: {{t+|nl|acht|f}}
 * Finnish: {{t-|fi|kahdeksikko}}, {{t+|fi|kasi}}
