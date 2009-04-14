@@ -40,14 +40,14 @@
 * Aramaic:
 *: Syriac: [[ܬܪܝܢ]] (trēn) {{m}}, [[ܬܪܬܝܢ]] (tartēn) {{f}}
 *: Hebrew: [[תרין]] (trēn) {{m}}, [[תרתין]] (tartēn) {{f}}
-* Armenian: {{t|hy|երկու|sc=Armn|tr=erku}}, {{t|hy|երկուս|sc=Armn|tr=erkus}}
+* Armenian: {{t+|hy|երկու|tr=erku|sc=Armn|xs=Armenian}}, {{t-|hy|երկուս|tr=erkus|sc=Armn|xs=Armenian}}
 * [[Assamese]]: [[দুই]] (dui)
 * [[Aymara]]: [[paya]]
 * [[Basque]]: [[bi#Basque|bi]]
 * Bengali: {{tø|bn|দুই|tr=dui|sc=Beng}} (numeral: {{Beng|[[২]]}})
 * Bosnian: {{t-|bs|dva}}
 * [[Breton]]: [[daou]] {{m}}, [[div]] {{f}}
-* Bulgarian: {{t|bg|две|tr=dve}}
+* Bulgarian: {{t+|bg|две|tr=dve|sc=Cyrl}}
 * {{trreq|Burmese}}: (numeral: [[၂]])
 * [[Catalan]]: {{t+|ca|dos|m}}, {{t-|ca|dues|f}}
 * [[Central Atlas Tamazight]]: {{tø|tzm|ⵙⵉⵏ|m|tr=sin|sc=Tfng|xs=Central Atlas Tamazight}}
@@ -75,13 +75,13 @@
 * Faroese: {{t-|fo|tveir|m|xs=Faroese}}, {{t-|fo|tvær|f|xs=Faroese}}, {{t-|fo|tvey|n|xs=Faroese}}
 *: Archaic: [[tvá]] {{m}}, [[tógva]] {{m}}
 * [[Fijian]]: [[rua]]
-* Finnish: {{t|fi|kaksi}}
+* Finnish: {{t+|fi|kaksi}}
 * French: {{t+|fr|deux}}
 * [[Ga]]: {{unicode|[[enyɔ̃]], [[enyɔ]]}}
 * [[Galician]]: [[dous]]
 * [[Garífuna]]: [[biñá]], [[biama]], [[bián]]
 * Georgian: [[ორი]] (ori)
-* German: {{t|de|zwei}}, [[zwo]]
+* German: {{t+|de|zwei}}, {{t+|de|zwo}}
 * Greek: [[δύο]] (dýo)
 * [[Guaraní]]: [[mokõi]]
 * {{trreq|Gujarati}}: (numeral: [[૨]])
@@ -138,22 +138,22 @@
 * [[Rohingya]]: [[dui]]
 * [[Romani]]: [[dui]]
 * Romanian: {{t-|ro|doi|m}}, {{t-|ro|două|f}}
-* Russian: {{t|ru|два|tr=dva|m|n}}, {{t|ru|две|tr=dve|f}}, {{t|ru|двое|tr=dvóje}} ''(collective)''
+* Russian: {{t+|ru|два|m|n|tr=dva|sc=Cyrl}}, {{t-|ru|две|f|tr=dve|sc=Cyrl}}, {{t|ru|двое|tr=dvóje|sc=Cyrl}} ''(collective)''
 * [[Sami]]: [[guokte]]
 * Sanskrit: [[द्वि]] (dvi)
 * [[Scottish Gaelic]]: [[dà#Scottish Gaelic|dà]] (''before nouns''), [[dhà]] (''free-standing'')
 * Serbian:
-*: Cyrillic: {{t|sr|два}}
+*: Cyrillic: {{t+|sr|два|sc=Cyrl}}
 *: Roman: [[dva#Serbian|dva]]
 * [[Sindhi]]: {{sd-Arab|[[ٻَه]]}} (ba)
 * [[Sinhala]]: [[දෙක]] (dheka)
-* Slovak: {{t|sk|dvaja}}, {{t|sk|dva}}, {{t|sk|dve}}
+* Slovak: {{t|sk|dvaja}}, {{t-|sk|dva}}, {{t|sk|dve}}
 * Slovene: [[dve]], [[dva#Slovene|dva]]
 * Spanish: {{t+|es|dos}}
-* Swedish: {{t|sv|två}}
+* Swedish: {{t+|sv|två}}
 * [[Tachelhit]]: {{tø|shi|sin|m|xs=Tachelhit}}, {{tø|shi|snat|f|xs=Tachelhit}}
 * [[Tagalog]]: [[dalawá]]
-* Tamil: {{t|ta|இரண்டு|tr=iraṇṭu}} (numeral: [[௨]])
+* Tamil: {{t+|ta|இரண்டு|tr=iraṇṭu|xs=Tamil}} (numeral: [[௨]])
 * [[Taos]]: [[wí’iną]]
 * [[Tatar]]: {{t+|tt|ике|sc=Cyrl|xs=Tatar}}, {{t-|tt|ike|xs=Tatar}}
 * [[Telugu]]: [[రెండు]] (remddu) (numeral: [[౨]])
@@ -164,7 +164,7 @@
 * [[Tupinambá]]: [[mokõî]]
 * Turkish: {{t+|tr|iki}}
 * [[Tzutujil]]: ''ka’i''
-* Ukrainian: {{t|uk|два|tr=dva|m}}, [[дві]] (dvi) {{f}}, [[двоє]] (dvóje, ''collective''), [[двійко]] (dvíjko, ''colloquial''), [[двієчко]] (dvíječko, ''colloquial diminutive'')
+* Ukrainian: {{t+|uk|два|m|tr=dva|sc=Cyrl|xs=Ukrainian}}, [[дві]] (dvi) {{f}}, [[двоє]] (dvóje, ''collective''), [[двійко]] (dvíjko, ''colloquial''), [[двієчко]] (dvíječko, ''colloquial diminutive'')
 * Urdu: {{ur-Arab|[[دو]]}} (do)
 * [[Veps]]: [[kakś]]
 * Vietnamese: {{t+|vi|hai|xs=Vietnamese}}
@@ -202,7 +202,7 @@
 
 ====Translations====
 {{trans-top|'''digit or figure'''}}
-* Armenian: {{t|hy|երկու|sc=Armn|tr=erku}}, {{t|hy|երկուս|sc=Armn|tr=erkus}}
+* Armenian: {{t+|hy|երկու|tr=erku|sc=Armn|xs=Armenian}}, {{t-|hy|երկուս|tr=erkus|sc=Armn|xs=Armenian}}
 * Bosnian: {{t-|bs|dvojka|f}}
 * [[Catalan]]: {{t+|ca|dos|m}}
 * Chinese: [[二]] (èr)
