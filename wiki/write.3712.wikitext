@@ -70,20 +70,20 @@
 {{trans-top|to form letters, etc.}}
 * {{trreq|Afrikaans}}
 * Albanian: {{t-|sq|shkruan|xs=Albanian}}
-* [[Amharic]]: {{t|am|ጻፈ|tr=TS'afä|sc=Ethi}}, {{t|am|ደረሰ|tr=däräsä|sc=Ethi}}
+* [[Amharic]]: {{t|am|ጻፈ|tr=TS'afä|sc=Ethi|xs=Amharic}}, {{t|am|ደረሰ|tr=däräsä|sc=Ethi|xs=Amharic}}
 * Arabic: {{Arab|[[كتب|كَتَبَ]]}} (kátaba)
 * {{trreq|Aragonese}}
 * Aramaic:
 *: Syriac: [[ܟܬܒ]] (kātēb)
 *: Hebrew: {{t-|he|כתב|tr=kātēb|sc=Hebr}}
-* Armenian: {{t|hy|գրել|sc=Armn|tr=grel}}
+* Armenian: {{t+|hy|գրել|tr=grel|sc=Armn|xs=Armenian}}
 * {{trreq|Assamese}}
 * [[Asturian]]: {{t+|ast|escribir|xs=Asturian}}
-* [[Azeri]]: {{t|az|yazmaq}}
+* [[Azeri]]: {{t+|az|yazmaq|xs=Azeri}}
 * {{trreq|Bashkir}}
-* [[Basque]]: {{t|eu|idatzi}}
+* [[Basque]]: {{t-|eu|idatzi|xs=Basque}}
 * {{trreq|Bavarian}}
-* Belarusian: {{t|be|пісаць}}
+* Belarusian: {{t|be|пісаць|sc=Cyrl|xs=Belarusian}}
 * {{trreq|Bengali}}
 * {{trreq|Bosnian}}
 * [[Breton]]: {{t+|br|skrivañ|xs=Breton}}
@@ -98,7 +98,7 @@
 * {{trreq|Cornish}}
 * [[Crimean Tatar]]: {{tø|crh|yazmaq|xs=Crimean Tatar}}
 * Croatian: {{t+|hr|pisati|alt=písati}}
-* Czech: {{t-|cs|psát}}
+* Czech: {{t+|cs|psát}}
 * Danish: {{t+|da|skrive}}
 * {{trreq|Dhivehi}}
 * Dutch: {{t+|nl|schrijven}}
@@ -127,13 +127,13 @@
 * {{trreq|Kannada}}
 {{trans-mid}}
 * [[Khmer]]: {{Khmr|[[សរសេរ]]}} (sorsēi)
-* Korean: {{t|ko|쓰다|tr=sseuda}}
+* Korean: {{t+|ko|쓰다|tr=sseuda|sc=Hang}}
 * Kurdish: {{ku-Arab|[[نوسین]]}}
 * {{trreq|Ladino}}
-* Lao: {{t-|lo|ຂຽນ|tr=khian|sc=Laoo|xs=Lao}}
+* Lao: {{t+|lo|ຂຽນ|tr=khian|sc=Laoo|xs=Lao}}
 * Latin: {{t+|la|scribo|alt=scrībō}}
 * Latvian: {{t|lv|rakstīt|xs=Latvian}}
-* Lithuanian: {{t|lt|rašyti}}
+* Lithuanian: {{t-|lt|rašyti|xs=Lithuanian}}
 * [[Lojban]]: [[ciska]]
 * {{trreq|Luganda}}
 * {{trreq|Malay}}
@@ -150,7 +150,7 @@
 * [[Occitan]]: {{t+|oc|escriure|xs=Occitan}}
 * {{trreq|Oriya}}
 * {{trreq|Oromo}}
-* Ossetic: {{t|os|фыссын|tr=fyssyn}}
+* Ossetic: {{tø|os|фыссын|tr=fyssyn|sc=Cyrl|xs=Ossetian}}
 * {{trreq|Pangasinan}}
 * Persian: {{t+|fa|نوشتن|sc=fa-Arab|xs=Persian}}
 * {{trreq|Piedmontese}}
@@ -161,7 +161,7 @@
 * Russian: {{t+|ru|писать|tr=pisát’|sc=Cyrl}} {{impf}}, {{t+|ru|написать|tr=napisát’|sc=Cyrl}} {{pf}}
 * {{trreq|Samoan}}
 * Sanskrit: {{t|sa|लिख्|sc=Deva|xs=Sanskrit}}
-* Serbian: {{t|sr|писати}}
+* Serbian: {{t|sr|писати|sc=Cyrl}}
 * Slovak: {{t|sk|písať}}
 * Slovene: {{t+|sl|pisati}}
 * Spanish: {{t+|es|escribir}}
@@ -176,7 +176,7 @@
 * {{trreq|Tok Pisin}}
 * {{trreq|Tongan}}
 * Turkish: {{t+|tr|yazmak}}
-* Ukrainian: {{t|uk|писати|tr=pisati}}
+* Ukrainian: {{t|uk|писати|tr=pisati|sc=Cyrl|xs=Ukrainian}}
 * {{trreq|Urdu}}
 * Vietnamese: {{t+|vi|viết|xs=Vietnamese}}
 * Welsh: {{t-|cy|ysgrifennu|xs=Welsh}}
@@ -186,36 +186,36 @@
 
 {{trans-top|to send a letter to}}
 * Arabic: {{Arab|[[كتب|كَتَبَ]]}} (kátaba)
-* Armenian: {{t|hy|գրել|sc=Armn|tr=grel}}
+* Armenian: {{t+|hy|գրել|tr=grel|sc=Armn|xs=Armenian}}
 * Croatian: {{t+|hr|pisati|alt=písati}}
 * Czech: {{t-|cs|napsat}}
 * Danish: {{t+|da|skrive}}
-* Dutch: {{t|nl|schrijven}} ([[naar]])
+* Dutch: {{t+|nl|schrijven}} ([[naar]])
 * Esperanto: [[skribi]] [[al]]
 * Estonian: {{t-|et|kirjutama}}
 * Finnish: {{t+|fi|kirjoittaa}}
-* French: {{t|fr|écrire}} [[à#French|à]]
+* French: {{t+|fr|écrire}} [[à#French|à]]
 * German: {{t+|de|schreiben}}
 {{trans-mid}}
 * Greek: {{t+|el|γράφω|sc=Grek}} (gráfo) (+ [[σε]])
 * Icelandic: {{t+|is|skrifa|alt=skrifa utan á bréf}}
 * Irish: [[scríobh]] [[chuig]]
-* Italian: {{t|it|scrivere}} [[a#Italian|a]]
+* Italian: {{t+|it|scrivere}} [[a#Italian|a]]
 * Japanese: [[書く]] ([[かく]], kaku)
 * [[Lojban]]: te [[xatra]]
 * Norwegian: {{t+|no|skrive}}
 * Portuguese: {{t+|pt|escrever}}
 * Russian: {{t+|ru|писать|tr=pisát’|sc=Cyrl}} {{impf}}, {{t+|ru|написать|tr=napisát’|sc=Cyrl}} {{pf}}
-* Spanish: {{t|es|escribir}} a
-* Swedish: {{t|sv|skriva}} ([[till]])
+* Spanish: {{t+|es|escribir}} a
+* Swedish: {{t+|sv|skriva}} ([[till]])
 {{trans-bottom}}
 
 {{trans-top|to be the author of}}
 * Arabic: {{Arab|[[كتب|كَتَبَ]]}} (kátaba)
-* Armenian: {{t|hy|գրել|sc=Armn|tr=grel}}
+* Armenian: {{t+|hy|գրել|tr=grel|sc=Armn|xs=Armenian}}
 * Croatian: {{t+|hr|pisati|alt=písati}}
-* Czech: {{t-|cs|psát}}
-* Danish: {{t|da|skrive}}, {{t|da|digte}}, {{t|da|forfatte}} (''usually not used'')
+* Czech: {{t+|cs|psát}}
+* Danish: {{t+|da|skrive}}, {{t|da|digte}}, {{t|da|forfatte}} (''usually not used'')
 * Dutch: {{t+|nl|schrijven}}
 * Esperanto: {{t-|eo|verki|xs=Esperanto}}
 * Estonian: {{t-|et|kirjutama}}
@@ -242,15 +242,15 @@
 {{trans-bottom}}
 
 {{trans-top|to be an author}}
-* Armenian: {{t|hy|գրել|sc=Armn|tr=grel}}
-* Czech: {{t-|cs|psát}}
+* Armenian: {{t+|hy|գրել|tr=grel|sc=Armn|xs=Armenian}}
+* Czech: {{t+|cs|psát}}
 * Dutch: {{t+|nl|schrijven}}
 * Esperanto: {{t-|eo|verki|xs=Esperanto}}
 * Estonian: {{t|et|kirjanik olema}} (''belles-lettres''); {{t|et|literaat olema}}
 * [[Ewe]]: [[ŋlɔ]]
 * Finnish: {{t+|fi|kirjoittaa}}
 * French: {{t+|fr|écrire}}
-* German: {{t|de|schreiben}}, {{t|de|texten}}, {{t|de|dichten}}
+* German: {{t+|de|schreiben}}, {{t|de|texten}}, {{t+|de|dichten}}
 {{trans-mid}}
 * Icelandic: {{t+|is|rithöfundur}}
 * Japanese: [[書く]] ([[かく]], kaku)
@@ -258,12 +258,12 @@
 * Norwegian: {{t+|no|skrive}}
 * Portuguese: {{t+|pt|escrever}}
 * Russian: {{t+|ru|писать|tr=pisát’|sc=Cyrl}} {{impf}}, {{t+|ru|написать|tr=napisát’|sc=Cyrl}} {{pf}}
-* Swedish: {{t|sv|skriva}}, {{t|sv|författa}} (''works of fiction'')
+* Swedish: {{t+|sv|skriva}}, {{t+|sv|författa}} (''works of fiction'')
 * {{trreq|Welsh}}
 {{trans-bottom}}
 
 {{trans-top|record (data)}}
-* Armenian: {{t|hy|գրել|sc=Armn|tr=grel}}
+* Armenian: {{t+|hy|գրել|tr=grel|sc=Armn|xs=Armenian}}
 * Croatian: {{t+|hr|pisati|alt=písati}}
 * Czech: {{t-|cs|zapisovat}}
 * Finnish: {{t+|fi|kirjoittaa}}
@@ -281,9 +281,9 @@
 * {{ttbc|Hebrew}}: {{t-|he|לכתוב|tr=lihtov|sc=Hebr}}, {{t-|he|לחבר|tr=lehaber|sc=Hebr}}
 * {{ttbc|Hebrew}}: [[לכתוב ל]] (lihtov l)
 {{checktrans-mid}}
-* {{ttbc|Indonesian}}: {{t|id|tulis}}
+* {{ttbc|Indonesian}}: {{t+|id|tulis|xs=Indonesian}}
 * {{ttbc|Interlingua}}: [[scriber]] (1, 2)
-* {{ttbc|Korean}}: {{t+|ko|쓰다|tr=sseuda|sc=Hang}}, {{t|ko|필기하다|tr=pilgihada}}
+* {{ttbc|Korean}}: {{t+|ko|쓰다|tr=sseuda|sc=Hang}}, {{t|ko|필기하다|tr=pilgihada|sc=Hang}}
 {{trans-bottom}}
 
 ===References===
