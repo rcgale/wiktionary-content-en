@@ -97,13 +97,13 @@
 =====Translations=====
 {{trans-top|not closed}}
 * [[American Sign Language]]: {{qualifier|with relevant classifier, e.g. of a swinging door}} {{tø|ase|FlatB@Thumb-PalmForward-FlatB@FromCenterNeckhigh-PalmForward FlatB@NearSideNeckhigh-PalmAcross-FlatB@FromCenterNeckhigh-PalmForward|xs=American Sign Language}}, {{qualifier|of a gate}} {{tø|ase|FlatB@TipFinger-FingerAcross-FlatB@FromCenterNeckhigh-FingerAcross FlatB@NearSideNeckhigh-FingerBack-FlatB@FromCenterNeckhigh-FingerAcross|xs=American Sign Language}}, {{qualifier|of a box}} {{tø|ase|FlatB@Thumb-PalmDown-A@CenterChesthigh FlatB@SideShoulderHigh-PalmAcross-A@CenterChesthigh|xs=American Sign Language}}, {{qualifier|of a book}} {{tø|ase|FlatB@Palm-PalmAcross-FlatB@CenterChesthigh-PalmAcross FlatB@Ulnar-PalmUp-FlatB@CenterChesthigh-PalmUp|xs=American Sign Language}}
-* Arabic: {{t|ar|مفتوح|alt=مَفْتُوحْ|sc=Arab|tr=maftuuH}}
-*: Egyptian Arabic: {{t|arz|مفتوح|sc=Arab|tr=maftuuH}}
+* Arabic: {{t-|ar|مفتوح|alt=مَفْتُوحْ|tr=maftuuH|sc=Arab}}
+*: Egyptian Arabic: {{tø|arz|مفتوح|tr=maftuuH|sc=Arab|xs=Egyptian Arabic}}
 * Armenian: {{t|hy|բաց|tr=bac'|sc=Hayeren|xs=Armenian}}
 * Bulgarian: {{t|bg|отворен|m|tr=otvóren|sc=Cyrl}}, {{t-|bg|открит|m|tr=otkrít|sc=Cyrl}}, {{t-|bg|разтворен|m|tr=raztvóren|sc=Cyrl}}
 * [[Catalan]]: [[obert]]
 * Czech: {{t-|cs|otevřený|m}}
-* Danish: [[åben]]
+* Danish: {{t-|da|åben}}
 * Dutch: {{t+|nl|open}}
 * Esperanto: {{t-|eo|malfermita|xs=Esperanto}}, {{t-|eo|aperta|xs=Esperanto}}
 * Estonian: {{t|et|lahtine}}
@@ -139,7 +139,7 @@
 * Bulgarian: {{t|bg|отворен|m|tr=otvóren|sc=Cyrl}}
 * [[Catalan]]: [[obert]]
 * Czech: {{t-|cs|otevřený|m}}
-* Danish: [[åben]]
+* Danish: {{t-|da|åben}}
 * Dutch: {{t+|nl|open}}
 * Esperanto: {{t-|eo|malfermita|xs=Esperanto}}, {{t-|eo|aperta|xs=Esperanto}}
 * Estonian: {{t|et|avatud}}
@@ -168,7 +168,7 @@
 * Bulgarian: {{t|bg|отворен|m|tr=otvóren|sc=Cyrl}}, {{t-|bg|открит|m|tr=otkrít|sc=Cyrl}}, {{t|bg|податлив|m|tr=podatlív|sc=Cyrl}}, {{t|bg|склонен|m|tr=sklónen|sc=Cyrl}}, {{t|bg|непредубеден|m|tr=nepredubedén|sc=Cyrl}}
 * [[Catalan]]: [[obert]]
 * Czech: {{t-|cs|otevřen|m}}
-* Danish: [[åben]]
+* Danish: {{t-|da|åben}}
 * Dutch: {{t+|nl|open}}
 * Estonian: {{t-|et|aval}}
 * Finnish: {{t+|fi|avoin}}
@@ -192,7 +192,7 @@
 * Bulgarian: {{t-|bg|открит|m|tr=otkrít|sc=Cyrl}}, {{t|bg|явен|m|tr=yáven|sc=Cyrl}}, {{t|bg|общодостъпен|m|tr=obshtodostápen|sc=Cyrl}}, {{t|bg|неограничен|m|tr=neogranichén|sc=Cyrl}}, {{t|bg|свободен|m|tr=svobóden|sc=Cyrl}}, {{t|bg|обществен|m|tr=obshtéstven|sc=Cyrl}}, {{t|bg|публичен|m|tr=públichen|sc=Cyrl}}
 * [[Catalan]]: [[obert]], [[lliure]]
 * Czech: {{t-|cs|veřejný|m}}
-* Danish: [[åben]]
+* Danish: {{t-|da|åben}}
 * Dutch: {{t+|nl|open}}
 * Esperanto: {{t-|eo|publika|xs=Esperanto}}
 * Estonian: {{t|et|avalik}}
@@ -261,8 +261,8 @@
 =====Translations=====
 {{trans-top|to make something accessible}}
 * [[American Sign Language]]: {{qualifier|with relevant classifier, e.g. a swinging door}} {{tø|ase|FlatB@Thumb-PalmForward-FlatB@FromCenterNeckhigh-PalmForward FlatB@NearSideNeckhigh-PalmAcross-FlatB@FromCenterNeckhigh-PalmForward|xs=American Sign Language}}, {{qualifier|a gate}} {{tø|ase|FlatB@TipFinger-FingerAcross-FlatB@FromCenterNeckhigh-FingerAcross FlatB@NearSideNeckhigh-FingerBack-FlatB@FromCenterNeckhigh-FingerAcross|xs=American Sign Language}}, {{qualifier|a box}} {{tø|ase|FlatB@Thumb-PalmDown-A@CenterChesthigh FlatB@SideShoulderHigh-PalmAcross-A@CenterChesthigh|xs=American Sign Language}}, {{qualifier|a book}} {{tø|ase|FlatB@Palm-PalmAcross-FlatB@CenterChesthigh-PalmAcross FlatB@Ulnar-PalmUp-FlatB@CenterChesthigh-PalmUp|xs=American Sign Language}}
-* Arabic: {{t|ar|فتح|alt=فَتَحَ|sc=Arab|tr={{IPAchar|fátaħa}}}}
-*: Egyptian Arabic: {{t|arz|فتح|sc=Arab|tr={{IPAchar|fátaħa}}}}
+* Arabic: {{t-|ar|فتح|fátaħa|alt=فَتَحَ|tr={{IPAchar|sc=Arab}}}}
+*: Egyptian Arabic: {{tø|arz|فتح|fátaħa|tr={{IPAchar|sc=Arab|xs=Egyptian Arabic}}}}
 * Armenian: [[բացել]] (bac'el)
 * [[Catalan]]: [[obrir]]
 * Chinese: [[開]], [[开]] (kāi), [[打開]], [[打开]] (dǎkāi)
@@ -437,14 +437,14 @@
 =====Translations=====
 
 {{trans-top|sports event}}
-* Finnish: [[avoin|avoimet]]
+* Finnish: {{t+|fi|avoin|alt=avoimet}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|broken wire}}
 * Estonian: {{t|et|katkestus}}
 {{trans-mid}}
-* Finnish: [[katkos]]
+* Finnish: {{t-|fi|katkos}}
 {{trans-bottom}}
 
 =====Derived terms=====
