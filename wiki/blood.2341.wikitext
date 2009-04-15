@@ -84,10 +84,10 @@
 * Aramaic:
 *: Syriac: [[ܕܡܐ]] (dmā’) {{m}}
 *: Hebrew: [[דמא]] (dmā’) {{m}}
-* Armenian: {{t|hy|արյուն|sc=Armn|tr=aryun}}
+* Armenian: {{t+|hy|արյուն|tr=aryun|sc=Armn|xs=Armenian}}
 *: Old Armenian: {{tø|xcl|արիւն|sc=Armn|tr=ariwn}}
 * [[Aromanian]]: {{tø|rup|sãndze‎|xs=Aromanian}}
-* [[Azeri]]: {{t|az|qan}}
+* [[Azeri]]: {{t+|az|qan|xs=Azeri}}
 * Belarusian: {{t-|be|кроў|f|tr=kroŭ|sc=Cyrl|xs=Belarusian}}
 * Bulgarian: {{t+|bg|кръв|f|tr=krǎv|sc=Cyrl}}
 * CJKV Characters: [[血]]
@@ -104,16 +104,16 @@
 * Estonian: {{t-|et|veri}}
 * Finnish: {{t+|fi|veri}}
 * French: {{t+|fr|sang|m}}
-* Georgian: {{t|ka|სისხლი|tr=sisxli}}
+* Georgian: {{t-|ka|სისხლი|tr=sisxli|xs=Georgian}}
 * German: {{t+|de|Blut|n}}
 * Greek: {{t+|el|αίμα|n|tr=aíma|sc=Grek}}
 * Hawaiian: [[koko]]
 * Hebrew: {{he-translation|דם|dam|wv=דָּם|m}}
-* Hindi: {{t|hi|ख़ून|tr=<u>kh</u>ūn|sc=Deva}},  {{t|hi|रक्त|tr=rakta|sc=Deva}}
+* Hindi: {{t-|hi|ख़ून|tr=<u>kh</u>ūn|sc=Deva|xs=Hindi}},  {{t|hi|रक्त|tr=rakta|sc=Deva|xs=Hindi}}
 * Hungarian: {{t+|hu|vér}}
 * [[Ilocano]]: [[dara]]
 * [[Inuktitut]]: [[ᐊᐅᒃ]] (auk)
-* Irish: [[fuil]] {{f}}
+* Irish: {{t+|ga|fuil|f|xs=Irish}}
 * Italian: {{t+|it|sangue|m}}
 * Itelmen: [[mɫim]]
 * Japanese: {{t+|ja|血|tr=[[ち]], chi|sc=Jpan}}, {{t+|ja|血液|tr=[[けつえき]], ketsueki|sc=Jpan}}
@@ -124,8 +124,8 @@
 *: Sorani: {{t+|ku|خوێن|tr=xwén|sc=ku-Arab}}
 {{trans-mid}}
 * Latin: {{t+|la|sanguis}}
-* Latvian: {{t|lv|asinis}}
-* Lithuanian: {{t|lt|kraujas|m}}
+* Latvian: {{t-|lv|asinis|xs=Latvian}}
+* Lithuanian: {{t+|lt|kraujas|m|xs=Lithuanian}}
 * [[Low Saxon]]: {{t-|nds|blood|n|xs=Low Saxon}}
 * [[Lower Sorbian]]: {{tø|dsb|kšej|f|xs=Lower Sorbian}}
 * [[Macedonian]]: {{t-|mk|крв|f|sc=Cyrl|xs=Macedonian}}
@@ -137,9 +137,9 @@
 *: Cyrillic: {{tø|cu|кръі|f|tr=kry|sc=Cyrl|xs=Old Church Slavonic}}
 *: Glagolitic: {{tø|cu|ⰍⰓⰟⰊ|f|tr=kry|sc=Glag|xs=Old Church Slavonic}}
 * [[Ossetian]]:
-*: Digor: {{t|os|тог|tr=tog}}
-*: Iron: {{t|os|туг|tr=tug}}
-* Persian: {{t|fa|خون|tr=khun|sc=fa-Arab|xs=Persian}}
+*: Digor: {{tø|os|тог|tr=tog|sc=Cyrl|xs=Ossetian}}
+*: Iron: {{tø|os|туг|tr=tug|sc=Cyrl|xs=Ossetian}}
+* Persian: {{t+|fa|خون|tr=khun|sc=fa-Arab|xs=Persian}}
 * Polish: {{t+|pl|krew|f}}
 * Portuguese: {{t+|pt|sangue}}
 * [[Romani]]: [[rat]] {{m}}
@@ -149,8 +149,8 @@
 * [[Scots]]: {{tø|sco|blude|xs=Scots}}, {{tø|sco|bluid|xs=Scots}}
 * [[Scottish Gaelic]]: {{t-|gd|fuil|f|xs=Scottish Gaelic}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|крв|f|sc=Cyrl}}
-*: Roman: {{t|sh|krv|f}}
+*: Cyrillic: {{tø|sh|крв|f|sc=Cyrl|xs=Serbo-Croatian}}
+*: Roman: {{tø|sh|krv|f|xs=Serbo-Croatian}}
 * [[Sinhalese]]: {{t-|si|ලේ|tr=lee|xs=Sinhalese}}
 * Slovak: {{t-|sk|krv|f}}
 * Slovene: {{t+|sl|kri|f}}
@@ -161,13 +161,13 @@
 * Turkish: {{t+|tr|kan}}
 * Ukrainian: {{t+|uk|кров|f|tr=krow|sc=Cyrl|xs=Ukrainian}}
 * [[Upper Sorbian]]: {{tø|hsb|krej|f|xs=Upper Sorbian}}
-* Urdu: {{t|ur|خون|tr=<u>kh</u>ūn|sc=ur-Arab|xs=ur}}
+* Urdu: {{t-|ur|خون|tr=<u>kh</u>ūn|sc=ur-Arab|xs=Urdu}}
 * [[Yup'ik]]: [[auk]]
 {{trans-bottom}}
 
 {{trans-top|family relationship due to birth, e.g. between siblings}}
 * Albanian: {{t-|sq|gjak|xs=Albanian}}
-* Armenian: {{t|hy|արյունակցություն|sc=Armn|tr=aryunakc’ut’yun}}
+* Armenian: {{t|hy|արյունակցություն|tr=aryunakc’ut’yun|sc=Armn|xs=Armenian}}
 * Chinese: {{t-|cmn|血液|tr=xuèyè|sc=Hani|xs=Mandarin}}
 * Czech: {{t+|cs|krev|f}}
 * Danish: {{t+|da|blod|n}}
@@ -175,7 +175,7 @@
 * French: {{t+|fr|sang|m}}
 * German: {{t+|de|Blut|n}}, {{t+|de|Blutsbande|pl}}
 * Hungarian: {{t-|hu|vérrokon}}
-* Irish: [[gaol]] {{m}}
+* Irish: {{t-|ga|gaol|m|xs=Irish}}
 {{trans-mid}}
 * Japanese: {{t|ja|血縁|sc=Jpan}} ({{t|ja|けつえん|tr=ketsuen|sc=Jpan}})
 * Korean: {{t|ko|혈통|tr=hyeoltong|sc=Hang}}
@@ -184,8 +184,8 @@
 * Russian: {{t+|ru|кровь|f|tr=krov’|sc=Cyrl}}
 * [[Scots]]: {{tø|sco|blude|xs=Scots}}, {{tø|sco|bluid|xs=Scots}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|крв|f}}, {{t|sh|род|m}}
-*: Roman: {{t|sh|krv|f}}, {{t|sh|rod|m}}
+*: Cyrillic: {{tø|sh|крв|f|sc=Cyrl|xs=Serbo-Croatian}}, {{tø|sh|род|m|sc=Cyrl|xs=Serbo-Croatian}}
+*: Roman: {{tø|sh|krv|f|xs=Serbo-Croatian}}, {{tø|sh|rod|m|xs=Serbo-Croatian}}
 * [[Tagalog]]: {{t|tl|kadugo|xs=Tagalog}}, {{t|tl|kamag-anak|xs=Tagalog}}
 * [[West Frisian]]: {{t-|fy|bloed|n|xs=West Frisian}}
 {{trans-bottom}}
@@ -202,8 +202,8 @@
 * Russian: {{t+|ru|кровь|f|tr=krov’|sc=Cyrl}}
 * [[Scots]]: {{tø|sco|blude|xs=Scots}}, {{tø|sco|bluid|xs=Scots}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|крв|f}}
-*: Roman: {{t|sh|krv|f}}
+*: Cyrillic: {{tø|sh|крв|f|sc=Cyrl|xs=Serbo-Croatian}}
+*: Roman: {{tø|sh|krv|f|xs=Serbo-Croatian}}
 {{trans-bottom}}
 
 {{checktrans-top}}
