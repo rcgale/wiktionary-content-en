@@ -86,9 +86,9 @@
 * Armenian: [[նայել]] (nayel)
 * [[Breton]]: {{t-|br|sellout|xs=Breton}}
 * Chinese: [[看]] (kàn)
-* Czech: {{t-|cs|dívat}} se, {{t-|cs|podívat}} se
+* Czech: {{t-|cs|dívat}} se, {{t+|cs|podívat}} se
 * Dutch: {{t+|nl|kijken}}
-* Esperanto: {{t|eo|rigardi}}
+* Esperanto: {{t-|eo|rigardi|xs=Esperanto}}
 * [[Ewe]]: [[kpɔ]]
 * Finnish: {{t+|fi|katsoa}}
 * French: {{t+|fr|regarder}}
@@ -98,7 +98,7 @@
 * Irish: {{t-|ga|amharc|xs=Irish}}, {{t-|ga|féach|xs=Irish}}
 * Italian: {{t+|it|guardare}}
 {{trans-mid}}
-* Japanese: {{t|ja|見る|tr=miru|sc=Jpan}}, {{t|ja|見てみる|tr=mitemiru|sc=Jpan}}
+* Japanese: {{t+|ja|見る|tr=miru|sc=Jpan}}, {{t|ja|見てみる|tr=mitemiru|sc=Jpan}}
 * Korean: [[보다]] (boda)
 * Kurdish: {{ku-Arab|[[ته‌مه‌شاکردن]]}}
 * Norwegian: {{t+|no|se}}, {{t|no|skue}}
@@ -114,8 +114,8 @@
 {{trans-bottom}}
 
 {{trans-top|to appear, to seem}}
-* Czech: {{t-|cs|vypadat}}
-* Dutch: {{t+|nl|lijken}} (+ {{t+|nl|op}}), er {{t|nl|uitzien}} (+ {{t+|nl|als}})
+* Czech: {{t+|cs|vypadat}}
+* Dutch: {{t+|nl|lijken}} (+ {{t+|nl|op}}), er {{t+|nl|uitzien}} (+ {{t+|nl|als}})
 * [[Ewe]]: [[dze]]
 * Finnish: {{t+|fi|näyttää}}, {{t+|fi|vaikuttaa}}
 * French: {{t+|fr|sembler}}, {{t+|fr|paraître}}
@@ -125,7 +125,7 @@
 * Japanese: {{t-|ja|見える|tr=mieru|sc=Jpan}}
 {{trans-mid}}
 * Kurdish: {{ku-Arab|[[وا دیاره‌]]}}
-* Norwegian: {{t-|no|se ut}}, {{t-|no|synes}}
+* Norwegian: {{t-|no|se ut}}, {{t+|no|synes}}
 * Russian: {{t|ru|выглядеть|tr=výgljadet’|sc=Cyrl}} {{impf}}
 * [[Santali]]: {{tø|sat|ᱧᱮᱞ|tr=nyel|sc=Olck}}
 * [[Scots]]: [[leuk]], [[luke]], [[luik]]
@@ -156,7 +156,7 @@
 
 {{trans-top|to face}}
 * Finnish: [[sijaita]] (check usage!)
-* French: [[affronter]], [[faire face à]]
+* French: {{t+|fr|affronter}}, {{t-|fr|faire face à}}
 * German: [[schaut]]
 * Japanese: {{t|ja|向かう|tr=mukau|sc=Jpan}}
 {{trans-mid}}
@@ -222,7 +222,7 @@
 {{trans-mid}}
 * [[Scots]]: [[leuk]], [[luke]], [[luik]]
 * [[Scottish Gaelic]]: {{t-|gd|sùil|f|xs=Scottish Gaelic}}
-* Swedish: [[blick]] {{c}}
+* Swedish: {{t+|sv|blick|c}}
 * [[Telugu]]: {{t|te|చూపు|sc=Telu}} (choopu)
 {{trans-bottom}}
 
@@ -238,7 +238,7 @@
 * Hebrew: {{he-translation|מראה|mar`é}} {{m}}
 * Italian: {{t+|it|aspetto|m}}
 {{trans-mid}}
-* Norwegian: {{t|no|utseende|n}}
+* Norwegian: {{t-|no|utseende|n}}
 * Polish: {{t+|pl|wygląd}}
 * Portuguese: {{t+|pt|aspecto|m}}
 * Romanian: {{t-|ro|aspect|n}}
@@ -253,8 +253,8 @@
 * Czech: {{t+|cs|pohled|m}}
 * Dutch: {{t+|nl|blik|m}}
 * Estonian: {{t|et|pilk}}
-* Finnish: {{t-|fi|ilme}}, {{t|fi|katse}}
-* German: {{t|de|Fratze|f}}, {{t|de|Blick|m}}
+* Finnish: {{t-|fi|ilme}}, {{t+|fi|katse}}
+* German: {{t|de|Fratze|f}}, {{t+|de|Blick|m}}
 * Hebrew: {{he-translation|מבט|mabát}} {{m}}
 {{trans-mid}}
 * Norwegian: {{t|no|uttrykk|n}}, {{t|no|blikk|n}}
