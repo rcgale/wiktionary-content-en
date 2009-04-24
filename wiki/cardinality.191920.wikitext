@@ -6,13 +6,13 @@
 
 # {{settheory}} Of a set, the number of [[element]]s it contains.
 #: ''The empty set has a '''cardinality''' of zero.''
+# {{data modeling}} The property of a relationship between a [[database]] [[table]] and another one, specifying whether it is one-to-one, one-to-many, many-to-one, or many-to-many.
 
 ====Synonyms====
-* (''in set theory''): [[power]]
+* {{sense|in set theory}} [[power]]
 
 ====Related terms====
-* [[aleph]]
-* [[cardinal number]]
+* [[cardinal]]
 
 ====Translations====
 {{trans-top|in set theory}}
@@ -26,6 +26,11 @@
 * Portuguese: [[cardinalidade]] {{f}}
 * Spanish: [[cardinalidad]]
 {{trans-bottom}}
+
+====See also====
+* [[aleph]]
+* [[cardinal number]]
+* [[multiplicity]]
 
 [[id:cardinality]]
 [[pl:cardinality]]
