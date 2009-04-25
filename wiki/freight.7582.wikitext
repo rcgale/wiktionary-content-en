@@ -11,7 +11,7 @@ From {{etyl|dum}} {{term|vracht|lang=dum}}, {{etyl|gml}} {{term|vrecht||cost of 
 
 # [[payment|Payment]] for transportation.
 #: ''The '''freight''' was more expensive for cars than for coal.''
-# [[Good]]s or [[item]]s in [[transport]].
+# [[goods|Goods]] or [[item]]s in [[transport]].
 #: ''The '''freight''' shifted and the trailer turned over on the highway.''
 # Transport of goods.
 #: ''They shipped it ordinary '''freight''' to spare the expense.''
@@ -24,27 +24,49 @@ From {{etyl|dum}} {{term|vracht|lang=dum}}, {{etyl|gml}} {{term|vrecht||cost of 
 * [[pay the freight]]
 
 ====Translations====
-{{top}}
-* Dutch: [[vracht]] {{f}}, [[cargo]] {{f}}
-* Esperanto: [[ŝarĝo]], [[kargo]], [[frajto]]
-* Finnish: [[rahti]]
-* French: [[cargo]] {{m}}
-* German: [[Fracht]] {{f}}
-* Indonesian: [[muat|muatan]], [[kargo]]
-{{mid}}
-* Korean: [[짐]] (jim), [[바리]] (bari)
-{{bottom}}
+{{trans-top|payment for transportation}}
+* Finnish: {{t|fi|kuljetusmaksu}}, {{t|fi|rahtimaksu}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|goods}}
+* Finnish: {{t|fi|rahtitavara}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|transport of goods}}
+* Finnish: {{t|fi|kuljetus}}, {{t|fi|rahti}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* {{ttbc|Dutch}}: {{t|nl|vracht|g=f}}, {{t|nl|cargo|g=f}}
+* {{ttbc|Esperanto}}: {{t|eo|ŝarĝo}}, {{t|eo|kargo}}, {{t|eo|frajto}}
+* {{ttbc|French}}: {{t|fr|cargo|g=m}}
+{{checktrans-mid}}
+* {{ttbc|German}}: {{t|de|Fracht|g=f}}
+* {{ttbc|Indonesian}}: {{t|id|muat|alt=muatan}}, {{t|id|kargo}}
+* {{ttbc|Korean}}: {{t|ko|짐|tr=jim|sc=Hang}}, {{t|ko|바리|tr=bari|sc=Hang}}
+{{checktrans-bottom}}
 
 ===Verb===
 {{en-verb}}
 
-# {{transitive}} to [[transport]] (goods)
-# to load with freight
+# {{transitive}} To [[transport]] (goods).
+# To [[load]] with freight.
 
 ====Derived terms====
 * [[fraught]]
 
-[[Category:Dutch derivations]]
+====Translations====
+{{trans-top|to transport goods}}
+* Finnish: {{t|fi|rahdata}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to load with freight}}
+{{trans-mid}}
+{{trans-bottom}}
 
 [[fa:freight]]
 [[fr:freight]]
