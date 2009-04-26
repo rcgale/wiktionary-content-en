@@ -1,16 +1,24 @@
 ==Finnish==
-{{Finnish index|ne}}
+{{Finnish index|n|e}}
 
 ===Etymology===
-* From the noun ''[[neliö]]''.
+From the noun {{term|neliö|öidä|lang=fi}}.
 
 ===Pronunciation===
 * {{hyphenation|ne|li|öi|dä}}
 
 ===Verb===
-{{fi-verb|neliöi|type=epäröidä}}
+{{infl|fi|verb}}
 
 # {{transitive|mathematics|lang=fi}} to [[square]].
 
+====Conjugation====
+{{fi-conj-voida|neliöi|ä|y|ö}}
+
 ====Derived terms====
 * [[neliöinti]]
+
+===Verb===
+{{infl|fi|verb form}}
+
+# {{fi-form of|type=verb|pr=impersonal|mood=indicative|tense=present connegative|[[#Finnish|neliöidä]]}}
