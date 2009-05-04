@@ -225,7 +225,7 @@
 * Armenian: {{t+|hy|ընկնել|tr=ënknel|sc=Armn|xs=Armenian}}
 * Bosnian: {{t-|bs|padati}}
 * [[Catalan]]: [[caure]]
-* Chinese: {{t|zh|落下|tr=luòxià|sc=Hani}}
+* Chinese: {{t|zh|落|tr=luò|sc=Hani}}, {{t|zh|落下|tr=luòxià|sc=Hani}}
 * Croatian: {{t-|hr|padati}}
 * Czech: {{t-|cs|padat}}
 * Danish: {{t-|da|falde}}
@@ -256,7 +256,7 @@
 * Polish: {{t+|pl|spadać}}
 * Portuguese: {{t+|pt|cair}}
 * Romanian: {{t+|ro|cădea}}
-* Russian: {{t+|ru|падать|tr=pádat'|sc=Cyrl}},  {{t|ru|упасть|tr=upást'|sc=Hant}}
+* Russian: {{t+|ru|падать|tr=pádat'|sc=Cyrl}} {{impf}},  {{t|ru|упасть|tr=upást'|sc=Hant}} {{pf}}
 * [[Scottish Gaelic]]: [[tuit]]
 * Slovene: {{t+|sl|pasti}}
 * Spanish: {{t+|es|caer(se)}}
@@ -267,8 +267,7 @@
 {{trans-bottom}}
 
 {{trans-top|come down or descend}}
-* Chinese:
-*: Mandarin: {{zh-ts|[[下]][[降]]|[[下]][[降]]}} ([[xià]][[jiàng]])
+* Chinese: {{t|zh|降|tr=jiàng|sc=Hani}}, {{t|zh|下降|tr=xiàjiàng|sc=Hani}}
 * Danish: {{t-|da|falde}}
 * Finnish: {{t+|fi|laskeutua}}
 * German: {{t+|de|fallen}}
@@ -276,6 +275,7 @@
 * Greek: {{t+|el|πέφτω|sc=Grek}}
 * Irish: {{t-|ga|tit|xs=Irish}}
 * Portuguese: {{t+|pt|cair}}
+* Russian: {{t+|ru|падать|tr=pádat'|sc=Cyrl}} {{impf}},  {{t|ru|упасть|tr=upást'|sc=Hant}} {{pf}}
 * Swedish: {{t+|sv|falla}}
 {{trans-bottom}}
 
@@ -309,8 +309,7 @@
 {{trans-bottom}}
 
 {{trans-top|be allotted to}}
-* Chinese:
-*: Mandarin: {{zh-ts|成為|成為}} ([[chéng]][[wéi]])
+* Chinese: {{zh-tsp|成為|成为|chéngwéi}}
 * German: {{t+|de|fallen}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|falhar}}
@@ -318,8 +317,7 @@
 {{trans-bottom}}
 
 {{trans-top|become or change into}}
-* Chinese:
-*: Mandarin: {{zh-ts|成為|成為}} ([[chéng]][[wéi]])
+* Chinese: {{zh-tsp|成為|成为|chéngwéi}}
 * Danish: {{t+|da|blive}}
 * Dutch: (ziek, verliefd, zwanger) [[worden]], (in slaap) [[vallen]]
 * Finnish: [[tulla]] [[joksikin]]
