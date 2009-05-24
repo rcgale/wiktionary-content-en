@@ -1,10 +1,38 @@
-==Icelandic==
-{{Icelandic declension kk vb 01|hit}}
+==Faroese==
+
+===Etymology===
+From {{etyl|non|fo}} {{term|hiti|lang=non}}.
+
 ===Noun===
-'''hiti''' {{m}}
+{{infl|fo|noun|g=m}}
+
+# [[heat]], [[warmth]]
+# [[fever]]
+# {{meteorology|lang=fo}} [[temperature]]
+
+====Declension====
+{{fo-decl-noun-m1-s|hit}}
+
+----
+
+==Icelandic==
+
+===Etymology===
+From {{etyl|non|is}} {{term|hiti|lang=non}}.
+
+===Pronunciation===
+* {{IPA|/ˈhɪːtɪ/|lang=is}}
+*: {{rhymes|ɪːtɪ|lang=is}}
+
+===Noun===
+{{is-noun|m}}
 
 # [[heat]]
 # [[fever]]
+# {{meteorology|lang=is}} [[temperature]]
+
+====Declension====
+{{is-decl-noun-m-w1|
 
 ====Derived terms====
 *[[hitavella]]
@@ -15,7 +43,24 @@
 *[[heitur]]
 *[[hita]]
 
-[[Category:Icelandic nouns]]
+----
+
+==Old Norse==
+
+===Noun===
+{{infl|non|noun|g=m}}
+
+# [[heat]]
+
+====Descendants====
+{{top2}}
+* Danish: [[hede#Danish|hede]] {{c}}
+* Faroese: [[#Faroese|hiti]] {{m}}
+* Icelandic: [[#Icelandic|hiti]] {{m}}
+{{mid2}}
+* Norwegian: [[hete#Norwegian|hete]] {{m}}
+* Swedish: [[hete#Swedish|hete]] {{m}}, [[hette]] {{m}} (both obsolete and replaced by [[hetta#Swedish|hetta]] {{c}}/{{f}})
+{{bottom}}
 
 [[de:hiti]]
 [[is:hiti]]
