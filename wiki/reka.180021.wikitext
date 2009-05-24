@@ -103,54 +103,33 @@ See {{term|vreka}}.
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
+
+===Alternative forms===
+* (''Ijekavian''): {{l|sh|rijeka|rijéka}}
 
 ===Etymology===
-From {{proto|Slavic|rěka|lang=sr}}.
-
-===Pronunciation===
-* {{audio|Sr-reka.ogg|audio}}
+From {{proto|Slavic|rěka|lang=sh}}, from {{proto|Indo-European|(H)rey-|to flow|lang=sh}}.
 
 ===Noun===
-{{sr-noun|g=f|cyr=река}}
+{{infl|sh|noun|g=f|head=réka|Cyrillic spelling:|{{l|sh|sc=Cyrl|река|ре́ка}}}}
 
 # a [[river]]
 
 ====Declension====
-{{rfc-decl|no template used|lang=sr}}
-{| border="1" cellpadding="4" cellspacing="0"
-!
-! style="background-color: #EFEFFF" align="center"|[[singular]]
-! style="background-color: #EFEFFF" align="center"|[[plural]]
-|-
-! style="background-color: #FFFFE0" align="left"|[[nominative case|nominative]]
-| align="center"|{{unicode|reka}}
-| align="center"|{{unicode|reke}}
-|-
-! style="background-color: #FFFFE0" align="left"|[[genitive case|genitive]]
-| align="center"|{{unicode|reke}}
-| align="center"|{{unicode|reka}}
-|-
-! style="background-color: #FFFFE0" align="left"|[[dative case|dative]]
-| align="center"|{{unicode|reci}}
-| align="center"|{{unicode|rekama}}
-|-
-! style="background-color: #FFFFE0" align="left"|[[accusative case|accusative]]
-| align="center"|{{unicode|reku}}
-| align="center"|{{unicode|reke}}
-|-
-! style="background-color: #FFFFE0" align="left"|[[vocative case|vocative]]
-| align="center"|{{unicode|reko}}
-| align="center"|{{unicode|reke}}
-|-
-! style="background-color: #FFFFE0" align="left"|[[instrumental case|instrumental]]
-| align="center"|{{unicode|rekom}}
-| align="center"|{{unicode|rekama}}
-|-
-! style="background-color: #FFFFE0" align="left"|[[locative case|locative]]
-| align="center"|{{unicode|reci}}
-| align="center"|{{unicode|rekama}}
-|}
+{{sh-decl-noun
+|reka|reke
+|reke|reka
+|reci|rekama
+|reku|reke
+|reko|reke
+|reci|rekama
+|rekom|rekama}}
+
+====Derived terms====
+* {{l|sh|rečica|rèčica}}
+* {{l|sh|rečina|rèčina}}
+* {{l|sh|rečni|rȇčnī}}
 
 ----
 
