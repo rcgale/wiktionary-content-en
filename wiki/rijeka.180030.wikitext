@@ -1,70 +1,30 @@
-==Bosnian==
+==Serbo-Croatian==
+
+===Alternative forms===
+* (''Ekavian''): {{l|sh|reka|réka}}
 
 ===Etymology===
-From {{proto|Slavic|rěka|lang=bs}}.
+From {{proto|Slavic|rěka|lang=sh}}, from {{proto|Indo-European|(H)rey-|to flow|lang=sh}}.
 
 ===Noun===
-{{infl|bs|noun|g=f}}
+{{infl|sh|noun|g=f|head=rijéka|Cyrillic spelling:|{{l|sh|sc=Cyrl|ријека|рије́ка}}}}
 
 # a [[river]]
 
 ====Declension====
-{| border="1" cellpadding="4" cellspacing="0"
-!
-! style="background-color: #EFEFFF" align="center"|[[singular]]
-! style="background-color: #EFEFFF" align="center"|[[plural]]
-|-
-! style="background-color: #FFFFE0" align="left"|[[nominative case|nominative]]
-| align="center"|{{unicode|rijeka}}
-| align="center"|{{unicode|rijeke}}
-|-
-! style="background-color: #FFFFE0" align="left"|[[genitive case|genitive]]
-| align="center"|{{unicode|rijeke}}
-| align="center"|{{unicode|rijeka}}
-|-
-! style="background-color: #FFFFE0" align="left"|[[dative case|dative]]
-| align="center"|{{unicode|rijeci}}
-| align="center"|{{unicode|rijekama}}
-|-
-! style="background-color: #FFFFE0" align="left"|[[accusative case|accusative]]
-| align="center"|{{unicode|rijeku}}
-| align="center"|{{unicode|rijeke}}
-|-
-! style="background-color: #FFFFE0" align="left"|[[vocative case|vocative]]
-| align="center"|{{unicode|rijeko}}
-| align="center"|{{unicode|rijeke}}
-|-
-! style="background-color: #FFFFE0" align="left"|[[instrumental case|instrumental]]
-| align="center"|{{unicode|rijekom}}
-| align="center"|{{unicode|rijekama}}
-|-
-! style="background-color: #FFFFE0" align="left"|[[locative case|locative]]
-| align="center"|{{unicode|rijeci}}
-| align="center"|{{unicode|rijekama}}
-|}
-
-----
-
-==Croatian==
-
-===Etymology===
-From {{proto|Slavic|rěka|lang=hr}}, from {{proto|Indo-European|(H)rey-|to flow|lang=hr}}.
-
-===Noun===
-{{infl|hr|noun|g=f|head=rijéka}}
-
-# a [[river]]
-#: ''rijeka ljudi'' — a stream of people moving
+{{sh-decl-noun
+|rijeka|rijeke
+|rijeke|rijeka
+|rijeci|rijekama
+|rijeku|rijeke
+|rijeko|rijeke
+|rijeci|rijekama
+|rijekom|rijekama}}
 
 ====Derived terms====
 * {{l|hr|rječica|rjèčica}}
 * {{l|hr|rječina|rjèčina}}
 * {{l|hr|riječni|rijȇčnī}}
-
-====Related terms====
-* {{l|hr|potok|pòtok}}
-* {{l|hr|korito|kòrito}}
-* {{l|hr|tok|tȏk}}
 
 [[el:rijeka]]
 [[lt:rijeka]]
