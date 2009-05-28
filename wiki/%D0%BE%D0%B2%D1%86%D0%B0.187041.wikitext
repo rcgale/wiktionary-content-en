@@ -68,21 +68,29 @@ From {{proto|Slavic|ovьca|lang=ru}}, from {{proto|Indo-European|h₃éwis|lang=
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{proto|Slavic|ovьca|lang=sr}}, from {{proto|Indo-European|h₃éwis|lang=sr}}.
+From {{proto|Slavic|ovьca|lang=sh}}, from {{proto|Indo-European|h₃éwis|lang=sh}}.
 
 ===Noun===
-{{sr-noun|g=f|pl=овце|sg=ovca}}
+{{infl|sh|sc=Cyrl|noun|g=f|head=о́вца|Roman spelling:|{{l|sh|ovca|óvca}}}}
 
-# {{context|mammal|lang=sr}} [[sheep]]
+# {{context|mammal|lang=sh}} [[sheep]]
+
+====Declension====
+{{sh-decl-noun
+|овца|овце
+|овце|оваца
+|овци|овцама
+|овцу|овце
+|овцо|овце
+|овци|овцама
+|овцом|овцама
+}}
 
 ====Related terms====
-* {{l|sr|ован}}
-* {{l|sr|јагње}}
-
-[[Category:sr:Mammals]]
+* {{l|sh|sc=Cyrl|ован|о́ван}}
 
 [[ast:овца]]
 [[zh-min-nan:овца]]
