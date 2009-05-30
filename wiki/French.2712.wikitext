@@ -34,12 +34,12 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|frencisc||Frankish}}, from {{term|fr
 * Arabic: {{t+|ar|فرنسية|f|tr=faransíyya|sc=Arab}}
 * [[Aragonese]]: {{t|an|franzés|xs=Aragonese}}
 * Armenian: {{t+|hy|ֆրանսերեն|tr=franseren|sc=Armn|xs=Armenian}}
-* [[Asturian]]: {{t-|ast|francés|xs=Asturian}}
+* [[Asturian]]: {{t+|ast|francés|xs=Asturian}}
 * [[Azeri]]: {{t+|az|Fransız dili|xs=Azeri}}
 * [[Bambara]]: {{t-|bm|Faransekan|xs=Bambara}}
 * [[Basque]]: {{t-|eu|frantses|xs=Basque}}
 * [[Bikol Central]]: {{tø|bcl|Pranses}}
-* Belarusian: {{t-|be|французская мова|sc=Cyrl|xs=Belarusian|f|tr=francúzskaja móva}}
+* Belarusian: {{t-|be|французская мова|f|tr=francúzskaja móva|sc=Cyrl|xs=Belarusian}}
 * Bosnian: {{t+|bs|francuski|m}}
 * [[Breton]]: {{t+|br|galleg|m|xs=Breton}}
 * Bulgarian: {{t-|bg|френски|sc=Cyrl}}
@@ -66,7 +66,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|frencisc||Frankish}}, from {{term|fr
 * Finnish: {{t+|fi|ranska}}, {{t-|fi|ranskan kieli}}
 * [[Franco-Provençal]]: {{tø|frp|Francês}}
 * French: {{t+|fr|français|m}}
-* Georgian: {{t|ka|ფრანგული|tr=p’ranguli|sc=Geor}}
+* Georgian: {{t|ka|ფრანგული|tr=p’ranguli|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Französisch|n}}
 *: Kölsch: {{tø|ksh|Franzüüsėsh}}
 * [[Gothic]]: {{tø|got|𐍆𐍂𐌰𐌽𐌺𐌰𐍂𐌰𐌶𐌳𐌰|sc=Goth}}
@@ -95,7 +95,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|frencisc||Frankish}}, from {{term|fr
 * Korean: {{t+|ko|프랑스어|tr=peurangseu-eo|sc=Hang}}
 * Kurdish: {{t-|ku|zimanê fransî|sc=ku-Arab}}
 * [[Ladino]]: {{tø|lad|lingua Fransesa}}
-* Lao: {{t-|lo|ພາສາຝະລັ່ງ|sc=Laoo|xs=Lao}}
+* Lao: {{t+|lo|ພາສາຝະລັ່ງ|sc=Laoo|xs=Lao}}
 * Latin: {{t-|la|lingua Francogallica|f}}
 * Latvian: {{t+|lv|franču valoda|xs=Latvian}}
 * [[Ligurian]]: {{tø|lij|lengua françèise}}
@@ -137,9 +137,9 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|frencisc||Frankish}}, from {{term|fr
 * Swahili: {{t-|sw|Kifaransa|xs=Swahili}}
 * [[Swazi]]: {{t-|ss|SíFulentji|xs=Swazi}}
 * Swedish: {{t+|sv|franska|c}}
-* Thai: {{t-|th|ภาษาฝรั่งเศส|tr=paasăa fàràngsèt|sc=Thai|xs=Thai}}
+* Thai: {{t+|th|ภาษาฝรั่งเศส|tr=paasăa fàràngsèt|sc=Thai|xs=Thai}}
 * Turkish: {{t+|tr|Fransızca}}
-* Ukrainian: {{t+|uk|французька мова|tr=francúz’ka móva|f|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t+|uk|французька мова|f|tr=francúz’ka móva|sc=Cyrl|xs=Ukrainian}}
 * [[Upper Sorbian]]: {{t-|hsb|Francošćina|xs=Upper Sorbian}}
 * Urdu: {{t-|ur|فرانسیسی زبان|sc=ur-Arab|xs=Urdu}}
 * Vietnamese: {{t+|vi|tiếng Pháp|xs=Vietnamese}}, {{t|vi|Pháp ngữ|xs=Vietnamese}}
@@ -153,15 +153,15 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|frencisc||Frankish}}, from {{term|fr
 {{trans-top|people collectively}}
 * [[Alabama]]: [[falànchi]]
 * [[American Sign Language]]: [[F@NearForehead-HandPalmDown F@NearForehead-HandPalmUp HorizSmallTwist]]
-* Armenian: {{t|hy|ֆրանսիացիները|tr=fransiac’inerë|sc=Armn|xs=Armenian|p}}
-* Belarusian: {{t|be|французы|tr=francúzy|sc=Cyrl|p|m}}
+* Armenian: {{t|hy|ֆրանսիացիները|p|tr=fransiac’inerë|sc=Armn|xs=Armenian}}
+* Belarusian: {{t-|be|французы|p|m|tr=francúzy|sc=Cyrl|xs=Belarusian}}
 * Bosnian: [[francuzi]]
 * [[Breton]]: [[Gallaoued]] {{p}}, [[Frañsizien]] {{p}}
 * Chinese: [[法國人]], [[法国人]] (fǎguó-rén)
 * Croatian: {{t-|hr|Francuzi|m|p}}
 * Czech: {{t-|cs|Francouzi|m|p}}
 * Danish: [[franskmænd]] {{m|p}}
-* Dutch: (de) {{t|nl|Fransen||p}}, {{italbrac|pejorative}} {{t|nl|fransozen||p}}
+* Dutch: (de) {{t-|nl|Fransen||p}}, {{italbrac|pejorative}} {{t|nl|fransozen||p}}
 * Esperanto: ([[la#Esperanto|la]]) [[francoj]]
 * Estonian: [[prantslased]] {{p}}
 * [[Ewe]]: [[Fransetɔwo]] {{p}}
@@ -200,7 +200,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|frencisc||Frankish}}, from {{term|fr
 * Swedish: {{t+|sv|fransmän|c|p}}, {{t+|sv|fransoser|c|p}}
 * Thai: {{t|th|ชาวฝรั่งเศส|xs=Thai}}
 * Turkish: {{t|tr|fransızlar}}
-* Ukrainian: {{t|uk|французи|tr=francúzy|sc=Cyrl|m|p}}
+* Ukrainian: {{t|uk|французи|m|p|tr=francúzy|sc=Cyrl|xs=Ukrainian}}
 * Vietnamese: [[người Pháp]]
 * [[West Frisian]]: (de) [[Frânsen]] {{p}}
 {{trans-bottom}}
