@@ -29,12 +29,12 @@
 {{trans-top|interrogative pronoun}}
 * Albanian: {{t-|sq|ç'|xs=Albanian}}
 * [[American Sign Language]]: {{tø|ase|Claw5@SideTrunkhigh-PalmUp-Claw5@SideTrunkhigh-PalmUp Sidetoside-Sidetoside}}
-* Arabic: {{t-|ar|ماذا|tr=māðā|sc=Arab}}, {{t-|ar|ما|tr=mā|sc=Arab}}
+* Arabic: {{t-|ar|ماذا|tr=māðā|sc=Arab}}, {{t+|ar|ما|tr=mā|sc=Arab}}
 *: Egyptian: {{Arab|[[ايه]]}} (eeh)
 *: Moroccan: {{Arab|[[اشنو]]}} ('ašnū)
 *: Palestinian: {{Arab|[[إيش]]}} (ʔeeš)
 *: Syrian: {{Arab|[[شو]]}} (šū)
-* Armenian: {{t|hy|ինչ|tr=inč|sc=Hayeren|xs=Armenian}}
+* Armenian: {{t-|hy|ինչ|tr=inč|sc=Hayeren|xs=Armenian}}
 * [[Balinese]]: [[apa]]
 * [[Basque]]: [[zer]]
 * Bengali: [[কি]] (ki)
@@ -77,7 +77,7 @@
 * Kurdish: {{t-|ku|چی|sc=ku-Arab}}
 * Latin: {{t+|la|quid}}
 * Maori: {{t-|mi|aha|xs=Maori}}
-* Norwegian: {{t-|no|hva}}
+* Norwegian: {{t+|no|hva}}
 * [[Pangasinan]]: [[anto]]
 * Persian: {{fa-Arab|[[چه|چِه]]}} (če), {{fa-Arab|[[چی]]}} (či)
 * Polish: {{t+|pl|co}}
@@ -96,7 +96,7 @@
 * [[Telugu]]: [[ఏమిటి]] (aemiTi)
 * Turkish: {{t+|tr|ne}}
 * [[Ugaritic]]: {{tø|uga|𐎎𐎅|tr=mh|sc=Ugar|xs=Ugaritic}}
-* Ukrainian: {{t+|uk|що|tr=ščo|sc=Cyrl}}
+* Ukrainian: {{t-|uk|що|tr=ščo|sc=Cyrl|xs=Ukrainian}}
 * Urdu: {{ur-Arab|[[كيا]]}} (kyā)
 * [[Waray-Waray]]: [[ano]]
 * Welsh: {{t-|cy|beth|xs=Welsh}}
@@ -109,7 +109,7 @@
 {{trans-mid}}
 * Russian: {{t+|ru|который|tr=kotóryj|sc=Cyrl}}, {{t+|ru|что|tr=što|sc=Cyrl}}
 * Swedish: {{t+|sv|som}}
-* Ukrainian: {{t+|uk|який|tr=jakyj|sc=Cyrl}}, {{t+|uk|що|tr=ščo|sc=Cyrl}}
+* Ukrainian: {{t+|uk|який|tr=jakyj|sc=Cyrl|xs=Ukrainian}}, {{t-|uk|що|tr=ščo|sc=Cyrl|xs=Ukrainian}}
 {{trans-bottom}}
 
 ===Adverb===
@@ -180,7 +180,7 @@
 * Italian: [[ciò che]], [[quello che]], [[cosa]]
 * Japanese: ''(no relative pronouns)''
 {{trans-mid}}
-* Norwegian: {{t-|no|hva}}
+* Norwegian: {{t+|no|hva}}
 * Polish: [[to#Polish|to]] [[co#Polish|co]]
 * Portuguese: {{t-|pt|o que}}
 * Romanian: {{t-|ro|care}}
@@ -216,7 +216,7 @@
 * Hebrew: [[מה]]? (ma)
 * Hungarian: [[mi]]? (1)
 {{trans-mid}}
-* Icelandic: [[ha|ha?]]
+* Icelandic: {{t+|is|ha|alt=ha?}}
 * Indonesian: {{t+|id|apa|xs=Indonesian}}
 * Italian: {{t+|it|cosa}}
 * Japanese: [[何]] (なに, náni)
@@ -241,7 +241,7 @@
 
 ====Translations====
 {{trans-top|which}}
-* Armenian: {{t|hy|ինչ|sc=Armn|tr=inč}}, {{t|hy|որ|sc=Armn|tr=or}}
+* Armenian: {{t-|hy|ինչ|tr=inč|sc=Armn|xs=Armenian}}, {{t-|hy|որ|tr=or|sc=Armn|xs=Armenian}}
 * Czech: {{t+|cs|jaký}}
 * Estonian: {{t+|et|mis}}
 * Finnish: {{t+|fi|mikä}}
@@ -260,7 +260,7 @@
 {{trans-bottom}}
 
 {{trans-top|how much}}
-* Armenian: {{t|hy|ինչպիսի|sc=Armn|tr=inčpisi}}
+* Armenian: {{t|hy|ինչպիսի|tr=inčpisi|sc=Armn|xs=Armenian}}
 * Czech: {{t+|cs|jaký}}
 * Finnish: {{t+|fi|mikä}}, {{t+|fi|millainen}}
 * French: {{t+|fr|quel|m}}
