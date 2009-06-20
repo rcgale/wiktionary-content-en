@@ -9,7 +9,6 @@
 
 ===Etymology 1===
 From {{etyl|ang|en}} {{term|hring|lang=ang}}, from Germanic *{{term||hrengaz}}
-*The mathematics sense was introduced by mathematician [[w:David Hilbert|David Hilbert]] in 1892, a contraction of the German [[Zahlring]] 'number(s) ring'. (Reference: Harvey Cohn, ''Advanced Number Theory'', page 49.)
 
 ====Noun====
 {{en-noun}}
@@ -20,8 +19,6 @@ From {{etyl|ang|en}} {{term|hring|lang=ang}}, from Germanic *{{term||hrengaz}}
 # A piece of [[food]] in the shape of a ring, as in [[onion ring]]
 # A place where some [[sports]] or [[exhibition]]s take place; notably a circular or comparable [[arena]], such as a [[boxing ring]] or a [[circus ring]]; hence the [[field]] of a political [[contest]].
 # An [[exclusive]] [[group]] of people, usually involving some unethical or illegal practices; as a [[crime ring]].
-# {{algebra}} An [[algebraic]] [[structure]] which is a [[group]] under [[addition]] and a [[monoid]] under [[multiplication]].
-#: ''The set of integers, <math>\mathbb{Z}</math>, is the prototypical '''ring'''.''
 # {{geometry}} A [[planar]] [[geometrical]] [[figure]] included between two [[concentric]] [[circle]]s.
 # {{astronomy}} A formation of various pieces of material orbiting around a [[planet]].
 # {{typography}} A [[diacritical mark]] in the shape of a [[hollow]] circle placed above or under the letter.
@@ -248,18 +245,6 @@ From {{etyl|ang|en}} {{term|hring|lang=ang}}, from Germanic *{{term||hrengaz}}
 * Russian: {{t+|ru|клика|f|tr=''klíka''|sc=Cyrl}}
 {{trans-bottom}}
 
-{{trans-top|algebra: an algebraic structure}}
-* Czech: {{t-|cs|okruh|m}}
-* German: {{t+|de|Ring|m}}
-* Greek: {{t+|el|δακτύλιος|m|tr=''ðaktílios''|sc=Grek}}
-* Hungarian: {{t+|hu|gyűrű}}
-{{trans-mid}}
-* Japanese: {{t+|ja|環|tr=''kan''|sc=Jpan}}
-* Polish: {{t+|pl|pierścień|m}}
-* Russian: [[кольцо]] (''kol’tsó'') {{n}}
-* Swedish: {{t+|sv|ring|c}}
-{{trans-bottom}}
-
 {{trans-top|geometry: a planar geometrical figure}}
 * German: {{t+|de|Ring|m}}
 * Hungarian: {{t+|hu|gyűrű}}
@@ -470,6 +455,27 @@ Verb is from Old English ''[[hringan]]''.
 * {{ttbc|Latin}}: [[tintinare]]
 {{trans-bottom}}
 
+===Etymology 3===
+A shortening of {{etyl|de|en}} {{term|Zahlring||lang=de|number(s) ring}}; coined by mathematician [[w:David Hilbert|David Hilbert]] in 1892, . (Reference: Harvey Cohn, ''Advanced Number Theory'', page 49.)
+
+====Noun====
+{{en-noun}}
+
+# {{algebra}} An [[algebraic]] [[structure]] which is a [[group]] under [[addition]] and a [[monoid]] under [[multiplication]].
+#: ''The set of integers, <math>\mathbb{Z}</math>, is the prototypical '''ring'''.''
+
+=====Translations=====
+{{trans-top|algebra: an algebraic structure}}
+* Czech: {{t-|cs|okruh|m}}
+* German: {{t+|de|Ring|m}}
+* Greek: {{t+|el|δακτύλιος|m|tr=''ðaktílios''|sc=Grek}}
+* Hungarian: {{t+|hu|gyűrű}}
+{{trans-mid}}
+* Japanese: {{t+|ja|環|tr=''kan''|sc=Jpan}}
+* Polish: {{t+|pl|pierścień|m}}
+* Russian: [[кольцо]] (''kol’tsó'') {{n}}
+* Swedish: {{t+|sv|ring|c}}
+{{trans-bottom}}
 [[Category:1000 English basic words]]
 [[Category:English irregular verbs]]
 [[Category:English words with multiple etymologies]]
