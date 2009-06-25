@@ -1,18 +1,30 @@
+{{also|skrå}}
+
 ==Faroese==
 
-===Noun===
+===Pronunciation===
+* {{IPA|/skrɔaː/|lang=fo}}
+*: {{rhymes|ɔaː|lang=fo}}
+
+===Etymology 1===
+From {{etyl|non|fo}} {{term|skrá|lang=non}}.
+
+====Noun====
 '''skrá''' {{f}}
 
 # [[list]]
 # [[program]]
 
-====Declension====
+=====Declension=====
 {{fo-decl-noun-f2-skrá|skrá}}
 
-====Derived terms====
+=====Derived terms=====
 *[[skráseta]] (to register)
 *[[sjónvarpsskrá]] (TV program)
 *[[útvarpsskrá]] (radio program)
+
+===Etymology 2===
+From {{etyl|da|fo}} {{term|skrå||chewing tobacco|lang=da}}. Compare Icelandic {{term|skro|lang=is}}.
 
 ===Noun===
 '''skrá''' {{f}}
@@ -28,19 +40,63 @@
 
 ==Icelandic==
 
-===Noun===
-'''skrá'''
+===Pronunciation===
+* {{IPA|/skrauː/|lang=is}}
+*: {{rhymes|auː|lang=is}}
 
-# [[list]]
+===Etymology 1===
+From {{etyl|non|is}} {{term|skrá|lang=non}}.
+
+====Noun====
+{{is-noun|f}}
+
+# [[list]], [[register]], [[file]]
+# {{computing|lang=is}} [[file]]
 # {{archaic|lang=is}} dried [[skin]], [[parchment]]
 
-===Verb===
-'''skrá'''
+=====Synonyms=====
+* (''computer file'') [[fæll]] {{m}}
+
+===Etymology 2===
+From {{etyl|non|is}} {{term|skrá|lang=non}}, from the noun {{term|skrá|lang=non}} (see [[#Etymology 1 2|Etymology 1]].
+
+====Verb====
+'''skrá''' (''weak conjugation:'' [[skráði]] – [[skráð]])
 
 # to [[register]]
 
-[[Category:Icelandic nouns]]
 [[Category:Icelandic verbs]]
+
+----
+
+==Old Norse==
+
+===Etymology 1===
+Probably related to Norwegian dialect {{term|skråen||half-dried, withered, hard|lang=no}}, {{etyl|gml|-}} {{term|schra||dry, lean|lang=gml}}.
+
+====Noun====
+{{infl|non|noun|g=f}}
+
+# [[dried]] [[skin]], [[parchment]]
+# [[scroll]], written [[document]]
+
+=====Descendants=====
+{{top2}}
+* Danish: [[skrå#Danish|skrå]] {{c}}
+* Faroese: [[#Faroese|skrá]] {{f}}
+* Icelandic: [[#Icelandic|skrá]] {{f}}
+{{mid2}}
+* Norwegian: [[skrå#Norwegian|skrå]] {{f}}
+* Swedish: [[skrå#Swedish|skrå]] {{c}} ({{f}})
+{{bottom}}
+
+===Etymology 2===
+From the noun {{term|#Etymology 1 3|skrá}} (Etymology 1).
+
+====Verb====
+{{infl|non|verb}} (skráði, skráð)
+
+# to [[write]] down, [[register]]
 
 [[de:skrá]]
 [[fr:skrá]]
