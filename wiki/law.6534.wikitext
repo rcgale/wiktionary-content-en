@@ -1,4 +1,13 @@
 {{wikipedia}}
+==Translingual==
+
+===Abbreviation===
+{{infl|mul|abbreviation}}
+
+# {{ISO 639-3|Lauje}}
+
+----
+
 ==English==
 
 {{rank|ground|understand|fine|431|law|show|terms|sort}}
@@ -13,8 +22,7 @@
 * [[lore]] {{qualifier|in some [[non-rhotic]] accents}}
 
 ===Etymology===
-{{etyl|ang}} {{term|lagu|lang=ang}}, from Prehistoric {{etyl|non}} *{{term||lagu}}, later {{term|lög}} (pl.)<ref>[http://ordnet.dk/ods/opslag?opslag=lov&submit=S%F8g Etymology] in [[:w:da:ODS|ODS]]</ref>.
-
+From {{etyl|ang}} {{term|lagu|lang=ang}}, from Prehistoric {{etyl|non}} *{{term||lagu}}, later {{term|lög}} (pl.)
 ===Noun===
 {{en-noun|laws|-}}
 
@@ -76,6 +84,7 @@
 * [[law and order]]
 {{rel-mid}}
 * [[lawgiver]]
+* [[lawlike]]
 * [[law lord]]
 * [[lawmaker]], [[law-maker]]
 * [[law of cosines]]
@@ -117,7 +126,7 @@
 {{trans-top|written or understood rule}}
 * Albanian: {{t-|sq|ligj|m|xs=Albanian}}
 * Arabic: {{t-|ar|قانون|m|tr=qanūn|sc=Arab}}
-* Armenian: [[օրենք]] (òrenk')
+* Armenian: {{t|hy|օրենքtr=òrenk'}}
 * [[Campidanese Sardinian]]: [[lei]] {{f}}
 * [[Catalan]]: [[llei]] {{f}}
 * Chinese: [[法律]] (fǎlǜ)
@@ -127,7 +136,7 @@
 * Dutch: {{t+|nl|wet|m}}
 * Esperanto: {{t-|eo|leĝo|xs=Esperanto}}
 * Estonian: [[seadus]]
-* [[Ewe]]: [[se]]
+* [[Ewe]]: {{t|ee|se}}
 * Finnish: {{t+|fi|laki}}
 * French: {{t+|fr|loi|f}}
 * German: {{t+|de|Gesetz|n}}
@@ -138,10 +147,10 @@
 {{trans-mid}}
 * Korean: [[법]] [法] (beop)
 * Kurdish:
-*: Kurmanji:[[qanûn]] {{f}}, [[zagon]] {{f}}, [[yasa]] {{f}}
+*: Kurmanji: [[qanûn]] {{f}}, [[zagon]] {{f}}, [[yasa]] {{f}}
 *: Sorani: {{t|ku|یاسا|tr=yasa|sc=ku-Arab}}
 * Latin: {{t+|la|lex|f}}
-* [[Malayalam]]: [[നിയമം]] (niyamam)
+* [[Malayalam]]: {{t|ml|നിയമം}} (niyamam)
 * Norwegian: {{t+|no|lov|m}}
 * Old English: {{t-|ang|dom|alt=dōm|xs=Old English}}
 * Persian: {{fa-Arab|[[قانون]]}} (ghaanoon)
@@ -149,13 +158,14 @@
 * Portuguese: {{t+|pt|lei|f}}
 * Romanian: {{t-|ro|lege|f}}
 * Russian: {{t+|ru|закон|m|tr=zakón|sc=Cyrl}}, {{t+|ru|правило|n|tr=právilo|sc=Cyrl}}
+* Scots: {{t|sco|law}}
 * Serbian: {{t-|sr|zakon}}, {{t-|sr|pravilo}}
 * Slovene: {{t+|sl|zakon|m}}
 * Spanish: {{t+|es|ley|f}}
 * Swahili: {{t|sw|sheria}}
 * Swedish: {{t+|sv|regel|c}}
 * [[Taos]]: [[láyna]]
-* [[Telugu]]: [[నియమము]] (niyamamu)
+* [[Telugu]]: {{t|te|నియమము|tr=niyamamu}}
 {{trans-bottom}}
 
 {{trans-top|body of rules from the legislative authority}}
@@ -166,7 +176,7 @@
 * Danish: {{t-|da|lov|c}}
 * Dutch: {{t+|nl|wet|m}}
 * Estonian: [[seadus]]
-* [[Ewe]]: [[se]]
+* [[Ewe]]: {{t|ee|se}}
 * Finnish: {{t+|fi|laki}}
 * French: {{t+|fr|loi|f}}
 * German: {{t+|de|Gesetz|n}}
@@ -181,7 +191,7 @@
 * [[Malayalam]]: [[നിയമം]] (niyamam)
 * Norwegian: {{t+|no|lov|m}}
 * Old English: {{t-|ang|dom|alt=dōm|xs=Old English}}
-* Persian: {{fa-Arab|[[قانون]]}} (ghaanoon)
+* Persian: {{t|fa|قانون|tr=qânun|sc=fa-Arab}}
 * Polish: {{t+|pl|prawo|n}}
 * Portuguese: {{t+|pt|lei|f}}
 * Romanian: {{t-|ro|lege|f}}
@@ -256,7 +266,7 @@
 * [[Telugu]]: [[సిద్ధాంతము]] (siddhaaMtamu)
 {{trans-bottom}}
 
-{{trans-top|in mathematics}}
+{{trans-top|statement that is true under specified conditions}}
 * Armenian: [[օրենք]] (òrenk')
 * Danish: {{t-|da|lov|c}}
 * Estonian: [[reegel]], [[seadus]]
@@ -312,6 +322,9 @@
 * [[Appendix:Glossary of legal terms]]
 * [[:Category:Law]]
 
+===References===
+[http://ordnet.dk/ods/opslag?opslag=lov&submit=S%F8g Etymology] in [[:w:da:ODS|ODS]]
+
 [[Category:1000 English basic words]]
 [[Category:Law]]
 
@@ -348,8 +361,6 @@ From {{proto|Slavic|lьvъ|lang=dsb}}, from {{proto|Indo-European|lewo-|lang=dsb
 
 # To be [[crazy]]
 
-===References===
-<references/>
 
 [[ar:law]]
 [[zh-min-nan:law]]
