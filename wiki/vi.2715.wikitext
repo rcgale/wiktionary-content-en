@@ -18,15 +18,6 @@
 
 ----
 
-==Bosnian==
-
-===Pronoun===
-{{infl|bs|pronoun}}
-
-# [[you]] (''second-person plural'')
-
-----
-
 ==[[Breton]]==
 
 ===Noun===
@@ -46,51 +37,6 @@
 # [[wine]]
 
 [[Category:Catalan nouns]]
-
-----
-
-==Croatian==
-
-===Pronoun===
-{{infl|hr|pronoun|head=vȋ}}
-
-# [[you]] (''plural'')
-
-====Declension====
-{| style="width:40em;background:#FAFAFA;border:1px solid #d0d0d0;padding:.2em;text-align:center"
-|- style="background-color:#d9ebff;"  align=center
-! style="width:10%;background:#eff7ff;border:1px solid #d0d0d0" | Declension of ''vi''
-! style="width:10%;background:#eff7ff;border:1px solid #d0d0d0" | Singular
-! style="width:10%;background:#eff7ff;border:1px solid #d0d0d0" | Plural
-|-
-| style="background-color:#eff7ff;" | ''Nominative''
-| {{l|hr|ti|tȋ}}
-| {{l|hr|vi|vȋ}}
-|-
-| style="background-color:#eff7ff;" | ''Genitive''
-| {{l|hr|tebe|tȅbe}}, {{l|hr|te}}
-| {{l|hr|vas|vȃs}}, {{l|hr|vas}}
-|-
-| style="background-color:#eff7ff;" | ''Dative''
-| {{l|hr|tebi|tȅbi}}, {{l|hr|ti}}
-| {{l|hr|vama|vȁma}}, {{l|hr|vam}}
-|-
-| style="background-color:#eff7ff;" | ''Accusative''
-| {{l|hr|tebe|tȅbe}}, {{l|hr|te}}
-| {{l|hr|vas|vȃs}}, {{l|hr|vas}}
-|-
-| style="background-color:#eff7ff;" | ''Vocative''
-| {{l|hr|ti}}
-| {{l|hr|vi|vȋ}}
-|-
-| style="background-color:#eff7ff;" | ''Locative''
-| {{l|hr|tebi|tȅbi}}
-| {{l|hr|vama|vȁma}}
-|-
-| style="background-color:#eff7ff;" | ''Instrumental''
-| {{l|hr|tobom|tȍbōm}}
-| {{l|hr|vama|vȁma}}
-|}
 
 ----
 
@@ -236,12 +182,30 @@ This word is used when ''vă'' (which is dative) is combined with the following 
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Pronoun===
-{{infl|sr|pronoun}}
+{{infl|sh|pronoun|head=tȋ|Cyrillic spelling|{{l|sh|sc=Cyrl|ти|ти̑}}}}
 
-# [[you]] (''second-person plural'')
+# [[you]] (nominative plural of {{term|ti|tȋ|you|lang=sh}})
+# [[you]] (vocative plural of {{term|ti|tȋ|you|lang=sh}})
+
+====Declension====
+{{sh-decl-noun
+|ns={{l|sh|ti|tȋ}}
+|np={{l|sh|vi|vȋ}}
+|gs={{l|sh|tebe|tȅbe}}, {{l|sh|te}}
+|gp={{l|sh|vas|vȃs}}, {{l|sh|vas}}
+|ds={{l|sh|tebi|tȅbi}}, {{l|sh|ti}}
+|dp={{l|sh|vama|vȁma}}, {{l|sh|vam}}
+|as={{l|sh|tebe|tȅbe}}, {{l|sh|te}}
+|ap={{l|sh|vas|vȃs}}, {{l|sh|vas}}
+|vs={{l|sh|ti}}
+|vp={{l|sh|vi|vȋ}}
+|ls={{l|sh|tebi|tȅbi}}
+|lp={{l|sh|vama|vȁma}}
+|is={{l|sh|tobom|tȍbōm}}
+|ip={{l|sh|vama|vȁma}}}}
 
 ----
 
