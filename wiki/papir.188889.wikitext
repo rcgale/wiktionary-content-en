@@ -1,27 +1,3 @@
-==Bosnian==
-
-===Noun===
-{{bs-noun|g=m|papiri}}
-
-# [[paper]]
-
-====Synonyms====
-* {{l|bs|hartija}}
-
-----
-
-==Croatian==
-
-===Noun===
-{{hr-noun|m}}
-
-# [[paper]]
-
-====Synonyms====
-* [[hartija]]
-
-----
-
 ==Danish==
 
 ===Etymology===
@@ -55,15 +31,26 @@ From {{etyl|gml|da}} {{term|papir|lang=gml}}, {{term|pappir|lang=gml}}, from {{e
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Noun===
-{{sr-noun|g=m|pl=papiri|cyr=папир}}
+{{sh-noun|g=m|head=pàpīr|r|папир|па̀пӣр}}
 
 # [[paper]]
 
+====Declension====
+{{sh-decl-noun
+|pàpīr|papiri
+|papíra|papira
+|papiru|papirima
+|papir|papire
+|papiru / papire|papiri
+|papiru|papirima
+|papirom|papirima
+}}
+
 ====Synonyms====
-* {{l|sr|hartija}}
+* {{l|sh|hartija|hàrtija}}
 
 ----
 
@@ -73,8 +60,6 @@ From {{etyl|gml|da}} {{term|papir|lang=gml}}, {{term|pappir|lang=gml}}, from {{e
 {{infl|sl|noun|g=m}}
 
 # [[paper]] (material for writing on)
-
-{{tbot entry|Slovene|paper|2008|April|sl}}
 
 [[da:papir]]
 [[el:papir]]
