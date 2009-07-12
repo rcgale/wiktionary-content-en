@@ -1,13 +1,27 @@
-==Serbian==
+==Serbo-Croatian==
+
+===Alternative forms===
+* (''Ijekavian''): {{l|sh|pjesma|pjȅsma}}
 
 ===Etymology===
-From {{proto|Slavic|pěsma|lang=sr}}.
+From {{proto|Slavic|pěsma|lang=sh}}.
 
 ===Noun===
-{{sr-noun|g=f|pl=pesme|cyr=песма}}
+{{sh-noun|g=f|head=pȅsma|r|песма|пе̏сма}}
 
+# [[poem]] (''literary piece written in verse'')
 # [[song]]
-# [[poem]]
+
+====Declension====
+{{sh-decl-noun
+|pȅsma|pesme
+|pesme|pȅsāmā
+|pesmi|pesmama
+|pesmu|pesme
+|pesmo|pesmi
+|pesmi|pesmama
+|pesmom|pesmama
+}}
 
 [[el:pesma]]
 [[hr:pesma]]
