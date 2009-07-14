@@ -172,33 +172,6 @@ From {{etyl|ang|en}} {{term|ræt||lang=ang}}, probably from Vulgar Latin ''*ratt
 
 ----
 
-==Bosnian==
-
-===Etymology===
-From {{proto|Slavic|ortь|lang=bs}}.
-
-===Noun===
-{{bs-noun|g=m|ratovi}}
-
-# [[war]]
-
-----
-
-==Croatian==
-
-===Etymology===
-From {{proto|Slavic|ortь|lang=hr}}.
-
-===Noun===
-{{infl|hr|noun|g=m}}
-
-# [[war]]
-
-====Declension====
-{{hr-decl-dar}}
-
-----
-
 ==Danish==
 
 ===Pronunciation===
@@ -274,15 +247,26 @@ From {{proto|Slavic|ortь|lang=hr}}.
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{proto|Slavic|ortь|lang=sr}}.
+From {{proto|Slavic|ortь|lang=sh}}.
 
 ===Noun===
-{{sr-noun|g=m|pl=ratovi|cyr=рат}}
+{{sh-noun|g=f|head=rȁt|r|рат|ра̏т}}
 
 # [[war]]
+
+====Declension====
+{{sh-decl-noun
+|rat|ratovi
+|rata|ratova
+|ratu|ratovima
+|rat|ratove
+|rate|ratovi
+|ratu|ratovima
+|ratom|ratovima
+}}
 
 ----
 
