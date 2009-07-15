@@ -35,7 +35,7 @@
 {{trans-top|act of translating between languages}}
 * Albanian: {{t|sq|përkthim|xs=Albanian}}
 * Arabic: {{Arab|[[ترجمة]]}} (tárjama) {{f}}
-* Armenian: {{t|hy|թարգմանություն|sc=Armn|tr=t'argmanut'yun}}
+* Armenian: {{t|hy|թարգմանություն|tr=t'argmanut'yun|sc=Armn|xs=Armenian}}
 * Bengali: {{tø|bn|অনুবাদ|tr=anubād|sc=Beng}}
 * Bulgarian: {{t+|bg|преводач|sc=Cyrl}}
 * [[Catalan]]: {{t|ca|traducció|f}}
@@ -51,8 +51,8 @@
 * French: {{t+|fr|traduction|f}}
 * German: {{t+|de|Übersetzung|f}}, {{t-|de|Übersetzen|n}}
 * Greek: {{t+|el|μετάφραση|f|tr=metáfrasi|sc=Grek}}
-* Hebrew: {{t|he|תרגום|tr=targúm|m|alt=תַּרְגּוּם|sc=Hebr}}
-* Hindi: {{t+|hi|अनुवाद|sc=Deva|tr=anuvād|xs=Hindi}}
+* Hebrew: {{t+|he|תרגום|m|alt=תַּרְגּוּם|tr=targúm|sc=Hebr}}
+* Hindi: {{t+|hi|अनुवाद|tr=anuvād|sc=Deva|xs=Hindi}}
 * Hungarian: {{t+|hu|fordítás}}
 * [[Interlingua]]: [[traduction]]
 {{trans-mid}}
@@ -62,7 +62,7 @@
 * Korean: [[번역]] ([[飜譯]], beonyeok)
 * Kurdish: {{ku-Arab|[[وه‌رگێڕ]]}}
 * Lithuanian: {{t+|lt|vertimas|m|xs=Lithuanian}}
-* [[Macedonian]]: {{t|mk|превод|m|tr=prévod|sc=Cyrl}},  {{t|mk|преведување|n|tr=prevedúvanje|sc=Cyrl}}
+* [[Macedonian]]: {{t-|mk|превод|m|tr=prévod|sc=Cyrl|xs=Macedonian}},  {{t|mk|преведување|n|tr=prevedúvanje|sc=Cyrl|xs=Macedonian}}
 * [[Malayalam]]: [[വിവര്‍ത്തനം]] (vivarthanam), [[തര്‍ജ്ജമ]] (tharjjama)
 * Norwegian: {{t+|no|oversettelse|m}}
 * Polish: {{t+|pl|tłumaczenie|n}}
@@ -76,7 +76,7 @@
 * Swahili: {{t|sw|tafsiri|xs=Swahili}}
 * Swedish: {{t+|sv|översättning|c}}
 * [[Telugu]]: {{t+|te|అనువాదము|sc=Telu}} (anuvaadamu)
-* Turkish: {{t|tr|çeviri}},  {{t+|tr|tercüme}}
+* Turkish: {{t+|tr|çeviri}},  {{t+|tr|tercüme}}
 * [[West Frisian]]: {{t+|fy|oersetting|c|xs=West Frisian}}
 {{trans-bottom}}
 
@@ -96,8 +96,8 @@
 * French: {{t+|fr|traduction|f}}
 * German: {{t+|de|Übersetzung|f}}
 * Greek: {{t+|el|μετάφραση|f|tr=metáfrasi|sc=Grek}}
-* Hebrew: {{t|he|תרגום|tr=targúm|alt=תַּרְגּוּם|m|sc=Hebr}}
-* Hindi: {{t+|hi|अनुवाद|sc=Deva|tr=anuvād|xs=Hindi}}
+* Hebrew: {{t+|he|תרגום|m|alt=תַּרְגּוּם|tr=targúm|sc=Hebr}}
+* Hindi: {{t+|hi|अनुवाद|tr=anuvād|sc=Deva|xs=Hindi}}
 * Hungarian: {{t+|hu|fordítás}}
 * [[Ido]]: {{t-|io|traduko|xs=Ido}}
 {{trans-mid}}
@@ -106,7 +106,7 @@
 * Italian: {{t+|it|traduzione|f}}
 * Japanese: {{t+|ja|訳|tr=[[やく]], [[yaku]]|sc=Jpan}}, {{t|ja|訳文|tr=[[やくぶん]], yakubun|sc=Jpan}}, {{t+|ja|翻訳|tr=[[ほんやく]], hon'yaku|sc=Jpan}}
 * Kurdish: {{ku-Arab|[[وه‌رگێڕ]]}}
-* [[Macedonian]]: {{t|mk|превод|m|tr=prévod|sc=Cyrl}}
+* [[Macedonian]]: {{t-|mk|превод|m|tr=prévod|sc=Cyrl|xs=Macedonian}}
 * Norwegian: {{t+|no|oversettelse|m}}
 * Polish: {{t+|pl|tłumaczenie|n}}, {{t|pl|przekład|m}}
 * Portuguese: {{t+|pt|tradução|f}}, {{t|pt|obra traduzida|f}}
@@ -115,10 +115,10 @@
 * Slovak: {{t|sk|preklad|m}}
 * Slovene: {{t+|sl|prevod|m}}
 * Spanish: {{t+|es|traducción|f}}
-* Swahili: {{t|sw|fasiri}}
+* Swahili: {{t|sw|fasiri|xs=Swahili}}
 * Swedish: {{t+|sv|översättning|c}}
 * [[Telugu]]: [[అనువాదము]] (anuvaadamu)
-* Turkish: {{t|tr|çeviri}},  {{t+|tr|tercüme}}
+* Turkish: {{t+|tr|çeviri}},  {{t+|tr|tercüme}}
 * [[West Frisian]]: {{t+|fy|oersetting|c|xs=West Frisian}}
 {{trans-bottom}}
 
@@ -129,11 +129,11 @@
 * German: [[Übersetzung]] {{f}} ''(slow to fast)'', [[Untersetzung]] {{f}} ''(fast to slow)''
 * Japanese: {{t|ja|伝達|tr=[[でんたつ]], [[dentatsu]]|sc=Jpan}}
 {{trans-mid}}
-* [[Macedonian]]: {{t|mk|пренос|m|tr=prénos|sc=Cyrl}}
+* [[Macedonian]]: {{t-|mk|пренос|m|tr=prénos|sc=Cyrl|xs=Macedonian}}
 * Portuguese: {{t+|pt|transmissão|f}}
 * Russian: {{t+|ru|переключение|n|sc=Cyrl}}, {{t+|ru|перевод|m|sc=Cyrl}}
 * Slovak: [[preradenie]] {{n}}
-* Swahili: {{t|sw|fasiri}}
+* Swahili: {{t|sw|fasiri|xs=Swahili}}
 {{trans-bottom}}
 
 {{trans-top|motion without deformation or rotation}}
@@ -153,7 +153,7 @@
 * Slovak: {{t|sk|posunutie|n}}, {{t|sk|translácia|f}} ''(mathematical)''
 * Slovene: {{t-|sl|translacija|f}}
 * Spanish: {{t-|es|traslación|f}}
-* Swahili: {{t|sw|fasiri}}
+* Swahili: {{t|sw|fasiri|xs=Swahili}}
 * Swedish: {{t+|sv|förflyttning|c}}, {{t+|sv|translation|c}} (''maths, physics'')
 {{trans-bottom}}
 
