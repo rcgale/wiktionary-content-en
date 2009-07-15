@@ -74,43 +74,65 @@ From {{proto|Slavic|gordъ|settlement, enclosed place|lang=ru}}, from {{proto|Ba
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology 1===
-From {{proto|Slavic|gordъ|settlement, enclosed place|lang=sr}}, from {{proto|Balto-Slavic|gordos|lang=sr}}, from {{proto|Indo-European|gʰordʰ-o-|lang=sr}}.
+From {{proto|Slavic|gordъ|settlement, enclosed place|lang=sh}}, from {{proto|Balto-Slavic|gordos|lang=sh}}, from {{proto|Indo-European|gʰordʰos|lang=sh}}.
 
 ====Noun====
-{{sr-noun|g=m|pl=градови|rom=grad}}
+{{sh-noun|g=m|head=гра̑д|c|grad|grȃd}}
 
 # [[city]]
 # [[town]]
 
 =====Declension=====
-{{sr-decl-noun
-|град|градови
+{{sh-decl-noun|sc=Cyl
+|гра̑д|гра̏дови / гра̑ди
 |града|градова
 |граду|градовима
 |град|градове
 |граде|градови
-|градом|градовима
 |граду|градовима
+|градом|градовима
 }}
 
 ===Etymology 2===
-From {{proto|Slavic|gradъ|lang=sr}} < {{proto|Indo-European|greh₃d-|lang=sr}}.
+From {{proto|Slavic|gradъ|lang=sh}}, from {{proto|Indo-European|greh₃d-|lang=sh}}.
 
 ====Noun====
-{{infl|sr|noun|g=m|Roman spelling:|grad}}
+{{sh-noun|g=m|head=гра̏д|c|grad|grȁd}}
 
 # [[hail]]
 
+====Declension====
+{{sh-decl-noun|sc=Cyl
+|град|гради
+|града|гради
+|граду|градима
+|град|граде
+|граде|гради
+|граду|градима
+|градом|градима
+}}
+
 ===Etymology 3===
-From {{etyl|la|sr}} {{term|gradus|lang=la}}.
+From {{etyl|la|sh}} {{term|gradus|lang=la}}.
 
 ====Noun====
-{{infl|sr|noun|g=m|Roman spelling:|grad}}
+{{sh-noun|g=m|head=гра̑д|c|grad|grȃd}}
 
-# [[degree]]
+# [[degree]] (mathematics, chemistry, measuring unit)
+
+====Declension====
+{{sh-decl-noun|sc=Cyl
+|гра̑д|гради
+|града|гра́дӣ / гра́да̄
+|граду|градима
+|град|граде
+|граде|гради
+|граду|градима
+|градом|градима
+}}
 
 [[ast:град]]
 [[bg:град]]
