@@ -38,7 +38,7 @@
 ====Translations====
 {{trans-top|area of land completely surrounded by water}}
 * [[Afrikaans]]: [[eiland]]
-* [[Ainu]]: [[モシリ|モシㇼ]] (''moshir'')
+* [[Ainu]]: {{tø|ain|モシㇼ|tr=moshir}}
 * Albanian: {{t-|sq|ishull|m|xs=Albanian}}, {{t-|sq|ujdhesë|f|xs=Albanian}}
 * [[Amharic]]: {{tø|am|ደሴት|tr=''däset''|sc=Ethi}}
 * Arabic: {{Arab|[[جزيرة|جَزِيرَة]]}} (jazeera) {{f}}
@@ -60,29 +60,29 @@
 * CJKV Characters: [[島]], [[嶋]], [[岛]]
 * [[Catalan]]: {{t+|ca|illa|f}}
 * [[Chamicuro]]: {{tø|ccc|yishla}}
-* Chinese: [[島]], [[岛]] (dǎo); [[島嶼]], [[岛屿]] (''dǎoyǔ'')
+* Chinese: [[島]], [[岛]] (dǎo); [[島嶼]], [[岛屿]] (dǎoyǔ)
 *: Min Nan: [[tó-sū]]
 * [[Corsican]]: [[isula]] {{f}}
 * [[Cree]]: [[ᒥᓂᔥᑎᒄ]]
 * [[Crimean Tatar]]: [[ada#Crimean Tatar|ada]]
 * Croatian: {{t-|hr|otok|m}}
 * Czech: {{t+|cs|ostrov|m}}
-* Danish: [[ø]] {{c}}, (''of sand'') [[holm]] {{c}}, (''of rock'') [[skær]] {{c}}
+* Danish: {{t|da|ø|c}}, (''of sand'') {{t|da|holm|c}}, (''of rock'') {{t|da|skær|c}}
 * Dutch: {{t+|nl|eiland|n}}
 * Esperanto: {{t-|eo|insulo|xs=Esperanto}}
 * Estonian: {{t-|et|saar}}, {{t|et|ohutussaar}}
-* Faroese: [[oyggj]] {{f}}, (small island, or river-island) [[hólmur]] {{m}}
+* Faroese: {{t|fo|oyggj|f}}, (small island, or river-island) {{t|fo|hólmur|m}}
 * [[Fijian]]: {{t-|fj|yanuyanu|xs=Fijian}}
 * Finnish: {{t+|fi|saari}}
 * French: {{t+|fr|île|f}}
-* [[Galician]]: [[illa]]
-* Georgian: [[კუნძული]] (kundzuli)
+* [[Galician]]: {{t|gl|illa|f}}
+* Georgian: {{t|ka|კუნძული|tr=kundzuli}}
 * German: {{t+|de|Insel|f}}
 * Greek:
-*: Ancient: {{t+|el|νήσος|f|tr=''nísos''|sc=Grek}}
-*: Modern: {{t+|el|νησί|n|tr=''nisí''|sc=Grek}}
+*: Ancient: {{t|grc|νῆσος|f|tr=nē̂sos}}
+*: Modern: {{t+|el|νήσος|f|tr=nísos|sc=Grek}}, {{t+|el|νησί|n|tr=nisí|sc=Grek}}
 * [[Gujarati]]: [[દ્વીપ]]
-* Hebrew: {{he-translation|אי|i|wv=אִי}} {{m}}
+* Hebrew: {{t|he|אי|alt=אִי|tr=i|m}}
 * Hindi: {{t-|hi|द्वीप|sc=Deva|xs=Hindi}}
 * Hungarian: {{t+|hu|sziget}}
 * Icelandic: {{t+|is|ey|f}}, {{t+|is|eyja}}
@@ -91,11 +91,11 @@
 * Indonesian: {{t+|id|pulau|xs=Indonesian}}, {{t-|id|nusa|xs=Indonesian}}
 * Irish: {{t|ga|oileán|m|xs=Irish}}, {{t-|ga|inis|f|xs=Irish}}
 * Italian: {{t+|it|isola|f}}
-* Japanese: [[島]] ([[しま]], ''shimá'')
+* Japanese: {{t|ja|島|tr=[[しま]], shimá}}
 * {{trreq|Kannada}}
-* [[Khmer]]: {{Khmr|[[កោះ]]}} (''goh'')
+* [[Khmer]]: {{t|km|កោះ|tr=goh|sc=Khmr}}
 {{trans-mid}}
-* Korean: [[섬]] (seom)
+* Korean: {{t|ko|섬|tr=seom}}
 * Lao: {{t-|lo|ດອນ|tr=''döön''|sc=Laoo|xs=Lao}}
 * Latin: {{t+|la|insula|f}}
 * Latvian: {{t+|lv|sala|f|xs=Latvian}}
@@ -163,12 +163,14 @@
 * French: {{t+|fr|île|f}}
 * Hebrew: {{he-translation|אי|i|wv=אִי}} {{m}}
 * Hungarian: {{t+|hu|sziget}}
+* Icelandic: {{t|is|eyja|f}}, {{t|is|eyland|n}}
 {{trans-mid}}
-* Japanese: [[島]] ([[しま]], ''shimá'')
+* Japanese: {{t|ja|島|tr=[[しま]], shimá}}
 * Latvian: {{t+|lv|sala|f|xs=Latvian}}
 * [[Macedonian]]: {{t-|mk|остров|m|tr=óstrov|sc=Cyrl|xs=Macedonian}}
 * Norwegian: {{t+|no|øy|m|f}}
 * Polish: {{t+|pl|wyspa|f}}
+* Romanian: {{t|ro|insulă|f}}
 * Russian: {{t+|ru|остров|m|tr=''óstrov''|sc=Cyrl}}
 * Slovene: {{t+|sl|otok|m}}
 * Swahili: {{t+|sw|kisiwa|xs=Swahili}}
@@ -176,26 +178,20 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|Ainu}}: [[モシリ|モシ<span style="font-size:70%;">リ</span>]] (''moshir'')
 * {{ttbc|Basque}}: [[irla]], [[uharte]]
 * {{ttbc|Bosnian}}: [[ostrvo#Bosnian|ostrvo]] {{n}}
 * {{ttbc|Catalan}}: [[illa]] {{f}}
-* {{ttbc|Esperanto}}: [[insulo]]
 * {{ttbc|Estonian}}: [[saar]], [[saared]] {{p}}
 * {{ttbc|Fijian}}: [[yanuyanu]]
-* {{ttbc|Ancient Greek}}: [[νήσος]] (''nísos'') {{f}}
-* {{ttbc|Icelandic}}: [[eyja]], [[eyland]]
 * {{ttbc|Ilocano}}: [[puro]]
 * {{ttbc|Indonesian}}: [[pulau]], [[nusa]]
 * {{ttbc|Interlingua}}: [[insula]]
 * {{ttbc|Korean}}: [[섬]] (seom)
 * {{ttbc|Kurdish}}: [[girav]], [[dûrge]]
 {{trans-mid}}
-* {{ttbc|Lithuanian}}: [[sala]] {{f}}
 * {{ttbc|Malay}}: [[pulau]]
 * {{ttbc|Maori}}: [[motu]]
 * {{ttbc|Persian}}: {{fa-Arab|[[جزیره|جَزِیرَه]]}} (''jazireh'')
-* {{ttbc|Romanian}}: [[insulă]] {{f}}, [[insule]] {{p}}
 * {{ttbc|Sardinian}}: [[isula]] {{f}}
 * {{ttbc|Scottish Gaelic}}: [[eilean]] {{m}}, [[innis]] ''f (less common)''
 * {{ttbc|Serbian}}
