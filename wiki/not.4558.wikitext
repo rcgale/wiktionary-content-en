@@ -86,7 +86,7 @@ The verb ''dare'' can sometimes be directly negated.
 * [[Afrikaans]]: [[nie]]
 * Albanian: {{t-|sq|nuk|xs=Albanian}}
 * [[Amuzgo]]: [[chi]]
-* Arabic: {{t|ar|لا|tr=laa|sc=Arab}},  {{qualifier|past tense, continuous present}} {{t|ar|ما|tr=maa|sc=Arab}}, {{qualifier|only past tense, imperfective}} {{t|ar|لم|tr=lam|sc=Arab}},  {{qualifier|future tense}} {{t|ar|لن|tr=lan|sc=Arab}},  {{qualifier|verb - "to be not"}} {{t|ar|ليس|tr=láysa|sc=Arab}}
+* Arabic: {{t+|ar|لا|tr=laa|sc=Arab}},  {{qualifier|past tense, continuous present}} {{t+|ar|ما|tr=maa|sc=Arab}}, {{qualifier|only past tense, imperfective}} {{t-|ar|لم|tr=lam|sc=Arab}},  {{qualifier|future tense}} {{t-|ar|لن|tr=lan|sc=Arab}},  {{qualifier|verb - "to be not"}} {{t-|ar|ليس|tr=láysa|sc=Arab}}
 *: Egyptian: {{Arab|[[مش]]}} (miš) ''or'' (muš)
 * Armenian: {{t-|hy|չ-|tr=č-|sc=Armn|xs=Armenian}} + {{qualifier|verb}}
 * [[Basque]]: [[ez]]
@@ -95,7 +95,7 @@ The verb ''dare'' can sometimes be directly negated.
 * [[Central Atlas Tamazight]]: {{Tfng|[[ⵓⵔ]]}} (ur) ''+ verb'', {{Tfng|[[ⵓⵔⴷ]]}} (urd) ''+ noun/pronoun''
 * [[Chamicuro]]: {{tø|ccc|kala}}
 * Chinese:
-*: Mandarin: {{t|zh|不|tr=bù|sc=Hani}},  {{qualifier|past tense, or with [[有]]}} {{t|zh|沒|sc=Hani}},  {{t|zh|没|tr=méi|sc=Hani}},  {{t|zh|沒有|sc=Hani}},  {{t|zh|没有|tr=méiyǒu|sc=Hani}}
+*: Mandarin: {{t-|cmn|不|tr=bù|sc=Hani|xs=Mandarin}},  {{qualifier|past tense, or with [[有]]}} {{t-|cmn|沒|sc=Hani|xs=Mandarin}},  {{t-|cmn|没|tr=méi|sc=Hani|xs=Mandarin}},  {{t-|cmn|沒有|sc=Hani|xs=Mandarin}},  {{t-|cmn|没有|tr=méiyǒu|sc=Hani|xs=Mandarin}}
 * Croatian: {{t+|hr|ne}}
 * Czech: [[ne]]-
 * Danish: {{t+|da|ikke}}, {{t-|da|ej}}
@@ -157,9 +157,9 @@ The verb ''dare'' can sometimes be directly negated.
 
 ====Translations====
 {{trans-top|first rather than second term is proper object}}
-* Arabic: {{qualifier|verb}} {{t|ar|ليس|tr=láysa|sc=Arab}}
+* Arabic: {{qualifier|verb}} {{t-|ar|ليس|tr=láysa|sc=Arab}}
 * Chinese:
-*: Mandarin: {{t|zh|不是|tr=bú shì|sc=Hani}}
+*: Mandarin: {{t-|cmn|不是|tr=bú shì|sc=Hani|xs=Mandarin}}
 * Czech: {{t+|cs|ne}}, {{t-|cs|nikoliv}}
 * Dutch: {{t+|nl|geen}}, {{t+|nl|niet}}
 * Finnish: {{t+|fi|ei}}
@@ -168,10 +168,10 @@ The verb ''dare'' can sometimes be directly negated.
 {{trans-mid}}
 * Greek: {{t+|el|όχι|sc=Grek}}
 * Icelandic: [[ekki]], [[ei]] (''dated''), [[eigi]] (''dated'')
-* Japanese: {{qualifier|...}} {{t|ja|ではない|tr=dewa nai|sc=Jpan}}
+* Japanese: {{qualifier|...}} {{t-|ja|ではない|tr=dewa nai|sc=Jpan}}
 * Kurdish: {{t+|ku|نه‌ک|sc=ku-Arab}}
 * Portuguese: {{t+|pt|não}}
-* Russian: {{t|ru|а не|tr=a ne|sc=Cyrl}},  {{t|ru|не|tr=ne|sc=Cyrl}}
+* Russian: {{t|ru|а не|tr=a ne|sc=Cyrl}},  {{t+|ru|не|tr=ne|sc=Cyrl}}
 * Spanish: {{t+|es|no}}
 * Swedish: {{t+|sv|inte}}, {{t+|sv|icke}}, {{t+|sv|ej}}
 {{trans-bottom}}
