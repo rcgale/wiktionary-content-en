@@ -63,7 +63,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 
 ====Translations====
 {{trans-top|subject pronoun: the person being addressed}}
-* [[Afrikaans]]: {{t|af|jy}},  {{qualifier|formal}} {{t|af|u}}
+* [[Afrikaans]]: {{t+|af|jy|xs=Afrikaans}},  {{qualifier|formal}} {{t+|af|u|xs=Afrikaans}}
 * [[American Sign Language]]: {{tø|ase|1@InsideChesthigh-RadialUp|xs=American Sign Language}}
 * Arabic: {{Arab|[[أنت]]}} (’ínta) {{m}}, {{Arab|[[أنت]]}} (’ínti) {{f}}, {{Arab|[[انتما|أنتما]]}} (’íntuma) {{dual}}, {{Arab|[[أنتم]]}} (’ántum) {{m|p}}, {{Arab|[[حضرتك]]}} (ḥádratak) {{formal}} {{s}}
 *: Egyptian Arabic: {{tø|arz|انت|m|s|tr=inta|sc=Arab|xs=Egyptian Arabic}}, {{tø|arz|انتي|f|s|tr=inti|sc=Arab|xs=Egyptian Arabic}}, {{tø|arz|انتوا|p|tr=intu|sc=Arab|xs=Egyptian Arabic}}
@@ -88,10 +88,10 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * [[Ewe]]: [[wò]]
 * Finnish: {{t+|fi|sinä}}, {{t+|fi|sinä|alt=sinun}}
 * French: {{qualifier|familiar}} {{t+|fr|tu}}, {{qualifier|polite}} {{t+|fr|vous}}
-* Georgian: {{t|ka|შენ|tr=shen|sc=Geor}},  {{t|ka|თქვენ|tr=thkven|sc=Geor}}
+* Georgian: {{t+|ka|შენ|tr=shen|sc=Geor|xs=Georgian}},  {{t-|ka|თქვენ|tr=thkven|sc=Geor|xs=Georgian}}
 * German: {{qualifier|familiar}} {{t+|de|du}}, {{qualifier|polite}} {{t+|de|Sie}}
 * Greek: {{t+|el|εσύ|sc=Grek}}
-* Hebrew: {{t|he|אתה|tr='ata|alt=אַתָּה|sc=Hebr|m}}, {{t|he|את|tr='at|alt=אַתְּ|sc=Hebr|f}}
+* Hebrew: {{t+|he|אתה|m|alt=אַתָּה|tr='ata|sc=Hebr}}, {{t+|he|את|f|alt=אַתְּ|tr='at|sc=Hebr}}
 * Hindi: {{qualifier|familiar}} {{t-|hi|तू|tr=tū|sc=Deva|xs=Hindi}}; {{qualifier|mid-polite}} {{t-|hi|तुम|tr=tum|sc=Deva|xs=Hindi}}; {{qualifier|polite}} {{t-|hi|आप|tr=āp|sc=Deva|xs=Hindi}}
 * Icelandic: {{qualifier|familiar}} {{t+|is|þú}}; {{qualifier|polite|rare in modern Icelandic}} {{t+|is|þér}}
 {{trans-mid}}
@@ -115,9 +115,9 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * [[Scots]]: {{tø|sco|ye|xs=Scots}}
 * [[Scottish Gaelic]]: {{t-|gd|thu|xs=Scottish Gaelic}}, {{t-|gd|tu|xs=Scottish Gaelic}} (''informal''), {{t-|gd|sibh|xs=Scottish Gaelic}} (''formal'')
 * Slovene: {{t+|sl|ti}} ''familiar'',  {{t+|sl|vi}} ''polite''
-* [[Sotho]]: {{t|st|wena}}
+* [[Sotho]]: {{t|st|wena|xs=Sotho}}
 * Spanish: {{qualifier|familiar}} [[tú]], {{qualifier|polite}} [[usted]]
-* Swedish: {{t|sv|du}}
+* Swedish: {{t+|sv|du}}
 * [[Taos]]: [[ę̋]]
 * [[Telugu]]: {{qualifier|familiar}} {{t|te|నువ్వు|sc=Telu}} (nuvvu), {{qualifier|polite}} {{t|te|మీరు|sc=Telu}} (meeru)
 * [[Ugaritic]]: {{tø|uga|𐎀𐎚|tr=ʾat|sc=Ugar|xs=Ugaritic}}
@@ -125,7 +125,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 {{trans-bottom}}
 
 {{trans-top|object pronoun: the person being addressed}}
-* [[Afrikaans]]: {{t|af|jou}},  {{qualifier|formal}} {{t|af|u}}
+* [[Afrikaans]]: {{t-|af|jou|xs=Afrikaans}},  {{qualifier|formal}} {{t+|af|u|xs=Afrikaans}}
 * [[American Sign Language]]: {{tø|ase|1@InsideChesthigh-RadialUp|xs=American Sign Language}}
 * Arabic: {{t-|ar|ك|alt=ـك|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|ك|alt=ـك|sc=Arab|xs=Egyptian Arabic}}
@@ -163,7 +163,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * [[Scots]]: {{tø|sco|ye|xs=Scots}}, {{tø|sco|you|xs=Scots}}
 * [[Scottish Gaelic]]: {{t-|gd|thu|xs=Scottish Gaelic}}, {{t-|gd|sibh|xs=Scottish Gaelic}} (''formal'')
 * Spanish: {{qualifier|informal}} {{t+|es|te}}, {{qualifier|formal}} {{t+|es|se}}
-* Swedish: {{t|sv|dig}}
+* Swedish: {{t+|sv|dig}}
 * [[Taos]]: [[ę̋]]
 {{trans-bottom}}
 
@@ -198,8 +198,8 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Filipino: [[kayo]]
 * Finnish: {{t+|fi|te}}, {{t+|fi|te|alt=teidän}}
 * French: {{t+|fr|vous}}
-* [[Galician]]: {{t|gl|vós}}, {{t|gl|vosoutros}}
-* Georgian: {{t|ka|თქვენ|sc=Geor}}
+* [[Galician]]: {{t+|gl|vós|xs=Galician}}, {{t-|gl|vosoutros|xs=Galician}}
+* Georgian: {{t-|ka|თქვენ|sc=Geor|xs=Georgian}}
 * German: {{qualifier|familiar}} {{t+|de|ihr}}, {{qualifier|polite}} {{t+|de|Sie}}
 * Greek: {{t+|el|εσείς||p|sc=Grek}} (esís),
 * [[Guaraní]]: [[peẽ]]
@@ -262,7 +262,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * [[Sicilian]]: [[vuiàtri]], [[vuàutri]]
 * Slovak: {{t-|sk|vy}}
 * Slovene: {{t+|sl|vi}}
-* [[Sotho]]: {{t|st|lona}}
+* [[Sotho]]: {{t+|st|lona|xs=Sotho}}
 * Spanish: {{qualifier|familiar}} [[vosotros]], [[vosotras]] {{f}} {{qualifier|Spain}}; {{qualifier|polite}} [[ustedes]]
 * Swahili: {{t-|sw|ninyi|xs=Swahili}}
 * Swedish: {{t+|sv|ni}}
@@ -341,7 +341,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Russian: {{t+|ru|вас|tr=vas|sc=Cyrl}}, {{t+|ru|вам|tr=vam|sc=Cyrl}}, {{t+|ru|вами|tr=vami|sc=Cyrl}}
 * [[Scots]]: {{tø|sco|ye|xs=Scots}}, {{tø|sco|yez|xs=Scots}}, {{tø|sco|yiz|xs=Scots}}, {{tø|sco|youz|xs=Scots}}
 * [[Scottish Gaelic]]: {{t-|gd|sibh|xs=Scottish Gaelic}}
-* [[Sotho]]: {{t|st|lona}}
+* [[Sotho]]: {{t+|st|lona|xs=Sotho}}
 * Spanish:
 *: ''preceding or attached to a verb''
 *:: ''familiar'': {{t+|es|os}}
