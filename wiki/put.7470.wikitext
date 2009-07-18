@@ -175,43 +175,6 @@ Origin unknown.
 
 ----
 
-==Bosnian==
-
-===Noun===
-{{infl|bs|noun|gender=m|plural|putevi}}
-
-# [[road]]
-# [[way]]
-# [[track]]
-
-----
-
-==Croatian==
-
-===Etymology 1===
-From {{proto|Slavic|pǫtь|lang=hr}} < {{proto|Indo-European|ponth₂-|lang=hr}}.
-
-====Noun====
-{{infl|hr|noun|g=m|head=pȗt}}
-
-# [[road]]
-# [[way]]
-
-=====Declension=====
-{{hr-decl-noun|
-pȗt|{{l|hr|putovi|pútovi}}, {{l|hr|putevi|pútevi}}, {{l|hr|puti|púti}}|{{l|hr|puta|púta}}|{{l|hr|puteva|pútēvā}}, {{l|hr|putova|pútōvā}}|putu|{{l|hr|putovima|pútovima}}, {{l|hr|putevima|pútevima}}, {{l|hr|pútima}}|pȗt|{{l|hr|putove|pútove}}, {{l|hr|puteve|púteve}}, {{l|hr|pute|púte}}|pute|{{l|hr|putovi|pútovi}}, {{l|hr|putevi|pútevi}}, {{l|hr|puti|púti}}|putu|{{l|hr|putovima|pútovima}}, {{l|hr|putevima|pútevima}}, {{l|hr|pútima}}|{{l|hr|putom|pútom}}, {{l|hr|putem|pútem}}|{{l|hr|putovima|pútovima}}, {{l|hr|putevima|pútevima}}, {{l|hr|pútima}}}}
-
-===Etymology 2===
-From {{proto|Slavic|plъtь|lang=hr}}.
-
-====Noun====
-{{infl|hr|noun|g=f|head=pȕt}}
-
-# skin [[colour]]; [[tan]]
-# [[body]]
-
-----
-
 ==Dutch==
 
 ===Pronunciation===
@@ -266,18 +229,47 @@ From {{proto|Slavic|plъtь|lang=hr}}.
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
-===Alternative spellings===
-* {{qualifier|Serbian Cyrillic}} {{onym|sr|sc=Cyrl|пут|tr=put}}
+===Etymology 1===
+From {{proto|Slavic|pǫtь|lang=sh}} < {{proto|Indo-European|ponth₂-|lang=sh}}.
 
-===Noun===
-{{infl|sr|noun|gender=m|plural|putevi}}
+====Noun====
+{{sh-noun|g=m|head=pȗt|r|пут|пу̑т}}
 
 # [[road]]
 # [[way]]
-# [[track]]
-# [[tan]]
+# [[path]]
+
+=====Declension=====
+{{hr-decl-noun
+|pȗt|pútovi / pútevi / púti
+|púta|pútēvā / pútōvā
+|putu|pútovima / pútevima / pútima
+|pȗt|pútove / púteve / púte
+|pute|pútovi / pútevi / púti
+|putu|pútovima /pútevima / pútima
+|pútom / pútem|pútovima /pútevima / pútima}}
+
+===Etymology 2===
+From {{proto|Slavic|plъtь|lang=sh}}.
+
+====Noun====
+{{sh-noun|g=f|head=pȕt|r|пут|пу̏т}}
+
+# skin [[colour]]; [[tan]]
+# [[body]]
+
+====Declension====
+{{sh-decl-noun
+|put|puti
+|puti|puti
+|puti|putima
+|put|puti
+|puti|puti
+|puti|putima
+|puti|putima
+}}
 
 ----
 
