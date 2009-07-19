@@ -1,38 +1,23 @@
-==Bosnian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{proto|Slavic|(j)esenь|lang=bs}}.
+From {{proto|Slavic|(j)esenь|lang=sh}}.
 
 ===Noun===
-'''jesen''' {{f}} {{s}} ({{p}}: '''jeseni''')
-#[[autumn]]; [[fall]]
-[[Category:Bosnian nouns]]
+{{sh-noun|g=f|head=jȅsēn|r|јесен|је̏се̄н}}
 
-----
+# [[autumn]] / [[fall]]
 
-==Croatian==
-
-===Etymology===
-From {{proto|Slavic|(j)esenь|lang=hr}}.
-
-===Noun===
-{{infl|hr|noun|g=f|head=jȅsēn}}
-
-# [[autumn]], [[fall]]
-
-----
-
-==Serbian==
-
-===Etymology===
-From {{proto|Slavic|(j)esenь|lang=sr}}.
-
-===Noun===
-'''jesen''' {{f}} {{s}} ({{p}}: '''jeseni''')
-#[[autumn]]; [[fall]]
-====Cyrillic spelling====
-*[[јесен#Serbian|јесен]]
-[[Category:Serbian nouns]]
+====Declension====
+{{sh-decl-noun
+|jesen|jeseni
+|jeseni|jeseni
+|jeseni|jesenima
+|jesen|jeseni
+|jeseni|jeseni
+|jeseni|jesenima
+|jeseni|jesenima
+}}
 
 ----
 
@@ -42,8 +27,9 @@ From {{proto|Slavic|(j)esenь|lang=sr}}.
 From {{proto|Slavic|(j)esenь|lang=sl}}.
 
 ===Noun===
-'''jesen''' {{f}} {{s}}
-#[[autumn]]; [[fall]]
+{{infl|sl|noun|g=f}}
+
+# [[autumn]] / [[fall]]
 
 [[ast:jesen]]
 [[cs:jesen]]
