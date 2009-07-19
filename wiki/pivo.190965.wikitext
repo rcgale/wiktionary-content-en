@@ -1,31 +1,3 @@
-==Bosnian==
-
-===Etymology===
-From {{proto|Slavic|pivo|lang=bs}}.
-
-===Noun===
-{{bs-noun|g=n|piva}}
-
-# [[beer]]
-
-[[Category:bs:Alcoholic beverages]]
-
-----
-
-==Croatian==
-
-===Etymology===
-From {{proto|Slavic|pivo|lang=hr}}.
-
-===Noun===
-{{infl|hr|noun|g=n|head=pȋvo}}
-
-# [[beer]]
-
-[[Category:hr:Alcoholic beverages]]
-
-----
-
 ==Czech==
 
 ===Etymology===
@@ -75,17 +47,28 @@ From {{proto|Uralic|piŋз|lang=fi}}. Compare Estonian {{term|peo|lang=et}}, Vep
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{proto|Slavic|pivo|lang=sr}}.
+From {{proto|Slavic|pivo|lang=sh}}.
 
 ===Noun===
-{{sr-noun|g=n|pl=piva|cyr=пиво}}
+{{sh-noun|g=n|head=pȋvo|r|пиво|пи̑во}}
 
 # [[beer]]
 
-[[Category:sr:Alcoholic beverages]]
+====Declension====
+{{sh-decl-noun
+|pivo|piva
+|piva|piva
+|pivu|pivima
+|pivo|piva
+|pivo|piva
+|pivu|pivima
+|pivom|pivima
+}}
+
+[[Category:sh:Alcoholic beverages]]
 
 ----
 
