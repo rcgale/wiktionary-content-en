@@ -22,56 +22,6 @@
 
 ----
 
-==Bosnian==
-
-===Etymology===
-From a {{proto|Slavic|dolg|lang=bs}}
-
-===Noun===
-'''dug''' {{m}}
-
-# [[debt]]
-
-===Adjective===
-'''dug''' {{m}}
-
-# [[long]]
-
-[[Category:Bosnian adjectives]]
-[[Category:Bosnian nouns]]
-
-----
-
-==Croatian==
-
-===Etymology===
-From a {{proto|Slavic|dolg|lang=hr}}
-
-===Noun===
-{{hr-noun|g=m|dugovi}}
-
-# [[debt]]
-
-====Declension====
-{{hr-decl-noun
-|dug|dugovi
-|duga|dugova
-|dugu|dugovima
-|dug|dugove
-|duže|dugove
-|dugu|dugovima
-|dugom|dugovima
-}}
-
-===Adjective===
-'''dug''' {{m}}
-
-# [[long]]
-
-[[Category:Croatian adjectives]]
-
-----
-
 ==Danish==
 {{wikipedia|lang=da}}
 
@@ -145,26 +95,34 @@ From {{etyl|non|da}} {{term|dúkr|lang=non}}.
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
-===Etymology===
-From a {{proto|Slavic|dolg|lang=sr}}
+===Etymology 1===
+From {{proto|Slavic|dъlgъ|lang=sh}}.
 
-===Noun===
-'''dug''' {{m}}
+====Noun====
+{{sh-noun|g=m|head=dȗg|r|дуг|ду̑г}}
 
 # [[debt]]
 
-===Adjective===
-'''dug''' {{m}}
+=====Declension=====
+{{sh-decl-noun
+|dȗg|dȕgovi
+|duga|dugova
+|dugu|dugovima
+|dug|dugove
+|duže|dugove
+|dugu|dugovima
+|dugom|dugovima
+}}
+
+===Etymology 2===
+From {{proto|Slavic|dьlgъ|lang=sh}}.
+
+====Adjective====
+{{infl|hr|adjective|head=dȕg|Cyrillic spelling|{{l|sh|sc=Cyrl|дуг|ду̏г}}}}
 
 # [[long]]
-
-===Cyrillic spelling===
-* [[дуг#Serbian|дуг]]
-
-[[Category:Serbian adjectives]]
-[[Category:Serbian nouns]]
 
 [[da:dug]]
 [[de:dug]]
