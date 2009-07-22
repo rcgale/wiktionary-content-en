@@ -30,33 +30,6 @@ A Latin-script rendering of ''[[µm]]''.
 
 ----
 
-==Bosnian==
-
-===Etymology===
-From {{proto|Slavic|umъ|lang=bs}}
-
-===Noun===
-{{infl|bs|noun|gender=m}}
-
-# [[mind]]
-# [[intellect]]
-# [[wit]]
-# [[brain]]
-
-----
-
-==Croatian==
-
-===Etymology===
-From {{proto|Slavic|umъ|lang=hr}}
-
-===Noun===
-{{infl|hr|noun|head=ȗm}}
-
-# [[mind]], [[intellect]], [[wit]]
-
-----
-
 ==Faroese==
 
 ===Pronunciation===
@@ -266,17 +239,28 @@ From {{etyl|la|pt}} ''[[unus]]''.
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{proto|Slavic|umъ|lang=sr}}
+From {{proto|Slavic|umъ|lang=sh}}
 
 ===Noun===
-{{infl|sr|noun|gener=m|Cyrillic spelling|ум}}
+{{sh-noun|g={|head=ȗm|r|ум|у̑м}}
 
 # [[mind]]
 # [[intellect]]
 # [[wit]]
+
+====Declension====
+{{sh-decl-noun
+|ȗm|úmovi
+|uma|umova
+|umu|umovima
+|um|umove
+|ume|umovi
+|umu|umovima
+|umom|umovima
+}}
 
 [[az:um]]
 [[cs:um]]
