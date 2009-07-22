@@ -11,31 +11,6 @@
 
 ----
 
-==Bosnian==
-
-===Noun===
-{{bs-noun|g=f|kulture}}
-
-# [[culture]]
-# [[manners]]
-# [[civility]]
-
-----
-
-==Croatian==
-
-===Etymology===
-{{etyl|la|hr}} {{term|cultura|lang=la}}
-
-===Noun===
-{{infl|hr|noun|g=f|head=kultúra}}
-
-# [[culture]]
-# [[manners]]
-# [[civility]]
-
-----
-
 ==Czech==
 
 ===Pronunciation===
@@ -84,14 +59,28 @@
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
+
+===Etymology===
+From {{etyl|la|sh}} {{term|cultura|lang=la}}
 
 ===Noun===
-{{sr-noun|g=f|pl=kulture|cyr=култура}}
+{{sh-noun|g=f|head=kultúra|r|култура|култу́ра}}
 
 # [[culture]]
 # [[manners]]
 # [[civility]]
+
+====Declension====
+{{sh-decl-noun
+|kultura|kulture
+|kulture|kultura
+|kulturi|kulturama
+|kulturu|kulture
+|kulturo|kulture
+|kulturi|kulturama
+|kulturom|kulturama
+}}
 
 [[cs:kultura]]
 [[el:kultura]]
