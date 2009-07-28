@@ -181,21 +181,7 @@
 
 [[Category:1000 English basic words]]
 [[Category:Measuring instruments]]
-
-----
-
-==Bosnian==
-
-===Noun===
-'''rod''' {{m}} {{s}}
-
-# [[gender]]
-# {{botany}} [[genus]]
-# [[relative]], [[relation]]
-# [[fruit]], [[crop]], [[extraction]] (''rarely used in these senses'')
-# [[family]], [[stock]], [[lineage]]
-
-[[Category:Bosnian nouns]]
+[[Category:Units of measure]]
 
 ----
 
@@ -207,21 +193,6 @@
 # [[wheel]]
 
 [[Category:Breton nouns]]
-
-----
-
-==Croatian==
-
-===Noun===
-'''rod''' {{m}} {{s}}
-
-# [[gender]]
-# {{botany}} [[genus]]
-# [[relative]], [[relation]]
-# [[fruit]], [[crop]], [[extraction]] (''rarely used in these senses'')
-# [[family]], [[stock]], [[lineage]]
-
-[[Category:Croatian nouns]]
 
 ----
 
@@ -345,22 +316,34 @@ From a {{etyl|sla|ro}} language.
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
+
+===Etymology===
+From {{proto|Slavic|rodъ|lang=sh}}.
 
 ===Noun===
-'''rod''' {{m}} {{s}}
+{{sh-noun|g=m|head=rȏd|r|род|ро̑д}}
 
 # [[gender]]
-# {{botany}} [[genus]]
+# {{botany|lang=sh}} [[genus]]
 # [[relative]], [[relation]]
 # [[fruit]], [[crop]], [[extraction]] (''rarely used in these senses'')
 # [[family]], [[stock]], [[lineage]]
 
-====Cyrillic spelling====
-* [[род#Serbian|род]]
+====Declension====
+{{sh-decl-noun
+|rȏd|ròdovi
+|rȍda|rodova
+|rodu|rodovima
+|rod|rodove
+|rode|rodovi
+|rodu|rodovima
+|rodom|rodovima
+}}
 
-[[Category:Serbian nouns]]
-[[Category:Units of measure]]
+====Derived terms====
+* {{l|sh|rodni|rȍdnī}}
+* {{l|sh|rodovski|ròdovskī}}
 
 [[ang:rod]]
 [[ar:rod]]
