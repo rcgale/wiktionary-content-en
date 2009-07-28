@@ -71,21 +71,34 @@
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
+
+===Etymology===
+From {{proto|Slavic|rodъ|lang=sh}}.
 
 ===Noun===
-'''род''' {{m}} {{s}}
+{{sh-noun|g=m|head=ро̑д|c|rod|rȏd}}
 
 # [[gender]]
-# (''bot.'') [[genus]]
+# {{botany|lang=sh}} [[genus]]
 # [[relative]], [[relation]]
-# [[fruit]], [[crop]], [[extraction]] ''(rarely used in these senses)''
+# [[fruit]], [[crop]], [[extraction]] (''rarely used in these senses'')
 # [[family]], [[stock]], [[lineage]]
 
-====Roman spelling====
-* [[rod#Serbian|rod]]
+====Declension====
+{{sh-decl-noun|sc=Cyrl
+|ро̑д|ро̀дови
+|ро̏да|родова
+|роду|родовима
+|род|родове
+|роде|родови
+|роду|родовима
+|родом|родовима
+}}
 
-[[Category:Serbian nouns]]
+====Derived terms====
+* {{l|sh|sc=Cyrl|родни|ро̏днӣ}}
+* {{l|sh|sc=Cyrl|родовски|ро̀довскӣ}}
 
 [[zh-min-nan:род]]
 [[bg:род]]
