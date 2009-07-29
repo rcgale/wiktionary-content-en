@@ -1,38 +1,33 @@
-==Bosnian==
-
-===Etymology===
-From {{proto|Slavic|věra|lang=bs}}, from {{proto|Indo-European|weh₁ro-|lang=bs}}.
-
-===Noun===
-{{bs-noun|g=f|vjere}}
-
-# [[belief]]
-# [[religion]]
-
-====See also====
-* {{l|bs|vjerovanje}}
-
-[[Category:bs:Religion]]
-
-----
-
-==Croatian==
+==Serbo-Croatian==
 
 ===Alternative forms===
-* (''Čakavian, Ikavian''): {{l|hr|vira}}
+* (''Ekavian''): {{l|sh|vera|vȅra}}
+* (''Ikavian''): {{l|sh|vira}}
 
 ===Etymology===
-From {{proto|Slavic|věra|lang=hr}}, from {{proto|Indo-European|weh₁ros|lang=hr}}.
+From {{proto|Slavic|věra|lang=sh}}, from {{proto|Indo-European|weh₁ros|lang=sh}}.
 
 ===Noun===
-{{infl|hr|noun|g=f|head=vjȅra}}
+{{sh-noun|g=f|head=vjȅra|r|вјера|вје̏ра}}
 
 # [[belief]], [[faith]]
-#: ''Imaj vjere u se!'' — Have faith in yourself!
 # [[religion]]
-#: ''Moja vjera je ateizam'' — My religion is atheism.
 
-[[Category:hr:Religion]]
+====Declension====
+{{sh-decl-noun
+|vjȅra|vjere
+|vjere|vjȇrā
+|vjeri|vjerama
+|vjeru|vjere
+|vjero|vjere
+|vjeri|vjerama
+|vjerom|vjerama
+}}
+
+[[Category:sh:Religion]]
+
+====Derived terms====
+* {{l|sh|vjerski|vjèrskī}}
 
 [[el:vjera]]
 [[lo:vjera]]
