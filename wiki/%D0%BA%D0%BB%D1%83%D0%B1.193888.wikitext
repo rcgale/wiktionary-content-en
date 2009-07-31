@@ -33,16 +33,30 @@
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|de|sr}} {{term|Klub|lang=de}} < {{etyl|en|sr}} {{term|club}}.
+From {{etyl|de|sh}} {{term|Klub|lang=de}}, from {{etyl|en|sh}} {{term|club|lang=en}}.
 
 ===Noun===
-{{sr-noun|g=m|pl=клубови|rom=klub}}
+{{sh-noun|g=m|head=клу̑б|c|klub|klȗb}}
 
-# [[club]] ''(organisation)''
-# a [[nightclub]]
+# [[club]] {{i|association of members}}
+# [[nightclub]]
+
+====Declension====
+{{sh-decl-noun|sc=Cyrl
+|клу̑б|клу̏бови
+|клуба|клубова
+|клубу|клубовима
+|клуб|клубове
+|клубе|клубови
+|клубу|клубовима
+|клубом|клубовима
+}}
+
+====Derived terms====
+* {{l|sh|sc=Cyrl|клупски|клу̑пскӣ}}
 
 [[de:клуб]]
 [[et:клуб]]
