@@ -1,14 +1,21 @@
 ==English==
 {{wikipedia}}
 
+{{rfp}}
+
+{{rfe}}
+
 ===Adjective===
 {{en-adj|-}}
 
-# [[earlier]] either in [[time]] or [[order]]
+# [[earlier|Earlier]], either in [[time]] or [[order]].
+
+{{rfex}}
 
 ====Translations====
 {{trans-top|earlier in time or order}}
 * Bulgarian: {{t|bg|предшестващ|sc=Cyrl}},  {{t|bg|предишен|sc=Cyrl}}
+* Dutch: {{t|nl|voorafgaand}}, {{t|nl|vroeger}}
 * German: [[früher]], [[vorausgehend]]
 {{trans-mid}}
 * Hungarian: {{t|hu|megelőző}},  {{t|hu|korábbi}},  {{t|hu|előbbi}}
@@ -16,47 +23,53 @@
 {{trans-bottom}}
 
 ===Noun===
+{{examples-right|sense=linguistics: expression referred to by pronoun|examples=
+* In “The policeman asked the boy what he was doing.”, the phrase “the boy” is the antecedent of the pronoun “he”.
+* In the sentence “I saw my girlfriend yesterday wearing her old jacket which is odd because she almost never wears it.”, the phrase “my girlfriend” is the antecedent of “her” and “old jacket” is the antecedent of “it”.}}
 {{en-noun}}
 
-# any thing that [[precede]]s another thing, especially the [[cause]] of the second thing
-# {{in plural}} one's [[ancestor]]s
-# {{grammar}} a [[word]], [[phrase]] or [[clause]] referred to by a [[pronoun]]
-#: ''In "The policeman asked the boy what he was doing" the phrase "the boy" is the '''antecedent''' of the pronoun "he".''
-#: ''In the sentence "I saw my girlfriend yesterday wearing her old jacket which is odd because she almost never wears it.", the phrase "my girlfriend" is the '''antecedent''' of "her" and "old jacket" is the '''antecedent''' of "it".''
-# {{logic}} The [[conditional]] part of a [[hypothetical]] [[proposition]]
+# Any thing that [[precede]]s another thing, especially the [[cause]] of the second thing.
 # an [[ancestor]]
+# {{grammar}} A [[word]], [[phrase]] or [[clause]] referred to by a [[pronoun]].
+# {{logic}} The [[conditional]] part of a [[hypothetical]] [[proposition]].
+
+{{rfex}}
 
 ====Synonyms====
+{{rfc|split into senses}}
 * [[precursor]]
 * [[forerunner]]
 * [[predecessor]]
 * [[forebear]]
 
+====Antonyms====
+* [[precedent]]
+* {{sense|logic}} [[consequent]]
+* {{sense|linguistics}} [[anaphor]]
+
 ====Holonyms====
 * [[Wikisaurus:argument form]]
-
-====Related terms====
-* [[precedent]]
-* {{i|logic}}: [[consequent]]
 
 ====Translations====
 {{trans-top|any thing that precedes another thing}}
 * Bulgarian: {{t|bg|предшественик|sc=Cyrl}}
-* Dutch: {{t+|nl|antecedent|n}}
+* Dutch: {{t+|nl|antecedent|n}}, {{t|nl|voorafgaande|n}}
 * French: {{t+|fr|antécédent|m}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|antecedente|m}}
 * Swedish: [[föregångare]] {{c}}
 {{trans-bottom}}
 
-{{trans-top|one's ancestors}}
+{{trans-top|ancestor}}
+* Dutch: {{t|nl|voorouder|c}}
 * French: {{t+|fr|ascendant|m}}
 {{trans-mid}}
 * Hungarian: {{t|hu|ős}}
-* Portuguese: {{t-|pt|antecedentes|m|p}}
+* {{ttbc|Portuguese}}: {{t-|pt|antecedentes|m|p}}
 {{trans-bottom}}
 
 {{trans-top|word, phrase or clause referred to by a pronoun}}
+* Dutch: {{t|nl|antecedent|n}}
 * Finnish: {{t-|fi|korrelaatti}}
 * French: [[antécédent]] {{m}}
 {{trans-mid}}
@@ -64,6 +77,7 @@
 {{trans-bottom}}
 
 {{trans-top|conditional part of a hypothetical proposition}}
+* Dutch: {{t|nl|antecedent|n}}
 * French: [[antécédent]] {{m}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|antecedente|m}}
@@ -71,7 +85,7 @@
 
 {{checktrans-top}}
 * {{ttbc|Ido}} : [[antecedanto]]
-* {{ttbc|Latin}}: antecedent
+* {{ttbc|Latin}}: {{t|la|antecedent}}
 * {{ttbc|Spanish}}: [[antecedente]]
 {{trans-bottom}}
 
@@ -80,8 +94,22 @@
 ==Dutch==
 
 ===Pronunciation===
+* {{IPA|/ɑn.te.seˈdɛnt/|lang=nl}}
 * {{audio|Nl-antecedent.ogg|audio}}
-* antecedent
+* {{hyphenation|an|te|ce|dent}}
+
+{{rfe|lang=nl}}
+
+===Noun===
+{{nl-noun2|n}}
+
+# [[#English|antecedent]] {{gloss|linguistics}}
+# [[#English|antecedent]] {{gloss|logic}}
+# [[#English|antecedent]] {{gloss|thing that precedes}}
+
+====Antonyms====
+* {{sense|logic}} [[consequent]]
+* {{sense|linguistics}} [[anafoor]]
 
 [[fr:antecedent]]
 [[io:antecedent]]
