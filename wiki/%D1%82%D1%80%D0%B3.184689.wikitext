@@ -1,10 +1,10 @@
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{proto|Slavic|tъrgъ|lang=sr}}.
+From {{proto|Slavic|tъrgъ|lang=sh}}.
 
 ===Noun===
-'''трг''' {{m}} ({{p}}: '''тргови''')
+{{sh-noun|g=m|head=тр̏г|c|trg|tȑg}}
 
 # [[square]]
 # [[marketplace]]
@@ -12,9 +12,15 @@ From {{proto|Slavic|tъrgъ|lang=sr}}.
 # [[plaza]]
 # [[forum]]
 
-====Roman spelling====
-*[[trg#Serbian|trg]]
-
-[[Category:Serbian nouns]]
+====Declension====
+{{sh-decl-noun|sc=Cyrl
+|тр̏г|тр̀гови
+|трга|тргова
+|тргу|трговима
+|трг|тргове
+|тргу|тргови
+|тргу|трговима
+|тргом|трговима
+}}
 
 [[pl:трг]]
