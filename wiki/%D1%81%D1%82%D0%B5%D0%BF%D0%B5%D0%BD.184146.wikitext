@@ -1,14 +1,31 @@
-==Serbian==
+==Serbo-Croatian==
+
+===Etymology===
+From {{proto|Slavic|stepenь|lang=sh}}.
 
 ===Noun===
-{{sr-noun|g=m|pl=степени|rom=stepen}}
+{{sh-noun|g=m|head=сте̏пе̄н|c|stepen|stȅpēn}}
 
-# {{context|geometry|physics|mathematics|lang=sr}} [[degree]]
+# {{context|geometry|physics|mathematics|lang=bs}} [[degree]]
 # [[level]]
 # [[stage]]
 # [[extent]]
 # [[grade]]
 # [[exponent]]
+
+====Declension====
+{{sh-decl-noun|sc=Cyrl
+|степен|степени
+|степена|степена
+|степену|степенима
+|степен|степене
+|степене|степени
+|степену|степенима
+|степеном|степенима
+}}
+
+====Usage notes====
+While this word has some colloquial usage in Croatian, the preferred literary word is {{term|sc=Cyrl|ступањ|сту̑пањ|lang=sh}}.
 
 [[bg:степен]]
 [[lt:степен]]
