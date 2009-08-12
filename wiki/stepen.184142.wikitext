@@ -1,7 +1,10 @@
-==Bosnian==
+==Serbo-Croatian==
+
+===Etymology===
+From {{proto|Slavic|stepenь|lang=sh}}.
 
 ===Noun===
-{{bs-noun|g=m|stepeni}}
+{{sh-noun|g=m|head=stȅpēn|r|степен|сте̏пе̄н}}
 
 # {{context|geometry|physics|mathematics|lang=bs}} [[degree]]
 # [[level]]
@@ -10,19 +13,19 @@
 # [[grade]]
 # [[exponent]]
 
-----
+====Declension====
+{{sh-decl-noun
+|stepen|stepeni
+|stepena|stepena
+|stepenu|stepenima
+|stepen|stepene
+|stepene|stepeni
+|stepenu|stepenima
+|stepenom|stepenima
+}}
 
-==Serbian==
-
-===Noun===
-{{sr-noun|g=m|pl=stepeni|cyr=степен}}
-
-# {{context|geometry|physics|mathematics|lang=sr}} [[degree]]
-# [[level]]
-# [[stage]]
-# [[extent]]
-# [[grade]]
-# [[exponent]]
+====Usage notes====
+While this word has some colloquial usage in Croatian, the preferred literary word is {{term|stupanj|stȗpanj|lang=sh}}.
 
 [[el:stepen]]
 [[lt:stepen]]
