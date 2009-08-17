@@ -1,16 +1,69 @@
-==Serbo-Croatian==
+==Bosnian==
 
 ===Etymology===
-From {{proto|Slavic|govorъ|lang=sh}}.
+From {{proto|Slavic|govorъ|lang=bs}}.
 
 ===Noun===
-{{sh-noun|g=m|head=gȍvōr|r|говор|го̏во̄р}}
+{{infl|bs|noun|m}}
 
-# [[speech]] (faculty of speech; session of speaking)
-# [[talk]], [[saying]]
+# the ability to [[speak]] using [[words]]
+# [[speech]], [[harangue]], [[sermon]]
+# [[murmur]]
+# [[talk]]
+# [[saying]]
 
 ====Declension====
-{{sh-decl-noun
+{| border="1" cellpadding="4" cellspacing="0"
+!
+! style="background-color: #EFEFFF" align="center"|[[singular]]
+! style="background-color: #EFEFFF" align="center"|[[plural]]
+|-
+! style="background-color: #FFFFE0" align="left"|[[nominative case|nominative]]
+| align="center"|{{unicode|govor}}
+| align="center"|{{unicode|govori}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[genitive case|genitive]]
+| align="center"|{{unicode|govora}}
+| align="center"|{{unicode|govora}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[dative case|dative]]
+| align="center"|{{unicode|govoru}}
+| align="center"|{{unicode|govorima}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[accusative case|accusative]]
+| align="center"|{{unicode|govora}}
+| align="center"|{{unicode|govore}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[vocative case|vocative]]
+| align="center"|{{unicode|govore}}
+| align="center"|{{unicode|govori}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[instrumental case|instrumental]]
+| align="center"|{{unicode|govorom}}
+| align="center"|{{unicode|govorima}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[locative case|locative]]
+| align="center"|{{unicode|govoru}}
+| align="center"|{{unicode|govorima}}
+|}
+
+====Related terms====
+* [[jezik]]
+
+----
+
+==Croatian==
+
+===Etymology===
+From {{proto|Slavic|govorъ|lang=hr}}.
+
+===Noun===
+{{infl|hr|noun|g=m|head=gȍvōr}}
+
+# [[speech]]
+
+====Declension====
+{{hr-decl-noun
 |govor|govori
 |govora|govora
 |govoru|govorima
@@ -22,66 +75,108 @@ From {{proto|Slavic|govorъ|lang=sh}}.
 
 ====Derived terms====
 {{top2}}
-* {{l|sh|dogovor|dȍgovōr}}
-* {{l|sh|govorni|gȍvōrnī}}
-* {{l|sh|govornica|gòvōrnica}}
-* {{l|sh|govornik|gòvōrnīk}}
+* {{l|hr|dogovor|dȍgovōr}}
+* {{l|hr|govorni|gȍvōrnī}}
+* {{l|hr|govornica|gòvōrnica}}
+* {{l|hr|govornik|gòvōrnīk}}
 {{mid2}}
-* {{l|sh|nagovor|nȁgovōr}}
-* {{l|sh|odgovor|ȍdgovōr}}
-* {{l|sh|prigovor|prȉgovōr}}
-* {{l|sh|zagovor|zȁgovōr}}
+* {{l|hr|nagovor|nȁgovōr}}
+* {{l|hr|odgovor|ȍdgovōr}}
+* {{l|hr|prigovor|prȉgovōr}}
+* {{l|hr|zagovor|zȁgovōr}}
 {{bottom}}
 
 ----
 
-==Slovene==
+==Serbian==
 
 ===Etymology===
-From {{proto|Slavic|govorъ|lang=sl}}.
-
-===Pronunciation===
-* {{IPA|/ˈgoʋor/|lang=sl}}
+From {{proto|Slavic|govorъ|lang=sr}}.
 
 ===Noun===
-{{sl-noun|m|govori|govora|i|sg=góvor}}
+{{infl|sr|noun|m}}
 
-# [[speech]]
+# the ability to [[speak]] using [[words]]
+# [[speech]], [[harangue]], [[sermon]]
+# [[murmur]]
 # [[talk]]
+# [[saying]]
 
 ====Declension====
-{{sl-noun-m1|ins-prep=z}}
+{| border="1" cellpadding="4" cellspacing="0"
+!
+! style="background-color: #EFEFFF" align="center"|[[singular]]
+! style="background-color: #EFEFFF" align="center"|[[plural]]
+|-
+! style="background-color: #FFFFE0" align="left"|[[nominative case|nominative]]
+| align="center"|{{unicode|govor}}
+| align="center"|{{unicode|govori}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[genitive case|genitive]]
+| align="center"|{{unicode|govora}}
+| align="center"|{{unicode|govora}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[dative case|dative]]
+| align="center"|{{unicode|govoru}}
+| align="center"|{{unicode|govorima}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[accusative case|accusative]]
+| align="center"|{{unicode|govora}}
+| align="center"|{{unicode|govora}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[vocative case|vocative]]
+| align="center"|{{unicode|govore}}
+| align="center"|{{unicode|govori}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[instrumental case|instrumental]]
+| align="center"|{{unicode|govorom}}
+| align="center"|{{unicode|govorima}}
+|-
+! style="background-color: #FFFFE0" align="left"|[[locative case|locative]]
+| align="center"|{{unicode|govoru}}
+| align="center"|{{unicode|govorima}}
+|}
+
+====See also====
+* [[говор]]
+
+====Related terms====
+* [[jezik]]/[[језик]]
+
+==Serbo-Croatian==
+
+===Etymology===
+From {{proto|Slavic|govorъ|lang=sh}}.
+
+===Noun===
+{{infl|sh|noun|g=m|head=gȍvōr|Cyrillic spelling:|{{l|sh|sc=Cyrl|говор|го̏во̄р}}}}
+
+# [[speech]]
+# [[talk]], [[saying]]
+
+====Declension====
+{{hr-decl-noun
+|govor|govori
+|govora|govora
+|govoru|govorima
+|govor|govore
+|govore|govori
+|govoru|govorima
+|govorom|govorima
+}}
 
 ====Derived terms====
-* {{l|sl|govoren}}
-* {{l|sl|govoriti}}
-{{rel-top|prefixed forms and their respective derivatives}}
-* {{l|sl|dogovor}}
-** {{l|sl|dogovoren}}
-** {{l|sl|dogovoriti}}
-* {{l|sl|izgovor}}
-** {{l|sl|izgovoren}}
-** {{l|sl|izgovoriti}}
-* {{l|sl|nagovor}}
-** {{l|sl|nagovoren}}
-** {{l|sl|nagovoriti}}
-* {{l|sl|odgovor}}
-** {{l|sl|odgovoren}}
-** {{l|sl|odgovoriti}}
-{{rel-mid}}
-* {{l|sl|pogovor}}
-** {{l|sl|pogovoren}}
-** {{l|sl|pogovoriti}}
-* {{l|sl|predgovor}}
-* {{l|sl|pregovor}}
-** {{l|sl|pregovoren}}
-** {{l|sl|pregovoriti}}
-* {{l|sl|ugovor}}
-** {{l|sl|ugovoriti}}
-* {{l|sl|zagovor}}
-** {{l|sl|zagovoren}}
-** {{l|sl|zagovoriti}}
-{{rel-bottom}}
+{{top2}}
+* {{l|hr|dogovor|dȍgovōr}}
+* {{l|hr|govorni|gȍvōrnī}}
+* {{l|hr|govornica|gòvōrnica}}
+* {{l|hr|govornik|gòvōrnīk}}
+{{mid2}}
+* {{l|hr|nagovor|nȁgovōr}}
+* {{l|hr|odgovor|ȍdgovōr}}
+* {{l|hr|prigovor|prȉgovōr}}
+* {{l|hr|zagovor|zȁgovōr}}
+{{bottom}}
 
 [[lt:govor]]
 [[ru:govor]]
