@@ -120,17 +120,17 @@ From {{etyl|fro|en}} {{term|language|lang=fro}}, from {{VL.}} *{{term||linguatic
 * Esperanto: {{t+|eo|lingvo|xs=Esperanto}}
 * Estonian: {{t+|et|keel}}
 * Finnish: {{t+|fi|kieli}}
-* French: {{t+|fr|langue|f|xs=French}}
+* French: {{t+|fr|langue|f}}
 * [[Galician]]: [[linguaxe]]
 * Georgian: {{t-|ka|ენა|tr=ena|xs=Georgian}}
-* German: {{t+|de|Sprache|f|xs=German}}
+* German: {{t+|de|Sprache|f}}
 * [[Gilbertese]]: [[taetae]]
 * Greek:
 *: Ancient: {{IPAchar|[[γλῶσσα]]}} (glỗssα) {{f}}, {{IPAchar|[[γλῶττα]]}} (glỗttα) {{f}}
 *: Modern: [[γλώσσα]] (ghlóssa) {{f}}, [[επικοινωνία]] (epikinonia) {{f}}, [[διάλεκτος]] (dialektos) {{f}}, [[ιδίωμα]] (idioma) {{n}}
 * [[Gujarati]]: [[બાશા]] (bāshā)
 * Hawaiian: [['olelo|‘ōlelo]]
-* Hebrew: {{t+|he|לשון|f|tr=lašón, lashón|sc=Hebr|xs=Hebrew}}, {{t+|he|שפה|f|tr=safá|sc=Hebr|xs=Hebrew}}
+* Hebrew: {{t+|he|לשון|f|tr=lašón, lashón|sc=Hebr}}, {{t+|he|שפה|f|tr=safá|sc=Hebr}}
 * Hindi: {{t+|hi|भाषा|f|sc=Deva|xs=Hindi}} (bhāsha)
 * Hungarian: {{t+|hu|nyelv}}
 * Icelandic: {{t+|is|mál|n}}, {{t+|is|tungumál|n}}
@@ -201,7 +201,7 @@ From {{etyl|fro|en}} {{term|language|lang=fro}}, from {{VL.}} *{{term||linguatic
 * [[Skolt Sami]]: [[ǩiõll]]
 * Slovak: {{t+|sk|jazyk|m}}
 * Slovene: {{t+|sl|jezik|m}}
-* [[Sotho]]: {{t|st|puo}}
+* [[Sotho]]: {{t|st|puo|xs=Sotho}}
 * [[Southern Sami]]: [[giella]]
 * Spanish: {{t+|es|lengua|f}}, {{t+|es|idioma|m}}
 * [[Svan]]: {{tø|sva|ნინ|tr=nin|sc=Geor}}
@@ -287,7 +287,7 @@ From {{etyl|fro|en}} {{term|language|lang=fro}}, from {{VL.}} *{{term||linguatic
 * Spanish: {{t+|es|lenguaje|m}}
 * [[Tamil]]: [[மொழி]], [[பாசை]]
 * Thai: {{Thai|[[ภาษา]]}} (paasăa)
-* Turkish: {{t|tr|dil}}
+* Turkish: {{t+|tr|dil}}
 * Ukrainian: {{t+|uk|мова|f|tr=móva|sc=Cyrl|xs=Ukrainian}}
 * Vietnamese: {{t+|vi|ngôn ngữ|xs=Vietnamese}}
 * Yiddish: {{t+|yi|שפּראַך|f|tr=shprakh|sc=Hebr|xs=Yiddish}}
@@ -309,7 +309,7 @@ From {{etyl|fro|en}} {{term|language|lang=fro}}, from {{VL.}} *{{term||linguatic
 * [[Galician]]: [[linguaxe]]
 * Georgian: {{t-|ka|ენა|tr=ena|xs=Georgian}}
 * German: {{t+|de|Sprache|f}}, {{t+|de|Sprachen|p}}
-* Greek: [[γλώσσα προγραμματισμού]] (glossa programatismou) {{f}}, [[κώδικας]] (kodikas) {{m}}
+* Greek: {{t-|el|γλώσσα προγραμματισμού|f|tr=glossa programatismou|sc=Grek}}, {{t+|el|κώδικας|m|tr=kodikas|sc=Grek}}
 * Hebrew: [[שפה]] (safa) {{f}}
 * [[Interlingua]]: [[linguage]]
 * Italian: {{t+|it|linguaggio|m}}
@@ -330,7 +330,7 @@ From {{etyl|fro|en}} {{term|language|lang=fro}}, from {{VL.}} *{{term||linguatic
 * Spanish: {{t+|es|lenguaje|m}}
 * Swedish: [[språk]] {{n}}, [[datorspråk]] {{n}}
 * [[Tamil]]: [[மொழி]], [[பாசை]]
-* Turkish: {{t|tr|dil}}
+* Turkish: {{t+|tr|dil}}
 * Ukrainian: {{t+|uk|мова|f|tr=móva|sc=Cyrl|xs=Ukrainian}}
 * Vietnamese: [[ngôn ngữ]] ([[máy tính]])
 * Yiddish: {{t+|yi|שפּראַך|f|tr=shprakh|sc=Hebr|xs=Yiddish}}
@@ -350,7 +350,7 @@ From {{etyl|fro|en}} {{term|language|lang=fro}}, from {{VL.}} *{{term||linguatic
 * [[Galician]]: [[linguaxe]]
 * Georgian: {{t-|ka|ენა|sc=Geor|xs=Georgian}},  {{t|ka|ენები|p|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Sprache|f}}, {{t+|de|Jargon|n}}
-* Greek: [[ιδιογλωσσία]] (idioglossia) {{f}}, [[φρασεολογία]] (fraseologia) {{f}}, [[ιδίωμα]] (idioma) {{n}}, [[ιδιωματισμός]] (idiomatismos) {{m}}
+* Greek: {{t-|el|ιδιογλωσσία|f|tr=idioglossia|sc=Grek}}, {{t+|el|φρασεολογία|f|tr=fraseologia|sc=Grek}}, {{t+|el|ιδίωμα|n|tr=idioma|sc=Grek}}, {{t+|el|ιδιωματισμός|m|tr=idiomatismos|sc=Grek}}
 * Hebrew: [[לשון]] (lašón) {{f}}, [[שפה]] (safa) {{f}}
 * [[Interlingua]]: [[linguage]]
 {{trans-mid}}
@@ -367,7 +367,7 @@ From {{etyl|fro|en}} {{term|language|lang=fro}}, from {{VL.}} *{{term||linguatic
 * Swedish: {{t+|sv|språk|n}}
 * [[Tamil]]: [[மொழி]], [[பாசை]]
 * [[Telugu]]: [[పదజాలం]] (padajAlam)
-* Turkish: {{t|tr|dil}}
+* Turkish: {{t+|tr|dil}}
 * Vietnamese: [[ngôn ngữ]], [[biệt ngữ]], [[từ vựng]], [[thuật ngữ]]
 * Yiddish: {{t+|yi|שפּראַך|f|tr=shprakh|sc=Hebr|xs=Yiddish}}
 {{trans-bottom}}
@@ -390,7 +390,7 @@ From {{etyl|fro|en}} {{term|language|lang=fro}}, from {{VL.}} *{{term||linguatic
 {{trans-mid}}
 * [[Interlingua]]: [[linguage]]
 * Italian: {{t+|it|linguaggio|m}}
-* Japanese: {{t-|ja|言い回し|tr=iimawashi}}
+* Japanese: {{t-|ja|言い回し|tr=iimawashi|sc=Jpan}}
 * [[Macedonian]]: {{t-|mk|речник|m|tr=réčnik|sc=Cyrl|xs=Macedonian}}
 * Norwegian: {{t+|no|språk|n}}
 * [[Novial]]: [[lingue]]
