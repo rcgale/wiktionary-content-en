@@ -22,14 +22,14 @@
 
 ====Translations====
 {{trans-top|following in a sequence}}
-* Arabic: {{qualifier|indefinite}} {{t|ar|ثال|tr=thaalin|alt=ثالٍ|sc=Arab}},  {{qualifier|definite}} {{t|ar|التالي|tr=al-thaaliy|sc=Arab}}
+* Arabic: {{qualifier|indefinite}} {{t|ar|ثال|alt=ثالٍ|tr=thaalin|sc=Arab}},  {{qualifier|definite}} {{t|ar|التالي|tr=al-thaaliy|sc=Arab}}
 * [[Catalan]]: [[proper]], [[següent]]
 * Chinese:
-*: Mandarin: {{t|zh|下一個|sc=Hani}},  {{t|zh|下一个|tr=xià yī ge|sc=Hani}} (with any other [[measure word]]),  {{t|zh|下|tr=xià|sc=Hani}},  {{t|zh|下一次|tr=xià yī cì|sc=Hani}}
+*: Mandarin: {{t|cmn|下一個|sc=Hani|xs=Mandarin}},  {{t|cmn|下一个|tr=xià yī ge|sc=Hani|xs=Mandarin}} (with any other [[measure word]]),  {{t-|cmn|下|tr=xià|sc=Hani|xs=Mandarin}},  {{t|cmn|下一次|tr=xià yī cì|sc=Hani|xs=Mandarin}}
 * Czech: {{t+|cs|příští}}
 * Danish: [[næste]]
 * Dutch: {{t+|nl|volgend}}
-* Esperanto: [[venonta]]
+* Esperanto: {{t-|eo|venonta|xs=Esperanto}}
 * Estonian: [[järgmine]]
 * Finnish: {{t+|fi|seuraava}}
 * French: {{t+|fr|prochain}}, {{t+|fr|suivant}}
@@ -41,7 +41,7 @@
 * [[Ido]]: {{t-|io|nexta|xs=Ido}}
 * [[Interlingua]]: [[sequente]]
 * Italian: {{t+|it|seguente}}, {{t+|it|successivo}}
-* Japanese: {{t|ja|次|tr=つぎの, tsugi-no|alt=次の|sc=Jpan}}
+* Japanese: {{t+|ja|次|alt=次の|tr=つぎの, tsugi-no|sc=Jpan}}
 * Korean: [[다음의]] (da-eumui)
 * Norwegian: {{t+|no|neste}}
 * Polish: {{t+|pl|następny}}
@@ -56,7 +56,7 @@
 {{trans-top|being closer to the present location than all other items}}
 * [[Catalan]]: [[proper]], [[següent]]
 * Chinese:
-*: Mandarin: {{t|zh|隔壁|tr=gébì|sc=Hani}},  {{t|zh|比鄰|sc=Hani}},  {{t|zh|比邻|tr=bǐlín|sc=Hani}}
+*: Mandarin: {{t|cmn|隔壁|tr=gébì|sc=Hani|xs=Mandarin}},  {{t-|cmn|比鄰|sc=Hani|xs=Mandarin}},  {{t-|cmn|比邻|tr=bǐlín|sc=Hani|xs=Mandarin}}
 * Dutch: {{t+|nl|naast}}, {{t-|nl|dichtst}}
 * Esperanto: [[apuda]], [[proksima]]
 * Finnish: {{t+|fi|seuraava}}
@@ -67,12 +67,12 @@
 {{trans-mid}}
 * [[Interlingua]]: [[proxime]]
 * Italian: {{t+|it|vicino}}, {{t+|it|prossimo}}
-* Japanese: {{t|ja|隣|alt=隣の|tr=となりの, tonari-no|sc=Jpan}}
+* Japanese: {{t+|ja|隣|alt=隣の|tr=となりの, tonari-no|sc=Jpan}}
 * Norwegian: [[neste]], [[nærmest]]
 * Portuguese: {{t+|pt|perto}}, {{t+|pt|próximo}}
 * Russian: {{t+|ru|ближайший|tr=bližajšij|sc=Cyrl}}, {{t+|ru|соседний|tr=sosédnij|sc=Cyrl}}
 * Spanish: {{t+|es|próximo}}
-* Swahili: {{t|sw|kando|xs=Swahili}}
+* Swahili: {{t+|sw|kando|xs=Swahili}}
 * Swedish: {{t+|sv|nära}}, {{t+|sv|närmast}}
 * Turkish: {{t+|tr|yakın}}
 {{trans-bottom}}
@@ -118,11 +118,11 @@
 * Esperanto: {{t-|eo|poste|xs=Esperanto}}
 * Finnish: {{t+|fi|seuraava}}
 * French: {{t+|fr|puis}}, {{t+|fr|après}}
-* Hungarian: {{t|hu|ezután}}, {{t|hu|azután}}, {{t|hu|aztán}}
+* Hungarian: {{t|hu|ezután}}, {{t|hu|azután}}, {{t+|hu|aztán}}
 * Italian: {{t+|it|dopo}}, {{t+|it|poi}}
 {{trans-mid}}
 * Norwegian: {{t|no|som neste}}
-* Portuguese: [[a seguir]], [[seguinte]], [[depois]], [[próximo]]
+* Portuguese: {{t+|pt|a seguir}}, {{t+|pt|seguinte}}, {{t+|pt|depois}}, {{t+|pt|próximo}}
 * Russian: {{t+|ru|затем|tr=zatém|sc=Cyrl}}, {{t+|ru|потом|tr=potóm|sc=Cyrl}}, {{t+|ru|после|tr=pósle|sc=Cyrl}}
 * Spanish: {{t-|es|pues}}, {{t+|es|después}}
 {{trans-bottom}}
@@ -137,7 +137,7 @@
 * Portuguese: {{t+|pt|perto}}, {{t+|pt|próximo}}
 * Russian: [[вблизи]] (vblizí), [[возле]] (vózle), [[около]] (ókolo), [[подле]] (pódle), [[рядом]] (rjádom), [[по соседству]] (po sosédstvu)
 * Spanish: [[junto]] a, [[al lado]] [[de#Spanish|de]]
-* Swahili: {{t|sw|kando|xs=Swahili}}
+* Swahili: {{t+|sw|kando|xs=Swahili}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -165,7 +165,7 @@
 * Portuguese: {{t+|pt|ao lado}}
 * Russian: {{t+|ru|возле|tr=vózle|sc=Cyrl}}
 * Spanish: {{t-|es|al lado}}
-* Swahili: {{t|sw|kando|xs=Swahili}}
+* Swahili: {{t+|sw|kando|xs=Swahili}}
 * Swedish: {{t+|sv|bredvid}}
 * Turkish: {{t+|tr|yanında}}
 {{trans-bottom}}
