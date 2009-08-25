@@ -85,7 +85,7 @@ From {{etyl|enm|en}} {{term|bere|lang=enm}}, from {{etyl|ang|en}} {{term|bera|la
 * [[Afrikaans]]: [[beer]]
 * {{trreq|Ainu}}
 * Albanian: {{t+|sq|ari|m|xs=Albanian}}, {{t+|sq|ariu|xs=Albanian}}
-* Arabic: {{t-|ar|دب|tr=dubb|sc=Arab}}
+* Arabic: {{t+|ar|دب|tr=dubb|sc=Arab}}
 * [[Aragonese]]: [[onso]] {{m}}
 * Aramaic:
 *: Syriac: [[ܕܒܐ]] (debā, debo) {{c}}
@@ -97,7 +97,7 @@ From {{etyl|enm|en}} {{term|bere|lang=enm}}, from {{etyl|ang|en}} {{term|bera|la
 * {{trreq|Bengali}}
 * Bosnian: [[medvjed]] {{m}}, [[medvjedica]] {{f}}
 * [[Breton]]: {{t+|br|arzh|m|xs=Breton}}
-* Bulgarian: {{t|bg|мечок|m|tr=mečok|sc=Cyrl}}, {{t+|bg|мечка|f|tr=mečka|sc=Cyrl}}
+* Bulgarian: {{t-|bg|мечок|m|tr=mečok|sc=Cyrl}}, {{t+|bg|мечка|f|tr=mečka|sc=Cyrl}}
 * {{trreq|Burmese}}
 * [[Catalan]]: [[ós]] {{m}}
 * {{trreq|Chechen}}
@@ -119,11 +119,11 @@ From {{etyl|enm|en}} {{term|bere|lang=enm}}, from {{etyl|ang|en}} {{term|bera|la
 * [[Galician]]: [[oso]]
 * Georgian: {{t-|ka|დათვი|tr=dat'vi|xs=Georgian}}
 * German: {{t+|de|Bär|m}}
-* Greek: {{t+|el|αρκούδα|f|tr=arkoúda|sc=Grek}}, {{t|el|άρκτος|f|tr=árktos|sc=Grek}}
+* Greek: {{t+|el|αρκούδα|f|tr=arkoúda|sc=Grek}}, {{t+|el|άρκτος|f|tr=árktos|sc=Grek}}
 ** Ancient Greek: {{tø|grc|ἄρκτος|f|sc=polytonic}}, {{tø|grc|ἄρκος|f|sc=polytonic}}
 * {{trreq|Gujarati}}
 * Hebrew: [[דוב]] (dov) {{m}}
-* Hindi: {{t|hi|sc=Deva|भालो|tr=bhaalo|g=g}},  {{t|hi|भालू|m|tr=bhālū|sc=Deva}}
+* Hindi: {{t-|hi|भालो|g=g|tr=bhaalo|sc=Deva|xs=Hindi}},  {{t+|hi|भालू|m|tr=bhālū|sc=Deva|xs=Hindi}}
 * Hungarian: {{t+|hu|medve}}
 * Icelandic: {{t+|is|björn}}
 * Indonesian: {{t+|id|beruang|xs=Indonesian}}
@@ -143,7 +143,7 @@ From {{etyl|enm|en}} {{term|bere|lang=enm}}, from {{etyl|ang|en}} {{term|bera|la
 * {{trreq|Lao}}
 * Latin: {{t+|la|ursus|m}}, {{t-|la|ursa|f}}
 * Latvian: {{t-|lv|lācis|xs=Latvian}}
-* Lithuanian: {{t|lt|lokys|m}},  {{t|lt|meška|f}}
+* Lithuanian: {{t+|lt|lokys|m|xs=Lithuanian}},  {{t|lt|meška|f|xs=Lithuanian}}
 * [[Macedonian]]: {{t-|mk|мечка|tr=méčka|sc=Cyrl|xs=Macedonian}}
 * Malay: {{t-|ms|beruang|xs=Malay}}
 * {{trreq|Malayalam}}
@@ -376,7 +376,7 @@ From {{etyl|enm}} {{term|beren||carry, bring forth|lang=enm}}. The {{etyl|ang}} 
 {{trans-bottom}}
 
 {{trans-top|produce}}
-* Bulgarian: [[раждам]],  {{t|bg|давам|sc=Cyrl}}
+* Bulgarian: [[раждам]],  {{t+|bg|давам|sc=Cyrl}}
 * Dutch: {{t+|nl|dragen}}
 * Finnish: {{t+|fi|tuottaa}}, {{t+|fi|kantaa}}
 * German: [[tragen]], [[erbringen]]
