@@ -40,17 +40,17 @@ From {{etyl|ang}} {{term|leornian||lang=ang|to acquire knowledge}}
 {{trans-top|to acquire knowledge or ability}}
 * [[Afrikaans]]: {{t-|af|leer|xs=Afrikaans}}
 * [[Amharic]]: {{tø|am|መማር|tr=mämar|sc=Ethi}}
-* Arabic: {{Arab|[[تعلم]]}} {{IPAchar|(taʕálama)}},  {{t|ar|تعلم|tr=ta`álama|sc=Arab}}
+* Arabic: {{t|ar|تعلم|tr=ta`álama|sc=Arab}}
 * Armenian: [[սովորել]] (sovorel)
 * Chinese:
-*: Mandarin: {{zh-ts|學|学}} ([[xué]]),  {{t|zh|學習|sc=Hani}},  {{t|zh|学习|tr=xuéxí|sc=Hani}},  {{t|zh|學|sc=Hani}},  {{t|zh|学|tr=xué|sc=Hani}}
+*: Mandarin: {{t|zh|學習|sc=Hani}},  {{t|zh|学习|tr=xuéxí|sc=Hani}},  {{t|zh|學|sc=Hani}},  {{t|zh|学|tr=xué|sc=Hani}}
 * Czech: {{t-|cs|učit}} se
 * Danish: {{t-|da|lære}}
 * Dutch: {{t+|nl|leren}}
 * Esperanto: {{t-|eo|lerni|xs=Esperanto}}
 * Estonian: {{t|et|õppima}}, {{t-|et|omandama}}
 * Finnish: {{t+|fi|oppia}}, {{t+|fi|opetella}}
-* French: {{t+|fr|apprendre}}
+* French: {{t+|fr|apprendre}}, {{t|fr|étudier}}
 * German: {{t+|de|lernen}}
 * Hebrew: {{t|he|ללמוד|sc=Hebr}}
 * Hindi: {{t-|hi|सीखना|sc=Deva|xs=Hindi}} (sīkhnā)
@@ -60,13 +60,13 @@ From {{etyl|ang}} {{term|leornian||lang=ang|to acquire knowledge}}
 * Indonesian: {{t+|id|belajar|xs=Indonesian}}
 * [[Interlingua]]: [[apprender]]
 * Italian: {{t+|it|imparare}}, {{t-|it|apprendere}}
-* Japanese: [[習う]] ([[ならう]], narau); [[学ぶ]] ([[まなぶ]], manabu),  {{t|ja|習う|tr=ならう, narau|sc=Jpan}},  {{t|ja|学ぶ|tr=まなぶ, manabu|sc=Jpan}}
-* Korean: [[배우다]] (baeuda),  {{t|ko|배우다|tr=baeuda|sc=Kore}}
+* Japanese: {{t|ja|習う|tr=ならう, narau|sc=Jpan}},  {{t|ja|学ぶ|tr=まなぶ, manabu|sc=Jpan}}
+* Korean: {{t|ko|배우다|tr=baeuda|sc=Kore}}
 * Kurdish: {{ku-Arab|[[فێربوون]]}}
 * Lao: {{Laoo|[[ຮຽມ]]}} (hian)
 * Portuguese: {{t+|pt|aprender}}
 * Romanian: {{t+|ro|învăţa}}
-* Russian: {{t+|ru|учиться|tr=učít’s’a|sc=Cyrl}}
+* Russian: {{t+|ru|учиться|tr=učít’sja|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t-|gd|ionnsaich|xs=Scottish Gaelic}}
 * Spanish: {{t+|es|aprender}}
 * Swedish: {{t|sv|lära sig}}
@@ -77,15 +77,18 @@ From {{etyl|ang}} {{term|leornian||lang=ang|to acquire knowledge}}
 
 {{trans-top|to attend educational activity}}
 * Chinese:
-*: Mandarin: {{zh-ts|學|学}} ([[xué]])
+*: Mandarin: {{t|zh|學習|sc=Hani}},  {{t|zh|学习|tr=xuéxí|sc=Hani}},  {{t|zh|學|sc=Hani}},  {{t|zh|学|tr=xué|sc=Hani}}
 * Czech: {{t-|cs|učit}} se
 * Danish: {{t-|da|lære}}
 * Estonian: {{t|et|õppima}}
 * Finnish: {{t+|fi|oppia}}, {{t+|fi|opiskella}}
+* French: {{t|fr|aire des études}}, {{t|fr|étudier}}
 {{trans-mid}}
-* German: {{t+|de|lernen}}
+* German: {{t|de|studieren}}, {{t+|de|lernen}}
 * Indonesian: {{t+|id|belajar|xs=Indonesian}}
 * Italian: {{t+|it|imparare}}, {{t-|it|apprendere}}
+* Japanese: {{t|ja|勉強|alt=勉強する|tr=べんきょうする, benkyō-surú|sc=Jpan}}
+* Russian: {{t+|ru|учиться|tr=učít’sja|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t-|gd|ionnsaich|xs=Scottish Gaelic}}
 * [[West Frisian]]: {{t+|fy|studearre|xs=West Frisian}}
 {{trans-bottom}}
@@ -118,7 +121,7 @@ From {{etyl|ang}} {{term|leornian||lang=ang|to acquire knowledge}}
 * Indonesian: {{t+|id|belajar|xs=Indonesian}}
 * Italian: {{t+|it|imparare}}, {{t+|it|studiare}}
 {{trans-mid}}
-* Japanese: [[勉強する]]　([[べんきょうする]], benkyô suru)
+* Japanese: {{t|ja|勉強|alt=勉強する|tr=べんきょうする, benkyō-surú|sc=Jpan}}
 * Kurdish: {{ku-Arab|[[خوێندن]]}}, {{ku-Arab|[[سه‌عی کردن]]}}
 * Romanian: [[învăţa]], [[studiu]]
 * [[Scottish Gaelic]]: {{t-|gd|ionnsaich|xs=Scottish Gaelic}}
@@ -146,10 +149,8 @@ From {{etyl|ang}} {{term|leornian||lang=ang|to acquire knowledge}}
 
 {{checktrans-top}}
 * {{ttbc|Albanian}}: [[mëson]]
-* {{ttbc|Arabic}}: {{Arab|[[يتعلم]]}}
 * {{ttbc|Bosnian}}: [[učiti]]
 * {{ttbc|Catalan}}: [[aprendre]]
-* {{Chinese}}: [[学]] (xué)
 * {{ttbc|Croatian}}: [[učiti]]
 * {{ttbc|Guaraní}}: [[ñembo'euka]]
 * {{ttbc|Hebrew}}: ([[ללמוד]], leel-mod)
