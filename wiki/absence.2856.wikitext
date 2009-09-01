@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|fr}} {{term|absence|lang=fr}}, from {{etyl|la}} {{term|absentia}}, from {{term|absens|absēns|absent|lang=la}}, present active participle of {{term|absum||I am away or absent|lang=la}}, from {{term|ab||of, by, from|lang=la}} + {{term|sum||I am|lang=la}}.
+From {{etyl|enm}} {{term|absence|lang=enm}}, from {{etyl|fro}} {{term|absence|lang=fro}}, from {{etyl|la}} {{term|absentia}}, from {{term|absens|absēns|absent|lang=la}}, present active participle of {{term|absum||I am away or absent|lang=la}}, from {{term|ab||of, by, from|lang=la}} + {{term|sum||I am|lang=la}}.
 
 ===Pronunciation===
 * {{IPA|/ˈæbsəns/}}, {{SAMPA|/"{bs@ns/}}
@@ -39,6 +39,7 @@ From {{etyl|fr}} {{term|absence|lang=fr}}, from {{etyl|la}} {{term|absentia}}, f
 * German: {{t+|de|Abwesenheit|f}}
 * Japanese: [[欠席]] (kesseki)
 * Lithuanian: {{t|lt|nebuvimas|m|xs=Lithuanian}}
+* Middle English: {{t|enm|absence}}
 * Norwegian:
 ** Bokmål: [[fravær]] {{n}}
 ** Nynorsk: [[fråvær]] {{n}}
@@ -58,7 +59,7 @@ From {{etyl|fr}} {{term|absence|lang=fr}}, from {{etyl|la}} {{term|absentia}}, f
 * Czech: {{t-|cs|nepřítomnost|f}}, {{t-|cs|absence|f}}
 * Dutch: {{t+|nl|afwezigheid|f}}
 * French: {{t+|fr|absence|f}}
-* German: [[Abwesenheit]] {{f}}, [[Fehlen]] {{n}}
+* German: {{t|de|Abwesenheit|f}}, {{t|de|Fehlen|n}}
 * Norwegian:
 ** Bokmål: [[fravær]] {{n}}, [[mangel]] {{m}}
 ** Nynorsk: [[fråvær]] {{n}}, [[mangel]] {{m}}
@@ -106,7 +107,7 @@ From {{etyl|fr|cs}} {{term|absence|lang=fr}} from {{etyl|la|cs}} {{term|absentia
 ===Noun===
 {{cs-noun|g=f}}
 
-# [[#English|absence]]
+# {{l|en|absence}}
 
 ----
 
@@ -122,7 +123,25 @@ From {{etyl|la|fr}} {{term|absentia}}, from {{term|absens|absēns|absent|lang=la
 ===Noun===
 {{fr-noun|f}}
 
-# [[absence]]; A state of being [[absent]] or [[withdrawn]].
+# {{l|en|absence}} (state of being absent or [[withdrawn]]).
+
+----
+
+==Middle English==
+
+===Etymology===
+From {{etyl|fro|enm}} {{term|absent|lang=fro}}, from {{etyl|la|enm}} {{term|absentia|lang=la}}, from {{term|absens|absēns|absent|lang=la}}, present active participle of {{term|absum||I am away or absent|lang=la}}, from {{term|ab||of, by, from|lang=la}} + {{term|sum||I am|lang=la}}.
+
+===Noun===
+{{enm-noun}}
+
+# {{l|en|absent}}
+
+====Related terms====
+* {{l|enm|absent}}
+
+===References===
+*{{cite book |title=A Dictionary of Middle English |last=Stratmann |first=Francis Henry |coauthors=Henry Bradley |year=1954 |origyear=First published 1891 |publisher=Oxford University Press |location=London |page=3 |url=http://books.google.com/books?id=xIsYAAAAIAAJ&dq=Middle%20English%20dictionary&as_brr=1&pg=PA3#v=onepage&q=&f=false}}
 
 [[am:absence]]
 [[ar:absence]]
