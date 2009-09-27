@@ -443,14 +443,14 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Dutch: ''translated by the definite article'': {{t+|nl|de}}
 * Esperanto: {{t+|eo|vi|xs=Esperanto}}, {{t-|eo|ci|xs=Esperanto}} ''familiar, rarely used''
 * Estonian:
-*: ''familiar'': {{t-|et|sina}} {{s}}, {{t+|et|sa}} {{s}}, {{t-|et|teie}} {{p}}, {{t+|et|te}} {{p}}
-*: ''polite'': {{t-|et|Sina}} {{s}}, {{t+|et|Sa}} {{s}}, {{t|et|Teie}} {{p}},  {{t+|et|Te}} {{p}}
+*: ''familiar'': {{t-|et|sina|s}}, {{t+|et|sa|s}}, {{t-|et|teie|p}}, {{t+|et|te|p}}
+*: ''polite'': {{t-|et|Sina|s}}, {{t+|et|Sa|s}}, {{t|et|Teie|p}}, {{t+|et|Te|p}}
 * Finnish:
-*: ''familiar'': [[sinä]] {{s}}, [[te]] {{p}}
-*: ''polite'': [[Te]] {{s}} ''and'' {{p}}
+*: ''familiar'': {{t|fi|sinä|s}}, {{t|fi|te|p}}
+*: ''polite'': {{t|fi|Te|s|p}}
 * French:
-*: ''familiar'': [[tu#French|tu]]
-*: ''polite'': [[vous]]
+*: ''familiar'': {{t|fr|tu}}
+*: ''polite'': {{t|fr|vous}}
 * German:
 *: ''familiar'': [[du#German|du]] {{s}}, [[ihr]] {{p}}
 *: ''polite'': [[Sie]] {{s}} ''and'' {{p}}
@@ -467,22 +467,21 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: ''vulgar; dialectical'' [[おんどれ]] (ondore)
 *: Note: ''It is common to omit second person pronouns in Japanese; also, some experts consider these to be nouns.''
 {{trans-mid}}
-* Russian: [[ты]] (sing.), [[вы]] (plural or polite) - may be omitted, depending on where it is placed
+* Russian: {{t|ru|ты|s}}, {{t|ru|вы|p}} (or polite) - may be omitted, depending on where it is placed
 * [[Scots]]: {{tø|sco|ye|xs=Scots}}
-* Slovene: {{t+|sl|ti}} ''familiar'',  {{t+|sl|vi}} ''polite''
+* Slovene: {{t+|sl|ti}} ''familiar'', {{t+|sl|vi}} ''polite''
 * {{ttbc|Spanish}}:
-*: ''familiar'' [[tú]] {{s}}, [[vos]] {{p}}
-*: ''polite'' [[Usted]] {{s}}, [[Ustedes]] {{p}}
+*: ''familiar'' {{t|es|tú|s}}, {{t|es|vos|p}}
+*: ''polite'' {{t|es|Usted|s}}, {{t|es|Ustedes|p}}
 * Swahili: {{t-|sw|wewe|xs=Swahili}}
 * Swedish:
-*: ''familiar'': [[du#Swedish|du]] {{s}}, [[ni]] {{p}}
-*: ''polite'': [[Du]] {{s}}, [[Ni]] {{s}} and {{p}}
+*: ''familiar'': {{t|sv|du|s}}, {{t|sv|ni|p}}
+*: ''polite'': {{t|sv|Du|s}}, {{t|sv|Ni|s|p}}
 * [[Tok Pisin]]: [[yu]]
 {{trans-bottom}}
-<!--Japanese-- Maybe we need a separate article for the case of ja pronouns... perhaps the "horribly insulting" ones should be removed just for sake’s sake... there should probably be a better term than 'rude' here too. -->
 
 {{trans-top|used before epithets for emphasis}}
-* [[Afrikaans]]: [[jy]]
+* [[Afrikaans]]: {{t|af|jy}}
 * Czech: {{t+|cs|ty|s}}, {{t+|cs|vy|p}}
 * Dutch:
 *: ''singular'': {{i|standard}} {{t+|nl|jij}}, {{i|Flemish}} {{t+|nl|gij}}
@@ -493,31 +492,21 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: ''singular'': [[espèce]] [[de]]
 *: ''plural'': [[bande]] de
 * German: {{t+|de|du}}
-* Japanese:
-*: ''generic'' {{i|if used for a superior, discourteous}}: [[貴方]] ([[あなた]], anáta)
-*: ''honorific pl'': [[貴方方]] ([[あなたがた]], anata-gatá)
-*: ''polite'': [[そちら]] (sochira)
-*: ''impolite; commonly used between close male friends'': [[お前]] ([[おまえ]], omaé)
-*: ''slightly rude'': [[手前]] ([[てまえ]], temaé)
-*: ''highly insulting'': [[貴様]] ([[きさま]], kisamá)
-*: ''very familiar'': [[あんた]] (ánta) {{i|insulting if used wrongly}}
-*: ''intimate, usu. toward male friends; in business, used toward subordinates'': [[君]] ([[きみ]], kimí)
-*: ''vulgar; dialectical'' [[おんどれ]] (ondore)
+* Japanese: {{t|ja|そこ|alt=そこの, soko no}}, {{t|ja|この|tr=kono}}
 {{trans-mid}}
 * Kurdish: {{t+|ku|ey}}, {{t+|ku|hey}}, {{t+|ku|wey}}
 * Norwegian:
-*: ''singular'': [[din]]
+*: ''singular'': {{t|no|din}}
 * [[Novial]]:
 *: ''singular'': [[vu]]
 *: ''plural'': [[vus]]
 * Portuguese: {{t+|pt|seu}}
-* Russian: [[ты]] (sing.), [[вы]] (plural); often omitted, because it makes the epithet more insulting
+* Russian: {{t|ru|ты|s}}, {{t|ru|вы|p}}; often omitted, because it makes the epithet more insulting
 * Swedish:
-*: ''singular'': [[din]] {{c}}, [[ditt]] {{n}}
-*: ''plural'': [[era]]
+*: ''singular'': {{t|sv|din|c}}, {{t|sv|ditt|n}}
+*: ''plural'': {{t|sv|era}}
 {{trans-bottom}}
-<!--Japanese -- Maybe we need a separate article for the case of ja pronouns... perhaps the "horribly insulting" ones should be removed just for sake’s sake... there should probably be a better term than 'rude' here too. -->
-*: Note: ''In Japanese, all of these words are actually nouns and are not normally required''.
+
 {{checktrans-top}}
 <!-- please put translations in the format as seen above -->
 <!-- Which of them? How far above? The ones you know in the appropriate translation "tables" based on their meaning.-->
