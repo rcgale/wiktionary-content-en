@@ -106,14 +106,14 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * [[Khmer]]: {{Khmr|[[លោក]]}} (lōk, male), {{Khmr|[[លោក​ស្រី]]}} (lōk sray, older female), {{Khmr|[[នាង​ស្រី]]}} (neeung sray, younger female)
 * Latin: {{t+|la|tu}},  {{t+|la|vos|p}}
 * [[Macedonian]]: {{qualifier|familiar}} {{t+|mk|ти|tr=ti|sc=Cyrl|xs=Macedonian}},  {{qualifier|polite}} {{t-|mk|вие|tr=víe|sc=Cyrl|xs=Macedonian}}
-* Mongolian: {{t|mn|чи|tr=či|sc=Cyrl}},  {{qualifier|formal}} {{t|mn|та|tr=ta|sc=Cyrl}}
+* Mongolian: {{t+|mn|чи|tr=či|sc=Cyrl|xs=Mongolian}},  {{qualifier|formal}} {{t+|mn|та|tr=ta|sc=Cyrl|xs=Mongolian}}
 * [[Old Church Slavonic]]:
-*: Cyrillic: {{t|cu|тꙑ|tr=ty|sc=Cyrs}}
-*: Glagolitic: {{t|cu|ⰕⰟⰊ|tr=ty|sc=Glag}}
+*: Cyrillic: {{tø|cu|тꙑ|tr=ty|sc=Cyrs|xs=Old Church Slavonic}}
+*: Glagolitic: {{tø|cu|ⰕⰟⰊ|tr=ty|sc=Glag|xs=Old Church Slavonic}}
 * Old English: {{t-|ang|þū|xs=Old English}}
 * [[Old Irish]]: {{tø|sga|tú}}
 * [[Old Persian]]: {{tø|peo|𐎬𐎺𐎶|tr=tuvam|sc=Xpeo|xs=Old Persian}}
-* Persian: {{t|fa|تو|tr=to|sc=fa-Arab}}
+* Persian: {{t+|fa|تو|tr=to|sc=fa-Arab|xs=Persian}}
 * Polish: {{t+|pl|ty}} {{i|often omitted}},  {{qualifier|polite}} {{t-|pl|Pan|m}},  {{qualifier|polite}} {{t|pl|Pani|f}},  {{qualifier|polite}} {{t|pl|Państwo|p}}
 * Portuguese:
 *: {{qualifier|familiar in Portugal, rare in Brazil}} {{t+|pt|tu}}
@@ -136,7 +136,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * [[Telugu]]: {{qualifier|familiar}} {{t|te|నువ్వు|sc=Telu}} (nuvvu), {{qualifier|polite}} {{t|te|మీరు|sc=Telu}} (meeru)
 * [[Ugaritic]]: {{tø|uga|𐎀𐎚|tr=ʾat|sc=Ugar|xs=Ugaritic}}
 * Ukrainian: {{qualifier|familiar}} {{t+|uk|ти|tr=ty|sc=Cyrl|xs=Ukrainian}},  {{qualifier|polite}} {{t+|uk|ви|tr=vy|sc=Cyrl|xs=Ukrainian}}
-* Welsh: {{qualifier|familiar}} {{t|cy|ti}},  {{qualifier|polite}} {{t|cy|chi}},  {{qualifier|polite}} {{t|cy|chwi}}
+* Welsh: {{qualifier|familiar}} {{t-|cy|ti|xs=Welsh}},  {{qualifier|polite}} {{t-|cy|chi|xs=Welsh}},  {{qualifier|polite}} {{t-|cy|chwi|xs=Welsh}}
 * [[West Frisian]]: {{t+|fy|do|xs=West Frisian}}
 {{trans-bottom}}
 
@@ -185,7 +185,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Spanish: {{qualifier|informal}} {{t+|es|te}}, {{qualifier|formal}} {{t+|es|se}}
 * Swedish: {{t+|sv|dig}}
 * [[Taos]]: [[ę̋]]
-* Welsh: {{qualifier|familiar}} {{t|cy|ti}},  {{qualifier|familiar}} {{t|cy|di}},  {{qualifier|polite}} {{t|cy|chi}},  {{qualifier|polite}} {{t|cy|chwi}}
+* Welsh: {{qualifier|familiar}} {{t-|cy|ti|xs=Welsh}},  {{qualifier|familiar}} {{t-|cy|di|xs=Welsh}},  {{qualifier|polite}} {{t-|cy|chi|xs=Welsh}},  {{qualifier|polite}} {{t-|cy|chwi|xs=Welsh}}
 {{trans-bottom}}
 
 {{trans-top|subject pronoun: the group being addressed}}
@@ -260,7 +260,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * [[Macedonian]]: {{t-|mk|вие|tr=víe|sc=Cyrl|xs=Macedonian}}
 * Maltese: {{t-|mt|intkom|xs=Maltese}}
 * [[Manx]]: [[shiu]], {{i|emphatic}} [[shiuish]]
-* Mongolian: {{t|mn|та|tr=ta|sc=Cyrl}}
+* Mongolian: {{t+|mn|та|tr=ta|sc=Cyrl|xs=Mongolian}}
 * Navajo: {{qualifier|[[dual]]}} [[nihí]], {{qualifier|plural}} [[danihí]]
 * [[Northern Sami]]: {{qualifier|[[dual]]}} [[doai]], {{qualifier|plural}} [[dii]]
 * Norwegian:
@@ -268,7 +268,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: Nynorsk: {{qualifier|familiar}} [[de]], {{qualifier|polite}} [[De]]
 * [[Novial]]: [[vus]]
 * [[Ojibwe]]: [[giinawaa]]
-* [[Old Church Slavonic]]: {{t|cu|ва|tr=va|sc=Cyrs}} {{i|dual}}, {{t|cu|вꙑ|tr=vy|sc=Cyrs}} {{p}}
+* [[Old Church Slavonic]]: {{tø|cu|ва|tr=va|sc=Cyrs|xs=Old Church Slavonic}} {{i|dual}}, {{tø|cu|вꙑ|tr=vy|sc=Cyrs|xs=Old Church Slavonic}} {{p}}
 * Old English: {{qualifier|[[dual]]}} {{t+|ang|git|alt=ġit|xs=Old English}}, {{qualifier|plural}} {{t-|ang|ge|alt=ġē|xs=Old English}}
 * [[Old Irish]]: {{tø|sga|síi}},  {{tø|sga|sib}}
 * Persian: {{fa-Arab|[[ﺷﻮﻣﺎ|ﺷﻮﻣﺎ]]}} (shomā)
@@ -300,7 +300,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Ukrainian: {{t+|uk|ви|tr=vy|sc=Cyrl|xs=Ukrainian}}
 * [[Upper Sorbian]]: {{qualifier|[[dual]]}} [[wój]], {{qualifier|plural}} [[wy]]
 * Urdu: {{qualifier|familiar}} {{ur-Arab|[[تو]]}} (tū), {{qualifier|polite}} {{ur-Arab|[[آپ]]}} (āp)
-* Welsh: {{t-|cy|chi|xs=Welsh}},  {{t|cy|chwi}}
+* Welsh: {{t-|cy|chi|xs=Welsh}},  {{t-|cy|chwi|xs=Welsh}}
 {{trans-bottom}}
 
 {{trans-top|object pronoun: the group being addressed}}
@@ -337,7 +337,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Greek: {{t|el|εσάς||p|sc=Grek}} (esás)
 * Hindi: {{qualifier|mid-polite or familiar}} {{t-|hi|तुम|tr=tum|sc=Deva|xs=Hindi}}; {{qualifier|polite}} {{t-|hi|आप|tr=āp|sc=Deva|xs=Hindi}}
 * Icelandic: {{t+|is|ykkur}}
-* Indonesian: {{qualifier|familiar}} {{t|id|kalian}}
+* Indonesian: {{qualifier|familiar}} {{t-|id|kalian|xs=Indonesian}}
 * Irish: {{t-|ga|sibh|xs=Irish}}, {{qualifier|emphatic}} {{t-|ga|sibhse|xs=Irish}}
 * Italian:
 *: ''direct object'': {{t+|it|vi}}
@@ -378,7 +378,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *:: ''polite'': [[ustedes]]
 * Swedish: {{t+|sv|er}}
 * [[Taos]]: [[ę̋]]
-* Welsh: {{t-|cy|chi|xs=Welsh}},  {{t|cy|chwi}}
+* Welsh: {{t-|cy|chi|xs=Welsh}},  {{t-|cy|chwi|xs=Welsh}}
 {{trans-bottom}}
 
 {{trans-top|one}}
@@ -446,32 +446,32 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: ''familiar'': {{t-|et|sina|s}}, {{t+|et|sa|s}}, {{t-|et|teie|p}}, {{t+|et|te|p}}
 *: ''polite'': {{t-|et|Sina|s}}, {{t+|et|Sa|s}}, {{t|et|Teie|p}}, {{t+|et|Te|p}}
 * Finnish:
-*: ''familiar'': {{t|fi|sinä|s}}, {{t|fi|te|p}}
-*: ''polite'': {{t|fi|Te|s}} and {{p}}
+*: ''familiar'': {{t+|fi|sinä|s}}, {{t+|fi|te|p}}
+*: ''polite'': {{t+|fi|Te|s}} and {{p}}
 * French:
-*: ''familiar'': {{t|fr|tu}}
-*: ''polite'': {{t|fr|vous}}
+*: ''familiar'': {{t+|fr|tu}}
+*: ''polite'': {{t+|fr|vous}}
 * German:
-*: ''familiar'': {{t|de|du|s}}, {{t|de|ihr|p}}
-*: ''polite'': {{t|de|Sie|s}} and {{p}}
+*: ''familiar'': {{t+|de|du|s}}, {{t+|de|ihr|p}}
+*: ''polite'': {{t+|de|Sie|s}} and {{p}}
 {{trans-mid}}
 * Hebrew: {{t+|he|אַתָּה|m|s|tr=attáh|sc=Hebr}}, {{t-|he|אַתְּ|f|s|tr=att|sc=Hebr}}, {{t-|he|אֲתֶּם|m|p|tr=attém|sc=Hebr}}, {{t-|he|אֲתֶּן|f|p|tr=attén|sc=Hebr}}
-* Japanese: {{t|ja|そこ|alt=そこの|tr=soko no}}
-* Russian: {{t|ru|ты|s}}, {{t|ru|вы|p}} (or polite) - may be omitted, depending on where it is placed
+* Japanese: {{t+|ja|そこ|alt=そこの|tr=soko no|sc=Jpan}}
+* Russian: {{t+|ru|ты|s|sc=Cyrl}}, {{t+|ru|вы|p|sc=Cyrl}} (or polite) - may be omitted, depending on where it is placed
 * [[Scots]]: {{tø|sco|ye|xs=Scots}}
 * Slovene: {{t+|sl|ti}} ''familiar'', {{t+|sl|vi}} ''polite''
 * {{ttbc|Spanish}}:
-*: ''familiar'' {{t|es|tú|s}}, {{t|es|vos|p}}
-*: ''polite'' {{t|es|Usted|s}}, {{t|es|Ustedes|p}}
+*: ''familiar'' {{t+|es|tú|s}}, {{t+|es|vos|p}}
+*: ''polite'' {{t|es|Usted|s}}, {{t-|es|Ustedes|p}}
 * Swahili: {{t-|sw|wewe|xs=Swahili}}
 * Swedish:
-*: ''familiar'': {{t|sv|du|s}}, {{t|sv|ni|p}}
-*: ''polite'': {{t|sv|Du|s}}, {{t|sv|Ni|s}} and {{p}}
+*: ''familiar'': {{t+|sv|du|s}}, {{t+|sv|ni|p}}
+*: ''polite'': {{t-|sv|Du|s}}, {{t+|sv|Ni|s}} and {{p}}
 * [[Tok Pisin]]: [[yu]]
 {{trans-bottom}}
 
 {{trans-top|used before epithets for emphasis}}
-* [[Afrikaans]]: {{t|af|jy}}
+* [[Afrikaans]]: {{t+|af|jy|xs=Afrikaans}}
 * Czech: {{t+|cs|ty|s}}, {{t+|cs|vy|p}}
 * Dutch:
 *: ''singular'': {{i|standard}} {{t+|nl|jij}}, {{i|Flemish}} {{t+|nl|gij}}
@@ -482,19 +482,19 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: ''singular'': [[espèce]] [[de]]
 *: ''plural'': [[bande]] de
 * German: {{t+|de|du}}
-* Japanese: {{t|ja|そこ|alt=そこの|tr=soko no}}, {{t|ja|この|tr=kono}}
+* Japanese: {{t+|ja|そこ|alt=そこの|tr=soko no|sc=Jpan}}, {{t-|ja|この|tr=kono|sc=Jpan}}
 {{trans-mid}}
 * Kurdish: {{t+|ku|ey}}, {{t+|ku|hey}}, {{t+|ku|wey}}
 * Norwegian:
-*: ''singular'': {{t|no|din}}
+*: ''singular'': {{t-|no|din}}
 * [[Novial]]:
 *: ''singular'': [[vu]]
 *: ''plural'': [[vus]]
 * Portuguese: {{t+|pt|seu}}
-* Russian: {{t|ru|ты|s}}, {{t|ru|вы|p}}; often omitted, because it makes the epithet more insulting
+* Russian: {{t+|ru|ты|s|sc=Cyrl}}, {{t+|ru|вы|p|sc=Cyrl}}; often omitted, because it makes the epithet more insulting
 * Swedish:
-*: ''singular'': {{t|sv|din|c}}, {{t|sv|ditt|n}}
-*: ''plural'': {{t|sv|era}}
+*: ''singular'': {{t+|sv|din|c}}, {{t+|sv|ditt|n}}
+*: ''plural'': {{t+|sv|era}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -510,7 +510,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *:: ''polite'': {{Arab|[[حضرتك]]}} {{IPAchar|(ħɑḍritɑk)}} {{m}}, {{Arab|[[حضرتك]]}} {{IPAchar|(ħɑḍritik)}} {{f}}
 * {{ttbc|Blackfoot}}: [[kiisto]]
 * {{ttbc|Bengali}}: [[তুমি]] (tumi)
-* {{ttbc|Bulgarian}}: {{t|bg|ти|tr=ti}}
+* {{ttbc|Bulgarian}}: {{t-|bg|ти|tr=ti|sc=Cyrl}}
 * {{ttbc|Catalan}}:
 *: ''familiar'': {{t+|ca|tu}}
 *: ''polite'': [[vostè]]
