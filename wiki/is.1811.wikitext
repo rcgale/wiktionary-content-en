@@ -203,33 +203,59 @@ Cognate of {{term|és||and}}.
 
 ==Irish==
 
-===Pronunciation===
-* {{IPA|lang=ga|[ɪsˠ]}}, {{IPAchar|[sˠ]}}
-* {{IPA|lang=ga|[&nbsp;ʃ&nbsp;]}} (only the particle, and only before the pronouns ''[[é#Irish|é]]'', ''[[í#Irish|í]]'', ''[[iad#Irish|iad]]'')
+===Pronunciation 1===
+* {{IPA|lang=ga|[ɪsˠ]}}, {{IPA|[sˠ]}}
 
-===Conjunction===
+====Etymology====
+From {{term|agus|lang=ga}}.
+
+====Conjunction====
 {{infl|ga|conjunction}}
 
-# [[and]]
+# {{form of|reduced form|{{l|ga|agus}}}}
+::* [[and]]
 
-====See also====
-* [[agus]]
 
-===Particle===
+===Pronunciation 2===
+* {{IPA|[ɪsˠ]|lang=ga}}, {{IPA|[sˠ]|lang=ga}} {{a|before nouns and adjectives}}
+* {{IPA|[ʃ]|lang=ga}} {{a|before pronouns ''{{l|ga|é}}'', ''{{l|ga|í}}'', ''{{l|ga|iad}}''}}
+
+====Particle====
 {{infl|ga|particle}}
 
-# Used in present and future sentences for identification or definition of a subject as the person/object identified in the predicate of the sentence. Sometimes used with adjective predicates, especially in certain fixed idiomatic phrases. Informally equated with English ''[[#English|is]]'', but is not a verb.
-#: '''Is''' múinteoir é Dónall. (definition: predicate is indefinite)
-#:: ''Dónall is a teacher.''
-#: '''Is''' é Dónall an múinteoir. (identification: predicate is definite)
-#:: ''Dónall is the teacher.''
-#: '''Is''' féidir liom snámh. (idiomatic adjective predicate)
-#:: ''I can swim.''
-#: '''Is''' maith liom tae.
-#:: ''I like tea.''
+# Used with the comparative/superlative form of adjectives to form the simple [[comparative]]:
+::* [[more]], [[-er]]
+# Used with the comparative/superlative form of adjectives to form the [[superlative]]:
+::* [[most]], [[-est]]
 
-====See also====
-* [[ba#Irish|ba]] (used in past and conditional sentences)
+=====Usage notes=====
+* Used to form either the comparative or superlative:
+:: an [[buachaill]] is mó -- the [[larger]] [[boy]], the [[largest]] [[boy]]
+
+=====See also=====
+* {{l|ga|ba}}
+* {{l|ga|níos}}
+
+====Verb====
+{{infl|ga|verb form}}
+
+# {{form of|copula form, non-past|{{l|ga|tá}}}}
+::* [[is#English|is, are; will be]]
+
+=====Usage notes=====
+* Used in present and future sentences for identification or definition of a subject as the person/object identified in the predicate of the sentence:
+::* '''Is''' múinteoir é Dónall. (definition: predicate is indefinite)
+::: ''Dónall is a teacher.''
+::* '''Is''' é Dónall an múinteoir. (identification: predicate is definite)
+::: ''Dónall is the teacher.''
+* Sometimes used with noun or adjective predicates, especially in certain fixed idiomatic phrases. It is not a substantive verb.
+::* '''Is''' {{l|ga|féidir}} {{l|ga|liom}} {{l|ga|snámh}}. (idiomatic noun predicate)
+::: ''I can swim.''
+::* '''Is''' {{l|ga|maith}} {{l|ga|liom}} {{l|ga|tae}}. (idiomatic adjective predicate)
+::: ''I like tea.''
+
+=====See also=====
+* [[ba#Irish|ba]] {{context|used in past and conditional sentences}}
 
 ----
 
