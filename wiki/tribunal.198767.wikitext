@@ -1,6 +1,7 @@
 {{wikipedia|tribunal (disambiguation)}}
 {{also|Tribunal}}
 ==English==
+{{wikipedia}}
 
 ===Pronunciation===
 * {{audio|en-us-tribunal.ogg|Audio (US)}}
@@ -8,10 +9,9 @@
 *: {{rhymes|uːnəl}}
 
 ===Etymology===
-From {{etyl|fro}} ''[[#French|tribunal]]''.
+From {{etyl|fro|en}} {{term|tribunal|lang=fro}}, from {{etyl|la|en}} {{term|tribunal|tribūnal|tribunal|lang=la}}
 
 ===Noun===
-{{wikipedia}}
 {{en-noun}}
 
 # an [[assembly]] including one or more [[judge]]s to conduct [[judiciary|judicial]] business; a [[court]] of [[law]]
@@ -28,12 +28,13 @@ From {{etyl|fro}} ''[[#French|tribunal]]''.
 * [[industrial tribunal]]
 
 {{anagrams:en/abilnrtu}}
+
 ----
 
 ==Croatian==
 
 ===Etymology===
-From {{etyl|la|hr}} {{term|tribunal|lang=la}}.
+From {{etyl|la|hr}} {{term|tribunal|tribūnal|tribunal|lang=la}}.
 
 ===Noun===
 {{infl|hr|noun|g=m|head=tribùnāl}}
@@ -56,7 +57,7 @@ From {{etyl|la|hr}} {{term|tribunal|lang=la}}.
 ==French==
 
 ===Etymology===
-From {{etyl|la|fr}} {{term|tribunal|lang=la}}.
+From {{etyl|la|fr}} {{term|tribunal|tribūnal|tribunal|lang=la}}.
 
 ===Pronunciation===
 * {{audio|Fr-tribunal.ogg|audio}}
@@ -73,23 +74,69 @@ From {{etyl|la|fr}} {{term|tribunal|lang=la}}.
 ==Latin==
 
 ===Etymology===
-From ''[[tribunus]]''.
+From {{term|tribunus|tribūnus|tribune|lang=la}}, from {{term|tribus||tribe|lang=la}}.
+
+===Pronunciation===
+* {{a|Classical}} {{IPA|/triˈbuː.nal/|lang=la}}
 
 ===Noun===
-'''tribunal'''
+{{la-noun|tribūnal|tribunalis|tribūnālis|n|third}}
 
-# [[#Noun|tribunal]]
+# A [[raise]]d [[semicircular]] or [[square]] [[platform]], on which the [[seat]]s of [[magistrate]]s were [[place]]d; [[#English|tribunal]], [[judgment seat]].
+# {{metonymy|lang=la}} A [[court of law]], tribunal; [[judgment]].
+# {{by extension|lang=la}} Any platform used for [[purpose]]s other than above.
+# {{by extension|lang=la}} [[mound|Mound]], [[dam]], [[embankment]].
+# {{figurative|lang=la}} [[height|Height]], [[greatness]].
 
-[[Category:Latin nouns]]
+====Inflection====
+{{la-decl-3rd-INEUT|tribunal|tribun|tribūnal|tribūn}}
+
+====Related terms====
+{{top4}}
+* [[tribuarius|tribuārius]]
+* [[tribulis|tribūlis]]
+* [[tribunatus|tribūnātus]]
+* [[tribunicius|tribūnīcius]]
+{{mid4}}
+* [[tribunus|tribūnus]]
+* [[tribuo|tribuō]]
+* [[tribus#Latin|tribus]]
+* [[tributarius|tribūtārius]]
+{{mid4}}
+* [[tributim|tribūtim]]
+* [[tributio|tribūtiō]]
+* [[tributor|tribūtor]]
+{{mid4}}
+* [[tributorius|tribūtōrius]]
+* [[tributum|tribūtum]]
+* [[tributus|tribūtus]]
+{{bottom}}
+
+====Descendants====
+{{top2}}
+* Catalan: {{l|ca|tribunal}}
+* Croatian: {{l|hr|tribunal}}
+* English: {{l|en|tribunal}}
+{{mid2}}
+* French: {{l|fr|tribunal}}
+* Portuguese: {{l|pt|tribunal}}
+* Spanish: {{l|es|tribunal}}
+{{bottom}}
+
+===References===
+* {{R:L&S}}
 
 ----
 
 ==Spanish==
 
+===Etymology===
+From {{etyl|la|es}} {{term|tribunal|tribūnal|tribunal|lang=la}}.
+
 ===Noun===
 {{es-noun-m|pl=tribunales}}
 
-# [[tribunal]]
+# [[#English|tribunal]]
 
 ====See also====
 * [[juzgado]]
