@@ -8,19 +8,29 @@
 ===Symbol===
 {{mul-symbol|sc=Brai}}
 
-# {{context|Braille|often preceded by number sign [[⠼]]}} The [[digit]] {{term|1}}.
-# {{context|Braille}} The lower case [[letter]] {{term|a}}.
-# {{context|Braille|often preceded by capital sign [[⠠]]}} The upper case [[letter]] {{term|A}}.
+# {{mul-braidef|1}}
 # {{context|Chinese Braille}} Pinyin first tone (flat/high) {{term|ˉ}}.
-# {{context|Cyrillic Braille}} The Cyrillic lowercase letter [[а]].
-# {{context|Hebrew Braille}} The letter {{term|sc=Hebr|א|tr=’||aleph}}.
-# {{context|Japanese Braille}} The [[hiragana]] character {{term|sc=Jpan|あ|tr=a}}.
 # {{context|Korean Braille}} The hangeul final [[jamo]] {{term|sc=Hang|ㄱ|tr=g||gieuk}}.
 
-====See also====
-{{mul-script}}
+===Letter===
+{{mul-letter|sc=Brai}}
 
-[[Category:Braille digits|1]]
-[[Category:Braille letters|a]]
+# {{context|Braille}} The lower case [[letter]] {{term|a}}.
+# {{context|Braille|often preceded by capital sign [[⠠]]}} The upper case [[letter]] {{term|A}}.
+# {{context|Cyrillic Braille}} The Cyrillic lowercase letter [[а]].
+# {{context|Hebrew Braille}} The letter {{term|sc=Hebr|א|tr=’||aleph}}.
+
+===Syllable===
+{{mul-syllable|sc=Brai}}
+
+# {{context|Japanese Braille}} The [[hiragana]] character {{term|sc=Jpan|あ|tr=a}}.
+
+===Number===
+{{mul-number|sc=Brai}}
+
+# {{context|Braille|often preceded by number sign [[⠼]]}} The [[digit]] {{term|1}}.
+
+===See also===
+{{mul-script}}
 
 [[fr:⠁]]
