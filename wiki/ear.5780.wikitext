@@ -65,7 +65,7 @@
 * Aramaic:
 *: Syriac: [[ܐܕܢܐ]] (’idnā’) {{f}}
 *: Hebrew: [[אדנא]] (’idnā’) {{f}}
-* Armenian: {{t+|hy|ականջ|tr=akanǰ|sc=Armn|xs=Armenian}}
+* Armenian: {{t+|hy|ականջ|tr=akanǰ}}
 *: Old Armenian: {{tø|xcl|ունկն|tr=unkn|sc=Armn|xs=Old Armenian}}, {{tø|xcl|ականջ|p|alt=ականջք|tr=akanǰkʿ|sc=Armn|xs=Old Armenian}}
 * [[Asturian]]: {{t+|ast|oreya|f|xs=Asturian}}
 * [[Azeri]]: {{t|az|qulaq|xs=Azeri}}
@@ -86,12 +86,12 @@
 * [[Erzya]]: [[пиле]] (pile)
 * Esperanto: {{t-|eo|orelo|xs=Esperanto}}
 * Estonian: {{t-|et|kõrv}}
-* Faroese: {{t|fo|oyra|n}}
+* Faroese: {{t-|fo|oyra|n|xs=Faroese}}
 * Finnish: {{t+|fi|korva}}
 * French: {{t+|fr|oreille|f}}
 * Georgian: {{t-|ka|ყერი|tr=qeri|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Ohr|n}}
-* Greek: {{t+|el|αυτί|n|tr=afti|sc=Grek}}
+* Greek: {{t+|el|αυτί|n|tr=afti}}
 * [[Guaraní]]: [[nambi]]
 * Hawaiian: [[pepeiao]]
 * Hebrew: [[אוזן]] (ózen) {{f}}
@@ -116,7 +116,7 @@
 * Latin: {{t+|la|auris|f}}
 * Latvian: {{t-|lv|auss|f|s|xs=Latvian}}, {{t-|lv|ausis|f|p|xs=Latvian}}
 * [[Lower Sorbian]]: [[wucho]] {{n}}
-* [[Macedonian]]: {{t-|mk|уво|n|tr=úvo|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|уво|n|tr=úvo}}
 * Malay: {{t+|ms|telinga|xs=Malay}}
 * [[Malayalam]]: [[ചെവി]] (chevi), [[കര്‍ണ്ണം]] (karNNam)
 * Maltese: {{t-|mt|widna|f|xs=Maltese}}
@@ -126,7 +126,7 @@
 * Norwegian: {{t+|no|øre}}
 * [[Occitan]]: {{t+|oc|aurelha|f|xs=Occitan}}
 * Old English: {{t-|ang|eare|alt=ēare|xs=Old English}}
-* [[Pashto]]: {{t-|ps|غوږ|m|tr=ghwag|sc=ps-Arab}}
+* [[Pashto]]: {{t-|ps|غوږ|m|tr=ghwag|sc=ps-Arab|xs=Pashto}}
 * Persian: {{fa-Arab|[[گوش]]}} (gush)
 * [[Pitjantjatjara]]: [[pina]], {{unicode|[[anpiṟi]]}}
 * Polish: {{t+|pl|ucho|n}}
@@ -135,7 +135,7 @@
 * [[Rohingya]]: [[han]]
 * [[Romani]]: [[kan]]
 * Russian: [[ухо]] (úxo) {{n}}
-* Sanskrit: {{t-|sa|कर्ण|m|tr=kárṇa|sc=Deva|xs=Sanskrit}}, {{t-|sa|श्रवण|n|tr=śrávaṇa|sc=Deva|xs=Sanskrit}}, {{t-|sa|श्रुति|f|tr=śrúti|sc=Deva|xs=Sanskrit}}
+* Sanskrit: {{t-|sa|कर्ण|m|tr=kárṇa|xs=Sanskrit}}, {{t-|sa|श्रवण|n|tr=śrávaṇa|xs=Sanskrit}}, {{t-|sa|श्रुति|f|tr=śrúti|xs=Sanskrit}}
 * [[Scots]]: {{tø|sco|luggie|xs=Scots}}
 * [[Scottish Gaelic]]: [[cluas]] {{f}}
 * Serbian: [[uvo]] {{n}}, [[uho]] {{n}}
@@ -165,10 +165,10 @@
 <!--Note: add SLANG terms to this table, where these exist-->
 {{trans-top|slang: police informant}}
 * German: {{t-|de|Informant|m}}
-* [[Macedonian]]: {{t|mk|доушник|m|tr=dóušnik|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|доушник|m|tr=dóušnik}}
 * Polish: [[konfident]] {{m}}
 {{trans-mid}}
-* Russian: {{t+|ru|доносчик|m|tr=donósčik|sc=Cyrl}}
+* Russian: {{t+|ru|доносчик|m|tr=donósčik}}
 * Swahili: {{t+|sw|sikio|xs=Swahili}}
 * [[West Frisian]]: [[ynformant]]
 {{trans-bottom}}
@@ -208,7 +208,7 @@ Old English ''[[ear#Old English|ēar]]''
 * Italian: {{t+|it|spiga|f}}
 {{trans-mid}}
 * Japanese: [[穂]] (ho)
-* [[Macedonian]]: {{t-|mk|клас|m|tr=klas|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|клас|m|tr=klas}}
 * Polish: {{t+|pl|kłos|m}}
 * Portuguese: {{t+|pt|espiga|f}}
 * Russian: [[колос]] (kólos) {{m}}, [[початок]] (počátok) {{m}} ''of maize''
@@ -232,13 +232,13 @@ Old English ''[[erian]]''
 
 =====Translations=====
 {{trans-top|archaic: to plough}}
-* Arabic: {{t-|ar|حرث|tr=ħáraθa|sc=Arab}}
+* Arabic: {{t-|ar|حرث|tr=ħáraθa}}
 * Chinese: [[耕]] (gēng)
 * Dutch: {{t+|nl|ploegen}}
 * Estonian: [[kündma]]
 * Finnish: {{t+|fi|kyntää}}
 * French: {{t+|fr|labourer}}
-* German: {{t-|de|pflügen}}
+* German: {{t+|de|pflügen}}
 * Greek: [[ζευγαρίζω]] (zevgarízo), [[αροτριώ]] (arotrió)
 * Hungarian: {{t+|hu|szánt}}
 * Icelandic: {{t-|is|plægja}}
@@ -247,7 +247,7 @@ Old English ''[[erian]]''
 * Japanese: [[耕す]] (tagayásu)
 * Korean: [[갈다]] (galda)
 * Latin: {{t-|la|arare}}
-* [[Macedonian]]: {{t|mk|ора|tr=óra|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|ора|tr=óra}}
 * Portuguese: {{t+|pt|arar}}
 * Russian: [[пахать]] / [[вспахать]] (pakhát’/vspakhát’)
 * Spanish: {{t+|es|arar}}
