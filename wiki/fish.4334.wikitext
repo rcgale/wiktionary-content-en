@@ -110,17 +110,17 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}} < {{proto|Germanic|fiskaz|lang=en}} 
 *: Syriac: [[ܢܘܢܐ]] (nūnā’) {{c}}
 *: Hebrew: [[נונא]] (nūnā’) {{c}}
 * [[Arapaho]]: [[nowoˀ]]; [[biθi]]
-* Armenian: {{t-|hy|ձուկ|tr=juk|sc=Armn|xs=Armenian}}
+* Armenian: {{t-|hy|ձուկ|tr=juk}}
 *: Old Armenian: {{tø|xcl|ձուկն|tr=jukn|sc=Armn|xs=Old Armenian}}
 * Assiniboine: [[hoga]]
 * [[Avestan]]: (masya) {{rfscript|Avestan}}
 * [[Aymara]]: [[challwa]]
 * [[Azeri]]: [[balıq]]
-* [[Basque]]: {{t|eu|arrain|xs=Basque}}
+* [[Basque]]: {{t+|eu|arrain|xs=Basque}}
 * {{trreq|Bengali}}
 * Bosnian: {{t-|bs|riba|f}}
 * [[Breton]]: [[pesk]] {{m}}
-* Bulgarian: {{t+|bg|риба|f|tr=riba|sc=Cyrl}}
+* Bulgarian: {{t+|bg|риба|f|tr=riba}}
 * {{trreq|Burmese}}
 * [[Catalan]]: [[peix]] {{m}} [[:ca:peix|(ca)]]
 * [[Cebuano]]: [[isda]]
@@ -157,8 +157,8 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}} < {{proto|Germanic|fiskaz|lang=en}} 
 * Georgian: {{t-|ka|თევზი|tr=t’evzi|sc=Geor|xs=Georgian}}
 * German: [[Fisch]] {{m}} [[:de:Fisch|(de)]]
 * [[Gothic]]: [[fisks]]
-* Greek: {{t+|el|ψάρι|n|tr=psari|sc=Grek}}
-*: Ancient Greek: {{t|grc|ἰχθύς|m|tr=ikhthus|sc=polytonic}}
+* Greek: {{t+|el|ψάρι|n|tr=psari}}
+*: Ancient Greek: {{tø|grc|ἰχθύς|m|tr=ikhthus|xs=Ancient Greek}}
 * [[Guaraní]]: [[pira]]
 * [[Gujarati]]: [[માછલી]] (māčlī) {{f}}
 * [[Haida]]: [[čín]]
@@ -240,7 +240,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}} < {{proto|Germanic|fiskaz|lang=en}} 
 * [[Rohingya]]: [[mas]]
 * [[Romani]]: [[masho]]
 * Romanian: {{t+|ro|peşte|m}}
-* Russian: {{t+|ru|рыба|f|tr=rýba|sc=Cyrl}}
+* Russian: {{t+|ru|рыба|f|tr=rýba}}
 * {{trreq|Samoan}}
 * Sanskrit: [[मत्स्य]] (matsya)
 * [[Scottish Gaelic]]: [[iasg]] {{m}}
@@ -251,7 +251,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}} < {{proto|Germanic|fiskaz|lang=en}} 
 * [[Shuswap]]: [[swewll]]
 * [[Sicilian]]: {{t+|scn|pisci|m|xs=Sicilian}}
 * [[Sinhala]]: [[මාළුවා]] (maalluvaa)
-* Slovak: {{t-|sk|ryba|f}}
+* Slovak: {{t+|sk|ryba|f}}
 * Slovene: {{t+|sl|riba|f}}
 * [[Sotho]]: {{t|st|sehlapi|xs=Sotho}}
 * Spanish: {{t+|es|pez|m}}, {{t+|es|pescado|m}}
@@ -275,12 +275,12 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}} < {{proto|Germanic|fiskaz|lang=en}} 
 * {{trreq|Tongan}}
 * [[Tonkawa]]: [[nɛswʌlˀʌn]]
 * [[Tsimshian]]: [[hóːn]]
-* [[Tswana]]: {{t|tn|tlhapi}} (9/10)
+* [[Tswana]]: {{t-|tn|tlhapi|xs=Tswana}} (9/10)
 * [[Tupinambá]]: [[pirá]]
 * Turkish: {{t+|tr|balık}}
 * Turkmen: {{t+|tk|balyk|xs=Turkmen}}
 * [[Ubykh]]: {{tø|uby|psa}}
-* Ukrainian: {{t-|uk|риба|f|tr=riba|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t-|uk|риба|f|tr=riba|xs=Ukrainian}}
 * Urdu: {{ur-Arab|[[مچھلی]]}} (mačlī) {{f}}, {{ur-Arab|[[متسیہ]]}} (matsya) {{m}}, {{ur-Arab|[[ماہی]]}} (māhī) {{f}}
 * Uzbek: {{t-|uz|baliq|xs=Uzbek}}
 * [[Venetian]]: [[pesse]] {{m}}
@@ -292,7 +292,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}} < {{proto|Germanic|fiskaz|lang=en}} 
 {{trans-bottom}}
 
 {{trans-top|collective plural of fish}}
-* Armenian: {{t-|hy|ձկներ|tr=jkner|sc=Armn|xs=Armenian}}
+* Armenian: {{t-|hy|ձկներ|tr=jkner}}
 * Finnish: {{t+|fi|kala}}
 {{trans-mid}}
 * Swahili: {{t+|sw|samaki|xs=Swahili}}
@@ -305,7 +305,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}} < {{proto|Germanic|fiskaz|lang=en}} 
 {{trans-bottom}}
 
 {{trans-top|flesh of fish as food}}
-* Armenian: {{t-|hy|ձուկ|tr=juk|sc=Armn|xs=Armenian}}
+* Armenian: {{t-|hy|ձուկ|tr=juk}}
 * Bosnian: {{t-|bs|riba|f}}
 * [[Crimean Tatar]]: [[balıq]]
 * Croatian: {{t+|hr|riba|f}}
@@ -316,7 +316,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}} < {{proto|Germanic|fiskaz|lang=en}} 
 * Finnish: {{t+|fi|kala}}
 * French: {{t+|fr|poisson|m}}
 * German: {{t+|de|Fisch|m}}
-* Greek: {{t+|el|ψάρι|n|tr=psari|sc=Grek}}
+* Greek: {{t+|el|ψάρι|n|tr=psari}}
 * Icelandic: {{t+|is|fiskur|m}}
 * [[Inuktitut]]: [[ᐃᖃᓗᒃ]]
 * Italian: {{t+|it|pesce|m}}
@@ -324,11 +324,11 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}} < {{proto|Germanic|fiskaz|lang=en}} 
 * Kurdish: {{t+|ku|masî|m}}
 * Latvian: {{t-|lv|zivs|f|s|xs=Latvian}}
 {{trans-mid}}
-* [[Macedonian]]: {{t-|mk|риба|f|tr=ríba|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|риба|f|tr=ríba}}
 * [[Malayalam]]: [[മീന്‍]]
-* Mandarin: {{t|zh|鱼|sc=Hani}}
+* Mandarin: {{t-|cmn|鱼|sc=Hani}}
 * Polish: {{t+|pl|ryba|f}}
-* Russian: {{t+|ru|рыба|f|sc=Cyrl}}
+* Russian: {{t+|ru|рыба|f}}
 * Serbian:
 *: Cyrillic: [[риба#Serbian|риба]] {{f}}
 *: Roman: [[riba#Serbian|riba]] {{f}}
@@ -347,7 +347,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}} < {{proto|Germanic|fiskaz|lang=en}} 
 * Finnish: {{t+|fi|kalastus}}
 * French: {{t+|fr|pêche|f}}
 * German: [[Fischzug]] {{m}}
-* Greek: {{t+|el|ψάρεμα|n|tr=psárema|sc=Grek}}
+* Greek: {{t+|el|ψάρεμα|n|tr=psárema}}
 * Hungarian: [[halászat]], [[halászás]]
 * Kurdish: {{t+|ku|masîgirî|m}}
 * Polish: [[łowienie ryb]] {{n}}
@@ -356,7 +356,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}} < {{proto|Germanic|fiskaz|lang=en}} 
 * Slovak:
 *: ''recreational'': [[rybačka]] {{f}}, [[rybárčenie]] {{n}}, [[rybárstvo]] {{n}}
 *: ''industrial'': [[rybolov]] {{m}}
-* Spanish: {{t-|es|pesca|f}}
+* Spanish: {{t+|es|pesca|f}}
 * Swahili: {{t+|sw|samaki|xs=Swahili}}
 * Swedish: {{t+|sv|fiske|n}}
 {{trans-bottom}}
@@ -376,7 +376,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}} < {{proto|Germanic|fiskaz|lang=en}} 
 {{trans-top|derogatory slang: woman}}
 * Bosnian: {{t-|bs|riba|f}}
 * Croatian: {{t+|hr|riba|f}}
-* [[Macedonian]]: {{t-|mk|риба|f|tr=ríba|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|риба|f|tr=ríba}}
 * Serbian:
 *: Cyrillic: [[риба#Serbian|риба]] {{f}}
 *: Roman: [[riba#Serbian|riba]] {{f}}
@@ -387,7 +387,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}} < {{proto|Germanic|fiskaz|lang=en}} 
 {{trans-top|slang: easy victim for swindling}}
 * Swahili: {{t+|sw|samaki|xs=Swahili}}
 {{trans-mid}}
-* Russian: {{t|ru|лох|m|sc=Cyrl|tr=lox}}
+* Russian: {{t+|ru|лох|m|tr=lox}}
 {{trans-bottom}}
 
 {{trans-top|nautical: makeshift brace}}
@@ -416,7 +416,7 @@ From {{etyl|ang|en}} {{term|fiscian|lang=ang}}.
 
 =====Translations=====
 {{trans-top|relating to fish}}
-* Armenian: {{t|hy|ձկնային|tr=jknayin|sc=Armn|xs=Armenian}},  {{t-|hy|ձկան|tr=jkan|sc=Armn|xs=Armenian}}
+* Armenian: {{t|hy|ձկնային|tr=jknayin}},  {{t-|hy|ձկան|tr=jkan}}
 * Danish: {{t+|da|fisk}}
 * Dutch: [[vis-]],  ''(''plural:'' [[vissen-]])''
 * Finnish: {{t+|fi|kala|alt=kala-}} ''modifier in a compound word''
@@ -425,11 +425,11 @@ From {{etyl|ang|en}} {{term|fiscian|lang=ang}}.
 * [[Interlingua]]: de [[pisce]]
 * Italian: di [[pesce]]
 {{trans-mid}}
-* [[Macedonian]]: {{t|mk|рибен|m|tr=ríben|sc=Cyrl|xs=Macedonian}},  {{t|mk|рибин|m|tr=ríbin|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|рибен|m|tr=ríben}},  {{t|mk|рибин|m|tr=ríbin}}
 * Norwegian: [[fiske-]] ''prefix in a compound word''
 * Polish: rybi {{m}}, rybia {{f}}, rybie {{n}}
 * Portuguese: [[de peixe]], [[písceo]] {{m}}
-* Russian: {{t+|ru|рыбный|sc=Cyrl}}, {{t+|ru|рыбий|sc=Cyrl}}
+* Russian: {{t+|ru|рыбный}}, {{t+|ru|рыбий}}
 * Slovene: [[ribji]] {{m}}, [[ribja]] {{f}}, [[ribje]] {{n}}
 * Swahili: {{t+|sw|samaki|xs=Swahili}}
 * [[Zhuang]]: {{t-|za|bya|xs=Zhuang}}
@@ -440,7 +440,7 @@ From {{etyl|ang|en}} {{term|fiscian|lang=ang}}.
 * Finnish: {{t+|fi|kalastus|alt=kalastus-}}, {{t+|fi|kala|alt=kala-}} ''modifiers in a compound word''
 * French: de [[pêche]]
 {{trans-mid}}
-* [[Macedonian]]: {{t|mk|рибарски|m|tr=ríbarski|sc=Cyrl|xs=Macedonian}},  {{t|mk|риболовен|m|tr=ribolóven|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|рибарски|m|tr=ríbarski}},  {{t|mk|риболовен|m|tr=ribolóven}}
 * Russian: [[рыбацкий]] (recreation), [[рыболовецкий]] (industry)
 * Swahili: {{t+|sw|samaki|xs=Swahili}}
 {{trans-bottom}}
@@ -482,7 +482,7 @@ From {{etyl|ang|en}} {{term|fiscian|lang=ang}}.
 
 =====Translations=====
 {{trans-top|to try to catch fish}}
-* Armenian: {{t|hy|ձուկ բռնել|tr=juk bṙnel|sc=Armn|xs=Armenian}}
+* Armenian: {{t|hy|ձուկ բռնել|tr=juk bṙnel}}
 * [[Breton]]: [[pesketa]]
 * [[Catalan]]: [[pescar]]
 * Chinese (simplified): [[渔]]
@@ -494,7 +494,7 @@ From {{etyl|ang|en}} {{term|fiscian|lang=ang}}.
 * Finnish: {{t+|fi|kalastaa}}
 * French: [[faire la pêche]], [[pêcher]]
 * German: {{t+|de|fischen}}, {{t+|de|angeln}}
-* Greek: {{t+|el|ψαρεύω|tr=psarevo|sc=Grek}}
+* Greek: {{t+|el|ψαρεύω|tr=psarevo}}
 * [[Guaraní]]: [[kutu]] (''transitive''), [[pirakutu]] (''intransitive'')
 * Hawaiian: [[lawaiʻa]]
 * Hungarian: {{t+|hu|halászik}}
@@ -508,11 +508,11 @@ From {{etyl|ang|en}} {{term|fiscian|lang=ang}}.
 * Polish: łowić ryby
 * Portuguese: {{t+|pt|pescar}}
 * Romanian: {{t+|ro|pescui}}
-* Russian: {{t|ru|рыбачить|tr=rybáčit'|sc=Cyrl}} {{impf}}, [[ловить рыбу]] (lovit' ribu)
+* Russian: {{t|ru|рыбачить|tr=rybáčit'}} {{impf}}, [[ловить рыбу]] (lovit' ribu)
 * Slovene: [[ribariti]], [[loviti ribe]]
 * Spanish: {{t+|es|pescar}}
 * Swedish: {{t+|sv|fiska}}
-* Thai: {{t+|th|ตกปลา|xs=Thai}} (dtòk bplaa)
+* Thai: {{t+|th|ตกปลา}} (dtòk bplaa)
 * [[Tok Pisin]]: [[huk]]
 * [[West Frisian]]: [[fiskje]]
 {{trans-bottom}}
@@ -520,14 +520,14 @@ From {{etyl|ang|en}} {{term|fiscian|lang=ang}}.
 {{trans-top|to attempt to find by searching among other objects}}
 * Finnish: {{t+|fi|penkoa}}
 {{trans-mid}}
-* Russian: {{t|ru|выуживать|tr=vyúživat|sc=Cyrl}} {{impf}}, {{t|ru|выудить|tr=výudit|sc=Cyrl}} {{pf}}
+* Russian: {{t|ru|выуживать|tr=vyúživat}} {{impf}}, {{t|ru|выудить|tr=výudit}} {{pf}}
 {{trans-bottom}}
 
 {{trans-top|to attempt to obtain information by talking to people}}
 * Finnish: {{t-|fi|urkkia}}
 * Icelandic: [[veiða upp úr]], [[fiska]]
 {{trans-mid}}
-* Russian: {{t|ru|выуживать|tr=vyúživat|sc=Cyrl}} {{impf}}, {{t|ru|выудить|tr=výudit|sc=Cyrl}} {{pf}}
+* Russian: {{t|ru|выуживать|tr=vyúživat}} {{impf}}, {{t|ru|выудить|tr=výudit}} {{pf}}
 {{trans-bottom}}
 
 {{trans-top|cricket: to attempt to hit outside off stump and miss}}
@@ -538,7 +538,7 @@ From {{etyl|ang|en}} {{term|fiscian|lang=ang}}.
 * Finnish: {{t+|fi|penkoa}}, {{t+|fi|onkia}}
 * [[Interlingua]]: [[piscar]]
 {{trans-mid}}
-* Portuguese: {{t+|pt|pescar}}, {{t-|pt|catar}}
+* Portuguese: {{t+|pt|pescar}}, {{t+|pt|catar}}
 {{trans-bottom}}
 
 {{trans-top|to attempt to gain something}}
