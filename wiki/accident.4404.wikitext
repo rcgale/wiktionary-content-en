@@ -3,7 +3,7 @@
 {{webster 1913}}
 
 ===Etymology===
-{{etyl|fr}} {{term|accident|lang=fr}}, from Latin {{term|accidens}}, {{term||-dentis}}, present participle of {{term|accido||to happen|lang=la}}; {{term|lang=la|ad}} + {{term|cadere||to fall|lang=la}}. See {{term|cadence}}, {{term|case}}.
+{{etyl|fr}} {{term|accident|lang=fr}}, from Latin {{term|accidens|accīdēns}}, {{term||-dentis}}, present participle of {{term|accido|accīdō|to happen|lang=la}}; {{term|lang=la|ad}} + {{term|cadere||to fall|lang=la}}. See {{term|cadence}}, {{term|case}}.
 
 ===Pronunciation===
 * {{IPA|/ˈæk.sə.dənt/}}, {{SAMPA|/"{k.s@.d@nt/}}
@@ -30,7 +30,7 @@
 #*: This '''accident''', as I call it, of Athens being [[situated]] some miles from the [[sea]].
 # {{obsolete}} [[unusual|Unusual]] appearance or [[effect]] - [[w:Geoffrey Chaucer|Geoffrey Chaucer]]
 # {{legal}} [[casus]]; such [[unforeseen]], [[extraordinary]], [[extraneous]] [[interference]] as is out of the range of ordinary [[calculation]].
-# {{context|automotive}} An unintended [[collision]].
+# {{context|transport}} An unintended [[collision]] or [[event]] that causes [[damage]] or [[death]].
 #: ''There was a huge '''accident''' on I5 involving 15 automobiles.''
 #: ''My insurance is expenive now, mostly because of those two '''accidents'''.''
 
@@ -48,6 +48,7 @@
 {{trans-top|befalling, mishap, casualty}}
 * Arabic: {{t|ar|حادث|m|tr=Haadith}}
 * Bulgarian: {{t|bg|злополука}},  {{t+|bg|катастрофа}}
+* [[Catalan]]: {{t-|ca|accident|m}}
 * Chinese:
 *: Mandarin: {{t-|cmn|事故|tr=shìgù|sc=Hani}},  {{t-|cmn|意外|tr=yìwài|sc=Hani}}
 * Croatian: {{t-|hr|katastrofa}}, {{t-|hr|sudar}}
@@ -70,7 +71,8 @@
 * Swedish: {{t+|sv|olycka|c}}
 {{trans-bottom}}
 
-{{trans-top|property attached to a word}}
+{{trans-top|grammar: property attached to a word}}
+* [[Catalan]]: {{t-|ca|accident|m}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -89,6 +91,7 @@
 {{trans-bottom}}
 
 {{trans-top|logic: quality or attribute}}
+* [[Catalan]]: {{t-|ca|accident|m}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -108,10 +111,14 @@
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|(automotive) unintended collision}}
-* [[American Sign Language]]: {{qualifier|with another vehicle}} {{tø|ase|3@SideChesthigh-FingerAcross-3@SideChesthigh-FingerAcross S@Tip-TipAcross-S@CenterChesthigh-TipAcross|xs=American Sign Language}}, {{qualifier|with a stationary object}} {{tø|ase|3@SideChesthigh-FingerAcross-S@CenterChesthigh-TipAcross S@Tip-TipAcross-S@CenterChesthigh-TipAcross|xs=American Sign Language}}, {{qualifier|with a person}} {{tø|ase|3@SideChesthigh-FingerAcross-1@CenterChesthigh-FingerUp S@Finger-TipFinger-1@CenterChesthigh-FingerUp|xs=American Sign Language}}
-{{trans-mid}}
+{{trans-top|transport: unintended collision}}
+* [[American Sign Language]]:
+*: {{sense|with another vehicle}} {{tø|ase|3@SideChesthigh-FingerAcross-3@SideChesthigh-FingerAcross S@Tip-TipAcross-S@CenterChesthigh-TipAcross|xs=American Sign Language}}
+*: {{sense|with a stationary object}} {{tø|ase|3@SideChesthigh-FingerAcross-S@CenterChesthigh-TipAcross S@Tip-TipAcross-S@CenterChesthigh-TipAcross|xs=American Sign Language}}
+*: {{sense|with a person}} {{tø|ase|3@SideChesthigh-FingerAcross-1@CenterChesthigh-FingerUp S@Finger-TipFinger-1@CenterChesthigh-FingerUp|xs=American Sign Language}}
 * Bulgarian: {{t+|bg|катастрофа}}
+{{trans-mid}}
+* [[Catalan]]: {{t-|ca|accident|m}}
 * Czech: {{t-|cs|nehoda|f}}
 * French: {{t+|fr|accident|m}}
 * Russian: {{t+|ru|авария|f|tr=avarija}}, {{t|ru|столкновение|m|tr=stolknoveniye}}
@@ -120,7 +127,6 @@
 
 {{checktrans-top}}
 * {{ttbc|Basque}}: [[istripu]], [[ezbehar]]
-* {{ttbc|Catalan}}: [[accident]]
 * {{ttbc|Esperanto}}: [[akcidento]]
 * {{ttbc|Hebrew}}: [[תאונה]] (teuna) {{f}} (1)
 * {{ttbc|Ido}}: [[acidento]]
@@ -143,6 +149,32 @@
 
 ----
 
+==Catalan==
+
+===Etymology===
+From {{etyl|la|ca}} {{term||accīdent-}}, stem of {{term|accidens|accīdēns}}, present participle of {{term|accido|accīdō|to happen|lang=la}}.
+
+===Pronunciation===
+* {{a|Balearic}} {{IPA|lang=ca|[əksiðént]|[əʦiðént]}}
+* {{a|Eastern Catalan}} {{IPA|lang=ca|[əksiðén]}}
+* {{a|Western Catalan}} {{IPA|lang=ca|[aksíðént]}}
+
+===Noun===
+{{ca-noun|m}}
+
+# [[#English|accident]] {{gloss|a chance occurrence}}
+# {{grammar|lang=ca}} [[#English|accident]]
+# {{music|lang=ca}} [[#English|accidental]]
+# {{logic|lang=ca}} [[#English|accident]]
+# {{transport|lang=ca}} [[#English|accident]]
+
+====Derived terms====
+* {{l|ca|accidental}}
+* {{l|ca|accidentar}}
+* {{l|ca|accidentogen}}
+
+----
+
 ==French==
 
 ===Pronunciation===
@@ -151,11 +183,11 @@
 ===Noun===
 {{fr-noun|m}}
 
-# accident
+# [[#English|accident]]
 
 ====Derived terms====
-* [[accidentel]]
-* [[accidenter]]
+* {{l|fr|accidentel}}
+* {{l|fr|accidenter}}
 
 [[ar:accident]]
 [[be:accident]]
