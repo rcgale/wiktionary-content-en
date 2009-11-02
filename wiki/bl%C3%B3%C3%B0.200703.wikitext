@@ -1,11 +1,16 @@
-{{also|blot|blod|bløt|blöt|blöd|blöð}}
+{{also|blod|blöd|blöð}}
+
 ==Faroese==
+
+===Etymology===
+From {{etyl|non|fo}} {{term|blóð|lang=non}}.
 
 ===Pronunciation===
 * {{IPA|[blɔuː]|lang=fo}}
+*: {{rhymes|ɔu|lang=fo}}
 
 ===Noun===
-'''blóð''' {{n}}
+{{infl|fo|noun|g=n}}
 
 # [[blood]]
 
@@ -15,26 +20,29 @@
 ====Synonyms====
 * {{i-c|poetic}} [[benjardøgg]] {{f}}
 
-[[Category:Faroese nouns]]
 [[Category:fo:Medicine]]
 
 ----
 
 ==Icelandic==
+
+===Etymology===
+From {{etyl|non|is}} {{term|blóð|lang=non}}.
+
 ===Pronunciation===
-* {{IPA|[ˈb̥louːð]|lang=is}}
+* {{IPA|/plouːð/|lang=is}}
+*: {{rhymes|ouːð|lang=is}}
 
 ===Noun===
-'''blóð''' {{n}}
+{{is-noun|n}}
 
 # [[blood]]
 #: '''''Blóð''' er [[gjaldmiðill]] [[sál#Icelandic|sálarinnar]].
 #:: '''Blood''' is the [[currency]] [[of]] the [[soul]].
 # [[offspring]], [[blood relation]]
 
-
 ====Declension====
-{{Icelandic declension hk sb 01 et|blóð}}
+{{is-decl-noun-n-s|bl|ó|ð|pl=-}}
 
 ====Synonyms====
 * {{i-c|blood}} [[dreyri]] {{m}} (''archaic'')
@@ -97,14 +105,14 @@
 * [[blóðlanga]]
 * [[blóðlát]] (loss of blood)
 * [[blóðlát]] (blood-letting, bleeding)
-* [[blóðlátinn]] {{m}}, [[blóðlátin]] {{f}}, [[blóðlátið]] {{n}} ([that which has been] [[bled]])
-* [[blóðlatur]] {{m}}, [[blóðlöt]] {{f}}, [[blóðlatt]] {{n}}
-* [[blóðlaus]] {{m}}, {{f}}, [[blóðlaust]] {{n}} ([[bloodless]])
+* [[blóðlátinn]] ([that which has been] [[bled]])
+* [[blóðlatur]]
+* [[blóðlaus]] ([[bloodless]])
 * [[blóðleysi]]
 * [[blóðlifur]] ([[clotted]] blood)
 * [[blóðlilja]]
-* [[blóðlitaður]] {{m}}, [[blóðlituð]] {{f}}, [[blóðlitað]] {{n}}
-* [[blóðlítill]] {{m}}, [[blóðlítil]] {{f}}, [[blóðlítið]] {{n}}
+* [[blóðlitaður]]
+* [[blóðlítill]]
 * [[blóðlýsa]]
 * [[blóðlækur]] (a [[stream]] of blood)
 * [[blóðmaðkur]] (a [[maggot]] bred in [[putrefy]]ing blood)
@@ -124,14 +132,14 @@
 * [[blóðrás]]
 *: [[manninum mæddi blóðrás]]
 * [[blóðrauði]]
-* [[blóðrauður]] {{m}}, [[blóðrauð]] {{f}}, [[blóðrautt]] {{n}} ([[blood-red]])
+* [[blóðrauður]] ([[blood-red]])
 * [[blóðrás]] ([[hemorrhage]])
 * [[blóðrefill]] ([[point]] of a sword)
 * [[blóðregn]]
-* [[blóðreiður]] {{m}}, [[blóðreið]] {{f}}, [[blóðreitt]] {{n}} (very wrathful)
+* [[blóðreiður]] (very wrathful)
 * [[blóðreitur]] {{m}} (a [[field]] of blood)
-* [[blóðrekinn]] {{m}}, [[blóðrekin]] {{f}}, [[blóðrekið]] {{n}} ([[stained]] with blood)
-* [[blóðríkur]] {{m}}, [[blóðrík]] {{f}}, [[blóðríkt]] {{n}}
+* [[blóðrekinn]] ([[stained]] with blood)
+* [[blóðríkur]]
 * [[blóðrisa]] {{indecl}} (''[[blár og blóðrisa]]'' meaning "[[bruised]] and [[bloody]]")
 * [[blóðrjóður]]
 * [[blóðroðna]]
@@ -171,7 +179,7 @@
 * [[blóðtengdir]]
 * [[blóðtjörn]] ([[pool]] of blood)
 * [[blóðughadda]]
-* [[blóðugur]] {{m}}, [[blóðug]] {{f}}, [[blóðugt]] {{n}} ([[bloody]])
+* [[blóðugur]] ([[bloody]])
 * [[blóðuxi]]
 * [[blóðvalur]]
 * [[blóðvaka]] {{f}} ([[drawing]] of blood, cf. ''[[vekja blóð]]'')
@@ -210,8 +218,29 @@
 * [[blanda blóði saman]] (to enter into a foster-brothership by mixing blood together)
 {{rel-bottom}}
 
-[[Category:Icelandic nouns]]
 [[Category:is:Medicine]]
+
+----
+
+==Old Norse==
+
+===Etymology===
+From {{proto|Germanic|lang=non|blōþa-}}, whence also Old English {{term|blod|blōd|lang=ang}}, Old Frisian {{term|blod|blōd|lang=ofs}}, Old Saxon {{term|blod|blōd|lang=osx}} (Low Saxon {{term|blood|lang=nds}}), Dutch {{term|bloed}}, Old High German {{term|bluot}} (German {{term|Blut}}), Gothic {{term|𐌱𐌻𐍉𐌸|tr=bloþ|lang=got}}.
+
+===Noun===
+{{infl|non|noun|g=n}}
+
+# [[blood]]
+
+====Descendants====
+{{top2}}
+* Danish: {{l|da|blod}}
+* Faroese: {{l|fo|blóð}}
+* Icelandic: {{l|is|blóð}}
+{{mid2}}
+* Norwegian: {{l|no|blod}}
+* Swedish: {{l|sv|blod}}
+{{bottom}}
 
 [[zh-min-nan:blóð]]
 [[de:blóð]]
