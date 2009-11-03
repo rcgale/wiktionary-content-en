@@ -1,22 +1,26 @@
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|tr|sh}} [[katran#Turkish|katran]] < {{etyl|ar|sh}} {{Arab|[[قطران|قَطْران]]}} (''qa.trān'').
+From {{etyl|tr|sh}} {{term|katran|lang=tr}} < {{etyl|ar|sh}} {{term|sc=Arab|قطران|قَطْران|tr=qaṭrān|lang=ar}}.
+
+===Pronunciation===
+* {{IPA|/kǎtran/|lang=sh}}
+* {{hyphenation|ка|тран}}
 
 ===Noun===
-{{infl|sh|noun|g=m|plural|катрани|Cyrillic spelling:|{{l|sh|katran}}}}
+{{sh-noun|g=m|head=ка̀тран|c|katran|kàtran}}
 
-# [[tar]]
+# {{uncountable|lang=sh}} [[tar]]
 
 ====Declension====
-{{sh-decl-noun
-|катран|катрани
-|катрана|катрана
-|катрану|катранима
-|катран|катране
-|катране|катрани
-|катраном|катранима
-|катрану|катранима
+{{sh-decl-noun|sc=Cyrl
+|катран|-
+|катрана|-
+|катрану|-
+|катран|-
+|катране|-
+|катрану|-
+|катраном|-
 }}
 
 [[ru:катран]]
