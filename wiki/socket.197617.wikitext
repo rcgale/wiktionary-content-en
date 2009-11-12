@@ -13,9 +13,9 @@ From {{etyl|xno}} ''[[soket]]'', "[[spearhead]]" (diminutive of {{etyl|fro}} ''[
 ===Noun===
 {{en-noun}}
 
-# An opening into which a [[plug]] or other connecting part is designed to fit (e.g. ''a [[light bulb]] socket'').
-# {{anatomy}} The part of a [[joint]] that receives a [[bone]].
-# {{anatomy}} A [[hollow]] into which a part (e.g. [[eye]]) fits.
+#{{mechanics}} An opening into which a [[plug]] or other connecting part is designed to fit (e.g. ''a [[light bulb]] socket'').
+# {{anatomy}} A [[hollow]] into a [[bone]] which a part fits, such as an [[eye]], or another bone, in the case of a [[joint]].
+# {{computing}} A [[two-way]] [[named pipe]] on Unix and Unix-like systems, used for [[interprocess communication]].
 
 ====Derived terms====
 * [[socket wrench]]
@@ -26,12 +26,13 @@ From {{etyl|xno}} ''[[soket]]'', "[[spearhead]]" (diminutive of {{etyl|fro}} ''[
 * [[wall socket]]
 * [[tooth socket]]
 * [[dry socket]]
+*[[eye socket]]
 
 ====Translations====
-{{trans-top|opening for a plug}}
+{{trans-top|mechanical opening}}
 * Czech: [[patice]] {{f}}, [[zdířka]] {{f}}, [[zásuvka]] {{f}} {{i|power socket}}
 * Finnish: {{t+|fi|pistorasia}}, {{t+|fi|istukka}}, {{t+|fi|kanta}}
-* French: {{t+|fr|prise}}
+* French: {{t+|fr|prise}}, {{t+|fr|douille}}
 * German: {{t+|de|Steckdose|f}}, {{t-|de|Fassung|f}}
 * Icelandic: {{t-|is|innstunga|f}}
 {{trans-mid}}
@@ -41,6 +42,13 @@ From {{etyl|xno}} ''[[soket]]'', "[[spearhead]]" (diminutive of {{etyl|fro}} ''[
 * Slovak: {{t-|sk|pätica|f}}
 * Spanish: {{t-|es|enchufe|m}}
 * Swahili: {{t+|sw|soketi|xs=Swahili}}
+{{trans-bottom}}
+{{trans-top|hollow in a bone}}
+*French: {{t+|fr|orbite|m}} (for the eye)
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|computing interprocess communication channel}}
+{{trans-mid}}
 {{trans-bottom}}
 
 [[Category:Electrical engineering]]
