@@ -1,10 +1,10 @@
-{{wikipedia}}
 {{selfref|For Wiktionary's indexes, see [[Wiktionary:Index]]}}
 {{also|Index}}
 ==English==
+{{wikipedia}}
 
 ===Etymology===
-From {{etyl|la}} {{term|index|lang=la||a discoverer, informer, spy; of things, an indicator, the forefinger, a title, superscription}} < {{term|indicare||to point out, show}}; see [[indicate]].
+From {{etyl|la}} {{term|index||a discoverer, informer, spy; of things, an indicator, the forefinger, a title, superscription|lang=la}} < {{term|indico|indicō|point out, show|lang=la}}; see [[indicate]].
 
 ===Pronunciation===
 * {{audio|En-us-index.ogg|Audio (US)}}
@@ -194,7 +194,7 @@ From {{etyl|la}} {{term|index|lang=la||a discoverer, informer, spy; of things, a
 ==French==
 
 ===Etymology===
-From {{etyl|la|fr}} '''[[#Latin|index]]''' "[[pointer]], [[indicator]]"
+From {{etyl|la|fr}} {{term|index||pointer, indicator|lang=la}}, from {{term|indico|indicō|point out, show|lang=la}}.
 
 ===Noun===
 {{fr-noun|m|plural=index}}
@@ -207,13 +207,55 @@ From {{etyl|la|fr}} '''[[#Latin|index]]''' "[[pointer]], [[indicator]]"
 
 ==Latin==
 
-===Noun===
-{{la-noun|index|indicis|indicis|n|third}}
+===Etymology===
+From {{term|indico|indicō|point out, indicate, show|lang=la}}, from {{term|in||in, at on; into|lang=la}} + {{term|dico|dicō|indicate; dedicate; set apart|lang=la}}.
 
-# [[pointer]], [[indicator]]
-# the [[index finger]]
-# a [[sign]], [[indication]]
-# [[informer]], [[betrayer]]
+===Pronunciation===
+* {{a|Classical}} {{IPA|/ˈin.deks/|lang=la}}
+
+===Noun===
+{{la-noun|index|indicis|indicis|m, f|third}}
+
+# A [[pointer]], [[indicator]].
+# The [[index finger]], [[forefinger]].
+# A [[sign]], [[indication]], [[proof]], [[mark]], [[token]], [[#English|index]].
+# An [[informer]], [[discoverer]], [[director]], [[talebearer]], [[guide]], [[witness]], [[betrayer]], [[spy]].
+# {{context|of books|lang=la}} A [[title]], [[superscription]].
+# {{context|of books|lang=la}} An [[#English|index]], [[catalogue]], [[table]], [[list]], [[summary]], [[digest]].
+# {{context|of paintings or statues|lang=la}} An [[inscription]].
+
+====Inflection====
+{{la-decl-3rd|index|index|indic}}
+
+====Derived terms====
+* [[indicina|indicīna]]
+* [[indicium|indicium]]
+* [[indiculum]]
+
+====Related terms====
+{{top2}}
+* [[indicabilis|indicābilis]]
+* [[indicatio|indicātiō]]
+* [[indicativus|indicātīvus]]
+{{mid2}}
+* [[indicator#Latin|indicātor]]
+* [[indicatura|indicātūra]]
+* [[indico|indicō]]
+{{bottom}}
+
+====Descendants====
+{{top2}}
+* Catalan: {{l|ca|índex}}
+* English: {{l|en|index}}
+* French: {{l|fr|index}}, {{l|fr|indice}}
+{{mid2}}
+* Italian: {{l|it|indice}}
+* Portuguese: {{l|pt|índex}}, {{l|pt|índice}}
+* Spanish: {{l|es|índex}}, {{l|es|índice}}
+{{bottom}}
+
+===References===
+* {{R:L&S}}
 
 [[zh-min-nan:index]]
 [[de:index]]
