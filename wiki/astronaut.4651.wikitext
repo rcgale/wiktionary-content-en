@@ -27,7 +27,6 @@ Coined from {{etyl|grc}} {{term|ἄστρον|sc=polytonic|tr=ástron||star|lang
 * Arabic: {{t|ar|رجل فضاء|m|tr=rájul faDaaʼ|sc=Arab}},  {{t|ar|رائد فضاء|m|tr=raaʼib faDaaʼ|sc=Arab}},  {{t|ar|ملاح فضائي|m|tr=mallaaH faDaaʼiy|sc=Arab}}
 * Armenian: {{t-|hy|աստղագնաց|tr=astġagnac'}}
 * [[Bengali]]: {{t|bn|নভোচারী|sc=Beng}}
-* Bosnian: {{t-|bs|astronaut|m}}, {{t-|bs|kosmonaut|m}}
 * Chinese:
 *: Mandarin: {{t|zh|太空人|tr=tàikōngrén|sc=Hani}},  {{t|zh|宇航員|sc=Hani}},  {{t|zh|宇航员|tr=yǔhángyuán|sc=Hani}},  {{t|zh|航天員|sc=Hani}},  {{t|zh|航天员|tr=hángtiānyuán|sc=Hani}},  {{t|zh|宇宙飛行員|sc=Hani}},  {{t|zh|宇宙飞行员|tr=yǔzhòu fēixíngyuán|sc=Hani}}
 * Czech: {{t+|cs|kosmonaut|m}}
@@ -36,24 +35,25 @@ Coined from {{etyl|grc}} {{term|ἄστρον|sc=polytonic|tr=ástron||star|lang
 * Finnish: {{t+|fi|astronautti}}
 * French: {{t+|fr|astronaute|m}}
 * German: {{t+|de|Astronaut|m}}
-* Greek: {{t|el|αστροναύτης|m|tr=astronáftis|sc=Grek}}
+* Greek: {{t|el|αστροναύτης|m|tr=astronáftis}}
 * Hebrew: {{t|he|טייס חלל|sc=Hebr}}
 * Hindi: {{t|hi|अंतरिक्ष यात्री|sc=Deva}}
 {{trans-mid}}
-* Hungarian: {{t+|hu|űrhajós}}, [[asztronauta]]
+* Hungarian: {{t+|hu|űrhajós}}, {{t|hu|asztronauta}}
+* Icelandic: {{t|is|geimfari|m}}
 * Indonesian: {{t+|id|astronot|xs=Indonesian}}
-* Japanese: {{t|ja|宇宙飛行士|tr=うちゅうひこうし, uchū-hikōshi|sc=Jpan}}
-* Korean: {{t|ko|우주비행사|tr=uju-bihaengsa|sc=Kore}} ({{t|ko|宇宙飛行士|sc=Kore}})
+* Japanese: {{t|ja|宇宙飛行士|tr=うちゅうひこうし, uchū-hikōshi}}
+* Korean: {{t|ko|우주비행사|tr=uju-bihaengsa}} ({{t|ko|宇宙飛行士}})
 * Navajo: {{tø|nv|wótáahgoo ałnaaʼáłtʼahiʼ‎‎}}
 * Persian: {{t|fa|فضانورد|sc=fa-Arab}}
-* Polish: [[astronauta]] {{m}}, [[astronautka]] {{f}}
+* Polish: {{t|pl|astronauta|m}}, {{t|pl|astronautka|f}}
 * Russian: {{t+|ru|космонавт|m|tr=kosmonávt|sc=Cyrl}}, {{t+|ru|астронавт|m|tr=astronávt|sc=Cyrl}} (''of American astronauts only'')
-* Serbian:
-*: Cyrillic: {{t+|sr|астронаут|m|sc=Cyrl}}, {{t-|sr|космонаут|m|sc=Cyrl}}
-*: Roman: [[astronaut#Serbian|astronaut]] {{m}}, [[kosmonaut#Serbian|kosmonaut]] {{m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|астронаут|m|alt=астрона̀ут|sc=Cyrl}}, {{t|sh|козмонаут|m|alt=козмона̀ут|sc=Cyrl}}, {{t|sh|космонаут|m|alt=космона̀ут|sc=Cyrl}}
+*: Roman: {{t|sh|astronaut|m|alt=astronàut}}, {{t|sh|kozmonaut|m|alt=kozmonàut}}, {{t|sh|kosmonaut|m|alt=kosmonàut}}
 * Spanish: {{t-|es|astronauta|m|f}}
 * [[Tamil]]: {{t|ta|விண்ணோடி|sc=Taml}}
-* [[Telugu]]: {{t|te|వ్యోమగామి|tr=wyoomagaami |sc=Telu}}
+* [[Telugu]]: {{t|te|వ్యోమగామి|tr=wyoomagaami|sc=Telu}}
 * Thai: {{t|th|นักบินอวกาศ|tr=nákbinawakaad|sc=Thai}}
 * Turkish: {{t+|tr|astronot}}
 * Vietnamese: {{t|vi|nhà du hành vũ trụ}},  {{t|vi|phi hành gia}}
@@ -64,19 +64,19 @@ Coined from {{etyl|grc}} {{term|ἄστρον|sc=polytonic|tr=ástron||star|lang
 ==Albanian==
 
 ===Noun===
-'''astronaut'''
+{{infl|sq|noun}}
 
-# Astronaut
-# [[cosmonaut|Cosmonaut]]
+# [[#English|astronaut]], [[cosmonaut]]
 
 ====Synonyms====
-* [[kosmonaut#Albanian|kosmonaut]]
-
-[[Category:Albanian nouns]]
+* {{l|sq|kosmonaut}}
 
 ----
 
 ==Serbo-Croatian==
+
+===Pronunciation===
+* {{IPA|/astronǎut/|lang=sh}}
 
 ===Noun===
 {{sh-noun|g=m|head=astronàut|r|астронаут|астрона̀ут}}
@@ -93,6 +93,9 @@ Coined from {{etyl|grc}} {{term|ἄστρον|sc=polytonic|tr=ástron||star|lang
 |astronautu|astronautima
 |astronautom|astronautima
 }}
+
+====Synonyms====
+* {{i-c|astronaut}} {{l|sh|kozmonaut|kozmonàut}}, {{l|sh|kosmonaut|kosmonàut}}
 
 [[cs:astronaut]]
 [[da:astronaut]]
