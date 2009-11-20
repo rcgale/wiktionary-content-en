@@ -2,10 +2,11 @@
 ==Icelandic==
 
 ===Pronunciation===
-* {{IPA|[ɛʰc:ɪ]|lang=is}}
+* {{IPA|/ˈɛhcɪ/|lang=is}}
+*: {{rhymes|ɛhcɪ|lang=is}}
 
 ===Adverb===
-'''ekki'''
+{{infl|is|adverb}}
 
 # [[not]]
 #: ''Ég er '''ekki''' Kira!''
@@ -20,52 +21,53 @@
 * (''not''): [[ei]] (''dated''), [[eigi]] (''dated'')
 
 ====Derived terms====
-* [[peningar vaxa ekki á trjám]]
-* [[koma fyrir ekki]]
-* [[ekki er allt gull sem glóir]]
-* [[vita ekki baun]]
-* [[sjálfgi]]
-* [[ekki verður bæði sleppt og haldið]]
-* [[vera ekki við eina fjölina felldur]]
-* [[borga sig ekki]]
-* [[kemba ekki hærurnar]]
-
-===Noun===
-'''ekki''' {{m}} ([[ekka|ekk-a]], [[ekkar|ekk-ar]])
-
-# [[sob]], [[sobbing]]
-# {{dated|lang=is}} [[sorrow]], [[sadness]]
-
-====Declension====
-{{Icelandic declension kk vb 01|ekk}}
-
-====Synonyms====
-* (''sob''): [[snökkt]] {{n}}, [[ekkasog]] {{n}}, [[andvarp]] {{n}}
+* {{l|is|ekki er allt gull sem glóir}}
+* {{l|is|ekki baun}}
+* {{l|is|ekki verður bæði sleppt og haldið}}
+* {{l|is|vera ekki við eina fjölina felldur}}
+* {{l|is|peningar vaxa ekki á trjám}}
+* {{l|is|kemba ekki hærurnar}}
 
 ===Pronoun===
-'''ekki'''
+{{infl|is|pronoun}}
 
 # [[nothing]]
 
 ====Derived terms====
 * [[koma fyrir ekki]] (to be to no avail, to come to nothing)
 
-[[Category:Icelandic conjunctions]]
-[[Category:Icelandic nouns]]
-[[Category:Icelandic pronouns]]
+===Noun===
+{{is-noun|m|ekka|ekkar}}
+
+# [[sob]], [[sobbing]]
+# {{archaic|lang=is}} [[sorrow]], [[sadness]]
+
+====Declension====
+{{is-decl-noun-m-w1||e|kk}}
+
+====Synonyms====
+* (''sob''): [[snökt]] {{n}}, [[ekkasog]] {{n}}
 
 ----
 
 ==Old Norse==
 
+===Etymology===
+From {{term|eitt||one (neuter)|lang=non}} + negative suffix {{term|-gi|lang=non}}, {{term|-ki|lang=non}}.
+
+===Pronoun===
+{{infl|non|pronoun|dative|einugi|genitive|einski}}
+
+# [[nothing]]
+
 ===Adverb===
-'''ekki'''
+{{infl|non|adverb}}
 
 # [[not]]
-#: ''Ék er '''ekki''' graðr!''
-#:: I'm '''not''' horny!
 
-[[Category:Old Norse adverbs]]
+====Synonyms====
+* {{l|non|eigi}}
+* {{l|non|ne}}
 
 [[da:ekki]]
 [[es:ekki]]
