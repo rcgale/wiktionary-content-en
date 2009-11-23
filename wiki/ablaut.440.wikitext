@@ -17,14 +17,48 @@ From {{etyl|de}} {{term|Ablaut||off-sound|lang=de}} < {{term|ab||off|lang=de}} +
 ====Translations====
 {{trans-top|substitution of one root vowel for another}}
 * Armenian: {{t-|hy|ձայնդարձ|tr=jayndarj}}
+* Danish: {{t|da|aflyd|c}}
 * German: {{t-|de|Ablaut|m}}
-* Irish: [[ablabht]]
+* Icelandic: {{t|is|hljóðskipti|n|p}}
+* Irish: {{t|ga|ablabht}}
 {{trans-mid}}
 * Russian: {{t+|ru|аблаут|m|tr=abláut}}
-* Serbian: [[prevoj]]
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|аблаут|m|alt=а̀блаут|sc=Cyrl}}, (''Ekavian and Ijekavian'') {{t|sh|превој|m|alt=пре́вој|sc=Cyrl}}, (''Ijekavian'') {{t|sh|пријевој|m|alt=прије́вој|sc=Cyrl}}
+*: Roman: {{t|sh|ablaut|m|alt=àblaut}}, (''Ekavian and Ijekavian'') {{t|sh|prevoj|m|alt=prévoj}}, (''Ijekavian'') {{t|sh|prijevoj|m|alt=prijévoj}}
+* Swedish: {{t|sv|avljud|n}}
 {{trans-bottom}}
 {{checktrans}}
 * {{ttbc|Vietnamese}}: [[Aplau]]
+
+----
+
+==Serbo-Croatian==
+
+===Etymology===
+From {{etyl|de|sh}} {{term|Ablaut|lang=de}}.
+
+===Pronunciation===
+* {{IPA|/ǎblaut/|lang=sh}}
+
+===Noun===
+{{sh-noun|g=m|head=àblaut|r|аблаут|а̀блаут}}
+
+# [[#English|ablaut]]
+
+====Declension====
+{{sh-decl-noun
+|àblaut|ablauti
+|ablauta|ablauta
+|ablautu|ablautima
+|ablaut|ablaute
+|ablaute|ablauti
+|ablautu|ablautima
+|ablautom|ablautima
+}}
+
+====Synonyms====
+* {{l|sh|prevoj|prévoj}} / {{l|sh|prijevoj|prijévoj}}
 
 [[et:ablaut]]
 [[id:ablaut]]
