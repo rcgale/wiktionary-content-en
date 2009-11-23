@@ -73,11 +73,11 @@ From {{etyl|xno}} {{term|parsone}}, {{term|persoun}} et al. (Old French {{term|p
 * [[Ainu]]: [[アイヌ]] ('aynu)
 * [[Alabama]]: [[aati]]
 * Arabic: {{Arab|[[شخص|شَخص]]}} {{IPAchar|(ʃáxʂ)}}
-* Armenian: {{t+|hy|անձ|tr=anj|sc=Armn|xs=Armenian}}, {{t+|hy|անձնավորություն|tr=anjnavorut'yun|sc=Armn|xs=Armenian}}
+* Armenian: {{t+|hy|անձ|tr=anj}}, {{t+|hy|անձնավորություն|tr=anjnavorut'yun}}
 *: Old Armenian: {{tø|xcl|անձն|tr=anjn|sc=Armn|xs=Old Armenian}}
 * [[Basque]]: [[pertsona]]
 * [[Breton]]: [[den]] {{m}}
-* Bulgarian: {{t+|bg|човек|m|tr=čovek|sc=Cyrl}}
+* Bulgarian: {{t+|bg|човек|m|tr=čovek}}
 * [[Catalan]]: [[persona]] {{f}}
 * [[Chamicuro]]: {{tø|ccc|klistyano}}
 * Chinese:
@@ -94,7 +94,7 @@ From {{etyl|xno}} {{term|parsone}}, {{term|persoun}} et al. (Old French {{term|p
 * Finnish: {{t+|fi|ihminen}}, {{t+|fi|henkilö}}
 * French: {{t+|fr|personne|f}}
 * German: {{t+|de|Person|f}}
-* Greek: {{t+|el|άνθρωπος|m|sc=Grek}} (ánthropos) {{t+|el|άτομο|n|sc=Grek}} (átomo)
+* Greek: {{t+|el|άνθρωπος|m}} (ánthropos) {{t+|el|άτομο|n}} (átomo)
 * [[Guaraní]]: [[ava]]
 * [[Haitian Creole]]: {{tø|ht|moun}}
 * Hebrew: [[בן אדם]] (ben ádam) {{m}}, [[בת אדם]] (bat adam){{f}}, [[בת חוה]] (bat χava) {{f}}
@@ -104,9 +104,9 @@ From {{etyl|xno}} {{term|parsone}}, {{term|persoun}} et al. (Old French {{term|p
 * [[Interlingua]]: [[persona]]
 * Irish: {{t+|ga|duine|m|xs=Irish}}
 * Italian: {{t+|it|persona|f}}
-* Japanese: {{t+|ja|人|tr=hitó|sc=Jpan}} ([[ひと]])
+* Japanese: {{t+|ja|人|tr=hitó}} ([[ひと]])
 * [[Kamba]]: {{tø|kam|mundu}}
-* Kazakh: {{t|kk|адам|tr=adam|sc=Cyrl}}
+* Kazakh: {{t+|kk|адам|tr=adam|sc=Cyrl|xs=Kazakh}}
 * [[Kikuyu]]: {{tø|ki|mundu}}
 {{trans-mid}}
 * [[Kis]]: {{tø|kis|omonto}}
@@ -126,7 +126,7 @@ From {{etyl|xno}} {{term|parsone}}, {{term|persoun}} et al. (Old French {{term|p
 * Polish: {{t+|pl|osoba|f}}
 * Portuguese: {{t+|pt|pessoa|f}}
 * Romanian: {{t+|ro|persoană|f}}
-* Russian: {{t+|ru|человек|m|tr=čelovék|sc=Cyrl}}, {{t|ru|личность|n|tr=líčnost’|sc=Cyrl}}, {{t+|ru|особа|f|tr=osóba|sc=Cyrl}}, {{t+|ru|персона|f|tr=persóna|sc=Cyrl}}
+* Russian: {{t+|ru|человек|m|tr=čelovék}}, {{t|ru|личность|n|tr=líčnost’}}, {{t+|ru|особа|f|tr=osóba}}, {{t+|ru|персона|f|tr=persóna}}
 * [[Scots]]: {{tø|sco|body|xs=Scots}}
 * [[Scottish Gaelic]]: {{t-|gd|pearsa|m|xs=Scottish Gaelic}}, {{t-|gd|duine|m|xs=Scottish Gaelic}}, {{t-|gd|neach|m|xs=Scottish Gaelic}}
 * Serbian: [[особа]] ([[osoba]]) {{f}}, [[човек]] ([[čovek]]) {{m}}, [[личност]] ([[ličnost]]) {{f}}
@@ -139,16 +139,16 @@ From {{etyl|xno}} {{term|parsone}}, {{term|persoun}} et al. (Old French {{term|p
 * [[Tswana]]: {{t-|tn|motho|xs=Tswana}} (1/2)
 * [[Tupinambá]]: [[abá]]
 * Turkish: {{t+|tr|kişi}}
-* Ukrainian: {{t+|uk|особа|f|tr=osóba|sc=Cyrl|xs=Ukrainian}}, {{t-|uk|персона|f|tr=persóna|sc=Cyrl|xs=Ukrainian}}, {{t+|uk|людина|f|tr=ljudyná|sc=Cyrl|xs=Ukrainian}}, {{t+|uk|чоловік|m|tr=čolovík|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t+|uk|особа|f|tr=osóba|xs=Ukrainian}}, {{t-|uk|персона|f|tr=persóna|xs=Ukrainian}}, {{t+|uk|людина|f|tr=ljudyná|xs=Ukrainian}}, {{t+|uk|чоловік|m|tr=čolovík|xs=Ukrainian}}
 * Uzbek: {{t-|uz|одам|sc=Cyrl|xs=Uzbek}}
 * Vietnamese: {{t+|vi|người|xs=Vietnamese}}
 * [[Volapük]]: {{t+|vo|pösod|xs=Volapük}}
-* [[West Frisian]]: {{t|fy|minske|xs=West Frisian}}
+* [[West Frisian]]: {{t+|fy|minske|xs=West Frisian}}
 * [[!Xóõ]]: [[tâa]]
 {{trans-bottom}}
 
 {{trans-top|specific human being}}
-* Armenian: {{t+|hy|անձնավորություն|tr=anjnavorut'yun|sc=Armn|xs=Armenian}}
+* Armenian: {{t+|hy|անձնավորություն|tr=anjnavorut'yun}}
 * Croatian: {{t+|hr|osoba|f}}
 * Czech: {{t+|cs|osoba|f}}
 * Danish: {{t+|da|person|c}}
@@ -160,7 +160,7 @@ From {{etyl|xno}} {{term|parsone}}, {{term|persoun}} et al. (Old French {{term|p
 * Hebrew: [[בן אדם]] (ben ádam) {{m}}, [[בת אדם]] (bat adam){{f}}, [[בת חוה]] (bat χava) {{f}}
 * Irish: {{t+|ga|duine|m|xs=Irish}}
 * Italian: {{t+|it|persona|f}}
-* Japanese: {{Jpan|[[あの]][[人#Japanese|人]]}} (ano hito), {{t+|ja|彼|tr=kare|sc=Jpan}}
+* Japanese: {{Jpan|[[あの]][[人#Japanese|人]]}} (ano hito), {{t+|ja|彼|tr=kare}}
 {{trans-mid}}
 * Kurdish: {{ku-Arab|[[که‌سێک]]}}
 * Norwegian: {{t+|no|person}}
@@ -172,19 +172,19 @@ From {{etyl|xno}} {{term|parsone}}, {{term|persoun}} et al. (Old French {{term|p
 * Swahili: {{t+|sw|mtu|xs=Swahili}}
 * Swedish: {{t+|sv|person}}
 * Turkish: {{t+|tr|birey}}
-* Ukrainian: {{t+|uk|особа|f|tr=osóba|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t+|uk|особа|f|tr=osóba|xs=Ukrainian}}
 * [[Volapük]]: {{t+|vo|pösod|xs=Volapük}}
 {{trans-bottom}}
 
 {{trans-top|the physical body of a specified individual}}
-* Armenian: {{t-|hy|մարմին|tr=marmin|sc=Armn|xs=Armenian}}
+* Armenian: {{t-|hy|մարմին|tr=marmin}}
 * Croatian: {{t-|hr|tijelo|n}}
 * Czech: {{t+|cs|osoba|f}}
 * Danish: {{t-|da|legeme|n}}
 * Dutch: {{t+|nl|persoon|m|f}}
 * French: {{t+|fr|personne|f}}
 * Italian: {{t+|it|persona|f}}
-* Japanese: {{t+|ja|個人|tr=kojin|sc=Jpan}}
+* Japanese: {{t+|ja|個人|tr=kojin}}
 {{trans-mid}}
 * Norwegian: {{t+|no|person}}
 * [[Novial]]: [[persone]]
@@ -192,11 +192,11 @@ From {{etyl|xno}} {{term|parsone}}, {{term|persoun}} et al. (Old French {{term|p
 * [[Scottish Gaelic]]: {{t-|gd|pearsa|m|xs=Scottish Gaelic}}, {{t-|gd|duine|m|xs=Scottish Gaelic}}
 * Slovene: {{t+|sl|oseba|f}}
 * Swahili: {{t+|sw|mtu|xs=Swahili}}
-* Ukrainian: {{t+|uk|особа|f|tr=osóba|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t+|uk|особа|f|tr=osóba|xs=Ukrainian}}
 {{trans-bottom}}
 
 {{trans-top|any individual or formal organization with standing before the courts}}
-* Armenian: {{t+|hy|անձ|tr=anj|sc=Armn|xs=Armenian}}
+* Armenian: {{t+|hy|անձ|tr=anj}}
 * Croatian: {{t+|hr|osoba|f}}
 * Czech: {{t+|cs|osoba|f}}
 * Danish: {{t+|da|person|c}}
@@ -204,11 +204,11 @@ From {{etyl|xno}} {{term|parsone}}, {{term|persoun}} et al. (Old French {{term|p
 * Finnish: {{t+|fi|henkilö}}
 * French: {{t+|fr|personne|f}}
 * Italian: {{t+|it|persona|f}}
-* Japanese: {{t+|ja|法人|tr=hōjin|sc=Jpan}}
+* Japanese: {{t+|ja|法人|tr=hōjin}}
 {{trans-mid}}
 * Norwegian: {{t+|no|person}}
 * [[Novial]]: [[persone]]
-* Russian: {{t+|ru|лицо|n|tr=licó|sc=Cyrl}}
+* Russian: {{t+|ru|лицо|n|tr=licó}}
 * [[Scots]]: {{tø|sco|person|xs=Scots}}
 * [[Scottish Gaelic]]: {{t-|gd|pearsa|m|xs=Scottish Gaelic}}
 * Slovene: {{t+|sl|oseba|f}}
@@ -217,30 +217,30 @@ From {{etyl|xno}} {{term|parsone}}, {{term|persoun}} et al. (Old French {{term|p
 {{trans-bottom}}
 
 {{trans-top|linguistic category}}
-* Armenian: {{t-|hy|դեմք|tr=demk'|sc=Armn|xs=Armenian}}
+* Armenian: {{t-|hy|դեմք|tr=demk'}}
 * Croatian: {{t+|hr|osoba|f}}, {{t-|hr|lice|n}}
 * Czech: {{t+|cs|osoba|f}}
 * Danish: {{t+|da|person|c}}
 * Dutch: {{t+|nl|persoon|m|f}}
 * Finnish: {{t+|fi|persoona}}
 * French: {{t+|fr|personne|f}}
-* Hebrew: {{t+|he|גוף|m|sc=Hebr}}
+* Hebrew: {{t+|he|גוף|m}}
 * Irish: {{t-|ga|pearsa|f|xs=Irish}}
 * Italian: {{t+|it|persona|f}}
-* Japanese: {{t-|ja|人称|tr=ninshō|sc=Jpan}}
+* Japanese: {{t-|ja|人称|tr=ninshō}}
 * Norwegian: {{t+|no|person}}
 {{trans-mid}}
 * [[Novial]]: [[persone]]
 * Polish: {{t+|pl|osoba|f}}
 * Portuguese: {{t+|pt|pessoa|f}}
-* Russian: {{t+|ru|лицо|n|tr=licó|sc=Cyrl}}
+* Russian: {{t+|ru|лицо|n|tr=licó}}
 * [[Scots]]: {{tø|sco|person|xs=Scots}}
 * [[Scottish Gaelic]]: {{t-|gd|pearsa|m|xs=Scottish Gaelic}}
 * Slovene: {{t+|sl|oseba|f}}
 * Spanish: {{t+|es|persona|f}}
 * Swahili: {{t+|sw|mtu|xs=Swahili}}
 * Swedish: {{t+|sv|person}}
-* Ukrainian: {{t+|uk|особа|f|tr=osóba|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t+|uk|особа|f|tr=osóba|xs=Ukrainian}}
 {{trans-bottom}}
 
 {{checktrans-top}}
