@@ -23,7 +23,7 @@ From {{etyl|enm}} < {{etyl|xno}} < {{etyl|la}} {{term|argumentum||proof, evidenc
 # A summary or short statement of the plot or <span id="N8">chief points of  a book.</span>
 
 ====Usage notes====
-* ({{programming}} formal argument) The use of the word '''argument''' without '''formal''' as a qualifier is common, but is a loose usage. [[parameter|Parameter]] is more correct.
+* {{sense|formal parameter in a function definition}} Some authors regard use of "argument" to mean "formal parameter" to be imprecise, preferring that ''argument'' refers only to the value that is used to instantiate the ''parameter'' at runtime, while ''parameter'' refers only to the name in the function definition that will be instantiated.
 
 ====Synonyms====
 * {{programming}} ''(value)'' [[actual argument]]
