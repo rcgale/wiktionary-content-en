@@ -182,7 +182,7 @@ From {{etyl|ang}} ''hand'', from {{proto|Germanic|handu}}, from {{proto|Indo-Eur
 * [[Breton]]: [[dorn]]
 * {{trreq|Burmese}}
 * [[Catalan]]: {{t+|ca|mà|f}}
-* [[Central Atlas Tamazight]]: {{tø|tzm|ⴰⴼⵓⵙ|sc=Tfng|tr=afus|m}}
+* [[Central Atlas Tamazight]]: {{tø|tzm|ⴰⴼⵓⵙ|m|tr=afus|sc=Tfng}}
 * [[Chamicuro]]: {{tø|ccc|shijpa}}
 * Chinese: [[手]] (shǒu)
 * [[Coptic]]: {{tø|cop|ϭⲓϫ|tr=čiǧ|sc=Copt}}
@@ -194,7 +194,7 @@ From {{etyl|ang}} ''hand'', from {{proto|Germanic|handu}}, from {{proto|Indo-Eur
 * [[Ewe]]: {{tø|ee|asi}}
 * Finnish: {{t+|fi|käsi}}
 * French: {{t+|fr|main|f}}
-* [[Galician]]: {{t|gl|man|f}}
+* [[Galician]]: {{t+|gl|man|f|xs=Galician}}
 * [[Gamilaraay]]: [[mara]]
 * Georgian: [[ხელი]] (xeli)
 * German: {{t+|de|Hand|f}}
@@ -205,7 +205,7 @@ From {{etyl|ang}} ''hand'', from {{proto|Germanic|handu}}, from {{proto|Indo-Eur
 * Hebrew: [[יד]] (yad) {{f}}
 * Hindi: [[हाथ]] (hāth)
 * Hungarian: {{t+|hu|kéz}}
-* Icelandic: {{t|is|hönd|f}},  {{t|is|mund|f}}
+* Icelandic: {{t+|is|hönd|f}},  {{t+|is|mund|f}}
 * [[Ido]]: [[manuo]]
 * [[Ilocano]]: [[ima]]
 * Indonesian: {{t+|id|tangan|xs=Indonesian}}
@@ -218,7 +218,7 @@ From {{etyl|ang}} ''hand'', from {{proto|Germanic|handu}}, from {{proto|Indo-Eur
 * Korean: [[손]] (son)
 {{trans-mid}}
 * Kurdish: {{t+|ku|dest}}, {{t-|ku|ده‌ست|sc=ku-Arab}}
-* [[Kyrgyz]]: {{t|ky|кол|tr=kol|sc=Cyrl|xs=Kyrgyz}}
+* [[Kyrgyz]]: {{t+|ky|кол|tr=kol|sc=Cyrl|xs=Kyrgyz}}
 * Lao: {{t+|lo|ມື|sc=Laoo|xs=Lao}}
 * Latin: {{t+|la|manus|f}}
 * Malay: {{t+|ms|tangan|xs=Malay}}
@@ -233,7 +233,7 @@ From {{etyl|ang}} ''hand'', from {{proto|Germanic|handu}}, from {{proto|Indo-Eur
 *: Cyrillic: {{tø|cu|рѫка|f|tr=rǫka|sc=Cyrs}}
 *: Glagolitic: {{tø|cu|ⰓⰨⰍⰀ|f|tr=rǫka|sc=Glag}}
 * Old English: {{t+|ang|hand|f|xs=Old English}}, {{t-|ang|folm|f|xs=Old English}}
-* [[Oriya]]: {{t|or|ହାତ|tr=hāta|sc=Orya|xs=Oriya}}
+* [[Oriya]]: {{t-|or|ହାତ|tr=hāta|sc=Orya|xs=Oriya}}
 * [[Ossetian]]: {{tø|os|арм|tr=arm|sc=Cyrl|xs=Ossetian}}
 * [[Pashto]]: {{t-|ps|لاس|m|tr=lās|sc=ps-Arab|xs=Pashto}}
 * Persian: {{fa-Arab|[[دست|دَست]]}} (dæst)
@@ -242,7 +242,7 @@ From {{etyl|ang}} ''hand'', from {{proto|Germanic|handu}}, from {{proto|Indo-Eur
 * [[Powhatan]]: [[metench]]
 * [[Rohingya]]: [[hát]]
 * Romanian: {{t-|ro|mână|f}}
-* Russian: {{t|ru|рука|tr=ruká|f}}, {{t|ru|кисть руки|tr=kist’ rukí|f}}
+* Russian: {{t+|ru|рука|f|tr=ruká}}, {{t|ru|кисть руки|f|tr=kist’ rukí}}
 * [[Sardinian]]: [[manu]] {{f}}
 * [[Scottish Gaelic]]: [[làmh]] {{f}}
 * Serbian: {{t-|sr|šaka|f}}
@@ -261,13 +261,13 @@ From {{etyl|ang}} ''hand'', from {{proto|Germanic|handu}}, from {{proto|Indo-Eur
 * Turkish: {{t+|tr|el}}
 * Vietnamese: {{t+|vi|tay|xs=Vietnamese}}
 * Welsh: {{t-|cy|llaw|f|xs=Welsh}}
-* [[West Frisian]]: {{t|fy|hân|c|xs=West Frisian}}
+* [[West Frisian]]: {{t+|fy|hân|c|xs=West Frisian}}
 * [[!Xóõ]]: [[ǀkʼqaa]]
 * Yiddish: [[האַנט]] (hant, hent) {{f}}
 {{trans-bottom}}
 
 {{trans-top|pointer of an analogue/analog clock}}
-* [[Afrikaans]]: {{t|af|wyster}}/{{t|af|wyser}}, {{t|af|hand}}
+* [[Afrikaans]]: {{t|af|wyster|xs=Afrikaans}}/{{t|af|wyser|xs=Afrikaans}}, {{t+|af|hand|xs=Afrikaans}}
 * Arabic: {{Arab|[[عقرب]]}} (‘áqrab) {{m}}
 * Armenian: [[սլաք]] (sëlak')
 * [[Catalan]]: {{t-|ca|busca|f}}, {{t-|ca|maneta|f}}
@@ -287,84 +287,84 @@ From {{etyl|ang}} ''hand'', from {{proto|Germanic|handu}}, from {{proto|Indo-Eur
 * Portuguese: {{t+|pt|ponteiro|m}}
 * Russian: {{t+|ru|стрелка|f|tr=strélka}}
 * Slovak: {{t-|sk|ručička|f}}
-* Spanish: {{t|es|manecilla|f}}, {{t|es|aguja|f}}
+* Spanish: {{t|es|manecilla|f}}, {{t+|es|aguja|f}}
 * Swedish: {{t+|sv|visare|c}}
 * Vietnamese: {{t+|vi|kim|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|set of cards held by a player in a card game}}
-* [[Afrikaans]]: {{t|af|hand}}
-* [[Catalan]]: {{t|ca|mà|f}}
+* [[Afrikaans]]: {{t+|af|hand|xs=Afrikaans}}
+* [[Catalan]]: {{t+|ca|mà|f}}
 * Dutch: {{t|nl|speelhand|f}}
 * Finnish: {{t+|fi|käsi}}
 * French: {{t+|fr|main|f}}
 * German: {{t+|de|Hand|f}}, {{t+|de|Blatt|n}}
-* Greek: {{t+|el|χέρι|n|tr=khéri}}, {{t|el|χαρτωσιά|f|tr=khartosiá}}
+* Greek: {{t+|el|χέρι|n|tr=khéri}}, {{t+|el|χαρτωσιά|f|tr=khartosiá}}
 * [[Interlingua]]: [[mano]]
 * Japanese: [[手札]] ([[てふだ]], tefuda)
 {{trans-mid}}
 * [[Pashto]]: {{t-|ps|لاس|m|tr=lās|sc=ps-Arab|xs=Pashto}}
-* Persian: {{t|fa|دست|tr=dast|sc=fa-Arab}}
+* Persian: {{t+|fa|دست|tr=dast|xs=Persian}}
 * Polish: {{t+|pl|ręka|f}}
 * Portuguese: {{t+|pt|mão|f}}
-* Russian: {{t|ru|карты|tr=kárty|f|p}}
+* Russian: {{t|ru|карты|f|p|tr=kárty}}
 * Spanish: {{t+|es|mano|f}}
 * Swedish: {{t+|sv|hand|c}}
 * Vietnamese: {{t+|vi|ván|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|side; part; direction, either right or left}}
-* [[Afrikaans]]: {{t|af|kant}}
-* [[Catalan]]: {{t|ca|mà|f}}
+* [[Afrikaans]]: {{t-|af|kant|xs=Afrikaans}}
+* [[Catalan]]: {{t+|ca|mà|f}}
 * Dutch: {{t+|nl|kant|m}}, {{t+|nl|zijde|f}}
 * Finnish: {{t+|fi|puoli}}, {{t+|fi|suunta}}
 * German: {{t+|de|Hand|f}}, {{t+|de|Seite|f}}
 * Japanese: [[側]] ([[がわ]], gawa; [[そば]], soba)
 * [[Pashto]]: {{t-|ps|لاس|m|tr=lās|sc=ps-Arab|xs=Pashto}}
 {{trans-mid}}
-* Persian: {{t|fa|دست|tr=dast|sc=fa-Arab}}
+* Persian: {{t+|fa|دست|tr=dast|xs=Persian}}
 * Russian: {{t+|ru|сторона|f|tr=storoná}}
 * Spanish: {{t+|es|mano|f}}
 * Swedish: {{t+|sv|sida}}, {{t+|sv|flank}}
 * [[Uyghur]]: {{ug-Arab|[[قول]]}} / {{Cyrl|[[қол]]}} (qol)
-* Vietnamese: {{t|vi|phía}}, {{t|vi|bên}} (side); {{t|vi|hướng}} (direction); {{t|vi|mặt}} (on one hand...)
+* Vietnamese: {{t|vi|phía|xs=Vietnamese}}, {{t|vi|bên|xs=Vietnamese}} (side); {{t|vi|hướng|xs=Vietnamese}} (direction); {{t+|vi|mặt|xs=Vietnamese}} (on one hand...)
 {{trans-bottom}}
 
 {{trans-top|power of performance; means of execution; ability; skill; dexterity}}
-* [[Catalan]]: {{t|ca|mà|f}}
+* [[Catalan]]: {{t+|ca|mà|f}}
 * Finnish: {{t+|fi|kyky}}, {{t+|fi|taito}}
 * Greek: {{t|el|δεξιοτέχνης|m|tr=ðeksiotékhnis}}
 {{trans-mid}}
 * Japanese: [[腕]] ([[うで]], ude)
-* Persian: {{t|fa|زبردستی|tr=zebardasti|sc=fa-Arab}}
+* Persian: {{t|fa|زبردستی|tr=zebardasti|xs=Persian}}
 * Swedish: {{t+|sv|förmåga}}, {{t+|sv|skicklighet}}
 {{trans-bottom}}
 
 {{trans-top|actual performance; deed; act; workmanship; agency; hence, manner of performance.}}
-* Dutch: {{t|nl|hand|f}} (only with a possessive, e.g. hand Gods)
+* Dutch: {{t+|nl|hand|f}} (only with a possessive, e.g. hand Gods)
 {{trans-mid}}
-* Vietnamese: {{t|vi|tay}}
+* Vietnamese: {{t+|vi|tay|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|servant, laborer, workman, trained for special duty; a performer}}
-* [[Afrikaans]]: {{t|af|matroos}} (ship), {{t|af|werksman}} (laborer)
+* [[Afrikaans]]: {{t-|af|matroos|xs=Afrikaans}} (ship), {{t|af|werksman|xs=Afrikaans}} (laborer)
 * Arabic: {{Arab|[[عامل]]}} (‘āmil)
-* Dutch: {{t|nl|matroos|m}} ''(ship only)'', {{t|nl|werkkracht|m}}, {{t|nl|werkman|m}}
+* Dutch: {{t+|nl|matroos|m}} ''(ship only)'', {{t|nl|werkkracht|m}}, {{t-|nl|werkman|m}}
 * Esperanto: {{t-|eo|matroso|xs=Esperanto}}, {{t-|eo|ŝipano|xs=Esperanto}}, {{t-|eo|maristo|xs=Esperanto}}
-* Finnish: {{t|fi|apumies}}, {{t|fi|renki}}
+* Finnish: {{t|fi|apumies}}, {{t+|fi|renki}}
 * French: {{t+|fr|matelot|m}}
 {{trans-mid}}
 * German: {{t-|de|Handlanger|m}}
 * Greek: {{t|el|χειρώνακτας|m|tr=khirónaktas}}, {{t+|el|εργάτης|m}}, {{t+|el|εργάτρια|f}}
-* Persian: {{t|fa|کارگر|tr=kârgar|sc=fa-Arab}}
+* Persian: {{t+|fa|کارگر|tr=kârgar|xs=Persian}}
 * Portuguese: {{t+|pt|mão-de-obra|f}}
 * Russian: {{t+|ru|рабочий|m|tr=rabóčij}}
 * Spanish: {{t-|es|obrero|m}}, {{t-|es|mano de obra|f}}
-* Vietnamese: {{t|vi|công nhân}}, {{t|vi|nhân công}} (worker); {{t|vi|thủy thủ}} (at sea)
+* Vietnamese: {{t|vi|công nhân|xs=Vietnamese}}, {{t|vi|nhân công|xs=Vietnamese}} (worker); {{t|vi|thủy thủ|xs=Vietnamese}} (at sea)
 {{trans-bottom}}
 
 {{trans-top|handwriting; style of penmanship}}
-* [[Afrikaans]]: {{t|af|handskrif}}
+* [[Afrikaans]]: {{t|af|handskrif|xs=Afrikaans}}
 * Dutch: {{t|nl|handschift|n}}
 * Finnish: {{t+|fi|käsiala}}
 * Greek: {{t+|el|γραφή|f}}, {{t+|el|γράψιμο|n}}, {{t-|el|γραφικός χαρακτήρας|m}}
@@ -372,9 +372,9 @@ From {{etyl|ang}} ''hand'', from {{proto|Germanic|handu}}, from {{proto|Indo-Eur
 {{trans-mid}}
 * Latin: {{t+|la|manus|f}}
 * Norwegian: {{t|no|handskrift}}
-* Persian: {{t|fa|دست‌نویس|tr=dastnevis|sc=fa-Arab}}
+* Persian: {{t|fa|دست‌نویس|tr=dastnevis|xs=Persian}}
 * Russian: {{t+|ru|почерк|m|tr=póčerk}}
-* Vietnamese: {{t|vi|chữ viết}}
+* Vietnamese: {{t|vi|chữ viết|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|personal possession; ownership; hence, control; direction; management; — usually in the plural}}
@@ -383,35 +383,35 @@ From {{etyl|ang}} ''hand'', from {{proto|Germanic|handu}}, from {{proto|Indo-Eur
 {{trans-bottom}}
 
 {{trans-top|agency in transmission from one person to another}}
-* [[Afrikaans]]: {{t|af|gee}}
+* [[Afrikaans]]: {{t-|af|gee|xs=Afrikaans}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|that which is, or may be, held in a hand at once}}
-* [[Afrikaans]]: {{t|af|handvol}}
+* [[Afrikaans]]: {{t|af|handvol|xs=Afrikaans}}
 * Dutch: {{t|nl|handvol|n}}
 * Esperanto: {{t-|eo|plenmano|xs=Esperanto}}
 * Finnish: {{t-|fi|kourallinen}}
 * French: {{t+|fr|poignée|f}}
 * German: {{t|de|Handvoll|f}}
 {{trans-mid}}
-* Greek: {{t|el|χεριά|f|tr=kherjá}}
+* Greek: {{t+|el|χεριά|f|tr=kherjá}}
 * [[Interlingua]]: [[manata]]
 * Portuguese: {{t+|pt|mão|f}}
-* Russian: {{t|ru|горсть|tr=gorst’|f}}
-* Spanish: {{t|es|manotada|f}}, {{t|es|puñado|m}}
-* Vietnamese: {{t|vi|ván}} (a); {{t|vi|buộc}} (b)
+* Russian: {{t+|ru|горсть|f|tr=gorst’}}
+* Spanish: {{t|es|manotada|f}}, {{t-|es|puñado|m}}
+* Vietnamese: {{t|vi|ván|xs=Vietnamese}} (a); {{t|vi|buộc|xs=Vietnamese}} (b)
 {{trans-bottom}}
 
 {{trans-top|small part of a gunstock near the lock, grasped when aiming}}
-* [[Afrikaans]]: {{t|af|handgreep}}, {{t|af|greep}}
+* [[Afrikaans]]: {{t|af|handgreep|xs=Afrikaans}}, {{t-|af|greep|xs=Afrikaans}}
 {{trans-mid}}
-* Dutch: {{t|nl|greep|m}}, {{t|nl|handgreep|m}}
+* Dutch: {{t-|nl|greep|m}}, {{t|nl|handgreep|m}}
 {{trans-bottom}}
 
 {{trans-top|bunch of bananas}}
 * Japanese: [[房]] ([[ふさ]], fusa)
-* Persian: {{t|fa|خوشه|tr=khōša, khōše|sc=fa-Arab}}, {{t|fa|دسته|tr=dasta, daste|sc=fa-Arab}}
+* Persian: {{t-|fa|خوشه|tr=khōša, khōše|xs=Persian}}, {{t|fa|دسته|tr=dasta, daste|xs=Persian}}
 {{trans-mid}}
 * Slovene: {{t|sl|šop|m}}
 * Spanish: {{t+|es|cacho|m}}
@@ -422,12 +422,12 @@ From {{etyl|ang}} ''hand'', from {{proto|Germanic|handu}}, from {{proto|Indo-Eur
 * {{ttbc|Basque}}: [[esku]] (1), [[bosteko]] (1), [[erlojuorratz]] (2), [[marinel]] (4), [[itsasgizon]] (4), [[eskubete]] (6)
 * {{ttbc|Breton}}: [[dorn]] {{m}}, daouarn {{p}}, dornioù ''pl from several beings'' (1), [[biz]] {{m}}, bizied {{p}} (2), [[c'hoari]] {{m}}, [[jeu]] {{f}} (3), [[martolod]] {{m}}, martoloded {{p}} (4), [[micherour]] {{m}}, micherourien {{p}} (5)
 * {{ttbc|Chinese}}: [[手]] (shǒu), [[針]] (zhēn) (2), [[一手牌]] (yìshǒupái) (3), [[人手]] (rénshǒu) (4,5)
-* {{ttbc|Indonesian}}: {{t|id|jarum}} (2)
+* {{ttbc|Indonesian}}: {{t|id|jarum|xs=Indonesian}} (2)
 * {{ttbc|Korean}}: [[손]] (son) (5), [[시계바늘]] (sigyebaneul) (2), [[패]] [牌] (pae) (3), [[일손]] (ilson) (5)
-* {{ttbc|Polish}}: {{t|pl|ręka|f}}
-* {{ttbc|Romanian}}: {{t|ro|mână|f}} (3); {{t|ro|ac|n}} (2)
+* {{ttbc|Polish}}: {{t+|pl|ręka|f}}
+* {{ttbc|Romanian}}: {{t-|ro|mână|f}} (3); {{t-|ro|ac|n}} (2)
 * {{ttbc|Turkish}}: [[gemici]] (4), [[avuç dolusu]] (6)
-* {{ttbc|Welsh}}: {{t|cy|llaw|f}} (4)
+* {{ttbc|Welsh}}: {{t-|cy|llaw|f|xs=Welsh}} (4)
 {{trans-bottom}}
 
 ====See also====
