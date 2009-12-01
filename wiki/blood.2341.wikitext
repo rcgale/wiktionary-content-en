@@ -86,10 +86,10 @@
 *: Syriac: [[ܕܡܐ]] (dmā’) {{m}}
 *: Hebrew: [[דמא]] (dmā’) {{m}}
 * Armenian: {{t+|hy|արյուն|tr=aryun}}
-*: Old Armenian: {{tø|xcl|արիւն|sc=Armn|tr=ariwn}}
+*: Old Armenian: {{tø|xcl|արիւն|tr=ariwn|sc=Armn}}
 * [[Aromanian]]: {{tø|rup|sãndze‎|xs=Aromanian}}
 * [[Azeri]]: {{t+|az|qan|xs=Azeri}}
-* [[Bashkir]]: {{t|ba|ҡан|tr=qan|sc=Cyrl|xs=Bashkir}}
+* [[Bashkir]]: {{t-|ba|ҡан|tr=qan|sc=Cyrl|xs=Bashkir}}
 * Belarusian: {{t-|be|кроў|f|tr=kroŭ|xs=Belarusian}}
 * Bulgarian: {{t+|bg|кръв|f|tr=krǎv}}
 * [[Buryat]]: {{tø|bxr|шуһан|tr=šuhan|sc=Cyrl}}
@@ -108,7 +108,7 @@
 * [[Erzya]]: {{tø|myv|верь|tr=ver’|sc=Cyrl|xs=Erzya}}
 * Esperanto: {{t-|eo|sango|xs=Esperanto}}
 * Estonian: {{t-|et|veri}}
-* Faroese: {{t|fo|blóð|n}}
+* Faroese: {{t-|fo|blóð|n|xs=Faroese}}
 * Finnish: {{t+|fi|veri}}
 * French: {{t+|fr|sang|m}}
 * [[Gagauz]]: {{tø|gag|kan}}
@@ -119,7 +119,7 @@
 * Hebrew: {{he-translation|דם|dam|wv=דָּם|m}}
 * Hindi: {{t-|hi|ख़ून|tr=<u>kh</u>ūn|xs=Hindi}},  {{t-|hi|रक्त|tr=rakta|xs=Hindi}}
 * Hungarian: {{t+|hu|vér}}
-* Icelandic: {{t|is|blóð|n}}
+* Icelandic: {{t+|is|blóð|n}}
 * [[Ilocano]]: [[dara]]
 * [[Inuktitut]]: [[ᐊᐅᒃ]] (auk)
 * Irish: {{t+|ga|fuil|f|xs=Irish}}
@@ -131,15 +131,15 @@
 * [[Kannada]]: [[ರಕತ]] (rakta)
 * [[Karachay-Balkar]]: {{tø|krc|къан|tr=qan|sc=Cyrl}}
 * [[Karakalpak]]: {{tø|kaa|qan}}
-* Kazakh: {{t|kk|қан|tr=qan|sc=Cyrl|xs=Kazakh}}
+* Kazakh: {{t+|kk|қан|tr=qan|sc=Cyrl|xs=Kazakh}}
 * [[Khakas]]: {{tø|kjh|хан|tr=xan|sc=Cyrl}}
 * Korean: {{t+|ko|피|tr=pi|sc=Hang}}
 * [[Kumyk]]: {{tø|kum|къан|tr=qan|sc=Cyrl}}
 * Kurdish:
 *: Sorani: {{t+|ku|خوێن|tr=xwén|sc=ku-Arab}}
 {{trans-mid}}
-* [[Kyrgyz]]: {{t|ky|кан|tr=qan|sc=Cyrl|xs=Kyrgyz}}
-* Latin: {{t+|la|sanguis|m}}, {{t|la|cruor|m}}
+* [[Kyrgyz]]: {{t-|ky|кан|tr=qan|sc=Cyrl|xs=Kyrgyz}}
+* Latin: {{t+|la|sanguis|m}}, {{t-|la|cruor|m}}
 * Latvian: {{t-|lv|asinis|m|xs=Latvian}}
 * Lithuanian: {{t+|lt|kraujas|m|xs=Lithuanian}}
 * [[Low Saxon]]: {{t-|nds|blood|n|xs=Low Saxon}}
@@ -154,7 +154,7 @@
 * [[Old Church Slavonic]]:
 *: Cyrillic: {{tø|cu|крꙑ|f|tr=kry|sc=Cyrs|xs=Old Church Slavonic}}
 *: Glagolitic: {{tø|cu|ⰍⰓⰟⰊ|f|tr=kry|sc=Glag|xs=Old Church Slavonic}}
-* Old English: {{t|ang|blod|alt=blōd|n}}, {{t|ang|dreor|alt=drēor|m}}
+* Old English: {{t-|ang|blod|n|alt=blōd|xs=Old English}}, {{t-|ang|dreor|m|alt=drēor|xs=Old English}}
 * Old Norse: {{tø|non|blóð|n}}
 * [[Ossetian]]:
 *: Digor: {{tø|os|тог|tr=tog|sc=Cyrl|xs=Ossetian}}
@@ -166,7 +166,7 @@
 * Romanian: {{t-|ro|sânge|n}}
 * Russian: {{t+|ru|кровь|f|tr=krov’}}
 * [[Santali]]: {{tø|sat|ᱨᱳᱠᱳᱛ|tr=rokot|sc=Olck}}
-* [[Sardinian]]: {{t|sc|sambene|m}}
+* [[Sardinian]]: {{tø|sc|sambene|m|xs=Sardinian}}
 * [[Scots]]: {{tø|sco|blude|xs=Scots}}, {{tø|sco|bluid|xs=Scots}}
 * [[Scottish Gaelic]]: {{t-|gd|fuil|f|xs=Scottish Gaelic}}
 * Serbo-Croatian:
@@ -176,7 +176,7 @@
 * [[Sinhalese]]: {{t-|si|ලේ|tr=lee|sc=Sinh|xs=Sinhalese}}
 * Slovak: {{t-|sk|krv|f}}
 * Slovene: {{t+|sl|kri|f}}
-* [[Sotho]]: {{t|st|madi|xs=Sotho}}
+* [[Sotho]]: {{t-|st|madi|xs=Sotho}}
 * [[Southern Altai]]: {{tø|alt|кан|tr=qan|sc=Cyrl}}
 * Spanish: {{t+|es|sangre|f}}
 * Swahili: {{t+|sw|damu|xs=Swahili}}
@@ -211,7 +211,7 @@
 * French: {{t+|fr|sang|m}}
 * German: {{t+|de|Blut|n}}, {{t+|de|Blutsbande|pl}}
 * Hungarian: {{t-|hu|vérrokon}}
-* Icelandic: {{t|is|blóð|n}}
+* Icelandic: {{t+|is|blóð|n}}
 * Irish: {{t-|ga|gaol|m|xs=Irish}}
 * Japanese: {{t|ja|血縁}} ({{t|ja|けつえん|tr=ketsuen}})
 {{trans-mid}}
@@ -225,7 +225,7 @@
 * Serbo-Croatian:
 *: Cyrillic: {{tø|sh|крв|f|sc=Cyrl|xs=Serbo-Croatian}}, {{tø|sh|род|m|sc=Cyrl|xs=Serbo-Croatian}}
 *: Roman: {{tø|sh|krv|f|xs=Serbo-Croatian}}, {{tø|sh|rod|m|xs=Serbo-Croatian}}
-* [[Tagalog]]: {{t|tl|kadugo|xs=Tagalog}}, {{t|tl|kamag-anak|xs=Tagalog}}
+* [[Tagalog]]: {{t-|tl|kadugo|xs=Tagalog}}, {{t-|tl|kamag-anak|xs=Tagalog}}
 * [[West Frisian]]: {{t-|fy|bloed|n|xs=West Frisian}}
 {{trans-bottom}}
 
@@ -295,7 +295,7 @@
 {{trans-mid}}
 * Irish: [[cuir fuil]]
 * Maltese: {{t-|mt|iddemmem|xs=Maltese}}
-* Polish: {{t|pl|krwawić}}
+* Polish: {{t-|pl|krwawić}}
 * Swahili: {{t+|sw|damu|xs=Swahili}}
 {{trans-bottom}}
 
