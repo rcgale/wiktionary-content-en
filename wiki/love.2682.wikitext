@@ -69,7 +69,7 @@
 * Hindi: {{t-|hi|प्यार|m|tr=pyār|xs=Hindi}}, [[प्रेम]] (prem) {{m}}, [[इश्क़]] (išq) {{m}}, [[मुहब्बत]] (muhabbat) {{f}}
 * Hungarian: {{t+|hu|szeretet}}
 * Icelandic: {{t+|is|elska}}, {{t+|is|ást}}
-* Indonesian: {{t+|id|cinta|xs=Indonesian}} (''of someone''), {{t+|id|suka|xs=Indonesian}} (''of something'')
+* Indonesian: {{t-|id|cinta|xs=Indonesian}} (''of someone''), {{t+|id|suka|xs=Indonesian}} (''of something'')
 * [[Interlingua]]: [[amor]]
 * Irish: {{t+|ga|grá|m|xs=Irish}}
 * Italian: {{t+|it|amore|m}}
@@ -77,7 +77,7 @@
 * [[Kamba]]: {{tø|kam|wendo}}
 * [[Khmer]]: {{Khmr|[[សេចក្ដីស្រឡាញ់]]}} (saych-gday sraluñ)
 * [[Kikuyu]]: {{tø|ki|wendo}}
-* Korean: {{t|ko|사랑 |tr=sarang}},  {{t|ko|애정|tr=aejeong}}
+* Korean: {{t|ko|사랑 |tr=sarang|sc=Hang}},  {{t|ko|애정|tr=aejeong|sc=Hang}}
 * [[Kyrgyz]]: [[сүйүү]] (süyüü), [[макаббат]] (maqabbat)
 * Latin: {{t+|la|amor|m}}, {{t-|la|caritas|f}}
 * Latvian: {{t-|lv|mīlestība|f|xs=Latvian}}, {{t-|lv|mīla|f|xs=Latvian}}
@@ -91,7 +91,7 @@
 * [[Meänkieli]]: [[rakhaus]]
 * [[Nanticoke]]: {{tø|nnt|quámmősch}}
 * Norwegian: {{t+|no|kjærlighet}}
-* [[Norwegian Nynorsk]]: {{t|nn|kjærleik}}
+* [[Norwegian Nynorsk]]: {{t-|nn|kjærleik|xs=Norwegian Nynorsk}}
 * [[Novial]]: [[amo]]
 * [[Old Prussian]]: [[mīli]]
 * Persian: {{fa-Arab|[[عشق]]}} (eshq), {{fa-Arab|[[مهر]]}} (mehr)
@@ -102,7 +102,7 @@
 * Russian: {{t+|ru|любовь|f|tr=ljubóv’}}
 * Samoan: {{t-|sm|alofa|xs=Samoan}}
 * Sanskrit: {{t|sa|प्रीतिः |tr=prītiḥ|xs=Sanskrit}}
-* [[Scottish Gaelic]]: [[gràdh]] {{m}}, [[spèis]] {{f}},  {{t|gd|rùn|m}}
+* [[Scottish Gaelic]]: [[gràdh]] {{m}}, [[spèis]] {{f}},  {{t-|gd|rùn|m|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: {{t+|sr|љубав|f|sc=Cyrl}}
 *: Roman: [[ljubav#Serbian|ljubav]] {{f}}
@@ -117,7 +117,7 @@
 *: Cyrillic: [[ярату]]
 *: Roman: [[yaratu]]
 * [[Telugu]]: {{t|te|ప్రేమ|tr=prEma}}
-* Thai: {{Thai|[[ความรัก]]}} (khwamrak)
+* Thai: {{t+|th|ความรัก|tr=khwamrak}}
 * Turkish: {{t+|tr|sevgi}}
 * Ukrainian: {{t+|uk|кохання|tr=kokhannja|xs=Ukrainian}}, {{t+|uk|любов|tr=ljubov|xs=Ukrainian}}
 * Urdu: {{ur-Arab|[[محبت]]}} (muhabbat) {{f}}, {{ur-Arab|[[عشق]]}} ('išq) {{m}}, {{ur-Arab|[[پیار]]}} (pyār) {{m}}
@@ -169,7 +169,7 @@
 * Latvian: {{t-|lv|mīlestība|f|xs=Latvian}}, {{t-|lv|mīla|f|xs=Latvian}}
 * Lithuanian: {{t+|lt|meilė|xs=Lithuanian}}
 * [[Luxembourgish]]: [[Léift]]
-* [[Malayalam]]: {{t|ml|സ്നേഹം|tr=sneham|sc=Mlym}},  {{t|ml|ഇഷ്ടം|tr=ishtam|sc=Mlym}},  {{t|ml|പ്രണയം|tr=pranayam|sc=Mlym}},  {{t|ml|അനുരാഗം|tr=anuragam|sc=Mlym}}
+* [[Malayalam]]: {{t|ml|സ്നേഹം|tr=sneham|sc=Mlym|xs=Malayalam}},  {{t|ml|ഇഷ്ടം|tr=ishtam|sc=Mlym|xs=Malayalam}},  {{t|ml|പ്രണയം|tr=pranayam|sc=Mlym|xs=Malayalam}},  {{t|ml|അനുരാഗം|tr=anuragam|sc=Mlym|xs=Malayalam}}
 * [[Meänkieli]]: [[rakhaus]]
 * Norwegian: {{t+|no|kjærlighet|m}}
 * [[Novial]]: [[amo]]
@@ -181,7 +181,7 @@
 * Romanian: {{t+|ro|amor}}, {{t+|ro|iubire}}
 * Russian: {{t+|ru|любовь|f|tr=ljubóv’}}
 * Sanskrit: {{t|sa|प्रीतिः |tr=prītiḥ|xs=Sanskrit}}
-* [[Scottish Gaelic]]: [[gaol#Scottish Gaelic|gaol]] {{m}}, [[gràdh]] {{m}},  {{t|gd|rùn|m}}
+* [[Scottish Gaelic]]: [[gaol#Scottish Gaelic|gaol]] {{m}}, [[gràdh]] {{m}},  {{t-|gd|rùn|m|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: {{t+|sr|љубав|f|sc=Cyrl}}
 *: Roman: [[ljubav#Serbian|ljubav]] {{f}}
@@ -231,7 +231,7 @@
 * Latin: {{t-|la|amator|m|alt=amātor}}, {{t-|la|amatrix|f|alt=amātrix}}
 * Latvian: {{t|lv|mīļais|m|xs=Latvian}}, {{t|lv|mīļā|f|xs=Latvian}}, {{t|lv|mīļums|f|xs=Latvian}}, {{t-|lv|mīla|m|f|xs=Latvian}}
 * [[Luxembourgish]]: [[Häerzi]]
-* [[Malayalam]]: {{t|ml|കാമുകി (പെണ്ണ്)|tr=kamuki (female)|sc=Mlym}},  {{t|ml|കാമുകന്‍ (ആണ്)|tr=kamukan (male)|sc=Mlym}}
+* [[Malayalam]]: {{t|ml|കാമുകി (പെണ്ണ്)|tr=kamuki (female)|sc=Mlym|xs=Malayalam}},  {{t|ml|കാമുകന്‍ (ആണ്)|tr=kamukan (male)|sc=Mlym|xs=Malayalam}}
 * Norwegian: {{t|no|elskling|m}}, {{t|no|kjæreste}}, {{t|no|min elskede}}
 * Persian: {{fa-Arab|[[عزیز]]}} (aziz), {{fa-Arab|[[دلبر]]}} (delbar), {{fa-Arab|[[جان]]}} (jan)
 * Polish: {{t+|pl|kochanie}}
@@ -260,7 +260,7 @@
 * {{ttbc|Catalan}}: {{t+|ca|amor|m}}
 * {{ttbc|Greek}}: [[αγάπη]] (agápi) {{f}}, [[έρωτας]] (érotas) {{m}} (''Note: "αγάπη" refers to "pure" love, such as that between a mother and child or even between a non-erotic aspect of the love between a husband and wife, while έρωτας means erotic love, such as that between a girlfriend and boyfriend.'')
 * {{ttbc|Guaraní}}: [[ayhu]] (t-)
-* {{ttbc|Indonesian}}: {{t+|id|cinta|xs=Indonesian}}, {{t+|id|kasih|xs=Indonesian}}, {{t-|id|sayang|xs=Indonesian}}
+* {{ttbc|Indonesian}}: {{t-|id|cinta|xs=Indonesian}}, {{t+|id|kasih|xs=Indonesian}}, {{t-|id|sayang|xs=Indonesian}}
 * {{ttbc|Korean}}: [[사랑]] (sarang), [[연애]] (yeon-ae: ''emphasizes the partnership'')
 {{checktrans-mid}}
 * {{ttbc|Romanian}}: {{t-|ro|dragoste|f}}
@@ -295,7 +295,7 @@
 * Albanian: {{t-|sq|do|xs=Albanian}}
 * [[American Sign Language]]: {{tø|ase|ILY@Side-PalmForward|xs=American Sign Language}}
 * Arabic: {{t+|ar|حب|tr=Hábba}}, {{t|ar|أحب|tr='aHábba}}
-* Armenian: [[սիրել]] (sirel)
+* Armenian: {{t+|hy|սիրել|tr=sirel}}
 * [[Basque]]: [[maite izan]], [[maitatu]]
 * Belarusian: {{t|be|любіць|tr=ljubíc’|xs=Belarusian}}, {{t|be|кахаць|tr=kaxác’|xs=Belarusian}}
 * Bosnian: {{t-|bs|voljeti}}
@@ -322,10 +322,10 @@
 * French: {{t+|fr|aimer}}
 * German: {{t+|de|lieben}}
 * Greek: {{t+|el|αγαπώ|tr=ağapó}}
-* Hebrew: {{t|he|אהב|tr=aháv}}
+* Hebrew: {{t+|he|אהב|tr=aháv}}
 * {{trreq|Hindi}}
 * Hungarian: {{t+|hu|szeret}}
-* Indonesian: {{t+|id|cinta|xs=Indonesian}}
+* Indonesian: {{t-|id|cinta|xs=Indonesian}}
 * [[Interlingua]]: [[amar#Interlingua|amar]]
 * Italian: {{t+|it|amare}}
 * Japanese: [[恋する]] (こいする, koisuru), [[愛する]] ([[あいする]], [[aisuru]])
@@ -340,7 +340,7 @@
 * Latvian: {{t-|lv|mīlēt|xs=Latvian}}
 * Lithuanian: {{t+|lt|mylėti|xs=Lithuanian}}
 * [[Luo]]: {{tø|luo|hero|xs=Luo}}
-* [[Malayalam]]: {{t|ml|ഇഷ്ടപ്പെടുക|tr=ishtappeduka|sc=Mlym}}
+* [[Malayalam]]: {{t|ml|ഇഷ്ടപ്പെടുക|tr=ishtappeduka|sc=Mlym|xs=Malayalam}}
 * Maltese: [[ħabb]]
 * [[Marathi]]: [[प्रेम]] (prem)
 * [[Marshallese]]: [[yokwe]]
@@ -357,7 +357,7 @@
 * [[Romansch]]: [[avair gugent]]
 * Russian: {{t+|ru|любить|tr=ljubít’}}
 * {{trreq|Sanskrit}}
-* Serbian: {{t|sr|voleti}}, {{t|sr|волети|sc=Cyrl}}, {{t-|sr|ljubiti}}, {{t-|sr|љубити|sc=Cyrl}}
+* Serbian: {{t-|sr|voleti}}, {{t-|sr|волети|sc=Cyrl}}, {{t-|sr|ljubiti}}, {{t-|sr|љубити|sc=Cyrl}}
 * Slovak: [[milovať]], [[ľúbiť]]
 * Slovene: [[ljubiti]], [[imeti rad]]
 * Spanish: {{t+|es|amar}}, {{t+|es|querer}}
@@ -373,12 +373,12 @@
 * Vietnamese: {{t+|vi|yêu|xs=Vietnamese}}
 * Welsh: {{t-|cy|caru|xs=Welsh}}
 * [[West Frisian]]: [[leaf hawwe]], [[hâlde fan]], [[beminne]], {{t-|fy|leavje|xs=West Frisian}}
-* [[Wolof]]: {{t|wo|mbëggéel}}, {{t|wo|mbeugeil}}
+* [[Wolof]]: {{t|wo|mbëggéel|xs=Wolof}}, {{t|wo|mbeugeil|xs=Wolof}}
 {{trans-bottom}}
 
 {{trans-top|to need, thrive on}}
 * Filipino: [[mahilig]]
-* Hebrew: {{t|he|אהב|tr=aháv}}
+* Hebrew: {{t+|he|אהב|tr=aháv}}
 * Swahili: {{t+|sw|upendo|xs=Swahili}}
 {{trans-mid}}
 * [[Tagalog]]: {{t+|tl|mahilig|xs=Tagalog}}
@@ -398,7 +398,7 @@
 * French: [[aimer]] [[beaucoup]], aimer [[bien]], [[vouloir]] [[beaucoup]]
 * German: {{t+|de|lieben}}
 * Greek: {{t+|el|λατρεύω|tr=latrévo}}, {{t+|el|ποθώ|tr=pothó}}, {{t+|el|θέλω|tr=thélo}}
-* Hebrew: {{t|he|אהב|tr=aháv}}
+* Hebrew: {{t+|he|אהב|tr=aháv}}
 * Hungarian: {{t+|hu|szeret}}
 * Italian: [[voler]] [[bene]], [[amare]]
 * Japanese: [[気に入る]] (kiniiru)
@@ -422,7 +422,7 @@
 
 {{trans-top|to lust for}}
 * Filipino: [[nanasa]]
-* Hebrew: {{t|he|רצה|tr=ratzá}}
+* Hebrew: {{t+|he|רצה|tr=ratzá}}
 {{trans-mid}}
 * Swahili: {{t+|sw|upendo|xs=Swahili}}
 * [[Tagalog]]: {{t+|tl|nanasa|xs=Tagalog}}
@@ -473,7 +473,7 @@
 * Finnish: {{t+|fi|rakastaa}}
 * German: {{t+|de|lieben}}, {{t+|de|ehren}}
 * Greek: {{t+|el|εκτιμώ|tr=ektimó}}, {{t+|el|αγαπώ|tr=ağapó}}
-* Hebrew: {{t|he|אהב|tr=aháv}}
+* Hebrew: {{t+|he|אהב|tr=aháv}}
 * Korean: [[애정]] (aejeong)
 * Latin: {{t-|la|diligo}}
 {{trans-mid}}
@@ -590,7 +590,7 @@ From {{etyl|fr}} {{term|œuf|l’œuf|the egg}}.
 * Russian: {{t+|ru|ноль|m|tr=nol’}}
 * Spanish: {{t+|es|cero}}, {{t+|es|nada}}
 * Swedish: {{t+|sv|noll}}
-* [[Tagalog]]: {{t-|tl|wala|xs=Tagalog}}
+* [[Tagalog]]: {{t+|tl|wala|xs=Tagalog}}
 * Vietnamese: {{t+|vi|không|xs=Vietnamese}}
 * [[West Frisian]]: [[nul]]
 {{trans-bottom}}
