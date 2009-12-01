@@ -86,7 +86,7 @@ From {{etyl|ang}} {{term|scite||dung|lang=ang}}, {{term|scitte||diarrhoea|lang=a
 * Croatian: {{t+|hr|govno|n}}
 * Czech: {{t+|cs|hovno|n}}
 * Danish: {{t+|da|lort}}
-* Dutch: {{t+|nl|poep}}, {{t+|nl|stront}}, {{t-|nl|kak}}, {{t+|nl|schijt}}
+* Dutch: {{t+|nl|poep}}, {{t+|nl|stront}}, {{t+|nl|kak}}, {{t+|nl|schijt}}
 * Esperanto: {{t|eo|fekaĵo|xs=Esperanto}},  {{t|eo|feko|xs=Esperanto}},  {{t|eo|merdo|xs=Esperanto}}
 * Estonian: {{t+|et|sitt}}, {{t-|et|pask}}
 * Finnish: {{t+|fi|paska}}
@@ -112,7 +112,7 @@ From {{etyl|ang}} {{term|scite||dung|lang=ang}}, {{term|scitte||diarrhoea|lang=a
 * {{trreq|Lao}}
 * Latin: {{t+|la|merda|f}}
 * Latvian: {{t-|lv|kaka|f|xs=Latvian}}, {{t-|lv|sūds|m|xs=Latvian}}
-* Lithuanian: {{t-|lt|kakis|m|xs=Lithuanian}}, {{t|lt|šūdas|m|xs=Lithuanian}}, {{t-|lt|kaka|f|xs=Lithuanian}}
+* Lithuanian: {{t-|lt|kakis|m|xs=Lithuanian}}, {{t+|lt|šūdas|m|xs=Lithuanian}}, {{t-|lt|kaka|f|xs=Lithuanian}}
 * [[Macedonian]]: {{t-|mk|измет|m}}, {{t|mk|гомно|n}}, {{t|mk|лајно|n}}, {{t-|mk|кака|f}}
 *: For animal faeces: {{t|mk|гјубре|n}}, {{t|mk|лепешка|f}}
 * {{trreq|Maltese}}
@@ -143,7 +143,7 @@ From {{etyl|ang}} {{term|scite||dung|lang=ang}}, {{term|scitte||diarrhoea|lang=a
 * Urdu: {{t-|ur|پا خانه|tr=pê khâneh|xs=Urdu}}, {{t+|ur|ٹٹى|tr=ʈuʈʈi|xs=Urdu}}
 * Vietnamese: {{t+|vi|cứt|xs=Vietnamese}}
 * Welsh: {{t-|cy|cachu|xs=Welsh}}
-* [[West Frisian]]: {{t|fy|skyt}}
+* [[West Frisian]]: {{t-|fy|skyt|xs=West Frisian}}
 * Yiddish: {{t|yi|דרעק|n|tr=drek|xs=Yiddish}}, {{t|yi|קאַק|m|tr=kak|xs=Yiddish}}
 {{trans-bottom}}
 
@@ -183,7 +183,7 @@ From {{etyl|ang}} {{term|scite||dung|lang=ang}}, {{term|scitte||diarrhoea|lang=a
 * Italian: {{t-|it|porcheria|f}}
 {{trans-mid}}
 * Japanese: {{t+|ja|糞}}, {{t-|ja|くそ|tr=kusos}}
-* Lithuanian: {{t|lt|šūdas|m|xs=Lithuanian}}
+* Lithuanian: {{t+|lt|šūdas|m|xs=Lithuanian}}
 * Polish: {{t+|pl|kupa}}
 * Portuguese: {{t+|pt|merda|f}}, {{t+|pt|bosta|f}}, {{t+|pt|porcaria|f}}, {{t+|pt|besteira|f}}
 * Russian: {{t+|ru|говно|n|tr=govnó}}, {{t+|ru|мусор|m|tr=músor}}, {{t+|ru|хлам|m|tr=khlam}}
@@ -226,7 +226,7 @@ From {{etyl|ang}} {{term|scite||dung|lang=ang}}, {{term|scitte||diarrhoea|lang=a
 * Dutch: {{t+|nl|klootzak|m}}
 * Estonian: {{t-|et|pask}}
 * Finnish: {{t+|fi|paskiainen}}
-* French: {{qualifier|man}} {{t+|fr|fumier|m}}, {{t+|fr|merde|f}},  {{t|fr|enculé|m}}
+* French: {{qualifier|man}} {{t+|fr|fumier|m}}, {{t+|fr|merde|f}},  {{t+|fr|enculé|m}}
 * German: {{qualifier|man}} [[Scheißkerl]] {{m}}, [[Drecksack]] {{m}}
 * Greek: [[σκατό]] (skató) {{n}}, [[μουνί]] (muní) {{n}}
 * Italian: {{t+|it|stronzo|m}}
@@ -341,12 +341,12 @@ From {{etyl|ang}} {{term|scite||dung|lang=ang}}, {{term|scitte||diarrhoea|lang=a
 =====Translations=====
 {{trans-top|to defecate}}
 * Arabic: {{t|ar|خرئ|tr=khári'a}}
-* Armenian: {{t|hy|քաքել|tr=k’ak’el|sc=Armn}}
+* Armenian: {{t|hy|քաքել|tr=k’ak’el}}
 * Chinese:
 *: Mandarin: {{t|cmn|拉屎|tr=lāshǐ|sc=Hani}}
 * Czech: {{t+|cs|srát}}
 * Dutch: {{t+|nl|schijten}}
-* Esperanto: {{t|eo|feki|xs=Esperanto}}
+* Esperanto: {{t-|eo|feki|xs=Esperanto}}
 * Finnish: {{t+|fi|paskantaa}}, {{t+|fi|paskoa}}, {{t+|fi|kakata}}
 * French: {{t+|fr|chier}}, {{t+|fr|caguer}} {{qualifier|South of France}}
 * German: {{t+|de|scheißen}}
@@ -361,7 +361,7 @@ From {{etyl|ang}} {{term|scite||dung|lang=ang}}, {{term|scitte||diarrhoea|lang=a
 * [[Macedonian]]: odi po golema nuzhda,kaka,sere
 * Polish: {{t+|pl|srać}}
 * Portuguese: {{t+|pt|cagar}}
-* Russian: {{t|ru|срать|tr=srat’}} {{impf}},  {{t|ru|посрать|tr=posrát’}} {{pf}} <!-- replaced "насрать" with "посрать" -->
+* Russian: {{t+|ru|срать|tr=srat’}} {{impf}},  {{t|ru|посрать|tr=posrát’}} {{pf}} <!-- replaced "насрать" with "посрать" -->
 * [[Scottish Gaelic]]: [[cac]]
 * Slovene: {{t+|sl|srati}}
 * Spanish: {{t+|es|cagar}}
@@ -371,7 +371,7 @@ From {{etyl|ang}} {{term|scite||dung|lang=ang}}, {{term|scitte||diarrhoea|lang=a
 {{trans-bottom}}
 
 {{trans-top|vulgar slang: to excrete (something) through the anus}}
-* Armenian: {{t|hy|քաքել|tr=k’ak’el|sc=Armn}}
+* Armenian: {{t|hy|քաքել|tr=k’ak’el}}
 * Czech: {{t+|cs|srát}}
 * Dutch: {{t+|nl|schijten}}
 * Esperanto: {{t|eo|elfeki|xs=Esperanto}}
@@ -446,7 +446,7 @@ From {{etyl|ang}} {{term|scite||dung|lang=ang}}, {{term|scitte||diarrhoea|lang=a
 {{trans-mid}}
 * Italian: {{t+|it|merda}}, {{t+|it|cazzo}}
 * Japanese: {{t|ja|クソッ|tr=kuso}}, {{t|ja|チェ|tr=che}}
-* Lithuanian: [[šūdas]] {{m}}
+* Lithuanian: {{t+|lt|šūdas|m|xs=Lithuanian}}
 * Norwegian: {{t+|no|faen}}
 * Portuguese: {{t+|pt|merda}}, {{t+|pt|droga}}
 * Russian: [[ебать|ебёна]] [[мать]] (jebjóna mat’), [[ёб твою мать]] (job tvojú mat'), [[блядь]] (bljad'),
