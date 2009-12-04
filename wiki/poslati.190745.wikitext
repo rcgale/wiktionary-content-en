@@ -1,36 +1,53 @@
-==Bosnian==
+==Serbo-Croatian==
+
+===Etymology===
+{{prefix|po|slati|lang=sh}}
+
+===Pronunciation===
+* {{IPA|/pǒslati/|lang=sh}}
+* {{hyphenation|po|sla|ti}}
 
 ===Verb===
-{{infl|bs|verb}}
+{{sh-verb|head=pòslati|r|послати|по̀слати}} {{pf}}
 
-# to [[send]]
+# {{transitive}} to [[send]]
 
-====Synonyms====
-* [[slati]]
+====Conjugation====
+{{sh-conj
+|p.va=pòslāvši
+|pr.1s=pošaljem
+|pr.2s=pošalješ
+|pr.3s=pošalje
+|pr.1p=pošaljemo
+|pr.2p=pošaljete
+|pr.3p=pošalju
+|f1.hr=poslat
+|f1.stem=posla
+|a.1s=poslah
+|a.2s=posla
+|a.3s=posla
+|a.1p=poslasmo
+|a.2p=poslaste
+|a.3p=poslaše
+|impt.2s=pošalji
+|impt.1p=pošaljimo
+|impt.2p=pošaljite
+|app.ms=poslao
+|app.fs=poslala
+|app.ns=poslalo
+|app.mp=poslali
+|app.fp=poslale
+|app.np=poslala
+|ppp.ms=poslan
+|ppp.fs=poslana
+|ppp.ns=poslano
+|ppp.mp=poslani
+|ppp.fp=poslane
+|ppp.np=poslana
+}}
 
-----
-
-==Croatian==
-
-===Verb===
-{{infl|hr|verb}}
-
-# to [[send]]
-
-----
-
-==Serbian==
-
-===Verb===
-{{infl|sr|verb}}
-
-# to [[send]]
-
-====Cyrillic spelling====
-* [[послати]]
-
-====Synonyms====
-* [[slati]]
+====Related terms====
+* {{l|sh|slati|slȁti}} {{impf}}
 
 ----
 
