@@ -1,13 +1,58 @@
-==Serbian==
+==Serbo-Croatian==
+
+===Etymology===
+From {{proto|Slavic|sъlati|lang=sh}}.
+
+===Pronunciation===
+* {{IPA|/slâti/|lang=sh}}
+* {{hyphenation|сла|ти}}
+
 ===Verb===
-{{infl|sr|verb}}
+{{sh-verb|head=сла̏ти|c|slati|slȁti}} {{impf}}
 
-# to [[send]]
+# {{ambitransitive}} to [[send]]
 
-====Roman spelling====
-*[[slati#Serbian|slati]]
+====Conjugation====
+{{sh-conj|sc=Cyrl
+|pr.va=ша̏љӯћи
+|vn=сла́ње
+|pr.1s=шаљем
+|pr.2s=шаљеш
+|pr.3s=шаље
+|pr.1p=шаљемо
+|pr.2p=шаљете
+|pr.3p=шаљу
+|f1.hr=слат
+|f1.stem=сла
+|impf.1s=слах
+|impf.2s=слаше
+|impf.3s=слаше
+|impf.1p=сласмо
+|impf.2p=сласте
+|impf.3p=слаху
+|impt.2s=шаљи
+|impt.1p=шаљимо
+|impt.2p=шаљите
+|app.ms=слао
+|app.fs=слала
+|app.ns=слало
+|app.mp=слали
+|app.fp=слале
+|app.np=слала
+|ppp.ms=слан
+|ppp.fs=слана
+|ppp.ns=слано
+|ppp.mp=слани
+|ppp.fp=слане
+|ppp.np=слана
+}}
 
-====Synonyms====
-*[[послати]]
+====Derived terms====
+{{top2}}
+* {{l|sh|sc=Cyrl|одаслати|ода̀слати}}
+* {{l|sh|sc=Cyrl|послати|по̀слати}}
+{{mid2}}
+* {{l|sh|sc=Cyrl|разаслати|раза̀слати}}
+{{bottom}}
 
 [[ru:слати]]
