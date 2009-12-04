@@ -1,30 +1,56 @@
-==Bosnian==
+==Serbo-Croatian==
+
+===Etymology===
+From {{proto|Slavic|sъlati|lang=sh}}.
+
+===Pronunciation===
+* {{IPA|/slâti/|lang=sh}}
+* {{hyphenation|sla|ti}}
+
 ===Verb===
-{{infl|bs|verb}}
+{{sh-verb|head=slȁti|r|слати|сла̏ти}} {{impf}}
 
-# to [[send]]
+# {{ambitransitive}} to [[send]]
 
-====Synonyms====
-*[[poslati]]
+====Conjugation====
+{{sh-conj
+|pr.va=šȁljūći
+|vn=slánje
+|pr.1s=šaljem
+|pr.2s=šalješ
+|pr.3s=šalje
+|pr.1p=šaljemo
+|pr.2p=šaljete
+|pr.3p=šalju
+|f1.hr=slat
+|f1.stem=sla
+|impf.1s=slah
+|impf.2s=slaše
+|impf.3s=slaše
+|impf.1p=slasmo
+|impf.2p=slaste
+|impf.3p=slahu
+|impt.2s=šalji
+|impt.1p=šaljimo
+|impt.2p=šaljite
+|app.ms=slao
+|app.fs=slala
+|app.ns=slalo
+|app.mp=slali
+|app.fp=slale
+|app.np=slala
+|ppp.ms=slan
+|ppp.fs=slana
+|ppp.ns=slano
+|ppp.mp=slani
+|ppp.fp=slane
+|ppp.np=slana
+}}
 
-----
-
-==Croatian==
-===Verb===
-{{infl|hr|verb}}
-
-# to [[send]]
-
-----
-
-==Serbian==
-===Verb===
-{{infl|sr|verb}}
-
-# to [[send]]
-
-====Cyrillic spelling====
-*[[слати]]
-
-====Synonyms====
-*[[poslati]]
+====Derived terms====
+{{top2}}
+* {{l|sh|odaslati|odàslati}}
+* {{l|sh|poslati|pòslati}}
+{{mid2}}
+* {{l|sh|razaslati|razàslati}}
+{{bottom}}
