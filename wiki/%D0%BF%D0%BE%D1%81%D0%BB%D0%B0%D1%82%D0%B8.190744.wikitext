@@ -1,13 +1,52 @@
-==Serbian==
+==Serbo-Croatian==
+
+===Etymology===
+{{prefix|по|слати|sc=Cyrl|lang=sh}}
+
+===Pronunciation===
+* {{IPA|/pǒslati/|lang=sh}}
+* {{hyphenation|по|сла|ти}}
+
 ===Verb===
-{{infl|sr|verb}}
+{{sh-verb|head=по̀слати|c|poslati|pòslati}} {{pf}}
 
-# to [[send]]
+# {{transitive}} to [[send]]
 
-====Roman spelling====
-*[[poslati#Serbian|poslati]]
+====Conjugation====
+{{sh-conj|sc=Cyrl
+|p.va=по̀сла̄вши
+|pr.1s=пошаљем
+|pr.2s=пошаљеш
+|pr.3s=пошаље
+|pr.1p=пошаљемо
+|pr.2p=пошаљете
+|pr.3p=пошаљу
+|f1.hr=послат
+|f1.stem=посла
+|a.1s=послах
+|a.2s=посла
+|a.3s=посла
+|a.1p=посласмо
+|a.2p=посласте
+|a.3p=послаше
+|impt.2s=пошаљи
+|impt.1p=пошаљимо
+|impt.2p=пошаљите
+|app.ms=послао
+|app.fs=послала
+|app.ns=послало
+|app.mp=послали
+|app.fp=послале
+|app.np=послала
+|ppp.ms=послан
+|ppp.fs=послана
+|ppp.ns=послано
+|ppp.mp=послани
+|ppp.fp=послане
+|ppp.np=послана
+}}
 
-====Synonyms====
-*[[слати]]
+====Related terms====
+* {{l|sh|sc=Cyrl|слати|сла̏ти}} {{impf}}
 
 [[ru:послати]]
