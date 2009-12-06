@@ -1,11 +1,53 @@
-==Serbian==
+==Serbo-Croatian==
+
+===Etymology===
+{{prefix|у|радити|sc=Cyrl|lang=sh}}
+
+===Pronunciation===
+* {{IPA|/urǎːditi/|lang=sh}}
+* {{hyphenation|у|ра|ди|ти}}
+
 ===Verb===
-'''урадити'''
-#to get something [[done]]
-====Roman spelling====
-*[[uraditi#Serbian|uraditi]]
+{{sh-verb|head=ура́дити|c|uraditi|uráditi}} {{pf}}
+
+# {{transitive}} to [[do]], [[make]]
+# {{transitive}} to [[finish]], [[complete]], [[carry out]] sth
+
+====Conjugation====
+{{sh-conj|sc=Cyrl
+|p.va=ура́дӣвши
+|pr.1s=урадим
+|pr.2s=урадиш
+|pr.3s=уради
+|pr.1p=урадимо
+|pr.2p=урадите
+|pr.3p=ураде
+|f1.hr=урадит
+|f1.stem=уради
+|a.1s=урадих
+|a.2s=уради
+|a.3s=уради
+|a.1p=урадисмо
+|a.2p=урадисте
+|a.3p=урадише
+|impt.2s=уради
+|impt.1p=урадимо
+|impt.2p=урадите
+|app.ms=урадио
+|app.fs=урадила
+|app.ns=урадило
+|app.mp=урадили
+|app.fp=урадиле
+|app.np=урадила
+|ppp.ms=урађен
+|ppp.fs=урађена
+|ppp.ns=урађено
+|ppp.mp=урађени
+|ppp.fp=урађене
+|ppp.np=урађена
+}}
+
 ====Related terms====
-*[[радити#Serbian|радити]]
-[[Category:Serbian verbs]]
+* {{l|sh|sc=Cyrl|радити|ра́дити}} {{impf}}
 
 [[ru:урадити]]
