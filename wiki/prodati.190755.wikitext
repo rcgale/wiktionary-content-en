@@ -1,33 +1,53 @@
-==Bosnian==
-===Verb===
-'''prodati'''
-#to [[sell]]
-====Synonyms====
-*[[prodavati]]
-*[[trgovati]]
-[[Category:Bosnian verbs]]
+==Serbo-Croatian==
 
-----
+===Etymology===
+{{prefix|pro|dati|lang=sh}}
 
-==Croatian==
+===Pronunciation===
+* {{IPA|/prǒdati/|lang=sh}}
+* {{hyphenation|pro|da|ti}}
 
 ===Verb===
-{{infl|hr|verb}} {{pf}}
+{{sh-verb|head=pròdati|r|продати|про̀дати}} {{pf}}
 
-# to [[sell]]
+# {{transitive}} to [[sell]]
 
-----
+====Conjugation====
+{{sh-conj
+|p.va=pròdāvši
+|pr.1s=prodam
+|pr.2s=prodaš
+|pr.3s=proda
+|pr.1p=prodamo
+|pr.2p=prodate
+|pr.3p=prodaju
+|f1.hr=prodat
+|f1.stem=proda
+|a.1s=prodah
+|a.2s=proda
+|a.3s=proda
+|a.1p=prodasmo
+|a.2p=prodaste
+|a.3p=prodaše
+|impt.2s=prodaj
+|impt.1p=prodajmo
+|impt.2p=prodajte
+|app.ms=prodao
+|app.fs=prodala
+|app.ns=prodalo
+|app.mp=prodali
+|app.fp=prodale
+|app.np=prodala
+|ppp.ms=prodan
+|ppp.fs=prodana
+|ppp.ns=prodano
+|ppp.mp=prodani
+|ppp.fp=prodane
+|ppp.np=prodana
+}}
 
-==Serbian==
-===Verb===
-'''prodati'''
-#to [[sell]]
-====See also====
-*[[продати]]
-====Synonyms====
-*[[prodavati]]
-*[[trgovati]]
-[[Category:Serbian verbs]]
+====Related terms====
+* {{l|sh|prodavati|prodávati}} {{impf}}
 
 [[ko:prodati]]
 [[fi:prodati]]
