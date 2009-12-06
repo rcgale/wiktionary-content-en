@@ -1,29 +1,51 @@
-==Bosnian==
+==Serbo-Croatian==
+
+===Etymology===
+{{prefix|u|raditi|lang=sh}}
+
+===Pronunciation===
+* {{IPA|/urǎːditi/|lang=sh}}
+* {{hyphenation|u|ra|di|ti}}
+
 ===Verb===
-'''uraditi'''
-#to get something [[done]]
+{{sh-verb|head=uráditi|r|урадити|ура́дити}} {{pf}}
+
+# {{transitive}} to [[do]], [[make]]
+# {{transitive}} to [[finish]], [[complete]], [[carry out]] sth
+
+====Conjugation====
+{{sh-conj
+|p.va=urádīvši
+|pr.1s=uradim
+|pr.2s=uradiš
+|pr.3s=uradi
+|pr.1p=uradimo
+|pr.2p=uradite
+|pr.3p=urade
+|f1.hr=uradit
+|f1.stem=uradi
+|a.1s=uradih
+|a.2s=uradi
+|a.3s=uradi
+|a.1p=uradismo
+|a.2p=uradiste
+|a.3p=uradiše
+|impt.2s=uradi
+|impt.1p=uradimo
+|impt.2p=uradite
+|app.ms=uradio
+|app.fs=uradila
+|app.ns=uradilo
+|app.mp=uradili
+|app.fp=uradile
+|app.np=uradila
+|ppp.ms=urađen
+|ppp.fs=urađena
+|ppp.ns=urađeno
+|ppp.mp=urađeni
+|ppp.fp=urađene
+|ppp.np=urađena
+}}
+
 ====Related terms====
-*[[raditi#Bosnian|raditi]]
-[[Category:Bosnian verbs]]
-
-----
-
-==Croatian==
-
-===Verb===
-{{infl|hr|verb|head=uráditi}} {{pf}}
-
-# {{transitive}} to [[make]]
-# {{transitive}} to [[finish]], [[complete]], [[carry out]]
-
-----
-
-==Serbian==
-===Verb===
-'''uraditi'''
-#to get something [[done]]
-====Cyrillic spelling====
-*[[урадити#Serbian|урадити]]
-====Related terms====
-*[[raditi#Serbian|raditi]]
-[[Category:Serbian verbs]]
+* {{l|sh|raditi|ráditi}} {{impf}}
