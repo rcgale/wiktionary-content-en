@@ -343,7 +343,7 @@ From {{etyl|fro}} {{term|orenge|lang=fro}}, from {{etyl|it}} {{term|arancia|lang
 ==French==
 
 ===Etymology===
-Short form of late Old French ''pume orenge'' or ''pomme d'orenge'', which was calqued after Old Italian ''melarancia'' ({{compound|mela|arancia|lang=it}}). The ''o'' came into the word under influence of the place name {{term|Orange|lang=fr}}, from where these fruits came to the north.
+Short form of late {{etyl|fro|fr}} ''pume orenge'' or ''pomme d'orenge'', which was calqued after Old Italian ''melarancia'' ({{term|mela|lang=it}} + {{term|arancia|lang=it}}). The ''o'' came into the word under influence of the place name {{term|Orange|lang=fr}}, from where these fruits came to the north.
 See {{term|orange|lang=en}} (English).
 
 ===Pronunciation===
@@ -355,20 +355,28 @@ See {{term|orange|lang=en}} (English).
 ===Noun===
 {{fr-noun|f}}
 
-# [[#Noun|orange]] {{i|fruit}}
+# {{l|en|orange}} {{gloss|fruit}}
 #: ''Il pressa l’'''orange''' afin d’en extraire du jus.''
 #:: ''He squeezed the '''orange''' to extract juice from it.''
+
+===Noun===
+{{fr-noun|m}}
+
+# {{l|en|orange}} {{gloss|color}}
 
 ====Derived terms====
 * [[oranger]]
 * [[w:Orangina|Orangina]]
 
 ===Adjective===
-{{infl|fr|adjective|invariable}}
+{{infl|fr|adjective|g=m|g2=f|g3=inv}}
 
-# [[#Adjective|orange]]
+# {{l|en|orange}}
 #: ''Les premiers TGV atlantiques étaient '''orange'''.''
 #:: ''The first Atlantic TGV trains were '''orange'''.''
+
+====Usage notes====
+:While theoretically the adjective ''orange'' is invariable, the nonstandard plural {{term|oranges|lang=fr}}
 
 ===Anagrams===
 * {{alphagram|aegnor}}
