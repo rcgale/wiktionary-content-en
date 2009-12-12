@@ -1,15 +1,51 @@
-==Bosnian==
-===Verb===
-'''predstaviti'''
-#to [[present]]
-[[Category:Bosnian verbs]]
+==Serbo-Croatian==
 
-----
+===Etymology===
+{{prefix|pred|staviti|lang=sh}}
 
-==Serbian==
+===Pronunciation===
+* {{IPA|/prědstaʋiti/|lang=sh}}
+* {{hyphenation|pred|sta|vi|ti}}
+
 ===Verb===
-'''predstaviti'''
-#to [[present]]
-====Cyrillic spelling====
-*[[представити#Serbian|представити]]
-[[Category:Serbian verbs]]
+{{sh-verb|head=prèdstaviti|r|представити|прѐдставити}} {{pf}}
+
+# {{transitive}} to [[present]], [[portray]], [[describe]] (thing, situation etc.)
+# {{transitive|reflexive}} to [[introduce]], [[present]] (person)
+
+====Conjugation====
+{{sh-conj
+|p.va=prèdstavīvši
+|pr.1s=predstavim
+|pr.2s=predstaviš
+|pr.3s=predstavi
+|pr.1p=predstavimo
+|pr.2p=predstavite
+|pr.3p=predstave
+|f1.hr=predstavit
+|f1.stem=predstavi
+|a.1s=predstavih
+|a.2s=predstavi
+|a.3s=predstavi
+|a.1p=predstavismo
+|a.2p=predstaviste
+|a.3p=predstaviše
+|impt.2s=predstavi
+|impt.1p=predstavimo
+|impt.2p=predstavite
+|app.ms=predstavio
+|app.fs=predstavila
+|app.ns=predstavilo
+|app.mp=predstavili
+|app.fp=predstavile
+|app.np=predstavila
+|ppp.ms=predstavljen
+|ppp.fs=predstavljena
+|ppp.ns=predstavljeno
+|ppp.mp=predstavljeni
+|ppp.fp=predstavljene
+|ppp.np=predstavljena
+}}
+
+====Related terms====
+* {{l|sh|predstavljati|prèdstavljati}} {{impf}}
