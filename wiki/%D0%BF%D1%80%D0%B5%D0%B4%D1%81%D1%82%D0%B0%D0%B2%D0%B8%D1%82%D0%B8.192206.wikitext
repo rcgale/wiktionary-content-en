@@ -1,12 +1,53 @@
-==Serbian==
+==Serbo-Croatian==
+
+===Etymology===
+{{prefix|пред|ставити|sc=Cyrl|lang=sh}}
+
+===Pronunciation===
+* {{IPA|/prědstaʋiti/|lang=sh}}
+* {{hyphenation|пред|ста|ви|ти}}
+
 ===Verb===
-'''представити'''
+{{sh-verb|head=прѐдставити|c|predstaviti|prèdstaviti}} {{pf}}
 
-# to [[present]]
+# {{transitive}} to [[present]], [[portray]], [[describe]] (thing, situation etc.)
+# {{transitive|reflexive}} to [[introduce]], [[present]] (person)
 
-====Roman spelling====
-*[[predstaviti#Serbian|predstaviti]]
+====Conjugation====
+{{sh-conj|sc=Cyrl
+|p.va=прѐдставӣвши
+|pr.1s=представим
+|pr.2s=представиш
+|pr.3s=представи
+|pr.1p=представимо
+|pr.2p=представите
+|pr.3p=представе
+|f1.hr=представит
+|f1.stem=представи
+|a.1s=представих
+|a.2s=представи
+|a.3s=представи
+|a.1p=представисмо
+|a.2p=представисте
+|a.3p=представише
+|impt.2s=представи
+|impt.1p=представимо
+|impt.2p=представите
+|app.ms=представио
+|app.fs=представила
+|app.ns=представило
+|app.mp=представили
+|app.fp=представиле
+|app.np=представила
+|ppp.ms=представљен
+|ppp.fs=представљена
+|ppp.ns=представљено
+|ppp.mp=представљени
+|ppp.fp=представљене
+|ppp.np=представљена
+}}
 
-[[Category:Serbian verbs]]
+====Related terms====
+* {{l|sh|sc=Cyrl|представљати|прѐдстављати}} {{impf}}
 
 [[ru:представити]]
