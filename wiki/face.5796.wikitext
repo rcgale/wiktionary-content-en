@@ -139,12 +139,12 @@
 * Norwegian: {{t+|no|ansikt|n}}, {{t+|no|fjes|n}}
 * Old English: {{t-|ang|andwlita|xs=Old English}}
 * [[Old Prussian]]: [[prusna]]
-* Persian: {{t|fa|روي|tr=rōy|sc=fa-Arab}},  {{t|fa|رخ|tr=rox|sc=fa-Arab}}
+* Persian: {{t|fa|روی|tr=rōy|sc=fa-Arab}}, {{t|fa|رخ|tr=rox|sc=fa-Arab}}
 * Polish: {{t+|pl|twarz|f}}
 * Portuguese: {{t+|pt|face|f}}, {{t+|pt|rosto|m}}
 * [[Romagnolo]]: [[fàza]] {{f}}
 * Romanian: {{t-|ro|faţă}}
-* Russian: [[лицо]] (litsó) {{n}}
+* Russian: {{t|ru|лицо|tr=litsó|n}}
 * [[Sardinian]]: [[cara]] {{f}}
 * [[Scottish Gaelic]]: {{t-|gd|aghaidh|f|xs=Scottish Gaelic}}, {{t-|gd|aodann|m|xs=Scottish Gaelic}}, {{t-|gd|gnùis|f|xs=Scottish Gaelic}}
 * [[Sicilian]]: {{t+|scn|facci|f|xs=Sicilian}}
@@ -166,7 +166,7 @@
 * Armenian: [[դեմք]] (demk')
 * [[Catalan]]: [[cara]] {{f}}, [[rictus]] {{m}}, [[gest]] {{m}}
 * Chinese:
-*: Mandarin: {{zh-ts|表情|表情}} ([[biǎo]][[qíng]])
+*: Mandarin: {{zh-ts|表情|表情}} (biǎoqíng)
 * [[Crimean Tatar]]: [[yüz#Crimean Tatar|yüz]]
 * Czech: {{t+|cs|tvář|f}}, {{t-|cs|obličej|m}}
 * Danish: [[ansigt]] {{n}}, [[ansigtsudtryk]] {{n}}
@@ -181,19 +181,19 @@
 * [[Macedonian]]: {{t|mk|гримаса|f|tr=grimása|sc=Cyrl|xs=Macedonian}}
 * Maltese: [[fattizzi]]
 * Norwegian: {{t+|no|mine|m}}
-* Persian: {{t|fa|روي|tr=rōy|sc=fa-Arab}},  {{t|fa|رخ|tr=rox|sc=fa-Arab}},  {{t|fa|چهره|tr=ĉehra|sc=fa-Arab}}
+* Persian: {{t|fa|روی|tr=rōy|sc=fa-Arab}}, {{t|fa|رخ|tr=rox|sc=fa-Arab}}, {{t|fa|چهره|tr=ĉehra|sc=fa-Arab}}
 * Polish: {{t+|pl|mina|f}}
 * Portuguese: {{t+|pt|cara|f}}, {{t+|pt|face|f}}
-* Russian: [[выражение лица]] {{n}}, [[гримаса]] {{f}} (usually used for unhappy expressions), [[мина]] (mína) {{f}}
+* Russian: {{t|ru|выражение лица|n}}, {{t|ru|гримаса|f}} (usually used for unhappy expressions), {{t|ru|мина|tr=mína|f}}
 * Spanish: {{t-|es|gesto|m}}, {{t+|es|cara|f}}, {{t-|es|mueca|f}}
 * Swedish: [[min]] {{c}}, [[uppsyn]] {{c}}
 {{trans-bottom}}
 
 {{trans-top|public image}}
-* Arabic: {{t-|ar|مظهر|tr=maẓhar|sc=Arab}}
+* Arabic: {{t-|ar|مظهر|tr=maZ-har|sc=Arab}}
 * [[Catalan]]: [[cara]]
 * Chinese:
-*: Mandarin: {{zh-ts|面子|面子}} ([[miàn]][[zi]])
+*: Mandarin: {{zh-ts|面子|面子}} (miànzi)
 * [[Crimean Tatar]]: [[yüz#Crimean Tatar|yüz]]
 * Danish: {{t+|da|facade|c}}
 * Dutch: {{t+|nl|gezicht|n}}
@@ -215,7 +215,7 @@
 * Armenian: [[նիստ]] (nist)
 * [[Catalan]]: [[cara]] {{f}}, [[faceta]] {{f}}
 * Chinese:
-*: Mandarin: {{zh-ts|表面|表面}} ([[biǎo]][[miàn]])
+*: Mandarin: {{zh-ts|表面|表面}} (biǎomiàn)
 * Czech: {{t+|cs|strana|f}}
 * Danish: [[flade]] {{c}}
 * Dutch: {{t+|nl|zijde}}
@@ -241,7 +241,7 @@
 * Finnish: {{t+|fi|puoli}}
 {{trans-mid}}
 * Norwegian: {{t+|no|side|m}}
-* Russian: {{t+|ru|поверхность|n|sc=Cyrl}}
+* Russian: {{t+|ru|поверхность|tr=povérxnost’|f|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|numbered dial of a clock or watch}}
@@ -267,7 +267,7 @@
 * Hungarian: {{t+|hu|pofa}}
 * Norwegian: [[kjeft]] {{m}}
 * Russian: {{t+|ru|рожа|f|tr=róža|sc=Cyrl}}
-* Swedish: [[käft]] {{c}}
+* Swedish: {{t|sv|käft|c}}
 {{trans-bottom}}
 
 {{trans-top|slang: in wrestling}}
