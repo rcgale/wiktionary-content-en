@@ -385,27 +385,6 @@ From {{etyl|gem|ca}} {{term||áss}}, singular of {{term||æsir||the Norse gods}}
 
 ----
 
-==Croatian==
-
-===Noun===
-{{infl|hr|noun|g=m}}
-
-# {{card games|lang=hr}} [[ace]]
-# a skilled [[sportperson]]
-
-====Declension====
-{{hr-decl-noun
-|as|asovi
-|asa|asova
-|asu|asovima
-|asa|asove
-|ase|asovi
-|asu|asovima
-|asom|asovima
-}}
-
-----
-
 ==Danish==
 
 ===Etymology===
@@ -464,10 +443,10 @@ From {{etyl|non|da}} {{term|Áss|áss|lang=non}} ({{p}} {{term|Æsir|æsir|lang=
 ===Pronunciation===
 * {{audio|Fr-as.ogg|Audio}}
 ; Noun
-* {{IPA|/as/|lang=fr}}, {{SAMPA|/As/}}
+* {{IPA|/as/|lang=fr}}, {{SAMPA|/As/|lang=fr}}
 
 ; Verb
-* {{IPA|/a/|lang=fr}}, {{SAMPA|/a, A/}}
+* {{IPA|/a/|lang=fr}}, {{SAMPA|/a, A/|lang=fr}}
 
 ===Noun===
 {{fr-noun|m|plural=as}}
@@ -476,11 +455,11 @@ From {{etyl|non|da}} {{term|Áss|áss|lang=non}} ({{p}} {{term|Æsir|æsir|lang=
 # {{context|tennis|lang=fr}} [[ace]]
 
 ===Verb===
-{{infl|fr|verb form}}
+{{fr-verb form}}
 
-# Second-person singular indicative present form of [[avoir]].
+# {{conjugation of|avoir||2|s|pres|ind|lang=fr}}
 #: ''Tu '''as''' un chien.''
-#: ''You '''have''' a dog.'' (or, archaic: ''Thou '''hast''' a dog.'')
+#: ''You '''have''' a dog.''
 
 ===Anagrams===
 * {{alphagram|as}}
@@ -704,16 +683,16 @@ From {{etyl|la|pt}} ''[[illae]]''.
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Noun===
-{{sr-noun|g=m|a=?|+|pl=asovi|cyr=ас}}
+{{sh-noun|g=m|ас|ас|sc=Cyrl}}
 
-# {{card games|lang=sr}} [[ace]]
-# a skilled [[sportperson]]
+# {{card games|lang=sh}} [[ace]]
+# a skilled [[sportsperson]]
 
 ====Declension====
-{{sr-decl-noun|sc=Latn
+{{sh-decl-noun|sc=Latn
 |as|asovi
 |asa|asova
 |asu|asovima
@@ -730,7 +709,7 @@ From {{etyl|la|pt}} ''[[illae]]''.
 ===Noun===
 {{sl-noun|m|dual=asa|asi}}
 
-# An [[ace]]; in a game of cards.
+# {{card games|lang=sl}} An [[ace]]; in a game of cards.
 # An [[ace]]; somebody very [[proficient]] at an activity.
 
 ----
@@ -740,10 +719,8 @@ From {{etyl|la|pt}} ''[[illae]]''.
 ===Noun===
 {{es-noun-m|plural=ases}}
 
-# An [[ace]]; in a game of cards.
+# {{card games|lang=es}} An [[ace]]; in a game of cards.
 # An [[ace]]; somebody very [[proficient]] at an activity.
-
-[[Category:es:Card games]]
 
 ----
 
@@ -806,7 +783,7 @@ From {{etyl|en|tpi}} ''[[arse]]''.
 ===Noun===
 {{infl|tr|noun}}
 
-# The ace in card games.
+# {{card games|lang=tr}} The ace in card games.
 
 ----
 
