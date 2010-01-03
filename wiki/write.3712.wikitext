@@ -72,11 +72,11 @@
 * [[Afrikaans]]: {{t|af|skryf|xs=Afrikaans}}
 * Albanian: {{t-|sq|shkruan|xs=Albanian}}
 * [[Amharic]]: {{t|am|ጻፈ|tr=TS'afä|sc=Ethi|xs=Amharic}}, {{t|am|ደረሰ|tr=däräsä|sc=Ethi|xs=Amharic}}
-* Arabic: {{Arab|[[كتب|كَتَبَ]]}} (kátaba),  {{t|ar|كتابة|sc=Arab}}
+* Arabic: {{t-|ar|كتب|tr=kátaba}}
 * {{trreq|Aragonese}}
 * Aramaic:
 *: Syriac: [[ܟܬܒ]] (kātēb)
-*: Hebrew: {{t+|he|כתב|tr=kātēb}},  {{t|he|לכתוב|alt=לִכתוֹב|sc=Hebr}}
+*: Hebrew: {{t+|he|כתב|tr=kātēb}}
 * Armenian: {{t+|hy|գրել|tr=grel}}
 * {{trreq|Assamese}}
 * [[Asturian]]: {{t+|ast|escribir|xs=Asturian}}
@@ -84,21 +84,20 @@
 * {{trreq|Bashkir}}
 * [[Basque]]: {{t-|eu|idatzi|xs=Basque}}
 * {{trreq|Bavarian}}
-* Belarusian: {{t|be|пісаць|xs=Belarusian}},  {{t|be|пісаць|tr=pisác’|sc=Cyrl}}
+* Belarusian: {{t|be|пісаць|tr=pisác’|sc=Cyrl}}
 * {{trreq|Bengali}}
 * {{trreq|Bosnian}}
 * [[Breton]]: {{t+|br|skrivañ|xs=Breton}}
-* Bulgarian: {{t+|bg|пиша}},  {{t|bg|пиша|tr=píša|sc=Cyrl}}
+* Bulgarian: {{t+|bg|пиша|tr=píša|sc=Cyrl}}
 * {{trreq|Burmese}}
 * [[Catalan]]: {{t+|ca|escriure}}
 * [[Cebuano]]: {{tø|ceb|sulat|xs=Cebuano}}
 * Chinese:
-*: Cantonese: {{tø|yue|寫|tr=se2, se3|sc=Hani|xs=Cantonese}}
-*: Mandarin: [[寫]], [[写]] (xiě),  {{t|zh|寫|sc=Hani}},  {{t|zh|写|tr=xiě|sc=Hani}}
+*: Cantonese: {{tø|yue|寫|sc=Hani|xs=Cantonese}}, {{tø|yue|写|tr=se2, se3|sc=Hani|xs=Cantonese}}
+*: Mandarin: {{t|zh|寫|sc=Hani}},  {{t|zh|写|tr=xiě|sc=Hani}}
 * [[Chuvash]]: {{tø|cv|ҫыр|tr=șyr}}
 * {{trreq|Cornish}}
 * [[Crimean Tatar]]: {{tø|crh|yazmaq|xs=Crimean Tatar}}
-* Croatian: {{t+|hr|pisati|alt=písati}}
 * Czech: {{t+|cs|psát}}
 * Danish: {{t+|da|skrive}}
 * {{trreq|Dhivehi}}
@@ -117,7 +116,8 @@
 * German: {{t+|de|schreiben}}
 * Greek: {{t+|el|γράφω}} (gráfo)
 * Hawaiian: {{tø|haw|kākau|xs=Hawaiian}}
-* Hindi: {{t-|hi|लिखना|xs=Hindi}},  {{t|hi|लिखना|tr=likhnā|sc=Deva}}
+* Hebrew: {{t|he|לכתוב|alt=לִכתוֹב|sc=Hebr}}
+* Hindi: {{t-|hi|लिखना|tr=likhnā|sc=Deva}}
 * Hungarian: {{t+|hu|ír}}
 * Icelandic: {{t+|is|skrifa}}
 * [[Ido]]: {{t+|io|skribar|xs=Ido}}
@@ -153,7 +153,7 @@
 * {{trreq|Oromo}}
 * Ossetic: {{tø|os|фыссын|tr=fyssyn|sc=Cyrl|xs=Ossetian}}
 * {{trreq|Pangasinan}}
-* Persian: {{t+|fa|نوشتن|xs=Persian}},  {{t|fa|نوشتن|tr=naveštan, neveštan|sc=fa-Arab}}
+* Persian: {{t+|fa|نوشتن|tr=naveštan, neveštan|sc=fa-Arab}}
 * {{trreq|Piedmontese}}
 * Polish: {{t+|pl|pisać}} {{impf}}, {{t+|pl|napisać}} {{pf}}
 * Portuguese: {{t+|pt|escrever}}
@@ -163,7 +163,7 @@
 * {{trreq|Samoan}}
 * Sanskrit: {{t|sa|लिख्|xs=Sanskrit}}
 * Serbian: {{t|sr|писати|sc=Cyrl}}
-* [[Serbo-Croatian]]: {{t|sh|писати|sc=Cyrl}},  {{t|sh|pisati|alt=písati|sc=Cyrl}}
+* [[Serbo-Croatian]]: {{t|sh|писати|sc=Cyrl}},  {{t|sh|pisati|alt=písati}}
 * [[Sicilian]]: {{t+|scn|scrìviri|xs=Sicilian}}
 * Slovak: {{t|sk|písať}}
 * Slovene: {{t+|sl|pisati}}
@@ -176,12 +176,12 @@
 * [[Tajik]]: {{t|tg|навиштан |sc=Cyrl}}
 * {{trreq|Tamil}}
 * [[Telugu]]: [[వ్రాయు]] [[రాయు]] (raayu) (1), [[రచించు]] (rachiMchu) (2)
-* Thai: {{Thai|[[เขียน]]}} (kĭan), {{Thai|[[ขีด]]}} (kèet),  {{t|th|เขียน|tr=kĭan|sc=Thai}},  {{t|th|ขีด|tr=kèet|sc=Thai}}
+* Thai: {{t|th|เขียน|tr=kĭan|sc=Thai}},  {{t|th|ขีด|tr=kèet|sc=Thai}}
 * {{trreq|Tibetan}}
 * [[Tok Pisin]]: {{t-|tpi|rait|xs=Tok Pisin}},  {{t|tpi|raitim|xs=Tok Pisin}}
 * {{trreq|Tongan}}
 * Turkish: {{t+|tr|yazmak}}
-* Ukrainian: {{t|uk|писати|tr=pisati|xs=Ukrainian}},  {{t|uk|писати|tr=pysáty|sc=Cyrl}}
+* Ukrainian: {{t|uk|писати|tr=pysáty|sc=Cyrl}}
 * Urdu: {{t|ur|لکھنا|tr=likhnā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|viết|xs=Vietnamese}}
 * Welsh: {{t-|cy|ysgrifennu|xs=Welsh}}
