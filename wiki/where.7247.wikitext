@@ -32,21 +32,21 @@ From {{etyl|ang|en}} {{term|hwær|lang=ang}}
 *: Lebanese/Syrian: {{Arab|[[وين]]}} (wayn)
 * Armenian: {{t-|hy|որտեղ|tr=orteġ}}
 * [[Basque]]: [[non]]
-* Belarusian: {{t|be|дзе|tr=dze|xs=Belarusian}},  {{t|be|адкуль|tr=adkúl'|sc=Cyrl}} {{qualifier|where from}}
-* Bulgarian: {{t|bg|къде|tr=kǎde}},  {{t|bg|откъде|tr=otkǎde|sc=Cyrl}} {{qualifier|where from}}
+* Belarusian: {{t|be|дзе|tr=dze|xs=Belarusian}},  {{t|be|адкуль|tr=adkúl'|xs=Belarusian}} {{qualifier|where from}}
+* Bulgarian: {{t|bg|къде|tr=kǎde}},  {{t|bg|откъде|tr=otkǎde}} {{qualifier|where from}}
 * [[Catalan]]: [[on]]
 * Chinese:
 *: Mandarin: {{t-|cmn|哪兒|sc=Hani}},  {{t-|cmn|哪儿|tr=nǎr|sc=Hani}},  {{t-|cmn|哪里|tr=nǎli|sc=Hani}}
 * [[Crimean Tatar]]: [[qayerge]]
-* Czech: {{t|cs|kde}},  {{t|cs|odkud}} {{qualifier|where from}}
+* Czech: {{t+|cs|kde}},  {{t-|cs|odkud}} {{qualifier|where from}}
 * Danish: {{t+|da|hvor}}
 * Dutch: [[waar]]; [[waarvan]], [[waarvandaan]]
 * Esperanto: {{t-|eo|kie|xs=Esperanto}}
 * Filipino: {{tø|fil|kung saan}}
-* French: {{t|fr|où}}, {{t|fr|d'où}} {{qualifier|where from}}
-* German: {{t|de|wo}}, {{t|de|woher}} {{qualifier|where from}}
-* Greek: {{t|el|όπου|tr=ópou|sc=Grek}}
-* Hebrew: {{t|he|איפה|tr=eyfó|sc=Hebr}},  {{t|he|היכן|tr=heykhan|sc=Hebr}}
+* French: {{t+|fr|où}}, {{t+|fr|d'où}} {{qualifier|where from}}
+* German: {{t+|de|wo}}, {{t+|de|woher}} {{qualifier|where from}}
+* Greek: {{t|el|όπου|tr=ópou}}
+* Hebrew: {{t+|he|איפה|tr=eyfó}},  {{t-|he|היכן|tr=heykhan}}
 * Hindi: {{t-|hi|जहाँ|tr=jahāṅ|xs=Hindi}}
 * Hungarian: {{t+|hu|hol}}
 * [[Ido]]: [[ube]]
@@ -55,28 +55,28 @@ From {{etyl|ang|en}} {{term|hwær|lang=ang}}
 * Italian: {{t+|it|dove}}
 * Japanese: {{t-|ja|何処|alt=何処に|tr=どこに, doko-ni}},  {{t+|ja|どこ|alt=どこに|tr=doko-ni}}
 * [[Kashubian]]: [[dze#Kashubian|dze]]
-* Korean: {{t|ko|어디|tr=eodi|sc=Kore}}
+* Korean: {{t+|ko|어디|tr=eodi}}
 * Kurdish: {{t+|ku|cihê}}
 * [[Macedonian]]: {{t-|mk|каде|tr=káde}}
 * Maltese: {{t+|mt|fejn|xs=Maltese}}
 * [[Occitan]]: {{t+|oc|ont|xs=Occitan}}
-* Persian: {{t|fa|کجا|tr=kojaa|sc=fa-Arab}}
-* Polish: {{t|pl|gdzie}},  {{t|pl|skąd}} {{qualifier|where from}}
-* Portuguese: {{t|pt|onde}}, {{t|pt|de onde}} {{qualifier|where from}}
+* Persian: {{t|fa|کجا|tr=kojaa|xs=Persian}}
+* Polish: {{t+|pl|gdzie}},  {{t+|pl|skąd}} {{qualifier|where from}}
+* Portuguese: {{t+|pt|onde}}, {{t|pt|de onde}} {{qualifier|where from}}
 * Romanian: {{t-|ro|unde}}
 * Russian: {{t+|ru|где|tr=gde}}; {{t+|ru|откуда|tr=otkúda}} {{qualifier|where from}}
 * [[Scots]]: [[whaur]]
-* [[Serbo-Croatian]]: {{t|sh|где|sc=Cyrl}},  {{t|sh|gde}},  {{t|sh|гдје|sc=Cyrl}},  {{t|sh|gdje}}
-* Slovak: {{t|sk|kde}},  {{t|sk|odkiaľ}} {{qualifier|where from}}
+* [[Serbo-Croatian]]: {{tø|sh|где|sc=Cyrl|xs=Serbo-Croatian}},  {{tø|sh|gde|xs=Serbo-Croatian}},  {{tø|sh|гдје|sc=Cyrl|xs=Serbo-Croatian}},  {{tø|sh|gdje|xs=Serbo-Croatian}}
+* Slovak: {{t-|sk|kde}},  {{t|sk|odkiaľ}} {{qualifier|where from}}
 * Slovene: {{t+|sl|kje}}
-* Spanish: {{t|es|donde}}, {{t|es|dónde}}
+* Spanish: {{t+|es|donde}}, {{t+|es|dónde}}
 * Swedish: {{t+|sv|där}}, {{t+|sv|var}}
 * [[Tagalog]]: {{t|tl|kung saan|xs=Tagalog}}
-* Thai: {{t|th|ที่ไหน|tr=têe-năi|sc=Thai}},  {{t|th|ไหน|tr=năi|sc=Thai}}
+* Thai: {{t-|th|ที่ไหน|tr=têe-năi}},  {{t|th|ไหน|tr=năi}}
 * Turkish: {{t+|tr|nerede}}
-* Ukrainian: {{t-|uk|де|tr=de|xs=Ukrainian}},  {{t|uk|звідки|tr=svidký|sc=Cyrl}} {{qualifier|where from}}
+* Ukrainian: {{t-|uk|де|tr=de|xs=Ukrainian}},  {{t|uk|звідки|tr=svidký|xs=Ukrainian}} {{qualifier|where from}}
 * Urdu: {{t-|ur|جہاں|tr=jahāṅ|xs=Urdu}}
-* Vietnamese: {{t|vi|đâu}}
+* Vietnamese: {{t+|vi|đâu|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|the place to which}}
@@ -141,7 +141,7 @@ From {{etyl|ang|en}} {{term|hwær|lang=ang}}
 * Arabic: {{t-|ar|اين|alt=أينَ|tr=ayna}}
 *: Egyptian: {{tø|arz|منين|tr=meniin|sc=Arab|xs=Egyptian Arabic}} (''from what place''); {{tø|arz|فين|tr=feːn|sc=Arab|xs=Egyptian Arabic}} (''at what place'')
 * Armenian: {{t-|hy|որտեղ|tr=orteġ}}, {{t-|hy|ուր|tr=ur}}
-**Old Armenian: {{t-|xcl|յո|tr=yo}}, {{t-|xcl|ուր|tr=ur}}
+**Old Armenian: {{tø|xcl|յո|tr=yo|xs=Old Armenian}}, {{tø|xcl|ուր|tr=ur|xs=Old Armenian}}
 * Bulgarian: {{t|bg|къде|tr=kade}}
 * [[Chamicuro]]: {{tø|ccc|na'yeni}}
 * [[Crimean Tatar]]: [[qayda]], [[qayerde]]
@@ -178,7 +178,7 @@ From {{etyl|ang|en}} {{term|hwær|lang=ang}}
 * [[Romansch]]: [[nua]]
 * Russian: [[где]] (gde); [[куда]] (kudá); [[откуда]] (otkúda)
 * [[Scots]]: [[whaur]]
-* [[Scottish Gaelic]]: {{t|gd|càite}}
+* [[Scottish Gaelic]]: {{t-|gd|càite|xs=Scottish Gaelic}}
 * Slovak: {{t-|sk|kde}}
 * Slovene: [[kje]] (''at what place''); [[kam]] (''to what place''); [[odkod]] (''from what place'')
 * Spanish: [[dónde]]; [[adónde]]; [[de]] [[dónde]]
