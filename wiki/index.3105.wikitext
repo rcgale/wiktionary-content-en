@@ -17,10 +17,9 @@ From {{etyl|la}} {{term|index||a discoverer, informer, spy; of things, an indica
 # The [[index finger]], the [[forefinger]].
 # A [[sign]]; an [[indication]]; a [[token]].
 #: ''His son's empty guffaws ... struck him with pain as the '''indices''' of a weak mind.''
-# {{programming}} A [[positive]] or [[non-negative]] [[integer]] indicating the location of [[data]] within a [[vector]] or vector based [[multidimensional array]].
-# {{computing}} A [[key]] indicating the location of [[data]] or an [[object]], e.g. within a [[database]] [[table]], [[associative array]], or [[hash table]].
-# {{computing|databases}} A [[data structure]] that improves the [[performance]] of operations on a [[table]].
 # {{economics}} a single number calculated from an array of prices or of quantities.
+# {{programming|computing}} An [[integer]] or other [[key]] indicating the location of [[data]] e.g. within a [[vector]], [[database]] [[table]], [[associative array]], or [[hash table]].
+# {{computing|databases}} A [[data structure]] that improves the [[performance]] of operations on a [[table]].
 
 ====Synonyms====
 <!-- These synonyms may be ready for moving into thesaurus. -->
@@ -50,7 +49,7 @@ From {{etyl|la}} {{term|index||a discoverer, informer, spy; of things, an indica
 * [[indicia]]
 
 ====Translations====
-{{trans-top|alphabetical list}}
+{{trans-top|alphabetical listing}}
 * [[Afrikaans]]: [[indeks]]
 * {{trreq|Albanian}}
 * Arabic: {{Arab|[[دليل]]}} (dalíl) {{m}}
@@ -104,6 +103,10 @@ From {{etyl|la}} {{term|index||a discoverer, informer, spy; of things, an indica
 * Welsh: [[dangoseg]], [[ddangoseg]], [[fynegai]], [[mynegai]], [[nangoseg]]
 {{trans-bottom}}
 
+{{trans-top|linguistics: type of noun}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|index finger}}
 * {{trreq|Armenian}}
 * {{trreq|Bulgarian}}
@@ -130,19 +133,12 @@ From {{etyl|la}} {{term|index||a discoverer, informer, spy; of things, an indica
 * {{trreq|Swedish}}
 {{trans-bottom}}
 
-{{trans-top|location of data within a vector}}
-* Danish: {{t-|da|indeks|n}}
-* Finnish: {{t|fi|indeksi}}
-{{trans-mid}}
-* Georgian: {{t|ka|ხარისხის მაჩვენებელი|tr=xarisxis mač'venebeli|sc=Geor}}
-{{trans-bottom}}
-
-{{trans-top|location of data within an object}}
-* Danish: {{t-|da|indeks|n}}
+{{trans-top|sign, indication, token}}
+* Finnish: {{t|fi|merkki}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|single number calculated from an array of prices or of quantities}}
+{{trans-top|economics: single number calculated from an array of prices or quantities}}
 * Chinese:
 *: Mandarin: {{zh-ts|指數|指数}} (zhǐshù)
 * Czech: {{t-|cs|index|m}}
@@ -150,6 +146,13 @@ From {{etyl|la}} {{term|index||a discoverer, informer, spy; of things, an indica
 * Finnish: {{t|fi|indeksi}}
 * Georgian: {{t|ka|ინდექსი|tr=indek'si|sc=Geor}}
 * Italian: {{t+|it|indice|m}}
+{{trans-bottom}}
+
+{{trans-top|programming: key indicating location of data}}
+* Danish: {{t-|da|indeks|n}}
+* Finnish: {{t|fi|indeksi}}
+{{trans-mid}}
+* Georgian: {{t|ka|ხარისხის მაჩვენებელი|tr=xarisxis mač'venebeli|sc=Geor}}
 {{trans-bottom}}
 
 ====References====
