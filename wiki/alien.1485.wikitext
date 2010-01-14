@@ -33,7 +33,7 @@ From [[Latin]] [[alienus|aliēnus]], "belonging to someone else", then "exotic, 
 * Bulgarian: {{t+|bg|чужденец}}
 * [[Catalan]]: {{t+|ca|estrany|m}}, {{t-|ca|estranya|f}}; {{t-|ca|foraster|m}}, {{t-|ca|forastera|f}}
 * Chinese:
-*: Mandarin: [[異客]], [[异客]] (yìkè), [[陌生人]] (mòshēngrén),  {{t|zh|異客|sc=Hani}},  {{t|zh|异客|tr=yìkè|sc=Hani}},  {{t|zh|陌生人|tr=mòshēngrén|sc=Hani}}
+*: Mandarin: {{t|zh|異客|sc=Hani}},  {{t|zh|异客|tr=yìkè|sc=Hani}},  {{t|zh|陌生人|tr=mòshēngrén|sc=Hani}}
 * Czech: {{t-|cs|cizinec|m}}
 * Dutch: {{t+|nl|vreemdeling}}
 * French: {{t+|fr|étranger|m}}, {{t+|fr|étrangère|f}}
@@ -42,22 +42,22 @@ From [[Latin]] [[alienus|aliēnus]], "belonging to someone else", then "exotic, 
 {{trans-mid}}
 * Hungarian: {{t+|hu|idegen}}
 * Italian: {{t+|it|straniero|m}}
-* Japanese: [[外国人]] (gaikokujin); [[外人]] (gaijin) (''colloquially''); [[異国人]] (ikokujin); [[異邦人]] (ihōjin),  {{t|ja|外国人|tr=がいこくじん, gaikokujin|sc=Jpan}},  {{qualifier|colloquial}} {{t|ja|外人|tr=がいじん, gaijin|sc=Jpan}},  {{t|ja|異国人|tr=いこくじん, ikokujin|sc=Jpan}},  {{t|ja|異邦人|tr=いほうじん, ihōjin|sc=Jpan}}
-* Korean: [[외국인]] (waegugin); [[이국인]] (igugin),  {{t|ko|외국인|tr=waegug-in|sc=Kore}},  {{t|ko|外国人|sc=Kore}},  {{t|ko|이국인|tr=igug-in|sc=Kore}},  {{t|ko|異国人|sc=Kore}}
+* Japanese: {{t|ja|外国人|tr=がいこくじん, gaikokujin|sc=Jpan}}, {{t|ja|外人|tr=がいじん, gaijin|sc=Jpan}} {{qualifier|colloquial}},  {{t|ja|異国人|tr=いこくじん, ikokujin|sc=Jpan}},  {{t|ja|異邦人|tr=いほうじん, ihōjin|sc=Jpan}}
+* Korean: {{t|ko|외국인|tr=waegug-in|sc=Kore}} ({{t|ko|外国人|sc=Kore}}),  {{t|ko|이국인|tr=igug-in|sc=Kore}} ({{t|ko|異国人|sc=Kore}})
 * Polish: {{t+|pl|obcy|m}}
 * Romanian: [[străin]], [[alien]] {{m}} [[străină]], [[alienă]] {{f}}
-* Russian: {{t+|ru|чужак|m|tr=čužák}}, {{t+|ru|пришелец|m|tr=prišél'ec}}
+* Russian: {{t+|ru|чужак|m|tr=čužák}}, {{t+|ru|пришелец|m|tr=prišélec}}
 * Spanish: {{t-|es|desconocido|m}}, {{t-|es|desconocida|f}}
 * Swedish: {{t-|sv|främling}}
 {{trans-bottom}}
 
 {{trans-top|foreigner}}
 * Albanian: [[huaj]] (i/e)
-* Arabic: {{Arab|[[أجنبي]]}} (ajnabiy)
+* Arabic: {{t|ar|أجنبي|m|tr='ajnabiy}}
 * Bulgarian: {{t+|bg|чужденец}}
 * [[Catalan]]: {{t-|ca|foraster|m}}, {{t-|ca|forastera|f}}; {{t+|ca|estrany|m}}, {{t-|ca|estranya|f}}
 * Chinese:
-*: Mandarin: [[外国人]] (wàiguórén), [[外人]] (wàirén)
+*: Mandarin: {{t-|cmn|外國人|sc=Hani}}, {{t-|cmn|外国人|tr=wàiguórén|sc=Hani}}, {{t|cmn|外人|tr=wàirén|sc=Hani}}, {{t|cmn|老外|tr=lǎowài|sc=Hani}} {{qualifier|colloquial}}
 * Czech: {{t-|cs|cizinec|m}}
 * Dutch: [[buitenlander]], [[allochtoon]]
 * Finnish: {{t+|fi|muukalainen}}, {{t+|fi|ulkomaalainen}}, {{t-|fi|vierasmaalainen}}
@@ -67,13 +67,14 @@ From [[Latin]] [[alienus|aliēnus]], "belonging to someone else", then "exotic, 
 * Greek: {{t+|el|ξένος|m}}, {{t+|el|ξένη|f}}, {{t+|el|αλλοδαπός|c}}
 * Hungarian: {{t+|hu|idegen}}
 * Italian: {{t+|it|straniero|m}}, {{t+|it|forestiero|m}}
-* Japanese: [[外国人]] (gaikokujin); [[外人]] (gaijin)
-* Korean: [[외국인]] (waegugin)
+* Japanese: {{t|ja|外国人|tr=がいこくじん, gaikokujin|sc=Jpan}}, {{t|ja|外人|tr=がいじん, gaijin|sc=Jpan}} {{qualifier|colloquial}}
+* Korean: {{t|ko|외국인|tr=waegug-in|sc=Kore}} ({{t|ko|外国人|sc=Kore}}),  {{t|ko|이국인|tr=igug-in|sc=Kore}} ({{t|ko|異国人|sc=Kore}})
 * Polish: {{t+|pl|cudzoziemiec|m}}, {{t+|pl|obcokrajowiec|m}}
 * Portuguese: {{t+|pt|estrangeiro|m}}
-* Romanian: [[străin]], [[alien]] {{m}} [[străină]], [[alienă]] {{f}}
-* Russian: {{t+|ru|иностранец|m|tr=inostránets}}
+* Romanian: {{t+|ro|străin|m}}, {{t|ro|alien|m}}, [[străină]], [[alienă]] {{f}}
+* Russian: {{t+|ru|иностранец|m|tr=inostránec}},  {{t|ru|чужеземец|m|tr=čužezémec}}
 * Spanish: {{t+|es|extranjero|m}}, {{t-|es|extranjera|f}}
+* Thai: {{t+|th|ฝรั่ง|tr=farang}}
 {{trans-bottom}}
 
 {{trans-top|life form of non-Earth origin}}
