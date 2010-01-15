@@ -94,7 +94,7 @@ The use of the word '''but''' preceded by a comma is also considered incorrect b
 * Persian: {{fa-Arab|[[بجز]]}} (bejoz)
 * Polish: [[oprócz]], [[z wyjątkiem]]
 * Portuguese: {{t+|pt|exceto}}, {{t+|pt|salvo}}
-* Russian: [[кроме]] (króme), [[лишь]] (liš’)
+* Russian: {{t|ru|кроме|tr=króme|sc=Cyrl}}, {{t|ru|лишь|tr=liš’|sc=Cyrl}}
 * [[Scottish Gaelic]]: [[ach]]
 * Serbian: {{t-|sr|sem}}
 * Slovak: [[okrem]]
@@ -108,11 +108,12 @@ The use of the word '''but''' preceded by a comma is also considered incorrect b
 
 {{trans-top|rather}}
 * [[Afrikaans]]: {{t-|af|maar|xs=Afrikaans}}
-* Arabic: {{Arab|[[لاكن]]}} (lākin, lākinna),  {{t|ar|لاكن|tr=laakin, laakinna|sc=Arab}}
+* Arabic: {{t|ar|لاكن|tr=laakin, laakinna|sc=Arab}}
 * Armenian: {{t-|hy|բայց|tr=bayts}}
 * [[Basque]]: {{t|eu|baina}}
 * [[Catalan]]: [[però]]
-* Chinese: [[可是]] (kěshì), [[但是]] (dànshì), [[不過]], [[不过]] (búguò)
+* Chinese:
+*: Mandarin: {{t|zh|可是|tr=kěshì|sc=Hani}},  {{t|zh|但是|tr=dànshì|sc=Hani}},  {{t|zh|不過|sc=Hani}},  {{t|zh|不过|tr=búguò|sc=Hani}}
 * Czech: [[ale]], [[jenže]]
 * Danish: {{t+|da|men}}
 * Dutch: {{t+|nl|maar}}, {{t+|nl|echter}}
@@ -122,19 +123,19 @@ The use of the word '''but''' preceded by a comma is also considered incorrect b
 * French: {{t+|fr|mais}}, {{t+|fr|cependant}}
 * German: {{t+|de|sondern}}
 * Greek: [[ωστόσο]] (ostóso), [[μολαταύτα]] (molatáfta), [[εντούτοις]] (edútis), [[όμως]] (ómos), [[μα]] (ma)
-* Hebrew: אבל (aval), [[אולם]] (ulam), [[אך]] (akh), [[ברם]] (bram),  {{t|he|אבל|tr=aval|sc=Hebr}},  {{t|he|אולם|tr=ulam|sc=Hebr}},  {{t|he|אך|tr=akh|sc=Hebr}},  {{t|he|ברם|tr=bram|sc=Hebr}}
+* Hebrew: {{t|he|אבל|tr=aval|sc=Hebr}},  {{t|he|אולם|tr=ulam|sc=Hebr}},  {{t|he|אך|tr=akh|sc=Hebr}},  {{t|he|ברם|tr=bram|sc=Hebr}}
+* Hindi: {{t|hi|लेकिन|tr=lekin|sc=Deva}}
 * Hungarian: {{t+|hu|de}}, {{t+|hu|viszont}}, {{t+|hu|hanem}}, {{t+|hu|azonban}}
 * Indonesian: {{t-|id|namun|xs=Indonesian}}
 * Irish: {{t-|ga|ach|xs=Irish}}
 * Italian: {{t+|it|ma}}, {{t+|it|però}}, {{t+|it|tuttavia}}
-* Japanese: [[が]] (ga), [[けれど]] (keredo), [[けれども]] (keredomo), [[けど]] (kedo), [[しかし]] (shikashi), [[でも]] (demo)
+* Japanese: {{t|ja|が|tr=ga|sc=Jpan}},  {{t|ja|けれど|tr=keredo|sc=Jpan}}, {{t|ja|けれども|tr=keredomo|sc=Jpan}}, {{t|ja|けど|tr=kedo|sc=Jpan}}, {{t|ja|しかし|tr=shikashi|sc=Jpan}}, {{t|ja|でも|tr=demo|sc=Jpan}}
 {{trans-mid}}
-* Korean: [[그러나]] (geureona),  {{t|ko|그러나|tr=geureona|sc=Kore}}
+* Korean: {{t|ko|그러나|tr=geureona|sc=Kore}}
 * Kurdish: {{ku-Arab|[[به‌ڵام]]}}, {{ku-Arab|[[هه‌روه‌ها]]}}
 * Latin: {{t|la|sed}}
 * Lithuanian: {{t+|lt|o|xs=Lithuanian}}
 * Maltese: [[iżda]], [[imma]]
-* Mandarin: {{t|zh|可是|tr=kěshì|sc=Hani}},  {{t|zh|但是|tr=dànshì|sc=Hani}},  {{t|zh|不過|sc=Hani}},  {{t|zh|不过|tr=búguò|sc=Hani}}
 * Navajo: {{tø|nv|ndi}}
 * [[Novial]]: [[ma]]
 * Old English: {{t-|ang|ac|xs=Old English}}
@@ -143,20 +144,24 @@ The use of the word '''but''' preceded by a comma is also considered incorrect b
 * Portuguese: {{t+|pt|mas}}, {{t+|pt|porém}}
 * Romanian: {{t+|ro|dar}}
 * [[Romansch]]: [[ma]], [[però]]
-* Russian: [[но#Russian|но]] (no), [[а#Russian|а]]
+* Russian: {{t|ru|но|tr=no|sc=Cyrl}}, {{t|ru|а|tr=a|sc=Cyrl}}
 * Slovak: {{t-|sk|ale}}, {{t-|sk|avšak}}
 * Slovene: {{t+|sl|a}}, {{t+|sl|ampak}}
 * Spanish: {{t+|es|pero}}
 * Swedish: {{t+|sv|utan}}
 * Turkish: {{t+|tr|ama}}
+* Urdu: {{t|ur|لیکن|tr=lekin|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|nhưng|xs=Vietnamese}}
 * [[West Frisian]]: {{t+|fy|mar|xs=West Frisian}}
 {{trans-bottom}}
 
 {{trans-top|although}}
 * [[Afrikaans]]: {{t-|af|maar|xs=Afrikaans}}
+* Arabic: {{t|ar|لاكن|tr=laakin, laakinna|sc=Arab}}
 * [[Basque]]: {{t|eu|baina}}, {{t|eu|nahiz eta}}
 * [[Catalan]]: [[però]], [[encara que]]
+* Chinese:
+*: Mandarin: {{t|zh|可是|tr=kěshì|sc=Hani}},  {{t|zh|但是|tr=dànshì|sc=Hani}},  {{t|zh|不過|sc=Hani}},  {{t|zh|不过|tr=búguò|sc=Hani}}
 * Czech: {{t+|cs|ale}}
 * Danish: {{t+|da|men}}
 * Dutch: {{t+|nl|maar}}
@@ -164,13 +169,13 @@ The use of the word '''but''' preceded by a comma is also considered incorrect b
 * Finnish: {{t+|fi|mutta}}
 * German: {{t+|de|aber}}, aber {{t+|de|trotzdem}}
 * Greek: [[μολονότι]] (molonóti), [[παρόλο]] (parólo), [[καίτοι]] (kéti), [[αν και]] (an ke)
-* Hebrew: [[אבל]] (aval)
+* Hebrew: {{t|he|אבל|tr=aval|sc=Hebr}}
 * Hindi: {{t|hi|लेकिन|tr=lekin|sc=Deva}}
 * Hungarian: {{t+|hu|de}}, {{t+|hu|viszont}}
 * Indonesian: [[kecuali]]
 * Italian: {{t+|it|ma}}, {{t+|it|però}}, {{t+|it|tuttavia}}
 {{trans-mid}}
-* Japanese: [[が]] (ga), [[でも]] (demo),  {{t|ja|が|tr=ga|sc=Jpan}},  {{t|ja|でも|tr=demo|sc=Jpan}}
+* Japanese: {{t|ja|が|tr=ga|sc=Jpan}},  {{t|ja|でも|tr=demo|sc=Jpan}}
 * Kurdish: {{ku-Arab|[[ئه‌گه‌ر چی]]}}
 * Maltese: [[iżda]]
 * Navajo: {{tø|nv|ndi}}
@@ -180,7 +185,7 @@ The use of the word '''but''' preceded by a comma is also considered incorrect b
 * Polish: {{t+|pl|ale}}, {{t+|pl|chociaż}}
 * Portuguese: {{t+|pt|embora}}
 * [[Romansch]]: [[cumbain che]]
-* Russian: [[но#Russian|но]] (no),  {{t|ru|но|tr=no|sc=Cyrl}}
+* Russian: {{t|ru|но|tr=no|sc=Cyrl}}
 * Slovene: {{t+|sl|čeprav}}
 * [[Sotho]]: {{t|st|empa|xs=Sotho}}
 * Spanish: {{t+|es|aunque}}
