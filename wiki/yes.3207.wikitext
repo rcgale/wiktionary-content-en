@@ -47,7 +47,7 @@
 *: Egyptian Arabic {{tø|arz|أيوة|tr='áywa|sc=Arab|xs=Egyptian Arabic}}, {{tø|arz|ايوه|tr='áywa|sc=Arab|xs=Egyptian Arabic}}, {{tø|arz|اه|tr='áa|sc=Arab|xs=Egyptian Arabic}}
 * Aramaic:
 *: Syriac: [[ܐܝܢ]] (’ēn)
-*: Hebrew: [[כן‎]] (kēn),  {{t|he|כן|tr=ken|alt=כֵּן|sc=Hebr}}
+*: Hebrew: [[כן‎]] (kēn)
 * Armenian: [[այո]] (ayo) (''polite''), [[հա]] (ha) (''informal'')
 * [[Basque]]: {{t|eu|bai}}
 * Belarusian: {{t-|be|так|tr=tak|xs=Belarusian}},  {{t|be|да|tr=da|sc=Cyrl}}
@@ -55,7 +55,6 @@
 * [[Chamicuro]]: {{tø|ccc|eje}}
 * Chinese:
 *: Mandarin: {{t-|cmn|是|tr=shì|sc=Hani}},  {{t-|cmn|對|sc=Hani}},  {{t-|cmn|对|tr=duì|sc=Hani}}; ''(repeating the verb/attribute used in the question to mean "yes" -你知道吗？ -知道)''
-* Croatian: {{t+|hr|da}}
 * Czech: {{t+|cs|ano}}, {{t+|cs|jo}} {{italbrac|colloquial}}
 * Danish: {{t+|da|ja}}
 * Dutch: {{t+|nl|ja}}
@@ -66,6 +65,7 @@
 * Georgian: {{t-|ka|დიახ|sc=Geor|xs=Georgian}}, {{t|ka|კი|sc=Geor|xs=Georgian}}, {{t|ka|ჰო|sc=Geor|xs=Georgian}}
 * German: {{t+|de|ja}}
 * Greek: {{t+|el|ναι}} (nai /ne/)
+* Hebrew: {{t|he|כן|tr=ken|alt=כֵּן|sc=Hebr}}
 * Hindi: {{t+|hi|हाँ|xs=Hindi}} (hā̃),  {{t|hi|जी|tr=jī|sc=Deva}},  {{t|hi|जी हाँ|tr=jī hā̃|sc=Deva}}
 * Hungarian: {{t+|hu|igen}}
 * Icelandic: {{t+|is|já}}
@@ -96,7 +96,7 @@
 * Romanian: {{t+|ro|da}}
 * Russian: {{t+|ru|да|tr=da}}
 * [[Saterland Frisian]]: {{tø|stq|jee}}
-* [[Serbo-Croatian]]: {{t|sh|да|sc=Cyrl}},  {{t|sh|da|sc=Cyrl}}
+* [[Serbo-Croatian]]: {{t|sh|да|sc=Cyrl}},  {{t|sh|da}}
 * [[Sicilian]]: [[sè]]
 * Slovak: {{t|sk|áno}}, {{t|sk|hej}} {{italbrac|colloquial}}, [[no#Slovak|no]] {{italbrac|informal}}
 * Slovene: {{t+|sl|da}}, {{t+|sl|ja}}
@@ -106,7 +106,7 @@
 * [[Tagalog]]: {{t+|tl|oo|xs=Tagalog}}
 * [[Taos]]: [[hą]]
 * [[Telugu]]: [[అవును]] (awunu), [[ఔను]] (aunu)
-* Thai: {{t|th|ใช่|tr=châi|sc=Thai}}, {{t|th|ครับ|tr=kráp|sc=Thai}} {{qualifier|male speaker}}, {{t|th|ค่ะ|tr=kâ|sc=Thai}} {{qualifier|female speaker}},  {{t|th|ถูก|tr=tòok|sc=Thai}}, {{t|th|อืม|tr=eum|sc=Thai}} {{qualifier|informal}}
+* Thai: {{t|th|ใช่|tr=châi|sc=Thai}}, {{t|th|ครับ|tr=kráp|sc=Thai}} {{qualifier|male speaker}}, {{t|th|ค่ะ|tr=kâ|sc=Thai}} {{qualifier|female speaker}},  {{t|th|ถูก|tr=tòok|sc=Thai}}, {{t|th|ถูกต้อง|tr=tòok dtông|sc=Thai}} {{qualifier|formal}}, {{t|th|อืม|tr=eum|sc=Thai}} {{qualifier|informal}}
 * Turkish: {{t+|tr|evet}}
 * Ukrainian: {{t|uk|так|tr=tak|sc=Cyrl}},  {{t|uk|да|tr=da|sc=Cyrl}} {{italbrac|less common}}
 * Urdu: {{t|ur|ھاں|tr=hā̃|sc=ur-Arab}} or {{t|ur|ہاں|tr=hā̃|sc=ur-Arab}},  {{t|ur|جی|tr=jī|sc=ur-Arab}},  {{t|ur|جی ہاں|tr=jī hā̃|sc=ur-Arab}}
@@ -138,7 +138,6 @@
 * {{ttbc|Albanian}}: [[po]]
 * {{ttbc|Arabic}}: {{Arab|[[أجل|أجَل]]}} (’ájal)
 * {{ttbc|Aymara}}: [[jisa]]
-* {{ttbc|Belarusian}}: [[так]] (tak)
 * {{ttbc|Bengali}}: [[হ্যাঁ]] (ɦæ̃)
 * {{ttbc|Bikol}}: [[oo]]
 * {{ttbc|Breton}}: [[ya#Breton|ya]] (1), [[eo#Breton|eo]], [[geo#Breton|geo]] (2)
@@ -149,15 +148,12 @@
 * {{ttbc|Garífuna}}: [[ayé]] {{italbrac|used by males}}, [[ayí]] {{italbrac|used by females}}
 * {{ttbc|Georgian}}: {{t|ka|დიახ|tr=diaχ}}, {{t|ka|კი|tr=ki}}, {{t|ka|ჰო}}
 * {{ttbc|Guaraní}}: [[heẽ]]
-* {{ttbc|Hebrew}}: [[כן]] (ken)
 * {{ttbc|Hiligaynon}}: [[huo]]
-* {{ttbc|Hindi}}: [[हाँ]] (hā̃)
 * {{ttbc|Ilokano}}: [[wen]]
 * {{ttbc|Interlingua}}: [[si]]
 * {{ttbc|Inuktitut}}: [[ᐄ]]
 * {{ttbc|Greenlandic}}: [[aap]]
 * {{ttbc|Kapampangan}}: [[wa]]
-* {{ttbc|Korean}}: [[예]] (ye), [[네]] (ne)
 * {{ttbc|Kurdish}}: [[belê]], [[erê]], [[a]], [[e]], {{ku-Arab|[[ئا]]}}, {{ku-Arab|[[به‌ڵێ]]}}
 * {{ttbc|Latin}}: [[ita]], [[ita vero]], [[sic]], [[recte]]
 {{trans-mid}}
@@ -172,7 +168,6 @@
 * {{ttbc|Swahili}}: [[ndiyo]], [[sawa]]
 * {{ttbc|Tagalog}}: [[oo]]
 * {{ttbc|Tausug}}: [[huun]]
-* {{ttbc|Thai}}: {{Thai|[[ใช่]]}} (châi), {{Thai|[[ถูก]]}} (tòok) {{Thai|[[ถูกต้อง]]}} (tòok dtông) {{italbrac|formal}}, {{Thai|[[อืม]]}} (eum) {{italbrac|informal}}
 * {{ttbc|Tok Pisin}}: yes, [[yesa]]
 * {{ttbc|Tupinambá}}: [[pá]] {{italbrac|said by men}}; [[e'ẽ]] {{italbrac|said by men and women}}
 * {{ttbc|Tzutujil}}: ''ken''
@@ -183,7 +178,6 @@
 ** [[phải]] in response to a question containing ''phải''
 ** [[rồi]] in response to a question containing ''[[chưa]]''
 * {{ttbc|Welsh}}: [[ie]] {{italbrac|ee-ya; commonly used in English, shown as '''[[yeah]]'''}}
-* {{ttbc|Yiddish}}: {{t|yi|יאָ|tr=yo}}
 {{trans-bottom}}
 
 ====Usage notes====
