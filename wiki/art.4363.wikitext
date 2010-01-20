@@ -419,7 +419,7 @@ From {{etyl|la|sq}} {{term|ars|lang=la}}.
 ==Catalan==
 
 ===Noun===
-'''art''' ''f and m'' (''plural:'' '''arts''' {{f}})
+{{infl|ca|noun|epicene|plural|arts}} {{f}}
 
 # [[#English|art]] (''something pleasing to the mind'')
 
@@ -496,25 +496,40 @@ From {{etyl|la|fr}} {{term|artem|lang=la}}, accusative singular of {{term|ars|la
 ==Latvian==
 
 ===Verb===
-'''art'''
+{{infl|lv|verb}}
 
 # [[plough]]
-
-[[Category:Latvian verbs]]
 
 ----
 
 ==Maltese==
 
 ===Etymology===
-From Arabic [[ارض]] (’arɖ)
+From {{etyl|ar|mt}} {{term|ارض|tr=’arɖ|lang=ar}}.
 
 ===Noun===
-'''art''' {{f}}
+{{infl|mt|noun|g=f}}
 
 # [[earth]]
 
-[[Category:Maltese nouns]]
+----
+
+==Old Irish==
+
+===Etymology===
+From {{proto|Celtic|arto-|bear|lang=sga}} (cf. Cornish {{term|arth|lang=kw}}, Welsh {{term|arth|lang=cy}}) < {{proto|Indo-European|h₂ŕ̥tḱos|bear|lang=sga}}.
+
+===Noun===
+{{infl|sga|noun|g=m}}
+
+# [[bear]]
+
+====Synonyms====
+* {{l|sga|beithir}}
+* {{l|sga|mathgamain}}
+* {{l|sga|milchobur}}
+
+[[Category:sga:Mammals]]
 
 ----
 
@@ -525,7 +540,7 @@ From Arabic [[ارض]] (’arɖ)
 * {{audio|Sv-art.ogg|audio}}
 
 ===Noun===
-'''art'''
+{{infl|sv|noun}}
 
 # [[species]]
 
@@ -534,11 +549,9 @@ From Arabic [[ارض]] (’arɖ)
 ==Turkish==
 
 ===Noun===
-'''art'''
+{{infl|tr|noun}}
 
 # [[back]]
-
-[[Category:Turkish nouns]]
 
 [[ar:art]]
 [[zh-min-nan:art]]
