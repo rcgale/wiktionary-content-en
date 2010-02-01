@@ -211,13 +211,15 @@ From {{etyl|la}} {{term|acta|ācta|register of events|lang=la}}, plural of {{ter
 #: ''He's '''acting''' strangely - I think there's something wrong with him.''
 # {{context|copulative}} To convey an appearance of being.
 #: ''He '''acted''' unconcerned so the others wouldn't worry.''
-# {{intransitive}} To have an effect on.
+# {{intransitive|construed with '''[[on]]''' or '''[[upon]]'''}} To have an [[effect]] (on).
 #: ''High-pressure oxygen '''acts''' on the central nervous system and may cause convulsions or death.''
 #: ''Gravitational force '''acts''' on heavy bodies.''
 # {{transitive}} To play (a [[role]]).
 #: ''He's been '''acting''' Shakespearean leads since he was twelve.''
 # {{transitive}} To [[feign]].
 #: ''He '''acted''' the angry parent, but was secretly amused.''
+# {{mathematics|intransitive|construed with '''[[on]]''' or '''[[upon]]'''|of a [[group]]}} To [[map]] via a [[homomorphism]] to a group of [[automorphism]]s (of).
+#: ''This group '''acts''' on the circle, so it can't be left-orderable!''
 
 ====Derived terms====
 {{rel-top|terms derived from ''act (verb)''}}
@@ -306,7 +308,9 @@ From {{etyl|la}} {{term|acta|ācta|register of events|lang=la}}, plural of {{ter
 * German: {{t+|de|wirken}}, {{t+|de|agieren}}
 * Greek: {{t+|el|επενεργώ}}
 {{trans-bottom}}
-
+{{trans-top|to map to a group of automorphisms}}
+{{trans-mid}}
+{{trans-bottom}}
 {{checktrans-top}}
 * {{ttbc|Chemehuevi}}: [[tɨ'gai]]
 * {{ttbc|French}}: [[faire]] (1), [[jouer]] (2), [[se comporter]] (3), [[réagir]] (4), [[agir]] (1, 5)
