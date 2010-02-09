@@ -194,7 +194,7 @@
 * [[Chickasaw]]: [[homa]]
 * Chinese:
 *: Cantonese: {{tø|yue|紅}},  {{tø|yue|红|tr=hung4}}
-*: Mandarin: {{t-|zh|紅|sc=Hani}},  {{t-|zh|红|tr=hóng|sc=Hani}},  {{t|zh|紅色|sc=Hani}},  {{t|zh|红色|tr=hóngsè|sc=Hani}}
+*: Mandarin: {{t-|cmn|紅|sc=Hani}},  {{t-|cmn|红|tr=hóng|sc=Hani}},  {{t-|cmn|紅色|sc=Hani}},  {{t-|cmn|红色|tr=hóngsè|sc=Hani}}
 * [[Chuvash]]: {{tø|cv|хĕрлĕ|tr=xĕrle}}
 * Croatian: {{t+|hr|crven}}
 * Czech: {{t+|cs|červený|m}}
@@ -208,12 +208,12 @@
 * Finnish: {{t+|fi|punainen}}
 * French: {{t+|fr|rouge}}
 * [[Galician]]: {{t+|gl|vermello|xs=Galician}}
-* Georgian: {{t|ka|წითელი|tr=ts‘it‘eli|sc=Geor}}
+* Georgian: {{t-|ka|წითელი|tr=ts‘it‘eli|sc=Geor|xs=Georgian}}
 * German: {{t+|de|rot}}
 * Greek: {{t+|el|ερυθρός|m|tr=erithros}}, {{t+|el|κόκκινος|m|tr=kokinos}}, {{t+|el|άλικος|m|tr=alikos}}
 * [[Greenlandic]]: {{t+|kl|aappaluttoq|xs=Greenlandic}}
 * Hawaiian: [['ula]]
-* Hebrew: {{t|he|אדום|m|tr=adom|alt=אָדוֹם|sc=Hebr}} or {{t|he|אדם|m|tr=adom|alt=אָדֹם|sc=Hebr}},  {{t|he|אדמה|f|tr=aduma|alt=אָדֻּמהָ|sc=Hebr}} or {{t|he|אדומה|f|tr=aduma|alt=אָדּוּמָה|sc=Hebr}}
+* Hebrew: {{t+|he|אדום|m|alt=אָדוֹם|tr=adom}} or {{t+|he|אדם|m|alt=אָדֹם|tr=adom}},  {{t+|he|אדמה|f|alt=אָדֻּמהָ|tr=aduma}} or {{t|he|אדומה|f|alt=אָדּוּמָה|tr=aduma}}
 * Hindi: {{t+|hi|लाल|xs=Hindi}} (lāl)
 * Hungarian: {{t+|hu|piros}}, {{t+|hu|vörös}}
 * Icelandic: {{t+|is|rauður}}
@@ -227,17 +227,17 @@
 * {{trreq|Kannada}}
 * [[Khmer]]: {{Khmr|[[ក្រហម]]}} (grəhorm)
 {{trans-mid}}
-* Korean: {{t|ko|빨간|tr=ppalgan|sc=Kore}},  {{t|ko|붉은|tr=bulgeun|sc=Kore}}
+* Korean: {{t|ko|빨간|tr=ppalgan}},  {{t|ko|붉은|tr=bulgeun}}
 * Kurdish:
 *: Sorani: {{t|ku|سوور|tr=sur|sc=ku-Arab}}
 * Latin: [[rubeus]], [[rufus]], [[ruber]], [[rubidus]], [[russeus]], [[vermiculus]], [[rubicundus]]
 * Latvian: [[sarkans]]
-* Lithuanian: [[raudonas]]
-* [[Macedonian]]: {{t|mk|црвен|tr=crven|sc=Cyrl}}
+* Lithuanian: {{t-|lt|raudonas|xs=Lithuanian}}
+* [[Macedonian]]: {{t-|mk|црвен|tr=crven}}
 * Malay: {{t+|ms|merah|xs=Malay}}
 * Maltese: {{t|mt|aħmar|m|xs=Maltese}}
 * Maori: {{t-|mi|whero|xs=Maori}}
-* Mongolian: {{t|mn|улаан|tr=ulaan|sc=Cyrl}}
+* Mongolian: {{t|mn|улаан|tr=ulaan|sc=Cyrl|xs=Mongolian}}
 * Navajo: {{tø|nv|łichííʼ}}
 * Norwegian: {{t+|no|rød}}
 * [[Nottoway-Meherrin]]: {{tø|nwy|ganuntquare}}
@@ -246,7 +246,7 @@
 * Old English: {{t-|ang|read|alt=rēad|xs=Old English}}
 * Ossetic: {{tø|os|сырх|tr=syrx|sc=Cyrl|xs=Ossetian}}
 * [[Papiamentu]]: {{tø|pap|korá}}
-* Persian: {{t+|fa|قرمز|tr=qermez|xs=Persian}}, {{t-|fa|سرخ|tr=sorkh|xs=Persian}},  {{t|fa|بور|tr=bōr|sc=fa-Arab}}
+* Persian: {{t+|fa|قرمز|tr=qermez|xs=Persian}}, {{t-|fa|سرخ|tr=sorkh|xs=Persian}},  {{t-|fa|بور|tr=bōr|xs=Persian}}
 * Polish: {{t+|pl|czerwony}}
 * Portuguese: [[vermelho]], [[rubro]], [[rufo]], [[rúbeo]], [[rubente]], [[rúbido]], [[rússeo]], [[ruge]], [[escarlate]], [[rubicundo]]
 * [[Rohingya]]: [[lal]]
@@ -261,7 +261,7 @@
 *: Roman: [[crvena#Serbian|crvena]] {{f}}
 * [[Sicilian]]: [[russu]] {{m}}
 * Slovak: {{t-|sk|červený}}
-* Slovene: {{t|sl|rdeč}}
+* Slovene: {{t+|sl|rdeč}}
 * Spanish: [[rojo]], [[colorado]], [[rubicundo]], [[rubro]], [[rufo]], [[rúbeo]]
 * Swahili: {{t+|sw|nyekundu|xs=Swahili}}
 * Swedish: {{t+|sv|röd}}
@@ -269,15 +269,15 @@
 * {{trreq|Tamil}}
 * [[Tatar]]: {{t-|tt|кызыл|sc=Cyrl|xs=Tatar}}
 * [[Telugu]]: [[ఎర్ర]], [[ఎర్రని]]
-* Thai: {{t|th|แดง|tr=daeng|sc=Thai}},  {{t|th|สีแดง|tr=sĕe daeng|sc=Thai}}
+* Thai: {{t-|th|แดง|tr=daeng}},  {{t|th|สีแดง|tr=sĕe daeng}}
 * Turkish: [[kırmızı]], [[al]], [[kızıl]]-
 * Turkmen: {{t|tk|gyzyl|xs=Turkmen}}
-* Ukrainian: {{t|uk|червоний|tr=červónyj|sc=Cyrl}}
-* Urdu: {{t|ur|لال|tr=lāl|sc=ur-Arab}}
-* Vietnamese: {{t|vi|đỏ}},  {{t|vi|hồng}} ({{t|vi|紅}})
+* Ukrainian: {{t|uk|червоний|tr=červónyj|xs=Ukrainian}}
+* Urdu: {{t-|ur|لال|tr=lāl|xs=Urdu}}
+* Vietnamese: {{t+|vi|đỏ|xs=Vietnamese}},  {{t+|vi|hồng|xs=Vietnamese}} ({{t-|vi|紅|sc=Hani|xs=Vietnamese}})
 * Welsh: {{t-|cy|coch|xs=Welsh}}
 * [[West Frisian]]: [[read]]
-* Yiddish: {{t|yi|רויט|tr=royt|sc=yi-Hebr}}
+* Yiddish: {{t-|yi|רויט|tr=royt|sc=yi-Hebr|xs=Yiddish}}
 {{trans-bottom}}
 
 {{trans-top|of hair: orange-brown}}
