@@ -31,8 +31,8 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 ====Translations====
 {{trans-top|rules for speaking and writing a language}}
 * Albanian: {{t-|sq|gramatikë|f|xs=Albanian}}
-* [[Amharic]]: {{t|am|ሰዋሰው|sc=Ethi|xs=Amharic}}
-* Arabic: {{t|ar|قواعد|p|tr=qawaa3id|sc=Arab}},  {{t|ar|نحو|m|tr=naHw|sc=Arab}}
+* [[Amharic]]: {{t-|am|ሰዋሰው|sc=Ethi|xs=Amharic}}
+* Arabic: {{t-|ar|قواعد|p|tr=qawaa3id}},  {{t|ar|نحو|m|tr=naHw}}
 * [[Aragonese]]: {{t|an|gramatica|xs=Aragonese}}
 * Armenian: [[քերականություն]] (k'eraknutyun)
 * [[Asturian]]: {{t-|ast|gramática|xs=Asturian}}
@@ -41,7 +41,7 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * Bulgarian: {{t+|bg|граматика|f}}
 * [[Catalan]]: [[gramàtica]] {{f}}
 * Chinese:
-*: Mandarin: {{t|zh|語法|sc=Hani}},  {{t|zh|语法|tr=yǔfǎ|sc=Hani}},  {{t|zh|文法|tr=wénfǎ|sc=Hani}}
+*: Mandarin: {{t-|cmn|語法|sc=Hani}},  {{t-|cmn|语法|tr=yǔfǎ|sc=Hani}},  {{t-|cmn|文法|tr=wénfǎ|sc=Hani}}
 * Croatian: {{t+|hr|gramatika|f|alt=gramàtika}}, {{t-|hr|slovnica|f|alt=slóvnica}}
 * Czech: {{t-|cs|mluvnice|f}}, {{t-|cs|gramatika|f}}
 * Danish: {{t-|da|grammatik}}
@@ -54,13 +54,13 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * German: {{t+|de|Grammatik|f}}
 * Greek: {{t+|el|γραμματική|f|tr=ɣramatikí}}
 * Hebrew: {{t-|he|דקדוק|m|alt=דִּקְדּוּק|tr=dikduk}}
-* Hindi: {{t+|hi|व्याकरण|m|tr=vyākaraṇ|sc=Deva}},  {{t|hi|ब्याकरण|m|tr=byākaraṇ|sc=Deva}}
+* Hindi: {{t+|hi|व्याकरण|m|tr=vyākaraṇ|xs=Hindi}},  {{t|hi|ब्याकरण|m|tr=byākaraṇ|xs=Hindi}}
 * Hungarian: {{t+|hu|nyelvtan}}
 * [[Interlingua]]: [[grammatica]]
 * Italian: {{t+|it|grammatica|f}}
-* Japanese: {{t|ja|文法|tr=ぶんぽう, bunpō|sc=Jpan}}
+* Japanese: {{t+|ja|文法|tr=ぶんぽう, bunpō}}
 * [[Kannada]]: {{t|kn|ವ್ಯಾಕರಣ|sc=Knda|xs=Kannada}}
-* Korean: {{t|ko|문법|tr=munbeob|sc=Kore}} ({{t|ko|文法|sc=Kore}})
+* Korean: {{t+|ko|문법|tr=munbeob}} ({{t+|ko|文法}})
 {{trans-mid}}
 * Kurdish:
 *: Sorani: {{t|ku|ڕێزمان|tr=RaezmAn|sc=ku-Arab}}
@@ -73,7 +73,7 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * Norwegian: {{t+|no|grammatikk}}
 * [[Novial]]: [[gramatike]]
 * [[Occitan]]: {{t-|oc|gramatica|f|xs=Occitan}}
-* Persian: {{t-|fa|دستور زبان|tr=dasture zaban|sc=fa-Arab}}
+* Persian: {{t-|fa|دستور زبان|tr=dasture zaban|xs=Persian}}
 * Polish: {{t+|pl|gramatyka|f}}
 * Portuguese: {{t+|pt|gramática|f}}
 * Romanian: {{t-|ro|gramatică|f}}
@@ -87,17 +87,17 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * [[Tagalog]]: [[balarila]]
 * [[Tajik]]: {{t-|tg|дастури забон|sc=Cyrl|xs=Tajik}}
 * [[Telugu]]: {{t|te|నామవాచకం}}
-* Thai: {{t|th|ไวยากรณ์|tr=wai-yaa-gon|sc=Thai}}
+* Thai: {{t|th|ไวยากรณ์|tr=wai-yaa-gon}}
 * Turkish: {{t+|tr|gramer}}, {{t+|tr|dil bilgisi}}
-* Urdu: {{t|ur|ویاکرن|m|tr=vyākaraṇ|sc=ur-Arab}}
-* Vietnamese: {{t|vi|ngữ pháp}} ({{t|vi|語法}})
+* Urdu: {{t|ur|ویاکرن|m|tr=vyākaraṇ|xs=Urdu}}
+* Vietnamese: {{t|vi|ngữ pháp|xs=Vietnamese}} ({{t-|vi|語法|sc=Hani|xs=Vietnamese}})
 * Welsh: {{t|cy|gramadeg|xs=Welsh}}
 * Yiddish: {{t|yi|גראמאטיק|tr=gramatik|xs=Yiddish}}
 {{trans-bottom}}
 
 {{trans-top|study of internal structure and use of words}}
 * Albanian: {{t-|sq|gramatikë|f|xs=Albanian}}
-* Arabic: {{t|ar|علم قواعد|m|tr=3ilm qawaa3id|sc=Arab}}
+* Arabic: {{t|ar|علم قواعد|m|tr=3ilm qawaa3id}}
 * [[Catalan]]: gramàtica
 * Croatian: {{t+|hr|gramatika|f|alt=gramàtika}}
 * Finnish: {{t+|fi|kielioppi}}
@@ -105,7 +105,7 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * Greek: {{t+|el|γραμματική|f|tr=ɣramaticí}}
 * [[Interlingua]]: [[grammatica]]
 * Italian: {{t+|it|grammatica|f}}
-* Japanese: {{t|ja|文法|tr=ぶんぽう, bunpō|sc=Jpan}}
+* Japanese: {{t+|ja|文法|tr=ぶんぽう, bunpō}}
 * [[Macedonian]]: {{t-|mk|граматика|f|tr=gramátika}}
 {{trans-mid}}
 * [[Novial]]: [[gramatike]]
@@ -122,7 +122,7 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 {{trans-bottom}}
 
 {{trans-top|book describing grammar}}
-* Arabic: {{t|ar|قواعد|p|tr=qawaa3id|sc=Arab}}
+* Arabic: {{t-|ar|قواعد|p|tr=qawaa3id}}
 * [[Catalan]]: [[gramàtica]]
 * Croatian: {{t+|hr|gramatika|f|alt=gramàtika}}, {{t-|hr|slovnica|f|alt=slóvnica}}
 * Finnish: [[kielioppikirja]]
@@ -131,7 +131,7 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * [[Interlingua]]: [[grammatica]]
 * Italian: {{t+|it|grammatica|f}}
 {{trans-mid}}
-* Japanese: [[文法書]] ([[ぶんぽうしょ]], bunpōsho),  {{t|ja|文法書|tr=ぶんぽうしょ, bunpōsho|sc=Jpan}}
+* Japanese: [[文法書]] ([[ぶんぽうしょ]], bunpōsho),  {{t|ja|文法書|tr=ぶんぽうしょ, bunpōsho}}
 * [[Macedonian]]: {{t-|mk|граматика|f|tr=gramátika}}
 * [[Novial]]: [[gramatike]]
 * Portuguese: {{t+|pt|gramática|f}}
@@ -142,16 +142,16 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 {{trans-bottom}}
 
 {{trans-top|in computing: formal system specifying the syntax of a language}}
-* Arabic: {{t|ar|قواعد|p|tr=qawaa3id|sc=Arab}}
+* Arabic: {{t-|ar|قواعد|p|tr=qawaa3id}}
 * Chinese:
-*: Mandarin: {{t|zh|語法|sc=Hani}},  {{t|zh|语法|tr=yǔfǎ|sc=Hani}}
+*: Mandarin: {{t-|cmn|語法|sc=Hani}},  {{t-|cmn|语法|tr=yǔfǎ|sc=Hani}}
 * Croatian: {{t+|hr|gramatika|f|alt=gramàtika}},
 * Czech: {{t-|cs|gramatika|f}}
 * Finnish: {{t+|fi|kielioppi}}
 * French: {{t+|fr|grammaire|f}}
 {{trans-mid}}
 * Greek: {{t+|el|γραμματική|f|tr=ɣramaticí}}
-* Japanese: {{t|ja|文法|tr=ぶんぽう, bunpō|sc=Jpan}}
+* Japanese: {{t+|ja|文法|tr=ぶんぽう, bunpō}}
 * [[Macedonian]]: {{t-|mk|граматика|f|tr=gramátika}}
 * [[Novial]]: [[gramatike]]
 * Portuguese: {{t+|pt|gramática|f}}
