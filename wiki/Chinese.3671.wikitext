@@ -389,7 +389,7 @@
 * [[Afrikaans]]: [[Sjinees]]
 * Albanian: [[Kineze]]
 * [[American Sign Language]]: [[1@Shoulder-FingerBack 1@Shoulder-FingerBack 1@Abdomen-FingerBack]]
-* Arabic: {{t|ar|صينية|f|tr=Siníyya|sc=Arab}},  {{t|ar|الصينية|f|tr=al-Siníyya|sc=Arab}},  {{t|ar|صيني|m|tr=Siiniy|sc=Arab}}
+* Arabic: {{t+|ar|صينية|f|tr=Siníyya}},  {{t|ar|الصينية|f|tr=al-Siníyya}},  {{t-|ar|صيني|m|tr=Siiniy}}
 * Armenian: {{t+|hy|չինարեն|tr=činaren}}
 * [[Azeri]]: [[чин]] (čin)
 * [[Basque]]: [[txinera]]
@@ -400,7 +400,7 @@
 * [[Catalan]]: [[xinès]] {{m}}, [[xinesa]] {{f}}
 * Chinese:
 *: Cantonese: [[中文]] (jūngm<u>à</u>n); [[普通话]] (póutūngwá); [[國語]]/[[国语]] (gwoky<u>ú</u>); [[漢語]]/[[汉语]] ([[Hanyu|Hony<u>ú</u>]]); [[華語]]/[[华语]] (W<u>à</u>y<u>ú</u>)
-*: Mandarin: {{t|zh|中文|tr=Zhōngwén|sc=Hani}},  {{t|zh|普通話|sc=Hani}},  {{t|zh|普通话|tr=Pǔtōnghuà|sc=Hani}},  {{t|zh|國語|sc=Hani}},  {{t|zh|国语|tr=Gúoyǔ|sc=Hani}},  {{t|zh|華語|sc=Hani}},  {{t|zh|华语|tr=Huáyǔ|sc=Hani}}
+*: Mandarin: {{t-|cmn|中文|tr=Zhōngwén|sc=Hani}},  {{t-|cmn|普通話|sc=Hani}},  {{t-|cmn|普通话|tr=Pǔtōnghuà|sc=Hani}},  {{t-|cmn|國語|sc=Hani}},  {{t-|cmn|国语|tr=Gúoyǔ|sc=Hani}},  {{t|cmn|華語|sc=Hani}},  {{t|cmn|华语|tr=Huáyǔ|sc=Hani}}
 *: Min Nan: [[Hàn-gí]]
 * [[Cornish]]: [[Chenek]]
 * Croatian: {{t+|hr|kineski}}
@@ -417,16 +417,16 @@
 * German: {{t+|de|Chinesisch|n}}
 * Greek: {{t+|el|κινέζικα|n|p|tr=kinézika}}
 * [[Gujarati]]: [[ચીની]] (chīnī)
-* Hebrew: {{t|he|סינית|f|tr=sinít|sc=Hebr}}
+* Hebrew: {{t-|he|סינית|f|tr=sinít}}
 * Hindi: {{t+|hi|चीनी|tr=chīnī|xs=Hindi}}
 * Hungarian: {{t+|hu|kínai}}
 * Icelandic: [[Kínverska]]
 * Indonesian: [[bahasa]] [[china]], [[bahasa]] [[mandarin]]
 * Irish: [[Sínis]]
 * Italian: {{t+|it|cinese|m}}
-* Japanese: {{t|ja|中国語|tr=ちゅうごくご, Chūgokugo|sc=Jpan}}
+* Japanese: {{t+|ja|中国語|tr=ちゅうごくご, Chūgokugo}}
 * Kazakh: {{Cyrl|[[Қытай]]}} (Qıtay)
-* Korean: {{t|ko|중국어|tr=Jungguk-eo|sc=Kore}} ({{t|ko|中國語|sc=Kore}})
+* Korean: {{t+|ko|중국어|tr=Jungguk-eo}} ({{t+|ko|中國語}})
 {{trans-mid}}
 * Kurdish: [[Çînî]], {{ku-Arab|[[چینی]]}}
 * Latin: [[Sinesis]], [[lingua Sinica]]
@@ -439,7 +439,7 @@
 * [[Manchu]]: [[nikan i gisun]]
 * [[Marathi]]: [[चीनी भाषा]] (chīnī bhāsā)
 * [[Moksha]]: [[Китаень]] (Kitaen’)
-* Mongolian: {{t|mn|хятад хэл|tr=hyátad hel|sc=Cyrl}}
+* Mongolian: {{t|mn|хятад хэл|tr=hyátad hel|sc=Cyrl|xs=Mongolian}}
 * Navajo: {{tø|nv|Tsii'yiish bizí diné'i' bizaad}}
 * Nepali: {{t-|ne|चीनियाँ|tr=chīniyān|sc=Deva|xs=Nepali}}
 * Norwegian: {{t+|no|kinesisk}}
@@ -448,7 +448,7 @@
 * Polish: {{t+|pl|chiński}}
 * Portuguese: {{t+|pt|chinês|m}}
 * Romanian: {{t+|ro|chineză}}
-* Russian: {{t+|ru|китайский язык|m|tr=kitájskij jazýk}}, {{t+|ru|китайский|m|tr=kitájskij}} ''colloq'',  {{t|ru|путунхуа|m|tr=putunxuá|sc=Cyrl}}
+* Russian: {{t+|ru|китайский язык|m|tr=kitájskij jazýk}}, {{t+|ru|китайский|m|tr=kitájskij}} ''colloq'',  {{t-|ru|путунхуа|m|tr=putunxuá}}
 * [[Scottish Gaelic]]: {{t-|gd|Sìonais|f|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: {{t-|sr|кинески|m|sc=Cyrl}}
@@ -461,11 +461,11 @@
 * [[Tagalog]]: [[Intsík]], [[Tsino]]
 * [[Tamil]]: [[சீனம்]] (chīnam)
 * [[Tatar]]: [[Кытай]] (Kıtay)
-* Thai: {{t|th|ภาษาจีน|tr=paasăa jiin|sc=Thai}}
+* Thai: {{t|th|ภาษาจีน|tr=paasăa jiin}}
 * Turkish: {{t+|tr|Çince}}
 * Ukrainian: [[китайський]] (kytájs’kyj)
-* Urdu: {{t|ur|چینی|tr=chīnī|sc=ur-Arab}}
-* Vietnamese: {{t|vi|tiếng Trung Quốc}},  {{t|vi|tiếng Hoa}},  {{t|vi|tiếng Hán}},  {{t|vi|tiếng Tàu}},  {{t|vi|Hán ngữ}}
+* Urdu: {{t-|ur|چینی|tr=chīnī|xs=Urdu}}
+* Vietnamese: {{t|vi|tiếng Trung Quốc|xs=Vietnamese}},  {{t|vi|tiếng Hoa|xs=Vietnamese}},  {{t|vi|tiếng Hán|xs=Vietnamese}},  {{t|vi|tiếng Tàu|xs=Vietnamese}},  {{t|vi|Hán ngữ|xs=Vietnamese}}
 * [[Walloon]]: [[Chinwès]]
 * Welsh: [[Tsieineeg]], [[Tseineg]]
 * [[West Frisian]]: [[Sineesk]]
@@ -505,11 +505,11 @@
 {{trans-mid}}
 * Italian: {{t+|it|cinese|m}}, {{t+|it|mandarino|m}}
 * Japanese: {{t|ja|北京官話|tr=ペキンかんわ, Pekin-kanwa}},  {{t|ja|北京官話|tr=ペキンかんわ, pekinkanwa}},  {{t|ja|北京語|tr=ぺきんご, Pekin-go}}
-* Korean: {{t|ko|중국보통어|tr=Jungguk-botong-eo}},  {{t|ko|북경어|tr=Buggyeong-eo}}, {{t|ko|보통화|tr=Botonghwa|sc=Hang}} ({{t|ko|普通語}})
+* Korean: {{t|ko|중국보통어|tr=Jungguk-botong-eo|sc=Hang}},  {{t|ko|북경어|tr=Buggyeong-eo|sc=Hang}}, {{t|ko|보통화|tr=Botonghwa|sc=Hang}} ({{t|ko|普通語|sc=Hani}})
 * [[Macedonian]]: {{t-|mk|мандарински|m|tr=mandarínski}}
 * Norwegian: {{t+|no|mandarin}}
 * Portuguese: {{t+|pt|mandarim|m}}
-* Russian: {{t-|ru|мандарин|m|tr=mandarín}}, {{t-|ru|путунхуа|m|tr=putunxuá}} {{indeclinable}},  {{t+|ru|литературный китайский|m|tr=literatúrnyj kitájskij}}
+* Russian: {{t+|ru|мандарин|m|tr=mandarín}}, {{t-|ru|путунхуа|m|tr=putunxuá}} {{indeclinable}},  {{t+|ru|литературный китайский|m|tr=literatúrnyj kitájskij}}
 * Spanish: [[mandarín]], dialecto [[mandarín]]
 * Swedish: [[mandarin]], [[mandarinkinesiska]]
 * [[Tagalog]]: [[Intsík]], [[Tsino]]
@@ -567,7 +567,7 @@
 * Estonian: [[hiinlane]] {{m|f}}, [[hiinlanna]] {{f}}
 * Filipino: [[Intsik]], [[Tsino]]
 * Finnish: {{t+|fi|kiinalainen}}
-* French: [[Chinois]] {{m}}, Chinoise {{f}}
+* French: {{t+|fr|Chinois|m}}, {{t-|fr|Chinoise|f}}
 * German: {{t+|de|Chinese|m}}, {{t+|de|Chinesin|f}}, {{t-|de|Chinesen|m|p}}, {{t-|de|Chinesinnen|f|p}}
 * Greek: {{t+|el|Κινέζος|m|tr=Kinézos}}, {{t+|el|Κινέζα|f|tr=Kinéza}}
 * Hebrew: [[סיני]] (syni) {{m}}, [[סינית]] (synit) {{f}}
