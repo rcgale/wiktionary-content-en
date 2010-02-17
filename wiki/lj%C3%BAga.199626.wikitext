@@ -1,14 +1,18 @@
-{{also|ljuga|leogan}}
+{{also|ljuga}}
 
 ==Icelandic==
 
 ===Etymology===
 From {{etyl|non|is}} {{term|ljúga||to lie|lang=non}}.
 
+===Pronunciation===
+* {{IPA|/ˈljuːa/|lang=is}}
+*: {{rhymes|uːa|lang=is}}
+
 ===Verb===
 {{is-verb-strong|laug|lugu|logið}}
 
-# {{context|intransitive}} to [[lie]], to tell [[lies]]
+# {{context|ambitransitive|governs the dative}} to [[lie]], to tell [[lies]] [about something]
 #: ''Hún '''lýgur''' alltaf að mér.''
 #:: She's always '''lying''' to me.
 #: ''Ertu að '''ljúga'''?''
@@ -17,16 +21,14 @@ From {{etyl|non|is}} {{term|ljúga||to lie|lang=non}}.
 #:: To '''lie''' about one's name.
 #: ''Hún '''laug''' því að honum að hún væri ógift.''
 #:: She '''lied''' to him about being unmarried.
+#: ''Ég er á þrettán bíla. — Þú '''lýgur''' því!''
+#:: I own thirteen cars. — That's a '''lie'''!
+#: ''Hann lýgur því að hann eigi bíl.''
+#:: He's '''lying''' about having a car.
 # {{context|transitive|governs the accusative}} to [[lie]] to someone, to tell [[lies]] to someone
 #: ''Stjórnmálamenn hafa [[ljúga fullan|'''logið''' þig fullan]]!''
 #:: Politicians have filled you with '''lies'''!
 # {{context|transitive|governs the dative}} to [[lie]] about something, to tell [[lies]] about something
-#: ''Ég er á þrettán bíla. — Þú '''lýgur''' því!''
-#:: I own thirteen cars. — That's a '''lie'''!
-#: ''Hann '''laug''' þessu!''
-#:: He '''lied''' about this!
-#: ''Hann lýgur því að hann eigi bíl.''
-#:: He's '''lying''' about having a car.
 
 ====Derived terms====
 * [[ekki á logið]] ([[það er ekki á hann logið]])
@@ -42,18 +44,18 @@ From {{etyl|non|is}} {{term|ljúga||to lie|lang=non}}.
 * [[ljúga upp í opið geðið á]]
 
 ====Related terms====
-*[[lygi]]
-*[[lygari]]
+* {{l|is|lygi}}
+* {{l|is|lygari}}
 
 ----
 
 ==Old Norse==
 
 ===Etymology===
-From Common Germanic ''*leugan''. Cognates with Old English ''[[leogan|lēoġan]]'' (Modern English ''[[lie]]''), Old Saxon ''[[liogan]]'' (Dutch ''[[liegen]]''), Old High German ''[[liogan]]'' (German ''[[lügen]]''), Gothic '''[[𐌻𐌹𐌿𐌲𐌰𐌽]]'''. Ultimately from Proto-Indo-European ''*leugh-''. Indo-European cognates include Lithuanian ''[[lūgoti]]''.
+From {{proto|Germanic|leugan|lang=non}}. Cognates with Old English {{term|leogan|lēoġan|lang=ang}} (Modern English {{term|lie|lang=en}}), Old Saxon {{term|liogan|lang=osx}} (Dutch {{term|liegen|lang=nl}}), Old High German {{term|liogan|lang=goh}} (German {{term|lügen|lang=de}}), Gothic {{term|𐌻𐌹𐌿𐌲𐌰𐌽|lang=got}}. Ultimately from {{proto|Indo-European|leugh-|lang=non}}. Indo-European cognates include Lithuanian {{term|lūgoti|lang=lt}}.
 
 ===Verb===
-'''ljúga'''
+{{infl|non|verb}}
 
 # to [[lie]], to tell [[lies]]
 
@@ -67,8 +69,6 @@ From Common Germanic ''*leugan''. Cognates with Old English ''[[leogan|lēoġan]
 * Norwegian (nynorsk): [[ljuga]]
 * Swedish: [[ljuga]]
 {{bottom}}
-
-[[Category:Old Norse verbs]]
 
 [[fr:ljúga]]
 [[is:ljúga]]
