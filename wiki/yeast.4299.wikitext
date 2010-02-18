@@ -36,8 +36,9 @@
 * [[Afrikaans]]: {{t-|af|gis|xs=Afrikaans}}
 * Albanian: {{t-|sq|maja|xs=Albanian}}
 * Arabic: {{t|ar|خميرة|f|tr=khamiira|sc=Arab}}
-* Armenian: [[խմորիչ]] (xmorič),  {{t|hy|խմորիչ|tr=xmorič}}
-* Chinese: [[酵母]] xiào mǔ
+* Armenian: {{t|hy|խմորիչ|tr=xmorič}}
+* Chinese:
+*: Mandarin: {{t|zh|酵母|tr=xiàomǔ|sc=Hani}}
 * Czech: {{t-|cs|kvasinka|f}}
 * Danish: {{t-|da|gær|c}}
 * Dutch: {{t+|nl|gist|m}}
@@ -46,16 +47,15 @@
 * French: {{t+|fr|levure|f}}
 * German: {{t+|de|Hefe|f}}
 * Greek: {{t+|el|μαγιά|f}}, {{t+|el|ζύμη|f}}
-* Hindi: {{t|hi|खमीर|xs=Hindi}}
+* Hindi: {{t|hi|खमीर|tr=khamīra|xs=Hindi}}
 * Hungarian: {{t+|hu|élesztő}}
 * Indonesian: {{t|id|ragi|xs=Indonesian}}
 {{trans-mid}}
 * Irish: {{t-|ga|giosta|m|xs=Irish}}
 * Italian: {{t+|it|lievito|m}}
-* Japanese: [[酵母]] (kōbo),  {{t|ja|酵母|tr=kōbo}}
-* Korean: [[효모]] (hyomo),  {{t|ko|효모|tr=hyomo|sc=Hang}}
+* Japanese: {{t|ja|酵母|tr=kōbo}}
+* Korean: {{t|ko|효모|tr=hyomo|sc=Hang}} ({{t|ko|酵母|sc=Hang}})
 * [[Macedonian]]: {{t|mk|квасец|m|tr=kvásec}}
-* Mandarin: {{t|zh|酵母|tr=xiàomǔ|sc=Hani}}
 * Persian: {{t+|fa|مخمر|xs=Persian}}
 * Polish: {{t+|pl|drożdże|f|p}}
 * Portuguese: {{t+|pt|fermento}}
@@ -68,8 +68,10 @@
 {{trans-bottom}}
 
 {{trans-top|froth used in medicine, baking and brewing}}
-* Arabic: {{Arab|[[خميرة]]}} (khamíra) {{f}}
+* Arabic: {{t|ar|خميرة|f|tr=khamiira|sc=Arab}}
 * Armenian: [[թթխմոր]] (t't'xmor)
+* Chinese:
+*: Mandarin: {{t|zh|酵母|tr=xiàomǔ|sc=Hani}}
 * Czech: [[droždí]] {{n}}, [[kvasnice]] {{f|p}}
 * Danish: {{t-|da|gær|c}}
 * Dutch: {{t+|nl|gist|m}}
@@ -78,11 +80,12 @@
 * French: {{t+|fr|levure|f}}
 * German: {{t+|de|Hefe|f}}
 * Hebrew: {{t+|he|שמרים}}
-* Irish: [[gabháil]] {{f}} [[giosta]] {{m}}
+* Hindi: {{t|hi|खमीर|tr=khamīra|xs=Hindi}}
 {{trans-mid}}
+* Irish: [[gabháil]] {{f}} [[giosta]] {{m}}
 * Italian: {{t+|it|lievito|m}}
-* Japanese: [[酵母]] (kōbo), [[イースト]] (īsuto)
-* Korean: [[효모]] (hyomo)
+* Japanese: {{t|ja|酵母|tr=kōbo}}, {{t|ja|イースト|tr=īsuto}}
+* Korean: {{t|ko|효모|tr=hyomo|sc=Hang}} ({{t|ko|酵母|sc=Hang}})
 * Latvian: {{t+|lv|raugs|f|xs=Latvian}}
 * [[Macedonian]]: {{t|mk|квасец|m|tr=kvásec}}
 * Polish: {{t+|pl|drożdże|f|p}}
@@ -94,7 +97,7 @@
 {{trans-bottom}}
 
 {{trans-top|cake or dried granules used to make bread dough rise}}
-* Arabic: {{Arab|[[خميرة]]}} (khamíra) {{f}}
+* Arabic: {{t|ar|خميرة|f|tr=khamiira|sc=Arab}}
 * Armenian: [[թթխմոր]] (t't'xmor)
 * Czech: [[droždí]] {{n}}, [[kvasnice]] {{f|p}}
 * Danish: {{t-|da|gær|c}}
@@ -127,8 +130,6 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|Arabic}}: {{Arab|[[خميرة]]}} (khamíra) {{f}}
-* {{ttbc|Chinese}}: [[酵母]] (jiàomǔ)
 * {{ttbc|Croatian}}: [[kvasac]] {{m}}
 * {{ttbc|Faroese}}: [[ger]]
 {{trans-mid}}
