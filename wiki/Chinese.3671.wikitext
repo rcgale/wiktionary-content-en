@@ -520,10 +520,10 @@
 <!--Add determiners/articles to translations where these are required (see French and Italian for examples)-->
 {{trans-top|the people}}
 * [[American Sign Language]]: [[1@Shoulder-FingerBack 1@Shoulder-FingerBack 1@Abdomen-FingerBack]]
-* Arabic: {{Arab|[[صينيون]]}} {{m}}, {{Arab|[[صينيات]]}} {{f}},  {{t|ar|صينيون|m|p|tr=Siniyuun|sc=Arab}},  {{t|ar|صينيات|f|p|tr=Siniyaat|sc=Arab}}
-* Chinese: [[中國人]]/[[中国人]] (Zhōngguórén)
-*: [[Pinyin]]: [[Zhongguoren]], [[Huaren]], [[Hanren]], [[Tangren]]
+* Arabic: {{t|ar|صينيون|m|p|tr=Siniyuun|sc=Arab}},  {{t|ar|صينيات|f|p|tr=Siniyaat|sc=Arab}}
+* Chinese:
 *: Cantonese: [[中國人]]/[[中国人]] (Jūnggwok y<u>à</u>n); [[華人]]/[[华人]] (W<u>à</u> y<u>à</u>n); [[漢人]]/[[汉人]] (Hon y<u>à</u>n); [[唐人]] (T<u>ò</u>ng y<u>à</u>n)
+*: Mandarin: {{qualifier|Chinese citizens}} {{t|zh|中國人|sc=Hani}},  {{t|zh|中国人|tr=Zhōngguórén|sc=Hani}};  {{qualifier|ethnic Chinese}} {{t|zh|華人|sc=Hani}},  {{t|zh|华人|tr=Huárén|sc=Hani}},  {{t|zh|漢族|sc=Hani}},  {{t|zh|汉族|tr=Hànzú|sc=Hani}},  {{t|zh|漢人|sc=Hani}},  {{t|zh|汉人|tr=Hànrén|sc=Hani}}, {{t|zh|唐人|tr=Tángren|sc=Hani}}
 *: Min Nan: [[Tiong-kok-lâng]]
 * Czech: {{t-|cs|Číňané|m|p}}
 * Danish: [[kinesere]] {{p}}
@@ -536,32 +536,32 @@
 * Hungarian: {{t+|hu|kínai}}
 * Italian: i [[cinesi]] {{m|p}}
 {{trans-mid}}
-* Japanese: [[中国人]] (ちゅうごくじん, ''chūgokujin''),  {{t|ja|中国人|tr=ちゅうごくじん, chūgokujin|sc=Jpan}}
-* Korean: [[중국인]] (中國人, ''junggukin''),  {{t|ko|중국인|tr=Jungguk-in|sc=Kore}},  {{t|ko|中國人|sc=Kore}}
+* Japanese: {{t|ja|中国人|tr=ちゅうごくじん, Chūgokujin|sc=Jpan}}
+* Korean: {{t|ko|중국인|tr=Jungguk-in|sc=Kore}} ({{t|ko|中國人|sc=Kore}})
 * Lithuanian: [[kinas]] or [[kinietis]] {{m}}, [[kinė]] or [[kinietė]] {{f}}
 * [[Macedonian]]: {{t|mk|Кинези|p|tr=Kínezi}}
-* Mandarin: {{t|zh|中國人|sc=Hani}},  {{t|zh|中国人|tr=Zhōngguórén|sc=Hani}},  {{qualifier|ethnic origin}} {{t|zh|華人|sc=Hani}},  {{t|zh|华人|tr=Huárén|sc=Hani}},  {{t|zh|漢族|sc=Hani}},  {{t|zh|汉族|tr=Hànzú|sc=Hani}},  {{t|zh|唐人|tr=Tángren|sc=Hani}},  {{t|zh|漢人|sc=Hani}},  {{t|zh|汉人|tr=Hànrén|sc=Hani}}
 * Navajo: {{tø|nv|Tsii'yiish bizí diné'i'‎}}
 * Norwegian: [[kinesere]] {{p}}
 * Polish: [[Chińczycy]] {{p}}
 * Portuguese: os [[chineses]] {{m|p}}
 * Romanian: {{t-|ro|chinezi|p}}, {{t-|ro|chinezoaice|f|p}}
-* Russian: [[китайцы]] (kitájcy) {{m|p}},  {{t|ru|китайцы|m|p|tr=kitájcy|sc=Cyrl}}
+* Russian: {{t+|ru|китаец|m|tr=kitájec|sc=Cyrl}}, {{t+|ru|китаянка|f|tr=kitajánka|sc=Cyrl}}, {{t|ru|китайцы|m|p|tr=kitájcy|sc=Cyrl}}, {{t|ru|хань|tr=xan'|sc=Cyrl}} {{qualifier|generic term}}
 * [[Scottish Gaelic]]: na {{t-|gd|Sìonaich|m|p|xs=Scottish Gaelic}}
 * Slovene: [[Kitajci]] {{m|p}}
 * Spanish: los [[chinos]]
 * Swedish: {{t+|sv|kineser|p}}
 * [[Tagalog]]: [[Intsík]], [[Tsino]]
-* Thai: {{Thai|[[คนจีน]]}} (khon jiin),  {{t|th|คนจีน|tr=kon jeen|sc=Thai}}
+* Thai: {{t|th|คนจีน|tr=kon jeen|sc=Thai}}
 * Turkish: {{t+|tr|Çinli}}
-* Vietnamese: [[người]] [[Trung Quốc]], [[người]] [[Tàu]]
+* Vietnamese: {{t|vi|người Trung Quốc}},  {{t|vi|người Tàu}}
 {{trans-bottom}}
 
 {{trans-top|person born in China}}
 * [[American Sign Language]]: [[1@Shoulder-FingerBack 1@Shoulder-FingerBack 1@Abdomen-FingerBack]]
-* Arabic: {{Arab|[[صيني]]}} {{IPAchar|(ʂīni)}} {{m}}, {{Arab|[[صينية]]}} {{IPAchar|(ʂiníyya)}} {{f}}
+* Arabic: {{t|ar|صيني|m|tr=Siniy|sc=Arab}}, {{t|ar|صينية|f|tr=Siníyya|sc=Arab}}{{Arab|[[صينية]]}}
 * Armenian: [[չինացի]] (činac'i)
-* Chinese: [[中国人]] ([[Zhōngguórén]])
+* Chinese:
+*: Mandarin: {{t|zh|中國人|sc=Hani}},  {{t|zh|中国人|tr=Zhōngguórén|sc=Hani}}
 * Czech: {{t-|cs|Číňan|m}}
 * Danish: {{t+|da|kineser|c}}
 * Dutch: {{t+|nl|Chinees|m}}, {{t+|nl|Chinese|f}}
@@ -575,35 +575,35 @@
 * Hungarian: {{t+|hu|kínai}}
 {{trans-mid}}
 * Italian: {{t+|it|cinese|m|f}}
-* Japanese: [[中国人]] ([[ちゅうごくじん]], ''chūgokujin'')
-* Korean: [[중국인]] (中國人, ''junggukin'')
+* Japanese: {{t|ja|中国人|tr=ちゅうごくじん, Chūgokujin|sc=Jpan}}
+* Korean: {{t|ko|중국인|tr=Jungguk-in|sc=Kore}} ({{t|ko|中國人|sc=Kore}})
 * [[Macedonian]]: {{t|mk|Кинез|m|tr=Кínez}}, {{t|mk|Кинеска|f|tr=Kíneska}}
-* Mandarin: {{t|zh|中國人|sc=Hani}},  {{t|zh|中国人|tr=Zhōngguórén|sc=Hani}}
 * Norwegian: {{t+|no|kineser|c}}
 * Polish: {{t+|pl|Chińczyk|m}}, {{t+|pl|Chinka|f}}
 * Portuguese: [[chinês]] {{m}}, [[chinesa]] {{f}}
-* Russian: {{t+|ru|китаец|m|tr=kitájec}}, {{t+|ru|китаянка|f|tr=kitajánka}}
+* Russian: {{t+|ru|китаец|m|tr=kitájec|sc=Cyrl}}, {{t+|ru|китаянка|f|tr=kitajánka|sc=Cyrl}}, {{t|ru|китайцы|m|p|tr=kitájcy|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t-|gd|Sìonach|m|xs=Scottish Gaelic}}
 * Slovene: [[Kitajec]] {{m}}, [[Kitajka]] {{f}}
 * Spanish: {{t+|es|chino|m}}, {{t+|es|china|f}}
 * Swedish: [[kines]] (male) {{c}}, [[kinesiska]] (female) {{c}}
 * [[Tagalog]]: [[Intsík]], [[Tsino]]
+* Thai: {{t|th|คนจีน|tr=kon jeen|sc=Thai}}
 * Turkish: {{t+|tr|Çinli}}
-* Vietnamese: [[người]] [[Trung Quốc]], [[người Tàu]],  {{t|vi|người Trung Quốc}},  {{t|vi|người Tàu}}
+* Vietnamese: {{t|vi|người Trung Quốc}},  {{t|vi|người Tàu}}
 {{trans-bottom}}
 
 {{trans-top|US informal: Chinese food}}
 * [[American Sign Language]]: [[1@Shoulder-FingerBack 1@Shoulder-FingerBack 1@Abdomen-FingerBack]]
-* Arabic: {{Arab|[[صيني]]}} {{IPAchar|(ʂīni)}} {{m}}
+* Arabic: {{t|ar|صيني|m|tr=Siniy|sc=Arab}}
 * Czech: {{t-|cs|čína|f}}
 * Danish: {{t+|da|kinesisk}}
 * Dutch: {{t+|nl|Chinees}}
 * Estonian: [[hiina toit]]
 * Greek: {{t|el|κινέζικο|tr=kinéziko}}
 * Italian: [[cibo cinese]] {{m}}
-* Japanese: [[中華料理]] ([[ちゅうかりょうり]], chūkaryōri)
+* Japanese: {{t|ja|中華料理|tr=ちゅうかりょうり, Chūka-ryōri|sc=Jpan}}
 {{trans-mid}}
-* Korean: [[중국식]] (中國食, jungguksik)
+* Korean: {{t|ko|중국식|tr=Jungguk-sik|sc=Kore}} ({{t|ko|中國食|sc=Kore}})
 * Lithuanian: [[kinų maistas]]
 * Norwegian: [[kinamat]] [[kinesisk]]
 * Polish: {{t+|pl|chińszczyzna|f}}
