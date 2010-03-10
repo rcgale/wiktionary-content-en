@@ -1,24 +1,30 @@
-==Bosnian==
+==Serbo-Croatian==
+
+===Alternative forms===
+* (''Ekavian''): {{l|sh|veverica|vȅverica}}
 
 ===Etymology===
-From {{proto|Slavic|věverica|lang=bs}}.
+From {{proto|Slavic|věverica|lang=sh}}.
+
+===Pronunciation===
+* {{IPA|/ʋjêʋeritsa/|lang=sh}}
+* {{hyphenation|vje|ve|ri|ca}}
 
 ===Noun===
-'''vjeverica''' {{f}} {{s}} ({{p}}: '''vjeverice''')
-#[[squirrel]]
-[[Category:bs:Mammals]]
-
-----
-
-==Croatian==
-
-===Etymology===
-From {{proto|Slavic|věverica|lang=hr}}.
-
-===Noun===
-{{infl|hr|noun|head=vjȅverica|g=f}}
+{{sh-noun|g=f|head=vjȅverica|r|вјеверица|вје̏верица}}
 
 # [[squirrel]]
+
+====Declension====
+{{sh-decl-noun
+|vjeverica|vjeverice
+|vjeverice|vjeverica
+|vjeverici|vjevericama
+|vjevericu|vjeverice
+|vjeverice|vjeverice
+|vjeverici|vjevericama
+|vjevericom|vjevericama
+}}
 
 [[el:vjeverica]]
 [[it:vjeverica]]
