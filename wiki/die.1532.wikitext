@@ -78,7 +78,7 @@
 * Chinese:
 *: CJKV Characters: [[死]], [[亡]]
 *: Mandarin: {{t-|cmn|死|tr=sǐ|sc=Hani}},  {{t-|cmn|亡|tr=wáng|sc=Hani}}
-* Croatian: {{t-|hr|umrijeti}}, {{t-|hr|umirati}}
+* Croatian: {{t+|hr|umrijeti}}, {{t-|hr|umirati}}
 * Czech: {{t-|cs|umřít}}
 * Danish: {{t+|da|dø}}
 * Dutch: {{t-|nl|doodgaan}}, {{t+|nl|sterven}}
@@ -91,7 +91,7 @@
 * Greek: {{t+|el|πεθαίνω}} (pethaíno), [[αποθνήσκω]] (apothnísko), [[αποβιώνω]] (apovióno)
 ** Ancient Greek: [[ἀποθνήσκω]]  (apothnesko)
 * [[Guaraní]]: [[mano#Guaraní|mano]]/[[e'õ]] (t-)
-* Hebrew: {{t|he|מת|tr=met}}
+* Hebrew: {{t+|he|מת|tr=met}}
 * Hindi: {{t+|hi|मरना|tr=marnā|xs=Hindi}}
 * Hungarian: {{t+|hu|meghal}}, {{t+|hu|hal}}
 * Icelandic: {{t+|is|deyja}}, {{t-|is|drepast}}, {{t+|is|andast}}, {{t|is|sálast}}, {{t|is|týna lífinu}}, {{t|is|skylja við}}, {{t-|is|látast}}, {{t-|is|láta lífið}}, {{t|is|lognast út af}}, {{t|is|falla frá}}, {{t|is|fara yfrum}}, {{t|is|verða bráðkvaddur}}
@@ -102,7 +102,7 @@
 * [[Isthmus Zapotec]]: [[rati]]
 * Italian: {{t+|it|morire}}
 * Japanese: {{t+|ja|死ぬ|tr=しぬ; shinú}}, {{t-|ja|亡くなる|tr=なくなる, nakunaru}} {{qualifier|honorific}}
-* Korean: {{t+|ko|죽다|tr=jukda}}
+* Korean: {{t+|ko|죽다|tr=jukda|sc=Hang}}
 * Kurdish:
 *: Kurmancî: [[mirin]]
 *: Soranî: {{ku-Arab|[[مردن]]}} (mirdin)
@@ -117,7 +117,7 @@
 * Portuguese: {{t+|pt|morrer}}
 * Romanian: {{t+|ro|muri}}
 * [[Romansch]]: {{t-|rm|murir|xs=Romansch}}
-* Russian: {{t+|ru|умирать|tr=umirát’}} {{impf}},  {{t|ru|умереть|tr=umerét’}} {{pf}}, {{t|ru|помирать|tr=pomirát’}} {{impf}},  {{t|ru|помереть|tr=pomerét’}} {{pf}}; {{t|ru|скончаться|tr=skončát’sja}} {{qualifier|formal}}; {{t|ru|сдыхать|tr=sdyxát’}} {{impf}},  {{t+|ru|сдохнуть|tr=sdóxnut’}} {{pf}} {{qualifier|rude or of animals}}
+* Russian: {{t+|ru|умирать|tr=umirát’}} {{impf}},  {{t+|ru|умереть|tr=umerét’}} {{pf}}, {{t|ru|помирать|tr=pomirát’}} {{impf}},  {{t+|ru|помереть|tr=pomerét’}} {{pf}}; {{t|ru|скончаться|tr=skončát’sja}} {{qualifier|formal}}; {{t|ru|сдыхать|tr=sdyxát’}} {{impf}},  {{t+|ru|сдохнуть|tr=sdóxnut’}} {{pf}} {{qualifier|rude or of animals}}
 * [[Scots]]: [[dee]]
 * [[Scottish Gaelic]]: [[marbh]]
 * Serbian:
@@ -223,7 +223,7 @@ Using the plural {{term|dice}} as a singular instead of {{term|die}} is consider
 * French: {{t+|fr|dé|m}}
 * German: {{t+|de|Würfel|m}}
 * Greek: [[ζάρι]] (zári) {{n}}, [[ζάρια]] (zária) {{p}}, [[κύβος]] (kývos) {{m}}, [[κύβοι]] (kývoi) {{p}}
-* Hebrew: {{t|he|קובייה|f|tr=kubiá}}
+* Hebrew: {{t+|he|קובייה|f|tr=kubiá}}
 * Hungarian: {{t+|hu|dobókocka}}, {{t+|hu|kocka}}
 * Icelandic: {{t+|is|teningur|m}}
 * [[Ido]]: [[lud-kubo]]
@@ -264,7 +264,7 @@ Using the plural {{term|dice}} as a singular instead of {{term|die}} is consider
 {{trans-bottom}}
 
 {{trans-top|device for cutting into a specified shape}}
-* Bulgarian: {{t|bg|матрица|f|sc=Cyrl}}
+* Bulgarian: {{t-|bg|матрица|f}}
 * Dutch: {{t+|nl|mal|f}}, {{t-|nl|matrijs|f}}, {{t+|nl|vorm|f}}
 * Finnish: {{t+|fi|muotti}}, {{t-|fi|stanssi}}
 {{trans-mid}}
@@ -274,7 +274,7 @@ Using the plural {{term|dice}} as a singular instead of {{term|die}} is consider
 {{trans-bottom}}
 
 {{trans-top|embossed device used in stamping}}
-* Bulgarian: {{t|bg|щампа|f|sc=Cyrl}}
+* Bulgarian: {{t|bg|щампа|f}}
 * Dutch: {{t+|nl|stempel|m}}
 * Finnish: {{t+|fi|leimasin}}
 * [[Interlingua]]: [[cuneo]]
