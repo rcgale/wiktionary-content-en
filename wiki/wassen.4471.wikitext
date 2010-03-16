@@ -6,12 +6,12 @@
 ===Etymology 1===
 
 ====Verb====
-{{nl-verb-mixed}}
+{{nl-verb|mix}}
 
 # {{transitive|lang=nl}} To [[wash]] or [[clean]] (something or oneself).
 
 =====Conjugation=====
-{{nl-verb-table|was|wast|waste|wasten|gewassen}}
+{{nl-conj-st|was|waste|gewassen|wasse|waste|waste|aux2=zijn}}
 
 =====Derived terms=====
 {{top3}}
@@ -25,13 +25,13 @@
 ===Etymology 2===
 
 ====Verb====
-{{nl-verb-strong|7}}
+{{nl-verb|st-7}}
 
 # {{intransitive|lang=nl}} To [[grow]]; to [[rise]]; to [[increase]]; to [[become]] [[high]]er and/or [[big]]ger; to [[wax]].
 #: ''De '''wassende''' maan.''
 
 =====Conjugation=====
-{{nl-verb-table|was|wast|wies|wiesen|gewassen}}
+{{nl-conj-st|was|wies|gewassen|wasse|aux=zijn}}
 
 =====Derived terms=====
 * [[gewas]] {{n}}
@@ -51,12 +51,12 @@
 {{nl-decl-adj-nc|-|-|pred=-}}
 
 ====Verb====
-{{nl-verb-weak}}
+{{nl-verb|wk}}
 
 # {{transitive}} To [[rub]] [[wax]] on.
 
 =====Conjugation=====
-{{nl-verb-table|was|wast|waste|wasten|gewast}}
+{{nl-conj-wk|was|wasse|dt=t}}
 
 [[el:wassen]]
 [[fr:wassen]]
