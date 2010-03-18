@@ -82,7 +82,7 @@ The use of ''can'' in asking permission is sometimes criticized as being impolit
 * Italian: {{t+|it|sapere}}, {{t+|it|riuscire}}, {{t-|it|essere capace}},  {{t+|it|potere}}
 * Japanese: {{t+|ja|できる|tr=dekíru}}, {{t+|ja|れる|alt=-れる|tr=-reru}}, {{t+|ja|られる|alt=-られる|tr=-rareru}}
 {{trans-mid}}
-* Korean: {{t|ko|할 수 있다|alt=...할 수 있다|tr=...hal su itda}}
+* Korean: {{t|ko|할 수 있다|alt=...할 수 있다|tr=...hal su itda|sc=Hang}}
 * [[Lao]]: {{t-|lo|ໄດ້|tr=dai|sc=Laoo|xs=Lao}}
 * Latin: {{t-|la|posse}}
 * Malay: {{t-|ms|dapat|xs=Malay}}
@@ -90,7 +90,7 @@ The use of ''can'' in asking permission is sometimes criticized as being impolit
 * [[Nahuatl]]: {{t-|nah|huelīti|xs=Nahuatl}}
 * Norwegian: {{t+|no|kunne}}
 * [[Old English]]: {{t-|ang|cunnan|xs=Old English}}
-* Persian: {{t|fa|قادر بودن|xs=Persian}},  {{t|fa|توانستن|tr=tavânestan|xs=Persian}}
+* Persian: {{t|fa|قادر بودن|xs=Persian}},  {{t+|fa|توانستن|tr=tavânestan|xs=Persian}}
 * Polish: {{t+|pl|móc}}, {{t+|pl|umieć}}, {{t+|pl|potrafić}}
 * Portuguese: [[poder]], [[ser]] [[capaz]], [[conseguir]]
 * Romanian: {{t+|ro|putea}}
@@ -123,7 +123,7 @@ The use of ''can'' in asking permission is sometimes criticized as being impolit
 * Estonian: [[võima]]
 * Finnish: {{t+|fi|voida}}, {{t+|fi|saada}}
 * French: {{t+|fr|pouvoir}}
-* German: {{t+|de|können}},  {{t|de|dürfen}}
+* German: {{t+|de|können}},  {{t+|de|dürfen}}
 * Greek: {{t+|el|μπορώ}} (boró)
 * Hebrew: {{t-|he|יכול|m|tr=yakhól}}
 * Hindi: {{t|hi|सकना|tr=saknā|xs=Hindi}}
@@ -134,7 +134,7 @@ The use of ''can'' in asking permission is sometimes criticized as being impolit
 * Malay: {{t-|ms|boleh|xs=Malay}}
 * Maltese: {{t-|mt|forsi|xs=Maltese}}
 * Norwegian: {{t+|no|kunne}}
-* Persian: {{t|fa|توانستن|tr=tavânestan|xs=Persian}},  {{t|fa|امکان داشتن|xs=Persian}}
+* Persian: {{t+|fa|توانستن|tr=tavânestan|xs=Persian}},  {{t|fa|امکان داشتن|xs=Persian}}
 * Polish: {{t+|pl|móc}}
 * Portuguese: {{t+|pt|poder}}
 * Russian: {{t-|ro|мочь|tr=moč’|sc=Cyrl}}
@@ -144,7 +144,7 @@ The use of ''can'' in asking permission is sometimes criticized as being impolit
 * Thai: {{t|th|ย่อม|tr=yôm}}
 * Turkish: {{t|tr|-ebilmek}},  {{t|tr|-abilmek}}
 * Urdu: {{t|ur|سکنا|tr=saknā|xs=Urdu}}
-* Vietnamese: {{t|vi|có thể|xs=Vietnamese}},  {{t|vi|có lẽ|xs=Vietnamese}}
+* Vietnamese: {{t+|vi|có thể|xs=Vietnamese}},  {{t|vi|có lẽ|xs=Vietnamese}}
 * Welsh: {{t-|cy|cael|xs=Welsh}}
 {{trans-bottom}}
 
@@ -266,7 +266,7 @@ The use of ''can'' in asking permission is sometimes criticized as being impolit
 * Esperanto: {{t-|eo|ladskatolo|xs=Esperanto}}
 * Finnish: {{t-|fi|säilyketölkki}}
 * French: {{t+|fr|boîte de conserve|f}}
-* German: {{t+|de|Dose|f}},  {{t|de|Konservendose|f}}
+* German: {{t+|de|Dose|f}},  {{t+|de|Konservendose|f}}
 * Greek: {{t|el|κονσέρβα|f|tr=konsérva}}
 * Hebrew: {{t-|he|קופסת שימורים|f|tr=qufsát shimurím}}
 * Italian: {{t+|it|scatoletta|f}}
@@ -299,7 +299,7 @@ The use of ''can'' in asking permission is sometimes criticized as being impolit
 * Hebrew: [[שירותים]] (shirutym) {{m|p}}, [[בית שימוש]] (beit shimush) {{m}}
 * Malay: {{t|ms|tandas|xs=Malay}}
 * Norwegian: {{t+|no|toalett|n}}, {{t|no|do(-skål)|m}}
-* Polish: {{t-|pl|ubikacja|f}}
+* Polish: {{t+|pl|ubikacja|f}}
 * Thai: {{Thai|[[ส้วม]]}} (sûam)
 {{trans-bottom}}
 
@@ -309,7 +309,7 @@ The use of ''can'' in asking permission is sometimes criticized as being impolit
 * Esperanto: {{t-|eo|pugo|xs=Esperanto}}
 * Finnish: {{t+|fi|takamus|n}}
 {{trans-mid}}
-* German: [[Arschbacken]] {{f}},  {{t|de|Pobacken|f|p}}
+* German: {{t-|de|Arschbacken|f}}, {{t-|de|Pobacken|f|p}}
 * Norwegian: {{t+|no|rompe|c}}, {{t+|no|bak|m}}
 * Polish: [[pośladki]], [[dupa]] {{f}}
 * Thai: {{Thai|[[ก้น]]}} (gôn)
@@ -389,7 +389,7 @@ The use of ''can'' in asking permission is sometimes criticized as being impolit
 * Chinese: [[解雇]], [[解雇]] (jiě gù)
 * Danish: [[afskedige]], [[fyre]]
 * Esperanto: {{t-|eo|maldungi|xs=Esperanto}}
-* German: {{t+|de|kündigen}},  {{t|de|feuern}},  {{t|de|rausschmeißen}}
+* German: {{t+|de|kündigen}},  {{t-|de|feuern}},  {{t-|de|rausschmeißen}}
 * Hebrew: {{t-|he|פיטר|tr=pit&eacute;r}}
 {{trans-mid}}
 * Italian: {{t-|it|licenziare}}
