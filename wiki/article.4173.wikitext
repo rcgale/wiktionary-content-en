@@ -41,13 +41,13 @@
 {{trans-top|story, report, or opinion piece}}
 * [[Adangme]]: [[fiɛɛmi]]
 * Albanian: {{t+|sq|artikull|xs=Albanian}}
-* Arabic: {{t-|ar|مقال|m|alt=مَقال|tr=maqaal}},  {{t|ar|مقالة|f|sc=Arab}}
+* Arabic: {{t-|ar|مقال|m|alt=مَقال|tr=maqaal}},  {{t|ar|مقالة|f}}
 * Armenian: {{t-|hy|հոդված|tr=hodvaç}}
 * [[Asturian]]: {{t+|ast|artículu|m|xs=Asturian}}
 * Bulgarian: {{t|bg|статия}}
 * [[Catalan]]: article {{m}}
 * Chinese:
-*: Mandarin: {{t|zh|文章|tr=wénzhāng|sc=Hani}}
+*: Mandarin: {{t-|cmn|文章|tr=wénzhāng|sc=Hani}}
 * Czech: {{t-|cs|článek|m}}
 * Danish: {{t+|da|artikel|c}}
 * Dutch: {{t+|nl|artikel|n}}
@@ -55,7 +55,7 @@
 * [[Extremaduran]]: {{tø|ext|artículu|m}}
 * Finnish: {{t+|fi|artikkeli}}, {{t+|fi|juttu}}, {{t+|fi|kirjoitus}}
 * French: {{t+|fr|article|m}}
-* Georgian: {{t|ka|სტატია|tr=(statia)|sc=Geor|xs=Georgian}}
+* Georgian: {{t+|ka|სტატია|tr=(statia)|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Artikel|m}}
 * Hebrew: {{he-translation|כתבה|katavá}} {{f}}; {{he-translation|מאמר|ma`amár}} {{m}}
 {{trans-mid}}
@@ -65,7 +65,7 @@
 * Italian: {{t+|it|articolo|m}}, {{t+|it|voce|f}}
 * Japanese: [[記事]] ([[きじ]], [[kiji]]), [[論文]] ([[ろんぶん]], [[ronbun]])
 * [[Macedonian]]: {{t|mk|напис|m|tr=nápis}},  {{t|mk|статија|f|tr=státija}}
-* Persian: {{t|fa|مقاله|tr=maghaaleh|sc=fa-Arab}}
+* Persian: {{t|fa|مقاله|tr=maghaaleh|xs=Persian}}
 * Polish: {{t+|pl|artykuł|m}}
 * Portuguese: {{t+|pt|artigo|m}}
 * Romanian: {{t+|ro|articol|n}}
@@ -98,7 +98,7 @@
 * Armenian: {{t-|hy|առարկա|tr=aṙarka}}
 * Bulgarian: {{t+|bg|предмет}},  {{t+|bg|артикул}}
 * Chinese:
-*: Mandarin: {{t|zh|物品|tr=wùpǐn|sc=Hani}}
+*: Mandarin: {{t|cmn|物品|tr=wùpǐn|sc=Hani}}
 * Czech: {{t-|cs|artikl|m}}
 * Danish: {{t+|da|artikel|c}}, {{t-|da|vare|c}}
 * Dutch: {{t+|nl|artikel|n}}
@@ -121,13 +121,13 @@
 {{trans-top|part of speech that specifies a noun}}
 * Albanian: [[nyjë]]
 * [[Ancient Greek]]: [[ἄρθρον]] {{n}}
-* Arabic: {{t|ar|أداة التعريف|f|tr='adaat al-ta3riif|sc=Arab}}
+* Arabic: {{t|ar|أداة التعريف|f|tr='adaat al-ta3riif}}
 * Armenian: [[հոդ]] (hod)
 * [[Asturian]]: {{t+|ast|artículu|m|xs=Asturian}}
 * Bulgarian: {{t+|bg|член}}
 * [[Catalan]]: article {{m}}
 * Chinese:
-*: Mandarin: {{t|zh|冠詞|sc=Hani}},  {{t|zh|冠词|tr=guàncí|sc=Hani}}
+*: Mandarin: {{t-|cmn|冠詞|sc=Hani}},  {{t|cmn|冠词|tr=guàncí|sc=Hani}}
 * Czech: {{t+|cs|člen|m}}
 * Danish: [[kendeord]] {{n}}, [[artikel]] {{c}}
 * Dutch: {{t+|nl|lidwoord|n}}
@@ -136,20 +136,20 @@
 * French: {{t+|fr|article|m}}
 {{trans-mid}}
 * German: {{t+|de|Artikel|m}}
-* Greek: {{t+|el|άρθρο|n|tr=árthro|sc=Grek}}
+* Greek: {{t+|el|άρθρο|n|tr=árthro}}
 * Hungarian: {{t+|hu|névelő}}
 * Icelandic: {{t+|is|greinir|m}},  {{t+|is|gr.|m}}
 * Italian: {{t+|it|articolo|m}}
-* Japanese: {{t|ja|冠詞|tr=かんし, kanshi|sc=Jpan}}
+* Japanese: {{t+|ja|冠詞|tr=かんし, kanshi}}
 * [[Macedonian]]: {{t-|mk|член|m|tr=člen}}
 * Polish: {{t+|pl|rodzajnik|m}}
 * Portuguese: {{t+|pt|artigo|m}}
 * Romanian: {{t+|ro|articol|n}}
-* Russian: {{t|ru|артикль|m|tr=artíkl’|sc=Cyrl}}, {{t|ru|член|m|tr=člen|sc=Cyrl}} {{qualifier|obsolete}}
+* Russian: {{t|ru|артикль|m|tr=artíkl’}}, {{t+|ru|член|m|tr=člen}} {{qualifier|obsolete}}
 * [[Scottish Gaelic]]: {{t-|gd|alt|m|xs=Scottish Gaelic}}
 * Slovene: {{t-|sl|člen|m}}
 * Swahili: {{t+|sw|makala|xs=Swahili}}
-* Turkish: {{t+|tr|tanımlık}},  {{t|tr|artikel}}
+* Turkish: {{t+|tr|tanımlık}},  {{t-|tr|artikel}}
 {{trans-bottom}}
 
 {{trans-top|section of a legal document}}
