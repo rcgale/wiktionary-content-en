@@ -117,11 +117,11 @@
 * French: {{t+|fr|ouvert|m}}, {{t+|fr|ouverte|f}}, {{t+|fr|ouverts|m|p}}, {{t+|fr|ouvertes|f|p}}
 * German: {{t+|de|auf}}, {{t+|de|offen}}
 * Greek: {{t+|el|ανοιχτός|m}} (anoichtós)
-* Hebrew: {{t|he|פתוח|tr=patúakh}}
+* Hebrew: {{t+|he|פתוח|tr=patúakh}}
 {{trans-mid}}
 * Hungarian: {{t|hu|nyílt}}, {{t+|hu|nyitott}}
 * Irish: {{t-|ga|oscailte|xs=Irish}}, {{t-|ga|ar oscailt|xs=Irish}}
-* Italian: {{t+|it|aperto}},  {{t|it|dischiuso}}
+* Italian: {{t+|it|aperto}},  {{t-|it|dischiuso}}
 * Japanese: {{t|ja|開けた|tr=あけた, aketa}}
 * Kurdish: {{ku-Arab|[[کراوه‌ته‌وه‌]]}}
 * Latvian: [[atvērts]] {{m}}, [[atvērta]] {{f}}
@@ -134,7 +134,7 @@
 * [[Old French]]: {{tø|fro|overt}}
 * Polish: {{t+|pl|otwarty|m}}, {{t-|pl|otwarta|f}}, {{t-|pl|otwarte|n}}
 * Portuguese: {{t+|pt|aberto}}
-* Romanian: {{t|ro|deschis}}
+* Romanian: {{t-|ro|deschis}}
 * Russian: {{t+|ru|открытый|tr=otkrýtyj}}
 * [[Scottish Gaelic]]: {{t-|gd|fosgailte|xs=Scottish Gaelic}}
 * Slovene: [[odprt]] {{m}}, [[odprta]] {{f}}, [[odprto]] {{n}}
@@ -159,7 +159,7 @@
 * French: {{t+|fr|ouvert|m}}, {{t+|fr|ouverte|f}}, {{t+|fr|ouverts|m|p}}, {{t|fr|oubertes|f|p}}
 * German: {{t+|de|offen}}, {{t+|de|geöffnet}}
 * Greek: {{t+|el|ανοιχτός|m}} (anoichtós)
-* Hebrew: {{t|he|פתוח|tr=patúakh}}
+* Hebrew: {{t+|he|פתוח|tr=patúakh}}
 {{trans-mid}}
 * Italian: {{t+|it|aperto}}
 * Latvian: [[atvērts]] {{m}}, [[atvērta]] {{f}}
@@ -183,13 +183,13 @@
 * Czech: {{t-|cs|otevřen|m}}
 * Danish: {{t-|da|åben}}
 * Dutch: {{t+|nl|open}}
-* Estonian: {{t-|et|aval}}
+* Estonian: {{t+|et|aval}}
 * Finnish: {{t+|fi|avoin}}
 * French: {{t+|fr|ouvert|m}}, {{t+|fr|ouverte|f}}, {{t+|fr|ouverts|m|p}}, {{t+|fr|ouvertes|f|p}}
 * German: {{t+|de|offen}}
 {{trans-mid}}
 * Greek: {{t+|el|ανοιχτός|m}} (anoichtós)
-* Hebrew: {{t|he|פתוח|tr=patúakh}}
+* Hebrew: {{t+|he|פתוח|tr=patúakh}}
 * Italian: {{t+|it|aperto}}
 * Latvian: [[atvērts]] {{m}}, [[atvērta]] {{f}}
 * Norwegian: {{t+|no|åpen}}
@@ -213,7 +213,7 @@
 {{trans-mid}}
 * French: {{t+|fr|ouvert|m}}, {{t+|fr|ouverte|f}}, {{t+|fr|ouverts|m|p}}, {{t+|fr|ouvertes|f|p}}
 * German: {{t+|de|öffentlich}}
-* Hebrew: {{t|he|פתוח|tr=patúakh}}
+* Hebrew: {{t+|he|פתוח|tr=patúakh}}
 * Italian: {{t+|it|aperto}}
 * Norwegian: {{t+|no|åpen}}
 * Polish: {{t+|pl|otwarty|m}}, {{t-|pl|otwarta|f}}, {{t-|pl|otwarte|n}}
@@ -225,14 +225,14 @@
 {{trans-bottom}}
 
 {{trans-top|math: having a free variable}}
-* Hebrew: {{t|he|פתוחה|tr=ptukhá|sc=Hebr}}
+* Hebrew: {{t|he|פתוחה|tr=ptukhá}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|math: is part of a predefined collection of subsets}}
 * German: {{t|de|offene}}
 {{trans-mid}}
-* Hebrew: {{t|he|פתוחה|tr=ptukhá|sc=Hebr}}
+* Hebrew: {{t|he|פתוחה|tr=ptukhá}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -297,7 +297,7 @@
 *: Mandarin: {{t-|cmn|開|sc=Hani}},  {{t-|cmn|开|tr=kāi|sc=Hani}},  {{t-|cmn|打開|sc=Hani}},  {{t-|cmn|打开|tr=dǎkāi|sc=Hani}}
 * Czech: {{t-|cs|otevřít}}
 * Danish: [[åbne]], [[lukke op]]
-* Dutch: [[openen]], [[opendoen]]
+* Dutch: {{t+|nl|openen}}, {{t-|nl|opendoen}}
 * Esperanto: {{t+|eo|malfermi|xs=Esperanto}}
 * Estonian: {{t-|et|avama}}
 * [[Ewe]]: {{tø|ee|ʋu|xs=Ewe}}
@@ -305,7 +305,7 @@
 * French: {{t+|fr|ouvrir}}
 * German: {{t+|de|öffnen}}, {{t+|de|aufmachen}}
 * Greek: {{t+|el|ανοίγω}} (anígo)
-* Hebrew: {{t|he|פתח|tr=patákh}}
+* Hebrew: {{t-|he|פתח|tr=patákh}}
 * Hindi: {{t-|hi|खोलना|tr=kholnā|xs=Hindi}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|nyit}}, {{t+|hu|kinyit}}
@@ -314,12 +314,12 @@
 * Irish: {{t-|ga|oscail|xs=Irish}}
 * Italian: {{t+|it|aprire}}
 * Japanese: {{t+|ja|開ける|tr=あける, akeru}},  {{t-|ja|開く|tr=ひらく, hiraku}}
-* Korean: {{t+|ko|열다|tr=yeolda}}
+* Korean: {{t+|ko|열다|tr=yeolda|sc=Hang}}
 * Latvian: [[atvērt]]
 * Norwegian: {{t+|no|åpne}}, {{t-|no|lukke opp}}
 * [[Occitan]]: {{t-|oc|dobrir|xs=Occitan}}
 * [[Old French]]: {{tø|fro|ovrir}}
-* Persian: {{t|fa|گشودن|tr=goshudan|xs=Persian}},  {{t+|fa|باز کردن|tr=bâz kardan|xs=Persian}}
+* Persian: {{t+|fa|گشودن|tr=goshudan|xs=Persian}},  {{t+|fa|باز کردن|tr=bâz kardan|xs=Persian}}
 * Polish: {{t+|pl|otwierać}}
 * Portuguese: {{t+|pt|abrir}}
 * Romanian: {{t+|ro|deschide}}
@@ -327,7 +327,7 @@
 * [[Scottish Gaelic]]: {{t-|gd|fosgail|xs=Scottish Gaelic}}
 * Serbo-Croatian: {{tø|sh|отворити|alt=отво̀рити|sc=Cyrl|xs=Serbo-Croatian}},  {{tø|sh|otvoriti|alt=otvòriti|xs=Serbo-Croatian}}
 * Slovak: {{t|sk|otvoriť}}
-* Slovene: {{t|sl|odpreti}}
+* Slovene: {{t+|sl|odpreti}}
 * Spanish: {{t+|es|abrir}}
 * Swahili: {{t+|sw|fungua|xs=Swahili}}
 * Swedish: {{t+|sv|öppna}}
@@ -404,7 +404,7 @@
 * Armenian: {{t-|hy|բացվել|tr=bac'vel}}
 * Czech: [[otevřít]] se
 * Danish: [[åbnes]]
-* Dutch: [[opengaan]]
+* Dutch: {{t+|nl|opengaan}}
 * Esperanto: {{t-|eo|malfermiĝi|xs=Esperanto}}
 * Estonian: {{t|et|avanema}}
 * [[Ewe]]: {{tø|ee|ʋu|xs=Ewe}}
@@ -417,7 +417,7 @@
 * Kurdish: {{ku-Arab|[[کردنه‌وه‌]]}}
 * Latvian: [[atvērt]]
 * Norwegian: [[åpnes]]
-* Polish: [[otwierać się]]
+* Polish: {{t+|pl|otwierać się}}
 * Portuguese: {{t+|pt|abrir}}
 * Russian: {{t+|ru|открываться|tr=otkryvát's'a}} {{impf}}, {{t+|ru|открыться|tr=otkrýt's'a}} {{pf}}; {{t|ru|отворяться|tr=otvor'át's'a}} {{impf}}, {{t|ru|отвориться|tr=otvorít's'a}} {{pf}} ''a door only''
 * [[Scottish Gaelic]]: {{t-|gd|fosgail|xs=Scottish Gaelic}}
@@ -458,7 +458,7 @@
 * {{ttbc|Bulgarian}}: [[отварям]]
 * {{ttbc|Esperanto}}: [[ekparoli]] [[pri]] (2)
 * {{ttbc|French}}: [[ouvrir]] (1), (3), [[entamer]] (4)
-* Hebrew: {{t|he|פתח|tr=patákh}}, {{t|he|העלה|tr=he'elá}}, {{t|he|פצח|tr=patsákh}}, {{t|he|נפתח|tr=niftákh}}
+* Hebrew: {{t-|he|פתח|tr=patákh}}, {{t|he|העלה|tr=he'elá}}, {{t|he|פצח|tr=patsákh}}, {{t|he|נפתח|tr=niftákh}}
 * {{ttbc|Malay}}: [[buka]]
 * {{ttbc|Portuguese}}: [[abrir]] (1, 3)
 * {{ttbc|Romanian}}: a [[deschide]]
