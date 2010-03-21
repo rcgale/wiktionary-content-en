@@ -17,7 +17,6 @@ From {{etyl|es|en}} {{term|Honduras|lang=es}}.
 {{trans-top|A country in Central America}}
 * Arabic: {{t|ar|هندوراس|m|tr=Hunduraas}}
 * Armenian: {{t-|hy|Հոնդուրաս|tr=Honduras}}
-* Bosnian: {{t-|bs|Honduras|m}}
 * [[Breton]]: Honduras
 * Bulgarian: {{t-|bg|Хондурас|m|tr=honduras}}
 * Chinese:
@@ -33,9 +32,9 @@ From {{etyl|es|en}} {{term|Honduras|lang=es}}.
 * Hebrew: {{t+|he|הונדורס}}
 * Hindi: {{t|hi|होन्डुरस|xs=Hindi}}
 * Hungarian: {{t+|hu|Honduras}}
-* Icelandic: {{t|is|Hondúras}}
+* Icelandic: {{t|is|Hondúras|n}}
+* [[Interlingua]]: {{t|ia|Honduras}}
 {{trans-mid}}
-* [[Interlingua]]: Honduras
 * Italian: {{t-|it|Honduras}}
 * Japanese: {{t-|ja|ホンジュラス|tr=Honjurasu}}
 * Korean: [[온두라스]] (Onduraseu)
@@ -46,9 +45,9 @@ From {{etyl|es|en}} {{term|Honduras|lang=es}}.
 * Portuguese: {{t+|pt|Honduras}}
 * Romanian: {{t-|ro|Honduras|n}}
 * Russian: {{t-|ru|Гондурас|m|tr=Gondurás}}
-* Serbian:
-*: Cyrillic: [[Хондурас]] {{m}}
-*: Latin: [[Honduras#Serbian|Honduras]] {{m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Хондурас|m|alt=Хо̏ндура̄с|sc=Cyrl}}
+*: Roman: {{t|sh|Honduras|m|Hȍndurās}}
 * Spanish: {{t+|es|Honduras}}
 * Swedish: {{t+|sv|Honduras}}
 * [[Tatar]]: [[Honduras#Tatar|Honduras]]
@@ -62,17 +61,6 @@ From {{etyl|es|en}} {{term|Honduras|lang=es}}.
 * {{projectlink|pedia}}
 
 [[Category:Countries]]
-
-----
-
-==Bosnian==
-
-===Proper noun===
-{{infl|bs|proper noun|g=m}}
-
-# [[#English|Honduras]]
-
-[[Category:bs:Countries]]
 
 ----
 
@@ -189,17 +177,28 @@ From {{etyl|es|en}} {{term|Honduras|lang=es}}.
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
+
+===Pronunciation===
+* {{IPA|/xônduraːs/|lang=sh}}
 
 ===Proper noun===
-{{infl|sr|proper noun|g=m}}
+{{sh-proper-noun|g=m|head=Hȍndurās|r|Хондурас|Хо̏ндура̄с}}
 
 # [[#English|Honduras]]
 
-====Cyrillic spelling====
-* [[Хондурас]]
+====Declension====
+{{sh-decl-noun-unc
+|Honduras
+|Hondurasa
+|Hondurasu
+|Honduras
+|Hondurase
+|Hondurasu
+|Hondurasom
+}}
 
-[[Category:sr:Countries]]
+[[Category:sh:Countries]]
 
 ----
 
