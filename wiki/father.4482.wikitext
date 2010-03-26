@@ -76,11 +76,11 @@ From {{etyl|enm}} {{term|fader|lang=enm}} < {{etyl|ang}} {{term|fæder|lang=ang}
 * [[Aleut]]: [[adax]]
 * [[American Sign Language]]: {{tø|ase|5@Forehead-ThumbBack Contact|xs=American Sign Language}}
 * [[Amharic]]: {{tø|am|እባት|tr=ʼəbat|sc=Ethi}}
-* Arabic: {{Arab|[[أب]]}} (’ab) {{m}}, {{Arab|[[والد]]}} (wālid) {{m}},  {{t|ar|أب|m|tr='ab|sc=Arab}},  {{t|ar|والد|m|tr=waalid|sc=Arab}}
+* Arabic: {{t|ar|أب|m|tr='ab|sc=Arab}},  {{t|ar|والد|m|tr=waalid|sc=Arab}}
 * [[Aragonese]]: [[pai]] {{m}}
 * Aramaic:
 *: Syriac: [[ܐܒܐ]] (’abā’) {{m}}
-*: Hebrew: [[אבא]] (’abā’) {{m}},  {{t|he|אב|m|tr=av|alt=אָב|sc=Hebr}}
+*: Hebrew: [[אבא]] (’abā’) {{m}}
 * Armenian: {{t+|hy|հայր|tr=hayr}},  {{qualifier|informal}} {{t|hy|պապա|tr=papa}}
 * [[Avestan]]: {{tø|ae|pitar}}
 * [[Azeri]]: {{t+|az|ata|xs=Azeri}}
@@ -89,10 +89,11 @@ From {{etyl|enm}} {{term|fader|lang=enm}} < {{etyl|ang}} {{term|fæder|lang=ang}
 * Bosnian: {{t-|bs|otac|m}}
 * [[Breton]]: [[tad#Breton|tad]] {{m}}, tadoù {{p}}
 * Bulgarian: {{t+|bg|баща|m|tr=bášta}}
-* CJKV Characters: [[父]]; [[禰]], [[祢]] (''deceased'')
 * [[Catalan]]: [[pare]] {{m}}
 * Central Sierra [[Miwok]]: {{unicode|[[ʔypýˑ-]]}}
-* Chinese: [[父]] (fù), [[爸爸]] (bàbà), [[父親]], [[父亲]] (fùqīn), [[爹]] (diē) ''colloquial''
+* Chinese:
+*: CJKV Characters: [[父]]; [[禰]], [[祢]] (''deceased'')
+*: Mandarin: {{t|zh|父|tr=fù|sc=Hani}},  {{t|zh|父親|sc=Hani}},  {{t|zh|父亲|tr=fùqīn|sc=Hani}},  {{t|zh|爸爸|tr=bàbà|sc=Hani}},  {{t|zh|爹|tr=diē|sc=Hani}} {{qualifier|colloquial}}
 * [[Chiricahua]]: -[[taa]] (Chiricahua); -[[dádé]] (Mescalero)
 * Croatian: {{t+|hr|otac}}
 * Czech: [[otec]], [[táta]], [[tatínek]], [[taťka]], [[fotr]] {{m}} {{i|pejorative}}
@@ -115,8 +116,8 @@ From {{etyl|enm}} {{term|fader|lang=enm}} < {{etyl|ang}} {{term|fæder|lang=ang}
 * [[Guaraní]]: [[úva]] (túva/ru/itúva)
 * [[Gujarati]]: [[પિતા]] (pitā)
 * Hawaiian: [[makua]] [[kāne]]
-* Hebrew: [[אב|אָב]] (av) {{m}}
-* Hindi: {{t+|hi|पिता|tr=pitā|xs=Hindi}},  {{t|hi|वालिद|m|tr=vālid|sc=Deva}}
+* Hebrew: {{t|he|אב|m|tr=av|alt=אָב|sc=Hebr}}
+* Hindi: {{t+|hi|पिता|m|tr=pitā|sc=Deva}},  {{t|hi|वालिद|m|tr=vālid|sc=Deva}}
 * [[Hittite]]: atta {{c}}
 * Hungarian: {{t+|hu|apa}}
 * Icelandic: {{t+|is|faðir|m}}
@@ -132,7 +133,7 @@ From {{etyl|enm}} {{term|fader|lang=enm}} < {{etyl|ang}} {{term|fæder|lang=ang}
 * [[Jicarilla]]: -[[ka’éé]]
 * [[Kamba]]: {{tø|kam|ethe}}
 * Kazakh: [[әке]] (əke), [[көке]] (köke)
-* Korean: [[아버지]] (abeoji),  {{t|ko|아버지|tr=abeoji|sc=Kore}}
+* Korean: {{t|ko|아버지|tr=abeoji|sc=Kore}}
 * Kurdish:
 *: [[Kurmanji]]: [[bab]] {{m}}, [[bav]] {{m}}
 *: [[Sorani]]: {{t|ku|باوک|tr=bawk|sc=ku-Arab}}, {{t|ku|باو|tr=baw|sc=ku-Arab}}, {{t-|ku|باب|tr=bab|sc=ku-Arab}}
@@ -148,7 +149,6 @@ From {{etyl|enm}} {{term|fader|lang=enm}} < {{etyl|ang}} {{term|fæder|lang=ang}
 * Malay: {{t+|ms|ayah|xs=Malay}}, {{t-|ms|bapak|xs=Malay}}, {{t-|ms|rama|xs=Malay}}
 * [[Malayalam]]: [[അച്ഛന്‍]]  (atʃtʃhan),  {{t|ml|പിതാവ്|tr=pithavu|sc=Mlym|xs=Malayalam}}
 * Maltese: {{t-|mt|missier|xs=Maltese}}
-* Mandarin: {{t|zh|父|tr=fù|sc=Hani}},  {{t|zh|父親|sc=Hani}},  {{t|zh|父亲|tr=fùqīn|sc=Hani}},  {{t|zh|爸爸|tr=bàbà|sc=Hani}},  {{qualifier|colloquial}} {{t|zh|爹|tr=diē|sc=Hani}}
 * [[Manx]]: {{t-|gv|ayr|m|xs=Manx}}
 * Maori: [[matua]] [[taane]]
 * [[Mbabaram]]: [[nganjan]]
@@ -175,7 +175,7 @@ From {{etyl|enm}} {{term|fader|lang=enm}} < {{etyl|ang}} {{term|fæder|lang=ang}
 * [[Romani]]: [[dad#Romani|dad]] {{m}}
 * Romanian: {{t+|ro|tată|m}}
 * [[Romansch]]: [[bap]] {{m}}
-* Russian: [[отец]] (otěts) {{m}}, [[папа]] (pápa) ''m colloq.'', [[батя]] (bátja) ''m colloq.''
+* Russian: {{t+|ru|отец|m|tr=otéc}}, {{t|ru|папа|m|tr=pápa}}  {{qualifier|colloquial}}, {{t|ru|батя|m|tr=bátja}}  {{qualifier|colloquial}}
 * [[Sardinian]]: [[babbu]] {{m}}
 * [[Saterland Frisian]]: {{tø|stq|Baabe}}
 * [[Scots]]: [[faither]], [[fader]]
