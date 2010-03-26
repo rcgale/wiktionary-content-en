@@ -32,7 +32,7 @@
 * Finnish: {{t-|fi|synnyttäminen}}, {{t+|fi|lisääntyminen}}
 * French: {{t+|fr|naissance|f}}
 * German: {{t+|de|Geburt|f}}
-* Greek: [[γέννα]] (yenna) {{f}}, [[τοκετός]] (toketos) {{m}}
+* Greek: {{t|el|γέννα|f|tr=génna}}, {{t|el|τοκετός|m|tr=toketós}}
 * Hebrew: [[לידה]] (leida) {{f}}
 * Hindi: {{t+|hi|जन्म|m|xs=Hindi}}
 * Hungarian: {{t|hu|szülés}}
@@ -50,18 +50,20 @@
 * Slovene: {{t+|sl|rojstvo|n}}, {{t+|sl|porod|m}}
 * Spanish: {{t+|es|nacimiento|m}}
 * Swahili: {{t+|sw|zaa|xs=Swahili}}
-* Swedish: {{t+|sv|födelse|c}}
+* Swedish: {eek{t+|sv|födelse|c}}
 * Vietnamese: ([[sự]]) [[sinh đẻ]]
 {{trans-bottom}}
 
 {{trans-top|instance of childbirth}}
-* [[Ancient Greek]]: {{tø|grc|τοκετός|tr=toketos|sc=polytonic}}
 * Armenian: {{t-|hy|ծնունդ|tr=çnund}}
 * Bulgarian: {{t|bg|раждане|n}}
 * [[Catalan]]: {{t+|ca|part|m}}
 * Czech: {{t-|cs|narození|n}}
-{{trans-mid}}
 * Esperanto: {{t-|eo|naskiĝo|xs=Esperanto}}
+{{trans-mid}}
+* Greek:
+*:Ancient: {{tø|grc|τοκετός|tr=toketos|sc=polytonic}}
+*:Modern: {{t|el|γέννα|f|tr=génna}}, {{t|el|τοκετός|m|tr=toketós}}
 * {{trreq|Hebrew}}
 * {{trreq|Latin}}
 * [[Macedonian]]: {{t|mk|породување|n|tr=porodúvanje}},  {{t|mk|раѓање|n|tr=ráǵanje}}
@@ -78,7 +80,7 @@
 * Czech: {{t-|cs|zrod|m}}
 * Finnish: {{t+|fi|alku}}, {{t+|fi|syntymä}}
 * German: {{t+|de|Geburt|f}}
-* Greek: {{t+|el|γέννηση|f|tr=yennisi}}
+* Greek: {{t+|el|γέννηση|f|tr=génnisi}}
 {{trans-mid}}
 * Italian: {{t+|it|nascita|f}}
 * Japanese: [[誕生]] ([[たんじょう]], tanjō)
@@ -97,6 +99,7 @@
 * Czech: {{t-|cs|původ|m}}
 * Dutch: {{t+|nl|afkomst|f}}
 * Finnish: [[syntyperä]], [[suku]], [[sukujuuri]]
+* Greek: {{t|el|καταγωγή|f|tr=katagogí}}
 {{trans-mid}}
 * Hungarian: {{t|hu|származás}}
 * Italian: {{t+|it|nascita|f}}
