@@ -1,13 +1,3 @@
-==Bosnian==
-
-===Numeral===
-{{infl|bs|numeral}}
-
-# {{cardinal|lang=bs}} [[zero]] (0)
-#: Next number: {{l|bs|jedan}} (1)
-
-----
-
 ==Czech==
 
 ===Pronunciation===
@@ -24,6 +14,7 @@
 ----
 
 ==Esperanto==
+
 ===Numeral===
 '''nula'''
 
@@ -40,19 +31,34 @@
 ----
 
 ==Ido==
+
 ===Determiner===
 {{infl|io|determiner}}
 # [[no]]
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
-===Numeral===
-{{infl|sr|numeral|Cyrillic spelling|нула}}
+===Pronunciation===
+* {{IPA|/nûla/|lang=sh}}
 
-# {{cardinal|lang=sr}} [[zero]] (0)
-#: Next number: {{l|sr|jedan}} (1)
+===Noun===
+{{sh-noun|g=f|r|нула|ну̏ла}}
+
+# {{cardinal|lang=sh}} [[zero]] (0)
+#: Next number: {{l|sh|jedan|jèdan}} (1)
+
+====Declension====
+{{sh-decl-noun
+|nula|nule
+|nule|nula
+|nuli|nulama
+|nulu|nule
+|nulo|nule
+|nuli|nulama
+|nulom|nulama
+}}
 
 [[de:nula]]
 [[el:nula]]
