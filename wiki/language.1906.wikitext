@@ -445,7 +445,7 @@
 
 {{checktrans-top}}
 * {{ttbc|Amuzgo}}: [[jñò ndá]]
-* {{ttbc|Bengali}}: [[ভাষা]] (bhāṣā)
+* {{ttbc|Bengali}}: {{Beng|[[ভাষা]]}} (bhāṣā)
 * {{ttbc|Breton}}: [[yezh]] {{f}}, yezhoù {{p}}
 * {{ttbc|Cebuano}}: [[yinaknan]], [[pinulungan]]
 * {{ttbc|Fijian}}: [[vosa]]
@@ -456,7 +456,7 @@
 {{trans-mid}}
 * {{ttbc|Manchu}}: [[gisun]]
 * {{ttbc|Maori}}: [[reo]]
-* {{ttbc|Middle High German}}: [[sprāche]] ({{f}})
+* {{ttbc|Middle High German}}: [[sprache|sprāche]] ({{f}})
 * {{ttbc|Sardinian}}: [[limba]]
 * {{ttbc|Slovak}}: [[reč]] {{f}}
 * {{ttbc|Tagalog}}: [[wika]], salita, pagbigkas, pagbasa
@@ -474,7 +474,33 @@
 
 ----
 
+==French==
+
+===Noun===
+{{fr-noun|m}}
+
+# {{archaic spelling of|langage|lang=fr}}
+
+----
+
+==Middle French==
+
+===Noun===
+{{frm-noun|m|s}}
+
+# [[language]] (style of communicating)
+
+====See also====
+* {{l|frm|langue}}
+
+----
+
 ==Old French==
+
+====Alternative forms====
+* {{l|fro|langage}}
+* {{l|fro|linguage}}
+* {{l|fro|linguaige}}
 
 ===Etymology===
 {{etyl|la|fro}} {{term|lingua||tongue, language|lang=la}}.
@@ -482,11 +508,16 @@
 ===Noun===
 {{fro-noun-f}}
 
-# [[language#English|language]]
+# [[language#English|language]] (style of communicating)
 
 ====Descendants====
 * English: [[language#English|language]]
-* French: [[langue]], [[langage]]
+* French: [[langage]]
+* Middle English: {{l|enm|language}}
+* Middle French: {{l|frm|language}}
+
+====See also====
+* {{l|fro|langue}}, {{l|fro|lingue}}
 
 [[ang:language]]
 [[ar:language]]
