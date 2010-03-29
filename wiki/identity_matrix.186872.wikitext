@@ -1,7 +1,7 @@
 ==English==
 
 ===Noun===
-'''[[identity]] [[matrix]]''' (''plural'' '''identity matrices''')
+{{en-noun|sg=[[identity]] [[matrix]]|identity matrices}}
 
 # {{linearalg}} A [[diagonal matrix]] all of the [[diagonal element]]s of which are equal to 1.
 
@@ -9,17 +9,21 @@
 * [[unit matrix]]
 
 ====Translations====
-* Dutch: [[eenheidsmatrix]]
+{{trans-top|diagonal matrix with all diagonal elements equal to 1}}
+* Dutch: {{t|nl|eenheidsmatrix|m}}
 * Estonian: {{t|et|ühikmaatriks}}
 * Finnish: {{t-|fi|yksikkömatriisi}}, {{t-|fi|identiteettimatriisi}}
-* French: [[matrice identité]] {{f}}, [[matrice unité]] {{f}}
-* German: [[Einheitsmatrix]] {{f}}
+* French: {{t|fr|matrice identité|f}}, {{t|fr|matrice unité|f}}
+* German: {{t|de|Einheitsmatrix|f}}
 * Icelandic: {{t|is|einingarfylki|n}}
-* Italian: [[matrice identità]] {{f}}
-* Japanese: {{Jpan|[[単位行列]]}} (tan'i gyōretsu)
-* Polish: [[macierz jednostkowa]]
-* Spanish: [[matriz identidad]] {{f}}
+{{trans-mid}}
+* Italian: {{t|it|matrice identità|f}}
+* Japanese: {{t|ja|単位行列|tr=tan'i gyōretsu}}
+* Polish: {{t|pl|macierz jednostkowa|f}}
+* {{trreq|Serbo-Croatian}}
+* Spanish: {{t|es|matriz identidad|f}}
 * Swedish: {{t+|sv|enhetsmatris|c}}
+{{trans-bottom}}
 
 [[fr:identity matrix]]
 [[id:identity matrix]]
