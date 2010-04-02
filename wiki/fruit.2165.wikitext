@@ -3,7 +3,7 @@
 ==English==
 
 ===Etymology===
-(1125–75) {{etyl|enm}} ''[[fruit#Middle English|fruit]]'' "fruits and vegetables" from {{etyl|fro}} ''[[fruit#Old French|fruit]]'' from {{etyl|la}} ''[[fructus|frūctus]]'' "enjoyment, proceeds, profits, produce, income", a derivative of {{etyl|la}} ''[[frui]]'' "to have the benefit of, to use, to enjoy" from {{proto|Indo-European|bhrug-|to make use of, to have enjoyment of}}; cognate with Modern {{etyl|deu|-}} ''[[brauchen]]'' "to use", {{eng}} ''[[brook]]'' "to tolerate". Displaced native {{enm}} ''[[ovet#Middle English|ovet]]'' "fruit" (from {{ang}} ''[[ofett#Old English|ofett]]'' "fruit"), {{enm}} ''[[wastum#Middle English|wastum, wastom]]'' "fruit, growth" (from {{ang}} ''[[wæstm#Old English|wæstm]]'' "growth, produce, increase, fruit"), {{enm}} ''[[blede#Middle English|blede]]'' "fruit, flower, offspring" (from {{ang}} ''[[bled#Old English|blēd]]'' "fruit, flower").
+(1125–75) {{etyl|enm}} ''[[fruit#Middle English|fruit]]'' "fruits and vegetables" from {{etyl|fro}} ''[[fruit#Old French|fruit]]'' from {{etyl|la}} ''[[fructus|fructus]]'' "enjoyment, proceeds, profits, produce, income", a derivative of {{etyl|la}} ''[[frui]]'' "to have the benefit of, to use, to enjoy" from {{proto|Indo-European|bhrug-|to make use of, to have enjoyment of}}; cognate with Modern {{etyl|deu|-}} ''[[brauchen]]'' "to use", {{eng}} ''[[brook]]'' "to tolerate". Displaced native {{enm}} ''[[ovet#Middle English|ovet]]'' "fruit" (from {{ang}} ''[[ofett#Old English|ofett]]'' "fruit"), {{enm}} ''[[wastum#Middle English|wastum, wastom]]'' "fruit, growth" (from {{ang}} ''[[wæstm#Old English|wæstm]]'' "growth, produce, increase, fruit"), {{enm}} ''[[blede#Middle English|blede]]'' "fruit, flower, offspring" (from {{ang}} ''[[bled#Old English|blēd]]'' "fruit, flower").
 
 ===Pronunciation===
 * {{enPR|fro͞ot}},  {{IPA|/fɹuːt/}}, {{SAMPA|/fru:t/}}
@@ -260,14 +260,12 @@
 ==Catalan==
 
 ===Etymology===
-{{etyl|la|ca}} [[fructus]]
+{{etyl|la|ca}} {{term|fructus|lang=la}}
 
 ===Noun===
-'''fruit'''
+{{infl|ca|noun|g=m}}{{attention|ca}}
 
 # [[#English|fruit]]
-
-[[Category:Catalan nouns]]
 
 ----
 
@@ -279,11 +277,12 @@
 ===Noun===
 {{nl-noun|g=n|*}} {{inv}}
 
-# {{botany}} [[#English|fruit]] (''produced by trees or bushes, or any sweet vegetable'')
+# [[#English|fruit]] (''produced by trees or bushes, or any sweet vegetable'')
 
 ====Synonyms====
 * [[vrucht]], (''arch.'') [[ooft]]
 
+[[Category:nl:Fruits|*]]
 ----
 
 ==French==
@@ -293,7 +292,7 @@ From {{etyl|la|fr}} {{term|fructus||enjoyment, proceeds, profits, produce, incom
 
 ===Pronunciation===
 * {{IPA|/fʁɥi/|lang=fr}}
-*: {{audio|Fr-un fruit-fr-ouest.ogg|Audio (Western France)}}
+* {{audio|Fr-un fruit-fr-ouest.ogg|Audio (Western France)}}
 * {{homophones|fruits|lang=fr}}
 
 ===Noun===
@@ -301,9 +300,36 @@ From {{etyl|la|fr}} {{term|fructus||enjoyment, proceeds, profits, produce, incom
 
 # [[#English|fruit]] (1, 2, 3, 4)
 
-[[Category:fr:Botany]]
+[[Category:fr:Fruits|*]]
 [[Category:fr:Foods]]
 [[Category:fr:Nutrition]]
+
+----
+
+==Anglo-Norman==
+
+===Etymology===
+{{etyl|la|xno}} {{term|fructus|lang=la}}
+
+===Noun===
+{{xno-noun-m|fruiz|fruiz}}
+
+# {{l|en|fruit}}
+#:''Li '''fruiz''' de arbres'' - the fruits of the tree
+
+----
+
+==Old French==
+
+===Etymology===
+{{etyl|la|fro}} {{term|fructus|lang=la}}
+
+===Noun===
+{{fro-noun-m|fruiz|fruiz}}
+
+# {{l|en|fruit}}
+#:''Oisiaus et veneison et '''fruit''''' - bird, venison and fruits
+{{rfc-auto}}
 
 [[ar:fruit]]
 [[zh-min-nan:fruit]]
