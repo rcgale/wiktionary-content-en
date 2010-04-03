@@ -95,7 +95,7 @@ From {{etyl|enm|en}} {{term|moder||lang=enm}} < {{etyl|ang|en}} {{term|modor|mō
 * Bulgarian: {{t+|bg|майка|f}}
 * [[Catalan]]: {{t+|ca|mare|f}}
 * Chinese:
-*: Chinese: {{t|zh|母|tr=mǔ|sc=Hani}}, {{t|zh|母親|sc=Hani}}, {{t|zh|母亲|tr=mǔqīn|sc=Hani}}, {{t|zh|媽媽|sc=Hani}}, {{t|zh|妈妈|tr=māma|sc=Hani}}, {{t|zh|娘|tr=niáng|sc=Hani}} {{qualifier|colloquial}}
+*: Chinese: {{t-|cmn|母|tr=mǔ|sc=Hani}}, {{t-|cmn|母親|sc=Hani}}, {{t-|cmn|母亲|tr=mǔqīn|sc=Hani}}, {{t-|cmn|媽媽|sc=Hani}}, {{t-|cmn|妈妈|tr=māma|sc=Hani}}, {{t-|cmn|娘|tr=niáng|sc=Hani}} {{qualifier|colloquial}}
 * [[Crimean Tatar]]: {{tø|crh|ana|xs=Crimean Tatar}}
 * Croatian: {{t+|hr|majka}}, {{t+|hr|mati}}
 * Czech: {{t+|cs|matka|f}}
@@ -115,7 +115,7 @@ From {{etyl|enm|en}} {{term|moder||lang=enm}} < {{etyl|ang|en}} {{term|modor|mō
 *: Modern: {{t+|el|μητέρα|f|tr=mitéra}}, (''colloquial'') {{t+|el|μάνα|f|tr=mána}}
 * Hawaiian: {{tø|haw|makuahine|xs=Hawaiian}}
 * Hebrew: {{t-|he|אֵם|אם|f|tr=em}}
-* Hindi: {{t|hi|माता|f|tr=mātā|sc=Deva}},  {{t|hi|मां|f|tr=mā̃|sc=Deva}},  {{t|hi|मादर|f|tr=mādar|sc=Deva}},  {{t|hi|वालिदा|f|tr=vālidā|sc=Deva}}
+* Hindi: {{t+|hi|माता|f|tr=mātā|xs=Hindi}},  {{t|hi|मां|f|tr=mā̃|xs=Hindi}},  {{t-|hi|मादर|f|tr=mādar|xs=Hindi}},  {{t|hi|वालिदा|f|tr=vālidā|xs=Hindi}}
 * Hungarian: {{t+|hu|anya}}
 * Icelandic: {{t+|is|mamma|f}}, {{t+|is|móðir|f}}
 * [[Igbo]]: {{tø|ig|nne|xs=Igbo}}
@@ -150,7 +150,7 @@ From {{etyl|enm|en}} {{term|moder||lang=enm}} < {{etyl|ang|en}} {{term|modor|mō
 *: Cyrillic: {{tø|cu|мати|f|sc=Cyrl|xs=Old Church Slavonic}}
 *: Glagolitic: {{tø|cu|ⰏⰀⰕⰉ|f|sc=Glag|xs=Old Church Slavonic}}
 * [[Pashto]]: {{t|ps|مور|f|tr=mor|sc=ur-Arab|xs=Pashto}}
-* Persian: {{t+|fa|مادر|alt=مادَر|tr=mādær|xs=Persian}},  {{t+|fa|مامان|f|tr=māmān|xs=Persian}},  {{t|fa|والده|sc=fa-Arab}}
+* Persian: {{t+|fa|مادر|alt=مادَر|tr=mādær|xs=Persian}},  {{t+|fa|مامان|f|tr=māmān|xs=Persian}},  {{t|fa|والده|xs=Persian}}
 * Polish: {{t+|pl|matka|f}}, {{t+|pl|mama|f}}
 * Portuguese: {{t+|pt|mãe|f}}
 * [[Romani]]: [[dej]] {{f}}
@@ -175,7 +175,7 @@ From {{etyl|enm|en}} {{term|moder||lang=enm}} < {{etyl|ang|en}} {{term|modor|mō
 * [[Tok Pisin]]: {{t-|tpi|mama|xs=Tok Pisin}}, {{t-|tpi|mami|xs=Tok Pisin}}
 * Turkish: {{t+|tr|anne}}
 * Ukrainian: {{t+|uk|мати|f|tr=máty|xs=Ukrainian}}
-* Urdu: {{t|ur|ماتا|f|tr=mātā|sc=ur-Arab}}, {{t|ur|ماں|f|tr=|tr=mā̃|xs=Urdu}}, {{t|ur|مادر|f|tr=mādar|sc=ur-Arab}},  {{t|ur|والدہ|f|tr=vālidā|sc=ur-Arab}}
+* Urdu: {{t-|ur|ماتا|f|tr=mātā|xs=Urdu}}, {{t|ur|ماں|f|tr=mā̃|tr=|xs=Urdu}}, {{t-|ur|مادر|f|tr=mādar|xs=Urdu}},  {{t|ur|والدہ|f|tr=vālidā|xs=Urdu}}
 * Vietnamese: {{t+|vi|mẹ|xs=Vietnamese}}
 * Welsh: {{t-|cy|mam|xs=Welsh}}
 * [[West Frisian]]: {{t+|fy|mem|f|xs=West Frisian}}
@@ -316,7 +316,7 @@ From {{etyl|enm|en}} {{term|moder||lang=enm}} < {{etyl|ang|en}} {{term|modor|mō
 * Ukrainian: [[мати]] (máty) {{f}}
 * [[Uyghur]]: [[ana]], [[apa]]
 * Uzbek: [[oyim]]
-* Vietnamese: [[má]], [[mẹ]], [[mợ]], [[u]]
+* Vietnamese: {{t+|vi|má|xs=Vietnamese}}, {{t+|vi|mẹ|xs=Vietnamese}}, {{t+|vi|mợ|xs=Vietnamese}}, {{t+|vi|u|xs=Vietnamese}}
 * [[Volapük]]: [[jipal]], [[mot]]
 * Welsh: {{t-|cy|mam|xs=Welsh}}
 * [[West Frisian]]: [[mem]] {{f}}
