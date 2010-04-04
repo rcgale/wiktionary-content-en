@@ -56,13 +56,13 @@ In any case, the word ''chocolate'' reached English via {{etyl|es}}.
 ====Translations====
 {{trans-top|food made from ground roasted cocoa beans}}
 * [[Afrikaans]]: {{t+|af|sjokolade|xs=Afrikaans}}
-* Arabic: {{Arab|[[شوكولاتة]]}} (shukulāta) {{f}},  {{t|ar|شوكولاتة|f|tr=shukulaata|sc=Arab}}
+* Arabic: {{t|ar|شوكولاتة|f|tr=shukulaata|sc=Arab}}
 * Armenian: {{t-|hy|շոկոլադ|tr=šokolad}}
 * [[Azeri]]: {{t-|az|şokolad|xs=Azeri}}
 * Belarusian: {{t|be|шакалад|m|tr=šakalád|sc=Cyrl}}
 * Bosnian: {{t-|bs|čokolada|f}}
 * [[Breton]]: [[chokolad]] {{m}}
-* Bulgarian: {{t-|bg|шоколад|m}}
+* Bulgarian: {{t-|bg|шоколад|m|tr=šokolád|sc=Cyrl}}
 * {{trreq|Burmese}}
 * [[Catalan]]: [[xocolata]] {{f}}
 * [[Cebuano]]: [[sikwate]]
@@ -81,9 +81,9 @@ In any case, the word ''chocolate'' reached English via {{etyl|es}}.
 * Georgian: {{t-|ka|შოკოლადი|tr=šokoladi|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Schokolade|f}}
 * Greek: {{t+|el|σοκολάτα|f|tr=sokolata}}
-* [[Gujarati]]: [[ચોકલિટ્]],  {{t|gu|ચોકલિટ્|tr=cōkaliṭ|sc=Gujr}}
-* Hebrew: [[שוקולד|שׁוֹקוֹלֶד]] (shoqolad) {{m}},  {{t|he|שוקולד|m|tr=shoqolad|alt=שׁוֹקוֹלֶד|sc=Hebr}}
-* Hindi: {{t-|hi|चाकलेट|xs=Hindi}},  {{t|hi|चॉकलेट|tr=cokalēṭ|sc=Deva}},  {{t|hi|चाकलेट|tr=cākalet|sc=Deva}}
+* [[Gujarati]]: {{t|gu|ચોકલિટ્|tr=cōkaliṭ|sc=Gujr}}
+* Hebrew: {{t|he|שוקולד|m|tr=shoqolad|alt=שׁוֹקוֹלֶד|sc=Hebr}}
+* Hindi: {{t|hi|चॉकलेट|tr=cokalēṭ|sc=Deva}},  {{t-|hi|चाकलेट|tr=cākalēṭ|sc=Deva}}
 * Hungarian: {{t+|hu|csokoládé}}
 * Icelandic: {{t+|is|súkkulaði}}
 * [[Ido]]: {{t+|io|chokolado|xs=Ido}}
@@ -91,14 +91,14 @@ In any case, the word ''chocolate'' reached English via {{etyl|es}}.
 * Italian: {{t+|it|cioccolato|m}}, {{t-|it|cioccolata|f}}
 * Japanese: {{t+|ja|チョコレート|tr=chokorēto}}
 {{trans-mid}}
-* [[Khmer]]: {{Khmr|[[ស៊ុកូឡា]]}} (syogula),  {{t|km|ស៊ុកូឡា|tr=syogula|sc=Khmr}}
-* Korean: [[초콜렛]] (chokkolet),  {{t|ko|초콜렛|tr=chokkolet|sc=Kore}}
+* [[Khmer]]: {{t|km|ស៊ុកូឡា|tr=syogula|sc=Khmr}}
+* Korean: {{t|ko|초콜렛|tr=chokkolet|sc=Kore}}
 * [[Lao]]: {{t-|lo|ໂຊໂກລາ|tr=sookoolaa|sc=Laoo|xs=Lao}}
 * Latin: {{t|la|cacaotica |f}}
 * Latvian: [[šokolāde]] {{g|Latvian}}
 * Lithuanian: {{t+|lt|šokoladas|m|xs=Lithuanian}}
 * [[Lojban]]: [[cakla]]
-* [[Macedonian]]: [[чоколада]] {{f}},  {{t|mk|чоколада|f|tr=čokoláda|sc=Cyrl}}
+* [[Macedonian]]: {{t|mk|чоколада|f|tr=čokoláda|sc=Cyrl}}
 * Malay: {{t-|ms|coklat|xs=Malay}}
 * Maltese: [[ċikkulata]] {{f}}
 * Norwegian: {{t+|no|sjokolade|m}}
@@ -121,11 +121,11 @@ In any case, the word ''chocolate'' reached English via {{etyl|es}}.
 * [[Taos]]: [[cikulòti’ína]]
 * {{trreq|Telugu}}
 * [[Tetum]]: [[xoklate]]
-* Thai: {{Thai|[[ช็อกโกแล็ต]]}} (chókgohláet),  {{t|th|ช็อกโกแล็ต|tr=chókgohláet|sc=Thai}}
+* Thai: {{t|th|ช็อกโกแล็ต|tr=chók-goh-láet|sc=Thai}}
 * {{trreq|Tibetan}}
 * Turkish: {{t+|tr|çikolata}}
 * Ukrainian: {{t|uk|шоколад|m|tr=šokolád|sc=Cyrl}}
-* Vietnamese: [[sô-cô-la]], [[sôcôla]], [[socola]],  {{t|vi|sô-cô-la}},  {{t|vi|sôcôla}},  {{t|vi|socola}}
+* Vietnamese: {{t|vi|sô-cô-la}},  {{t|vi|sôcôla}},  {{t|vi|socola}}
 * Welsh: {{t|cy|siocled|m|xs=Welsh}}
 * Yiddish: {{t|yi|שאָקאָלאַד|m|tr=shokolad|xs=Yiddish}}
 {{trans-bottom}}
@@ -136,7 +136,8 @@ In any case, the word ''chocolate'' reached English via {{etyl|es}}.
 * Bulgarian: {{t|bg|шоколадов бонбон}}
 * [[Catalan]]: [[bombó]] {{m}}, [[xocolatina]] {{f}}
 * [[Cebuano]]: [[tsokolate]]
-* Chinese: [[巧克力]], [[巧克力]] (qiǎokèlì)
+* Chinese:
+*: Mandarin: {{t-|cmn|巧克力|tr=qiǎokèlì|sc=Hani}}
 * Croatian: {{t-|hr|čokolada|f|alt=čokoláda}}
 * Dutch: [[chocoladebonbon]] {{m}}, [[chocolaatje]] {{n}}, [[praline#Dutch|praline]] {{f}}
 * Esperanto: {{t-|eo|ĉokolado|xs=Esperanto}}
@@ -164,7 +165,8 @@ In any case, the word ''chocolate'' reached English via {{etyl|es}}.
 {{trans-bottom}}
 
 {{trans-top|colour}}
-* Chinese: [[巧克力]]色, [[巧克力]]色 (qiǎokèlì sè)
+* Chinese:
+*: Mandarin: [[巧克力]]色, [[巧克力]]色 (qiǎokèlì sè)
 * Dutch: {{t+|nl|chocoladekleur|n}}
 * Esperanto: [[ĉokoladkoloro]]
 * Finnish: {{t-|fi|suklaanruskea}}
@@ -183,7 +185,6 @@ In any case, the word ''chocolate'' reached English via {{etyl|es}}.
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|Arabic}}: {{Arab|[[شوكولاتة]]}} (šukuláta) {{f}}
 * {{ttbc|Breton}}: [[chokoladenn]] {{f}}, chokoladennoù {{p}}
 * {{ttbc|Galician}}: [[#Galician|chocolate]] {{m}}
 * {{ttbc|Interlingua}}: [[#Interlingua|chocolate]]
