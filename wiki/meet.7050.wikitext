@@ -212,20 +212,22 @@ From {{etyl|ang}} {{term|gemæte||suitable, having the same measurements|lang=an
 * {{IPA|/met/|lang=nl}}, {{SAMPA|/met/}}
 
 ===Etymology 1===
-See {{term|meten|lang=nl}}.
-
-====Verb====
-'''meet'''
-
-# {{form of|singular indicative|meten}} - [[measure]](s)
-
-===Etymology 2===
 From {{etyl|en|nl}}
 
 ====Noun====
-{{nl-noun|meten}}
+{{nl-noun|g=c|meten}}
 
 # The [[finish]] line in a competition
+
+===Etymology 2===
+See {{term|meten|lang=nl}}.
+
+====Verb====
+{{infl|nl}}
+
+# {{nl-verb-form|p=123|n=sg|t=pres|m=ind|meten}}
+# {{nl-verb-form|m=imp|meten}}
+
 
 ----
 
@@ -267,12 +269,3 @@ From {{etyl|en|nl}}
 [[uk:meet]]
 [[vi:meet]]
 [[zh:meet]]
-
-----
-==Dutch==
-===Verb===
-{{infl|nl}}
-
-# {{nl-verb-form|p=123|n=sg|t=pres|m=ind|meten}}
-# {{nl-verb-form|m=imp|meten}}
-[[Category:Requests for cleanup (MewBot)]]
