@@ -43,7 +43,6 @@
 * Chinese:
 *: Cantonese: {{tø|yue|翻譯|tr=faan1 jik6|sc=Hani|xs=Cantonese}}
 *: Mandarin: {{t-|cmn|翻譯|sc=Hani}}, {{t-|cmn|翻译|tr=fānyì|sc=Hani}}
-* Croatian: {{t-|hr|prijevod|m|alt=prijévod}}
 * Czech: {{t|cs|překládání|n}}
 * Danish: {{t-|da|oversættelse|c}}
 * Dutch: {{t+|nl|vertaling|f}}
@@ -55,14 +54,14 @@
 * Hebrew: {{t+|he|תרגום|m|alt=תַּרְגּוּם|tr=targúm}}
 * Hindi: {{t+|hi|अनुवाद|tr=anuvād|xs=Hindi}}
 * Hungarian: {{t+|hu|fordítás}}
-* {{trreq|Icelandic}}
+* Icelandic: {{t|is|þýðing|f}}
 * [[Interlingua]]: [[traduction]]
 * Irish: {{t-|ga|aistriú|m|xs=Irish}}
 * Italian: {{t+|it|traduzione|f}}
 * Japanese: {{t+|ja|翻訳|tr=ほんやく, hon'yaku}}
-{{trans-mid}}
 * Korean: {{t+|ko|번역|tr=beonyeok|sc=Hang}} ({{t-|ko|飜譯|sc=Hani}})
 * Kurdish: {{ku-Arab|[[وه‌رگێڕ]]}}
+{{trans-mid}}
 * Lithuanian: {{t+|lt|vertimas|m|xs=Lithuanian}}
 * [[Lojban]]: {{t|jbo|nunfanva|xs=Lojban}}
 * [[Macedonian]]: {{t-|mk|превод|m|tr=prévod}},  {{t|mk|преведување|n|tr=prevedúvanje}}
@@ -74,6 +73,9 @@
 * [[Punjabi]]: [[ਉਲਥਾ]] {{m}}, [[ਅਨੁਵਾਦ]] {{m}}, [[ਤਰਜਮਾ]] {{m}}
 * Romanian: {{t+|ro|traducere|f}}
 * Russian: {{t+|ru|перевод|m|tr=perevód}}
+* Serbo-Croatian:
+*: Cyrillic: {{qualifier|Ekavian}} {{t-|sh|превод|m|alt=пре́вод|sc=Cyrl}}, {{qualifier|Ijekavian}} {{t-|sh|пријевод|m|alt=прије́вод|sc=Cyrl}}
+*: Roman: {{qualifier|Ekavian}} {{t-|sh|prevod|m|alt=prévod}}, {{qualifier|Ijekavian}} {{t-|sh|prijevod|m|alt=prijévod}}
 * Slovak: {{t|sk|preklad|m}}, {{t|sk|prekladanie|n}}
 * Slovene: {{t|sl|prevajanje|n}}
 * Spanish: {{t+|es|traducción|f}}
@@ -92,11 +94,10 @@
 * Arabic: {{t+|ar|ترجمة|f|tr=tarjima}}
 * Armenian: {{t-|hy|թարգմանություն|tr=t’argmanut’yun}}
 * Bengali: {{tø|bn|অনুবাদ|tr=anubād|sc=Beng}}
-* [[Catalan]]: [[traducció]] {{f}}
+* [[Catalan]]: {{t|ca|traducció|f}}
 * Chinese:
 *: Cantonese: {{tø|yue|翻譯|tr=faan1 jik6|sc=Hani|xs=Cantonese}}
 *: Mandarin: {{t-|cmn|翻譯|sc=Hani}}, {{t-|cmn|翻译|tr=fānyì|sc=Hani}}, {{t-|cmn|譯文|sc=Hani}}, {{t-|cmn|译文|tr=yìwén|sc=Hani}}
-* Croatian: {{t-|hr|prijevod|m|alt=prijévod}}
 * Czech: {{t+|cs|překlad|m}}
 * Danish: {{t-|da|oversættelse|c}}
 * Dutch: {{t+|nl|vertaling|f}}
@@ -108,10 +109,11 @@
 * Hebrew: {{t+|he|תרגום|m|alt=תַּרְגּוּם|tr=targúm}}
 * Hindi: {{t+|hi|अनुवाद|tr=anuvād|xs=Hindi}}
 * Hungarian: {{t+|hu|fordítás}}
+* Icelandic: {{t|is|þýðing|f}}
 * [[Ido]]: {{t-|io|traduko|xs=Ido}}
-{{trans-mid}}
 * [[Interlingua]]: {{t-|ia|traduction|xs=Interlingua}}
 * Irish: {{t+|ga|aistriúchán|m|xs=Irish}}
+{{trans-mid}}
 * Italian: {{t+|it|traduzione|f}}
 * Japanese: {{t+|ja|訳|tr=[[やく]], [[yaku]]}}, {{t|ja|訳文|tr=[[やくぶん]], yakubun}}, {{t+|ja|翻訳|tr=[[ほんやく]], hon'yaku}}
 * Kurdish: {{ku-Arab|[[وه‌رگێڕ]]}}
@@ -122,6 +124,9 @@
 * Portuguese: {{t+|pt|tradução|f}}, {{t|pt|obra traduzida|f}}
 * Romanian: {{t+|ro|traducere|f}}
 * Russian: {{t+|ru|перевод|m|tr=perevód}}
+* Serbo-Croatian:
+*: Cyrillic: {{qualifier|Ekavian}} {{t-|sh|превод|m|alt=пре́вод|sc=Cyrl}}, {{qualifier|Ijekavian}} {{t-|sh|пријевод|m|alt=прије́вод|sc=Cyrl}}
+*: Roman: {{qualifier|Ekavian}} {{t-|sh|prevod|m|alt=prévod}}, {{qualifier|Ijekavian}} {{t-|sh|prijevod|m|alt=prijévod}}
 * Slovak: {{t|sk|preklad|m}}
 * Slovene: {{t+|sl|prevod|m}}
 * Spanish: {{t+|es|traducción|f}}
@@ -137,31 +142,34 @@
 * Dutch: {{t+|nl|transmissie|f}}, {{t-|nl|overzetting|f}}
 * Finnish: [[välitys]], [[välityssuhde]]
 * French: {{t+|fr|transmission|f}}
-* German: [[Übersetzung]] {{f}} ''(slow to fast)'', [[Untersetzung]] {{f}} ''(fast to slow)''
+* German: {{t|de|Übersetzung|f}} ''(slow to fast)'', {{t|de|Untersetzung|f}} ''(fast to slow)''
 * Hungarian: {{t|hu|vált}},  {{qualifier|slow to fast}} {{t|hu|felvált}},  {{qualifier|fast to slow}} {{t|hu|levált}}
 * Japanese: {{t|ja|伝達|tr=[[でんたつ]], [[dentatsu]]}}
 {{trans-mid}}
 * [[Macedonian]]: {{t-|mk|пренос|m|tr=prénos}}
 * Portuguese: {{t+|pt|transmissão|f}}
 * Russian: {{t+|ru|переключение|n}}, {{t+|ru|перевод|m}}
-* Slovak: [[preradenie]] {{n}}
+* Slovak: {{t|sk|preradenie|n}}
 * Swahili: {{t+|sw|fasiri|xs=Swahili}}
 {{trans-bottom}}
 
 {{trans-top|math, physics: motion without deformation or rotation}}
-* Croatian: {{t-|hr|translacija|f|alt=translácija}}
 * Czech: [[translace]] {{f}}
 * Dutch: {{t+|nl|translatie|f}}
 * Finnish: {{t-|fi|translaatio}}
 * French: {{t+|fr|translation|f}}
 * German: {{t+|de|Translation|f}}
+* Icelandic: {{t|is|hliðrun|f}}
 * Irish: {{t-|ga|aistriú|m|xs=Irish}}
 * Italian: {{t-|it|traslazione|f}}
 * Japanese: {{t|ja|平行移動|tr=heikōidō}}
-{{trans-mid}}
 * Polish: {{t|pl|przesunięcie|n}}
+{{trans-mid}}
 * Portuguese: {{t+|pt|translação|f}}
 * Russian: {{t|ru|трансляция|f|tr=transljátsija}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|транслација|f|alt=трансла́ција|sc=Cyrl}}
+*: Roman: {{t-|sh|translacija|f|alt=translácija}}
 * Slovak: {{t|sk|posunutie|n}}, {{t|sk|translácia|f}} ''(mathematical)''
 * Slovene: {{t-|sl|translacija|f}}
 * Spanish: {{t-|es|traslación|f}}
@@ -171,6 +179,9 @@
 
 {{trans-top|genetics: process for producing proteins}}
 * Finnish: {{t-|fi|translaatio}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|транслација|f|alt=трансла́ција|sc=Cyrl}}
+*: Roman: {{t-|sh|translacija|f|alt=translácija}}
 {{trans-mid}}
 {{trans-bottom}}
 
