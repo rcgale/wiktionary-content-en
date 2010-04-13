@@ -65,7 +65,7 @@
 * Icelandic: {{t+|is|hluti|m}},  {{t-|is|stykki|n}}
 * Irish: {{t+|ga|píosa|m|xs=Irish}}, {{t+|ga|giota|m|xs=Irish}}
 * Italian: {{t+|it|pezzo|m}}, {{t+|it|porzione|f}}
-* Japanese: [[一切れ]] (ひときれ, hitokire),  {{t|ja|一片|tr=いっぺん, ippen}},  {{t|ja|切り身|tr=きりみ, kirimi}},  {{t|ja|ピース|tr=pīsu}}
+* Japanese: {{qualifier|part}} {{t|ja|sc=Jpan|部分|tr=[[ぶぶん]], bubun}}; {{qualifier|small part}} {{t|ja|sc=Jpan|一切れ|tr=[[ひときれ]], hitokire}}, {{t|ja|sc=Jpan|一片|tr=[[いっぺん]], ippen}}; {{qualifier|fish meat}} {{t|ja|sc=Jpan|切り身|tr=[[きりみ]], kirimi}}
 {{trans-mid}}
 * [[Khmer]]: {{Khmr|[[ដុំ]]}} (dom)
 * Korean: [[한조각]] (hanjogak)
@@ -95,6 +95,7 @@
 {{trans-bottom}}
 
 {{trans-top|single item belonging to a class of similar items}}
+* Japanese: {{t|ja|sc=Jpan|一片|tr=[[いっぺん]], ippen}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -104,7 +105,8 @@
 * Danish: {{t-|da|brik|c}}
 {{trans-mid}}
 * Finnish: {{t|fi|nappula}}
-* Swahili: {{t+|sw|gawo|xs=Swahili}},  {{t+|sw|pande|xs=Swahili}}
+* Japanese: {{t|ja|sc=Jpan|ピース|tr=ぴーす, pīsu}}
+* Swahili: {{t+|sw|gawo|xs=Swahili}}, {{t+|sw|pande|xs=Swahili}}
 {{trans-bottom}}
 
 {{trans-top|small coin}}
@@ -113,26 +115,27 @@
 {{trans-bottom}}
 
 {{trans-top|artistic creation}}
-* Finnish: {{t|fi|kappale}} (''music''); {{t|fi|teos}} (''other'')
+* Finnish: {{qualifier|music}} {{t|fi|kappale}}; {{qualifier|other}} {{t|fi|teos}}
 {{trans-mid}}
 * Icelandic: {{t+|is|verk|n}}, {{t-|is|stykki|n}}
+* Japanese: {{t|ja|sc=Jpan|作品|tr=[[さくひん]], sakuhin}}
 {{trans-bottom}}
 
 {{trans-top|sandwiches, packed lunch}}
 * Finnish: {{t|fi|eväät|p}}, {{t|fi|lounaspaketii}}
 {{trans-mid}}
-* Swahili: {{t+|sw|gawo|xs=Swahili}},  {{t+|sw|pande|xs=Swahili}}
+* Swahili: {{t+|sw|gawo|xs=Swahili}}, {{t+|sw|pande|xs=Swahili}}
 {{trans-bottom}}
 
 {{trans-top|slang: sexual encounter}}
 * Finnish: {{t|fi|pano}}
-* Swahili: {{t+|sw|gawo|xs=Swahili}},  {{t+|sw|pande|xs=Swahili}}
+* Swahili: {{t+|sw|gawo|xs=Swahili}}, {{t+|sw|pande|xs=Swahili}}
 {{trans-mid}}
 * Swedish: {{t|sv|nyp|n}}
 {{trans-bottom}}
 
 {{trans-top|slang: gun}}
-* Finnish: {{t+|fi|ase}},  {{t|fi|tykki}}
+* Finnish: {{t+|fi|ase}}, {{t|fi|tykki}}
 * Swahili: {{t+|sw|gawo|xs=Swahili}}
 {{trans-mid}}
 * Swedish: {{t|sv|puffra|c}}}
@@ -141,11 +144,11 @@
 {{trans-top|artillery}}
 * Finnish: {{t|fi|tykki}}
 {{trans-mid}}
-* Swedish: {{t+|sv|stycke|n}},  {{t+|sv|pjäs|c}}
+* Swedish: {{t+|sv|stycke|n}}, {{t+|sv|pjäs|c}}
 {{trans-bottom}}
 
 {{trans-top|slang: cannabis pipe}}
-* Swahili: {{t+|sw|gawo|xs=Swahili}},  {{t+|sw|pande|xs=Swahili}}
+* Swahili: {{t+|sw|gawo|xs=Swahili}}, {{t+|sw|pande|xs=Swahili}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -153,7 +156,7 @@
 * Finnish: {{t+|fi|romu}}
 * Maltese: {{t+|mt|imbarazz|xs=Maltese}}
 {{trans-mid}}
-* Swahili: {{t+|sw|gawo|xs=Swahili}},  {{t+|sw|pande|xs=Swahili}}
+* Swahili: {{t+|sw|gawo|xs=Swahili}}, {{t+|sw|pande|xs=Swahili}}
 {{trans-bottom}}
 
 {{trans-see|hairpiece}}
@@ -168,7 +171,6 @@
 * {{ttbc|Indonesian}}: [[potong]]
 * {{ttbc|Italian}}: [[parte]] {{f}}, [[pezzo]] {{m}}
 {{trans-mid}}
-* {{ttbc|Japanese}}: [[部分]] (bubun)
 * {{ttbc|Korean}}: [[조각]] (jogak), [[부분]] (bubun)
 * {{ttbc|Persian}}: {{fa-Arab|[[تکه]]}} (tekke)
 * {{ttbc|Polish}}: [[element]] {{m}}, [[sztuka]] {{f}}, [[kawałek]] {{m}}
