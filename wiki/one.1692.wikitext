@@ -1,7 +1,7 @@
-{{wikipedia}}
-{{rfc|translation sections: what’s with the ‘var’? Some languages are only dialects.  English doesn’t make a difference between the cases for the pronoun, they should only occur in the translations (but see [[uncle]]).  Check the Danish and Hindi ones.}} <!-- have a look at my edit to see what’s intended -->
 {{also|-one}}
+{{rfc|move “Usage notes” to pron section and shorten; translation sections: what’s with the ‘var’?  Split up/sort derived and related terms.}}
 ==English==
+{{wikipedia}}
 
 {{rank|were|are|their|38|one|so|me|an}}
 {{cardinalbox | en | 0 | 1 | 2 | zero | two | ord=first | adv=once | wplink=1 (number) }}
@@ -13,7 +13,7 @@
 <!-- Please add other numerical forms to the page for 1000 instead of here. -->
 
 ===Etymology===
-From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{proto|Germanic|ainaz}}, from {{proto|Indo-European|óynos|single, one}}. Akin to {{etyl|fry|}} ''[[ien#West Frisian|ien]]'',  Dutch {{term|een|lang=nl}}/{{term|één|lang=nl}}, German {{term|ein|lang=de}}, {{etyl|la|-}} ''[[unus#Latin|unus]]'' (Old {{la}} ''oinos'') French {{term|un|lang=fr}} and Russian {{term|один|lang=ru|sc=Cyrl|tr=odin}}.
+From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{proto|Germanic|ainaz}}, from {{proto|Indo-European|óynos|single, one}}. Akin to {{etyl|fry|-}} {{term|ien|lang=fry}}, {{etyl|nl|-}} {{term|een|lang=nl}}/{{term|één|lang=nl}}, {{etyl|de|-}} {{term|ein|lang=de}}, {{etyl|la|-}} {{term|unus|lang=la}} (Old {{la}} {{term|oinos|lang=la}}) {{etyl|fr|-}} {{term|un|lang=fr}} and {{etyl|ru|-}} {{term|один|lang=ru|sc=Cyrl|tr=odin}}.
 
 ===Pronunciation===
 * {{a|AU}} {{IPA|/wɐn/}}, {{SAMPA|/w6n/}}
@@ -117,7 +117,7 @@ From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{pr
 * Danish: {{t-|da|én}}, {{t+|da|et}}
 * [[Dena'ina]]: [[ts'ełq'i]]
 * [[Drehu]]: [[caas]]
-* Dutch: {{t+|nl|één|f}}, {{t+|nl|een}}
+* Dutch: {{t+|nl|één|f}}, {{t+|nl|een}} {{qualifier|non-emphasized}}
 * [[Egyptian]]: w-'-w
 * [[Emiliano-Romagnolo]]: [[ón]]
 * [[Erzya]]: [[вейке]] (vejke)
@@ -270,7 +270,7 @@ From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{pr
 * [[Santali]]: {{tø|sat|ᱮᱠᱚ|tr=eka|sc=Olck}}
 * [[Sardinian]]: [[unu]]
 * [[Saterland Frisian]]: {{tø|stq|een}}
-* [[Scottish Gaelic]]: {{t-|gd|aon|xs=Scottish Gaelic}}, (''one person'') {{t-|gd|aonar|m|xs=Scottish Gaelic}}
+* [[Scottish Gaelic]]: {{t-|gd|aon|xs=Scottish Gaelic}}, {{qualifier|one person}} {{t-|gd|aonar|m|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: {{t+|sr|један|sc=Cyrl}}
 *: Roman: {{t-|sr|jedan}}
@@ -316,7 +316,7 @@ From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{pr
 * Ukrainian: {{t+|uk|один|tr=odýn|xs=Ukrainian}}
 * [[Umbrian]]: [[𐌖𐌍𐌔]] (uns)
 * [[Upper Sorbian]]: [[jedyn]] {{m}}
-* Urdu: {{t+|ur|ایک|tr=ek, ik|xs=Urdu}}, (numeral: )  {{t-|ur|١|xs=Urdu}}
+* {{ttbc|Urdu}}: {{t+|ur|ایک|tr=ek, ik|xs=Urdu}}, {{i|numeral}}  {{t-|ur|١|xs=Urdu}}
 * Uzbek: {{t-|uz|бир|tr=bir|sc=Cyrl|xs=Uzbek}}
 * [[Veps]]: [[ükś]]
 * Vietnamese: {{t+|vi|một|xs=Vietnamese}}
@@ -340,13 +340,6 @@ From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{pr
 
 {{trans-see|ordinal number|[[first]] and [[number]]}}
 
-{{trans-top|set or group with one component}}
-* Finnish: {{t+|fi|yksi}}
-* Lithuanian: {{t+|lt|vieneri|m|xs=Lithuanian}}, {{t+|lt|vienerios|f|xs=Lithuanian}}
-{{trans-mid}}
-* Swahili: {{t+|sw|moja|xs=Swahili}}
-{{trans-bottom}}
-
 {{checktrans-top}}
 * {{ttbc|Middle Persian}}: [[e:vak]]
 {{checktrans-mid}}
@@ -354,7 +347,7 @@ From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{pr
 {{checktrans-bottom}}
 
 ===Pronoun===
-{{en-pron}} (''possessive'' '''[[one's#English|one's]]''', ''plural'' '''[[ones]]''')
+{{en-pron}} (''possessive'' '''[[one's#English|one’s]]''', ''plural'' '''[[ones]]''')
 
 # {{context|impersonal pronoun}} one thing (among a group of others); one [[member]] of a group
 #: ''The big '''one''' looks good.''
@@ -373,7 +366,8 @@ From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{pr
 
 ====Translations====
 {{trans-top|impersonal pronoun}}
-* Esperanto: ''expressed by nominalization when following an adjective''
+* Dutch: ''expressed by [[nominalization]] when following an adjective''
+* Esperanto: ''expressed by [[nominalization]] when following an adjective''
 * Finnish: ''does not exist, other passive structures used''
 * French: ''expressed by [[nominalization]] when following an adjective''
 * German: ''expressed by [[nominalization]] when following an adjective''
@@ -386,10 +380,10 @@ From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{pr
 
 {{trans-top|indefinite personal pronoun}}
 * Danish: {{t+|da|man}}, {{t+|da|en}}/{{t-|da|én}}; ''expressed by nominalization when following an adjective''
-* Dutch: {{t+|nl|man}}
+* Dutch: {{i|archaic}} {{t+|nl|men}}, {{t|nl|je}}, {{t|nl|ze}} {{i|the people}}
 * Esperanto: {{t-|eo|oni|xs=Esperanto}}
 * Finnish: ''does not exist, often omitted but e.g. {{t+|fi|ihminen}} may be used instead''
-* French: {{t+|fr|on}}, {{t+|fr|quelqu'un}}
+* French: {{t+|fr|on}}, {{t+|fr|quelqu’un}}
 {{trans-mid}}
 * German: {{t+|de|man}}
 * [[Ido]]: {{t+|io|on|xs=Ido}}
@@ -402,7 +396,6 @@ From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{pr
 {{checktrans-top}}
 * {{ttbc|Breton}}: [[den ebet]], [[unan bennak]], [[an hini]]
 * {{ttbc|Catalan}}: [[algú]] {{m}}, [[qualcú]] {{m}}, [[alguna]] {{f}}, [[qualcuna]] {{f}}, {{t+|ca|la}}, [[en]]/[[én]] {{c}}; ''expressed by nominalization when following an adjective''
-* {{ttbc|Dutch}}: {{t+|nl|men}} {{italbrac|obsolete}}, {{t+|nl|je}}, {{t+|nl|ze}}, {{t+|nl|iemand}}; ''expressed by [[nominalization]] when following an adjective''
 * {{ttbc|Hindi}}: ''not translated'' <!-- is this nominalization as well? looks like it, but I don’t know Hindi--> "I want the green one" = "हरावाला चाहता हूँ" (the adj. and the verb agree) (literally, "I want the one which is green").
 * {{ttbc|Interlingua}}: [[uno]], [[alcuno]]; ''expressed by [[reflexivization]] in expressions of the type "one" + transitive verb + direct object'', ''expressed by [[nominalization]] when following an adjective''
 {{trans-mid}}
@@ -428,7 +421,7 @@ From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{pr
 ====Translations====
 {{trans-top|neutral element in multiplication}}
 * Danish: {{t+|da|et}}, {{t-|da|én}}, {{t-|da|ener|c}}
-* Dutch: {{t+|nl|één|f}}
+* Dutch: {{t+|nl|één|f}}, {{t|nl|eenheid|f}}
 * Finnish: {{t+|fi|ykkönen}}, {{t+|fi|yksi}}
 {{trans-mid}}
 * Russian: {{t+|ru|единица|f|tr=jediníca}}
@@ -505,10 +498,10 @@ From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{pr
 #: ''We are '''one''' on the importance of learning.''
 # The same.
 #: ''The two types look very different, but are '''one''' species.''
-# Being a preeminent example.
+# Being a [[preeminent]] example.
 #: ''He is '''one''' hell of a guy.''
 # Being an unknown person with the specified name.
-#: ''The town records from 1843 showed the overnight incarceration of '''one''' "A. Lincoln".''
+#: ''The town records from 1843 showed the overnight incarceration of '''one''' “A. Lincoln”.''
 
 ====Translations====
 {{trans-top|of a period of time}}
@@ -525,7 +518,7 @@ From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{pr
 {{trans-top|a single, unspecified thing}}
 * Armenian: [[մի]] (mi)
 * Danish: [[den]]/[[det]] [[ene]]
-* Dutch: {{t+|nl|de}} {{t+|nl|ene}}, {{t+|nl|één}}
+* Dutch: {{t+|nl|de}}/{{t|nl|het}} {{t+|nl|ene}}, {{t+|nl|één}}
 * Finnish: {{t+|fi|eräs}}, {{t+|fi|yksi}}
 {{trans-mid}}
 * French: [[un]] [[seul]] {{m}}, [[une]] [[seule]] {{f}}
@@ -549,11 +542,31 @@ From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{pr
 
 {{trans-top|whole, entire}}
 * Danish: [[en]]/[[et]]
-* Dutch: {{t+|nl|een}}
+* Dutch: {{t+|nl|één}}
 * Finnish: {{t+|fi|yksi}}
 {{trans-mid}}
 * German: {{t+|de|eins}}
 * Swahili: {{t+|sw|moja|xs=Swahili}}
+{{trans-bottom}}
+
+{{trans-top|in agreement}}
+* Dutch: {{t|nl|het eens zijn}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|the same}}
+* Dutch: {{t|nl|één}}, {{t|nl|dezelfde}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|being a preeminent example}}
+* Dutch: {{t|nl|een}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|being an unknown person with the specified name}}
+* Dutch: {{t|nl|een zekere}}, {{t|nl|ene}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -574,7 +587,6 @@ From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{pr
 ===Related terms===
 {{rel-top|Terms etymologically related to the numeral, pronoun, noun, or adjective ''one''}}
 * [[once]]
-{{rel-mid}}
 {{rel-bottom}}
 
 ===Anagrams===
@@ -589,6 +601,8 @@ From {{etyl|ang}} {{term|an|ān|lang=ang}} (same word as {{term|an}}), from {{pr
 
 ==Hawaiian==
 
+{{rfp|lang=haw}}
+
 ===Etymology===
 From {{proto|Polynesian|one|lang=haw}}.
 
@@ -601,6 +615,10 @@ From {{proto|Polynesian|one|lang=haw}}.
 
 ==Japanese==
 
+{{rfp|lang=ja}}
+
+{{rfe|lang=ja}}
+
 ===Noun===
 {{ja-noun|r|hira=おね}}
 
@@ -609,6 +627,8 @@ From {{proto|Polynesian|one|lang=haw}}.
 ----
 
 ==Maori==
+
+{{rfp|lang=mi}}
 
 ===Etymology===
 From {{proto|Polynesian|one|lang=mi}}.
@@ -628,6 +648,8 @@ From {{proto|Polynesian|one|lang=mi}}.
 ===Pronunciation===
 * {{IPA|/ˈɔn̪ɛ/|lang=pl}}
 
+{{rfe|lang=pl}}
+
 ===Pronoun===
 {{infl|pl|pronoun|personal pronoun}}
 
@@ -636,14 +658,14 @@ From {{proto|Polynesian|one|lang=mi}}.
 ====Declension====
 {{pl-decl-noun-pl
 |one
-|[[ich#Polish|ich]]/[[nich#Polish|nich]]*
+|[[ich#Polish|ich]]/[[nich#Polish|nich]]<sup><small>1</small></sup>
 |[[im#Polish|im]]
-|[[je#Polish|je]]/[[nie#Polish|nie]]*
+|[[je#Polish|je]]/[[nie#Polish|nie]]<sup><small>1</small></sup>
 |[[nimi#Polish|nimi]]
 |[[nich#Polish|nich]]
 |–
 }}
- *used only with prepositions
+# used only with prepositions
 
 ====Related terms====
 * [[ona#Polish|ona]]
@@ -657,6 +679,8 @@ From {{proto|Polynesian|one|lang=mi}}.
 ----
 
 ==[[Rarotongan]]==
+
+{{rfp|lang=rar}}
 
 ===Etymology===
 From {{proto|Polynesian|one|lang=rar}}.
@@ -674,6 +698,8 @@ From {{proto|Polynesian|one|lang=rar}}.
 * {{IPA|/ǒne/|lang=sh}}
 * {{hyphenation|o|ne}}
 
+{{rfe|lang=sh}}
+
 ===Pronoun===
 {{sh-pronoun|head=òne|r|оне|о̀не}}
 
@@ -688,6 +714,10 @@ From {{proto|Polynesian|one|lang=rar}}.
 
 ==Slovene==
 
+{{rfp|lang=sl}}
+
+{{rfe|lang=sl}}
+
 ===Pronoun===
 {{infl|sl|pronoun|g=f|personal pronoun}}
 
@@ -696,6 +726,8 @@ From {{proto|Polynesian|one|lang=rar}}.
 ----
 
 ==Tahitian==
+
+{{rfp|lang=ty}}
 
 ===Etymology===
 From {{proto|Polynesian|one|lang=ty}}.
@@ -709,6 +741,8 @@ From {{proto|Polynesian|one|lang=ty}}.
 
 ==[[Tokelauan]]==
 
+{{rfp|lang=tkl}}
+
 ===Etymology===
 From {{proto|Polynesian|one|lang=tkl}}.
 
@@ -720,6 +754,8 @@ From {{proto|Polynesian|one|lang=tkl}}.
 ----
 
 ==[[Tuamotuan]]==
+
+{{rfp|lang=pmt}}
 
 ===Etymology===
 From {{proto|Polynesian|one|lang=pmt}}.
