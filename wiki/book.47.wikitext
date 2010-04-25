@@ -318,14 +318,14 @@ From {{etyl|ang|en}} {{term|boc|bōc|lang=ang}} < {{proto|Germanic|boks|lang=en}
 * [[Ossetian]]: {{tø|os|чиныг|tr=činyg|sc=Cyrl}}
 * [[Ottoman Turkish]]: {{tø|ota|کتاب|tr=kitâb|sc=ota-Arab|xs=Ottoman Turkish}}
 * [[Papiamentu]]: {{tø|pap|buki}}
-* Persian: {{t+|fa|کتاب|alt=کِتاب|tr=ketāb|xs=Persian}},  {{t|fa|نسک|tr=nask|xs=Persian}}
+* Persian: {{t+|fa|کتاب|alt=کِتاب|tr=ketāb|xs=Persian}},  {{t+|fa|نسک|tr=nask|xs=Persian}}
 * Polish: {{t+|pl|książka|f}}
 * Portuguese: {{t+|pt|livro|m}}
 * [[Punjabi]]: [[ਪੁਸਤਕ]] (pustak)
 * [[Romani]]: {{tø|rom|ginadyi|f}}
 * Romanian: {{t+|ro|carte|f}}
 * Russian: {{t+|ru|книга|f|tr=kníga}}
-* Sanskrit: {{t|sa|पुस्तकम्|n|tr=pustak|sc=Deva}}
+* Sanskrit: {{t|sa|पुस्तकम्|n|tr=pustak|xs=Sanskrit}}
 * [[Saterland Frisian]]: {{tø|stq|bouk}}
 * [[Scottish Gaelic]]: {{t-|gd|leabhar|m|xs=Scottish Gaelic}}
 * Serbian:
@@ -336,7 +336,7 @@ From {{etyl|ang|en}} {{term|boc|bōc|lang=ang}} < {{proto|Germanic|boks|lang=en}
 * [[Sinhala]]: [[පොත]] (pota)
 * Slovak: {{t-|sk|kniha|f}}
 * Slovene: {{t+|sl|knjiga|f}}
-* Somali: {{t|so|buug}}
+* Somali: {{t-|so|buug|xs=Somali}}
 * [[Sotho]]: {{t+|st|buka|xs=Sotho}}
 * [[Southern Altai]]: {{tø|alt|бичик|tr=biçik|sc=Cyrl}}
 * Spanish: {{t+|es|libro|m}}
@@ -357,7 +357,7 @@ From {{etyl|ang|en}} {{term|boc|bōc|lang=ang}} < {{proto|Germanic|boks|lang=en}
 * [[Uyghur]]: {{t-|ug|كىتاب|tr=kitab|sc=ug-Arab|xs=Uyghur}}
 * Uzbek: {{t-|uz|kitob|xs=Uzbek}}
 * Vietnamese: ([[cuốn]], [[quyển]]) [[sách]]; [[sổ]] (notebook); [[sách giáo khoa]] (textbook)
-* [[Walloon]]: {{t|wa|live}}
+* [[Walloon]]: {{t+|wa|live|xs=Walloon}}
 * Welsh: {{t-|cy|llyfr|m|xs=Welsh}}
 * [[West Frisian]]: {{t+|fy|boek|n|xs=West Frisian}}
 * [[Yakut]]: {{tø|sah|кинигэ|tr=kinige|sc=Cyrl}}
@@ -390,7 +390,7 @@ From {{etyl|ang|en}} {{term|boc|bōc|lang=ang}} < {{proto|Germanic|boks|lang=en}
 * Russian: {{t|ru|альбом|m|tr=al’bóm}}
 * Slovene: {{t-|sl|album|m}}
 * Swahili: {{t+|sw|kitabu|xs=Swahili}}
-* Swedish: {{t-|sv|häfte|n}}
+* Swedish: {{t+|sv|häfte|n}}
 * Turkish: {{t+|tr|albüm}}
 * Vietnamese: {{t+|vi|sổ|xs=Vietnamese}}
 * Welsh: {{t|cy|albwm|f|xs=Welsh}}
@@ -420,13 +420,13 @@ From {{etyl|ang|en}} {{term|boc|bōc|lang=ang}} < {{proto|Germanic|boks|lang=en}
 * [[Ewe]]: [[agbalẽ]] {{n}}
 * Finnish: {{t+|fi|libretto}}
 {{trans-mid}}
-* Greek: {{t|el|σενάριο μιούζικαλ|n|sc=Grek}}
+* Greek: {{t|el|σενάριο μιούζικαλ|n}}
 * Portuguese: {{t-|pt|livreto|m}}
 * Swahili: {{t+|sw|kitabu|xs=Swahili}}
 {{trans-bottom}}
 
 {{trans-top|usually in plural: records of the accounts of a business}}
-* Arabic: {{t|ar|سجل|m|alt=سِجِلّ}}
+* Arabic: {{t-|ar|سجل|m|alt=سِجِلّ}}
 * Bengali: {{t|bn|খাতা |sc=Beng|xs=Bengali}}
 * [[Catalan]]: [[llibres]]
 * Dutch: [[boeken]] {{n}}, ''pl. only''
@@ -438,7 +438,7 @@ From {{etyl|ang|en}} {{term|boc|bōc|lang=ang}} < {{proto|Germanic|boks|lang=en}
 * Polish: {{t|pl|księgi}}
 * Portuguese: {{t+|pt|livro|m}}
 * Swahili: {{t+|sw|kitabu|xs=Swahili}}
-* Swedish: {{t-|sv|bokföring|c}}
+* Swedish: {{t+|sv|bokföring|c}}
 * [[Tagalog]]: [[libro]]
 * Vietnamese: [[sổ sách kế toán]]
 {{trans-bottom}}
@@ -567,7 +567,7 @@ From {{etyl|ang|en}} {{term|boc|bōc|lang=ang}} < {{proto|Germanic|boks|lang=en}
 
 <!--Note: add SLANG terms to this table, where these exist-->
 {{trans-top|travel very fast}}
-* Dutch: [[boeken#Dutch|boeken]], {{t+|nl|vlammen}}
+* Dutch: {{t+|nl|boeken}}, {{t+|nl|vlammen}}
 * German: {{t+|de|rasen}}
 {{trans-mid}}
 * Swahili: {{t+|sw|kitabu|xs=Swahili}}
