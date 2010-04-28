@@ -100,11 +100,11 @@
 * Arabic: {{Arab|[[رقم]]}} {{IPAchar|(ráqam)}} {{m}}
 * Armenian: {{t-|hy|թիվ|tr=t’iv}}
 *: Old Armenian: {{tø|xcl|թիւ|tr=tʿiw|sc=Armn|xs=Old Armenian}}
-* [[Basque]]: {{t|eu|zenbaki}}
+* [[Basque]]: {{t|eu|zenbaki|xs=Basque}}
 * Belarusian: [[лік]] (lik) {{m}}
 * [[Breton]]: [[niver]] {{m}}
 * Bulgarian: {{t+|bg|число|n|tr=čisló}}
-* Burmese: {{t|my|နံပါတ်|tr=nambat|sc=Mymr}}
+* Burmese: {{t-|my|နံပါတ်|tr=nambat|sc=Mymr|xs=Burmese}}
 * Chinese: [[數]], [[数]] (shù), [[數目]], [[数目]] (shùmù)
 * [[Cornish]]: {{t-|kw|niver|xs=Cornish}}
 * Croatian: {{t+|hr|broj|m}}
@@ -150,7 +150,7 @@
 * Persian: {{t-|fa|شماره|tr=šomâra or šomâre|xs=Persian}}
 * Polish: {{t+|pl|liczba|f}}
 * Portuguese: {{t+|pt|número|m}}
-* [[Quechua]]: {{t|qu|yupay}}
+* [[Quechua]]: {{t|qu|yupay|xs=Quechua}}
 * Romanian: {{t+|ro|număr|n}}
 * Russian: {{t+|ru|число|n|tr=čisló}}
 * [[Scottish Gaelic]]: {{t-|gd|àireamh|f|xs=Scottish Gaelic}}
@@ -174,14 +174,14 @@
 * Finnish: {{t+|fi|numero}}
 * French: {{t+|fr|chiffre|m}}
 * German: {{t+|de|Nummer}}
-* Greek: {{t+|el|αριθμός|m|tr=arithmós}}, {{t+|el|ψηφίο|n|tr=psifío}},  {{t|el|νούμερο|n|sc=Grek}}
+* Greek: {{t+|el|αριθμός|m|tr=arithmós}}, {{t+|el|ψηφίο|n|tr=psifío}},  {{t+|el|νούμερο|n}}
 * Hebrew: {{t+|he|ספרה|f|tr=sifra}}
 * Icelandic: {{t+|is|tölustafur|m}}
 {{trans-mid}}
 * Indonesian: [[nomor]]
 * Italian: {{t+|it|numero|m}}, {{t+|it|cifra|f}}
 * [[Lao]]: {{t-|lo|ເລກ|tr=leek|sc=Laoo|xs=Lao}}
-* [[Macedonian]]: {{t|mk|бројка|f|tr=bròjka}},  {{t-|mk|цифра|f|tr=cífra}}
+* [[Macedonian]]: {{t-|mk|бројка|f|tr=bròjka}},  {{t-|mk|цифра|f|tr=cífra}}
 * Navajo: {{tø|nv|námboo}}
 * Norwegian: {{t+|no|tall}}
 * Polish: {{t+|pl|cyfra|f}}
@@ -200,7 +200,7 @@
 * Finnish: {{t+|fi|luku}}
 * French: [[nombre]] entier {{m}}, [[entier]] {{m}}
 * German: {{t+|de|Zahl|f}}
-* Greek: {{t+|el|αριθμός|m|tr=arithmós}},  {{t|el|νούμερο|n|sc=Grek}}
+* Greek: {{t+|el|αριθμός|m|tr=arithmós}},  {{t+|el|νούμερο|n}}
 * Hebrew: {{t+|he|מספר|m|tr=mispar}}
 * Hungarian: {{t+|hu|szám}}
 * Icelandic: {{t+|is|tala|f}}
@@ -228,13 +228,13 @@
 {{trans-top|used to show the rank of something in a list or sequence}}
 * Arabic: {{Arab|[[رقم]]}} {{IPAchar|(ráqam)}} {{m}}
 * Armenian: {{t-|hy|համար|tr=hamar}}
-* [[Basque]]: {{t|eu|zenbaki}}
+* [[Basque]]: {{t|eu|zenbaki|xs=Basque}}
 * [[Breton]]: [[niverenn]] {{f}}
 * Chinese: [[號碼]], [[号码]] (hàomǎ)
 * Croatian: {{t+|hr|broj|m}}
 * Czech: {{t+|cs|číslo|n}}
 * Dutch: {{t+|nl|nummer|f}}
-* Finnish: {{t|fi|numero}}
+* Finnish: {{t+|fi|numero}}
 * Georgian: {{t-|ka|ნომერი|tr=nomeri|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Nummer|f}}
 * Greek: {{t+|el|νούμερο|n|tr=noúmero}}
@@ -261,10 +261,10 @@
 * Croatian: {{t-|hr|mnoštvo|n}}
 * Czech: {{t+|cs|množství|n}}
 * Dutch: {{t+|nl|aantal|n}}
-* Finnish: {{t|fi|lukumäärä}}, {{t|fi|määrä}}
+* Finnish: {{t+|fi|lukumäärä}}, {{t+|fi|määrä}}
 * French: {{t+|fr|nombre|m}}
 * Georgian: {{t-|ka|რაოდენობა|tr=raodenoba|sc=Geor|xs=Georgian}}
-* Greek: {{t+|el|αριθμός|m|tr=arithmós}},  {{t|el|ποσότητα|f|sc=Grek}}
+* Greek: {{t+|el|αριθμός|m|tr=arithmós}},  {{t|el|ποσότητα|f}}
 * Hebrew: {{t|he|כמות|f|tr=kamut}}
 * Icelandic: {{t+|is|fjöldi|m}}
 {{trans-mid}}
@@ -299,10 +299,10 @@
 {{trans-bottom}}
 
 {{trans-top|performance}}
-* Finnish: {{t|fi|numero}}, {{t|fi|ohjelmanumero}}
+* Finnish: {{t+|fi|numero}}, {{t|fi|ohjelmanumero}}
 * French: {{t+|fr|numéro|m}}
 {{trans-mid}}
-* Greek: {{t|el|νούμερο|n|sc=Grek}}
+* Greek: {{t+|el|νούμερο|n}}
 * Italian: {{t+|it|numero|m}}
 {{trans-bottom}}
 
@@ -341,7 +341,7 @@
 
 {{trans-top|to total; to amount to}}
 * Czech: {{t+|cs|počítat}} se
-* Finnish: {{t|fi|olla}},  {{t|fi|nousta}}
+* Finnish: {{t+|fi|olla}},  {{t+|fi|nousta}}
 * German: {{t+|de|zählen}}
 * Hungarian: kitesz egy mennyiséget, valamennyit számlál
 {{trans-mid}}
