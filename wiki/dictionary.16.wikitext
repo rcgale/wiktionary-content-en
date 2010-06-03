@@ -42,7 +42,7 @@
 * [[American Sign Language]]: [[D@NearPalm-PalmDown-OpenB@CenterChesthigh-PalmUp CirclesMidlineContact]]
 * [[Amharic]]: {{tø|am|መዝገበ ቃላት|tr=mäzgäbä qalat|sc=Ethi}}
 * [[Amuzgo]]: [[tzoⁿ 'tzítyui' jñ'o]]
-* Arabic: {{t+|ar|قاموس|tr=qāmus}}, {{t+|ar|معجم|tr=moʕádjam}}
+* Arabic: {{t+|ar|قاموس|tr=qamuus}}, {{t+|ar|معجم|tr=mo3ádjam}}
 * Armenian: {{t+|hy|բառարան|tr=baṙaran}}
 *: Old Armenian: {{tø|xcl|բառգիրք|tr=baṙgirkʿ|sc=Armn|xs=Old Armenian}}
 * [[Asturian]]: {{t-|ast|diccionariu|xs=Asturian}}
@@ -58,7 +58,8 @@
 * Bulgarian: {{t+|bg|речник|m|tr=rečnik}}
 * Burmese: {{t-|my|အဘိဓာန်|tr=ăbeitdan|sc=Mymr|xs=Burmese}}
 * [[Catalan]]: {{t+|ca|diccionari|m}}
-* Chinese: [[字典]] (zìdiǎn); [[詞典]], [[词典]] (cídiǎn)
+* Chinese:
+*: Mandarin: {{t|zh|字典|tr=zìdiǎn|sc=Hani}}, {{t|zh|詞典|sc=Hani}}, {{t|zh|词典|tr=cídiǎn|sc=Hani}}
 *: Wu (Suzhou dialect): [[zïtip]]
 * [[Chuvash]]: {{tø|cv|словарь|sc=Cyrl}},  {{tø|cv|сăмахсен кĕнеки|tr=sămaxsan kĕneki|sc=Cyrl}}
 * [[Crimean Tatar]]: {{tø|crh|luğat}}
@@ -93,7 +94,7 @@
 * [[Inuktitut]]: {{t-|iu|ᕿᒥᕐᕈᐊᑦ ᐅᓐᓂᖅᑐᖅ ᒥᑦᓯ ᑐᑭᐊ|tr=qimirruat unniqtuq mitsi tukia|sc=Cans|xs=Inuktitut}}
 * Irish: {{t+|ga|foclóir|m|xs=Irish}}
 * Italian: {{t+|it|dizionario|m}}
-* Japanese: [[辞書]], [[字書]] (じしょ, jísho); [[辞典]], [[字典]] (じてん, jitén), {{t|ja|辞書|tr=じしょ, jísho|sc=Jpan}}, {{t|ja|字書|tr=じしょ, jísho|sc=Jpan}}, {{t|ja|辞典|tr=じてん, jitén|sc=Jpan}}, {{t|ja|字典|tr=じてん, jitén|sc=Jpan}}
+* Japanese: {{t|ja|辞書|tr=じしょ, jísho|sc=Jpan}}, {{t|ja|字書|tr=じしょ, jísho|sc=Jpan}}, {{t|ja|辞典|tr=じてん, jitén|sc=Jpan}}, {{t|ja|字典|tr=じてん, jitén|sc=Jpan}}
 * [[Javanese]]: {{t+|jv|bausastra|xs=Javanese}}
 * [[Kannada]]: [[ನಿಘಂಟು]] {{unicode|(nighangṭu)}}, [[ಅರ್ಥಕೋಶ]] (arthakōsh)
 * [[Kapampangan]]: [[talabaldugan]]
@@ -102,7 +103,7 @@
 * Kazakh: {{t+|kk|сөздік|tr=sözdik|sc=Cyrl|xs=Kazakh}}
 * [[Khmer]]: {{Khmr|[[វចនានុក្រម]]}} (wachanānūgrom)
 * [[Kikuyu]]: {{tø|ki|kamusi}}
-* Korean: {{t+|ko|사전|tr=辭典, sajeon|sc=Hang}}, {{t|ko|자서|tr=jaseo|sc=Kore}}, {{t|ko|字書|sc=Kore}}
+* Korean: {{t+|ko|사전|tr=sajeon|sc=Hang}} ({{t|ko|辭典|sc=Kore}}), {{t|ko|자서|tr=jaseo|sc=Kore}} ({{t|ko|字書|sc=Kore}})
 * Kurdish: {{t+|ku|ferheng|f}}, {{t+|ku|peyvname|f}}, {{t+|ku|bêjename|f}}, {{t+|ku|qamûs|f}}, {{t+|ku|فه‌رهه‌نگ|sc=ku-Arab}}
 * [[Kyrgyz]]: {{Cyrl|[[сөздүк]]}} (sözdük)
 * Latin: {{t-|la|dictionarium|n}}
@@ -119,7 +120,6 @@
 * [[Malayalam]]: [[നിഘണ്ടു]] (nighaṇṭu)
 * Maltese: [[dizzjunarju]] (dittsyunaryu)
 * [[Manchu]]: (buleku bithe)
-* Mandarin: {{t|zh|字典|tr=zìdiǎn|sc=Hani}}, {{t|zh|詞典|sc=Hani}}, {{t|zh|词典|tr=cídiǎn|sc=Hani}}
 * Maori: [[pukapuka taki kupu]]
 * [[Marathi]]: [[शब्दकोष]], [[विश्वकोष]]
 * [[Meru]]: {{tø|mer|kamusi}}
@@ -137,7 +137,7 @@
 *: Digor: {{tø|os|дзурдуат|tr=dzurduat|sc=Cyrl|xs=Ossetian}}
 *: Iron: {{tø|os|дзырдуат|tr=dzyrduat|sc=Cyrl|xs=Ossetian}}
 * [[Papiamentu]]: {{tø|pap|dictionario|xs=Papiamentu}}
-* Persian: {{fa-Arab|[[لغتنامه]]}} (loghat-nâme), {{fa-Arab|[[فرهنگ]]}} (farhang), {{t|fa|لغتنامه|tr=loghat-nâme|sc=fa-Arab}}, {{t|fa|فرهنگ|tr=farhang|sc=fa-Arab}}, {{t|fa|لغت|tr=lugha|sc=fa-Arab}}
+* Persian: {{t|fa|لغتنامه|tr=loghat-nâme|sc=fa-Arab}}, {{t|fa|فرهنگ|tr=farhang|sc=fa-Arab}}, {{t|fa|لغت|tr=lugha|sc=fa-Arab}}
 * [[Plautdietsch]]: {{tø|pdt|Weadbüak}}
 * Polish: {{t+|pl|słownik|m}}
 * Portuguese: {{t+|pt|dicionário|m}}
@@ -159,7 +159,7 @@
 * Somali: [[qaamuus]], [[abwan-ka]]
 * [[Sotho]]: {{t|st|bukantswe|xs=Sotho}}
 * Spanish: {{t+|es|diccionario|m}}
-* Swahili: [[kamusi]] ''noun 5'',  {{t+|sw|kamusi|xs=Swahili}}
+* Swahili: {{t+|sw|kamusi|xs=Swahili}} (''noun 5'')
 * Swedish: {{t+|sv|ordbok|c}}, {{t+|sv|lexikon|n}}
 * [[Tagalog]]: {{t+|tl|diksyunaryo|xs=Tagalog}}, {{t+|tl|talahuluganan|xs=Tagalog}}, {{t+|tl|talasalitaan|xs=Tagalog}}
 * [[Tajik]]: {{t-|tg|луғат|sc=Cyrl|xs=Tajik}},  {{t|tg|фарҳанг|tr=farx̦ang|sc=Cyrl|xs=Tajik}},  {{t|tg|қомус|tr=ķomus|sc=Cyrl|xs=Tajik}}
@@ -171,11 +171,11 @@
 * Turkish: {{t+|tr|sözlük}}, [[lügat]] (''obsolete'')
 * Ukrainian: {{t+|uk|словник|m|tr=slóvnyk|xs=Ukrainian}}
 * [[Upper Sorbian]]: {{tø|hsb|słownik|m|xs=Upper Sorbian}}
-* Urdu: {{ur-Arab|[[لغت]]}} (lu<u>gh</u>at), {{t|ur|لغت|f|tr=lughat|sc=ur-Arab}}, {{t|ur|ڈکشنری|tr=ḍikśanarī|sc=ur-Arab}}, {{t|ur|فرہنگ|tr=farhang|sc=ur-Arab}}
+* Urdu: {{t|ur|لغت|f|tr=lughat|sc=ur-Arab}}, {{t|ur|ڈکشنری|tr=ḍikśanarī|sc=ur-Arab}}, {{t|ur|فرہنگ|tr=farhang|sc=ur-Arab}}
 * [[Uyghur]]: {{t+|ug|لۇغەت|tr=lughet|sc=ug-Arab|xs=Uyghur}}
 * Uzbek: {{t-|uz|луғат|tr=lughat|sc=Cyrl|xs=Uzbek}}, {{t|uz|lug'at|xs=Uzbek}}
 * [[Venda]]: {{tø|ve|ṱhalusamaipfi|xs=Venda}}
-* Vietnamese: {{t+|vi|tự điển|xs=Vietnamese}}, {{t|vi|字典}}
+* Vietnamese: {{t+|vi|tự điển|xs=Vietnamese}} ({{t|vi|字典}})
 * [[Volapük]]: {{t-|vo|vödabuk|xs=Volapük}}, {{t-|vo|vödabuks|p|xs=Volapük}}
 * [[Võro]]: {{tø|vro|sõnaraamat}}
 * [[Walloon]]: {{t-|wa|motî|xs=Walloon}}
