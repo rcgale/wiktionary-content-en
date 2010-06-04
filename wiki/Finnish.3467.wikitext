@@ -19,9 +19,9 @@
 * [[Catalan]]: {{t-|ca|finlandès|m}}
 *: [[Valencian]]: {{t-|ca|finlandés|m}}
 * Chinese:
-*: Mandarin: {{t|zh|芬蘭|alt=芬蘭的|sc=Hani}}, {{t|zh|芬兰|tr=Fēnlán de|alt=芬兰的|sc=Hani}}
+*: Mandarin: {{t-|cmn|芬蘭|alt=芬蘭的|sc=Hani}}, {{t-|cmn|芬兰|alt=芬兰的|tr=Fēnlán de|sc=Hani}}
 {{trans-mid}}
-* Estonian: [[soome]]
+* Estonian: {{t+|et|soome}}
 * Finnish: {{t+|fi|suomalainen}}
 * Russian: {{t+|ru|финский|tr=fínskij}}, {{t+|ru|финляндский|tr=finljándskij}}
 {{trans-bottom}}
@@ -30,16 +30,16 @@
 * [[Catalan]]: {{t+|ca|finès|m}}
 *: [[Valencian]]: {{t-|ca|finés|m}}
 * Chinese:
-*: Mandarin: {{t|zh|芬蘭語|alt=芬蘭語的|sc=Hani}}, {{t|zh|芬兰语|tr=Fēnlányǔ de|alt=芬兰语的|sc=Hani}}
+*: Mandarin: {{t-|cmn|芬蘭語|alt=芬蘭語的|sc=Hani}}, {{t-|cmn|芬兰语|alt=芬兰语的|tr=Fēnlányǔ de|sc=Hani}}
 {{trans-mid}}
 * Russian: {{t+|ru|финский|tr=fínskij}}
 * Finnish: {{t+|fi|suomenkielinen}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|Arabic}}: {{t|ar|فنلندي|tr=finlandiy|sc=Arab}}
+* {{ttbc|Arabic}}: {{t|ar|فنلندي|tr=finlandiy}}
 * {{ttbc|Armenian}}: {{t-|hy|ֆիննական|tr=finnakan}}
-* {{ttbc|Croatian}}: {{t-|hr|finski}}
+* {{ttbc|Croatian}}: {{t+|hr|finski}}
 * {{ttbc|Czech}}: {{t+|cs|finský}}
 * {{ttbc|Danish}}: {{t+|da|finsk}}
 * {{ttbc|Dutch}}: {{t+|nl|Fins}}
@@ -73,19 +73,19 @@
 {{trans-top|Finnish (language)}}
 * [[Afrikaans]]: [[Fins]]
 * Albanian: [[Finlandisht]]
-* Arabic: {{t|ar|فنلندية|f|tr=finlandíyya|sc=Arab}}
+* Arabic: {{t|ar|فنلندية|f|tr=finlandíyya}}
 * Armenian: {{t+|hy|ֆիններեն|tr=finneren}}
 * [[Azeri]]: [[фин]] (fin)
 * [[Basque]]: [[suomiera]],  {{t|eu|finlandiera|xs=Basque}}
 * Belarusian: [[фінская]] (fínskaja) {{f}}
-* Bengali: {{t|bn|ফিনীয় ভাষা|tr=phinīẏa bhāṣā|sc=Beng}}
+* Bengali: {{t|bn|ফিনীয় ভাষা|tr=phinīẏa bhāṣā|sc=Beng|xs=Bengali}}
 * [[Breton]]: [[finneg]]
 * Bulgarian: {{t-|bg|фински|tr=finski}}
 * [[Catalan]]: {{t+|ca|finès|m}}, {{t-|ca|finlandès|m}}
 ** [[Valencian]]: {{t-|ca|finés|m}}, {{t-|ca|finlandés|m}}
 * Chinese:
 *: Mandarin: {{t-|cmn|芬蘭語|sc=Hani}}, {{t-|cmn|芬兰语|tr=Fēnlányǔ|sc=Hani}}
-* Croatian: {{t-|hr|finski|m}}
+* Croatian: {{t+|hr|finski|m}}
 * Czech: {{t-|cs|finština}}
 * Danish: {{t+|da|finsk|n}}
 * Dutch: {{t+|nl|Fins|n}}
@@ -94,11 +94,11 @@
 * Finnish: {{t+|fi|suomi}}, {{t+|fi|suomen kieli}}
 * French: {{t+|fr|finnois|m}}
 * [[Galician]]: [[finlandés]]
-* Georgian: {{t|ka|ფინური|tr=p‘inuri|sc=Geor}}
+* Georgian: {{t|ka|ფინური|tr=p‘inuri|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Finnisch|n}}
 * Greek: {{t+|el|φιλανδικά|n|p}} (filandiká), {{t+|el|φινλανδικά|n|p}} (finlandiká)
-* Hebrew: {{t|he|פינית|f|tr=finít|sc=Hebr}}
-* Hindi: {{t|hi|फ़िनिश|tr=finiś|sc=Deva}}, {{t|hi|फ़िनिश भाषा|f|tr=finiś bhāṣā|sc=Deva}}
+* Hebrew: {{t+|he|פינית|f|tr=finít}}
+* Hindi: {{t|hi|फ़िनिश|tr=finiś|xs=Hindi}}, {{t|hi|फ़िनिश भाषा|f|tr=finiś bhāṣā|xs=Hindi}}
 * Hungarian: {{t+|hu|finn}}
 * Icelandic: {{t+|is|finnska|f}}
 * [[Inari Sami]]: [[suomakiela]]
@@ -106,9 +106,9 @@
 * [[Interlingua]]: [[finnese]]
 * Irish: {{t-|ga|Fionlainnis|xs=Irish}}
 * Italian: {{t+|it|finlandese}}
-* Japanese: {{t|ja|フィンランド語|tr=Finrando-go|sc=Jpan}}
+* Japanese: {{t+|ja|フィンランド語|tr=Finrando-go}}
 * [[Karelian]]: [[Šuomi]]
-* Korean: {{t|ko|핀란드어|tr=Pinrandeu-eo|sc=Kore}}
+* Korean: {{t|ko|핀란드어|tr=Pinrandeu-eo}}
 * Kurdish: [[Fînlendî]]
 * Latvian: [[Somu]]
 {{trans-mid}}
@@ -124,7 +124,7 @@
 * {{trreq|Northern Sami}}
 * Norwegian: {{t+|no|finsk}}
 * [[Occitan]]: [[Finès]]
-* Persian: {{t|fa|فنلاندی|tr=fanlândi|sc=fa-Arab}}
+* Persian: {{t|fa|فنلاندی|tr=fanlândi}}
 * Polish: {{t+|pl|fiński|m}}
 * Portuguese: {{t+|pt|finlandês}}
 * Romanian: {{t-|ro|limba finlandeză|f}}, {{t+|ro|finlandeză|f}}
@@ -140,11 +140,11 @@
 * Swedish: {{t+|sv|finska|c}}
 * [[Tamil]]: [[பின்னிஷ்]]
 * [[Tatar]]: [[фин]] (fin)
-* Thai: {{t|th|ภาษาฟินนิช|tr=paasăa finnít|sc=Thai}}, {{t|th|ภาษาฟิน|tr=paasăa fin|sc=Thai}}, {{t|th|ภาษาฟินแลนด์|tr=paasăa finlaen|sc=Thai}}
+* Thai: {{t|th|ภาษาฟินนิช|tr=paasăa finnít}}, {{t|th|ภาษาฟิน|tr=paasăa fin}}, {{t|th|ภาษาฟินแลนด์|tr=paasăa finlaen}}
 * Turkish: {{t+|tr|Fince}}
 * Ukrainian: [[фінська]] (fíns’ka) {{f}}
-* Urdu: {{ur-Arab|[[فننش|فنّنِش]]}} (finnish), {{t|ur|فنّنِش|tr=finiś|sc=ur-Arab}}
-* Vietnamese: {{t|vi|tiếng Phần-lan}}
+* Urdu: {{ur-Arab|[[فننش|فنّنِش]]}} (finnish), {{t|ur|فنّنِش|tr=finiś|xs=Urdu}}
+* Vietnamese: {{t|vi|tiếng Phần-lan|xs=Vietnamese}}
 * [[Votic]]: [[Soomi]]
 * [[Walloon]]: [[Finwès]]
 * [[West Frisian]]: [[Finsk]]
