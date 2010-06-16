@@ -51,16 +51,14 @@ From {{etyl|non|is}} {{term|hestr}}, from {{proto|Germanic|hangistaz||hanhistaz|
 * {{jump|s|is|horse}} {{l|is|hross}} 
 
 ====Usage notes====
-The noun ''hestur'' is often used by native speakers to determine the case of a noun, as every singular indefinite form is different. This is done by substituting the word (whose case is unknown) with the appropriate form of ''hestur'', e.g.
-: ''[[ég#Icelandic|ég]] [[borða]] [[brauð]].'' (I [[eat]] [[bread]])
-becomes
-: ''[[ég#Icelandic|ég]] [[borða]] '''hest'''. (I [[eat]] a [[horse]])
-and because we know ''hest'' to be the accusative of hestur (and can't possibly be any other case), the word ''[[brauð]]'' must here also be in the accusative case.
-To find the case forms of ''hestur'' (or any other noun) a certain set of prepositions is used (except for the nominative, where the noun is made the subject of a clause with reversed word order):
-: [[hér]] [[vera#Icelandic|er]] '''hestur''' ({{nominative}}) = here is a '''horse'''
-: [[um]] '''[[hest]]''' ({{accusative}}) = about a '''horse'''
-: [[frá]] '''[[hesti]]''' ({{dat}}) = from a '''horse'''
-: [[til]] '''[[hests]]''' ({{gen}}) = to a '''horse'''
+* The noun {{term|hestur|lang=is}} is the ''de facto'' noun used to determine the case of another noun by substitution. 
+*: {{term||ég þekki mann|I know a man}} → {{term||ég þekki '''hest'''|I know a '''horse'''}}
+*: since {{term|hest|lang=is}} is known to be the accusative form of {{term|hestur|lang=is}} it may be deduced that {{term|mann|lang=is}} is in the accusative case as well.
+* A commonly taught [[mnemonic]] to find the cases of nouns is reciting a set of prepositions followed by an agreeing noun and {{term|hestur|lang=is}} is often used as an example:
+*: ''[[nominative case|nominative]]'': {{term||hér er '''hestur'''|there is a '''horse''' here}}
+*: ''[[accusative case|accusative]]'': {{term||um '''hest'''|about a '''horse'''}}
+*: ''[[dative case|dative]]'': {{term||frá '''hesti'''|from a '''horse'''}}
+*: ''[[genitive case|genitive]]'': {{term||til '''hests'''|to a '''horse'''}}
 
 ====Derived terms====
 {{wikipedia|hestur|lang=is}}
