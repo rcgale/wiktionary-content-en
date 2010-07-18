@@ -41,7 +41,7 @@ From {{etyl|cs}} {{term|robot|lang=cs}}, from {{term|robota||drudgery, servitude
 * [[Basque]]: {{t-|eu|robot|xs=Basque}}
 * Bengali: {{t|bn|রোবট|sc=Beng|xs=Bengali}}
 * Bosnian: {{t-|bs|robot|m}}
-* Bulgarian: {{t-|bg|робот|m}}
+* Bulgarian: {{t-|bg|робот|m|tr=róbot}}
 * [[Catalan]]: {{t+|ca|robot|m}}
 * Chinese:
 ** Mandarin: {{t-|cmn|機器人|sc=Hani}}, {{t-|cmn|机器人|tr=jīqì rén|sc=Hani}}
@@ -58,7 +58,7 @@ From {{etyl|cs}} {{term|robot|lang=cs}}, from {{term|robota||drudgery, servitude
 * German: {{t+|de|Roboter|m}}
 * Greek: {{t+|el|ρομπότ|m|tr=rompót}}
 * Hebrew: {{t+|he|רובוט|tr=robot}}
-* Hindi: {{t|hi|रोबोट|tr=rōbōṭ|sc=Deva}}
+* Hindi: {{t|hi|रोबोट|m|tr=rōbōṭ|sc=Deva}}
 * Hungarian: {{t+|hu|robot}}
 * Icelandic: {{t-|is|þjarki|m}}, {{t|is|róbóti|m}}
 * [[Ido]]: [[roboto]]
@@ -66,7 +66,7 @@ From {{etyl|cs}} {{term|robot|lang=cs}}, from {{term|robota||drudgery, servitude
 * Indonesian: {{t-|id|robot|xs=Indonesian}}
 * Italian: {{t+|it|robot|m}}
 * Japanese: {{t-|ja|ロボット|tr=robotto}},  {{t-|ja|人造人間|tr=jinzō ningen}}
-* Korean: [[로봇]] (robot), {{t|ko|로봇|tr=robot|sc=Kore}}
+* Korean: {{t|ko|로봇|tr=robot|sc=Kore}}
 * Latin: {{t|la|robotum|n}}
 * Latvian: {{t-|lv|robots|xs=Latvian}}
 * Lithuanian: {{t+|lt|robotas|xs=Lithuanian}}
@@ -85,10 +85,10 @@ From {{etyl|cs}} {{term|robot|lang=cs}}, from {{term|robota||drudgery, servitude
 * Spanish: {{t+|es|robot|m}}
 * [[Sundanese]]: {{t-|su|robot|xs=Sundanese}}
 * Swedish: {{t+|sv|robot}}
-* Thai: {{Thai|[[หุ่นยนต์]]}} (hòon-yon)
+* Thai: {{t|th|หุ่นยนต์|tr=hòonyon|sc=Thai}}
 * Turkish: {{t+|tr|robot}}
-* Ukrainian: {{t+|uk|робот|m|xs=Ukrainian}}
-* Urdu: {{ur-Arab|[[روبالہ]]}}, {{t|ur|روبوٹ|m|tr=rōbōṭ|sc=ur-Arab}}, {{t|ur|روبالہ|m|sc=ur-Arab}}
+* Ukrainian: {{t+|uk|робот|m|tr=róbot|xs=Ukrainian}}
+* Urdu: {{t|ur|روبوٹ|m|tr=rōbōṭ|sc=ur-Arab}}, {{t|ur|روبالہ|m|sc=ur-Arab}}
 * Uzbek: {{t-|uz|robot|xs=Uzbek}}
 * Vietnamese: {{t-|vi|người máy|xs=Vietnamese}}
 * Yiddish: {{t-|yi|ראבאט|tr=robot|xs=Yiddish}}
@@ -104,7 +104,6 @@ From {{etyl|cs}} {{term|robot|lang=cs}}, from {{term|robota||drudgery, servitude
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|Chinese}}: [[機械人]], [[机械人]] (jīxiè rén)
 * {{ttbc|Esperanto}}: [[roboto]]
 {{checktrans-mid}}
 * {{ttbc|Welsh}}: robot {{m}}
