@@ -1,6 +1,20 @@
 {{wikipedia}}
-[[Image:Thumbup.jpg|thumb|A human '''thumb''']]
 ==English==
+{{ picdic
+| image=Paume de main.jpeg
+| width=310
+| labels=
+{{ picdiclabel | color=white | fontsize=18 | posx=100 | posy=179 | link=palm }}
+{{ picdiclabel | color=white | fontsize=12 | posx= 20 | posy=200 | link=wrist | align=left }}
+{{ picdiclabel | color=white | fontsize=12 | posx= 90 | posy= 70 | link=thumb }}
+{{ picdiclabel | color=white | fontsize=12 | posx=200 | posy=125 | link=index finger }}
+{{ picdiclabel | color=white | fontsize=12 | posx=225 | posy=160 | link=middle finger }}
+{{ picdiclabel | color=white | fontsize=12 | posx=220 | posy=205 | link=ring finger }}
+{{ picdiclabel | color=white | fontsize=12 | posx=200 | posy=245 | link=pinky }}
+| detail1=Click on labels at the image
+| detail2=
+{{ picdicimg | image=Paume de main.jpeg | link=hand }}
+}}
 
 ===Etymology===
 From {{etyl|ang|en}} {{term|þuma|þūma|lang=ang}}, from {{proto|Germanic|lang=en}}, from {{proto|Indo-European|tūmon-|thick finger}}, from {{proto|Indo-European|tū-|swell}} (compare Latin {{term|tumere|lang=la}}).  Cognate with Dutch {{term|duim|lang=nl}}, German {{term|Daumen|lang=de}}.
