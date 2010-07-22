@@ -13,7 +13,9 @@
 {{ picdiclabel | color=black | fontsize=12 | posx= 45 | posy= 45 | link=eyebrow }}
 {{ picdiclabel | color=black | fontsize=12 | posx= 45 | posy=145 | link=eye }}
 {{ picdiclabel | color=black | fontsize=12 | posx=100 | posy=150 | link=nose }}
-{{ picdiclabel | color=black | fontsize=12 | posx=140 | posy=235 | link=mouth | align=left }}
+{{ picdiclabel | color=black | fontsize=12 | posx=190 | posy=190 | link=cheek }}
+{{ picdiclabel | color=black | fontsize=12 | posx=140 | posy=240 | link=mouth | align=left }}
+{{ picdiclabel | color=black | fontsize=12 | posx=100 | posy=295 | link=chin }}
 | detail1=
 Click on labels at the image
 | detail2=
