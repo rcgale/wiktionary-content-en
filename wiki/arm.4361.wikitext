@@ -14,7 +14,7 @@
 {{ picdiclabel | color=white | fontsize=12 | posx= 75 | posy=150 | link=forearm }}
 {{ picdiclabel | color=white | fontsize=12 | posx=105 | posy= 90 | link=wrist | align=right }}
 {{ picdiclabel | color=white | fontsize=12 | posx=150 | posy= 45 | link=hand }}
-| detail1=Click on labels at the image
+| detail1=Click on labels in the image
 | detail2=
 {{ picdicimg | link=limb }}
 }}
