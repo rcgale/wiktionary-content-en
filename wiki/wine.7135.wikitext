@@ -93,15 +93,15 @@
 * [[Aromanian]]: {{tø|rup|yin}}
 * [[Azeri]]: {{t+|az|şərab|xs=Azeri}}, {{t|az|çaxır|xs=Azeri}}
 * [[Basque]]: [[ardo]]
-* Belarusian: {{t|be|віно|n|tr=vinó|sc=Cyrl}}
-* Bengali: {{t|bn|মদ|tr=mad|sc=Beng}}
+* Belarusian: {{t|be|віно|n|tr=vinó|xs=Belarusian}}
+* Bengali: {{t|bn|মদ|tr=mad|sc=Beng|xs=Bengali}}
 * Bosnian: {{t-|bs|vino|n}}
 * [[Breton]]: {{t+|br|gwin|m|xs=Breton}}
 * Bulgarian: {{t+|bg|вино|n|tr=víno}}
 * Burmese: {{t-|my|ဝိုင်|tr=waing|sc=Mymr|xs=Burmese}}
 * [[Catalan]]: [[vi]] {{m}} [[:ca: vi|^]]
 * Chinese:
-*: Mandarin: {{t|zh|葡萄酒|tr=pútáojiǔ|sc=Hani}}
+*: Mandarin: {{t-|cmn|葡萄酒|tr=pútáojiǔ|sc=Hani}}
 * Croatian: {{t+|hr|vino|n}}
 * Czech: {{t+|cs|víno|n}}
 * Danish: {{t+|da|vin|c}}
@@ -121,8 +121,8 @@
 *: Modern: {{t+|el|κρασί|n|tr=krasí}}, {{i|obsolete}} {{t-|el|οίνος|m|tr=oínos}}, {{i|obsolete}} {{t+|el|σταφυλίτης|m|tr=stafylítis}}
 * {{trreq|Gujarati}}
 * Hawaiian: [[waina]]
-* Hebrew: {{t|he|יין|m|tr=yáyin|sc=Hebr}}
-* Hindi: {{t|hi|शराब|f|tr=śarāb|sc=Deva}}, {{t|hi|वाइन|tr=vā'in|sc=Deva}}, {{t|hi|मद्य|tr=madya|sc=Deva}}
+* Hebrew: {{t+|he|יין|m|tr=yáyin}}
+* Hindi: {{t-|hi|शराब|f|tr=śarāb|xs=Hindi}}, {{t-|hi|वाइन|tr=vā'in|xs=Hindi}}, {{t|hi|मद्य|tr=madya|xs=Hindi}}
 * Hungarian: {{t+|hu|bor}}
 * Icelandic: {{t+|is|vín|n}}
 * [[Ido]]: {{t+|io|vino|xs=Ido}}
@@ -132,7 +132,7 @@
 * Japanese: {{t+|ja|ワイン|tr=wain}}, {{t-|ja|葡萄酒|tr=[[ぶどうしゅ]], budōshu}}
 * {{trreq|Kannada}}
 * {{trreq|Khmer}}
-* Korean: {{t|ko|포도주|tr=podoju|sc=Kore}} ({{t|ko|葡萄酒|sc=Kore}})
+* Korean: {{t+|ko|포도주|tr=podoju}} ({{t+|ko|葡萄酒}})
 * Kurdish: {{t|ku|باده‌|tr=bade|sc=ku-Arab}}, {{t|ku|مه‌ی|tr=mey|sc=ku-Arab}}
 {{trans-mid}}
 * {{trreq|Lao}}
@@ -154,7 +154,7 @@
 * [[Old English]]: {{t-|ang|win|n|alt=wīn|xs=Old English}}
 * [[Old Irish]]: {{tø|sga|fín|n}}
 * {{trreq|Oriya}}
-* Persian: {{t|fa|می|tr=may|sc=fa-Arab}}, {{t|fa|شراب|tr=šarâb|sc=fa-Arab}}
+* Persian: {{t+|fa|می|tr=may}}, {{t+|fa|شراب|tr=šarâb}}
 * Polish: {{t+|pl|wino|n}}
 * Portuguese: {{t+|pt|vinho|m}}
 * {{trreq|Punjabi}}
@@ -176,10 +176,10 @@
 * [[Tamil]]: {{t|ta|வைன்|xs=Tamil}}
 * [[Telugu]]: [[ద్రాక్ష సారాయి]] (draaksha saaraayi), [[ద్రాక్షాసవం]] (draakshaasavaM)
 * [[Tetum]]: [[tua]], [[tua-uvas]]
-* Thai: {{t|th|ไวน์|tr=wai|sc=Thai}}
+* Thai: {{t-|th|ไวน์|tr=wai}}
 * Turkish: {{t+|tr|şarap}}
 * Ukrainian: {{t+|uk|вино|n|tr=vynó|xs=Ukrainian}}
-* Urdu: {{t|ur|شراب|f|tr=śarāb|sc=ur-Arab}}
+* Urdu: {{t-|ur|شراب|f|tr=śarāb|xs=Urdu}}
 * Vietnamese: {{t-|vi|rượu vàng|xs=Vietnamese}}
 * Welsh: {{t+|cy|gwin|xs=Welsh}}
 * [[West Frisian]]: [[wyn]]
@@ -191,7 +191,7 @@
 * [[Breton]]: [[gwin]] {{m}}, gwinoù {{p}}
 * Bulgarian: {{t+|bg|вино|n|tr=vino}}
 * Chinese:
-*: Mandarin: {{t|zh|果酒|tr=guǒjiǔ|sc=Hani}}, {{t|zh|酒|tr=jiǔ|sc=Hani}}
+*: Mandarin: {{t|cmn|果酒|tr=guǒjiǔ|sc=Hani}}, {{t-|cmn|酒|tr=jiǔ|sc=Hani}}
 * Croatian: {{t+|hr|vino|n}}
 * Danish: {{t+|da|vin|c}}
 * Dutch: {{t+|nl|wijn}}
@@ -203,8 +203,8 @@
 * Hungarian: {{t+|hu|bor}}
 {{trans-mid}}
 * Icelandic: {{t+|is|vín|n}}
-* Japanese: {{t|ja|果実酒|tr=かじつしゅ, kajitsushu}}
-* Korean: {{t|ko|술|tr=sul|sc=Kore}}, {{t|ko|주|tr=ju|sc=Kore}}
+* Japanese: {{t-|ja|果実酒|tr=かじつしゅ, kajitsushu}}
+* Korean: {{t+|ko|술|tr=sul}}, {{t+|ko|주|tr=ju}}
 * Latvian: {{t-|lv|vīns|m|xs=Latvian}}
 * [[Macedonian]]: {{t-|mk|вино|n|tr=víno}}
 * [[Novial]]: [[vine]]
