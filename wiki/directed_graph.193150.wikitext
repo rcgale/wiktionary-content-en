@@ -5,7 +5,7 @@
 {{en-noun|sg=[[directed]] [[graph]]}}
 
 # {{graph theory}} A [[graph]] in which the [[edge]]s are [[ordered pair]]s, so that, if the edge (a, b) is in the graph, the edge (b, a) need not be in the graph and is distinct from (a, b) if it is.
-#* A '''directed graph''' (''A'',''R'') is a set of vertices ''A'' together with an incidence relation ''R'': if ''aRb'' then there is an edge going from ''A'' to ''B''.
+#: A '''directed graph''' (''A'',''R'') is a set of vertices ''A'' together with an incidence relation ''R'': if ''aRb'' then there is an edge going from ''A'' to ''B''.
 
 ====Antonyms====
 * [[undirected graph]]
@@ -18,11 +18,13 @@
 * Chinese: {{zh-ts|[[有向圖]]|[[有向图]]}} (yǒuxiàngtú)
 * Czech: {{t-|cs|orientovaný graf|m}}
 * Danish: {{t|da|orienteret graf|c}}
+* Dutch: {{t|nl|gerichte graaf|m}}
 * Finnish: [[suunnattu verkko]]
 {{trans-mid}}
 * French: [[graphe orienté]] {{m}}
+* Italian: [[grafo orientato]], [[grafo diretto]]
 * Japanese: [[有向グラフ]] (yūkō gurafu)
-* Portuguese: {{t|pt|grafo orientado}}
+* Portuguese: {{t|pt|grafo orientado}},  {{t|pt|digrafo|m}}
 * Russian: {{t|ru|ориентированный граф|m|tr=orijentírovannyj graf|sc=Cyrl}}
 {{trans-bottom}}
 
