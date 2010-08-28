@@ -741,15 +741,17 @@ Cognate with Old Saxon {{term|men|mēn}}, Old High German {{term|mein|mein}}, Ol
 ===Noun===
 {{infl|sv|noun|gender=c}} {{IPA|ˈman|lang=sv}}, if not stated else.
 
-# [[#English|man]] {{qualifier|adult male human}}
-# [[husband]]
-# {{military|lang=sv}} Member of a [[troop]].
+# a [[#English|man]] {{qualifier|adult male human}}
+# a [[husband]]
+# a member of a [[crew]], [[workforce]] or (military) [[troop]]
+#: ''I äldre tider sa man att björnen ägde sju '''mans''' styrka men en mans vett.''
+#:: In older times, they said the bear has the strength of seven men but the sense of one man.
 # {{IPA|ˈmɑːn|lang=sv}} [[mane]] (''of a horse or lion'')
 
-====Inflection====
-{{sv-decl-noun|gender=Common|man|mannen|män|männen|mans|mannens|mäns|männens|definitions=1, 2}}
-{{sv-decl-noun|gender=Common|man|[[mannen]]|[[mannar]] ([[män]], '''man''')|[[mannarna]] ([[männen]])|[[mans]]|[[mannens]]|[[mannars]] ([[mäns]], [[mans]])|[[mannarnas]] ([[männens]])|definitions=3}}
-{{sv-decl-noun|gender=Common|man|manen|manar|manarna|mans|manens|manars|manarnas|definitions=4}}
+====Declension====
+{{sv-noun-irreg-c|man|mannen|män|männen|definitions=1, 2, 3}}
+{{sv-noun-reg-ar|2=mann|pl-nom-indef=[[mannar]], [[man]]|pl-gen-indef=[[mannars]], [[mans]]|definitions=3}}
+{{sv-noun-reg-ar|definitions=4}}
 
 ===Pronoun===
 {{infl|sv|pronoun|gender=c|accusative/dative|en|plural|ena|possesive|ens|reflexive|sig|possessive reflexive common|sin|possessive reflexive neuter|sitt|possessive reflexive plural|sina}}
