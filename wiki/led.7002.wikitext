@@ -174,11 +174,13 @@ From {{proto|Slavic|ledъ|lang=sl}}.
 * {{audio|Sv-led.ogg|audio}}
 
 ===Adjective===
-{{sv-adj-reg|2=lett}}
 {{infl|sv|adjective}}
 
 # [[tired]]; [[bored]]
 # {{archaic|lang=sv}} disgusting, repulsive, loathsome; evil
+
+====Declension====
+{{sv-adj-reg|2=lett}}
 
 ====Usage notes====
 The second sense is still in some use in the expression ''[[den lede frestaren]]'' or simply ''[[lede#Swedish|den lede]]'', as a name for the Devil.
@@ -188,22 +190,28 @@ The second sense is still in some use in the expression ''[[den lede frestaren]]
 * [[trött]]
 
 ===Noun===
-{{sv-noun-n-zero|}}
-{{infl|sv|noun}}
+{{sv-noun|g=n}}
 
 # A [[queue]]; a row of people
 # {{mathematics|lang=sv}} [[term]]
-#: ''högerledet'' = ''the right hand side''; ''what's on the right hand side of the equality''
+#: ''högerledet''
+#:: the right hand side; what's on the right hand side of the equality
 # [[stage]]
-#: ''Ett '''led''' i processen'' = ''A stage in the process''
+#: ''Ett '''led''' i processen''
+#:: A stage in the process
+
+====Declension====
+{{sv-noun-n-zero}}
 
 ===Noun===
-{{sv-noun-reg-r-c|2=lede}}
 {{infl|sv|noun|g=c}}
 
 # [[joint]]; the part of a [[limb]] where it can [[bend]]; such as a [[knee]] or a [[wrist]]; [[phalanx]]
-#: any mechanical joint where two parts are supposed to move (bend) with respect to each other
+## any mechanical joint where two parts are supposed to move (bend) with respect to each other
 # [[track]], [[route]]; along which one may [[walk]]; go by [[bike]]
+
+====Declension====
+{{sv-noun-reg-r-c|2=lede}}
 
 ====Derived terms====
 * {{sense|track}} [[vandringsled]], [[cykelled]]
@@ -211,8 +219,8 @@ The second sense is still in some use in the expression ''[[den lede frestaren]]
 ===Verb===
 '''led'''
 
-# {{form of|Past tense|[[lida]]}}
-# {{form of|Imperative|[[leda]]}}
+# {{sv-verb-form-past|lida}}
+# {{sv-verb-form-imp|leda}}
 
 [[cs:led]]
 [[da:led]]
