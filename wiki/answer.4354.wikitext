@@ -35,9 +35,9 @@
 * [[Azeri]]: {{t|az|cavab|xs=Azeri}}
 * [[Bashkir]]: {{tø|ba|яуап|tr=yawap|sc=Cyrl|xs=Bashkir}}
 * Bosnian: {{t-|bs|odgovor|m}}
-* [[Breton]]: {{t|br|respont|m}} -où
+* [[Breton]]: {{t|br|respont|m|xs=Breton}} -où
 * Bulgarian: {{t+|bg|реакция|f}}, {{t+|bg|отговор|m}}
-* [[Catalan]]: {{t|ca|resposta|f}}
+* [[Catalan]]: {{t-|ca|resposta|f}}
 * [[Chechen]]: {{tø|ce|жоп|tr=ƶop|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t-|cmn|回答|tr=huídá|sc=Hani}}
@@ -50,15 +50,15 @@
 * French: {{t+|fr|réponse|f}}
 * German: {{t+|de|Antwort|f}}
 * Greek: {{t+|el|απάντηση|f|tr=apántisi}}, {{t+|el|απόκριση}}
-* [[Gujarati]]: {{t|gu|જવાબ|tr=javāb}}, {{t|gu|ઉત્તર|tr=uttar}}
+* [[Gujarati]]: {{t|gu|જવાબ|tr=javāb|sc=Gujr|xs=Gujarati}}, {{t|gu|ઉત્તર|tr=uttar|sc=Gujr|xs=Gujarati}}
 * Hebrew: {{t+|he|תשובה|f|tr=tshuva}}
-* Hindi: {{t|hi|जवाब|tr=javāb}}, {{t|hi|उत्तर|tr=uttar}}
+* Hindi: {{t|hi|जवाब|tr=javāb|xs=Hindi}}, {{t+|hi|उत्तर|tr=uttar|xs=Hindi}}
 * Hungarian: {{t+|hu|válasz}}
 * Icelandic: {{t+|is|svar|n}}
-* [[Ido]]: {{t|io|respondo}}
-* Indonesian: {{t|id|jawab|alt=jawaban}}
+* [[Ido]]: {{t+|io|respondo|xs=Ido}}
+* Indonesian: {{t-|id|jawab|alt=jawaban|xs=Indonesian}}
 * Italian: {{t+|it|risposta|f}}
-* Japanese: {{t|ja|答え|alt=こたえ|tr=kotae}}
+* Japanese: {{t-|ja|答え|alt=こたえ|tr=kotae}}
 * [[Kalmyk]]: {{tø|xal|хәрү|tr=härü|sc=Cyrl}}
 * [[Karachay-Balkar]]: {{tø|krc|жауап|tr=cawap|sc=Cyrl}}
 * Kazakh: {{t|kk|жауап|tr=jawap|sc=Cyrl|xs=Kazakh}}
@@ -67,7 +67,7 @@
 {{trans-mid}}
 * Kurdish: {{ku-Arab|[[وه‌ڵام]]}}
 * [[Kyrgyz]]: {{t-|ky|жооп|tr=coop|sc=Cyrl|xs=Kyrgyz}}
-* Latin: {{t|la|responsum|n}}
+* Latin: {{t-|la|responsum|n}}
 * [[Macedonian]]: {{t-|mk|одговор|m|tr=ódgovor}}
 * Mongolian: {{t|mn|хариу|tr=hariu|sc=Cyrl|xs=Mongolian}}
 * Norwegian: {{t+|no|svar|n}}
@@ -79,7 +79,7 @@
 * Romanian: {{t-|ro|răspuns|n}}
 * Russian: {{t+|ru|ответ|m|tr=otv'ét}}
 * [[Scottish Gaelic]]: {{t-|gd|freagairt|f|xs=Scottish Gaelic}}
-* Serbian: {{t|sr|одговор|tr=[[odgovor#Serbian|odgovor]]|m}}
+* Serbian: {{rfc-tbot}}{{t|sr|одговор|tr=[[odgovor#Serbian|odgovor]]|m}}
 * Slovene: {{t+|sl|odgovor|m}}
 * [[Southern Altai]]: {{tø|alt|каруу|tr=qaruu|sc=Cyrl}}
 * Spanish: {{t+|es|respuesta|f}}
@@ -107,7 +107,7 @@
 * Greek: {{t+|el|λύση|f|tr=lýsi}}
 * Hebrew: [[מענה]] (ma'ane) {{m}}
 * Hungarian: {{t+|hu|megoldás}}
-* [[Ido]]: {{t+|io|repliko|xs=Ido}}, {{t|io|solvo}}
+* [[Ido]]: {{t+|io|repliko|xs=Ido}}, {{t+|io|solvo|xs=Ido}}
 * Indonesian: [[balas]]an
 * Japanese: [[解答]] (かいとう, kaitō)
 * [[Macedonian]]: {{t-|mk|решение|n|tr=rešénie}}
