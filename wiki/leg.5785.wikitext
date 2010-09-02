@@ -14,7 +14,7 @@
 {{ picdiclabel | color=black | fontsize=12 | posx=260 | posy= 35 | link=hip }}
 {{ picdiclabel | color=black | fontsize=12 | posx=260 | posy= 80 | link=thigh }}
 {{ picdiclabel | color=black | fontsize=12 | posx=260 | posy=130 | link=knee }}
-{{ picdiclabel | color=black | fontsize=12 | posx=275 | posy=180 | link=calf }}
+{{ picdiclabel | color=black | fontsize=12 | posx=275 | posy=180 | link=calf | anchor=#Etymology 2 }}
 {{ picdiclabel | color=black | fontsize=12 | posx=270 | posy=235 | link=ankle | align=left }}
 {{ picdiclabel | color=black | fontsize=12 | posx=240 | posy=220 | link=foot | align=right }}
 | detail1=Click on labels in the image
