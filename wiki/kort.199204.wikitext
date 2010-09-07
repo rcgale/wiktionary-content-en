@@ -160,10 +160,18 @@ From {{etyl|gml|sv}} {{term|kort|lang=gml}}. Cognate with German {{term|kurz|lan
 * {{audio|Sv-kort.ogg|audio}}
 
 ====Adjective====
-{{sv-adj-reg|n=kort}}
-'''kort'''
+{{infl|sv|adjective}}
 
 # [[short]]
+#* '''1901''', [[w:Zacharias Topelius|Zacharias Topelius]], [http://runeberg.org/topnovel/b0313.html ''Noveller'']
+#*: Thomas! Thomas! [...]viskade nu Lotten, ty det var den '''korte''' som segrat, och hon hade igenkänt honom.
+#*:: Thomas! Thomas! Lotten now whispered, since it was the short one that had won, and she had recognized him.
+#* '''1931''', [[w:Hjalmar Bergman|Hjalmar Bergman]], [http://runeberg.org/clownjac/05.html ''Clownen Jac'']
+#*: '''Kortaste''' avståndet mellan två punkter är den krokiga linjen, ju krokigare, desto '''kortare'''.
+#*:: The shortest distance between two points is the crooked line, the more crooked, the shorter.
+
+====Declension====
+{{sv-adj-reg|n=kort}}
 
 =====Antonyms=====
 * [[lång]]
@@ -172,24 +180,24 @@ From {{etyl|gml|sv}} {{term|kort|lang=gml}}. Cognate with German {{term|kurz|lan
 * [[korthet]]
 * [[kortbyxor]]
 
-=====Quotations=====
-* '''1901''', [http://runeberg.org/topnovel/b0313.html ''Noveller''] av [[w:Zacharias Topelius|Zacharias Topelius]] - Thomas! Thomas! [...]viskade nu Lotten, ty det var den '''korte''' som segrat, och hon hade igenkänt honom.
-*: Thomas! Thomas! Lotten now whispered, since it was the short one that had won, and she had recognized him.
-* '''1931''', [http://runeberg.org/clownjac/05.html ''Clownen Jac''] av [[w:Hjalmar Bergman|Hjalmar Bergman]] - '''Kortaste''' avståndet mellan två punkter är den krokiga linjen, ju krokigare, desto '''kortare'''.
-*: The shortest distance between two points is the crooked line, the more crooked, the shorter.
-
 ===Etymology 2===
 Probably from {{etyl|da|sv}} {{term|kort|lang=da}} or {{etyl|gml|sv}} {{term|kort|lang=gml}}.
 
 ====Noun====
-{{sv-decl-noun|gender=Neuter|kort|kortet|kort|korten|korts|kortets|korts|kortens}}
-'''kort'''
+{{sv-noun|g=n}}
 
-# [[card]]; a piece of stiff paper or plastic.
-# [[playing card]]
-# game involving playing cards
-#: ''Ska vi spela '''kort'''?'' = ''Shall we play cards?''
+# a [[card]]; a piece of stiff paper or plastic.
+#* '''1926''', John Wahlborg, [http://runeberg.org/sistresa/18.html ''Sista resan'']
+#*: Mannen räckte mig ett litet '''kort''', varpå han nedskrivit namn och adress på en kvinna i Stockholm.
+#*:: The man gave me a small card on which he had written the name and address of a woman in Stockholm.
+# a [[playing card]]
+# a [[card game]], a game involving playing cards
+#: ''Ska vi spela '''kort'''?''
+#:: Shall we play cards?
 # [[photograph]]
+
+====Declension====
+{{sv-noun-n-zero}}
 
 =====Synonyms=====
 ;photograph
@@ -204,11 +212,6 @@ Probably from {{etyl|da|sv}} {{term|kort|lang=da}} or {{etyl|gml|sv}} {{term|kor
 * [[spelkort]]
 ;game
 * [[kortspel]]
-
-=====Quotations=====
-'''card'''
-* '''1926''', [http://runeberg.org/sistresa/18.html ''Sista resan''] av John Wahlborg - Mannen räckte mig ett litet '''kort''', varpå han nedskrivit namn och adress på en kvinna i Stockholm.
-*: The man gave me a small card on which he had written the name and address of a woman in Stockholm.
 
 [[da:kort]]
 [[de:kort]]
