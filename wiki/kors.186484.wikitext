@@ -42,13 +42,15 @@ From {{etyl|ang|sv}} {{term|cross|lang=ang}}, {{etyl|sga|sv}} {{term|cross|lang=
 * {{audio|Sv-kors.ogg|audio}}
 
 ====Noun====
-{{sv-noun-n-zero|genitive=}}
 {{infl|sv|noun|g=n}}
 
 # [[cross]] {{gloss|shape, geometric figure}}
 # {{heraldry|lang=sv}} cross
 # [[cross]], [[crucifix]] {{gloss|cross-shaped object}}
 # [[dagger]] {{gloss|text character}}
+
+====Declension====
+{{sv-noun-n-zero|genitive=}}
 
 ====See also====
 * [[kryss]]
@@ -60,7 +62,7 @@ See {{term|kor|lang=sv}}.
 ====Noun====
 {{infl|sv|noun form}}
 
-# {{form of|indefinite singular genitive|kor|lang=Swedish}}
+# {{sv-noun-form-indef-gen|kor}}
 
 ===Etymology 3===
 See {{term|ko|lang=sv}}.
@@ -68,7 +70,7 @@ See {{term|ko|lang=sv}}.
 ====Noun====
 {{infl|sv|noun form}}
 
-# {{form of|indefinite plural genitive|ko|lang=Swedish}}
+# {{sv-noun-form-indef-gen-pl|ko}}
 
 [[da:kors]]
 [[el:kors]]
