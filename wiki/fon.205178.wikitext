@@ -1,14 +1,5 @@
 {{wikipedia|dab=fon (disambiguation)|fon}}
 {{also|Fon}}
-==Croatian==
-
-===Noun===
-{{infl|hr|noun|g=m|head=fȏn}}
-
-# {{linguistics|lang=hr}} [[phone]]
-
-----
-
 ==Haitian Creole==
 
 ===Etymology===
@@ -126,23 +117,56 @@ Compare [[West Frisian]] [[fan]], German [[von]].
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
-===Noun===
-{{sr-noun|g=m|pl=foni|cyr=фон}}
+===Etymology 1===
+From {{etyl|grc|sh}} {{term|φονή|tr=fonḗ|lang=grc}}.
 
-# {{linguistics|lang=sr}} [[phone]]
+====Pronunciation====
+* {{IPA|/fôːn/|lang=sh}}
 
-====Declension====
-{{sr-decl-noun
-|fon|foni
+====Noun====
+{{sh-noun|g=m|head=fȏn|r|фон|фо̑н}}
+
+# {{linguistics|lang=sh}} [[phone]]
+
+=====Declension=====
+{{sh-decl-noun
+|fȏn|foni
 |fona|fona
 |fonu|fonima
 |fon|fone
 |fone|foni
-|fonom|fonima
 |fonu|fonima
+|fonom|fonima
 }}
+
+===Etymology 2===
+From {{etyl|fr|sh}} {{term|fond|lang=fr}}.
+
+====Pronunciation====
+* {{IPA|/fôːn/|lang=sh}}
+
+====Noun====
+{{sh-noun|g=m|head=fȏn|r|фон|фо̑н}}
+
+# [[basis]], [[foundation]]
+# {{painting|lang=sh}} the first [[layer]] that lays the [[foundation]] for the [[painting]]
+
+=====Declension=====
+{{sh-decl-noun
+|fȏn|fónovi
+|fona|fonova
+|fonu|fonovima
+|fon|fonove
+|fone|fonovi
+|fonu|fonovima
+|fonom|fonovima
+}}
+
+=====Synonyms=====
+* {{sense|basis}} {{l|sh|osnova|ȍsnova}}
+* {{sense|foundation layer}} {{l|sh|fond|fȍnd}}
 
 [[af:fon]]
 [[an:fon]]
