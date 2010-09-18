@@ -1,10 +1,54 @@
-{{wikify|lang=sr}}
-==Serbian==
+==Serbo-Croatian==
+
+===Etymology===
+{{prefix|na|denuti|lang=sh}}
+
+===Alternative forms===
+* (''Ijekavian''): {{l|sh|nadjenuti|nàdjenuti}}
+
+===Pronunciation===
+* {{IPA|/nǎdenuti/|lang=sh}}
+* {{hyphenation|na|de|nu|ti}}
+
 ===Verb===
-'''nadenuti'''
-#to [[impose]]
-#to [[stick]] on
-#:''nadenuti [[ime]]'' (to give a [[name]] to something or someone)
-====See also====
-*[[наденути]]
-[[Category:Serbian verbs]]
+{{sh-verb|head=nàdenuti|r|наденути|на̀денути}} {{pf}}
+
+# {{transitive}} to [[stuff]] (usually food)
+# {{context|with {{term|ime|ȉme|lang=sh}}|with dative}} to [[name]]
+
+====Conjugation====
+{{sh-conj
+|p.va=nàdenūvši
+|pr.1s=nadenem
+|pr.2s=nadeneš
+|pr.3s=nadene
+|pr.1p=nadenemo
+|pr.2p=nadenete
+|pr.3p=nadenu
+|f1.hr=nadenut
+|f1.stem=nadenu
+|a.1s=nadenuh
+|a.2s=nadenu
+|a.3s=nadenu
+|a.1p=nadenusmo
+|a.2p=nadenuste
+|a.3p=nadenuše
+|impt.2s=nadeni
+|impt.1p=nadenimo
+|impt.2p=nadenite
+|app.ms=nadenuo
+|app.fs=nadenula
+|app.ns=nadenulo
+|app.mp=nadenuli
+|app.fp=nadenule
+|app.np=nadenula
+|ppp.ms=nadenut
+|ppp.fs=nadenuta
+|ppp.ns=nadenuto
+|ppp.mp=nadenuti
+|ppp.fp=nadenute
+|ppp.np=nadenuta
+}}
+
+====Related terms====
+* {{l|sh|nadevati|nadévati}} {{impf}}
