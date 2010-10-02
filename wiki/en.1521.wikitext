@@ -187,12 +187,12 @@ From {{etyl|la|ca}} {{term|in||in, inside|lang=la}}.
 From {{etyl|la|ca}} {{term|inde||there|lang=la}}.
 
 ====Pronoun====
-{{infl|ca|personal pronoun|elided|n'|enclitic|ne|reduced|'n}}
+{{ca-ppron|type=procl|procl_con=n'|encl=ne|encl_con='n}}
 
 # ''represents an indeterminate number or quantity of a given noun''
 # ''represents a place (associated with the action described by the verb) that would be introduced by the preposition [[de#Catalan|de]]''
 # ''replaces a phrase introduced by the preposition [[de#Catalan|de]]''
-# ''replaces the object of a [[causative verb]]''
+# ''replaces the object of a [[causative]] verb''
 
 ====Usage notes====
 * '''En''' cannot be used more than once as the object of a given verb.
@@ -201,6 +201,9 @@ From {{etyl|la|ca}} {{term|inde||there|lang=la}}.
 * '''En''' is sometimes used popularly to add emphasis to a sentence: in this sense, it has no translation in English.
 * When '''en''' is used as a preposition to introduce the object of a verb, this object is replaced not by '''en''' but by [[hi#Catalan|hi]]:
 *: ''No crec '''en''' Déu'' → ''No '''hi''' crec''.
+
+=====Declension=====
+{{ca-decl-ppron}}
 
 ====See also====
 * [[hi#Catalan|hi]]
