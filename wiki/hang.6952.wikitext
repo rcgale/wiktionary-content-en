@@ -25,17 +25,17 @@ A fusion of {{etyl|ang}} {{term|hon|hōn|to hang, be hanging|lang=ang}} [intrans
 #: ''The culprits were '''hanged''' from the nearest tree.''
 # {{intransitive|legal}} To be [[executed]] by [[suspension]] by one's neck from a [[gallows]], a [[tree]], or other raised bar, attached by a [[rope]] tied into a [[noose]].
 #: ''You will '''hang''' for this, my friend.
-# {{intransitive}} {{informal}} To [[loiter]], [[hang around]], to spend time idly.
+# {{intransitive|informal}} To [[loiter]], [[hang around]], to spend time idly.
 #: ''Are you busy, or can you '''hang''' with me?
 #: ''I didn't see anything, officer. I was just '''hanging'''.
-# {{intransitive|computing}} To stop responding to manual input devices such as keyboard or mouse.
-#: ''The computer has '''hung''' again. Not even pressing <nowiki><Ctrl>+<Alt>+<Del></nowiki> works.''
-#: ''When I push this button the program '''hangs'''.
 # {{transitive}} To [[exhibit]] (an object).
 # {{transitive}} To [[apply]] (wallpaper or drywall to a wall).
 #: ''Let's '''hang''' this cute animal design in the nursery
 # {{transitive}} To [[decorate]] (something) with hanging objects.
-# {{transitive}} {{computing}} To [[cause]] (a program or computer) to stop responding.
+# {{intransitive|computing}} To stop responding to manual input devices such as keyboard or mouse.
+#: ''The computer has '''hung''' again. Not even pressing <nowiki><Ctrl>+<Alt>+<Del></nowiki> works.''
+#: ''When I push this button the program '''hangs'''.
+# {{transitive|computing}} To [[cause]] (a program or computer) to stop responding.
 #: ''The program has a bug that can '''hang''' the system.
 # {{transitive|chess}} To cause (a piece) to become vulnerable to capture.
 #: ''If you move there, you'll '''hang''' your queen rook.
@@ -134,6 +134,48 @@ A fusion of {{etyl|ang}} {{term|hon|hōn|to hang, be hanging|lang=ang}} [intrans
 * Slovene: [[viseti]]
 {{trans-bottom}}
 
+{{trans-top|hold or bear in a suspended or inclined manner or position instead of erect}}
+* Czech: {{t-|cs|svěsit}}
+* Dutch: [[laten]] [[hangen]]
+* French: {{t+|fr|baisser}}
+{{trans-mid}}
+* German: {{t+|de|hängen}}
+* Russian: {{t+|ru|вешать|tr=véšat'}} {{impf}}, {{t|ru|повесить|tr=povésit'}} {{pf}}
+* [[Scottish Gaelic]]: {{t-|gd|croch|xs=Scottish Gaelic}}
+{{trans-bottom}}
+
+{{trans-top|cause (something) to be suspended}}
+* Dutch: {{t+|nl|hangen}}, {{t+|nl|ophangen}}
+* Esperanto: {{t-|eo|pendigi|xs=Esperanto}}
+* Finnish: [[ripustaa]], [[asettaa]] [[roikkua|roikkumaan]]
+* French: [[pendre]], [[suspendre]], [[laisser pendre]]
+* German: {{t+|de|aufhängen}}
+* Hungarian: {{t+|hu|akaszt}}, {{t+|hu|felakaszt}}
+* Japanese: [[掛ける]] ([[かける]], kakeru)
+{{trans-mid}}
+* Korean: [[걸다]] geolda
+* Portuguese: {{t+|pt|pendurar}}
+* Russian: {{t+|ru|вешать|tr=véšat'}} {{impf}}, {{t|ru|повесить|tr=povésit'}} {{pf}}, {{t|ru|подвесить|tr=podv'ésit'}} {{pf}}
+* [[Scottish Gaelic]]: {{t-|gd|croch|xs=Scottish Gaelic}}
+* Slovene: {{t+|sl|obesiti}}
+* [[Telugu]]: [[వేలాడదీయు]] (valaaDadeeyu)
+{{trans-bottom}}
+
+{{trans-top|place on a hook}}
+* Czech: {{t-|cs|pověsit}}
+* Dutch: {{t+|nl|ophangen}}
+* French: {{t+|fr|accrocher}}
+* German: {{t+|de|aufhängen}}
+* [[Ido]]: {{t+|io|pendar|xs=Ido}}
+* Italian: {{t+|it|appendere}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|pendurar}}
+* Romanian: {{t+|ro|agăţa}}
+* Russian: {{t+|ru|вешать|tr=véšat'}} {{impf}}, {{t|ru|повесить|tr=povésit'}} {{pf}}, {{t|ru|подвесить|tr=podv'ésit'}} {{pf}}
+* [[Scottish Gaelic]]: {{t-|gd|croch|xs=Scottish Gaelic}}
+* Slovene: {{t+|sl|obesiti}}
+{{trans-bottom}}
+
 {{trans-top|execute (someone) by suspension from the neck}}
 * Czech: {{t-|cs|oběsit}}
 * Dutch: {{t+|nl|hangen}}, {{t+|nl|ophangen}}
@@ -176,55 +218,6 @@ A fusion of {{etyl|ang}} {{term|hon|hōn|to hang, be hanging|lang=ang}} [intrans
 * Swedish: {{t+|sv|hänga}}
 {{trans-bottom}}
 
-{{trans-top|chess: be vulnerable to capture}}
-* German: {{t+|de|hängen}}
-* Italian: {{t-|it|bloccarsi}}
-{{trans-mid}}
-* [[Sicilian]]: [[chiantarisi]]
-{{trans-bottom}}
-
-{{trans-top|cause (something) to be suspended}}
-* Dutch: {{t+|nl|hangen}}, {{t+|nl|ophangen}}
-* Esperanto: {{t-|eo|pendigi|xs=Esperanto}}
-* Finnish: [[ripustaa]], [[asettaa]] [[roikkua|roikkumaan]]
-* French: [[pendre]], [[suspendre]], [[laisser pendre]]
-* German: {{t+|de|aufhängen}}
-* Hungarian: {{t+|hu|akaszt}}, {{t+|hu|felakaszt}}
-* Japanese: [[掛ける]] ([[かける]], kakeru)
-{{trans-mid}}
-* Korean: [[걸다]] geolda
-* Portuguese: {{t+|pt|pendurar}}
-* Russian: {{t+|ru|вешать|tr=véšat'}} {{impf}}, {{t|ru|повесить|tr=povésit'}} {{pf}}, {{t|ru|подвесить|tr=podv'ésit'}} {{pf}}
-* [[Scottish Gaelic]]: {{t-|gd|croch|xs=Scottish Gaelic}}
-* Slovene: {{t+|sl|obesiti}}
-* [[Telugu]]: [[వేలాడదీయు]] (valaaDadeeyu)
-{{trans-bottom}}
-
-{{trans-top|hold or bear in a suspended or inclined manner or position instead of erect}}
-* Czech: {{t-|cs|svěsit}}
-* Dutch: [[laten]] [[hangen]]
-* French: {{t+|fr|baisser}}
-{{trans-mid}}
-* German: {{t+|de|hängen}}
-* Russian: {{t+|ru|вешать|tr=véšat'}} {{impf}}, {{t|ru|повесить|tr=povésit'}} {{pf}}
-* [[Scottish Gaelic]]: {{t-|gd|croch|xs=Scottish Gaelic}}
-{{trans-bottom}}
-
-{{trans-top|place on a hook}}
-* Czech: {{t-|cs|pověsit}}
-* Dutch: {{t+|nl|ophangen}}
-* French: {{t+|fr|accrocher}}
-* German: {{t+|de|aufhängen}}
-* [[Ido]]: {{t+|io|pendar|xs=Ido}}
-* Italian: {{t+|it|appendere}}
-{{trans-mid}}
-* Portuguese: {{t+|pt|pendurar}}
-* Romanian: {{t+|ro|agăţa}}
-* Russian: {{t+|ru|вешать|tr=véšat'}} {{impf}}, {{t|ru|повесить|tr=povésit'}} {{pf}}, {{t|ru|подвесить|tr=podv'ésit'}} {{pf}}
-* [[Scottish Gaelic]]: {{t-|gd|croch|xs=Scottish Gaelic}}
-* Slovene: {{t+|sl|obesiti}}
-{{trans-bottom}}
-
 {{trans-top|exhibit (an object)}}
 * Dutch: {{t+|nl|ophangen}}
 * French: {{t+|fr|exposer}}
@@ -248,14 +241,28 @@ A fusion of {{etyl|ang}} {{term|hon|hōn|to hang, be hanging|lang=ang}} [intrans
 * Russian: {{t|ru|обвешать|tr=''obvéšat'''}} {{impf}}, {{t|ru|обвешивать|tr=obvéšivat'}} {{pf}}
 {{trans-bottom}}
 
+{{trans-top|computing: stop responding}}
+* [[Catalan]]: {{t|ca|encallar-se}}, {{t|ca|bloquejar-se}}
+{{trans-mid}}
+* Dutch: {{t|nl|vastlopen}}, {{t|nl|hangen}}
+{{trans-bottom}}
+
 {{trans-top|computing: cause (a program or computer) to stop responding}}
-* Dutch: [[vasthangen]]
+* [[Catalan]]: {{t|ca|encallar}}, {{t|ca|bloquejar}}
+* Dutch: {{t|nl|laten}} {{t|nl|vastlopen}}, laten {{t|nl|hangen}}
 * Finnish: {{t+|fi|kaatua}}
 * German: {{t+|de|hängen}}, {{t+|de|aufhängen}}
-* Italian: {{t-|it|bloccarsi}}
 {{trans-mid}}
+* Italian: {{t-|it|bloccarsi}}
 * Portuguese: {{t+|pt|parar}}
 * Russian: {{t+|ru|вешать|tr=véšat'}} {{impf}}, {{t|ru|повесить|tr=povésit'}} {{pf}}, {{t|ru|подвесить|tr=''podv'ésit'''}} {{pf}}
+{{trans-bottom}}
+
+{{trans-top|chess: be vulnerable to capture}}
+* German: {{t+|de|hängen}}
+* Italian: {{t-|it|bloccarsi}}
+{{trans-mid}}
+* [[Sicilian]]: [[chiantarisi]]
 {{trans-bottom}}
 
 {{checktrans-top}}
