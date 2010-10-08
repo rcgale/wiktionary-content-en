@@ -3,7 +3,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|enm}} < {{etyl|xno}} < {{etyl|la}} {{term|argumentum||proof, evidence, token, subject, contents}} <  {{term|arguere||to prove, argue}}; see [[argue]].
+From {{etyl|enm}} < {{etyl|xno}} < {{etyl|la}} {{term|argumentum||proof, evidence, token, subject, contents}} < {{term|arguere||to prove, argue}}; see [[argue]].
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈɑːɡjʊmənt/}}, {{SAMPA|/"A:gjUm@nt/}}
@@ -17,8 +17,8 @@ From {{etyl|enm}} < {{etyl|xno}} < {{etyl|la}} {{term|argumentum||proof, evidenc
 # <span id="N2">A verbal [[dispute]]; a [[quarrel]].</span>
 # <span id="N3">A [[process]] of [[reasoning]].</span>
 # <span id="N4">{{context|philosophy|logic}}</span> A [[series]] of [[statements]] [[organize]]d so that the [[final]] statement is a [[conclusion]] which is [[intend]]ed to [[follow]] [[logically]] from the [[preceding]] statements, which function as [[premise]]s.
-# <span id="N5">{{math}} The independent variable of a function.</span>
-# <span id="N6">{{programming}} A [[value]]</span>, or reference to a value, passed to a [[function]].  <!-- call by value v.s. call by reference -->
+# <span id="N5">{{mathematics}} The independent variable of a function.</span>
+# <span id="N6">{{programming}} A [[value]]</span>, or reference to a value, passed to a [[function]]. <!-- call by value v.s. call by reference -->
 # <span id="N7">{{programming}} A [[parameter]]</span> in a function definition; a [[formal argument]].
 # {{linguistics}} Any of the [[phrase]]s that bears a [[syntactic]] connection to the [[verb]] of a [[clause]].
 
@@ -40,9 +40,9 @@ From {{etyl|enm}} < {{etyl|xno}} < {{etyl|la}} {{term|argumentum||proof, evidenc
 ====Translations====
 {{trans-top|fact or statement used to support a proposition; a reason}}
 * Albanian: {{t+|sq|argument|xs=Albanian}}
-* Armenian: {{t|hy|փաստարկ|tr=p’astark}},  {{t|hy|կռվան|tr=kṙvan}}
+* Armenian: {{t|hy|փաստարկ|tr=p’astark}}, {{t|hy|կռվան|tr=kṙvan}}
 * [[Breton]]: [[arguz]] {{m}}, arguzoù {{p}}
-* Bulgarian: {{t|bg|довод}},  {{t+|bg|аргумент}}
+* Bulgarian: {{t|bg|довод}}, {{t+|bg|аргумент}}
 * [[Catalan]]: argument {{m}}
 * Czech: {{t-|cs|argument|m}}
 * Finnish: {{t+|fi|argumentti}}
@@ -64,14 +64,14 @@ From {{etyl|enm}} < {{etyl|xno}} < {{etyl|la}} {{term|argumentum||proof, evidenc
 {{trans-bottom}}
 
 {{trans-top|verbal dispute; a quarrel}}
-* Armenian: {{t-|hy|վեճ|tr=več̣}},  {{t|hy|վիճաբանություն|tr=vič̣abanut’yun}}
+* Armenian: {{t-|hy|վեճ|tr=več̣}}, {{t|hy|վիճաբանություն|tr=vič̣abanut’yun}}
 * [[Breton]]: [[tabut]] {{m}}, tabutoù {{p}}
-* Bulgarian: {{t+|bg|спор}},  {{t|bg|дискусия}}
+* Bulgarian: {{t+|bg|спор}}, {{t|bg|дискусия}}
 * [[Catalan]]: [[disputa]] {{f}}
 * Dutch: {{t+|nl|ruzie|f}}, {{t-|nl|betoog|n}}
 * Finnish: {{t+|fi|riita}}, {{t-|fi|väittely}}
 * French: {{t+|fr|querelle|f}}
-* German: {{t+|de|Streit|m}},  {{t|de|Streitgespräch}},  {{t+|de|Diskussion|f}},  {{t|de|Streitgespräch|n}}
+* German: {{t+|de|Streit|m}}, {{t|de|Streitgespräch}}, {{t+|de|Diskussion|f}}, {{t|de|Streitgespräch|n}}
 * Hebrew: [[ויכוח]] (vikuakh) {{m}}
 * Italian: {{t+|it|discussione|f}}
 {{trans-mid}}
@@ -80,11 +80,11 @@ From {{etyl|enm}} < {{etyl|xno}} < {{etyl|la}} {{term|argumentum||proof, evidenc
 *: Sorani: {{t|ku|شه‌ڕه‌قسه‌|tr=shara qisa|sc=ku-Arab}}, {{t|ku|قڕه‌بڕ|tr=qirabir|sc=ku-Arab}}
 * Polish: {{t|pl|kłótnia|f}}
 * Portuguese: {{t+|pt|discussão|f}}
-* Romanian: {{t|ro|ceartă|f}}, {{t|ro|dispută|f}}, {{t|ro|discuție (contrară)}}
+* Romanian: {{t|ro|ceartă|f}}, {{t|ro|dispută|f}}
 * Russian: {{t+|ru|спор|m|tr=spor}}
 * [[Scottish Gaelic]]: {{t-|gd|connsachadh|m|xs=Scottish Gaelic}}, {{t-|gd|connspaid|f|xs=Scottish Gaelic}}
 * Slovene: [[prepir]] {{m}}, [[spor]] {{m}}
-* Spanish: {{t-|es|discusión|f}},  {{t+|es|bronca|f}},  {{t+|es|riña|f}},  {{t+|es|pelea|f}}
+* Spanish: {{t-|es|discusión|f}}, {{t+|es|bronca|f}}, {{t+|es|riña|f}}, {{t+|es|pelea|f}}
 * Swedish: {{t+|sv|argumentation|c}}, {{t+|sv|diskussion|c}}
 * Turkish: {{t+|tr|tartışma}}
 {{trans-bottom}}
@@ -216,7 +216,7 @@ From {{etyl|la|fr}} {{term|argumentum|argūmentum|lang=la}}, from {{term|arguo|a
 
 # [[#English|argument]]; a reason
 # {{mathematics|lang=sv}} argument; an independent variable passed to a function
-# {{computer language|lang=sv}} argument; variable passed to a function
+# {{programming|lang=sv}} argument; variable passed to a function
 
 [[ar:argument]]
 [[da:argument]]
