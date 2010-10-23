@@ -18,57 +18,40 @@ From {{etyl|la|ca}} {{term|posse|lang=la}}, present active infinitive of {{term|
 # to be [[able]]; [[can]]
 
 ====Conjugation====
-{{ca-conj|verb=poder
-| pres_part=podent
-| past_part=pogut
-| pres_ind_1_sg=puc
-| pres_ind_2_sg=pots
-| pres_ind_3_sg=pot
-| pres_ind_1_pl=podem
-| pres_ind_2_pl=podeu
-| pres_ind_3_pl=poden
-| impf_ind_1_sg=podia
-| impf_ind_2_sg=podies
-| impf_ind_3_sg=podia
-| impf_ind_1_pl=podíem
-| impf_ind_2_pl=podíeu
-| impf_ind_3_pl=podien
-| futr_ind_1_sg=podré
-| futr_ind_2_sg=podràs
-| futr_ind_3_sg=podrà
-| futr_ind_1_pl=podrem
-| futr_ind_2_pl=podreu
-| futr_ind_3_pl=podran
-| pret_ind_1_sg=poguí
-| pret_ind_2_sg=pogueres
-| pret_ind_3_sg=pogué
-| pret_ind_1_pl=poguérem
-| pret_ind_2_pl=poguéreu
-| pret_ind_3_pl=pogueren
-| cond_1_sg=podria
-| cond_2_sg=podries
-| cond_3_sg=podria
-| cond_1_pl=podríem
-| cond_2_pl=podríeu
-| cond_3_pl=podrien
-| pres_sub_1_sg=pugui
-| pres_sub_2_sg=puguis
-| pres_sub_3_sg=pugui
-| pres_sub_1_pl=puguem
-| pres_sub_2_pl=pugueu
-| pres_sub_3_pl=puguin
-| impf_sub_1_sg=pogués
-| impf_sub_2_sg=poguessis
-| impf_sub_3_sg=pogués
-| impf_sub_1_pl=poguéssim
-| impf_sub_2_pl=poguéssiu
-| impf_sub_3_pl=poguessin
-| impr_2_sg=pugues
-| impr_3_sg=pugui
-| impr_1_pl=puguem
-| impr_2_pl=pugueu
-| impr_3_pl=puguin
-}}
+{{ca-conj-temer|pod|futr_cond_stem=podr<!--
+-->| past_part=pogut<!--
+
+-->| pres_ind_1_sg=puc<!--
+-->| pres_ind_2_sg=pots<!--
+-->| pres_ind_3_sg=pot<!--
+
+-->| pret_ind_1_sg=poguí<!--
+-->| pret_ind_2_sg=pogueres<!--
+-->| pret_ind_3_sg=pogué<!--
+-->| pret_ind_1_pl=poguérem<!--
+-->| pret_ind_2_pl=poguéreu<!--
+-->| pret_ind_3_pl=pogueren<!--
+
+-->| pres_sub_1_sg=pugui<!--
+-->| pres_sub_2_sg=puguis<!--
+-->| pres_sub_3_sg=pugui<!--
+-->| pres_sub_1_pl=puguem<!--
+-->| pres_sub_2_pl=pugueu<!--
+-->| pres_sub_3_pl=puguin<!--
+
+-->| impf_sub_1_sg=pogués<!--
+-->| impf_sub_2_sg=poguessis<!--
+-->| impf_sub_3_sg=pogués<!--
+-->| impf_sub_1_pl=poguéssim<!--
+-->| impf_sub_2_pl=poguéssiu<!--
+-->| impf_sub_3_pl=poguessin<!--
+
+-->| impr_2_sg=pugues<!--
+-->| impr_3_sg=pugui<!--
+-->| impr_1_pl=puguem<!--
+-->| impr_2_pl=pugueu<!--
+-->| impr_3_pl=puguin<!--
+-->}}
 
 ===References===
 * {{R:IEC4}}
