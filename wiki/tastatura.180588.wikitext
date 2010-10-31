@@ -1,18 +1,4 @@
 {{also|tastatură}}
-==Bosnian==
-
-===Etymology===
-From {{etyl|de|bs}} [[Tastatur]]
-
-===Noun===
-'''tastatura''' {{f}} {{s}} ({{p}}: '''tastature''')
-
-# {{computing|lang=bs}} [[keyboard]]
-
-[[Category:Bosnian nouns]]
-
-----
-
 ==Romanian==
 
 ===Pronunciation===
@@ -27,20 +13,34 @@ From {{etyl|de|bs}} [[Tastatur]]
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|de|sr}} [[Tastatur]]
+From {{etyl|de|sh}} {{term|Tastatur|lang=de}}.
+
+===Pronunciation===
+* {{IPA|/tastatǔːra/|lang=sh}}
+* {{hyphenation|tas|ta|tu|ra}}
 
 ===Noun===
-'''tastatura''' {{f}} {{s}} ({{p}}: '''tastature''')
+{{sh-noun|g=f|head=tastatúra|r|тастатура|тастату́ра}}
 
 # {{computing|lang=sr}} [[keyboard]]
+# {{music|lang=sh}} keyboard
 
-====Cyrillic spelling====
-* [[тастатура#Serbian|тастатура]]
+====Declension====
+{{sh-decl-noun
+|tastatura|tastature
+|tastature|tastatura
+|tastaturi|tastaturama
+|tastaturu|tastature
+|tastaturo|tastature
+|tastaturi|tastaturama
+|tastaturom|tastaturama
+}}
 
-[[Category:Serbian nouns]]
+====Synonyms====
+* {{sense|musical keyboard}} {{l|sh|klavijatura|klavijatúra}}
 
 [[el:tastatura]]
 [[hu:tastatura]]
