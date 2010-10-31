@@ -191,20 +191,20 @@
 *: Egyptian Arabic: {{tø|arz|ايد|f|alt=إيد|tr='iid|sc=Arab|xs=Egyptian Arabic}}
 * Aramaic:
 *: Syriac: [[ܐܝܕܐ]] (’īdā’) {{f}}
-*: Hebrew: [[אידא]] (’īdā’) {{f}}, {{t|he|יד|f|tr=yad|sc=Hebr}}
+*: Hebrew: [[אידא]] (’īdā’) {{f}}
 * Armenian: {{t-|hy|ձեռք|tr=jeṙk'}}
 * [[Aromanian]]: {{tø|rup|mãnã}}
 * [[Azeri]]: {{t|az|əl|xs=Azeri}}
 * [[Basque]]: [[esku]]
 * Belarusian: {{t|be|рука|f|tr=ruká|sc=Cyrl}}
-* Bengali: (hath), {{t|bn|হাত|tr=hat|sc=Beng}}
+* Bengali: {{t|bn|হাত|tr=hat|sc=Beng}}
 * [[Breton]]: [[dorn]]
 * Bulgarian: {{t|bg|ръка|f|tr=rǎká|sc=Cyrl}}
 * {{trreq|Burmese}}
 * [[Catalan]]: {{t+|ca|mà|f}}
 * [[Central Atlas Tamazight]]: {{tø|tzm|ⴰⴼⵓⵙ|m|tr=afus|sc=Tfng}}
 * [[Chamicuro]]: {{tø|ccc|shijpa}}
-* Chinese: [[手]] (shǒu)
+* Chinese:
 *: Mandarin: {{t|zh|手|tr=shǒu|sc=Hani}}
 * [[Coptic]]: {{tø|cop|ϭⲓϫ|tr=čiǧ|sc=Copt}}
 * Czech: {{t+|cs|ruka|f}}
@@ -225,8 +225,8 @@
 * [[Greenlandic]]: {{t-|kl|assak|xs=Greenlandic}}
 * [[Guaraní]]: [[po#Guaraní|po]]
 * Hawaiian: {{tø|haw|lima}}
-* Hebrew: [[יד]] (yad) {{f}}
-* Hindi: [[हाथ]] (hāth), {{t|hi|हाथ|tr=hāth|sc=Deva}}
+* Hebrew: {{t|he|יד|f|tr=yad|sc=Hebr}}
+* Hindi: {{t|hi|हाथ|tr=hāth|sc=Deva}}
 * Hungarian: {{t+|hu|kéz}}
 * Icelandic: {{t+|is|hönd|f}}, {{t+|is|mund|f}}
 * [[Ido]]: [[manuo]]
@@ -235,11 +235,11 @@
 * [[Interlingua]]: [[mano#Interlingua|mano]]
 * Irish: {{t+|ga|lámh|f|xs=Irish}}
 * Italian: {{t+|it|mano|f}}
-* Japanese: [[手]] ([[て]], te), {{t|ja|手|tr=て, te|sc=Jpan}}
+* Japanese: {{t|ja|手|tr=て, te|sc=Jpan}}
 * [[Kannada]]: [[ಕೈ]] (kai)
 * Kazakh: {{t|kk|қол|tr=qol|sc=Cyrl|xs=Kazakh}}
 * [[Khmer]]: {{t|km|ដៃ|tr=dai|sc=Khmr|xs=Khmer}}
-* Korean: [[손]] (son), {{t|ko|손|tr=son|sc=Kore}}
+* Korean: {{t|ko|손|tr=son|sc=Kore}}
 * Kurdish: {{t+|ku|dest}}, {{t-|ku|ده‌ست|sc=ku-Arab}}
 * [[Kyrgyz]]: {{t+|ky|кол|tr=kol|sc=Cyrl|xs=Kyrgyz}}
 * [[Lao]]: {{t+|lo|ມື|sc=Laoo|xs=Lao}}
@@ -260,14 +260,13 @@
 * [[Occitan]]: {{t+|oc|man|xs=Occitan}}
 * [[Ojibwe]]: {{tø|oj|oninjiimaa}}
 * [[Old Church Slavonic]]:
-*: Cyrillic: {{tø|cu|рѫка|f|tr=rǫka|sc=Cyrs}}, {{t|sh|рука|f}}
-*: Roman: {{t|sh|šaka|f}}, {{t|sh|ruka|f}}
+*: Cyrillic: {{tø|cu|рѫка|f|tr=rǫka|sc=Cyrs}}
 *: Glagolitic: {{tø|cu|ⰓⰨⰍⰀ|f|tr=rǫka|sc=Glag}}
 * [[Old English]]: {{t+|ang|hand|f|xs=Old English}}, {{t-|ang|folm|f|xs=Old English}}
 * [[Oriya]]: {{t-|or|ହାତ|tr=hāta|sc=Orya|xs=Oriya}}
 * [[Ossetian]]: {{tø|os|арм|tr=arm|sc=Cyrl|xs=Ossetian}}
 * [[Pashto]]: {{t+|ps|لاس|m|tr=lās|sc=ps-Arab|xs=Pashto}}
-* Persian: {{fa-Arab|[[دست|دَست]]}} (dæst), {{t|fa|دست|tr=dast|sc=fa-Arab}}
+* Persian: {{t|fa|دست|tr=dast|sc=fa-Arab}}
 * Polish: {{t+|pl|ręka|f}}, {{t+|pl|dłoń|f}}
 * Portuguese: {{t+|pt|mão|f}}
 * [[Powhatan]]: [[metench]]
@@ -278,9 +277,9 @@
 * Sanskrit: {{t-|sa|हस्त|m|tr=hasta|xs=Sanskrit}}
 * [[Sardinian]]: [[manu]] {{f}}
 * [[Scottish Gaelic]]: [[làmh]] {{f}}
-* Serbian: {{t-|sr|šaka|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|шака|f}}
+*: Cyrillic: {{t|sh|шака|f}}, {{t|sh|рука|f}}
+*: Roman: {{t|sh|šaka|f}}, {{t|sh|ruka|f}}
 * [[Sinhalese]]: {{t|si|අත|tr=ata|sc=Sinh}}
 * Slovak: {{t-|sk|ruka|f}}
 * Slovene: {{t+|sl|roka|f}}
@@ -302,7 +301,7 @@
 * Welsh: {{t+|cy|llaw|f|xs=Welsh}}
 * [[West Frisian]]: {{t+|fy|hân|c|xs=West Frisian}}
 * [[!Xóõ]]: {{tø|nmn|ǀkxʼàa}}
-* Yiddish: [[האַנט]] (hant, hent) {{f}}, {{t|yi|האַנט|f|tr=hant, hent|sc=yi-Hebr}}
+* Yiddish: {{t|yi|האַנט|f|tr=hant, hent|sc=yi-Hebr}}
 * [[Zazaki]]: {{tø|zza|dest|m}}
 {{trans-bottom}}
 
