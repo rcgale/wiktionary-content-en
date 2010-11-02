@@ -48,14 +48,16 @@
 ====Translations====
 {{trans-top|a person who has membership in some group}}
 * Bulgarian: {{t|bg|привърженик}}
-* Croatian: {{t-|hr|adherent|m}}, {{t-|hr|sljedbenik|m}}, {{t-|hr|pristaša|m}}
 * Czech: {{t-|cs|příznivec|m}} (''to a principle or rule''), {{t-|cs|stoupenec|m}}, {{t+|cs|člen}}, {{t|cs|přívrženec|m}}
 * French: {{t+|fr|adhérent}}
-{{trans-mid}}
 * German: {{t+|de|Mitglied|n}}, {{t+|de|Anhänger|m}}
 * Hungarian: {{t+|hu|tag}}, {{t|hu|követő}}
 * [[Interlingua]]: [[adherente]]
+{{trans-mid}}
 * Italian: {{t+|it|aderente}}
+* Serbo-Croatian:
+* Cyrillic: {{t-|sh|адхерент|m|alt=адхѐрент|sc=Cyrl}}, {{t-|sh|следбеник|m|alt=сле̏дбенӣк|sc=Cyrl}}/{{t-|sh|сљедбеник|m|alt=сље̏дбенӣк|sc=Cyrl}}, {{t-|sh|присталица|m|f|alt=прѝсталица|sc=Cyrl}}, {{t-|sh|присташа|m|alt=при̏сташа|sc=Cyrl}}
+* Roman: {{t-|sh|adherent|m|alt=adhèrent}}, {{t-|sh|sledbenik|m|alt=slȅdbenīk}}/{{t-|sh|sljedbenik|m|alt=sljȅdbenīk}}, {{t-|sh|pristalica|m|f|alt=prìstalica}}, {{t-|sh|pristaša|m|alt=prȉstaša}}
 * Spanish: [[adherente]]
 {{trans-bottom}}
 
@@ -65,17 +67,30 @@
 
 ----
 
-==Croatian==
+==Latin==
+
+===Verb===
+{{la-verb-form|adhērent}}
+
+# {{conjugation of|adhereo|adhēreō|3|p|pres|act|ind|lang=la}}
+
+----
+
+==Serbo-Croatian==
+
+===Pronunciation===
+* {{IPA|/adxěrent/|lang=sh}}
+* {{hyphenation|ad|he|rent}}
 
 ===Noun===
-{{hr-noun|g=m|adherenti}}
+{{sh-noun|g=m|head=adhèrent|r|адхерент|адхѐрент}}
 
-# adherent
+# [[#English|adherent]]
 
 ====Declension====
-{{hr-decl-noun
-|adherent|adherenti
-|adherenta|adherenata / adherenta
+{{sh-decl-noun
+|adhèrent|adherenti
+|adherenta|adhèrenātā
 |adherentu|adherentima
 |adherent|adherente
 |adherente|adherenti
@@ -84,16 +99,7 @@
 }}
 
 ====Synonyms====
-* [[pritaša]], [[pristalica]], [[sljedbenik]]
-
-----
-
-==Latin==
-
-===Verb===
-{{la-verb-form|adhērent}}
-
-# {{conjugation of|adhereo|adhēreō|3|p|pres|act|ind|lang=la}}
+* {{l|sh|pristalica|prìstalica}}, {{l|sh|pristaša|prȉstaša}}, {{l|sh|sledbenik|slȅdbenīk}}/{{l|sh|sljedbenik|sljȅdbenīk}}
 
 [[ar:adherent]]
 [[de:adherent]]
