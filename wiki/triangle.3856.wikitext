@@ -22,8 +22,8 @@ From {{etyl|fro}} ''[[#French|triangle]]''.
 # {{context|systemics}} The structure of systems composed with three interrelated objects.
 
 ====Synonyms====
-* (''polygon''): [[trigon]] (''rare'')
-* (''love triangle''): [[love triangle]], [[menage à trois]]
+* {{sense|polygon}} [[trigon]] (''rare'')
+* {{sense|love triangle}} [[love triangle]], [[menage à trois]]
 * See also [[Wikisaurus:triangle]]
 
 ====Translations====
@@ -124,8 +124,7 @@ From {{etyl|fro}} ''[[#French|triangle]]''.
 * Welsh: {{t+|cy|triongl|m|xs=Welsh}}
 {{trans-bottom}}
 
-'''love triangle'''
-''See'' '''[[love triangle]]'''
+{{trans-see|love triangle}}
 
 {{checktrans-top}}
 * {{ttbc|Afrikaans}}: [[driehoek]]
@@ -134,7 +133,6 @@ From {{etyl|fro}} ''[[#French|triangle]]''.
 {{trans-mid}}
 * {{ttbc|Latin}}: [[triangulum]] {{n}} (1)
 * {{ttbc|Romanian}}: [[triunghi]] {{n}}
-* {{ttbc|Spanish}}: [[triángulo]] {{m}}
 {{trans-bottom}}
 
 ====Derived terms====
@@ -201,6 +199,20 @@ From {{etyl|fro}} ''[[#French|triangle]]''.
 
 ----
 
+==Catalan==
+{{wikipedia|lang=ca}}
+
+===Noun===
+{{ca-noun|m}}
+
+# {{geometry|lang=ca}} {{l|en|triangle}}
+# {{musical instruments|lang=ca}} {{l|en|triangle}}
+
+====Related terms====
+* {{l|ca|triangular}}
+
+----
+
 ==French==
 
 ===Pronunciation===
@@ -209,8 +221,8 @@ From {{etyl|fro}} ''[[#French|triangle]]''.
 ===Noun===
 {{fr-noun|m}}
 
-# triangle (''polygon'')
-# triangle (''percussion instrument'')
+# triangle {{gloss|polygon}}
+# triangle {{gloss|percussion instrument}}
 
 ====Derived terms====
 * [[triangulaire]]
