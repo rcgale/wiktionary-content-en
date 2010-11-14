@@ -124,7 +124,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}}, from {{proto|Germanic|fiskaz|lang=e
 * [[Afrikaans]]: [[vis]]
 * Albanian: {{t-|sq|peshk|m|xs=Albanian}}
 * [[Aleut]]: [[sa-yak]]
-* Arabic: {{Arab|[[سمك]]}} (sámak) {{m}}, {{qualifier|singular}} {{t|ar|سمكة|f|tr=sámaka|sc=Arab}}, {{qualifier|collective}} {{t|ar|سمك|tr=sámak|sc=Arab}}
+* Arabic: {{qualifier|singular}} {{t|ar|سمكة|f|tr=sámaka|sc=Arab}}, {{qualifier|collective}} {{t|ar|سمك|m|tr=sámak|sc=Arab}}
 *: Egyptian: {{Arab|[[سمكة]]}} (sámaka) {{f}}
 * Aramaic:
 *: Syriac: [[ܢܘܢܐ]] (nūnā’) {{c}}
@@ -140,7 +140,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}}, from {{proto|Germanic|fiskaz|lang=e
 * [[Bashkir]]: {{tø|ba|балыҡ|tr=balıq|sc=Cyrl|xs=Bashkir}}
 * [[Basque]]: {{t+|eu|arrain|xs=Basque}}
 * Belarusian: {{t|be|рыба|f|tr=rýba|sc=Cyrl}}
-* Bengali: {{t-|bn|মাছ|tr=mach|sc=Beng|xs=Bengali}}, {{t|bn|মাছ|tr=mach|sc=Beng}}
+* Bengali: {{t-|bn|মাছ|tr=mach|sc=Beng}}
 * Bosnian: {{t-|bs|riba|f}}
 * [[Breton]]: [[pesk]] {{m}}
 * Bulgarian: {{t+|bg|риба|f|tr=riba}}
@@ -152,8 +152,8 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}}, from {{proto|Germanic|fiskaz|lang=e
 * [[Chechen]]: {{tø|ce|чӀара|tr=ç̇ara|sc=Cyrl}}
 * Cherokee: [[ᎠᏣᏗ]] (atsadi)
 * [[Cheyenne]]: [[nomaˀne]]
-* Chinese: [[魚]], [[鱼]] (yú)
-*: Cantonese: [[魚]]
+* Chinese:
+*: Cantonese: {{tø|yue|魚|sc=Hani}}, {{tø|yue|鱼|tr=jyu4|sc=Hani}}
 *: [[Gan]]: [[鱼]] (enlei)
 *: [[Hainanese]]: [[鱼]] (hu)
 *: [[Hakka]]: [[魚]] (ng)
@@ -194,7 +194,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}}, from {{proto|Germanic|fiskaz|lang=e
 * Hawaiian: [[iʻa]]
 * Hebrew: {{t+|he|דג|m|alt=דָּג|tr=dag}}
 * [[Hiligaynon]]: {{tø|hil|abakan|alt=abákan}}
-* Hindi: [[मछली]] (mačlī) {{f}}, [[मत्स्य]] (matsya) {{m}}, [[माही]] (māhī) {{f}}, {{t|hi|मछली|f|tr=maćhlī|sc=Deva}}, {{t|hi|मत्स्य|m|tr=matsya|sc=Deva}}, {{t|hi|माही|f|tr=māhī|sc=Deva}}
+* Hindi: {{t|hi|मछली|f|tr=maćhlī|sc=Deva}}, {{t|hi|मत्स्य|m|tr=matsya|sc=Deva}}, {{t|hi|माही|f|tr=māhī|sc=Deva}}
 * [[Hopi]]: {{tø|hop|paakiw}}
 * Hungarian: {{t+|hu|hal}}
 * Icelandic: {{t+|is|fiskur|m}}
@@ -211,7 +211,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}}, from {{proto|Germanic|fiskaz|lang=e
 * [[Inuktitut]]: [[ᐃᖃᓗᒃ]]
 * Irish: {{t+|ga|iasc|m|xs=Irish}}
 * Italian: {{t+|it|pesce|m}}
-* Japanese: [[魚]] ([[さかな]], sakana), {{italbrac|old or rare}} [[魚]] ([[うお]], uo), {{t|ja|魚|tr=さかな, sakana|sc=Jpan}}, {{qualifier|old or rare}} {{t|ja|魚|tr=うお, uo|sc=Jpan}}
+* Japanese: {{t|ja|魚|tr=さかな, sakana|sc=Jpan}}, {{qualifier|old or rare}} {{t|ja|魚|tr=うお, uo|sc=Jpan}}
 * [[Kalmyk]]: {{tø|xal|заһсн|tr=zaghsn|sc=Cyrl}}
 * {{trreq|Kannada}}
 * [[Kansa]]: [[ho#Kanza|ho]]
@@ -219,24 +219,24 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}}, from {{proto|Germanic|fiskaz|lang=e
 * [[Karakalpak]]: {{tø|kaa|balıq}}
 * Kazakh: {{t|kk|балық|sc=Cyrl|xs=Kazakh}}
 * [[Khakas]]: {{tø|kjh|палых|tr=palıx|sc=Cyrl}}
-* [[Khmer]]: {{Khmr|[[ត្រី]]}} (dt’rēi), {{t|km|ត្រី|tr=dt’rēi|sc=Khmr}}
+* [[Khmer]]: {{t|km|ត្រី|tr=dt’rēi|sc=Khmr}}
 * [[Kikuyu]]: {{tø|ki|thamaki}}
 * [[Klamath-Modoc]]: [[kyem]]
-* Korean: [[물고기]] mulgogi, {{t|ko|물고기|tr=mulgogi|sc=Kore}}
+* Korean: {{t|ko|물고기|tr=mulgogi|sc=Kore}}
 * [[Koryak]]: {{tø|kpy|ынныын|tr=ənnəən|sc=Cyrl}}
 * [[Kumyk]]: {{tø|kum|балыкъ|tr=balıq|sc=Cyrl}}
 * Kurdish: [[masî]] {{m}}, {{ku-Arab|[[ماسی]]}}
 * [[Kwak'wala]]: [[me]]
 * [[Kyrgyz]]: {{t-|ky|балык|tr=balyk|sc=Cyrl|xs=Kyrgyz}}
 {{trans-mid}}
-* [[Lao]]: [[ປາ]] (bpa), {{t|lo|ປາ|tr=bpa|sc=Laoo}}
+* [[Lao]]: {{t|lo|ປາ|tr=bpa|sc=Laoo}}
 * Latin: {{t+|la|piscis|m}}
 * Latvian: {{t-|lv|zivs|f|s|xs=Latvian}}
 * Lithuanian: {{t+|lt|žuvis|f|xs=Lithuanian}}
 * [[Logudorese Sardinian]]: [[pische]] {{m}}
 * [[Luhya]]: {{tø|luy|eng'eni}},
 * [[Luo]]: {{tø|luo|rech}}
-* [[Macedonian]]: [[риба]]  (riba), {{t|mk|риба|f|tr=ríba|sc=Cyrl}}
+* [[Macedonian]]: {{t|mk|риба|f|tr=ríba|sc=Cyrl}}
 * Malay: {{t+|ms|ikan|xs=Malay}}
 * [[Malayalam]]: [[മീന്‍]] (meen), [[മത്സ്യം]] (mathsyam)
 * Maltese: {{t|mt|ħuta|f}}
@@ -275,7 +275,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}}, from {{proto|Germanic|fiskaz|lang=e
 *: Digor: {{tø|os|кæсалгæ|tr=kæsalgæ|sc=Cyrl|xs=Ossetian}}, {{qualifier|big}} {{tø|os|кæф|tr=kæf|sc=Cyrl|xs=Ossetian}}
 *: Iron: {{tø|os|кæсаг|tr=kæsag|sc=Cyrl|xs=Ossetian}}, {{qualifier|big}} {{tø|os|кæф|tr=kæf|sc=Cyrl|xs=Ossetian}}
 * [[Pawnee]]: [[kʌṣixi]]
-* Persian: {{fa-Arab|[[ماهی]]}} (māhi), {{t|fa|ماهی|tr=māhi|sc=fa-Arab}}
+* Persian: {{t|fa|ماهی|tr=māhi|sc=fa-Arab}}
 * [[Picard]]: {{tø|pcd|pichon}}
 * Polish: {{t+|pl|ryba|f}}
 * Portuguese: {{t+|pt|peixe|m}}
@@ -318,7 +318,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}}, from {{proto|Germanic|fiskaz|lang=e
 * [[Tatar]]: [[балык]],  {{t-|tt|balıq|xs=Tatar}}
 * [[Telugu]]: [[చేప]] (caepa)
 * [[Tetum]]: [[ikan]]
-* Thai: {{Thai|[[ปลา]]}} (bplaa), {{t|th|ปลา|tr=bplaa|sc=Thai}}
+* Thai: {{t|th|ปลา|tr=bplaa|sc=Thai}}
 * Tibetan: [[ཉ]] (ña)
 * [[Tlingit]]: [[x̣ɑ́t]]
 * [[Tocharian A]]: [[läks]]
@@ -334,7 +334,7 @@ From {{etyl|ang|en}} {{term|fisc|lang=ang}}, from {{proto|Germanic|fiskaz|lang=e
 * [[Tuvan]]: {{tø|tyv|балык|tr=balıq|sc=Cyrl}}
 * [[Ubykh]]: {{tø|uby|psa}}
 * Ukrainian: {{t-|uk|риба|f|tr=riba|xs=Ukrainian}}
-* Urdu: {{ur-Arab|[[مچھلی]]}} (mačlī) {{f}}, {{ur-Arab|[[متسیہ]]}} (matsya) {{m}}, {{ur-Arab|[[ماہی]]}} (māhī) {{f}}, {{t|ur|مچھلی|f|tr=maćhlī|sc=ur-Arab}}, {{t|ur|متسیہ|m|tr=matsya|sc=ur-Arab}}, {{t|ur|ماہی|f|tr=māhī|sc=ur-Arab}}
+* Urdu: {{t|ur|مچھلی|f|tr=maćhlī|sc=ur-Arab}}, {{t|ur|متسیہ|m|tr=matsya|sc=ur-Arab}}, {{t|ur|ماہی|f|tr=māhī|sc=ur-Arab}}
 * Uzbek: {{t-|uz|baliq|xs=Uzbek}}
 * [[Venetian]]: [[pesse]] {{m}}
 * Vietnamese: {{t+|vi|cá|xs=Vietnamese}}, {{t-|vi|ngư|xs=Vietnamese}}
