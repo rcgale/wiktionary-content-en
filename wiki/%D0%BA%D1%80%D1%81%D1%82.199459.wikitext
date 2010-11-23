@@ -1,24 +1,33 @@
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology===
-Ultimately from Latin ''[[crux]]''
+From {{proto|Slavic|krьstъ|lang=sh}}, from {{etyl|goh|sh}} {{term|Krist||Christ|lang=goh}}, from {{etyl|la|sh}} {{term|Christus|lang=la}}, from {{etyl|grc|sh}} {{term|Χριστός|tr=Khristós|lang=grc}}.
+
+===Pronunciation===
+* {{IPA|/kr̂st/|lang=sh}}
 
 ===Noun===
-{{sr-noun|g=m|pl=крсти|rom=krst}}
+{{sh-noun|g=m|head=кр̏ст|c|krst|kȑst}}
 
-# a [[cross]]
+# [[cross]]
 
 ====Declension====
-{{sr-decl-noun|sc=Cyrl
-|крст|крсти
-|крста|крста
-|крсту|крстима
-|крст|крсте
-|крсте|крсти
-|крстом|крстима
-|крсту|крстима
+{{sh-decl-noun|sc=Cyrl
+|кр̏ст|кр̀стови
+|крста|крстова
+|крсту|крстовима
+|крста|крстове
+|крсте|крстови
+|крсту|крстовима
+|крстом|крстовима
 }}
 
-[[Category:sr:Christianity]]
+====Usage notes====
+This word, in religious context, is used mainly by Orthodox Christians, and consequently generally more common among Serbs than Croats. Catholics (and Croats generally) tend to prefer the term {{term|sc=Cyrl|криж|кри̑ж|lang=sh}}.
+
+====Synonyms====
+* {{sense|cross}} {{l|sh|sc=Cyrl|криж|кри̑ж}}
+
+[[Category:sh:Christianity]]
 
 [[cs:крст]]
