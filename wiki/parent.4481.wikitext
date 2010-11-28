@@ -61,17 +61,18 @@
 * Czech: {{t+|cs|rodič|m}}
 * Danish: {{t+|da|forælder}}
 * Dutch: {{t+|nl|ouder|m}}
-* Esperanto: {{t|eo|generinto|xs=Esperanto}}
+* Esperanto: {{qualifier|male or female}} {{t|eo|generinto|xs=Esperanto}}, {{qualifier|male}} {{t|eo|virgenerinto|xs=Esperanto}}, {{qualifier|female}} {{t|eo|generintino|xs=Esperanto}}
 * Finnish: {{t+|fi|vanhempi}}
-* French: {{t+|fr|parent}}
+* French: {{qualifier|male or female}} {{t+|fr|parent|m}}, {{t|fr|géniteur|m}}, {{t|fr|génitrice|f}}
+* German: {{qualifier|male or female}} {{t|de|Elternteil|m|n}}, {{qualifier|technical, male or female}} {{t|de|Elter|m|n}}
 * Greek: {{t+|el|γονέας|m|tr=gonéas}},  {{t+|el|γεννήτορας|m|tr=genítoras}}
-* [[Ido]]: {{t+|io|genitoro|xs=Ido}}
+* [[Ido]]: {{qualifier|male or female}} {{t+|io|genitoro}}, {{qualifier|male}} {{t|io|genitorulo}}, {{qualifier|female}} {{t|io|genitorino}}
 * Irish: {{t-|ga|tuismitheoir|m|xs=Irish}}
-* Italian: {{t-|it|genitore}}
+* Italian: {{t|it|genitore|m}}, {{t|it|genitrice|f}}
 * Japanese: {{t+|ja|親|tr=[[おや]], oya}}
+{{trans-mid}}
 * Latin: {{t-|la|parens|m|f|alt=parēns}}
 * Latvian: {{t|lv|vecāks|xs=Latvian}}
-{{trans-mid}}
 * [[Luhya]]: {{tø|luy|omsasi}}
 * Polish: {{t+|pl|rodzic|m}}
 * Portuguese: {{t+|pt|pai}}
@@ -84,7 +85,7 @@
 * Swedish: {{t+|sv|förälder}}
 * [[Tswana]]: {{t-|tn|motsadi|xs=Tswana}} (1/2)
 * Turkish: {{t+|tr|ebeveyn}}
-* [[Volapük]]: {{t|vo|pal}}, {{qualifier|male}} {{t|vo|hipal}}
+* [[Volapük]]: {{qualifier|male or female}} {{t|vo|pal}}, {{qualifier|male}} {{t|vo|hipal}}, {{qualifier|female}} {{t|vo|jipal}}
 {{trans-bottom}}
 
 {{trans-top|person who acts as a parent in rearing a child}}
