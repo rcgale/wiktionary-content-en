@@ -7,7 +7,7 @@
 *: {{rhymes|eɪ}}
 
 ===Etymology 1===
-From {{etyl|frm}} ''[[ester]]''.
+From {{etyl|frm}} {{term|ester|lang=frm}}.
 
 ====Verb====
 {{en-verb}}
@@ -42,7 +42,6 @@ From {{etyl|frm}} ''[[ester]]''.
 * Armenian: {{t-|hy|մնալ|tr=mnal}}
 * Chinese: ;
 *: Mandarin: {{t-|cmn|呆|tr=dāi|sc=Hani}}, {{t-|cmn|留|tr=liú|sc=Hani}}
-* Croatian: {{t-|hr|ostati}}
 * Czech: {{t+|cs|zůstat}},  {{t|cs|pobýt}}
 * Dutch: {{t+|nl|blijven}}, {{t+|nl|verblijven}}
 * Estonian: {{t|et|jääma}}, {{t|et|viibima}}
@@ -50,8 +49,9 @@ From {{etyl|frm}} ''[[ester]]''.
 * French: {{t+|fr|rester}}
 * [[Galician]]: {{t-|gl|quedar|xs=Galician}}
 * German: [[sich aufhalten]], [[bleiben]]
-{{trans-mid}}
 * Hungarian: {{t+|hu|marad}},  {{t+|hu|tartózkodik}}
+* Icelandic: {{t-|is|dvelja}}, {{t+|is|vera}}
+{{trans-mid}}
 * Irish: {{t-|ga|fan|xs=Irish}}
 * Italian: {{t+|it|restare}}, {{t+|it|rimanere}}
 * Japanese: {{t|ja|留まる|tr=とまる, tomaru}},  {{t-|ja|とまる|tr=tomaru}}, {{t-|ja|とどまる|tr=todomaru}}, {{t|ja|残る|tr=nokoru}}
@@ -60,6 +60,9 @@ From {{etyl|frm}} ''[[ester]]''.
 * Portuguese: {{t+|pt|ficar}}, {{t+|pt|permanecer}}
 * Romanian: [[sta#Romanian|sta]], [[rămâne]], [[zăbovi]]
 * Russian: {{t+|ru|оставаться|tr=ostavát'sja}} {{impf}}, {{t+|ru|остаться|tr=ostát'sja}} {{pf.}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|остати|alt=о̀стати|sc=Cyrl}}
+*: Roman: {{t-|sh|ostati|alt=òstati}}
 * Spanish: [[quedarse]], [[hospedarse]], [[pasar la noche]], [[permanecer]]
 * Swedish: {{t+|sv|stanna}}; {{t+|sv|vistas}}
 {{trans-bottom}}
@@ -75,6 +78,7 @@ From {{etyl|frm}} ''[[ester]]''.
 * French: {{t+|fr|rester}}
 * [[Galician]]: [[ficar, permanecer]]
 * German: [[sich aufhalten]], [[bleiben]]
+* Icelandic: {{t-|is|halda|haldast}}
 {{trans-mid}}
 * Italian: {{t+|it|restare}}
 * Japanese: {{t-|ja|とどまる|tr=todomaru}}
@@ -111,19 +115,50 @@ From {{etyl|frm}} ''[[ester]]''.
 {{trans-bottom}}
 
 ===Etymology 2===
-{{etyl|ang}} ''[[stæg]]''.
+From the verb {{term|stay#Verb|stay}}.
 
 ====Noun====
 {{en-noun}}
 
 # A [[postponement]], especially of an [[execution]] or other [[punishment]].
 #: ''The governor granted a '''stay''' of execution.''
-# A [[rope]] or [[wire]] supporting or stabilizing a platform, such as a bridge, a pole, such as a [[tentpole]] or a [[mast]], or other structural element.
-#: ''The engineer insisted on using '''stays''' for the scaffolding.''
-# A piece of stiff material, such as [[plastic]] or [[whalebone]], used to stiffen a piece of clothing.
-#: ''Where are the '''stays''' for my collar?''
 # A period of time spent in a place.
 #: ''I hope you enjoyed your '''stay''' in Hawaii.''
+# A piece of stiff material, such as [[plastic]] or [[whalebone]], used to stiffen a piece of clothing.
+#: ''Where are the '''stays''' for my collar?''
+
+====Translations====
+{{trans-top|postponement}}
+* Czech: {{t|cs|odložení|n}},  {{t-|cs|odklad|m}},  {{t|cs|odročení|n}}
+* Dutch: {{t-|nl|uitstel|n}}
+* Estonian: {{t|et|viivitus}}
+{{trans-mid}}
+* Finnish: {{t-|fi|lykkäys}}
+* Russian: {{t+|ru|отсрочка|tr=otsróčka}}
+{{trans-bottom}}
+
+{{trans-top|holiday or temporary residence}}
+* Czech: {{t-|cs|pobyt|m}}
+* Dutch: {{t+|nl|verblijf|n}}
+* Esperanto: {{t-|eo|restado|xs=Esperanto}}
+* Finnish: [[oleskelu]]
+* French: {{t+|fr|séjour|m}}
+{{trans-mid}}
+* Italian: {{t-|it|permanenza|f}}
+* Polish: {{t-|pl|pobyt|m}}
+* Portuguese: [[estada]] {{f}}, [[estadia]] {{f}}
+* Russian: {{t|ru|пребывание|n}}
+* Spanish: {{t-|es|estadía|f}}
+{{trans-bottom}}
+
+===Etymology 3===
+From {{etyl|ang}} {{term|stæg|lang=ang}}, from {{proto|Germanic|staga-}}.
+
+====Noun====
+{{en-noun}}
+
+# A [[rope]] or [[wire]] supporting or stabilizing a platform, such as a bridge, a pole, such as a [[tentpole]] or a [[mast]], or other structural element.
+#: ''The engineer insisted on using '''stays''' for the scaffolding.''
 
 =====Derived terms=====
 * [[backstay]]
@@ -141,33 +176,10 @@ From {{etyl|frm}} ''[[ester]]''.
 * [[triatic stay]]
 
 =====Translations=====
-{{trans-top|postponement}}
-* Czech: {{t|cs|odložení|n}},  {{t-|cs|odklad|m}},  {{t|cs|odročení|n}}
-* Dutch: {{t-|nl|uitstel|n}}
-* Estonian: {{t|et|viivitus}}
-{{trans-mid}}
-* Finnish: {{t-|fi|lykkäys}}
-* Russian: {{t+|ru|отсрочка|tr=otsróčka}}
-{{trans-bottom}}
-
 {{trans-top|nautical}}
 * Finnish: [[harus]], [[staagi]] (yachtsmen's slang)
 {{trans-mid}}
 * Swedish: {{t-|sv|stag|n}}
-{{trans-bottom}}
-
-{{trans-top|holiday or temporary residence}}
-* Czech: {{t-|cs|pobyt|m}}
-* Dutch: {{t+|nl|verblijf|n}}
-* Esperanto: {{t-|eo|restado|xs=Esperanto}}
-* Finnish: [[oleskelu]]
-* French: {{t+|fr|séjour|m}}
-{{trans-mid}}
-* Italian: {{t-|it|permanenza|f}}
-* Polish: {{t-|pl|pobyt|m}}
-* Portuguese: [[estada]] {{f}}, [[estadia]] {{f}}
-* Russian: {{t|ru|пребывание|n}}
-* Spanish: {{t-|es|estadía|f}}
 {{trans-bottom}}
 
 ===Statistics===
