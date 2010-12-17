@@ -57,7 +57,7 @@
 * Bengali: {{t+|bn|অভিধান|tr=ôbhidhan|sc=Beng|xs=Bengali}}, {{t-|bn|ডিকশনারী|tr=ḍikshônari|sc=Beng|xs=Bengali}}, {{t-|bn|ডিকশনারি|tr=ḍikshônari|sc=Beng|xs=Bengali}}
 * [[Binisayâ]]: [[pagpurulungan]]
 * Bosnian: {{t-|bs|rječnik|m}}
-* [[Breton]]: {{t+|br|geriadur|xs=Breton}}
+* [[Breton]]: {{t+|br|geriadur|m|xs=Breton}}
 * Bulgarian: {{t+|bg|речник|m|tr=rečnik}}
 * Burmese: {{t-|my|အဘိဓာန်|tr=ăbeitdan|sc=Mymr|xs=Burmese}}
 * [[Catalan]]: {{t+|ca|diccionari|m}}
@@ -65,6 +65,7 @@
 *: Mandarin: {{t-|cmn|字典|tr=zìdiǎn|sc=Hani}} {{qualifier|character dictionary}}; {{t-|cmn|詞典|sc=Hani}}, {{t-|cmn|词典|tr=cídiǎn|sc=Hani}}
 *: Wu (Suzhou dialect): [[zïtip]]
 * [[Chuvash]]: {{tø|cv|словарь|sc=Cyrl}},  {{tø|cv|сăмахсен кĕнеки|tr=sămaxsan kĕneki|sc=Cyrl}}
+* [[Cornish]]: {{t|kw|gerlyver|m}}
 * [[Crimean Tatar]]: {{tø|crh|luğat}}
 * Croatian: {{t+|hr|rječnik|m|alt=rjȇčnīk}}
 * Czech: {{t+|cs|slovník|m}}
@@ -98,7 +99,7 @@
 * [[Inuktitut]]: {{t-|iu|ᕿᒥᕐᕈᐊᑦ ᐅᓐᓂᖅᑐᖅ ᒥᑦᓯ ᑐᑭᐊ|tr=qimirruat unniqtuq mitsi tukia|sc=Cans|xs=Inuktitut}}
 * Irish: {{t+|ga|foclóir|m|xs=Irish}}
 * Italian: {{t+|it|dizionario|m}}
-* Japanese: {{t+|ja|辞書|tr=じしょ, jísho}}, {{t-|ja|字書|tr=じしょ, jísho}}, {{t+|ja|辞典|tr=じてん, jitén}}, {{t-|ja|字典|tr=じてん, jitén}}
+* Japanese: {{t+|ja|辞書|tr=[[じしょ]], jisho}}, {{t-|ja|字書|tr=[[じしょ]], jisho}}, {{t+|ja|辞典|tr=[[じてん]], jiten}}, {{t-|ja|字典|tr=[[じてん]], jiten}}
 * [[Javanese]]: {{t+|jv|bausastra|xs=Javanese}}
 * [[Kannada]]: [[ನಿಘಂಟು]] {{unicode|(nighangṭu)}}, [[ಅರ್ಥಕೋಶ]] (arthakōsh)
 * [[Kapampangan]]: [[talabaldugan]]
@@ -124,6 +125,7 @@
 * [[Malayalam]]: [[നിഘണ്ടു]] (nighaṇṭu)
 * Maltese: [[dizzjunarju]] (dittsyunaryu)
 * [[Manchu]]: (buleku bithe)
+* [[Manx]]: {{t|gv|fockleyr|m}}
 * Maori: [[pukapuka taki kupu]]
 * [[Marathi]]: [[शब्दकोष]], [[विश्वकोष]]
 * [[Meru]]: {{tø|mer|kamusi}}
@@ -133,8 +135,9 @@
 * [[Neapolitan]]: {{tø|nap|dezziunario}}
 * Nepali: [[शब्दकोश]] (shabdkosh)
 * [[Northern Sami]]: [[sátnegirji]]
-* Norwegian: {{t+|no|ordbok|m|f}}
-*: [[Nynorsk]]: {{t-|nn|ordbok|xs=Norwegian Nynorsk}}
+* Norwegian:
+*: Bokmål: {{t+|no|ordbok|m|f}}
+*: Nynorsk: {{t-|nn|ordbok|f|xs=Norwegian Nynorsk}}
 * [[Novial]]: [[lexike]]
 * [[Occitan]]: {{t+|oc|diccionari|xs=Occitan}}
 * [[Ossetian]]:
@@ -152,7 +155,7 @@
 * Sanskrit: {{t-|sa|शब्दकोश|m|tr=śábda-kośa|xs=Sanskrit}}, {{t-|sa|निघण्टु|m|tr=nighaṇṭu|xs=Sanskrit}}, {{t-|sa|अभिधान|n|tr=abhi-dhāna|xs=Sanskrit}}
 * [[Sardinian]]: [[dizionariu]] {{m}}
 * [[Scots]]: {{tø|sco|dictionar}}
-* [[Scottish Gaelic]]: [[faclair]] {{m}}
+* [[Scottish Gaelic]]: {{t|gd|faclair|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|речник|m|sc=Cyrl}}
 *: Roman: {{t-|sh|rečnik|m}}
@@ -183,7 +186,7 @@
 * [[Volapük]]: {{t+|vo|vödabuk}}, {{t-|vo|vödabuks|p}}, {{qualifier|obsolete}} {{t-|vo|vödasbuk}}
 * [[Võro]]: {{tø|vro|sõnaraamat}}
 * [[Walloon]]: {{t-|wa|motî|xs=Walloon}}
-* Welsh: {{t+|cy|geiriadur|xs=Welsh}}
+* Welsh: {{t+|cy|geiriadur|m|xs=Welsh}}
 * [[West Frisian]]: {{t+|fy|wurdboek|n|xs=West Frisian}}
 * [[Xhosa]]: [[idikshinari]] ''noun 5''
 * Yiddish: {{t+|yi|ווערטערבוך|tr=verterbukh, werterbuch|xs=Yiddish|n|m}}, {{t-|yi|ווערטעביכער|p|tr=verterbikher, werterbicher|xs=Yiddish}}
