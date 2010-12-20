@@ -102,17 +102,19 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 |}
 {| class="prettytable"
 |-
-!
-! Present indicative
-! Past indicative
-! Future indicative
-! Present subjunctive
-! Past subjunctive
-! Future subjunctive
-! Conditional subjunctive
+!rowspan=2 colspan=2|
+!colspan=3| Present indicative
+!rowspan=2| Past indicative
+!rowspan=2| Future indicative
+!rowspan=2| Present subjunctive
+!rowspan=2| Past subjunctive
+!rowspan=2| Future subjunctive
+!rowspan=2| Conditional subjunctive
 |-
-! First-person singular
-| [[am]]
+! Standard !! Pirate !! Jamaica
+|-
+! First-person singular !! ''I''
+| [[am]] || be || is
 | [[was]]
 | [[shall]] / [[will]] be
 | be
@@ -120,18 +122,27 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 | [[were]] to be
 | [[would]] be
 |-
-! Second-person singular
+!rowspan=2| Second-person singular !! ''you''
 <!--note that "art", "wast" and "wert" are archaic, not obsolete, as they are still found in texts such as the Bible and are still well known-->
-| you [[are]],<br />thou [[art]] (''archaic'')
-| you [[were]],<br />thou [[wast]] (''archaic'')
-| you [[will]] be,<br />thou [[wilt]] be (''archaic'')
-| you be,<br />thou [[beest]] (''obsolete'')
-| you [[were]],<br />thou [[wert]] (''archaic'')
-| you [[were]] to be,<br />thou [[wert]] to be (''archaic'')
-| you [[would]] be,<br />thou [[wouldst]] be (''archaic'')
+| [[are]] ||rowspan=2| be ||rowspan=2| is
+| [[were]] 
+| [[will]] 
+| be 
+| [[were]] 
+| [[were]] 
+| [[would]] 
 |-
-! Third-person singular
-| [[is]]
+! ''thou'' (archaic)
+| [[art]] 
+| [[wast]] 
+| [[wilt]] 
+| [[beest]] <!--obsolete-->
+| [[wert]] 
+| [[wert]] 
+| [[wouldst]] 
+|-
+! Third-person singular !! ''he, she, it''
+| [[is]] || be || is
 | [[was]]
 | [[will]] be
 | be
@@ -139,8 +150,8 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 | [[were]] to be
 | [[would]] be
 |-
-! First-person plural
-| [[are]]
+! First-person plural !! ''we''
+| [[are]] || be || is
 | [[were]]
 | [[shall]] / [[will]] be
 | be
@@ -148,8 +159,8 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 | [[were]] to be
 | [[would]] be
 |-
-! Second-person plural
-| [[are]]
+! Second-person plural !! ''you''
+| [[are]] || be || is
 | [[were]]
 | [[will]] be
 | be
@@ -157,8 +168,8 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 | [[were]] to be
 | [[would]] be
 |-
-! Third-person plural
-| [[are]]
+! Third-person plural !! ''they''
+| [[are]] || be || is
 | [[were]]
 | [[will]] be
 | be
