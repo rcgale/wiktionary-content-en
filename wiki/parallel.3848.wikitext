@@ -11,11 +11,12 @@ From {{etyl|grc}} {{term|παράλληλος|lang=grc}} < [[παρά]] + [[ἄ�
 ===Adjective===
 {{en-adj|-}}
 
-# Of two or more (straight) lines, (flat) surfaces etc: [[equally|Equally]] [[distant]] from one another at all points.
+# [[equally|Equally]] [[distant]] from one another at all points.
 #: ''The horizontal lines on my notebook paper are parallel.''
-# {{computing}} Describing the [[processing]] of [[multiple]] [[tasks]] at the same time
-# '''parallel to''': Of one thing, relative to another: Equally distant from at all points.
+# Having the same overall [[direction]]; the comparison is indicated with "to".
 #: ''The railway line runs '''parallel''' to the road.''
+#: ''The two railway lines are parallel.''
+# {{computing}} Describing the [[processing]] of [[multiple]] [[tasks]] at the same time
 
 ====Antonyms====
 * [[perpendicular]]
@@ -33,7 +34,7 @@ From {{etyl|grc}} {{term|παράλληλος|lang=grc}} < [[παρά]] + [[ἄ�
 * [[sequential]]
 
 ====Translations====
-{{trans-top|of two or more (straight) lines, (flat) surfaces etc: equally distant from one another at all points}}
+{{trans-top|equally distant from one another at all points}}
 * Arabic: {{t|ar|موازي|tr=muwaaziy}}
 * Armenian: {{t-|hy|զուգահեռ|tr=zugaheṙ}}
 * Chinese:
@@ -42,7 +43,7 @@ From {{etyl|grc}} {{term|παράλληλος|lang=grc}} < [[παρά]] + [[ἄ�
 * Dutch: {{t+|nl|evenwijdig}}, {{t+|nl|parallel}}
 * Esperanto: {{t-|eo|paralela|xs=Esperanto}}
 * Estonian: {{t|et|rööpne}}
-* Finnish: {{t-|fi|rinnakkainen}}
+* Finnish: {{t|fi|yhdensuuntainen}}, {{t|fi|samansuuntainen}}
 * French: {{t+|fr|parallèle}}
 * German: {{t+|de|parallel}}
 * Greek: {{t+|el|παράλληλος|m|tr=parálilos}}
@@ -60,11 +61,11 @@ From {{etyl|grc}} {{term|παράλληλος|lang=grc}} < [[παρά]] + [[ἄ�
 * Swedish: {{t+|sv|parallell}}
 {{trans-bottom}}
 
-{{trans-top|of one thing, relative to another: Equally distant from at all points}}
+{{trans-top|having the same overall direction}}
 * Armenian: {{t-|hy|զուգահեռ|tr=zugaheṙ}}
 * Dutch: [[evenwijdig]] [[met]]/[[aan]], [[parallel]] [[met]]
 * Estonian: {{t|et|rööpne}}
-* Finnish: {{t-|fi|rinnakkainen}}, {{t-|fi|yhdensuuntainen}}
+* Finnish: {{t|fi|samansuuntainen}}, {{t-|fi|rinnakkainen}} (''jonkin [[kanssa]]'')
 * French: parallèle à
 {{trans-mid}}
 * German: [[parallel]] [[zu]]
@@ -72,6 +73,11 @@ From {{etyl|grc}} {{term|παράλληλος|lang=grc}} < [[παρά]] + [[ἄ�
 * Hebrew: {{t-|he|מקביל|tr=makbíl}} {{m|s}}
 * Russian: {{t+|ru|параллельный|tr=parallél’nyj}}
 * Swedish: {{t+|sv|parallell}}
+{{trans-bottom}}
+
+{{trans-top|computing: processing multipe tasks at the same time}}
+* Finnish: {{t|fi|rinnakkainen}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
