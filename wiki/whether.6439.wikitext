@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-{{etyl|ang}} ''[[hwæþer]]''
+{{etyl|ang}} {{term|hwæþer}}, from {{proto|Germanic|hwaþaraz}}, comparative form of {{proto|Germanic|hwa-, *hwe-|who|title=}}. Cognate with German {{term|weder||neither}}, Swedish {{term|hvar}}, Icelandic {{term|hvorr||each}}.
 
 ===Pronunciation===
 * {{enPR|wĕ'''th''ə(r)}}, {{IPA|/ˈwɛðə(r)/}}, {{SAMPA|/"wED@(r)/}}
@@ -12,23 +12,33 @@
 * {{homophones|weather}} (''in accents with the [[wine-whine merger]]'')
 * {{homophones|wether}} (''in accents with the wine-whine merger'')
 
+===Pronoun===
+{{en-pronoun}}
+
+# {{obsolete}} [[which|Which]] of two. {{defdate|11th-19th c.}}
+#*'''1526''', William Tyndale, trans. ''Bible'', Matthew XXVII:
+#*:The debite answered and sayde unto them: '''whether''' of the twayne will ye that I lett loosse unto you?
+
 ===Conjunction===
 {{en-con}}
 
-# ''Used to introduce an interrogative content clause (indirect question) that consists of multiple alternative possibilities, and indicate uncertainty between them''; [[if]].
+# {{obsolete}} Introducing a direct [[interrogative]] question (often with correlative {{term|or}}) which indicated doubt between [[alternative]]s.
+#*'''1616''', William Shakespeare, ''King John'', I.i:
+#*:'''Whether''' hadst thou rather be a Faulconbridge, [...] Or the reputed sonne of Cordelion?
+# Used to introduce an indirect interrogative question that consists of multiple alternative possibilities (usually with correlative {{term|or}}).
 #: ''He chose the correct answer, but '''whether''' by luck or by skill I don't know.''
-# ''Used to introduce a yes-or-no interrogative content clause (indirect question) that consists of a single possibility, and indicate uncertainty over it''; [[if]], whether or not.
-#: ''Do you know '''whether''' he's coming?''
-# ''Used to introduce multiple alternative possibilities, and indicate the irrelevance of which is the case''; [[regardless]] of whether, [[no matter]] whether.
+# Without a correlative, used to introduce a simple indirect question; [[if]], whether or not.
+#:''Do you know '''whether''' he's coming?''
+# Used to introduce a disjunctive [[adverbial]] clause which qualifies with main clause of the sentence (with correlative {{term|or}}).
 #: ''He's coming, '''whether''' you like it or not.''
 
 ====Usage notes====
-* There is some overlap in usage between the first two senses, in that a yes-or-no interrogative content clause can list the two possibilities explicitly in a number of ways: <dl><dd>''Do you know whether he's coming or staying?''</dd><dd>''Do you know whether he's coming or not?''</dd><dd>''Do you know whether or not he's coming?''</dd></dl> Further, in the first two of these examples, the "or staying" and "or not" may be added as an afterthought (sometimes indicated in writing with a comma before), such that the ''whether'' may be uttered in sense 2 and then corrected to sense 1.
-* Unlike sense 1, sense 3 does not have a counterpart that introduces only a single possibility; *"He's coming, whether you like it" is ungrammatical.
-* In traditional grammar, the clauses headed by ''whether'' in senses 1 and 2 are classified as noun clauses, and those headed by ''whether'' in sense 3 are classified as adverb clauses.
+* There is some overlap in usage between senses 2 and 3, in that a yes-or-no interrogative content clause can list the two possibilities explicitly in a number of ways: <dl><dd>''Do you know whether he's coming or staying?''</dd><dd>''Do you know whether he's coming or not?''</dd><dd>''Do you know whether or not he's coming?''</dd></dl> Further, in the first two of these examples, the "or staying" and "or not" may be added as an afterthought (sometimes indicated in writing with a comma before), such that the ''whether'' may be uttered in sense 3 and then amended to sense 2.
+* Sense 4 does not have a counterpart that introduces only a single possibility; *"He's coming, whether you like it" is ungrammatical.
+* In traditional grammar, the clauses headed by ''whether'' in senses 2 and 3 are classified as noun clauses, and those headed by ''whether'' in sense 4 are classified as adverb clauses.
 
 ====Translations====
-{{trans-top|if (in indirect questions)}}
+{{trans-top|introducing indirect questions)}}
 * Arabic: {{t|ar|إذا|tr='ídhaa}}, {{t|ar|سواء|tr=sawaa'}}
 * Chinese:
 *: Mandarin: (usually not used), {{t|cmn|是否|tr=shì-fǒu|sc=Hani}}
@@ -53,7 +63,24 @@
 * Swedish: {{t+|sv|om}}, {{t|sv|ifall}}, {{t+|sv|huruvida}}
 {{trans-bottom}}
 
-{{trans-top|if, either}}
+{{trans-top|if, whether or not}}
+* Chinese:
+*: Mandarin: {{t|cmn|是否|tr=shì-fǒu|sc=Hani}}
+* Czech: {{t+|cs|ať}}
+* Danish: {{t+|da|om}}
+* Dutch: [[of .. of]]
+* German: {{t+|de|ob}}
+* Hungarian: {{t+|hu|akár}}
+{{trans-mid}}
+* Korean: [[-든지]] (-deun ji)
+* [[Macedonian]]: [[дали]]...[[или]] [[не]] (dáli...íli ne)
+* [[Norwegian Bokmål]]: {{tø|nb|enten}}
+* Romanian: [[în orice caz]]
+* Russian: {{t+|ru|ли|tr=li}},  {{t+|ru|или|tr=íli}}
+* [[Scottish Gaelic]]: {{t-|gd|co-dhiù|xs=Scottish Gaelic}}
+{{trans-bottom}}
+
+{{trans-top|introducing adverbial clause}}
 * Chinese:
 *: Mandarin: {{t-|cmn|還是|sc=Hani}}, {{t-|cmn|还是|tr=háishi|sc=Hani}}, ...{{t-|cmn|不|tr=...bù...|sc=Hani}} ''(whether or not)''
 * Czech: {{t+|cs|zda}}, {{t-|cs|zdali}}
@@ -73,24 +100,6 @@
 * Russian: [[или]] (íli), [[или ... или]] (íli ... íli)
 * [[Scottish Gaelic]]: (''uses question without any preceding conjuction'')
 * Swedish: {{t+|sv|om}}
-{{trans-bottom}}
-
-{{trans-top|whether or not}}
-<!--this should be moved to "whether or not" if it ever gets created.-->
-* Chinese:
-*: Mandarin: {{t|cmn|是否|tr=shì-fǒu|sc=Hani}}
-* Czech: {{t+|cs|ať}}
-* Danish: {{t+|da|om}}
-* Dutch: [[of .. of]]
-* German: {{t+|de|ob}}
-* Hungarian: {{t+|hu|akár}}
-{{trans-mid}}
-* Korean: [[-든지]] (-deun ji)
-* [[Macedonian]]: [[дали]]...[[или]] [[не]] (dáli...íli ne)
-* [[Norwegian Bokmål]]: {{tø|nb|enten}}
-* Romanian: [[în orice caz]]
-* Russian: {{t+|ru|ли|tr=li}},  {{t+|ru|или|tr=íli}}
-* [[Scottish Gaelic]]: {{t-|gd|co-dhiù|xs=Scottish Gaelic}}
 {{trans-bottom}}
 
 {{checktrans-top}}
