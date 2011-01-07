@@ -47,20 +47,20 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 {{trans-top|father, mother and their sons and daughters}}
 * [[American Sign Language]]: {{tø|ase|9@RadialHand-PalmForward-9@CenterChesthigh-PalmForward RoundHoriz-RoundHoriz 9@UlnarHand-PalmBack-9@CenterChesthigh-PalmBack|xs=American Sign Language}}
 * [[Amharic]]: {{t|am|ቤተሰብ|tr=betäsäb|sc=Ethi|xs=Amharic}}, {{t|am|ቤተሰቦች|tr=betäsäboc|sc=Ethi|xs=Amharic}}, {{t|am|ዘመድ አዝማድ|tr=zämäd azmad|sc=Ethi|xs=Amharic}}
-* Arabic: {{Arab|[[عائلة]]}} (ʻāʼila) {{f}}, {{Arab|[[أسرة]]}} (ʼúsra) {{f}}, {{t|ar|عائلة|f|tr=3aa'ila|sc=Arab}}, {{t|ar|أسرة|f|tr='úsra|sc=Arab}}
+* Arabic: {{t|ar|عائلة|f|tr=3aa'ila|sc=Arab}}, {{t|ar|أسرة|f|tr='úsra|sc=Arab}}
+*: [[Egyptian Arabic]]: {{tø|arz|عيلة|f|sc=Arab}}
 * Armenian: {{t-|hy|ընտանիք|tr=ëntanik'}}
 * [[Azeri]]: {{t|az|ailə|xs=Azeri}}
 * Belarusian: {{t|be|сям'я|f|tr=sjam’já|xs=Belarusian}}
 * Bengali: {{t+|bn|পরিবার|tr=pôribar|sc=Beng|xs=Bengali}}
 * [[Breton]]: {{t-|br|familh|f|xs=Breton}}, -où {{p}}, {{t|br|tiegezh|m|xs=Breton}}, -ioù {{p}}
 * Bulgarian: {{t+|bg|семейство|n|tr=semejstvo}}
-* Chinese: [[家庭]] (jiātíng), [[家]] (jiā)
+* Chinese:
 *: Mandarin: {{t|zh|家庭|tr=jiātíng|sc=Hani}}, {{t|zh|家|tr=jiā|sc=Hani}}
 * Croatian: {{t+|hr|obitelj|f|alt=obítelj}}
 * Czech: {{t+|cs|rodina|f}}
 * Danish: {{t-|da|familie|c}}
 * Dutch: {{t+|nl|familie|f}}, {{t+|nl|gezin|n}}
-* [[Egyptian Arabic]]: {{tø|arz|عيلة|f|sc=Arab}}
 * Esperanto: {{t+|eo|familio|xs=Esperanto}}
 * [[Ewe]]: {{tø|ee|ƒome|xs=Ewe}}
 * Finnish: {{t+|fi|perhe}}
@@ -68,7 +68,7 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * German: {{t+|de|Familie|f}}
 * Greek: {{t+|el|οικογένεια|f|tr=oikogéneia}}
 * Hebrew: {{t+|he|משפחה|f|tr=mishpakhá}}
-* Hindi: {{t-|hi|परिवार|tr=parivār|xs=Hindi}}, {{t-|hi|ख़ानदान|m|tr=<u>kh</u>āndān|xs=Hindi}}
+* Hindi: {{t-|hi|परिवार|m|tr=parivār|xs=Hindi}}, {{t-|hi|ख़ानदान|m|tr=xāndān|xs=Hindi}}
 * Hungarian: {{t+|hu|család}}
 * Icelandic: {{t+|is|fjölskylda|f}}
 * [[Ido]]: {{t+|io|familio|xs=Ido}}
@@ -76,8 +76,8 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Irish: {{t+|ga|clann|f|xs=Irish}}
 * Italian: {{t+|it|famiglia|f}}
 * Japanese: {{t+|ja|家族|tr=[[かぞく]], kazoku}}
-* [[Khmer]]: {{Khmr|[[គ្រួសារ]]}} (krūəsā), {{t|km|គ្រួសារ|tr=krūəsā|sc=Khmr}}
-* Korean: {{t|ko|가족|tr=kajok|sc=Kore}}, {{t|ko|家族|sc=Kore}}
+* [[Khmer]]: {{t|km|គ្រួសារ|tr=krūəsā|sc=Khmr}}
+* Korean: {{t|ko|가족|tr=kajok|sc=Kore}} ({{t|ko|家族|sc=Kore}})
 * [[Lao]]: {{t+|lo|ຄອບຄົວ|tr=khööp-khua|sc=Laoo|xs=Lao}}
 {{trans-mid}}
 * Latin: {{t|la|familia|f}}
@@ -108,23 +108,24 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Swedish: {{t+|sv|familj}}, {{t+|sv|hushåll}}
 * [[Taos]]: [[ȕ’únemą]]
 * [[Telugu]]: {{t|te|కుటుంబం|tr=kutumbam|sc=Telu}}
-* Thai: [[ครอบครัว]] (khrâwbkhrua), {{t|th|ครอบครัว|tr=khrâwbkhrua|sc=Thai}}
+* Thai: {{t|th|ครอบครัว|tr=khrâwbkhrua|sc=Thai}}
 * Turkish: {{t+|tr|aile}}
 * Ukrainian: {{t|uk|сім'я|f|tr=sim’já|sc=Cyrl}}
-* Urdu: {{t-|ur|خاندان|m|tr=<u>kh</u>āndān|xs=Urdu}}, {{t|ur|پروار|m|tr=parivār|sc=ur-Arab}}
+* Urdu: {{t-|ur|خاندان|m|tr=xāndān|xs=Urdu}}, {{t|ur|پروار|m|tr=parivār|sc=ur-Arab}}
 * [[Uyghur]]: {{t-|ug|ئائىلە|tr=aile|sc=ug-Arab|xs=Uyghur}}
-* Vietnamese: {{t+|vi|gia đinh|xs=Vietnamese}}, {{t|vi|家庭}}
+* Vietnamese: {{t+|vi|gia đinh|xs=Vietnamese}} ({{t|vi|家庭}})
 * [[Volapük]]: {{t|vo|famül}}
 * [[Yucatec Maya]]: {{tø|yua|ch’i’ibalil}}
 {{trans-bottom}}
 
 {{trans-top|group of people related by blood, marriage, law, or custom}}
-* Arabic: {{Arab|[[عائلة]]}} (ʻāʼila) {{f}}, {{Arab|[[أسرة]]}} (ʼúsra) {{f}}, {{Arab|[[أقارب]]}} (ʼaqārib) {{p}}
+* Arabic: {{t|ar|عائلة|f|tr=3aa'ila|sc=Arab}}, {{t|ar|أسرة|f|tr='úsra|sc=Arab}}{{Arab|[[أقارب]]}} (ʼaqārib) {{p}}
 * Armenian: {{t-|hy|ընտանիք|tr=ëntanik'}}
 * Belarusian: {{t|be|сям'я|f|tr=sjam’já|xs=Belarusian}}
 * [[Breton]]: {{t-|br|familh|f|xs=Breton}}, -où {{p}}, {{t|br|kerentiezh|f|xs=Breton}}, -ioù {{p}}
 * Bulgarian: {{t+|bg|рода|f|tr=roda}}
-* Chinese: [[家族]] (jiāzú)
+* Chinese:
+*: Mandarin: {{t|zh|家族|tr=jiāzú|sc=Hani}}
 * Croatian: {{t+|hr|obitelj|f|alt=obítelj}}
 * Danish: {{t-|da|familie|c}}
 * Dutch: {{t+|nl|familie|f}}
@@ -135,7 +136,7 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * German: {{t+|de|Familie|f}}
 * Greek: {{t+|el|οικογένεια|f|tr=oikogéneia}}
 * Hebrew: {{t+|he|משפחה|f|tr=mishpakhá}}
-* Hindi: [[परिवार]] (parivār), [[ख़ानदान]] (<u>kh</u>āndān) {{m}}
+* Hindi: {{t-|hi|परिवार|m|tr=parivār|xs=Hindi}}, {{t-|hi|ख़ानदान|m|tr=xāndān|xs=Hindi}}
 * Hungarian: {{t+|hu|család}}
 * Icelandic: {{t+|is|fjölskylda|f}}, {{t-|is|afkvæmi|n}}, {{t+|is|ættingi|n}}, {{t|is|ættingjar|n|p}}, {{t|is|skyldmenni|n|p}}
 * Irish: {{t+|ga|clann|f|xs=Irish}}
@@ -159,7 +160,7 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Swedish: {{t|sv|börd}}
 * [[Telugu]]: {{t|te|వంశ పరంపర|tr=vamsa parampara|sc=Telu}}
 * Turkish: {{t+|tr|aile}}
-* Urdu: {{ur-Arab|[[خاندان]]}} (<u>kh</u>āndān) {{m}}
+* Urdu: {{t-|ur|خاندان|m|tr=xāndān|xs=Urdu}}, {{t|ur|پروار|m|tr=parivār|sc=ur-Arab}}
 {{trans-bottom}}
 
 {{trans-top|kin, tribe}}
