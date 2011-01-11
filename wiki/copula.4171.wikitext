@@ -11,7 +11,7 @@ From {{etyl|la}} {{term|lang=la|copula||bond, tie}}, contraction of *{{term||co-
 # {{statistics}} A [[function]] that represents the [[association]] between two or more [[variable]]s, [[independent]] of the [[individual]] [[marginal]] [[distribution]]s of the variables.<!--This is encyclopedic: Sklar’s theorem states this is always possible, and if the marginal distributions are continuous, then the copula is unique. Basically, the copula density plots the quantiles of the variable against each other, and the copula C(x1,x2,…)=Integral from (0,0,0…) to (X1=x1,X2=x2,…) of the copula density. The copula is always a number between zero and one. If the marginals are Gaussian and you use a Gaussian copula, you get a correlation.-->
 #* {{quote-news|year=2009|date=March 10|author=Dennis Overbye|title=Mathematical Model and the Mortgage Mess|work=New York Times|url=http://www.nytimes.com/2009/03/10/science/10qside.html
 |passage=In 2000, David X. Li, a banker with a doctorate in statistics who was then at RiskMetrics, part of J. P. Morgan Chase , began using mathematical functions called Gaussian '''copulas''' to estimate the likelihood of corporations’ dying in unison.}}
-{{defn|en|music}}{{attention|en|topic=music}}
+# {{defn|lang=en}}{{attention|en|topic=music}}
 
 ====Synonyms====
 * {{sense|grammar}} [[linking verb]], [[copular]], [[copular verb]]
@@ -33,11 +33,11 @@ From {{etyl|la}} {{term|lang=la|copula||bond, tie}}, contraction of *{{term||co-
 
 ====Translations====
 {{trans-top|grammar: linking kind of word}}
-* Arabic: {{t|ar|رابطة|f|tr=raabiTa}},  {{t-|ar|رابط|m|tr=raabiT}}
+* Arabic: {{t|ar|رابطة|f|tr=raabiTa}}, {{t-|ar|رابط|m|tr=raabiT}}
 * Bosnian: {{t-|bs|kopula|f}}
 * [[Chechen]]: {{tø|ce|хоттам}}
 * Chinese:
-*: Mandarin: {{t|cmn|係詞|sc=Hani}},  {{t|cmn|系词|tr=xìcí|sc=Hani}},  {{t-|cmn|連詞|sc=Hani}},  {{t-|cmn|连词|tr=liáncí|sc=Hani}},  {{t|cmn|連繫動詞|sc=Hani}},  {{t|cmn|连系动词|tr=liánxì dòngcí|sc=Hani}}
+*: Mandarin: {{t|cmn|係詞|sc=Hani}}, {{t|cmn|系词|tr=xìcí|sc=Hani}}, {{t-|cmn|連詞|sc=Hani}}, {{t-|cmn|连词|tr=liáncí|sc=Hani}}, {{t|cmn|連繫動詞|sc=Hani}}, {{t|cmn|连系动词|tr=liánxì dòngcí|sc=Hani}}
 * Dutch: {{t+|nl|koppelwerkwoord|n}}
 * Esperanto: {{t|eo|ligverbo|xs=Esperanto}}
 * Finnish: {{t+|fi|kopula}}
@@ -46,8 +46,8 @@ From {{etyl|la}} {{term|lang=la|copula||bond, tie}}, contraction of *{{term||co-
 {{trans-mid}}
 * Icelandic: {{t-|is|tengisögn|f}}
 * Italian: {{t-|it|copula|f}}
-* Japanese: {{t-|ja|繋辞|tr=けいじ, keiji}},  {{t+|ja|コピュラ|tr=kopyura}},  {{t|ja|連辞|tr=れんじ, renji}},  {{t|ja|指定詞|tr=していし, shiteishi}},  {{t|ja|コプラ|tr=kopura}}
-* Russian: {{t+|ru|связка|f|tr=svjázka}},  {{t-|ru|копула|f|tr=kópula}},  {{t|ru|глагол-связка|tr=glagól-svjázka}}
+* Japanese: {{t-|ja|繋辞|tr=けいじ, keiji}}, {{t+|ja|コピュラ|tr=kopyura}}, {{t|ja|連辞|tr=れんじ, renji}}, {{t|ja|指定詞|tr=していし, shiteishi}}, {{t|ja|コプラ|tr=kopura}}
+* Russian: {{t+|ru|связка|f|tr=svjázka}}, {{t-|ru|копула|f|tr=kópula}}, {{t|ru|глагол-связка|tr=glagól-svjázka}}
 * Serbian:
 *: Cyrillic: {{t-|sr|копула|m|sc=Cyrl}}
 *: Latin: {{t-|sr|kopula|m}}
