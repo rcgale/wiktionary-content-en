@@ -17,7 +17,7 @@ From {{etyl|ML.}} {{term|duellum||fight between two men|lang=la}}, under influen
 
 ====Translations====
 {{trans-top|combat between two persons}}
-* Bulgarian: {{t|bg|дуел|m}}
+* Bulgarian: {{t|bg|дуел|m|sc=Cyrl}}
 * Danish: {{t+|da|duel|c}}, {{t|da|tvekamp|c}}
 * Dutch: {{t+|nl|duel|n}}, {{t|nl|tweegevecht|n}}
 * Esperanto: {{t|eo|duelo}}
@@ -25,7 +25,7 @@ From {{etyl|ML.}} {{term|duellum||fight between two men|lang=la}}, under influen
 * French: {{t+|fr|duel|m}}
 * German: {{t+|de|Duell|n}}, {{t+|de|Zweikampf|m}}
 {{trans-mid}}
-* Greek: {{t+|el|μονομαχία|f|tr=monomachía}}
+* Greek: {{t+|el|μονομαχία|f|tr=monomachía|sc=Grek}}
 * Hungarian: {{t-|hu|párbaj}}
 * Italian: {{t+|it|duello|m}}
 * Polish: {{t-|pl|pojedynek|m}}
@@ -35,7 +35,7 @@ From {{etyl|ML.}} {{term|duellum||fight between two men|lang=la}}, under influen
 {{trans-bottom}}
 
 {{trans-top|struggle between two parties}}
-* Bulgarian: {{t+|bg|двубой|m}}
+* Bulgarian: {{t+|bg|двубой|m|sc=Cyrl}}
 * Danish: {{t+|da|duel|c}}, {{t|da|tvekamp|c}}
 * Dutch: {{t+|nl|duel|n}}, {{t|nl|tweekamp}}
 * Esperanto: {{t|eo|duelo}}
@@ -43,7 +43,7 @@ From {{etyl|ML.}} {{term|duellum||fight between two men|lang=la}}, under influen
 * French: {{t+|fr|duel|m}}
 {{trans-mid}}
 * German: {{t+|de|Duell|n}}, {{t+|de|Zweikampf|m}}
-* Greek: {{t|el|διαμάχη|f|tr=diamáchi}}
+* Greek: {{t|el|διαμάχη|f|tr=diamáchi|sc=Grek}}
 * Hungarian: {{t-|hu|párbaj}}
 * Italian: {{t+|it|duello|m}}
 * Portuguese: {{t|pt|duelo|m}}
@@ -61,9 +61,7 @@ From {{etyl|ML.}} {{term|duellum||fight between two men|lang=la}}, under influen
 {{trans-bottom}}
 
 ===Verb===
-{{en-verb|duels|dueling|dueled}} ''US''
-
-{{en-verb|duels|duelling|duelled}} ''UK''
+{{en-verb|duels|'''[[dueling]]''' {{qualifier|US}}, '''[[duelling]]''' {{qualifier|UK}}|'''[[dueled]]''' {{qualifier|US}}, '''[[duelled]]''' {{qualifier|UK}}}}
 
 # To [[engage]] in a duel.
 
@@ -73,7 +71,7 @@ From {{etyl|ML.}} {{term|duellum||fight between two men|lang=la}}, under influen
 
 ====Translations====
 {{trans-top|engage in a duel}}
-* Bulgarian: {{t|bg|дуелирам се}}
+* Bulgarian: {{t|bg|дуелирам се|sc=Cyrl}}
 * Danish: {{t-|da|duellere}}
 * Dutch: {{t+|nl|duelleren}}
 * Esperanto: {{t|eo|dueli}}
@@ -81,7 +79,7 @@ From {{etyl|ML.}} {{term|duellum||fight between two men|lang=la}}, under influen
 * German: {{t+|de|duellieren}}
 {{trans-mid}}
 * Hungarian: {{t-|hu|párbajozik}}
-* [[Interlingua]]: [[duellar]]
+* [[Interlingua]]: {{t|ia|duellar}}
 * Italian: {{t-|it|duellare}}
 * Portuguese: [[duelar]]
 * Spanish: {{t|es|duelar}}
@@ -135,7 +133,7 @@ From {{etyl|la|da}} {{term|duellum||war|lang=la}}.
 ==Dutch==
 
 ===Alternative forms===
-* [[duwel]] (obsolete)
+* [[duwel]] {{qualifier|obsolete}}
 
 ===Etymology===
 From {{etyl|fr|nl}} [[duel]], from Medieval {{etyl|la|nl}} [[duellum]] 'combat between two adversaries', associated with [[duo]] "two," but originally from {{etyl|la|nl}} [[duellum]] "war," an Old Latin form of [[bellum]] 'war, armed combat'
@@ -170,6 +168,7 @@ From {{etyl|fr|nl}} [[duel]], from Medieval {{etyl|la|nl}} [[duellum]] 'combat b
 ----
 
 ==Old French==
+
 ===Etymology===
 Probably from {{etyl|la|fro}} {{term|dolus|lang=la}} or from {{etyl|VL.|fro}} *''dolium'' < {{etyl|la|fro}} ''[[cordolium]]'' ("sorrow of the heart") < {{term|dolor|lang=la}}.
 
