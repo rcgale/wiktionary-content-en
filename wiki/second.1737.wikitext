@@ -51,7 +51,7 @@ From {{etyl|fro|en}} {{term|seconde||lang=fro}}, from {{etyl|la|en}} {{term|secu
 {{trans-top|second (numeral)}}
 * Albanian: {{t|sq|dytë|xs=Albanian}}
 * [[Ancient Greek]]: {{tø|grc|δεύτερος|tr=deuteros|sc=polytonic}}
-* Arabic: {{Arab|[[ثانٍ]]}} (ṯānin) {{m}} ''indefinite'', {{Arab|[[الثاني]]}} (aṯ-ṯāniy) {{m}} ''definite'', {{Arab|[[ثانية]]}} (ṯāniya) {{f}}
+* Arabic: {{Arab|[[ثانٍ]]}} (ṯānin) {{m}} ''indefinite'', {{Arab|[[الثاني]]}} (aṯ-ṯāniy) {{m}} ''definite'', {{Arab|[[ثانية]]}} (ṯāniya) {{f}}, {{qualifier|indefinite}} {{t|ar|ثان|m|tr=thaanin|alt=ثانٍ|sc=Arab}}, {{qualifier|definite}} {{t|ar|ثان|m|tr=al-thaaniy|alt=الثاني|sc=Arab}}, {{t|ar|ثانية|f|tr=thaaniya|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|تاني|m|tr=taanii|sc=Arab|xs=Egyptian Arabic}}
 * Armenian: {{t-|hy|երկրորդ|tr=erkrord}}
 * [[Basque]]: {{t|eu|bigarren|xs=Basque}}
@@ -59,6 +59,7 @@ From {{etyl|fro|en}} {{term|seconde||lang=fro}}, from {{etyl|la|en}} {{term|secu
 * [[Breton]]: [[eil]] {{m|f}}, [[daouvet]] {{m}} <!-- [[divvet]] {{f}} -->
 * [[Catalan]]: {{t+|ca|segon|m}}
 * Chinese: {{t|cmn|第二|tr=dìèr|sc=Hani}}
+*: Mandarin: {{t|zh|第二|tr=dì'èr|sc=Hani}}
 * [[Crimean Tatar]]: [[ekinci]]
 * Croatian: {{t|hr|drugi|m}}, {{t|hr|druga|f}}, {{t|hr|drugo|n}}
 * Czech: {{t+|cs|druhý}}
@@ -70,7 +71,7 @@ From {{etyl|fro|en}} {{term|seconde||lang=fro}}, from {{etyl|la|en}} {{term|secu
 * French: {{t+|fr|deuxième|m|f}}; {{t+|fr|second|m}}, {{qualifier|in names of monarchs and popes}} {{t+|fr|deux|m|f}}
 * German: [[zweite]] <!-- (''abbreviation'' 2.) -->
 * Greek: {{t+|el|δεύτερος|m|tr=défteros}} <!-- [[δεύτερη]] {{f}}, [[δεύτερο]] {{n}} (''abbreviation'' 2ος {{m}}, 2η {{f}}, 2ο {{n}}) -->
-* Hebrew: [[שני]] (sheni) {{m}} <!-- [[שניה]] (shnia) {{f}}, [[שניים]] (shniyim) {{m|p}}, [[שניות]] (shniyot) {{f|p}} -->
+* Hebrew: [[שני]] (sheni) {{m}} <!-- [[שניה]] (shnia) {{f}}, [[שניים]] (shniyim) {{m|p}}, [[שניות]] (shniyot) {{f|p}} -->, {{t|he|שני|m|tr=sheni|sc=Hebr}}
 * Hindi: {{t+|hi|दूसरा|tr=dūsrā|xs=Hindi}}
 * Hungarian: {{t+|hu|második}}
 * Icelandic: {{t|is|annar|m}} <!-- {{t|is|önnur|f}}, {{t|is|annað|n}} (''abbreviation'' 2.) -->
@@ -80,7 +81,7 @@ From {{etyl|fro|en}} {{term|seconde||lang=fro}}, from {{etyl|la|en}} {{term|secu
 * Irish: [[dóú]]<!-- (''abbreviation'' 2ú)-->; dara
 {{trans-mid}}
 * Italian: {{t+|it|secondo|m}}
-* Japanese: [[第二]] ([[だいに]], daini), [[二番目]] (にばんめ, niban-me)
+* Japanese: [[第二]] ([[だいに]], daini), [[二番目]] (にばんめ, niban-me), {{t|ja|第二|tr=だいに, daini|sc=Jpan}}, {{t|ja|二番目|tr=にばんめ, niban-me|sc=Jpan}}
 * Korean: {{t+|ko|둘째|tr=duljjae|sc=Hang}}
 * Kurdish:
 *: Sorani: {{t|ku|دوه‌م|tr=dúem|sc=ku-Arab}}
@@ -103,6 +104,7 @@ From {{etyl|fro|en}} {{term|seconde||lang=fro}}, from {{etyl|la|en}} {{term|secu
 * [[Tatar]]: [[икенче]]
 * Turkish: [[ikinci]] <!-- (''abbreviation'' 2.) -->
 * Ukrainian: {{t|uk|другий|tr=drúhyj|xs=Ukrainian}}
+* Urdu: {{t|ur|دوسرا|tr=dūsrā|sc=ur-Arab}}
 * [[Uyghur]]: {{t|ug|ئىككىنچى|sc=ug-Arab}}
 * Vietnamese: [[thứ]] [[hai#Vietnamese|hai]], [[thứ]] [[nhì]]
 * [[Volapük]]: {{t|vo|telid}}
@@ -253,7 +255,7 @@ From {{etyl|fro|en}} {{term|lang=fro|seconde}}, from {{etyl|ML.}} {{term|secunda
 =====Translations=====
 {{trans-top|SI unit of time}}
 * Albanian: {{t-|sq|sekondë|f|xs=Albanian}}
-* Arabic: {{t-|ar|ثانية|f|tr=θāniya}}
+* Arabic: {{t-|ar|ثانية|f|tr=θāniya}}, {{t|ar|ثانية|f|tr=thaaniya|sc=Arab}}
 * Armenian: {{qualifier|Eastern Armenian}} {{t+|hy|վայրկյան|tr=vayrkyan}}, {{qualifier|Western Armenian}} {{t-|hy|երկվայրկյան|tr=erkvayrkyan}}
 * [[Azeri]]: {{t|az|saniyə|xs=Azeri}}
 * [[Basque]]: {{t|eu|segundo}}
@@ -274,17 +276,17 @@ From {{etyl|fro|en}} {{term|lang=fro|seconde}}, from {{etyl|ML.}} {{term|secunda
 * Georgian: {{t-|ka|წამი|tr=cami|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Sekunde|f}}
 * Greek: {{t+|el|δευτερόλεπτο|n|tr=defterólepto}}, {{t+|el|δεύτερο|n|tr=déftero}}
-* Hebrew: [[שניה]] (shnia) {{f}}
+* Hebrew: [[שניה]] (shnia) {{f}}, {{t|he|שניה|f|tr=shnia|sc=Hebr}}
 * Hindi: {{t-|hi|सैकण्ड|tr=saikaṇḍa|xs=Hindi}}
 * Hungarian: {{t+|hu|másodperc}}
 * Icelandic: {{t+|is|sekúnda|f}}
 * Indonesian: [[detik]], [[sekon]]
 * Irish: {{t+|ga|soicind|f|xs=Irish}}, {{t|ga|tsoicind}}
 * Italian: {{t+|it|secondo|m}}
-* Japanese: {{t+|ja|秒|tr=byō}}
+* Japanese: {{t+|ja|秒|tr=byō}}, {{t|ja|秒|tr=びょう, byō|sc=Jpan}}
 {{trans-mid}}
-* [[Khmer]]: {{t-|km|វិនាទី|sc=Khmr|xs=Khmer}}
-* Korean: [[초]] (cho)
+* [[Khmer]]: {{t-|km|វិនាទី|sc=Khmr|xs=Khmer}}, {{t|km|វិនាទី|tr=winīădtī|sc=Khmr}}
+* Korean: [[초]] (cho), {{t|ko|초|tr=cho|sc=Kore}}
 * Kurdish:
 *: Sorani: {{t|ku|چرکه‌|tr=çirke|sc=ku-Arab}}, {{t|ku|سانیه|tr=sanye|sc=ku-Arab}}
 * [[Lao]]: {{t+|lo|ວິນາທີ|tr=wi-naa-tii|sc=Laoo|xs=Lao}}
@@ -306,8 +308,9 @@ From {{etyl|fro|en}} {{term|lang=fro|seconde}}, from {{etyl|ML.}} {{term|secunda
 * [[Swiss German]]: {{tø|gsw|Sekunde|f|xs=Alemannic German}}
 * [[Tatar]]: {{t-|tt|секунд|sc=Cyrl|xs=Tatar}}
 * [[Telugu]]: [[సెకండు]] (sekaMDu), [[సెకను]] (sekanu)
-* Thai: {{Thai|[[วินาที]]}} (wínaatee)
+* Thai: {{Thai|[[วินาที]]}} (wínaatee), {{t|th|วินาที|tr=wínaatee|sc=Thai}}
 * Turkish: {{t+|tr|saniye}}
+* Urdu: {{t|ur|سیکنڈ|m|tr=saikaṇḍ|sc=ur-Arab}}
 * [[Uyghur]]: {{t|ug|سېكۇنت|sc=ug-Arab}}
 * Vietnamese: {{t+|vi|giây|xs=Vietnamese}}
 * [[Volapük]]: {{t|vo|sekun}}
