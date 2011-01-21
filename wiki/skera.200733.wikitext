@@ -1,12 +1,12 @@
 ==Faroese==
+
 ===Etymology===
-From {{etyl|non|fo}} ''[[#Old Norse|skera]]''.
+From {{etyl|non|fo}} {{term|skera|lang=non}}, from {{proto|Germanic|skeranan|lang=fo}}.
 
 ===Verb===
 '''skera'''
 
 # to [[cut]]
-
 
 ====Conjugation====
 {{fo-conj-54|sk|e|r|o|a|ó}}
@@ -18,10 +18,14 @@ From {{etyl|non|fo}} ''[[#Old Norse|skera]]''.
 ==Icelandic==
 
 ===Etymology===
-From {{etyl|non|is}} ''[[#Old Norse|skera]]''.
+From {{etyl|non|is}} {{term|skera|lang=non}}, from {{proto|Germanic|skeranan|lang=is}}.
+
+===Pronunciation===
+* {{IPA|/ˈscɛːra/|lang=is}}
+*: {{rhymes|ɛːra|lang=is}}
 
 ===Verb===
-'''skera''' (''strong conjugation:'' [[skar]] – [[skárum]] – [[skorið]])
+{{is-verb-strong|skar|skáru|skorið}}
 
 # to [[cut]], [[slice]], [[sever]]
 # to [[chisel]]
@@ -36,43 +40,39 @@ From {{etyl|non|is}} ''[[#Old Norse|skera]]''.
 * [[skera út]]
 * [[skera sig]]
 
-[[Category:Icelandic verbs]]
-
 ----
 
 ==Old Frisian==
 
 ===Etymology===
-From {{proto|Germanic|skeranan|lang=ofs}}, whence also Old English ''[[scieran]]'', Old Saxon ''[[sceran]]'', Old High German ''[[skeran]]'', Old Norse ''[[#Old Norse|skera]]''.
+From {{proto|Germanic|skeranan|lang=ofs}}, whence also Old English {{term|scieran|lang=ang}}, Old Saxon {{term|sceran|lang=osx}}, Old High German {{term|skeran|lang=goh}}, Old Norse {{term|skera|lang=non}}.
 
 ===Verb===
-'''skera'''
+{{infl|ofs|verb}}
 
 # to [[cut]], [[shear]]
-
-[[Category:Old Frisian verbs]]
 
 ----
 
 ==Old Norse==
 
 ===Etymology===
-From {{proto|Germanic|skeranan|lang=non}}, whence also Old English ''[[scieran]]'', Old Frisian ''[[#Old Frisian|skera]]'', Old Saxon ''[[sceran]]'', Old High German ''[[skeran]]''.
+From {{proto|Germanic|skeranan|lang=non}}, whence also Old English {{term|scieran|lang=ang}}, Old Frisian {{term|skera|lang=ofs}}, Old Saxon {{term|sceran|lang=osx}}, Old High German {{term|skeran|lang=goh}}.
 
 ===Verb===
-'''skera'''
+'''skera''' (skar, skáru, skorit)
 
 # to [[cut]]
 
 ====Descendants====
 {{top2}}
-* Danish: [[skære]]
-* Faroese: [[#Faroese|skera]]
-* Icelandic: [[#Icelandic|skera]]
+* Danish: {{l|da|skære}}
+* Faroese: {{l|fo|skera}}
+* Icelandic: {{l|is|skera}}
 {{mid2}}
-* Norwegian (bokmål): [[skjære]]
-* Norwegian (nynorsk): [[skjera]]
-* Swedish: [[skära]]
+* Norwegian (bokmål): {{l|nb|skjære}}
+* Norwegian (nynorsk): {{l|nn|skjera}}
+* Swedish: {{l|sv|skära}}
 {{bottom}}
 
 [[Category:Old Norse verbs]]
