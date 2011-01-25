@@ -121,7 +121,7 @@
 {{trans-top|abstract entity}}
 * [[Abkhaz]]: {{t|ab|ахыҧхьаӡара|tr=axyṗx'aʒara|sc=Cyrl}}
 * [[Anglo-Norman]]: {{tø|xno|noumbre}}
-* Arabic: {{Arab|[[رقم]]}} (ráqam) {{m}}, {{t|ar|رقم|m|tr=ráqam|sc=Arab}}
+* Arabic: {{t|ar|رقم|m|tr=ráqam|sc=Arab}}
 * Armenian: {{t-|hy|թիվ|tr=t’iv}}
 *: Old Armenian: {{tø|xcl|թիւ|tr=tʿiw|sc=Armn|xs=Old Armenian}}
 * [[Basque]]: {{t|eu|zenbaki|xs=Basque}}
@@ -129,7 +129,7 @@
 * [[Breton]]: [[niver]] {{m}}
 * Bulgarian: {{t+|bg|число|n|tr=čisló}}
 * Burmese: {{t-|my|နံပါတ်|tr=nambat|sc=Mymr|xs=Burmese}}
-* Chinese: [[數]], [[数]] (shù), [[數目]], [[数目]] (shùmù)
+* Chinese:
 *: Mandarin: {{t|zh|數|sc=Hani}}, {{t|zh|数|tr=shù|sc=Hani}}, {{t|zh|數目|sc=Hani}}, {{t|zh|数目|tr=shùmù|sc=Hani}}, {{t|zh|數字|sc=Hani}}, {{t|zh|数字|tr=shùzì|sc=Hani}}
 * [[Cornish]]: {{t-|kw|niver|xs=Cornish}}
 * Croatian: {{t+|hr|broj|m}}
@@ -154,8 +154,8 @@
 * Irish: {{t|ga|uimhir|f|xs=Irish}}
 * Italian: {{t+|it|numero|m}}
 {{trans-mid}}
-* Japanese: [[数]] (かず, kazu), [[数字]] (すうじ, sūji), {{t|ja|数|tr=かず, kazu|sc=Jpan}}, {{t|ja|数字|tr=すうじ, sūji|sc=Jpan}}
-* Korean: [[수]] (su), {{t|ko|수|tr=su,數|sc=Kore}}, {{t|ko|數|sc=Kore}}
+* Japanese: {{t|ja|数|tr=かず, kazu|sc=Jpan}}, {{t|ja|数字|tr=すうじ, sūji|sc=Jpan}}
+* Korean: {{t|ko|수|tr=su|sc=Kore}} ({{t|ko|數|sc=Kore}})
 * Kurdish:
 *: Sorani: {{t|ku|ژماره‌|tr=jimare|sc=ku-Arab}}
 * [[Lao]]: {{t-|lo|ເລກ|tr=leek|sc=Laoo|xs=Lao}}
@@ -193,9 +193,9 @@
 {{trans-bottom}}
 
 {{trans-top|numeral}}
-* Arabic: {{Arab|[[عدد]]}} {{IPAchar|(ʻádad)}} {{m}}, {{t|ar|عدد|m|tr=3ádad|sc=Arab}}
+* Arabic: {{t|ar|عدد|m|tr=3ádad|sc=Arab}}
 * Armenian: {{t-|hy|թիվ|tr=t’iv}}, {{t-|hy|թվանշան|tr=t’vanšan}}
-* Chinese: [[數]], [[数]] (shù)
+* Chinese:
 *: Mandarin: {{t|zh|數|sc=Hani}}, {{t|zh|数|tr=shù|sc=Hani}}, {{t|zh|數字|sc=Hani}}, {{t|zh|数字|tr=shùzì|sc=Hani}}
 * Croatian: {{t+|hr|broj|m}}
 * Czech: {{t+|cs|číslice|f}}
@@ -210,6 +210,7 @@
 {{trans-mid}}
 * Indonesian: [[nomor]]
 * Italian: {{t+|it|numero|m}}, {{t+|it|cifra|f}}
+* Japanese: {{t|ja|数|tr=かず, kazu|sc=Jpan}}, {{t|ja|数字|tr=すうじ, sūji|sc=Jpan}}
 * [[Lao]]: {{t-|lo|ເລກ|tr=leek|sc=Laoo|xs=Lao}}
 * [[Macedonian]]: {{t-|mk|бројка|f|tr=bròjka}},  {{t-|mk|цифра|f|tr=cífra}}
 * Navajo: {{tø|nv|námboo}}
@@ -217,14 +218,14 @@
 * Polish: {{t+|pl|cyfra|f}}
 * Portuguese: {{t+|pt|número|m}}
 * Romanian: {{t|ro|număr|n}}
-* Russian: {{t+|ru|число|n|tr=čisló}}, {{t+|ru|цифра|f|tr=cífra}}
+* Russian: {{t+|ru|число|n|tr=čisló}}, {{t+|ru|цифра|f|tr=cífra}}, {{qualifier|part of speech}} {{t+|ru|числительное|tr=čislítel’noje}},  {{t-|ru|имя числительное|n|tr=ímja čislítel’noje}}
 * [[Scottish Gaelic]]: {{t-|gd|àireamh|f|xs=Scottish Gaelic}}
 * Swahili: {{t+|sw|nambari|xs=Swahili}}
 * [[Telugu]]: {{t|te|సంఖ్య|tr=samkhya|sc=Telu}}
 {{trans-bottom}}
 
 {{trans-top|mathematical number}}
-* Arabic: {{t-|ar|عدد}}
+* Arabic: {{t|ar|عدد|m|tr=3ádad|sc=Arab}}
 * Armenian: {{t-|hy|թիվ|tr=t’iv}}
 * Croatian: {{t+|hr|broj|m}}
 * Czech: {{t+|cs|číslo|n}}
@@ -261,11 +262,11 @@
 {{trans-bottom}}
 
 {{trans-top|used to show the rank of something in a list or sequence}}
-* Arabic: {{Arab|[[رقم]]}} {{IPAchar|(ráqam)}} {{m}}
+* Arabic: {{t|ar|رقم|m|tr=ráqam|sc=Arab}}
 * Armenian: {{t-|hy|համար|tr=hamar}}
 * [[Basque]]: {{t|eu|zenbaki|xs=Basque}}
 * [[Breton]]: [[niverenn]] {{f}}
-* Chinese: [[號碼]], [[号码]] (hàomǎ)
+* Chinese:
 *: Mandarin: {{t|zh|號碼|sc=Hani}}, {{t|zh|号码|tr=hàomǎ|sc=Hani}}
 * Croatian: {{t+|hr|broj|m}}
 * Czech: {{t+|cs|číslo|n}}
@@ -281,7 +282,7 @@
 {{trans-mid}}
 * [[Ido]]: [[numero]]
 * Italian: {{t+|it|numero|m}}
-* Japanese: [[番号]], ([[ばんごう]], bangō), {{t|ja|番号|tr=ばんごう, bangō|sc=Jpan}}
+* Japanese: {{t|ja|番号|tr=ばんごう, bangō|sc=Jpan}}
 * Latin: {{t+|la|numero}}
 * [[Macedonian]]: {{t+|mk|број|m|tr=bròj}}
 * Maltese: {{t+|mt|numru|xs=Maltese}}
