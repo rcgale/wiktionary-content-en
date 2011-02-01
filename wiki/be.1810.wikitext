@@ -344,7 +344,7 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 * Icelandic: {{t+|is|vera}}
 * Irish: {{t+|ga|is|xs=Irish}}
 * Italian: {{t+|it|essere}}
-* Japanese: <subj.>[[は]]<cmpl.>[[です]]. (…wa～desu), <subj.>[[は]]<cmpl.>[[である]]. (…wa～de aru), <subj.>[[は]]<cmpl.>[[だ]]. (…wa～da)
+* Japanese: {{t|ja|です|tr=desu|sc=Jpan}}, {{t|ja|である|tr=dearu|sc=Jpan}}, {{t|ja|だ|tr=da|sc=Jpan}}
 * [[Khmer]]: {{t-|km|ជា|tr=jīa|sc=Khmr|xs=Khmer}}, {{t-|km|គឺ|tr=geu|sc=Khmr|xs=Khmer}}
 * Korean: {{ko-inline|이다|ida}}
 {{trans-mid}}
@@ -390,7 +390,7 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 * Icelandic: {{t+|is|vera}}
 * Irish: {{t-|ga|bí|xs=Irish}} {{t-|ga|cothrom|xs=Irish}} {{t+|ga|le|xs=Irish}}
 * Italian: [[essere]] [[uguale]]
-* Japanese: <subj.>[[は]]<cmpl.>[[である]]. (…wa～de aru)
+* Japanese: {{t|ja|である|tr=dearu|sc=Jpan}}
 * [[Khmer]]: {{t-|km|ជា|tr=jīa|sc=Khmr|xs=Khmer}}
 * Korean: {{ko-inline|같다|gatda}}
 * Latin: {{t+|la|sum}}
@@ -438,7 +438,7 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 * Icelandic: {{t+|is|vera}}
 * Irish: {{t+|ga|is|xs=Irish}}
 * Italian: {{t+|it|essere}}
-* Japanese: <subj.>[[は]]<cmpl.>[[である]]. (…wa～de aru), <subj.>[[は]]<cmpl.>[[を]][[やる]]. (…wa～o yaru)
+* Japanese: {{t|ja|である|tr=dearu|sc=Jpan}}, [[を]][[やる]] (o yaru)
 * Korean: {{ko-inline|이다|ida}}
 {{trans-mid}}
 * Latin: {{t+|la|sum}}
@@ -469,7 +469,7 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 * Belarusian: {{t-|be|быць|tr=byc'|xs=Belarusian}} {{qualifier|seldom used in present}}
 * Bulgarian: {{t-|bg|съм|tr=sǎm}}
 * Chinese:
-*: Mandarin: ''absent with adjectives''
+*: Mandarin: {{not used|cmn}}
 * Czech: {{t+|cs|být}}
 * Danish: {{t+|da|være}}
 * Dutch: {{t+|nl|zijn}}
@@ -482,8 +482,8 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 * Icelandic: {{t+|is|vera}}
 * Irish: {{t-|ga|bí|xs=Irish}}
 * Italian: {{t+|it|essere}}
-* Japanese: <subj.>[[は]]<adj.> (…wa～)
-* Korean: (adjective conjugates with no additional word)
+* Japanese: {{not used|ja}}
+* Korean: {{not used|ko}}
 * Latin: {{t+|la|sum}}
 * Latvian: {{t+|lv|būt|xs=Latvian}}
 {{trans-mid}}
@@ -505,7 +505,7 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 * Thai: ''absent with adjectives''
 * Ukrainian: {{t+|uk|бути|tr=búty|xs=Ukrainian}}
 * Urdu: {{t-|ur|ہونا|tr=honā|xs=Urdu}}
-* Vietnamese: ''absent with adjectives''
+* Vietnamese: {{not used|vi}}
 * Welsh: {{t-|cy|bod|xs=Welsh}}
 * Yiddish: {{t-|yi|זײַן|tr=zayn|sc=Hebr|xs=Yiddish}}
 {{trans-bottom}}
@@ -527,7 +527,7 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 * Hindi: {{t+|hi|होना|tr=honā|xs=Hindi}}
 * Irish: {{t+|ga|is|xs=Irish}}
 * Italian: {{t+|it|essere}}
-* Japanese: <subj.>[[は]]<cmpl.>[[です]]. (…wa～desu), <subj.>[[は]]<cmpl.>[[である]]. (…wa～de aru), <subj.>[[は]]<cmpl.>[[だ]]. (…wa～da)
+* Japanese: {{t|ja|です|tr=desu|sc=Jpan}}, {{t|ja|である|tr=dearu|sc=Jpan}}, {{t|ja|だ|tr=da|sc=Jpan}}
 * Korean: {{ko-inline|이다|ida}}
 * Latin: {{t+|la|sum}}
 {{trans-mid}}
@@ -608,7 +608,7 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 * Irish: {{t-|ga|bí|xs=Irish}}
 * Italian: {{t+|it|stare}}
 {{trans-mid}}
-* Japanese: <subj.>は<continuous of pred.>[[ている]] (…wa ～te iru)
+* Japanese: {{t|ja|ている|tr=teiru|sc=Jpan}}
 * Korean: -{{ko-inline|어/아 [[가다]]|gada}}, -{{ko-inline|고 [[있다]]|go itda}}, -{{ko-inline|는다|neunda}}, -{{ko-inline|ㄴ다|nda}}, -{{ko-inline|ㅆ다|tda}}
 * Latin: {{qualifier|(not translated; use the equivalent simple tense, or the imperfect in the past)}} {{t|la|Videsne quis venit? |tr=Do you see who is coming?}}
 * Norwegian: {{not used|no}}
@@ -635,7 +635,7 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 * German: {{t+|de|sein}}
 * Icelandic: {{t+|is|vera}}
 * Irish: {{qualifier|rendered by verb form}}
-* Japanese: <subj.>[[は]]<continuous of pred.>[[ている]] (…wa ～te iru)
+* Japanese: {{t|ja|ている|tr=teiru|sc=Jpan}}
 {{trans-mid}}
 * Latin: {{t+|la|sum}}, {{qualifier| (not translated; use the equivalent simple tense, or the imperfect in the past)}} {{t|la|Videsne quis venit? |tr=Do you see who is coming?}}
 * Norwegian:
@@ -713,7 +713,7 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 * Greek: {{t|el|έχω ύψος||tr=écho ýpsos}}
 * Icelandic: {{t+|is|vera}}
 * Irish: {{t-|ga|bí|xs=Irish}}
-* Japanese: <subj.>[[は]]<value of height>[[です]] (…wa ～desu)
+* Japanese: {{t|ja|です|tr=desu|sc=Jpan}}
 {{trans-mid}}
 * Latin: {{t+|la|sum}}
 * Norwegian:
@@ -772,7 +772,7 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 * Icelandic: {{t+|is|vera}}
 {{trans-mid}}
 * Irish: {{t-|ga|bí|xs=Irish}}, {{t+|ga|is|xs=Irish}}
-* Japanese: <noun of the day>[[は]]<state>[[だ]] (…wa ～da)
+* Japanese: {{t|ja|だ|tr=da|sc=Jpan}}
 * Norwegian:
 *: Norwegian Bokmål: {{t+|no|være}}
 *: Norwegian Nynorsk: {{t+|nn|vera|xs=Norwegian Nynorsk}}, {{t+|nn|vere|xs=Norwegian Nynorsk}}
