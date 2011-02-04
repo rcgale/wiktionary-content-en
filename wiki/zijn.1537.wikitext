@@ -10,28 +10,41 @@ From {{proto|Germanic|wesanan|lang=nl}}, from {{proto|Indo-European|h₁es-|to b
 ====Verb====
 {{nl-verb|irr}}
 
-# {{intransitive}} To [[be]], to [[exist]].
-#: '''''Zijn''' of niet '''zijn''', dat is de vraag.'' &mdash; To be or not to be, that is the question.
-#: '''''Was''' je er nou zaterdag ook?'' &mdash; Are you coming next Saturday? ''or'' Were you there last Saturday? 
-# {{context|lang=nl|transitive|copular}} Used to connect a noun to an adjective that describes it.
-#: ''De bal '''is''' rond.'' &mdash; The ball is round.
-# {{context|lang=nl|transitive|auxiliary}} Used to form the [[perfect tense]] of the [[active voice]] of some verbs, together with a [[past participle]].
-#: ''Hij '''is''' hier geweest.'' &mdash; He has been here.
-#: '''Note:''' The perfect tense of most other verbs is formed using [[hebben]].
-# {{context|lang=nl|transitive|auxiliary}} Used to form the [[perfect tense]] of the [[passive voice]], together with a [[past participle]].
-#: ''Ze '''waren''' gered.'' &mdash; They had been saved.
-#: ''De muur '''is''' geschilderd.'' &mdash; The wall has been painted.
-#: ''De muur zal '''zijn''' geschilderd.'' &mdash; The wall will have been painted.
-#: '''Note:''' The [[imperfect tense]] passive is formed using [[worden]].
-# {{context|lang=nl|transitive|auxiliary}} Used to form the continuous forms of various tenses, together with '''[[aan het]]'''.
-#: ''De man '''was''' aan het lopen.'' &mdash; The man was walking.
-# {{intransitive}} To [[go]], to go on a [[trip]] and return.
-#: ''Ik '''ben''' even naar de dokter.'' &mdash; I'm going to the doctor for a while.
-#: ''Ik ben vandaag naar het strand '''geweest.''' &mdash; I've been to the beach today.
-# {{context|lang=nl|transitive|copular|mathematics}} To [[equal]]; used to indicate that the values on either side of an equation are the same.
-#: ''Drie keer vijf '''is''' vijftien.'' &mdash; Three times five equals fifteen.
-# {{intransitive}} To have the next [[turn]] in a [[game]].
-#: ''Jij '''bent''' nu.'' &mdash; It's your turn now.
+# {{intransitive|lang=nl}} To [[be]], to [[exist]].
+#: '''''Zijn''' of niet '''zijn''', dat is de vraag.''
+#:: To '''be''' or not to '''be''', that is the question.
+#: '''''Was''' je er afgelopen zaterdag ook?''
+#:: '''Were''' you there too last Saturday? 
+# {{transitive|copular|lang=nl}} {{non-gloss definition|Used to connect a noun to an adjective that describes it.}}
+#: ''De bal '''is''' rond.''
+#:: The ball '''is''' round.
+# {{transitive|auxiliary|lang=nl}} {{non-gloss definition|Used to form the [[perfect tense]] of the [[active voice]] of some verbs, together with a [[past participle]].<br/>'''Note:''' The perfect tense of most other verbs is formed using [[hebben]].}}
+#: ''Hij '''is''' hier geweest.''
+#:: He '''has''' been here.
+# {{transitive|auxiliary|lang=nl}} {{non-gloss definition|Used to form the [[perfect tense]] of the [[passive voice]], together with a [[past participle]].<br/>'''Note:''' The [[imperfect tense]] passive is formed using [[worden]].}}
+#: ''Ze '''waren''' gered.''
+#:: They '''had been''' saved.
+#: ''De muur '''is''' geschilderd.''
+#:: The wall '''has been''' painted.
+#: ''De muur zal '''zijn''' geschilderd.''
+#:: The wall will '''have been''' painted.
+# {{transitive|auxiliary|lang=nl}} {{non-gloss definition|Used to form the continuous forms of various tenses, together with '''[[aan het]]'''.}}
+#: ''De man '''was''' aan het lopen.''
+#:: The man '''was''' walking.
+# {{intransitive|lang=nl}} To [[go]], to go on a [[trip]] and return.
+#: ''Ik '''ben''' even naar de dokter.''
+#:: I '''am going''' to the doctor for a while.
+#: ''Ik ben vandaag naar het strand '''geweest.'''
+#:: I've '''been''' to the beach today.
+# {{intransitive|impersonal|lang=nl}} {{non-gloss definition|Used to indicate weather, temperature or some other general condition.}}
+#: ''Het '''is''' erg warm vandaag.''
+#:: It '''is''' very warm today.
+# {{transitive|copular|mathematics|lang=nl}} To [[equal]]; {{non-gloss definition|used to indicate that the values on either side of an equation are the same.}}
+#: ''Drie keer vijf '''is''' vijftien.''
+#:: Three times five '''equals''' fifteen.
+# {{intransitive|lang=nl}} To have the next [[turn]] in a [[game]].
+#: ''Jij '''bent''' nu.''
+#:: It '''is your turn''' now.
 
 =====Conjugation=====
 {{nl-conj-irr|ben|bent|is|was|geweest|aux=zijn|zij|ware|zijt|waart|13=wees|13a=ben}}
