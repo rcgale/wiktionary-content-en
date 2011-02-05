@@ -1,8 +1,7 @@
 ==Danish==
 
 ===Etymology===
-
-From {{etyl|non|da}} {{term|hverr||who, each|lang=non}}.
+From {{etyl|non|da}} {{term|hverr||who, each|lang=non}}, from {{proto|Germanic|hwarjaz|lang=da}}.
 
 ===Pronunciation===
 * {{IPA|[væɐˀ]|lang=da}}
@@ -20,43 +19,70 @@ From {{etyl|non|da}} {{term|hverr||who, each|lang=non}}.
 ==Icelandic==
 {{wikipedia|lang=is}}
 
-===Noun===
+===Etymology 1===
+From {{etyl|non|is}} {{term|hverr|lang=non}}, from {{proto|Germanic|hveraz|lang=is}}.
+
+====Pronunciation====
+* {{IPA|/xʷɛːr/|lang=is}}
+* {{IPA|/kʰvɛːr/|lang=is}}
+*: {{rhymes|ɛːr|lang=is}}
+
+====Noun====
 {{is-noun|m|hvers|hverir|33=hverar}}
 
 # a [[hot spring]]{{jump|hot spring|s}}
 
-====Derived terms====
-* [[goshver]]
+=====Declension=====
+{{is-decl-noun-m-s2|hv|e|r|}}
+Previously also declined according to the first declension, with plural ''hverar'':
+{{is-decl-noun-m-s1|hv|e|r}}
 
-====Usage notes====
-* The plural form {{term|hverar||hot springs|lang=is}} is archaic.
+=====Derived terms=====
+* {{l|is|goshver}}
 
-====See also====
-* [[lind]]
-* [[goshver]]
-* [[heitur pottur]]
-* [[pottur]]
+=====See also=====
+* {{l|is|lind}}
+* {{l|is|heitur pottur}}
+* {{l|is|pottur}}
 
-====Synonyms====
-* {{jump|s|hot spring}} {{l|is|laug}}, {{l|is|heit laug}}
+=====Synonyms=====
+* {{sense|hot spring}} {{l|is|laug}}, {{l|is|heit laug}}
 
-===Pronoun===
-{{infl|is|interrogative pronoun}} {{m|f}} (''neuter'' '''[[hvert]]''' and '''[[hvað]]''')
+===Etymology 2===
+From {{etyl|non|is}} {{term|hverr|lang=non}} ( < {{proto|Germanic|hwarjaz|lang=is}}) and *{{term|hver|lang=non}} ( < {{proto|Germanic|hwaz|lang=is}}), which were conflated in (late) Old Norse. Most of the inflected forms of *''hwaz'' have since become obsolete, and what remains in form is essentially the descendant of *''hwarjaz'', but with an extra form for the neuter nominative and accusative singular: ''hvað'' < Old Norse ''hvat''.
 
-# {{context|interrogative}} [[who]], [[which]], [[what]]
+====Alternative forms====
+* {{l|is|hvur}}, {{l|is|hvör}}
+
+====Pronunciation====
+* {{IPA|/xʷɛːr/|lang=is}}
+* {{IPA|/kʰvɛːr/|lang=is}}
+*: {{rhymes|ɛːr|lang=is}}
+* {{IPA|/kʰv(ʏ~œ)ːr/|lang=is}}
+
+====Pronoun====
+{{infl|is|pronoun|feminine|hver|neuter|hvert|or|hvað}}
+
+# {{context|interrogative|lang=is}} [[who]], [[what]]
 #: '''''Hver''' er ég?''
 #:: '''Who''' am I?
 #: '''''Hver''' [[stela|stal]] [[kaka#Icelandic|kökunni]] úr krúsinni í gær?''
 #:: '''Who''' stole the cookie from the jar last night?
-# {{context|indefinite}} [[each]], [[every]]
+# {{context|interrogative|lang=is}} [[which]] (referring to one or several of more than two things or persons; may be qualified by a noun phrase in genitive or a noun phrase with the preposition {{term|af||of|lang=is}})
+# {{context|interrogative|neuter singular|lang=is}} [[what]], which part (referring to part of a mass or group of things or people considered collectively; may be qualified by a noun phrase with the preposition {{term|af||of|lang=is}})
+# {{context|relative|lang=is}} [[whichever]] (of more than two things or persons; may be qualified by a noun phrase in genitive or a noun phrase with the preposition {{term|af||of|lang=is}})
+# {{context|relative|neuter singular|lang=is}} [[whatever]] (may be qualified by a noun phrase with the preposition {{term|af||of|lang=is}})
+# {{context|relative|chiefly|archaic|lang=is}} [[who]], [[which]], [[that]] (used in the forming of relative clauses)
+# {{context|indefinite|lang=is}} [[each]], [[every]]
 #* ''Article 1'', [[Universal Declaration of Human Rights]] ([http://www.ohchr.org/EN/UDHR/Pages/Language.aspx?LangID=ice Icelandic], [http://www.ohchr.org/EN/UDHR/Pages/Language.aspx?LangID=eng English])
 #*: '''''Hver''' maður er borinn frjáls og jafn öðrum að virðingu og réttindum. Menn eru gæddir vitsmunum og samvizku, og ber þeim að breyta bróðurlega hverjum við annan.''
 #*:: '''All''' human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-====Declension====
-{{Icelandic interrogative pronouns}}
+=====Declension=====
+{{is-decl-pron-hver}}
+The neuter form ''hvað'' is used with senses 1 and 3, ''hvert'' with others.
 
-====Derived terms====
+=====Derived terms=====
 * [[hvers konar]]? (how? what kind of?)
 * [[hvers vegna]]? ([[why]]?)
 * [[hver sem er]] ([[whoever]])
