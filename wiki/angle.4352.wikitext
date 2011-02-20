@@ -4,7 +4,7 @@
 ===Pronunciation===
 * {{IPA|/ˈæŋ.ɡl̩/|/ˈæŋ.ɡəl/}}
 * {{audio|en-us-angle.ogg|Audio (US)}}
-*: {{rhymes|æŋɡəl}}
+* {{rhymes|æŋɡəl}}
 
 ===Etymology 1===
 From {{etyl|enm}}, from {{etyl|frm}} {{term|angle|lang=fro}}, from {{etyl|la}} {{term|angulus||corner, remote area|lang=la}}, from {{proto|Indo-European|ang-|corner, hirn|lang=en}}. Cognate with {{etyl|goh|-}} {{term|ancha||nape of the neck|lang=goh}}, {{etyl|gmh|-}} {{term|anke||joint of the foot, nape of neck|lang=gmh}}.
@@ -15,7 +15,7 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|angle|lang=fro}}, from {{etyl|la}} {
 
 # {{geometry}} A [[figure]] formed by two [[ray]]s which start from a common [[point]] (a [[plane angle]]) or by three [[plane]]s that [[intersect]] (a [[solid angle]]).
 #: ''the '''angle''' between lines A and B''
-# {{geometry}} The [[measure]] of such a figure.  In the case of a plane angle, this is the [[ratio]]  (or [[proportional]] to the ratio) of the [[arc length]] to the [[radius]] of a [[section]] of a [[circle]] cut by the two rays, centered at their common point.  In the case of a solid angle, this is the ratio of the [[surface area]] to the [[square]] of the radius of the section of a [[sphere]].
+# {{geometry}} The [[measure]] of such a figure. In the case of a plane angle, this is the [[ratio]] (or [[proportional]] to the ratio) of the [[arc length]] to the [[radius]] of a [[section]] of a [[circle]] cut by the two rays, centered at their common point. In the case of a solid angle, this is the ratio of the [[surface area]] to the [[square]] of the radius of the section of a [[sphere]].
 #: ''The '''angle''' between lines A and B is π/4 radians, or 45 degrees.''
 # A [[corner]] where two walls intersect.
 #: ''an '''angle''' of a building''
@@ -120,7 +120,7 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|angle|lang=fro}}, from {{etyl|la}} {
 * Slovak: {{t-|sk|uhol|m}}
 * Slovene: {{t+|sl|kot|m}}
 * Spanish: {{t+|es|ángulo|m}}
-* Swedish: {{t|sv|vinkel|c}}, {{t|sv|plan vinkel|c}}, {{t|sv|rymdvinkel|c}} (''solid angle'')
+* Swedish: {{t|sv|vinkel|c}}, {{t|sv|plan vinkel|c}}, {{t|sv|rymdvinkel|c}} {{qualifier|solid angle}}
 * [[Telugu]]: [[కోణం]]
 * Turkish: {{t+|tr|açı}}
 * Vietnamese: {{t+|vi|gốc|xs=Vietnamese}}
@@ -167,7 +167,7 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|angle|lang=fro}}, from {{etyl|la}} {
 * Icelandic: {{t+|is|horn|n}}
 * Japanese: [[角]] (かく, kaku), [[隅]] (すみ, sumi)
 {{trans-mid}}
-* Korean: [[귀]] (''gwi''), [[모서리]] (''moseori'')
+* Korean: [[귀]] {{qualifier|gwi}}, [[모서리]] {{qualifier|moseori}}
 * Latin: {{t-|la|angulus|m}}
 * [[Macedonian]]: {{t|mk|агол|m|tr=ágol}}
 * Polish: {{t+|pl|kąt|m}}, {{t+|pl|róg|m}}
@@ -175,8 +175,8 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|angle|lang=fro}}, from {{etyl|la}} {
 * Romanian: {{t-|ro|colț|n}}
 * Russian: {{t+|ru|угол|m|tr=úgol}}
 * [[Scottish Gaelic]]: {{t|gd|ceàrn|m}}
-* Spanish: [[esquina]] {{f}} (''as seen from the outside''), [[rincón]] {{m}} (''as seen from the inside'')
-* Swedish: {{t|sv|hörn|n}}, {{t|sv|knut|n}} (''as seen from the outside'')
+* Spanish: [[esquina]] {{f}} {{qualifier|as seen from the outside}}, [[rincón]] {{m}} {{qualifier|as seen from the inside}}
+* Swedish: {{t|sv|hörn|n}}, {{t|sv|knut|n}} {{qualifier|as seen from the outside}}
 {{trans-bottom}}
 
 {{trans-top|change in direction}}
@@ -200,7 +200,7 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|angle|lang=fro}}, from {{etyl|la}} {
 * Italian: {{t-|it|punto di vista|m}}
 {{trans-mid}}
 * Japanese: {{t|ja|見地|tr=[[けんち]], kenchi}}, {{t|ja|立場|tr=[[たちば]], tachiba}}
-* [[Macedonian]]: {{t|mk|агол|m|tr=ágol}},  {{t-|mk|гледиште|n|tr=glédište}},  {{t|mk|перспектива|f|tr=perspektíva}}
+* [[Macedonian]]: {{t|mk|агол|m|tr=ágol}}, {{t-|mk|гледиште|n|tr=glédište}}, {{t|mk|перспектива|f|tr=perspektíva}}
 * Polish: [[strona]] {{f}}, [[punkt widzenia]] {{m}}, [[kąt]] {{m}}
 * Portuguese: {{t+|pt|ângulo|m}}, {{t+|pt|ponto de vista|m}}
 * Romanian: {{t-|ro|punct de vedere|n}}, [[unghi]] [[de]] [[vedere]] {{n}}
@@ -208,7 +208,7 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|angle|lang=fro}}, from {{etyl|la}} {
 * Spanish: {{t+|es|punto de vista|m}}
 * Swedish: {{t+|sv|synvinkel|c}}
 * [[Telugu]]: [[దృక్కోణం]]
-* Turkish: {{t+|tr|açı}},  {{t|tr|bakış açısı}}
+* Turkish: {{t+|tr|açı}}, {{t|tr|bakış açısı}}
 {{trans-bottom}}
 
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
@@ -264,7 +264,7 @@ From {{etyl|enm}} {{term|anglelen||to fish|lang=enm}}, from {{term|angel||fishho
 * [[Interlingua]]: [[piscar]] (con [[linea]])
 {{trans-mid}}
 * Japanese: [[魚釣り]]をする (さかなつりをする, sakanatsuri wo suru)
-* Korean: [[낚다]] (''nakkda'')
+* Korean: [[낚다]] {{qualifier|nakkda}}
 * Portuguese: [[pescar]] (com [[linha]])
 * Romanian: {{t|ro|pescui}}
 * Spanish: {{t+|es|pescar}} con {{t-|es|anzuelo|m}}
