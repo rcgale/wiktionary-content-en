@@ -8,7 +8,7 @@
 * {{rhymes|ɪŋ}}
 
 ===Etymology 1===
-{{etyl|ang|en}} {{term|hring|lang=ang}}, from {{proto|Germanic|hrengaz|lang=en}} (compare Dutch {{term|ring|lang=nl}}, German {{term|Ring|lang=de}}), from {{proto|Indo-European|kreng-|lang=en}}; akin to Umbrian {{term|krenkatrum|lang=xum}}, {{term|cringatro||belt|lang=xum}}, {{proto|Slavic|krǫgъ|circle|lang=}}.
+{{etyl|ang}} {{term|hring|lang=ang}}, from {{proto|Germanic|hrengaz|lang=en}} (compare Dutch {{term|ring|lang=nl}}, German {{term|Ring|lang=de}}), from {{proto|Indo-European|kreng-|lang=en}}; akin to Umbrian {{term|krenkatrum|lang=xum}}, {{term|cringatro||belt|lang=xum}}, {{proto|Slavic|krǫgъ|circle|lang=}}.
 
 ====Noun====
 {{en-noun}}
@@ -26,7 +26,7 @@
 #* '''1866''', James Edwin Thorold Rogers, ''A History of Agriculture and Prices in England'', Volume 1, page 168.
 #*: The '''ring''' is common in the Huntingdonshire accounts of Ramsey Abbey. It was equal to half a quarter, i.e., is identical with the coomb of the eastern counties. &mdash;
 # {{British}} a large circular [[prehistoric]] stone construction such as [[w:Stonehenge|Stonehenge]].
-# {{comptheory}} A [[hierarchical]] level of [[privilege]] in a computer system, usually at [[hardware]] level, used to protect data and functionality (also ''protection ring'').
+# {{computing theory}} A [[hierarchical]] level of [[privilege]] in a computer system, usually at [[hardware]] level, used to protect data and functionality (also ''protection ring'').
 #* '''2007''', Steve Anson, Steve Bunting, ''Mastering Windows Network Forensics and Investigation'' (page 70)
 #*: Kernel Mode processes run in '''ring''' 0, and User Mode processes run in ring 3.
 
@@ -178,8 +178,8 @@
 * Armenian: {{t-|hy|մատանի|tr=matani}}
 * [[Asturian]]: {{t-|ast|aniellu|m|xs=Asturian}}
 * [[Azeri]]: {{t|az|üzük|xs=Azeri}}
-* [[Bashkir]]: {{tø|ba|йөҙөк|tr=yöźök|sc=Cyrl|xs=Bashkir}},  {{tø|ba|балдаҡ|tr=baldaq|sc=Cyrl|xs=Bashkir}}
-* Belarusian: {{t|be|пярсьцёнак|m|tr=pjars′cënak|xs=Belarusian}},  {{t|be|piarścionak|m|xs=Belarusian}}
+* [[Bashkir]]: {{tø|ba|йөҙөк|tr=yöźök|sc=Cyrl|xs=Bashkir}}, {{tø|ba|балдаҡ|tr=baldaq|sc=Cyrl|xs=Bashkir}}
+* Belarusian: {{t|be|пярсьцёнак|m|tr=pjars′cënak|xs=Belarusian}}, {{t|be|piarścionak|m|xs=Belarusian}}
 * [[Bemba]]: [[im-balaáminwe]], [[i-lindaáminwe]]
 * [[Breton]]: [[bizou]] {{m}}
 * Bulgarian: {{t|bg|пръстен|m|tr=prǎsten}}
@@ -193,7 +193,7 @@
 * Croatian: {{t-|hr|prsten|m}}
 * Czech: {{t+|cs|prsten|m}}
 * Dutch: {{t+|nl|ring|m}}
-* [[Erzya]]: [[суркс]] (''surks'')
+* [[Erzya]]: [[суркс]] {{qualifier|surks}}
 * Esperanto: {{t-|eo|ringo|xs=Esperanto}}
 * Estonian: {{t-|et|sõrmus}}
 * Finnish: {{t+|fi|sormus}}
@@ -211,15 +211,15 @@
 * Irish: {{t+|ga|fáinne|xs=Irish}}
 * Italian: {{t+|it|anello|m}}
 * Japanese: {{t-|ja|指輪|tr=[[ゆびわ]], ''yubiwa''}}
-* [[Karachay-Balkar]]: {{tø|krc|жюзюк|tr=cüzük|sc=Cyrl}},  {{tø|krc|джюзюк|tr=cüzük|sc=Cyrl}}
+* [[Karachay-Balkar]]: {{tø|krc|жюзюк|tr=cüzük|sc=Cyrl}}, {{tø|krc|джюзюк|tr=cüzük|sc=Cyrl}}
 * [[Karakalpak]]: {{tø|kaa|ju'zik}}
 {{trans-mid}}
 * Kazakh: {{t|kk|жүзік|tr=jüzik|sc=Cyrl|xs=Kazakh}}
-* [[Khakas]]: {{tø|kjh|чӱстӱк|tr=çüstük|sc=Cyrl}},  {{tø|kjh|пурба|tr=purba|sc=Cyrl}}
+* [[Khakas]]: {{tø|kjh|чӱстӱк|tr=çüstük|sc=Cyrl}}, {{tø|kjh|пурба|tr=purba|sc=Cyrl}}
 * Korean: [[가락지]] (garagji), [[반지]] ([[半指]], ''banji'')
 * [[Kumyk]]: {{tø|kum|юзюк|tr=yüzük|sc=Cyrl}}
 * Kurdish: {{ku-Arab|[[ئه‌نگوستیله‌]]}}, {{ku-Arab|[[ئه‌موستیله‌]]}}
-* [[Kyrgyz]]: {{t|ky|жүзүк|tr=cüzük|sc=Cyrl|xs=Kyrgyz}},  {{t|ky|шакек|tr=şakek|sc=Cyrl|xs=Kyrgyz}}
+* [[Kyrgyz]]: {{t|ky|жүзүк|tr=cüzük|sc=Cyrl|xs=Kyrgyz}}, {{t|ky|шакек|tr=şakek|sc=Cyrl|xs=Kyrgyz}}
 * Latin: {{t-|la|anulus|m}}
 * Latvian: [[gredzens]] {{m}}
 * Lithuanian: {{t|lt|žiedas|m}}
@@ -243,11 +243,11 @@
 * Slovak: [[prsteň]] {{m}}, [[obrúčka]] {{f}} (wedding ring)
 * Slovene: {{t+|sl|prstan|m}}
 * [[Southern Altai]]: {{tø|alt|јӱстӱк|tr=cüstük|sc=Cyrl}}
-* Spanish: {{t+|es|anillo|m}},  {{t-|es|sortija|f}}
+* Spanish: {{t+|es|anillo|m}}, {{t-|es|sortija|f}}
 * Swedish: {{t+|sv|ring|c}}
 * [[Tajik]]: {{t|tg|ангуштарин|tr=anguştarin|sc=Cyrl|xs=Tajik}}
-* [[Tatar]]: {{t|tt|yözek|xs=Tatar}},  {{t|tt|baldaq|xs=Tatar}}
-* [[Telugu]]: [[ఉంగరం]] (''uMgaraM'')
+* [[Tatar]]: {{t|tt|yözek|xs=Tatar}}, {{t|tt|baldaq|xs=Tatar}}
+* [[Telugu]]: [[ఉంగరం]] {{qualifier|uMgaraM}}
 * Turkish: {{t+|tr|yüzük}}
 * [[Turkmen]]: {{t|tk|ýüzük|xs=Turkmen}}
 * [[Tuvan]]: {{tø|tyv|чүстүк|tr=çüstük|sc=Cyrl}}
@@ -263,7 +263,7 @@
 * Estonian: {{t|et|rõngas}}
 * Finnish: {{t+|fi|rengas}}
 * German: {{t+|de|Ring|m}}
-* Hebrew: {{t|he|טבעת|f|tr=taba'at}},  {{t|he|צמיד|m|tr=tzamid}}
+* Hebrew: {{t|he|טבעת|f|tr=taba'at}}, {{t|he|צמיד|m|tr=tzamid}}
 * Irish: {{t+|ga|fáinne|f|xs=Irish}}
 {{trans-mid}}
 * Polish: [[obrączka]] {{f}}
@@ -292,7 +292,7 @@
 * Greek: {{t|el|αρένα|f|tr=aréna}}
 * Hebrew: {{t|he|זירה|f|tr=zira}}
 {{trans-mid}}
-* Hungarian: {{t|hu|szorító}},  {{t+|hu|ring}}
+* Hungarian: {{t|hu|szorító}}, {{t+|hu|ring}}
 * Irish: {{t+|ga|fáinne|f|xs=Irish}}
 * Japanese: {{t|ja|リング|tr=''ringu''}}
 * Norwegian: {{t+|no|ring|m}}
@@ -481,11 +481,11 @@ Verb is from Old English ''[[hringan]]''.
 
 =====Translations=====
 {{trans-top|to produce the sound of a bell or a similar sound}}
-* Arabic: {{Arab|[[طرق جرس]]}} (Taraqa jaras),  {{t|ar|رن|tr=ranna}}
+* Arabic: {{Arab|[[طرق جرس]]}} (Taraqa jaras), {{t|ar|رن|tr=ranna}}
 * Armenian: {{t-|hy|զանգել|tr=''zangel''}}
 * [[Catalan]]: [[dringar]], [[trucar]] (only door-bell)
 * Chinese:
-*: Mandarin: {{t|cmn|按鈴|sc=Hani}},  {{t|cmn|按铃|tr=ànlíng|sc=Hani}},  {{t-|cmn|響|sc=Hani}},  {{t-|cmn|响|tr=xiǎng|sc=Hani}}
+*: Mandarin: {{t|cmn|按鈴|sc=Hani}}, {{t|cmn|按铃|tr=ànlíng|sc=Hani}}, {{t-|cmn|響|sc=Hani}}, {{t-|cmn|响|tr=xiǎng|sc=Hani}}
 * Czech: {{t-|cs|zvonit}}
 * Dutch: {{t+|nl|bellen}}, {{t+|nl|klinken}}
 * Finnish: {{t+|fi|soida}}
@@ -496,7 +496,7 @@ Verb is from Old English ''[[hringan]]''.
 * [[Ido]]: {{t+|io|sonar|xs=Ido}}
 * Italian: {{t+|it|suonare}}
 * Japanese: {{t|ja|鳴る|tr=なる, ''naru''}}
-* Korean: [[울리다]] (''ullida'')
+* Korean: [[울리다]] {{qualifier|ullida}}
 * Norwegian: {{t+|no|ringe}}
 * Polish: {{t+|pl|dzwonić}}
 * Portuguese: {{t+|pt|tocar}}
@@ -520,7 +520,7 @@ Verb is from Old English ''[[hringan]]''.
 * Hungarian: {{t+|hu|csenget}}
 * Japanese: {{t|ja|鳴らす|tr=''narasu''}}
 * Norwegian: {{t+|no|ringe}}
-* Polish: [[uderzać]] (''w dzwon'')
+* Polish: [[uderzać]] {{qualifier|w dzwon}}
 * Romanian: {{t-|ro|bate}}
 * Russian: [[звонить]] (''zvonít’'') {{impf}}
 * Spanish: {{t+|es|sonar}}
@@ -559,7 +559,7 @@ Verb is from Old English ''[[hringan]]''.
 {{trans-bottom}}
 
 ===Etymology 3===
-A shortening of {{etyl|de|en}} {{term|Zahlring||lang=de|number(s) ring}}; coined by mathematician [[w:David Hilbert|David Hilbert]] in 1892, . (Reference: Harvey Cohn, ''Advanced Number Theory'', page 49.)
+A shortening of {{etyl|de}} {{term|Zahlring||lang=de|number(s) ring}}; coined by mathematician [[w:David Hilbert|David Hilbert]] in 1892, . (Reference: Harvey Cohn, ''Advanced Number Theory'', page 49.)
 
 ====Noun====
 {{en-noun}}
