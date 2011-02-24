@@ -1,27 +1,85 @@
-==English==
-
-===Pronunciation===
-* {{IPA|/zzz/|lang=ang}}
-* {{audio|Zzz.ogg|Audio (US)}}
-
-===Etymology===
-Supposed to represent the sound of snoring.
-
-===Interjection===
-{{en-interj}}
-
-# Implies that a particular character is [[asleep]].
-
-====See also====
-* [[z's]] or [[Z's]]
-* [[zzzs]]
-
-[[Category:English palindromes]]
-[[Category:Onomatopoeia]]
-[[Category:Sleep]]
-
-[[et:zzz]]
-[[es:zzz]]
-[[fr:zzz]]
-[[it:zzz]]
-[[ru:zzz]]
+//Contract: incrementSalary(String[], int[]) -> String[]
+/* Purpose: To take an array containing employee names and an array containing numbers and increment the 
+ * salaries of those employees whose name are entered in the first array by the corresponding percentages 
+ * entered in the second array.
+ */
+//Header: incrementSalary(arrayNames, arrayPercents){...}
+/* Examples:incrementSalary(new String[] {"SAMIR", "NISHA", "SHEKhaR"}, new int[] {15,5,10}) -> 
+ * { SAMIR:17480:Sales, NISHA:14175:Research, SHEKHAR:16775:Accounts }
+ */ 
+/* Dry Run:input:({"SAMIR", "NISHA", "SHEKhaR"},{15,5,10})
+ * output: { SAMIR:17480:Sales, NISHA:14175:Research, SHEKHAR:16775:Accounts }
+ */
+/* Test cases:
+ * Test case No.  Test case                                                                       Expected Output                                                       Actual Output
+ * ==========================================================================================================================================================================================
+ * Test case 1:  incrementSalary(new String[] {"SAMIR", "NISHA", null}, new int[] {15,5,10})       null                                                                  null
+ * Test case 2:  incrementSalary(new String[] {"SAMIR", "NISHA", "SHEKhaR"}, new int[] {15,5,10})  { SAMIR:17480:Sales, NISHA:14175:Research, SHEKHAR:16775:Accounts }   { SAMIR:17480:Sales, NISHA:14175:Research, SHEKHAR:16775:Accounts }
+ */ 
+//Program Implementation:
+class Test1
+{
+  public static String[] incrementSalary(String[] arrayNames,int[] arrayPercents)
+  {
+    if(validate(arrayNames,arrayPercents)!=1)
+      return null;
+    String[] empName = new String[]{"SAMIR","MANISH","SHEETAL","MAYANK","JAYANT","NISHA","SHEKHAR","PERVEZ"};
+    String[] empDeptID = new String[]{"SL","AC","SL","MG","RH","RH","AC","MG"};
+    int[] monthlySalary = new int[]{15200,11300,10050,10450,14050,13500,15250,11500};
+    //increment salary
+    int increment=0, flag=0;
+    int[] incrSalary = new int[arrayPercents.length];
+    String[] output = new String[arrayNames.length];
+    String dept="";
+    for(int i=0; i<arrayNames.length; i++) {
+      increment=0; 
+      flag=0;
+      for(int j=0; j<empName.length; j++) {
+        if(arrayNames[i].equalsIgnoreCase(empName[j])) {
+          flag=1;
+          increment = (monthlySalary[j] * arrayPercents[i]) / 100;
+          incrSalary[i] = monthlySalary[j] + increment;
+          if(empDeptID[j].equals("SL"))
+              dept="Sales";
+          else if(empDeptID[j].equals("MG"))
+              dept="Marketing";
+          else if(empDeptID[j].equals("AC"))
+              dept="Accounts";
+          else if(empDeptID[j].equals("RH"))
+              dept="Research";
+          else
+              dept="Not Found";
+          output[i] = empName[j].concat(":")+incrSalary[i]+":"+dept;
+        }
+        if(flag==0)
+          output[i] = arrayNames[i].concat(":Not Found");
+      }
+      
+    }
+    return output; 
+  }
+  //validate input
+  public static int validate(String[] arrayNames,int[] arrayPercents) {
+    if(arrayNames==null || arrayNames.length==0)
+      return -1;
+    if(arrayPercents==null || arrayPercents.length==0)
+      return -1;
+    if(arrayNames.length!=arrayPercents.length)
+      return -1;
+    for(int i=0; i<arrayPercents.length; i++) {
+      if(arrayPercents[i]<0 || arrayPercents[i]>100)
+        return -1;
+    }
+    for(int j=0; j<arrayNames.length; j++) {
+      if(arrayNames[j]==null)
+        return -1;
+      for(int k=j+1; k<arrayNames.length; k++) {
+        if(arrayNames[j].equalsIgnoreCase(arrayNames[k]))
+          return -1;
+      }
+    }
+    if(arrayNames.length>8)
+      return -1;
+    return 1;
+  }
+}
