@@ -2,16 +2,16 @@
 ==English==
 {{wikipedia|dab=car}}
 
-===Etymology===
+===Etymology 1===
 From {{etyl|enm|en}} {{term|carre|lang=enm}} < {{etyl|xno|en}} {{term|carre|lang=xno}} < {{etyl|la|en}} {{term|carra|lang=la}}, neuter plural of {{term|carrus||lang=la|four-wheeled baggage wagon}} Compare Celtic ''carr'' (two-wheeled chariot) < Gaulish ''karros'' < Proto-Indo-European ''*krsos'' < [[Proto-Indo-European]] base ''*kers-'' (to run).
 
-===Pronunciation===
-* {{IPA|/ˈkɑː/|/kɑr/}}
+====Pronunciation====
+* {{IPA|/ˈkɑː/|/ˈkɑr/}}
 * {{audio|en-us-car.ogg|Audio (US)}}
 * {{audio|En-uk-a car.ogg|Audio (UK)}}
 * {{rhymes|ɑː(r)}}
 
-===Noun===
+====Noun====
 {{en-noun}}
 
 # {{dated}} A [[wheeled]] [[vehicle]], drawn by a [[horse]] or other animal
@@ -48,7 +48,7 @@ Image:ZeppelinLZ127b.jpg|'''Car''' of a Zeppelin.
 Image:240 Sparks Elevators.jpg|Elevator '''cars'''.
 </gallery>
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|private vehicle that moves independently}} [[auto]], [[motorcar]], [[vehicle]]; [[automobile]] {{qualifier|US}}, [[motor]] {{qualifier|British colloquial}}, [[carriage]] {{qualifier|obsolete}}
 * {{sense|non-powered part of a train}} [[railcar]], [[wagon]]
 * {{sense|unit of quantity}} [[carload]], [[wagonload]]
@@ -56,7 +56,7 @@ Image:240 Sparks Elevators.jpg|Elevator '''cars'''.
 * {{sense|part of an airship}} [[gondola]], [[basket]] {{qualifier|balloons only}}
 * See also [[Wikisaurus:automobile]]
 
-====Derived terms====
+=====Derived terms=====
 * [[cable car]]
 * [[carfare]]
 * [[carman]]
@@ -64,7 +64,7 @@ Image:240 Sparks Elevators.jpg|Elevator '''cars'''.
 * [[carwash]]
 * [[car lot]]
 
-====Translations====
+=====Translations=====
 {{trans-top|automobile, a vehicle steered by a driver}}
 * [[Afrikaans]]: {{t-|af|kar|xs=Afrikaans}}, {{t|af|motorkar|xs=Afrikaans}}
 * [[Alabama]]: [[mobìlka]]
@@ -269,11 +269,26 @@ Image:240 Sparks Elevators.jpg|Elevator '''cars'''.
 * {{ttbc|tr}}: [[otomobil]]
 {{trans-bottom}}
 
-===See also===
+====See also====
 * [[bus]]
 * [[railroad car]]
 * [[truck]]
 * [[van]]
+
+=== Etymology 2 ===
+Acronym of ''[[contents|'''c'''ontents]] of the [[address|'''a'''dress]] part of [[register|'''r'''egister]] number''
+
+==== Pronunciation ====
+* {{IPA|/ˈkɑː/|/ˈkɑr/}}
+
+==== Noun ====
+{{en-noun}}
+# {{computing}} The first part of a [[cons]] in [[LISP]]. The first element of a list.
+#* Matt Kaufmann, Panagiotis Manolios, and J Strother Moore, ''Computer-aided reasoning: an approach'', 2000 :
+#*: ''The elements of a list are the successive '''cars''' along the "cdr chain." That is, the elements are the '''car''', the '''car''' of the cdr, the '''car''' of the cdr of the cdr, etc.''
+
+===== Antonym =====
+* [[cdr]]
 
 ===Anagrams===
 * {{alphagram|acr}}
