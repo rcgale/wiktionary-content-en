@@ -9,7 +9,7 @@
 * {{homophones|their|they're|lang=en}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{term|ther|lang=enm}} < {{etyl|ang|en}} {{term|þær|lang=ang}} < {{proto|Germanic|þar|lang=en}} < {{proto|Indo-European|tar-|there|lang=en}} < demonstrative pronominal base {{proto|Indo-European|to-|the, that|lang=en|title=}} + adverbial suffix {{proto|Indo-European|-r|lang=en|title=}}.
+From {{etyl|enm}} {{term|ther|lang=enm}} < {{etyl|ang}} {{term|þær|lang=ang}} < {{proto|Germanic|þar|lang=en}} < {{proto|Indo-European|tar-|there|lang=en}} < demonstrative pronominal base {{proto|Indo-European|to-|the, that|lang=en|title=}} + adverbial suffix {{proto|Indo-European|-r|lang=en|title=}}.
 
 ===Adverb===
 {{en-adv|-}}
@@ -90,10 +90,10 @@ From {{etyl|enm|en}} {{term|ther|lang=enm}} < {{etyl|ang|en}} {{term|þær|lang=
 * Faroese: {{t-|fo|har|xs=Faroese}}
 * Finnish:
 ** (''when the place'' '''''is pointed at''''': )
-*::: [[tuolla]] (''the place more distant or less accurately confined'')
+*::: [[tuolla]] {{qualifier|the place more distant or less accurately confined}}
 *::: [[tuossa]] (-"- ''less distant or more accurately confined'')
 *:* (''when the place'' '''''is not pointed at''''':)
-*::: [[siellä]] (''the place more distant or less accurately confined'')
+*::: [[siellä]] {{qualifier|the place more distant or less accurately confined}}
 *::: [[siinä]] (-"- ''less distant or more accurately confined'')
 * French: {{t+|fr|là}}, {{t+|fr|là-bas}}, {{t+|fr|y}}
 *: [[Old French]]: {{tø|fro|i}}, {{tø|fro|la}}
@@ -106,7 +106,7 @@ From {{etyl|enm|en}} {{term|ther|lang=enm}} < {{etyl|ang|en}} {{term|þær|lang=
 {{trans-mid}}
 * Icelandic: {{t+|is|þarna}}, {{t+|is|þar}}, {{t+|is|það}}
 * [[Ido]]: [[ibe]]
-* Indonesian: [[situ]] ''(less distant)'', [[sana]] ''(more distant)''
+* Indonesian: [[situ]] {{qualifier|less distant}}, [[sana]] {{qualifier|more distant}}
 * Irish: {{t-|ga|ansin|xs=Irish}}, {{t|ga|ansiúd|xs=Irish}}
 * Italian: {{t+|it|là}}, {{t+|it|ivi}}
 * Japanese: {{t+|ja|そこ|tr=sokó}}, {{t+|ja|あそこ|tr=asokó}}
@@ -137,7 +137,7 @@ From {{etyl|enm|en}} {{term|ther|lang=enm}} < {{etyl|ang|en}} {{term|þær|lang=
 * Swedish: {{t+|sv|där}}
 * [[Telugu]]: {{t|te|అక్కడ|tr=akkaDa}}
 * Thai: {{t|th|ที่นั่น|tr=têe nân|sc=Thai}}, {{t|th|ตรงนั้น|tr=dtrong nán|sc=Thai}}
-* Turkish: [[şurada]] ''(less distant)'', [[ora]], [[orada]] ''(more distant)''
+* Turkish: [[şurada]] {{qualifier|less distant}}, [[ora]], [[orada]] {{qualifier|more distant}}
 * Ukrainian: {{t|uk|там|tr=tam|sc=Cyrl}}
 * Urdu: {{t|ur|وہاں|tr=vahā̃|sc=ur-Arab}}
 * Vietnamese: {{t|vi|đằng kia}}, {{t|vi|đó}}
@@ -168,10 +168,10 @@ From {{etyl|enm|en}} {{term|ther|lang=enm}} < {{etyl|ang|en}} {{term|þær|lang=
 * Esperanto: {{t-|eo|tien|xs=Esperanto}}
 * Finnish:
 ** (''when the place'' '''''is pointed at''''': )
-*::: [[tuonne]] (''the place more distant or less accurately confined'')
+*::: [[tuonne]] {{qualifier|the place more distant or less accurately confined}}
 *::: [[tuohon]] (-"- ''less distant or more accurately confined'')
 *:* (''when the place'' '''''is not pointed at''''':)
-*::: [[sinne]] (''the place more distant or less accurately confined'')
+*::: [[sinne]] {{qualifier|the place more distant or less accurately confined}}
 *::: [[siihen]] (-"- ''less distant or more accurately confined'')
 * German: {{t+|de|dorthin}}, {{t+|de|dahin}}
 * Greek: [[εκείσε]] (ekíse), [[προς τα εκεί]] (pros ta ekí)
@@ -179,7 +179,7 @@ From {{etyl|enm|en}} {{term|ther|lang=enm}} < {{etyl|ang|en}} {{term|þær|lang=
 * Hebrew: [[‎לשם]]‎ (le-shám)
 * Hungarian: {{t+|hu|oda}}
 * Icelandic: {{t+|is|þangað}}
-* Indonesian: [[ke situ]] ''(less distant)'', [[ke sana]] ''(more distant)''
+* Indonesian: [[ke situ]] {{qualifier|less distant}}, [[ke sana]] {{qualifier|more distant}}
 * Irish: {{t-|ga|ansin|xs=Irish}}
 * Japanese: [[そこへ]] (sokó e), [[あそこへ]] (asokó e)
 * Latin: [[eo]], [[illuc]], [[istuc]]
@@ -191,13 +191,13 @@ From {{etyl|enm|en}} {{term|ther|lang=enm}} < {{etyl|ang|en}} {{term|þær|lang=
 * Spanish: [[por allí]], [[hacia allá]]
 * Swedish: {{t|sv|dit}} (''as exclamation: {{t|sv|där}}'')
 * [[Telugu]]: {{t|te|అక్కడికి}} (akkaDiki)
-* Turkish: [[şuraya]] ''(less distant)'', [[oraya]] ''(more distant)''
+* Turkish: [[şuraya]] {{qualifier|less distant}}, [[oraya]] {{qualifier|more distant}}
 * Ukrainian: [[туди]] (tudy)
 * Vietnamese: [[đằng kia]]
 {{trans-bottom}}
 
 {{trans-top|in existence}}
-* Finnish: (''omitted'')
+* Finnish: {{qualifier|omitted}}
 * German: {{t+|de|es}}
 {{trans-mid}}
 * [[Macedonian]]: {{t-|mk|има|tr=íma}}
