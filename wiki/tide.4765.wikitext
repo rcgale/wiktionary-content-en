@@ -6,10 +6,10 @@
 * {{enPR|tīd}}, {{IPA|/taɪd/}}, {{SAMPA|/taId/}}
 * {{audio|en-us-tide.ogg|Audio (US)}}
 * {{rhymes|aɪd}}
-* Homophones: [[tied]]
+* {{homophones|tied}}
 
 ===Etymology 1===
-{{etyl|enm|en}} {{term|tide|lang=enm}}, from {{etyl|ang|en}} {{term|tid|tīd|lang=ang}} 'time, while', from {{proto|Germanic}} ''*tīðiz'' (compare West Frisian {{term|tiid|lang=fy}}, Dutch {{term|tijd|lang=nl}}, German {{term|Zeit|lang=de}}, Swedish {{term|tid|lang=sv}}), from {{proto|Indo-European|dīti-|lang=en}} (compare Welsh ''dydd'' 'day', Albanian ''ditë'' 'day', Ancient Greek {{term|δαίεσθαι|tr=daíesthai|lang=grc}}, {{term|δαΐζω|tr=daḯzō|lang=grc}} 'to divide, distribute', Old Armenian {{term|տի|tr=ti||age|lang=xcl}}, Sanskrit ''dīti'' 'brightness; time' {{rfscript|Deva}}). Compare {{term|tidings}}, {{term|tidy}}, {{term|till}} (preposition). Related to [[time]], [[tin]].
+{{etyl|enm}} {{term|tide|lang=enm}}, from {{etyl|ang}} {{term|tid|tīd|lang=ang}} 'time, while', from {{proto|Germanic|tīðiz}} (compare West Frisian {{term|tiid|lang=fy}}, Dutch {{term|tijd|lang=nl}}, German {{term|Zeit|lang=de}}, Swedish {{term|tid|lang=sv}}), from {{proto|Indo-European|dīti-|lang=en}} (compare Welsh ''dydd'' 'day', Albanian ''ditë'' 'day', Ancient Greek {{term|δαίεσθαι|tr=daíesthai|lang=grc}}, {{term|δαΐζω|tr=daḯzō|lang=grc}} 'to divide, distribute', Old Armenian {{term|տի|tr=ti||age|lang=xcl}}, Sanskrit ''dīti'' 'brightness; time' {{rfscript|Deva}}). Compare {{term|tidings}}, {{term|tidy}}, {{term|till}} (preposition). Related to [[time]], [[tin]].
 
 ====Noun====
 {{en-noun}}
@@ -36,7 +36,7 @@
 * [[gravitational tide]]
 * [[high tide]]
 * [[hurricane tide]]
-* [[inferior tide]] <!-- See under [[inferior]] ''(adjective)'' -->
+* [[inferior tide]]<!-- See under [[inferior]] {{qualifier|adjective}} -->
 * [[king tide]]
 * [[land tide]]
 * [[low tide]]
@@ -97,7 +97,7 @@
 =====Translations=====
 {{trans-top|periodic change of sea level}}
 * [[Catalan]]: {{t|ca|marea|f}}
-* Czech: [[příliv]] {{m}} (''high tide''), [[odliv]] {{m}} (''low tide'')
+* Czech: [[příliv]] {{m}} {{qualifier|high tide}}, [[odliv]] {{m}} {{qualifier|low tide}}
 * Dutch: {{t-|nl|getijde|n}}, {{t-|nl|tij|n}}
 * Finnish: {{t+|fi|vuorovesi}}
 * French: {{t+|fr|marée|f}}
@@ -109,7 +109,7 @@
 * Japanese: [[潮]] (しお, ''shio'')
 * Latin: {{t+|la|aestus|m}}
 * [[Macedonian]]: {{qualifier|high tide}} {{t|mk|плима|f|tr=plíma}}, {{t-|mk|прилив|m|tr=príliv}}, {{qualifier|low tide}} {{t-|mk|осека|f|tr=óseka}}, {{t|mk|одлев|m|tr=ódliv}}
-* Polish: {{t|pl|pływ|m}}, {{t|pl|przypływ|m}} (''high''), {{t|pl|odpływ|m}} (''low'')
+* Polish: {{t|pl|pływ|m}}, {{t|pl|przypływ|m}} {{qualifier|high}}, {{t|pl|odpływ|m}} {{qualifier|low}}
 * Portuguese: {{t+|pt|maré|m}}
 * Russian: {{t+|ru|прилив|m|alt=прили́в}}
 * Serbian: (high tide): [[plima]] {{f}}, [[priliv]] {{m}}, (low tide): [[oseka]] {{f}}, [[odliv]] {{m}}
@@ -117,7 +117,7 @@
 {{trans-bottom}}
 
 {{trans-top|a current or stream in sea or tidal river}}
-* Greek: [[ρεύμα]] (''reuma'') {{n}}
+* Greek: {{t|el|ρεύμα|tr=reúma|n}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -132,7 +132,7 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|id}}: [[pasang]] (?)
+* {{ttbc|id}}: [[pasang]]
 * {{ttbc|ia}}: [[marea]]
 {{trans-mid}}
 * {{ttbc|vo}}: [[taid]]
@@ -163,7 +163,7 @@
 * [[spring]]
 
 ===Etymology 2===
-From {{etyl|enm|en}} [[tiden]], tide, from {{etyl|ang|en}} {{term|tidan|tīdan|to happen|lang=ang}}.
+From {{etyl|enm}} [[tiden]], tide, from {{etyl|ang}} {{term|tidan|tīdan|to happen|lang=ang}}.
 
 ====Verb====
 {{en-verb|tid|ing}}
@@ -201,14 +201,14 @@ From {{etyl|enm|en}} [[tiden]], tide, from {{etyl|ang|en}} {{term|tidan|tīdan|t
 
 ==Old English==
 
-===Etymology===
-{{etystub}}
-
 ===Noun===
-{{ang-noun|head=tīde}}
+{{infl|ang|noun form|head=tīde}}
 
-# accusative, genitive or dative singular of [[tid|tīd]]
-# nominative or accusative plural of [[tid|tīd]]
+# {{plural of|tid|tīd|lang=ang}}
+# {{form of|accusative singular|tid|tīd|lang=ang}}
+# {{form of|genitive singular|tid|tīd|lang=ang}}
+# {{form of|dative singular|tid|tīd|lang=ang}}
+# {{form of|accusative plural|tid|tīd|lang=ang}}
 
 [[de:tide]]
 [[et:tide]]
