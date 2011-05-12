@@ -312,6 +312,9 @@
 #: ''That interpretation certainly '''colors''' my perception of the book.''
 # To attribute a quality to.
 #: {{qualifier|colloquial}} '''''Color''' me confused.''
+# {{mathematics}} To [[assign]] colors to the [[vertex|vertices]] of (a [[graph]]) or the [[region]]s of (a [[map]]) so that no two [[adjacent]] ones have the [[same]] color.
+#: ''Can this graph be two-'''colored'''?''
+#: ''You can '''color''' any map with four colors.''
 
 ====Translations====
 {{trans-top|give something color}}
@@ -392,6 +395,10 @@
 * Dutch: {{t+|nl|kleuren}}
 {{trans-mid}}
 * Swedish: {{t|sv|färga}}
+{{trans-bottom}}
+
+{{trans-top|mathematics: assign distinct colors to the vertices or regions of}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
