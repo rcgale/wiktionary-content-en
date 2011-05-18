@@ -18,7 +18,6 @@
 * Armenian: {{t-|hy|Վոլգա|tr=Volga}}
 * [[Bashkir]]: {{tø|ba|Иҙел|tr=Iðel|sc=Cyrl}}
 * Belarusian: {{t|be|Волга|f|tr=Vólha|sc=Cyrl}}
-* Bosnian: {{t-|bs|Volga|f}}
 * Bulgarian: {{t|bg|Волга|f|tr=Vólga|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t|zh|伏爾加河|sc=Hani}}, {{t|zh|伏尔加河|tr=Fú'ěrjiā hé|sc=Hani}}
@@ -52,8 +51,8 @@
 * Romanian: {{t|ro|Volga|f}}
 * Russian: {{t+|ru|Волга|f|tr=Vólga}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|Волга|f|sc=Cyrl}}
-*: Latin: {{t|sh|Volga|f}}
+*: Cyrillic: {{t|sh|Волга|f|alt=Во̑лга|sc=Cyrl}}
+*: Latin: {{t|sh|Volga|f|alt=Vȏlga}}
 * Slovak: {{t|sk|Volga|f}}
 * Slovene: {{t|sl|Volga|f}}
 * Swedish: {{t-|sv|Volga}}
@@ -66,17 +65,6 @@
 [[Category:Rivers]]
 [[Category:Russia]]
 [[Category:Automobiles]]
-
-----
-
-==Bosnian==
-
-===Proper noun===
-{{infl|bs|proper noun|g=f}}
-
-# [[Volga#English|Volga]]
-
-[[Category:bs:Rivers]]
 
 ----
 
@@ -93,17 +81,29 @@
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
+
+===Pronunciation===
+* {{IPA|/ʋôːlɡa/|lang=sh}}
+* {{hyphenation|Vol|ga}}
 
 ===Proper noun===
-{{infl|sr|proper noun|g=f}}
+{{sh-proper-noun|g=f|head=Vȏlga|r|Волга|Во̑лга}}
 
-# [[Volga#English|Volga]]
+# [[#English|Volga]] (river)
 
-====See also====
-* [[Волга#Serbian|Волга]]
+====Declension====
+{{sh-decl-noun-unc
+|Volga
+|Volge
+|Volgi
+|Volgu
+|Volgo
+|Volgi
+|Volgom
+}}
 
-[[Category:sr:Rivers]]
+[[Category:sh:Rivers]]
 
 [[el:Volga]]
 [[fr:Volga]]
