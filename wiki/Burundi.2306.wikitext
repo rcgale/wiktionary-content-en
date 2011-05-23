@@ -12,12 +12,10 @@
 * Armenian: {{t-|hy|Բուրունդի|tr=Burundi}}
 * [[Basque]]: {{t|eu|Burundi}}
 * Bengali: {{t-|bn|বুরুন্ডি}}
-* Bosnian: {{t-|bs|Burundi}}
 * [[Breton]]: Burundi
 * Bulgarian: {{t-|bg|Бурунди|tr=Burúndi}}
 * Chinese:
 *: Mandarin: {{t-|cmn|布隆迪|tr=Bùlóngdí|sc=Hani}}
-* Croatian: {{t+|hr|Burundi|m}}
 * Czech: {{t+|cs|Burundi|n}}
 * Danish: {{t-|da|Burundi}}
 * Dutch: {{t+|nl|Burundi}}
@@ -47,9 +45,9 @@
 * Portuguese: [[Burúndi]]
 * Romanian: {{t-|ro|Burundi}}
 * Russian: {{t+|ru|Бурунди|f|tr=Burúndi}} {{indeclinable}}
-* Serbian:
-*: Cyrillic: [[Бурунди#Serbian|Бурунди]]
-*: Roman: [[#Serbian|Burundi]]
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|Бурунди|m|sc=Cyrl}}
+*: Roman: {{t-|sh|Burundi|m}}
 * Spanish: {{t+|es|Burundi}}
 * Swahili: {{t+|sw|Burundi|xs=Swahili}}
 * Swedish: {{t+|sv|Burundi}}
@@ -91,17 +89,6 @@
 
 [[Category:Breton proper nouns|burundi]]
 [[Category:br:Countries|burundi]]
-
-----
-
-==Croatian==
-
-===Proper noun===
-{{infl|hr|proper noun|g=m}}
-
-# [[#English|Burundi]]
-
-[[Category:hr:Countries]]
 
 ----
 
@@ -268,10 +255,25 @@
 
 ==Serbo-Croatian==
 
-===Proper noun===
-{{sh-proper noun|g=m|r|Бурунди}}
+===Pronunciation===
+* {{IPA|/burûndi/|lang=sh}}
+* {{hyphenation|Bu|run|di}}
 
-# {{l|en|Burundi}}
+===Proper noun===
+{{sh-proper-noun|g=m|head=Burȕndi|r|Бурунди|Буру̏нди}}
+
+# [[#English|Burundi]]
+
+====Declension====
+{{sh-decl-noun-unc
+|Burȕndi
+|Burȕndija
+|Burȕndiju
+|Burȕndi
+|Burȕndi
+|Burȕndiju
+|Burȕndijem
+}}
 
 [[Category:sh:Countries]]
 ----
