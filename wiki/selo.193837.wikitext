@@ -36,52 +36,52 @@ From Latin ''[[sigillum]]''
 
 ----
 
-==Serbian==
-
-===Etymology===
-From {{proto|Slavic|selo|lang=sr}}.
-
-===Noun===
-{{sr-noun|g=n|a=i|+|pl=sela|cyr=село}}
-
-# a [[village]]
-# the [[country]], [[countryside]]
-# [[rural]] [[area]]
-
-====Declension====
-{{sr-decl-noun|sc=Latn
-|sѐlo|sȅla
-|sѐla|sȇlȃ
-|sѐlu|sȅlima
-|sѐlo|sȅla
-|sѐlo|sȅla
-|sѐlom|sȅlima
-|sѐlu|sȅlima
-}}
-
-====Derived terms====
-* {{l|sr|seljak|sèljāk}}
-* {{l|sr|seoski|sèoskī}}
-
-----
-
 ==Serbo-Croatian==
 
-===Etymology===
+===Etymology 1===
 From {{proto|Slavic|selo|lang=sh}}.
 
-===Pronunciation===
+====Pronunciation====
 * {{IPA|/sělo/|lang=sh}}
 * {{hyphenation|se|lo}}
 
-===Noun===
+====Noun====
 {{sh-noun|g=n|head=sèlo|r|село|сѐло}}
 
 # a [[village]]
 # the [[country]], [[countryside]]
 # [[rural]] [[area]]
 
-====Declension====
+=====Declension=====
+{{sh-decl-noun
+|sèlo|sȅla / sèla
+|sèla|sȇlā / sélā
+|sèlu|sȅlima / sèlima
+|sèlo|sȅla / sèla
+|sèlo|sȅla / sèla
+|sèlu|sȅlima / sèlima
+|sèlom|sȅlima / sèlima
+}}
+
+=====Derived terms=====
+* {{l|sh|seljak|sèljāk}}
+* {{l|sh|seoski|sèoskī}}
+
+===Etymology 2===
+
+====Alternative forms====
+* (''Ijekavian''): {{l|sh|sijelo|sijélo}}
+
+====Pronunciation====
+* {{IPA|/sěːlo/|lang=sh}}
+* {{hyphenation|se|lo}}
+
+====Noun====
+{{sh-noun|g=n|head=sélo|r|село|се́ло}}
+
+# An evening [[party]] in the [[village]].
+
+=====Declension=====
 {{sh-decl-noun
 |selo|sela
 |sela|sela
@@ -91,10 +91,6 @@ From {{proto|Slavic|selo|lang=sh}}.
 |selu|selima
 |selom|selima
 }}
-
-====Derived terms====
-* {{l|sh|seljak|sèljāk}}
-* {{l|sh|seoski|sèoskī}}
 
 [[ast:selo]]
 [[br:selo]]
