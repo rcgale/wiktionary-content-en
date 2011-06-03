@@ -567,7 +567,7 @@ A shortening of {{etyl|de}} {{term|Zahlring||lang=de|number(s) ring}}; coined by
 ====Noun====
 {{en-noun}}
 
-# {{algebra}} An [[algebraic]] [[structure]] which consists of a [[set]] with two [[binary operations]], an [[additive operation]] and a [[multiplicative operation]], such that the set is an [[abelian group]] under the additive operation, a [[monoid]] under the multiplicative operation, and such that the multiplicative operation [[distributive|distributes]] with respect to the additive operation.
+# {{algebra}} An [[algebraic]] [[structure]] which consists of a [[set]] with two [[binary operations]], an [[additive operation]] and a [[multiplicative operation]], such that the set is an [[abelian group]] under the additive operation, a [[monoid]] under the multiplicative operation, and such that the multiplicative operation is [[distributive]] with respect to the additive operation.
 #: ''The set of integers, <math>\mathbb{Z}</math>, is the prototypical '''ring'''.''
 # {{algebra}} An algebraic structure as above, but only required to be a [[semigroup]] under the [[multiplicative operation]], that is, there need not be a multiplicative [[identity element]].
 #: ''The definition of ring without unity allows, for instance, the set <math>2\mathbb{Z}</math> of even integers to be a ring.''
