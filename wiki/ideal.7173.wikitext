@@ -104,7 +104,7 @@ From {{etyl|fr}} {{term|idéal}} < {{etyl|LL.}} {{term|idealis|ideālis|existing
 #: '''''Ideals''' are like stars; you will not succeed in touching them with your hands. But like the seafaring man on the desert of waters, you choose them as your guides, and following them you will reach your destiny'' - [[w:Carl Schurz|Carl Schurz]]
 # {{mathematics|order theory}} A [[subset]] of a [[partially ordered]] [[set]] comprising an [[element]] and all elements [[less]] than it.
 # {{context|for example|algebra}} A [[subring]] closed under multiplication by its containing [[ring]].
-#: Let <math>\mathbb{Z}</math> be the ring of integers and let <math>\mathfrak{e}</math> be its '''ideal''' of even integers.  Then the quotient ring <math>\mathbb{Z}/\mathfrak{e}</math> is a Boolean ring.
+#: Let <math>\mathbb{Z}</math> be the ring of integers and let <math>2\mathbb{Z}</math> be its '''ideal''' of even integers.  Then the quotient ring <math>\mathbb{Z} / 2\mathbb{Z}</math> is a Boolean ring.
 
 ====Derived terms====
 {{top4}}
