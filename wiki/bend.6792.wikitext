@@ -223,26 +223,40 @@ From {{etyl|enm}} {{term|benden}}, from {{etyl|ang}} {{term|bendan||to bind or b
 
 ----
 
-==Croatian==
-
-===Etymology===
-From {{etyl|en|hr}} {{term|band}}.
-
-===Noun===
-{{hr-noun|m}}
-
-# [[band]] (''group of musicians'')
-
-----
-
 ==Kurdish==
 
 ===Noun===
-'''bend'''
+{{infl|ku|noun}}
 
 # [[slave]]
 
-[[Category:Kurdish nouns]]
+----
+
+==Serbo-Croatian==
+
+===Etymology===
+From {{etyl|en|sh}} {{term|band|lang=en}}.
+
+===Pronunciation===
+* {{IPA|/bênd/|lang=sh}}
+
+===Noun===
+{{sh-noun|g=m|head=bȅnd|r|бенд|бе̏нд}}
+
+# [[band]] (group of musicians)
+
+====Declension====
+{{sh-decl-noun
+|bȅnd|bendovi / bendi
+|benda|bendova / benda
+|bendu|bendovima / bendima
+|bȅnd|bendove / bende
+|bȅnde|bendovi / bendi
+|bendu|bendovima / bendima
+|bendom|bendovima / bendima
+}}
+
+[[Category:sh:Music]]
 
 [[ar:bend]]
 [[cs:bend]]
