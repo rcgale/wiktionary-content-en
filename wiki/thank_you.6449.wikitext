@@ -18,8 +18,8 @@
 ====Translations====
 {{trans-top|an expression of gratitude}}
 * [[Afar]]: [[gadda ge]]
-* [[Afrikaans]]: [[dankie]], [[baie dankie]], {{t|af|dankie}}, {{t|af|baie dankie}}
-* Albanian: [[faleminderit]], [[ju falem nderit]], {{t|sq|faleminderit}}, {{t|sq|ju falem nderit}}
+* [[Afrikaans]]: {{t|af|dankie}}, {{t|af|baie dankie}}
+* Albanian: {{t|sq|faleminderit}}, {{t|sq|ju falem nderit}}
 *: [[Gheg]]: {{tø|aln|falimineres}}
 * [[Aleut]]: [[qaĝaasakuq]] (Atkan), [[qaĝaalakux̂]] (Eastern)
 * [[Alutiiq]]: {{tø|ems|quyanaa}}
@@ -42,7 +42,7 @@
 * Chinese:
 *: Cantonese: {{tø|yue|唔該|tr=m-goi}}, {{tø|yue|多謝|tr=do1 ze6}}, {{tø|yue|唔該|tr=m4 goi1}}
 *: Mandarin: {{t-|cmn|謝謝|sc=Hani}}, {{t-|cmn|谢谢|tr=xièxie|sc=Hani}}, {{t-|cmn|多謝|sc=Hani}}, {{t-|cmn|多谢|tr=duōxiè|sc=Hani}}, {{qualifier|slang}} {{t|zh|三Q|tr=sānQ|sc=Hani}}
-*: [[Min Nan]]: [[多謝]] (do shia), {{tø|nan|感謝|tr=kám-siā|sc=Hans}}
+*: [[Min Nan]]: {{tø|nan|多謝|tr=do shia}}, {{tø|nan|感謝|tr=kám-siā|sc=Hans}}
 * [[Cornish]]: {{t|kw|meur ras}}
 * Croatian: {{t-|hr|hvala}}, {{t|hr|mnogo hvala}}, {{t|hr|veoma hvala}}, {{t|hr|zahvaljujem}}, {{t|hr|mnogo Vam hvala}}
 * Czech: {{t-|cs|děkuji}}, {{t-|cs|děkuji vám}}, {{t-|cs|děkuji ti}}
@@ -55,11 +55,11 @@
 * Finnish: {{t+|fi|kiitos}}
 * French: {{t+|fr|merci}}, {{t|fr|je vous remercie}}
 * [[Fula]]: {{tø|ff|a jaraama}}
-* Georgian: [[მადლობთ]] (madlobt‘), {{t-|ka|გმადლობთ|sc=Geor|xs=Georgian}}
+* Georgian: {{t|ka|მადლობთ|tr=madlobt|sc=Geor|xs=Georgian}}, {{t-|ka|გმადლობთ|tr=gmadlobt|sc=Geor|xs=Georgian}}
 * German: {{t+|de|danke}}, {{t-|de|danke schön}}, {{t-|de|vielen Dank}}
 *: Bavarian: {{tø|bar|danksche|xs=Bavarian}}
 * [[Gilbertese]]: [[ko rabwa]], [[kam rabwa]] {{qualifier|to several people}}
-* Greek: {{t+|el|ευχαριστώ}} (efcharistó)
+* Greek: {{t+|el|ευχαριστώ|tr=efcharistó}}
 * [[Gujarati]]: {{t|gu|આભાર|tr=aabhaar|sc=Gujr|xs=Gujarati}}
 * [[Haitian Creole]]: {{tø|ht|mèsi}}
 * [[Hausa]]: {{t|ha|na gode|xs=Hausa}}
@@ -80,14 +80,14 @@
 * [[Jingpho]]: [[chyeju kaba sai yaw]]
 * [[Kannada]]: {{t|kn|ಧನ್ಯವಾದ|tr=dhanyavada|sc=Knda|xs=Kannada}}
 * Kazakh: {{t|kk|рахмет|tr=rahmet|sc=Cyrl|xs=Kazakh}}
-* [[Khmer]]: {{t-|km|អរគុណ|tr=or kun|sc=Khmr|xs=Khmer}}
+* [[Khmer]]: {{t-|km|អរគុណ|tr=ɑɑ kun|sc=Khmr|xs=Khmer}}
 * [[Kiowa]]: [[áho]]
 * [[Kongo]]: {{tø|kg|ntondele}}
 * Korean: {{t|ko|고맙습니다|tr=gomapseumnida|sc=Hang}}, {{t-|ko|감사합니다|tr=gamsahamnida|sc=Hang}}, {{t|ko|고마워|tr=gomawoe|sc=Hang}}
 {{trans-mid}}
 * Kurdish: [[spas]], {{ku-Arab|[[سوپاس]]}}
 * [[Ladin]]: [[giulan]]
-* [[Lao]]: {{Laoo|[[ຂອບໃຈ]]}} (kööp cai), {{t|lo|ຂອບໃຈ|tr=kööp cai|sc=Laoo}}
+* [[Lao]]: {{t|lo|ຂອບໃຈ|tr=kööp cai|sc=Laoo}}
 * Latin: {{t-|la|benigne dicis|alt=benignē dīcis}}, {{t-|la|tibi gratias ago|alt=tibi gratiās agō}}
 * Latvian: {{t+|lv|paldies|xs=Latvian}}
 * Lithuanian: {{t+|lt|ačiū|xs=Lithuanian}}
@@ -103,8 +103,6 @@
 * [[Nahuatl]]: [[tlazohcamati]]
 * Navajo: {{tø|nv|ahéheeʼ}}
 * [[Ngarrindjeri]]: {{tø|nay|anu nginti}}
-* [[Northeastern Thai]]: {{tø|tts|ขอบใจ|tr=khawp jai|sc=Laoo}}
-* [[Northern Uzbek]]: {{tø|uzn|рахмат |tr=rahmat|sc=Cyrl}}
 * Norwegian: {{t+|no|takk}}
 * [[Ojibwe]]: [[miigwech]], [[chi-miigwech]], [[gichi-miigwech]]
 * [[Omaha-Ponca]]: [[wiblaho]]
@@ -119,31 +117,32 @@
 * [[Quechua]]: [[agradiseyki]]
 * Romanian: {{t+|ro|mulţumesc}}, {{t+|ro|mersi}}
 * Russian: {{t+|ru|спасибо|tr=spasíbo}}, {{t|ru|благодарить|alt=благодарю|tr=blagodarjú}}
-* Sanskrit: {{t|sa|अनुगुरिहीतोसुमि |tr=anugurihītosumi|xs=Sanskrit}}
+* Sanskrit: {{t|sa|अनुगुरिहीतोसुमि|tr=anugurihītosumi|xs=Sanskrit}}
 * [[Scottish Gaelic]]: {{t-|gd|tapadh leat|xs=Scottish Gaelic}} {{qualifier|to one person, informal}}, {{t-|gd|tapadh leibh|xs=Scottish Gaelic}} {{qualifier|to one person, formal; to more than one person}}; {{t-|gd|mòran|xs=Scottish Gaelic}} {{t-|gd|taing|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: [[хвала]]
-*: Roman: [[hvala]]
-* Serbo-Croatian: {{t|sh|hvala|xs=Serbo-Croatian}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|хвала|sc=Cyrl}}
+*: Roman: {{t|sh|hvala|xs=Serbo-Croatian}}
 * [[Sindhi]]: (mehrbani, shukar), {{t|sd|مہربانی|tr=mehrbani|sc=sd-Arab|xs=Sindhi}}
 * [[Sinhalese]]: {{t|si|ඉස්තුති|tr=istuti|sc=Sinh|xs=Sinhalese}}, {{t|si|ස්තුති|tr=stuti|sc=Sinh|xs=Sinhalese}}
-* Slovak: [[ďakujem]] {{qualifier|I thank you}}, [[ďakujeme]] {{qualifier|we thank you}}, {{qualifier|I thank you}} {{t|sk|ďakujem}}, {{t|sk|ďakujeme|tr=we thank you}}
+* Slovak: {{t|sk|ďakujem}} {{qualifier|I thank you}}, {{t|sk|ďakujeme|tr=we thank you}} {{qualifier|we thank you}}
 * Slovene: {{t+|sl|hvala}}
 * [[South Azerbaijani]]: {{tø|azb|تشکر اﺪﺮﻢ|tr=tesekkur edirem|sc=fa-Arab}}
 * Spanish: {{t+|es|gracias}}, {{t-|es|muchas gracias}}
 * [[Sundanese]]: {{t|su|nuhun|xs=Sundanese}}
 * Swedish: {{t+|sv|tack}}
 * [[Tagalog]]: {{t-|tl|salamat|xs=Tagalog}}
-* [[Tajik]]: {{t|tg|рахмат |tr=rakhmat|sc=Cyrl|xs=Tajik}}
+* [[Tajik]]: {{t|tg|рахмат|tr=raxmat|sc=Cyrl|xs=Tajik}}
 * [[Tamil]]: {{t|ta|நன்றி|tr=nandri|xs=Tamil}}
 * [[Telugu]]: {{t|te|ధన్యవాదాలు|tr=dhanyavaadaalu}}
 * Thai: {{t-|th|ขอบคุณ|tr=kòp-kuun}}
+*: [[Northeastern Thai]]: {{tø|tts|ขอบใจ|tr=khawp jai|sc=Laoo}}
 * [[Tswana]]: {{t-|tn|ke a leboga|xs=Tswana}}
 * Turkish: {{t+|tr|teşekkür ederim}}, {{t+|tr|mersi}}, {{t-|tr|teşekkürler}}
 * [[Tzutujil]]: ''maltiox''
 * Ukrainian: {{t|uk|дякую|tr=djákuju|xs=Ukrainian}}, {{t|uk|спасибi|tr=spasýbi|xs=Ukrainian}}
 * Urdu: {{t-|ur|دھنیہ واد|tr=dhanya-vād|xs=Urdu}}, {{t-|ur|شکریہ|tr=šukriyā|xs=Urdu}}, {{t|ur|نوازش|tr=nevaziš|xs=Urdu}}
 * Uzbek: {{t|uz|рахмат|tr=rahmat}}, {{t|uz|rahmat}}
+*: [[Northern Uzbek]]: {{tø|uzn|рахмат|tr=rahmat|sc=Cyrl}}
 * Vietnamese: {{t+|vi|cám ơn|xs=Vietnamese}} ({{t-|vi|感恩|sc=Hani|xs=Vietnamese}}) (''plus one of:'' [[ông]], [[bà#Vietnamese|bà]], [[cô#Vietnamese|cô]], [[anh#Vietnamese|anh]], [[chị]], [[em#Vietnamese|em]], [[quí vị]] &ndash; ''depending on subject of gratitude'')
 * Welsh: {{t+|cy|diolch|xs=Welsh}}
 * [[Western Panjabi]]: {{tø|pnb|شُکریا|tr=shukriya|sc=pa-Arab}}
