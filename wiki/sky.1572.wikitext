@@ -42,7 +42,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 ====Translations====
 {{trans-top|atmosphere above a point}}
 * [[Ainu]]: [[ニシ|ニ<span style="font-size:70%;">シ</span>]] (nis)
-* Arabic: {{Arab|[[سماء|سَمَاء]]}} {{IPAchar|(sámaa’)}} {{m|f}}, {{Arab|[[سماوات|سَمَاوَات]]}} (samawaat) {{p}}
+* Arabic: {{t|ar|سماء|tr=sámaa’|m|f|sc=Arab}}, {{Arab|[[سماوات|سَمَاوَات]]}} (samawaat) {{p}}
 *: [[Egyptian Arabic]]: {{tø|arz|سما|f|tr=sama|sc=Arab}}
 * Aramaic:
 *: Syriac: [[ܫܡܝܐ]] (šmayā’) {{c}}
@@ -54,10 +54,11 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * [[Baure]]: {{tø|brg|ani}}
 * Bengali: {{t|bn|আকাশ|tr=akash|sc=Beng}}
 * Bosnian: {{t-|bs|nebo|n}}
-* Bulgarian: {{t+|bg|небе|n|tr=nebe}}
+* Bulgarian: {{t+|bg|небе|n|tr=nébe}}
 * [[Central Atlas Tamazight]]: [[igenna]] {{m}}, [[igenni]] {{m}}, [[agenna]] {{m}}{{rfscript|Tamazight}}
 * [[Chamicuro]]: {{tø|ccc|ikejta}}
-* Chinese: [[天空]] (tiānkōng)
+* Chinese:
+*: [[Mandarin]]: {{t|zh|天空|tr=tiānkōng|sc=Hani}}
 * Croatian: {{t+|hr|nebo|n}}
 * Czech: {{t+|cs|nebe|n}}
 * Danish: {{t-|da|himmel}}
@@ -72,18 +73,18 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Greek: {{t+|el|ουρανός|m|tr=ouranós}}
 * [[Haitian Creole]]: {{tø|ht|syèl}}
 * Hawaiian: [[lani]]
-* Hebrew: [[שמיים]] (šamayím) {{f}}
+* Hebrew: {{t|he|שמיים|tr=shamayím|f|sc=Hebr}}
 * [[Hiligaynon]]: {{tø|hil|ginhanan|xs=Hiligaynon}}
-* Hindi: [[आसमान]] (āsmān) {{m}}, [[आकाश]] (ākāš) {{m}}, [[गगन]] (gagan)
+* Hindi: {{t|hi|आसमान|m|tr=āsmān|sc=Deva}}, {{t|hi|आकाश|m|tr=ākāś|sc=Deva}}, {{t|hi|गगन|tr=gagan|sc=Deva}}
 * Hungarian: {{t+|hu|ég}}, {{t+|hu|égbolt}}
 * Icelandic: {{t+|is|himinn|m}}
 * [[Ido]]: {{t+|io|cielo|xs=Ido}}
 * Irish: {{t+|ga|aer|m|xs=Irish}}
 * Italian: {{t+|it|cielo|m}}
-* Japanese: [[空]] (そら, sora), {{t|ja|大空|tr=おおぞら, ōzora|sc=Jpan}}
-* Kazakh: {{t|kk|аспан|sc=Cyrl|xs=Kazakh}} (aspan)
+* Japanese: {{t|ja|空|tr=そら, sora|sc=Jpan}}, {{t|ja|大空|tr=おおぞら, ōzora|sc=Jpan}}
+* Kazakh: {{t|kk|аспан|tr=aspan|sc=Cyrl|xs=Kazakh}}
 * [[Khmer]]: {{t|km|មេឃ|tr=meek|sc=Khmr}}
-* Korean: [[하늘]] (haneul)
+* Korean: {{t|ko|하늘|tr=haneul|sc=Hang}}
 * Kurdish: {{t+|ku|ئاسمان|sc=ku-Arab}}
 {{trans-mid}}
 * [[Latgalian]]: {{tø|ltg|dabasi}}
@@ -103,7 +104,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * [[Old Prussian]]: [[dāngs]] {{m}}
 * [[Parthian]]: {{tø|xpr|assamän}}
 * [[Pashto]]: {{t-|ps|هسك|m|tr=hask|sc=ps-Arab|xs=Pashto}}, {{t-|ps|آسمان|m|tr=āsmān|sc=ps-Arab|xs=Pashto}}
-* Persian: {{t+|fa|آسمان|xs=Persian}}, {{t|fa|سپهر|xs=Persian}}
+* Persian: {{t+|fa|آسمان|tr=âsemân, âsmân|xs=Persian}}, {{t|fa|سپهر|xs=Persian}}
 * Polish: {{t+|pl|niebo|n}}, {{t+|pl|firmament|m}}
 * Portuguese: {{t+|pt|céu|m}}
 * [[Rarotongan]]: [[rangi]]
@@ -122,7 +123,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * [[Tahitian]]: [[ra’i]]
 * [[Taos]]: [[p’ȍpə́na]]
 * [[Tatar]]: {{t+|tt|күк|sc=Cyrl|xs=Tatar}}
-* Thai: {{t+|th|ฟ้า}}
+* Thai: {{t+|th|ฟ้า|tr=fáa}}
 * Turkish: {{t+|tr|gökyüzü}}, {{t+|tr|gök}}
 * Ukrainian: {{t+|uk|небо|n|tr=nébo|xs=Ukrainian}}
 * Urdu: {{t+|ur|آسمان|m|tr=āsmān|xs=Urdu}}, {{t+|ur|آکاش|m|tr=ākāš|xs=Urdu}}
