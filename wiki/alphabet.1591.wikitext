@@ -50,15 +50,15 @@ From {{etyl|LL.}} {{term|alphabetum|alphabētum|lang=la}} < {{etyl|grc}} {{term|
 * [[Afrikaans]]: {{t+|af|alfabet|xs=Afrikaans}}
 * Albanian: {{t+|sq|alfabet|xs=Albanian}}
 * Alsatian: [[Alphabet]]
-* Arabic: {{Arab|[[حروف الهجاء|حُرُوفُ الهِجَاء]]}} {{IPAchar|(ħurúːf al-hijáː’)}}, {{Arab|[[ابجد|أبْجَد]]}} {{IPAchar|(’ábʤad)}}, {{Arab|[[الألفباء|الألِفْبَاء]]}} {{IPAchar|(al-’alifbáː’)}}, {{t|ar|حروف الهجاء|m|p|tr=Huruuf al-hijaa'|sc=Arab}}, {{t|ar|أبجد|m|tr=’ábjad|sc=Arab}}, {{t|ar|الألفباء|m|tr=al-'alifbaa|sc=Arab}}
+* Arabic: {{t|ar|حروف الهجاء|m|p|tr=Huruuf al-hijaa'|sc=Arab}}, {{t|ar|أبجد|m|tr=’ábjad|sc=Arab}}, {{t|ar|الألفباء|m|tr=al-'alifbaa|sc=Arab}}
 * Armenian: {{t+|hy|այբուբեն|tr=aybuben}}
 * [[Asturian]]: [[alfabetu]] {{m}}
 * Belarusian: {{t|be|алфавіт|m|tr=alfavít|sc=Cyrl}}, {{t|be|азбука|f|tr=ázbuka|sc=Cyrl}}
 * Bengali: {{t|bn|বর্ণমালা|tr=barṇamālā|sc=Beng|xs=Bengali}}
 * Bosnian: {{t+|bs|abeceda|f}}
-* Bulgarian: [[азбука]] (ázbuka), {{t|bg|азбука|f|tr=ázbuka|sc=Cyrl}}
+* Bulgarian: {{t|bg|азбука|f|tr=ázbuka|sc=Cyrl}}
 * [[Catalan]]: {{t|ca|alfabet|m}}, {{t|ca|abecedari|m}}
-* Chinese: [[字母]] (zìmǔ)
+* Chinese:
 *: Mandarin: {{t|zh|字母|tr=zìmǔ|sc=Hani}}
 * Croatian: {{t+|hr|abeceda|f|alt=abecéda}}, {{t-|hr|alfabet|m|alt=alfàbēt}}
 * Czech: {{t+|cs|abeceda|f}}
@@ -73,8 +73,8 @@ From {{etyl|LL.}} {{term|alphabetum|alphabētum|lang=la}} < {{etyl|grc}} {{term|
 * Georgian: {{t-|ka|ანბანი|tr=anbani|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Alphabet|n}}
 * Greek: {{t+|el|αλφάβητο|n}} (alfávito)
-* Hebrew: [[אלף־בית]] (alef-bét), [[אלפבית]] (alpabet), {{t|he|אלף־בית|m|tr=alef-bét|sc=Hebr}}, {{t|he|אלפבית|m|tr=alpabet|sc=Hebr}}
-* Hindi: {{t+|hi|वर्णमाला|f|xs=Hindi}}, {{t-|hi|मूलाक्षर|xs=Hindi}}, {{t|hi|वर्णमाला|f|tr=varṇamālā|sc=Deva}}, {{t|hi|मूलाक्षर|tr=mūlākṣar|sc=Deva}}
+* Hebrew: {{t|he|אלף־בית|m|tr=alef-bét|sc=Hebr}}, {{t|he|אלפבית|m|tr=alpabet|sc=Hebr}}
+* Hindi: {{t+|hi|वर्णमाला|f|tr=varṇamālā|sc=Deva}}, {{t|hi|मूलाक्षर|tr=mūlākṣar|sc=Deva}}
 * Hungarian: {{t+|hu|ábécé}}
 * Icelandic: {{t+|is|stafróf|n}}, {{t-|is|rittáknakerfi|n}}
 * [[Ido]]: [[alfabeto]]
@@ -82,13 +82,13 @@ From {{etyl|LL.}} {{term|alphabetum|alphabētum|lang=la}} < {{etyl|grc}} {{term|
 * [[Interlingua]]: [[alphabeto]]
 * Irish: {{t|ga|aibítir|f}}, {{t|ga|aibidil|f}}
 * Italian: {{t+|it|alfabeto|m}}
-* Japanese: {{t+|ja|アルファベット|tr=arufabetto}}, {{t+|ja|文字|tr=moji}}
+* Japanese: {{t+|ja|アルファベット|tr=arufabetto}}, {{t+|ja|文字|tr=もじ, moji}}
 * [[Javanese]]: {{t-|jv|aksara|xs=Javanese}}, {{t|jv|alfabèt|xs=Javanese}}
 * [[Kannada]]: {{t|kn|ಅಕ್ಷರಮಾಲೆ|sc=Knda|xs=Kannada}}
 * Kazakh: {{t|kk|әліпби|tr=älipbï|sc=Cyrl}}, {{t|kk|әліппе|tr=älippe|sc=Cyrl}}
 * {{trreq|Khmer}}
 {{trans-mid}}
-* Korean: [[알파벳]] (alpabet), {{t|ko|알파벳|tr=alpabet|sc=Kore}}
+* Korean: {{t|ko|알파벳|tr=alpabet|sc=Kore}}
 * Latin: {{t+|la|alphabetum|n}}, {{t+|la|abecedarium|n|alt=abecedārium}}
 * Lithuanian: [[abėcėlė]] {{f}}, [[alfabetas]] {{m}}
 * [[Macedonian]]: {{t|mk|азбука|f|tr=ázbuka|sc=Cyrl}}
@@ -111,10 +111,10 @@ From {{etyl|LL.}} {{term|alphabetum|alphabētum|lang=la}} < {{etyl|grc}} {{term|
 * Slovene: {{t+|sl|abeceda|f}}
 * Spanish: {{t+|es|alfabeto|m}}, {{t+|es|abecedario|m}}
 * Swedish: {{t+|sv|alfabet|n}}
-* [[Tamil]]: {{t-|ta|அகரவரிசை|xs=Tamil}}, {{t|ta|அகரவரிசை|tr=aharavarisai|sc=Taml}}
+* [[Tamil]]: {{t|ta|அகரவரிசை|tr=aharavarisai|sc=Taml}}
 * [[Tatar]]: [[älifba]]
 * [[Telugu]]: {{t|te|అక్షరమాల|tr=aksharamaala}}
-* Thai: {{Thai|[[ตัวอักษร]]}} (tua akson), {{Thai|[[อักษร]]}} (akson), {{t|th|ตัวอักษร|tr=dtua àksŏn|sc=Thai}}, {{t|th|อักษร|tr=àksŏn|sc=Thai}}
+* Thai: {{t|th|ตัวอักษร|tr=dtua àksŏn|sc=Thai}}, {{t|th|อักษร|tr=àksŏn|sc=Thai}}
 * Turkish: {{t|tr|alfabe}}, {{t+|tr|abece}}
 * Ukrainian: {{t+|uk|абетка|f|tr=abétka|xs=Ukrainian}}, {{t+|uk|алфавіт|m|tr=alfávít|xs=Ukrainian}}, {{t+|uk|азбука|f|tr=azbúka|xs=Ukrainian}}, {{t-|uk|альфабет|m|tr=al’fabét|xs=Ukrainian}}
 * Urdu: {{t|ur|حروف تہجی|xs=Urdu}}
@@ -126,7 +126,7 @@ From {{etyl|LL.}} {{term|alphabetum|alphabētum|lang=la}} < {{etyl|grc}} {{term|
 * Faroese: {{t|fo|stavrað|n}}
 * {{trreq|ne}}
 * {{trreq|sa}}
-* Yiddish: {{t|yi|אלפאבעט|tr=Ibet|sc=Hebr}}
+* Yiddish: {{t|yi|אלפאבעט|tr=ibet|sc=Hebr}}
 {{trans-bottom}}
 
 ====See also====
