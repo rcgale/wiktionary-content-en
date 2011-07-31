@@ -9,7 +9,6 @@
 {{ picdiclabel | color=FFFF00 | fontsize=18 | posx=100 | posy=100 | link=yellow | align=left }}
 {{ picdiclabel | color=7FFF00 | fontsize=18 | posx=100 | posy=120 | link=green | align=left }}
 {{ picdiclabel | color=0000FF | fontsize=18 | posx=100 | posy=140 | link=blue | align=left }}
-{{ picdiclabel | color=0000FF | fontsize=18 | posx=100 | posy=160 | link=bright blue | align=left}}
 {{ picdiclabel | color=8F00FF | fontsize=18 | posx=100 | posy=180 | link=violet | align=left }}
 {{ picdiclabel | color=000000 | fontsize=18 | posx=100 | posy=200 | link=black | align=left }}
 {{ picdiclabel | color=2F4F4F | fontsize=18 | posx=100 | posy=220 | link=grey | align=left }}
