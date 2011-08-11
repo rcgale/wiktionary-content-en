@@ -52,8 +52,8 @@ For the plural of the noun, the spelling ''dos'' would be correct; ''do’s'' is
 {{trans-bottom}}
 
 ====Verb====
-{{rfc}}
-{{en-verb|'''[[does]]''' ''or'' (''archaic'') '''[[doth]]'''|'''[[doing]]'''|did|done}}
+{{rfc|lang=en}}
+{{en-verb|'''[[does]]''' ''or'' {{qualifier|archaic}} '''[[doth]]'''|'''[[doing]]'''|did|done}}
 * Another archaic form is the second-person singular present tense '''[[dost]]'''.
 
 # {{auxiliary}} {{non-gloss definition|A [[syntactic]] [[marker]] in [[question]]s.}}
@@ -111,7 +111,7 @@ For the plural of the noun, the spelling ''dos'' would be correct; ''do’s'' is
 # {{transitive}} To [[impersonate]] or [[depict]].
 #: ''They really laughed when he '''did''' Clinton, with a perfect accent and a leer.''
 # {{transitive|slang}} To [[kill]].
-#* {{quote-book|2004|Patrick Stevens|Politics Is the Greatest Game: A Johannesburg Liberal Lampoon|url=http://books.google.com/books?id=dn_lTbIUDXgC|isbn=1857565665|page=314||passage=He's gonna '''do''' me, Jarvis.  I kid you not, this time he's gonna '''do''' me proper.}}
+#* {{quote-book|2004|Patrick Stevens|Politics Is the Greatest Game: A Johannesburg Liberal Lampoon|url=http://books.google.com/books?id=dn_lTbIUDXgC|isbn=1857565665|page=314||passage=He's gonna '''do''' me, Jarvis. I kid you not, this time he's gonna '''do''' me proper.}}
 #* {{quote-book|2007|E.J. Churchill|page=153|pageurl=http://books.google.com/books?id=ytW6LcwIrXQC&pg=PA153|The Lazarus Code
 |passage=The order came and I '''did''' him right there. The bullet went right where it was supposed to go.}}
 # {{transitive|slang}} To have [[sex]] with. (''See also'' '''[[do it]]''')
@@ -196,7 +196,7 @@ For the plural of the noun, the spelling ''dos'' would be correct; ''do’s'' is
 * Indonesian: {{t|id|buat|xs=Indonesian}}, {{t-|id|laku|melakukan|xs=Indonesian}}
 * Irish: {{t-|ga|déan|xs=Irish}}, {{qualifier|Munster}} {{t-|ga|dein|xs=Irish}}
 * Italian: {{t+|it|fare}}
-* Japanese: {{t+|ja|する|tr=surú}},  {{t-|ja|やる|tr=yaru}}, {{t-|ja|なさる|tr=nasaru}} {{qualifier|honorific}},  {{t-|ja|致す|tr=いたす, itasu}} {{qualifier|humble}}
+* Japanese: {{t+|ja|する|tr=surú}}, {{t-|ja|やる|tr=yaru}}, {{t-|ja|なさる|tr=nasaru}} {{qualifier|honorific}}, {{t-|ja|致す|tr=いたす, itasu}} {{qualifier|humble}}
 * Korean: {{t+|ko|하다|tr=hada|sc=Hang}}
 {{trans-mid}}
 * Kurdish:
@@ -257,7 +257,7 @@ For the plural of the noun, the spelling ''dos'' would be correct; ''do’s'' is
 * Polish: {{t-|pl|bzykać}} (kogoś/sb), {{t-|pl|przelecieć}} (kogoś/sb)
 * Portuguese: {{t+|pt|comer}}
 * [[Sindhi]]: {{t|sd|يَهَڻُ|sc=sd-Arab}}
-* Spanish: {{t+|es|coger}}, {{t+|es|culear}},  {{t+|es|joder}}
+* Spanish: {{t+|es|coger}}, {{t+|es|culear}}, {{t+|es|joder}}
 * Turkish: {{t+|tr|yatmak}}
 {{trans-bottom}}
 
@@ -298,8 +298,8 @@ For the plural of the noun, the spelling ''dos'' would be correct; ''do’s'' is
 * Dutch: ''translated by inversion''
 * Esperanto: {{not used|eo}}
 * Finnish: {{t-|fi|-ko}}, {{t-|fi|-kö}}
-* French: [[est-ce que]] {{italbrac|or translated by inversion of the verb and subject}}
-* German: {{not used|de}}, {{t+|de|tun}} {{italbrac|in poor colloquial speech, certain diaclects, baby-language, etc.}}
+* French: [[est-ce que]] {{qualifier|or translated by inversion of the verb and subject}}
+* German: {{not used|de}}, {{t+|de|tun}} {{qualifier|in poor colloquial speech, certain diaclects, baby-language, etc.}}
 {{trans-mid}}
 * Italian: {{not used|it}}
 * Kurdish: {{t+|ku|gelo}}, {{t+|ku|aya}}, {{t+|ku|ma}}
@@ -398,7 +398,7 @@ From {{etyl|it}} {{term|do|lang=it}}.
 * {{a|US}} {{enPR|dō}}, {{IPA|/doʊ/}}, {{SAMPA|/doU/}}
 * {{audio|en-us-do-music.ogg|Audio (US)}}
 * {{rhymes|əʊ}}
-* Homophones: [[doe]], [[dough]]
+* {{homophones|doe|dough}}
 
 ====Noun====
 {{en-noun}}
@@ -637,16 +637,16 @@ From {{etyl|sga|ga}} {{term|do|lang=sga}} < {{proto|Celtic|tu|to|lang=ga}}.
 
 =====Inflection=====
 {{ga-prep-infl
-|1sg    = dom
-|2sg    = duit
-|2sgem  = duitse
-|3sgm   = dó
+|1sg = dom
+|2sg = duit
+|2sgem = duitse
+|3sgm = dó
 |3sgmem = dósan
-|3sgf   = di
-|1pl    = dúinn
-|2pl    = daoibh
-|3pl    = dóibh
-|3plem  = dóibhsean
+|3sgf = di
+|1pl = dúinn
+|2pl = daoibh
+|3pl = dóibh
+|3plem = dóibhsean
 }}
 
 =====Usage notes=====
@@ -1083,7 +1083,7 @@ Old Spanish ''do'', short for ''[[donde]]''
 # [[where]]
 
 ===Noun===
-{{es-noun-m}}
+{{es-noun|m}}
 
 # [[do]] {{qualifier|musical note}}
 
@@ -1095,7 +1095,7 @@ Old Spanish ''do'', short for ''[[donde]]''
 
 # [[where]]
 
-===Derived terms===
+====Derived terms====
 * [[doquier]]
 
 ----
