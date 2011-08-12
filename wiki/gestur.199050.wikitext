@@ -1,13 +1,16 @@
 ==Faroese==
 
+===Etymology===
+From {{etyl|non|fo}} {{term|gestr|lang=non}}, from {{proto|Germanic|gastiz|lang=fo}}.
+
 ===Pronunciation===
 * {{IPA|[ˈdʒɛstʊr]|lang=fo}}
 
 ===Etymology===
-From {{etyl|non|fo}} ''[[gestr]]''.
+From {{etyl|non|fo}} {{term|gestr|lang=non}}.
 
 ===Noun===
-'''gestur''' {{m}}
+{{infl|fo|noun|g=m}}
 
 # [[guest]]
 
@@ -15,23 +18,22 @@ From {{etyl|non|fo}} ''[[gestr]]''.
 {{fo-decl-noun-m15|gest}}
 
 ====Antonyms====
-* [[vertur]] (host)
-
-[[Category:Faroese nouns]]
+* {{sense|guest}} {{l|fo|vertur}}
 
 ----
 
 ==Icelandic==
 
 ===Etymology===
-From {{etyl|non|is}} {{term|gestr}}.
+From {{etyl|non|is}} {{term|gestr|lang=non}}, from {{proto|Germanic|gastiz|lang=is}}.
 
 ===Pronunciation===
-* {{IPA|[ˈcɛstʏr]|lang=is}}
+* {{IPA|/ˈcɛstʏr/|lang=is}}
 *: {{rhymes|ɛstʏr|lang=is}}
+*: Homophones: {{l|is|Gestur}}
 
 ===Noun===
-{{infl|is|noun|g=m}}
+{{is-noun|m|gests|gestir}}
 
 # [[guest]]
 # [[visitor]]
@@ -40,7 +42,7 @@ From {{etyl|non|is}} {{term|gestr}}.
 {{is-decl-noun-m-s2|g|e|st|ur|i=i}}
 
 ====Antonyms====
-* [[gestgjafi]]
+* {{sense|guest}} {{l|is|gestgjafi}}
 
 [[de:gestur]]
 [[et:gestur]]
