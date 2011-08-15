@@ -51,7 +51,27 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|beon|bēon|bees|lang=ang}}, nominati
 ----
 
 ==Dutch==
-
+{{ picdic
+| image=Beine.JPG
+| width=310
+| labels=
+<!-- Paard -->
+{{ picdiclabel | color=white | fontsize=12 | posx= 20 | posy= 90 | link=knie }}
+{{ picdiclabel | color=black | fontsize=12 | posx= 80 | posy=160 | link=enkel | align=left }}
+<!-- Wolf -->
+{{ picdiclabel | color=white | fontsize=12 | posx=115 | posy=100 | link=knie | align=left }}
+{{ picdiclabel | color=black | fontsize=12 | posx=165 | posy=170 | link=enkel | align=left }}
+<!-- Mens -->
+{{ picdiclabel | color=black | fontsize=12 | posx=260 | posy= 35 | link=heup }}
+{{ picdiclabel | color=black | fontsize=12 | posx=260 | posy= 80 | link=dij }}
+{{ picdiclabel | color=black | fontsize=12 | posx=260 | posy=130 | link=knie }}
+{{ picdiclabel | color=black | fontsize=12 | posx=275 | posy=180 | link=kalf | anchor=#Etymology 2 }}
+{{ picdiclabel | color=black | fontsize=12 | posx=270 | posy=235 | link=enkel | align=left }}
+{{ picdiclabel | color=black | fontsize=12 | posx=240 | posy=220 | link=voet | align=right }}
+| detail1=Click on labels in the image
+| detail2=
+{{ picdicimg | link=limb }}
+}}
 ===Etymology===
 From {{etyl|odt|nl}} *{{term||bēn|lang=odt}}, from {{proto|Germanic|bainan|lang=nl}}.
 
