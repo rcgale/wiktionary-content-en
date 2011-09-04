@@ -14,7 +14,7 @@ From the ending of the words ''[[quintuple]]'', ''[[sextuple]]''; from Latin ''[
 {{en-noun}}
 
 # {{set theory}} A [[finite]] [[sequence]] of [[term]]s.
-#: ''A '''tuple''' is not merely a totally-ordered set because the same element can appear more than once in a '''tuple''': for example, <math>(a, b, a)</math> qualifies as a 3-'''tuple''' whereas it would not qualify as a totally-ordered set, because the set would be <math>\{a, b\}</math> where <math>a \le b </math> and <math>b \le a</math> so that <math>a = b</math>; i.e., it would actually be a one-element set, not even just two-element.''
+#: ''A '''tuple''' is not merely a totally-ordered set because the same element can appear more than once in a '''tuple''': for example, <math>(a, b, a)</math> qualifies as a 3-'''tuple''' whereas it would not qualify as a totally-ordered set, because the set would be <math>\{a, b\}</math> where <math>a \le b </math> and <math>b \le a</math> so that <math>a = b</math>; i.e., it would actually be a one-element set, <math>\{a\}</math>, not even just two-element.''
 # {{computing}} A single [[row]] in a [[relational database]].
 # {{computing}} A [[set]] of comma-separated [[value]]s passed to a program or operating system as a [[parameter]] to a [[function]] [[call]].
 
