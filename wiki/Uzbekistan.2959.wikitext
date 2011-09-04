@@ -25,19 +25,20 @@ Uncertain.
 * [[Afrikaans]]: {{t|af|Oesbekistan|xs=Afrikaans}}
 * Albanian: {{t-|sq|Uzbekistani|xs=Albanian}}
 * [[Alemannic]]: [[Usbekistan]]
-* Arabic: {{Arab|[[أوزبكستان]]}} (’uzbakistān) {{m}}
+* Arabic: {{t|fara|أوزبكستان|m|tr='uzbakistaan|sc=Arab}}
 * [[Aragonese]]: [[Usbekistán]]
 * Armenian: {{t-|hy|Ուզբեկստան|Uzbekstan}}
 * [[Asturian]]: [[Uzbequistán]]
 * [[Azeri]]: {{t|az|Özbəkistan|xs=Azeri}}
 * [[Bashkir]]: [[Үзбәкстан]]
 * [[Basque]]: {{t|eu|Uzbekistan}}
-* Belarusian: {{t|be|Узбекістан|xs=Belarusian}}, {{t|be|Узбекістан|m|tr=Uzbekistán|sc=Cyrl}}
+* Belarusian: {{t|be|Узбекістан|m|tr=Uzbekistán|sc=Cyrl}}
 * Bengali: {{t-|bn|উজবেকিস্তান}}, {{t|bn|উজবেকিস্তান|tr=ujbekistan|sc=Beng}}
 * [[Bishnupriya Manipuri]]: [[উজবেকিস্তান]]
 * [[Breton]]: {{t|br|Ouzbekistan|xs=Breton}}
-* Bulgarian: {{t+|bg|Узбекистан}}
+* Bulgarian: {{t+|bg|Узбекистан|m|tr=Uzbekistán|sc=Cyrl}}
 * Chinese:
+*: [[Hakka]]: [[Vû-tsṳ̂-phe̍t-khiet-sṳ̂-thán]]
 *: Mandarin: {{t-|cmn|烏茲別克斯坦|sc=Hani}}, {{t-|cmn|乌兹别克斯坦|tr=Wūzībiékèsītǎn|sc=Hani}}, {{qualifier|short form}} {{t-|cmn|烏茲別克|sc=Hani}}, {{t-|cmn|乌兹别克|tr=Wūzībiékè|sc=Hani}}
 *: [[Wu]]: [[乌字别基斯当]]
 * [[Chuvash]]: {{tø|cv|Узбекистан|sc=Cyrl|xs=Chuvash}}
@@ -54,11 +55,10 @@ Uncertain.
 * [[Frisian]]: [[Oezbekistan]]
 * [[Galician]]: {{t+|gl|Usbequistán|xs=Galician}}
 * Georgian: {{t|ka|უზბეკეთი|tr=uzbeket'i|sc=Geor|xs=Georgian}}
-* German: {{t+|de|Usbekistan}}
-* Greek: {{t+|el|Ουζμπεκιστάν|n}}
-* [[Hakka]]: [[Vû-tsṳ̂-phe̍t-khiet-sṳ̂-thán]]
-* Hebrew: {{t|he|אוזבקיסטן}}
-* Hindi: {{t|hi|उज़्बेकिस्तान|xs=Hindi}}, {{t|hi|उज़्बेकिस्तान|tr=uzbekistān|sc=Deva}}
+* German: {{t+|de|Usbekistan|n}}
+* Greek: {{t+|el|Ουζμπεκιστάν|n|tr=Ouzbekistán}}
+* Hebrew: {{t|he|אוזבקיסטן|m}}
+* Hindi: {{t|hi|उज़्बेकिस्तान|m|tr=uzbekistān|sc=Deva}}
 * Hungarian: {{t+|hu|Üzbegisztán}}
 * Icelandic: {{t+|is|Úsbekistan}}
 * [[Interlingua]]: Uzbekistan
@@ -68,12 +68,12 @@ Uncertain.
 * [[Kamba]]: {{tø|kam|Usimbekistani}}
 * [[Kannada]]: [[ಉಜ್ಬೇಕಿಸ್ಥಾನ್]]
 * [[Karakalpak]]: [[O'zbekstan]]
-* Kazakh: [[Өзбекстан]], {{t|kk|Өзбекстан|tr=Özbekstan|sc=Cyrl}}
+* Kazakh: {{t|kk|Өзбекстан|tr=Özbekstan|sc=Cyrl}}
 * {{trreq|Khmer}}
-* Korean: [[우즈베키스탄]] (ujeubekiseutan), {{t|ko|우즈베키스탄|tr=Ujeubekiseutan|sc=Kore}}
+* Korean: {{t|ko|우즈베키스탄|tr=Ujeubekiseutan|sc=Kore}}
 * Kurdish: [[Ûzbêkistan]]
 {{trans-mid}}
-* [[Kyrgyz]]: [[Өзбекстан]] (Özbekstan), {{t|ky|Өзбекстан|tr=Özbekstan|sc=Cyrl}}
+* [[Kyrgyz]]: {{t|ky|Өзбекстан|tr=Özbekstan|sc=Cyrl}}
 * Latin: {{t|la|Usbecia}}
 * Latvian: {{t|lv|Uzbekistāna|xs=Latvian}}
 * [[Limburgish]]: [[Oesbekistan]]
@@ -92,7 +92,7 @@ Uncertain.
 * [[Occitan]]: [[Ozbequistan]]
 * Ossetic: [[Узбекистан]]
 * [[Pashto]]: {{t-|ps|ازبکستان|sc=ps-Arab|xs=Pashto}}
-* Persian: {{fa-Arab|[[ازبکستان]]}} (Ozbakestan), {{t|fa|ازبکستان|tr=Ozbakestân|sc=fa-Arab}}
+* Persian: {{t|fa|ازبکستان|tr=Ozbakestân|sc=fa-Arab}}
 * Polish: {{t+|pl|Uzbekistan|m}}
 * Portuguese: {{t+|pt|Usbequistão|m}}
 * [[Quechua]]: [[Usbiksuyu]]
@@ -106,18 +106,18 @@ Uncertain.
 *: Roman: {{t|sh|Uzbekistan|m}}
 * [[Silesian]]: [[Ůzbekistan]]
 * Slovene: {{t|sl|Uzbekistan|m}}
-* Spanish: {{t+|es|Uzbekistán}}
+* Spanish: {{t+|es|Uzbekistán|m}}
 * Swahili: {{t|sw|Uzibekistani}}, {{t|sw|Uzibeki}}
 * Swedish: {{t+|sv|Uzbekistan}}
-* [[Tajik]]: [[Ӯзбакистон]], {{t|tg|Ӯзбакистон|tr=Ūzbakiston|sc=Cyrl}}
+* [[Tajik]]: {{t|tg|Ӯзбакистон|tr=Ūzbakiston|sc=Cyrl}}
 * [[Tamil]]: {{t|ta|உஸ்பெகிஸ்தான்|xs=Tamil}}
 * [[Telugu]]: {{t|te|ఉజ్బెకిస్తాన్}}
-* Thai: {{Thai|[[ประเทศอุซเบกิสถาน]]}} (bpràtâyt ùsábaygìttăan)
+* Thai: {{t|th|ประเทศอุซเบกิสถาน|m|tr=bpràtêt ùsábaygìttăan|sc=Thai}}, {{t|th|อุซเบกิสถาน|m|tr=ùsábaygìttăan|sc=Thai}}
 * Turkish: {{t+|tr|Özbekistan}}
 * [[Turkmen]]: [[Özbegystan]], {{t|tk|Özbegistan}}, {{t|tk|Özbegystan}}
 * [[Udmurt]]: [[Узбекистан]]
-* Ukrainian: {{t+|uk|Узбекистан|xs=Ukrainian}}, {{t|uk|Узбекистан|m|tr=Uzbekystán|sc=Cyrl}}
-* Urdu: {{t-|ur|ازبکستان|xs=Urdu}}, {{t|ur|ازبکستان|m|tr=uzbekistān|sc=ur-Arab}}
+* Ukrainian: {{t+|uk|Узбекистан|m|tr=Uzbekystán|sc=Cyrl}}
+* Urdu: {{t|ur|ازبکستان|m|tr=uzbekistān|sc=ur-Arab}}
 * Uzbek: {{t-|uz|O'zbekiston|xs=Uzbek}}
 * [[Volapük]]: [[Lusbekän]]
 * [[Wolof]]: [[Usbekistaan]]
