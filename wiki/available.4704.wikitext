@@ -28,14 +28,14 @@
 * {{sense|such as can be availed of}} [[unavailable]]
 
 ====Translations====
-{{trans-top|ready for use}}
+{{trans-top|capable of being used}}
 * Bulgarian: {{t|bg|годен}},  {{t|bg|полезен}}
 * [[Catalan]]: {{t|ca|disponible }}
 * Czech: {{t|cs|k dispozici}}
 * Danish: {{t|da|tilgængelig}}
 * Dutch: {{t+|nl|beschikbaar}}
 * Esperanto: {{t-|eo|preta|xs=Esperanto}}
-* Finnish: {{t|fi|käytettävä}}, {{t|fi|käytettävissä}} {{t+|fi|oleva}}, {{t-|fi|saatavilla}}, {{t-|fi|käsillä}}
+* Finnish: {{t|fi|käytettävissä}} {{t+|fi|oleva}}, {{t-|fi|saatavilla}} oleva, {{t-|fi|käsillä}} oleva
 * French: {{t+|fr|disponible}}
 * German: {{t+|de|verfügbar}}, {{t+|de|disponibel}}
 * Hungarian: {{t|hu|rendelkezésre álló}}
@@ -58,7 +58,7 @@
 * Danish: {{t|da|tilgængelig}}
 * Dutch: {{t+|nl|beschikbaar}}
 * Esperanto: {{t-|eo|havebla|xs=Esperanto}}
-* Finnish: {{t-|fi|saatavilla}} {{t+|fi|oleva}}
+* Finnish: {{t-|fi|saatavilla}} {{t+|fi|oleva}}, {{t|fi|saatavissa}} oleva
 * French: {{t+|fr|disponible}}
 * German: {{t+|de|verfügbar}}, {{t+|de|disponibel}}
 * Greek: {{t+|el|διαθέσιμος|f|tr=diathésimos}}
@@ -73,24 +73,29 @@
 * Swedish: {{t+|sv|tillgänglig}}
 {{trans-bottom}}
 
-{{trans-top|having sufficient power or efficacy; valid}}
-* Bulgarian: {{t+|bg|валиден}}
-* Czech: {{t|cs|platný}}
-* Esperanto: {{t-|eo|valida|xs=Esperanto}}
-* German: {{t|de|gültig}}
+{{trans-top|law: valid}}
+* Finnish: {{t|fi|lainvoimainen}}, {{t|fi|validi}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|having sufficient power or efficacy}}
+* Finnish: {{t|fi|kelvollinen}}; {{qualifier|to be valid}} {{t|fi|tulla kysymykseen}}, {{t|fi|kelvata}}
 * Hungarian: {{t+|hu|érvényes}}
 {{trans-mid}}
-* Italian: {{t+|it|valido}}
-* Korean: {{t|ko|유효한|tr=yuhyohan|sc=Kore}}
 * Portuguese: {{t+|pt|válido}}
-* Romanian: {{t|ro|valid}}
-* Russian: {{t|ru|действительный|tr=dejstvítel’nyj|sc=Cyrl}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|eo}}: [[havebla]]
+* {{ttbc|Bulgarian}}: {{t+|bg|валиден}}
+* {{ttbc|Czech}}: {{t|cs|platný}}
+* {{ttbc|Esperanto}}: [[havebla]], {{t-|eo|valida|xs=Esperanto}}
+* {{ttbc|German}}: {{t|de|gültig}}
+* {{ttbc|Italian}}: {{t+|it|valido}}
 {{trans-mid}}
+* {{ttbc|Korean}}: {{t|ko|유효한|tr=yuhyohan|sc=Kore}}
 * {{ttbc|ku}}: [[berdest]]
+* {{ttbc|Romanian}}: {{t|ro|valid}}
+* {{ttbc|Russian}}: {{t|ru|действительный|tr=dejstvítel’nyj|sc=Cyrl}}
 {{trans-bottom}}
 
 [[et:available]]
