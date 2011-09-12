@@ -14,10 +14,13 @@
 * Czech: {{t-|cs|Bohdan|m}}
 * Hungarian: {{t|hu|Bogdán}}
 * Romanian: {{t-|ro|Bogdan}}
+* Russian: {{t+|ru|Богдан|m|tr=Bogdán}}
 {{trans-mid}}
-* Russian: {{t+|ru|Богдан}}
-* Slovak: {{t|sk|Bohdan}}
-* Slovene: {{t|sl|Bogdan}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|Богдан|m|alt=Бо̀гда̄н|sc=Cyrl}}
+*: Roman: {{t-|sh|Bogdan|m|alt=Bògdān}}
+* Slovak: {{t|sk|Bohdan|m}}
+* Slovene: {{t|sl|Bogdan|m}}
 * Ukrainian: {{t-|uk|Богдан|m|tr=Bohdán|xs=Ukrainian}}
 {{trans-bottom}}
 
@@ -50,26 +53,28 @@ From {{etyl|sla|ro}} ''[[Богдан]]''
 ===Etymology===
 From {{proto|Slavic|bogъ|god|lang=sh}} + ''danъ'' (participle of {{proto|Slavic|dati|to give|lang=sh}}).<ref>{{R:Melnychuk 1982|Богдан}}</ref>
 
+===Pronunciation===
+* {{IPA|/bǒɡdaːn/|lang=sh}}
+* {{hyphenation|Bog|dan}}
+
 ===Proper noun===
-{{sh-proper noun|g=m|r|Богдан}}
+{{sh-proper-noun|g=m|head=Bògdān|r|Богдан|Бо̀гда̄н}}
 
 # {{given name|male|lang=sh}}.
 
 ====Declension====
-{{sh-decl-noun|sc=Latn
-|Bogdan|-
-|Bogdana|-
-|Bogdanu|-
-|Bogdana|-
-|Bogdane|-
-|Bogdanom|-
-|Bogdanu|-
+{{sh-decl-noun-unc
+|Bògdān
+|Bogdána
+|Bogdánu
+|Bogdána
+|Bȍgdāne
+|Bogdánom
+|Bogdánu
 }}
 
 ===References===
 <references/>
-
-{{attention|sh}}
 
 [[fr:Bogdan]]
 [[no:Bogdan]]
