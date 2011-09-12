@@ -2,7 +2,7 @@
 {{wikipedia|dab=brush (disambiguation)}}
 
 ===Etymology===
-{{etyl|enm}} ''[[brusshe#Middle English|brusshe]]'' from {{etyl|fro}} ''[[broisse#Old French|broisse]]'' (compare Modern {{etyl|fr|-}} ''[[brosse#French|brosse]]'') from {{{etyl|VL.|en}} *{{term||bruscia}} of {{etyl|gem}} origin, from {{proto|Germanic|bruskaz|underbrush|lang=en}} from {{proto|Indo-European|bhreus-|to swell, sprout|lang=en}}. Akin to {{etyl|gmh|-}} ''[[bürste#Middle High German|bürste]]'' "brush", {{etyl|ang|-}} ''[[byrst#Old English|byrst]]'' "bristle", {{etyl|gmh|-}} ''[[broz#Middle High German|broz]]'' "a bud, shoot", [[Old English]] ''[[breost|brēost]]'' "breast", {{proto|Slavic|bъrščь|lang=ru}} "[[hogweed]]".
+{{etyl|enm}} {{term|brusshe|lang=enm}} from {{etyl|fro}} {{term|broisse|lang=fro}} (compare Modern {{etyl|fr|-}} {{term|brosse|lang=fr}}) from {{{etyl|VL.|en}} {{recons|bruscia|lang=VL.}} of {{etyl|gem}} origin, from {{proto|Germanic|bruskaz|underbrush|lang=en}} from {{proto|Indo-European|bhreus-|to swell, sprout|lang=en}}. Akin to {{etyl|gmh|-}} {{term|bürste||brush|lang=gmh}}, {{etyl|ang|-}} {{term|byrst||bristle|lang=ang}}, {{etyl|gmh|-}} {{term|broz||a bud, shoot|lang=gmh}}, {{etyl|ang|-}} {{term|breost|brēost|breast|lang=ang}}, {{proto|Slavic|bъrščь|hogweed|lang=}}.
 
 ===Pronunciation===
 * {{IPA|/bɹʌʃ/}}
@@ -35,20 +35,20 @@
 * [[Catalan]]: [[raspall]], {{m}}
 * Chinese:
 *: Mandarin: {{t|cmn|刷子|tr=shuāzi|sc=Hani}}, {{t-|cmn|刷|tr=shuā|sc=Hani}}
-* Czech: [[štětec]] {{m}} (''painting''), [[štětka]] {{f}} (''painting''), [[kartáč]] {{m}} (''cleaning'')
+* Czech: [[štětec]] {{m}} {{qualifier|painting}}, [[štětka]] {{f}} {{qualifier|painting}}, [[kartáč]] {{m}} {{qualifier|cleaning}}
 * Danish: {{t-|da|børste|c}}
-* Dutch: [[borstel]] {{m}}; (''paint-'') [[verfborstel]]; (''hair-'') [[haarborstel]]; (''tooth-'') [[tandenborstel]]
+* Dutch: [[borstel]] {{m}}; {{qualifier|paint-}} [[verfborstel]]; {{qualifier|hair-}} [[haarborstel]]; {{qualifier|tooth-}} [[tandenborstel]]
 * Estonian: [[pintsel]]
-* Finnish: {{t+|fi|harja}} (''cleaning, hair''), {{t-|fi|sivellin}} (''painting'')
+* Finnish: {{t+|fi|harja}} {{qualifier|cleaning, hair}}, {{t-|fi|sivellin}} {{qualifier|painting}}
 * French: {{t+|fr|brosse|f}}
 * Georgian: {{t|ka|ჯაგრისი|tr=ǰagrisi|sc=Geor}}, {{t|ka|ფუნჯი|tr=p'unǰi|sc=Geor}}, {{t|ka|ყალამი|tr=qalami|sc=Geor}}
-* German: [[Bürste]] {{f}}; (''paint-'') [[Pinsel]] {{m}}
+* German: [[Bürste]] {{f}}; {{qualifier|paint-}} [[Pinsel]] {{m}}
 * Greek: {{t+|el|βούρτσα|f|tr=voúrtsa}}
 * [[Greenlandic]]: {{t|kl|børsti}}
 * Hebrew: {{t+|he|מברשת|f|tr=mivréshet}}
-* Hungarian: {{t+|hu|kefe}}, {{t+|hu|seprű}}; (''paint-'') {{t+|hu|ecset}}
+* Hungarian: {{t+|hu|kefe}}, {{t+|hu|seprű}}; {{qualifier|paint-}} {{t+|hu|ecset}}
 * Icelandic: ("paint-") {{t|is|pensill|m}} ("hair-") {{t|is|bursti|m}}, {{t|is|hárbursti|m}} ("tooth-") {{t|is|tannbursti|m}}
-* [[Ido]]: {{t+|io|pinselo|xs=Ido}} (''painting''), {{t+|io|brosilo|xs=Ido}} (''cleaning'')
+* [[Ido]]: {{t+|io|pinselo|xs=Ido}} {{qualifier|painting}}, {{t+|io|brosilo|xs=Ido}} {{qualifier|cleaning}}
 * Indonesian: {{t+|id|sikat|xs=Indonesian}}
 {{trans-mid}}
 * Italian: {{t+|it|spazzola|f}}, {{t+|it|pennello|m}}
@@ -62,9 +62,9 @@
 * [[Luxembourgish]]: {{t|lb|Biischt|f}}
 * [[Novial]]: [[brose]]
 * Polish: {{t+|pl|szczotka|f}}
-* Portuguese: {{t+|pt|brocha|f}} (''for painting''), {{t+|pt|escova|f}} (''for hair or cleanliness'')
-* Romanian: [[perie]] {{f}}; (''paint-'') [[pensulă]] {{f}}
-* Russian: {{t+|ru|щётка|f|tr=ščótka}}; (''paint-'') {{t|ru|кисть|f|tr=kistʹ}}
+* Portuguese: {{t+|pt|brocha|f}} {{qualifier|for painting}}, {{t+|pt|escova|f}} {{qualifier|for hair or cleanliness}}
+* Romanian: [[perie]] {{f}}; {{qualifier|paint-}} [[pensulă]] {{f}}
+* Russian: {{t+|ru|щётка|f|tr=ščótka}}; {{qualifier|paint-}} {{t|ru|кисть|f|tr=kistʹ}}
 * [[Scottish Gaelic]]: {{t|gd|sguab|f}}
 * Serbian: [[četka]] {{f}}, [[četkica]] {{f}}, [[kist]] {{m}}, [[kičica]] {{f}}
 * Slovene: {{t+|sl|čopič|m}}
@@ -120,7 +120,7 @@
 {{trans-bottom}}
 
 {{trans-top|short experience}}
-* Finnish: {{t-|fi|kosketus}} (''neutral''), {{t|fi|hankaus}} (''antagonistic'')
+* Finnish: {{t-|fi|kosketus}} {{qualifier|neutral}}, {{t|fi|hankaus}} {{qualifier|antagonistic}}
 * French: {{t+|fr|accrochage|m}}
 {{trans-mid}}
 * Italian: [[incontro]] {{m}}; [[scontro]] {{m}}
@@ -248,7 +248,7 @@
 * Spanish: {{t+|es|rozar}}
 {{trans-bottom}}
 
-===Derived terms===
+====Derived terms====
 {{rel-top3|Terms derived from the noun or verb "brush"}}
 * [[as daft as a brush]]
 * [[bottle brush]]
