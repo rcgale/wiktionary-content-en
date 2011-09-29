@@ -19,6 +19,7 @@ From {{etyl|frm|en}} {{term|predicate|lang=frm}} (French ''[[prédicat]]''), fro
 #: ''A nullary '''predicate''' is a proposition.  Also, an instance of a '''predicate''' whose terms are all constant &mdash; e.g., P(2,3) &mdash; acts as a proposition.
 #: ''A '''predicate''' can be thought of as either a relation (between elements of the domain of discourse) or as a truth-valued function (of said elements).''
 #: ''A '''predicate''' is either valid, satisfiable, or unsatisfiable.''
+#: ''There are two ways of binding a <b>predicate</b>'s variables: one is to assign constant values to those variables, the other is to quantify over those variables (using universal or existential quantifiers).  If all of a <b>predicate</b>'s variables are bound, the resulting formula is a proposition.''
 # {{computing}} An [[operator]] or [[function]] that returns either true or false.
 
 =====Derived terms=====
