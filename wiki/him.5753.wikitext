@@ -33,60 +33,78 @@
 #*:Lowe quit the West Wing last year amid rumours that he was unhappy that his co-stars earned more than '''him'''.
 
 ====Translations====
-{{trans-top|him}}
+{{trans-top|dative / indirect object}}
+*Belarusian: {{t|be|яму|tr=jamú|xs=Belarusian}}
+*Czech: {{t|cz|mu}}, {{t|cz|jemu}}
+*Esperanto: {{t|eo|al}}, {{t|eo|li}}
+*French: {{t|fr|lui}}
+*German: {{t|de|ihm}}
+*Hungarian: {{t|hu|neki}}
+{{trans-mid}}
+*Italian: {{t|it|gli}}
+*Latin: {{t+|la|ei}}, {{t|la|illi}}
+*Russian: {{t-|ru|ему|tr=jemú}}
+*Turkish: {{t|tr|ona}}
+*Ukrainian: {{t|uk|йому|tr=jomú|xs=Ukrainian}}
+{{trans-bottom}}
+
+{{trans-top|objective after preposition}}
+*Czech: {{t|cz|mu}}, {{t|cz|jemu}}
+*Esperanto: {{t|eo|li}}
+*French: {{t|fr|lui}}
+{{trans-mid}}
+*Italian: {{t|it|lui}}
+*Latin: {{qualifier|after preposition that governs the accusative}} {{t-|la|eum}}, {{qualifier|after preposition that governs the dative}} {{t+|la|ei}}, {{qualifier|after preposition that governs ablative}} {{t+|la|eo}}, {{qualifier|after preposition that governs the ablative}} {{t+|la|eo}}
+{{trans-bottom}}
+
+{{trans-top|accusative / direct object}}
+*Belarusian: {{t|be|яго|tr=jahó|xs=Belarusian}}
+*Czech: {{t|cz|ho}}, {{t|cz|jeho}}
+*French: {{t|fr|le}}
+*German: {{t|de|ihn}}
+*Hungarian: {{t|hu|őt}}
+{{trans-mid}}
+*Italian: {{t|it|lo}}
+*Latin: {{t-|la|eum}}, {{t|la|illum}}
+*Russian: {{t+|ru|его|tr=jegó}}
+*Turkish: {{t|tr|onu}}
+*Ukrainian: {{t|uk|його|tr=johó|xs=Ukrainian}}
+{{trans-bottom}}
+
+{{trans-see|he}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|himself}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|translations to be checked}}
 * Albanian: {{t+|sq|atij|xs=Albanian}}
 * Arabic: {{t-|ar|ه|alt=ـه|tr=-hu}}
 *: Egyptian Arabic: {{tø|arz|ه|alt=ـه|tr=-u|sc=Arab|xs=Egyptian Arabic}}
 * Armenian: {{t-|hy|նրան|tr=nran}}, {{t|hy|իրեն|tr=iren}}
 ** Old Armenian: {{tø|xcl|նմա|tr=nma|xs=Old Armenian}}
-* Belarusian: {{t|be|яго|tr=jahó|xs=Belarusian}} {{qualifier|direct object}},  {{t|be|яму|tr=jamú|xs=Belarusian}} {{qualifier|indirect object}}, (forms of {{t-|be|ён|tr=jon|xs=Belarusian}} - [[he]])
-* Czech: [[mu]], [[jemu]] {{qualifier|after preposition}}, [[mu]], [[jemu]] {{qualifier|indirect object}}, [[ho]], [[jeho]] (''direct object'')
 * Danish: {{t+|da|ham}}
 * Dutch: {{t+|nl|hem}}
-* Esperanto: [[li]] (''after preposition''), [[al]] [[li]] (''indirect object''), [[li]]n (''direct object'')
 * Finnish: {{t+|fi|hänet}} (''accusative case''), {{t+|fi|häntä}} (''partitive case'')
-* French: (''after preposition'') {{t+|fr|lui}}, (''indirect object'') lui, (''indirect object, emphatic'') lui ... à lui, (''indirect object with an imperative verb'') lui, (''direct object'') {{t+|fr|le}} (''becoming'' l' ''before a vowel or an mute h''), (''direct object, emphatic'') le ... lui
-*: '''Examples:'''
-*:: '''After preposition:''' It is for him - ''C'est pour lui''
-*:: '''Indirect object:''' She tells him her name - ''Elle lui dit son nom''
-*:: '''Indirect object, emphatic:''' She gives the book to '''him''' - ''Elle lui donne le livre à'' '''lui'''
-*:: '''Indirect object with an imperative verb:''' Give it to him - ''Donnez-le-lui''
-*:: '''Direct object:''' She hates him - ''Elle le déteste''
-*:: '''Direct object (followed by a vowel or a mute h):''' She loves him - ''Elle l'aime''
-*:: '''Direct object, emphatic:''' ''She loves'' '''him''' - ''Elle l'aime,'' '''lui'''
-* German: {{t+|de|ihm}}, {{t+|de|ihn}}
 * [[Greenlandic]]: {{t|kl|una}}
 * [[Guaraní]]: [[i]]
 * Hindi: {{t|hi|इस|tr=is|sc=Deva}}, {{t|hi|उस|tr=us|sc=Deva}}
 * [[Hopi]]: {{tø|hop|put}}
-* Hungarian: [[őt]] (''acc.''), [[neki]] (''dat.'')
 * [[Ido]]: [[il]], [[ilu]]
 * [[Interlingua]]: [[le]] (direct/indirect object); [[ille]] (after preposition)
-* Italian: (''after preposition'') {{t+|it|lui}}, (''indirect object'') {{t+|it|gli}}, (''indirect object, emphatic'') a lui, (''indirect object with an imperative verb'') gli (''attached to the end of the verb and becoming'' glie- ''when used along with a direct object''), (''direct object'') {{t+|it|lo}} (''becoming {{t+|it|l'}} before a vowel''), (''direct object, emphatic'') lui
-*: '''Examples:'''
-*:: '''After preposition:''' It is for him - ''É per lui''
-*:: '''Indirect object:''' Maria tells him her name - ''Maria gli dice il suo nome''
-*:: '''Indirect object, emphatic:''' Maria gives the book to '''him''' - ''Maria dà il libro a'' '''lui'''
-*:: '''Indirect object with an imperative verb, used without a direct object:''' Write to him - ''Scrivigli''; Tell him - ''Digli''
-*:: '''Indirect object with an imperative verb, used with a direct object:''' Send it to him - ''Spedisciglielo''; Give it to him - ''Daglielo''
-*:: '''Direct object:''' Maria wants him - ''Maria lo vuole''
-*:: '''Direct object (before a vowel):''' Giovanni hates him - ''Giovanni l'odia''
-*:: '''Direct object, emphatic:''' Maria wants '''him''' - ''Maria vuole'' '''lui'''
 {{trans-mid}}
 * Japanese: {{t|ja|彼|sc=Jpan}}
-* Latin: {{qualifier|direct  object}} {{t-|la|eum}}, {{qualifier|indirect  object}} {{t+|la|ei}}, {{qualifier|after preposition that governs the accusative}} {{t-|la|eum}}, {{qualifier|after preposition that governs the dative}} {{t+|la|ei}}, {{qualifier|after preposition that governs ablative}} {{t+|la|eo}}, {{qualifier|after preposition that governs the ablative}} {{t+|la|eo}}, {{qualifier|acc}} {{t-|la|eum}}, {{qualifier|dative}} {{t+|la|ei}}, {{qualifier|ablative}} {{t+|la|eo}}, {{qualifier|acc}} {{t|la|illum}}, {{qualifier|dative}} {{t|la|illi}}, {{qualifier|ablative}} {{t|la|illo}}, {{qualifier|dative}} {{t|la|huic}}, {{qualifier|acc}} {{t|la|hunc}}, {{qualifier|ablative}} {{t|la|hoc}}
 * [[Low German]]: {{t|nds|em}}
 * [[Ngarrindjeri]]: {{tø|nay|kin}}
 * Norwegian: {{t+|no|ham}}, {{t|no|han}}
 * [[Novial]]: [[lo]]
 * Polish: {{t+|pl|jego}}, {{t+|pl|go}}, {{t-|pl|niego}}, {{t-|pl|jemu}}, {{t-|pl|mu}}, {{t-|pl|niemu}}, {{t+|pl|nim}}
 * Portuguese: [[o]], [[lo]] (after verb ending in "-r"), [[no]] (after nasal sound) (direct object); [[lhe]] (indirect object); [[ele]] (after preposition)
-* Russian: {{t+|ru|его|tr=jegó}} (''read:'' jevó) {{qualifier|direct object}}, {{t-|ru|ему|tr=jemú}} {{qualifier|indirect object}},  (see {{t+|ru|он|tr=on}} [[he]] for the complete declension)
 * Spanish: {{t+|es|le}}, a {{t+|es|el}}
 * Swedish: {{t+|sv|honom}}
 * [[Tupinambá]]: [[i]]
-* Turkish: [[onu]] (acc.), [[ona]] (dat.)
-* Ukrainian: {{t|uk|його|tr=johó|xs=Ukrainian}} {{qualifier|direct object}},  {{t|uk|йому|tr=jomú|xs=Ukrainian}} {{qualifier|indirect object}},  (forms of {{t+|uk|він|tr=vin|xs=Ukrainian}} - [[he]])
 * Welsh: {{t|cy|fe}}
 * [[West Frisian]]: him
 {{trans-bottom}}
