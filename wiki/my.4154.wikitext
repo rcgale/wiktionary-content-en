@@ -11,7 +11,7 @@
 From {{etyl|enm}} {{term|my|lang=enm}}, apocopated form of {{term|min|lang=enm}}, {{term|myn|lang=enm}}, from {{etyl|ang}} {{term|min|mīn|my, mine|lang=ang}}, from {{proto|Germanic|mīnaz|my, mine|pos=pron.|lang=en}}, genitive of {{proto|Germanic|ek|I|lang=en}}. Cognate with {{etyl|fy|-}} {{term|myn||my|lang=fy}}, {{etyl|af|-}} {{term|my||my|lang=af}}, {{etyl|nl|-}} {{term|mijn||my|lang=nl}}, {{etyl|de|-}} {{term|mein||my|lang=de}}. More at {{l|en|me}}.
 
 ====Adjective====
-{{infl|en|adjective}}
+{{en-adj|-}}
 
 # Belonging to [[me]].
 #: ''Don't you know '''my''' name?''
@@ -39,7 +39,7 @@ From {{etyl|enm}} {{term|my|lang=enm}}, apocopated form of {{term|min|lang=enm}}
 {{trans-top|belonging to me}}
 * Albanian: {{t-|sq|im|xs=Albanian}}
 * [[American Sign Language]]: {{tø|ase|FlatB@Chest-PalmBack|xs=American Sign Language}}
-* Arabic: {{t-|ar|ي|alt=ـي|tr=-i}} (''suffix, enclitic pronoun'')
+* Arabic: {{t-|ar|ي|alt=ـي|tr=-i}} {{qualifier|suffix, enclitic pronoun}}
 *: [[Egyptian Arabic]]: {{tø|arz|ي|alt=ـي|tr=-i|sc=Arab|xs=Egyptian Arabic}}, {{tø|arz|ـيا|tr=ya|sc=Arab}}
 * Armenian: [[իմ]] (im)
 * Belarusian: {{t-|be|мой|tr=moj|xs=Belarusian}}
@@ -57,7 +57,7 @@ From {{etyl|enm}} {{term|my|lang=enm}}, apocopated form of {{term|min|lang=enm}}
 * [[Egyptian]]: {{tø|egy|𓀀|m|tr=i}}, {{tø|egy|𓁐|f|tr=i}}, {{tø|egy|𓇋|m|f|tr=i}}
 * Esperanto: {{t+|eo|mia|xs=Esperanto}}
 * Estonian: [[minu#Estonian|minu]], [[mu#Estonian|mu]]
-* Finnish: ([[minun]] (''genitive of [[minä]]'')) + [[-ni#Finnish|-ni]] (''possessive suffix'') <!-- The following note belongs in the Finnish entry, not here:, {{t|fi|mun}}
+* Finnish: ([[minun]] (''genitive of [[minä]]'')) + [[-ni#Finnish|-ni]] {{qualifier|possessive suffix}} <!-- The following note belongs in the Finnish entry, not here:, {{t|fi|mun}}
 *: '''Note: ''' ''In standard Finnish, the possessive suffix is compulsory and the genitive of the personal pronoun optional. In colloquial Finnish, usually only '''minun''' (or its colloquial or dialectal variants, '''mun''', '''miun''' etc.) is used.'' -->
 * French: {{t+|fr|mon|m}}, {{t+|fr|ma|f}}, {{t+|fr|mes|p}}
 * German: {{t+|de|mein|m|s}}
@@ -88,7 +88,7 @@ From {{etyl|enm}} {{term|my|lang=enm}}, apocopated form of {{term|min|lang=enm}}
 * [[Novial]]: [[men]]
 * [[Ojibwe]]: {{tø|oj|nii-}}
 * [[Old English]]: {{t-|ang|min|alt=mīn|xs=Old English}}
-* Persian: {{t-|fa|م|alt=ـم|tr=-am|xs=Persian}} (''suffix''), {{t+|fa|من|tr=... man|xs=Persian}}
+* Persian: {{t-|fa|م|alt=ـم|tr=-am|xs=Persian}} {{qualifier|suffix}}, {{t+|fa|من|tr=... man|xs=Persian}}
 * [[Pitjantjatjara]]: [[ngayuku]]
 * Polish: {{t+|pl|mój|m|s}}
 * Portuguese: {{t+|pt|meu|m|s}}, {{t+|pt|minha|f|s}}, {{t+|pt|meus|m|p}}, {{t+|pt|minhas|f|p}}
@@ -110,7 +110,7 @@ From {{etyl|enm}} {{term|my|lang=enm}}, apocopated form of {{term|min|lang=enm}}
 * Turkish: {{t|tr|benim}}
 * Ukrainian: {{t|uk|мій|tr=mij|xs=Ukrainian}}
 * Urdu: {{t|ur|میرا|tr=mera|xs=Urdu}}
-* Vietnamese: {{t|vi|của tôi|xs=Vietnamese}}, {{t+|vi|tôi|xs=Vietnamese}} (''usually post-position'')
+* Vietnamese: {{t|vi|của tôi|xs=Vietnamese}}, {{t+|vi|tôi|xs=Vietnamese}} {{qualifier|usually post-position}}
 * [[Volapük]]: {{t|vo|obik}}
 * [[West Frisian]]: {{t-|fy|myn|xs=West Frisian}}
 * Yiddish: {{t-|yi|מײַן|xs=Yiddish}}
@@ -314,9 +314,8 @@ From {{proto|Slavic|my|lang=hsb}} < {{proto|Indo-European|nos|lang=hsb}}
 ==West Frisian==
 
 ===Pronunciation===
-
 * {{IPA|/mɛɪ/|lang=fy}}
-* {{IPA|/mi/|lang=fy}} ''(Eastern)''
+* {{IPA|/mi/|lang=fy}} {{qualifier|Eastern}}
 
 ===Pronoun===
 {{infl|fy|pronoun}}
