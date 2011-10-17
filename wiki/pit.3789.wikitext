@@ -14,8 +14,6 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|pytt||pit, hole in the ground, well,
 {{en-noun}}
 
 # A [[hole]] in the [[ground]].
-# A [[seed]] inside a fruit; a stone or [[pip]] inside a fruit.
-# A [[shell]] in a [[drupe]] containing a seed.
 # {{motor racing}} An area at a motor [[racetrack]] used for [[refuel]]ing and [[repair]]ing the vehicles during a race.
 # {{music}} A section of the marching band containing [[mallet]] [[percussion]] instruments and other large percussion instruments too large to march, such as the [[tam tam]].  Also, the area on the [[sideline]]s where these instruments are placed.
 # A [[mine]].
@@ -74,28 +72,6 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|pytt||pit, hole in the ground, well,
 * Welsh: {{t|cy|pant|m}}
 {{trans-bottom}}
 
-{{trans-top|seed or stone inside a fruit}}
-* Esperanto: {{t-|eo|kerno|xs=Esperanto}}
-* Finnish: {{t+|fi|siemen}}, {{t+|fi|kivi}}
-* Icelandic: {{t|is|steinn|m}}
-{{trans-mid}}
-* [[Ojibwe]]: {{tø|oj|okandaamin}}
-* Russian: {{t|ru|косточка|f|sc=Cyrl|tr=kóstočka}}
-* Spanish: {{t+|es|semilla|f}}, {{t|es|hueso|m}}
-{{trans-bottom}}
-
-{{trans-top|the stone of a drupaceous fruit}}
-* Czech: {{t-|cs|pecka|f}}
-* Dutch: {{t+|nl|pit|m}}
-* Finnish: {{t+|fi|kivi}}, {{t+|fi|siemen}}
-* German: {{t+|de|Kern|m}}
-{{trans-mid}}
-* Greek: {{t+|el|κουκούτσι|n}}
-* Russian: {{t|ru|косточка|f|sc=Cyrl|tr=kóstočka}}
-* Spanish: {{t+|es|hueso|m}}
-* [[Telugu]]: [[గొయ్యి]] (goyyi)
-{{trans-bottom}}
-
 {{trans-top|area for racing cars}}
 * Czech: {{t+|cs|box|m}}, {{t|cs|depo|n}}
 * Dutch: {{t+|nl|pit|m}}
@@ -123,25 +99,57 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|pytt||pit, hole in the ground, well,
 {{trans-see|trading pit}}
 
 ====Verb====
-# {{intransitive|motor racing}} To return to the pits during a race for refuelling, tyre changes, repairs etc.
+{{en-verb}}
 
-===Etymology 2===
-From {{etyl|nl}} {{term|pit|lang=nl}} 'kernel, core', from {{etyl|dum}} {{term|pitte|lang=dum}}, from {{proto|Germanic|pittan}} (compare Middle Franconian {{term|Pfitze|lang=de}} 'pimple'), oblique of {{proto|Germanic|title=|piþō}}. Doublet of {{l|en|pith}}.
-
-====Verb====
-{{en-verb|pit|t|ed}}
-
-# {{transitive}} To bring into opposition, as in "to pit one's wits against someone".
 # {{transitive}} To make pits in.
 #: ''Exposure to acid rain '''pitted''' the metal.''
-# {{transitive}} To remove the [[stone]] from a stone fruit or the shell from a drupe.
-#: ''One must '''pit''' a peach to make it ready for a pie.''
+# To put (a dog) into a pit for fighting. 
+# {{transitive}} To bring (something) into opposition with something else.
+# {{intransitive|motor racing}} To return to the pits during a race for refuelling, tyre changes, repairs etc.
 
 =====Translations=====
 {{trans-top|to bring into opposition}}
 * Finnish: [[panna tappelemaan]]
 {{trans-mid}}
 {{trans-bottom}}
+
+===Etymology 2===
+From {{etyl|nl}} {{term|pit||kernel, core|lang=nl}}, from {{etyl|dum}} {{term|pitte|lang=dum}}, from {{proto|Germanic|pittan}} (compare Middle Franconian {{term|Pfitze||pimple|lang=de}}), oblique of {{proto|Germanic|title=|piþō}}. Compare {{l|en|pith}}.
+
+====Noun====
+{{en-noun}}
+
+# A [[seed]] inside a fruit; a stone or [[pip]] inside a fruit.
+# A [[shell]] in a [[drupe]] containing a seed.
+
+=====Translations=====
+{{trans-top|seed or stone inside a fruit}}
+* Esperanto: {{t-|eo|kerno|xs=Esperanto}}
+* Finnish: {{t+|fi|siemen}}, {{t+|fi|kivi}}
+* Icelandic: {{t|is|steinn|m}}
+{{trans-mid}}
+* [[Ojibwe]]: {{tø|oj|okandaamin}}
+* Russian: {{t|ru|косточка|f|sc=Cyrl|tr=kóstočka}}
+* Spanish: {{t+|es|semilla|f}}, {{t|es|hueso|m}}
+{{trans-bottom}}
+
+{{trans-top|the stone of a drupaceous fruit}}
+* Czech: {{t-|cs|pecka|f}}
+* Dutch: {{t+|nl|pit|m}}
+* Finnish: {{t+|fi|kivi}}, {{t+|fi|siemen}}
+* German: {{t+|de|Kern|m}}
+{{trans-mid}}
+* Greek: {{t+|el|κουκούτσι|n}}
+* Russian: {{t|ru|косточка|f|sc=Cyrl|tr=kóstočka}}
+* Spanish: {{t+|es|hueso|m}}
+* [[Telugu]]: [[గొయ్యి]] (goyyi)
+{{trans-bottom}}
+
+====Verb====
+{{en-verb|pit|t|ed}}
+
+# {{transitive}} To remove the [[stone]] from a stone fruit or the shell from a drupe.
+#: ''One must '''pit''' a peach to make it ready for a pie.''
 
 ===Anagrams===
 * [[tip#English|tip]]
