@@ -1,7 +1,10 @@
 ==Faroese==
 
+===Etymology===
+From {{etyl|non|fo}} {{term|venja|lang=non}}, from {{proto|Germanic|wanjanan|lang=fo}}, whence also English {{term|wean|lang=en}}.
+
 ===Verb===
-'''vanta'''
+{{infl|fo|verb}}
 
 # to [[exercise]]
 # to [[train]]
@@ -13,45 +16,49 @@
 * [[venjari]] (coach)
 * [[venjing]] (training)
 
-[[Category:Faroese verbs]]
-
 ----
 
 ==Icelandic==
 
-===Etymology===
-From {{etyl|non|is}}. Cognate with German {{term|gewöhnen|lang=de}}, English {{term|wean|lang=en}}.
+===Pronunciation===
+* {{IPA|/ˈvɛnja/|lang=is}}
+*: {{rhymes|ɛnja|lang=is}}
 
-===Verb===
-'''venja''' ([[vandi]], [[vanið]])
+===Etymology 1===
+From {{etyl|non|is}} {{term|venja|lang=non}}, from {{proto|Germanic|wanjanan|lang=is}}, whence also English {{term|wean|lang=en}}.
+
+====Verb====
+{{is-verb-weak|vandi|vanið}}
 
 # to [[accustom]], to make [[accustomed]]
 # to [[train]]{{jump|train|s}}
 
-====Derived terms====
-* [[venja sig af]]
-* [[venja sig á]]
+=====Derived terms=====
 * [[venja við]]
 * [[venjast]]
 
 ====Synonyms====
 * {{jump|s|train}} [[temja]]
 
-===Noun===
+===Etymology 2===
+From {{etyl|non|is}} {{term|venja|lang=non}}, from {{proto|Germanic|wanjōn|lang=is}}.
+
+====Noun====
 {{is-noun|f|venju|venjur}}
 
-# a [[custom]], a [[practice]]{{jump|s|custom}}
-# a [[habit]]{{jump|s|habit}}
+# [[custom]], [[practice]]{{jump|s|custom}}
+# [[habit]]{{jump|s|habit}}
+
+=====Declension=====
+{{is-decl-noun-f-w1|v|e|nj}}
 
 ====Derived terms====
 * [[að venju]]
 * [[venju fremur]]
 
 ====Synonyms====
-* {{jump|s|custom}} [[siður]]
-* {{jump|s|habit}} [[vani]]
-
-[[Category:Icelandic verbs]]
+* {{jump|s|custom}} {{l|is|siður}}
+* {{jump|s|habit}} {{l|is|vani}}
 
 [[is:venja]]
 [[lt:venja]]
