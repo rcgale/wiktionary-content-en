@@ -117,7 +117,7 @@ From {{etyl|enm}} {{term|lawe|lang=enm}}, {{term|laȝe|sc=Latinx|lang=enm}}, fro
 =====Translations=====
 {{trans-top|written or understood rule}}
 * Albanian: {{t-|sq|ligj|m|xs=Albanian}}
-* Arabic: {{t-|ar|قانون|m|tr=qanūn}}
+* Arabic: {{t-|ar|قانون|m|tr=qānūn}}
 * Armenian: {{t+|hy|օրենք|tr=ōrenkʿ}}
 * [[Avestan]]: {{tø|ae|dāta}}
 * [[Azeri]]: {{t-|az|qanun|xs=Azeri}}
@@ -129,7 +129,6 @@ From {{etyl|enm}} {{term|lawe|lang=enm}}, {{term|laȝe|sc=Latinx|lang=enm}}, fro
 * [[Catalan]]: [[llei]] {{f}}
 * Chinese:
 *: Mandarin: {{t|zh|法律|tr=fǎlǜ|sc=Hani}}
-* Croatian: {{t+|hr|zakon|m}}
 * Czech: {{t+|cs|zákon|m}}
 * Danish: {{t-|da|lov|c}}
 * Dutch: {{t+|nl|wet|m}}
@@ -141,7 +140,7 @@ From {{etyl|enm}} {{term|lawe|lang=enm}}, {{term|laȝe|sc=Latinx|lang=enm}}, fro
 * Georgian: {{t|ka|კანონი|tr=kanoni|sc=Geor}}
 * German: {{t+|de|Gesetz|n}}
 * [[Haitian Creole]]: {{tø|ht|lalwa}}
-* Hebrew: {{t+|he|דין|m}}, {{t+|he|חוק|m}}
+* Hebrew: {{t+|he|דין|m|tr=din}}, {{t+|he|חוק|m}}
 * Hindi: {{t|hi|क़ानून|m|tr=qānūn|sc=Deva}}
 * Hungarian: {{t+|hu|törvény}}
 * Italian: {{t+|it|legge|f}}
@@ -170,7 +169,6 @@ From {{etyl|enm}} {{term|lawe|lang=enm}}, {{term|laȝe|sc=Latinx|lang=enm}}, fro
 * [[Romansch]]: {{t|rm|dretg|m|xs=Romansch}}
 * Russian: {{t+|ru|закон|m|tr=zakón}}, {{t+|ru|правило|n|tr=právilo}}
 * [[Scots]]: {{tø|sco|law|xs=Scots}}
-* Serbian: {{t-|sr|zakon}}, {{t-|sr|pravilo}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|закон|m}}, {{t|sh|правило|n}}
 *: Roman: {{t|sh|zakon|m}}, {{t|sh|pravilo|n}}
@@ -191,9 +189,11 @@ From {{etyl|enm}} {{term|lawe|lang=enm}}, {{term|laȝe|sc=Latinx|lang=enm}}, fro
 {{trans-bottom}}
 
 {{trans-top|body of rules from the legislative authority}}
-* Arabic: {{t-|ar|قانون|m|tr=qanūn}}
-* Armenian: {{t+|hy|օրենք|tr=òrenk'}}
+* Arabic: {{t-|ar|قانون|m|tr=qānūn}}
+* Armenian: {{t+|hy|օրենք|tr=ōrenkʿ}}
 * [[Catalan]]: {{t+|ca|llei}}
+* Chinese:
+*: Mandarin: {{t|zh|法律|tr=fǎlǜ|sc=Hani}}
 * Czech: {{t-|cs|zákoník|m}}
 * Danish: {{t-|da|lov|c}}
 * Dutch: {{t+|nl|wet|m}}
@@ -203,8 +203,8 @@ From {{etyl|enm}} {{term|lawe|lang=enm}}, {{term|laȝe|sc=Latinx|lang=enm}}, fro
 * French: {{t+|fr|loi|f}}
 * German: {{t+|de|Gesetz|n}}
 * Italian: {{t+|it|legge|f}}
-* Japanese: [[法律]] ([[ほうりつ]], hōritsu)
-* Korean: [[법률]] [法律] (beopryul)
+* Japanese: {{t|ja|法律|tr=[[ほうりつ]], hōritsu|sc=Jpan}}
+* Korean: {{t|ko|법률|tr=beopryul|sc=Kore}} ({{t|ko|法律|sc=Kore}})
 * Kurdish:
 *: Kurmanji: {{t+|ku|qanûn|f}}, {{t+|ku|zagon|f}}, {{t+|ku|yasa|f}}
 *: Sorani: {{t|ku|یاسا|tr=yasa|sc=ku-Arab}}
@@ -220,15 +220,18 @@ From {{etyl|enm}} {{term|lawe|lang=enm}}, {{term|laȝe|sc=Latinx|lang=enm}}, fro
 * Portuguese: {{t+|pt|lei|f}}
 * Romanian: {{t-|ro|lege|f}}
 * Russian: {{t+|ru|право|n|tr=právo}}
-* Serbian: {{t-|sr|zakon}}, {{t-|sr|pravilo}}, {{t-|sr|pravo}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|закон|m}}, {{t|sh|правило|n}}, {{t|sh|право|n}}
+*: Roman: {{t|sh|zakon|m}}, {{t|sh|pravilo|n}}, {{t|sh|pravo|n}}
 * Slovene: {{t+|sl|pravo|n}}
 * Spanish: {{t+|es|ley|f}}
 * Swedish: {{t+|sv|lag|c}}
 * [[Telugu]]: [[చట్టము]] (chaTTamu)
+* Vietnamese: {{t|vi|pháp luật}} ({{t|vi|法律}})
 {{trans-bottom}}
 
 {{trans-top|body of rules and standards to be applied by courts}}
-* Armenian: {{t+|hy|օրենք|tr=òrenk'}}
+* Armenian: {{t+|hy|օրենք|tr=ōrenkʿ}}
 * [[Catalan]]: {{t+|ca|dret}}
 * Czech: {{t+|cs|právo|n}}, {{t+|cs|zákon|m}}
 * Danish: {{t-|da|jura|c}}, {{t-|da|lov|c}}
