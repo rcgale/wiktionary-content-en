@@ -1,12 +1,13 @@
 ==English==
 
 ===Etymology===
-{{suffix|mutate|able}}
+From {{la|mutabilis||liable to change|lang=la}}; {{suffix|mutate|able}}.
 
 ===Adjective===
 {{en-adj}}
 
 # [[change|Changeable]]; inclined to [[mutate]].
+# {{programming|of a variable}} Having a value that is changeable during [[program]] [[execution]].
 
 ====Antonyms====
 * [[immutable]]
@@ -29,6 +30,12 @@
 
 ====See also====
 * [[alterable]]
+----
+==French==
+===Adjective===
+{{fr-adj-mf}}
+# {{l|en|mutable}}
+# {{programming|lang=fr}} {{l|en|mutable}}
 
 [[et:mutable]]
 [[fr:mutable]]
