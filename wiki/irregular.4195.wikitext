@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|fro}} [[irreguler]] < {{etyl|ML.}} [[irregularis]] ([[in-#Latin|in-]] + [[regularis]]).
+From {{etyl|fro}} {{term|irreguler|lang=fro}} < {{etyl|ML.}} {{term|irregularis|lang=la}} < {{term|in-|lang=la}} + {{term|regularis|lang=la}}.
 
 ===Pronunciation===
 * {{a|US}} {{IPA|/ɪˈrɛɡjəlɚ/}}, {{SAMPA|/I"rEgj@l@`/}}
@@ -23,30 +23,32 @@ From {{etyl|fro}} [[irreguler]] < {{etyl|ML.}} [[irregularis]] ([[in-#Latin|in-]
 
 ====Translations====
 {{trans-top|nonstandard}}
+* [[Catalan]]: {{t|ca|irregular}}
 * Chinese: [[wúcháng]] ({{zh-ts|無常|无常}})
 * Dutch: {{t-|nl|onregelmatig}}
-* Esperanto: [[neregulara]]
+* Esperanto: {{t|eo|neregulara}}
 * Finnish: {{t-|fi|epäsäännöllinen}}, {{t-|fi|säännötön}}
-* French: [[irregulier]]
+* French: {{t|fr|irregulier}}
 * German: {{t-|de|irregulär}}
 {{trans-mid}}
 * Greek: {{t|el|ακανόνιστος|m|tr=akanónistos}}, {{t|el|αντικανονικός|m|tr=antikanonikós}}
-* Japanese: [[不規則な]] (hukisokuna), [[変則的な]] (hensokutekina)
-* Latin: {{t|la|inconditus|m}}, {{t|la|incondita|f}}, {{t|la|inconditum|n}}
-* Polish: [[nieregularny]] {{m}}, [[nieregularna]] {{f}}, [[nieregularne]] {{n}}
+* Japanese: {{t|ja|不規則|tr=hukisokuna}}, {{t|ja|変則的|tr=hensokutekina}}
+* Latin: {{t|la|inconditus|m}}
+* Polish: {{t|pl|nieregularny|m}}
 * Romanian: {{t|ro|iregular|m|n}}, {{t|ro|nereglementar|m|n}}, {{t|ro|neregulat|m|n}}
 * Spanish: {{t-|es|irregular}}
 * Swedish: {{t+|sv|oregelbunden}}
 {{trans-bottom}}
 
 {{trans-top|in grammar, applied to verbs}}
+* [[Catalan]]: {{t|ca|irregular}}
 * Czech: {{t-|cs|nepravidelný|m}}
 * Finnish: {{t-|fi|epäsäännöllinen}}, {{t-|fi|säännötön}}
 * Greek: {{t+|el|ανώμαλος|tr=anómalos}}
 {{trans-mid}}
 * Icelandic: {{t+|is|óreglulegur|m}}
-* Latin: {{t|la|anomalus|m}}, {{t|la|anomala|f}}, {{t|la|anomalum|n}}
-* Polish: [[nieregularny]] {{m}}, [[nieregularna]] {{f}}, [[nieregularne]] {{n}}
+* Latin: {{t|la|anomalus|m}}
+* Polish: {{t|pl|nieregularny|m}}
 {{trans-bottom}}
 
 ===Noun===
@@ -62,12 +64,27 @@ From {{etyl|fro}} [[irreguler]] < {{etyl|ML.}} [[irregularis]] ([[in-#Latin|in-]
 
 ----
 
+==Catalan==
+
+===Adjective===
+{{ca-adj|type=mf}}
+
+# {{l|en|irregular}}
+
+====Antonyms====
+* {{l|ca|regular}}
+
+====Related terms====
+* {{l|ca|irregularitat}}
+
+----
+
 ==Galician==
 
 ===Adjective===
 {{gl-adj|f=irregular|pl=irregulares}}
 
-# [[#English|irregular]]
+# {{l|en|irregular}}
 
 ----
 
@@ -76,7 +93,7 @@ From {{etyl|fro}} [[irreguler]] < {{etyl|ML.}} [[irregularis]] ([[in-#Latin|in-]
 ===Adjective===
 {{es-adj|pl=irregulares}}
 
-# [[#English|irregular]]
+# {{l|en|irregular}}
 
 [[de:irregular]]
 [[et:irregular]]
