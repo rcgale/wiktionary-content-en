@@ -5,14 +5,14 @@ From {{etyl|xno}} {{term|absent|lang=xno}}, {{etyl|frm|en}} {{term|lang=frm|abse
 
 ====Pronunciation====
 * {{a|UK}} {{IPA|/ˈabs(ə)nt/}}
-* {{a|US}} {{enPR|ăb'sənt}}, {{IPA|/ˈæb.sənt/}}, {{SAMPA|/{b.s@nt/}}
+* {{a|US}} {{enPR|ăb'sənt}}, {{IPA|/ˈæb.sənt/}}, {{SAMPA|/"{b.s@nt/}}
 * {{audio|En-us-absent.ogg|Audio (US)}}
 
 ====Adjective====
 {{en-adj|-}}
 
 # Being [[away]] from a place; [[withdrawn]] from a place; not [[present]].
-#* '''1623''', [[w:William Shakespeare|William Shakespeare]], ''All’s Well That Ends Well, II-iii''
+#* '''1623''', {{w|William Shakespeare}}, ''All’s Well That Ends Well, II-iii''
 #*: Expecting '''absent''' friends.
 # Not [[exist]]ing; [[lack]]ing.
 #: ''The part was rudimental or '''absent'''.''
@@ -33,6 +33,7 @@ From {{etyl|xno}} {{term|absent|lang=xno}}, {{etyl|frm|en}} {{term|lang=frm|abse
 * [[American Sign Language]]: {{tø|ase|1@NearFinger-Open8@Center-PalmDown Contact 1@NearFinger-Open8@Center-PalmDown|xs=American Sign Language}}
 * Armenian: {{t-|hy|բացակա|tr=bac'aka|sc=Armn}}
 * Bulgarian: {{t+|bg|отсъстващ}}
+* [[Catalan]]: {{t|ca|absent}}
 * Chinese:
 *: Mandarin: {{t|zh|缺席|tr=quēxí|sc=Hani}}
 * Czech: {{t-|cs|nepřítomný|m}}
@@ -51,12 +52,13 @@ From {{etyl|xno}} {{term|absent|lang=xno}}, {{etyl|frm|en}} {{term|lang=frm|abse
 * Romanian: {{t|ro|absent|m|n}}, {{t|ro|absentă|f}}, {{t|ro|neprezent|m|n}}
 * Russian: {{t|ru|отсутствующий|tr=otsútstvujuščij|sc=Cyrl}}, {{qualifier|verb}} {{t|ru|отсутствовать|tr=otsútstvovat'|sc=Cyrl}}
 * Slovene: {{t|sl|odsoten}}
-* Spanish: {{t+|es|ausente}}, {{t+|es|falta}}
+* Spanish: {{t+|es|ausente}}
 {{trans-bottom}}
 
 {{trans-top|not existing}}
 * Armenian: {{t-|hy|բացակա|tr=bac'aka|sc=Armn}}
 * Bulgarian: {{t|bg|несъществуващ|sc=Cyrl}}
+* [[Catalan]]: {{t|ca|absent}}
 * Dutch: {{t+|nl|afwezig}}
 * Greek: {{t+|el|ανύπαρκτος|m|sc=Grek}}
 * Italian: {{t+|it|assente}}
@@ -70,6 +72,7 @@ From {{etyl|xno}} {{term|absent|lang=xno}}, {{etyl|frm|en}} {{term|lang=frm|abse
 {{trans-top|inattentive}}
 * Armenian: {{t|hy|անջատված|tr=anǰatvaç|sc=Armn}}
 * Bulgarian: {{t+|bg|отсъстващ|sc=Cyrl}}
+* [[Catalan]]: {{t|ca|absent}}
 * Chinese:
 *: Mandarin: {{t|zh|缺席|tr=quēxí|sc=Hani}}
 * Dutch: {{t+|nl|afwezig}}, {{t|nl|verstrooid}}
@@ -119,7 +122,7 @@ From {{etyl|fro}} {{term|absenter|lang=fro}}, from {{etyl|LL.}} {{term|absentare
 # {{transitive|with [[reflexive]] pronoun}} To [[go away]] from a place; to [[leave]].
 #* {{rfdate}} [[w:Joseph Addison|Addison]] — If after due summons any member '''absents''' himself, he is to be fined.
 # {{transitive|obsolete}} To [[withhold]] from being present
-#* '''1851''', [[w:John Milton|John Milton]], ''[[w:The Paradise Lost|The Paradise Lost]]'' — Go; for thy stay, not free, '''absents''' thee more.
+#* '''1851''', {{w|John Milton}}, ''{{w|The Paradise Lost}}'' — Go; for thy stay, not free, '''absents''' thee more.
 
 =====Translations=====
 {{trans-top|to leave}}
@@ -151,6 +154,21 @@ From {{etyl|fro}} {{term|absenter|lang=fro}}, from {{etyl|LL.}} {{term|absentare
 
 ----
 
+==Catalan==
+
+===Etymology===
+From {{etyl|la|ca}} {{term|absens|absēns|lang=la}}.
+
+===Adjective===
+{{ca-adj|type=mf}}
+
+# {{l|en|absent}}
+
+====Related terms====
+* {{l|ca|absència}}
+
+----
+
 ==French==
 
 ===Etymology===
@@ -163,7 +181,7 @@ Borrowed from {{etyl|la|fr}} {{term|absens}}.
 ===Adjective===
 {{fr-adj}}
 
-# [[#English|absent]]
+# {{l|en|absent}}
 # [[absent-minded]]
 
 ===Noun===
@@ -181,7 +199,7 @@ Borrowed from {{etyl|la|fr}} {{term|absens}}.
 ===Adjective===
 {{ro-adj}}
 
-# [[#English|absent]]
+# {{l|en|absent}}
 
 ====Related terms====
 * [[absenta]]
