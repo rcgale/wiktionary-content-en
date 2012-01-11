@@ -149,7 +149,7 @@ From {{etyl|enm}} {{term|is|lang=enm}}, from {{etyl|ang|en}} {{term|is|īs|lang=
 * [[Afrikaans]]: {{t|af|ys}}
 * Albanian: {{t+|sq|akull|m|xs=Albanian}}
 * [[Amharic]]: {{t|am|በረዶ|m|tr=bärädo|sc=Ethi}}
-* Arabic: {{Arab|[[ثلج]]}} (θalj) {{m}}, {{Arab|[[جليد]]}} (jalīd) {{m}}
+* Arabic: {{t|ar|ثلج|m|tr=ṯalj|sc=Arab}}, {{t|ar|جليد|m|tr=jalīd|sc=Arab}}
 *: [[Egyptian Arabic]]: {{Arab|[[تلج]]}} (talg) {{m}}, {{tø|arz|جليد|m|tr=galīd|sc=Arab}}
 * Aramaic: {{tø|arc|ܓܠܝܕܐ|sc=Syrc}}
 * [[Archi]]: {{tø|aqc|qol}}
@@ -159,10 +159,9 @@ From {{etyl|enm}} {{term|is|lang=enm}}, from {{etyl|ang|en}} {{term|is|īs|lang=
 * [[Azeri]]: {{t|az|buz}}
 * [[Bashkir]]: {{tø|ba|боҙ|tr=boź|sc=Cyrl}}
 * [[Basque]]: {{t|eu|izotz|xs=Basque}}, [[horma]], [[karroina]]
-* Belarusian: {{tø|be|лёд|tr=lëd|m|sc=Cyrl}}, {{t|be|лёд|m|tr=ljod|sc=Cyrl}}
-* Bengali: {{t|bn|বরফ|sc=Beng}}, {{t|bn|বরফ|tr=bôrôf|sc=Beng}}
+* Belarusian: {{t|be|лёд|m|tr=ljod|sc=Cyrl}}
+* Bengali: {{t|bn|বরফ|tr=bôrôf|sc=Beng}}
 * [[Bezhta]]: {{tø|kap|bolo}}
-* Bosnian: {{t-|bs|led|m}}
 * [[Breton]]: {{t|br|skorn|m}}
 * Bulgarian: {{tø|bg|лед|tr=led|m|sc=Cyrl}}
 * Burmese: {{t|my|ရေခဲ|tr=rehkai:|sc=Mymr}}
@@ -178,7 +177,6 @@ From {{etyl|enm}} {{term|is|lang=enm}}, from {{etyl|ang|en}} {{term|is|īs|lang=
 *: Sahidic: {{tø|cop|ϫⲁϥ|m|tr=djaf}}, {{tø|cop|ϫⲁⲃ|m|tr=djav}}, 
 * [[Cornish]]: {{t|kw|rew|m}}
 * [[Crimean Tatar]]: [[ayaz#Crimean Tatar|ayaz]], [[buz#Crimean Tatar|buz]]
-* Croatian: {{t+|hr|led|m}}
 * Czech: {{t+|cs|led|m}}
 * Danish: {{t+|da|is|c}}
 * [[Dolgan]]: {{tø|dlg|буус|tr=buus|sc=Cyrl}}
@@ -197,8 +195,8 @@ From {{etyl|enm}} {{term|is|lang=enm}}, from {{etyl|ang|en}} {{term|is|īs|lang=
 * [[Greenlandic]]: {{t|kl|sermeq|xs=Greenlandic}}, {{t|kl|siku}}
 * [[Gurindji]]: {{tø|gue|murrupa}}
 * Hawaiian: [[hau]]
-* Hebrew: [[קרח]] (qerach) {{m}}
-* Hindi: [[बरफ़]] (barf), {{t|hi|बरफ़|m|tr=barf|sc=Deva}}, {{t|hi|यख़|m|tr=yax|sc=Deva}}
+* Hebrew: {{t|he|קרח|m|tr=qerakh|sc=Hebr}}
+* Hindi: {{t|hi|बरफ़|m|tr=barf|sc=Deva}}, {{t|hi|यख़|m|tr=yax|sc=Deva}}
 * Hungarian: {{t+|hu|jég}}
 * Icelandic: {{t+|is|ís|m}}
 * [[Ido]]: [[glacio]]
@@ -256,7 +254,7 @@ From {{etyl|enm}} {{term|is|lang=enm}}, from {{etyl|ang|en}} {{term|is|īs|lang=
 * [[Ossetian]]: {{tø|os|их|tr=ix|sc=Cyrl}}
 * [[Ottoman Turkish]]: {{tø|ota|یخ|tr=yah|sc=ota-Arab}}
 * [[Pashto]]: {{t|ps|کنګل|tr=kangal|sc=ps-Arab}}
-* Persian: {{fa-Arab|[[یخ]]}} (yakh), {{t|fa|یخ|tr=yax|sc=fa-Arab}}
+* Persian: {{t|fa|یخ|tr=yax|sc=fa-Arab}}
 * Polish: {{t+|pl|lód|m}}
 * Portuguese: {{t+|pt|gelo|m}}
 * [[Quechua]]: [[chullunku]], {{t|qu|chhullunka}}
@@ -268,12 +266,12 @@ From {{etyl|enm}} {{term|is|lang=enm}}, from {{etyl|ang|en}} {{term|is|īs|lang=
 * [[Saramaccan]]: {{tø|srm|ë́ísi}}
 * [[Scots]]: {{tø|sco|ice}}
 * [[Scottish Gaelic]]: {{t-|gd|eigh|f|xs=Scottish Gaelic}}, {{t-|gd|deigh|f|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: {{t-|sr|лед|m|sc=Cyrl}}
-*: Roman: [[led#Serbian|led]]
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|лед|m|sc=Cyrl}}
+*: Roman: {{t|sh|led|m}}
 * [[Seychellois Creole]]: {{tø|crs|glason}}, {{tø|crs|ays}}
 * [[Shor]]: {{tø|cjs|мус|tr=mus|sc=Cyrl}}
-* Slovak: {{t-|sk|ľad}}
+* Slovak: {{t-|sk|ľad|m}}
 * Slovene: {{t+|sl|led|m}}
 * Somali: {{t|so|Baraf}}
 * Sorbian:
@@ -291,7 +289,7 @@ From {{etyl|enm}} {{term|is|lang=enm}}, from {{etyl|ang|en}} {{term|is|īs|lang=
 * [[Taos]]: [[p’ȍcíane]]
 * [[Tatar]]: {{t|tt|boz}}
 * [[Telugu]]: {{t+|te|మంచు|tr=manchu}}
-* Thai: {{Thai|[[น้ำแข็ง]]}} (náam kăeng), {{t|th|น้ำแข็ง|tr=náam kăeng|sc=Thai}}
+* Thai: {{t|th|น้ำแข็ง|tr=náam kăeng|sc=Thai}}
 * Tibetan: {{t|bo|འཁྱགས་པ།|tr='khyags pa|sc=Tibt}}
 * [[Tigrinya]]: {{t|ti|በረድ|m|tr=beredɨ|sc=Ethi}}
 * [[Tok Pisin]]: {{t|tpi|eis}}
@@ -299,7 +297,7 @@ From {{etyl|enm}} {{term|is|lang=enm}}, from {{etyl|ang|en}} {{term|is|īs|lang=
 * [[Turkmen]]: {{t|tk|buz}}
 * [[Tuvan]]: {{tø|tyv|дош|tr=doş|sc=Cyrl}}
 * Ukrainian: {{t|uk|лід|tr=líd|m|xs=Ukrainian}}
-* Urdu: {{ur-Arab|[[برف]]}} (barf), {{ur-Arab|[[یخ]]}} (ya<u>kh</u>), {{t|ur|برف|m|tr=barf|sc=ur-Arab}}, {{t|ur|یخ|m|tr=yax|sc=ur-Arab}}
+* Urdu: {{t|ur|برف|m|tr=barf|sc=ur-Arab}}, {{t|ur|یخ|m|tr=yax|sc=ur-Arab}}
 * [[Uyghur]]: {{t|ug|مۇز|tr=muz|sc=ug-Arab}}
 * Uzbek: {{t-|uz|muz|xs=Uzbek}}
 * Vietnamese: {{t|vi|băng}} ({{t|vi|冰}})
