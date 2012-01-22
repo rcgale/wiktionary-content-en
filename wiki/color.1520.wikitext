@@ -565,19 +565,36 @@ From {{etyl|la|ca}} {{term|lang=la|color}}.
 ----
 
 ==Spanish==
+
+{{ picdic
+| image=Color circle (hue-sat).png
+| width=310
+| labels=
+{{ picdiclabel | color=FF0000 | fontsize=18 | posx=100 | posy= 70 | link=rojo | align=left | lang=es }}
+{{ picdiclabel | color=FFA500 | fontsize=18 | posx=100 | posy= 90 | link=naranja | align=left | lang=es }}
+{{ picdiclabel | color=FFFF00 | fontsize=18 | posx=100 | posy=110 | link=amarillo | align=left | lang=es }}
+{{ picdiclabel | color=7FFF00 | fontsize=18 | posx=100 | posy=130 | link=verde | align=left | lang=es }}
+{{ picdiclabel | color=0000FF | fontsize=18 | posx=100 | posy=150 | link=azul | align=left | lang=es }}
+{{ picdiclabel | color=8F00FF | fontsize=18 | posx=100 | posy=170 | link=violeta | align=left | lang=es }}
+{{ picdiclabel | color=000000 | fontsize=18 | posx=100 | posy=190 | link=negro | align=left | lang=es }}
+{{ picdiclabel | color=2F4F4F | fontsize=18 | posx=100 | posy=210 | link=gris | align=left | lang=es }}
+{{ picdiclabel | color=FFFFFF | fontsize=18 | posx=100 | posy=230 | link=blanco | align=left | lang=es }}
+| detail1=Click on labels in the image
+}}
+
 {{wikipedia|lang=es}}
+
+===Etymology===
+From {{etyl|la|es}} {{term|colore|colōre|lang=la}}, singular ablative of {{term|color|lang=la}}.
 
 ===Pronunciation===
 * {{IPA|[ko̞ˈlo̞ɾ]|lang=es}}
 * '''see also''': {{l|es|calor}}, {{l|es|colar}}
 
-===Etymology===
-From {{etyl|la|es}} {{term|colore|colōre|lang=la}}, singular ablative of {{term|color|lang=la}}.
-
 ===Noun===
 {{es-noun|m|pl=colores}}
 
-# color, [[hue]]
+# color, colour, [[hue]]
 # [[rouge]] {{gloss|cosmetics}}
 # [[pretext]], [[motive]], [[reason]]
 # [[character]]
