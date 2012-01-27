@@ -11,17 +11,10 @@ From {{etyl|enm|en}} {{term|trade||lang=enm|path, course of conduct}}, cognate w
 * {{audio|en-us-trade.ogg|Audio (US)}}
 * {{rhymes|eɪd}}
 
-===Adjective===
-{{en-adj|-}}
-
-# relating to or used in or intended for trade or commerce;
-#: ''a trade fair; trade journals; trade goods.''
-
 ===Noun===
 {{en-noun|s|-}}
 
-# {{uncountable|UK}} The commercial buying and selling of goods and services.
-# {{uncountable}} International buying and selling of goods and services.
+# {{uncountable}} Buying and selling of goods and services on a [[market]].
 # {{countable}} Those who [[perform]] a particular kind of [[skilled]] work.
 #: ''The skilled '''trades''' were the first to organize modern labor unions.''
 # {{countable}} Those engaged in an industry or group of related industries.
@@ -116,7 +109,7 @@ From {{etyl|enm|en}} {{term|trade||lang=enm|path, course of conduct}}, cognate w
 <!--* {{sense|steady winds blowing from east to west above and below the equator}} [[trade wind]]-->
 
 ====Translations====
-{{trans-top|exchange}}
+{{trans-top|buying and selling}}
 * [[Afrikaans]]: {{t-|af|ruil|xs=Afrikaans}}
 * Arabic: {{t|ar|تجارة|f|tr=tijaara|sc=Arab}}
 * Armenian: {{t|hy|առևտուր|tr=aṙevtur}}
@@ -127,7 +120,7 @@ From {{etyl|enm|en}} {{term|trade||lang=enm|path, course of conduct}}, cognate w
 * Czech: {{t+|cs|obchod|m}}
 * Danish: {{t-|da|handel}}, {{t-|da|byttehandel}}
 * Dutch: {{t+|nl|handel|m}}
-* Finnish: {{t+|fi|kauppa}}
+* Finnish: {{t+|fi|kauppa}}, {{t|fi|kaupankäynti}}
 * French: {{t+|fr|commerce|m}}
 * German: {{t+|de|Handel|m}}, {{t|de|Kommerz|f}}
 * Hebrew: {{t|he|סחר|m|tr=sakhar|sc=Hebr}}, {{t|he|מסחר|m|tr=miskhar|sc=Hebr}}
@@ -154,17 +147,44 @@ From {{etyl|enm|en}} {{term|trade||lang=enm|path, course of conduct}}, cognate w
 * Vietnamese: {{t|vi|buôn bán|alt=sự buôn bán}}, {{t|vi|thương mại}}, {{t|vi|thương nghiệp}}
 {{trans-bottom}}
 
-{{trans-top|collective group of people}}
-* Dutch: [[arbeidsmarkt]] {{f}}
+{{trans-top|instance of buying or selling}}
+* [[Afrikaans]]: {{t-|af|handel|xs=Afrikaans}}
+* Chinese:
+*: Mandarin: {{t-|cmn|貿易|sc=Hani}},  {{t-|cmn|贸易|tr=màoyì|sc=Hani}}
+* Czech: {{t+|cs|obchod|m}}
+* Danish: {{t-|da|handel|c}}
+* Dutch: {{t+|nl|handel|m}}
+* Finnish: {{t|fi|kauppa}}
 {{trans-mid}}
-* Serbian: [[trgovci]] {{m|p}}
+* German: {{t+|de|Handel|m}}
+* Japanese: {{t-|ja|商売|tr=shōbai}}
+* [[Macedonian]]: {{t|mk|тргување|n|tr=trgúvanje}}
+* Norwegian: {{t+|no|handel|m}}
+* Polish: {{t+|pl|transakcja|f}}
+* Serbian: {{t-|sr|razmena|f}}, {{t-|sr|izmena|f}}
 {{trans-bottom}}
 
-{{trans-top|skilled practice}}
+{{trans-top|instance of bartering}}
+* Finnish: {{t|fi|vaihtokauppa}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|those who perform a particular kind of skilled work}}
+* Finnish: {{t|fi|ammattikunta}}, {{t|fi|ammatti}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|those engaged in an industry}}
+* Finnish: {{t|fi|ammattilainen|alt=ammattilaiset|p}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|skilled practice of an occupation}}
 * [[Afrikaans]]: [[ambag]]
 * Armenian: {{t-|hy|արհեստ|tr=arhest}}
 * Bosnian: {{t-|bs|zanat|m}}
 * Dutch: {{t+|nl|gilde|m}}
+* Finnish: {{t|fi|ammattitaito}}, {{t|fi|ammatti}}
 * German: {{t+|de|Handwerk|n}}
 * [[Macedonian]]: {{t|mk|занает|m|tr=zánaet}}, {{t-|mk|струка|f|tr=strúka}}
 * Norwegian: {{t|no|håndverk|n}}, {{t-|no|fag|n}}
@@ -177,26 +197,11 @@ From {{etyl|enm|en}} {{term|trade||lang=enm|path, course of conduct}}, cognate w
 *: Roman: [[zanat]] {{m}}
 {{trans-bottom}}
 
-{{trans-top|instance of buying or selling}}
-* [[Afrikaans]]: {{t-|af|handel|xs=Afrikaans}}
-* Chinese:
-*: Mandarin: {{t-|cmn|貿易|sc=Hani}},  {{t-|cmn|贸易|tr=màoyì|sc=Hani}}
-* Czech: {{t+|cs|obchod|m}}
-* Danish: {{t-|da|handel|c}}
-* Dutch: {{t+|nl|handel|m}}
-{{trans-mid}}
-* German: {{t+|de|Handel|m}}
-* Japanese: {{t-|ja|商売|tr=shōbai}}
-* [[Macedonian]]: {{t|mk|тргување|n|tr=trgúvanje}}
-* Norwegian: {{t+|no|handel|m}}
-* Polish: {{t+|pl|transakcja|f}}
-* Serbian: {{t-|sr|razmena|f}}, {{t-|sr|izmena|f}}
-{{trans-bottom}}
-
-{{trans-top|business}}
+{{trans-top|business given by customers}}
 * Arabic: {{t|ar|تجارة|f|tr=tijaara}}
 * Chinese:
 *: Mandarin: {{t-|cmn|貿易|sc=Hani}},  {{t-|cmn|贸易|tr=màoyì|sc=Hani}}, {{t-|cmn|商業|sc=Hani}},  {{t-|cmn|商业|tr=shāngyè|sc=Hani}}
+* Finnish: {{t|fi|kauppa}}
 * Japanese: {{t-|ja|貿易|tr=ぼうえき, bōeki}}
 {{trans-mid}}
 * Korean: {{t+|ko|무역|tr=muyeok|sc=Hang}} ({{t+|ko|貿易|sc=Hani}})
@@ -206,21 +211,34 @@ From {{etyl|enm|en}} {{term|trade||lang=enm|path, course of conduct}}, cognate w
 * Vietnamese: {{t|vi|thương mại}}
 {{trans-bottom}}
 
-<!--{{trans-top|winds}}
+{{trans-top|steady winds above and below equator}}
+* Finnish: {{t|fi|pasaati}}, {{t|fi|pasaatituuli}}
 * Japanese: {{t|ja|貿易風|tr=bōekifū}}
 {{trans-mid}}
 * Russian: {{t|ru|пассат|m|tr=passát}}
-{{trans-bottom}}-->
+{{trans-bottom}}
+
+{{trans-top|publication intended for participants in an industry}}
+* Finnish: {{t|fi|ammattilehti}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|slang: brief sexual encounter}}
+* Finnish: {{t|fi|poka}}
+{{trans-mid}}
+{{trans-bottom}}
 
 {{checktrans-top}}
+* {{ttbc|Dutch}}: [[arbeidsmarkt]] {{f}}
 * {{ttbc|id}}: [[niaga|perniagaan]], [[dagang|perdagangan]]
 * {{ttbc|ro}}: [[comerț]], [[negoț]]
+* {{ttbc|Serbian}}: [[trgovci]] {{m|p}}
 {{trans-bottom}}
 
 ===Verb===
 {{en-verb|trad|ing}}
 
-# To engage in trade
+# To [[engage]] in trade
 #: ''This company '''trades''' in precious metal.''
 # To be traded at a certain price or under certain conditions.
 #: ''stock trade''
