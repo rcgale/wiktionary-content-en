@@ -188,9 +188,9 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Uzbek: {{t|uz|sen}}
 * Vietnamese: {{t+|vi|bạn}}
 * Volapük: {{t|vo|ol}}
-* Welsh: {{qualifier|familiar}} {{t+|cy|ti}}, {{qualifier|polite}} {{t-|cy|chi|xs=Welsh}}, {{qualifier|polite}} {{t-|cy|chwi}}
+* Welsh: {{qualifier|familiar}} {{t+|cy|ti}}, {{qualifier|polite}} {{t-|cy|chi}}, {{qualifier|polite}} {{t-|cy|chwi}}
 * West Frisian: {{t+|fy|do}}, {{t+|fy|jo}}
-* !Xóõ: {{tø|nmn|āh}}, (''emphatic'') {{tø|nmn|āhʻā}}, (''dual'') {{tø|nmn|ǂnûmʻū|ǂnûm}}
+* !Xóõ: {{tø|nmn|āh}}, {{qualifier|emphatic}} {{tø|nmn|āhʻā}}, {{qualifier|dual}} {{tø|nmn|ǂnûmʻū|ǂnûm}}
 {{trans-bottom}}
 
 {{trans-top|object pronoun: the person being addressed}}
@@ -238,7 +238,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Norwegian:
 *: Bokmål: {{qualifier|familiar}} {{t|nb|deg}}, {{qualifier|polite}} {{t|nb|Dem}}, {{qualifier|polite (rare)}} {{t|nb|eder}}
 *: Nynorsk: {{qualifier|familiar}} {{t|nn|deg}}, {{qualifier|polite}} {{t|nn|Dykk}}
-* Old English: {{t-|ang|þe|alt=þē}}
+* Old English: {{t-|ang|þe|alt=þē|sc=Latinx}}
 * Old Irish: {{tø|sga|-ut}}, {{tø|sga|-t-}}, {{tø|sga|-tot-}}, {{tø|sga|-dot-}}
 * Old Persian: {{tø|peo|𐎬𐎺𐎶|tr=tuvam|sc=Xpeo}}
 * Oriya: {{qualifier|familar}} {{t|or| ତୋତେ|tr=tote|sc=Orya}}, {{qualifier|mid-formal}} {{t|or|ତୁମକୁ|tr=tumaku|sc=Orya}}, {{qualifier|formal}} {{t|or|ଆପଣଙ୍କୁ|tr=aapananku|sc=Orya}}
@@ -249,7 +249,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Romani: {{tø|rom|tut}}
 * Romanian: {{qualifier|accusative}} {{t|ro|te}} {{qualifier|unstressed}}, [[pe]] [[tine]] {{qualifier|stressed}}; {{qualifier|dative}} {{t|ro|îți}} {{qualifier|unstressed}}, {{t|ro|ție}} {{qualifier|stressed}}
 * Russian: {{qualifier|familiar}} {{t+|ru|тебя|tr=tebjá}}, {{t+|ru|тебе|tr=tebé}}, {{t+|ru|тобой|tr=tobój}}; {{qualifier|polite}} {{t+|ru|вас|tr=vas}}, {{t+|ru|вам|tr=vam}}, {{t+|ru|вами|tr=vami}}
-* Scots: {{tø|sco|ye|xs=Scots}}, {{tø|sco|you}}
+* Scots: {{tø|sco|ye}}, {{tø|sco|you}}
 * Scottish Gaelic: {{t-|gd|thu}}, {{t-|gd|sibh}} {{qualifier|formal}}
 * Spanish: {{qualifier|informal}} {{t+|es|te}}, {{qualifier|formal}} {{t+|es|se}}, {{t+|es|ti}}, {{t+|es|vosotros|p}}, {{t+|es|ustedes|p}}, {{t+|es|usted}}
 * Swedish: {{t+|sv|dig}}
@@ -343,7 +343,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Lithuanian: {{t+|lt|jūs}}
 * Lower Sorbian: {{qualifier|[[dual]]}} {{t|dsb|wej}}, {{qualifier|plural}} {{t|dsb|wy}}
 * Luxembourgish: {{t|lb|dir}}
-* Macedonian: {{t-|mk|вие|tr=víe}}
+* Macedonian: {{t-|mk|вие|tr=víe|sc=Cyrl}}
 * Maltese: {{t-|mt|intkom}}
 * Manx: {{t-|gv|shiu}}, {{qualifier|emphatic}} {{t-|gv|shiuish}}
 * Mongolian: {{t+|mn|та|tr=ta|sc=Cyrl}}
@@ -353,10 +353,10 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Norwegian:
 *: Bokmål: {{qualifier|familiar}} {{t|nb|dere}}, {{qualifier|familiar (rare)}} {{t|nb|I}}, {{qualifier|polite}} {{t|nb|Dere}}
 *: Nynorsk: {{qualifier|familiar}} {{t|nn|de}}, {{qualifier|polite}} {{t|nn|De}}
-* Novial: [[vus]]
-* Ojibwe: [[giinawaa]]
+* Novial: {{t|nov|vus}}
+* Ojibwe: {{tø|oj|giinawaa}}
 * Old Church Slavonic: {{tø|cu|ва|tr=va|sc=Cyrs}} {{qualifier|dual}}, {{tø|cu|вꙑ|tr=vy|sc=Cyrs|p}}
-* Old English: {{qualifier|[[dual]]}} {{t+|ang|git|alt=ġit}}, {{qualifier|plural}} {{t-|ang|ge|alt=ġē}}
+* Old English: {{qualifier|[[dual]]}} {{t+|ang|git|alt=ġit|sc=Latinx}}, {{qualifier|plural}} {{t-|ang|ge|alt=ġē|sc=Latinx}}
 * Old Irish: {{tø|sga|síi}}, {{tø|sga|sib}}
 * Oriya: {{qualifier|familar}} {{t|or|ତୁମେମାନେ|tr=tumemane|sc=Orya}}, {{qualifier|formal}} {{t|or|ଆପଣମାନେ|tr=aapanamane|sc=Orya}}
 * Persian: {{t+|fa|شما|tr=šomā|sc=fa-Arab}}
@@ -423,23 +423,23 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Dutch:
 *: ''informal'': {{qualifier|standard}} {{t+|nl|jullie}}, {{t+|nl|je}}, {{qualifier|Flemish}} {{t+|nl|u}}
 *: ''formal'': {{t+|nl|u}}
-* Esperanto: {{t+|eo|vin|xs=Esperanto}}
-* Ewe: [[mi]], [[miawo]]
-* Finnish: [[teidät]] {{qualifier|accusative}}, [[teitä]] {{qualifier|partitive}}
+* Esperanto: {{t+|eo|vin}}
+* Ewe: {{t|ee|mi}}, {{t|ee|miawo}}
+* Finnish: {{t|fi|teidät}} {{qualifier|accusative}}, {{t|fi|teitä}} {{qualifier|partitive}}
 * French: {{t+|fr|vous}}
 *: Old French: {{tø|fro|vos}}
 * German:
 *: ''accusative''
-*:: ''familiar'': [[euch]]
-*:: ''polite'': [[Sie]]
+*:: ''familiar'': {{t|de|euch}}
+*:: ''polite'': {{t|de|Sie}}
 *: ''dative''
-*:: ''familiar'': [[ihnen]]
-*:: ''polite'': [[Ihnen]]
-* Greek: {{t|el|εσάς||p}} (esás)
-* Hindi: {{qualifier|mid-polite or familiar}} {{t-|hi|तुम|tr=tum|xs=Hindi}}; {{qualifier|polite}} {{t-|hi|आप|tr=āp|xs=Hindi}}
+*:: ''familiar'': {{t|de|ihnen}}
+*:: ''polite'': {{t|de|Ihnen}}
+* Greek: {{t|el|εσάς|tr=esás|p}}
+* Hindi: {{qualifier|mid-polite or familiar}} {{t-|hi|तुम|tr=tum|sc=Deva}}; {{qualifier|polite}} {{t-|hi|आप|tr=āp|sc=Deva}}
 * Icelandic: {{t+|is|ykkur}}
-* Indonesian: {{qualifier|familiar}} {{t-|id|kalian|xs=Indonesian}}
-* Irish: {{t-|ga|sibh|xs=Irish}}, {{qualifier|emphatic}} {{t-|ga|sibhse|xs=Irish}}
+* Indonesian: {{qualifier|familiar}} {{t-|id|kalian}}
+* Irish: {{t-|ga|sibh}}, {{qualifier|emphatic}} {{t-|ga|sibhse}}
 * Italian:
 *: ''direct object'': {{t+|it|vi}}
 *: ''indirect object'': {{t+|it|vi}}
@@ -452,17 +452,17 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: ''intimate; in business, used toward subordinates'': [[君達]] ([[きみたち]], kimi-tachí)
 *: Note: ''In Japanese, all of these words are actually nouns and are not normally required''.
 {{trans-mid}}
-* Jèrriais: [[ou]]
+* Jèrriais: {{tø|roa-jer|ou}}
 * Latin: {{qualifier| direct object}} {{t|la|vos}}, {{qualifier|indirect object}} {{t|la|vobis}}, {{qualifier|after preposition that governs the accusative}} {{t|la|vos}}, {{qualifier|after preposition that dative and ablative}} {{t|la|vobis}}, {{qualifier|acc}} {{t|la|vos}}, {{qualifier|ablative and dative}} {{t|la|vobis}}
 * Luxembourgish: [[iech]]
 * Macedonian: {{t-|mk|вас|tr=vas}}, {{t-|mk|вам|tr=vam}}
-* Manx: {{t-|gv|shiu|xs=Manx}}, {{qualifier|emphatic}} {{t-|gv|shiuish|xs=Manx}}
+* Manx: {{t-|gv|shiu}}, {{qualifier|emphatic}} {{t-|gv|shiuish}}
 * Norfuk: {{tø|cpe-nor|yorle}}
 * Norwegian:
-*: Bokmål: {{qualifier|familiar}} [[dere]], {{qualifier|familiar (rare)}} [[eder]], {{qualifier|polite}} [[Dere]]
-*: Nynorsk: {{qualifier|familiar}} [[dykk]], {{qualifier|polite}} [[Dykk]]
-* Novial: [[vus]]
-* Old English: [[inc|inċ]] {{qualifier|dual}}, [[eow|ēow]] {{p}}
+*: Bokmål: {{qualifier|familiar}} {{t|nb|dere}}, {{qualifier|familiar|rare}} {{t|nb|eder}}, {{qualifier|polite}} {{t|nb|Dere}}
+*: Nynorsk: {{qualifier|familiar}} {{t|nn|dykk}}, {{qualifier|polite}} {{t|nn|Dykk}}
+* Novial: {{t|nov|vus}}
+* Old English: {{t|ang|inc|alt=inċ|sc=Latinx}} {{qualifier|dual}}, {{t|ang|eow|alt=ēow|p|sc=Latinx}}
 * Old Irish: {{tø|sga|-uib}}, {{tø|sga|-b-}}, {{tø|sga|-tob-}}, {{tø|sga|-dob-}}
 * Oriya: {{qualifier|formal}} {{t|or|ଆପଣମାନଙ୍କୁ|sc=Orya}}, {{qualifier|familiar}} {{t|or|ତୁମମାନଙ୍କୁ|sc=Orya}}
 * Persian: {{t|fa|شمارا|tr=šomārā|sc=fa-Arab}}
@@ -470,8 +470,8 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Portuguese: {{qualifier|familiar in Portugal, archaic in Brazil}} {{t+|pt|vos}} {{qualifier|with or without prepositions}} {{t+|pt|convosco}} {{qualifier|attached to the preposition "com"}}; {{qualifier|polite in Portugal, general in Brazil}} {{t+|pt|vocês}}, {{t+|pt|consigo}} {{qualifier|attached to the preposition "com"; used only in Portugal}}; {{qualifier|formal, according to the addressee's gender}} {{t-|pt|os senhores|m}} {{qualifier|also with mixed groups}}, {{t-|pt|as senhoras|f}} {{qualifier|all-female groups only}}
 * Romani: {{tø|rom|tumaro}}
 * Romanian:
-*: ''accusative'': [[vă]] {{qualifier|unstressed}}, [[pe]] [[voi]] {{qualifier|stressed}}
-*: ''dative'': [[vă]] {{qualifier|unstressed}}, [[vouă]] {{qualifier|stressed}}
+*: ''accusative'': {{t|ro|vă}} {{qualifier|unstressed}}, [[pe]] [[voi]] {{qualifier|stressed}}
+*: ''dative'': {{t|ro|vă}} {{qualifier|unstressed}}, [[vouă]] {{qualifier|stressed}}
 * Russian: {{t+|ru|вас|tr=vas}}, {{t+|ru|вам|tr=vam}}, {{t+|ru|вами|tr=vami}}
 * Scots: {{tø|sco|ye}}, {{tø|sco|yez}}, {{tø|sco|yiz}}, {{tø|sco|youz}}
 * Scottish Gaelic: {{t-|gd|sibh}}
@@ -485,7 +485,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Taos: [[ę̋]]
 * Turkish: {{t+|tr|sizi}}
 * Volapük: {{t|vo|olis}}
-* Welsh: {{t-|cy|chi|xs=Welsh}}, {{t-|cy|chwi|xs=Welsh}}
+* Welsh: {{t-|cy|chi}}, {{t-|cy|chwi}}
 {{trans-bottom}}
 
 {{trans-top|one}}
