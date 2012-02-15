@@ -620,23 +620,19 @@ From contraction of preposition {{term|de||of, from|lang=gl}} + masculine defini
 ===Etymology 1===
 
 ====Pronunciation====
-* {{sense|particle}} {{IPA|lang=ga|[d̪ˠɔ]|[d̪ˠə]}}
+* {{IPA|lang=ga|[d̪ˠɔ]|[d̪ˠə]}}
 
 ====Particle====
-{{head|ga|particle}}
+{{head|ga|particle}} {{qualifier|Triggers lenition of a following consonant.}}
 
-# ([[Munster]]) Marker of the past tense.
-#: '''''do {{l|ga|mol|mhol}}''' {{l|ga|sé}}''
-#:: he praised
+# {{Munster|lang=ga}}, {{literary|lang=ga}} {{non-gloss definition|Marker of the past tense.}}
+#: {{usex|'''do''' mhol sé |t=he praised |lang=ga}}
 
 =====Usage notes=====
-Triggers lenition of a following consonant. The variant form, {{l|ga|d'}}, is required before verbs beginning with a vowel sound:
+The variant form, {{l|ga|d'}}, is required before verbs beginning with a vowel sound:
 
-: '''''d'{{l|ga|ól}}''' sé''
-:: he drank
-
-: '''''d'{{l|ga|freastail|fhreastail}}''' sé''
-:: he served
+: {{usex|'''d'<nowiki/>'''ól sé |t=he drank |lang=ga}}
+: {{usex|'''d'<nowiki/>'''fhreastail sé |t=he served |lang=ga}}
 
 =====Related terms=====
 * {{l|ga|d'}} {{qualifier|used before a vowel sound, required}}
@@ -645,15 +641,14 @@ Triggers lenition of a following consonant. The variant form, {{l|ga|d'}}, is re
 From {{etyl|sga|ga}} {{term|do|lang=sga}} < {{proto|Celtic|tu|to|lang=ga}}.
 
 ====Pronunciation====
-* {{sense|preposition}} {{IPA|lang=ga|[d̪ˠɔ]|[d̪ˠə]}}
+* {{IPA|lang=ga|[d̪ˠɔ]|[d̪ˠə]}}
 ** {{a|Connemara and the Aran Islands}} {{IPA|lang=ga|[ɡə]}}
 
 ====Preposition====
-{{ga-prep}}
+{{ga-prep}} {{qualifier|Triggers lenition of a following consonant.}}
 
 # [[to]], [[for]]
-#: '''''do''' {{l|ga|cara|chara}}''
-#: to a friend, for a friend
+#: {{usex|'''do''' chara |t=to a friend, for a friend |lang=ga}}
 
 =====Inflection=====
 {{ga-prep-infl
@@ -670,7 +665,7 @@ From {{etyl|sga|ga}} {{term|do|lang=sga}} < {{proto|Celtic|tu|to|lang=ga}}.
 }}
 
 =====Usage notes=====
-Triggers lenition of a following consonant. Used only before consonant sounds.
+Used only before consonant sounds.
 
 =====Related terms=====
 * {{l|ga|d'}} {{qualifier|used before a vowel sound}}
@@ -679,17 +674,16 @@ Triggers lenition of a following consonant. Used only before consonant sounds.
 From {{etyl|sga|ga}} {{term|do|lang=sga}} < {{proto|Celtic|tu|your, thy|lang=ga}}.
 
 ====Pronunciation====
-* {{sense|pronoun}} {{IPA|lang=ga|[d̪ˠə]}}
+* {{IPA|lang=ga|[d̪ˠə]}}
 
-====Pronoun====
-{{ga-pron|desc=possessive pronoun}}
+====Determiner====
+{{head|ga|determiner|possessive}} {{qualifier|Triggers lenition of a following consonant.}}
 
 # [[your]] {{qualifier|singular}}
-#: ''{{l|ga|cá|Cá}} {{l|ga|bhfuil}} '''do''' {{l|ga|carr|charr}}?''
-#:: Where is your car?
+#: {{usex|Cá bhfuil '''do''' charr? |t=Where is your car? |lang=ga}}
 
 =====Usage notes=====
-Triggers lenition of a following consonant. Used only before consonant sounds.
+Used only before consonant sounds.
 
 =====Related terms=====
 * {{l|ga|d'}} {{qualifier|used before a vowel sound}}
