@@ -41,15 +41,15 @@
 =====Translations=====
 {{trans-top|to start (a fire)}}
 * Afrikaans: [[aansteek]]
-* Arabic: {{t|ar|أضاء|tr='aDaa'a}}, {{t|ar|شعل|tr=šáʿʿala|sc=Arab}}
+* Arabic: {{t|ar|شعل|tr=šáʿʿala|sc=Arab}}
 * Armenian: {{t-|hy|վառել|tr=vaŕel}}
 * Basque: {{t|eu|piztu|xs=Basque}}
 * Bulgarian: {{t+|bg|запалвам|tr=zapalvam}}, {{t+|bg|паля|tr=palia}}
 * Burmese: {{t|my|မီးထွန်း|sc=Mymr}}
 * Catalan: [[encendre]]
 * Chinese:
-*: Mandarin: [[點火]], [[点火]] (diǎnhuǒ)
-*: [[Min Nan]]: {{tø|nan|點火|tr=tiám-hóe, tiám-hé|sc=Hans}}, {{tø|nan|點火|sc=Hans}}, {{tø|nan|点火|tr=tiám-hóe, tiám-hé|sc=Hans}}
+*: Mandarin: {{t|zh|點火|sc=Hani}}, {{t|zh|点火|tr=diǎnhuǒ|sc=Hani}}, {{t|zh|點燃|sc=Hani}}, {{t|zh|点燃|tr=diǎnrán|sc=Hani}}
+*: [[Min Nan]]: {{tø|nan|點火|sc=Hans}}, {{tø|nan|点火|tr=tiám-hóe, tiám-hé|sc=Hans}}
 * Croatian: {{t-|hr|upaliti}}, {{t-|hr|zapaliti}}
 * Czech: {{t-|cs|zapálit}}
 * Danish: {{t|da|antænde}}, {{t|da|tænde}}
@@ -67,8 +67,8 @@
 * Icelandic: {{t+|is|kveikja}}
 * Irish: {{t-|ga|las|xs=Irish}}
 * Italian: {{t+|it|accendere}}
-* Japanese: [[引火]]する ([[いんか]]する, inka-suru) / [[点火]]する ([[てんか]]する, tenka-suru)
-* Korean: [[불붙이다]] (bul-butIda)
+* Japanese: {{t|ja|引火|tr=いんかする, inka-suru|alt=引火する|sc=Jpan}}, {{t|ja|点火|tr=てんかする, tenka-suru|alt=点火する|sc=Jpan}}
+* Korean: {{t|ko|불붙이다|tr=bulbutida|sc=Kore}}
 {{trans-mid}}
 * Kurdish:
 *: Kurmanji: [[agir]] [[vêxistin]]
@@ -82,19 +82,19 @@
 * Occitan: {{t+|oc|alucar|xs=Occitan}}
 * Old English: {{t-|ang|ælan|alt=ǣlan|xs=Old English}}
 * Persian: {{t+|fa|افروختن|tr=afrōxtan|xs=Persian}}, {{t-|fa|روشن کردن|tr=rowšan kardan|xs=Persian}}
-* Polish: [[rozpalić]], [[zapalić]], {{t|pl|rozpalić}}, {{t|pl|zapalić}}
+* Polish: {{t|pl|rozpalić}}, {{t|pl|zapalić}}
 * Portuguese: {{t+|pt|acender}}
 * Romanian: {{t-|ro|aprinde}}
-* Russian: {{t+|ru|зажигать|tr=zažigát’}}, {{t|ru|зажечь|tr=zažéč’}}, {{t|ru|разжигать|tr=razžigát’}}, {{t|ru|разжечь|tr=razžéč’}}
-* Slovak: [[zapáliť]], [[zažať]], {{t|sk|zapáliť}}, {{t|sk|zažať}}
-* Slovene: [[prižgati]]
+* Russian: {{t+|ru|зажигать|tr=zažigát’}} {{impf}}, {{t|ru|зажечь|tr=zažéč’}} {{pf}}, {{t|ru|разжигать|tr=razžigát’}} {{impf}}, {{t|ru|разжечь|tr=razžéč’}} {{pf}}
+* Slovak: {{t|sk|zapáliť}}, {{t|sk|zažať}}
+* Slovene: {{t|sl|prižgati}}
 * Spanish: {{t+|es|encender}}
 * Swahili: {{t+|sw|nuru|xs=Swahili}}
 * Swedish: {{t+|sv|tända}}
 * Tagalog: {{t|tl|liwanag}}, {{t|tl|ilawan}}
 * Telugu: [[అంటించు]] (aMTiMcu)
 * Turkish: {{t+|tr|yakmak}}
-* Ukrainian: [[запа́лювати]], [[запали́ти]], {{t|uk|запалювати|tr=zapáljuvaty|sc=Cyrl}}, {{t|uk|запалити|tr=zapalýty|sc=Cyrl}}
+* Ukrainian: {{t|uk|запалювати|tr=zapáljuvaty|sc=Cyrl}} {{impf}}, {{t|uk|запалити|tr=zapalýty|sc=Cyrl}} {{pf}}
 * Vietnamese: {{t+|vi|đốt|xs=Vietnamese}}, {{t+|vi|thắp|xs=Vietnamese}}, {{t+|vi|châm|xs=Vietnamese}}, {{t+|vi|nhóm|xs=Vietnamese}}
 * Welsh: [[cynnau]]
 * !Xóõ: [[ʘʻáa]]
@@ -107,7 +107,7 @@
 * Basque: {{t|eu|argitu|xs=Basque}}
 * Bulgarian: {{t+|bg|осветявам}}
 * Catalan: [[encendre]], [[il·luminar]]
-* Chinese: [[照明]] (zhàomíng)
+* Chinese:
 *: Mandarin: {{t|zh|照明|tr=zhàomíng|sc=Hani}}
 * Croatian: {{t-|hr|osvijetliti}}
 * Czech: [[osvětlit]], [[osvítit]]
@@ -121,9 +121,9 @@
 * Hungarian: {{t+|hu|világít}}
 * Icelandic: {{t-|is|lýsa}}
 * Italian: {{t+|it|illuminare}}
-* Japanese: [[照らす]] ([[てらす]], ''terasu''), {{t|ja|照らす|tr=てらす, terasu|sc=Jpan}}
+* Japanese: {{t|ja|照らす|tr=てらす, terasu|sc=Jpan}}
 {{trans-mid}}
-* Korean: [[불켜다]] (bul-kyeoda), [[밝히다]] (balkhida), [[비추다]] (bichuda), {{t|ko|불켜다|tr=bul-kyeoda|sc=Kore}}, {{t|ko|밝히다|tr=balkida|sc=Kore}}, {{t|ko|비추다|tr=bichuda|sc=Kore}}
+* Korean: {{t|ko|불켜다|tr=bul-kyeoda|sc=Kore}}, {{t|ko|밝히다|tr=balkida|sc=Kore}}, {{t|ko|비추다|tr=bichuda|sc=Kore}}
 * Kurdish:
 *: Kurmanji: [[ron]] kirin
 * Latin: {{t-|la|illuminare}}
@@ -135,7 +135,7 @@
 * Polish: [[oświetlić]], [[iluminować]]
 * Portuguese: {{t+|pt|iluminar}}
 * Romanian: {{t|ro|lumina}}, {{t|ro|ilumina}}
-* Russian: {{t|ru|освещать|tr=osveščát’}}, {{t|ru|осветить|tr=osvetít’}}
+* Russian: {{t|ru|освещать|tr=osveščát’}} {{impf}}, {{t|ru|осветить|tr=osvetít’}} {{pf}}
 * Slovak: {{t|sk|svietiť}}
 * Slovene: {{t|sl|osvetliti}}
 * Spanish: {{t-|es|iluminar}}
