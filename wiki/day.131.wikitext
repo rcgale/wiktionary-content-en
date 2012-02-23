@@ -102,12 +102,12 @@ Not related to Latin {{term|dies|lang=la}} (from {{proto|Indo-European|dyeu-|to 
 * Afrikaans: {{t+|af|dag|xs=Afrikaans}}
 * Amharic: {{tø|am|ቀን|tr=qän|sc=Ethi}}
 * Anglo-Norman: {{tø|xno|jur}}
-* Arabic: {{Arab|[[يوم|يَوْمٌ]]}} (yaum) {{m}}
+* Arabic: {{t|ar|يوم|m|tr=yawm|sc=Arab}}
 *: [[Egyptian Arabic]]: {{tø|arz|يوم|m|tr=yoom|sc=Arab}}, {{tø|arz|ايام|f|p|tr=eyam|sc=Arab}}
 * Aramaic:
 *: Syriac: [[ܝܘܡܐ]] (yawmā’) {{m}}
 *: Hebrew: [[יומא]] (yawmā’) {{m}}
-* Armenian: [[օր]] (òr)
+* Armenian: {{t|hy|օր|tr=òr}}
 * Aromanian: {{tø|rup|dzuã}}
 * Asturian: {{t|ast|día|m}}
 * Azeri:
@@ -123,7 +123,7 @@ Not related to Latin {{term|dies|lang=la}} (from {{proto|Indo-European|dyeu-|to 
 * Chamicuro: {{tø|ccc|senesyako}}
 * Chinese:
 *: Cantonese: {{tø|zh-yue|日|tr=jat6|sc=Hani}}
-*: Mandarin: {{t-|cmn|日|tr=rì|sc=Hani}},  {{t-|cmn|天|tr=tiān|sc=Hani}}
+*: Mandarin: {{t|zh|天|tr=tiān|sc=Hani}}, {{t|zh|日|tr=rì|sc=Hani}}
 *: {{trreq|nan}}
 * Crimean Tatar: [[kün]]
 * Czech: {{t+|cs|den|m}}
@@ -153,7 +153,7 @@ Not related to Latin {{term|dies|lang=la}} (from {{proto|Indo-European|dyeu-|to 
 * Indonesian: {{t+|id|hari|xs=Indonesian}}
 * Irish: {{t+|ga|lá|m|xs=Irish}}
 * Italian: {{t+|it|giorno|m}}
-* Japanese: {{t+|ja|日|tr=hi}}
+* Japanese: {{t+|ja|日|tr=ひ, hi}}
 * Khmer: {{Khmr|[[ថ្ងៃ]]}} (tngai)
 * Korean: {{ko-inline|[[일]][[주야]]|iljuya|4=[[一]][[晝]][[夜]]}}
 {{trans-mid}}
@@ -183,7 +183,7 @@ Not related to Latin {{term|dies|lang=la}} (from {{proto|Indo-European|dyeu-|to 
 * Portuguese: {{t+|pt|dia|m}}
 * Romanian: {{t+|ro|zi|f}}
 * Romansch: {{t|rm|di}}
-* Russian: [[сутки]] (sútki) {{p}}, [[день]] (den’) {{m}}, {{t|ru|сутки|f|p|tr=sútki|sc=Cyrl}}, {{t|ru|день|m|tr=den’|sc=Cyrl}}
+* Russian: {{t|ru|сутки|f|p|tr=sútki|sc=Cyrl}}, {{t|ru|день|m|tr=den’|sc=Cyrl}}
 * Santali: {{tø|sat|ᱫᱤᱱ|tr=din|sc=Olck}}
 * Scottish Gaelic: {{t-|gd|latha|m|xs=Scottish Gaelic}}
 * Serbo-Croatian:
@@ -192,7 +192,7 @@ Not related to Latin {{term|dies|lang=la}} (from {{proto|Indo-European|dyeu-|to 
 * Sicilian: [[jornu]] {{m}} , [[jonnu]] {{m}}
 * Sinhalese: {{t|si|දවස|tr=davasa|sc=Sinh}}
 * Slovak: {{t|sk|doba|f}}, {{t|sk|deň|m}}
-* Slovene: {{t+|sl|dan}}
+* Slovene: {{t+|sl|dan|m}}
 * Spanish: {{t+|es|día|m}}
 * Sumerian: {{tø|sux|𒌓|tr=UD, U4|sc=Xsux}}
 * Swahili: {{t+|sw|siku|xs=Swahili}}
@@ -204,7 +204,7 @@ Not related to Latin {{term|dies|lang=la}} (from {{proto|Indo-European|dyeu-|to 
 * Thai: {{t+|th|วัน|tr=wan}}, {{t|th|กลางวัน|tr=klaaŋwan|sc=Thai}}
 * Tibetan: {{t|bo|ཉི་མ|tr=nyi ma|sc=Tibt}}
 * Turkish: {{t+|tr|gün}}
-* Ukrainian: {{t+|uk|день|tr=den'|xs=Ukrainian}}, {{t|uk|доба|f|tr=dóba|sc=Cyrl}}
+* Ukrainian: {{t+|uk|день|tr=den’|xs=Ukrainian}}, {{t|uk|доба|f|tr=dóba|sc=Cyrl}}
 * Urdu: {{t-|ur|دن|m|tr=din|xs=Urdu}}
 * Uyghur: {{t|ug|كۈن|sc=ug-Arab}}
 * Vietnamese: {{t+|vi|ngày|xs=Vietnamese}}
@@ -216,16 +216,17 @@ Not related to Latin {{term|dies|lang=la}} (from {{proto|Indo-European|dyeu-|to 
 {{trans-bottom}}
 
 {{trans-top|period from midnight to the following midnight}}
+* Arabic: {{t|ar|يوم|m|tr=yawm|sc=Arab}}
 * Aramaic:
 *: Syriac: [[ܝܘܡܐ]] (yawmā’) {{m}}
 *: Hebrew: [[יומא]] (yawmā’) {{m}}
-* Armenian: [[օր]] (òr)
+* Armenian: {{t|hy|օր|tr=òr}}
 * Basque: {{t+|eu|egun|xs=Basque}}
-* Belarusian: {{t-|be|дзень|m|tr=dzen'|xs=Belarusian}}
-* Bulgarian: {{t|bg|ден|m|tr=den|sc=Cyrl}}
+* Belarusian: {{t|be|суткі|p|tr=sútki|sc=Cyrl}}, {{t|be|дзень|m|tr=dzen’|sc=Cyrl}}
+* Bulgarian: {{t|bg|денонощие|n|tr=denonóštie}}, {{t|bg|ден|m|tr=den|sc=Cyrl}}
 * Catalan: {{t+|ca|dia|m}}, [[jorn]] {{m}}
 * Chinese:
-*: Mandarin: {{zh-tsp|[[一]][[天]]|[[一]][[天]]|[[yì]][[tiān]]}}
+*: Mandarin: {{t|zh|一天|tr=yītiān|sc=Hani}}
 * Czech: {{t+|cs|den|m}}
 * Danish: {{t+|da|døgn|n}}, {{t+|da|dag|c}}
 * Dutch: {{t+|nl|dag|m}}, {{t+|nl|etmaal|n}}
@@ -257,17 +258,18 @@ Not related to Latin {{term|dies|lang=la}} (from {{proto|Indo-European|dyeu-|to 
 * Persian: {{t|fa|شبانه روز|alt=شبانَه روز|xs=Persian}}
 * Polish: {{t+|pl|dzień|m}}, {{t+|pl|doba|f}}
 * Portuguese: {{t+|pt|dia|m}}
-* Russian: [[сутки]] (sútki) {{p}}, [[день]] (den’) {{m}}
+* Russian: {{t|ru|сутки|f|p|tr=sútki|sc=Cyrl}}, {{t|ru|день|m|tr=den’|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|latha|m|xs=Scottish Gaelic}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|дан|m|sc=Cyrl|xs=Serbo-Croatian}}
 *: Roman: {{t|sh|dan|m|xs=Serbo-Croatian}}
 * Slovak: {{t|sk|deň|m}}
-* Slovene: {{t+|sl|dan}}
+* Slovene: {{t+|sl|dan|m}}
 * Swedish: {{t+|sv|dygn|n}}, {{t+|sv|dag|c}}
 * Tagalog: [[araw]]
 * Thai: {{t+|th|วัน|tr=wan}}
 * Turkish: {{t+|tr|gün}}
+* Ukrainian: {{t+|uk|день|tr=den’|xs=Ukrainian}}, {{t|uk|доба|f|tr=dóba|sc=Cyrl}}
 * Urdu: {{t-|ur|دن|m|tr=din|xs=Urdu}}
 * Vietnamese: {{t+|vi|ban ngày|xs=Vietnamese}}
 * Volapük: {{t|vo|del}}
@@ -275,12 +277,13 @@ Not related to Latin {{term|dies|lang=la}} (from {{proto|Indo-European|dyeu-|to 
 {{trans-bottom}}
 
 {{trans-top|rotational period of a planet}}
-* Armenian: [[օր]] (òr)
+* Armenian: {{t|hy|օր|tr=òr}}
 * Basque: {{t+|eu|egun|xs=Basque}}
+* Belarusian: {{t|be|суткі|p|tr=sútki|sc=Cyrl}}, {{t|be|дзень|m|tr=dzen’|sc=Cyrl}}
 * Bulgarian: {{t|bg|денонощие|n}}
 * Catalan: {{t+|ca|dia|m}}, [[jorn]] {{m}}
 * Chinese:
-*: Mandarin: {{zh-tsp|[[白]][[晝]]|[[白]][[昼]]|[[bái]][[zhòu]]}}
+*: Mandarin: {{t|zh|白晝|sc=Hani}}, {{t|zh|白昼|tr=báizhòu|sc=Hani}}
 * Czech: {{t+|cs|den|m}}
 * Danish: {{t+|da|døgn|n}}
 * Dutch: {{t+|nl|dag|m}}
@@ -302,24 +305,28 @@ Not related to Latin {{term|dies|lang=la}} (from {{proto|Indo-European|dyeu-|to 
 * Norwegian: {{t+|no|døgn|n}}
 * Polish: {{t+|pl|dzień|m}}
 * Portuguese: {{t+|pt|dia|m}}
-* Russian: [[сутки]] (sútki) {{p}}, [[день]] (d'en’) {{m}}
+* Russian: {{t|ru|сутки|f|p|tr=sútki|sc=Cyrl}}, {{t|ru|день|m|tr=den’|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|latha|m|xs=Scottish Gaelic}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|дан|m|sc=Cyrl|xs=Serbo-Croatian}}
 *: Roman: {{t|sh|dan|m|xs=Serbo-Croatian}}
-* Slovene: {{t+|sl|dan}}
+* Slovak: {{t|sk|doba|f}}, {{t|sk|deň|m}}
+* Slovene: {{t+|sl|dan|m}}
 * Swedish: {{t+|sv|dygn|n}}
 * Turkish: {{t+|tr|gün}}
+* Ukrainian: {{t+|uk|день|tr=den’|xs=Ukrainian}}, {{t|uk|доба|f|tr=dóba|sc=Cyrl}}
 * Volapük: {{t|vo|del}}
 {{trans-bottom}}
 
 {{trans-top|part of a day period which one spends at one’s job, school, etc.}}
-* Armenian: [[օր]] (òr)
+* Arabic: {{t|ar|يوم|m|tr=yawm|sc=Arab}}
+* Armenian: {{t|hy|օր|tr=òr}}
 * Basque: {{t+|eu|egun|xs=Basque}}, {{t|eu|lanegun|xs=Basque}}
-* Bulgarian: {{t+|bg|ден|m}}
+* Belarusian: {{t|be|дзень|m|tr=dzen’|sc=Cyrl}}
+* Bulgarian: {{t+|bg|ден|m|tr=den}}
 * Catalan: {{t+|ca|jornada|f}}
 * Chinese:
-*: Mandarin: {{zh-tsp|[[一]][[天]]|[[一]][[天]]|[[yì]][[tiān]]}}
+*: Mandarin: {{t|zh|一天|tr=yītiān|sc=Hani}}
 * Czech: {{t+|cs|den|m}}
 * Danish: {{t+|da|dag|c}}
 * Dutch: {{t+|nl|dag|m}}
@@ -329,7 +336,7 @@ Not related to Latin {{term|dies|lang=la}} (from {{proto|Indo-European|dyeu-|to 
 * French: {{t+|fr|jour|m}}
 * German: {{t+|de|Tag|m}}
 * Greek: {{t+|el|ημέρα|f}} (iméra); {{t+|el|μέρα|f}} (méra)
-* Hebrew: [[יום]] (yom) {{m}}
+* Hebrew: {{t|he|יום|m|tr=yom|sc=Hebr}}
 * Hungarian: {{t+|hu|nap}}
 * Ilocano: [[aldaw]]
 * Irish: {{t+|ga|lá|m|xs=Irish}}
@@ -343,16 +350,18 @@ Not related to Latin {{term|dies|lang=la}} (from {{proto|Indo-European|dyeu-|to 
 * Old Frisian: [[di]]
 * Polish: {{t+|pl|dzień}}
 * Portuguese: {{t+|pt|dia|m}}
-* Russian: [[день]] (d'en’) {{m}}
+* Russian: {{t|ru|день|m|tr=den’|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|latha|m|xs=Scottish Gaelic}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|дан|m|sc=Cyrl|xs=Serbo-Croatian}}
 *: Roman: {{t|sh|dan|m|xs=Serbo-Croatian}}
-* Slovene: {{t+|sl|dan}}
+* Slovak: {{t|sk|deň|m}}
+* Slovene: {{t+|sl|dan|m}}
 * Spanish: {{t|es|día}}
 * Swedish: {{t+|sv|dag|c}}
 * Tagalog: [[araw]]
 * Turkish: {{t+|tr|gün}}
+* Ukrainian: {{t+|uk|день|tr=den’|xs=Ukrainian}}
 * Volapük: {{t|vo|del}}
 * West Frisian: {{t+|fy|dei|c|xs=West Frisian}}
 {{trans-bottom}}
@@ -361,12 +370,13 @@ Not related to Latin {{term|dies|lang=la}} (from {{proto|Indo-European|dyeu-|to 
 * Aramaic:
 *: Syriac: [[ܐܝܡܡܐ]] (’īmāmā’) {{m}}
 *: Hebrew: [[איממא]] (’īmāmā’) {{m}}
-* Armenian: [[օր]] (òr),  {{t+|hy|ցերեկ|tr=c’erek}}
+* Armenian: {{t|hy|օր|tr=òr}},  {{t+|hy|ցերեկ|tr=c’erek}}
 * Basque: {{t+|eu|egun|xs=Basque}}
-* Bulgarian: {{t+|bg|ден|m}}
+* Belarusian: {{t|be|дзень|m|tr=dzen’|sc=Cyrl}}
+* Bulgarian: {{t+|bg|ден|m|tr=den}}
 * Catalan: {{t+|ca|dia|m}}, [[jorn]] {{m}}
 * Chinese:
-*: Mandarin: {{zh-tsp|白天|白天|[[bái]][[tiān]]}}
+*: Mandarin: {{t|zh|白天|tr=báitiān|sc=Hani}}
 * Czech: {{t+|cs|den|m}}
 * Danish: {{t+|da|dag|c}}
 * Dutch: {{t+|nl|dag|m}}
@@ -392,18 +402,20 @@ Not related to Latin {{term|dies|lang=la}} (from {{proto|Indo-European|dyeu-|to 
 * Ngarrindjeri: {{tø|nay|nunggi}}
 * Norwegian: {{t+|no|dag|m}}
 * Old Frisian: [[di]]
-* Persian: {{t+|fa|روز|xs=Persian}}
+* Persian: {{t+|fa|روز|tr=ruz|xs=Persian}}
 * Polish: {{t+|pl|dzień|m}}
 * Portuguese: {{t+|pt|dia|m}}
-* Russian: [[день]] (den’) {{m}}
+* Russian: {{t|ru|день|m|tr=den’|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|latha|m|xs=Scottish Gaelic}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|обданица|f|sc=Cyrl|xs=Serbo-Croatian}}
 *: Roman: {{t|sh|obdanica|f|xs=Serbo-Croatian}}
-* Slovene: {{t+|sl|dan}}
+* Slovak: {{t|sk|deň|m}}
+* Slovene: {{t+|sl|dan|m}}
 * Swedish: {{t+|sv|dag|c}}
 * Tagalog: [[araw]]
 * Turkish: {{t+|tr|gündüz}}
+* Ukrainian: {{t+|uk|день|tr=den’|xs=Ukrainian}}
 * Volapük: {{t|vo|del}}
 * West Frisian: {{t+|fy|dei|c|xs=West Frisian}}
 {{trans-bottom}}
