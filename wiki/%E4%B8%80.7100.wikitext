@@ -49,11 +49,6 @@ From {{etyl|och|yue}} ''*<sup>?</sup>yit''
 
 ==Japanese==
 
-===Etymology===
-From {{etyl|ojp|ja|sort=ひと}}.
-
-/hito<small>2</small>/: [pitə] > [ɸitə] > [ɸito] > [çito].
-
 ===Kanji===
 {{ja-kanji|grade=1|rs=一00}}
 
@@ -61,7 +56,12 @@ From {{etyl|ojp|ja|sort=ひと}}.
 # "one" radical (いち)
 
 ====Readings====
-* {{ja-readings|goon=[[いち]] (''ichi'')|kanon=[[いつ]] (''itsu'')|kun=[[ひと]] (''hito''), [[ひとつ]] ([[一つ]], ''hitotsu'')|nanori=[[い]] (''i''), [[いっ]] (''it''), [[いる]] (''iru''), [[おさむ]] (''osamu''), [[かつ]] (''katsu''), [[かず]] (''kazu''), [[かづ]] (''kazu''), [[すすむ]] (''susumu''), [[てん]] (''ten''), [[はじめ]] (''hajime''), [[ひ]] (''hi''), [[ひとつ]] (''hitotsu''), [[まこと]] (''makoto'')}}
+{{ja-readings
+|goon=[[いち]] (''ichi'')
+|kanon=[[いつ]] (''itsu'')
+|kun=[[ひと]] (''hito''), [[ひとつ]] ([[一つ]], ''hitotsu'')
+|nanori=[[い]] (''i''), [[いっ]] (''it''), [[いる]] (''iru''), [[おさむ]] (''osamu''), [[かつ]] (''katsu''), [[かず]] (''kazu''), [[かづ]] (''kazu''), [[すすむ]] (''susumu''), [[てん]] (''ten''), [[はじめ]] (''hajime''), [[ひ]] (''hi''), [[ひとつ]] (''hitotsu''), [[まこと]] (''makoto'')
+}}
 
 ====Compounds====
 {{rel-top3|compound words that contain 一}}
@@ -192,7 +192,27 @@ From {{etyl|ojp|ja|sort=ひと}}.
 * [[くノ一]] ([[くのいち]], ''[[kunoichi]]'')
 *: ''noun'': [[female]] [[ninja]]
 
-====Idioms====
+===Etymology 1===
+From {{etyl|zho|ja|sort=いち}} {{term|sc=Hani|一}}.
+
+====Noun====
+{{ja-noun|k|hira=いち|rom=ichi}}
+
+# [[one]], [[1]]
+# the [[beginning]]
+# [[unity]]
+
+====Number====
+{{cardinalbox|ja|0|1|2|零 |二}}
+'''一''' ([[いち]], ''[[ichi]]'')
+: 一 ([[いつ]], ''[[itsu]]'')
+: 一 ([[いっ]], ''[[it]]'')
+: 一 ([[ひと]], ''[[hito]]'')
+The pronunciation depends on the counter word following 一.
+
+# [[one]], [[1]]
+
+=====Idioms=====
 * 一[[から]][[やり直す]]
 *: いちからやりなおす
 *: ''ichi kara yarinaosu''
@@ -211,29 +231,20 @@ From {{etyl|ojp|ja|sort=ひと}}.
 *: ''ichi mo ni mo naku''
 *: unhesitatingly
 
-===Noun===
-{{ja-noun|k|hira=いち|rom=ichi}}
+===Etymology 2===
+From {{etyl|ojp|ja|sort=ひと}}.
 
-# [[one]], [[1]]
-# the [[beginning]]
-# [[unity]]
+/hito<small>2</small>/: [pitə] > [ɸitə] > [ɸito] > [çito].
 
-===Noun===
+====Number====
 {{ja-noun|k|hira=ひと|rom=hito}}
 
 # one
 
-===Number===
-{{cardinalbox|ja|0|1|2|零 |二}}
-'''一''' ([[いち]], ''[[ichi]]'')
-: 一 ([[いつ]], ''[[itsu]]'')
-: 一 ([[いっ]], ''[[it]]'')
-: 一 ([[ひと]], ''[[hito]]'')
-The pronunciation depends on the counter word following 一.
+===Etymology 3===
+From {{term|lang=ja|始め|tr=hajime||beginning, first}}.
 
-# [[one]], [[1]]
-
-===Proper noun===
+====Proper noun====
 {{ja-pos|k|proper|hira=はじめ|rom=Hajime}}
 
 # {{given name|male|lang=ja}}
