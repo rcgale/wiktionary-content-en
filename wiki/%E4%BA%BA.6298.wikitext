@@ -41,42 +41,15 @@ In print, 人 may have symmetric legs. However in handwriting, to distinguish fr
 
 ==Japanese==
 
-===Pronunciation===
-* {{IPA|/hito/|lang=ja}}
-
-===Etymology===
-/hi<sub>1</sub>to<sub>2</sub>/: *pitə > ɸito > çito
-
-===Counter===
-{{ja-pos|k|counter|rom=-nin|hira=にん}}
-# [[people]]
-
-====Usage notes====
-The above readings are for three people or more.  When this counts one or two people, namely {{l|ja|一人|tr=ひとり, hitori|gloss=one person}} or {{l|ja|二人|tr=ふたり, futari|gloss=two people}}, the reading is {{l|ja|り|tr=-ri}}.
-
-===Noun===
-{{ja-noun|k|count=人|hira=ひと|rom=hito}}
-
-# [[person]]
-# [[human]]
-# [[someone else]]
-
-====Synonyms====
-* [[方]] ([[かた]]) {{qualifier|honorific}}
-
-====Compounds====
-* [[人の世]] (hito no yo)
-
-===Suffix===
-{{ja-pos|k|suffix|rom=-jin|hira=じん|hidx=しん'}}
-# [[person]] from that group; [[-ian]]
-# person who does that thing
-
 ===Kanji===
 {{ja-kanji|grade=1|rs=人00}}
 
 ====Readings====
-* {{ja-readings|on=[[じん]] (jin), [[にん]] (nin)|kun=[[ひと]] (hito)|nadzuke=[[じ]] (ji), [[と]] (to), [[ね]] (ne), [[ひこ]] (hiko), [[ふみ]] (fumi)}}
+{{ja-readings
+|on=[[じん]] (jin), [[にん]] (nin)
+|kun=[[ひと]] (hito)
+|nanori=[[じ]] (ji), [[と]] (to), [[ね]] (ne), [[ひこ]] (hiko), [[ふみ]] (fumi)
+}}
 
 ====Compounds====
 {{top4}}
@@ -102,8 +75,8 @@ The above readings are for three people or more.  When this counts one or two pe
 * [[人物]] ([[じんぶつ]], [[jinbutsu]])
 * [[人望]] ([[じんぼう]], [[jinbō]])
 * [[人名]] ([[じんめい]], [[jinmei]])
-{{mid4}}
 * [[人命]] ([[じんめい]], [[jinmei]])
+{{mid4}}
 * [[人類]] ([[じんるい]], [[jinrui]])
 * [[人気]] ([[にんき]], [[ninki]]; [[ひとけ]], [[hitoke]])
 * [[人間]] ([[にんげん]], [[ningen]]; [[じんかん]], [[jinkan]])
@@ -124,9 +97,9 @@ The above readings are for three people or more.  When this counts one or two pe
 * [[悪人]] ([[あくにん]], [[akunin]])
 * [[偉人]] ([[いじん]], [[ijin]])
 * [[異人]] ([[いじん]], [[ijin]])
-{{mid4}}
 * [[歌人]] ([[かじん]], [[kajin]])
 * [[家人]] ([[かじん]], [[kajin]])
+{{mid4}}
 * [[佳人]] ([[かじん]], [[kajin]])
 * [[華人]] ([[かじん]], [[kajin]])
 * [[外人]] ([[がいじん]], [[gaijin]])
@@ -145,10 +118,10 @@ The above readings are for three people or more.  When this counts one or two pe
 * [[私人]] ([[しじん]], [[shijin]])
 * [[証人]] ([[しょうにん]], [[shōnin]])
 * [[商人]] ([[しょうにん]], [[shōnin]])
-{{mid4}}
 * [[新人]] ([[しんじん]], [[shinjin]])
 * [[成人]] ([[せいじん]], [[seijin]])
 * [[聖人]] ([[せいじん]], [[seijin]])
+{{mid4}}
 * [[星人]] ([[せいじん]], [[seijin]])
 * [[前人]] ([[ぜんじん]], [[zenjin]])
 * [[善人]] ([[ぜんにん]], [[zennin]])
@@ -171,7 +144,45 @@ The above readings are for three people or more.  When this counts one or two pe
 * [[隼人]] ([[はやひと]], [[hayahito]]; [[はやと]], [[hayato]])
 {{bottom}}
 
-[[Category:1000 Japanese basic words|おとこ]]
+===Etymology 1===
+From {{etyl|ojp|ja|sort=ひと}}.
+
+/hi<sub>1</sub>to<sub>2</sub>/: *pitə > ɸito > çito
+
+====Noun====
+{{ja-noun|k|count=人|hira=ひと|rom=hito}} {{IPA|/hito/|lang=ja}}
+
+# [[person]]
+# [[human]]
+# [[someone else]]
+
+=====Synonyms=====
+* [[方]] ([[かた]]) {{qualifier|honorific}}
+
+=====Compounds=====
+* [[人の世]] (hito no yo)
+
+===Etymology 2===
+From {{etyl|zho|ja}} {{term|sc=Hani|人}}.
+
+====Counter====
+{{ja-pos|k|counter|rom=-nin|hira=にん}}
+
+# [[people]]
+
+=====Usage notes=====
+The above reading is used when counting three people or more.  When counting one or two people, namely {{l|ja|一人|tr=ひとり, hitori|gloss=one person}} or {{l|ja|二人|tr=ふたり, futari|gloss=two people}}, the reading is {{l|ja|り|tr=-ri}}.
+
+===Etymology 3===
+From {{etyl|zho|ja}} {{term|sc=Hani|人}}.
+
+====Suffix====
+{{ja-pos|k|suffix|rom=-jin|hira=じん|hidx=しん'}}
+
+# [[person]] from that group; [[-ian]]
+# person who does that thing
+
+[[Category:1000 Japanese basic words|ひと]]
 
 ----
 
