@@ -606,10 +606,14 @@ Perhaps from {{term|ded|lang=la}} (compare {{etyl|osc|la}} {{term|dat|lang=osc}}
 
 ==Lojban==
 
-===Particle===
-{{jbo-cmavo}}<!--{{head|jbo|particle|cmavo}}-->
+===Cmavo===
+{{jbo-cmavo}}
 
 # {{context|pro-sumti}} [[someone]]/[[something]] that exists #2
+#: ''ro da poi plini la solri ku'o [[de]] poi mluni zo'u da se mluni [[de]]''
+#:: For every planet ''x'' orbiting around the Sun, there exists a moon ''<u>y</u>'' such that ''x'' is orbited by ''<u>y</u>''.
+#: ''ro da poi plini la solri cu se mluni [[de]] poi mluni'' <ref>[http://dag.github.com/cll/16/5/ John Woldemar Cowan, ''The Lojban Reference Grammar'', &sect;16.5: Dropping the prenex.]</ref>
+#:: Every planet orbiting around the Sun has an orbiting moon.
 
 ====Usage notes====
 Multiple occurrences of {{term|de}} in logically connected sentences refer to the same thing.
@@ -634,6 +638,9 @@ Multiple occurrences of {{term|de}} in logically connected sentences refer to th
 
 ====See also====
 * {{l|jbo|zo'u}}
+
+===References===
+<references />
 
 [[Category:Lojban cmavo of selma'o KOhA]]
 
