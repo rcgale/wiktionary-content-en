@@ -140,11 +140,11 @@ Adjectives often applied to "hair": long, short, curly, straight, dark, blonde, 
 * Estonian: {{t-|et|juuksed|p}}
 * Ewe: [[ɖa]]
 * Finnish: {{t+|fi|hius}} {{qualifier|individual}}; {{t+|fi|hiukset|p}}; {{t+|fi|tukka}} {{qualifier|collection}}
-* French: [[cheveu]] {{m}} {{qualifier|individual}}, [[chevelure]] {{f}} {{qualifier|collection}}
+* French: {{t|fr|cheveu|m}} {{qualifier|individual}}, {{t|fr|cheveu|m|alt=cheveux}} {{qualifier|usually plural}}, {{t|fr|chevelure|f}} {{qualifier|collection}}
 *: [[Old French]]: {{tø|fro|cheveu|m}}
 * Friulian: {{tø|fur|cjaveli}}
 * Georgian: {{t|ka|თმა|tr=tma|sc=Geor}}
-* German: {{t+|de|Haar|n}}
+* German: {{t+|de|Haar|n}} {{qualifier|individual}}, {{t+|de|Haar|n|alt=Haare}} {{qualifier|usually plural}}
 * Greek: {{t|el|τρίχα|f|tr=trícha|sc=Grek}}
 * Hebrew: {{t|he|שערה|f|tr=sa'ará|sc=Hebr}}
 * Hindi: {{t-|hi|बाल|m|tr=bāl|xs=Hindi}}, {{t|hi|केश|m|tr=keś|sc=Deva}}
@@ -153,7 +153,7 @@ Adjectives often applied to "hair": long, short, curly, straight, dark, blonde, 
 * Indonesian: {{t-|id|rambut|xs=Indonesian}}
 * Interlingua: {{t|ia|capillo}}
 * Irish: {{t|ga|gruaig|f}}
-* Italian: {{t+|it|capello|m}} {{qualifier|individual}}; {{t+|it|capelli|m|p}}
+* Italian: {{t+|it|capello|m}} {{qualifier|individual}}; {{t+|it|capelli|m|p}} {{qualifier|usually plural}}
 * Japanese: {{t|ja|髪の毛|tr=かみのけ, kami-no ke|sc=Jpan}}, {{t|ja|髪|tr=かみ, kami|sc=Jpan}}
 * Kamba: {{tø|kam|nzue}}
 * Kannada: {{t|kn|ಕೇಶ|sc=Knda}} (kēśa)
@@ -188,8 +188,8 @@ Adjectives often applied to "hair": long, short, curly, straight, dark, blonde, 
 * Romani: {{tø|rom|bal|m}}
 * Romanian: {{t+|ro|păr|m}}
 * Romansch: {{t|rm|chavels|m|p}}
-* Russian: {{t+|ru|волосы|m|p|tr=vólosy}}, {{qualifier|individual}} {{t|ru|волос|m|tr=vólos|sc=Cyrl}}, {{t|ru|волосинка|f|tr=volosínka|sc=Cyrl}}
-* Sanskrit: {{t|sa|केश|sc=Deva}} (kéśa)
+* Russian: {{t+|ru|волосы|m|p|tr=vólosy}} {{qualifier|usually plural}}, {{t|ru|волос|m|tr=vólos|sc=Cyrl}} {{qualifier|individual}}, {{t|ru|волосинка|f|tr=volosínka|sc=Cyrl}}
+* Sanskrit: {{t|sa|केश|m|tr=kéśa|sc=Deva}}
 * Scottish Gaelic: {{t-|gd|falt|m|xs=Scottish Gaelic}}, {{t-|gd|gruag|f|xs=Scottish Gaelic}}
 * Serbo-Croatian:
 *: Cyrillic: {{qualifier|collective}} {{t|sh|коса|f|alt=ко̀са|sc=Cyrl}}, {{qualifier|individual}} {{t|sh|длака|f|alt=дла̏ка|sc=Cyrl}}
@@ -203,7 +203,7 @@ Adjectives often applied to "hair": long, short, curly, straight, dark, blonde, 
 * Swedish: {{t+|sv|hår}}
 * Tagalog: {{t|tl|buhok}}
 * Tajik: {{t|tg|мӯ‍|tr=mū|sc=Cyrl}}
-* Tamil: {{t|ta|முடி|sc=Taml}}
+* Tamil: {{t|ta|முடி|tr=muṭi|sc=Taml}}
 * Taos: [[phóna]]
 * Tatar: {{t|tt|чәч|tr=çäç|sc=Cyrl}}
 * Telugu: {{t|te|వెంట్రుకలు|tr=vemtrukalu}}, {{t|te|జుట్టు|tr=juTTu}}
