@@ -83,7 +83,7 @@
 
 ====Translations====
 {{trans-top|piece of wood}}
-* Bulgarian: {{t+|bg|дъска|f|tr=dəská}}
+* Bulgarian: {{t+|bg|дъска|f|tr=dǎská}}
 * Chinese:
 *: Mandarin: {{t|zh|板|tr=bǎn|sc=Hani}}
 * Czech: {{t|cs|deska|f}}
@@ -98,13 +98,13 @@
 * Hebrew: [[לוח]] (luakh) {{m}}
 * Irish: {{t-|ga|clár|xs=Irish}}
 {{trans-mid}}
-* Japanese: [[板]] (ita), {{t|ja|板|tr=いた, ita|sc=Jpan}}
+* Japanese: {{t|ja|板|tr=いた, ita|sc=Jpan}}
 * Kurdish:
 *: Sorani: {{t|ku|ته‌خته‌|tr=takhta|sc=ku-Arab}}
 * Latvian: [[dēlis]] {{m}}
 * Malayalam: [[പലക]] (palaka)
 * Norwegian: {{t+|no|bord}}, {{t|no|planke}}
-* Persian: {{t|fa|تخته|sc=fa-Arab}}, {{t|fa|تخته|tr=taxte|sc=fa-Arab}}
+* Persian: {{t|fa|تخته|tr=taxte|sc=fa-Arab}}
 * Portuguese: {{t+|pt|tábua}}
 * Romanian: {{t-|ro|scândură}}
 * Russian: {{t+|ru|доска|f|tr=doská}}
@@ -119,7 +119,7 @@
 * Dutch: {{t-|nl|logement|n}}
 * Finnish: {{t|fi|ruoka}}
 * Greek: {{t+|el|διατροφή|f|tr=diatrofí}},  {{t|el|σίτιση|f|tr=sítisi}}
-* Japanese: [[宿泊料金]] (shukuhaku-ryōkin)
+* Japanese: {{t|ja|宿泊料金|tr=shukuhaku-ryōkin|sc=Jpan}}
 {{trans-mid}}
 * Manx: {{t|gv|oastys|m}}, {{t|gv|aaght|m}}
 * Persian: {{t|fa|پول غذا و مکان|sc=fa-Arab}}
@@ -128,7 +128,7 @@
 {{trans-bottom}}
 
 {{trans-top|device containing electrical switches}}
-* Bulgarian: {{t|bg|табло|n}}
+* Bulgarian: {{t|bg|табло|n|tr=tabló}}
 * Dutch: [[paneel]] {{n}}, [[bord]] {{n}}, [[controlebord]] {{n}}
 * Finnish: [[taulu]], [[sähkötaulu]], [[kytkintaulu]]
 * French: {{t+|fr|compteur|m}}
@@ -137,13 +137,13 @@
 {{trans-mid}}
 * Norwegian: {{t-|no|tavle|c}}, {{t-|no|panel|n}}
 * Portuguese: [[mesa elétrica]] {{f}}, [[painel de controle]] {{m}}
-* Russian: {{t+|ru|коммутатор|m|tr=kommutátor}}, {{t+|ru|стенд|m|tr=stend}}, {{t+|ru|панель|f|tr=panél'}}
+* Russian: {{t+|ru|коммутатор|m|tr=kommutátor}}, {{t+|ru|стенд|m|tr=stɛnd}}, {{t+|ru|панель|f|tr=panɛ́lʹ}}, {{t|ru|табло|n|tr=tabló}} {{indeclinable}}
 * Spanish: {{t+|es|tablero|m}}
 * Swahili: {{t+|sw|bao|xs=Swahili}}
 {{trans-bottom}}
 
-{{trans-top|blackboard, whiteboard etc}}
-* Bulgarian: {{t+|bg|дъска|f}}
+{{trans-top|blackboard, whiteboard, etc.}}
+* Bulgarian: {{t+|bg|дъска|f|tr=dǎská}}
 * Czech: {{t|cs|tabule|f}}
 * Dutch: {{t+|nl|bord|n}}
 * Finnish: {{t-|fi|taulu}}, {{t+|fi|lauta}}, {{t+|fi|levy}}
@@ -152,7 +152,7 @@
 * Greek: {{t+|el|πίνακας|m|tr=pínakas}}
 * Hebrew: [[לוח]] (luakh) {{m}}
 * Irish: {{t-|ga|clár|xs=Irish}}
-* Japanese: [[黒板]] (kokuban), [[ホワイトボード]] (howaitobo-do)
+* Japanese: {{t|ja|黒板|tr=こくばん, kokuban|sc=Jpan}}, {{t|ja|ホワイトボード|tr=howaitobōdo|sc=Jpan}} (''whiteboard'')
 * Kurdish:
 *: Sorani: {{t|ku|ته‌خته‌|tr=takhta|sc=ku-Arab}}
 {{trans-mid}}
@@ -175,7 +175,7 @@
 * French: {{t|fr|conseil d'administration|m}}
 * German: {{t+|de|Gremium|n}}
 * Greek: {{t+|el|συμβούλιο|n|tr=symvoúlio}},  {{t|el|επιτροπή|f|tr=epitropí}}
-* Japanese: [[委員会]] (iinkai)
+* Japanese: [[]] (){{t|ja|委員会|tr=いいんかい, iinkai|sc=Jpan}}
 * Norwegian: {{t+|no|styre|n}}
 {{trans-mid}}
 * Persian: {{t|fa|هیئت|sc=fa-Arab}}
@@ -257,7 +257,7 @@
 {{trans-mid}}
 * Novial: [[aborda]]
 * Portuguese: {{t|pt|embarcar}}
-* Russian: {{qualifier|на самолёт, в поезд, etc.}} {{t|ru|садиться|tr=sadítʹsja|sc=Cyrl}}, {{t|ru|сесть|tr=sestʹ|sc=Cyrl}}, {{t|ru|подниматься на борт|tr=podnimátʹsja na bort|sc=Cyrl}}
+* Russian: {{t|ru|садиться|tr=sadítʹsja|sc=Cyrl}} {{impf}}, {{t|ru|сесть|tr=sestʹ|sc=Cyrl}} {{pf}} {{qualifier|на самолёт, в поезд, etc.}}; {{t|ru|подниматься на борт|tr=podnimátʹsja na bort|sc=Cyrl}} {{impf}}
 * Spanish: {{t+|es|abordar}}, {{t-|es|embarcar}}
 * Swedish: {{t|sv|gå ombord}}
 {{trans-bottom}}
@@ -269,7 +269,7 @@
 * Hungarian: {{t|hu|élelmez}}
 {{trans-mid}}
 * Norwegian: {{t|no|losjere}}
-* Russian: {{t|ru|предоставлять пансион|tr=prdostavljátʹ pansión|sc=Cyrl}}
+* Russian: {{t|ru|предоставлять пансион|tr=prdostavljátʹ pansión|sc=Cyrl}} {{impf}}
 * Swedish: {{t|sv|inackordera}} ''v.t.''
 {{trans-bottom}}
 
@@ -278,7 +278,7 @@
 * Finnish: {{t+|fi|majoittua}}
 * Norwegian: {{t|no|losjere}}
 {{trans-mid}}
-* Russian: {{t|ru|столоваться|tr=stolovátʹsja|sc=Cyrl}}
+* Russian: {{t|ru|столоваться|tr=stolovátʹsja|sc=Cyrl}} {{impf}}
 * Swedish: {{t|sv|inackordera}} ''v.i.''
 {{trans-bottom}}
 
@@ -290,7 +290,7 @@
 * German: {{t+|de|entern}}
 {{trans-mid}}
 * Norwegian: {{t+|no|borde}}
-* Russian: {{t|ru|идти на абордаж|tr=idtí na abordáž|sc=Cyrl}}
+* Russian: {{t|ru|идти на абордаж|tr=idtí na abordáž|sc=Cyrl}} {{impf}}
 * Spanish: {{t+|es|abordar}}
 * Swedish: {{t-|sv|borda}}, {{t|sv|äntra}}
 * Turkish: {{t|tr|bordalamak}}
