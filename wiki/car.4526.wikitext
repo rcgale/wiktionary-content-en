@@ -157,7 +157,7 @@ Image:240 Sparks Elevators.jpg|Elevator '''cars'''.
 * Tongan: {{t|to|kâ}}
 * Turkish: {{t+|tr|araba}}, {{t|tr|otomobil}}
 * Turkmen: {{t|tk|maşyyn}}
-* Ukrainian: {{t+|uk|авто|m|tr=avto|xs=Ukrainian}}, {{t|uk|автомобіль|m|tr=avtomobílʹ|sc=Cyrl}}, {{t|uk|машина|f|tr=mašýna|sc=Cyrl}}, {{t|uk|автомашина|f|tr=avtomašýna|sc=Cyrl}}
+* Ukrainian: {{t|uk|автомобіль|m|tr=avtomobílʹ|sc=Cyrl}}, {{t|uk|машина|f|tr=mašýna|sc=Cyrl}}, {{t|uk|автомашина|f|tr=avtomašýna|sc=Cyrl}}, {{t+|uk|авто|n|tr=avto|xs=Ukrainian}}
 * Upper Sorbian: {{l|hsb|awto}} {{n}}
 * Urdu: {{t-|ur|گاڑی|f|tr=gāṛī|xs=Urdu}}, {{t-|ur|کار|f|tr=kār|xs=Urdu}}
 * Vietnamese: {{t+|vi|xe hơi|xs=Vietnamese}}, {{t+|vi|ôtô|xs=Vietnamese}}
@@ -184,6 +184,7 @@ Image:240 Sparks Elevators.jpg|Elevator '''cars'''.
 * Estonian: [[vagun]]
 * Finnish: {{t-|fi|vaunu}}
 * French: {{t+|fr|wagon|m}}, {{t+|fr|voiture|f}}
+* Georgian: {{t|ka|ვაგონი|tr=vagoni|sc=Geor}}
 * German: {{t+|de|Wagen|m}}, {{t-|de|Wagon|m}}
 * Greek: {{t+|el|άμαξα|f|tr=ámaksa}}, {{t+|el|βαγόνι|n|tr=vaγóni}}
 * Hebrew: {{t|he|קרון|m|tr=qaron}}
@@ -225,11 +226,12 @@ Image:240 Sparks Elevators.jpg|Elevator '''cars'''.
 {{trans-bottom}}
 
 {{trans-top|passenger-carrying unit in a subway or elevated train, whether powered or not}}
-* Arabic: {{Arab|[[عربة|عَرَبَةٌ]]}} {{unicode|(ʕáraba)}} {{f}}
+* Arabic: {{t|ar|عربة|f|tr=ʿáraba|sc=Arab}}
 * Armenian: {{t-|hy|վագոն|tr=vagon}}
-* Bulgarian: {{t-|bg|вагон}}
+* Bulgarian: {{t-|bg|вагон|m|tr=vagón}}
 * Catalan: [[vagó]] {{m}}
-* Chinese: [[升降梯]], [[升降梯]] (shēng jiāng tī)
+* Chinese:
+*: Mandarin: {{t+|cmn|升降梯|tr=shēngjiāngtī|sc=Hani}}
 * Czech: {{t-|cs|vagón|m}}
 * Danish: {{t-|da|vogn|c}}
 * Estonian: [[vagun]]
@@ -238,12 +240,12 @@ Image:240 Sparks Elevators.jpg|Elevator '''cars'''.
 * Georgian: {{t|ka|ვაგონი|tr=vagoni|sc=Geor}}
 * German: {{t+|de|Wagen|m}}, {{t-|de|Wagon|m}}
 * Greek: {{t+|el|άμαξα|f|tr=ámaksa}}, {{t+|el|βαγόνι|n|tr=vaγóni}}
-* Hebrew: [[קרון]] (qaron) {{m}}
+* Hebrew: {{t|he|קרון|m|tr=qaron}}
 * Icelandic: {{t+|is|vagn|m}}
 {{trans-mid}}
 * Italian: {{t+|it|cabina|f}}
-* Japanese: [[客車]] ([[きゃくしゃ]], kyakushá)
-* Korean: [[객차]] (gaekcha)
+* Japanese: {{t+|ja|客車|tr=[[きゃくしゃ]], kyakushá}}
+* Korean: {{t|ko|객차|tr=gaekcha|sc=Hang}} ({{t|ko|客車|sc=Hang}})
 * Malay: {{t+|ms|gerabak|xs=Malay}}
 * Norwegian: {{t-|no|vogn|m}}
 * Ojibwe: [[odaabaan]]
@@ -254,14 +256,15 @@ Image:240 Sparks Elevators.jpg|Elevator '''cars'''.
 * Slovene: {{t-|sl|vagon|m}}
 * Swahili: {{t+|sw|gari|xs=Swahili}}
 * Swedish: {{t+|sv|vagn|c}}
-* Thai: {{Thai|[[ตู้รถไฟ]]}} (tùùrōhtfai)
+* Thai: {{t+|th|ตู้รถไฟ|tr=tùù rōht fai}}
 * Welsh: [[cerbyd]], [[car]]
 {{trans-bottom}}
 
 {{trans-top|moving, load-carrying component of an elevator}}
 * Armenian: {{t-|hy|վագոն|tr=vagon}}
 * Catalan: [[cabina]] {{f}}
-* Chinese: [[吊艙]], [[吊舱]] (diào cāng)
+* Chinese:
+*: Mandarin: {{t+|cmn|吊艙|sc=Hani}}, {{t+|cmn|吊舱|tr=diàocāng|sc=Hani}}
 * Czech: {{t-|cs|kabina|f}}
 * Danish: {{t-|da|elevatorstol|c}}
 * Estonian: [[vagun]]
@@ -274,7 +277,7 @@ Image:240 Sparks Elevators.jpg|Elevator '''cars'''.
 * Ojibwe: [[akwaandawebizon]], [[akwaandawaagan]]
 * Polish: {{t-|pl|kabina|f}}
 * Portuguese: {{t+|pt|elevador|m}} (passenger), {{t+|pt|monta-cargas|m}} (cargo)
-* Russian: {{t+|ru|кабина|m}}
+* Russian: {{t+|ru|кабина|f|tr=kabʹna}}
 * Slovak: [[kabína]] {{f}}
 * Swahili: {{t+|sw|gari|xs=Swahili}}
 * Swedish: {{t|sv|hisskorg}}
