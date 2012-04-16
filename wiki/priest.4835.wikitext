@@ -33,7 +33,7 @@ From {{etyl|enm}} {{term|preist|lang=enm}}, {{term|preest|lang=enm}}, from {{ety
 {{trans-top|clergyman}}
 * Afrikaans: {{t-|af|priester|xs=Afrikaans}}
 * Amharic: {{t|am|ካህን|tr=kahn|sc=Ethi}}
-* Arabic: {{Arab|[[قسيس]]}} {{IPAchar|(qissīs)}} {{m}},  {{t-|ar|كاهن|m|tr=kaahin}}, {{t|ar|قسيس|m|tr=qissīs|sc=Arab}}, {{t|ar|كاهن|m|tr=kāhin|sc=Arab}}
+* Arabic: {{t|ar|قسيس|m|tr=qissīs|sc=Arab}}, {{t|ar|كاهن|m|tr=kāhin|sc=Arab}}
 * Armenian: {{t-|hy|քահանա|tr=k'ahana}}, {{t-|hy|երեց|tr=erec’}}, {{qualifier|colloquial}} {{t-|hy|տերտեր|tr=terter}},  {{qualifier|pagan}} {{t-|hy|քուրմ|tr=k’urm}}
 * Asturian: [[sacerdote]] {{m}}
 * Azeri: {{t|az|keşiş|xs=Azeri}}
@@ -45,9 +45,8 @@ From {{etyl|enm}} {{term|preist|lang=enm}}, {{term|preest|lang=enm}}, from {{ety
 * Chamicuro: {{tø|ccc|patile}}
 * Chinese:
 *: Cantonese: {{tø|zh-yue|祭司|tr=dzai3 si1|sc=Hani}}
-*: Mandarin: {{t-|cmn|祭司|tr=jìsī|sc=Hani}}, {{t-|cmn|教士|tr=jiàoshì|sc=Hani}}
+*: Mandarin: {{t+|zh|祭司|tr=jìsī|sc=Hani}}, {{t+|zh|教士|tr=jiàoshì|sc=Hani}}
 *: [[Min Nan]]: {{tø|nan|傳教士|tr=thôan-káu-sū|sc=Hans}}
-* Croatian: {{t+|hr|svećenik|m}}
 * Czech: {{t-|cs|kněz|m}}
 * Danish: {{t+|da|præst}}
 * Dutch: {{t+|nl|priester|m}}, {{t+|nl|pastoor|m}}
@@ -69,7 +68,7 @@ From {{etyl|enm}} {{term|preist|lang=enm}}, {{term|preest|lang=enm}}, from {{ety
 * Italian: {{t+|it|prete|m}}, {{t+|it|sacerdote|m}}
 {{trans-mid}}
 * Japanese: {{t|ja|司祭|tr=shisai}} ([[しさい]]); {{t|ja|牧師|tr=bokushi}} ([[ぼくし]]); {{t+|ja|僧|tr=sō}} ([[そう]]), {{l|ja|法師}} ({{l|ja|ほうし}}, ''[[hōshi]]''), {{t|ja|司祭|tr=しさい, shisai|sc=Jpan}}, {{t|ja|祭司|tr=さいし, saishi|sc=Jpan}}
-* Korean: [[신부]] (sinbu), {{t|ko|신부|tr=sinbu|sc=Kore}}, {{t|ko|神父|sc=Kore}}
+* Korean: {{t|ko|신부|tr=sinbu|sc=Kore}} ({{t|ko|神父|sc=Kore}})
 * Latin: {{t+|la|sacerdos|m|f}}, {{t-|la|flamen|m|f}}
 * Macedonian: {{t-|mk|свештеник|m|tr=svéštenik}},  {{t-|mk|поп|m|tr=pop}}
 * Maori: [[Tohunga]]
@@ -84,9 +83,11 @@ From {{etyl|enm}} {{term|preist|lang=enm}}, {{term|preest|lang=enm}}, from {{ety
 * Polish: [[ksiądz]] {{m}} ''(Christian)'', [[kapłan]] {{m}}, [[klecha]] {{m}} ''(disapproving)''
 * Portuguese: {{t+|pt|padre|m}} ''(Christian)'', {{t+|pt|sacerdote|m}}, {{t|pt|presbítero|m}}
 * Romanian: {{t+|ro|preot}}
-* Russian: {{t+|ru|жрец|m|tr=žrets}} ''(especially pagan)'', {{t+|ru|священник|m|tr=svjaščénnik}}, {{t+|ru|поп|m|tr=pop}}
+* Russian: {{t+|ru|священник|m|tr=svjaščénnik}}, {{t+|ru|поп|m|tr=pop}}, {{t+|ru|жрец|m|tr=žrec}} ''(especially pagan)'' 
 * Scottish Gaelic: {{t-|gd|sagart|m|xs=Scottish Gaelic}}
-* Serbian: {{t-|sr|sveštenik|m}}, {{t-|sr|pop|m}}, {{t-|sr|svećenik|m}}, [[otac]] {{m}}, [[žrec]] {{m}} (''pagan'')
+* Serbo-Croatian: 
+*: Croatian: {{t|sh|свештеник|m}}, {{t|sh|поп|m}}, {{t|sh|свећеник|m}}, {{t|sh|отац|m}}, {{t|sh|жрец|m}} (''pagan'')
+*: Croatian: {{t|sh|sveštenik|m}}, {{t|sh|pop|m}}, {{t|sh|svećenik|m}}, {{t|sh|otac|m}}, {{t|sh|žrec|m}} (''pagan'')
 * Slovak: [[kňaz]], [[otec]], [[duchovný]], [[páter]], [[páterko]] {{m}}
 * {{trreq|sl}}
 * Spanish: {{t-|es|cura|m}}, {{t+|es|sacerdote|m}}, {{t-|es|párroco|m}}
