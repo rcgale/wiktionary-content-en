@@ -51,7 +51,7 @@
 * Afrikaans: {{t-|af|arend|xs=Afrikaans}}
 * Albanian: [[shqiponja]], [[shkabë]]
 * Amharic: {{tø|am|ንስር|tr=nəsər|sc=Ethi}}
-* Arabic: {{Arab|[[نسر]]}} (nasr), {{Arab|[[عقاب]]}} {{IPAchar|(ʕuqāb)}}
+* Arabic: {{t|ar|نسر|tr=nasr}}, {{t|ar|عقاب|tr=ʕuqāb}}
 * Aragonese: {{t|an|alica|f}}, {{t|an|aliga|f}}
 * Aramaic:
 *: Syriac: [[ܢܫܪܐ]] (nišrā’) {{m}}
@@ -67,7 +67,6 @@
 * Bemba: [[lubambe]]
 * Bengali: {{t|bn|ঈগল|sc=Beng|xs=Bengali}}, {{t|bn|ইগল|sc=Beng|xs=Bengali}}
 * Bezhta: [[цуⁿгьа]] (cuⁿha)
-* Bosnian: {{t-|bs|orao|m}}
 * Breton: [[erer]]
 * Bulgarian: {{t+|bg|орел|m|tr=orel}}
 * Buryat: {{tø|bua|мӱркӱт}}
@@ -85,7 +84,6 @@
 * Chuvash: {{tø|cv|ăмăрткайăк|tr=ămărtkаjăk|sc=Cyrl}}
 * Cornish: [[er]]
 * Crimean Tatar: {{tø|crh|qartal}}
-* Croatian: {{t-|hr|orao|m}}
 * Czech: {{t+|cs|orel|m}}
 * Danish: {{t-|da|ørn|c}}
 * Dutch: {{t+|nl|arend}}, {{t+|nl|adelaar}}
@@ -105,11 +103,11 @@
 *: [[Ancient Greek]]: {{tø|grc|ἀετός|tr=aetos|sc=polytonic|xs=Ancient Greek}}
 * Greenlandic: {{t-|kl|nattoralik|xs=Greenlandic}}
 * Guernésiais: {{tø|roa-grn|aiglle|m}}
-* Gujarati: {{t|gu|ગરુડ|tr=garuḍa|sc=Gujr}}
+* Gujarati: {{t|gu|ગરુડ|tr=garuḍ|sc=Gujr}}
 * Hausa: {{t|ha|shaho}}
 *: Hebrew: [[נשרא]] (nišrā’) {{m}}
 * Hebrew: {{t-|he|עיט|m|tr=áyit}}
-* Hindi: [[गरुड]] (garuḍ), [[चील]] (ćīl) {{g|hi}}
+* Hindi: {{t|hi|गरुड|tr=garuḍ}}, {{t|hi|चील|tr=cīl}}
 * Hinukh: [[цой]] (coj)
 * Hittite: {{tø|hit|𒄩𒀀𒊏𒀸|tr=ḫāras|sc=Xsux|xs=Hittite}}
 * Hopi: {{tø|hop|nuvakwahu}}
@@ -133,15 +131,15 @@
 * Latin: {{t+|la|aquila|f}}
 * Latvian: {{t+|lv|ērglis|xs=Latvian}}
 * Lithuanian: {{t+|lt|aras|m|xs=Lithuanian}}, {{t+|lt|erelis|m|xs=Lithuanian}}
-{{trans-mid}}
 * Lower Sorbian: {{tø|dsb|jerjoł|m|xs=Lower Sorbian}}
+{{trans-mid}}
 * Macedonian: {{t-|mk|орел|m|tr=orel}}
 * Malay: {{t|ms|lang}}
 * Malayalam: {{t|ml|പരുന്ത്|tr=parunthu|sc=Mlym}}
 * Maltese: {{t-|mt|ajkla|xs=Maltese}}
 * Manx: [[urley]]
 * Maori: {{t|mi|ihorua|sc=Arab}}
-* Marathi: [[गरूड]] (garuud) {{g|Marathi}}
+* Marathi: {{t|mr|गरूड|tr=garūḍ}}
 * Maricopa: {{tø|mrc|shpa}}
 * Meänkieli: {{tø|fit|kokko}}
 * Middle High German: [[ar]], [[adelar]]
@@ -165,9 +163,10 @@
 * Old Prussian: {{tø|prg|arelie|xs=Old Prussian}}
 * {{trreq|or}}
 * Ossetian: {{tø|os|арцъиу|sc=Cyrl|xs=Ossetian}}, {{tø|os|цæргæс|sc=Cyrl|xs=Ossetian}}
-* Ottoman Turkish: {{tø|ota|baz|sc=ota-Arab}}, {{tø|ota|şahbaz|sc=ota-Arab}}, {{tø|ota|şehbaz|sc=ota-Arab}}, {{tø|ota| باز |sc=ota-Arab}}{{tø|ota|شهباز |sc=ota-Arab}}
+* Ottoman Turkish: {{tø|ota|باز|tr=bâz|sc=ota-Arab}}, {{tø|ota|شهباز|tr=şehbâz, şahbâz|sc=ota-Arab}}
 * Pali: {{t|pi|mahāsena|m}}, {{t|pi|garuḷa|m}}
-* Persian: {{t-|fa|شهباز|tr=šahbâz|xs=Persian}}, {{t+|fa|عقاب|tr=oghāb|xs=Persian}}
+* Pashto: {{t|ps|ګوربت}}
+* Persian: {{t-|fa|شهباز|tr=šahbâz|xs=Persian}}, {{t+|fa|عقاب|tr='oqâb|xs=Persian}}, {{t|fa|دال|tr=dâl|xs=Persian}}
 * Polabian: {{tø|pox|viŕål|m|xs=Polabian}}
 * Polish: {{t+|pl|orzeł|m}}
 * Portuguese: {{t+|pt|águia|f}}
@@ -180,12 +179,12 @@
 * Russian: {{t+|ru|орёл|m|tr=orjól}}
 * Sami: [[goaskin]]
 * Samoan: [[aeto]]
-* Sanskrit: [[गरुड]] (garuḍa) {{m}}
+* Sanskrit: {{t|sa|गरुड|tr=garuḍa|m}}
 * Sardinian: [[àcuila]], [[altanera]], [[àbbile]], [[àbbila]]
 * Scottish Gaelic: {{t-|gd|iolair|f|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: {{t-|sr|орао|m|sc=Cyrl}}
-*: Roman: {{t-|hr|orao|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|орао|alt=о̀рао|m|sc=Cyrl}}
+*: Roman: {{t|sh|orao|alt=òrao|m|sc=Latn}}
 * Shona: {{t|sn|gondo}}
 * Slovak: {{t-|sk|orol|m}}
 * Slovene: {{t+|sl|orel|m}}, {{t+|sl|orlica|f}}
@@ -195,10 +194,10 @@
 * Swazi: [[lú-khôzi]]
 * Swedish: {{t+|sv|örn}}
 * Tagalog: [[agila]], [[banoy]]
-* Tamil: [[எருவை]] (eruvai), [[கங்கம்]] (kaṅkam)
+* Tamil: {{t|ta|எருவை|tr=eruvai}}, {{t|ta|கங்கம்|tr=kaṅkam}}
 * Taos: [[cíwena]]
-* Telugu: [[గ్రద్ద]] (gradda)
-* Thai: {{Thai|[[อินทรี]]}} (insee)
+* Telugu: {{t|te|గ్రద్ద|tr=gradda}}
+* Thai: {{t|th|อินทรี|tr=insee}}
 * Tibetan: [[གོ་བོ་]] (go.bo)
 * Tongan: [['ikale]]
 * Tsez: [[цей]] (cey) ''3''
@@ -207,7 +206,7 @@
 * Udmurt: {{tø|udm|ӧрӟи}}
 * Ukrainian: {{t+|uk|орел|m|tr=orel|xs=Ukrainian}}
 * Upper Sorbian: {{tø|hsb|worjoł|m|xs=Upper Sorbian}}
-* Urdu: {{ur-Arab|[[عقاب]]}} (uqāb), {{ur-Arab|[[چیل]]}} (ćīl) {{f}}, {{ur-Arab|[[گرڈ]]}} (garuḍ)
+* Urdu: {{t|ur|عقاب|tr='uqāb|xs=Urdu}}, {{t|ur|چیل|tr=cīl|xs=Urdu}}, {{t|ur|گرڈ|tr=garuḍ|xs=Urdu}}
 * Uzbek: {{t|uz|burgut|xs=Uzbek}}
 * Vietnamese: [[chim đại bàng]]
 * Vilamovian: {{tø|wym|oduł}}
