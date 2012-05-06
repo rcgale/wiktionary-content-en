@@ -142,6 +142,7 @@
 * Bengali: {{t|bn|অক্ষর|tr=ôkshôr|sc=Beng}}
 * Breton: {{t+|br|lizherenn|xs=Breton}}
 * Bulgarian: {{t+|bg|буква|f|tr=búkva}}
+* Burmese: {{t|my|အက္ခရာ|tr=e' khaja|sc=Mymr}}
 * Catalan: {{t+|ca|lletra|f}}, {{t+|ca|caràcter|m}}
 * Chechen: {{tø|ce|элп}}
 * Chinese:
@@ -162,7 +163,7 @@
 * German: {{t+|de|Buchstabe|m}}
 * Greek: {{t+|el|γράμμα|n|tr=grámma}}
 * Haitian Creole: [[lèt]]
-* Hebrew: [[אות]] (ot) {{f}}
+* Hebrew: [[אות]] (ot) {{f}}, {{t|he|אות|f|tr=ot|sc=Hebr}}
 * Hindi: {{t|hi|अक्षर|m|tr=akṣar|sc=Deva}}
 * Hungarian: {{t+|hu|betű}}
 * Icelandic: {{t+|is|bókstafur|m}}, {{t+|is|stafur|m}}
@@ -171,10 +172,12 @@
 * Italian: {{t+|it|lettera|f}}, {{t+|it|carattere|m}}
 * Japanese: {{t+|ja|文字|tr=[[もじ]], móji}}
 * Kabyle: [[asekkil]]
+* Kazakh: {{t|kk|әріп|tr=ärip|sc=Cyrl}}
 * Khmer: {{t|km|តួអក្សរ|tr=dtūə əksor|sc=Khmr}}
 * Korean: {{t+|ko|문자|tr=munja|sc=Hang}}
 * Kurdish:
 *: Sorani: {{t+|ku|پیت|tr=pít|sc=ku-Arab}}
+* Kyrgyz: {{t|ky|тамга|tr=tamga|sc=Cyrl}}
 * Lao: {{t-|lo|ຕົວ|tr=tua|sc=Laoo|xs=Lao}}
 * Latgalian: {{tø|ltg|liters|m}}
 * Latin: {{t+|la|littera}}
@@ -206,6 +209,9 @@
 * Sanskrit: {{t|sa|वर्ण|m|tr=várṇa|sc=Deva}}, {{t|sa|अक्षरः|tr=akṣaraḥ|sc=Deva}}
 * Scottish Gaelic: {{t-|gd|litir|f|xs=Scottish Gaelic}}
 * Serbian: [[slovo]] {{n}}, [[bukva]] {{f}} (archaic)/(poetic)
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|slovo|n|alt=slȍvo}}, {{qualifier|archaic, poetic}} {{t|sh|буква|f}}
+*: Roman: {{t|sh|slovo|n|alt=slȍvo}}, {{qualifier|archaic, poetic}} {{t|sh|bukva|f}}
 * Sicilian: {{t+|scn|littra|f|xs=Sicilian}}
 * Sinhalese: {{t|si|අකුර|tr=akura|sc=Sinh}}
 * Slovak: {{t-|sk|písmeno|n}}
@@ -214,17 +220,19 @@
 * Swahili: {{t+|sw|herufi|xs=Swahili}}
 * Swedish: {{t+|sv|bokstav|c}}
 * Tagalog: {{t|tl|titik}}, {{t|tl|letra}}
+* Tajik: {{t|tg|ҳарф|tr=harf|sc=Cyrl}}
 * Tamil: [[எழுத்து]] (ezhuttu)
 * Telugu: {{t+|te|అక్షరము|tr=aksharaM}}
 * Thai: {{t|th|ตัวอักษร|tr=dtua àksŏn|sc=Thai}}, {{t|th|อักษร|tr=àksŏn|sc=Thai}}, {{t|th|อักขระ|tr=àkkàrà|sc=Thai}}
 * Turkish: {{t+|tr|harf}}
+* Turkmen: {{t|tk|harp}}
 * Ukrainian: {{t+|uk|буква|f|tr=búkva|xs=Ukrainian}}, {{t-|uk|літера|f|tr=lítera|xs=Ukrainian}}
 * Urdu: {{t|ur|حرف|tr=harf|sc=ur-Arab}}
 * Uzbek: {{t-|uz|harf|xs=Uzbek}}
 * Vietnamese: {{t-|vi|chư|xs=Vietnamese}}, {{t-|vi|chữ lớn|xs=Vietnamese}}
 * Volapük: {{t-|vo|tonab}}
 * Welsh: {{t+|cy|llythyren|f|xs=Welsh}}
-* Yiddish: [[אות]] (os) {{m}} or {{n}}
+* Yiddish: [[אות]] (os) {{m}} or {{n}}, {{t|yi|אות|m|n|tr=os|sc=Hebr}}
 {{trans-bottom}}
 
 {{trans-top|written message}}
@@ -266,11 +274,11 @@
 * Korean: {{t+|ko|편지|tr=pyeonji|sc=Hang}}
 * Kurdish:
 *: Sorani: {{t+|ku|نامه‌|tr=náme|sc=ku-Arab}}
-{{trans-mid}}
 * Lao: {{t-|lo|ຈົດໝາຍ|tr=chot-maaj|sc=Laoo|xs=Lao}}
 * Latin: {{t+|la|epistula|f}}
 * Latvian: {{t-|lv|vēstule|f|xs=Latvian}}
 * Lithuanian: {{t+|lt|laiškas|m|xs=Lithuanian}}
+{{trans-mid}}
 * Lojban: [[xatra]]
 * Luxembourgish: {{t|lb|Bréif|m}}
 * Macedonian: {{t-|mk|писмо|n|tr=písmo}}
@@ -289,6 +297,9 @@
 * Russian: {{t+|ru|письмо|n|tr=pis’mó}}
 * Scottish Gaelic: {{t-|gd|litir|f|xs=Scottish Gaelic}}
 * Serbian: {{t+|sr|писмо|n|tr=pismo|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|писмо|n|alt=пи́смо}}
+*: Roman: {{t|sh|pismo|n|alt=písmo}}
 * Slovak: {{t-|sk|list|m}}
 * Slovene: {{t+|sl|pismo|n}}
 * Spanish: {{t+|es|carta|f}}
@@ -301,11 +312,12 @@
 * Tetum: [[karta]], [[surat]]
 * Thai: {{t|th|จดหมาย|tr=jòt măai|sc=Thai}}
 * Turkish: {{t+|tr|mektup}}
+* Turkmen: {{t|tk|hat}}
 * Ukrainian: {{t-|uk|лист|m|tr=lyst|xs=Ukrainian}}
 * Urdu: {{t|ur|خط|m|tr=xat|sc=ur-Arab}}, {{t|ur|پتر|m|tr=patra|sc=ur-Arab}}
 * Vietnamese: {{t|vi|thư}}
 * Volapük: {{t+|vo|pened}}
-* Yiddish: [[בריוו]] (briv) {{m}}
+* Yiddish: [[בריוו]] (briv) {{m}}, {{t|yi|בריוו|m|tr=briv|sc=Hebr}}
 {{trans-bottom}}
 
 ===Verb===
