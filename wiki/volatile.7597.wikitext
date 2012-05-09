@@ -5,7 +5,7 @@
 * {{a|US}} {{IPA|/ˈvɑl.əˌtaɪ.əl/|/ˈvɑl.ə.təl/}}
 
 ===Adjective===
-{{head|en|adjective}}
+{{en-adj}}
 
 # {{physics}} [[evaporating]] or [[vaporizing]] [[readily]] under normal conditions.
 # {{context|of a substance|informal}} [[explosive]].
@@ -40,7 +40,7 @@
 * Japanese: {{t|ja|揮発性|tr=kihatsusei}} {{qualifier|adnominal}}
 * {{trreq|jv}}
 {{trans-mid}}
-* Korean: [[휘발성의]] (hwibalseong-ui)
+* Korean: {{t|ko|휘발성의|tr=hwibalseong-ui}}
 * Manx: {{t|gv|so-ghaalagh}}
 * Norwegian: {{t|no|flyktig}}
 * Ossetian: [[сысгæ]]
@@ -56,7 +56,7 @@
 {{trans-bottom}}
 
 {{trans-top|(informal) explosive}}
-* Finnish: [[räjähdysherkkä]]
+* Finnish: {{t|fi|räjähdysherkkä}}
 * Greek: {{t|el|εκρηκτικός|m|tr=ekriktikós}}
 {{trans-mid}}
 * Italian: {{t-|it|volatile}}
@@ -66,7 +66,7 @@
 {{trans-top|(of a price etc) variable or erratic}}
 * Chinese:
 *: Mandarin: {{zh-ts|動蕩不定的|动荡不定的}}
-* Finnish: [[vaihteleva]], [[volatiili]]
+* Finnish: {{t|fi|vaihteleva}}, {{t|fi|volatiili}}
 * Greek: {{t|el|ευμετάβλητος|m|tr=efmetávlitos}}, {{t|el|ρευστός|m|tr=refstós}}
 {{trans-mid}}
 * Portuguese: {{t|pt|instável}}
@@ -77,7 +77,7 @@
 {{trans-top|fickle}}
 * Chinese:
 *: Mandarin: {{zh-ts|易變的|易变的}}
-* Finnish: [[häilyväinen]]
+* Finnish: {{t|fi|häilyväinen}}
 {{trans-mid}}
 * Greek: {{t|el|ευμετάβλητος|m|tr=efmetávlitos}}, {{t|el|επιπόλαιος|m|tr=epipólaios}}, {{t|el|άστατος|m|tr=ástatos}}
 * Russian: {{t+|ru|непостоянный|tr=nepostojánnyj}}
@@ -85,10 +85,10 @@
 
 {{trans-top|temporary or ephemeral}}
 * Dutch: {{t+|nl|tijdelijk}}
-* Finnish: [[häilyväinen]], [[lyhytkestoinen]]
+* Finnish: {{t|fi|häilyväinen}}, {{t|fi|lyhytkestoinen}}
 * Greek: {{t|el|προσωρινός|m|tr=prosorinós}}, {{t|el|εφήμερος|m|tr=efímeros}}
 {{trans-mid}}
-* Polish: {{t|pl|ulotny|m}},  {{t|pl|nieuchwytny|m}}
+* Polish: {{t|pl|ulotny|m}}, {{t|pl|nieuchwytny|m}}
 * Russian: {{t+|ru|летучий|tr=letúčij}}
 {{trans-bottom}}
 
@@ -109,28 +109,33 @@
 ----
 
 ==French==
+
 ===Etymology===
 From {{etyl|la|fr}} {{term|volatilis||flying|lang=la}}
+
 ===Adjective===
 {{fr-adj-mf}}
+
 # [[flying]], [[volant]]
 # {{feminine of|volatil|lang=fr}}
 
 ===Noun===
 {{fr-noun|m}}
+
 # [[fowl]], [[bird]]
 
 ----
+
 ==Italian==
 
 ===Adjective===
 {{it-adj|volatil|e|i}}
 
-# {{chemistry|physics|lang=it}} [[volatile#English|volatile]]
+# {{chemistry|physics|lang=it}} {{l|en|volatile}}
 # [[flying]]
 
 ====Synonyms====
-* (2) [[volante]]
+* {{sense|flying}} [[volante]]
 
 ===Noun===
 {{it-noun|volatil|m|e|i}}
