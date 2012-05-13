@@ -23,6 +23,12 @@ From {{proto|Germanic|brōwō||brūwō|lang=is}}.
 
 ==Irish==
 
+===Pronunciation===
+*{{IPA|[bˠɾˠuː]|lang=ga}}
+
+===Mutation===
+{{ga mut cons|b|rú}}
+
 ===Etymology 1===
 
 ====Noun====
@@ -31,10 +37,7 @@ From {{proto|Germanic|brōwō||brūwō|lang=is}}.
 # [[hostel]]
 
 =====Declension=====
-{{ga-noun-m4|b|rú|rúnna}}
-
-=====Mutation=====
-{{ga mut cons|b|rú}}
+{{ga-decl-m4|b|rú|rúnna}}
 
 =====Derived terms=====
 * {{l|ga|brú óige}}
@@ -43,15 +46,9 @@ From {{proto|Germanic|brōwō||brūwō|lang=is}}.
 ===Etymology 2===
 
 ====Verb====
-{{head|ga|verb form|sort=bru}}
+{{head|ga|verbal noun|sort=bru}}
 
 # {{verbal noun of|brúigh|lang=ga}}
-
-=====Conjugation=====
-{{ga-verb-conj-1c|b|rú|q=o|vn=brú}}
-
-=====Mutation=====
-{{ga mut cons|b|rú}}
 
 ====Noun====
 {{head|ga|noun|g=m|sort=bru}}
@@ -63,12 +60,9 @@ From {{proto|Germanic|brōwō||brūwō|lang=is}}.
 
 =====Declension=====
 {{qualifier|as verbal noun}}
-{{ga-noun-m3|b|rú|rúite|rúnna}}
+{{ga-decl-m3|b|rú|rúite|rúnna}}
 {{qualifier|as regular noun}}
-{{ga-noun-m4|b|rú|rúnna}}
-
-=====Mutation=====
-{{ga mut cons|b|rú}}
+{{ga-decl-m4|b|rú|rúnna}}
 
 [[de:brú]]
 [[el:brú]]
