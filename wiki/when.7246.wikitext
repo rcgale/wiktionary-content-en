@@ -52,7 +52,7 @@ From {{etyl|enm}} {{term|when|when(ne)|lang=enm}}, {{term|whan|whan(ne)|lang=enm
 * German: {{t+|de|wann}}
 * Greek: {{t|el|πότε|tr=póte|sc=Grek}}
 * Greenlandic: {{qualifier|past}} {{t|kl|qanga}}, {{qualifier|future}} {{t|kl|qaqugu}}
-* Hindi: {{t-|hi|कब|xs=Hindi}} (kab)
+* Hindi: {{t-|hi|कब|tr=kab|xs=Hindi}}
 * Hungarian: {{t+|hu|mikor}}
 * Icelandic: {{t+|is|hvenær}}
 * Indonesian: {{t-|id|kapan|xs=Indonesian}}
@@ -63,8 +63,8 @@ From {{etyl|enm}} {{term|when|when(ne)|lang=enm}}, {{term|whan|whan(ne)|lang=enm
 * Korean: {{t|ko|언제|tr=eonje|sc=Kore}}
 * Krio: {{tø|kri|ustem}}
 * Kurdish:
-*: Kurmanji: [[kengî]]
-*: Sorani: {{ku-Arab|[[که‌ی]]}}
+*: Kurmanji: {{t|ku|kengî}}
+*: Sorani: {{t|ku|که‌ی|sc=ku-Arab}}
 * Latgalian: {{tø|ltg|kod}}
 * Latin: {{t+|la|quando}}
 * Latvian: {{t|lv|kad}}
@@ -74,7 +74,7 @@ From {{etyl|enm}} {{term|when|when(ne)|lang=enm}}, {{term|whan|whan(ne)|lang=enm
 * Malay: {{t|ms|bila}}, {{t|ms|kapan}}
 * Norwegian: {{t+|no|når}}
 * Old Irish: {{tø|sga|cuin|xs=Old Irish}}
-* Persian: {{t|fa|کی|tr=key|sc=fa-Arab}}
+* Persian: {{t|fa|کی|tr=key|xs=Persian}}
 * Polish: {{t+|pl|kiedy}}
 * Portuguese: {{t+|pt|quando}}
 * Romanian: {{t-|ro|când}}
@@ -84,14 +84,16 @@ From {{etyl|enm}} {{term|when|when(ne)|lang=enm}}, {{term|whan|whan(ne)|lang=enm
 * Slovak: {{t|sk|kedy}}
 * Spanish: {{t+|es|cuando}}
 * Swedish: {{t+|sv|när}}
-* Telugu: [[ఎప్పుడు]] (eppuDu)
+* Tajik: {{t|tg|кай|sc=Cyrl}}
+* Telugu: {{t|te|ఎప్పుడు|tr=eppuDu}}
 * Thai: {{t|th|เมื่อ|tr=mêua|sc=Thai}}
 * Ukrainian: {{t|uk|коли|tr=kolý|sc=Cyrl}}
-* Urdu: {{t-|ur|کب|xs=Urdu}} (kab)
+* Urdu: {{t-|ur|کب|tr=kab|xs=Urdu}}
 * Vietnamese: {{t|vi|khi nào}}
 * Welsh: {{t|cy|pryd|xs=Welsh}}
 * Xhosa: [[xa]]
 {{trans-bottom}}
+
 {{trans-top|indirect question}}
 * Czech: {{t|cs|kdy}}
 * Dutch: {{t|nl|wanneer}}
@@ -167,14 +169,16 @@ From {{etyl|enm}} {{term|when|when(ne)|lang=enm}}, {{term|whan|whan(ne)|lang=enm
 * Russian: {{t+|ru|когда|tr=kogdá}}, {{t|ru|в то время как|tr=v to vrémja kak|sc=Cyrl}}
 * Scots: {{tø|sco|whan|xs=Scots}}
 * Scottish Gaelic: {{t-|gd|cuin|xs=Scottish Gaelic}}
-* Serbo-Croatian: {{t|sh|када|sc=Cyrl|xs=Serbo-Croatian}},  {{t|sh|kada|xs=Serbo-Croatian}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|када|sc=Cyrl}}
+*: Roman:{{t|sh|kada|sc=Latn}}
 * Slovak: {{t|sk|kedy}}
 * Slovene: {{t+|sl|ko}}
 * Spanish: {{t+|es|cuando}}
 * Swedish: {{t+|sv|när}}
 * Thai: {{t|th|เมื่อใด|tr=mêua dai}}
 * Ukrainian: {{t-|uk|коли|tr=kolý|xs=Ukrainian}}
-* Urdu: {{t-|ur|جب|xs=Urdu}} (jab)
+* Urdu: {{t-|ur|جب|tr=jab|xs=Urdu}}
 * Vietnamese: {{t|vi|khi nào|xs=Vietnamese}},  {{t+|vi|khi|xs=Vietnamese}},  {{t|vi|lúc nào|xs=Vietnamese}}
 * Welsh: {{t|cy|pryd}}
 * Yiddish: {{t-|yi|ווען|tr=ven|xs=Yiddish}}
@@ -195,7 +199,7 @@ From {{etyl|enm}} {{term|when|when(ne)|lang=enm}}, {{term|whan|whan(ne)|lang=enm
 * German: {{t+|de|wenn}}
 * Greek: {{t+|el|όταν|tr=ótan}}
 * Hebrew: {{t-|he|כאשר|tr=ka'asher}}
-* Hindi: {{t|hi|जब|tr=jab|sc=Deva}}
+* Hindi: {{t|hi|जब|tr=jab|xs=Hindi}}
 * Irish: {{t-|ga|nuair|xs=Irish}}
 * Italian: {{t+|it|quando}}
 * Japanese: {{t+|ja|時|alt=...の時|tr=...no toki}}, {{t+|ja|とき|alt=...のとき|tr=...no toki}}
@@ -213,7 +217,7 @@ From {{etyl|enm}} {{term|when|when(ne)|lang=enm}}, {{term|whan|whan(ne)|lang=enm
 * Spanish: {{t+|es|cuando}}
 * Swedish: {{t+|sv|när}}, {{t+|sv|då}}
 * Thai: {{t|th|ขณะที่|tr=kà-nà têe}}
-* Urdu: {{t|ur|جب|tr=jab|sc=ur-Arab}}
+* Urdu: {{t|ur|جب|tr=jab|xs=Urdu}}
 * Vietnamese: {{t+|vi|khi|xs=Vietnamese}}
 * Welsh: {{t|cy|tra}}
 * Yiddish: {{t-|yi|אַז|tr=az|xs=Yiddish}}
@@ -266,7 +270,7 @@ From {{etyl|enm}} {{term|when|when(ne)|lang=enm}}, {{term|whan|whan(ne)|lang=enm
 {{trans-mid}}
 * Macedonian: {{t-|mk|кога|tr=kóga}}
 * Norwegian: {{t+|no|da}}
-* Persian: {{t|fa|وقتی|tr=waqti|sc=fa-Arab}}
+* Persian: {{t|fa|وقتی|tr=vaqti|xs=Persian}}
 * Polish: {{t+|pl|gdy}}, {{t+|pl|kiedy}}
 * Portuguese: {{t+|pt|quando}}
 * Romanian: {{t-|ro|când}}
@@ -276,7 +280,7 @@ From {{etyl|enm}} {{term|when|when(ne)|lang=enm}}, {{term|whan|whan(ne)|lang=enm
 * Shor: {{tø|cjs|чер}}
 * Spanish: {{t+|es|cuando}}
 * Swedish: {{t+|sv|när}}
-* Tajik: {{t|tg|чу|tr=chu|sc=Cyrl}}
+* Tajik: {{t|tg|чу|tr=ču|sc=Cyrl}}
 * Welsh: {{t|cy|pan}}
 {{trans-bottom}}
 
@@ -284,7 +288,7 @@ From {{etyl|enm}} {{term|when|when(ne)|lang=enm}}, {{term|whan|whan(ne)|lang=enm
 * {{trreq|sq}}
 * {{trreq|eu}}
 * {{ttbc|bg}}: [[кога]] (kogá)
-* {{ttbc|sh}}: {{t+|hr|kad}}, {{t-|hr|kada}}
+* {{ttbc|sh}}: {{t+|sh|kad}}, {{t-|sh|kada}}
 * {{ttbc|eo}}: {{t-|eo|kiam|xs=Esperanto}}
 * {{ttbc|ka}}: [[როცა]] (rotsa)
 * {{ttbc|hu}}: [[mikor]] (1, 2), [[amikor]] (2, 3), [[amint]] (3)
