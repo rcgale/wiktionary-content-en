@@ -62,7 +62,6 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Catalan: {{t|ca|família|f}}
 * Chinese:
 *: Mandarin: {{t|zh|家庭|tr=jiātíng|sc=Hani}}, {{t|zh|家|tr=jiā|sc=Hani}}
-* Croatian: {{t+|hr|obitelj|f|alt=obítelj}}
 * Czech: {{t+|cs|rodina|f}}
 * Dalmatian: {{t|dlm|famalja|f}}
 * Danish: {{t-|da|familie|c}}
@@ -108,8 +107,8 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Scots: [[faimlie]], [[faimily]]
 * Scottish Gaelic: {{t-|gd|teaghlach|m|xs=Scottish Gaelic}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|породица|f}}
-*: Roman: {{t|sh|porodica|f}}
+*: Cyrillic: {{t|sh|породица|f|sc=Cyrl}}
+*: Roman: {{t|sh|porodica|f|sc=Latn}}
 * Sichuan Yi: {{tø|ii|ꏤ}}
 * Sicilian: {{t+|scn|famigghia|f|xs=Sicilian}}
 * Slovak: {{t|sk|rodina|f}}
@@ -140,7 +139,6 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Catalan: {{t|ca|família|f}}
 * Chinese:
 *: Mandarin: {{t|zh|家族|tr=jiāzú|sc=Hani}}
-* Croatian: {{t+|hr|obitelj|f|alt=obítelj}}
 * Czech: {{t|cs|rodina}}
 * Danish: {{t-|da|familie|c}}
 * Dutch: {{t+|nl|familie|f}}
@@ -171,6 +169,7 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Russian: {{t+|ru|семья|f|tr=sem’já}}, {{t+|ru|семейство|n|tr=seméjstvo}}, {{t+|ru|род|m|tr=rod}}
 * Scots: [[faimlie]], [[faimily]]
 * Scottish Gaelic: {{t-|gd|teaghlach|m|xs=Scottish Gaelic}}
+* Serbo-Croatian: {{t|sh|obitelj|f|alt=obítelj}}
 * Sicilian: {{t+|scn|famigghia|f|xs=Sicilian}}
 * Slovene: {{t+|sl|družina|f}}
 * Swedish: {{t|sv|börd}}
@@ -184,7 +183,6 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Armenian: {{t-|hy|ցեղ|tr=c'eġ}}
 * Breton: {{t|br|kerentiezh|f|xs=Breton}}, -ioù {{p}}
 * Catalan: {{t|ca|família|f}}
-* Croatian: {{t|hr|svojta|f|alt=svȏjta}}, {{t-|hr|rod|m|alt=rȏd}}, {{t-|hr|porodica|f|alt=pòrodica}}
 * Danish: {{t-|da|slægt|c}}, {{t-|da|æt|c}} {{qualifier|archaic}}
 * Dutch: {{t+|nl|familie|f}}, {{t+|nl|clan|m}}, {{t+|nl|stam|m}}
 * Esperanto: {{t+|eo|familio|xs=Esperanto}}, {{t-|eo|parenco|xs=Esperanto}}
@@ -211,7 +209,7 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Russian: {{t+|ru|род|m|tr=rod}}
 * Scots: [[faimlie]], [[faimily]]
 * Scottish Gaelic: {{t-|gd|teaghlach|m|xs=Scottish Gaelic}}
-* Serbian: {{t|sr|својта|f|sc=Cyrl}}
+* Serbo-Croatian: {{t|sh|својта|f|sc=Cyrl}}, {{t|sh|svojta|f|alt=svȏjta}}, {{t|sh|rod|m|alt=rȏd}}, {{t|sh|porodica|f|alt=pòrodica}}
 * Slovene: {{t+|sl|družina|f}}, {{t-|sl|rod|m}}
 * Swedish: {{t|sv|börd}}, {{t|sv|släkt}}
 * Tagalog: {{t|tl|tribo}}
@@ -221,10 +219,9 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 {{trans-top|rank in a taxonomic classification, above both genus and species}}
 * Armenian: {{t-|hy|ընտանիք|tr=ëntanik'}}
 * Azeri: {{t|az|fəsilə|xs=Azeri}}
-* Breton: {{t|br|kerentiad|m|xs=Breton}}, -où {{p}}
+* Breton: {{t|br|kerentiad|m|xs=Breton}}
 * Bulgarian: {{t+|bg|семейство|n|tr=semejstvo}}
 * Catalan: {{t|ca|família|f}}
-* Croatian: {{t-|hr|porodica|f|alt=pòrodica}}
 * Czech: {{t+|cs|čeleď|f}}
 * Danish: {{t-|da|familie|c}}
 * Dutch: {{t+|nl|familie|f}}
@@ -246,8 +243,9 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Persian: {{t|fa|گونه|tr=guna|xs=Persian}}, {{t-|fa|شاخه|tr=şâxa|xs=Persian}}
 * Polish: {{t+|pl|rodzina|f}}
 * Portuguese: {{t+|pt|família|f}}
-* Romani: [[familija]] {{f}}
+* Romani: {{t|rom|familija|f}}
 * Russian: {{t+|ru|семейство|n|tr=seméjstvo}}
+* Serbo-Croatian: {{t|sh|porodica|f|alt=pòrodica|sc=Latn}}
 * Slovene: {{t+|sl|družina|f}}
 * Swedish: {{t+|sv|familj}}
 * Telugu: {{t+|te|కుటుంబము}}
@@ -257,7 +255,6 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 
 {{trans-top|taxon at this rank}}
 * Catalan: {{t|ca|família|f}}
-* Croatian: {{t-|hr|porodica|f|alt=pòrodica}}
 * Czech: {{t+|cs|čeleď|f}}
 * Esperanto: {{t+|eo|familio|xs=Esperanto}}
 * German: {{t+|de|Familie|f}}
@@ -265,13 +262,13 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Greek: {{t+|el|οικογένεια|f|tr=oikogéneia}}
 * Icelandic: {{t+|is|ætt|f}}
 * Portuguese: {{t+|pt|família|f}}
+* Serbo-Croatian: {{t|sh|porodica|f|alt=pòrodica}}
 * Spanish: {{t+|es|familia|f}}
 {{trans-bottom}}
 
 {{trans-top|group of people who live together}}
 * Armenian: {{t-|hy|ընտանիք|tr=ëntanik'}}
 * Catalan: {{t|ca|família|f}}
-* Croatian: {{t-|hr|porodica|f|alt=pòrodica}}, {{t-|hr|familija|f|alt=fàmīlija}}
 * Danish: {{t|da|bofællesskab}}, {{t-|da|kollektiv}}, {{t-|da|familie}}
 * German: {{t+|de|Wohngemeinschaft|f}}
 * Hebrew: {{t+|he|משפחה|f|tr=mishpakhá}}
@@ -282,6 +279,7 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Portuguese: {{t+|pt|família|f}}
 * Russian: {{t+|ru|семья|f|tr=sem’já}}
 * Scots: [[faimlie]], [[faimily]]
+* Serbo-Croatian: {{t|sh|porodica|f|alt=pòrodica}}, {{t|sh|familija|f|alt=fàmīlija}}
 * Slovene: {{t+|sl|družina|f}}
 * Telugu: {{t|te|సహజీనవం|tr=sahajivanam|sc=Telu}}
 * Turkish: {{t+|tr|aile}}
@@ -289,9 +287,7 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 
 {{trans-top|group of people similar to (2)}}
 * Armenian: {{t-|hy|ընտանիք|tr=ëntanik'}}
-* Bosnian: {{t|bs|obitelj|f}}
 * Catalan: {{t|ca|família|f}}
-* Croatian: {{t+|hr|obitelj|f|alt=obítelj}}
 * Finnish: {{t+|fi|perhe}}
 * German: {{t+|de|Familie|f}}
 * Hebrew: {{t+|he|משפחה|f|tr=mishpakhá}}
@@ -302,6 +298,7 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Portuguese: {{t+|pt|família|f}}
 * Russian: {{t+|ru|семья|f|tr=sem’já}}
 * Scots: [[faimlie]], [[faimily]]
+* Serbo-Croatian: {{t|sh|obitelj|f|alt=obítelj|sc=Latn}}
 * Slovene: {{t+|sl|družina|f}}
 * Telugu: {{t|te|ఒకే జాతి|tr=oke jati|sc=Telu}}
 {{trans-bottom}}
@@ -309,7 +306,6 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 {{trans-top|collectively, people who are members of one's intimate social group}}
 * Armenian: {{t-|hy|ընտանիք|tr=ëntanik'}}
 * Catalan: {{t|ca|família|f}}
-* Croatian: {{t+|hr|obitelj|f|alt=obítelj}}
 * Danish: {{t-|da|familie|c}}
 * German: {{t+|de|Familie|f}}
 * Greek: {{t+|el|οικογένεια|f|tr=oikogéneia}}
@@ -322,6 +318,7 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Persian: {{t|fa|هموندان|tr=hamvandân|xs=Persian}}, {{t|fa|اعضا|tr=azâ|xs=Persian}}
 * Portuguese: {{t+|pt|família|f}}
 * Russian: {{t+|ru|семья|f|tr=sem’já}}
+* Serbo-Croatian: {{t|sh|obitelj|f|alt=obítelj|sc=Latn}}
 * Telugu: {{t|te|సంఘము|tr=sangham|sc=Telu}}
 {{trans-bottom}}
 
@@ -342,7 +339,6 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 {{trans-top|linguistics: a group of languages believed to have descended from the same ancestral language}}
 * Armenian: {{t-|hy|ընտանիք|tr=ëntanik'}}
 * Catalan: {{t|ca|família|f}}
-* Croatian: {{t-|hr|porodica|f|alt=pòrodica}}
 * Danish: {{t-|da|æt|c}}
 * Dutch: {{t+|nl|familie|f}}
 * Faroese: {{t|fo|ætt|f}}
@@ -352,6 +348,7 @@ In some dialects, {{term|family}} is used as a plurale tantum.
 * Polish: {{t+|pl|rodzina|f}}
 * Portuguese: {{t+|pt|família|f}}
 * Russian: {{t+|ru|семья|f|tr=sem’já}}
+* Serbo-Croatian: {{t|sh|porodica|f|alt=pòrodica|sc=Latn}}
 * Slovene: {{t+|sl|družina|f}}
 * Turkish: {{t+|tr|aile}}
 {{trans-bottom}}
