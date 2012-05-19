@@ -666,18 +666,16 @@ From {{etyl|LL.|roa-grn}} {{term|cattus|lang=la}}.
 From {{etyl|sga|ga}} {{term|catt|lang=sga}}, from {{etyl|la|ga}} {{term|cattus|lang=la}}.
 
 ===Pronunciation===
-* {{IPA|lang=ga|[kat̪ˠ]}}
+* {{a|Munster}} {{IPA|lang=ga|[kɑt̪ˠ]}}
+* {{a|Connacht|Ulster}} {{IPA|lang=ga|[kat̪ˠ]}}
 
 ===Noun===
-{{head|ga|noun|g=m}}
+{{ga-noun|cait|cait|g=m}}
 
 # [[#English|cat]] {{qualifier|domestic feline; member of the Felidae}}
 
 ====Declension====
-{{ga-noun-m1|c|at|ait}}
-
-====Mutation====
-{{ga mut cons|c|at}}
+{{ga-decl-m1|c|at|ait}}
 
 ====Derived terms====
 * {{l|ga|caitín}}
@@ -691,6 +689,9 @@ From {{etyl|sga|ga}} {{term|catt|lang=sga}}, from {{etyl|la|ga}} {{term|cattus|l
 
 ===References===
 * {{R:Dinneen|cat}}
+
+===Mutation===
+{{ga mut cons|c|at}}
 
 [[Category:ga:Cats|*]]
 [[Category:ga:Felids]]
