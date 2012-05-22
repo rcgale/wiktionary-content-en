@@ -2,41 +2,30 @@
 {{wikipedia}}
 
 ===Etymology===
-{{etyl|enm}} {{term|parent||lang=enm}}, from {{etyl|fro}} {{term|parent|lang=fro}}, from {{etyl|la}} {{term|parentem|lang=la}}, accusative of {{term|parens|parēns|parent|lang=la}}, present participle of ''[[parere]]'' "to breed, bring forth". Displaced native {{etyl|enm|-}} {{term|alder|alder, aldor|parent|lang=enm}} (from {{etyl|ang|-}} {{term|ealdor||parent|lang=ang}}).
+From {{etyl|xno}} {{term|parent|lang=xno}}, {{etyl|frm}} {{term|parent|lang=fr}}, from {{etyl|la}} {{term|parentem|lang=la}}, accusative of {{term|parens|parēns|parent|lang=la}}, present participle of {{term|parere||to breed, bring forth}}.
 
 ===Pronunciation===
-* {{IPA|/ˈpɛəɹənt/}}, {{X-SAMPA|/"pE@r\@nt/}}
+*{{a|UK}} {{IPA|/ˈpɛːɹənt/}}
 * {{audio|en-us-parent.ogg|Audio (US)}}
 
 ===Noun===
 {{en-noun}}
 
-# One of the two [[person]]s from whom one is immediately [[biological]]ly [[descend]]ed; a [[mother]] or [[father]].
-# A person who [[act]]s as a parent in [[rear]]ing a [[child]]. (''adoptive parent'', ''foster parent'')
-# {{biology}} An [[organism]] from which a plant or animal is immediately biologically descended.
-# The [[source]] or [[origin]] of something.
-# A [[group]] from which another group is [[formed]], or which completely controls a [[subordinate]] group. (''parent company'')
-# {{context|computing|object oriented computer programming}} The object from which a [[child]] or [[derived]] object is descended.
-
-{{rfex}}
-
-====Quotations====
-; person from whom one is descended
-{{timeline|
-1500s=1591|
-1600s=1611}}
-* {{RQ:Shakespeare Romeo}} i Prologue
-*: From forth the fatal loins of these two foes / A pair of star-cross’d lovers take their life;<br/>Whose misadventured piteous overthrows / Doth with their death bury their '''parents'''’ strife.
-* {{RQ:Shakespeare Tempest}} i 2
-*: I thus neglecting worldly ends, all dedicated to closeness and the bettering of my mind with that, which, but by being so retir’d, O’er-priz’d all popular rate, in my false brother awak’d an evil nature; and my trust, like a good '''parent''', did beget of him a falsehood.
-* {{RQ:Authorized Version|John|9|19–20}}
-*: And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see? His '''parents''' answered them and said, We know that this is our son, and that he was born blind:
-
-; source or origin
-{{timeline|
-1600s=1608}}
-* {{RQ:Shakespeare Pericles}} ii 3
-*: Whereby I see that Time’s the king of men, He’s both their '''parent''', and he is their grave.
+# One of the two [[person]]s from whom one is immediately [[biological]]ly [[descend]]ed; a [[mother]] or [[father]]. {{defdate|from 15th c.}}
+#*'''c. 1595''', {{w|William Shakespeare}}, ''The Tempest'', First Folio 1623, I.2:
+#*:my trust / Like a good '''parent''', did beget of him / A falsehood in it's contrarie, as great / As my trust was, which had indeede no limit, / A confidence sans bound.
+#*{{RQ:Authorized Version|John|9|19–20}}
+#*:And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see? His '''parents''' answered them and said, We know that this is our son, and that he was born blind [...].
+#*'''2005''', Siobhan O'Neill, ''The Guardian'', 24 Aug 2005:
+#*:The NHS is naturally pro-immunisation, reassuring '''parents''' that their babies can easily cope with these jabs.
+# A person who [[act]]s as a parent in [[rear]]ing a [[child]]; a [[step-parent]] or adoptive parent.
+# {{obsolete}} A [[relative]]. {{defdate|15th-18th c.}}
+# The [[source]] or [[origin]] of something. {{defdate|from 16th c.}}
+#*'''1785''', {{w|Thomas Jefferson}}, ''Notes on the State of Virginia'':
+#*:Misery is often the '''parent''' of the most affecting touches in poetry.
+# {{biology}} An [[organism]] from which a plant or animal is immediately biologically descended. {{defdate|from 17th c.}}
+# A [[parent company]]. {{defdate|from 20th c.}}
+# {{computing}} The object from which a [[child]] or [[derived]] object is descended; a [[node]] superior to another node. {{defdate|from 20th c.}}
 
 ====Synonyms====
 * {{sense|person from whom one is descended}} [[progenitor]]
@@ -135,13 +124,7 @@
 * Swahili: {{t+|sw|mzazi|xs=Swahili}}
 {{trans-bottom}}
 
-{{trans-top|group from which another group is formed}}
-* Czech: {{t+|cs|matka|f}}
-* Dutch: {{t+|nl|moeder|m|alt=moeder-}}
-{{trans-mid}}
-* Finnish: {{t+|fi|emo}}
-* Japanese: {{t+|ja|親|tr=[[おや]], oya}}
-{{trans-bottom}}
+{{trans-see|parent company}}
 
 {{trans-top|computing: object from which a child or derived object is descended}}
 * Dutch: {{t+|nl|ouder|m}}
