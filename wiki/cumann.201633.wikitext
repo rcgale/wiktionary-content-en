@@ -4,10 +4,10 @@
 From {{etyl|sga|ga}} {{term|commann||alliance, pact|lang=sga}}.
 
 ===Pronunciation===
-* {{IPA|lang=ga|[ˈkʊmˠən̪ˠ]}}
+* {{IPA|[ˈkʊmˠən̪ˠ]|lang=ga}}
 
 ===Noun===
-{{head|ga|noun}}
+{{ga-noun|cumainn|cumainn|g=m}}
 
 # [[companionship|Companionship]], [[friendship]]
 # [[darling|Darling]], [[sweetheart]]
@@ -15,30 +15,27 @@ From {{etyl|sga|ga}} {{term|commann||alliance, pact|lang=sga}}.
 # An [[association]], [[club]], or [[society]]
 
 ====Declension====
-{{ga-noun-m1|c|umann|umainn}}
-
-====Mutation====
-{{ga mut cons|c|umann}}
+{{ga-decl-m1|c|umann|umainn}}
 
 ====Derived terms====
 * [[cumannachas]]
 
-===Verb form===
+===Verb===
 {{head|ga|verb form}}
 
-# {{form of|present indicative analytic|cum|lang=ga}}
-
-====Mutation====
-{{ga mut cons|c|umann}}
+# {{conjugation of|cum||pres|ind|analytic|lang=ga}}
 
 ====Usage notes====
 {{ga analytic|present}}
 
 ====Related terms====
-* [[cumaim]] {{qualifier|1st person sing.}}
-* [[cumair]] {{qualifier|2d person sing., nonstandard}}
-* [[cumaimid]] {{qualifier|1st person pl.}}
-* [[cumaid]] {{qualifier|3d person pl., nonstandard}}
+* {{l|ga|cumaim}} {{qualifier|1st person sing.}}
+* {{l|ga|cumair}} {{qualifier|2d person sing., nonstandard}}
+* {{l|ga|cumaimid}} {{qualifier|1st person pl.}}
+* {{l|ga|cumaid}} {{qualifier|3d person pl., nonstandard}}
+
+===Mutation===
+{{ga mut cons|c|umann}}
 
 [[cy:cumann]]
 [[hu:cumann]]
