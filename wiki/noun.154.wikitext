@@ -56,7 +56,7 @@ From {{etyl|xno}} {{term|noun|lang=xno}}, {{term|non|lang=xno}}, {{term|nom|lang
 * Afrikaans: {{t|af|selfstandige naamwoord|xs=Afrikaans}}
 * Albanian: {{t+|sq|emër|xs=Albanian}}
 * Amharic: {{t|am|ስም|tr=sm|sc=Ethi}}
-* Arabic: {{t+|ar|اسم|m|tr=’ism}}
+* Arabic: {{t+|ar|اسم|m|tr=ism}}
 * Aragonese: {{t|an|sustantibo|m|xs=Aragonese}}
 * Aramaic:
 *: Syriac: {{tø|arc|ܫܡܐ|m|tr=šmā’|sc=Syrc}}
@@ -69,12 +69,11 @@ From {{etyl|xno}} {{term|noun|lang=xno}}, {{term|non|lang=xno}}, {{term|nom|lang
 * Bashkir: {{tø|ba|исем|tr=isem}}
 * Basque: {{t-|eu|izen|xs=Basque}}
 * {{trreq|bar}}
-* Belarusian: {{t|be|назоўнік|m|xs=Belarusian}}
-* Bengali: {{t|bn|বিশেষ্য|tr=biśeṣya}}
+* Belarusian: {{t|be|назоўнік|m|tr=nazóŭnik|xs=Belarusian}}
+* Bengali: {{t|bn|বিশেষ্য|tr=bisheshya}}
 * {{trreq|bpy}}
-* Bosnian: {{t|bs|imenice}}
 * Breton: {{t|br|anv-kadarn|xs=Breton}}
-* Bulgarian: {{t|bg|съществително име|m|tr=səštestvítelno ime}}
+* Bulgarian: {{t|bg|съществително име|n|tr=səštestvítelno ime}}
 * Burmese: {{t|my|နာမ|tr=nan|sc=Mymr}}
 * {{trreq|bua}}
 * Catalan: {{t+|ca|substantiu|m}}
@@ -82,17 +81,13 @@ From {{etyl|xno}} {{term|noun|lang=xno}}, {{term|non|lang=xno}}, {{term|nom|lang
 * {{trreq|ch}}
 * Chechen: {{tø|ce|цIердош|sc=Cyrl|xs=Chechen}}
 * Chinese:
-*: Cantonese: {{tø|yue|名詞|tr=ming4 ci4|sc=Hani|xs=Cantonese}}
-*: {{trreq|gan}}
-*: {{trreq|hak}}
-*: Mandarin: {{t-|cmn|名詞|sc=Hani}}, {{t-|cmn|名词|tr=míngcí|sc=Hani}}
-*: {{trreq|cdo}}
-*: Min Nan: {{t|nan|bêng-sû|xs=Min Nan}}
+*: Cantonese: {{tø|yue|名詞|sc=Hani|xs=Cantonese}}, {{tø|yue|名词|tr=ming4 ci4|sc=Hani|xs=Cantonese}}
+*: Mandarin: {{t+|cmn|名詞|sc=Hani}}, {{t+|cmn|名词|tr=míngcí|sc=Hani}}
+*: Min Nan: {{tø|nan|名詞|xs=Min Nan}}, {{tø|nan|名词|tr=bêng-sû|xs=Min Nan}}
 * Chuvash: {{tø|cv|япала ячĕ|sc=Cyrl|xs=Chuvash}}
 * Cornish: {{t|kw|hanow|m}}
 * {{trreq|co}}
 * Crimean Tatar: {{tø|crh|ad|xs=Crimean Tatar}}, {{tø|crh|isim|xs=Crimean Tatar}}
-* Croatian: {{t+|hr|imenica|f|alt=ȉmenica}}
 * Czech: {{t+|cs|podstatné jméno|n}}, {{t+|cs|substantivum|n}}
 * Danish: {{t+|da|navneord|n}}, {{t+|da|substantiv|n}}
 * {{trreq|dv}}
@@ -115,7 +110,7 @@ From {{etyl|xno}} {{term|noun|lang=xno}}, {{term|non|lang=xno}}, {{term|nom|lang
 * Gujarati: {{t|gu|સંજ્ઞા|tr=san̄jña|sc=Gujr}}
 * Hawaiian: {{tø|haw|haʻiinoa}}
 * Hebrew: {{t|he|שם־עצם|m|tr=shem-’etsem}}
-* Hindi: {{t-|hi|संज्ञा|m|tr=sangyaa|xs=Hindi}}
+* Hindi: {{t-|hi|संज्ञा|m|tr=sãṅgyā|xs=Hindi}}
 * Hungarian: {{t+|hu|főnév}}
 * Icelandic: {{t+|is|nafnorð|n}} (abbrev. “no.”)
 * Ido: {{t+|io|substantivo|xs=Ido}}
@@ -124,17 +119,17 @@ From {{etyl|xno}} {{term|noun|lang=xno}}, {{term|non|lang=xno}}, {{term|nom|lang
 * Interlingue: {{t-|ie|substantive|xs=Interlingue}}, {{t|ie|nómine|xs=Interlingue}}
 * Irish: {{t+|ga|ainmfhocal|m|xs=Irish}}
 * Italian: {{t+|it|sostantivo|m}}, {{t+|it|nome|m}}
-* Japanese: {{t+|ja|名詞|tr=meishí}} ([[めいし]])
+* Japanese: {{t+|ja|名詞|tr=めいし, meishí}}
 * {{trreq|jv}}
 {{trans-mid}}
 * Kannada: {{t+|kn|ನಾಮಪದ|tr=nāmapada|sc=Knda|xs=Kannada}}
 * Kashubian: {{t-|csb|jistnik|m|xs=Kashubian}}
-* Kazakh: {{t|kk|зат есім|sc=Cyrl|xs=Kazakh}}
+* Kazakh: {{t|kk|зат есім|tr=zat esim|sc=Cyrl|xs=Kazakh}}
 * Khmer: {{t|km|នាម|tr=niem|sc=Khmr}}
-* Korean: {{t+|ko|명사|tr=myeongsa|sc=Hang}}
+* Korean: {{t+|ko|명사|tr=myeongsa|sc=Hang}} ({{t|ko|名詞|sc=Hang}})
 * Kurdish:
 *: Sorani: {{t-|ku|ناو|sc=ku-Arab}}
-* Kyrgyz: {{t|ky|зат атооч|sc=Cyrl|xs=Kyrgyz}}
+* Kyrgyz: {{t|ky|зат атооч|tr=zat atooç|sc=Cyrl|xs=Kyrgyz}}
 * Latin: {{t+|la|nomen|n}}
 * Latvian: {{t+|lv|lietvārds|m|xs=Latvian}}
 * Limburgish: {{t+|li|zèlfstenjig naamwaord|n}}
@@ -148,7 +143,7 @@ From {{etyl|xno}} {{term|noun|lang=xno}}, {{term|non|lang=xno}}, {{term|nom|lang
 * Malayalam: {{t|ml|നാമം|tr=naamam|sc=Mlym|xs=Malayalam}}
 * Maltese: {{t+|mt|nom|xs=Maltese}}
 * Marathi: {{t-|mr|नाम|sc=Deva|xs=Marathi}}
-* Mongolian: {{t-|mn|нэр үг|sc=Cyrl|xs=Mongolian}}
+* Mongolian: {{t-|mn|нэр үг|tr=ner üg|sc=Cyrl|xs=Mongolian}}
 * {{trreq|ne}}
 * {{trreq|new}}
 * {{trreq|se}}
@@ -190,9 +185,9 @@ From {{etyl|xno}} {{term|noun|lang=xno}}, {{term|non|lang=xno}}, {{term|nom|lang
 * {{trreq|bo}}
 * Tok Pisin: {{t|tpi|nem bilong samting|xs=Tok Pisin}}
 * Turkish: {{t+|tr|isim}}, {{t+|tr|ad}}
-* Ukrainian: {{t+|uk|іменник|m|xs=Ukrainian}}
+* Ukrainian: {{t+|uk|іменник|m|tr=iménnyk|xs=Ukrainian}}
 * Upper Sorbian: {{t|hsb|substantiw|m|xs=Upper Sorbian}}
-* Urdu: {{t|ur|اسم|sc=ur-Arab}}
+* Urdu: {{t|ur|اسم|tr=ism|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|danh từ|xs=Vietnamese}}
 * Volapük: {{t|vo|subsat|xs=Volapük}}
 * Welsh: {{t+|cy|enw|xs=Welsh}}
