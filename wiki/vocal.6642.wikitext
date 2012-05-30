@@ -1,7 +1,7 @@
 ==English==
 {{rfc|a mess}}
 ===Etymology===
-From {{etyl|fro|en}} {{term|vocal|lang=fro}}.
+From {{etyl|fro}} {{term|vocal|lang=fro}} < {{etyl|la}} {{term|vocalis|vōcālis|lang=la}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈvəʊkəl/}}
@@ -16,7 +16,7 @@ From {{etyl|fro|en}} {{term|vocal|lang=fro}}.
 #: '''''vocal''' problems''
 # Uttered or modulated by the voice; oral; as, '''vocal''' melody; '''vocal''' prayer, '''vocal''' worship.
 # Of or pertaining to a vowel or voice sound; also, spoken with tone, intonation, and resonance; sonant; sonorous; -- said of certain articulate sounds
-# {{phonetics}} Consisting of, or characterized by, voice, or tone produced in the larynx, which may be modified, either by resonance, as in the case of the vowels, or by obstructive action, as in certain consonants, such as ''v'', ''l'', etc., or by both, as in the nasals ''m'', ''n'', ''ng''; sonant; intonated; voiced.  See [[voice]], and [[vowel]]
+# {{phonetics}} Consisting of, or characterized by, voice, or tone produced in the larynx, which may be modified, either by resonance, as in the case of the vowels, or by obstructive action, as in certain consonants, such as ''v'', ''l'', etc., or by both, as in the nasals {{m}}, {{n}}, ''ng''; sonant; intonated; voiced. See [[voice]], and [[vowel]]
 # {{phonetics}} Of or pertaining to a vowel; having the character of a vowel; vowel
 #: ''a '''vocal''' sound''
 # [[loud]]; getting oneself heard.
@@ -84,6 +84,9 @@ From {{etyl|fro|en}} {{term|vocal|lang=fro}}.
 
 ==Asturian==
 
+===Etymology===
+{{etyl|la|ast}} {{term|vocalis|vōcālis|lang=la}}.
+
 ===Noun===
 {{ast-noun|f|vocales}}
 
@@ -92,6 +95,9 @@ From {{etyl|fro|en}} {{term|vocal|lang=fro}}.
 ----
 
 ==Catalan==
+
+===Etymology===
+{{etyl|la|ca}} {{term|vocalis|vōcālis|lang=la}}.
 
 ===Pronunciation===
 * {{IPA|/buˈkaɫ/|lang=ca}}, {{X-SAMPA|/bu"ka5/}}
@@ -116,10 +122,10 @@ From {{etyl|fro|en}} {{term|vocal|lang=fro}}.
 * {{homophones|vocale|vocales|lang=fr}}
 
 ===Etymology===
-From {{etyl|la|fr}} ''[[vocalis]]'', from ''[[vox]]'', {{term|vocis||voice}} .
+{{etyl|la|fr}} {{term|vocalis|vōcālis|lang=la}}.
 
 ===Adjective===
-{{fr-adj-al|voc}}
+{{fr-adj|mp=vocaux}}
 
 # [[#English|vocal]], related to the [[voice]]
 
@@ -135,11 +141,29 @@ From {{etyl|la|fr}} ''[[vocalis]]'', from ''[[vox]]'', {{term|vocis||voice}} .
 * [[voice]]
 * [[voix]]
 * [[voyelle]]
-* [[vowel]]
+
+----
+
+==Old French==
+
+===Etymology===
+{{etyl|la|fro}} {{term|vocalis|vōcālis|lang=la}}.
+
+===Adjective===
+{{head|fro|adjective|g=m}}
+
+# {{l|en|vocal}} {{gloss|relating to a voice or voices}}
+
+====Descendants====
+* English: {{l|en|vocal}} {{qualifier|borrowed}}
+* French: {{l|fr|vocal}}
 
 ----
 
 ==Spanish==
+
+===Etymology===
+{{etyl|la|es}} {{term|vocalis|vōcālis|lang=la}}.
 
 ===Noun===
 {{es-noun|f|pl=vocales}}
