@@ -13,7 +13,8 @@
 {{ picdiclabel | color=black | fontsize=12 | posx= 90 | posy=270 | link=käke | lang=sv }}
 {{ picdiclabel | color=black | fontsize=12 | posx=175 | posy=205 | link=öra | align=right | lang=sv }}
 {{ picdiclabel | color=black | fontsize=12 | posx=120 | posy=140 | link=tinning | lang=sv }}
-{{ picdiclabel | color=black | fontsize=12 | posx=185 | posy=290 | link=nacke | lang=sv }}
+{{ picdiclabel | color=black | fontsize=12 | posx=225 | posy=270 | link=nacke | lang=sv }}
+{{ picdiclabel | color=black | fontsize=12 | posx=145 | posy=290 | link=hals | lang=sv }}
 | detail1=Click on labels in the image
 | detail2=
 {{ picdicimg | image=Human body features-nb.svg | link=kroppen | lang=sv }}
