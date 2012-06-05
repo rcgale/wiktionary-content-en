@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|enm}} ''[[singuler]]'', from {{etyl|fro}}, from {{etyl|la}} ''[[singularis]]'' "alone of its kind", from {{etyl|la}} ''[[singulus]]'' "[[single]]".
+From {{etyl|enm}} {{term|singuler|lang=enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|singularis||alone of its kind|lang=la}}, from {{etyl|la}} {{term|singulus||single|lang=la}}.
 
 ===Pronunciation===
 * {{audio|En-us-singular.ogg|Audio (US)}}
@@ -35,7 +35,7 @@ From {{etyl|enm}} ''[[singuler]]'', from {{etyl|fro}}, from {{etyl|la}} ''[[sing
 
 ====Translations====
 {{trans-top|being only one of larger population}}
-* [[Catalan]]: {{t|ca|singular|m|f}}
+* [[Catalan]]: {{t|ca|singular}}
 * Finnish: {{t-|fi|yksittäinen}}
 * Japanese: {{t+|ja|唯一|tr=yuiitsu}}, {{t-|ja|無二|tr=muni}}
 {{trans-mid}}
@@ -46,7 +46,7 @@ From {{etyl|enm}} ''[[singuler]]'', from {{etyl|fro}}, from {{etyl|la}} ''[[sing
 
 {{trans-top|being the only one of a kind}}
 * Bosnian: {{t-|bs|pojedini|m}}, {{t-|bs|jedini|m}}, {{t-|bs|osobit|m}}
-* [[Catalan]]: {{t|ca|singular|m|f}}
+* [[Catalan]]: {{t|ca|singular}}
 * Dutch: {{t+|nl|enig}}, {{t+|nl|enige}}
 * Finnish: {{t+|fi|ainutlaatuinen}}, {{t+|fi|uniikki}}
 * German: {{t+|de|einzigartig}}
@@ -61,20 +61,20 @@ From {{etyl|enm}} ''[[singuler]]'', from {{etyl|fro}}, from {{etyl|la}} ''[[sing
 {{trans-bottom}}
 
 {{trans-top|distinguished by superiority}}
-* [[Catalan]]: {{t|ca|singular|m|f}}, {{t|ca|únic|m}}, {{t|ca|única|f}}
+* [[Catalan]]: {{t|ca|singular}}, {{t|ca|únic}}
 * Dutch: {{t+|nl|uitzonderlijk}}, {{t+|nl|opmerkelijk}}, {{t-|nl|opmerkelijke}}
 * Finnish: {{t+|fi|erinomainen}}, {{t-|fi|tavaton}}
 * German: {{t+|de|einzigartig}}
 {{trans-mid}}
 * Japanese: {{t+|ja|非凡|tr=hibon}}, {{t-|ja|希有|tr=keu}}
 * Portuguese: {{t+|pt|singular}}, {{t+|pt|único}}
-* Spanish: {{t|es|único|m}}, {{t|es|única|f}}
+* Spanish: {{t|es|único}}
 * Swedish: {{t+|sv|enastående}}, {{t+|sv|utmärkt}}
 {{trans-bottom}}
 
 {{trans-top|being out of the ordinary}}
 * Bosnian: {{t-|bs|neobičan|m}}
-* [[Catalan]]: {{t|ca|singular|m|f}}
+* [[Catalan]]: {{t|ca|singular}}
 * Dutch: {{t+|nl|ongewoon}}
 * Finnish: {{t+|fi|harvinainen}}, {{t+|fi|merkillinen}}, {{t+|fi|omituinen}}, {{t+|fi|kummallinen}}
 * German: {{t+|de|ungewöhnlich}}
@@ -92,12 +92,12 @@ From {{etyl|enm}} ''[[singuler]]'', from {{etyl|fro}}, from {{etyl|la}} ''[[sing
 {{trans-top|grammar: referring to only one thing}}
 * Albanian: {{t|sq|njëjës|xs=Albanian}}
 * Armenian: {{t-|hy|եզակի|tr=ezaki}}
-* [[Catalan]]: {{t|ca|singular|m|f}}
+* [[Catalan]]: {{t|ca|singular}}
 * [[Chamorro]]: {{t+|ch|senggolåt|xs=Chamorro}}
-* Dutch: [[enkelvoudig]], [[enkelvoudige]]
+* Dutch: {{t|nl|enkelvoudig}}, {{t|nl|enkelvoudige}}
 * Esperanto: {{t|eo|ununombra}}
 * Finnish: {{t-|fi|yksiköllinen}}
-* French: {{t+|fr|singulier|m}}, {{t+|fr|singulière|f}}
+* French: {{t+|fr|singulier}}
 {{trans-mid}}
 * Icelandic: {{t+|is|eintala|f}}, {{t|is|et.|f}}
 * Italian: {{t+|it|singolare}}
@@ -112,7 +112,7 @@ From {{etyl|enm}} ''[[singuler]]'', from {{etyl|fro}}, from {{etyl|la}} ''[[sing
 
 {{trans-top|linear algebra: of matrix: having no inverse}}
 * Estonian: {{t|et|mittepööratav}}
-* Finnish: [[singulaarinen]]
+* Finnish: {{t|fi|singulaarinen}}
 * French: {{t+|fr|singulier}}
 {{trans-mid}}
 * German: {{t+|de|singulär}}
@@ -146,7 +146,7 @@ From {{etyl|enm}} ''[[singuler]]'', from {{etyl|fro}}, from {{etyl|la}} ''[[sing
 * Arabic: {{t|ar|مفرد|m|tr=múfrad}}, {{t|ar|صيغة المفرد|f|tr=ṣīġat al-múfrad}}
 * Armenian: {{t-|hy|եզակի թիվ|tr=ezaki t’iv}}, {{t-|hy|եզակի|tr=ezaki}}
 * Bosnian: {{t-|bs|jednina|f}}
-* [[Catalan]]: singular {{m}}
+* [[Catalan]]: {{t|ca|singular|m}}
 * Chinese:
 *: Mandarin: {{t|zh|單數|sc=Hani}}, {{t|zh|单数|tr=dānshù|sc=Hani}}
 * Czech: {{t-|cs|jednotné číslo|n}}
@@ -193,12 +193,39 @@ From {{etyl|enm}} ''[[singuler]]'', from {{etyl|fro}}, from {{etyl|la}} ''[[sing
 
 ----
 
+==Catalan==
+
+===Etymology===
+From {{etyl|la|ca}} {{term|singularis|singulāris|lang=ca}}.
+
+===Adjective===
+{{ca-adj|type=mf}}
+
+# {{l|en|singular}}
+
+====Antonyms====
+* {{l|ca|plural}}
+
+====Derived terms====
+* {{l|ca|singularment}}
+
+====Related terms====
+* {{l|ca|singularitat}}
+* {{l|ca|singularitzar}}
+
+[[Category:ca:Grammar]]
+
+----
+
 ==Galician==
+
+===Etymology===
+From {{etyl|la|gl}} {{term|singularis|singulāris|lang=la}}.
 
 ===Adjective===
 {{gl-adj|f=singular|pl=singulares}}
 
-# [[#English|singular]]
+# {{l|en|singular}}
 
 [[Category:gl:Grammar]]
 
@@ -209,7 +236,7 @@ From {{etyl|enm}} ''[[singuler]]'', from {{etyl|fro}}, from {{etyl|la}} ''[[sing
 ===Noun===
 {{sh-noun|g=m|head=sȉngulār|r|сингулар|си̏нгула̄р}}
 
-# [[#English|singular]]
+# {{l|en|singular}}
 
 ====Declension====
 {{sh-decl-noun
@@ -229,15 +256,24 @@ From {{etyl|enm}} ''[[singuler]]'', from {{etyl|fro}}, from {{etyl|la}} ''[[sing
 
 ==Spanish==
 
+===Etymology===
+From {{etyl|la|es}} {{term|singularis|singulāris|lang=la}}.
+
 ===Adjective===
 {{es-adj|pl=singulares}}
 
-# [[#English|singular]]
+# {{l|en|singular}}
+
+====Antonyms====
+* {{l|es|plural}}
+
+====Derived terms====
+* {{l|es|singularmente}}
 
 ===Noun===
 {{es-noun|m|pl=singulares}}
 
-# [[#English|singular]]
+# {{l|en|singular}}
 
 [[Category:es:Grammar]]
 
