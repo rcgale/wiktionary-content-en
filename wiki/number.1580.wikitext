@@ -125,18 +125,17 @@
 * [[Abkhaz]]: {{t|ab|ахыҧхьаӡара|tr=axyṗx'aʒara|sc=Cyrl}}
 * [[Afrikaans]]: {{t|af|aantal|n|sc=Armn}}
 * [[Anglo-Norman]]: {{tø|xno|noumbre}}
-* Arabic: {{t|ar|رقم|m|tr=ráqam|sc=Arab}}
+* Arabic: {{t|ar|رقم|m|tr=ráqam, raqm|sc=Arab}}
 * Armenian: {{t-|hy|թիվ|tr=t’iv}}
 *: Old Armenian: {{tø|xcl|թիւ|tr=tʿiw|sc=Armn|xs=Old Armenian}}
 * [[Basque]]: {{t|eu|zenbaki|xs=Basque}}
-* Belarusian: [[лік]] (lik) {{m}}, {{t|be|лік|m|tr=lik|sc=Cyrl}}, {{t|be|лік|m|tr=lik|sc=Cyrl}}
+* Belarusian: {{t|be|лік|m|tr=lik|sc=Cyrl}}
 * [[Breton]]: [[niver]] {{m}}
 * Bulgarian: {{t+|bg|число|n|tr=čisló}}
 * Burmese: {{t-|my|နံပါတ်|tr=nambat|sc=Mymr|xs=Burmese}}
 * Chinese:
 *: Mandarin: {{t|zh|數|sc=Hani}}, {{t|zh|数|tr=shù|sc=Hani}}, {{t|zh|數目|sc=Hani}}, {{t|zh|数目|tr=shùmù|sc=Hani}}, {{t|zh|數字|sc=Hani}}, {{t|zh|数字|tr=shùzì|sc=Hani}}
 * [[Cornish]]: {{t-|kw|niver|xs=Cornish}}
-* Croatian: {{t+|hr|broj|m}}
 * Czech: {{t+|cs|číslo|n}}
 * Danish: {{t+|da|tal}}
 * Dutch: {{t+|nl|aantal|n}}, {{t+|nl|hoeveelheid|f}}
@@ -187,6 +186,9 @@
 * Russian: {{t+|ru|число|n|tr=čisló}}
 * [[Scottish Gaelic]]: {{t-|gd|àireamh|f|xs=Scottish Gaelic}}
 * Serbian: [[broj]] {{m}}, [[čislo]] {{n}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|број|m|sc=Cyrl}}, {{t|sh|число|n|sc=Cyrl}}
+*: Roman: {{t|sh|broj|m}}, {{t|sh|čislo|n}}
 * [[Sicilian]]: [[nummuru]], [[nùmmuru]] {{m}}
 * Slovak: {{t-|sk|číslo|n}}
 * Slovene: {{t+|sl|število|n}}
@@ -204,12 +206,11 @@
 {{trans-bottom}}
 
 {{trans-top|numeral}}
-* Arabic: {{t|ar|عدد|m|tr=3ádad|sc=Arab}}
+* Arabic: {{t|ar|عدد|m|tr=ʿádad|sc=Arab}}
 * Armenian: {{t-|hy|թիվ|tr=t’iv}}, {{t-|hy|թվանշան|tr=t’vanšan}}
 * Belarusian: {{t|be|лічэбнік|m|tr=ličébnik|sc=Cyrl}}, {{t|be|лічба|f|tr=líčba|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t|zh|數|sc=Hani}}, {{t|zh|数|tr=shù|sc=Hani}}, {{t|zh|數字|sc=Hani}}, {{t|zh|数字|tr=shùzì|sc=Hani}}
-* Croatian: {{t+|hr|broj|m}}
 * Czech: {{t+|cs|číslice|f}}
 * Danish: {{t+|da|tal}}
 * Esperanto: {{t|eo|cifero}}
@@ -234,6 +235,9 @@
 * Romanian: {{t|ro|număr|n}}
 * Russian: {{t+|ru|число|n|tr=čisló}}, {{t+|ru|цифра|f|tr=cífra}}, {{qualifier|part of speech}} {{t+|ru|числительное|tr=čislítel’noje}},  {{t-|ru|имя числительное|n|tr=ímja čislítel’noje}}
 * [[Scottish Gaelic]]: {{t-|gd|àireamh|f|xs=Scottish Gaelic}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|број|m|sc=Cyrl}}
+*: Roman: {{t|sh|broj|m}}
 * Spanish: {{t|es|número}}
 * Swahili: {{t+|sw|nambari|xs=Swahili}}
 * [[Telugu]]: {{t|te|సంఖ్య|tr=samkhya|sc=Telu}}
@@ -243,7 +247,7 @@
 {{trans-bottom}}
 
 {{trans-top|mathematical number}}
-* Arabic: {{t|ar|عدد|m|tr=3ádad|sc=Arab}}
+* Arabic: {{t|ar|عدد|m|tr=ʿádad|sc=Arab}}
 * Armenian: {{t-|hy|թիվ|tr=t’iv}}
 * Belarusian: {{t|be|лічба|f|tr=líčba|sc=Cyrl}}
 * Croatian: {{t+|hr|broj|m}}
@@ -270,7 +274,7 @@
 * [[Nahuatl]]: [[tlapoalli]]
 * Navajo: {{tø|nv|ánéeltʼeʼ}}
 * [[Novial]]: [[nombre]]
-* Persian: {{t-|fa|عدد|xs=Persian}}, {{t|fa|عدد|tr='adad|sc=fa-Arab}}
+* Persian: {{t|fa|عدد|tr='adad|sc=fa-Arab}}
 * Polish: {{t+|pl|liczba|f}}
 * Portuguese: {{t+|pt|número|m}}
 * Romanian: {{t|ro|număr|n}}, {{t|ro|număr întreg|n}}
@@ -279,20 +283,19 @@
 * Spanish: {{t|es|número|m}}
 * Swahili: {{t+|sw|nambari|xs=Swahili}}
 * Swedish: {{t+|sv|heltal|n}}
-* [[Tajik]]: {{t|tg|адад|sc=Cyrl|xs=Tajik}}, {{t|tg|адад|tr=adad|sc=Cyrl}}
+* [[Tajik]]:{{t|tg|адад|tr=adad|sc=Cyrl}}
 * [[Telugu]]: [[సంఖ్య]] (samkhya)
 * Turkish: {{t|tr|sayı}}
 * Ukrainian: {{t|uk|число|n|tr=čysló|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|used to show the rank of something in a list or sequence}}
-* Arabic: {{t|ar|رقم|m|tr=ráqam|sc=Arab}}
+* Arabic: {{t|ar|رقم|m|tr=ráqam, raqm|sc=Arab}}
 * Armenian: {{t-|hy|համար|tr=hamar}}
 * [[Basque]]: {{t|eu|zenbaki|xs=Basque}}
 * [[Breton]]: [[niverenn]] {{f}}
 * Chinese:
 *: Mandarin: {{t|zh|號碼|sc=Hani}}, {{t|zh|号码|tr=hàomǎ|sc=Hani}}, {{t|zh|號|sc=Hani}}, {{t|zh|号|tr=hào|sc=Hani}}
-* Croatian: {{t+|hr|broj|m}}
 * Czech: {{t+|cs|číslo|n}}
 * Dutch: {{t+|nl|nummer|f}}
 * Esperanto: {{t|eo|numero}}
@@ -318,6 +321,9 @@
 * Romanian: {{t|ro|număr|n}}
 * Russian: {{t+|ru|номер|m|tr=nómer}}
 * [[Scottish Gaelic]]: {{t-|gd|àireamh|f|xs=Scottish Gaelic}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|број|m|sc=Cyrl}}
+*: Roman: {{t|sh|broj|m}}
 * Spanish: {{t+|es|número|m}}
 * Swahili: {{t+|sw|nambari|xs=Swahili}}
 * Swedish: {{t+|sv|nummer|n}}
@@ -330,7 +336,6 @@
 * Armenian: {{t-|hy|թիվ|tr=t’iv}}, {{t-|hy|քանակ|tr=k’anak}}
 * Chinese:
 *: Mandarin: {{t|zh|多少|tr=duōshǎo|sc=Hani}}, {{t|zh|數碼|sc=Hani}}, {{t|zh|数码|tr=shùmǎ|sc=Hani}}
-* Croatian: {{t-|hr|mnoštvo|n}}
 * Czech: {{t+|cs|množství|n}}
 * Dutch: {{t+|nl|aantal|n}}
 * Esperanto: {{t|eo|nombro}}
@@ -354,6 +359,9 @@
 * Romanian: {{t|ro|cantitate|f}}, {{t|ro|număr|n}}
 * Russian: {{t+|ru|число|n|tr=čisló}}, {{t+|ru|количество|n|tr=kolíčestvo}}
 * [[Scottish Gaelic]]: {{t-|gd|àireamh|f|xs=Scottish Gaelic}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|мноштво|n|sc=Cyrl}}
+*: Roman: {{t|sh|mnoštvo|n}}
 * Spanish: {{t|es|número|m}}, {{t|es|cantidad|f}}, {{t|es|serie|f}}
 * Swedish: {{t|sv|antal|n}}, {{t|sv|numerär|c}}
 * [[Telugu]]: {{t|te|మొత్తము|tr=mottamu|sc=Telu}}
@@ -363,7 +371,6 @@
 
 {{trans-top|grammar: state of being singular, dual or plural}}
 * Armenian: {{t-|hy|թիվ|tr=t’iv}}
-* Croatian: {{t+|hr|broj|m}}
 * Czech: {{t+|cs|číslo|n}}
 * Esperanto: {{t|eo|nombro}}
 * Finnish: {{t+|fi|luku}}
@@ -382,6 +389,9 @@
 * Romanian: {{t|ro|număr|n}}
 * Russian: {{t+|ru|число|n|tr=čisló}}
 * [[Scottish Gaelic]]: {{t-|gd|àireamh|f|xs=Scottish Gaelic}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|број|m|sc=Cyrl}}
+*: Roman: {{t|sh|broj|m}}
 * Spanish: {{t|es|número|m}}
 * Swedish: {{t|sv|numerus|n}}
 * [[Telugu]]: {{t|te|ఒంటరి|tr=omtari|sc=Telu}}, {{t|te|ఒకటిగా|tr=okatiga|sc=Telu}}
