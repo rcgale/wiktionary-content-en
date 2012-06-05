@@ -129,7 +129,7 @@
 * Armenian: {{t-|hy|թիվ|tr=t’iv}}
 *: Old Armenian: {{tø|xcl|թիւ|tr=tʿiw|sc=Armn|xs=Old Armenian}}
 * [[Basque]]: {{t|eu|zenbaki|xs=Basque}}
-* Belarusian: [[лік]] (lik) {{m}}
+* Belarusian: [[лік]] (lik) {{m}}, {{t|be|лік|m|tr=lik|sc=Cyrl}}, {{t|be|лік|m|tr=lik|sc=Cyrl}}
 * [[Breton]]: [[niver]] {{m}}
 * Bulgarian: {{t+|bg|число|n|tr=čisló}}
 * Burmese: {{t-|my|နံပါတ်|tr=nambat|sc=Mymr|xs=Burmese}}
@@ -160,9 +160,9 @@
 * Italian: {{t+|it|numero|m}}
 * Japanese: {{t|ja|数|tr=かず, kazu|sc=Jpan}}, {{t|ja|数字|tr=すうじ, sūji|sc=Jpan}}
 * Korean: {{t|ko|수|tr=su|sc=Kore}} ({{t|ko|數|sc=Kore}})
-{{trans-mid}}
 * Kurdish:
 *: Sorani: {{t|ku|ژماره‌|tr=jimare|sc=ku-Arab}}
+{{trans-mid}}
 * [[Lao]]: {{t-|lo|ເລກ|tr=leek|sc=Laoo|xs=Lao}}
 * Latin: {{t+|la|numero}}, {{t+|la|numerus}}
 * Latvian: {{t|lv|skaitlis|m}}
@@ -196,8 +196,9 @@
 * [[Tagalog]]: {{t|tl|bilang}}
 * [[Tamil]]: {{t|ta|எண்|tr=eṇ|sc=Taml}}
 * [[Telugu]]: {{t|te|సంఖ్య|tr=saṅkhya|sc=Telu}}
-* Thai: {{t|th|จำนวน|tr=jamnuan}}
+* Thai: {{t|th|จำนวน|tr=jamnuan}}, {{t|th|เลข|tr=lek|sc=Thai}}
 * Turkish: {{t+|tr|sayı}}
+* Ukrainian: {{t|uk|число|n|tr=čysló|sc=Cyrl}}
 * Vietnamese: {{t|vi|số}}
 * Yiddish: {{t|yi|נומער|m|tr=numer|sc=Hebr}}, {{t|yi|צאָל|f|tr=tsol|sc=Hebr}}
 {{trans-bottom}}
@@ -205,6 +206,7 @@
 {{trans-top|numeral}}
 * Arabic: {{t|ar|عدد|m|tr=3ádad|sc=Arab}}
 * Armenian: {{t-|hy|թիվ|tr=t’iv}}, {{t-|hy|թվանշան|tr=t’vanšan}}
+* Belarusian: {{t|be|лічэбнік|m|tr=ličébnik|sc=Cyrl}}, {{t|be|лічба|f|tr=líčba|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t|zh|數|sc=Hani}}, {{t|zh|数|tr=shù|sc=Hani}}, {{t|zh|數字|sc=Hani}}, {{t|zh|数字|tr=shùzì|sc=Hani}}
 * Croatian: {{t+|hr|broj|m}}
@@ -220,8 +222,8 @@
 * Icelandic: {{t+|is|tölustafur|m}}
 * Indonesian: [[nomor]]
 * Italian: {{t+|it|numero|m}}, {{t+|it|cifra|f}}
-{{trans-mid}}
 * Japanese: {{t|ja|数|tr=かず, kazu|sc=Jpan}}, {{t|ja|数字|tr=すうじ, sūji|sc=Jpan}}
+{{trans-mid}}
 * [[Lao]]: {{t-|lo|ເລກ|tr=leek|sc=Laoo|xs=Lao}}
 * [[Macedonian]]: {{t-|mk|бројка|f|tr=bròjka}},  {{t-|mk|цифра|f|tr=cífra}}
 * Navajo: {{tø|nv|námboo}}
@@ -235,12 +237,15 @@
 * Spanish: {{t|es|número}}
 * Swahili: {{t+|sw|nambari|xs=Swahili}}
 * [[Telugu]]: {{t|te|సంఖ్య|tr=samkhya|sc=Telu}}
+* Thai: {{t|th|เลข|tr=lek|sc=Thai}}
 * Turkish: {{t|tr|numara}}
+* Ukrainian: {{t|uk|числівник|tr=čyslívnyk|sc=Cyrl}}, {{t|uk|цифра|f|tr=cýfra|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|mathematical number}}
 * Arabic: {{t|ar|عدد|m|tr=3ádad|sc=Arab}}
 * Armenian: {{t-|hy|թիվ|tr=t’iv}}
+* Belarusian: {{t|be|лічба|f|tr=líčba|sc=Cyrl}}
 * Croatian: {{t+|hr|broj|m}}
 * Czech: {{t+|cs|číslo|n}}
 * Dutch: {{t+|nl|getal|n}}
@@ -265,7 +270,7 @@
 * [[Nahuatl]]: [[tlapoalli]]
 * Navajo: {{tø|nv|ánéeltʼeʼ}}
 * [[Novial]]: [[nombre]]
-* Persian: {{t-|fa|عدد|xs=Persian}}
+* Persian: {{t-|fa|عدد|xs=Persian}}, {{t|fa|عدد|tr='adad|sc=fa-Arab}}
 * Polish: {{t+|pl|liczba|f}}
 * Portuguese: {{t+|pt|número|m}}
 * Romanian: {{t|ro|număr|n}}, {{t|ro|număr întreg|n}}
@@ -274,9 +279,10 @@
 * Spanish: {{t|es|número|m}}
 * Swahili: {{t+|sw|nambari|xs=Swahili}}
 * Swedish: {{t+|sv|heltal|n}}
-* [[Tajik]]: {{t|tg|адад|sc=Cyrl|xs=Tajik}}
+* [[Tajik]]: {{t|tg|адад|sc=Cyrl|xs=Tajik}}, {{t|tg|адад|tr=adad|sc=Cyrl}}
 * [[Telugu]]: [[సంఖ్య]] (samkhya)
 * Turkish: {{t|tr|sayı}}
+* Ukrainian: {{t|uk|число|n|tr=čysló|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|used to show the rank of something in a list or sequence}}
