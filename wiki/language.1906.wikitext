@@ -98,7 +98,7 @@
 * Afrikaans: [[taal]]
 * Ainu: {{tø|ain|イタㇰ|tr=itak}}
 * Albanian: {{t+|sq|gjuhë|f|xs=Albanian}}
-* Arabic: {{t+|ar|لغة|f|alt=لُغَةٌ|tr=lúgha}}, {{t|ar|لسان|m|f|tr=lisān|sc=Arab}}
+* Arabic: {{t+|ar|لغة|f|alt=لُغَةٌ|tr=lúġa}}, {{t|ar|لسان|m|f|tr=lisān|sc=Arab}}
 *: [[Egyptian Arabic]]: {{tø|arz|لغة|f|tr=loğa|sc=Arab}}
 * Aragonese: {{t|an|luenga|f}}, {{t|an|idioma|m}}
 * Aramaic:
@@ -110,13 +110,12 @@
 * Assamese: {{t-|as|ভাষা|sc=Beng|xs=Assamese}}
 * Asturian: [[idioma]] {{m}}, [[llingua]] {{f}}
 * Avar: {{t|av|мацӀ|tr=macʼ|sc=Cyrl|xs=Avar}}
-* Azeri: [[dil]]
+* Azeri: {{t|az|dil}}
 * Baluchi: {{tø|bal|زبان}}, {{tø|bal|زوان|tr=zawán}}
 * Bashkir: {{tø|ba|тел|tr=tel|sc=Cyrl|xs=Bashkir}}
 * Basque: [[hizkuntza]]
 * Belarusian: {{t+|be|мова|f|tr=móva|xs=Belarusian}}
-* Bengali: {{t+|bn|ভাষা|tr=bhāṣā|sc=Beng|xs=Bengali}}
-* Bosnian: {{t+|bs|jezik|m}}
+* Bengali: {{t+|bn|ভাষা|tr=bhasha|sc=Beng|xs=Bengali}}
 * Breton: {{t+|br|yezh|xs=Breton}}
 * Budukh: {{tø|bdk|мез|tr=mez|sc=Cyrl}}
 * Bulgarian: {{t+|bg|език|m|tr=ezík}}
@@ -134,7 +133,6 @@
 * Cornish: [[yeth]]
 * Corsican: {{t|co|lingua}}
 * Crimean Tatar: {{tø|crh|dil}}
-* Croatian: {{t+|hr|jezik|m}}
 * Czech: {{t+|cs|jazyk|m}}, {{t-|cs|řeč|f}}
 * Danish: {{t+|da|sprog|n}}, {{t-|da|mål}}
 * Dargwa: {{tø|dar|мез|tr=mez|sc=Cyrl}}
@@ -184,12 +182,12 @@
 * Khakas: {{tø|kjh|тіл|tr=tíl|sc=Cyrl}}
 * Khmer: {{t+|km|ភាសា|tr=pīăsā|sc=Khmr|xs=Khmer}}
 * Komi: {{tø|kv|кыв|tr=kyv|sc=Cyrl}}
-* Korean: {{t+|ko|언어|hanja=言語|tr=eon-eo|sc=Hang}}, {{t+|ko|말|tr=mal|sc=Hang}}
+* Korean: {{t+|ko|언어|tr=eon-eo|sc=Hang}} ({{t|ko|言語|sc=Hang}}), {{t+|ko|말|tr=mal|sc=Hang}}
 * Koryak: {{tø|kpy|йилыйил|tr=yiləyil|sc=Cyrl}}
 * Krisa: {{tø|ksi|iasg}}
 * Kumyk: {{tø|kum|тил|tr=til|sc=Cyrl}}
 * Kurdish: {{t+|ku|ziman}}, {{t-|ku|زمان|sc=ku-Arab}}
-* Kyrgyz: [[тил]] ([[til]])
+* Kyrgyz: {{t|ky|тил|tr=til|sc=Cyrl}}
 * Lakota: [[iyapi]]
 {{trans-mid}}
 * Lao: {{t+|lo|ພາສາ|tr=phaa-saa|sc=Laoo|xs=Lao}}
@@ -233,7 +231,7 @@
 * Oriya: {{t-|or|ଭାଷା|tr=bhāṣā|sc=Orya|xs=Oriya}}
 * Ossetian: {{tø|os|æвзаг|tr=ævzag|sc=Cyrl}}
 * Pashto: {{t+|ps|ژبه|f|tr=žëba|sc=ps-Arab|xs=Pashto}}
-* Persian: {{t+|fa|زبان|tr=zæbān|xs=Persian}}
+* Persian: {{t+|fa|زبان|tr=zabân|xs=Persian}}
 * Polish: {{t+|pl|język|m}}, {{t|pl|mowa|f}}
 * Portuguese: {{t+|pt|idioma|m}}, {{t+|pt|língua|f}}, {{t+|pt|linguagem|f}}
 * Pulaar: [[ɗemŋgal]]
@@ -247,7 +245,9 @@
 * Santali: {{tø|sat|ᱨᱳᱲ|tr=rorr|sc=Olck}}
 * Scots: {{tø|sco|leid|xs=Scots}}
 * Scottish Gaelic: {{t-|gd|cànan|m|xs=Scottish Gaelic}}, {{t-|gd|cainnt|f|xs=Scottish Gaelic}}
-* Serbian: {{t+|sr|језик|m|sc=Cyrl}}, {{t-|sr|jezik|m}}
+* Serbian:
+*: Cyrillic: {{t|sh|језик|m|sc=Cyrl}}
+*: Roman: {{t|sh|jezik|m}}
 * Shor: {{tø|cjs|тил|tr=til|sc=Cyrl}}
 * Sindhi: {{t-|sd|زبان|f|tr=zuban|sc=sd-Arab|xs=Sindhi}}
 * Sinhalese: {{t|si|භාෂාව|tr=bhāṣāva|sc=Sinh|xs=Sinhalese}}
@@ -266,7 +266,7 @@
 * {{trreq|ty}}
 * Tajik: {{t-|tg|забон|tr=zabon|sc=Cyrl|xs=Tajik}}
 * Tamil: {{t+|ta|மொழி|tr=moḻi|xs=Tamil}},  {{t-|ta|பாசை|tr=pācai|xs=Tamil}}
-* Tatar: {{t-|tt|tel|xs=Tatar}},  {{t+|tt|тел|sc=Cyrl|xs=Tatar}}
+* Tatar: {{t+|tt|тел|tr=tel|sc=Cyrl|xs=Tatar}}
 * Telugu: {{t+|te|భాష}} (bhaasha)
 * Thai: {{t+|th|ภาษา|tr=paasăa}}
 * {{trreq|to}}
