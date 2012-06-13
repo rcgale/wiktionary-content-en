@@ -10,7 +10,7 @@ From {{etyl|fro}} {{term|calendier}}, from {{etyl|la}} {{term|calendarium||accou
 * {{a|US}} {{enPR|kălʹəndər}}, {{IPA|/ˈkæl.ən.dɚ/}}, {{X-SAMPA|/"k{l.@n.d@`/}}
 * {{audio|en-us-calendar.ogg|Audio (US)}}
 * {{rhymes|əndə(r)}}
-* Homophones: [[calender]]
+* {{homophones|calender}}
 
 ===Noun===
 {{en-noun}}
@@ -26,7 +26,7 @@ From {{etyl|fro}} {{term|calendier}}, from {{etyl|la}} {{term|calendarium||accou
 * Do not confuse '''calendar''' with '''[[calender]]'''.
 
 ====Synonyms====
-* (''A list of planned events''): [[agenda]], [[schedule]], [[docket]]
+* {{sense|list of planned events}} [[agenda]], [[schedule]], [[docket]]
 
 ====Derived terms====
 * [[calendric]]
@@ -46,18 +46,18 @@ From {{etyl|fro}} {{term|calendier}}, from {{etyl|la}} {{term|calendarium||accou
 * Albanian: {{t|sq|kalendari|m|xs=Albanian}}
 * Arabic: {{t-|ar|تقويم|alt=تَقْوِيم|tr=taqwiim}}
 *: [[Egyptian Arabic]]: {{tø|arz|تقويم|m|tr=taqwim|sc=Arab}}
+* Asturian: {{t|ast|calendariu|m}}
 * Belarusian: {{t|be|календар|m|tr=kalendár|sc=Cyrl}}
-* Bosnian: {{t-|bs|kalendar|m}}
 * Bulgarian: {{t-|bg|календар|m|tr=kalendár}}
 * Catalan: {{t-|ca|calendari|m}}
 * Cherokee: {{t|chr|ᏅᏙᏗᏎᏗ|tr=nvdodisedi|sc=Cher}}
 * Chinese:
 *: Mandarin: {{t|zh|日曆|sc=Hani}}, {{t|zh|日历|tr=rìlì|sc=Hani}}, {{t|zh|曆|tr=lì|sc=Hani}}, {{t|zh|历|tr=lì|sc=Hani}}, {{t|zh|曆法|sc=Hani}}, {{t|zh|历法|tr=lìfǎ|sc=Hani}}, {{qualifier|colloquial}} {{t|zh|月份牌|tr=yuèfènpái|sc=Hani}}
-* Croatian: {{t+|hr|kalendar|m}}
 * Czech: {{t+|cs|kalendář|m}}
 * Dutch: {{t+|nl|kalender|m}}
 * Finnish: {{t+|fi|kalenteri}}
 * French: {{t|fr|calendrier}}
+* Galician: {{t|gl|calendario|m}}
 * German: {{t+|de|Kalender|m}}
 * Greek: {{t+|el|ημερολόγιο|n|tr=imerológio}}
 * Hebrew: {{t|he|לוח שנה|m|tr=luakh shana|sc=Hebr}}
@@ -96,19 +96,17 @@ From {{etyl|fro}} {{term|calendier}}, from {{etyl|la}} {{term|calendarium||accou
 
 {{trans-top|means to determine the date}}
 * Arabic: {{t-|ar|تقويم|alt=تَقْوِيم|tr=taqwiim}}
-* Bosnian: {{t-|bs|kalendar|m}}
 * Bulgarian: {{t-|bg|календар|tr=kalendar}}
 * Catalan: {{t-|ca|calendari|m}}
-* Croatian: {{t+|hr|kalendar|m}}
 * Czech: {{t+|cs|kalendář|m}}
 * Dutch: {{t+|nl|kalender|m}}
-* Finnish: [[kalenteri]], {{qualifier|archaic}} [[almanakka]]
+* Finnish: {{t|fi|kalenteri}}, {{qualifier|archaic}} {{t|fi|almanakka}}
 * French: {{t+|fr|calendrier|m}}
-* Galician: [[almanaque]] {{m}}
+* Galician: {{t|gl|almanaque|m}}
 * German: {{t+|de|Kalender|m}}
 * Greek: {{t+|el|ημερολόγιο|n|tr=imerológio}}
-* Hebrew: [[לוח שנה]] (luakh shaná) {{m}}, [[יומן]] (yomán) {{m}}
-* Hindi: [[जन्त्री]] (jantrī) {{f}}, [[पत्रा]] (patrā) {{m}}
+* Hebrew: {{t|he|לוח שנה|tr=luakh shaná|m}}, {{t|he|יומן|tr=yomán|m}}
+* Hindi: {{t|hi|जन्त्री|tr=jantrī|f}}, {{t|hi|पत्रा|tr=patrā|m}}
 * Icelandic: {{t+|is|dagatal|n}}
 * Italian: {{t+|it|calendario|m}}
 * Latin: {{t-|la|calendarium|m}}
@@ -122,14 +120,14 @@ From {{etyl|fro}} {{term|calendier}}, from {{etyl|la}} {{term|calendarium||accou
 * Portuguese: {{t+|pt|calendário|m}}
 * Russian: {{t|ru|календарь|m|tr=kalendár’|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|mìosachan|m}}
-* Serbian:
-*: Cyrillic: {{t-|sr|календар|m|sc=Cyrl}}
-*: Roman: {{t-|sr|kalendar|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|календар|m|sc=Cyrl}}
+*: Roman: {{t|sh|kalendar|m}}
 * Slovene: {{t+|sl|koledar|m}}
 * Spanish: {{t+|es|calendario|m}}
 * Swedish: {{t-|sv|kalender|c}}
 * Turkish: {{t|tr|takvim}}
-* Urdu: {{ur-Arab|[[تقویم]]}} (taqvīm) {{f}}, {{ur-Arab|[[جنتری]]}} (jantrī) {{f}}, {{ur-Arab|[[پترا]]}} (patrā) {{m}}
+* Urdu: {{t|ur|تقویم|tr=taqvīm|f}}, {{t|ur|جنتری|tr=jantrī|f}}, {{t|ur|پترا|tr=patrā|m}}
 * Vietnamese: {{t+|vi|lịch|xs=Vietnamese}}
 {{trans-bottom}}
 
@@ -140,16 +138,16 @@ From {{etyl|fro}} {{term|calendier}}, from {{etyl|la}} {{term|calendarium||accou
 * Finnish: {{t-|fi|toimintakalenteri}}, {{t-|fi|aikataulu}}
 * French: {{t|fr|agenda|m}}, {{t|fr|emploi du temps|m}}, {{t|fr|programme|m}}
 * Greek: {{t+|el|πρόγραμμα|n|tr=prógramma}}
-* Hebrew: [[לוח זמנים]] (luakh zmanym) {{m}}, [[לוײז]] (luz) {{m}}
+* Hebrew: {{t|he|לוח זמנים|tr=luakh zmanym|m}}, {{t|he|לוײז|tr=luz|m}}
 * Italian: {{t+|it|calendario|m}}
 * Lithuanian: {{t-|lt|kalendorius|m|xs=Lithuanian}}
 {{trans-mid}}
 * Maltese: {{t-|mt|kalendarju|xs=Maltese}}
 * Polish: {{t+|pl|kalendarz|m}}
 * Portuguese: {{t+|pt|agenda|f}}, {{t+|pt|calendário|m}}
-* Romanian: {{t|ro|agendă|f}}, {{t|ro|program|n}}, {{t|ro|calendar |n}}
+* Romanian: {{t|ro|agendă|f}}, {{t|ro|program|n}}, {{t|ro|calendar|n}}
 * Scottish Gaelic: {{t|gd|mìosachan|m}}
-* Spanish: {{t+|es|agenda}}
+* Spanish: {{t+|es|agenda|f}}
 * Swedish: {{t+|sv|agenda|c}}
 * Turkish: {{t|tr|takvim}}
 {{trans-bottom}}
