@@ -64,7 +64,7 @@ From {{etyl|och|yue}} ''*<sup>?</sup>yit''
 }}
 
 ====Compounds====
-{{rel-top3|compound words that contain 一}}
+{{rel-top3|Compound words that contain 一}}
 * [[一先]] ([[ひとまず]], ''[[hitomazu]]'')
 * [[一隅]] ([[いちぐう]], ''[[ichigū]]'')
 * [[一茎]] ([[いっけい]], ''[[ikkei]]'')
@@ -179,21 +179,20 @@ From {{etyl|och|yue}} ''*<sup>?</sup>yit''
 {{rel-bottom}}
 
 ====Derived terms====
-* [[一つ]] ([[ひとつ]], ''[[hitotsu]]'')
-*: ''noun'': [[one]], [[1]] (counting); the [[same]]
-* [[一に]] ([[いつに]], ''[[itsuni]]'')
-*: ''adv'': [[solely]], [[entirely]], [[only]], [[or]]
-* [[一は]] ([[いつは]], ''[[itsuwa]]'')
-*: ''exp'': for one thing, [[partly]]
-* [[一から]] ([[いちから]], ''[[ichikara]]'')
+* {{l|ja|一つ|tr=[[ひとつ]], ''[[hitotsu]]''}}: [[one]], [[1]] (counting)
+* {{l|ja|一に|tr=[[いつに]], ''[[itsuni]]''}}: [[solely]], [[entirely]], [[only]], [[or]]
+* {{l|ja|一は|tr=[[いつは]], ''[[itsuwa]]''}}: for one thing, [[partly]]
+* {{l|ja|一から]] ([[いちから]], ''[[ichikara]]'')
 *: ''exp'': from the [[beginning]], from [[scratch]]
-* [[一ころ]] ([[いちころ]], ''[[ichikoro]]'')
-*: ''noun'': [[trouncing]], beating somebody hands down
-* [[くノ一]] ([[くのいち]], ''[[kunoichi]]'')
-*: ''noun'': [[female]] [[ninja]]
+* {{l|ja|一ころ|tr=[[いちころ]], ''[[ichikoro]]''}}: a [[trouncing]], a [[beat-down]]
+* {{l|ja|くノ一|tr=[[くのいち]], ''[[kunoichi]]''}}: [[female]] [[ninja]]
 
 ===Etymology 1===
 From {{etyl|zho|ja|sort=いち}} {{term|sc=Hani|一}}.
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|[it͡ɕi]}}
 
 ====Noun====
 {{ja-noun|k|hira=いち|rom=ichi}}
@@ -204,11 +203,7 @@ From {{etyl|zho|ja|sort=いち}} {{term|sc=Hani|一}}.
 
 ====Number====
 {{cardinalbox|ja|0|1|2|零 |二}}
-'''一''' ([[いち]], ''[[ichi]]'')
-: 一 ([[いつ]], ''[[itsu]]'')
-: 一 ([[いっ]], ''[[it]]'')
-: 一 ([[ひと]], ''[[hito]]'')
-The pronunciation depends on the counter word following 一.
+{{ja-noun|k|hira=いち|rom=ichi}}
 
 # [[one]], [[1]]
 
@@ -234,7 +229,11 @@ The pronunciation depends on the counter word following 一.
 ===Etymology 2===
 From {{etyl|ojp|ja|sort=ひと}}.
 
-/hito<small>2</small>/: [pitə] > [ɸitə] > [ɸito] > [çito].
+<span class="IPA">/hito<small>2</small>/: [pitə] > [ɸitə] > [ɸito] > [çito]</span>
+
+===Pronunciation===
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|[çito̞]}}
 
 ====Number====
 {{ja-noun|k|hira=ひと|rom=hito}}
@@ -242,14 +241,16 @@ From {{etyl|ojp|ja|sort=ひと}}.
 # one
 
 ===Etymology 3===
-From {{term|lang=ja|始め|tr=hajime||beginning, first}}.
+From {{term|lang=ja|始め|tr=hajime||beginning, first}}, stem noun form of verb {{term|lang=ja|始める|tr=hajimeru||to begin something}}.  The use of the kanji {{Jpan|一}} for the reading ''hajime'' is an example of [[熟字訓#Japanese|jukujikun]].
+
+===Pronunciation===
+* {{IPA|lang=ja|[ha̠d͡ʑime̞]}}
 
 ====Proper noun====
 {{ja-pos|k|proper|hira=はじめ|rom=Hajime}}
 
-# {{given name|male|lang=ja}}
+# {{given name|male|lang=ja|sort=はじめ}}
 
-[[Category:Japanese male given names|はじめ]]
 [[Category:1000 Japanese basic words|いち]]
 [[Category:Japanese numbers|1]]
 [[Category:Japanese numerals|1]]
