@@ -45,7 +45,7 @@ Although the earliest form of "Japan" in Europe was [[w:Marco Polo|Marco Polo]]'
 * [[Aragonese]]: {{t-|an|Chapón|m|xs=Aragonese}}
 * Aramaic: {{tø|arc|ܝܦܢ|tr=japan|sc=Syrc|xs=Aramic}}
 * Armenian: {{t-|hy|Ճապոնիա|tr=Č̣aponia}}
-* [[Asturian]]: {{t-|ast|Xapón|xs=Asturian}}
+* [[Asturian]]: {{t-|ast|Xapón|xs=Asturian|m}}
 * [[Azeri]]: {{t-|az|Yaponiya|xs=Azeri}}
 * [[Bashkir]]: {{tø|ba|Япония|sc=Cyrl|xs=Bashkir}}
 * [[Basque]]: {{t-|eu|Japonia|xs=Basque}}
@@ -53,7 +53,6 @@ Although the earliest form of "Japan" in Europe was [[w:Marco Polo|Marco Polo]]'
 * Belarusian: {{t-|be|Японія|f|tr=Japónija|xs=Belarusian}}
 * Bengali: {{t-|bn|জাপান|tr=japan|sc=Beng|xs=Bengali}}
 * [[Bishnupriya Manipuri]]: {{tø|bpy|জাপান|sc=Beng}}
-* Bosnian: {{t-|bs|Japan|m}}
 * [[Breton]]: {{t-|br|Japan|xs=Breton}}
 * Bulgarian: {{t+|bg|Япония|f|tr=Japónija}}
 * Burmese: {{t|my|ဂျပန်|tr=jăpan|sc=Mymr|xs=Burmese}}, {{t|my|ဂျပန်နိုင်ငံ|tr=jăpan nain-gan|sc=Mymr}}
@@ -73,7 +72,6 @@ Although the earliest form of "Japan" in Europe was [[w:Marco Polo|Marco Polo]]'
 *: [[Wu]]: {{tø|wuu|日本|sc=Hani|xs=Wu}}
 * [[Chuvash]]: {{tø|cv|Япони|sc=Cyrl|xs=Chuvash}}
 * [[Cornish]]: {{t-|kw|Nihon|xs=Cornish}}
-* Croatian: {{t+|hr|Japan|m}}
 * Czech: {{t+|cs|Japonsko}}
 * Danish: {{t+|da|Japan}}
 * [[Dhivehi]]: {{t|dv|ޖަޕާނު|xs=Dhivehi}}
@@ -104,7 +102,7 @@ Although the earliest form of "Japan" in Europe was [[w:Marco Polo|Marco Polo]]'
 * [[Inuktitut]]: {{t|iu|ᓃᑉᐊᓐ|sc=Cans|xs=Inuktitut}}, {{t|iu|Niipan|xs=Inuktitut}}
 * Irish: {{t|ga|Seapáin|f|alt=an tSeapáin|xs=Irish}}
 * Italian: {{t+|it|Giappone|m}}
-* Japanese: {{t+|ja|日本}} ([[にっぽん]], Nippon; [[にほん]], Nihon)
+* Japanese: {{t+|ja|日本|tr=[[にっぽん]], Nippon; [[にほん]], Nihon}}
 * [[Javanese]]: {{t-|jv|Jepang|xs=Javanese}}
 * [[Kalmyk]]: {{tø|xal|Японь|sc=Cyrl|xs=Kalmyk}}
 * [[Kannada]]: {{t|kn|ಜಪಾನ್|sc=Knda|xs=Kannada}}
@@ -114,7 +112,7 @@ Although the earliest form of "Japan" in Europe was [[w:Marco Polo|Marco Polo]]'
 * Kazakh: {{t-|kk|Жапония|tr=Žaponiya|sc=Cyrl|xs=Kazakh}}
 * [[Khmer]]: {{t|km|ជប៉ុន|tr=jībpūn|sc=Khmr|xs=Khmer}}
 * Korean: {{t+|ko|일본|tr=Ilbon|sc=Hang}} ({{t|ko|日本|sc=Kore}})
-* Kurdish: {{t-|ku|Japon}}, {{ku-Arab|[[ژاپۆن]]}}
+* Kurdish: {{t-|ku|Japon}}, {{t|ku|ژاپۆن|sc=ku-Arab}}
 * [[Kyrgyz]]: {{t-|ky|Жапония|tr=Žaponiya|sc=Cyrl|xs=Kyrgyz}}
 * [[Lao]]: {{t+|lo|ຍີ່ປຸ່ນ|tr=nyī-pun|sc=Laoo|xs=Lao}}, {{t|lo|ປະເທດຍີ່ປຸ່ນ|tr=patheet nyī-pun|sc=Laoo}}
 * [[Latgalian]]: {{tø|ltg|Japoneja|f}}
@@ -167,9 +165,9 @@ Although the earliest form of "Japan" in Europe was [[w:Marco Polo|Marco Polo]]'
 * [[Sardinian]]: {{tø|sc|Japone|xs=Sardinian}}
 * [[Scots]]: {{tø|sco|Japan|xs=Scots}}
 * [[Scottish Gaelic]]: {{t|gd|Iapan|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: {{t-|sr|Јапан|m|sc=Cyrl}}
-*: Roman: {{t-|sr|Japan|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Јапан|m|sc=Cyrl}}
+*: Roman: {{t|sh|Japan|m}}
 * [[Sicilian]]: {{t|scn|Giappuni|xs=Sicilian}}
 * [[Silesian]]: {{tø|szl|Japůńja|xs=Silesian}}
 * [[Sinhalese]]: {{t|si|ජපානය|tr=japānaya|sc=Sinh|xs=Sinhalese}}
@@ -235,7 +233,7 @@ Although the earliest form of "Japan" in Europe was [[w:Marco Polo|Marco Polo]]'
 ===Proper noun===
 {{head|af|proper noun}}
 
-# [[#English|Japan]]
+# {{l|en|Japan}}
 
 [[Category:af:Countries]]
 [[Category:af:Exonyms]]
@@ -248,7 +246,7 @@ Although the earliest form of "Japan" in Europe was [[w:Marco Polo|Marco Polo]]'
 ===Proper noun===
 {{head|da|proper noun}}
 
-# {{geography|lang=da}} [[#English|Japan]] {{gloss|An [[island]] [[nation]] in the [[Pacific Ocean]]|lang=da}}
+# {{geography|lang=da}} {{l|en|Japan}} {{gloss|An [[island]] [[nation]] in the [[Pacific Ocean]]|lang=da}}
 
 ===Related terms===
 * {{l|da|japaner}}
@@ -261,7 +259,7 @@ Although the earliest form of "Japan" in Europe was [[w:Marco Polo|Marco Polo]]'
 ===Proper noun===
 {{head|nl|proper noun}}
 
-# [[#English|Japan]]
+# {{l|en|Japan}}
 
 [[Category:nl:Countries]]
 [[Category:nl:Exonyms]]
@@ -277,7 +275,7 @@ Although the earliest form of "Japan" in Europe was [[w:Marco Polo|Marco Polo]]'
 ===Proper noun===
 {{head|de|proper noun|g=n}}
 
-# [[#English|Japan]]
+# {{l|en|Japan}}
 
 ===See also===
 * [[Japaner]]
@@ -298,7 +296,7 @@ Although the earliest form of "Japan" in Europe was [[w:Marco Polo|Marco Polo]]'
 ===Proper noun===
 {{head|is|proper noun|g=n}}
 
-# [[#English|Japan]]
+# {{l|en|Japan}}
 #: ''Ég {{l|is|fara|fer}} til '''Japans'''.''
 #:: I'm [[go]]ing to '''Japan'''.
 #: ''[[hvar|Hvar]] er '''Japan''' staðsett á [[kort]]inu?''
@@ -318,7 +316,7 @@ Although the earliest form of "Japan" in Europe was [[w:Marco Polo|Marco Polo]]'
 ===Proper noun===
 {{head|no|proper noun}}
 
-# [[#English|Japan]]
+# {{l|en|Japan}}
 
 ====Related terms====
 * [[japaner]]
@@ -338,7 +336,7 @@ Although the earliest form of "Japan" in Europe was [[w:Marco Polo|Marco Polo]]'
 ===Proper noun===
 {{sh-proper noun|g=m|head=Jàpān|r|Јапан|Ја̀па̄н}}
 
-# [[#English|Japan]]
+# {{l|en|Japan}}
 
 ====Declension====
 {{sh-decl-noun-unc
@@ -364,7 +362,7 @@ Although the earliest form of "Japan" in Europe was [[w:Marco Polo|Marco Polo]]'
 ===Proper noun===
 {{head|sv|proper noun}}
 
-# [[#English|Japan]]
+# {{l|en|Japan}}
 
 ====See also====
 * [[japansk]]
