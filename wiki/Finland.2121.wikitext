@@ -24,13 +24,13 @@
 * Arabic: {{t|ar|فنلندا|f|tr=finlanda}}
 *: [[Egyptian Arabic]]: {{tø|arz|فينلاندا|sc=Arab}}
 * Armenian: {{t+|hy|Ֆինլանդիա|tr=Finlandia}}
+* Asturian: {{t|ast|Finlandia|f}}
 * [[Azeri]]: {{t+|az|Finlandiya|xs=Azeri}}
 * [[Basque]]: {{t+|eu|Finlandia|xs=Basque}}
 * [[Bavarian]]: {{tø|bar|Finnlånd}}
 * Belarusian: {{t-|be|Фінляндыя|f|tr=Finljándyja|xs=Belarusian}}
 * Bengali: {{t-|bn|ফিনল্যান্ড|tr=phinlyanḑ}}
-* Bosnian: {{t-|bs|Finska|f}}
-* [[Breton]]: Finland
+* [[Breton]]: {{t|br|Finland}}
 * Bulgarian: {{t+|bg|Финландия|f|tr=Finlándija}}
 * Burmese: {{t|my|ဖင်လန်နိုင်ငံ|sc=Mymr}}
 * Cantonese: {{tø|yue|芬蘭|sc=Hani}}
@@ -43,7 +43,6 @@
 *: [[Wu]]: {{tø|wuu|芬兰|sc=Hans}}
 * [[Chuvash]]: {{tø|cv|Финлянди|tr=Finlandijadi|sc=Cyrl}}
 * [[Crimean Tatar]]: {{tø|crh|Finlandiya}}
-* Croatian: {{t+|hr|Finska|f}}
 * Czech: {{t+|cs|Finsko|n}}
 * Danish: {{t+|da|Finland}}
 * [[Dhatki]]: {{tø|mki|Finland}}
@@ -95,7 +94,7 @@
 * [[Limburgish]]: {{t|li|Finland|n}}
 * [[Lingala]]: {{t|ln|Finilanda}}
 * Lithuanian: {{t+|lt|Suomija|xs=Lithuanian}}
-* [[Livonian]]: [[Sūomõmō]]
+* [[Livonian]]: {{t|liv|Sūomõmō}}
 * [[Lojban]]: {{t|jbo|gugdrsu,omi}}
 * [[Lombard]]: {{tø|lmo|Finlandia|f}}
 * [[Low German]]: {{t|nds|Finnland|n}}
@@ -125,7 +124,7 @@
 * [[North Frisian]]: {{tø|frr|Finlönj|n}}
 * [[Northern Sami]]: [[Suopma]]
 * Norwegian: {{t+|no|Finland}}
-* [[Novial]]: [[Finlande]], [[Suomi]]
+* [[Novial]]: {{t|nov|Finlande}}, {{t|nov|Suomi}}
 * [[Occitan]]: {{t|oc|Finlàndia|f}}
 * [[Old Church Slavonic]]: {{tø|cu|Соумь|sc=Cyrs}}
 * [[Old Norse]]: {{tø|non|Finnland|n}}
@@ -151,7 +150,9 @@
 * [[Saterland Frisian]]: {{tø|stq|Finlound|n}}
 * [[Scots]]: {{tø|sco|Finland}}
 * [[Scottish Gaelic]]: {{t-|gd|Fionnlainn|f|alt=an Fhionnlainn|xs=Scottish Gaelic}}, {{t-|gd|Suòmaidh|f|xs=Scottish Gaelic}}
-* Serbo-Croatian: {{t|sh|Финска|f|sc=Cyrl|xs=Serbo-Croatian}}, {{t|sh|Finska|f|sc=Cyrl|xs=Serbo-Croatian}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Финска|f|sc=Cyrl|xs=Serbo-Croatian}}
+*: Roman: {{t|sh|Finska|f|sc=Cyrl|xs=Serbo-Croatian}}
 * [[Sicilian]]: {{t|scn|Finlandia|f}}
 * [[Silesian]]: {{tø|szl|Finlandyjo|n}}
 * [[Sinhalese]]: {{t|si|ෆින්ලන්තය|sc=Sinh}}
@@ -189,8 +190,8 @@
 * [[Võro]]: [[Soomõ]]
 * [[Walloon]]: {{t|wa|Finlande|f}}
 * Waray-Waray: {{tø|war|Finlandya}}
-* Welsh: [[y Ffindir]] {{m}}
-* [[West Frisian]]: [[Finlân]]
+* Welsh: y {{t|cy|Ffindir|m}}
+* [[West Frisian]]: {{t|fy|Finlân}}
 * [[Western Panjabi]]: {{tø|pnb|فنلینڈ}}
 * [[Wolof]]: {{t|wo|Finlaand}}
 * [[Yakut]]: {{tø|sah|Финляндия|tr=Finljandija|sc=Cyrl}}
@@ -204,9 +205,8 @@
 * [[Appendix:Place names in Finland]]
 * {{list|en|countries of Europe}}
 
-[[Category:en:Countries]]
 [[Category:en:Exonyms]]
-[[Category:en:Finland| Finland]]
+[[Category:en:Finland]]
 
 ----
 
@@ -257,7 +257,7 @@
 ===Proper noun===
 {{head|no|proper noun}}
 
-# [[#English|Finland]]
+# {{l|en|Finland}}
 
 ====Related terms====
 * [[finlender]], [[finlending]], [[finne]]
@@ -277,7 +277,7 @@
 ===Proper noun===
 {{head|sv|proper noun}}
 
-# [[#English|Finland]]
+# {{l|en|Finland}}
 
 [[Category:sv:Countries]]
 [[Category:sv:Exonyms]]
