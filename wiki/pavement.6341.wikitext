@@ -1,13 +1,13 @@
 ==English==
 
 ===Etymology===
-{{etyl|enm|en}}, from {{etyl|fro}} {{term|pavemant|lang=fro}}<!--Chrétien de Troyes, circa 1176-->, from {{etyl|la|en}} {{term|pavimentum||lang=la|a hard surface, a pounded surface}}, from {{term|pavio|pavire|lang=la|to beat, to ram, to tread down}}
+{{etyl|enm}}, from {{etyl|fro}} {{term|pavement|lang=fro}}, from {{etyl|la}} {{term|pavimentum||lang=la|a hard surface, a pounded surface}}, from {{term|pavio|pavire|lang=la|to beat, to ram, to tread down}}
 
 ===Noun===
 {{en-noun|-|s}}
 
 # {{chiefly|British}} A [[pave]]d footpath at the side of a [[road]].
-# {{US}} {{uncountable}} Paved [[exterior]] surface, as with a road or [[sidewalk]].
+# {{US|uncountable}} Paved [[exterior]] surface, as with a road or [[sidewalk]].
 # The interior [[flooring]], especially when of stone, of large buildings such as a [[cathedral]].
 
 ====Synonyms====
@@ -22,11 +22,9 @@
 ====Translations====
 {{trans-top|footpath}}
 * Arabic: {{t|ar|طوار|m|tr=Tawaar, Tuwaar}}, {{t|ar|رصيف|m|tr=raSiif}}
-* Bosnian: {{t-|bs|trotoar|m}}
 * Catalan: {{t|ca|vorera}}
 * Chinese:
 *: Mandarin: {{t-|cmn|人行道|tr=rénxíngdào|sc=Hani}}
-* Croatian: [[trotoar#Crotian|trotoar]] {{m}}
 * Czech: {{t-|cs|chodník|m}}
 * Danish: {{t|da|fortov}}
 * Dutch: {{t+|nl|stoep}}, {{t+|nl|trottoir|n}}
@@ -45,19 +43,17 @@
 * Portuguese: {{t+|pt|calçada|f}}
 * Russian: {{t+|ru|тротуар|m|tr=trotuár}}
 * Scottish Gaelic: {{t-|gd|cabhsair|m|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: [[тротоар#Serbian|тротоар]] {{m}}
-*: Roman: [[trotoar#Serbian|trotoar]] {{m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|тротоар|m|sc=Cyrl}}
+*: Latin: {{t|sh|trotoar|m}}
 * Spanish: {{t|es|acera|f}}, {{qualifier|Guatemala, Mexico}} {{t|es|banqueta|f}}, {{qualifier|Southern Cone}} {{t|es|vereda|f}}
 * Swedish: {{t+|sv|trottoar}}
+* Telugu: {{t|te|కాలిబాట|tr=kalibata}}
 * Turkish: {{t+|tr|kaldırım}}
 * Welsh: {{t|cy|palmant|m}}
-* telugu: [[te| కాలిబాట]](kalibata)
 {{trans-bottom}}
 
 {{trans-top|surface of road}}
-* Bosnian: {{t-|bs|pločnik|m}}
-* Croatian: {{t-|hr|pločnik|m}}
 * Czech: {{t+|cs|vozovka|f}}
 * Danish: {{t|da|vejbelægning}}
 * Dutch: {{t-|nl|wegdek|n}}
@@ -69,18 +65,18 @@
 * Italian: [[pavimentazione stradale]] {{f}}
 {{trans-mid}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[به‌ردڕێز]]}}
-* Polish: [[nawierzchnia drogi]] {{f}}
+*: Sorani: {{t|ku||به‌ردڕێز|sc=ku-Arab}}
+* Polish: {{t|pl|nawierzchnia drogi|f}}
 * Portuguese: {{t+|pt|pavimento|m}}
 * Russian: {{t+|ru|мостовая}}
-* Serbian:
-*: Cyrillic: [[плочник#Serbian|плочник]] {{m}}
-*: Roman: [[pločnik#Serbian|pločnik]] {{m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|плочник|m|sc=Cyrl}}
+*: Roman: {{t|sh|pločnik|m}}
 * Spanish: {{t|es|pavimento|m}}
 * Turkish: {{t+|tr|kaldırım}}
 {{trans-bottom}}
 
-====See also====
+===See also===
 <!-- maybe or maybe not synonyms -->
 * [[footpath]]
 * [[sidewalk]]
@@ -93,13 +89,29 @@
 ==French==
 
 ===Etymology===
-From {{suffix|paver|ment|lang=fr}}
+{{etyl|la|fr}} {{term|pavimentum||lang=la|a hard surface, a pounded surface}}.
 
 ===Noun===
 {{fr-noun|m}}
 
 # [[paving]]
 # [[tiled]] [[floor]]
+
+----
+
+==Old French==
+
+===Etymology===
+{{etyl|la|fro}} {{term|pavimentum||lang=la|a hard surface, a pounded surface}}.
+
+===Noun===
+{{fro-noun|m|pavemenz|pavemenz}}
+
+# a [[paved]] [[room]]
+
+====Descendants====
+* English: {{l|en|pavement}}
+* French: {{l|fr|pavement}}
 
 [[ca:pavement]]
 [[cs:pavement]]
