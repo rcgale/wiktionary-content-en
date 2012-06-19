@@ -9,7 +9,7 @@
 * {{rhymes|ɪdʒ}}
 
 ===Etymology 1===
-From {{etyl|enm}} {{term|brigge|lang=enm}}, from {{etyl|ang|en}} {{term|brycg|lang=ang}}, from {{proto|Germanic|brugjōn|lang=en}} (cf. West Frisian {{term|brêge|lang=fy}}, Dutch {{term|brug|lang=nl}}, German {{term|Brücke|lang=de}}), from {{proto|Indo-European|bhrēuā}} (cf. Gaulish {{term||bríva}} ‘bridge’, Old Church Slavonic {{term||brŭvŭno}} ‘beam’, {{term||brivno}} ‘log’).
+From {{etyl|enm}} {{term|brigge|lang=enm}}, from {{etyl|ang|en}} {{term|brycg||bridge|lang=ang}}, from {{proto|Germanic|brugjōn|lang=en}} (cf. West Frisian {{term|brêge|lang=fy}}, Dutch {{term|brug|lang=nl}}, German {{term|Brücke|lang=de}}), from {{proto|Indo-European|bhrēuā}} (cf. Gaulish {{term||bríva}} ‘bridge’, Old Church Slavonic {{term||brŭvŭno}} ‘beam’, {{term||brivno}} ‘log’).
 
 ====Noun====
 [[Image:48 - Mende - Pont Notre-Dame.jpg|thumb|A bridge (sense 1)]][[Image:Violin_bridge.jpg|thumb|right|The bridge of a violin]]
@@ -279,7 +279,51 @@ From {{etyl|enm}} {{term|brigge|lang=enm}}, from {{etyl|ang|en}} {{term|brycg|la
 {{trans-mid}}
 {{trans-bottom}}
 
-===Etymology 2===
+===Etymology 3===
+From {{etyl|enm}} {{term|briggen|lang=enm}}, from {{etyl|ang|en}} {{term|brycgian|brycġian|to bridge, make a causeway, pave|lang=ang}}.
+{{rfv|is this really different from etymology 1?}}
+
+====Verb====
+{{en-verb|bridg|ing}}
+
+# To be or make a bridge over something.
+#: ''With enough cable, we can '''bridge''' this gorge.''
+# To [[span]] as if with a bridge.
+#: ''The two groups were able to '''bridge''' their differences.''
+# {{music}} To [[transition]] from one piece or section of music to another without stopping.
+#: ''We need to bridge that [[jam]] into "The Eleven".''
+# {{computing|communication}} To [[connect]] two or more computer buses, networks etc. with a bridge.
+# {{wrestling}} to go to the bridge position.
+
+=====Translations=====
+{{trans-top|to make a bridge}}
+* Finnish: [[rakentaa#Finnish|rakentaa]] [[silta#Finnish|silta]] [[jonkin#Finnish|jonkin]] {{t|fi|yli}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to span as if with a bridge}}
+* Finnish: {{t|fi|sovitella}}
+* Hungarian: {{t|hu|áthidal}}
+{{trans-mid}}
+* Swedish: {{t+|sv|överbrygga}}
+* Tongan: {{t|to|hala fakakavakava}}
+{{trans-bottom}}
+
+{{trans-top|music: to transition from one piece or section to another}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|computing, communication: to connect with a bridge}}
+* Finnish: {{t|fi|sillata}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|wrestling: to go to the bridge position}}
+* Finnish: {{t|fi|sillata}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Etymology 3===
 Name of an older card game ''biritch'', probably {{etyl|ru}} - OED, or probably from {{etyl|tr}} {{term|bir|lang=tr}}-{{term|üç|lang=tr}}, "one-three". <ref>"bridge." *OED 2nd edition. 1989. (online)</ref><ref>[http://www.etymonline.com/index.php?term=bridge "bridge."] Online Etymology Dictionary. 2008.</ref>
 
 ====Noun====
@@ -322,50 +366,6 @@ Name of an older card game ''biritch'', probably {{etyl|ru}} - OED, or probably 
 
 ====References====
 <references />
-
-===Etymology 3===
-From {{etyl|ang|en}} {{term|brycgian|brycġian|lang=ang}}.
-{{rfv|is this really different from etymology 1?}}
-
-====Verb====
-{{en-verb|bridg|ing}}
-
-# To be or make a bridge over something.
-#: ''With enough cable, we can '''bridge''' this gorge.''
-# To [[span]] as if with a bridge.
-#: ''The two groups were able to '''bridge''' their differences.''
-# {{music}} To [[transition]] from one piece or section of music to another without stopping.
-#: ''We need to bridge that [[jam]] into "The Eleven".''
-# {{computing|communication}} To [[connect]] two or more computer buses, networks etc. with a bridge.
-# {{wrestling}} to go to the bridge position.
-
-=====Translations=====
-{{trans-top|to make a bridge}}
-* Finnish: [[rakentaa#Finnish|rakentaa]] [[silta#Finnish|silta]] [[jonkin#Finnish|jonkin]] {{t|fi|yli}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|to span as if with a bridge}}
-* Finnish: {{t|fi|sovitella}}
-* Hungarian: {{t|hu|áthidal}}
-{{trans-mid}}
-* Swedish: {{t+|sv|överbrygga}}
-* Tongan: {{t|to|hala fakakavakava}}
-{{trans-bottom}}
-
-{{trans-top|music: to transition from one piece or section to another}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|computing, communication: to connect with a bridge}}
-* Finnish: {{t|fi|sillata}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|wrestling: to go to the bridge position}}
-* Finnish: {{t|fi|sillata}}
-{{trans-mid}}
-{{trans-bottom}}
 
 ===Anagrams===
 * [[begird#English|begird]]
