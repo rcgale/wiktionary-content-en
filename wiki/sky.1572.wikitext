@@ -51,7 +51,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Ainu: [[ニシ|ニ<span style="font-size:70%;">シ</span>]] (nis)
 * Albanian: {{t|sq|qiell|m}}
 * Amharic: {{t|am|ሰማይ|m|tr=sämay|sc=Ethi}}
-* Arabic: {{t|ar|سماء|tr=sámaa’|m|f|sc=Arab}}, {{Arab|[[سماوات|سَمَاوَات]]}} (samawaat) {{p}}
+* Arabic: {{t|ar|سماء|tr=sámāʾ|m|f|sc=Arab}}, {{Arab|[[سماوات|سَمَاوَات]]}} (samawāt) {{p}}
 *: [[Egyptian Arabic]]: {{tø|arz|سما|f|tr=sama|sc=Arab}}
 * Aramaic:
 *: Syriac: [[ܫܡܝܐ]] (šmayā’) {{c}}
@@ -87,7 +87,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * French: {{t+|fr|ciel|m}}
 * Friulian: {{tø|fur|cîl}}
 * Galician: {{t|gl|ceo|m}}
-* Georgian: {{t|ka|ზეცა|tr=zetsa|sc=Geor}}
+* Georgian: {{t|ka|ზეცა|tr=zec'a|sc=Geor}}
 * German: {{t+|de|Himmel|m}}
 * Greek: {{t+|el|ουρανός|m|tr=ouranós}}
 * Haitian Creole: {{tø|ht|syèl}}
@@ -134,7 +134,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Ottoman Turkish: {{tø|ota|آسمان|tr=âsmân|sc=ota-Arab}}, {{tø|ota|سما|tr=semâ|sc=ota-Arab}}, {{tø|ota|سموات|p|tr=semâvât|sc=ota-Arab}}
 * Parthian: {{tø|xpr|assamän}}
 * Pashto: {{t-|ps|هسك|m|tr=hask|sc=ps-Arab|xs=Pashto}}, {{t-|ps|آسمان|m|tr=āsmān|sc=ps-Arab|xs=Pashto}}
-* Persian: {{t+|fa|آسمان|tr=âsemân, âsmân|xs=Persian}}, {{t|fa|سپهر|xs=Persian}}
+* Persian: {{t+|fa|آسمان|tr=âsemân, âsmân|xs=Persian}}, {{t|fa|سپهر|tr=sepehr|xs=Persian}}
 * Polish: {{t+|pl|niebo|n}}, {{t+|pl|firmament|m}}
 * Portuguese: {{t+|pt|céu|m}}
 * Rapa Nui: {{tø|rap|rangi}}
@@ -156,7 +156,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Tahitian: [[ra’i]]
 * Tajik: {{t|tg|осмон|tr=osmon|sc=Cyrl}}
 * Taos: [[p’ȍpə́na]]
-* Tatar: {{t+|tt|күк|sc=Cyrl}}, {{t|tt|күк|tr=kük|sc=Cyrl}}
+* Tatar: {{t+|tt|күк|tr=kük|sc=Cyrl}}
 * Thai: {{t+|th|ฟ้า|tr=fáa}}
 * Tibetan: {{t|bo|གནམ|tr=gnam|sc=Tibt}}
 * Turkish: {{t+|tr|gökyüzü}}, {{t+|tr|gök}}
@@ -172,14 +172,11 @@ Usually the word can be used correctly in either the singular or plural form, bu
 {{trans-bottom}}
 
 {{trans-top|specific view, condition}}
-* Arabic: {{Arab|[[سماء|سَمَاء]]}} {{IPAchar|(sámaː’)}} {{m|f}}, {{Arab|[[سماوات|سَمَاوَات]]}} {{IPAchar|(samawáːt)}} {{p}}
-* Aramaic:
+* Arabic: {{t|ar|سماء|tr=sámāʾ|m|f|sc=Arab}}, {{Arab|[[سماوات|سَمَاوَات]]}} (samawāt) {{p}}* Aramaic:
 *: Syriac: [[ܫܡܝܐ]] (šmayā’) {{c}}
 *: Hebrew: [[שמיא]] (šmayā’) {{c}}
 * Armenian: [[երկինք]] (erkink‘)
-* Bosnian: {{t-|bs|nebo|n}}
 * Bulgarian: {{t|bg|небе|n|tr=nebé|sc=Cyrl}}
-* Croatian: {{t+|hr|nebo|n}}
 * Danish: {{t-|da|himmel}}
 * Dutch: {{t+|nl|hemel|m}}, {{t-|nl|firmament|n}}
 * Esperanto: {{t-|eo|firmamento|xs=Esperanto}}
@@ -206,9 +203,9 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Portuguese: {{t+|pt|céu|m}}
 * Russian: {{t+|ru|небо|n|tr=nébo}}
 * Scots: [[#Scots|sky]]
-* Serbian:
-*: Cyrillic: [[небо#Serbian|небо]] {{n}}
-*: Roman: [[nebo#Serbian|nebo]] {{n}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|небо|alt=не̏бо|sc=Cyrl|n}}
+*: Roman: {{t|sh|nebo|alt=nȅbo|sc=Latn|n}}
 * Slovene: {{t+|sl|nebo|n}}
 * Spanish: {{t-|es|firmamento|m}}
 * Swahili: {{t+|sw|anga|xs=Swahili}}
