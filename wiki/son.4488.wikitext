@@ -75,20 +75,18 @@
 * Bavarian: {{tø|bar|Buab|m}}
 * Belarusian: {{t-|be|сын|m|tr=syn|xs=Belarusian}}
 * Bengali: {{t|bn|ছেলে|tr=chele|sc=Beng}}, {{t|bn|পুত্র|tr=putrô|sc=Beng}}
-* Bosnian: {{t-|bs|sin|m}}
 * Breton: {{t+|br|mab|m|xs=Breton}}
 * Bulgarian: {{t+|bg|син|m|tr=sin}}
 * Burmese: {{t|my|သား|tr=tha:|sc=Mymr}}
 * Catalan: {{t|ca|fill|m}}
 * Chinese:
 *: [[Dungan]]: {{tø|dng|зы|tr=zi|sc=Cyrl}}
-*: Mandarin: {{t-|cmn|兒子|sc=Hani}}, {{t-|cmn|儿子|tr=érzi|sc=Hani}}
+*: Mandarin: {{t+|cmn|兒子|sc=Hani}}, {{t+|cmn|儿子|tr=érzi|sc=Hani}}
 *: [[Min Nan]]: {{tø|nan|囝|tr=kiáⁿ|sc=Hans}}
 *: [[Cantonese]]: [[仔]] (jai2)
 * Chiricahua: -[[ghe’]], -[[zhaa]] (Chiricahua); -[[ye’]] (Mescalero)
 * Chuvash: {{tø|cv|ывӑл|tr=ıvăl|sc=Cyrl}}
 * Cornish: {{qualifier|Unified Cornish}} {{t-|kw|map|m|xs=Cornish}}
-* Croatian: {{t+|hr|sin|m}}
 * Czech: {{t+|cs|syn|m}}
 * Dalmatian: {{t|dlm|felj|m}}
 * Danish: {{t+|da|søn|c}}
@@ -101,7 +99,7 @@
 * Faroese: {{t|fo|sonur}}
 * Finnish: {{t+|fi|poika}}
 * French: {{t+|fr|fils|m}}
-* Georgian: {{t|ka|ვაჟიშვილი|tr=važišvili|sc=Geor|xs=Georgian}}, {{t|ka|ძე|sc=Geor}}
+* Georgian: {{t|ka|ვაჟიშვილი|tr=važišvili|sc=Geor|xs=Georgian}}, {{t|ka|ვაჟი|tr=važi|sc=Geor}}, {{t|ka|ძე|tr=je|sc=Geor}}
 * German: {{t+|de|Sohn|m}}
 * Greek: {{t+|el|γιος|m|tr=gios}}
 *: Ancient: {{t-|el|υἱός|m|tr=huios}}
@@ -125,7 +123,7 @@
 {{trans-mid}}
 * Latgalian: {{tø|ltg|dāls}}
 * Latin: {{t+|la|filius|m}}, {{t|la|natus|m}}
-* Latvian: {{t|lv|dēls|xs=Latvian}}
+* Latvian: {{t|lv|dēls|m|xs=Latvian}}
 * Limburgish: {{t|li|zoon}}
 * Lithuanian: {{t+|lt|sūnus|m|xs=Lithuanian}}
 * Lojban: {{t-|jbo|bersa|xs=Lojban}}
@@ -145,7 +143,7 @@
 *: Glagolitic: {{tø|cu|ⰔⰟⰊⰐⰟ|m|tr=synŭ|sc=Glag}}
 * Old Persian: {{tø|peo|puča|sc=Xpeo}}
 * Pali: {{t|pi|पुत्त|m|tr=putta|sc=Deva|xs=Pali}}
-* Persian: {{t+|fa|پسر|m|tr=pesær|xs=Persian}}, {{t|fa|پور|tr=pur|sc=fa-Arab}}
+* Persian: {{t+|fa|پسر|m|tr=pesar|xs=Persian}}, {{t|fa|پور|tr=pur|sc=fa-Arab}}
 * Polish: {{t+|pl|syn|m}}
 * Portuguese: {{t+|pt|filho|m}}
 * {{trreq|pa}}
@@ -158,9 +156,9 @@
 * Santali: {{tø|sat|ᱜᱳᱱ|tr=hon|sc=Olck}}
 * Saterland Frisian: {{tø|stq|Suun|m}}
 * Scottish Gaelic: {{t+|gd|mac|m|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: {{t-|sr|син|m|sc=Cyrl}}
-*: Roman: {{t-|sr|sin|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|син|m|sc=Cyrl}}
+*: Roman: {{t|sh|sin|m}}
 * Sichuan Yi: {{tø|ii|ꌺ|tr=sse}}
 * Sinhalese: {{t|si|පුතා|tr=putā|sc=Sinh}}
 * Slovak: {{t|sk|syn|m}}
@@ -168,7 +166,7 @@
 * Spanish: {{t+|es|hijo|m}}
 * Sumerian: {{tø|sux|𒌉𒍑|tr=TUR.UŠ|sc=Xsux}}
 * Swedish: {{t+|sv|son|c}}
-* Tajik: {{t|tg|писар|m|sc=Cyrl}}
+* Tajik: {{t|tg|писар|m|tr=pisar|sc=Cyrl}}
 * Tamil: {{t|ta|மகன்|sc=Taml}}
 * Taos: [[ȕ’úna]]
 * Tatar: {{t|tt|ул|tr=ul|sc=Cyrl}}
@@ -190,11 +188,9 @@
 
 {{trans-top|an adopted son}}
 * Armenian: {{t-|hy|խորթ տղա|tr=xort' tġa}}
-* Bosnian: {{t|bs|posinak|m}}
 * Breton: [[advab]]
 * Chinese:
-*: Mandarin: {{t|zh|养子}}
-* Croatian: {{t|hr|posinak|m}}
+*: Mandarin: {{t|zh|養子|sc=Hani}}, {{t|zh|养子|tr=yǎngzǐ|sc=Hani}}
 * Czech: {{t+|cs|syn|m}}
 * Danish: {{t|da|adoptivsøn}}
 * Finnish: {{t+|fi|poika}}, {{t+|fi|ottopoika}}
@@ -205,14 +201,15 @@
 * Polish: {{t+|pl|syn|m}}
 * Romani: [[shavo]] {{m}}
 * Scottish Gaelic: {{t+|gd|mac|m|xs=Scottish Gaelic}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|посинак|m|sc=Cyrl}}
+*: Roman: {{t|sh|posinak|m}}
 * Slovene: {{t+|sl|sin|m}}, {{t|sl|posinovljenec|m}}, {{t|sl|pastorek|m}}
 * Tamil: {{t|ta|வளர்ப்பு மகன்|sc=Taml}}
 {{trans-bottom}}
 
 {{trans-top|a son through close relationship}}
 * Armenian: {{t-|hy|որդի|tr=ordi}}
-* Bosnian: {{t-|bs|sin|m}}
-* Croatian: {{t+|hr|sin|m}}
 * Czech: {{t+|cs|syn|m}}
 * Finnish: {{t+|fi|poika}}
 * Greek: {{t+|el|γιος|m|tr=giós}}
@@ -221,17 +218,15 @@
 * Lithuanian: {{t+|lt|sūnus|m|xs=Lithuanian}}
 * Romani: [[shavo]] {{m}}
 * Scottish Gaelic: {{t+|gd|mac|m|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: {{t-|sr|син|m|sc=Cyrl}}
-*: Roman: {{t-|sr|sin|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|син|m|sc=Cyrl}}
+*: Roman: {{t|sh|sin|m}}
 * Slovene: {{t+|sl|sin|m}}
 {{trans-bottom}}
 
 {{trans-top|a son through major influence}}
-* Arabic: {{Arab|[[ابن]]}} (’ibn) {{m}}
+* Arabic: {{t-|ar|ابن|m|tr=ibn}}
 * Armenian: {{t-|hy|որդի|tr=ordi}}
-* Bosnian: {{t-|bs|sin|m}}
-* Croatian: {{t+|hr|sin|m}}
 * Czech: {{t+|cs|syn|m}}
 * Finnish: {{t+|fi|poika}}, {{t+|fi|lapsi}}, {{t-|fi|kasvatti}}
 * Greek: {{t+|el|γιος|m|tr=giós}}
@@ -240,21 +235,19 @@
 * Lithuanian: {{t+|lt|sūnus|m|xs=Lithuanian}}
 * Romani: [[shavo]] {{m}}
 * Scottish Gaelic: {{t+|gd|mac|m|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: {{t-|sr|син|m|sc=Cyrl}}
-*: Roman: {{t-|sr|sin|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|син|m|sc=Cyrl}}
+*: Roman: {{t|sh|sin|m}}
 * Spanish: {{t+|es|hijo|m}}
 {{trans-bottom}}
 
 {{trans-top|male descendant}}
-* Arabic: {{Arab|[[ابن]]}} (’ibn) {{m}}
+* Arabic: {{t-|ar|ابن|m|tr=ibn}}
 * Aramaic:
 *: Syriac: [[ܒܪܐ]] (brā’) {{m}}
 *: Hebrew: [[ברא]] (brā’) {{m}}
 * Armenian: {{t-|hy|որդի|tr=ordi}}
 * Asturian: {{t+|ast|fíu|m}}
-* Bosnian: {{t-|bs|sin|m}}
-* Croatian: {{t+|hr|sin|m}}
 * Czech: {{t+|cs|syn|m}}
 * Finnish: {{t+|fi|poika}}
 * Greek: {{t+|el|γιος|m|tr=giós}}
@@ -264,17 +257,15 @@
 * Polish: {{t+|pl|syn|m}}
 * Romani: [[shavo]] {{m}}
 * Scottish Gaelic: {{t+|gd|mac|m|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: {{t-|sr|син|m|sc=Cyrl}}
-*: Roman: {{t-|sr|sin|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|син|m|sc=Cyrl}}
+*: Roman: {{t|sh|sin|m}}
 * Slovene: {{t+|sl|sin|m}}
 * Spanish: {{t+|es|hijo|m}}
 {{trans-bottom}}
 
 {{trans-top|familiar address}}
-* Arabic: {{Arab|[[ابن]]}} (’ibn) {{m}}
-* Bosnian: {{t-|bs|sin|m}}
-* Croatian: {{t+|hr|sin|m}}
+* Arabic: {{t-|ar|ابن|m|tr=ibn}}
 * Czech: {{t+|cs|syn|m}}
 * Finnish: {{t+|fi|poika}}
 * Greek: {{t+|el|γιος|m|tr=giós}}
@@ -283,9 +274,9 @@
 * Irish: {{t+|ga|mac|alt=a mhac|xs=Irish}}, {{t+|ga|mac|m|alt=a mhic|xs=Irish}}
 * Italian: {{t|it|figliolo}}
 * Romani: [[muro shavo]] {{m}}
-* Serbian:
-*: Cyrillic: {{t-|sr|син|m|sc=Cyrl}}
-*: Roman: {{t-|sr|sin|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|син|m|sc=Cyrl}}
+*: Roman: {{t|sh|sin|m}}
 * Spanish: {{t+|es|hijo|m}}
 {{trans-bottom}}
 
