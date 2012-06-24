@@ -31,10 +31,10 @@
 * Albanian: {{t-|sq|kush|xs=Albanian}}
 * American Sign Language: {{tø|ase|L@Chin-ThumbBack Squeeze}}
 * Arabic: {{t+|ar|من|tr=man}}
-*: Egyptian: {{Arab|[[مين]]}} (miin)
-*: Moroccan: {{Arab|[[شكون]]}} (škūn)
+*: Egyptian Arabic: {{tø|arz|مين|tr=mīn|sc=Arab}}
+*: Moroccan Arabic: {{tø|ary|شكون|tr=škūn}}
 * Armenian: {{t-|hy|ով|tr=ov}}
-** Old Armenian: {{tø|xcl|ո|tr=o|xs=Old Armenian}}, {{tø|xcl|ով|tr=ov|xs=Old Armenian}}
+*: Old Armenian: {{tø|xcl|ո|tr=o|xs=Old Armenian}}, {{tø|xcl|ով|tr=ov|xs=Old Armenian}}
 * Aromanian: {{tø|rup|tsine}}
 * Azeri: {{t|az|kim}}
 * Balinese: [[nyen]]
@@ -53,7 +53,7 @@
 * Cherokee: [[ᎦᎪ]] (gago)
 * Chinese:
 *: Cantonese: {{qualifier|formal}} {{tø|yue|誰|sc=Hani}},  {{tø|yue|谁|tr=seui4|sc=Hani}}, [[邊個]]/[[边个]] (bīn go), [[邊位]]/[[边位]] (bīn wái)
-*: Mandarin: {{t-|cmn|誰|sc=Hani}},  {{t-|cmn|谁|tr=shuí, shéi|sc=Hani}}
+*: Mandarin: {{t+|cmn|誰|sc=Hani}},  {{t+|cmn|谁|tr=shuí, shéi|sc=Hani}}
 * Cree: [[awina]]
 * Czech: {{t+|cs|kdo}}
 * Dalmatian: {{tø|dlm|ci}}
@@ -66,7 +66,7 @@
 * Finnish: {{t+|fi|kuka}}
 * French: {{t+|fr|qui}}
 *: [[Old French]]: {{tø|fro|qui}}, {{tø|fro|ki}}, {{tø|fro|cui}}
-* Georgian: {{t-|ka|ვინ|sc=Geor|xs=Georgian}} (vin)
+* Georgian: {{t-|ka|ვინ|tr=vin|sc=Geor|xs=Georgian}}
 * German: {{t+|de|wer}}
 * Gothic: {{tø|got|𐍈𐌰𐍃|tr=ƕas|sc=Goth}}
 * Greek: {{t+|el|ποιος|m|tr=poios}}
@@ -82,7 +82,7 @@
 * Interlingua: {{t|ia|qui}}
 * Irish: {{t-|ga|cé|xs=Irish}}
 * Italian: {{t+|it|chi}}
-* Japanese: {{t+|ja|誰|tr=だれ, dáre}},  {{t+|ja|だれ|tr=dáre}},  {{t|ja|どなた|tr=dónata}},  {{t|ja|どちらさま|tr=dóchira-sama}}
+* Japanese: {{t+|ja|誰|tr=[[だれ]], dáre}},  {{t+|ja|だれ|tr=dáre}},  {{t|ja|どなた|tr=dónata}} {{qualifier|honorific}},  {{t|ja|どちらさま|tr=dóchira-sama}} {{qualifier|honorific}}
 * Javanese: sapa, sinten (kromo-level)
 * Kapampangan: [[ninu]]
 {{trans-mid}}
@@ -101,7 +101,7 @@
 * Macedonian: {{t+|mk|кој|m|tr=koj}},  {{t+|mk|која|f|tr=kója}},  {{t+|mk|кое|n|tr=кóе}},  {{t+|mk|кои|p|tr=kói}}
 * Maltese: {{t-|mt|li|xs=Maltese}}
 * Maori: {{t|mi|wai}}
-* Mongolian: {{t|mn|хэн|tr=khen|sc=Cyrl|xs=Mongolian}}
+* Mongolian: {{t|mn|хэн|tr=hen|sc=Cyrl|xs=Mongolian}}
 * Norwegian: {{t+|no|hvem}}
 * Ojibwe: [[awenen]]
 * Pangasinan: [[siopa]]
@@ -116,7 +116,9 @@
 * Russian: {{t+|ru|кто|tr=kto}}
 * Scots: {{tø|sco|wha}}
 * Scottish Gaelic: [[cò]]
-* Serbo-Croatian: {{t|sh|ко|sc=Cyrl|xs=Serbo-Croatian}},  {{t|sh|ko|xs=Serbo-Croatian}} {{qualifier|Bosnian, Serbian}},  {{t|sh|тко|sc=Cyrl|xs=Serbo-Croatian}},  {{t|sh|tko|xs=Serbo-Croatian}} {{qualifier|Croatian}}
+* Serbo-Croatian:  
+*: Cyrillic: {{t|sh|ко|sc=Cyrl|xs=Serbo-Croatian}} {{qualifier|Bosnian, Serbian}}, {{t|sh|тко|sc=Cyrl|xs=Serbo-Croatian}} {{qualifier|Croatian}} 
+*: Roman: {{t|sh|ko|xs=Serbo-Croatian}} {{qualifier|Bosnian, Serbian}}, {{t|sh|tko|xs=Serbo-Croatian}} {{qualifier|Croatian}}
 * Slovak: {{t-|sk|kto}}
 * Slovene: {{t+|sl|kdo}}
 * Spanish: {{t+|es|quién}}, {{t-|es|quiénes|p}}
@@ -127,9 +129,9 @@
 * Taos: [[p’ų́]]
 * Tatar: {{t|tt|кем|tr=kem|sc=Cyrl}}
 * Tausug: [[hisiyu]]
-* Telugu: [[ఎవరు]] (evaru)
+* Telugu: {{t|te|ఎవరు|tr=evaru}}
 * Thai: {{t|th|ใคร|tr=khrai}}
-* Tibetan: [[སུ་]] (su)
+* Tibetan: {{t|bo|སུ་|tr=su}}
 * Turkish: {{t+|tr|kim}}
 * Turkmen: {{t|tk|kim}}
 * Ugaritic: {{tø|uga|𐎎𐎊|tr=my|sc=Ugar|xs=Ugaritic}}
