@@ -49,7 +49,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Abkhaz: {{t|ab|ажәҩан|tr=ažwòan|sc=Cyrl}}
 * Afrikaans: {{t|af|lug}}
 * Aguaruna: {{tø|agr|nayaim}}
-* Ainu: [[ニシ|ニ<span style="font-size:70%;">シ</span>]] (nis)
+* Ainu: {{t|ain|ニㇱ|tr=nis}}
 * Albanian: {{t|sq|qiell|m}}
 * Amharic: {{t|am|ሰማይ|m|tr=sämay|sc=Ethi}}
 * Arabic: {{t|ar|سماء|tr=sámāʾ|m|f|sc=Arab}}, {{Arab|[[سماوات|سَمَاوَات]]}} (samawāt) {{p}}
@@ -59,6 +59,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 *: Hebrew: [[שמיא]] (šmayā’) {{c}}
 * Armenian: {{t|hy|երկինք|tr=erkink’|sc=Armn}}
 * Aromanian: {{tø|rup|tser}}
+* Asturian: {{t|ast|cielu|m}}
 * Avestan: (asa nemänah) {{rfscript|Avst}}
 * Azeri: {{t|az|göy}}, {{t|az|səma}}
 * Baluchi: {{tø|bal|آزمان|tr=ázmán}}, {{tø|bal|آسمان|tr=ásmán}}
@@ -69,12 +70,12 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Bengali: {{t|bn|আকাশ|tr=akash|sc=Beng}}
 * Bulgarian: {{t+|bg|небе|n|tr=nebé}}
 * Burmese: {{t|my|ကောင်းကင်|tr=kaun: gin|sc=Mymr}}
-* Catalan: {{t|ca|cel}}
+* Catalan: {{t|ca|cel|m}}
 * Central Atlas Tamazight: {{tø|tzm|ⵉⴳⵏⵏⴰ|m|tr=ignna}}
 * Chamicuro: {{tø|ccc|ikejta}}
 * Chechen: {{tø|ce|стигал|tr=stigal}}
 * Chinese:
-*: [[Mandarin]]: {{t|zh|天空|tr=tiānkōng|sc=Hani}}
+*: Mandarin: {{t|zh|天空|tr=tiānkōng|sc=Hani}}
 * Chuvash: {{tø|cv|тӳпе|tr=tüpe|sc=Cyrl}}
 * Coptic:
 *: Bohairic: {{tø|cop|ⲫⲉ|f|tr=fe}}
@@ -97,7 +98,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Greek: {{t+|el|ουρανός|m|tr=ouranós}}
 * Gujarati: {{t|gu|આકાશ|tr=ākāś|sc=Gujr}}
 * Haitian Creole: {{tø|ht|syèl}}
-* Hawaiian: [[lani]]
+* Hawaiian: {{t|haw|lani}}
 * Hebrew: {{t|he|שמיים|tr=shamayím|f|sc=Hebr}}
 * Hiligaynon: {{tø|hil|ginhanan|xs=Hiligaynon}}
 * Hindi: {{t|hi|आसमान|m|tr=āsmān|sc=Deva}}, {{t|hi|आकाश|m|tr=ākāś|sc=Deva}}, {{t|hi|अम्बर|tr=ambar|sc=Deva}}, {{t|hi|गगन|tr=gagan|sc=Deva}}, {{t|hi|नभ|tr=nabh|sc=Deva}}
@@ -133,8 +134,8 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Navajo: {{tø|nv|yá}}
 * Nepali: {{t|ne|आकाश|tr=ākāś|sc=Deva}}
 * Norwegian: {{t+|no|himmel|m}}
-* Occitan: {{t|oc|cèl}}
-* Ojibwe: [[giizhig]], [[giizhigoon]] {{p}}
+* Occitan: {{t|oc|cèl|m}}
+* Ojibwe: {{t|oj|giizhig}}, {{t|oj|giizhigoon|p}}
 * Okinawan: {{tø|ryu|すら|tr=sura}}
 * Old English: {{t-|ang|lyft|xs=Old English}}, {{t-|ang|rodor|xs=Old English}}
 * Old Persian: (asa nemänah) {{rfscript|Xpeo}}
@@ -153,7 +154,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Romanian: {{t+|ro|cer|n}}
 * Russian: {{t+|ru|небо|n|tr=nébo}}
 * Sanskrit: {{t|sa|दिव|tr=diva|sc=Deva}}, {{t|sa|आकाश|tr=ākāśa|sc=Deva}}
-* Scots: [[#Scots|lint]]
+* Scots: {{t|sco|lint}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|небо|alt=не̏бо|sc=Cyrl|n}}
 *: Roman: {{t|sh|nebo|alt=nȅbo|sc=Latn|n}}
@@ -162,7 +163,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Slovak: {{t|sk|nebo|n}}, {{t|sk|obloha|f}}
 * Slovene: {{t+|sl|nebo|n}}
 * Spanish: {{t-|es|firmamento|m}}, {{t+|es|cielo|m}}
-* Swahili: [[mbingu]] ''(nc 9/10)'', {{t+|sw|anga|xs=Swahili}}
+* Swahili: {{t|sw|mbingu}} ''(nc 9/10)'', {{t+|sw|anga|xs=Swahili}}
 * Swedish: {{t+|sv|himmel|c}}, {{t+|sv|sky|c}}
 * Tagalog: {{t|tl|kalangitan|xs=Tagalog}}, {{t+|tl|langit|xs=Tagalog}}
 * Tahitian: [[ra’i]]
@@ -188,10 +189,11 @@ Usually the word can be used correctly in either the singular or plural form, bu
 {{trans-bottom}}
 
 {{trans-top|specific view, condition}}
-* Arabic: {{t|ar|سماء|tr=sámāʾ|m|f|sc=Arab}}, {{Arab|[[سماوات|سَمَاوَات]]}} (samawāt) {{p}}* Aramaic:
+* Arabic: {{t|ar|سماء|tr=sámāʾ|m|f|sc=Arab}}, {{Arab|[[سماوات|سَمَاوَات]]}} (samawāt) {{p}}
+* Aramaic:
 *: Syriac: [[ܫܡܝܐ]] (šmayā’) {{c}}
 *: Hebrew: [[שמיא]] (šmayā’) {{c}}
-* Armenian: [[երկինք]] (erkink‘)
+* Armenian: {{t|hy|երկինք|tr=erkink‘}}
 * Bulgarian: {{t|bg|небе|n|tr=nebé|sc=Cyrl}}
 * Danish: {{t-|da|himmel}}
 * Dutch: {{t+|nl|hemel|m}}, {{t-|nl|firmament|n}}
@@ -199,26 +201,26 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Finnish: {{t+|fi|taivas}}
 * French: {{t+|fr|ciel|m}}
 * German: {{t+|de|Luft|f}}, {{t+|de|Himmel|m}}
-* Hebrew: [[שמיים]] (šamayím) {{f}}
-* Hindi: [[आसमान]] (āsmān) {{m}}, [[आकाश]] (ākāš) {{m}}, [[गगन]] (gagan)
+* Hebrew: {{t|he|שמיים|tr=šamayím|f}}
+* Hindi: {{t|hi|आसमान|tr=āsmān|m}}, {{t|hi|आकाश|tr=ākāš|m}}, {{t|hi|गगन|tr=gagan}}
 * Italian: {{t+|it|firmamento|m}}
 * Khmer: {{t|km|មេឃ|tr=meek|sc=Khmr}}
-* Korean: [[날씨]] (nalssi)
+* Korean: {{t|ko|날씨|tr=nalssi}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[ئاسمان]]}}
+*: Sorani: {{t|ku|ئاسمان}}
 * Latgalian: {{tø|ltg|dabasi}}
 * Latvian: {{t+|lv|debesis|f|p|xs=Latvian}}
 {{trans-mid}}
 * Lithuanian: {{t+|lt|dangus|m|xs=Lithuanian}}
 * Norwegian: {{t+|no|himmel|m}}
-* Ojibwe: [[giizhig]], [[giizhigoon]] {{p}}
+* Ojibwe: {{t|oj|giizhig}}, {{t|oj|giizhigoon|p}}
 * Old English: {{t-|ang|lyft|xs=Old English}}
 * Old Prussian: [[dāngs]] {{m}}
 * Persian: {{t+|fa|آسمان|xs=Persian}}
 * Polish: {{t+|pl|niebo|n}}
 * Portuguese: {{t+|pt|céu|m}}
 * Russian: {{t+|ru|небо|n|tr=nébo}}
-* Scots: [[#Scots|sky]]
+* Scots: {{t|sco|sky}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|небо|alt=не̏бо|sc=Cyrl|n}}
 *: Roman: {{t|sh|nebo|alt=nȅbo|sc=Latn|n}}
@@ -227,18 +229,18 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Swahili: {{t+|sw|anga|xs=Swahili}}
 * Swedish: {{t+|sv|himmel|c}}
 * Urdu: {{t+|ur|آسمان|m|tr=āsmān|xs=Urdu}}, {{t+|ur|آکاش|m|tr=ākāš|xs=Urdu}}
-* Vietnamese: [[trời]], [[thời tiết]]<!-- not trời tiết -->
+* Vietnamese: {{t|vi|trời}}, {{t|vi|thời tiết}}<!-- not trời tiết -->
 {{trans-bottom}}
 
 {{trans-top|heaven}}
 * Albanian: {{t|sq|qiell|m}}
 * Arabic: {{t-|ar|جنة|f|tr=jánna}}
 * Aramaic:
+*: Hebrew: [[שמיא]] (šmayā’) {{c}}
 *: Syriac: [[ܫܡܝܐ]] (šmayā’) {{c}}
-* Armenian: [[երկինք]] (erkink‘)
-* Bosnian: {{t-|bs|nebesa|n|p}}
+* Armenian: {{t|hy|երկինք|tr=erkink‘}}
+* Asturian: {{t|ast|cielu|m}}
 * Bulgarian: {{t|bg|небеса|p|tr=nebesá|sc=Cyrl}}
-* Croatian: {{t+|hr|nebo|n}}
 * Czech: {{t|cs|nebesa|n|p}}
 * Danish: {{t-|da|himmel}}
 * Dutch: {{t+|nl|hemel|m}}
@@ -247,15 +249,14 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * French: {{t+|fr|ciel|m}}
 * German: {{t+|de|Luft|f}}, {{t+|de|Himmel|m}}
 * Haitian Creole: {{tø|ht|syèl}}
-*: Hebrew: [[שמיא]] (šmayā’) {{c}}
-* Hebrew: [[שמיים]] (šamayím) {{f}}
+* Hebrew: {{t|he|שמיים|tr=šamayím|f}}
 * Hiligaynon: {{tø|hil|ginhanan|xs=Hiligaynon}}
-* Hindi: [[आसमान]] (āsmān) {{m}}, [[आकाश]] (ākāš) {{m}}, [[गगन]] (gagan), {{t|hi|देवलोक|sc=Deva}}, {{t|hi|स्वर्ग|sc=Deva}}, {{t|hi|स्वर्ग|sc=Deva}}
+* Hindi: {{t|hi|आसमान|tr=āsmān|m}}, {{t|hi|आकाश|tr=ākāš|m}}, {{t|hi|गगन|tr=gagan}}, {{t|hi|देवलोक|sc=Deva}}, {{t|hi|स्वर्ग|sc=Deva}}, {{t|hi|स्वर्ग|sc=Deva}}
 * Icelandic: {{t+|is|himinn|m}}
 * Italian: {{t+|it|cielo|m}}, {{t+|it|paradiso|m}}
-* Japanese: [[天]] ([[てん]], ten)
+* Japanese: {{t|ja|天|tr=てん, ten}}
 * Khmer: {{t|km|មេឃ|tr=meek|sc=Khmr}}
-* Korean: [[하늘나라]] (haneulnara), [[천국]] (天國, cheonguk)
+* Korean: {{t|ko|하늘나라|tr=haneulnara}}, {{t|ko|천국|tr=cheonguk}} ({{t|ko|天國}})
 * Kurdish:
 *: Sorani: {{t+|ku|به‌هه‌شت|sc=ku-Arab}}
 {{trans-mid}}
@@ -272,9 +273,9 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Rapa Nui: {{tø|rap|rangi}}
 * Romanian: {{t|ro|cer}}
 * Russian: {{t-|ru|небеса|p|tr=nebesá}}, {{t+|ru|небо|n|tr=nébo}}
-* Serbian:
-*: Cyrillic: [[небеса#Serbian|небеса]] {{n|p}}
-*: Roman: [[nebesa#Serbian|nebesa]] {{n|p}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|небеса|n|p}}, {{t|sh|небо|n}}
+*: Roman: {{t|sh|nebesa|n|p}}, {{t|sh|nebo|n}}
 * Sicilian: {{t+|scn|celu|m|xs=Sicilian}}, {{t+|scn|celi|m|p|xs=Sicilian}}
 * Slovene: {{t+|sl|nebesa|n|p}}
 * Spanish: {{t-|es|cielos|m}}
@@ -422,7 +423,7 @@ From {{etyl|non|sco}} {{term|ský|lang=non}}.
 ===Noun===
 {{sco-noun|skies}}
 
-# [[#English|sky]]
+# {{l|en|sky}}
 #: ''It's a fair braw '''sky''' we'v got the nicht.'' It's quite a beautiful sky we've got tonight.
 # [[daylight]] (especially at dawn)
 #: ''A wis up afore the sky.'' I was up before sunrise.
@@ -458,7 +459,7 @@ Cf. English {{term|sky|lang=en}}.
 '''sky''' {{c}} ({{p}} [[skyar]], ''def sing'' [[skyn]], ''def pl'' [[skyarna]])
 
 # {{countable|lang=sv}} [[heaven]]
-# {{countable|lang=sv}} [[sky#English|sky]]
+# {{countable|lang=sv}} {{l|en|sky}}
 # {{countable|lang=sv}} [[cloud]]
 
 ===Etymology 2===
