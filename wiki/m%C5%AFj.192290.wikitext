@@ -9,71 +9,91 @@
 # {{possessive}} [[my]], [[mine]]
 
 ===Declension===
-{| border="1" cellpadding="4" cellspacing="0"
-!
-! style="background-color: #EFEFFF" align="center"|[[masculine|masc. sg.]]
-! style="background-color: #EFEFFF" align="center"|[[feminine|fem. sg.]]
-! style="background-color: #EFEFFF" align="center"|[[neuter|neut. sg.]]
-! style="background-color: #EFEFFF" align="center"|[[plural|masc. pl.]]
-! style="background-color: #EFEFFF" align="center"|[[plural|fem. pl.]]
-! style="background-color: #EFEFFF" align="center"|[[plural|neut. pl.]]
+
+
+<div class="NavFrame" style="clear:both; width:50em">
+<div class="NavHead" align=center>declension of {{PAGENAME}}</div>
+<div class="NavContent">
+{| style="width:50em; background:#FFFFFF;" class="prettytable inflection-table"
 |-
-! style="background-color: #FFFFE0" align="left"|[[nominative case|nominative]]
-| align="center"|můj
-| align="center"|[[má#Czech|má]], [[moje#Czech|moje]]
-| align="center"|[[mé#Czech|mé]], [[moje#Czech|moje]]
-| align="center"|[[mí#Czech|mí]], [[moji#Czech|moji]]
-| align="center"|[[mé#Czech|mé]], [[moje#Czech|moje]]
-| align="center"|[[mé#Czech|mé]], [[moje#Czech|moje]]
+!style="background:#DEDEDE" colspan=5|singular
 |-
-! style="background-color: #FFFFE0" align="left"|[[genitive case|genitive]]
-| align="center"|mého
-| align="center"|mé, mojí
-| align="center"|mého
-| align="center"|mých
-| align="center"|mých
-| align="center"|mých
+!&nbsp;
+!masculine animate
+!masculine inanimate
+!feminine
+!neuter
 |-
-! style="background-color: #FFFFE0" align="left"|[[dative case|dative]]
-| align="center"|mému
-| align="center"|mé, mojí
-| align="center"|mému
-| align="center"|mým
-| align="center"|mým
-| align="center"|mým
+!nominative
+|colspan=2 align=center|mý
+|[[má#Czech|má]]
+|[[mé#Czech|mé]]
 |-
-! style="background-color: #FFFFE0" align="left"|[[accusative case|accusative]]
-| align="center"|mého, můj
-| align="center"|mé, mojí
-| align="center"|mé, moje
-| align="center"|mé, moje
-| align="center"|mé, moje
-| align="center"|má, moje
+!genitive
+|colspan=2 align=center|[[mého#Czech|mého]]
+|[[mé#Czech|mé]]
+|[[mého#Czech|mého]]
 |-
-! style="background-color: #FFFFE0" align="left"|[[vocative case|vocative]]
-| align="center"|můj
-| align="center"|má, moje
-| align="center"|mé, moje
-| align="center"|moji, moje
-| align="center"|mé, moje
-| align="center"|má, moje
+!dative
+|colspan=2 align=center|[[mému#Czech|mému]]
+|[[mé#Czech|mé]]
+|[[mému#Czech|mému]]
 |-
-! style="background-color: #FFFFE0" align="left"|[[locative case|locative]]
-| align="center"|mém
-| align="center"|mé, mojí
-| align="center"|mém
-| align="center"|mých
-| align="center"|mých
-| align="center"|mých
+!accusative
+|[[mého#Czech|mého]]
+|mý
+|[[mou#Czech|mou]]
+|[[mé#Czech|mé]]
 |-
-! style="background-color: #FFFFE0" align="left"|[[instrumental case|instrumental]]
-| align="center"|mým
-| align="center"|mou, mojí
-| align="center"|mým
-| align="center"|mými
-| align="center"|mými
-| align="center"|mými
-|}
+!vocative
+|colspan=2 align=center|mý
+|[[má#Czech|má]]
+|[[mé#Czech|mé]]
+|-
+!locative
+|colspan=2 align=center|[[mém#Czech|mém]]
+|[[mé#Czech|mé]]
+|[[mém#Czech|mém]]
+|-
+!instrumental
+|colspan=2 align=center|[[mým#Czech|mým]]
+|[[mou#Czech|mou]]
+|[[mým#Czech|mým]]
+|-
+!style="background:#DEDEDE" colspan=5|plural
+|-
+!&nbsp;
+!masculine animate
+!masculine inanimate
+!feminine
+!neuter
+|-
+!nominative
+|{{#ifeq:{{{2}}}|ma|[[{{{3}}}#Czech|{{{3}}}]]|[[mí#Czech|mí]]}}
+|colspan=2 align=center|[[mé#Czech|mé]]
+|[[má#Czech|má]]
+|-
+!genitive
+|colspan=4 align=center|[[mých#Czech|mých]]
+|-
+!dative
+|colspan=4 align=center|[[mým#Czech|mým]]
+|-
+!accusative
+|colspan=3 align=center|[[mé#Czech|mé]]
+|[[má#Czech|má]]
+|-
+!vocative
+|{{#ifeq:{{{2}}}|ma|[[{{{3}}}#Czech|{{{3}}}]]|[[mí#Czech|mí]]}}
+|colspan=2 align=center|[[mé#Czech|mé]]
+|[[má#Czech|má]]
+|-
+!locative
+|colspan=4 align=center|[[mých#Czech|mých]]
+|-
+!instrumental
+|colspan=4 align=center|[[mými#Czech|mými]], (''colloquial'') [[mýma#Czech|mýma]]
+|}</div></div>
 
 ===See also===
 *[[já#Czech|já]]
