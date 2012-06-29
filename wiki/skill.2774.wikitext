@@ -34,7 +34,8 @@ From {{etyl|enm}} {{term|skill|lang=enm}}, {{term|skille|lang=enm}} (also {{term
 # {{rfv-sense}} {{context|Call Management System}} A term referring to the identification, tagging, and distributing of calls via extensions to various individuals (e.g. agents, call-handlers, etc.) skilled in processing such calls.
 #*'''2002''', Skills based routing method and system for call center:
 #*: Agents can be available to take calls for several '''skills''' at the same time. For example, an agent who speaks both English and Spanish can be available simultaneously to take a call requiring either language.
-
+#* '''2004''' CMS Skill report vs VDN report - ASA 
+#*:The VDN is the usually the first entry point for a call into the Avaya switch. Each VDN has a call vector, which has a series of steps that tells the call what to do. If the first step in the call vector is the "queue to '''skill''' ###" step, the ASA would be the same. But if the "queue to '''skill''' ###" step is further down in the call vector after announcements, or prompts, etc, the ASA will be different. The ASA does not start for the split/'''skill''' until the call reaches the "queue to skill ###" step in the call vector.
 =====Synonyms=====
 * [[ability]]
 * [[talent]]
