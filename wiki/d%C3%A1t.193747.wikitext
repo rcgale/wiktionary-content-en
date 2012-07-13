@@ -15,7 +15,110 @@ From {{proto|Slavic|dati|lang=cs}}, from {{proto|Indo-European|deh₃-|to give|l
 # {{cs-reflexive|i}} to [[have]] {{gloss|partake of a particular substance}}
 
 ====Conjugation====
-{{cs-conj-at|d}}
+<div class="NavFrame">
+<div class="NavHead" align=left>&nbsp; &nbsp;[[w:en:Czech verbs|<span style="color: black">Conjugation table</span>]]</div>
+<div class="NavContent" align=center>
+{{cs-conj-imperfective
+|indicative present 1st person singular       =[[dám]]
+{{#if:|}}
+|indicative present 2nd person singular       =[[dáš]] {{#if:|}}
+|indicative present 3rd person singular       =[[dá]] {{#if:|}}
+|indicative present 1st person plural         =[[dáme]] {{#if:|}}
+|indicative present 2nd person plural         =[[dáte]] {{#if:|}}
+|indicative present 3rd person plural         =[[dají]]
+{{#if:|}}
+|indicative past M 1st person singular  =dal jsem {{#if:|}}
+|indicative past M 2nd person singular  =dal {{#if:|s|jsi}}
+|indicative past M 3rd person singular  =dal {{#if:|}}
+|indicative past M 1st person plural    =dali jsme {{#if:|}}
+|indicative past M 2nd person plural    =dali jste {{#if:|}}
+|indicative past M 3rd person plural animate   =dali {{#if:|}}
+|indicative past M 3rd person plural inanimate   =daly {{#if:|}}
+|indicative past F 1st person singular  =dala jsem {{#if:|}}
+|indicative past F 2nd person singular  =dala {{#if:|s|jsi}}
+|indicative past F 3rd person singular  =dala {{#if:|}}
+|indicative past F 1st person plural    =daly jsme {{#if:|}}
+|indicative past F 2nd person plural    =daly jste {{#if:|}}
+|indicative past F 3rd person plural    =daly {{#if:|}}
+|indicative past N 1st person singular  =dalo jsem {{#if:|}}
+|indicative past N 2nd person singular  =dalo {{#if:|s|jsi}}
+|indicative past N 3rd person singular  =dalo {{#if:|}}
+|indicative past N 1st person plural    =dala jsme {{#if:|}}
+|indicative past N 2nd person plural    =dala jste {{#if:|}}
+|indicative past N 3rd person plural    =dala {{#if:|}}
+|indicative future 1st person singular         =budu {{#if:|}} dat
+|indicative future 2nd person singular         =budeš {{#if:|}} dat
+|indicative future 3rd person singular         =bude {{#if:|}} dat
+|indicative future 1st person plural           =budeme {{#if:|}} dat
+|indicative future 2nd person plural           =budete {{#if:|}} dat
+|indicative future 3rd person plural           =budou {{#if:|}} dat
+|imperative 2nd person singular               =[[dej]] {{#if:|}}
+|imperative 1st person plural                 =[[dejme]] {{#if:|}}
+|imperative 2nd person plural                 =[[dejte]] {{#if:|}}
+|conditional present M 1st person singular   =dal bych {{#if:|}}
+|conditional present M 2nd person singular   =dal {{#if:|by s|bys}}
+|conditional present M 3rd person singular   =dal by {{#if:|}}
+|conditional present M 1st person plural     =dali bychom {{#if:|}}
+|conditional present M 2nd person plural     =dali byste {{#if:|}}
+|conditional present M 3rd person plural animate     =dali by {{#if:|}}
+|conditional present M 3rd person plural inanimate     =daly by {{#if:|}}
+|conditional present F 1st person singular   =dala bych {{#if:|}}
+|conditional present F 2nd person singular   =dala {{#if:|by s|bys}}
+|conditional present F 3rd person singular   =dala by {{#if:|}}
+|conditional present F 1st person plural     =daly bychom {{#if:|}}
+|conditional present F 2nd person plural     =daly byste {{#if:|}}
+|conditional present F 3rd person plural     =daly by {{#if:|}}
+|conditional present N 1st person singular   =dalo bych {{#if:|}}
+|conditional present N 2nd person singular   =dalo {{#if:|by s|bys}}
+|conditional present N 3rd person singular   =dalo by {{#if:|}}
+|conditional present N 1st person plural     =dala bychom {{#if:|}}
+|conditional present N 2nd person plural     =dala byste {{#if:|}}
+|conditional present N 3rd person plural     =dala by {{#if:|}}
+|conditional past M 1st person singular=byl bych {{#if:|}} dal
+|conditional past M 2nd person singular=byl by{{#if:|&nbsp;s|s}} dal
+|conditional past M 3rd person singular=byl by {{#if:|}} dal
+|conditional past M 1st person plural  =byli bychom {{#if:|}} dali
+|conditional past M 2nd person plural  =byli byste {{#if:|}} dali
+|conditional past M 3rd person plural animate =byli by {{#if:|}} dali
+|conditional past M 3rd person plural inanimate =byly by {{#if:|}} daly
+|conditional past F 1st person singular=byla bych {{#if:|}} dala
+|conditional past F 2nd person singular=byla by{{#if:|&nbsp;s|s}} dala
+|conditional past F 3rd person singular=byla by {{#if:|}} dala
+|conditional past F 1st person plural  =byly bychom {{#if:|}} daly
+|conditional past F 2nd person plural  =byly byste {{#if:|}} daly
+|conditional past F 3rd person plural  =byly by {{#if:|}} daly
+|conditional past N 1st person singular=bylo bych {{#if:|}} dalo
+|conditional past N 2nd person singular=bylo by{{#if:|&nbsp;s|s}} dalo
+|conditional past N 3rd person singular=bylo by {{#if:|}} dalo
+|conditional past N 1st person plural  =byla bychom {{#if:|}} dala
+|conditional past N 2nd person plural  =byla byste {{#if:|}} dala
+|conditional past N 3rd person plural  =byla by {{#if:|}} dala
+|active participle M singular                 =[[dal]] {{#if:|}}
+|active participle M plural animate                  =[[dali]] {{#if:|}}
+|active participle M plural inanimate                  =[[daly]] {{#if:|}}
+|active participle F singular                 =[[dala]] {{#if:|}}
+|active participle F plural                   =[[daly]] {{#if:|}}
+|active participle N singular                 =[[dalo]] {{#if:|}}
+|active participle N plural                   =[[dala]] {{#if:|}}
+|passive participle M singular                ={{#if:|—|[[dán]]}}
+|passive participle M plural animate                 ={{#if:|—|[[dáni]]}}
+|passive participle M plural inanimate                 ={{#if:|—|[[dány]]}}
+|passive participle F singular                ={{#if:|—|[[dána]]}}
+|passive participle F plural                  ={{#if:|—|[[dány]]}}
+|passive participle N singular                ={{#if:|—|[[dáno]]}}
+|passive participle N plural                  ={{#if:|—|[[dána]]}}
+|stem                                 =dat {{#if:|}}
+|verbal adjective                            =[[dající]] {{#if:|}}
+|gerund                                 ={{#if:|—|[[dání]]}}
+|transgressive present singular M           =[[daje]] {{#if:|}}
+|transgressive present singular F           =[[dajíc]] {{#if:|}}
+|transgressive present plural               =[[dajíce]] {{#if:|}}
+|transgressive past singular M        ={{#if:|-|[[dav]] {{#if:|}}|—}}
+|transgressive past singular F        ={{#if:|-|[[davši]] {{#if:|}}|—}}
+|transgressive past plural            ={{#if:|-|[[davše]] {{#if:|}}|—}}
+}}
+</div>
+</div>
 
 ====Antonyms====
 * [[vzít]]
