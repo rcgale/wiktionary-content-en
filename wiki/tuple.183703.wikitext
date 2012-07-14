@@ -18,6 +18,7 @@ From the ending of the words ''[[quintuple]]'', ''[[sextuple]]''; from Latin ''[
 # {{computing}} A [[set]] of comma-separated [[value]]s passed to a program or operating system as a [[parameter]] to a [[function]] [[call]].
 # {{computing}} In some programming languages, a [[data type]] which is similar but distinct from the [[list]] data type, whose instances are characterized by having a rather fixed [[arity]], and the elements of which instances can differ from each other by data type. (''Note'': this definition may overlap with the previous one.)
 #: ''Both Python and Haskell have a [[tuple]] data type as well as a list data type.'' 
+#: ''Unlike lists, [[tuple]]s are not formed by consing.''
 
 ====Synonyms====
 * {{sense|finite sequence of terms}} [[n-tuple|''n''-tuple]] (''when the sequence contains'' n ''terms''), [[ordered pair]] (''when the sequence contains exactly two terms''), [[triple]] ''or'' [[triplet]] (''when the sequence contains exactly three terms'')
