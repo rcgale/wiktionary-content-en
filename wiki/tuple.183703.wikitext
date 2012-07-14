@@ -16,6 +16,8 @@ From the ending of the words ''[[quintuple]]'', ''[[sextuple]]''; from Latin ''[
 #: ''If commutativity were added to a [[tuple]], it would turn into a multiset or "bag".  For example, words (of some alphabetic language) can be considered to be [[tuple]]s of letters.  If the ordering requirement on those letters were lifted, then the word would become a multiset of letters equivalent to those of its anagrams.''
 # {{computing}} A single [[row]] in a [[relational database]].
 # {{computing}} A [[set]] of comma-separated [[value]]s passed to a program or operating system as a [[parameter]] to a [[function]] [[call]].
+# {{computing}} In some programming languages, a [[data type]] which is similar but distinct from the [[list]] data type, having a rather fixed [[arity]], and whose elements can differ from each other by data type. (''Note'': this definition may overlap with the previous one.)
+#: ''Both Python and Haskell have a [[tuple]] data type as well as a list data type.'' 
 
 ====Synonyms====
 * {{sense|finite sequence of terms}} [[n-tuple|''n''-tuple]] (''when the sequence contains'' n ''terms''), [[ordered pair]] (''when the sequence contains exactly two terms''), [[triple]] ''or'' [[triplet]] (''when the sequence contains exactly three terms'')
