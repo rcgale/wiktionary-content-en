@@ -23,6 +23,14 @@ From {{etyl|enm}}, from {{etyl|xno}}, from {{etyl|fro}}, from {{etyl|la}} {{term
 #: ''Parameters are like labeled fillable blanks used to define a function whereas '''arguments''' are passed to a function when calling it, filling in those blanks.''
 # <span id="N7">{{programming}} A [[parameter]]</span> in a function definition; an [[actual parameter]], as opposed to a [[formal parameter]].
 # {{linguistics}} Any of the [[phrase]]s that bears a [[syntactic]] connection to the [[verb]] of a [[clause]].
+#* {{quote-web
+    | date = 2011-07-20
+    | author = Edwin Mares
+    | title = Propositional Functions
+    | site = The Stanford Encyclopedia of Philosophy
+    | url = http://plato.stanford.edu/archives/fall2011/entries/propositional-function
+    | accessdate = 2012-07-15 }}
+#*: In ‘The Critic of Arguments’ (1892), Peirce adopts a notion that is even closer to that of a propositional function. There he develops the concept of the ‘rhema’. He says the rhema is like a relative term, but it is not a term. It contains a copula, that is, when joined to the correct number of [[argument]]s it produces an assertion. For example, ‘__ is bought by __ from __ for __’ is a four-place rhema. Applying it to four objects ''a'', ''b'', ''c'', and ''d'' produces the assertion that ''a'' is bought by ''b'' from ''c'' for ''d'' (ibid. 420).
 
 ====Usage notes====
 * {{sense|formal parameter in a function definition}} Some authors regard use of "argument" to mean "formal parameter" to be imprecise, preferring that ''argument'' refers only to the value that is used to instantiate the ''parameter'' at runtime, while ''parameter'' refers only to the name in the function definition that will be instantiated.
