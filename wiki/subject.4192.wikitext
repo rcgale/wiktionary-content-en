@@ -73,7 +73,7 @@ From {{etyl|enm}} {{term|subget}}, from {{etyl|fro}} {{term|suget}}, from {{etyl
 * Swedish: {{t+|sv|subjekt|n}}
 * Telugu: {{t|te|కర్త|tr=karta}}
 * Turkish: {{t+|tr|özne}}
-* Volapük: {{t|vo|subyet}}
+* Volapük: {{t+|vo|subyet}}
 {{trans-bottom}}
 
 {{trans-top|main topic}}
@@ -84,7 +84,7 @@ From {{etyl|enm}} {{term|subget}}, from {{etyl|fro}} {{term|suget}}, from {{etyl
 * Estonian: {{t+|et|aine}}, {{t-|et|teema}}
 * Finnish: {{t+|fi|aihe}}, {{t-|fi|teema}}
 * French: {{t+|fr|sujet|m}}
-* German: {{t+|de|Thema|n}}
+* German: {{t+|de|Thema|n}}, {{t+|de|Gegenstand|m}}, {{t+|de|Sache|f}}, {{t+|de|Sujet|n}}, {{qualifier|email}} {{t+|de|Betreff|m}}
 * Greek: {{t+|el|θέμα|n|tr=théma}}, {{t|el|προκείμενο|n|tr=prokeímeno}}
 * Hebrew: {{t+|he|נושא|m|tr=noseh}}
 * Hungarian: {{t|hu|tárgy}}, {{t|hu|téma}}
@@ -112,7 +112,7 @@ From {{etyl|enm}} {{term|subget}}, from {{etyl|fro}} {{term|suget}}, from {{etyl
 * Swedish: {{t|sv|ämne}}, {{t|sv|föremål}}
 * Telugu: [[విషయము]] (vishayamu)
 * Turkish: {{t+|tr|konu}}
-* Volapük: {{t|vo|yegäd}}
+* Volapük: {{t-|vo|yegäd}}
 {{trans-bottom}}
 
 {{trans-top|particular area of study}}
@@ -123,7 +123,7 @@ From {{etyl|enm}} {{term|subget}}, from {{etyl|fro}} {{term|suget}}, from {{etyl
 * Estonian: {{t+|et|aine}}
 * Finnish: [[ala]], [[aihealue]], {{t|fi|aine}}
 * French: {{t+|fr|matière|f}}, {{t+|fr|discipline|f}}
-* German: {{t+|de|Fach|n}}
+* German: {{t+|de|Fach|n}}, {{t+|de|Schulfach|n}}, {{t+|de|Unterrichtsfach|n}}, {{t+|de|Studienfach|n}}, {{t+|de|Lehrfach|n}}
 * Greek: {{t|el|αντικείμενο|n|tr=antikeímeno}}
 * Hungarian: {{t|hu|tárgy}}
 * Icelandic: {{t+|is|fag|n}}, {{t|is|námsgrein|f}}, {{t+|is|grein|f}}
@@ -157,7 +157,7 @@ From {{etyl|enm}} {{term|subget}}, from {{etyl|fro}} {{term|suget}}, from {{etyl
 * Estonian: {{t-|et|alam}}
 * Finnish: {{t-|fi|alamainen}}
 * French: {{t+|fr|sujet|m}}
-* German: {{t+|de|Untertan|m}}, {{t|de|Untertanin|f}}
+* German: {{t+|de|Untertan|m}}, {{t-|de|Untertanin|f}}
 * Greek: {{t+|el|υποτελής|m|f|tr=ypotelís}},  {{t|el|υπεξούσιος|m|tr=ypeksoúsios}}
 * Hebrew: {{t|he|נתין|m|tr=natin}}
 {{trans-mid}}
@@ -172,17 +172,18 @@ From {{etyl|enm}} {{term|subget}}, from {{etyl|fro}} {{term|suget}}, from {{etyl
 * Spanish: {{t+|es|súbdito|m}}
 * Swahili: {{t+|sw|somo|xs=Swahili}}
 * Urdu: {{t|ur|ﺭﻋﺎﻳﺎ|sc=ur-Arab}}
-* Volapük: {{t|vo|reigäb}}, {{qualifier|♂}} {{t|vo|hireigäb}}, {{qualifier|♀}} {{t|vo|jireigäb}}
+* Volapük: {{qualifier|♂♀}} {{t+|vo|reigäb}}, {{qualifier|♂}} {{t-|vo|hireigäb}}, {{qualifier|♀}} {{t-|vo|jireigäb}}
 {{trans-bottom}}
 
 {{trans-top|person ruled over by another, especially a monarch or state authority}}
 * Finnish: {{t-|fi|alamainen}}
+* German: {{t+|de|Untertan|m}}, {{t-|de|Untertanin|f}}
 * Greek: {{t+|el|υποτελής|m|f|tr=ypotelís}}
 * Hungarian: {{t|hu|alattvaló}}
 {{trans-mid}}
 * Italian: {{t+|it|assoggettato}}, {{t-|it|sottomesso}}
 * Polish: {{t|pl|poddany|m}}
-* Volapük: {{t|vo|reigäb}}
+* Volapük: {{qualifier|♂♀}} {{t+|vo|reigäb}}, {{qualifier|♂}} {{t-|vo|hireigäb}}, {{qualifier|♀}} {{t-|vo|jireigäb}}
 {{trans-bottom}}
 
 {{checktrans-top}}
