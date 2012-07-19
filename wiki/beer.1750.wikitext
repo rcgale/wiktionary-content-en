@@ -94,7 +94,7 @@ From {{etyl|enm}} {{term|bere|lang=enm}}, from {{etyl|ang}} {{term|beor|bēor|be
 * Danish: {{t+|da|øl|c}}
 * Dutch: {{t+|nl|bier|n}}
 * Esperanto: {{t-|eo|biero|xs=Esperanto}}
-* Estonian: {{t-|et|õlu}},  {{t|et|kesvamärjuke}}
+* Estonian: {{t-|et|õlu}}, {{t|et|kesvamärjuke}}
 * Faroese: {{t|fo|øl|n}}
 * Filipino: [[serbesa]]
 * Finnish: {{t+|fi|olut}}, {{t+|fi|kalja}}, {{t+|fi|sahti}}, {{t-|fi|mallasjuoma}}
@@ -361,7 +361,7 @@ From {{etyl|odt|nl}} {{recons|ber|bēr|lang=odt}}, from {{proto|Germanic|baizaz|
 ====Noun====
 {{nl-noun|m|beren|beertje}}
 
-# [[manure]] (''excrement gathered in a pit to fertilize'')
+# [[manure]] {{qualifier|excrement gathered in a pit to fertilize}}
 
 ====Verb====
 {{head|nl|verb form}}
@@ -399,7 +399,7 @@ Related to English [[beer#English|beer]].
 # any alcoholic drink
 
 ====Inflection====
-{| class="wikitable" style="text-align: center;"
+{|class="wikitable" style="text-align: center;"
 |+ '''Inflection'''
 !
 ! Root singular
@@ -408,38 +408,54 @@ Related to English [[beer#English|beer]].
 ! Diminutive plural
 |-
 ! [[nominative|Nominative]]
-| beer
-| bere
-| beerke
-| beerkes
+|beer
+|bere
+|beerke
+|beerkes
 |-
 ! [[genitive|Genitive]]
-| beers
-| bere
-| beerkes
-| beerkes
+|beers
+|bere
+|beerkes
+|beerkes
 |-
 ! [[locative|Locative]]
-| baer
-| baere
-| baerke
-| baerkes
+|baer
+|baere
+|baerke
+|baerkes
 |-
 ! [[dative|Dative]]¹
-| baerem
-| baerer
-| baeremske
-| baeremskes
+|baerem
+|baerer
+|baeremske
+|baeremskes
 |-
 ! [[accusative|Accusative]]¹
-| beer
-| berer
-| beerke
-| beerkes
+|beer
+|berer
+|beerke
+|beerkes
 |}
 * Dative and accusative are nowadays obsolete, use nominative instead.
 
 [[Category:li:Alcoholic beverages]]
+
+----
+
+==Old French==
+
+===Verb===
+{{head|fro|verb}}
+
+# {{rfdef|lang=fro}}
+
+====Conjugation====
+{{fro-conj-er-e|be}}
+
+====Descendants====
+* English: {{l|en|bay}} {{qualifier|borrowed}}
+* French: {{l|fr|bayer}}, {{l|fr|béer}}
 
 [[af:beer]]
 [[ang:beer]]
