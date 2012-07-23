@@ -2,22 +2,28 @@
 ==Faroese==
 
 ===Pronunciation===
-* {{IPA|[ɔar]|lang=fo}}
+* {{IPA|[ɔaːɹ]|lang=fo}}
 
-===Noun===
+===Etymology 1===
+From {{etyl|non|fo}} {{term|ár||year|lang=non}}, from {{proto|Germanic|jēran|lang=fo}}. Cognates include: Dutch and Afrikaans {{term|jaar|lang=nl}}, English {{term|year|lang=en}}, German {{term|Jahr|lang=de}}, Danish, Norwegian and Swedish {{term|år|lang=da}}.<ref name="torp"/>
+
+====Noun====
 {{head|fo|noun|g=n}} ([[árs|ár-s]], ár-)
 
 # [[year]]
 
-====Declension====
+=====Declension=====
 {{fo-decl-noun-n3|ár}}
 
-===Noun===
+===Etymology 2===
+From {{etyl|non|fo}} {{term|ár|lang=non}}, from {{proto|Germanic|airō|lang=fo}}. Cognates include: Old English {{term|ar|ār|oar|lang=ang}} (English {{term|oar|lang=en}}).<ref name="torp"/>
+
+====Noun====
 {{head|fo|noun|g=f}} ([[árar|ár-ar]], [[árar|ár-ar]])
 
 # [[oar]]
 
-====Declension====
+=====Declension=====
 {{fo-decl-noun-f6|ár}}
 
 [[Category:fo:Nautical]]
@@ -146,6 +152,38 @@ From {{etyl|sga|ga|sort=ar}} {{term|ar|lang=sga}}, from {{proto|Celtic|anserom|l
 # [[our]]
 #: {{usex|'''ár''' dteach|t=our house|lang=ga|inline=1}}
 #: {{usex|'''Ár''' nAthair|t=[[Our Father]]|lang=ga|inline=1}}
+
+----
+
+==Old Norse==
+
+===Etymology 1===
+From {{proto|Germanic|jēran|lang=non}}. Cognates include: Dutch and Afrikaans {{term|jaar|lang=nl}}, English {{term|year|lang=en}}, German {{term|Jahr|lang=de}}, Danish, Norwegian and Swedish {{term|år|lang=da}}.<ref name="torp"/>
+
+====Noun====
+{{non-noun|g=n|genitive=árs|plural=ár}}
+
+# [[year]]
+
+=====Declension=====
+{{non-decl-noun|ár|ár|ári|árs|árit|árit|árinu|ársins|ár|ár|árum|ára|árin|árin|árunum|áranna}}
+
+===Etymology 2===
+From {{proto|Germanic|airō|lang=non}}. Cognates include: Old English {{term|ar|ār|oar|lang=ang}} (English {{term|oar|lang=en}}).<ref name="torp"/>
+
+====Noun====
+{{non-noun|g=f|genitive=árar|plural=árar}}
+
+# [[oar]]
+
+=====Declension=====
+{{non-decl-noun|ár|ár|ár|árar|árin|árina|árinni|árarinnar|árar|árar|árum|ára|árarnar|árarnar|árunum|áranna}}
+
+[[Category:non:Nautical]]
+[[Category:non:Time]]
+
+==References==
+<references/>
 
 [[de:ár]]
 [[es:ár]]
