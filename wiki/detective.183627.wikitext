@@ -8,8 +8,8 @@
 ===Noun===
 {{en-noun}}
 
-# {{law enforcement}} a [[police]] [[officer]] who looks for [[evidence]] as part of solving a [[crime]]; an [[investigator]].
-# a person [[employed]] to find [[information]] not otherwise [[available]] to the [[public]].
+# {{law enforcement}} A [[police]] [[officer]] who looks for [[evidence]] as part of solving a [[crime]]; an [[investigator]].
+# A person [[employed]] to find [[information]] not otherwise [[available]] to the [[public]].
 
 ====Synonyms====
 * {{sense|law enforcement}} [[DT]] {{qualifier|abbreviation}}
@@ -43,23 +43,27 @@
 
 ====Translations====
 {{trans-top|police officer who looks for evidence}}
+* Asturian: {{t|ast|detective|m}}
 * Bulgarian: {{t-|bg|детектив|m|tr=detektív}}
+* Catalan: {{t|ca|detectiu|m}}
 * Chinese:
 *: Mandarin: {{t|zh|偵探|sc=Hani}}, {{t|zh|侦探|tr=zhēntàn|sc=Hani}}
 * Czech: {{t-|cs|detektiv|m}}
 * Dutch: {{t-|nl|rechercheur|m}}, {{t-|nl|speurder|m}}
 * French: {{t+|fr|détective|m}}
+* Galician: {{t|gl|detective|m}}
 * German: {{t|de|Ermittler|m}}
 * Greek: {{t|el|αστυνομικός ερευνητής}}, {{t+|el|ερευνητής}}
-* Hebrew: [[בלש]] (balash) {{m}}, [[בלשית]] (balashyt) {{f}}
+* Hebrew: {{t|he|בלש|tr=balash|m}}, {{t|he|בלשית|tr=balashyt|f}}
 {{trans-mid}}
-* Hungarian: {{t+|hu|nyomozó}},  {{t+|hu|detektív}}
-* Japanese: {{t-|ja|探偵|tr=たんてい, tantei}},  {{t+|ja|刑事|tr=けいじ, keiji}}
+* Hungarian: {{t+|hu|nyomozó}}, {{t+|hu|detektív}}
+* Japanese: {{t-|ja|探偵|tr=たんてい, tantei}}, {{t+|ja|刑事|tr=けいじ, keiji}}
 * Malay: {{t|ms|detektif}}
 * Persian: {{t|fa|کارآگاه|tr=kârâgâh|sc=fa-Arab}}
-* Polish: {{t|pl|oficer śledczy|m}}, [[detektyw]] {{m}} / {{f}}
-* Portuguese: {{t|pt|detetive|c}}
+* Polish: {{t|pl|oficer śledczy|m}}, {{t|pl|detektyw|m|f}}
+* Portuguese: {{t|pt|detective|m}} {{qualifier|Portugal}}, {{t|pt|detetive|m}} {{qualifier|Brazil}}
 * Russian: {{t+|ru|детектив|m|tr=dɛtɛktív, detektív}}, {{t|ru|сыщик|m|tr=sýščik}}, {{t|ru|оперативник|m|tr=opertívnik}}, {{t|ru|следователь|m|tr=slédovatelʹ|sc=Cyrl}}
+* Spanish: {{t|es|detective|m}}
 * Swedish: {{t|sv|kriminalpolis|c}}
 {{trans-bottom}}
 
@@ -67,18 +71,19 @@
 * Bulgarian: {{t|bg|разузнавач|m|tr=razuznavač}}
 * Catalan: {{t|ca|detectiu|m}}
 * Czech: {{t-|cs|detektiv|m}}
-* Dutch: {{l|nl|detective}} {{m}}, [[speurder]] {{m}}
+* Dutch: {{l|nl|detective|m}}, {{t|nl|speurder|m}}
 * Esperanto: {{t|eo|detektivo}}
 * Estonian: {{t|et|detektiiv}}
 * French: {{t+|fr|détective}}, {{t+|fr|enquêteur}}
+* Galician: {{t|gl|detective|m}}
 * German: {{t|de|Detektiv|m}}, {{t|de|Privatdetektiv|m}},  {{t|de|Privatermittler|m}}
 * Greek: {{t+|el|ερευνητής}}, {{t|el|ιδιωτικός ερευνητής}}
 {{trans-mid}}
-* Hebrew: [[בלש]] (balash) {{m}}, [[בלשית]] (balashyt) {{f}}
-* Hungarian: {{t|hu|magánnyomozó}},  {{t+|hu|detektív}}
+* Hebrew: {{t|he|בלש|tr=balash|m}}, {{t|he|בלשית|tr=balashyt|f}}
+* Hungarian: {{t|hu|magánnyomozó}}, {{t+|hu|detektív}}
 * Japanese: {{t-|ja|探偵|tr=たんてい, tantei}}
-* Maltese: [[spjun]] {{m}}, [[spjuna]] {{f}}
-* Polish: [[detektyw]] {{m}} / {{f}}
+* Maltese: {{t|mt|spjun|m}}, {{t|mt|spjuna|f}}
+* Polish: {{t|pl|detektyw|m|f}}
 * Portuguese: {{t|pt|detetive|c}}
 * Russian: {{t|ru|сыщик|m|tr=sýščik}}, {{t+|ru|детектив|m|tr=dɛtɛktív, detektív}}
 * Spanish: {{t+|es|detective|m}}
@@ -87,10 +92,46 @@
 
 ----
 
-==Spanish==
+==Asturian==
 
 ===Noun===
-{{es-noun|m}}
+{{ast-noun|mf}}
+
+# {{l|en|detective}}
+
+----
+
+==Galician==
+
+===Noun===
+{{gl-noun|m}}
+
+# {{l|en|detective}}
+
+----
+
+==Portugal==
+
+===Alternative forms===
+* {{l|pt|detetive}} {{qualifier|Brazil}}
+
+===Etymology===
+From {{etyl|en|pt}} {{term|detective|lang=en}}.
+
+===Noun===
+{{pt-noun|m}}
+
+# {{l|en|detective}}
+
+----
+
+==Spanish==
+
+===Etymology===
+From {{etyl|en|es}} {{term|detective|lang=en}}.
+
+===Noun===
+{{es-noun|mf}}
 
 # {{l|en|detective}}
 
