@@ -74,7 +74,7 @@
 * {{trreq|jv}}
 * Kannada: {{t|kn|ದೇಶದ|tr=dēśada|sc=Knda}}
 * Korean: {{t+|ko|나라|tr=nara|sc=Hang}}
-* Lao: {{t|lo|ປະເທດ|tr=patheet|sc=Laoo}}
+* Lao: {{t-|lo|ປະເທດ|tr=patheet|sc=Laoo|xs=Lao}}, {{t+|lo|ເມືອງ|tr=myang|sc=Laoo|xs=Lao}}
 * Latgalian: {{tø|ltg|zeme}}
 {{trans-mid}}
 * Latin: {{t+|la|terra|f}}
@@ -94,7 +94,7 @@
 * Romani: {{tø|rom|them|m}}
 * Romanian: {{t+|ro|țară|f}}
 * Romansch: {{t|rm|pajais|m|xs=Romansch}}
-* Russian: {{t+|ru|страна|f|tr=straná}}, {{t+|ru|страна|f|p|tr=strány|alt=страны}}, {{t|ru|край|m|tr=kraj|sc=Cyrl}}
+* Russian: {{t+|ru|страна|f|tr=straná}}, {{t|ru|край|m|tr=kraj|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|dùthaich|f}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|земља|f|sc=Cyrl}}
@@ -105,7 +105,7 @@
 * Swahili: [[U-]] (''noun prefix 11/14''), {{t|sw|nchi}}
 * Swedish: {{t+|sv|land}}
 * Tamil: {{t|ta|நாடு |tr=naadu|sc=Taml}}
-* Thai: {{t+|th|ประเทศ|tr=pràthèt}}
+* Thai: {{t+|th|ประเทศ|tr=pràthèt|sc=Thai}}, {{t|th|เมือง|tr=meuang|sc=Thai}}
 * Tok Pisin: {{t|tpi|kantri}}
 * Turkish: {{t+|tr|eyalet}}, {{t|tr|ülke}}
 * Ukrainian: {{t|uk|країна|f|tr=krajína|xs=Ukrainian}}
@@ -154,7 +154,7 @@
 * Interlingua: {{t-|ia|pais|xs=Interlingua}}
 * Italian: {{t+|it|paese|m}}, {{t|it|nazione|f}}, {{t|it|patria|f}}
 * Japanese: {{t+|ja|国|tr=[[くに]], kuní}}, {{t+|ja|国家|tr=[[こっか]], kokká}}
-* Kannada: [[ದೇಶ]], [[ರಾಷ್ಟ್ರ]], {{t|kn|ದೇಶ|tr=dēśa|sc=Knda}}, {{t|kn|ರಾಷ್ಟ್ರ|tr=rāṣṭra|sc=Knda}}
+* Kannada: {{t|kn|ದೇಶ|tr=deś|sc=Knda}}, {{t|kn|ರಾಷ್ಟ್ರ|tr=rāṣṭra|sc=Knda}}
 * Kazakh: {{t|kk|ел|tr=el|sc=Cyrl}}
 * Khmer: {{t|km|ស្រុក|tr=srok|sc=Khmr}}, {{t|km|ប្រទេស|tr=bprədtēh|sc=Khmr}}
 * Korean: {{t+|ko|나라|tr=nara|sc=Hang}}, {{t+|ko|국가|tr=gukga|sc=Hang}} ({{t|ko|國家}})
@@ -162,16 +162,16 @@
 *: Kurmanji: [[welat]]
 *: Sorani: {{t|ku|وڵات|tr=welat|sc=ku-Arab}}
 * Kyrgyz: {{t|ky|өлкө|tr=ölkö|sc=Cyrl}}
-* Lao: {{t+|lo|ເມືອງ|tr=myyang|sc=Laoo|xs=Lao}}, {{t-|lo|ປະເທດ|tr=patheet|sc=Laoo|xs=Lao}}
+* Lao: {{t-|lo|ປະເທດ|tr=patheet|sc=Laoo|xs=Lao}}, {{t+|lo|ເມືອງ|tr=myang|sc=Laoo|xs=Lao}}
 * Latin: {{t+|la|terra|f}}, {{t+|la|patria|f}}
 * Latvian: {{t+|lv|valsts|xs=Latvian}}, {{t+|lv|zeme|xs=Latvian}}
 * Lithuanian: {{t+|lt|valstybė|f|xs=Lithuanian}}, {{t|lt|šalis|f}}, {{t|lt|kraštas|m}}
 {{trans-mid}}
 * Low Saxon: [[land]] {{n}}
 * Luxembourgish: {{t|lb|Land|n}}, {{t|lb|Staat|m}}
-* Macedonian: {{t-|mk|држава|f|tr=d'ržava}}, {{t|mk|земја|f|tr=zémja}}, {{t|mk|нациja|f|tr=nácija}}
+* Macedonian: {{t-|mk|држава|f|tr=d'ržáva}}, {{t|mk|земја|f|tr=zémja}}, {{t|mk|нациja|f|tr=nácija}}
 * Malay: {{t+|ms|negara|xs=Malay}}
-* Malayalam: [[രാജ്യം]] (rājyam), {{t|ml|രാജ്യം|tr=rājyam|sc=Mlym}}
+* Malayalam: {{t|ml|രാജ്യം|tr=rājyam|sc=Mlym}}
 * Maltese: {{t-|mt|pajjiż|m|xs=Maltese}}
 * Manchu: {{tø|mnc|gurun}}
 * Mongolian: {{t|mn|улс|tr=uls|sc=Cyrl}}
@@ -184,7 +184,7 @@
 * Persian: {{t|fa|کشور|tr=kešvar|sc=fa-Arab}}, {{t|fa|میهن|tr=mihan|sc=fa-Arab}},  {{t|fa|سرزمین|tr=sarzamin|xs=Persian}}
 * Polish: {{t+|pl|kraj|m}}
 * Portuguese: {{t+|pt|país|m}}, {{t+|pt|nação|f}},  {{t+|pt|países|p}}
-* Punjabi: [[ਦੇਸ਼]] (dēś), [[ਮੂਲਕ]] (mūlak), [[ਰਾਸ਼ਟਰ]] (rāśṭar)
+* Punjabi: {{t|pa|ਦੇਸ਼|tr=deś|sc=Guru}}, {{t|pa|ਮੂਲਕ|tr=mūlak|sc=Guru}}, {{t|pa|ਰਾਸ਼ਟਰ|tr=rāśṭar|sc=Guru}}
 * Romani: {{tø|rom|them|m}}
 * Romanian: {{t+|ro|țară|f}},  {{t-|ro|națiune}}, {{t|ro|stat|n}}
 * Romansch: {{t|rm|pajais|m|xs=Romansch}}
@@ -207,7 +207,7 @@
 * Taos: [[pǫ̏’óna]]
 * Tatar: {{t|tt|ил|tr=il|sc=Cyrl}}
 * Telugu: {{t|te|దేశము|tr=deshamu}}
-* Thai: {{t|th|ประเทศ|tr=pràthèt|sc=Thai}}, {{t|th|เมือง|tr=meuang|sc=Thai}}
+* Thai: {{t+|th|ประเทศ|tr=pràthèt|sc=Thai}}, {{t|th|เมือง|tr=meuang|sc=Thai}}
 * Tok Pisin: {{t|tpi|kantri}}
 * Turkish: {{t+|tr|ülke}}, {{t+|tr|memleket}}
 * Turkmen: {{t|tk|ülke}}, {{t|tk|döwlet}}, {{t|tk|watan}}
