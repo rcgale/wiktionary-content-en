@@ -136,7 +136,7 @@ From {{etyl|enm}} {{term|knight|lang=enm}}, {{term|kniht|lang=enm}}, from {{etyl
 * Bulgarian: {{t|bg|рицар|m|tr=rícar|sc=Cyrl}}
 * Catalan: {{t-|ca|cavaller|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|騎士|sc=Hani}},  {{t+|cmn|骑士|tr=qíshì|sc=Hani}}, {{t|cmn|大俠|sc=Hani}}, {{t|cmn|大侠|tr=dàxiá|sc=Hani}}, {{t+|cmn|爵士|tr=juéshì|sc=Hani}}
+*: Mandarin: {{t+|cmn|騎士|sc=Hani}}, {{t+|cmn|骑士|tr=qíshì|sc=Hani}}, {{t|cmn|大俠|sc=Hani}}, {{t|cmn|大侠|tr=dàxiá|sc=Hani}}, {{t+|cmn|爵士|tr=juéshì|sc=Hani}}
 * Czech: {{t+|cs|rytíř|m}}
 * Danish: {{t+|da|ridder|c}}
 * Dutch: {{t+|nl|ridder|m}}
@@ -144,6 +144,8 @@ From {{etyl|enm}} {{term|knight|lang=enm}}, {{term|kniht|lang=enm}}, from {{etyl
 * Estonian: {{t-|et|rüütel}}
 * Finnish: {{t-|fi|ritari}}
 * French: {{t+|fr|chevalier|m}}
+*: Middle French: {{tø|frm|chevalier|m}}
+*: Old French: {{tø|fro|chevalier|m}}
 * Georgian: {{t-|ka|რაინდი|tr=raindi|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Ritter|m}}
 * Greek: {{t+|el|ιππότης|m}} (ippótis)
@@ -158,7 +160,7 @@ From {{etyl|enm}} {{term|knight|lang=enm}}, {{term|kniht|lang=enm}}, from {{etyl
 * Khmer: {{t|km|អស្សឬទ្ធិ|sc=Khmr|tr=ahsa’ rɨɨ tʰi’}}
 * Korean: {{t+|ko|기사|tr=gisa|sc=Hang}} ({{t|ko|騎士|sc=Hang}})
 * Kurdish:
-*: [[Sorani]]: {{t|ku|سوارا|tr=swara|sc=ku-Arab}}
+*: Sorani: {{t|ku|سوارا|tr=swara|sc=ku-Arab}}
 {{trans-mid}}
 * Latin: {{t+|la|eques|m}}
 * Latvian: {{t|lv|bruņinieks|m|xs=Latvian}}
@@ -168,7 +170,6 @@ From {{etyl|enm}} {{term|knight|lang=enm}}, {{term|kniht|lang=enm}}, from {{etyl
 * Maltese: {{t|mt|kavallier}}
 * Norwegian: {{t|no|ridder}}
 * Norwegian Bokmål: {{tø|nb|ridder|m}}
-* Old French: {{tø|fro|chevalier}}
 * Old Provençal: {{tø|pro|cavaller}}
 * Persian: {{t|fa|شهسوار|tr=šahsavâr|sc=fa-Arab}}
 * Polish: {{t+|pl|kawaler|m}}, {{t|pl|rycerz}}
@@ -229,8 +230,8 @@ From {{etyl|enm}} {{term|knight|lang=enm}}, {{term|kniht|lang=enm}}, from {{etyl
 {{trans-bottom}}
 
 {{trans-top|chess piece}}
-* Translingual: {{tø|mul|♘}},  {{tø|mul|♞}}
-* Arabic: {{t+|ar|حصان|m|tr=ḥiṣān}},  {{t-|ar|فرس|m|tr=fáras}}
+* Translingual: {{tø|mul|♘}}, {{tø|mul|♞}}
+* Arabic: {{t+|ar|حصان|m|tr=ḥiṣān}}, {{t-|ar|فرس|m|tr=fáras}}
 * Armenian: {{t|hy|ձի|tr=dzi}}
 * Basque: {{t+|eu|zaldi|xs=Basque}}
 * Belarusian: {{t|be|конь|m|tr=konʹ|sc=Cyrl}}
@@ -256,7 +257,7 @@ From {{etyl|enm}} {{term|knight|lang=enm}}, {{term|kniht|lang=enm}}, from {{etyl
 {{trans-mid}}
 * Irish: {{t-|ga|ridire|m|xs=Irish}}
 * Italian: {{t+|it|cavallo|m}}
-* Japanese: {{t-|ja|ナイト|tr=naito}} (''in Western chess''), {{t-|ja|桂馬|tr=けいま, keima}} (''in shogi'')
+* Japanese: {{t-|ja|ナイト|tr=naito}} {{qualifier|in Western chess}}, {{t-|ja|桂馬|tr=けいま, keima}} {{qualifier|in shogi}}
 * Khmer: {{t|km|សេះ|sc=Khmr|tr=seh}}
 * Korean: {{t|ko|나이트|tr=naiteu|sc=Hang}}
 * Macedonian: {{t-|mk|коњ|m|tr=konj}}
