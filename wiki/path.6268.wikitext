@@ -44,7 +44,7 @@
 * Croatian: {{t+|hr|put}}, {{t-|hr|staza}}
 * Czech: {{t|cs|stezka}}, {{t|cs|pěšina}}
 * Danish: {{t|da|sti|c}}, {{t|da|havegang|c}}, {{t|da|passage|c}}
-* Dutch: {{t+|nl|pad}}
+* Dutch: {{t+|nl|pad|n}}
 * Esperanto: {{t|eo|aleo}}, {{t|eo|pado}}, {{t|eo|vojo}}
 * Estonian: {{t-|et|rada}}
 * Finnish: {{t+|fi|polku}}
@@ -145,6 +145,10 @@
 * Telugu: [[దారి]] (daari), [[మార్గం]] (maargam)
 {{trans-bottom}}
 
+{{trans-top|computing: a specification for a location within a hierarchical or tree-like structure}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|graph theory: a sequence of vertices from one vertex to another}}
 * Danish: {{t+|da|vej|c}}
 * Estonian: {{t+|et|ahel}}
@@ -170,7 +174,6 @@
 * {{ttbc|ca}}: [[senda]] {{f}}
 * {{ttbc|zh}}: [[路径]] (lùjìng)
 * {{ttbc|sh}}: [[staza]] {{f}}
-* {{ttbc|nl}}: [[pad]] {{n}}
 * {{ttbc|eo}}: [[irvojeto]]
 * {{ttbc|ee}}: [[afɔmɔ]] {{n}} (''trail'')
 * {{ttbc|de}}: [[Pfad]] {{m}}
