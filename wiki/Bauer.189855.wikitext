@@ -1,47 +1,74 @@
 ==German==
 
-===Etymology===
-{{etyl|goh|de}} ''[[bur|būr]]''
-
 ===Pronunciation===
-* {{IPA|/ˈbaʊ̯ɐ/|lang=de}}
+* {{IPA|[ˈbaʊ̯ɐ]|lang=de}}
 * {{audio|De-Bauer.ogg|audio}}
 * {{rhymes|aʊ̯ɐ|lang=de}}
 
-===Noun===
-{{de-noun|g=m|genitive=Bauern|plural=Bauern}} (''f'': ''[[Bäuerin]]'')
+===Etymology 1===
+From {{etyl|gmh|de}} {{term|bure|būre|lang=gmh}}, {{term|gebure|gebūre|lang=gmh}}, from {{etyl|goh|de}} {{term|giburo|gibūro|lang=goh}}.
 
-# A [[farmer]], [[peasant]], [[boor]] 
+====Noun====
+{{de-noun|g=m|genitive=Bauern|plural=Bauern}}
+
+# [[farmer]], [[peasant]], [[boor]] 
 # {{chess|lang=de}} [[pawn]]
-# one who builds something (see [[bauen]])
 
-====Synonyms====
-* [[Landwirt]] {{m}} (occupation)
+=====Declension=====
+{{de-noun-m|n|n}}
 
-===Noun===
-{{de-noun|g=n|genitive=Bauers|plural=Bauer}}
+=====Synonyms=====
+* {{sense|farmer}} {{l|de|Landwirt}} {{m}}
+
+=====Derived terms=====
+* {{l|de|Bäuerchen}} {{n}}
+* {{l|de|Bäuerin}} {{f}}
+* {{l|de|bäuerlich}}
+* {{l|de|Bauernhof}} {{m}}
+* {{l|de|Biobauer}} {{m}}
+* {{l|de|kalter Bauer}} {{m}}
+* {{l|de|Milchbauer}} {{m}}
+* {{l|de|Schweinebauer}} {{m}}
+
+====Proper noun====
+{{de-proper noun}}
+
+# {{surname|A=An|[[occupational]]|from=occupations|lang=de}}
+
+===Etymology 2===
+From {{etyl|gmh|de}} {{term|bur|būr|lang=gmh}}, from {{etyl|goh|de}} {{term|bur|būr|lang=goh}}.
+
+====Noun====
+{{de-noun|g=n|g2=m|genitive=Bauers|plural=Bauer}}
 
 # a [[birdcage]]
 
-====Related terms====
-* [[bauen]]
-* [[Biobauer]]
-* [[Bauernhof]]
-* [[bäuerlich]]
-* [[Bäuerchen]]
-* [[kalter Bauer]]
-* [[Vogelbauer]]
+=====Declension 1=====
+{{de-noun-n|s}}
 
-====Derived terms====
-* [[Gitarrenbauer]] {{m}}
-* [[Orgelbauer]] {{m}}
-* [[Milchbauer]] {{m}}
-* [[Schweinebauer]] {{m}}
+=====Declension 2=====
+{{de-noun-m|s}}
 
-===Proper noun===
-{{head|de|proper noun}}
+=====Synonyms=====
+* {{l|de|Vogelbauer}} {{m}}
 
-# {{surname|A=An|[[occupational]]|from=occupations|lang=de}}
+=====Derived terms=====
+* {{l|de|Vogelbauer}} {{m}}
+
+===Etymology 3===
+From {{suffix|bauen|er|lang=de}}.
+
+====Noun====
+{{de-noun|g=m|gen=Bauers|pl=Bauer}}
+
+# one who builds something
+
+=====Declension=====
+{{de-noun-m|s}}
+
+=====Derived terms=====
+* {{l|de|Gitarrenbauer}} {{m}}
+* {{l|de|Orgelbauer}} {{m}}
 
 [[Category:de:Occupations]]
 [[Category:German nouns]]
