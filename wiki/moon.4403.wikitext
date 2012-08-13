@@ -109,7 +109,6 @@ From {{etyl|enm}} {{term|mone|lang=enm}}, from {{etyl|ang|en}} {{term|mona|mōna
 * Berber:
 *: Tashelhit: {{tø|shi|ayyur|m}}
 * Borôro: {{tø|bor|ari}}
-* Bosnian: {{t-|bs|mjesec|m}}
 * Breton: {{t+|br|loar|xs=Breton}}
 * Bulgarian: {{t+|bg|луна|f}}
 * Burmese: {{t|my|လ|sc=Mymr}}, {{t|my|စန္ဒာ|sc=Mymr}}, {{t|my|စန်း|sc=Mymr}}, {{qualifier|poetic}} {{t|my|သော်တာ|sc=Mymr}}, {{t|my|သီတဂူ|sc=Mymr}}
@@ -125,8 +124,7 @@ From {{etyl|enm}} {{term|mone|lang=enm}}, from {{etyl|ang|en}} {{term|mona|mōna
 * Cornish: {{t-|kw|loor|xs=Cornish}}
 * Corsican: {{t+|co|luna|f|xs=Corsican}}
 * Cree: {{t-|cr|ᑎᐱᔅᑳᐅᐲᓯᒻ|sc=Cans|xs=Cree}}
-* Crimean Tatar: [[ay#Crimean Tatar|ay]]
-* Croatian: {{t+|hr|Mjesec|m}}
+* Crimean Tatar: {{t|crh|ay}}
 * Czech: {{t+|cs|měsíc}}
 * Dalmatian: {{t|dlm|loina|f}}
 * Danish: {{t-|da|månen}}
@@ -173,7 +171,7 @@ From {{etyl|enm}} {{term|mone|lang=enm}}, from {{etyl|ang|en}} {{term|mona|mōna
 * Kapampangan: {{tø|pam|bulan}}
 * Karitiâna: {{tø|ktn|oti}}
 * Kazakh: {{t-|kk|ай|sc=Cyrl|xs=Kazakh}}
-* Khmer: {{Khmr|[[លោកខែ]]}} (lōk kai), {{Khmr|[[ព្រះច័ន្ទ]]}} (bprēiəh jən)
+* Khmer: {{t|km|លោកខែ|tr=lōk kai}}, {{t|km|ព្រះច័ន្ទ|tr=bprēiəh jən}}
 * Korean: {{t+|ko|달|tr=dal|sc=Hang}}
 * Kunza: [[ckamur]]
 * Kurdish: {{t+|ku|heyv}}, {{t+|ku|hîv}}
@@ -236,10 +234,12 @@ From {{etyl|enm}} {{term|mone|lang=enm}}, from {{etyl|ang|en}} {{term|mona|mōna
 * Romanian: {{t+|ro|lună|f}}
 * Russian: {{t+|ru|луна|f|tr=luná}}, {{t+|ru|месяц|m|tr=mésjac}}
 * Samogitian: {{tø|sgs|mienolis}}
-* Sanskrit: {{t-|sa|चन्द्र|xs=Sanskrit}} (candrá), {{t|sa|सोम|tr=soma|sc=Deva}}
+* Sanskrit: {{t-|sa|चन्द्र|xs=Sanskrit|tr=candrá}}, {{t|sa|सोम|tr=soma|sc=Deva}}
 * Sardinian: {{t|sc|luna|f}}
 * Scottish Gaelic: {{t-|gd|gealach|xs=Scottish Gaelic}}
-* Serbian: {{t-|sr|месец|m|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|месец|m|sc=Cyrl}}, {{t|sh|мјесец|m|sc=Cyrl}}
+*: Roman: {{t|sh|mesec|m}}, {{t|sh|mjesec|m}}
 * Sichuan Yi: {{tø|ii|ꆪ}}
 * Sicilian: {{t+|scn|luna|f|xs=Sicilian}}
 * Silesian: {{tø|szl|mjeśůnček|m}}
@@ -253,7 +253,7 @@ From {{etyl|enm}} {{term|mone|lang=enm}}, from {{etyl|ang|en}} {{term|mona|mōna
 * Swedish: {{t+|sv|måne|c}}
 * Tagalog: {{t+|tl|buwan|xs=Tagalog}}
 * Tajik: {{t-|tg|моҳ|sc=Cyrl|xs=Tajik}}
-* Tamil: {{t+|ta|நிலா|xs=Tamil}} (nilā)
+* Tamil: {{t+|ta|நிலா|xs=Tamil|tr=nilā}}
 * Taos: [[p’óna]]
 * Tatar: {{t+|tt|ай|sc=Cyrl|xs=Tatar}}
 * Telugu: {{t+|te|చంద్రుడు|tr=chandrudu}}
@@ -279,18 +279,17 @@ From {{etyl|enm}} {{term|mone|lang=enm}}, from {{etyl|ang|en}} {{term|mona|mōna
 * Yucatec Maya: {{tø|yua|luunaa|xs=Yucatec Maya}}
 * Zhuang: {{t-|za|ronghndwen|xs=Zhuang}}
 {{trans-bottom}}
+
 {{trans-top|any substantially sized natural satellite of a planet}}
-* Aleut: [[tugidax]]
-* Arabic: {{Arab|[[قمر]]}} (qámar) {{m}}
+* Aleut: {{t|ale|tugidax}}
+* Arabic: {{t|ar|قمر|tr=qámar|m}}
 * Armenian: {{t-|hy|լուսին|tr=lusin}}
 * Basque: {{t|eu|ilargi|xs=Basque}}
-* Bosnian: {{t-|bs|mjesec|m}}
-* Catalan: [[lluna]] {{f}}
+* Catalan: {{t|ca|lluna|f}}
 * Chinese: {{zh-ts|月亮|月亮}} (yuèliàng)
-* Croatian: {{t+|hr|mjesec|m}}
 * Czech: {{t+|cs|měsíc|m}}
 * Danish: {{t+|da|måne|c}}
-* Dutch: [[maan]] {{m|f}} (1,2)
+* Dutch: {{t|nl|maan|m|f}}
 * Estonian: {{t+|et|kuu}}
 * Faroese: {{t-|fo|máni|m|xs=Faroese}}
 * Finnish: {{t+|fi|kuu}}
@@ -298,100 +297,99 @@ From {{etyl|enm}} {{term|mone|lang=enm}}, from {{etyl|ang|en}} {{term|mona|mōna
 * Georgian: {{t|ka|თანამგზავრი|tr=t‘anamgzavri|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Mond|m}}, {{t+|de|Trabant|m}}, {{t+|de|Satellit|m}}
 * Greek: {{t+|el|φεγγάρι|n|tr=fengári}}, {{t+|el|δορυφόρος|m|tr=doryfóros}}
-* Hebrew: [[ירח|יָרֵחַ]] (yare'aĥ) {{m}}, [[לווין]] (lawian) {{m}}
-* Hindi: [[चाँद]] (cām̐da), [[चन्द्रमा]] (candramā)
+* Hebrew: {{t|he|ירח|alt=יָרֵחַ|tr=yare'aĥ|m}}, {{t|he|לווין|tr=lawian|m}}
+* Hindi: {{t|hi|चाँद|tr=cām̐da}}, {{t|hi|चन्द्रमा|tr=candramā}}
 * Hungarian: {{t+|hu|hold}}
 * Icelandic: {{t|is|tungl|n}}; {{t|is|fylgihnöttur|m}}
 * Interlingua: {{t|ia|luna}}
 * Italian: {{t+|it|satellite|m}}, {{t+|it|luna|f}}
-* Japanese: [[衛星]] (えいせい, eiséi)
-* Khmer: {{Khmr|[[លោកខែ]]}} (lōk kai)
-* Korean: [[위성]] (wisǒng)
+* Japanese: {{t|ja|衛星|tr=えいせい, eisei}}
+* Khmer: {{t|km|លោកខែ|tr=lōk kai}}
+* Korean: {{t|ko|위성|tr=wisǒng}}
 * Kurdish:
-*: Kurmanji: [[heyv]], [[hîv]]
-*: Sorani: [[mang]]
+*: Kurmanji: {{t|ku|heyv}}, {{t|ku|hîv}}
+*: Sorani: {{t|ku|mang}}
 {{trans-mid}}
-* Latvian: [[pavadonis]] {{m}}, [[satelīts]] {{m}}, [[mēness]] {{m}}
+* Latvian: {{t|lv|pavadonis|m}}, {{t|lv|satelīts|m}}, {{t|lv|mēness|m}}
 * Lithuanian: {{t|lt|palydovas|m}}, {{t|lt|mėnulis|m}}
 * Lojban: {{t|jbo|lunra}}
 * Luxembourgish: {{t|lb|Mound|m}}
 * Malay: {{t|ms|bulan}}
-* Malayalam: [[ഉപഗ്രഹം]] (upagraham)
+* Malayalam: {{t|ml|ഉപഗ്രഹം|tr=upagraham}}
 * Maltese: {{t+|mt|qamar|m|xs=Maltese}}
 * Navajo: {{tø|nv|ooljééʼ}}
 * Norwegian: {{t+|no|måne|m}}
 * Ojibwe: {{tø|oj|giizis}}
 * Pashto: {{t+|ps|سپوږمۍ|f|tr=spog̐mëy|sc=ps-Arab|xs=Pashto}}
-* Persian: {{fa-Arab|[[ماه]]}} (mâh)
+* Persian: {{t|fa|ماه|tr=mâh}}
 * Polish: {{t+|pl|księżyc|m}}
 * Portuguese: {{t+|pt|satélite|m}}, {{t+|pt|lua|f}}
 * Romanian: {{t+|ro|lună|f}}
 * Russian: {{t+|ru|спутник|m|tr=spútnik}}, {{t+|ru|луна|f|tr=luná}}
-* Scottish Gaelic: [[gealach]] {{f}}
-* Serbian:
-*: Cyrillic: [[месец#Serbian|месец]] {{m}}
-*: Roman: [[mesec#Serbian|mesec]] {{m}}
-* Sindhi: {{sd-Arab|[[اُپُگِرَھُھ]]}} (upugirahu) {{m}}
+* Scottish Gaelic: {{t|gd|gealach|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|месец|m|sc=Cyrl}}, {{t|sh|мјесец|m|sc=Cyrl}}
+*: Roman: {{t|sh|mesec|m}}, {{t|sh|mjesec|m}}
+* Sindhi: {{t|sd|اُپُگِرَھُھ|tr=upugirahu|m}}
 * Slovak: {{t-|sk|mesiac|m}}
 * Slovene: {{t+|sl|luna|f}}
 * Spanish: {{t+|es|satélite|m}}, {{t+|es|luna|f}}
-* Swahili: [[mwezi]] ''(nc 3/4)''
+* Swahili: {{t|sw|mwezi}} ''(nc 3/4)''
 * Swedish: {{t+|sv|måne|c}}
-* Telugu: [[చందమామ]] (chaMdamaama)
+* Telugu: {{t|te|చందమామ|tr=chaMdamaama}}
 * Turkish: {{t+|tr|uydu}}
 * Volapük: {{t|vo|mun}}
 * Welsh: {{t+|cy|lleuad|xs=Welsh}}, {{t-|cy|lloer|xs=Welsh}}
-* West Frisian: [[moanne]]
+* West Frisian: {{t|fy|moanne}}
 {{trans-bottom}}
+
 {{trans-top|month}}
 * Aramaic:
 *: Syriac: [[ܝܪܚܐ]] (yarħā’) {{m}}
 *: Hebrew: [[ירחא]] (yarħā’) {{m}}
 * Armenian: {{t+|hy|ամիս|tr=amis}}
-* Bosnian: {{t-|bs|mjesec|m}}
-* Catalan: [[lluna]] {{f}}
-* Chinese: [[月]] (yuè)
-* Chinese Characters: [[月]]
-* Crimean Tatar: [[ay#Crimean Tatar|ay]]
-* Croatian: {{t+|hr|mjesec|m}}
+* Catalan: {{t|ca|lluna|f}}
+* Chinese:
+*: Mandarian: {{t|cmn|月|tr=yuè}}
+* Crimean Tatar: {{t|crh|ay}}
 * Czech: {{t+|cs|měsíc|m}}
 * Danish: {{t+|da|måned|c}}
-* Dutch: [[maan]] {{m|f}} (poetic), [[maand]] {{f}}
+* Dutch: {{t|nl|maan|m|f}} {{qualifier|poetic}}, {{t|nl|maand|f}}
 * Estonian: {{t+|et|kuu}}
-* Ewe: [[dzinu]] {{n}}, [[ɣleti]] {{n}}
+* Ewe: {{t|ee|dzinu|n}}, {{t|ee|ɣleti|n}}
 * Faroese: {{t-|fo|mánaður|m|xs=Faroese}}
 * Finnish: {{t+|fi|kuukausi}}, {{t+|fi|kuu}}
-* French: [[lune]] (poetic), [[mois]] {{m}}
+* French: {{t|fr|lune}} {{qualifier|poetic}}, {{t|fr|mois|m}}
 * Georgian: {{t-|ka|თვე|tr=tve|sc=Geor|xs=Georgian}}
-* German: [[Monat]] {{m}}, [[Mond]] {{m}} {{qualifier|poetic}}
+* German: {{t|de|Monat|m}}, {{t|de|Mond|m}} {{qualifier|poetic}}
 * Greek: {{t|el|σεληνιακός μήνας|m|tr=seliniakós mínas}}, {{t+|el|φεγγάρι|n|tr=fengári}}
-* Hebrew: [[חודש|חוֹדֶש]] (ĥodesh) {{m}}, [[ירח|יֶרַח]] (yeraĥ) {{m}}
+* Hebrew: {{t|he|חודש|alt=חוֹדֶש|tr=ĥodesh|m}}, {{t|he|ירח|alt=יֶרַח|tr=yeraĥ|m}}
 * Hungarian: {{t+|hu|hónap}}
-* Italian: [[mese]] {{m}}, [[luna]] {{qualifier|poetic}} {{f}}
-* Japanese: [[月]] ([[つき]], tsukí)
-* Khmer: {{Khmr|[[ខែ]]}} (kai)
-* Korean: [[달]] (dal), [[월]] (weol)
+* Italian: {{t|it|mese|m}}, {{t|it|luna|f}} {{qualifier|poetic}}
+* Japanese: {{t|ja|月|tr=つき, tsuki}}
+* Khmer: {{t|km|ខែ|tr=kai}}
+* Korean: {{t|ko|달|tr=dal}}, {{t|ko|월|tr=weol}}
 * Kurdish:
-*: Kurmanji: [[meh]], [[heyv]], [[hîv]]
-*: Sorani: {{ku-Arab|[[مانگ]]}}
+*: Kurmanji: {{t|ku|meh}}, {{t|ku|heyv}}, {{t|ku|hîv}}
+*: Sorani: {{t|ku|مانگ}}
 {{trans-mid}}
-* Latvian: [[mēnesis]] {{m}}
+* Latvian: {{t|lv|mēnesis|m}}
 * Lithuanian: {{t|lt|mėnuo|m}}
 * Malay: {{qualifier|poetic}} {{t|ms|purnama}}
-* Malayalam: [[ചന്ദ്രമാസം]] (chandra maasam)
+* Malayalam: {{t|ml|ചന്ദ്രമാസം|tr=chandra maasam}}
 * Maricopa: {{unicode|[[xlyʼa]]}}
 * Norwegian Bokmål: {{t+|no|måned}}
 * Norwegian Nynorsk: {{t-|nn|månad|xs=Norwegian Nynorsk}}
 * O'odham: {{unicode|[[maṣad]]}}
 * Ojibwe: {{tø|oj|giizis}}
-* Persian: {{fa-Arab|[[ماه]]}} (mâh), {{fa-Arab|[[مه]]}} (mâh)
+* Persian: {{t|fa|ماه|tr=mâh}}, {{t|fa|مه|tr=mâh}}
 * Polish: {{t+|pl|miesiąc|m}}
-* Portuguese: [[lua]] {{f}} (poetic), [[mês]] {{m}}
+* Portuguese: {{t|pt|lua|f}} {{qualifier|poetic}}, {{t|pt|mês|m}}
 * Romanian: {{t+|ro|lună|f}}
 * Russian: {{t+|ru|месяц|m|tr=mésjats}}
-* Serbian:
-*: Cyrillic: [[месец#Serbian|месец]] {{m}}
-*: Roman: [[mesec#Serbian|mesec]] {{m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|месец|m|sc=Cyrl}}, {{t|sh|мјесец|m|sc=Cyrl}}
+*: Roman: {{t|sh|mesec|m}}, {{t|sh|mjesec|m}}
 * Slovak: {{t-|sk|mesiac|m}}
 * Slovene: {{t+|sl|mesec|m}}
 * Spanish: {{t+|es|mes|m}}
@@ -401,7 +399,7 @@ From {{etyl|enm}} {{term|mone|lang=enm}}, from {{etyl|ang|en}} {{term|mona|mōna
 * Tok Pisin: {{t|tpi|mun}}
 * Turkish: {{t+|tr|ay}}
 * Uyghur: {{t|ug|ئاي|sc=ug-Arab}}
-* West Frisian: [[moanne]], [[maand]]
+* West Frisian: {{t|fy|moanne}}, {{t|fy|maand}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -414,13 +412,13 @@ From {{etyl|enm}} {{term|mone|lang=enm}}, from {{etyl|ang|en}} {{term|mona|mōna
 ===Verb===
 {{en-verb}}
 
-# {{transitive|colloquial}} To display one’s [[buttock]]s to, typically as a [[jest]], [[insult]], or [[protest]]
+# {{transitive|colloquial}} To display one's [[buttock]]s to, typically as a [[jest]], [[insult]], or [[protest]]
 # {{intransitive|colloquial}} (''usually followed by'' '''over''' ''or'' '''after''') To [[fuss]] over something [[adoringly]]; to be [[infatuate]]d with someone.
-#: ''Sarah '''mooned''' over Sam’s photograph for months.''
+#: ''Sarah '''mooned''' over Sam's photograph for months.''
 #: ''You've been '''mooning''' after her forever, why not just ask her out?''
 
 ====Translations====
-{{trans-top|to display one’s buttocks to}}
+{{trans-top|to display one's buttocks to}}
 <!--Add SLANG terms to this table, where these exist-->
 * Dutch: moonen, het naakte [[achterwerk]] tonen
 * Esperanto: {{t|eo|postaĵumadi}}
