@@ -3,7 +3,7 @@
 
 ===Etymology===
 {{wikipedia}}
-{{etyl|ang}} ''[[þæt]]'' (neuter relative pronoun, definite article).
+{{etyl|ang}} {{term|þæt|lang=ang}} (neuter relative pronoun, definite article).
 
 ===Pronunciation===
 * {{qualifier|stressed}} {{enPR|''th''ăt}}, {{IPA|/ðæt/}}, {{X-SAMPA|/D{t/}}
@@ -19,7 +19,7 @@
 # {{archaic}} Introducing a hypothetical fact or supposition: ‘given that’, ‘as would appear from the fact that’. {{defdate|from 11th c.}}
 #* '''1623''', {{w|William Shakespeare}}, ''The Comedy of Errors'':
 #*: What, are you mad, '''that''' you doe reason so?
-#* {{circa|1911}} [[w:D.H. Lawrence|D.H. Lawrence]], third draft of what became ''[[w:Sons and Lovers|Sons and Lovers]]'', in Helen Baron (editor), ''Paul Morel'', Cambridge University Press (2003), ISBN 978-0-521-56009-2, [http://books.google.com/books?id=fpHGg5qeawEC&pg=PA234&dq=that page 234]:
+#* {{circa|1911}} {{w|D.H. Lawrence}}, third draft of what became ''{{w|Sons and Lovers}}'', in Helen Baron (editor), ''Paul Morel'', Cambridge University Press (2003), ISBN 978-0-521-56009-2, [http://books.google.com/books?id=fpHGg5qeawEC&pg=PA234&dq=that page 234]:
 #*: “She must be wonderfully fascinating,” said Mrs Morel, with scathing satire. “She must be very wonderful, '''that''' you should trail eight miles, backward and forward, after eight o’clock at night.”
 # With antecedent {{term|so}} or {{term|such}}: introducing the [[result]] of the main clause. {{defdate|from 11th c.}}
 #* '''2008''', Zoe Williams, ''The Guardian'', 23 May 2008:
@@ -34,14 +34,13 @@
 ====Translations====
 {{trans-top|connecting noun clause}}
 * Arabic: {{t-|ar|أن|tr='ánna}} {{qualifier|+ subject in the accusative case}}, {{t-|ar|إن|tr='ínna}} {{qualifier|after some verbs}}
-*: Egyptian Arabic: {{Arab|[[ان]]}} (’inn)
+*: Egyptian Arabic: {{t|arz|ان|tr=’inn}}
 * Armenian: {{t-|hy|որ|tr=or}}
 * Belarusian: {{t|be|што|tr=što|sc=Cyrl}}
 * Bulgarian: {{t-|bg|че|če}}
 * Catalan: {{t|ca|que}}
 * Chinese:
 *: Mandarin: {{not used|cmn}}
-* Croatian: {{t|hr|da}}
 * Czech: {{t+|cs|že}}
 * Dutch: {{t|nl|dat}}
 * Esperanto: {{t|eo|ke}}
@@ -64,6 +63,9 @@
 * Romanian: {{t-|ro|că}}
 * Russian: {{t+|ru|что|tr=čto}}
 * Scottish Gaelic: {{t|gd|gun}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|да}}
+*: Roman: {{t|sh|da}}
 * Spanish: {{t|es|que}}
 * Swedish: {{t+|sv|att}}
 * Thai: {{t+|th|ว่า|tr=waa}}
@@ -78,7 +80,7 @@
 * Czech: {{t+|cs|aby}}
 * French: {{t+|fr|pour que}}
 * Galician: {{t+|gl|que|xs=Galician}}
-* German: {{t+|de|sodass}},  {{t+|de|damit}}
+* German: {{t+|de|sodass}}, {{t+|de|damit}}
 {{trans-mid}}
 * Italian: {{t+|it|perché}}
 * Japanese: {{t+|ja|と|alt=...と|tr=to}} {{qualifier|quotation particle}}
@@ -90,7 +92,6 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sh}}: {{t-|bs|da}}
 * {{ttbc|da}}: {{t+|da|at}}
 * {{ttbc|nl}}: {{t+|nl|dat|n|s}}, {{t+|nl|die|m|f}} (and {{n|p}})
 * {{ttbc|eo}}: {{t-|eo|ke|xs=Esperanto}}
@@ -110,7 +111,7 @@
 * {{ttbc|fa}}: {{fa-Arab|[[که|کِه]]}} (ke)
 * {{ttbc|ro}}: {{t-|ro|că}}
 * {{ttbc|sh}}:
-*:* Cyrillic: {{t-|sr|да|sc=Cyrl}}
+*:* Cyrillic: {{t|sh|да|sc=Cyrl}}
 *:* Roman: [[da]]
 * {{ttbc|sd}}: {{sd-Arab|[[ته|تَه]]}}
 * {{ttbc|sk}}: {{t-|sk|že}}
@@ -129,22 +130,18 @@
 
 ====Translations====
 {{trans-top|what is being indicated}}
-* Arabic: {{Arab|[[ذلك]]}} {{unicode|(ðáːlika)}} {{m}}, {{Arab|[[ذاك]]}} {{unicode|(ðáːka)}} {{m}}; {{Arab|[[تلك]]}} {{unicode|(tílka)}} / {{Arab|[[تاك|تَاكَ]]}} {{unicode|(táːka)}} {{f|s}} {{qualifier|nonhuman|plural}}; {{Arab|[[ذانك]]}} {{unicode|(ðáːnika)}} {{m}} {{dual}}, {{Arab|[[تانك]]}} {{unicode|(táːnika)}} {{f}} {{dual}}; {{Arab|[[أولائك]]}} {{unicode|(’uláː’ika)}} {{qualifier|human|plural}}
-*: Egyptian: {{Arab|[[دكها]]}} dukha {{m}}, {{Arab|[[دكها]]}} dikha {{f}}, {{Arab|[[دكهم]]}} dukhum {{p}}
-*: [[Tunisian Arabic]]: {{tø|aeb|هذاك|m|alt=هَذَاكَ|tr=haḏāka|sc=Arab}},  {{tø|aeb|هَذِيكَ|f|tr=haḏīka|sc=Arab}}
-* Armenian: {{qualifier|close to the listener}} {{t-|hy|այդ|tr=ayd}},  {{qualifier|far from the listener}} {{t+|hy|այն|tr=ayn}}
+* Arabic: {{t|ar|ذلك|tr=ðáːlika|m}}, {{t|ar|ذاك|tr=ðáːka|m}}; {{t|ar|تلك|tr=tílka}} / {{t|ar|تاك|alt=تَاكَ|tr=táːka|f|s}} {{qualifier|nonhuman|plural}}; {{t|ar|ذانك|tr=ðáːnika|m}} {{dual}}, {{t|ar|تانك|tr=táːnika|f}} {{dual}}; {{t|ar|أولائك|tr=’uláː’ika}} {{qualifier|human|plural}}
+*: Egyptian: {{t|arz|دكها|tr=dukha|m}}, {{t|arz|دكها|tr=dikha|f}}, {{t|ar|دكهم|tr=dukhum|p}}
+*: [[Tunisian Arabic]]: {{tø|aeb|هذاك|m|alt=هَذَاكَ|tr=haḏāka|sc=Arab}}, {{tø|aeb|هَذِيكَ|f|tr=haḏīka|sc=Arab}}
+* Armenian: {{qualifier|close to the listener}} {{t-|hy|այդ|tr=ayd}}, {{qualifier|far from the listener}} {{t+|hy|այն|tr=ayn}}
 * Aromanian: {{tø|rup|atsel}}
 * Belarusian: {{t|be|той|tr=toj|sc=Cyrl}}
 * Bengali: {{t|bn|ওই|tr=oi|sc=Beng}}, {{t|bn|সেই|tr=shei|sc=Beng}}
-* Bosnian:
-** [[taj]] {{m}}, [[ti]] {{m|p}}, [[ta]] {{f|s}} and {{n|p}}, [[te]] {{f|p}}, [[to]] {{n}}
-** [[takav]] {{m|s}}, [[takvi]] {{m}} {{p}}, [[takva]] {{f|s}} and {{n|p}}, [[takve]] {{f}} {{p}}, [[takvo]] {{n|s}}
 * Bulgarian:
-** [[онзи]] / [[онази]] / [[онова]] / [[онези]] (onzi/onazi/onova/onezi) ''m/f/n/pl'';
-** {{colloquial}} {{dated}} [[оня]] / [[оная]] / [[онуй]] / [[ония]] (onja/onaja/onuj/onija) ''m/f/n/pl''
+** {{t|bg|онзи}} / [[онази]] / [[онова]] / [[онези]] (onzi/onazi/onova/onezi) ''m/f/n/pl'';
+** {{qualifier|colloquial, dated}} {{t|bg|оня}} / [[оная]] / [[онуй]] / [[ония]] (onja/onaja/onuj/onija) ''m/f/n/pl''
 * Burmese: {{t|my|ဟို|tr=ho|sc=Mymr}}, {{t|my|ထို|tr=hto|sc=Mymr}}
-* Catalan:
-*: [[aqueix]] {{m}}, [[aqueixa]] {{f}}, [[aqueixos]] {{p}}, [[aqueixes]] {{f|p}}  (neutral);
+* Catalan: {{t|ca|aqueix|m}}, {{t|ca|aqueixa|f}}
 * Chamicuro: {{tø|ccc|ala'ye}}
 * Chinese:
 *: Cantonese: {{tø|yue|那|tr=na4}} (formal and written), {{tø|yue|嗰|tr=go2}} (vernacular)
@@ -152,69 +149,69 @@
 * Cornish:
 *: Kernewek Kemmyn: an ... na
 * Czech: {{t-|cs|tamten|m}}, {{t-|cs|tamta|f}}, {{t-|cs|tamto|n}}
-* Dutch: [[dat]] {{n}}, [[die]] {{m|f|p}}
+* Dutch: {{t|nl|dat|n}}, {{t|nl|die|m|f|p}}
 * Esperanto: {{t-|eo|tiu|xs=Esperanto}}
 * Faroese: {{t|fo|hasin|m}}, {{t|fo|handa}}/{{t|fo|handan|f}}, {{t|fo|hatta|n}}
 * Finnish:
-*: (''the thing pointed at'') {{l|fi|tuo}} {{s}}; {{l|fi|nuo}} {{p}}
-*: (''the thing not pointed at'') {{l|fi|se}} {{s}}; {{l|fi|ne}} {{p}}
+*: {{qualifier|the thing pointed at}} {{l|fi|tuo|s}}; {{l|fi|nuo|p}}
+*: {{qualifier|the thing not pointed at}} {{l|fi|se|s}}; {{l|fi|ne|p}}
 * French: {{t+|fr|ce}}, {{t+|fr|cet}}, {{t+|fr|cette}}
 * Friulian: {{tø|fur|chel}}
 * German: {{t+|de|jener|m}}, {{t+|de|jene|f}}, {{t+|de|jenes|n}}, {{t+|de|jene|p}}
-* Greek: [[εκείνος]] {{m}}, [[εκείνη]] {{f}}, [[εκείνο]] {{n}}, [[εκοίνοι]] {{p}}, [[εκείνες]] {{f|p}}, [[εκείνα]] {{n|p}}
+* Greek: {{t|el|εκείνος|m}}, {{t|el|εκείνη|f}}, {{t|el|εκείνο|n}}, {{t|el|εκοίνοι|p}}, {{t|el|εκείνες|f|p}}, {{t|el|εκείνα|n|p}}
 * Haitian Creole: {{tø|ht|sa}}
 * Hawaiian: {{tø|haw|kēlā}}
 * Hebrew: {{t-|he|ההוא|tr=hahu|m}} {{gloss|distant}}, {{t-|he|ההיא|tr=hahi|f}} {{gloss|distant}}
 * Hungarian: {{t+|hu|az|s}}, {{t+|hu|azok|p}}
 * Ido: {{t+|io|ta|xs=Ido}}
 * Indonesian: {{t+|id|itu|xs=Indonesian}}
-* Interlingua: [[ille]]
-* Irish: [[an#Irish|an]]...[[sin#Irish|sin]]
+* Interlingua: {{t|ia|ille}}
+* Irish: {{t|ga|an}}...{{t|ga|sin}}
 * Italian: {{t+|it|quello|m}}, {{t+|it|quella|f}}
 * Japanese: {{qualifier|closer to listener}} {{t|ja|その|tr=sono|sc=Jpan}}, {{qualifier|far from both speaker & listener}} {{t|ja|あの|tr=ano|sc=Jpan}}
 {{trans-mid}}
-* Kannada: [[ಆ]] (aa)
+* Kannada: {{t|kn|ಆ|tr=aa}}
 * Korean: {{qualifier|closer to listener}} {{t|ko|그|tr=geu|sc=Kore}}, {{qualifier|far from both speaker & listener}} {{t|ko|저|tr=jeo|sc=Kore}}
 * Latgalian: {{tø|ltg|jis|m}}, {{tø|ltg|jei|f}}
-* Latin: [[iste]] (close to listener), [[ille]] {{gloss|away from listener}}, {{t|la|is}}, {{t|la|hic}}
+* Latin: {{t|la|iste}} {{qualifier|close to listener}}, {{t|la|ille}} {{gloss|away from listener}}, {{t|la|is}}, {{t|la|hic}}
 * Latvian: {{t|lv|tas|m}}, {{t|lv|tā|f}}, {{t|lv|tie|p}}
-* Limburgish: [[det]] {{n}} [[dae]] {{m}} [[die]] {{f|p}}
+* Limburgish: {{t|li|det|n}}, {{t|li|dae|m}}, {{t|li|die|f|p}}
 * Lingua Franca Nova: [[acel]]
 * Malay: {{t|ms|itu}}
 * Maltese: {{t-|mt|dak|m|xs=Maltese}}, {{t-|mt|dik|f|xs=Maltese}}, {{t-|mt|dawk|p|xs=Maltese}}
 * Manchu: (tere)
-* Novial: [[ti]]
+* Novial: {{t|nov|ti}}
 * Old Church Slavonic: [[онъ]] (onŭ)
 * Old English: {{t+|ang|se|xs=Old English}}, {{t-|ang|seo|alt=sēo|xs=Old English}}, {{t+|ang|þæt|xs=Old English}}
 * Old Irish: {{tø|sga|sin}},  {{tø|sga|tall}}
-* Persian: {{fa-Arab|[[آن]]}} (ān)
-* Polish: [[tamten]] {{m}}, [[tamta]] {{f}}, [[tamto]] {{n}}
-* Portuguese: [[esse]] {{m}}, [[essa]] {{f}}, [[esses]] {{p}}, [[essas]] {{f|p}} (near); [[aquele]] {{m}}, [[aquela]] {{f}}, [[aqueles]] {{p}}, [[aquelas]] {{f|p}} {{qualifier|far}}
-* Romanian: [[acela]], [[ăla]], [[cela]] {{m}}; [[aceea]], [[aia]], [[ceea]] {{f}}
+* Persian: {{t|fa|آن|tr=ān}}
+* Polish: {{t|pl|tamten|m}}, {{t|pl|tamta|f}}, {{t|pl|tamto|n}}
+* Portuguese: {{t|pt|esse|m}}, {{t|pt|essa|f}} {{qualifier|near}}; {{t|pt|aquele|m}}, {{t|pt|aquela|f}} {{qualifier|far}}
+* Romanian: {{t|ro|acela}}, {{t|ro|ăla}}, {{t|ro|cela|m}}; {{t|ro|aceea}}, {{t|ro|aia}}, {{t|ro|ceea|f}}
 * Romansch: {{t-|rm|quel|m|xs=Romansch}}, {{t-|rm|quella|f|xs=Romansch}}
-* Russian: {{t+|ru|тот|m|tr=tot}},  {{t+|ru|та|f|tr=ta}},  {{t+|ru|то|n|tr=to}},  {{t+|ru|те|p|tr=te}}
-* Scottish Gaelic: [[sin#Scottish Gaelic|sin]], [[siud]]
-* Serbian:
+* Russian: {{t+|ru|тот|m|tr=tot}}, {{t+|ru|та|f|tr=ta}}, {{t+|ru|то|n|tr=to}}, {{t+|ru|те|p|tr=te}}
+* Scottish Gaelic: {{t|gd|sin}}, {{t|gd|siud}}
+* Serbo-Croatian:
 *:* Cyrillic:
-*:** [[тај]] {{m}}, [[ти]] {{m|p}}, [[та]] {{f|s}} and {{n|p}}, [[те]] {{f|p}}, [[то]] {{n}}
-*:** [[такво]] {{m|s}}, [[такви]] {{m}} {{p}}, [[таква]] {{f|s}} and {{n|p}}, [[такве]] {{f}} {{p}}, [[такво]] {{n|s}}
+*:** {{t|sh|тај|m}}, {{t|sh|ти|m|p}}, {{t|sh|та|f|s}} and {{n|p}}, {{t|sh|те|f|p}}, {{t|sh|то|n}}
+*:** {{t|sh|такво|m|s}}, {{t|sh|такви|m|p}}, {{t|sh|таква|f|s}} and {{n|p}}, {{t|sh|такве|f|p}}, {{t|sh|такво|n|s}}
 *:* Roman:
-*:** [[taj]] {{m}}, [[ti]] {{m|p}}, [[ta]] {{f|s}} and {{n|p}}, [[te]] {{f|p}}, [[to]] {{n|s}}
-*:** [[takav]] {{m}}, [[takvi]] {{m|p}}, [[takva]]  {{f|s}} and {{n|p}, [[takve]] {{f}} {{p}}, [[takvo]] {{n|s}}
+*:** {{t|sh|taj|m}}, {{t|sh|ti|m|p}}, {{t|sh|ta|f|s}} and {{n|p}}, {{t|sh|te|f|p}}, {{t|sh|to|n|s}}
+*:** {{t|sh|takav|m}}, {{t|sh|takvi|m|p}}, {{t|sh|takva|f|s}} and {{n|p}, {{t|sh|takve|f|p}}, {{t|sh|takvo|n|s}}
 * Sicilian: {{t+|scn|chiddu|m|xs=Sicilian}},  {{t+|scn|chidda|f|xs=Sicilian}}
-* Sindhi: {{sd-Arab|[[اُهو]]}} {{m}}, {{sd-Arab|[[اُها]]}} {{f}}
-* Slovak: [[ten]] {{m}}, [[tá]] {{f}}, [[to]] {{n}}; [[tamten]] {{m}}, [[tamtá]] {{f}}, [[tamto]] {{n}} {{qualifier|distant}} {{gloss|lit., that there}}
-* Slovene: [[tisto]] {{n}}, [[tista]] {{f}}, [[tisti]] {{m}}
-* Spanish: [[ese]] {{m}}, [[esa]] {{f}}, [[esos]] {{p}}, [[esas]] {{f|p}}, [[eso]] {{n}}  (near); [[aquel]] {{m}}, [[aquella]] {{f}}, [[aquellos]] {{p}}, [[aquellas]] {{f|p}}, [[aquello]] {{n}}, (far)
+* Sindhi: {{t|sd|اُهو|m}}, {{t|sd|اُها|f}}
+* Slovak: {{t|sk|ten|m}}, {{t|sk|tá|f}}, {{t|sk|to|n}}; {{t|sk|tamten|m}}, {{t|sk|tamtá|f}}, {{t|sk|tamto|n}} {{qualifier|distant}} {{gloss|lit., that there}}
+* Slovene: {{t|sl|tisto|n}}, {{t|sl|tista|f}}, {{t|sl|tisti|m}}
+* Spanish: {{t|es|ese|m}}, {{t|es|esa|f}}, {{t|es|eso|n}} {{qualifier|near}}; {{t|es|aquel|m}}, {{t|es|aquella|f}}, {{t|es|aquello|n}}, {{qualifier|far}}
 * Swedish: {{t+|sv|den|c}}, {{t+|sv|den där|c}}, {{t+|sv|det|n}}, {{t+|sv|det där|n}}
 * Tagalog: {{t|tl|iyan}}, {{t|tl|iyon}}
 * Talysh:
 *: Asalemi: {{tø|tly|اه|tr=a|sc=fa-Arab}}, {{tø|tly|ا|tr=a}}
-* Telugu: [[ఆ]] (aa)
+* Telugu: {{t|te|ఆ|tr=aa}}
 * Thai: {{t|th|นั่น|tr=nân}}
 * Ukrainian: {{t-|uk|той|m|tr=toj|xs=Ukrainian}}
 * Vietnamese: {{t|vi|đó}}, {{t|vi|cái đó}}, {{qualifier|further away}} {{t|vi|kia}}, {{t|vi|cái kia}}
-* Welsh: {{t|cy|hwnnw|xs=Welsh}},  {{t-|cy|'na|xs=Welsh}}
+* Welsh: {{t|cy|hwnnw|xs=Welsh}}, {{t-|cy|'na|xs=Welsh}}
 {{trans-bottom}}
 
 ====Derived terms====
@@ -224,7 +221,7 @@
 {{en-pron}}
 
 # {{context|demonstrative}} That thing or person. {{defdate|from 9th c.}}
-#* {{circa|1600}} [[w:William Shakespeare|William Shakespeare]], ''[[w:Hamlet|The Tragedy of Hamlet, Prince of Denmark]]'', [[s:The Tragedy of Hamlet, Prince of Denmark/Act 3|Act 3]], Scene 1:
+#* {{circa|1600}} {{w|William Shakespeare}}, ''{{w|Hamlet|The Tragedy of Hamlet, Prince of Denmark}}'', [[s:The Tragedy of Hamlet, Prince of Denmark/Act 3|Act 3]], Scene 1:
 #*: To be, or not to be: '''that''' is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them? {{...}}
 #* '''1990''', {{w|Peter Hopkirk}}, ''The Great Game'', Folio Society 2010, p. 310:
 #*: However {{...}}, the British were unable to do much about it short of going to war with St Petersburg, and '''that''' the government was unwilling to do.
@@ -248,13 +245,9 @@
 * Armenian: {{t-|hy|դա|tr=da}}
 * Aromanian: {{tø|rup|atsel|m}}
 * Bengali: {{qualifier|informal}} {{t|bn|ওইটা|tr=oiţa|sc=Beng}}, {{t|bn|ওটা|tr=oţa|sc=Beng}}, {{t|bn|সেইটা|tr=sheiţa|sc=Beng}}, {{t|bn|সেটা|tr=sheţa|sc=Beng}}; {{qualifier|formal}} {{t|bn|ওইটি|tr=oiţi|sc=Beng}}, {{t|bn|ওটি|tr=oţi|sc=Beng}}, {{t|bn|সেইটি|tr=sheiţi|sc=Beng}}, {{t|bn|সেটি|tr=sheţi|sc=Beng}}
-* Bosnian: {{t-|bs|to}}, {{t-|bs|ono|n}}
-* Bulgarian: [[това]] (tova)
+* Bulgarian: {{t|bg|това|tr=tova}}
 * Burmese: {{t-|my|အဲဒါ|tr=è:da|sc=Mymr|xs=Burmese}}, {{t|my|ဟို|tr=ho|sc=Mymr}}, {{t|my|ထို|tr=hto|sc=Mymr}}
-* Catalan:
-*: {{qualifier|near}} [[açò]]
-*: {{qualifier|neutral}} [[això]]
-*: {{qualifier|far}} [[allò]]
+* Catalan: {{qualifier|near}} {{t|ca|açò}}, {{qualifier|neutral}} {{t|ca|això}}, {{qualifier|far}} {{t|ca|allò}}
 * Chamicuro: {{tø|ccc|mashala}}
 * Chinese:
 *: [[Dungan]]: {{tø|dng|нагә|tr=nageh|sc=Cyrl}}
@@ -266,91 +259,87 @@
 * Danish: {{t+|da|det}}
 * Esperanto: {{t-|eo|tio|xs=Esperanto}}
 * Faroese: {{t|fo|hasin|m}}, {{t|fo|handa}}/{{t|fo|handan|f}}, {{t|fo|hatta|n}}
-* Finnish: {{t+|fi|tuo}},  {{t+|fi|se}}
+* Finnish: {{t+|fi|tuo}}, {{t+|fi|se}}
 * French: {{t+|fr|ça}}
-* German: {{t+|de|dieser|m}}, {{t+|de|diese|f}}, {{t+|de|dieses|n}}, {{t+|de|diese|p}},  {{t+|de|jener|m}},  {{t+|de|jene|f}},  {{t+|de|jenes|n}},  {{t+|de|jene|p}}
+* German: {{t+|de|dieser|m}}, {{t+|de|diese|f}}, {{t+|de|dieses|n}}, {{t+|de|diese|p}}, {{t+|de|jener|m}}, {{t+|de|jene|f}},  {{t+|de|jenes|n}}, {{t+|de|jene|p}}
 * Greek: {{t+|el|αυτός|m}}, {{t+|el|αυτή|f}}, {{t+|el|αυτό|n}}, {{t+|el|αυτοί|p}}, {{t+|el|αυτές|f|p}}, {{t+|el|αυτά|n|p}}
 * {{trreq|he}}
 * Hopi: {{tø|hop|pam}}
 * Hungarian: {{t+|hu|az|s}}, {{t+|hu|azok|p}}
 * Indonesian: {{t+|id|itu|xs=Indonesian}}
-* Interlingua: [[illo]], [[illos]] {{p}}
+* Interlingua: {{t|ia|illo}}, {{t|ia|illos|p}}
 * Irish: {{t|ga|sin}}, {{t|ga|siúd}}
 * Italian: {{t+|it|quello|m}}, {{t+|it|quella|f}}
 {{trans-mid}}
 * Japanese: {{qualifier|closer to listener}} {{t|ja|それ|tr=sore|sc=Jpan}}, {{qualifier|far from both speaker & listener}} {{t|ja|あれ|tr=are|sc=Jpan}}
 * Korean: {{qualifier|closer to listener}} {{t|ko|그것|tr=geugeot|sc=Kore}}, {{qualifier|far from both speaker & listener}} {{t|ko|저것|tr=jeogeot|sc=Kore}}
-* Lao: {{Laoo|[[ນັ້ນ]]}} (nan) ''near'', {{Laoo|[[ພຸ້ນ]]}} (phun) ''far''
+* Lao: {{t|lo|ນັ້ນ|tr=nan}} {{qualifier|near}}, {{t|lo|ພຸ້ນ|tr=phun}} {{qualifier|far}}
 * Latin: {{t+|la|iste|m}}, {{t|la|ista|f}}, {{t|la|istud|n}}, {{t|la|is|m}}, {{t|la|ea|f}}, {{t|la|id|n}}, {{t|la|ille|m}}, {{t|la|illa|n}}, {{t|la|illud|n}}, {{t|la|hic|m}}, {{t|la|haec|f}}, {{t|la|hoc|n}}
 * Lingua Franca Nova: [[acel]]
 * Lojban: {{t-|jbo|ta|xs=Lojban}}
 * Malay: {{t|ms|itu}}, {{t|ms|anu}} {{gloss|far}} {{qualifier|obsolete}}
 * Maltese: {{t-|mt|dak|m|xs=Maltese}}, {{t-|mt|dik|f|xs=Maltese}}, {{t-|mt|dawk|p|xs=Maltese}}
 * Navajo: {{tø|nv|éí}}
-* Novial: [[te]] {{m}} or {{f}} or {{n}}, [[tu]] {{n}}, [[to]] {{m}}, [[ta]] {{f}} ''plurals add'' -s
+* Novial: {{t|nov|te|m|f|n}}, {{t|nov|tu|n}}, {{t|nov|to|m}}, {{t|nov|ta|f}} ''plurals add'' -s
 * Old English: {{t+|ang|se|m|xs=Old English}}, {{t-|ang|seo|f|alt=sēo|xs=Old English}}, {{t+|ang|þæt|n|xs=Old English}}
 * Persian: {{t|fa|آن|tr=ân|sc=fa-Arab}}
 * Polish: {{t+|pl|ten|m}}, {{t+|pl|ta|f}}, {{t+|pl|to|n}}, {{t+|pl|te|p}}
-* Portuguese:
-*: {{qualifier|near}} [[esse]] {{m}}, [[essa]] {{f}}, [[esses]] {{p}}, [[essas]] {{f|p}}
-*: {{qualifier|far}} [[aquele]] {{m}}, [[aquela]] {{f}}, [[aqueles]] {{p}}, [[aquelas]] {{f|p}}
+* Portuguese: {{qualifier|near}} {{t|pt|esse|m}}, {{t|pt|essa|f}}; {{qualifier|far}} {{t|pt|aquele|m}}, {{t|pt|aquela|f}}
 * Rapa Nui: {{tø|rap|ena}}, {{tø|rap|era}}
-* Romanian: {{t+|ro|acel|m}}, {{t|ro|acea|f}}, {{t-|ro|ăla|m}} (informal), {{t-|ro|aia|f}} (informal)
+* Romanian: {{t+|ro|acel|m}}, {{t|ro|acea|f}}, {{t-|ro|ăla|m}} {{qualifier|informal}}, {{t-|ro|aia|f}} {{qualifier|informal}}
 * Russian: {{t+|ru|это|tr=éto}},  {{t+|ru|то|tr=to}}
-* Serbian:
-*: Cyrillic: [[то]], [[оно]] {{n}}
-*: Roman: [[to]], [[ono]] {{n}}
-* Sindhi: {{sd-Arab|[[اهو|اُهو]]}} {{m}}, {{sd-Arab|[[اها|اُها]]}} {{f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|то}}, {{t|sh|оно|n}}
+*: Roman: {{t|sh|to}}, {{t|sh|ono|n}}
+* Sindhi: {{t|sd|اهو|alt=اُهو|m}}, {{t|sd|اها|alt=اُها|f}}
 * Slovak: {{t-|sk|to|n}}
-* Spanish:
-*: {{qualifier|near}} [[ése]] {{m}}, [[ésa]] {{f}}, [[ésos]] {{p}}, [[ésas]] {{f|p}}
-*: {{qualifier|far}} [[aquél]] {{m}},  [[aquélla]] {{f}}, [[aquéllos]] {{p}}, [[aquéllas]] {{f|p}}
+* Spanish: {{qualifier|near}} {{t|es|ése|m}}, {{t|es|ésa|f}}; {{qualifier|far}} {{t|es|aquél|m}}, {{t|es|aquélla|f}}
 * Swedish: {{t+|sv|den|c}}, {{t+|sv|denna|c}}, {{t+|sv|den där|c}}, {{t+|sv|det|n}}, {{t+|sv|detta|n}}, {{t+|sv|det där|n}}
-* Telugu: [[అది]] (adi)
+* Telugu: {{t|te|అది|tr=adi}}
 * Thai: {{t|th|นั่น|tr=nân}}
 * Tunisian Arabic: {{tø|aeb|هذاك|m|alt=هَذَاكَ|tr=haḏāka|sc=Arab}},  {{tø|aeb|هَذِيكَ|f|tr=haḏīka|sc=Arab}}
 {{trans-bottom}}
 
 {{trans-top|which}}
 * Akkadian: {{tø|akk|𒊭|tr=ša|sc=Xsux}}
-* Armenian: [[որը]] (vorə)
-* Bosnian: [[koji]] {{m|s}}, [[koju]] {{f|s}}, [[koja]] {{n|p}}, [[koje]] {{m|f|p}}, and {{n|s}}
-* Bulgarian: [[който]] / [[която]] / [[което]] (kojto/kojato/koeto) {{m|f|n}}, [[когато]] (kogato)
-* Chinese: [[那]] (nà), [[那个]] (nàgè)
+* Armenian: {{t|hy|որը|tr=vorə}}
+* Bulgarian: {{t|bg|който}} / [[която]] / [[което]] (kojto/kojato/koeto) {{m|f|n}}, [[когато]] (kogato)
+* Chinese:
+*: Mandarin: {{t|cmn|那|tr=nà}}, {{t|cmn|那个|tr=nàgè}}
 * Cornish:
 *: Kernewek Kemmyn: [[a]]
 * Czech: {{t+|cs|jenž}}, {{t+|cs|který}}
 * Danish: {{t+|da|som}}
 * Dutch: {{t+|nl|dat|n}}, {{t+|nl|die}} {{m|f|p}}
-* Egyptian Arabic: {{Arab|[[إلى]]}} (ʔilli)
+* Egyptian Arabic: {{t|arz|إلى|tr=ʔilli}}
 * Esperanto: {{t+|eo|kiu|xs=Esperanto}}
 * Faroese: {{t-|fo|ið|xs=Faroese}}, {{t-|fo|sum|xs=Faroese}}
 * Finnish: {{t+|fi|joka}}, {{t+|fi|mikä}}
-* French: {{t+|fr|qui}} (nominative), {{t+|fr|que}} (accusative)
+* French: {{t+|fr|qui}} {{qualifier|nominative}}, {{t+|fr|que}} {{qualifier|accusative}}
 * Galician: {{t+|gl|que|xs=Galician}}
 * German: {{t+|de|der|m}}, {{t+|de|die|f}}, {{t+|de|das|n}}, {{t+|de|die|p}}
-* Greek: [[που]] (pou)
-* Hebrew: ...[[ש]] (še...)
-* Hungarian: [[ami]], [[amelyik]] (''the later means: '[[which]]' '')
+* Greek: {{t|el|που|tr=pou}}
+* Hebrew: ...{{t|he|ש|tr=še...}}
+* Hungarian: {{t|hu|ami}}, {{t|hu|amelyik}} {{qualifier|which}}
 * Indonesian: {{t-|id|yang|xs=Indonesian}}
-* Interlingua: [[que]]
+* Interlingua: {{t|ia|que}}
 {{trans-mid}}
 * Italian: {{t+|it|che}}
 * Japanese: {{not used|ja}}
 * Korean: {{not used|ko}}
 * Latin: {{t+|la|qui|m}}
 * Malay: {{t|ms|yang}}
-* Novial: [[kel]]
+* Novial: {{t|nov|kel}}
 * Old English: {{t-|ang|þe|xs=Old English}}
-* Persian: {{fa-Arab|[[كه|كِه]]}} (ke)
-* Portuguese: {{t+|pt|que}}, {{t+|pt|qual}}, {{t+|pt|quais|p}}
+* Persian: {{t|fa|كه|alt=كِه|tr=ke}}
+* Portuguese: {{t+|pt|que}}, {{t+|pt|qual}}
 * Romanian: pe [[care]]
-* Russian: [[который]] / [[которая]] / [[которое]] / [[которые]] (kotóryj/kotóraja/kotóroje/kotóryje) {{m|f|n|p}}, [[что]] (što)
-* Serbian:
-*:* Cyrillic: [[који]] {{m|s}}, [[коју]] {{f|s}}, [[која]] {{n|p}}, [[које]] {{m|f|p}}, and {{n|s}}
-*:* Roman: [[koji]] {{m|s}}, [[koju]] {{f|s}}, [[koja]] {{n|p}}, [[koje]] {{m|f|p}}, and {{n|s}}
-* Sindhi: {{sd-Arab|[[جيڪو]]}} {{m}}, {{sd-Arab|[[جيڪا]]}} {{f}}
-* Slovak: [[ktorý]] / [[ktorá]] / [[ktoré]] {{m|f|n}}, [[čo]]
+* Russian: {{t|ru|который}} / [[которая]] / [[которое]] / [[которые]] (kotóryj/kotóraja/kotóroje/kotóryje) {{m|f|n|p}}, {{t|ru|что|tr=što}}
+* Serbo-Croatian:
+*:* Cyrillic: {{t|sh|који|m|s}}, {{t|sh|коју|f|s}}, {{t|sh|која|n|p}}, {{t|sh|које|m|f|p}} and {{n|s}}
+*:* Roman: {{t|sh|koji|m|s}}, {{t|sh|koju|f|s}}, {{t|sh|koja|n|p}}, {{t|sh|koje|m|f|p}} and {{n|s}}
+* Sindhi: {{t|sd|جيڪو|m}}, {{t|sd|جيڪا|f}}
+* Slovak: {{t|sk|ktorý}} / [[ktorá]] / [[ktoré]] {{m|f|n}}, {{t|sk|čo}}
 * Slovene: {{t+|sl|ki}}
 * Spanish: {{t+|es|que}}
 * Swedish: {{t+|sv|som}}, {{t+|sv|vilken}}
@@ -390,6 +379,7 @@
 * Russian: {{t+|ru|настолько|tr=nastól'ko}}, {{t+|ru|так|tr=tak}}
 * Swedish: {{t+|sv|så}}
 {{trans-bottom}}
+
 {{trans-top|so, so much, very}}
 * Dutch: {{t+|nl|zo}}
 * Japanese: {{qualifier|see entry for construction}} {{t|ja|程|tr=hodo|sc=Jpan}}
@@ -398,6 +388,7 @@
 * Russian: {{t+|ru|настолько|tr=nastól'ko}}, {{t+|ru|так|tr=tak}}
 * Swedish: {{t+|sv|så}}
 {{trans-bottom}}
+
 {{checktrans-top}}
 * {{ttbc|de}}: {{t+|de|so}}
 {{trans-mid}}
@@ -426,7 +417,7 @@ From {{proto|Germanic|þat|lang=odt}}.
 ===Pronoun===
 {{head|odt|pronoun|cat2=demonstrative pronouns|g=n}}
 
-# [[#English|that]], [[that one]]
+# {{l|en|that}}, [[that one]]
 
 ===Determiner===
 {{head|odt|determiner|cat2=demonstrative determiners|g=n}}
