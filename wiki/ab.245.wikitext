@@ -141,19 +141,29 @@ From {{etyl|goh|de}} {{term|ab|lang=goh}}, from {{proto|Germanic|ab|lang=de}}.
 
 ==Irish==
 
-===Etymology===
-{{rfe|lang=ga}}
+===Etymology 1===
+From {{etyl|la|ga}} {{term|abbas||father|lang=la}}, from {{etyl|grc|ga}} {{term|ἀββᾶς|tr=abbas|lang=grc|sc=polytonic}}, from {{etyl|arc|ga}} {{term|אבא||father|lang=arc|tr=’abbā|sc=Hebr}}.
 
-===Noun===
+====Noun====
 {{ga-noun|g=m|aba|abaí}}
 
 # {{Christianity|lang=ga}} [[abbot]]
 
-====Declension====
+=====Declension=====
 {{ga-noun-m3|a|b|ba|baí}}
 
-====Coordinate terms====
+=====Coordinate terms=====
 * {{sense|gender}} {{l|ga|ban-ab}}
+
+===Etymology 2===
+Contraction of the relative particle {{term|a|lang=ga}} and the prevocalic variant of the past/conditional copula particle {{term|b'|lang=ga}}.
+
+====Particle====
+{{head|ga|particle}}
+
+# {{alternative form of|ba|lang=ga|nodot=yes}} {{qualifier|used in relative clauses before a vowel sound}}.
+#: {{usex|Fear maith '''ab''' ea é.|t=He was a good man.|lang=ga|inline=1}}
+#: {{usex|buachaill '''ab''' áirde ná mo dheartháir|t=A boy (who was) taller than my brother|lang=ga|inline=1}}
 
 ===Mutation===
 {{ga mut vowel}}
