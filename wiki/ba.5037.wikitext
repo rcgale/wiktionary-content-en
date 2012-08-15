@@ -66,13 +66,35 @@ From {{etyl|egy}} {{term|𓅽𓏤|tr=bA|sc=Egyp}}.
 ----
 ==Irish==
 
-===Pronunciation===
+===Etymology 1===
+====Pronunciation====
 * {{IPA|[bˠa]|lang=ga}}
 
-===Noun===
+====Noun====
 {{head|ga|noun form|g=f}}
 
 # {{plural of|bó|lang=ga}}
+#: {{usex|Tá na '''ba''' sa mhá.|t=The cows are in the field.|lang=ga|inline=1}}
+
+===Etymology 2===
+====Pronunciation====
+* {{IPA|[bˠə]|lang=ga}}
+
+====Particle====
+{{head|ga|particle}} {{qualifier|triggers [[Appendix:Irish mutations#Lenition|lenition]]}}
+
+# {{form of|past and conditional affirmative|is|lang=ga}}
+#: {{usex|'''Ba''' é Dónall an múinteoir.|t=Dónall was the teacher.|lang=ga|inline=1}}
+#: {{usex|'''Ba''' mhaith liom cupán tae.|t=I would like a cup of tea.|lang=ga|inline=1}}
+# {{form of|past and conditional direct relative|is|lang=ga}} {{gloss|used to introduce the comparative/superlative form of adjectives}}
+#: {{usex|fear '''ba''' shine ná m'athair|t=a man (who was) older than my father|lang=ga|inline=1}}
+
+=====Synonyms=====
+* {{sense|affirmative}} {{l|ga|b'}} {{qualifier|used before a vowel sound except for the pronouns ''é'', ''í'', ''iad'', ''ea''}}
+* {{sense|relative}} {{l|ga|ab}} {{qualifier|used before a vowel sound}}
+
+===Mutations===
+{{ga mut cons|b|a}}
 
 ----
 
