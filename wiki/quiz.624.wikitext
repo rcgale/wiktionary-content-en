@@ -35,7 +35,6 @@ The true etymology is unknown. The following have all been proposed:
 * Afrikaans: {{t|af|vasvrawedstryd}}
 * Chinese:
 *: Mandarin: {{t|zh|測驗|sc=Hani}}, {{t|zh|测验|tr=cèyàn|sc=Hani}}
-* Croatian: {{t-|hr|kviz|m}}
 * Czech: {{t-|cs|kvíz|m}}
 * Danish: {{t|da|quiz|c}}
 * Dutch: {{t+|nl|quiz}}
@@ -50,11 +49,13 @@ The true etymology is unknown. The following have all been proposed:
 * Norwegian: {{t-|no|quiz}}
 * Portuguese: {{t+|pt|quiz|m}}
 * Russian: {{t|ru|викторина|f|tr=viktorína|sc=Cyrl}}
-* Serbian: {{t|sr|квиз|m|tr=kviz|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|квиз|m|sc=Cyrl}}
+*: Roman: {{t|sh|kviz|m}}
 * Spanish: {{t+|es|prueba|f}}, {{t-|es|quiz|m}}
 * Swahili: {{t+|sw|chemsha bongo|xs=Swahili}}
 * Swedish: {{t|sv|frågesport|c}}, {{t|sv|frågespel|n}}
-* Vietnamese: [[thi]]<!--put this on the Vietnamese page: (meaning [[Test#Noun|test]])-->
+* Vietnamese: {{t|vi|thi}}<!--put this on the Vietnamese page: (meaning [[Test#Noun|test]])-->
 {{trans-bottom}}
 
 ===Verb===
@@ -65,21 +66,18 @@ The true etymology is unknown. The following have all been proposed:
 
 ====Translations====
 {{trans-top|hoax}}
-* Bosnian: {{t-|bs|šaliti se}}
-* German: [[Jux]] {{m}}, [[Scherz]] {{m}}, [[Schabernack]] {{m}}
-* Serbian:
-*: Cyrillic: [[шалити се]]
-*: Roman: [[šaliti se]]
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|шалити се}}
+*: Roman: {{t|sh|šaliti se}}
 {{trans-mid}}
 * Swahili: {{t+|sw|chemsha bongo|xs=Swahili}}
 {{trans-bottom}}
 
 {{trans-top|interrogate}}
-* Bosnian: {{t-|bs|ispitivati}}
 * German: {{t+|de|ausfragen}}
-* Serbian:
-*: Cyrillic: [[испитивати]]
-*: Roman: [[ispitivati]]
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|испитивати}}
+*: Roman: {{t|sh|ispitivati}}
 {{trans-mid}}
 * Spanish: {{t+|es|probar}}, {{t+|es|examinar}}
 {{trans-bottom}}
@@ -100,7 +98,7 @@ From {{etyl|en|da}} {{term|quiz|lang=en}}.
 ===Noun===
 {{da-noun|stem=quizz|en|er}}
 
-# [[quiz#English|quiz]] {{gloss|competition in the answering of questions}}
+# {{l|en|quiz}} {{gloss|competition in the answering of questions}}
 
 ====Inflection====
 {{da-noun-infl|stem=quizz|en|er|4=quiz'}}
@@ -115,7 +113,7 @@ From {{etyl|en|da}} {{term|quiz|lang=en}}.
 ===Noun===
 {{nl-noun|m|quizzen|quizje}}
 
-# [[#English|quiz]]
+# {{l|en|quiz}}
 
 ----
 
@@ -124,7 +122,7 @@ From {{etyl|en|da}} {{term|quiz|lang=en}}.
 ===Noun===
 {{head|it|noun|g=m}} {{inv}}
 
-# [[#English|quiz]]
+# {{l|en|quiz}}
 
 ====Derived terms====
 * [[telequiz]]
