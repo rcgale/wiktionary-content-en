@@ -263,19 +263,25 @@ Conjugation of [[eiga]].
 
 ==Irish==
 
+===Alternative forms===
+* {{l|ga|agá}}, {{l|ga|'gá}}, {{l|ga|'ghá}} {{qualifier|obsolete}}
+
 ===Etymology===
-Contraction of {{term|ag|lang=ga}} + {{term|a|lang=ga}}.
+Contraction of {{term|ag||progressive particle|lang=ga}} + {{term|a||possessive determiner|lang=ga}}.
 
 ===Pronoun===
 {{head|ga|pronoun|sort=a}} {{qualifier|triggers [[Appendix:Irish mutations#Lenition|lenition]] in the masculine singular, [[Appendix:Irish mutations#H-prothesis|''h''-prothesis]] in the feminine singular, and [[Appendix:Irish mutations#Eclipsis|eclipsis]] in the plural}}
 
 # [[him]], [[her]], [[it]], [[them]] {{qualifier|used before the verbal noun in the progressive to indicate a third person direct object}}
-#: {{usex|Táim '''á''' bhualadh|t=I am hitting him|inline=1|lang=ga}}
-#: {{usex|Táim '''á''' ól|t=I am drinking it|inline=1|lang=ga}} {{qualifier|referring to a masculine noun, e.g. {{term|bainne||milk|lang=ga}}}}
-#: {{usex|Táim '''á''' bualadh|t=I am hitting her|inline=1|lang=ga}}
-#: {{usex|Táim '''á''' hól|t=I am drinking it|inline=1|lang=ga}} {{qualifier|referring to a feminine noun, e.g. {{term|bláthach||buttermilk|lang=ga}}}}
-#: {{usex|Táim '''á''' mbualadh|t=I am hitting them|inline=1|lang=ga}}
-#: {{usex|Táim '''á''' n-ól|t=I am drinking them|inline=1|lang=ga}}
+#: {{usex|Táim '''á''' bhualadh.|t=I am hitting him.|inline=1|lang=ga}}
+#: {{usex|Táim '''á''' ól.|t=I am drinking it {{qualifier|referring to a masculine noun, e.g. {{term|bainne||milk|lang=ga}}}}.|lang=ga}}
+#: {{usex|Táim '''á''' bualadh.|t=I am hitting her.|inline=1|lang=ga}}
+#: {{usex|Táim '''á''' hól.|t=I am drinking it {{qualifier|referring to a feminine noun, e.g. {{term|bláthach||buttermilk|lang=ga}}}}.|lang=ga}}
+#: {{usex|Táim '''á''' mbualadh.|t=I am hitting them.|inline=1|lang=ga}}
+#: {{usex|Táim '''á''' n-ól.|t=I am drinking them.|inline=1|lang=ga}}
+# {{n-g|used as a quasi-reflexive pronoun in a sentence with passive semantics}}
+#: {{usex|Tá an buachaill '''á''' bhualadh.|t=The boy is being hit {{qualifier|literally "The boy is at his hitting"}}.|lang=ga}}
+#: {{usex|Tá an chloch '''á''' tógáil ag Séamas.|t=The stone is being lifted by Séamas {{qualifier|literally "The stone is at its lifting by Séamas"}}.|lang=ga}}
 
 ====Related terms====
 * {{l|ga|a}}
