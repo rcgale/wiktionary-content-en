@@ -264,24 +264,18 @@ Conjugation of [[eiga]].
 ==Irish==
 
 ===Etymology===
-From {{term|ag|lang=ga}} + {{term|a|lang=ga}}.
+Contraction of {{term|ag|lang=ga}} + {{term|a|lang=ga}}.
 
-===Contraction===
-{{head|ga|pronoun|sort=a}}
+===Pronoun===
+{{head|ga|pronoun|sort=a}} {{qualifier|triggers [[Appendix:Irish mutations#Lenition|lenition]] in the masculine singular, [[Appendix:Irish mutations#H-prothesis|''h''-prothesis]] in the feminine singular, and [[Appendix:Irish mutations#Eclipsis|eclipsis]] in the plural}}
 
-# [[at him]], [[at her]], [[at it]], [[at them]]
-
-====Usage notes====
-* Used before the verbal noun to indicate third person direct object;
-*# Triggers [[lenition]] when meaning [[him]], or [[it]] (if referring to a masculine noun):
-*#: '''{{l|ga|tá|Táim}} á {{l|ga|buail|bhualadh}}''' -- ''[[I]] [[be|am]] [[hit|hitting]] '''[[him]]'''''
-*#: '''{{l|ga|tá|Táim}} á {{l|ga|ól}}''' -- ''[[I]] [[be|am]] [[drink|drinking]] '''[[it]]'''''
-*# Triggers no change (or '''h''' before a vowel) when meaning [[her]], or [[it]] (if referring to a feminine noun):
-*#: '''{{l|ga|tá|Táim}} á {{l|ga|buail|bualadh}}''' -- ''[[I]] [[be|am]] [[hit|hitting]] '''[[her]]'''''
-*#: '''{{l|ga|tá|Táim}} á {{l|ga|ól|hól}}''' -- ''[[I]] [[be|am]] [[drink|drinking]] '''[[it]]'''''
-*# Triggers [[eclipsis]] (including '''n-''' before a vowel) when meaning [[them]]:
-*#: '''{{l|ga|tá|Táim}} á {{l|ga|buail|mbualadh}}''' -- ''[[I]] [[be|am]] [[hit|hitting]] '''[[them]]'''''
-*#: '''{{l|ga|tá|Táim}} á {{l|ga|ól|n-ól}}''' -- ''[[I]] [[be|am]] [[drink|drinking]] '''[[them]]'''''
+# [[him]], [[her]], [[it]], [[them]] {{qualifier|used before the verbal noun in the progressive to indicate a third person direct object}}
+#: {{usex|Táim '''á''' bhualadh|t=I am hitting him|inline=1|lang=ga}}
+#: {{usex|Táim '''á''' ól|t=I am drinking it|inline=1|lang=ga}} {{qualifier|referring to a masculine noun, e.g. {{term|bainne||milk|lang=ga}}}}
+#: {{usex|Táim '''á''' bualadh|t=I am hitting her|inline=1|lang=ga}}
+#: {{usex|Táim '''á''' hól|t=I am drinking it|inline=1|lang=ga}} {{qualifier|referring to a feminine noun, e.g. {{term|bláthach||buttermilk|lang=ga}}}}
+#: {{usex|Táim '''á''' mbualadh|t=I am hitting them|inline=1|lang=ga}}
+#: {{usex|Táim '''á''' n-ól|t=I am drinking them|inline=1|lang=ga}}
 
 ====Related terms====
 * {{l|ga|a}}
