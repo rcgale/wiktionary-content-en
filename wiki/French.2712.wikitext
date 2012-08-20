@@ -33,8 +33,8 @@ From {{etyl|enm}} {{term|Frenche|lang=enm}}, {{term|Frensch|lang=enm}}, {{term|F
 * Arabic: {{t+|ar|فرنسية|f|tr=faransíyya}}, {{t|ar|فرنساوية|f|tr=faransaawíyya|sc=Arab}}
 * Aragonese: {{t|an|franzés|xs=Aragonese}}
 * Aramaic:
-*: Syriac: [[ܦܪܢܣܝܐ]] (pransāya’) {{m}}
-*: Hebrew: [[פרנסיא]] (pransāya’) {{m}}
+*: Syriac: {{t|arc|ܦܪܢܣܝܐ|tr=pransāya’|m}}
+*: Hebrew: {{t|arc|פרנסיא|tr=pransāya’|m}}
 * Armenian: {{t+|hy|ֆրանսերեն|tr=franseren}}
 * Asturian: {{t+|ast|francés|xs=Asturian}}
 * Azeri: {{t+|az|Fransız dili|xs=Azeri}}
@@ -43,7 +43,6 @@ From {{etyl|enm}} {{term|Frenche|lang=enm}}, {{term|Frensch|lang=enm}}, {{term|F
 * Bavarian: {{tø|bar|Franzesisch}}
 * Belarusian: {{t-|be|французская мова|f|tr=francúzskaja móva|xs=Belarusian}}
 * Bikol Central: {{tø|bcl|Pranses}}
-* Bosnian: {{t+|bs|francuski|m}}
 * Breton: {{t+|br|galleg|m|xs=Breton}}
 * Bulgarian: {{t|bg|френски език|m|tr=frénski ezík|sc=Cyrl}}, {{t-|bg|френски|m|tr=frénski|sc=Cyrl}}
 * Catalan: {{t+|ca|francès|m}}
@@ -53,13 +52,12 @@ From {{etyl|enm}} {{term|Frenche|lang=enm}}, {{term|Frensch|lang=enm}}, {{term|F
 * Chinese:
 *: Cantonese: {{tø|yue|法文}}
 *: [[Hakka]]: {{tø|hak|Fap-vùn}}
-*: Mandarin: {{t-|cmn|法語|sc=Hani}},  {{t-|cmn|法语|tr=Fǎyǔ|sc=Hani}},  {{t|cmn|法文|tr=Fǎwén|sc=Hani}}
+*: Mandarin: {{t-|cmn|法語|sc=Hani}}, {{t-|cmn|法语|tr=Fǎyǔ|sc=Hani}}, {{t|cmn|法文|tr=Fǎwén|sc=Hani}}
 *: Min Dong: {{tø|cdo|Huák-ngṳ̄}}
 *: Min Nan: {{t-|nan|Hoat-gí|xs=Min Nan}}, {{tø|nan|法語}}
 * Cornish: {{t-|kw|Frenkek|xs=Cornish}}
 * Corsican: {{t|co|francese}}
 * Cree: {{t-|cr|ᐅᐱᔥᑎᑯᔮᐅᐊᔨᒧᐎᓐ|sc=Cans|xs=Cree}}
-* Croatian: {{t+|hr|francuski|m}}
 * Czech: {{t+|cs|francouzština|f}}, {{t|cs|francouzský jazyk|m}}
 * Danish: {{t+|da|fransk}}
 * Dhivehi: {{t-|dv|ފަރަންސޭސި|xs=Dhivehi}}
@@ -114,7 +112,7 @@ From {{etyl|enm}} {{term|Frenche|lang=enm}}, {{term|Frensch|lang=enm}}, {{term|F
 * Macedonian: {{t-|mk|француски јазик}}
 * Malay: {{t-|ms|bahasa Perancis|xs=Malay}}, {{t|ms|Perancis}}
 * Malayalam: {{t-|ml|ഫ്രഞ്ച് ഭാഷ|sc=Mlym|xs=Malayalam}}
-* Maltese: il-[[Franċiż]]
+* Maltese: il-{{t|mt|Franċiż}}
 * Manx: {{t-|gv|Frangish|xs=Manx}}
 * Mapudungun: {{tø|arn|fransia dungun}}
 * Marathi: {{t-|mr|फ्रान्सीय|sc=Deva|xs=Marathi}}
@@ -142,11 +140,11 @@ From {{etyl|enm}} {{term|Frenche|lang=enm}}, {{term|Frensch|lang=enm}}, {{term|F
 * [[Romansch]]: {{t|rm|lingua franzosa|f}}
 * Russian: {{t|ru|французский язык|m|tr=francúzskij jazýk}}, {{t+|ru|французский|m|tr=francúzskij}}
 * [[Scottish Gaelic]]: {{t-|gd|Frangais|f|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: {{t-|sr|француски|m|sc=Cyrl}}
-*: Roman: {{t-|sr|francuski|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|француски|m|sc=Cyrl}}
+*: Roman: {{t|sh|francuski|m}}
 * [[Silesian]]: {{tø|szl|francusko godka|f}}
-* [[Sindhi]]: {{sd-Arab|[[فرانسيسي|فِرانسِيسِي]]}} (firansīsī)
+* [[Sindhi]]: {{t|sd|فرانسيسي|alt=فِرانسِيسِي|tr=firansīsī}}
 * [[Sinhalese]]: {{t|si|ප්‍රංශ|tr=praṁśa|sc=Sinh|xs=Sinhalese}}, {{t|si|ප්‍රංශ භාෂාව|tr=praṁśa bhāṣāva|sc=Sinh}}
 * Slovak: {{t|sk|francúzština|f}}, {{t|sk|francúzsky jazyk|m}}
 * Slovene: {{t+|sl|francoščina|f}}
@@ -236,29 +234,28 @@ When used to refer collectively to people of France, the word ''French'' is prec
 * American Sign Language: [[F@NearForehead-HandPalmDown F@NearForehead-HandPalmUp HorizSmallTwist]]
 * Anglo-Norman: {{tø|xno|Franceis}},  {{tø|xno|Fraunceis}}
 * Aramaic:
-*: Syriac: [[ܦܪܢܣܝܐ]] (pransāyé) {{m}}
-*: Hebrew: [[פרנסיא]] (pransāyé) {{m}}
+*: Syriac: {{t|arc|ܦܪܢܣܝܐ|tr=pransāyé|m}}
+*: Hebrew: {{t|arc|פרנסיא|tr=pransāyé|m}}
 * Armenian: {{t|hy|ֆրանսիացիները|p|tr=fransiac’inerë}}
 * Belarusian: {{t-|be|французы|p|m|tr=francúzy|xs=Belarusian}}
-* Bosnian: {{t|bs|francuzi|m|p}}
 * Breton: {{t|br|Gallaoued|p|xs=Breton}}, {{t|br|Frañsizien|p|xs=Breton}}
 * Catalan: els {{t-|ca|francesos|m|p}}
 * Cherokee: {{t|chr|ᎠᏂᎦᎸᏥ|tr=Anigalvtsi|sc=Cher}}
-* Chinese: [[法國人]], [[法国人]] (fǎguó-rén)
-* Croatian: {{t-|hr|Francuzi|m|p}}
+* Chinese:
+*: Mandarin: {{t|cmn|法國人}}, {{t|cmn|法国人|tr=fǎguó-rén}}
 * Czech: {{t-|cs|Francouzi|m|p}}
 * Danish: {{t|da|franskmænd|m|p}}
 * Dutch: (de) {{t+|nl|Fransen||p}}, {{qualifier|pejorative}} {{t|nl|fransozen||p}}
 * Esperanto: ([[la#Esperanto|la]]) [[francoj]]
-* Estonian: [[prantslased]] {{p}}
-* Ewe: [[Fransetɔwo]] {{p}}
+* Estonian: {{t|et|prantslased|p}}
+* Ewe: {{t|ee|Fransetɔwo|p}}
 * Finnish: {{t+|fi|ranskalainen|p|alt=ranskalaiset}}
-* French: les [[Français]] {{p}}
-* German: die [[Franzosen]] {{p}}
-* Greek: {{t-|el|Γάλλοι|m|p}} (gálloi)
-* Gujarati: [[ફ્રાન્સીસી]] (frānsīsī)
+* French: les {{t|fr|Français|p}}
+* German: die {{t|de|Franzosen|p}}
+* Greek: {{t-|el|Γάλλοι|m|p|tr=gálloi}}
+* Gujarati: {{t|gu|ફ્રાન્સીસી|tr=frānsīsī}}
 * Hebrew: [[צרפתים]] (tsarfatím), [[ה־|ה]][[עם]] [[ה־|ה]][[צרפתי]]
-* Hindi: [[फ़्राँसीसी]] (frā.nsīsī)
+* Hindi: {{t|hi|फ़्राँसीसी|tr=frā.nsīsī}}
 * Hungarian: {{t+|hu|franciák|p}}
 * Icelandic: {{t+|is|Frakki|p|alt=Frakkar}}
 * Ilocano: {{tø|ilo|Frances}}
@@ -266,12 +263,12 @@ When used to refer collectively to people of France, the word ''French'' is prec
 {{trans-mid}}
 * Interlingua: [[franceses]] {{p}}
 * Italian: i [[francesi]] {{m|p}}
-* Japanese: [[フランス人]] (furansu-jin)
+* Japanese: {{t|ja|フランス人|tr=furansu-jin}}
 * Latin: [[Galli]], [[Francogalli]]
-* Latvian: [[francūži]]
+* Latvian: {{t|lv|francūži}}
 * Malay: [[orang Perancis]], {{t|ms|Perancis}}
 * Maltese: {{t-|mt|Franċiżi|xs=Maltese}}
-* Marathi: [[फ्रान्सीय]]
+* Marathi: {{t|mr|फ्रान्सीय}}
 * Navajo: {{tø|nv|Dáághahii dinéʼiʼ}}
 * Norwegian: {{t-|no|franskmenn|m|p}}
 * Novial: [[franses]] {{p}}
@@ -283,9 +280,9 @@ When used to refer collectively to people of France, the word ''French'' is prec
 * Romanian: {{t+|ro|francezi|m|p}}
 * Russian: {{t-|ru|французы|m|p|tr=frantsúzy}}
 * Scottish Gaelic: {{t-|gd|na Frangaich|m|p|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: {{t|sr|французи|m|p|sc=Cyrl}}
-*: Roman: {{t|sr|francuzi|m|p}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|французи|m|p|sc=Cyrl}}
+*: Roman: {{t|sh|francuzi|m|p}}
 * Slovene: [[Francozi]] {{m|p}}, [[Francozinje]] {{f|p}}
 * Spanish: {{t-|es|franceses|m|p}}
 * Swedish: {{t+|sv|fransman|alt=fransmän}}, {{t+|sv|fransos|alt=fransoser}}
@@ -416,7 +413,7 @@ When used to refer collectively to people of France, the word ''French'' is prec
 * Esperanto: {{t+|eo|franca|xs=Esperanto}}
 * Faroese: {{t|fo|franskur}}
 * Finnish: {{t+|fi|ranskalainen}}, {{t+|fi|Ranska|alt=Ranskan}}, {{t+|fi|ranska|alt=ranskan-}}
-* French: {{t+|fr|français|m}}, {{t|fr| française|f}}
+* French: {{t+|fr|français}}
 * Georgian: {{t|ka|ფრანგული|sc=Geor}}
 * German: {{t+|de|französisch}}
 * Greek: {{t+|el|γαλλικός|m|tr=gallikós}}
@@ -465,7 +462,7 @@ When used to refer collectively to people of France, the word ''French'' is prec
 * Esperanto: {{t+|eo|franca|xs=Esperanto}}
 * Faroese: {{t|fo|franskur}}
 * Finnish: {{t+|fi|ranskalainen}}
-* French: {{t+|fr|français|m}}, {{t+|fr|française|f}}
+* French: {{t+|fr|français}}
 * German: {{t+|de|französisch}}
 * Greek: {{t+|el|γαλλικός|m|tr=gallikós}}
 * Hebrew: {{t+|he|צרפתי|tr=tsarfati}}
@@ -507,10 +504,10 @@ When used to refer collectively to people of France, the word ''French'' is prec
 * Czech: {{t+|cs|francouzský}}
 * Danish: {{t+|da|fransk}}
 * Dutch: {{t+|nl|Frans}}
-* Esperanto: [[franca]], [[franclingva]]
+* Esperanto: {{t|eo|franca}}, [[franclingva]]
 * Faroese: {{t|fo|franskur}}
 * Finnish: {{t|fi|ranskankielinen}}, [[ranska|ranskan]]
-* French: {{t+|fr|français|m}}, {{t|fr| française|f}}
+* French: {{t+|fr|français}}
 * German: {{t+|de|französisch}}
 * Greek: {{t+|el|γαλλικός|m|tr=gallikós}}
 * Hebrew: {{t+|he|צרפתי|tr=tsarfati}}
@@ -571,13 +568,13 @@ When used to refer collectively to people of France, the word ''French'' is prec
 ====Alternative forms====
 * [[french]]
 
-====Derived terms====
-* [[Frenched]]
+====Synonyms====
+* [[French kiss]]
 
 ====Translations====
 {{trans-top|kiss (a person) while inserting one’s tongue into his or her mouth}}
 * Dutch: {{t-|nl|tongzoenen}}
-* French: {{t+|fr|rouler une pelle}},  {{t|fr|rouler un patin}}
+* French: {{t+|fr|rouler une pelle}}, {{t|fr|rouler un patin}}
 {{trans-mid}}
 * Polish: {{t+|pl|całować|alt=całować po francusku}}
 * Portuguese: {{t-|pt|beijar de língua}}
