@@ -368,16 +368,35 @@ From {{etyl|sga|ga}} {{term|in|lang=sga}}.
 {{head|ga|article}}
 
 # [[the]]
+#: {{usex|'''an''' t-uisce|t=the water|lang=ga|inline=1}}
+#: {{usex|'''an''' bhean|t=the woman|lang=ga|inline=1}}
+#: {{usex|'''an''' pháiste|t=of the child|lang=ga|inline=1}}
+#: {{usex|ag '''an''' gcailín/ag '''an''' chailín|t=at the girl|lang=ga|inline=1}}
 
-====Usage notes====
-Used in the following situations:
-* [[nominative]] [[singular]] [[masculine]] (triggers [[Appendix:Irish mutations#T-prothesis|''t-''prothesis]] of a vowel, e.g. ''an '''t-'''uisce'' "the water")
-* [[nominative]] [[singular]] [[feminine]] (triggers [[Appendix:Irish mutations#Lenition|lenition]], e.g. ''an '''bh'''ean'' "the woman")
-* [[genitive]] [[singular]] [[masculine]] (triggers [[Appendix:Irish mutations#Lenition|lenition]], e.g. ''an '''ph'''áiste'' "of the child")
-* [[dative]] [[singular]] [[masculine]] and [[feminine]] (triggers [[Appendix:Irish mutations#Eclipsis|eclipsis]] or [[Appendix:Irish mutations#Lenition|lenition]] depending on dialect, e.g. ''ag an '''gc'''ailín''/''ag an '''ch'''ailín'' "at the girl")
-
-====Related terms====
-* {{l|ga|na}}
+====Declension====
+{| class=wikitable
+! Case
+! Masculine singular
+! Feminine singular
+! Plural
+|-
+! Nominative/accusative
+| [[an]]<sup>T</sup>
+| [[an]]<sup>L</sup>
+| {{l|ga|na}}<sup>H</sup>
+|-
+! Genitive
+| [[an]]<sup>L</sup>
+| {{l|ga|na}}<sup>H</sup>
+| {{l|ga|na}}<sup>N</sup>
+|-
+! Dative
+| (ag) [[an]]<sup>DM</sup>
+| (ag) [[an]]<sup>DF</sup>
+| {{l|ga|na}}<sup>H</sup>
+|-
+| colspan=4 | DF: triggers [[Appendix:Irish mutations#Eclipsis|eclipsis]] or [[Appendix:Irish mutations#Lenition|lenition]] depending on dialect; no lenition of ''d, t''; changes ''s'' to ''ts'' (pronounced like ''t'')<br/>DM: triggers [[Appendix:Irish mutations#Eclipsis|eclipsis]] or [[Appendix:Irish mutations#Lenition|lenition]] depending on dialect; no lenition of ''d, t, s''<br/>H: triggers [[Appendix:Irish mutations#H-prothesis|''h''-prothesis]]<br/>L: triggers [[Appendix:Irish mutations#Lenition|lenition]] except of ''d, t''; changes ''s'' to ''ts'' (pronounced like ''t'')<br/>N: triggers [[Appendix:Irish mutations#Eclipsis|eclipsis]]<br/>T: triggers [[Appendix:Irish mutations#T-prothesis|''t-''prothesis]] of a vowel
+|}
 
 ===Particle===
 {{head|ga|particle|interrogative}}
