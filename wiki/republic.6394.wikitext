@@ -16,8 +16,8 @@ From {{etyl|fr}} {{term|république|république|republic|lang=fr}}, derived from
 
 # A [[state]] where [[sovereignty]] rests with the [[people]] or their [[representatives]], rather than with a [[monarch]] or [[emperor]]; a [[country]] with no [[monarchy]].
 #: ''The United States is a '''republic'''; Great Britain is technically a monarchy.''
-# A state, which may or may not be a monarchy, in which the [[executive]] and [[legislative]] [[branch of government|branches of government]] are separate. (''archaic'')
-#: ''Republicanism is the political principle of the separation of the executive power (the administration) from the legislative; despotism is that of the autonomous execution by the state of laws which it has itself decreed. ... Therefore, we can say: the smaller the personnel of the government (the smaller the number of rulers), the greater is their representation and the more nearly the constitution approaches to the possibility of republicanism; thus the constitution may be expected by gradual reform finally to raise itself to republicanism ... None of the ancient so-called "'''republics'''" knew this system, and they all finally and inevitably degenerated into despotism under the sovereignty of one, which is the most bearable of all forms of despotism.'' &mdash; [[wikipedia:Immanuel Kant|Immanuel Kant]], [[wikipedia:Perpetual Peace|Perpetual Peace]]
+# {{archaic}} A state, which may or may not be a monarchy, in which the [[executive]] and [[legislative]] [[branch of government|branches of government]] are separate.
+#: ''Republicanism is the political principle of the separation of the executive power (the administration) from the legislative; despotism is that of the autonomous execution by the state of laws which it has itself decreed. ... Therefore, we can say: the smaller the personnel of the government (the smaller the number of rulers), the greater is their representation and the more nearly the constitution approaches to the possibility of republicanism; thus the constitution may be expected by gradual reform finally to raise itself to republicanism ... None of the ancient so-called "'''republics'''" knew this system, and they all finally and inevitably degenerated into despotism under the sovereignty of one, which is the most bearable of all forms of despotism.'' &mdash; {{w|Immanuel Kant}}, {{w|Perpetual Peace}}
 # One of the [[subdivision]]s constituting [[Russia]]. See [[oblast]].
 #: ''The '''Republic''' of Udmurtia is west of the Permian Oblast.''
 
@@ -33,12 +33,13 @@ From {{etyl|fr}} {{term|république|république|republic|lang=fr}}, derived from
 * Arabic: {{t|ar|جمهورية|f|tr=jumhuriyya|sc=Arab}}
 *: [[Egyptian Arabic]]: {{tø|arz|جمهورية|f|tr=gumhoreya|sc=Arab}}
 * Armenian: {{t-|hy|հանրապետություն|tr=hanrapetut’yun}}
+* Asturian: {{t|ast|república|f}}
 * Azeri: {{t-|az|respublika|xs=Azeri}}, {{t|az|cümhuriyyət}}
 * Belarusian: {{t|be|рэспубліка|f|tr=respúblika|sc=Cyrl}}
 * Bulgarian: {{t|bg|република|f|tr=repúblika|sc=Cyrl}}
 * Burmese: {{t|my|သမ္မတနိုင်ငံ|tr=thama̱da. nain gan|sc=Mymr}}
 * Catalan: {{t|ca|república|f}}
-* Chechen: [[пачхьалкх]]
+* Chechen: {{t|cc|пачхьалкх}}
 * Chinese:
 *: Mandarin: {{t|zh|共和國|sc=Hani}}, {{t|zh|共和国|tr=gònghéguó|sc=Hani}}
 * Crimean Tatar: {{tø|crh|cumhuriyet}}
@@ -51,10 +52,11 @@ From {{etyl|fr}} {{term|république|république|republic|lang=fr}}, derived from
 * Faroese: {{t|fo|lýðveldi|n}}
 * Finnish: {{t+|fi|tasavalta}}
 * French: {{t+|fr|république|f}}
+* Galician: {{t|gl|república|f}}
 * Georgian: {{t-|ka|რესპუბლიკა|tr=respublika|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Republik|f}}
 * Greek:
-*: Ancient: [[πολιτεία]] {{f}}
+*: Ancient: {{t|grc|πολιτεία|f}}
 *: Modern: {{t+|el|δημοκρατία|f|tr=ðīmokratía}}
 * Haitian Creole: {{tø|ht|repiblik}}
 * Hebrew: {{t|he|רפובליקה|f|tr=repúblika|sc=Hebr}}
@@ -71,7 +73,7 @@ From {{etyl|fr}} {{term|république|république|republic|lang=fr}}, derived from
 * Khmer: {{t|km|សាធារណរដ្ឋ|tr=sa thea rak nak roth|sc=Khmr}}
 * Korean: {{t|ko|공화국|tr=gonghwaguk|sc=Kore}} ({{t|ko|共和國|sc=Kore}})
 * Kurdish:
-*: Sorani: {{ku-Arab|[[جمهوریه‌ت]]}}
+*: Sorani: {{t|ku|جمهوریه‌ت}}
 * Kyrgyz: {{t|ky|республика|tr=respublika|sc=Cyrl}}
 * Ladino: {{tø|lad|repúvlika|f}}
 * Lao: {{t|lo|ສາທາລະນະລັດ|tr=sā thā la na lat|sc=Laoo}}
@@ -85,7 +87,7 @@ From {{etyl|fr}} {{term|république|république|republic|lang=fr}}, derived from
 * Northern Sami: {{tø|se| dásseváldi}}
 * Norwegian: {{t+|no|republikk|m}}
 * Persian: {{t|fa|جمهوری|tr=jomhuri|sc=fa-Arab}}
-* Polish: {{l|pl|republika}} {{f}}, [[rzeczpospolita]] {{f}} {{qualifier|special cases}}
+* Polish: {{l|pl|republika|f}}, {{t|pl|rzeczpospolita|f}} {{qualifier|special cases}}
 * Portuguese: {{t+|pt|república|f}}
 * Romanian: {{t-|ro|republică|f}}
 * Russian: {{t+|ru|республика|f|tr=respúblika}}
@@ -112,11 +114,9 @@ From {{etyl|fr}} {{term|république|république|republic|lang=fr}}, derived from
 
 {{trans-top|one of the kinds of parts constituting Russia}}
 * Armenian: {{t-|hy|հանրապետություն|tr=hanrapetut’yun}}
-* Bosnian: {{t-|bs|republika|f}}
 * Catalan: {{t|ca|república|f}}
 * Chinese:
 *: Mandarin: {{zh-ts|共和國|共和国}} (gònghéguó)
-* Croatian: {{t-|hr|republika|f}}
 * Czech: {{t|cs|republika}}
 * Dutch: {{t+|nl|republiek|f}}
 * Finnish: {{t+|fi|tasavalta}}
@@ -131,9 +131,9 @@ From {{etyl|fr}} {{term|république|république|republic|lang=fr}}, derived from
 * Macedonian: {{t-|mk|република|f|tr=repúblika}}
 * Norwegian: {{t+|no|republikk|m}}
 * Russian: {{t+|ru|республика|f|tr=r'espúblika}}
-* Serbian:
-*: Cyrillic: [[република#Serbian|република]] {{f}}
-*: Roman: [[republika#Serbian|republika]] {{f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|република|f|sc=Cyrl}}
+*: Roman: {{t|sh|republika|f}}
 * Spanish: {{t+|es|república|f}}
 * Swedish: {{t|sv|delrepublik|c}}
 * Volapük: {{t|vo|repüblikän}}, {{t|vo|dilarepüblikän}}
