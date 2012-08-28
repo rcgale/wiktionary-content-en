@@ -28,6 +28,8 @@ From {{etyl|la}} {{term|vapor||steam, heat|lang=la}}.
 {{trans-see|steam}}
 
 {{trans-top|the gaseous  state of a substance that is normally a solid or liquid}}
+* Asturian: {{t|ast|vapor|m}}
+* Catalan: {{t|ca|vapor|m}}
 * Chinese:
 *: Mandarin: {{t|zh|蒸氣|sc=Hani}}, {{t|zh|蒸气|tr=zhēngqì|sc=Hani}}
 * Czech: {{t-|cs|pára|f}}
@@ -35,8 +37,9 @@ From {{etyl|la}} {{term|vapor||steam, heat|lang=la}}.
 * Estonian: {{t-|et|aur}}
 * Finnish: {{t+|fi|höyry}}
 * French: {{t+|fr|vapeur|f}}
+* Galician: {{t|gl|vapor|m}}
 * German: {{t+|de|Dampf|m}}
-* Interlingua: [[vapor#Interlingua|vapor]]
+* Interlingua: {{t|ia|vapor}}
 * Italian: {{t+|it|gas|m}}, {{t+|it|vapore|m}}
 {{trans-mid}}
 * Japanese: {{t+|ja|気体|tr=[[きたい]], kitai}}
@@ -80,10 +83,12 @@ From {{etyl|la}} {{term|vapor||steam, heat|lang=la}}.
 
 ====Translations====
 {{trans-top|intransitive: to become vapor; to be emitted or circulated as vapor}}
-* Bosnian: {{t|bs|isparavati}}
 * German: {{t|de|verdampfen}}, {{t|de|dampfen}}
 {{trans-mid}}
 * Japanese: {{t+|ja|蒸発|alt=蒸発する|tr=[[じょうはつする]], jōhatsu suru}}, {{t|ja|揮発|alt=揮発する|tr=[[きはつする]], kihatsu suru}}, {{t+|ja|気化|alt=気化する|tr=[[きかする]], kika suru}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|испаравати}}
+*: Roman: {{t|sh|isparavati}}
 {{trans-bottom}}
 
 {{trans-top|transitive: to turn into vapor}}
@@ -91,6 +96,9 @@ From {{etyl|la}} {{term|vapor||steam, heat|lang=la}}.
 * German: {{t|de|verdampfen}}
 {{trans-mid}}
 * Japanese: {{t+|ja|蒸発|alt=蒸発させる|tr=[[じょうはつさせる]], jōhatsu saseru}}, {{t|ja|揮発|alt=揮発させる|tr=[[きはつさせる]], kihatsu saseru}}, {{t+|ja|気化|alt=気化させる|tr=[[きかさせる]], kika saseru}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|испарити}}
+*: Roman: {{t|sh|ispariti}}
 {{trans-bottom}}
 
 {{trans-top|intransitive: to use insubstantial language; to boast or bluster}}
@@ -107,23 +115,48 @@ From {{etyl|la}} {{term|vapor||steam, heat|lang=la}}.
 ==Albanian==
 
 ===Noun===
-'''vapor'''
+{{head|sq|noun}}
 
 # [[steamboat]]
 
-[[Category:Albanian nouns]]
+----
+
+==Asturian==
+
+===Etymology===
+From {{etyl|la|ast}} {{term|vapor|lang=la}}.
+
+===Noun===
+{{ast-noun|m|vapores}}
+
+# {{l|en|vapor}}
+
+----
+
+==Catalan==
+
+===Etymology===
+From {{etyl|la|ca}} {{term|vapor|lang=la}}.
+
+===Noun===
+{{ca-noun|m}}
+
+# {{l|en|vapor}}
 
 ----
 
 ==Galician==
 
+===Etymology===
+From {{etyl|la|gl}} {{term|vapor|lang=la}}.
+
 ===Noun===
 {{gl-noun|m|vapores}}
 
-# [[#English|vapor]]
+# {{l|en|vapor}}
 
 ====Synonyms====
-* {{sense|vapor}} [[gas]]
+* {{sense|vapor}} {{l|gl|gas}}
 
 [[Category:gl:Chemistry]]
 
@@ -176,10 +209,13 @@ From {{etyl|la}} {{term|vapor||steam, heat|lang=la}}.
 
 ====Descendants====
 {{top2}}
+* Asturian: {{l|ast|vapor}}
+* Catalan: {{l|ca|vapor}}
 * English: {{l|en|vapor}}
-* French: [[vapeur]]
-* Italian: {{l|it|vapore}}
+* French: {{l|fr|vapeur}}
+* Galician: {{l|gl|vapor}}
 {{mid2}}
+* Italian: {{l|it|vapore}}
 * Portuguese: {{l|pt|vapor}}
 * Romanian: {{l|ro|vapor}}
 * Spanish: {{l|es|vapor}}
@@ -190,19 +226,19 @@ From {{etyl|la}} {{term|vapor||steam, heat|lang=la}}.
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|la|pt}} [[vapor#Latin|vapor]].
+From {{etyl|la|pt}} {{term|vapor|lang=la}}.
 
 ===Pronunciation===
-* (Portugal) {{IPA|/va'poɾ/|lang=pt}}
-* (Paulista) {{IPA|/va'poɹ/|lang=pt}}
-* (South Brazil) {{IPA|/va'poɻ/|lang=pt}}
-* (Carioca) {{IPA|/va'pox/|lang=pt}}
-* (Northeast Brazil) {{IPA|/va'po/|lang=pt}}
+* {{a|Portugal}} {{IPA|/va'poɾ/|lang=pt}}
+* {{a|Paulista}} {{IPA|/va'poɹ/|lang=pt}}
+* {{a|South Brazil}} {{IPA|/va'poɻ/|lang=pt}}
+* {{a|Carioca}} {{IPA|/va'pox/|lang=pt}}
+* {{a|Northeast Brazil}} {{IPA|/va'po/|lang=pt}}
 
 ===Noun===
 {{pt-noun|m|vapores}}
 
-# [[vapor#English|vapor]] / [[vapour]]
+# {{l|en|vapor}} / [[vapour]]
 
 ===Anagrams===
 * [[prova#Portuguese|prova]]
@@ -229,6 +265,9 @@ From {{etyl|it|ro}} {{term|vapore|lang=it}}, {{etyl|fr|ro}} {{term|vapeur|lang=f
 ----
 
 ==Spanish==
+
+===Etymology===
+From {{etyl|la|es}} {{term|vapor|lang=la}}.
 
 ===Pronunciation===
 * {{IPA|[baˈpoɾ]|lang=es}}
