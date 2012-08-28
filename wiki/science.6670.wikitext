@@ -2,10 +2,10 @@
 {{wikipedia}}
 
 ===Etymology 1===
-From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||knowledge|lang=la}}, from {{term|sciens|lang=la}}, the [[present participle]] stem of {{term|scire||know}}.
+From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||knowledge|lang=la}}, from {{term|sciens|lang=la}}, the [[present participle]] stem of {{term|scire||know|lang=la}}.
 
 ====Pronunciation====
-* {{IPA|/ˈsaɪəns/|/ˈsaɪɛns/}}
+* {{IPA|/ˈsaɪəns/|/ˈsaɪɛns/}}, {{X-SAMPA|/"saI@ns/|/"saIEns/}}
 * {{audio|en-us-science.ogg|Audio (US)}}
 * {{audio|en-ca-science.ogg|Audio (CA)}}
 * {{rhymes|aɪəns}}
@@ -22,7 +22,7 @@ From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||k
 #* '''1611''', [[w:King James Version of the Bible|King James Version of the Bible]], ''[[s:Bible (King James)/1 Timothy|I Timothy]] 6:20-21''
 #*: O Timothy, keep that which is committed to thy trust, avoiding vain and profane babblings, and oppositions of '''science''' falsely so called: Which some professing have erred concerning the faith. Grace be with thee. Amen.
 # {{uncountable}} The collective discipline of study or learning acquired through the [[scientific method]]; the sum of knowledge gained from such methods and discipline. {{defdate|from 18th c.}}
-#* '''1951''' January 1, [[w:Albert Einstein|Albert Einstein]], letter to Maurice Solovine, as published in ''Letters to Solovine'' (1993)
+#* '''1951''' January 1, {{w|Albert Einstein}}, letter to Maurice Solovine, as published in ''Letters to Solovine'' (1993)
 #*: I have found no better expression than "religious" for confidence in the rational nature of reality'' [...] ''Whenever this feeling is absent, '''science''' degenerates into uninspired empiricism.
 # {{uncountable}} Knowledge derived from scientific disciplines, scientific method, or any systematic effort.
 #* {{quote-journal|year=2001|date=September|volume=110|issue=7|page=30|title=Over the rainbow|author=Neil deGrasse Tyson|journal=Natural History|passage=While much good '''science''' has come from the Hubble telescope (including the most reliable measure to date for the expansion rate of the universe), you would never know from media accounts that the foundation of our cosmic knowledge continues to flow primarily from the analysis of spectra and not from looking at pretty pictures.}}
@@ -131,10 +131,10 @@ From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||k
 * Arabic: {{t|ar|علم|m|tr=ʕilm|sc=Arab}}
 * Armenian: {{t-|hy|գիտություն|tr=gitut’yun}}
 * Aromanian: {{tø|rup|shciintsã|f}}
+* Asturian: {{t|ast|ciencia|f}}
 * Bavarian: {{tø|bar|Wissnschåft}}
 * Belarusian: {{t|be|навука|f|tr=navúka|sc=Cyrl}}
 * Bengali: {{t+|bn|বিজ্ঞান|tr=biggan|sc=Beng|xs=Bengali}}
-* Bosnian: {{t-|bs|nauka|f}}
 * Bulgarian: {{t|bg|наука|f|tr=naúka|sc=Cyrl}}
 * Burmese: {{t|my|သိပ္ပံ|sc=Mymr}}
 * Catalan: {{t|ca|ciència|f}}
@@ -142,7 +142,6 @@ From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||k
 *: Cantonese: {{tø|yue|科學|tr=fo1 hok6|sc=Hani|xs=Cantonese}}
 *: Mandarin: {{t|zh|科學|sc=Hani}}, {{t|zh|科学|tr=kēxué|sc=Hani}}
 *: [[Min Nan]]: {{tø|nan|科學|tr=kho-ha̍k|sc=Hans}}
-* Croatian: {{t+|hr|znanost|f}}
 * Czech: {{t+|cs|věda|f}}
 * Danish: {{t|da|videnskab}}, {{t|da|videnskabelighed}}
 * Dutch: {{t+|nl|wetenschap|f}}
@@ -150,6 +149,7 @@ From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||k
 * Faroese: {{t|fo|vísindi|n|p}}
 * Finnish: {{t+|fi|tiede}}
 * French: {{t|fr|science|f}}
+* Galician: {{t|gl|ciencia|f}}
 * Georgian: {{t|ka|მეცნიერება|tr=mec’niereba|sc=Geor}}
 * German: {{t+|de|Wissenschaft|f}}
 * Greek: {{t+|el|επιστήμη|f}}
@@ -164,7 +164,7 @@ From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||k
 * Khmer: {{t|km|វិទ្យាសាស្ត្រ|tr=wittyiesaah|sc=Khmr}}
 * Korean: {{t+|ko|과학|tr=gwahak|sc=Hang}} ({{t|ko|科學|sc=Kore}})
 * Kurdish:
-*: Sorani: {{ku-Arab|[[زانستی]]}}
+*: Sorani: {{t|ku|زانستی}}
 {{trans-mid}}
 * Lao: {{t-|lo|ວິທະຍາສາດ|tr=withañaa-saat|sc=Laoo|xs=Lao}}
 * Latin: {{t-|la|scientia|f}}
@@ -182,9 +182,9 @@ From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||k
 * Russian: {{t+|ru|наука|f|tr=naúka}}
 * Saterland Frisian: [[Wietenskup]] {{f}}
 * Scottish Gaelic: {{t-|gd|eòlas|m|xs=Scottish Gaelic}}, {{t-|gd|saidheans|m|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: {{t-|sr|наука|f|sc=Cyrl}}, {{t-|sr|знаност|f|sc=Cyrl}}
-*: Roman: {{t-|sr|nauka|f}}, {{t-|sr|znanost|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|наука|f|sc=Cyrl}}, {{t|sh|знаност|f|sc=Cyrl}}
+*: Roman: {{t|sh|nauka|f}}, {{t|sh|znanost|f}}
 * Sinhalese: {{t|si|විද්‍යාව|tr=vidyāva|sc=Sinh}}
 * Slovak: {{t|sk|veda|f}}, {{t|sk|náuka|f}}
 * Slovene: {{t+|sl|znanost|f}}
@@ -205,44 +205,43 @@ From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||k
 {{trans-bottom}}
 
 {{trans-top|particular discipline or branch of learning}}
-* Afrikaans: [[wetenskap]]
-* Arabic: {{Arab|[[علم]]}} {{IPAchar|(ʕelm)}} {{m}}
+* Afrikaans: {{t|af|wetenskap}}
+* Arabic: {{t|ar|علم|tr=ʕelm|m}}
 * Armenian: {{t-|hy|գիտություն|tr=gitut’yun}}
-* Bosnian: {{t-|bs|nauka|f}}
 * Catalan: {{t|ca|ciència|f}}
-* Chinese: [[科學]], [[科学]] (kēxué)
-* Croatian: {{t+|hr|znanost|f}}
+* Chinese:
+*: Mandarin: {{t|zh|科學}}, {{t|zh|科学|tr=kēxué}}
 * Czech: {{t|cs|věda}}
 * Danish: {{t|da|videnskab}}
 * Dutch: {{t+|nl|wetenschap|f}}
-* Estonian: -[[teadus]], [[teadusala]]
-* Finnish: -[[tiede]], [[tieteenala]]
+* Estonian: -[[teadus]], {{t|et|teadusala}}
+* Finnish: -[[tiede]], {{t|fi|tieteenala}}
 * French: {{t+|fr|science|f}}
 * German: {{t+|de|Wissenschaft|f}}
-* Greek: {{t+|el|επιστήμη|f}} (epistími)
+* Greek: {{t+|el|επιστήμη|f|tr=epistími}}
 * Hebrew: {{t+|he|מדע|m|tr=madá}}
 * Hungarian: {{t+|hu|tudomány}}
 * Icelandic: {{t+|is|fræði|n}}
-* Interlingua: [[scientia#Interlingua|scientia]]
+* Interlingua: {{t|ia|scientia}}
 * Irish: {{t-|ga|eolaíocht|f|xs=Irish}}
 * Italian: {{t+|it|scienza|f}}
-* Japanese: {{t+|ja|科学}} ([[かがく]], kagaku)
+* Japanese: {{t+|ja|科学|tr=かがく, kagaku}}
 * Khmer: {{t|km|វិទ្យាសាស្ត្រ|tr=wityīə sāh|sc=Khmr}}
 {{trans-mid}}
 * Korean: {{t+|ko|과학|tr=gwahak|sc=Hang}}
 * Latvian: {{t|lv|zinātne|g=f}}
 * Malay: [[bidang]] [[sains]]
-* Malayalam: [[ശാസ്‌ത്രം]] (Saasthram)
+* Malayalam: {{t|ml|ശാസ്‌ത്രം|tr=Saasthram}}
 * Maltese: {{t-|mt|xjenza|xs=Maltese}}
 * Norwegian: {{t+|no|vitenskap}}
 * Portuguese: {{t+|pt|ciência|f}}
 * Romanian: {{t-|ro|materie|f}}
-* Russian: {{t+|ru|наука|f|tr=}}, {{qualifier|Ukraine}} {{t|ru|дисциплина|f|tr=distsyplína|sc=Cyrl}}
+* Russian: {{t+|ru|наука|f}}, {{qualifier|Ukraine}} {{t|ru|дисциплина|f|tr=distsyplína|sc=Cyrl}}
 * Saterland Frisian: [[Wietenskup]] {{f}}
-* Scottish Gaelic: [[eòlas]] {{m}}
-* Serbian:
-*: Cyrillic: {{t-|sr|наука|f|sc=Cyrl}}, {{t-|sr|знаност|f|sc=Cyrl}}
-*: Roman: {{t-|sr|nauka|f}}, {{t-|sr|znanost|f}}
+* Scottish Gaelic: {{t|gd|eòlas|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|наука|f|sc=Cyrl}}, {{t|sh|знаност|f|sc=Cyrl}}
+*: Roman: {{t|sh|nauka|f}}, {{t|sh|znanost|f}}
 * Slovene: {{t+|sl|znanost|f}}
 * Spanish: {{t+|es|ciencia|f}}
 * Swedish: {{t+|sv|vetenskap}}
@@ -255,8 +254,6 @@ From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||k
 {{trans-bottom}}
 
 {{trans-top|fact of knowing something}}
-* Bosnian: {{t-|bs|nauka|f}}, {{t-|bs|znanje|n}}
-* Croatian: {{t+|hr|znanje|n}}
 * Danish: {{t|da|viden}}
 * Dutch: {{t+|nl|weten|n}}, {{t+|nl|wetenschap|f}}
 * Finnish: {{t+|fi|tieto}}
@@ -265,16 +262,16 @@ From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||k
 * Icelandic: {{t+|is|vísindi|n}}, {{t+|is|fræði|n}}
 * Italian: {{t+|it|scienza|f}}
 * Japanese: {{t+|ja|知識|tr=chishiki}}
-* Latvian: [[zinātne]] {{f}}
-* Malayalam: [[ശാസ്‌ത്രം]] (Saasthram)
+* Latvian: {{t|lv|zinātne|f}}
+* Malayalam: {{t|ml|ശാസ്‌ത്രം|tr=Saasthram}}
 {{trans-mid}}
 * Maltese: {{t-|mt|xjenza|f|xs=Maltese}}
 * Portuguese: {{t+|pt|ciência|f}}
 * Romanian: {{t+|ro|știință|f}}
-* Scottish Gaelic: [[eòlas]] {{m}}
-* Serbian:
-*: Cyrillic: {{t-|sr|наука|f|sc=Cyrl}}, {{t-|sr|знање|n|sc=Cyrl}}
-*: Roman: {{t-|sr|nauka|f}}, {{t-|sr|znanje|n}}
+* Scottish Gaelic: {{t|gd|eòlas|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|наука|f|sc=Cyrl}}, {{t|sh|знање|n|sc=Cyrl}}
+*: Roman: {{t|sh|nauka|f}}, {{t|sh|znanje|n}}
 * Slovene: {{t+|sl|znanje|n}}
 * Swedish: {{t|sv|vetande|n}}
 * Ukrainian: {{t|uk|знання|n|tr=znann'á|sc=Cyrl}}
@@ -284,8 +281,6 @@ From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||k
 
 {{trans-top|knowledge gained through study or practice}}
 * Armenian: {{t|hy|գիտելիք|tr=gitelik’}}
-* Bosnian: {{t-|bs|nauka|f}}, {{t-|bs|znanje|n}}
-* Croatian: {{t+|hr|znanje|n}}
 * Danish: {{t|da|viden}}
 * Dutch: {{t+|nl|kennis|f}}, {{t+|nl|ervaring}}, {{t+|nl|wetenschap|f}}
 * Finnish: {{t+|fi|tieto|alt=tiedot}}
@@ -297,21 +292,21 @@ From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||k
 * Korean: {{t+|ko|지식|tr=jisik|sc=Hang}}
 * Latin: {{t-|la|scientia|f}}
 * Latvian: {{t|lv|zinātne|f}}
-* Malayalam: [[ശാസ്‌ത്രം]] (Saasthram)
+* Malayalam: {{t|ml|ശാസ്‌ത്രം|tr=Saasthram}}
 {{trans-mid}}
 * Maltese: {{t-|mt|xjenza|xs=Maltese}}, {{t-|mt|għerf|xs=Maltese}}
 * Norwegian: {{t-|no|kunskap|c}}
 * Portuguese: {{t+|pt|ciência|f}}
 * Romanian: {{t+|ro|știință|f}}
-* Scottish Gaelic: [[eòlas]] {{m}}
-* Serbian:
-*: Cyrillic: {{t-|sr|наука|f|sc=Cyrl}}, {{t-|sr|знање|n|sc=Cyrl}}
-*: Roman: {{t-|sr|nauka|f}}, {{t-|sr|znanje|n}}
+* Scottish Gaelic: {{t|gd|eòlas|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|наука|f|sc=Cyrl}}, {{t|sh|знање|n|sc=Cyrl}}
+*: Roman: {{t|sh|nauka|f}}, {{t|sh|znanje|n}}
 * Slovene: {{t+|sl|znanje|n}}
 * Spanish: {{t+|es|conocimiento|m}}
 * Swedish: {{t+|sv|kunskap|c}}
 * Ukrainian: {{t|uk|знання|n|tr=znann'á|sc=Cyrl}}
-* Vietnamese: [[trí thức]], [[kiến thức]]
+* Vietnamese: {{t|vi|trí thức}}, {{t|vi|kiến thức}}
 * Volapük: {{t|vo|nol}}
 {{trans-bottom}}
 
@@ -352,7 +347,7 @@ From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||k
 * [[technology]]
 
 ===Etymology 2===
-''See [[scion#Etymology|scion]].''
+See {{term|scion}}.
 
 ====Noun====
 {{en-noun|?}}
@@ -361,7 +356,7 @@ From {{etyl|fro}} {{term|science|lang=fro}}, from {{etyl|la}} {{term|scientia||k
 
 [[Category:1000 English basic words]]
 [[Category:English words not following the I before E except after C rule]]
-[[Category:en:Sciences|*]]
+[[Category:en:Sciences]]
 [[Category:en:Thinking]]
 
 ----
