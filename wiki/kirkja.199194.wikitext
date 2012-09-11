@@ -22,18 +22,6 @@ From {{etyl|non|fo}} {{term|kirkja|lang=non}}, from {{etyl|ang|fo}} {{term|ciric
 
 ----
 
-==Old Norse==
-===Etymology===
-From {{etyl|ang|non}} {{term|cirice|lang=ang}}
-
-===Noun===
-{{non-noun|f}}
-
-# [[church]]
-
-====Declension====
-{{non-decl-noun|kirkja|kirkju|kirkju|kirkju|kirkjan|kirkjuna|kirkjunni|kirkjunnar|kirkjur|kirkjur|kirkjum|kirkja|kirkjurnar|kirkjurnar|kirkjunum|kirkjanna}}
-
 ==Icelandic==
 {{wikipedia|lang=is}}
 
@@ -69,12 +57,15 @@ From {{etyl|non|is}} {{term|kirkja|lang=non}}, from {{etyl|ang|is}} {{term|ciric
 ==Old Norse==
 
 ===Etymology===
-From {{etyl|ang|non}} ''[[cirice]]''.
+From {{etyl|ang|non}} {{term|cirice|lang=ang}}.
 
 ===Noun===
-'''kirkja''' {{f}}
+{{non-noun|f|genitive=kirkju|plural=kirkjur}}
 
 # [[church]] (''Christian house of worship'')
+
+====Declension====
+{{non-decl-noun|kirkja|kirkju|kirkju|kirkju|kirkjan|kirkjuna|kirkjunni|kirkjunnar|kirkjur|kirkjur|kirkjum|kirkja|kirkjurnar|kirkjurnar|kirkjunum|kirkjanna}}
 
 ====Descendants====
 {{top2}}
@@ -90,7 +81,6 @@ From {{etyl|ang|non}} ''[[cirice]]''.
 * Scots: [[kirk]]
 {{bottom}}
 
-[[Category:Old Norse nouns]]
 [[Category:non:Christianity]]
 
 [[af:kirkja]]
