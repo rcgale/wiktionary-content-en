@@ -448,19 +448,22 @@ From [[Old Norse]], compare [[Icelandic]] ''[[elri]]''.
 ===Etymology 1===
 From {{etyl|otk|tr}} ''āl'' (“red”), from {{proto|Turkic|āl||Āl|red, scarlet|lang=tr}}.
 
-====Noun====
-{{head|tr|noun}}
-
-# [[red]]
-
 ====Adjective====
-{{head|tr|adjective}}
+{{tr-adjective}}
 
 # [[red]]
 
 =====Synonyms=====
 * [[kızıl]]
 * [[kırmızı]]
+
+====Noun====
+{{tr-noun|ı|lar}}
+
+# [[red]]
+
+====Declension====
+{{tr-noun-c|ı|d|pred=-|poss=+}}
 
 ===Etymology 2===
 From {{proto|Turkic|Āl|lang=tr}}.
@@ -476,7 +479,7 @@ See [[almak]].
 ====Verb====
 {{head|tr|verb}}
 
-# Imperative form of the verb "[[almak]]" (to take)
+# {{second-person singular imperative of|almak|lang=tr}} (to take)
 
 [[Category:Turkish verb imperative forms]]
 [[Category:tr:Colors]]
