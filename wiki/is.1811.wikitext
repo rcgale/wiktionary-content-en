@@ -491,7 +491,7 @@ From {{etyl|non|no}} {{term|íss|lang=non}}.
 <!-- don't move this to an ‘īs’ page! We add the macron sign to show pronunciation, it is NOT an Old English letter! -->
 
 ===Etymology===
-From {{proto|gem-pro|īsan|lang=ang}}, from {{proto|ine-pro|ei-||ī-|ice, frost|lang=ang}}. Cognate with Old Frisian {{term|is|īs|lang=ofs}}, Old Saxon {{term|is|īs|lang=osx}}, Dutch {{term|ijs|lang=nl}}, Old High German {{term|is|īs|lang=goh}} (German {{term|Eis|lang=de}}), Old Norse {{term|íss|lang=non}} (Swedish {{term|is|lang=sv}}). There are parallels in many Iranian languages, apparently from the same Indo-European root: Avestan {{term|𐬀𐬉𐬑𐬀|sc=Avst|tr=aēxa-||frost, ice}}, Persian {{term|یخ|tr=yakh|lang=fa|sc=fa-Arab}}, Pashto {{term|جح|tr=jaḥ|sc=ur-Arab|lang=ps}}, Ossetian {{term|их|lang=os|sc=Cyrl}}.
+From {{etyl|gem-pro|ang}} {{recons|īsan|lang=gem-pro}}, from {{proto|ine-pro|ei-||ī-|ice, frost|lang=ang}}. Cognate with Old Frisian {{term|is|īs|lang=ofs}}, Old Saxon {{term|is|īs|lang=osx}}, Dutch {{term|ijs|lang=nl}}, Old High German {{term|is|īs|lang=goh}} (German {{term|Eis|lang=de}}), Old Norse {{term|íss|lang=non}} (Swedish {{term|is|lang=sv}}). There are parallels in many Iranian languages, apparently from the same Indo-European root: Avestan {{term|𐬀𐬉𐬑𐬀|sc=Avst|tr=aēxa-||frost, ice}}, Persian {{term|یخ|tr=yakh|lang=fa|sc=fa-Arab}}, Pashto {{term|جح|tr=jaḥ|sc=ur-Arab|lang=ps}}, Ossetian {{term|их|lang=os|sc=Cyrl}}.
 
 ===Pronunciation===
 * {{IPA|/iːs/|lang=ang}}
@@ -517,7 +517,7 @@ From {{proto|gem-pro|īsan|lang=ang}}, from {{proto|ine-pro|ei-||ī-|ice, frost|
 ==Old High German==
 
 ===Etymology===
-From {{proto|gem-pro|īsan|lang=goh}}
+From {{etyl|gem-pro|goh}} {{recons|īsan|lang=gem-pro}}
 
 ===Noun===
 {{head|goh|noun|head=īs}}
@@ -529,7 +529,7 @@ From {{proto|gem-pro|īsan|lang=goh}}
 ==Old Irish==
 
 ===Etymology===
-The lemma ''is'' itself is from {{proto|ine-pro|h₁esti|lang=sga}}; other forms are from either {{proto|ine-pro|h₁es-|lang=sga}} or {{proto|ine-pro|bʰuH-|lang=sga}}.
+The lemma ''is'' itself is from {{etyl|ine-pro|sga}} {{recons|h₁esti|lang=ine-pro}}; other forms are from either {{etyl|ine-pro|sga}} {{recons|h₁es-|lang=ine-pro}} or {{etyl|ine-pro|sga}} {{recons|bʰuH-|lang=ine-pro}}.
 
 ===Verb===
 {{head|sga|verb|copula}}
@@ -621,7 +621,7 @@ The lemma ''is'' itself is from {{proto|ine-pro|h₁esti|lang=sga}}; other forms
 ==Old Saxon==
 
 ===Etymology===
-From {{proto|gem-pro|it|lang=osx}}.
+From {{etyl|gem-pro|osx}} {{recons|it|lang=gem-pro}}.
 
 ===Pronoun===
 {{head|osx|pronoun|(h)is}}
