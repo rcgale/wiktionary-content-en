@@ -29,10 +29,10 @@
 # {{context|mathematics}} [[reduction|Reduction]] to lower [[term]]s, as a [[fraction]].
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|shortened or contracted form of a word or phrase}}
 * Arabic: {{t-|ar|اختصار|m|tr=ikhtiSaar}}
 * Armenian: {{t-|hy|հապավում|tr=hapavum|sc=Armn}}
+* Asturian: {{t|ast|abreviatura|f}}
 * Azeri: {{t-|az|abbreviatura|xs=Azeri}}
 * Bulgarian: {{t+|bg|абревиатура|f|tr=abreviatúra}}
 * Catalan: {{t+|ca|abreviatura|f}}
@@ -40,13 +40,13 @@
 *: Mandarin: {{t-|cmn|縮寫|sc=Hani}}, {{t-|cmn|缩写|tr=suōxiě|sc=Hani}}; {{t|cmn|簡寫|sc=Hani}}, {{t|cmn|简写|tr=jiǎnxiě|sc=Hani}}; {{t-|cmn|略語|sc=Hani}}, {{t|cmn|略语|tr=lüèyǔ|sc=Hani}}
 * Cornish: {{t-|kw|berrheans}}
 * Crimean Tatar: {{t|crh|qısqartma}}
-* Serbo-Croatian: {{t|sh|abrevijacija|f}}, {{t|sh|kratica|f}}
 * Czech: {{t+|cs|zkratka|f}}
 * Danish: {{t+|da|forkortelse|c}}
 * Dutch: {{t+|nl|afkorting|f}}
 * Esperanto: {{t-|eo|mallongigo|xs=Esperanto}}
 * Finnish: {{t+|fi|lyhenne}}
 * French: {{t+|fr|abréviation|f}}
+* Galician: {{t|gl|abreviatura|f}}
 * German: {{t+|de|Abkürzung|f}}, {{t-|de|Kurzbezeichnung|f}}, {{t+|de|Kürzel|n}}, {{t+|de|Kurzform|f}}
 * Greek: {{t+|el|συντομογραφία|f|tr=syntomografía}}, {{t+|el|βραχυγραφία|f|tr=vrachygrafía|sc=Grek}}, {{t|el|σύντμηση|f|tr=sýntmisi|sc=Grek}}, {{t|el|συντόμευση|f|tr=syntómefsi|sc=Grek}}
 * Hebrew: {{t|he|ראשי תיבות|m|p|tr=rashei teivot|sc=Hebr}}
@@ -59,12 +59,15 @@
 * Luxembourgish: {{t-|lb|Ofkierzung|f}}
 * Maltese: {{t|mt|abbrevjazzjoni}}
 * Norwegian: {{t+|no|forkortelse|m}}
+* Occitan: {{t|oc|abreviacion|f}}
 * Polish: {{t+|pl|skrót|m}}
 * Portuguese: {{t+|pt|abreviação|f}}
 * Romanian: {{t-|ro|abreviere|f}}, {{t+|ro|prescurtare|f}}, {{t-|ro|abreviație|f}}
 * Russian: {{t+|ru|сокращение|n|tr=sokraščénije}}, {{t+|ru|аббревиация|f|tr=abbreviácija}}
 * Scottish Gaelic: {{t-|gd|giorrachadh|m|xs=Scottish Gaelic}}
-* Serbo-Croatian: {{t|sh|скраћеница|f|tr=skraćenica|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|скраћеница|f|sc=Cyrl}}, {{t|sh|абревијација|f}}
+*: Latin: {{t|sh|skraćenica|f}}, {{t|sh|abrevijacija|f}}, {{t|sh|kratica|f}}
 * Slovak: {{t-|sk|skratka|f}}
 * Slovene: {{t|sl|kratica|f}}, {{t|sl|okrajšava|f}}
 * Spanish: {{t+|es|abreviación|f}}
@@ -95,7 +98,7 @@
 * Greek: {{t+|el|σύντμηση|f|tr=sýntmisi|sc=Grek}}
 * Icelandic: {{t+|is|stytting|f}}
 * Irish: {{t|ga|ciorrú|m}}
-* Italian: {{t+|it|abbreviazione}}
+* Italian: {{t+|it|abbreviazione|f}}
 {{trans-mid}}
 * Japanese: {{t+|ja|省略|tr=shōryaku}}, {{t+|ja|短縮|tr=tanshuku}}
 * Latin: {{t-|la|abbreviatio|f|alt=abbreviātiō}}
@@ -114,7 +117,7 @@
 * Finnish: {{t-|fi|lyhennysmerkki}}
 * Icelandic: {{t+|is|stytting|f}}
 {{trans-mid}}
-* Italian: {{t+|it|abbreviazione}}
+* Italian: {{t+|it|abbreviazione|f}}
 {{trans-bottom}}
 
 {{trans-top|mathematics: reduction to lower terms}}
