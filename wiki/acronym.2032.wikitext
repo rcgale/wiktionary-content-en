@@ -31,13 +31,11 @@
 <references />
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|word formed by initial letters}}
 * Arabic: {{t+|ar|أكرونيم|m|tr=’akrūnīm}}
 * Catalan: {{t+|ca|acrònim|m}}
 * Chinese:
 *: Mandarin: {{t-|cmn|縮寫|sc=Hani}},  {{t-|cmn|缩写|tr=suōxiě|sc=Hani}},  {{t|cmn|縮略詞|sc=Hani}},  {{t|cmn|缩略词|tr=suōlüècí|sc=Hani}},  {{t-|cmn|略語|sc=Hani}},  {{t|cmn|略语|tr=lüèyǔ|sc=Hani}}
-* Serbo-Croatian: {{t|sh|akronim|m}}
 * Czech: {{t+|cs|akronym|m}}
 * Danish: {{t+|da|akronym|n}}
 * Dutch: {{t+|nl|acroniem|n}}, {{t+|nl|letterwoord|n}}
@@ -47,19 +45,20 @@
 * Greek: {{t+|el|ακρωνύμιο|n|tr=akronýmio}}
 * Hebrew: {{t+|he|ראשי תיבות|m|p}}
 * Hungarian: {{t-|hu|betűszó}}, {{t+|hu|mozaikszó}}
-* Interlingua: [[acronymo]], [[initial|initiales]] <!--disputed - see discussion page-->
+* Interlingua: {{t|ia|acronymo}}, [[initial|initiales]] <!--disputed - see discussion page-->
 {{trans-mid}}
 * Irish: {{t-|ga|acrainm|m|xs=Irish}}
 * Italian: {{t+|it|acronimo|m}}
-* Japanese: {{t+|ja|頭字語|tr=tōjigo}} ([[とうじご]]), {{t-|ja|アクロニム|tr=akuronimu}},  {{t+|ja|略語|tr=りゃくご, ryakugo}}
+* Japanese: {{t+|ja|頭字語|tr=とうじご, tōjigo}}, {{t-|ja|アクロニム|tr=akuronimu}}, {{t+|ja|略語|tr=りゃくご, ryakugo}}
+* Occitan: {{t|oc|acronim|m}}
 * Polish: {{t+|pl|akronim|m}}, {{t+|pl|skrót|m}}, {{t+|pl|skrótowiec|m}}
-* Portuguese: {{t+|pt|sigla|f}}, {{t-|pt|acronimo|m}}, {{t-|pt|acrograma|m}}
+* Portuguese: {{t+|pt|sigla|f}}, {{t|pt|acrônimo|m}} {{qualifier|Brazil}}, {{t|pt|acrónimo|m}} {{qualifier|Portugal}}, {{t-|pt|acrograma|m}}
 * Romanian: {{t-|ro|acronim|n}}
-* Russian: {{t+|ru|акроним|m|tr=akrónim}},  {{t+|ru|сокращение|n|tr=sokraščénije}},  {{t+|ru|аббревиатура|f|tr=abbreviatúra}}
+* Russian: {{t+|ru|акроним|m|tr=akrónim}}, {{t+|ru|сокращение|n|tr=sokraščénije}}, {{t+|ru|аббревиатура|f|tr=abbreviatúra}}
 * Scottish Gaelic: {{t-|gd|acranaim|m}}, {{t-|gd|geàrr-ainm|m}}
 * Serbo-Croatian:
-*: Cyrillic: [[акроним]] {{m}}
-*: Roman: [[akronim]] {{m}}
+*: Cyrillic: {{t|sh|акроним|m}}
+*: Roman: {{t|sh|akronim|m}}
 * Slovene: {{t+|sl|kratica|f}}
 * Spanish: {{t+|es|acrónimo|m}}
 * Swedish: {{t+|sv|akronym}}
