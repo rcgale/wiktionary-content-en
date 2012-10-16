@@ -36,13 +36,13 @@
 * Apache:
 *: [[Western Apache]]: {{tø|apw|dii}}
 * Arabic: {{t-|ar|هذا|tr=hāðā|m}}, {{t-|ar|هذه|tr=hāðihi|f}}, {{t-|ar|هذان|tr=hāðāni}} ''m dual'', {{t-|ar|هتان|tr=hātāni}} ''f dual'', {{t-|ar|هأولاء|tr=hā’ulā’i|p}}
-*: Egyptian Arabic: {{tø|arz|ده|m|tr=da|sc=Arab|xs=Egyptian Arabic}},{{tø|arz|دي|f|tr=di|sc=Arab|xs=Egyptian Arabic}}, {{tø|arz|دول|p|tr=dool|sc=Arab|xs=Egyptian Arabic}}
+*: Egyptian Arabic: {{tø|arz|ده|m|tr=da|sc=Arab}},{{tø|arz|دي|f|tr=di|sc=Arab}}, {{tø|arz|دول|p|tr=dool|sc=Arab}}
 * Aramaic:
 *: Syriac: {{tø|arc|ܗܢܐ|tr=hānā’|m}}, {{tø|arc|ܗܕܐ|tr=hāde’|f}}
 *: Hebrew: {{tø|arc|הנא|tr=hānā’|m}}, {{tø|arc|הדא|tr=hāde’|f}}
 * Armenian: {{t-|hy|այս|tr=ays}}
 * Aromanian: {{t-|rup|aistu}}, {{t-|rup|aestu}}
-* Belarusian: {{t|be|гэты|m|sc=Cyrl}}, {{t|be|гэта|f|n|sc=Cyrl}}, {{t|be|гэтыя|p|sc=Cyrl}}
+* Belarusian: {{t+|be|гэты|m|sc=Cyrl}}, {{t+|be|гэта|f|n|sc=Cyrl}}, {{t-|be|гэтыя|p|sc=Cyrl}}
 * Bengali: {{qualifier|adjective}} {{t-|bn|এই|tr=ei|sc=Beng}}; {{qualifier|pronoun}} {{qualifier|informal}} {{t-|bn|এইটা|tr=eiţa|sc=Beng}}, {{t-|bn|এটা|tr=eţa|sc=Beng}}; {{qualifier|formal}} {{t-|bn|এইটি|tr=eiţi|sc=Beng}}, {{t-|bn|এটি|tr=eţi|sc=Beng}}
 * Cantonese: {{tø|yue|呢|tr=ne1|sc=Hani}}, {{tø|yue|此|tr=chi2|sc=Hani}}
 * Catalan: {{t+|ca|aquest}}, {{t-|ca|est}}, {{t-|ca|este}}
@@ -65,7 +65,7 @@
 * Hungarian: {{t-|hu|ez a|s}}, {{t-|hu|ezek a|p}}
 * Icelandic: {{t+|is|þessi|m|f}}, {{t+|is|þetta|n}}
 * Interlingua: {{t-|ia|iste}}
-* Irish: {{t-|ga|seo|xs=Irish}}
+* Irish: {{t-|ga|seo}}
 * Italian: {{t+|it|questo|m}},  {{t+|it|questa|f}}
 * Japanese: {{t+|ja|この|tr=kono}}
 * Javanese: {{t-|jv|iki}}
@@ -98,13 +98,13 @@
 * Portuguese: {{t+|pt|este|m}}, {{t+|pt|esta|f}}, {{t+|pt|isto}}, {{t+|pt|estes|m|p}}, {{t+|pt|estas|f|p}}
 * Punjabi: {{t-|pa|ਏਸ|tr=ēsa|sc=Guru}}
 * Romanian: {{t+|ro|acest|m}}, {{t-|ro|această|f}}, {{t-|ro|ăsta|m}} {{qualifier|informal}}, {{t-|ro|asta|f}} {{qualifier|informal}}
-* Romansch: {{t-|rm|quest|m|xs=Romansch}}, {{t-|rm|questa|f|xs=Romansch}}
+* Romansch: {{t-|rm|quest|m}}, {{t-|rm|questa|f}}
 * Russian: {{t+|ru|этот|m|tr=étot}}, {{t+|ru|эта|f|tr=éta}}, {{t+|ru|это|n|tr=éto}}, {{qualifier|these}} {{t+|ru|эти|p|tr=éti}}
 * Scottish Gaelic: {{t-|gd|seo}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|тај}}
 *: Latin: {{t-|sh|taj}}
-* Sicilian: {{t+|scn|chistu|m|xs=Sicilian}}, {{t+|scn|stu|m|xs=Sicilian}}
+* Sicilian: {{t+|scn|chistu|m}}, {{t+|scn|stu|m}}
 * Slovak: {{t-|sk|tento|m}}, {{t-|sk|táto|f}}, {{t-|sk|toto|n}}, {{t-|sk|títo|m|p}}, {{t-|sk|tieto|m|f|n|p}}
 * Spanish: {{t+|es|este|m}}, {{t+|es|esta|f}}, {{t+|es|esto}}
 * Swedish: {{t+|sv|den här}}, {{t+|sv|denna}}
@@ -118,8 +118,8 @@
 * Vietnamese: {{t+|vi|này}}
 * Volapük: {{t+|vo|at}}
 * Walloon: {{t+|wa|ci}}
-* Welsh: {{t-|cy|hwn|xs=Welsh}},  {{t-|cy|'ma|xs=Welsh}}
-* West Frisian: {{t+|fy|dit|xs=West Frisian}},  {{t+|fy|dizze|xs=West Frisian}}
+* Welsh: {{t-|cy|hwn}},  {{t-|cy|'ma}}
+* West Frisian: {{t+|fy|dit}},  {{t+|fy|dizze}}
 * !Xóõ: [[ʻVV]], [[tVʻV]], [[tVʻVV]], [[tVVʻVV]]
 {{trans-bottom}}
 
@@ -224,9 +224,9 @@
 
 ====Translations====
 {{trans-top|The thing, item, etc. being indicated}}
-* Albanian: {{t-|sq|ky|xs=Albanian}}
+* Albanian: {{t-|sq|ky}}
 * Arabic: {{t-|ar|هذا|m|tr=hāðā}}, {{qualifier|nonhuman pl}} {{t-|ar|هذه|f|tr=hāðīhi}}, {{qualifier|variant of هذه}} {{t-|ar|هذي|tr=hāðī}}, {{qualifier|m dual}} {{t-|ar|هذان|m|tr=hāðāni}}, {{qualifier|f dual}} {{t-|ar|هتان|f|tr=hātāni}}, {{qualifier|human plural}} {{t-|ar|هؤلاء|p|tr=hā’ulā’i}}, {{qualifier|variant of هؤلاء}} {{t-|ar|هأولاء|tr=hā’ulā’i}}
-*: Egyptian: {{tø|arz|ده|m|tr=da|sc=Arab|xs=Egyptian Arabic}},{{tø|arz|دي|f|tr=di|sc=Arab|xs=Egyptian Arabic}}, {{tø|arz|دول|p|tr=dool|sc=Arab|xs=Egyptian Arabic}}
+*: Egyptian: {{tø|arz|ده|m|tr=da|sc=Arab}},{{tø|arz|دي|f|tr=di|sc=Arab}}, {{tø|arz|دول|p|tr=dool|sc=Arab}}
 * Aramaic:
 *: Syriac: {{tø|arc|ܗܢܐ|tr=hānā’|m}}, {{tø|arc|ܗܕܐ|tr=hāde’|f}}
 *: Hebrew: {{tø|arc|הנא|tr=hānā’|m}}, {{tø|arc|הדא|tr=hāde’|f}}
@@ -234,7 +234,7 @@
 * Belarusian: {{t+|be|гэты|m|tr=héty|sc=Cyrl}}, {{t+|be|гэта|tr=héta|sc=Cyrl}}
 * Bengali: {{qualifier|informal}} {{t-|bn|এইটা|tr=eiţa|sc=Beng}}, {{t-|bn|এটা|tr=eţa|sc=Beng}}; {{qualifier|formal}} {{t-|bn|এইটি|tr=eiţi|sc=Beng}}, {{t-|bn|এটি|tr=eţi|sc=Beng}}
 * Bulgarian: {{t+|bg|ето|tr=eto}}, {{t-|bg|това|tr=tova}}
-* Burmese: {{t+|my|ဒါ|tr=da|sc=Mymr|xs=Burmese}}
+* Burmese: {{t+|my|ဒါ|tr=da|sc=Mymr}}
 * Catalan: {{t-|ca|això|n}}, {{t+|ca|aquest|m}}, {{t-|ca|aquesta|f}}
 * Chinese:
 *: Mandarin: {{t-|cmn|這|sc=Hani}}, {{t-|cmn|这|tr=zhè, zhèi|sc=Hani}}, {{t-|cmn|這個|sc=Hani}}, {{qualifier|this one (with measure words)}} {{t-|cmn|这个|tr=zhè ge, zhèi ge|sc=Hani}}, {{t-|cmn|這些|sc=Hani}}, {{qualifier|these}} {{t-|cmn|这些|p|tr=zhèxiē|sc=Hani}}
@@ -250,7 +250,7 @@
 * Greek: {{t+|el|ούτος|tr=oútos|m}}, {{t-|el|αύτη|tr=ávti|f}}, {{t+|el|τούτο|tr=toúto|n}}
 * Greenlandic: {{t-|kl|manna}}, {{t-|kl|matuma}}
 * Hebrew: {{t+|he|זה|m|tr=zeh}}, {{t+|he|אלה|m|p|tr=eleh}}, {{t+|he|זו|f|tr=zo}}, {{t+|he|זאת|f|p|tr=zot}}
-* Hindi: {{t-|hi|यह|tr=yah|xs=Hindi}}
+* Hindi: {{t-|hi|यह|tr=yah}}
 * Hungarian: {{t+|hu|ez}}
 * Icelandic: {{t+|is|þessi}}, {{t+|is|þetta}}, {{t+|is|það}}
 * Ido: {{t+|io|ca}}
@@ -263,9 +263,9 @@
 * Kurdish:
 *: Sorani: {{t+|ku|ئه‌م|sc=ku-Arab}}, {{t+|ku|ئه‌مه‌|sc=ku-Arab}}
 {{trans-mid}}
-* Lao: {{t-|lo|ອັນນີ້|tr=an-nii|sc=Laoo|xs=Lao}}
+* Lao: {{t-|lo|ອັນນີ້|tr=an-nii|sc=Laoo}}
 * Latin: {{t-|la|hoc|m|alt=hic}}, {{t-|la|hoc|f|alt=haec}}, {{t-|la|hoc|n}}
-* Lojban: {{t-|jbo|ti|xs=Lojban}}
+* Lojban: {{t-|jbo|ti}}
 * Macedonian: {{t-|mk|овој|m|tr=óvoj}},  {{t-|mk|оваа|f|tr=óvaa}},  {{t-|mk|ова|n|tr=óva}}
 * Malay:
 *: Rumi: {{t+|ms|ini}} / {{l|ms|ni}}
@@ -274,8 +274,8 @@
 * Manchu: ([[ere]])
 * Norwegian: {{t+|no|denne|m|f}}, {{t+|no|dette|n}}
 * Novial: {{tø|nov|disu|n}}, {{tø|nov|dise}} ''m, f, n''
-* Old English: {{t+|ang|þes|m|xs=Old English}}, {{t-|ang|þeos|f|alt=þēos|xs=Old English}}, {{t+|ang|þis|n|xs=Old English}}
-* Persian: {{t+|fa|این|tr=in|xs=Persian}}
+* Old English: {{t+|ang|þes|m}}, {{t-|ang|þeos|f|alt=þēos}}, {{t+|ang|þis|n}}
+* Persian: {{t+|fa|این|tr=in}}
 * Pipil: {{tø|ppl|ini}}
 * Polish: {{t+|pl|ten|m}}, {{t+|pl|ta|f}}, {{t+|pl|to|n}}
 * Portuguese: {{t+|pt|isto}}
@@ -284,8 +284,8 @@
 * Russian: {{t+|ru|это|tr=éto}},  {{t+|ru|этот|m|tr=étot}},  {{t+|ru|эта|f|tr=éta}},  {{t+|ru|это|n|tr=éto}},  {{qualifier|these}} {{t+|ru|эти|p|tr=éti}}
 * Sardinian: {{t-|sc|custu}}
 * Scottish Gaelic: {{t-|gd|seo}}
-* Serbo-Croatian: {{t|sh|ovaj}}
-* Sicilian: {{t+|scn|chistu|xs=Sicilian}}
+* Serbo-Croatian: {{t-|sh|ovaj}}
+* Sicilian: {{t+|scn|chistu}}
 * Sindhi: {{t-|sd|هيءُ|m}}, {{t-|sd|هِيءَ|f}}
 * Slovak: {{t-|sk|toto}}
 * Slovene: {{t+|sl|to|n}}, {{t+|sl|ta|m|f}}
@@ -298,7 +298,7 @@
 * Tofa: {{tø|kim|бо}}
 * Tunisian Arabic: {{tø|aeb|هذا|m|alt=هَذَا|tr=haḏā|sc=Arab}},  {{tø|aeb|هذا|f|alt=هَذِهْ|tr=haḏi|sc=Arab}}
 * Ukrainian: {{t+|uk|цей|m|tr=cej|sc=Cyrl}}, {{t+|uk|це|tr=ce|sc=Cyrl}}
-* Vietnamese: {{t-|vi|cái này|xs=Vietnamese}}, {{t+|vi|này}}
+* Vietnamese: {{t-|vi|cái này}}, {{t+|vi|này}}
 * Volapük: {{t-|vo|atos}}
 * West Frisian: {{t+|fy|dit|n}}, {{t+|fy|dizze|m|f}}
 {{trans-bottom}}
