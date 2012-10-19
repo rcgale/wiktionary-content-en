@@ -135,7 +135,7 @@ From {{etyl|enm}} {{term|cloud|lang=enm}}, {{term|cloude|lang=enm}}, {{term|clod
 * Indonesian: {{t+|id|awan}}, {{t+|id|mega}}
 * Irish: {{t-|ga|scamall|m}}, {{t-|ga|néal|m}}
 * Italian: {{t+|it|nuvola|f}}, {{t+|it|nube|f}}
-* Japanese: {{t+|ja|雲|tr=[[くも]], kumo}}, {{t+|ja|靄|tr=[[もや]], moya}}, {{t+|ja|霧|tr=[[きり]], kiri}}
+* Japanese: {{t+|ja|雲|tr=[[くも]], kumo}}
 * Kalmyk: {{tø|xal|үүлн|tr=üüln|sc=Cyrl}}
 * Kannada: {{t+|kn|ಮೇಘ|sc=Knda}} (mēgha)
 * Karachay-Balkar: {{tø|krc|булут|tr=bulut|sc=Cyrl}}
@@ -223,7 +223,7 @@ From {{etyl|enm}} {{term|cloud|lang=enm}}, {{term|cloude|lang=enm}}, {{term|clod
 * Hungarian: {{t+|hu|felhő}}
 * Irish: {{t-|ga|scamall|m}}
 * Italian: {{t+|it|nube|f}}, {{t+|it|nuvola|f}}
-* Japanese: {{t+|ja|雲|tr=kumo}} ([[くも]]), {{t+|ja|靄|tr=moya}} ([[もや]]), {{qualifier|for steam}} {{t+|ja|湯気|tr=yuge}},{{qualifier|for smoke}} {{t+|ja|煙|tr=kemuri}} ([[けむり]]), {{qualifier|for dust}} {{t+|ja|埃|tr=hokori}}
+* Japanese: {{qualifier|for steam}} {{t+|ja|蒸気|tr=joki}}, {{t+|ja|湯気|tr=[[ゆげ]], yuge}}, {{qualifier|for smoke}} {{t+|ja|煙|tr=[[けむり]], kemuri}}, {{qualifier|for dust}} {{t+|ja|埃|tr=[[ほこり]], hokori}}
 {{trans-mid}}
 * Latvian: {{t-|lv|mākonis|m}}
 * Luxembourgish: {{t+|lb|Wollek|f}}
@@ -248,7 +248,7 @@ From {{etyl|enm}} {{term|cloud|lang=enm}}, {{term|cloude|lang=enm}}, {{term|clod
 * Greek: {{t+|el|νέφος|n|tr=néfos|sc=Grek}}
 * Irish: {{t-|ga|scamall|m}}
 * Italian: {{t+|it|nebbia|f}}
-* Japanese: {{t+|ja|靄|tr=moya}} ([[もや]]), {{t+|ja|雲|tr=kumo}} ([[くも]]), {{t+|ja|霧|tr=kiri}} ([[きり]])
+* Japanese: {{t+|ja|曇り|tr=[[くもり]], kumori}}, {{t+|ja|濁り|tr=[[にごり]], nigori}}
 {{trans-mid}}
 * Norwegian:
 *: Bokmål: {{t+|nb|sky|m|f}}
@@ -269,7 +269,7 @@ From {{etyl|enm}} {{term|cloud|lang=enm}}, {{term|cloude|lang=enm}}, {{term|clod
 * Hungarian: {{t+|hu|sereg}}, {{t+|hu|raj}}, {{t+|hu|tömeg}}
 * Italian: {{t+|it|nube}}
 {{trans-mid}}
-* Japanese: {{t+|ja|雲|tr=kumo}} ([[くも]]), {{t+|ja|靄|tr=moya}} ([[もや]]), {{t+|ja|霧|tr=kiri}} ([[きり]])
+* Japanese: {{t+|ja|群れ|tr=[[むれ]], mure}}, {{t+|ja|大群|tr=taigun}}
 * Norwegian:
 *: Bokmål: {{t+|nb|sky|m|f}}
 *: Nynorsk: {{t-|nn|sky|f}}
@@ -282,6 +282,7 @@ From {{etyl|enm}} {{term|cloud|lang=enm}}, {{term|cloude|lang=enm}}, {{term|clod
 * Marathi: {{t-|mr|क्लाउड|m|tr=klāuḍa|sc=Deva}}
 {{trans-mid}}
 * Norwegian:
+* Japanese: {{t-|ja|クラウド|tr=kuraudo}}
 *: Bokmål: {{t+|nb|sky|m|f}}, {{t+|nb|cloud|m}}
 *: Nynorsk: {{t-|nn|sky|f}}, {{t+|nb|cloud|m}}
 {{trans-bottom}}
