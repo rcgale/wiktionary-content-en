@@ -176,6 +176,8 @@ From {{etyl|enm}} {{term|tree|lang=enm}}, {{term|tre|lang=enm}}, {{term|treo|lan
 * Apalaí: {{tø|apy|wewe}}
 * Arabic: {{qualifier|collective}} {{t+|ar|شجر|m|tr=šájar|alt=شَجَرٌ|sc=Arab}}, {{qualifier|[[singulative]]}} {{t+|ar|شجرة|f|tr=šájara|alt=شَجَرَةٌ|sc=Arab}}
 * Aramaic:
+*: Hebrew: {{t|arc|אילנא|m|tr=’īlānā’|sc=Hebr}}
+*: Syriac: {{t|arc|ܐܝܠܢܐ|m|tr=’īlānā’|sc=Syrc}}
 * Armenian: {{t+|hy|ծառ|tr=çaṙ}}
 * Aromanian: {{t-|rup|arbure}}, {{t-|rup|lemnu}}
 * Aymara: {{t|ay|khoka}}
@@ -189,7 +191,7 @@ From {{etyl|enm}} {{term|tree|lang=enm}}, {{term|tre|lang=enm}}, {{term|treo|lan
 * Bengali: {{t-|bn|গাছ|tr=gach|sc=Beng}}, {{t-|bn|বৃক্ষ|tr=brikkhô|sc=Beng}}
 * Bonan: {{tø|peh|mortong}}, {{tø|peh|mutong}}
 * Borôro: {{tø|bor|i}}
-* Breton: {{t|br|gwez ''}} (collective)'', {{t|br|gwezenn|f|s}}
+* Breton: {{qualifier|collective}} {{t|br|gwez}}, {{t|br|gwezenn|f|s}}
 * Bulgarian: {{t+|bg|дърво|n|tr=dǎrvó}}
 * Burmese: {{t+|my|သစ်ပင်|tr=thitpin|sc=Mymr}}
 * Buryat: {{tø|bxr|модон|tr=modon|sc=Cyrl}}
@@ -216,7 +218,7 @@ From {{etyl|enm}} {{term|tree|lang=enm}}, {{term|tre|lang=enm}}, {{term|treo|lan
 * Dolgan: {{tø|dlg|мас|tr=mas|sc=Cyrl}}
 * Dongxiang: {{tø|sce|mutun}}
 * Dutch: {{t+|nl|boom|m}}
-* Dyirbal: {{t|dbl|yugu ''}} (noun class IV)'', {{t|dbl|yuguɖaran ''dual''}}, {{t|dbl|yugu-yugu|p}}
+* Dyirbal: {{t|dbl|yugu}} {{qualifier|noun class IV}}, {{t|dbl|yuguɖaran}} {{qualifier|dual}}, {{t|dbl|yugu-yugu|p}}
 * East Yugur: {{tø|yuy|müdën}}
 * Egyptian: {{tø|egy|šn|sc=Egyp}}
 *: <hiero>Sn:n-M1</hiero>
@@ -244,8 +246,6 @@ From {{etyl|enm}} {{term|tree|lang=enm}}, {{term|tre|lang=enm}}, {{term|treo|lan
 * Haitian Creole: {{tø|ht|pyebwa}}
 * Hausa: {{t-|ha|bishiya}}, {{t-|ha|bishiyoyi|p}}
 * Hawaiian: {{tø|haw|kumulāʻau}}
-*: Hebrew: {{t|haw|אילנא|m|tr=’īlānā’|sc=Hebr}}
-*: Syriac: {{t|haw|ܐܝܠܢܐ|m|tr=’īlānā’|sc=Syrc}}
 * Hebrew: {{t|he|עֵץ|m|tr=‛ēts|sc=Hebr}}
 * Hindi: {{t+|hi|पेड़|m|tr=peṛ|sc=Deva}}, {{t-|hi|वृक्ष|tr=vriksh|sc=Deva}}
 * Hungarian: {{t+|hu|fa}}
@@ -364,7 +364,7 @@ From {{etyl|enm}} {{term|tree|lang=enm}}, {{term|tre|lang=enm}}, {{term|treo|lan
 * Southern Altai: {{tø|alt|агаш|tr=ağaş|sc=Cyrl}}
 * Spanish: {{t+|es|árbol|m}}
 * Sumerian: {{t|sux|giš|sc=Xsux}}
-* Swahili: {{t|sw|mti|s}}, {{t|sw|miti ''pl}} (noun 3/4)'', {{t+|sw|mti}}
+* {{ttbc|sw}}: {{t|sw|mti|s}}, {{t|sw|miti}} {{qualifier|pl; noun 3/4}}, {{t+|sw|mti}}
 * Swedish: {{t+|sv|träd|n}}
 * Tagalog: {{t|tl|puno}}
 * Tajik: {{t-|tg|дарахт|tr=daraxt|sc=Cyrl}}, {{t-|tg|шаҷар|tr=šajar|sc=Cyrl}}
