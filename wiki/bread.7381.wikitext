@@ -354,6 +354,7 @@ From {{etyl|enm}} {{term|bred|lang=enm}}, {{term|breed|lang=enm}}, from {{etyl|a
 * Interlingua: [[pan#Interlingua|pan]]
 * Inuktitut: [[ᕿᖂᔭᖅ]] (qiquujaq)
 * Irish: {{t+|ga|arán|m}}
+*: Old Irish: {{tø|sga|arán|m}}
 * Italian: {{t+|it|pane|m}}
 * Japanese: {{t+|ja|パン|tr=pan}}
 * Kalenjin: {{tø|kln|maghatiat}}
@@ -383,7 +384,6 @@ From {{etyl|enm}} {{term|bred|lang=enm}}, {{term|breed|lang=enm}}, from {{etyl|a
 * Maltese: {{t-|mt|ħobż|m}}
 * Manx: {{t-|gv|arran|m}}
 * Marathi: {{t-|mr|रोटी|f|tr=roṭī|sc=Deva}}, {{t-|mr|भाकरी|f|tr=bhākrī|sc=Deva}}, {{t+|mr|पाव|tr=pāv|sc=Deva}}
-* Middle Persian: {{tø|pal|𐭭𐭠𐭭|tr=nān}}
 * Mongolian: {{t-|mn|талх|tr=talh|sc=Cyrl}}
 * Navajo: {{tø|nv|bááh}}
 * Neapolitan: {{tø|nap|ppane|n}}
@@ -395,10 +395,10 @@ From {{etyl|enm}} {{term|bred|lang=enm}}, {{term|breed|lang=enm}}, from {{etyl|a
 * Occitan: {{t+|oc|pan|m}}
 * Old Church Slavonic: {{tø|cu|хлѣбъ|m|tr=xlěbŭ|sc=Cyrs}}
 * Old English: {{t+|ang|bread|n|alt=brēad}}, {{t-|ang|hlaf|m|alt=hlāf}}
-* Old Irish: {{tø|sga|arán|m}}
 * Ossetian: {{tø|os|дзул|tr=dzul|sc=Cyrl}}
 * Pashto: {{t-|ps|ډوډۍ|tr=ḍoḍëy|sc=ps-Arab}}
 * Persian: {{t+|fa|نان|tr=nân}}, {{t+|fa|چرک|tr=čorak|sc=fa-Arab}}, {{t-|fa|چورک|tr=čurak|sc=fa-Arab}}
+*: Middle Persian: {{tø|pal|𐭭𐭠𐭭|tr=nān}}
 * Phrygian: {{tø|xpg|bekos}}
 * Polabian: {{tø|pox|sťaibä|f}}
 * Polish: {{t+|pl|chleb|m}}
@@ -413,8 +413,8 @@ From {{etyl|enm}} {{term|bred|lang=enm}}, {{term|breed|lang=enm}}, from {{etyl|a
 * Sanskrit: {{t-|sa|रोटी|f|tr=roṭī|sc=Deva}}
 * Santali: {{tø|sat|ᱯᱤᱴᱷᱟ|tr=pitthaa|sc=Olck}}
 * Sardinian:
-** Campidanese: [[pani]] {{m}}
-* Scots: [[breid]]
+*: Campidanese Sardinian: {{t|sro|pani|m}}
+* Scots: {{t|sco|breid}}
 * Scottish Gaelic: {{t-|gd|aran|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|хлеб|m}}, {{t-|sh|хљеб|m}}, {{t-|sh|крух|m}}
@@ -451,14 +451,14 @@ From {{etyl|enm}} {{term|bred|lang=enm}}, {{term|breed|lang=enm}}, from {{etyl|a
 {{trans-bottom}}
 
 {{trans-top|countable: any variety of bread}}
-* Chinese: [[麵包]], [[面包]] (miànbāo)
+* Chinese:
+*: Mandarin: [[麵包]], [[面包]] (miànbāo)
 * Ewe: [[abolo]] {{n}}
 * Finnish: {{t+|fi|leipä}}
 * French: {{t+|fr|pain|m}}
 * German: {{t+|de|Brot|n}}
-* Greek:
+* Greek: {{t+|el|ψωμί|n|tr=psomí}}, {{t+|el|άρτος|m|tr=ártos}} 
 *: Ancient: {{tø|grc|ἄρτος|sc=polytonic|tr=artos}}
-*: Modern: {{t+|el|ψωμί|n}} (psomí), {{t+|el|άρτος|m}} (ártos)
 * Guernésiais: {{tø|roa-grn|pôin|m}}
 * Icelandic: {{t+|is|brauð|n}}
 * Low German: {{t-|nds|Broot|n}}
@@ -479,6 +479,7 @@ From {{etyl|enm}} {{term|bred|lang=enm}}, {{term|breed|lang=enm}}, from {{etyl|a
 {{trans-bottom}}
 
 {{trans-top|slang: money}}
+<!--please only add slang here; neutral register terms to go at [[money#Translations]]-->
 * Bulgarian: {{t+|bg|пари|p|tr=pari}}
 * Dutch: {{t+|nl|poen|m}}
 * Finnish: {{t+|fi|pätäkkä}}
