@@ -37,7 +37,7 @@
 *: Egyptian Arabic: {{tø|arz|ان|tr=’inn}}
 * Armenian: {{t-|hy|որ|tr=or}}
 * Belarusian: {{t+|be|што|tr=što|sc=Cyrl}}
-* Bulgarian: {{t-|bg|че|če}}
+* Bulgarian: {{t-|bg|че|tr=če|sc=Cyrl}}
 * Catalan: {{t+|ca|que}}
 * Chinese:
 *: Mandarin: {{not used|cmn}}
@@ -78,7 +78,7 @@
 {{trans-top|connecting clause indicating purpose}}
 * Arabic: {{t-|ar|لكي|tr=likay}}, {{t-|ar|أن|tr='án}}
 * Armenian: {{t-|hy|որ|tr=or}}, {{t-|hy|որպեսզի|tr=orpeszi}}
-* Bulgarian: {{t+|bg|да|sc=Cyrl}}, {{t-|bg|за да|sc=Cyrl}}, {{t-|bg|така че|sc=Cyrl}}, {{t-|bg|така че да|sc=Cyrl}}
+* Bulgarian: {{t+|bg|да|tr=da|sc=Cyrl}}, {{t-|bg|за да|tr=za da|sc=Cyrl}}, {{t-|bg|така че|tr=taka če|sc=Cyrl}}, {{t-|bg|така че да|tr=taka če da|sc=Cyrl}}
 * Czech: {{t+|cs|aby}}
 * French: {{t+|fr|pour que}}
 * Galician: {{t+|gl|que}}
@@ -114,7 +114,7 @@
 * {{ttbc|ro}}: {{t-|ro|că}}
 * {{ttbc|sh}}:
 *:* Cyrillic: {{t-|sh|да|sc=Cyrl}}
-*:* Roman: [[da]]
+*:* Roman: {{t|sh|da|sc=Latn}}
 * {{ttbc|sd}}: {{sd-Arab|[[ته|تَه]]}}
 * {{ttbc|sk}}: {{t-|sk|že}}
 * {{ttbc|sl}}: {{t+|sl|da}}
@@ -140,8 +140,8 @@
 * Belarusian: {{t+|be|той|tr=toj|sc=Cyrl}}
 * Bengali: {{t-|bn|ওই|tr=oi|sc=Beng}}, {{t-|bn|সেই|tr=shei|sc=Beng}}
 * Bulgarian:
-** {{t-|bg|онзи}} / [[онази]] / [[онова]] / [[онези]] (onzi/onazi/onova/onezi) ''m/f/n/pl'';
-** {{qualifier|colloquial, dated}} {{t-|bg|оня}} / [[оная]] / [[онуй]] / [[ония]] (onja/onaja/onuj/onija) ''m/f/n/pl''
+** {{t-|bg|онзи|tr=onzi|m|sc=Cyrl}} / {{t|bg|онази|tr=onazi|f|sc=Cyrl}} / {{t|bg|онова|tr=onova|n|sc=Cyrl}} / {{t|bg|онези|tr=onezi|p|sc=Cyrl}};
+** {{qualifier|colloquial, dated}} {{t-|bg|оня|tr=onja|m}} / {{t|bg|оная|tr=onaja|f}} / {{t|bg|онуй|tr=onuj|n}} / {{t|bg|ония|tr=onija|p}}
 * Burmese: {{t+|my|ဟို|tr=ho|sc=Mymr}}, {{t+|my|ထို|tr=hto|sc=Mymr}}
 * Catalan: {{t-|ca|aqueix|m}}, {{t-|ca|aqueixa|f}}
 * Chamicuro: {{tø|ccc|ala'ye}}
@@ -310,7 +310,7 @@
 {{trans-top|which}}
 * Akkadian: {{tø|akk|𒊭|tr=ša|sc=Xsux}}
 * Armenian: {{t-|hy|որը|tr=vorə}}
-* Bulgarian: {{t-|bg|който}} / [[която]] / [[което]] (kojto/kojato/koeto) {{m|f|n}}, [[когато]] (kogato)
+* Bulgarian: {{t-|bg|който|tr=kojto|sc=Cyrl|m}} / {{t|bg|която|tr=kojato|sc=Cyrl|f}} / {{t|bg|което|tr=koeto|n|sc=Cyrl}}, {{t|bg|когато|tr=kogato|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t|cmn|那|tr=nà}}, {{t|cmn|那个|tr=nàgè}}
 * Cornish:
@@ -378,7 +378,7 @@
 
 ====Translations====
 {{trans-top|degree}}
-* Bulgarian: {{t+|bg|толкова|sc=Cyrl}}
+* Bulgarian: {{t+|bg|толкова|tr=tolkova|sc=Cyrl}}
 * Dutch: {{t+|nl|zo}}
 * French: {{t+|fr|que}} {{t+|fr|cela}}
 * Japanese: {{qualifier|lesser degree}} {{l|ja|それ}}{{l|ja|程|tr=sore hodo}}, {{qualifier|greater degree}} {{l|ja|あれ}}{{l|ja|程|tr=are hodo}}
