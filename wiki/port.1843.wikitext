@@ -1,5 +1,4 @@
 ==English==
-
 {{wikipedia|dab=Port (disambiguation)|Port}}
 
 ===Pronunciation===
@@ -34,7 +33,6 @@
 * [[outport]]
 
 =====Translations=====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|dock or harbour}}
 * Arabic: {{t-|ar|ميناء|m|tr=mīna’|sc=Arab}}
 * Armenian: {{t-|hy|նավահանգիստ|tr=navahangist}}
@@ -42,8 +40,7 @@
 * Belarusian: {{t-|be|порт|m|tr=port|sc=Cyrl}}
 * Bulgarian: {{t+|bg|порт|m|tr=port|sc=Cyrl}}
 * Chinese:
-*: Mandarin: {{t-|cmn|港|tr=gǎng|sc=Hani}},  {{t|cmn|港口|tr=gǎngkǒu|sc=Hani}},  {{t-|cmn|口岸|tr=kǒu'àn|sc=Hani}},  {{t|cmn|港埠|tr=gǎngbù|sc=Hani}}
-* Serbo-Croatian: {{t+|sh|luka|f}}
+*: Mandarin: {{t-|cmn|港|tr=gǎng|sc=Hani}}, {{t|cmn|港口|tr=gǎngkǒu|sc=Hani}}, {{t-|cmn|口岸|tr=kǒu'àn|sc=Hani}}, {{t|cmn|港埠|tr=gǎngbù|sc=Hani}}
 * Czech: {{t+|cs|přístav|m}}
 * Dutch: {{t+|nl|haven|f}}
 * Esperanto: {{t-|eo|haveno}}
@@ -190,7 +187,7 @@ From {{etyl|la}} {{term|porta||passage, gate}}, reinforced in {{etyl|enm}}, from
 
 {{trans-top|opening where a connection is made}}
 * Dutch: {{t+|nl|poort}}
-* Finnish: [[liitin]], [[portti]] (''computers'')
+* Finnish: [[liitin]], [[portti]] {{qualifier|computing}}
 * Icelandic: {{t-|is|tengi|n}}
 {{trans-mid}}
 * Swahili: {{t+|sw|mabandari}}
@@ -217,12 +214,12 @@ From {{etyl|la}} {{term|porta||passage, gate}}, reinforced in {{etyl|enm}}, from
 {{trans-bottom}}
 
 ===Etymology 3===
-From {{etyl|fro}} {{term|porter|lang=fr}}, from {{etyl|la}} {{term|portare||carry|lang=la}}. Akin to {{term|transport}}, {{term|portable}}.
+From {{etyl|fro}} {{term|porter|lang=fr}}, from {{etyl|la}} {{term|portare||carry|lang=la}}. Akin to {{term|transport|lang=en}}, {{term|portable|lang=en}}.
 
 ====Verb====
 {{en-verb}}
 
-# {{obsolete}} To carry, bear, or [[transport]]. See {{term|porter}}.
+# {{obsolete}} To carry, bear, or [[transport]]. See {{term|porter|lang=en}}.
 #: ''They are easily '''ported''' by boat into other shires.'' — [[w:Thomas Fuller|Fuller]], ''The History of the Worthies of England''
 # {{military}} To hold or carry (a weapon) with both hands so that it lays diagonally across the front of the body, with the barrel or similar part near the left shoulder and the right hand grasping the small of the stock; or, to throw (the weapon) into this position on command.
 #: '''''Port''' arms!''
@@ -238,7 +235,7 @@ From {{etyl|fro}} {{term|porter|lang=fr}}, from {{etyl|la}} {{term|portare||carr
 
 =====Translations=====
 {{trans-top|computing: to adapt a program so that it works on a different platform}}
-* Dutch: {{t+|nl|overdragen}},  {{t+|nl|porten}}
+* Dutch: {{t+|nl|overdragen}}, {{t+|nl|porten}}
 * Finnish: {{t+|fi|siirtää}}
 * Norwegian: {{t-|no|porte}}
 {{trans-mid}}
@@ -251,7 +248,7 @@ From {{etyl|fro}} {{term|porter|lang=fr}}, from {{etyl|la}} {{term|portare||carr
 {{en-noun}}
 
 # Something used to carry a thing, especially a frame for [[wick]]s in candle-making.
-# {{archaic}} The manner in which a person carries himself; [[bearing]]; [[deportment]]; [[carriage]]. See also {{term|portance}}.
+# {{archaic}} The manner in which a person carries himself; [[bearing]]; [[deportment]]; [[carriage]]. See also {{term|portance|lang=en}}.
 #* '''late 14th c.''', [[w:Geoffrey Chaucer|Chaucer]], ''[[w:The Canterbury Tales|Canterbury Tales]]'', [[s:The_Canterbury_Tales/General_Prologue|line 69]]:
 #*: And of his '''port''' as meeke as is a mayde.
 #* '''1590''', Edmund Spenser, ''The Faerie Queene'', II.iii:
@@ -275,7 +272,7 @@ From {{etyl|fro}} {{term|porter|lang=fr}}, from {{etyl|la}} {{term|portare||carr
 {{trans-bottom}}
 
 ===Etymology 4===
-Named from {{etyl|pt|en}} [[Oporto]], a city in [[Portugal]] from whence the wines were originally shipped.
+Named from {{etyl|pt}} [[Oporto]], a city in [[Portugal]] from whence the wines were originally shipped.
 
 ====Noun====
 {{en-noun}}
@@ -571,7 +568,7 @@ From late {{etyl|non|sv}} {{term|port|lang=non}} {{n}}, {{term|portr|lang=non}} 
 {{sv-noun|g=c}}
 
 # [[entrance]] (into a building), [[gate]], [[portal]]
-# {{computing}} port (''logical or physical construct in and from which data are transferred'')
+# {{computing}} port {{qualifier|logical or physical construct in and from which data are transferred}}
 
 ====Declension====
 {{sv-noun-reg-ar}}
