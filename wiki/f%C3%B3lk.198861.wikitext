@@ -1,11 +1,14 @@
 {{also|folk}}
 ==Faroese==
 
+===Etymology===
+From {{etyl|non|fo}} {{term|folk|lang=non}}, {{term|fólk|lang=non}}, from {{etyl|gem-pro|fo}} {{recons|fulkan|lang=gem-pro}}.
+
 ===Pronunciation===
 * {{IPA|[fœlk]|lang=fo}}
 
 ===Noun===
-'''fólk''' {{n}}
+{{infl|fo|noun|g=n}}
 
 # [[people]]
 # [[lineage]], [[dynasty]]
@@ -17,20 +20,21 @@
 ====Declension====
 {{fo-decl-noun-n3|fólk}}
 
-[[Category:Faroese nouns]]
-
 ----
 
 ==Icelandic==
+
+===Etymology===
+From {{etyl|non|is}} {{term|folk|lang=non}}, {{term|fólk|lang=non}}, from {{etyl|gem-pro|is}} {{recons|fulkan|lang=gem-pro}}.
 
 ===Pronunciation===
 * {{IPA|/foul̥k/|lang=is}}
 *: {{rhymes|oul̥k|lang=is}}
 
 ===Noun===
-{{is-noun|n}}
+{{is-noun|n|fólks|-}}
 
-# [[people]]
+# {{context|collective|lang=is}} [[people]]
 #* '''''Fólk''' [[vera|er]] [[fífl]].''
 #*: '''People''' [[be|are]] [[fool]]s.
 #* ''Ég [[þekkja|þekki]] [[margur|margt]] '''fólki'''.''
@@ -38,6 +42,12 @@
 
 ====Declension====
 {{is-decl-noun-n-s|f|ó|lk|pl=-}}
+
+====Derived terms====
+* {{l|is|kvenfólk}}
+* {{l|is|mannfólk}}
+* {{l|is|vinnufólk}}
+* {{l|is|þjónustufólk}}
 
 [[af:fólk]]
 [[de:fólk]]
