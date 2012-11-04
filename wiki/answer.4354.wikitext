@@ -35,7 +35,7 @@ From {{etyl|enm}} {{term|answere|answere|lang=enm}}, {{term|andsware|lang=enm}},
 
 =====Translations=====
 {{trans-top|response}}
-* Arabic: {{t-|ar|رد|m|tr=radd}}, {{t-|ar|جواب|m|tr=jawaab}}, {{t-|ar|إجابة|f|tr='ijaaba|sc=Arab}}
+* Arabic: {{t-|ar|رد|m|tr=radd}}, {{t-|ar|جواب|m|tr=jawāb}}, {{t-|ar|إجابة|f|tr=ʾijāba|sc=Arab}}
 * Armenian: {{t+|hy|պատասխան|tr=patasxan}}
 * Aromanian: {{t-|rup|apocrisi}}, {{t-|rup|apandisi}}
 * Azeri: {{t-|az|cavab}}
@@ -43,7 +43,7 @@ From {{etyl|enm}} {{term|answere|answere|lang=enm}}, {{term|andsware|lang=enm}},
 * Bashkir: {{tø|ba|яуап|tr=yawap|sc=Cyrl}}
 * Belarusian: {{t|be|адказ|m|tr=adkáz|sc=Cyrl}}
 * Breton: {{t+|br|respont|m}} -où
-* Bulgarian: {{t+|bg|реакция|f}}, {{t+|bg|отговор|m}}
+* Bulgarian: {{t+|bg|отговор|m|tr=otgovor}}
 * Catalan: {{t-|ca|resposta|f}}
 * Chechen: {{tø|ce|жоп|tr=žop|sc=Cyrl}}
 * Chinese:
@@ -91,7 +91,7 @@ From {{etyl|enm}} {{term|answere|answere|lang=enm}}, {{term|andsware|lang=enm}},
 * Old Church Slavonic: {{tø|cu|отъвѣтъ|m|tr=otŭvětŭ|sc=Cyrs}}
 * Old English: {{t-|ang|gegncwide|m|alt=ġeġncwide}}
 * Old Norse: {{tø|non|svar|n}}
-* Persian: {{t+|fa|جواب|tr=javâb}}, {{t+|fa|پاسخ|sc=fa-Arab}}
+* Persian: {{t+|fa|جواب|tr=javâb}}, {{t+|fa|پاسخ|tr=pâsox|sc=fa-Arab}}
 * Polish: {{t+|pl|odpowiedź|f}}
 * Portuguese: {{t+|pt|resposta|f}}
 * Romanian: {{t-|ro|răspuns|n}}
@@ -146,7 +146,7 @@ From {{etyl|enm}} {{term|answere|answere|lang=enm}}, {{term|andsware|lang=enm}},
 * Polish: {{t+|pl|odpowiedź|f}}
 * Portuguese: {{t+|pt|resposta|f}}
 * Romanian: {{t+|ro|rezolvare|f}}, {{t-|ro|soluție|f}}
-* Russian: {{t+|ru|решение|n|tr=r'ešénije}}, {{t+|ru|ответ|m|tr=otv'ét}}
+* Russian: {{t+|ru|решение|n|tr=rešénije}}, {{t+|ru|ответ|m|tr=otvét}}
 * Scottish Gaelic: {{t-|gd|freagairt|f}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|рјешење|n|alt=рјеше́ње|sc=Cyrl}}, {{t-|sh|решење|n|alt=реше́ње|sc=Cyrl}}
@@ -236,14 +236,14 @@ From {{etyl|enm}} {{term|answeren|lang=enm}}, {{term|andswaren|lang=enm}}, from 
 
 =====Translations=====
 {{trans-top|to make a reply or response to}}
-* Arabic: {{t-|ar|أجاب|tr='ajaaba}}, {{t-|ar|رد|tr=radda}}
+* Arabic: {{t-|ar|أجاب|tr=ʾajāba}}, {{t-|ar|رد|tr=radda}}
 * Armenian: {{t-|hy|պատասխանել|sc=fa-Arab}}
 * Aromanian: {{t-|rup|apãndisescu}}, {{t-|rup|apocrisescu}}
-* Belarusian: {{t|be|адказваць|tr=adkázvacʹ|sc=Cyrl}}, {{t|be|адказаць|tr=adkazácʹ|sc=Cyrl}}
+* Belarusian: {{t|be|адказваць|tr=adkázvacʹ|sc=Cyrl}} {{impf}}, {{t|be|адказаць|tr=adkazácʹ|sc=Cyrl}} {{pf}}
 * Bulgarian: {{t+|bg|отговарям}}, {{t+|bg|отвръщам}}
 * Catalan: {{t+|ca|respondre}}
 * Chinese:
-*: Mandarin: {{t-|cmn|回答|tr=huídá|sc=Hani}}, {{t-|cmn|答應|sc=Hani}}, {{t-|cmn|答应|tr=dāying|sc=Hani}}, {{t|cmn|答覆|tr=dáfù|sc=Hani}}
+*: Mandarin: {{t|cmn|回答|tr=huídá|sc=Hani}}, {{t|cmn|答應|sc=Hani}}, {{t|cmn|答应|tr=dāying|sc=Hani}}, {{t|cmn|答覆|tr=dáfù|sc=Hani}}
 * Czech: {{t+|cs|odpovědět}}
 * Danish: {{t-|da|svare}}
 * Dutch: {{t+|nl|antwoorden}}
@@ -276,7 +276,7 @@ From {{etyl|enm}} {{term|answeren|lang=enm}}, {{term|andswaren|lang=enm}}, from 
 * Portuguese: {{t+|pt|responder}}
 * Romanian: {{t+|ro|răspunde}}
 * Romansch: {{t-|rm|respunder}}, {{t-|rm|raspunder}}, {{t-|rm|respuonder}}, {{t-|rm|rispunder}}
-* Russian: {{t+|ru|отвечать|tr=otvečát’|sc=Cyrl}} {{impf}}, {{t+|ru|ответить|tr=otvétit’|sc=Cyrl}} {{pf.}}
+* Russian: {{t+|ru|отвечать|tr=otvečátʹ|sc=Cyrl}} {{impf}}, {{t+|ru|ответить|tr=otvétitʹ|sc=Cyrl}} {{pf.}}
 * Sardinian: {{t-|sc|respúndiri}}, {{t-|sc|arraspundi}}, {{t-|sc|rispòndhere}}, {{t-|sc|rispònnere}}
 * Scottish Gaelic: {{t-|gd|freagair}}
 * Serbo-Croatian:
@@ -288,7 +288,7 @@ From {{etyl|enm}} {{term|answeren|lang=enm}}, {{term|andswaren|lang=enm}}, from 
 * Swahili: {{t+|sw|jibu}}
 * Swedish: {{t+|sv|svara}}
 * Tok Pisin: {{t-|tpi|bekim tok}}
-* Ukrainian: [[відповідати]] (vidpovidáty) {{impf}}, [[відповісти]] (vidpovistý) {{pf.}}, {{t|uk|відповідати|tr=vidpovidáty|sc=Cyrl}}, {{t|uk|відповісти|tr=vidpovistý|sc=Cyrl}}
+* Ukrainian: {{t|uk|відповідати|tr=vidpovidáty|sc=Cyrl}} {{impf}}, {{t|uk|відповісти|tr=vidpovistý|sc=Cyrl}} {{pf.}}
 * Urdu: {{t-|ur|جواب دینا|tr=javāb denā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|trả lời}}
 {{trans-bottom}}
@@ -310,7 +310,7 @@ From {{etyl|enm}} {{term|answeren|lang=enm}}, {{term|andswaren|lang=enm}}, from 
 * Spanish: {{t+|es|contestar}}
 * Swahili: {{t+|sw|jibu}}
 * Tok Pisin: {{t-|tpi|bekim tok}}
-* Ukrainian: [[відповідати]] (vidpovidáty) {{impf}}, [[відповісти]] (vidpovistý) {{pf.}}
+* Ukrainian: {{t|uk|відповідати|tr=vidpovidáty|sc=Cyrl}} {{impf}}, {{t|uk|відповісти|tr=vidpovistý|sc=Cyrl}} {{pf.}}
 {{trans-bottom}}
 
 {{trans-top|to suit a need or purpose satisfactorily}}
@@ -326,7 +326,7 @@ From {{etyl|enm}} {{term|answeren|lang=enm}}, {{term|andswaren|lang=enm}}, from 
 * Macedonian: {{t-|mk|одговара|tr=odgóvara}}, {{t-|mk|соодветствува|tr=soodvétstvuva}}
 * Norwegian: {{t-|no|oppfylle}}, {{t-|no|tilfredsstille}}
 * Polish: {{t+|pl|odpowiadać}}
-* Russian: [[отвечать]] (otv'ečát') {{impf}}, [[ответить]] (otv'étit') {{pf.}}; [[соответствовать]] (sootv'étstvovat') {{pf.}}
+* Russian: {{t+|ru|отвечать|tr=otvečátʹ|sc=Cyrl}} {{impf}}, {{t+|ru|ответить|tr=otvétitʹ|sc=Cyrl}} {{pf.}};{{t+|ru|соответствовать|tr=sootvétstvovatʹ|sc=Cyrl}} {{impf}}
 * Scottish Gaelic: {{t-|gd|freagair}}
 * Spanish: {{t+|es|servir}}
 * Swahili: {{t+|sw|jibu}}
@@ -339,7 +339,7 @@ From {{etyl|enm}} {{term|answeren|lang=enm}}, {{term|andswaren|lang=enm}}, from 
 * Polish: {{t+|pl|odpowiadać}}
 {{trans-mid}}
 * Romanian: {{t+|ro|soluționa}}
-* Russian: [[отвечать]] (otv'ečát') {{impf}}, [[ответить]] (otv'étit') {{pf.}}
+* Russian: {{t+|ru|отвечать|tr=otvečátʹ|sc=Cyrl}} {{impf}}, {{t+|ru|ответить|tr=otvétitʹ|sc=Cyrl}} {{pf.}}
 * Swahili: {{t+|sw|jibu}}
 {{trans-bottom}}
 
