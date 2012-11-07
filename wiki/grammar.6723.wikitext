@@ -40,14 +40,13 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * [[glamour]]
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|rules for speaking and writing a language}}
 * Albanian: {{t-|sq|gramatikë|f}}
 * Amharic: {{t-|am|ሰዋሰው|sc=Ethi|tr=säwasäwə}}
 * Arabic: {{t-|ar|قواعد|p|tr=qawaa3id}}, {{t-|ar|نحو|m|tr=naHw}}
-* Aragonese: {{t-|an|gramatica}}
+* Aragonese: {{t-|an|gramatica|f}}
 * Armenian: {{t-|hy|քերականություն|tr=k’erakanut’yun}}
-* Asturian: {{t-|ast|gramática}}
+* Asturian: {{t-|ast|gramática|f}}
 * Azeri: {{t-|az|qrammatika}}
 * Belarusian: {{t-|be|граматыка|f|tr=hramátyka|sc=Cyrl}}
 * Bengali: {{t+|bn|ব্যাকরণ|tr=byākaraṇ|sc=Beng}}
@@ -57,9 +56,8 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * Chinese:
 *: Mandarin: {{t-|cmn|語法|sc=Hani}},  {{t-|cmn|语法|tr=yǔfǎ|sc=Hani}},  {{t-|cmn|文法|tr=wénfǎ|sc=Hani}}
 *: Min Nan: {{t-|nan|文法|tr=bûn-hoat|sc=Hans}}
-*: [[Gan]]: {{tø|gan|文法|sc=Hans}}
+*: Gan: {{tø|gan|文法|sc=Hans}}
 * Chuvash: {{tø|cv|грамматика|sc=Cyrl}}
-* Serbo-Croatian: {{t-|sh|gramatika|f|alt=gramàtika}}, {{t-|sh|slovnica|f|alt=slóvnica}}
 * Czech: {{t-|cs|mluvnice|f}}, {{t-|cs|gramatika|f}}
 * Danish: {{t-|da|grammatik}}
 * Dutch: {{t+|nl|spraakkunst|f}}, {{t+|nl|grammatica|f}}
@@ -67,6 +65,7 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * Faroese: {{t-|fo|mállæra|f}}
 * Finnish: {{t+|fi|kielioppi}}
 * French: {{t+|fr|grammaire|f}}
+* Galician: {{t|gl|gramática|f}}
 * Georgian: {{t-|ka|გრამატიკა|tr=gramatika|sc=Geor}}
 * German: {{t+|de|Grammatik|f}}
 * Greek: {{t+|el|γραμματική|f|tr=grammatikí|sc=Grek}}
@@ -91,6 +90,7 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * Lao: {{t+|lo|ໄວຍະກອນ|tr=vai-nya-kǭn|sc=Laoo}}
 * Latvian: {{t-|lv|gramatika|f}}
 * Lithuanian: {{t+|lt|gramatika|f}}
+* {{trreq|lb}}
 * Macedonian: {{t-|mk|граматика|f|tr=gramátika}}
 * Malay: {{t-|ms|tatabahasa}}
 * Malayalam: {{t+|ml|വ്യാകരണം|sc=Mlym}}
@@ -232,7 +232,7 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 ===Noun===
 {{gv-noun|g=m}}
 
-# [[#English|grammar]]
+# {{l|en|grammar}}
 
 ====Mutation====
 {{gv mut cons|g|rammar}}
@@ -244,7 +244,7 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * {{l|gv|grammeydagh}}
 * {{l|gv|neughrammeydoil}}
 
-[[Category:gv:Grammar|*]]
+[[Category:gv:Grammar]]
 
 [[ang:grammar]]
 [[ar:grammar]]
