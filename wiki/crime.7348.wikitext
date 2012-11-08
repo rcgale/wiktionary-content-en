@@ -127,7 +127,7 @@
 * {{trreq|sco}}
 * Scottish Gaelic: {{t-|gd|eucoir|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|злочин|m|alt=зло̀чин}}
+*: Cyrillic: {{t-|sh|злочин|m|alt=зло̀чин|sc=Cyrl}}
 *: Roman: {{t-|sh|zločin|m|alt=zlòčin}}
 * {{trreq|scn}}
 * {{trreq|sd}}
@@ -159,13 +159,11 @@
 * {{trreq|zu}}
 {{trans-bottom}}
 
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|practice or habit of committing crimes}}
 * Arabic: {{t-|ar|جريمة|f|tr=jariima|sc=Arab}}
 * Catalan: {{t-|ca|crim|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|罪行|tr=zuìxíng|sc=Hani}}
-* Serbo-Croatian: {{t-|sh|zločin|m|alt=zlòčin}}
 * Czech: {{t-|cs|zločinnost|f}}
 * Danish: {{t-|da|kriminalitet|c}}
 * Dutch: {{t+|nl|misdaad|f}}
@@ -186,23 +184,25 @@
 * Portuguese: {{t+|pt|crime|m}}
 * Russian: {{t+|ru|преступление|n|tr=prestuplénije}}, {{t+|ru|преступность|n|tr=prestúpnost'}}, {{t+|ru|криминал|m|tr=kriminál|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|eucoireachd|f}}
-* Serbo-Croatian: {{t-|sh|zločin|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|злочин|m|alt=зло̀чин|sc=Cyrl}}
+*: Roman: {{t-|sh|zločin|m|alt=zlòčin}}
 * Slovene: {{t+|sl|zločin|m}}
 * Spanish: {{t+|es|delincuencia|m}}
 * Swedish: {{t+|sv|brottslighet|c}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|fr}}: crime {{f}} (1,2)
-* {{ttbc|el}}: [[έγκλημα]] [ˈe̞(ŋ)ɡliˌma] {{n}} (2), [[αδίκημα]] [aˈðiciˌma] {{n}}, [[απάτη]] [aˈpati] {{f}}, [[κακούργημα]] [kaˈkurʝiˌma] {{n}} (1, 2), [[παρανομία]] [paˌrano̞ˈmiˌa] {{f}} (1)
+* {{ttbc|fr}}: {{t|fr|crime}} (1, 2)
+* {{ttbc|el}}: {{t|el|έγκλημα|n}} [ˈe̞(ŋ)ɡliˌma] (2), {{t|el|αδίκημα|n}} [aˈðiciˌma], {{t|el|απάτη|f}} [aˈpati], {{t|el|κακούργημα|n}} [kaˈkurʝiˌma] (1, 2), {{t|el|παρανομία|f}} [paˌrano̞ˈmiˌa] (1)
 * {{ttbc|he}}: [[פשע]] {{m}}
-* {{ttbc|id}}: [[jahat|kejahatan]]
-* {{ttbc|lt}}: nusikaltimas {{m}}
+* {{ttbc|id}}: {{t|id|jahat|alt=kejahatan}}
+* {{ttbc|lt}}: {{t|lt|nusikaltimas|m}}
 * {{ttbc|ml}}: [[കുറ്റം]], [[കുറ്റകൃത്യം]]
 * {{ttbc|mnc}}: [[weile]]
 * {{ttbc|fa}}: {{fa-Arab|[[بزه]]}} (bezeh), {{fa-Arab|[[جرم]]}} (jorm)
 * {{ttbc|ro}}: [[infracțiune]] {{f}}, [[delict]] {{n}}
-* {{ttbc|te}}: [[నేరము]] (neramu) (1), [[నేరప్రవృత్తి]] (nerapravruthi) (2)
+* {{ttbc|te}}: {{t|te|నేరము|tr=neramu|sc=Telu}} (1), {{t|te|నేరప్రవృత్తి|tr=nerapravruthi|sc=Telu}} (2)
 * {{ttbc|tr}}: [[suç]] [çu]
 {{trans-bottom}}
 
