@@ -87,7 +87,7 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * Arabic: {{t-|ar|تغيير|m|tr=taghyiir|sc=Arab}}
 * Asturian: {{t-|ast|cambéu|m}}, {{t-|ast|cambiu|m}}
 * Basque: {{t-|eu|aldaketa}}
-* Bulgarian: {{t+|bg|промяна|f}},  {{t+|bg|изменение|n}}
+* Bulgarian: {{t+|bg|промяна|f|tr=promjana|sc=Cyrl}},  {{t+|bg|изменение|n|tr=izmenenie|sc=Cyrl}}
 * Catalan: {{t|ca|canvi|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|變化|sc=Hani}}, {{t|cmn|变化|tr=biànhuà|sc=Hani}}
@@ -100,7 +100,7 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * Galician: {{t+|gl|cambio|m}}
 * Georgian: {{t-|ka|ცვლა|sc=Geor}}
 * German: {{t+|de|Änderung|f}}, {{t+|de|Veränderung|f}}, {{t+|de|Wandel|m}}
-* Greek: {{t+|el|αλλαγή|f|tr=allagi}}
+* Greek: {{t+|el|αλλαγή|f|tr=allagi|sc=Grek}}
 * Hebrew: [[שינוי]] (shinui) {{m}}, [[השתנות]] (hishtanut) {{f}}
 * Hindi: {{t-|hi|बदलना|m|tr=badalnā|sc=Deva}}
 * Hungarian: [[változás]], [[megváltozás]]
@@ -120,7 +120,7 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * Limburgish: [[verangering]]
 * Lithuanian: {{t-|lt|pokytis|m}}, {{t-|lt|pasikeitimas|m}}, {{t-|lt|permaina|f}}
 * Luxembourgish: {{t-|lb|Ännerung|f}}
-* Malayalam: {{t|ml|മാറ്റം|tr=māttam}}
+* Malayalam: {{t|ml|മാറ്റം|tr=māttam|sc=Mlym}}
 * Norwegian:
 *: Bokmål: {{t+|nb|endring|m|f}}
 *: Nynorsk: {{t-|nn|endring|f}}
@@ -129,21 +129,22 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * Polish: {{t+|pl|zmiana|f}}
 * Portuguese: {{t+|pt|mudança|f}}, {{t+|pt|modificação|f}}
 * Romanian: {{t-|ro|schimb|n}}, {{t+|ro|schimbare|f}}, {{t+|ro|modificare|f}}
-* Russian: {{t+|ru|изменение|n|tr=izmenénije}}, {{t+|ru|перемена|f|tr=pereména}}
+* Russian: {{t+|ru|изменение|n|tr=izmenénije|sc=Cyrl}}, {{t+|ru|перемена|f|tr=pereména|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|mùthadh|m}}, {{t-|gd|atharrachadh|m}}, {{t-|gd|caochladh|m}}
-* Serbo-Croatian: {{t-|sh|promena|f}},{{t-|sh|promjena|f}}, {{t-|sh|izmena|f}}, {{t-|sh|izmjena|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|промена|f}}, {{t-|sh|промјена|f}}, {{t-|sh|измена|f}}, {{t-|sh|измјена|f}}
+*: Roman: {{t-|sh|promena|f}}, {{t-|sh|promjena|f}}, {{t-|sh|izmena|f}}, {{t-|sh|izmjena|f}}
 * Slovene: {{t+|sl|sprememba|f}}
 * Spanish: {{t+|es|cambio|m}}, {{t+|es|modificación|f}}, {{t+|es|mutación|f}}, {{t+|es|evolución|f}}
 * Swahili: {{t+|sw|mabadiliko}}
 * Swedish: {{t+|sv|förändring|c}}
 * Tajik: {{t+|tg|тағйир|tr=tağyir|sc=Cyrl}}
-* Tamil: {{t+|ta|மாற்றம்|tr=mātram}}
+* Tamil: {{t+|ta|மாற்றம்|tr=mātram|sc=Taml}}
 * Telugu: {{t|te|మార్పు|sc=Telu}}
 * Turkish: {{t+|tr|değişmek}}
 * Volapük: {{t|vo|votükam}}
 {{trans-bottom}}
 
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|small denominations of money given in exchange for a larger denomination}}
 * Arabic: {{t-|ar|فكة|f|tr=fákka|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|فكة|f|tr=fakka|sc=Arab}}
@@ -161,7 +162,7 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * Galician: {{t+|gl|cambio|m}}
 * Georgian: {{t-|ka|ხურდა|tr=xurda|sc=Geor}}
 * German: {{t+|de|Wechselgeld|n}}
-* Greek: {{t+|el|ψιλά|n|p|tr=psilá}}
+* Greek: {{t+|el|ψιλά|n|p|tr=psilá|sc=Grek}}
 * Hebrew: [[עודף]] ('odef) {{m}}
 * Hindi: {{t-|hi|छुट्टा|tr=chuṭṭā|sc=Deva}}
 * Ido: {{t|io|kambio}}
@@ -174,48 +175,49 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * Latin: {{t+|la|mutatio}}, {{t+|la|permutatio}}
 * Latvian: {{t-|lv|sīknauda|f}}
 * Lithuanian: {{t-|lt|grąža|f}}, {{t-|lt|smulkūs pinigai|p}}
-* Macedonian: {{t-|mk|кусур|m|tr=kúsur}},  {{t-|mk|ситно|n|tr=sítno}}
-* Malayalam: {{t|ml|ചില്ലറ|tr=cillaṟa}}
+* Macedonian: {{t-|mk|кусур|m|tr=kúsur|sc=Cyrl}},  {{t-|mk|ситно|n|tr=sítno|sc=Cyrl}}
+* Malayalam: {{t|ml|ചില്ലറ|tr=cillaṟa|sc=Mlym}}
 * Norwegian:
 *: Bokmål: {{t-|nb|veksel|m}}
 *: Nynorsk: {{t-|nn|veksel|m}}
 * Portuguese: {{t+|pt|troco}}, {{t+|pt|trocado|m}}
 * Romanian: {{t-|ro|schimb (de bani)|n}}
-* Russian: {{t+|ru|сдача|f|tr=sdáča}}, {{t+|ru|мелочь|f|tr=méloč’|sc=Cyrl}}
+* Russian: {{t+|ru|сдача|f|tr=sdáča|sc=Cyrl}}, {{t+|ru|мелочь|f|tr=méloč’|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|iomlaid|f}}
-* Serbo-Croatian: [[sitnina]] {{f}} or shorter [[sića]]; [[kusur]] {{m}} (''excess money given when paying cash'')
-* Serbo-Croatian: {{t-|sh|sitniš}}
+* Serbo-Croatian: [[sitnina]] {{f}}, [[sića]], {{t|sh|kusur|m}} {{qualifier|excess money given when paying cash}}, {{t-|sh|sitniš}}
 * {{trreq|sk}}
 * Slovene: {{t+|sl|drobiž|m}}
 * Spanish: {{t|es|cambio|m}}, {{t|es|calderilla|f}} {{qualifier|Spain - specifically coins}}, [[chatarra]] {{f}}  {{qualifier|Spain - specifically coins}}, [[feria]] {{f}}  {{qualifier|Northern Mexico}}, [[menudo]] {{m}} {{qualifier|Caribbean Islands|Colombian Atlantic Coast|Costa Rica|Southeastern Mexico}}, [[morralla]] {{f}}  {{qualifier|Mexico - specifically coins}}, [[sencillo]] {{m}} {{qualifier|Bolivia|Chile|Colombia|Northwestern Argentina|Panama, Peru|Southern and Southeastern Mexico|Venezuela}}, [[suelto]] {{m}} {{qualifier|Ecuador|Spain, regional usage in Mexico - in full : dinero suelto}}, [[vuelto]] {{m}} {{qualifier|Southeastern Mexico}}
 * Swahili: {{t+|sw|badilisha}}
 * Swedish: {{t+|sv|växel|c}}, {{t-|sv|växelpengar|c}}
-* Telugu: {{t|te|చిల్లర}}
+* Telugu: {{t|te|చిల్లర|sc=Telu}}
 {{trans-bottom}}
 
 {{trans-top|a replacement}}
 * Basque: {{t-|eu|aldaketa}}, {{t-|eu|truke}}
-* Bulgarian: {{t+|bg|смяна|f}},  {{t+|bg|замяна|f}}
+* Bulgarian: {{t+|bg|смяна|f|tr=smanja|sc=Cyrl}},  {{t+|bg|замяна|f|tr=zamjana|sc=Cyrl}}
 * Czech: {{t|cs|náhrada|f}}, {{t|cs|záměna|f}}
 * Danish: {{t-|da|ombytning|c}}, {{t-|da|udskiftning|c}}, {{t-|da|skift|n}}, {{t-|da|omklædning|c}} (''change of clothes'')
 * Dutch: {{t|nl|andere kleren}}
-* Greek: {{t+|el|αλλαγή|f|tr=allagi}}
+* Greek: {{t+|el|αλλαγή|f|tr=allagi|sc=Grek}}
 * Hebrew: [[החלפה]] (hakhlafa) {{f}}
 * Hungarian: {{t+|hu|csere}}
 {{trans-mid}}
 * Lithuanian: {{t+|lt|pakeitimas|m}}
-* Macedonian: {{t-|mk|замена|f|tr=zámena}}
+* Macedonian: {{t-|mk|замена|f|tr=zámena|sc=Cyrl}}
 * Polish: {{t+|pl|zmiana|f}}
 * Portuguese: {{t+|pt|troca|f}}, {{t+|pt|mudança|f}}
-* Russian: {{t+|ru|замена|f|tr=zam'éna}}
-* Serbo-Croatian: {{t-|sh|zamena|f}}
+* Russian: {{t+|ru|замена|f|tr=zam'éna|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|замена|f}}
+*: Roman: {{t-|sh|zamena|f}}
 * Slovene: [[zamenjava]] {{f}}
 * Swahili: {{t+|sw|mabadiliko}}
 * Swedish: {{t+|sv|ombyte|n}} (''=a change of clothes'')
 {{trans-bottom}}
 
 {{trans-top|a transfer between vehicles}}
-* Russian: {{t+|ru|пересадка|f|tr=peresádka}}
+* Russian: {{t+|ru|пересадка|f|tr=peresádka|sc=Cyrl}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -228,29 +230,29 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * {{trreq|hy}}
 * Asturian: {{t-|ast|cambéu|m}}
 * Basque: {{t-|eu|kanbio}}
-* Bulgarian: {{t-|bg|ресто|n}}
+* Bulgarian: {{t-|bg|ресто|n|tr=resto|sc=Cyrl}}
 * Catalan: {{t-|ca|canvi|m}}
 * French: {{t+|fr|monnaie|n}}
 * Galician: {{t+|gl|cambio|m}}
 * Georgian: {{t-|ka|ხურდა|tr=xurda|sc=Geor}}
 * German: {{t|de|Rückgeld|n}}
-* Greek: {{t+|el|ρέστα|n|p|tr=resta}}
-* Hebrew: {{t-|he|עודף|m|tr='odef}}
+* Greek: {{t+|el|ρέστα|n|p|tr=resta|sc=Grek}}
+* Hebrew: {{t-|he|עודף|m|tr='odef|sc=Hebr}}
 * Hungarian: {{t-|hu|visszajáró}},  {{t-|hu|visszajáró}}
 * Korean: [[거스름돈]] (geoseureumdon), [[잔돈]] (jandon)
 {{trans-mid}}
 * Lithuanian: {{t|lt|grąža|f}}
-* Macedonian: {{t-|mk|кусур|m|tr=kúsur}},  {{t-|mk|ситно|n|tr=sítno}}
+* Macedonian: {{t-|mk|кусур|m|tr=kúsur|sc=Cyrl}},  {{t-|mk|ситно|n|tr=sítno|sc=Cyrl}}
 * Norwegian:
 *: Bokmål: {{t-|nb|veksel|m}}
 *: Nynorsk: {{t-|nn|veksel|m}}
 * Polish: {{t+|pl|reszta|f}}
 * Portuguese: {{t+|pt|troco|m}}
 * {{trreq|ro}}
-* Russian: {{t+|ru|сдача|f|tr=sdáča}}
+* Russian: {{t+|ru|сдача|f|tr=sdáča|sc=Cyrl}}
 * Spanish: [[cambio]] {{m}}, [[devueltas]] {{f}} {{qualifier|Colombian regional usage}}, [[vuelta]] {{f}} {{qualifier|Spain}}, [[vueltas]] {{f|p}} {{qualifier|Colombian standard usage}}, [[vuelto]] {{m}} {{qualifier|Latin America except Mexican standard usage}}
 * Swahili: {{t+|sw|mabaliko}}
-* Thai: {{t-|th|เงินทอน}}
+* Thai: {{t-|th|เงินทอน|sc=Thai}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -320,7 +322,7 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 
 ====Translations====
 {{trans-top|to become something different}}
-* Arabic: {{t-|ar|تغير|tr=taġáyyara}}, imperfect: {{t-|ar|يتغير|tr=yataġáyyaru}}
+* Arabic: {{t-|ar|تغير|tr=taġáyyara|sc=Arab}}, imperfect: {{t-|ar|يتغير|tr=yataġáyyaru|sc=Arab}}
 * {{trreq|an}}
 * {{trreq|hy}}
 * Aromanian: {{t-|rup|alãxescu}}
@@ -328,14 +330,14 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * Basque: {{t+|eu|aldatu}}
 * {{trreq|be}}
 * {{trreq|br}}
-* Bulgarian: {{t-|bg|променям се|tr=promenjam se}}
+* Bulgarian: {{t-|bg|променям се|tr=promenjam se|sc=Cyrl}}
 * Catalan: {{t+|ca|canviar}}
 * {{trreq|chr}}
 * Chinese:
 *: Cantonese: {{tø|yue|變爲}},  {{tø|yue|成爲}}
 *: Mandarin: {{t|cmn|變為|sc=Hani}},  {{t|cmn|变为|tr=biànwéi|sc=Hani}},  {{t-|cmn|成為|sc=Hani}},  {{t-|cmn|成为|tr=chéngwéi|sc=Hani}},  {{t-|cmn|變化|sc=Hani}},  {{t-|cmn|变化|tr=biànhuà|sc=Hani}},  {{t-|cmn|改變|sc=Hani}},  {{t-|cmn|改变|tr=gǎibiàn|sc=Hani}},  {{t|cmn|改為|sc=Hani}},  {{t|cmn|改为|tr=gǎiwéi|sc=Hani}}
 * Crimean Tatar: [[deñişmek]]
-* Czech: [[měnit]] se
+* Czech: {{t|cs|měnit|alt=měnit se}}
 * Danish: {{t-|da|ændre}} sig, {{t-|da|forandre}} sig
 * Dutch: {{t|nl|veranderen}}, {{t|nl|zich aanpassen}}
 * Esperanto: {{t-|eo|ŝanĝiĝi}}
@@ -343,12 +345,12 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * Finnish: {{t+|fi|muuttua}}
 * French: {{t|fr|changer}}, [[se transformer]], [[muter]] {{qualifier|biology}}
 * Galician: {{t+|gl|cambiar}}
-* Georgian: {{t-|ka|გარდაქმნა}}, {{t-|ka|ცვლა}}
+* Georgian: {{t-|ka|გარდაქმნა|sc=Geor}}, {{t-|ka|ცვლა|sc=Geor}}
 * German: {{t+|de|ändern|alt=sich ändern}}, {{t+|de|verändern|alt=sich verändern}}, {{t+|de|wandeln|alt=sich wandeln}}
-* Greek: {{t+|el|αλλάζω|tr=allázo}}, {{t+|el|μεταμορφώνομαι|tr=metamorfónomai}}
+* Greek: {{t+|el|αλλάζω|tr=allázo|sc=Grek}}, {{t+|el|μεταμορφώνομαι|tr=metamorfónomai|sc=Grek}}
 * Haitian Creole: {{tø|ht|chanje}}
-* Hebrew: {{t+|he|השתנה|tr=hishtaná}}
-* Hindi: {{t-|hi|बदलना|tr=badalnā}}
+* Hebrew: {{t+|he|השתנה|tr=hishtaná|sc=Hebr}}
+* Hindi: {{t-|hi|बदलना|tr=badalnā|sc=Deva}}
 * Hungarian: {{t+|hu|változik}},  {{t+|hu|megváltozik}}
 * Italian: {{t+|it|cambiare}}
 * Japanese: {{t-|ja|変わる|tr=kawaru}}
@@ -359,7 +361,7 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * Latvian: {{t-|lv|mainīties}}
 * Lithuanian: {{t+|lt|keistis}}, {{t-|lt|mainytis}}
 * {{trreq|lb}}
-* Macedonian: {{t-|mk|се менува|tr=se ménuva}},  {{t-|mk|се изменува|tr=se izménuva}}
+* Macedonian: {{t-|mk|се менува|tr=se ménuva|sc=Cyrl}},  {{t-|mk|се изменува|tr=se izménuva|sc=Cyrl}}
 * Malay: {{t|ms|tukar}}
 * {{trreq|ml}}
 * {{trreq|mr}}
@@ -372,16 +374,16 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * Polish: {{t+|pl|zmienić się}}
 * Portuguese: {{t+|pt|mudar}}
 * Romanian: a {{t|ro|schimba}}, {{t+|ro|transforma}}
-* Russian: {{t+|ru|изменяться|tr=izmenját'sja}} {{impf}},  {{t+|ru|меняться|tr=menját'sja}} {{impf}},  {{t+|ru|измениться|tr=izmenít'sja}} {{pf.}}
+* Russian: {{t+|ru|изменяться|tr=izmenját'sja|sc=Cyrl}} {{impf}},  {{t+|ru|меняться|tr=menját'sja|sc=Cyrl}} {{impf}},  {{t+|ru|измениться|tr=izmenít'sja|sc=Cyrl}} {{pf.}}
 * Scottish Gaelic: {{t-|gd|mùth}}, {{t-|gd|atharraich}}
 * {{trreq|sk}}
-* Slovene: [[spremeniti]] se
+* Slovene: {{t|sl|spremeniti|alt=spremeniti se}}
 * {{trreq|so}}
 * Spanish: {{t+|es|cambiar}}, {{t+|es|demudar|alt=demudarse}}
 * Swahili: {{t+|sw|mabaliko}}
 * Swedish: {{t+|sv|ändra|alt=ändras}}, {{t+|sv|förändra|alt=förändras}}
 * Telugu: {{t|te|మారు|tr=māru|sc=Telu}}
-* Thai: {{t-|th|เปลี่ยน|tr=bplìan}},  {{t+|th|แปลง|tr=bplaeng}}
+* Thai: {{t-|th|เปลี่ยน|tr=bplìan|sc=Thai}},  {{t+|th|แปลง|tr=bplaeng|sc=Thai}}
 * Tok Pisin: [[senis]]
 * Turkish: {{t+|tr|değişmek}}
 * Vietnamese: {{t+|vi|thay đổi}},  {{t+|vi|đổi}}
@@ -391,11 +393,11 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 {{trans-bottom}}
 
 {{trans-top|to make something into something different}}
-* Arabic: {{t-|ar|غير|tr=ġáyyara}}, imperfect: {{t-|ar|يغير|tr=yuġayyiru}}
+* Arabic: {{t-|ar|غير|tr=ġáyyara|sc=Arab}}, imperfect: {{t-|ar|يغير|tr=yuġayyiru|sc=Arab}}
 * Aromanian: {{t-|rup|alãxescu}}
 * Asturian: {{t-|ast|cambiar}}
 * Basque: {{t+|eu|aldatu}}
-* Bulgarian: {{t+|bg|изменям|tr=izmenjam}},  {{t+|bg|променям|tr=promenjam}}
+* Bulgarian: {{t+|bg|изменям|tr=izmenjam|sc=Cyrl}},  {{t+|bg|променям|tr=promenjam|sc=Cyrl}}
 * Catalan: {{t+|ca|canviar}}, {{t+|ca|modificar}}
 * Chinese:
 *: Cantonese: {{tø|yue|改爲}}
@@ -409,9 +411,9 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * French: {{t+|fr|changer}}, {{t+|fr|transformer}}
 * Galician: {{t+|gl|cambiar}}
 * German: {{t+|de|ändern}}, {{t+|de|verändern}}, {{t+|de|verwandeln}}
-* Greek: {{t+|el|αλλάζω|tr=allázo}}, {{t+|el|μεταβάλλω|tr=metavállo}}
+* Greek: {{t+|el|αλλάζω|tr=allázo|sc=Grek}}, {{t+|el|μεταβάλλω|tr=metavállo|sc=Grek}}
 * Haitian Creole: {{tø|ht|chanje}}
-* Hebrew: {{t+|he|שינה|tr=shiná}}
+* Hebrew: {{t+|he|שינה|tr=shiná|sc=Hebr}}
 * Hungarian: {{t+|hu|változtat}},  {{t+|hu|megváltoztat}}
 * Interlingua: {{t-|ia|cambiar}}
 * Italian: {{t+|it|cambiare}}
@@ -431,14 +433,14 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * Pashto: {{t+|ps|اړول|tr=arrawəl|sc=ps-Arab}}, {{t-|ps|بدلول|tr=badlawəl|sc=ps-Arab}}
 * Polish: {{t+|pl|zmienić}}
 * Portuguese: {{t+|pt|alterar}}, {{t+|pt|mudar}}
-* Romanian: a [[schimba]], a [[modifica]]
-* Russian: {{t+|ru|изменять|tr=izmenját'}} {{impf}},  {{t+|ru|менять|tr=menját'}} {{impf}},  {{t+|ru|изменить|tr=izmenít'}} {{pf.}}
+* Romanian: a {{t|ro|schimba}}, a {{t|ro|modifica}}
+* Russian: {{t+|ru|изменять|tr=izmenját'|sc=Cyrl}} {{impf}},  {{t+|ru|менять|tr=menját'|sc=Cyrl}} {{impf}},  {{t+|ru|изменить|tr=izmenít'|sc=Cyrl}} {{pf.}}
 * Scottish Gaelic: {{t-|gd|mùth}}, {{t-|gd|atharraich}}
 * Slovene: {{t+|sl|spremeniti}}
 * Spanish: {{t+|es|cambiar}}, {{t+|es|demudar}}, {{t-|es|modificar}}
 * Swahili: {{t+|sw|mabaliko}}
 * Swedish: {{t+|sv|ändra}}, {{t+|sv|förändra}}
-* Telugu: {{t|te|మార్చు|tr=mārcu}}
+* Telugu: {{t|te|మార్చు|tr=mārcu|sc=Telu}}
 * Tok Pisin: [[senisim]]
 * Turkish: {{t+|tr|değiştirmek}}
 * Welsh: {{t+|cy|newid}}
@@ -447,7 +449,7 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 {{trans-top|to replace}}
 * Asturian: {{t-|ast|cambiar}}
 * Basque: {{t+|eu|aldatu}}, {{t-|eu|trukatu}}
-* Bulgarian: {{t+|bg|сменям}},  {{t-|bg|заменям}}
+* Bulgarian: {{t+|bg|сменям|tr=smenjam|sc=Cyrl}},  {{t-|bg|заменям|tr=zamenjam|sc=Cyrl}}
 * Crimean Tatar: [[deñiştirmek]], [[avuştırmaq]]
 * Czech: {{t-|cs|vyměnit}}
 * Danish: {{t-|da|skifte}}, {{t-|da|udskifte}}, {{t-|da|ombytte}}
@@ -457,8 +459,8 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * French: {{t+|fr|remplacer}}
 * Galician: {{t+|gl|cambiar}}
 * German: [[wechseln]], [[auswechseln]]
-* Greek: {{t+|el|αλλάζω|tr=allázo}}, {{t+|el|αντικαθιστώ|tr=antikathistó}}
-* Hebrew: {{t-|he|החליף|tr=hekhlíf}}
+* Greek: {{t+|el|αλλάζω|tr=allázo|sc=Grek}}, {{t+|el|αντικαθιστώ|tr=antikathistó|sc=Grek}}
+* Hebrew: {{t-|he|החליף|tr=hekhlíf|sc=Hebr}}
 * Hungarian: {{t+|hu|cserél}},  {{t+|hu|kicserél}},  {{t+|hu|vált}}
 * Japanese: [[代える]] (kaeru), [[替える]] (kaeru), [[換える]] (kaeru)
 * Khmer: {{t|km|ផ្លាស់ប្ដូរ|tr=plah pdoo|sc=Khmr}}
@@ -466,7 +468,7 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * Latvian: {{t-|lv|nomainīt}}, {{t-|lv|aizstāt}}
 * Lithuanian: {{t+|lt|pakeisti}}
 {{trans-mid}}
-* Macedonian: {{t-|mk|заменува|tr=zaménuva}}
+* Macedonian: {{t-|mk|заменува|tr=zaménuva|sc=Cyrl}}
 * {{trreq|mwl}}
 * Norwegian:
 *: Bokmål: {{t-|nb|erstatte}}, {{t-|nb|bytte ut}}
@@ -475,8 +477,8 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * Pashto: {{t-|ps|بدلول|tr=badlawəl|sc=ps-Arab}}
 * Polish: {{t+|pl|zamienić}}
 * Portuguese: {{t+|pt|mudar}}, {{t+|pt|trocar}}
-* Romanian: a [[înlocui]]
-* Russian: {{t+|ru|заменять|tr=zamenját'}} {{impf}}, {{t+|ru|заменить|tr=zamenít'}} {{pf.}}
+* Romanian: a {{t|ro|înlocui}}
+* Russian: {{t+|ru|заменять|tr=zamenját'|sc=Cyrl}} {{impf}}, {{t+|ru|заменить|tr=zamenít'|sc=Cyrl}} {{pf.}}
 * Scottish Gaelic: {{t-|gd|atharraich}}
 * Slovene: [[zamenjati]]
 * Spanish: {{t-|es|reemplazar}}, {{t+|es|cambiar}}, {{t-|es|recambiar}}
@@ -493,7 +495,7 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 * French: {{t+|fr|changer|alt=se changer}}
 * Galician: {{t+|gl|cambiar|alt=cambiarse}}
 * German: {{t+|de|umziehen|alt=sich umziehen}}, {{t-|de|umkleiden|alt=sich umkleiden}}
-* Greek: {{t+|el|αλλάζω|tr=αλλάζω}}
+* Greek: {{t+|el|αλλάζω|tr=αλλάζω|sc=Grek}}
 * Korean: {{t+|ko|갈아입다|tr=gal.a.ip.d'a}}
 * Latvian: {{t-|lv|pārģērbties}}
 * Lithuanian: {{t-|lt|persirengti}}
@@ -503,7 +505,7 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 *: Nynorsk: {{t-|nn|skifte}}
 * Pashto: {{t-|ps|بدلول|tr=badlawəl|sc=ps-Arab}}
 * Polish: {{t+|pl|przebrać się}}, {{t+|pl|przebierać się}}
-* Russian: {{t-|ru|переодеваться|tr=pereodevát'sja}} {{impf}},  {{t-|ru|переодеться|tr=pereodét'sja}} {{pf.}}
+* Russian: {{t-|ru|переодеваться|tr=pereodevát'sja|sc=Cyrl}} {{impf}},  {{t-|ru|переодеться|tr=pereodét'sja|sc=Cyrl}} {{pf.}}
 * Spanish: {{t-|es|cambiarse}}
 * Swedish: {{t-|sv|byta om}}
 * Welsh: {{t+|cy|newid}}
@@ -511,14 +513,14 @@ Via {{etyl|enm}}, from {{etyl|fro}} {{term|changier}}, compare French {{term|cha
 
 {{trans-top|to transfer to another vehicle}}
 * German: {{t+|de|umsteigen}}
-* Greek: {{t-|el|μετεπιβιβάζομαι|tr=metepivivázomai}}
+* Greek: {{t-|el|μετεπιβιβάζομαι|tr=metepivivázomai|sc=Grek}}
 * Hungarian: {{t-|hu|átszáll}}
 * Korean: {{t+|ko|갈아타다|tr=gal.a.ta.da}}
 * Norwegian:
 *: Bokmål: {{t-|nb|bytte}}
 {{trans-mid}}
 * Polish: {{t-|pl|przesiadać się}}, {{t-|pl|przesiąść się}}
-* Russian: {{t-|ru|пересаживаться|tr=peresáživat'sja}} {{impf}},  {{t-|ru|пересесть|tr=peresést'}} {{pf.}}
+* Russian: {{t-|ru|пересаживаться|tr=peresáživat'sja|sc=Cyrl}} {{impf}},  {{t-|ru|пересесть|tr=peresést'|sc=Cyrl}} {{pf.}}
 * Swedish: {{t+|sv|byta}}
 {{trans-bottom}}
 
