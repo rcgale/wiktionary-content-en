@@ -53,19 +53,17 @@
 * [[Appendix:English tag questions]]
 
 =====Translations=====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|to be able}}
 * American Sign Language: {{tø|ase|S@Sternumhigh-PalmDown-S@Sternumhigh-PalmDown S@Chesthigh-PalmDown-S@Chesthigh-PalmDown|tr=can}}, {{tø|ase|1@NearSternumhigh-PalmForward-1@Chesthigh-TipAcross FastContact 1@FromBackFinger-PalmDown-1@Chesthigh-TipAcross|tr=can't}}
-* Arabic: {{t+|ar|قدر|alt=قَدَرَ|tr=qadara}}, {{t-|ar|استطاع|alt=اِسْتَطاعَ|tr=istaTaa3}}, {{t-|ar|ممكن|tr=múmkin|sc=Arab}}
+* Arabic: {{t+|ar|قدر|alt=قَدَرَ|tr=qadara|sc=Arab}}, {{t-|ar|استطاع|alt=اِسْتَطاعَ|tr=istaTaa3|sc=Arab}}, {{t-|ar|ممكن|tr=múmkin|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|قدر|tr=qadar|sc=Arab}}
-* Armenian: {{t-|hy|կարողանալ|tr=karoġanal}}, {{qualifier|Western Armenian}} {{t-|hy|կրնալ|tr=krnal|sc=Armn}}
+* Armenian: {{t-|hy|կարողանալ|tr=karoġanal|sc=Armn}}, {{qualifier|Western Armenian}} {{t-|hy|կրնալ|tr=krnal|sc=Armn}}
 * Aromanian: {{t-|rup|pot}}
-* Belarusian: {{t-|be|мочь|tr=moč’}}, {{t-|be|ўмець|tr=ŭméc’}}
-* Bulgarian: {{t+|bg|мога|tr=móga}}
+* Belarusian: {{t-|be|мочь|tr=moč’|sc=Cyrl}}, {{t-|be|ўмець|tr=ŭméc’|sc=Cyrl}}
+* Bulgarian: {{t+|bg|мога|tr=móga|sc=Cyrl}}
 * Catalan: {{t+|ca|poder}}
 * Chinese:
 *: Mandarin: {{t-|cmn|會|sc=Hani}}, {{t-|cmn|会|tr=huì|sc=Hani}}, {{t-|cmn|能|tr=néng|sc=Hani}}, {{qualifier|the ability/inability to achieve a result is expressed with various verb complements, e.g. -{{t|cmn|得了|tr=-deliǎo|sc=Hani}}/-{{t|cmn|不了|tr=-buliǎo|sc=Hani}}}}
-* Serbo-Croatian: {{t+|sh|moći}}
 * Czech: {{t+|cs|moci}}, {{t+|cs|umět}}
 * Dalmatian: {{tø|dlm|potar}}
 * Danish: {{t+|da|kunne}}
@@ -80,11 +78,11 @@
 * Gilbertese: [[kona]]
 * Greek: {{t+|el|μπορώ|tr=boró|sc=Grek}}, {{t+|el|δύναμαι|tr=dýnamai|sc=Grek}}
 * Haitian Creole: {{tø|ht|ka}}, {{tø|ht|kapab}}, {{tø|ht|kab}}
-* Hebrew: {{t-|he|יכול|m|tr=yakhól}}, {{t-|he|מסוגל|m|tr=m'sugál}}
-* Hindi: {{t-|hi|सकना|tr=saknā}}, {{t-|hi|समर्थ होना|tr=samartha hōnā}}
+* Hebrew: {{t-|he|יכול|m|tr=yakhól|sc=Hebr}}, {{t-|he|מסוגל|m|tr=m'sugál|sc=Hebr}}
+* Hindi: {{t-|hi|सकना|tr=saknā|sc=Deva}}, {{t-|hi|समर्थ होना|tr=samartha hōnā|sc=Deva}}
 * Hungarian: {{t+|hu|tud}}
 * Icelandic: {{t+|is|geta}}
-* Irish: {{t-|ga|is féidir le}}, {{t-|ga|tig le}}, {{t-|ga|féad}}, {{l|ga|bí}} {{t-|ga|in ann}}
+* Irish: {{t-|ga|is féidir le}}, {{t-|ga|tig le}}, {{t-|ga|féad}}, {{t|ga|bí}} {{t-|ga|in ann}}
 * Italian: {{t+|it|sapere}}, {{t+|it|riuscire}}, {{t-|it|essere capace}}, {{t+|it|potere}}
 * Japanese: {{t+|ja|できる|tr=dekíru}}, {{t+|ja|れる|alt=-れる|tr=-reru}}, {{t+|ja|られる|alt=-られる|tr=-rareru}} {{qualifier|expressed with the potential form of the verb}}
 * Korean: {{t-|ko|할 수 있다|alt=...할 수 있다|tr=...hal su itda|sc=Hang}}
@@ -101,13 +99,13 @@
 * Occitan: {{t-|oc|pòder}}, {{t-|oc|podre}}
 * Old English: {{t-|ang|cunnan}}
 * Old Saxon: {{tø|osx|kunnan}}
-* Persian: {{t-|fa|قادر بودن}}, {{t+|fa|توانستن|tr=tavânestan}}
+* Persian: {{t-|fa|قادر بودن|sc=fa-Arab}}, {{t+|fa|توانستن|tr=tavânestan|sc=fa-Arab}}
 * Pipil: {{tø|ppl|weli}}, {{tø|ppl|hueli}}
 * Polish: {{t+|pl|móc}}, {{t+|pl|umieć}}, {{t+|pl|potrafić}}
-* Portuguese: [[poder]], [[ser]] [[capaz]], [[conseguir]]
+* Portuguese: [[poder]], {{t|pt|ser}} {{t|pt|capaz}}, [[conseguir]]
 * Romanian: {{t+|ro|putea}}
 * Romansch: {{qualifier|Rumantsch Grischun, Puter, Vallader}} {{t-|rm|pudair}}, {{qualifier|Sursilvan, Sutsilvan}} {{t-|rm|puder}}, {{qualifier|Surmiran}} {{t-|rm|pudeir}}
-* Russian: {{t+|ru|мочь|tr=moč’|sc=Cyrl}}, {{t+|ru|смочь|tr=smoč’|sc=Cyrl}}, {{t+|ru|уметь|tr=umét’|sc=Cyrl}} (''to be skilled enough''), {{t+|ru|быть в состоянии|tr=byt’ v sostojánii}}
+* Russian: {{t+|ru|мочь|tr=moč’|sc=Cyrl}}, {{t+|ru|смочь|tr=smoč’|sc=Cyrl}}, {{t+|ru|уметь|tr=umét’|sc=Cyrl}} (''to be skilled enough''), {{t+|ru|быть в состоянии|tr=byt’ v sostojánii|sc=Cyrl}}
 * Sardinian: {{t-|sc|podere}}, {{t-|sc|podi}}, {{t-|sc|podiri}}, {{t-|sc|pori}}, {{t-|sc|porrere}}, {{t-|sc|potere}}
 * Scottish Gaelic: {{t-|gd|'s urrainn do}}, {{t-|gd|faod}}
 * Serbo-Croatian:
@@ -118,10 +116,10 @@
 * Spanish: {{t+|es|poder}}
 * Swedish: {{t+|sv|kunna}}
 * Tamil: {{t-|ta|செய்யக்கூடிய|sc=Taml}}
-* Thai: {{t-|th|ได้|tr=dâai}}, {{t-|th|ย่อม|tr=yôm}}, {{t+|th|สามารถ|tr=săa-mâat}}
+* Thai: {{t-|th|ได้|tr=dâai|sc=Thai}}, {{t-|th|ย่อม|tr=yôm|sc=Thai}}, {{t+|th|สามารถ|tr=săa-mâat|sc=Thai}}
 * Turkish: {{t-|tr|-ebilmek}}, {{t-|tr|-abilmek}}
-* Ukrainian: {{t-|uk|могти|tr=mohtý}}, {{t-|uk|вміти|tr=vmíty}} / {{t-|uk|уміти|tr=umíty}}
-* Urdu: {{t-|ur|سکنا|tr=saknā}}
+* Ukrainian: {{t-|uk|могти|tr=mohtý|sc=Cyrl}}, {{t-|uk|вміти|tr=vmíty|sc=Cyrl}} / {{t-|uk|уміти|tr=umíty|sc=Cyrl}}
+* Urdu: {{t-|ur|سکنا|tr=saknā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|có thể}}, {{t+|vi|được}}
 * Welsh: {{t-|cy|gallu}}, {{t-|cy|medru}}
 * Zazaki: {{tø|zza|şikenaene}}
@@ -129,8 +127,8 @@
 
 {{trans-top|may}}
 * American Sign Language: {{tø|ase|S@Sternumhigh-PalmDown-S@Sternumhigh-PalmDown S@Chesthigh-PalmDown-S@Chesthigh-PalmDown}}
-* Arabic: {{t-|ar|استطاع|tr=istaTa`a}}, {{t-|ar|ممكن|tr=múmkin|sc=Arab}}
-* Armenian: {{t-|hy|կարողանալ|tr=karoġanal}}
+* Arabic: {{t-|ar|استطاع|tr=istaTa`a|sc=Arab}}, {{t-|ar|ممكن|tr=múmkin|sc=Arab}}
+* Armenian: {{t-|hy|կարողանալ|tr=karoġanal|sc=Armn}}
 * Chinese:
 *: Mandarin: {{t-|cmn|能|tr=néng|sc=Hani}}, {{t-|cmn|可以|tr=kěyǐ|sc=Hani}}
 * Czech: {{t+|cs|smět}}
@@ -142,22 +140,22 @@
 * French: {{t+|fr|pouvoir}}
 * Georgian: {{t-|ka|შეიძლება|sc=Geor}}
 * German: {{t+|de|können}}, {{t+|de|dürfen}}
-* Greek: {{t+|el|μπορώ}} (boró)
-* Hebrew: {{t-|he|יכול|m|tr=yakhól}}
-* Hindi: {{t-|hi|सकना|tr=saknā}}
+* Greek: {{t+|el|μπορώ|sc=Grek}} (boró)
+* Hebrew: {{t-|he|יכול|m|tr=yakhól|sc=Hebr}}
+* Hindi: {{t-|hi|सकना|tr=saknā|sc=Deva}}
 * Hungarian: {{t+|hu|-hat}}, {{t+|hu|-het}}
 * Icelandic: {{t+|is|mega}}
 * Italian: {{t+|it|potere}}
 * Latin: {{t+|la|possum}}, {{qualifier|use the subjunctive tense of the verb that follows )}} {{t-|la|sim|tr=i can be}}
 {{trans-mid}}
 * Luxembourgish: {{t+|lb|kënnen}}, {{t-|lb|däerfen}}, {{t-|lb|dierfen}}, {{t-|lb|duerfen}}
-* Macedonian: {{t-|mk|може|tr=móže}}
+* Macedonian: {{t-|mk|може|tr=móže|sc=Cyrl}}
 * Malay: {{t-|ms|boleh}}
 * Maltese: {{t-|mt|forsi}}
 * Norwegian: {{t+|no|kunne}}
 * Old English: {{t-|ang|magan}}
 * Old Saxon: {{tø|osx|mugan}}
-* Persian: {{t+|fa|توانستن|tr=tavânestan}}, {{t-|fa|امکان داشتن}}
+* Persian: {{t+|fa|توانستن|tr=tavânestan|sc=fa-Arab}}, {{t-|fa|امکان داشتن|sc=fa-Arab}}
 * Polish: {{t+|pl|móc}}
 * Portuguese: {{t+|pt|poder}}
 * Russian: {{t+|ru|мочь|tr=moč’|sc=Cyrl}}
@@ -166,9 +164,9 @@
 * Slovene: {{t-|sl|smeti}}
 * Spanish: {{t+|es|poder}}
 * Swedish: {{t+|sv|kunna}}
-* Thai: {{t-|th|ย่อม|tr=yôm}}
+* Thai: {{t-|th|ย่อม|tr=yôm|sc=Thai}}
 * Turkish: {{t-|tr|-ebilmek}}, {{t-|tr|-abilmek}}
-* Urdu: {{t-|ur|سکنا|tr=saknā}}
+* Urdu: {{t-|ur|سکنا|tr=saknā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|có thể}}, {{t+|vi|có lẽ}}
 * Welsh: {{t+|cy|cael}}
 {{trans-bottom}}
@@ -180,13 +178,13 @@
 * {{ttbc|hu}}: [[tud]]
 * {{ttbc|io}}: [[povas]]
 * {{ttbc|id}}: [[dapat]], [[mampu]], [[bisa]]
-* {{ttbc|ko}}: ...[[할 수 있다]] (...hal su itta)
+* {{ttbc|ko}}: <!-- no xte -->...[[할 수 있다]] (...hal su itta)
 {{trans-mid}}
 * {{ttbc|ku}}: [[kanîn]], [[karîn]], [[şên]], [[şiyan]], [[tiwanîn]]
 * {{ttbc|oc}}: [[poder]]
 * {{ttbc|fa}}: {{fa-Arab|[[توانستن]]}} (tavânestan)
 * {{ttbc|ro}}: [[putea]]
-* {{ttbc|tr}}: -[[bil]]- ''(verbal infix)''
+* {{ttbc|tr}}: <!-- no xte -->-[[bil]]- {{qualifier|verbal infix}}
 * {{ttbc|uk}}: [[могти]] (mókhti)
 {{trans-bottom}}
 
@@ -229,7 +227,7 @@ From {{etyl|enm}} {{term|canne|lang=enm}}, from {{etyl|ang}} {{term|canne||glass
 
 =====Translations=====
 {{trans-top|a more or less cylindrical vessel for liquids}}
-* Bulgarian: {{t-|bg|гюм|m}}
+* Bulgarian: {{t-|bg|гюм|m|tr=gjum|sc=Cyrl}}
 * Catalan: {{t-|ca|llauna|f}}
 * Chinese: [[罐頭]], [[罐头]] (guàn tóu)
 * Czech: {{t+|cs|plechovka|f}}
@@ -249,12 +247,12 @@ From {{etyl|enm}} {{term|canne|lang=enm}}, from {{etyl|ang}} {{term|canne||glass
 * Kurdish:
 *: Sorani: {{t|ku|قوتو|tr=qutu|sc=ku-Arab}}, {{t|ku|ته‌نه‌که‌|tr=tanaka|sc=ku-Arab}}
 * Luxembourgish: {{t-|lb|Béchs|f}}, {{t-|lb|Dous|f}}, {{t-|lb|Biddong|m}}
-* Macedonian: {{t-|mk|лименка|f|tr=límenka}}
+* Macedonian: {{t-|mk|лименка|f|tr=límenka|sc=Cyrl}}
 * Malay: {{t-|ms|tin}}
 * Norwegian: {{t+|no|boks|m}}, {{t+|no|kanne|c}}
 * Polish: {{t+|pl|puszka|f}}
 * Portuguese: {{t+|pt|lata|f}}
-* Russian: {{t+|ru|бидон|m|tr=bidón}}
+* Russian: {{t+|ru|бидон|m|tr=bidón|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|cana|m}}
 * Slovene: {{t+|sl|pločevinka|f}}
 * Spanish: {{t+|es|lata|f}}
@@ -278,11 +276,11 @@ From {{etyl|enm}} {{term|canne|lang=enm}}, from {{etyl|ang}} {{term|canne||glass
 * Japanese: [[缶]] ([[かん]], kan)
 {{trans-mid}}
 * Luxembourgish: {{t+|lb|Géisskan|f}}
-* Macedonian: {{t-|mk|канта|f|tr=kánta}}, {{t-|mk|кофа|f|tr=kófa}}
+* Macedonian: {{t-|mk|канта|f|tr=kánta|sc=Cyrl}}, {{t-|mk|кофа|f|tr=kófa|sc=Cyrl}}
 * Norwegian: {{t+|no|kanne|c}}
 * Polish: {{t+|pl|konewka|f}}, {{t-|pl|polewaczka|f}}
 * Portuguese: {{t-|pt|regador|m}}
-* Russian: {{t+|ru|лейка|f|tr=l'éjka}}
+* Russian: {{t+|ru|лейка|f|tr=l'éjka|sc=Cyrl}}
 * Slovene: [[škropilnica]] {{f}}
 * Spanish: {{t+|es|regadera|f}}
 * Swedish: {{t+|sv|vattenkanna|c}}, {{t+|sv|kanna|c}}
@@ -290,8 +288,8 @@ From {{etyl|enm}} {{term|canne|lang=enm}}, from {{etyl|ang}} {{term|canne||glass
 {{trans-bottom}}
 
 {{trans-top|a tin-plate canister}}
-* Bulgarian: {{t-|bg|консервна кутия}}
-* Chinese: [[金屬]][[容器]], [[金属]][[容器]] (jīn shǔ róng qì)
+* Bulgarian: {{t-|bg|консервна кутия|tr=konserva kutija|sc=Cyrl}}
+* Chinese: [[金屬]]<!-- no xte -->[[容器]], [[金属]]<!-- no xte -->[[容器]] (jīn shǔ róng qì)
 * Czech: {{t-|cs|konzerva|f}}
 * Danish: {{t+|da|dåse}}
 * Dutch: {{t+|nl|conservenblik|n}}
@@ -299,20 +297,20 @@ From {{etyl|enm}} {{term|canne|lang=enm}}, from {{etyl|ang}} {{term|canne||glass
 * Finnish: {{t-|fi|säilyketölkki}}
 * French: {{t+|fr|boîte de conserve|f}}
 * German: {{t+|de|Dose|f}}, {{t+|de|Konservendose|f}}
-* Greek: {{t+|el|κονσέρβα|f|tr=konsérva}}
-* Hebrew: {{t-|he|קופסת שימורים|f|tr=qufsát shimurím}}
+* Greek: {{t+|el|κονσέρβα|f|tr=konsérva|sc=Grek}}
+* Hebrew: {{t-|he|קופסת שימורים|f|tr=qufsát shimurím|sc=Hebr}}
 * Hungarian: {{t+|hu|konzerv}}
 * Italian: {{t+|it|scatoletta|f}}
 * Kurdish:
 *: Sorani: {{t|ku|قوتو|tr=qutu|sc=ku-Arab}}, {{t|ku|ته‌نه‌که‌|tr=tanaka|sc=ku-Arab}}
 {{trans-mid}}
 * Luxembourgish: {{t-|lb|Béchs|f}}, {{t-|lb|Dous|f}}
-* Macedonian: {{t-|mk|конзерва|f|tr=konzérva}}
+* Macedonian: {{t-|mk|конзерва|f|tr=konzérva|sc=Cyrl}}
 * Malay: {{t-|ms|tin}}
 * Norwegian: {{t+|no|boks|m}}, {{t-|no|hermetikkboks|m}}
 * Polish: [[kanka]] {{f}}, [[kanister]] {{m}}
 * Portuguese: {{t+|pt|lata|f}}
-* Russian: {{t+|ru|консервная банка|f|tr=kons'érvnaja bánka}}
+* Russian: {{t+|ru|консервная банка|f|tr=kons'érvnaja bánka|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|cana|m}}
 * Slovene: [[pločevinka]] {{f}}, [[konzerva]] {{f}} (informal)
 * Spanish: {{t+|es|lata|f}}
@@ -321,7 +319,7 @@ From {{etyl|enm}} {{term|canne|lang=enm}}, from {{etyl|ang}} {{term|canne||glass
 {{trans-bottom}}
 
 {{trans-top|toilet}}
-* Bulgarian: {{t-|bg|тоалетна чиния}}
+* Bulgarian: {{t-|bg|тоалетна чиния|tr=toaletna činija|sc=Cyrl}}
 * Chinese: [[廁所]], [[厕所]] (cè suǒ)
 * Danish: {{t+|da|toilet}}
 * Dutch: {{t+|nl|toilet|n}}, {{t+|nl|pot|m}}
@@ -353,8 +351,8 @@ From {{etyl|enm}} {{term|canne|lang=enm}}, from {{etyl|ang}} {{term|canne||glass
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: {{Arab|[[صفيحة]]}} {{unicode|(ʂafīħa)}} {{f}}
-* {{ttbc|ka}}: {{l|ka|კოლოფი|tr=kolop'i}}, {{l|ka|ქილა|tr=k'ila}}
+* {{ttbc|ar}}: {{t|ar|صفيحة|f|tr=ʂafīħa|sc=Arab}}
+* {{ttbc|ka}}: {{t|ka|კოლოფი|tr=kolop'i}}, {{t|ka|ქილა|tr=k'ila}}
 {{trans-mid}}
 * {{ttbc|io}}: [[buxeto metala]]
 * {{ttbc|ko}}: [[깡통]] (kkangtong)
@@ -374,7 +372,7 @@ From {{etyl|enm}} {{term|canne|lang=enm}}, from {{etyl|ang}} {{term|canne||glass
 
 =====Translations=====
 {{trans-top|to preserve}}
-* Bulgarian: {{t+|bg|консервирам}}
+* Bulgarian: {{t+|bg|консервирам|tr=konserviram|sc=Cyrl}}
 * Catalan: {{t+|ca|enllaunar}}
 * Chinese: [[保存]], [[保存]] (bǎo cún)
 * Czech: {{t-|cs|konzervovat}}
@@ -385,9 +383,9 @@ From {{etyl|enm}} {{term|canne|lang=enm}}, from {{etyl|ang}} {{term|canne||glass
 * French: {{t+|fr|conserver}}
 * German: {{t+|de|einmachen}}
 {{trans-mid}}
-* Greek: {{t+|el|κονσερβοποιώ}} (konservopoió)
+* Greek: {{t+|el|κονσερβοποιώ|sc=Grek}} (konservopoió)
 * Italian: {{t-|it|inscatolare}}
-* Macedonian: {{t-|mk|конзервира|tr=konzervíra}}
+* Macedonian: {{t-|mk|конзервира|tr=konzervíra|sc=Cyrl}}
 * Malay: {{t-|ms|mengetinkan}}
 * Polish: {{t+|pl|konserwować}}
 * Russian: {{t+|ru|консервировать|sc=Cyrl|tr=konservírovat’}} {{impf}}, {{t+|ru|законсервировать|sc=Cyrl|tr=zakonservírovat’}} {{pf.}}
@@ -397,7 +395,7 @@ From {{etyl|enm}} {{term|canne|lang=enm}}, from {{etyl|ang}} {{term|canne||glass
 {{trans-bottom}}
 
 {{trans-top|to discard}}
-* Bulgarian: {{t+|bg|захвърлям}}
+* Bulgarian: {{t+|bg|захвърлям|tr=zachvărljam|sc=Cyrl}}
 * Chinese: [[丟棄]], [[丢弃]] (diū qì)
 * Danish: {{t-|da|smide ud}}
 * Dutch: {{t+|nl|afvoeren}}
@@ -407,7 +405,7 @@ From {{etyl|enm}} {{term|canne|lang=enm}}, from {{etyl|ang}} {{term|canne||glass
 * Italian: {{t-|it|scartare}}
 * Slovene: [[odvreči]], [[zavreči]]
 * Spanish: {{t-|es|descartar}}
-* Thai: {{t-|th|ทิ้ง|tr=tíng}}
+* Thai: {{t-|th|ทิ้ง|tr=tíng|sc=Thai}}
 {{trans-bottom}}
 
 {{trans-top|to shut up}}
@@ -415,10 +413,10 @@ From {{etyl|enm}} {{term|canne|lang=enm}}, from {{etyl|ang}} {{term|canne||glass
 * Danish: {{t-|da|holde mund}}
 * Dutch: {{t-|nl|stil houden}}
 * Esperanto: {{t-|eo|silenti}}, {{t-|eo|silentigi}}
-* French: [[se taire]] ''[[irreg]]''
-* German: die [[Klappe]] [[halten]], {{t-|de|den Mund halten}}
+* French: {{t|fr|taire|alt=se taire}}
+* German: {{t|de|die Klappe halten}}, {{t-|de|den Mund halten}}
 {{trans-mid}}
-* Hebrew: {{t+|he|סתם|tr=satám}}
+* Hebrew: {{t+|he|סתם|tr=satám|sc=Hebr}}
 * Italian: {{t+|it|tacere}}, {{t+|it|chiudere}}
 * Slovene: [[utihniti]]
 * Spanish: {{t+|es|cerrar}}
@@ -427,12 +425,12 @@ From {{etyl|enm}} {{term|canne|lang=enm}}, from {{etyl|ang}} {{term|canne||glass
 {{trans-bottom}}
 
 {{trans-top|to fire or dismiss an employee}}
-* Bulgarian: {{t+|bg|уволнявам}}
+* Bulgarian: {{t+|bg|уволнявам|tr=uvolnjavam|sc=Cyrl}}
 * Chinese: [[解雇]], [[解雇]] (jiě gù)
 * Danish: {{t-|da|afskedige}}, {{t-|da|fyre}}
 * Esperanto: {{t-|eo|maldungi}}
 * German: {{t+|de|kündigen}}, {{t+|de|feuern}}, {{t-|de|rausschmeißen}}
-* Hebrew: {{t-|he|פיטר|tr=pitér}}
+* Hebrew: {{t-|he|פיטר|tr=pitér|sc=Hebr}}
 * Italian: {{t-|it|licenziare}}
 {{trans-mid}}
 * Macedonian: {{t|mk|отпушта|tr=ótpušta|sc=Cyrl}}
