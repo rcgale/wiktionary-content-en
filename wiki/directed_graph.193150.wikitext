@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Noun===
-{{en-noun|sg=[[directed]] [[graph]]}}
+{{en-noun|head=[[directed]] [[graph]]}}
 
 # {{graph theory}} A [[graph]] in which the [[edge]]s are [[ordered pair]]s, so that, if the edge (a, b) is in the graph, the edge (b, a) need not be in the graph and is distinct from (a, b) if it is.
 #: A '''directed graph''' (''A'',''R'') is a set of vertices ''A'' together with an incidence relation ''R'': if ''aRb'' then there is an edge going from ''A'' to ''B''.
