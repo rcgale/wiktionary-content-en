@@ -22,42 +22,42 @@
 {{punctuation }}
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|The punctuation mark “.”}}
-* Arabic: {{t-|ar|نقطة|f|tr=nuqTa}},  {{t-|ar|علامة فصلية|f|tr=3alaama faSlíyya}}
-* Armenian: {{qualifier|indicating end of sentence}} {{t-|hy|վերջակետ|tr=verǰaket}},  {{qualifier|marking an abbreviation}} {{t-|hy|կետ|tr=ket}}
+* Arabic: {{t-|ar|نقطة|f|tr=nuqTa|sc=Arab}},  {{t-|ar|علامة فصلية|f|tr=3alaama faSlíyya|sc=Arab}}
+* Armenian: {{qualifier|indicating end of sentence}} {{t-|hy|վերջակետ|tr=verǰaket|sc=Armn}},  {{qualifier|marking an abbreviation}} {{t-|hy|կետ|tr=ket|sc=Armn}}
 * Bengali: {{qualifier|Bengali symbol}} {{t-|bn|।|sc=Beng}}
-* Bulgarian: {{t+|bg|точка|f}}
+* Bulgarian: {{t+|bg|точка|f|tr=točka|sc=Cyrl}}
 * Burmese: {{qualifier|symbol}} {{t-|my|။|sc=Mymr}}, {{t-|my|၊|sc=Mymr}}
 * Chinese:
 *: Mandarin: {{t-|cmn|。|sc=Hani}} {{qualifier|Chinese symbol}}, {{t|cmn|句號|sc=Hani}},  {{t|cmn|句号|tr=jùhào|sc=Hani}} , {{t|cmn|句點|sc=Hani}},  {{t|cmn|句点|tr=jùdiǎn|sc=Hani}} (European dot: “.”)
-* Serbo-Croatian: {{t-|sh|točka|f}}
 * Czech: {{t-|cs|tečka|f}}
 * Danish: {{t+|da|punktum|n}}
 * Dutch: {{t+|nl|punt}}
 * Esperanto: {{t-|eo|punkto}}
 * Finnish: {{t+|fi|piste}}
 * French: {{t+|fr|point|m}}
-* Greek: {{t+|el|τελεία|f|tr=teleía}}
-* Hindi: {{t-|hi|।}} {{qualifier|Hindi symbol}},  {{t+|hi|दंड|m|tr=da.n.d}},  {{t-|hi|पूर्ण विराम|tr=pūrṇa virām}}
+* Greek: {{t+|el|τελεία|f|tr=teleía|sc=Grek}}
+* Hindi: {{t-|hi|।|sc=Deva}} {{qualifier|Hindi symbol}},  {{t+|hi|दंड|m|tr=da.n.d|sc=Deva}},  {{t-|hi|पूर्ण विराम|tr=pūrṇa virām|sc=Deva}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|pont}}
 * Irish: {{t-|ga|lánstad|m}}
 * Italian: {{t+|it|punto|m}}
 * Japanese: {{t+|ja|。}} {{qualifier|Japanese symbol}}, {{t-|ja|句点|tr=くてん, kuten}}
-* Macedonian: {{t-|mk|точка|f|tr=tóčka}}
+* Macedonian: {{t-|mk|точка|f|tr=tóčka|sc=Cyrl}}
 * Malay: {{t-|ms|noktah}}
 * Persian: {{t+|fa|نقطه|tr=noqte|sc=fa-Arab}}
 * Portuguese: {{t+|pt|ponto|m}}
-* Russian: {{t+|ru|точка|f|tr=tóčka}}
-* Sanskrit: {{t-|sa|।}},  {{t-|sa|दंड|m|tr=daṇḍá}}
+* Russian: {{t+|ru|точка|f|tr=tóčka|sc=Cyrl}}
+* Sanskrit: {{t-|sa|।|sc=Deva}},  {{t-|sa|दंड|m|tr=daṇḍá|sc=Deva}}
 * Scottish Gaelic: {{t-|gd|stad-phuing|f}}
-* Serbo-Croatian: {{t-|sh|tačka|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|тачка|f|sc=Cyrl}}, {{t-|sh|точка|f|sc=Cyrl}}
+*: Roman: {{t-|sh|tačka|f}}, {{t-|sh|točka|f}}
 * Spanish: {{t+|es|punto|m}}
 * Swedish: {{t+|sv|punkt|c}}
-* Telugu: {{t+|te|చుక్క}}
+* Telugu: {{t+|te|చుక్క|sc=Telu}}
 * Turkish: {{t+|tr|nokta}}
-* Urdu: {{t-|ur|۔}} {{qualifier|Urdu symbol}}
+* Urdu: {{t-|ur|۔|sc=ur-Arab}} {{qualifier|Urdu symbol}}
 {{trans-bottom}}
 
 ===Interjection===
@@ -71,9 +71,9 @@
 
 ====Translations====
 {{trans-top|And nothing less}}
-* Finnish: [[ja#Finnish|ja]] [[piste#Finnish|piste]]
-* French: [[un point c'est tout|un point c’est tout]], [[point]], [[point final]]
-* Greek: {{t+|el|τελεία και παύλα}}
+* Finnish: {{t|fi|ja}} {{t|fi|piste}}
+* French: {{t|fr|un point c'est tout|alt=un point c’est tout}}, {{t|fr|point}}, {{t|fr|point final}}
+* Greek: {{t+|el|τελεία και παύλα|sc=Grek}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|ponto final}}
 * Swedish: {{t-|sv|och därmed basta}}!, {{t-|sv|punkt slut}}
