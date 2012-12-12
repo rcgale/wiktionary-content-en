@@ -18,6 +18,8 @@ From {{prefix|over|ride}}.
 #: ''The Congress promptly '''overrode''' the president's veto, passing the bill into law''.
 #* {{RQ:Orwell Animal Farm|6}}
 #*: The needs of the windmill must '''override''' everything else, he said.
+# {{software|object-oriented}} To define a new behaviour of a [[method]] by creating the same [[method]] of the [[superclass]] with the same name and [[signature]].
+#: ''How the cat runs is defined in the method <code>run()</code> of the class <code>Cat</code>, which '''overrides''' the same method with the same signature of superclass called <code>Mammal</code>.''
 
 ====Usage notes====
 * The form {{term|overrode|lang=en}} is sometimes used as a past participle, in place of the standard {{term|overridden|lang=en}}.
@@ -36,6 +38,11 @@ From {{prefix|over|ride}}.
 * Japanese: {{t|ja|覆す|tr=kutsugaesu}}
 {{trans-mid}}
 * Norwegian: {{t-|no|motvirke}}, {{t-|no|overstyre}}
+{{trans-bottom}}
+
+{{trans-top|{{software|object-oriented}} To define a new behaviour of a [[method]]}}
+* German: {{t-|de|überschreiben}}
+{{trans-mid}}
 {{trans-bottom}}
 
 ===Noun===
