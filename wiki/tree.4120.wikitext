@@ -39,7 +39,7 @@ From {{etyl|enm}} {{term|tree|lang=enm}}, {{term|tre|lang=enm}}, {{term|treo|lan
 #: ''He put a shoe '''tree''' in each of his shoes.'' <!-- Move to [[shoe tree]]? -->
 # The structural [[frame]] of a [[saddle]].
 # {{graph theory}} A connected [[graph]] with no cycles or, equivalently, a connected graph with ''n'' vertices and ''n''-1 edges.
-# {{computing theory}} A [[recursive]] [[data structure]] that conforms to the properties of a graph theory tree. Usually used to organize data for searching.
+# {{computing theory}} A [[recursive]] [[data structure]] in which each [[node]] has zero or more nodes as children.
 # {{graphical user interface}} A [[display]] or listing of [[entries]] or [[element|elements]] such that there are [[primary]] and [[secondary]] entries shown, usually linked by drawn lines or by indenting to the right.
 #: ''We’ll show it as a '''tree''' list.''
 # Any [[structure]] or [[construct]] having [[branch]]es akin to (1).
