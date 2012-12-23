@@ -2,7 +2,7 @@
 {{wikipedia|copula}}
 
 ===Etymology===
-From {{etyl|la}} {{term|lang=la|copula||bond, tie}}, contraction of *{{term||co-apula}}, from {{term|co||together}} + {{term|apere||to join}}
+Borrowed from {{etyl|la}} {{term|lang=la|copula||bond, tie}}. See there for details.
 
 ===Noun===
 {{en-noun|pl2=copulae}}
@@ -33,8 +33,8 @@ From {{etyl|la}} {{term|lang=la|copula||bond, tie}}, contraction of *{{term||co-
 
 ====Translations====
 {{trans-top|grammar: linking kind of word}}
-* Arabic: {{t-|ar|رابطة|f|tr=raabiTa}}, {{t-|ar|رابط|m|tr=raabiT}}
-* Chechen: {{tø|ce|хоттам}}
+* Arabic: {{t-|ar|رابطة|f|tr=raabiTa|sc=Arab}}, {{t-|ar|رابط|m|tr=raabiT|sc=Arab}}
+* Chechen: {{tø|ce|хоттам|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t|cmn|係詞|sc=Hani}}, {{t|cmn|系词|tr=xìcí|sc=Hani}}, {{t-|cmn|連詞|sc=Hani}}, {{t-|cmn|连词|tr=liáncí|sc=Hani}}, {{t|cmn|連繫動詞|sc=Hani}}, {{t|cmn|连系动词|tr=liánxì dòngcí|sc=Hani}}
 * Danish: {{t-|da|kopula|n}}
@@ -48,7 +48,7 @@ From {{etyl|la}} {{term|lang=la|copula||bond, tie}}, contraction of *{{term||co-
 * Italian: {{t-|it|copula|f}}
 * Japanese: {{t-|ja|繋辞|tr=けいじ, keiji}}, {{t+|ja|コピュラ|tr=kopyura}}, {{t-|ja|連辞|tr=れんじ, renji}}, {{t-|ja|指定詞|tr=していし, shiteishi}}, {{t-|ja|コプラ|tr=kopura}}
 * Polish: {{t+|pl|łącznik|m}}, {{t-|pl|spójka|f}}
-* Russian: {{t+|ru|связка|f|tr=svjázka}}, {{t-|ru|копула|f|tr=kópula}}, {{t-|ru|глагол-связка|tr=glagól-svjázka}}
+* Russian: {{t+|ru|связка|f|tr=svjázka|sc=Cyrl}}, {{t-|ru|копула|f|tr=kópula|sc=Cyrl}}, {{t-|ru|глагол-связка|tr=glagól-svjázka|sc=Cyrl}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|копула|m|sc=Cyrl}}
 *: Latin: {{t-|sh|kopula|m}}
@@ -87,7 +87,7 @@ From {{etyl|la}} {{term|lang=la|copula||bond, tie}}, contraction of *{{term||co-
 ==Italian==
 
 ===Etymology===
-Borrowed from {{etyl|la|it}} {{term|copula|lang=la}}. Cf. {{term|coppia|lang=it}}, from the same source.
+Borrowed from {{etyl|la|it}} {{term|copula|lang=la}}. Cognate to Italian {{term|coppia|lang=it}}, from the same source, but inherited.
 
 ===Noun===
 {{it-noun|copul|f|a|e}}
@@ -96,7 +96,7 @@ Borrowed from {{etyl|la|it}} {{term|copula|lang=la}}. Cf. {{term|coppia|lang=it}
 # [[conjunction]]
 
 ===Verb===
-'''copula'''
+{{head|it|verb form}}
 
 # {{conjugation of|copulare||3|s|pres|ind|lang=it}}
 # {{conjugation of|copulare||2|s|imp|lang=it}}
@@ -104,14 +104,12 @@ Borrowed from {{etyl|la|it}} {{term|copula|lang=la}}. Cf. {{term|coppia|lang=it}
 ===Anagrams===
 * [[cupola#Italian|cupola]]
 
-[[Category:Italian verb forms]]
-
 ----
 
 ==Latin==
 
 ===Etymology===
-For ''[[coapula]]'', from '''[[co-]]''' + '''[[apere]]''' ‘to bond’. Possibly related to Semitic root ''[[כפל]]'' ‘double’.
+Contraction of {{recons|co-apula|lang=la}}, from {{term|co|together|lang=la}} + {{term|apere|to join|lang=la}}, {{term|apo|apō|I join|lang=la}}.
 
 ===Noun===
 {{la-noun|cōpula|copulae|cōpulae|f|first}}
@@ -122,16 +120,16 @@ For ''[[coapula]]'', from '''[[co-]]''' + '''[[apere]]''' ‘to bond’. Possibl
 {{la-decl-1st|copul|cōpul}}
 
 ====Derived terms====
-* [[copulo]]
+* {{l|la|copulo}}
 
 ====Descendants====
 {{top2}}
 * English: [[couple]]
 * French: {{l|fr|couple}}, {{l|fr|copule}}
-* Italian: [[coppia]], {{l|it|copula}}
+* Italian: {{l|it|coppia}}, {{l|it|copula}}
 * Portuguese: {{l|pt|copla}}, {{l|pt|cópula}}
 {{mid2}}
-* Romanian: {{l|ro|cuplă}}, [[cuplu]]
+* Romanian: {{l|ro|cuplă}}, {{l|ro|cuplu}}
 * Russian: {{l|ru|копула|ко́пула|tr=kópula}}
 * Spanish: {{l|es|cobra}}, {{l|es|colla}}, {{l|es|copla}}, {{l|es|cópula}}
 {{bottom}}
