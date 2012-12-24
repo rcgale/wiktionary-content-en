@@ -86,7 +86,7 @@ From {{etyl|enm}} {{term|eten|lang=enm}}, from {{etyl|ang}} {{term|etan||to eat|
 * Akkadian: {{tø|akk|𒅥|tr=akālu|sc=Xsux}}
 * Albanian: {{t-|sq|ha}}
 * Amharic: {{t-|am|መብላት|tr=mäblat|sc=Ethi}}
-* Arabic: {{t+|ar|أكل|tr=ʼákala}}
+* Arabic: {{t+|ar|أكل|tr=ʾákala}} imperfective: {{t|ar|يأكل|tr=yaʾkulu}}
 * Aramaic: {{tø|arc|ܐܟܠ|tr=ʾekal|sc=Hebr}}
 * Armenian: {{t+|hy|ուտել|tr=utel}}
 *: Old Armenian: {{tø|xcl|ուտեմ|tr=utem|sc=Armn}}
@@ -95,7 +95,7 @@ From {{etyl|enm}} {{term|eten|lang=enm}}, from {{etyl|ang}} {{term|etan||to eat|
 * Azeri: {{t+|az|yemək}}
 * Bakhtiari: {{tø|bqi|خردن|tr=xarden|sc=fa-Arab}}
 * Basque: [[jan]]
-* Belarusian: {{t-|be|есьці|tr=jés'ci}}
+* Belarusian: {{t|be|есці|tr=jésci}}, {{t-|be|есьці|tr=jésʹci}} {{qualifier|Taraškievica orthography}}
 * Bengali: {{t-|bn|খাওয়া|tr=khaoẇa|sc=Beng}}
 * Breton: [[debriñ]]
 * Bulgarian: {{t+|bg|ям|tr=jam}}, {{t-|bg|храня се|tr=hranja se}}
@@ -105,7 +105,7 @@ From {{etyl|enm}} {{term|eten|lang=enm}}, from {{etyl|ang}} {{term|etan||to eat|
 * Chechen: {{tø|ce|даа|tr=daa}}
 * Chinese:
 *: Cantonese: {{tø|yue|食|tr=sik6|sc=Hant}}, {{tø|yue|吃|tr=hek3|sc=Hant}} {{qualifier|formal}}
-*: Mandarin: {{t-|cmn|吃|tr=chī|sc=Hani}}, {{t-|cmn|食|tr=shí|sc=Hani}}
+*: Mandarin: {{t+|cmn|吃|tr=chī|sc=Hani}}, {{t+|cmn|食|tr=shí|sc=Hani}} {{qualifier|usually as a compound, used in expressions and certain contexts}}
 * Crimean Tatar: {{tø|crh|aşamaq}}
 * Czech: {{t+|cs|jíst}}, {{t+|cs|sníst}}
 * Dalmatian: {{tø|dlm|mančur}}
@@ -116,11 +116,11 @@ From {{etyl|enm}} {{term|eten|lang=enm}}, from {{etyl|ang}} {{term|etan||to eat|
 * Faroese: {{t-|fo|eta}}
 * Fijian: {{t-|fj|daliga}}
 * Finnish: [[syödä]], {{t-|fi|skruudata}}
-* French: {{t+|fr|manger}}, [[bouffer]] (slang)
+* French: {{t+|fr|manger}}, {{t+|fr|bouffer}} {{qualifier|slang}}
 * Friulian: {{tø|fur|mangjâ}}
 * Galician: {{t+|gl|comer}}
 * Georgian: {{t-|ka|ჭამა|tr=čama|sc=Geor}}
-* German: [[essen]], [[fressen]] (used for animals only)
+* German: {{t+|de|essen}}, {{t+|de|fressen}} {{qualifier|used for animals or rude for people}}
 *: Old High German: {{tø|goh|ezzan}}
 * Gothic: {{tø|got|𐌹𐍄𐌰𐌽|tr=itan|sc=Goth}}
 * Greek: {{t+|el|τρώω|tr=tróo}}, {{t+|el|τρώγω|tr=tróɣo}}, {{t+|el|εσθίω|tr=esthío}} {{qualifier|obsolete}}
@@ -140,7 +140,7 @@ From {{etyl|enm}} {{term|eten|lang=enm}}, from {{etyl|ang}} {{term|etan||to eat|
 * Indonesian: {{t+|id|makan}}
 * Irish: {{t-|ga|ith}}
 * Italian: {{t+|it|mangiare}}
-* Japanese: {{t+|ja|食べる|tr=たべる, taberu}}, {{t+|ja|食う|tr=くう, kuu}} {{qualifier|vulgar}}, {{t+|ja|食事|alt=食事する|tr=しょくじする, shokuji-surú}}, {{t-|ja|召し上がる|tr=めしあがる, meshi-agaru}} {{qualifier|honorific}}, {{t-|ja|頂く|tr=いただく, itadaku}} {{qualifier|humble}}
+* Japanese: {{t+|ja|食べる|tr=たべる, taberu}}, {{t+|ja|食う|tr=くう, kuu}} {{qualifier|vulgar}}, {{t+|ja|食事|alt=食事する|tr=しょくじする, shokuji surú}}, {{t-|ja|召し上がる|tr=めしあがる, meshi-agaru}} {{qualifier|honorific}}, {{t-|ja|頂く|tr=いただく, itadaku}} {{qualifier|humble}}
 * Javanese: {{t+|jv|dhahar}} {{qualifier|polite}}, {{t+|jv|mangan}} {{qualifier|casual}}
 * Jèrriais: {{tø|roa-jer|mangi}}
 * Kazakh: {{t+|kk|жеу|tr=jew|sc=Cyrl}}
@@ -191,7 +191,7 @@ From {{etyl|enm}} {{term|eten|lang=enm}}, from {{etyl|ang}} {{term|etan||to eat|
 * Rapa Nui: {{tø|rap|kai}}
 * Romanian: {{t+|ro|mânca}}
 * Romansch: {{t-|rm|mangiar}} (people), {{t-|rm|magliar}} (animals)
-* Russian: {{t+|ru|есть|tr=jest’}} {{impf}}, {{t+|ru|поесть|tr=pojest’}} {{pf.}}; {{t+|ru|кушать|tr=kúšat’}} {{impf}}, {{t+|ru|покушать|tr=pokúšat’}} {{pf.}}
+* Russian: {{t+|ru|есть|tr=jestʹ}} {{impf}}, {{t+|ru|поесть|tr=pojestʹ}} {{pf.}} / {{t+|ru|съесть|tr=sʺjestʹ}} {{pf.}}; {{t+|ru|кушать|tr=kúšatʹ}} {{impf}}, {{t+|ru|покушать|tr=pokúšatʹ}} {{pf.}} / {{t+|ru|скушать|tr=skúšatʹ}} {{pf.}} {{qualifier|polite and friendly}}; {{t+|ru|жрать|tr=žratʹ}} {{impf}}, {{t+|ru|пожрать|tr=požrátʹ}} {{pf.}} / {{t+|ru|сожрать|tr=sožrátʹ}} {{pf.}} {{qualifier|rude}}
 * Sanskrit: {{t-|sa|अत्ति|tr=atti}}
 * Sardinian: {{t-|sc|mandhicare}}
 * Scottish Gaelic: [[ith]]
