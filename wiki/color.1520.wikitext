@@ -12,7 +12,7 @@
 {{ picdiclabel | color=0000FF | fontsize=18 | posx=100 | posy=140 | link=blue | align=left }}
 {{ picdiclabel | color=8F00FF | fontsize=18 | posx=100 | posy=160 | link=violet | align=left }}
 {{ picdiclabel | color=000000 | fontsize=18 | posx=100 | posy=180 | link=black | align=left }}
-{{ picdiclabel | color=2F4F4F | fontsize=18 | posx=100 | posy=200 | link=grey | align=left }}
+{{ picdiclabel | color=2F4F4F | fontsize=18 | posx=100 | posy=200 | link=gray | align=left }}
 {{ picdiclabel | color=FFFFFF | fontsize=18 | posx=100 | posy=220 | link=white | align=left }}
 | detail1=Click on labels in the image
 }}
