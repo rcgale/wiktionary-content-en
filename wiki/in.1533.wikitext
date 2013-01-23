@@ -82,10 +82,10 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|in||lang=ang}}, from {{etyl|gem-pro|
 {{trans-top|contained by}}
 * Alviri-Vidari: {{qualifier|postposition}} {{tø|avd|ده|tr=de}}
 * Arabic: {{t-|ar|في|tr=fi}}
-*: [[Tunisian Arabic]]: {{tø|aeb|في|alt=فِي|tr=fī|sc=Arab}}
+*: Tunisian Arabic: {{tø|aeb|في|alt=فِي|tr=fī|sc=Arab}}
 * Aramaic:
-*: Hebrew: [[ב־]] (b'-)
-*: Syriac: [[ܒ-]] (b'-)
+*: Hebrew: {{t|arc|ב־|tr=b'-|sc=Hebr}}
+*: Syriac: {{t|arc|ܒ-|tr=b'-|sc=Syrc}}
 * Armenian: {{t-|hy|մեջ|tr=meǰ}}
 * Aromanian: {{t-|rup|ãn}}
 * Belarusian: {{t+|be|у|tr=u}}, {{t-|be|ў|tr=ŭ|sc=Cyrl}}
@@ -101,7 +101,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|in||lang=ang}}, from {{etyl|gem-pro|
 * Egyptian: {{tø|egy|ỉm|alt=m|sc=Egyp}}
 *: <hiero>i-Z11</hiero>
 * Faroese: {{t-|fo|í}}
-* Finnish: [[-ssa]] / [[-ssä]] ''([[inessive]])''
+* Finnish: {{t|fi|-ssa}}, {{qualifier|[[inessive]]}} {{t|fi|-ssä}}
 * French: {{t+|fr|dans}}
 * German: {{t+|de|in}}
 * Greek: {{t+|el|εν}}
@@ -117,7 +117,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|in||lang=ang}}, from {{etyl|gem-pro|
 * Japanese: {{t+|ja|に|alt=...に|tr=...-ni}}, {{t+|ja|で|alt=...で|tr=...-de}}, {{t+|ja|中|alt=...の中で|tr=...-no naka-de}}
 * Javanese: {{t-|jv|ing}}, {{t-|jv|jero}}
 * Korean: {{t-|ko|안에|alt=...의 안에|tr=...-ui ane|sc=Hang}}
-* Lao: {{Laoo|[[ໃນ]]}} (nay)
+* Lao: {{t|lo|ໃນ|tr=nay|sc=Laoo}}
 * Latin: {{t+|la|in}}
 * Macedonian: {{t-|mk|во|tr=vo|sc=Cyrl}}
 * Malay: {{t-|ms|di dalam}}
@@ -143,18 +143,18 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|in||lang=ang}}, from {{etyl|gem-pro|
 * Thai: {{t+|th|ใน|tr=nai}}
 * Tok Pisin: {{t-|tpi|long}}
 * Turkish: {{t+|tr|içinde}}
-* Ukrainian: {{t+|uk|в|tr=v}} / {{t+|uk|у|tr=u}} (''before vowels / before consonants'')
+* Ukrainian: {{t+|uk|в|tr=v}}, {{t+|uk|у|tr=u}} (''before vowels / before consonants'')
 * Urdu: {{t-|ur|اندر|tr=andar}}, {{t-|ur|میں|tr=... mẽ|alt=... میں}}
 * Vietnamese: {{t+|vi|trong}}, {{t+|vi|ở}}, {{t+|vi|tại}}
 * Walloon: {{t+|wa|dins}}
 {{trans-bottom}}
 
 {{trans-top|surrounded by}}
-* Arabic: {{Arab|[[في]]}} (fi)
-*: [[Tunisian Arabic]]: {{tø|aeb|في|alt=فِي|tr=fī|sc=Arab}}
+* Arabic: {{t|ar|في|tr=fi|sc=Arab}}
+*: Tunisian Arabic: {{tø|aeb|في|alt=فِي|tr=fī|sc=Arab}}
 * Aramaic:
-*: Syriac: [[ܓܘ]] (gaw)
-*: Hebrew: [[גו]] (gaw)
+*: Syriac: {{t|arc|ܓܘ|tr=gaw|sc=Syrc}}
+*: Hebrew: {{t|arc|גו|tr=gaw|sc=Hebr}}
 * Armenian: {{t-|hy|մեջ|tr=meǰ}}
 * Chamicuro: {{tø|ccc|shana}}
 * Czech: {{t+|cs|v}}, {{t+|cs|ve}}
@@ -162,7 +162,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|in||lang=ang}}, from {{etyl|gem-pro|
 * Egyptian: {{tø|egy|ỉm|alt=m|sc=Egyp}}
 *: <hiero>i-Z11</hiero>
 * Faroese: {{t-|fo|í}}
-* Finnish: [[-ssa]] / [[-ssä]] ''([[inessive]])''
+* Finnish: {{t|fi|-ssa}}, {{qualifier|[[inessive]]}} {{t|fi|-ssä}}
 * French: {{t+|fr|dans}}, {{t+|fr|en}}
 * German: {{t+|de|in}}
 {{trans-mid}}
@@ -183,12 +183,12 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|in||lang=ang}}, from {{etyl|gem-pro|
 {{trans-bottom}}
 
 {{trans-top|part, member of}}
-* Arabic: {{Arab|[[من]]}} (min)
-*: [[Tunisian Arabic]]: {{tø|aeb|على|alt=عْلَى|tr=ʿlā|sc=Arab}}
+* Arabic: {{t|ar|من|tr=min|sc=Arab}}
+*: Tunisian Arabic: {{tø|aeb|على|alt=عْلَى|tr=ʿlā|sc=Arab}}
 * Armenian: {{t-|hy|մեջ|tr=meǰ}}
 * Czech: {{t+|cs|v}}, {{t+|cs|ve}}, {{t+|cs|z}}, {{t+|cs|ze}}
 * Dutch: {{t+|nl|in}}
-* Finnish: [[-sta]] / [[-stä]] ''([[elative]])''
+* Finnish: {{t|fi|-sta}}, {{qualifier|[[elative]]}} {{t|fi|-stä}}
 * French: {{t+|fr|en}}
 * Ido: {{t+|io|en}}
 * Irish: {{t-|ga|i}}
@@ -221,7 +221,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|in||lang=ang}}, from {{etyl|gem-pro|
 
 {{trans-top|after a period of time}}
 * Arabic: {{t+|ar|بعد}}
-*: [[Tunisian Arabic]]: {{tø|aeb|بعد|alt=بَعْدْ|tr=baʿd|sc=Arab}}
+*: Tunisian Arabic: {{tø|aeb|بعد|alt=بَعْدْ|tr=baʿd|sc=Arab}}
 * Armenian: {{t-|hy|մեջ|tr=meǰ}}
 * Czech: {{t+|cs|za}}
 * Dutch: {{t+|nl|in}}, {{t+|nl|binnen}}
@@ -245,10 +245,10 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|in||lang=ang}}, from {{etyl|gem-pro|
 {{trans-bottom}}
 
 {{trans-top|by the virtue of}}
-* Arabic: {{Arab|-[[ب]]}} (bi-)
-* Czech: {{qualifier|uses the instrumental case}}
+* {{ttbc|ar}}: {{t|ar|ب|tr=bi-|sc=Arab}}
+* Czech: {{qualifier|[[instrumental case]]}}
 * Dutch: {{t+|nl|tijdens}}
-* Finnish: [[-ssa]] / [[-ssä]] ''([[inessive]])''
+* Finnish: {{t|fi|-ssa}}, {{qualifier|[[inessive]]}} {{t|fi|-ssä}}
 * French: {{t+|fr|en}}
 {{trans-mid}}
 * Ido: {{t+|io|en}}
@@ -290,52 +290,52 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|in||lang=ang}}, from {{etyl|gem-pro|
 * German: {{t+|de|in}}
 {{trans-bottom}}
 {{checktrans-top}}
-* {{ttbc|sq}}: [[në]]
+* {{ttbc|sq}}: {{t|sq|në}}
 * {{ttbc|grc}}: {{Latinx|[[ἐν]] (en), [[εἰς]] (eis)}}
-* {{ttbc|eu}}: [[-an]] ''([[locative]])''
+* {{ttbc|eu}}: {{qualifier|[[locative]]}} {{t|eu|-an}}
 * {{ttbc|bg}}: {{t+|bg|в|tr=v}}
-* {{ttbc|ca}}: [[a]] (1,2) , [[en]] (3,4)
+* {{ttbc|ca}}: {{qualifier|1,2}} {{t|ca|a}}, {{qualifier|3,4}} {{t|ca|en}}
 * {{ttbc|kw}}: [[yn]], y'n {{qualifier|with definite article}} (1,4); [[a-berth]], [[a-ji]] [[dhe]] (2); [[yn-mysk]], [[a]] (3)
-* {{ttbc|da}}: [[i]] (1,4), [[inden i]] (2), [[af]] (3)
+* {{ttbc|da}}: {{qualifier|1,4}} {{t|da|i}}, {{qualifier|2}} {{t|da|inden i}}, {{qualifier|3}} {{t|da|af}}
 * {{ttbc|dbl}}: {{Latinx|[[-ŋga]] / [[-ga]] / [[-ɽa]]}} ''([[locative]])''
-* {{ttbc|eo}}: [[en]]
-* {{ttbc|el}}: [[σε]] (se)
-* {{ttbc|haw}}: [[i#Hawaiian|i]], [[iā]]; [[ma#Hawaiian|ma]]
+* {{ttbc|eo}}: {{t|eo|en}}
+* {{ttbc|el}}: {{t|el|σε|tr=se|sc=Grek}}
+* {{ttbc|haw}}: {{t|haw|i}}, {{t|haw|iā}}, {{t|haw|ma}}
 * {{ttbc|he}}: {{t-|he|ב־|tr=b'-}}
-* {{ttbc|hi}}: [[अन्दर]] (andar), [[में]] (me.n), [[भीतर]] (bhītar)
-* {{ttbc|is}}: [[í]], [[inni]]
-* {{ttbc|io}}: [[en]]
-* {{ttbc|ig}}: [[nịme]]
-* {{ttbc|id}}: [[di]]
-* {{ttbc|ia}}: [[in#Interlingua|in]]
-* {{ttbc|it}}: [[in#Italian|in]]
+* {{ttbc|hi}}: {{t|hi|अन्दर|tr=andar|sc=Deva}}, {{t|hi|में|tr=me.n|sc=Deva}}, {{t|hi|भीतर|tr=bhītar|sc=Deva}}
+* {{ttbc|is}}: {{t|is|í}}, {{t|is|inni}}
+* {{ttbc|io}}: {{t|io|en}}
+* {{ttbc|ig}}: {{t|ig|nịme}}
+* {{ttbc|id}}: {{t|id|di}}
+* {{ttbc|ia}}: {{t|ia|in}}
+* {{ttbc|it}}: {{t|it|in}}
 * {{ttbc|ja}}: [[に]] (ni), の[[中]]に ([[のなかに]], no náka ni), [[で]] (de)
 {{trans-mid}}
-* {{ttbc|km}}: {{Khmr|[[ក្នុង]]}} (knong)
+* {{ttbc|km}}: {{t|km|ក្នុង|tr=knong|sc=Khmr}}
 * {{ttbc|ko}}: -의 [[안에]] (-ui ane)
-* {{ttbc|mt}}: [[fi]], [[ġo]]
-* {{ttbc|nov}}: [[in]]
-* {{ttbc|ps}}: {{ps-Arab|[[په]]}} (pe)
-* {{ttbc|fa}}: {{fa-Arab|[[اندر]]}} (andar)
-* {{ttbc|pt}}: [[em]]
-* {{ttbc|qu}}: [[-pi]] ''([[locative]])''
-* {{ttbc|ro}}: [[în]]
+* {{ttbc|mt}}: {{t|mt|fi}}, {{t|mt|ġo}}
+* {{ttbc|nov}}: {{t|nov|in}}
+* {{ttbc|ps}}: {{t|ps|په|tr=pe|sc=ps-Arab}}
+* {{ttbc|fa}}: {{t|fa|اندر|tr=andar|sc=fa-Arab}}
+* {{ttbc|pt}}: {{t|pt|em}}
+* {{ttbc|qu}}: {{qualifier|[[locative]]}} {{t|qu|-pi}}
+* {{ttbc|ro}}: {{t|ro|în}}
 * {{ttbc|sh}}:
 *: Cyrillic: {{t-|sh|у|sc=Cyrl}}
 *: Roman: {{t-|sh|u}}
-* {{ttbc|sl}}: [[v#Slovene|v]]
-* {{ttbc|sw}}: [[m-]] / [[mu-]] ''(noun class 18)''
-* {{ttbc|sv}}: [[inne]]; {{l|sv|i}}, [[på]]
-* {{ttbc|tl}}: [[sa]], [[nasa]]
-* {{ttbc|tg}}: [[дар]] (dar)
-* {{ttbc|th}}: {{Thai|[[ใน]]}} (nai)
-* {{ttbc|tr}}: [[-da]] / [[-de]] ''([[locative]])''
-* {{ttbc|ur}}: {{ur-Arab|[[اندر#Urdu|اندر]]}} (andar), {{ur-Arab|[[میں]]}} (me.n)
-* {{ttbc|vi}}: [[ở]]
-* {{ttbc|fy}}: [[yn]]
-* {{ttbc|yi}}: [[אין#Yiddish|אין]] (in)
-* {{ttbc|yo}}: [[ní]]
-* {{ttbc|esu}}: [[-mi]] {{s}}, [[-gni]] ''dual'', [[-ni]] {{p}} ''([[localis case]])''
+* {{ttbc|sl}}: {{t|sl|v}}
+* {{ttbc|sw}}: {{t|sw|m-}}, {{qualifier|noun class 18}} {{t|sw|mu-}}
+* {{ttbc|sv}}: {{t|sv|inne}}, {{t|sv|i}}, {{t|sv|på}}
+* {{ttbc|tl}}: {{t|tl|sa}}, {{t|tl|nasa}}
+* {{ttbc|tg}}: {{t|tg|дар|tr=dar|sc=Cyrl}}
+* {{ttbc|th}}: {{t|th|ใน|tr=nai|sc=Thai}}
+* {{ttbc|tr}}: {{t|tr|-da}}, {{qualifier|[[locative]]}} {{t|tr|-de}}
+* {{ttbc|ur}}: {{t|ur|اندر|tr=andar|sc=ur-Arab}}, {{t|ur|میں|tr=me.n|sc=ur-Arab}}
+* {{ttbc|vi}}: {{t|vi|ở}}
+* {{ttbc|fy}}: {{t|fy|yn}}
+* {{ttbc|yi}}: {{t|yi|אין|tr=in|sc=Hebr}}
+* {{ttbc|yo}}: {{t|yo|ní}}
+* {{ttbc|esu}}: {{t|esu|-mi|s}}, {{t|esu|-gni|dual}}, {{t|esu|-ni|p}}
 {{trans-bottom}}
 
 ====Verb====
