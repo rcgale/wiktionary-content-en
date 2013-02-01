@@ -18,7 +18,7 @@
 From {{etyl|non|fo}} {{term|falla|lang=non}}, from {{etyl|gem-pro|fo}} {{recons|fallanan|lang=gem-pro}}.
 
 ===Verb===
-{{head|fo|verb}}
+{{fo-verb|fall|fullu|fallið}}
 
 # to [[fall]]
 
@@ -33,13 +33,8 @@ From {{etyl|non|fo}} {{term|falla|lang=non}}, from {{etyl|gem-pro|fo}} {{recons|
 From {{etyl|non|is}} {{term|falla|lang=non}}, from {{etyl|gem-pro|is}} {{recons|fallanan|lang=gem-pro}}.
 
 ===Pronunciation===
-* {{IPA|/ˈfatl̻a/|lang=is}}
+* {{IPA|/ˈfatla/|lang=is}}
 *: {{rhymes|atla|lang=is}}
-
-===Noun===
-{{is-noun form}} {{n}}
-
-# {{is-inflection of|fall|indef|gen|p}}
 
 ===Verb===
 {{is-verb-strong|féll|féllu|fallið}}
@@ -48,7 +43,7 @@ From {{etyl|non|is}} {{term|falla|lang=non}}, from {{etyl|gem-pro|is}} {{recons|
 # {{intransitive}} to be [[kill]]ed, especially in action or in battle{{jump|is|be killed|s}}
 #* Matthew 26:52 ([http://www.biblegateway.com/passage/?search=Matthew%2026:52&version=NIV English] and [http://www.biblegateway.com/passage/?search=Matthew%2026:53&version=ICELAND Icelandic])
 #*: ''Jesús sagði við hann: „Slíðra sverð þitt! Allir, sem sverði bregða, munu fyrir sverði '''falla'''.“''
-#*:: "Put your sword back in its place," Jesus said to him, "for all who draw the sword will '''die''' by the sword."
+#*:: “Put your sword back in its place,” Jesus said to him, “for all who draw the sword will '''die''' by the sword.”
 # {{intransitive}} to [[flow]]{{jump|is|flow|s}}
 # {{intransitive}} to fit [[closely]], to shut tight, to meet{{jump|is|fit closely|s}}
 # {{intransitive}} to [[like]]{{jump|is|like|s}}
@@ -58,9 +53,6 @@ From {{etyl|non|is}} {{term|falla|lang=non}}, from {{etyl|gem-pro|is}} {{recons|
 * [[falla um]]
 * [[falla um koll]]
 * [[falla í gleymsku]]
-* [[falla ekki]] (to not like something)
-*: ''Mér '''fellur''' þetta '''ekki'''.''
-*:: I '''don't like''' this.
 * [[falla vel við]] (to like somebody)
 *: Mér '''fellur vel við''' hann.''
 *:: I '''like''' him.
@@ -84,7 +76,7 @@ From {{etyl|non|is}} {{term|falla|lang=non}}, from {{etyl|gem-pro|is}} {{recons|
 * [[falla eins og flís við rass]]
 
 ====Related terms====
-* [[fella]]
+* {{l|is|fella}}
 
 ====Synonyms====
 * {{jump|s|is|fall}} [[detta]]
@@ -92,6 +84,11 @@ From {{etyl|non|is}} {{term|falla|lang=non}}, from {{etyl|gem-pro|is}} {{recons|
 * {{jump|s|is|flow}} [[streyma]]
 * {{jump|s|is|fit closely}} [[falla þétt að]]
 * {{jump|s|is|like}} [[líka]]
+
+===Noun===
+{{is-noun form}} {{n}}
+
+# {{is-inflection of|fall|indef|gen|p}}
 
 [[Category:Icelandic intransitive verbs]]
 [[Category:Most used Icelandic verbs]]
@@ -157,8 +154,9 @@ From {{etyl|it|mt}} {{term|fallire|lang=it}}
 
 ===Etymology===
 From {{etyl|gem-pro|non}} {{recons|fallanan|lang=gem-pro}}, akin to Old English {{term|feallan|lang=ang}}, Old High German {{term|fallan|lang=goh}}.
+
 ===Verb===
-'''falla''' (''strong conjugation:'' [[fell]] – [[fellu]])
+{{non-verb-strong|féll|féllu|fallit}}
 
 # to [[fall]]
 
@@ -172,14 +170,12 @@ From {{etyl|gem-pro|non}} {{recons|fallanan|lang=gem-pro}}, akin to Old English 
 * Swedish: {{l|sv|falla}}
 {{bottom}}
 
-[[Category:Old Norse verbs]]
-
 ----
 
 ==Spanish==
 
 ===Etymology===
-Vulgar Latin ''[[falla#Latin|falla]]''
+From {{etyl|VL.|es}} {{term|falla|lang=la}}.
 
 ===Noun===
 {{es-noun|f}}
