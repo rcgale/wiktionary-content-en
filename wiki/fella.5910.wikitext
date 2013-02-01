@@ -41,13 +41,13 @@ From English {{term|fellow}}.
 ==Faroese==
 
 ===Etymology===
-From {{etyl|non|fo}} {{term|fella|lang=non}}, causative of {{term|falla||to fall|lang=non}}.
+From {{etyl|non|fo}} {{term|fella|lang=non}}, from {{etyl|gem-pro|fo}} {{recons|fallijanan|lang=gem-pro}}. Causative of {{term|falla||to fall|lang=fo}}.
 
 ===Pronunciation===
 * {{IPA|[ˈfɛdla]|lang=fo}}
 
 ===Verb===
-'''fella'''
+{{fo-verb|feldi|feldu|felt}}
 
 # to [[fell]]
 # to [[snare]]
@@ -55,33 +55,30 @@ From {{etyl|non|fo}} {{term|fella|lang=non}}, causative of {{term|falla||to fall
 ====Conjugation====
 {{fo-conj-8|fe|l}}
 
-[[Category:Faroese verbs]]
-
 ----
 
 ==Icelandic==
 
 ===Etymology===
-From {{etyl|non|is}} {{term|fella|lang=non}}, causative of {{term|falla||to fall|lang=non}}.
+From {{etyl|non|is}} {{term|fella|lang=non}}, from {{etyl|gem-pro|is}} {{recons|fallijanan|lang=gem-pro}}. Causative of {{term|falla||to fall|lang=is}}.
 
 ===Pronunciation===
-* {{IPA|[ˈfɛtla]|lang=is}}
+* {{IPA|/ˈfɛtla/|lang=is}}
 *: {{rhymes|ɛtla|lang=is}}
 
 ===Verb===
 {{is-verb-weak|felldi|fellt}}
 
-# {{transitive|governs the accusative|lang=is}} to [[fell]], to [[shed]]
+# {{transitive|governs the accusative|lang=is}} to [[fell]], to [[shed]]{{attention|is|improve definitions}}
 # {{transitive|governs the accusative|lang=is}} to [[kill]] in battle
 # {{transitive|governs the accusative|lang=is}} to [[fit]] [[together]]
 # {{transitive|governs the accusative|lang=is}} to [[pleat]]
 
+====Conjugation====
+{{is-conj-w2|f|e|ll|d=d|mp=-}}
+
 ====Derived terms====
-* [[fella tré]] (to fell a tree)
-* [[fella blöð]] (to shed leaves)
-* [[fella gengi]] (to [[devalue]] currency)
 * [[fella tár]]
-* [[fella stjórn]] (to [[topple]] a government, to [[bring down]] a government)
 * [[fella hugi saman]] (to [[fall in love]])
 * [[fella af]] (to cast off)
 * [[fella niður]] (to [[cancel]])
@@ -90,7 +87,7 @@ From {{etyl|non|is}} {{term|fella|lang=non}}, causative of {{term|falla||to fall
 * [[fella niður lykkju]] (to drop a [[stitch]])
 * [[fella sig ekki við]] (+ {{accusative}}; to rather [[dislike]] something)
 * [[fella úr]] (+{{accusative}}; to drop something, to cut something)
-* [[felldur]] {{m}}, [[felld]] {{f}}, [[fellt]] {{n}}
+* [[felldur]]
 * [[vera ekki við eina fjölina felldur]]
 
 [[Category:Icelandic transitive verbs]]
