@@ -8,12 +8,12 @@
 * {{rhymes|ɔː(r)m}}
 
 ===Etymology 1===
-From {{etyl|ang}} {{term|wearm|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|warmaz|lang=gem-pro}}, with different proposed origins:
+From {{etyl|enm}} {{term|warm|lang=enm}}, {{term|werm|lang=enm}}, from {{etyl|ang}} {{term|wearm|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|warmaz|lang=gem-pro}}, with different proposed origins:
 # {{etyl|ine-pro|en}} {{recons|gʷʰer-|lang=ine-pro}} (warm, hot), related to Ancient Greek {{term|θερμός|tr=thermos|lang=grc|sc=polytonic}}, Latin {{term|formus|lang=la}}, Sanskrit {{term|घर्म|tr=gharma|lang=sa|sc=Deva}}.
 # {{etyl|ine-pro|en}} {{recons|wer-|lang=ine-pro}} (to burn), related to Hittite (warnuzi) {{rfscript|Cuneiform}} and to {{etyl|cu|-}} {{term|варити|tr=variti|lang=cu}}.
 The dispute is due to differing opinions on how initial [[Proto-Indo-European]] *<tt>gʷʰ-</tt> evolved in Germanic: some think that *<tt>gʷʰ</tt> would have turned to *<tt>b</tt>, and that the root *<tt>gʷʰer-</tt> would instead have given rise to [[burn]] etc. Some have also proposed a merger of the two roots.
 
-The term is cognate with West Frisian {{term|waarm|lang=fy}}, Dutch/German {{term|warm|lang=nl}}, Danish/Norwegian/Swedish {{term|varm|lang=en}} and Icelandic {{term|varmur|lang=en}}.
+The term is cognate with West Frisian {{term|waarm|lang=fy}}, Dutch/German/Low German {{term|warm|lang=nl}}, Danish/Norwegian/Swedish {{term|varm|lang=en}} and Icelandic {{term|varmur|lang=en}}.
 
 ====Adjective====
 {{en-adj|er}}
@@ -271,7 +271,7 @@ From {{etyl|ang}} {{term|werman|lang=ang}}
 ==Dutch==
 
 ===Etymology===
-From {{etyl|dum|nl}} {{term|warm|lang=dum}}, from {{etyl|odt|nl}} {{term|warm|lang=odt}}, from {{etyl|gem-pro|nl}} {{recons|warmaz|lang=gem-pro}}.
+From {{etyl|dum|nl}} {{term|warm|lang=dum}}, from {{etyl|odt|nl}} {{term|warm|lang=odt}}, from {{etyl|gem-pro|nl}} {{recons|warmaz|lang=gem-pro}}, from {{etyl|ine-pro|nl}} {{recons|gʷʰer-||warm, hot|lang=ine-pro}} or alternatively {{recons|wer-||to burn|lang=ine-pro}}. Compare Low German {{term|warm|lang=nl}}, West Frisian {{term|waarm|lang=fy}}, German {{term|warm|lang=de}}, English {{term|warm|lang=en}}, Danish {{term|varm|lang=da}}.
 
 ===Pronunciation===
 * {{rhymes|ɑrm|lang=nl}}
@@ -299,7 +299,7 @@ From {{etyl|dum|nl}} {{term|warm|lang=dum}}, from {{etyl|odt|nl}} {{term|warm|la
 ==German==
 
 ===Etymology===
-From {{etyl|goh|de}} {{term|warm|lang=goh}}
+From {{etyl|goh|de}} {{term|warm|lang=goh}}, from {{etyl|gem-pro|de}} {{recons|warmaz|lang=gem-pro}}, from {{etyl|ine-pro|de}} {{recons|gʷʰer-||warm, hot|lang=ine-pro}} or alternatively {{recons|wer-||to burn|lang=ine-pro}}. Compare Low German {{term|warm|lang=nl}}, Dutch {{term|warm|lang=nl}}, English {{term|warm|lang=en}}, West Frisian {{term|waarm|lang=fy}}, Danish {{term|varm|lang=da}}.
 
 ===Pronunciation===
 * {{IPA|/vaʁm/|lang=de}}
@@ -339,19 +339,22 @@ From {{etyl|goh|de}} {{term|warm|lang=goh}}
 ==Old High German==
 
 ===Etymology===
-From {{etyl|gem-pro|goh}} {{recons|warmaz|lang=gem-pro}}, whence also Old English {{term|wearm|lang=ang}}, Old Norse {{term|varmr|lang=non}}
+From {{etyl|gem-pro|goh}} {{recons|warmaz|lang=gem-pro}}, whence also Old Saxon {{term|warm|lang=osx}}, Old English {{term|wearm|lang=ang}}, Old Norse {{term|varmr|lang=non}}, Gothic {{term|𐍅𐌰𐍂𐌼𐍃|tr=warms|lang=got}}. Ultimately from {{etyl|ine-pro|goh}} {{recons|gʷʰer-||warm, hot|lang=ine-pro}} or alternatively {{recons|wer-||to burn|lang=ine-pro}}.
 
 ===Adjective===
 {{head|goh|adjective}}
 
 # {{l|en|warm}}
 
+====Descendants====
+* German: {{l|de|warm}}
+
 ----
 
 ==Old Saxon==
 
 ===Etymology===
-From {{etyl|gem-pro|osx}} {{recons|warmaz||warm|lang=gem-pro}}.
+From {{etyl|gem-pro|osx}} {{recons|warmaz||warm|lang=gem-pro}}, whence also Old English {{term|wearm|lang=ang}}, Old Frisian {{term|warm|lang=ofs}}, Old High German {{term|warm|lang=goh}}, Old Norse {{term|varmr|lang=non}}, Gothic {{term|𐍅𐌰𐍂𐌼𐍃|tr=warms|lang=got}}. Ultimately from {{etyl|ine-pro|osx}} {{recons|gʷʰer-||warm, hot|lang=ine-pro}} or alternatively {{recons|wer-||to burn|lang=ine-pro}}.
 
 ===Adjective===
 {{osx-adj}} (''[[comparative]]'' [[warmoro]]'', [[superlative]]'' [[warmost]])
@@ -360,6 +363,9 @@ From {{etyl|gem-pro|osx}} {{recons|warmaz||warm|lang=gem-pro}}.
 
 ====Declension====
 {{osx-decl-adj|title=warm|warm}}
+
+====Descendants====
+* Low German: {{l|nds|warm}}
 
 [[ar:warm]]
 [[br:warm]]
