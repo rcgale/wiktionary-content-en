@@ -87,7 +87,73 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 ====Quotations====
 * {{seeCites}}
 
-====Inflection====
+====Conjugation====
+{| class="wikitable" style="text-align:center"
+! colspan="2" | infinitive
+| colspan="5" | {{l/en|to}} be
+|-
+! colspan="2" | present participle/gerund
+| colspan="5" | {{l/en|being}}
+|-
+! colspan="2" | past participle
+| colspan="5" |{{l/en|been}}
+|-
+! rowspan="2" |
+! colspan="2" | indicative
+! colspan="2" | subjunctive
+! colspan="2" | imperative
+|-
+! colspan="1" | singular
+! colspan="1" | plural
+! colspan="1" | singular
+! colspan="1" | plural
+! colspan="1" | singular
+! colspan="1" | plural
+|-
+! rowspan="3" | present
+| I {{l/en|am}} ({{l/en|'m|’m}})
+| we {{l/en|are}} ({{l/en|'re|’re}})
+| I be
+| we be
+| -
+| {{l/en|let's|let’s}} be
+|-
+| you {{l/en|are}} ({{l/en|'re|’re}})
+thou {{l/en|art}} (''archaic'')
+| you {{l/en|are}} ({{l/en|'re|’re}})
+| you be
+thou {{l/en|beest}} (''archaic'')
+| you be
+| be
+| be
+|-
+| he/she/it {{l/en|is}} ({{l/en|'s|’s}})
+| they {{l/en|are}} ({{l/en|'re|’re}})
+| he/she/it be
+| they be
+| -
+| -
+|-
+! rowspan="3" | preterite
+| I {{l/en|was}}
+| we {{l/en|were}}
+| I {{l/en|were}}
+| we {{l/en|were}}
+|rowspan="3" colspan="2" bgcolor="lightgray"|
+|-
+| you {{l/en|were}}
+thou {{l/en|wast}} (''archaic'')
+| you {{l/en|were}}
+| you {{l/en|were}}
+thou {{l/en|wert}} (''archaic'')
+| you {{l/en|were}}
+|-
+| he/she/it {{l/en|was}}
+| they {{l/en|were}}
+| he/she/it {{l/en|were}}
+| they {{l/en|were}}
+|}
+
 * The verb {{term||be|lang=en}} is the most irregular non-defective verb in Standard English. Unlike other verbs, which distinguish at most five forms (as in {{term||do|lang=en}}–{{term||does|lang=en}}–{{term||doing|lang=en}}–{{term||did|lang=en}}–{{term||done|lang=en}}), {{term||be|lang=en}} distinguishes eight:
 ** {{term||Be|lang=en}} itself is the plain form, used as the infinitive, as the imperative, and as the present subjunctive.
 **:: ''I want to '''be''' a father someday.'' (infinitive)
@@ -128,67 +194,6 @@ From {{etyl|enm}} {{term|been||to be|lang=enm}}, from {{etyl|ang}} {{term|beon|b
 *: ''I don't want to be involved. —But you '''''are''''' involved, regardless.''
 * Several of the finite forms of {{term||be|lang=en}} have special negative forms, containing the suffix {{term|-n't|-n’t|lang=en}}, that can be used instead of adding the adverb {{term|not|lang=en}}. Specifically, the forms {{term||is|lang=en}}, {{term||are|lang=en}}, {{term||was|lang=en}}, and {{term||were|lang=en}} have the negative forms {{term|isn't|isn’t|lang=en}}, {{term|aren't|aren’t|lang=en}}, {{term|wasn't|wasn’t|lang=en}}, and {{term|weren't|weren’t|lang=en}}. The form {{term||be|lang=en}} itself does not, even in finite uses, with “not be” being used in the present subjunctive and “do not be” or “don’t be” (or, in dated use, “be not”) being used in the imperative. The form {{term||am|lang=en}} has the negative forms {{term|aren't|aren’t|lang=en}}, {{term|amn't|amn’t|lang=en}}, and arguably {{term|ain't|ain’t|lang=en}}, but all of these are in restricted use; see their entries for details.
 * Outside of Standard English, there is some variation in usage of some forms; some dialects, for example, use {{term||is|lang=en}} or {{term||’s|lang=en}} throughout the present indicative (supplanting, in whole or in part, {{term||am|lang=en}} and {{term||are|lang=en}}), and/or {{term||was|lang=en}} throughout the past indicative and past subjunctive (supplanting {{term||were|lang=en}}).
-
-{| class="wikitable" style="text-align:center"
-! infinitive
-| colspan="6" | {{l/en|to}} be
-|-
-! past participle
-| colspan="6" |{{l/en|been}}
-|-
-! present participle/gerund
-| colspan="6" | {{l/en|being}}
-|-
-! rowspan="2" |
-! colspan="3" | singular
-! colspan="3" | plural
-|-
-! first ({{l/en|I}})
-! second ({{l/en|you}})
-! third ({{l/en|he}}/{{l/en|she}}/{{l/en|it}})
-! first ({{l/en|we}})
-! second ({{l/en|you}})
-! third ({{l/en|they}})
-|-
-! present indicative
-| {{l/en|am}} ({{l/en|'m|’m}})
-| {{l/en|are}} ({{l/en|'re|’re}})
-| {{l/en|is}} ({{l/en|'s|’s}})
-| colspan="3" | {{l/en|are}} ({{l/en|'re|’re}})
-|-
-! present indicative with {{term|-n't|-n’t|lang=en}}
-| (various)
-| {{l/en|aren't|aren’t}}
-| {{l/en|isn't|isn’t}}
-| colspan="3" | {{l/en|aren't|aren’t}}
-|-
-! past indicative
-| {{l/en|was}}
-| {{l/en|were}}
-| {{l/en|was}}
-| colspan="3" | {{l/en|were}}
-|-
-! past indicative with {{term|-n't|-n’t|lang=en}}
-| {{l/en|wasn't|wasn’t}}
-| {{l/en|weren't|weren’t}}
-| {{l/en|wasn't|wasn’t}}
-| colspan="3" | {{l/en|weren't|weren’t}}
-|-
-! present subjunctive
-| colspan="6" | be
-|-
-! past subjunctive
-| colspan="6" | {{l/en|were}}
-|-
-! imperative
-| -
-| be
-| -
-| {{l/en|let's|let’s}} be
-| be
-| -
-|-
-|}
 
 ====Synonyms====
 * {{sense|used to form passive}} [[get]]
