@@ -129,7 +129,7 @@ From {{etyl|enm}} {{term|he|lang=enm}}, from {{etyl|ang}} {{term|he|hē|he|lang=
 * Pipil: {{tø|ppl|yaja}}, {{tø|ppl|yaha}}
 * Polish: {{t+|pl|on}}
 * Portuguese: {{t+|pt|ele}}
-* Quechua: [[pay#Quechua|pay]] {{qualifier|both male and female}}
+* Quechua: {{t|qu|pay}} {{qualifier|both male and female}}
 * Rapa Nui: {{tø|rap|ia}}
 *:* Roman: {{t-|sh|on|alt=ȏn}}
 * Romanian: {{t-|ro|dumnealui}} {{qualifier|formal}}, {{t+|ro|el}} {{qualifier|informal}}
@@ -297,19 +297,19 @@ Transliteration of various Semitic letters, such as Phoenician {{term|sc=Phnx|�
 {{fi-decl-pron|1s=[[hän]]|2s=[[hänen]]|3s=[[häntä]]|4s=[[hänet]]|5s=[[hänessä]]|6s=[[hänestä]]|7s=[[häneen]]|8s=[[hänellä]]|9s=[[häneltä]]|10s=[[hänelle]]|11s=[[hänenä]]|12s=[[häneksi]]|14s=[[hänettä]]|1p='''he'''|2p=[[heidän]]|3p=[[heitä]]|4p=[[heidät]]|5p=[[heissä]]|6p=[[heistä]]|7p=[[heihin]]|8p=[[heillä]]|9p=[[heiltä]]|10p=[[heille]]|11p=[[heinä]]|12p=[[heiksi]]|14p=[[heittä]]|adv=no}}
 
 ====Usage notes====
-* In standard Finnish, '''''he''''' is practically never omitted, despite the verb showing both the person and the number. (compare the usage of ''[[hän#Finnish|hän]]'', "she" / "he")
+* In standard Finnish, '''''he''''' is practically never omitted, despite the verb showing both the person and the number. (compare the usage of {{term|lang=fi|hän}}, "she" / "he")
 
 ====Synonyms====
-* {{sense|dialectal}} [[het#Finnish|het]]
-* {{sense|dialectal}} [[hyö#Finnish|hyö]]
-* {{sense|colloquial}} [[ne#Finnish|ne]]
+* {{sense|dialectal}} {{l|fi|het}}
+* {{sense|dialectal}} {{l|fi|hyö}}
+* {{sense|colloquial}} {{l|fi|ne}}
 
 ===See also===
-* [[minä#Finnish|minä]]
-* [[sinä#Finnish|sinä]]
-* [[hän#Finnish|hän]]
-* [[me#Finnish|me]]
-* [[te#Finnish|te]]
+* {{l|fi|minä}}
+* {{l|fi||sinä}}
+* {{l|fi|hän}}
+* {{l|fi|me}}
+* {{l|fi|te}}
 
 [[Category:Finnish personal pronouns]]
 [[Category:Finnish two-letter words]]
@@ -399,6 +399,9 @@ English transcriptions of Chinese speech often fail to distinguish between the c
 #*: Benynge '''he''' was, and wonder diligent
 #*:: Kind he was, and very diligent
 
+====Descendants====
+* English: {{l|en|he}}
+
 ----
 
 ==Old English==
@@ -412,12 +415,13 @@ From {{etyl|gem-pro|ang}} {{recons|hiz||this, this one|lang=gem-pro}}, from {{et
 ===Pronoun===
 {{head|ang|pronoun|head=hē|g=m|accusative|hine|genitive|his|dative|him}}
 
-# [[he#English|he]]
+# {{l|en|he}}
 
 {{ang-decl-noun|hē|hīe|hine|hīe|his|hiera, heora|him|him, heom}}
 
 ====Descendants====
-* English: [[he#English|he]]
+* Middle English: {{l|enm|he}}
+** English: {{l|en|he}}
 
 ----
 
@@ -432,7 +436,7 @@ From {{etyl|gem-pro|osx}} {{recons|hiz|lang=gem-pro}}.
 ===Pronoun===
 {{head|osx|pronoun|g=m|head=hē}}
 
-# [[#English|he]]
+# {{l|en|he}}
 
 ====Declension====
 {{osx-decl-ppron}}
@@ -464,17 +468,17 @@ From {{etyl|ar|es}}; related to Portuguese {{term|eis|lang=pt}}.
 # [[here]] [[is]]
 
 =====Usage notes=====
-* Takes pronoun suffixes, e.g. [[heme#Spanish|heme]], here I am.
+* Takes pronoun suffixes, e.g. {{l|es|heme}}, here I am.
 
 =====See also=====
-* [[hay#Spanish|hay]]
+* {{l|es|hay}}
 
 ===Etymology 3===
 
 ====Noun====
 {{head|es|noun|g=f}}
 
-# [[#English|he]]; the Hebrew letter [[ה]]
+# {{l|en|he}}; the Hebrew letter [[ה]]
 
 [[Category:es:Hebrew letter names]]
 
