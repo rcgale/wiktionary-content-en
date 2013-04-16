@@ -3,8 +3,8 @@
 
 ===Etymology===
 {{wikipedia|yes and no}}
-{{rfv-etymology}}
-From a variation of {{term|yea|lang=en}}, itself from {{etyl|enm}} {{term|ya|lang=enm}}, {{term|ye|lang=enm}}, from {{etyl|ang}} {{term|gea|ġēa|yes|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|ja||yes; thus, so|lang=gem-pro}}, from {{etyl|ine-pro|en}} {{recons|yē||already|lang=ine-pro}}. Cognate with Dutch {{term|ja|lang=nl}}, German {{term|ja|lang=de}}, Danish {{term|ja|lang=da}}, Bokmål {{term|ja|lang=nb}}, New Norwegian {{term|ja|lang=nn}} and Swedish {{term|ja|lang=sv}}. 
+{{rfv-etymology|lang=en}}
+From a variation of {{term|yea|lang=en}}, itself from {{etyl|enm}} {{term|ya|lang=enm}}, {{term|ye|lang=enm}}, from {{etyl|ang}} {{term|gea|ġēa|yes|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|ja||yes; thus, so|lang=gem-pro}}, from {{etyl|ine-pro|en}} {{recons|yē||already|lang=ine-pro}}. Cognate with Dutch {{term|ja|lang=nl}}, German {{term|ja|lang=de}}, Danish {{term|ja|lang=da}}, Bokmål {{term|ja|lang=nb}}, New Norwegian {{term|ja|lang=nn}} and Swedish {{term|ja|lang=sv}}.
 
 Alternative etymology derives ''yeah'' from a drawling pronunciation of {{term|yes|lang=en}}. For further etymology, see {{l|en|yes}}.
 
@@ -42,12 +42,12 @@ Alternative etymology derives ''yeah'' from a drawling pronunciation of {{term|y
 * Navajo: {{tø|nv|wehee}}
 * Norwegian: {{t+|no|ja}}, {{t-|no|yeah}}
 * Persian: {{t+|fa|بله|tr=bale}}, {{t+|fa|آره|tr=âre|sc=fa-Arab}}
-* Polish: {{t+|pl|tak}}, {{t+|pl|no}} <!-- Yes, this is in the right place, "no" means "yeah" or "yep" in Czech, Slovak, Polish -->
+* Polish: {{t+|pl|tak}}, {{t+|pl|no}}<!-- Yes, this is in the right place, "no" means "yeah" or "yep" in Czech, Slovak, Polish -->
 * Portuguese: {{t+|pt|sim}}
 * Russian: {{t+|ru|ага|tr=agá, ahá}}, {{t+|ru|угу|tr=ugú, uhú}}, {{t+|ru|так|tr=tak}}, {{t+|ru|ну|tr=nu}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|ја}}
-*: Roman: {{t+|sh|ja}}
+*: Cyrillic: {{t-|sh|ја|sc=Cyrl}}
+*: Roman: {{t+|sh|ja|sc=Latn}}
 * Slovak: {{t-|sk|no}} <!-- Yes, this is in the right place, "no" means "yeah" or "yep" in Czech, Slovak, Polish -->
 * Slovene: {{t+|sl|ja}}
 * Spanish: {{t+|es|sí}}
@@ -55,7 +55,7 @@ Alternative etymology derives ''yeah'' from a drawling pronunciation of {{term|y
 * Urdu: {{t-|ur|ہاں|tr=hā̃|sc=ur-Arab}}
 * Vietnamese: {{t-|vi|ừ}} {{qualifier|informal}}<!-- does translate as "yeah" -->, {{t+|vi|ờ}} {{qualifier|informal}}<!-- also translates as "yeah" -->
 * Volapük: [[si#Volapük|si]]
-* Welsh: [[iah]] (pronounced "ee-ah")
+* Welsh: [[iah]]
 {{trans-bottom}}
 
 ====Synonyms====
@@ -69,13 +69,13 @@ Alternative etymology derives ''yeah'' from a drawling pronunciation of {{term|y
 
 ====Synonyms====
 * {{sense|agreement}} [[yep]], [[yup]], [[aye]]
-* {{sense|joy}} [[hurrah]], [[hurray]], [[woohoo]], [[yay]], [[yippee]] <!--etc-->
+* {{sense|joy}} [[hurrah]], [[hurray]], [[woohoo]], [[yay]], [[yippee]]<!--etc-->
 
 ====Translations====
 {{trans-top|expressing agreement}}
 * Finnish: {{t+|fi|joo}}
 * French: {{t+|fr|ouais}}
-* Greek: {{t+|el|ναι}}
+* Greek: {{t+|el|ναι|tr=nai}}
 {{trans-mid}}
 * Japanese: {{t-|ja|うん|tr=un|sc=Jpan}}
 * Portuguese: [[é!]], [[isso aí!]]
@@ -97,6 +97,7 @@ Alternative etymology derives ''yeah'' from a drawling pronunciation of {{term|y
 * Finnish: {{t-|fi|jee}}
 {{trans-mid}}
 * Japanese: {{t-|ja|やった}} (yatta)
+{{trans-bottom}}
 
 ===See also===
 * [[yes]]
