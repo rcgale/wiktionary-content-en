@@ -153,7 +153,7 @@ From {{etyl|enm}} {{term|is|lang=enm}}, from {{etyl|ang|en}} {{term|is|īs|lang=
 * Albanian: {{t+|sq|akull|m}}
 * Amharic: {{t-|am|በረዶ|m|tr=bärädo|sc=Ethi}}
 * Arabic: {{t+|ar|ثلج|m|tr=ṯalj|sc=Arab}}, {{t-|ar|جليد|m|tr=jalīd|sc=Arab}}
-*: Egyptian Arabic: {{Arab|[[تلج]]}} (talg) {{m}}, {{tø|arz|جليد|m|tr=galīd|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|تلج|m|tr=talg|sc=Arab}}, {{tø|arz|جليد|m|tr=galīd|sc=Arab}}
 * Aramaic: {{tø|arc|ܓܠܝܕܐ|sc=Syrc}}
 * Archi: {{tø|aqc|qol}}
 * Armenian: {{t-|hy|սառույց|tr=saṙuyc'}}
@@ -227,7 +227,7 @@ From {{etyl|enm}} {{term|is|lang=enm}}, from {{etyl|ang|en}} {{term|is|īs|lang=
 * Koryak: {{tø|kpy|икыт|tr=ikət|sc=Cyrl}}, {{tø|kpy|кытгэл|tr=kətgel|sc=Cyrl}}, {{tø|kpy|гилгил|tr=gilgil|sc=Cyrl}}
 * Kumyk: {{tø|kum|буз|tr=buz|sc=Cyrl}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[به‌فر]]}}
+*: Sorani: {{t|ckb|به‌فر|sc=ku-Arab}}
 * Kyrgyz: {{t-|ky|муз|tr=muz|sc=Cyrl}}
 * Lak: {{tø|lbe|микӏ}}
 * Lao: {{t-|lo|ນ້ຳກ້ອນ|sc=Laoo}}
@@ -420,14 +420,14 @@ From {{etyl|enm}} {{term|is|lang=enm}}, from {{etyl|ang|en}} {{term|is|īs|lang=
 
 ====Translations====
 {{trans-top|to cool with ice}}
-* Estonian: [[jahutama]]
+* Estonian: {{t|et|jahutama}}
 * Finnish: {{t+|fi|jäähdyttää}}
 * Italian: {{t-|it|raffreddare}}
 * Macedonian: {{t-|mk|разладува|tr=razláduva}}
 {{trans-mid}}
 * Norwegian: {{t-|no|ise}}
 * Romanian: {{t+|ro|răci}}
-* Russian: [[охлаждать]] (okhlaždát’)
+* Russian: {{t|ru|охлаждать|tr=okhlaždát’|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|to freeze}}
@@ -436,8 +436,8 @@ From {{etyl|enm}} {{term|is|lang=enm}}, from {{etyl|ang|en}} {{term|is|īs|lang=
 * Galician: {{t+|gl|conxelar}}
 * German: {{t+|de|einfrieren}}, {{t+|de|frieren}}
 * Italian: {{t+|it|gelare}}, {{t-|it|ghiacciare}}, {{t+|it|congelare}}
-* Japanese: [[凍る]] (kōru)
-* Korean: [[얼다]] (eolda)
+* Japanese: {{t|ja|凍る|tr=[[こおる]], kōru|sc=Jpan}}
+* Korean: {{t|ko|얼다|tr=eolda|sc=Kore}}
 * Latin: {{t-|la|gelo}}, {{t-|la|glacio}}
 {{trans-mid}}
 * Luxembourgish: {{t-|lb|fréieren}}, {{t-|lb|afréieren}}
@@ -446,13 +446,13 @@ From {{etyl|enm}} {{term|is|lang=enm}}, from {{etyl|ang|en}} {{term|is|īs|lang=
 * Norwegian: {{t+|no|fryse}}
 * Portuguese: {{t+|pt|congelar}}, {{t+|pt|gelar}}
 * Romanian: {{t+|ro|îngheța}}, {{t+|ro|congela}}
-* Russian: [[замораживать]] (zamoráživat’), [[замораживаться]] (zamoráživat’s’a)
+* Russian: {{t|ru|замораживать|tr=zamoráživat’|sc=Cyrl}}, {{t|ru|замораживаться|tr=zamoráživat’s’a|sc=Cyrl}}
 * Spanish: {{t-|es|congelar}}
 {{trans-bottom}}
 
 {{trans-top|to murder}}
-* Dutch: [[koudmaken]]
-* Finnish: [[pistää]] [[kylmä|kylmäksi]] {{qualifier|slang}}
+* Dutch: {{t|nl|koudmaken}}
+* {{ttbc|fi}}: {{qualifier|slang}} {{t|fi|pistää kylmäksi}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * French: {{t+|fr|refroidir}} {{qualifier|slang}}
 {{trans-mid}}
 * Italian: {{t-|it|freddare}}
@@ -462,8 +462,8 @@ From {{etyl|enm}} {{term|is|lang=enm}}, from {{etyl|ang|en}} {{term|is|īs|lang=
 
 {{trans-top|to cover with icing}}
 * Dutch: {{t+|nl|glaceren}}
-* Estonian: [[glasuurima]]
-* Finnish: [[kuorruttaa]] [[sokeri|sokerilla]]
+* Estonian: {{t|et|glasuurima}}
+* {{ttbc|fi}}: {{t|fi|kuorruttaa sokerilla}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * French: {{t+|fr|glacer}}
 * Italian: {{t-|it|glassare}}
 {{trans-mid}}
