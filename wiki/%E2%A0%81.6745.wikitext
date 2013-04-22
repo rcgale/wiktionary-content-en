@@ -9,15 +9,15 @@ The 1st character of the braille script, standardized internationally as the dig
 ===Letter===
 {{mul-letter|sc=Brai}}
 
-# {{context|Braille}} {{term|a}}
-# {{context|Braille|often preceded by capital sign [[⠠]]}} Upper-case {{term|A}}
-# {{context|Greek Braille}} [[α]] (''a'')
+# {{context|Braille}} {{term|a|lang=en}}
+# {{context|Braille|often preceded by capital sign [[⠠]]}} Upper-case {{term|A|lang=en}}
+# {{context|Greek Braille}} [[α]] {{qualifier|a}}
 # {{context|Yugoslav Braille}} [[a]] / [[а]]
-# {{context|Russian Braille}} [[а]] (''a'')
+# {{context|Russian Braille}} [[а]] {{qualifier|a}}
 # {{context|Hebrew Braille}} {{term|sc=Hebr|א|tr=aleph: ’}}
 # {{context|Arabic Braille}} [[ا‎]] (alif: ''{{unicode|ʾ}}'')
 # {{context|Bharati braille}} ''a'' (only written when initial in a word)
-# {{context|Tibetan Braille}} [[ཨ]] (''a'')
+# {{context|Tibetan Braille}} [[ཨ]] {{qualifier|a}}
 # {{context|Chinese Braille}} Tone 1
 # {{context|Chinese Two-Cell Braille}} The onset ''g-'' or the rime ''-èn (-ìn, -ùn, -ǜn)''
 # {{context|Taiwan Braille}} Tone 0, onset ''zh'' [dubious] <!--this is in our source on WP, but there are other possible errors, and no other character has two readings like this-->
@@ -26,12 +26,12 @@ The 1st character of the braille script, standardized internationally as the dig
 # {{context|Korean Braille}} Final {{term|sc=Hang|ㄱ|tr=g/k}}
 
 ====Usage notes====
-{{context|Thai Braille}} As in print, this is combined with many other vowels to indicate they are short.
+* {{qualifier|Thai Braille}} As in print, this is combined with many other vowels to indicate they are short.
 
-===Number===
+===Numeral===
 {{mul-number|sc=Brai}}
 
-# {{context|Braille|often preceded by number sign [[⠼]]}} The [[digit]] {{term|1}}
+# {{context|Braille|often preceded by number sign [[⠼]]}} The [[digit]] {{term|1|lang=en}}
 
 ===Article===
 {{head|mul|article}}
@@ -39,7 +39,7 @@ The 1st character of the braille script, standardized internationally as the dig
 # {{context|English Braille}} [[a]]
 
 ====Usage notes====
-Sources disagree on whether to treat this as a word sign, or simply as the letter ⟨⠁⟩. It makes only a pedagogical difference.
+* Sources disagree on whether to treat this as a word sign, or simply as the letter ⟨⠁⟩. It makes only a pedagogical difference.
 
 ===See also===
 {{Brai-script}}
@@ -47,6 +47,7 @@ Sources disagree on whether to treat this as a word sign, or simply as the lette
 ----
 
 ==Japanese==
+
 ===Syllable===
 {{ja-syllable|a|sc=Brai}}
 
