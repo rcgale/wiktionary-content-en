@@ -120,7 +120,7 @@ Adjectives often applied to "hair": long, short, curly, straight, dark, blonde, 
 * Albanian: {{t-|sq|qime}}
 * Amharic: {{t-|am|ፀጉር|tr=s'ägurə|sc=Ethi}}
 * Arabic: {{t+|ar|شعر|alt=شَعر|tr=šaʿr}}
-*: Egyptian Arabic: {{tø|arz|شعرة|f|tr=šaʕra|sc=Arab}}, {{tø|arz|شعر|m|p|tr=šaʕrr|sc=Arab}}
+*: Egyptian Arabic: {{tø|arz|شعرة|f|tr=šaʕra|sc=Arab}}, {{tø|arz|شعر|m-p|tr=šaʕrr}}
 * Armenian: {{t-|hy|մազեր|tr=mazer}}
 * Aromanian: {{t-|rup|per}}
 * Asturian: {{t+|ast|pelu|m}}
@@ -128,7 +128,7 @@ Adjectives often applied to "hair": long, short, curly, straight, dark, blonde, 
 * Bambara: {{t-|bm|kunsi}}
 * Bashkir: {{tø|ba|сәс|tr=säs}} {{qualifier|on scalp}}, {{tø|ba|йөн|tr=yӧn}} {{qualifier|on human body, on animals}}
 * Basque: {{t+|eu|ile}}
-* Belarusian: {{t-|be|валасы|m|p|tr=valasý|sc=Cyrl}}, {{qualifier|individual}} {{t-|be|волас|m|tr=vólas|sc=Cyrl}}
+* Belarusian: {{t-|be|валасы|m-p|tr=valasý}}, {{qualifier|individual}} {{t-|be|волас|m|tr=vólas|sc=Cyrl}}
 * Bengali: {{t-|bn|চুল|tr=cul|sc=Beng}}
 * Borôro: {{tø|bor|ao}}
 * Breton: {{t+|br|blev}}
@@ -142,8 +142,8 @@ Adjectives often applied to "hair": long, short, curly, straight, dark, blonde, 
 *: Mandarin: {{t-|cmn|頭髮|sc=Hani}}, {{t-|cmn|头发|tr=tóufa|sc=Hani}}
 *: Min Nan: {{t+|nan|頭毛|tr=thâu-mn̂g|sc=Hans}}, {{t+|nan|頭鬃|tr=thâu-tsang|sc=Hans}}
 * Coptic: {{tø|cop|ϥⲱⲓ|m|tr=fōi}}, {{tø|cop|ⲧⲣⲓⲭⲟⲥ|m|tr=trixos}}
-* Czech: {{t-|cs|vlasy|m|p}}, {{qualifier|individual}} {{t+|cs|vlas|m}}
-* Dalmatian: {{tø|dlm|capei|m|p}}
+* Czech: {{t-|cs|vlasy|m-p}}, {{qualifier|individual}} {{t+|cs|vlas|m}}
+* Dalmatian: {{tø|dlm|capei|m-p}}
 * Danish: {{t+|da|hår|n}}
 * Dutch: {{t+|nl|haar|n}}
 * {{trreq|Eastern Arrernte}}
@@ -167,7 +167,7 @@ Adjectives often applied to "hair": long, short, curly, straight, dark, blonde, 
 * Indonesian: {{t+|id|rambut}}
 * Interlingua: {{t-|ia|capillo}}
 * Irish: {{t+|ga|gruaig|f}}
-* Italian: {{t+|it|capello|m}} {{qualifier|individual}}; {{t+|it|capelli|m|p}} {{qualifier|usually plural}}
+* Italian: {{t+|it|capello|m}} {{qualifier|individual}}; {{t+|it|capelli|m-p}} {{qualifier|usually plural}}
 * Japanese: {{t-|ja|髪の毛|tr=かみのけ, kami-no ke|sc=Jpan}}, {{t+|ja|髪|tr=かみ, kami|sc=Jpan}}
 * Jèrriais: {{tø|roa-jer|g'veu|m}} {{qualifier|individual}}, {{tø|roa-jer|g'veux|m}} {{qualifier|plural}}
 * Kamba: {{tø|kam|nzue}}
@@ -209,12 +209,12 @@ Adjectives often applied to "hair": long, short, curly, straight, dark, blonde, 
 * Pashto: {{t-|ps|ویښتان|tr=waṣ̌tan|sc=ps-Arab}}
 * Persian: {{t+|fa|مو|tr=mu|sc=fa-Arab}}
 * {{trreq|Pitjantjatjara}}
-* Polish: {{t+|pl|włosy|m|p}}, {{qualifier|individual}} {{t+|pl|włos|m}}
+* Polish: {{t+|pl|włosy|m-p}}, {{qualifier|individual}} {{t+|pl|włos|m}}
 * Portuguese: {{t+|pt|cabelo|m}}
 * Romani: {{tø|rom|bal|m}}
 * Romanian: {{t+|ro|păr|m}}
-* Romansch: {{t-|rm|chavels|m|p}}, {{t-|rm|tgavel}}, {{t-|rm|chavè}}, {{t-|rm|cavegl}}
-* Russian: {{t+|ru|волосы|m|p|tr=vólosy}} {{qualifier|usually plural}}, {{t+|ru|волос|m|tr=vólos|sc=Cyrl}} {{qualifier|individual}}, {{t+|ru|волосинка|f|tr=volosínka|sc=Cyrl}}
+* Romansch: {{t-|rm|chavels|m-p}}, {{t-|rm|tgavel}}, {{t-|rm|chavè}}, {{t-|rm|cavegl}}
+* Russian: {{t+|ru|волосы|m-p|tr=vólosy}} {{qualifier|usually plural}}, {{t+|ru|волос|m|tr=vólos|sc=Cyrl}} {{qualifier|individual}}, {{t+|ru|волосинка|f|tr=volosínka|sc=Cyrl}}
 * Sanskrit: {{t-|sa|केश|m|tr=kéśa|sc=Deva}}
 * Scottish Gaelic: {{t-|gd|falt|m}}, {{t-|gd|gruag|f}}
 * Serbo-Croatian:
@@ -222,10 +222,10 @@ Adjectives often applied to "hair": long, short, curly, straight, dark, blonde, 
 *: Roman: {{qualifier|collective}} {{t-|sh|kosa|f|alt=kòsa}}, {{qualifier|individual}} {{t-|sh|dlaka|f|alt=dlȁka}}
 * Sicilian: {{t+|scn|capiddu|m}} (individual), {{t+|scn|capiddi|m}}, {{t+|scn|zazzira|f}}
 * Sinhalese: {{t-|si|කොඳ|tr=konda|sc=Sinh}}
-* Slovak: {{t-|sk|vlasy|m|p}}, {{qualifier|individual}} {{t-|sk|vlas|m}}
+* Slovak: {{t-|sk|vlasy|m-p}}, {{qualifier|individual}} {{t-|sk|vlas|m}}
 * Slovene: {{t-|sl|las|m}}
 * Sorbian:
-*: Lower Sorbian: {{tø|dsb|włose|m|p}}
+*: Lower Sorbian: {{tø|dsb|włose|m-p}}
 * Sotho: {{t-|st|moriri}}
 * Spanish: {{t+|es|cabello|m}}, {{t+|es|pelo|m}}
 * Swahili: {{t+|sw|nywele}}
@@ -241,7 +241,7 @@ Adjectives often applied to "hair": long, short, curly, straight, dark, blonde, 
 * Turkish: {{t+|tr|saç}}
 * Turkmen: {{t-|tk|saç}}
 * Tuvan: {{tø|tyv|дүк|tr=dük}}
-* Ukrainian: {{qualifier|collective}} {{t+|uk|волосся|n|tr=volóssja|sc=Cyrl}}, {{qualifier|individual}} {{t+|uk|волос|m|tr=vólos|sc=Cyrl}}, {{t-|uk|волоси|m|p|tr=vólosy|sc=Cyrl}}
+* Ukrainian: {{qualifier|collective}} {{t+|uk|волосся|n|tr=volóssja|sc=Cyrl}}, {{qualifier|individual}} {{t+|uk|волос|m|tr=vólos|sc=Cyrl}}, {{t-|uk|волоси|m-p|tr=vólosy}}
 * Urdu: {{t-|ur|بال|m|tr=bāl|sc=ur-Arab}}, {{t-|ur|کیش|m|tr=keś|sc=ur-Arab}}
 * Uyghur: {{t-|ug|چاچ|tr=chach|sc=ug-Arab}}
 * Uzbek: {{t-|uz|soch}}
@@ -274,9 +274,9 @@ Adjectives often applied to "hair": long, short, curly, straight, dark, blonde, 
 * Ewe: {{tø|ee|ɖa}}, {{qualifier|collection in humans}}, {{tø|ee|fũ}} {{qualifier|collection in animals}}
 * Faroese: {{t-|fo|hár|n}}
 * Finnish: {{t+|fi|karvoitus}}, [[karva]]t {{p}}
-* French: {{t+|fr|cheveux|m|p}} {{qualifier|collection in humans}}, {{t+|fr|poils|m|p}}
+* French: {{t+|fr|cheveux|m-p}} {{qualifier|collection in humans}}, {{t+|fr|poils|m-p}}
 * German: {{t+|de|Haar|n}}
-* Greek: {{t+|el|μαλλιά|n|p|tr=malliá|sc=Grek}}, {{t+|el|κόμη|f|tr=kómi|sc=Grek}}
+* Greek: {{t+|el|μαλλιά|n-p|tr=malliá}}, {{t+|el|κόμη|f|tr=kómi|sc=Grek}}
 * Hawaiian: {{tø|haw|hulu}}
 * Hebrew: {{t-|he|שיער|m|tr=seʿār|sc=Hebr}}
 * Hindi: {{t-|hi|बाल|m|tr=bāl}}
@@ -284,9 +284,9 @@ Adjectives often applied to "hair": long, short, curly, straight, dark, blonde, 
 * Icelandic: {{t+|is|hár|n}}
 * Indonesian: {{t+|id|rambut}}
 * Interlingua: {{t-|ia|pilo}}
-* Italian: {{t+|it|peli|m|p}}
+* Italian: {{t+|it|peli|m-p}}
 * Japanese: {{t+|ja|毛|tr=け, ke|sc=Jpan}}
-* Jèrriais: {{tø|roa-jer|g'veux|m|p}}
+* Jèrriais: {{tø|roa-jer|g'veux|m-p}}
 * Khmer: {{t+|km|រោម|tr=roam|sc=Khmr}}
 * Kurdish:
 *: Sorani: {{t-|ku|تووک}}
@@ -295,24 +295,24 @@ Adjectives often applied to "hair": long, short, curly, straight, dark, blonde, 
 * Lithuanian: {{t-|lt|plaukai|p}}, {{t-|lt|vilnos|p}}, {{t-|lt|gaurai|p}}, {{t-|lt|šeriai|p}}
 {{trans-mid}}
 * Luxembourgish: {{t+|lb|Hoer|p}}, {{t-|lb|Buuschten|p}}
-* Macedonian: {{t-|mk|влакна|n|p|tr=vlákna}}
+* Macedonian: {{t-|mk|влакна|n-p|tr=vlákna}}
 * Malay: {{t-|ms|bulu}}
 * Maltese: {{t-|mt|suf}}
 * {{trreq|Mongolian}}
 * Nahuatl: {{t+|nah|tzontli}}
 * Neapolitan: {{tø|nap|pelo|m}}, {{tø|nap|pile}}
 * Oriya: {{t-|or|ଲୋମ|tr=loma|sc=Orya}}
-* Polish: {{t+|pl|włosy|m|p}}
+* Polish: {{t+|pl|włosy|m-p}}
 * Portuguese: {{t+|pt|pelo|m}}
 * Romani: {{tø|rom|zar|f}}
 * Romanian: {{t+|ro|păr|m}} (de pe corp), {{t+|ro|blană|f}} (zool.)
-* Russian: {{t+|ru|волосы|m|p|tr=vólosy}}
+* Russian: {{t+|ru|волосы|m-p|tr=vólosy}}
 * Scottish Gaelic: {{t-|gd|fionnadh|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|длака|f}} {{qualifier|collection in animals}}, {{t-|sh|крзно|m}} {{qualifier|collection in animals}}, {{t-|sh|длаке|f|p}} {{qualifier|collection in humans}}
-*: Roman: {{t-|sh|dlaka|f}} {{qualifier|collection in animals}}, {{t-|sh|krzno|m}} {{qualifier|collection in animals}}, {{t-|sh|dlake|f|p}} {{qualifier|collection in humans}}
+*: Cyrillic: {{t-|sh|длака|f}} {{qualifier|collection in animals}}, {{t-|sh|крзно|m}} {{qualifier|collection in animals}}, {{t-|sh|длаке|f-p}} {{qualifier|collection in humans}}
+*: Roman: {{t-|sh|dlaka|f}} {{qualifier|collection in animals}}, {{t-|sh|krzno|m}} {{qualifier|collection in animals}}, {{t-|sh|dlake|f-p}} {{qualifier|collection in humans}}
 * Shona: {{t-|sn|si}}
-* Sicilian: {{t+|scn|pila|m|p}}
+* Sicilian: {{t+|scn|pila|m-p}}
 * Slovak: {{t-|sk|srsť|m}}
 * Slovene: {{t-|sl|lasje|m}}, {{t+|sl|dlaka|f}}
 * Sotho: {{t-|st|moriri}}
