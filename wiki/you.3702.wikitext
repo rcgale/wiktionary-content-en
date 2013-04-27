@@ -82,8 +82,8 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: Tunisian Arabic: {{tø|aeb|كم|m|f|p|alt=ـكُمْ|tr=kum|sc=Arab}}
 * Aragonese: {{t-|an|mercés|p}}, {{t-|an|vustés|p}}
 * Aramaic:
-*: Syriac: {{tø|arc|ܠܟܘܢ|tr=lkōn|m|p}}, {{tø|arc|ܠܟܝܢ|tr=lkēn|f|p}}
-*: Hebrew: {{tø|arc|לכון|tr=lkōn|m|p}}, {{tø|arc|לכין|tr=lkēn|f|p}}
+*: Syriac: {{tø|arc|ܠܟܘܢ|m-p|tr=lkōn}}, {{tø|arc|ܠܟܝܢ|f-p|tr=lkēn}}
+*: Hebrew: {{tø|arc|לכון|m-p|tr=lkōn}}, {{tø|arc|לכין|f-p|tr=lkēn}}
 * Armenian: {{t-|hy|ձեզ|tr=jez|sc=Armn}}
 *: Old Armenian: {{tø|xcl|ձեզ|tr=jez|sc=Armn}}
 * {{trreq|ast}}
@@ -166,7 +166,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Persian: {{t-|fa|شما را|tr=šomā rā|sc=fa-Arab}}
 * Pipil: {{tø|ppl|metzin-}}
 * Pitcairn-Norfolk: {{tø|pih|yorle}}
-* Polish: {{qualifier|familiar}} {{t+|pl|was|c|p}}, {{qualifier|polite}} {{t-|pl|Państwa|c|p}}
+* Polish: {{qualifier|familiar}} {{t+|pl|was|c-p}}, {{qualifier|polite}} {{t-|pl|Państwa|c-p}}
 * Portuguese: {{qualifier|familiar in Portugal, archaic in Brazil}} {{t+|pt|vos}} {{qualifier|with or without prepositions}} {{t+|pt|convosco}} {{qualifier|attached to the preposition "com"}}; {{qualifier|polite in Portugal, general in Brazil}} {{t+|pt|vocês}}, {{t+|pt|consigo}} {{qualifier|attached to the preposition "com"; used only in Portugal}}; {{qualifier|formal, according to the addressee's gender}} {{t-|pt|os senhores|m}} {{qualifier|also with mixed groups}}, {{t-|pt|as senhoras|f}} {{qualifier|all-female groups only}}
 * {{trreq|pa}}
 * {{trreq|raj}}
@@ -186,7 +186,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Sotho: {{t+|st|lona}}
 * Spanish:
 *: {{qualifier|preceding or attached to a verb:}} {{qualifier|familiar}} {{t+|es|os}}, {{qualifier|polite}} {{t+|es|les}}
-*: {{qualifier|after preposition:}} {{qualifier|familiar}}  {{t+|es|vosotros|m|p}}, {{t-|es|vosotras|f|p}}; {{qualifier|polite}} {{t+|es|ustedes|p}}
+*: {{qualifier|after preposition:}} {{qualifier|familiar}}  {{t+|es|vosotros|m-p}}, {{t-|es|vosotras|f-p}}; {{qualifier|polite}} {{t+|es|ustedes|p}}
 * Swedish: {{t+|sv|er}}
 * Tagalog: {{qualifier|"ng" form}} {{t-|tl|kayo}}
 * Tajik: {{t-|tg|шумо ро|tr=šumo ro|sc=Cyrl}}
@@ -299,8 +299,8 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: Egyptian: {{tø|arz|انتوا|alt=إنتوا|tr=’íntu|sc=Arab}}
 *: Tunisian Arabic: {{tø|aeb|أنتما|m|f|p|alt=اِنْتُومَا|tr=ʾintūmā|sc=Arab}}
 * Aramaic:
-*: Syriac: {{tø|arc|ܐܢܬܘܢ|tr=’antōn|m|p}}, {{tø|arc|ܐܢܬܝܢ|tr=’antēn|f|p}}
-*: Hebrew: {{tø|arc|אנתון|tr=’antōn|m|p}}, {{tø|arc|אנתין|tr=’antēn|f|p}}
+*: Syriac: {{tø|arc|ܐܢܬܘܢ|m-p|tr=’antōn}}, {{tø|arc|ܐܢܬܝܢ|f-p|tr=’antēn}}
+*: Hebrew: {{tø|arc|אנתון|m-p|tr=’antōn}}, {{tø|arc|אנתין|f-p|tr=’antēn}}
 * Armenian: {{l|hy|դուք|tr=duk’|sc=Armn}}
 *: Old Armenian: {{l|xcl|դուք|tr=dukʿ|sc=Armn}}
 * Azeri: {{t+|az|siz}}, {{t-|az|sizlər}}
@@ -342,7 +342,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Guaraní: {{t-|gn|peẽ}}
 * Hausa: {{qualifier|independent form}} {{t-|ha|kúu}}
 * Hawaiian: {{qualifier|[[dual]]}} {{tø|haw|ʻolua}}, {{qualifier|plural}} {{tø|haw|ʻoukou}}
-* Hebrew: {{t+|he|אתם|m|p|alt=אֲתֶּם|tr=attém}}, {{t+|he|אתן|f|p|alt=אֲתֶּן|tr=attén}}
+* Hebrew: {{t+|he|אתם|alt=אֲתֶּם|m-p|tr=attém}}, {{t+|he|אתן|alt=אֲתֶּן|f-p|tr=attén}}
 * Hindi: {{qualifier|mid-polite}} {{t-|hi|तुम|tr=tum|sc=Deva}}; {{qualifier|polite}} {{t-|hi|आप|tr=āp|sc=Deva}}
 * Hungarian: {{qualifier|familiar}} {{t+|hu|ti}}, {{qualifier|polite}} {{t+|hu|önök}}
 * Icelandic: {{t+|is|þið}}
@@ -670,7 +670,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: ''familiar'': {{t+|de|du|s}}, {{t+|de|ihr|p}}
 *: ''polite'': {{t+|de|Sie|s}} and {{p}}
 {{trans-mid}}
-* Hebrew: {{t-|he|אַתָּה|m|s|tr=attáh}}, {{t-|he|אַתְּ|f|s|tr=att}}, {{t-|he|אֲתֶּם|m|p|tr=attém}}, {{t-|he|אֲתֶּן|f|p|tr=attén}}
+* Hebrew: {{t-|he|אַתָּה|m|s|tr=attáh}}, {{t-|he|אַתְּ|f|s|tr=att}}, {{t-|he|אֲתֶּם|m-p|tr=attém}}, {{t-|he|אֲתֶּן|f-p|tr=attén}}
 * Japanese: {{t+|ja|そこ|alt=そこの|tr=soko no}}
 * Korean: {{t+|ko|너|tr=no|sc=Hang}}
 * Latin: {{t+|la|tu}}, {{t+|la|vos}}, {{t+|la|vos|p}}
@@ -703,7 +703,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Japanese: {{t+|ja|そこ|alt=そこの|tr=soko no}}, {{t+|ja|この|tr=kono}}
 {{trans-mid}}
 * Kurdish: {{t+|ku|ey}}, {{t+|ku|hey}}, {{t+|ku|wey}}
-* Latin: {{t+|la|tibi}}, {{t+|la|vobis|p}}, {{t+|la|tuus|m}}, {{t-|la|tua|f}}, {{t-|la|tuum}}, {{t-|la|tuum|n}}, {{t-|la|tui|m|p}}, {{t-|la|tuae|f|p}}, {{t-|la|tua|n|p}}, {{t+|la|voster}}, {{t+|la|voster|m}}, {{t-|la|vostra}}, {{t-|la|vostra|f}}, {{t-|la|vostrum}}, {{t-|la|vostrum|n}}, {{t-|la|vostri|m|p}}, {{t-|la|vostrae|f|p}}, {{t-|la|vostra|n|p}}, {{t+|la|vester|m}}, {{t-|la|vestra|f}}, {{t-|la|vestrum|n}}, {{t-|la|vestri|m|p}}, {{t-|la|vestrae|f|p}}, {{t-|la|vestra|n|p}}
+* Latin: {{t+|la|tibi}}, {{t+|la|vobis|p}}, {{t+|la|tuus|m}}, {{t-|la|tua|f}}, {{t-|la|tuum}}, {{t-|la|tuum|n}}, {{t-|la|tui|m-p}}, {{t-|la|tuae|f-p}}, {{t-|la|tua|n-p}}, {{t+|la|voster}}, {{t+|la|voster|m}}, {{t-|la|vostra}}, {{t-|la|vostra|f}}, {{t-|la|vostrum}}, {{t-|la|vostrum|n}}, {{t-|la|vostri|m-p}}, {{t-|la|vostrae|f-p}}, {{t-|la|vostra|n-p}}, {{t+|la|vester|m}}, {{t-|la|vestra|f}}, {{t-|la|vestrum|n}}, {{t-|la|vestri|m-p}}, {{t-|la|vestrae|f-p}}, {{t-|la|vestra|n-p}}
 * Norwegian: {{t-|no|din|s}}
 * Novial:
 *: ''singular'': {{tø|nov|vu}}
