@@ -2,33 +2,19 @@
 
 ===Pronunciation===
 * {{IPA|[jesʲtʲ]|lang=ru}}
+*{{audio|Ru-есть.ogg|audio}}
 
 ===Etymology 1===
 From {{etyl|sla-pro|ru}} {{recons|(j)ěsti|lang=sla-pro}}, from {{etyl|ine-pro|ru}} {{recons|h₁ed-||to eat|lang=ine-pro}}.
 
 ====Verb====
-{{ru-verb|tr=jest’|2=impf}}, [[съесть]] (s"jest’) ''[[pf.]]'', [[поесть]] (pojést’) ''[[pf.]]''
+{{ru-verb|tr=jestʹ|impf|pf=съесть|pftr=sʺjestʹ}}, '''{{l|ru|поесть}}''' (pojéstʹ) {{pf.}}
 
 # to [[eat]]
 #: [[есть поедом]] — to [[make]] smb.'s [[life]] a [[misery]] by [[nagging]]
 
 =====Conjugation=====
-{{ru-verb-1-impf|есть
-|е́сть|
-|[[съесть]], [[поесть|пое́сть]]|
-|е́м|еди́м
-|е́шь|еди́те
-|е́ст|едя́т
-|е́шь|е́шьте
-|едя́щий||
-|е́л|е́ла|е́ло|е́ли
-|е́вший|||}}
-
-* '''{{Cyrl|[[поесть|пое́сть]]}}''' {{pf.}}
-{{ru-verb-pf|пое́м|пое́шь|пое́ст
-|поеди́м|поеди́те|поедя́т
-|пое́л|пое́ла|пое́ло|пое́ли
-|пое́шь|пое́шьте}}
+{{ru-conj-irreg-есть|impf||past_pasv_part=е́денный}}
 
 =====Derived terms=====
 {{top2}}
@@ -88,24 +74,24 @@ From {{etyl|sla-pro|ru}} {{recons|(j)ěsti|lang=sla-pro}}, from {{etyl|ine-pro|r
 From {{etyl|sla-pro|ru}} {{recons|(j)estъ|lang=sla-pro}}, from {{etyl|ine-pro|ru}} {{recons|h₁ést|lang=ine-pro}}.
 
 ====Verb====
-'''есть''' (jest’)
-: ''([[present tense|present]] [[indicative mood|indicative]] of the verb '''''[[быть]]''''')''
+{{head|ru|verb form|tr=jestʹ}}
+
+: ''([[present tense|present]] [[indicative mood|indicative]] of the verb {{term|быть||tr=bytʹ|to be|lang=ru}}.
 
 # [[am]], [[is]], [[are]]
 # [[there is]], [[there are]]
 # [[have]], [[has]]
 
 ====Interjection====
-'''есть''' (jest’)
+{{head|ru|interjection|tr=jestʹ}}
 
 # [[all right]]
 # [[okay]], [[right]], [[roger]]
 # {{military|lang=ru}} [[yessir]]!
 # ''(naval)'' [[aye|aye-aye]]!
 
-[[Category:Russian interjections]]
-[[Category:Russian verbs]]
 [[Category:ru:Food and drink]]
+[[Category:Russian terms with audio links]]
 
 [[et:есть]]
 [[el:есть]]
