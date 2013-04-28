@@ -43,7 +43,7 @@ From {{etyl|enm}} {{term|brethen||to breathe, blow, exhale, odour|lang=enm}}, fr
 * Arabic: {{t-|ar|تنفس|tr=tanaffasa}}
 * Armenian: {{t|hy|շնչել|tr=šnčʿel|sc=Armn}}
 * Aromanian: {{t-|rup|adilju}}, {{t-|rup|suflu}}
-* Azeri: {{t|az|nəfəs almaq}}
+* Azeri: {{t|az|nəfəs almaq|sc=Latn}}
 * Belarusian: {{t|be|дыхаць|tr=dýxacʹ|sc=Cyrl}}
 * Bengali: {{t|bn|শ্বাস ফেলা|tr=shbasô phela|sc=Beng}}
 * Bulgarian: {{t+|bg|дишам|tr=díšam}}
@@ -51,7 +51,7 @@ From {{etyl|enm}} {{term|brethen||to breathe, blow, exhale, odour|lang=enm}}, fr
 * Catalan: {{t+|ca|respirar}}
 * Central Atlas Tamazight: {{tø|tzm|ⵙⵓⵏⴼⵙ|tr=sunfs}}
 * Chinese:
-*: Mandarin {{t+|cmn|呼吸|tr=hūxī|sc=Hani}},  {{t+|cmn|吸|tr=xī|sc=Hani}}
+*: Mandarin {{t+|cmn|呼吸|tr=hūxī|sc=Hani}}, {{t+|cmn|吸|tr=xī|sc=Hani}}
 * Czech: {{t+|cs|dýchat}}
 * Danish: {{t-|da|ånde}}, {{t-|da|trække vejret}}
 * Dutch: {{t+|nl|ademen}}, {{t+|nl|ademhalen}}
@@ -60,6 +60,8 @@ From {{etyl|enm}} {{term|brethen||to breathe, blow, exhale, odour|lang=enm}}, fr
 * Faroese: {{t-|fo|anda}}
 * Finnish: {{t+|fi|hengittää}}
 * French: {{t+|fr|respirer}}, {{t+|fr|inspirer}}, {{t+|fr|expirer}}
+*: Middle French: {{tø|frm|respirer}}
+*: Old French: {{tø|fro|respirer}}
 * Galician: {{t+|gl|respirar}}
 * Georgian: {{t|ka|სუნთქვა|tr=sunt’k’va|sc=Geor}}
 * German: {{t+|de|atmen}}
@@ -68,6 +70,7 @@ From {{etyl|enm}} {{term|brethen||to breathe, blow, exhale, odour|lang=enm}}, fr
 * Hindi: {{t|hi|सांस लेना|tr=sāns lenā|sc=Deva}}
 * Hungarian: {{t+|hu|lélegzik}}
 * Icelandic: {{t|is|anda}}
+* Ido: {{t|io|respirar}}
 * Indonesian: {{t-|id|bernafas}}
 * Irish: {{t-|ga|análaigh}}, {{t-|ga|riospráid}}
 * Italian: {{t+|it|respirare}}
@@ -89,6 +92,7 @@ From {{etyl|enm}} {{term|brethen||to breathe, blow, exhale, odour|lang=enm}}, fr
 * Mongolian: {{t|mn|амьсгалах|tr=amʹsgalah|sc=Cyrl}}
 * Northern Sami: {{tø|se|vuoiŋŋadit}}
 * Norwegian: {{t+|no|puste}}, {{t-|no|ånde}}
+* Occitan: {{t|oc|respirar}}
 * Papiamentu: {{t|pap|hala rosea}}
 * Persian: {{t|fa|نفس کشیدن|tr=nafas kešidan|sc=fa-Arab}}
 * Polish: {{t+|pl|oddychać}}
@@ -98,8 +102,8 @@ From {{etyl|enm}} {{term|brethen||to breathe, blow, exhale, odour|lang=enm}}, fr
 * Romansch: {{t-|rm|respirar}}
 * Russian: {{t+|ru|дышать|tr=dyšátʹ}} {{impf}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|дисати}}, {{t|sh|дихати}} {{qualifier|Kajkavian}}
-*: Roman: {{t|sh|disati}}, {{t|sh|dihati}} {{qualifier|Kajkavian}}
+*: Cyrillic: {{t|sh|дисати|sc=Cyrl}}, {{t|sh|дихати|sc=Cyrl}} {{qualifier|Kajkavian}}
+*: Roman: {{t|sh|disati|sc=Latn}}, {{t|sh|dihati|sc=Latn}} {{qualifier|Kajkavian}}
 * Slovak: {{t-|sk|dýchať}}
 * Slovene: {{t+|sl|dihati}}
 * Spanish: {{t+|es|respirar}}
@@ -114,6 +118,7 @@ From {{etyl|enm}} {{term|brethen||to breathe, blow, exhale, odour|lang=enm}}, fr
 * Uzbek: {{t|uz|nafas olmoq}}
 * Vietnamese: {{t|vi|thở}}
 * Volapük: {{t+|vo|natemön}}
+* Walloon: {{t|wa|respirer}}
 * Welsh: {{t+|cy|anadlu}}
 * West Frisian: {{t+|fy|sykhelje}}
 * Yiddish: {{t|yi|אָטעמען|tr=otemen|sc=Hebr}}
@@ -195,13 +200,13 @@ From {{etyl|enm}} {{term|brethen||to breathe, blow, exhale, odour|lang=enm}}, fr
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|fur}}: (1): [[respirâ]]
+* {{ttbc|fur}}: {{qualifier|1}} [[respirâ]]
 * {{ttbc|id}}: {{t|id|nafas|alt=bernafas}}
 {{trans-mid}}
 * {{ttbc|no}}: {{t|no|puste}}
-* {{ttbc|te}}: {{t|te|శ్వాసించు|tr=SvaasiMchu|sc=Telu}} (1), {{t|te|ఊపిరి ఆడు|tr=oopiri aaDu|sc=Telu}} (2)
+* {{ttbc|te}}: {{qualifier|1}} {{t|te|శ్వాసించు|tr=SvaasiMchu|sc=Telu}}, {{qualifier|2}} {{t|te|ఊపిరి ఆడు|tr=oopiri aaDu|sc=Telu}}
 * {{ttbc|th}}: {{t|th|หายใจเข้า|tr=breath in|sc=Thai}} ''hai-jai-kao''
-* {{ttbc|tr}}: {{qualifier|1,2,3}} {{t|tr|soluk almak}} [[nefes almak]] (1,2,3)
+* {{ttbc|tr}}: {{qualifier|1,2,3}} {{t|tr|soluk almak}}, {{qualifier|1,2,3}} [[nefes almak]]
 {{trans-bottom}}
 
 ===Anagrams===
