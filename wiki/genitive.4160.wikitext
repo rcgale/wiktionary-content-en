@@ -69,7 +69,7 @@ From Renaissance {{etyl|la}} {{term|casus|lang=la}} {{term|genitivus|genitīvus|
 {{trans-mid}}
 * Italian: {{t-|it|caso genitivo|m}}
 * Japanese: {{t+|ja|属格|tr=ぞっかく, zokkaku}}, {{t+|ja|生格|tr=せいかく, seikaku}}
-* Latin: [[casus]] [[genetivus]] {{m}}
+* {{ttbc|la}}: {{t|la|casus genetivus|m}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Latvian: {{t+|lv|ģenitīvs|m}}
 * Lithuanian: {{t+|lt|kilmininkas|m}}
 * Novial: {{tø|nov|genitive}}
@@ -86,14 +86,14 @@ From Renaissance {{etyl|la}} {{term|casus|lang=la}} {{term|genitivus|genitīvus|
 * Spanish: {{t-|es|genetivo|m}}, {{t-|es|caso genitivo|m}}
 * Swedish: {{t+|sv|genitiv}}
 * Telugu: {{t-|te|షష్ఠీ విభక్తి|tr=ṣaṣṭhī vibhakti|sc=Telu}}
-* Turkish: {{t+|tr|tamlayan}} hâli/durumu
+* Turkish: {{t+|tr|tamlayan}} hâli, {{t|tr|durumu}}
 * Vietnamese: {{t-|vi|sinh cách}}
 * Volapük: {{t-|vo|kimafal}}, {{t+|vo|genitif}}
 {{trans-bottom}}
 
 {{trans-top|word in the genitive inflection}}
 * Chinese:
-*: Mandarin: [[所有格]][[的]][[詞]], [[所有格]][[的]][[词]] (suǒyǒugé de cí)
+*: {{ttbc|Mandarin}}: {{t|cmn|所有格的詞|sc=Hani}}, {{t|cmn|所有格的词|tr=suǒyǒugé de cí|sc=Hans}} <!-- was previously three separate links, one per "word"; is this suitable for {{t-SOP}}? also, check if Hani/Hans is correct -->
 * Finnish: {{t+|fi|genetiivi}}
 * Polish: {{t+|pl|dopełniacz|m}}
 * Russian: {{t-|ru|слово в родительном падеже|n|tr=slóvo v rodítel'nom padežé|sc=Cyrl}}
