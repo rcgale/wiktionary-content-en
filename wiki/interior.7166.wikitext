@@ -9,14 +9,13 @@ From {{etyl|la}} {{term|interior||inner, interior|lang=la}}.
 
 ===Pronunciation===
 * {{audio|en-us-interior.ogg|Audio (US)}}
-
 * {{rhymes|ɪəriə(r)}}
 
 ===Adjective===
 {{en-adj|-}}
 
-# having to do with the inner part of something
-# having to do with the inland parts of a country far from the coasts
+# Having to do with the inner part of something.
+# Having to do with the inland parts of a country far from the coasts.
 
 ====Derived terms====
 * [[interior decoration]]
@@ -27,11 +26,11 @@ From {{etyl|la}} {{term|interior||inner, interior|lang=la}}.
 {{trans-top|having to do with the inner part of something}}
 * Armenian: {{t-|hy|ներքին|tr=nerk’in}}
 * Czech: {{t+|cs|vnitřní}}
-* Finnish: [[sisä-]] {{qualifier|in compounds}}, [[sisäinen]]
+* Finnish: [[sisä-]] {{qualifier|in compounds}}, {{t|fi|sisäinen}}
 * Hungarian: {{t+|hu|belső}}
 {{trans-mid}}
 * Japanese: {{t+|ja|内部|tr=naibu|sc=Jpan}}
-* Portuguese: {{t+|pt|interior|m}}
+* Portuguese: {{t+|pt|interior}}
 * Russian: {{t+|ru|внутренний|tr=vnútrennij|sc=Cyrl}}
 * Spanish: {{t+|es|interior}}
 {{trans-bottom}}
@@ -63,11 +62,14 @@ From {{etyl|la}} {{term|interior||inner, interior|lang=la}}.
 
 ====Translations====
 {{trans-top|the inside of an enclosed structure}}
+* Asturian: {{t|ast|interior|m}}
+* Catalan: {{t|ca|interior|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|內部|sc=Hani}}, {{t|cmn|内部|tr=nèibù|sc=Hani}}
 * Dutch: {{t-|nl|interieur|n}}
 * Finnish: {{t-|fi|sisätila}}, {{t-|fi|sisus}}, {{t+|fi|sisäpuoli}}
 * French: {{t+|fr|intérieur|m}}
+* Galician: {{t|gl|interior|m}}
 * German: {{t-|de|Interieur|n}}, {{t+|de|Inneres|n}}
 * Hungarian: {{t+|hu|belső}}
 * Japanese: {{t+|ja|内装|tr=ないそう, naisō|sc=Jpan}}, {{t+|ja|内部|tr=ないぶ, naibu|sc=Jpan}}, {{t+|ja|インテリア|tr=interia|sc=Jpan}}
@@ -103,27 +105,33 @@ From {{etyl|la}} {{term|interior||inner, interior|lang=la}}.
 
 ==Galician==
 
+===Etymology===
+From {{etyl|la|gl}} {{term|interior|lang=la}}.
+
 ===Adjective===
 {{gl-adj|f=interior|pl=interiores}}
 
-# [[#English|interior]]
+# [[inner]], {{l/en|interior}}
 
 ===Noun===
 {{gl-noun|m|interiores}}
 
-# [[#English|interior]]
+# {{l/en|interior}}
+
+====Antonyms====
+* {{l|gl|exterior}}
 
 ----
 
 ==Latin==
 
 ===Etymology===
-From earlier *{{term||interus}} (whence also {{term|intra|intrā|lang=la}}), from {{etyl|ine-pro|la}} {{recons|h₁énteros||inner, what is inside|lang=ine-pro}}. Cognates include Sanskrit {{term|sc=Deva|अन्तर|tr=ántara||interior|lang=sa}} and Ancient Greek {{term|sc=polytonic|ἔντερον|tr=enteron||intestine, bowel|lang=grc}}.
+From earlier *{{term||interus|lang=la}} (whence also {{term|intra|intrā|lang=la}}), from {{etyl|ine-pro|la}} {{recons|h₁énteros||inner, what is inside|lang=ine-pro}}. Cognates include Sanskrit {{term|sc=Deva|अन्तर|tr=ántara||interior|lang=sa}} and Ancient Greek {{term|sc=polytonic|ἔντερον|tr=enteron||intestine, bowel|lang=grc}}.
 
 ===Adjective===
 {{head|la|adjective|comparative of|inter|cat=adjective comparative forms}}
 
-# [[inner]], [[#English|interior]].
+# [[inner]], {{l/en|interior}}
 # [[nearer]]
 
 ====Usage notes====
@@ -137,7 +145,7 @@ Although this adjective is the comparative form of {{term|inter|lang=la}}, there
 ==Portuguese==
 
 ===Etymology===
-{{rfe|lang=pt}}
+From {{etyl|la|pt}} {{term|interior|lang=la}}.
 
 ===Pronunciation===
 * {{a|PT}} {{IPA|/ĩtɨɾjoɾ/|lang=pt}}
@@ -145,26 +153,35 @@ Although this adjective is the comparative form of {{term|inter|lang=la}}, there
 ===Adjective===
 {{pt-adj|f=interior|pl=interiores}}
 
-# [[#English|interior]]
+# [[inner]], {{l/en|interior}}
 
 ===Noun===
 {{pt-noun|m|interiores}}
 
-# [[#English|interior]]
+# {{l/en|interior}}
+
+====Antonyms====
+* {{l/pt|exterior}}
 
 ----
 
 ==Spanish==
 
+===Etymology===
+From {{etyl|la|es}} {{term|interior|lang=la}}.
+
 ===Adjective===
 {{es-adj|pl=interiores}}
 
-# [[interior#English|interior]]
+# [[inner]], {{l/en|interior}}
 
 ===Noun===
 {{es-noun|m|pl=interiores}}
 
-# [[interior#English|interior]]
+# {{l/en|interior}}
+
+====Antonyms====
+* {{l/es|exterior}}
 
 ====Related terms====
 * [[interioridad]]
