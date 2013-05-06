@@ -133,7 +133,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|þing|lang=ang||tr=thing}}, from {{e
 * Persian: {{t+|fa|چیز|tr=čiz|sc=fa-Arab}}
 * Polish: {{t+|pl|rzecz|f}}
 * Portuguese: {{t+|pt|coisa|f}}
-* Romanian: {{t+|ro|lucru|n}}
+* Romanian: {{t+|ro|lucru|n}}, {{t|ro|chestie|f}}
 * Russian: {{t+|ru|вещь|f|tr=veščʹ|sc=Cyrl}}, {{t+|ru|нечто|n|tr=néčto|sc=Cyrl}}, {{t+|ru|предмет|m|tr=predmét|sc=Cyrl}}
 * Sanskrit: {{t-|sa|वस्तु|m|tr=vastu}}
 * Scottish Gaelic: {{t-|gd|rud|m}}
@@ -295,7 +295,7 @@ From {{w|Proto-Tibeto-Burman}} *siŋ
 ==Old Dutch==
 
 ===Etymology===
-From {{etyl|gem-pro|odt}} {{recons|þingą|lang=gem-pro}}.
+From {{etyl|gem-pro|odt}} {{recons|þingą|lang=gem-pro}}. Compare Old Saxon {{term|thing|lang=osx}}, Old Frisian {{term|thing|lang=ofs}}, Old English {{term|þing|lang=ang}}, Old High German {{term|ding|lang=goh}}, Old Norse {{term|þing|lang=non}}.
 
 ===Noun===
 {{head|odt|noun|g=n}}
@@ -314,7 +314,7 @@ From {{etyl|gem-pro|odt}} {{recons|þingą|lang=gem-pro}}.
 ==Old Saxon==
 
 ===Etymology===
-From {{etyl|gem-pro|osx}} {{recons|þingą|lang=gem-pro}}.
+From {{etyl|gem-pro|osx}} {{recons|þingą|lang=gem-pro}}. Compare Old Dutch {{term|thing|lang=odt}}, Old Frisian {{term|thing|lang=ofs}}, Old English {{term|þing|lang=ang}}, Old High German {{term|ding|lang=goh}}, Old Norse {{term|þing|lang=non}}.
 
 ===Noun===
 {{head|osx|noun|g=n}}
@@ -324,6 +324,10 @@ From {{etyl|gem-pro|osx}} {{recons|þingą|lang=gem-pro}}.
 
 ====Declension====
 {{odt-decl-table|head=thing|thing|thing|thinges|thinge|thing|thing|thingo|thingum}}
+
+====Descendants====
+* Middle Low German: {{l|gml|dink}}
+** Low German: {{l|nds|Ding}}, {{l|nds|Dinkj}}
 
 [[ang:thing]]
 [[ar:thing]]
