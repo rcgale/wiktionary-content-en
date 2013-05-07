@@ -283,16 +283,16 @@ From {{etyl|enm}} {{term|gon|lang=enm}}, {{term|goo|lang=enm}}, from {{etyl|ang}
 * Aromanian: {{t-|rup|njergu}}, {{t-|rup|nergu}}, {{t+|rup|imnu}}
 * Asturian: {{t-|ast|dir}}
 * Basque: {{t-|eu|joan}}
-* Belarusian: {{t-|be|ісці|tr=iscí}}, {{t|be|хадзіць|tr=xadzícʹ|sc=Cyrl}}, {{t|be|ездзіць|tr=jézdzicʹ|sc=Cyrl}}, {{t|be|ехаць|tr=jéxacʹ|sc=Cyrl}} {{qualifier|by transport}}
+* Belarusian: {{t|be|хадзіць|tr=xadzícʹ}} / {{t|be|ісці|tr=iscí}} {{qualifier|on foot}} {{impf}}; {{t|be|ездзіць|tr=jézdzicʹ}} / {{t|be|ехаць|tr=jéxacʹ}} {{qualifier|by transport}} {{impf}}
 * Breton: {{t+|br|mont}}
-* Bulgarian: {{t+|bg|отивам|tr=otívam|sc=Cyrl}}, {{t|bg|ходя|tr=hódja|sc=Cyrl}}
+* Bulgarian: {{t+|bg|отивам|tr=otívam|sc=Cyrl}}, {{t|bg|ходя|tr=hódja|sc=Cyrl}}, {{t|bg|яздя|tr=jázdja|sc=Cyrl}} {{qualifier|by transport}} {{impf}}
 * Burmese: {{t+|my|သွား|tr=thwa:|sc=Mymr}}
 * Catalan: {{t+|ca|anar}}
 * Chinese:
 *: Dungan: {{tø|dng|чў|tr=qü|sc=Cyrl}}
-*: Mandarin: {{t-|cmn|去|tr=[[qù]]|sc=Hani}}
+*: Mandarin: {{t+|cmn|去|tr=qù|sc=Hani}}
 * Crimean Tatar: {{tø|crh|ket}}
-* Czech: {{t+|cs|jet}} {{qualifier|by vehicle}}, {{t+|cs|jít}} {{qualifier|by walking}}, {{t|cs|chodit}}
+* Czech: {{t+|cs|jít}} / {{t|cs|chodit}} {{qualifier|on foot}} {{impf}}; {{t+|cs|jechat}} / {{t+|cs|jet}} {{qualifier|by transport}} {{impf}}
 * Dalmatian: {{tø|dlm|andur}}, {{tø|dlm|zer}}
 * Danish: {{t+|da|gå}}
 * Dutch: {{t+|nl|gaan}}
@@ -355,12 +355,12 @@ From {{etyl|enm}} {{term|gon|lang=enm}}, {{term|goo|lang=enm}}, from {{etyl|ang}
 * Persian: {{t+|fa|رفتن|alt=رَفتَن|tr=ræftæn}}, {{t+|fa|شدن|tr=šodan}}
 * Piedmontese: {{tø|pms|andè}}
 * Pipil: {{tø|ppl|yawi}}, {{tø|ppl|yahui}}
-* Polish: {{t+|pl|iść}}, {{t+|pl|chodzić}}, {{t+|pl|jechać}} {{qualifier|by vehicle}}
+* Polish: {{t+|pl|chodzić}} / {{t+|pl|iść}} {{qualifier|on foot}} {{impf}}, {{t+|pl|jeździć}} / {{t+|pl|jechać}} {{qualifier|by transport}} {{impf}}
 * Portuguese: {{t+|pt|ir}}
 * Quechua: {{t-|qu|puriy}}, {{t+|qu|riy}}
 * Romanian: {{t+|ro|merge}}, {{t+|ro|duce}}
 * Romansch: {{t-|rm|ir}}
-* Russian: {{t+|ru|ходить}} / {{t+|ru|идти}} (xodít’/idtí, ''afoot''); {{t+|ru|ездить}} / {{t+|ru|ехать}} (jézdit’/jéxat’, ''by transport'')
+* Russian: {{t+|ru|ходить|tr=xodítʹ}} / {{t+|ru|идти|tr=idtí}} {{qualifier|on foot}} {{impf}}; {{t+|ru|ездить|tr=jézditʹ}} / {{t+|ru|ехать|tr=jéxatʹ}} {{qualifier|by transport}} {{impf}}
 * Sanskrit: {{t+|sa|एति|tr=éti}}, {{t+|sa|गम्|tr=gam|sc=Deva}}
 * Sardinian:
 *: Campidanese Sardinian: {{tø|sro|andai}}
@@ -374,7 +374,7 @@ From {{etyl|enm}} {{term|gon|lang=enm}}, {{term|goo|lang=enm}}, from {{etyl|ang}
 * Sichuan Yi: {{qualifier|general}} {{tø|ii|ꁧ|tr=bbo}}, {{qualifier|downwards}} {{tø|ii|ꒉ|tr=yy}}, {{qualifier|upwards}} {{tø|ii|ꆹ|tr=li}}
 * Sicilian: {{t+|scn|iri}}, {{t+|scn|annari}}
 * Sinhalese: {{t-|si|යනවා|tr=yanavā|sc=Sinh}}
-* Slovak: {{t-|sk|ísť}} {{qualifier|by vehicle}}, {{t-|sk|ísť}} {{qualifier|by walking}}, {{t|sk|chodiť}}
+* Slovak: {{t-|sk|ísť}} / {{t|sk|chodiť}} {{qualifier|on foot}} {{impf}}, {{t-|sk|jechať}} / {{t-|sk|jazdiť}} {{qualifier|by transport}} {{impf}}
 * Slovene: {{t+|sl|iti}}, {{t+|sl|oditi}}, {{t|sl|hoditi}}
 * Spanish: {{t+|es|ir}}
 * Sumerian: {{tø|sux|𒁺|tr=DU|sc=Xsux}}
@@ -386,7 +386,7 @@ From {{etyl|enm}} {{term|gon|lang=enm}}, {{term|goo|lang=enm}}, from {{etyl|ang}
 * Tok Pisin: {{t-|tpi|go}}
 * Turkish: {{t+|tr|gitmek}}
 * Ugaritic: {{tø|uga|𐎅𐎍𐎋|tr=hlk|sc=Ugar}}
-* Ukrainian: {{t+|uk|ходити}} / {{t+|uk|іти}} (xodýty/itý, ''afoot''); {{t+|uk|їздити}} / {{t+|uk|їхати}} (jízdyty/jixaty, ''by vehicle'')
+* Ukrainian: {{t+|uk|ходити|tr=xodýty}} / {{t+|uk|іти|tr=itý}} {{qualifier|on foot}} {{impf}}; {{t+|uk|їздити|tr=jízdyty}} / {{t+|uk|їхати|tr=jíxaty}} {{qualifier|by transport}} {{impf}}
 * Urdu: {{t-|ur|جانا|tr=jānā}}
 * Venetian: {{tø|vec|ndar}}
 * Veps: {{tø|vep|mända}}
