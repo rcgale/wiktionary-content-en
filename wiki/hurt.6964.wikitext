@@ -36,10 +36,10 @@ Alternate etymology traces {{etyl|enm}} {{term|hurten|lang=enm}}, {{term|hirten|
 * Aromanian: {{t-|rup|dor}}
 * Catalan: {{t+|ca|doldre}}, {{t+|ca|doler}}
 * Chinese:
-*: Mandarin: {{qualifier|adjective}} {{t-|cmn|疼|tr=téng|sc=Hani}},  {{qualifier|adjective}} {{t-|cmn|痛|tr=tòng|sc=Hani}}
+*: Mandarin: {{t+|cmn|疼|tr=téng|sc=Hani}} {{qualifier|adjective}}, {{t+|cmn|痛|tr=tòng|sc=Hani}} {{qualifier|adjective}}
 * Czech: {{t+|cs|bolet}}
 * Dalmatian: {{tø|dlm|dolar}}
-* Dutch: [[pijn doen]], [[zeer]] doen
+* Dutch: {{l|nl|pijn}} {{l|nl|doen}}, {{t|nl|zeer}} {{l|nl|doen}}
 * Finnish: {{t+|fi|sattua}}, {{t+|fi|koskea}}
 * French: {{t+|fr|faire mal}}
 * German: {{t+|de|weh tun}}, {{t+|de|schmerzen}}
@@ -47,8 +47,8 @@ Alternate etymology traces {{etyl|enm}} {{term|hurten|lang=enm}}, {{term|hirten|
 * Icelandic: {{t-|is|vera vont}}, {{t-|is|meiða}}
 * Indonesian: {{t+|id|luka|alt=melukai}}
 * Italian: {{t+|it|dolere}}
-* Japanese: [[傷つける]] ([[きずつける]], kizu-tsukeru),  {{qualifier|adjective}} {{t+|ja|痛い|tr=itai}}
-* Korean: {{t+|ko|아프다|sc=Hang}}
+* Japanese: {{t|ja|傷つける|tr=[[きずつける]], kizu-tsukeru|sc=Jpan}}, {{t+|ja|痛い|tr=itai}} {{qualifier|adjective}}
+* Korean: {{t+|ko|아프다|tr=apeuda|sc=Hang}}
 * Latin: {{t-|la|doleo|alt=doleō}}
 {{trans-mid}}
 * Latvian: {{t-|lv|sāpēt}}
@@ -59,24 +59,24 @@ Alternate etymology traces {{etyl|enm}} {{term|hurten|lang=enm}}, {{term|hirten|
 * Portuguese: {{t+|pt|doer}}
 * Romanian: {{t+|ro|durea}}
 * Romansch: {{t-|rm|dulair}}, {{t-|rm|dular}}, {{t-|rm|duler}}, {{t-|rm|duleir}}, {{t-|rm|dolair}}
-* Russian: {{t+|ru|болеть|tr=bolét'}}
+* Russian: {{t+|ru|болеть|tr=bolétʹ}} {{impf}}
 * Sardinian: {{t-|sc|dòlere}}, {{t-|sc|doli}}, {{t-|sc|dòliri}}
-* Scottish Gaelic: [[ciùrr]]
+* Scottish Gaelic: {{t|gd|ciùrr}}
 * Serbo-Croatian: {{t-|sh|boljeti}}
 * Spanish: {{t+|es|doler}}
 * Swedish: {{t+|sv|göra ont}}
 * Telugu: {{t-|te|బాధాకరం|tr=badhakaram|sc=Telu}}, {{t-|te|నొప్పించు|tr=nopiincu|sc=Telu}}
-* Thai: {{t+|th|เจ็บ}}
+* Thai: {{t+|th|เจ็บ|tr=jèp}}
 * Turkish: {{t+|tr|ağrımak}}, {{t+|tr|acımak}}
 {{trans-bottom}}
 
 {{trans-top|to cause physical pain and/or injury}}
-* Arabic: {{t+|ar|جرح|tr=jaraHa}}
-* Armenian: {{t-|hy|ցավեցնել|tr=c’avec’nel}},  {{t-|hy|վնասել|tr=vnasel}}
+* Arabic: {{t+|ar|جرح|tr=jaraḥa}}
+* Armenian: {{t-|hy|ցավեցնել|tr=c’avec’nel}}, {{t-|hy|վնասել|tr=vnasel}}
 * Chinese:
-*: Mandarin: {{t-|cmn|傷害|sc=Hani}},  {{t-|cmn|伤害|tr=shānghài|sc=Hani}},  {{t-|cmn|傷|sc=Hani}},  {{t-|cmn|伤|tr=shāng|sc=Hani}}
+*: Mandarin: {{t|cmn|傷害|sc=Hani}}, {{t|cmn|伤害|tr=shānghài|sc=Hani}}, {{t|cmn|傷|sc=Hani}}, {{t|cmn|伤|tr=shāng|sc=Hani}}
 * Czech: {{t-|cs|ranit}}, {{t-|cs|poranit}}
-* Dutch: [[pijn aandoen]], [[pijnigen]], [[kwellen]], [[kwetsen]]
+* Dutch: {{t|nl|pijn aandoen}}, {{t|nl|pijnigen}}, {{t|nl|kwellen}}, {{t|nl|kwetsen}}
 * Finnish: {{t+|fi|satuttaa}}
 * French: {{t+|fr|blesser}}
 * German: {{t+|de|verletzen}}
@@ -85,29 +85,30 @@ Alternate etymology traces {{etyl|enm}} {{term|hurten|lang=enm}}, {{term|hirten|
 * Indonesian: {{t+|id|luka|alt=melukai}}
 * Italian: {{t+|it|ferire}}
 {{trans-mid}}
-* Japanese: [[傷つける]] ([[きずつける]], kizu-tsukeru)
+* Japanese: {{t|ja|傷つける|tr=[[きずつける]], kizu-tsukeru|sc=Jpan}}
 * Latvian: {{t-|lv|sāpināt}}
-* Portuguese: {{t+|pt|ferir}},  {{t+|pt|machucar}}, {{t+|pt|aleijar}}
-* Romanian: {{t+|ro|răni}},  {{t-|ro|vătăma}}
-* Russian: {{t-|ru|причинять боль|tr=pričinját' bol'}},  {{t-|ru|причинить боль|tr=pričinít' bol'}}
-* Scottish Gaelic: [[ciùrr]]
-* Spanish: [[lastimar]], [[hacer]] [[daño]]
+* Portuguese: {{t+|pt|ferir}}, {{t+|pt|machucar}}, {{t+|pt|aleijar}}
+* Romanian: {{t+|ro|răni}}, {{t-|ro|vătăma}}
+* Russian: {{l|ru|причинять}} {{l|ru|боль}} (pričinjátʹ bolʹ) {{impf}}, {{l|ru|причинить}} {{l|ru|боль}} (pričinítʹ bolʹ) {{pf.}}
+* Scottish Gaelic: {{t|gd|ciùrr}}
+* Spanish: {{t|es|lastimar}}, {{l|es|hacer}} {{l|es|daño}}
 * Swahili: {{t+|sw|kilemba}}
 * Swedish: {{t-|sv|såra}}
 * Telugu: {{t-|te|గాయము చేయు|tr=gayamu ceyu|sc=Telu}}
-* Thai: [[เจ็บ]]
+* Thai: {{t|th|เจ็บ|sc=Thai}}
 * Turkish: {{t+|tr|acıtmak}}, {{t+|tr|ağrıtmak}}
 {{trans-bottom}}
 
 {{trans-top|to cause emotional pain}}
 * Armenian: {{t-|hy|ցավեցնել|tr=c’avec’nel}}
 * Czech: {{t-|cs|ranit}}
-* Dutch: [[pijn doen]], [[kwetsen]]
+* Dutch: {{t|nl|pijn doen}}, {{t|nl|kwetsen}}
 * French: {{t+|fr|faire mal}}, {{t+|fr|blesser}}
 {{trans-mid}}
 * German: {{t+|de|quälen}}
 * Latvian: {{t-|lv|sāpināt}}
 * Portuguese: {{t+|pt|magoar}}
+* Russian: {{l|ru|причинять}} {{l|ru|боль}} (pričinjátʹ bolʹ) {{impf}}, {{l|ru|причинить}} {{l|ru|боль}} (pričinítʹ bolʹ) {{pf.}}
 * Telugu: {{t-|te|మనసు మెలిపెట్టు|tr=manasu melipettu|sc=Telu}}
 {{trans-bottom}}
 
