@@ -65,8 +65,8 @@
 *: Egyptian Arabic: {{tø|arz|مطر|m|tr=maṭar|sc=Arab}}, {{qualifier|Some villages}} {{tø|arz|نطر|m|tr=naṭar|sc=Arab}}, {{qualifier|Alexandria}} {{tø|arz|شتا|m|tr=sheta|sc=Arab}}
 * {{trreq|an}}
 * Aramaic:
-*: Syriac: [[ܡܛܪܐ]] (miṬrā’) {{m}}
-*: Hebrew: [[מטרא]] (miṬrā’) {{m}}
+*: Syriac: {{t|arc|ܡܛܪܐ|m|tr=miṬrā’|sc=Syrc}}
+*: Hebrew: {{t|arc|מטרא|m|tr=miṬrā’|sc=Hebr}}
 * Armenian: {{t-|hy|անձրև|tr=anjrev}}
 * Aromanian: {{t-|rup|ploae}}
 * {{trreq|as}}
@@ -85,7 +85,7 @@
 * Burmese: {{t+|my|မိုး|tr=mo:|sc=Mymr}}
 * Buryat: {{tø|bxr|бороо|tr=boroo|sc=Cyrl}}
 * Catalan: {{t+|ca|pluja|f}}
-* Central Atlas Tamazight: [[ⴰⵏⵣⴰⵔ]] (anzar)
+* Central Atlas Tamazight: {{t|tzm|ⴰⵏⵣⴰⵔ|tr=anzar|sc=Tfng}}
 * Chamicuro: {{tø|ccc|keeni}}
 * Chechen: {{tø|ce|догӀа|tr=doġa|sc=Cyrl}}
 * {{trreq|chr}}
@@ -164,7 +164,7 @@
 * Lithuanian: {{t+|lt|lietus|m}}
 * Livonian: {{tø|liv|vīm}}
 * Lojban: {{t-|jbo|carvi}}
-* Low German: 
+* Low German:
 *: German Low German: {{t-|nds-de|Regen|m}}, {{t-|nds-de|Rägen|m}}
 * {{trreq|lg}}
 * Luhya: {{tø|luy|efula}}
@@ -172,10 +172,10 @@
 * Macedonian: {{t-|mk|дожд|m|tr=dožd}}
 * Malay: {{t+|ms|hujan}}
 * Malayalam: {{t+|ml|മഴ|tr=maḻa}}
-* Maltese: xita (shi'ta) (f)
+* {{ttbc|mt}}: {{t|mt|xita|f}}, {{t|mt|shi'ta|f}} <!-- was: "xita (shi'ta) (f)" ?? -->
 * Manchu: {{tø|mnc|ᠠᡤᠠ|tr=aga}}
 * Maori: {{t-|mi|ua}}
-* Marathi: {{t-|mr|पाऊस}}, {{t-|mr|वर्षा}}, {{t-|mr|वृष्टी}}, ढगातून पडणारे पाणी
+* {{ttbc|mr}}: {{t-|mr|पाऊस}}, {{t-|mr|वर्षा}}, {{t-|mr|वृष्टी}}, {{t|mr|ढगातून पडणारे पाणी|sc=Deva}} <!-- was unlinked - link as t-SOP if non-idiomatic; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Mazanderani: {{tø|mzn|وارش}}
 * Mirandese: {{tø|mwl|chuba|f}}
 * Miyako: {{tø|mvi|アミ|tr=ami}}
@@ -196,7 +196,7 @@
 * Old French: {{tø|fro|pluie|f}}
 * Old Norse: {{tø|non|regn|n}}
 * Old Polish: {{tø|zlw-opl|deżdż|m}}
-* Old Prussian: [[sūji]]
+* Old Prussian: {{t|prg|sūji}}
 * Old Tupi: {{tø|tpw|amana}}
 * {{trreq|or}}
 * Ossetian: {{tø|os|уарын|sc=Cyrl}}
@@ -239,7 +239,7 @@
 * Talysh:
 *: Anbarani: {{tø|tly|کولوک|tr=kuluk}}
 *: Asalemi: {{tø|tly|کلک|tr=kəlok|sc=fa-Arab}}
-* Taos: [[łùléne]]
+* Taos: {{t|twf|łùléne}}
 * Tatar: {{t+|tt|яңгыр|tr=yañğır|sc=Cyrl}}
 * Telugu: {{t+|te|వాన|tr=vāna|sc=Telu}} {{t+|te|వర్షం|tr=varṣam|sc=Telu}}
 * Thai: {{t+|th|ฝน|tr=fŏn|sc=Thai}}
@@ -264,24 +264,24 @@
 * {{trreq|yo}}
 * {{trreq|Zhuang}}
 * Zulu: {{t+|zu|imvula|c9|c10}}
-* ǃXóõ: [[ǃqhàa]]
+* ǃXóõ: {{t|nmn|ǃqhàa}}
 {{trans-bottom}}
 
 {{trans-top|any matter falling}}
 * Czech: {{t+|cs|déšť|m}}
 * Finnish: {{t+|fi|sade}}
-* French: [[pluie]] (f)
+* {{ttbc|fr}}: {{t|fr|pluie|f}}
 * Galician: {{t+|gl|chuvia|f}}
 * German: {{t+|de|Regen|m}}
 * Greek: {{t+|el|βροχή|f|tr=vrochí}}
 * Hebrew: {{t+|he|משקע|m|tr=mishka|sc=Hebr}}
-* Japanese: {{Jpan|[[雨]]}} ([[あめ]], ame)
-* Lojban: [[carvi]]
-* Low German: 
+* Japanese: {{t|ja|雨|tr=[[あめ]], ame|sc=Jpan}}
+* Lojban: {{t|jbo|carvi}}
+* Low German:
 *: German Low German: {{t-|nds-de|Regen|m}}, {{t-|nds-de|Rägen|m}}
 {{trans-mid}}
 * Macedonian: {{t-|mk|дожд|m|tr=dožd}}
-* Malayalam: [[മഴ]] (mazha)
+* Malayalam: {{t|ml|മഴ|tr=mazha|sc=Mlym}}
 * Marathi: (कोणत्याही गोष्टीचा) [[वर्षाव]]
 * Norwegian: {{t+|no|regn|n}}
 * Russian: {{t+|ru|дождь|m|tr=dožd’}}
@@ -295,18 +295,18 @@
 {{trans-top|an instance of particles falling}}
 * Czech: {{t+|cs|déšť}}
 * Finnish: {{t+|fi|sade}}
-* French: [[pluie]] (f)
+* French: {{qualifier|f}} {{t|fr|pluie}}
 * German: {{t+|de|Regen|m}}
 * Greek: {{t+|el|βροχή|f|tr=vrochí}}
 * Kurdish:
 *: Sorani: {{t+|ku|باران|tr=baran|sc=ku-Arab}}
-* Lojban: [[carvi]]
-* Low German: 
+* Lojban: {{t|jbo|carvi}}
+* Low German:
 *: German Low German: {{t-|nds-de|Regen|m}}, {{t-|nds-de|Rägen|m}}
 * Macedonian: {{t-|mk|врнеж|m|tr=v'rnež}}
 {{trans-mid}}
-* Malayalam: [[മഴ]] (mazha)
-* Marathi: [[वर्षाव]], [[वर्षा]]
+* Malayalam: {{t|ml|മഴ|tr=mazha|sc=Mlym}}
+* Marathi: {{t|mr|वर्षाव|sc=Deva}}, {{t|mr|वर्षा|sc=Deva}}
 * Norwegian: {{t+|no|regn|n}}
 * Romanian: {{t+|ro|ploaie|f}}
 * Russian: {{t+|ru|дождь|m|tr=dožd’}}, {{t+|ru|град|m|tr=grad}}, {{t+|ru|ливень|m|tr=líven’}}
@@ -317,20 +317,20 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sq}}: [[shi]]
-* {{ttbc|gn}}: [[ama]]
-* {{ttbc|io}}: [[pluvo]]
-* {{ttbc|ia}}: [[pluvia]]
-* {{ttbc|mt}}: [[xita]] {{f}}
-* {{ttbc|oc}}: [[pluèja]]
-* {{ttbc|ang}}: [[regn|reġn]]
+* {{ttbc|sq}}: {{t|sq|shi}}
+* {{ttbc|gn}}: {{t|gn|ama}}
+* {{ttbc|io}}: {{t|io|pluvo}}
+* {{ttbc|ia}}: {{t|ia|pluvia}}
+* {{ttbc|mt}}: {{t|mt|xita|f}}
+* {{ttbc|oc}}: {{t|oc|pluèja}}
+* {{ttbc|ang}}: {{t|ang|reġn|sc=Latinx}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-mid}}
-* {{ttbc|pjt}}: [[kapi]], [[mina]]
-* {{ttbc|qu}}: [[para]]
-* {{ttbc|sw}}: [[mvua]]
-* {{ttbc|tl}}: [[ulan]], [[tinipong singaw sa kaitasan]]
-* {{ttbc|th}}: {{Thai|[[ฝน]]}}
-* {{ttbc|tpn}}: [[amana]]
+* {{ttbc|pjt}}: {{t|pjt|kapi|sc=pjt-Latn}}, {{t|pjt|mina|sc=pjt-Latn}}
+* {{ttbc|qu}}: {{t|qu|para}}
+* {{ttbc|sw}}: {{t|sw|mvua}}
+* {{ttbc|tl}}: {{t|tl|ulan}}, {{t|tl|tinipong singaw sa kaitasan}}
+* {{ttbc|th}}: {{t|th|ฝน|sc=Thai}}
+* {{ttbc|tpn}}: {{t|tpn|amana}}
 {{trans-bottom}}
 
 ===Verb===
@@ -385,23 +385,23 @@
 * Ido: {{t+|io|pluvar}}
 * Irish: báisteach a {{t-|ga|chur}}, fearthainn a {{t-|ga|chur}}
 * Italian: {{t+|it|piovere}}
-* Japanese: {{Jpan|[[雨]]が[[降る]]}} ({{Jpan|あめがふる}}, ame ga furu)
+* {{ttbc|ja}}: {{t|ja|雨が降る|tr={{Jpan|あめがふる}}, ame ga furu|sc=Jpan}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Jèrriais: {{tø|roa-jer|pliôre}}
 * Khmer: {{t+|km|ភ្លៀង|tr=plieng|sc=Khmr}}
 * {{trreq|Korean}}
 * Kurdish:
-*: Sorani: [[barîn]], {{ku-Arab|[[بارین]]}}, {{ku-Arab|[[باران بارین]]}}
+*: {{ttbc|Sorani}}: {{t|ckb|barîn}}<!-- certainly not ku-Arab... -->, {{t|ckb|بارین|sc=ku-Arab}}, {{t|ckb|باران بارین|sc=ku-Arab}}
 * Latin: {{t-|la|pluit}}
 {{trans-mid}}
 * Lithuanian: {{t-|lt|lyti}}
 * Livonian: {{tø|liv|saddõ}}
-* Lojban: [[carvi]]
-* Low German: 
+* Lojban: {{t|jbo|carvi}}
+* Low German:
 *: German Low German: {{t-|nds-de|Regen|m}}, {{t-|nds-de|Rägen|m}}
 * Luiseno: {{tø|lui|xílla}}
 * Macedonian: {{t-|mk|врне|tr=v'rne}}
-* Malayalam: [[പെയ്യുക]] (peyyuka)
-* Marathi: आकाशपात, आकाशातून पडणे
+* Malayalam: {{t|ml|പെയ്യുക|tr=peyyuka|sc=Mlym}}
+* {{ttbc|mr}}: {{t|mr|आकाशपात|sc=Deva}}, {{t|mr|आकाशातून पडणे|sc=Deva}} <!-- was unlinked - link as t-SOP if non-idiomatic; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Norwegian: {{t+|no|regne}}
 * Ossetian: {{tø|os|уарын|sc=Cyrl}}
 * Persian: {{t+|fa|باریدن|tr=bâridan}}
@@ -413,8 +413,8 @@
 * Santali: {{tø|sat|ᱫᱟᱜ|tr=daak'|sc=Olck}}
 * Scottish Gaelic: {{t-|gd|fras}}
 * Serbo-Croatian: {{t-|sh|kišiti|alt=kíšiti}}
-* Sicilian: [[ghioviri]]
-* Sinhalese: [[වහිනවා]] (vahinavaa)
+* Sicilian: {{t|scn|ghioviri}}
+* Sinhalese: {{t|si|වහිනවා|tr=vahinavaa|sc=Sinh}}
 * Skolt Sami: {{tø|sms|â´brred}}
 * Slovak: {{t-|sk|pršať}}
 * Slovene: {{t+|sl|deževati}}
@@ -428,7 +428,7 @@
 * Urdu: {{t-|ur|پڑنا|tr=paṛnā|sc=ur-Arab}}
 * Veps: {{tø|vep|sadada}}
 * West Frisian: {{t+|fy|reine}}
-* ǃXóõ: [[ǃáa]]
+* ǃXóõ: {{t|nmn|ǃáa}}
 {{trans-bottom}}
 
 {{trans-top|to fall in large quantities}}
@@ -436,11 +436,11 @@
 * Galician: {{t+|gl|chover}}
 * German: {{t+|de|regnen}}
 * Lithuanian: {{t-|lt|pliaupti}}
-* Low German: 
+* Low German:
 *: German Low German: {{t-|nds-de|Regen|m}}, {{t-|nds-de|Rägen|m}}
 * Macedonian: {{t-|mk|истура|tr=ístura}}, {{t-|mk|лие|tr=líe}}
-* Malayalam: [[പെയ്യുക]] (peyyuka)
-* Marathi: [[बृहद्]] [[वर्षाव]]
+* Malayalam: {{t|ml|പെയ്യുക|tr=peyyuka|sc=Mlym}}
+* {{ttbc|mr}}: {{t|mr|बृहद् वर्षाव|sc=Deva}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Norwegian: {{t+|no|regne}}
 {{trans-mid}}
 * Romanian: {{t+|ro|ploua}}
@@ -455,8 +455,8 @@
 {{trans-top|to issue in large quantities}}
 * Finnish: {{t-|fi|pudotella}}
 * Galician: {{t+|gl|chover}}
-* Malayalam: [[പെയ്യുക]] (peyyuka)
-* Marathi: मोठ्या प्रमाणावर देणे
+* Malayalam: {{t|ml|പെയ്യുക|tr=peyyuka|sc=Mlym}}
+* {{ttbc|mr}}: {{t|mr|मोठ्या प्रमाणावर देणे|sc=Deva}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Norwegian: {{t+|no|regne}}
 {{trans-mid}}
 * Spanish: {{t+|es|llover}} {{sense|intransitive}} le llovieron [los golpes, las desgracias] ''or'' recibió una lluvia de ...
@@ -465,21 +465,21 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|gn}}: [[ky]]
-* {{ttbc|he}}: [[ירד גשם]]
-* {{ttbc|id}}: [[turun]] [[hujan]]
-* {{ttbc|ia}}: [[pluver]]
-* {{ttbc|ko}}: [[비]]가 [[오다]] (bi ga oda)
-* {{ttbc|la}}: [[pluit]]
+* {{ttbc|gn}}: {{t|gn|ky}}
+* {{ttbc|he}}: {{t|he|ירד גשם|sc=Hebr}}
+* {{ttbc|id}}: {{t|id|turun hujan}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|ia}}: {{t|ia|pluver}}
+* {{ttbc|ko}}: {{t|ko|비가 오다|tr=bi ga oda|sc=Kore}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|la}}: {{t|la|pluit}}
 {{trans-mid}}
-* {{ttbc|pt}}: [[chover]]
-* {{ttbc|ro}}: [[ploua]]
-* {{ttbc|sk}}: [[pršať]] (1)
-* {{ttbc|sv}}: [[regna]]
-* {{ttbc|tl}}: [[mag-ulan]], Ulan, rainshower- buhos ng ulan, it is rainy-maulan nga!
-* {{ttbc|tpn}}: [[kyr]]
-* {{ttbc|tr}}: [[yağmur]] (n), yağ- (v)
-* {{ttbc|cy}}: [[glawio]]
+* {{ttbc|pt}}: {{t|pt|chover}}
+* {{ttbc|ro}}: {{t|ro|ploua}}
+* {{ttbc|sk}}: {{qualifier|1}} {{t|sk|pršať}}
+* {{ttbc|sv}}: {{t|sv|regna}}
+* {{ttbc|tl}}: [[mag-ulan]], Ulan, rainshower- buhos ng ulan, it is rainy-maulan nga! <!-- I date not guess what was meant here. -->
+* {{ttbc|tpn}}: {{t|tpn|kyr}}
+* {{ttbc|tr}}: {{qualifier|n}} {{t|tr|yağmur}}, {{qualifier|v}} {{t|tr|yağ-}}<!-- v is not a gender... right? -->
+* {{ttbc|cy}}: {{t|cy|glawio}}
 {{trans-bottom}}
 
 ===See also===
