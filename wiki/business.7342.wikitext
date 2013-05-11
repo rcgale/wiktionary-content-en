@@ -120,7 +120,7 @@ From {{etyl|enm}} {{term|busines|lang=enm}}, {{term|bisynes|lang=enm}}, from {{e
 * Finnish: {{t+|fi|liike}}, {{t+|fi|yritys}}
 * French: {{t+|fr|entreprise|f}}
 * German: {{t+|de|Geschäft|n}}, {{t+|de|Unternehmen|n}}
-* Hebrew: [[עסק]] ('eseq) {{m}}
+* Hebrew: {{t|he|עסק|m|tr='eseq|sc=Hebr}}
 * {{trreq|id}}
 * Italian: {{t+|it|azienda|f}}
 * Japanese: {{t+|ja|事業|tr=じぎょう, jigyō|sc=Jpan}}, {{t+|ja|企業|tr=きぎょう, kigyō|sc=Jpan}}
@@ -141,24 +141,24 @@ From {{etyl|enm}} {{term|busines|lang=enm}}, {{term|bisynes|lang=enm}}, from {{e
 {{trans-bottom}}
 
 {{trans-top|occupation, work or trade of a person}}
-* Arabic: {{Arab|[[عمل]]}} {{IPAchar|(ʕámal)}}, {{Arab|[[تجارة]]}} {{IPAchar|(tajára)}}, {{Arab|[[مشروع]]}} {{IPAchar|(mašrúʕ)}}
-* Catalan: [[negoci]] {{m}}
+* Arabic: {{t|ar|عمل|tr={{IPAchar|ʕámal}}|sc=Arab}}, {{t|ar|تجارة|tr={{IPAchar|tajára}}|sc=Arab}}, {{t|ar|مشروع|tr={{IPAchar|mašrúʕ}}|sc=Arab}}
+* Catalan: {{t|ca|negoci|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|商業|sc=Hani}}, {{t|cmn|商业|tr=shāngyè|sc=Hani}}
 * Czech: {{t+|cs|obchod}}
 * Danish: {{t-|da|branche|c}}
-* Dutch: [[zaken]] {{f-p}}, [[zakenleven]] {{n}}
-* Estonian: [[äri]]
+* Dutch: {{t|nl|zaken|f-p}}, {{t|nl|zakenleven|n}}
+* Estonian: {{t|et|äri}}
 * Finnish: {{t+|fi|ammatti}} {{qualifier|occupation}}, {{t+|fi|työ}} {{qualifier|work}}, {{t+|fi|ala}} {{qualifier|trade}}
 * French: {{t+|fr|affaire}}
-* Hebrew: [[עסקים]] ('asaqym) {{m-p}}
+* Hebrew: {{t|he|עסקים|m-p|tr='asaqym|sc=Hebr}}
 * Hungarian: {{t+|hu|üzlet}}
-* Indonesian: [[bisnis]], [[urus|urusan]]
-* Interlingua: [[negotios]] {{p}}, [[affaires]] {{p}}
+* {{ttbc|id}}: {{t|id|bisnis}}, {{t|id|urusan}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Interlingua: {{t|ia|negotios|p}}, {{t|ia|affaires|p}}
 {{trans-mid}}
 * Japanese: {{t+|ja|ビジネス|tr=bijinesu|sc=Jpan}}, {{t+|ja|業務|tr=ぎょうむ, gyōmu|sc=Jpan}}, {{t+|ja|商売|tr=しょうばい, shōbai|sc=Jpan}}
 * Macedonian: {{t+|mk|занимање|n|tr=zanímanje}}, {{t-|mk|работа|f|tr=rábota}}
-* Maltese: [[negozjant]] {{m}}, [[negozjanta]] {{f}}
+* Maltese: {{t|mt|negozjant|m}}, {{t|mt|negozjanta|f}}
 * Persian: {{t+|fa|پیشه|tr=piša}}, {{t+|fa|کار|tr=kār}}
 * Polish: {{t+|pl|zajęcie|n}}
 * Portuguese: {{t+|pt|negócios|m-p}}, {{t-|pt|ramo, trabalho|m}}
@@ -166,8 +166,8 @@ From {{etyl|enm}} {{term|busines|lang=enm}}, {{term|bisynes|lang=enm}}, from {{e
 * Russian: {{t+|ru|занятие|n|tr=zanjátije|sc=Cyrl}}, {{t+|ru|работа|f|tr=rabóta|sc=Cyrl}}
 * Spanish: {{t+|es|negocio|m}}
 * Swahili: {{t+|sw|biashara}}
-* Telugu: [[వ్యాపారము]]
-* Thai: {{Thai|[[กงกาง]]}} (gong gaang)
+* Telugu: {{t|te|వ్యాపారము|sc=Telu}}
+* Thai: {{t|th|กงกาง|tr=gong gaang|sc=Thai}}
 {{trans-bottom}}
 
 {{trans-top|commercial, industrial or professional activity}}
@@ -179,7 +179,7 @@ From {{etyl|enm}} {{term|busines|lang=enm}}, {{term|bisynes|lang=enm}}, from {{e
 * Lithuanian: {{t-|lt|verslas|m}}
 * Malagasy: {{t|mg|talidy}}, {{t|mg|kanonkanona}}
 {{trans-mid}}
-* Maltese: [[negozju]]
+* Maltese: {{t|mt|negozju}}
 * Persian: {{t+|fa|کار|tr=kār|sc=fa-Arab}}
 * Polish: {{t+|pl|biznes|m}}
 * Romanian: {{t-|ro|afacere}}
@@ -191,7 +191,7 @@ From {{etyl|enm}} {{term|busines|lang=enm}}, {{term|bisynes|lang=enm}}, from {{e
 {{trans-top|volume or amount of commercial trade}}
 * Dutch: {{t+|nl|zaken|f-p}}
 * Finnish: {{t+|fi|kauppa}}, {{t+|fi|liikevaihto}}
-* Japanese: [[景気]] (keiki)
+* Japanese: {{t|ja|景気|tr=keiki|sc=Jpan}}
 {{trans-mid}}
 * Macedonian: {{t-|mk|промет|m|tr=prómet}}
 * Swahili: {{t+|sw|biashara}}
