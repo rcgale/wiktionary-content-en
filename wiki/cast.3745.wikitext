@@ -246,7 +246,7 @@ From {{etyl|enm}} {{term|casten|lang=enm}}, from {{etyl|non}} {{term|kasta||to t
 * Arabic: {{t-|ar|يرمي|sc=Arab}}, {{t-|ar|يطرح|sc=Arab}}, {{t-|ar|يوزع الادوار على الممثلين|sc=Arab}}
 * Bulgarian: {{t-|bg|гипс|m|tr=gips|sc=Cyrl}}
 * Chinese:
-*: Mandarin: {{t|cmn|石膏|tr=[[shígāo]]}}
+*: Mandarin: {{t|cmn|石膏|tr=shígāo}}
 * Dutch: {{t+|nl|gips|m}}, {{t-|nl|spalk|m}}
 * Finnish: {{t+|fi|kipsi}}
 * French: {{t+|fr|plâtre}}
@@ -269,9 +269,9 @@ From {{etyl|enm}} {{term|casten|lang=enm}}, from {{etyl|non}} {{term|kasta||to t
 * Finnish: {{t+|fi|näyttelijä|alt=näyttelijät}}
 * German: {{t|de|Cast|m}}, {{t|de|Besetzung|f}}, {{t|de|Ensemble|n}}
 * Italian: {{t+|it|cast|m}}
-* Russian: {{t-|ru|в ролях}}
+* Russian: {{t-SOP|ru|[[состав]] [[исполнитель|исполнителей]]|m|tr=sostáv ispolnítelej}}, {{t-SOP|ru|[[в]] [[роль|ролях]]|tr=v roljáx}} {{qualifier|as appears in movie titles}}
 {{trans-mid}}
-* Japanese: {{t+|ja|演奏|tr=[[えんそう]], [[ensō]]}}
+* Japanese: {{t+|ja|演奏|tr=[[えんそう]], ensō}}
 * Portuguese: {{t+|pt|elenco|m}}
 * Spanish: {{t+|es|reparto|m}}, {{t|es|elenco|m}}
 * Swedish: {{t-|sv|rollbesättning|c}}, {{t-|sv|rollinnehavare|c-p}}
@@ -282,6 +282,7 @@ From {{etyl|enm}} {{term|casten|lang=enm}}, from {{etyl|non}} {{term|kasta||to t
 * Finnish: {{t+|fi|valu}}, {{t-|fi|valaminen}}
 {{trans-mid}}
 * Kannada: {{t+|kn|ಎರಕ|tr=eraka|sc=Knda}}
+* Russian: {{t|ru|кастинг|m|tr=kásting|sc=Cyrl}}, {{t-SOP|ru|[[распределение]] [[роль|ролей]]|n|tr=raspredelénije roléj}} 
 * Swedish: {{t-|sv|rollbesättning|c}}, {{t-|sv|rollfördelning|c}}, {{t-|sv|rollsättning|c}}, {{t+|sv|casting|c}}
 {{trans-bottom}}
 
@@ -296,7 +297,7 @@ From {{etyl|enm}} {{term|casten|lang=enm}}, from {{etyl|non}} {{term|kasta||to t
 {{trans-mid}}
 * Finnish: {{t+|fi|valos}}, {{t+|fi|valu}}
 * Italian: {{t+|it|calco|m}}, {{t+|it|forma|f}}
-* Russian: {{t|ru|отливка|f|tr=otlívka|sc=Cyrl}}
+* Russian: {{t|ru|слепок|m|tr=slépok|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|mould used to make cast objects}}
@@ -305,7 +306,7 @@ From {{etyl|enm}} {{term|casten|lang=enm}}, from {{etyl|non}} {{term|kasta||to t
 * Finnish: {{t+|fi|muotti}}, {{t-|fi|valumuotti}}
 {{trans-mid}}
 * Italian: {{t+|it|stampo|m}}, {{t+|it|calco|m}}
-* Russian: {{t|ru|форма|f|tr=fórma|sc=Cyrl}} {{qualifier|лите́йная}}
+* Russian: {{qualifier|лите́йная}} {{t|ru|форма|f|tr=fórma|sc=Cyrl}}
 * Swedish: {{t+|sv|form|c}}, {{t+|sv|gjutform|c}}
 {{trans-bottom}}
 
