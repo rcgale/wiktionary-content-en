@@ -85,8 +85,8 @@ From {{etyl|enm}} {{term|name|lang=enm}}, {{term|nome|lang=enm}}, from {{etyl|an
 *: Tunisian Arabic: {{tø|aeb|اسم|m|alt=اِسْمْ|tr=ʾism|sc=Arab}}
 * Aragonese: {{t-|an|nombre|m}}
 * Aramaic:
-*: Syriac: [[ܫܡܐ]] (šmā’) {{m}}
-*: Hebrew: [[שמא]] (šmā’) {{m}}
+*: Syriac: {{t|arc|ܫܡܐ|m|tr=šmā’|sc=Syrc}}
+*: Hebrew: {{t|arc|שמא|m|tr=šmā’|sc=Hebr}}
 * Armenian: {{t+|hy|անուն|tr=anun}}
 * Aromanian: {{t-|rup|numã}}
 * Asturian: {{t-|ast|nome|m}}, {{t-|ast|ñome|m}}
@@ -103,7 +103,7 @@ From {{etyl|enm}} {{term|name|lang=enm}}, {{term|nome|lang=enm}}, from {{etyl|an
 * Chechen: {{tø|ce|цIе|tr=c'e}}
 * Chinese:
 *: Mandarin: {{t|cmn|名|tr=míng|sc=Hani}}, {{t|cmn|名字|tr=míngzì|sc=Hani}}
-* Chiricahua: [[-́zhii]]
+* Chiricahua: {{t|apm|-́zhii}}
 * Chuvash: {{tø|cv|ят|tr=jat|sc=Cyrl}}
 * Coptic: {{tø|cop|ⲣⲁⲛ|tr=ran|sc=Copt}}
 * Crimean Tatar: {{tø|crh|ad}}, {{tø|crh|isim}}
@@ -152,7 +152,7 @@ From {{etyl|enm}} {{term|name|lang=enm}}, {{term|nome|lang=enm}}, from {{etyl|an
 * Kyrgyz: {{t+|ky|ат|tr=at|sc=Cyrl}}
 * Lao: {{t-|lo|ຊື່|tr=syy|sc=Laoo}}, {{t-|lo|ນາມ|tr=naam|sc=Laoo}}
 * Latgalian: {{tø|ltg|vuords|m}}
-* Latin: [[nomen|nōmen]] ([[nominis|nōminis]]) {{n}}
+* {{ttbc|la}}: {{t|la|nomen|n|alt=nōmen}}, {{t|la|nomen nominis|n|alt=nōmen nōminis}}<!-- was single item "[[nomen|nōmen]] ([[nominis|nōminis]])" -->
 {{trans-mid}}
 * Latvian: {{t+|lv|vārds|m}}
 * Lithuanian: {{t+|lt|vardas}}
@@ -181,12 +181,12 @@ From {{etyl|enm}} {{term|name|lang=enm}}, {{term|nome|lang=enm}}, from {{etyl|an
 * Pashto: {{t+|ps|نوم|tr=nūm|sc=ps-Arab}}
 * Persian: {{t+|fa|نام|tr=nâm}}, {{t+|fa|اسم|tr=esm}}
 * Pipil: {{tø|ppl|-tukay}}, {{tø|ppl|-tucay}}
-* Pitjantjatjara: [[ini]]
-* Plains Apache: -[[zhííh]]
+* Pitjantjatjara: {{t|pjt|ini|sc=pjt-Latn}}
+* Plains Apache: {{t|apk|-zhííh}}
 * Polish: {{t+|pl|imię|n}}
 * Portuguese: {{t+|pt|nome|m}}
 * Quechua: {{t+|qu|suti}}
-* Rohingya: [[nam]]
+* Rohingya: {{t|rhg|nam}}
 * Romani: {{tø|rom|anav|m}}
 * Romanian: {{t+|ro|nume|n}}
 * Romansch: {{t-|rm|num|m}}, {{t-|rm|nom|m}}
@@ -231,7 +231,7 @@ From {{etyl|enm}} {{term|name|lang=enm}}, {{term|nome|lang=enm}}, from {{etyl|an
 * Votic: {{tø|vot|nimi}}
 * Welsh: {{t+|cy|enw}}
 * West Frisian: {{t-|fy|namme|c}}
-* Western Apache: [[-̨́-̨́zhi’]], [[-́zhi’]]
+* Western Apache: {{t|apw|-̨́-̨́zhi’}}, {{t|apw|-́zhi’}}
 * Yiddish: {{t-|yi|נאָמען|m|tr=nomen|sc=Hebr}}
 * Yucatec Maya: {{tø|yua|k’aaba’}}
 * Zulu: {{t-|zu|igama|c5|c6}}, {{t+|zu|ibizo|c5|c6}}
@@ -330,7 +330,7 @@ From {{etyl|enm}} {{term|name|lang=enm}}, {{term|nome|lang=enm}}, from {{etyl|an
 *: Tunisian Arabic: {{tø|aeb|سمى|alt=سَمَّا|tr=sammā|sc=Arab}}
 * Armenian: {{t-|hy|անվանել|tr=anvanel}}, {{t-|hy|կոչել|tr=kočel}}
 * Asturian: {{t-|ast|nomar}}, {{t-|ast|nombrar}}
-* Breton: {{t+|br|envel}}, ''radical'' anv-
+* {{ttbc|br}}: {{t+|br|envel}}, ''radical'' anv-<!-- how to link to this? -->
 * Bulgarian: {{t+|bg|именувам|tr=imenuvam}}, {{t+|bg|назовавам|tr=nazovavam}}
 * Catalan: {{t+|ca|anomenar}}
 * Chinese:
@@ -345,13 +345,13 @@ From {{etyl|enm}} {{term|name|lang=enm}}, {{term|nome|lang=enm}}, from {{etyl|an
 *: Middle French: {{tø|frm|nommer}}
 * German: {{t+|de|nennen}}, {{t+|de|taufen}}, {{t+|de|bezeichnen}}, {{t+|de|benennen}}
 * Greek: {{t+|el|ονομάζω||tr=onomázo}}, {{t+|el|ονοματίζω||tr=onomatízo}}
-* Hungarian: {{t+|hu|nevez}}, {{t+|hu|elnevez}} [[vmi.]]/[[vki.]] [[után]] (to name after something/someone)
+* {{ttbc|hu}}: {{t+|hu|nevez}}, {{t-SOP|hu|[[elnevez]] [[vmi.]]}}<!-- was: "{{t+|hu|elvenez}} [[vmi.]]"; not good, was it? -->, {{qualifier|to name after something/someone}} {{t-SOP|hu|[[vki.]] [[után]]}} <!-- was "[[vki.]] [[után]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Icelandic: {{t+|is|nefna}}
 * Indonesian: {{t+|id|nama|alt=menamai}}
 * Interlingua: {{t-|ia|nominar}}, {{t-|ia|denominar}}
 * Italian: {{t-|it|denominare}}
 * Japanese: {{t-|ja|名付ける|tr=なづける, nadzukeru}}
-* Jingpho: [[amying]]
+* Jingpho: {{t|kac|amying}}
 * Jèrriais: {{tø|roa-jer|nommer}}
 {{trans-mid}}
 * Korean: {{t-|ko|이름짓다|tr=ireum-jitda|sc=Hang}}
@@ -407,9 +407,9 @@ From {{etyl|enm}} {{term|name|lang=enm}}, {{term|nome|lang=enm}}, from {{etyl|an
 * Macedonian: {{t-|mk|кажува|tr=kážuva|sc=Cyrl}}
 * Norwegian: {{t+|no|velge}}
 * Persian: {{t-|fa|نامبردن|alt=نامبُردن|tr=nāmbordan}}, {{t+|fa|یادآوری|tr=yādāvari}}
-* Polish: {{t+|pl|wybierać}} / {{t+|pl|wybrać}}
+* Polish: {{t+|pl|wybierać}}, {{t+|pl|wybrać}}
 * Portuguese: {{t+|pt|escolher}}, {{t+|pt|eleger}}
-* Russian: {{t+|ru|выбирать}} / {{t+|ru|выбрать|tr=vybirát’/výbrat’}}
+* Russian: {{t+|ru|выбирать}}, {{t+|ru|выбрать|tr=vybirát’/výbrat’}}
 * Scottish Gaelic: {{t-|gd|ainmich}}
 * Spanish: {{t+|es|escoger}}, {{t+|es|elegir}}, {{t+|es|nombrar}}
 * Swahili: {{t+|sw|jina}}
@@ -433,16 +433,16 @@ From {{etyl|enm}} {{term|name|lang=enm}}, {{term|nome|lang=enm}}, from {{etyl|an
 * Indonesian: {{t+|id|sebut}}
 * Interlingua: {{t-|ia|specificar}}
 * Italian: {{t-|it|specificare}}
-* Japanese: [[明示する]] ([[めいじする]], meiji suru)
-* Korean: [[자세히 기입하다]] (jasehi giip-hada)
+* Japanese: {{t|ja|明示する|tr=[[めいじする]], meiji suru|sc=Jpan}}
+* Korean: {{t|ko|자세히 기입하다|tr=jasehi giip-hada|sc=Kore}}
 {{trans-mid}}
 * Latin: {{t-|la|denotare}}
 * Macedonian: {{t-|mk|посочува|tr=posóčuva|sc=Cyrl}}
 * Norwegian: {{t+|no|nevne}}
 * Persian: {{t+|fa|شناختن|tr=şnāķtan}}
-* Polish: {{t+|pl|określać}} / {{t+|pl|określić}}
+* Polish: {{t+|pl|określać}}, {{t+|pl|określić}}
 * Portuguese: {{t+|pt|especificar}}, {{t+|pt|precisar}}
-* Russian: {{t+|ru|определять}} / {{t+|ru|определить|tr=opredelját’/opredelít’}}, {{t+|ru|назначать}} / {{t+|ru|назначить|tr=naznačát’/naznáčit’}}
+* Russian: {{t+|ru|определять|tr=opredelját’}}, {{t+|ru|определить|tr=opredelít’}}, {{t+|ru|назначать|tr=naznačát’}}, {{t+|ru|назначить|tr=naznáčit’}}
 * Scottish Gaelic: {{t-|gd|innis}}
 * Spanish: {{t+|es|especificar}}, {{t+|es|precisar}}
 * Swahili: {{t+|sw|jina}}, {{t+|sw|jina}}
@@ -469,7 +469,7 @@ From {{etyl|enm}} {{term|name|lang=enm}}, {{term|nome|lang=enm}}, from {{etyl|an
 * Norwegian: {{t-|no|navngi}}
 * Polish: {{t-|pl|identyfikować}}, {{t-|pl|wskazać}}
 * Portuguese: {{t+|pt|identificar}}
-* Russian: {{t+|ru|обвинять}} / {{t+|ru|обвинить|tr=obvinját’/obvinít’}}
+* Russian: {{t+|ru|обвинять}}, {{t+|ru|обвинить|tr=obvinját’/obvinít’}}
 * Scottish Gaelic: {{t-|gd|innis}}
 * Spanish: {{t+|es|nombrar}}, {{t+|es|denominar}}
 * Swahili: {{t+|sw|jina}}
@@ -495,16 +495,16 @@ From {{etyl|enm}} {{term|name|lang=enm}}, {{term|nome|lang=enm}}, from {{etyl|an
 * Icelandic: {{t-|is|útnefna}}
 * Italian: {{t+|it|nominare}}
 {{trans-mid}}
-* Japanese: [[任命する]] ([[にんめいする]], nimmei suru), {{t-|ja|命じる|tr=めいじる, meijiru}}
+* Japanese: {{t|ja|任命する|tr=[[にんめいする]], nimmei suru|sc=Jpan}}, {{t-|ja|命じる|tr=めいじる, meijiru}}
 * Jèrriais: {{tø|roa-jer|nommer}}
-* Korean: [[지명하다]] (jimyeong-hada), [[임명하다]] (immyeong-hada)
+* Korean: {{t|ko|지명하다|tr=jimyeong-hada|sc=Kore}}, {{t|ko|임명하다|tr=immyeong-hada|sc=Kore}}
 * Latin: {{t-|la|nominare}}, {{t-|la|facere}}
 * Macedonian: {{t-|mk|назначува|tr=naznáčuva|sc=Cyrl}}, {{t-|mk|наименува|tr=naiménuva|sc=Cyrl}}
 * Norwegian: {{t-|no|utnevne}}
 * Persian: {{t+|fa|گماردن|tr=gomārdan}}, {{t-|fa|نامزدن|tr=nāmzadan}}
 * Polish: {{t+|pl|wyznaczyć}}, {{t-|pl|mianować}}
 * Portuguese: {{t+|pt|nomear}}
-* Russian: {{t+|ru|определять}} / {{t+|ru|определить|tr=opredelját’/opredelít’}}, {{t+|ru|назначать}} / {{t+|ru|назначить|tr=naznačát’/naznáčit’}}
+* Russian: {{t+|ru|определять}}, {{t+|ru|определить|tr=opredelját’/opredelít’}}, {{t+|ru|назначать}}, {{t+|ru|назначить|tr=naznačát’/naznáčit’}}
 * Scottish Gaelic: {{t-|gd|ainmich}}
 * Spanish: {{t+|es|nombrar}}
 * Swahili: {{t+|sw|jina}}
