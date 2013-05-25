@@ -109,11 +109,11 @@ From {{etyl|enm|en}} {{term|drawen|lang=enm}}, {{term|dragen|lang=enm}}, from {{
 * Akkadian: {{tø|akk|𒄯|tr=eṣēru, ḪUR|sc=Xsux}}
 * Arabic: {{t-|ar|رسم|tr=rásama}}
 * Armenian: {{t-|hy|նկարել|tr=nkarel}}
-* Belarusian: {{t-|be|маляваць|tr=maljavác'}}
+* Belarusian: {{t-|be|маляваць|tr=maljavácʹ}}
 * Bulgarian: {{t+|bg|рисувам|tr=risuvam}}
 * Catalan: {{t+|ca|dibuixar}}
 * Chinese:
-*: Mandarin: {{t-|cmn|畫|sc=Hani}}, {{t-|cmn|画|tr=huà|sc=Hani}}, {{t-|cmn|繪|sc=Hani}}, {{t-|cmn|绘|tr=huì|sc=Hani}}, {{t|cmn|繪畫|sc=Hani}}, {{t|cmn|绘画|tr=huìhuà|sc=Hani}}
+*: Mandarin: {{t|cmn|畫|sc=Hani}}, {{t+|cmn|画|tr=huà|sc=Hani}}, {{t|cmn|繪|sc=Hani}}, {{t+|cmn|绘|tr=huì|sc=Hani}}, {{t|cmn|繪畫|sc=Hani}}, {{t|cmn|绘画|tr=huìhuà|sc=Hani}}
 * Czech: {{t-|cs|kreslit}}
 * Danish: {{t+|da|tegne}}
 * Dutch: {{t+|nl|tekenen}}
@@ -124,8 +124,8 @@ From {{etyl|enm|en}} {{term|drawen|lang=enm}}, {{term|dragen|lang=enm}}, from {{
 * French: {{t+|fr|dessiner}}
 * Georgian: {{t-|ka|ხატვა|tr=xatva|sc=Geor}}
 * German: {{t+|de|zeichnen}}
-* Greek: {{t+|el|σχεδιάζω}} (schediázo), {{t+|el|ζωγραφίζω}} (zografízo)
-* Hindi: {{t-|hi|चित्र बनाना|sc=Deva}}, {{t|hi|खींचना|tr=khīncanā|sc=Deva}}, {{t|hi|चित्र बनाना|tr=citra banānā|sc=Deva}}
+* Greek: {{t+|el|σχεδιάζω|tr=schediázo}}, {{t+|el|ζωγραφίζω|tr=zografízo}}
+* Hindi: {{t|hi|खींचना|tr=khīncanā|sc=Deva}}, {{t|hi|चित्र बनाना|tr=citra banānā|sc=Deva}}
 * Hungarian: {{t+|hu|rajzol}}
 * Icelandic: {{t+|is|teikna}}
 * Ido: [[desegnar]]
@@ -137,10 +137,10 @@ From {{etyl|enm|en}} {{term|drawen|lang=enm}}, {{term|dragen|lang=enm}}, from {{
 * Macedonian: {{t|mk|црта|tr=crta|sc=Cyrl}}
 * Malay: {{t-|ms|lukis}}
 * Norwegian: {{t+|no|tegne}}
-* Persian: {{t+|fa|کشیدن|tr=keshidan}}, {{t|fa|رسم کردن|tr=rasm kardan|sc=fa-Arab}}
+* Persian: {{t|fa|رسم کردن|tr=rasm kardan|sc=fa-Arab}}
 * Polish: {{t+|pl|rysować}}
 * Portuguese: {{t+|pt|desenhar}}
-* Russian: {{t+|ru|рисовать|tr=risovát’}} {{impf}}, {{t+|ru|нарисовать|tr=narisovát’}} {{pf.}}; {{t+|ru|чертить|tr=čertít'}} {{impf}}, {{t+|ru|начертить|tr=načertít'}} {{pf.}} {{qualifier|of line, technical drawings, etc.}}
+* Russian: {{t+|ru|рисовать|tr=risovátʹ}} {{impf}}, {{t+|ru|нарисовать|tr=narisovátʹ}} {{pf.}}; {{t+|ru|чертить|tr=čertítʹ}} {{impf}}, {{t+|ru|начертить|tr=načertítʹ}} {{pf.}} {{qualifier|of line, technical drawings, etc.}}
 * Scottish Gaelic: {{t-|gd|tarraing}}
 * Serbo-Croatian: {{t-|sh|цртати|alt=цр̏тати|sc=Cyrl}},  {{t-|sh|crtati|alt=cȑtati}}
 * Slovak: {{t|sk|kresliť}}
@@ -165,11 +165,11 @@ From {{etyl|enm|en}} {{term|drawen|lang=enm}}, {{term|dragen|lang=enm}}, from {{
 {{trans-bottom}}
 
 {{trans-top|to pull out}}
-* Arabic: {{t-|ar|سحب|tr=sáHaba}}, {{t-|ar|جر|tr=járra}}
+* Arabic: {{t-|ar|سحب|tr=sáḥaba}}, {{t-|ar|جر|tr=járra}}
 * Armenian: {{t-|hy|ձգել|tr=jgel}}, {{t-|hy|քաշել|tr=k’ašel}}
-* Bulgarian: {{t+|bg|тегля}}, {{t+|bg|дърпам}}, {{t+|bg|изтеглям}}
+* Bulgarian: {{t+|bg|тегля|tr=teglja}}, {{t+|bg|дърпам|tr=dǎrpam}}, {{t+|bg|изтеглям|tr=iztegljam}}
 * Chinese:
-*: Mandarin: {{t-|cmn|拉|tr=lā|sc=Hani}}, {{t|cmn|拖拉|tr=tuōlā|sc=Hani}}
+*: Mandarin: {{t+|cmn|拉|tr=lā|sc=Hani}}, {{t|cmn|拖拉|tr=tuōlā|sc=Hani}}
 * Czech: [[tasit]] {{qualifier|of a sword}}
 * Danish: {{t+|da|trække}}
 * Dutch: {{t+|nl|trekken}}
@@ -184,8 +184,9 @@ From {{etyl|enm|en}} {{term|drawen|lang=enm}}, {{term|dragen|lang=enm}}, from {{
 * Japanese: {{t+|ja|引く|tr=ひく, hiku}}
 * Korean: {{t+|ko|뽑다|tr=ppopda|sc=Hang}}
 * Latin: {{t+|la|traho}}, {{t-|la|abstraho}}, {{t-|la|subduco}}, {{t-|la|vello}}
+* Persian: {{t+|fa|کشیدن|tr=kešidan}}
 * Polish: {{t+|pl|wyciągać}}, {{t-|pl|wyrywać}}
-* Russian: {{t+|ru|тянуть|tr=tjanút’}} {{impf}}, {{t+|ru|потянуть|tr=potjanút’}} {{pf.}}, {{t+|ru|тащить|tr=taščít’}} {{impf}}, {{t+|ru|потащить|tr=potaščít’}} {{pf.}}
+* Russian: {{t+|ru|тянуть|tr=tjanútʹ}} {{impf}}, {{t+|ru|потянуть|tr=potjanútʹ}} {{pf.}}, {{t+|ru|тащить|tr=taščítʹ}} {{impf}}, {{t+|ru|потащить|tr=potaščítʹ}} {{pf.}}
 * Scottish Gaelic: {{t-|gd|slaod}}, {{t-|gd|tarraing}}
 * Spanish: {{t+|es|desenvainar}}, {{t-|es|desenfundar}}
 * Swedish: {{t+|sv|dra}}
@@ -276,16 +277,16 @@ From {{etyl|enm|en}} {{term|drawen|lang=enm}}, {{term|dragen|lang=enm}}, from {{
 * Czech: {{t-|cs|remizovat}}
 * Dutch: {{t+|nl|gelijkspelen}}
 * Esperanto: {{t-|eo|egalvenki}}
-* Finnish: {{t-|fi|pelata tasan}}, [[päättyä#Finnish|päättyä]] {{t+|fi|tasapeli|alt=tasapeliin}}
+* Finnish: {{t-|fi|pelata tasan}}, {{t-SOP|fi|[[päättyä]] [[tasapeli|tasapeliin]]}}
 * French: {{t+|fr|égaliser}}
 * Italian: {{t-|it|pareggiare}}
 {{trans-mid}}
-* Korean: [[비기다]] (bigida)
+* Korean: {{t|ko|비기다|tr=bigida}}
 * Polish: {{t-|pl|remisować}}
 * Portuguese: {{t-|pt|empatar|m}}
-* Russian: {{t-|ru|сыграть вничью|tr=sygrát' vnič'jú|sc=Cyrl}}, {{t-|ru|играть вничью|tr=igrát' vnič'jú|sc=Cyrl}}
+* Russian: {{t-SOP|ru|[[играть]] [[ничья|вничью]]|tr=igrátʹ vničʹjú|sc=Cyrl}} {{impf}}, {{t-SOP|ru|[[сыграть]] [[ничья|вничью]]|tr=sygrátʹ vničʹjú|sc=Cyrl}} {{pf.}}
 * Spanish: {{t+|es|empatar}}
-* Thai: {{t-|th|เสมอ}} (sà-mĕr)
+* Thai: {{t-|th|เสมอ|tr=sà-mĕr}}
 {{trans-bottom}}
 
 {{trans-top|to consume}}
