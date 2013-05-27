@@ -34,24 +34,24 @@ From {{etyl|la|en}} {{term|digitalis|digitālis|lang=la}}, from {{term|digitus||
 
 ====Translations====
 {{trans-top|having to do or performed with a finger}}
-* Bulgarian: {{t-|bg|пръстов}},  {{t-|bg|на пръстите}}
+* Bulgarian: {{t-|bg|пръстов}}, {{t-|bg|на пръстите}}
 * Chinese:
-*: Mandarin: {{t|cmn|數位|sc=Hani}},  {{t|cmn|数位|tr=shùwèi|sc=Hani}}
-* Dutch: [[vinger]]-
-* Finnish: [[sormi]]-
+*: Mandarin: {{t|cmn|數位|sc=Hani}}, {{t|cmn|数位|tr=shùwèi|sc=Hani}}
+* {{ttbc|nl}}: {{t|nl|vinger|alt=vinger-}} <!-- was "[[vinger]]-" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|fi}}: {{t|fi|sormi|alt=sormi-}} <!-- was "[[sormi]]-" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-mid}}
-* German: [[Finger]]-, [[#German|digital]] {{qualifier|medicine}}
+* {{ttbc|de}}: {{t|de|Finger|alt=Finger-}} <!-- was "[[Finger]]-" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{qualifier|medicine}} {{t|de|digital}}
 * Greek: {{t+|el|δακτυλικός|m|tr=daktylikós|sc=Grek}}
 * Italian: {{t+|it|digitale}}
-* Portuguese: [[#Portuguese|digital]] {{m}} and {{f}}
+* Portuguese: {{t|pt|digital|m|f}}
 * Spanish: {{t+|es|digital}}, {{t+|es|dactilar}}
 {{trans-bottom}}
 
 {{trans-top|representing discrete values}}
 * Arabic: {{t-|ar|رقمي|tr=raqamiy}}
-* Bulgarian: {{t-|bg|цифров}},  {{t-|bg|дигитален}}
+* Bulgarian: {{t-|bg|цифров}}, {{t-|bg|дигитален}}
 * Chinese:
-*: Mandarin: {{t-|cmn|數字|sc=Hani}},  {{t-|cmn|数字|tr=shùzì|sc=Hani}}
+*: Mandarin: {{t-|cmn|數字|sc=Hani}}, {{t-|cmn|数字|tr=shùzì|sc=Hani}}
 * Czech: {{t-|cs|číslicový|m}}, {{t-|cs|digitální|m}}, {{t+|cs|diskrétní|m}}
 * Dutch: {{t+|nl|digitaal}}
 * Esperanto: {{t+|eo|cifereca}}
@@ -77,12 +77,12 @@ From {{etyl|la|en}} {{term|digitalis|digitālis|lang=la}}, from {{term|digitus||
 
 {{trans-top|of or relating to computers}}
 * Arabic: {{t-|ar|رقمي|tr=raqamiy}}
-* Bulgarian: {{t-|bg|цифров}},  {{t-|bg|дигитален}}
+* Bulgarian: {{t-|bg|цифров}}, {{t-|bg|дигитален}}
 * Chinese:
-*: Mandarin: {{t-|cmn|數字|sc=Hani}},  {{t-|cmn|数字|tr=shùzì|sc=Hani}}
+*: Mandarin: {{t-|cmn|數字|sc=Hani}}, {{t-|cmn|数字|tr=shùzì|sc=Hani}}
 * Czech: {{t+|cs|počítačový|m}}
 * Dutch: {{t+|nl|digitaal}}
-* Finnish: [[tietokone]]-,  [[digitaalinen]]
+* {{ttbc|fi}}: {{t|fi|tietokone|alt=tietokone-}} <!-- was "[[tietokone]]-" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|fi|digitaalinen}}
 * French: {{t+|fr|numérique}}
 * German: {{t+|de|digital}}
 * Greek: {{t+|el|ψηφιακός|m|tr=psifiakós|sc=Grek}}
@@ -103,10 +103,10 @@ From {{etyl|la|en}} {{term|digitalis|digitālis|lang=la}}, from {{term|digitus||
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|fr}}: [[numérique]], [[#French|digital]] (see usage note there)
-* {{ttbc|id}}: digital
-* {{ttbc|ia}}: digital
-* {{ttbc|ko}}: [[디지탈]]
+* {{ttbc|fr}}: {{t|fr|numérique}}, {{qualifier|see usage note there}} {{t|fr|digital}}
+* {{ttbc|id}}: {{t|id|digital}}
+* {{ttbc|ia}}: {{t|ia|digital}}
+* {{ttbc|ko}}: {{t|ko|디지탈|sc=Kore}}
 {{trans-bottom}}
 
 [[Category:en:Technology]]
