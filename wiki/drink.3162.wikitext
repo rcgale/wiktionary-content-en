@@ -120,10 +120,10 @@ From {{etyl|enm|en}} {{term|drinken|lang=enm}}, from {{etyl|ang|en}} {{term|drin
 * Macedonian: {{t-|mk|пие|tr=píe}}
 * Malay: {{t-|ms|minum}}
 * Malayalam: {{t-|ml|കുടിയ്ക്കുക|tr=kutikkuka}}
-* Maltese: {{l|mt|xorob}}
+* Maltese: {{t|mt|xorob}}
 * Manx: {{t-|gv|oyl}}
-* Marathi: {{t-|mr|पिणे}}, ([[द्रव]]) [[पान]], {{t-|mr|पीना|tr=pIna|sc=Deva}}
-* Middle High German: [[trinken]]
+* {{ttbc|mr}}: {{t-|mr|पिणे}}, {{t-SOP|mr|([[द्रव]]) [[पान]]}}<!-- here. is this okay? -->, {{t-|mr|पीना|tr=pIna|sc=Deva}}
+* Middle High German: {{t|gmh|trinken}}
 * Mongolian: {{t-|mn|шингээх|tr=šingeekh|sc=Cyrl}}, {{t-|mn|сорох|tr=sorokh|sc=Cyrl}}
 * Neapolitan: {{tø|nap|veve}}
 * Norwegian: {{t+|no|drikke}}
@@ -193,12 +193,12 @@ From {{etyl|enm|en}} {{term|drinken|lang=enm}}, from {{etyl|ang|en}} {{term|drin
 * German: {{t+|de|saufen}}
 * Greek: {{t+|el|πίνω|tr=píno}}
 * Hebrew: {{t-|he|לשתות|tr=lishtot}}
-* Hindi: शराब पीना (pīnā)
+* {{ttbc|hi}}: {{t-SOP|hi|[[शराब]] [[पीना]]|tr=pīnā|sc=Deva}} <!-- was "शराब पीना" - not sure how it is supposed to be linked. -->
 * Hungarian: {{t+|hu|iszik}}
 * Icelandic: {{t+|is|drekka}}
 * Ido: {{t+|io|drinkar}}
 * Interlingua: {{t-|ia|biber}}
-* Italian: {{t+|it|bere}}, bere [[alcolico|alcolici]]
+* {{ttbc|it}}: {{t+|it|bere}}, {{t-SOP|it|[[bere]] [[alcolico|alcolici]]}} <!-- was "bere [[alcolico|alcolici]]" -->
 * Japanese: {{t+|ja|飲む|tr=のむ, nomu}}, {{t-|ja|召し上がる|tr=めしあがる, meshi-agaru}} {{qualifier|honorific}}, {{t-|ja|頂く|tr=いただく, itadaku}} {{qualifier|humble}}
 {{trans-mid}}
 * Jèrriais: {{tø|roa-jer|baithe}}
@@ -209,13 +209,13 @@ From {{etyl|enm|en}} {{term|drinken|lang=enm}}, from {{etyl|ang|en}} {{term|drin
 * Luxembourgish: {{t-|lb|saufen}}
 * Macedonian: {{t-|mk|пие|tr=píe}}
 * Malayalam: {{t-|ml|കുടിയ്ക്കുക|tr=kutikkuka}}
-* Marathi: [[मदिरा]] वा [[दारू]] पिणे, {{t-|mr|अपेयपान}}
+* {{ttbc|mr}}: {{t-SOP|mr|[[मदिरा]] [[वा]] [[दारू]] [[पिणे]]|sc=Deva}} <!-- was "[[मदिरा]] वा [[दारू]] पिणे" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-|mr|अपेयपान}}
 * Norwegian: {{t+|no|drikke}}
 * Novial: {{tø|nov|drinka}}
 * Polish: {{t+|pl|pić}}
 * Portuguese: {{t+|pt|beber}}, {{t+|pt|tomar}}
 * Romanian: {{t+|ro|bea}}
-* Russian: {{t+|ru|пить|tr=pit’}}; {{t+|ru|выпивать|tr=vypivát'}} {{impf}}, {{t+|ru|выпить|tr=výpit'}} {{pf.}}
+* Russian: {{t+|ru|пить|tr=pit’}}, {{t+|ru|выпивать|tr=vypivát'|impf}}, {{t+|ru|выпить|tr=výpit'|pf.}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|пити}}
 *: Roman: {{t-|sh|piti}}, {{t-|sh|lokati}}, {{t-|sh|pijančevati}}
@@ -226,30 +226,30 @@ From {{etyl|enm|en}} {{term|drinken|lang=enm}}, from {{etyl|ang|en}} {{term|drin
 * Telugu: {{t+|te|తాగు|tr=tāgu}}
 * Thai: {{t+|th|ดื่ม|tr=dèum}}
 * Turkish: {{t-|tr|içki içmek|c}}
-* Vietnamese: [[uống]] [[rượu]], uống [[say#Vietnamese|say]]
+* {{ttbc|vi}}: {{t-SOP|vi|[[uống]] [[rượu]]}} <!-- was "[[uống]] [[rượu]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-SOP|vi|[[uống]] [[say]]}}
 * Zulu: {{t-|zu|qhafa|alt=-qhafa}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|af}}: drink
-* {{ttbc|br}}: [[evañ]]
-* {{ttbc|gn}}: {{qualifier|vt}} [['u]]; {{qualifier|vi}} [[y'u]]
-* {{ttbc|haw}}: [[inu]], [[inumia]], [[pā]]
-* {{ttbc|ia}}: [[biber]]
-* {{ttbc|kn}}: [[ಕುಡಿ]] (kuḍi), [[ಹೀರು]] (hīru)
-* {{ttbc|km}}: {{Khmr|[[ផឹក]]}} (phek), {{Khmr|[[ទទួលទាន]]}} (to-tuel-tien)
-* {{ttbc|nds}}: [[drinken]], [[supen]]
-* {{ttbc|sa}}: [[पानम्]] (pānam)
+* {{ttbc|af}}: {{t|af|drink}}
+* {{ttbc|br}}: {{t|br|evañ}}
+* {{ttbc|gn}}: {{qualifier|vt}} {{t|gn|'u}}, {{qualifier|vi}} {{t|gn|y'u}}
+* {{ttbc|haw}}: {{t|haw|inu}}, {{t|haw|inumia}}, {{t|haw|pā}}
+* {{ttbc|ia}}: {{t|ia|biber}}
+* {{ttbc|kn}}: {{t|kn|ಕುಡಿ|tr=kuḍi|sc=Knda}}, {{t|kn|ಹೀರು|tr=hīru|sc=Knda}}
+* {{ttbc|km}}: {{t|km|ផឹក|tr=phek|sc=Khmr}}, {{t|km|ទទួលទាន|tr=to-tuel-tien|sc=Khmr}}
+* {{ttbc|nds}}: {{t|nds|drinken}}, {{t|nds|supen}}
+* {{ttbc|sa}}: {{t|sa|पानम्|tr=pānam|sc=Deva}}
 {{trans-mid}}
 * {{ttbc|si}}: {{t-|si|පේනා|tr=penā|sc=Sinh}}, {{t-|si|පේනවා|tr=penavā|sc=Sinh}}
-* {{ttbc|sk}}: [[piť]]
-* {{ttbc|sw}}: [[kunywa]]
-* {{ttbc|ta}}: [[குடி]] (kuṭi)
-* {{ttbc|tpn}}: {{qualifier|vt}} [['u]]; {{qualifier|vi}} [[y'u]]
-* {{ttbc|vo}}: [[dlinön]], [[drinön]]
-* {{ttbc|cy}}: [[yfed]]
-* {{ttbc|xh}}: [[ukusela]]
-* {{ttbc|yi}}: [[טרינקען]] (trinken)
+* {{ttbc|sk}}: {{t|sk|piť}}
+* {{ttbc|sw}}: {{t|sw|kunywa}}
+* {{ttbc|ta}}: {{t|ta|குடி|tr=kuṭi|sc=Taml}}
+* {{ttbc|tpn}}: {{qualifier|vt}} {{t|tpn|'u}}, {{qualifier|vi}} {{t|tpn|y'u}}
+* {{ttbc|vo}}: {{t|vo|dlinön}}, {{t|vo|drinön}}
+* {{ttbc|cy}}: {{t|cy|yfed}}
+* {{ttbc|xh}}: {{t|xh|ukusela}}
+* {{ttbc|yi}}: {{t|yi|טרינקען|tr=trinken|sc=Hebr}}
 {{trans-bottom}}
 
 ===Etymology 2===
@@ -376,7 +376,7 @@ From {{etyl|ang|en}} {{term|drync|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|
 * Hebrew: {{t+|he|משקה|m|tr=mashqe}}
 * Hungarian: {{t+|hu|ital}}
 * Icelandic: {{t+|is|drykkur|m}}
-* Indonesian: [[minuman keras]]
+* Indonesian: {{t|id|minuman keras}}
 * Italian: {{t+|it|bevanda|f}}
 * Japanese: {{t-|ja|お酒|tr=おさけ, osake|sc=Jpan}}
 * Jèrriais: {{tø|roa-jer|béthe|m}}, {{tø|roa-jer|bouaisson|f}}, {{tø|roa-jer|brévage|m}}
@@ -402,8 +402,8 @@ From {{etyl|ang|en}} {{term|drync|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|
 * Swedish: {{t+|sv|drink|c}}, {{t+|sv|dricka}}
 * Tagalog: {{t-|tl|inumin}}
 * Telugu: {{t+|te|పానీయం|tr=paaneeyam}}
-* Turkish: [[alkollü içecek]], {{t+|tr|içki}}
-* Vietnamese: [[ly]] [[rượu]], [[cốc]] rượu
+* Turkish: {{t|tr|alkollü içecek}}, {{t+|tr|içki}}
+* {{ttbc|vi}}: {{t-SOP|vi|[[ly]] [[rượu]]}} <!-- was "[[ly]] [[rượu]]" -->, {{t-SOP|vi|[[cốc]] [[rượu]]}} <!-- was "[[cốc]] rượu" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-bottom}}
 
 {{trans-top|action of drinking}}
@@ -426,7 +426,7 @@ From {{etyl|ang|en}} {{term|drync|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|
 * Latvian: {{t-|lv|malks|m}}, {{t-|lv|dzeršana|f}}
 {{trans-mid}}
 * Lithuanian: {{t+|lt|gėrimas|f}}, {{t+|lt|išgėrimas|m}}
-* Marathi: {{t-|mr|पिणे}}, {{t-|mr|पान}}, पिण्याची क्रिया
+* {{ttbc|mr}}: {{t-|mr|पिणे}}, {{t-|mr|पान}}, {{t-SOP|mr|[[पिण्याची]] [[क्रिया]]|sc=Deva}} <!-- was "पिण्याची क्रिया" - not sure how it is supposed to be linked -->
 * Neapolitan: {{tø|nap|véppata}}
 * Novial: {{tø|nov|drinko}}
 * Old English: {{t-|ang|drync|m}}
@@ -513,14 +513,14 @@ From {{etyl|ang|en}} {{term|drync|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|
 * {{ttbc|br}}: {{t+|br|died|f}}, {{t+|br|evaj|m}}
 * {{ttbc|ca}}: {{t+|ca|beguda|f}}
 * {{ttbc|eo}}: {{t-|eo|trinkaĵo}}
-* {{ttbc|gn}}: [[jey'urã]]
-* {{ttbc|ia}}: [[bibita]], [[biberage]]
-* {{ttbc|nds}}: [[drinken]] {{n}}
-* {{ttbc|ang}}: [[drync]]
-* {{ttbc|goh}}: [[trunch]]
-* {{ttbc|non}}: [[drykkr]] {{m}}
+* {{ttbc|gn}}: {{t|gn|jey'urã}}
+* {{ttbc|ia}}: {{t|ia|bibita}}, {{t|ia|biberage}}
+* {{ttbc|nds}}: {{t|nds|drinken|n}}
+* {{ttbc|ang}}: {{t|ang|drync|sc=Latinx}}
+* {{ttbc|goh}}: {{t|goh|trunch}}
+* {{ttbc|non}}: {{t|non|drykkr|m}}
 * {{ttbc|es}}: {{t+|es|bebida|f}}
-* {{ttbc|tpn}}: [[embi'u]] (t-)
+* {{ttbc|tpn}}: {{qualifier|t-}} {{t|tpn|embi'u}}
 {{trans-bottom}}
 
 [[Category:1000 English basic words]]
