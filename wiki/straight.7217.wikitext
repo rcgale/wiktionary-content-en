@@ -145,7 +145,7 @@
 * Dutch: {{t+|nl|recht}}, {{t+|nl|rechte}}
 * Esperanto: {{t+|eo|rekta}}
 * Finnish: {{t+|fi|suora}}
-* French: {{t+|fr|droit|m}}, {{t+|fr|droite|f}},  {{t+|fr|rectiligne}}
+* French: {{t+|fr|droit|m}}, {{t+|fr|droite|f}}, {{t+|fr|rectiligne}}
 * Friulian: {{tø|fur|dret}}
 * German: {{t+|de|gerade}}
 * Greek: {{t+|el|ίσιος|m}} (ísios), {{t+|el|ευθύς|m}} (efthýs)
@@ -159,7 +159,7 @@
 * Italian: {{t+|it|dritto}}
 * Japanese: {{t-|ja|真直ぐ|tr=まっすぐな, massugu-na|alt=真直ぐな|sc=Jpan}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[ڕێک]]}}
+*: Sorani: {{t|ckb|ڕێک|sc=ku-Arab}}
 * Luxembourgish: {{t-|lb|riicht}}, {{t-|lb|gerode}}
 * Macedonian: {{t-|mk|прав|m|tr=prav}}
 * Navajo: {{tø|nv|kʼézdon}}
@@ -181,7 +181,7 @@
 {{trans-top|direct, truthful, frank}}
 * Armenian: {{t-|hy|ազնիվ|tr=azniv}}
 * Czech: {{t+|cs|přímý|m}}
-* Dutch: [[zoals het hoort]]
+* Dutch: {{t|nl|zoals het hoort}}
 * Finnish: {{t+|fi|suora}}, {{t+|fi|rehellinen}}, {{t+|fi|vilpitön}}
 * French: {{t-|fr|comme il faut}}
 * German: {{t+|de|aufrecht}}, {{t+|de|aufrichtig}}
@@ -190,7 +190,7 @@
 * Italian: {{t+|it|retto}}
 {{trans-mid}}
 * Japanese: {{t-|ja|実直な|tr=jicchoku na}}
-* Macedonian: {{t-|mk|отворен|m|tr=ótvoren}},  {{t-|mk|искрен|m|tr=ískren}}
+* Macedonian: {{t-|mk|отворен|m|tr=ótvoren}}, {{t-|mk|искрен|m|tr=ískren}}
 * Polish: {{t+|pl|prosty}}
 * Portuguese: {{t+|pt|direto|m}}, {{t+|pt|honesto|m}}
 * Russian: {{t+|ru|прямой|tr=prjamój}}
@@ -203,7 +203,7 @@
 {{trans-top|as it should be}}
 * Chamicuro: {{tø|ccc|nanatolo}}
 * Finnish: {{t+|fi|kunto|alt=kunnossa}}, {{t+|fi|järjestys|alt=järjestyksessä}}
-* Macedonian: {{t-|mk|правилен|m|tr=právilen}},  {{t-|mk|исправен|m|tr=íspraven}}
+* Macedonian: {{t-|mk|правилен|m|tr=právilen}}, {{t-|mk|исправен|m|tr=íspraven}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|direito|m}}
 * Russian: {{t+|ru|правильный|tr=právil'nyj}}, {{t+|ru|нормальный|tr=normál'nyj}}
@@ -244,7 +244,7 @@
 * Finnish: {{t+|fi|hetero}}, {{t+|fi|heteroseksuaali}}
 * French: {{t+|fr|hétéro}}
 * German: {{t-|de|hetero}}
-* Hungarian: [[heteró]]
+* Hungarian: {{t|hu|heteró}}
 * Irish: {{t-|ga|díreach}}
 {{trans-mid}}
 * Italian: {{t+|it|eterosessuale}}
@@ -260,14 +260,14 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: {{Arab|[[مستقيم]]}} {{unicode|(mustaqí:m)}}
-* {{ttbc|cmn}}: [[直]]的 (zhí de), [[笔直的]] (bǐzhí de)
-* {{ttbc|it}}: [[diritto]], [[liscio]], [[subito]]
+* {{ttbc|ar}}: {{t|ar|مستقيم|tr=mustaqí:m|sc=Arab}} {{unicode|}}
+* {{ttbc|cmn}}: {{t|cmn|直|tr=zhí de|alt=直的|sc=Hani}} <!-- was "[[直]]的" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|cmn|笔直的|tr=bǐzhí de|sc=Hani}}
+* {{ttbc|it}}: {{t|it|diritto}}, {{t|it|liscio}}, {{t|it|subito}}
 {{trans-mid}}
-* {{ttbc|ko}}: [[똑바른]] (ggokbareun)
-* {{ttbc|es}}: [[derecho]]
-* {{ttbc|te}}: [[తిన్నని]] (tinnani), [[సరళమైన]] (saraLamaina), [[సూటి]] (sooTi)
-* {{ttbc|cy}}: [[uniawn]]
+* {{ttbc|ko}}: {{t|ko|똑바른|tr=ggokbareun|sc=Kore}}
+* {{ttbc|es}}: {{t|es|derecho}}
+* {{ttbc|te}}: {{t|te|తిన్నని|tr=tinnani|sc=Telu}}, {{t|te|సరళమైన|tr=saraLamaina|sc=Telu}}, {{t|te|సూటి|tr=sooTi|sc=Telu}}
+* {{ttbc|cy}}: {{t|cy|uniawn}}
 {{trans-bottom}}
 
 ===Adverb===
@@ -283,7 +283,7 @@
 
 ====Translations====
 {{trans-top|in a forward direction}}
-* Chinese: [[直]] (zhí), [[直接地]] (zhíjiē de)
+* {{ttbc|cmn}}: {{t|cmn|直|tr=zhí|sc=Hani}}, {{t|cmn|直接地|tr=zhíjiē de|sc=Hani}}
 * Czech: {{t+|cs|přímo}}
 * Dutch: {{t+|nl|rechtdoor}}
 * Finnish: {{t+|fi|suoraan}}
@@ -298,7 +298,7 @@
 * Scottish Gaelic: {{t-|gd|dìreach}}
 * Spanish: {{t+|es|derecho}}
 * Swedish: {{t-|sv|rakt fram}}
-* Telugu: [[తిన్నగా]] (tinnagaa), [[సూటిగా]] (sootigaa)
+* Telugu: {{t|te|తిన్నగా|tr=tinnagaa|sc=Telu}}, {{t|te|సూటిగా|tr=sootigaa|sc=Telu}}
 {{trans-bottom}}
 
 {{trans-top|of movement or travel, directly; without pause, delay or detour}}
@@ -325,10 +325,10 @@
 {{trans-top|part of a racecourse or running track that is not curved}}
 * Czech: {{t-|cs|rovinka|f}}
 * Finnish: {{t+|fi|suora}}
-* French: [[ligne droite]] {{f}}
+* French: {{t|fr|ligne droite|f}}
 * Italian: {{t-|it|rettilineo|m}}
 {{trans-mid}}
-* Japanese: {{qualifier|racecourse}} {{t-|ja|ストレート|tr=sutorēto}}; {{qualifier|running track}} {{t+|ja|直線|tr=chokusen}}
+* Japanese: {{qualifier|racecourse}} {{t-|ja|ストレート|tr=sutorēto}}, {{qualifier|running track}} {{t+|ja|直線|tr=chokusen}}
 * Portuguese: {{t+|pt|reta|f}}
 * Russian: {{t+|ru|прямая|f|tr=pr'amája}}
 * Swedish: {{t-|sv|raksträcka|c}}, {{t+|sv|raka|c}}
@@ -349,12 +349,12 @@
 * Irish: {{t-|ga|sraith|f}}
 * Japanese: {{t-|ja|ストレート|tr=sutorēto}}
 * Polish: {{t+|pl|strit|m}}
-* Russian: [[стрейт]] (strejt) {{m}}, [[стрит]] (strit) {{m}}
+* Russian: {{t|ru|стрейт|m|tr=strejt|sc=Cyrl}}, {{t|ru|стрит|m|tr=strit|sc=Cyrl}}
 * Swedish: {{t+|sv|stege|c}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|nl}}: [[recht]]
+* {{ttbc|nl}}: {{t|nl|recht}}
 {{trans-mid}}
 {{trans-bottom}}
 
