@@ -103,7 +103,7 @@
 * Aguaruna: {{tø|agr|numpa}}
 * Ainu: {{tø|ain|ケㇺ|tr=kem}}, {{tø|ain|ケミヒ|tr=kemihi}}
 * Albanian: {{t-|sq|gjak|m}}
-* Aleut: [[aamaaxs]]
+* Aleut: {{t|ale|aamaaxs}}
 * Ama: {{tø|amm|nako}}
 * {{trreq|am}}
 * Apalaí: {{tø|apy|munu}}
@@ -111,8 +111,8 @@
 *: Egyptian Arabic: {{tø|arz|دم|m|tr=dam|sc=Arab}}
 * {{trreq|an}}
 * Aramaic:
-*: Syriac: [[ܕܡܐ]] (dmā’) {{m}}
-*: Hebrew: [[דמא]] (dmā’) {{m}}
+*: Syriac: {{t|arc|ܕܡܐ|m|tr=dmā’|sc=Syrc}}
+*: Hebrew: {{t|arc|דמא|m|tr=dmā’|sc=Hebr}}
 * Armenian: {{t+|hy|արյուն|tr=aryun}}
 *: Old Armenian: {{tø|xcl|արիւն|tr=ariwn|sc=Armn}}
 * Aromanian: {{t-|rup|sãndze‎}}
@@ -143,7 +143,7 @@
 *: Cantonese: {{tø|yue|血|tr=hyut3|sc=Hani}}
 *: Mandarin: {{t+|cmn|血|tr=xuè, xiě|sc=Hani}}
 *: Min Nan: {{t-|nan|hoeh|sc=Hani}}
-* Chukchi: [[melle-mul]], [[kiul]]
+* Chukchi: {{t|ckt|melle-mul|sc=Cyrl}}, {{t|ckt|kiul|sc=Cyrl}}
 * Chuvash: {{tø|cv|юн|tr=yun|sc=Cyrl}}
 * Cornish: {{t-|kw|goes}}
 * {{trreq|co}}
@@ -188,7 +188,7 @@
 * Inuktitut: {{t|iu|ᐊᐅᒃ|tr=auk}}
 * Irish: {{t+|ga|fuil|f}}
 * Italian: {{t+|it|sangue|m}}
-* Itelmen: [[mɫim]]
+* Itelmen: {{t|itl|mɫim|sc=Cyrl}}
 * Japanese: {{t+|ja|血|tr=[[ち]], chi}}, {{t+|ja|血液|tr=[[けつえき]], ketsueki}}
 * {{trreq|jv}}
 * Kalaallisut: {{t-|kl|aak}}
@@ -252,8 +252,8 @@
 * Old Provençal: {{tø|pro|sang}}
 * Oriya: {{t|or|ରକ୍ତ|tr=rakt|sc=Orya}}
 * Ossetian:
-*: Digor: {{tø|os|тог|tr=tog|sc=Cyrl}}
-*: Iron: {{tø|os|туг|tr=tug|sc=Cyrl}}
+*: {{ttbc|Digor}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{tø|os|тог|tr=tog|sc=Cyrl}}
+*: {{ttbc|Iron}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{tø|os|туг|tr=tug|sc=Cyrl}}
 * Pashto: {{t+|ps|وينه|tr=wina|sc=ps-Arab}}
 * Persian: {{t+|fa|خون|tr=xun}}, {{t-|fa|خین|tr=xin|sc=fa-Arab}} {{qualifier|dialectal}}
 * Pipil: {{tø|ppl|esti}}, {{tø|ppl|ezti}}
@@ -261,7 +261,7 @@
 * Portuguese: {{t+|pt|sangue}}
 * {{trreq|pa}}
 * {{trreq|raj}}
-* Romani: [[rat]] {{m}}
+* Romani: {{t|rom|rat|m}}
 * Romanian: {{t-|ro|sânge|n}}
 * Romansch: {{t-|rm|sang|m}}
 * Russian: {{t+|ru|кровь|f|tr=krov’}}, {{qualifier|colloquial}} {{t+|ru|юшка|f|tr=júška|sc=Cyrl}}
@@ -372,9 +372,9 @@
 * Czech: {{t+|cs|krev|f}}
 * Danish: {{t-|da|blodprøve|c}}
 * Faroese: {{t-|fo|blóðroynd|f}}
-* Finnish: {{qualifier|test}} {{t+|fi|verikoe}}; {{qualifier|sample}} {{t+|fi|verinäyte}}
+* Finnish: {{qualifier|test}} {{t+|fi|verikoe}}, {{qualifier|sample}} {{t+|fi|verinäyte}}
 * Greek: {{t+|el|αίμα|n|tr=aíma}}
-* Ilocano: [[dara]]
+* Ilocano: {{t|ilo|dara}}
 * Irish: {{t|ga|sampla fola|m}}
 * Korean: {{qualifier|test}} {{t-|ko|혈액 검사|tr=hyeoraek geomsa|sc=Hang}}
 * Macedonian: {{t-|mk|крв|f|tr=krv}}
@@ -394,27 +394,27 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: {{Arab|[[دماء]]}} (dimā’) {{p}}, {{Arab|[[دم]]}} (dam) {{m}}
-* {{ttbc|br}}: [[gwad]] {{m}}
-* {{ttbc|myv}}: [[верь]] (verj)
-* {{ttbc|gn}}: [[uguy]] (t-)
-* {{ttbc|gu}}: [[ખૂન]] (khūn) {{n}}, [[રકત]] (rakta) {{n}}, [[રુધિર]] (rudhir) {{n}}, [[લોહી]] (lohī) {{n}}
-* {{ttbc|id}}: [[darah]]
-* {{ttbc|iu}}: [[ᐊᐅᒃ]]
-* {{ttbc|ia}}: [[sanguine]]
-* {{ttbc|lt}}: [[kraujas]] {{m}}
+* {{ttbc|ar}}: {{t|ar|دماء|p|tr=dimā’|sc=Arab}}, {{t|ar|دم|m|tr=dam|sc=Arab}}
+* {{ttbc|br}}: {{t|br|gwad|m}}
+* {{ttbc|myv}}: {{t|myv|верь|tr=verj|sc=Cyrl}}
+* {{ttbc|gn}}: {{qualifier|t-}} {{t|gn|uguy}}
+* {{ttbc|gu}}: {{t|gu|ખૂન|n|tr=khūn|sc=Gujr}}, {{t|gu|રકત|n|tr=rakta|sc=Gujr}}, {{t|gu|રુધિર|n|tr=rudhir|sc=Gujr}}, {{t|gu|લોહી|n|tr=lohī|sc=Gujr}}
+* {{ttbc|id}}: {{t|id|darah}}
+* {{ttbc|iu}}: {{t|iu|ᐊᐅᒃ|sc=Cans}}
+* {{ttbc|ia}}: {{t|ia|sanguine}}
+* {{ttbc|lt}}: {{t|lt|kraujas|m}}
 {{trans-mid}}
-* {{ttbc|mg}}: [[ra]]
-* {{ttbc|mt}}: [[demm]] {{m}}
-* {{ttbc|mi}}: [[toto]]
-* {{ttbc|se}}: [[varra]]
-* {{ttbc|rhg}}: [[rokto]]
+* {{ttbc|mg}}: {{t|mg|ra}}
+* {{ttbc|mt}}: {{t|mt|demm|m}}
+* {{ttbc|mi}}: {{t|mi|toto}}
+* {{ttbc|se}}: {{t|se|varra}}
+* {{ttbc|rhg}}: {{t|rhg|rokto}}
 * {{ttbc|shn}}: {{tø|shn|လိူတ်ႈ|tr=lɤt3}}
-* {{ttbc|sw}}: [[damu]]
-* {{ttbc|te}}: [[రక్తము]], [[నెత్తురు]]
-* {{ttbc|tpn}}: [[ugûy]] (t-)
-* {{ttbc|tzj}}: [[kik'|kik’]]
-* {{ttbc|vi}}: [[máu]] (1), [[thân]] (2)
+* {{ttbc|sw}}: {{t|sw|damu}}
+* {{ttbc|te}}: {{t|te|రక్తము|sc=Telu}}, {{t|te|నెత్తురు|sc=Telu}}
+* {{ttbc|tpn}}: {{qualifier|t-}} {{t|tpn|ugûy}}
+* {{ttbc|tzj}}: {{t|tzj|kik'|alt=kik’}} <!-- was "[[kik'|kik’]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|vi}}: {{qualifier|1}} {{t|vi|máu}}, {{qualifier|2}} {{t|vi|thân}}
 {{trans-bottom}}
 
 ====See also====
@@ -439,7 +439,7 @@
 * Faroese: {{t-|fo|blóðga}}
 * German: {{t+|de|bluten}}
 * Greek: {{t+|el|ματώνω|tr=matóno}}
-* Irish: [[cuir fuil]]
+* Irish: {{t|ga|cuir fuil}}
 {{trans-mid}}
 * Maltese: {{t-|mt|iddemmem}}
 * Polish: {{t+|pl|krwawić}}
