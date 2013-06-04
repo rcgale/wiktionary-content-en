@@ -87,12 +87,12 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 * Arabic: {{t+|ar|عمل|m|alt=عَمَل|tr=ʿámal}}
 *: Egyptian Arabic: {{tø|arz|شغل|m|tr=šuġl|sc=Arab}}
 *: Moroccan Arabic: {{tø|ary|خدمة|f|tr=xedma}}
-* Armenian: {{t-|hy|աշխատանք|tr=ašxatank’}}, {{t-|hy|գործ|tr=gorç}}
+* Armenian: {{t-|hy|աշխատանք|tr=ašxatankʿ}}, {{t-|hy|գործ|tr=gorc}}
 * Belarusian: {{t-|be|праца|f|tr=práca}}
 * Bulgarian: {{t+|bg|работа|f|tr=rábota|sc=Cyrl}}, {{t+|bg|труд|m|tr=trud|sc=Cyrl}}
 * Burmese: {{t+|my|လုပ်အား|sc=Mymr|tr=lok-a:}}, {{t+|my|အလုပ်|sc=Mymr|tr=ălok}}
 * Catalan: {{t+|ca|treball|m}}
-* Chechen: [[болх]]
+* Chechen: {{t|ce|болх|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t|cmn|工作|tr=gōngzuò|sc=Hani}}, {{t|cmn|勞動|sc=Hani}}, {{t|cmn|劳动|tr=láodòng|sc=Hani}}, {{t|cmn|職業|sc=Hani}}, {{t|cmn|职业|tr=zhíyè|sc=Hani}}
 * Cia-Cia: {{tø|cia|까라자아}}
@@ -100,14 +100,14 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 * Danish: {{t+|da|arbejde|n}}
 * Dutch: {{t+|nl|werk|n}}, {{t+|nl|job|f}}
 * Esperanto: {{t-|eo|laboro}}
-* Ewe: [[dɔwɔwɔ]]
+* Ewe: {{t|ee|dɔwɔwɔ}}
 * Finnish: {{t+|fi|työ}}
 * French: {{t+|fr|travail|m}}, [6] {{t+|fr|œuvre|m}}, [6] {{t+|fr|création|m}}
 * Galician: {{t+|gl|traballo|m}}
-* Georgian: {{t-|ka|მუშაობა|tr=mushaoba|sc=Geor}}
+* Georgian: {{t-|ka|მუშაობა|tr=mušaoba|sc=Geor}}
 * German: {{t+|de|Arbeit|f}}
 * Gothic: {{tø|got|𐌰𐍂𐌱𐌰𐌹𐌸𐍃|f|tr=arbaiþs|sc=Goth}}
-* Greek: {{t+|el|έργο|n}}, {{t+|el|εργασία|f}}, {{t+|el|δουλειά|f}}
+* Greek: {{t+|el|έργο|n|tr=érgo}}, {{t+|el|εργασία|f|tr=ergasía}}, {{t+|el|δουλειά|f|tr=douleiá}}
 * Guernésiais: {{tø|roa-grn|travas|m}}
 * Hebrew: {{t+|he|עבודה|f|tr=avodá}}, {{t-|he|מלאכה|f|tr=melakhá}}
 * Hindi: {{t+|hi|काम|m|tr=kām|sc=Deva}}
@@ -139,11 +139,11 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 * Persian: {{t+|fa|کار|tr=kâr}}, {{t+|fa|شغل|tr=šoğl|sc=fa-Arab}}
 * Polish: {{t+|pl|praca|f}}
 * Portuguese: {{t+|pt|trabalho|m}}
-* Punjabi: [[ਕੰਮ]] (kanm) {{m}}
+* Punjabi: {{t|pa|ਕੰਮ|m|tr=kanm|sc=Guru}}
 * Romanian: {{t-|ro|muncă|f}}, {{t-|ro|serviciu|n}}, {{t-|ro|ocupație|f}}, {{t-|ro|îndeletnicire|f}}
 * Romansch: {{qualifier|Rumantsch Grischun, Sursilvan, Sutsilvan, Puter, Vallader}} {{t-|rm|lavur|f}}, {{qualifier|Surmiran}} {{t-|rm|lavour|f}}
 * Russian: {{t+|ru|работа|f|tr=rabóta}}, {{t+|ru|труд|m|tr=trud|sc=Cyrl}}
-* Scots: [[wark]]
+* Scots: {{t|sco|wark}}
 * Scottish Gaelic: {{t-|gd|cosnadh|m}}, {{t+|gd|obair|f}}, {{t-|gd|dreuchd|f}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|посао|m|sc=Cyrl}}
@@ -154,7 +154,7 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 * Spanish: {{t+|es|trabajo|m}}
 * Swahili: {{t+|sw|kazi}}
 * Swedish: {{t+|sv|arbete|n}}, {{t+|sv|jobb|n}}
-* Telugu: {{t-|te|కూలీపని}}(kUlIpani),{{t+|te|ఉద్యోగము}}(udyOamu), {{t+|te|వృత్తి}}(vrutti)
+* Telugu: {{t-|te|కూలీపని}}(kUlIpani), {{t+|te|ఉద్యోగము}}(udyOamu), {{t+|te|వృత్తి}}(vrutti)
 * Thai: {{t-|th|การงาน|tr=gaan ngaan}}, {{t+|th|งาน|tr=ngaan}}
 * Turkish: {{t+|tr|iş}}, {{t+|tr|meslek}}
 * Turkmen: {{t|tk|iş}}
@@ -165,31 +165,32 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 * Votic: {{tø|vot|töö}}
 * Walloon: {{t+|wa|ovraedje|m|f}}, {{t+|wa|boutaedje|m}}
 * Welsh: {{t+|cy|gwaith}}
-* West Frisian: [[wurk]] {{n}}
+* West Frisian: {{t|fy|wurk|n}}
 * ǃXóõ: {{tø|nmn|ǀgáã}}
 {{trans-bottom}}
 
 {{trans-top|place where one is employed}}
-* Armenian: {{t-|hy|աշխատանք|tr=ašxatank’}}, {{t-|hy|գործ|tr=gorç}}
-* Bulgarian: {{t-|bg|работно място|n|sc=Cyrl}}
-* Chinese: [[工作]] (gōngzuò)
+* Armenian: {{t-|hy|աշխատանք|tr=ašxatankʿ}}, {{t-|hy|գործ|tr=gorc}}
+* Bulgarian: {{t-|bg|работно място|n|tr=rabotno mjásto|sc=Cyrl}}
+* Chinese:
+*: Mandarin: {{t|cmn|工作|tr=gōngzuò|sc=Hani}}
 * Czech: {{t+|cs|zaměstnání|n}}, {{t+|cs|práce|f}}
 * Danish: {{t+|da|arbejde|n}}, {{t-|da|arbejdsplads|c}}
 * Dutch: {{t+|nl|werk|n}}, {{t-|nl|arbeidsplaats|f}}
-* Ewe: [[dɔwɔƒe]]
+* Ewe: {{t|ee|dɔwɔƒe}}
 * Finnish: {{t+|fi|työ}}, {{t+|fi|työpaikka}}
 * German: {{t+|de|Arbeit|f}}
 * Hebrew: {{t+|he|עבודה|f|tr=avodá}}
 * Irish: {{t-|ga|obair|f}}
 * Italian: {{t-|it|posto di lavoro}}
-* Japanese: [[仕事場]] (shigoto-ba)
+* Japanese: {{t|ja|仕事場|tr=shigoto-ba|sc=Jpan}}
 {{trans-mid}}
 * Latvian: {{t+|lv|darbs|m}}
 * Macedonian: {{t-|mk|работа|f|tr=rábota|sc=Cyrl}}
 * Polish: {{t+|pl|praca|f}}
 * Portuguese: {{t+|pt|trabalho|m}}, {{t+|pt|emprego|m}}
 * Russian: {{t+|ru|работа|f|tr=rabóta}}
-* Scots: [[wark]]
+* Scots: {{t|sco|wark}}
 * Scottish Gaelic: {{t+|gd|obair|f}}
 * Serbo-Croatian: {{t-|sh|posao|m}}
 * Slovene: {{t+|sl|delo|n}}
@@ -201,24 +202,25 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 
 {{trans-top|effort expended on a particular task}}
 * Afrikaans: {{t+|af|werk}}
-* Armenian: {{t-|hy|աշխատանք|tr=ašxatank’}}
-* Bulgarian: {{t+|bg|работа|f|sc=Cyrl}}, {{t+|bg|труд|m|sc=Cyrl}}
-* Chinese: [[工作]] (gōngzuò)
+* Armenian: {{t-|hy|աշխատանք|tr=ašxatankʿ}}
+* Bulgarian: {{t+|bg|работа|f|tr=rábota|sc=Cyrl}}, {{t+|bg|труд|m|tr=trud|sc=Cyrl}}
+* Chinese:
+*: Mandarin: {{t|cmn|工作|tr=gōngzuò|sc=Hani}}
 * Czech: {{t+|cs|práce|f}}
 * Danish: {{t+|da|arbejde|n}}
 * Dutch: {{t+|nl|werk|n}}, {{t+|nl|arbeid|m}}
-* Ewe: [[dɔwɔwɔ]]
+* Ewe: {{t|ee|dɔwɔwɔ}}
 * Finnish: {{t+|fi|työ}}
 * French: {{t+|fr|travail|m}}
-* Georgian: {{t-|ka|მუშაობა|tr=mushaoba|sc=Geor}}
+* Georgian: {{t-|ka|მუშაობა|tr=mušaoba|sc=Geor}}
 * German: {{t+|de|Arbeit|f}}
 * Guernésiais: {{tø|roa-grn|travas|m}}
 * Hebrew: {{t+|he|עבודה|f|tr=avodá}}
 * Irish: {{t-|ga|obair|f}}
 * Italian: {{t+|it|lavoro}}, {{t+|it|impegno}}, {{t+|it|fatica|f}}
-* Japanese: [[労力]] (ろうりょく, rōryoku), [[労働]] (ろうどう, rōdō), {{t+|ja|作業|tr=さぎょう, sagyō|sc=Jpan}}
+* Japanese: {{t|ja|労力|tr=ろうりょく, rōryoku|sc=Jpan}}, {{t|ja|労働|tr=ろうどう, rōdō|sc=Jpan}}, {{t+|ja|作業|tr=さぎょう, sagyō|sc=Jpan}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[ئیش]]}}
+*: Sorani: {{t|ckb|ئیش|sc=ku-Arab}}
 * Latvian: {{t+|lv|darbs|m}}
 * Macedonian: {{t-|mk|работа|f|tr=rábota|sc=Cyrl}}, {{t-|mk|труд|m|tr=trud|sc=Cyrl}}
 {{trans-mid}}
@@ -230,7 +232,7 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 * Romanian: {{t-|ro|muncă|f}}, {{t-|ro|efort|n}}, {{t-|ro|lucrare|f}}
 * Romansch: {{qualifier|Rumantsch Grischun, Sursilvan, Sutsilvan, Puter, Vallader}} {{t-|rm|lavur|f}}, {{qualifier|Surmiran}} {{t-|rm|lavour|f}}
 * Russian: {{t+|ru|работа|f|tr=rabóta}}, {{t+|ru|труд|m|tr=trud}}
-* Scots: [[wark]]
+* Scots: {{t|sco|wark}}
 * Scottish Gaelic: {{t-|gd|saothair|f}}, {{t+|gd|obair|f}}
 * Serbo-Croatian: {{t-|sh|rad}}
 * Slovene: {{t+|sl|delo|n}}
@@ -239,7 +241,7 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 * Swedish: {{t+|sv|arbete|n}}
 * Telugu: {{t+|te|శ్రమ|tr=srama|sc=Telu}}
 * Turkish: {{t+|tr|emek}}
-* West Frisian: [[wurk]] {{n}}, [[arbeid]]
+* West Frisian: {{t|fy|wurk|n}}, {{t|fy|arbeid}}
 * Yiddish: {{t-|yi|אַרבעט|f}}
 {{trans-bottom}}
 
@@ -254,12 +256,12 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 {{trans-bottom}}
 
 {{trans-top|literary, artistic, or intellectual production}}
-* Armenian: {{t-|hy|աշխատանք|tr=ašxatank’}}, {{t-|hy|գործ|tr=gorç}}
+* Armenian: {{t-|hy|աշխատանք|tr=ašxatankʿ}}, {{t-|hy|գործ|tr=gorc}}
 * Bashkir: {{tø|ba|әҫәр|tr=äθär|sc=Cyrl}}
-* Bulgarian: {{t+|bg|произведение|n|sc=Cyrl}}, {{t+|bg|изработка|f|sc=Cyrl}}
+* Bulgarian: {{t+|bg|произведение|n|tr=proizvedénie|sc=Cyrl}}, {{t+|bg|изработка|f|tr=izrabótka|sc=Cyrl}}
 * Chinese:
-*: Mandarin: {{t|cmn|作品|tr=zuò pǐn|sc=Hani}}, {{t|cmn|著作|tr=zhù zuò|sc=Hani}}
-* Czech: [[dílo]] {{n}}, (a master work, craftsmanship) mistrovská [[práce]] {{f}}
+*: Mandarin: {{t|cmn|作品|tr=zuòpǐn|sc=Hani}}, {{t|cmn|著作|tr=zhùzuò|sc=Hani}}
+* Czech: {{t|cs|dílo|n}}, (a master work, craftsmanship) mistrovská [[práce]] {{f}}
 * Danish: {{t-|da|værk|n}}
 * Dutch: {{t+|nl|werk|n}}, {{t-|nl|werkstuk|n}}
 * Esperanto: {{t-|eo|verko}}, {{t-|eo|verkaĵo}}
@@ -270,8 +272,8 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 * Hebrew: {{t+|he|עבודה|f|tr=avodá}}, {{t-|he|מלאכה|f|tr=melakhá}}
 * Irish: {{t-|ga|saothar|m}}
 * Italian: {{t+|it|lavoro}}, {{t+|it|opera}}, {{t+|it|creazione}}
-* Japanese: [[作品]] (さくひん, sakuhin), [[著作]] (ちょさく, chosaku)
-* Korean: [[작품]] (jakpum)
+* Japanese: {{t|ja|作品|tr=さくひん, sakuhin|sc=Jpan}}, {{t|ja|著作|tr=ちょさく, chosaku|sc=Jpan}}
+* Korean: {{t|ko|작품|tr=jakpum|sc=Kore}}
 * Latin: {{t+|la|opus}}
 {{trans-mid}}
 * Latvian: {{t+|lv|darbs|m}}
@@ -282,7 +284,7 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 * Romanian: {{t-|ro|operă|f}}, {{t-|ro|creație|f}}, {{t-|ro|lucrare|f}}
 * Romansch: {{qualifier|Rumantsch Grischun, Sursilvan, Sutsilvan, Surmiran}} {{t-|rm|ovra|f}}, {{qualifier|Puter, Vallader}} {{t-|rm|ouvra|f}}
 * Russian: {{t+|ru|работа|f|tr=rabóta}}, {{t+|ru|труд|m|tr=trud}}, {{t+|ru|произведение|n|tr=proizvedénije}}
-* Scots: [[wark]]
+* Scots: {{t|sco|wark}}
 * Scottish Gaelic: {{t+|gd|obair|f}}, {{t-|gd|saothair|f}}
 * Serbo-Croatian: {{t-|sh|rad|m}}, {{t-|sh|djelo|n}}
 * Slovene: {{t+|sl|delo|n}}
@@ -295,8 +297,8 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 
 {{trans-top|measure of energy expended in moving an object}}
 * Afrikaans: {{t+|af|werk}}
-* Armenian: {{t-|hy|աշխատանք|tr=ašxatank’}}
-* Bulgarian: {{t+|bg|работа|f|sc=Cyrl}}
+* Armenian: {{t-|hy|աշխատանք|tr=ašxatankʿ}}
+* Bulgarian: {{t+|bg|работа|f|tr=rábota|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t|cmn|功|tr=gōng|sc=Hani}}
 * Czech: {{t+|cs|práce|f}}
@@ -307,13 +309,13 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 * Greek: {{t+|el|έργο|n}}
 * Hebrew: {{t+|he|עבודה|f|tr=avodá}}
 * Italian: {{t+|it|lavoro}}
-* Japanese: [[仕事]] (しごと, shigoto)
+* Japanese: {{t|ja|仕事|tr=しごと, shigoto|sc=Jpan}}
 {{trans-mid}}
 * Latvian: {{t+|lv|darbs|m}}
 * Macedonian: {{t-|mk|работа|f|tr=rábota|sc=Cyrl}}
 * Polish: {{t+|pl|praca|f}}
 * Portuguese: {{t+|pt|trabalho|m}}
-* Romanian: [[lucru]] [[mecanic]] {{n}}
+* {{ttbc|ro}}: {{t-SOP|ro|[[lucru]] [[mecanic]]|n}} <!-- was "[[lucru]] [[mecanic]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Russian: {{t+|ru|работа|f|tr=rabóta}}
 * Scottish Gaelic: {{t-|gd|saothair|f}}
 * Serbo-Croatian: {{t-|sh|rad}}
@@ -323,11 +325,11 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 * Swedish: {{t+|sv|arbete|n}}
 * Telugu: {{t-|te|శక్తికొద్దీ|tr=saktikoddi|sc=Telu}}
 * Turkish: {{t+|tr|iş}}
-* West Frisian: [[wurk]]
+* West Frisian: {{t|fy|wurk}}
 {{trans-bottom}}
 
 {{trans-top|thermodynamics: energy in transit between one form or repository and another}}
-* Armenian: {{t-|hy|աշխատանք|tr=ašxatank’}}
+* Armenian: {{t-|hy|աշխատանք|tr=ašxatankʿ}}
 * Finnish: {{t+|fi|työ}}
 * Hebrew: {{t+|he|עבודה|f|tr=avodá}}
 * Italian: {{t+|it|lavoro}}
@@ -337,11 +339,11 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 * Russian: {{t+|ru|работа|f|tr=rabóta}}
 * Scottish Gaelic: {{t-|gd|saothair|f}}
 * Serbo-Croatian: {{t-|sh|rad|m}}
-* West Frisian: [[wurk]]
+* West Frisian: {{t|fy|wurk}}
 {{trans-bottom}}
 
 {{trans-top|fortification}}
-* Bulgarian: {{t+|bg|укрепление|n|sc=Cyrl}}
+* Bulgarian: {{t+|bg|укрепление|n|tr=ukreplénie|sc=Cyrl}}
 * Czech: {{t+|cs|dílo|n}}
 * Danish: {{t-|da|værk|n}}, {{t-|da|forsvarsværk|n}}
 * Finnish: {{t-|fi|varustus}}
@@ -349,7 +351,7 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 {{trans-mid}}
 * Macedonian: {{t-|mk|утврдување|n|tr=utvrdúvanje|sc=Cyrl}}
 * Russian: {{t+|ru|укрепление|n|tr=ukreplénije}}
-* Scots: [[wark]]
+* Scots: {{t|sco|wark}}
 * Spanish: {{t-|es|obras|f-p}}
 {{trans-bottom}}
 
@@ -358,26 +360,26 @@ From {{etyl|ang|en}} {{term|weorc|lang=ang}}, {{term|worc|lang=ang}}, from {{ety
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sq}}: [[punë]]
-* {{ttbc|ar}}: {{t+|ar|عمل|m|tr=3ámal}}
-* {{ttbc|eu}}: [[lan]]
-* {{ttbc|br}}: [[labour]] {{m}}, labourioù {{p}} (1), [[oberenn]] {{f}}, oberennoù {{p}} (3)
-* {{ttbc|bg}}: [[работа]] (rabota) {{f}}
-* {{ttbc|ca}}: [[treball]] {{m}}
+* {{ttbc|sq}}: {{t|sq|punë}}
+* {{ttbc|ar}}: {{t+|ar|عمل|m|tr=ʿámal}}
+* {{ttbc|eu}}: {{t|eu|lan}}
+* {{ttbc|br}}: {{t|br|labour|m}}, {{qualifier|1}} {{t|br|labourioù|p}}, {{t|br|oberenn|f}}, {{qualifier|3}} {{t|br|oberennoù|p}}
+* {{ttbc|bg}}: {{t|bg|работа|f|tr=rabota|sc=Cyrl}}
+* {{ttbc|ca}}: {{t|ca|treball|m}}
 * {{ttbc|frp}}: {{tø|frp|ôvra|f}}, {{tø|frp|besogne|f}}
-* {{ttbc|fr}}: [[travail]] {{m}}
-* {{ttbc|de}}: [[Arbeit]] {{f}} (1,2,3,6,7), [[Werk]] {{n}} (4,5)
-* {{ttbc|grc}}: [[ἔργον]] (ergon) {{n}} (1,2,5,7,8)
-* {{ttbc|hi}}: [[काम]] (kām), [[कार्य]] (kārya), [[कर्म]] (karma)
-* {{ttbc|io}}: [[laboro]], [[laborajo]] (1), [[verko]] (4).
+* {{ttbc|fr}}: {{t|fr|travail|m}}
+* {{ttbc|de}}: {{qualifier|1,2,3,6,7}} {{t|de|Arbeit|f}}, {{qualifier|4,5}} {{t|de|Werk|n}}
+* {{ttbc|grc}}: {{t|grc|ἔργον|n|tr=ergon|sc=polytonic}} (1,2,5,7,8)
+* {{ttbc|hi}}: {{t|hi|काम|tr=kām|sc=Deva}}, {{t|hi|कार्य|tr=kārya|sc=Deva}}, {{t|hi|कर्म|tr=karma|sc=Deva}}
+* {{ttbc|io}}: {{t|io|laboro}}, {{qualifier|1}} {{t|io|laborajo}}, {{qualifier|4}} {{t|io|verko}} .
 {{trans-mid}}
-* {{ttbc|ku}}: [[kar]] {{m}}, [[îş]] {{m}}, [[ked]] {{f}}, [[şol]] {{m}}, [[şuxl]] {{m}}, [[xebat]] {{f}}, [[çalakî]] {{f}}, [[wezîfe]] {{f}}, [[erk]] {{m}}, [[vatinî]] {{f}}
-* {{ttbc|mr}}: [[काम]] (kām), [[कार्य]] (kārya), [[कर्म]] (karma)
-* {{ttbc|fa}}: {{fa-Arab|[[کار]]}} (kār)
-* {{ttbc|pt}}: [[trabalho]] {{m}}
-* {{ttbc|ro}}: [[muncă]] {{f}}, [[treabă]] {{f}}, [[operă]] {{f}}, [[lucrare]] {{f}}
-* {{ttbc|sk}}: [[robota]] {{f}}
-* {{ttbc|sw}}: [[kazi]] ''(noun 9/10)'' (1,2)
+* {{ttbc|ku}}: {{t|ku|kar|m}}, {{t|ku|îş|m}}, {{t|ku|ked|f}}, {{t|ku|şol|m}}, {{t|ku|şuxl|m}}, {{t|ku|xebat|f}}, {{t|ku|çalakî|f}}, {{t|ku|wezîfe|f}}, {{t|ku|erk|m}}, {{t|ku|vatinî|f}}
+* {{ttbc|mr}}: {{t|mr|काम|tr=kām|sc=Deva}}, {{t|mr|कार्य|tr=kārya|sc=Deva}}, {{t|mr|कर्म|tr=karma|sc=Deva}}
+* {{ttbc|fa}}: {{t|fa|کار|tr=kār|sc=fa-Arab}}
+* {{ttbc|pt}}: {{t|pt|trabalho|m}}
+* {{ttbc|ro}}: {{t|ro|muncă|f}}, {{t|ro|treabă|f}}, {{t|ro|operă|f}}, {{t|ro|lucrare|f}}
+* {{ttbc|sk}}: {{t|sk|robota|f}}
+* {{ttbc|sw}}: {{qualifier|noun 9/10}} {{t|sw|kazi}} '''' (1,2)
 * {{ttbc|te}}: {{t+|te|పని}} (pani) (1, 2), {{t-|te|ఉద్యొగము}} (udyogamu) (1), {{t+|te|శ్రమ}} (srama) (2)
 {{trans-bottom}}
 
