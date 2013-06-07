@@ -441,7 +441,7 @@ From {{etyl|enm|en}} {{term|open|lang=enm}}, from {{etyl|ang|en}} {{term|open||o
 * Danish: {{t+|da|begynde}}
 * Dutch: {{t+|nl|aansnijden}}
 * Estonian: {{t-|et|alustama}}
-* {{ttbc|fi}}: {{t-SOP|fi|[[ottaa]] [[esille]]}} <!-- was "[[ottaa]] [[esille]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-SOP|fi|[[avata]] [[keskustelu]]}} <!-- was "[[avata]] [[keskustelu]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Finnish: {{t+|fi|avata}}
 * Greek: {{t+|el|ανοίγω|tr=anoígo}}
 * Hungarian: {{t+|hu|nyit}}
 * Italian: {{t+|it|toccare}}
@@ -493,7 +493,7 @@ From {{etyl|enm|en}} {{term|open|lang=enm}}, from {{etyl|ang|en}} {{term|open||o
 * Danish: {{t+|da|indlede}}
 * Esperanto: {{t-|eo|komenci}}
 * Estonian: {{t-|et|avama}}
-* Finnish: {{t+|fi|avata}}
+* Finnish: {{t+|fi|aloittaa}}
 * German: {{t+|de|eröffnen}}
 {{trans-mid}}
 * Norwegian: {{t-|no|innlede}}
@@ -512,7 +512,7 @@ From {{etyl|enm|en}} {{term|open|lang=enm}}, from {{etyl|ang|en}} {{term|open||o
 * Esperanto: {{t-|eo|malfermiĝi}}
 * Estonian: {{t-|et|avanema}}
 * Ewe: {{tø|ee|ʋu}}
-* Finnish: {{t+|fi|aueta}}
+* Finnish: {{t+|fi|aueta}}, {{t|fi|avautua}}
 * {{ttbc|de}}: {{t-SOP|de|[[öffnete]] [[sich]]}} <!-- was "[[öffnete]] [[sich]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Greek: {{t+|el|ανοίγω|tr=anoígo}}
 * Hindi: {{t-|hi|खुलना|tr=khulnā|sc=Deva}}
@@ -546,7 +546,7 @@ From {{etyl|enm|en}} {{term|open|lang=enm}}, from {{etyl|ang|en}} {{term|open||o
 * Esperanto: {{t-|eo|malfermiĝi}}
 * Estonian: {{t-|et|avama}}
 * Ewe: {{tø|ee|ʋu}}
-* Finnish: {{t+|fi|avata}}
+* Finnish: {{t+|fi|aueta}}
 * German: {{t+|de|offen}}, {{t+|de|geöffnet}}
 * Greek: {{t+|el|ανοίγω|tr=anoígo}}
 {{trans-mid}}
@@ -561,8 +561,23 @@ From {{etyl|enm|en}} {{term|open|lang=enm}}, from {{etyl|ang|en}} {{term|open||o
 * Swedish: {{t+|sv|öppna}}
 {{trans-bottom}}
 
-{{trans-top|to begin a side's innings}}
+{{trans-top|cricket: to begin a side's innings}}
 * Swahili: {{t+|sw|fungua}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|poker: to bet before any other player}}
+* Finnish: {{t|fi|avata}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|poker: to reveal one's hand}}
+* Finnish: {{t|fi|näyttää}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|computing: to load into memory}}
+* Finnish: {{t|fi|avata}}
 {{trans-mid}}
 {{trans-bottom}}
 
