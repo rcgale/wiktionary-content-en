@@ -52,13 +52,13 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term|axian|
 * Asturian: {{t-|ast|entrugar}}
 * Basque: {{t-|eu|galdetu}}
 * Belarusian: {{t-|be|пытаць|tr=pytácʹ|sc=Cyrl}} {{impf}}, {{t-|be|запытаць|tr=zapytácʹ|sc=Cyrl}} {{pf.}}
-* Binisayâ: [[pagpakiana]], [[pagusisa]], [[panginsayod]]
+* {{ttbc|Binisayâ}}<!-- name not recognised by xte: update [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: [[pagpakiana]], [[pagusisa]], [[panginsayod]]
 * Bulgarian: {{t+|bg|питам|tr=pítam}}
 * Burmese: {{t-|my|မးတဟ္|tr=metah}}
 * Catalan: {{t+|ca|preguntar}}
 * Chinese:
 *: Mandarin: {{t|cmn|問|sc=Hani}}, {{t|cmn|问|tr=wèn|sc=Hani}}, {{t|cmn|詢問|sc=Hani}}, {{t|cmn|询问|tr=xúnwèn|sc=Hani}}
-* Czech: [[ptát]] se
+* {{ttbc|cs}}: {{t|cs|ptát|alt=ptát se}} <!-- was "[[ptát]] se" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Danish: {{t+|da|spørge}}
 * Dutch: {{t+|nl|vragen}}
 * Esperanto: {{t-|eo|demandi}}
@@ -67,7 +67,7 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term|axian|
 * Finnish: {{t+|fi|kysyä}}
 * French: {{t+|fr|demander}}, {{t+|fr|questionner}}, {{t+|fr|poser}} {{qualifier|une question}}
 * {{trreq|ka}}
-* German: {{t+|de|fragen}},  {{qualifier|eine Frage}} {{t+|de|stellen}}
+* German: {{t+|de|fragen}}, {{qualifier|eine Frage}} {{t+|de|stellen}}
 * Greek: {{t+|el|ρωτώ|tr=rotó}}
 * Hawaiian: {{tø|haw|nīnau}}, {{tø|haw|ui}}, {{tø|haw|noi}}
 * Hebrew: {{t+|he|שאל|alt=שָׁאַל|tr=sha'ál}}
@@ -79,14 +79,14 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term|axian|
 * Interlingua: {{t-|ia|demandar}}
 * Irish: {{t-|ga|ceistigh}}, {{t-|ga|fiafraigh}}, {{t-|ga|iarr}}
 * Italian: {{t+|it|chiedere}}, {{t+|it|domandare}}, {{t+|it|interrogare}}
-* Jamaican Creole: {{tø|jam|aax}},  {{tø|jam|ax}}
+* Jamaican Creole: {{tø|jam|aax}}, {{tø|jam|ax}}
 * Japanese: {{t+|ja|聞く|tr=きく, kiku|sc=Jpan}}, {{t-|ja|尋ねる|tr=たずねる, tazuneru|sc=Jpan}}
 * Jèrriais: {{tø|roa-jer|d'mander}}
 * Kannada: {{t+|kn|ಕೇಳು|tr=kēḷu}}
 * Khmer: {{t+|km|សួរ|tr=suer}}, {{t+|km|សុំ|tr=som}}
 * Korean: {{t+|ko|묻다|tr=mutda|sc=Kore}}, {{t+|ko|질문|tr=jilmun-hada|alt=질문하다|sc=Kore}}
 * Kurdish:
-*: Kurmanji: {{t+|ku|pirsîn}}, [[pirs]] kirin, [[pirsiyar]] kirin
+*: {{ttbc|Kurmanji}}: {{t+|ku|pirsîn}}, {{t|kmr|pirs|alt=pirs kirin}} <!-- was "[[pirs]] kirin" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|kmr|pirsiyar|alt=pirsiyar kirin}} <!-- was "[[pirsiyar]] kirin" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 *: Sorani: {{t-|ku|پرسین|tr=pirsîn|sc=ku-Arab}}, {{t-|ku|داوا کردن|tr=dawa kirdin|sc=ku-Arab}}
 {{trans-mid}}
 * Latgalian: {{tø|ltg|lyugt}}, {{tø|ltg|praseit}}
@@ -94,8 +94,8 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term|axian|
 * Latvian: {{t-|lv|lūgt}}, {{t-|lv|prasīt}}
 * Lojban: {{t-|jbo|cpedu}}
 * Luxembourgish: {{t+|lb|froen}}
-* Middle High German: [[vrâgen]]
-* Northern Sami: [[jearrat]]
+* Middle High German: {{t|gmh|vrâgen}}
+* Northern Sami: {{t|se|jearrat}}
 * Norwegian:
 *: Bokmål: {{t+|no|spørre}}
 *: Nynorsk: {{t-|nn|spørje}}
@@ -108,7 +108,7 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term|axian|
 * Quechua: {{t+|qu|tapuy}}
 * Romanian: {{t+|ro|întreba}}
 * Romansch: {{t-|rm|dumandar}}
-* Russian: {{t+|ru|спрашивать|tr=sprášivatʹ|sc=Cyrl}} {{impf}}, {{t+|ru|спросить|tr=sprosítʹ|sc=Cyrl}} {{pf.}}; {{t+|ru|задавать|tr=zadavátʹ|sc=Cyrl}} {{impf}}, {{t+|ru|задать|tr=zadátʹ|sc=Cyrl}} {{pf.}} {{qualifier|+ [[вопрос]] (voprós)}}
+* Russian: {{t+|ru|спрашивать|tr=sprášivatʹ|sc=Cyrl}} {{impf}}, {{t+|ru|спросить|tr=sprosítʹ|sc=Cyrl}} {{pf.}}, {{t+|ru|задавать|tr=zadavátʹ|sc=Cyrl}} {{impf}}, {{t+|ru|задать|tr=zadátʹ|sc=Cyrl}} {{pf.}} {{qualifier|+ [[вопрос]] (voprós)}}
 * Sanskrit: {{t-|sa|पृच्छ्|tr=pṛicch|sc=Deva}}
 * Sardinian: {{t-|sc|dimandhare}}
 * Scots: {{tø|sco|speir}}
@@ -129,7 +129,7 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term|axian|
 * Urdu: {{t-|ur|پوچھنا|tr=pūchnā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|hỏi}}, {{t+|vi|chất vấn}}
 * Welsh: {{t+|cy|gofyn}}, {{t+|cy|holi}}, {{t+|cy|ceisio}}
-* Xhosa: [[ukubuza]]
+* Xhosa: {{t|xh|ukubuza}}
 * Yiddish: {{t-|yi|פֿרעגן|tr=fregn}}
 * Zulu: {{t-|zu|buza}}, {{t-|zu|nxusa}}, {{t-|zu|ncenga}}, {{t-|zu|cela}}
 {{trans-bottom}}
@@ -139,8 +139,8 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term|axian|
 * Arabic: {{t-|ar|طلب|alt=طَلَبَ|tr=ṭalaba}}, {{t-|ar|رجا|alt=رَجا|tr=rajā}}
 * Armenian: {{t-|hy|խնդրել|tr=xndrel}}
 * Belarusian: {{t-|be|прасіць|tr=prasícʹ|sc=Cyrl}} {{impf}}, {{t-|be|папрасіць|tr=paprasícʹ|sc=Cyrl}} {{pf.}}
-* Binisayâ: [[pagpakiana]], [[pagusisa]], [[panginsayod]]
-* Bulgarian: {{t+|bg|моля|tr=mólja}},  {{t+|bg|искам|tr=ískam}}
+* {{ttbc|Binisayâ}}<!-- name not recognised by xte: update [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: [[pagpakiana]], [[pagusisa]], [[panginsayod]]
+* Bulgarian: {{t+|bg|моля|tr=mólja}}, {{t+|bg|искам|tr=ískam}}
 * Burmese: {{t-|my|မးတဟ္|tr=metah}}
 * Catalan: {{t+|ca|demanar}}
 * Chinese:
@@ -192,7 +192,7 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term|axian|
 *: Roman: {{t-|sh|pitati}}, {{t-|sh|moliti}}
 * Slovak: {{t-|sk|žiadať}}, {{t-|sk|prosiť}}
 * Slovene: {{t+|sl|prositi}}
-* Spanish: {{t+|es|pedir}},  {{t+|es|requerir}}
+* Spanish: {{t+|es|pedir}}, {{t+|es|requerir}}
 * Swahili: {{t-|sw|kuomba}}
 * Swedish: {{t+|sv|be}} {{t+|sv|om}}
 * Telugu: {{t+|te|అడుగు|tr=aDugu}}
@@ -202,7 +202,7 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term|axian|
 * Urdu: {{t-|ur|مانگنا|tr=māṅgnā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|cầu xin}}
 * Welsh: {{t+|cy|gofyn}}, {{t+|cy|holi}}, {{t+|cy|ceisio}}
-* Xhosa: [[ukucela]]
+* Xhosa: {{t|xh|ukucela}}
 * Yiddish: {{t-|yi|בעטן|tr=betn}}
 * Zulu: {{t-|zu|buza}}, {{t-|zu|nxusa}}, {{t-|zu|ncenga}}, {{t-|zu|cela}}
 {{trans-bottom}}
