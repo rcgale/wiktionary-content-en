@@ -16,7 +16,7 @@ From {{etyl|enm|en}} {{term|ten|lang=enm}}, {{term|tene|lang=enm}}, from {{etyl|
 ===Numeral===
 {{head|en|numeral}}
 
-# {{cardinal}} A [[numerical]] [[value]] equal to [[10]]; the [[number]] occurring after [[nine]] and before [[eleven]], represented in [[Roman numerals]] as [[X]], in [[Arabic numerals]] (and base ten) as 10, and in the [[hexadecimal|hexadecimal system]] (base 16) as A. <!-- ISO prefix: [[deka-]] / (''more commonly used form'') [[deca-]]. -->
+# {{context|cardinal}} A [[numerical]] [[value]] equal to [[10]]; the [[number]] occurring after [[nine]] and before [[eleven]], represented in [[Roman numerals]] as [[X]], in [[Arabic numerals]] (and base ten) as 10, and in the [[hexadecimal|hexadecimal system]] (base 16) as A. <!-- ISO prefix: [[deka-]] / (''more commonly used form'') [[deca-]]. -->
 
 ====Related terms====
 * [[tenth]]
@@ -210,11 +210,11 @@ From {{etyl|enm|en}} {{term|ten|lang=enm}}, {{term|tene|lang=enm}}, from {{etyl|
 ===Noun===
 {{en-noun|s|-}}
 
-# {{uncountable}} The number following [[nine]].
-# {{countable}} (''[[playing_cards|Cards]]'') The card between the [[nine]] and [[jack]] in a given suit.
-# {{countable}} A monetary denomination worth ten units.
-# {{countable|US|slang}} A superb specimen.
-## {{countable|slang}} A [[beautiful]] or [[sexy]] person; a person whom one gives the highest possible rating on a 1-to-10 scale of attractiveness.
+# {{context|uncountable}} The number following [[nine]].
+# {{context|countable}} (''[[playing_cards|Cards]]'') The card between the [[nine]] and [[jack]] in a given suit.
+# {{context|countable}} A monetary denomination worth ten units.
+# {{context|countable|US|slang}} A superb specimen.
+## {{context|countable|slang}} A [[beautiful]] or [[sexy]] person; a person whom one gives the highest possible rating on a 1-to-10 scale of attractiveness.
 
 ====Translations====
 {{rfc}}
@@ -458,7 +458,7 @@ From {{etyl|sla-pro|pl}} {{recons|tъ|lang=sla-pro}}, from {{etyl|ine-pro|pl}} {
 ===Pronoun===
 {{head|pl|pronoun|g=m}}
 
-# {{demonstrative|lang=pl}} [[this]] (nearby)
+# {{context|demonstrative|lang=pl}} [[this]] (nearby)
 
 ====Declension====
 {| style="margin-bottom:1em; margin-right:1em; border: 1px solid #AAAAAA; border-collapse:collapse;" cellpadding="4" rules="all"
@@ -568,7 +568,7 @@ From {{etyl|fa|tr}} {{term|تن|tr=tan|sc=fa-Arab|lang=fa}}.
 
 # [[skin]]
 # [[body]]
-# {{dialectal|lang=tr}} vulva of a cow
+# {{context|dialectal|lang=tr}} vulva of a cow
 
 ====Declension====
 {{tr-noun-c|e|d|pred=-|poss=+}}
