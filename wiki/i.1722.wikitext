@@ -443,6 +443,9 @@ From {{etyl|poz-pol-pro|haw}} {{recons|i|lang=poz-pol-pro}}.
 
 ==Irish==
 
+===Alternative forms===
+* {{l/ga|in}} {{qualifier|used before vowels in place of {{ga-mut-link|e}}; also used before ''{{l|ga|bhur}}'' (‘your {{p}}’), before ''{{l|ga|dhá}}'' (‘two’), before titles of books, films, and the like, and before foreign words that resist mutation}}
+
 ===Etymology===
 From {{etyl|sga|ga}} {{term|i|lang=sga}}, from {{etyl|cel-pro|ga}} {{recons|eni|lang=cel-pro}} (compare Welsh {{term|yn|lang=cy}}), from {{etyl|ine-pro|ga}} {{recons|en|lang=ine-pro}} (compare English {{term|in|lang=en}}, Latin {{term|in|lang=la}}, Greek {{term|ἐν|tr=en|lang=grc|sc=polytonic}}).
 
@@ -450,7 +453,7 @@ From {{etyl|sga|ga}} {{term|i|lang=sga}}, from {{etyl|cel-pro|ga}} {{recons|eni|
 * {{IPA|lang=ga|/ɪ/}}
 
 ===Preposition===
-{{ga-prep}} {{qualifier|triggers {{ga mut link|e}} of a following consonant}}
+{{ga-prep}} {{qualifier|triggers {{ga-mut-link|e}} of a following consonant}}
 
 # [[in]]
 
@@ -466,15 +469,17 @@ From {{etyl|sga|ga}} {{term|i|lang=sga}}, from {{etyl|cel-pro|ga}} {{recons|eni|
 |3pl = iontu
 }}
 
-====Alternative forms====
-* {{l|ga|in}} {{qualifier|used before vowels in place of eclipsis; also used before ''{{l|ga|bhur}}'' ("your {{p}}"), before ''{{l|ga|dhá}}'' ("two"), before titles of books, films, and the like, and before foreign words that resist mutation}}
-
+====Derived terms====
 Combined with [[definite article]]:
-* {{l|ga|sa}} (before consonants), {{l|ga|san}} (before vowels): in the ([[singular|sg.]]) (triggers {{ga mut link|l}})
-* {{l|ga|sna}}: in the ([[plural|pl.]]) (triggers {{ga mut link|h}})
+* {{l/ga|sa}} {{qualifier|before consonants in the singular; triggers {{ga-mut-link|l}}}}
+* {{l/ga|san}} {{qualifier|before vowels in the singular; triggers {{ga-mut-link|l}}}}
+* {{l/ga|sna}} {{qualifier|in the plural; triggers {{ga-mut-link|h}}}}
 
 Combined with third person possessive:
-* {{l|ga|ina}}: in his/her/their (triggers {{ga mut link|l}}, {{ga mut link|h}}, or {{ga mut link|e}} respectively)
+* {{l|ga|ina|gloss=in his/her/their}} {{qualifier|triggers {{ga-mut-link|l}}, {{ga-mut-link|h}}, or {{ga-mut-link|e}} respectively}}
+
+Combined with first person plural possessive:
+* {{l|ga|inár|gloss=in our}}
 
 ----
 
