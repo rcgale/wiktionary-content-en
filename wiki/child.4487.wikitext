@@ -84,7 +84,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|sc=unicode|cild|ċild|child, i
 * Basque: {{t+|eu|sein}}, {{t-|eu|ume}}
 * Belarusian: {{t-|be|дзіця|n|tr=dzicjá|sc=Cyrl}}, {{t-|be|рабёнак|m|tr=rabjónak|sc=Cyrl}}
 * Bengali: {{t-|bn|শিশু|tr=śiśu|sc=Beng}}, {{t-|bn|চাইল্ড|tr=cā'ilḍ|sc=Beng}}
-* Breton: [[bugel]] {{m}}
+* Breton: {{t|br|bugel|m}}
 * Bulgarian: {{t+|bg|дете|n|tr=deté}}, {{t+|bg|рожба|f|tr=róžba}}
 * Burmese: {{t+|my|ကလေး|tr=hkăle:|sc=Mymr}}
 * Catalan: {{t+|ca|nen}}
@@ -114,7 +114,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|sc=unicode|cild|ċild|child, i
 * {{trreq|gu}}
 * {{trreq|ha}}
 * Hawaiian: {{tø|haw|keiki}}
-* Hebrew: {{t+|he|ילד|m|tr=yéled|alt=יֶלֶד|sc=Hebr}} (male child or child in general), {{t+|he|ילדה|f|tr=yaldá|alt=יַלְדָּה|sc=Hebr}} (female child); {{t+|he|בן|m|tr=ben|alt=בֵּן|sc=Hebr}} (son), {{t+|he|בת|f|tr=bat|alt=בַּת|sc=Hebr}} (daughter)
+* Hebrew: {{t+|he|ילד|m|tr=yéled|alt=יֶלֶד|sc=Hebr}} (male child or child in general), {{t+|he|ילדה|f|tr=yaldá|alt=יַלְדָּה|sc=Hebr}} (female child), {{t+|he|בן|m|tr=ben|alt=בֵּן|sc=Hebr}} (son), {{t+|he|בת|f|tr=bat|alt=בַּת|sc=Hebr}} (daughter)
 * Hindi: {{t+|hi|बच्चा|m|tr=baccā|sc=Deva}}, {{qualifier|son}} {{t+|hi|बेटा|m|tr=beṭā|sc=Deva}}, {{qualifier|daughter}} {{t+|hi|बेटी|f|tr=beṭī|sc=Deva}}, {{t-|hi|शिशु|m|tr=śíśu|sc=Deva}}, {{t-|hi|बालक|tr=bālak|sc=Deva}}
 * Hungarian: {{t+|hu|gyerek}}, {{t+|hu|gyermek}}
 * Icelandic: {{t+|is|barn|n}}
@@ -122,13 +122,13 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|sc=unicode|cild|ċild|child, i
 * {{trreq|ig}}
 * Ilocano: {{tø|ilo|anak}}
 * Indonesian: {{t+|id|anak}}, {{t-|id|kanak}}
-* Interlingua: [[filia]] {{f}}
+* Interlingua: {{t|ia|filia|f}}
 * {{trreq|ie}}
 * Irish: {{t+|ga|páiste|m}}
 * Italian: {{t+|it|bambino|m}}, {{t+|it|bambina|f}}, {{t+|it|figlio|m}}, {{t+|it|figlia|f}}
 * Jamaican Creole: {{tø|jam|pikiny}}
 * Japanese: {{t+|ja|子供|tr=[[こども]], kodomo}}, {{t+|ja|子|tr=[[こ]], ko}}
-* Jèrriais: [[êfant]] {{m|f}}, [[avé]] {{m}}, [[mousse]] {{m|f}}
+* Jèrriais: {{t|roa-jer|êfant|m|f}}, {{t|roa-jer|avé|m}}, {{t|roa-jer|mousse|m|f}}
 * Kalenjin: {{tø|kln|lakwet}}
 * Kannada: {{t+|kn|ಹಸುಳೆ|tr=hasuḷe|sc=Knda}}, {{t+|kn|ಮಗು|tr=magu|sc=Knda}}
 * Kazakh: {{t+|kk|бала|tr=bala|sc=Cyrl}}
@@ -144,7 +144,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|sc=unicode|cild|ċild|child, i
 * Latin: {{t+|la|filius|m}}, {{t+|la|filia|f}}
 * Latvian: {{t+|lv|bērns}}
 * Lithuanian: {{t+|lt|vaikas|m}}
-* Livonian: [[läpš]]
+* Livonian: {{t|liv|läpš}}
 * Low German: {{t+|nds|Kind|n}}
 * {{trreq|lg}}
 {{trans-mid}}
@@ -200,10 +200,10 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|sc=unicode|cild|ċild|child, i
 * Tagalog: {{t+|tl|anak}}
 * Tajik: {{t-|tg|кӯдак|tr=kūdak|sc=Cyrl}}
 * Talysh:
-*: Anbarani: {{tø|tly|باله|tr=bâla}}
-*: Asalemi: {{tø|tly|خردن|tr=xərdan|sc=fa-Arab}}
+*: {{ttbc|Anbarani}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{tø|tly|باله|tr=bâla}}
+*: {{ttbc|Asalemi}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{tø|tly|خردن|tr=xərdan|sc=fa-Arab}}
 * Tamil: {{t+|ta|குழந்தை|tr=kuḻantai|sc=Taml}}
-* Taos: [[ȕ’úna]]
+* Taos: {{t|twf|ȕ’úna}}
 * Tatar: {{t+|tt|бала|tr=bala|sc=Cyrl}}
 * Telugu: {{t+|te|పాప|tr=pāpa}}
 * Thai: {{t-|th|ศิศุ|tr=sìsù|sc=Thai}}
@@ -216,16 +216,16 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|sc=unicode|cild|ċild|child, i
 * Uyghur: {{t+|ug|بالا|sc=ug-Arab}}
 * Uzbek: {{t-|uz|bola}}
 * Veps: {{tø|vep|laps'}}
-* Vietnamese: {{t+|vi|đứa bé}}, {{t-|vi|đứa trẻ}}, {{t+|vi|con}},(offspring) {{t+|vi|tử}} (tử is a sino-vietnamese word)
+* Vietnamese: {{t+|vi|đứa bé}}, {{t-|vi|đứa trẻ}}, {{t+|vi|con}}, (offspring) {{t+|vi|tử}} (tử is a sino-vietnamese word)
 * Volapük: {{qualifier|♂♀}} {{t+|vo|cil}}, {{qualifier|♂}} {{t+|vo|hicil}}, {{qualifier|♀}} {{t+|vo|jicil}}, {{qualifier|♂}} {{t+|vo|son|}}, {{qualifier|♀}} {{t+|vo|daut}}, {{qualifier|♀}} {{t-|vo|jison}}, {{qualifier|collective}} {{t-|vo|cilef}}
 * Welsh: {{t+|cy|plentyn|m}}
-* West Frisian: [[bern]] {{n}}
+* West Frisian: {{t|fy|bern|n}}
 * {{trreq|wo}}
 * {{trreq|xh}}
 * Yiddish: {{t-|yi|קינד|n|tr=kind}}, {{t-|yi|קינדער|p|tr=kinder}}
 * {{trreq|yo}}
 * Zulu: {{t-|zu|umntwana|c1|c2}}, {{t-|zu|ingane|c9|c10}}
-* ǃXóõ: [[ʘqa̰a]]
+* ǃXóõ: {{t|nmn|ʘqa̰a}}
 {{trans-bottom}}
 
 {{trans-top|member of a tribe, a people or a race of beings}}
@@ -244,22 +244,22 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|sc=unicode|cild|ċild|child, i
 * Armenian: {{t-|hy|երեխա|tr=erexa}}, {{t-|hy|մանուկ|tr=manuk}}
 * Baluchi: {{tø|bal|چک|tr=cukk}}
 * Bashkir: {{tø|ba|бала|tr=bala|sc=Cyrl}}
-* Breton: {{t|br|minor|m}}, -ed {{p}}
+* Breton: {{t|br|minor|m}}, {{t|br|minored|p}}
 * Bulgarian: {{t+|bg|дете|n|tr=deté}}
 * Burmese: {{t+|my|ကလေး|tr=hkăle:|sc=Mymr}}
-* Catalan: [[nen]]
+* Catalan: {{t|ca|nen}}
 * Chinese:
 *: Cantonese {{tø|yue|細路|tr=sai lo|sc=Hant}}, {{tø|yue|細蚊仔|tr=sai mun tsai|sc=Hant}}, {{tø|yue|細路哥|tr=sai lo ko|sc=Hant}}
 *: Mandarin: {{t+|cmn|小孩|tr=xiǎohái|sc=Hani}}, {{t+|cmn|小孩子|tr=xiǎoháizi|sc=Hani}}, {{t+|cmn|孩子|tr=háizi|sc=Hani}}, {{t|cmn|小孩兒|sc=Hani}}, {{t+|cmn|小孩儿|tr=xiǎoháir|sc=Hani}}
 *: Min Nan: {{t+|nan|囡仔|tr=[[gín-á]]|sc=Hans}}
 *:: [[Teochew]]: {{t-|nan|孥囝|tr=nou5gian2|sc=Hans}}
-* Crimean Tatar: [[bala#Crimean Tatar|bala]]
+* Crimean Tatar: {{t|crh|bala}}
 * Czech: {{t+|cs|dítě|n}}
 * Danish: {{t+|da|barn|n}}, {{t+|da|børn|p}}
 * Dutch: {{t+|nl|kind|n}}
 * Esperanto: {{qualifier|male or female}} {{t+|eo|infano}}, {{qualifier|male}} {{t-|eo|virinfano}}, {{qualifier|female}} {{t-|eo|infanino}}
 * Estonian: {{t+|et|laps}}
-* Ewe: [[ɖevi]]
+* Ewe: {{t|ee|ɖevi}}
 * Fijian: {{t+|fj|gone}}
 * Finnish: {{t+|fi|lapsi}}
 * French: {{t+|fr|enfant|m}}
@@ -275,8 +275,8 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|sc=unicode|cild|ċild|child, i
 * Interlingua: {{t|ia|infante}}
 * Irish: {{t+|ga|páiste|m}}
 * Italian: {{t+|it|bambino|m}}, {{t+|it|bambina|f}}
-* Japanese: [[子供]] ([[こども]], kodomo), [[子]] ([[こ]], ko), [[未成年]] (mi-seinen)
-* Jèrriais: [[êfant]] {{m|f}}, [[avé]] {{m}}, [[mousse]] {{m|f}}
+* Japanese: {{t|ja|子供|tr=[[こども]], kodomo|sc=Jpan}}, {{t|ja|子|tr=[[こ]], ko|sc=Jpan}}, {{t|ja|未成年|tr=mi-seinen|sc=Jpan}}
+* Jèrriais: {{t|roa-jer|êfant|m|f}}, {{t|roa-jer|avé|m}}, {{t|roa-jer|mousse|m|f}}
 * Kurdish:
 *: Sorani: {{t-|ku|بچووک|tr=[[biçûk]]|sc=ku-Arab}}, {{t-|ku|مناڵ|tr=minall|sc=ku-Arab}}, {{t-|ku|منداڵ|tr=mindall|sc=ku-Arab}}
 {{trans-mid}}
@@ -285,7 +285,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|sc=unicode|cild|ċild|child, i
 * Latvian: {{t+|lv|bērns|m}}
 * Lezgi: {{tø|lez|аял|sc=Cyrl}}
 * Lithuanian: {{t+|lt|vaikas|m}}
-* Livonian: [[läpš]]
+* Livonian: {{t|liv|läpš}}
 * Macedonian: {{t-|mk|дете|n|tr=déte}}
 * Maltese: {{t-|mt|tifla}}
 * Ngarrindjeri: {{tø|nay|porli}}
@@ -294,8 +294,8 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|sc=unicode|cild|ċild|child, i
 * Persian: {{t+|fa|بچه|tr=bačče, bače|sc=fa-Arab}}, {{t+|fa|کودک|tr=kudak|sc=fa-Arab}}, {{t-|fa|بچ|sc=fa-Arab}} {{qualifier|dialectal}}
 * Polish: {{t+|pl|dziecko|n}}
 * Portuguese: {{t+|pt|criança|f}}, {{t+|pt|menino|m}}, {{t+|pt|menina|f}}
-* Potawatomi: [[penoje]]
-* Romanian: [[copil]] {{m}}, [[copilă]] {{f}}
+* Potawatomi: {{t|pot|penoje}}
+* Romanian: {{t|ro|copil|m}}, {{t|ro|copilă|f}}
 * Romansch: {{t-|rm|uffant|m}}, {{t-|rm|affon|m}}, {{t-|rm|unfànt|m}}, {{t-|rm|unfant|m}}, {{t-|rm|iffaunt|m}}
 * Russian: {{t+|ru|ребёнок|m|tr=rebjónok}}, {{t+|ru|дитя|n|tr=ditjá}}
 * Samogitian: {{tø|sgs|vāks|m}}
@@ -326,11 +326,11 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|sc=unicode|cild|ċild|child, i
 *: Cantonese {{tø|yue|仔|tr=tsai|sc=Hant}}
 * Czech: {{t+|cs|dcera|f}}
 * Dutch: {{t+|nl|kind|n}}
-* Finnish: [[lapsiobjekti]]
+* Finnish: {{t|fi|lapsiobjekti}}
 * Greek: {{t+|el|απότοκος|m|tr=apótokos}}
 {{trans-mid}}
 * Icelandic: {{t+|is|barn}}
-* Japanese: [[子]] ([[こ]], ko)
+* Japanese: {{t|ja|子|tr=[[こ]], ko|sc=Jpan}}
 * Norwegian: {{t+|no|barn|n}}
 * Russian: {{t+|ru|дочерний}}
 * Swahili: {{t+|sw|mwana}}
@@ -338,17 +338,17 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|sc=unicode|cild|ċild|child, i
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|br}}: [[krouadur]] {{m}}, -ien (young child)
-* {{ttbc|gn}}: [[mitã'i]]
-* {{ttbc|id}}: [[anak]], [[bocah]]
-* {{ttbc|ia}}: [[infante]]
-* {{ttbc|ko}}: [[어린이]] (eorini)
+* {{ttbc|br}}: {{t|br|krouadur|m}}, {{qualifier|young child}} {{t|br|-ien}}
+* {{ttbc|gn}}: {{t|gn|mitã'i}}
+* {{ttbc|id}}: {{t|id|anak}}, {{t|id|bocah}}
+* {{ttbc|ia}}: {{t|ia|infante}}
+* {{ttbc|ko}}: {{t|ko|어린이|tr=eorini|sc=Kore}}
 {{trans-mid}}
-* {{ttbc|ku}}: [[zarrok]]
+* {{ttbc|ku}}: {{t|ku|zarrok}}
 * {{ttbc|mt}}: {{t-|mt|iben}}, {{t+|mt|tifel}}
-* {{ttbc|nov}}: [[puere]]
-* {{ttbc|fa}}: {{fa-Arab|[[بچه|بَچِّه]]}} (bæčče)
-* {{ttbc|tpn}}: [[pitanga]]
+* {{ttbc|nov}}: {{t|nov|puere}}
+* {{ttbc|fa}}: {{t|fa|بچه|tr=bæčče|alt=بَچِّه|sc=fa-Arab}} <!-- was "[[بچه|بَچِّه]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|tpn}}: {{t|tpn|pitanga}}
 {{trans-bottom}}
 
 ===References===
