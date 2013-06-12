@@ -6,7 +6,7 @@
 * [[natuer]] {{qualifier|obsolete}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{term|nature|natur, nature|lang=enm}}, from {{etyl|fro|en}} {{term|nature||lang=fro}}, from {{etyl|la|en}} {{term|natura||birth, origin, natural constitution or quality|lang=la}}, future participle from perfect passive participle ''[[natus|(g)natus]]'' (born), from [[deponent]] verb {{term|nasci|(g)nasci|to be born, originate}} + future participle suffix {{term|-urus|lang=en}}. Replaced native [[Middle English]] {{term|cunde|cunde, icunde|nature, property, type, genus, character|lang=enm}} (from [[Old English]] {{term|gecynd|ġecynd|lang=ang}}), [[Middle English]] {{term|lund||nature, disposition|lang=enm}} (from [[Old Norse]] {{term|lund||lang=non}}), [[Middle English]] {{term|burthe||nature, birth, nation|lang=enm}} (from [[Old English]] {{term|gebyrd|ġebyrd|lang=ang}} and [[Old Norse]] *''byrðr''). More at [[kind]].
+From {{etyl|enm}} {{term|nature|natur, nature|lang=enm}}, from {{etyl|fro}} {{term|nature||lang=fro}}, from {{etyl|la}} {{term|natura|nātūra|birth, origin, natural constitution or quality|lang=la}}, future participle from perfect passive participle {{term|natus|(g)natus|born|lang=la}}, from [[deponent]] verb {{term|nasci|(g)nasci|to be born, originate}} + future participle suffix {{term|-urus|lang=en}}. Replaced native {{etyl|enm|-}} {{term|cunde|cunde, icunde|nature, property, type, genus, character|lang=enm}} (from {{etyl|ang|-}} {{term|gecynd|ġecynd|lang=ang}}), {{etyl|enm|-}} {{term|lund||nature, disposition|lang=enm}} (from {{etyl|non|-}} {{term|lund||lang=non}}), {{etyl|enm|-}} {{term|burthe||nature, birth, nation|lang=enm}} (from {{etyl|ang|-}} {{term|gebyrd|ġebyrd|lang=ang}} and {{etyl|non|-}} {{recons|byrðr|lang=non}}). More at {{l|en|kind}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/ˈneɪtʃə/}}, {{X-SAMPA|/"neItS@/}}
@@ -176,7 +176,7 @@ From {{etyl|enm|en}} {{term|nature|natur, nature|lang=enm}}, from {{etyl|fro|en}
 * Portuguese: {{t+|pt|natureza|f}}
 * Russian: {{t+|ru|природа|f|tr=priróda}}
 * Scottish Gaelic: {{t-|gd|nàdar|m}}
-* Serbo-Croatian: {{t-|sh|priroda|f}}
+* Serbo-Croatian: {{t-|sh|priroda|f|sc=Latn}}
 * Slovene: {{t+|sl|narava|f}}
 * Spanish: {{t+|es|naturaleza|f}}
 * Swedish: {{t+|sv|natur|c}}
@@ -227,8 +227,8 @@ From {{etyl|enm|en}} {{term|nature|natur, nature|lang=enm}}, from {{etyl|fro|en}
 * Russian: {{t+|ru|природа|f|tr=priróda}}
 * Scottish Gaelic: {{t-|gd|nàdar|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|природа|f}}
-*: Roman: {{t-|sh|priroda|f}}
+*: Cyrillic: {{t-|sh|природа|f|sc=Cyrl}}
+*: Roman: {{t-|sh|priroda|f|sc=Latn}}
 * Slovak: {{t-|sk|príroda|f}}
 * Slovene: {{t+|sl|narava|f}}
 * Spanish: {{t+|es|naturaleza|f}}
@@ -342,6 +342,9 @@ From {{etyl|enm|en}} {{term|nature|natur, nature|lang=enm}}, from {{etyl|fro|en}
 
 ==French==
 
+===Etymology===
+{{etyl|la|fr}} {{term|natura|nātūra|lang=la}}.
+
 ===Pronunciation===
 * {{IPA|/na.tyʁ/|lang=fr}}
 * {{audio|Fr-nature.ogg|Audio}}
@@ -393,14 +396,23 @@ From {{etyl|enm|en}} {{term|nature|natur, nature|lang=enm}}, from {{etyl|fro|en}
 
 ==Middle French==
 
+===Etymology===
+{{etyl|la|frm}} {{term|natura|nātūra|lang=la}}.
+
 ===Noun===
 {{frm-noun|f}}
 
 # {{l|en|nature}}
 
+====Descendants====
+* French: {{l|fr|nature}}
+
 ----
 
 ==Novial==
+
+===Etymology===
+{{etyl|la|nov}} {{term|natura|nātūra|lang=la}}.
 
 ===Noun===
 {{head|nov|noun}}
