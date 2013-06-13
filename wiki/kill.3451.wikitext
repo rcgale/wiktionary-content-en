@@ -141,14 +141,14 @@ From {{etyl|enm|en}} {{term|killen|lang=enm}}, {{term|kyllen|lang=enm}}, {{term|
 * Azeri: {{t+|az|öldürmək}}
 * Bashkir: {{tø|ba|үлтереү|tr=ülterew|sc=Cyrl}}
 * Basque: {{t-|eu|hil}}
-* Belarusian: {{t-|be|забіваць|tr=zabivác'}} {{impf}}, {{t-|be|забіць|tr=zabíc'}} {{pf.}}
-* Bengali: meredewa {{attention|bn}}, {{t|bn|হত্যা করা|tr=hôtya kôra|sc=Beng}}
+* Belarusian: {{t-|be|забіваць|tr=zabivácʹ}} {{impf}}, {{t-|be|забіць|tr=zabícʹ}} {{pf.}}
+* Bengali: {{t|bn|হত্যা করা|tr=hôtya kôra|sc=Beng}}
 * Bulgarian: {{t+|bg|убивам|tr=ubívam}} {{impf}}, {{t+|bg|убия|tr=ubíya}} {{pf.}}
 * Burmese: {{t+|my|သတ်|tr=that|sc=Mymr}}, {{t+|my|သတ်ဖြတ်|tr=that-hpyat|sc=Mymr}}
 * Catalan: {{t+|ca|matar}}, {{t+|ca|assassinar}}
 * {{trreq|ce}}
 * Chinese:
-*: Mandarin: {{t-|cmn|殺死|sc=Hani}}, {{t-|cmn|杀死|tr=shāsǐ|sc=Hani}}, {{t-|cmn|殺|sc=Hani}}, {{t-|cmn|杀|tr=shā|sc=Hani}}, {{t|cmn|戕殺|sc=Hani}}, {{t|cmn|戕杀|tr=qiángshā|sc=Hani}}
+*: Mandarin: {{t|cmn|殺死|sc=Hani}}, {{t+|cmn|杀死|tr=shāsǐ|sc=Hani}}, {{t|cmn|殺|sc=Hani}}, {{t+|cmn|杀|tr=shā|sc=Hani}}, {{t|cmn|戕殺|sc=Hani}}, {{t|cmn|戕杀|tr=qiángshā|sc=Hani}}
 * Czech: {{t+|cs|zabít}}
 * Danish: {{t-|da|dræbe}}, {{t-|da|ihjelslå}}, {{t-|da|slå ihjel}}
 * Dutch: {{t+|nl|doden}}, {{t+|nl|vermoorden}}
@@ -177,14 +177,14 @@ From {{etyl|enm|en}} {{term|killen|lang=enm}}, {{term|kyllen|lang=enm}}, {{term|
 * Italian: {{t+|it|uccidere}}, {{t+|it|ammazzare}}
 * Japanese: {{t+|ja|殺す|tr=ころす, korosu}}
 * Jèrriais: {{tø|roa-jer|tuer}}, {{tø|roa-jer|occi}}
-* Kannada: {{t+|kn|ಕೊಲ್ಲು|sc=Knda}}
+* Kannada: {{t+|kn|ಕೊಲ್ಲು|tr=kollu|sc=Knda}}
 * Karachay-Balkar: {{tø|krc|ёлтюрюрге|tr=öltürürge|sc=Cyrl}}
 * Kazakh: {{t|kk|өлтiру|tr=öltirw|sc=Cyrl}}
 * Khmer: {{t+|km|សម្លាប់|tr=somləp|sc=Khmr}}
 * Korean: {{t+|ko|죽이다|tr=jukida|sc=Hang}}
 * Kurdish:
-*: Kurmanji: {{t+|ku|kuştin}} /-kuj-/ [[کوشتن]]
-*: Sorani: {{ku-Arab|[[کوشتن]]}} (kuştin)
+*: Kurmanji: {{t+|ku|kuştin}}, {{t|kmr|-kuj-}}, {{t|kmr|کوشتن}}
+*: Sorani: {{t|ckb|کوشتن|tr=kuştin|sc=ku-Arab}}
 * Kyrgyz: {{t+|ky|өлтүрүү|tr=öltürüü|sc=Cyrl}}
 * Lao: {{t+|lo|ຂ້າ|tr=khaa|sc=Laoo}}
 * Latin: {{t+|la|occido}}, {{t+|la|interficio}}, {{t+|la|neco}}, {{t-|la|caedo}}, {{t-|la|concido}}, {{t-|la|mortifico}}
@@ -208,10 +208,10 @@ From {{etyl|enm|en}} {{term|killen|lang=enm}}, {{term|kyllen|lang=enm}}, {{term|
 * Persian: {{t+|fa|کشتن|tr=koštan}}
 * Polish: {{t+|pl|zabijać}} {{impf}}, {{t+|pl|zabić}} {{pf.}}
 * Portuguese: {{t+|pt|matar}}
-* Punjabi: [[ਮਾਰ]] [[ਸੁੱਟਣਾ]] (mār suṭṭṇā)
+* Punjabi: {{t-SOP|pa|[[ਮਾਰ]] [[ਸੁੱਟਣਾ]]|tr=mār suṭṭṇā|sc=Guru}}
 * Romanian: {{t+|ro|omorî}}, {{t+|ro|ucide}}
 * Romansch: {{t-|rm|mazzar}}
-* Russian: {{t+|ru|убивать|tr=ubivát'}} {{impf}}, {{t+|ru|убить|tr=ubít'}} {{pf.}}
+* Russian: {{t+|ru|убивать|tr=ubivátʹ}} {{impf}}, {{t+|ru|убить|tr=ubítʹ}} {{pf.}}
 * {{trreq|sm}}
 * {{trreq|sa}}
 * Sardinian:
@@ -219,7 +219,7 @@ From {{etyl|enm|en}} {{term|killen|lang=enm}}, {{term|kyllen|lang=enm}}, {{term|
 *: Gallurese Sardinian: {{tø|sdn|iscatteddare}}
 *: Logudorese Sardinian: {{tø|src|bocchire}}, {{tø|src|occhíere}}
 * Sassarese Sardinian: {{tø|sdc|bocchire}}
-* Scottish Gaelic: [[marbh]], [[cuir]] [[gu]] [[bàs]]
+* {{ttbc|gd}}: {{t|gd|marbh}}, {{t-SOP|gd|[[cuir]] [[gu]] [[bàs]]}} <!-- was "[[cuir]] [[gu]] [[bàs]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Serbo-Croatian: {{t-|sh|ubiti}}, {{t-|sh|убити|sc=Cyrl}}
 * Sinhalese: {{t|si|මරනවා|tr=maranavā|sc=Sinh}}
 * Slovak: {{t-|sk|zabiť}}
@@ -234,12 +234,12 @@ From {{etyl|enm|en}} {{term|killen|lang=enm}}, {{term|kyllen|lang=enm}}, {{term|
 * Tatar: {{t+|tt|үтерергә|tr=üterergä|sc=Cyrl}}
 * Telugu: {{t-|te|చంపివేయు|tr=campivēyu|sc=Telu}}
 * Thai: {{t+|th|ฆ่า|tr=kâa}}
-* Tibetan: {{Tibt|[[གསོད་པ]]}} (sö pa)
+* Tibetan: {{t|bo|གསོད་པ|tr=sö pa|sc=Tibt}}
 * Tok Pisin: {{t-|tpi|kilim}}
 * Turkish: {{t+|tr|öldürmek}}
 * Turkmen: {{t-|tk|öldürmek}}
 * Tuvan: {{tø|tyv|өлүрер|tr=ölürer}}
-* Ukrainian: {{t+|uk|вбивати|tr=vbyváty}} / {{t+|uk|убивати|tr=ubyváty}} {{impf}}, {{t-|uk|вбити|tr=vbýty}} / {{t-|uk|убити|tr=ubýty}} {{pf.}}
+* Ukrainian: {{t+|uk|вбивати|tr=vbyváty}}, {{t+|uk|убивати|tr=ubyváty}} {{impf}}, {{t-|uk|вбити|tr=vbýty}}, {{t-|uk|убити|tr=ubýty}} {{pf.}}
 * Urdu: {{t-|ur|مارنا|tr=mārnā}}
 * Uzbek: {{t-|uz|oʻldirmoq}}
 * Venetian: {{tø|vec|copar}}
@@ -281,9 +281,9 @@ From {{etyl|enm|en}} {{term|killen|lang=enm}}, {{term|kyllen|lang=enm}}, {{term|
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|id}}: [[bunuh]], [[bunuh|membunuh]], [[habis|menghabisi]]
-* {{ttbc|ia}}: [[occider]]
-* {{ttbc|ja}}: [[殺す]] ([[ころす]], korosu), [[殺害]]する ([[さつがい]]する, satsugai-suru)
+* {{ttbc|id}}: {{t|id|bunuh}}, {{t|id|bunuh|alt=membunuh}} <!-- was "[[bunuh|membunuh]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|id|habis|alt=menghabisi}} <!-- was "[[habis|menghabisi]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|ia}}: {{t|ia|occider}}
+* {{ttbc|ja}}: {{t|ja|殺す|tr=[[ころす]], korosu|sc=Jpan}}, {{t|ja|殺害|tr=[[さつがい]]する, satsugai-suru|alt=殺害する|sc=Jpan}} <!-- was "[[殺害]]する" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-bottom}}
 
 ====Related terms====
