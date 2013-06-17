@@ -14,21 +14,21 @@ From {{etyl|enm|en}} {{term|writen|lang=enm}}, from {{etyl|ang|en}} {{term|writa
 {{en-verb|writes|writing|'''[[wrote]]''' ''or {{qualifier|archaic}}'' '''[[writ]]'''|'''[[written]]''' ''or {{qualifier|archaic}}'' '''[[writ]]'''}}
 [[Image:Carl Friedrich Abel cropped.jpg|thumb|right|A [[w:Thomas Gainsborough|painting]] of [[w:Carl Friedrich Abel|a man]] writing.]]
 
-# {{context|ambitransitive}} To form letters, words or symbols on a surface in order to communicate.
+# {{context|ambitransitive|lang=en}} To form letters, words or symbols on a surface in order to communicate.
 #: ''The pupil '''wrote''' his name on the paper.''
 #: ''Your son has been '''writing''' on the wall.''
-# {{context|transitive}} To be the author of (a book, article, poem, etc.).
+# {{context|transitive|lang=en}} To be the author of (a book, article, poem, etc.).
 #: ''My uncle '''writes''' newspaper articles for The Herald.''
-# {{context|transitive}} To send written information to.
+# {{context|transitive|lang=en}} To send written information to.
 #: (''UK'') ''Please '''write''' to me when you get there.''
 #: (''US'') ''Please '''write''' me when you get there.''
-# {{context|transitive}} To show (information, etc) in written form.
+# {{context|transitive|lang=en}} To show (information, etc) in written form.
 #: ''The due day of the homework is '''written''' in the syllabus.''
-# {{context|intransitive}} To be an author.
+# {{context|intransitive|lang=en}} To be an author.
 #: ''I '''write''' for a living.''
-# {{context|transitive|computing}} To record (data) mechanically or electronically.
+# {{context|transitive|computing|lang=en}} To record (data) mechanically or electronically.
 #: ''The computer '''writes''' to the disk faster than it reads from it.''
-# {{context|transitive|South Africa|Canada|of a form, a document, etc.}} To [[fill in]], to [[complete]] using words.
+# {{context|transitive|South Africa|Canada|of a form, a document, etc.|lang=en}} To [[fill in]], to [[complete]] using words.
 #: ''I was very anxious to know my score after I '''wrote''' the test.''
 
 ====Synonyms====
@@ -352,7 +352,7 @@ From {{etyl|enm|en}} {{term|writen|lang=enm}}, from {{etyl|ang|en}} {{term|writa
 ===Noun===
 {{en-noun}}
 
-# {{context|computing}} The operation of storing data, as in [[memory]] or onto [[disk]].
+# {{context|computing|lang=en}} The operation of storing data, as in [[memory]] or onto [[disk]].
 #: ''How many '''writes''' per second can this hard disk handle?''
 #* '''2006''', ''MySQL administrator's guide and language reference'' (page 393)
 #*: In other words, the system can do 1200 reads per second with no '''writes''', the average write is twice as slow as the average read, and the relationship is linear.
