@@ -23,13 +23,13 @@ From {{prefix|up|load}}.
 * {{trreq|bg}}
 * Catalan: {{t+|ca|pujar}}, {{t+|ca|penjar}}
 * Chinese:
-*: Mandarin: {{t-|cmn|上載|sc=Hani}},  {{t-|cmn|上载|tr=shàngzài|sc=Hani}}, {{t-|cmn|上傳|sc=Hani}},  {{t-|cmn|上传|tr=shàngchuán|sc=Hani}}
+*: Mandarin: {{t-|cmn|上載|sc=Hani}}, {{t-|cmn|上载|tr=shàngzài|sc=Hani}}, {{t-|cmn|上傳|sc=Hani}}, {{t-|cmn|上传|tr=shàngchuán|sc=Hani}}
 * Esperanto: {{t-|eo|alŝuti}}
-* Finnish: [[lähettää]] [[tiedosto]], {{t-|fi|siirtää palvelimelle}}, {{t|fi|upata}}
+* {{ttbc|fi}}: {{t-SOP|fi|[[lähettää]] [[tiedosto]]}} <!-- was "[[lähettää]] [[tiedosto]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-|fi|siirtää palvelimelle}}, {{t|fi|upata}}
 * French: {{t+|fr|téléverser}}
 * Galician: {{t|gl|subir}}
 * {{trreq|ka}}
-* German: {{qualifier|perfective}} {{t+|de|laden}},  {{t+|de|hochladen}}
+* German: {{qualifier|perfective}} {{t+|de|laden}}, {{t+|de|hochladen}}
 * Greek: {{t-|el|αναφορτώνω|tr=anafortóno|sc=Grek}}
 * Hungarian: {{t+|hu|feltölt}}
 * Icelandic: {{t-|is|upphala}}, {{t-|is|hlaða upp}}
@@ -42,7 +42,7 @@ From {{prefix|up|load}}.
 * Persian: {{t+|fa|بارگذاری|tr=bârgozâri|sc=fa-Arab}}
 * Portuguese: {{t|pt|carregar}}, {{t|pt|fazer upload}}
 * Romanian: {{t+|ro|încărca}}
-* Russian: {{qualifier|imperfective}} {{t+|ru|закачивать|tr=zakáčivat’|sc=Cyrl}},  {{qualifier|perfective}} {{t+|ru|закачать|tr=zakačát’|sc=Cyrl}}
+* Russian: {{qualifier|imperfective}} {{t+|ru|закачивать|tr=zakáčivat’|sc=Cyrl}}, {{qualifier|perfective}} {{t+|ru|закачать|tr=zakačát’|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|luchdaich a-nìos}}
 * Spanish: {{t+|es|subir}}
 * Swedish: {{t+|sv|ladda upp}}
@@ -56,7 +56,7 @@ From {{prefix|up|load}}.
 # Such a file transfer.
 
 ====Derived terms====
-* [[UL]] , [[ul]] , [[u/l]] , [[U/L]]  {{qualifier|abbreviation}}
+* [[UL]] , [[ul]] , [[u/l]] , [[U/L]] {{qualifier|abbreviation}}
 
 ====Antonyms====
 * [[download]]
@@ -66,9 +66,9 @@ From {{prefix|up|load}}.
 * Arabic: {{t+|ar|رفع|m|tr=raf`|sc=Arab}}
 * Catalan: {{t-|ca|pujada|f}}
 * Chinese:
-*: Mandarin: {{t-|cmn|上傳|sc=Hani}},  {{t-|cmn|上传|tr=shàngchuán|sc=Hani}}
+*: Mandarin: {{t-|cmn|上傳|sc=Hani}}, {{t-|cmn|上传|tr=shàngchuán|sc=Hani}}
 * Esperanto: {{t-|eo|alŝuto}}
-* Finnish: [[tiedoston]] [[lähetys]]
+* {{ttbc|fi}}: {{t-SOP|fi|[[tiedoston]] [[lähetys]]}} <!-- was "[[tiedoston]] [[lähetys]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * French: {{t+|fr|envoi}}, {{t|fr|téléversement|m}}
 * Galician: {{t|gl|subida|f}}
 * Greek: {{t-|el|αναφόρτωση|f|tr=anafórtosi|sc=Grek}}
