@@ -12,8 +12,8 @@ From {{etyl|fr|en}} ''[[métrique]]'' (1864), from {{etyl|NL.|en}} {{term|metric
 {{en-adj|-}}
 
 # of or relating to the [[metric system]] of [[measurement]]
-# {{context|music}} of or relating to the [[meter]] of a piece of music.
-# {{context|mathematics|physics}} Of or relating to [[distance]]
+# {{context|music|lang=en}} of or relating to the [[meter]] of a piece of music.
+# {{context|mathematics|physics|lang=en}} Of or relating to [[distance]]
 
 ====Derived terms====
 * [[metric carat]]
@@ -65,7 +65,7 @@ From {{etyl|fr|en}} ''[[métrique]]'' (1864), from {{etyl|NL.|en}} {{term|metric
 
 # A [[measure]] for something; a means of deriving a [[quantitative]] [[measurement]] or [[approximation]] for otherwise [[qualitative]] [[phenomena]] (especially used in Software Engineering)
 #*: ''As for the large number of official statements that Spain is safe, I think they are merely a '''metric''' of the complacency that has characterised the European crisis from the start.'' Financial Times, April 10, 2011
-# {{context|mathematics}} A measurement of the "distance" between two points in some [[metric space]]: it is a [[real-valued function]] ''d''(''x'',''y'') between points ''x'' and ''y'' satisfying the following properties: (1) "[[positive definiteness]]": <math> d(x,y) \ge 0 </math> and <math> d(x,y) = 0 \mbox{ iff } x=y </math>, (2) "[[symmetric|symmetry]]": <math> d(x,y) = d(y,x) </math>, and (3) "[[triangle inequality]]": <math> d(x,y) \le d(x,z) + d(z,y) </math>.
+# {{context|mathematics|lang=en}} A measurement of the "distance" between two points in some [[metric space]]: it is a [[real-valued function]] ''d''(''x'',''y'') between points ''x'' and ''y'' satisfying the following properties: (1) "[[positive definiteness]]": <math> d(x,y) \ge 0 </math> and <math> d(x,y) = 0 \mbox{ iff } x=y </math>, (2) "[[symmetric|symmetry]]": <math> d(x,y) = d(y,x) </math>, and (3) "[[triangle inequality]]": <math> d(x,y) \le d(x,z) + d(z,y) </math>.
 
 ====Synonyms====
 * [[measure]]
@@ -112,7 +112,7 @@ From {{etyl|fr|en}} ''[[métrique]]'' (1864), from {{etyl|NL.|en}} {{term|metric
 ===Verb===
 {{en-verb|not used|metricking|metricked}}
 
-# {{context|transitive|aerospace, systems engineering}} To [[measure]] or [[analyse]] statistical data concerning the quality or effectiveness of a [[process]].
+# {{context|transitive|aerospace, systems engineering|lang=en}} To [[measure]] or [[analyse]] statistical data concerning the quality or effectiveness of a [[process]].
 #: ''we need '''to metric''' the status of software documentation''
 #: ''we need '''to metric''' the verification of requirements''
 #: ''we need '''to metric''' the system failures''
