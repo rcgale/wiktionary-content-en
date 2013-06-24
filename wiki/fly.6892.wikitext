@@ -304,7 +304,7 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{term|fleoga
 {{trans-top|to travel through air}}
 * Afrikaans: {{t|af|vlieg}}
 * Albanian: {{t-|sq|fluturon}}
-* Arabic: {{t+|ar|طار|tr=Taara}}
+* Arabic: {{t+|ar|طار|tr=ṭāra}} imperfect: {{t|ar|يطير|tr=yaṭīru}}
 * Aramaic:
 *: [[Syriac]]: {{tø|syc|ܦܪܚ|tr=praħ|sc=Syrc}}
 * Armenian: {{t-|hy|թռնել|tr=t'ṙnel}}, {{t-|hy|թռչել|tr=t'ṙčel}}
@@ -313,14 +313,14 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{term|fleoga
 * Avar: {{t|av|боржизе|sc=Cyrl}}
 * Azeri: {{t|az|uçmaq}}
 * Basque: {{t+|eu|hegan egin}}
-* Belarusian: {{qualifier|abstract}} {{t|be|лятаць|tr=ljatác’|sc=Cyrl}} {{impf}}, {{t|be|лётаць|tr=ljótac’|sc=Cyrl}} {{impf}}, {{t|be|палятаць|tr=paljatác’|sc=Cyrl}} {{pf.}}, {{t|be|палётаць|tr=paljótac’|sc=Cyrl}} {{pf.}}, {{qualifier|concrete}} {{t|be|ляцець|tr=ljacjéc’|sc=Cyrl}} {{impf}}, {{t|be|паляцець|tr=paljacjéc’|sc=Cyrl}} {{pf.}}
+* Belarusian: {{qualifier|abstract}} {{t|be|лятаць|tr=ljatácʹ|sc=Cyrl}} {{impf}}, {{t|be|лётаць|tr=ljótacʹ|sc=Cyrl}} {{impf}}, {{t|be|палятаць|tr=paljatácʹ|sc=Cyrl}} {{pf.}}, {{t|be|палётаць|tr=paljótacʹ|sc=Cyrl}} {{pf.}}, {{qualifier|concrete}} {{t|be|ляцець|tr=ljacjécʹ|sc=Cyrl}} {{impf}}, {{t|be|паляцець|tr=paljacjécʹ|sc=Cyrl}} {{pf.}}
 * Bengali: {{t-|bn|ওড়া|tr=ōḍā|sc=Beng}}
-* Bulgarian: {{t+|bg|летя|tr=letjá}}
+* Bulgarian: {{t+|bg|летя|tr=letjá}} {{impf}}
 * Burmese: {{t+|my|ပျံ|tr=pyan|sc=Mymr}}
 * Catalan: {{t+|ca|volar}}
 * Chinese:
 *: Mandarin: {{t|cmn|飛|sc=Hani}}, {{t|cmn|飞|tr=fēi|sc=Hani}}, {{t|cmn|飛行|sc=Hani}}, {{t|cmn|飞行|tr=fēixíng|sc=Hani}}
-* Czech: {{t+|cs|letět}}, {{t+|cs|létat}}
+* Czech: {{t+|cs|létat}} {{impf}} {{qualifier|abstract}}, {{t+|cs|letět}} {{impf}} {{qualifier|concrete}}
 * Danish: {{t-|da|flyve}}
 * Dutch: {{t+|nl|vliegen}}
 * Esperanto: {{t-|eo|flugi}}
@@ -370,7 +370,7 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{term|fleoga
 * Pashto: {{t+|ps|الوتل|tr=alwatəl|sc=ps-Arab}}
 * Persian: {{t+|fa|پرواز کردن|tr=parvâz kardan|sc=fa-Arab}}
 * Pipil: {{tø|ppl|patani}}
-* Polish: {{t+|pl|latać}}, {{t|pl|lecieć}} {{qualifier|concrete}}
+* Polish: {{t+|pl|latać}} {{impf}} {{qualifier|abstract}}, {{t|pl|lecieć}} {{impf}} {{qualifier|concrete}}
 * Portuguese: {{t+|pt|voar}}
 * Quechua: {{t-|qu|phaway}}
 * Rapa Nui: {{tø|rap|rere}}
@@ -378,16 +378,16 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{term|fleoga
 * Romani: {{tø|rom|ural}}
 * Romanian: {{t+|ro|zbura}}
 * Romansch: {{t-|rm|sgular}}, {{t-|rm|svular}}, {{t-|rm|svuler}}
-* Russian:  {{t+|ru|летать|tr=letát’}}, {{t+|ru|лететь|tr=letét’}}, {{t+|ru|перелетать|tr=pereletát’}} {{qualifier|birds}}
+* Russian:  {{t+|ru|летать|tr=letátʹ}} {{impf}} {{qualifier|abstract}}, {{t+|ru|лететь|tr=letétʹ}} {{impf}} {{qualifier|concrete}}, {{t+|ru|перелетать|tr=pereletátʹ}} {{impf}} {{qualifier|birds}}
 * Sardinian: {{t-|sc|bobai}}, {{t-|sc|bolare}}, {{t-|sc|bolai}}, {{t-|sc|volare}}, {{t-|sc|borai}}
 * Scottish Gaelic: {{t-|gd|itealaich}}, {{t-|gd|dèan iteag}}, {{t-|gd|falbh air iteig}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|летети}} / {{t-|sh|летјети}}
-*: Roman: {{t-|sh|leteti}} / {{t-|sh|letjeti}}
+*: Cyrillic: {{t-|sh|летети}} / {{t-|sh|летјети}} {{impf}} {{qualifier|concrete}}
+*: Roman: {{t-|sh|leteti}} / {{t-|sh|letjeti}} {{impf}} {{qualifier|concrete}}
 * Sicilian: {{t+|scn|vulari}}
 * Sinhalese: {{t|si|ඉගිල්ලෙනවා|tr=igillanavā|sc=Sinh}}
-* Slovak: {{t-|sk|lietať}}, {{t|sk|letieť}} {{qualifier|concrete}}
-* Slovene: {{t+|sl|leteti}}
+* Slovak: {{t-|sk|lietať}} {{impf}} {{qualifier|abstract}}, {{t|sk|letieť}} {{impf}} {{qualifier|concrete}}
+* Slovene: {{t+|sl|leteti}} {{impf}} {{qualifier|concrete}}
 * Spanish: {{t+|es|volar}}
 * Swahili: {{t+|sw|nzi}}
 * Swedish: {{t+|sv|flyga}}
@@ -396,7 +396,7 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{term|fleoga
 * Thai: {{t+|th|บิน|tr=bin}}
 * Turkish: {{qualifier|aircraft}} {{t+|tr|gitmek}}, {{t+|tr|uçmak}}, {{t+|tr|kanatlanmak}}
 * Turkmen: {{t|tk|uçmak}}
-* Ukrainian: {{t|uk|літати|tr=litáty|sc=Cyrl}} {{qualifier|abstract}}, {{t|uk|летіти|tr=letíty|sc=Cyrl}} {{qualifier|concrete}}
+* Ukrainian: {{t|uk|літати|tr=litáty|sc=Cyrl}} {{impf}} {{qualifier|abstract}}, {{t|uk|летіти|tr=letíty|sc=Cyrl}} {{impf}} {{qualifier|concrete}}
 * Urdu: {{t-|ur|اڑنا|tr=uṛnā|sc=ur-Arab}}
 * Uzbek: {{t|uz|uchmoq}}
 * Vietnamese: {{t+|vi|bay}}
