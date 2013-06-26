@@ -18,8 +18,8 @@ From {{etyl|ML.|en}} {{term|duellum||fight between two men|lang=la}}, under infl
 
 ====Translations====
 {{trans-top|combat between two persons}}
-* Armenian: {{t-|hy|մենամարտ|tr=menamart|sc=Armn}}
-* Bulgarian: {{t+|bg|дуел|m|sc=Cyrl}}
+* Armenian: {{t-|hy|մենամարտ|sc=Armn}}
+* Bulgarian: {{t+|bg|дуел|m|tr=duél|sc=Cyrl}}
 * Catalan: {{t-|ca|duel|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|決鬥|sc=Hani}}, {{t|cmn|决斗|tr=juédòu|sc=Hani}}
@@ -34,12 +34,12 @@ From {{etyl|ML.|en}} {{term|duellum||fight between two men|lang=la}}, under infl
 {{trans-mid}}
 * Hungarian: {{t+|hu|párbaj}}
 * Italian: {{t+|it|duello|m}}, {{t-|it|singolar tenzone|f}}
-* Japanese: {{t|ja|決闘|tr=けっとう, kettō|sc=Jpan}}
+* Japanese: {{t|ja|決闘|tr=けっとう, kettō|sc=Jpan}}, {{t|ja|デュエル|tr=dyueru|sc=Jpan}}
 * Norwegian: {{t+|no|duell|m}}, {{t+|no|tvekamp|m}}
 * Polish: {{t-|pl|pojedynek|m}}
 * Portuguese: {{t+|pt|duelo|m}}
-* Russian: {{t+|ru|дуэль|f|sc=Cyrl|tr=duél'}}
-* Serbo-Croatian: {{t-|sh|dvoboj|m}}
+* Russian: {{t+|ru|дуэль|f|tr=duélʹ|sc=Cyrl}}
+* Serbo-Croatian: {{t-|sh|двобој|m}}, {{t-|sh|dvoboj|m}}
 * Spanish: {{t+|es|duelo|m}}
 * Swedish: {{t+|sv|duell|c}}, {{t-|sv|tvekamp|c}}
 * Turkish: {{t+|tr|düello}}
@@ -70,11 +70,10 @@ From {{etyl|ML.|en}} {{term|duellum||fight between two men|lang=la}}, under infl
 
 {{checktrans-top|}}
 * {{ttbc|eo}}: {{t+|eo|duelo}}
-* {{ttbc|ia}}: [[duello]]
-* {{ttbc|ja}}: [[決闘]] (けっとう, kettou), [[デュエル]]
+* {{ttbc|ia}}: {{t|ia|duello}}
 {{trans-mid}}
 * {{ttbc|pt}}: {{t+|pt|duelo|m}}
-* {{ttbc|es}}: [[duelo]] {{m}} (1,2)
+* {{ttbc|es}}: {{qualifier|1,2}} {{t|es|duelo|m}}
 {{trans-bottom}}
 
 ===Verb===
