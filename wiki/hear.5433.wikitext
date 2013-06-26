@@ -50,21 +50,21 @@ From {{etyl|enm|en}} {{term|heren|lang=enm}}, from {{etyl|ang|en}} {{term|heran|
 * Albanian: {{t-|sq|dëgjon}}
 * Arabic: {{t+|ar|سمع|tr=sámiʿa}}, imperfect: {{t-|ar|يسمع|tr=yasmaʿu}}
 *: Egyptian Arabic: {{tø|arz|سمع|tr=simiʿ|sc=Arab}}
-* Armenian: {{t-|hy|լսել|tr=lsel}}
+* Armenian: {{t-|hy|լսել}}
 * Aromanian: {{t+|rup|avdu}}
 * Asturian: {{t-|ast|oyer}}
 * Azeri: {{t|az|eşitmək}}, {{t|az|duymaq}}
-* Belarusian: {{t-|be|чуць|tr=čuc’}}
+* Belarusian: {{t-|be|чуць|impf|tr=čucʹ}}
 * Bengali: {{t|bn|শোনা|tr=shona|sc=Beng}}
 * Breton: {{t+|br|kleved}}
-* Bulgarian: {{t+|bg|чувам|tr=čúvam}}
+* Bulgarian: {{t+|bg|чувам|impf|tr=čúvam}}
 * Burmese: {{t+|my|ကြား|tr=kya:|sc=Mymr}}
 * Catalan: {{t+|ca|sentir}}, {{t+|ca|oir}}
 * Central Atlas Tamazight: {{tø|tzm|ⵙⵍⵍ|tr=sll}}
 * Chinese:
-*: Mandarin: {{t-|cmn|聽見|sc=Hani}}, {{t-|cmn|听见|tr=tīngjiàn|sc=Hani}}, {{t-|cmn|聽|sc=Hani}}, {{t-|cmn|听|tr=tīng|sc=Hani}}
+*: Mandarin: {{t|cmn|聽見|sc=Hani}}, {{t|cmn|听见|tr=tīngjiàn|sc=Hani}}, {{t|cmn|聽|sc=Hani}}, {{t+|cmn|听|tr=tīng|sc=Hani}}
 * Crimean Tatar: {{tø|crh|eşitmek}}, {{tø|crh|tuymaq}}
-* Czech: {{t+|cs|slyšet}}
+* Czech: {{t+|cs|slyšet|impf}}
 * Danish: {{t-|da|høre}}
 * Dutch: {{t+|nl|horen}}
 * Egyptian: {{tø|egy|sḏm|sc=Egyp}}
@@ -76,7 +76,7 @@ From {{etyl|enm|en}} {{term|heren|lang=enm}}, from {{etyl|ang|en}} {{term|heran|
 * French: {{t+|fr|entendre}}
 *: Old French: {{tø|fro|entendre}}
 * Galician: {{t+|gl|oír}}
-* Georgian: {{t-|ka|სმენა|tr=smena}}, {{t-|ka|გაგონება|tr=gagoneba}}
+* Georgian: {{t-|ka|სმენა}}, {{t-|ka|გაგონება}}
 * German: {{t+|de|hören}}
 * Greek: {{t+|el|ακούω}}
 *: Ancient: {{tø|grc|ἀκούω}}
@@ -106,7 +106,7 @@ From {{etyl|enm|en}} {{term|heren|lang=enm}}, from {{etyl|ang|en}} {{term|heran|
 * Lojban: {{t+|jbo|tirna}}
 * Lower Sorbian: {{tø|dsb|słyšaś}}
 * Luxembourgish: {{t+|lb|héieren}}
-* Macedonian: {{t-|mk|слуша|tr=slúša}}
+* Macedonian: {{t-|mk|слуша|impf|tr=slúša}}
 * Malay: {{t|ms|dengar}}
 * Maltese: {{t|mt|sama'}}
 * Manx: {{t-|gv|clin}}
@@ -119,20 +119,20 @@ From {{etyl|enm|en}} {{term|heren|lang=enm}}, from {{etyl|ang|en}} {{term|heran|
 * Pashto: {{t-|ps|اورول|tr=awrawəl|sc=ps-Arab}}
 * Persian: {{t+|fa|شنیدن|tr=šenidan}}
 * Pipil: {{tø|ppl|kaki}}, {{tø|ppl|caqui}}
-* Polish: {{t+|pl|słyszeć}}
+* Polish: {{t+|pl|słyszeć|impf}}
 * Portuguese: {{t+|pt|ouvir}}
 * Quechua: {{t|qu|uyariy}}
 * Rapa Nui: {{tø|rap|ngaro'a}}
 * Romanian: {{t+|ro|auzi}}
 * Romansch: {{t-|rm|udir}}
-* Russian: {{t+|ru|слышать|tr=slýšat’}} {{impf}}, {{t+|ru|услышать|tr=uslýšat’}} {{pf.}}
+* Russian: {{t+|ru|слышать|impf|tr=slýšatʹ}}, {{t+|ru|услышать|pf|tr=uslýšatʹ}}
 * Scottish Gaelic: {{t-|gd|cluinn}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|чути}}, {{t-|sh|слушати}}
-*: Roman: {{t-|sh|čuti}}, {{t-|sh|slušati}}
-* Sinhalese: {{t-|si|ඇසෙනවා|sc=Sinh}}
-* Slovak: {{t-|sk|čuť}}
-* Slovene: {{t+|sl|slišati}}
+*: Cyrillic: {{t-|sh|чути|impf}}, {{t-|sh|слушати|impf}}
+*: Roman: {{t-|sh|čuti|impf}}, {{t-|sh|slušati|impf}}
+* Sinhalese: {{t-|si|ඇසෙනවා|tr=æsanavā|sc=Sinh}}
+* Slovak: {{t-|sk|čuť|impf}}
+* Slovene: {{t+|sl|slišati|impf}}
 * Spanish: {{t+|es|oír}}
 * Swedish: {{t+|sv|höra}}
 * Tajik: {{t-|tg|шунидан|tr=šunidan|sc=Cyrl}}
@@ -143,13 +143,13 @@ From {{etyl|enm|en}} {{term|heren|lang=enm}}, from {{etyl|ang|en}} {{term|heran|
 * Turkish: {{t+|tr|duymak}}, {{t+|tr|işitmek}}
 * Turkmen: {{t|tk|eşitmek}}
 * Tuvan: {{tø|tyv|дыңнаар|tr=dyŋnaar}}, {{tø|tyv|дыңнап каар|tr=dyŋnap kaar}}
-* Ukrainian: {{t+|uk|чути|tr=čúty}}
+* Ukrainian: {{t+|uk|чути|impf|tr=čúty}}
 * Urdu: {{t-|ur|سننا|tr=sunnā}}
 * Uzbek: {{t|uz|eshitmoq}}, {{t|uz|eshitib qolmoq}}
 * Vietnamese: {{t+|vi|nghe}}
 * Welsh: {{t+|cy|clywed}}
 * ǃKung: {{tø|knw|s'aː}}
-* ǃXóõ: [[ta̰ã]]
+* ǃXóõ: {{t|nmn|ta̰ã}}
 {{trans-bottom}}
 
 ===See also===
