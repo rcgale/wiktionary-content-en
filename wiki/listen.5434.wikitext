@@ -79,22 +79,22 @@ In English, ''listen'' and ''hear'' are two primary verbs relating to audial per
 * Amharic: {{t-|am|ማዳመጥ|tr=madamäṭ|sc=Ethi}}
 * Ancient Greek: {{tø|grc|ἀκούω|tr=akouō|sc=polytonic}}
 * Arabic: {{t-|ar|أصغى|tr=ʾaṣġā|sc=Arab}}, {{t-|ar|نصت|tr=náṣata|sc=Arab}}, {{t-|ar|استأنس|tr=istáʾnasa|sc=Arab}}
-*: Egyptian Arabic: {{tø|arz|سمع|tr=simi3|sc=Arab}}
-* Armenian: {{t-|hy|լսել|tr=lsel}}
+*: Egyptian Arabic: {{tø|arz|سمع|tr=simiʿ|sc=Arab}}
+* Armenian: {{t-|hy|լսել}}
 * Aromanian: {{t-|rup|ascultu}}
 * Asturian: {{t-|ast|escuchar}}
 * Azeri: {{t|az|dinləmək}}
 * Basque: {{t|eu|entzun}}, {{t|eu|aditu}}
-* Belarusian: {{t-|be|слухаць|tr=slúxac’}}
+* Belarusian: {{t-|be|слухаць|impf|tr=slúxacʹ}}
 * Bengali: {{t|bn|শোনা|tr=shona|sc=Beng}}
 * Breton: {{t+|br|selaou}}
-* Bulgarian: {{t+|bg|слушам|tr=slúšam}} {{impf}}, {{t+|bg|послушвам|tr=poslúšvam}} {{impf}}, {{t-|bg|послушам|tr=poslúšam}} {{pf.}}
+* Bulgarian: {{t+|bg|слушам|impf|tr=slúšam}}, {{t+|bg|послушвам|impf|tr=poslúšvam}}, {{t-|bg|послушам|pf|tr=poslúšam}}
 * Burmese: {{t+|my|နားထောင်|tr=na:htaung|sc=Mymr}}
 * Catalan: {{t+|ca|escoltar}}
 * Cebuano: {{tø|ceb|dungog}} ({{tø|ceb|pagdungog}}), {{tø|ceb|pagpamati}}, {{tø|ceb|paminaw}} ({{tø|ceb|pagpaminaw}})
 * Chickasaw: {{tø|cic|haklo}}
 * Chinese:
-*: Mandarin: {{t-|cmn|聽|sc=Hani}}, {{t-|cmn|听|tr=tīng|sc=Hani}}
+*: Mandarin: {{t|cmn|聽|sc=Hani}}, {{t+|cmn|听|tr=tīng|sc=Hani}}
 * Chuvash: {{tø|cv|итле|tr=itle|sc=Cyrl}}
 * Czech: {{t+|cs|poslouchat}}
 * Danish: {{t-|da|lytte}}
@@ -108,7 +108,7 @@ In English, ''listen'' and ''hear'' are two primary verbs relating to audial per
 *: Old French: {{tø|fro|escouter}}
 * Friulian: {{tø|fur|scoltâ}}
 * Galician: {{t+|gl|atender}}, {{t-|gl|escoitar}}, {{t+|gl|oír}}
-* Georgian: {{t-|ka|მოსმენა|tr=mosmena|sc=Geor}}
+* Georgian: {{t-|ka|მოსმენა|sc=Geor}}
 * German: {{t+|de|hören}}, {{t+|de|zuhören}}
 * Greek: {{t+|el|ακούω|tr=akoúo}}
 * Hawaiian: {{tø|haw|hoʻolohe}}
@@ -139,8 +139,7 @@ In English, ''listen'' and ''hear'' are two primary verbs relating to audial per
 * Latvian: {{t+|lv|klausīties}}
 * Limburgish: {{t+|li|loestere}} ([[nao]]/loc.)
 * Lithuanian: {{t+|lt|klausyti}}
-* Lower Sorbian: {{tø|dsb|słuchaś}}
-* Macedonian: {{t-|mk|слуша|tr=slúša|sc=Cyrl}}
+* Macedonian: {{t-|mk|слуша|impf|tr=slúša|sc=Cyrl}}
 * Malay: {{t-|ms|dengar}}
 * Malayalam: {{t+|ml|ശ്രദ്ധ|tr=Sraddha}}, {{t+|ml|ശ്രദ്ധിക്കുക|tr=Sréddhikkuka}}
 * Marathi: {{t-|mr|ऐकणे|tr=aikaNe}}
@@ -154,12 +153,12 @@ In English, ''listen'' and ''hear'' are two primary verbs relating to audial per
 * Oriya: {{t-|or|ଶୁଣିବା|sc=Orya}}
 * Pashto: {{t-|ps|غوږ نيول|tr=γwag niwəl|sc=ps-Arab}}
 * Persian: {{t+|fa|گوش دادن|tr=guš dâdan}}, {{t+|fa|گوش کردن|tr=guš kardan|sc=fa-Arab}}
-* Polish: {{t+|pl|słuchać}}
+* Polish: {{t+|pl|słuchać|impf}}
 * Portuguese: {{t+|pt|escutar}}
 * Quechua: {{t|qu|uyariy}}
 * Romanian: {{t+|ro|asculta}}
 * Romansch: {{t-|rm|tadlar}}, {{t-|rm|audi}}
-* Russian: {{t+|ru|слушать|tr=slúšat’}}
+* Russian: {{t+|ru|слушать|impf|tr=slúšatʹ}}
 * Sardinian: {{t-|sc|aiscultare}}, {{t-|sc|aiscurtare}}, {{t-|sc|ascultare}}
 *: Campidanese Sardinian: {{tø|sro|ascurtai}}
 *: Gallurese Sardinian: {{tø|sdn|iscultà}}
@@ -167,12 +166,13 @@ In English, ''listen'' and ''hear'' are two primary verbs relating to audial per
 * Sassarese Sardinian: {{tø|sdc|iscultà}}
 * Scottish Gaelic: {{t-|gd|èisd}}, {{t-|gd|èist}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|слушати|sc=Cyrl}} {{impf}}, {{t-|sh|послушати|sc=Cyrl}} {{pf.}}
-*: Roman: {{t-|sh|slušati}} {{impf}}, {{t-|sh|poslušati}} {{pf.}}
-* Sinhalese: {{t-|si|ඇහුම්කන් දෙනවා|sc=Sinh}}, {{t|si|අහනවා|tr=ahanavā|sc=Sinh}}
+*: Cyrillic: {{t-|sh|слушати|impf|sc=Cyrl}}, {{t-|sh|послушати|pf|sc=Cyrl}}
+*: Roman: {{t-|sh|slušati|impf}}, {{t-|sh|poslušati|pf}}
+* Sinhalese: {{t-|si|ඇහුම්කන් දෙනවා|tr=æhumkan danavā|sc=Sinh}}, {{t|si|අහනවා|tr=ahanavā|sc=Sinh}}
 * Slovak: {{t-|sk|počúvať}}
 * Slovene: {{t+|sl|poslušati}}
 * Sorbian:
+*: Lower Sorbian: {{tø|dsb|słuchaś}}
 *: Upper Sorbian: {{t|hsb|słušeć}}, {{t|hsb|роsłuсhаć}}
 * Sotho: {{t+|st|mamela}}
 * Spanish: {{t+|es|escuchar}}
@@ -187,7 +187,7 @@ In English, ''listen'' and ''hear'' are two primary verbs relating to audial per
 * Tongan: {{t-|to|fanongo}}
 * Turkish: {{t+|tr|dinlemek}}
 * Turkmen: {{t|tk|diňlemek}}
-* Ukrainian: {{t+|uk|слухати|tr=slúxaty|sc=Cyrl}} {{impf}}
+* Ukrainian: {{t+|uk|слухати|impf|tr=slúxaty|sc=Cyrl}}
 * Urdu: {{t-|ur|سننا|tr=sunnā}}
 * Uzbek: {{t|uz|tinglamoq}}, {{t|uz|eshitmoq}}
 * Vietnamese: {{t+|vi|nghe}}, {{t+|vi|lắng nghe}}
@@ -247,7 +247,7 @@ In English, ''listen'' and ''hear'' are two primary verbs relating to audial per
 * Polish: {{t-|pl|nasłuchiwać}}
 * Portuguese: {{t+|pt|escutar}}
 * Romanian: {{t+|ro|asculta}}
-* Russian: {{t+|ru|слушать|tr=slúšat’}}
+* Russian: {{t+|ru|слушать|impf|tr=slúšatʹ}}
 * Scottish Gaelic: {{t-|gd|èisd}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|слушати|sc=Cyrl}} {{impf}}, {{t-|sh|послушати|sc=Cyrl}} {{pf.}}
