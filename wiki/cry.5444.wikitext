@@ -53,19 +53,19 @@ Middle English {{term|crien|lang=enm}} eventually displaced native Middle Englis
 * Albanian: {{t|sq|qaj}}
 * Aleut: {{tø|ale|qida}}
 * Arabic: {{t-|ar|بكى|tr=bákā}}, {{t-|ar|يبكي|tr=yábkī}} {{qualifier|present tense}}
-* Armenian: {{t-|hy|լալ|tr=lal|sc=Armn}}, {{t-|hy|լաց լինել|tr=lacʿ linel|sc=Armn}}
+* Armenian: {{t-|hy|լալ|sc=Armn}}, {{t-|hy|լաց լինել|sc=Armn}}
 * Aromanian: {{t-|rup|plãngu}}
 * Azeri: {{t|az|ağlamaq}}
-* Belarusian: {{t|be|плакаць|tr=plákacʹ|sc=Cyrl}} {{impf}}
+* Belarusian: {{t|be|плакаць|impf|tr=plákacʹ|sc=Cyrl}}
 * Bengali: {{t|bn|কাঁদা|tr=kamda|sc=Beng}}, {{t|bn|কান্দা|tr=kanda|sc=Beng}}, {{t|bn|ক্রন্দন করা|tr=krôndôn kôra|sc=Beng}}
-* Bulgarian: {{t+|bg|плача|tr=pláča}} {{impf}}
+* Bulgarian: {{t+|bg|плача|impf|tr=pláča}}
 * Burmese: {{t+|my|ငို|sc=Mymr|tr=ngo}}
 * Catalan: {{t+|ca|plorar}}
 * Chinese:
-*: Mandarin: {{t|cmn|哭|tr=kū|sc=Hani}}
+*: Mandarin: {{t+|cmn|哭|tr=kū|sc=Hani}}
 *: Min Nan: {{t-|nan|吼|tr=háu|sc=Hans}}
 * Coptic: {{tø|cop|ⲣⲓⲙⲉ|tr=rime|sc=Copt}}
-* Czech: {{t-|cs|plakat}} {{impf}}, {{t-|cs|brečet}} {{impf}}
+* Czech: {{t-|cs|plakat|impf}}, {{t-|cs|brečet|impf}}
 * Dalmatian: {{tø|dlm|plungro}}
 * Danish: {{t+|da|græde}}
 * Dutch: {{t+|nl|huilen}}, {{t+|nl|wenen}} (archaic), {{t-|nl|schreien}} (archaic), {{qualifier|used for animals; vulgar when applied to people}} {{t+|nl|janken}}
@@ -77,7 +77,7 @@ Middle English {{term|crien|lang=enm}} eventually displaced native Middle Englis
 * Friulian: {{tø|fur|vaî}}
 * Galician: {{t+|gl|chorar}}
 * Gallo: {{tø|roa-gal|breur'}}
-* Georgian: {{t-|ka|ტირის|sc=Geor|tr=tiris}}
+* Georgian: {{t-|ka|ტირის|sc=Geor}}
 * German: {{t+|de|weinen}}
 * Greek: {{t+|el|κλαίω|tr=klaío|sc=Grek}}
 * Hebrew: {{t-|he|בכה|tr=bakhá}}
@@ -85,7 +85,7 @@ Middle English {{term|crien|lang=enm}} eventually displaced native Middle Englis
 * Hungarian: {{t+|hu|sír}}, {{t+|hu|rí}}, {{t+|hu|könnyezik}}
 * Icelandic: {{t|is|gráta}}
 * Ido: {{t+|io|plorar}}
-* Indonesian: {{t|id|menangis}}
+* Indonesian: {{t+|id|tangis}}, {{t|id|menangis}}
 * Inuktitut: {{t|iu|ᕿᐊ|tr=qia}}
 * Irish: {{t-|ga|caoin}}, {{t-|ga|goil}}
 * Italian: {{t+|it|piangere}}
@@ -104,7 +104,7 @@ Middle English {{term|crien|lang=enm}} eventually displaced native Middle Englis
 {{trans-mid}}
 * Lithuanian: {{t+|lt|verkti}}, {{t-|lt|raudoti}}
 * Luxembourgish: {{t+|lb|kräischen}}
-* Macedonian: {{t-|mk|плаче|tr=pláče|sc=Cyrl}} {{impf}}
+* Macedonian: {{t|mk|плаче|impf|tr=pláče|sc=Cyrl}}
 * Malay: {{t-|ms|menangis}}, {{t-|ms|tangis}}
 * Malayalam: {{t+|ml|കരയുക|tr=karayuka}}
 * Maltese: {{t|mt|beka}}
@@ -113,40 +113,41 @@ Middle English {{term|crien|lang=enm}} eventually displaced native Middle Englis
 * Navajo: {{tø|nv|yicha}}
 * Neapolitan: {{tø|nap|chiagne}}
 * Norwegian:
-*: Bokmål: {{t|nb|gråte}}
+*: Bokmål: {{t+|nb|gråte}}
 * Occitan: {{t+|oc|plorar}}
 * Old French: {{tø|fro|plorer}}
 * Old Provençal: {{tø|pro|plorar}}
 * Persian: {{t+|fa|گریستن|tr=geristan}}, {{t+|fa|گریه کردن|tr=gerye kardan|sc=fa-Arab}}
 * Pipil: {{tø|ppl|chuka}}, {{tø|ppl|chuca}}
-* Polish: {{t+|pl|płakać}} {{impf}}
+* Polish: {{t+|pl|płakać|impf}}
 * Portuguese: {{t+|pt|chorar}}
 * Quechua: {{t|qu|waqay}}
 * Romanian: {{t+|ro|plânge}}
-* Russian: {{t+|ru|плакать|tr=plákatʹ}} {{impf}}, {{t+|ru|рыдать|tr=rydátʹ}} {{impf}}
+* Russian: {{t+|ru|плакать|impf|tr=plákatʹ}}, {{t+|ru|рыдать|impf|tr=rydátʹ}}
 * Sardinian: {{t-|sc|pianghere}}, {{t-|sc|plangiri}}, {{t-|sc|pragnere}}
 * Scots: {{tø|sco|greet}}
 * Scottish Gaelic: {{t-|gd|caoin}}, {{t-|gd|guil}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|плакати|alt=пла̏кати|sc=Cyrl}} {{impf}}
-*: Roman: {{t-|sh|plakati|alt=plȁkati}} {{impf}}
+*: Cyrillic: {{t|sh|плакати|impf|alt=пла̏кати|sc=Cyrl}}, {{t|sh|јецати|impf|sc=Cyrl}}
+*: Roman: {{t|sh|plakati|impf|alt=plȁkati}}, {{t|sh|jecati|impf}}
 * Sicilian: {{t+|scn|cianciri}}
 * Sinhalese: {{t|si|අඬනවා|tr=an̆ḍanavā|sc=Sinh}}
-* Slovak: {{t-|sk|plakať}} {{impf}}
-* Slovene: {{t+|sl|jokati}} {{impf}}
+* Slovak: {{t|sk|plakať|impf}}
+* Slovene: {{t+|sl|jokati|impf}}
 * Sotho: {{t+|st|lla}}
 * Spanish: {{t+|es|llorar}}
 * Swahili: {{t+|sw|kiliyo}}
 * Swedish: {{t+|sv|gråta}}
-* Tagalog: {{t|tl|umiyak}}
-* Tajik: {{t|tg|герйе кардан|tr=gerye kardan|sc=Cyrl}}, {{t|tg|геристан|tr=geristan|sc=Cyrl}}
-* Tamil: {{t+|ta|அழு|tr=azhu|sc=Taml}}
+* Tagalog: {{t|tl|lumuha}}, {{t|tl|umiyak}}
+* Tajik: {{t|tg|геристан|tr=geristan|sc=Cyrl}}, {{t|tg|герйе кардан|tr=gerye kardan|sc=Cyrl}}
+* Tamil: {{t+|ta|அழு|tr=aḻu|sc=Taml}}
 * Tatar: {{t|tt|еларга|tr=yılarğa|sc=Cyrl}}
+* Telugu: {{t|te|ఏడ్చు|tr=ēḍcu|sc=Telu}}
 * Thai: {{t-|th|ร้องไห้|tr=róng-hâi}}, {{t-|th|ร่ำไห้|tr=râm-hâi}}
 * Tok Pisin: {{t-|tpi|karai}}
 * Turkish: {{t+|tr|ağlamak}}
 * Turkmen: {{t+|tk|aglamak}}
-* Ukrainian: {{t|uk|плакати|tr=plákaty|sc=Cyrl}} {{impf}}
+* Ukrainian: {{t|uk|плакати|impf|tr=plákaty|sc=Cyrl}}
 * Urdu: {{t-|ur|رونا|tr=ronā|sc=ur-Arab}}
 * Uzbek: {{t|uz|yigʻlamoq}}
 * Vietnamese: {{t+|vi|khóc}}
