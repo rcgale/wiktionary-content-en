@@ -6,14 +6,14 @@ From {{prefix|off|set}}, used to construct the noun form of the verb {{term|set 
 ===Noun===
 {{en-noun}}
 
-# {{context|anchor|1|lang=en}}Anything that acts as counterbalance; a [[compensating]] [[equivalent]].
+# {{anchor|1}} Anything that acts as counterbalance; a [[compensating]] [[equivalent]].
 #: ''Today's victory was an '''offset''' to yesterday's defeat.''
-# {{context|anchor|2|lang=en}}{{context|international trade|lang=en}} A form of [[countertrade]] arrangement, in which the seller agrees to purchase within a set time frame products of a certain value from the buying country. This kind of agreement may be used in large international public sector contracts such as arms sales.
-# {{context|anchor|3|obsolete|c. 1555|lang=en}} A [[time]] at which something [[begin]]s; [[outset]].
-# {{context|anchor|4|lang=en}}A [[printing]] method, in which [[ink]] is carried from a metal [[plate]] to a rubber [[blanket]] and from there to the printing surface.
-# {{context|anchor|5|programming|lang=en}} The difference between a target memory address and a base address.
+# {{anchor|2}} {{context|international trade|lang=en}} A form of [[countertrade]] arrangement, in which the seller agrees to purchase within a set time frame products of a certain value from the buying country. This kind of agreement may be used in large international public sector contracts such as arms sales.
+# {{anchor|3}} {{context|obsolete|c. 1555|lang=en}} A [[time]] at which something [[begin]]s; [[outset]].
+# {{anchor|4}} A [[printing]] method, in which [[ink]] is carried from a metal [[plate]] to a rubber [[blanket]] and from there to the printing surface.
+# {{anchor|5}} {{context|programming|lang=en}} The difference between a target memory address and a base address.
 #: ''An array of bytes uses its index as the '''offset''', of words a multiple thereof.''
-# {{context|anchor|6|lang=en}}The [[distance]] by which one thing is out of [[alignment]] with another.
+# {{anchor|6}} The [[distance]] by which one thing is out of [[alignment]] with another.
 #: ''There is a small '''offset''' between the switch and the indicator which some users found confusing''.
 
 ====Translations====
@@ -23,7 +23,7 @@ From {{prefix|off|set}}, used to construct the noun form of the verb {{term|set 
 * Finnish: {{t-|fi|hyvitys}}, {{t+|fi|kompensaatio}}
 {{trans-mid}}
 * French: {{t+|fr|compensation}}
-* Spanish: [[ajuste]], [[descuento]], [[compensación]], [[reducción]].
+* Spanish: {{t|es|ajuste}}, {{t|es|descuento}}, {{t|es|compensación}}, {{t|es|reducción}}
 {{trans-bottom}}
 
 {{trans-top|countertrade arrangement}}
@@ -45,7 +45,7 @@ From {{prefix|off|set}}, used to construct the noun form of the verb {{term|set 
 {{trans-top|offset printing}}
 * Czech: {{t-|cs|ofset|m}}
 * Dutch: {{t-|nl|offsetdruk}}
-* Finnish: [[offsetpaino]]
+* Finnish: {{t|fi|offsetpaino}}
 * French: {{t-|fr|impression en offset|f}}
 * German: {{t-|de|Offsetdruck|m}}
 * Hebrew: {{t-|he|אופסט|tr=offset}}, {{t-|he|הדפסת פסט}}
@@ -55,7 +55,7 @@ From {{prefix|off|set}}, used to construct the noun form of the verb {{term|set 
 * Italian: {{t-|it|stampa in offset|f}}
 * Norwegian: {{t-|no|offsettrykk|n}}
 * Scottish Gaelic: {{t-|gd|leac-sgrìobhadh|m}}
-* Spanish: [[impresión Offset]]
+* Spanish: {{t|es|impresión Offset}}
 * Swedish: {{t-|sv|offsettryck|n}}
 * Turkish: {{t+|tr|ofset}}
 {{trans-bottom}}
@@ -70,8 +70,8 @@ From {{prefix|off|set}}, used to construct the noun form of the verb {{term|set 
 {{trans-bottom}}
 
 {{trans-top|distance by which one thing is out of alignment with another}}
-* Dutch: {{t+|nl|sprong}},{{t-|nl|verspringing}}
-* Finnish: [[siirros]], [[poikkeama]] ([[linja|linjasta]])
+* Dutch: {{t+|nl|sprong}}, {{t-|nl|verspringing}}
+* Finnish: {{t|fi|siirros}}, {{t-SOP|fi|[[poikkeama]] ([[linja|linjasta]])}}
 * French: {{t+|fr|décalage|m}}, {{t+|fr|décalages|m-p}}
 {{trans-mid}}
 * Italian: {{t+|it|discrepanza|f}}, {{t+|it|discrepanze|p}}
@@ -79,7 +79,7 @@ From {{prefix|off|set}}, used to construct the noun form of the verb {{term|set 
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|pt}}: [[desalinhamento]]
+* {{ttbc|pt}}: {{t|pt|desalinhamento}}
 {{trans-bottom}}
 
 ===Verb===
