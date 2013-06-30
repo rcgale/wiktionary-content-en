@@ -48,24 +48,25 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 ====Translations====
 {{trans-top|encounter, locate, discover}}
 * {{trreq|ab}}
+* {{trreq|af}}
 * Ainu: {{tø|ain|パ|tr=pa}}
 * Albanian: {{t|sq|gjej}}
 * Arabic: {{t+|ar|وجد|tr=wájada}}
-* Armenian: {{t-|hy|գտնել|tr=gtnel}}
+* Armenian: {{t-|hy|գտնել}}
 * {{trreq|av}}
 * Azeri: {{t-|az|bulmaq}}, {{t|az|tapmaq}}
 * Basque: {{t-|eu|aurkitu}}, {{t-|eu|topatu}}
-* Belarusian: {{t|be|знаходзіць|tr=znaxódzicʹ|sc=Cyrl}}, {{t|be|знайсці|tr=znajscí|sc=Cyrl}}
+* Belarusian: {{t|be|знаходзіць|impf|tr=znaxódzicʹ|sc=Cyrl}}, {{t|be|знайсці|pf|tr=znajscí|sc=Cyrl}}
 * {{trreq|Bengali}}
 * Breton: {{t+|br|kavout}}
-* Bulgarian: {{t+|bg|намирам|sc=Cyrl}}, {{t+|bg|откривам|sc=Cyrl}}
-* {{trreq|Burmese}}
+* Bulgarian: {{t+|bg|намирам|impf|tr=namíram|sc=Cyrl}}
+* {{trreq|my}}
 * Catalan: {{t+|ca|trobar}}
 * {{trreq|ce}}
 * Chinese:
 *: Mandarin: {{t|cmn|找到|tr=zhǎodào|sc=Hani}}
 * Crimean Tatar: [[tapmaq]]
-* Czech: {{t-|cs|nalézt}}, {{t+|cs|najít}}
+* Czech: {{t|cs|nalézat|impf}}, {{t-|cs|nalézt|pf}}, {{t|cs|nacházet|impf}}, {{t+|cs|najít|pf}}
 * Danish: {{t-|da|finde}}, {{t-|da|træffe}}
 * Dutch: {{t+|nl|vinden}}, {{t+|nl|aantreffen}}
 * Egyptian: {{tø|egy|gm|sc=Egyp}}
@@ -76,7 +77,7 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 * Finnish: {{t+|fi|löytää}}
 * French: {{t+|fr|trouver}}
 * Galician: {{t+|gl|atopar}}
-* Georgian: {{t-|ka|მიგნება|tr=migneba|sc=Geor}}, {{t-|ka|პოვნა|sc=Geor|tr=povna}}
+* Georgian: {{t-|ka|მიგნება|sc=Geor}}, {{t-|ka|პოვნა|sc=Geor}}
 * German: {{t+|de|finden}}
 * Greek: {{t+|el|βρίσκω|tr=vrísko}}
 * Hebrew: {{t-|he|מצא|tr=matzá}}
@@ -92,6 +93,7 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 {{trans-mid}}
 * Kazakh: {{t|kk|табу|tr=tabw|sc=Cyrl}}
 * Khmer: {{t|km|រកឃើញ|tr=rɔɔk kʰəəñ|sc=Khmr}}
+* {{trreq|ko}}
 * Kurdish:
 *: Sorani: {{ku-Arab|[[دیتنه‌وه‌]]}}, {{ku-Arab|[[دۆزینه‌وه‌]]}}
 * Kyrgyz: {{t|ky|табуу|tr=tabuu|sc=Cyrl}}
@@ -108,17 +110,17 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 * Norwegian: {{t+|no|finne}}
 * {{trreq|os}}
 * Persian: {{t+|fa|یافتن|tr=yâftan}}, {{t+|fa|پیدا کردن|tr=peydâ kardan|sc=fa-Arab}}
-* Polish: {{t+|pl|znajdować}}
+* Polish: {{t+|pl|znajdować|impf}}, {{t|pl|znaleźć|impf}}
 * Portuguese: {{t+|pt|achar}}, {{t+|pt|encontrar}}
 * Quechua: {{t-|qu|tariy}}
 * Romanian: {{t+|ro|găsi}}
-* Russian: {{t+|ru|находить|tr=naxodít’}} {{impf}}, {{t+|ru|найти|tr=najtí}} {{pf.}}
+* Russian: {{t+|ru|находить|impf|tr=naxodítʹ}}, {{t+|ru|найти|pf|tr=najtí}}
 * Scots: {{tø|sco|fin}}
 * Scottish Gaelic: {{t-|gd|faigh}},  {{t-|gd|lorg}},  {{t-|gd|amais}}
-* Serbo-Croatian: {{t-|sh|naći}}, {{t|sh|наћи}}
+* Serbo-Croatian: {{t|sh|наћи|pf}}, {{t-|sh|naći|pf}}
 * Sinhalese: {{t|si|සොයා ගන්නවා|tr=soyā gannavā|sc=Sinh}}
-* Slovak: {{t-|sk|nájsť}}
-* Slovene: {{t+|sl|najti}}
+* Slovak: {{t-|sk|nájsť|pf}}
+* Slovene: {{t+|sl|najti|pf}}
 * Spanish: {{t+|es|encontrar}}, {{t+|es|hallar}}
 * Swedish: {{t+|sv|finna}}, {{t+|sv|hitta}}, {{t+|sv|uppdaga}}, {{t+|sv|upptäcka}}, {{t+|sv|utröna}}
 * Tajik: {{t|tg|ёфтан|tr=yoftan|sc=Cyrl}}, {{t|tg|пайдо кардан|tr=paydo kardan|sc=Cyrl}}
@@ -126,13 +128,15 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 * Turkish: {{t+|tr|bulmak}}
 * Turkmen: {{t|tk|tapmak}}
 * Tuvan: {{tø|tyv|тывар|tr=tyvar}}
-* Ukrainian: {{t|uk|знаходити|tr=znaxodýty|sc=Cyrl}}, {{t|uk|знайти|tr=znajtý|sc=Cyrl}}
+* Ukrainian: {{t|uk|знаходити|impf|tr=znaxodýty|sc=Cyrl}}, {{t|uk|знайти|pf|tr=znajtý|sc=Cyrl}}
 * Uzbek: {{t|uz|topmoq}}
 * Vietnamese: {{t+|vi|tìm}}
 * Volapük: {{t+|vo|tuvön}}
 * West Frisian: {{t|fy|fine}}, {{t|fy|treffe}}
 * Yiddish: {{t|yi|געפֿינען|tr=gefinen|sc=Hebr}}
 {{trans-bottom}}
+
+{{trans-see|discover}}
 
 {{trans-top|point out}}
 * Czech: {{t+|cs|objevit}}, {{t-|cs|nalézt}}
@@ -141,7 +145,7 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 * Finnish: {{t+|fi|osoittaa}}
 * Georgian: {{t-|ka|მითითება|sc=Geor|tr=mititeba}}, {{t-|ka|ჩვენება|sc=Geor|tr=chveneba}}
 * Hebrew: {{t-|he|הצביע|tr=hitzbía}}
-* Japanese: {{t-|ja|指摘する|tr=してきする, shiteki suru|sc=Jpan}}
+* Japanese: {{t|ja|指摘|tr=してきする, shiteki suru|alt=指摘する|sc=Jpan}}
 * Latin: {{t-|la|designare}}
 {{trans-mid}}
 * Macedonian: {{t-|mk|востановува|tr=vostanóvuva|sc=Cyrl}}, {{t-|mk|утврдува|tr=utv'rduva|sc=Cyrl}}
@@ -149,7 +153,7 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 * Norwegian: {{t+|no|finne}}
 * Persian: {{t+|fa|نمایاندن|tr=namâyândan}}
 * Portuguese: {{t+|pt|achar}}, {{t+|pt|encontrar}}
-* Russian: {{t+|ru|выискивать|tr=vyískivat’}} {{impf}}
+* Russian: {{t+|ru|выискивать|tr=vyískivatʹ}} {{impf}}
 * Swedish: {{t+|sv|finna}}, {{t+|sv|hitta}}
 {{trans-bottom}}
 
@@ -167,7 +171,7 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 * Macedonian: {{t-|mk|наоѓа|tr=náoǵa|sc=Cyrl}}
 * Norwegian: {{t+|no|finne}}
 * Portuguese: {{t+|pt|achar}}
-* Russian: {{t+|ru|находить|tr=naxodít’}} {{impf}}, {{t+|ru|найти|tr=najtí}} {{pf.}}
+* Russian: {{t+|ru|находить|tr=naxodítʹ}} {{impf}}, {{t+|ru|найти|tr=najtí}} {{pf.}}
 * Spanish: {{t+|es|creer}}, {{t+|es|encontrar}}
 * Swedish: {{t+|sv|finna}}, {{t+|sv|konstatera}}
 {{trans-bottom}}
@@ -184,7 +188,7 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 * Latin: {{t-|la|arbitrare}},  {{t+|la|arbitror}}
 * Macedonian: {{t-|mk|востановува|tr=vostanóvuva|sc=Cyrl}}, {{t-|mk|утврдува|tr=utv'rduva|sc=Cyrl}}, {{t-|mk|констатира|tr=konstatíra|sc=Cyrl}}
 * Norwegian: {{t+|no|finne}}
-* Russian: {{t+|ru|находить|tr=naxodít'}} {{impf}}, {{t+|ru|найти|tr=najtí}} {{pf.}}
+* Russian: {{t+|ru|находить|tr=naxodítʹ}} {{impf}}, {{t+|ru|найти|tr=najtí}} {{pf.}}
 * Spanish: {{t+|es|determinar}}, {{t+|es|juzgar}}
 * Swedish: {{t+|sv|finna}}, {{t+|sv|konstatera}}
 {{trans-bottom}}
