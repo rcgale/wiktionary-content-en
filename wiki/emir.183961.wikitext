@@ -93,25 +93,34 @@ From {{etyl|ar|es}} {{term|امير|أَمِير|tr=amir||commander, prince|sc=A
 {{also|Emir}}
 ==Turkish==
 
-===Etymology===
-From {{etyl|ar|tr}} {{term|أمير|أَمِيرْ|tr=amīr|lang=ar}}.
-
 ===Pronunciation===
 * {{IPA|[emiɾ]|lang=tr}}
 * {{hyphenation|e|mir|lang=tr}}
 
+===Etymology===
+From {{etyl|ar|tr}} {{term|أمر|أَمرْ|tr=amr|lang=ar}}.
+
 ===Noun===
-{{tr-noun|i|ler}}
+{{tr-noun|emri|ler}}
 
 # [[command]]
-# [[commander]]
 # [[order]]
-# [[prince]], [[ruler]]
 
 ====Synonyms====
 * {{l|tr|buyruk}} {{gloss|order}}
 * {{l|tr|komut}} {{gloss|command}}
-* {{l|tr|komutan}} {{gloss|commander}}
+
+====Declension====
+{{tr-noun-c|i|d|poss=+|pred=-|stem=emr}}
+
+===Etymology 2===
+From {{etyl|ar|tr}} {{term|أمير|أَمِيرْ|tr=amīr|lang=ar}}.
+
+===Noun===
+{{tr-noun|i|ler}}
+
+# [[commander]]
+# [[prince]], [[ruler]]
 
 ====Declension====
 {{tr-noun-c|i|d|poss=+|pred=+}}
