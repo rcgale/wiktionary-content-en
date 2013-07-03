@@ -63,13 +63,13 @@ From {{etyl|enm|en}} {{term|forgeten|lang=enm}}, {{term|forgiten|lang=enm}}, {{t
 * Belarusian: {{t-|be|забываць|tr=zabyvácʹ}} {{impf}}, {{t-|be|забыць|tr=zabýcʹ}} {{pf.}}
 * Bengali: {{t-|bn|ভুলে যাওয়া|tr=bhule jaoa|sc=Beng}}
 * Breton: {{t+|br|ankounac'haat}}
-* Bulgarian: {{t+|bg|забравям|tr=zabrávjam}} {{impf}}, {{t+|bg|забравя|tr=zabrávja}} {{pf.}}
+* Bulgarian: {{t+|bg|забравям|impf|tr=zabrávjam}}, {{t+|bg|забравя|pf|tr=zabrávja}}
 * Burmese: {{t|my|မေ့|tr=mei.|sc=Mymr}}, {{t|my|ဖြေဖျောက်|tr=hpjei bjau'|sc=Mymr}}
 * Catalan: {{t+|ca|oblidar}}
 * Cherokee: {{t-|chr|ᎬᎨᏫᏍᏗ|tr=gvgewisdi|sc=Cher}}
 * Chinese:
 *: Mandarin: {{t|cmn|忘記|sc=Hans}}, {{t|cmn|忘记|tr=wàngjì|sc=Hans}}, {{t-|cmn|忘|tr=wàng|sc=Hans}}
-* Czech: {{t+|cs|zapomenout}} {{pf.}}, {{t-|cs|zapomínat}} {{impf}}
+* Czech: {{t-|cs|zapomínat|impf}}, {{t+|cs|zapomenout|pf}}
 * Dalmatian: {{tø|dlm|dementicur}}
 * Danish: {{t-|da|glemme}}
 * Dutch: {{t+|nl|vergeten}}
@@ -110,9 +110,9 @@ From {{etyl|enm|en}} {{term|forgeten|lang=enm}}, {{term|forgiten|lang=enm}}, {{t
 *: Nynorsk: {{t-|nn|gløyma}}
 * Occitan: {{t+|oc|demembrar}}, {{t+|oc|doblidar}}
 * Old Norse: {{tø|non|gleyma}}
-* Persian: {{t+|fa|فراموش کردن|tr=farâmush kardan}}
+* Persian: {{t+|fa|فراموش کردن|tr=farâmušh kardan}}
 * Pipil: {{tø|ppl|-elkawa}}, {{tø|ppl|-elcahua}}
-* Polish: {{t+|pl|zapominać}} {{impf}}, {{t+|pl|zapomnieć}} {{pf.}}
+* Polish: {{t+|pl|zapominać|impf}}, {{t+|pl|zapomnieć|pf}}
 * Portuguese: {{t+|pt|esquecer}}
 * Romanian: {{t+|ro|uita}}
 * Romansch: {{t-|rm|emblidar}}, {{t-|rm|amblidar}}, {{t-|rm|invlidar}}
@@ -125,7 +125,7 @@ From {{etyl|enm|en}} {{term|forgeten|lang=enm}}, {{term|forgiten|lang=enm}}, {{t
 * Sassarese Sardinian: {{tø|sdc|dimintigà}}, {{tø|sdc|immintigà}}
 * Serbo-Croatian: {{t-|sh|заборавити|sc=Cyrl}}, {{t-|sh|zaboraviti}}, {{t-|sh|сметнути|sc=Cyrl}}, {{t-|sh|smetnuti}}
 * Sinhalese: {{t|si|අමතක වෙනවා|tr=amataka vanavā|sc=Sinh}}
-* Slovak: {{t-|sk|zabudnúť}}
+* Slovak: {{t|sk|zabúdať|impf}}, {{t-|sk|zabudnúť|pf}}
 * Slovene: {{t+|sl|pozabiti}}
 * Spanish: {{t+|es|olvidar}}
 * Swedish: {{t+|sv|glömma}}
@@ -135,7 +135,7 @@ From {{etyl|enm|en}} {{term|forgeten|lang=enm}}, {{term|forgiten|lang=enm}}, {{t
 * Thai: {{t-|th|ลืม|tr=leum}}
 * Turkish: {{t+|tr|unutmak}}
 * Turkmen: {{t|tk|unutmak}}
-* Ukrainian: {{t-|uk|забувати|tr=zabuváty}} {{impf}}, {{t-|uk|забути|tr=zabúty}} {{pf.}}
+* Ukrainian: {{t-|uk|забувати|impf|tr=zabuváty}}, {{t-|uk|забути|pf|tr=zabúty}}
 * Urdu: {{t-|ur|بھولنا|tr=bhūlnā}}, {{t-|ur|بھول جانا|tr=bhūl jānā|sc=ur-Arab}}
 * Uzbek: {{t|uz|unutmoq}}
 * Vietnamese: {{t+|vi|quên}}, {{t-|vi|không nhớ}}
