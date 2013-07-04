@@ -65,7 +65,7 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 * {{trreq|ce}}
 * Chinese:
 *: Mandarin: {{t|cmn|找到|tr=zhǎodào|sc=Hani}}
-* Crimean Tatar: [[tapmaq]]
+* Crimean Tatar: {{t|crh|tapmaq}}
 * Czech: {{t|cs|nalézat|impf}}, {{t-|cs|nalézt|pf}}, {{t|cs|nacházet|impf}}, {{t+|cs|najít|pf}}
 * Danish: {{t-|da|finde}}, {{t-|da|træffe}}
 * Dutch: {{t+|nl|vinden}}, {{t+|nl|aantreffen}}
@@ -95,7 +95,7 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 * Khmer: {{t|km|រកឃើញ|tr=rɔɔk kʰəəñ|sc=Khmr}}
 * Korean: {{t|ko|찾다|tr=chatda|sc=Kore}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[دیتنه‌وه‌]]}}, {{ku-Arab|[[دۆزینه‌وه‌]]}}
+*: Sorani: {{t|ckb|دیتنه‌وه‌|sc=ku-Arab}}, {{t|ckb|دۆزینه‌وه‌|sc=ku-Arab}}
 * Kyrgyz: {{t|ky|табуу|tr=tabuu|sc=Cyrl}}
 * Lao: {{t|lo|ບອກ|tr=bɔ̏ːk|sc=Laoo}}
 * Latgalian: {{tø|ltg|atrast}}, {{tø|ltg|rast}}
@@ -116,7 +116,7 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 * Romanian: {{t+|ro|găsi}}
 * Russian: {{t+|ru|находить|impf|tr=naxodítʹ}}, {{t+|ru|найти|pf|tr=najtí}}
 * Scots: {{tø|sco|fin}}
-* Scottish Gaelic: {{t-|gd|faigh}},  {{t-|gd|lorg}},  {{t-|gd|amais}}
+* Scottish Gaelic: {{t-|gd|faigh}}, {{t-|gd|lorg}}, {{t-|gd|amais}}
 * Serbo-Croatian: {{t|sh|наћи|pf}}, {{t-|sh|naći|pf}}
 * Sinhalese: {{t|si|සොයා ගන්නවා|tr=soyā gannavā|sc=Sinh}}
 * Slovak: {{t-|sk|nájsť|pf}}
@@ -163,7 +163,7 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 * Bulgarian: {{t-|bg|убеждавам се|sc=Cyrl}}
 * Czech: {{t-|cs|pokládat za}}
 * Danish: {{t-|da|finde}}
-* Dutch: {{t+|nl|vinden}}, [[van mening zijn]] dat
+* Dutch: {{t+|nl|vinden}}, {{t|nl|van mening zijn|alt=van mening zijn dat}}
 * Finnish: {{t+|fi|pitää}}
 * French: {{t+|fr|trouver}}
 {{trans-mid}}
@@ -186,7 +186,7 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 * Estonian: {{t-|et|leidma}}
 * Japanese: {{t|ja|評決|alt=評決する|tr=ひょうけつする, hyōketsu suru}}
 {{trans-mid}}
-* Latin: {{t-|la|arbitrare}},  {{t+|la|arbitror}}
+* Latin: {{t-|la|arbitrare}}, {{t+|la|arbitror}}
 * Macedonian: {{t-|mk|востановува|tr=vostanóvuva|sc=Cyrl}}, {{t-|mk|утврдува|tr=utv'rduva|sc=Cyrl}}, {{t-|mk|констатира|tr=konstatíra|sc=Cyrl}}
 * Norwegian: {{t+|no|finne}}
 * Russian: {{t+|ru|находить|tr=naxodítʹ}} {{impf}}, {{t+|ru|найти|tr=najtí}} {{pf.}}
@@ -196,9 +196,9 @@ From {{etyl|enm|en}} {{term|finden|lang=enm}}, from {{etyl|ang|en}} {{term|finda
 
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 {{checktrans-top}}
-* {{ttbc|fo}}: [[koma]] [[framá]] (1,3), [[gera]] [[vart]] [[við]], [[taka fram]] (2), [[gera]] [[av]] (4), [[halda]] [[at]] [[vera]] (5), [[døma]] (6, 7)
-* {{ttbc|io}}: [[trovar]]
-* {{ttbc|id}}: [[temu]], [[temu|menemukan]], [[temu|menemui]]
+* {{ttbc|fo}}: {{qualifier|1,3}} {{t-SOP|fo|[[koma]] [[framá]]}} <!-- was "[[koma]] [[framá]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-SOP|fo|[[gera]] [[vart]] [[við]]}} <!-- was "[[gera]] [[vart]] [[við]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{qualifier|2}} {{t|fo|taka fram}}, {{qualifier|4}} {{t-SOP|fo|[[gera]] [[av]]}} <!-- was "[[gera]] [[av]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{qualifier|5}} {{t-SOP|fo|[[halda]] [[at]] [[vera]]}} <!-- was "[[halda]] [[at]] [[vera]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{qualifier|6, 7}} {{t|fo|døma}}
+* {{ttbc|io}}: {{t|io|trovar}}
+* {{ttbc|id}}: {{t|id|temu}}, {{t|id|temu|alt=menemukan}} <!-- was "[[temu|menemukan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|id|temu|alt=menemui}} <!-- was "[[temu|menemui]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-bottom}}
 
 ===Noun===
