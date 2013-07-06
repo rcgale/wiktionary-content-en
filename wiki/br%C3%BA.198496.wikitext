@@ -43,7 +43,7 @@ From {{etyl|gem-pro|is}} {{recons|brōwō|lang=gem-pro}}, {{recons|brūwō|lang=
 ===Etymology 2===
 
 ====Noun====
-{{ga-noun|brúite|brúnna|g=m|sort=bru}}
+{{head|ga|noun|genitive as substantive|brú|genitive as verbal noun|brúite|plural|brúnna|g=m|sort=bru}}
 
 # {{verbal noun of|brúigh|lang=ga|sort=bru}}
 # [[press]], [[crush]]
@@ -52,10 +52,18 @@ From {{etyl|gem-pro|is}} {{recons|brōwō|lang=gem-pro}}, {{recons|brūwō|lang=
 # [[dent]]
 
 =====Declension=====
-{{qualifier|as verbal noun}}
+;As verbal noun
 {{ga-decl-m3|b|rú|rúite|rúnna}}
-{{qualifier|as regular noun}}
+;As substantive
 {{ga-decl-m4|b|rú|rúnna}}
+
+====Verb====
+{{head|ga|verb form|sort=bru}}
+
+# {{conjugation of|brúigh||pres|sub|analytic|lang=ga}}
+
+=====Alternative forms=====
+* {{l/ga|brúgha}} {{qualifier|obsolete}}
 
 ===Mutation===
 {{ga mut cons|b|rú}}
