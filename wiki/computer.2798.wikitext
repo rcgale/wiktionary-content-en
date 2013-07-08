@@ -69,10 +69,10 @@ From {{suffix|compute|er}}.
 * Afrikaans: {{t+|af|rekenaar}}
 * Albanian: {{t-|sq|kompjuter|m}}
 * Amharic: {{t-|am|ኮምፒዩተር}}
-* Arabic: {{t+|ar|حاسوب|m|tr=Hasuub}}, {{t-|ar|كمبيوتر|m|tr=kambyuutar}}
-* Armenian: {{t-|hy|համակարգիչ|tr=hamakargič}}
+* Arabic: {{t+|ar|حاسوب|m|tr=ḥasūb}}, {{t-|ar|كمبيوتر|m|tr=kambyūtar}}
+* Armenian: {{t-|hy|համակարգիչ}}
 * Basque: {{t-|eu|ordenagailu}}
-* Belarusian: {{t-|be|кампутар|m|tr=kampútar|sc=Cyrl}}, {{t-|be|камп'ютар|m|tr=kamp'jútar|sc=Cyrl}}, {{t+|be|камп'ютэр|m|tr=kamp'júter|sc=Cyrl}}
+* Belarusian: {{t-|be|камп'ютар|m|tr=kampʺjútar|sc=Cyrl}}, {{t-|be|кампутар|m|tr=kampútar|sc=Cyrl}}, {{t+|be|камп'ютэр|m|tr=kampʺjúter|sc=Cyrl}}
 * Bengali: {{t-|bn|কম্পিউটার|tr=kômpiuţar|sc=Beng}}
 * Breton: {{t-|br|urzhiataer|m}}
 * Bulgarian: {{t+|bg|компютър|m|tr=kompjútǎr}}
@@ -90,7 +90,7 @@ From {{suffix|compute|er}}.
 * Finnish: {{t+|fi|tietokone}}
 * French: {{t+|fr|ordinateur|m}}
 * Galician: {{t+|gl|ordenador|m}}
-* Georgian: {{t-|ka|გამომთვლელი მანქანა|tr=gamomt'vleli mank'ana|sc=Geor}}, {{t-|ka|პერსონალური კომპიუტერი|tr=personaluri kompiuteri|sc=Geor}}
+* Georgian: {{t|ka|კომპიუტერი|sc=Geor}}{{t-|ka|გამომთვლელი მანქანა|sc=Geor}}, {{t-|ka|პერსონალური კომპიუტერი|sc=Geor}}
 * German: {{t+|de|Computer|m}}, {{t+|de|Rechner|m}}
 * Greek: {{t+|el|υπολογιστής|m|tr=ypologistís}}
 * Greenlandic: {{t-|kl|qarasaasiaq}}
@@ -104,12 +104,12 @@ From {{suffix|compute|er}}.
 * Interlingua: {{t-|ia|computator}}
 * Irish: {{t+|ga|ríomhaire|m}}
 * Italian: {{t+|it|calcolatore|m}}, {{t+|it|computer|m}}, {{t+|it|elaboratore|m}}
-* Japanese: {{t+|ja|コンピュータ|tr=kompyūta}}, {{t+|ja|電子計算機|tr=でんしけいさんき, denshi-keisanki}}
+* Japanese: {{t+|ja|コンピュータ|tr=kompyūta}}, {{t+|ja|電子計算機|tr=でんしけいさんき, denshi keisanki}}
 * Jèrriais: {{tø|roa-jer|compiuteu|m}}
 * Kamba: {{tø|kam|kompiuta}}
 * Khmer: {{t-|km|កុំព្យូទ័រ|tr=kompyuutoa|sc=Khmr}}, {{t-|km|គណិតូបករណ៍|sc=Khmr|tr=kʊənnetoopkɑɑ}}
 * Kikuyu: {{tø|ki|mompyuta}}, {{tø|ki|kompyuta}}
-* Kinyarwanda: [[mudasobwa]]
+* Kinyarwanda: {{t|rw|mudasobwa}}
 * Kis: {{tø|kis|ekompyuta}}
 * Korean: {{t+|ko|컴퓨터|tr=keompyuteo|sc=Hang}}, {{t-|ko|전자계산기|tr=jeonjagyesangi|sc=Hang}} ({{t-|ko|電子計算機|sc=Hani}})
 * Lao: {{t+|lo|ຄອມພິວເຕີ|tr=khǭm phiu tœ̄|sc=Laoo}}
@@ -128,17 +128,16 @@ From {{suffix|compute|er}}.
 * Marathi: {{t+|mr|संगणक|tr=sanganak}}
 * Meru: {{tø|mer|kompyuta}}
 * Navajo: {{tø|nv|béésh bee akʼeʼelchíhí tʼáá bí nitsékeesígíí}}, {{tø|nv|béésh nitsékeesí}}
+* Northern Sami: {{tø|se|dihtor}}
 * Norwegian: {{t+|no|datamaskin|m}}
 * Novial: {{tø|nov|komputere}}
 * Persian: {{t+|fa|رایانه|tr=râyâne}}, {{t+|fa|کامپیوتر|tr=kâmpyuter}}
-* Pitcairn-Norfolk: {{tø|pih|kompyuuta}}, [[kohmpyuuta]]
+* Pitcairn-Norfolk: {{tø|pih|kompyuuta}}, {{t|pih|kohmpyuuta}}
 * Polish: {{t+|pl|komputer|m}}
 * Portuguese: {{t+|pt|computador|m}}
 * Romanian: {{t+|ro|computer|n}}, {{t-|ro|calculator|n}}
 * Romansch: {{t-|rm|computer|m}}, {{t-|rm|calculader|m}}
-* Russian: {{t+|ru|компьютер|m|tr=komp’jútɛr}}
-* Sami:
-*: Northern: {{tø|se|dihtor}}
+* Russian: {{t+|ru|компьютер|m|tr=kompʹjútɛr}}
 * Samoan: {{t-|sm|komipiuta}}
 * Sanskrit: {{t-|sa|संगणक|m|tr=sãṅgaṇak}}, {{t-|sa|अभिकलित्र}}
 * Scottish Gaelic: {{t-|gd|coimpiutair|m}}, {{t-|gd|rianadair|m}}, {{t-|gd|annalair|m}}
@@ -146,7 +145,7 @@ From {{suffix|compute|er}}.
 *: Cyrillic: {{t-|sh|рачунар|m}}, {{t-|sh|рачунало|n}}, {{t-|sh|компјутер|m}}, {{t-|sh|редник|m}}
 *: Roman: {{t-|sh|računar|m}}, {{t-|sh|računalo|n}}, {{t-|sh|kompjuter|m}}, {{t-|sh|rednik|m}}
 * Sindhi: {{t+|sd|ڳڻپيوڪر}}
-* Sinhalese: {{t+|si|පරිගණකය|tr=pariganakaya|sc=Sinh}}
+* Sinhalese: {{t+|si|පරිගණකය|tr=parigaṇakaya|sc=Sinh}}
 * Skolt Sami: {{tø|sms|teâttmašina}}
 * Slovak: {{t+|sk|počítač|m}}
 * Slovene: {{t+|sl|računalnik|m}}
@@ -156,12 +155,12 @@ From {{suffix|compute|er}}.
 * Swedish: {{t+|sv|dator|c}}
 * Tagalog: {{t+|tl|kompyuter}}
 * Tajik: {{t-|tg|компутар|tr=komputar}}, {{t+|tg|компютер|tr=kompyuter}}
-* Tamil: {{t+|ta|கணினி|tr=Kaṇiṉi}}
+* Tamil: {{t+|ta|கணினி|tr=kaṇiṉi}}
 * Thai: {{t+|th|คอมพิวเตอร์|tr=kompiwdter}}
 * Tibetan: {{t-|bo|གློག་ཀླད|tr=glog klad|sc=Tibt}}
 * Tswana: {{t-|tn|khomphuta}}
 * Turkish: {{t+|tr|bilgisayar}}
-* Ukrainian: {{t+|uk|комп'ютер|m|tr=komp’júter}}
+* Ukrainian: {{t+|uk|комп'ютер|m|tr=kompʺjúter}}
 * Urdu: {{t+|ur|کمپیوٹر|m|tr=kampyūṭar|sc=ur-Arab}}
 * Venda: {{tø|ve|khomphiyutha}}
 * Vietnamese: {{t+|vi|máy vi tính}}, {{t+|vi|máy điện toán}}, {{t+|vi|máy tính}}
