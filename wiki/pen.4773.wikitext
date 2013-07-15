@@ -135,7 +135,7 @@ See {{term|feather|lang=en}} and {{term|πέτομαι|lang=grc}} for more.
 * Arabic: {{t+|ar|قلم|m|tr=qálam}}, {{t-|ar|قلم حبر|m|tr=qálam ḥibr}}
 *: Egyptian Arabic: {{tø|arz|قلم|m|tr=ʾálam|sc=Arab}}
 *: Morocco: {{tø|ary|ستيلو|tr=stīlū|sc=Arab}}
-* Armenian: {{t-|hy|գրիչ|tr=grič}}
+* Armenian: {{t-|hy|գրիչ}}
 * Azeri: {{t-|az|qələm}}
 * Basque: {{t-|eu|luma}}
 * Belarusian: {{t-|be|ручка|f|tr=rúčka|sc=Cyrl}}
@@ -143,7 +143,7 @@ See {{term|feather|lang=en}} and {{term|πέτομαι|lang=grc}} for more.
 * Bulgarian: {{t+|bg|писалка|f|tr=pisalka}}
 * Burmese: {{t+|my|ကလောင်|tr=kălaung|sc=Mymr}}
 * Chinese:
-*: Mandarin: {{t-|cmn|鋼筆|sc=Hani}}, {{t-|cmn|鋼筆|sc=Hani}}, {{t-|cmn|钢笔|tr=gāngbǐ|sc=Hani}}, {{t-|cmn|筆|sc=Hani}}, {{t-|cmn|笔|tr=bǐ|sc=Hani}}, {{t|cmn|圓珠筆|sc=Hani}}, {{t|cmn|圆珠笔|tr=yuánzhūbǐ|sc=Hani}}
+*: Mandarin: {{t|cmn|鋼筆|sc=Hani}}, {{t+|cmn|钢笔|tr=gāngbǐ|sc=Hani}}, {{t|cmn|筆|sc=Hani}}, {{t+|cmn|笔|tr=bǐ|sc=Hani}}, {{t|cmn|圓珠筆|sc=Hani}}, {{t|cmn|圆珠笔|tr=yuánzhūbǐ|sc=Hani}}
 * Coptic: {{tø|cop|ⲕⲁϣ|m|tr=kaš}}
 * Czech: {{t+|cs|pero|n}}
 * Danish: {{t+|da|pen|c}}
@@ -153,7 +153,7 @@ See {{term|feather|lang=en}} and {{term|πέτομαι|lang=grc}} for more.
 * Faroese: {{t-|fo|pennur|m}}
 * Finnish: {{t+|fi|kynä}}, {{t-|fi|mustekynä}}
 * French: {{t+|fr|plume|f}}, {{t+|fr|stylo|m}}
-* Georgian: {{t-|ka|კალამი|tr=kalami|sc=Geor}}
+* Georgian: {{t-|ka|კალამი|sc=Geor}}
 * German: {{t+|de|Kugelschreiber|m}}, {{t+|de|Stift|m}}, {{t+|de|Federhalter|m}}, {{t+|de|Füllhalter|m}}
 * Greek: {{t+|el|στυλό|n|tr=styló}}
 * Hebrew: {{t+|he|עט|m|alt=עֵט|tr=et}}
@@ -189,10 +189,10 @@ See {{term|feather|lang=en}} and {{term|πέτομαι|lang=grc}} for more.
 * Polish: {{t+|pl|pióro|n}}, {{t+|pl|długopis|m}}
 * Portuguese: {{t+|pt|caneta|f}}
 * Russian: {{t+|ru|ручка|f}} (rúčka), {{t+|ru|авторучка|f}} (avtorúčka), {{t+|ru|перо|n}} (peró)
-* Scottish Gaelic: [[peann]] {{m}}
+* Scottish Gaelic: {{t|gd|peann|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|перо|n}}, {{t-|sh|хемијска оловка|f}} / {{t-|sh|кемијска оловка|f}}
-*: Roman: {{t-|sh|pero|n}}, {{t-|sh|hemijska olovka|f}} / {{t-|sh|kemijska olovka|f}}
+*: Cyrillic: {{t-|sh|перо|n}}, {{t-|sh|хемијска оловка|f}}, {{t-|sh|кемијска оловка|f}}
+*: Roman: {{t-|sh|pero|n}}, {{t-|sh|hemijska olovka|f}}, {{t-|sh|kemijska olovka|f}}
 * Sinhalese: {{t+|si|පෑන|tr=pǣna|sc=Sinh}}
 * Slovak: {{t-|sk|pero|n}}
 * Slovene: {{t+|sl|pero|n}}
@@ -200,8 +200,8 @@ See {{term|feather|lang=en}} and {{term|πέτομαι|lang=grc}} for more.
 * Swahili: {{t+|sw|kalamu}}
 * Swedish: {{t+|sv|penna|c}}, {{t+|sv|bläckpenna|c}}
 * Tagalog: {{t-|tl|pluma}}
-* {{trreq|Tajik}}
-* Telugu: [[పెన్ను]], [[కలము]], [[కలం]] (pennu, kalamu, kalam)
+* {{trreq|tg}}
+* Telugu: {{t|te|పెన్ను|sc=Telu}}, {{t|te|కలము|sc=Telu}}, {{t|te|కలం|tr=pennu, kalamu, kalam|sc=Telu}}
 * Thai: {{t-|th|ปากกา|tr=pàakkaa}}
 * Turkish: {{t+|tr|kalem}}
 * Turkmen: {{t|tk|ruçka}}, {{t|tk|agyl}}
@@ -214,7 +214,7 @@ See {{term|feather|lang=en}} and {{term|πέτομαι|lang=grc}} for more.
 {{trans-bottom}}
 
 {{trans-top|internal cartilage skeleton of a squid}}
-* Korean: [[오징어]] [[뼈]] (ojing-eo ppyeo)
+* {{ttbc|ko}}: {{t-SOP|ko|[[오징어]] [[뼈]]|tr=ojing-eo ppyeo|sc=Kore}} <!-- was "[[오징어]] [[뼈]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-mid}}
 {{trans-bottom}}
 
