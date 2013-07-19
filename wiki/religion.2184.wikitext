@@ -68,9 +68,9 @@ Generally speaking, certain groups that do not acknowledge the existence of one 
 * Abkhaz: {{t|ab|адин|tr=adin|sc=Cyrl}} {{qualifier|definite}}
 * Adyghe: {{tø|ady|дин|tr=din}}
 * Albanian: {{t-|sq|fe|f}}
-* Arabic: {{t-|ar|ديانة|f|tr=diyaana}}, {{t+|ar|دين|m|tr=diin}}
+* Arabic: {{t-|ar|ديانة|f|tr=diyāna}}, {{t+|ar|دين|m|tr=dīn}}
 *: Egyptian Arabic: {{tø|arz|دين|m|tr=diin|sc=Arab}}
-* Armenian: {{t-|hy|կրոն|tr=kron|sc=Armn}}
+* Armenian: {{t-|hy|կրոն|sc=Armn}}
 * Asturian: {{t-|ast|relixón|f}}
 * Avar: {{t|av|дин|tr=din|sc=Cyrl}}
 * Avestan: {{tø|ae|𐬛𐬀𐬉𐬥𐬁|tr=daēnā|sc=Avst}}
@@ -84,17 +84,17 @@ Generally speaking, certain groups that do not acknowledge the existence of one 
 * Chechen: {{tø|ce|дин|tr=din}}
 * Chinese:
 *: Cantonese: {{tø|yue|宗教|tr=zung1 gaau3|sc=Hant}}
-*: Mandarin: {{t-|cmn|宗教|tr=zōngjiào|sc=Hani}}
+*: Mandarin: {{t+|cmn|宗教|tr=zōngjiào|sc=Hani}}
 * Chuvash: {{tø|cv|тӗн|sc=Cyrl}}
 * Czech: {{t+|cs|náboženství|n}}
-* Dutch: [[godsdienst]] {{m}}, [[geloofsovertuiging]] {{f}}, [[religie]] {{f}}
+* Dutch: {{t|nl|godsdienst|m}}, {{t|nl|geloofsovertuiging|f}}, {{t|nl|religie|f}}
 * Esperanto: {{t-|eo|religio}}
 * Estonian: {{t-|et|religioon}}
 * Faroese: {{t|fo|átrúnaður|m}}
 * Finnish: {{t+|fi|uskonto}}
 * French: {{t+|fr|religion|f}}
 * Galician: {{t+|gl|relixión|f}}
-* Georgian: {{t-|ka|რელიგია|tr=religia|sc=Geor}}
+* Georgian: {{t-|ka|რელიგია|sc=Geor}}
 * German: {{t+|de|Religion|f}}
 * Greek: {{t+|el|θρησκεία|f|tr=thriskeía}}
 * Guaraní: {{t-|gn|tupãrape}}
@@ -106,7 +106,7 @@ Generally speaking, certain groups that do not acknowledge the existence of one 
 * Ido: {{t+|io|religio}}
 * Indonesian: {{t+|id|agama}}
 * Ingush: {{tø|inh|ди|tr=di}}
-* Irish: [[creideamh]] {{m}}, [[reiligiún]] {{f}}
+* Irish: {{t|ga|creideamh|m}}, {{t|ga|reiligiún|f}}
 * Italian: {{t+|it|religione|f}}
 * Japanese: {{t+|ja|宗教|tr=しゅうきょう, shūkyō}}
 * Jèrriais: {{tø|roa-jer|r'ligion|f}}
@@ -119,7 +119,7 @@ Generally speaking, certain groups that do not acknowledge the existence of one 
 *: Sorani: {{t|ku|sc=ku-Arab|ئاین}}, {{t|ku|sc=ku-Arab|دین}}
 * Kyrgyz: {{t+|ky|дин|sc=Cyrl}}
 * Ladino:
-** Latini: {{tø|lad|relijion|f|sc=Latn}}
+*: {{ttbc|Latini}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{tø|lad|relijion|f|sc=Latn}}
 * Lao: {{t+|lo|ສາດສະໜາ|tr=saat-sa-naa|sc=Laoo}}
 * Latin: {{t+|la|religio|f|alt=religiō}}
 * Latvian: {{t+|lv|reliģija|f}}
@@ -149,14 +149,14 @@ Generally speaking, certain groups that do not acknowledge the existence of one 
 * Samogitian: {{tø|sgs|viera|f}}
 * Sanskrit: {{t+|sa|धर्म|m|tr=dharma}}
 * Santali: {{tø|sat|ᱫᱤᱱ|tr=din|sc=Olck}}
-* Scots: [[releegion]]
+* Scots: {{t|sco|releegion}}
 * Scottish Gaelic: {{t-|gd|creideamh|m}}, {{t-|gd|diadhachd|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|религија|f|alt=рѐлӣгија}}, {{t-|sh|вера|f|alt=ве̏ра}} ([[Ekavian]]) / {{t-|sh|вјера|f|alt=вје̏ра}} ([[Ijekavian]]), {{t-|sh|вероисповест|f|alt=вероѝспове̄ст}} ([[Ekavian]]) / {{t-|sh|вјероисповијест|f|alt=вјероѝсповије̄ст}} ([[Ijekavian]])
-*: Roman: {{t-|sh|religija|f|alt=rèlīgija}}, {{t-|sh|vera|f|alt=vȅra}} ([[Ekavian]]), {{t-|sh|vjera|f|alt=vjȅra}} ([[Ijekavian]]), {{t-|sh|veroispovest|f|alt=veroìspovēst}} ([[Ekavian]]) / {{t-|sh|vjeroispovijest|f|alt=vjeroìspovijēst}} ([[Ijekavian]])
+*: Cyrillic: {{t-|sh|религија|f|alt=рѐлӣгија}}, {{t-|sh|вера|f|alt=ве̏ра}} ([[Ekavian]]), {{t-|sh|вјера|f|alt=вје̏ра}} ([[Ijekavian]]), {{t-|sh|вероисповест|f|alt=вероѝспове̄ст}} ([[Ekavian]]), {{t-|sh|вјероисповијест|f|alt=вјероѝсповије̄ст}} ([[Ijekavian]])
+*: Roman: {{t-|sh|religija|f|alt=rèlīgija}}, {{t-|sh|vera|f|alt=vȅra}} ([[Ekavian]]), {{t-|sh|vjera|f|alt=vjȅra}} ([[Ijekavian]]), {{t-|sh|veroispovest|f|alt=veroìspovēst}} ([[Ekavian]]), {{t-|sh|vjeroispovijest|f|alt=vjeroìspovijēst}} ([[Ijekavian]])
 * Sinhalese: {{t|si|ආගම|tr=āgama|sc=Sinh}}
 * Slovak: {{t-|sk|náboženstvo|n}}, {{t-|sk|relígia|f}}
-* Slovene: [[vera]] {{f}}, [[veroizpoved]] {{f}}, [[religija]] {{f}}
+* Slovene: {{t|sl|vera|f}}, {{t|sl|veroizpoved|f}}, {{t|sl|religija|f}}
 * Sorbian:
 *: Lower Sorbian: {{tø|dsb|nabóžnina|f}}
 *: Upper Sorbian: {{t|hsb|nabožina|f}}
@@ -185,15 +185,15 @@ Generally speaking, certain groups that do not acknowledge the existence of one 
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~ It would be good if you could delay categorising any more terms below - there is currently a discussion on the talk page for Religion which may result in combining some of the current definitions ~~~~~~~~~~~~~~~~~~~~ -->
 {{checktrans-top}}
-* {{ttbc|sq}}: [[fe]] {{f}}
-* {{ttbc|bg}}: [[религия]] (relígija) {{f}}
-* {{ttbc|eo}}: [[religio]]
-* {{ttbc|hi}}: [[धर्म]] (dharm) {{m}}; [[मज़हब]] (mazhab) {{m}}
-* {{ttbc|ia}}: [[religion#Interlingua|religion]]
+* {{ttbc|sq}}: {{t|sq|fe|f}}
+* {{ttbc|bg}}: {{t|bg|религия|f|tr=relígija|sc=Cyrl}}
+* {{ttbc|eo}}: {{t|eo|religio}}
+* {{ttbc|hi}}: {{t|hi|धर्म|m|tr=dharm|sc=Deva}}, {{t|hi|मज़हब|m|tr=mazhab|sc=Deva}}
+* {{ttbc|ia}}: {{t|ia|religion}}
 {{trans-mid}}
-* {{ttbc|la}}: [[religio]] {{f}}
-* {{ttbc|ml}}: [[മതം]] (mataṁ)
-* {{ttbc|mt}}: [[reliġjon]]
+* {{ttbc|la}}: {{t|la|religio|f}}
+* {{ttbc|ml}}: {{t|ml|മതം|tr=mataṁ|sc=Mlym}}
+* {{ttbc|mt}}: {{t|mt|reliġjon}}
 * {{ttbc|ur}}: {{t|ur|مذہب|tr=mazhab|m}}, {{t|ur|دین|tr=dīn}}
 {{trans-bottom}}
 
