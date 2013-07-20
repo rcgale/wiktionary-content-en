@@ -67,9 +67,9 @@ The scientific definition of what organisms should be considered plants changed 
 * Afrikaans: {{t-|af|Plant}}, {{t-|af|Plante|p}}
 * Albanian: {{t+|sq|bimë|f}}
 * Amharic: {{t-|am|ተክል|tr=täkələ|sc=Ethi}}
-* Arabic: {{t+|ar|نبات|m|tr=nabaat}}
+* Arabic: {{t+|ar|نبات|m|tr=nabāt}}
 * Aragonese: {{t-|an|mata}}, {{t-|an|matas|p}}
-* Armenian: {{t+|hy|բույս|tr=buys}}
+* Armenian: {{t+|hy|բույս}}
 * Assamese: {{t-|as|গছ-গছনি|sc=Beng}}
 * Asturian: {{t+|ast|planta|f}}
 * Azeri: {{t+|az|bitki|sc=Arab}}, {{t-|az|bitkilər|p|sc=Arab}}
@@ -77,13 +77,13 @@ The scientific definition of what organisms should be considered plants changed 
 * Banjarese: {{tø|bjn|tumbuhan}}
 * Bashkir: {{tø|ba|үҫемлек|tr=üθemlek|sc=Cyrl}}
 * Basque: {{t-|eu|landare}}, {{t-|eu|landareak|p}}
-* Belarusian: {{t-|be|расьліна|tr=ras'lina}}, {{t-|be|расьліны|p|tr=ras'liny}}
+* Belarusian: {{t-|be|расліна|f|tr=raslína}}
 * Bengali: {{t-|bn|গাছ|tr=gach|sc=Beng}}
 * Bikol Central: {{tø|bcl|pananom}}
 * Bishnupriya Manipuri: {{tø|bpy|চারা}}
 * Breton: {{t+|br|plantenn}}, {{t-|br|plant|p}}
-* Bulgarian: {{t+|bg|растение|n|tr=rastenie}}, {{t+|bg|растения|p|tr=rasteniya}}
-* Burmese: {{t+|my|အပင်|sc=Mymr}}
+* Bulgarian: {{t+|bg|растение|n|tr=rasténie}}
+* Burmese: {{t+|my|အပင်|tr=a.pang|sc=Mymr}}
 * Burushaski: {{tø|bsk|tom}}
 * Capiznon: {{tø|cps|tanum}}
 * Catalan: {{t+|ca|planta|f}}
@@ -93,7 +93,7 @@ The scientific definition of what organisms should be considered plants changed 
 * Chichewa: {{tø|ny|chomera}}, {{tø|ny|zomera|p}}
 * Chidigo: {{tø|dig|muhi}}, {{tø|dig|mihi|p}}
 * Chinese:
-*: Mandarin: {{t-|cmn|植物|tr=zhíwù|sc=Hani}}
+*: Mandarin: {{t+|cmn|植物|tr=zhíwù|sc=Hani}}
 *: Min Nan: {{t+|nan|植物|tr=si̍t-bu̍t|sc=Hans}}
 * Chuvash: {{tø|cv|ӳсентăран|sc=Cyrl}}
 * Crimean Tatar: {{tø|crh|bitki}}
@@ -135,7 +135,7 @@ The scientific definition of what organisms should be considered plants changed 
 * Ido: {{t+|io|planto}}
 * Igbo: {{tø|ig|osisi}}
 * Ilocano: {{tø|ilo|mula}}
-* Indonesian: [[tumbuh-tumbuhan]]
+* Indonesian: {{t|id|tumbuh-tumbuhan}}
 * Interlingua: {{t-|ia|planta}}
 * {{trreq|ie}}
 * Inuktitut: {{t|iu|ᐱᕈᖅᑐᖅ|tr=piruqtuq|sc=Cans}}
@@ -154,7 +154,7 @@ The scientific definition of what organisms should be considered plants changed 
 * Karaim: {{tø|krd|биткэи|tr=bitkei|sc=Cyrl}}
 * Karakalpak: {{tø|kaa|өсимлик|tr=o'simlik|sc=Cyrl}}, {{tø|kaa|өсимликлер|p|tr=o'simlikler|sc=Cyrl}}
 * Kashubian: {{t-|csb|roscëna}}, {{t-|csb|roscënë|p}}
-* Kazakh: {{t|kk|өсімдік|tr=Ösimdik|sc=Cyrl}}, {{t|kk|وسىمدىك|tr=ösimdik|sc=Arab}}, {{t|kk|өсімдіктер|p|tr=ösimdikter|sc=Cyrl}}, {{t|kk|وسىمدىكتەر|p|tr=ösimdikter|sc=Arab}}
+* Kazakh: {{t|kk|өсімдік|tr=ösimdik|sc=Cyrl}}
 * Khmer: {{t+|km|ដើម|sc=Khmr|tr=daəm}}
 * Kikuyu: {{tø|ki|mũmera}}, {{tø|ki|mĩmera|p}}, {{tø|ki|muti}}, {{tø|ki|miti|p}}
 * Kinaray-a: {{tø|krj|tanum}}
@@ -208,7 +208,7 @@ The scientific definition of what organisms should be considered plants changed 
 * Oromo: {{t-|om|biqila}}
 * Pashto: {{t+|ps|نبات|sc=ps-Arab}}, {{t-|ps|نباتات|p|sc=ps-Arab}}
 * Persian: {{t+|fa|بوته|tr=bute}}, {{t+|fa|گياه}}
-* Polish: {{t+|pl|roślina|f}}, {{t+|pl|roślina}}, {{t-|pl|rośliny|f-p}}
+* Polish: {{t+|pl|roślina|f}}
 * Portuguese: {{t+|pt|planta|f}}, {{t+|pt|vegetal|m}}
 * Punjabi: {{t-|pa|ਪੌਦਾ|tr=paudā|sc=Guru}}, {{t-|pa|ਪੌਦੇ|p|tr=paude|sc=Guru}}
 * Quechua: {{tø|qu|yura}} {{qualifier|Imbabura Highland Quichua}}
@@ -220,19 +220,20 @@ The scientific definition of what organisms should be considered plants changed 
 * Rusyn: {{tø|rue|ростлина|f|tr=rostlina}}, {{tø|rue|ростлины|f-p|tr=rostliny}}, {{tø|rue|рошлїна|f|tr=rošlina}} {{qualifier|Panonian Rusyn}}, {{tø|rue|рошлїни|f-p|tr=rošlini}} {{qualifier|Panonian Rusyn}}
 * Saramaccan: {{tø|srm|uwíi}}
 * Sardinian: {{t-|sc|pranta|f}}
-* Serbo-Croatian: {{t-|sh|raslina|f}}, {{t-|sh|biljka|f}}
+* Serbo-Croatian:
+*: Roman: {{t-|sh|raslina|f}}, {{t-|sh|biljka|f}}
 * Seychellois Creole: {{tø|crs|laplant}}
 * Shina: {{tø|scl|tom}}
 * Shona: {{t-|sn|mbesa}}
 * Sicilian: {{t+|scn|chianta|f}}, {{t+|scn|cianta|f}}
 * {{trreq|sd}}
 * Sinhalese: {{t-|si|පැළය|tr=pæḷaya|sc=Sinh}}
-* Slovak: {{t+|sk|rastlina|f}}, {{t-|sk|rastliny|p}}
+* Slovak: {{t+|sk|rastlina|f}}
 * Slovene: {{t+|sl|rastlina|f}}
 * Somali: {{t-|so|dhir}}
 * Sorbian:
-*: Lower Sorbian: {{tø|dsb|rostlina}}, {{tø|dsb|rostliny|p}}
-*: Upper Sorbian: {{t+|hsb|rostlina}}, {{t-|hsb|rostliny|p}}
+*: Lower Sorbian: {{tø|dsb|rostlina|f}}
+*: Upper Sorbian: {{t+|hsb|rostlina|f}}
 * Sotho: {{t-|st|semela}}, {{t-|st|dimela|p}}
 * South Azerbaijani: {{tø|azb|بیتکی|tr=bitki|sc=Arab}}, {{tø|azb|بیتکی‌لر|p|tr=bitkilər|sc=Arab}}
 * Southern Hindko: {{tø|hnd|پودا}}, {{tø|hnd|پودے|p}}
@@ -244,9 +245,9 @@ The scientific definition of what organisms should be considered plants changed 
 * Swedish: {{t+|sv|planta|c}}, {{t+|sv|växt}}
 * Tagabawa: {{tø|bgs|pamula}}, {{tø|bgs|mga pamula|p}}
 * Tagalog: {{t-|tl|halaman}}
-* Tajik: {{t-|tg|ниҳол|sc=Cyrl}}, {{t-|tg|ниҳолҳо|p|sc=Cyrl}}, {{t-|tg|نحال|sc=Arab}}, {{t-|tg|نحال‌ها|p|sc=Arab}}
+* Tajik: {{t-|tg|ниҳол|tr=nihol|sc=Cyrl}}
 * Tamil: {{t+|ta|செடி|tr=sedi|sc=Taml}}
-* Tatar: {{t+|tt|үсемлек|tr=üsemlek|sc=Cyrl}}, {{t-|tt|үсемлекләр|p|tr=üsemleklär|sc=Cyrl}}
+* Tatar: {{t+|tt|үсемлек|tr=üsemlek|sc=Cyrl}}
 * Telugu: {{t+|te|మొక్క|tr=mokka}}
 * Thai: {{t+|th|พืช|tr=pêut}}
 * Tibetan: {{t-|bo|རྩི་ཤིང་།|sc=Tibt|tr=rtsi shing}}
@@ -260,11 +261,12 @@ The scientific definition of what organisms should be considered plants changed 
 * Twi: {{t-|tw|dua}}, {{t-|tw|ndua|p}}
 * Uab Meto: {{tø|aoz|hau}}, {{tø|aoz|hauhonês}}, {{tø|aoz|hau’amoni}}
 * Udmurt: {{tø|udm|будос|tr=budos}}
-* Ukrainian: {{t+|uk|рослина|f|tr=roslina}}, {{t-|uk|рослини|p|tr=roslini}}
+* Ukrainian: {{t+|uk|рослина|f|tr=roslýna}}
 * Urdu: {{t-|ur|نبات}}, {{t-|ur|نباتات|p}}
 * Urum: {{tø|uum|ӧсӱмлӱк|tr=ösümlük|sc=Cyrl}}
 * Uyghur: {{t-|ug|ئۆسۈملۈك|tr=ösümlük|sc=ug-Arab}}, {{t-|ug|ئۆسۈملۈكلەر|p|tr=ösümlükler|sc=ug-Arab}}
-* Uzbek: {{t-|uz|o‘simlik}}, {{t-|uz|ўсимлик|tr=o‘simlik|sc=Cyrl}}
+* Uzbek: {{t-|uz|oʻsimlik}}
+*: Cyrillic: {{t-|uz|ўсимлик|tr=oʻsimlik|sc=Cyrl}}
 * Venetian: {{tø|vec|pianta}}, {{tø|vec|piante|p}}
 * Vietnamese: {{t+|vi|thực vật}}, {{t+|vi|cây}}
 * {{trreq|wa}}
@@ -407,7 +409,7 @@ The scientific definition of what organisms should be considered plants changed 
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|cmn}}: [[組裝]], [[组装]] (zǔzhuāng)
+* {{ttbc|cmn}}: {{t|cmn|組裝|sc=Hani}}, {{t|cmn|组装|tr=zǔzhuāng|sc=Hani}}
 * {{ttbc|nl}}: {{t-|nl|site|m}}, {{t+|nl|bedrijf|n}}, {{t+|nl|centrale|f}}
 * {{ttbc|pt}}: {{t+|pt|aparelhagem|f}}, {{t+|pt|instalação|f}}
 * {{ttbc|es}}: {{t+|es|planta|f}}
