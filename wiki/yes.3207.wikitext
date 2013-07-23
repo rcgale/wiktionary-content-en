@@ -39,15 +39,15 @@ From {{etyl|enm|en}} {{term|yes|lang=enm}}, {{term|yis|lang=enm}}, from {{etyl|a
 {{trans-top|word used to indicate agreement or acceptance}}
 * Afrikaans: {{t+|af|ja}}
 * Albanian: {{t-|sq|po}}
-* Aleut: [[aang]]
+* Aleut: {{t|ale|aang}}
 * Alutiiq: {{tø|ems|aa'a}}
 * American Sign Language: {{tø|ase|S@Side Nod}}
 * Arabic: {{t+|ar|نعم|tr=náʿam, naʿm}}
-*: Egyptian Arabic: {{tø|arz|أيوة|tr='áywa|sc=Arab}}, {{tø|arz|ايوه|tr='áywa|sc=Arab}}, {{tø|arz|اه|tr='áa|sc=Arab}}
+*: Egyptian Arabic: {{tø|arz|أيوة|tr=ʾáywa|sc=Arab}}, {{tø|arz|ايوه|tr=ʾáywa|sc=Arab}}, {{tø|arz|اه|tr=ʾā|sc=Arab}}
 * {{trreq|an}}
 * Aramaic:
-*: Syriac: [[ܐܝܢ]] (’ēn)
-* Armenian: {{t+|hy|այո|tr=ayo}} {{qualifier|polite}}, {{t-|hy|հա|tr=ha}} {{qualifier|informal}}
+*: Syriac: {{t|arc|ܐܝܢ|tr=’ēn|sc=Syrc}}
+* Armenian: {{t+|hy|այո}} {{qualifier|polite}}, {{t-|hy|հա}} {{qualifier|informal}}
 * Aromanian: {{t-|rup|ie}}
 * Asturian: {{t+|ast|sí}}
 * {{trreq|ay}}
@@ -64,7 +64,7 @@ From {{etyl|enm|en}} {{term|yes|lang=enm}}, {{term|yis|lang=enm}}, from {{etyl|a
 * Chechen: {{tø|ce|хIаъ|tr=hah|sc=Cyrl}}
 * Cherokee: {{t-|chr|ᎥᎥ|tr=vv|sc=Cher}}
 * Chinese:
-*: Mandarin: {{t-|cmn|是|tr=shì|sc=Hani}}, {{t-|cmn|對|sc=Hani}}, {{t-|cmn|对|tr=duì|sc=Hani}}; (repeating the verb/attribute used in the question to mean "yes" -你'''知道'''吗？ -'''知道''')
+*: Mandarin: {{t+|cmn|是|tr=shì|sc=Hani}}, {{t|cmn|對|sc=Hani}}, {{t+|cmn|对|tr=duì|sc=Hani}}, {{t|cmn|啊|tr=à|sc=Hani}} {{qualifier|colloquial}}, (repeating the verb/attribute used in the question to mean "yes" 你'''知道'''吗？ '''知道''')
 * Choctaw: {{tø|cho|ome}}
 * Corsican: {{t-|co|iè}}, {{t-|co|sì}}
 * Czech: {{t+|cs|ano}}, {{t+|cs|jo}} {{qualifier|colloquial}}
@@ -91,11 +91,11 @@ From {{etyl|enm|en}} {{term|yes|lang=enm}}, {{term|yis|lang=enm}}, from {{etyl|a
 * Icelandic: {{t+|is|já}}
 * Ido: {{t+|io|yes}}
 * Indonesian: {{t+|id|ya}}
-* Irish: Not used; affirmative form of the verb is used instead.
+* {{ttbc|ga}}: {{t-SOP|ga|Not used}} <!-- was "Not used" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-SOP|ga|affirmative form of the verb is used instead.}} <!-- was "affirmative form of the verb is used instead." - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Italian: {{t+|it|sì}}
-* Japanese: {{qualifier|polite}} {{t+|ja|はい|tr=hai}}, {{t+|ja|ええ|tr=ē}}, {{qualifier|informal}} {{t-|ja|うん|tr=un, n̄}}
+* Japanese: {{t+|ja|はい|tr=hai}} {{qualifier|polite}}, {{t+|ja|ええ|tr=ē}}, {{t-|ja|うん|tr=un, n̄}} {{qualifier|informal}}
 * Kannada: {{t+|kn|ಹೌದು|tr=haudu|sc=Knda}}
-* Kazakh: {{t+|kk|иә|tr=iyä|sc=Cyrl}}
+* Kazakh: {{t+|kk|иә|tr=ïä|sc=Cyrl}}
 * Khmer: {{qualifier|female speaker}} {{t-|km|ច៎ា|tr=jaa|sc=Khmr}}, {{qualifier|male speaker}} {{t+|km|បាទ|tr=baat|sc=Khmr}}, {{qualifier|informal}} {{t+|km|អើ|tr=’aə|sc=Khmr}}, {{qualifier|very informal}} {{t+|km|អឺ|tr=’əɨ|sc=Khmr}}
 * Korean: {{t+|ko|네|tr=ne|sc=Hang}}, {{t+|ko|예|tr=ye|sc=Hang}}
 * Kyrgyz: {{t-|ky|ооба|tr=ooba|sc=Cyrl}}, {{t-|ky|макул|tr=makul|sc=Cyrl}}
@@ -122,7 +122,7 @@ From {{etyl|enm|en}} {{term|yes|lang=enm}}, {{term|yis|lang=enm}}, from {{etyl|a
 * Neapolitan: {{tø|nap|eine}}, {{tø|nap|sine}}
 * {{trreq|ne}}
 * Norwegian: {{t+|no|ja}}
-* Novial: [[yes#Novial|yes]]
+* Novial: {{t|nov|yes}}
 * Occitan: {{t+|oc|òc}}
 * Old English: {{t-|ang|gea|alt=gēa}}
 * Old French: {{tø|fro|oïl}}
@@ -139,7 +139,7 @@ From {{etyl|enm|en}} {{term|yes|lang=enm}}, {{term|yis|lang=enm}}, from {{etyl|a
 * Rapa Nui: {{tø|rap|eee}}
 * Romanian: {{t+|ro|da}}
 * Romansch: {{qualifier|Rumantsch Grischun, Sutsilvan, Surmiran}} {{t-|rm|gea}}, {{qualifier|Sursilvan}} {{t-|rm|gie}}, {{qualifier|Sutsilvan, Surmiran}} {{t-|rm|ea}}, {{qualifier|Puter, Vallader}} {{t-|rm|schi}}, {{qualifier|Puter, Vallader}} {{t-|rm|hei}}, {{qualifier|Vallader}} {{t-|rm|hai}}
-* Russian: {{t+|ru|да|tr=da}}
+* Russian: {{t+|ru|да|tr=da}}, {{t+|ru|так|tr=tak}}
 * Samoan: {{t-|sm|ioe}}
 * Saterland Frisian: {{tø|stq|jee}}
 * Scots: {{tø|sco|aye}}
@@ -151,7 +151,7 @@ From {{etyl|enm|en}} {{term|yes|lang=enm}}, {{term|yis|lang=enm}}, from {{etyl|a
 * Silesian: {{tø|szl|ja}}
 * {{trreq|sd}}
 * Sinhalese: {{t-|si|ඔවු|tr=owu|sc=Sinh}}
-* Slovak: {{t+|sk|áno}}, {{t-|sk|hej}} {{qualifier|colloquial}}, [[no#Slovak|no]] {{qualifier|informal}}
+* Slovak: {{t+|sk|áno}}, {{t-|sk|hej}} {{qualifier|colloquial}}, {{t|sk|no}} {{qualifier|informal}}
 * Slovene: {{t+|sl|da|alt=dà}}, {{t+|sl|ja|alt=já}}
 * Spanish: {{t+|es|sí}}
 * {{trreq|sva}}
@@ -160,7 +160,7 @@ From {{etyl|enm|en}} {{term|yes|lang=enm}}, {{term|yis|lang=enm}}, from {{etyl|a
 * Tagalog: {{t+|tl|oo}}, {{qualifier|formal}} {{t+|tl|opo}}
 * Tajik: {{t-|tg|ҳа|tr=ha|sc=Cyrl}}, {{t-|tg|бале|tr=bale|sc=Cyrl}}, {{t-|tg|ори|tr=ori|sc=Cyrl}}
 * Tamil: {{t+|ta|ஆமாம்|tr=āmām|sc=Taml}}
-* Taos: [[hą]]
+* Taos: {{t|twf|hą}}
 * Tatar: {{t+|tt|әйе|tr=äye|sc=Cyrl}}
 * Telugu: {{t+|te|అవును|tr=awunu}}, {{t+|te|ఔను|tr=aunu}}
 * Thai: {{t+|th|ใช่|tr=châi}}, {{t+|th|ครับ|tr=kráp}} {{qualifier|male speaker}}, {{t-|th|ค่ะ|tr=kâ}} {{qualifier|female speaker}}, {{t+|th|ถูก|tr=tòok}}, {{t-|th|ถูกต้อง|tr=tòok dtông}} {{qualifier|formal}}, {{t-|th|อืม|tr=eum}} {{qualifier|informal}}
@@ -175,26 +175,26 @@ From {{etyl|enm|en}} {{term|yes|lang=enm}}, {{term|yis|lang=enm}}, from {{etyl|a
 * Vietnamese: {{t+|vi|vâng}} {{qualifier|Northern Vietnam}}, {{t+|vi|dạ}} {{qualifier|Southern Vietnam}}, {{t+|vi|có}} {{qualifier|in response to a question containing ''có''}}, {{t+|vi|phải}} {{qualifier|in response to a question containing ''(có) phải''}}, {{t+|vi|được}} {{qualifier|in response to a question containing ''được không''}}, {{t+|vi|rồi}} {{qualifier|in response to a question containing ''chưa''}}, {{t+|vi|ờ}} {{qualifier|informal}}, {{t-|vi|ừ}} {{qualifier|informal}}
 * Volapük: {{t+|vo|si}}
 * Walloon: {{t|wa|oyi}}, {{t|wa|awè}}, {{t|wa|åy}}
-* West Frisian: [[ja]]
+* West Frisian: {{t|fy|ja}}
 * {{trreq|xh}}
 * Yiddish: {{t-|yi|יאָ|tr=yo|sc=Hebr}}
 * {{trreq|zu}}
-* ǃXóõ: [[ʻée]], [[ʻíi]], [[ʻē êh]]
+* ǃXóõ: {{t|nmn|ʻée}}, {{t|nmn|ʻíi}}, {{t|nmn|ʻē êh}}
 {{trans-bottom}}
 
 {{trans-top|word used to indicate disagreement or dissent in reply to a negative statement}}
-* Arabic: {{t-|ar|بلى|tr=balaa|alt=بَلى|sc=Arab}}
+* Arabic: {{t-|ar|بلى|tr=bálā|alt=بَلى|sc=Arab}}
 * Catalan: {{t+|ca|sí}}
 * Danish: {{t+|da|jo}}
-* Dutch: [[jawel]], [[toch]], [[wel]] {{qualifier|most common form}}
+* Dutch: {{t|nl|jawel}}, {{t|nl|toch}}, {{qualifier|most common form}} {{t|nl|wel}}
 * Faroese: {{t-|fo|jú}}
 * Fijian: {{t+|fj|ia}}, {{t+|fj|io}}
-* Finnish: [[kylläpäs]], ''verb'' + [[-pas]]
+* Finnish: {{t|fi|kylläpäs}}, ''verb'' + [[-pas]]
 * French: {{t+|fr|si}}
 * German: {{t+|de|doch}}
 * Greek: {{t+|el|ναι|tr=nai}}
 * Hebrew: {{t-|he|דווקא כן|tr=dávka (dáfka, colloquial) kén|sc=Hebr}}
-* Hungarian: [[de igen]]
+* Hungarian: {{t|hu|de igen}}
 * Icelandic: {{t+|is|jú}}
 * Korean: {{t+|ko|아니요|tr=aniyo|sc=Kore}}
 {{trans-mid}}
@@ -203,7 +203,7 @@ From {{etyl|enm|en}} {{term|yes|lang=enm}}, {{term|yis|lang=enm}}, from {{etyl|a
 * Persian: {{t+|fa|چرا|tr=čerâ|sc=fa-Arab}}
 * Polish: {{t-|pl|ależ tak}}, {{t+|pl|owszem}}
 * Romansch: {{qualifier|Rumantsch Grischun, Vallader}} {{t-|rm|bain}}, {{qualifier|Sursilvan}} {{t-|rm|bein}}, {{qualifier|Sutsilvan}} {{t-|rm|bagn}}, {{qualifier|Surmiran}} {{t-|rm|gea bagn}}, {{qualifier|Puter, Vallader}} {{t-|rm|bainschi}}, {{qualifier|Puter, Vallader}} {{t-|rm|bainschi hei}}, {{qualifier|Vallader}} {{t-|rm|bainschi hai}}
-* Russian: {{t-|ru|ещё как|tr=ješčó kak}}, {{t+|ru|наоборот|tr=naoborót|sc=Cyrl}}
+* Russian: {{t-|ru|ещё как|tr=ješčó kak}}, {{t+|ru|наоборот|tr=naoborót|sc=Cyrl}}, {{t+|ru|напротив|tr=naprótiv|sc=Cyrl}}
 * Slovene: {{t+|sl|da|alt=dà}}, {{t+|sl|ja|alt=já}}
 * Spanish: {{t-|es|por el contrario}}
 * Swedish: {{t+|sv|jo}}
@@ -212,38 +212,38 @@ From {{etyl|enm|en}} {{term|yes|lang=enm}}, {{term|yis|lang=enm}}, from {{etyl|a
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|akz}}: [[yamá]], [[yamma]]
-* {{ttbc|sq}}: [[po]]
+* {{ttbc|akz}}: {{t|akz|yamá}}, {{t|akz|yamma}}
+* {{ttbc|sq}}: {{t|sq|po}}
 * {{ttbc|ar}}: {{l|ar|أجل|أجَل}} (’ájal)
-* {{ttbc|ay}}: [[jisa]]
-* {{ttbc|bn}}: [[হ্যাঁ]] (ɦæ̃)
-* {{ttbc|bcl}}: [[oo]]
-* {{ttbc|br}}: [[ya#Breton|ya]] (1), [[eo#Breton|eo]], [[geo#Breton|geo]] (2)
-* {{ttbc|ceb}}: [[oo]]
-* {{ttbc|cic}}: [[hohmi]], [[ah]]
-* {{ttbc|cop}}: [[ⲀϩⲀ]] (áha), [[ⲥⲉ]] (sa)
-* {{ttbc|cab}}: [[ayé]] {{qualifier|used by males}}, [[ayí]] {{qualifier|used by females}}
-* {{ttbc|gn}}: [[heẽ]]
-* {{ttbc|hil}}: [[huo]]
-* {{ttbc|ilo}}: [[wen]]
-* {{ttbc|ia}}: [[si]]
-* {{ttbc|iu}}: [[ᐄ]]
-* {{ttbc|pam}}: [[wa]]
-* {{ttbc|ku}}: [[belê]], [[erê]], [[a]], [[e]], {{t|ku|sc=ku-Arab|ئا}}, {{t|ku|sc=ku-Arab|به‌ڵێ}}
-* {{ttbc|la}}: [[ita]], [[ita vero]], [[sic]], [[recte]]
+* {{ttbc|ay}}: {{t|ay|jisa}}
+* {{ttbc|bn}}: {{t|bn|হ্যাঁ|tr=ɦæ̃|sc=Beng}}
+* {{ttbc|bcl}}: {{t|bcl|oo}}
+* {{ttbc|br}}: {{qualifier|1}} {{t|br|ya}}, {{t|br|eo}}, {{qualifier|2}} {{t|br|geo}}
+* {{ttbc|ceb}}: {{t|ceb|oo}}
+* {{ttbc|cic}}: {{t|cic|hohmi}}, {{t|cic|ah}}
+* {{ttbc|cop}}: {{t|cop|ⲀϩⲀ|tr=áha|sc=Copt}}, {{t|cop|ⲥⲉ|tr=sa|sc=Copt}}
+* {{ttbc|cab}}: {{qualifier|used by males}} {{t|cab|ayé}}, {{qualifier|used by females}} {{t|cab|ayí}}
+* {{ttbc|gn}}: {{t|gn|heẽ}}
+* {{ttbc|hil}}: {{t|hil|huo}}
+* {{ttbc|ilo}}: {{t|ilo|wen}}
+* {{ttbc|ia}}: {{t|ia|si}}
+* {{ttbc|iu}}: {{t|iu|ᐄ|sc=Cans}}
+* {{ttbc|pam}}: {{t|pam|wa}}
+* {{ttbc|ku}}: {{t|ku|belê}}, {{t|ku|erê}}, {{t|ku|a}}, {{t|ku|e}}, {{t|ku|sc=ku-Arab|ئا}}, {{t|ku|sc=ku-Arab|به‌ڵێ}}
+* {{ttbc|la}}: {{t|la|ita}}, {{t|la|ita vero}}, {{t|la|sic}}, {{t|la|recte}}
 {{trans-mid}}
-* {{ttbc|mg}}: [[eny]]
-* {{ttbc|gut}}: [[áo]]
-* {{ttbc|mi}}: [[ae]], [[āe]]
-* {{ttbc|sc}}: [[eja]]
+* {{ttbc|mg}}: {{t|mg|eny}}
+* {{ttbc|gut}}: {{t|gut|áo}}
+* {{ttbc|mi}}: {{t|mi|ae}}, {{t|mi|āe}}
+* {{ttbc|sc}}: {{t|sc|eja}}
 * {{ttbc|sh}}: {{t-|sh|да|sc=Cyrl}} ([[da#Serbo-Croatian|da]])
 * {{ttbc|si}}: {{t-|si|ඔවු|tr=owu|sc=Sinh}}
-* {{ttbc|sw}}: [[ndiyo]], [[sawa]]
-* {{ttbc|tl}}: [[oo]]
-* {{ttbc|tsg}}: [[huun]]
-* {{ttbc|tpn}}: [[pá]] {{qualifier|said by men}}; [[e'ẽ]] {{qualifier|said by men and women}}
+* {{ttbc|sw}}: {{t|sw|ndiyo}}, {{t|sw|sawa}}
+* {{ttbc|tl}}: {{t|tl|oo}}
+* {{ttbc|tsg}}: {{t|tsg|huun}}
+* {{ttbc|tpn}}: {{qualifier|said by men}} {{t|tpn|pá}}, {{qualifier|said by men and women}} {{t|tpn|e'ẽ}}
 * {{ttbc|tzj}}: ''ken''
-* {{ttbc|cy}}: [[ie]] {{qualifier|ee-ya; commonly used in English, shown as '''[[yeah]]'''}}
+* {{ttbc|cy}}: {{qualifier|ee-ya; commonly used in English, shown as '''[[yeah]]'''}} {{t|cy|ie}}
 {{trans-bottom}}
 
 ====Usage notes====
