@@ -45,9 +45,9 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * Afrikaans: {{t|af|grammatika}}
 * Albanian: {{t-|sq|gramatikë|f}}
 * Amharic: {{t-|am|ሰዋሰው|sc=Ethi|tr=säwasäwə}}
-* Arabic: {{t+|ar|قواعد|p|tr=qawā3id}}, {{t-|ar|نحو|m|tr=naḥw}}
+* Arabic: {{t+|ar|قواعد|p|tr=qawāʿid}}, {{t-|ar|نحو|m|tr=naḥw}}
 * Aragonese: {{t-|an|gramatica|f}}
-* Armenian: {{t-|hy|քերականություն|tr=k’erakanut’yun}}
+* Armenian: {{t-|hy|քերականություն}}
 * Asturian: {{t-|ast|gramática|f}}
 * Azeri: {{t-|az|qrammatika}}
 * Bashkir: {{tø|ba|грамматика|tr=grammatika|sc=Cyrl}}
@@ -58,10 +58,10 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * Burmese: {{t+|my|သဒ္ဒါ|tr=dhada|sc=Mymr}}
 * Catalan: {{t-|ca|gramàtica|f}}
 * Chinese:
-*: Mandarin: {{t-|cmn|語法|sc=Hani}}, {{t-|cmn|语法|tr=yǔfǎ|sc=Hani}}, {{t-|cmn|文法|tr=wénfǎ|sc=Hani}}
+*: Mandarin: {{t|cmn|語法|sc=Hani}}, {{t+|cmn|语法|tr=yǔfǎ|sc=Hani}}, {{t+|cmn|文法|tr=wénfǎ|sc=Hani}}
 *: Min Nan: {{t-|nan|文法|tr=bûn-hoat|sc=Hans}}
 *: Gan: {{tø|gan|文法|sc=Hans}}
-* Chuvash: {{tø|cv|грамматика|sc=Cyrl}}
+* Chuvash: {{tø|cv|грамматика|tr=grammatika|sc=Cyrl}}
 * Czech: {{t-|cs|mluvnice|f}}, {{t-|cs|gramatika|f}}
 * Danish: {{t+|da|grammatik}}
 * Dutch: {{t+|nl|spraakkunst|f}}, {{t+|nl|grammatica|f}}
@@ -70,7 +70,7 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * Finnish: {{t+|fi|kielioppi}}
 * French: {{t+|fr|grammaire|f}}
 * Galician: {{t-|gl|gramática|f}}
-* Georgian: {{t-|ka|გრამატიკა|tr=gramatika|sc=Geor}}
+* Georgian: {{t-|ka|გრამატიკა|sc=Geor}}
 * German: {{t+|de|Grammatik|f}}
 * Greek: {{t+|el|γραμματική|f|tr=grammatikí|sc=Grek}}
 * Greenlandic: {{t-|kl|oqaasilerissutit}}
@@ -125,7 +125,7 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * Spanish: {{t+|es|gramática|f}}
 * Swedish: {{t+|sv|grammatik|c}}
 * Tagalog: {{t-|tl|balarila}}
-* Tajik: {{t+|tg|дастури забон|sc=Cyrl}}
+* Tajik: {{t+|tg|дастури забон|tr=dasturi zabon|sc=Cyrl}}
 * Tamil: {{t+|ta|இலக்கணம்|tr=ilakkaṇam}}
 * Tatar: {{t|tt|грамматика|tr=grammatika|sc=Cyrl}}
 * Telugu: {{t+|te|నామవాచకం|tr=nāmavācakaṁ}}
@@ -144,7 +144,7 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 
 {{trans-top|study of internal structure and use of words}}
 * Albanian: {{t-|sq|gramatikë|f}}
-* Arabic: {{t-|ar|علم قواعد|m|tr=3ilm qawaa3id}}
+* Arabic: {{t-|ar|علم قواعد|m|tr=ʿilm qawāʿid}}
 * Catalan: {{t-|ca|gramàtica}}
 * Finnish: {{t+|fi|kielioppi}}
 * French: {{t+|fr|grammaire|f}}
@@ -163,16 +163,18 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * Portuguese: {{t+|pt|gramática|f}}
 * Russian: {{t+|ru|грамматика|f|tr=grammátika}}
 * Scottish Gaelic: {{t-|gd|gràmar|m}}
-* Serbo-Croatian: {{t-|sh|gramatika|f|alt=gramàtika}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|граматика|f}}
+*: Roman: {{t-|sh|gramatika|f}}
 * Slovene: {{t+|sl|slovnica}}
 * Spanish: {{t+|es|gramática|f}}
 * Swedish: {{t+|sv|grammatik|c}}
-* Tajik: {{t+|tg|дастури забон|sc=Cyrl}}
+* Tajik: {{t+|tg|дастури забон|tr=dasturi zabon|sc=Cyrl}}
 * Turkish: {{t+|tr|gramer}}, {{t+|tr|dil bilgisi}}
 {{trans-bottom}}
 
 {{trans-top|book describing grammar}}
-* Arabic: {{t+|ar|قواعد|p|tr=qawaa3id}}
+* Arabic: {{t+|ar|قواعد|p|tr=qawāʿid}}
 * Catalan: {{t-|ca|gramàtica}}
 * Finnish: {{t-|fi|kielioppikirja}}
 * French: {{t+|fr|grammaire|f}}
@@ -189,16 +191,18 @@ From {{etyl|enm|en}} {{term|gramarye||lang=enm}}, {{term|gramery||lang=enm}}, fr
 * Novial: {{tø|nov|gramatike}}
 * Portuguese: {{t+|pt|gramática|f}}
 * Russian: {{t+|ru|грамматика|f|tr=grammátika}}
-* Serbo-Croatian: {{t-|sh|gramatika|f|alt=gramàtika}}, {{t-|sh|slovnica|f|alt=slóvnica}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|граматика|f}}, {{t-|sh|словница|f}}
+*: Roman: {{t-|sh|gramatika|f}}, {{t-|sh|slovnica|f}}
 * Slovene: {{t+|sl|slovnica}}
 * Swedish: {{t+|sv|grammatik|c}}, {{t-|sv|grammatikbok|c}}, {{t-|sv|språklära|c}}
 * Turkish: {{t-|tr|gramer kitabı}}, {{t-|tr|dil bilgisi kitabı}}
 {{trans-bottom}}
 
 {{trans-top|in computing: formal system specifying the syntax of a language}}
-* Arabic: {{t+|ar|قواعد|p|tr=qawaa3id}}
+* Arabic: {{t+|ar|قواعد|p|tr=qawāʿid}}
 * Chinese:
-*: Mandarin: {{t-|cmn|語法|sc=Hani}},  {{t-|cmn|语法|tr=yǔfǎ|sc=Hani}}
+*: Mandarin: {{t|cmn|語法|sc=Hani}}, {{t+|cmn|语法|tr=yǔfǎ|sc=Hani}}
 * Czech: {{t-|cs|gramatika|f}}
 * Finnish: {{t+|fi|kielioppi}}
 * French: {{t+|fr|grammaire|f}}
