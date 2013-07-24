@@ -83,7 +83,7 @@ Probably representing a North African pronunciation of {{etyl|ar|en}} {{term|ب�
 =====Translations=====
 {{trans-top|son of}}
 * Arabic: {{t|ar|بن|tr=ben, bin|m}}, {{t|ar|ابن|tr=ibn, ibni|m}}
-* Hebrew: [[בן]] (ben) {{m}}
+* Hebrew: {{t|he|בן|tr=ben|m}}
 {{trans-mid}}
 * Ladino: {{tø|lad|ben}}
 * Persian: {{t+|fa|بن|sc=fa-Arab}}
@@ -195,6 +195,36 @@ From {{etyl|non|fo}} {{term|ben|lang=non}}, from {{etyl|gem-pro|fo}} {{recons|ba
 
 ----
 
+==Galician==
+
+===Etymology===
+From {{etyl|la|gl}} {{term|bene|lang=la}}.
+
+===Noun===
+{{gl-noun|m}}
+
+# [[benefit]]; [[welfare]]
+# {{label|gl|in the plural}} [[goods]]
+# [[good]] {{gloss|the forces that are the enemy of evil}}
+
+====Antonyms====
+* {{sense|benefit}} {{l|gl|beneficio}}
+* {{sense|good}} {{l|gl|mal}}
+
+===Adverb===
+{{gl-adv}}
+
+# [[well]]
+# [[very]]; [[a lot]]
+
+====Antonyms====
+* {{sense|well}} {{l|gl|mal}}
+
+====Related terms====
+* {{l|gl|bo}}
+
+----
+
 ==Interlingua==
 
 ===Adverb===
@@ -209,7 +239,7 @@ From {{etyl|non|fo}} {{term|ben|lang=non}}, from {{etyl|gem-pro|fo}} {{recons|ba
 ===Adverb===
 {{it-adv}}
 
-# Short form of '''[[bene]]'''.
+# {{apocopic form of|bene|lang=it}}
 #: '''''ben''' fatto'' — well done
 
 ----
@@ -235,14 +265,17 @@ From {{etyl|non|fo}} {{term|ben|lang=non}}, from {{etyl|gem-pro|fo}} {{recons|ba
 ====Derived terms====
 * [[benik#Kurdish|benik]]
 * [[benk#Kurdish|benk]]
+
 ----
+
 ==Ladin==
 
 ===Adverb===
-{{head|lld|verb}} (''Comparative'': [[miec]])
+{{head|lld|adverb}} (''Comparative'': [[miec]])
 
 # [[well]]
 # [[properly]]
+
 ----
 
 ==Lojban==
@@ -328,7 +361,7 @@ From {{etyl|gem-pro|ang}} {{recons|bōniz|lang=gem-pro}}. Cognate with Old Norse
 * {{IPA|/beːn/|lang=ang}}
 
 ====Noun====
-'''{{Latinx|bēn}}''' {{f}}
+{{head|ang|noun|head=bēn|g=f}}
 
 # [[prayer]], [[praying]]
 # [[request]], [[entreaty]]
