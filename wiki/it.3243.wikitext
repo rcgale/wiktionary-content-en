@@ -87,12 +87,12 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|hit|lang=ang}}, from {{etyl|ge
 * Armenian: {{t-|hy|դա|tr=da}}
 * Azeri: {{t+|az|o}}
 * Belarusian: {{t-|be|яно|n|tr=janó}}, {{t+|be|гэта|n|tr=héta}}
-* Bulgarian: {{t-|bg|той}} / {{t-|bg|тя}} / {{t-|bg|то|tr=toj/tja/to}} ''m/f/n''
-* Catalan: {{t+|ca|el|m}}, {{t+|ca|la|f}}, usually not translated
+* {{ttbc|bg}}: {{t-|bg|той}}, {{t-|bg|тя}}, {{t-|bg|то|tr=toj/tja/to}} ''m, {{t|bg|f|sc=Cyrl}}, {{t|bg|n|sc=Cyrl}} ''
+* {{ttbc|ca}}: {{t+|ca|el|m}}, {{t+|ca|la|f}}, {{t-SOP|ca|usually not translated}} <!-- was "usually not translated" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Chinese:
 *: Mandarin: {{t-|cmn|它|tr=tā|sc=Hani}}, {{qualifier|classical}} {{t-|cmn|之|tr=zhī|sc=Hani}}, {{qualifier|this}} {{t-|cmn|這|sc=Hani}}, {{t-|cmn|这|tr=zhè, zhèi|sc=Hani}}, {{qualifier|that}} {{t-|cmn|那|tr=nà, nèi|sc=Hani}}, {{qualifier|used for animals, variant of 它}} {{t|cmn|牠|tr=tā|sc=Hani}}
 * Cornish:
-*: Kernewek Kemmyn: [[ev]] {{m}}, [[hi]] {{f}}
+*: {{ttbc|Kernewek Kemmyn}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: [[ev]] {{m}}, [[hi]] {{f}}
 * Czech: {{t+|cs|to}}
 * Danish: {{t+|da|det}}
 * Dutch: {{t+|nl|het}} {{qualifier|for neutral nouns}}, {{t+|nl|hij}} {{qualifier|for gendered nouns}}
@@ -114,9 +114,9 @@ Estonian: {{t+|et|see}}, {{t+|et|too}}
 * Icelandic: {{t+|is|það}}
 * Ido: {{t+|io|ol}}, {{t+|io|olu}}
 * Interlingua: {{t-|ia|lo}}, {{t-|ia|illo}}
-* Irish: {{t+|ga|sé|m}} {{qualifier|conjunctive}}, {{t-|ga|é|m}} {{qualifier|disjunctive}}; {{t-|ga|sí|f}} {{qualifier|conjunctive}}, {{t-|ga|í|f}} {{qualifier|disjunctive}}, {{qualifier|predicate of copula}} {{t-|ga|ea}}
+* Irish: {{t+|ga|sé|m}} {{qualifier|conjunctive}}, {{t-|ga|é|m}} {{qualifier|disjunctive}}, {{t-|ga|sí|f}} {{qualifier|conjunctive}}, {{t-|ga|í|f}} {{qualifier|disjunctive}}, {{qualifier|predicate of copula}} {{t-|ga|ea}}
 *: Old Irish: {{tø|sga|ed}}
-* Italian: {{t+|it|esso}} / {{t-|it|essa}} / {{t+|it|lo}} / {{t+|it|la}}
+* Italian: {{t+|it|esso}}, {{t-|it|essa}}, {{t+|it|lo}}, {{t+|it|la}}
 * Japanese: {{t+|ja|それ|tr=soré}}
 * Khmer: {{t+|km|វា|tr=vie|sc=Khmr}}
 * Korean: {{t+|ko|그것|tr=geugeot}}
@@ -138,7 +138,7 @@ Estonian: {{t+|et|see}}, {{t+|et|too}}
 * Portuguese: {{t+|pt|ele|m}}, {{t+|pt|ela|f}}, {{t+|pt|isso}}
 * Rapa Nui: {{tø|rap|ia}}
 * {{trreq|ro}}
-* Russian: {{t+|ru|он|tr=on}} / {{t+|ru|она|tr=ona}} / {{t+|ru|оно|tr=ono}}; {{t+|ru|это|tr=éto}}
+* Russian: {{t+|ru|он|tr=on}}, {{t+|ru|она|tr=ona}}, {{t+|ru|оно|tr=ono}}, {{t+|ru|это|tr=éto}}
 * Sardinian: {{t-|sc|issu}}
 * Scottish Gaelic: {{t-|gd|e|m}} {{qualifier|non-emphatic}}, {{t-|gd|esan|m}} {{qualifier|emphatic}}, {{t-|gd|i|f}} {{qualifier|non-emphatic}}, {{t-|gd|ise|f}} {{qualifier|emphatic}}
 * Serbo-Croatian:
@@ -166,19 +166,19 @@ Estonian: {{t+|et|see}}, {{t+|et|too}}
 
 {{trans-top|object}}
 * Afrikaans: {{t+|af|dit}}
-* Bulgarian: {{t-|bg|него}} / {{t-|bg|го|m|n|tr=nego/go}} {{qualifier|accusative case}}; {{t-|bg|на него}} / {{t-|bg|нему}} / {{t-|bg|му|m|n|tr=na nego/nemu/mu}} {{qualifier|dative case}}; {{t-|bg|нея}} / {{t-|bg|я|f|tr=neja/ja}} {{qualifier|accusative case}}; {{t-|bg|на нея}} / {{t-|bg|ней}} / {{t+|bg|ѝ|f|tr=na neja/nej/i}} {{qualifier|dative case}}
+* Bulgarian: {{t-|bg|него}}, {{t-|bg|го|m|n|tr=nego/go}} {{qualifier|accusative case}}, {{t-|bg|на него}}, {{t-|bg|нему}}, {{t-|bg|му|m|n|tr=na nego/nemu/mu}} {{qualifier|dative case}}, {{t-|bg|нея}}, {{t-|bg|я|f|tr=neja/ja}} {{qualifier|accusative case}}, {{t-|bg|на нея}}, {{t-|bg|ней}}, {{t+|bg|ѝ|f|tr=na neja/nej/i}} {{qualifier|dative case}}
 * Chinese:
 *: Mandarin: {{t|cmn|这}}, {{t|cmn|那|tr=nà, nèi}}, {{t|cmn|它|tr=tā}}, {{t|cmn|之|tr=zhī}}
 * Cornish:
-*: Kernewek Kemmyn: [['n]] {{m}}, [['s]] {{f}}
+*: {{ttbc|Kernewek Kemmyn}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: [['n]] {{m}}, [['s]] {{f}}
 * Czech: {{t-|cs|toho}}, {{t-|cs|tomu}}, {{t+|cs|to}}
 * Dutch: {{t+|nl|het}}, {{t+|nl|er}}
 * Esperanto: {{t+|eo|ĝin}}
 * Finnish:
-** {{qualifier|in active clauses: }}
+** {{qualifier|in active clauses:}}
 **: {{t+|fi|sen}} {{qualifier|accusative}}
 **: {{t+|fi|sitä}} {{qualifier|partitive}}
-** {{qualifier|in passive clauses: }}
+** {{qualifier|in passive clauses:}}
 **: {{t+|fi|se}} {{qualifier|accusative}}
 **: {{t+|fi|sitä}} {{qualifier|partitive}}
 * French: {{t+|fr|le|m}}
@@ -202,7 +202,7 @@ Estonian: {{t+|et|see}}, {{t+|et|too}}
 * Persian: {{t-|fa|او را|tr=u rā}}
 * Pipil: {{tø|ppl|ki-}}, {{tø|ppl|k-}}
 * Portuguese: {{t+|pt|o|m}}, {{t+|pt|a|f}}
-* Russian: {{t+|ru|его|m|n|tr=jevó}} {{qualifier|genitive case}}, {{t+|ru|ему|m|n|tr=jemú}} {{qualifier|dative case}}, {{t+|ru|его|m|n|tr=jevó}} {{qualifier|accusative case}}, {{t+|ru|им|m|n|tr=im}} {{qualifier|instrumental case}}, {{t+|ru|нём|m|n|tr=njom}} {{qualifier|prepositional case}};
+* Russian: {{t+|ru|его|m|n|tr=jevó}} {{qualifier|genitive case}}, {{t+|ru|ему|m|n|tr=jemú}} {{qualifier|dative case}}, {{t+|ru|его|m|n|tr=jevó}} {{qualifier|accusative case}}, {{t+|ru|им|m|n|tr=im}} {{qualifier|instrumental case}}, {{t+|ru|нём|m|n|tr=njom}} {{qualifier|prepositional case}}
 *: {{t+|ru|её|f|tr=jejó}} {{qualifier|genitive case}}, {{t+|ru|ей|f|tr=jej}} {{qualifier|dative case}}, {{t+|ru|её|f|tr=jejó}} {{qualifier|accusative case}}, {{t+|ru|ею}} / {{t+|ru|ей|f|tr=jéju/jej}} {{qualifier|instrumental case}}, {{t+|ru|ней|f|tr=njej}} {{qualifier|prepositional case}}
 * Spanish: {{t+|es|le}}, {{t+|es|la}}, {{t+|es|lo}}, {{t+|es|ello}}, {{t+|es|eso}}
 * Swedish: {{t+|sv|den|c}}, {{t+|sv|det|n}}
@@ -243,7 +243,7 @@ Estonian: {{t+|et|see}}, {{t+|et|too}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|udm}}: [[со]]
+* {{ttbc|udm}}: {{t|udm|со|sc=Cyrl}}
 {{trans-mid}}
 * {{ttbc|vi}}: {{t+|vi|nó}}
 {{trans-bottom}}
