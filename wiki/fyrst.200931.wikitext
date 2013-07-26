@@ -60,13 +60,13 @@
 
 ==Old English==
 
-===Etymology 1===
-From {{etyl|gem-pro|ang}} {{recons|fristaz|lang=gem-pro}}, {{recons|fristą|lang=gem-pro}}.  Cognate with Middle Dutch [[verst]], Old High German [[frist]] (German [[Frist]]), Old Norse [[frest]] (Swedish [[frist]]).
-
 ===Pronunciation===
 * {{IPA|/fyrst/|lang=ang}}
 
-===Noun===
+===Etymology 1===
+From {{etyl|gem-pro|ang}} {{recons|fristaz|lang=gem-pro}}, {{recons|fristą|lang=gem-pro}}.  Cognate with Middle Dutch [[verst]], Old High German [[frist]] (German [[Frist]]), Old Norse [[frest]] (Swedish [[frist]]).
+
+====Noun====
 {{ang-noun|g=m|pl=fyrstas}}
 
 # [[time]]
@@ -75,22 +75,28 @@ From {{etyl|gem-pro|ang}} {{recons|fristaz|lang=gem-pro}}, {{recons|fristą|lang
 #*:: Time went forth; the ship was on waves.
 # space of time
 
+=====Declension=====
+{{ang-decl-noun-a-m|fyrst}}
+
 ===Etymology 2===
 From {{etyl|gem-pro|ang}} {{recons|furistaz|lang=gem-pro}}.
 
-===Alternative forms===
-* [[fyrest]]
+====Alternative forms====
+* {{l|ang|fyrest}}
 
-===Adjective===
-{{head|ang|adjective}}
+====Adjective====
+{{ang-adj}}
 
 # [[first]]
 # [[foremost]]
 # [[principal]], [[chief]]
 # [[original]]
 
-====Descendants====
-* English: [[first]]
+=====Declension=====
+{{ang-adjdec-long|fyrst}}
+
+=====Descendants=====
+* English: {{l/en|first}}
 
 [[ko:fyrst]]
 [[is:fyrst]]
