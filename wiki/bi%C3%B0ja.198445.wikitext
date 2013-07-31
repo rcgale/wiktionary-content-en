@@ -1,11 +1,9 @@
 ==Faroese==
-
 ===Etymology===
-From {{etyl|non|fo}} {{term|biðja|lang=non}} (whence also the Danish {{term|bede|lang=da}}, Swedish {{term|bedja|lang=sv}} and Icelandic {{term|biðja|lang=is}}), from {{etyl|gem-pro|fo}} {{recons|bidjaną|lang=gem-pro}}, from {{etyl|ine-pro|fo}} {{recons|gʷʰedʰ-|lang=ine-pro}}. Cognate with Old Frisian ''[[bidda]]'', Old Saxon ''[[biddian]]'', Dutch ''[[bidden]]'', Old High German ''[[bitten]]'' (German ''[[bitten]]''), Gothic {{term|𐌱𐌹𐌳𐌾𐌰𐌽|tr=bidjan|lang=got}}.
+From {{etyl|non|fo}} {{term|biðja|lang=non}}, from {{etyl|gem-pro|is}} {{recons|bidjaną|lang=gem-pro}}. Cognate with {{etyl|de|-}} {{term|bitten|lang=de}}, {{etyl|is|-}} {{term|biðja|lang=fo}}, {{etyl|da|-}} {{term|bede|lang=da}}, {{etyl|sv|-}} {{term|bedja|lang=sv}}.
 
 ===Verb===
 {{fo-verb|bað|bóðu|biðið}}
-
 # to [[ask]], to [[request]], to [[beg]]
 # to [[wish]] (e.g. ''[[góðan dag]]'' - good day)
 # to [[pray]] to God (''[[Gud]]'')
@@ -14,13 +12,11 @@ From {{etyl|non|fo}} {{term|biðja|lang=non}} (whence also the Danish {{term|bed
 {{fo-conj-66|b|i|ð|a|ó}}
 
 [[Category:fo:Religion]]
-
 ----
 
 ==Icelandic==
-
 ===Etymology===
-From {{etyl|non|is}} {{term|biðja|lang=non}} (whence also the Danish {{term|bede|lang=da}}, Swedish {{term|bedja|lang=sv}} and Faroese {{term|biðja|lang=fo}}) from {{etyl|gem-pro|is}} {{recons|bidjaną|lang=gem-pro}}. Cognate with Old Frisian ''[[bidda]]'', Old Saxon ''[[biddian]]'', Dutch ''[[bidden]]'', Old High German ''[[bitten]]'' (German ''[[bitten]]''), Gothic {{term|𐌱𐌹𐌳𐌾𐌰𐌽|tr=bidjan|lang=got}}.
+From {{etyl|non|is}} {{term|biðja|lang=non}}, from {{etyl|gem-pro|is}} {{recons|bidjaną|lang=gem-pro}}. Cognate with {{etyl|de|-}} {{term|bitten|lang=de}}, {{etyl|fo|-}} {{term|biðja|lang=fo}}, {{etyl|da|-}} {{term|bede|lang=da}}, {{etyl|sv|-}} {{term|bedja|lang=sv}}.
 
 ===Pronunciation===
 * {{IPA|/ˈpɪðja/|lang=is}}
@@ -28,7 +24,6 @@ From {{etyl|non|is}} {{term|biðja|lang=non}} (whence also the Danish {{term|bed
 
 ===Verb===
 {{is-verb-strong|bað|báðu|beðið}}
-
 # {{context|ambitransitive|governs the accusative|optionally ditransitive with genitive|lang=is}} to [[ask]], [[request]] some action of someone
 #: ''Ég '''bað''' þig nú bara um [[greiði|greiða]].''
 #:: I just '''asked''' you a [[favour]].
@@ -52,6 +47,25 @@ From {{etyl|non|is}} {{term|biðja|lang=non}} (whence also the Danish {{term|bed
 [[Category:Icelandic transitive verbs]]
 [[Category:Icelandic ditransitive verbs]]
 [[Category:Most used Icelandic verbs]]
+----
+
+==Old Norse==
+===Etymology===
+From {{etyl|gem-pro|non}} {{recons|bidjaną|lang=gem-pro}}. Cognate with {{etyl|ang|-}} {{term|biddan|lang=ang}}, {{etyl|ofs|-}} {{term|bidda|lang=ofs}}, {{etyl|osx|-}} {{term|bidian|lang=osx}}, {{etyl|goh|-}} {{term|bitten|lang=goh}}, {{etyl|got|-}} {{term|𐌱𐌹𐌳𐌾𐌰𐌽|tr=[[bidjan#Gothic|bidjan]]|lang=got|sc=Goth}}.
+
+===Verb===
+{{non-verb|bað|báðu|beðit}}
+# to [[ask]], [[beg]], [[request]]
+# to [[pray]]
+
+====Descendants====
+{{top2}}
+* Danish: {{l|da|bede}}
+* Faroese: {{l|fo|biðja}}
+{{mid2}}
+* Icelandic: {{l|is|biðja}}
+* Swedish: {{l|sw|bedja}}
+{{bottom}}
 
 [[fr:biðja]]
 [[is:biðja]]
