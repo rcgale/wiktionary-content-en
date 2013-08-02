@@ -187,21 +187,21 @@ From {{etyl|fro|en}} {{term|poison|lang=fro}}, from {{etyl|la|en}} {{term|potio|
 
 ====Translations====
 {{trans-top|to use poison to kill or paralyse}}
-* Armenian: {{t-|hy|թունավորել|tr=t'unavorel}}
-* Belarusian: {{t|be|атручваць|tr=atrúčvacʹ|sc=Cyrl}}, {{t|be|атруціць|tr=atrúcicʹ|sc=Cyrl}}
+* Armenian: {{t-|hy|թունավորել}}
+* Belarusian: {{t|be|атручваць|impf|tr=atrúčvacʹ|sc=Cyrl}}, {{t|be|атруціць|pf|tr=atrúcicʹ|sc=Cyrl}}
 * Breton: {{t+|br|ampoezoniñ}}
-* Bulgarian: {{t+|bg|тровя}}, {{t+|bg|отравям}}
+* Bulgarian: {{t+|bg|тровя|impf}}, {{t+|bg|отравям|pf}}
 * Catalan: {{t+|ca|emmetzinar}}, {{t+|ca|enverinar}}
 * Chinese:
 *: Mandarin: {{t|cmn|毒害|tr=dúhài|sc=Hani}}
-* Czech: {{t+|cs|otrávit}}
+* Czech: {{t+|cs|otrávit|pf}}
 * Danish: {{t-|da|forgifte}}
 * Dutch: {{t+|nl|vergiftigen}}
 * Estonian: {{t-|et|mürgitama}}
 * Faroese: {{t-|fo|eitra}}
 * Finnish: {{t+|fi|myrkyttää}}
 * French: {{t+|fr|empoisonner}}
-* {{trreq|Georgian}}
+* {{trreq|ka}}
 * German: {{t+|de|vergiften}}
 * Greek: {{t+|el|δηλητηριάζω|tr=dilitiriázo|sc=Grek}}, {{qualifier|colloquial}} {{t+|el|φαρμακώνω|tr=farmakóno|sc=Grek}}
 * Hungarian: {{t+|hu|megmérgez}}
@@ -210,19 +210,19 @@ From {{etyl|fro|en}} {{term|poison|lang=fro}}, from {{etyl|la|en}} {{term|potio|
 {{trans-mid}}
 * Irish: {{t|ga|nimhigh}}
 * Italian: {{t+|it|avvelenare}}, {{t-|it|intossicare}}
-* Japanese: {{t-|ja|毒を混入する|tr=doku-o konnyū-suru}} (mix with poison), {{t-|ja|毒を盛る|tr=doku-o moru}}
+* Japanese: {{t|ja|[[毒]][[を]][[混入]][[する]]|tr=doku o konnyū suru}} (mix with poison), {{t|ja|[[毒]][[を]][[盛る[[|tr=doku o moru}}
 * Kurdish: {{t+|ku|jehr kirin}}, {{t+|ku|jehr dan}}
 * Latin: {{t-|la|veneno}}
-* Polish: {{t-|pl|truć}}, {{t-|pl|zatruwać}}, {{t-|pl|otruć}}
+* Polish: {{t-|pl|truć|impf}}, {{t-|pl|zatruwać}}, {{t-|pl|otruć|pf}}
 * Portuguese: {{t+|pt|envenenar}}, {{t-|pt|empeçonhar}}, {{t+|pt|intoxicar}}
 * Romanian: {{t-|ro|otrăvi}}, {{t-|ro|învenina}}, {{t-|ro|intoxica}}
-* Russian: {{t+|ru|отравлять|tr=otravlját'}} {{impf}}, {{t+|ru|травить|tr=travít'}} {{impf}}, {{t+|ru|отравить|tr=otravít'}} {{pf.}}
+* Russian: {{t+|ru|отравлять|impf|tr=otravljátʹ}}, {{t+|ru|травить|impf|tr=travítʹ}}, {{t+|ru|отравить|pf|tr=otravítʹ}}
 * Scots: {{tø|sco|pushion}}
-* Slovak: {{t-|sk|otráviť}}
+* Slovak: {{t-|sk|otráviť|pf}}
 * Spanish: {{t-|es|envenenar}}
 * Swedish: {{t+|sv|förgifta}}
 * Turkish: {{t+|tr|zehirlemek}}, {{t+|tr|ağılamak}}
-* Ukrainian: {{t|uk|отруювати|tr=otrújuvaty|sc=Cyrl}}, {{t|uk|труїти|tr=trújity|sc=Cyrl}}, {{t|uk|отруїти|tr=otrújity|sc=Cyrl}}
+* Ukrainian: {{t|uk|отруювати|impf|tr=otrújuvaty|sc=Cyrl}}, {{t|uk|труїти|impf|tr=trújity|sc=Cyrl}}, {{t|uk|отруїти|pf|tr=otrújity|sc=Cyrl}}
 * Volapük: {{t+|vo|venenön}}
 {{trans-bottom}}
 
@@ -232,7 +232,7 @@ From {{etyl|fro|en}} {{term|poison|lang=fro}}, from {{etyl|la|en}} {{term|potio|
 * Faroese: {{t-|fo|dálka}}
 * Greek: {{t+|el|μολύνω|tr=molýno|sc=Grek}}
 {{trans-mid}}
-* Russian: {{t+|ru|отравлять|tr=otravlját'}} {{impf}}, {{t+|ru|травить|tr=travít'}} {{impf}}, {{t+|ru|отравить|tr=otravít'}} {{pf.}}
+* Russian: {{t+|ru|отравлять|impf|tr=otravljátʹ}}, {{t+|ru|травить|impf|tr=travítʹ}}, {{t+|ru|отравить|pf|tr=otravítʹ}}
 * Scots: {{tø|sco|pushion}}
 * Slovak: {{t-|sk|otráviť}}
 {{trans-bottom}}
@@ -241,6 +241,7 @@ From {{etyl|fro|en}} {{term|poison|lang=fro}}, from {{etyl|la|en}} {{term|potio|
 * Catalan: {{t+|ca|emmetzinar}}, {{t+|ca|enverinar}}
 * Czech: {{t+|cs|otrávit}}
 * Greek: {{t+|el|δηλητηριάζω|tr=dilitiriázo|sc=Grek}}
+* Russian: {{t+|ru|отравлять|impf|tr=otravljátʹ}}, {{t+|ru|отравить|pf|tr=otravítʹ}}
 {{trans-mid}}
 * Scots: {{tø|sco|pushion}}
 * Slovak: {{t-|sk|otráviť}}
