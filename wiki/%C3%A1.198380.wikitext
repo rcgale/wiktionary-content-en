@@ -325,38 +325,35 @@ Contraction of {{term|ag||progressive particle|lang=ga}} + {{term|a||possessive 
 ----
 
 ==Old Norse==
-
-===Etymology 2===
-From {{etyl|gem-pro|non}} {{term/t|gem-pro|*ahwō}}, from {{etyl|ine-pro|non}} {{term/t|ine-pro|*h₂ekʷeh₂||water}}.
 [[Image:Stream in gasadalur.jpg|thumb|á]]
+===Etymology 1===
+From {{etyl|gem-pro|non}} {{term/t|gem-pro|*ahwō||water, stream}}, from {{etyl|ine-pro|non}} {{term/t|ine-pro|*h₂ekʷeh₂||water}}. Cognate with {{etyl|ang|-}} {{term|ea|ēa|lang=ang}}, {{etyl|ofs|-}} {{term|a|ā|lang=ofs}}, {{term|e|ē|lang=ofs}}, {{etyl|osx|-}} {{term|aha|lang=osx}}, {{etyl|goh|-}} {{term|aha|lang=goh}}, {{etyl|got|-}} {{term|𐌰𐍈𐌰|tr=[[aƕa#Gothic|aƕa]]|lang=got|sc=Goth}}.
 
-====Noun====
-{{non-noun|f|ár|ár}}
-
-# [[river]]
-
-=====Alternative form=====
+====Alternative forms====
 * {{l|non|ǫ́}}
 
-=====Descendants=====
+===Noun===
+{{non-noun|f|ár|ár}}
+# [[river]]
+
+====Declension====
+{{non-decl-noun|á|á|á|ár|áin|ána|ánni|árinnar|ár|ár|ám|á|árnar|árnar|ánum|ánna}}
+
+====Descendants====
+{{top2}}
 * Danish: {{l|da|å}}
 * Faroese: {{l|fo|á}}
 * Icelandic: {{l|is|á}}
+{{mid2}}
+* Norwegian: {{l|no|å}}
+* Swedish: {{l|sv|å}}
+{{bottom}}
 
 ===Etymology 2===
-From the same Germanic source as the Old English ''[[ēowu]]''.
+From {{etyl|gem-pro|non}} {{term/t|gem-pro|*ana||on, onto}}. Cognate with {{etyl|ang|-}} {{term|on|lang=ang}}, {{etyl|ofs|-}} {{term|on|lang=ofs}}, {{etyl|osx|-}} {{term|ana|lang=osx}}, {{term|an|lang=osx}}, {{etyl|odt|-}} {{term|ana|lang=odt}}, {{term|an|lang=odt}}, {{term|in|lang=odt}}, {{etyl|goh|-}} {{term|ana|lang=goh}}, {{term|an|lang=goh}}, {{etyl|got|-}} {{term|𐌰𐌽𐌰|tr=[[ana#Gothic|ana]]|lang=got|sc=Goth}}.
 
-====Noun====
-'''á''' {{f}}
-
-# [[ewe]], female [[sheep]]
-
-===Etymology 3===
-From the same proto-Germanic source as the Old English ''[[on]]''.
-
-====Preposition====
-{{head|is|preposition}}
-
+===Preposition===
+{{head|non|preposition}}
 # {{context|with dative|lang=is}} [[on]]
 #: Þeir eru '''á''' hólmi.''
 #:: They are '''on''' an island.
@@ -364,40 +361,44 @@ From the same proto-Germanic source as the Old English ''[[on]]''.
 #: ''Ek [[búa|bý]] '''á''' Islandi.''
 #:: I live '''in''' Iceland.
 
-=====Descendants=====
+====Descendants====
+{{top2}}
+* Danish: {{l|da|å}}, {{l|da|på}}
 * Faroese: {{l|fo|á}}
 * Icelandic: {{l|is|á}}
+{{mid2}}
+* Norwegian: {{l|no|å}}, {{l|no|på}}
+* Swedish: {{l|sv|å}}, {{l|sv|på}}
+{{bottom}}
 
-===Etymology 4===
-Related to its<!-- Old Norse --> synonym ''[[æ]]''.
+===Etymology 3===
+Probably related to {{etyl|non|-}} {{term|æ||always|lang=non}}
 
-====Adverb====
-{{non-adv}}
-
+===Adverb===
+{{non-adv|-}}
 # [[always]]
 
-===Etymology 5===
+===Etymology 4===
+An imitation of a cry of pain.
 
+===Interjection===
+{{head|non|interjection}}
+# [[ow]]! [[ouch]]!
+
+====Descendants====
+* Icelandic: {{l|is|á}}
+
+===Etymology 5===
 ====Verb====
 {{non-verb}}
-
 # first person singular of the verb [[eiga]]: ‘I [[own]]’.
 # third person singular of the verb [[eiga]]: ‘he [[owns]]’.
 
-<!--=====Descendants=====
+<!--====Descendants====
 * Faroese: {{l|fo|á}} (archaic, poetic)
 * Icelandic: {{l|is|á}}
 -->
 
-===Etymology 6===
-
-====Interjection====
-'''á!'''
-
-# [[ow]]! [[ouch]]!
-
-=====Descendants=====
-* Icelandic: {{l|is|á}}
 
 [[Category:Old Norse adverbs]]
 [[Category:Old Norse interjections]]
