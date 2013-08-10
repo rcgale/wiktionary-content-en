@@ -31,7 +31,7 @@ From {{etyl|ang|en}} {{term|eower|ēower|lang=ang}}, from {{etyl|gem-pro|ang}} {
 * The use of ''your'' instead of [[you're]] is a common mistake in English.
 
 ====Translations====
-<!--IMHO, masculine singular translabhttp://fi.m.wikipedia.org/wiki/Iltalehtition should suffice; feminine and plurals should be found in the article for masculine singular. -->
+<!--Lemma form should suffice; inflected forms such as feminine and plurals should be found in the lemma article. -->
 {{trans-top|belonging to you (singular; one owner)}}
 * Arabic: {{t-|ar|ك|alt=ـك}} {{qualifier|''-ak'', ''-uk(a)'', etc: pronunciation differs according to case and level of language formality}}
 *: Egyptian Arabic: {{tø|arz|ك|alt=ـك|tr=-ak or k|sc=Arab}} {{qualifier|owner is male}}, {{tø|arz|ك|alt=ـك|tr=-ek or ki|sc=Arab}} {{qualifier|owner is female}}
@@ -52,7 +52,7 @@ From {{etyl|ang|en}} {{term|eower|ēower|lang=ang}}, from {{etyl|gem-pro|ang}} {
 * Egyptian: {{tø|egy|𓎡|tr=k}} {{qualifier|owner is male}}, {{tø|egy|𓏏|tr=t}} {{qualifier|owner is female}}
 * Eshtehardi: {{tø|esh|اشت|alt=اِشتَ|tr=eşta}}
 * Esperanto: {{t+|eo|via}}, {{t-|eo|viaj}}
-* Estonian: {{t|et|sinu}}, {{t|et|su}
+* Estonian: {{t|et|sinu}}, {{t|et|su}}
 * Finnish: {{t|fi|sinun}} + {{t|fi|-si}} 
 * French: {{t+|fr|ton|m}} {{t+|fr|ta|f}} {{t+|fr|tes|m-p|f-p}} {{qualifier|informal}}, {{t+|fr|votre|m|f}} {{t+|fr|vos|m-p|f-p}} {{qualifier|formal}}
 * Friulian: {{tø|fur|to|m}}
@@ -79,6 +79,7 @@ From {{etyl|ang|en}} {{term|eower|ēower|lang=ang}}, from {{etyl|gem-pro|ang}} {
 * Norwegian: {{t-|no|din}}
 * Novial: {{tø|nov|vun}}
 * Occitan: {{t+|oc|teu}}
+* Old English: {{t|ang|þin|s|alt=þīn|sc=Latinx}}
 * Persian: {{t+|fa|ت|alt=ـت|tr=-at}}, {{t+|fa|تو|tr=to|sc=fa-Arab}}
 * Pipil: {{tø|ppl|mu-}}
 * Polish: {{t+|pl|twój}}, {{qualifier|formal, to male:}} {{t+|pl|pana}}, {{t-|pl|pański|m}}, {{qualifier|formal, to female:}} {{t+|pl|pani}}
@@ -152,6 +153,7 @@ From {{etyl|ang|en}} {{term|eower|ēower|lang=ang}}, from {{etyl|gem-pro|ang}} {
 * Latvian: {{t-|lv|jūsu}}
 * Macedonian: {{t-|mk|ваш|tr=vaš}}
 * Norwegian: {{t-|no|dine}}
+* Old English: {{t|ang|incer|alt=inċer|sc=Latinx}} ''dual'', {{t|ang|eower|p|alt=ēower|sc=Latinx}}
 * Pipil: {{tø|ppl|anmu-}}
 * Polish: {{t+|pl|wasz}}, {{qualifier|formal:}} {{t-|pl|państwa}}
 * Portuguese: {{t+|pt|vosso|m}}, {{t+|pt|vossa|f}}
@@ -163,7 +165,7 @@ From {{etyl|ang|en}} {{term|eower|ēower|lang=ang}}, from {{etyl|gem-pro|ang}} {
 * Slovak: {{t-|sk|váš}}
 * Slovene: {{t+|sl|vaš|alt=vàš}}
 * Sorbian:
-*: Lower Sorbian: {{tø|dsb|waš}}
+*: Lower Sorbian: {{t0|dsb|waju}} {{qualifier|referring to two people}}, {{tø|dsb|waš}} {{qualifier|referring to three or more people}}
 * Spanish: {{t+|es|vuestro}}, {{t+|es|su}}
 * Swedish: {{t+|sv|er}} (ert, era)
 * Telugu: {{t+|te|మీ|tr=mee}}
@@ -187,8 +189,6 @@ From {{etyl|ang|en}} {{term|eower|ēower|lang=ang}}, from {{etyl|gem-pro|ang}} {
 * {{ttbc|it}}: {{qualifier|belonging to one person; informal}} {{t|it|tuo|m|alt=il tuo}} <!-- was "il [[tuo]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|it|Suo|m|alt=il Suo}} <!-- was "il [[Suo]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{qualifier|belonging to one person; formal}} {{t|it|vostro|m|alt=il vostro}} <!-- was "il [[vostro]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-mid}}
 * {{ttbc|ja}}: {{t+|ja|あなた|alt=あなたの}}, {{t+|ja|君|alt=君の}}
-* {{ttbc|la}}: {{t+|la|tuus}}
-* {{ttbc|ang}}: {{t|ang|þin|s|alt=þīn|sc=Latinx}} <!-- was "[[þin|þīn]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|ang|incer|alt=inċer|sc=Latinx}} ''dual'' <!-- was "[[incer|inċer]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|ang|eower|p|alt=ēower|sc=Latinx}} <!-- was "[[eower|ēower]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * {{ttbc|pl}}: {{t|pl|twój}}, {{t|pl|wasz}}, {{qualifier|formal to male}} {{t|pl|pański}}, {{qualifier|formal to female}} {{t|pl|pani}}
 * {{ttbc|sv}}: {{t+|sv|din}} (ditt, dina) {{qualifier|singular owner}}, {{t+|sv|er}} (ert, era) {{qualifier|plural owners}}
 {{trans-bottom}}
