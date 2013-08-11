@@ -60,23 +60,24 @@ From {{etyl|non|is}} {{term|steinn|lang=non}}, from {{etyl|gem-pro|is}} {{term/t
 ----
 
 ==Old Norse==
-
 ===Etymology===
-From {{etyl|gem-pro|non}} {{term/t|gem-pro|*stainaz}}, whence also Old Saxon {{term|sten|stēn|lang=ofs}} (Low German {{term|Steen|lang=nds}}), Old English {{term|stan|stān|lang=ang}} (English {{term|stone|lang=en}}, Scots {{term|stane|lang=sco}}), Old Frisian {{term|sten|stēn|lang=ofs}}, Old High German {{term|stein|lang=goh}} (German {{term|Stein|lang=de}}), Gothic {{term|𐍃𐍄𐌰𐌹𐌽𐍃|tr=stains|lang=got}}. Ultimately from the {{etyl|ine-pro|non}} root {{term/t|ine-pro|*stāi-}}.
+From {{etyl|gem-pro|non}} {{term/t|gem-pro|*stainaz||stone}}, from {{etyl|ine-pro|non}} {{term/t|ine-pro|*stāi-}}. Cognate with {{etyl|ang|-}} {{term|stan|stān|lang=ang}}, {{etyl|ofs|-}} {{term|sten|stēn|lang=ofs}}, {{etyl|osx|-}} {{term|sten|stēn|lang=osx}}, {{etyl|goh|-}} {{term|stein|lang=goh}}, {{etyl|got|-}} {{term|𐍃𐍄𐌰𐌹𐌽𐍃|tr=[[stains#Gothic|stains]]|lang=got|sc=Goth}}.
 
 ===Noun===
-{{non-noun|m}}
-
+{{non-noun|m|steins|steinar}}
 # [[stone]]
+
+====Declension====
+{{non-decl-noun|steinn|stein|stein|steins|steinninn|steininn|steinum|steinsins|steinar|steina|steinum|steina|steinarnir|steinana|steinunum|steinanna}}
 
 ====Descendants====
 {{top2}}
-* Danish: [[sten#Danish|sten]] {{c}} (Old Danish [[steen]])
-* Faroese: [[steinur]] {{m}}
-* Icelandic: [[#Icelandic|steinn]] {{m}}
+* Danish: {{l|da|sten}} {{c}} (Old Danish {{l|gmq-oda|steen}})
+* Faroese: {{l|fo|steinur}} {{m}}
+* Icelandic: {{l|is|steinn}} {{m}}
 {{mid2}}
-* Norwegian: [[stein#Norwegian|stein]] {{m}}
-* Swedish: [[sten#Swedish|sten]] {{c}} (Old Swedish [[sten]], Runic ''stæinn'')
+* Norwegian: {{l|no|stein}} {{m}}
+* Swedish: {{l|sv|sten}} {{c}} (Old Swedish {{l|gmq-osw|sten}}, Runic ''stæinn'')
 {{bottom}}
 
 [[de:steinn]]
