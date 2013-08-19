@@ -56,11 +56,11 @@ From {{etyl|enm|en}} {{term|gote|lang=enm}}, {{term|goot|lang=enm}}, {{term|got|
 *: Vidari: {{tø|avd|بیز|tr=biz}}
 * {{trreq|am}}
 * Amuzgo: {{tø|amu|kínch'ió}}
-* Arabic: {{t-|ar|معزة|f|alt=مَعْزة|tr=máʕza}}, {{t|ar|عنزة|f|tr=ʕanza|sc=Arab}}
-*: Egyptian Arabic: {{tø|arz|معزة|f|tr=meʕza|sc=Arab}}
+* Arabic: {{t-|ar|معزة|f|alt=مَعْزة|tr=máʿza}}, {{t|ar|عنزة|f|tr=ʿánza|sc=Arab}}
+*: Egyptian Arabic: {{tø|arz|معزة|f|tr=méʿza|sc=Arab}}
 * Aragonese: {{t+|an|craba|f}}
-* Armenian: {{t+|hy|այծ|tr=ayç}}, {{qualifier|male}} {{t-|hy|նոխազ|tr=noxaz}}, {{t-|hy|քոշ|tr=koš}}, {{t-|hy|քաղ|tr=k’aġ}}
-*: Old Armenian: {{tø|xcl|այծ|tr=ayc|sc=Armn}}, {{qualifier|male}} {{tø|xcl|նոխազ|tr=noxaz|sc=Armn}}, {{tø|xcl|քօշ|tr=kōš|sc=Armn}}, {{tø|xcl|քաղ|tr=kʿał|sc=Armn}}
+* Armenian: {{t+|hy|այծ}}, {{qualifier|male}} {{t-|hy|նոխազ}}, {{t-|hy|քոշ}}, {{t-|hy|քաղ}}
+*: Old Armenian: {{tø|xcl|այծ|sc=Armn}}, {{qualifier|male}} {{tø|xcl|նոխազ|sc=Armn}}, {{tø|xcl|քօշ|sc=Armn}}, {{tø|xcl|քաղ|sc=Armn}}
 * {{trreq|rup}}
 * Asturian: {{t-|ast|cabra|f}}
 * Avar: {{t|av|цӀцӀе|sc=Cyrl}} {{qualifier|female}}, {{t|av|дегӀен|sc=Cyrl}} {{qualifier|male}}
@@ -68,11 +68,11 @@ From {{etyl|enm|en}} {{term|gote|lang=enm}}, {{term|goot|lang=enm}}, {{term|got|
 * Bakhtiari: {{tø|bqi|بز|tr=boz|sc=fa-Arab}}
 * Bashkir: {{tø|ba|кәзә|tr=käzä|sc=Cyrl}}
 * Basque: {{t-|eu|ahuntz|f}}, {{t-|eu|aker|m}}
-* Belarusian: {{t-|be|каза|f|tr=kazá}}, {{t-|be|казёл|m|tr=kazjól|sc=Cyrl}}
+* Belarusian: {{t-|be|каза|f|tr=kazá}} {{qualifier|female}}, {{t-|be|казёл|m|tr=kazjól|sc=Cyrl}} {{qualifier|male}}
 * Bengali: {{t-|bn|ছাগল|tr=chagôl|sc=Beng}}
 * Breton: {{t+|br|gavr|f}}
 * Buginese: {{tø|bug|bembe}}
-* Bulgarian: {{t+|bg|коза|f|tr=kozá}}, {{t+|bg|козел|m|tr=kozél|sc=Cyrl}}
+* Bulgarian: {{t+|bg|коза|f|tr=kozá}} {{qualifier|female}}, {{t+|bg|козел|m|tr=kozél|sc=Cyrl}} {{qualifier|male}}
 * Burmese: {{t+|my|ဆိတ်|tr=hseik|sc=Mymr}}
 * Catalan: {{t+|ca|cabra|f}}
 * Cebuano: {{tø|ceb|kanding}}
@@ -82,7 +82,7 @@ From {{etyl|enm|en}} {{term|gote|lang=enm}}, {{term|goot|lang=enm}}, {{term|got|
 * Chinese:
 *: Mandarin: {{t+|cmn|羊|tr=yáng|sc=Hani}}, {{t+|cmn|山羊|tr=shānyáng|sc=Hani}}
 * Crimean Tatar: {{tø|crh|eçki}}
-* Czech: {{t+|cs|koza|f}}, {{t+|cs|kozel|m}}
+* Czech: {{t+|cs|koza|f}} {{qualifier|female}}, {{t+|cs|kozel|m}} {{qualifier|male}}
 * Danish: {{t+|da|ged|c}}
 * Dutch: {{t+|nl|geit|f}}, {{t+|nl|bok|m}}
 * Esperanto: {{t-|eo|kapro}}
@@ -93,7 +93,7 @@ From {{etyl|enm|en}} {{term|gote|lang=enm}}, {{term|goot|lang=enm}}, {{term|got|
 * French: {{t+|fr|chèvre|f}}, {{t+|fr|bouc|m}}
 * Friulian: {{tø|fur|cjavre}}
 * Galician: {{t+|gl|cabra|f}}
-* Georgian: {{t-|ka|თხა|tr=t'xa|sc=Geor}}, {{qualifier|one year old}} {{t-|ka|ქოშიკი|tr=k’ošiki|sc=Geor}}
+* Georgian: {{t-|ka|თხა|sc=Geor}}, {{qualifier|one year old}} {{t-|ka|ქოშიკი|sc=Geor}}
 * German: {{t+|de|Ziege|f}}, {{t+|de|Geiß|f}}
 * Gothic: {{tø|got|𐌲𐌰𐌹𐍄𐍃|sc=Goth}}
 * Greek: {{t+|el|κατσίκα|f|tr=katsíka}}, {{t+|el|γίδα|f|tr=gída|sc=Grek}}
@@ -132,7 +132,7 @@ From {{etyl|enm|en}} {{term|gote|lang=enm}}, {{term|goot|lang=enm}}, {{term|got|
 * Low German: {{t-|nds|Zeeg|f}}, {{t-|nds|Zääg|f}}, {{t-|nds|Seeg|f}}, {{t-|nds|Sääg|f}}
 * Luganda: {{tø|lg|embuzi}}
 * Luxembourgish: {{t-|lb|Geess}}
-* Macedonian: {{t-|mk|коза|f|tr=kóza}}, {{t-|mk|јарец|m|tr=járec|sc=Cyrl}}
+* Macedonian: {{t-|mk|коза|f|tr=kóza}} {{qualifier|female}}, {{t-|mk|јарец|m|tr=járec|sc=Cyrl}} {{qualifier|male}}
 * Malay: {{t+|ms|kambing}}
 * Malayalam: {{t+|ml|ആട്|tr=āṭ|sc=Mlym}}
 * Maltese: {{t-|mt|mogħża|f}}
@@ -152,12 +152,12 @@ From {{etyl|enm|en}} {{term|gote|lang=enm}}, {{term|goot|lang=enm}}, {{term|got|
 * {{trreq|ps}}
 * Persian: {{t+|fa|بز|tr=boz}}
 * Polabian: {{tø|pox|ťözâ|f}}
-* Polish: {{t+|pl|koza|f}}, {{t+|pl|kozioł|m}}
+* Polish: {{t+|pl|koza|f}} {{qualifier|female}}, {{t+|pl|kozioł|m}} {{qualifier|male}}
 * Portuguese: {{t+|pt|bode|m}}, {{t+|pt|cabra|f}}
 * Romani: {{tø|rom|buzno|m}}, {{tø|rom|buzni|f}}
 * Romanian: {{t+|ro|capră|f}}, {{t+|ro|țap|m}}
 * Romansch: {{t-|rm|chaura|f}}
-* Russian: {{t+|ru|коза|f|tr=kozá}}, {{t+|ru|козёл|m|tr=kozjól}}
+* Russian: {{t+|ru|коза|f|tr=kozá}} {{qualifier|female}}, {{t+|ru|козёл|m|tr=kozjól}} {{qualifier|male}}
 * Sami: [[gáica]]
 * Sanskrit: {{t+|sa|अजा|tr=ajaa|sc=Deva}}
 * Santali: {{tø|sat|ᱢᱮᱨᱳᱢ|tr=merom|sc=Olck}}
@@ -165,15 +165,15 @@ From {{etyl|enm|en}} {{term|gote|lang=enm}}, {{term|goot|lang=enm}}, {{term|got|
 * Scots: {{tø|sco|gait}}
 * Scottish Gaelic: {{t-|gd|gobhar}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|коза|alt=ко̀за|sc=Cyrl}}, {{t-|sh|јарац|m|alt=ја̏рац}}
-*: Roman: {{t-|sh|koza|alt=kòza}}, {{t-|sh|jarac|m|alt=jȁrac}}
+*: Cyrillic: {{t-|sh|коза|alt=ко̀за|sc=Cyrl}} {{qualifier|female}}, {{t-|sh|јарац|m|alt=ја̏рац}} {{qualifier|male}}
+*: Roman: {{t-|sh|koza|alt=kòza}} {{qualifier|female}}, {{t-|sh|jarac|m|alt=jȁrac}} {{qualifier|male}}
 * Sicilian: {{t+|scn|beccu|m}}, {{t+|scn|crapa|f}}
 * Sinhalese: {{t-|si|ළුළුවා|tr=ḷuḷuvā|sc=Sinh}}
-* Slovak: {{t-|sk|koza|f}}, {{t-|sk|cap|m}}, {{t|sk|kozel|m}}
-* Slovene: {{t+|sl|koza|f}}, {{t+|sl|kozel|m}}
+* Slovak: {{t-|sk|koza|f}} {{qualifier|female}}, {{t|sk|kozel|m}} {{qualifier|male}}, {{t-|sk|cap|m}} {{qualifier|male}}
+* Slovene: {{t+|sl|koza|f}} {{qualifier|female}}, {{t+|sl|kozel|m}} {{qualifier|male}}
 * Sorbian:
-*: Lower Sorbian: {{tø|dsb|kóza|f}}, {{tø|dsb|kózoł|m}}
-*: Upper Sorbian: {{t-|hsb|koza|f}}, {{t|hsb|kоzоł|m}}
+*: Lower Sorbian: {{tø|dsb|kóza|f}} {{qualifier|female}}, {{tø|dsb|kózoł|m}} {{qualifier|male}}
+*: Upper Sorbian: {{t-|hsb|koza|f}} {{qualifier|female}}, {{t|hsb|kоzоł|m}} {{qualifier|male}}
 * Sotho: {{t+|st|podi}}
 * Spanish: {{t+|es|cabra|f}}, {{t+|es|chivo|m}}
 * Sumerian: {{tø|sux|𒍚|tr=ÙZ|sc=Xsux}}
@@ -193,7 +193,7 @@ From {{etyl|enm|en}} {{term|gote|lang=enm}}, {{term|goot|lang=enm}}, {{term|got|
 * Turkish: {{t+|tr|keçi}}
 * Turkmen: {{t-|tk|geçi}}
 * Tuvan: {{tø|tyv|өшкү|tr=öškü}}
-* Ukrainian: {{t+|uk|коза|f|tr=kozá}}, {{t+|uk|козел|m|tr=kozél}}, {{t+|uk|цап|m|tr=cap}}
+* Ukrainian: {{t+|uk|коза|f|tr=kozá}} {{qualifier|female}}, {{t+|uk|козел|m|tr=kozél}} {{qualifier|male}}, {{t+|uk|цап|m|tr=cap}} {{qualifier|male}}
 * Urdu: {{t-|ur|بکری|f|tr=bakrī|sc=ur-Arab}}
 * Uyghur: {{t-|ug|ئۆچكە|tr=öchke|sc=ug-Arab}}
 * Uzbek: {{t-|uz|echki}}
