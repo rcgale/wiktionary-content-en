@@ -8,6 +8,8 @@
 {{en-noun}}
 
 # {{context|computer hardware|lang=en}} the entire [[CPU]] of a [[computer]] on a single [[integrated circuit]] ([[chip]]).
+#* '''1992''', Michael A. Miller, ''The 68000 Microprocessor Family: Architecture, Programming, and Applications'' (page 47)
+#*: When the '''microprocessor''' decodes the JSR opcode, it stores the operand into the TEMP register and pushes the current contents of the PC ($00 0128) onto the stack.
 
 ====Translations====
 {{trans-top|the entire CPU of a computer}}
