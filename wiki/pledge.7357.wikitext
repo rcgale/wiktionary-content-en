@@ -20,6 +20,7 @@ From {{etyl|enm|en}} {{term|plege|plege|lang=enm}}, from {{etyl|xno|en}} {{term|
 #* '''1852''', Matthew Arnold, ''Tristram and Iseult''
 #*: Reach me my golden cup that stands by thee,	
 #*: And '''pledge''' me in it first for courtesy.
+
 ====Translations====
 {{trans-top|to make a solemn promise}}
 * Arabic: {{t-|ar|تعهد|alt=تَعَهدَ|sc=Arab}}
@@ -48,9 +49,11 @@ From {{etyl|enm|en}} {{term|plege|plege|lang=enm}}, from {{etyl|xno|en}} {{term|
 * Portuguese: {{t+|pt|prometer}}
 * Romanian: {{t+|ro|promite}}, {{t+|ro|garanta}}
 * Russian: {{t+|ru|обещать}}, {{t+|ru|заверять}}, {{t+|ru|клясться}}
-* Serbo-Croatian: [[zaloga]], [[zavet]], [[zavjet]], [[obećanje]], [[prisega]]
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|залога}}, {{t|sh|завет}}, {{t|sh|завјет}}, {{t|sh|обећање}}, {{т|sh|присега}}
+*: Roman: {{t|sh|zaloga}}, {{t|sh|zavet}}, {{t|sh|zavjet}}, {{t|sh|obećanje}}, {{t|sh|prisega}}
 * {{trreq|sk}}
-* Slovene: [[zapriseči]], [[zavezati se]], [[zaobljubiti se]]
+* Slovene: {{t|sl|zapriseči}}, {{t|sl|zavezati se}}, {{t|sl|zaobljubiti se}}
 * Spanish: {{t+|es|prometer}}, {{t+|es|jurar}}
 * {{trreq|th}}
 * Vietnamese: {{t+|vi|cam kết}}, {{t+|vi|thề}}
@@ -60,13 +63,13 @@ From {{etyl|enm|en}} {{term|plege|plege|lang=enm}}, from {{etyl|xno|en}} {{term|
 * Catalan: {{t|ca|penyorar}}, {{t|ca|empenyorar}}
 * Czech: {{t+|cs|zastavit}}
 * Finnish: {{t-|fi|pantata}}
-* French: [[mettre en gage]]
+* French: {{t|fr|mettre en gage}}
 * German: {{t+|de|verpfänden}}
 {{trans-mid}}
 * Polish: {{t-|pl|złożyć zastaw}}
-* Russian: [[отдавать]] в [[залог]], [[закладывать]]
-* Slovene: [[zastaviti]]
-* Spanish: {{t+|es|hipotecar}}; {{t-|es|empeñar}}
+* {{ttbc|ru}}: {{t-|ru|[[отдавать]] в [[залог]]|sc=Cyrl}} <!-- was "[[отдавать]] в [[залог]]" - assumed sum-of-parts; if an idiom, remove the embedded wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|ru|закладывать|sc=Cyrl}}
+* Slovene: {{t|sl|zastaviti}}
+* Spanish: {{t+|es|hipotecar}}, {{t-|es|empeñar}}
 {{trans-bottom}}
 
 ===Noun===
@@ -98,8 +101,8 @@ From {{etyl|enm|en}} {{term|plege|plege|lang=enm}}, from {{etyl|xno|en}} {{term|
 * German: {{t+|de|Pfand|n}}
 * Hungarian: {{t+|hu|fogadalom}}
 * Italian: {{t+|it|giuramento|m}}, {{t+|it|pegno|m}}, {{t-|it|promessa solenne|f}}
-* Japanese: [[抵当]] (ていとう, teitō)
-* Korean: [[서약]] (seoyak)
+* Japanese: {{t|ja|抵当|tr=ていとう, teitō|sc=Jpan}}
+* Korean: {{t|ko|서약|tr=seoyak|sc=Kore}}
 * Kurdish:
 *: Sorani: {{t-|ku|په‌یمان|tr=paymAn|sc=ku-Arab}}
 {{trans-mid}}
@@ -109,11 +112,13 @@ From {{etyl|enm|en}} {{term|plege|plege|lang=enm}}, from {{etyl|xno|en}} {{term|
 * Romanian: {{t+|ro|legământ}}, {{t-|ro|promisiune}} (''fermă'')
 * Russian: {{t+|ru|обет|m}}, {{t+|ru|обещание|n}}, {{t+|ru|зарок|m}}
 * Scottish Gaelic: {{t-|gd|gealltanas|m}}
-* Serbo-Croatian: {{t-|sh|zavet|m}}
-* Slovene: [[zaprisega]] {{f}}, [[zaobljuba]] {{f}}
-* Spanish: {{t+|es|juramento|m}}, [[promesa]] [[solemne]] {{f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|завет|за́вет|m}}
+*: Roman: {{t-|sh|zavet|závet|m}}
+* Slovene: {{t|sl|zaprisega|f}}, {{t|sl|zaobljuba|f}}
+* {{ttbc|es}}: {{t+|es|juramento|m}}, {{t-|es|[[promesa]] [[solemne]]|f}} <!-- was "[[promesa]] [[solemne]]" - assumed sum-of-parts; if an idiom, remove the embedded wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Swedish: {{t-|sv|underpant|c}}
-* Telugu: [[ప్రతిజ్ఞ]] (prathigna), [[ప్రతిన]] (prathina)
+* Telugu: {{t|te|ప్రతిజ్ఞ|tr=prathigna|sc=Telu}}, {{t|te|ప్రతిన|tr=prathina|sc=Telu}}
 {{trans-bottom}}
 
 {{trans-top|security to payment}}
@@ -126,7 +131,7 @@ From {{etyl|enm|en}} {{term|plege|plege|lang=enm}}, from {{etyl|xno|en}} {{term|
 * Portuguese: {{t+|pt|garantia|f}}
 * Russian: {{t+|ru|залог|m|tr=zalóg}}
 * Spanish: {{t+|es|garantía|f}}
-* Telugu: [[తనఖా]] (tanakhaa)
+* Telugu: {{t|te|తనఖా|tr=tanakhaa|sc=Telu}}
 {{trans-bottom}}
 
 {{trans-top|person who has taken a pledge of allegiance to a fraternity}}
