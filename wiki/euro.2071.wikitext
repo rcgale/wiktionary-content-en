@@ -87,8 +87,8 @@ The name euro was the winner of a contest open to the general public to propose 
 *: Northern: [[euro#Northern Sami|euro]]
 *: [[Skolt]]: [[euˊrr]]
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|еуро|m|alt=ѐуро|sc=Cyrl}} (''Bosnian, Croatian''), {{t-|sh|евро|m|alt=ѐвро|sc=Cyrl}} (''Serbian'')
-*: Roman: {{t-|sh|euro|m|alt=èuro}} (''Bosnian, Croatian''), {{t-|sh|evro|m|alt=èvro}} (''Serbian'')
+*: Cyrillic: {{t-|sh|ѐуро|m|sc=Cyrl}} (''Bosnian, Croatian''), {{t-|sh|ѐвро|m|sc=Cyrl}} (''Serbian'')
+*: Roman: {{t-|sh|èuro|m}} (''Bosnian, Croatian''), {{t-|sh|èvro|m}} (''Serbian'')
 * Slovak: {{t-|sk|euro|n}}
 * Slovene: {{t-|sl|evro|m}}
 * Spanish: {{t+|es|euro}}
@@ -290,8 +290,8 @@ Sense 1 has an invariable plural: '''euro'''. The plural {{term|eurie|lang=nl}} 
 ===Noun===
 {{la-noun-form|eurō}}
 
-# {{inflection of|eurus|eurus|dat|s|lang=la}}
-# {{inflection of|eurus|eurus|abl|s|lang=la}}
+# {{inflection of|eurus||dat|s|lang=la}}
+# {{inflection of|eurus||abl|s|lang=la}}
 
 ----
 
@@ -354,7 +354,7 @@ Derived from {{etyl|la|pt}} {{term|Europa|lang=la}}, from {{etyl|grc|pt}} {{term
 ==Serbo-Croatian==
 
 ===Alternative forms===
-* {{sense|Serbia}} {{l|sh|evro|èvro}}
+* {{sense|Serbia}} {{l|sh|èvro}}
 
 ===Noun===
 {{sh-noun|g=m|head=èuro|r|еуро|ѐуро}}
