@@ -13,7 +13,7 @@
 
 ===Etymology===
 * First attested in 1541.<ref name=CH/>
-* {{borrowing|frm|abdomen}}, {{borrowing|la|abdomen|nocap=1}}, possibly from {{term|abdo|abdō|conceal|lang=la}}, from {{term|ab||away|lang=la}} + {{term|dere||to put, place|lang=la}}<ref name=CH>{{reference-book | last = Dobbie | first = Elliott K. | coauthors = Dunmore, C. William, et al. | editor = Barnhart, Robert K.| title = Chambers Dictionary of Etymology | origyear = 1998 | year = 2004 | publisher = Chambers Harrap Publishers Ltd | location = Edinburgh, Scotland | isbn =0550142304 | pages = 2}}</ref>.
+* {{borrowing|frm|abdomen}}, {{borrowing|la|abdomen|nocap=1}}, possibly from {{term/t|la|abdō||conceal}}, from {{term|ab||away|lang=la}} + {{term|dere||to put, place|lang=la}}<ref name=CH>{{reference-book | last = Dobbie | first = Elliott K. | coauthors = Dunmore, C. William, et al. | editor = Barnhart, Robert K.| title = Chambers Dictionary of Etymology | origyear = 1998 | year = 2004 | publisher = Chambers Harrap Publishers Ltd | location = Edinburgh, Scotland | isbn =0550142304 | pages = 2}}</ref>.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/ˈæb.də.mən/|æbˈdoʊ.mən/}}, {{X-SAMPA|/"{bd@m@n/}}
@@ -75,7 +75,7 @@
 * Kapampangan: {{tø|pam|atian}}
 * Korean: {{t+|ko|배|tr=bae}}, {{t+|ko|복|tr=bog, bok}} ({{t+|ko|腹}})
 {{trans-mid}}
-* Latin: {{t-|la|abdomen|alt=abdōmen}}
+* Latin: {{t-|la|abdōmen}}
 * Latvian: {{t+|lv|vēders|m}}
 * Lithuanian: {{t-|lt|pilvas|m}}
 * Luxembourgish: {{t-|lb|Ënnerläif|m}}
@@ -92,8 +92,8 @@
 * Romanian: {{t-|ro|abdomen|n}}, {{t+|ro|burtă|f}}
 * Russian: {{t+|ru|живот|m|tr=živót}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|трбух|m|alt=тр̀бух}}
-*: Roman: {{t-|sh|trbuh|alt=tr̀buh}}
+*: Cyrillic: {{t-|sh|тр̀бух|m}}
+*: Roman: {{t-|sh|tr̀buh}}
 * Slovak: {{t-|sk|brucho|n}}
 * Spanish: {{t+|es|abdomen|m}}, {{t+|es|vientre|m}}
 * Swedish: {{t+|sv|buk}}
@@ -158,7 +158,7 @@
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{term|abdomen|abdōmen|lang=la}}.
+From {{etyl|la|ca}} {{term/t|la|abdōmen}}.
 
 ===Noun===
 {{ca-noun|m|abdòmens}}
@@ -195,8 +195,8 @@ From {{etyl|la|ca}} {{term|abdomen|abdōmen|lang=la}}.
 
 # [[belly]], {{l/en|abdomen}}
 # {{context|by extension of meaning|lang=la}} [[gluttony]]
-# {{inflection of|abdomen|abdōmen|acc|s|lang=la}}
-# {{inflection of|abdomen|abdōmen|voc|s|lang=la}}
+# {{inflection of|abdōmen||acc|s|lang=la}}
+# {{inflection of|abdōmen||voc|s|lang=la}}
 
 ====Inflection====
 {{ladecl3n}}
@@ -240,7 +240,7 @@ From {{etyl|la|ca}} {{term|abdomen|abdōmen|lang=la}}.
 ==Spanish==
 
 ===Etymology===
-From {{etyl|la|es}} {{term|abdomen|abdōmen|lang=la}}.
+From {{etyl|la|es}} {{term/t|la|abdōmen}}.
 
 ===Pronunciation===
 * {{IPA|/abˈdo̞me̞n/|lang=es}}
