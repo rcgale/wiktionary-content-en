@@ -116,19 +116,19 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Afrikaans: {{t-|af|vrye}}
 * Albanian: {{t-|sq|lirë}} (i/e)
 * Amharic: {{t-|am|ነፃ|sc=Ethi}}
-* Arabic: {{t+|ar|حر|m|tr=Hurr}}
-*: Egyptian Arabic: {{tø|arz|حر|m|tr=ḥurr|sc=Arab}}
-* Armenian: {{t-|hy|ազատ|tr=azat}}
+* Arabic: {{t+|ar|حر|tr=ḥurr}}
+*: Egyptian Arabic: {{tø|arz|حر|tr=ḥurr|sc=Arab}}
+* Armenian: {{t-|hy|ազատ}}
 * Azeri: {{t-|az|azad}}
 * Bambara: {{t-|bm|hɔrɔn}}
 * Bengali: {{t|bn|মুক্ত|sc=Beng}}
-* Bulgarian: {{t+|bg|свободен|m|sc=Cyrl}}
+* Bulgarian: {{t+|bg|свободен|tr=svobóden|sc=Cyrl}}
 * Catalan: {{t+|ca|lliure}}
 * Chinese:
-*: Mandarin: {{zh-ts|[[自由]]的|[[自由]]的}} (zìyóu de)
+*: Mandarin: {{t|cmn|自由|tr=zìyóu de|alt=自由的}}
 * Czech: {{t+|cs|svobodný|m}}, {{t+|cs|volný|m}}
 * Danish: {{t+|da|fri}}
-* Dutch: {{t+|nl|vrij}}, {{t+|nl|los}} <!-- move inflection to "[[vrij]]": [[losse]] -->
+* Dutch: {{t+|nl|vrij}}, {{t+|nl|los}}
 * Esperanto: {{t+|eo|libera}}
 * Estonian: {{t+|et|vaba}}, {{t-|et|prii}}
 * Finnish: {{t+|fi|vapaa}}
@@ -154,7 +154,7 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Kurdish:
 *: Kurmanji: {{t+|kmr|azad}}, {{t+|kmr|serbest}}, {{t+|kmr|rizgar}}
 *: Sorani: {{t+|ku|ئازاد|tr=AzAd|sc=ku-Arab}}, {{t-|ku|ڕزگار|tr=RizgAr|sc=ku-Arab}}
-* Latin: {{t+|la|līber|m}}
+* Latin: {{t+|la|liber|m|alt=līber}}
 * Latvian: {{t-|lv|brīvs|m}}
 * Limburgish: {{t+|li|vrie}}
 * Lithuanian: {{t+|lt|laisvas|m}}, {{t-|lt|laisva|f}}
@@ -166,15 +166,15 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Norwegian: {{t+|no|fri}}
 * Novial: {{tø|nov|liberi}}
 * Occitan: {{t+|oc|liure}}
-* Old English: {{t-|ang|frēo}}, {{t-|ang|frēolic}}
-* Persian: {{t+|fa|آزاد|tr=āzād}}, {{t+|fa|رها|tr=rahā}}
+* Old English: {{t-|ang|freo|alt=frēo}}, {{t-|ang|freolic|alt=frēolic}}
+* Persian: {{t+|fa|آزاد|tr=âzâd}}, {{t+|fa|رها|tr=rahâ}}
 * Polish: {{t+|pl|wolny}}
 * Portuguese: {{t+|pt|livre|m|f}}
 * Romanian: {{t-|ro|liber|m}}, {{t-|ro|slobod}}
-* Russian: {{t+|ru|свободный|tr=svobódnyj}}, {{t+|ru|вольный|tr=vól’nyj}}
+* Russian: {{t+|ru|свободный|tr=svobódnyj}}, {{t+|ru|вольный|tr=vólʹnyj}}
 * Sanskrit: {{t-|sa|मुक्त|tr=mukta|sc=Deva}}, {{t-|sa|स्वतन्त्र|tr=svatantra|sc=Deva}}
 * Scottish Gaelic: {{t-|gd|saor}}
-* Serbo-Croatian: {{t-|sh|slobodan|m}}
+* Serbo-Croatian: {{t-|sh|слободан}}, {{t-|sh|slobodan}}
 * Sindhi: {{t+|sd|آزاد|tr=āzād}}
 * Slovak: {{t-|sk|slobodný}}
 * Slovene: {{t+|sl|svoboden|m}}
@@ -183,7 +183,7 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Swedish: {{t+|sv|fri}}
 * Telugu: {{t+|te|విడుదల|tr=vidudala|sc=Telu}}
 * Turkish: {{t+|tr|özgür}}
-* Ukrainian: {{t+|uk|вільний|m}}
+* Ukrainian: {{t+|uk|вільний|tr=vílʹnyj}}
 * Urdu: {{t+|ur|آزاد|tr=āzād}}, {{t-|ur|سوتنتر|tr=svatantra|sc=ur-Arab}}
 * Walloon: {{t|wa|libe|m|f}}
 * Welsh: {{t+|cy|rhydd}}
@@ -196,13 +196,13 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Amharic: {{t-|am|ነፃ|sc=Ethi}}
 * Arabic:
 *: Moroccan Arabic: {{tø|ary|فابور|tr=fabur}}
-* Armenian: {{t-|hy|անվճար|tr=anvtshar}}
+* Armenian: {{t-|hy|անվճար}}
 * Azeri: {{t-|az|ödənişsiz}}, {{t-|az|pulsuz}}
 * Bambara: {{t-|bm|gansan}}
 * Burmese: {{t+|my|အခမဲ့|tr=əkʰa̰ mḛ|sc=Mymr}}
 * Catalan: {{t-|ca|de franc}}, {{t-|ca|gratuït}}, {{t-|ca|gratis}}
 * Chinese:
-*: Mandarin: {{zh-ts|[[免]][[費]]的|[[免]][[费]]的}} (miǎnfèi de)
+*: Mandarin: {{t|cmn|免費|alt=免費的}}, {{t|cmn|免费|tr=miǎnfèi de|alt=免费的}}
 * Czech: {{t-|cs|bezplatný|m}}, {{t+|cs|volný|m}}
 * Danish: {{t+|da|gratis}}, {{t+|da|fri}}
 * Dutch: {{t+|nl|gratis}}, {{t-|nl|kosteloos}}, {{t-|nl|kosteloze}}, {{t-|nl|verniet}} (Flanders)
@@ -210,7 +210,7 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Estonian: {{t-|et|tasuta}}
 * Finnish: {{t+|fi|ilmainen}}, {{t+|fi|maksuton}}
 * French: {{t+|fr|gratuit}}, {{t+|fr|gratis}}
-* Georgian: {{t-|ka|უფასო|tr=up'aso|sc=Geor}}
+* Georgian: {{t-|ka|უფასო|sc=Geor}}
 * German: {{t+|de|umsonst}}, {{t+|de|gratis}}, {{t+|de|kostenlos}}
 * Greek: {{t+|el|δωρεάν|tr=doreán}} {{qualifier|adverb}}
 *: Ancient: {{tø|grc|δωρεάν|tr=doreán}}
@@ -249,7 +249,7 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Swedish: {{t+|sv|gratis}}, {{t+|sv|fri}}, {{t+|sv|kostnadsfri}}
 * Telugu: {{t+|te|ఉచితము|tr=ucitamu|sc=Telu}}
 * Turkish: {{t+|tr|bedava}}, {{t+|tr|ücretsiz}}
-* Ukrainian: {{t+|uk|безкоштовний|m}}
+* Ukrainian: {{t+|uk|безкоштовний|tr=bezkoštóvnyj}}
 * Walloon: {{t|wa|po rén}}
 * Welsh: {{t-|cy|yn rhad ac am ddim}}, {{t-|cy|di-dâl}}
 * West Frisian: {{t+|fy|fergees}}, {{t-|fy|frij}}
@@ -258,13 +258,13 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 {{trans-top|unconstrained}}
 * Albanian: {{t-|sq|pafre}}
 * Amharic: {{t-|am|ነፃ|sc=Ethi}}
-* Arabic: {{t+|ar|حر|m|tr=Hurr}}
-* Armenian: {{t-|hy|առանց|tr=arranc‛}}
+* Arabic: {{t+|ar|حر|m|tr=ḥurr}}
+* Armenian: {{t-|hy|առանց}}
 * Azeri: {{t-|az|sərbəst}}
 * Bambara: {{t-|bm|hɔrɔn}}
 * Catalan: {{t+|ca|lliure}}
 * Chinese:
-*: Mandarin: {{zh-ts|[[自由]]的|[[自由]]的}} (zìyóu de)
+*: Mandarin: {{t|cmn|自由|tr=zìyóu de|alt=自由的}}
 * Czech: {{t+|cs|volný|m}}
 * Danish: {{t+|da|fri}}
 * Dutch: {{t+|nl|vrij}}, {{t+|nl|los}}, {{t-|nl|loslopend}}
@@ -293,7 +293,7 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Macedonian: {{t-|mk|слободен|tr=slóboden|sc=Cyrl}}
 * Norwegian: {{t+|no|fri}}, {{t-|no|løs}}
 * Novial: {{tø|nov|liberi}}
-* Old English: {{t-|ang|frēo}}
+* Old English: {{t-|ang|freo|alt=frēo}}
 * Persian: {{t+|fa|آزاد|tr=âzâd}}
 * Polish: {{t+|pl|wolny}}, {{t+|pl|swobodny|m}}
 * Portuguese: {{t+|pt|livre}}
@@ -321,7 +321,7 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Azeri: {{t-|az|maneə törədilməmiş}}
 * Catalan: {{t+|ca|lliure}}
 * Chinese:
-*: Mandarin: {{zh-ts|[[通暢]]的|[[通畅]]的}} (tōngchàng de), {{zh-ts|[[順暢]]的|[[順畅]]的}} (shùnchàng de)
+*: Mandarin: {{t|cmn|通暢|alt=通暢的}}, {{t|cmn|通畅|tr=tōngchàng de|alt=通畅的}}, {{t|cmn|順暢|alt=順暢的}}, {{t|cmn|順畅|tr=shùnchàng de|alt=順畅的}}
 * Czech: {{t+|cs|volný|m}}
 * Dutch: {{t+|nl|vrij}}, {{t+|nl|vrije}}, {{t+|nl|open}}
 * Esperanto: {{t+|eo|libera}}
@@ -358,7 +358,7 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 {{trans-bottom}}
 
 {{trans-top|not in use}}
-* Arabic: {{t-|ar|شاغر|tr=shaghir|sc=Arab}}
+* Arabic: {{t-|ar|شاغر|tr=šāġir|sc=Arab}}
 * Azeri: {{t-|az|boş}}
 * Catalan: {{t-|ca|desocupat|m}}
 * Czech: {{t+|cs|volný|m}}
@@ -371,7 +371,8 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Latvian: {{t-|lv|brīvs}}
 * Macedonian: {{t-|mk|слободен|tr=slóboden|sc=Cyrl}}
 * Norwegian: {{t-|no|ledig}}
-* Persian: {{t+|fa|آزاد|tr=āzād}}, {{t+|fa|بی کار|tr=bikār}}
+* Persian: {{t+|fa|آزاد|tr=âzâd}}, {{t+|fa|بی کار|tr=bikâr}}
+* Russian: {{t+|ru|свободный|tr=svobódnyj}}, {{t+|ru|незанятый|tr=nezánjatyj}}
 * Spanish: {{t+|es|libre}}, {{t-|es|desocupado}}
 * Swedish: {{t+|sv|ledig}}
 * Telugu: {{t-|te|ఉపయోగించని|tr=upayogincani|sc=Telu}}
@@ -384,7 +385,7 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Bambara: {{t-|bm|hɔrɔn}}
 * Catalan: {{t+|ca|lliure}}
 * Chinese:
-*: Mandarin: {{zh-ts|[[自由]]的|[[自由]]的}} (zìyóu de)
+*: Mandarin: {{t|cmn|自由|tr=zìyóu de|alt=自由的}}
 * Czech: {{t+|cs|volný|m}}
 * Danish: {{t+|da|fri}}
 * Dutch: {{t+|nl|vrij}}, {{t-|nl|ongedwongen}}
@@ -412,7 +413,7 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Macedonian: {{t-|mk|слободен|tr=slóboden|sc=Cyrl}}
 * Norwegian: {{t+|no|fri}}, {{t-|no|ledig}}
 * Novial: {{tø|nov|liberi}}
-* Old English: {{t-|ang|frēo}}
+* Old English: {{t-|ang|freo|alt=frēo}}
 * Polish: {{t+|pl|wolny}}
 * Portuguese: {{t+|pt|livre}}
 * Romanian: {{t-|ro|liber|m}}
@@ -433,7 +434,7 @@ From {{etyl|enm|en}} {{term|fre||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Bambara: {{t-|bm|hɔrɔn}}
 * Catalan: {{t+|ca|lliure}}
 * Chinese:
-*: Mandarin: {{zh-ts|[[自由]]的|[[自由]]的}} (zìyóu de)
+*: Mandarin: {{t|cmn|自由|tr=zìyóu de|alt=自由的}}
 * Czech: {{t+|cs|svobodný|m}}
 * Danish: {{t+|da|fri}}
 * Dutch: {{t+|nl|vrij}}, {{t+|nl|vrije}}
