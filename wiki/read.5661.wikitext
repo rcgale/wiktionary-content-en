@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|ang|en}} {{term/t|ang|rǣdan||advise, read}}, from {{etyl|gem-pro|en}} {{term/t|gem-pro|*rēdaną||advise, counsel}}. Cognate with Danish {{term|råde|lang=da}}, Dutch {{term|raden|lang=nl}}, German {{term|raten|lang=de}}, Swedish {{term|råda|lang=sv}}. The development from ‘advise, interpret’ to ‘interpret letters, read’ is unique to English. Compare {{term|rede}}.
+From {{etyl|enm|en}} {{term|reden|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|rǣdan||to counsel, advise, consult; interpret, read}}, from {{etyl|gem-pro|en}} {{term/t|gem-pro|*rēdaną||advise, counsel}}. Cognate with {{langname|sco}} {{term|rede|lang=sco}}, {{term|red||to advise, counsel, decipher, read|lang=sco}}, {{langname|stq}} {{term|räide||to advise, counsel|lang=stq}}, {{langname|fy}} {{term|riede||to advise, counsel|lang=fy}}, Dutch {{term|raden||to advise, counsel, rede|lang=nl}}, German {{term|raten||to advise; guess|lang=de}}, Danish {{term|råde||to advise|lang=da}}, Swedish {{term|råda||to advise, counsel|lang=sv}}. The development from ‘advise, interpret’ to ‘interpret letters, read’ is unique to English. Compare {{term|rede}}.
 
 ===Pronunciation===
 * {{audio|En-uk-to read.ogg|Audio (UK)}}
@@ -20,36 +20,6 @@ From {{etyl|ang|en}} {{term/t|ang|rǣdan||advise, read}}, from {{etyl|gem-pro|en
 * {{rhymes|ɛd}}
 * {{homophones|lang=en|red|redd}}
 
-===Noun===
-{{en-noun}}
-
-# A reading or an act of reading, especially an actor's part of a play.
-#* Furnivall
-#*: One newswoman here lets magazines for a penny a '''read'''.
-#* Philip Larkin, ''Self's the Man''
-#*: And when he finishes supper / Planning to have a '''read''' at the evening paper / It's ''Put a screw in this wall'' &mdash; / He has no time at all{{...}}
-#* '''2006''', ''MySQL administrator's guide and language reference'' (page 393)
-#*: In other words, the system can do 1200 '''reads''' per second with no writes, the average write is twice as slow as the average read, and the relationship is linear.
-
-====Derived terms====
-{{rel-top|Terms derived from the noun "read"}}
-* [[cold read]]
-* [[read-out]], [[readout]]
-{{rel-bottom}}
-
-====Translations====
-{{trans-top|a reading or an act of reading}}
-* French: {{t+|fr|lecture|f}}
-* {{trreq|ka}}
-* Icelandic: {{t-|is|lesning|f}}
-* Manx: {{t-|gv|lhaih|m}}
-{{trans-mid}}
-* Portuguese: {{t+|pt|leitura|f}}
-* Romanian: {{t-|ro|citire|f}}, {{t-|ro|lecturare}}; {{t-|ro|intonare|f}} (''actor'')
-* Sanskrit: {{t+|sa|पठति|tr=psThati|sc=Deva}}
-* Spanish: {{t|es|lectura|f}}
-{{trans-bottom}}
-
 ===Verb===
 {{en-verb|reads|reading|read|'''[[read]]''' ''or'' (''archaic or dialect'') '''[[readen]]'''}}
 [[Image:Franz Eybl, Lesendes Mädchen.jpg|thumb|upright|A painting of a girl reading.]]
@@ -65,7 +35,8 @@ From {{etyl|ang|en}} {{term/t|ang|rǣdan||advise, read}}, from {{etyl|gem-pro|en
 |passage=In the old days, to my commonplace and unobserving mind, he gave no evidences of genius whatsoever. He never '''read''' me any of his manuscripts,&nbsp;[&hellip;], and therefore my lack of detection of his promise may in some degree be pardoned.}}
 #: {{usex|He '''read''' us a passage from his new book.|lang=en}}
 #: {{usex|All right, class, who wants to '''read''' next?|lang=en}}
-# {{context|transitive|lang=en}} To [[interpret]] or [[infer]] a [[meaning]], [[significance]], etc.
+# {{context|transitive|lang=en}} To [[interpret]] or [[infer]] a [[meaning]], [[significance]], [[thought]], [[intention]], etc.
+#: {{usex|She '''read''' my mind and promptly rose to get me a glass of water.|lang=en}}
 #: {{usex|I can '''read''' his feelings in his face.|lang=en}}
 # To consist of certain text.
 #: {{usex|On the door hung a sign that '''read''' "Proper Safety Equipment Required Beyond This Point."|lang=en}}
@@ -432,6 +403,36 @@ From {{etyl|ang|en}} {{term/t|ang|rǣdan||advise, read}}, from {{etyl|gem-pro|en
 * {{ttbc|pl}}: [[czytać]], [[przeczytać]], [[odczytać]]
 * {{ttbc|ro}}: [[citi]]
 * {{ttbc|yi}}: [[לײענען]] (leyenen) (l)
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# A reading or an act of reading, especially an actor's part of a play.
+#* Furnivall
+#*: One newswoman here lets magazines for a penny a '''read'''.
+#* Philip Larkin, ''Self's the Man''
+#*: And when he finishes supper / Planning to have a '''read''' at the evening paper / It's ''Put a screw in this wall'' &mdash; / He has no time at all{{...}}
+#* '''2006''', ''MySQL administrator's guide and language reference'' (page 393)
+#*: In other words, the system can do 1200 '''reads''' per second with no writes, the average write is twice as slow as the average read, and the relationship is linear.
+
+====Derived terms====
+{{rel-top|Terms derived from the noun "read"}}
+* [[cold read]]
+* [[read-out]], [[readout]]
+{{rel-bottom}}
+
+====Translations====
+{{trans-top|a reading or an act of reading}}
+* French: {{t+|fr|lecture|f}}
+* {{trreq|ka}}
+* Icelandic: {{t-|is|lesning|f}}
+* Manx: {{t-|gv|lhaih|m}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|leitura|f}}
+* Romanian: {{t-|ro|citire|f}}, {{t-|ro|lecturare}}; {{t-|ro|intonare|f}} (''actor'')
+* Sanskrit: {{t+|sa|पठति|tr=psThati|sc=Deva}}
+* Spanish: {{t|es|lectura|f}}
 {{trans-bottom}}
 
 ===See also===
