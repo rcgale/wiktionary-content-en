@@ -1,8 +1,13 @@
 ==Latvian==
 {{slim-wikipedia|lang=lv}}
-[[File:Jökulsárlón17.jpg|thumb|200px|Ledus]]
+[[File:Jökulsárlón17.jpg|thumb|250px|Ledus]]
+
 ===Etymology===
-From {{etyl|ine-bsl-pro|lv}} {{term/t|ine-bsl-pro|*ledús}}. Cognates include Old Church Slavonic {{term|sc=Cyrs|лєдъ|tr=ledŭ|lang=cu}}, Old Prussian {{term|ladis|lang=prg}} and Lithuanian {{term|ledas|lẽdas|lang=lt}}.
+From {{etyl|bat-pro|lv}} {{recons|led-|lang=bat-pro}}, from {{etyl|ine-pro|lv}} {{recons|ledʰ||ice|lang=ine-pro}}, perhaps the same as {{recons|leidʰ||slippery, to slide|lang=ine-pro}}. Cognates include {{etyl|lt|-}} {{term|ledas|lẽdas|lang=lt}}, dialectal {{term|ledus|ledùs|lang=lt}}, {{etyl|prg|-}} {{term|ladis|lang=prg}}, {{etyl|ru|-}} {{term|лёд|tr=ljod|lang=ru}}, {{etyl|cu|-}} {{term|лєдъ|tr=ledŭ|lang=cu}}, {{etyl|cs|-}} {{term|led|lang=cs}}, {{etyl|pl|-}} {{term|lód|lang=pl}}.<ref>{{R:lv:LEV}}</ref>
+
+===Pronunciation===
+* {{lv-IPA|lædus}}
+{{rfap|lang=lv}}
 
 ===Noun===
 {{lv-noun|m|3rd}}
@@ -18,11 +23,14 @@ From {{etyl|ine-bsl-pro|lv}} {{term/t|ine-bsl-pro|*ledús}}. Cognates include Ol
 #: '''''ledus''' balets'' — ballet (skating) on '''ice'''
 
 ====Declension====
-{{lv-decl-noun|led|us|3rd}}
+{{lv-decl-noun|led|us|3rd|extrawidth=-60}}
 
 ====Derived terms====
-* {{l|lv|ledus lācis}}
-* {{l|lv|ledusskapis}}
+* {{l/lv|ledus lācis}}
+* {{l/lv|ledusskapis}}
+
+===References===
+<references />
 
 [[az:ledus]]
 [[et:ledus]]
