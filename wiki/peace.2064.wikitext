@@ -103,7 +103,7 @@ From {{etyl|enm|en}} {{term|pece|pece, peas, pees|lang=enm}}, from {{etyl|fro|en
 * Catalan: {{t+|ca|pau|f}}
 * Chinese:
 *: Mandarin: {{t|cmn|和平|tr=hépíng|sc=Hani}}, {{t|cmn|平靜|sc=Hani}}, {{t|cmn|平静|tr=píngjìng|sc=Hani}}, {{t|cmn|治安|tr=zhì’ān|sc=Hani}}
-*: Min Nan: {{t+|nan|和平|tr=hô-pîng|sc=Hans}}, {{t-|nan|平靜|tr=pîng-tsīng|sc=Hans}}, {{t-|nan|治安|tr=tī-an|sc=Hans}}
+*: Min Nan: {{t+|nan|和平|tr=hô-pîng|sc=Hans}}, {{t-|nan|平靜|tr=pîng-tsīng|sc=Hans}}, {{t+|nan|治安|tr=tī-an|sc=Hans}}
 * Czech: {{t+|cs|pokoj|m}}
 * Danish: {{t+|da|fred|c}}, {{t+|da|ro|c}}
 * Dutch: {{t+|nl|rust|f}}
@@ -119,7 +119,7 @@ From {{etyl|enm|en}} {{term|pece|pece, peas, pees|lang=enm}}, from {{etyl|fro|en
 * Greek:
 *: Ancient: {{tø|grc|εἰρήνη|f}}
 *: Modern: {{t+|el|ειρήνη|f|tr=eiríni}}
-* Hebrew: {{t+|he|שָׁלוֹם|m|tr=shalóm|sc=Hebr}}
+* Hebrew: {{t-|he|שָׁלוֹם|m|tr=shalóm|sc=Hebr}}
 * Hindi: {{t+|hi|शांति|f|tr=śā̃nti|sc=Deva}}, {{t+|hi|अमन|m|tr=aman|sc=Deva}}
 * Hungarian: {{t+|hu|nyugalom}}, {{t+|hu|béke}}
 * Icelandic: {{t+|is|friður|m}}
@@ -173,13 +173,13 @@ From {{etyl|enm|en}} {{term|pece|pece, peas, pees|lang=enm}}, from {{etyl|fro|en
 * Tagalog: {{t-|tl|kapayapaan}}
 * Telugu: {{t+|te|శాంతి|tr=śāṅti}}
 * Thai: {{t-|th|เงียบ|tr=ngîap}}
-* Tibetan: {{t|bo|ཞི་བདེ|tr=zhi bde|sc=Tibt}}, {{t|bo|ཞི་བ|tr=zhi ba|sc=Tibt}}
+* Tibetan: {{t-|bo|ཞི་བདེ|tr=zhi bde|sc=Tibt}}, {{t-|bo|ཞི་བ|tr=zhi ba|sc=Tibt}}
 * Tok Pisin: {{t-|tpi|gutpela taim}}
 * Tswana: {{t-|tn|lodule}}
 * Turkish: {{t+|tr|huzur}}
 * Ukrainian: {{t-|uk|спокій|m|tr=spokíj|sc=Cyrl}}, {{t-|uk|мир|m|tr=myr|sc=Cyrl}}
 * Urdu: {{t-|ur|امن|m|tr=aman|sc=ur-Arab}}, {{t-|ur|سکون|m|tr=sukūn, sakū|sc=ur-Arab}}
-* Vietnamese: {{t+|vi|hoà bình}} ({{t|vi|和平|sc=Hani}}), {{t|vi|thái bình}} ({{t|vi|太平|sc=Hani}})
+* Vietnamese: {{t+|vi|hoà bình}} ({{t-|vi|和平|sc=Hani}}), {{t+|vi|thái bình}} ({{t-|vi|太平|sc=Hani}})
 * Welsh: {{t-|cy|heddwch}}, {{t+|cy|llonydd}}, {{t+|cy|llonyddwch}}
 * Zulu: {{t+|zu|uxolo}}
 {{trans-bottom}}
@@ -199,7 +199,7 @@ From {{etyl|enm|en}} {{term|pece|pece, peas, pees|lang=enm}}, from {{etyl|fro|en
 * Dutch: {{t+|nl|rust|f}}, [[vrede met zichzelf]] {{f}}
 * Egyptian: {{tø|egy|ḥtpw}} <hiero>R4:t*p-w-Y1-Z2</hiero>
 * Esperanto: {{t+|eo|paco}}
-* Finnish: {{t+|fi|rauha}}, {{t|fi|mielenrauha}}, {{t-|fi|rauhallisuus}}
+* Finnish: {{t+|fi|rauha}}, {{t+|fi|mielenrauha}}, {{t-|fi|rauhallisuus}}
 * Galician: {{t+|gl|paz|f}}
 * German: {{t+|de|Ruhe|f}}, {{t+|de|Frieden|m}}
 * Greek:
@@ -339,7 +339,7 @@ From {{etyl|enm|en}} {{term|pece|pece, peas, pees|lang=enm}}, from {{etyl|fro|en
 * Greek:
 *: Ancient: {{tø|grc|εἰρήνη|f}}
 *: Modern: {{t+|el|ειρήνη|f|tr=eiríni}}
-* Hebrew: {{t+|he|שָׁלוֹם|m|tr=shalóm|sc=Hebr}}
+* Hebrew: {{t-|he|שָׁלוֹם|m|tr=shalóm|sc=Hebr}}
 * Hindi: {{t+|hi|शांति|f|tr=śā̃nti|sc=Deva}}
 * Hungarian: {{t+|hu|béke}}
 * Icelandic: {{t+|is|friður|m}}, {{t-|is|friðartími|m}}
@@ -551,8 +551,8 @@ From {{etyl|enm|en}} {{term|pece|pece, peas, pees|lang=enm}}, from {{etyl|fro|en
 * {{ttbc|pag}}: [[kareenan]]
 * {{ttbc|ood}}: [[dodolimdag]]
 * {{ttbc|pap}}: [[pas]]
-* {{ttbc|ps}}: {{t|ps|صلح|tr=solh}}
-* {{ttbc|fa}}: {{t|fa|آشتی|tr=âštī}}
+* {{ttbc|ps}}: {{t-|ps|صلح|tr=solh}}
+* {{ttbc|fa}}: {{t+|fa|آشتی|tr=âštī}}
 * {{ttbc|piu}}: [[yatanpa]]
 * {{ttbc|pjt}}: [[pilun]]
 * {{ttbc|nds}}: [[Freden]]
