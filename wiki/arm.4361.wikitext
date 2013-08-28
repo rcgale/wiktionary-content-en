@@ -95,7 +95,7 @@ Akin to {{etyl|nl|-}} {{term|arm|lang=nl}}, {{etyl|de|-}} {{term|Arm|lang=de}}, 
 * Azeri: {{t-|az|qol}}
 * Baluchi: {{tø|bal|باسک|tr=básk}}
 * {{trreq|ba}}
-* Basque: {{t|eu|beso}}
+* Basque: {{t+|eu|beso}}
 * Belarusian: {{t-|be|рука|f|tr=ruká}}
 * Bengali: {{t-|bn|বাহু|tr=bāhu|sc=Beng}}
 * Breton: {{t+|br|brec'h|f}} <!-- The following belongs in the entry [[brec'h]], not the translation table: (''plural for a single body'': divrec'h; (''plural for several bodies'': brec'hioù) -->
@@ -222,7 +222,7 @@ Akin to {{etyl|nl|-}} {{term|arm|lang=nl}}, {{etyl|de|-}} {{term|Arm|lang=de}}, 
 * Greek: {{t+|el|βραχίονας|m|tr=vrachíonas}}
 {{trans-mid}}
 * Polish: {{t+|pl|ramię|n}}
-* Portuguese: {{t|pt|braço|m}}, {{t|pt|braços|p}}
+* Portuguese: {{t+|pt|braço|m}}, {{t+|pt|braços|p}}
 * Swahili: {{t+|sw|mkono}}, {{t+|sw|mkono}}
 * Thai: {{t-|th|ต้นแขน|tr=tôn khăen|sc=Thai}}
 * Tok Pisin: {{t+|tpi|han}}
@@ -232,7 +232,7 @@ Akin to {{etyl|nl|-}} {{term|arm|lang=nl}}, {{etyl|de|-}} {{term|Arm|lang=de}}, 
 {{trans-top|portion of the upper limb from elbow to wrist, lower arm}}
 * German: {{t+|de|Unterarm|m}}
 {{trans-mid}}
-* Portuguese: {{t|pt|antebraço|m}}, {{t|pt|antebraços|p}}
+* Portuguese: {{t+|pt|antebraço|m}}, {{t-|pt|antebraços|p}}
 * Thai: {{t-|th|ปลายแขน|tr=plaai khăen|sc=Thai}}
 * Volapük: {{t-|vo|donabrad}}
 {{trans-bottom}}
@@ -320,44 +320,44 @@ Akin to {{etyl|nl|-}} {{term|arm||poor|lang=nl}}, {{etyl|de|-}} {{term|arm||poor
 {{trans-top|weapon}}
 * Albanian: {{t+|sq|armë|f}}
 * Armenian: {{t-|hy|զենք|tr=zenk'}}
-* Breton: {{t|br|arm|m}}, {{t|br|armoù|p}}
+* Breton: {{t+|br|arm|m}}, {{t-|br|armoù|p}}
 * Bulgarian: {{t+|bg|оръжие|n|tr=orǎ̀žie}}
-* Catalan: {{t|ca|arma|f}}
+* Catalan: {{t+|ca|arma|f}}
 * Chinese:
 *: Mandarin: {{t|cmn|武器|tr=wǔqì|sc=Hani}}
 * Czech: {{t+|cs|zbraň|f}}
-* Danish: {{t-|da|våben}}
+* Danish: {{t+|da|våben}}
 * Dutch: {{t+|nl|wapen|n}}
 * Esperanto: {{t-|eo|armilo}}
 * Finnish: {{t+|fi|ase}}
 * French: {{t+|fr|arme|f}}
 * German: {{t+|de|Waffe|f}}, {{t+|de|Bewaffnung|f}} {{qualifier|collective}}, {{t+|de|Rüstung|f}} {{qualifier|collective}}
-* Guaraní: {{qualifier|firearm}} {{t|gn|mboka}}
+* Guaraní: {{qualifier|firearm}} {{t-|gn|mboka}}
 * Indonesian: {{t+|id|senjata}}
-* Interlingua: {{t|ia|arma}}
+* Interlingua: {{t-|ia|arma}}
 * Irish: {{t-|ga|arm|m}}
 * Italian: {{t+|it|arma|f}}
-* Japanese: {{t|ja|武器|tr=[[ぶき]], búki|sc=Jpan}}
+* Japanese: {{t+|ja|武器|tr=[[ぶき]], búki|sc=Jpan}}
 {{trans-mid}}
-* Korean: {{t|ko|무기|tr=[[武器]], mugi|sc=Kore}}
+* Korean: {{t+|ko|무기|tr=[[武器]], mugi|sc=Kore}}
 * Kurdish: {{t+|ku|çek}}, {{t+|ku|sîleh}}
 * Latin: {{t+|la|arma|n-p}}, {{t-|la|telum|n}}
 * Macedonian: {{t-|mk|оружје|n|tr=óružje}}
-* Occitan: {{t|oc|arma|f}}
+* Occitan: {{t+|oc|arma|f}}
 * Polish: {{t+|pl|broń|f}}
 * Portuguese: {{t+|pt|arma|f}}
 * Romanian: {{t+|ro|armă|f}}
 * Russian: {{t+|ru|оружие|n|tr=orúžije}}, {{qualifier|collective}} {{t+|ru|вооружение|n|tr=vooružénije|sc=Cyrl}}
-* Serbo-Croatian: {{t-|sh|oružje|n}}, {{t|sh|оружје|n}}
+* Serbo-Croatian: {{t-|sh|oružje|n}}, {{t-|sh|оружје|n}}
 * Spanish: {{t+|es|arma|f}}
 * Swahili: {{t+|sw|mkono}}
 * Swedish: {{t+|sv|vapen|n}}
-* Telugu: {{t|te|ఆయుఇధం|sc=Telu}}
+* Telugu: {{t-|te|ఆయుఇధం|sc=Telu}}
 * Thai: {{t+|th|อาวุธ|tr=aa-wút|sc=Thai}}
-* Tupinambá: {{t|tpn|popesûara}}
+* Tupinambá: {{tø|tpn|popesûara}}
 * Turkish: {{t+|tr|silah}}
 * Ukrainian: {{t-|uk|зброя|f|tr=zbrója}}
-* Vietnamese: {{t|vi|vũ khí}} ({{t|vi|武器}})
+* Vietnamese: {{t+|vi|vũ khí}} ({{t-|vi|武器}})
 * Volapük: {{t+|vo|vaf}}, {{t+|vo|vafem}} {{qualifier|collective}}
 {{trans-bottom}}
 
@@ -391,13 +391,13 @@ Akin to {{etyl|nl|-}} {{term|arm||poor|lang=nl}}, {{etyl|de|-}} {{term|arm||poor
 * Finnish: {{t-|fi|aseistaa}}
 * French: {{t+|fr|armer}}
 * German: {{t+|de|rüsten}}, {{t+|de|bewaffnen}}
-* Italian: {{t-|it|armare}}
+* Italian: {{t+|it|armare}}
 * Japanese: {{t+|ja|武装|tr=ぶそうする, busō suru|alt=武装する|sc=Jpan}}
 {{trans-mid}}
 * Latin: {{t-|la|armo}}
 * Norwegian:
-*: Bokmål: {{t|nb|væpne}}
-*: Nynorsk: {{t|nn|væpna}}, {{t|nn|væpne}}
+*: Bokmål: {{t-|nb|væpne}}
+*: Nynorsk: {{t-|nn|væpna}}, {{t-|nn|væpne}}
 * Portuguese: {{t+|pt|armar}}
 * Russian: {{qualifier|transitive}} {{t+|ru|вооружать|tr=vooružát’|sc=Cyrl}} {{impf}}, {{t+|ru|вооружить|tr=vooružít’|sc=Cyrl}} {{pf.}}, {{qualifier|intransitive}} {{t+|ru|вооружаться|tr=vooružát’sja|sc=Cyrl}} {{impf}}, {{t+|ru|вооружиться|tr=vooružít’sja|sc=Cyrl}} {{pf.}}
 * Scottish Gaelic: {{t-|gd|armaich}}
