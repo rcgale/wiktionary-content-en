@@ -58,19 +58,19 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 * Catalan: {{t+|ca|preguntar}}
 * Chinese:
 *: Mandarin: {{t|cmn|問|sc=Hani}}, {{t|cmn|问|tr=wèn|sc=Hani}}, {{t|cmn|詢問|sc=Hani}}, {{t|cmn|询问|tr=xúnwèn|sc=Hani}}
-* {{ttbc|cs}}: {{t|cs|ptát|alt=ptát se}} <!-- was "[[ptát]] se" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|cs}}: {{t-|cs|ptát|alt=ptát se}} <!-- was "[[ptát]] se" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Danish: {{t+|da|spørge}}
 * Dutch: {{t+|nl|vragen}}
 * Esperanto: {{t-|eo|demandi}}
 * Estonian: {{t-|et|küsima}}, {{t-|et|pärima}}
-* Faroese: {{t-|fo|spyrja}}
+* Faroese: {{t+|fo|spyrja}}
 * Finnish: {{t+|fi|kysyä}}
 * French: {{t+|fr|demander}}, {{t+|fr|questionner}}, {{t+|fr|poser}} {{qualifier|une question}}
-* Georgian: {{t|ka|იკითხავს|sc=Geor}}
+* Georgian: {{t-|ka|იკითხავს|sc=Geor}}
 * German: {{t+|de|fragen}}, {{qualifier|eine Frage}} {{t+|de|stellen}}
 * Greek: {{t+|el|ρωτώ|tr=rotó}}
 * Hawaiian: {{tø|haw|nīnau}}, {{tø|haw|ui}}
-* Hebrew: {{t+|he|שָׁאַל|tr=sha'ál}}
+* Hebrew: {{t-|he|שָׁאַל|tr=sha'ál}}
 * Hindi: {{t-|hi|पूछना|tr=pūchnā|sc=Deva}}
 * Hungarian: {{t+|hu|kérdez}}
 * Icelandic: {{t+|is|spyrja}}, {{t-|is|fregna}}
@@ -86,17 +86,17 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 * Khmer: {{t+|km|សួរ|tr=suer}}, {{t+|km|សុំ|tr=som}}
 * Korean: {{t+|ko|묻다|tr=mutda|sc=Kore}}, {{t+|ko|질문|tr=jilmun-hada|alt=질문하다|sc=Kore}}
 * Kurdish:
-*: {{ttbc|ku}}: {{t+|ku|pirsîn}}, {{t|kmr|pirs|alt=pirs kirin}} <!-- was "[[pirs]] kirin" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|kmr|pirsiyar|alt=pirsiyar kirin}} <!-- was "[[pirsiyar]] kirin" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+*: {{ttbc|ku}}: {{t+|ku|pirsîn}}, {{t+|kmr|pirs|alt=pirs kirin}} <!-- was "[[pirs]] kirin" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+|kmr|pirsiyar|alt=pirsiyar kirin}} <!-- was "[[pirsiyar]] kirin" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 *: Sorani: {{t-|ku|پرسین|tr=pirsîn|sc=ku-Arab}}, {{t-|ku|داوا کردن|tr=dawa kirdin|sc=ku-Arab}}
 {{trans-mid}}
 * Latgalian: {{tø|ltg|lyugt}}, {{tø|ltg|praseit}}
 * Latin: {{t-|la|quaerere}}, {{t-|la|scisco}}, {{t-|la|sciscitor}}, {{t-|la|scito}}, {{t-|la|scitor}}
-* Latvian: {{t-|lv|lūgt}}, {{t-|lv|prasīt}}
+* Latvian: {{t+|lv|lūgt}}, {{t-|lv|prasīt}}
 * Lojban: {{t-|jbo|cpedu}}
 * Luxembourgish: {{t+|lb|froen}}
-* Macedonian: {{t|mk|прашува|tr=prášuva|sc=Cyrl}}, {{t|mk|праша|tr=práša|sc=Cyrl}}
-* Middle High German: {{t|gmh|vrâgen}}
-* Northern Sami: {{t|se|jearrat}}
+* Macedonian: {{t-|mk|прашува|tr=prášuva|sc=Cyrl}}, {{t-|mk|праша|tr=práša|sc=Cyrl}}
+* Middle High German: {{tø|gmh|vrâgen}}
+* Northern Sami: {{tø|se|jearrat}}
 * Norwegian:
 *: Bokmål: {{t+|no|spørre}}
 *: Nynorsk: {{t-|nn|spørje}}
@@ -130,7 +130,7 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 * Urdu: {{t-|ur|پوچھنا|tr=pūchnā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|hỏi}}, {{t+|vi|chất vấn}}
 * Welsh: {{t+|cy|gofyn}}, {{t+|cy|holi}}, {{t+|cy|ceisio}}
-* Xhosa: {{t|xh|ukubuza}}
+* Xhosa: {{t-|xh|ukubuza}}
 * Yiddish: {{t-|yi|פֿרעגן|tr=fregn}}
 * Zulu: {{t-|zu|buza}}, {{t-|zu|nxusa}}, {{t-|zu|ncenga}}, {{t-|zu|cela}}
 {{trans-bottom}}
@@ -154,7 +154,7 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 * Estonian: {{t-|et|paluma}}
 * Finnish: {{t+|fi|pyytää}}
 * French: {{t+|fr|demander}}
-* Georgian: {{t|ka|სთხოვს|sc=Geor}}, {{t|ka|ითხოვს|sc=Geor}}
+* Georgian: {{t-|ka|სთხოვს|sc=Geor}}, {{t-|ka|ითხოვს|sc=Geor}}
 * German: {{t+|de|bitten}}
 * Greek: {{t+|el|παρακαλώ|tr=parakaló}}, {{t+|el|ζητώ|tr=zitó}}
 * Hawaiian: {{tø|haw|noi}}, {{tø|haw|ui}} 
@@ -177,13 +177,13 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 *: Sorani: {{t-|ku|پرسین}} ([[pirsîn]]), {{t-|ku|داواکردن|tr=dawa kirdin}}
 * Latin: {{t-|la|rogare}}, {{t-|la|precari}}, {{t-|la|quaero}}
 * Luxembourgish: {{t-|lb|bieden}}
-* Macedonian: {{t|mk|моли|tr=móli|sc=Cyrl}}
+* Macedonian: {{t-|mk|моли|tr=móli|sc=Cyrl}}
 * Norwegian: {{t+|no|be}} {{t+|no|om}}
 * Old English: {{t-|ang|āscian}}
 * Old High German: {{tø|goh|bitten}}
-* Persian: {{t+|fa|درخواستن|tr=darxâstan}}
+* Persian: {{t-|fa|درخواستن|tr=darxâstan}}
 * Polish: {{t+|pl|prosić}}, {{t+|pl|poprosić}}
-* Portuguese: {{t+|pt|pedir}}, {{t|pt|solicitar}}, {{t|pt|requerer}}, {{t|pt|requisitar}}
+* Portuguese: {{t+|pt|pedir}}, {{t+|pt|solicitar}}, {{t+|pt|requerer}}, {{t-|pt|requisitar}}
 * Romanian: {{t+|ro|cere}}, {{t+|ro|invita}}, {{t+|ro|ruga}}
 * Russian: {{t+|ru|просить|tr=prosítʹ|sc=Cyrl}} {{impf}}, {{t+|ru|попросить|tr=poprosítʹ|sc=Cyrl}} {{pf.}}
 * Sanskrit: {{t-|sa|पृच्छ्|tr=pṛicch}}
@@ -204,7 +204,7 @@ From {{etyl|enm|en}} {{term|asken|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 * Urdu: {{t-|ur|مانگنا|tr=māṅgnā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|cầu xin}}
 * Welsh: {{t+|cy|gofyn}}, {{t+|cy|holi}}, {{t+|cy|ceisio}}
-* Xhosa: {{t|xh|ukucela}}
+* Xhosa: {{t-|xh|ukucela}}
 * Yiddish: {{t-|yi|בעטן|tr=betn}}
 * Zulu: {{t-|zu|buza}}, {{t-|zu|nxusa}}, {{t-|zu|ncenga}}, {{t-|zu|cela}}
 {{trans-bottom}}
