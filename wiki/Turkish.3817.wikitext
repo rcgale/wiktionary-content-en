@@ -20,15 +20,15 @@
 * Bashkir: {{tø|ba|төрөк теле|tr=török tele|sc=Cyrl}}, {{tø|ba|төрөксә|tr=töröksä|sc=Cyrl}}
 * Basque: {{t+|eu|turkiera}}
 * Belarusian: {{t-|be|турэцкая|f|tr=turéckaja|sc=Cyrl}}
-* Breton: [[turkeg]] {{m}}
+* Breton: {{t|br|turkeg|m}}
 * Bulgarian: {{t-|bg|турски|m|tr=túrski|sc=Cyrl}}
-* Catalan: [[turc]] {{m}}
+* Catalan: {{t|ca|turc|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|土耳其語|sc=Hani}}, {{t|cmn|土耳其语|tr=Tǔěrqíyǔ|sc=Hani}}, {{t|cmn|土耳其文|tr=Tǔěrqíwén|sc=Hani}}
-* Czech: [[turecký]] [[jazyk]] {{m}}, [[turečtina]] {{f}}
+* {{ttbc|cs}}: {{t0|cs|[[turecký]] [[jazyk]]|m}} <!-- was "[[turecký]] [[jazyk]]" - assumed sum-of-parts; if an idiom, remove the embedded wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|cs|turečtina|f}}
 * Danish: {{t+|da|tyrkisk|n}}
 * Dutch: {{t+|nl|Turks|n}}
-* Esperanto: [[turka]] ([[lingvo]])
+* Esperanto: {{qualifier|[[lingvo]]}} {{t|eo|turka}}
 * Faroese: {{t-|fo|turkiskt|n}}
 * Finnish: {{t+|fi|turkki}}
 * French: {{t+|fr|turc|m}}
@@ -41,8 +41,8 @@
 * Hindi: {{t+|hi|तुर्की|tr=turkī|sc=Deva}}
 * Hungarian: {{t+|hu|török}}
 * Icelandic: {{t+|is|tyrkneska|f}}
-* Indonesian: [[bahasa]] [[Turki]]
-* Interlingua: [[turco]]
+* {{ttbc|id}}: {{t0|id|[[bahasa]] [[Turki]]}} <!-- was "[[bahasa]] [[Turki]]" - assumed sum-of-parts; if an idiom, remove the embedded wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Interlingua: {{t|ia|turco}}
 * Irish: {{t-|ga|Tuircis}}
 * Italian: {{t+|it|turco|m}}
 {{trans-mid}}
@@ -88,9 +88,9 @@
 {{trans-top|of, from or pertaining to Turkey, the Turkish people or the Turkish language}}
 * Arabic: {{t-|ar|تُرْكِيّ|tr=túrkiy}}
 * Armenian: {{t-|hy|թուրքական|tr=t'urk'akan}}
-* Breton: [[turk]], ''relating to the language:'' [[turkek]]
+* Breton: {{t|br|turk}}, {{qualifier|relating to the language}} {{t|br|turkek}}
 * Bulgarian: {{t-|bg|турски|m-p}}
-* Catalan: [[turc]] {{m}}
+* Catalan: {{t|ca|turc|m}}
 * Central Melanau: {{tø|mel|Tereki}}
 * Chinese:
 *: Mandarin: {{qualifier|of Turkey}} {{t|cmn|土耳其|tr=Tǔěrqí de|alt=土耳其的|sc=Hani}}, {{qualifier|of the Turkish language}} {{t|cmn|土耳其語|alt=土耳其語的|sc=Hani}}, {{t|cmn|土耳其语|tr=Tǔěrqíyǔ de|alt=土耳其语的|sc=Hani}}
@@ -105,12 +105,12 @@
 * Hebrew: {{t+|he|טורקיה}}, {{t+|he|טורקי|tr=turki|m}}, {{t-|he|תורכיה}}, {{t-|he|תורכי|tr=turki|m}}
 * Hungarian: {{t+|hu|török}}
 * Icelandic: {{t-|is|tyrkneskur}}
-* Indonesian: [[turki]]
-* Interlingua: [[turc]]
+* Indonesian: {{t|id|turki}}
+* Interlingua: {{t|ia|turc}}
 * Irish: {{t-|ga|Turcach}}
 {{trans-mid}}
 * Italian: {{t+|it|turco|m}}
-* Japanese: [[トルコの]] (toruko no)
+* Japanese: {{t|ja|トルコの|tr=toruko no|sc=Jpan}}
 * Kurdish: {{t+|ku|tirkî}}
 * Latvian: {{t-|lv|turku}}, {{t-|lv|turcisks}}
 * Macedonian: {{t-|mk|турски|m|tr=túrski}}
@@ -124,7 +124,7 @@
 * Persian: {{t+|fa|ترک|tr=tork}}, {{t-|fa|ترکیه‏ای|tr=torkiye’i}}
 * Polish: {{t+|pl|turecki|m}}
 * Portuguese: {{t+|pt|turco|m}}
-* Romanian: [[turc]] {{m}}
+* Romanian: {{t|ro|turc|m}}
 * Russian: {{t+|ru|турецкий|tr=turéckij}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|ту̀рскӣ|m|sc=Cyrl}}
@@ -132,7 +132,7 @@
 * Slovene: {{t-|sl|túrški}}
 * Spanish: {{t+|es|turco|m}}
 * Swedish: {{t+|sv|turkisk|c}}, {{t+|sv|turkiskt|n}}
-* Tatar: [[törekçä]]
+* {{ttbc|tt}}: {{t|tt|törekçä|sc=Cyrl}}<!-- not Cyrl. -->
 * Turkish: {{t+|tr|Türk}}
 {{trans-bottom}}
 
