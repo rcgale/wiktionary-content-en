@@ -143,14 +143,14 @@
 * Ainu: {{tø|ain|イタㇰ|tr=itak}}
 * Albanian: {{t+|sq|gjuhë|f}}
 * Alviri-Vidari:
-*: Vidari: {{tø|avd|زووان|tr=zuvān}}
+*: {{ttbc|Vidari}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{tø|avd|زووان|tr=zuvān}}
 * Arabic: {{t+|ar|لُغَةٌ|f|tr=lúġa}}, {{t-|ar|لسان|m|f|tr=lisān|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|لغة|f|tr=loġa|sc=Arab}}
 * Aragonese: {{t-|an|luenga|f}}, {{t-|an|idioma|m}}
 * Aramaic:
-*: Syriac: [[ܠܫܢܐ]] (lišānā’) {{m}}
-*: Hebrew: [[לשנא]] (lišānā’) {{m}}
-* Archi: {{tø|aqc|чӏат}}
+*: Syriac: {{t|arc|ܠܫܢܐ|m|tr=lišānā’|sc=Syrc}}
+*: Hebrew: {{t|arc|לשנא|m|tr=lišānā’|sc=Hebr}}
+* Archi: {{tø|aqc|чӏат|tr=č̣at}}
 * Armenian: {{t+|hy|լեզու}}
 * Aromanian: {{t+|rup|limbã}}
 * Assamese: {{t-|as|ভাষা|tr=bhaxa|sc=Beng}}
@@ -173,7 +173,7 @@
 * Chinese:
 *: Dungan: {{tø|dng|йүян|sc=Cyrl}}
 *: Mandarin: {{t|cmn|語言|sc=Hani}}, {{t+|cmn|语言|tr=yǔyán|sc=Hani}}
-*: Min Nan: [[gí-giân]]
+*: Min Nan: {{t|nan|gí-giân|sc=Hani}}
 * Chuvash: {{tø|cv|чӗлхе|tr=çělxe|sc=Cyrl}}
 * Coptic: {{tø|cop|ⲗⲁⲥ|tr=las|sc=Copt}}
 * Cornish: {{t-|kw|yeth}}
@@ -361,7 +361,7 @@
 
 {{trans-top|the ability to communicate using words}}
 * Afrikaans: {{t-|af|spraak}}
-* Archi: {{tø|aqc|чӏат}}
+* Archi: {{tø|aqc|чӏат|tr=č̣at}}
 * Armenian: {{t+|hy|լեզու}}
 * Belarusian: {{t+|be|мова|f|tr=móva}}
 * Bulgarian: {{t+|bg|език|m|tr=ezík}}
@@ -482,7 +482,7 @@
 * Polish: {{t+|pl|język|m}}
 * Portuguese: {{t+|pt|linguagem|f}}, {{t+|pt|linguagem de programação|f}}
 * Romanian: {{t-|ro|limbaj|n}}
-* Russian: [[язык]] ([[программирование|программирования]]) (jazýk) {{m}}
+* Russian: {{t|ru|язык|[[язык]] [[программирование|программирования]]|m|tr=jazýk programmírovanija|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|cànan|m}}
 * Serbo-Croatian: {{t+|sh|jezik|m}}
 * Slovene: {{t-|sl|jêzik|m}}
@@ -576,23 +576,23 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|amu}}: [[jñò ndá]]
+* {{ttbc|amu}}: {{t|amu|jñò ndá}}
 * {{ttbc|bn}}: {{t+|bn|ভাষা|tr=bhāṣā}}
-* {{ttbc|br}}: [[yezh]] {{f}}, yezhoù {{p}}
-* {{ttbc|ceb}}: [[yinaknan]], [[pinulungan]]
-* {{ttbc|fj}}: [[vosa]]
-* {{ttbc|gn}}: [[ñe'ẽ]]
-* {{ttbc|haw}}: [[alelo]]
+* {{ttbc|br}}: {{t|br|yezh|f}}, {{t|br|yezhoù|p}}
+* {{ttbc|ceb}}: {{t|ceb|yinaknan}}, {{t|ceb|pinulungan}}
+* {{ttbc|fj}}: {{t|fj|vosa}}
+* {{ttbc|gn}}: {{t|gn|ñe'ẽ}}
+* {{ttbc|haw}}: {{t|haw|alelo}}
 * {{ttbc|kn}}: {{t+|kn|ನುಡಿ|tr=nuḍi|sc=Knda}}, {{t+|kn|ಭಾಷೆ|tr=bhāṣe|sc=Knda}}
-* {{ttbc|mt}}: [[lingwaġġ]]
+* {{ttbc|mt}}: {{t|mt|lingwaġġ}}
 {{trans-mid}}
-* {{ttbc|mnc}}: [[gisun]]
-* {{ttbc|mi}}: [[reo]]
-* {{ttbc|gmh}}: [[sprache|sprāche]] ({{f}})
-* {{ttbc|sc}}: [[limba]]
-* {{ttbc|sk}}: [[reč]] {{f}}
-* {{ttbc|tl}}: [[wika]], salita, pagbigkas, pagbasa
-* {{ttbc|tpn}}: [[nhe'enga]]
+* {{ttbc|mnc}}: {{t|mnc|gisun|sc=Mong}}
+* {{ttbc|mi}}: {{t|mi|reo}}
+* {{ttbc|gmh}}: {{qualifier|{{f}}}} {{t|gmh|sprache|alt=sprāche}} <!-- was "[[sprache|sprāche]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|sc}}: {{t|sc|limba}}
+* {{ttbc|sk}}: {{t|sk|reč|f}}
+* {{ttbc|tl}}: {{t|tl|wika}}, {{t|tl|salita}}, {{t|tl|pagbigkas}}, {{t|tl|pagbasa}}
+* {{ttbc|tpn}}: {{t|tpn|nhe'enga}}
 {{trans-bottom}}
 
 ===See also===
