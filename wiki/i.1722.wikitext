@@ -1,11 +1,11 @@
+{{Basic Latin character info|image=[[Image:Letter i.svg|50px]]|name=LATIN SMALL LETTER I|hex=69}}
 {{also|I|Appendix:Variations of "i"}}
 ==Translingual==
-{{Basic Latin character info|previous=h|next=j|image=[[Image:Letter i.svg|50px]]|name=LATIN SMALL LETTER I|hex=69}}
 {{wikipedia}}
 
 ===Etymology 1===
 [[Image:Uncial i.png|20px|The approximate form of I from which Latin lower case ''i'' derived]]
-Lower case variation of upper case {{term|I}}, from {{etyl|grc|mul}} letter {{term|Ι||Iota|tr=I|lang=grc}}.
+Lower case variation of upper case {{term|I}}, from {{etyl|grc|mul}} letter {{term|sc=polytonic|Ι|tr=I||Iota}}.
 
 ====Letter====
 {{mul-letter|upper=I|lower=i|script=Latn}}
@@ -14,7 +14,7 @@ Lower case variation of upper case {{term|I}}, from {{etyl|grc|mul}} letter {{te
 
 {{mul-letter|upper=İ|lower=i|script=Latn}}
 
-# The letter i with a [[tittle]] or [[dot]] above, in both the upper case and the lower case versions.
+# The letter [[i]] with a [[dot]] above, in both the upper case and the lower case versions.
 
 ====See also====
 {{Latn-script}}
@@ -26,7 +26,7 @@ Lower case variation of upper case {{term|I}}, from {{etyl|grc|mul}} letter {{te
 '''Similar and related symbols'''
 * [[Ι]] and [[ι]] — Greek
 * [[І]] and [[і]] — Cyrillic I, used in [[Belarusian]] and [[Ukrainian]]
-* [[Ӏ]] and [[ӏ]] — Cyrillic [[palochka]], used in the [[Caucasian]] languages
+* [[Ӏ]] — Cyrillic [[palochka]], used in the [[Caucasian]] languages
 * [[ا]] — Arabic (alif)
 * [[1]] — Arabic numeral
 * [[Ꭵ]] — [[Cherokee]] (IPA: ə̃) ([[SAMPA]]: @~)
@@ -41,13 +41,12 @@ Lower case variation of upper case {{term|I}}, from {{etyl|grc|mul}} letter {{te
 * {{audio|Close front unrounded vowel.ogg|IPA}}
 
 ====Symbol====
-{{wikipedia|Close front unrounded vowel}}
-{{head|mul|symbol}}
+{{infl|mul|symbol}}
 
-# {{context|mathematics|often in italics or bold|lang=mul}} The [[imaginary unit]] that is the positive [[square root]] of -1. Graphically, ''i'' is shown on the vertical (y-axis) plane.
-# {{context|engineering|often in bold|lang=mul}} The [[current]] flow in a [[circuit]] in [[ampere]]s.
-# {{context|programming|lang=mul}} A common variable name representing a generic index, especially in loops.
-# {{context|[[w:IPA|IPA]]|romanization|lang=mul}} [[close]] [[front]] [[unrounded]] [[vowel]].
+# {{mathematics|often in italics or bold}} The unit [[imaginary number]] that is the [[square root]] of -1. Graphically, ''i'' is shown on the vertical (y-axis) plane.
+# {{engineering|often in bold}} The [[current]] flow in a [[circuit]] in [[ampere]]s.
+# {{programming}} A common variable name representing a generic index, especially in loops.
+# {{context|[[w:IPA|IPA]]|romanization}} [[close]] [[front]] [[unrounded]] [[vowel]].
 
 =====Synonyms=====
 * {{sense|mathematics, imaginary number that is the positive square root of -1}} [[j]]
@@ -60,7 +59,7 @@ Lower case form of upper case roman numeral [[I]], apparently derived from the s
 * [[I]], [[Ⅰ]], [[ⅰ]]
 
 ====Cardinal number====
-{{head|mul|numeral|lower case Roman numeral||upper case|I}}
+{{infl|mul|numeral|lower case Roman numeral||upper case|I}}
 
 # [[cardinal number|cardinal]] number [[one]].
 
@@ -88,14 +87,14 @@ Image:Fraktur letter I.png|Uppercase and lowercase '''I''' in [[Fraktur]]
 ==English==
 
 ===Etymology 1===
-From {{etyl|la|en}} {{term|i|lang=la}}, [[minuscule]] of {{term|I|lang=la}}
+From {{etyl|la}} {{term|i|lang=la}}, [[minuscule]] of {{term|I|lang=la}}
 
 ====Pronunciation====
-* {{sense|phoneme}} {{IPA|/aɪ/|/ɪ/}}, {{X-SAMPA|/aI/|/I/}}
-* {{sense|letter name}} {{enPR|ī}}, {{IPA|/aɪ/}}, {{X-SAMPA|/aI/}},
-* {{audio|en-us-i.ogg|Audio (US)}}
-* {{rhymes|aɪ}}
-* {{homophones|lang=en|aye|eye}}
+* {{sense|phoneme}} {{IPA|/aɪ/|/ɪ/}}, {{SAMPA|/aI/|/I/}}
+* {{sense|letter name}} {{enPR|ī}}, {{IPA|/aɪ/}}, {{SAMPA|/aI/}},
+*: {{audio|en-us-i.ogg|Audio (US)}}
+*: {{rhymes|aɪ}}
+* {{homophones|aye|eye}}
 
 ====Letter====
 {{en-letter|upper=I|lower=i}}
@@ -103,7 +102,7 @@ From {{etyl|la|en}} {{term|i|lang=la}}, [[minuscule]] of {{term|I|lang=la}}
 # {{Latn-def|en|letter|9|i}}
 
 =====See also=====
-* {{list:Latin script letters/en}}
+* {{list|en|Latin script letters}}
 
 =====Usage notes=====
 The English letter {{term|i}} represents many different sounds, often the diphthong {{IPAchar|/aɪ/}} (from Middle English {{IPAchar|/iː/}}), as in the pronoun {{term|I}}, or {{IPAchar|/ɪ/}} as in {{term|bit|b'''i'''t}}.
@@ -122,130 +121,47 @@ The English letter {{term|i}} represents many different sounds, often the diphth
 
 =====Translations=====
 {{trans-top|name of the letter I, i}}
-* Arabic: {{t+|ar|أي|m|tr='ay}} {{qualifier|English}}, {{t-|ar|إي|m|tr='ii}}
-* Catalan: {{t+|ca|i|f}}
+* Arabic: {{t|ar|أي|m|tr='ay}} {{qualifier|English}},  {{t|ar|إي|m|tr='ii}}
+* [[Catalan]]: {{t+|ca|i|f}}
 * Chinese:
 *: Mandarin: {{qualifier|English letter names are called as in English, no other standard Mandarin name exists}}
-* Esperanto: {{t+|eo|i}}
-* Finnish: {{t+|fi|ii}}
+* Esperanto: {{t+|eo|i|xs=Esperanto}}
 * German: {{t+|de|I|n}}
-* Hawaiian: {{tø|haw|ʻī}}
-* Hindi: {{t-|hi|आई|tr=ā'ī}}
 {{trans-mid}}
+* Hindi: {{t|hi|आई|tr=ā'ī|xs=Hindi}}
 * Japanese: {{t+|ja|アイ|tr=ai}}
 * Korean: {{t+|ko|아이|tr=ai|sc=Hang}}
-* Latin: {{t+|la|ī}}
-* Malay: {{t-|ms|ai}}
-* Marathi: {{t-|mr|आय|tr=āya|sc=Deva}}
-* Persian: {{t+|fa|آی|tr=ây|sc=fa-Arab}}
 * Portuguese: {{t+|pt|i|m}}
-* Russian: {{t+|ru|ай|n|tr=aj}} {{qualifier|English}}, {{t+|ru|и|n|tr=i}}
+* Russian: {{t+|ru|ай|n|tr=aj}} {{qualifier|English}},  {{t+|ru|и|n|tr=i}}
 * Turkish: {{t+|tr|i}}
-* Vietnamese: {{t+|vi|i}}, {{t-|vi|i ngắn}}
 {{trans-bottom}}
 
 =====See also=====
-* {{list:Latin script letter names/en}}
+* {{list|en|Latin script letter names}}
 
 ===Etymology 2===
-From {{etyl|ang|en}} {{term|ic|lang=ang}}.
+From {{etyl|ang|en}} {{term|ic}}.
 
 ====Pronunciation====
-* {{IPA|/aɪ/|/ɪ/}}, {{X-SAMPA|/aI/|/I/}}
-* {{rhymes|aɪ}}
-* {{homophones|lang=en|aye|eye}}
+* {{IPA|/aɪ/|/ɪ/}}, {{SAMPA|/aI/|/I/}}
+*: {{rhymes|aɪ}}
+* {{homophones|aye|eye}}
 
 ====Pronoun====
 {{en-pron}}
 
-# {{form of|obsolete capitalization|I|lang=en}}
+# {{form of|obsolete capitalization|[[I]]}}
 
 =====Usage notes=====
 * Also used in instant messaging due to limitations of entering capitals on a mobile phone's keypad.
 
-----
-
-==Adangme==
-
-===Pronoun===
-{{head|ada|pronoun}}
-
-# [[I]]
-#: '''''I''' suɔ mo.''
-#:: I love you.
-
-----
-
-==Albanian==
-
-===Pronunciation===
-* {{IPA|[i]|lang=sq}}
-
-===Letter===
-{{head|sq|letter|lower case||upper case|I}}
-
-# {{Latn-def|sq|letter|13}}
-
-===Article===
-{{head|sq|article}}
-
-# masculine singular nominative adjectival article
-
-===See also===
-{{sq-adj-art}}
-
-----
-
-==Ama==
-
-===Pronunciation===
-* {{IPA|/ĩː/|lang=amm}}
-
-===Noun===
-{{head|amm|noun}}
-
-# [[tooth]]
-
-----
-
-==Azeri==
-
-===Letter===
-{{az-letter|upper=İ|lower=i}}
-
-# {{Latn-def|az|letter|14}}
-
-====See also====
-* {{list:Latin script letters/az}}
-
-----
-
-==Bislama==
-
-===Particle===
-{{head|bi|particle}}
-
-# {{non-gloss definition|Separates the [[subject]] of a sentence from the [[predicate]], used when the subject is a [[pronoun]] or a [[noun]]}}
-
-----
-
-==Borôro==
-
-===Pronunciation===
-* {{IPA|/iː/|lang=bor}}
-
-===Noun===
-{{head|bor|noun}}
-
-# [[tree]]
 
 ----
 
 ==Catalan==
 
 ===Pronunciation===
-* {{IPA|/i/|lang=ca}}, {{X-SAMPA|/i/}}
-* {{rhymes|i|lang=ca}}
+* {{IPA|/i/|lang=ca}}, {{SAMPA|/i/}}
 
 ===Etymology 1===
 
@@ -261,7 +177,7 @@ From {{etyl|ang|en}} {{term|ic|lang=ang}}.
 From {{etyl|la|ca}} {{term|et|lang=la||and}}.
 
 ====Conjunction====
-{{head|ca|conjunction}}
+{{infl|ca|conjunction}}
 
 # [[and]]; used to connect [[two]] similar words, phrases, sentences, etc.; as well as; together with; in addition to.
 #: ''Hi ha moltes colomes i teuladins'' — There are many pigeons and sparrows.
@@ -277,7 +193,7 @@ From {{etyl|la|ca}} {{term|et|lang=la||and}}.
 ==Cornish==
 
 ===Pronoun===
-{{head|kw|pronoun}}
+{{infl|kw|pronoun}}
 
 # [[they]]<!-- third person, plural: [[they]]-->
 
@@ -286,79 +202,42 @@ From {{etyl|la|ca}} {{term|et|lang=la||and}}.
 ==Czech==
 
 ===Pronunciation===
-* {{IPA|/ɪ/|lang=cs}}
 * {{audio|Cs-i.ogg|Audio}}
 
 ===Conjunction===
-{{head|cs|conjunction}}
+{{infl|cs|conjunction}}
 
 # [[and]] (also), and [[even]]
 # [[even]] {{gloss|implying an extreme example, used at the beginning of sentences}}
-#: '''''I''' slepá veverka někdy najde ořech.'' - '''''Even''' a blind squirrel finds an acorn sometimes.''
-
-====Synonyms====
-* {{qualifier|Moravian dialect}} [[aj#Czech|aj]], [[aji#Czech|aji]]
+#* '''''I''' slepá veverka někdy najde ořech.'' -- '''''Even''' a blind squirrel finds an acorn sometimes.''
 
 ====Derived terms====
 * [[i když]]
 
 ----
 
-==Dalmatian==
-
-===Etymology===
-From {{etyl|la|dlm}} {{term/t|la|illī}}, nominative masculine plural of {{term|ille|lang=la}}. Compare Italian {{term|i|lang=it}}, {{term|gli|lang=it}}.
-
-===Article===
-{{head|dlm|article|g=m}} (''plural'')
-
-# [[the]]; {{non-gloss definition|masculine plural definite article}}
-
-====Related terms====
-* {{l|dlm|el}}
-* {{l|dlm|la}}
-* {{l|dlm|le}}
-
-----
-
 ==Danish==
 
-===Etymology===
-From {{etyl|non|da}} {{term|í|lang=non}}, from {{etyl|gem-pro|da}} {{term/t|gem-pro|*in}}, from {{etyl|ine-pro|da}} {{term/t|ine-pro|*en}}.
-
 ===Preposition===
-{{head|da|preposition}}
+{{infl|da|preposition}}
 
-# [[in]], [[inside]]
+# [[in]], [[inside]].
 
 ----
 
 ==Dutch==
 
 ===Pronunciation===
-* {{rhymes|i|lang=nl}}
 * {{sense|letter name}} {{IPA|/i/|lang=nl}}
 
 ===Letter===
-{{head|nl|letter|lower case||upper case|I}}
+{{infl|nl|letter|lower case||upper case|I}}
 
-# {{Latn-def|nl|letter|9}}
+# The ninth letter of the [[Dutch alphabet]].
 
 ===See also===
-* Previous letter: {{l/nl|h}}
-* Next letter: {{l/nl|j}}
-
-----
-
-==Elfdalian==
-
-===Etymology===
-From {{etyl|non|dlc}} {{term|í|lang=non}}, from {{etyl|gem-pro|dlc}} {{term/t|gem-pro|*in}}.
-
-===Preposition===
-{{head|dlc|preposition}}
-
-# [[in]]
+* Previous letter: [[h#Dutch|h]]
+* Next letter: [[j#Dutch|j]]
 
 ----
 
@@ -375,7 +254,7 @@ From {{etyl|non|dlc}} {{term|í|lang=non}}, from {{etyl|gem-pro|dlc}} {{term/t|g
 # {{Latn-def|eo|letter|12|i}}
 
 ====See also====
-* {{list:Latin script letters/eo}}
+* {{list|eo|Latin script letters}}
 
 ===Noun===
 {{eo-noun|pl=i-oj|asg=i-on|apl=i-ojn}}
@@ -383,94 +262,20 @@ From {{etyl|non|dlc}} {{term|í|lang=non}}, from {{etyl|gem-pro|dlc}} {{term/t|g
 # {{Latn-def|eo|name|I|i}}
 
 ====See also====
-* {{list:Latin script letter names/eo}}
-
-----
-
-==Extremaduran==
-
-===Conjunction===
-{{head|ext|conjunction}}
-
-# [[and]]
-
-----
-
-==Fala==
-
-===Alternative forms===
-* {{l|fax|e}}, {{l|fax|y}}
-
-===Etymology===
-From {{etyl|roa-ptg|fax}} {{term|e|lang=roa-ptg}}, from {{etyl|la|fax}} {{term|et||and|lang=la}}, from {{etyl|ine-pro|fax}} {{term/t|ine-pro|*éti}}.
-
-===Conjunction===
-{{head|fax|conjunction}}
-
-# [[and]] {{gloss|expressing two elements to be taken together}}
-#* {{quote-book|year=2000|author=Domingo Frades Gaspar|title=Vamus a falal: Notas pâ coñocel y platical en nosa fala|publisher=Editora regional da Extremadura|section=Chapter 1: Lengua Española|passage=A grandeda da lengua española é indiscotibli, '''i''' sei estudio, utilización defensa debin sel algo consostancial a nos, {{...}}|translation=The greatness of the Spanish language is unquestionable, '''and''' its study, use and defense must be something consubstantial to us, {{...}}}}
-
-----
-
-==Friulian==
-{{Friulian definite articles}}
-
-===Etymology===
-From {{etyl|la|fur}} {{term|illi|lang=la}}.
-
-====Article====
-{{head|fur|article|g=m-p|singular|il}}
-
-# [[the]] 
-
-====Pronoun====
-{{head|fur|pronoun|third person masculine/ feminine indirect object}}
-
-# to [[him]]
-# to [[her]]
-
-====See also====
-* {{l|fur|la}}, {{l|fur|lis}}
-* {{l|fur|lui}}, {{l|fur|jê}}, {{l|fur|lu}}, {{l|fur|le}}
-
-----
-
-==Hawaiian==
-
-===Etymology===
-From {{etyl|poz-pol-pro|haw}} {{term/t|poz-pol-pro|*i}}.
-
-===Particle===
-{{head|haw|particle}}
-
-# {{non-gloss definition|used to mark the following (noun or noun phrase) as a direct object}}
-#: Ua ʻai ka pōpoki '''i''' ka ʻiole.
-#:: The cat eats/ate the mouse.
-
-===Preposition===
-{{head|haw|preposition}}
-
-# [[in]], [[at]]
-# {{context|indicating destination|lang=haw}} [[to]]
-
-===See also===
-* {{l|haw|iā}}
+* {{list|eo|Latin script letter names}}
 
 ----
 
 ==Irish==
 
-===Alternative forms===
-* {{l/ga|in}} {{qualifier|used before vowels in place of {{ga-mut-link|e}}; also used before ''{{l|ga|bhur}}'' (‘your {{p}}’), before ''{{l|ga|dhá}}'' (‘two’), before titles of books, films, and the like, and before foreign words that resist mutation}}
-
 ===Etymology===
-From {{etyl|sga|ga}} {{term|i|lang=sga}}, from {{etyl|cel-pro|ga}} {{term/t|cel-pro|*eni}} (compare Welsh {{term|yn|lang=cy}}), from {{etyl|ine-pro|ga}} {{term/t|ine-pro|*en}} (compare English {{term|in|lang=en}}, Latin {{term|in|lang=la}}, Greek {{term|ἐν|tr=en|lang=grc|sc=polytonic}}).
+From {{etyl|sga|ga}} {{term|i|lang=sga}} < {{proto|Celtic|eni|lang=ga}} (compare Welsh {{term|yn|lang=cy}}) < {{proto|Indo-European|en|lang=ga}} (compare English {{term|in}}, Latin {{term|in|lang=la}}, Greek {{term|ἐν|lang=grc|sc=polytonic}}).
 
 ===Pronunciation===
 * {{IPA|lang=ga|/ɪ/}}
 
 ===Preposition===
-{{ga-prep}} {{qualifier|triggers {{ga-mut-link|e}} of a following consonant}}
+{{ga-prep}}
 
 # [[in]]
 
@@ -486,32 +291,51 @@ From {{etyl|sga|ga}} {{term|i|lang=sga}}, from {{etyl|cel-pro|ga}} {{term/t|cel-
 |3pl = iontu
 }}
 
-====Derived terms====
+====Usage notes====
+Triggers [[eclipsis]] of a following consonant.
+
+====Alternative forms====
+* {{l|ga|in}} {{qualifier|used before vowels in place of eclipsis; also used before ''{{l|ga|bhur}}'' ("[[your]] ([[plural|pl.]])") and before foreign words that resist mutation}}
+
 Combined with [[definite article]]:
-* {{l/ga|sa}} {{qualifier|before consonants in the singular; triggers {{ga-mut-link|l}}}}
-* {{l/ga|san}} {{qualifier|before vowels in the singular; triggers {{ga-mut-link|l}}}}
-* {{l/ga|sna}} {{qualifier|in the plural; triggers {{ga-mut-link|h}}}}
+* {{l|ga|sa}} (before consonants), {{l|ga|san}} (before vowels): [[in]] [[the]] ([[singular|sg.]]) (triggers [[lenition]])
+* {{l|ga|sna}}: [[in]] [[the]] ([[plural|pl.]]) (adds '''h''' to vowels)
 
 Combined with third person possessive:
-* {{l|ga|ina|gloss=in his/her/their}} {{qualifier|triggers {{ga-mut-link|l}}, {{ga-mut-link|h}}, or {{ga-mut-link|e}} respectively}}
+* {{l|ga|ina}}: [[in]] [[his]]/[[its]] (triggers [[lenition]]); [[in]] [[her]]/[[its]]; [[in]] [[their]] (triggers [[eclipsis]])
 
-Combined with first person plural possessive:
-* {{l|ga|inár|gloss=in our}}
+----
+==[[Iroquoian]]==
+[[personal pronoun|Personal pronoun]]: First person. Does not inflect; number (singular, dual, or plural) is deduced from context.
 
-Combined with the copula:
-* {{l/ga|inar}}, {{l/ga|inarb}} {{qualifier|present/future}}
-* {{l/ga|inar}}, {{l/ga|inarbh}} {{qualifier|past/conditional}}
+===Pronunciation===
+Some combination of i ([[IPA]] [i]) and a [[glottal stop]] [ʔ], depending on the language.
+
+===Forms===
+'''[[Mohawk]]'''<br />
+:i:'i (IPA [iːʔi]).<br />
+'''Cayuga'''<br />
+:i:ˀ (IPA [iːʔ]).<br />
+'''[[Seneca]]'''<br />
+:i:' (IPA [iːʔ]).<br />
+'''Onondaga'''<br />
+:iˀ (IPA [iʔ]).<br />
+'''Oneida'''<br />
+:i:'i: (IPA [iːʔiː]).<br />
+
+====Usage notes====
+In many of the languages, this pronoun contracts with the [[particle]] ''neˀ''. For example: '''Cayuga''' ''ni:ˀ''.
 
 ----
 
 ==Italian==
 
 ===Etymology 1===
-Reduced form of {{term|gli|lang=it}}.<ref>{{reference-book| last = Patota| first = Giuseppe| title = Lineamenti di grammatica storica dell'italiano| year = 2002| publisher = il Mulino| location = Bologna| language = Italian| id = ISBN 88-15-08638-2| pages = p. 126| chapter =}}</ref>
+Reduced form of {{term|gli|lang=it}}.<ref>{{reference-book | last = Patota | first = Giuseppe | title = Lineamenti di grammatica storica dell'italiano | year = 2002 | publisher = il Mulino | location = Bologna | language = Italian | id = ISBN 88-15-08638-2 | pages = p. 126 | chapter = }}</ref>
 
 ====Article====
 {{Italian definite articles}}
-{{head|it|article|g=m-p|singular|il}}
+{{infl|it|article|g=m|g2=p|singular|il}}
 
 # [[the]] (''see the usage notes'')
 
@@ -524,7 +348,7 @@ Reduced form of {{term|gli|lang=it}}.<ref>{{reference-book| last = Patota| first
 ===Etymology 2===
 
 ====Noun====
-{{head|it|letter|g=f|g2=m|invariable}}
+'''i''' {{f}} ''or'' {{m}} {{inv}}
 
 # ''[[I]]'' or ''[[#English|i]]'', the letter ''I'' or ''i''
 
@@ -540,166 +364,56 @@ Reduced form of {{term|gli|lang=it}}.<ref>{{reference-book| last = Patota| first
 
 ==Japanese==
 
-===Romanization===
-{{ja-romaji|い|イ}}
-----
-==Ladin==
+===Syllable===
+{{ja-syllable|sc=Latn}}
 
-===Article===
-{{head|lld|article|g=m|plural}}
+# {{Latn-def|ja|syllable|い|イ|i}}
 
-# [[the]]
+===Noun===
+{{ja-noun|r|hira=い}}
 
-===See also===
-* {{l|lld|l}}
-* {{l|lld|la}}, {{l|lld|l'}}
-* {{l|lld|les}}
+# {{ja-def|胃}} [[stomach]]
+# {{ja-def|位}} [[position]]
+# {{ja-def|井}} [[well]]
+# {{ja-def|藺}} [[rush]] (plant)
+# [[い]]: [[hiragana]] letter ''i''
+# [[イ]]: [[katakana]] letter ''i''
+
 ----
 
 ==Ladino==
 
 ===Etymology===
-From {{etyl|osp|lad}} {{term|e|lang=osp}}, from {{etyl|la|lad}} {{term|et|lang=la}}.
+From {{etyl|osp|lad}} {{term|e|lang=osp}} < {{etyl|la|lad}} {{term|et|lang=la}}.
 
 ===Conjunction===
-{{lad-conj|l|heb=אי}}
+{{infl|lad|conjunction|[[:Appendix:Roman script|Latin spelling]], [[:Appendix:Hebrew alphabet|Hebrew spelling]]|אי}}
 
 # [[and]]
 # [[too]]
 
 ----
 
-==Latgalian==
-
-===Etymology===
-Shortened from an older Baltic form ''*ir'', which is preserved in {{etyl|lt|-}} as {{term|ir|lang=lt}} (with the same meaning).
-
-===Conjunction===
-{{head|ltg|conjunction}}
-
-# [[and]], [[as well as]], [[in addition to]]
-
-===Particle===
-{{head|ltg|particle}}
-
-# [[too]], [[also]]
-
-----
-
 ==Latin==
 
-===Pronunciation===
-* {{a|Classical}} {{IPA|/iː/|lang=la}}, {{X-SAMPA|/i:/|lang=la}}
-
-===Etymology 1===
-{{rfe|lang=la}}
-
-====Noun====
-{{head|la|noun|head=ī|indeclinable}}
-
-# {{non-gloss definition|The name of the letter ''{{l|la|I}}''.}}
-
-=====Coordinate terms=====
-* {{Latin letter names of the Roman alphabet}}
-
-====References====
-* Arthur E. Gordon, ''The Letter Names of the Latin Alphabet'' ([[w:University of California Press|University of California Press]], 1973; volume 9 of ''University of California Publications: Classical Studies''), part III: “Summary of the Ancient Evidence”, page 32: "Clearly there is no question or doubt about the names of the vowels A, E, I, O, U. They are simply long A, long E, etc. (ā, ē, ī, ō, ū). Nor is there any uncertainty with respect to the six mutes B, C, D, G, P, T. Their names are bē, cē, dē, gē, pē, tē (each with a long E). Or about H, K, and Q: they are hā, kā, kū—each, again, with a long vowel sound."
-
-===Etymology 2===
-{{rfe|lang=la}}
-
-====Verb====
+===Verb===
 {{la-verb-form|ī}}
 
-# [[go]]! [[walk]]!; {{conjugation of|eō||2|s|act|imp|lang=la}}
+# [[go]]! [[walk]]!; {{conjugation of|[[eo#Latin|eō]]||2|s|act|imp}}
 #* '''''I''' [[intro#Latin|intro]] [[iam#Latin|iam]] [[nunc#Latin|nunc]].''
 #*: Now then, '''go''' in.
 
 [[Category:Latin letters|i]]
-[[Category:la:Letter names of the Roman alphabet]]
-
-----
-
-==Latvian==
-{{wikipedia|lang=lv}}
-
-===Etymology===
-Proposed in 1908 as part of the new Latvian spelling by the scientific commission headed by [[w:Kārlis Mīlenbahs|K. Mīlenbahs]], which was accepted and began to be taught in schools in 1909. Prior to that, Latvian had been written in German [[Fraktur]], and sporadically in [[Cyrillic]].
-
-===Pronunciation===
-* {{lv-IPA|i}}
-{{rfap|lang=lv}}
-
-===Letter===
-[[File:Latin alphabet Ii.svg|thumb|150px|I]]
-{{lv-letter|upper=I|lower=i}}
-
-# {{Latn-def|lv|letter|13|i}}
-
-====See also====
-* ''Letters of the Latvian alphabet:''
-*: '''{{l|lv|burts|burti}}:''' {{l|lv|A}}{{l|lv|a}}, {{l|lv|Ā}}{{l|lv|ā}}, {{l|lv|B}}{{l|lv|b}}, {{l|lv|C}}{{l|lv|c}}, {{l|lv|Č}}{{l|lv|č}}, {{l|lv|D}}{{l|lv|d}}, {{l|lv|E}}{{l|lv|e}}, {{l|lv|Ē}}{{l|lv|ē}}, {{l|lv|F}}{{l|lv|f}}, {{l|lv|G}}{{l|lv|g}}, {{l|lv|Ģ}}{{l|lv|ģ}}, {{l|lv|H}}{{l|lv|h}}, {{l|lv|I}}{{l|lv|i}}, {{l|lv|Ī}}{{l|lv|ī}}, {{l|lv|J}}{{l|lv|j}}, {{l|lv|K}}{{l|lv|k}}, {{l|lv|Ķ}}{{l|lv|ķ}}, {{l|lv|L}}{{l|lv|l}}, {{l|lv|Ļ}}{{l|lv|ļ}}, {{l|lv|M}}{{l|lv|m}}, {{l|lv|N}}{{l|lv|n}}, {{l|lv|Ņ}}{{l|lv|ņ}}, {{l|lv|O}}{{l|lv|o}}, {{l|lv|P}}{{l|lv|p}}, {{l|lv|R}}{{l|lv|r}}, {{l|lv|S}}{{l|lv|s}}, {{l|lv|Š}}{{l|lv|š}}, {{l|lv|T}}{{l|lv|t}}, {{l|lv|U}}{{l|lv|u}}, {{l|lv|Ū}}{{l|lv|ū}}, {{l|lv|V}}{{l|lv|v}}, {{l|lv|Z}}{{l|lv|z}}, {{l|lv|Ž}}{{l|lv|ž}}
-
-===Pronunciation===
-* {{lv-IPA|i}}
-
-===Noun===
-{{lv-noun|m|-}}
-
-# {{non-gloss definition|The name of the [[Appendix:Latin script|Latin script]] letter {{l|lv|I}}/{{l|lv|i}}.}}
-
-====See also====
-* ''Latvian letter names:''
-*: {{l|lv|a}} ({{l|lv|A}}), {{l|lv|garais ā}} ({{l|lv|Ā}}), {{l|lv|bē}} ({{l|lv|B}}), {{l|lv|cē}} ({{l|lv|C}}), {{l|lv|čē}} ({{l|lv|Č}}), {{l|lv|dē}} ({{l|lv|D}}), {{l|lv|e}} ({{l|lv|E}}), {{l|lv|garais ē}} ({{l|lv|Ē}}}, {{l|lv|ef}} ({{l|lv|F}}), {{l|lv|gā}} ({{l|lv|G}}), {{l|lv|ģē}} ({{l|lv|Ģ}}), {{l|lv|hā}} ({{l|lv|H}}), {{l|lv|i}} ({{l|lv|I}}), {{l|lv|garais ī}} ({{l|lv|Ī}}), {{l|lv|jē}} ({{l|lv|J}}), {{l|lv|kā}} ({{l|lv|K}}), {{l|lv|ķē}} ({{l|lv|Ķ}}), {{l|lv|el}} ({{l|lv|L}}), {{l|lv|eļ}} ({{l|lv|Ļ}}), {{l|lv|em}} ({{l|lv|M}}), {{l|lv|en}} ({{l|lv|N}}), {{l|lv|eņ}} ({{l|lv|Ņ}}), {{l|lv|o}} ({{l|lv|O}}), {{l|lv|pē}} ({{l|lv|P}}), {{l|lv|er}} ({{l|lv|R}}), {{l|lv|es}} ({{l|lv|S}}), {{l|lv|eš}} ({{l|lv|Š}}), {{l|lv|tē}} ({{l|lv|T}}), {{l|lv|u}} ({{l|lv|U}}), {{l|lv|garais ū}} ({{l|lv|Ū}}), {{l|lv|vē}} ({{l|lv|V}}), {{l|lv|zē}} ({{l|lv|Z}}), {{l|lv|žē}} ({{l|lv|Ž}})
 
 ----
 
 ==Lojban==
 
-===Cmavo===
-{{jbo-cmavo}}
-
-# {{alternative form of|.i}}: {{non-gloss definition|separates sentences}}
-# {{non-gloss definition|Separates clauses in a sentence, when combined with a conjunction of selma'o [[ja]], [[joi]], or [[bi'i]] or a preposition or tense marker followed by [[bo]].}}
-
-----
-
-==Malay==
-
-===Letter===
-{{head|ms|letter|upper=I|lower=i}}
-
-# {{Latn-def|ms|letter|9}}
-
-====See also====
-* {{list:Latin script letters/ms}}
-
-----
-
-==Maori==
-
-===Etymology===
-From {{etyl|poz-pol-pro|mi}} {{term/t|poz-pol-pro|*i}}.
-
 ===Particle===
-{{mi-part}}
+{{infl|jbo|particle}}
 
-# [[from]]
-# ''(past-tense verbal particle)''
-# ''(particle indicating the direct object of a transitive sentence)''
-# ''(past-tense particle indicating location)''
-
-----
-
-==Mirandese==
-
-===Etymology===
-From {{etyl|la|mwl}} {{term|et|lang=la}}.
-
-===Conjunction===
-{{head|mwl|conjunction}}
-
-# [[and]]
+# Separates sentences.
+# Separates clauses in a sentence, when combined with a conjunction of selma'o [[ja]], [[joi]], or [[bi'i]] or a preposition or tense marker followed by [[bo]].
 
 ----
 
@@ -726,54 +440,10 @@ From {{etyl|la|mwl}} {{term|et|lang=la}}.
 
 ----
 
-==Neapolitan==
-
-===Etymology 1===
-From {{etyl|la|nap}} {{term/t|la|eō}}.
-
-====Pronunciation====
-* {{IPA|[ji]|lang=nap}}
-
-====Alternative forms====
-[[ji]]
-
-====Verb====
-{{head|nap|verb}}
-
-# to [[go]]
-
-===Etymology 2===
-From {{etyl|la|nap}} {{term|ego|lang=la}}.
-
-====Pronunciation====
-* {{IPA|[iː]|lang=nap}}
-
-====Alternative forms====
-[[ije]]
-
-====Pronoun====
-{{head|nap|pronoun}}
-
-# [[I]]: {{non-gloss definition|the first-person singular nominative personal pronoun}}.
-
-----
-
 ==Norwegian Bokmål==
 
-===Pronunciation===
-* {{sense|letter name}} {{IPA|/iː/|lang=nb}}
-* {{sense|phoneme}} {{IPA|/iː/|/i/|/ɪ/|lang=nb}}
-
-===Letter===
-{{head|nb|letter}}
-
-# {{Latn-def|nb|letter|9}}
-
-===Etymology===
-From {{etyl|non|nb}} {{term|í|lang=non}}, from {{etyl|gem-pro|nb}} {{term/t|gem-pro|*in}}, from {{etyl|ine-pro|nb}} {{term/t|ine-pro|*en}}.
-
 ===Preposition===
-{{head|nb|preposition}}
+{{infl|nb|preposition}}
 
 # (''location'') [[in]], inside of
 #: ''Ligge '''i''' sengen''
@@ -788,7 +458,7 @@ From {{etyl|non|nb}} {{term|í|lang=non}}, from {{etyl|gem-pro|nb}} {{term/t|gem
 #: '''''I''' høst, '''i''' vår, '''i''' dag, '''i''' går''
 #:: In autumn, in spring, today, yesterday
 # (''condition, state'') [[in]]
-#: ''Være '''i''' fred''
+#: ''Være '''i''' fred'' 
 #:: To be in peace
 #: ''Være '''i''' god stand''
 #:: To be in shape (physically fit)
@@ -809,11 +479,8 @@ From {{etyl|non|nb}} {{term|í|lang=non}}, from {{etyl|gem-pro|nb}} {{term/t|gem
 
 ==Norwegian Nynorsk==
 
-===Etymology===
-From {{etyl|non|nn}} {{term|í|lang=non}}, from {{etyl|gem-pro|nn}} {{term/t|gem-pro|*in}}, from {{etyl|ine-pro|nn}} {{term/t|ine-pro|*en}}.
-
 ===Preposition===
-{{head|nn|preposition}}
+{{infl|nn|preposition}}
 
 # (''Location'') [[in]], inside of
 # (''Duration of time'') [[for]], [[in]], [[during]]
@@ -826,82 +493,12 @@ From {{etyl|non|nn}} {{term|í|lang=non}}, from {{etyl|gem-pro|nn}} {{term/t|gem
 ==Old French==
 
 ===Adverb===
-{{head|fro|adverb}}
+{{infl|fro|adverb}}
 
 # [[there]]
-#* {{quote-book|year=circa 1155|title=[http://books.google.com/books?id=e6oZAAAAYAAJ&printsec=frontcover&dq=roman+de+brut&hl=en&ei=1Rz5Td-8L8rNswbF7K3IDw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC8Q6AEwAA#v=onepage&q&f=false Le Roman de Brut]|author=[[w:Wace|Wace]]|passage=Et grant compagnie '''i''' a d'omes|translation=And there is a large company of men}}
 
 ====Descendants====
 * French: {{l|fr|y}}
-
-----
-
-==Old Irish==
-
-===Alternative forms===
-* {{l|sga|hi}}
-
-===Etymology===
-From from {{etyl|cel-pro|sga}} {{term/t|cel-pro|*eni}} (compare Welsh {{term|yn|lang=cy}}), from {{etyl|ine-pro|sga}} {{term/t|ine-pro|*en}} (compare English {{term|in|lang=en}}, Latin {{term|in|lang=la}}, Greek {{term|ἐν|tr=en|lang=grc|sc=polytonic}}).
-
-===Preposition===
-{{head|sga|preposition}} {{qualifier|triggers eclipsis}}
-
-# [[in]] {{qualifier|with dative}}
-#* {{RQ:sga-gloss|Wb|14|d|26}}
-#*: Is '''i''' persin Crist da·gníu-sa sin.
-#*:: It is in the person of Christ that I do that.
-# [[into]] {{qualifier|with accusative}}
-
-====Derived terms====
-; Combinations with the definite article
-* {{l|sga|isin}} {{qualifier|accusative/dative masculine/feminine singular}}
-* {{l|sga|issa}} {{qualifier|accusative neuter singular}}
-* {{l|sga|isind}} {{qualifier|dative singular}}
-* {{l|sga|isna}} {{qualifier|accusative plural}}
-* {{l|sga|isnaib}} {{qualifier|dative plural}}
-
-; Combinations with possessive determiners
-* {{l|sga|ím}} {{qualifier|1st person singular}}
-* {{l|sga|inna}}, {{l|sga|na}} {{qualifier|3rd person}}
-
-; Combinations with object pronouns
-{| class=wikitable
-! Person
-! Singular
-! Plural
-|-
-! 1
-| {{l|sga|indium}}, {{l|sga|indiumm}}
-| {{l|sga|indiunn}}
-|-
-! 2
-| {{l|sga|indiut}}
-| {{l|sga|indib}}
-|-
-! 3 masc./neut. dat.
-| {{l|sga|and}}
-| rowspan=2| {{l|sga|indib}}
-|-
-! 3 fem. dat.
-| {{l|sga|indi}}
-|-
-! 3 masc./neut. acc.
-| {{l|sga|ind}}
-| rowspan=2| {{l|sga|intiu}}
-|-
-! 3 fem. acc.
-| {{l|sga|inte}}
-|}
-
-----
-
-==Pijin==
-
-===Particle===
-{{head|pis|particle}}
-
-# {{non-gloss definition|Separates the [[subject]] of a sentence from the [[predicate]], used when the subject is a [[pronoun]] or a [[noun]]}}
 
 ----
 
@@ -929,30 +526,9 @@ From from {{etyl|cel-pro|sga}} {{term/t|cel-pro|*eni}} (compare Welsh {{term|yn|
 * {{audio|Pt-br-i.ogg|Audio (BR)}}
 
 ===Letter===
-{{head|pt|letter|lowercase, uppercase|I}}
+{{infl|pt|letter|lowercase, uppercase|I}}
 
-# {{Latn-def|pt|letter|9}} Preceded by {{l/pt|h}} and followed by {{l/pt|j}}.
-
-----
-
-==Rapa Nui==
-
-===Etymology===
-From {{etyl|poz-pol-pro|rap}} {{term/t|poz-pol-pro|*i}}.
-
-===Particle===
-{{head|rap|particle}}
-
-# [[relational particle]] that marks the object of a verb
-
-====Usage notes====
-Used in all cases except with verbs of sensing; in which case, use {{l|rap|e}}.
-
-===Preposition===
-{{head|rap|preposition}}
-
-# [[at]]
-# [[in]]
+# The ninth letter of the alphabet. Preceded by [[h]] and followed by [[j]].
 
 ----
 
@@ -962,29 +538,14 @@ Used in all cases except with verbs of sensing; in which case, use {{l|rap|e}}.
 * {{IPA|/i/|lang=ro}}
 
 ===Letter===
-{{head|ro|letter|lowercase, capital|I}}
+'''i''' (''lowercase'', ''capital'' '''[[I]]''')
 
-# {{Latn-def|ro|letter|11}} Generally representing the phoneme /i/. Preceded by {{l|ro|h}} and followed by {{l|ro|î}}.
+# The eleventh letter of the [[Romanian alphabet]] generally representing the phoneme /i/. Preceded by [[h]] and followed by [[î]].
 
 ====Usage notes====
 See [[I]] for notes on pronunciation.
 
-----
-
-==Samoan==
-
-===Etymology===
-From {{etyl|poz-pol-pro|sm}} {{term/t|poz-pol-pro|*i}}.
-
-===Particle===
-{{head|sm|particle}}
-
-# {{non-gloss definition|used to mark the following (noun or noun phrase) as a direct object}}
-
-===Preposition===
-{{head|sm|preposition}}
-
-# {{context|indicating destination|lang=sm}} [[to]]
+[[Category:Romanian letters]]
 
 ----
 
@@ -1003,11 +564,11 @@ From {{etyl|poz-pol-pro|sm}} {{term/t|poz-pol-pro|*i}}.
 ==Scottish Gaelic==
 
 ===Pronoun===
-{{head|gd|pronoun}}
+{{infl|gd|pronoun}}
 
 # [[she]]
 # [[her]]
-# {{context|referring to a feminine noun|lang=gd}} [[it]]
+# {{context|referring to a feminine noun}} [[it]]
 
 ====Related terms====
 * [[ise#Scottish Gaelic|ise]] {{qualifier|emphatic}}
@@ -1027,25 +588,14 @@ From {{etyl|poz-pol-pro|sm}} {{term/t|poz-pol-pro|*i}}.
 
 ==Serbo-Croatian==
 
-===Etymology 1===
-See [[#Translingual|Translingual section]].
+===Etymology===
+From {{proto|Slavic|i|lang=sh}}, from {{proto|Indo-European|h₁ey|lang=sh}}.
 
-====Pronunciation====
-* {{qualifier|phoneme}} {{IPA|/i/|lang=sh}}
-
-====Letter====
-{{sh-letter|r|и}}
-
-# The 13th letter of the Serbo-Croatian Latin alphabet ([[gajica]]), preceded by {{l|sh|h}} and followed by {{l|sh|j}}.
-
-===Etymology 2===
-From {{etyl|sla-pro|sh}} {{term/t|sla-pro|*i}}, from {{etyl|ine-pro|sh}} {{term/t|ine-pro|*h₁ey}}.
-
-====Pronunciation====
-* {{IPA|/i/|lang=sh}}{{attention|sh|tone?}}
+===Pronunciation===
+* {{IPA|/i/|lang=sh}}
 * {{audio|Sr-i.ogg|audio}}
 
-====Conjunction====
+===Conjunction===
 {{sh-conjunction|r|и}}
 
 # [[and]]
@@ -1055,9 +605,9 @@ From {{etyl|sla-pro|sh}} {{term/t|sla-pro|*i}}, from {{etyl|ine-pro|sh}} {{term/
 #: ''ne možeš istovremeno i tužiti i suditi.'' — you can't simultaneously both sue and judge
 # [[also]], [[too]]
 #: ''i meni se sviđa vaš odabir'' — I like your choice too
-# [[even]] (usually preceded by {{term/t|sh|čȁk}})
+# [[even]] (usually preceded by {{term|čak|čȁk|lang=sh}})
 #: ''(čak) i ja sam pozvan na zabavu!'' — even I have been invited to the party
-# ({{term|ne|lang=sh}} {{term/t|sh|sȁmo}} .. {{term/t|sh|nȅgo}}/{{term/t|sh|vȅć}} {{term||i|lang=sh}}...) [[also]], [[too]]
+# ({{term|ne|lang=sh}} {{term|samo|sȁmo|lang=sh}} .. {{term|nego|nȅgo|lang=sh}}/{{term|već|vȅć|lang=sh}} {{term||i|lang=sh}}...) [[also]], [[too]]
 #: ''on je ne samo darovit, nego i jako marljiv'' — he is not only talented, but also very industrious
 # [[so]], so [[that]] (= {{term|te|lang=sh}}, {{term|pa|lang=sh}})
 #: ''umorio sam se i nisam mogao više igrati košarku'' — I grew tired, so I couldn't play basketball anymore
@@ -1067,7 +617,7 @@ From {{etyl|sla-pro|sh}} {{term/t|sla-pro|*i}}, from {{etyl|ine-pro|sh}} {{term/
 ==Sirionó==
 
 ===Noun===
-{{head|srq|noun}}
+{{infl|srq|noun}}
 
 # [[water]]
 
@@ -1076,7 +626,7 @@ From {{etyl|sla-pro|sh}} {{term/t|sla-pro|*i}}, from {{etyl|ine-pro|sh}} {{term/
 ==Slovak==
 
 ===Conjunction===
-{{head|sk|conjunction}}
+{{infl|sk|conjunction}}
 
 # [[and]]
 # [[as well as]]
@@ -1089,12 +639,12 @@ From {{etyl|sla-pro|sh}} {{term/t|sla-pro|*i}}, from {{etyl|ine-pro|sh}} {{term/
 Directly from {{etyl|la|es}}
 
 ====Letter====
-{{head|es|letter|lower case||upper case|I}}
+{{infl|es|letter|lower case||upper case|I}}
 
-# {{Latn-def|es|letter|9}}
+# The ninth letter of the Spanish alphabet.
 
 ====Noun====
-{{es-noun|f|íes}}
+{{es-noun-f|p=i}}
 
 # Name of the letter {{term|I}}.
 
@@ -1105,9 +655,9 @@ Reduced form of {{etyl|la|es}} {{term|et|lang=es}}; compare Italian {{term|e|lan
 * {{qualifier|modern}} {{l|es|y}}
 
 ====Conjunction====
-{{head|es|conjunction}}
+{{infl|es|conjunction}}
 
-# {{context|archaic|lang=es}} [[and]]
+# {{archaic}} [[and]]
 
 [[Category:es:Latin letter names]]
 
@@ -1116,14 +666,14 @@ Reduced form of {{etyl|la|es}} {{term|et|lang=es}}; compare Italian {{term|e|lan
 ==Swedish==
 
 ===Etymology===
-From {{etyl|gmq-osw|sv}} {{term|i|ī|lang=sv}}, from {{etyl|non|sv}} {{term|í|lang=non}}.
+Old Swedish ''i'', Danish ''i'', Iclandic {{term|lang=is|í}}, from Proto-Norse ''in'', same as Gothic ''in'', from Indo-European ''eni'', also found in Ancient Greek {{term|lang=grc|ἐν}} and Latin {{term|lang=la|in}}.
 
 ===Pronunciation===
-* {{IPA|/iː/|lang=sv}}
 * {{audio|Sv-i.ogg|audio}}
+* {{IPA|iː|lang=sv}}, {{IPAchar|ɪ}}
 
 ===Adverb===
-{{head|sv|adverb|verb particle}}
+{{infl|sv|adverb|verb particle}}
 
 # ''used to signify that an action is done with intensity''
 
@@ -1133,166 +683,27 @@ From {{etyl|gmq-osw|sv}} {{term|i|ī|lang=sv}}, from {{etyl|non|sv}} {{term|í|l
 * [[ta i]]
 
 ===Preposition===
-{{head|sv|preposition}}
+{{infl|sv|preposition}}
 
 # [[in]]; located inside
 # in; specifies a place, a region or a country
 #: ''Kim bor '''i''' Stockholm, som ligger '''i''' Sverige.''
 #:: Kim lives in Stockholm which lies in Sweden.
-# {{context|about time|lang=sv}} [[to]]; before a full hour
+# {{context|about time}} [[to]]; before a full hour
 #: ''Klockan tjugo '''i''' elva gick slutligen jag hem.''
 #:: At twenty to eleven I finally went home.
-# {{context|in various constructions|lang=sv}} [[last]], [[previous]]
+# {{context|in various constructions}} [[last]], [[previous]]
 #: '''''i''' måndags''
 #:: last Monday
 #: '''''i''' julas''
 #:: last Christmas
 
 ====Derived terms====
-{|
-|- valign=top
-|
-* [[I#Swedish|I]]
-* [[i det]] (att)
-* [[i akt]]
-* [[iaktta]]
-* [[i-balk]]
-* [[ibland]]
-* [[iblanda]]
-* [[i dag]]
-* [[idag]]
-* [[idriftsättning]]
-* [[idrifttagande]]
-* [[idrifttagning]]
-* [[ifall]]
-* [[i fatt]]
-* [[ifatt]]
-* [[i fjol]]
-* [[ifjol]]
-* [[i fjor]]
-* [[ifjor]]
-* [[i fred]]
-* [[ifred]]
-* [[i fråga]]
-* [[ifråga]]
-* [[ifrågakomma]]
-|
-* [[ifrågasätta]]
-* [[ifrågasättande]]
-* [[ifrågavarande]]
-* [[ifrån]]
-* [[ifylla]]
-* [[ifyllnad]]
-* [[ifyllning]]
-* [[iföra]]
-* [[igen]]
-* [[i gång]]
-* [[igång]]
-* [[igångkörning]]
-* [[igångsätta]]
-* [[ihakning]]
-* [[ihjäl]]
-* [[ihop]]
-* [[ihåg]]
-* [[ihålig]]
-* [[ihållande]]
-* [[ihälld]]
-* [[ihällning]]
-* [[ihängande]]
-* [[ihängsen]]
-* [[ihärdig]]
-|
-* [[i höstas]]
-* [[i julas]]
-* [[i jåns]]
-* [[ijåns]]
-* [[i-järn]]
-* [[i kapp]]
-* [[ikapp]]
-* [[iklä]]
-* [[ikläda]]
-* [[i kraft]]
-* [[ikraft]]
-* [[ikring]]
-* [[ikull]]
-* [[i kväll]]
-* [[ikväll]]
-* [[i land]]
-* [[iland]]
-* [[i-land]]
-* [[ilasta]]
-* [[ilastning]]
-* [[i-ljud]]
-* [[iläggning]]
-* [[iläggsskiva]]
-* [[imatning]]
-|
-* [[i midsomras]]
-* [[i morgon]]
-* [[imorgon]]
-* [[i morron]]
-* [[imorron]]
+;time already past
 * [[i morse]]
-* [[i måndags]]
-* [[i natt]]
-* [[inatt]]
-* [[ini]]
-* [[inuti]]
-* [[i-omljud]]
-* [[iordninggjord]]
-* [[iordninglagd]]
-* [[iordningställa]]
-* [[i pingstas]]
-* [[iplockad]]
-* [[iplockning]]
-* [[i påskas]]
-* [[iråkad]]
-* [[iröra]]
-* [[iscensätta]]
-* [[iscensättare]]
-* [[iscensättning]]
-|
-* [[isittande]]
-* [[iskarvning]]
-* [[iskruvning]]
-* [[iskuren]]
-* [[islag]]
-* [[islagen]]
-* [[islagning]]
-* [[i somras]]
-* [[istadarätt]]
-* [[istadig]]
-* [[istickning]]
-* [[istoppad]]
-* [[istoppning]]
-* [[istoppstäcke]]
-* [[i-stål]]
-* [[i stånd]]
-* [[istånd]]
-* [[iständsätta]]
-* [[i stället]]
-* [[istället]]
-* [[isydd]]
-* [[isyning]]
-* [[i synnerhet]]
-* [[isynnerhet]]
-|
-* [[isåning]]
-* [[i sänder]]
-* [[isänder]]
-* [[isär]]
-* [[isättning]]
-* [[itu]]
-* [[ituta]]
-* [[ity]]
-* [[itänd]]
-* [[i vintras]]
-* [[i våras]]
-* [[i väg]]
-* [[iväg]]
-* [[iögonfallande]]
-* [[iögonenfallande]]
-|}
+* [[i måndags]] (''or other week day in genitive'')
+* [[i julas]] / [[i pingstas]] / [[i påskas]] / [[i midsomras]]
+* [[i vintras]] / [[i våras]] / [[i somras]] / [[i höstas]]
 
 ====Usage notes====
 In definition 4, (''last, previous'') the following noun gets a suffix -s (weekdays: ''i måndags'') or -as (seasons: ''i höstas'', certain holidays, e.g. [[jul]], [[midsommar]], [[påsk]], [[pingst]]). Other holidays instead use ''[[förra]], [[senaste]], [[sista]]'', e.g. ''förra [[nyår]]et''.
@@ -1306,50 +717,19 @@ In definition 4, (''last, previous'') the following noun gets a suffix -s (weekd
 
 ----
 
-==Tahitian==
-
-===Etymology===
-From {{etyl|poz-pol-pro|ty}} {{term/t|poz-pol-pro|*i}}.
-
-===Preposition===
-{{head|ty|preposition}}
-
-# [[at]]
-# [[in]]
-
-----
-
 ==Tok Pisin==
 
-===Etymology===
-Probably from {{etyl|en|tpi}} {{term|is|lang=en}}
-
 ===Particle===
-{{head|tpi|particle}}
+{{infl|tpi|particle}}
 
-# {{non-gloss definition|Separates the [[subject]] of a sentence from the [[predicate]], used when the subject is a [[:Category:Tok Pisin pronouns|pronoun]], or a [[:Category:Tok Pisin nouns|noun]]}}
-#* {{tpi-cite-bible|Gen|1|2|Tasol graun '''i''' no bin '''i''' stap olsem yumi save lukim nau.}}
-
-{{LDL}}
-
-----
-
-==Tongan==
-
-===Etymology===
-From {{etyl|poz-pol-pro|to}} {{term/t|poz-pol-pro|*i}}.
-
-===Preposition===
-{{head|to|preposition}}
-
-# [[in]]
+# Separates the [[subject]] of a sentence from the [[predicate]], used when the subject is ''[[em]]'', ''[[ol]]'', or a [[noun]].
 
 ----
 
 ==Tupinambá==
 
 ===Pronoun===
-{{head|tpn|pronoun}}
+{{infl|tpn|pronoun}}
 
 # He, she, it, they (with descriptive verbs)
 #: ''i porang'' (he/she/it is / they are beautiful)
@@ -1362,66 +742,20 @@ From {{etyl|poz-pol-pro|to}} {{term/t|poz-pol-pro|*i}}.
 
 ----
 
-==Turkish==
-
-===Letter===
-{{tr-letter|upper=İ|lower=i}}
-
-# {{Latn-def|tr|letter|12|i}}
-
-====See also====
-* {{list:Latin script letters/tr}}
-
-===Noun===
-{{head|tr|noun}}
-
-# {{Latn-def|tr|name|İ|i}}
-
-====See also====
-* {{list:Latin script letter names/tr}}
-
-----
-
 ==Volapük==
 
 ===Adverb===
-{{head|vo|adverb}}
+{{infl|vo|adverb}}
 
 # [[also]]
 # [[too]]
 
 ----
 
-==Walloon==
-
-===Etymology 1===
-From {{etyl|VL.|wa}} {{term/t|la|*illī}}, from Classical {{etyl|la|wa}} {{term|ille|lang=la}}.
-
-====Pronoun====
-{{head|wa|pronoun}}
-
-# [[he]]
-
-=====Related terms=====
-* {{l|wa|lu}}
-
-===Etymology 2===
-From {{etyl|la|wa}} {{term|illos|lang=la}} (accusative plural of {{term|ille|lang=la}}) used in {{etyl|VL.|wa}} in place of the missing third-person pronoun.
-
-====Pronoun====
-{{head|wa|pronoun}}
-
-# [[they]]
-
-=====Related terms=====
-* {{l|wa|zels}}
-
-----
-
 ==Welsh==
 
 ===Pronoun===
-{{head|cy|pronoun}}
+{{infl|cy|pronoun}}
 
 # [[I]], [[me]].
 
@@ -1431,12 +765,12 @@ From {{etyl|la|wa}} {{term|illos|lang=la}} (accusative plural of {{term|ille|lan
 * [[mi#Welsh|mi]]
 
 ===Preposition===
-{{head|cy|preposition|stem|idd-}}
+{{infl|cy|preposition|stem|[[i|idd-]]}}
 
 # [[to]], [[for]].
 #: Mae'r jem i Siân - The jewel's for Siân.
 # that
-#: [[bod#cy|Maen]] [[nhw#cy|nhw]][[yn#cy|'n]] [[dweud#cy|dweud]] '''iddi''' hi [[yfed#cy|yfed]] [[gormod#cy|gormod]] [[o#cy|o]] [[cwrw#cy|gwrw]] - They say that she drank too much beer
+#: Maen nhw'n dweud '''iddi''' hi yfed gormod o gwrw - They say that she drank too much beer
 
 {| class="wikitable"
 |-
@@ -1463,15 +797,12 @@ From {{etyl|la|wa}} {{term|illos|lang=la}} (accusative plural of {{term|ille|lan
 * {{l|cy|y}}
 
 ====Usage notes====
-* ''i'' is used to mean 'that' with verbs originally in the [[preterite]] past tense. The subject moves to the front of the subordinate clause, directly following ''i'', and the verb changes back to its verbnoun (infinitive) form.
 
-====Derived terms====
-* {{l|cy|i mewn}}
+* ''i'' is used to mean 'that' with verbs originally in the [[preterite]] past tense. The subject moves to the front of the subordinate clause, directly following ''i'', and the verb changes back to its verbnoun (infinitive) form.
 
 [[af:i]]
 [[ar:i]]
 [[an:i]]
-[[ast:i]]
 [[zh-min-nan:i]]
 [[br:i]]
 [[ca:i]]
@@ -1482,7 +813,6 @@ From {{etyl|la|wa}} {{term|illos|lang=la}} (accusative plural of {{term|ille|lan
 [[el:i]]
 [[es:i]]
 [[eo:i]]
-[[eu:i]]
 [[fr:i]]
 [[fy:i]]
 [[gl:i]]
@@ -1505,19 +835,15 @@ From {{etyl|la|wa}} {{term|illos|lang=la}} (accusative plural of {{term|ille|lan
 [[hu:i]]
 [[mg:i]]
 [[ms:i]]
-[[fj:i]]
 [[nl:i]]
 [[ja:i]]
 [[no:i]]
-[[nn:i]]
 [[oc:i]]
 [[pa:i]]
-[[km:i]]
 [[pl:i]]
 [[pt:i]]
 [[ro:i]]
 [[ru:i]]
-[[sm:i]]
 [[sq:i]]
 [[scn:i]]
 [[si:i]]
@@ -1526,9 +852,7 @@ From {{etyl|la|wa}} {{term|illos|lang=la}} (accusative plural of {{term|ille|lan
 [[sl:i]]
 [[fi:i]]
 [[sv:i]]
-[[tl:i]]
 [[ta:i]]
-[[chr:i]]
 [[tr:i]]
 [[uk:i]]
 [[vi:i]]
