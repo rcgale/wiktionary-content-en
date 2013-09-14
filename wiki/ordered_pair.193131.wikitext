@@ -4,7 +4,7 @@
 ===Noun===
 {{en-noun|head=[[ordered]] [[pair]]}}
 
-# {{context|set theory|lang=en}} A [[set]] containing exactly two [[element]]s in a fixed order, so that, when the elements are different, exchanging them gives a different set.  Notation: (a, b) ''or'' <math>\langle a, b\rangle</math>.
+# {{context|set theory|lang=en}} An object containing exactly two [[element]]s in a fixed order, so that, when the elements are different, exchanging them gives a different object.  Notation: (a, b) ''or'' <math>\langle a, b\rangle</math>.
 #: If an [[ordered pair]] were defined (in terms of sets) as <math> (x,y) := \{ \{a\}, \{a, \{b\}\}\} </math> then the "first element" of an ordered pair ''S'' could be defined as CAR(S) where CAR(S) = ''x'' if and only if <math> (\forall y \in S. \, x \in y) </math>.  Likewise, the "second element" of ''S'' could be defined as CDR(S) where CDR(S) = ''x'' if and only if <math> (\exists y \in S. \, (\exists z \in y. \, x \in z)) </math>.  If the two elements happened to be equal, then the ordered pair would still have cardinality two as would be naturally expected.
 
 ====Related terms====
@@ -13,20 +13,21 @@
 
 ====Translations====
 {{trans-top|in set theory}}
-* Chinese: [[有序对]]
+* Chinese:
+*: {{ttbc|cmn}}: {{t|cmn|有序对|sc=Hani}}
 * Czech: {{t-|cs|uspořádaná dvojice|f}}
-* Finnish: [[järjestetty pari]]
+* Finnish: {{t|fi|järjestetty pari}}
 * French: {{t+|fr|couple|m}}
-* German: [[geordnetes Paar]] {{n}}
+* German: {{t|de|geordnetes Paar|n}}
 * Hungarian: {{t+|hu|rendezett pár}}
-* Italian: [[coppia]], [[coppia ordinata]]
+* Italian: {{t|it|coppia}}, {{t|it|coppia ordinata}}
 {{trans-mid}}
 * Japanese: {{t-|ja|順序対|tr=じゅんじょつい, junjo-tsui|sc=Jpan}}
-* Korean: [[순서쌍]]
-* Polish: [[para uporządkowana]]
-* Portuguese: [[par ordenado#Portuguese|par ordenado]] {{m}}
-* Spanish: [[par ordenado#Spanish|par ordenado]] {{m}}
-* Swedish: [[ordnat par]]
+* Korean: {{t|ko|순서쌍|sc=Kore}}
+* Polish: {{t|pl|para uporządkowana|f}}
+* Portuguese: {{t|pt|par ordenado|m}}
+* Spanish: {{t|es|par ordenado|m}}
+* Swedish: {{t|sv|ordnat par}}
 {{trans-bottom}}
 
 [[et:ordered pair]]
