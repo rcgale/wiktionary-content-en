@@ -48,7 +48,7 @@ From {{etyl|enm|en}} {{term|hiden|lang=enm}}, {{term|huden|lang=enm}}, from {{et
 =====Translations=====
 {{trans-top|(transitive)}}
 * {{trreq|sq}}
-* Arabic: {{t-|ar|أخفى|tr=ʾaxfā}}, imperfective {{l|ar|يخفي|tr=yuxfī}}
+* {{ttbc|ar}}: {{t-|ar|أخفى|tr=ʾaxfā}}, {{t|ar|يخفي|impf|tr=yuxfī}}
 * Aragonese: {{t-|an|amagar}}
 * Armenian: {{t-|hy|թաքցնել|tr=t’ak’c’nel}}
 * Aromanian: {{t-|rup|ascundu}}, {{t-|rup|acoapir}}
@@ -128,18 +128,18 @@ From {{etyl|enm|en}} {{term|hiden|lang=enm}}, {{term|huden|lang=enm}}, from {{et
 {{trans-bottom}}
 
 {{trans-top|(intransitive)}}
-* Arabic: {{t+|ar|اختبأ|tr=ixtabaʾa}}, imperfective {{l|ar|يختبئ|tr=yaxtabiʾu}}
+* {{ttbc|ar}}: {{t+|ar|اختبأ|tr=ixtabaʾa}}, {{t|ar|يختبئ|impf|tr=yaxtabiʾu}}
 * Armenian: {{t-|hy|թաքնվել|tr=t’ak’nvel}}
 * Bengali: {{t-|bn|লুকানো|tr=lukano|sc=Beng}}
 * Chinese:
 *: Mandarin: {{t|cmn|躲藏|tr=duǒcáng|sc=Hani}}, {{t|cmn|隱藏|sc=Hani}}, {{t|cmn|隐藏|tr=yǐncáng|sc=Hani}}, {{t-|cmn|躲|tr=duǒ|sc=Hani}}
 * Czech: {{t+|cs|schovat|alt=schovat se}}, {{t+|cs|skrýt|alt=skrýt se}}
-* Dutch: zich [[verbergen]], zich [[verstoppen]], zich [[wegstoppen]]
+* {{ttbc|nl}}: {{t|nl|verbergen|alt=zich verbergen}} <!-- was "zich [[verbergen]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|nl|verstoppen|alt=zich verstoppen}} <!-- was "zich [[verstoppen]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|nl|wegstoppen|alt=zich wegstoppen}} <!-- was "zich [[wegstoppen]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Esperanto: {{t-|eo|kaŝiĝi}}
 * Finnish: {{t+|fi|piiloutua}}, {{t+|fi|kätkeytyä}}
 * French: {{t+|fr|se cacher}}
 * {{trreq|ka}}
-* German: sich [[verbergen]], sich [[verstecken]]
+* {{ttbc|de}}: {{t|de|verbergen|alt=sich verbergen}} <!-- was "sich [[verbergen]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|de|verstecken|alt=sich verstecken}} <!-- was "sich [[verstecken]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Hindi: {{t-|hi|छिपना|tr=chipnā|sc=Deva}}
 * Hungarian: {{t+|hu|elbújik}}, {{t+|hu|bújik}}, {{t+|hu|rejtőzik}}, {{t-|hu|rejtőzködik}}
 * Indonesian: {{t+|id|bersembunyi}}
@@ -156,7 +156,7 @@ From {{etyl|enm|en}} {{term|hiden|lang=enm}}, {{term|huden|lang=enm}}, from {{et
 * Old English: {{t-|ang|hȳdan}}, {{t-|ang|mīþan}}
 * Portuguese: {{t-|pt|esconder-se}}
 * Romanian: {{t+|ro|ascunde}}
-* Russian: {{t+|ru|прятаться|tr=prjátat'sja}} {{impf}}, {{t+|ru|спрятаться|tr=sprjátat'sja}} {{pf.}}; {{t+|ru|скрываться|tr=skryvát'sja}} {{impf}}, {{t+|ru|скрыться|tr=skrýt'sja}} {{pf.}}
+* Russian: {{t+|ru|прятаться|tr=prjátat'sja}} {{impf}}, {{t+|ru|спрятаться|tr=sprjátat'sja}} {{pf.}}, {{t+|ru|скрываться|tr=skryvát'sja}} {{impf}}, {{t+|ru|скрыться|tr=skrýt'sja}} {{pf.}}
 * Samogitian: {{tø|sgs|kavuotėis}}
 * Scottish Gaelic: {{t-|gd|falaich}}, {{t-|gd|ceil}}
 * Serbo-Croatian:
@@ -169,7 +169,7 @@ From {{etyl|enm|en}} {{term|hiden|lang=enm}}, {{term|huden|lang=enm}}, from {{et
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|io}}: [[celar]]
+* {{ttbc|io}}: {{t|io|celar}}
 {{trans-mid}}
 * {{ttbc|roa-jer}}: {{tø|roa-jer|muchi}}
 {{trans-bottom}}
