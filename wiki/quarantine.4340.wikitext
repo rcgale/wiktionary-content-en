@@ -49,7 +49,7 @@ From {{etyl|it|en}} {{term|quarantina|lang=it||forty}}, from {{term|quarantina g
 * Finnish: {{t+|fi|karanteeni}}
 * French: {{t+|fr|quarantaine|f}}
 * German: {{t+|de|Quarantäne|f}}
-* Hebrew: {{t-|he|הֶסְגֵּר|m|tr=hesger}},  {{t-|he|קָרַנְטִינָה|f|tr=qarantina}}
+* Hebrew: {{t-|he|הֶסְגֵּר|m|tr=hesger}}, {{t-|he|קָרַנְטִינָה|f|tr=qarantina}}
 {{trans-mid}}
 * Italian: {{t-|it|quarantena}}
 * Japanese: {{t+|ja|検疫|tr=けんえき, ken'eki}}
@@ -74,10 +74,10 @@ From {{etyl|it|en}} {{term|quarantina|lang=it||forty}}, from {{term|quarantina g
 {{trans-top|place for isolating persons}}
 * Czech: {{t+|cs|karanténa|f}}
 * Danish: {{t-|da|karantæne|c}}
-* Dutch: [[quarantaine]] {{f}}, [[quarantainehaven]] (if a port)
+* Dutch: {{t|nl|quarantaine|f}}, {{qualifier|if a port}} {{t|nl|quarantainehaven}}
 {{trans-mid}}
 * Finnish: {{t+|fi|karanteeni}}
-* Hungarian: {{t+|hu|karantén}},  {{t-|hu|vesztegzár}}
+* Hungarian: {{t+|hu|karantén}}, {{t-|hu|vesztegzár}}
 * Russian: {{t+|ru|изолятор|m|tr=izoljátor}}
 {{trans-bottom}}
 
@@ -86,7 +86,7 @@ From {{etyl|it|en}} {{term|quarantina|lang=it||forty}}, from {{term|quarantina g
 * Catalan: {{t+|ca|quarantena|f}}
 * Czech: {{t+|cs|karanténa|f}}
 * Danish: {{t-|da|karantæne|c}}
-* Dutch: [[quarantaine]] {{f}}, [[quarantaineperiode]] {{f}}
+* Dutch: {{t|nl|quarantaine|f}}, {{t|nl|quarantaineperiode|f}}
 {{trans-mid}}
 * Finnish: {{t+|fi|karanteeni}}
 * Polish: {{t-|pl|kwarantanna|f}}
@@ -118,16 +118,16 @@ From {{etyl|it|en}} {{term|quarantina|lang=it||forty}}, from {{term|quarantina g
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|cmn}}: {{zh-ts|檢疫|检疫}} ([[jiǎnyì]])
-* {{ttbc|eo}}: [[kvaranteno]]
-* {{ttbc|fr}}: [[quarantaine]] {{f}}
-* {{ttbc|de}}: [[Quarantäne]] {{f}}
-* {{ttbc|id}}: [[karantina]]
+* {{ttbc|cmn}}: {{zh-tsp|檢疫|检疫|jiǎnyì}}
+* {{ttbc|eo}}: {{t|eo|kvaranteno}}
+* {{ttbc|fr}}: {{t|fr|quarantaine|f}}
+* {{ttbc|de}}: {{t|de|Quarantäne|f}}
+* {{ttbc|id}}: {{t|id|karantina}}
 {{trans-mid}}
-* {{ttbc|ia}}: [[quarantena]]
-* {{ttbc|it}}: [[quarantena#Italian|quarantena]] {{f}} (all senses)
-* {{ttbc|pt}}: [[quarentena]] {{f}}
-* {{ttbc|es}}: [[cuarentena]] {{f}}
+* {{ttbc|ia}}: {{t|ia|quarantena}}
+* {{ttbc|it}}: {{qualifier|all senses}} {{t|it|quarantena|f}}
+* {{ttbc|pt}}: {{t|pt|quarentena|f}}
+* {{ttbc|es}}: {{t|es|cuarentena|f}}
 {{trans-bottom}}
 
 ====Verb====
@@ -143,17 +143,17 @@ From {{etyl|it|en}} {{term|quarantina|lang=it||forty}}, from {{term|quarantina g
 {{trans-top|to retain in obligatory isolation or separation as a sanitary prevention}}
 * Armenian: {{t-|hy|կարանտինի ենթարկել|tr=karantini ent’arkel}}
 * Czech: {{t+|cs|dát}} {{t+|cs|do}} {{t+|cs|karanténa|alt=karantény}}
-* Dutch: in [[quarantaine]] [[plaatsen]]/ [[zetten]]
+* {{ttbc|nl}}: {{t|nl|in [[quarantaine]] [[plaatsen]]/[[zetten]]}}<!-- split? -->
 * Esperanto: {{t-|eo|kvaranteni}}
-* Finnish: {{t+|fi|panna}} {{t+|fi|karanteeni|alt=karanteeniin}},  {{t+|fi|eristää}}
-* French: [[mettre]] en [[quarantaine]]
-* German: [[unter]] [[Quarantäne]] [[stellen]]
+* Finnish: {{t+|fi|panna}} {{t+|fi|karanteeni|alt=karanteeniin}}, {{t+|fi|eristää}}
+* {{ttbc|fr}}: {{t|fr|[[mettre]] en [[quarantaine]]}} <!-- was "[[mettre]] en [[quarantaine]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|de}}: {{t|de|[[unter]] [[Quarantäne]] [[stellen]]}} <!-- was "[[unter]] [[Quarantäne]] [[stellen]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-mid}}
-* Hungarian: {{t+|hu|elkülönít}},  {{t-|hu|karanténba helyez}},  {{t-|hu|karanténba zár}}
-* Interlingua: [[quarantenar]]
-* Italian: [[mettere]] in [[quarantena]]
-* Portuguese: [[quarentenar]]
-* Spanish: [[cuarentenar]]
+* Hungarian: {{t+|hu|elkülönít}}, {{t-|hu|karanténba helyez}}, {{t-|hu|karanténba zár}}
+* Interlingua: {{t|ia|quarantenar}}
+* {{ttbc|it}}: {{t|it|[[mettere]] in [[quarantena]]}} <!-- was "[[mettere]] in [[quarantena]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Portuguese: {{t|pt|quarentenar}}
+* Spanish: {{t|es|cuarentenar}}
 * Swedish: {{t+|sv|sätta}} i {{t+|sv|karantän}}
 {{trans-bottom}}
 
