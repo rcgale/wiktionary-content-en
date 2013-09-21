@@ -190,14 +190,14 @@ From {{etyl|enm|en}} {{term|light|lang=enm}}, {{term|liht|lang=ang}}, {{term|leo
 * Sotho: {{t-|st|lesedi}}
 * Southern Altai: {{tø|alt|јарык|tr=carıq|sc=Cyrl}}
 * Spanish: {{t+|es|luz|f}}
-* Sumerian: {{t|sux|nuru|sc=Xsux}}, {{t|sux|immaru|sc=Xsux}}
+* Sumerian: {{tø|sux|nuru|sc=Xsux}}, {{tø|sux|immaru|sc=Xsux}}
 * Swahili: {{t+|sw|mwanga}}
 * Swedish: {{t+|sv|ljus|n}}
 * Tagalog: {{t-|tl|ilaw}}
 * Tajik: {{t+|tg|нӯр|tr=nūr|sc=Cyrl}}
 * Tamil: {{t+|ta|ஒளி|tr=ōni}}
 * Tatar: {{t-|tt|yaqtı}}, {{t-|tt|yaqtılıq}}
-* Telugu: {{t+|te|కాంతి|tr=kaaMti}}, {{t+|te|వెలుతురు|tr=veluturu}}, {{t|te|విద్యుత్ అయస్కాంత క్షేత్రము|tr=vidtut ayaskanta kshetramu|sc=Telu}}
+* Telugu: {{t+|te|కాంతి|tr=kaaMti}}, {{t+|te|వెలుతురు|tr=veluturu}}, {{t-|te|విద్యుత్ అయస్కాంత క్షేత్రము|tr=vidtut ayaskanta kshetramu|sc=Telu}}
 * Thai: {{t+|th|แสง|tr=saeng}}
 * Turkish: {{t+|tr|ışık}}
 * Turkmen: {{t-|tk|yşyk}}, {{t-|tk|ýagtylyk}}
@@ -251,7 +251,7 @@ From {{etyl|enm|en}} {{term|light|lang=enm}}, {{term|liht|lang=ang}}, {{term|leo
 * Persian: {{t+|fa|چراغ|tr=çeraĝ}}
 * Polish: {{t+|pl|światło|n}}
 * Portuguese: {{t+|pt|luz|f}}
-* {{ttbc|ro}}: {{t+|ro|lumină|f}}, {{t|ro|[[corp]] [[de]] [[iluminat]]|n}} <!-- was "[[corp#Romanian|corp]] [[de#Romanian|de]] [[iluminat#Romanian|iluminat]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-|ro|far|n}} (car light)
+* {{ttbc|ro}}: {{t+|ro|lumină|f}}, {{tø|ro|[[corp]] [[de]] [[iluminat]]|n}} <!-- was "[[corp#Romanian|corp]] [[de#Romanian|de]] [[iluminat#Romanian|iluminat]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-|ro|far|n}} (car light)
 * Russian: {{t+|ru|свет|m|tr=svet}}
 * Scots: {{tø|sco|licht}}
 * Scottish Gaelic: {{t-|gd|solas|m}}, {{t-|gd|soillse|f}}
@@ -314,7 +314,7 @@ From {{etyl|enm|en}} {{term|light|lang=enm}}, {{term|liht|lang=ang}}, {{term|leo
 * Russian: {{t+|ru|свет|m|tr=svet}}
 * Swahili: {{t+|sw|mwanga}}
 * Telugu: {{t+|te|కోణము|tr=konamu|sc=Telu}}
-* Vietnamese: {{qualifier|"see [someone] in a good light" = [[nhìn]] [[đến]] [[ai]] [[một]] [[cách]] [[đẹp]]}} {{t|vi|cách}}, {{t|vi|trạng thái}}
+* Vietnamese: {{qualifier|"see [someone] in a good light" = [[nhìn]] [[đến]] [[ai]] [[một]] [[cách]] [[đẹp]]}} {{t+|vi|cách}}, {{t+|vi|trạng thái}}
 {{trans-bottom}}
 
 {{trans-top|a flame or something used to create fire}}
@@ -348,14 +348,14 @@ From {{etyl|enm|en}} {{term|light|lang=enm}}, {{term|liht|lang=ang}}, {{term|leo
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: {{t|ar|نُور|tr=nūr}}
-* {{ttbc|gn}}: {{qualifier|t-}} {{t|gn|endy}}
-* {{ttbc|io}}: {{t|io|lumo}}
+* {{ttbc|ar}}: {{t+|ar|نُور|tr=nūr}}
+* {{ttbc|gn}}: {{qualifier|t-}} {{t-|gn|endy}}
+* {{ttbc|io}}: {{t+|io|lumo}}
 {{trans-mid}}
-* {{ttbc|ia}}: {{t|ia|lumine}}
-* {{ttbc|ku}}: {{t|ku|ronahî}}, {{t|ku|ronayî}}
-* {{ttbc|lt}}: {{qualifier|1}} {{t|lt|šviesa|f}}, {{qualifier|2}} {{t|lt|šviestuvas|m}}
-* {{ttbc|tpn}}: {{qualifier|t-}} {{t|tpn|endy}}
+* {{ttbc|ia}}: {{t-|ia|lumine}}
+* {{ttbc|ku}}: {{t+|ku|ronahî}}, {{t+|ku|ronayî}}
+* {{ttbc|lt}}: {{qualifier|1}} {{t+|lt|šviesa|f}}, {{qualifier|2}} {{t-|lt|šviestuvas|m}}
+* {{ttbc|tpn}}: {{qualifier|t-}} {{tø|tpn|endy}}
 {{trans-bottom}}
 
 ===Etymology 2===
@@ -398,13 +398,13 @@ From {{etyl|enm|en}} {{term|lighten|lang=enm}}, {{term|lihten|lang=enm}}, from {
 
 =====Translations=====
 {{trans-top|to start (a fire)}}
-* Afrikaans: {{t|af|aansteek}}
+* Afrikaans: {{t-|af|aansteek}}
 * Arabic: {{t-|ar|شعل|tr=šáʿʿala|sc=Arab}}
 * Armenian: {{t-|hy|վառել|tr=vaŕel}}
 * Basque: {{t+|eu|piztu}}
 * Bulgarian: {{t+|bg|запалвам|tr=zapalvam}}, {{t+|bg|паля|tr=palja}}
 * Burmese: {{t+|my|မီးထွန်း|tr=mi:htun:|sc=Mymr}}
-* Catalan: {{t|ca|encendre}}
+* Catalan: {{t+|ca|encendre}}
 * Chinese:
 *: Mandarin: {{t|cmn|點火|sc=Hani}}, {{t|cmn|点火|tr=diǎnhuǒ|sc=Hani}}, {{t|cmn|點燃|sc=Hani}}, {{t|cmn|点燃|tr=diǎnrán|sc=Hani}}
 *: Min Nan: {{t-|nan|點火|sc=Hans}}, {{t-|nan|点火|tr=tiám-hóe, tiám-hé|sc=Hans}}
@@ -412,12 +412,12 @@ From {{etyl|enm|en}} {{term|lighten|lang=enm}}, {{term|lihten|lang=enm}}, from {
 * Danish: {{t-|da|antænde}}, {{t-|da|tænde}}
 * Dutch: {{t+|nl|aansteken}}
 * Esperanto: {{t-|eo|ekbruligi}}, {{t-|eo|fajrigi}}
-* {{ttbc|fi}}: {{t|fi|[[sytyttää]] [[palaa|palamaan]]}} <!-- was "[[sytyttää]] [[palaa|palamaan]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|fi}}: {{tø|fi|[[sytyttää]] [[palaa|palamaan]]}} <!-- was "[[sytyttää]] [[palaa|palamaan]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * French: {{t+|fr|allumer}}
 * Galician: {{t+|gl|prender}}, {{t+|gl|acender}}
 * German: {{t+|de|anzünden}}, {{t+|de|anstecken}}, {{t+|de|anmachen}}
 *: Middle High German: {{tø|gmh|enzünden}}
-* Greek: {{t|el|ανάβω|tr=anavo|sc=Grek}}
+* Greek: {{t+|el|ανάβω|tr=anavo|sc=Grek}}
 *: Ancient: {{tø|grc|αἴθω|tr=aithō|sc=polytonic}}
 * Hebrew: {{t-|he|הדליק|tr=hidlík}}, {{t-|he|הצית|tr=hitsít}}, {{t-|he|הבעיר|tr=hevʾír|sc=Hebr}}
 * Hungarian: {{t+|hu|gyújt}}, {{t+|hu|meggyújt}}
@@ -429,14 +429,14 @@ From {{etyl|enm|en}} {{term|lighten|lang=enm}}, {{term|lihten|lang=enm}}, from {
 * Korean: {{t-|ko|불붙이다|tr=bulbutida|sc=Kore}}
 * Kurdish:
 *: Sorani:
-*: {{ttbc|kmr}}: {{t|kmr|[[agir]] [[vêxistin]]}} <!-- was "[[agir]] [[vêxistin]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+*: {{ttbc|kmr}}: {{tø|kmr|[[agir]] [[vêxistin]]}} <!-- was "[[agir]] [[vêxistin]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Lao: {{t-|lo|ໄຕ້|tr=tai|sc=Laoo}}
 {{trans-mid}}
 * Latgalian: {{tø|ltg|aizdegt}}
 * Latin: {{t+|la|lux}}
-* Latvian: {{t|lv|aizdedzināt}}, {{t-|lv|aizdegt}}, {{t-|lv|iedegt}}, {{t-|lv|uzdegt}}
+* Latvian: {{t-|lv|aizdedzināt}}, {{t-|lv|aizdegt}}, {{t-|lv|iedegt}}, {{t-|lv|uzdegt}}
 * Lithuanian: {{t-|lt|uždegti}}
-* Malayalam: {{t|ml|കത്തിയ്ക്കുക|tr=kathiykkuka|sc=Mlym}}
+* Malayalam: {{t-|ml|കത്തിയ്ക്കുക|tr=kathiykkuka|sc=Mlym}}
 * Maori: {{t-|mi|raiti}}
 * Mizo: {{tø|lus|häl}}, {{tø|lus|tialh}}, {{tø|lus|ṭankai}}
 * Neapolitan: {{tø|nap|abbiccià}}
@@ -458,26 +458,26 @@ From {{etyl|enm|en}} {{term|lighten|lang=enm}}, {{term|lihten|lang=enm}}, from {
 * Swahili: {{t+|sw|nuru}}
 * Swedish: {{t+|sv|tända}}
 * Tagalog: {{t-|tl|liwanag}}, {{t-|tl|ilawan}}
-* Telugu: {{t|te|అంటించు|tr=aMTiMcu|sc=Telu}}
+* Telugu: {{t+|te|అంటించు|tr=aMTiMcu|sc=Telu}}
 * Tok Pisin: {{t-|tpi|lait}}, {{t-|tpi|kamapim}}
 * Turkish: {{t+|tr|yakmak}}
 * Ukrainian: {{t-|uk|запалювати|tr=zapáljuvaty|sc=Cyrl}} {{impf}}, {{t-|uk|запалити|tr=zapalýty|sc=Cyrl}} {{pf.}}
 * Vietnamese: {{t+|vi|đốt}}, {{t+|vi|thắp}}, {{t+|vi|châm}}, {{t+|vi|nhóm}}
-* Welsh: {{t|cy|cynnau}}
-* ǃXóõ: {{t|nmn|ʘʻáa}}
+* Welsh: {{t+|cy|cynnau}}
+* ǃXóõ: {{tø|nmn|ʘʻáa}}
 {{trans-bottom}}
 
 {{trans-top|to illuminate}}
-* Afrikaans: {{t|af|skyn}}, {{t|af|belig}}
+* Afrikaans: {{t-|af|skyn}}, {{t-|af|belig}}
 * Arabic: {{t-|ar|أضاء|tr=ʾaḍāʾa|sc=Arab}}
 * Armenian: {{t-|hy|լուսավորել|tr=lusavorel|sc=Armn}}
 * Aromanian: {{t-|rup|lunjinedz}}
 * Basque: {{t-|eu|argitu}}
 * Bulgarian: {{t+|bg|осветявам}}
-* Catalan: {{t|ca|encendre}}, {{t|ca|il·luminar}}
+* Catalan: {{t+|ca|encendre}}, {{t+|ca|il·luminar}}
 * Chinese:
 *: Mandarin: {{t|cmn|照明|tr=zhàomíng|sc=Hani}}
-* Czech: {{t|cs|osvětlit}}, {{t|cs|osvítit}}
+* Czech: {{t-|cs|osvětlit}}, {{t-|cs|osvítit}}
 * Danish: {{t-|da|belyse}}, {{t-|da|oplyse}}
 * Dutch: {{t+|nl|lichten}}, {{t+|nl|bijlichten}}
 * Finnish: {{t+|fi|valaista}}
@@ -495,16 +495,16 @@ From {{etyl|enm|en}} {{term|lighten|lang=enm}}, {{term|lihten|lang=enm}}, from {
 {{trans-mid}}
 * Kurdish:
 *: Sorani:
-*: {{ttbc|kmr}}: {{t|kmr|[[ron]] [[kirin]]}} <!-- was "[[ron]] kirin" - remove links if this is an [[WT:IDIOM]] -->
+*: {{ttbc|kmr}}: {{tø|kmr|[[ron]] [[kirin]]}} <!-- was "[[ron]] kirin" - remove links if this is an [[WT:IDIOM]] -->
 * Latin: {{t-|la|illuminare}}
-* Latvian: {{t|lv|apgaismot}}
+* Latvian: {{t-|lv|apgaismot}}
 * Ligurian: {{tø|lij|illüminò}}
 * Lithuanian: {{t-|lt|apšviesti}}
-* Malayalam: {{t|ml|പ്രകാശിയ്ക്കുക|tr=prakaaSiykkuka|sc=Mlym}}
+* Malayalam: {{t-|ml|പ്രകാശിയ്ക്കുക|tr=prakaaSiykkuka|sc=Mlym}}
 * Mizo: {{tø|lus|èn}}, {{tø|lus|tiëng}}
 * Norwegian: {{t+|no|opplyse}}
 * Persian: {{t+|fa|افروختن|tr=afrōxtan}}, {{t+|fa|روشن کردن|tr=rowšan kardan}}
-* Polish: {{t|pl|oświetlić}}, {{t|pl|iluminować}}
+* Polish: {{t+|pl|oświetlić}}, {{t-|pl|iluminować}}
 * Portuguese: {{t+|pt|iluminar}}
 * Romanian: {{t+|ro|lumina}}, {{t-|ro|ilumina}}
 * Russian: {{t+|ru|освещать|tr=osveščát’}} {{impf}}, {{t+|ru|осветить|tr=osvetít’}} {{pf.}}
@@ -514,22 +514,22 @@ From {{etyl|enm|en}} {{term|lighten|lang=enm}}, {{term|lihten|lang=enm}}, from {
 * Spanish: {{t+|es|iluminar}}
 * Swahili: {{t+|sw|nuru}}
 * Swedish: {{t+|sv|belysa}}, {{t-|sv|lysa upp}}
-* Telugu: {{t|te|ప్రకాశింపజేయు|tr=prakaaSiMpajEyu|sc=Telu}}
+* Telugu: {{t-|te|ప్రకాశింపజేయు|tr=prakaaSiMpajEyu|sc=Telu}}
 * Turkish: {{t+|tr|aydınlatmak}}
-* {{ttbc|vi}}: {{t|vi|chiếu sáng}}, {{t|vi|[[rọi]] [[sáng]]}} <!-- was "[[rọi]] [[sáng]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|vi|soi sáng}}
-* Welsh: {{t|cy|goleuo}}
+* {{ttbc|vi}}: {{t+|vi|chiếu sáng}}, {{tø|vi|[[rọi]] [[sáng]]}} <!-- was "[[rọi]] [[sáng]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+|vi|soi sáng}}
+* Welsh: {{t+|cy|goleuo}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|eo}}: {{qualifier|to light}} {{t|eo|eklumigi}}
-* {{ttbc|gn}}: {{qualifier|1,2}} {{t|gn|myendy}}
+* {{ttbc|eo}}: {{qualifier|to light}} {{t-|eo|eklumigi}}
+* {{ttbc|gn}}: {{qualifier|1,2}} {{t-|gn|myendy}}
 * {{ttbc|hi}}: (jalana)
-* {{ttbc|io}}: {{t|io|acendar}}
-* {{ttbc|id}}: {{qualifier|1}} {{t|id|nyala|alt=menyalakan}} <!-- was "[[nyala|menyalakan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{qualifier|2}} {{t|id|terang|alt=menerangi}} <!-- was "[[terang|menerangi]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
-* {{ttbc|ia}}: {{qualifier|1}} {{t|ia|accender}}, {{qualifier|2}} {{t|ia|illuminar}}
-* {{ttbc|ro}}: {{qualifier|1}} {{t|ro|aprinde}}, {{qualifier|2}} {{t|ro|ilumina}}
-* {{ttbc|tpn}}: {{qualifier|1,2}} {{t|tpn|moendy}}
-* {{ttbc|tl}}: {{t|tl|ilaw}}
+* {{ttbc|io}}: {{t+|io|acendar}}
+* {{ttbc|id}}: {{qualifier|1}} {{t+|id|nyala|alt=menyalakan}} <!-- was "[[nyala|menyalakan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{qualifier|2}} {{t+|id|terang|alt=menerangi}} <!-- was "[[terang|menerangi]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|ia}}: {{qualifier|1}} {{t-|ia|accender}}, {{qualifier|2}} {{t-|ia|illuminar}}
+* {{ttbc|ro}}: {{qualifier|1}} {{t+|ro|aprinde}}, {{qualifier|2}} {{t-|ro|ilumina}}
+* {{ttbc|tpn}}: {{qualifier|1,2}} {{tø|tpn|moendy}}
+* {{ttbc|tl}}: {{t-|tl|ilaw}}
 {{trans-bottom}}
 
 ===Etymology 3===
@@ -577,7 +577,7 @@ From {{etyl|enm|en}} {{term|light|lang=enm}}, {{term|liht|lang=enm}}, {{term|leo
 * Japanese: {{t+|ja|明るい|tr=あかるい, akarui|sc=Jpan}}
 * Kurdish:
 *: Sorani:
-*: Kurmanji: {{t|kmr|ron}}, {{t|kmr|geş}}
+*: Kurmanji: {{t+|kmr|ron}}, {{t+|kmr|geş}}
 *: Sorani: {{t-|ku|ڕوناک|tr=RoonAk|sc=ku-Arab}}
 * Latvian: {{t-|lv|gaišs}}
 {{trans-mid}}
@@ -585,7 +585,7 @@ From {{etyl|enm|en}} {{term|light|lang=enm}}, {{term|liht|lang=enm}}, {{term|leo
 * {{trreq|mk}}
 * Mizo: {{tø|lus|ëng}}
 * Norwegian: {{t+|no|lyst}}, {{t-|no|opplyst}}, {{t-|no|belyst}}
-* Old Prussian: {{t|prg|lāuks}}
+* Old Prussian: {{tø|prg|lāuks}}
 * Polish: {{t-|pl|widny|m}}, {{t+|pl|jasny|m}}, {{t-|pl|świetlny}}, {{t-|pl|świetlisty}}
 * Portuguese: {{t+|pt|iluminado}}
 * Russian: {{t+|ru|светлый|tr=svétlyj}}, {{t+|ru|яркий|tr=járkij}}
@@ -604,9 +604,9 @@ From {{etyl|enm|en}} {{term|light|lang=enm}}, {{term|liht|lang=enm}}, {{term|leo
 {{trans-bottom}}
 
 {{trans-top|pale in colour}}
-* {{ttbc|af}}: {{t|af|lig}}, {{qualifier|pale face}} {{t|af|[[bleek]] [[gesig]]}} <!-- was "[[bleek]] gesig" -->, {{qualifier|light complexion, pale skin}} {{t|af|[[blas]] [[vel]]}} <!-- was "[[blas]] vel" - check if [[WT:IDIOM]], unlink if it is -->
+* {{ttbc|af}}: {{t-|af|lig}}, {{qualifier|pale face}} {{tø|af|[[bleek]] [[gesig]]}} <!-- was "[[bleek]] gesig" -->, {{qualifier|light complexion, pale skin}} {{tø|af|[[blas]] [[vel]]}} <!-- was "[[blas]] vel" - check if [[WT:IDIOM]], unlink if it is -->
 * Armenian: {{t-|hy|սփրթնած|tr=sp‘rt‘nats}}
-* Catalan: {{t|ca|clar}}
+* Catalan: {{t+|ca|clar}}
 * Chinese:
 *: Mandarin: {{t|cmn|浅色|tr=qiǎnsè|sc=Hani}}
 * Czech: {{t+|cs|světlý|m}}
@@ -620,9 +620,9 @@ From {{etyl|enm|en}} {{term|light|lang=enm}}, {{term|liht|lang=enm}}, {{term|leo
 * Hindi: {{t-|hi|हलका|tr=halkā|sc=Deva}}
 * Hungarian: {{t+|hu|világos}}
 * Icelandic: {{t+|is|fölur}}, {{t+|is|ljós}}
-* {{ttbc|it}}: {{t|it|chiaro|m|f}} [[chiara]]
+* {{ttbc|it}}: {{t+|it|chiaro|m|f}} [[chiara]]
 * Kurdish:
-*: {{ttbc|kmr}}: {{t|kmr|geş}}, {{t|kmr|([[rengê]]) [[vebiye]]}}
+*: {{ttbc|kmr}}: {{t+|kmr|geş}}, {{tø|kmr|([[rengê]]) [[vebiye]]}}
 *: Sorani: {{t+|ku|کاڵ|tr=kAL|sc=ku-Arab}}
 {{trans-mid}}
 * Latvian: {{t-|lv|gaišs}}
@@ -630,11 +630,11 @@ From {{etyl|enm|en}} {{term|light|lang=enm}}, {{term|liht|lang=enm}}, {{term|leo
 * Lithuanian: {{t-|lt|šviesus}}
 * Mizo: {{tø|lus|ëng}}
 * Norwegian: {{t+|no|lys}}, {{t+|no|blek}}
-* Polish: {{t|pl|jasny}}
+* Polish: {{t+|pl|jasny}}
 * Portuguese: {{t+|pt|clara|f}}, {{t+|pt|claro|m}}
 * Romansch: {{qualifier|Rumantsch Grischun, Sutsilvan, Surmiran, Puter, Vallader}} {{t-|rm|cler}}, {{qualifier|Sursilvan}} {{t-|rm|clar}}
 * Russian: {{t+|ru|бледный|m|tr=blédnyj}}, {{t+|ru|светлый|tr=svétlyj}}
-* Slovene: {{t|sl|svetel}}
+* Slovene: {{t+|sl|svetel}}
 * Spanish: {{t+|es|claro}}
 * Swahili: {{t+|sw|mwanga}}
 * Swedish: {{t+|sv|blek}}, {{t+|sv|ljus}}
@@ -645,18 +645,18 @@ From {{etyl|enm|en}} {{term|light|lang=enm}}, {{term|liht|lang=enm}}, {{term|leo
 {{trans-bottom}}
 
 {{trans-top|coffee: served with extra milk or cream}}
-* Catalan: {{t|ca|tallat}}
+* Catalan: {{t-|ca|tallat}}
 * Danish: [[med]] {{t+|da|mælk}}, [[med]] {{t+|da|fløde}}, [[med]] {{t+|da|melk}}
 * Dutch: {{qualifier|only as idiom 'koffie verkeerd'}} {{t+|nl|verkeerd}}
-* {{ttbc|fr}}: {{t|fr|[[au]] [[lait]]}} <!-- was "[[au]] [[lait]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
-* {{ttbc|is}}: {{t+|is|með}} {{t+|is|mjólk}}, {{t|is|hvítur|n|alt=hvítt}} <!-- was "[[hvítur|hvítt]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, [[ljós|ljóst]] {{g|n}} {{qualifier|both {{t+|is|hvítur}} and {{t+|is|ljós}} are always neuter because the word "coffie" is neuter}}
+* {{ttbc|fr}}: {{tø|fr|[[au]] [[lait]]}} <!-- was "[[au]] [[lait]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|is}}: {{t+|is|með}} {{t+|is|mjólk}}, {{t+|is|hvítur|n|alt=hvítt}} <!-- was "[[hvítur|hvítt]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, [[ljós|ljóst]] {{g|n}} {{qualifier|both {{t+|is|hvítur}} and {{t+|is|ljós}} are always neuter because the word "coffie" is neuter}}
 {{trans-mid}}
 * Latvian: {{t+|lv|balta|f}}
-* {{ttbc|es}}: {{t|es|[[con]] [[leche]]}} <!-- was "[[con#Spanish|con]] [[leche]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|es}}: {{tø|es|[[con]] [[leche]]}} <!-- was "[[con#Spanish|con]] [[leche]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Swahili: {{t+|sw|mwanga}}
 * Swedish: med {{t+|sv|grädde}}, med {{t+|sv|mjölk}}
 * Telugu: {{t-|te|లైట్|tr=lait|sc=Telu}}
-* {{ttbc|vi}}: {{t+|vi|nhẹ}}, {{qualifier|extra milk}} {{t|vi|[[nhiều]] [[sữa]]}} <!-- was "[[nhiều]] [[sữa]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{qualifier|extra cream}} {{t|vi|nhiều kem}}
+* {{ttbc|vi}}: {{t+|vi|nhẹ}}, {{qualifier|extra milk}} {{tø|vi|[[nhiều]] [[sữa]]}} <!-- was "[[nhiều]] [[sữa]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{qualifier|extra cream}} {{t-|vi|nhiều kem}}
 {{trans-bottom}}
 
 ===Etymology 4===
@@ -709,7 +709,7 @@ From {{etyl|ang|en}} {{term/t|ang|lēoht}}, from {{etyl|gem-pro|en}} {{term/t|ge
 * {{trreq|av}}
 * Belarusian: {{t-|be|лёгкі|tr=ljóhki|sc=Cyrl}}
 * Bulgarian: {{t+|bg|лек|tr=lek|sc=Cyrl}}
-* Catalan: {{t|ca|lleuger}}
+* Catalan: {{t-|ca|lleuger}}
 * {{trreq|ce}}
 * Chinese:
 *: Mandarin: {{t+|cmn|輕|sc=Hani}}, {{t+|cmn|轻|tr=qīng|sc=Hani}}
@@ -732,7 +732,7 @@ From {{etyl|ang|en}} {{term/t|ang|lēoht}}, from {{etyl|gem-pro|en}} {{term/t|ge
 * Italian: {{t+|it|leggero}}
 * Japanese: {{t+|ja|軽い|tr=かるい, karui}}
 * Jèrriais: {{tø|roa-jer|ligi}}
-* Korean: {{t|ko|가볍다|tr=gabyeopda|sc=Kore}}
+* Korean: {{t+|ko|가볍다|tr=gabyeopda|sc=Kore}}
 * Kurdish:
 *: Sorani: {{t|ku|sc=ku-Arab|سووک}}
 {{trans-mid}}
@@ -745,7 +745,7 @@ From {{etyl|ang|en}} {{term/t|ang|lēoht}}, from {{etyl|gem-pro|en}} {{term/t|ge
 * {{trreq|mn}}
 * Norwegian: {{t+|no|lys}}
 * Old Church Slavonic: {{tø|cu|льгъкъ|tr=lĭgŭkŭ|sc=Cyrl}}
-* Old Prussian: {{t|prg|lāngus|m}}
+* Old Prussian: {{tø|prg|lāngus|m}}
 * Ossetian: {{tø|os|рог|sc=Cyrl}}
 * Persian: {{t+|fa|سَبُک|tr=sabok}}
 * Polish: {{t+|pl|lekki}}
@@ -757,7 +757,7 @@ From {{etyl|ang|en}} {{term/t|ang|lēoht}}, from {{etyl|gem-pro|en}} {{term/t|ge
 *: Roman: {{t-|sh|lak}}
 * Slovak: {{t-|sk|ľahký}}
 * Slovene: {{t-|sl|láhek}}
-* Spanish: {{t|es|ligero}}, {{qualifier|formal}} {{t|es|liviano}}
+* Spanish: {{t+|es|ligero}}, {{qualifier|formal}} {{t+|es|liviano}}
 * Swahili: {{t+|sw|wepesi}}
 * Swedish: {{t+|sv|lätt}}
 * Telugu: {{t+|te|తేలిక}} (tElika)
@@ -769,7 +769,7 @@ From {{etyl|ang|en}} {{term/t|ang|lēoht}}, from {{etyl|gem-pro|en}} {{term/t|ge
 * Ukrainian: {{t-|uk|легкий|tr=léhkyj|sc=Cyrl}}
 * Venetian: {{t+|vec|liđier}}, {{t-|vec|ƚixièro}}
 * Vietnamese: {{t+|vi|nhẹ}}, {{t+|vi|nhẹ nhàng}}
-* Welsh: {{t|cy|ysgafn}}
+* Welsh: {{t+|cy|ysgafn}}
 {{trans-bottom}}
 
 {{trans-top|lightly-built}}
@@ -780,30 +780,30 @@ From {{etyl|ang|en}} {{term/t|ang|lēoht}}, from {{etyl|gem-pro|en}} {{term/t|ge
 {{trans-mid}}
 * Swahili: {{t+|sw|mwanga}}
 * Telugu: {{t-|te|తేలికైన నిర్మాణము|tr=telikaina nirmanamu|sc=Telu}}
-* Vietnamese: {{t|vi|nhẹ}}, {{qualifier|indicates speed due to lightness}} {{t|vi|nhanh nhẹn}}
+* Vietnamese: {{t+|vi|nhẹ}}, {{qualifier|indicates speed due to lightness}} {{t+|vi|nhanh nhẹn}}
 {{trans-bottom}}
 
 {{trans-top|low in fat, calories, alcohol, salt, etc.}}
-* {{ttbc|ca}}: {{t|ca|lleuger}}, {{t|ca|light}}<!-- looks like this was supposed to be a link, but please check -->
+* {{ttbc|ca}}: {{t-|ca|lleuger}}, {{t+|ca|light}}<!-- looks like this was supposed to be a link, but please check -->
 * Danish: {{t-|da|kalorielet}}
 * Dutch: {{t+|nl|licht}}
-* Finnish: {{qualifier|in compounds}} {{t|fi|kevyt-}}
+* Finnish: {{qualifier|in compounds}} {{t-|fi|kevyt-}}
 * French: {{t+|fr|léger}}
 * German: {{t+|de|leicht}}
 * Hebrew: {{t-|he|דיאטתי|m|tr=diatéti}}, {{t-|he|דיאטתית|f|tr=diatétit}}, {{t+|he|קל|m|tr=kál}}, {{t-|he|קלה|f|tr=kaláh}}
 * Icelandic: {{t-|is|fitulítill|m}}, {{t-|is|fituskertur|m}}, {{t-|is|fitusnauður|m}}
-* {{ttbc|it}}: {{t|it|leggero|m}}, {{t|it|leggera|f}}
+* {{ttbc|it}}: {{t+|it|leggero|m}}, {{t-|it|leggera|f}}
 {{trans-mid}}
 * Jèrriais: {{tø|roa-jer|ligi}}
 * Norwegian: {{t+|no|lett}}-
 * Persian: {{t+|fa|سبک|tr=sabok|sc=fa-Arab}}
-* Polish: {{t|pl|lekki}}
+* Polish: {{t+|pl|lekki}}
 * Spanish: {{t+|es|ligero}}
 * Swahili: {{t+|sw|mwanga}}
 * Swedish: {{t+|sv|lätt}}-
-* Turkish: {{t|tr|hafif}}
-* Vietnamese: {{qualifier|low in alcohol}} {{t|vi|nhẹ}}
-* Welsh: {{t|cy|ysgafn}}
+* Turkish: {{t+|tr|hafif}}
+* Vietnamese: {{qualifier|low in alcohol}} {{t+|vi|nhẹ}}
+* Welsh: {{t+|cy|ysgafn}}
 {{trans-bottom}}
 
 {{trans-top|having little force or momentum}}
@@ -815,7 +815,7 @@ From {{etyl|ang|en}} {{term/t|ang|lēoht}}, from {{etyl|gem-pro|en}} {{term/t|ge
 
 {{trans-top|of little significance}}
 * Danish: {{t-|da|banal}}, {{t-|da|triviel}}
-* Dutch: {{t|nl|onbelangrijk}}, {{t|nl|triviaal}}
+* Dutch: {{t+|nl|onbelangrijk}}, {{t+|nl|triviaal}}
 * French: {{t+|fr|léger}}, {{t-|fr|sans importance}}
 * Norwegian: {{t+|no|banal}}, {{t+|no|enkel}}
 * Polish: {{t+|pl|błahy|m}}
@@ -824,19 +824,19 @@ From {{etyl|ang|en}} {{term/t|ang|lēoht}}, from {{etyl|gem-pro|en}} {{term/t|ge
 * Swahili: {{t+|sw|mwanga}}
 * Telugu: {{t-|te|స్వల్ప సంకేతం|tr=svalpa samketam|sc=Telu}}
 * Vietnamese: {{t+|vi|tầm thường}}
-* Welsh: {{t|cy|disylw}}, {{t|cy|dibwys}}, {{t|cy|ysgafn}}
+* Welsh: {{t+|cy|disylw}}, {{t+|cy|dibwys}}, {{t+|cy|ysgafn}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|crh}}: {{t|crh|yarıq}}
-* {{ttbc|gn}}: {{t|gn|vevúi}}
-* {{ttbc|io}}: {{t|io|lejera}}
-* {{ttbc|id}}: {{t|id|ringan}}
-* {{ttbc|ia}}: {{t|ia|leve}}, {{t|ia|legier}}
-* {{ttbc|jv}}: {{t|jv|enteng}}
-* {{ttbc|lt}}: {{qualifier|1}} {{t|lt|lengvas|m}}, {{qualifier|2}} {{t|lt|šviesus|m}}
-* {{ttbc|ro}}: {{t|ro|ușor|m}}, {{t|ro|ușoară|f}}
-* {{ttbc|tpn}}: {{t|tpn|bebuîa}}
+* {{ttbc|crh}}: {{tø|crh|yarıq}}
+* {{ttbc|gn}}: {{t+|gn|vevúi}}
+* {{ttbc|io}}: {{t+|io|lejera}}
+* {{ttbc|id}}: {{t+|id|ringan}}
+* {{ttbc|ia}}: {{t-|ia|leve}}, {{t-|ia|legier}}
+* {{ttbc|jv}}: {{t-|jv|enteng}}
+* {{ttbc|lt}}: {{qualifier|1}} {{t+|lt|lengvas|m}}, {{qualifier|2}} {{t-|lt|šviesus|m}}
+* {{ttbc|ro}}: {{t-|ro|ușor|m}}, {{t-|ro|ușoară|f}}
+* {{ttbc|tpn}}: {{tø|tpn|bebuîa}}
 {{trans-bottom}}
 
 ====Adverb====
@@ -892,7 +892,7 @@ From {{etyl|ang|en}} {{term/t|ang|lēoht}}, from {{etyl|gem-pro|en}} {{term/t|ge
 {{trans-top|find by chance}}
 * Swahili: {{t+|sw|mwanga}}
 {{trans-mid}}
-* {{ttbc|vi}}: {{t|vi|[[tình cờ]] [[gặp]]}} <!-- was "[[tình cờ]] [[gặp]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|vi}}: {{tø|vi|[[tình cờ]] [[gặp]]}} <!-- was "[[tình cờ]] [[gặp]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-bottom}}
 
 {{trans-top|alight}}
