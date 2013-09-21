@@ -304,7 +304,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|in||lang=ang}}, from {{etyl|ge
 * {{ttbc|eu}}: {{qualifier|[[locative]]}} {{t-|eu|-an}}
 * {{ttbc|bg}}: {{t+|bg|в|tr=v}}
 * {{ttbc|ca}}: {{qualifier|1,2}} {{t+|ca|a}}, {{qualifier|3,4}} {{t+|ca|en}}
-* {{ttbc|kw}}: [[yn]], y'n {{qualifier|with definite article}} (1,4); [[a-berth]], [[a-ji]] [[dhe]] (2); [[yn-mysk]], [[a]] (3)
+* {{ttbc|kw}}: {{t|kw|yn}}, {{qualifier|with definite article; 1,4}} {{t|kw|y|alt=y'n}}, {{t|kw|a-berth}}, {{qualifier|2}} {{t|kw|[[a-ji]] [[dhe]]}} <!-- was "[[a-ji]] [[dhe]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|kw|yn-mysk}}, {{qualifier|3}} {{t|kw|a}}
 * {{ttbc|da}}: {{qualifier|1,4}} {{t+|da|i}}, {{qualifier|2}} {{t-|da|inden i}}, {{qualifier|3}} {{t+|da|af}}
 * {{ttbc|dbl}}: {{tø|dbl|-ŋga}}, {{tø|dbl|-ga}}, {{tø|dbl|-ɽa}} ''([[locative]])''
 * {{ttbc|eo}}: {{t+|eo|en}}
@@ -318,10 +318,10 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|in||lang=ang}}, from {{etyl|ge
 * {{ttbc|id}}: {{t+|id|di}}
 * {{ttbc|ia}}: {{t-|ia|in}}
 * {{ttbc|it}}: {{t+|it|in}}
-* {{ttbc|ja}}: [[に]] (ni), の[[中]]に ([[のなかに]], no náka ni), [[で]] (de)
+* {{ttbc|ja}}: {{t|ja|に|tr=ni|sc=Jpan}}, {{t|ja|中|tr=[[のなかに]], no náka ni|alt=の中に|sc=Jpan}} <!-- was "の[[中]]に" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|ja|で|tr=de|sc=Jpan}}
 {{trans-mid}}
 * {{ttbc|km}}: {{t+|km|ក្នុង|tr=knong|sc=Khmr}}
-* {{ttbc|ko}}: -의 [[안에]] (-ui ane)
+* {{ttbc|ko}}: {{t|ko|안에|tr=-ui ane|alt=-의 안에|sc=Kore}} <!-- was "-의 [[안에]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * {{ttbc|mt}}: {{t-|mt|fi}}, {{t-|mt|ġo}}
 * {{ttbc|nov}}: {{tø|nov|in}}
 * {{ttbc|ps}}: {{t+|ps|په|tr=pe|sc=ps-Arab}}
@@ -408,7 +408,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|in||lang=ang}}, from {{etyl|ge
 * Persian: {{t+|fa|تو|tr=tō}}, {{t+|fa|درون|tr=darōn}}
 * Scots: {{tø|sco|in}}
 * Scottish Gaelic: {{t-|gd|a-steach}}
-* Spanish: [[hacia adentro]]
+* Spanish: {{t|es|hacia adentro}}
 {{trans-bottom}}
 
 {{trans-top|still able to play}}
@@ -420,15 +420,15 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|in||lang=ang}}, from {{etyl|ge
 {{trans-bottom}}
 
 {{checktrans-top}}
-* [[Catalan]]: [[dins]], [[a dins]]
-* [[Cornish]]:
-*: Kernewek Kemmyn: [[yn]] [[chi]], [[yn]] [[tre]] (1); [[a-bervedh]], [[a-ji]] (2)
-* Greek: [[μέσα]] (mésa)
+* {{ttbc|ca}}: {{t|ca|dins}}, {{t|ca|a dins}}
+* {{ttbc|kw}}:
+*: {{ttbc|Kernewek Kemmyn}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: [[yn]] [[chi]], [[yn]] [[tre]] (1); [[a-bervedh]], [[a-ji]] (2)
+* {{ttbc|el}}: {{t|el|μέσα|tr=mésa|sc=Grek}}
 {{trans-mid}}
-* Hindi: [[भीतर]] (bhītar)
-* Hungarian: [[bent]] (1), [[benn]] (1), [[be]] (2)
-* Korean: [[안에]] (ane)
-* [[Novial]]: [[inu]]
+* {{ttbc|hi}}: {{t|hi|भीतर|tr=bhītar|sc=Deva}}
+* {{ttbc|hu}}: {{qualifier|1}} {{t|hu|bent}}, {{qualifier|1}} {{t|hu|benn}}, {{qualifier|2}} {{t|hu|be}}
+* {{ttbc|ko}}: {{t|ko|안에|tr=ane|sc=Kore}}
+* {{ttbc|nov}}: {{t|nov|inu}}
 {{trans-bottom}}
 
 ====Noun====
