@@ -342,7 +342,7 @@ From {{etyl|enm|en}} {{term|sound|lang=enm}}, {{term|sund|lang=enm}}, {{term|isu
 #: ''When the horn '''sounds''', take cover.''
 # {{context|intransitive|copulative|lang=en}} To convey an impression by one's sound.
 #: ''He '''sounded''' good when we last spoke.''
-# {{context|intransitive|legal|lang=en}} To [[arise]] or to be recognizable as arising within a particular area of law.
+# {{context|intransitive|legal|lang=en}} Often with "in"; to [[arise]] or to be recognizable as arising within a particular area of law.
 #* {{quote-book|year=1999|author=Supreme Court of the United States|title=City of Monterey v. Del Monte Dunes at Montery, Ltd. et al.|url=http://www.law.cornell.edu/supct/html/97-1235.ZS.html|passage=[T]here can be no doubt that claims brought pursuant to § 1983 '''sound''' in tort.}}
 # {{context|transitive|lang=en}} To cause to produce a sound.
 #: ''He '''sounds''' the instrument.''
@@ -425,7 +425,7 @@ From {{etyl|enm|en}} {{term|sound|lang=enm}}, {{term|sund|lang=enm}}, {{term|isu
 * Danish: {{t-|da|lyde}}
 * Dutch: {{t+|nl|klinken}}, {{t-|nl|geluid maken}}, {{t-|nl|toon voortbrengen}}
 * Esperanto: {{t-|eo|soni}}
-* {{ttbc|fi}}: {{t+|fi|soida}}, {{t+|fi|äännähtää}}, {{tø|fi|[[tuottaa]] [[ääni|ääntä]]}} <!-- was "[[tuottaa]] [[ääni|ääntä]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-|fi|kajahtaa}}, {{t+|fi|kuulostaa}}
+* Finnish: {{t+|fi|soida}}, {{t+|fi|äännähtää}}, {{tø|fi|[[päästää]] [[ääni]]}}, {{t-|fi|kajahtaa}}, {{t|fi|törähtää}}
 * French: {{t+|fr|sonner}}
 * Friulian: {{tø|fur|sunâ}}
 * German: {{t+|de|klingen}}, {{t-|de|erklingen}}
@@ -455,36 +455,39 @@ From {{etyl|enm|en}} {{term|sound|lang=enm}}, {{term|sund|lang=enm}}, {{term|isu
 * Tupinambá: {{tø|tpn|pu}}
 {{trans-bottom}}
 
-{{trans-top|to state or utter, especially with deliberation; to repeat}}
-* Danish: {{t+|da|udtale}}
-* Finnish: {{t-|fi|painottaa}}
+{{trans-top|to convey an impression by one's sound}}
+* Finnish: {{t|fi|kuulostaa}}
 {{trans-mid}}
-* French: {{t+|fr|exprimer}}
 {{trans-bottom}}
 
+{{trans-top|law: to arise}}
+* Finnish: {{t|fi|perustua}}
+* Japanese: {{t-|ja|関係する|tr=kankē suru}}
+{{trans-mid}}
+{{trans-bottom}}
+
+# {{context|transitive|lang=en}} To cause to produce a sound.
+#: ''He '''sounds''' the instrument.''
 {{trans-top|to cause to produce a sound}}
 * Czech: {{t-|cs|rozeznít}}, {{t-|cs|rozezvučet}}
 * Danish: {{t+|da|lade}} {{t-|da|lyde}}
-* {{ttbc|fi}}: {{t+|fi|soittaa}}, {{tø|fi|[[tuottaa]] [[ääni|ääntä]]}} <!-- was "[[tuottaa]] [[ääni|ääntä]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Finnish: {{t+|fi|soittaa}}
 {{trans-mid}}
 * Japanese: {{t-|ja|鳴らす|tr=narasu}}
 * {{ttbc|ko}}: {{tø|ko|[[소리]]를 [[내다]]|tr=sorireul naeda|sc=Kore}} <!-- was "[[소리]]를 [[내다]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Telugu: {{t-|te|మోగించు}} (mOginchu), {{t+|te|ధ్వనించు}} (dhvaninchu)
 {{trans-bottom}}
 
-{{trans-top|law: to arise}}
-* Japanese: {{t-|ja|関係する|tr=kankē suru}}
-{{trans-mid}}
-{{trans-bottom}}
-
 {{trans-top|to pronounce}}
 * Czech: {{t-|cs|vyslovovat}}
-* Finnish: {{t+|fi|lausua}}
+* Finnish: {{t+|fi|ääntää}}, {{t|fi|lausua}}
 {{trans-mid}}
 * French: {{t+|fr|prononcer}}
 {{trans-bottom}}
 
 {{checktrans-top}}
+* Danish: {{t+|da|udtale}} <--! Was under "to state or utter, especially with deliberation; to repeat" -->
+* French: {{t+|fr|exprimer}} <--! Was under "to state or utter, especially with deliberation; to repeat" -->
 * {{ttbc|es}}: {{t-|es|sondear}}
 {{trans-bottom}}
 
