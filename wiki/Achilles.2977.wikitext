@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|la|en}} {{term|Achilles|lang=la}}, from {{etyl|grc|en}} {{term|Ἀχιλλεύς|tr=Akhilleus|lang=grc|sc=polytonic}}.
+{{borrowing|la|Achilles|lang=en}}, from {{etyl|grc|en}} {{term|Ἀχιλλεύς|lang=grc}}.
 
 ===Pronunciation=== 
 * {{IPA|/əˈkɪliːz/|lang=en}} 
@@ -15,14 +15,14 @@ From {{etyl|la|en}} {{term|Achilles|lang=la}}, from {{etyl|grc|en}} {{term|Ἀχ
 
 ====Translations====
 {{trans-top|Greek mythical hero}}
-* Arabic: {{t-|ar|أخيل|m|tr='akhiil|sc=Arab}}
-* Armenian: {{t-|hy|Աքիլլես|tr=Ak’illes}}
-*: Old Armenian: {{tø|xcl|Աքիլլէս|tr=Akʿillēs|sc=Armn}}
+* Arabic: {{t-|ar|أخيل|m|tr='akhiil}}
+* Armenian: {{t-|hy|Աքիլլես}}
+*: Old Armenian: {{tø|xcl|Աքիլլէս}}
 * Basque: {{t-|eu|Akil}}
-* Bulgarian: [[Ахил]], [[Ахилес]]
+* Bulgarian: {{t|bg|Ахил}}, {{t|bg|Ахилес}}
 * Catalan: {{t-|ca|Aquil·les|m}}
 * Chinese:
-*: Mandarin: {{t|cmn|阿喀琉斯|tr=Ākāliúsī|sc=Hani}}, {{t|cmn|阿基里斯|tr=Ājīlǐsī|sc=Hani}}
+*: Mandarin: {{t|cmn|阿喀琉斯|tr=Ākāliúsī}}, {{t|cmn|阿基里斯|tr=Ājīlǐsī}}
 * Czech: {{t-|cs|Achilleus|m}}
 * Danish: {{t-|da|Achilleus}}
 * Dutch: {{t+|nl|Achilles}}
@@ -30,31 +30,31 @@ From {{etyl|la|en}} {{term|Achilles|lang=la}}, from {{etyl|grc|en}} {{term|Ἀχ
 * Estonian: {{t-|et|Achilleus}}
 * Finnish: {{t-|fi|Akhilleus}}, {{t-|fi|Akilles}}
 * French: {{t+|fr|Achille|m}}
-* Georgian: {{t-|ka|აქილევსი|tr=ak'ilevsi|sc=Geor}}
+* Georgian: {{t-|ka|აქილევსი}}
 * German: {{t+|de|Achilleus|m}}
-* Greek: {{t+|el|Αχιλλέας|m|tr=Achilléas}}
-*: Ancient: {{tø|grc|Ἀχιλλεύς|m|tr=Achilleus}}
+* Greek: {{t+|el|Αχιλλέας|m}}
+*: Ancient: {{tø|grc|Ἀχιλλεύς|m}}
 * Greenlandic: {{t-|kl|Achilleusi}}
 {{trans-mid}}
 * Hebrew: {{t-|he|אכילס|tr=Ahils}}
 * Hungarian: {{t+|hu|Akhilleusz}}
 * Indonesian: {{t-|id|Achilles}}
-* Interlingua: Achilles
+* Interlingua: {{t|ia|Achilles}}
 * Inuktitut: {{t|iu|ᐊᑭᓪᓕᔅ|tr=Akillis|sc=Cans}}
 * Italian: {{t+|it|Achille}}
 * Japanese: {{t-|ja|アキレス|tr=Akiresu}}, {{t-|ja|アキレウス|tr=Akireusu}}
 * Korean: {{t-|ko|아킬레스|tr=Akilleseu|sc=Kore}}
 * Latin: {{t+|la|Achillēs}}
-* Latvian: [[Achilas]]
+* Latvian: {{t|lv|Achilas}}
 * Polish: {{t+|pl|Achilles|m}}
 * Portuguese: {{t+|pt|Aquiles}}
-* Russian: {{t+|ru|Ахилл|m|tr=Axíll}}, {{t+|ru|Ахиллес|m|tr=Axillés}}
+* Russian: {{t+|ru|Ахилл|m}}, {{t+|ru|Ахиллес|m}}
 * Serbo-Croatian: {{t-|sh|Ahil|m}}, {{t-|sh|Ahilej|m}}
 * Slovene: {{t-|sl|Ahíl|m}}
 * Spanish: {{t+|es|Aquiles|m}}
 * Swedish: {{t-|sv|Akilles}}, {{t-|sv|Achilles}}
 * Turkish: {{t-|tr|Aşil}}
-* Ukrainian: {{t-|uk|Ахіллес|m|tr=Axillés|sc=Cyrl}}
+* Ukrainian: {{t-|uk|Ахіллес|m}}
 {{trans-bottom}}
 
 ====Derived terms====
@@ -75,13 +75,13 @@ From {{etyl|la|en}} {{term|Achilles|lang=la}}, from {{etyl|grc|en}} {{term|Ἀχ
 ==Latin==
 
 ===Etymology===
-From {{etyl|grc|la}} {{term|Ἀχιλλεύς|tr=Akhilleus|lang=grc|sc=polytonic}}.
+{{borrowing|grc|Ἀχιλλεύς|lang=la}}.
 
 ===Pronunciation===
 * {{audio|La-ecc-Achilles.ogg|audio (ecclesiastical)}}
 
 ===Alternative forms===
-* [[Achilleus|Achillēūs]]
+* {{l/la|Achillēūs}}
 
 ===Proper noun===
 {{la-proper noun|Achilles|Achillis|Achillis|m|third}}
@@ -92,8 +92,8 @@ From {{etyl|grc|la}} {{term|Ἀχιλλεύς|tr=Akhilleus|lang=grc|sc=polytonic
 {{la-decl-3rd|Achilles|Achill}}
 
 ====Derived terms====
-* [[Achilleus|Achillēus]]
-* [[Achillides|Achillīdes]]
+* {{l/la|Achillēus}}
+* {{l/la|Achillīdes}}
 
 ===References===
 {{R:Cassells}}
