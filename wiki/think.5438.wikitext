@@ -83,7 +83,7 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 * Dutch: {{t+|nl|denken}}, {{t+|nl|nadenken}}, {{t+|nl|peinzen}}
 * Finnish: {{t+|fi|miettiä}}, {{t+|fi|harkita}}, {{t+|fi|kelata}}
 * French: {{t+|fr|réfléchir}} à,  {{t+|fr|ruminer}},  {{t+|fr|penser}}
-* Georgian: {{t|ka|ფიქრი|tr=p'ik'ri|sc=Geor}}, {{t|ka|მოფიქრება|tr=mop'ik'reba|sc=Geor}}
+* Georgian: {{t|ka|ფიქრი|sc=Geor}}, {{t|ka|მოფიქრება|sc=Geor}}
 * German: {{t+|de|nachdenken}},  {{t+|de|überlegen}}
 * Greek: {{t+|el|σκέφτομαι|tr=skéftomai|sc=Grek}}
 * Hawaiian: {{t|haw|noʻonoʻo}}
@@ -106,7 +106,7 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 * Portuguese: {{t+|pt|pensar}}
 * Quechua: {{t+|qu|yuyay}}
 * Rapa Nui: {{t|rap|mana'u}}
-* Russian: {{t+|ru|обдумывать|tr=obdúmyvatʹ}} {{impf}}, {{t+|ru|обдумать|tr=obdúmatʹ}} {{pf.}}
+* Russian: {{t+|ru|обдумывать|impf}}, {{t+|ru|обдумать|pf}}
 * Scottish Gaelic: {{t|gd|smaoinich}}
 * Swedish: {{t|sv|tänka över}}
 * Tok Pisin: {{t|tpi|tingting}}
@@ -120,11 +120,11 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 * American Sign Language: {{t|ase|1@NearSfhead-PalmDown 1@Sfhead-PalmDown}}
 * Arabic: {{t+|ar|فكر|tr=fákkara|sc=Arab}}, imperfect: {{t|ar|يفكر|tr=yufákkiru|sc=Arab}}, {{t|ar|ظن|tr=ẓánna|sc=Arab}}, imperfect: {{t|ar|يظن|tr=yaẓunnu|sc=Arab}}
 * Aramaic:
-*: [[Syriac]]: {{t|syc|ܚܫܒ|tr=ḥŝab|sc=Syrc}}
-* Armenian: {{t|hy|մտածել|tr=mtaçel}}, {{t|hy|խորհել|tr=xorhel}}
+*: Syriac: {{t|syc|ܚܫܒ|tr=ḥŝab|sc=Syrc}}
+* Armenian: {{t|hy|մտածել}}, {{t|hy|խորհել}}
 * Aromanian: {{t|rup|minduescu}}
 * Azeri: {{t+|az|düşünmək}}
-* Belarusian: {{t|be|думаць|tr=dúmacʹ|sc=Cyrl}} {{impf}}, {{t|be|падумаць|tr=padúmac’|sc=Cyrl}} {{pf.}}; {{t|be|мысліць|tr=mýslicʹ|sc=Cyrl}} {{impf}}, {{t|be|памысліць|tr=pamýslicʹ|sc=Cyrl}} {{pf.}}
+* Belarusian: {{t|be|думаць|impf}}, {{t|be|падумаць|pf}}; {{t|be|мысліць|impf}}, {{t|be|памысліць|pf}}
 * Bengali: {{t|bn|ভাবা|tr=bhaba|sc=Beng}}
 * Bulgarian: {{t+|bg|мисля|tr=míslja|sc=Cyrl}}
 * Burmese: {{t+|my|တွေး|tr=twe:|sc=Mymr}}, {{t+|my|စဉ်းစား|tr=sin:za:|sc=Mymr}}
@@ -140,7 +140,7 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 * Finnish: {{t+|fi|ajatella}}
 * French: {{t+|fr|penser}} à, {{t+|fr|réfléchir}} à,  {{t+|fr|songer}} à
 * Galician: {{t+|gl|pensar}}
-* Georgian: {{t|ka|ფიქრი|tr=p'ik'ri|sc=Geor}}
+* Georgian: {{t|ka|ფიქრი|sc=Geor}}
 * German: {{t+|de|denken}}
 * Greek: {{t+|el|σκέφτομαι|tr=skéftomai|sc=Grek}}
 * Hawaiian: {{t|haw|noʻonoʻo}}
@@ -156,7 +156,7 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 * Kazakh: {{t+|kk|ойлау|tr=oylaw|sc=Cyrl}}
 * Khmer: {{t+|km|យល់|tr=yʊəl|sc=Khmr}}
 * Korean: {{t+|ko|생각하다|tr=saenggak-hada|sc=Kore}}
-* Kurdish: [[fikirîn]], [[hizirîn]], [[ramîn]], [[pûnijîn]], {{t|ku|بیرکردن}}
+* Kurdish: {{t|ku|fikirîn}}, {{t|ku|hizirîn}}, {{t|ku|ramîn}}, {{t|ku|pûnijîn}}, {{t|ku|بیرکردن|sc=Arab}}
 {{trans-mid}}
 * Kyrgyz: {{t|ky|ойлоо|tr=oyloo|sc=Cyrl}}
 * Lao: {{t|lo|ຄຶດ|tr=kʰɨ̄t|sc=Laoo}}
@@ -165,7 +165,6 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 * Latvian: {{t+|lv|domāt}}
 * Lithuanian: {{t+|lt|galvoti}}
 * Lojban: {{t+|jbo|pensi}}
-* Lower Sorbian: [[mysliś]]
 * Macedonian: {{t|mk|мисли|tr=mísli|sc=Cyrl}}
 * Malay: {{t|ms|fikir}}
 * Maltese: {{t|mt|ħaseb}}
@@ -174,18 +173,21 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 * Navajo: {{t|nv|nitsékees}}
 * Norwegian: {{t+|no|tenke}}, {{t+|no|resonnere}}
 * Persian: {{t+|fa|فکر کردن|tr=fekr kardan|sc=fa-Arab}}
-* Polish: {{t+|pl|myśleć}} {{impf}}, {{t+|pl|pomyśleć}} {{pf.}}
+* Polish: {{t+|pl|myśleć|impf}}, {{t+|pl|pomyśleć|pf}}
 * Portuguese: {{t+|pt|pensar}}, {{t+|pt|refletir}}
 * Romanian: {{t+|ro|gândi}}, {{t+|ro|cugeta}}
 * Romansch: {{t|rm|pensar}}
-* Russian: {{t+|ru|думать|tr=dúmatʹ}} {{impf}}, {{t+|ru|подумать|tr=podúmatʹ}} {{pf.}}; {{t+|ru|мыслить|tr=mýslit'}} {{impf}}
-* Scottish Gaelic: [[smaoinich]], {{t|gd|saoil}}, {{t|gd|saoil}}
+* Russian: {{t+|ru|думать|impf}}, {{t+|ru|подумать|pf}}; {{t+|ru|мыслить|impf}}
+* Scottish Gaelic: {{t|gd|smaoinich}}, {{t|gd|saoil}}, {{t|gd|saoil}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|мислити|sc=Cyrl}}
 *: Roman: {{t|sh|misliti}}
 * Sinhalese: {{t|si|හිතනවා|tr=hitanavā|sc=Sinh}}
 * Slovak: {{t|sk|myslieť}}
 * Slovene: {{t|sl|mísliti}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|mysliś|impf}}
+*: Upper Sorbian: {{t|hsb|myslić|impf}}
 * Spanish: {{t+|es|pensar}}
 * Swedish: {{t+|sv|tänka}}
 * Tai Dam: {{t|blt|ngắm|sc=Tavt}}
@@ -209,7 +211,7 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 * Danish: {{t|da|tænke}}
 * Dutch: {{t+|nl|achten}}, {{t+|nl|zien}}, {{t+|nl|beschouwen}}
 * French: {{t+|fr|trouver}}, {{t+|fr|considérer}} (comme), {{t+|fr|voir}} (comme)
-* Georgian: {{t|ka|ჩაფიქრება|sc=Geor|tr=č'ap'ik'reba}}
+* Georgian: {{t|ka|ჩაფიქრება|sc=Geor}}
 * Greek: {{t+|el|θεωρώ|tr=theoró|sc=Grek}}
 * Hawaiian: {{t|haw|manaʻo}}
 * Irish: {{t|ga|smaoinigh}}
@@ -218,7 +220,7 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 * Macedonian: {{t|mk|смета|tr=sméta|sc=Cyrl}}
 * Norwegian: {{t|no|komme på}}
 * Romanian: {{t|ro|considera}}
-* Russian: {{t+|ru|считать|tr=sčitátʹ}} {{impf}}, {{t+|ru|посчитать|tr=posčitátʹ}} {{pf.}}; {{t+|ru|мыслить|tr=mýslit'}} {{impf}}
+* Russian: {{t+|ru|считать|impf}}, {{t+|ru|посчитать|pf}}; {{t+|ru|мыслить|impf}}
 * Scottish Gaelic: {{t|gd|smaoinich}}
 * Vietnamese: {{t+|vi|thấy}}
 {{trans-bottom}}
@@ -226,17 +228,17 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 {{trans-top|be of the opinion that}}
 * American Sign Language: {{t|ase|1@NearSfhead-PalmDown 1@Sfhead-PalmDown}}
 * Arabic: {{t|ar|ظن|tr=ẓánna|sc=Arab}}, imperfect: {{t|ar|يظن|tr=yaẓunnu|sc=Arab}},  {{t|ar|اعتقد|tr=iʿtáqada}}, imperfect: {{t|ar|يعتقد|tr=yaʿtáqidu|sc=Arab}}
-* Armenian: {{t|hy|կարծել|tr=karçel}}, {{t|hy|մտածել|tr=mtaçel}}
+* Armenian: {{t|hy|կարծել}}, {{t|hy|մտածել}}
 * Burmese: {{t+|my|ထင်|tr=htin|sc=Mymr}}
 * Chinese:
 *: Mandarin: {{t|cmn|認為|sc=Hani}}, {{t+|cmn|认为|tr=rènwéi|sc=Hani}}
 * Czech: {{t+|cs|myslet}}
 * Danish: {{t|da|mene}},  {{t|da|tænke}},  {{t|da|tro}},  {{t+|da|synes}}
 * Dutch: {{t+|nl|vinden}}, {{t+|nl|denken}}, {{t|nl|van mening zijn}}
-* Finnish: [[luulla]], [[olla]] [[mielipiteenä]]
+* Finnish: {{t|fi|luulla}}, {{t|fi|[[olla]] [[mielipiteenä]]}}
 * French: {{t+|fr|penser}},  {{t+|fr|considérer}},  {{t|fr|être d'avis}}, {{t+|fr|estimer}},  {{t+|fr|croire}}
-* Georgian: {{t|ka|ფიქრობს|sc=Geor|tr=p'ik'robs}}
-* German: [[denken]], [[finden]] {{qualifier|esp. Switzerland}}, {{t+|de|meinen}}
+* Georgian: {{t|ka|ფიქრობს|sc=Geor}}
+* German: {{t|de|denken}}, {{t|de|finden}} {{qualifier|esp. Switzerland}}, {{t+|de|meinen}}
 * Greek: {{t+|el|νομίζω|tr=nomízo|sc=Grek}}
 * Hawaiian: {{t|haw|manaʻo}}
 * Hindi: {{t|hi|सोचना|tr=socnā}}
@@ -247,10 +249,9 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 * Jèrriais: {{t|roa-jer|penser}}
 * Khmer: {{t|km|សំដែងមតិ|tr=sɑmdaeng mate’|sc=Khmr}}, {{t|km|គិតឃើញ|tr=kɨt kʰəəñ|sc=Khmr}}, {{t|km|ឲ្យយោបល់|tr=aoy yoobɑl|sc=Khmr}}
 {{trans-mid}}
-* Kurdish: [[bawer]] kirin, [[texmîn]] kirin, [[fikirîn]], [[hizirîn]], [[pûnijîn]], [[ramîn]]
+* Kurdish: {{t|ku|[[bawer]] [[kirin]]}}, {{t|ku|[[texmîn]] [[kirin]]}}, {{t|ku|fikirîn}}, {{t|ku|hizirîn}}, {{t|ku|pûnijîn}}, {{t|ku|ramîn}}
 * Latin: {{t|la|opinor}}, {{t|la|censeo}}
 * Lojban: {{t|jbo|jinvi}}
-* Lower Sorbian: [[mysliś]]
 * Macedonian: {{t|mk|мисли|tr=mísli|sc=Cyrl}}
 * Middle French: {{t|frm|croyre}}
 * Mizo: {{t|lus|ring}}, {{t|lus|nia ngai}}
@@ -264,6 +265,9 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|мислити|sc=Cyrl}}
 *: Roman: {{t|sh|misliti}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|mysliś|impf}}
+*: Upper Sorbian: {{t|hsb|myslić|impf}}
 * Spanish: {{t+|es|pensar}}, {{t+|es|creer}}, {{t+|es|opinar}}
 * Swedish: {{t+|sv|tycka}}, {{t+|sv|anse}}, {{t+|sv|mena}}
 * Tok Pisin: {{t|tpi|tingting}}
@@ -273,7 +277,7 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 
 {{trans-top|guess, reckon}}
 * American Sign Language: {{t|ase|1@NearSfhead-PalmDown 1@Sfhead-PalmDown}}
-* Armenian: {{t|hy|կարծել|tr=karçel}}, {{t|hy|մտածել|tr=mtaçel}}
+* Armenian: {{t|hy|կարծել}}, {{t|hy|մտածել}}
 * Catalan: {{t+|ca|pensar}}
 * Chinese:
 *: Mandarin: {{t+|cmn|想|tr=xiǎng|sc=Hani}}
@@ -293,7 +297,6 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 {{trans-mid}}
 * Khmer: {{t+|km|គន់គូរ|tr=kʊən kuu|sc=Khmr}}
 * Latin: {{t+|la|cogito}}
-* Lower Sorbian: [[mysliś]]
 * Macedonian: {{t|mk|мисли|tr=mísli|sc=Cyrl}}
 * Norwegian: {{t+|no|tro}}, {{t+|no|anta}}
 * Persian: {{t+|fa|فکر کردن|tr=fekr kardan|sc=fa-Arab}}
@@ -305,53 +308,58 @@ From {{etyl|enm|en}} {{term|thinken|lang=enm}}, {{term|thynken|lang=enm}}, {{ter
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|мислити|sc=Cyrl}}
 *: Roman: {{t|sh|misliti}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|mysliś|impf}}
+*: Upper Sorbian: {{t|hsb|myslić|impf}}
 * Spanish: {{t+|es|suponer}}, {{t+|es|pensar}}
 * Swedish: {{t+|sv|tro}}
-* Telugu: [[ఊహించు]] (oohinchu)
+* Telugu: {{t|te|ఊహించు|tr=oohinchu}}
 {{trans-bottom}}
 
 {{trans-top|consider, judge, regard something as}}
-* Armenian: {{t|hy|կարծել|tr=karçel}}
-* Czech: [[mít]] za, [[považovat]] za
+* Armenian: {{t|hy|կարծել}}
+* Czech: {{t|cs|[[mít]] [[za]]}}, {{t|cs|[[považovat]] [[za]]}}
 * Danish: {{t+|da|synes}},  {{t|da|mene}}
 * Dutch: {{t+|nl|vinden}}, {{t+|nl|beschouwen}}
 * Finnish: {{t+|fi|pitää}}
 * French: {{t+|fr|trouver}}, {{t+|fr|considérer}}
-* German: [[halten]] für
+* German: {{t|de|[[halten]] [[für]]}}
 * Irish: {{t|ga|smaoinigh}}
 * Italian: {{t+|it|considerare}}, {{t+|it|trovare}}
 * Japanese: {{t+|ja|考える|tr=kangaeru}}, {{t|ja|判断する|tr=handan suru}}
 * Khmer: {{t|km|យកមកពិនិត្យ|tr=yɔɔk mɔɔk pi’nɨt|sc=Khmr}}
-* Kurdish: [[hesibandin]], {{t|ku|به‌مه‌زه‌نده‌ی}}
+* Kurdish: {{t|ku|hesibandin}}, {{t|ku|به‌مه‌زه‌نده‌ی|sc=Arab}}
 * Latin: {{t|la|considero}}, {{t|la|contemplor}}
-* Lower Sorbian: [[mysliś]]
 {{trans-mid}}
 * Macedonian: {{t|mk|мисли|tr=mísli|sc=Cyrl}}
 * Norwegian: {{t+|no|synes}}, {{t+|no|mene}}
 * Persian: {{t+|fa|فکر کردن|tr=fekr kardan|sc=fa-Arab}}
 * Polish: {{t+|pl|myśleć}}, {{t+|pl|uważać}} że
 * Portuguese: {{t+|pt|considerar}}
-* Romanian: a [[lua în considerație]], [[judeca]],  {{t+|ro|crede}},  {{t|ro|considera}}
+* Romanian: {{t|ro|lua în considerație}}, {{t|ro|judeca}}, {{t+|ro|crede}}, {{t|ro|considera}}
 * Russian: {{t+|ru|думать|tr=dúmatʹ}}, {{t+|ru|обдумывать|tr=obdúmyvatʹ}}
 * Scottish Gaelic: {{t|gd|smaoinich}}, {{t|gd|saoil}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|мислити|sc=Cyrl}}
 *: Roman: {{t|sh|misliti}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|mysliś|impf}}
+*: Upper Sorbian: {{t|hsb|myslić|impf}}
 * Spanish: {{t+|es|creer}}
 * Swedish: {{t+|sv|tycka}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|cmn}}: [[想]] (xiǎng), [[认为]] (rènwéi), [[思索]] (sīsuǒ), [[考虑]] (kǎolü), [[想象]] (xiǎng xiàng), [[打算]] (dǎsuàn), [[想要]] (xiǎngyào)
-* {{ttbc|io}}: [[pensar]]
-* {{ttbc|ia}}: [[pensar]]
-* {{ttbc|mn}}: [[бодох]] (bodoh)
-* {{ttbc|nov}}: [[pensa]]
+* {{ttbc|cmn}}: {{t|cmn|想|tr=xiǎng}}, {{t|cmn|认为|tr=rènwéi}}, {{t|cmn|思索|tr=sīsuǒ}}, {{t|cmn|考虑|tr=kǎolü}}, {{t|cmn|想象|tr=xiǎng xiàng}}, {{t|cmn|打算|tr=dǎsuàn}}, {{t|cmn|想要|tr=xiǎngyào}}
+* {{ttbc|io}}: {{t|io|pensar}}
+* {{ttbc|ia}}: {{t|ia|pensar}}
+* {{ttbc|mn}}: {{t|mn|бодох|tr=bodoh}}
+* {{ttbc|nov}}: {{t|nov|pensa}}
 * {{ttbc|fa}}: {{t+|fa|فِکر کَردَن|tr=fekr kærdæn}}
-* {{ttbc|pt}}: [[achar]]
-* {{ttbc|sk}}: [[myslieť]], [[myslieť si]]
-* {{ttbc|sl}}: [[misliti#Slovene|misliti]]
-* {{ttbc|vo}}: [[tikön]]
+* {{ttbc|pt}}: {{t|pt|achar}}
+* {{ttbc|sk}}: {{t|sk|myslieť|alt=myslieť (si)}}
+* {{ttbc|sl}}: {{t|sl|misliti}}
+* {{ttbc|vo}}: {{t|vo|tikön}}
 {{trans-bottom}}
 
 ====Noun====
