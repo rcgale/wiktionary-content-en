@@ -299,17 +299,17 @@ From {{etyl|enm|en}} {{term|slepen|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang
 *: Moroccan Arabic: {{t|ary|نعس|tr=neʿs}}
 * Aramaic:
 *: Syriac: {{t|syc|ܕܡܟ|tr=dmex|sc=Syrc}}
-* Armenian: {{t|hy|քնել|tr=k'nel|sc=Armn}}, {{t|hy|ննջել|tr=nnǰel|sc=Armn}}, {{t|hy|նիրհել|tr=nirhel|sc=Armn}}
+* Armenian: {{t|hy|քնել|sc=Armn}}, {{t|hy|ննջել|sc=Armn}}, {{t|hy|նիրհել|sc=Armn}}
 * Aromanian: {{t|rup|dormu}}
 * Azeri: {{t+|az|yatmaq}}
-* Bashkir: {{t|ba|йоҡлау|tr=yoqlau|sc=Cyrl}}
+* Bashkir: {{t|ba|йоҡлау|sc=Cyrl}}
 * Basque: {{t+|eu|lo egin}}
 * Belarusian: {{t|be|спаць|tr=spacʹ|sc=Cyrl}}
 * Breton: {{t+|br|kousket}}
 * Bulgarian: {{t+|bg|спя|tr=spja|sc=Cyrl}}
 * Burmese: {{t+|my|အိပ်|tr=eik|sc=Mymr}}
 * Catalan: {{t+|ca|dormir}}
-* Chechen: {{t|ce|тхъанг|tr=txəang|sc=Cyrl}}
+* Chechen: {{t|ce|тхъанг|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t|cmn|睡覺|sc=Hani}}, {{t+|cmn|睡觉|tr=shuìjiào|sc=Hani}}, {{t+|cmn|眠|tr=mián|sc=Hani}}
 *: Min Nan: {{t+|nan|睏|tr=khùn|sc=Hans}}, {{t+|nan|睏眠|tr=khùn-bîn|sc=Hans}}
@@ -326,7 +326,7 @@ From {{etyl|enm|en}} {{term|slepen|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang
 * Friulian: {{t|fur|dormî}}
 * Galician: {{t+|gl|durmir}}
 * Gamilaraay: {{t|kld|baabili}}
-* Georgian: {{t|ka|ძილი|tr=dzili|sc=Geor}}
+* Georgian: {{t|ka|ძილი|sc=Geor}}
 * German: {{t+|de|schlafen}}
 * Gothic: {{t|got|𐍃𐌻𐌴𐍀𐌰𐌽|tr=slepan|sc=Goth}}
 * Greek: {{t+|el|κοιμάμαι|tr=koimámai|sc=Grek}}
@@ -358,7 +358,6 @@ From {{etyl|enm|en}} {{term|slepen|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang
 * Lithuanian: {{t+|lt|miegoti}}
 * Lojban: {{t|jbo|sipna}}
 * Low German: {{t+|nds|slapen}}
-* Lower Sorbian: {{t|dsb|spaś}}
 * Luxembourgish: {{t|lb|schlofen}}
 * Macedonian: {{t|mk|спие|tr=spie|sc=Cyrl}}
 * Malay: {{t+|ms|tidur}}
@@ -378,7 +377,7 @@ From {{etyl|enm|en}} {{term|slepen|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang
 * Rapa Nui: {{t|rap|moe}}
 * Romanian: {{t+|ro|dormi}}
 * Romansch: {{t|rm|durmir}}
-* Russian: {{t+|ru|спать|tr=spatʹ|sc=Cyrl}} {{impf}}, {{t+|ru|поспать|tr=pospatʹ|sc=Cyrl}} {{pf.}}
+* Russian: {{t+|ru|спать|impf}}, {{t+|ru|поспать|pf}}
 * Sardinian:
 *: Campidanese Sardinian: {{t|sro|dòrmiri}}
 *: Gallurese Sardinian: {{t|sdn|drummí}}
@@ -392,6 +391,9 @@ From {{etyl|enm|en}} {{term|slepen|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang
 * Sinhalese: {{t|si|නිදියනවා|tr=nidiyanavā|sc=Sinh}}, {{t|si|බුදියනවා|tr=budiyanavā|sc=Sinh}}, {{t|si|නින්ද|tr=ninda|sc=Sinh}}
 * Slovak: {{t|sk|spať}}
 * Slovene: {{t+|sl|spati}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|spaś|impf}}
+*: Upper Sorbian: {{t|hsb|spać|impf}}
 * Spanish: {{t+|es|dormir}}
 * Swahili: {{t|sw|kulala}}
 * Swedish: {{t+|sv|sova}}
@@ -419,7 +421,7 @@ From {{etyl|enm|en}} {{term|slepen|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang
 
 {{trans-top|to accommodate}}
 * Dutch: {{t|nl|te slapen leggen}}, {{t+|nl|onderbrengen}}
-* Finnish: [[olla#Finnish|olla]] {{qualifier|number}} {{t|fi|nukkumapaikka|alt=nukkumapaikkaa}}, [[voida#Finnish|voida]] {{t+|fi|majoittua}}, [[mahtua#Finnish|mahtua]] {{t+|fi|nukkua|alt=nukkumaan}}
+* Finnish: {{t|fi|olla}} {{qualifier|number}} {{t|fi|nukkumapaikka|alt=nukkumapaikkaa}}, {{t|fi|[[voida]] [[majoittua]]}}, {{t|fi|[[mahtua]] [[nukkua|nukkumaan]]}}
 * German: {{t+|de|unterbringen}}
 {{trans-mid}}
 * Greek: {{t+|el|κοιμίζω|tr=koimízo|sc=Grek}}
