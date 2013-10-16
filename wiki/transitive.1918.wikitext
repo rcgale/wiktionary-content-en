@@ -22,6 +22,7 @@ From {{etyl|la|en}} {{term|transitivus|lang=la}}, from {{term|transitus|lang=la}
 #*: Men have tried to turn "revolutionise" from a '''transitive''' to an intransitive verb.
 # {{context|set theory|of a [[relation]] on a [[set]]|lang=en}} Having the property that if an element ''x'' is related to ''y'' and ''y'' is related to ''z'', then ''x'' is necessarily related to ''z''.
 #: ''"Is an ancestor of" is a '''transitive''' relation: if Alice is an ancestor of Bob, and Bob is an ancestor of Carol, then Alice is an ancestor of Carol.''
+# {{context|algebra|of a {{soplink|group|action}}}} Such that, for any [[two]] [[element]]s of the [[act]]ed-upon [[set]], some group element [[map]]s the first to the second.
 
 ====Antonyms====
 * {{sense|grammar, of a verb: taking an object}} {{l|en|intransitive}}
@@ -81,6 +82,10 @@ From {{etyl|la|en}} {{term|transitivus|lang=la}}, from {{term|transitus|lang=la}
 * Serbo-Croatian: {{t|sh|trȁnzitīvan}}
 * Spanish: {{t+|es|transitivo}}
 * Ukrainian: {{t+|uk|перехідний|sc=Cyrl}}
+{{trans-bottom}}
+
+{{trans-top|of a group action}}
+{{trans-mid}}
 {{trans-bottom}}
 
 ====Derived terms====
