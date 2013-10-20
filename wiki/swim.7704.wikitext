@@ -48,13 +48,13 @@ From {{etyl|enm|en}} {{term|swimmen|lang=enm}}, from {{etyl|ang|en}} {{term|swim
 *: Egyptian Arabic: {{t|arz|عام|tr=ʿām|sc=Arab}}
 * Aramaic:
 *: Syriac: {{t|syc|ܣܚܐ|tr=sħā|sc=Syrc}}
-* Armenian: {{t|hy|լողալ|tr=loġal}}
+* Armenian: {{t|hy|լողալ}}
 * Aromanian: {{t|rup|anot}}, {{t|rup|not}}, {{t|rup|mplãtescu}}
 * Asturian: {{t|ast|nadar}}, {{t|ast|ñadar}}
 * Avar: {{t|av|лъедезе|sc=Cyrl}}
 * Azeri: {{t+|az|üzmək}}
 * Basque: {{t+|eu|igeri egin}}
-* Belarusian: {{t|be|плаваць|tr=plávacʹ|sc=Cyrl}} {{qualifier|abstract}} {{impf}}, {{t|be|плыць|tr=plycʹ|sc=Cyrl}} {{qualifier|concrete}}  {{impf}}
+* Belarusian: {{t|be|пла́ваць|impf|sc=Cyrl}} {{qualifier|abstract}}, {{t|be|плыць|impf|sc=Cyrl}} {{qualifier|concrete}}
 * Bengali: {{t|bn|সাঁতার|tr=sāṁtār|sc=Beng}}
 * Breton: {{t|br|neui}}, {{t|br|neuial}}
 * Bulgarian: {{t+|bg|плувам|tr=plúvam}}
@@ -63,7 +63,7 @@ From {{etyl|enm|en}} {{term|swimmen|lang=enm}}, from {{etyl|ang|en}} {{term|swim
 * {{trreq|ce}}
 * Chinese:
 *: Mandarin: {{t+|cmn|游泳|tr=yóuyǒng|sc=Hani}}
-* Czech: {{t+|cs|plavat}} {{qualifier|abstract}} {{impf}}, {{t|cs|plout}} {{qualifier|concrete}}  {{impf}}
+* Czech: {{t+|cs|plavat|impf}} {{qualifier|abstract}}, {{t|cs|plout|impf}} {{qualifier|concrete}}
 * Danish: {{t+|da|svømme}}
 * Dutch: {{t+|nl|zwemmen}}
 * Esperanto: {{t|eo|naĝi}}
@@ -73,7 +73,7 @@ From {{etyl|enm|en}} {{term|swimmen|lang=enm}}, from {{etyl|ang|en}} {{term|swim
 * French: {{t+|fr|nager}}
 * Friulian: {{t|fur|nadâ}}
 * Galician: {{t+|gl|nadar}}
-* Georgian: {{t|ka|შეცურება|tr=šecʻureba|sc=Geor}}
+* Georgian: {{t|ka|შეცურება|sc=Geor}}
 * German: {{t+|de|schwimmen}}
 * Greek: {{t+|el|κολυμπάω|tr=kolympáo}}
 * Hawaiian: {{t|haw|ʻauʻau}}, {{t|haw|ʻau}} {{qualifier|traverse}}
@@ -110,23 +110,25 @@ From {{etyl|enm|en}} {{term|swimmen|lang=enm}}, from {{etyl|ang|en}} {{term|swim
 * Ossetian: {{t|os|ленк кӕнын|sc=Cyrl}}
 * Persian: {{t+|fa|شنا کردن|tr=šenâ kardan}}, {{t|fa|شناریدن|tr=šenâridan}}, {{t|fa|شناویدن|tr=šenâvidan}}, {{t|fa|شناوری کردن|tr=šenâvari kardan}}
 * Pitcairn-Norfolk: {{t|pih|naawe}}
-* Polish: {{t+|pl|pływać}} {{qualifier|abstract}} {{impf}}, {{t+|pl|płynąć}} {{qualifier|concrete}}  {{impf}}
+* Polish: {{t+|pl|pływać|impf}} {{qualifier|abstract}}, {{t+|pl|płynąć|impf}} {{qualifier|concrete}}
 * Portuguese: {{t+|pt|nadar}}
 * Quechua: {{t|qu|wayt'ay}}
 * Rapa Nui: {{t|rap|kau}}
 * Romanian: {{t+|ro|înota}}
 * Romansch: {{t|rm|nudar}}, {{t|rm|senudar}}, {{t|rm|nuder}}, {{t|rm|nodar}}
-* Russian: {{t+|ru|плавать|tr=plávatʹ}} {{qualifier|abstract}} {{impf}}, {{t+|ru|плыть|tr=plytʹ|sc=Cyrl}} {{qualifier|concrete}}  {{impf}}
+* Russian: {{t+|ru|пла́вать|impf}} {{qualifier|abstract}}, {{t+|ru|плыть|impf|sc=Cyrl}} {{qualifier|concrete}}
 * Sardinian: {{t|sc|anatare}}, {{t|sc|nadare}}, {{t|sc|natare}}
 *: Campidanese Sardinian: {{t|sro|nadai}}
 * Scottish Gaelic: {{t|gd|snàmh}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|пливати|sc=Cyrl}} {{impf}}
-*: Roman: {{t|sh|plivati}} {{impf}}
+*: Cyrillic: {{t|sh|пли̏вати|impf|sc=Cyrl}}
+*: Roman: {{t|sh|plȉvati|impf}}
 * Sicilian: {{t+|scn|natari}}
 * Sinhalese: {{t|si|පිහිනනවා|tr=pihinanavā|sc=Sinh}}
-* Slovak: {{t+|sk|plávať}} {{impf}}
-* Slovene: {{t+|sl|plavati}} {{impf}}
+* Slovak: {{t+|sk|plávať|impf}}
+* Slovene: {{t+|sl|plavati|impf}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|plěś|impf}} {{qualifier|concrete}}, {{t|dsb|plěwaś|impf}} {{qualifier|abstract}}
 * Spanish: {{t+|es|nadar}}
 * Swahili: {{t|sw|kuogelea}}
 * Swedish: {{t+|sv|simma}}
@@ -137,7 +139,7 @@ From {{etyl|enm|en}} {{term|swimmen|lang=enm}}, from {{etyl|ang|en}} {{term|swim
 * Turkish: {{t+|tr|yüzmek}}
 * Turkmen: {{t|tk|ýüzmek}}
 * Tuvan: {{t|tyv|эштир|tr=eštir}}, {{t|tyv|эштип билир|tr=eštip bilir}}
-* Ukrainian: {{t|uk|плавати|tr=plávaty|sc=Cyrl}} {{qualifier|abstract}} {{impf}}, {{t|uk|плисти|tr=plystý|sc=Cyrl}} {{qualifier|concrete}}  {{impf}}
+* Ukrainian: {{t|uk|пла́вати|impf|sc=Cyrl}} {{qualifier|abstract}}, {{t|uk|плисти́|impf|sc=Cyrl}} {{qualifier|concrete}}
 * Urdu: {{t|ur|تیرنا|tr=tairnā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|bơi}}, {{qualifier|lit. “to bathe”; used when swimming leisurely}} {{t+|vi|tắm}}
 * Volapük: {{t+|vo|svimön}}
