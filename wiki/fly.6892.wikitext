@@ -328,20 +328,20 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 * Arabic: {{t+|ar|طار|tr=ṭāra}} imperfect: {{t|ar|يطير|tr=yaṭīru}}
 * Aramaic:
 *: Syriac: {{t|syc|ܦܪܚ|tr=praħ|sc=Syrc}}
-* Armenian: {{t|hy|թռնել|tr=t'ṙnel}}, {{t|hy|թռչել|tr=t'ṙčel}}
+* Armenian: {{t|hy|թռնել}}, {{t|hy|թռչել}}
 * Aromanian: {{t|rup|azboair}}
 * Asturian: {{t|ast|volar}}
 * Avar: {{t|av|боржизе|sc=Cyrl}}
 * Azeri: {{t|az|uçmaq}}
 * Basque: {{t+|eu|hegan egin}}
-* Belarusian: {{qualifier|abstract}} {{t|be|лятаць|tr=ljatácʹ|sc=Cyrl}} {{impf}}, {{t|be|лётаць|tr=ljótacʹ|sc=Cyrl}} {{impf}}, {{t|be|палятаць|tr=paljatácʹ|sc=Cyrl}} {{pf.}}, {{t|be|палётаць|tr=paljótacʹ|sc=Cyrl}} {{pf.}}, {{qualifier|concrete}} {{t|be|ляцець|tr=ljacjécʹ|sc=Cyrl}} {{impf}}, {{t|be|паляцець|tr=paljacjécʹ|sc=Cyrl}} {{pf.}}
+* Belarusian: {{qualifier|abstract}} {{t|be|лята́ць|impf|sc=Cyrl}}, {{t|be|лётаць|impf|sc=Cyrl}}, {{t|be|палята́ць|pf|sc=Cyrl}}, {{t|be|палётаць|pf|sc=Cyrl}}, {{qualifier|concrete}} {{t|be|ляце́ць|impf|sc=Cyrl}}, {{t|be|паляце́ць|pf|sc=Cyrl}}
 * Bengali: {{t|bn|ওড়া|tr=ōḍā|sc=Beng}}
-* Bulgarian: {{t+|bg|летя|tr=letjá}} {{impf}}
+* Bulgarian: {{t+|bg|летя́|impf}}
 * Burmese: {{t+|my|ပျံ|tr=pyan|sc=Mymr}}
 * Catalan: {{t+|ca|volar}}
 * Chinese:
 *: Mandarin: {{t+|cmn|飛|sc=Hani}}, {{t+|cmn|飞|tr=fēi|sc=Hani}}, {{t+|cmn|飛行|sc=Hani}}, {{t+|cmn|飞行|tr=fēixíng|sc=Hani}}
-* Czech: {{t+|cs|létat}} {{impf}} {{qualifier|abstract}}, {{t+|cs|letět}} {{impf}} {{qualifier|concrete}}
+* Czech: {{t+|cs|létat|impf}} {{qualifier|abstract}}, {{t+|cs|letět|impf}} {{qualifier|concrete}}
 * Danish: {{t+|da|flyve}}
 * Dutch: {{t+|nl|vliegen}}
 * Esperanto: {{t|eo|flugi}}
@@ -353,7 +353,7 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 * Galician: {{t+|gl|voar}}
 * Georgian: {{t|ka|ფრენა|sc=Geor}}
 * German: {{t+|de|fliegen}}
-* Greek: {{t+|el|πετώ|tr=petó|sc=Grek}}
+* Greek: {{t+|el|πετώ|sc=Grek}}
 * Hebrew: {{t+|he|טס}}, {{t+|he|עף|tr=af|sc=Hebr}}
 * Hindi: {{t|hi|उड़ना|tr=uṛnā|sc=Deva}}
 * Hungarian: {{t+|hu|repül}}
@@ -391,7 +391,7 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 * Pashto: {{t+|ps|الوتل|tr=alwatəl|sc=ps-Arab}}
 * Persian: {{t+|fa|پرواز کردن|tr=parvâz kardan|sc=fa-Arab}}, {{t+|fa|پریدن|tr=paridan|sc=fa-Arab}}
 * Pipil: {{t|ppl|patani}}
-* Polish: {{t+|pl|latać}} {{impf}} {{qualifier|abstract}}, {{t+|pl|lecieć}} {{impf}} {{qualifier|concrete}}
+* Polish: {{t+|pl|latać|impf}} {{qualifier|abstract}}, {{t+|pl|lecieć|impf}} {{qualifier|concrete}}
 * Portuguese: {{t+|pt|voar}}
 * Quechua: {{t|qu|phaway}}
 * Rapa Nui: {{t|rap|rere}}
@@ -399,16 +399,18 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 * Romani: {{t|rom|ural}}
 * Romanian: {{t+|ro|zbura}}
 * Romansch: {{t|rm|sgular}}, {{t|rm|svular}}, {{t|rm|svuler}}
-* Russian: {{t+|ru|летать|tr=letátʹ}} {{impf}} {{qualifier|abstract}}, {{t+|ru|лететь|tr=letétʹ}} {{impf}} {{qualifier|concrete}}, {{t+|ru|перелетать|tr=pereletátʹ}} {{impf}} {{qualifier|birds}}
+* Russian: {{t+|ru|лета́ть|impf}} {{qualifier|abstract}}, {{t+|ru|лете́ть|impf}} {{qualifier|concrete}}, {{t+|ru|перелета́ть|impf}} {{qualifier|birds}}
 * Sardinian: {{t|sc|bobai}}, {{t|sc|bolare}}, {{t|sc|bolai}}, {{t|sc|volare}}, {{t|sc|borai}}
 * Scottish Gaelic: {{t|gd|itealaich}}, {{t|gd|dèan iteag}}, {{t|gd|falbh air iteig}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|летети}}, {{t|sh|летјети}} {{impf}} {{qualifier|concrete}}
-*: Roman: {{t|sh|leteti}}, {{t|sh|letjeti}} {{impf}} {{qualifier|concrete}}
+*: Cyrillic: {{t|sh|лѐтети|impf}}, {{t|sh|лѐтјети|impf}} {{qualifier|concrete}}
+*: Roman: {{t|sh|lèteti|impf}}, {{t|sh|lètjeti|impf}} {{qualifier|concrete}}
 * Sicilian: {{t+|scn|vulari}}
 * Sinhalese: {{t|si|ඉගිල්ලෙනවා|tr=igillanavā|sc=Sinh}}
-* Slovak: {{t|sk|lietať}} {{impf}} {{qualifier|abstract}}, {{t|sk|letieť}} {{impf}} {{qualifier|concrete}}
-* Slovene: {{t+|sl|leteti}} {{impf}} {{qualifier|concrete}}
+* Slovak: {{t|sk|lietať|impf}} {{qualifier|abstract}}, {{t|sk|letieť|impf}} {{qualifier|concrete}}
+* Slovene: {{t+|sl|leteti|impf}} {{qualifier|concrete}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|leśeś|impf}} {{qualifier|concrete}}, {{t|dsb|lětaś|impf}} {{qualifier|abstract}}
 * Spanish: {{t+|es|volar}}
 * Swahili: {{t+|sw|nzi}}
 * Swedish: {{t+|sv|flyga}}
@@ -417,7 +419,7 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 * Thai: {{t+|th|บิน|tr=bin}}
 * Turkish: {{qualifier|aircraft}} {{t+|tr|gitmek}}, {{t+|tr|uçmak}}, {{t+|tr|kanatlanmak}}
 * Turkmen: {{t|tk|uçmak}}
-* Ukrainian: {{t|uk|літати|tr=litáty|sc=Cyrl}} {{impf}} {{qualifier|abstract}}, {{t|uk|летіти|tr=letíty|sc=Cyrl}} {{impf}} {{qualifier|concrete}}
+* Ukrainian: {{t|uk|літа́ти|impf}} {{qualifier|abstract}}, {{t|uk|леті́ти|impf}} {{qualifier|concrete}}
 * Urdu: {{t|ur|اڑنا|tr=uṛnā|sc=ur-Arab}}
 * Uzbek: {{t+|uz|uchmoq}}
 * Vietnamese: {{t+|vi|bay}}
@@ -434,7 +436,7 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 * Dutch: {{t+|nl|vluchten}}
 * Faroese: {{t|fo|flýggja}}
 * German: {{t+|de|fliehen}}, {{t+|de|flüchten}}
-* Greek: {{t+|el|πετώ|tr=petó̱|sc=Grek}}
+* Greek: {{t+|el|πετώ|sc=Grek}}
 * Icelandic: {{t+|is|flýja}}
 * Macedonian: {{t|mk|бега|tr=béga}}, {{t|mk|пребегува|tr=prebéguva}}
 * Norwegian: {{t+|no|fly}}
@@ -453,7 +455,7 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 * Dutch: {{t+|nl|besturen}} {{gloss|aircraft}}
 * Finnish: {{t+|fi|lentää}}, {{t+|fi|ohjata}}, {{t|fi|lennättää}}
 * French: {{t+|fr|piloter}} {{gloss|aircraft}}, {{t|fr|faire voler}} {{gloss|kite}}
-* German: {{t+|de|fahren}} {{gloss|zeppelin, baloon}}, {{t+|de|fliegen}} {{gloss|aiplane}}, {{t|de|fliegen lassen}} {{gloss|toys etc.}}
+* German: {{t+|de|fahren}} {{gloss|zeppelin, balloon}}, {{t+|de|fliegen}} {{gloss|airplane}}, {{t|de|fliegen lassen}} {{gloss|toys etc.}}
 * Japanese: {{t|ja|飛ばす|tr=とばす, tobasu|sc=Jpan}}
 * Maori: {{t|mi|whakaangi}} {{qualifier|a kite}}, {{t|mi|whakaturuturu}} {{qualifier|a kite}}, {{t|mi|whakarere}} {{qualifier|aeroplane}}, {{t|mi|whakatere}} {{qualifier|an aeroplane}}
 * Pashto: {{t+|ps|الوتل|tr=alwatəl|sc=ps-Arab}}
@@ -467,7 +469,7 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 {{trans-bottom}}
 
 {{trans-top|to become accepted}}
-* Finnish: {{t+|fi|lähteä}} [[lento|lentoon]], {{t+|fi|tulla}} [[hyväksytty|hyvksytyksi]]
+* Finnish: {{t+|fi|[[lähteä]] [[lento]]on}}, {{t+|fi|[[tulla]] [[hyväksytty|hyvksytyksi]]}}
 * Russian: {{t+|ru|проходить|tr=proxodít’}}, {{t+|ru|быть}} {{t+|ru|принятый|alt=принятым|tr=byt’ prínjatym}}
 {{trans-mid}}
 * Swahili: {{t+|sw|nzi}}
