@@ -1,11 +1,54 @@
 ==Serbo-Croatian==
 
-===Verb===
-{{sh-verb|r|туширати}}
+===Etymology===
+From {{term|tȕš|lang=sh}}.
 
-# to [[shower]]
-#: {{usex|'''tuširati''' se|lang=sh|sc=Latn|translation=to shower oneself}}
-{{attention|sh|tone, conjug}}
+===Pronunciation===
+* {{IPA|/tuʃǐːrati/|lang=sh}}
+* {{hyphenation|tu|ši|ra|ti}}
+
+===Verb===
+{{sh-verb|head=tušírati|r|туширати|туши́рати}} {{impf}}
+
+# {{context|reflexive|lang=sh}} to {{l|en|shower}}
+
+====Conjugation====
+{{sh-conj
+|pr.va=tušírajūći
+|vn=tušírānje
+|pr.1s=tuširam
+|pr.2s=tuširaš
+|pr.3s=tušira
+|pr.1p=tuširamo
+|pr.2p=tuširate
+|pr.3p=tuširaju
+|f1.hr=tuširat
+|f1.stem=tušira
+|impf.1s=tuširah
+|impf.2s=tuširaše
+|impf.3s=tuširaše
+|impf.1p=tuširasmo
+|impf.2p=tuširaste
+|impf.3p=tuširahu
+|impt.2s=tuširaj
+|impt.1p=tuširajmo
+|impt.2p=tuširajte
+|app.ms=tuširao
+|app.fs=tuširala
+|app.ns=tuširalo
+|app.mp=tuširali
+|app.fp=tuširale
+|app.np=tuširala
+|ppp.ms=tuširan
+|ppp.fs=tuširana
+|ppp.ns=tuširano
+|ppp.mp=tuširani
+|ppp.fp=tuširane
+|ppp.np=tuširana
+}}
+
+===References===
+* {{R:sh:HJP|f19lUBh5}}
 
 [[ko:tuširati]]
 [[mg:tuširati]]
