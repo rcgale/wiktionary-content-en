@@ -65,7 +65,7 @@ From {{etyl|la|en}} {{term|Germanus|lang=la}}, {{term|Germani||the peoples of [[
 {{trans-bottom}}
 
 {{trans-top|translations to be checked and sorted into the above tables}}
-* Alabama: [[chaama]]
+* Alabama: {{t|akz|chaama}}
 * Armenian: {{t+|hy|գերմանացի|tr=germanac'i}}
 * Chinese:
 *: Mandarin: {{t|cmn|德國人|sc=Hani}}, {{t+|cmn|德国人|tr=Déguórén|sc=Hani}}
@@ -84,7 +84,7 @@ From {{etyl|la|en}} {{term|Germanus|lang=la}}, {{term|Germani||the peoples of [[
 * Hungarian: {{t+|hu|német}}
 * Icelandic: {{t+|is|Þjóðverji|m}}
 * Ido: {{t+|io|Germano}}, {{t+|io|Germaniano}}
-* Indonesian: [[orang]] [[Jerman]]
+* {{ttbc|id}}: {{t|id|[[orang]] [[Jerman]]}} <!-- was "[[orang]] [[Jerman]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Interlingua: {{t|ia|germano|m}}, {{t|ia|germana|f}}
 * Irish: {{t|ga|Gearmánach|m}}, {{t|ga|Gearmánaigh|m-p}}
 * Italian: {{t+|it|tedesco|m}}, {{t+|it|tedesca|f}}
@@ -98,7 +98,7 @@ From {{etyl|la|en}} {{term|Germanus|lang=la}}, {{term|Germani||the peoples of [[
 * Latvian: {{t+|lv|vācietis|m}}, {{t|lv|vāciete|f}}, (''rare'') {{t|lv|vāci|p}}
 * Macedonian: {{t|mk|Германец|m|tr=Gérmanec}}, {{t|mk|Германка|f|tr=Gérmanka}}, {{t|mk|Германци|p|tr=Gérmanci}}
 {{trans-mid}}
-* Malay: [[orang]] [[Jerman]], {{t|ms|Jerman}}
+* {{ttbc|ms}}: {{t|ms|[[orang]] [[Jerman]]}} <!-- was "[[orang]] [[Jerman]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|ms|Jerman}}
 * Maltese: {{t+|mt|Ġermaniż|m}}, {{t|mt|Ġermaniża|f}}, {{t|mt|Tedesk|m}}, {{t|mt|Tedeska|f}}
 * Marathi: {{t|mr|जर्मन|tr=jarmana|sc=Deva}}
 * Novial: {{t|nov|germane}}, {{t|nov|germano|m}}
@@ -262,7 +262,7 @@ From {{etyl|la|en}} {{term|Germanus|lang=la}}, {{term|Germani||the peoples of [[
 * Ojibwe: {{t|oj|aanimaamowin}}
 * Old Church Slavonic: {{t|cu|нѣ́мьчьскъ ѩꙁꙑ́къ|sc=Cyrs}}
 * Old English: {{t|ang|Þēodisc|n}}
-* Ottoman Turkish: [[nemçe]]
+* Ottoman Turkish: {{t|ota|nemçe|sc=ota-Arab}}
 * Pashto: {{t+|ps|الماني|sc=Arab}}
 * Persian: {{t+|fa|آلمانی|tr=almani}}
 * Polish: {{t+|pl|niemiecki|m}}
@@ -311,7 +311,7 @@ From {{etyl|la|en}} {{term|Germanus|lang=la}}, {{term|Germani||the peoples of [[
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Emiliano-Romagnolo: ''[[tedèsch]]'' <!-- This should be listed as either "Emilian" or "Romagnol" (or both) to keep concurrent with the ISO 639-3 language boundaries. -->
+* {{ttbc|Emiliano-Romagnolo}}: ''[[tedèsch]]'' <!-- This should be listed as either "Emilian" or "Romagnol" (or both) to keep concurrent with the ISO 639-3 language boundaries. -->
 * {{ttbc|aii}}: {{t|arc|ܠܫܢܐ ܓܪܡܢܝܐ|sc=Armi}}
 * {{ttbc|ba}}: {{t|ba|герман теле|sc=Cyrl}}
 * {{ttbc|bn}}: {{t|bn|জার্মান ভাষা|sc=Beng|tr=jārmān bhāṣā}}
@@ -416,9 +416,9 @@ From {{etyl|la|en}} {{term|Germanus|lang=la}}, {{term|Germani||the peoples of [[
 * Pashto: {{t|ps|المانی|tr=almânay}}
 * Persian: {{t+|fa|آلمانی|tr=almani}}
 * Plautdietsch: {{t+|pdt|dietsch}}
-* Polish: {{t+|pl|niemiecki}} <!-- [[niemiecka]] {{f}}, [[niemieckie]] {{n}} -->
+* Polish: {{t+|pl|niemiecki|m}} <!-- [[niemiecka]] {{f}}, [[niemieckie]] {{n}} -->
 * Portuguese: {{t+|pt|alemão}}, {{t+|pt|germânico}}
-* Romani: [[nyamcicko]] {{g|m}} <!-- [[nyamcicki]] {{f}} -->
+* {{ttbc|rom}}: {{t|rom|nyamcicko|m}} <!-- [[nyamcicki]] {{f}} -->
 * Romanian: {{t+|ro|german|m}}
 * Russian: {{t+|ru|немецкий|tr=neméckij}}, {{t+|ru|германский|tr=germánskij}}
 * Scottish Gaelic: {{t|gd|Gearmailteach}}
@@ -474,7 +474,7 @@ From {{etyl|la|en}} {{term|Germanus|lang=la}}, {{term|Germani||the peoples of [[
 * Greek: {{t+|el|γερμανικός|tr=germanikós}}
 * Hawaiian: {{t|haw|Kelemānia}}
 * Latvian: {{t|lv|vācu}}
-* Low German: {{qualifier|North Low German}} {{t|nds|düütsch}}; {{qualifier|Westfalia/Münsterland and Westmönsterland}} {{t|nds|düütsk}};  {{qualifier|Westfalia/Westmünsterland}} {{t|nds|düüts}};  {{qualifier|East Westfalia and Sauerland}} {{t|nds|duitsk}}
+* Low German: {{qualifier|North Low German}} {{t|nds|düütsch}}, {{qualifier|Westfalia/Münsterland and Westmönsterland}} {{t|nds|düütsk}}, {{qualifier|Westfalia/Westmünsterland}} {{t|nds|düüts}}, {{qualifier|East Westfalia and Sauerland}} {{t|nds|duitsk}}
 * Macedonian: {{t|mk|германски|m|tr=gérmanski}}
 {{trans-mid}}
 * Malay: {{t|ms|bahasa Jerman}}, {{t|ms|Jerman}}
