@@ -123,7 +123,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Konyak Naga: {{t|nbe|wanghi}}
 * Korean: {{t+|ko|해|tr=hae|sc=Kore}}, {{t+|ko|태양|tr=tae-yang|sc=Kore}} ({{t+|ko|太陽|sc=Kore}}), {{t+|ko|일|tr=il|sc=Kore}}
 * Kurdish:
-*: Sorani: {{t+|ku|خۆر|tr=xor|sc=ku-Arab}}
+*: Sorani: {{t|ku|خۆر|tr=xor|sc=ku-Arab}}
 * Kyrgyz: {{t+|ky|күн|tr=kün|sc=Cyrl}}
 {{trans-mid}}
 * Lao: {{t+|lo|ຕາເວັນ|sc=Laoo}}
@@ -206,7 +206,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Taos: {{t|twf|thȕléna}}
 * Tatar: {{t+|tt|кояш|sc=Cyrl}}
 * Telugu: {{t+|te|సూర్యుడు|tr=sūryuḍu|sc=Telu}}
-* Thai: {{t|th|ดวงอาทิตย์|tr=duang-aa-tít|sc=Thai}}, {{t|th|พระอาทิตย์|tr=prá-aa-tít|sc=Thai}}
+* Thai: {{t+|th|ดวงอาทิตย์|tr=duang-aa-tít|sc=Thai}}, {{t|th|พระอาทิตย์|tr=prá-aa-tít|sc=Thai}}
 * Tibetan: {{t|bo|ཉི་མ|alt=ཉི་མ།|sc=Tibt|tr=nyi ma}}
 * Tok Pisin: {{t|tpi|san}}
 * Turkish: {{t+|tr|güneş}}
@@ -350,14 +350,14 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 *: Cyrillic: {{t|sh|сунце|n|sc=Cyrl}}
 *: Roman: [[sunce]] {{g|n}}
 * Slovak: {{t|sk|slnko|n}}
-* Slovene: {{t+|sl|sónce|n}}
+* Slovene: {{t|sl|sónce|n}}
 * Sotho: {{t+|st|letsatsi}}
 * Spanish: {{t+|es|sol|m}}
 * Swahili: {{t+|sw|jua}}
 * Swedish: {{t+|sv|sol|c}}
 * Tajik: {{t|tg|хуршед|sc=Cyrl}}
 * Tamil: {{t+|ta|சூரியன்|tr=sooriyan|sc=Taml}}
-* Thai: {{t|th|ดวงอาทิตย์|tr=duang-aa-tít}}
+* Thai: {{t+|th|ดวงอาทิตย์|tr=duang-aa-tít}}
 * Turkish: {{t+|tr|güneş}}
 * Ukrainian: {{t+|uk|со́нце|n|sc=Cyrl}}
 * Urdu: {{t|ur|سورج|m|tr=sūraj}}, {{t|ur|خورشید|m|tr=khurśed}}, {{t|ur|روی|m|tr=ravi}}, {{t|ur|سوریہ|m|tr=sūrya}}
@@ -419,7 +419,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Hindi: {{t|hi|सूर्योदय एवं सूर्यास्त|n|tr=suryoday and suryaast}}
 * Japanese: {{qualifier|sunrise}} {{t|ja|日の出|tr=hi no de}}; {{qualifier|dawn}} {{t|ja|夜明け|tr=yoake}}; {{qualifier|sunset}} {{t|ja|日の入|tr=hi no iri}}
 {{trans-mid}}
-* Romanian: {{t|ro|răsărit|n}}, {{t|ro|asfințit|n}}
+* Romanian: {{t|ro|răsărit|n}}, {{t+|ro|asfințit|n}}
 * Spanish: {{t|es|salida del sol}}, {{t|es|puesta de sol}}, {{t+|es|ocaso}}, {{t+|es|orto}}
 * Swahili: {{t|sw|chomoza}}
 * Swedish: {{t+|sv|soluppgång|c}}, {{t+|sv|solnedgång|c}}
@@ -455,7 +455,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * {{ttbc|it}}: {{t+|it|sole|m}}
 * {{ttbc|itl}}: [[lach]]
 * {{ttbc|ko}}: {{t+|ko|해|tr=hae|sc=Hang}}, {{t+|ko|태양|tr=taeyang|sc=Hang}}, {{t+|ko|일|tr=il|sc=Hang}}
-* {{ttbc|ku}}: [[roj]], [[tav]], {{t+|ku|هه‌تاو}}, {{t+|ku|خۆر}}, {{t+|ku|رۆژ}}
+* {{ttbc|ku}}: [[roj]], [[tav]], {{t|ku|هه‌تاو}}, {{t|ku|خۆر}}, {{t|ku|رۆژ}}
 * {{ttbc|la}}: [[sol]] {{g|m}}
 * {{ttbc|lt}}: {{t+|lt|saulė|f}}
 {{trans-mid}}
@@ -506,7 +506,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 {{trans-top|to expose to the warmth and radiation of the sun}}
 * Czech: {{t|cs|slunit}}
 * Finnish: {{t|fi|paistatella}}; {{t|fi|ottaa aurinkoa}} {{qualifier|+ ablative case}}
-* Romanian: {{t|ro|însori}}, {{t|ro|sori}}
+* Romanian: {{t+|ro|însori}}, {{t|ro|sori}}
 {{trans-mid}}
 * Spanish: {{t|es|asolear}}
 * Swahili: {{t|sw|miale ya jua}}
@@ -516,7 +516,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 {{trans-top|to warm or dry in the sunshine}}
 * Finnish: [[lämmitellä]] {{t+|fi|auringonpaiste|alt=auringonpaisteessa}} {{qualifier|to warm}}; [[kuivata]] / [[kuivatella]] / [[kuivattaa]] {{t+|fi|auringonpaiste|alt=auringonpaisteessa}} {{qualifier|to dry}}
 {{trans-mid}}
-* Romanian: {{t|ro|însori}}, {{t+|ro|încălzi}}
+* Romanian: {{t+|ro|însori}}, {{t+|ro|încălzi}}
 * Swahili: {{t|sw|kauka}}
 {{trans-bottom}}
 
