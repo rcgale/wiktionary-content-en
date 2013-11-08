@@ -96,42 +96,20 @@ From {{etyl|ofs|frr}} {{term|gripa|lang=ofs}}, which derives from {{etyl|gem-pro
 # {{context|Mooring|lang=frr}} to [[grab]], to [[seize]]
 
 ====Conjugation====
-
-{| class="wikitable"
-|-
-! [[infinitive]] I !! [[infinitive]] II !! [[infinitive]] III
-|-
-| gripe || tu gripen || än grip
-|}
-
-{| class="wikitable"
-|-
-! person !! [[present tense]] !! [[past tense]] !! [[perfect tense]] !! [[pluperfect tense]] !! [[future tense]]
-|-
-| [[1st singular]] || [[ik]] grip || [[ik]] griip || [[ik]] hääw gram || [[ik]] häi gram || [[ik]] wård gripe
-|-
-| [[2nd singular]] || [[dü]] grapst || [[dü]] griipst || [[dü]] hääst gram || [[dü]] häist gram || [[dü]] wårst gripe
-|-
-| [[3rd singular]] || [[hi]]/[[jü]]/[[et]] grapt || [[hi]]/[[jü]]/[[et]] griip || [[hi]]/[[jü]]/[[et]] heet gram || [[hi]]/[[jü]]/[[et]] häi gram || [[hi]]/[[jü]]/[[et]] wårt gripe
-|-
-| [[1st dual]] || [[wat]] gripe || [[wat]] griipen || [[wat]] hääwe gram || [[wat]] häin gram || [[wat]] wårde gripe
-|-
-| [[2nd dual]] || [[jat]] gripe || [[jat]] griipen || [[jat]] hääwe gram || [[jat]] häin gram || [[jat]] wårde gripe
-|-
-| [[1st plural]] || [[we]] gripe || [[we]] griipen || [[we]] hääwe gram || [[we]] häin gram || [[we]] wårde gripe
-|-
-| [[2nd plural]] || [[jam]] gripe || [[jam]] griipen || [[jam]] hääwe gram || [[jam]]  häin gram || [[jam]] wårde gripe
-|-
-| [[3rd plural]] || [[ja]] gripe || [[ja]] griipen || [[ja]] hääwe gram || [[ja]] häin gram || [[ja]] wårde gripe
-|}
-
-;Imperative (Singular and Plural)
-grip
-
-;Past Participle
-gram
-
-----
+{{frr-Mooring-conj-table
+|infinitive I=gripe
+|infinitive II=tu gripen
+|infinitive III=än grip
+|past participle=gram
+|imperative=grip
+|pres_ind_1sg=grip
+|pres_ind_2sg=grapst
+|pres_ind_3sg=grapt
+|pres_ind_dlpl=bååge
+|past_ind_1sg=griip
+|past_ind_2sg=griipst
+|past_ind_3sg=griip
+|past_ind_dlpl=griipen}}
 
 ==Norwegian==
 
