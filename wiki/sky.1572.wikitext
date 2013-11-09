@@ -52,11 +52,11 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Ainu: {{t|ain|ニㇱ|tr=nis}}
 * Albanian: {{t|sq|qiell|m}}
 * Amharic: {{t|am|ሰማይ|m|tr=sämay|sc=Ethi}}
-* Arabic: {{t|ar|سماء|tr=sámāʾ|m|f|sc=Arab}}, {{Arab|[[سماوات|سَمَاوَات]]}} (samāwāt) {{g|p}}
+* {{ttbc|ar}}: {{t|ar|سماء|tr=sámāʾ|m|f|sc=Arab}}, {{t|ar|سماوات|p|tr=samāwāt|alt=سَمَاوَات|sc=Arab}} <!-- was "[[سماوات|سَمَاوَات]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 *: Egyptian Arabic: {{t|arz|سما|f|tr=sama|sc=Arab}}
 * Aramaic:
-*: Syriac: [[ܫܡܝܐ]] (šmayā’) {{g|c}}
-*: Hebrew: [[שמיא]] (šmayā’) {{g|c}}
+*: Syriac: {{t|arc|ܫܡܝܐ|c|tr=šmayā’|sc=Syrc}}
+*: Hebrew: {{t|arc|שמיא|c|tr=šmayā’|sc=Hebr}}
 * Armenian: {{t|hy|երկինք|tr=erkink’|sc=Armn}}
 * Aromanian: {{t|rup|tser}}
 * Asturian: {{t|ast|cielu|m}}
@@ -80,8 +80,8 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Chuvash: {{t|cv|тӳпе|tr=tüpe|sc=Cyrl}}
 * Comanche: {{t|com|tomoobi}}
 * Coptic:
-*: Bohairic: {{t|cop|ⲫⲉ|f|tr=fe}}
-*: Sahidic: {{t|cop|ⲡⲉ|f|tr=pe }}
+*: {{ttbc|Bohairic}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|cop|ⲫⲉ|f|tr=fe}}
+*: {{ttbc|Sahidic}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|cop|ⲡⲉ|f|tr=pe }}
 * Czech: {{t+|cs|nebe|n}}, {{t+|cs|obloha|f}}
 * Dalmatian: {{t|dlm|cil|m}}
 * Danish: {{t+|da|himmel}}
@@ -142,9 +142,9 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Ojibwe: {{t|oj|giizhig}}, {{t|oj|giizhigoon|p}}
 * Okinawan: {{t|ryu|すら|tr=sura}}
 * Old English: {{t|ang|lyft}}, {{t|ang|rodor}}
-* Old Persian: (asa nemänah) {{rfscript|und|sc=Xpeo}}
+* Old Persian: (asa nemänah) {{rfscript|peo|sc=Xpeo}}
 * Old Portuguese: {{t|roa-ptg|ceo}}
-* Old Prussian: [[dāngs]] {{g|m}}
+* Old Prussian: {{t|prg|dāngs|m}}
 * Ossetian: {{t|os|арв|tr=arv|sc=Cyrl}}, {{t|os|уӕларв|tr=uælarv|sc=Cyrl}}
 * Ottoman Turkish: {{t|ota|آسمان|tr=âsmân|sc=ota-Arab}}, {{t|ota|سما|tr=semâ|sc=ota-Arab}}, {{t|ota|سموات|p|tr=semâvât|sc=ota-Arab}}
 * Parthian: {{t|xpr|assamän}}
@@ -155,7 +155,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Portuguese: {{t+|pt|céu|m}}
 * Punjabi: {{t|pa|ਅਸਮਾਨ|tr=asmān|sc=Guru}}, {{t|pa|ਆਕਾਸ਼|tr=ākāś|sc=Guru}}
 * Rapa Nui: {{t|rap|rangi}}
-* Rarotongan: [[rangi]]
+* Rarotongan: {{t|rar|rangi}}
 * Romanian: {{t+|ro|cer|n}}, {{t|ro|чер|n|sc=Cyrl}}
 * Russian: {{t+|ru|небо|n|tr=nébo}}
 * Sanskrit: {{t|sa|दिव|tr=diva|sc=Deva}}, {{t|sa|आकाश|tr=ākāśa|sc=Deva}}
@@ -174,10 +174,10 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Swahili: {{t+|sw|mbingu}} ''(nc 9/10)'', {{t+|sw|anga}}
 * Swedish: {{t+|sv|himmel|c}}, {{t+|sv|sky|c}}
 * Tagalog: {{t|tl|kalangitan}}, {{t+|tl|langit}}
-* Tahitian: [[ra’i]]
+* Tahitian: {{t|ty|ra’i}}
 * Tajik: {{t|tg|осмон|tr=osmon|sc=Cyrl}}, {{t|tg|фалак|tr=falak|sc=Cyrl}}
 * Tamil: {{t+|ta|ஆகாயம்|tr=ākāyam|sc=Taml}}
-* Taos: [[p’ȍpə́na]]
+* Taos: {{t|twf|p’ȍpə́na}}
 * Tatar: {{t+|tt|күк|tr=kük|sc=Cyrl}}
 * Telugu: {{t+|te|ఆకాశము|tr=ākāśamu|sc=Telu}}, {{t+|te|గగనము|tr=gaganamu|sc=Telu}}
 * Thai: {{t+|th|ฟ้า|tr=fáa}}
@@ -195,14 +195,14 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * West Frisian: {{t|fy|himel|c}}
 * Yiddish: {{t|yi|הימל|m|tr=himl|sc=Hebr}}
 * Zulu: {{t|zu|isibhakabhaka|c7|c8}}, {{t|zu|izulu|c5}}, {{t|zu|amafu|c6}}
-* ǃXóõ: [[kùu ǂèe]]
+* ǃXóõ: {{t|nmn|kùu ǂèe}}
 {{trans-bottom}}
 
 {{trans-top|specific view, condition}}
-* Arabic: {{t|ar|سماء|tr=sámāʾ|m|f|sc=Arab}}, {{Arab|[[سماوات|سَمَاوَات]]}} (samawāt) {{g|p}}
+* {{ttbc|ar}}: {{t|ar|سماء|tr=sámāʾ|m|f|sc=Arab}}, {{t|ar|سماوات|p|tr=samawāt|alt=سَمَاوَات|sc=Arab}} <!-- was "[[سماوات|سَمَاوَات]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Aramaic:
-*: Syriac: [[ܫܡܝܐ]] (šmayā’) {{g|c}}
-*: Hebrew: [[שמיא]] (šmayā’) {{g|c}}
+*: Syriac: {{t|arc|ܫܡܝܐ|c|tr=šmayā’|sc=Syrc}}
+*: Hebrew: {{t|arc|שמיא|c|tr=šmayā’|sc=Hebr}}
 * Armenian: {{t|hy|երկինք|tr=erkink‘}}
 * Bulgarian: {{t+|bg|небе|n|tr=nebé|sc=Cyrl}}
 * Danish: {{t+|da|himmel}}
@@ -226,7 +226,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Norwegian: {{t+|no|himmel|m}}
 * Ojibwe: {{t|oj|giizhig}}, {{t|oj|giizhigoon|p}}
 * Old English: {{t|ang|lyft}}
-* Old Prussian: [[dāngs]] {{g|m}}
+* Old Prussian: {{t|prg|dāngs|m}}
 * Persian: {{t+|fa|آسمان}}
 * Polish: {{t+|pl|niebo|n}}
 * Portuguese: {{t+|pt|céu|m}}
@@ -247,8 +247,8 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Albanian: {{t|sq|qiell|m}}
 * Arabic: {{t|ar|جنة|f|tr=jánna}}
 * Aramaic:
-*: Hebrew: [[שמיא]] (šmayā’) {{g|c}}
-*: Syriac: [[ܫܡܝܐ]] (šmayā’) {{g|c}}
+*: Hebrew: {{t|arc|שמיא|c|tr=šmayā’|sc=Hebr}}
+*: Syriac: {{t|arc|ܫܡܝܐ|c|tr=šmayā’|sc=Syrc}}
 * Armenian: {{t|hy|երկինք|tr=erkink‘}}
 * Asturian: {{t|ast|cielu|m}}
 * Bulgarian: {{t+|bg|небеса|p|tr=nebesá|sc=Cyrl}}
@@ -277,7 +277,7 @@ Usually the word can be used correctly in either the singular or plural form, bu
 * Lithuanian: {{t+|lt|dangus|m}}
 * Norwegian: {{t+|no|himmel|m}}
 * Old English: {{t|ang|rodor|m}}
-* Old Prussian: [[dāngs]] {{g|m}}
+* Old Prussian: {{t|prg|dāngs|m}}
 * Pashto: {{t+|ps|هسك|m|tr=hask|sc=ps-Arab}}
 * Persian: {{t+|fa|بهشت}}, {{t|fa|گرودمان}}, {{t+|fa|گردون}}
 * Polish: {{t+|pl|niebo|n}}, {{t+|pl|niebiosa|p}}
@@ -301,25 +301,25 @@ Usually the word can be used correctly in either the singular or plural form, bu
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sq}}: [[qiell]] {{g|m}}
-* {{ttbc|eu}}: [[zeru]]
-* {{ttbc|bg}}: [[небе]] {{g|n}} (1,2,3)
-* {{ttbc|ca}}: [[cel]] {{g|m}}
-* {{ttbc|cmn}}: [[天]] (tiān)
-* {{ttbc|gu}}: [[આસમાન]] (āsmān) {{g|n}}, [[આકાશ]] (ākāš) {{g|n}}, [[નભ]] (nabh) {{g|n}}, [[આભ]] (ābh) {{g|n}}
-* {{ttbc|ilo}}: [[langit]]
-* {{ttbc|id}}: [[langit]]
-* {{ttbc|mt}}: [[sema]]
+* {{ttbc|sq}}: {{t|sq|qiell|m}}
+* {{ttbc|eu}}: {{t|eu|zeru}}
+* {{ttbc|bg}}: {{t|bg|небе|n|tr=1,2,3|sc=Cyrl}}
+* {{ttbc|ca}}: {{t|ca|cel|m}}
+* {{ttbc|cmn}}: {{t|cmn|天|tr=tiān|sc=Hani}}
+* {{ttbc|gu}}: {{t|gu|આસમાન|n|tr=āsmān|sc=Gujr}}, {{t|gu|આકાશ|n|tr=ākāš|sc=Gujr}}, {{t|gu|નભ|n|tr=nabh|sc=Gujr}}, {{t|gu|આભ|n|tr=ābh|sc=Gujr}}
+* {{ttbc|ilo}}: {{t|ilo|langit}}
+* {{ttbc|id}}: {{t|id|langit}}
+* {{ttbc|mt}}: {{t|mt|sema}}
 {{trans-mid}}
-* {{ttbc|mnc}}: [[abka]]
-* {{ttbc|oj}}: [[giizhig]], [[giizhigoon]] {{g|p}}
-* {{ttbc|sa}}: [[आकाश]] (ākāša) {{g|m}}
+* {{ttbc|mnc}}: {{t|mnc|abka|sc=Mong}}
+* {{ttbc|oj}}: {{t|oj|giizhig|sc=Cans}}, {{t|oj|giizhigoon|p|sc=Cans}}
+* {{ttbc|sa}}: {{t|sa|आकाश|m|tr=ākāša|sc=Deva}}
 * {{ttbc|sd}}: {{t|sd|آسمان|tr=āsmān|m}}, {{t+|sd|اڀ|alt=اُڀُ|tr=ubhu|m}}
-* {{ttbc|te}}: {{t+|te|ఆకాశం}} (aakaaSaM), [[మిన్ను]] (minnu)
-* {{ttbc|tr}}: [[gökyüzü]], [[sema]]
-* {{ttbc|uk}}: [[небо#Ukrainian|небо]] (nébo) {{g|n}}
-* {{ttbc|wa}}: [[cir]]
-* {{ttbc|cy}}: [[wybr]], wybrau
+* {{ttbc|te}}: {{t+|te|ఆకాశం}} (aakaaSaM), {{t|te|మిన్ను|tr=minnu|sc=Telu}}
+* {{ttbc|tr}}: {{t|tr|gökyüzü}}, {{t|tr|sema}}
+* {{ttbc|uk}}: {{t|uk|небо|n|tr=nébo|sc=Cyrl}}
+* {{ttbc|wa}}: {{t|wa|cir}}
+* {{ttbc|cy}}: {{t|cy|wybr}}, {{t|cy|wybrau}}
 {{trans-bottom}}
 
 ===Verb===
