@@ -85,14 +85,14 @@ From {{etyl|la|en}} {{term|arabicus|lang=la}}.
 ====Translations====
 {{trans-top|language}}
 * Albanian: {{t+|sq|gjuha arabe}}
-* Arabic: {{t|ar|العربية|f|tr=al-ʿarabíyya}}, {{t+|ar|عربي|m|tr=ʿárabiyy}}, {{t+|ar|اللغة العربية|f|tr=al-lúġa al-ʿarabíyya|sc=Arab}}
-*: Egyptian Arabic: {{t|arz|عربى|m|tr=ʿárabi|sc=Arab}}
-* Armenian: {{t+|hy|արաբերեն|tr=araberen}}
+* Arabic: {{t|ar|العربية|f|tr=al-ʿarabiyya}}, {{t+|ar|عربي|m|tr=ʿarabī}}, {{t+|ar|اللغة العربية|f|tr=al-luḡa al-ʿarabiyya|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|عربى|m|tr=ʿarabi|sc=Arab}}
+* Armenian: {{t+|hy|արաբերեն}}
 * Asturian: {{t+|ast|árabe|m}}, {{t+|ast|arábicu|m}}, {{t+|ast|arábigu|m}}
 * Basque: {{t+|eu|arabiera}}
 * Bengali: {{t|bn|আরবি ভাষা|tr=Arôbi bhasha|sc=Beng}}
 * Chinese:
-*: Mandarin: {{t+|cmn|阿拉伯語|sc=Hani}},  {{t+|cmn|阿拉伯语|tr=Ālābó-yǔ|sc=Hani}}, {{t+|cmn|阿拉伯文|tr=Ālābó-wén|sc=Hani}}
+*: Mandarin: {{t+|cmn|阿拉伯語|sc=Hani}}, {{t+|cmn|阿拉伯语|tr=Ālābó-yǔ|sc=Hani}}, {{t+|cmn|阿拉伯文|tr=Ālābó-wén|sc=Hani}}
 * Czech: {{t+|cs|arabština|f}}, {{t|cs|arabský jazyk|m}}
 * Danish: {{t+|da|arabisk}}
 * Dutch: {{t+|nl|Arabisch|n}}
@@ -105,7 +105,7 @@ From {{etyl|la|en}} {{term|arabicus|lang=la}}.
 * Hindi: {{t+|hi|अरबी|f|tr=arabī}}
 * Icelandic: {{t+|is|arabíska}}
 * Ido: {{t+|io|arab}}
-* Indonesian: [[bahasa]] [[arab]]
+* Indonesian: {{t|id|[[bahasa]] [[arab]]}}
 * Interlingua: {{t|ia|arabe}}
 * Irish: {{t|ga|Araibis|f}}
 * Italian: {{t+|it|arabo}}
@@ -117,14 +117,14 @@ From {{etyl|la|en}} {{term|arabicus|lang=la}}.
 * Latvian: {{t|lv|arābu valoda|f}}, {{t|lv|arābu}}
 * Limburgish: {{t+|li|Arabisj|n}}
 * Macedonian: {{t|mk|арапски|m|tr=árapski}}
-* Malay: [[bahasa]] [[Arab]]
+* Malay: {{t|ms|[[bahasa]] [[Arab]]}}
 * Maltese: l-{{t+|mt|Għarbi}}
 * Marathi: {{t|mr|अरबी|f|tr=arabī|sc=Deva}}
 * Navajo: {{t|nv|Ásáí bizaad}}
 * Persian: {{t+|fa|عَرَبی|tr='arabi|sc=fa-Arab}}
 * Polish: {{t+|pl|arabski|m}}, {{t+|pl|arabszczyzna|f}}
 * Portuguese: {{t+|pt|árabe|m}}
-* Russian: [[арабский]] [[язык]] (arábskij jazýk) {{g|m}}, {{t+|ru|арабский|tr=arábskij|sc=Cyrl}}
+* Russian: {{t|ru|[[ара́бский]] [[язы́к]]|m|sc=Cyrl}}, {{t+|ru|ара́бский|m|sc=Cyrl}} {{qualifier|язы́к}}
 * Scottish Gaelic: {{t|gd|Arabais|f}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|арапски|m}}
@@ -150,7 +150,7 @@ From {{etyl|la|en}} {{term|arabicus|lang=la}}.
 * French: {{t+|fr|arabe}}
 * German: {{t+|de|Arabisch}}
 * Ido: {{t+|io|arab}}
-* Indonesian: [[huruf]] [[arab]]
+* {{ttbc|id}}: {{t|id|[[huruf]] [[arab]]}} <!-- was "[[huruf]] [[arab]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Interlingua: {{t|ia|arabe}}
 * Italian: {{t+|it|arabo}}
 * Japanese: {{t+|ja|アラビア文字|tr=Arabia-moji}}
@@ -161,7 +161,7 @@ From {{etyl|la|en}} {{term|arabicus|lang=la}}.
 * Maltese: {{t|mt|Għarbija}}
 * Marathi: {{t|mr|अरबी|tr=arabī|sc=Deva}}
 * Portuguese: {{t+|pt|árabe|m}}
-* Russian: [[арабский]] [[алфавит]] (arábskij alfavít) {{g|m}}
+* {{ttbc|ru}}: {{t|ru|[[арабский]] [[алфавит]]|m|tr=arábskij alfavít|sc=Cyrl}} <!-- was "[[арабский]] [[алфавит]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|арапски|m}}, {{t|sh|арабица|f}}, {{t|sh|аребица|f}}
 *: Roman: {{t|sh|arapski|m}}, {{t|sh|arabica|f}}, {{t|sh|arebica|f}}
