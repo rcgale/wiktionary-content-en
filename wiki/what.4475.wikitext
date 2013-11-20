@@ -39,8 +39,7 @@ From {{etyl|enm|en}} {{term|what|lang=enm}}, from {{etyl|ang|en}} {{term|hwæt||
 *: Egyptian Arabic: {{t|arz|ايه|tr=ēh|sc=Arab}}
 *: Iraqi Arabic: {{t|acm|شنو|tr=šunu|sc=Arab}}
 *: Moroccan Arabic: {{t|ary|اشنو|tr=ʾašnū}}
-*: Palestinian: {{Arab|[[إيش]]}} (ʾēš)
-*: Syrian: {{Arab|[[شو]]}} (šū)
+*: Levantine Arabic: {{t|ar|شو|tr=šū|sc=Arab}}, {{t|ar|ايش|tr=ʾēš|sc=Arab}}
 * Armenian: {{t|hy|ինչ|tr=inč}}
 * Aromanian: {{t|rup|tsi}}
 * Asturian: {{t|ast|qué}}
@@ -153,7 +152,7 @@ From {{etyl|enm|en}} {{term|what|lang=enm}}, from {{etyl|ang|en}} {{term|hwæt||
 * Tagalog: {{t+|tl|ano}}
 * Tajik: {{t|tg|чӣ|tr=čī|sc=Cyrl}}
 * Talysh:
-*: Asalemi: {{t|tly|چی|tr=ci|sc=fa-Arab}}, {{t|tly|چیچی|tr=cici|sc=fa-Arab}}, {{t|tly|چه|tr=cə}}
+*: {{ttbc|Asalemi}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|tly|چی|tr=ci|sc=fa-Arab}}, {{t|tly|چیچی|tr=cici|sc=fa-Arab}}, {{t|tly|چه|tr=cə}}
 * Tamil: {{t+|ta|என்ன|tr=eṉṉa|sc=Taml}}
 * Taos: {{t|twf|híli}}
 * Tatar: {{t|tt|ни|tr=ni|sc=Cyrl}}
@@ -244,7 +243,7 @@ From {{etyl|enm|en}} {{term|what|lang=enm}}, from {{etyl|ang|en}} {{term|hwæt||
 * Japanese: {{t|ja|何と|tr=nanto}}
 * Persian: {{t+|fa|چه|tr=če|sc=fa-Arab}}
 * Polish: {{t+|pl|co}} za
-* Russian: [[какой]]/[[какая]]/[[какое]] (kakój/kakája/kakóje) ''m/f/n'', [[что за]] (što za)
+* Russian: {{t|ru|како́й|m|sc=Cyrl}}, {{t|ru|кака́я|f|sc=Cyrl}}, {{t|ru|како́е|n|sc=Cyrl}}, {{t|ru|что за|sc=Cyrl}}
 * Slovene: {{t|sl|kakó}}, {{t|sl|kákšen}}
 * Spanish: {{t+|es|qué}}
 * Swedish: {{t+|sv|vad}}, {{t+|sv|så}} (''uncountable''), {{t+|sv|sådan}} (''countable'')
@@ -256,15 +255,15 @@ From {{etyl|enm|en}} {{term|what|lang=enm}}, from {{etyl|ang|en}} {{term|hwæt||
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|yue}}: [[咁]] (gam), [[真係]]/[[真系]] (jān h<u>a</u>i), [[的確係]]/[[的确系]] (dīkkok h<u>a</u>i), [[真正係]]/[[真正系]] (jānjing h<u>a</u>i)
-* {{ttbc|et}}: [[kui]], [[milline]], [[selline]] <!--[[taoline]]-->
-* {{ttbc|de}}: [[was für]], [[wie]], [[so#German|so]]
-* {{ttbc|hu}}: [[micsoda]], [[milyen]]
-* {{ttbc|id}}: [[apa]]
-* {{ttbc|it}}: [[che]]
+* {{ttbc|yue}}: {{t|yue|咁|tr=gam|sc=Hani}}, {{t|yue|真係|sc=Hani}}, {{t|yue|真系|tr=jān h<u>a</u>i|sc=Hani}}, {{t|yue|的確係|sc=Hani}}, {{t|yue|的确系|tr=dīkkok h<u>a</u>i|sc=Hani}}, {{t|yue|真正係|sc=Hani}}, {{t|yue|真正系|tr=jānjing h<u>a</u>i|sc=Hani}}
+* {{ttbc|et}}: {{t|et|kui}}, {{t|et|milline}}, {{t|et|selline}} <!--[[taoline]]-->
+* {{ttbc|de}}: {{t|de|was für}}, {{t|de|wie}}, {{t|de|so}}
+* {{ttbc|hu}}: {{t|hu|micsoda}}, {{t|hu|milyen}}
+* {{ttbc|id}}: {{t|id|apa}}
+* {{ttbc|it}}: {{t|it|che}}
 {{trans-mid}}
-* {{ttbc|pt}}: [[que]]
-* {{ttbc|es}}: [[qué]]
+* {{ttbc|pt}}: {{t|pt|que}}
+* {{ttbc|es}}: {{t|es|qué}}
 {{trans-bottom}}
 
 ====Translations====
@@ -308,16 +307,16 @@ From {{etyl|enm|en}} {{term|what|lang=enm}}, from {{etyl|ang|en}} {{term|hwæt||
 
 ====Translations====
 {{trans-top|expression of surprise}}
-* Bulgarian: [[какво]]! (kakvo)
-* Czech: [[cože]]?
-* Dutch: [[wat]]!
-* Estonian: [[mida]]?, [[mis]]?, [[misasja]]?, [[kuidas]]?
-* Finnish: [[mikä|mitä]]! (1)
-* French: [[quoi]]&nbsp;!, [[comment]]&nbsp;!
-* German: [[was#German|was]]!
-* Greek: [[τι]];
-* Hebrew: [[מה]]? (ma)
-* Hungarian: [[mi]]? (1)
+* Bulgarian: {{t|bg|какво!|tr=kakvo!|sc=Cyrl}}
+* Czech: {{t|cs|cože?}}
+* Dutch: {{t|nl|wat!}}
+* Estonian: {{t|et|mida?}}, {{t|et|mis?}}, {{t|et|misasja?}}, {{t|et|kuidas?}}
+* Finnish: {{qualifier|1}} {{t|fi|mitä!}}
+* French: {{t|fr|quoi|alt=quoi{{NNBS}}!}}, {{t|fr|comment|alt=comment{{NNBS}}!}}
+* German: {{t|de|was!}}
+* Greek: {{t|el|τι|sc=Grek}}
+* Hebrew: {{t|he|מָה?|tr=ma?|sc=Hebr}}
+* Hungarian: {{qualifier|1}} {{t|hu|mi?}}
 * Icelandic: {{t+|is|ha?}}
 * Indonesian: {{t+|id|apa}}
 {{trans-mid}}
@@ -325,12 +324,12 @@ From {{etyl|enm|en}} {{term|what|lang=enm}}, from {{etyl|ang|en}} {{term|hwæt||
 * Japanese: {{t+|ja|何|tr=なに, nani}}
 * Malay: {{t+|ms|apa}}
 * Manx: {{t|gv|yagh?}}
-* Polish: [[co#Polish|co]]!
-* Portuguese: [[o quê?]]
+* Polish: {{t|pl|co!}}
+* Portuguese: {{t|pt|o quê?}}
 * Russian: {{t+|ru|как!|tr=kak!|sc=Cyrl}}, {{t+|ru|что!|tr=što!|sc=Cyrl}}
 * Slovak: {{t+|sk|čo}}
 * Slovene: {{t|sl|káj!}}, {{t+|sl|res|alt=a rés!}}
-* Spanish: ¡[[qué]]! ¿[[no]]?
+* Spanish: {{t|es|¡qué!}}, {{t|es|¿no?}}
 * Swedish: {{t+|sv|va!}}
 * Tagalog: {{t+|tl|ano}}, {{t|tl|ha}}
 {{trans-bottom}}
@@ -354,16 +353,16 @@ From {{etyl|enm|en}} {{term|what|lang=enm}}, from {{etyl|ang|en}} {{term|hwæt||
 * Estonian: {{t+|et|mis}}
 * Finnish: {{t+|fi|mikä}}
 * French: {{t+|fr|quel|m}}
-* German: [[welche|welche(r,s)]]
+* German: {{t|de|welcher|m}}, {{t|de|welches|n}}, {{t|de|welche|f|pl}}
 * Haitian Creole: {{t|ht|ki}}
 * Hebrew: {{t|he|איזה|tr='éyze|sc=Hebr}}
 * Hungarian: {{t+|hu|milyen}}, {{t+|hu|melyik}}
 * Italian: {{t+|it|che}}
 * Latin: {{t+|la|qui|m}}, {{t|la|quae|f}}, {{t+|la|quod|n}}
-* Polish: {{t+|pl|który|m}}, {{t|pl|która|f}}, {{t|pl|które|n}} (which of certain choices); {{t+|pl|jaki|m}}, {{t+|pl|jaka|f}}, {{t|pl|jakie|n}} (which kind of)
+* Polish: {{t+|pl|który|m}}, {{t|pl|która|f}}, {{t|pl|które|n}} (which of certain choices), {{t+|pl|jaki|m}}, {{t+|pl|jaka|f}}, {{t|pl|jakie|n}} (which kind of)
 {{trans-mid}}
 * Romanian: {{t+|ro|ce}}
-* Russian: [[который]]/[[которая]]/[[которое]] (kotóryj/kotóraja/kotóroje) ''m/f/n'', [[какой]]/[[какая]]/[[какое]] (kakój/kakája/kakóje) ''m/f/n''
+* Russian: {{t|ru|кото́рый|m|sc=Cyrl}}, {{t|ru|кото́рая|f|sc=Cyrl}}, {{t|ru|кото́рое|n|sc=Cyrl}}, {{t|ru|како́й|m|sc=Cyrl}}, {{t|ru|кака́я|f|sc=Cyrl}}, {{t|ru|како́е|n|sc=Cyrl}}
 * Scots: {{t|sco|whit}}
 * Scottish Gaelic: {{t|gd|dè}} ''(+definite article)''
 * Slovene: {{t|sl|kákšen}}, {{t+|sl|koliko|alt=kóliko (úra)}}
@@ -383,7 +382,7 @@ From {{etyl|enm|en}} {{term|what|lang=enm}}, from {{etyl|ang|en}} {{term|hwæt||
 * Hungarian: {{t+|hu|milyen}}, {{t+|hu|micsoda}}, {{t+|hu|mekkora}}
 {{trans-mid}}
 * Italian: {{t+|it|quanto}}
-* Russian: [[какой]]/[[какая]]/[[какое]] (kakój/kakája/kakóje) ''m/f/n''
+* Russian: {{t|ru|како́й|m|sc=Cyrl}}, {{t|ru|кака́я|f|sc=Cyrl}}, {{t|ru|како́е|n|sc=Cyrl}}
 * Slovene: {{t|sl|kákšen}}
 * Spanish: {{t+|es|menudo}}
 * Swedish: {{t+|sv|vilken}}, {{t+|sv|sådan}}
@@ -391,16 +390,16 @@ From {{etyl|enm|en}} {{term|what|lang=enm}}, from {{etyl|ang|en}} {{term|hwæt||
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|nl}}: [[welk]]
-* {{ttbc|eo}}: [[kiu]]
-* {{ttbc|et}}: [[milline]]
+* {{ttbc|nl}}: {{t|nl|welk}}
+* {{ttbc|eo}}: {{t|eo|kiu}}
+* {{ttbc|et}}: {{t|et|milline}}
 * {{ttbc|hi}}: {{rfscript|und|sc=Deva}} (kyun)
-* {{ttbc|no}}: [[hvilken]]
+* {{ttbc|no}}: {{t|no|hvilken}}
 {{trans-mid}}
-* {{ttbc|pt}}: [[qual]], [[que]]
-* {{ttbc|ro}}: [[ce#Romanian|ce]]
-* {{ttbc|sk}}: [[čo]]
-* {{ttbc|te}}: [[ఏ]] (ae)
+* {{ttbc|pt}}: {{t|pt|qual}}, {{t|pt|que}}
+* {{ttbc|ro}}: {{t|ro|ce}}
+* {{ttbc|sk}}: {{t|sk|čo}}
+* {{ttbc|te}}: {{t|te|ఏ|tr=ae|sc=Telu}}
 {{trans-bottom}}
 
 ===Derived terms===
