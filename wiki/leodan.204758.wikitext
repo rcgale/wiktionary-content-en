@@ -1,13 +1,16 @@
 ==Old English==
 
 ===Etymology===
-(Closely related to [[leod|lēod]] and [[leode|lēode]]).  From {{etyl|gem-pro|ang}} {{term/t|gem-pro|*leudaną}}, from Indo-European ''*leudh-'' ‘to grow, come up’.  Cognates include Old Saxon [[liodan]], Old High German [[liotan]], Gothic [[𐌻𐌹𐌿𐌳𐌰𐌽]].  The Indo-European root is also the source of Albanian {{term|lind||to be born, to spring|lang=sq}} < {{term|lej||to generate, produce, give birth to|lang=sq}}, Greek {{l|grc|ἐλεύθερος}} ‘free, freeman’, Latin [[liber]] ‘free’, Old Irish [[luss]] ‘plant’.
+From {{etyl|gem-pro|ang}} {{term/t|gem-pro|*leudaną}}, from {{etyl|ine-pro|ang}} {{term/t|ine-pro|*lewdʰ-||to grow, come up}}.  Cognates include Old Saxon {{term/t|osx|liodan}}, Old High German {{term/t|goh|liotan}}, Gothic {{term/t|got|𐌻𐌹𐌿𐌳𐌰𐌽}}.  The Indo-European root is also the source of Albanian {{term|lind||to be born, to spring|lang=sq}} < {{term|lej||to generate, produce, give birth to|lang=sq}}, Ancient Greek {{term/t|grc|ἐλεύθερος||free, freeman}}, Latin {{term/t|la|liber||free}}, Old Irish {{term/t|sga|luss||plant}}.
 
 ===Pronunciation===
 * {{IPA|/ˈleːodan/|lang=ang}}
 
 ===Verb===
-{{ang-verb|type=strong|class=II|head=lēodan}}
+{{ang-verb|head=lēodan}}
 
 # to [[grow]]
 #: ''Of ðam twige '''ludon''' reðe wæstme'': from that branch sprang dire fruits.  (Cædmon's ''Metrical Paraphrase'')
+
+====Conjugation====
+{{ang-conj-strong|class=2|lēod|mutstem=līed|lēad|lud|lod}}
