@@ -104,14 +104,13 @@ From {{etyl|enm|en}} {{term|one|lang=enm}}, {{term|oon|lang=enm}}, {{term|on|lan
 * Chuvash: {{t|cv|пĕрре|tr=pĕrre|sc=Cyrl}}
 * Colorado: {{t|cof|mã}}, {{t|cof|mãka}}
 * Comanche: {{t|com|sʉmʉ}}
-* Coptic:
-*: {{ttbc|Bohairic}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|cop|ⲟⲩⲁⲓ|m|tr=wai}}
-*: {{ttbc|Sahidic}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|cop|ⲟⲩⲁ|m|tr=wa}}
+* Coptic{{t|cop|ⲟⲩⲁⲓ|m|tr=wai}} {{qualifier|Bohairic dialect}}, {{t|cop|ⲟⲩⲁ|m|tr=wa}} {{qualifier|Sahidic dialect}}
 * Cornish: {{t|kw|un}}, {{t|kw|onen}}, {{t|kw|udn}}
 * Corsican: {{t+|co|unu}}
 * Cree: {{t|cr|pâyuk|sc=Cans}}
 * Crimean Tatar: {{t|crh|bir}}
 * Czech: {{t+|cs|jeden|m}}
+* Dakota: {{t|dak|wancha}}
 * Dalmatian: {{t|dlm|join}}
 * Danish: {{t|da|én}}, {{t+|da|et}}
 * Dena'ina: {{t|tfn|ts'ełq'i}}
@@ -167,7 +166,6 @@ From {{etyl|enm|en}} {{term|one|lang=enm}}, {{term|oon|lang=enm}}, {{term|on|lan
 * Inupiak: {{t|ik|atausriq}}
 * Irish: {{t+|ga|aon}}, {{t+|ga|amháin}}
 *: Old Irish: {{t|sga|óen}}
-* {{ttbc|Iroquoian}}<!-- name not recognised by xte: update [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->:
 *: Laurentian: {{t|lre|segada}}
 * Italian: {{t+|it|uno}}, {{qualifier|[[Pugliese]]}} {{t+|it|nu}}
 * Japanese: {{t+|ja|一|tr=[[いち]], ichi}}, {{t+|ja|一つ|tr=[[ひとつ]], hitotsu}}, {{t+|ja|１}}
@@ -232,7 +230,8 @@ From {{etyl|enm|en}} {{term|one|lang=enm}}, {{term|oon|lang=enm}}, {{term|on|lan
 * Marshallese: {{t|mh|juon}}
 * Mi'kmaq: {{t|mic|nāookt}}
 * {{trreq|mwl}}
-* {{ttbc|Miwok}}<!-- name not recognised by xte: update [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: [[kenne]]
+* Miwok:
+*: {{ttbc|csi}}: {{t|csi|kenne}}
 * Mochica: {{t|omc|onäk}}
 * Mohawk: {{t|moh|énska}}
 * {{ttbc|mn}}: {{t|mn|нэг|tr=neg|sc=Cyrl}}, {{t|mn|ᠨᠢᠭᠡᠨ|tr=nigen|sc=Cyrl}}
@@ -250,11 +249,10 @@ From {{etyl|enm|en}} {{term|one|lang=enm}}, {{term|oon|lang=enm}}, {{term|on|lan
 * Ngarrindjeri: {{t|nay|jammelai}}
 * Nivkh: {{t|niv|nin|sc=Cyrl}}
 * Norman: {{t|roa-nor|eun}}
-* North Frisian:
-*: {{ttbc|Sylt}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|frr|jen}}
+* North Frisian: {{t|frr|jen}} {{qualifier|Sylt dialect}}
 * Northern Sami: {{t|se|okta}}
 * Northern Sotho:
-*: {{ttbc|Sepedi}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: [[tee]]
+*: {{ttbc|Sepedi}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|nso|tee}}
 * Norwegian:
 *: Bokmål: {{t+|no|én}}, {{t+|nb|ett}}
 *: Nynorsk: {{t|nn|éin}}, {{t|nn|éi}}, {{t|nn|eitt}}
@@ -314,8 +312,6 @@ From {{etyl|enm|en}} {{term|one|lang=enm}}, {{term|oon|lang=enm}}, {{term|on|lan
 * {{trreq|sip}}
 * Sindhi: {{t+|sd|هڪ|alt=هِڪُ|sc=sd-Arab}}
 * Sinhalese: {{t+|si|එක|tr=eka}}
-* {{ttbc|Siouan}}<!-- name not recognised by xte: update [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->:
-*: Dakota: {{t|dak|wancha}}
 * Slovak: {{t+|sk|jeden}}
 * Slovene: {{t|sl|èn}}, {{qualifier|when not modifying a noun}} {{t|sl|êden}}, {{qualifier|when counting}} {{t|sl|êna}}
 * Somali: {{t|so|kow}}, {{t|so|mid}}, {{t|so|hal}}
@@ -348,7 +344,7 @@ From {{etyl|enm|en}} {{term|one|lang=enm}}, {{term|oon|lang=enm}}, {{term|on|lan
 * Tupinambá: {{t|tpn|îepé}}, {{t|tpn|oîepé}}
 * Turkish: {{t+|tr|bir}}
 * Turkmen: {{t+|tk|bir}}
-* {{ttbc|Tzutujil}}<!-- name not recognised by xte: update [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: [[jun]]
+* Tz'utujil: {{t|tzj|jun}}
 * Ukrainian: {{t+|uk|один|tr=odýn}}
 * Umbrian: {{t|xum|𐌖𐌍𐌔|tr=uns|sc=Ital}}
 * Upper Sorbian: {{t|hsb|jedyn|m}}
