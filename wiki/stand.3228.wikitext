@@ -278,7 +278,7 @@ Cognate with {{etyl|sco|-}} {{term|stand||to stand|lang=sco}}, {{etyl|fy|-}} {{t
 * Portuguese: {{t|pt|levantar-se}}, {{t+|pt|pôr-se}} (''de pé'')
 * Romanian: {{t+|ro|ridica}}
 * Romansch: {{t|rm|star si}}
-* Russian: {{t+|ru|вставать|sc=Cyrl|tr=vstavát’}} {{impf}}, {{t+|ru|встать|sc=Cyrl|tr=vstat’}} {{pf.}}
+* Russian: {{t+|ru|вставать|impf|sc=Cyrl|tr=vstavát’}}, {{t+|ru|встать|pf|sc=Cyrl|tr=vstat’}}
 * Scottish Gaelic: {{t|gd|seas}}
 * Serbo-Croatian: {{t|sh|ustati}}
 * Spanish: {{t+|es|levantarse}}, {{t+|es|pararse}}
@@ -343,7 +343,7 @@ Cognate with {{etyl|sco|-}} {{term|stand||to stand|lang=sco}}, {{etyl|fy|-}} {{t
 * Norwegian: {{t|no|motstå}}
 * Portuguese: {{t+|pt|aguentar}}, {{t|pt|passar por}}
 * Romanian: {{t|ro|fi supus}}
-* Russian: {{t+|ru|выдерживать|sc=Cyrl|tr=vydérživat’}} {{impf}}, {{t+|ru|выдержать|sc=Cyrl|tr=výderžat’}}, {{t+|ru|выстоять|tr=výstojat’}}
+* Russian: {{t+|ru|выдерживать|impf|sc=Cyrl|tr=vydérživat’}}, {{t+|ru|выдержать|sc=Cyrl|tr=výderžat’}}, {{t+|ru|выстоять|tr=výstojat’}}
 * Scottish Gaelic: {{t|gd|seas}}
 * Serbo-Croatian: {{t|sh|izdržati}}
 * Swahili: {{t+|sw|msimamo}}
@@ -366,7 +366,7 @@ Cognate with {{etyl|sco|-}} {{term|stand||to stand|lang=sco}}, {{etyl|fy|-}} {{t
 * Malay: {{t+|ms|tahan}}
 * Norwegian: {{t|no|motstå}}, {{t|no|tåle}}
 * Portuguese: {{t+|pt|tolerar}}, {{t+|pt|aguentar}}, {{t+|pt|suportar}}
-* Russian: {{t+|ru|выносить|sc=Cyrl|tr=vynosít’}} {{impf}}, {{t+|ru|вынести|sc=Cyrl|tr=výnesti}} {{pf.}}, {{t+|ru|выдерживать|sc=Cyrl|tr=vydérživat’}} {{impf}}, {{t+|ru|выдержать|sc=Cyrl|tr=výderžat’}}
+* Russian: {{t+|ru|выносить|impf|sc=Cyrl|tr=vynosít’}}, {{t+|ru|вынести|pf|sc=Cyrl|tr=výnesti}}, {{t+|ru|выдерживать|impf|sc=Cyrl|tr=vydérživat’}}, {{t+|ru|выдержать|sc=Cyrl|tr=výderžat’}}
 * Scottish Gaelic: {{t|gd|fuiling}}
 * Serbo-Croatian: {{t|sh|trpeti}}
 * Sorbian:
@@ -398,7 +398,7 @@ Cognate with {{etyl|sco|-}} {{term|stand||to stand|lang=sco}}, {{etyl|fy|-}} {{t
 * Norwegian: {{t|no|reise opp}}
 * Persian: {{t|fa|وایسوندن|tr=vâysundan|sc=fa-Arab}}
 * Portuguese: {{t+|pt|encostar}}, {{t+|pt|levantar}}, {{t+|pt|erguer}}
-* Russian: {{t+|ru|ставить|sc=Cyrl|tr=stávit’}} {{impf}}, {{t+|ru|поставить|sc=Cyrl|tr=postávit’}} {{pf.}}
+* Russian: {{t+|ru|ставить|impf|sc=Cyrl|tr=stávit’}}, {{t+|ru|поставить|pf|sc=Cyrl|tr=postávit’}}
 * Scottish Gaelic: {{t|gd|seas}}
 * Serbo-Croatian: {{t|sh|postaviti}}
 * Sorbian:
@@ -617,7 +617,7 @@ Cognate with {{etyl|sco|-}} {{term|stand||to stand|lang=sco}}, {{etyl|fy|-}} {{t
 
 {{trans-top|platform on which a witness testifies in court}}
 * Danish: {{t|da|vidneskranke}}
-* Finnish: {{t+|fi|aitio}}, [[todistajanaitio]]
+* Finnish: {{t+|fi|aitio}}, {{t|fi|todistajanaitio}}
 * German: {{t|de|Zeugenstand|m}}
 {{trans-mid}}
 * Japanese: {{t|ja|証言台|tr=shougen-dai}}
