@@ -90,7 +90,7 @@ From {{etyl|enm|en}} {{term|speken||to speak|lang=enm}}, from {{etyl|ang|en}} {{
 * Asturian: {{t+|ast|falar}}
 * {{trreq|av}}
 * Azeri: {{t+|az|danışmaq}}
-* Belarusian: {{t+|be|гаварыць|tr=havarýcʹ}} {{impf}}, {{t|be|сказаць|tr=skazác’}} {{pf.}}, {{t|be|размаўляць|tr=razmaŭljácʹ}}
+* Belarusian: {{t+|be|гаварыць|impf|tr=havarýcʹ}}, {{t|be|сказаць|pf|tr=skazác’}}, {{t|be|размаўляць|tr=razmaŭljácʹ}}
 * Bengali: {{t|bn|বলা|tr=bôla|sc=Beng}}
 * Breton: {{t+|br|komz}}
 * Bulgarian: {{t+|bg|говоря|tr=govórja}}
@@ -114,7 +114,7 @@ From {{etyl|enm|en}} {{term|speken||to speak|lang=enm}}, from {{etyl|ang|en}} {{
 * Georgian: {{t|ka|ლაპარაკი|tr=laparaki|sc=Geor}}
 * German: {{t+|de|sprechen}}, {{t+|de|reden}}
 * Greek: {{t+|el|μιλώ|tr=miló}}, {{t+|el|λέω|tr=léo}}
-* Guaraní: [[ñe'ẽ]]
+* Guaraní: {{t|gn|ñe'ẽ}}
 * Guernésiais: {{t|roa-grn|parlaïr}}
 * Hebrew: {{t+|he|דיבר|tr=dibér}}
 * Hindi: {{t+|hi|बोलना|tr=bolnā}}
@@ -147,7 +147,7 @@ From {{etyl|enm|en}} {{term|speken||to speak|lang=enm}}, from {{etyl|ang|en}} {{
 * Marathi: {{t|mr|बोलणे|sc=Deva}}
 * {{trreq|xmf}}
 * Mongolian: {{t|mn|ярих|tr=jarih|sc=Cyrl}}
-* Nahuatl: [[tlatoa]]
+* Nahuatl: {{t|nah|tlatoa}}
 * Navajo: {{t|nv|yáłtiʼ}}
 * Ngarrindjeri: {{t|nay|kungun}}
 * North Frisian: {{qualifier|Mooring}} {{t|frr|spreege}}; {{qualifier|Föhr-Amrum}} {{t|frr|snaake}}, {{t|frr|spreeg}}
@@ -165,14 +165,14 @@ From {{etyl|enm|en}} {{term|speken||to speak|lang=enm}}, from {{etyl|ang|en}} {{
 * Punjabi: {{t|pa|ਬੋਲਣਾ|sc=Guru}}
 * Quechua: {{t+|qu|rimay}}
 * Romanian: {{t+|ro|vorbi}}, {{t+|ro|discuta}}
-* Romansch: [[pledar]], [[tschantschar]]
-* Russian: {{t+|ru|говорить|tr=govorítʹ}} {{impf}}, {{t+|ru|разговаривать|tr=razgovárivatʹ}} {{impf}}
+* Romansch: {{t|rm|pledar}}, {{t|rm|tschantschar}}
+* Russian: {{t+|ru|говорить|impf|tr=govorítʹ}}, {{t+|ru|разговаривать|impf|tr=razgovárivatʹ}}
 * Sami:
 *: Lule Sami: {{t|smj|hållat}}
 *: Northern Sami: {{t|se|hállat}}, {{t|se|hoallat}}, {{t|se|hupmat}}
 *: Southern Sami: {{t|sma|håaledh}}, {{t|sma|håalodh}}, {{t|sma|nåalodh}}
 * Santali: {{t|sat|ᱨᱳᱲ|tr=rorr|sc=Olck}}
-* Scottish Gaelic: [[bruidhinn]]
+* Scottish Gaelic: {{t|gd|bruidhinn}}
 * Serbo-Croatian: {{t|sh|говорити|sc=Cyrl}}, {{t|sh|govoriti}}
 * Sicilian: {{t+|scn|parrari}}, {{t+|scn|parlari}}
 * Sinhalese: {{t|si|කථා කරනවා|tr=kathā karanavā|sc=Sinh}}
@@ -180,7 +180,7 @@ From {{etyl|enm|en}} {{term|speken||to speak|lang=enm}}, from {{etyl|ang|en}} {{
 * Slovene: {{t+|sl|govoriti}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|powědaś|impf}}, {{t|dsb|powěźeś|pf}}
-*: Upper Sorbian: {{t|hsb|rěčeć}} {{impf}}, {{t|hsb|porěčeć}} {{pf.}}
+*: Upper Sorbian: {{t|hsb|rěčeć|impf}}, {{t|hsb|porěčeć|pf}}
 * Sotho: {{t+|st|bua}}
 * Spanish: {{t+|es|hablar}}
 * {{trreq|sva}}
@@ -193,7 +193,7 @@ From {{etyl|enm|en}} {{term|speken||to speak|lang=enm}}, from {{etyl|ang|en}} {{
 * Telugu: {{t|te|మాట్లాడు|tr=māṭlāḍu|sc=Telu}}
 * Thai: {{t+|th|พูด|tr=pôot}}
 * Tibetan: {{t|bo|སྐད་ཆ་བཤད|tr=skad cha bshad|sc=Tibt}}
-* Tupinambá: [[nhe'eng]]
+* Tupinambá: {{t|tpn|nhe'eng}}
 * Turkish: {{t+|tr|konuşmak}}
 * Turkmen: {{t|tk|gürlemek}}, {{t|tk|geplemek}}, {{t|tk|sözlemek}}
 * Tuvan: {{t|tyv|чугаалаар|tr=čugaalaar}}
@@ -242,7 +242,7 @@ From {{etyl|enm|en}} {{term|speken||to speak|lang=enm}}, from {{etyl|ang|en}} {{
 {{trans-mid}}
 * Jèrriais: {{t|roa-jer|pâler}}
 * Lithuanian: {{t+|lt|kalbėti}}
-* Lojban: [[baupli]]
+* Lojban: {{t|jbo|baupli}}
 * Norwegian: {{t+|no|snakke}}
 * Portuguese: {{t+|pt|falar}}
 * Quechua: {{t+|qu|rimay}}
