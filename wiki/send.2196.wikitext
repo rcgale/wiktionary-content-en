@@ -92,7 +92,7 @@ From {{etyl|enm|en}} {{term|senden||to send|lang=enm}}, from {{etyl|ang|en}} {{t
 * Bakhtiari: {{t|bqi|فشنیدن|tr=fešniðen|sc=fa-Arab}}
 * {{trreq|ba}}
 * {{trreq|eu}}
-* Belarusian: {{t|be|пасылаць|tr=pasylácʹ|sc=Cyrl}} {{impf}}, {{t|be|слаць|tr=slacʹ|sc=Cyrl}} {{impf}}, {{t|be|паслаць|tr=paslácʹ|sc=Cyrl}} {{pf.}}
+* Belarusian: {{t|be|пасылаць|impf|tr=pasylácʹ|sc=Cyrl}}, {{t|be|слаць|impf|tr=slacʹ|sc=Cyrl}}, {{t|be|паслаць|pf|tr=paslácʹ|sc=Cyrl}}
 * Bengali: {{t|bn|পাঠা|tr=paṭha|sc=Beng}}
 * {{trreq|br}}
 * Bulgarian: {{t+|bg|изпращам|tr=izpraštam|sc=Cyrl}}
@@ -103,8 +103,8 @@ From {{etyl|enm|en}} {{term|senden||to send|lang=enm}}, from {{etyl|ang|en}} {{t
 * Chinese:
 *: Mandarin: {{t+|cmn|送|tr=sòng|sc=Hani}}
 * {{trreq|co}}
-* Crimean Tatar: [[yollamaq]], [[yibermek]]
-* Czech: {{t+|cs|poslat}} {{pf.}}
+* Crimean Tatar: {{t|crh|yollamaq}}, {{t|crh|yibermek}}
+* Czech: {{t+|cs|poslat|pf}}
 * Danish: {{t|da|sende}}
 * {{trreq|dv}}
 * Dutch: {{t+|nl|zenden}}, {{t+|nl|verzenden}}, {{t+|nl|sturen}}, {{t|nl|opsturen}}
@@ -119,7 +119,7 @@ From {{etyl|enm|en}} {{term|senden||to send|lang=enm}}, from {{etyl|ang|en}} {{t
 * Georgian: {{t|ka|გაგზავნის|tr=gagzavnis|sc=Geor}}
 * German: {{t+|de|senden}}, {{t+|de|schicken}}
 * Greek: {{t+|el|στέλνω|tr=stelno|sc=Grek}}
-* Guaraní: [[mondo]]
+* Guaraní: {{t|gn|mondo}}
 * {{trreq|gu}}
 * {{trreq|ha}}
 * Hawaiian: {{t|haw|hoʻouna}}
@@ -133,7 +133,7 @@ From {{etyl|enm|en}} {{term|senden||to send|lang=enm}}, from {{etyl|ang|en}} {{t
 * Interlingua: {{t|ia|inviar}}
 * {{trreq|ie}}
 * Irish: {{t|ga|cuir}}
-* Italian: {{t+|it|inviare}},  {{t+|it|mandare}}, {{t+|it|rimandare}}, {{t+|it|restituire}}
+* Italian: {{t+|it|inviare}}, {{t+|it|mandare}}, {{t+|it|rimandare}}, {{t+|it|restituire}}
 * Japanese: {{t+|ja|送る|tr=[[おくる]], okuru|sc=Jpan}}, {{t|ja|送信|tr=そうしんする, sōshin suru|alt=送信する}}
 * {{trreq|jv}}
 * Jèrriais: {{t|roa-jer|env'yer}}
@@ -159,7 +159,7 @@ From {{etyl|enm|en}} {{term|senden||to send|lang=enm}}, from {{etyl|ang|en}} {{t
 * {{trreq|mr}}
 * Mirandese: {{t|mwl|ambiar}}, {{t|mwl|çpachar}}, {{t|mwl|mandar}}
 * Mongolian: {{t|mn|илгээх|tr=ilgeeh|sc=Cyrl}}
-* Nahuatl: [[yua]], [[tlanuati]]
+* Nahuatl: {{t|nah|yua}}, {{t|nah|tlanuati}}
 * Neapolitan: {{t|nap|mannà}}
 * {{trreq|ne}}
 * Norwegian: {{t+|no|sende}}
@@ -169,13 +169,13 @@ From {{etyl|enm|en}} {{term|senden||to send|lang=enm}}, from {{etyl|ang|en}} {{t
 * {{trreq|or}}
 * Pashto: {{t|ps|لېږل|tr=lezzəl|sc=ps-Arab}}, {{t+|ps|استول|tr=astawəl|sc=ps-Arab}}
 * Persian: {{t+|fa|فرستادن|tr=ferestâdan}}
-* Polish: {{t+|pl|wysyłać}} {{impf}}, {{t+|pl|wysłać}} {{pf.}}
+* Polish: {{t+|pl|wysyłać|impf}}, {{t+|pl|wysłać|pf}}
 * Portuguese: [[enviar]], [[emitir]]; coloq. [[mandar]], {{t+|pt|despachar}}
 * {{trreq|pa}}
 * {{trreq|raj}}
 * Romanian: {{t+|ro|trimite}}, {{t+|ro|expedia}}
 * Romansch: {{t|rm|trametter}}, {{t|rm|spedir}}
-* Russian: {{t+|ru|посылать|tr=posylátʹ}} {{impf}}, {{t+|ru|слать|tr=slatʹ}} {{impf}}, {{t+|ru|послать|tr=poslátʹ}} {{pf.}}, {{t+|ru|отправлять|tr=otpravljátʹ|sc=Cyrl}} {{impf}}, {{t+|ru|отправить|tr=otprávitʹ|sc=Cyrl}} {{pf.}}
+* Russian: {{t+|ru|посылать|impf|tr=posylátʹ}}, {{t+|ru|слать|impf|tr=slatʹ}}, {{t+|ru|послать|pf|tr=poslátʹ}}, {{t+|ru|отправлять|impf|tr=otpravljátʹ|sc=Cyrl}}, {{t+|ru|отправить|pf|tr=otprávitʹ|sc=Cyrl}}
 * Sanskrit: {{t|sa|प्रेषयति|sc=Deva}}
 * {{trreq|sc}}
 * {{trreq|sco}}
@@ -186,17 +186,17 @@ From {{etyl|enm|en}} {{term|senden||to send|lang=enm}}, from {{etyl|ang|en}} {{t
 * Sicilian: {{t+|scn|mannari}}
 * {{trreq|sd}}
 * {{trreq|si}}
-* Slovak: {{t|sk|posielať}} {{impf}}, {{t|sk|poslať}} {{pf.}}
-* Slovene: {{t+|sl|poslati}} {{pf.}}
+* Slovak: {{t|sk|posielať|impf}}, {{t|sk|poslať|pf}}
+* Slovene: {{t+|sl|poslati|pf}}
 * {{trreq|so}}
 * Spanish: {{t+|es|enviar}}, {{t+|es|mandar}}
 * Swedish: {{t+|sv|skicka}}, {{t+|sv|sända}}
 * Tamil: {{t+|ta|அனுப்பு|tr=anuppu|sc=Taml}}
 * Telugu: {{t+|te|పంపు|tr=paMpu}}, {{t+|te|పంపించు|tr=paMpiMcu}}
 * Thai: {{t|th|ส่ง|tr=song|sc=Thai}}
-* Turkish: {{t+|tr|göndermek}},  {{t+|tr|yollamak}}
+* Turkish: {{t+|tr|göndermek}}, {{t+|tr|yollamak}}
 * {{trreq|tk}}
-* Ukrainian: {{t|uk|посилати|tr=posyláty|sc=Cyrl}} {{impf}}, {{t|uk|слати|tr=sláty|sc=Cyrl}} {{impf}}, {{t|uk|послати|tr=posláty|sc=Cyrl}} {{pf.}}
+* Ukrainian: {{t|uk|посилати|impf|tr=posyláty|sc=Cyrl}}, {{t|uk|слати|impf|tr=sláty|sc=Cyrl}}, {{t|uk|послати|pf|tr=posláty|sc=Cyrl}}
 * Urdu: {{t|ur|بهيجنا|tr=bhejnā|sc=ur-Arab}}
 * {{trreq|ug}}
 * {{trreq|uz}}
