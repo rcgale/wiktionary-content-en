@@ -86,7 +86,7 @@ From {{etyl|enm|en}} {{term|byen|lang=enm}}, {{term|biggen|lang=enm}}, {{term|bu
 * Avar: {{t|av|бичун босизе|sc=Cyrl}}
 * Azeri: {{t|az|satın almaq}}
 * Basque: {{t+|eu|erosi}}
-* Belarusian: {{t|be|купляць|tr=kupljácʹ}} {{impf}}, {{t|be|купіць|tr=kupícʹ|sc=Cyrl}} {{pf.}}
+* Belarusian: {{t|be|купляць|impf|tr=kupljácʹ}}, {{t|be|купіць|pf|tr=kupícʹ|sc=Cyrl}}
 * Bengali: {{t|bn|কেনা|tr=kena|sc=Beng}}
 * Breton: {{t+|br|prenañ}}
 * Bulgarian: {{t+|bg|купувам|tr=kupúvam}}
@@ -111,9 +111,9 @@ From {{etyl|enm|en}} {{term|byen|lang=enm}}, {{term|biggen|lang=enm}}, {{term|bu
 * Gothic: {{t|got|𐌱𐌿𐌲𐌾𐌰𐌽|tr=bugjan|sc=Goth}}
 * Greek: {{t+|el|αγοράζω|tr=agorázo}}
 *: Ancient: {{t|grc|ὠνέομαι|sc=polytonic}}, {{t|grc|πρίαμαι|sc=polytonic}}
-* Guaraní: [[jogua]]
+* Guaraní: {{t|gn|jogua}}
 * Haitian Creole: {{t|ht|achte}}
-* Hausa: [[sáyṓ]]
+* Hausa: {{t|ha|sáyṓ}}
 * Hawaiian: {{t|haw|kūʻai}}
 * Hebrew: {{t+|he|קנה|tr=kaná}}
 * Hindi: {{t|hi|मोल लेना|tr=mol lenā}}, {{t|hi|ख़रीदना|tr=xarīdnā|sc=Deva}}
@@ -121,7 +121,7 @@ From {{etyl|enm|en}} {{term|byen|lang=enm}}, {{term|biggen|lang=enm}}, {{term|bu
 * Icelandic: {{t+|is|kaupa}}
 * Ido: {{t+|io|komprar}}
 * Indonesian: {{t+|id|beli|alt=membeli}}
-* Interlingua: [[comprar]], [[emer]]
+* Interlingua: {{t|ia|comprar}}, {{t|ia|emer}}
 * Irish: {{t|ga|ceannaigh}}
 * Italian: {{t+|it|comprare}}
 * Japanese: {{t+|ja|買う|tr=[[かう]], kau}}, {{t+|ja|購入|tr=こうにゅうする, kōnyū surú|alt=購入する}}
@@ -129,7 +129,7 @@ From {{etyl|enm|en}} {{term|byen|lang=enm}}, {{term|biggen|lang=enm}}, {{term|bu
 * Kazakh: {{t+|kk|сатып алу|tr=satıp alw|sc=Cyrl}}
 * Khmer: {{t+|km|ទិញ|tr=tɨñ|sc=Khmr}}
 * Korean: {{t+|ko|사다|tr=sada|sc=Hang}}
-* Kurdish: [[standin]]
+* Kurdish: {{t|ku|standin}}
 *: Sorani: {{t+|ku|کڕین|tr=[[kirrîn]]|sc=ku-Arab}}
 {{trans-mid}}
 * Kyrgyz: {{t|ky|сатып алуу|tr=satıp aluu|sc=Cyrl}}
@@ -153,28 +153,28 @@ From {{etyl|enm|en}} {{term|byen|lang=enm}}, {{term|biggen|lang=enm}}, {{term|bu
 * Old Saxon: {{t|osx|buggian}}
 * {{trreq|os}}
 * Persian: {{t+|fa|خریدن|tr=xaridan}}
-* Polish: {{t+|pl|kupować}} {{impf}}, {{t+|pl|kupić}} {{pf.}}
+* Polish: {{t+|pl|kupować|impf}}, {{t+|pl|kupić|pf}}
 * Portuguese: {{t+|pt|comprar}}, {{t+|pt|adquirir}}
 * Quechua: {{t+|qu|rantiy}}
 * Romani: {{t|rom|kinel}}
 * Romanian: {{t+|ro|cumpăra}}
 * Romansch: {{t|rm|cumprar}}, {{t|rm|cumprer}}
-* Russian: {{t+|ru|покупать|tr=pokupát'}} {{impf}}, {{t+|ru|купить|tr=kupít'}} {{pf.}}
+* Russian: {{t+|ru|покупать|impf|tr=pokupát'}}, {{t+|ru|купить|pf|tr=kupít'}}
 * Sardinian: {{t|sc|comparai}}, {{t|sc|comporai}}, {{t|sc|comporare}}, {{t|sc|cumporai}}, {{t|sc|comprai}}
-* Scottish Gaelic: [[ceannaich]]
+* Scottish Gaelic: {{t|gd|ceannaich}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|купити}}, {{t|sh|куповати}}, {{t|sh|покуповати}}
 *: Roman: {{t|sh|kupiti}}, {{t|sh|kupovati}}, {{t|sh|pokupovati}}
-* Sicilian: [[accattari]]
+* Sicilian: {{t|scn|accattari}}
 * Sinhalese: {{t|si|ගන්නවා|tr=gannavā|sc=Sinh}}
 * Slovak: {{t|sk|kúpiť}}, {{t|sk|nakupovať}}
 * Slovene: {{t+|sl|kupiti}}
-* Somali: [[gado]], [[iibso]]
+* Somali: {{t|so|gado}}, {{t|so|iibso}}
 * Sorbian:
 *: Upper Sorbian: {{t+|hsb|kupować}}, {{t|hsb|kupić}}
 * Sotho: {{t+|st|reka}}
 * Spanish: {{t+|es|comprar}}
-* Swahili: [[kununua]]
+* Swahili: {{t|sw|kununua}}
 * Swedish: {{t+|sv|köpa}}
 * Tagalog: {{t+|tl|bili}}, {{t|tl|bilhin}}
 * Tajik: {{t|tg|харидан|tr=xaridan|sc=Cyrl}}
@@ -183,12 +183,12 @@ From {{etyl|enm|en}} {{term|byen|lang=enm}}, {{term|biggen|lang=enm}}, {{term|bu
 * Turkish: {{t+|tr|satın almak}}
 * Turkmen: {{t|tk|satyn almak}}
 * Tuvan: {{t|tyv|садып алыр|tr=sadyp alyr}}
-* Ukrainian: {{t|uk|купувати|tr=kupuváty}} {{impf}}, {{t|uk|купити|tr=kupýty|sc=Cyrl}} {{pf.}}
+* Ukrainian: {{t|uk|купувати|impf|tr=kupuváty}}, {{t|uk|купити|pf|tr=kupýty|sc=Cyrl}}
 * Urdu: {{t|ur|مول لینا|tr=mol lēnā}}, {{t|ur|خریدنا|tr=xarīdnā|sc=ur-Arab}}
 * Uzbek: {{t|uz|sotib olmoq}}
 * Vietnamese: {{t+|vi|mua}}
 * Walloon: {{t+|wa|atchter}}
-* West Frisian: [[keape]]
+* West Frisian: {{t|fy|keape}}
 * {{trreq|yo}}
 {{trans-bottom}}
 
@@ -199,12 +199,12 @@ From {{etyl|enm|en}} {{term|byen|lang=enm}}, {{term|biggen|lang=enm}}, {{term|bu
 * German: {{t+|de|abkaufen}}
 * Greek: {{t+|el|χάβω|sc=Grek}}, {{t+|el|χάφτω|sc=Grek}}
 * Hungarian: {{t+|hu|bevesz}}
-* Kurdish: [[pejirandin]], [[qebûl]] [[kirin]]
+* Kurdish: {{t|ku|pejirandin}}, [[qebûl]] [[kirin]]
 * Luxembourgish: {{t|lb|ofhuelen}}
 {{trans-mid}}
 * Norwegian: {{t+|no|kjøpe}}
 * Portuguese: {{t+|pt|engolir}}, {{t|pt|cair nisso}}
-* Russian: {{t+|ru|верить|tr=vérit'}}{{impf}}, {{t+|ru|поверить|tr=povérit'}} {{pf.}}
+* Russian: {{t+|ru|верить|impf|tr=vérit'}}, {{t+|ru|поверить|pf|tr=povérit'}}
 * Serbo-Croatian: {{t|sh|prihvatiti}}
 * Slovak: {{t|sk|naletieť}}
 * Spanish: {{t+|es|creer}}
