@@ -138,9 +138,9 @@ From {{etyl|enm|en}} {{term|hitten||to hit, strike, make contact with|lang=enm}}
 * Armenian: {{t|hy|խփել}}, {{t|hy|հարվածել}}
 * Aromanian: {{t|rup|agudescu}}, {{t|rup|bat}}
 * Basque: {{t+|eu|jo}}
-* Belarusian: {{t|be|ўдараць|tr=ŭdarácʹ|sc=Cyrl}} {{impf}}, {{t|be|ўдарыць|tr=ŭdárycʹ|sc=Cyrl}} {{pf.}}, {{t|be|біць|tr=bicʹ|sc=Cyrl}} {{impf}}
+* Belarusian: {{t|be|ўдараць|impf|tr=ŭdarácʹ|sc=Cyrl}}, {{t|be|ўдарыць|pf|tr=ŭdárycʹ|sc=Cyrl}}, {{t|be|біць|impf|tr=bicʹ|sc=Cyrl}}
 * Bengali: {{t|bn|আঘাত করা|tr=aghat kôra|sc=Beng}}
-* Bulgarian: {{t+|bg|улучвам}}, {{t+|bg|удрям|tr=údrjam|sc=Cyrl}}, {{t+|bg|бия|tr=bíja}} {{impf}}
+* Bulgarian: {{t+|bg|улучвам}}, {{t+|bg|удрям|tr=údrjam|sc=Cyrl}}, {{t+|bg|бия|impf|tr=bíja}}
 * Burmese: {{t+|my|ရိုက်|tr=yaik|sc=Mymr}}
 * Catalan: {{t+|ca|colpejar}}, {{t+|ca|batre}}, {{t+|ca|pegar}}
 * Chinese:
@@ -179,7 +179,7 @@ From {{etyl|enm|en}} {{term|hitten||to hit, strike, make contact with|lang=enm}}
 * Quechua: {{t|qu|maqay}}
 * Romanian: {{t+|ro|lovi}}, {{t+|ro|bate}}
 * Romansch: {{t|rm|batter}}, {{t|rm|pitgar}}
-* Russian: {{t+|ru|ударять|tr=udarjátʹ}} {{impf}}, {{t+|ru|ударить|tr=udáritʹ}} {{pf.}}, {{t+|ru|стучать|tr=stučátʹ}} {{impf}}, {{t+|ru|стукнуть|tr=stúknutʹ}} {{pf.}}, {{t+|ru|бить|tr=bitʹ}} {{impf}}, {{t+|ru|побить|tr=pobítʹ}} {{pf.}}
+* Russian: {{t+|ru|ударять|impf|tr=udarjátʹ}}, {{t+|ru|ударить|pf|tr=udáritʹ}}, {{t+|ru|стучать|impf|tr=stučátʹ}}, {{t+|ru|стукнуть|pf|tr=stúknutʹ}}, {{t+|ru|бить|impf|tr=bitʹ}}, {{t+|ru|побить|pf|tr=pobítʹ}}
 * Scottish Gaelic: {{t|gd|buail}}
 * Serbo-Croatian: {{t|sh|udariti}}, {{t|sh|bȉti}}, {{qualifier|reflexive}} {{t|sh|zabiti}}, {{qualifier|vulgar}} {{t|sh|opizditi}}
 * Slovak: {{t|sk|udrieť}}, {{t|sk|biť}}
@@ -192,7 +192,7 @@ From {{etyl|enm|en}} {{term|hitten||to hit, strike, make contact with|lang=enm}}
 * Thai: {{t+|th|ตี|tr=tī|sc=Thai}}
 * Tok Pisin: {{t|tpi|paitim}}, {{t|tpi|kilim}}
 * Turkish: {{t+|tr|vurmak}}
-* Ukrainian: {{t|uk|вдаряти|tr=vdarjáty|sc=Cyrl}} {{impf}}, {{t|uk|вдарити|tr=vdáryty|sc=Cyrl}} {{pf.}}, {{t+|uk|бити|tr=býty|sc=Cyrl}} {{impf}}
+* Ukrainian: {{t|uk|вдаряти|impf|tr=vdarjáty|sc=Cyrl}}, {{t|uk|вдарити|pf|tr=vdáryty|sc=Cyrl}}, {{t+|uk|бити|impf|tr=býty|sc=Cyrl}}
 * Urdu: {{t|ur|مارنا|tr=mārnā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|đập}}, {{t+|vi|đánh}}
 * Volapük: {{t+|vo|flapön}}, {{qualifier|augmentative}} {{t|vo|leflapön}}
@@ -370,7 +370,7 @@ From {{etyl|enm|en}} {{term|hitten||to hit, strike, make contact with|lang=enm}}
 
 {{trans-top|success, especially in the entertainment industry}}
 * Bulgarian: [[хит]] (khit) {{g|m}}, [[шлагер]] (šlager) {{g|m}}
-* Catalan: [[èxit]] {{g|m}}
+* Catalan: {{t|ca|èxit|m}}
 * Czech: {{t+|cs|hit|m}}
 * Dutch: {{t+|nl|hit|m}}
 * Finnish: {{t+|fi|hitti}}, {{t+|fi|menestys}}
