@@ -257,8 +257,8 @@ According to the [[w:Oxford English Dictionary|Oxford English Dictionary]], the 
 {{trans-top|about cover of a book or magazine}}
 * Bulgarian: {{t|bg|коричен|tr=koričen}}
 * Chinese: [[封面]] (fēng miàn)
-* Finnish: [[kansi-]]
-* Polish: [[okładkowy]]
+* Finnish: {{t|fi|kansi-}}
+* Polish: {{t|pl|okładkowy}}
 {{trans-mid}}
 * Portuguese: coberto {{g|m}}, coberta {{g|f}}
 * Spanish: {{t+|es|cubierta|f}}
@@ -267,7 +267,7 @@ According to the [[w:Oxford English Dictionary|Oxford English Dictionary]], the 
 
 {{trans-top|concerning a cover version}}
 * Finnish: [[cover-#Finnish|cover-]]
-* Portuguese: [[clonado]] {{g|m}}, clonada {{g|f}}
+* Portuguese: {{t|pt|clonado|m}}, clonada {{g|f}}
 {{trans-mid}}
 * Swedish: compounds with {{t+|sv|cover}}
 {{trans-bottom}}
@@ -340,7 +340,7 @@ According to the [[w:Oxford English Dictionary|Oxford English Dictionary]], the 
 * Arabic: {{t|ar|غطى|tr=ġáṭṭā}}, imperfect: {{t|ar|يغطي|tr=yuġáṭṭī}}
 * Armenian: {{t|hy|ծածկել|tr=çaçkel}}
 * Aromanian: {{t|rup|acoapir}}
-* Belarusian: {{t|be|пакрываць|tr=pakryvác’|sc=Cyrl}} {{impf}}, {{t|be|пакрыць|tr=pakrýc’|sc=Cyrl}} {{pf}}
+* Belarusian: {{t|be|пакрываць|impf|tr=pakryvác’|sc=Cyrl}}, {{t|be|пакрыць|pf|tr=pakrýc’|sc=Cyrl}}
 * Bulgarian: {{t+|bg|скривам|tr=skrivam}}, {{t+|bg|покривам|tr=pokrivam}}
 * Chinese:
 *: Mandarin: {{t|cmn|覆蓋|sc=Hani}}, {{t+|cmn|覆盖|tr=fùgài|sc=Hani}}, {{t+|cmn|覆|tr=fù|sc=Hani}}
@@ -371,14 +371,14 @@ According to the [[w:Oxford English Dictionary|Oxford English Dictionary]], the 
 * Polish: {{t+|pl|zakrywać}} {{impf}}, {{t+|pl|zakryć}} {{pf}}; {{t+|pl|kryć}}, {{t|pl|przykrywać}}, {{t|pl|okrywać}}, {{t+|pl|zakrywać}}, {{t|pl|skrywać}}, {{t|pl|zasłaniać}}, {{t|pl|osłaniać}}
 * Portuguese: {{t+|pt|acobertar}}, {{t+|pt|esconder}}, {{t+|pt|ocultar}}, {{t+|pt|cobrir}}
 * Romanian: {{t+|ro|acoperi}}
-* Russian: {{t|ru|закрывать|tr=zakryvát'}} {{impf}},  {{t|ru|закрыть|tr=zakrýt'}} {{impf}}, {{t|ru|накрывать|tr=nakryvát'}} {{impf}}, {{t|ru|накрыть|tr=nakrýt'}} {{pf}}, {{t|ru|покрывать|tr=pokryvát'}} {{impf}}, {{t|ru|покрыть|tr=pokrýt'}} {{pf}}, {{t|ru|прикрывать|tr=prikryvát'}} {{impf}}, {{t|ru|прикрыть|tr=prikrýt'}} {{pf}}
+* Russian: {{t|ru|закрывать|impf|tr=zakryvát'}}, {{t|ru|закрыть|impf|tr=zakrýt'}}, {{t|ru|накрывать|impf|tr=nakryvát'}}, {{t|ru|накрыть|pf|tr=nakrýt'}}, {{t|ru|покрывать|impf|tr=pokryvát'}}, {{t|ru|покрыть|pf|tr=pokrýt'}}, {{t|ru|прикрывать|impf|tr=prikryvát'}}, {{t|ru|прикрыть|pf|tr=prikrýt'}}
 * Scottish Gaelic: {{t|gd|còmhdaich}}
 * Slovene: {{t|sl|pokriti}}
 * Spanish: {{t+|es|esconder}}, {{t+|es|ocultar}}, {{t+|es|abrigar}}, {{t+|es|cubrir}}
 * Swedish: {{t+|sv|täcka}}, {{t+|sv|skydda}}
 * Telugu: [[మూయు]] (mooyu)
 * Tok Pisin: {{t|tpi|karamapim}}
-* Ukrainian: {{t|uk|покривати|tr=pokryváty|sc=Cyrl}} {{impf}}, {{t|uk|покрити|tr=pokrýty|sc=Cyrl}} {{pf}}
+* Ukrainian: {{t|uk|покривати|impf|tr=pokryváty|sc=Cyrl}}, {{t|uk|покрити|pf|tr=pokrýty|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|mention}}
@@ -433,7 +433,7 @@ According to the [[w:Oxford English Dictionary|Oxford English Dictionary]], the 
 * Italian: {{t+|it|coprire}}
 * Polish: {{t|pl|osłaniać}}, {{t+|pl|kryć}}
 * Portuguese: {{t+|pt|cobrir}}
-* Russian: {{t+|ru|прикрывать|tr=prikryvát'}} {{impf}}, {{t+|ru|прикрыть|tr=prikryt'}} {{pf.}}
+* Russian: {{t+|ru|прикрывать|impf|tr=prikryvát'}}, {{t+|ru|прикрыть|pf|tr=prikryt'}}
 * Slovene: {{t|sl|kriti}}
 * Spanish: {{t+|es|proteger}}, {{t+|es|apuntar}}
 * Swedish: {{t+|sv|täcka}}
