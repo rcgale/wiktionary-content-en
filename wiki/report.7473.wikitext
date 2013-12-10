@@ -71,7 +71,7 @@ From {{etyl|xno|en}} {{term|reporter|lang=fro}}, {{etyl|frm|en}} {{term|reporter
 * Maori: {{t|mi|pūrongo}}, {{t|mi|pūrongorongo}}
 * Portuguese: {{t+|pt|relatar}}
 * Romanian: {{t+|ro|reporta}}
-* Russian: {{t+|ru|сообщать|tr=soobščátʹ}} {{impf}}, {{t+|ru|сообщить|tr=soobščítʹ}} {{pf.}}
+* Russian: {{t+|ru|сообщать|impf|tr=soobščátʹ}}, {{t+|ru|сообщить|pf|tr=soobščítʹ}}
 * Spanish: {{t+|es|informar}}
 * Swedish: {{t+|sv|rapportera}}
 * Turkish: {{t+|tr|raporlamak}}
@@ -92,7 +92,7 @@ From {{etyl|xno|en}} {{term|reporter|lang=fro}}, {{etyl|frm|en}} {{term|reporter
 {{trans-mid}}
 * German: {{t+|de|melden}}
 * Portuguese: {{t+|pt|notificar}}
-* Russian: {{t+|ru|докладывать|tr=dokládyvatʹ}} {{impf}}, {{t+|ru|доложить|tr=doložítʹ}} {{pf.}}, {{t+|ru|отчитываться|tr=otčítyvatʹsja|sc=Cyrl}} {{impf}}, {{t+|ru|отчитаться|tr=otčitátʹsja|sc=Cyrl}} {{pf.}}
+* Russian: {{t+|ru|докладывать|impf|tr=dokládyvatʹ}}, {{t+|ru|доложить|pf|tr=doložítʹ}}, {{t+|ru|отчитываться|impf|tr=otčítyvatʹsja|sc=Cyrl}}, {{t+|ru|отчитаться|pf|tr=otčitátʹsja|sc=Cyrl}}
 * Spanish: {{t|es|notificar}}
 * Turkish: {{t+|tr|bildirmek}}
 {{trans-bottom}}
@@ -103,7 +103,7 @@ From {{etyl|xno|en}} {{term|reporter|lang=fro}}, {{etyl|frm|en}} {{term|reporter
 * Finnish: {{t+|fi|raportoida}}
 * French: rendre des {{t+|fr|comptes}}
 {{trans-mid}}
-* Russian: {{t+|ru|отчитываться|tr=otčítyvatʹsja|sc=Cyrl}} {{impf}}, {{t+|ru|отчитаться|tr=otčitátʹsja|sc=Cyrl}} {{pf.}}
+* Russian: {{t+|ru|отчитываться|impf|tr=otčítyvatʹsja|sc=Cyrl}}, {{t+|ru|отчитаться|pf|tr=otčitátʹsja|sc=Cyrl}}
 * Spanish: {{t|es|ser responsable}}, {{t|es|rendir cuentas}}
 {{trans-bottom}}
 
@@ -119,7 +119,7 @@ From {{etyl|xno|en}} {{term|reporter|lang=fro}}, {{etyl|frm|en}} {{term|reporter
 * German: {{l|de|sich}} {{t+|de|melden}}
 {{trans-mid}}
 * Portuguese: {{t|pt|apresentar-se}}
-* Russian: {{t+|ru|являться|tr=javlátʹsja|sc=Cyrl}} {{impf}}, {{t+|ru|явиться|tr=javítʹsja}} {{pf.}}
+* Russian: {{t+|ru|являться|impf|tr=javlátʹsja|sc=Cyrl}}, {{t+|ru|явиться|pf|tr=javítʹsja}}
 * Spanish: {{t+|es|presentarse}}
 {{trans-bottom}}
 
@@ -154,7 +154,7 @@ From {{etyl|xno|en}} {{term|reporter|lang=fro}}, {{etyl|frm|en}} {{term|reporter
 
 ====Translations====
 {{trans-top|information describing events}}
-* Afrikaans: [[rapport]] {{g|n}}, [[verslag]] {{g|n}}
+* Afrikaans: {{t|af|rapport|n}}, {{t|af|verslag|n}}
 * Arabic: {{t|ar|تقرير|m|tr=taqrīr|sc=Arab}}
 * Catalan: {{t+|ca|informe|m}}
 * Chinese:
@@ -163,10 +163,10 @@ From {{etyl|xno|en}} {{term|reporter|lang=fro}}, {{etyl|frm|en}} {{term|reporter
 * Czech: {{t+|cs|zpráva|f}}, {{t|cs|hlášení|n}}
 * Dutch: {{t+|nl|rapport|n}}, {{t+|nl|verslag|n}}
 * Esperanto: {{t|eo|raporto}}, {{t|eo|informo}}
-* Finnish: [[selvitys]], [[selostus]], [[raportti]]
+* Finnish: {{t|fi|selvitys}}, {{t|fi|selostus}}, {{t|fi|raportti}}
 * French: {{t+|fr|rapport|m}}, {{t+|fr|reportage|m}}, {{t+|fr|communiqué|m}}
 * German: {{t+|de|Bericht|m}}, {{t+|de|Reportage|f}}, {{t+|de|Mitteilung|f}}, {{t+|de|Meldung}}
-* Greek: {{t+|el|αναφορά|f|tr=anaforá}},  {{t+|el|έκθεση|f|tr=ékθesi}}
+* Greek: {{t+|el|αναφορά|f|tr=anaforá}}, {{t+|el|έκθεση|f|tr=ékθesi}}
 * Hindi: {{t|hi|रिपोर्ट|f|tr=riporṭ|sc=Deva}}
 * Hungarian: {{t+|hu|jelentés}}
 * Indonesian: {{t+|id|laporan}}
@@ -181,7 +181,7 @@ From {{etyl|xno|en}} {{term|reporter|lang=fro}}, {{etyl|frm|en}} {{term|reporter
 * Persian: {{t+|fa|گزارش|tr=gozâreš|sc=fa-Arab}}, {{t+|fa|راپرت|tr=râport|sc=fa-Arab}}
 * Polish: {{t+|pl|raport|m}}, {{t+|pl|sprawozdanie|n}}
 * Portuguese: {{t+|pt|relatório|m}}, {{t+|pt|relato|m}}
-* Russian: {{t+|ru|репортаж|m|tr=reportáž|sc=Cyrl}} {{qualifier|media}}, {{t+|ru|доклад|m|tr=doklád}},  {{t+|ru|отчёт|m|tr=otčót}},  {{t+|ru|сообщение|n|tr=soobščénije}},  {{t+|ru|рапорт|m|tr=ráport}} {{qualifier|military}},  {{t+|ru|сводка|f|tr=svódka}}, {{t+|ru|репорт|m|tr=repórt|sc=Cyrl}}
+* Russian: {{t+|ru|репортаж|m|tr=reportáž|sc=Cyrl}} {{qualifier|media}}, {{t+|ru|доклад|m|tr=doklád}}, {{t+|ru|отчёт|m|tr=otčót}}, {{t+|ru|сообщение|n|tr=soobščénije}}, {{t+|ru|рапорт|m|tr=ráport}} {{qualifier|military}}, {{t+|ru|сводка|f|tr=svódka}}, {{t+|ru|репорт|m|tr=repórt|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|iomradh|m}}
 * Slovene: {{t+|sl|poročilo|n}}
 * Spanish: {{t+|es|informe|m}}
