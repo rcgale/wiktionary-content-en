@@ -279,9 +279,9 @@ From {{etyl|enm|en}} {{term|bernen|lang=enm}}, {{term|birnen|lang=enm}}, from {{
 * Aromanian: {{t|rup|ardu}}
 * Asturian: {{t|ast|arder}}, {{t|ast|quemar}}
 * Basque: {{t|eu|erre}}
-* Belarusian: {{t|be|гарэць|tr=harécʹ|sc=Cyrl}} {{impf}}, {{t|be|згарэць|tr=zharécʹ|sc=Cyrl}} {{pf.}}
+* Belarusian: {{t|be|гарэць|impf|tr=harécʹ|sc=Cyrl}}, {{t|be|згарэць|pf|tr=zharécʹ|sc=Cyrl}}
 * Breton: {{t|br|devi}}, {{t|br|leski}}
-* Bulgarian: {{t+|bg|горя|tr=gorjá}} {{impf}}
+* Bulgarian: {{t+|bg|горя|impf|tr=gorjá}}
 * Burmese: {{t+|my|လောင်|tr=laung|sc=Mymr}}
 * Catalan: {{t+|ca|cremar}}
 * Chinese:
@@ -289,7 +289,7 @@ From {{etyl|enm|en}} {{term|bernen|lang=enm}}, {{term|birnen|lang=enm}}, from {{
 *: Cantonese: {{t|yue|烧|sc=Hani}}
 * Cornish: {{t|kw|leski}}
 * Crimean Tatar: {{t|crh|yanmaq}}
-* Czech: {{t+|cs|hořet}} {{impf}}
+* Czech: {{t+|cs|hořet|impf}}
 * Dalmatian: {{t|dlm|ardar}}
 * Danish: {{t+|da|brænde}}, {{t|da|brænde op}}
 * Dutch: {{t+|nl|branden}}, {{t+|nl|verbranden}}, {{t+|nl|verteren}}
@@ -322,17 +322,17 @@ From {{etyl|enm|en}} {{term|bernen|lang=enm}}, {{term|birnen|lang=enm}}, from {{
 * Latgalian: {{t|ltg|degt}}
 * Latin: {{t|la|ardeo}}, {{t+|la|aestuō}}
 * Latvian: {{t+|lv|degt}}
-* Macedonian: {{t|mk|гори|tr=góri|sc=Cyrl}} {{impf}}
+* Macedonian: {{t|mk|гори|impf|tr=góri|sc=Cyrl}}
 * Malayalam: {{t+|ml|കത്തുക|tr=kathuka|sc=Mlym}}, {{t+|ml|ജ്വലിക്കുക|tr=jvalikkuka|sc=Mlym}}
 * Norwegian: {{t+|no|brenne}}
 * Old Portuguese: {{t|roa-ptg|arder}}
 * Persian: {{t+|fa|سوختن|tr=suxtan|sc=fa-Arab}}
-* Polish: {{t+|pl|palić|alt=palić się}} {{impf}}
+* Polish: {{t+|pl|palić|impf|alt=palić się}}
 * Portuguese: {{t+|pt|arder}}, {{t+|pt|queimar}}, {{t+|pt|pirar}}
 * Quechua: {{t+|qu|kañay}}, {{t|qu|rawray}}
 * Romanian: {{t+|ro|arde}}
 * Romansch: {{t|rm|arder}}
-* Russian: {{t+|ru|гореть|tr=gorétʹ}} {{impf}}, {{t+|ru|сгореть|tr=sgorétʹ}} {{pf.}}, {{t+|ru|пылать|tr=pylátʹ}} {{impf}}
+* Russian: {{t+|ru|гореть|impf|tr=gorétʹ}}, {{t+|ru|сгореть|pf|tr=sgorétʹ}}, {{t+|ru|пылать|impf|tr=pylátʹ}}
 * Sanskrit: {{t|sa|दह्|tr=dah|sc=Deva}}, {{t+|sa|ज्वल्|tr=jval|sc=Deva}}
 * Sardinian:
 *: Campidanese Sardinian: {{t|sro|ardiri}}
@@ -343,8 +343,8 @@ From {{etyl|enm|en}} {{term|bernen|lang=enm}}, {{term|birnen|lang=enm}}, from {{
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|горети}} {{impf}}
 *: Roman: {{t|sh|goreti}} {{impf}}
-* Slovak: {{t|sk|horieť}} {{impf}}
-* Slovene: {{t+|sl|goreti}} {{impf}}
+* Slovak: {{t|sk|horieť|impf}}
+* Slovene: {{t+|sl|goreti|impf}}
 * Spanish: {{t+|es|arder}}, {{t+|es|quemar}}
 * Sumerian: {{t|sux|𒅡𒅡|tr=KA×ŠÈ.KA×ŠÈ|sc=Xsux}}
 * Swahili: {{t+|sw|choma}}
@@ -352,7 +352,7 @@ From {{etyl|enm|en}} {{term|bernen|lang=enm}}, {{term|birnen|lang=enm}}, from {{
 * Telugu: {{t+|te|కాలు|tr=kaalu}}
 * Turkish: {{t+|tr|yanmak}}
 * Turkmen: {{t|tk|köýmek}}
-* Ukrainian: {{t+|uk|горіти|tr=horíty|sc=Cyrl}} {{impf}}, {{t|uk|згоріти|tr=zhoríty|sc=Cyrl}} {{pf.}}
+* Ukrainian: {{t+|uk|горіти|impf|tr=horíty|sc=Cyrl}}, {{t|uk|згоріти|pf|tr=zhoríty|sc=Cyrl}}
 * Urdu: {{t|ur|جلنا|tr=jalnā|sc=ur-Arab}}
 * Venetian: {{t|vec|àrdar}}
 * Vietnamese: {{t+|vi|cháy}}
@@ -367,8 +367,8 @@ From {{etyl|enm|en}} {{term|bernen|lang=enm}}, {{term|birnen|lang=enm}}, from {{
 * Greek: {{t+|el|καίγομαι|sc=Grek}}
 * Japanese: {{t|ja|焦げる|tr=kogeru}}
 {{trans-mid}}
-* Polish: [[spalić się]], (''of food, meal'') [[przypalić się]]
-* Russian: {{t|ru|перегреваться|sc=Cyrl|tr=peregrevátʹsja}} {{impf}}, {{t|ru|перегреться|sc=Cyrl|tr=peregrétʹsja}} {{pf.}}
+* Polish: {{t|pl|spalić się}}, (''of food, meal'') [[przypalić się]]
+* Russian: {{t|ru|перегреваться|impf|sc=Cyrl|tr=peregrevátʹsja}}, {{t|ru|перегреться|pf|sc=Cyrl|tr=peregrétʹsja}}
 * Swahili: {{t+|sw|choma}}
 {{trans-bottom}}
 
@@ -396,7 +396,7 @@ From {{etyl|enm|en}} {{term|bernen|lang=enm}}, {{term|birnen|lang=enm}}, from {{
 {{trans-top|cause to be consumed by fire}}
 * Armenian: {{t+|hy|այրել|tr=ayrel}}, {{t|hy|վառել|tr=vaṙel}}
 * Bakhtiari: {{t|bqi|سوزنیدن|tr=suzniðen|sc=fa-Arab}}
-* Belarusian: {{t|be|паліць|tr=palícʹ|sc=Cyrl}} {{impf}}, {{t|be|спаліць|tr=spalícʹ|sc=Cyrl}} {{pf.}}
+* Belarusian: {{t|be|паліць|impf|tr=palícʹ|sc=Cyrl}}, {{t|be|спаліць|pf|tr=spalícʹ|sc=Cyrl}}
 * Bulgarian: {{t+|bg|изгарям|tr=izgárjam}}
 * Burmese: {{t+|my|ရှို့|tr=sho.|sc=Mymr}}, {{t+|my|မီးရှို့|tr=mi:sho.|sc=Mymr}}
 * Catalan: {{t+|ca|cremar}}
@@ -429,7 +429,7 @@ From {{etyl|enm|en}} {{term|bernen|lang=enm}}, {{term|birnen|lang=enm}}, from {{
 * Portuguese: {{t+|pt|queimar}}, {{t|pt|atear fogo}}
 * Romanian: {{t+|ro|arde}}
 * Romansch: {{t|rm|brischar}}
-* Russian: {{t+|ru|жечь|tr=žečʹ}} {{impf}}, {{t+|ru|сжигать|tr=sžigátʹ}} {{impf}}, {{t+|ru|сжечь|tr=sžečʹ}} {{pf.}}, {{t+|ru|палить|tr=palítʹ|sc=Cyrl}} {{impf}}, {{t+|ru|спалить|tr=spalítʹ|sc=Cyrl}} {{pf.}}
+* Russian: {{t+|ru|жечь|impf|tr=žečʹ}}, {{t+|ru|сжигать|impf|tr=sžigátʹ}}, {{t+|ru|сжечь|pf|tr=sžečʹ}}, {{t+|ru|палить|impf|tr=palítʹ|sc=Cyrl}}, {{t+|ru|спалить|pf|tr=spalítʹ|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|loisg}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|запалити}}, {{t|sh|спалити}}
@@ -441,7 +441,7 @@ From {{etyl|enm|en}} {{term|bernen|lang=enm}}, {{term|birnen|lang=enm}}, from {{
 * Swedish: {{t+|sv|bränna}}
 * Telugu: {{t+|te|తగులబెట్టు|tr=tagulabeTTu}}
 * Thai: {{t|th|เผา|tr=păo|sc=Thai}}
-* Ukrainian: {{t|uk|палити|tr=palýty|sc=Cyrl}} {{impf}}, {{t|uk|спалити|tr=spalýty|sc=Cyrl}} {{pf.}}
+* Ukrainian: {{t|uk|палити|impf|tr=palýty|sc=Cyrl}}, {{t|uk|спалити|pf|tr=spalýty|sc=Cyrl}}
 * Urdu: {{t|ur|جلانا|tr=jalānā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|đốt}}
 {{trans-bottom}}
@@ -473,7 +473,7 @@ From {{etyl|enm|en}} {{term|bernen|lang=enm}}, {{term|birnen|lang=enm}}, from {{
 {{trans-mid}}
 * Norwegian: {{t|no|forbrenne}}
 * Portuguese: {{t+|pt|queimar}}
-* Russian: {{t+|ru|обжигать|tr=obžigátʹ}} {{impf}}, {{t+|ru|обжечь|tr=obžéčʹ}} {{pf.}}
+* Russian: {{t+|ru|обжигать|impf|tr=obžigátʹ}}, {{t+|ru|обжечь|pf|tr=obžéčʹ}}
 * Scottish Gaelic: {{t|gd|loisg}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|опећи}}
