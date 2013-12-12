@@ -48,7 +48,7 @@ From {{etyl|enm|en}} {{term|sheep|lang=enm}}, {{term|scheep|lang=enm}}, {{term|s
 * Azeri: {{t+|az|qoyun}}
 * Bakhtiari: {{t|bqi|میش|tr=mēš|sc=fa-Arab}}
 * Balinese: {{t|ban|biri-biri}}
-* Baluchi: {{Arab|[[میش]]}} (mēš), {{t|bal|پس|tr=pas}}
+* Baluchi: {{t|bal|میش|tr=mēš|sc=Arab}}, {{t|bal|پس|tr=pas}}
 * Bashkir: {{t|ba|һарыҡ|tr=harıq|sc=Cyrl}}
 * Basque: {{t|eu|ardi}}
 * Batak Dairi: {{t|btd|biri-biri}}
@@ -99,7 +99,7 @@ From {{etyl|enm|en}} {{term|sheep|lang=enm}}, {{term|scheep|lang=enm}}, {{term|s
 * Kazakh: {{t|kk|қой|tr=qoy|sc=Cyrl}}
 * Khmer: {{t+|km|ចៀម|tr=chiem|sc=Khmr}}
 * Korean: {{t+|ko|양|tr=yang}}, {{t|ko|면양|tr=myeonyang}}
-* Kurdish: [[mî]] {{qualifier|ewe}}, [[mih]] {{qualifier|ewe}}, [[beran]] {{qualifier|ram}}, [[pez]] {{qualifier|both}}, [[berx]] {{qualifier|little}}, [[berindir]] {{qualifier|young}}, [[beyindir]] {{qualifier|young}}, {{t|ku|مه‌ڕ}}
+* Kurdish: {{qualifier|ewe}} {{t|ku|mî}}, {{qualifier|ewe}} {{t|ku|mih}}, {{qualifier|ram}} {{t|ku|beran}}, {{qualifier|both}} {{t|ku|pez}}, {{qualifier|little}} {{t|ku|berx}}, {{qualifier|young}} {{t|ku|berindir}}, {{qualifier|young}} {{t|ku|beyindir}}, {{t|ku|مه‌ڕ}}
 * Kyrgyz: {{t|ky|кой|tr=koy|sc=Cyrl}}
 * Ladin: {{t|lld|biescia}}
 * Lao: {{t+|lo|ແກະ|tr=kë'|sc=Laoo}}
@@ -140,7 +140,7 @@ From {{etyl|enm|en}} {{term|sheep|lang=enm}}, {{term|scheep|lang=enm}}, {{term|s
 * Romanian: {{t+|ro|oaie}}
 * Romansch: {{t|rm|nursa}}
 * Russian: {{t+|ru|овца|f|tr=ovcá}}, {{t+|ru|овечка|f|tr=ovéčka|sc=Cyrl}}
-* Sami: [[sávza]]
+* {{ttbc|Sami}}<!-- Wiktionary considers this a language group; please specify the language more precisely -->: [[sávza]]
 * Sanskrit: {{t|sa|अवि|m|f|tr=avi}}
 * Sardinian: {{t|sc|brebei}}, {{t|sc|barveghe}}, {{t|sc|chessi}}, {{t|sc|tzicca}}
 * Scottish Gaelic: {{t|gd|caora|f}}
@@ -158,7 +158,7 @@ From {{etyl|enm|en}} {{term|sheep|lang=enm}}, {{term|scheep|lang=enm}}, {{term|s
 * Tagalog: {{t+|tl|tupa}}
 * Tajik: {{t+|tg|гӯсфанд|tr=güsfand|sc=Cyrl}}
 * Talysh:
-*: Asalemi: {{t|tly|پس|tr=pas|sc=fa-Arab}}
+*: {{ttbc|Asalemi}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|tly|پس|tr=pas|sc=fa-Arab}}
 * Taos: {{t|twf|k’úona}}
 * Tatar: {{t+|tt|сарык|tr=sarıq|sc=Cyrl}}
 * Telugu: {{t+|te|గొర్రె|tr=gorre}}
@@ -186,21 +186,21 @@ From {{etyl|enm|en}} {{term|sheep|lang=enm}}, {{term|scheep|lang=enm}}, {{term|s
 {{trans-bottom}}
 
 {{trans-top|shy person}}
-* Esperanto: {{t|eo|ŝafoj|p}}, [[timidulo]] (''plural:'' [[timiduloj]])
+* Esperanto: {{t|eo|ŝafoj|p}}, {{t|eo|timidulo}}
 * Finnish: {{t|fi|hiirulainen}}
 * Greek: {{t+|el|πρόβατο|n|tr=próvato}}
 * Hindi: {{t|hi|शर्मीला मनुष्य|sc=Deva}}
 * Indonesian: {{t+|id|pemalu}}
-* Interlingua: [[persona]] [[docile]], persona [[submisse]]
+* {{ttbc|ia}}: {{t|ia|[[persona]] [[docile]]}} <!-- was "[[persona]] [[docile]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|ia|submisse|alt=persona submisse}} <!-- was "persona [[submisse]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Italian: {{t+|it|pecora|f}}
 * Lithuanian: {{t+|lt|avelė|m|f}}
 {{trans-mid}}
 * Persian: {{t+|fa|بزدل|tr=bozdel}}
-* Portuguese: [[pessoa]] [[submissa]] {{g|f}}, {{t|pt|pusilânime|m|f}}
+* {{ttbc|pt}}: {{t|pt|[[pessoa]] [[submissa]]|f}} <!-- was "[[pessoa]] [[submissa]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|pt|pusilânime|m|f}}
 * Russian: {{t+|ru|овца|f|tr=ovcá|sc=Cyrl}}, {{t+|ru|овечка|f|tr=ovéčka|sc=Cyrl}}, {{t+|ru|ягнёнок|m|tr=jagnjónok|sc=Cyrl}}, {{t+|ru|агнец|m|tr=ágnec|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|caora}}
 * Spanish: {{t|es|pusilánime|m|f}}, {{t|es|papanatas|m|f}}
-* Telugu: [[గొర్రె]] (gorre)
+* Telugu: {{t|te|గొర్రె|tr=gorre|sc=Telu}}
 {{trans-bottom}}
 
 ====References====
