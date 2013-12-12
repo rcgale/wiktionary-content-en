@@ -87,7 +87,7 @@ From {{etyl|enm|en}} {{term|samon|samon, saumon|lang=enm}}, from {{etyl|xno|en}}
 * Hungarian: {{t+|hu|lazac}}
 * Icelandic: {{t+|is|lax|m}}
 * Ido: {{qualifier|♂♀}} {{t+|io|salmono}}, {{qualifier|♂}} {{t|io|salmonulo}}, {{qualifier|♀}} {{t|io|salmonino}}, {{qualifier|♂♀ offspring}} {{t|io|salmonyuno}}, {{qualifier|♂ offspring}} {{t|io|salmonyunulo}}, {{qualifier|♀ offspring}} {{t|io|salmonyunino}}
-* Interlingua: salmon
+* Interlingua: {{t|ia|salmon}}
 * Irish: {{t+|ga|bradán|m}}
 * Italian: {{t+|it|salmone|m}}
 * Japanese: {{t|ja|サーモン|tr=sāmon}}, {{t+|ja|鮭|tr=[[さけ]], sake; [[しゃけ]], shake}}
@@ -165,14 +165,14 @@ From {{etyl|enm|en}} {{term|samon|samon, saumon|lang=enm}}, from {{etyl|xno|en}}
 ====Translations====
 {{trans-top|made with salmon}}
 * Dutch: {{t|nl|zalm-}}
-* Finnish: {{t|fi|lohi-}}, [[lohi|lohesta]]
-* German: [[Lachs]]-
-* Interlingua: [[de]] salmon
+* Finnish: {{t|fi|lohi-}}, {{t|fi|lohi|alt=lohesta}}
+* German: {{t|de|Lachs|alt=Lachs-}}
+* {{ttbc|ia}}: {{t|ia|salmon|alt=de salmon}}
 * Macedonian: {{t|mk|лососов|m|tr=lósosov|sc=Cyrl}}
 {{trans-mid}}
 * Norwegian: {{t|no|lakse-}}
 * Polish: {{t|pl|łososiowy}}
-* Portuguese: [[de]] [[salmão]]
+* {{ttbc|pt}}: {{t|pt|[[de]] [[salmão]]}} <!-- was "[[de]] [[salmão]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Russian: {{t+|ru|лососёвый|tr=losoc'óvyj}}
 * Volapük: {{qualifier|♂♀}} {{t|vo|salmik}}
 {{trans-bottom}}
@@ -182,7 +182,7 @@ From {{etyl|enm|en}} {{term|samon|samon, saumon|lang=enm}}, from {{etyl|xno|en}}
 * Finnish: {{t|fi|lohenpunainen}}
 * German: {{t|de|lachsfarben}}
 * Icelandic: {{t|is|laxbleikur}}
-* Interlingua: de [[color]] salmon
+* {{ttbc|ia}}: {{t|ia|[[de]] [[color]] [[salmon]]}}
 * Macedonian: {{t|mk|розовопортокалов|m|tr=rozovoportókalov}}
 {{trans-mid}}
 * Polish: {{t|pl|łososiowy}}
@@ -192,10 +192,10 @@ From {{etyl|enm|en}} {{term|samon|samon, saumon|lang=enm}}, from {{etyl|xno|en}}
 * Volapük: {{t|vo|salmakölik}}
 {{trans-bottom}}
 
-{{checktrans}}
-
-* {{ttbc|eu}}: [[izokinezko]] (1), [[izokin koloreko]] (2)
-* {{ttbc|ca}}: [[salmonat]] {{g|m}} (2), [[salmonada]] {{g|f}} (2)
+{{ttbc-top}}
+* {{ttbc|eu}}: {{qualifier|1}} {{t|eu|izokinezko}}, {{qualifier|2}} {{t|eu|izokin koloreko}}
+* {{ttbc|ca}}: {{qualifier|2}} {{t|ca|salmonat|m}}, {{qualifier|2}} {{t|ca|salmonada|f}}
+{{ttbc-bottom}}
 
 ===See also===
 * {{list:reds/en}}
