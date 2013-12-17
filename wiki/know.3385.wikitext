@@ -96,8 +96,8 @@ The dialect verb form is inflected in a non-standard way. In addition the differ
 * Afrikaans: {{t|af|weet}}
 * Albanian: {{t|sq|di}}
 * American Sign Language: {{t|ase|BentB@Sfhead}}
-* Arabic: {{t|ar|عرف|tr=ʿárafa}}, imperfect: {{t|ar|يعرف|tr=yaʿrifu}}
-*: Egyptian Arabic: {{t|arz|عرف|tr=ʕeref|sc=Arab}}
+* Arabic: {{t|ar|عرف|tr=ʿarafa}}, imperfect: {{t|ar|يعرف|tr=yaʿrifu}}
+*: Egyptian Arabic: {{t|arz|عرف|tr=ʿeref|sc=Arab}}
 * {{trreq|an}}
 * Armenian: {{t+|hy|գիտենալ|tr=gitenal}}, {{t|hy|իմանալ|tr=imanal}}
 * Aromanian: {{t|rup|shciu}}
@@ -105,9 +105,9 @@ The dialect verb form is inflected in a non-standard way. In addition the differ
 * Azeri: {{t+|az|bilmək}}
 * Bakhtiari: {{t|bqi|دونستن|tr=dõwesten|sc=fa-Arab}}
 * Basque: {{t|eu|jakin}}, {{t|eu|jakina izan}}
-* Belarusian: {{t|be|ведаць|impf|tr=vjédac’}}, {{t|be|знаць|impf|tr=znac’}}
+* Belarusian: {{t|be|ве́даць|impf}}, {{t|be|знаць|impf}}
 * Breton: {{t+|br|gouzout}}
-* Bulgarian: {{t+|bg|зная|tr=znája}}
+* Bulgarian: {{t+|bg|зна́я|impf}}
 * Burmese: {{t+|my|သိရှိ|tr=thi.shi.}}
 * Catalan: {{t+|ca|saber}}
 * Cebuano: {{t|ceb|kahibalo}}
@@ -157,7 +157,7 @@ The dialect verb form is inflected in a non-standard way. In addition the differ
 * Lithuanian: {{t+|lt|žinoti}}
 * Lojban: {{t+|jbo|djuno}}, {{t|jbo|jikyju'o}}
 * Low German: {{t|nds|weten}}
-* Macedonian: {{t|mk|знае|tr=znáe}}
+* Macedonian: {{t|mk|зна́е|impf}}
 * Malay: {{t|ms|tahu}}
 * Malayalam: {{t+|ml|അറിയുക|tr=aṟiyuka}}
 * Mirandese: {{t|mwl|saber}}
@@ -173,21 +173,21 @@ The dialect verb form is inflected in a non-standard way. In addition the differ
 * Old French: {{t|fro|savoir}}, {{t|fro|saveir}}
 * Old Saxon: {{t|osx|witan}}
 * Persian: {{t+|fa|دانستن|tr=dânestan}}, {{t|fa|دونستن|tr=dunestan|sc=fa-Arab}} {{qualifier|colloquial}}
-* Polish: {{t+|pl|wiedzieć}}
+* Polish: {{t+|pl|wiedzieć|impf}}
 * Portuguese: {{t+|pt|saber}}, {{t+|pt|conhecer}}
 * Romanian: {{t+|ro|ști}}
 * Romansch: {{t|rm|savair}}, {{t|rm|saveir}}, {{t|rm|saver}}
-* Russian: {{t+|ru|знать|tr=znat’}}, {{qualifier|dated, poetic}} {{t+|ru|ведать|tr=védat’|sc=Cyrl}}
+* Russian: {{t+|ru|знать|impf}}, {{t+|ru|ве́дать|impf|sc=Cyrl}} {{qualifier|dated, poetic}}
 * Samogitian: {{t|sgs|žėnuotė}}
 * Sardinian: {{t|sc|ischire}}, {{t|sc|ischiri}}
 * Scottish Gaelic: {{t|gd|bi fhios aig}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|знати|sc=Cyrl}}
-*: Roman: {{t|sh|znati}}
+*: Cyrillic: {{t|sh|знати|impf|sc=Cyrl}}
+*: Roman: {{t|sh|znati|impf}}
 * Sicilian: {{t+|scn|sapiri}}
 * Sinhalese: {{t|si|දන්නවා|tr=dannavā|sc=Sinh}}
-* Slovak: {{t|sk|vedieť}}
-* Slovene: {{t+|sl|vedeti}}
+* Slovak: {{t|sk|vedieť|impf}}
+* Slovene: {{t+|sl|vedeti|impf}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|wěźeś}}
 *: Upper Sorbian: {{t|hsb|wědźeć}}
@@ -198,7 +198,7 @@ The dialect verb form is inflected in a non-standard way. In addition the differ
 * Thai: {{t+|th|รู้|tr=rú}}
 * Turkish: {{t+|tr|bilmek}}
 * Turkmen: {{t+|tk|bilmek}}
-* Ukrainian: {{t|uk|знати|tr=znáty}}
+* Ukrainian: {{t|uk|зна́ти|impf}}, {{t|uk|ві́дати|impf|sc=Cyrl}} {{qualifier|dated, poetic}}
 * Urdu: {{t|ur|جاننا|tr=jānnā}}
 * Uzbek: {{t+|uz|bilmoq}}
 * Venetian: {{t|vec|saver}}
@@ -211,9 +211,11 @@ The dialect verb form is inflected in a non-standard way. In addition the differ
 
 {{trans-top|be acquainted or familiar with}}
 * Albanian: {{t|sq|njoh}}
-* Arabic: {{t+|ar|علم|tr=ʕálima}}
+* Arabic: {{t+|ar|علم|tr=ʿalima}}
 * Armenian: {{t|hy|իմանալ|tr=imanal}}, {{t|hy|ճանաչել|tr=č̣anačel}}, {{t+|hy|գիտենալ|tr=gitenal}}
 * Asturian: {{t+|ast|conocer}}, {{t+|ast|coñocer}}
+* Belarusian: {{t|be|знаць|impf}}
+* Bulgarian: {{t+|bg|зна́я|impf}}
 * Burmese: {{t+|my|သိ|tr=thi.}}
 * Catalan: {{l|ca|conèixer}}
 * Cebuano: {{t|ceb|katultol}} {{qualifier|a place}}, {{t|ceb|kaila}} {{qualifier|a person}}
@@ -257,20 +259,21 @@ The dialect verb form is inflected in a non-standard way. In addition the differ
 * Papiamentu: {{t|pap|conoci}}
 * Persian: {{t+|fa|شناختن|tr=šenâxtan}}
 * Pipil: {{t|ppl|-ishmati}}, {{t|ppl|-ixmati}}
-* Polish: {{t+|pl|znać}}
+* Polish: {{t+|pl|znać|impf}}
 * Portuguese: {{t+|pt|conhecer}}
 * Romanian: {{t+|ro|cunoaște}}
-* Russian: {{t+|ru|знать|tr=znat’}}
+* Russian: {{t+|ru|знать|impf}}
 * Scottish Gaelic: {{t|gd|bi eòlach air}}
 * Serbo-Croatian: {{t|sh|znȁti}}, {{t|sh|poznávati}}
 * Slovak: {{t|sk|poznať}}
-* Slovene: {{t|sl|znati}}
+* Slovene: {{t|sl|znati|impf}}
 * Spanish: {{t+|es|conocer}}
 * Swedish: {{t+|sv|känna}} {{qualifier|a person}}, {{t+|sv|känna till}}, {{t|sv|veta om}} (''a piece of fact'')
 * Thai: {{t+|th|รู้จัก|tr=rújàk|sc=Thai}}
 * Tocharian A: {{t|xto|kñā-}}
 * Tok Pisin: {{t|tpi|save}}
 * Turkish: {{t+|tr|tanımak}}
+* Ukrainian: {{t|uk|зна́ти|impf}}
 * Volapük: {{t+|vo|sevön}}
 * Welsh: {{t+|cy|adnabod}}
 * West Frisian: {{t+|fy|kenne}}
