@@ -220,7 +220,7 @@ The dialect verb form is inflected in a non-standard way. In addition the differ
 * Catalan: {{l|ca|conèixer}}
 * Cebuano: {{t|ceb|katultol}} {{qualifier|a place}}, {{t|ceb|kaila}} {{qualifier|a person}}
 * Chinese:
-*: Mandarin: {{t+|cmn|認識}}, {{t+|cmn|认识|tr=[[rènshi]]}}
+*: Mandarin: {{t+|cmn|認識}}, {{t+|cmn|认识|tr=rènshi}}
 *: Min Nan: {{t|nan|捌|tr=pat}}
 * Cornish:
 *: {{ttbc|Kernewek Kemmyn}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: [[aswonn]]
@@ -242,14 +242,14 @@ The dialect verb form is inflected in a non-standard way. In addition the differ
 * Ido: {{t+|io|konocar}}
 * Irish: {{t|ga|aithin}}
 * Italian: {{t+|it|conoscere}}
-* Japanese: {{t+|ja|知る|alt=...を知っている|tr=...をしっている, ...o shitte-iru|sc=Jpan}}, {{t|ja|精通する|alt=...に精通している|tr=...にせいつうしている, ...ni seitū-shiteiru|sc=Jpan}}
+* Japanese: {{t+|ja|知る|alt=...を知っている|tr=...をしっている, ...o shitte iru|sc=Jpan}}, {{t|ja|精通する|alt=...に精通している|tr=...にせいつうしている, ...ni seitū shiteiru|sc=Jpan}}
 {{trans-mid}}
 * Jèrriais: {{t|roa-jer|connaître}}
-* {{ttbc|ko}}: {{t|ko|친한 사이다|tr=...-wa chinhan saida|alt=...와 친한 사이다|sc=Kore}} <!-- was "...와 [[친한 사이다]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Korean: {{t|ko|친한 사이다|tr=...-wa chinhan saida|alt=...와 친한 사이다|sc=Kore}}
 * Kurdish: {{t+|ku|nasîn}}, {{t+|ku|ناسین|sc=ku-Arab}}
 * Latin: {{t|la|cognoscere}}, {{t|la|agnosco}}, {{t|la|regnosco}}, {{t+|la|nosco}}, {{t|la|noscito}}
 * Latvian: {{t|lv|pazīt}}
-* Macedonian: {{t|mk|зна́е|sc=Cyrl}}
+* Macedonian: {{t|mk|зна́е|impf|sc=Cyrl}}
 * Malay: {{t|ms|kenal}}
 * Malayalam: {{t+|ml|അറിയുക|tr=aṟiyuka}}
 * Mirandese: {{t|mwl|coincer}}
@@ -265,7 +265,10 @@ The dialect verb form is inflected in a non-standard way. In addition the differ
 * Romanian: {{t+|ro|cunoaște}}
 * Russian: {{t+|ru|знать|impf}}
 * Scottish Gaelic: {{t|gd|bi eòlach air}}
-* Serbo-Croatian: {{t|sh|znȁti}}, {{t|sh|poznávati}}
+* Serbo-Croatian: 
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|зна̏ти|impf|sc=Cyrl}},  {{t|sh|позна́вати|impf|sc=Cyrl}}
+*: Roman: {{t|sh|znȁti|impf}}, {{t|sh|poznávati|pf}}
 * Slovak: {{t|sk|poznať}}
 * Slovene: {{t|sl|znati|impf}}
 * Spanish: {{t+|es|conocer}}
