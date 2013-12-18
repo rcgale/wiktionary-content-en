@@ -23,7 +23,7 @@ From {{etyl|enm|en}} {{term|ybeen||lang=enm}}, from {{etyl|ang|en}} {{term/t|ang
 * {{a|unstressed}} {{IPA|/bɨn/|/bɪ̈n/}}
 
 ====Verb====
-'''been'''
+{{head|en}}
 
 # {{past participle of|be|lang=en}}
 # {{context|obsolete|lang=en}} [[were]]
@@ -37,9 +37,9 @@ From {{etyl|enm|en}} {{term|been|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|b
 {{rfp|lang=en}}
 
 ====Noun====
-'''been'''
+{{head|en|plural}}
 
-# {{context|UK|_|dialectal|lang=en}} {{plural of|bee|lang=en}}
+# {{context|UK|_|dialectal|lang=en}} {{plural of|bee|lang=en|nocat=1}}
 
 ===See also===
 * [[be#Inflection|be]] for forms of {{term|be|lang=en}}
@@ -61,26 +61,25 @@ Vaux, Bert and Scott Golder. 2003. The Harvard Dialect Survey: been. Cambridge, 
 ----
 
 ==Dutch==
-{{ picdic
-| image=Beine.JPG
+{{picdic| image=Beine.JPG
 | width=310
 | labels=
 <!-- Paard -->
-{{ picdiclabel | color=white | fontsize=12 | posx= 20 | posy= 90 | link=knie | lang=nl }}
-{{ picdiclabel | color=black | fontsize=12 | posx= 80 | posy=160 | link=enkel | align=left | lang=nl }}
+{{picdiclabel| color=white | fontsize=12 | posx= 20 | posy= 90 | link=knie | lang=nl }}
+{{picdiclabel| color=black | fontsize=12 | posx= 80 | posy=160 | link=enkel | align=left | lang=nl }}
 <!-- Wolf -->
-{{ picdiclabel | color=white | fontsize=12 | posx=115 | posy=100 | link=knie | align=left | lang=nl }}
-{{ picdiclabel | color=black | fontsize=12 | posx=165 | posy=170 | link=enkel | align=left | lang=nl }}
+{{picdiclabel| color=white | fontsize=12 | posx=115 | posy=100 | link=knie | align=left | lang=nl }}
+{{picdiclabel| color=black | fontsize=12 | posx=165 | posy=170 | link=enkel | align=left | lang=nl }}
 <!-- Mens -->
-{{ picdiclabel | color=black | fontsize=12 | posx=260 | posy= 35 | link=heup | lang=nl }}
-{{ picdiclabel | color=black | fontsize=12 | posx=260 | posy= 80 | link=dij | lang=nl }}
-{{ picdiclabel | color=black | fontsize=12 | posx=260 | posy=130 | link=knie | lang=nl }}
-{{ picdiclabel | color=black | fontsize=12 | posx=275 | posy=180 | link=kalf | anchor=#Etymology 2 | lang=nl }}
-{{ picdiclabel | color=black | fontsize=12 | posx=270 | posy=235 | link=enkel | align=left | lang=nl }}
-{{ picdiclabel | color=black | fontsize=12 | posx=240 | posy=220 | link=voet | align=right | lang=nl }}
+{{picdiclabel| color=black | fontsize=12 | posx=260 | posy= 35 | link=heup | lang=nl }}
+{{picdiclabel| color=black | fontsize=12 | posx=260 | posy= 80 | link=dij | lang=nl }}
+{{picdiclabel| color=black | fontsize=12 | posx=260 | posy=130 | link=knie | lang=nl }}
+{{picdiclabel| color=black | fontsize=12 | posx=275 | posy=180 | link=kalf | anchor=#Etymology 2 | lang=nl }}
+{{picdiclabel| color=black | fontsize=12 | posx=270 | posy=235 | link=enkel | align=left | lang=nl }}
+{{picdiclabel| color=black | fontsize=12 | posx=240 | posy=220 | link=voet | align=right | lang=nl }}
 | detail1=Click on labels in the image
 | detail2=
-{{ picdicimg | link=limb }}
+{{picdicimg| link=limb }}
 }}
 
 ===Etymology===
