@@ -185,7 +185,7 @@
 {{trans-bottom}}
 
 {{trans-top|genus of flowers}}
-* Dutch: {{t|nl|violier}}, [[violet]] (ambiguous)
+* Dutch: {{t|nl|violier}}, {{qualifier|ambiguous}} {{t|nl|violet}}
 * French: {{t|fr|matthiole|f}}, {{t|fr|violier|m}}, {{t|fr|giroflée des jardins|f}}
 {{trans-mid}}
 * Italian: {{t|it|violacciocca|f}}
@@ -199,7 +199,7 @@
 * Greek: {{t+|el|ζώα|n-p|sc=Grek}}, {{t+|el|ζωντανά|n-p|sc=Grek}} {{qualifier|colloquial}}
 * Korean: {{t|ko|가축|tr=[[家畜]], gachug, -k}}
 {{trans-mid}}
-* Russian: ''animals'': [[скот]] (skot) {{g|m}}
+* Russian: {{qualifier|animals}} {{t|ru|скот|m|tr=skot|sc=Cyrl}}
 * Slovak: {{t|sk|statok|m}}, {{t|sk|dobytok|m}} (larger animals)
 * Slovene: {{t+|sl|živina|f}}
 * Spanish: {{t+|es|ganado|m}}
@@ -212,7 +212,7 @@
 *: Mandarin: {{t+|cmn|股票|tr=gǔpiào|sc=Hani}}
 * Czech: {{t|cs|akcie|f}}
 * Dutch: {{t+|nl|aandeel|n}}
-* Finnish: [[osake|osakkeet]] (pl. of osake = share)
+* {{ttbc|fi}}: {{qualifier|pl. of osake = share}} {{t|fi|osake|alt=osakkeet}} <!-- was "[[osake|osakkeet]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * French: {{t+|fr|action|f}}
 * German: {{t+|de|Aktie|f}}
 * Greek: {{t+|el|μετοχή|f|sc=Grek}}
@@ -265,7 +265,7 @@
 * Greek: {{t+|el|ζωμός|m|sc=Grek}}
 * Irish: {{t|ga|stoc|m}}
 {{trans-mid}}
-* Russian: [[мясной]] [[отвар]] (mjasnój otvár) {{g|m}}
+* {{ttbc|ru}}: {{t|ru|[[мясной]] [[отвар]]|m|tr=mjasnój otvár|sc=Cyrl}} <!-- was "[[мясной]] [[отвар]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Slovak: {{t|sk|bujón|f}}, {{t|sk|vývar|f}}
 * Spanish: {{t+|es|caldo|m}}
 {{trans-bottom}}
@@ -287,11 +287,11 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|id}}: [[cadang|cadangan]], [[logistik]]?, [[saham]], [[bursa]]
+* {{ttbc|id}}: {{t|id|cadang|alt=cadangan}} <!-- was "[[cadang|cadangan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|id|logistik}} <!-- was "[[logistik]]?" -->, {{t|id|saham}}, {{t|id|bursa}}
 * {{ttbc|roa-jer}}: {{t|roa-jer|chaud|m}}
 {{trans-mid}}
-* {{ttbc|pl}}: [[asortyment]] {{g|m}} (1), [[zapas]] {{g|m}} (3), [[inwentaż]] {{g|m}} (4), [[akcja]] {{g|f}}, [[udział]] {{g|m}} (6), [[kolba]] {{g|f}} (7)
-* {{ttbc|es}}: [[existencia]]s {{g|f-p}}, [[surtido]] {{g|m}}, [[reserva]] {{g|f}}, [[ganado]] {{g|m}}
+* {{ttbc|pl}}: {{qualifier|1}} {{t|pl|asortyment|m}}, {{qualifier|3}} {{t|pl|zapas|m}}, {{qualifier|4}} {{t|pl|inwentaż|m}}, {{t|pl|akcja|f}}, {{qualifier|6}} {{t|pl|udział|m}}, {{qualifier|7}} {{t|pl|kolba|f}}
+* {{ttbc|es}}: {{t|es|existencia|f-p|alt=existencias}} <!-- was "[[existencia]]s" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|es|surtido|m}}, {{t|es|reserva|f}}, {{t|es|ganado|m}}
 {{trans-bottom}}
 
 ===Verb===
@@ -310,7 +310,7 @@
 ====Translations====
 {{trans-top|have on hand for sale}}
 * Dutch: {{t|nl|voorradig zijn}}, {{t|nl|in stock hebben}}, {{t|nl|op stock houden}}
-* Finnish: [[pitää]] [[varasto|varastossa]]
+* {{ttbc|fi}}: {{t|fi|[[pitää]] [[varasto|varastossa]]}} <!-- was "[[pitää]] [[varasto|varastossa]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-mid}}
 * Greek: {{t+|el|διαθέτω|sc=Grek}}
 * Swedish: {{t+|sv|lagra}}
@@ -330,7 +330,7 @@
 ====Translations====
 {{trans-top|normally available for purchase}}
 * Dutch: {{t|nl|vooradig}}, {{t|nl|voorradige}}, {{t|nl|op stock}}, {{t|nl|in voorraad}}
-* Finnish: [[varasto]]-
+* {{ttbc|fi}}: {{t|fi|varasto|alt=varasto-}} <!-- was "[[varasto]]-" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * German: {{t+|de|vorrätig}}, {{t+|de|verfügbar}}
 {{trans-mid}}
 * Greek: {{t+|el|ετοιμοπαράδοτος|m|sc=Grek}}, {{t+|el|διαθέσιμος|m|sc=Grek}}
