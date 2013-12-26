@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|xno|en}} {{term|mortgage|lang=fro}}, {{etyl|frm|en}} {{term|mortgage|lang=frm}}, from {{etyl|fro|en}} {{term|mort gage||death pledge|lang=fro}}, after a translation of judicial {{etyl|ML.|en}} {{term|mortuum vadium}} or ''mortuum wadium'' , from {{term|mortuum|lang=la}} + ''vadium'' or ''wadium'', of {{etyl|gem|en}} ({{etyl|frk|en}}) origin, from a root *''waddi'', ''wadja''. Cf. ''[[gage]]'' and also ''[[wage]]''.
+From {{etyl|xno|en}} {{term|mortgage|lang=fro}}, {{etyl|frm|en}} {{term|mortgage|lang=frm}}, from {{etyl|fro|en}} {{term|mort gage||death pledge|lang=fro}}, after a translation of judicial {{etyl|ML.|en}} {{term|mortuum vadium|lang=la}} or ''mortuum wadium'', from {{term|mortuum|lang=la}} + ''vadium'' or ''wadium'', of {{etyl|gem|en}} ({{etyl|frk|en}}) origin, from a root *''waddi'', ''wadja''. Cf. ''[[gage]]'' and also ''[[wage]]''.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈmɔː.ɡɪdʒ/}}
@@ -12,10 +12,10 @@ From {{etyl|xno|en}} {{term|mortgage|lang=fro}}, {{etyl|frm|en}} {{term|mortgage
 ===Noun===
 {{en-noun}}
 
-# A special form of [[secured loan]] where the purpose of the loan must be specified to the [[lender]], to purchase assets that must be fixed (not movable) property such as a house or piece of farm land. The assets are registered as the legal property of the [[borrower]] but the lender can seize them and dispose of them if they are not satisfied with the manner in which the repayment of the loan is conducted by the borrower. Once the loan is fully repaid, the lender loses this right of seizure and the assets are then deemed to be [[unencumbered]].
-#: ''We're renting a property in the city centre because we can't afford to get a '''mortgage''' yet.''
+# {{context|legal|lang=en}} A special form of [[secured loan]] where the purpose of the loan must be specified to the [[lender]], to purchase assets that must be fixed (not movable) property such as a house or piece of farm land. The assets are registered as the legal property of the [[borrower]] but the lender can seize them and dispose of them if they are not satisfied with the manner in which the repayment of the loan is conducted by the borrower. Once the loan is fully repaid, the lender loses this right of seizure and the assets are then deemed to be [[unencumbered]].
+#: {{usex|We're renting a property in the city centre because we can't afford to get a '''mortgage''' yet.|lang=en}}
 # {{context|obsolete|lang=en}} State of being [[pledge]]d.
-#: ''lands given in '''mortgage'''''
+#: {{usex|lands given in '''mortgage'''|lang=en}}
 
 ====Translations====
 {{trans-top|special form of secured loan}}
@@ -51,7 +51,12 @@ From {{etyl|xno|en}} {{term|mortgage|lang=fro}}, {{etyl|frm|en}} {{term|mortgage
 ===Verb===
 {{en-verb|mortgag|ing}}
 
-# As in "to mortgage a property", to borrow against a property, to obtain a loan for another purpose by giving away the right of seizure to the lender over a fixed property such as a house or piece of land.
+# {{context|transitive|legal|lang=en}} To [[borrow]] against a property, to obtain a [[loan]] for another purpose by giving away the right of seizure to the lender over a fixed property such as a house or piece of land; to pledge a property in order to get a loan.
+#: {{usex|to '''mortgage a property''', '''an estate''', '''a shop'''|lang=en}}
+#: {{usex|We '''mortgaged our house''' in order to start a company.|lang=en}}
+# {{context|transitive|figurative|lang=en}} To pledge and make liable; to make subject to obligation; to achieve an immediate result by paying for it in the long term.
+#: {{cite-book|year=1982|author=Verne Moberg|title=The Truth and Work of [[w:Victoria Benedictsson|Victoria Benedictsson]]|page=72|passage=She '''mortgaged her future''' for the pleasures of the relationship with the sculptor, a relationship she knew would be short.}}
+#: {{cite-book|year=2001|author=Antony Rowland|title=[[w:Tony Harrison|Tony Harrison]] and the Holocaust|page=193|passage=Like a latter-day [[w:Faustus|Faustus]] who has '''mortgaged his soul''' to the pursuit of his art, Harrison now desperately craves the paternal love from which his learning has estranged him.}}
 
 ====Related terms====
 * [[mortgagee]]
