@@ -82,27 +82,27 @@ From {{etyl|enm|en}} {{term|eten|lang=enm}}, from {{etyl|ang|en}} {{term|etan||t
 
 ====Translations====
 {{trans-top|consume}}
-* Abkhaz: {{t|ab|афара|tr=afara|sc=Cyrl}}
+* Abkhaz: {{t|ab|афара|sc=Cyrl}}
 * Afrikaans: {{t|af|eet}}
 * Ainu: {{t|ain|エ|tr='e|sc=Kana}}, {{t|ain|イペ|tr='ipe|sc=Kana}}
 * Akkadian: {{t|akk|𒅥|tr=akālu|sc=Xsux}}
 * Albanian: {{t|sq|ha}}
 * Amharic: {{t|am|መብላት|tr=mäblat|sc=Ethi}}
-* Arabic: {{t+|ar|أكل|tr=ʾákala}} imperfective: {{t|ar|يأكل|tr=yaʾkulu}}
+* Arabic: {{t+|ar|أكل|tr=akala}} imperfective: {{t|ar|يأكل|tr=yaʾkulu}}
 *: Egyptian Arabic: {{t|arz|أكل|tr=akal|sc=Arab}}
 * Aramaic: {{t|arc|ܐܟܠ|tr=ʾekal|sc=Hebr}}
 * Armenian: {{t+|hy|ուտել|tr=utel}}
-*: Old Armenian: {{t|xcl|ուտեմ|tr=utem|sc=Armn}}
+*: Old Armenian: {{t|xcl|ուտեմ|sc=Armn}}
 * Aromanian: {{t|rup|mãc}}
 * Asturian: {{t|ast|yantar}}, {{t|ast|xintar}}
 * Atikamekw: {{t|atj|mitciso}}
 * Azeri: {{t+|az|yemək}}
 * Bakhtiari: {{t|bqi|خردن|tr=xarden|sc=fa-Arab}}
 * Basque: {{t+|eu|jan}}
-* Belarusian: {{t|be|есці|impf|tr=jésci}}, {{t|be|есьці|tr=jésʹci}} {{qualifier|Taraškievica orthography}}, {{t|be|з’есці|pf|tr=zjésci|sc=Cyrl}}
+* Belarusian: {{t|be|е́сці|impf}}, {{t|be|е́сьці|impf}} {{qualifier|Taraškievica orthography}}, {{t|be|з'е́сці|pf|sc=Cyrl}}
 * Bengali: {{t|bn|খাওয়া|tr=khaoẇa|sc=Beng}}
 * Breton: {{t+|br|debriñ}}
-* Bulgarian: {{t+|bg|ям|tr=jam}}, {{t|bg|храня се|tr=hranja se}}
+* Bulgarian: {{t+|bg|ям|impf}}, {{t|bg|храня́ се|impf}}
 * Burmese: {{t+|my|စား|tr=sa:|sc=Mymr}}
 * Catalan: {{t+|ca|menjar}}
 * Cebuano: {{t|ceb|kaun}}, {{t|ceb|kaon}}
@@ -155,7 +155,7 @@ From {{etyl|enm|en}} {{term|eten|lang=enm}}, from {{etyl|ang|en}} {{term|etan||t
 * Kurdish:
 *: Kurmanji: {{t+|kmr|xwarin}}
 *: Sorani: {{t|ku|خواردن|tr=xwardin}}
-* Kyrgyz: {{t|ky|жеш|tr=ceş|sc=Cyrl}}
+* Kyrgyz: {{t|ky|жеш|sc=Cyrl}}
 * Lao: {{t+|lo|ກິນ|tr=kin|sc=Laoo}}, {{t|lo|ທານ|tr=thaan|sc=Laoo}} {{qualifier|polite}}
 * Latin: {{t+|la|edō}}, {{t|la|comedō}}, {{t|la|manducō}}
 * Latvian: {{t+|lv|ēst}}
@@ -165,7 +165,7 @@ From {{etyl|enm|en}} {{term|eten|lang=enm}}, from {{etyl|ang|en}} {{term|etan||t
 * Low German: {{t+|nds|eten}}
 * Luo: {{t|luo|chamo}}
 * Luxembourgish: {{t+|lb|iessen}}, {{t|lb|buffen}} (slang), {{t|lb|friessen}} (vulgar)
-* Macedonian: {{t|mk|јаде|tr=jáde}}
+* Macedonian: {{t|mk|ја́де|impf}}
 * Malay:
 *: Rumi: {{t+|ms|makan}}
 *: Jawi: {{t|ms|ماکن|sc=Arab}}
@@ -173,14 +173,14 @@ From {{etyl|enm|en}} {{term|eten|lang=enm}}, from {{etyl|ang|en}} {{term|etan||t
 * Maltese: {{t|mt|kiel}}
 * Manx: {{t|gv|ee}}
 * Maori: {{t|mi|kai}}
-* Mongolian: {{t|mn|идэх|tr=ideh|sc=Cyrl}}
+* Mongolian: {{t|mn|идэх|sc=Cyrl}}
 * Nahuatl: {{t+|nah|cuā}}
 * Navajo: {{t|nv|ayą́}}
 * Neapolitan: {{t|nap|mangià}}, {{t|nap|magnà}}
 * Nepali: {{t+|ne|खानु|sc=Deva}}
 * Norwegian:
-*: Norwegian Bokmål: {{t+|nb|spise}}, {{t+|nb|ete}}
-*: {{ttbc|Norwegian Nynyorsk}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: [[eta]]/[[ete]]
+*: Bokmål: {{t+|nb|spise}}, {{t+|nb|ete}}
+*: Nynorsk: {{t|nn|eta}} / {{t|nn|ete}}
 * Occitan: {{t+|oc|manjar}}
 * Old Church Slavonic:
 *: Cyrillic: {{t|cu|ꙗсти|tr=jasti|sc=Cyrs}}
@@ -199,18 +199,18 @@ From {{etyl|enm|en}} {{term|eten|lang=enm}}, from {{etyl|ang|en}} {{term|etan||t
 * Romagnol: {{t|rgn|magnê}}
 * Romanian: {{t+|ro|mânca}}
 * Romansch: {{t|rm|mangiar}} (people), {{t|rm|magliar}} (animals)
-* Russian: {{t+|ru|есть|impf|tr=jestʹ}}, {{t+|ru|поесть|pf|tr=pojestʹ}}, {{t+|ru|съесть|pf|tr=sʺjestʹ}}, {{t+|ru|кушать|impf|tr=kúšatʹ}}, {{t+|ru|покушать|pf|tr=pokúšatʹ}}, {{t+|ru|скушать|tr=skúšatʹ}} {{pf.}} {{qualifier|polite and friendly}}, {{t+|ru|жрать|impf|tr=žratʹ}}, {{t+|ru|пожрать|pf|tr=požrátʹ}}, {{t+|ru|сожрать|tr=sožrátʹ}} {{pf.}} {{qualifier|rude}}
+* Russian: {{t+|ru|есть|impf}}, {{t+|ru|пое́сть|pf}}, {{t+|ru|съесть|pf}}, {{t+|ru|ку́шать|impf}}, {{t+|ru|поку́шать|pf}}, {{t+|ru|ску́шать|pf}} {{qualifier|polite and friendly}}, {{t+|ru|пита́ться|impf}} {{qualifier|to feed, to live on}}, {{t+|ru|жрать|impf}}, {{t+|ru|пожра́ть|pf}}, {{t+|ru|сожра́ть|pf}} {{qualifier|rude}}
 * Sanskrit: {{t|sa|अत्ति|tr=atti}}
 * Sardinian: {{t|sc|mandigare}}
 * Scottish Gaelic: {{t|gd|ith}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|је̏сти|sc=Cyrl}}
-*: Roman: {{t|sh|jȅsti}}
+*: Cyrillic: {{t|sh|је̏сти|impf|sc=Cyrl}}
+*: Roman: {{t|sh|jȅsti|impf}}
 * Shan: {{t|shn|ၵိၼ်|tr=kĭn}}
 * Sicilian: {{t|scn|manciàri}}
-* Sinhalese: {{t|si|කනවා|tr=kanavā|sc=Sinh}}
-* Slovak: {{t+|sk|jesť}}
-* Slovene: {{t+|sl|jesti}}
+* Sinhalese: {{t|si|කනවා|sc=Sinh}}
+* Slovak: {{t+|sk|jesť|impf}}
+* Slovene: {{t+|sl|jesti|impf}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|jěsć}}
 *: Upper Sorbian: {{t|hsb|jěsć}}
@@ -221,7 +221,7 @@ From {{etyl|enm|en}} {{term|eten|lang=enm}}, from {{etyl|ang|en}} {{term|etan||t
 * Swedish: {{t+|sv|äta}}
 * Tagalog: {{t+|tl|kain}}, {{t|tl|kumain}}, {{t|tl|kainin}}
 * Tai Dam: {{t|blt|kin|sc=Tavt}}
-* Tajik: {{t+|tg|хӯрдан|tr=xūrdan|sc=Cyrl}}
+* Tajik: {{t+|tg|хӯрдан|sc=Cyrl}}
 * Tamil: {{t+|ta|சாப்பிடு|tr=cāppiṭu|sc=Taml}}, {{t+|ta|உண்|tr=uṇ|sc=Taml}}
 * Tatar: {{t|tt|аша-рга|tr=aşa-rga|sc=Cyrl}}
 * Telugu: {{t+|te|తిను|tr=tinu|sc=Telu}}, {{t+|te|భుజించు|tr=bhujin̄cu|sc=Telu}}
@@ -231,7 +231,7 @@ From {{etyl|enm|en}} {{term|eten|lang=enm}}, from {{etyl|ang|en}} {{term|etan||t
 * Turkmen: {{t|tk|iýmek}}
 * Tuvan: {{t|tyv|чиир|tr=čiir}}
 * Ugaritic: {{t|uga|𐎀𐎋𐎍|tr=ảkl|sc=Ugar}}
-* Ukrainian: {{t+|uk|їсти|tr=jísty}}
+* Ukrainian: {{t+|uk|ї́сти|impf}}
 * Urdu: {{t|ur|کھانا|tr=khānā}}
 * Uzbek: {{t+|uz|yemoq}}
 * Vietnamese: {{t+|vi|ăn}}, {{t|vi|ăn cơm}}
