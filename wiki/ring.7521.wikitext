@@ -187,7 +187,7 @@ From {{etyl|enm|en}} {{term|ring|lang=enm}}, {{term|ryng|lang=enm}}, also {{term
 * Polish: {{t+|pl|pierścień|m}}
 * Portuguese: {{t+|pt|anel|m}}
 * Romanian: {{t+|ro|inel|n}}
-* Russian: {{t+|ru|кольцо́|n|sc=Cyrl|tr=kol’có}}
+* Russian: {{t+|ru|кольцо́|n|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|cearcall|m}}
 * Spanish: {{t+|es|anillo|m}}
 * Swahili: {{t+|sw|pete}}
@@ -200,24 +200,24 @@ From {{etyl|enm|en}} {{term|ring|lang=enm}}, {{term|ryng|lang=enm}}, also {{term
 {{trans-top|round piece of (precious) metal worn around the finger}}
 * Afrikaans: {{t|af|ring}}
 * Albanian: {{t|sq|unazë|f}}
-* Arabic: {{t|ar|خاتم|m|tr={{IPAchar|χātim}}|sc=Arab}}
+* Arabic: {{t|ar|خاتم|m|tr=ḵātim|sc=Arab}}
 * Aragonese: {{t|an|aniello|m}}
-* Armenian: {{t|hy|մատանի|tr=matani}}
+* Armenian: {{t|hy|մատանի}}
 * Aromanian: {{t+|rup|nel}}
 * Asturian: {{t|ast|aniellu|m}}
 * Azeri: {{t+|az|üzük}}
 * Baluchi: {{t|bal|چلہ|tr=calla}}
-* Bashkir: {{t|ba|йөҙөк|tr=yöźök|sc=Cyrl}}, {{t|ba|балдаҡ|tr=baldaq|sc=Cyrl}}
-* Belarusian: {{t|be|пярсьцёнак|m|tr=pjars′cënak}}, {{t|be|piarścionak|m}}
+* Bashkir: {{t|ba|йөҙөк|sc=Cyrl}}, {{t|ba|балдаҡ|sc=Cyrl}}
+* Belarusian: {{t|be|пярсьцёнак|m}}
 * Bemba: {{t|bem|im-balaáminwe}}, {{t|bem|i-lindaáminwe}}
 * Breton: {{t|br|bizou|m}}
-* Bulgarian: {{t+|bg|пръстен|m|tr=prǎsten}}
+* Bulgarian: {{t+|bg|пръ̀стен|m}}
 * Catalan: {{t|ca|anell|m}}
 * Chamicuro: {{t|ccc|shpaki'techi}}
 * Chamorro: {{t|ch|aniyu}}
 * Cherokee: {{t|chr|ᎠᎵᏰᏑᏍᏔᏬ|tr=''aliyesustawo''|sc=Cher}}
 * Chinese:
-*: {{ttbc|cmn}}: {{t+|cmn|戒指|sc=Hani|tr=jièzhǐ}} <!-- was "Chinese"; please verify correctness and check script variant (|sc=Hani or |sc=Hans) -->
+*: Mandarin: {{t+|cmn|戒指|tr=jièzhǐ|sc=Hani}}
 * Chuvash: {{t|cv|ҫӗрӗ|tr=śĕrĕ|sc=Cyrl}}
 * Corsican: {{t|co|anellu|m}}
 * Czech: {{t+|cs|prsten|m}}
@@ -245,7 +245,7 @@ From {{etyl|enm|en}} {{term|ring|lang=enm}}, {{term|ryng|lang=enm}}, also {{term
 * Interlingua: {{t|ia|anello}}
 * Irish: {{t+|ga|fáinne}}
 * Italian: {{t+|it|anello|m}}
-* Japanese: {{t|ja|指輪|tr=[[ゆびわ]], ''yubiwa''}}
+* Japanese: {{t|ja|指輪|tr=[[ゆびわ]], yubiwa}}
 * Jèrriais: {{t|roa-jer|bague|f}}
 * Karachay-Balkar: {{t|krc|жюзюк|tr=cüzük|sc=Cyrl}}, {{t|krc|джюзюк|tr=cüzük|sc=Cyrl}}
 * Karakalpak: {{t|kaa|ju'zik}}
@@ -278,7 +278,7 @@ From {{etyl|enm|en}} {{term|ring|lang=enm}}, {{term|ryng|lang=enm}}, also {{term
 * {{ttbc|rom}}: {{t|rom|अंगूस्ती|tr=aṅgūstī}}
 * Romanian: {{t+|ro|inel|m|f}}
 * Romansch: {{t|rm|anè|m}} {{qualifier|Rumantsch Grischun, Puter, Vallader}}, {{t|rm|ani|m}} {{qualifier|Sursilvan, Sutsilvan}}, {{t|rm|anel|m}} {{qualifier|Surmiran}}
-* Russian: {{t+|ru|кольцо́|n|sc=Cyrl|tr=kol’có}}, {{t+|ru|пе́рстень|m|sc=Cyrl|tr=pérsten'}}
+* Russian: {{t+|ru|кольцо́|n|sc=Cyrl}}, {{t+|ru|пе́рстень|m|sc=Cyrl}}
 * Sardinian:
 *: Campidanese Sardinian: {{t|sro|lóriga}}, {{t|sro|arra}}, {{t|sro|aneddu}}
 *: Logudorese Sardinian: {{t|src|arra}}
@@ -302,7 +302,7 @@ From {{etyl|enm|en}} {{term|ring|lang=enm}}, {{term|ryng|lang=enm}}, also {{term
 * Turkish: {{t+|tr|yüzük}}
 * Turkmen: {{t|tk|ýüzük}}
 * Tuvan: {{t|tyv|чүстүк|tr=çüstük|sc=Cyrl}}
-* Ukrainian: {{t|uk|перстень|m|tr=pérsten′}}
+* Ukrainian: {{t|uk|пе́рстень|m}}
 * Uzbek: {{t|uz|uzuk}}
 * Vietnamese: {{t+|vi|nhẫn}}, {{t+|vi|cà rá}}
 * West Frisian: {{t|fy|ring}}
@@ -311,7 +311,7 @@ From {{etyl|enm|en}} {{term|ring|lang=enm}}, {{term|ryng|lang=enm}}, also {{term
 {{trans-bottom}}
 
 {{trans-top|bird band}}
-* Armenian: {{t|hy|օղ|tr=òġ}}
+* Armenian: {{t|hy|օղ}}
 * Catalan: {{t|ca|anella}}
 * Estonian: {{t|et|rõngas}}
 * Finnish: {{t+|fi|rengas}}
@@ -323,7 +323,7 @@ From {{etyl|enm|en}} {{term|ring|lang=enm}}, {{term|ryng|lang=enm}}, also {{term
 * Maori: {{t|mi|pōria}}, {{t|mi|mōria}}
 * Polish: {{t+|pl|obrączka|f}}
 * Portuguese: {{t|pt|anilha|f}}
-* Russian: {{t+|ru|кольцо|n|tr=kol’tsó|sc=Cyrl}}
+* Russian: {{t+|ru|кольцо́|n|sc=Cyrl}}
 * Slovene: {{t|sl|obroček|m}}
 * Spanish: {{t+|es|aro|m}}, {{t|es|anilla|f}}
 * Swedish: {{t+|sv|ring|c}}
@@ -359,7 +359,7 @@ From {{etyl|enm|en}} {{term|ring|lang=enm}}, {{term|ryng|lang=enm}}, also {{term
 * Norwegian: {{t+|no|ring|m}}
 * Polish: {{t+|pl|ring|m}}
 * Portuguese: {{t+|pt|ringue|m}}
-* Russian: {{t+|ru|ринг|m|tr=''ring''}}, {{t+|ru|манеж|m|tr=manéž|sc=Cyrl}}
+* Russian: {{t+|ru|ринг|m}}, {{t+|ru|мане́ж|m|sc=Cyrl}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|ринг|m}}
 *: Roman: {{t|sh|ring|m}}
@@ -391,7 +391,7 @@ From {{etyl|enm|en}} {{term|ring|lang=enm}}, {{term|ryng|lang=enm}}, also {{term
 * Japanese: {{t|ja|一味|tr=''ichimi''}}
 * Polish: {{t+|pl|klika|f}}, {{t+|pl|krąg|m}}
 * Portuguese: {{t+|pt|círculo|m}}
-* Russian: {{t+|ru|клика|f|tr=''klíka''}}
+* Russian: {{t+|ru|кли́ка|f}}
 * Spanish: {{t+|es|banda|f}}
 {{trans-bottom}}
 
@@ -405,7 +405,7 @@ From {{etyl|enm|en}} {{term|ring|lang=enm}}, {{term|ryng|lang=enm}}, also {{term
 {{trans-mid}}
 * Polish: {{t+|pl|pierścień|m}}
 * Portuguese: {{t+|pt|anel|m}}
-* Russian: {{t+|ru|кольцо|n|sc=Cyrl|tr=kol’tsó}}
+* Russian: {{t+|ru|кольцо́|n|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|cearcall|m}}
 * Slovene: {{t|sl|kolobar|m}}
 * Swedish: {{t+|sv|ring|c}}
@@ -427,7 +427,7 @@ From {{etyl|enm|en}} {{term|ring|lang=enm}}, {{term|ryng|lang=enm}}, also {{term
 * Lithuanian: {{t|lt|žiedas|m}}
 * Polish: {{t+|pl|pierścień|m}}
 * Portuguese: {{t+|pt|anel|m}}
-* Russian: {{t+|ru|кольцо|n|tr=kol’tsó|sc=Cyrl}}
+* Russian: {{t+|ru|кольцо́|n|sc=Cyrl}}
 * Slovak: {{t|sk|prstenec|m}}
 * Spanish: {{t+|es|anillo|m}}
 * Swedish: {{t+|sv|ring|c}}
