@@ -211,7 +211,7 @@ From {{etyl|enm|en}} {{term|rat|lang=enm}}, {{term|rotte|lang=enm}}, from {{etyl
 * Urdu: {{gloss|mouse or rat}} {{t|ur|چوها|m|tr=cūhā|sc=ur-Arab}}
 * Uzbek: {{t|uz|kalamush}}
 * Vietnamese: {{gloss|mouse or rat}} {{t+|vi|chuột}}
-* Volapük: {{qualifier|♂♀}} {{t+|vo|rat}}, {{qualifier|♂}} {{t|vo|hirat}}, {{qualifier|♀}} {{t|vo|jirat}}, {{qualifier|♂♀ offspring}} {{t|vo|ratül}}
+* Volapük: {{t+|vo|rat}} {{qualifier|male or female}}, {{t|vo|hirat}} {{qualifier|male}} , {{t|vo|jirat}} {{qualifier|female}}, {{t|vo|ratül}} {{qualifier|male or female offspring}} 
 * {{trreq|wa}}
 * Welsh: {{t+|cy|llygoden fawr|f}}
 * West Frisian: {{t|fy|rôt|c}}
@@ -507,6 +507,59 @@ From {{etyl|en|tcs}} ''[[rat#English|rat]]''.
 * [[mukeis]] (''eastern dialect'')
 
 [[Category:tcs:Mammals]]
+
+----
+
+==Volapük==
+
+===Etymology===
+{{borrowing|en|rat|lang=vo}}.
+
+===Pronunciation===
+* {{IPA|[ɾat]|lang=vo}}
+
+===Noun===
+{{vo-noun}}
+
+# [[rat]] ([[rodent]] of the family [[Muridae]])
+
+====Declension====
+{{vo-decl-noun}}
+
+====Hyponyms====
+* {{l|vo|hirat}}
+* {{l|vo|jirat}}
+* {{l|vo|ratil}}
+* {{l|vo|ratül}}
+
+====Hypernyms====
+* {{l|vo|nim}}
+* {{l|vo|sügaf}}
+* {{l|vo|süganim}}
+* {{l|vo|tuetaf}}
+* {{l|vo|tuetanim}}
+
+====Derived terms====
+{{der-top|Terms derived from "rat"}}
+* {{l|vo|ratagöb}}
+* {{l|vo|ratajiedot}}
+* {{l|vo|ratanäst}}
+* {{l|vo|ratifanan}}
+{{der-mid}}
+* {{l|vo|ratiträp}}
+* {{l|vo|rativenen}}
+* {{l|vo|taratpuin}}
+{{der-bottom}}
+
+====See also====
+* {{l|vo|mug}}
+* {{l|vo|visul}}
+* {{l|vo|yat}}
+
+[[Category:vo:Animals]]
+[[Category:vo:Mammals]]
+[[Category:vo:Rodents]]
+
 
 [[ar:rat]]
 [[az:rat]]
