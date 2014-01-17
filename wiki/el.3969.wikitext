@@ -77,7 +77,7 @@
 * [[elu]]
 
 ===Etymology===
-From {{etyl|la|rup}} ''[[ille]]'', possibly through a {{etyl|VL.|rup}} root *''illus''. Compare Daco-Romanian {{term|el|lang=ro}}.
+From {{etyl|la|rup}} {{term/t|la|ille}}, possibly through a {{etyl|VL.|rup}} root {{term/t|la|*illus}}. Compare Daco-Romanian {{term/t|ro|el}}.
 
 ===Pronoun===
 {{head|rup|pronoun|g=m}}
@@ -190,18 +190,16 @@ Before a word that begins with a vowel or ''h-'', the form {{term|l'|lang=ca}} i
 {{rfp|lang=crh}}
 
 ===Noun===
-'''el'''
+{{head|crh|noun}}
 
-# [[hand]], [[forearm]].
-# [[ell]].
+# [[hand]], [[forearm]]
+# [[ell]]
 
 ====Declension====
 {{crh-latin-noun|niñ|ge|ni|de|den}}
 
 ===References===
 * {{R:Useinov-Mireev 2002}}
-
-[[Category:Crimean Tatar nouns]]
 
 ----
 
@@ -228,7 +226,7 @@ From {{etyl|la|dlm}} {{term|ille|lang=la}}, {{term|illud|lang=la}}.
 {{wikipedia|lang=da}}
 
 ===Etymology 1===
-From {{etyl|non|da}} {{term|elri||alder|lang=non}}.
+From {{etyl|non|da}} {{term/t|non|elri||alder}}.
 
 ====Pronunciation====
 * {{IPA|/ɛl/|[ɛlˀ]|lang=da}}
@@ -242,7 +240,7 @@ From {{etyl|non|da}} {{term|elri||alder|lang=non}}.
 {{da-noun-infl|stem=ell|en|e}}
 
 ===Etymology 2===
-Introduced in the 1940’s after Swedish {{term|el|lang=sv}}, abbreviation of {{term|elektricitet||electricity|lang=da}}.
+Introduced in the 1940’s after Swedish {{term/t|sv|el}}, abbreviation of {{term/t|da|elektricitet||electricity}}.
 
 ====Pronunciation====
 * {{IPA|/ɛl/|[ɛl]|lang=da}}
@@ -341,7 +339,7 @@ Obscure; may be derived from {{etyl|la|eo}} {{term|ex|lang=la}} ("out of").
 * {{IPA|/ˈel/|lang=gl}}
 
 ===Etymology===
-From {{etyl|la|gl}} {{term|ille||that|lang=la}}.
+From {{etyl|la|gl}} {{term/t|la|ille||that}}.
 
 ===Pronoun===
 {{gl-pron|form=nom|g=m|dat=lle|acc=o}}
@@ -375,11 +373,9 @@ From {{etyl|la|gl}} {{term|ille||that|lang=la}}.
 {{head|hu|adverb}}
 
 # [[off]]
-#: '''''El''' a kezekkel!''
-#:: Hands off!
+#: {{usex|'''El''' a kezekkel!|t=Hands off!|lang=hu}}
 # [[away]]
-#: ''Anna '''el'''ment? Nem ment '''el'''.''
-#:: Has Anna left? No, she has not.
+#: {{usex|Anna '''el'''ment? Nem ment '''el'''.|t=Has Anna left? No, she has not.|lang=hu}}
 
 ===See also===
 * [[el-]]
@@ -398,6 +394,15 @@ From {{etyl|la|gl}} {{term|ille||that|lang=la}}.
 {{head|is|verb form}}
 
 # {{conjugation of|ala||1|s|pres|ind|lang=is}}
+
+----
+
+==Ido==
+
+===Pronoun===
+{{io-pron}}
+
+# {{alternative form of|elu|lang=io}}
 
 ----
 
@@ -478,7 +483,7 @@ From {{etyl|odt|dum}} *{{term||elli|lang=odt}}, from {{etyl|gem-pro|dum}} {{term
 ==Occitan==
 
 ===Etymology===
-From {{etyl|la|oc}} ''[[ille]]''.
+From {{etyl|la|oc}} {{term/t|la|ille}}.
 
 ===Pronoun===
 {{head|oc|personal pronoun}}
@@ -763,8 +768,7 @@ From {{etyl|otk|tr}} ''él'', from {{etyl|trk-pro|tr}}. Cognate with [[alan]].
 {{head|vec|pronoun}}
 
 # [[he]], [[she]], [[it]] used as an obligatory clitic pronoun following a verb.
-#: ''El can '''el''' magna i òsi.''
-#:: ''The dog '''(it)''' eats the bones.''
+#: {{usex|El can '''el''' magna i òsi.|t=The dog '''(it)''' eats the bones.|lang=vec}}
 
 ----
 
