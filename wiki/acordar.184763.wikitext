@@ -1,7 +1,7 @@
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|roa-ptg|pt}} {{term|acordar|lang=roa-ptg}}, from {{etyl|la|pt}} {{recons|accordāre|lang=la}}, present active infinitive of {{recons|accordō|lang=la}}.
+From {{etyl|roa-ptg|pt}} {{term/t|roa-ptg|acordar}}, from {{etyl|la|pt}} {{term/t|la|*accordāre}}, present active infinitive of {{term/t|la|*accordō}}.
 
 ===Pronunciation===
 * {{a|PT}} {{IPA|/ɐ.kuɾ.ˈðaɾ/|lang=pt}}
@@ -10,11 +10,11 @@ From {{etyl|roa-ptg|pt}} {{term|acordar|lang=roa-ptg}}, from {{etyl|la|pt}} {{re
 ===Verb===
 {{pt-verb|acord|ar}}
 
-# {{context|intransitive|lang=pt}} to [[awake]] (to gain consciousness)
-# {{context|transitive|lang=pt}} to [[wake up]] (a person, an animal, etc.)
+# {{context|intransitive|lang=pt}} to [[awake]] {{gloss|to gain consciousness}}
+# {{context|transitive|lang=pt}} to [[wake up]] {{gloss|a person, an animal, etc.}}
 #*{{RQ:Harry Potter|3|pt-BR|page=336}}
-#*:Francamente, vão '''acordar''' todo mundo!
-#*::Frankly, you are going to wake up everybody!
+#*: Francamente, vão '''acordar''' todo mundo!
+#*:: Frankly, you are going to wake up everybody!
 
 ====Conjugation====
 {{pt-conj|acord|ar}}
@@ -24,7 +24,7 @@ From {{etyl|roa-ptg|pt}} {{term|acordar|lang=roa-ptg}}, from {{etyl|la|pt}} {{re
 ==Spanish==
 
 ===Etymology===
-{{etyl|VL.|es}} ''*accordare'', from ''[[ac-]]'', combining form of ''[[ad]]'', 'to', +  ''[[cor]]'', 'heart', + verb suffix ''[[-are]]''.
+From {{etyl|VL.|es}} {{term/t|la|*accordare}}, from {{term/t|la|ac-}} (combining form of {{term/t|la|ad||to}}) +  {{term/t|la|cor||heart}}, + verb suffix {{term/t|la|-āre}}.
 
 ===Pronunciation===
 * {{IPA|/akoɾˈdaɾ/|lang=es}}
@@ -32,13 +32,12 @@ From {{etyl|roa-ptg|pt}} {{term|acordar|lang=roa-ptg}}, from {{etyl|la|pt}} {{re
 ===Verb===
 {{es-verb|acord|ar|pres=acuerdo}}
 
-# {{context|transitive|lang=es}} to [[decide]], to [[arrange]]
+# {{context|transitive|lang=es}} to [[decide]], [[arrange]]
 # {{context|intransitive|lang=es}} to [[agree]]
-#: ''Lo '''acordaron''' por unanimidad'' - "They agreed to it unanimously"
-# {{context|reflexive|lang=es}} to reach agreement
-'''[[acordarse]] de'''
-# {{context|reflexive|lang=es}} to [[remember]], [[recall]]
-#: ''¿'''Se acuerda''' Ud. '''de''' esto?'' - "Do you remember this?"
+#: {{usex|Lo '''acordaron''' por unanimidad.|t=They agreed to it unanimously.|inline=1|lang=es}}
+# {{context|reflexive|[[acordarse]] de|lang=es}} to reach agreement
+# {{context|reflexive|[[acordarse]] de|lang=es}} to [[remember]], [[recall]]
+#: {{usex|¿'''Se acuerda''' Ud. '''de''' esto?|t=Do you remember this?|inline=1|lang=es}}
 
 ====Synonyms====
 * {{sense|remember}} [[recordar]]
