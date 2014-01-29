@@ -46,7 +46,7 @@
 * Arabic: {{t+|ar|عسل|m|tr=ʿásal}}, {{t+|ar|شَهْد|m|tr=šáhd|sc=Arab}}
 *: Egyptian Arabic: {{t|arz|عسل|m|tr=ʕásal|sc=Arab}}
 * Aragonese: {{t|an|miel|f}}
-* Armenian: {{t+|hy|մեղր|tr=meġr}}
+* Armenian: {{t+|hy|մեղր}}
 *: Old Armenian: {{t|xcl|մեղր|tr=mełr|sc=Armn}}
 * Aromanian: {{t|rup|njare}}
 * Asturian: {{t|ast|miel|m}}
@@ -60,7 +60,7 @@
 *: Tashelhit: {{t|shi|tammnt|f}}
 * Breton: {{t+|br|mel|m}}
 * Bulgarian: {{t+|bg|мед|m|tr=med}}
-* Burmese: {{t+|my|ပျားရည်|tr=pja: jei|sc=Mymr}}
+* Burmese: {{t+|my|ပျားရည်|tr=pya:rany|sc=Mymr}}
 * Catalan: {{t+|ca|mel|f}}
 * Central Atlas Tamazight: {{t|tzm|ⵜⴰⵎⵎⵏⵜ|f|tr=tammnt}}
 * Chamicuro: {{t|ccc|mishki}}
@@ -77,7 +77,7 @@
 * Danish: {{t+|da|honning}}
 * Darkinjung: {{t|xda|kûdyung}}
 * Dutch: {{t+|nl|honing|m}}
-* Erzya: {{t|myv|медь|tr=medj}}
+* Erzya: {{t|myv|медь}}
 * Esperanto: {{t+|eo|mielo}}
 * Estonian: {{t+|et|mesi}}
 * Ewe: {{t|ee|anyĩtsi}}
@@ -87,10 +87,10 @@
 * Friulian: {{t|fur|mîl}}
 * Galician: {{t+|gl|mel|m}}
 * Gamilaraay: {{t|kld|warrul}}
-* Georgian: {{t|ka|თაფლი|tr=t'ap'li|sc=Geor}}
+* Georgian: {{t|ka|თაფლი|sc=Geor}}
 * German: {{t+|de|Honig|m}}
 * Gothic: {{t|got|𐌼𐌹𐌻𐌹𐌸|n|tr=miliþ|sc=Goth}}
-* Greek: {{t+|el|μέλι|n|tr=méli}}
+* Greek: {{t+|el|μέλι|n}}
 * Guaraní: {{t|gn|eirete}}
 * Gujarati: {{t|gu|મધુ|tr=madhu|sc=Gujr}}
 * Hawaiian: {{t|haw|meli}}
@@ -142,9 +142,7 @@
 * Old Church Slavonic: {{t|cu|мєдъ|m|tr=medŭ|sc=Cyrs}}
 * Old English: {{t|ang|huniġ|n}}
 * Old Norse: {{t|non|hunang|n}}
-* Ossetian:
-*: Digor: {{t|os|муд|tr=mud|sc=Cyrl}}
-*: Iron: {{t|os|мыд|tr=myd|sc=Cyrl}}
+* Ossetian: {{qualifier|Digor}} {{t|os|муд|tr=mud|sc=Cyrl}}, {{qualifier|Iron}} {{t|os|мыд|tr=myd|sc=Cyrl}}
 * Pashto: {{t|ps|ګبينه|tr=gabīnâ|sc=ps-Arab}}, {{t|ps|شات|tr=šāt|sc=ps-Arab}}
 * Persian: {{t+|fa|عسل|tr=asal|sc=fa-Arab}}, {{t+|fa|انگبین|tr=angabin, angobin|sc=fa-Arab}}, {{t|fa|انگوین|tr=angovin|sc=fa-Arab}}, {{t+|fa|شهد|tr=šahd|sc=fa-Arab}}
 * Polish: {{t+|pl|miód|m}}
@@ -160,7 +158,7 @@
 *: Cyrillic: {{t|sh|ме̑д|m|sc=Cyrl}}
 *: Roman: {{t|sh|mȇd|m}}
 * Sicilian: {{t+|scn|meli|m}}
-* Sinhalese: {{t|si|පැණි|tr=pæni|sc=Sinh}}, {{t|si|පැනි|tr=pæni|sc=Sinh}}
+* Sinhalese: {{t|si|පැණි|sc=Sinh}}, {{t|si|පැනි|sc=Sinh}}
 * Slovak: {{t|sk|med|m}}
 * Slovene: {{t+|sl|med|m}}
 * {{trreq|so}}
@@ -171,8 +169,7 @@
 * Swedish: {{t+|sv|honung|c}}
 * Tagalog: {{t|tl|pulut-pukyutan}}
 * Tajik: {{t|tg|асал|tr=asal|sc=Cyrl}}
-* Talysh:
-*: Asalemi: {{t|tly|عسل|tr=asal|sc=fa-Arab}}
+* Talysh: {{qualifier|Asalemi}} {{t|tly|عسل|tr=asal|sc=fa-Arab}}
 * Tamil: {{t+|ta|தேன்|tr=tēṉ|sc=Taml}}
 * Tatar: {{t+|tt|бал|tr=bal|sc=Cyrl}}
 * Telugu: {{t+|te|తేనె|tr=tēne}}
@@ -206,17 +203,17 @@
 
 {{trans-top|term of affection}}
 * Arabic: {{t+|ar|حبيبي|tr=Habiibi}}
-* Armenian: {{t|hy|սիրելիս|tr=sirelis}}
+* Armenian: {{t|hy|սիրելիս}}
 * Chinese:
 *: Mandarin: {{t|cmn|寶貝|sc=Hani}}, {{t+|cmn|宝贝|tr=bǎobèi|sc=Hani}}, {{t+|cmn|親愛的|sc=Hani}}, {{t|cmn|亲爱的|tr=qīn'àide|sc=Hani}}, {{t|cmn|哈你|tr=hānǐ|sc=Hani}}
 * Dutch: {{t+|nl|schat|m}}, {{t+|nl|schatje|n}}
-* Erzya: {{t|myv|вечкемнем|tr=vechkemn'em}}
+* Erzya: {{t|myv|вечкемнем}}
 * Esperanto: {{t|eo|karulo}}, {{t|eo|karulino}}
 * Estonian: {{t+|et|kallis}}
 * Finnish: {{t+|fi|kulta}}, {{t|fi|kultanen}}
 * French: {{t+|fr|chéri|m}}, {{t+|fr|chérie|f}}
 * German: {{t+|de|Schatz|m}}
-* Greek: {{t+|el|γλύκα|f|tr=glíka}}, {{t+|el|γλυκιά|f|tr=glikiá}}
+* Greek: {{t+|el|γλύκα|f}}, {{t+|el|γλυκιά|f}}
 * Icelandic: {{t|is|elskan|f}}
 * Italian: {{t+|it|carino|m}}, {{t+|it|tesoro|m}}, {{t+|it|gioia|f}}
 * Japanese: {{t|ja|ハニー|tr=hanī}}
@@ -248,7 +245,7 @@
 {{trans-top|colour}}
 * Crimean Tatar: {{t|crh|bal}}
 * Finnish: {{t|fi|hunajankeltainen}}
-* Greek: {{t|el|μελί|n|tr=melí}}, {{t|el|μελόχρουν|n|tr=melókhrun}}
+* Greek: {{t|el|μελί|n}}, {{t|el|μελόχρουν|n}}
 * Polish: ({{t+|pl|kolor}}) {{t+|pl|miodowy}}
 * Portuguese: {{t+|pt|mel}}
 {{trans-mid}}
