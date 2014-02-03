@@ -41,13 +41,13 @@
 
 ====Translations====
 {{trans-top|publication that explains the meanings of an ordered list of words}}
-* Abkhaz: {{t|ab|ажәар|tr=ažwar|sc=Cyrl}}
-* Adyghe: {{t|ady|гущыӏалъ|tr=gwš'yʕaɬ|sc=Cyrl}}
+* Abkhaz: {{t|ab|ажәар|sc=Cyrl}}
+* Adyghe: {{t|ady|гущыӏалъ|sc=Cyrl}}
 * Afrikaans: {{t+|af|woordeboek}}
 * {{trreq|ak}}
-* Albanian: {{t+|sq|fjalor}}
+* Albanian: {{t+|sq|fjalor|m}}
 * American Sign Language: {{t|ase|D@NearPalm-PalmDown-OpenB@CenterChesthigh-PalmUp CirclesMidlineContact}}
-* Amharic: {{t|am|መዝገበ ቃላት|tr=mäzgäbä qalat|sc=Ethi}}
+* Amharic: {{t|am|መዝገበ ቃላት|sc=Ethi}}
 * Amuzgo: {{t|amu|tzoⁿ 'tzítyui' jñ'o}}
 * Arabic: {{t+|ar|قاموس|m|tr=qāmūs}}, {{t+|ar|معجم|m|tr=múʿjam}}
 *: Egyptian Arabic: {{t|arz|قاموس|m|tr= qamwus|sc=Arab}}
@@ -60,20 +60,20 @@
 * Azeri: {{t+|az|lüğət}}
 * Bashkir: {{t|ba|һүҙлек|tr=hüðlek|sc=Cyrl}}
 * Basque: {{t+|eu|hiztegi}}
-* Belarusian: {{t|be|слоўнік|m|tr=slóŭnik|sc=Cyrl}} (łacinka: {{t|be|słoŭnik|m|sc=Latn}})
+* Belarusian: {{t|be|сло́ўнік|m|sc=Cyrl}} (łacinka: {{t|be|słoŭnik|m|sc=Latn}})
 * Bengali: {{t+|bn|অভিধান|tr=ôbhidhan|sc=Beng}}, {{t|bn|ডিকশনারী|tr=ḍikshônari|sc=Beng}}, {{t|bn|ডিকশনারি|tr=ḍikshônari|sc=Beng}}
 * {{ttbc|Binisayâ}}<!-- name not recognised by xte: update [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: [[pagpurulungan]]
 * Breton: {{t+|br|geriadur|m}}
-* Bulgarian: {{t+|bg|речник|m|tr=réčnik}}, {{t|bg|словар|m|tr=slovár}}
+* Bulgarian: {{t+|bg|ре́чник|m}}, {{t|bg|слова́р|m}}
 * Burmese: {{t+|my|အဘိဓာန်|tr=ăbeitdan|sc=Mymr}}
 * Catalan: {{t+|ca|diccionari|m}}
 * Chakma: {{t|ccp|𑄇𑄧𑄙𑄖𑄢|tr=kadhātārā|sc=Cakm}}
-* Chechen: {{t|ce|словарь|tr=slovarʹ}}, {{t|ce|дошам|tr=došam}}, {{t|ce|лугӏат|tr=luġat}}
+* Chechen: {{t|ce|словарь}}, {{t|ce|дошам}}, {{t|ce|лугӏат}}
 * Chinese:
 *: Dungan: {{t|dng|хуадян|tr=huadyan|sc=Cyrl}}
 *: Mandarin: {{t+|cmn|字典|tr=zìdiǎn|sc=Hani}} {{qualifier|character dictionary}}, {{t+|cmn|詞典|sc=Hani}}, {{t+|cmn|词典|tr=cídiǎn|sc=Hani}}
 *: {{ttbc|Wu (Suzhou dialect)}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: [[zïtip]]
-* Chuvash: {{t|cv|словарь|sc=Cyrl}}, {{t|cv|сăмахсен кĕнеки|tr=sămaxsan kĕneki|sc=Cyrl}}
+* Chuvash: {{t|cv|словарь|sc=Cyrl}}, {{t|cv|сӑмахсен кӗнеки|sc=Cyrl}}
 * Cornish: {{t|kw|gerlyver|m}}
 * Crimean Tatar: {{t|crh|luğat}}
 * Czech: {{t+|cs|slovník|m}}
@@ -89,7 +89,7 @@
 * Galician: {{t+|gl|dicionario|m}}
 * Georgian: {{t+|ka|ლექსიკონი|sc=Geor}}
 * German: {{t+|de|Wörterbuch|n}}
-* Greek: {{t+|el|λεξικό|n|tr=lexikó}}
+* Greek: {{t+|el|λεξικό|n}}
 * Gujarati: {{t|gu|શબ્દકોશ|tr=śabdkoś|sc=Gujr}}
 * Haitian Creole: {{t|ht|diksyonè}}
 * Hausa: {{t|ha|ƙamus|m}}
@@ -108,22 +108,22 @@
 * Inuktitut: {{t|iu|ᕿᒥᕐᕈᐊᑦ ᐅᓐᓂᖅᑐᖅ ᒥᑦᓯ ᑐᑭᐊ|tr=qimirruat unniqtuq mitsi tukia|sc=Cans}}
 * Irish: {{t+|ga|foclóir|m}}
 * Italian: {{t+|it|dizionario|m}}
-* Japanese: {{t+|ja|辞書|tr=[[じしょ]], jisho}}, {{t|ja|字書|tr=[[じしょ]], jisho}}, {{t+|ja|辞典|tr=[[じてん]], jiten}}, {{t+|ja|字典|tr=[[じてん]], jiten}}, {{t|ja|字引|tr=[[じびき]], jibiki}}
+* Japanese: {{t+|ja|辞書|tr=[[じしょ]], jisho}}, {{t|ja|字書|tr=[[じしょ]], jisho}}, {{t+|ja|辞典|tr=[[じてん]], jiten}}, {{t+|ja|字典|tr=[[じてん]], jiten}} {{qualifier|character dictionary}}, {{t|ja|字引|tr=[[じびき]], jibiki}} {{qualifier|character dictionary}}
 * Javanese: {{t|jv|bausastra}}
 * Jèrriais: {{t|roa-jer|dictionnaithe|m}}
-* Kannada: {{t+|kn|ನಿಘಂಟು|tr=nighangṭu|sc=Knda}}, {{t+|kn|ಅರ್ಥಕೋಶ|tr=arthakōsh|sc=Knda}}
+* Kannada: {{t+|kn|ನಿಘಂಟು|sc=Knda}}, {{t+|kn|ಅರ್ಥಕೋಶ|sc=Knda}}
 * Kapampangan: {{t|pam|talabaldugan}}
 * Karachay-Balkar: {{t|krc|сёзлюк}}
 * Karelian: {{t|krl|šanalo}}
 * Kashubian: {{t|csb|słowôrz}}
-* Kazakh: {{t+|kk|сөздік|tr=sözdik|sc=Cyrl}}
+* Kazakh: {{t+|kk|сөздік|sc=Cyrl}}
 * Khmer: {{t+|km|វចនានុក្រម|tr=wachanānūgrom|sc=Khmr}}
 * Kikuyu: {{t|ki|kamusi}}
 * {{trreq|rw}}
 * {{trreq|rn}}
 * Korean: {{t+|ko|사전|tr=sajeon}} ({{t+|ko|辭典|sc=Hani}}), {{t+|ko|자서|tr=jaseo}} ({{t+|ko|字書|sc=Hani}})
 * Kurdish: {{t+|ku|ferheng|f}}, {{t+|ku|peyvname|f}}, {{t+|ku|bêjename|f}}, {{t+|ku|qamûs|f}}, {{t+|ku|فەرهەنگ|sc=ku-Arab}}
-* Kyrgyz: {{t|ky|сөздүк|tr=sözdük|sc=Cyrl}}
+* Kyrgyz: {{t|ky|сөздүк|sc=Cyrl}}
 * Lao: {{t+|lo|ວັດຈະນານຸກົມ|tr=vatchanānukom|sc=Laoo}} <!-- {{t|lo|ປະທານຸກົມ|tr=pá tʰáː nū kom|sc=Laoo}}) -->
 * Latin: {{t|la|dictionarium|n}}, {{t|la|glossarium|n}}, {{t|la|index verborum}}
 * Latvian: {{t+|lv|vārdnīca|f}}
@@ -134,7 +134,7 @@
 {{trans-mid}}
 * Luhya: {{t|luy|ekamusi}}
 * Luxembourgish: {{t+|lb|Dictionnaire|m}}, {{t+|lb|Wierderbuch|n}}
-* Macedonian: {{t|mk|речник|m|tr=réčnik}}
+* Macedonian: {{t|mk|ре́чник|m}}
 * Malagasy: {{t+|mg|rakibolana}}
 * Malay: {{t+|ms|kamus}}
 * Malayalam: {{t+|ml|നിഘണ്ടു|tr=nighaṇṭu|sc=Mlym}}
@@ -172,7 +172,7 @@
 * Quechua: {{t|qu|simi qullqa}}
 * Romanian: {{t+|ro|dicționar|n}}
 * Romansch: {{t|rm|pledari|m}}, {{t|rm|dicziunari|m}}, {{t|rm|vocabulari|m}}, {{t|rm|glossari|m}}
-* Russian: {{t+|ru|словарь|m|tr=slovárʹ}}
+* Russian: {{t+|ru|слова́рь|m}}
 * Sanskrit: {{t|sa|शब्दकोश|m|tr=śábda-kośa}}, {{t|sa|निघण्टु|m|tr=nighaṇṭu}}, {{t|sa|अभिधान|n|tr=abhi-dhāna}}
 * Sardinian: {{t|sc|dizionariu|m}}
 * Scots: {{t|sco|dictionar}}
@@ -192,24 +192,24 @@
 * Swahili: {{t+|sw|kamusi|c5}}
 * Swedish: {{t+|sv|ordbok|c}}, {{t+|sv|lexikon|n}}
 * Tagalog: {{t+|tl|diksyunaryo}}, {{t+|tl|talahuluganan}}, {{t+|tl|talasalitaan}}, {{t+|tl|talatinigan}}
-* Tajik: {{t+|tg|луғат|tr=luġat|sc=Cyrl}}, {{t+|tg|фарҳанг|tr=farhang|sc=Cyrl}}, {{t|tg|қомус|tr=qomus|sc=Cyrl}}
+* Tajik: {{t+|tg|луғат|sc=Cyrl}}, {{t+|tg|фарҳанг|sc=Cyrl}}, {{t|tg|қомус|sc=Cyrl}}
 * Tamil: {{t+|ta|அகரமுதலி|tr=akaramutali}}
 * Tatar: {{t+|tt|сүзлек|tr=süzlek|sc=Cyrl}}
-* Telugu: {{t+|te|నిఘంటువు|tr=nighamtuvu}}, {{t+|te|పదకోశము|tr=padakōśamu}}
+* Telugu: {{t+|te|నిఘంటువు}}, {{t+|te|పదకోశము}}
 * Thai: {{t+|th|พจนานุกรม|tr=pótjànaanúgrom}}
 * Tibetan: {{t|bo|ཚིག་མཛོད|tr=tshig mdzod}}
 * Tok Pisin: {{t+|tpi|dikseneri}}
 * Turkish: {{t+|tr|sözlük}}, {{t+|tr|lügat}} {{qualifier|obsolete}}
 * Turkmen: {{t|tk|sözlük}}
 * {{trreq|tyv}}
-* Ukrainian: {{t+|uk|словник|m|tr=slovnýk}}
+* Ukrainian: {{t+|uk|сло́вник|m}}
 * Upper Sorbian: {{t|hsb|słownik|m}}
 * Urdu: {{t+|ur|لغت|f|tr=luġat}}, {{t|ur|ڈکشنری|tr=ḍikśanrī}}, {{t|ur|فرہنگ|tr=farhang}}, {{t|ur|شبدکوش|m|tr=śabdkoś|sc=ur-Arab}}
-* Uyghur: {{t+|ug|لۇغەت|tr=lughet|sc=ug-Arab}}
+* Uyghur: {{t+|ug|لۇغەت|sc=ug-Arab}}
 * Uzbek: {{t+|uz|lugʻat}}
 *: Cyrillic: {{t+|uz|луғат|sc=Cyrl}}
 * Venda: {{t|ve|ṱhalusamaipfi}}
-* Vietnamese: {{t+|vi|từ điển}}, {{t+|vi|tự điển}} ({{t+|vi|字典|sc=Hani}}) {{qualifier|outdated; now refers specifically to ideographic dictionaries}}
+* Vietnamese: {{t+|vi|từ điển}}, {{t+|vi|tự điển}} ({{t+|vi|字典|sc=Hani}})  {{qualifier|dated, character dictionary}}
 * Volapük: {{t+|vo|vödabuk}}, {{t|vo|vödasbuk}} {{qualifier|older term, compare {{l/de|Wörterbuch}}}}
 * Võro: {{t|vro|sõnaraamat}}
 * Walloon: {{t+|wa|motî}}
