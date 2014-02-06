@@ -138,7 +138,7 @@ From {{etyl|enm|en}} {{term|yeer|lang=enm}}, {{term|yere|lang=enm}}, from {{etyl
 * Haitian Creole: {{t|ht|lane}}
 * Hawaiian: {{t|haw|makahiki}}
 * Hebrew: {{t+|he|שנה|f|tr=shana}}
-* Hindi: {{t+|hi|साल|m|tr=sāl}}, {{t+|hi|वर्ष|m|tr=varṣ|sc=Deva}}, {{t|hi|सन|m|tr=san|alt=सन् ...|sc=Deva}} {{qualifier|in dates, e.g. [[1992]]}}
+* Hindi: {{t+|hi|साल|m|tr=sāl}}, {{t+|hi|वर्ष|m|tr=varṣ}}, {{t|hi|सन|m|tr=san}} {{qualifier|in dates}}
 * Hungarian: {{t+|hu|év}}
 * Icelandic: {{t+|is|ár}}
 * Ido: {{t+|io|yaro}}
@@ -159,8 +159,8 @@ From {{etyl|enm|en}} {{term|yeer|lang=enm}}, {{term|yere|lang=enm}}, from {{etyl
 * Kuna: {{t|cuk|birga}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|sal|f}}
-*: Sorani: {{t|ku|ساڵ|tr=sAL|sc=ku-Arab}}
-* Ladino: {{t|lad|anyada|f}}
+*: Sorani: {{t|ckb|ساڵ|tr=sał}}
+* Ladino: {{t|lad|anyada|f|sc=Latn}}
 * Lao: {{t+|lo|ປີ|tr=pii|sc=Laoo}}
 * Latgalian: {{t|ltg|gods|m}}
 * Latin: {{t+|la|annus|m}}
@@ -243,7 +243,7 @@ From {{etyl|enm|en}} {{term|yeer|lang=enm}}, {{term|yere|lang=enm}}, from {{etyl
 * Ugaritic: {{t|uga|𐎌𐎐𐎚|tr=šnt|sc=Ugar}}
 * Ukrainian: {{t+|uk|рік|m|tr=rik}}
 * Upper Sorbian: {{t+|hsb|lěto|n}}
-* Urdu: {{t|ur|سال|m|tr=sāl}}, {{t|ur|ورش|tr=varṣ|sc=ur-Arab}}
+* Urdu: {{t|ur|سال|m|tr=sāl}}, {{t|ur|ورش|tr=varṣ}}
 * Uzbek: {{t+|uz|yil}}
 * Venetian: {{t|vec|an}}
 * Vietnamese: {{t+|vi|năm}}
@@ -272,7 +272,7 @@ From {{etyl|enm|en}} {{term|yeer|lang=enm}}, {{term|yere|lang=enm}}, from {{etyl
 * Italian: {{t+|it|anno|m}}
 {{trans-mid}}
 * Kurdish:
-*: Sorani: {{t|ku|ساڵ|tr=sAL|sc=ku-Arab}}
+*: Sorani: {{t|ckb|ساڵ|tr=sał}}
 * Ladino: {{t|lad|anyada|f|sc=Latn}}
 * Macedonian: {{t|mk|година|f}}
 * Malay: {{t+|ms|tahun}}
@@ -299,9 +299,9 @@ From {{etyl|enm|en}} {{term|yeer|lang=enm}}, {{term|yere|lang=enm}}, from {{etyl
 * Hungarian: {{t+|hu|év}}
 * Italian: {{t+|it|anno|m}}
 * Kurdish:
-*: Sorani: {{t|ku|ساڵ|tr=sAL|sc=ku-Arab}}
+*: Sorani: {{t|ckb|ساڵ|tr=sał}}
 {{trans-mid}}
-* Ladino: {{t|lad|anyada|f|sc=Hebr}}
+* Ladino: {{t|lad|anyada|f|sc=Latn}}
 * Macedonian: {{t|mk|година|f}}
 * Malay: {{t+|ms|tahun}}
 * Maltese: {{t+|mt|sena}}
@@ -322,7 +322,7 @@ From {{etyl|enm|en}} {{term|yeer|lang=enm}}, {{term|yere|lang=enm}}, from {{etyl
 * Greek: {{t+|el|χρόνος|m}}, {{t+|el|έτος|n}}
 * Italian: {{t+|it|anno|m}}
 * Kurdish:
-*: Sorani: {{t|ku|ساڵ|tr=sAL|sc=ku-Arab}}
+*: Sorani: {{t|ckb|ساڵ|tr=sał}}
 {{trans-mid}}
 * Malay: {{t+|ms|tahun}}
 * Portuguese: {{t+|pt|ano|m}}
@@ -339,8 +339,8 @@ From {{etyl|enm|en}} {{term|yeer|lang=enm}}, {{term|yere|lang=enm}}, from {{etyl
 * Finnish: {{t+|fi|vuosi}}
 * Italian: {{t+|it|anno|m}}
 * Kurdish:
-*: Sorani: {{t|ku|ساڵ|tr=sAL|sc=ku-Arab}}
-* Ladino: {{t|lad|anyada|f|sc=Hebr}}
+*: Sorani: {{t|ckb|ساڵ|tr=sał}}
+* Ladino: {{t|lad|anyada|f|sc=Latn}}
 {{trans-mid}}
 * Macedonian: {{t|mk|година|f}}
 * Malay: {{t+|ms|tahun}}
@@ -364,15 +364,17 @@ From {{etyl|enm|en}} {{term|yeer|lang=enm}}, {{term|yere|lang=enm}}, from {{etyl
 * Japanese: {{t+|ja|学年|tr=がくねん, gakunen|sc=Jpan}}
 * Jèrriais: {{t|roa-jer|année|f}}
 * Korean: {{t+|ko|학년|tr=hangnyeon|sc=Kore}} ({{t+|ko|學年|sc=Kore}})
-{{trans-mid}}
 * Kurdish:
-*: Sorani: {{t|ku|ساڵ|tr=sAL|sc=ku-Arab}}, {{t+|ku|پۆل|tr=pol|sc=ku-Arab}}
+*: Sorani: {{t|ckb|ساڵ|tr=sał}}, {{t|ckb|پۆل|tr=pol}}
+{{trans-mid}}
 * Macedonian: {{t|mk|година|f}}, {{t|mk|одделение|n}} ''(only primary educ.)''
 * Malay: {{t+|ms|tahun}}
 * Maltese: {{t+|mt|sena}}
 * Portuguese: {{t+|pt|série|f}}
 * Russian: {{t+|ru|класс|m|tr=klass}} ''at school'', {{t+|ru|курс|m|tr=kurs}} ''at college or university''
-* Serbo-Croatian: {{t|sh|razred|m}}, {{t|sh|godina|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|разред|m}}, {{t|sh|година|f}}
+*: Roman: {{t|sh|razred|m}}, {{t|sh|godina|f}}
 * Spanish: {{t+|es|año|m}}, {{t+|es|grado|m}}
 * Thai: {{t+|th|ปี|tr=bpee}}
 * Ukrainian: {{t|uk|клас|m}} ''at school'', {{t|uk|курс|m}} ''at college or university''
