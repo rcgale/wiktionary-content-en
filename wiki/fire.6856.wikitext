@@ -192,7 +192,7 @@ From {{etyl|enm|en}} {{term|fier|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Borôro: {{t|bor|joru}}
 * Breton: {{t+|br|tan|m}}
 * Bulgarian: {{t+|bg|огън|m|tr=ógǎn|sc=Cyrl}}
-* Burmese: {{t+|my|မီး|tr=mi:}}, {{t+|my|တေဇော|tr=tezaw:|sc=Mymr}}
+* Burmese: {{t+|my|မီး|tr=mi:}}, {{t+|my|တေဇော|tr=tejau:|sc=Mymr}}
 * Catalan: {{t+|ca|foc|m}}
 * Catawba: {{t|chc|impi}}
 * Cebuano: {{t|ceb|kalayo}}
@@ -210,9 +210,7 @@ From {{etyl|enm|en}} {{term|fier|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Chuvash: {{t|cv|вут|tr=vut|sc=Cyrl}}
 * Classical Nahuatl: {{t|nci|tletl}}
 * Comanche: {{t|com|kuuna}}
-* Coptic:
-*: Bohairic: {{t|cop|ⲭⲣⲱⲙ|m|tr=ʔxrōm|sc=Copt}}, {{t|cop|ⲥⲁϯ|f|tr=sati|sc=Copt}}
-*: Sahidic: {{t|cop|ⲕⲣⲱⲙ|m|tr=ʔkrōm|sc=Copt}}, {{t|cop|ⲥⲁⲧⲉ|f|tr=sate|sc=Copt}}
+* Coptic: {{i|Bohairic}} {{t|cop|ⲭⲣⲱⲙ|m|tr=ʔxrōm|sc=Copt}}, {{t|cop|ⲥⲁϯ|f|tr=sati|sc=Copt}}; {{i|Sahidic}} {{t|cop|ⲕⲣⲱⲙ|m|tr=ʔkrōm|sc=Copt}}, {{t|cop|ⲥⲁⲧⲉ|f|tr=sate|sc=Copt}}
 * Cornish: {{t|kw|tan|m}}
 * Corsican: {{t+|co|focu}}
 * Cree: {{t|cr|ᐃᔥᑯᑌᐤ|tr=ishkuteu|sc=Cans}}
@@ -257,7 +255,7 @@ From {{etyl|enm|en}} {{term|fier|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Irish: {{t|ga|tine|m}}
 *: Old Irish: {{t|sga|teine|m}}
 * Italian: {{t+|it|fuoco|m}}
-* Japanese: {{t+|ja|火|tr=ひ, hi|sc=Jpan}}, {{t|ja|燃焼|tr=ねんしょう, nenshō|sc=Jpan}}, ファイヤ (''[[faiya]]'')
+* Japanese: {{t+|ja|火|tr=ひ, hi|sc=Jpan}}, {{t|ja|燃焼|tr=ねんしょう, nenshō|sc=Jpan}}, {{t|ja|ファイヤ|tr=''[[faiya]]''|sc=Jpan}}
 * Javanese: {{t|jv|geni}}
 *: Old Javanese: {{t|kaw|apuy}}
 * Kannada: {{t+|kn|ಬೆಂಕಿ|tr=benki|sc=Knda}}, {{t+|kn|ಅಗ್ನಿ|tr=agni|sc=Knda}}, {{t+|kn|ಕಿಚ್ಚು|tr=kiccu|sc=Knda}}
@@ -304,7 +302,6 @@ From {{etyl|enm|en}} {{term|fier|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Marathi: {{t|mr|अग्नि|tr=agni|sc=Deva}}
 * Mazanderani: {{t|mzn|تش|tr=taš|sc=ps-Arab}}
 * Mentawai: {{t|mwv|api}}
-* Middle Persian: {{t|pal|𐭭𐭥𐭥𐭠|tr=ādur}}
 * Miskito: {{t|miq|pata}}
 * Mohegan-Pequot: {{t|xpq|yoht}}
 * Moksha: {{t|mdf|тол}}
@@ -336,6 +333,7 @@ From {{etyl|enm|en}} {{term|fier|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Paumarí: {{t|pad|siho}}
 * Pennsylvania German: {{t|pdc|Feier}}
 * Persian: {{t+|fa|آتش|tr=âtaš|sc=fa-Arab}}, {{t+|fa|آذر|tr=âzar|sc=fa-Arab}}, {{t+|fa|تش|tr=taš|sc=fa-Arab}} {{qualifier|dialectal}}
+*: Middle Persian: {{t|pal|𐭭𐭥𐭥𐭠|tr=ādur}}
 *: Old Persian: {{t|peo|ātar|sc=Xpeo}}
 * Phoenician: {{t|phn|𐤀𐤎|tr=ʾs|sc=Phnx}}
 * Pipil: {{t|ppl|tit}}
@@ -369,6 +367,8 @@ From {{etyl|enm|en}} {{term|fier|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Skolt Sami: {{t|sms|toll}}
 * Slovak: {{t|sk|oheň|m}}
 * Slovene: {{t+|sl|ogenj|m-?}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|wogeń|m}}
 * Sotho: {{t|st|mollo}}
 * Southern Altai: {{t|alt|от|tr=ot|sc=Cyrl}}
 * Southern Sami: {{t|sma|dålle}}
@@ -381,8 +381,7 @@ From {{etyl|enm|en}} {{term|fier|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Tagalog: {{t+|tl|apoy}}
 * Tahitian: {{t|ty|auahi}}
 * Tajik: {{t|tg|оташ|tr=otaš|sc=Cyrl}}
-* Talysh:
-*: Asalemi: {{t|tly|آرا|tr=ârâ|sc=fa-Arab}}
+* Talysh: {{i|Asalemi}} {{t|tly|آرا|tr=ârâ|sc=fa-Arab}}
 * Tamil: {{t+|ta|நெருப்பு|tr=neruppu|sc=Taml}}
 * Taos: {{t|twf|phà’áne}}
 * Tatar: {{t+|tt|ут|tr=ut|sc=Cyrl}}, {{t+|tt|ялкын|tr=yalqın|sc=Cyrl}}
@@ -465,8 +464,7 @@ From {{etyl|enm|en}} {{term|fier|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|f
 * Slovene: {{t+|sl|ogenj|m-?}}
 * Spanish: {{t+|es|fuego|m}}, {{t+|es|estufa|f}}
 * Swedish: {{t+|sv|eld|c}}, {{t+|sv|brasa|c}}, {{t+|sv|bål|n}}
-* Talysh:
-*: Asalemi: {{t|tly|آرا|tr=ârâ|sc=fa-Arab}}
+* Talysh: {{i|Asalemi}} {{t|tly|آرا|tr=ârâ|sc=fa-Arab}}
 * Telugu: {{t+|te|నిప్పు|tr=nippu|sc=Telu}}
 * Tok Pisin: {{t+|tpi|paia}}
 * Vietnamese: {{t+|vi|lửa}}
