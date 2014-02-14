@@ -51,11 +51,11 @@ From {{etyl|enm|en}} {{term|he|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|hē
 * Belarusian: {{t+|be|ён|tr=jon}}
 * Bengali: {{qualifier|familiar, both male and female}} {{t|bn|সে|tr=śe|sc=Beng}}, {{qualifier|formal, you, he, she}} {{t|bn|আপনি|tr=āpni|sc=Beng}}
 * Bulgarian: {{t|bg|той|tr=toj}}
-* Burmese: {{t+|my|သူ|tr=thu|sc=Mymr}} {{qualifier|colloquially also feminine}}
+* Burmese: {{t+|my|သူ|tr=su|sc=Mymr}} {{qualifier|colloquially also feminine}}
 * Catalan: {{t+|ca|ell}}
 * Cherokee: {{t|chr|ᏀᎢ|tr=nahi|sc=Cher}}
-* Chuvash: {{qualifier|both male and female}} {{t|cv|вӑл|tr=vӑl|sc=Cyrl}}
-* Cree: {{qualifier|both male and female}} {{t|cr|wiya|sc=Cans}}
+* Chuvash: {{qualifier|both male and female}} {{t|cv|вӑл|sc=Cyrl}}
+* Cree: {{qualifier|both male and female}} {{t|cr|wiya|sc=Latn}}
 * Czech: {{t+|cs|on}} (1)
 * Dalmatian: {{t|dlm|jal}}
 * Danish: {{t+|da|han}}
@@ -70,12 +70,12 @@ From {{etyl|enm|en}} {{term|he|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|hē
 * Finnish: {{t+|fi|hän}} {{qualifier|both male and female}}
 * French: {{t+|fr|il}} (1,2)
 *: Old French: {{t|fro|il}}
-* Friulian: {{l|fur|lui}}
+* Friulian: {{t|fur|lui}}
 * Galician: {{t+|gl|el|m}}
 * Georgian: {{t+|ka|ის|tr=is|sc=Geor}} {{qualifier|both male and female}}
 * German: {{t+|de|er}}
 * Greek: {{t+|el|αυτός|m}}
-*: Ancient Greek: {{l|grc|αὐτός}} {{g|m}}
+*: Ancient Greek: {{t|grc|αὐτός|m|sc=polytonic}}
 * Greenlandic: {{t|kl|una}}
 * Guaraní: {{qualifier|both male and female}} {{t|gn|ahẽ}}
 * Hausa: {{qualifier|independent form}} {{t|ha|shíi}}
@@ -106,7 +106,6 @@ From {{etyl|enm|en}} {{term|he|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|hē
 * Latin: {{t+|la|is}}, {{t+|la|ille}}, {{t+|la|hic}}
 * Latvian: {{t+|lv|viņš}}
 * Lithuanian: {{t+|lt|jis}}
-* Lower Sorbian: {{t|dsb|wón}}
 {{trans-mid}}
 * Macedonian: {{t+|mk|тој|m|tr=toj}}
 * Malay: {{qualifier|both male and female}} {{t|ms|dia}}, {{qualifier|for kings'queens and Muslim prophets}} {{t|ms|baginda}}, {{t|ms|beliau}}
@@ -126,7 +125,7 @@ From {{etyl|enm|en}} {{term|he|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|hē
 * Northern Sami: {{t|se|son}} {{qualifier|both male and female}}
 * Norwegian: {{t+|no|han}}
 * Novial: {{t|nov|lo}}
-* Occitan: {{l|oc|el}}
+* Occitan: {{t|oc|el}}
 * Ojibwe: {{t|oj|wiin}} {{qualifier|both male and female}}
 * Old Church Slavonic: {{t|cu|онъ|m|tr=onŭ|sc=Cyrs}}
 * Old English: {{t|ang|hē}}, {{t+|ang|sē}}
@@ -136,17 +135,20 @@ From {{etyl|enm|en}} {{term|he|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|hē
 * Portuguese: {{t+|pt|ele}}
 * Quechua: {{t+|qu|pay}} {{qualifier|both male and female}}
 * Rapa Nui: {{t|rap|ia}}
-*: {{ttbc|* Roman}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|sh|ȏn}}
 * Romanian: {{t+|ro|dumnealui}} {{qualifier|formal}}, {{t+|ro|el}} {{qualifier|informal}}
 * Romansch: {{t|rm|el}}
 * Russian: {{t+|ru|он|tr=on}}
-* {{ttbc|gd}}: {{t|gd|e}} ''nonemphatic'', {{t|gd|esan}} ''emphatic''
+* Scottish Gaelic: {{t|gd|e}} {{i|nonemphatic}}, {{t|gd|esan}} {{i|emphatic}}
 * Serbo-Croatian:
-*: {{ttbc|* Cyrillic}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|sh|о̑н|sc=Cyrl}}
+*: Cyrillic: {{t|sh|о̑н|sc=Cyrl}}
+*: Roman: {{t|sh|ȏn}}
 * Sicilian: {{t+|scn|iddu}}
 * Sinhalese: {{t|si|එයා|tr=eyā|sc=Sinh}} {{qualifier|informal}}, {{t|si|ඔහු|tr=ohu|sc=Sinh}} {{qualifier|formal}}
 * Slovak: {{t|sk|on}}
 * Slovene: {{t|sl|òn}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|wón}}
+*: Upper Sorbian: {{t|hsb|wón}}
 * Spanish: {{t+|es|él}}
 * Swahili: {{qualifier|both male and female}} {{t|sw|yeye}}
 * Swedish: {{t+|sv|han|c}}
@@ -155,7 +157,7 @@ From {{etyl|enm|en}} {{term|he|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|hē
 * Talysh: {{t|tly|اه|tr=a|sc=fa-Arab}}, {{t|tly|ا|tr=a|sc=fa-Arab}}
 * Taos: {{t|twf|ą́wąną}}
 * Tatar: {{t+|tt|ул|tr=ul|sc=Cyrl}} {{qualifier|both male and female}}
-* Telugu: {{t+|te|అతడు}} (ataDu), {{t+|te|అతను|tr=atanu|sc=Telu}}
+* Telugu: {{t+|te|అతడు|tr=ataDu}}, {{t+|te|అతను|tr=atanu|sc=Telu}}
 * Thai: {{t+|th|เขา|tr=kăo}} {{qualifier|both male and female}}
 * Tlingit: {{t|tli|hú}}
 * Tok Pisin: {{t|tpi|em}}
@@ -164,7 +166,6 @@ From {{etyl|enm|en}} {{term|he|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|hē
 * Turkmen: {{t|tk|ol}} {{qualifier|both male and female}}
 * Udmurt: {{t|udm|со|tr=so}}
 * Ukrainian: {{t+|uk|він|tr=vin}}
-* Upper Sorbian: {{t|hsb|wón}}
 * Urdu: {{t|ur|وہ|tr=vah|sc=ur-Arab}}, {{t|ur|يہ|tr=yah|sc=ur-Arab}}
 * Uyghur: {{qualifier|both male and female}} {{t+|ug|ئۇ|tr=u|sc=ug-Arab}}
 * Uzbek: {{t+|uz|u}} {{qualifier|both male and female}}
