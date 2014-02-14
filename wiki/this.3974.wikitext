@@ -38,7 +38,7 @@
 * Afrikaans: {{t+|af|dit}}
 * Albanian: {{t|sq|ky|m}}, {{t|sq|kjo|f}}
 * Apache:
-*: [[Western Apache]]: {{t|apw|dii}}
+*: Western Apache: {{t|apw|dii}}
 * Arabic: {{t|ar|هذا|tr=hāḏā|m}}, {{t|ar|هذه|tr=hāḏihi|f}}, {{t|ar|هذان|tr=hāḏāni}} ''m dual'', {{t|ar|هتان|tr=hātāni}} ''f dual'', {{t|ar|هأولاء|tr=hāʾulāʾi|p}}
 *: Egyptian Arabic: {{t|arz|ده|m|tr=da|sc=Arab}}, {{t|arz|دي|f|tr=di|sc=Arab}}, {{t|arz|دول|p|tr=dool|sc=Arab}}
 *: Tunisian Arabic: {{t|aeb|هذا|m|alt=هَذَا|tr=haḏā|sc=Arab}}, {{t|aeb|هذا|f|alt=هَذِهْ|tr=haḏi|sc=Arab}}
@@ -50,9 +50,9 @@
 * Asturian: {{t+|ast|esti|m}}, {{t+|ast|esta|f}}
 * Azeri: {{t+|az|bu}}
 * Belarusian: {{t+|be|гэты|m|tr=héty|sc=Cyrl}}, {{t|be|гэтая|f|tr=hétaja|sc=Cyrl}}, {{t+|be|гэта|n|tr=héta|sc=Cyrl}}, {{t|be|гэтыя|p|tr=hétyja|sc=Cyrl}}
-* Bengali: {{qualifier|adjective}} {{t|bn|এই|tr=ei|sc=Beng}}; {{qualifier|pronoun}} {{qualifier|informal}} {{t|bn|এইটা|tr=eiţa|sc=Beng}}, {{t|bn|এটা|tr=eţa|sc=Beng}}; {{qualifier|formal}} {{t|bn|এইটি|tr=eiţi|sc=Beng}}, {{t|bn|এটি|tr=eţi|sc=Beng}}
+* Bengali: {{qualifier|adjective}} {{t|bn|এই|tr=ei|sc=Beng}}, {{qualifier|pronoun}} {{qualifier|informal}} {{t|bn|এইটা|tr=eiţa|sc=Beng}}, {{t|bn|এটা|tr=eţa|sc=Beng}}, {{qualifier|formal}} {{t|bn|এইটি|tr=eiţi|sc=Beng}}, {{t|bn|এটি|tr=eţi|sc=Beng}}
 * Bulgarian: {{t|bg|този|tr=tózi|sc=Cyrl}}, {{t|bg|тази|f|tr=tázi|sc=Cyrl}}, {{t|bg|това|n|tr=tová|sc=Cyrl}}, {{t+|bg|тези|p|tr=tézi|sc=Cyrl}}
-* Burmese: {{t+|my|ဟောဒီ|tr=ho: di|sc=Mymr}}, {{t+|my|အနှီ|tr=a̱hni|sc=Mymr}}
+* Burmese: {{t+|my|ဟောဒီ|tr=hau:di|sc=Mymr}}, {{t+|my|အနှီ|tr=a.hni|sc=Mymr}}
 * Catalan: {{t+|ca|aquest}}, {{t|ca|est}}, {{t|ca|este}}
 * Chamicuro: {{t|ccc|ana'ye}}
 * Chechen: {{t|ce|xӏара}}
@@ -92,19 +92,19 @@
 *: Sorani: {{t+|ku|ئه‌م|tr=em|sc=ku-Arab}}, {{t+|ku|ئه‌مه‌|tr=eme|sc=ku-Arab}}
 {{trans-mid}}
 * Kyrgyz: {{t+|ky|бул|tr=bul|sc=Cyrl}}
-* Lakota: [[le]] {{g|s}}, {{t|lkt|lena|p}}
+* Lakota: {{t|lkt|le|s}}, {{t|lkt|lena|p}}
 * Lao: {{t|lo|ນີ້|tr=nii}}
 * Latgalian: {{t|ltg|itys|m}}, {{t|ltg|itei|f}}
 * Latin: {{t+|la|hic|m}}, {{t|la|haec|f}}, {{t|la|hoc|n}}, {{t+|la|is|m}}, {{t|la|ea}}, {{t|la|id|n}}
-* Latvian: {{t+|lv|šis|m}}, {{t+|lv|šī|f}}, {{t+|lv|šie|m-p}}, {{t+|lv|šīs}} / {{t|lv|šās|f-p}}
+* Latvian: {{t+|lv|šis|m}}, {{t+|lv|šī|f}}, {{t+|lv|šie|m-p}}, {{t+|lv|šīs}}, {{t|lv|šās|f-p}}
 * Lingua Franca Nova: {{t|lfn|esta}}
 * Lithuanian: {{t|lt|šis|m}}, {{t|lt|ši|f}}, {{t|lt|šitas|m}}, {{t|lt|šita|f}}
-* Lojban: {{l|jbo|le}} {{l|jbo|vi}}
+* {{ttbc|jbo}}: {{t|jbo|[[le]] [[vi]]}} <!-- was "[[le]] [[vi]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Luxembourgish: {{t|lb|dës}}
 * Macedonian: {{t|mk|овој|m|tr=óvoj}}, {{t|mk|оваа|f|tr=óvaa}}, {{t|mk|ова|n|tr=óva}}
 * Malay:
-*: Rumi: {{t+|ms|ini}} / {{l|ms|ni}}
-*: Jawi: {{t|ms|اين|sc=Arab}} / {{l|ms|ني|sc=Arab}}
+*: Rumi: {{t+|ms|ini}}, {{t|ms|ni}}
+*: Jawi: {{t|ms|اين|sc=Arab}}, {{l|ms|ني|sc=Arab}}
 * Mongolian: {{t|mn|энэ|tr=ene|sc=Cyrl}}
 * Nahuatl: {{t+|nah|ye}}
 * Navajo: {{t|nv|díí}}
@@ -133,8 +133,7 @@
 * Swedish: {{t+|sv|den här}}, {{t+|sv|denna}}
 * Tagalog: {{t|tl|ito}}
 * Tajik: {{t|tg|ин|tr=in|sc=Cyrl}}
-* Talysh:
-*: Asalemi: {{t|tly|ام|tr=əm|sc=fa-Arab}}
+* Talysh: {{i|Asalemi}}: {{t|tly|ام|tr=əm|sc=fa-Arab}}
 * Telugu: {{t+|te|ఈ|tr=ī|sc=Telu}}
 * Thai: {{t+|th|นี้|tr=née|sc=Thai}}
 * Turkish: {{t+|tr|bu}}
@@ -146,7 +145,7 @@
 * Walloon: {{t+|wa|ci}}
 * Welsh: {{t|cy|hwn}}, {{t|cy|'ma}}
 * West Frisian: {{t+|fy|dit}}, {{t+|fy|dizze}}
-* !Xóõ: [[ʻVV]], [[tVʻV]], [[tVʻVV]], [[tVVʻVV]]
+* !Xóõ: {{t|nmn|ʻVV}}, {{t|nmn|tVʻV}}, {{t|nmn|tVʻVV}}, {{t|nmn|tVVʻVV}}
 {{trans-bottom}}
 
 {{trans-top|known (thing) just mentioned}}
@@ -163,11 +162,11 @@
 *: Sorani: {{t|ku|ئه‌مه|tr=eme|sc=ku-Arab}}, {{t+|ku|ئه‌م|tr=em|sc=ku-Arab}}
 {{trans-mid}}
 * Lingua Franca Nova: {{t|lfn|esa}}
-* Lojban: {{l|jbo|le}} {{l|jbo|di'u}}, {{l|jbo|le}} {{l|jbo|bi'unai}}, {{t+|jbo|le}}
+* {{ttbc|jbo}}: {{t|jbo|[[le]] [[di'u]]}} <!-- was "[[le]] [[di'u]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|jbo|[[le]] [[bi'unai]]}} <!-- was "[[le]] [[bi'unai]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+|jbo|le}}
 * Macedonian: {{t|mk|овој|m|tr=óvoj}}, {{t|mk|оваа|f|tr=óvaa}}, {{t|mk|ова|n|tr=óva}}
 * Malay:
-*: Rumi: {{t+|ms|ini}} / {{l|ms|ni}}
-*: Jawi: {{t|ms|اين|sc=Arab}} / {{l|ms|ني|sc=Arab}}
+*: Rumi: {{t+|ms|ini}}, {{t|ms|ni}}
+*: Jawi: {{t|ms|اين|sc=Arab}}, {{l|ms|ني|sc=Arab}}
 * Polish: {{t+|pl|ten|m}}, {{t+|pl|ta|f}}, {{t+|pl|to|n}}
 * Portuguese: {{t+|pt|este|m}}, {{t+|pt|esse|m}}
 * Russian: {{t+|ru|этот|m|tr=étot}}
@@ -182,11 +181,11 @@
 * French: {{t+|fr|ce|m}}, {{t+|fr|cette|f}}
 * German: {{t+|de|folgend}}, {{t+|de|dieser|m}}, {{t+|de|diese|f}}, {{t+|de|dieses|n}}, {{t+|de|diese|p}}
 * Greek: {{t+|el|αυτός|m|sc=Grek}}, {{t|el|ο εξής|m|sc=Grek}}
-* Lojban: {{l|jbo|le}} {{l|jbo|di'e}}, {{l|jbo|le}} {{l|jbo|bi'u}}
+* {{ttbc|jbo}}: {{t|jbo|[[le]] [[di'e]]}} <!-- was "[[le]] [[di'e]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|jbo|[[le]] [[bi'u]]}} <!-- was "[[le]] [[bi'u]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Macedonian: {{t|mk|ваков|m|tr=vákov}}, {{t|mk|ваква|f|tr=vákva}}, {{t|mk|вакво|n|tr=vákvo}}
 * Malay:
-*: Rumi: {{t+|ms|ini}} / {{l|ms|ni}}
-*: Jawi: {{t|ms|اين|sc=Arab}} / {{l|ms|ني|sc=Arab}}
+*: Rumi: {{t+|ms|ini}}, {{t|ms|ni}}
+*: Jawi: {{t|ms|اين|sc=Arab}}, {{l|ms|ني|sc=Arab}}
 {{trans-mid}}
 * Polish: {{t+|pl|taki|m}}, {{t+|pl|taka|f}}, {{t|pl|takie|n}}
 * Portuguese: {{t+|pt|este|m}}, {{t+|pt|esse|m}}
@@ -200,10 +199,10 @@
 * French: {{t+|fr|ce|m}}, {{t+|fr|cette|f}}
 * German: {{t|de|so ein}}
 * Greek: {{t+|el|ένας|m|sc=Grek}}
-* Lojban: {{l|jbo|le}} {{l|jbo|bi'u}}
+* {{ttbc|jbo}}: {{t|jbo|[[le]] [[bi'u]]}} <!-- was "[[le]] [[bi'u]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Malay:
-*: Rumi: {{t+|ms|ini}} / {{l|ms|ni}}
-*: Jawi: {{t|ms|اين|sc=Arab}} / {{l|ms|ني|sc=Arab}}
+*: Rumi: {{t+|ms|ini}}, {{t|ms|ni}}
+*: Jawi: {{t|ms|اين|sc=Arab}}, {{l|ms|ني|sc=Arab}}
 {{trans-mid}}
 * Polish: {{t+|pl|ten|m}}, {{t+|pl|ta|f}}, {{t+|pl|to|n}}
 * Portuguese: {{t+|pt|um|m}}
@@ -212,29 +211,28 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|bg}}: [[този]], [[тази]], [[това]], [[тези]] (tózi, tázi, tóva, tézi) ''m/f/n/pl''; [[тоя]], [[тая]], [[туй]], [[тия]] (tója, tája, tuj, tíja) ''m/f/n/pl''
-* {{ttbc|kw}}:
-*: Kernewek Kemmyn: [[an]] ... [[ma]] (''an den ma'', literally ''the man here'')
-* {{ttbc|sh}}: [[ovaj]] {{g|m}}, [[ova]] {{g|f}}, [[ovi]] {{g|m}}, [[ove]] {{g|f-p}}
-* {{ttbc|nl}}: [[deze]] {{g|m}}/{{g|f}}/{{g|p}}, [[dit]] {{g|n}}
-* {{ttbc|eo}}: [[tiu]] [[ĉi]], [[ĉi]] [[tiu]]
-* {{ttbc|hu}}: [[ez a]] {{g|s}}, [[ezek a]] {{g|p}}
-* {{ttbc|kn}}: [[ಈ]] (ii, ee)
-* {{ttbc|ko}}: [[이]] (i), [[이것]] (igeot)
-* {{ttbc|lkt}}: [[le]] {{g|s}}, [[lena]] {{g|p}}
-* {{ttbc|la}}: [[hoc|hic]] {{g|m}}, [[hoc|haec]] {{g|f}}, [[hoc]] {{g|n}}
+* {{ttbc|bg}}: {{t|bg|този|m|sc=Cyrl}}, {{t|bg|тази|f|sc=Cyrl}}, {{t|bg|това|n|sc=Cyrl}}, {{t|bg|тези|p|sc=Cyrl}}, {{t|bg|тоя|m|sc=Cyrl}}, {{t|bg|тая|f|sc=Cyrl}}, {{t|bg|туй|n|sc=Cyrl}}, {{t|bg|тия|p|sc=Cyrl}}
+* {{ttbc|kw}}: {{i|Kernewek Kemmyn}}: {{t|kw|[[an]] ... [[ma]]}} (''an den ma'', literally ''the man here'')
+* {{ttbc|sh}}: {{t|sh|ovaj|m}}, {{t|sh|ova|f}}, {{t|sh|ovi|m}}, {{t|sh|ove|f-p}}
+* {{ttbc|nl}}: {{t|nl|deze|m}}, {{g|f}}, {{g|p}}, {{t|nl|dit|n}}
+* {{ttbc|eo}}: {{t|eo|[[tiu]] [[ĉi]]}} <!-- was "[[tiu]] [[ĉi]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|eo|[[ĉi]] [[tiu]]}} <!-- was "[[ĉi]] [[tiu]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|hu}}: {{t|hu|ez a|s}}, {{t|hu|ezek a|p}}
+* {{ttbc|kn}}: {{t|kn|ಈ|tr=ii, ee|sc=Knda}}
+* {{ttbc|ko}}: {{t|ko|이|tr=i|sc=Kore}}, {{t|ko|이것|tr=igeot|sc=Kore}}
+* {{ttbc|lkt}}: {{t|lkt|le|s}}, {{t|lkt|lena|p}}
+* {{ttbc|la}}: {{t|la|hic|m}}, {{t|la|haec|f}}, {{t|la|hoc|n}}
 {{trans-mid}}
-* {{ttbc|mt}}: [[dan]] {{g|m}}, [[din]] {{g|f}}
-* {{ttbc|no}}: [[denne]] {{g|m}}, [[dette]] {{g|n}}, [[disse]] {{g|p}}
-* {{ttbc|nov}}: [[dise]] ''m, f, n'', [[disu]] {{g|n}}
-* {{ttbc|ang}}: [[þes]] {{g|m}}, [[þeos|þēos]] {{g|f}}, [[þis]] {{g|n}}
-* {{ttbc|pt}}: [[este]] {{g|m}}, [[esta]] {{g|f}}, [[estes]] {{g|p}}, [[estas]] {{g|f-p}}
-* {{ttbc|sk}}: [[tento]] {{g|m}}, [[táto]] {{g|f}}, [[toto]] {{g|n}}
-* {{ttbc|sh}}: [[taj]] {{g|m}}, [[ta]] {{g|f}}, [[ti]] {{g|p}}, [[te]] {{g|f-p}}
-* {{ttbc|es}}: [[este]] {{g|m}}, [[esta]] {{g|f}},  [[estos]] {{g|p}}, [[estas]] {{g|f-p}}
-* {{ttbc|tzm}}: [[ⴰⴷ]] (ad)
-* {{ttbc|te}}: [[ఈ]] (ee)
-* {{ttbc|th}}: [[นี้]] (nēē)
+* {{ttbc|mt}}: {{t|mt|dan|m}}, {{t|mt|din|f}}
+* {{ttbc|no}}: {{t|no|denne|m}}, {{t|no|dette|n}}, {{t|no|disse|p}}
+* {{ttbc|nov}}: {{t|nov|dise}} ''m, {{t|nov|f}}, {{t|nov|n}} '', {{t|nov|disu|n}}
+* {{ttbc|ang}}: {{t|ang|þes|m|sc=Latinx}}, {{t|ang|þēos|f|sc=Latinx}}, {{t|ang|þis|n|sc=Latinx}}
+* {{ttbc|pt}}: {{t|pt|este|m}}, {{t|pt|esta|f}}, {{t|pt|estes|p}}, {{t|pt|estas|f-p}}
+* {{ttbc|sk}}: {{t|sk|tento|m}}, {{t|sk|táto|f}}, {{t|sk|toto|n}}
+* {{ttbc|sh}}: {{t|sh|taj|m}}, {{t|sh|ta|f}}, {{t|sh|ti|p}}, {{t|sh|te|f-p}}
+* {{ttbc|es}}: {{t|es|este|m}}, {{t|es|esta|f}}, {{t|es|estos|p}}, {{t|es|estas|f-p}}
+* {{ttbc|tzm}}: {{t|tzm|ⴰⴷ|tr=ad|sc=Tfng}}
+* {{ttbc|te}}: {{t|te|ఈ|tr=ee|sc=Telu}}
+* {{ttbc|th}}: {{t|th|นี้|tr=nēē|sc=Thai}}
 {{trans-bottom}}
 
 ===Adverb===
