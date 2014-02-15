@@ -167,7 +167,7 @@ From {{etyl|enm|en}} {{term|man|lang=enm|sc=Latn}}, from {{etyl|ang|en}} {{term|
 *: Tashelhit: {{t|shi|afgan|m}}, {{t|shi|bnadm|m}}
 * Bislama: {{t|bi|man}}
 * Bulgarian: {{t+|bg|чове́к|m|tr=čovék|sc=Cyrl}}, {{t+|bg|хо́ра|p|tr=hóra}} {{qualifier|plural}}, {{t|bg|лю́де|p|tr=ljúde|sc=Cyrl}} {{qualifier|plural, archaic}}
-* Burmese: {{t+|my|လူ|tr=lu|sc=Mymr}}, {{t+|my|ပုဂ္ဂိုလ်|tr=pou' gou|sc=Mymr}}
+* Burmese: {{t+|my|လူ|tr=lu|sc=Mymr}}, {{t+|my|ပုဂ္ဂိုလ်|tr=pugguil|sc=Mymr}}
 * Catalan: {{t+|ca|home|m}}
 * Catawba: {{t|chc|ye}}
 * Cherokee: {{t|chr|ᏴᏫ|tr=yvwi|sc=Cher}}
@@ -303,6 +303,7 @@ From {{etyl|enm|en}} {{term|man|lang=enm|sc=Latn}}, from {{etyl|ang|en}} {{term|
 {{trans-top|adult male human}}
 * Aasáx: {{t|aas|hat-uk}}
 * Abkhaz: {{t|ab|ахаҵа|tr=axac̄a|sc=Cyrl}}
+* Acehnese: {{t|ace|agam}}
 * Afrikaans: {{t+|af|man}}
 * Ainu: {{t|ain|オッカヨ|tr='okkayo|sc=Jpan}}
 * Akkadian: {{t|akk|𒀀𒉿𒈝|tr=awīlum|sc=Xsux}}
@@ -321,7 +322,9 @@ From {{etyl|enm|en}} {{term|man|lang=enm|sc=Latn}}, from {{etyl|ang|en}} {{term|
 * Aymara: {{t+|ay|chacha}}
 * Azeri: {{t+|az|adam}}, {{t+|az|kişi}}, {{t+|az|ər}}
 * Bakhtiari: {{t|bqi|پیا|tr=piyâ|sc=fa-Arab}}
+* Balinese: {{t|ban|muani}}, {{t|ban|lanang}}
 * Baluchi: {{t|bal|مرد|tr=mard|sc=fa-Arab}}
+* Banjarese: {{t|bjn|lakian}}
 * Bashkir: {{t|ba|ир|tr=ir|sc=Cyrl}}, {{t|ba|ир кеше|tr=ir keşe|sc=Cyrl}}
 * Basque: {{t+|eu|gizon}}, {{t|eu|gizaseme}}, {{t|eu|gizonki}}
 * Baure: {{t|brg|hir}}
@@ -330,6 +333,7 @@ From {{etyl|enm|en}} {{term|man|lang=enm|sc=Latn}}, from {{etyl|ang|en}} {{term|
 * Berber:
 *: Tashelhit: {{t|shi|argaz|m}}
 * Breton: {{t+|br|gwaz|m}}, {{t+|br|den|m}}
+* Buginese: {{t|bug|burane|sc=Bugi}}
 * Bulgarian: {{t+|bg|мъж|m|tr=mǎž|sc=Cyrl}}
 * Burmese: {{t+|my|ယောက်ျား|tr=yaukkya:|sc=Mymr}}
 * Catalan: {{t+|ca|home|m}}
@@ -343,7 +347,7 @@ From {{etyl|enm|en}} {{term|man|lang=enm|sc=Latn}}, from {{etyl|ang|en}} {{term|
 *: Cantonese: {{yue-yue-j|男人|naam4 jan4}}
 *: Mandarin: {{t+|cmn|男人|tr=nánrén|sc=Hani}}, {{t+|cmn|男的|tr=nánde|sc=Hani}}
 *: Min Nan: {{t+|nan|查埔人|tr=cha-po͘-lâng|sc=Hans}}, {{t+|nan|男人|tr=lâm-jîn|sc=Hans}}
-*: Teochew: [[da1bou1nang5]]
+*: Teochew: {{t|nan|da1bou1nang5|sc=Latn}}
 * Chiricahua: {{t|apm|ndé}}
 * Choctaw: {{t|cho|hatak}}
 * Chuvash: {{t|cv|ар ҫын|tr=ar şın|sc=Cyrl}}
@@ -385,16 +389,8 @@ From {{etyl|enm|en}} {{term|man|lang=enm|sc=Latn}}, from {{etyl|ang|en}} {{term|
 * Inari Sami: {{t|smn|almai}}
 * Indo-Portuguese: {{t|idb|homm}}
 * Indonesian: {{t+|id|pria}}, {{t+|id|laki-laki}}
-*: Acehnese: agam
-*: Balinese: muani/lanang
-*: Banjar: lakian
-*: Buginese: burane
-*: Javanese: lanang/jaler
-*: Kaili: langgai
-*: Mandar: tommuane
-*: Sundanese: pameget/lalaki
 * {{trreq|inh}}
-* Interlingua: {{t|ia|homine}}; {{t|ia|viro}}
+* Interlingua: {{t|ia|homine}}, {{t|ia|viro}}
 * {{trreq|ie}}
 * Inupiak: {{t|ik|angun}}
 * Irish: {{t+|ga|fear|m}}
@@ -403,9 +399,11 @@ From {{etyl|enm|en}} {{term|man|lang=enm|sc=Latn}}, from {{etyl|ang|en}} {{term|
 * Istro-Romanian: {{t|ruo|bărbåt|m}}
 * Italian: {{t+|it|uomo|m}}
 * Japanese: {{t+|ja|男性|tr=[[だんせい]], dansei|sc=Jpan}}, {{t+|ja|男の人|tr=[[おとこのひと]], otoko no hito|sc=Jpan}}, {{t+|ja|男|tr=おとこ, otoko|sc=Jpan}}
+* Javanese: {{t|jv|lanang}}, {{t|jv|jaler}}
 * Jersey Dutch: {{t|gmw-jdt|kääd'l}}
 * Jicarilla: {{t|apj|didé}}
 * Kabyle: {{t|kab|argaz}}
+* {{ttbc|Kaili}}<!-- please use lew for Ledo Kaili, kzf for Da'a Kaili, unz for Unde Kaili, or brs for Baras -->: langgai
 * {{trreq|kn}}
 * Karipúna Creole French: {{t|kmv|uóm}}
 * Kazakh: {{t+|kk|ер|tr=yer|sc=Cyrl}}, {{t|kk|еркек|tr=yerkek|sc=Cyrl}}, {{t|kk|еркек|tr=yerkek|sc=Cyrl}}, {{t+|kk|ер адам|tr=yer adam|sc=Cyrl}}, {{t|kk|ер кісі|tr=yer kisi|sc=Cyrl}}, {{t|kk|жігіт|tr=jigit|sc=Cyrl}}, {{t|kk|кісі|tr=kisi|sc=Cyrl}}
@@ -433,6 +431,7 @@ From {{etyl|enm|en}} {{term|man|lang=enm|sc=Latn}}, from {{etyl|ang|en}} {{term|
 * Malay: {{t+|ms|lelaki}}
 * Malayalam: {{t|ml|പുരുഷന്‍|tr=puruṣan|sc=Mlym}}, {{t+|ml|ആണ്|tr=āṇŭ|sc=Mlym}}
 * Maltese: {{t+|mt|raġel}}
+* Mandar: {{t|mdr|tommuane|sc=Bugi}}
 * Manx: {{t|gv|fer}}
 * Maori: {{t|mi|tāne}}
 * Mapudungun: {{t|arn|wentru}}
@@ -499,10 +498,10 @@ From {{etyl|enm|en}} {{term|man|lang=enm|sc=Latn}}, from {{etyl|ang|en}} {{term|
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|muski|m}}
 * Spanish: {{t+|es|varón|m}}, {{t+|es|hombre|m}}
+* Sundanese: {{t|su|pameget}}, {{t|su|lalaki}}
 * Swedish: {{t+|sv|man}}, {{t+|sv|karl|c}}
 * Tahitian: {{t|ty|tāne}}
-* Talysh:
-*: Asalemi: {{t|tly|مرد|tr=merd|sc=fa-Arab}}
+* Talysh: {{i|Asalemi}} {{t|tly|مرد|tr=merd|sc=fa-Arab}}
 * Tamil: {{t+|ta|ஆண்|tr=āṇ|sc=Taml}}
 * Taos: {{t|twf|sə́onena}}
 * Tatar: {{t+|tt|ир|tr=ir|sc=Cyrl}}, {{t|tt|ир кеше|tr=ir keşe|sc=Cyrl}}
@@ -566,12 +565,12 @@ From {{etyl|enm|en}} {{term|man|lang=enm|sc=Latn}}, from {{etyl|ang|en}} {{term|
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|io}}: [[viro]], [[homo]]
+* {{ttbc|io}}: {{t|io|viro}}, {{t|io|homo}}
 {{trans-mid}}
-* {{ttbc|csm}}: [[naŋˑa-]]
-* {{ttbc|nov}}: [[homo]]
-* {{ttbc|oc}}: [[òme]]
-* {{ttbc|pjt}}: [[wati]]
+* {{ttbc|csm}}: {{t|csm|naŋˑa-}}
+* {{ttbc|nov}}: {{t|nov|homo}}
+* {{ttbc|oc}}: {{t|oc|òme}}
+* {{ttbc|pjt}}: {{t|pjt|wati|sc=pjt-Latn}}
 {{trans-bottom}}
 
 ====Interjection====
