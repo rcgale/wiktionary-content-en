@@ -119,8 +119,8 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|eall||all, every, entire, whol
 *: Egyptian: {{t|arz|كل|tr=kull}}
 * {{trreq|an}}
 * Aramaic:
-*: Syriac: [[ܟܠ]] (kul)
-*: Hebrew: [[כל]] (kul)
+*: Syriac: {{t|arc|ܟܠ|tr=kul|sc=Syrc}}
+*: Hebrew: {{t|arc|כל|tr=kul|sc=Hebr}}
 * Armenian: {{t+|hy|բոլոր|tr=bolor}}, {{t|hy|սաղ|tr=saġ}} {{qualifier|colloquial, dialectal}}
 * Aromanian: {{t|rup|tut}}
 * Asturian: {{t+|ast|tou}}
@@ -128,13 +128,13 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|eall||all, every, entire, whol
 * Basque: {{t+|eu|oro}}
 * Belarusian: {{t|be|усе|tr=usie|sc=Cyrl}}
 * {{trreq|br}}
-* Burmese: {{t+|my|အားလုံး|tr=a:loun:|sc=Mymr}}
+* Burmese: {{t+|my|အားလုံး|tr=a:lum:|sc=Mymr}}
 * Catalan: {{t+|ca|tot|m}}, {{t|ca|tota|f}}, {{t|ca|tots|p}}, {{t|ca|totes|f-p}}
 * Chamicuro: {{t|ccc|tilishka}}
 * Cherokee: {{t|chr|ᏂᎦᏛ|tr=nigadv|sc=Cher}}
 * Chinese:
 *: Mandarin: {{t+|cmn|都|tr=...dōu|alt=...都|sc=Hani}}, {{t+|cmn|所有|tr=suǒyǒu|sc=Hani}}
-*: Min Nan: [[所有]] ([[só·-ū]])
+*: Min Nan: {{t|nan|所有|tr=[[só·-ū]]|sc=Hani}}
 * Crimean Tatar: {{t|crh|episi}}
 * Czech: {{t|cs|všichni}}
 * Dalmatian: {{t|dlm|tot}}
@@ -147,9 +147,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|eall||all, every, entire, whol
 * {{trreq|et}}
 * Ewe: {{t|ee|blibo}}
 * Finnish: {{t+|fi|kaikki}}
-* French:
-*: {{qualifier|before a countable noun}} [[tous]] les {{g|p}}, [[toutes]] les {{g|f-p}}
-*: {{qualifier|before an uncountable noun}} [[tout]] le {{g|m}}, [[toute]] la {{g|f}}
+* French: {{qualifier|before a countable noun}} {{t|fr|tous|alt=tous les|m-p}}, {{t|fr|toutes|alt=toutes les|f-p}}; {{qualifier|before an uncountable noun}} {{t|fr|tout|alt=tout le|m}}, {{t|fr|toute|alt=toute la|f}}
 * Friulian: {{t|fur|dut}}
 * German: {{t+|de|all}}, {{t+|de|alle}}, {{t+|de|jeder|m}}, {{t+|de|jede|f}}, {{t+|de|jedes|n}}, {{t+|de|jede|p}}
 * Greek: {{t+|el|όλοι|m-p|tr=óli}}, {{t+|el|όλες|f-p|tr=óles}}, {{t+|el|όλα|n-p|tr=óla}}
@@ -178,7 +176,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|eall||all, every, entire, whol
 * Navajo: {{t|nv|tʼáá ałtso}}, {{t|nv|tʼáá átʼé}}
 * Ngazidja Comorian: {{t|zdj|pia}}
 * Norwegian: {{t+|no|alle}}
-* Novial: {{t|nov|omnes}}, {{t|nov|omnus|n}}, [[omni]] (''adj'')
+* Novial: {{t|nov|omnes}}, {{t|nov|omnus|n}}, {{qualifier|adj}} {{t|nov|omni}}
 * Occitan: {{t+|oc|tot}}
 * Old Norse: {{t|non|allr}}
 * Oriya: {{t+|or|ସବୁ|tr=sabu|sc=Orya}}
@@ -219,17 +217,17 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|eall||all, every, entire, whol
 *: Mandarin: {{t+|cmn|全|tr=quán|sc=Hani}}
 * Czech: {{t+|cs|celý}}
 * Danish: {{t|da|hele}}
-* Dutch: {{t+|nl|heel}}, {{t+|nl|hele}} {{qualifier|adjective}}, [[gans]] de ''+period of time'', de [[ganse]]  ''+period of time'' {{qualifier|adjective}}
+* {{ttbc|nl}}: {{t+|nl|heel}}, {{t+|nl|hele}} {{qualifier|adjective}}, {{t|nl|gans|alt=gans de}} ''+period of time'' <!-- was "[[gans]] de" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{qualifier|adjective}} {{t|nl|ganse|alt=de ganse}} ''+period of time'' <!-- was "de [[ganse]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Esperanto: {{t+|eo|ĉiu}}
 * Ewe: {{t|ee|blibo}}
 * Finnish: {{t+|fi|koko}}
-* French: [[tout]] le {{g|m}}, [[toute]] la {{g|f}}
-* German: den [[ganz]]en {{g|m}}, die/das [[ganz]]e {{g|f}}/{{g|n}}
-* Greek: {{t+|el|όλο|m}}/{{g|n}} (ólo), {{t+|el|όλη|f}} (óli)
+* French: {{t|fr|tout|m|alt=tout le}}, {{t|fr|toute|f|alt=toute la}}
+* German: {{t|de|ganz}}
+* Greek: {{t+|el|όλο|m|n}}, {{t+|el|όλη|f}}
 * Hindi: {{t|hi|सारा|tr=sārā|sc=Deva}}<!--Ref- Oxford Hindi-English dict.-->
 * Hungarian: {{t+|hu|egész}}
 * Interlingua: {{t|ia|tote}}
-* Italian: [[tutto]] il {{g|m}}, tutto lo {{g|m}}, [[tutta]] la {{g|f}}
+* Italian: {{t|it|tutto|m|alt=tutto il/lo}}, {{t|it|tutta|f|alt=tutta la}}
 * Japanese: {{t|ja|ずっと|tr=zutto}}
 * Kurdish:
 *: Sorani: {{t|ku|هه‌مو}}
@@ -261,24 +259,24 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|eall||all, every, entire, whol
 {{trans-see|everything}}
 
 {{checktrans-top}}
-* {{ttbc|br}}: [[holl]], an [[holl]]
-* {{ttbc|bg}}: [[всички]] (vsíčki) {{g|p}}
-* {{ttbc|got}}: [[𐌰𐌻𐌻𐍃]] (alls)
-* {{ttbc|gn}}: [[opa]]
+* {{ttbc|br}}: {{t|br|holl|alt=(an) holl}}
+* {{ttbc|bg}}: {{t|bg|всички|p|tr=vsíčki|sc=Cyrl}}
+* {{ttbc|got}}: {{t|got|𐌰𐌻𐌻𐍃|tr=alls|sc=Goth}}
+* {{ttbc|gn}}: {{t|gn|opa}}
 * {{ttbc|gu}}: {{t|gu|બધું|tr=badhu}}, {{t|gu|બધા|tr=badha}}
-* {{ttbc|goh}}: [[al]]
-* {{ttbc|io}}: [[omnu]], [[omna]]
-* {{ttbc|id}}: [[segala]], [[segenap]], [[seluruh]], [[semua]]
-* {{ttbc|ia}}: [[tote]], [[omne]]
+* {{ttbc|goh}}: {{t|goh|al}}
+* {{ttbc|io}}: {{t|io|omnu}}, {{t|io|omna}}
+* {{ttbc|id}}: {{t|id|segala}}, {{t|id|segenap}}, {{t|id|seluruh}}, {{t|id|semua}}
+* {{ttbc|ia}}: {{t|ia|tote}}, {{t|ia|omne}}
 {{trans-mid}}
-* {{ttbc|ko}}: [[다]] (da), [[모두]] (modu); [[전부]] (全部 jeonbu)
-* {{ttbc|ku}}: [[gî]], [[gîh]], [[her]], [[pêkve]], [[tev]], [[têkde]], [[xirr]], [[xirrek]]
+* {{ttbc|ko}}: {{t|ko|다|tr=da|sc=Kore}}, {{t|ko|모두|tr=modu|sc=Kore}}, {{t|ko|전부|tr=全部 jeonbu|sc=Kore}}
+* {{ttbc|ku}}: {{t|ku|gî}}, {{t|ku|gîh}}, {{t|ku|her}}, {{t|ku|pêkve}}, {{t|ku|tev}}, {{t|ku|têkde}}, {{t|ku|xirr}}, {{t|ku|xirrek}}
 * {{ttbc|fa}}: {{t+|fa|هَمِه|tr=hæmeh}}
-* {{ttbc|ro}}: [[tot]] {{g|m}}, [[toată]] {{g|f}}, [[toți]] {{g|p}}, [[toate]] {{g|f-p}}
-* {{ttbc|osx}}: [[al]]
-* {{ttbc|tpn}}: [[opab]], [[opakatu]]
-* {{ttbc|tr}}: [[hepsi]], [[tamamı]]
-* {{ttbc|vi}}: [[đều]]
+* {{ttbc|ro}}: {{t|ro|tot|m}}, {{t|ro|toată|f}}, {{t|ro|toți|p}}, {{t|ro|toate|f-p}}
+* {{ttbc|osx}}: {{t|osx|al}}
+* {{ttbc|tpn}}: {{t|tpn|opab}}, {{t|tpn|opakatu}}
+* {{ttbc|tr}}: {{t|tr|hepsi}}, {{t|tr|tamamı}}
+* {{ttbc|vi}}: {{t|vi|đều}}
 {{trans-bottom}}
 
 ===Noun===
