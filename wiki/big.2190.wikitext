@@ -175,8 +175,7 @@ From a northern {{etyl|enm|en}} dialectal term {{term|big|lang=enm}}, {{term|big
 * Afrikaans: {{t+|af|groot}}
 * Akkadian: {{rfscript|und|sc=Xsux}} ''(rabûm)''
 * Albanian: {{t|sq|madh}}
-* Alviri-Vidari:
-*: Vidari: {{t|avd|بزرگ|tr=bozorg}}
+* Alviri-Vidari: {{i|Vidari}} {{t|avd|بزرگ|tr=bozorg}}
 * {{trreq|am}}
 * Arabic: {{t+|ar|كَبِير|tr=kabīr|sc=Arab}}
 *: Egyptian: {{t|arz|كبير|tr=kibīr}}
@@ -193,7 +192,7 @@ From a northern {{etyl|enm|en}} dialectal term {{term|big|lang=enm}}, {{term|big
 *: Tashelhit: {{t|shi|imɣur|tr=imghur}}
 * {{trreq|br}}
 * Bulgarian: {{t+|bg|голям|tr=goljám|sc=Cyrl}}
-* Burmese: {{t+|my|ကြီး|tr=kyi:|sc=Mymr}}, {{t+|my|ကြီးမား|tr=kyi:ma:|sc=Mymr}}
+* Burmese: {{t+|my|ကြီး|tr=kri:|sc=Mymr}}, {{t+|my|ကြီးမား|tr=kri:ma:|sc=Mymr}}
 * Buryat: {{t|bua|томо|tr=tomo|sc=Cyrl}} {{qualifier|Russian Buryat}}, {{t|bua|ехэ|tr=jexe|sc=Cyrl}} {{qualifier|Russian Buryat}}
 * Catalan: {{t+|ca|gran}}, {{t|ca|gros}}
 * Catawba: {{t|chc|tro}}
@@ -284,7 +283,7 @@ From a northern {{etyl|enm|en}} dialectal term {{term|big|lang=enm}}, {{term|big
 * Malay: {{t+|ms|besar}}, {{t|ms|raya}}, {{t|ms|gedang}}
 * {{trreq|ml}}
 * Maltese: {{t|mt|kbir}}
-* Manchu: amba
+* Manchu: {{t|mnc|amba|sc=Mong}}
 * Manx: {{t|gv|mooar}}
 * Maori: {{t|mi|nui}}
 * {{trreq|mr}}
@@ -296,12 +295,12 @@ From a northern {{etyl|enm|en}} dialectal term {{term|big|lang=enm}}, {{term|big
 * Navajo: {{t|nv|tsoh}}
 * Neapolitan: {{t|nap|gruosso}}
 * {{trreq|ne}}
-* Ngazidja Comorian: {{l|zdj|huu|-huu}}
+* {{ttbc|zdj}}: {{t|zdj|huu|alt=-huu}} <!-- was "[[huu|-huu]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Northern Sami: {{t|se|stuoris}}
 * Norwegian: {{t+|no|stor}}
 * {{trreq|nov}}
 * Occitan: {{t+|oc|grand}}, {{t|oc|gros}}
-* Ojibwe: [[gichi-]], [[chi-]]; {{t|oj|michaa}}
+* Ojibwe: {{t|oj|gichi-|sc=Cans}}, {{t|oj|chi-|sc=Cans}}, {{t|oj|michaa}}
 * Old Church Slavonic: {{t|cu|вєликъ|tr=velikŭ|sc=Cyrs}}
 * Old English: {{t|ang|micel}}
 * {{trreq|or}}
@@ -342,8 +341,7 @@ From a northern {{etyl|enm|en}} dialectal term {{term|big|lang=enm}}, {{term|big
 * Swedish: {{t+|sv|stor}}
 * Tagalog: {{t|tl|malaki}}
 * Tajik: {{t|tg|бузург|tr=buzurg|sc=Cyrl}}
-* Talysh:
-*: Asalemi: {{t|tly|یال|tr=yâl|sc=fa-Arab}}
+* Talysh: {{i|Asalemi}} {{t|tly|یال|tr=yâl|sc=fa-Arab}}
 * Tamil: {{t+|ta|பரு|tr=paru}}, {{t+|ta|பெரிய|tr=periya|sc=Taml}}
 * Tatar: {{t|tt|зур|tr=zur|sc=Cyrl}}, {{t|tt|олы|tr=olı|sc=Cyrl}}
 * Telugu: {{t+|te|పెద్ద|sc=Telu|tr=pedda}}
@@ -375,7 +373,7 @@ From a northern {{etyl|enm|en}} dialectal term {{term|big|lang=enm}}, {{term|big
 * Armenian: {{t|hy|մեծ|tr=meç}}
 * Catalan: {{t+|ca|gran}}
 * Chinese:
-*: Hakka: [[大人]] {{IPAchar|(/tʰaɪ<sup>55</sup> ŋin<sup>11</sup>/)}}
+*: Hakka: {{t|hak|大人|tr={{IPAchar|/tʰaɪ<sup>55</sup> ŋin<sup>11</sup>/}}|sc=Hani}}
 *: Mandarin: {{t+|cmn|大人|tr=dàrén}}
 *: Min Nan: {{t+|nan|大人}} (/tua<sup>11</sup> laŋ<sup>35</sup>/)
 * Dutch: {{t+|nl|volwassen}}
@@ -406,13 +404,13 @@ From a northern {{etyl|enm|en}} dialectal term {{term|big|lang=enm}}, {{term|big
 * Spanish: {{t+|es|mayor}}, {{t+|es|adulto}}
 * Swahili: {{t|sw|pevu}}, {{t+|sw|kubwa}}
 * Swedish: {{t+|sv|vuxen|c}}
-* Thai: {{t|th|โตแล้ว|tr=dtoh lāāeo}}; {{t+|th|โต|tr=dtoh}}
+* Thai: {{t|th|โตแล้ว|tr=dtoh lāāeo}}, {{t+|th|โต|tr=dtoh}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 * {{ttbc|gu}}: {{t|gu|મોટું|tr=moṭuṁ}}
 {{trans-mid}}
-* {{ttbc|ht}}: [[gwo]]
+* {{ttbc|ht}}: {{t|ht|gwo}}
 {{trans-bottom}}
 
 ====Adverb====
