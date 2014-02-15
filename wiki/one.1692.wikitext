@@ -45,7 +45,7 @@ From {{etyl|enm|en}} {{term|one|lang=enm}}, {{term|oon|lang=enm}}, {{term|on|lan
 * Ainu: {{t|ain|シネ|tr=shine}}
 * {{ttbc|akk}}: {{t|akk|ishten|sc=Xsux}} {{rfscript|und|sc=Xsux}}
 * Albanian: {{t+|sq|një}}
-* Alemannic German: {{t|gsw|eins}}, {{t|gsw|aas}}, [[oas]]
+* Alemannic German: {{t|gsw|eins}}, {{t|gsw|aas}}, {{t|gsw|oas}}
 * Alutiiq: {{t|ems|all'inguq}}, {{t|ems|allringuq}}, {{t|ems|allriluq}} {{qualifier|Southern}}
 * American Sign Language: {{t|ase|1@Side-PalmForward}}
 * Amharic: {{t+|am|አንድ|tr=and}}
@@ -92,7 +92,7 @@ From {{etyl|enm|en}} {{term|one|lang=enm}}, {{term|oon|lang=enm}}, {{term|on|lan
 * Chinese:
 *: Cantonese: {{t|yue|一|tr=yat1|sc=Hani}}
 *: Dungan: {{t|dng|йи|tr=yi|sc=Cyrl}}
-*: Hakka: {{t+|hak|一|tr=yiī|sc=Hani}},
+*: Hakka: {{t+|hak|一|tr=yiī|sc=Hani}}
 *: Mandarin: {{t+|cmn|一|sc=Hani}}, {{t+|cmn|壹|tr=yī|sc=Hani}}
 *: {{ttbc|cdo}} (Eastern Hokkien): {{t|cdo|一|tr=sio|sc=Hani}}
 *: Gan: {{t|gan|一|tr=yit|sc=Hani}}
@@ -180,8 +180,7 @@ From {{etyl|enm|en}} {{term|one|lang=enm}}, {{term|oon|lang=enm}}, {{term|on|lan
 * Kashubian: {{t|csb|jeden|m}}
 * Kazakh: {{t+|kk|бір|tr=bir|sc=Cyrl}}
 * Khakas: {{t|kjh|пір|tr=pir}}
-* Khanty:
-*: Kazym: {{t|kca|и|tr=i}}, {{t|kca|йи|tr=ji}} {{t|kca|ит|tr=it}}
+* Khanty: {{i|Kazym}} {{t|kca|и|tr=i}}, {{t|kca|йи|tr=ji}} {{t|kca|ит|tr=it}}
 * Khmer: {{t+|km|មួយ|tr=muoy|sc=Khmr}}
 * Kinyarwanda: {{t|rw|rimwe}}
 * {{trreq|rn}}
@@ -195,7 +194,6 @@ From {{etyl|enm|en}} {{term|one|lang=enm}}, {{term|oon|lang=enm}}, {{term|on|lan
 * Ladino:
 *: Hebrew: {{t|lad|אונו|m|sc=Hebr}}
 *: Roman: {{t|lad|uno|m|sc=Latn}}, {{t|lad|una|f|sc=Latn}}
-* Lake Miwok: {{t|lmw|kénne}}
 * Lakota: {{t|lkt|waŋží}}
 * Lao: {{t|lo|ໜຶ່ງ|tr=nyng|sc=Laoo}}
 * Latgalian: {{t|ltg|vīns}}
@@ -235,8 +233,9 @@ From {{etyl|enm|en}} {{term|one|lang=enm}}, {{term|oon|lang=enm}}, {{term|on|lan
 * Marshallese: {{t|mh|juon}}
 * Mi'kmaq: {{t|mic|nāookt}}
 * {{trreq|mwl}}
-* Miwok:
+* Miwok: 
 *: {{ttbc|csi}}: {{t|csi|kenne}}
+*: Lake Miwok: {{t|lmw|kénne}}
 * Mochica: {{t|omc|onäk}}
 * Mohawk: {{t|moh|énska}}
 * {{ttbc|mn}}: {{t|mn|нэг|tr=neg|sc=Cyrl}}, {{t|mn|ᠨᠢᠭᠡᠨ|tr=nigen|sc=Cyrl}}
@@ -249,12 +248,12 @@ From {{etyl|enm|en}} {{term|one|lang=enm}}, {{term|oon|lang=enm}}, {{term|on|lan
 * Nauruan: {{t|na|aiquen}}
 * Navajo: {{t|nv|łáaʼii}}, {{t|nv|tʼááłáʼí}}
 * Nengone: {{t|nen|sa}}
-* Nepal: {{t+|ne|एक|tr=ek|sc=Deva}}
+* Nepali: {{t+|ne|एक|tr=ek|sc=Deva}}
 * Newari: {{t|new|१}}
 * Ngarrindjeri: {{t|nay|jammelai}}
 * Nivkh: {{t|niv|nin|sc=Cyrl}}
 * Norman: {{t|roa-nor|eun}}
-* North Frisian: {{qualifier|Föhr-Amrum}} {{t|frr|een|m}}, {{t|frr|ian|f|n}}; {{qualifier|Sylt}} {{t|frr|jen}}; {{qualifier|Helgoland}} {{t|frr|iaan}}, {{t|frr|jaan}}
+* North Frisian: {{qualifier|Föhr-Amrum}} {{t|frr|een|m}}, {{t|frr|ian|f|n}}, {{qualifier|Sylt}} {{t|frr|jen}}, {{qualifier|Helgoland}} {{t|frr|iaan}}, {{t|frr|jaan}}
 * Northern Sami: {{t|se|okta}}
 * Northern Sotho:
 *: {{ttbc|Sepedi}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|nso|tee}}
@@ -341,7 +340,7 @@ From {{etyl|enm|en}} {{term|one|lang=enm}}, {{term|oon|lang=enm}}, {{term|on|lan
 * Telugu: {{t+|te|ఒకటి|tr=okaṭṭi}}
 * Thai: {{t+|th|หนึ่ง|tr=nèung|sc=Thai}}
 * Tibetan: {{t|bo|གཅིག|tr=gcig|sc=Tibt}}
-* Tigre: {{t|tig|ዎሮት|m|tr=worot|sc=Ethi}}, {{t|tig|ዎሮ|m|tr=woro|sc=Ethi}}; {{t|tig|ሐቴ፟|f|tr=ḥatte|sc=Ethi}}
+* Tigre: {{t|tig|ዎሮት|m|tr=worot|sc=Ethi}}, {{t|tig|ዎሮ|m|tr=woro|sc=Ethi}}, {{t|tig|ሐቴ፟|f|tr=ḥatte|sc=Ethi}}
 * Tocharian A: {{t|xto|sas}}
 * Tocharian B: {{t|txb|ṣe}}
 * Tok Pisin: {{t|tpi|wanpela}}
