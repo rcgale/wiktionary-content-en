@@ -60,16 +60,10 @@ Perfect passive participle of {{term|plectō||plait, weave|lang=la}}.
 ===Participle===
 {{la-perfect participle|plex|plex}}
 
-# {{#switch:part
-|part={{#switch:pass
-|act={{#switch:perf
-|pres={{la-conj-form-gloss/plecto/frame|19|1}}
-|perf={{la-conj-form-gloss/plecto/frame|19|2}}
-|fut={{la-conj-form-gloss/plecto/frame|19|3}}}}
-|pass={{#switch:perf
-|pres=x
-|perf={{la-conj-form-gloss/plecto/frame|19|5}}
-|fut={{la-conj-form-gloss/plecto/frame|19|6|usex1=|quote1=}}}}}}}}
+# {{#switch:19
+|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17
+|18={{la-conj-form-gloss/line1|plecto|19|5}}
+|19={{la-conj-form-gloss/part-line1|plecto|19|5}}}}
 
 ===Noun===
 {{la-decl-1&2|plex}}
