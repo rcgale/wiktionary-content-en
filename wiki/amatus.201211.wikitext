@@ -9,13 +9,8 @@ Perfect passive participle of {{term|amō||love|lang=la}}.
 ===Participle===
 {{la-perfect participle|amat|amāt}}
 
-# {{#switch:19
-|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17
-|18={{#switch:{{la-conj-form-gloss/passive?|19|5}}
-|0={{la-conj-form-gloss/line1|amo|19|5|usex1=|usex3=}}
-|1={{la-conj-form-gloss/line1|amo|19|5}}
-}}
-|19={{la-conj-form-gloss/part-line1|amo|19|5}}}}
+# {{#ifeq:{{la-conj-form-gloss/amo/line1|19|5}}|x||
+{{#ifexist: Template:la-conj-form-gloss/amo/part-context1|{{la-conj-form-gloss/amo/part-context1}}|{{#ifexist: Template:la-conj-form-gloss/amo/context1|{{la-conj-form-gloss/amo/context1}}|}}}}{{la-conj-form-gloss/amo/line1|19|5}}{{#if:|{{{quote1}}}|}}{{#if:|{{{usex1}}}|}}}}{{#ifexist: Template:la-conj-form-gloss/amo/line2|{{la-conj-form-gloss/part-line2|amo|19|5}}|}}
 
 ====Inflection====
 {{la-decl-1&2|amāt}}
