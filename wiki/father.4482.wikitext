@@ -93,10 +93,10 @@ From {{etyl|enm|en}} {{term|fader|lang=enm}}, from {{etyl|ang|en}} {{term|fæder
 * Afrikaans: {{qualifier|formal}} {{t+|af|vader}}, {{qualifier|informal}} {{t|af|pa}}
 * Ainu: {{t|ain|アチャ|tr=aca}}
 * Akkadian: {{t|akk|𒀜|tr=abu|sc=Xsux}}
-* Albanian: {{t+|sq|baba}}, {{t+|sq|atë}}
+* Albanian: {{t+|sq|baba|m}}, {{t+|sq|atë|m}}
 * Aleut: {{t|ale|adax}}
 * American Sign Language: {{t|ase|5@Forehead-ThumbBack Contact}}
-* Amharic: {{t|am|እባት|m|tr=ʼəbat|sc=Ethi}}
+* Amharic: {{t|am|እባት|m|sc=Ethi}}
 * Amis: {{t|ami|ama^}}
 * Ammonite: {{t|sem-amm|𐤀𐤁|tr='b}}
 * Amurdag: {{t|amg|iraba}}
@@ -116,24 +116,24 @@ From {{etyl|enm|en}} {{term|fader|lang=enm}}, from {{etyl|ang|en}} {{term|fæder
 * {{trreq|ay}}
 * Azeri: {{t+|az|ata}}, {{qualifier|dialect}} {{t|az|dədə}}
 * Baluchi: {{t|bal|پت|tr=pit}}, {{t|bal|پس|tr=pis}}, {{t|bal|ابا|tr=abbá}}
-* Bashkir: {{t|ba|ата|tr=ata|sc=Cyrl}}
+* Bashkir: {{t|ba|ата|sc=Cyrl}}
 * Basque: {{t+|eu|aita}}
-* Belarusian: {{t|be|бацька|m|tr=bácʹka|sc=Cyrl}}, {{t|be|айцец|m|tr=ajcjéc|sc=Cyrl}}, {{t|be|тата|m|tr=táta|sc=Cyrl}} {{qualifier|colloquial}}
+* Belarusian: {{t|be|ба́цька|m|sc=Cyrl}}, {{t|be|айце́ц|m|sc=Cyrl}}, {{t|be|та́та|m|sc=Cyrl}} {{qualifier|colloquial}}
 * Bengali: {{t|bn|আব্বা|m|tr=abba|sc=Beng}}, {{t+|bn|পিতা|m|tr=pita|sc=Beng}}, {{t+|bn|বাবা|m|tr=baba|sc=Beng}}
 * Breton: {{t+|br|tad|m}}, {{t+|br|tadoù|p}}
-* Bulgarian: {{t+|bg|баща|m|tr=baštá}}
+* Bulgarian: {{t+|bg|баща́|m}}
 * Bunun: {{t|bnn|tama}}
 * Burmese: {{t+|my|အဖေ|tr=ăhpe|sc=Mymr}}, {{t+|my|အဖ|tr=ăhpa.|sc=Mymr}}, {{qualifier|formal}} {{t+|my|ဖခင်|tr=pʰa.gin|sc=Mymr}}
 * Catalan: {{t+|ca|pare|m}}
 * Central Sierra Miwok: {{t|csm|ʔypýˑ-}}
-* Chechen: {{t|ce|да|tr=da}}
+* Chechen: {{t|ce|да}}
 * Cherokee: {{t|chr|ᎡᏙᏓ|tr=edoda|sc=Cher}}, {{t|chr|ᎠᏓᏙᏓ|sc=Cher}}
 * {{trreq|ny}}
 * Chinese:
 *: Mandarin: {{t+|cmn|父親|sc=Hani}}, {{t+|cmn|父亲|tr=fùqīn|sc=Hani}}, {{t+|cmn|父|tr=fù|sc=Hani}}, {{t+|cmn|爸爸|tr=bàbà|sc=Hani}}, {{t+|cmn|爹|tr=diē|sc=Hani}} {{qualifier|colloquial}}
 *: Min Nan: {{t+|nan|爹親|tr=tia-chhin|sc=Hans}}, {{t+|nan|爹親|tr=tia-chhin|sc=Hans}}, {{t|nan|娘父|tr=niû-pē|sc=Hans}}, {{t|nan|父親|tr=hū-chhin|sc=Hans}}
 * Chinook Jargon: {{t|chn|papa}}
-* Chuvash: {{t|cv|атте|tr=atte|sc=Cyrl}}
+* Chuvash: {{t|cv|атте|sc=Cyrl}}
 * Comanche: {{t|com|apʉ}}
 * Coptic:
 *: Bohairic: {{t|cop|ⲓⲱⲧ|m|tr=yōt}}, {{t|cop|ⲡⲁⲧⲣⲟⲥ|m|tr=patros}}, {{t|cop|ⲓⲟϯ|p|tr=yoti}}, 
@@ -144,7 +144,7 @@ From {{etyl|enm|en}} {{term|fader|lang=enm}}, from {{etyl|ang|en}} {{term|fæder
 * Dalmatian: {{t|dlm|tuota|m}}
 * Danish: {{t+|da|far|c}}, {{t+|da|fader|c}}
 * Darkinjung: {{t|xda|biambai}}
-* Dhivehi: {{t|dv|ބައްޕަ|tr=bappa|sc=Thaa}}
+* Dhivehi: {{t|dv|ބައްޕަ|sc=Thaa}}
 * Dutch: {{t+|nl|vader|m}}, {{t+|nl|papa}} {{qualifier|informal}}
 * Eastern Mari: {{t|chm|ача}}
 * Edomite: {{t|xdm|𐤀𐤁|tr='b}}
@@ -167,8 +167,8 @@ From {{etyl|enm|en}} {{term|fader|lang=enm}}, from {{etyl|ang|en}} {{term|fæder
 * German: {{t+|de|Vater|m}}
 * Gooniyandi: {{t|gni|ngaboo}}
 * Gothic: {{t|got|𐌰𐍄𐍄𐌰|m|tr=atta|sc=Goth}}, {{t|got|𐍆𐌰𐌳𐌰𐍂|m|tr=fadar|sc=Goth}}
-* Greek: {{t+|el|πατέρας|m|tr=patéras}}
-*: Ancient: {{t|grc|πατήρ|m|tr=patēr|sc=polytonic}}
+* Greek: {{t+|el|πατέρας|m}}
+*: Ancient: {{t|grc|πατήρ|m|sc=polytonic}}
 * Greenlandic: {{t|kl|ataata}}
 * Guaraní: {{t|gn|úva|tr=túva/ru/itúva}}
 * Gujarati: {{t+|gu|પિતા|m|tr=pitā|sc=Gujr}}
@@ -198,12 +198,12 @@ From {{etyl|enm|en}} {{term|fader|lang=enm}}, from {{etyl|ang|en}} {{term|fæder
 * Jèrriais: {{t|roa-jer|péthe|m}}
 * Kabardian: {{t|kbd|адэ}}
 * Kamba: {{t|kam|ethe}}
-* Kannada: {{t+|kn|ತಂದೆ|tr=taṃde|sc=Knda}}
+* Kannada: {{t+|kn|ತಂದೆ|sc=Knda}}
 * Karachay-Balkar: {{t|krc|ата|sc=Cyrl}}
 * Karelian: {{t|krl|ižä}}, {{t|krl|tuatto}}
 * Kashubian: {{t|csb|òjc|m}}, {{t+|csb|tatk|m}}
 * Kavalan: {{t|ckv|tama}}
-* Kazakh: {{t+|kk|ата|tr=ata|sc=Cyrl}}, {{t+|kk|әке|tr=äke|sc=Cyrl}}, {{t+|kk|көке|tr=köke|sc=Cyrl}}
+* Kazakh: {{t+|kk|ата|sc=Cyrl}}, {{t+|kk|әке|sc=Cyrl}}, {{t+|kk|көке|sc=Cyrl}}
 * Kemi Sami: {{t|sjk|äätj‎}}
 * Khmer: {{t+|km|ឪពុក|tr=’əvpuk|sc=Khmr}}
 * {{trreq|rw}}
@@ -213,12 +213,12 @@ From {{etyl|enm|en}} {{term|fader|lang=enm}}, from {{etyl|ang|en}} {{term|fæder
 * Kurdish:
 *: Kurmanji: {{t+|ku|bab|m}}, {{t+|ku|bav|m}}
 *: Sorani: {{t|ckb|باوک|tr=bawk}}, {{t|ckb|باو|tr=baw}}, {{t|ckb|باب|tr=bab}}
-* Kyrgyz: {{t|ky|ата|tr=ata|sc=Cyrl}}
+* Kyrgyz: {{t|ky|ата|sc=Cyrl}}
 * Lao: {{t+|lo|ພໍ່|tr=phöö}}
 * Latgalian: {{t|ltg|tāvs}}
 * Latin: {{t+|la|pater|m}}
-* Latvian: {{t+|lv|tēvs}}, {{t|lv|tētis}} {{qualifier|dad}}, {{t|lv|papucītis|m}} {{qualifier|sexual, sarcastic}}
-* Lithuanian: {{t+|lt|tėvas}}
+* Latvian: {{t+|lv|tēvs|m}}, {{t|lv|tētis|m}} {{qualifier|dad}}, {{t|lv|papucītis|m}} {{qualifier|sexual, sarcastic}}
+* Lithuanian: {{t+|lt|tėvas|m}}
 * Livonian: {{t|liv|izā}}, {{t|liv|tōți}} {{qualifier|dad}}
 * Lojban: {{t+|jbo|patfu}}
 {{trans-mid}}
@@ -228,10 +228,10 @@ From {{etyl|enm|en}} {{term|fader|lang=enm}}, from {{etyl|ang|en}} {{term|fæder
 * Luo: {{t|luo|baba}}
 * Luxembourgish: {{t|lb|Papp}}
 * Lydian: {{t|xld|𐤠𐤯𐤠|tr=ata|sc=Lydi}}
-* Macedonian: {{t|mk|татко|m|tr=tátko}}
+* Macedonian: {{t|mk|та́тко|m}}
 * Malagasy: {{t+|mg|aba}}, {{t+|mg|ada}}
 * Malay: {{t|ms|bapa}}, {{t+|ms|ayah}}, {{t|ms|bapak}}, {{t|ms|ayahanda}}, {{t|ms|rama}}, {{t+|ms|abah}}
-* Malayalam: {{t|ml|അച്ഛന്‍|tr=acchan|sc=Mlym}}, {{t+|ml|പിതാവ്|tr=pitāv|sc=Mlym}}
+* Malayalam: {{t|ml|അച്ഛന്‍|sc=Mlym}}, {{t+|ml|പിതാവ്|sc=Mlym}}
 * Maltese: {{t|mt|missier}}
 * Manx: {{t|gv|ayr|m}}
 * Maori: {{t|mi|matua taane}}, {{t|mi|tāne}}
@@ -244,7 +244,7 @@ From {{etyl|enm|en}} {{term|fader|lang=enm}}, from {{etyl|ang|en}} {{term|fæder
 * Miyako: {{t|mvi|アサ|tr=asa}}
 * Moabite: {{t|obm|𐤀𐤁|tr='b}}
 * Moksha: {{t|mdf|аля}}
-* Mongolian: {{t+|mn|аав|tr=aav|sc=Cyrl}}, {{t|mn|эцэг|tr=eceg|sc=Cyrl}}
+* Mongolian: {{t+|mn|аав|sc=Cyrl}}, {{t|mn|эцэг|sc=Cyrl}}
 * Mycenaean Greek: {{term|𐀞𐀳|tr=pa-te|lang=gmy|sc=Linb}}
 * Nama: {{t|naq|ǁgûb}}
 * Nataoran Amis: {{t|ais|wama}}
@@ -258,7 +258,7 @@ From {{etyl|enm|en}} {{term|fader|lang=enm}}, from {{etyl|ang|en}} {{term|fæder
 * Occitan: {{t+|oc|paire|m}}
 * Ojibwe: {{t|oj|imbaabaa}} {{qualifier|my father}}
 * Old Church Slavonic:
-*: Cyrillic: {{t|cu|отьць|m|tr=otĭcĭ|sc=Cyrs}}
+*: Cyrillic: {{t|cu|отьць|m|sc=Cyrs}}
 *: Glagolitic: {{t|cu|ⱁⱅⱐⱌⱐ|m|tr=otĭcĭ|sc=Glag}}
 * Old East Slavic: {{t|orv|отьць|m}}
 * Old English: {{t+|ang|fæder|m}}
@@ -283,7 +283,7 @@ From {{etyl|enm|en}} {{term|fader|lang=enm}}, from {{etyl|ang|en}} {{term|fæder
 * Romani: {{t|rom|dad|m}}
 * Romanian: {{t+|ro|tată|m}}
 * Romansch: {{t|rm|bap|m}}
-* Russian: {{t+|ru|отец|m|tr=otéc}}, {{t+|ru|папа|m|tr=pápa}} {{qualifier|colloquial}}, {{t+|ru|батя|m|tr=bátja}} {{qualifier|colloquial}}, {{t+|ru|батюшка|m|tr=bátjuška|sc=Cyrl}}, {{t+|ru|папаша|m|tr=papáša|sc=Cyrl}} {{qualifier|may sound derogatory}}, {{t+|ru|ба́тька|m|sc=Cyrl}} {{qualifier|regional; Ukraine or Belarus}}
+* Russian: {{t+|ru|оте́ц|m}}, {{t+|ru|па́па|m}} {{qualifier|colloquial}}, {{t+|ru|ба́тя|m}} {{qualifier|colloquial}}, {{t+|ru|ба́тюшка|m|sc=Cyrl}}, {{t+|ru|ба́тька|m|sc=Cyrl}}, {{t+|ru|папа́ша|m|sc=Cyrl}} {{qualifier|may sound derogatory}}
 * Rusyn: {{t|rue|оте́ць|m}}
 * Saaroa: {{t|sxr|ama'a}}
 * Sabaean: {{t|xsa|𐩱𐩨|tr='b}}
@@ -301,7 +301,7 @@ From {{etyl|enm|en}} {{term|fader|lang=enm}}, from {{etyl|ang|en}} {{term|fæder
 * {{trreq|sip}}
 * Silesian: {{t|szl|uojćec|m}}
 * Sindhi: {{t|sd|پيء|tr=pīʾu|sc=sd-Arab}}, {{t|sd|بابو|tr=bābō|sc=sd-Arab}}
-* Sinhalese: {{t+|si|තාත්තා|tr=tāttā|sc=Sinh}}, {{t|si|තාත්‍තා|tr=tāttā|sc=Sinh}}
+* Sinhalese: {{t+|si|තාත්තා|sc=Sinh}}
 * Skolt Sami: {{t|sms|e´čč}}
 * Slovak: {{qualifier|formal}} {{t+|sk|otec}}, {{qualifier|diminutive}} {{t|sk|tato}}, {{qualifier|diminutive}} {{t|sk|tatko}}, {{qualifier|diminutive}} {{t|sk|tatíčko}}, {{qualifier|pejorative}} {{t|sk|foter}}
 * Slovene: {{t+|sl|oče|m-?}}, {{t|sl|očka|m-?}}, {{qualifier|dialect}} {{t|sl|tata|m-?}}, {{qualifier|dialect}} {{t|sl|ata|m-?}}
@@ -315,19 +315,19 @@ From {{etyl|enm|en}} {{term|fader|lang=enm}}, from {{etyl|ang|en}} {{term|fæder
 * Swahili: {{t+|sw|baba}}, {{t+|sw|mzee}}
 * Swedish: {{t+|sv|fader}}, {{t+|sv|far}}, {{t+|sv|pappa}}
 * Tagalog: {{t+|tl|ama}}, {{t+|tl|tatay}}
-* Tajik: {{t+|tg|падар|tr=padar|sc=Cyrl}}
+* Tajik: {{t+|tg|падар|sc=Cyrl}}
 * Talysh:
 *: Asalemi: {{t|tly|دده|tr=dada|sc=fa-Arab}}
-* Tamil: {{t+|ta|அப்பா|tr=appā}}, {{t+|ta|தந்தை|tr=tantai}}, {{t+|ta|அத்தன்|tr=aththan}}, {{t+|ta|அப்பன்|tr=appaṉ}}
+* Tamil: {{t+|ta|அப்பா}}, {{t+|ta|தந்தை}}, {{t+|ta|அத்தன்}}, {{t+|ta|அப்பன்}}
 * Taos: {{t|twf|tǫ̏ména}}
 * Taroko: {{t|trv|tama}}
-* Tatar: {{t+|tt|ата|tr=ata|sc=Cyrl}}, {{t+|tt|әти|tr=äti|sc=Cyrl}}, {{t|tt|атай|tr=atay|sc=Cyrl}}
-* Telugu: {{t+|te|నాన్న|tr=nānna|sc=Telu}}, {{t+|te|తండ్రి|tr=taṅḍri|sc=Telu}}
+* Tatar: {{t+|tt|ата|sc=Cyrl}}, {{t+|tt|әти|sc=Cyrl}}, {{t|tt|атай|sc=Cyrl}}
+* Telugu: {{t+|te|నాన్న|sc=Telu}}, {{t+|te|తండ్రి|sc=Telu}}
 * Tetum: {{t|tet|aman}}
 * Thai: {{t+|th|พ่อ|tr=pòo}}, {{t+|th|บิดา|tr=bidaa}}
 * Thao: {{t|ssf|ama}}
 * Tibetan: {{t|bo|པ་ཕ|tr=pa pha|sc=Tibt}}, {{t|bo|ཕ་ལགས|tr=pha lags|sc=Tibt}} {{qualifier|honorific}}
-* Tigrinya: {{t+|ti|ኣቦ|m|tr=ʔbo|sc=Ethi}}
+* Tigrinya: {{t+|ti|ኣቦ|m|sc=Ethi}}
 * Tocharian A: {{t|xto|pācar}}
 * Tocharian B: {{t|txb|pācer}}
 * Tok Pisin: {{t|tpi|papa}}
@@ -338,7 +338,7 @@ From {{etyl|enm|en}} {{term|fader|lang=enm}}, from {{etyl|ang|en}} {{term|fæder
 * Tuvan: {{t|tyv|ача|tr=ača}}, {{t|tyv|ада|tr=ada}}
 * Udmurt: {{t|udm|атай}}, {{t|udm|бубы}}, {{t|udm|айы}}
 * Ugaritic: {{t|uga|𐎀𐎁|tr=ảb|sc=Ugar}}
-* Ukrainian: {{t+|uk|батько|m|tr=bátʹko}}, {{t|uk|отець|m|tr=otécʹ}}, {{t|uk|тато|m|tr=táto}} {{qualifier|colloquial}}
+* Ukrainian: {{t+|uk|ба́тько|m}}, {{t|uk|оте́ць|m}}, {{t|uk|та́то|m}} {{qualifier|colloquial}}
 * Urdu: {{t|ur|پتا|m|tr=pitā}}, {{t+|ur|والد|m|tr=vālid}}, {{t|ur|باپ|m|tr=bāp|sc=ur-Arab}}, {{t|ur|پدر|m|tr=pidar|sc=ur-Arab}}
 * Uyghur: {{t+|ug|دادا|tr=dada|sc=ug-Arab}}, {{t+|ug|ئاتا|tr=ata|sc=ug-Arab}}
 * Uzbek: {{t+|uz|ota}}
