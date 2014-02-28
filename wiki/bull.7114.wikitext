@@ -46,7 +46,7 @@ From {{etyl|enm|en}} {{term|bul|lang=enm}}, {{term|bule|lang=enm}}, from {{etyl|
 * Belarusian: {{t|be|бык|m|tr=byk|sc=Cyrl}}
 * Breton: {{t+|br|tarv|m}}
 * Bulgarian: {{t+|bg|бик|m|tr=bik|sc=Cyrl}}
-* Burmese: {{t+|my|နွားထီး|tr=năhti:|sc=Mymr}}
+* Burmese: {{t+|my|နွားထီး|tr=nwa-hti:|sc=Mymr}}
 * Catalan: {{t+|ca|toro|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|公牛|tr=gōngniú|sc=Hani}}, {{t+|cmn|特|tr=tè|sc=Hani}}
@@ -71,6 +71,7 @@ From {{etyl|enm|en}} {{term|bul|lang=enm}}, {{term|bule|lang=enm}}, from {{etyl|
 * Indonesian: {{t+|id|sapi|m}}, {{t+|id|banteng}}
 * Interlingua: {{t|ia|tauro}}
 * Irish: {{t+|ga|tarbh|m}}
+*: Old Irish: {{t|sga|tarb|m}}
 * Italian: {{t+|it|toro|m}}
 * Japanese: {{t|ja|雄牛|tr=おうし, oushí|sc=Jpan}}, {{t|ja|牡牛|tr=おうし, oushí|sc=Jpan}}
 * Korean: {{t+|ko|황소|tr=hwangso|sc=Hang}}
@@ -85,7 +86,6 @@ From {{etyl|enm|en}} {{term|bul|lang=enm}}, {{term|bule|lang=enm}}, from {{etyl|
 * Neapolitan: {{t|nap|toro|m}}
 * Norwegian: {{t+|no|okse|m}}
 * Old Church Slavonic: {{t|cu|бꙑкъ|m|tr=bykŭ|sc=Cyrs}}, {{t|cu|тоуръ|m|tr=turŭ|sc=Cyrs}}
-* Old Irish: {{t|sga|tarb|m}}
 * Persian: {{t+|fa|گاو|tr=gâv-e nar|alt=گاو نر|sc=fa-Arab}}
 * Polish: {{t+|pl|byk|m}}
 * Portuguese: {{t+|pt|touro|m}}, {{t+|pt|toiro|m}}
@@ -99,6 +99,8 @@ From {{etyl|enm|en}} {{term|bul|lang=enm}}, {{term|bule|lang=enm}}, from {{etyl|
 * Seri: {{t|sei|tooro}}, {{t|sei|ziix cooha ctam}}
 * Slovak: {{t|sk|býk|m}}
 * Slovene: {{t+|sl|bik|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|byk|m}}
 * Spanish: {{t+|es|toro|m}}
 * Swahili: {{t+|sw|fahali}}
 * Swedish: {{t+|sv|tjur|c}}
@@ -114,7 +116,7 @@ From {{etyl|enm|en}} {{term|bul|lang=enm}}, {{term|bule|lang=enm}}, from {{etyl|
 * Vietnamese: {{t+|vi|bò|alt=bò đực}}
 * Volapük: {{t+|vo|tor}}, {{t+|vo|hibub}}, {{qualifier|older word, obsolete}} {{t|vo|xoil}}
 * Welsh: {{t+|cy|tarw|m}}
-* West Frisian: [[bolle#West Frisian|bolle]]
+* West Frisian: {{t|fy|bolle}}
 * Wolof: {{t+|wo|yëkk|alt=yëkk wi}}
 {{trans-bottom}}
 
@@ -185,13 +187,13 @@ From {{etyl|enm|en}} {{term|bul|lang=enm}}, {{term|bule|lang=enm}}, from {{etyl|
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|br}}: [[tarv]] + ''specific mammal'' (1), [[tarv]] {{g|m}}, tirvi {{g|p}} (2)
-* {{ttbc|gl}}: [[touro]]
-* {{ttbc|ia}}: [[policiero]] {{g|m}}, [[policiera]] {{g|f}} <!--not slang for policeman-->
-* {{ttbc|lt}}: [[bulius]] {{g|m}} (2-4)
+* {{ttbc|br}}: {{qualifier|1}} {{t|br|tarv}} + ''specific mammal'', {{qualifier|2}} {{t|br|tarv|m}}, {{t|br|tirvi|p}}
+* {{ttbc|gl}}: {{t|gl|touro}}
+* {{ttbc|ia}}: {{t|ia|policiero|m}}, {{t|ia|policiera|f}} <!--not slang for policeman-->
+* {{ttbc|lt}}: {{qualifier|2-4}} {{t|lt|bulius|m}}
 {{trans-mid}}
-* {{ttbc|pt}}: [[policial]] {{g|m|f}} <!--not slang for policeman-->
-* {{ttbc|ro}}: [[taur]] {{g|m}} (2,4) [[macho#Romanian|macho]] {{g|m}} (3)
+* {{ttbc|pt}}: {{t|pt|policial|m|f}} <!--not slang for policeman-->
+* {{ttbc|ro}}: {{qualifier|2,4}} {{t|ro|taur|m}}, {{qualifier|3}} {{t|ro|macho|m}}
 {{trans-bottom}}
 
 ====Adjective====
