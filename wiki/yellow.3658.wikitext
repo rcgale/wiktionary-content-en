@@ -104,6 +104,7 @@ From {{etyl|enm|en}} {{term|yelwe|yelwe, yelou|lang=enm}}, from {{etyl|ang|en}} 
 ====Translations====
 {{trans-top|having yellow as its colour}}
 * Abkhaz: {{t|ab|аҩежь|sc=Cyrl}}
+* Acehnese: {{t|ace|kuneng}}
 * Adyghe: {{t|ady|гъожьы}}
 * Afrikaans: {{t|af|geel}}
 * Akan: {{t|ak|akokɔ sradeɛ}}
@@ -122,6 +123,7 @@ From {{etyl|enm|en}} {{term|yelwe|yelwe, yelou|lang=enm}}, from {{etyl|ang|en}} 
 * Belarusian: {{t|be|жоўты|tr=žóŭty|sc=Cyrl}}
 * Bengali: {{t|bn|হলদে|tr=hôlde|sc=Beng}}
 * Breton: {{t+|br|melen}}
+* Buginese: {{t|bug|ma-ridi}}
 * Bulgarian: {{t+|bg|жълт|m|tr=žǎlt|sc=Cyrl}}
 * Burmese: {{t+|my|ဝါ|tr=wa|sc=Mymr}}
 * Buryat: {{t|bua|шара|tr=šara}}
@@ -129,33 +131,34 @@ From {{etyl|enm|en}} {{term|yelwe|yelwe, yelou|lang=enm}}, from {{etyl|ang|en}} 
 * Chamicuro: {{t|ccc|ka'chakamawa}}
 * Chechen: {{t|ce|муожа|tr=muoža}}
 * Chinese:
-*: Cantonese: {{t|yue|黃|sc=Hani}}, {{t|yue|黄|tr=wong4|sc=Hani}}
+*: {{ttbc|yue}}: {{t|yue|黃|sc=Hani}}, {{t|yue|黄|tr=wong4|sc=Hani}}, {{t|yue|黄|tr=uɔŋ21|sc=Hani}}<!--are "wong4" and "uɔŋ21" different pronunciations or different representations of the same pronunciation?-->
+*:: {{ttbc|Pinghua}} (Nanning): {{t|yue|黄|tr=hoŋ21|sc=Hani}}<!--not actually Cantonese but it doesn't have a code of its own-->
+*: Gan (Nanchang): {{t|gan|黄|tr=wɔŋ35|sc=Hani}}
+*: Hakka (Meixian): {{t|hak|黄|tr=voŋ11|sc=Hani}}
+*: Huizhou (Jixi): {{t|czh|黄|tr=õ44|sc=Hani}}
+*: Jinyu: {{t|cjy|黄|tr=xuɒ̃11|sc=Hani}}
 *: Mandarin: {{t+|cmn|黃|sc=Hani}}, {{t+|cmn|黄|tr=huáng|sc=Hani}}
-*: [[Northern Mandarin]] [[Harbin]]: [[黄]] (xuaŋ24)
-*: [[Southwest Mandarin]] [[Liuzhou]]: [[黄]] (huaŋ31)
-*: [[Southwest Mandarin]] [[Chengdu]]: [[黄]] (xuaŋ21)
-*: [[West Mandarin]] [[Ürümqi]]: [[黄]] (xuɑŋ51)
-*: [[West Mandarin]] [[Xi'an]]: [[黄]] (xuɑŋ24)
-*: [[Central Mandarin]] [[Wuhan]]: [[黄]] (xuaŋ213)
-*: [[Jianghuai Mandarin]] [[Xuzhou]]: [[黄]] (xuaŋ55)
-*: [[Jianghuai Mandarin]] [[Yangzhou]]: [[黄]] (xuaŋ35)
-*: [[Jin]] [[Taiyuan]]: [[黄]] (xuɒ̃11)
-*: [[Northern Wu]] [[Suzhou]]: [[黄]] (ɦuɑ̃13)
-*: [[Northern Wu]] [[Shanghai]]: [[黄]] (βɑ̃13)
-*: [[Northern Wu]] [[Hangzhou]]: [[黄]] (ɦuɑŋ213)
-*: [[Southern Wu]] [[Wenzhou]]: [[黄]] (ɦuɔ31)
-*: [[Hui]] [[Jixi]]: [[黄]] (õ44)
-*: [[Gan]] [[Nanchang]]: [[黄]] (wɔŋ35)
-*: [[Xiang]] [[Changsha]]: [[黄]] (uan13), (fan13)
-*: [[Northern Min]] [[Jian'ou]]: [[黄色]] (uaŋ33 sɛ24)
-*: [[Eastern Min]] [[Fuzhou]]: [[黄]] (huoŋ53)
-*: [[Southern Min]] [[Xiamen]]: [[黄]] (ŋ35)
-*: [[Southern Min]] [[Chaozhou]]: [[黄]] (ŋ55)
-*: [[Southern Min]] [[Haikou]]: [[黄]] (ui21)
-*: [[Hakka]] [[Meixian]]: [[黄]] (voŋ11)
-*: [[Yue]] [[Guangzhou]]: [[黄]] (uɔŋ21)
-*: [[Pinghua]] [[Nanning]]: [[黄]] (hoŋ21)
-*: [[Tuhua Dong'an]]: [[黄]] (uaŋ13)
+*:: Northern Mandarin (Harbin): {{t|cmn|黄|tr=xuaŋ24|sc=Hani}}
+*:: Southwest Mandarin (Liuzhou): {{t|cmn|黄|tr=huaŋ31|sc=Hani}}
+*:: Southwest Mandarin (Chengdu): {{t|cmn|黄|tr=xuaŋ21|sc=Hani}}
+*:: West Mandarin (Ürümqi): {{t|cmn|黄|tr=xuɑŋ51|sc=Hani}}
+*:: West Mandarin (Xi'an): {{t|cmn|黄|tr=xuɑŋ24|sc=Hani}}
+*:: Central Mandarin (Wuhan): {{t|cmn|黄|tr=xuaŋ213|sc=Hani}}
+*:: Jianghuai Mandarin (Xuzhou): {{t|cmn|黄|tr=xuaŋ55|sc=Hani}}
+*:: Jianghuai Mandarin (Yangzhou): {{t|cmn|黄|tr=xuaŋ35|sc=Hani}}
+*: Min Bei (Jian'ou): {{t|mnp|黄色|tr=uaŋ33 sɛ24|sc=Hani}}
+*: Min Dong (Fuzhou): {{t|cdo|黄|tr=huoŋ53|sc=Hani}}
+*: Min Nan:
+*:: Min Nan (Xiamen): {{t|nan|黄|tr=ŋ35|sc=Hani}}
+*:: Min Nan (Chaozhou): {{t|nan|黄|tr=ŋ55|sc=Hani}}
+*:: Min Nan (Haikou): {{t|nan|黄|tr=ui21|sc=Hani}}
+*: Wu:
+*:: Northern Wu (Suzhou): {{t|wuu|黄|tr=ɦuɑ̃13|sc=Hani}}
+*:: Northern Wu (Shanghai): {{t|wuu|黄|tr=βɑ̃13|sc=Hani}}
+*:: Northern Wu (Hangzhou): {{t|wuu|黄|tr=ɦuɑŋ213|sc=Hani}}
+*:: Southern Wu (Wenzhou): {{t|wuu|黄|tr=ɦuɔ31|sc=Hani}}
+*: Xiang (Changsha): {{t|hsn|黄|tr=uan13, fan13|sc=Hani}}
+*:: {{ttbc|Tuhua Dong'an}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|hsn|黄|tr=uaŋ13|sc=Hani}}<!--not really Xiang but doesn't have a code of its own, assuming "Tuhua Dong'an" is the same language as [[w:Shaozhou Tuhua]]-->
 * Chuvash: {{t|cv|сарӑ|tr=sară|sc=Cyrl}}
 * Czech: {{t+|cs|žlutý}}
 * Danish: {{t+|da|gul}}
@@ -172,8 +175,8 @@ From {{etyl|enm|en}} {{term|yelwe|yelwe, yelou|lang=enm}}, from {{etyl|ang|en}} 
 * Georgian: {{t|ka|ყვითელი|tr=qvit’eli|sc=Geor}}
 * German: {{t+|de|gelb}}
 * Gothic: {{t|got|𐌲𐌹𐌻𐍅𐍃|tr=gilws|sc=Goth}}
-* Greek: {{t+|el|κίτρινος|tr=kítrinos}}
-*: [[Ancient Greek]]: {{t|grc|ξανθός|tr=ksanthos|sc=polytonic}}
+* Greek: {{t+|el|κίτρινος}}
+*: Ancient Greek: {{t|grc|ξανθός|tr=ksanthos|sc=polytonic}}
 * Guaraní: {{t|gn|sa'yju}}
 * Gujarati: {{t+|gu|પીળો|tr=pīḷo|sc=Gujr}}
 * Haitian Creole: {{t|ht|jòn}}
@@ -187,19 +190,11 @@ From {{etyl|enm|en}} {{term|yelwe|yelwe, yelou|lang=enm}}, from {{etyl|ang|en}} 
 * Ido: {{t+|io|flava}}
 * Igbo: {{t|ig|èdo}}
 * Indonesian: {{t+|id|kuning}}
-*: [[Acehnese]]: {{t|ace|kuneng}}
-*: [[Buginese]]: {{t|bug|ma-ridi}}
-*: [[Javanese]]: {{t|jv|kuniŋ}}, {{t+|jv|jene}}, {{t|jv|kuning}}
-*: [[Madurese]]: {{t|mad|koneŋ}}
-*: [[Makasar]]: {{t|mak|kuŋ̃iʔ}}
-*: [[Minangkabau]]: {{t|min|kuniaŋ}}
-*: [[Nias]]: {{t|nia|undre}}, {{t|nia|ruzõ}}
-*: [[Sasak]]: {{t|sas|koniŋ}}
-*: [[Sundanese]]: {{t|su|koneng}}
 * Interlingua: {{t|ia|jalne}}
 * Irish: {{t+|ga|buí}}
 * Italian: {{t+|it|giallo}}
 * Japanese: {{t+|ja|黄色い|tr=きいろい, kiiroi}}
+* Javanese: {{t|jv|kuniŋ}}, {{t+|jv|jene}}, {{t|jv|kuning}}
 * Jèrriais: {{t|roa-jer|jaune}}
 * Kannada: {{t+|kn|ಹಳದಿ|tr=haḷadi|sc=Knda}}
 * Karelian: {{t|krl|keldaine}}
@@ -227,6 +222,8 @@ From {{etyl|enm|en}} {{term|yelwe|yelwe, yelou|lang=enm}}, from {{etyl|ang|en}} 
 *: German Low German: {{t+|nds-de|geel}}, {{t|nds-de|gel}}, {{t|nds-de|gęl}}
 * Luxembourgish: {{t+|lb|giel}}
 * Macedonian: {{t|mk|жолт|tr=žolt|sc=Cyrl}}
+* Madurese: {{t|mad|koneŋ}}
+* Makasar: {{t|mak|kuŋ̃iʔ}}
 * Malagasy: {{t+|mg|mavo}}
 * Malay: {{t+|ms|kuning}}
 * Malayalam: {{t+|ml|മഞ്ഞ|tr=mañña|sc=Mlym}}
@@ -234,6 +231,7 @@ From {{etyl|enm|en}} {{term|yelwe|yelwe, yelou|lang=enm}}, from {{etyl|ang|en}} 
 * Maori: {{t|mi|koowhai}}
 * Marathi: {{t|mr|पिवळा|tr=pivaḷā|sc=Deva}}
 * Maricopa: {{t|mrc|kʼwesam}}
+* Minangkabau: {{t|min|kuniaŋ}}
 * Mizo: {{t|lus|eng}}
 * Moksha: {{t|mdf|тюжя|tr=tjužja}}
 * Mongolian: {{t+|mn|шар|tr=šar|sc=Cyrl}}, {{t|mn|хор|tr=hor|sc=Cyrl}}
@@ -241,13 +239,12 @@ From {{etyl|enm|en}} {{term|yelwe|yelwe, yelou|lang=enm}}, from {{etyl|ang|en}} 
 * Nahuatl: {{t+|nah|cōztic}}
 * Nama: {{t|naq|ǃhūni}}
 * Navajo: {{t|nv|łitso}}
+* Nias: {{t|nia|undre}}, {{t|nia|ruzõ}}
 * Norwegian: {{t+|no|gul}}
 * Nottoway-Meherrin: {{t|nwy|kateanteharia}}
 * Novial: {{t|nov|gelbi}}
 * O'odham: {{t|ood|oam}}
-* Ossetian:
-*: Digor: {{t|os|бор|tr=bor|sc=Cyrl}}
-*: Iron: {{t|os|бур|tr=bur|sc=Cyrl}}
+* Ossetian: {{i|Digor}} {{t|os|бор|tr=bor|sc=Cyrl}}, {{ttbc|Iron}} {{t|os|бур|tr=bur|sc=Cyrl}}
 * Papiamentu: {{t|pap|hel}}
 * Pashto: {{t+|ps|ژېړ|tr=žeṛ|sc=ps-Arab}}
 * Persian: {{t+|fa|زرد|tr=zard|sc=fa-Arab}}
@@ -259,6 +256,7 @@ From {{etyl|enm|en}} {{term|yelwe|yelwe, yelou|lang=enm}}, from {{etyl|ang|en}} 
 * Romansch: {{qualifier|Rumantsch Grischun, Sursilvan, Surmiran}} {{t|rm|mellen}}, {{qualifier|Sutsilvan}} {{t|rm|melen}}, {{qualifier|Puter}} {{t|rm|mellan}}, {{qualifier|Vallader}} {{t|rm|gelg}}
 * Russian: {{t+|ru|жёлтый|tr=žóltyj}}
 * Samoan: {{t|sm|sāmasama}}, {{t|sm|lega}}
+* Sasak: {{t|sas|koniŋ}}
 * Scots: {{t|sco|yella}}
 * Scottish Gaelic: {{t|gd|buidhe}}
 * Serbo-Croatian:
@@ -273,6 +271,7 @@ From {{etyl|enm|en}} {{term|yelwe|yelwe, yelou|lang=enm}}, from {{etyl|ang|en}} 
 *: Lower Sorbian: {{t|dsb|žołty}}
 *: Upper Sorbian: {{t+|hsb|žołty}}
 * Spanish: {{t+|es|amarillo}}
+* Sundanese: {{t|su|koneng}}
 * Swahili: {{t|sw|-a kimanjano}}
 * Swedish: {{t+|sv|gul}}
 * Tagalog: {{t+|tl|dilaw}}
