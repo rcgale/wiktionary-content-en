@@ -87,6 +87,7 @@ From {{etyl|enm|en}} {{term|been||to be|lang=enm}}, from {{etyl|ang|en}} {{term/
 * {{seeCites}}
 
 ====Conjugation====
+{{der-top|Modern conjugation}}
 {| class="wikitable" style="text-align:center"
 ! colspan="2" | infinitive
 | colspan="5" | {{l/en|to}} be
@@ -118,10 +119,8 @@ From {{etyl|enm|en}} {{term|been||to be|lang=enm}}, from {{etyl|ang|en}} {{term/
 | {{l/en|let's|let’s}} be
 |-
 | you {{l/en|are}} ({{l/en|'re|’re}})
-thou {{l/en|art}} (''archaic'')
 | you {{l/en|are}} ({{l/en|'re|’re}})
 | you be
-thou {{l/en|beest}} (''archaic'')
 | you be
 | be
 | be
@@ -141,10 +140,8 @@ thou {{l/en|beest}} (''archaic'')
 |rowspan="3" colspan="2" bgcolor="lightgray"|
 |-
 | you {{l/en|were}}
-thou {{l/en|wast}} (''archaic'')
 | you {{l/en|were}}
 | you {{l/en|were}}
-thou {{l/en|wert}} (''archaic'')
 | you {{l/en|were}}
 |-
 | she/he/it {{l/en|was}}*
@@ -154,6 +151,73 @@ thou {{l/en|wert}} (''archaic'')
 |}
 <small>*Some, non-standard dialects will have {{l/en|were}} in these instances.</small><br />
 <small>**Some, non-standard dialects will have {{l/en|was}} in these instances.</small>
+{{bottom}}
+{{der-top|Archaic conjugation}}
+{| class="wikitable" style="text-align:center"
+! colspan="2" | infinitive
+| colspan="5" | {{l/en|to}} be
+|-
+! colspan="2" | present participle/gerund
+| colspan="5" | {{l/en|being}}
+|-
+! colspan="2" | past participle
+| colspan="5" | {{l/en|been}}
+|-
+! rowspan="2" |
+! colspan="2" | indicative
+! colspan="2" | subjunctive
+! colspan="2" | imperative
+|-
+! colspan="1" | singular
+! colspan="1" | plural
+! colspan="1" | singular
+! colspan="1" | plural
+! colspan="1" | singular
+! colspan="1" | plural
+|-
+! rowspan="3" | present
+| I {{l/en|am}} ({{l/en|'m|’m}})
+| we {{l/en|are}} ({{l/en|'re|’re}})
+| I be
+| we be
+| —
+| {{l/en|let's|let’s}} be
+|-
+| thou {{l/en|art}}
+| ye {{l/en|are}}
+| thou {{l/en|beest}}
+| ye be
+| be (thou)***
+| be (ye)***
+|-
+| he/she/it {{l/en|is}} ({{l/en|'s|’s}})
+| they {{l/en|are}} ({{l/en|'re|’re}})
+| he/she/it be
+| they be
+| —
+| —
+|-
+! rowspan="3" | preterite
+| I {{l/en|was}}*
+| we {{l/en|were}}
+| I {{l/en|were}}**
+| we {{l/en|were}}
+|rowspan="3" colspan="2" bgcolor="lightgray"|
+|-
+| thou {{l/en|wast}}
+| ye {{l/en|were}}
+| thou {{l/en|wert}}
+| ye {{l/en|were}}
+|-
+| she/he/it {{l/en|was}}*
+| they {{l/en|were}}
+| she/he/it {{l/en|were}}**
+| they {{l/en|were}}
+|}
+<small>*Some, non-standard dialects will have {{l/en|were}} in these instances.</small><br />
+<small>**Some, non-standard dialects will have {{l/en|was}} in these instances.</small><br />
+<small>***It is optional to include the subject which is to be stated after the imperative.</small>
+{{bottom}}
 
 * The verb {{term||be|lang=en}} is the most irregular non-defective verb in Standard English. Unlike other verbs, which distinguish at most five forms (as in {{term||do|lang=en}}–{{term||does|lang=en}}–{{term||doing|lang=en}}–{{term||did|lang=en}}–{{term||done|lang=en}}), {{term||be|lang=en}} distinguishes eight:
 ** {{term||Be|lang=en}} itself is the plain form, used as the infinitive, as the imperative, and as the present subjunctive.
