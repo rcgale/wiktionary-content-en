@@ -9,17 +9,33 @@ From {{etyl|gmh|de}} {{term|anvahen||lang=gmh|to grab on}}, {{term|an||lang=gmh|
 * {{audio|De-at-anfangen.ogg|audio (Austria)}}
 
 ===Verb===
-{{de-verb-strong|class=7|fängt an|fing an|angefangen}}
+{{de-verb-strong|class=7|fängt an|fing an|angefangen|auxiliary=[[haben]] or [[sein]]}}
 
-# {{context|transitive|or|intransitive|lang=de}} to [[begin]]; to [[start]]; to [[commence]]
+# {{context|intransitive|lang=de}} to [[begin]]; to [[commence]]
+#: ''Das Konzert '''fängt''' gleich '''an'''.''
+#:: The concert is '''beginning''' shortly.
+# {{context|intransitive|with {{l/de|zu}} + infinitive|lang=de}} to [[start]] doing something
+#: ''Wann hast du '''angefangen''' zu rauchen?''
+#:: When did you '''start''' smoking?
+# {{context|intransitive|with {{l/de|mit}}|lang=de}} to [[begin]] something; to [[start]] something
+#: ''Morgen '''fangen''' wir mit dem Projekt '''an'''.''
+#:: Tomorrow we are starting the project.
+# {{context|transitive|colloquial|lang=de}} to [[begin]] something; to [[start]] something
+#: ''Wann hast du das Rauchen '''angefangen'''?''
+#:: When did you '''start''' smoking?
+#: ''Morgen '''fangen''' wir das Projekt '''an'''.''
+#:: Tomorrow we are '''starting''' the project.
 
 ====Usage notes====
-* Colloquially, in western Germany, the auxiliary {{term|sein|lang=de}} is not seldom used: ''Ich bin angefangen.'' – I have begun. (Compare Dutch {{term|beginnen|lang=nl}} "to begin", which also takes the auxiliary {{term|zijn|lang=nl}}.)
-
-* The transitive use of ''anfangen'' is colloquial, at least with a verbal noun as object: ''Er hat das Rauchen angefangen''. – "He has started smoking." In the standard language, it is preferable to say: ''Er hat '''mit''' dem Rauchen angefangen''. Or else: ''Er hat angefangen '''zu''' rauchen''. With a regular noun, the transitive use is more acceptable: ''Er hat die Arbeit angefangen.'' – "He has started the work." Although the standard still prefers to say: ''Er hat '''mit''' der Arbeit angefangen''.
+* The normal auxiliary for this verb is {{term|haben|lang=de}}: ''Ich habe angefangen.'' – "I have begun." The auxiliary {{term|sein|lang=de}} is used by some speakers in western and northern Germany: ''Ich bin angefangen.'' This is, however, widely restricted to colloquial usage. (Cf. the same construction in Dutch {{term|beginnen||to begin|lang=nl}}: ''Ik ben begonnen.'')
+* The construction of ''anfangen'' as a transitive verb (sense 4) is perfectly acceptable in spoken German, but would not be common in formal writing.
 
 ====Conjugation====
 {{de-conj-strong|fang|fing|gefangen|h||fäng||a|a|an|a}}
+
+====Synonyms====
+* {{l/de|beginnen}} {{i|less frequent in common speech}}
+* {{l/de|starten}} {{i|not always applicable}}
 
 ====Related terms====
 * [[Anfang]] {{g|m}}
