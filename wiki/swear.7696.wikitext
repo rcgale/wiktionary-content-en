@@ -39,7 +39,7 @@ From {{etyl|enm|en}} {{term|sweren|lang=enm}}, {{term|swerien|lang=enm}}, from {
 =====Translations=====
 {{trans-top|to take an oath}}
 * Arabic: {{t|ar|حلف|tr=ḥálafa|sc=Arab}}
-* Armenian: {{qualifier|intransitive}} {{t|hy|երդվել|tr=erdvel}}, {{qualifier|transitive}} {{t|hy|երդվեցնել|tr=erdvec’nel}}
+* Armenian: {{qualifier|intransitive}} {{t|hy|երդվել}}, {{qualifier|transitive}} {{t|hy|երդվեցնել}}
 * Aromanian: {{t|rup|giur}}
 * Asturian: {{t|ast|xurar}}
 * Bulgarian: {{t|bg|заклевам се|tr=zaklevam se|sc=Cyrl}}
@@ -80,7 +80,7 @@ From {{etyl|enm|en}} {{term|sweren|lang=enm}}, {{term|swerien|lang=enm}}, from {
 * Polish: {{t+|pl|przysięgać}}, {{t|pl|przyrzekać}}
 * Portuguese: {{t+|pt|jurar}}
 * Romanian: {{t+|ro|jura}}
-* Russian: {{t+|ru|клясться|impf|tr=kljástʹsja|sc=Cyrl}}, {{t+|ru|поклясться|pf|tr=pokljástʹsja|sc=Cyrl}}, {{t+|ru|присягать|impf|tr=prisjagátʹ|sc=Cyrl}}, {{t+|ru|присягнуть|pf|tr=prisjagnútʹ|sc=Cyrl}}
+* Russian: {{t+|ru|кля́сться|impf}}, {{t+|ru|покля́сться|pf}}, {{t+|ru|присяга́ть|impf}}, {{t+|ru|присягну́ть|pf}}
 * Sardinian: {{t|sc|giurài}}, {{t|sc|giurare}}, {{t|sc|zurare}}
 * Sicilian: {{t+|scn|giurari}}
 * Spanish: {{t+|es|jurar}}
@@ -96,7 +96,7 @@ From {{etyl|enm|en}} {{term|sweren|lang=enm}}, {{term|swerien|lang=enm}}, from {
 
 {{trans-top|to curse, to use offensive language}}
 * Arabic: {{t|ar|شتم|tr=šátama|sc=Arab}}
-* Armenian: {{t|hy|հայհոյել|tr=hayhoyel}}
+* Armenian: {{t|hy|հայհոյել}}
 * Bulgarian: {{t+|bg|псувам|tr=psuvam}}
 * Chinese:
 *: Mandarin: {{t|cmn|咒罵|sc=Hani}}, {{t+|cmn|咒骂|tr=zhòumà|sc=Hani}}, {{t|cmn|醜詆|sc=Hani}}, {{t+|cmn|丑诋|tr=chǒudǐ|sc=Hani}}, {{t|cmn|罵人|sc=Hani}}, {{t+|cmn|骂人|tr=mà rén|sc=Hani}}
@@ -125,7 +125,9 @@ From {{etyl|enm|en}} {{term|sweren|lang=enm}}, {{term|swerien|lang=enm}}, from {
 * Polish: {{t+|pl|przeklinać}}, {{t+|pl|kląć}}, {{t+|pl|zaklinać}}
 * Portuguese: {{t+|pt|praguejar}}, {{t+|pt|xingar}}
 * Romanian: {{t+|ro|înjura}}
-* Russian: {{t+|ru|ругаться|impf|tr=rugátʹsja|sc=Cyrl}}, {{t+|ru|выругаться|pf|tr=výrugatʹsja|sc=Cyrl}}, {{t+|ru|браниться|impf|tr=branítʹsja|sc=Cyrl}}
+* Russian: {{t+|ru|руга́ться|impf}}, {{t+|ru|вы́ругаться|pf}}, {{t+|ru|брани́ться|impf}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|klěś|impf}}
 * {{ttbc|es}}: {{t+|es|blasfemar}}, {{t|es|renegar}}, {{t+|es|jurar}}, {{t|es|[[echar]] [[terno]]s}} <!-- was "[[echar]] [[terno]]s" - assumed sum-of-parts; if an idiom, drop [[links]] to [[words]]. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Swedish: {{t+|sv|svära}}
 * {{ttbc|te}}: {{t+|te|తిట్టు|tr=tiTTu|sc=Telu}} [[ఒట్టు పెట్టు]]
@@ -134,7 +136,7 @@ From {{etyl|enm|en}} {{term|sweren|lang=enm}}, {{term|swerien|lang=enm}}, from {
 {{trans-bottom}}
 
 {{checktrans}}
-* {{ttbc|id}}: [[sumpah]], [[sumpah|bersumpah]], [[sumpah|menyumpahi]], [[umpat|mengumpat]]
+* {{ttbc|id}}: {{t|id|sumpah}}, {{t|id|umpat|alt=mengumpat}}
 
 ===Etymology 2===
 From the above verb, or from {{etyl|enm|en}} {{term|sware|lang=enm}}, from {{etyl|ang|en}} {{term|swaru|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|gem-pro|*swarō}}.
