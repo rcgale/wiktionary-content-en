@@ -140,15 +140,16 @@ Indirect Object:
 * Welsh: {{t+|cy|y}}
 {{trans-bottom}}
 
-{{checktrans}}
-* {{ttbc|sh}}: [[koga]] (1); [[s kim]] {{g|m}}, [[s kojom]] {{g|f}}, [[s kojim]] {{g|m}} (1: with whom); [[kome]] {{g|m}}, [[kojem]] {{g|m}}, [[kojoj]] {{g|f}}, [[kojim]] {{g|m}} (2: to whom, about whom)
-* {{ttbc|nl}}: [[die]] (1), [[wie]] (1), [[waarmee]] (2), [[waarvan]] (2), [[waaronder]] (2)
-* {{ttbc|id}}: [[yang]], [[yang]] [[mana]]
-* {{ttbc|ia}}: [[qui]]
+{{ttbc-top}}
+* {{ttbc|sh}}: {{qualifier|1}} {{t|sh|koga}}, {{t|sh|s kim|m}}, {{t|sh|s kojom|f}}, {{qualifier|1: with whom}} {{t|sh|s kojim|m}}, {{t|sh|kome|m}}, {{t|sh|kojem|m}}, {{t|sh|kojoj|f}}, {{qualifier|2: to whom, about whom}} {{t|sh|kojim|m}}
+* {{ttbc|nl}}: {{qualifier|1}} {{t|nl|die}}, {{qualifier|1}} {{t|nl|wie}}, {{qualifier|2}} {{t|nl|waarmee}}, {{qualifier|2}} {{t|nl|waarvan}}, {{qualifier|2}} {{t|nl|waaronder}}
+* {{ttbc|id}}: {{t|id|yang}}, {{t|id|[[yang]] [[mana]]}} <!-- was "[[yang]] [[mana]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|ia}}: {{t|ia|qui}}
 * {{ttbc|sh}}:
-*: Cyrillic: [[кога]] (1); [[с ким]] {{g|m}}, [[с којом]] {{g|f}}, [[с којим]] {{g|m}} (1: with whom); [[коме]] {{g|m}}, [[којем]] {{g|m}}, [[којој]] {{g|f}}, [[којим]] {{g|m}} (2: to whom, about whom)
-*: Roman: [[koga]] (1); [[s kim]] {{g|m}}, [[s kojom]] {{g|f}}, [[s kojim]] {{g|m}} (1: with whom); [[kome]] {{g|m}}, [[kojem]] {{g|m}}, [[kojoj]] {{g|f}}, [[kojim]] {{g|m}} (2: to whom, about whom)
-* {{ttbc|de}}: [[wer]] (1), [[wem]] (1)
+*: Cyrillic: {{t|sh|кога|tr=1|sc=Cyrl}}, {{t|sh|с ким|m|sc=Cyrl}}, {{t|sh|с којом|f|sc=Cyrl}}, {{t|sh|с којим|m|tr=1: with whom|sc=Cyrl}}, {{t|sh|коме|m|sc=Cyrl}}, {{t|sh|којем|m|sc=Cyrl}}, {{t|sh|којој|f|sc=Cyrl}}, {{t|sh|којим|m|tr=2: to whom, about whom|sc=Cyrl}}
+*: Roman: {{qualifier|1}} {{t|sh|koga}}, {{t|sh|s kim|m}}, {{t|sh|s kojom|f}}, {{qualifier|1: with whom}} {{t|sh|s kojim|m}}, {{t|sh|kome|m}}, {{t|sh|kojem|m}}, {{t|sh|kojoj|f}}, {{qualifier|2: to whom, about whom}} {{t|sh|kojim|m}}
+* {{ttbc|de}}: {{qualifier|1}} {{t|de|wer}}, {{qualifier|1}} {{t|de|wem}}
+{{ttbc-bottom}}
 
 ===Statistics===
 * {{rank|tell|because|few|178|whom|love|far|seemed}}
