@@ -94,7 +94,7 @@ From {{etyl|non|is}} {{term|taka|lang=non}}, from {{etyl|gem-pro|is}} {{term/t|g
 ====Verb====
 {{is-verb-strong|tók|tóku|tekið}}
 
-# to [[take]] (an object)
+# {{context|transitive|with accusative|lang=is}} to [[take]] (an object)
 #* Luke 6:29 ([http://www.biblegateway.com/passage/?search=Luke%206:29&version=NIV English], [http://www.biblegateway.com/passage/?search=Luke%206:29&version=ICELAND Icelandic])
 #*: ''Slái þig einhver á kinnina, skaltu og bjóða hina, og '''taki''' einhver yfirhöfn þína, skaltu ekki varna honum að taka kyrtilinn líka.''
 #*:: If someone strikes you on one cheek, turn to him the other also. If someone '''takes''' your cloak, do not stop him from taking your tunic.
@@ -102,10 +102,19 @@ From {{etyl|non|is}} {{term|taka|lang=non}}, from {{etyl|gem-pro|is}} {{term/t|g
 #:: I'm going to '''take''' the car.
 #: ''Hún var að fara að '''taka''' veskið þitt!''
 #:: She was about to '''take''' your purse!
-# to [[take]] (time, measure)
+# {{context|transitive|with accusative|lang=is}} to [[seize]], to [[capture]]
+# {{context|transitive|with accusative|lang=is}} to [[take]] (time, measure)
 #: ''Viltu að ég '''taki''' tímann?''
 #:: Do you want me to '''take''' the time?
-# to take {{gloss|undergo}}, e.g. an exam
+# {{context|transitive|with accusative|lang=is}} to [[get]], to [[obtain]]
+# {{context|transitive|with accusative|lang=is}} to take {{gloss|undergo}}, e.g. an exam
+# {{context|transitive|with accusative or dative|lang=is}} to [[accept]], to [[take]]
+# {{context|transitive|with accusative|lang=is}} to [[hold]], to [[contain]], to [[take]]
+#: ''Völlurinn '''tekur''' tíu þúsund áhorfenda.''
+#:: The stadium '''holds''' ten thousand spectators.
+
+=====Conjugation=====
+{{is-conj-s6|t|a|k}}
 
 =====Derived terms=====
 * [[endurtaka]]
@@ -116,8 +125,11 @@ From {{etyl|non|is}} {{term|taka|lang=non}}, from {{etyl|gem-pro|is}} {{term/t|g
 *: ''Ég ætla að '''taka''' þáttinn upp.''
 *:: I’m going to '''record''' the show.
 
+=====Related terms=====
+* {{l|is|tak}}
+
 ===Etymology 2===
-From the verb {{term|taka}}.
+From the verb {{term|taka|lang=is}}.
 
 ====Noun====
 {{is-noun|f|töku|tökur}}
@@ -129,6 +141,9 @@ From the verb {{term|taka}}.
 
 =====Declension=====
 {{is-decl-noun-f-w1|t|a|k|n=?}}
+
+===Etymology 3===
+Inflected form of {{term|tak||grip, grasp|lang=is}}.
 
 ====Noun====
 {{is-noun form}} {{g|n}}
