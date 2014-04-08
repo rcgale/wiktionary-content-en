@@ -140,14 +140,14 @@ Inflection of [[á#Icelandic|á]]
 
 ==Irish==
 
-===Pronunciation===
-* {{IPA|lang=ga|[ɑːɾˠ]|[əɾˠ]|[ə]}}
-
 ===Etymology 1===
 From {{etyl|sga|ga}} {{term|ar|lang=sga}}, from {{etyl|cel-pro|ga}} {{term/t|cel-pro|*anserom}}, from {{etyl|ine-pro|ga}} {{term/t|ine-pro|*n̥serōm}}, from *''nes-'' (“we, us”); compare German {{term|unser||lang=de}}.
 
-====Pronoun====
-{{head|ga|pronoun|possessive}} {{qualifier|triggers [[Appendix:Irish mutations#Eclipsis|eclipsis]] on the following word}}
+====Pronunciation====
+* {{IPA|lang=ga|[ɑːɾˠ]|[əɾˠ]|[ə]}}
+
+====Determiner====
+{{head|ga|possessive determiner}} {{qualifier|triggers [[Appendix:Irish mutations#Eclipsis|eclipsis]] on the following word}}
 
 # [[our]]
 #: {{usex|'''ár''' dteach|t=our house|lang=ga|inline=1}}
@@ -156,10 +156,31 @@ From {{etyl|sga|ga}} {{term|ar|lang=sga}}, from {{etyl|cel-pro|ga}} {{term/t|cel
 ===Etymology 2===
 From {{etyl|sga|ga}} {{term/t|sga|ár||slaughter}}, from {{etyl|cel-pro|ga}} {{term/t|cel-pro|*agro-}}.
 
+====Pronunciation====
+* {{IPA|lang=ga|[ɑːɾˠ]}}
+
 ====Noun====
 {{ga-noun|áir|-|g=m}}
 
 # [[slaughter]], [[carnage]]
+# [[havoc]], [[destruction]]
+
+====Declension====
+{{ga-decl-m1-nopl|á|r|ir}}
+
+===Etymology 3===
+From {{etyl|fr|ga}} {{term/t|fr|are}}, from {{etyl|la|ga}} {{term/t|la|area}}.
+
+====Pronunciation====
+* {{IPA|lang=ga|[ɑːɾˠ]}}
+
+====Noun====
+{{ga-noun|áir|áir|g=m}}
+
+# [[are]] {{gloss|unit of area equal to 100 square metres}}
+
+====Declension====
+{{ga-decl-m1|á|r|ir}}
 
 ===References===
 * {{R:Dinneen}}
