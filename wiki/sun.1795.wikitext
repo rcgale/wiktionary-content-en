@@ -37,7 +37,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Aramaic:
 *: Hebrew: {{t|arc|שמשא|tr=šimšā’|c}}
 *: Syriac: {{t|arc|ܫܡܫܐ|tr=šimšā’|c}}
-* Armenian: {{t+|hy|արև|tr=arev}}, {{t|hy|արեգ|tr=areg}}, {{t|hy|արեգակ|tr=aregak}}
+* Armenian: {{t+|hy|արև}}, {{t|hy|արեգ}}, {{t|hy|արեգակ}}
 * Aromanian: {{t|rup|soare}}
 * Assamese: {{t|as|সূৰ্য|tr=surjô|sc=Beng}}
 * Asturian: {{t+|ast|sol|m}}
@@ -50,13 +50,13 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Bashkir: {{t|ba|ҡояш|sc=Cyrl}}
 * Basque: {{t|eu|ekia}}, {{t|eu|eguzkia}}
 * Baure: {{t|brg|ses}}
-* Belarusian: {{t+|be|сонца|n|tr=sónca|sc=Cyrl}}
+* Belarusian: {{t+|be|со́нца|n}}
 * Bengali: {{t|bn|সূর্য|tr=surjô|sc=Beng}}
 * Berber:
 *: Tashelhit: {{t|shi|tafukt|f}}
 * Breton: {{t+|br|heol|m}}
-* Bulgarian: {{t+|bg|слънце|n|tr=slǎ̀nce|sc=Cyrl}}
-* Burmese: {{t+|my|နေ|tr=nei|sc=Mymr}}, {{qualifier|formal}} {{t|my|သူရီယ|sc=Mymr}}, {{qualifier|poetic}} {{t+|my|ရဝိန်|sc=Mymr}}, {{qualifier|literary}} {{t+|my|သူရကန်|sc=Mymr}}, {{qualifier|literary}} {{t+|my|ဥဏှဂူ|sc=Mymr}}
+* Bulgarian: {{t+|bg|слъ̀нце|n}}
+* Burmese: {{t+|my|နေ|tr=ne|sc=Mymr}}, {{qualifier|formal}} {{t|my|သူရီယ|tr=suriya.}}, {{qualifier|poetic}} {{t+|my|ရဝိန်|tr=rawin}}, {{qualifier|literary}} {{t+|my|သူရကန်|tr=sura.kan}}, {{qualifier|literary}} {{t+|my|ဥဏှဂူ|tr=u.hna.gu}}
 * Cahuilla: {{t|chl|támit}} (Mountain dialect), {{t|chl|támyat}} (Desert dialect)
 * Catalan: {{t+|ca|sol|m}}
 * Central Atlas Tamazight: {{t|tzm|ⵜⴰⴼⵓⴽⵜ|tr=tafukt}}
@@ -94,7 +94,8 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Georgian: {{t|ka|მზე|tr=mze|sc=Geor}}
 * German: {{t+|de|Sonne|f}}
 * Gothic: {{t|got|𐍃𐌿𐌽𐌽𐍉|f|tr=sunno|sc=Goth}}
-* Greek: {{t+|el|ήλιος|m|tr=ílios}}
+* Greek: {{t+|el|ήλιος|m}}
+*: Ancient Greek: {{t|grc|ἥλιος|m}}
 * Guaraní: {{t|gn|kuarahy}}
 * Gujarati: {{t+|gu|સૂર્ય|tr=Surya|sc=Gujr}}
 * Haitian Creole: {{t|ht|solèy}}
@@ -111,6 +112,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * {{trreq|ia}}
 * {{trreq|ie}}
 * Irish: {{t+|ga|grian|f}}
+*: Old Irish: {{t|sga|grían|f}}
 * Istro-Romanian: {{t|ruo|sore}}
 * Italian: {{t+|it|sole|m}}
 * Japanese: {{t+|ja|太陽|tr=[[たいよう]], taiyō}}, {{t+|ja|日|tr=[[ひ]], hi}}
@@ -138,9 +140,9 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Luo: {{t|luo|chíeng'}}
 * Luxembourgish: {{t+|lb|Sonn|f}}
 * Maasai: {{t|mas|engalong}}
-* Macedonian: {{t|mk|сонце|n|tr=sónce|sc=Cyrl}}
+* Macedonian: {{t|mk|сонце|n}}
 * Malay:
-*: Rumi: {{t+|ms|matahari}}, {{t|ms|mentari}}, {{t|ms|suria}}, {{t|ms|rawi}}, {{t|ms|syamsi}} / {{t|ms|syamsu}}
+*: Rumi: {{t+|ms|matahari}}, {{t|ms|mentari}}, {{t|ms|suria}}, {{t|ms|rawi}}, {{t|ms|syamsi}}, {{t|ms|syamsu}}
 *: Jawi: {{t|ms|ماتاهاري|sc=Arab}}, {{t|ms|منتاري|sc=Arab}}, {{t|ms|سوريا|sc=Arab}}, {{t|ms|راوي|sc=Arab}}, {{t|ms|شمس|sc=Arab}}
 * Malayalam: {{t|ml|സൂര്യന്‍|tr=sūryan|sc=Mlym}}
 * Maltese: {{t+|mt|xemx|m}}
@@ -165,9 +167,8 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * O'odham: {{t|ood|tash}}
 * Occitan: {{t+|oc|solelh|m}}
 * Ojibwe: {{t|oj|giizis}}
-* Old Church Slavonic: {{t|cu|слъньцє|n|tr=slŭnĭce|sc=Cyrs}}
+* Old Church Slavonic: {{t|cu|слъньцє|n}}
 * Old English: {{t|ang|sunne|f}}
-* Old Irish: {{t|sga|grían|f}}
 * Oriya: {{t|or|ସୂର୍ଯ୍ୟ|sc=Orya|tr=sūryẏa}}
 * Oromo: {{t+|om|aduu}}
 * Ossetian: {{t|os|хур|sc=Cyrl}}
@@ -185,9 +186,9 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Rajasthani: {{t|raj|सूरज}}
 * Romanian: {{t+|ro|soare|m}}
 * Romansch: {{t|rm|sulegl}}, {{t|rm|sulagl}}, {{t|rm|sulai}}
-* Russian: {{t+|ru|солнце|n|tr=sólnce}} (''the [[л]] is silent'')
+* Russian: {{t+|ru|со́лнце|n|tr=sólnce}}
 * Sanskrit: {{t+|sa|सूर्य|tr=sūrya|sc=Deva}}, {{t|sa|रवि|tr=ravi|sc=Deva}}, {{t|sa|आदित्य|tr=āditya|sc=Deva}}
-* Sardinian: {{t|sc|sole}}, {{l|sc|sobi}}, {{l|sc|soi}}, {{l|sc|soli}}
+* Sardinian: {{t|sc|sole}}, {{t|sc|sobi}}, {{t|sc|soi}}, {{t|sc|soli}}
 * Scots: {{t|sco|sun}}
 * Scottish Gaelic: {{t|gd|grian|f}}
 * Serbo-Croatian:
@@ -199,6 +200,9 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Slovak: {{t|sk|slnko|n}}
 * Slovene: {{t+|sl|sonce|n}}
 * {{trreq|so}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|słyńco|n}}
+*: Upper Sorbian: {{t|hsb|słónco|n}}
 * Spanish: {{t+|es|sol|m}}
 * Swahili: {{t+|sw|jua}}
 * Swedish: {{t+|sv|sol|c}}
@@ -214,7 +218,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Turkish: {{t+|tr|güneş}}
 * Turkmen: {{t|tk|gün}}, {{t|tk|гүн|sc=Cyrl}}, {{t|tk|güneş}}
 * Tuvan: {{t|tyv|хүн|tr=khün}}
-* Ukrainian: {{t+|uk|сонце|n|tr=sónce|sc=Cyrl}}
+* Ukrainian: {{t+|uk|со́нце|n}}
 * Urdu: {{t|ur|سوریہ|m|tr=sūrya|sc=ur-Arab}}, {{t|ur|سورج|m|tr=sūraj|sc=ur-Arab}}, {{t|ur|خورشید|m|tr=xurśed|sc=ur-Arab}}, {{t|ur|روی|m|tr=ravi|sc=ur-Arab}}
 * Uzbek: {{t+|uz|quyosh}}, {{t|uz|қуёш|sc=Cyrl}}
 * Venetian: {{t|vec|sołe}}
