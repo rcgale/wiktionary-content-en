@@ -109,7 +109,7 @@ From {{etyl|enm|en}} {{term|win|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|w�
 * Bengali: {{t|bn|মদ|tr=mad}}
 * Breton: {{t+|br|gwin|m}}
 * Bulgarian: {{t+|bg|ви́но|n}}
-* Burmese: {{t+|my|ဝိုင်|tr=waing|sc=Mymr}}
+* Burmese: {{t+|my|ဝိုင်|tr=wuing|sc=Mymr}}
 * Catalan: {{t+|ca|vi|m}}
 * Central Melanau: {{t|mel|wain}}
 * Chechen: {{t|ce|чагӏар}}
@@ -137,7 +137,7 @@ From {{etyl|enm|en}} {{term|win|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|w�
 * German: {{t+|de|Wein|m}}
 * Gothic: {{t|got|𐍅𐌴𐌹𐌽|n|tr=wein|sc=Goth}}
 * Greek: {{t+|el|κρασί|n}}
-*: Ancient: {{t|grc|οἶνος|m}}
+*: Ancient Greek: {{t|grc|οἶνος|m}}
 *: Mycenaean: {{t|gmy|𐀺𐀜|tr=wo-no|sc=Linb}}
 * Greenlandic: {{t|kl|viinni}}
 * Gujarati: {{t|gu|વાઇન|m|tr=vā'ina}}
@@ -148,9 +148,10 @@ From {{etyl|enm|en}} {{term|win|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|w�
 * Hungarian: {{t+|hu|bor}}
 * Icelandic: {{t+|is|vín|n}}, {{t|is|víndrykkur|m}}
 * Ido: {{t+|io|vino}}
-* Indonesian: {{t+|id|anggur}}, {{l|id|minum|minuman}} {{l|id|anggur}}
+* {{ttbc|id}}: {{t+|id|anggur}}, {{t|id|[[minum|minuman]] [[anggur]]}} <!-- was "[[minum|minuman]] [[anggur]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Interlingua: {{t|ia|vino}}
 * Irish: {{t|ga|fíon|m}}
+*: Old Irish: {{t|sga|fín|n}}
 * Istriot: {{t|ist|veîn}}
 * Istro-Romanian: {{t|ruo|vir}}
 * Italian: {{t+|it|vino|m}}
@@ -175,7 +176,7 @@ From {{etyl|enm|en}} {{term|win|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|w�
 * Lojban: {{t|jbo|vanju}}
 * Luxembourgish: {{t|lb|Wäin|m}}
 * Lycian: {{t|xlc|oino|sc=Lyci}}
-* Macedonian: {{t|mk|ви́но|n}}
+* Macedonian: {{t|mk|вино|n}}
 * Malay: {{t|ms|wain}}
 * Maltese: {{t|mt|inbid|m|}}
 * Manx: {{t|gv|feeyn|m}}
@@ -190,10 +191,8 @@ From {{etyl|enm|en}} {{term|win|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|w�
 * Norwegian: {{t+|no|vin}}
 * Novial: {{t|nov|vine}}
 * Occitan: {{t+|oc|vin|m}}
-* Old Church Slavonic: {{t|cu|вино|n|tr=vino|sc=Cyrs}}
+* Old Church Slavonic: {{t|cu|вино|n}}
 * Old English: {{t|ang|wīn|n}}, {{t|ang|wīndrync|m}}
-* Old French: {{t|fro|vin|m}}
-* Old Irish: {{t|sga|fín|n}}
 * Old Norse: {{t|non|vín|n}}
 * {{trreq|or}}
 * Persian: {{t+|fa|می|tr=may}}, {{t+|fa|شراب|tr=šarâb}}
@@ -213,6 +212,9 @@ From {{etyl|enm|en}} {{term|win|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|w�
 * Sinhalese: {{t|si|වයින්|sc=Sinh}}
 * Slovak: {{t|sk|víno|n}}
 * Slovene: {{t+|sl|vino|n}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|wino|n}}
+*: Upper Sorbian: {{t|hsb|wino|n}}
 * Sotho: {{t|st|vene}}
 * Spanish: {{t+|es|vino|m}}
 * Swahili: {{t+|sw|divai}}, {{t+|sw|mvinyo}}
