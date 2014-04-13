@@ -120,12 +120,31 @@ From {{etyl|la|en}} {{term|comma|lang=la}}, from {{etyl|grc|en}} {{term|κόμμ
 ==Latin==
 
 ===Etymology===
-From {{etyl|grc|la}} {{term|κόμμα|tr=komma|lang=grc}}, from {{term|κόπτω||I cut|tr=koptō|lang=grc}}.
+From the {{etyl|grc|la}} {{term|κόμμα|lang=grc}}, from {{term|κόπτω||I cut|lang=grc}}.
+
+===Pronunciation===
+* {{a|Classical}} {{IPA|/ˈkom.ma/|[ˈkõ.ma]|lang=la}}
 
 ===Noun===
-{{head|la|noun}}
+{{la-noun|comma||commatis|n|third}}
 
-# [[piece]], [[section]]
+# {{label|la|in|_|grammar}}:
+## a {{l/en|comma}} {{gloss|a {{l/en|division}}, {{l/en|member}}, {{n-g|or|lang=la}} {{l/en|section}} of a {{l/en|period}} smaller than a {{l/en|colon}}|lang=la}}
+## a comma {{gloss|a mark of punctuation|lang=la}}
+# {{label|la|in|_|verse}} a {{l/en|caesura}}
+
+====Declension====
+{{la-decl-3rd-N|comma|commat}}
+
+====Usage notes====
+* In the works of {{w|Cicero}} and {{w|Quintilian}}, the untransliterated Greek {{term|κόμμα|lang=grc}} is used for {{term||comma|lang=la}} in the grammatical sense of “a division…of a period smaller than a colon”.
+
+====Synonyms====
+* {{sense|comma: division of a period}} {{l|la|incīsum}} {{qual|pure Latin}}
+
+===References===
+* {{R:L&S|comma}}
+* {{R:Gaffiot|comma|p=348/3}}
 
 [[az:comma]]
 [[de:comma]]
