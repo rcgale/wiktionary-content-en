@@ -11,6 +11,28 @@
 {{en-noun}}
 
 # {{context|computing|lang=en}} A program that produces its own [[source code]] as output.
+#* '''1994''', John David Regehr, ''[//groups.google.com/d/msg/comp.lang.misc/-dR-TMoB3S4/CMfGrs1MzwQJ a quine in C++?]'', comp.lang.misc, Usenet
+#*: This has been bugging me recently. Any '''quines''' or pointers to relevant articles or web pages is appreciated. Thanks!
+#* '''1999''', Gergo Barany, ''[//groups.google.com/d/msg/comp.lang.c/EHioEFXMN_A/4BtmxcV_dlAJ Re: CC hack?]'', comp.lang.c, Usenet
+#*: There was also a quine thread here in comp.lang.c just days ago, search deja.com (the thread's title was something about self-printing programs, I think).
+#* '''2002''', Clinton Pierce, ''Perl Developer's Dictionary'', Sams Publishing (ISBN 9780672320675), page 269
+#*: Most '''quines''' are notoriously difficult (and fiendish) to write. Perl can cheat, though. :)
+#* '''2003''', Arthur J. O'Dwyer, ''[//groups.google.com/d/msg/comp.lang.c/mERds_qS6wg/vYrezr0rWqoJ Re: "A to Z of C"]'', comp.lang.c, Usenet
+#*: Why have a one-page chapter that doesn't say anything?  At the least, you should present a quine program written in pure ISO C (I can send you one if you like); {{...}}
+#* '''2004''', David Darling, ''The Universal Book of Mathematics: From Abracadabra to Zeno's Paradoxes'', John Wiley & Sons (ISBN 9780471667001), page 264
+#*: Although writing a '''quine''' is not always easy, and in fact may seem impossible, it can always be done in any programming language that is Turing complete (see Turing machine), which includes every programming language actually in use.
+#* '''2005''', Simon Cozens, ''Advanced Perl Programming'', O'Reilly Media (ISBN 9781449378912), page 260
+#*: SelfGOL can reproduce itself; it can turn other programs into a '''quine'''; it can display a scrolling banner; it plays the Game of Life; and it contains no (ordinary) loops, goto statements, or if statements. Control flow is done, well, interestingly.
+#* '''2008''', Uwe Seifert, Jin-hyun Kim, Anthony Moore, ''Paradoxes of Interactivity: Perspectives for Media Theory, Human-computer Interaction, and Artistic Investigations'', transcript Verlag (ISBN 9783899428421), page 179
+#*:  Yet from a different perspective, it describes the process of producing this very code; in other words, it is because object- and meta-language interrelate that makes a '''quine''' difficult; in less reflective programs, where means and ends are more separate, this difficulty is not so obvious.
+#* '''2009''', Mike Ash, [//groups.google.com/d/msg/rec.arts.sf.written/tN-qCzPjCAE/7Uowd0MXCmUJ Re: 406 Not Acceptable (was Re: "--All You Zombies--" title)], rec.arts.sf.written, Usenet
+#*: Gee, last time I wrote a '''quine''' in Lisp it ended up being kind of difficult...
+#* '''2011''', Antoine Amarilli et al., "Can Code Polymorphism Limit Information Leakage?", ''Information Security Theory and Practice: Security and Privacy of Mobile Devices in Wireless Communication'' (edited by Claudio Agostino Ardagna, Jianying Zhou), Springer (ISBN 9783642210396), page 14
+#*: The solution is to make a '''quine''' that is also a λ-expression (instead of a list of statements). This is possible, thanks to S-expressions. The way the '''quine''' works relies on the fact that its code is a list of statements and that the last one can take a list of the previous ones as arguments.
+#* '''2012''', Pietro Liò, Dinesh Verma, ''Biologically Inspired Networking and Sensing: Algorithms and Architectures'', IGI Global Snippet (ISBN 9781613500934)
+#*: '''Quines''' exist for any programming language that is Turing complete and it is a common challenge for students to come up with a '''Quine''' in their language of choice. The '''Quine''' Page provides a comprehensive list of such programs in various languages.
+#* '''2013''', Brian, ''[//groups.google.com/d/msg/talk.religion.buddhism/Denn9TZywdo/edWL0Sat5cwJ Re: "Mountains will be Mountains"]'', talk.religion.buddhism, Usenet
+#*: Upon receiving a "QUINE" request by the client, the server will first send a 01 OK response, and will then provide the client with a '''quine''' in the programming language used to implement the server.
 
 ====Translations====
 {{trans-top|program that outputs its own source code}}
