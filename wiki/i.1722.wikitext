@@ -1529,24 +1529,15 @@ From {{etyl|la|wa}} {{term|illos|lang=la}} (accusative plural of {{term|ille|lan
 # that
 #: {{usex|[[bod#cy|Maen]] [[nhw#cy|nhw]][[yn#cy|'n]] [[dweud#cy|dweud]] '''iddi''' hi [[yfed#cy|yfed]] [[gormod#cy|gormod]] [[o#cy|o]] [[cwrw#cy|gwrw]]|They say that she drank too much beer|inline=1|lang=cy}}
 
-{| class="wikitable"
-|-
-!
-!Singular
-!Plural
-|-
-!First person
-| {{l|cy|iddof}}, i {{l|cy|mi}}
-| {{l|cy|iddom}}, i {{l|cy|ni}}
-|-
-!Second person
-| {{l|cy|iddot}}, i {{l|cy|ti}}
-| {{l|cy|iddoch}}, i {{l|cy|chi}}
-|-
-!Third person
-| {{l|cy|iddo}} ({{l|cy|ef}}) {{g|m}}<br/>{{l|cy|iddi}} ({{l|cy|hi}}) {{g|f}}
-| {{l|cy|iddynt}}, {{l|cy|iddyn nhw}}
-|}
+{{cy-personal-prop
+|1s={{l/cy|iddof}}, i {{l/cy|mi}}
+|2s={{l/cy|iddot}}, i {{l/cy|ti}}
+|3s-m={{l/cy|iddo}} ({{l/cy|ef}})
+|3s-f={{l/cy|iddi}} ({{l/cy|hi}})
+|1pl={{l/cy|iddom}}, i {{l/cy|ni}}
+|2pl={{l/cy|iddoch}}, i {{l/cy|chi}}
+|3pl={{l/cy|iddynt}}, {{l/cy|iddyn}} {{l/cy|nhw}}
+}}
 
 ====See also====
 * {{l|cy|bod}}
