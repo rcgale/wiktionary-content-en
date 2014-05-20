@@ -25,8 +25,8 @@ From {{etyl|fr|en}} {{term|analyste|lang=fr}}
 * Finnish: {{t+|fi|analyytikko}}
 * French: {{t+|fr|analyste|m}}
 * German: {{t+|de|Analytiker|m}}
-* Greek: {{t+|el|αναλυτής|m}} (analitís), {{t+|el|αναλύτρια|f}} (analítria)
-* Italian: [[analista]] {{g|m}}/{{g|f}}
+* Greek: {{t+|el|αναλυτής|m|tr=analitís}}, {{t+|el|αναλύτρια|f|tr=analítria}}
+* Italian: {{t|it|analista|m|f}}
 {{trans-mid}}
 * Japanese: {{t+|ja|アナリスト|tr=anarisuto}}
 * Latvian: {{t|lv|analītiķis|m}}
@@ -34,7 +34,7 @@ From {{etyl|fr|en}} {{term|analyste|lang=fr}}
 * Persian: {{t+|fa|تحلیلگر|tr=tahlilgar|sc=fa-Arab}}
 * Polish: {{t+|pl|analityk|m}}
 * Portuguese: {{t|pt|analista|m}}
-* Romanian: {{t|ro|analist|m}}, [[analist|analistă]] {{g|f}}
+* {{ttbc|ro}}: {{t|ro|analist|m}}, {{t|ro|analist|f|alt=analistă}} <!-- was "[[analist|analistă]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Russian: {{t+|ru|аналитик|m|tr=analítik}}
 * Scottish Gaelic: {{t|gd|mion-sgrùdair|m}}
 * Serbo-Croatian: {{t|sh|analitičar|m}}
@@ -48,8 +48,8 @@ From {{etyl|fr|en}} {{term|analyste|lang=fr}}
 * Greek: {{t+|el|αναλυτής|m}} (analitís), {{t+|el|αναλύτρια|f}} (analítria)
 * Japanese: {{t|ja|システムアナリスト|tr=shisutemu anarisuto}}
 {{trans-mid}}
-* Portuguese: [[analista]] (de [[sistemas]]) {{g|m}} and {{g|f}}
-* Romanian: [[analist]] [[de]] [[sistem|sisteme]] {{g|m}}
+* {{ttbc|pt}}: {{t|pt|[[analista]] (de [[sistemas]])|m|f}}
+* {{ttbc|ro}}: {{t|ro|[[analist]] [[de]] [[sistem|sisteme]]|m}} <!-- was "[[analist]] [[de]] [[sistem|sisteme]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Serbo-Croatian: {{t|sh|analitičar|m}}
 * Spanish: {{t|es|analista de sistemas|m|f}}
 {{trans-bottom}}
@@ -58,7 +58,7 @@ From {{etyl|fr|en}} {{term|analyste|lang=fr}}
 * Dutch: {{t|nl|psycho-analist|m}}, {{t|nl|psycho-analiste|f}}
 * Finnish: {{t+|fi|psykoanalyytikko}}
 * French: {{t+|fr|analyste|m}}, {{t+|fr|psychanalyste|m}}
-* Italian: [[analista]] {{g|m}}/{{g|f}}, [[psicanalista]] {{g|m}}/{{g|f}}
+* Italian: {{t|it|analista|m}}, {{g|f}}, {{t|it|psicanalista|m|f}}
 * Japanese: {{t|ja|精神分析学者|tr=せいしんぶんせきがくしゃ, seishinnbunsekigakusha}}
 {{trans-mid}}
 * Polish: {{t|pl|psychoanalityk|m}}
@@ -70,15 +70,15 @@ From {{etyl|fr|en}} {{term|analyste|lang=fr}}
 
 {{trans-top|chemical, financial or business analyst}}
 * French: {{t+|fr|analyste|m}}
-* Greek: {{t+|el|αναλυτής|m}} (analitís), {{t+|el|αναλύτρια|f}} (analítria)
+* Greek: {{t+|el|αναλυτής|tr=analitís|m}}, {{t+|el|αναλύτρια|tr=analítria|f}}
 {{trans-mid}}
 * Serbo-Croatian: {{t|sh|analitičar|m}}
 * Spanish: {{t|es|analista|m|f}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ia}}: [[analysta]], [[analysator]]
-* {{ttbc|pt}}: [[analista]] ([[financeiro]]) {{g|m}}
+* {{ttbc|ia}}: {{t|ia|analysta}}, {{t|ia|analysator}}
+* {{ttbc|pt}}: {{t|pt|[[analista]] ([[financeiro]])|m}}
 {{trans-mid}}
 
 {{trans-bottom}}
