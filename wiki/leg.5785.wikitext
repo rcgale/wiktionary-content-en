@@ -5,21 +5,21 @@
 | width=310
 | labels=
 <!-- Horse -->
-{{ picdiclabel | color=white | fontsize=12 | posx= 20 | posy= 90 | link=knee }}
-{{ picdiclabel | color=black | fontsize=12 | posx= 80 | posy=160 | link=ankle | align=left }}
+{{ picdiclabel | color=white | fontsize=12 | posx= 20 | posy= 90 | link=knee | lang=en }}
+{{ picdiclabel | color=black | fontsize=12 | posx= 80 | posy=160 | link=ankle | align=left | lang=en }}
 <!-- Wolf -->
-{{ picdiclabel | color=white | fontsize=12 | posx=115 | posy=100 | link=knee | align=left }}
-{{ picdiclabel | color=black | fontsize=12 | posx=165 | posy=170 | link=ankle | align=left }}
+{{ picdiclabel | color=white | fontsize=12 | posx=115 | posy=100 | link=knee | align=left | lang=en }}
+{{ picdiclabel | color=black | fontsize=12 | posx=165 | posy=170 | link=ankle | align=left | lang=en }}
 <!-- Human -->
-{{ picdiclabel | color=black | fontsize=12 | posx=260 | posy= 35 | link=hip }}
-{{ picdiclabel | color=black | fontsize=12 | posx=260 | posy= 80 | link=thigh }}
-{{ picdiclabel | color=black | fontsize=12 | posx=260 | posy=130 | link=knee }}
-{{ picdiclabel | color=black | fontsize=12 | posx=275 | posy=180 | link=calf | anchor=#Etymology 2 }}
-{{ picdiclabel | color=black | fontsize=12 | posx=270 | posy=235 | link=ankle | align=left }}
-{{ picdiclabel | color=black | fontsize=12 | posx=240 | posy=220 | link=foot | align=right }}
+{{ picdiclabel | color=black | fontsize=12 | posx=260 | posy= 35 | link=hip | lang=en }}
+{{ picdiclabel | color=black | fontsize=12 | posx=260 | posy= 80 | link=thigh | lang=en }}
+{{ picdiclabel | color=black | fontsize=12 | posx=260 | posy=130 | link=knee | lang=en }}
+{{ picdiclabel | color=black | fontsize=12 | posx=275 | posy=180 | link=calf | anchor=#Etymology 2 | lang=en }}
+{{ picdiclabel | color=black | fontsize=12 | posx=270 | posy=235 | link=ankle | align=left | lang=en }}
+{{ picdiclabel | color=black | fontsize=12 | posx=240 | posy=220 | link=foot | align=right | lang=en }}
 | detail1=Click on labels in the image
 | detail2=
-{{ picdicimg | link=limb }}
+{{ picdicimg | link=limb | lang=en }}
 }}
 
 ===Alternative forms===
@@ -29,11 +29,11 @@
 From {{etyl|enm|en}} {{term|leg|lang=enm}}, from {{etyl|non|en}} {{term|leggr||leg, calf, bone of the arm or leg, hollow tube, stalk|lang=non}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*lagjaz}}, {{m|gem-pro|*lagwijaz||leg, thigh}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*(ǝ)lak-}}, {{m|ine-pro|*lēk-||leg; the main muscle of the arm or leg}}. Cognate with {{etyl|sco|-}} {{term|leg||leg|lang=sco}}, {{etyl|is|-}} {{term|leggur||leg, limb|lang=is}}, Norwegian {{term|legg||leg|lang=no}}, Swedish {{term|lägg||leg, shank, shaft|lang=sv}}, Danish {{term|læg||leg|lang=da}}, {{etyl|lng|-}} {{term|lagi||thigh, shank, leg|lang=lng}}, {{etyl|la|-}} {{term|lacertus||limb, arm|lang=la}}, Persian {{term|لنگ|tr=leng|lang=fa}}.
 
 ===Pronunciation===
-* {{a|UK|US}} {{IPA|/lɛɡ/}}
-* {{a|some US dialects}} {{IPA|/leɪg/}}<ref>{{R:Merriam Webster Online|leg}}</ref>
+* {{a|UK|US}} {{IPA|/lɛɡ/|lang=en}}
+* {{a|some US dialects}} {{IPA|/leɪg/|lang=en}}<ref>{{R:Merriam Webster Online|leg}}</ref>
 * {{audio|En-uk-leg.ogg|Audio (UK)|lang=en}}
 * {{audio|en-us-leg.ogg|Audio (US)|lang=en}}
-* {{rhymes|ɛɡ}}
+* {{rhymes|ɛɡ|lang=en}}
 
 ===Noun===
 {{en-noun}}
