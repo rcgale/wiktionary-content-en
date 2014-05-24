@@ -5,15 +5,15 @@
 | image=Color circle (hue-sat).png
 | width=310
 | labels=
-{{ picdiclabel | color=FF0000 | fontsize=18 | posx=100 | posy= 60 | link=red | align=left }}
-{{ picdiclabel | color=FFA500 | fontsize=18 | posx=100 | posy= 80 | link=orange | align=left }}
-{{ picdiclabel | color=FFFF00 | fontsize=18 | posx=100 | posy=100 | link=yellow | align=left }}
-{{ picdiclabel | color=7FFF00 | fontsize=18 | posx=100 | posy=120 | link=green | align=left }}
-{{ picdiclabel | color=0000FF | fontsize=18 | posx=100 | posy=140 | link=blue | align=left }}
-{{ picdiclabel | color=8F00FF | fontsize=18 | posx=100 | posy=160 | link=violet | align=left }}
-{{ picdiclabel | color=000000 | fontsize=18 | posx=100 | posy=180 | link=black | align=left }}
-{{ picdiclabel | color=2F4F4F | fontsize=18 | posx=100 | posy=200 | link=gray | align=left }}
-{{ picdiclabel | color=FFFFFF | fontsize=18 | posx=100 | posy=220 | link=white | align=left }}
+{{ picdiclabel | color=FF0000 | fontsize=18 | posx=100 | posy= 60 | link=red | align=left | lang=en }}
+{{ picdiclabel | color=FFA500 | fontsize=18 | posx=100 | posy= 80 | link=orange | align=left | lang=en }}
+{{ picdiclabel | color=FFFF00 | fontsize=18 | posx=100 | posy=100 | link=yellow | align=left | lang=en }}
+{{ picdiclabel | color=7FFF00 | fontsize=18 | posx=100 | posy=120 | link=green | align=left | lang=en }}
+{{ picdiclabel | color=0000FF | fontsize=18 | posx=100 | posy=140 | link=blue | align=left | lang=en }}
+{{ picdiclabel | color=8F00FF | fontsize=18 | posx=100 | posy=160 | link=violet | align=left | lang=en }}
+{{ picdiclabel | color=000000 | fontsize=18 | posx=100 | posy=180 | link=black | align=left | lang=en }}
+{{ picdiclabel | color=2F4F4F | fontsize=18 | posx=100 | posy=200 | link=gray | align=left | lang=en }}
+{{ picdiclabel | color=FFFFFF | fontsize=18 | posx=100 | posy=220 | link=white | align=left | lang=en }}
 | detail1=Click on labels in the image
 }}
 
@@ -26,10 +26,10 @@
 In the US, the spelling ''color'' is used to match the spelling of the word's Latin etymon{{,}} and to make all derivatives consistent (''colorimeter'', ''colorize'', ''colorless'', etc). Elsewhere in the English-speaking world, the spelling ''colour'' has been retained.
 
 ===Pronunciation===
-* {{a|UK}} {{enPR|kŭl'ə(r)}}, {{IPA|/ˈkʌl.ə(ɹ)/}}
-* {{a|US}} {{enPR|kŭl'ər}}, {{IPA|/ˈkʌl.ɚ/}}
+* {{a|UK}} {{enPR|kŭl'ə(r)}}, {{IPA|/ˈkʌl.ə(ɹ)/|lang=en}}
+* {{a|US}} {{enPR|kŭl'ər}}, {{IPA|/ˈkʌl.ɚ/|lang=en}}
 * {{audio|en-us-color.ogg|Audio (US)|lang=en}}
-* {{rhymes|ʌlə(ɹ)}}
+* {{rhymes|ʌlə(ɹ)|lang=en}}
 
 ===Noun===
 {{en-noun|~}} {{tcx|American spelling|lang=en}}
