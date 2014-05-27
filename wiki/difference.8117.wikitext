@@ -37,7 +37,8 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|difference||lang=fro}}, from {
 #*: That now be chooseth with vile '''difference''' / To be a beast, and lack intelligence.
 # {{context|heraldry|lang=en}} An addition to a [[coat of arms]] to distinguish two people's [[bearing]]s which would otherwise be the same. See [[augmentation]] and [[cadency]].
 # {{cx|logic|lang=en}} The quality or attribute which is added to those of the [[genus]] to constitute a [[species]]; a [[differentia]].
-# {{cx|logic|lang=en}} A [[Boolean]] operation which is [[TRUE]] when the first input variable is TRUE AND the second is [[FALSE]] but is otherwise FALSE.
+# {{cx|logic circuits|lang=en}} A [[Boolean]] operation which is [[TRUE]] when the two input variables are different but is otherwise FALSE; the [[XOR]] operation (<math>\scriptstyle A \overline B + \overline A B</math>).
+# {{cx|relational algebra|lang=en}} the set of elements that are in one set but not another (<math>\scriptstyle A \overline B</math>).
 
 ====Synonyms====
 * {{sense|characteristic of something that makes it different from something else}} [[departure]], [[deviation]], [[divergence]]
