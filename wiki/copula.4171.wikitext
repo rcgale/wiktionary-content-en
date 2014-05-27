@@ -1,9 +1,9 @@
 {{also|cópula}}
 ==English==
-{{wikipedia|copula}}
+{{wikipedia}}
 
 ===Etymology===
-Borrowed from {{etyl|la|en}} {{term|lang=la|copula||bond, tie}}. See there for details.
+{{borrowing|la|lang=en}} {{term|copula||bond, tie|lang=la}}, which see.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/ˈkɒpjʊlə/|lang=en}}
@@ -11,15 +11,29 @@ Borrowed from {{etyl|la|en}} {{term|lang=la|copula||bond, tie}}. See there for d
 
 ===Noun===
 {{en-noun|s|copulae}}
+{{examples-right|sense=''grammar''|examples=''The night sky '''is''' black.<br>She '''was''' a good teacher.<br>The burning log '''turns''' black.''}}
 
-# {{context|grammar|lang=en}} A [[word]] used to link the [[subject]] of a sentence with a [[predicate]] (usually a subject [[complement]] or an [[adverbial]]); it serves to [[unite]] (or associate) the subject with the predicate. (e.g. [[be]]).
+# {{context|linguistics|grammar|lang=en}} A [[word]], usually a verb, used to link the [[subject]] of a sentence with a [[predicate]] (usually a subject [[complement]] or an [[adverbial]]), that [[unite]]s or associates the subject with the predicate.
+#* '''1994''', Randall Hendrick, ''8: The Brythonic Celtic '''copula''' and head raising'', David Lightfoot, Norbert Hornstein (editors), ''Verb Movement'', [http://books.google.com.au/books?id=TQe85SBpNDoC&pg=PA163&dq=%22copula%22%7C%22copulas%22%7C%22copulae%22&hl=en&sa=X&ei=omKEU6abE4OfkwXBqYGAAQ&redir_esc=y#v=onepage&q=%22copula%22%7C%22copulas%22%7C%22copulae%22&f=false page 163],
+#*: I begin by arguing in section 2 that there are in fact at least two Celtic '''copulas''', a grammatical '''copula''' that simply spells out tense and agreement, and a substantive '''copula''' formed on a lexically listed verbal stem.
+#* '''2003''', Giuliano Bernini, ''The '''copula''' in learner Italian: Finiteness and verbal inflection'', Christine Dimroth, Marianne Starren (editors), ''Information Structure and the Dynamics of Language Acquisition'', [http://books.google.com.au/books?id=0EwtC36IPhwC&pg=PA159&dq=%22copula%22%7C%22copulas%22%7C%22copulae%22&hl=en&sa=X&ei=omKEU6abE4OfkwXBqYGAAQ&redir_esc=y#v=onepage&q=%22copula%22%7C%22copulas%22%7C%22copulae%22&f=false page 159],
+#*: This paper explores the position of the '''copula''' in the development of the verb system in second language acquisition of Italian.
+#* '''2006''', Christine Czinglar, Antigone Katiĉić, Katharina Köhler, Chris Schaner-Wolles, ''Strategies in the L1-Acquisition of Predication: The '''Copula''' Construction in German and Croatian'', Natalia Gagarina, Insa Gülzow (editors), [http://books.google.com.au/books?id=r1K7gi3K-20C&pg=PA95&dq=%22copula%22%7C%22copulas%22%7C%22copulae%22&hl=en&sa=X&ei=omKEU6abE4OfkwXBqYGAAQ&redir_esc=y#v=onepage&q=%22copula%22%7C%22copulas%22%7C%22copulae%22&f=false page 95],
+#*: The present study focuses on the acquisition of a specific verbal element, namely the '''copula''', in predicative constructions in a cross-linguistic perspective (English, German, Croatian).
 # {{context|statistics|lang=en}} A [[function]] that represents the [[association]] between two or more [[variable]]s, [[independent]] of the [[individual]] [[marginal]] [[distribution]]s of the variables.<!--This is encyclopedic: Sklar’s theorem states this is always possible, and if the marginal distributions are continuous, then the copula is unique. Basically, the copula density plots the quantiles of the variable against each other, and the copula C(x1,x2,…)=Integral from (0,0,0…) to (X1=x1,X2=x2,…) of the copula density. The copula is always a number between zero and one. If the marginals are Gaussian and you use a Gaussian copula, you get a correlation.-->
 #* {{quote-news|year=2009|date=March 10|author=Dennis Overbye|title=Mathematical Model and the Mortgage Mess|work=New York Times|url=http://www.nytimes.com/2009/03/10/science/10qside.html
-|passage=In 2000, David X. Li, a banker with a doctorate in statistics who was then at RiskMetrics, part of J. P. Morgan Chase , began using mathematical functions called Gaussian '''copulas''' to estimate the likelihood of corporations’ dying in unison.}}
-# {{context|music|lang=en}} A device that [[connect]]s two or more [[keyboard]]s of an [[organ]]
+|passage=In 2000, David X. Li, a banker with a doctorate in statistics who was then at RiskMetrics, part of J. P. Morgan Chase, began using mathematical functions called Gaussian '''copulas''' to estimate the likelihood of corporations’ dying in unison.}}
+#* '''2009''', N. Balakrishnan, Chin-Diew Lai, ''Continuous Bivariate Distributions'', [http://books.google.com.au/books?id=bxHmvSziRWwC&pg=PA59&dq=%22copula%22%7C%22copulas%22%7C%22copulae%22&hl=en&sa=X&ei=omKEU6abE4OfkwXBqYGAAQ&redir_esc=y#v=onepage&q=%22copula%22%7C%22copulas%22%7C%22copulae%22&f=false page 59],
+#*: There is little statistical theoretical theory for '''copulas'''. Sensitivity studies of estimation procedures and goodness-of-fit tests for '''copulas''' are unknown.
+#* '''2011''', Julian Shaw, ''Chapter 16: Julian Shaw'', Richard R. Lindsey, Barry Schachter (editors), ''How I Became a Quant: Insights from 25 of Wall Street's Elite'', [http://books.google.com.au/books?id=PI48khRyiN0C&pg=PA240&dq=%22copula%22%7C%22copulas%22%7C%22copulae%22&hl=en&sa=X&ei=MYGEU86cGo6ikgXE2oH4Cg&redir_esc=y#v=onepage&q=%22copula%22%7C%22copulas%22%7C%22copulae%22&f=false page 240],
+#*: '''Copulas''' provide an example of the haphazard evolution of quantitative finance. The key result is Sklar's theorem, which says that one can characterize any multivariate probability distribution by its '''copula''' (which specifies the correlation structure) and its marginal distributions (the conditional one dimensional distributions). Thus one can create multivariate distributions by mixing and matching '''copulas''' and marginal distributions.
+# {{context|music|lang=en}} A device that [[connect]]s two or more [[keyboard]]s of an [[organ]].
 
 ====Synonyms====
 * {{sense|grammar}} [[linking verb]], [[copular]], [[copular verb]]
+
+====Derived terms====
+* [[zero copula]]
 
 ====Related terms====
 {{rel-top|terms related to ''copula''}}
@@ -31,10 +45,6 @@ Borrowed from {{etyl|la|en}} {{term|lang=la|copula||bond, tie}}. See there for d
 * [[copulation]]
 * [[copulative]]
 {{rel-bottom}}
-
-====See also====
-* [[Appendix:List of English copulae]]
-* {{pedialite|Copula (statistics)}}
 
 ====Translations====
 {{trans-top|grammar: linking kind of word}}
@@ -67,9 +77,15 @@ Borrowed from {{etyl|la|en}} {{term|lang=la|copula||bond, tie}}. See there for d
 {{trans-mid}}
 {{trans-bottom}}
 
-====External links====
+===References===
 * {{R:Webster 1913}}
 * {{R:Century 1911}}
+
+===See also===
+* [[Appendix:List of English copulae]]
+* {{pedialite|Copula (linguistics)}}
+* {{pedialite|Copula (probability theory)}}
+* {{pedialite|Copula (music)}}
 
 ===Anagrams===
 * [[coupla#English|coupla]],  [[cupola#English|cupola]],  [[pocula#English|pocula]]
