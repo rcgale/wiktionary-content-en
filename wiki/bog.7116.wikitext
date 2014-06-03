@@ -210,23 +210,37 @@ From {{etyl|fiu-pro|hu}} {{m|fiu-pro|*pengke}} along with Estonian {{term|pung|l
 ===Pronunciation===
 * {{IPA|[bˠɔɡ]|lang=ga}}
 
-===Adjective===
+===Etymology 1===
+From {{etyl|sga|ga}} {{m|sga|boc||soft, gentle, tender; tepid}}.
+
+====Adjective====
 {{head|ga|adjective}}
 
 # [[soft]]
 # [[loose]]
 # [[lukewarm]]
 
-====Declension====
+=====Declension=====
 {{ga-decl-adj-1|bog|boig}}
 
-===Verb===
+=====Derived terms=====
+{{der3|{{l|ga|bog-||soft, mild; nearly; easy}}|
+{{l|ga|casacht bhog||loose cough}}}}
+
+===Etymology 2===
+From {{etyl|sga|ga}} {{m|sga|bocaid||softens, makes soft; moves; shakes}}, from {{m|sga|boc}} {{qualifier|see above}}.
+
+====Verb====
 {{ga-verb|pres=bogann|fut=bogfaidh|vn=bogadh|pp=bogtha}}
 
-# to [[move]]
+# to [[soften]], become [[soft]]
+# to [[move]], [[loosen]]
 
-====Conjugation====
+=====Conjugation=====
 {{ga-conj-1a|b|o|g|broad}}
+
+=====Derived terms=====
+{{der3|{{l|ga|casacht a bhogadh||to loosen a cough}}}}
 
 ===Mutation===
 {{ga mut cons|b|og}}
