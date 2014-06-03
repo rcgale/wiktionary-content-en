@@ -15,16 +15,16 @@ From {{etyl|frm|en}} {{term|predicate|lang=frm}} (French ''[[prédicat]]''), fro
 {{en-noun}}
 
 # {{context|grammar|lang=en}} The part of the sentence (or [[clause]]) which states something about the subject or the object of the sentence.
-#* ''In "The dog barked very loudly", the subject is "the dog" and the '''predicate''' is "barked very loudly".''
+#: ''In "The dog barked very loudly", the subject is "the dog" and the '''predicate''' is "barked very loudly".''
 #* {{quote-book|year=1988|author=Andrew Radford|title=Transformational grammar: a first course|location=Cambridge, UK|publisher=Cambridge University Press|page=438|chapter=8}}
 #*: In the light of this observation, consider Number Agreement in a sentence like:<br> (120) &nbsp;&nbsp;&nbsp;&nbsp; ''They'' seem to me [<sub>S</sub> — to be ''fools''/<sup><small>✽</small></sup>''a fool'']<br> Here, the '''Predicate''' Nominal ''fools'' agrees with the italicised NP ''they'', in spite of the fact that (as we argued earlier) the two are contained in different Clauses at S-structure. How can this be? Under the NP <small>MOVEMENT</small> analysis of ''seem'' structures, sentences like (120) pose no problem; if we suppose that ''they'' originates in the — position as the subordinate Clause Subject, then we can say that the '''Predicate''' Nominal agrees with the ''underlying'' Subject of its Clause. How does ''they'' get from its underlying position as subordinate Clause Subject to its superficial position as main Clause Subject? By NP <small>MOVEMENT</small>, of course!
 # {{context|logic|lang=en}} A term of a [[statement]], where the statement may be true or false depending on whether the thing referred to by the [[value]]s of the statement's [[variable]]s has the property signified by that (predicative) term.
-#* ''A nullary '''predicate''' is a proposition.  Also, an instance of a '''predicate''' whose terms are all constant &mdash; e.g., P(2,3) &mdash; acts as a proposition.
-#* ''A '''predicate''' can be thought of as either a relation (between elements of the domain of discourse) or as a truth-valued function (of said elements).''
-#* ''A '''predicate''' is either valid, satisfiable, or unsatisfiable.''
-#* ''There are two ways of binding a <b>predicate</b>'s variables: one is to assign constant values to those variables, the other is to quantify over those variables (using universal or existential quantifiers).  If all of a <b>predicate</b>'s variables are bound, the resulting formula is a proposition.''
+#: ''A nullary '''predicate''' is a proposition. Also, an instance of a '''predicate''' whose terms are all constant &mdash; e.g., P(2,3) &mdash; acts as a proposition.
+#: ''A '''predicate''' can be thought of as either a relation (between elements of the domain of discourse) or as a truth-valued function (of said elements).''
+#: ''A '''predicate''' is either valid, satisfiable, or unsatisfiable.''
+#: ''There are two ways of binding a '''predicate''''s variables: one is to assign constant values to those variables, the other is to quantify over those variables (using universal or existential quantifiers). If all of a '''predicate''''s variables are bound, the resulting formula is a proposition.''
 #* {{quote-book|year=1988|author=Andrew Radford|title=Transformational grammar: a first course|location=Cambridge, UK|publisher=Cambridge University Press|page=323|chapter=6}}
-#*: Thus, in (121) (a) ''persuade'' is clearly a ''three-place <b>Predicate</b>'' — that is, a '''Predicate''' which takes three Arguments: the first of these Arguments is the Subject NP ''John'', the second is the Primary Object NP ''Mary'', and the third is the Secondary Object S-bar [''that she should resign'']. By contrast, ''believe'' in (121) (b) is clearly a ''two-place <b>Predicate</b>'' (i.e. a '''Predicate''' which has two Arguments): its first Argument is the Subject NP ''John'', and its second Argument is the Object S-bar [''that Mary was innocent''].
+#*: Thus, in (121) (a) ''persuade'' is clearly a ''three-place '''Predicate''''' — that is, a '''Predicate''' which takes three Arguments: the first of these Arguments is the Subject NP ''John'', the second is the Primary Object NP ''Mary'', and the third is the Secondary Object S-bar [''that she should resign'']. By contrast, ''believe'' in (121) (b) is clearly a ''two-place '''Predicate''''' (i.e. a '''Predicate''' which has two Arguments): its first Argument is the Subject NP ''John'', and its second Argument is the Object S-bar [''that Mary was innocent''].
 # {{context|computing|lang=en}} An [[operator]] or [[function]] that returns either true or false.
 
 =====Derived terms=====
@@ -37,7 +37,7 @@ From {{etyl|frm|en}} {{term|predicate|lang=frm}} (French ''[[prédicat]]''), fro
 =====Translations=====
 {{trans-top|grammar}}
 * Arabic: {{t|ar|خبر|m|tr=khábar}}
-* Armenian: {{t|hy|ստո­րոգ­յալ|sc=Armn}}
+* Armenian: {{t|hy|ստորոգյալ|sc=Armn}}
 * Bulgarian: {{t+|bg|сказуемо|n|tr=skazuemo}}
 * Chinese:
 *: Mandarin: {{t|cmn|謂語|sc=Hani}}, {{t+|cmn|谓语|tr=wèiyǔ|sc=Hani}}, {{t+|cmn|述語|sc=Hani}}, {{t+|cmn|述语|tr=shùyǔ|sc=Hani}}
@@ -97,10 +97,13 @@ From {{etyl|la|en}} {{term|praedicatus|predicātus|lang=la}}, perfect passive pa
 # {{context|transitive|lang=en}} To [[announce]] or [[assert]] publicly.
 # {{context|transitive|logic|lang=en}} To [[state]], [[assert]].
 # {{context|transitive|lang=en}} To [[suppose]], [[assume]]; to [[infer]].
-#* '''1859:''' There was a character about Madame Defarge, from which one might have '''predicated''' that she did not often make mistakes against herself in any of the reckonings over which she presided. — Charles Dickens, ''A Tale of Two Cities''
-#* '''1881:''' Of anyone else it would have been said that she must be finding the afternoon rather dreary in the quaint halls not of her forefathers:  but of Miss Power it was unsafe to '''predicate''' so surely. — Thomas Hardy, ''A Laodicean''
+#* '''1859''', Charles Dickens, ''A Tale of Two Cities'':
+#*: There was a character about Madame Defarge, from which one might have '''predicated''' that she did not often make mistakes against herself in any of the reckonings over which she presided.
+#* '''1881''', Thomas Hardy, ''A Laodicean'':
+#*: Of anyone else it would have been said that she must be finding the afternoon rather dreary in the quaint halls not of her forefathers: but of Miss Power it was unsafe to '''predicate''' so surely.
 # {{context|transitive|originally US|lang=en}} To [[base]] (on); to assert on the grounds of.
-#* '''1978''': the law is what constitutes both desire and the lack on which it is '''predicated'''. — Michel Foucault, ''The Will to Knowledge'', trans. Robert Hurley (Penguin 1998, p. 81)
+#* '''1978''', Michel Foucault, ''The Will to Knowledge'', trans. Robert Hurley (Penguin 1998, page 81):
+#*: The law is what constitutes both desire and the lack on which it is '''predicated'''.
 
 =====Translations=====
 {{trans-top|to announce or assert publicly}}
