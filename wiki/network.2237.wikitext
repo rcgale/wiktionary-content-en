@@ -63,10 +63,10 @@
 * Arabic: {{t|ar|شَبَكة|tr=šábaka}}
 * Armenian: {{t|hy|ցանց|tr=c’anc’}}
 * Catalan: {{t|ca|xarxa|f}}
-* Chinese: [[網絡]], [[网络]] (wǎngluò), [[網路]], [[网路]] (wǎnglù)
+* Chinese: {{t|zh|網絡|sc=Hani}}, {{t|zh|网络|tr=wǎngluò|sc=Hani}}, {{t|zh|網路|sc=Hani}}, {{t|zh|网路|tr=wǎnglù|sc=Hani}}
 * Czech: {{t+|cs|síť}}
 * Danish: {{t|da|netværk|n}}
-* Dutch: netwerk
+* Dutch: {{t|nl|netwerk}}
 * Finnish: {{t+|fi|verkko}}
 * French: {{t+|fr|réseau|m}}
 * Friulian: {{t|fur|rêt|f}}
@@ -111,7 +111,6 @@
 * Catalan: {{t|ca|xarxa|f}}
 * Czech: {{t+|cs|síť|f}}
 * Danish: {{t|da|netværk|n}}
-* Dutch: meerdere computers en andere apparaten die met elkaar zijn verbonden
 * Finnish: {{t+|fi|verkko}}
 * French: {{t+|fr|réseau informatique|m}}
 * German: {{t+|de|Netzwerk|n}}
@@ -133,24 +132,22 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: [[شبكة]]
-* {{ttbc|sh}}: [[mreža#Bosnian|mreža]] {{g|f}} (1,2)
-* {{ttbc|cmn}}: [[网状系统]] (wang3zhuang4 xi4tong3) {{gloss|of roads, veins}},[[网]] (wang3) {{gloss|TV, radio}}
-* {{ttbc|sh}}: [[mreža#Croatian|mreža]] {{g|f}} (1,2)
-* {{ttbc|de}}: [[Netzwerk]] {{g|n}}
-* {{ttbc|he}}: [[רשת]] {{g|f}}
+* {{ttbc|ar}}: {{t|ar|شبكة|sc=Arab}}
+* {{ttbc|cmn}}: {{t|cmn|网状系统|tr=wang3zhuang4 xi4tong3|sc=Hani}} {{gloss|of roads, veins}}, {{t|cmn|网|tr=wang3|sc=Hani}} {{gloss|TV, radio}}
+* {{ttbc|de}}: {{t|de|Netzwerk|n}}
+* {{ttbc|he}}: {{t|he|רשת|f|sc=Hebr}}
 {{trans-mid}}
-* {{ttbc|id}}: network, [[jaring]]an
-* {{ttbc|no}}: [[nettverk]]
-* {{ttbc|pt}}: [[rede]]
-* {{ttbc|ro}}: [[rețea]] {{g|f}}
+* {{ttbc|id}}: {{t|id|network}}, {{t|id|jaring|alt=jaringan}} <!-- was "[[jaring]]an" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|no}}: {{t|no|nettverk}}
+* {{ttbc|pt}}: {{t|pt|rede}}
+* {{ttbc|ro}}: {{t|ro|rețea|f}}
 * {{ttbc|sh}}:
-*: Cyrillic: [[мрежа#Serbian|мрежа]] {{g|f}} (1,2)
-*: Roman: [[mreža#Serbian|mreža]] {{g|f}} (1,2)
-* {{ttbc|sv}}: ett [[nätverk]] (1,2)
-* {{ttbc|th}}: [[เครือข่าย]]
-* {{ttbc|tr}}: [[Ağ]]
-* {{ttbc|uk}}: [[мережа]] {{g|f}}
+*: Cyrillic: {{t|sh|мрежа|f|sc=Cyrl}}
+*: Roman: {{t|sh|mreža|f|alt=mreža}}
+* {{ttbc|sv}}: {{qualifier|1,2}} {{t|sv|nätverk|alt=ett nätverk}} <!-- was "ett [[nätverk]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|th}}: {{t|th|เครือข่าย|sc=Thai}}
+* {{ttbc|tr}}: {{t|tr|Ağ}}
+* {{ttbc|uk}}: {{t|uk|мережа|f|sc=Cyrl}}
 {{trans-bottom}}
 
 ===Verb===
@@ -165,9 +162,9 @@
 ====Translations====
 {{trans-top|interact socially}}
 * Finnish: {{t|fi|verkottua}}, {{t|fi|verkostoitua}}
-* French: établir un réseau de contacts
+* {{ttbc|fr}}: {{t|fr|[[établir]] [[un]] [[réseau]] [[de]] [[contacts]]}} <!-- was "établir un réseau de contacts" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-mid}}
-* German: sich [[vernetzen]]
+* {{ttbc|de}}: {{t|de|vernetzen|alt=sich vernetzen}} <!-- was "sich [[vernetzen]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Greek: {{t+|el|δικτυώνομαι|tr=diktyónomai|sc=Grek}}
 {{trans-bottom}}
 
@@ -191,7 +188,7 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|fr}}: mettre en réseau (1), construire un réseau, diffuser sur l'ensemble du réseau, [[relier]] (par le réseau) (1), [[parcourir]]
+* {{ttbc|fr}}: {{qualifier|1}} {{t|fr|[[mettre]] [[en]] [[réseau]]}} <!-- was "mettre en réseau" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|fr|[[construire]] [[un]] [[réseau]]}} <!-- was "construire un réseau" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|fr|[[diffuser]] [[sur]] [[l]]}} 'ensemble du réseau <!-- was "diffuser sur l" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{qualifier|par le réseau}} {{t|fr|relier}} (1), {{t|fr|parcourir}}
 * {{ttbc|roa-jer}}: {{t|roa-jer|dranneter}}
 {{trans-bottom}}
 
