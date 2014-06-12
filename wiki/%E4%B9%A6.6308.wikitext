@@ -7,41 +7,32 @@
 ===Han character===
 {{Han char|rn=2|rad=丨|as=03|sn=4|four=|canj=IDS}}
 
-# [[book]]
-
-====See also====
-* {{l|mul|sc=Hani|本}}
-* {{l|mul|sc=Hant|冊}}, {{l|mul|sc=Hans|册}}
-
 ====References====
 * {{Han ref|kx=0084.071|hdz=10052.050|uh=4E66|ud=20070}}
 
 ----
 
-==Cantonese==
-
-===Hanzi===
-{{yue-hanzi|jyut=syu1|y=syu1|tra=書}}
-
-===Noun===
-{{yue-noun|s|jyut=syu1|tra=書|rs=丨03}}
-
-# [[book]]
-
-----
-
-==Mandarin==
+==Chinese==
+{{zh-hanzi-box|[[书]]|[[書]]}}
 
 ===Pronunciation===
-* {{audio|zh-shū.ogg|audio|lang=cmn}}
+{{zh-pron
+|m=shū
+|ma=y
+|c=syu1
+|h=pfs=sû
+|mn=chu/su
+|w=1sr
+|cat=n,v,pn
+}}
 
-===Hanzi===
-{{cmn-hanzi|tra=書|pin=[[qián]] ([[qian2]]), [[shū]] ([[shu1]])|wg=ch'ien<sup>2</sup>, shu<sup>1</sup>}}
-{{defn|lang=cmn|sort=丨03}}
+===Noun===
+{{zh-noun|mw=本|mw2=册|mw3=部}}
 
-# a [[book]], a [[codex]]
+# {{cx|Beginning Mandarin|lang=zh|sort=shu1}} a [[book]], a [[codex]]
 # a collection of [[bamboo]] or [[wooden]] [[slip]]s, the traditional form of records in China
 # a [[letter]], a [[document]]
+# [[style]] of [[calligraphy]], [[script]], [[font]]
 # [[Chinese character]]s
 # the form of a written or printed [[Chinese character]], [[script]], [[font]]
 # the art of [[calligraphy]]
@@ -50,103 +41,97 @@
 # [[storytelling]]
 # the ''[[w:Classic of History|Classic of History]]'', originally known simply as 书
 
-===Noun===
-{{cmn-noun|s|tra=書|pin=shū|pint=shu1}}
-
-# a [[book]], a [[codex]]
-# a [[letter]], a [[document]]
-# [[style]] of [[calligraphy]], [[script]], [[font]]
-
 ===Verb===
-{{cmn-verb|s|tra=書|pin=shū|pint=shu1}}
+{{zh-verb}}
 
 # to [[write]]
 
 ===Proper noun===
-{{cmn-proper-noun|s|tra=書|pin=shū|pint=shu1}}
+{{zh-proper noun}}
 
-# abbreviation of [[书经]] ([[書經]]), the ''[[w:Classic of History|Classic of History]]''
+# abbreviation of {{zh-l|書經/书经}}), the ''[[w:Classic of History|Classic of History]]''
+
 ====Compounds====
-* [[书包]]
-* [[书报]]
-* [[书背]]
-* [[书本]], [[书本儿]]
-* [[书册]]
-* [[书茶馆儿]]
-* [[书场]]
-* [[书痴]]
-* [[书虫]]
-* [[书橱]]
-* [[书呆子]]
-* [[书店]]
-* [[书蠹]]
-* [[书法]]
-* [[书房]]
-* [[书扉]]
-* [[书稿]]
-* [[书格子]]
-* [[书归正传]]
-* [[书柜]]
-* [[书函]]
-* [[书号]], [[书号儿]]
-* [[书画]]
-* [[书会]]
-* [[书籍]]
-* [[书脊]]
-* [[书记]]
-* [[书家]]
-* [[书架]]
-* [[书简]], [[书柬]]
-* [[书局]]
-* [[书卷]]
-* [[书卷气]]
-* [[书刊]]
-* [[书壳]]
-* [[书库]]
-* [[书吏]]
-* [[书录]]
-* [[书眉]]
-* [[书迷]]
-* [[书面]]
-* [[书面语]]
-* [[书名]]
-* [[书名号]]
-* [[书目]]
-* [[书皮]], [[书皮儿]]
-* [[书评]]
-* [[书铺]]
-* [[书签]], [[书签儿]]
-* [[书社]]
-* [[书生]]
-* [[书生气]]
-* [[书市]]
-* [[书塾]]
-* [[书摊]], [[书摊儿]]
-* [[书坛]]
-* [[书套]]
-* [[书体]]
-* [[书亭]]
-* [[书童]]
-* [[书屋]]
-* [[书物]]
-* [[书香]]
-* [[书箱]]
-* [[书写]]
-* [[书心]]
-* [[书信]]
-* [[书页]]
-* [[书院]]
-* [[书斋]]
-* [[书展]]
-* [[书桌]], [[书桌儿]]
-* [[图书馆]] (túshūguǎn)
-
-[[Category:Mandarin entries with audio links]]
+{{der3
+| [[书包]]
+| [[书报]]
+| [[书背]]
+| [[书本]], [[书本儿]]
+| [[书册]]
+| [[书茶馆儿]]
+| [[书场]]
+| [[书痴]]
+| [[书虫]]
+| [[书橱]]
+| [[书呆子]]
+| [[书店]]
+| [[书蠹]]
+| [[书法]]
+| [[书房]]
+| [[书扉]]
+| [[书稿]]
+| [[书格子]]
+| [[书归正传]]
+| [[书柜]]
+| [[书函]]
+| [[书号]], [[书号儿]]
+| [[书画]]
+| [[书会]]
+| [[书籍]]
+| [[书脊]]
+| [[书记]]
+| [[书家]]
+| [[书架]]
+| [[书简]], [[书柬]]
+| [[书局]]
+| [[书卷]]
+| [[书卷气]]
+| [[书刊]]
+| [[书壳]]
+| [[书库]]
+| [[书吏]]
+| [[书录]]
+| [[书眉]]
+| [[书迷]]
+| [[书面]]
+| [[书面语]]
+| [[书名]]
+| [[书名号]]
+| [[书目]]
+| [[书皮]], [[书皮儿]]
+| [[书评]]
+| [[书铺]]
+| [[书签]], [[书签儿]]
+| [[书社]]
+| [[书生]]
+| [[书生气]]
+| [[书市]]
+| [[书塾]]
+| [[书摊]], [[书摊儿]]
+| [[书坛]]
+| [[书套]]
+| [[书体]]
+| [[书亭]]
+| [[书童]]
+| [[书屋]]
+| [[书物]]
+| [[书香]]
+| [[书箱]]
+| [[书写]]
+| [[书心]]
+| [[书信]]
+| [[书页]]
+| [[书院]]
+| [[书斋]]
+| [[书展]]
+| [[书桌]], [[书桌儿]]
+| [[图书馆]]
+}}
 
 ===References===
 * {{cite web
-| url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=書
-| title = 書
+| url = http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=书
+| title = 书
 | work = MDBG English to Chinese dictionary ( Based on CC-CEDICT )
 | language = Mandarin/English
 | accessdate = 2014-02-24}}
