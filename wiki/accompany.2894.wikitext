@@ -65,7 +65,7 @@ From {{etyl|enm|en}} {{term|accompanien|lang=enm}}, from {{etyl|fro|en}} {{term|
 * Persian: {{t+|fa|همراهی کردن|sc=fa-Arab}}
 * Portuguese: {{t+|pt|acompanhar}}
 * Romanian: {{t+|ro|acompania}}, {{t+|ro|însoți}}
-* Russian: {{t+|ru|аккомпанировать|tr=akkompanírovat'|sc=Cyrl}} {{impf}}/{{pf.}}
+* Russian: {{t+|ru|аккомпанировать|tr=akkompanírovat'|sc=Cyrl|impf|pf}}
 * Spanish: {{t+|es|acompañar}}
 * Swedish: {{t+|sv|ackompanjera}}
 {{trans-bottom}}
@@ -105,7 +105,7 @@ From {{etyl|enm|en}} {{term|accompanien|lang=enm}}, from {{etyl|fro|en}} {{term|
 * Italian: {{t+|it|accompagnare}}
 * Persian: {{t|fa|همنوازی کردن|sc=fa-Arab}}
 * Portuguese: {{t+|pt|acompanhar}}
-* Russian: {{t+|ru|аккомпанировать|tr=akkompanírovat'}} {{impf}}/{{pf.}}
+* Russian: {{t+|ru|аккомпанировать|tr=akkompanírovat'}} {{impf}}, {{pf.}}
 * Spanish: {{t+|es|acompañar}}
 * Swedish: {{t+|sv|ackompanjera}}
 {{trans-bottom}}
@@ -124,7 +124,7 @@ From {{etyl|enm|en}} {{term|accompanien|lang=enm}}, from {{etyl|fro|en}} {{term|
 * German: {{t+|de|begleiten}}, {{t|de|geleiten}}
 * Japanese: {{t|ja|連れ立つ|tr=[[つれたつ]], tsuretatsu}}
 * Portuguese: {{t|pt|fazer companhia}}
-* Russian: {{t+|ru|сопровождать|impf|tr=soprovoždátʹ}}, [[следовать]] [[вместе]] (slédovatʹ vméste) {{impf}}
+* {{ttbc|ru}}: {{t+|ru|сопровождать|impf|tr=soprovoždátʹ}}, {{t|ru|[[следовать]] [[вместе]]|impf|tr=slédovatʹ vméste|sc=Cyrl}} <!-- was "[[следовать]] [[вместе]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * ǃXóõ: {{t|nmn|!gàã}}
 {{trans-bottom}}
 
@@ -141,16 +141,16 @@ From {{etyl|enm|en}} {{term|accompanien|lang=enm}}, from {{etyl|fro|en}} {{term|
 
 {{checktrans-top}}
 * {{ttbc|de}}: {{t|de|beiliegen}}
-* {{ttbc|io}}: [[akompanar]]
-* {{ttbc|id}}: [[teman|menemani]]
-* {{ttbc|ia}}: [[accompaniar]]
+* {{ttbc|io}}: {{t|io|akompanar}}
+* {{ttbc|id}}: {{t|id|teman|alt=menemani}} <!-- was "[[teman|menemani]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|ia}}: {{t|ia|accompaniar}}
 * {{ttbc|ga}}: {{t|ga|comóir}}, {{t|ga|tionlaic}}
 {{trans-mid}}
-* {{ttbc|it}}: [[accompagnare]]
-* {{ttbc|ja}}: [[付き添う]] ([[つきそう]], tsukisou)
-* {{ttbc|pt}}: [[acompanhar]]
+* {{ttbc|it}}: {{t|it|accompagnare}}
+* {{ttbc|ja}}: {{t|ja|付き添う|tr=[[つきそう]], tsukisou|sc=Jpan}}
+* {{ttbc|pt}}: {{t|pt|acompanhar}}
 * {{ttbc|sv}}: {{t+|sv|beledsaga}}, {{t|sv|göra sällskap}}, {{t|sv|sälla sig tillhopa}}
-* {{ttbc|tr}}: [[eşlik etmek]]
+* {{ttbc|tr}}: {{t|tr|eşlik etmek}}
 {{trans-bottom}}
 
 [[ar:accompany]]
