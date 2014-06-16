@@ -99,7 +99,7 @@ From {{etyl|enm|en}} {{term|care|lang=enm}}, from {{etyl|ang|en}} {{term|caru|la
 * Bulgarian: {{t+|bg|грижи|p}}
 * Czech: {{t|cs|péče|f}}
 * Danish: {{t|da|omsorg|c}}
-* Finnish: {{t+|fi|hoito}}, {{t|fi|hoiva}}; {{t|fi|hoitotyö}}, {{t|fi|hoivatyö}}; {{t|fi|hoitoala}}, {{t|fi|hoiva-ala}}
+* Finnish: {{t+|fi|hoito}}, {{t|fi|hoiva}}, {{t|fi|hoitotyö}}, {{t|fi|hoivatyö}}, {{t|fi|hoitoala}}, {{t|fi|hoiva-ala}}
 * French: {{t+|fr|soin|m}}
 * German: {{t+|de|Pflege|f}}
 * Hungarian: {{t|hu|törődés}}, {{t+|hu|ápolás}}
@@ -128,10 +128,10 @@ From {{etyl|enm|en}} {{term|care|lang=enm}}, from {{etyl|ang|en}} {{term|caru|la
 
 {{checktrans-top}}
 * {{ttbc|ku}}: {{t+|ku|ئاگا}}
-* {{ttbc|ang}}: [[cearu]] {{g|f}} (1)
+* {{ttbc|ang}}: {{t|ang|cearu|f|tr=1|sc=Latinx}}
 {{trans-mid}}
-* {{ttbc|sh}}: [[briga]], [[nega]], [[skrb]]
-* {{ttbc|sl}}: [[skrb]] {{g|f}} (1), [[briga]] (1)
+* {{ttbc|sh}}: {{t|sh|briga}}, {{t|sh|nega}}, {{t|sh|skrb}}
+* {{ttbc|sl}}: {{qualifier|1}} {{t|sl|skrb|f}}, {{qualifier|1}} {{t|sl|briga}}
 {{trans-bottom}}
 
 =====Quotations=====
@@ -204,12 +204,12 @@ From {{etyl|enm|en}} {{term|caren|lang=enm}}, {{term|carien|lang=enm}}, from {{e
 * Hungarian: {{t+|hu|törődik}}, {{t+|hu|foglalkozik}}
 {{trans-mid}}
 * Italian: {{t+|it|curare}}
-* Japanese: [[世話]]をする ([[せわ]]をする, sewa-o suru), {{t|ja|面倒を見る|tr=mendō-o miru}}
+* {{ttbc|ja}}: {{t|ja|世話|tr=[[せわ]]をする, sewa-o suru|alt=世話をする|sc=Jpan}} <!-- was "[[世話]]をする" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|ja|面倒を見る|tr=mendō-o miru}}
 * Latin: {{t+|la|curo}}
 * Lojban: {{t|jbo|kurji}}
 * Polish: {{t+|pl|opiekować się}}
 * Portuguese: {{t|pt|cuidar de}}
-* Russian: {{t+|ru|заботиться|tr=zabótit'sja}}, {{t+|ru|ухаживать|tr=uxáživat'}}, [[приглядывать]] (prigljádyvat') {{impf}}, [[приглядеть]] (prigljad'ét') {{pf.}}; [[присматривать]] (prismátrivat') {{impf}}, [[присмотреть]] (prismotrét') {{pf.}}
+* Russian: {{t+|ru|заботиться|tr=zabótit'sja}}, {{t+|ru|ухаживать|tr=uxáživat'}}, {{t|ru|приглядывать|impf|tr=prigljádyvat'|sc=Cyrl}}, {{t|ru|приглядеть|pf|tr=prigljad'ét'|sc=Cyrl}}, {{t|ru|присматривать|impf|tr=prismátrivat'|sc=Cyrl}}, {{t|ru|присмотреть|pf|tr=prismotrét'|sc=Cyrl}}
 * Spanish: {{t+|es|cuidar}}
 * Swedish: {{t+|sv|sörja}}, {{t+|sv|vårda}}
 * Turkish: {{t+|tr|bakmak}}, {{t+|tr|ilgilenmek}}
@@ -224,7 +224,7 @@ From {{etyl|enm|en}} {{term|caren|lang=enm}}, {{term|carien|lang=enm}}, from {{e
 
 {{trans-top|to want, politely}}
 * Bulgarian: {{t+|bg|обичам}}
-* Finnish: [[tahtoa|tahtoisitko]] {{qualifier|verb in conditional}}
+* {{ttbc|fi}}: {{qualifier|verb in conditional}} {{t|fi|tahtoa|alt=tahtoisitko}} <!-- was "[[tahtoa|tahtoisitko]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * German: {{t+|de|respektieren}}
 {{trans-mid}}
 * Lojban: {{t+|jbo|djica}}
@@ -232,16 +232,16 @@ From {{etyl|enm|en}} {{term|caren|lang=enm}}, {{term|carien|lang=enm}}, from {{e
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|cmn}}: [[擔心]]/[[担心]], [[關心]]/[[关心]]<sup>1</sup>
-* {{ttbc|id}}: [[rawat|merawat]], [[asuh|mengasuh]], [[bina|membina]], [[peduli]], [[perduli]], [[acuh]]
-* {{ttbc|ja}}: [[面倒見る]] ([[めんどうみる]], mendō-miru)
+* {{ttbc|cmn}}: {{t|cmn|擔心|sc=Hant}}, {{t|cmn|担心|sc=Hans}}, {{t|cmn|關心|sc=Hant}}, {{t|cmn|关心|sc=Hans}} <sup>1</sup>
+* {{ttbc|id}}: {{t|id|rawat|alt=merawat}} <!-- was "[[rawat|merawat]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|id|asuh|alt=mengasuh}} <!-- was "[[asuh|mengasuh]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|id|bina|alt=membina}} <!-- was "[[bina|membina]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|id|peduli}}, {{t|id|perduli}}, {{t|id|acuh}}
+* {{ttbc|ja}}: {{t|ja|面倒見る|tr=[[めんどうみる]], mendō-miru|sc=Jpan}}
 * {{ttbc|ku}}: {{t+|ku|گوێ}}, {{t|ku|گوێدان}}
 {{trans-mid}}
-* {{ttbc|ang}}: [[carian]] (1)
-* {{ttbc|ro}}: [[păsa]]
-* {{ttbc|sh}}: [[skrbiti]] (2)
-* {{ttbc|sl}}: [[skrbeti]] (2)
-* {{ttbc|vi}}: [[để ý]] (đến) (1, 3), [[nuôi]] (2), [[thương]] (in a loving sense)
+* {{ttbc|ang}}: {{t|ang|carian|tr=1|sc=Latinx}}
+* {{ttbc|ro}}: {{t|ro|păsa}}
+* {{ttbc|sh}}: {{qualifier|2}} {{t|sh|skrbiti}}
+* {{ttbc|sl}}: {{qualifier|2}} {{t|sl|skrbeti}}
+* {{ttbc|vi}}: {{qualifier|đến}} {{t|vi|để ý}} (1, 3), {{qualifier|2}} {{t|vi|nuôi}}, {{qualifier|in a loving sense}} {{t|vi|thương}}
 {{trans-bottom}}
 
 ====Statistics====
