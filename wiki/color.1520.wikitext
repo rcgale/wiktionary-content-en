@@ -128,8 +128,8 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 *: Mandarin: {{t+|cmn|色|tr=sè|sc=Hani}}, {{t|cmn|顏色|sc=Hani}}, {{t+|cmn|颜色|tr=yánsè|sc=Hani}}
 * Chuvash: {{t|cv|тӗс|sc=Cyrl}}
 * Coptic:
-*: Bohairic: {{t|cop|ⲁⲟⲩⲁⲛ|m|tr=awan}}
-*: Sahidic: {{t|cop|ⲁⲩⲁⲛ|m|tr=awan}}
+*: {{ttbc|Bohairic}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|cop|ⲁⲟⲩⲁⲛ|m|tr=awan}}
+*: {{ttbc|Sahidic}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|cop|ⲁⲩⲁⲛ|m|tr=awan}}
 * Crimean Tatar: {{t|crh|renk}}, {{t|crh|tüs}}
 * Czech: {{t+|cs|barva|f}}
 * Danish: {{t|da|farve|c}}
@@ -306,8 +306,8 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Greek: {{t+|el|χρώμα|n}}
 {{trans-mid}}
 * Hungarian: {{t|hu|bőrszín}}
-* Japanese: [[肌]]の[[色]] (はだのいろ, hada no iro)
-* Malay: [[warna]] [[kulit]]
+* {{ttbc|ja}}: {{t|ja|[[肌]]の[[色]]|tr=はだのいろ, hada no iro|sc=Jpan}} <!-- was "[[肌]]の[[色]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|ms}}: {{t|ms|[[warna]] [[kulit]]}} <!-- was "[[warna]] [[kulit]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Norwegian: {{t|no|hudfarge|m}}
 * Polish: {{t|pl|kolor skóry|m}}
 * Portuguese: {{t+|pt|cor|f}}
@@ -363,30 +363,30 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|eo}}: [[koloro]]
+* {{ttbc|eo}}: {{t|eo|koloro}}
 * {{ttbc|fr}}: {{t+|fr|couleur|f}}
 * {{ttbc|gl}}: {{t|gl|color}}
-* {{ttbc|gn}}: [[sa'y]]
-* {{ttbc|he}}: [[צבע]] (tséva)
-* {{ttbc|hi}}: [[रंग]] (ra.ng)
-* {{ttbc|io}}: [[koloro]]
-* {{ttbc|id}}: [[warna]], [[rona]]
-* {{ttbc|ia}}: color
+* {{ttbc|gn}}: {{t|gn|sa'y}}
+* {{ttbc|he}}: {{t|he|צבע|tr=tséva|sc=Hebr}}
+* {{ttbc|hi}}: {{t|hi|रंग|tr=ra.ng|sc=Deva}}
+* {{ttbc|io}}: {{t|io|koloro}}
+* {{ttbc|id}}: {{t|id|warna}}, {{t|id|rona}}
+* {{ttbc|ia}}: {{t|ia|color}}
 {{trans-mid}}
-* {{ttbc|ku}}: [[reng]] {{g|m}}, [[gon]] {{g|m}}
+* {{ttbc|ku}}: {{t|ku|reng|m}}, {{t|ku|gon|m}}
 * {{ttbc|la}}: {{t+|la|color|m}}
 * {{ttbc|lv}}: {{t|lv|krāsa|f}}
 * {{ttbc|lt}}: {{t+|lt|spalva|f}}
-* {{ttbc|pa}}: [[ਰੰਗ]] (raṅg)
+* {{ttbc|pa}}: {{t|pa|ਰੰਗ|tr=raṅg|sc=Guru}}
 * {{ttbc|ro}}: {{t+|ro|culoare|f}}
 * {{ttbc|sh}}:
 *: Cyrillic: {{t|sh|боја|f|sc=Cyrl}}, {{t|sh|фарба|f|sc=Cyrl}}
-*: Roman: [[boja#Serbian|boja]] {{g|f}}, [[farba#Serbian|farba]] {{g|f}}
+*: {{ttbc|Roman}}: {{t|sh|boja|f|alt=boja}} <!-- was "[[boja#Serbian|boja]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|sh|farba|f|alt=farba}} <!-- was "[[farba#Serbian|farba]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * {{ttbc|es}}: {{t+|es|color|m}}
 * {{ttbc|sl}}: {{t+|sl|barva|f}}
 * {{ttbc|tr}}: {{t+|tr|renk}}
 * {{ttbc|ur}}: {{t|ur|رنگ|tr=rang}}
-* {{ttbc|vo}}: [[köl]]
+* {{ttbc|vo}}: {{t|vo|köl}}
 * {{ttbc|yi}}: {{t|yi|פאַרבּ|tr=farb}}
 {{trans-bottom}}
 
@@ -403,10 +403,10 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Danish: {{t|da|farve-}}
 * French: {{t|fr|en couleur}}
 * Greek: {{t+|el|έγχρωμος|m|tr=énchromos}}, {{t+|el|χρωματικός|m|tr=chromatikós}}
-* Hebrew: {{t+|he|צבעוני|tr=tziv'ony|m}}, [[צבעונית]] (tziv'onyt) {{g|f}}
+* Hebrew: {{t+|he|צבעוני|tr=tziv'ony|m}}, {{t|he|צבעונית|f|tr=tziv'onyt|sc=Hebr}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|színes}}
-* Japanese: —[[色]][[の]] (—iro no)
+* {{ttbc|ja}}: {{t|ja|—[[色]][[の]]|tr=—iro no|sc=Jpan}} <!-- was "—[[色]][[の]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Portuguese: {{t+|pt|de cor}}
 * Russian: {{t+|ru|цветной|m|tr=cvetnój}}
 * Spanish: {{t|es|en color}} {{qualifier|locution}}
@@ -500,7 +500,7 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Japanese: {{t+|ja|塗る|tr=nuru}}
 * Norwegian: {{t|no|fargelegge}}, {{t+|no|male}}
 * Portuguese: {{t+|pt|colorir}}
-* Russian: {{t+|ru|раскрашивать|tr=raskrášivat'}} {{impf}} {{t+|ru|раскрасить|tr=raskrásit'}} {{pf.}}
+* Russian: {{t+|ru|раскрашивать|tr=raskrášivat'}} {{impf}}, {{t+|ru|раскрасить|tr=raskrásit'}} {{pf.}}
 * Slovene: {{t|sl|narisati}}
 * Spanish: {{t+|es|colorear}}
 * Swedish: {{t+|sv|måla}}, {{t+|sv|färglägga}}
@@ -543,7 +543,7 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|amu}}: [[kolô]]
+* {{ttbc|amu}}: {{t|amu|kolô}}
 {{trans-mid}}
 * {{ttbc|fa}}: {{t+|fa|رنگ کردن|tr=rang kardan}}, {{t+|fa|رزیدن|tr=razidan}}
 {{trans-bottom}}
