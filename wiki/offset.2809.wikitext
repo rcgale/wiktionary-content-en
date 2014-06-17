@@ -13,6 +13,8 @@ From {{prefix|off|set|lang=en}}, used to construct the noun form of the verb {{t
 # {{anchor|4}} A [[printing]] method, in which [[ink]] is carried from a metal [[plate]] to a rubber [[blanket]] and from there to the printing surface.
 # {{anchor|5}} {{context|programming|lang=en}} The difference between a target memory address and a base address.
 #: ''An array of bytes uses its index as the '''offset''', of words a multiple thereof.''
+# {{context|signal analysis|lang=en}} The displacement between the base level of a measurement and the signal's real base level.
+#: ''The raw signal data was subjected to a baseline correction process to subtract the sensor's '''offset''' and drift variations.''
 # {{anchor|6}} The [[distance]] by which one thing is out of [[alignment]] with another.
 #: ''There is a small '''offset''' between the switch and the indicator which some users found confusing''.
 # {{context|surveying|lang=en}} A short distance measured at right angles from a line actually run to some point in an irregular boundary, or to some object.
