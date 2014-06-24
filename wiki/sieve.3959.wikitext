@@ -50,7 +50,7 @@ From {{etyl|ang|en}} {{term|sife|lang=ang}}, {{etyl|gem-pro|en}} {{m|gem-pro|*si
 * Basque: {{t|eu|bahe}}
 * Belarusian: {{t|be|рэшата|n|tr=réšata|sc=Cyrl}}, {{t|be|сіта|n|tr=síta|sc=Cyrl}}
 * Bulgarian: {{t|bg|решето|n|tr=rešéto|sc=Cyrl}}, {{t+|bg|сито|n|tr=síto|sc=Cyrl}}
-* Catalan: {{qualifier|for solids}} {{t|ca|garbell|m}}, {{t|ca|sedàs|m}}, {{qualifier|for liquids}} {{t|ca|colador|m}}
+* Catalan: {{context|from solids}} {{t|ca|garbell|m}}, {{t|ca|sedàs|m}}, {{context|from liquids}} {{t|ca|colador|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|篩子|sc=Hani}}, {{t+|cmn|筛子|tr=shāizi|sc=Hani}}
 * Czech: {{t+|cs|síto|n}}, {{t+|cs|řešeto|n}}
@@ -59,7 +59,7 @@ From {{etyl|ang|en}} {{term|sife|lang=ang}}, {{etyl|gem-pro|en}} {{m|gem-pro|*si
 * Esperanto: {{t|eo|kribrilo}}
 * Estonian: {{t|et|sõel}}
 * Finnish: {{t|fi|seula}}, {{t+|fi|siivilä}}
-* French: {{t+|fr|tamis|m}}, {{t+|fr|crible|m}}, {{t+|fr|passoire|m}} {{qualifier|for cooking}}
+* French: {{t+|fr|tamis|m}}, {{t+|fr|crible|m}}, {{t+|fr|passoire|m}} {{context|for cooking}}
 * Georgian: {{t|ka|საცერი|tr=sac'eri|sc=Geor}}
 * German: {{t+|de|Sieb|n}}
 * Greek: {{t+|el|κόσκινο|n|tr=kóskino}}
@@ -89,7 +89,7 @@ From {{etyl|ang|en}} {{term|sife|lang=ang}}, {{etyl|gem-pro|en}} {{m|gem-pro|*si
 *: Roman: {{t+|sh|sito|n}}, {{t+|sh|rešeto|n}}
 * Slovak: {{t+|sk|sito|n}}, {{t|sk|rešeto|n}}
 * Slovene: {{t|sl|rešêto|n}}
-* Spanish: {{t+|es|tamiz|m}} {{qualifier|for solids}}, {{t+|es|colador|m}} {{qualifier|for liquids}}, {{t+|es|cedazo|m}}
+* Spanish: {{t+|es|cedazo|m}}, {{context|from solids}} {{t+|es|criba|f}}, {{t+|es|tamiz|m}}, {{context|from liquids}} {{t+|es|colador|m}}
 * Swahili: {{t+|sw|kichujio}}
 * Swedish: {{t+|sv|såll|n}}
 * Turkish: {{t+|tr|süzgeç}}
