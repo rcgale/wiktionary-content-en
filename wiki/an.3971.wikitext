@@ -449,16 +449,18 @@ From {{etyl|fr|ht}} {{term|an||year|lang=fr}}
 From {{etyl|sga|ga}} {{term|in|lang=sga}}.
 
 ===Pronunciation===
-* {{IPA|lang=ga|[ənˠ]}}; between consonants {{IPAchar|[ə]}}
+* {{sense|article}} {{IPA|lang=ga|[ənˠ]}}; between consonants {{IPAchar|[ə]}}
+* {{sense|preverbal particle}} {{IPA|[ə]|lang=ga}}
+* {{sense|copular particle}} {{IPA|[ənˠ]|lang=ga}}; before {{m|ga|é}}, {{m|ga|ea}}, {{m|ga|í}}, {{m|ga|iad}} {{IPAchar|[ə.n̠ʲ-]}}
 
 ===Article===
 {{head|ga|article}}
 
 # [[the]]
-#: {{usex|'''an''' t-uisce|t=the water|lang=ga|inline=1}}
-#: {{usex|'''an''' bhean|t=the woman|lang=ga|inline=1}}
-#: {{usex|'''an''' pháiste|t=of the child|lang=ga|inline=1}}
-#: {{usex|ag '''an''' gcailín/ag '''an''' chailín|t=at the girl|lang=ga|inline=1}}
+#: {{ux|ga|'''an''' t-uisce|the water|inline=1}}
+#: {{ux|ga|'''an''' bhean|the woman|inline=1}}
+#: {{ux|ga|'''an''' pháiste|of the child|inline=1}}
+#: {{ux|ga|ag '''an''' gcailín/ag '''an''' chailín|at the girl|inline=1}}
 
 ====Declension====
 {| class=wikitable
@@ -468,19 +470,19 @@ From {{etyl|sga|ga}} {{term|in|lang=sga}}.
 ! Plural
 |-
 ! Nominative/accusative
-| [[an]]<sup>T</sup>
-| [[an]]<sup>L</sup>
-| {{l/ga|na}}<sup>H</sup>
+| {{l-self|ga|an}}<sup>T</sup>
+| {{l-self|ga|an}}<sup>L</sup>
+| {{l-self|ga|na}}<sup>H</sup>
 |-
 ! Genitive
-| [[an]]<sup>L</sup>
-| {{l/ga|na}}<sup>H</sup>
-| {{l/ga|na}}<sup>N</sup>
+| {{l-self|ga|an}}<sup>L</sup>
+| {{l-self|ga|na}}<sup>H</sup>
+| {{l-self|ga|na}}<sup>N</sup>
 |-
 ! Dative
-| (ag) [[an]]<sup>DM</sup>
-| (ag) [[an]]<sup>DF</sup>
-| {{l/ga|na}}<sup>H</sup>
+| {{lang|ga|(ag)}} {{l-self|ga|an}}<sup>DM</sup>
+| {{lang|ga|(ag)}} {{l-self|ga|an}}<sup>DF</sup>
+| {{l-self|ga|na}}<sup>H</sup>
 |-
 | colspan=4| DF: triggers {{ga-mut-link|e}} or {{ga-mut-link|l}} depending on dialect; no lenition of ''d, t''; changes ''s'' to ''ts'' (pronounced like ''t'')<br/>DM: triggers {{ga-mut-link|e}} or {{ga-mut-link|l}} depending on dialect; no lenition of ''d, t, s''<br/>H: triggers {{ga-mut-link|h}}<br/>L: triggers {{ga-mut-link|l}} except of ''d, t''; changes ''s'' to ''ts'' (pronounced like ''t'')<br/>N: triggers {{ga-mut-link|e}}<br/>T: triggers {{ga-mut-link|t}} of a vowel
 |}
@@ -489,18 +491,18 @@ From {{etyl|sga|ga}} {{term|in|lang=sga}}.
 {{head|ga|interrogative particle}} {{qualifier|triggers {{ga-mut-link|e}}; takes the dependent form of irregular verbs if available; not used in the past tense except of some irregular verbs}}
 
 # {{non-gloss definition|Used to form direct and indirect questions}}
-#: {{usex|'''An''' bhfuil tú ag éisteacht?|t=Are you listening?|lang=ga|inline=1}}
-#: {{usex|Níl a fhios agam '''an''' bhfuil sé anseo.|t=I don't know if/whether he is here.|lang=ga|inline=1}}
+#: {{ux|ga|'''An''' bhfuil tú ag éisteacht?|Are you listening?|inline=1}}
+#: {{ux|ga|Níl a fhios agam '''an''' bhfuil sé anseo.|I don’t know if/whether he is here.|inline=1}}
 
 ====Related terms====
-* {{l/ga|ar}} {{qualifier|used in the past tense of regular and some irregular verbs}}
+* {{l|ga|ar}} {{qualifier|used in the past tense of regular and some irregular verbs}}
 
 ===Particle===
 {{head|ga|interrogative particle}}
 
 # {{non-gloss definition|used to introduce copular questions, both direct and indirect, in the present/future tense}}
-#: {{usex|'''An''' maith leat bainne?|t=Do you like milk?|lang=ga}}
-#: {{usex|Níl a fhios agam '''an''' é Conchúr a chonaic mé.|t=I don't know if it's Connor whom I saw.|lang=ga}}
+#: {{ux|ga|'''An''' maith leat bainne?|Do you like milk?}}
+#: {{ux|ga|Níl a fhios agam '''an''' é Conchúr a chonaic mé.|I don’t know if it’s Connor whom I saw.}}
 
 ====Related terms====
 {{ga-copular forms}}
