@@ -330,7 +330,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Hindi: {{t|hi|सूरज|m|tr=sūraj}}, {{t|hi|ख़्वुरशेद|m|tr=khurśed}}, {{t|hi|रवि|m|tr=ravi}}, {{t+|hi|सूर्य|m|tr=sūrya}}
 * Hungarian: {{t+|hu|Nap}}
 * Irish: {{t+|ga|grian|f}}
-* Japanese: {{qualifier|general}} {{t+|ja|太陽|tr=taiyō}}; {{qualifier|astronomy}} {{t+|ja|恒星|tr=kōsei}}, {{t+|ja|日|tr=ひ, hi}}
+* Japanese: {{qualifier|general}} {{t+|ja|太陽|tr=taiyō}}, {{qualifier|astronomy}} {{t+|ja|恒星|tr=kōsei}}, {{t+|ja|日|tr=ひ, hi}}
 * Kamasau: {{t|kms|nginy}}
 * Khmer: {{t+|km|អាទិត្យ|tr=aatɨt|sc=Khmr}}
 * Korean: {{t+|ko|해|sc=Hang}}, {{t+|ko|태양|sc=Hang}}, {{t+|ko|일|sc=Hang}}
@@ -361,7 +361,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Scottish Gaelic: {{t|gd|grian|f}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|сунце|n|sc=Cyrl}}
-*: Roman: [[sunce]] {{g|n}}
+*: Roman: {{t|sh|sunce|n}}
 * Slovak: {{t|sk|slnko|n}}
 * Slovene: {{t|sl|sónce|n}}
 * Sotho: {{t+|st|letsatsi}}
@@ -392,12 +392,12 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Greek: {{t+|el|ήλιος|m|tr=ílios}}
 * Hebrew: {{t+|he|שֶׁמֶשׁ|m|f|tr=shémesh|sc=Hebr}}
 * Hungarian: {{t+|hu|napfény}}
-* Japanese: {{qualifier|light}} {{t|ja|太陽光|tr=taiyō-kō}}, {{t+|ja|日光|tr=nikkō}}; {{qualifier|heat}} {{t|ja|太陽熱|tr=taiyō-netsu}}
+* Japanese: {{qualifier|light}} {{t|ja|太陽光|tr=taiyō-kō}}, {{t+|ja|日光|tr=nikkō}}, {{qualifier|heat}} {{t|ja|太陽熱|tr=taiyō-netsu}}
 * Novial: {{t|nov|sune}}
 {{trans-mid}}
 * Pashto: {{t+|ps|لمر|m|tr=lmar|sc=ps-Arab}}
 * Persian: {{t+|fa|آفتاب|tr=âftâb}}
-* Polish: {{t+|pl|słońce|n}}, [[promienie]] [[słoneczne]], [[światło]] [[słoneczne]]
+* Polish: {{t+|pl|słońce|n}}, {{t|pl|[[promienie]] [[słoneczne]]}}, {{t|pl|[[światło]] [[słoneczne]]}}
 * Portuguese: {{t+|pt|sol|m}}
 * Romanian: {{t+|ro|soare|m}}
 * Russian: {{t+|ru|солнце|n|tr=sónce}}
@@ -432,7 +432,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Finnish: {{t+|fi|auringonnousu}}, {{t+|fi|auringonlasku}}
 * Greek: {{qualifier|sunrise}} {{t+|el|ανατολή|f|tr=anatolí}}, {{qualifier|sunset}} {{t+|el|δύση|f|tr=dýsi}}
 * Hindi: {{t|hi|सूर्योदय एवं सूर्यास्त|n|tr=suryoday and suryaast}}
-* Japanese: {{qualifier|sunrise}} {{t|ja|日の出|tr=hi no de}}; {{qualifier|dawn}} {{t|ja|夜明け|tr=yoake}}; {{qualifier|sunset}} {{t|ja|日の入|tr=hi no iri}}
+* Japanese: {{qualifier|sunrise}} {{t|ja|日の出|tr=hi no de}}, {{qualifier|dawn}} {{t|ja|夜明け|tr=yoake}}, {{qualifier|sunset}} {{t|ja|日の入|tr=hi no iri}}
 {{trans-mid}}
 * Portuguese: {{t|pt|[[nascer do sol|nascer]]/[[pôr do sol]]|m}}
 * Romanian: {{t+|ro|răsărit|n}}, {{t+|ro|asfințit|n}}
@@ -444,66 +444,66 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 {{checktrans-top}}
 * {{ttbc|dv}}: {{t|dv|އިރު|sc=Thaa|tr=iru}}
 * {{ttbc|sq}}: {{t+|sq|diell|m}}
-* {{ttbc|ale}}: [[aĝadgix]]
-* {{ttbc|ar}}: {{l|ar|شمس}} (shams) {{g|f}}
-* {{ttbc|eu}}: [[eguzki]]
-* {{ttbc|br}}: {{t+|br|heol|m}}, heolioù {{g|p}}
-* {{ttbc|bg}}: [[слънце]] (sləntse) {{g|n}}
-* {{ttbc|cmn}}: [[日]] (rì), [[太阳]] / [[太陽]] (tàiyáng), [[阳光]] (yángguāng), [[恒星]] (héngxīng)
-* {{ttbc|ckt}}: [[terki]]
+* {{ttbc|ale}}: {{t-check|ale|aĝadgix}}
+* {{ttbc|ar}}: {{t-check|ar|شمس|f|tr=shams|sc=Arab}}
+* {{ttbc|eu}}: {{t-check|eu|eguzki}}
+* {{ttbc|br}}: {{t+|br|heol|m}}, {{t-check|br|heolioù|p}}
+* {{ttbc|bg}}: {{t-check|bg|слънце|n|tr=sləntse|sc=Cyrl}}
+* {{ttbc|cmn}}: {{t-check|cmn|日|tr=rì|sc=Hani}}, {{t-check|cmn|太阳|sc=Hani}}, {{t-check|cmn|太陽|tr=tàiyáng|sc=Hani}}, {{t-check|cmn|阳光|tr=yángguāng|sc=Hani}}, {{t-check|cmn|恒星|tr=héngxīng|sc=Hani}}
+* {{ttbc|ckt}}: {{t-check|ckt|terki|sc=Cyrl}}
 * {{ttbc|eo}}: {{t+|eo|suno}}
 * {{ttbc|de}}: {{t+|de|Sonne|f}}
 * {{ttbc|grc}}: {{t|grc|ἥλιος|m|tr=ílios|sc=polytonic}}
 * {{ttbc|el}}: {{t+|el|ήλιος|m|tr=ílios}}
-* {{ttbc|gn}}: [[kuarahy]]
-* {{ttbc|ha}}: [[rānā]]
-* {{ttbc|haw}}: [[la#Hawaiian|la]]
-* {{ttbc|he}}: [[שמש]] (shémesh) {{g|m|f}}, [[חמה]] (ĥamma) {{g|f}}
-* {{ttbc|hi}}: [[सूरज]] (sūraj) {{g|m}}
-* {{ttbc|is}}: [[sól]]
-* {{ttbc|io}}: [[suno]]
+* {{ttbc|gn}}: {{t-check|gn|kuarahy}}
+* {{ttbc|ha}}: {{t-check|ha|rānā}}
+* {{ttbc|haw}}: {{t-check|haw|la}}
+* {{ttbc|he}}: {{t-check|he|שמש|m|f|tr=shémesh|sc=Hebr}}, {{t-check|he|חמה|f|tr=ĥamma|sc=Hebr}}
+* {{ttbc|hi}}: {{t-check|hi|सूरज|m|tr=sūraj|sc=Deva}}
+* {{ttbc|is}}: {{t-check|is|sól}}
+* {{ttbc|io}}: {{t-check|io|suno}}
 : {{ttbc|su}}: [[panonpoe]] (from [[panon]] and [[poe]])
-* {{ttbc|ia}}: [[sol]]
-* {{ttbc|iu}}: [[siqiniq]]
-** Inuinnaqtun: [[hiqiniq]]
-* {{ttbc|ik}}: [[siqiniq]] [[mazaq]]
-* {{ttbc|zai}}: [[gubidxa]]
+* {{ttbc|ia}}: {{t-check|ia|sol}}
+* {{ttbc|iu}}: {{t-check|iu|siqiniq|sc=Cans}}
+*: {{ttbc|Inuinnaqtun}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: [[hiqiniq]]
+* {{ttbc|ik}}: {{t-check|ik|[[siqiniq]] [[mazaq]]}} {{attention|ik|2=was "[[siqiniq]] [[mazaq]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
+* {{ttbc|zai}}: {{t-check|zai|gubidxa}}
 * {{ttbc|it}}: {{t+|it|sole|m}}
-* {{ttbc|itl}}: [[lach]]
+* {{ttbc|itl}}: {{t-check|itl|lach|sc=Cyrl}}
 * {{ttbc|ko}}: {{t+|ko|해|sc=Hang}}, {{t+|ko|태양|sc=Hang}}, {{t+|ko|일|sc=Hang}}
-* {{ttbc|ku}}: [[roj]], [[tav]], {{t+|ku|هه‌تاو}}, {{t+|ku|خۆر}}, {{t+|ku|رۆژ}}
-* {{ttbc|la}}: [[sol]] {{g|m}}
+* {{ttbc|ku}}: {{t-check|ku|roj}}, {{t-check|ku|tav}}, {{t+|ku|هه‌تاو}}, {{t+|ku|خۆر}}, {{t+|ku|رۆژ}}
+* {{ttbc|la}}: {{t-check|la|sol|m}}
 * {{ttbc|lt}}: {{t+|lt|saulė|f}}
 {{trans-mid}}
-* {{ttbc|mk}}: [[сонце]] (sontse) {{g|n}}
-* {{ttbc|mg}}: [[masoandro]]
-* {{ttbc|mt}}: [[xemx]] {{g|f}}
-* {{ttbc|mi}}: [[rā]]
-* {{ttbc|arn}}: [[aṉtü|antü]], [[antv]]
-* {{ttbc|mr}}: [[सूर्य]] (sūrya)
-* {{ttbc|mas}}: [[ndama]]
-* {{ttbc|mn}}: [[нар]] (nar)
-* {{ttbc|nah}}: [[tonalli]]
-* {{ttbc|nio}}: [[jale]]
+* {{ttbc|mk}}: {{t-check|mk|сонце|n|tr=sontse|sc=Cyrl}}
+* {{ttbc|mg}}: {{t-check|mg|masoandro}}
+* {{ttbc|mt}}: {{t-check|mt|xemx|f}}
+* {{ttbc|mi}}: {{t-check|mi|rā}}
+* {{ttbc|arn}}: {{t-check|arn|aṉtü|alt=antü}} {{attention|arn|2=was "[[aṉtü|antü]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|arn|antv}}
+* {{ttbc|mr}}: {{t-check|mr|सूर्य|tr=sūrya|sc=Deva}}
+* {{ttbc|mas}}: {{t-check|mas|ndama}}
+* {{ttbc|mn}}: {{t-check|mn|нар|tr=nar|sc=Cyrl}}
+* {{ttbc|nah}}: {{t-check|nah|tonalli}}
+* {{ttbc|nio}}: {{t-check|nio|jale|sc=Cyrl}}
 * {{ttbc|oc}}: {{t+|oc|solelh|m}}
 * {{ttbc|ang}}: {{t|ang|sunne}}, {{t|ang|sunna}}
 * {{ttbc|fa}}: {{t+|fa|خورشید|tr=khorshid}}
 * {{ttbc|ro}}: {{t+|ro|soare|m}}
-* {{ttbc|ess}}: [[siqineq]] [[masaq]]
+* {{ttbc|ess}}: {{t-check|ess|[[siqineq]] [[masaq]]|sc=Cyrl}} {{attention|ess|2=was "[[siqineq]] [[masaq]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * {{ttbc|si}}: {{t+|si|ඉර|tr=ira}}
 * {{ttbc|sk}}: {{t|sk|slnko|n}}, {{t|sk|slnce|n}}
 * {{ttbc|sl}}: {{t+|sl|sonce|n}}
-* {{ttbc|so}}: [[qorrax]]
+* {{ttbc|so}}: {{t-check|so|qorrax}}
 * {{ttbc|es}}: {{t+|es|sol|m}}, {{t+|es|estrella|f}}
-* {{ttbc|sw}}: [[jua]]
-* {{ttbc|tl}}: [[araw]]
+* {{ttbc|sw}}: {{t-check|sw|jua}}
+* {{ttbc|tl}}: {{t-check|tl|araw}}
 * {{ttbc|te}}: {{t+|te|సూర్యుడు|tr=sūryuḍu}}
-* {{ttbc|tli}}: [[gagaan]]
-* {{ttbc|tr}}: [[güneş]]
-* {{ttbc|tzj}}: [[q'iij|q’iij]]
+* {{ttbc|tli}}: {{t-check|tli|gagaan}}
+* {{ttbc|tr}}: {{t-check|tr|güneş}}
+* {{ttbc|tzj}}: {{t-check|tzj|q'iij|alt=q’iij}} {{attention|tzj|2=was "[[q'iij|q’iij]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * {{ttbc|uk}}: {{t+|uk|сонце|n|tr=sontse}}
-* {{ttbc|vro}}: [[päiv]]
-* {{ttbc|wbp}}: [[wanta]]
+* {{ttbc|vro}}: {{t-check|vro|päiv}}
+* {{ttbc|wbp}}: {{t-check|wbp|wanta}}
 * {{ttbc|cy}}: {{t+|cy|haul|m}}
 {{trans-bottom}}
 
@@ -521,7 +521,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 ====Translations====
 {{trans-top|to expose to the warmth and radiation of the sun}}
 * Czech: {{t|cs|slunit}}
-* Finnish: {{t|fi|paistatella}}; {{t|fi|ottaa aurinkoa}} {{qualifier|+ ablative case}}
+* Finnish: {{t|fi|paistatella}}, {{t|fi|ottaa aurinkoa}} {{qualifier|+ ablative case}}
 * Romanian: {{t+|ro|însori}}, {{t+|ro|sori}}
 {{trans-mid}}
 * Spanish: {{t|es|asolear}}
@@ -530,7 +530,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 {{trans-bottom}}
 
 {{trans-top|to warm or dry in the sunshine}}
-* Finnish: [[lämmitellä]] {{t+|fi|auringonpaiste|alt=auringonpaisteessa}} {{qualifier|to warm}}; [[kuivata]] / [[kuivatella]] / [[kuivattaa]] {{t+|fi|auringonpaiste|alt=auringonpaisteessa}} {{qualifier|to dry}}
+* Finnish: [[lämmitellä]] {{t+|fi|auringonpaiste|alt=auringonpaisteessa}} {{qualifier|to warm}}, {{t|fi|kuivata}}, {{t|fi|kuivatella}}, [[kuivattaa]] {{t+|fi|auringonpaiste|alt=auringonpaisteessa}} {{qualifier|to dry}}
 {{trans-mid}}
 * Romanian: {{t+|ro|însori}}, {{t+|ro|încălzi}}
 * Swahili: {{t|sw|kauka}}
