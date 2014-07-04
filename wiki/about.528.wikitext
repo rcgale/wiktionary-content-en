@@ -99,9 +99,9 @@
 * Finnish: {{t+|fi|ympärillä}}, {{t+|fi|ympäri}}, {{t|fi|joka puolella}}
 * French: {{t+|fr|autour|alt=autour de}}
 * Georgian: {{t|ka|გარშემო|sc=Geor}}
-* German: [[um]] ([[herum]])
-* Greek: {{t+|el|περί}}, [[γύρω]] από (jiró apó)
-* Hebrew: <span dir=rtl>[[סביב]] ל...</span>
+* {{ttbc|de}}: {{t|de|um}} ([[herum]])
+* Greek: {{t+|el|περί}}, {{t-check|el|γύρω|tr=jiró apó|alt=γύρω από|sc=Grek}} {{attention|el|2=was "[[γύρω]] από" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
+* Hebrew: {{t-check|he|סביב|alt=סביב ל...|sc=Hebr}} {{attention|he|2=was "[[סביב]] ל..." - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Italian: {{t+|it|circa}}
 * Japanese: {{t|ja|辺り|alt=…の辺りで|tr=… no atari de}}, {{t|ja|辺り|alt=…の辺りに|tr=… no atari ni}}, {{t+|ja|周辺|alt=…の周辺で|tr=… no shuhen de}}, {{t+|ja|周辺|alt=…の周辺に|tr=… no shuhen ni}}
 * Kurdish: {{t+|ku|dorî}}
@@ -175,7 +175,7 @@
 * Slovak: {{t|sk|okolo}}
 * Spanish: {{t+|es|encima}} de
 * Turkish: {{t+|tr|hakkında}}
-* Ute: [[-vacɨ]] ([[Chemehuevi]])
+* {{ttbc|ute}}: {{t|ute|-vacɨ}} ([[Chemehuevi]])
 {{trans-bottom}}
 
 {{trans-top|near}}
@@ -193,7 +193,7 @@
 * French: {{t+|fr|proche|alt=proche de}}, {{t+|fr|environ}}, {{t+|fr|vers}}
 * German: {{t+|de|ungefähr}}
 * Greek: {{t+|el|κοντά}}
-* Hebrew: <span dir=rtl>(ב)[[סביבות]]</span>
+* Hebrew: {{t-check|he|(ב)[[סביבות]]}}
 * Italian: {{t|it|vicino a}}
 {{trans-mid}}
 * Japanese: {{t|ja|およそ|tr=oyoso}}, {{t+|ja|約|alt=約…|tr=yaku}}
@@ -236,7 +236,7 @@
 * Norwegian: {{t+|no|om}}
 * Persian: {{t+|fa|نزد|tr=nazd|sc=fa-Arab}}
 * Portuguese: {{t|pt|[[preocupado]]/[[lidando]] [[com]]}}
-* Russian: {{l/ru|о}}/{{t+|ru|об|tr=o / ob}} ''(+ [[prepositional case]])'', {{t+|ru|про|tr=pro}} ''(+ [[accusative case]])''
+* Russian: {{t|ru|о|sc=Cyrl}}, {{t+|ru|об|tr=o / ob}} ''(+ [[prepositional case]])'', {{t+|ru|про|tr=pro}} ''(+ [[accusative case]])''
 * Scottish Gaelic: {{t|gd|mu dheidhinn}}
 * Slovene: {{t+|sl|o}}
 * Spanish: {{t+|es|sobre}}, {{t+|es|acerca}} de
@@ -251,7 +251,7 @@
 * Esperanto: {{t|eo|-ota}}
 * Finnish: {{t+|fi|lähes}}, {{t+|fi|melkein}}, {{t|fi|aikeissa}}
 * French: {{t|fr|sur le point}}
-* Hebrew: <span dir=rtl>[[עמד]] ל...</span>
+* Hebrew: {{t-check|he|עמד|alt=עמד ל...|sc=Hebr}} {{attention|he|2=was "[[עמד]] ל..." - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Italian: {{t+|it|stare per}}
 * Japanese: {{t+|ja|ところ|tr=tokoro}}
 {{trans-mid}}
@@ -283,7 +283,7 @@
 * German: {{t+|de|über}}
 * Greek: {{t+|el|για}}, {{t+|el|περί}}
 * Italian: {{t+|it|riguardando}}
-* Japanese: [[について]](の) (ni tsuite [no])
+* {{ttbc|ja}}: {{t|ja|について|tr=の|sc=Jpan}} (ni tsuite [no])
 * Lao: {{t|lo|ກ່ຽວກັບ|tr=kiaw-kap|sc=Laoo}}
 * Latin: {{t+|la|de}}
 * Latvian: {{t|lv|par}}
@@ -300,30 +300,30 @@
 * Polish: {{t+|pl|o}}
 * Portuguese: {{t+|pt|sobre}}
 * Romanian: {{t+|ro|despre}}
-* Russian: {{l/ru|о}}/{{t+|ru|об|tr=o / ob}} ''(+ [[prepositional case]])'', {{t+|ru|про|tr=pro}} ''(+ [[accusative case]])''
+* Russian: {{t|ru|о|sc=Cyrl}}, {{t+|ru|об|tr=o / ob}} ''(+ [[prepositional case]])'', {{t+|ru|про|tr=pro}} ''(+ [[accusative case]])''
 * Scottish Gaelic: {{t|gd|mu dheidhinn}}
 * Serbo-Croatian: {{t|sh|o}}
 * Slovene: {{t+|sl|o}}
 * Spanish: {{t+|es|sobre}}, {{t+|es|acerca de}}, {{t+|es|de}}
 * Swedish: {{t+|sv|om}}, {{t+|sv|angående}}
 * Talysh:
-*: Asalemi: {{qualifier|+oblique}} {{t|tly|باره‌کا|tr=bârakâ|sc=fa-Arab}}, {{qualifier|+oblique}} {{t|tly|خونه‌یی|tr=xunai}}
+*: {{ttbc|Asalemi}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{qualifier|+oblique}} {{t|tly|باره‌کا|tr=bârakâ|sc=fa-Arab}}, {{qualifier|+oblique}} {{t|tly|خونه‌یی|tr=xunai}}
 * Turkish: {{t+|tr|hakkında}} ''(+ genitive pronouns, but no endings on nouns)''
 * Volapük: {{t+|vo|tefü}}
 * Zulu: {{t|zu|nga-}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sq}}: [[me]], [[afër]], [[përreth]], [[për]], [[rrotull]]
-* {{ttbc|bn}}: (samparke, byapare, bishaye)<!-- use Bengali script -->
-* {{ttbc|id}}: [[sekitar]], [[sekeliling]], [[kira|kira-kira]], [[dekat]], [[tentang]]
-* {{ttbc|ia}}: [[super]], [[re]]
-* {{ttbc|ku}}: [[dor]], [[li dor]], [[dor]], [[dorî]]
+* {{ttbc|sq}}: {{t-check|sq|me}}, {{t-check|sq|afër}}, {{t-check|sq|përreth}}, {{t-check|sq|për}}, {{t-check|sq|rrotull}}
+* {{ttbc|bn}}: {{t-check|bn|tr=samparke}}, {{t-check|bn|tr=byapare}}, {{t-check|bn|tr=bishaye}}<!-- use Bengali script -->
+* {{ttbc|id}}: {{t-check|id|sekitar}}, {{t-check|id|sekeliling}}, {{t-check|id|kira|alt=kira-kira}} {{attention|id|2=was "[[kira|kira-kira]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|id|dekat}}, {{t-check|id|tentang}}
+* {{ttbc|ia}}: {{t-check|ia|super}}, {{t-check|ia|re}}
+* {{ttbc|ku}}: {{t-check|ku|dor}}, {{t-check|ku|li dor}}, {{t-check|ku|dor}}, {{t-check|ku|dorî}}
 {{trans-mid}}
-* {{ttbc|lt}}: [[apie]], [[aplink]]
-* {{ttbc|te}}: [[గురించి]], [[గుఱించి]]
-* {{ttbc|vi}}: [[về]], [[quanh quất]], [[quanh quẩn đây đó]], [[rải rác]], [[xung quanh]], [[khoảng chừng]], [[vào khoảng]], [[bận]], [[đang làm]], [[ở]], [[trong người]], [[theo với]]
-* {{ttbc|vo}}: [[dö]]
+* {{ttbc|lt}}: {{t-check|lt|apie}}, {{t-check|lt|aplink}}
+* {{ttbc|te}}: {{t-check|te|గురించి|sc=Telu}}, {{t-check|te|గుఱించి|sc=Telu}}
+* {{ttbc|vi}}: {{t-check|vi|về}}, {{t-check|vi|quanh quất}}, {{t-check|vi|quanh quẩn đây đó}}, {{t-check|vi|rải rác}}, {{t-check|vi|xung quanh}}, {{t-check|vi|khoảng chừng}}, {{t-check|vi|vào khoảng}}, {{t-check|vi|bận}}, {{t-check|vi|đang làm}}, {{t-check|vi|ở}}, {{t-check|vi|trong người}}, {{t-check|vi|theo với}}
+* {{ttbc|vo}}: {{t-check|vo|dö}}
 {{trans-bottom}}
 
 ====Adverb====
@@ -379,7 +379,7 @@
 * Esperanto: {{t|eo|ĉirkaŭe}}
 * Finnish: {{t+|fi|ympärillä}}, {{t|fi|ympärille}}
 * Greek: {{t+|el|γύρω|tr=jíro}}
-* Hebrew: <span dir=rtl>[[מסביב]]</span>
+* Hebrew: {{t|he|מסביב|sc=Hebr}}
 * Kyrgyz: {{t+|ky|жөнүндө}}
 * Macedonian: {{t|mk|наоколу|tr=naókolu|sc=Cyrl}}
 {{trans-mid}}
@@ -405,7 +405,7 @@
 * Norwegian: {{t+|no|rundt}}
 * Polish: {{t|pl|wkoło}}
 * Portuguese: {{t|pt|ao redor}}
-* Russian: {{l/ru|в}} {{l/ru|окружность|окружности}} (v okrúžnosti)
+* Russian: {{t-check|ru|[[в]] [[окружность|окружности]]|tr=v okrúžnosti|sc=Cyrl}} {{attention|ru|2=was "[[в]] [[окружность|окружности]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Scottish Gaelic: {{t|gd|mun cuairt}}, {{t|gd|mu chuairt}}
 * Spanish: {{t+|es|alrededor}}
 * Swedish: {{t+|sv|runt}}
@@ -415,8 +415,8 @@
 * Danish: {{t|da|omkring}}
 * Dutch: {{t+|nl|rond-}}
 * Esperanto: {{t|eo|ĉirkaŭe}}
-* Finnish: [[siellä]] [[täällä]]
-* Hebrew: <span dir=rtl>[[מסביב]], ב[[איזור]], ב[[סביבה]]</span>
+* Finnish: {{t-check|fi|[[siellä]] [[täällä]]}} {{attention|fi|2=was "[[siellä]] [[täällä]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
+* {{ttbc|he}}: {{t|he|מסביב|sc=Hebr}}, {{t-check|he|איזור|alt=באיזור|sc=Hebr}} {{attention|he|2=was "ב[[איזור]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|he|סביבה|alt=בסביבה|sc=Hebr}} {{attention|he|2=was "ב[[סביבה]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Italian: {{t+|it|intorno}}
 * Macedonian: {{t|mk|ваму-таму|tr=vámu-támu|sc=Cyrl}}
 {{trans-mid}}
@@ -457,16 +457,16 @@
 * Macedonian: {{t|mk|обратно|tr=óbratno|sc=Cyrl}}
 {{trans-mid}}
 * Polish: {{t+|pl|wstecz}}
-* Russian: {{l/ru|в}} {{l/ru|обратный|обратную}} {{l/ru|сторона|сторону}} (v obrátnuju stóronu), {{t+|ru|обратно|tr=obrátno}}
+* Russian: {{t-check|ru|[[в]] [[обратный|обратную]] [[сторона|сторону]]|tr=v obrátnuju stóronu|sc=Cyrl}} {{attention|ru|2=was "[[в]] [[обратный|обратную]] [[сторона|сторону]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t+|ru|обратно|tr=obrátno}}
 * Slovene: {{t+|sl|o}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sq}}: [[gati]],, [[afërsisht]], [[pothuajse]], [[pranë]], [[nja]]
-* {{ttbc|io}}: [[Cirkum]]
-* {{ttbc|id}}: [[sekitar]], [[sekeliling]], [[kira|kira-kira]], [[dekat]], [[tentang]], [[kena|mengenai]], [[hendak]], [[akan]]
+* {{ttbc|sq}}: {{t-check|sq|gati}}, {{t-check|sq|afërsisht}}, {{t-check|sq|pothuajse}}, {{t-check|sq|pranë}}, {{t-check|sq|nja}}
+* {{ttbc|io}}: {{t-check|io|Cirkum}}
+* {{ttbc|id}}: {{t-check|id|sekitar}}, {{t-check|id|sekeliling}}, {{t-check|id|kira|alt=kira-kira}} {{attention|id|2=was "[[kira|kira-kira]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|id|dekat}}, {{t-check|id|tentang}}, {{t-check|id|kena|alt=mengenai}} {{attention|id|2=was "[[kena|mengenai]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|id|hendak}}, {{t-check|id|akan}}
 {{trans-mid}}
-* {{ttbc|vi}}: [[xung quanh]], [[quanh quẩn]], [[đây đó]], [[rải rác]], [[đằng sau]], [[khoảng chừng]], [[gần]], [[vòng]]
+* {{ttbc|vi}}: {{t-check|vi|xung quanh}}, {{t-check|vi|quanh quẩn}}, {{t-check|vi|đây đó}}, {{t-check|vi|rải rác}}, {{t-check|vi|đằng sau}}, {{t-check|vi|khoảng chừng}}, {{t-check|vi|gần}}, {{t-check|vi|vòng}}
 {{trans-bottom}}
 
 ===Etymology 2===
