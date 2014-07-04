@@ -55,7 +55,7 @@ From {{etyl|enm|en}} {{term|shrinken|lang=enm}}, from {{etyl|ang|en}} {{term|scr
 * Polish: {{t|pl|kurczyć się}}
 * Portuguese: {{t+|pt|encolher}}, {{t+|pt|contrair}}
 * Romanian: {{t+|ro|micșora}}
-* Russian: {{t+|ru|сжиматься|impf|tr=sžimát’sja}}, {{t+|ru|сжаться|pf|tr=sžát’sja}}; {{t+|ru|сокращаться|impf|tr=sokraščát’sja}}, {{t+|ru|сократиться|impf|tr=sokratít’sja}}; {{t+|ru|уменьшаться|impf|tr=umen’šát’sja}}, {{t+|ru|уменьшиться|pf|tr=umén’šit’sja}}
+* Russian: {{t+|ru|сжиматься|impf|tr=sžimát’sja}}, {{t+|ru|сжаться|pf|tr=sžát’sja}}, {{t+|ru|сокращаться|impf|tr=sokraščát’sja}}, {{t+|ru|сократиться|impf|tr=sokratít’sja}}, {{t+|ru|уменьшаться|impf|tr=umen’šát’sja}}, {{t+|ru|уменьшиться|pf|tr=umén’šit’sja}}
 * Spanish: {{t+|es|contraerse}}, {{t+|es|encogerse}}, {{t|es|achicarse}}
 * Swedish: {{t+|sv|krympa}}
 * Tatar: {{t|tt|keçeräyü|sc=Cyrl}}
@@ -72,7 +72,7 @@ From {{etyl|enm|en}} {{term|shrinken|lang=enm}}, from {{etyl|ang|en}} {{term|scr
 {{trans-mid}}
 * Jèrriais: {{t|roa-jer|rap'tichi}}
 * Korean: {{t+|ko|움츠리다|tr=umcheurida}}
-* Russian: {{t+|ru|уменьшать|impf|tr=umen’šát’}}, {{t+|ru|уменьшить|pf|tr=umén’šit’}}; {{t+|ru|сжимать|impf|tr=sžimát’}}, {{t+|ru|сжать|pf|tr=sžat’}}
+* Russian: {{t+|ru|уменьшать|impf|tr=umen’šát’}}, {{t+|ru|уменьшить|pf|tr=umén’šit’}}, {{t+|ru|сжимать|impf|tr=sžimát’}}, {{t+|ru|сжать|pf|tr=sžat’}}
 * Spanish: {{t+|es|encoger}}, {{t|es|mermar}}, {{t+|es|contraer}}
 * Swedish: {{t+|sv|krympa}}
 {{trans-bottom}}
@@ -87,18 +87,18 @@ From {{etyl|enm|en}} {{term|shrinken|lang=enm}}, from {{etyl|ang|en}} {{term|scr
 * German: {{t+|de|drücken|alt=sich drücken}}
 * Japanese: {{t|ja|尻込みする|tr=[[しりごみする]], shirigomi suru}}
 {{trans-mid}}
-* Korean: {{t+|ko|움츠러지다|tr=umcheureojida}}, {{qualifier|transitive}} [[움츠리다]] (umcheurida)
+* Korean: {{t+|ko|움츠러지다|tr=umcheureojida}}, {{qualifier|transitive}} {{t|ko|움츠리다|tr=umcheurida|sc=Kore}}
 * Maori: {{t|mi|eti}}
 * Spanish: {{t+|es|zafar|alt=zafarse}}, {{t+|es|rehuir}}, {{t+|es|correr|alt=correrse}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|nl}}: [[krimpen]]
-* {{ttbc|eo}}: [[ŝrumpi]], [[malkreskiĝi]]
-* {{ttbc|fr}}: [[diminuer]], [[rapetisser]]
-* {{ttbc|id}}: [[susut|menyusut]], [[kerut|mengerut]], [[kerut|mengkerut]], [[ciut|menciut]]
+* {{ttbc|nl}}: {{t-check|nl|krimpen}}
+* {{ttbc|eo}}: {{t-check|eo|ŝrumpi}}, {{t-check|eo|malkreskiĝi}}
+* {{ttbc|fr}}: {{t-check|fr|diminuer}}, {{t-check|fr|rapetisser}}
+* {{ttbc|id}}: {{t-check|id|susut|alt=menyusut}} {{attention|id|2=was "[[susut|menyusut]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|id|kerut|alt=mengerut}} {{attention|id|2=was "[[kerut|mengerut]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|id|kerut|alt=mengkerut}} {{attention|id|2=was "[[kerut|mengkerut]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|id|ciut|alt=menciut}} {{attention|id|2=was "[[ciut|menciut]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 {{trans-mid}}
-* {{ttbc|ro}}: [[a se contracta]], [[a se micsora]], [[a se diminua]], [[a intra la apa]]
+* {{ttbc|ro}}: {{t-check|ro|a se contracta}}, {{t-check|ro|a se micsora}}, {{t-check|ro|a se diminua}}, {{t-check|ro|a intra la apa}}
 {{trans-bottom}}
 
 ===Noun===
@@ -134,7 +134,7 @@ From {{etyl|enm|en}} {{term|shrinken|lang=enm}}, from {{etyl|ang|en}} {{term|scr
 
 {{checktrans-top|most of these seem clearly wrong, missing the informal, somewhat pejorative connotation; can't tell about Japanese and Korean}}
 {{trans-mid}}
-* {{ttbc|ko}}: [[정신과의사]] (jeongsin-gwa-ui-sa)
+* {{ttbc|ko}}: {{t-check|ko|정신과의사|tr=jeongsin-gwa-ui-sa|sc=Kore}}
 {{trans-bottom}}
 
 [[Category:English ergative verbs]]
