@@ -152,7 +152,7 @@ From {{etyl|ang|en}} {{m|ang|mōnandæġ||day of the moon}}, from {{m|ang|mōna|
 * Lithuanian: {{t+|lt|pirmadienis|m}}
 * Livonian: {{t|liv|ežžõmpǟva}}
 * Lojban: {{t|jbo|pavdei}}
-* Low German: {{l|nds|Maandag}}, {{l|nds|Maondag}}
+* Low German: {{t|nds|Maandag}}, {{t|nds|Maondag}}
 * Lower Sorbian: {{t|dsb|pónjeźele|n}}
 {{trans-mid}}
 * Luganda: {{t|lg|Kazooba}}, {{t|lg|Bbalaza}}
@@ -176,8 +176,8 @@ From {{etyl|ang|en}} {{m|ang|mōnandæġ||day of the moon}}, from {{m|ang|mōna|
 * Old Norse: {{t|non|mánudagr|m}}
 * Old Turkic: {{t|otk|ikinç}}
 * Ossetian:
-*: Digor: {{t|os|авдисæр|tr=avdisær|sc=Cyrl}}
-*: Iron: {{t|os|къуырисæр|tr=k”uyrisær|sc=Cyrl}}
+*: {{ttbc|Digor}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|os|авдисæр|tr=avdisær|sc=Cyrl}}
+*: {{ttbc|Iron}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|os|къуырисæр|tr=k”uyrisær|sc=Cyrl}}
 * Papiamentu: {{t|pap|dialuna}}
 * Pashto: {{t|ps|دوشنبه|tr=dōšanbe|sc=ps-Arab}}, {{t+|ps|دوشنبې|tr=dōšanbe|sc=ps-Arab}}
 * Persian: {{t+|fa|دوشنبه|tr=došanbe|sc=fa-Arab}}
@@ -186,14 +186,14 @@ From {{etyl|ang|en}} {{m|ang|mōnandæġ||day of the moon}}, from {{m|ang|mōna|
 * Quechua: {{t|qu|lunis}}
 * Romani: {{t|rom|luja}}
 * Romanian: {{t+|ro|luni|f}}
-* Romansch: {{t|rm|glindesdi}}, {{l|rm|lündeschdi}}
+* Romansch: {{t|rm|glindesdi}}, {{t|rm|lündeschdi}}
 * Russian: {{t+|ru|понедельник|m|tr=ponedélʹnik}}
 * Sami:
-*: Inari: [[vuossargâ]]
+*: Inari: {{t|smn|vuossargâ}}
 *: Lule: {{t|ule|mánnodahka}}
-*: Northern: [[vuossárga]]; [[mánnodat]] ''(in Sweden)''
-*: Skolt: [[vuõssargg]]
-*: Southern: [[måanta]]
+*: Northern: {{t|se|vuossárga}}, {{qualifier|in Sweden}} {{t|se|mánnodat}}
+*: Skolt: {{t|sms|vuõssargg}}
+*: Southern: {{t|sma|måanta}}
 * Samoan: {{t|sm|Aso Gafua}}
 * Sardinian: {{t|sc|lunis}}
 * Scots: {{t|sco|Monanday}}
@@ -246,7 +246,7 @@ From {{etyl|ang|en}} {{m|ang|mōnandæġ||day of the moon}}, from {{m|ang|mōna|
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|bo}}: [[གཟའ་ཟླ་བ་]]
+* {{ttbc|bo}}: {{t-check|bo|གཟའ་ཟླ་བ་|sc=Tibt}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -272,10 +272,10 @@ From {{etyl|ang|en}} {{m|ang|mōnandæġ||day of the moon}}, from {{m|ang|mōna|
 * Macedonian: {{t|mk|во понеделник|tr=vo ponédelnik}}, {{t|mk|понеделнички|tr=ponedélnički}}
 * Maltese: {{t|mt|nhar it-Tnejn}}
 * Norwegian: {{t+|no|på}} {{t+|no|mandag}}
-* Polish: [[w]] [[poniedziałek]]
+* Polish: {{t-check|pl|[[w]] [[poniedziałek]]}} {{attention|pl|2=was "[[w]] [[poniedziałek]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Portuguese: {{t+|pt|segunda-feira}}, {{t+|pt|segunda}}
 * Romanian: {{t+|ro|luni}}, {{t+|ro|lunea}}
-* Russian: [[в#Russian|в]] [[понедельник]] (v ponedél’nik)
+* Russian: {{t-check|ru|[[в#Russian|в]] [[понедельник]]|tr=v ponedél’nik|sc=Cyrl}} {{attention|ru|2=was "[[в#Russian|в]] [[понедельник]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Scottish Gaelic: {{t|gd|Di-luain|m}}
 * Swedish: {{t+|sv|på}} {{t+|sv|måndag}}
 * Turkish: {{t+|tr|pazartesi}}
