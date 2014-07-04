@@ -163,7 +163,7 @@ From {{etyl|enm|en}} {{term|pece|pece, peas, pees|lang=enm}}, from {{etyl|fro|en
 *: Bokmål: {{t+|nb|fred|m}}, {{t+|nb|stillhet|m|f}}, {{t+|nb|ro|m|f}}
 *: Nynorsk: {{t|nn|fred|m}}
 * Occitan: {{t+|oc|patz|f}}
-* Old English: {{l|ang|smyltnes|f}}, {{t|ang|stilnes|f}}
+* Old English: {{t-check|ang|smyltnes|f|sc=Latinx}}, {{t|ang|stilnes|f}}
 * Oriya: {{t|or|ଶାନ୍ତି|tr=śāntī|sc=Orya}}
 * Persian: {{t+|fa|آرامش|tr=ârâmeš}}
 * Polish: {{t+|pl|spokój|m}}, {{t+|pl|pokój|m}} {{qualifier|obsolete}}
@@ -263,7 +263,7 @@ From {{etyl|enm|en}} {{term|pece|pece, peas, pees|lang=enm}}, from {{etyl|fro|en
 * {{trreq|bo}}
 * Turkish: {{t+|tr|huzur}}
 * Vietnamese: {{t+|vi|yên tĩnh}}
-* Welsh: [[tawelwch]] (meddwl), {{t|cy|tangnefedd}}
+* Welsh: {{t-check|cy|[[tawelwch]] ([[meddwl]])}}, {{t|cy|tangnefedd}}
 {{trans-bottom}}
 
 {{trans-top|harmony, lack of conflict in personal relations}}
@@ -337,7 +337,7 @@ From {{etyl|enm|en}} {{term|pece|pece, peas, pees|lang=enm}}, from {{etyl|fro|en
 * Armenian: {{t+|hy|խաղաղություն|tr=xaġaġut'yun}}
 * Assamese: {{t|as|শান্তি|tr=śānti|sc=Beng}}
 * Asturian: {{t|ast|paz|f}}
-* Avestan: [[āxšti]] {{rfscript|ae}}
+* {{ttbc|ae}}: {{t|ae|āxšti|sc=Avst}} {{rfscript|ae}}
 * Azeri: {{t+|az|sülh}}, {{t|az|rahatlıq}}, {{t|az|dinçlik}}, {{t+|az|barış}}
 * Bashkir: {{t|ba|тыныслыҡ|sc=Cyrl}}
 * Basque: {{t|eu|bake}}
@@ -434,221 +434,221 @@ From {{etyl|enm|en}} {{term|pece|pece, peas, pees|lang=enm}}, from {{etyl|fro|en
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|aji}}: [[ta]]
-* {{ttbc|ak}}: [[asomdwoe]]
-* {{ttbc|akz}}: [[ittimokla]]
-* {{ttbc|sq}}: [[paqe]]
-* {{ttbc|alq}}: [[ᐙᑭ ᐃᒋᐌᐱᔅᐃ]] (wāki ićiwēpis'i)
-* {{ttbc|gsw}}: [[fréda]]
-* {{ttbc|gcf}}: [[lapé]]
-* {{ttbc|oc}}: [[patz]]
+* {{ttbc|aji}}: {{t-check|aji|ta}}
+* {{ttbc|ak}}: {{t-check|ak|asomdwoe}}
+* {{ttbc|akz}}: {{t-check|akz|ittimokla}}
+* {{ttbc|sq}}: {{t-check|sq|paqe}}
+* {{ttbc|alq}}: {{qualifier|wāki ićiwēpis'i}} {{t-check|alq|ᐙᑭ ᐃᒋᐌᐱᔅᐃ}}
+* {{ttbc|gsw}}: {{t-check|gsw|fréda}}
+* {{ttbc|gcf}}: {{t-check|gcf|lapé}}
+* {{ttbc|oc}}: {{t-check|oc|patz}}
 * {{ttbc|ae}}: (âxshti), (râma)
-* {{ttbc|ay}}: [[moxsa kamaña]], [[hacana]]
-* {{ttbc|az}}: [[сүлһ]] (sülh)
+* {{ttbc|ay}}: {{t-check|ay|moxsa kamaña}}, {{t-check|ay|hacana}}
+* {{ttbc|az}}: {{qualifier|sülh}} {{t-check|az|сүлһ}}
 * {{ttbc|akk}}: (šul-mu)
 * {{ttbc|ban}}: (shanti)
 * {{ttbc|bal}}: (sala)
-* {{ttbc|bm}}: [[hèrè]]
-* {{ttbc|bfa}}: [[yukan]]
-* {{ttbc|bas}}: [[nsaŋ]]
-* {{ttbc|eu}}: [[bake]]
-* {{ttbc|be}}: [[мір]] (mir)
-* {{ttbc|bem}}: [[mutenden]]
-* {{ttbc|bn}}: [[ষান্তি]] (śānti), [[শান্তি]] (šānti)
-* {{ttbc|bla}}: [[ᖱᖻᖱᒋᖱᔨ]] (innaihtsi'iyi')
-* {{ttbc|br}}: [[peoc'h]] {{g|m}}
-* {{ttbc|bg}}: [[мир]] (mir)
-* {{ttbc|bum}}: [[mvo'e]]
-* {{ttbc|bsk}}: [[aram]]
-* {{ttbc|cal}}: [[gúnnammwey]]
-* {{ttbc|ceb}}: [[kalinaw]]
-* {{ttbc|ce}}: [[машар]] (maşar)
+* {{ttbc|bm}}: {{t-check|bm|hèrè}}
+* {{ttbc|bfa}}: {{t-check|bfa|yukan}}
+* {{ttbc|bas}}: {{t-check|bas|nsaŋ}}
+* {{ttbc|eu}}: {{t-check|eu|bake}}
+* {{ttbc|be}}: {{t-check|be|мір|tr=mir|sc=Cyrl}}
+* {{ttbc|bem}}: {{t-check|bem|mutenden}}
+* {{ttbc|bn}}: {{t-check|bn|ষান্তি|tr=śānti|sc=Beng}}, {{t-check|bn|শান্তি|tr=šānti|sc=Beng}}
+* {{ttbc|bla}}: {{qualifier|innaihtsi'iyi'}} {{t-check|bla|ᖱᖻᖱᒋᖱᔨ}}
+* {{ttbc|br}}: {{t-check|br|peoc'h|m}}
+* {{ttbc|bg}}: {{t-check|bg|мир|tr=mir|sc=Cyrl}}
+* {{ttbc|bum}}: {{t-check|bum|mvo'e}}
+* {{ttbc|bsk}}: {{t-check|bsk|aram}}
+* {{ttbc|cal}}: {{t-check|cal|gúnnammwey}}
+* {{ttbc|ceb}}: {{t-check|ceb|kalinaw}}
+* {{ttbc|ce}}: {{t-check|ce|машар|tr=maşar|sc=Cyrl}}
 * {{ttbc|chr}}: (nvwhtohiyada), (dohi'yi)
-* {{ttbc|chy}}: [[nanomonsetotse]]
-* {{ttbc|bem}}: [[mutende]]
-* {{ttbc|ny}}: [[mtendere]]
-* {{ttbc|cic}}: [[nanna'ayya]]
-* {{ttbc|lua}}: [[ndowe]]
-* {{ttbc|cho}}: [[achukma]]
-* {{ttbc|chf}}: [[aylobaha gafuleya]]
-* {{ttbc|ckt}}: [[амаравкэвагыргын]] (amaravkevagyrgyn)
-* {{ttbc|chk}}: [[kunammwey]]
-* {{ttbc|com}}: [[tsumukikatu]]
-* {{ttbc|co}}: [[pace]] / [[paci]]
-* {{ttbc|cr}}: [[ᐌᑕᔅᑭᐎᓐ]] (wētaskiwin), [[ᒌᔮᒣᐃᑕᒨᓐ]] (ćīyāmēitamōn)
-* {{ttbc|luo}}: [[kuo]]
-* {{ttbc|din}}: [[dɔɔr]]
-* {{ttbc|dua}}: [[musango]]
-* {{ttbc|efi}}: [[emen]]
-* {{ttbc|ekg}}: [[muka muka]]
-* {{ttbc|eo}}: [[paco]]
-* {{ttbc|et}}: [[rahu]]
-* {{ttbc|ewo}}: [[foè]]
-* {{ttbc|fng}}: [[kutula]]
-* {{ttbc|fj}}: [[vakacegu]]
-* {{ttbc|fon}}: [[fífá]]
-* {{ttbc|frp}}: [[pas]] / [[patz]]
-* {{ttbc|fy}}: [[frede]]
-* {{ttbc|fur}}: [[pac]]
-* {{ttbc|ff}}: [[jam]]
-* {{ttbc|gaa}}: [[hejole]]
-* {{ttbc|ka}}: [[მშვიდობა]] (mšvidoba)
-* {{ttbc|ki}}: [[ũhoro]]
-* {{ttbc|got}}: [[𐍆𐍂𐌹𐌸𐌿𐍃]] (friþus)
-* {{ttbc|gn}}: [[ñerane'i]], [[moñera'ÿ]], [[py'guapy]]
-* {{ttbc|ht}}: [[lapé]]
+* {{ttbc|chy}}: {{t-check|chy|nanomonsetotse}}
+* {{ttbc|bem}}: {{t-check|bem|mutende}}
+* {{ttbc|ny}}: {{t-check|ny|mtendere}}
+* {{ttbc|cic}}: {{t-check|cic|nanna'ayya}}
+* {{ttbc|lua}}: {{t-check|lua|ndowe}}
+* {{ttbc|cho}}: {{t-check|cho|achukma}}
+* {{ttbc|chf}}: {{t-check|chf|aylobaha gafuleya}}
+* {{ttbc|ckt}}: {{t-check|ckt|амаравкэвагыргын|tr=amaravkevagyrgyn|sc=Cyrl}}
+* {{ttbc|chk}}: {{t-check|chk|kunammwey}}
+* {{ttbc|com}}: {{t-check|com|tsumukikatu}}
+* {{ttbc|co}}: {{t-check|co|pace}}, {{t-check|co|paci}}
+* {{ttbc|cr}}: {{t-check|cr|ᐌᑕᔅᑭᐎᓐ|tr=wētaskiwin|sc=Cans}}, {{t-check|cr|ᒌᔮᒣᐃᑕᒨᓐ|tr=ćīyāmēitamōn|sc=Cans}}
+* {{ttbc|luo}}: {{t-check|luo|kuo}}
+* {{ttbc|din}}: {{t-check|din|dɔɔr}}
+* {{ttbc|dua}}: {{t-check|dua|musango}}
+* {{ttbc|efi}}: {{t-check|efi|emen}}
+* {{ttbc|ekg}}: {{t-check|ekg|muka muka}}
+* {{ttbc|eo}}: {{t-check|eo|paco}}
+* {{ttbc|et}}: {{t-check|et|rahu}}
+* {{ttbc|ewo}}: {{t-check|ewo|foè}}
+* {{ttbc|fng}}: {{t-check|fng|kutula}}
+* {{ttbc|fj}}: {{t-check|fj|vakacegu}}
+* {{ttbc|fon}}: {{t-check|fon|fífá}}
+* {{ttbc|frp}}: {{t-check|frp|pas}}, {{t-check|frp|patz}}
+* {{ttbc|fy}}: {{t-check|fy|frede}}
+* {{ttbc|fur}}: {{t-check|fur|pac}}
+* {{ttbc|ff}}: {{t-check|ff|jam}}
+* {{ttbc|gaa}}: {{t-check|gaa|hejole}}
+* {{ttbc|ka}}: {{t-check|ka|მშვიდობა|tr=mšvidoba|sc=Geor}}
+* {{ttbc|ki}}: {{t-check|ki|ũhoro}}
+* {{ttbc|got}}: {{t-check|got|𐍆𐍂𐌹𐌸𐌿𐍃|tr=friþus|sc=Goth}}
+* {{ttbc|gn}}: {{t-check|gn|ñerane'i}}, {{t-check|gn|moñera'ÿ}}, {{t-check|gn|py'guapy}}
+* {{ttbc|ht}}: {{t-check|ht|lapé}}
 * {{ttbc|ha}}: (lùmana)
-* {{ttbc|haw}}: [[malu]], [[maluhia]], [[la‘i]]
-* {{ttbc|hz}}: [[o-hange]]
-* {{ttbc|hul}}: [[paghidaet]]
+* {{ttbc|haw}}: {{t-check|haw|malu}}, {{t-check|haw|maluhia}}, {{t-check|haw|la‘i}}
+* {{ttbc|hz}}: {{t-check|hz|o-hange}}
+* {{ttbc|hul}}: {{t-check|hul|paghidaet}}
 * {{ttbc|mww}}: {{t|mww|kev sib haum xeeb}}
-* {{ttbc|hop}}: [[paasikwa]]
-* {{ttbc|io}}: [[paco]]
-* {{ttbc|ig}}: [[ùdo]]
-* {{ttbc|ilb}}: [[chibanda]]
-* {{ttbc|ilo}}: [[kappia]]
-* {{ttbc|ilk}}: [[paghidait]]
-* {{ttbc|id}}: [[damai]], [[perdamaian]]
-* {{ttbc|ia}}: [[pace]]
-* {{ttbc|iu}}: [[ᑐᑦᑭᐳᓐ]] (totkipon)
-* {{ttbc|ik}}: [[ᑭᖑᐃᖓᒃ]] (kiñoiñak)
-* {{ttbc|itl}}: [[ткарвэл]] (tkarvel)
+* {{ttbc|hop}}: {{t-check|hop|paasikwa}}
+* {{ttbc|io}}: {{t-check|io|paco}}
+* {{ttbc|ig}}: {{t-check|ig|ùdo}}
+* {{ttbc|ilb}}: {{t-check|ilb|chibanda}}
+* {{ttbc|ilo}}: {{t-check|ilo|kappia}}
+* {{ttbc|ilk}}: {{t-check|ilk|paghidait}}
+* {{ttbc|id}}: {{t-check|id|damai}}, {{t-check|id|perdamaian}}
+* {{ttbc|ia}}: {{t-check|ia|pace}}
+* {{ttbc|iu}}: {{t-check|iu|ᑐᑦᑭᐳᓐ|tr=totkipon|sc=Cans}}
+* {{ttbc|ik}}: {{qualifier|kiñoiñak}} {{t-check|ik|ᑭᖑᐃᖓᒃ}}
+* {{ttbc|itl}}: {{t-check|itl|ткарвэл|tr=tkarvel|sc=Cyrl}}
 * {{ttbc|jv}}: (rukun), (rahayuning gesang)
-* {{ttbc|dje}}: [[baani]]
+* {{ttbc|dje}}: {{t-check|dje|baani}}
 * {{ttbc|kab}}: (laafya)
 * {{ttbc|kn}}: (shanti)
-* {{ttbc|kr}}: [[kelafia]]
-* {{ttbc}}(Karen languages): (emo tashi)
-* {{ttbc|kk}}: [[бейбичилик]] (beybiychiyliyk)
-* {{ttbc|kek}}: [[tuktuquil usilal]]
+* {{ttbc|kr}}: {{t-check|kr|kelafia}}
+* {{ttbc|Karen languages}}: (emo tashi)
+* {{ttbc|kk}}: {{t-check|kk|бейбичилик|tr=beybiychiyliyk|sc=Cyrl}}
+* {{ttbc|kek}}: {{t-check|kek|tuktuquil usilal}}
 * {{ttbc|km}}: {{t|km|សន្តិភាព|tr=sɑnte pʰiep}}
-* {{ttbc|kg}}: [[ngemba]]
-* {{ttbc|ki}}: [[thayũ]]
-* {{ttbc|sjd}}: [[мырр]] (myrr)
-* {{ttbc|rw}}: [[amahoro]]
-* {{ttbc|cku}}: [[ilifayka]]
-* {{ttbc|ko}}: [[평화]] (pyeonghwa)
-* {{ttbc|kpy}}: [[амкавың]] (amkavyng), [[мир]] (mir)
+* {{ttbc|kg}}: {{t-check|kg|ngemba}}
+* {{ttbc|ki}}: {{t-check|ki|thayũ}}
+* {{ttbc|sjd}}: {{t-check|sjd|мырр|tr=myrr|sc=Cyrl}}
+* {{ttbc|rw}}: {{t-check|rw|amahoro}}
+* {{ttbc|cku}}: {{t-check|cku|ilifayka}}
+* {{ttbc|ko}}: {{t-check|ko|평화|tr=pyeonghwa|sc=Kore}}
+* {{ttbc|kpy}}: {{t-check|kpy|амкавың|tr=amkavyng|sc=Cyrl}}, {{t-check|kpy|мир|tr=mir|sc=Cyrl}}
 * {{ttbc|ky}}: (tyntschtyk)
-* {{ttbc|lkt}}: [[wolakota]]
-* {{ttbc|lb}}: [[miers]]
+* {{ttbc|lkt}}: {{t-check|lkt|wolakota}}
+* {{ttbc|lb}}: {{t-check|lb|miers}}
 * {{ttbc|lo}}: {{t+|lo|ສັນຕິພາບ|tr=sântiphāp}}
-* {{ttbc|ln}}: [[bognilé]], [[kimia]]
-* {{ttbc|lt}}: [[taika]]
-* {{ttbc|jbo}}: [[kampanpi]]
-* {{ttbc|lg}}: [[emirembe]]
-* {{ttbc|lb}}: [[Fridden]]
-* {{ttbc|mas}}: [[e-seriani]]
+* {{ttbc|ln}}: {{t-check|ln|bognilé}}, {{t-check|ln|kimia}}
+* {{ttbc|lt}}: {{t-check|lt|taika}}
+* {{ttbc|jbo}}: {{t-check|jbo|kampanpi}}
+* {{ttbc|lg}}: {{t-check|lg|emirembe}}
+* {{ttbc|lb}}: {{t-check|lb|Fridden}}
+* {{ttbc|mas}}: {{t-check|mas|e-seriani}}
 {{trans-mid}}
-* {{ttbc|mdh}}: [[kalilíntad]]
-* {{ttbc|mjy}}: [[anachemowegan]]
-* {{ttbc|mg}}: [[fiadanana]], [[fahandriampahalemana]]
-* {{ttbc|ml}}: [[സമാധാനമ]] (samādhānama)
-* {{ttbc|mnk}}: [[here]]
-* {{ttbc|mt}}: [[paċi]]
-* {{ttbc|mi}}: [[whakaaio]], [[rangimarie]]
-* {{ttbc|arn}}: [[uvchin]], [[kemelen]]
-* {{ttbc|mrw}}: [[diakatra]]
-* {{ttbc|mr}}: [[शांती]] (śāntī)
-* {{ttbc|mh}}: [[aenomman]]
+* {{ttbc|mdh}}: {{t-check|mdh|kalilíntad}}
+* {{ttbc|mjy}}: {{t-check|mjy|anachemowegan}}
+* {{ttbc|mg}}: {{t-check|mg|fiadanana}}, {{t-check|mg|fahandriampahalemana}}
+* {{ttbc|ml}}: {{t-check|ml|സമാധാനമ|tr=samādhānama|sc=Mlym}}
+* {{ttbc|mnk}}: {{t-check|mnk|here}}
+* {{ttbc|mt}}: {{t-check|mt|paċi}}
+* {{ttbc|mi}}: {{t-check|mi|whakaaio}}, {{t-check|mi|rangimarie}}
+* {{ttbc|arn}}: {{t-check|arn|uvchin}}, {{t-check|arn|kemelen}}
+* {{ttbc|mrw}}: {{t-check|mrw|diakatra}}
+* {{ttbc|mr}}: {{t-check|mr|शांती|tr=śāntī|sc=Deva}}
+* {{ttbc|mh}}: {{t-check|mh|aenomman}}
 * {{ttbc}}(Mayan languages): (ets'a'an'olal)
 * {{ttbc|crg}}: (peyahtuke yimowin)
-* {{ttbc|mic}}: [[wôntôkóde]]
-* {{ttbc|gmh}}: [[vride]]
-* {{ttbc|miq}}: [[kupia kumi laka]]
-* {{ttbc|mn}}: [[энх тайван]] (enh tayvan)
-* {{ttbc|lol}}: [[boóto]]
-* {{ttbc|mos}}: [[lafi]], [[làafi]]
-* {{ttbc|nah}}: [[yek nemilis]], [[tlamatcanemiliztli]]
-* {{ttbc|na}}: [[iow]]
-* {{ttbc|ne}}: [[शान्ती]] (šāntī)
+* {{ttbc|mic}}: {{t-check|mic|wôntôkóde}}
+* {{ttbc|gmh}}: {{t-check|gmh|vride}}
+* {{ttbc|miq}}: {{t-check|miq|kupia kumi laka}}
+* {{ttbc|mn}}: {{t-check|mn|энх тайван|tr=enh tayvan|sc=Cyrl}}
+* {{ttbc|lol}}: {{t-check|lol|boóto}}
+* {{ttbc|mos}}: {{t-check|mos|lafi}}, {{t-check|mos|làafi}}
+* {{ttbc|nah}}: {{t-check|nah|yek nemilis}}, {{t-check|nah|tlamatcanemiliztli}}
+* {{ttbc|na}}: {{t-check|na|iow}}
+* {{ttbc|ne}}: {{t-check|ne|शान्ती|tr=šāntī|sc=Deva}}
 * {{ttbc|new}}: (shanti)
-* {{ttbc|nez}}: [[eyewi]]
-* {{ttbc|yrl}}: [[tecócatú]]
-* {{ttbc|niu}}: [[mafola]]
-* {{ttbc|frr}}: [[frees]]
-* {{ttbc|se}}: [[ráfi]]
-* {{ttbc|nov}}: [[pase]]
-* {{ttbc|nto}}: [[nye]]
-* {{ttbc|oc}}: [[patz]]
-* {{ttbc|oj}}: [[bangan]] (be peaceful, calm)
-* {{ttbc|goh}}: [[fridu]]
-* {{ttbc|ono}}: [[skanoñ]]
+* {{ttbc|nez}}: {{t-check|nez|eyewi}}
+* {{ttbc|yrl}}: {{t-check|yrl|tecócatú}}
+* {{ttbc|niu}}: {{t-check|niu|mafola}}
+* {{ttbc|frr}}: {{t-check|frr|frees}}
+* {{ttbc|se}}: {{t-check|se|ráfi}}
+* {{ttbc|nov}}: {{t-check|nov|pase}}
+* {{ttbc|nto}}: {{t-check|nto|nye}}
+* {{ttbc|oc}}: {{t-check|oc|patz}}
+* {{ttbc|oj}}: {{t-check|oj|bangan|tr=be peaceful, calm|sc=Cans}}
+* {{ttbc|goh}}: {{t-check|goh|fridu}}
+* {{ttbc|ono}}: {{t-check|ono|skanoñ}}
 * {{ttbc|om}}: (nagaa)
 * {{ttbc}}(Otomian languages): [[hmethó]]
-* {{ttbc|pau}}: [[búdech]]
+* {{ttbc|pau}}: {{t-check|pau|búdech}}
 * {{ttbc|pi}}: (nirudho)
-* {{ttbc|pag}}: [[kareenan]]
-* {{ttbc|ood}}: [[dodolimdag]]
-* {{ttbc|pap}}: [[pas]]
+* {{ttbc|pag}}: {{t-check|pag|kareenan}}
+* {{ttbc|ood}}: {{t-check|ood|dodolimdag}}
+* {{ttbc|pap}}: {{t-check|pap|pas}}
 * {{ttbc|ps}}: {{t|ps|صلح|tr=solh}}
 * {{ttbc|fa}}: {{t+|fa|آشتی|tr=âštī}}
-* {{ttbc|piu}}: [[yatanpa]]
-* {{ttbc|pjt}}: [[pilun]]
-* {{ttbc|pon}}: [[meleilei]]
-* {{ttbc|pot}}: [[etokmitek]]
-* {{ttbc|pa}}: [[ਸ਼ਾਂਤੀ]] (šāntī)
-* {{ttbc|qu}}: [[sonqo tiaykuy]], [[qasikay]]
-* {{ttbc|rap}}: [[kiba kiba]]
-* {{ttbc|rom}}: [[shand]]
-* {{ttbc|ro}}: [[pace]]
-* {{ttbc|ro}}: [[pasch]]
-* {{ttbc|rn}}: [[amahoro]]
-* {{ttbc|rw}}: [[nimuhóre]]
-* {{ttbc|apb}}: [[däilama]]
-* {{ttbc|sm}}: [[filamu]] / [[pilemu]]
-* {{ttbc|sg}}: [[siriri]]
-* {{ttbc|sa}}: [[शान्तिः]] (śāntih)
-* {{ttbc|sc}}: [[paghi]] / [[pache]]
-* {{ttbc|sas}}: [[aman]]
-* {{ttbc|stq}}: [[free]]
-* {{ttbc|st}}: [[kgòtsò]]
-* {{ttbc|sn}}: [[runyaro]]
-* {{ttbc|si}}: [[සාමය]] (sāmaya)
-* {{ttbc|dak}}: [[wo'okeyeh]]
-* {{ttbc|ssq}}: [[kuthula]]
-* {{ttbc|sms}}: [[rääuh]]
-* {{ttbc|sl}}: [[mir]] {{g|m}}
-* {{ttbc|so}}: [[nabad-da]], [[nabadu]]
-* {{ttbc|ses}}: [[bâni]]
-* {{ttbc|snk}}: [[jamu]]
-* {{ttbc|sma}}: [[raeffie]]
-* {{ttbc|sw}}: [[amani]]
-* {{ttbc|tl}}: [[mabuhay]], [[kapayapaan]], [[katahimikan]]
-* {{ttbc|ty}}: [[hau]]
-* {{ttbc|tg}}: [[sulh]]
-* {{ttbc|srn}}: [[leshpeti]]
-* {{ttbc|tmh}}: [[əlxer]]
-* {{ttbc|tzm}}: [[talwit]]
-* {{ttbc|ta}}: [[அமைதி]] (amaiti), [[சமாதானம்]] (ćamātānam)
+* {{ttbc|piu}}: {{t-check|piu|yatanpa}}
+* {{ttbc|pjt}}: {{t-check|pjt|pilun|sc=pjt-Latn}}
+* {{ttbc|pon}}: {{t-check|pon|meleilei}}
+* {{ttbc|pot}}: {{t-check|pot|etokmitek}}
+* {{ttbc|pa}}: {{t-check|pa|ਸ਼ਾਂਤੀ|tr=šāntī|sc=Guru}}
+* {{ttbc|qu}}: {{t-check|qu|sonqo tiaykuy}}, {{t-check|qu|qasikay}}
+* {{ttbc|rap}}: {{t-check|rap|kiba kiba}}
+* {{ttbc|rom}}: {{t-check|rom|shand}}
+* {{ttbc|ro}}: {{t-check|ro|pace}}
+* {{ttbc|ro}}: {{t-check|ro|pasch}}
+* {{ttbc|rn}}: {{t-check|rn|amahoro}}
+* {{ttbc|rw}}: {{t-check|rw|nimuhóre}}
+* {{ttbc|apb}}: {{t-check|apb|däilama}}
+* {{ttbc|sm}}: {{t-check|sm|filamu}}, {{t-check|sm|pilemu}}
+* {{ttbc|sg}}: {{t-check|sg|siriri}}
+* {{ttbc|sa}}: {{t-check|sa|शान्तिः|tr=śāntih|sc=Deva}}
+* {{ttbc|sc}}: {{t-check|sc|paghi}}, {{t-check|sc|pache}}
+* {{ttbc|sas}}: {{t-check|sas|aman}}
+* {{ttbc|stq}}: {{t-check|stq|free}}
+* {{ttbc|st}}: {{t-check|st|kgòtsò}}
+* {{ttbc|sn}}: {{t-check|sn|runyaro}}
+* {{ttbc|si}}: {{t-check|si|සාමය|tr=sāmaya|sc=Sinh}}
+* {{ttbc|dak}}: {{t-check|dak|wo'okeyeh}}
+* {{ttbc|ssq}}: {{t-check|ssq|kuthula}}
+* {{ttbc|sms}}: {{t-check|sms|rääuh}}
+* {{ttbc|sl}}: {{t-check|sl|mir|m}}
+* {{ttbc|so}}: {{t-check|so|nabad-da}}, {{t-check|so|nabadu}}
+* {{ttbc|ses}}: {{t-check|ses|bâni}}
+* {{ttbc|snk}}: {{t-check|snk|jamu}}
+* {{ttbc|sma}}: {{t-check|sma|raeffie}}
+* {{ttbc|sw}}: {{t-check|sw|amani}}
+* {{ttbc|tl}}: {{t-check|tl|mabuhay}}, {{t-check|tl|kapayapaan}}, {{t-check|tl|katahimikan}}
+* {{ttbc|ty}}: {{t-check|ty|hau}}
+* {{ttbc|tg}}: {{t-check|tg|sulh|sc=Cyrl}}
+* {{ttbc|srn}}: {{t-check|srn|leshpeti}}
+* {{ttbc|tmh}}: {{t-check|tmh|əlxer}}
+* {{ttbc|tzm}}: {{t-check|tzm|talwit|sc=Tfng}}
+* {{ttbc|ta}}: {{t-check|ta|அமைதி|tr=amaiti|sc=Taml}}, {{t-check|ta|சமாதானம்|tr=ćamātānam|sc=Taml}}
 * {{ttbc|txg}}: (nei)
-* {{ttbc|tar}}: [[we kii'ri]]
-* {{ttbc|tt}}: [[дуслик]] (duslik)
-* {{ttbc|bo}}: [[ཞི་བདེ་ནི་]] (zhi-bde-ni)
+* {{ttbc|tar}}: {{t-check|tar|we kii'ri}}
+* {{ttbc|tt}}: {{t-check|tt|дуслик|tr=duslik|sc=Cyrl}}
+* {{ttbc|bo}}: {{t-check|bo|ཞི་བདེ་ནི་|tr=zhi-bde-ni|sc=Tibt}}
 * {{ttbc|ti}}: (selam)
 * {{ttbc|tli}}: (li-k'ei)
 * {{ttbc|tcx}}: (or)
-* {{ttbc|to}}: [[melino]]
-* {{ttbc|tk}}: [[asudalyk]]
-* {{ttbc|tw}}: [[asomdwie]]
-* {{ttbc|ak}}: [[asomdwee]]
+* {{ttbc|to}}: {{t-check|to|melino}}
+* {{ttbc|tk}}: {{t-check|tk|asudalyk}}
+* {{ttbc|tw}}: {{t-check|tw|asomdwie}}
+* {{ttbc|ak}}: {{t-check|ak|asomdwee}}
 * {{ttbc|ug}}: (saq), (tenchliq-peqet)
-* {{ttbc|uk}}: [[мир]] (myr)
-* {{ttbc|hsb}}: [[měr]]
-* {{ttbc|uz}}: [[тинчлик]] (tinçlik)
-* {{ttbc|vo}}: [[püd]]
-* {{ttbc|wbp}}: [[pukurlpa]]
-* {{ttbc|wnw}}: [[mina]]
-* {{ttbc|woe}}: [[gumund]]
-* {{ttbc|wo}}: [[jàmm]]
-* {{ttbc|xh}}: [[uxolo]]
-* {{ttbc|yi}}: [[פרידן]] (fridn), [[שלום]] (sholem)
-* {{ttbc|yo}}: [[àlãfíà]]
+* {{ttbc|uk}}: {{t-check|uk|мир|tr=myr|sc=Cyrl}}
+* {{ttbc|hsb}}: {{t-check|hsb|měr}}
+* {{ttbc|uz}}: {{t-check|uz|тинчлик|tr=tinçlik}}
+* {{ttbc|vo}}: {{t-check|vo|püd}}
+* {{ttbc|wbp}}: {{t-check|wbp|pukurlpa}}
+* {{ttbc|wnw}}: {{t-check|wnw|mina}}
+* {{ttbc|woe}}: {{t-check|woe|gumund}}
+* {{ttbc|wo}}: {{t-check|wo|jàmm}}
+* {{ttbc|xh}}: {{t-check|xh|uxolo}}
+* {{ttbc|yi}}: {{t-check|yi|פרידן|tr=fridn|sc=Hebr}}, {{t-check|yi|שלום|tr=sholem|sc=Hebr}}
+* {{ttbc|yo}}: {{t-check|yo|àlãfíà}}
 * {{ttbc|yue}}: (sai gaai òh pìhng)
-* {{ttbc|esu}}: [[илакулъык']] (ilakuljyq)
-* {{ttbc|zap}}: [[layéni]]
-* {{ttbc|zu}}: [[ukuthula]]
-* {{ttbc|fy}}: [[frede]]
+* {{ttbc|esu}}: {{qualifier|ilakuljyq}} {{t-check|esu|илакулъык'}}
+* {{ttbc|zap}}: {{t-check|zap|layéni}}
+* {{ttbc|zu}}: {{t-check|zu|ukuthula}}
+* {{ttbc|fy}}: {{t-check|fy|frede}}
 {{trans-bottom}}
 
 ===Interjection===
