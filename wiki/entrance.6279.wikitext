@@ -102,7 +102,7 @@ From {{etyl|frm|en}} {{term|entrance||entry|lang=frm}}
 * Macedonian: {{t|mk|влез|m|tr=vlez}}
 * Maori: {{t|mi|kūaha}}
 * Mongolian: {{t-needed|mn}}
-* Norwegian: {{t|no|inngang|m}}, , {{t+|no|entré|m}}, 
+* Norwegian: {{t|no|inngang|m}}, , {{t+|no|entré|m}}
 * Persian: {{t+|fa|ورودی|tr=vorudi|sc=fa-Arab}}
 * Polish: {{t+|pl|wejście|n}}
 * Portuguese: {{t+|pt|entrada}}
@@ -134,21 +134,21 @@ From {{etyl|frm|en}} {{term|entrance||entry|lang=frm}}
 * Lithuanian: {{t|lt|įstojimas}}
 * Macedonian: {{t|mk|влез|m|tr=vlez}}
 * Norwegian:
-*: Bokmål: {{t+|no|adgang|m}}, {{t|no|tilgang|m}}, {{t+|no|entré|m}}, 
+*: Bokmål: {{t+|no|adgang|m}}, {{t|no|tilgang|m}}, {{t+|no|entré|m}}
 *: Nynorsk: {{t|nn|åtgang|m}}, {{t|nn|tilgjenge|m}}
 * Russian: {{t+|ru|доступ|m|tr=dóstup|sc=Cyrl}}
 * Slovene: {{t+|sl|vstop|m}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Dutch: [[binnenkomst]] {{g|f}} (1), [[intrede]] {{g|f}} (2), [[toegangsrecht]] {{g|n}} (3)
+* Dutch: {{qualifier|1}} {{t-check|nl|binnenkomst|f}}, {{qualifier|2}} {{t-check|nl|intrede|f}}, {{qualifier|3}} {{t-check|nl|toegangsrecht|n}}
 * Hungarian: {{t+|hu|bejárat}}
-* Indonesian: [[jalan]] [[masuk]]
+* Indonesian: {{t-check|id|[[jalan]] [[masuk]]}} {{attention|id|2=was "[[jalan]] [[masuk]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Interlingua: {{t|ia|entrata}}
 {{trans-mid}}
 * Latin: {{t+|la|aditus}}, {{t|la|introitus}}
 * Maltese: {{t|mt|dħul}}
-* Tupinambá: 1. [[eiké]] (t-)
+* Tupinambá: {{qualifier|t-}} {{t-check|tpn|eiké|alt=1. eiké}} {{attention|tpn|2=was "1. [[eiké]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Volapük: {{t+|vo|nügolöp}}
 {{trans-bottom}}
 
@@ -190,15 +190,15 @@ From {{term|en-||lang=en|}} + {{term|trance||lang=en|daze}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|fr}}: [[enchanter]]
-* {{ttbc|id}}: [[pesona|mempesona]]
-* {{ttbc|ia}}: [[incantar]]
-* {{ttbc|ja}}: [[魅了|魅了する]] ([[みりょう|みりょうする]], miryō-suru)
+* {{ttbc|fr}}: {{t-check|fr|enchanter}}
+* {{ttbc|id}}: {{t-check|id|pesona|alt=mempesona}} {{attention|id|2=was "[[pesona|mempesona]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
+* {{ttbc|ia}}: {{t-check|ia|incantar}}
+* {{ttbc|ja}}: {{t-check|ja|魅了|tr=[[みりょう|みりょうする]], miryō-suru|alt=魅了する|sc=Jpan}} {{attention|ja|2=was "[[魅了|魅了する]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 {{trans-mid}}
-* {{ttbc|cmn}}: [[施展魔法]]
-* {{ttbc|pt}}: [[encantar]]
-* {{ttbc|es}}: [[encantar]]
-* {{ttbc|vo}}: [[bemagivön]]
+* {{ttbc|cmn}}: {{t-check|cmn|施展魔法|sc=Hani}}
+* {{ttbc|pt}}: {{t-check|pt|encantar}}
+* {{ttbc|es}}: {{t-check|es|encantar}}
+* {{ttbc|vo}}: {{t-check|vo|bemagivön}}
 {{trans-bottom}}
 
 [[Category:English heteronyms]]
