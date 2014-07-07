@@ -468,7 +468,7 @@ Via {{etyl|enm|en}} {{term|swete|lang=enm}}, {{term|sweete|lang=enm}}, from {{et
 * Finnish: {{t+|fi|makea}}
 * French: {{t+|fr|doux|m}}
 * Greek: {{t+|el|ανάλατος|m|tr=analatos}}
-* Italian: (''food'') [[non salato]], (''water'') {{t+|it|dolce}}
+* Italian: {{qualifier|food}} {{t|it| non salato}}, (''water'') {{t+|it|dolce}}
 * Japanese: {{t|ja|しょっぱくない|tr=shoppakunai}}
 {{trans-mid}}
 * Korean: {{t|ko|삼삼하다|tr=samsam-hada}}
@@ -492,7 +492,7 @@ Via {{etyl|enm|en}} {{term|swete|lang=enm}}, {{term|sweete|lang=enm}}, from {{et
 * Dutch: {{t+|nl|zoet}}
 * Finnish: {{t+|fi|miellyttävä}}, {{t+|fi|ihana}}, {{t+|fi|suloinen}}, {{t|fi|hyväntuoksuinen}}
 * Georgian: {{t|ka|არომატული|tr=aromatuli|sc=Geor}}
-* German: {{t+|de|wohlriechend}}, {{t+|de|duftend}}, [[Duft]]-
+* German: {{t+|de|wohlriechend}}, {{t+|de|duftend}}, {{t-check|de|Duft|alt=Duft-}} {{attention|de|2=was "[[Duft]]-" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Greek: {{t+|el|ευωδιαστός|m|tr=evodiastos}}
 * Italian: {{t+|it|profumato}}, {{t+|it|fragrante}}
 * Japanese: {{t|ja|芳しい|tr=kaguwasī}}, {{t|ja|香しい|tr=kaguwasī}}
@@ -539,7 +539,7 @@ Via {{etyl|enm|en}} {{term|swete|lang=enm}}, {{term|sweete|lang=enm}}, from {{et
 * Irish: {{t|ga|binn}}
 * Italian: {{t|it|intonato}}, {{t+|it|melodioso}}
 * Japanese: {{t|ja|心地よい|tr=kokochi-yoi}}
-* Korean: [[감미]]롭다 ([[甘味]]-, gammi-ropda)
+* Korean: {{t-check|ko|감미|tr=[[甘味]]-, gammi-ropda|alt=감미롭다|sc=Kore}} {{attention|ko|2=was "[[감미]]롭다" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 {{trans-mid}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|şirîn}}
@@ -674,27 +674,27 @@ Via {{etyl|enm|en}} {{term|swete|lang=enm}}, {{term|sweete|lang=enm}}, from {{et
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Arabic: {{t-check|ar|حلو|tr=ħélu}}
-* {{ttbc|bg}}: [[сладък]] (sladǎk) {{g|m}}, [[сладка]] (sladka) {{g|f}}, [[сладко]] (sladko) {{g|n}}
-* {{ttbc|cmn}}: [[甜]] (tián)
-* French: {{t+check|fr|suave|m|f}}
-* {{ttbc|de}}: [[süß]] (1,2)
-* Korean: [[단]] (dan), {{t+check|ko|깨끗하다|sc=Hang}}, {{t-check|ko|기분이 좋다|sc=Hang}}, {{t+check|ko|맛있다|sc=Hang}}
-* {{ttbc|id}}: [[manis]] (1,2)
-* Italian: [[gradevole]], {{t+check|it|piacevole}},
-* Latin: {{t-check|la|dulcis}}
-* {{ttbc|lt}}: [[saldus]] {{g|m}} (1); [[dailus]] {{g|m}} (2); [[mielas]] {{g|m}} (3)
+* {{ttbc|ar}}: {{t-check|ar|حلو|tr=ħélu}}
+* {{ttbc|bg}}: {{t-check|bg|сладък|m|tr=sladǎk|sc=Cyrl}}, {{t-check|bg|сладка|f|tr=sladka|sc=Cyrl}}, {{t-check|bg|сладко|n|tr=sladko|sc=Cyrl}}
+* {{ttbc|cmn}}: {{t-check|cmn|甜|tr=tián|sc=Hani}}
+* {{ttbc|fr}}: {{t+check|fr|suave|m|f}}
+* {{ttbc|de}}: {{qualifier|1,2}} {{t-check|de|süß}}
+* {{ttbc|ko}}: {{t-check|ko|단|tr=dan|sc=Kore}}, {{t+check|ko|깨끗하다|sc=Hang}}, {{t-check|ko|기분이 좋다|sc=Hang}}, {{t+check|ko|맛있다|sc=Hang}}
+* {{ttbc|id}}: {{qualifier|1,2}} {{t-check|id|manis}}
+* {{ttbc|it}}: {{t-check|it|gradevole}}, {{t+check|it|piacevole}}
+* {{ttbc|la}}: {{t-check|la|dulcis}}
+* {{ttbc|lt}}: {{qualifier|1}} {{t-check|lt|saldus|m}}, {{qualifier|2}} {{t-check|lt|dailus|m}}, {{qualifier|3}} {{t-check|lt|mielas|m}}
 {{trans-mid}}
-* Persian: {{t+check|fa|شیرین|tr=shirin) (1}}, {{t+check|fa|ناز|tr=nāz) (2}}
-* Portuguese: {{t+check|pt|atraente}}
-* {{ttbc|ro}}: [[dulce]]
-* Spanish: {{t-check|es|chachi}}
-* {{ttbc|te}}: [[తీపి]] (teepi), [[తియ్యని]] (tiyyani), [[ముద్దొచ్చే]] (muddocchae)
-* {{ttbc|tet}}: [[midar]]
-* Tibetan: {{t-check|bo|མངར་མོ|tr=ngar-mo}}
-* Turkish: {{t+check|tr|nazik}}, {{t+check|tr|yumuşak}}, {{t+check|tr|tatlı}}, {{t+check|tr|şekerli}}
-* {{ttbc|th}}: [[หวาน]] (wăan)
-* {{ttbc|cy}}: [[melys]] (1)
+* {{ttbc|fa}}: {{t+check|fa|شیرین|tr=shirin) (1}}, {{t+check|fa|ناز|tr=nāz) (2}}
+* {{ttbc|pt}}: {{t+check|pt|atraente}}
+* {{ttbc|ro}}: {{t-check|ro|dulce}}
+* {{ttbc|es}}: {{t-check|es|chachi}}
+* {{ttbc|te}}: {{t-check|te|తీపి|tr=teepi|sc=Telu}}, {{t-check|te|తియ్యని|tr=tiyyani|sc=Telu}}, {{t-check|te|ముద్దొచ్చే|tr=muddocchae|sc=Telu}}
+* {{ttbc|tet}}: {{t-check|tet|midar}}
+* {{ttbc|bo}}: {{t-check|bo|མངར་མོ|tr=ngar-mo}}
+* {{ttbc|tr}}: {{t+check|tr|nazik}}, {{t+check|tr|yumuşak}}, {{t+check|tr|tatlı}}, {{t+check|tr|şekerli}}
+* {{ttbc|th}}: {{t-check|th|หวาน|tr=wăan|sc=Thai}}
+* {{ttbc|cy}}: {{qualifier|1}} {{t-check|cy|melys}}
 {{trans-bottom}}
 
 ====Usage notes====
@@ -713,7 +713,7 @@ Via {{etyl|enm|en}} {{term|swete|lang=enm}}, {{term|sweete|lang=enm}}, from {{et
 {{trans-top|in a sweet manner}}
 * Catalan: {{t|ca|dolçament}}
 * Danish: {{t|da|sødt}}, {{t+|da|let}}
-* Finnish: [[ihana]][[-sti|sti]], [[pehmeä]][[-sti|sti]], [[hellä]][[-sti|sti]]
+* Finnish: {{t-check|fi|[[ihana]][[-sti|sti]]}} {{attention|fi|2=was "[[ihana]][[-sti|sti]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|fi|[[pehmeä]][[-sti|sti]]}} {{attention|fi|2=was "[[pehmeä]][[-sti|sti]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|fi|[[hellä]][[-sti|sti]]}} {{attention|fi|2=was "[[hellä]][[-sti|sti]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * French: {{t+|fr|doucement}}
 * Hebrew: {{t|he|במתיקות|tr=bimtikoot}}
 * Italian: {{t+|it|dolcemente}}
@@ -797,11 +797,11 @@ Via {{etyl|enm|en}} {{term|swete|lang=enm}}, {{term|sweete|lang=enm}}, from {{et
 {{trans-see|sweetheart}}
 
 {{checktrans-top}}
-* {{ttbc|bg}}: [[сладко]] (sladko) {{g|n}}
-* {{ttbc|id}}: [[manisan]], [[permen]]
-* Persian: {{t-check|fa|هله‌هوله|tr=hale-hule}}
-* {{ttbc|ro}}: [[dulce]] {{g|n}}
-* Turkish: {{t-check|tr|akide şekeri}}, {{t+check|tr|şekerleme}}
+* {{ttbc|bg}}: {{t-check|bg|сладко|n|tr=sladko|sc=Cyrl}}
+* {{ttbc|id}}: {{t-check|id|manisan}}, {{t-check|id|permen}}
+* {{ttbc|fa}}: {{t-check|fa|هله‌هوله|tr=hale-hule}}
+* {{ttbc|ro}}: {{t-check|ro|dulce|n}}
+* {{ttbc|tr}}: {{t-check|tr|akide şekeri}}, {{t+check|tr|şekerleme}}
 {{trans-bottom}}
 
 ===Statistics===
