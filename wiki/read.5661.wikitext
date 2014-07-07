@@ -180,7 +180,7 @@ From {{etyl|enm|en}} {{term|reden|lang=enm}}, from {{etyl|ang|en}} {{m|ang|rǣda
 * Latvian: {{t+|lv|lasīt}}
 {{trans-mid}}
 * Limburgish:
-*: Maastrichtian: {{t|li|leuze}}
+*: {{ttbc|Maastrichtian}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|li|leuze}}
 * Lithuanian: {{t+|lt|skaityti}}
 * Lojban: {{t+|jbo|tcidu}}
 * Lower Sorbian: {{t|dsb|cytaś}}
@@ -197,7 +197,7 @@ From {{etyl|enm|en}} {{term|reden|lang=enm}}, from {{etyl|ang|en}} {{m|ang|rǣda
 * Navajo: {{t|nv|ííníshtaʼ}}
 * Neapolitan: {{t|nap|legge}}
 * Ngazidja Comorian: {{t|zdj|soma|alt=usoma}}
-* North Frisian: {{qualifier|Mooring dialect}} {{t|frr|leese}}; {{qualifier|Föhr-Amrum}} {{t|frr|lees}}
+* North Frisian: {{qualifier|Mooring dialect}} {{t|frr|leese}}, {{qualifier|Föhr-Amrum}} {{t|frr|lees}}
 * Norwegian: {{t+|no|lese}}
 * Old English: {{t|ang|rǣdan}}
 * Old Saxon: {{t|osx|lesan}}
@@ -341,7 +341,7 @@ From {{etyl|enm|en}} {{term|reden|lang=enm}}, from {{etyl|ang|en}} {{m|ang|rǣda
 * Esperanto: {{t+|eo|legi}}
 * Estonian: {{t|et|lugema}}
 * French: {{t+|fr|lire}}
-* German: [[lesen]] [[können]]
+* German: {{t-check|de|[[lesen]] [[können]]}} {{attention|de|2=was "[[lesen]] [[können]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Irish: {{t|ga|léigh}}
 * Italian: {{t+|it|leggere}}
 * Jèrriais: {{t|roa-jer|liéthe}}
@@ -372,15 +372,15 @@ From {{etyl|enm|en}} {{term|reden|lang=enm}}, from {{etyl|ang|en}} {{m|ang|rǣda
 {{trans-top|of text, etc., to be interpreted or read in a particular way}}
 * Basque: {{t|eu|atzeman}}
 * Catalan: {{t|ca|llegir-se}}
-* Czech: [[číst]] se
+* Czech: {{t-check|cs|číst|alt=číst se}} {{attention|cs|2=was "[[číst]] se" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Dutch: {{t|nl|gelezen worden}}
 * French: {{t|fr|se lire}}
-* German: [[gelesen]] [[werden]]
+* German: {{t-check|de|[[gelesen]] [[werden]]}} {{attention|de|2=was "[[gelesen]] [[werden]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Indonesian: {{t|id|dibaca}}
 {{trans-mid}}
 * Italian: {{t|it|leggersi}}
 * Latin: {{t|la|legor}}
-* Polish: [[być]] [[czytany]]
+* Polish: {{t-check|pl|[[być]] [[czytany]]m}} {{attention|pl|2=was "[[być]] [[czytany]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Portuguese: {{t|pt|ler-se}}
 * Romanian: {{t|ro|a fi citit}}, {{t|ro|a fi lecturat}}
 * Spanish: {{t|es|leerse}}, {{t|es|interpertase}}, {{t+|es|entenderse}}
@@ -428,16 +428,16 @@ From {{etyl|enm|en}} {{term|reden|lang=enm}}, from {{etyl|ang|en}} {{m|ang|rǣda
 
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 {{checktrans-top}}
-* Georgian: {{t-check|ka|კითხულობს|tr=kitkhulobs}}
-* {{ttbc|gn}}: [[moñe'ẽ]]
-* {{ttbc|io}}: [[lektar]]
-* {{ttbc|id}}: [[baca|membaca]]
-* {{ttbc|ia}}: [[leger]]
+* {{ttbc|ka}}: {{t-check|ka|კითხულობს|tr=kitkhulobs}}
+* {{ttbc|gn}}: {{t-check|gn|moñe'ẽ}}
+* {{ttbc|io}}: {{t-check|io|lektar}}
+* {{ttbc|id}}: {{t-check|id|baca|alt=membaca}} {{attention|id|2=was "[[baca|membaca]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
+* {{ttbc|ia}}: {{t-check|ia|leger}}
 {{trans-mid}}
-* Korean: {{t+check|ko|읽다|sc=Hang}}, {{t+check|ko|독서하다|sc=Hang}}
-* {{ttbc|pl}}: [[czytać]], [[przeczytać]], [[odczytać]]
-* {{ttbc|ro}}: [[citi]]
-* {{ttbc|yi}}: [[לײענען]] (leyenen) (l)
+* {{ttbc|ko}}: {{t+check|ko|읽다|sc=Hang}}, {{t+check|ko|독서하다|sc=Hang}}
+* {{ttbc|pl}}: {{t-check|pl|czytać}}, {{t-check|pl|przeczytać}}, {{t-check|pl|odczytać}}
+* {{ttbc|ro}}: {{t-check|ro|citi}}
+* {{ttbc|yi}}: {{t-check|yi|לײענען|tr=leyenen|sc=Hebr}} (l)
 {{trans-bottom}}
 
 ===Noun===
@@ -465,7 +465,7 @@ From {{etyl|enm|en}} {{term|reden|lang=enm}}, from {{etyl|ang|en}} {{m|ang|rǣda
 * Manx: {{t|gv|lhaih|m}}
 * Portuguese: {{t+|pt|leitura|f}}, {{t+|pt|lida|f}}
 {{trans-mid}}
-* Romanian: {{t+|ro|citire|f}}, {{t|ro|lecturare}}; {{t+|ro|intonare|f}} (''actor'')
+* Romanian: {{t+|ro|citire|f}}, {{t|ro|lecturare}}, {{t+|ro|intonare|f}} (''actor'')
 * Sanskrit: {{t+|sa|पठति|tr=psThati|sc=Deva}}
 * Spanish: {{t+|es|lectura|f}}
 * Swedish: {{t+|sv|läsning|c}}
