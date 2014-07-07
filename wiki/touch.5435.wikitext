@@ -276,7 +276,7 @@ From {{etyl|enm|en}} {{term|touchen|lang=enm}}, {{term|tochen|lang=enm}}, from {
 * Chinese:
 *: Mandarin: {{t|cmn|觸覺|sc=Hani}}, {{t+|cmn|触觉|tr=chùjué|sc=Hani}}
 * Czech: {{t|cs|hmat|m}}
-* Finnish: {{t+|fi|tuntoaisti}}; {{t|fi|käsikopelo}} {{qualifier|informal}}
+* Finnish: {{t+|fi|tuntoaisti}}, {{t|fi|käsikopelo}} {{qualifier|informal}}
 * French: {{t+|fr|toucher|m}}
 * German: {{t+|de|Berührung|f}}, {{t+|de|Tasten|n}}
 * Greek: {{t+|el|αφή|f|tr=afí}}
@@ -295,7 +295,7 @@ From {{etyl|enm|en}} {{term|touchen|lang=enm}}, {{term|tochen|lang=enm}}, from {
 
 {{trans-top|style or technique}}
 * Dutch: {{t+|nl|touché|n}}
-* Finnish: {{t+|fi|kosketus}}, [[tyyli]]; [[tatsi]] {{qualifier|informal}}
+* Finnish: {{t+|fi|kosketus}}, {{t|fi|tyyli}}, {{qualifier|informal}} {{t|fi|tatsi}}
 * Japanese: {{t|ja|タッチ|tr=tacchi}}
 * Polish: {{t+|pl|podejście|n}}, {{t+|pl|styl|m}}
 * Portuguese: {{t+|pt|toque|m}}
@@ -348,19 +348,19 @@ From {{etyl|enm|en}} {{term|touchen|lang=enm}}, {{term|tochen|lang=enm}}, from {
 {{trans-bottom}}
 
 {{trans-top|ability to perform a task}}
-* Finnish: {{t+|fi|ote}}, {{t|fi|tuntuma}}; {{t|fi|tatsi}} {{qualifier|informal, anglicism}}
+* Finnish: {{t+|fi|ote}}, {{t|fi|tuntuma}}, {{t|fi|tatsi}} {{qualifier|informal, anglicism}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|cmn}}: [[触]] (chù)
-* {{ttbc|nl}}: [[aanraking]] {{g|f}} (1), [[contact]] {{g|n}} (1,2)
-* {{ttbc|eo}}: [[tuŝo]] (1), [[kontakto]] (2)
-* {{ttbc|fr}}: [[toucher]] {{g|m}} (1), [[contact]] {{g|m}} (2)
-* {{ttbc|id}}: [[sentuh|sentuhan]], [[raba|rabaan]], [[singgung|persinggungan]]
-* {{ttbc|it}}: [[tatto]] {{g|m}} (1,3), [[contatto]] {{g|m}} (2)
-* {{ttbc|es}}: [[toque]] {{g|m}} (1), [[tacto]] {{g|m}} (1), [[contacto]] {{g|m}} (2)
-* {{ttbc|uk}}: [[дотик]] (dótyk) {{g|m}} (1), [[доторк]] (dótork) {{g|m}} (1), [[контакт]] (kontákt) (2), [[чуття дотику]] (čuttja dótyku) (3)
+* {{ttbc|cmn}}: {{t-check|cmn|触|tr=chù|sc=Hani}}
+* {{ttbc|nl}}: {{qualifier|1}} {{t-check|nl|aanraking|f}}, {{qualifier|1,2}} {{t-check|nl|contact|n}}
+* {{ttbc|eo}}: {{qualifier|1}} {{t-check|eo|tuŝo}}, {{qualifier|2}} {{t-check|eo|kontakto}}
+* {{ttbc|fr}}: {{qualifier|1}} {{t-check|fr|toucher|m}}, {{qualifier|2}} {{t-check|fr|contact|m}}
+* {{ttbc|id}}: {{t-check|id|sentuh|alt=sentuhan}} {{attention|id|2=was "[[sentuh|sentuhan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|id|raba|alt=rabaan}} {{attention|id|2=was "[[raba|rabaan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|id|singgung|alt=persinggungan}} {{attention|id|2=was "[[singgung|persinggungan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
+* {{ttbc|it}}: {{qualifier|1,3}} {{t-check|it|tatto|m}}, {{qualifier|2}} {{t-check|it|contatto|m}}
+* {{ttbc|es}}: {{qualifier|1}} {{t-check|es|toque|m}}, {{qualifier|1}} {{t-check|es|tacto|m}}, {{qualifier|2}} {{t-check|es|contacto|m}}
+* {{ttbc|uk}}: {{t-check|uk|дотик|m|tr=dótyk|sc=Cyrl}} (1), {{t-check|uk|доторк|m|tr=dótork|sc=Cyrl}} (1), {{t-check|uk|контакт|tr=kontákt|sc=Cyrl}} (2), {{t-check|uk|чуття дотику|tr=čuttja dótyku|sc=Cyrl}} (3)
 {{trans-bottom}}
 
 ===Statistics===
