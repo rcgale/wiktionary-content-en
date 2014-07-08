@@ -104,23 +104,23 @@ From {{etyl|enm|en}} {{term|brother|lang=enm}}, from {{etyl|ang|en}} {{m|ang|br�
 * Basque: {{t|eu|anai}} {{qualifier|brother of a male}}, {{t+|eu|neba}} {{qualifier|brother of a female}}
 * Belarusian: {{t|be|брат|m}}
 * Bengali: {{t|bn|ভাই|tr=bhai|sc=Beng}}, literary: {{t|bn|ভ্রাতা|tr=bhrata|sc=Beng}}
-* Breton: {{t+|br|breur|m}}, breudeur {{g|p}}
+* Breton: {{t+|br|breur|m}}, {{t|br|breudeur|p}}
 * Bulgarian: {{t+|bg|брат|m}}
-* Burmese: {{t|my|အကို|sc=Mymr|tr=ăko}} {{gloss|elder}}; {{t+|my|ညီ|tr=nyi|sc=Mymr}} {{gloss|younger}}
+* Burmese: {{t|my|အကို|sc=Mymr|tr=ăko}} {{gloss|elder}}, {{t+|my|ညီ|tr=nyi|sc=Mymr}} {{gloss|younger}}
 * Buryat: {{t|bua|аха}} {{qualifier|elder}}, {{t|bua|дуу}} {{qualifier|younger}}
 * Catalan: {{t+|ca|germà|m}}
 * Chechen: {{t|ce|ваша}}
 * Cherokee: {{t|chr|ᏗᎾᏓᏅᏟ|sc=Cher}}
 * Chinese:
 *: Mandarin: {{t+|cmn|哥哥|tr=gēge|sc=Hani}} {{qualifier|elder}}, {{t+|cmn|弟弟|tr=dìdi|sc=Hani}} {{qualifier|younger}}, {{t+|cmn|兄弟|tr=xiōngdi|sc=Hani}} {{qualifier|male sibling, brothers: (xiōng-dì)}}
-*: Min Nan: (''elder brother'') [[阿兄]] ([[a-hiaⁿ]]); (''younger brother'') [[小弟]] ([[sió-tī]]), {{qualifier|brothers}} {{t+|nan|兄弟|tr=hiaⁿ-tī|sc=Hans}}
-*: Teochew: a1-hion1 {{qualifier|elder brother}}; a1-di2 {{qualifier|younger brother}}
+*: Min Nan: {{qualifier|elder brother}} {{t|nan| 阿兄|tr=[[a-hiaⁿ]]|sc=Hani}}, {{qualifier|younger brother}} {{t|nan| 小弟|tr=[[sió-tī]]|sc=Hani}}, {{qualifier|brothers}} {{t+|nan|兄弟|tr=hiaⁿ-tī|sc=Hans}}
+*: Teochew: {{qualifier|elder brother}} {{t-check|nan|tr=a1-hion1|sc=Hani}}, {{qualifier|younger brother}} {{t-check|nan|tr=a1-di2|sc=Hani}}
 * Chinook Jargon: {{t|chn|ow}}, {{t|chn|kahpo}}
 * Chuvash: {{t|cv|ар тӑван|sc=Cyrl}}
 * Comanche: {{t|com|tami}} {{qualifier|younger}}, {{t|com|pabi}} {{qualifier|older}}
 * Coptic: {{t|cop|ⲥⲟⲛ|tr=son|sc=Copt}}
 * Corsican: {{t+|co|fratellu|m}}, {{t+|co|frateddu|m}}
-* Crimean Tatar: {{t|crh|ağa}} {{qualifier|elder brother; in the northern dialect: [[aqa]]}}; {{t|crh|qardaş}} {{qualifier|younger brother}}, {{t|crh|kadâ}} {{qualifier|in the northern dialect: [[mata]]}}
+* Crimean Tatar: {{t|crh|ağa}} {{qualifier|elder brother; in the northern dialect: [[aqa]]}}, {{t|crh|qardaş}} {{qualifier|younger brother}}, {{t|crh|kadâ}} {{qualifier|in the northern dialect: [[mata]]}}
 * Czech: {{t+|cs|bratr|m}}
 * Dalmatian: {{t|dlm|frutro|m}}
 * Danish: {{t+|da|broder|c}}, {{t+|da|bror|c}}
@@ -153,9 +153,9 @@ From {{etyl|enm|en}} {{term|brother|lang=enm}}, from {{etyl|ang|en}} {{m|ang|br�
 * Icelandic: {{t+|is|bróðir}}
 * Ido: {{t+|io|fratulo}}
 * Igbo: {{t-needed|ig}}
-* Indonesian: [[saudara]] {{g|m}} {{qualifier|male sibling}}, [[kakak]] [[laki-laki]]/[[abang]] {{g|m}} {{qualifier|elder brother}}, [[adik]] [[laki-laki]] {{g|m}} {{qualifier|younger brother}}
-*: Javanese: [[kangmas]] {{g|m}} {{qualifier|elder brother}}, [[dimas]] {{g|m}} {{qualifier|younger brother}}
-*: Sundanese: {{t+|su|akang}}, {{t+|su|aa}}, [[raka]] {{g|m}} {{qualifier|elder brother}}, {{t|su|rayi}}, [[dédé]] {{g|m}} {{qualifier|younger brother}}
+* Indonesian: {{qualifier|male sibling}} {{t|id|saudara|m}}, {{t-check|id|[[kakak]] [[laki-laki]]}} {{attention|id|2=was "[[kakak]] [[laki-laki]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{qualifier|elder brother}} {{t|id|abang|m}}, {{qualifier|younger brother}} {{t-check|id|[[adik]] [[laki-laki]]|m}} {{attention|id|2=was "[[adik]] [[laki-laki]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
+*: Javanese: {{qualifier|elder brother}} {{t|jv|kangmas|m}}, {{qualifier|younger brother}} {{t|jv|dimas|m}}
+*: Sundanese: {{t+|su|akang}}, {{t+|su|aa}}, {{qualifier|elder brother}} {{t|su|raka|m}}, {{t|su|rayi}}, {{qualifier|younger brother}} {{t|su|dédé|m}}
 * Ingrian: {{t|izh|velli}}
 * Ingush: {{t|inh|воша}}
 * Interlingua: {{t|ia|fratre}}
@@ -209,7 +209,7 @@ From {{etyl|enm|en}} {{term|brother|lang=enm}}, from {{etyl|ang|en}} {{m|ang|br�
 * Navajo: {{t|nv|atsilí}} {{qualifier|younger}}, {{t|nv|ánaaí}} {{qualifier|elder}}
 * Nenets: {{t|yrk|ня}}
 * Nepali: {{t+|ne|दाजु|tr=dāju|sc=Deva}}
-* North Frisian: {{qualifier|Mooring}} {{t|frr|brouder|m}}; {{qualifier|Föhr-Amrum}}, {{t|frr|bruler|m}}
+* North Frisian: {{qualifier|Mooring}} {{t|frr|brouder|m}}, {{qualifier|Föhr-Amrum}} {{t|frr|bruler|m}}
 * Northern Sami: {{t|se|viellja}}
 * Norwegian: {{t+|no|bror|m}}
 * Novial: {{t|nov|fratro}}
@@ -225,8 +225,8 @@ From {{etyl|enm|en}} {{term|brother|lang=enm}}, from {{etyl|ang|en}} {{m|ang|br�
 * Old Prussian: {{t|prg|brāti|m}}
 * Oriya: {{t|or|ଭାଇ|tr=bhā'i|sc=Orya}}
 * Ossetian:
-*: Digor: {{t|os|ӕнсувӕр}}, {{t|os|ӕрвадӕ}}
-*: Iron: {{t|os|ӕфсымӕр}}, {{t|os|ӕрвад}}
+*: {{ttbc|Digor}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|os|ӕнсувӕр}}, {{t|os|ӕрвадӕ}}
+*: {{ttbc|Iron}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|os|ӕфсымӕр}}, {{t|os|ӕрвад}}
 * Pashto: {{t+|ps|ورور|m|tr=wror|sc=ps-Arab}}
 * Persian: {{t+|fa|برادر|tr=barâdar}}
 * Phoenician: {{t|phn|𐤀𐤇|tr=’ḥ|sc=Phnx}}
@@ -249,7 +249,7 @@ From {{etyl|enm|en}} {{term|brother|lang=enm}}, from {{etyl|ang|en}} {{m|ang|br�
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|брат|m|sc=Cyrl}}
 *: Roman: {{t+|sh|brat|m}}
-* Seri: [[aacaz]] {{qualifier|younger brother of a female}}
+* Seri: {{qualifier|younger brother of a female}} {{t|sei|aacaz}}
 * Sicilian: {{t+|scn|frati|m}}
 * Sikkimese: {{t-needed|sip}}
 * Silesian: {{t|szl|brat|m}}
@@ -265,11 +265,11 @@ From {{etyl|enm|en}} {{term|brother|lang=enm}}, from {{etyl|ang|en}} {{m|ang|br�
 * Spanish: {{t+|es|hermano|m}}, {{t+|es|par}}
 * Swahili: {{t+|sw|ndugu}}, {{t+|sw|kaka}}
 * Swedish: {{t+|sv|bror|c}}, {{t+|sv|broder|c}} {{qualifier|elder/more formal}}
-* Tagalog: [[kapatid na lalaki]] {{qualifier|brother}}, [[kuya]] {{qualifier|elder brother}}, [[totoy]] {{qualifier|younger brother}}
+* Tagalog: {{qualifier|brother}} {{t|tl|kapatid na lalaki}}, {{qualifier|elder brother}} {{t|tl|kuya}}, {{qualifier|younger brother}} {{t|tl|totoy}}
 * Tajik: {{t|tg|бародар|sc=Cyrl}}
 * Talysh:
-*: Anbarani: {{t|tly|بوه|tr=bəva}}
-*: Asalemi: {{t|tly|برا|tr=bərâ|sc=fa-Arab}}
+*: {{ttbc|Anbarani}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|tly|بوه|tr=bəva}}
+*: {{ttbc|Asalemi}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|tly|برا|tr=bərâ|sc=fa-Arab}}
 * Tamil: {{t+|ta|சகோதரன்|tr=čakōtaraṉ|sc=Taml}}, {{t+|ta|அண்ணன்|tr=aṇṇaN|sc=Taml}} {{qualifier|elder}}, {{t+|ta|தம்பி|tr=tampi|sc=Taml}} {{qualifier|younger}}
 * Taos: {{t|twf|p’ǫ́yna}} (younger), {{t|twf|pòpóna}} (elder)
 * Tatar: {{qualifier|elder}} {{t+|tt|абый|sc=Cyrl}}, {{t+|tt|абзый|sc=Cyrl}}, {{qualifier|younger}} {{t+|tt|эне|sc=Cyrl}}
@@ -310,17 +310,17 @@ From {{etyl|enm|en}} {{term|brother|lang=enm}}, from {{etyl|ang|en}} {{m|ang|br�
 * Armenian: {{t+|hy|եղբայր|sc=Armn}}, {{t|hy|ախպեր|sc=Armn}}
 * Asturian: {{t+|ast|hermanu|m}}
 * Basque: {{t|eu|anai}} ''(brother of a male)'', {{t+|eu|neba}} ''(brother of a female)''
-* Breton: {{t+|br|breur|m}}, breudeur {{g|p}}
+* Breton: {{t+|br|breur|m}}, {{t|br|breudeur|p}}
 * Bulgarian: {{t+|bg|брат|m|tr=brat}}
 * Catalan: {{t+|ca|germà|m}}
 * Chinese:
-*: Teochew: hion1di2 (6) {{g|p}}
+*: Teochew: {{t-check|nan|tr=hion1di2|p|tr=6|sc=Hani}}
 * Czech: {{t+|cs|bratr|m}}
 * Danish: {{t+|da|broder|c}}, {{t+|da|bror|c}}
 * Dutch: {{t+|nl|broer|m}}, {{t+|nl|broeder|m}} {{qualifier|formal}}
 * Eshtehardi: {{t|esh|برار|tr=barār|sc=fa-Arab}}
 * Estonian: {{t+|et|vend}}
-* Ewe: {{t|ee|nɔviŋutsu}}, (''brother''), {{t|ee|fo}} (''elder brother''), {{t|ee|tsɛ}} (''younger brother'')
+* Ewe: {{t-check|ee|nɔviŋutsu}} {{qualifier|brother}}, {{t-check|ee|fo}} {{qualifier|elder brother}}, {{t|ee|tsɛ}} {{qualifier|younger brother}}
 * Finnish: {{t+|fi|veli}}
 * French: {{t+|fr|frère|m}}
 * German: {{t+|de|Bruder|m}}
@@ -359,7 +359,7 @@ From {{etyl|enm|en}} {{term|brother|lang=enm}}, from {{etyl|ang|en}} {{m|ang|br�
 * Spanish: {{t+|es|hermano|m}}
 * Swedish: {{t+|sv|bror|c}}, {{t+|sv|broder|c}} (''elder/more formal'')
 * Talysh:
-*: Asalemi: {{t|tly|برا|tr=bərâ|sc=fa-Arab}}
+*: {{ttbc|Asalemi}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|tly|برا|tr=bərâ|sc=fa-Arab}}
 * Tocharian A: {{t|xto|pracar}}
 * Tocharian B: {{t|txb|procer}}
 * Tongan: {{t|to|tuonga'ane}}
@@ -414,21 +414,20 @@ From {{etyl|enm|en}} {{term|brother|lang=enm}}, from {{etyl|ang|en}} {{m|ang|br�
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: {{l|ar|اخ|أخ}} (’ax) {{g|m}}
-* {{ttbc|eo}}: [[frato]]
-* {{ttbc|gn}}: [[kyvy]] ''(brother of a female)'' (1); [[yvýra]] (tyvýra/ryvy/ityvýra) ''(younger brother of a male)'' (1), [[yke'y]] (tyke'y/ryke'y/ityke'y) ''(elder brother of a male)'' (1)
-* {{ttbc|ia}}: [[fratre]] (1,3)
-* {{ttbc|ko}}: [[형제]] (hyeongje)
-''(younger brother)'' (1), [[bruder]] (3)
+* {{ttbc|ar}}: {{t-check|ar|اخ|m|tr=’ax|alt=أخ|sc=Arab}} {{attention|ar|2=was "[[اخ|أخ]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
+* {{ttbc|eo}}: {{t-check|eo|frato}}
+* {{ttbc|gn}}: {{qualifier|brother of a female; 1}} {{t-check|gn|kyvy}}, {{qualifier|younger brother of a male; tyvýra/ryvy/ityvýra}} {{t-check|gn|yvýra}} (1), {{qualifier|elder brother of a male; tyke'y/ryke'y/ityke'y}} {{t-check|gn|yke'y}} (1)
+* {{ttbc|ia}}: {{qualifier|1,3}} {{t-check|ia|fratre}}
+* {{ttbc|ko}}: {{t-check|ko|형제|tr=hyeongje|sc=Kore}}
 * Marathi: {{t-check|mr|भाऊ|tr=bhāu|?}}
-* {{ttbc|mic}}: [[nidap]]
-* {{ttbc|no}}: [[bror]] (1), [[lillebror]] ''(little brother)'' (1), [[storebror]] ''(big brother)'' (1), [[Broder]] ''(elder form/formal)'', [[stebror]] ''(stepbrother)'' (2), [[halvbror]] ''(half-brother)'' (2)
+* {{ttbc|mic}}: {{t-check|mic|nidap}}
+* {{ttbc|no}}: {{qualifier|1}} {{t-check|no|bror}}, {{qualifier|little brother; 1}} {{t-check|no|lillebror}}, {{qualifier|big brother; 1}} {{t-check|no|storebror}}, {{qualifier|elder form/formal}} {{t-check|no|Broder}}, {{qualifier|stepbrother; 2}} {{t-check|no|stebror}}, {{qualifier|half-brother; 2}} {{t-check|no|halvbror}}
 * Persian: {{t+check|fa|بَرادَر|tr=bærādær}}
-* {{ttbc|sa}}: [[बंधू]] (bandhu)
-* Telugu: {{t+check|te|అన్న}} (anna), {{t+check|te|అన్నయ్య}} (annayya, ''elder brother''); {{t+check|te|తమ్ముడు}} (tammuddu, ''younger brother'')
-* {{ttbc|tpn}}: [[kybyra]] ''(brother of a female)'' (1); [[ybyra]] (t-, t-) ''(younger brother of a male)'', [[yke'yra]] (t-, t-) ''(elder brother of a male)''
-* {{ttbc|vi}}: [[anh]], [[em]] (younger) (1,2)
-* {{ttbc|xh}}: [[bhuti]]
+* {{ttbc|sa}}: {{t-check|sa|बंधू|tr=bandhu|sc=Deva}}
+* Telugu: {{t+check|te|అన్న}} (anna), {{t+check|te|అన్నయ్య}} (annayya, ''elder brother''), {{t+check|te|తమ్ముడు}} (tammuddu, ''younger brother'')
+* {{ttbc|tpn}}: {{qualifier|brother of a female; 1}} {{t-check|tpn|kybyra}}, {{qualifier|younger brother of a male; t-, t-}} {{t-check|tpn|ybyra}}, {{qualifier|elder brother of a male; t-, t-}} {{t-check|tpn|yke'yra}}
+* {{ttbc|vi}}: {{t-check|vi|anh}}, {{qualifier|younger}} {{t-check|vi|em}} (1,2)
+* {{ttbc|xh}}: {{t-check|xh|bhuti}}
 {{trans-bottom}}
 
 ====Usage notes====
