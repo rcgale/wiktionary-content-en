@@ -87,7 +87,7 @@
 * Bulgarian: {{t+|bg|лекарство|n|tr=lekárstvo}}
 * Burmese: {{t+|my|ဆေး|tr=hse:|sc=Mymr}}
 * Chinese:
-*: Mandarin: {{t+|cmn|藥|sc=Hani}}, {{t+|cmn|药|tr=yào|sc=Hani}}, {{t|cmn|藥材|sc=Hani}}, {{t+|cmn|药材|tr=yàocái|sc=Hani}}, {{t+|cmn|藥物|sc=Hani}}, {{t+|cmn|药物|tr=yàowù|sc=Hani}}, 
+*: Mandarin: {{t+|cmn|藥|sc=Hani}}, {{t+|cmn|药|tr=yào|sc=Hani}}, {{t|cmn|藥材|sc=Hani}}, {{t+|cmn|药材|tr=yàocái|sc=Hani}}, {{t+|cmn|藥物|sc=Hani}}, {{t+|cmn|药物|tr=yàowù|sc=Hani}}
 * Czech: {{t+|cs|lék|m}}
 * Danish: {{t+|da|medicin|c}}
 * Dutch: {{t+|nl|medicijn|n}}, {{t+|nl|geneesmiddel|n}}
@@ -100,7 +100,7 @@
 * Georgian: {{t|ka|წამალი|tr=camali|sc=Geor}}
 * German: {{t+|de|Arznei|f}}, {{t+|de|Medizin|f}}, {{t+|de|Medikament|n}}
 * Greek: {{t+|el|φάρμακο|n|tr=fármako}}
-*: Ancient: [[φαρμάκιον]] (farmakion) {{g|n}}, [[φαρμάκευμα]] (farmakeuma) {{g|n}}, [[βοήθημα]] (voithima) {{g|n}}
+*: Ancient: {{t|grc|φαρμάκιον|n|tr=farmakion|sc=polytonic}}, {{t|grc|φαρμάκευμα|n|tr=farmakeuma|sc=polytonic}}, {{t|grc|βοήθημα|n|tr=voithima|sc=polytonic}}
 * Haitian Creole: {{t|ht|medikaman}}
 * Hawaiian: {{t|haw|lāʻau}}
 * Hebrew: {{t+|he|תרופה|f|tr=trufā}}
@@ -178,7 +178,7 @@
 * Greek: {{t+|el|αγωγή|f|tr=agogí}}
 * Japanese: {{t+|ja|治療|tr=ちりょう, chiryō|sc=Jpan}}
 {{trans-mid}}
-* Latvian: [[ārstēšana]] {{g|f}} (''process of treatment''), [[ārstniecība]] {{g|f}} (''treatment in general''), [[izārstēšana]] {{g|f}} (''treatment with a supposed successful outcome'')
+* Latvian: {{qualifier|process of treatment}} {{t|lv|ārstēšana|f}}, {{qualifier|treatment in general}} {{t|lv|ārstniecība|f}}, {{qualifier|treatment with a supposed successful outcome}} {{t|lv|izārstēšana|f}}
 * Macedonian: {{t|mk|лекување|n|tr=lekúvanje}}, {{t|mk|лек|m|tr=lek}}
 * Portuguese: {{t+|pt|tratamento|m}}
 * Romanian: {{t+|ro|terapie|f}}, {{t+|ro|tratament|n}}
@@ -204,7 +204,7 @@
 *: Mandarin: {{t|cmn|醫學|sc=Hani}}, {{t+|cmn|医学|tr=yīxué|sc=Hani}}{{t|cmn|方劑學|sc=Hani}}, {{t|cmn|方剂学|tr=fāngjìxué|sc=Hani}}
 * Czech: {{t+|cs|lékařství|n}}
 * Danish: {{t+|da|medicin|c}}
-* Dutch: {{t+|nl|geneeskunde|f}}, [[artsenij]] {{g|f}} (archaic)
+* Dutch: {{t+|nl|geneeskunde|f}}, {{qualifier|archaic}} {{t|nl|artsenij|f}}
 * Esperanto: {{t+|eo|medicino}}
 * Estonian: {{t|et|meditsiin}}
 * Faroese: {{t|fo|læknafrøði|f}}
@@ -260,7 +260,7 @@
 {{trans-top|profession}}
 * Arabic: {{t+|ar|طب|m|tr=ṭibb}}
 * Czech: {{t+|cs|lékařství|n}}
-* Dutch: {{t+|nl|geneeskunde}}, [[artsenij]] {{g|f}} (archaic)
+* Dutch: {{t+|nl|geneeskunde}}, {{qualifier|archaic}} {{t|nl|artsenij|f}}
 * Finnish: {{t+|fi|lääketiede}}, {{t|fi|lääkäriys}}
 * Greek: {{t+|el|ιατρική|f|tr=iatriki}}
 * Latvian: {{t|lv|medicīna|f}}
@@ -283,17 +283,17 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sq}}: [[bar]] {{g|m}}, [[ilaç]] {{g|m}}
-* {{ttbc|br}}: [[mezegiezh]] {{g|f}}
-* {{ttbc|ca}}: [[medicament]] {{g|m}}
-* {{ttbc|hi}}: [[दवाई]] (davāī)
-* {{ttbc|id}}: [[obat]]
+* {{ttbc|sq}}: {{t-check|sq|bar|m}}, {{t-check|sq|ilaç|m}}
+* {{ttbc|br}}: {{t-check|br|mezegiezh|f}}
+* {{ttbc|ca}}: {{t-check|ca|medicament|m}}
+* {{ttbc|hi}}: {{t-check|hi|दवाई|tr=davāī|sc=Deva}}
+* {{ttbc|id}}: {{t-check|id|obat}}
 {{trans-mid}}
 * Jèrriais: {{t-check|roa-jer|méd'cinne|f}}, {{t-check|roa-jer|méd'cinn'nie|f}}
-* {{ttbc|mr}}: [[औषद]] (oušad)
-* {{ttbc|ro}}: [[leac]] {{g|m|f}}
-* {{ttbc|sw}}: [[dawa]], [[madawa]] ''pl (noun 5,6)'' (1,2)
-* {{ttbc|ta}}: [[ஔடதம்]] (auṭatam)
+* {{ttbc|mr}}: {{t-check|mr|औषद|tr=oušad|sc=Deva}}
+* {{ttbc|ro}}: {{t-check|ro|leac|m|f}}
+* {{ttbc|sw}}: {{t-check|sw|dawa}}, {{qualifier|noun 5,6}} {{t-check|sw|madawa|p}} (1,2)
+* {{ttbc|ta}}: {{t-check|ta|ஔடதம்|tr=auṭatam|sc=Taml}}
 {{trans-bottom}}
 
 ===Verb===
