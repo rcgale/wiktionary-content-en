@@ -238,8 +238,8 @@ From {{etyl|fro|en}} {{term|science|lang=fro}}, from {{etyl|la|en}} {{term|scien
 * Czech: {{t+|cs|věda}}
 * Danish: {{t|da|videnskab}}
 * Dutch: {{t+|nl|wetenschap|f}}
-* Estonian: -[[teadus]], {{t|et|teadusala}}
-* Finnish: -[[tiede]], {{t+|fi|tieteenala}}
+* Estonian: {{t-check|et|teadus|alt=-teadus}} {{attention|et|2=was "-[[teadus]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t|et|teadusala}}
+* Finnish: {{t-check|fi|tiede|alt=-tiede}} {{attention|fi|2=was "-[[tiede]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t+|fi|tieteenala}}
 * French: {{t+|fr|science|f}}
 * German: {{t+|de|Wissenschaft|f}}
 * Greek: {{t+|el|επιστήμη|f|tr=epistími}}
@@ -255,7 +255,7 @@ From {{etyl|fro|en}} {{term|science|lang=fro}}, from {{etyl|la|en}} {{term|scien
 * Korean: {{t+|ko|과학|sc=Hang}}
 {{trans-mid}}
 * Latvian: {{t+|lv|zinātne|f}}
-* Malay: [[bidang]] [[sains]]
+* Malay: {{t-check|ms|[[bidang]] [[sains]]}} {{attention|ms|2=was "[[bidang]] [[sains]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Malayalam: {{t|ml|ശാസ്‌ത്രം|tr=Saasthram}}
 * Maltese: {{t|mt|xjenza}}
 * Norwegian:
@@ -275,7 +275,7 @@ From {{etyl|fro|en}} {{term|science|lang=fro}}, from {{etyl|la|en}} {{term|scien
 * Tagalog: {{t+|tl|agham}}, {{t|tl|siyensiya}}
 * Turkish: {{t+|tr|bilim}}
 * Ukrainian: {{t+|uk|наука|f|tr=naúka|sc=Cyrl}}, {{t|uk|дисципліна|f|tr=dystsyplína|sc=Cyrl}}
-* Vietnamese: [[ngành]] [[khoa học]], [[môn]] khoa học
+* Vietnamese: {{t-check|vi|[[ngành]] [[khoa học]]}} {{attention|vi|2=was "[[ngành]] [[khoa học]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|vi|môn|alt=môn khoa học}} {{attention|vi|2=was "[[môn]] khoa học" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Volapük: {{t+|vo|nolav}}
 * West Frisian: {{t+|fy|wittenskip|c}}
 * Yiddish: {{t|yi|וויסנשאַפֿט|f|tr=visnshaft, wissnschaft|sc=Hebr}}
@@ -342,10 +342,10 @@ From {{etyl|fro|en}} {{term|science|lang=fro}}, from {{etyl|la|en}} {{term|scien
 {{checktrans-top}}
 * Afrikaans: {{t-check|af|wetenskap}}
 * Aragonese: {{t-check|an|zenzia|f}}
-* Asturian: {{t-check|ast|ciencia#Asturian|ciencia|f}}
-* {{ttbc|be}}: [[навукі]] (navuki)
+* Asturian: {{t-check|ast|ciencia|f}}
+* {{ttbc|be}}: {{t-check|be|навукі|tr=navuki|sc=Cyrl}}
 * Breton: {{t-check|br|skiant|f}}
-* {{ttbc|cmn}}: [[科学]] (kēxué)
+* {{ttbc|cmn}}: {{t-check|cmn|科学|tr=kēxué|sc=Hani}}
 * Esperanto: {{t-check|eo|scienco}}
 * French: {{t+check|fr|science|f}}
 * Galician: {{t-check|gl|ciencia}}
@@ -355,12 +355,12 @@ From {{etyl|fro|en}} {{term|science|lang=fro}}, from {{etyl|la|en}} {{term|scien
 * Interlingue: {{t-check|ie|scientie}}
 {{trans-mid}}
 * Kurdish: {{t-check|ku|zanist|f}}, {{t-check|ku|ilim|f}}, {{t-check|ku|zanyarî|f}}, {{t-check|ku|zanîn|f}}
-* {{ttbc|lt}}: [[mokslas]] {{g|m}} (2)
+* {{ttbc|lt}}: {{qualifier|2}} {{t-check|lt|mokslas|m}}
 * Low German: {{t-check|nds|wetenskap}}
 * Low German: {{t-check|nds|wetenschop}}
 * Nahuatl: {{t-check|nah|tlapohualmatiliztli}}
 * Maltese: {{t-check|mt|xjenza|f}}
-* {{ttbc|ne}}: [[विज्ञान]] (wigyan)
+* {{ttbc|ne}}: {{t-check|ne|विज्ञान|tr=wigyan|sc=Deva}}
 * Persian: {{t+check|fa|دانش|tr=dāneš}}
 * Romanian: {{t-check|ro|știință|f}}
 * Sindhi: {{t+check|sd|سائنس|alt=سائِنس|tr=sāins|f}}
