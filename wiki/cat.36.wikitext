@@ -723,12 +723,12 @@ From {{etyl|ms|id}} {{term|cat|lang=ms}}, from {{etyl|nan|id}} {{term|漆|tr=chh
 [[File:Gatto europeo4.jpg|thumb|right|250px|Cat]]
 
 ===Etymology===
-From {{etyl|sga|ga}} {{term|catt|lang=sga}}, from {{etyl|la|ga}} {{term|cattus|lang=la}}.
+From {{etyl|sga|ga}} {{m|sga|catt}}, from {{etyl|la|ga}} {{m|la|cattus}}.
 
 ===Pronunciation===
 * {{a|Munster}} {{IPA|lang=ga|[kɑt̪ˠ]}}
 * {{a|Connacht|Ulster}} {{IPA|lang=ga|[kat̪ˠ]}}
-* {{a|Cois Fharraige}} {{IPA|lang=ga|[kʊt̪ˠ]}}
+* {{a|Cois Fharraige}} {{IPA|lang=ga|[kʊt̪ˠ]}} {{i|as if spelled ''cut''}}
 
 ===Noun===
 {{ga-noun|cait|cait|g=m}}
@@ -739,17 +739,16 @@ From {{etyl|sga|ga}} {{term|catt|lang=sga}}, from {{etyl|la|ga}} {{term|cattus|l
 {{ga-decl-m1|c|at|ait}}
 
 ====Derived terms====
-{{der-top}}
-* {{l/ga|caitín}}
-* {{l/ga|catach}}
-* {{l/ga|catachas}}
-* {{l/ga|cat crainn}}
-{{der-mid}}
-* {{l/ga|cat mara}}
-* {{l/ga|catsúil}}
-* {{l/ga|catúil}}
-* {{l/ga|fearchat}}
-{{der-bottom}}
+{{der3
+|{{l|ga|caitín||catkin}}
+|{{l|ga|catach||curly-haired}}
+|{{l|ga|catachas||heat (in a cat)}}
+|{{l|ga|cat crainn||pine marten}}
+|{{l|ga|cat mara||catfish}}
+|{{l|ga|catsúil||ogle}}
+|{{l|ga|catúil||feline}}
+|{{l|ga|fearchat||tomcat}}
+}}
 
 ===Mutation===
 {{ga mut cons|c|at}}
@@ -757,8 +756,7 @@ From {{etyl|sga|ga}} {{term|catt|lang=sga}}, from {{etyl|la|ga}} {{term|cattus|l
 ===References===
 * {{R:Dinneen|cat}}
 
-[[Category:ga:Cats]]
-[[Category:ga:Felids]]
+{{catlangcode|ga|Cats|Felids}}
 
 ----
 
