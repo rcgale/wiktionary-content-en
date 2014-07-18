@@ -88,15 +88,15 @@ The verb ''dare'' can sometimes be directly negated.
 * Afrikaans: {{t|af|nie}}
 * Albanian: {{t|sq|nuk}}
 * Amuzgo: {{t|amu|chi}}
-* Arabic: {{t+|ar|لا|tr=laa}}, {{qualifier|past tense, continuous present}} {{t+|ar|ما|tr=maa}}, {{qualifier|only past tense, imperfective}} {{t|ar|لم|tr=lam}}, {{qualifier|future tense}} {{t|ar|لن|tr=lan}}, {{qualifier|verb - "to be not"}} {{t|ar|ليس|tr=láysa}}
+* Arabic: {{t+|ar|لا|tr=lā}}, {{qualifier|past tense, continuous present}} {{t+|ar|ما|tr=maa}}, {{qualifier|only past tense, imperfective}} {{t|ar|لم|tr=lam}}, {{qualifier|future tense}} {{t|ar|لن|tr=lan}}, {{qualifier|verb - "to be not"}} {{t|ar|ليس|tr=laysa}}
 *: Egyptian: {{t|arz|مش|tr=miš) ''or'' (muš}}
-* Armenian: {{t|hy|չ-|tr=č-}} + {{qualifier|verb}}
+* Armenian: {{t|hy|չ-}} + {{qualifier|verb}}
 * Asturian: {{t+|ast|nun}}
 * Azeri: {{t|az|deyil}}
 * Bashkir: {{t|ba|түгел}}
 * Basque: {{t+|eu|ez}}
-* Belarusian: {{t+|be|не|tr=nje|sc=Cyrl}}, {{t|be|ня|tr=nja|sc=Cyrl}}
-* Bulgarian: {{t+|bg|не|tr=ne|sc=Cyrl}}
+* Belarusian: {{t+|be|не|sc=Cyrl}}, {{t|be|ня|sc=Cyrl}} (not standard in writing, despite common unstressed pronunciation)
+* Bulgarian: {{t+|bg|не|sc=Cyrl}}
 * Burmese: {{t|my|[[မ]] ... [[ဘူး]]|tr=ma. ... bhu:|sc=Mymr}}
 * Catalan: {{t+|ca|no}}
 * Central Atlas Tamazight: {{t-check|tzm|ⵓⵔ|tr=ur|sc=Tfng}} ''+ verb'', {{t-check|tzm|ⵓⵔⴷ|tr=urd|sc=Tfng}} ''+ noun, {{t-check|tzm|pronoun|sc=Tfng}} ''
@@ -113,7 +113,7 @@ The verb ''dare'' can sometimes be directly negated.
 * Finnish: {{t+|fi|ei}}
 * French: {{t|fr|[[ne]] ... [[pas]]}}, {{t+|fr|pas}}, {{t+|fr|ne}} {{qualifier|see entries for usage}}
 * Galician: {{t+|gl|non}}
-* Georgian: {{t|ka|არ|tr=ar|sc=Geor}}
+* Georgian: {{t|ka|არ|sc=Geor}}
 * German: {{t+|de|nicht}}
 * Greek: {{t+|el|δεν|tr=den|sc=Grek}}, {{t+|el|δε|tr=de|sc=Grek}}, {{t+|el|μη|tr=mi|sc=Grek}}
 * Hawaiian: {{t|haw|ʻaʻole}}
@@ -130,7 +130,7 @@ The verb ''dare'' can sometimes be directly negated.
 * Japanese: {{t|ja|ではない|alt=...ではない|tr=de wa nai}} {{qualifier|be not}}, {{t+|ja|ない|alt=...ない|tr=nai}}, {{qualifier|polite final form}} {{t|ja|ません|tr=...masen|alt=-ません|sc=Jpan}}
 * Khmer: {{t|km|មិន...ទេ|tr=min … teː|sc=Khmr}}
 {{trans-mid}}
-* Korean: {{t+|ko|안|sc=Kore}}, {{qualifier|be not}} {{t+|ko|아니다|tr=...anida|alt=...아니다|sc=Kore}}, {{t+|ko|않다|sc=Kore}} {{qualifier|auxiliary verb, follows verb stem + 지}}
+* Korean: {{t+|ko|안|sc=Kore}}, {{qualifier|be not}} {{t+|ko|아니다|tr=...anida|alt=...아니다|sc=Kore}}, {{t+|ko|않다|sc=Kore}} {{qualifier|auxiliary verb, follows verb stem + {{lang|ko|지}}}}
 * Kurdish:
 *: Sorani: {{t+|ku|نه‌|sc=ku-Arab}}, {{t+|ku|نا|sc=ku-Arab}}
 * Lao: {{t|lo|ບໍ່|tr=böö|sc=Laoo}}
@@ -138,10 +138,10 @@ The verb ''dare'' can sometimes be directly negated.
 * Latvian: {{t+|lv|ne|alt=ne-}}
 * Lithuanian: {{t+|lt|ne|alt=ne-}}
 * Lojban: {{t+|jbo|na}}
-* Macedonian: {{t|mk|не|tr=ne|sc=Cyrl}}
+* Macedonian: {{t|mk|не|sc=Cyrl}}
 * Malay: {{t|ms|tidak}}, {{t|ms|bukan}}
 * Maltese: {{t|mt|mhux}}, {{t|mt|lanqas}}
-* Mongolian: {{t|mn|-гүй|tr=-güj|sc=Cyrl}}
+* Mongolian: {{t|mn|-гүй|sc=Cyrl}}
 * Navajo: {{t|nv|dooda}}
 * Norwegian:
 *: Bokmål: {{t+|no|ikke}}, {{t+|no|ei}}
@@ -157,8 +157,8 @@ The verb ''dare'' can sometimes be directly negated.
 * Quechua: {{t+|qu|ama}}
 * Rapa Nui: {{t|rap|kai}}, {{t|rap|hoki}} ''(used in a question when expecting an affirmative answer)''
 * Romanian: {{t+|ro|nu}}
-* Russian: {{t+|ru|не|tr=ne|sc=Cyrl}}
-* Sanskrit: {{t+|sa|न|tr=na|sc=Deva}}
+* Russian: {{t+|ru|не|sc=Cyrl}}
+* Sanskrit: {{t+|sa|न|sc=Deva}}
 * Scottish Gaelic: {{t|gd|chan eil}}, {{t|gd|chan}}, {{t|gd|cha}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|не}}
@@ -173,7 +173,7 @@ The verb ''dare'' can sometimes be directly negated.
 * Thai: {{t+|th|ไม่|tr=mâi|sc=Thai}}, {{t|th|ไม่ใช่|tr=mâi châi|sc=Thai}}
 * Turkish: {{t+|tr|değil}}, {{t|tr|-ma}}, {{t|tr|-me}}
 * Tz'utujil: {{t|tzj|ma}}
-* Ukrainian: {{t|uk|не|tr=ne|sc=Cyrl}}
+* Ukrainian: {{t|uk|не|sc=Cyrl}}
 * Urdu: {{t|ur|نہیں|tr=nahī̃|sc=ur-Arab}}, {{qualifier|don't}} {{t|ur|نہ|tr=na|sc=ur-Arab}}, {{qualifier|don't, more abrupt}} {{t|ur|مت|tr=mat|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|không}}, {{qualifier|for emphasis}} {{t+|vi|chẳng}}
 * Welsh: {{t+|cy|dim}}
