@@ -18,7 +18,7 @@
 }}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{term||animal|lang=enm}}, from {{etyl|fro|en}} {{term||animal|lang=fro}}, from {{etyl|la|en}} {{term||animal|lang=la}}, a nominal use of an adjective from {{term|animale|lang=la}}, neuter of {{term|animalis|lang=la}}, from {{term|anima||breath, spirit|lang=la}}. Displaced native [[Middle English]] {{term|deor|deor, der|animal|lang=enm}} (from [[Old English]] {{m|ang|dēor||animal}}), [[Middle English]] {{term|reother||animal, neat|lang=enm}} (from [[Old English]] {{term|hriþer|hrīþer, hrȳþer|neat, ox|lang=ang}}).
+From {{etyl|enm|en}} {{m|enm||animal}}, from {{etyl|fro|en}} {{m|fro|animal}}, from {{etyl|la|en}} {{m|la|animal}}, a nominal use of an adjective from {{m|la|animale}}, neuter of {{m|la|animalis}}, from {{m|la|anima||breath, spirit}}. Displaced native Middle English {{m|enm|deor|deor, der|animal}} (from Old English {{m|ang|dēor||animal}}), Middle English {{m|enm|reother||animal, neat}} (from Old English {{m|ang|hriþer|hrīþer, hrȳþer|neat, ox|lang=ang}}).
 
 ====Noun====
 {{en-noun}}
@@ -102,7 +102,7 @@ From {{etyl|enm|en}} {{term||animal|lang=enm}}, from {{etyl|fro|en}} {{term||ani
 * Georgian: {{t|ka|ცხოველი}}
 * German: {{t+|de|Tier|n}}
 * Gothic: {{t|got|𐌳𐌹𐌿𐍃|tr=dius|n}}
-* Greek: {{t+|el|ζώο|n|sc=Grek}}
+* Greek: {{t+|el|ζώο|n}}
 *: Ancient: {{t|grc|ζῷον|n}}
 * Greenlandic: {{t|kl|uumasoq}}
 * Gujarati: {{t|gu|પ્રાણી|tr=prāṇī|sc=Gujr}}
@@ -182,10 +182,10 @@ From {{etyl|enm|en}} {{term||animal|lang=enm}}, from {{etyl|fro|en}} {{term||ani
 * Punjabi: {{t|pa|ਹੈਵਾਨ|tr=haivāna}}
 * Rohingya: {{t|rhg|focú}}, {{t|rhg|januar}}
 * Romagnol: {{t|rgn|animêl}}
-* Romani: {{t|rom|hǝyvǝ́y}} (var: [[ḳayvayá]])
+* Romani: {{t|rom|hǝyvǝ́y}} (var: {{t|rom|ḳayvayá}})
 * Romanian: {{t+|ro|animal|n}}, {{t+|ro|fiară|f}}
 * Romansch: {{t|rm|animal|m}}, {{t|rm|biestg}}
-* Russian: {{t+|ru|живо́тное|n}}, {{t+|ru|зверь|m}}, {{t+|ru|тварь|f}}, {{t+|ru|скоти́на|f}}, {{t+|ru|животи́на|f|sc=Cyrl}}
+* Russian: {{t+|ru|живо́тное|n}}, {{t+|ru|зверь|m}}, {{t+|ru|тварь|f}}, {{t+|ru|скоти́на|f}}, {{t+|ru|животи́на|f}}
 * Sanskrit: {{t+|sa|पशु|tr=paśu}}, {{t|sa|मृग|tr=mṛga}}, {{t|sa|प्राणी|tr=prāṇī}}
 * Sardinian:
 *: Campidanese Sardinian: {{t|sro|animali}}
@@ -240,7 +240,7 @@ From {{etyl|enm|en}} {{term||animal|lang=enm}}, from {{etyl|fro|en}} {{term||ani
 * Wolof: {{t|wo|mala}}
 * Xhosa: {{t|xh|burhalarhume}}, {{t|xh|isilo}}, {{t|xh|isilwanyana}}
 * Yakut: {{t|sah|харамай|tr=xaramay}}, {{t|sah|кыыл|tr=kııl}}
-* Yiddish: {{t|yi|חיה|f|tr=khaye|sc=Hebr}}
+* Yiddish: {{t|yi|חיה|f|tr=khaye}}
 * Yoruba: {{t|yo|e̩ran}}
 * Yup'ik: {{t|esu|ungungssit}}
 * Zulu: {{t|zu|isilwane|c7|c8}}
@@ -361,19 +361,16 @@ From {{etyl|la|en}} {{term|animalis|lang=la}}, from either {{term|anima||breath,
 * {{sense|unhindered by social codes}} [[animalistic]], [[beastly]], [[bestial]], [[untamed]], [[wild]]
 
 =====Derived terms=====
-{{top2}}
-* [[animalistic]]
-* [[animal liberation]]
-{{mid2}}
-* [[animal magnetism]]
-* [[manimal]]
-{{bottom}}
+{{der3|[[animalistic]]
+|[[animal liberation]]
+|[[animal magnetism]]
+|[[manimal]]}}
 
 =====Translations=====
 {{trans-top|of animals}}
 * Asturian: {{t+|ast|animal}}
 * Breton: {{t|br|loenel}}
-* Bulgarian: {{t+|bg|животински|tr=životinski|m}}, {{t+|bg|необуздан|tr=neobuzdan|m}}
+* Bulgarian: {{t+|bg|животински|m}}, {{t+|bg|необуздан|m}}
 * Catalan: {{t+|ca|animal}}
 * Czech: {{t+|cs|zvířecí}}
 * Danish: {{t|da|dyrisk}}
@@ -382,7 +379,7 @@ From {{etyl|la|en}} {{term|animalis|lang=la}}, from either {{term|anima||breath,
 * French: {{t+|fr|animal}}
 * Galician: {{t+|gl|animal}}
 * German: {{t+|de|tierisch}}
-* Greek: {{t+|el|ζωώδης|tr=zoóðis}}
+* Greek: {{t+|el|ζωώδης}}
 * Hebrew: {{t|he|חייתי|m|tr=ḥayati}}
 * Hungarian: {{t+|hu|állati}}
 * Icelandic: {{t|is|dýrslegur}}
@@ -456,7 +453,7 @@ From {{etyl|la|en}} {{term|animalis|lang=la}}, from either {{term|anima||breath,
 ==Asturian==
 
 ===Etymology===
-Borrowed from {{etyl|la|ast}} {{term|animal|lang=la}}, ''animalis''.
+{{borrowing|la|animal|lang=ast}}.
 
 ===Adjective===
 {{ast-adj-mf|pl=animales}}
@@ -475,7 +472,7 @@ Borrowed from {{etyl|la|ast}} {{term|animal|lang=la}}, ''animalis''.
 ==Catalan==
 
 ===Etymology===
-Borrowed from {{etyl|la|ca}} {{term|animal|lang=la}}, ''animalis''.
+{{borrowing|la|animal|lang=ca}}.
 
 ===Pronunciation===
 * {{rhymes|aɫ|lang=ca}}
@@ -497,7 +494,7 @@ Borrowed from {{etyl|la|ca}} {{term|animal|lang=la}}, ''animalis''.
 ==French==
 
 ===Etymology===
-Borrowed from {{etyl|la|fr}} {{term|animal|lang=la}}, ''animalis''.
+{{borrowing|la|animal|lang=fr}}.
 
 ===Pronunciation===
 * {{audio|Fr-un animal-fr.ogg|audio|lang=fr}}
@@ -515,8 +512,8 @@ Borrowed from {{etyl|la|fr}} {{term|animal|lang=la}}, ''animalis''.
 * [[bestiole]]
 
 ====Derived terms====
-* [[animal de compagnie]]
-* {{l/fr|animalerie}}
+{{der3|{{l|fr|animal de compagnie}}
+|{{l|fr|animalerie}}}}
 
 ===Adjective===
 {{fr-adj-al|anim}}
@@ -524,13 +521,13 @@ Borrowed from {{etyl|la|fr}} {{term|animal|lang=la}}, ''animalis''.
 # {{l/en|animal}}
 
 ====Synonyms====
-* [[bestial]]
+* {{l/fr|bestial}}
 
 ====Antonyms====
-* [[végétal]]
+* {{l/fr|végétal}}
 
 ===Anagrams===
-* [[lamina#French|lamina]]
+* {{l/fr|lamina}}
 
 ===External links===
 * {{R:TLFi}}
@@ -542,7 +539,7 @@ Borrowed from {{etyl|la|fr}} {{term|animal|lang=la}}, ''animalis''.
 ==Galician==
 
 ===Etymology===
-Borrowed from {{etyl|la|gl}} {{term|animal|lang=la}}, ''animalis''.
+{{borrowing|la|animal|lang=gl}}.
 
 ===Adjective===
 {{gl-adj|pl=animais}}
@@ -561,7 +558,7 @@ Borrowed from {{etyl|la|gl}} {{term|animal|lang=la}}, ''animalis''.
 ==Haitian Creole==
 
 ===Etymology===
-From {{etyl|fr|ht}} {{term|animal|lang=fr}}, from {{etyl|la|ht}} {{term|animal|lang=la}}.
+From {{etyl|fr|ht}} {{m|fr|animal}}, from {{etyl|la|ht}} {{m|la|animal}}.
 
 ===Noun===
 {{head|ht|noun}}
@@ -654,7 +651,7 @@ From {{term|anima||breath, life|lang=la}}
 ==Portuguese==
 
 ===Etymology===
-Borrowed from {{etyl|la|pt}} {{term|animal|lang=la}}, ''animalis''. See also {{m|pt|alimária}}.
+{{borrowing|la|animal|lang=}}. See also {{m|pt|alimária}}.
 
 ===Pronunciation===
 * {{a|BR}} {{IPA|/ɐ.ni.ˈmaʊ/|lang=pt}}
@@ -680,7 +677,7 @@ Borrowed from {{etyl|la|pt}} {{term|animal|lang=la}}, ''animalis''. See also {{m
 ==Romanian==
 
 ===Etymology===
-From {{etyl|la|ro}} ''[[animalis]]'' through {{etyl|fr|ro}} ''[[#French|animal]]''.
+{{borrowing|fr|animal|lang=ro}}, from {{etyl|la|ro}} {{m|la|animal}}.
 
 ===Adjective===
 {{ro-adj|4}}
@@ -714,7 +711,7 @@ From {{etyl|la|ro}} ''[[animalis]]'' through {{etyl|fr|ro}} ''[[#French|animal]]
 ===Noun===
 {{rm-noun|m}}
 
-# {{context|Rumantsch Grischun|Sursilvan|Sutsilvan|Surmiran|Vallader|lang=rm}} {{l/en|animal}}
+# {{label|rm|Rumantsch Grischun|Sursilvan|Sutsilvan|Surmiran|Vallader}} {{l/en|animal}}
 
 ====Synonyms====
 * {{qualifier|Rumantsch Grischun|Sursilvan|Surmiran}} {{l|rm|biestg}}
@@ -729,7 +726,7 @@ From {{etyl|la|ro}} ''[[animalis]]'' through {{etyl|fr|ro}} ''[[#French|animal]]
 ==Spanish==
 
 ===Etymology===
-Borrowed from {{etyl|la|es}} {{term|animal|lang=la}}, ''animalis''. See also {{m|es|alimaña}}.
+{{borrowing|la|animal|lang=es}}. See also {{m|es|alimaña}}.
 
 ===Noun===
 {{es-noun|m|es}}
@@ -741,7 +738,7 @@ Borrowed from {{etyl|la|es}} {{term|animal|lang=la}}, ''animalis''. See also {{m
 ==Tok Pisin==
 
 ===Etymology===
-{{etyl|en|tpi}} {{term|animal|lang=en}}
+From {{etyl|en|tpi}} {{term|animal|lang=en}}.
 
 ===Noun===
 {{head|tpi|noun}}
