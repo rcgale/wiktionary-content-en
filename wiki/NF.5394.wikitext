@@ -22,12 +22,26 @@
 
 # {{context|US|lang=en}} National Formulary, is a book of public [[pharmacopeial]] [[standards]].
 # {{context|US|aviation|lang=en}} Prefix code for [[NASA]] research [[fighter plane]] designations.
+# {{lb|en|Unicode}} {{l/en|normalization|'''N'''ormalization}} {{l/en|form|'''F'''orm}}
 
-===References===
-* [http://www.usp.org/USPNF/ USP-NF website]
-
-===See also===
+====See also====
+* {{sense|in Unicode}} {{l/en|C}}, {{l/en|D}}, {{l/en|KC}}, {{l/en|KD}}
 * [[USP]]
+
+====Derived terms====
+{{top4}}
+* {{l/en|NFC}}
+{{mid4}}
+* {{l/en|NFD}}
+{{mid4}}
+* {{l/en|NFKC}}
+{{mid4}}
+* {{l/en|NFKD}}
+{{bottom}}
+
+====References====
+* {{w|Unicode Consortium}}, ''Unicode Standard Annex #15'', revision 41 (2014-06-05), § 1.2, [http://www.unicode.org/reports/tr15/#Normalization_Forms_Table table 1: “Normalization Forms”]
+* [http://www.usp.org/USPNF/ USP-NF website]
 
 ===Anagrams===
 * [[fn#English|fn]] , [[FN#English|FN]]
