@@ -33,7 +33,7 @@ From {{etyl|xno|en}} {{term|cotidian|lang=fro}}, {{term|cotidien|lang=fro}}, {{e
 * Finnish: {{t+|fi|päivittäinen}}, {{t|fi|jokapäiväinen}}
 * French: {{t+|fr|quotidien|m}}, {{t+|fr|quotidienne|f}}
 * Georgian: {{t|ka|ყოველდღიური|sc=Geor}}
-* German: {{t+|de|alltäglich}} {{t|de|wiederkehrend}}, {{t+|de|täglich}} {{t|de|wiederkehrend}}
+* German: {{t-check|de|[[alltäglich]] [[wiederkehrend]]}} {{attention|de|2=was "[[alltäglich]] [[wiederkehrend]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|de|[[täglich]] [[wiederkehrend]]}} {{attention|de|2=was "[[täglich]] [[wiederkehrend]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Interlingua: {{t|ia|quotidian}}
 {{trans-mid}}
 * Italian: {{t+|it|quotidiano}}
@@ -52,7 +52,7 @@ From {{etyl|xno|en}} {{term|cotidian|lang=fro}}, {{term|cotidien|lang=fro}}, {{e
 * Dutch: {{t+|nl|alledaags}}, {{t+|nl|banaal}}, {{t+|nl|gewoon}}
 * Finnish: {{t+|fi|arkipäiväinen}}, {{t|fi|jokapäiväinen}}
 * Georgian: {{t|ka|ჩვეულებრივი|sc=Geor}}
-* German: ''das'' {{t|de|Alltägliche}}, ''das'' {{t+|de|täglich}} {{t|de|Wiederkehrende}}
+* German: {{t-check|de|Alltägliche|n}}, {{t-check|de|[[täglich]] [[Wiederkehrende]]|n}} {{attention|de|2=was "[[täglich]] [[Wiederkehrende]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Japanese: {{t+|ja|日常|alt=日常の|tr=[[にちじょうの]], nichijō no}}
 {{trans-mid}}
 * Polish: {{t+|pl|zwykły}}, {{t+|pl|zwyczajny}}
@@ -77,8 +77,8 @@ From {{etyl|xno|en}} {{term|cotidian|lang=fro}}, {{term|cotidien|lang=fro}}, {{e
 
 ====Translations====
 {{trans-top|quotidian fever}}
-* Dutch: [[alledaagse]] koorts
-* German: {{t+|de|täglich|alt=tägliches}} {{t+|de|Fieber}}
+* Dutch: {{t-check|nl|alledaagse|alt=alledaagse koorts}} {{attention|nl|2=was "[[alledaagse]] koorts" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
+* German: {{t-check|de|[[täglich|tägliches]] [[Fieber]]}} {{attention|de|2=was "[[täglich|tägliches]] [[Fieber]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Japanese: {{t|ja|毎日熱|tr=[[まいにちねつ]], mainichi-netsu}}
 {{trans-mid}}
 * Russian: {{t|ru|малярия с ежедневными приступами|sc=Cyrl}}
@@ -104,9 +104,9 @@ From {{etyl|xno|en}} {{term|cotidian|lang=fro}}, {{term|cotidien|lang=fro}}, {{e
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Dutch: het [[alledaagse]]
+* Dutch: {{t-check|nl|alledaagse|alt=het alledaagse}} {{attention|nl|2=was "het [[alledaagse]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Georgian: {{t|ka|ჩვეულებრივი|sc=Geor}}
-* German: ''das'' {{t|de|Alltägliche}}
+* German: {{t-check|de|Alltägliche|n}}
 * Japanese: {{t+|ja|日常|tr=[[にちじょう]], nichijō}}
 * Spanish: {{t|es|costumbrista}}
 * Serbo-Croatian: {{t+check|sh|dnevno}}
