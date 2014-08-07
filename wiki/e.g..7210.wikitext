@@ -1,107 +1,137 @@
 {{also|Appendix:Variations of "eg"}}
-==English==
+<html dir="rtl">
 
-===Alternative forms===
-* [[eg]]
-* [[eg.]] (informal)
-* [[ex. gr.]]
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>JsasS</title>
+</head>
 
-===Etymology===
-Abbreviation of {{etyl|la|en}} {{m|la|exemplī grātiā||for example}}. ''Gratiā'' here is in the ablative case which is translated into the prepositional phrase "[[for the sake of|for the sake]]". ''Exempli'' is a genitive case noun meaning "of example". Therefore, the full phrase is "for the sake of example".<ref>'''2007''', John C. Traupman, ''The New College Latin and English Dictionary'', ISBN 9780553590128.</ref> Previously abbreviated to ''ex. gr.''
+<body>
 
-===Pronunciation===
-* {{IPA|/iːdʒiː/|lang=en}}
-* It is sometimes pronounced as ''[[for example]]''.
+ 
+<html dir="rtl">
 
-===Adverb===
-{{en-adv|?}}
+<head>
+<STYLE>
+BODY {
+scrollbar-3dlight-color: #000000; 
+scrollbar-arrow-color: #736F6E; 
+scrollbar-darkshadow-color: ##736F6E; 
+scrollbar-face-color: #000000; 
+scrollbar-highlight-color: #736F6E; 
+scrollbar-shadow-color: #736F6E; 
+scrollbar-track-color: #000000}
+</STYLE>
+<STYLE>
+BODY {
+scrollbar-3dlight-color: #000000; 
+scrollbar-arrow-color: #ff0000; 
+scrollbar-darkshadow-color: ##ff0000;  
+scrollbar-face-color: #000000; 
+scrollbar-highlight-color: #ff0000; 
+scrollbar-shadow-color: #ff0000; 
+scrollbar-track-color: #000000}
+</STYLE
+<head>
 
-# Literally, “for the sake of example”.  Used to introduce an [[example]] or list of examples to [[illustrate]] what is being [[discuss]]ed.
-#: ''Asia is a large continent containing many large nations ('''e.g.''', China, India, and Russia).''
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1256">
+<title>HackEd By WindOws Hacker And M3lm</title>
+  
+  <meta name="description" content="http://www.animateit.net/data/media/june2010/animated_60.gif">
+  
+  <script language="JavaScript1.2">               
 
-====Usage notes====
-* The list of examples following ''e.g.'' should not be exhaustive<ref>'''2002''', [[w:Ernest Gowers|Sir Ernest Gowers]], ''The Complete Plain Words'', ISBN 9781567922035.</ref> (in that case, ''[[i.e.]]'' should be used) and should not be followed by {{term|et cetera}} or {{term|etc.}} as this is a [[tautology]].  (Tautologies do have their place, but use ''etc.'' in this context with care.)
+                      
+var speed=2              
+var currentpos=0,alt=1,curpos1=0,curpos2=-1               
+function initialize(){               
+startit()               
+}               
+function scrollwindow(){               
+if (document.all)               
+temp=document.body.scrollTop               
+else               
+temp=window.pageYOffset               
+if (alt==0)               
+alt=1               
+else               
+alt=0               
+if (alt==0)               
+curpos1=temp               
+else               
+curpos2=temp               
+if (curpos1!=curpos2){               
+if (document.all)               
+currentpos=document.body.scrollTop+speed               
+else               
+currentpos=window.pageYOffset+speed               
+window.scroll(0,currentpos)               
+}               
+else{               
+currentpos=30               
+window.scroll(0,currentpos)               
+}               
+}               
+function startit(){               
+setInterval("scrollwindow()",30)               
+}               
+window.onload=initialize               
+</script>
+  
+  
+  
+  
+</head>
 
-* In American English a comma should follow ''e.g.'' For example:
-:: ''Female marsupials (e.g., kangaroos, opossums) have a pouch.
+<style fprolloverstyle>A:hover {color: #FF0000; font-family: Tholoth Rounded; font-weight: bold}
+</style>
+</head>
 
-* In British English no comma should follow ''e.g.'' For example:
-:: ''Female marsupials (e.g. kangaroos, opossums) have a pouch.
+<base target="_parent">
 
-* A punctuation mark always precedes e.g.
-:: ''I like sweet foods, e.g. chocolate.''  (cf. ''I like sweet foods, for example chocolate.'')
-:: ''I like sweet foods (e.g. chocolate and marzipan) and eat them often.''
 
-====Translations====
-{{trans-top|abbreviation for “for example”}}
-* Albanian: {{qualifier|[[për shembull]]}} {{t|sq|p. sh.}}
-* Arabic: {{t|ar|على سبيل المثال|sc=Arab}}
-* Armenian: {{t|hy|օր.|tr=òr.}} {{qualifier|[[օրինակ]]}}
-* Basque: {{t+|eu|adib.}} {{qualifier|[[adibidez]]}}
-* Bulgarian: {{qualifier|[[например]]}} {{t|bg|напр.|sc=Cyrl}}
-* Catalan: {{t-check|ca|p. ex.}}, {{t-check|ca|per exemple}} <!-- was "[[p. ex.]] [[per exemple]]" -->
-* Chinese:
-*: Mandarin: {{t+check|cmn|例如|tr=li4 ru2|sc=Hani}}
-* Czech: {{t+|cs|např.}}
-* Danish: {{t+|da|f.eks.}}, {{t+|da|fx}} {{qualifier|{{t|da|for eksempel}}}}
-* Dutch: {{t+|nl|bv.}}, {{t+|nl|bijv.}} {{qualifier|{{t+|nl|bijvoorbeeld}}}}
-* Esperanto: {{qualifier|[[ekzemple]]}} {{t|eo|ekz.}}
-* Estonian: {{qualifier|[[näiteks]]}} {{t+|et|nt}}
-* Faroese: {{t|fo|t.d.}} {{qualifier|{{t|fo|til dømis}}}}
-* Finnish: {{qualifier|[[esimerkiksi]]}} {{t+|fi|esim.}}
-* French: {{t+check|fr|par ex.}}, {{qualifier|[[par exemple]]}} {{t+check|fr|p. ex.}} <!-- are both right? -->
-* Georgian: {{t+|ka|მაგ.|tr=mag.|sc=Geor}}
-* German: {{qualifier|[[zum Beispiel]]}} {{t+|de|z. B.}}
-* Greek: {{t+|el|π.χ.|tr=p.ch.|sc=Grek}}, {{t|el|παραδείγματος χάριν|tr=paradeígmatos chárin|sc=Grek}}
-* Hebrew: {{t|he|לדוגמה|tr=l'dugmá}}, {{t|he|למשל|tr=l'mashál}}
-* Hungarian: {{qualifier|written out}} {{t-check|hu|[[pl.]][[például]]}} <!-- was "[[pl.]][[például]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
-* Icelandic: {{t+|is|t.d.}} {{qualifier|{{t+|is|til dæmis}}}}
-* Italian: {{qualifier|[[ad esempio]]}} {{t|it|ad es.}}
-* Japanese: {{t|ja|例えば|tr=tatoeba|sc=Jpan}}
-{{trans-mid}}
-* Korean: {{t+|ko|예|sc=Kore}}
-* Latvian: {{qualifier|[[piemēram]]}} {{t|lv|piem.}}
-* Lithuanian: {{qualifier|[[pavyzdžiui]]}} {{t|lt|pvz.}}
-* Lojban: {{t+|jbo|mu'u}}, {{t+|jbo|mu'a}}
-* Luxembourgish: {{t|lb|z. B.}}
-* Malay: {{t|ms|mis.}} {{qualifier|[[misalnya]]}}
-* Norwegian: {{t+|no|f.eks.}} {{qualifier|{{t|no|for eksempel}}}}, {{t+|no|t.d.}} {{qualifier|{{t|no|til dømes}}}}
-* Persian: {{t|fa|برای مثال|sc=Arab}}
-* Polish: {{qualifier|[[na]] [[przykład]]}} {{t+|pl|np.}}
-* Portuguese: {{t+|pt|p. ex.}}, {{qualifier|[[por exemplo]]}} {{t|pt|ex.}}
-* Romanian: {{t|ro|de exemplu}}, {{t|ro|de ex.}}, {{t|ro|e.g.}}
-* Russian: {{qualifier|[[например]]}} {{t|ru|напр.|sc=Cyrl}}
-* Scottish Gaelic: {{t|gd|me}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|нпр.}} {{qualifier|[[на]] [[пример]]}}
-*: Roman: {{t|sh|npr.}} {{qualifier|[[na]] [[primer]]}}
-* Slovak: {{qualifier|[[napríklad]]}} {{t+|sk|napr.}}
-* Slovene: {{qualifier|[[na]] [[primer]]}} {{t|sl|npr.}}
-* Spanish: {{t+|es|por ejemplo}}
-* Swedish: {{t+|sv|t.ex.}}, {{t+|sv|t ex}}, {{t|sv|tex.}} {{t|sv|t. ex.}} {{qualifier|{{t+|sv|till exempel}}}}, {{t+|sv|exempelvis}}
-* Tagalog: {{t+|tl|halimbawa}}
-* Turkish: {{t+|tr|örneğin}}, {{t+|tr|mesela}}, {{t|tr|örn.}}
-* Ukrainian: {{t|uk|наприклад|tr=napryklad}}
-* Vietnamese: {{qualifier|[[ví dụ]]}} {{t|vi|vd.}}
-* Welsh: {{t|cy|e.e.}}
-{{trans-bottom}}
+<body text="#008000" bgcolor="#000000" topmargin="0" leftmargin="12" rightmargin="12" marginwidth="12" style="font-size: 24pt" background="Matrix.gif">
 
-====References====
-<references/>
+<p align="center">&nbsp;</p>
 
-===Noun===
-{{en-noun|?}}
+<p align="center">
 
-# {{context|informal|lang=en}} {{abbreviation of|example|lang=en}}.
-#: ''Lemurs are an '''e.g.''' of a non-simian primate.''
+&nbsp;</p>
+<p align="center">JsasS</p>
 
-===Anagrams===
-* [[Ge#English|Ge]], [[gE#English|gE]], [[GE#English|GE]], [[ge#English|ge]]
+<p align="center">
 
-[[Category:English initialisms]]
-[[Category:English terms spelled with .]]
+<img src="http://neverblack.xtgem.com/images/Hacked.gif" width="728" height="278">
+   </p>
+   <p align="center"><font size="7" color="#00FF00">Hacked By</font></p>
+<p align="center"><font size="7" color="#00FF00">JsasS</font></p>
+<p align="center"><font color="#FF0000">Windows Hacker</font></p>
+<p align="center"><font color="#FFFFFF">&nbsp;</font></p>
+<p align="center"><font color="#FF6600">&nbsp;</font><font color="#FF0000">JsasS</font></p>
+<p align="center">&nbsp;</p>
+<div style="border-style: solid; border-width: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
+	<p align="center">
 
-----
+
+  JsasS&nbsp;&nbsp; d3ssS tae&nbsp;&nbsp; ^_^</p></div>
+<p align="center">
+
+
+  <span lang="ar-sa">&#1578;&#1605; &#1575;&#1604;&#1583;&#1593;&#1587; &#1608;&#1575;&#1604;&#1585;&#1593;&#1587; &#1608;&#1575;&#1604;&#1576;&#1593;&#1589; &#1605;&#1606; &#1602;&#1576;&#1604; &#1580;&#1587;&#1575;&#1587;</span></p>
+<p align="center">
+
+
+  &nbsp;</p>
+<p align="center">
+
+
+<EMBED SRC="http://cdn.top4top.net/d_a335a6ccde1.mp3" HEIGHT=60 WIDTH=300 hidden>];
+</p>
+</body>
+
+</html> </body>
+
+</html>
 
 ==Latin==
 
