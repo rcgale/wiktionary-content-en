@@ -2,21 +2,26 @@
 ==Esperanto==
 
 ===Etymology===
-From {{etyl|it|eo}} {{term|lang=it|veste}} and {{etyl|la|eo}} {{term|lang=la|vestis}}, possibly influenced by {{etyl|es|eo}} {{term|lang=es|vestir}}.
+{{borrowing|it|veste|lang=eo}} and {{etyl|la|eo}} {{m|la|vestis}}, possibly influenced by {{etyl|es|eo}} {{m|es|vestir}}.
 
 ===Noun===
 {{eo-head}}
 
 # [[garment]]
 
+====Derived terms====
+{{der3|{{l|eo|vestaĉo||rag}} {{qualifier|clothing}}}}
+
 {{eo BRO|3}}
+
+[[Category:eo:Clothing]]
 
 ----
 
 ==Ido==
 
 ===Etymology===
-From {{etyl|eo|io}} {{term|vesto|lang=eo}}.
+From {{etyl|eo|io}} {{m|eo|vesto}}.
 
 ===Noun===
 {{io-noun|vest}}
@@ -24,9 +29,9 @@ From {{etyl|eo|io}} {{term|vesto|lang=eo}}.
 # [[garment]]
 
 ====Derived terms====
-* {{l|io|desvestizar|gloss=to undress, unclothe, divest, strip}}
-* {{l|io|pedovesto|gloss=footwear, shoes}}
-* {{l|io|vestizar|gloss=to dress, put on clothes}}
+{{der3|{{l|io|desvestizar||to undress, unclothe, divest, strip}}
+|{{l|io|pedovesto||footwear, shoes}}
+|{{l|io|vestizar||to dress, put on clothes}}}}
 
 [[Category:io:Clothing]]
 
@@ -40,7 +45,7 @@ From {{etyl|eo|io}} {{term|vesto|lang=eo}}.
 # {{conjugation of|vestire||1|s|pres|ind|lang=it}}
 
 ===Anagrams===
-* [[ovest#Italian|ovest]]
+* {{l/it|ovest}}
 
 [[el:vesto]]
 [[eo:vesto]]
