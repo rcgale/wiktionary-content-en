@@ -291,7 +291,63 @@ From {{etyl|enm|en}} {{term|word|lang=enm}}, from {{etyl|ang|en}} {{term|word||w
 * Zulu: {{t|zu|igama|c5|c6}}, {{t|zu|uhlamvu|c11|c10}}
 {{trans-bottom}}
 
-{{trans-top|something promised}}
+{{trans-top|telegraphy: unit of text}}
+* Finnish: {{t+|fi|sana}}
+* Greek: {{t+|el|λέξη|f}}
+{{trans-mid}}
+* Maori: {{t+|mi|kupu}}
+* Telugu: {{t|te|సంకేత పదము|tr=samketa padamu}}
+{{trans-bottom}}
+
+{{trans-top|computing: fixed-size group of bits handled as a unit}}
+* Afrikaans: {{t+|af|woord}}
+* Chinese:
+*: Mandarin: {{t+|cmn|单字|sc=Hani}}
+* Finnish: {{t+|fi|sana}}
+* French: {{t+|fr|mot|m}}
+* Greek: {{t+|el|λέξη|f}}
+* Interlingua: {{t+|ia|parola}}
+* Italian: {{t+|it|word|m}}
+* Japanese: {{t+|ja|言語|tr=[[げんご]], gengo}}
+{{trans-mid}}
+* Macedonian: {{t+|mk|збор|m}}
+* Norwegian: {{t+|no|ord|n}}
+* Persian: {{t+|fa|واژه|tr=vâže}}
+* Portuguese: {{t+|pt|palavra|f}}
+* Romanian: {{t+|ro|cuvânt|n}}
+* Russian: {{t+|ru|слово|n}}
+* Slovak: {{t|sk|slovo|n}}
+* Spanish: {{t+|es|palabra|f}}
+* Swedish: {{t+|sv|ord|n}}
+{{trans-bottom}}
+
+{{trans-top|computer science: finite string which is not a command or operator}}
+* Finnish: {{t+|fi|sana}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|group theory: kind of group element}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|watchword}}
+
+{{trans-see|proverb}}
+
+{{trans-top|news, tidings}}
+* Finnish: {{t+|fi|uutiset|p}}
+* Malay: {{t|ms|berita}}, {{t|ms|khabar}}, {{t|ms|kabar}}
+* Maori: {{t|mi|pūrongo}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|notícias|f}}
+* Telugu: {{t+|te|వార్త|tr=varta}}
+{{trans-bottom}}
+
+{{trans-top|order, request, expression of will|order|request}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|promise}}
 * Afrikaans: {{t|af|erewoord}}
 * Albanian: {{t|sq|sharje|f}}
 * Armenian: {{t|hy|խոսք}}, {{t|hy|խոստում}}
@@ -330,15 +386,6 @@ From {{etyl|enm|en}} {{term|word|lang=enm}}, from {{etyl|ang|en}} {{term|word||w
 * Zulu: {{t|zu|isithembiso|c7|c8}}
 {{trans-bottom}}
 
-{{trans-top|news, tidings}}
-* Finnish: {{t+|fi|uutiset|p}}
-* Malay: {{t|ms|berita}}, {{t|ms|khabar}}, {{t|ms|kabar}}
-* Maori: {{t|mi|pūrongo}}
-{{trans-mid}}
-* Portuguese: {{t+|pt|notícias|f}}
-* Telugu: {{t+|te|వార్త|tr=varta}}
-{{trans-bottom}}
-
 {{trans-top|discussion}}
 * Finnish: [[pari#Finnish|pari]] {{t|fi|sanaa}}
 * Malay: {{t|ms|perbincangan}}
@@ -348,46 +395,14 @@ From {{etyl|enm|en}} {{term|word|lang=enm}}, from {{etyl|ang|en}} {{term|word||w
 * Telugu: {{t+|te|చర్చ|tr=carca}}
 {{trans-bottom}}
 
-{{trans-top|telegraphy: unit of text}}
-* Finnish: {{t+|fi|sana}}
-* Greek: {{t+|el|λέξη|f}}
+{{trans-top|an angry debate; argument}}
+* Dutch: {{t+|nl|woordenwisseling|f}}
+* Norwegian: {{t|no|krangel|m}}
 {{trans-mid}}
-* Maori: {{t+|mi|kupu}}
-* Telugu: {{t|te|సంకేత పదము|tr=samketa padamu}}
+* Russian: {{t+|ru|перебра́нка|f|sc=Cyrl}}
 {{trans-bottom}}
 
-{{trans-top|computer science: finite string which is not a command or operator}}
-* Finnish: {{t+|fi|sana}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|computing: fixed-size group of bits handled as a unit}}
-* Afrikaans: {{t+|af|woord}}
-* Chinese:
-*: Mandarin: {{t+|cmn|单字|sc=Hani}}
-* Finnish: {{t+|fi|sana}}
-* French: {{t+|fr|mot|m}}
-* Greek: {{t+|el|λέξη|f}}
-* Interlingua: {{t+|ia|parola}}
-* Italian: {{t+|it|word|m}}
-* Japanese: {{t+|ja|言語|tr=[[げんご]], gengo}}
-{{trans-mid}}
-* Macedonian: {{t+|mk|збор|m}}
-* Norwegian: {{t+|no|ord|n}}
-* Persian: {{t+|fa|واژه|tr=vâže}}
-* Portuguese: {{t+|pt|palavra|f}}
-* Romanian: {{t+|ro|cuvânt|n}}
-* Russian: {{t+|ru|слово|n}}
-* Slovak: {{t|sk|slovo|n}}
-* Spanish: {{t+|es|palabra|f}}
-* Swedish: {{t+|sv|ord|n}}
-{{trans-bottom}}
-
-{{trans-top|group theory: kind of group element}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|God}}
+{{trans-top|Christ}}
 * Finnish: {{t|fi|Sana}}
 * French: {{t+|fr|Verbe|m}}, {{t+|fr|verbe|m}}
 {{trans-mid}}
@@ -419,13 +434,6 @@ From {{etyl|enm|en}} {{term|word|lang=enm}}, from {{etyl|ang|en}} {{term|word||w
 * Romanian: {{t+|ro|cuvânt|n}}
 * Slovak: {{t|sk|slovo božie}}, {{t|sk|božie slovo}}
 * Telugu: {{t+|te|వాణి|tr=vāṇi|sc=Telu}}
-{{trans-bottom}}
-
-{{trans-top|an angry discussion}}
-* Dutch: {{t+|nl|woordenwisseling|f}}
-* Norwegian: {{t|no|krangel|m}}
-{{trans-mid}}
-* Russian: {{t+|ru|перебра́нка|f|sc=Cyrl}}
 {{trans-bottom}}
 
 ===Verb===
