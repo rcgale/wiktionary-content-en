@@ -199,16 +199,16 @@ From {{etyl|enm|en}} {{term|payen||lang=enm}}, from {{etyl|fro|en}} {{term|paier
 
 {{trans-top|to be profitable}}
 * Czech: {{t|cs|vyplatit|alt=vyplatit se}}
-* Danish: {{t+|da|betale}} sig
+* Danish: {{t-check|da|betale|alt=betale sig}} {{attention|da|2=was "[[betale]] sig" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Dutch: {{t+|nl|lonen}}, {{t+|nl|opbrengen}}
 * Esperanto: {{t|eo|profitigi}} {{qualifier|transitive}}
 * Finnish: {{t+|fi|kannattaa}}
-* German: sich {{t+|de|lohnen}}, {{t|de|auszahlen|alt=sich auszahlen}}
+* German: {{t-check|de|lohnen|alt=sich lohnen}} {{attention|de|2=was "sich [[lohnen]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t|de|auszahlen|alt=sich auszahlen}}
 * Greek: {{t+|el|αποδίδω|tr=apodído}}
 * Latin: {{t|la|compenso}}, {{t|la|penso}}, {{t|la|repenso}}
 * Norwegian:
-*: Bokmål: {{t|nb|lønne}} seg
-*: Nynorsk: {{t|nn|løne}} seg, {{t|nn|lønne}} seg
+*: Bokmål: {{t-check|nb|lønne|alt=lønne seg}} {{attention|nb|2=was "[[lønne]] seg" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
+*: Nynorsk: {{t-check|nn|løne|alt=løne seg}} {{attention|nn|2=was "[[løne]] seg" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|nn|lønne|alt=lønne seg}} {{attention|nn|2=was "[[lønne]] seg" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|compensar}}
 * Romanian: {{t+|ro|merita}}, {{qualifier|to be profitable}} {{t|ro|a [[fi]] [[profitabil]]}}
@@ -217,7 +217,7 @@ From {{etyl|enm|en}} {{term|payen||lang=enm}}, from {{etyl|fro|en}} {{term|paier
 * Serbo-Croatian: {{t+|sh|isplatiti|alt=isplatiti se}}
 * Slovene: {{t|sl|izplačati se}}
 * Spanish: {{t+|es|pagar}}, {{t+|es|redituar}}, {{t|es|valer la pena}}, {{t|es|salir a cuenta}}
-* Swedish: {{t+|sv|betala}} sig, {{t+|sv|löna}} sig
+* Swedish: {{t-check|sv|betala|alt=betala sig}} {{attention|sv|2=was "[[betala]] sig" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|sv|löna|alt=löna sig}} {{attention|sv|2=was "[[löna]] sig" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 {{trans-bottom}}
 
 {{trans-top|to give}}
@@ -246,7 +246,7 @@ From {{etyl|enm|en}} {{term|payen||lang=enm}}, from {{etyl|fro|en}} {{term|paier
 
 # [[money|Money]] given in return for [[work]]; [[salary]] or [[wages]].
 #: {{ux|en|Many employers have rules designed to keep employees from comparing their '''pays'''.}}
-#*{{quote-book|year=1898|author={{w|Winston Churchill (novelist)|Winston Churchill}}
+#* {{quote-book|year=1898|author={{w|Winston Churchill (novelist)|Winston Churchill}}
 |title={{w|The Celebrity}}|chapter=10
 |passage=The skipper Mr. Cooke had hired at Far Harbor was a God-fearing man with a luke warm interest in his new billet and employer, and had only been prevailed upon to take charge of the yacht after the offer of an emolument equal to half a year's sea '''pay''' of an ensign in the navy.}}
 
@@ -263,14 +263,14 @@ From {{etyl|enm|en}} {{term|payen||lang=enm}}, from {{etyl|fro|en}} {{term|paier
 * Danish: {{t+|da|betaling|c}}
 * Finnish: {{t+|fi|palkka}}
 * Greek: {{t+|el|μισθός|m|tr=misthós}}
-* Hungarian: {{t+|hu|fizetés}}, {{t+|hu|zsold}} (soldier's)
+* Hungarian: {{t+|hu|fizetés}}, {{qualifier|soldier's}} {{t-check|hu|zsold}}
 * Polish: {{t+|pl|płaca|f}}, {{t+|pl|pensja|f}}
 * Portuguese: {{t+|pt|pagamento|m}}
 {{trans-mid}}
 * Scottish Gaelic: {{t|gd|pàigh|m}}, {{t|gd|cosnadh|m}}, {{t|gd|tuarasdal|m}}
 * Serbo-Croatian:
-*: Bosnian, Montenegrin, Serbian: {{t+|sh|plata|f}}
-*: Croatian: {{t+|sh|plaća|f}}
+*: Roman: {{qualifier|Serbia|Bosnia|Montenegro}} {{t+|sh|pláta|f}}, {{qualifier|Croatia}} {{t+|sh|pláća|f}}
+*: Cyrillic: {{t|sh|пла́та}}
 * Slovene: {{t+|sl|plača|f}}
 * Spanish: {{t+|es|pago|m}}, {{t+|es|paga|f}}
 {{trans-bottom}}
