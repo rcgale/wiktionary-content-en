@@ -13,49 +13,25 @@
 # [[that]]
 
 ====Declension====
-{|style="margin-bottom:1em; margin-right:1em; border: 1px solid #AAAAAA; border-collapse:collapse;" cellpadding="4" rules="all"
-!
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[masculine|Masc. sg.]]
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[feminine|Fem. sg.]]
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[neuter|Neut. sg.]]
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[plural|Plural]]
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[nominative case|nominative]]
-|align=center|э́тот
-|align=center|{{l|ru|э́та}}
-|align=center|{{l|ru|э́то}}
-|align=center|{{l|ru|э́ти}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[genitive case|genitive]]
-|align=center|{{l|ru|э́того|tr=étovo}}
-|align=center|{{l|ru|э́той}}
-|align=center|{{l|ru|э́того|tr=étovo}}
-|align=center|{{l|ru|э́тих}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[dative case|dative]]
-|align=center|{{l|ru|э́тому}}
-|align=center|{{l|ru|э́той}}
-|align=center|{{l|ru|э́тому}}
-|align=center|{{l|ru|э́тим}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[accusative case|accusative]]
-|align=center|э́тот, {{l|ru|э́того|tr=étovo}}
-|align=center|{{l|ru|э́ту}}
-|align=center|{{l|ru|э́то}}
-|align=center|{{l|ru|э́ти}}, {{l|ru|э́тих}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[instrumental case|instrumental]]
-|align=center|{{l|ru|э́тим}}
-|align=center|{{l|ru|э́той}}, {{l|ru|э́тою}}
-|align=center|{{l|ru|э́тим}}
-|align=center|{{l|ru|э́тими}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[prepositional case|prepositional]]
-|align=center|об {{l|ru|э́том}}
-|align=center|об {{l|ru|э́той}}
-|align=center|об {{l|ru|э́том}}
-|align=center|об {{l|ru|э́тих}}
-|}
+{{ru-decl-adj-table
+|nom_m=э́тот
+|nom_n=э́то
+|nom_f=э́та
+|nom_p=э́ти
+|gen_m=э́того
+|gen_f=э́то́й
+|gen_p=э́тих
+|dat_m=э́том
+|dat_f=э́той
+|dat_p=э́тим
+|acc_f=э́ту
+|ins_m=э́тим
+|ins_f=э́той,э́тою
+|ins_p=э́тими
+|prep_m=э́том
+|prep_f=э́той
+|prep_p=э́тих
+}}
 
 ====Synonyms====
 * {{l|ru|сей}} {{qualifier|dated or poetic}}
