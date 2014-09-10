@@ -783,48 +783,20 @@ From {{etyl|poz-mly-pro|ms}} {{m|poz-mly-pro|*air}}, from {{etyl|poz-mcm-pro|ms}
 *: {{usex|Tha an t-acras orm.|t=I'm hungry. (Literally: the hunger is on me.)|inline=1|lang=gd}}
 
 ====Derived terms====
-* {{l|gd|air dheireadh|gloss=behind; late}}
-* {{l|gd|air fhichead|gloss=twenty-...}}
-* {{l|gd|air sgàth|gloss=for the sake of}}
-* {{l|gd|airson|gloss=for}}
+{{der3|{{l|gd|air dheireadh||behind; late}}
+|{{l|gd|air fhichead||twenty-...}}
+|{{l|gd|air sgàth||for the sake of}}
+|{{l|gd|airson||for}}}}
 * The following prepositional pronouns:
-
-{| class="wikitable"
-| Combining
-pronoun
-| Prepositional
-pronoun
-| Prepositional
-pronoun (emphatic)
-|-
-| [[mi#Scottish Gaelic|mi]]
-| [[orm#Scottish Gaelic|orm]]
-| [[ormsa]]
-|-
-| [[tu#Scottish Gaelic|tu]]
-| [[ort#Scottish Gaelic|ort]]
-| [[ortsa]]
-|-
-| [[e#Scottish Gaelic|e]]
-| air
-| [[airsan]]
-|-
-| [[i#Scottish Gaelic|i]]
-| [[oirre#Scottish Gaelic|oirre]]
-| [[oirrese]]
-|-
-| [[sinn#Scottish Gaelic|sinn]]
-| [[oirnn#Scottish Gaelic|oirnn]]
-| [[oirnne]]
-|-
-| [[sibh#Scotish Gaelic|sibh]]
-| [[oirbh#Scottish Gaelic|oirbh]]
-| [[oirbhse]]
-|-
-| [[iad#Scotish Gaelic|iad]]
-| [[orra#Scottish Gaelic|orra]]
-| [[orrasan]]
-|}
+{{gd-prep-infl
+ |1sg    = orm
+ |2sg    = ort
+ |3sgm   = air
+ |3sgf   = oirre
+ |1pl    = oirnn
+ |2pl    = oirbh
+ |3pl    = orra
+}}
 
 ===Prepositional pronoun===
 {{rfc-header|Prepositional pronoun|lang=gd}}
