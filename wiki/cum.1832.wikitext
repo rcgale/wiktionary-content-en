@@ -34,9 +34,9 @@ Variant of {{term|come}}.
 ====Noun====
 {{en-noun|-}}
 
-# {{context|informal|lang=en}} [[semen|Semen]].
-# {{context|slang|lang=en}} [[ejaculation|An ejaculation]].
-# {{context|slang|lang=en}} Female ejaculatory discharge.
+# {{label|en|informal}} [[semen|Semen]].
+# {{label|en|slang}} [[ejaculation|An ejaculation]].
+# {{label|en|slang}} Female ejaculatory discharge.
 
 =====Synonyms=====
 * {{sense|Semen}} [[spunk]] {{qualifier|Australia|New Zealand}}, [[spooge]] {{qualifier|US}}, [[jiz]], [[jizz]], [[jizzum]], [[jism]], [[gism]], [[gissum]],
@@ -99,8 +99,8 @@ Variant of {{term|come}}.
 ====Verb====
 {{en-verb|cums|cumming|came|past2=cummed|came|past_ptc2=cum|past_ptc3=cummed|past_ptc3_qual=uncommon}}
 
-# {{context|slang|lang=en}} To have an [[orgasm]], to feel the sensation of an [[orgasm]].
-# {{context|slang|lang=en}} To [[ejaculate]].
+# {{label|en|slang}} To have an [[orgasm]], to feel the sensation of an [[orgasm]].
+# {{label|en|slang}} To [[ejaculate]].
 #* {{quote-video
  | date = 1997-07-14
  | title = Visits, Conjugal, and Otherwise
@@ -118,7 +118,7 @@ Variant of {{term|come}}.
 
 =====Translations=====
 {{trans-top|slang: have an orgasm; ejaculate}}
-* Arabic: {{t|ar|قذف المني|sc=Arab}}
+* Arabic: {{t|ar|قذف المني}}
 * Armenian: {{t|hy|թափել}}
 * Bengali: {{t|bn|মাল ফেলা|tr=mal phela|sc=Beng}}
 * Catalan: {{t|ca|escórrer-se}}, {{t+|ca|ejacular}}
@@ -134,7 +134,7 @@ Variant of {{term|come}}.
 * German: {{t+|de|abspritzen}}, {{t+|de|kommen}} {{qualifier|informal}}
 * Greek: {{t+|el|χύνω}}
 {{trans-mid}}
-* Hebrew: {{t+|he|גָּמַר|tr=gamár|sc=Hebr}} {{qualifier|slang}}
+* Hebrew: {{t+|he|גָּמַר|tr=gamár}} {{qualifier|slang}}
 * Hungarian: {{t|hu|elélvez}}, {{t+|hu|elmegy}}
 * Italian: {{t+|it|venire}}, {{t+|it|eiaculare}}, {{t+|it|sborrare}}
 * Japanese: {{t+|ja|いく|tr=iku}}, {{t|ja|射精する|tr=shasei suru}}
@@ -167,7 +167,7 @@ Variant of {{term|come}}.
 ==Aromanian==
 
 ===Etymology===
-From  {{etyl|VL.|rup}} *{{m|la|quomo}}, from {{etyl|la|rup}} {{m|la|quomodo}}.
+From  {{etyl|VL.|rup}} {{m|la|*quomo}}, from {{etyl|la|rup}} {{m|la|quomodo}}.
 
 ===Adverb===
 {{head|rup|adverb}}
@@ -175,7 +175,7 @@ From  {{etyl|VL.|rup}} *{{m|la|quomo}}, from {{etyl|la|rup}} {{m|la|quomodo}}.
 # [[how]]
 
 ===Conjunction===
-{{head|rup}}
+{{head|rup|conjunction}}
 
 # [[how]]
 
@@ -194,11 +194,11 @@ From {{etyl|sga|ga}} {{m|sga|cummaid}}.
 ===Verb===
 {{ga-verb|pres=cumann|fut=cumfaidh|vn=cumadh|pp=cumtha}}
 
-# to [[form]], [[shape]]
-# to [[compose]]
-# to [[devise]]
-# to [[invent]]
-# to [[limit]], [[ration]]
+# [[form]], [[shape]]
+# [[compose]]
+# [[devise]]
+# [[invent]]
+# [[limit]], [[ration]]
 
 ====Inflection====
 {{ga-conj-1a|c|u|m|broad}}
@@ -221,26 +221,23 @@ From {{etyl|itc-pro|la}} {{m|itc-pro|*kom}}, from {{etyl|ine-pro|la}} {{m|ine-pr
 {{head|la|preposition|+ ablative}}
 
 # [[with]]
-#: ''Titus '''cum''' familiā habitat.'' — "Titus lives with his family."
-#: ''magnā '''cum''' laude'' — "'''with''' great praise."
+#: {{usex|Titus '''cum''' familiā habitat.|inline=1|t=Titus lives with his family.|lang=la}}
+#: {{usex|magnā '''cum''' laude|inline=1|t='''with''' great praise.|lang=la}}
 
 =====Derived terms=====
-{{top2}}
-* {{l/la|co-}}
-* {{l/la|col-}}
-* {{l/la|com-}}
-* {{l/la|con-}}
-* {{l/la|cor-}}
-* {{l/la|cum laude}}
-* {{l/la|donec}}
-{{mid2}}
-* {{l/la|egregia cum laude}}
-* {{l/la|magna cum laude}}
-* {{l/la|maxima cum laude}}
-* {{l/la|summa cum laude}}
-* {{l/la|tecum}}
-* {{l/la|vobiscum}}
-{{bottom}}
+{{der3|{{l/la|co-}}
+|{{l/la|col-}}
+|{{l/la|com-}}
+|{{l/la|con-}}
+|{{l/la|cor-}}
+|{{l/la|cum laude}}
+|{{l/la|donec}}
+|{{l/la|egregia cum laude}}
+|{{l/la|magna cum laude}}
+|{{l/la|maxima cum laude}}
+|{{l/la|summa cum laude}}
+|{{l/la|tecum}}
+|{{l/la|vobiscum}}}}
 
 =====Descendants=====
 {{top2}}
@@ -299,8 +296,8 @@ From {{etyl|ine-pro|la}} {{m|ine-pro|*kʷóm}}. Cognate with {{etyl|got|-}} {{m|
 * {{l/la|tum}}
 
 ===References===
-* ''(preposition)'' {{R:L&S|cum|cum1}}
-* ''(conjunction)'' {{R:L&S|cum|cum2}}
+* {{qualifier|preposition}} {{R:L&S|cum|cum1}}
+* {{qualifier|conjunction}} {{R:L&S|cum|cum2}}
 
 ----
 
@@ -321,14 +318,11 @@ From {{etyl|ine-pro|la}} {{m|ine-pro|*kʷóm}}. Cognate with {{etyl|got|-}} {{m|
 ====Verb====
 {{head|gv|verb|verbal noun|cummal}}
 
-# to [[grip]], [[hold]]
-# to [[keep]], [[arrest]], [[retain]]
-# to [[contain]]
-# to [[live]], [[inhabit]]
-# to [[celebrate]]
-
-=====Mutation=====
-{{gv mut cons|c|um}}
+# [[grip]], [[hold]]
+# [[keep]], [[arrest]], [[retain]]
+# [[contain]]
+# [[live]], [[inhabit]]
+# [[celebrate]]
 
 ===Etymology 2===
 {{rfe|lang=gv}}
@@ -336,11 +330,11 @@ From {{etyl|ine-pro|la}} {{m|ine-pro|*kʷóm}}. Cognate with {{etyl|got|-}} {{m|
 ====Verb====
 {{head|gv|verb|verbal noun|cummey}}
 
-# to [[plan]], [[devise]]
-# to [[fabricate]], [[shape]], [[mould]]
-# to [[indite]]
+# [[plan]], [[devise]]
+# [[fabricate]], [[shape]], [[mould]]
+# [[indite]]
 
-=====Mutation=====
+===Mutation===
 {{gv mut cons|c|um}}
 
 ----
@@ -353,6 +347,7 @@ From {{etyl|ine-pro|la}} {{m|ine-pro|*kʷóm}}. Cognate with {{etyl|got|-}} {{m|
 # {{alternative form of|conme|lang=fro}}
 
 ----
+
 ==Old Irish==
 
 ===Alternative forms===
@@ -364,7 +359,7 @@ From {{etyl|ine-pro|la}} {{m|ine-pro|*kʷóm}}. Cognate with {{etyl|got|-}} {{m|
 # {{conjugation of|con·icc||3|s|pres|sub|prototonic|lang=sga}}
 
 ====Related terms====
-* {{l|sga|con·í}}, {{l|sga|con·ístar}} {{i|deuterotonic}}
+* {{l/sga|con·í}}, {{l/sga|con·ístar}} {{i|deuterotonic}}
 
 ===Mutation===
 {{sga-mutation|c|um|p=·}}
@@ -395,13 +390,11 @@ From  {{etyl|VL.|ro}} {{m|la|*quomo}}, from {{etyl|la|ro}} {{m|la|quomodo}}.
 {{ro-adv}}
 
 # [[how]]
-#: '''''Cum''' ți-ar plăcea cafeaua?''
-#:: How would you like your coffee?
-#: ''Nu știu '''cum''' să spun "how" în românește''
-#:: I don't know how to say "how" in Romanian.
+#: {{usex|'''Cum''' ți-ar plăcea cafeaua?|inline=1|t=How would you like your coffee?|lang=ro}}
+#: {{usex|Nu știu '''cum''' să spun "how" în românește.|inline=1|t=I don't know how to say "how" in Romanian.|lang=ro}}
 
 ===Conjunction===
-{{head|ro}}
+{{head|ro|conjunction}}
 
 # [[how]]
 # [[as]], [[since]], [[because]]
@@ -423,7 +416,7 @@ From  {{etyl|VL.|ro}} {{m|la|*quomo}}, from {{etyl|la|ro}} {{m|la|quomodo}}.
 ==Scottish Gaelic==
 
 ===Alternative forms===
-* {{l|gd|cùm}}
+* {{l/gd|cùm}}
 
 ===Pronunciation===
 * {{IPA|/kʰuːm/|lang=gd}}
@@ -432,23 +425,23 @@ From  {{etyl|VL.|ro}} {{m|la|*quomo}}, from {{etyl|la|ro}} {{m|la|quomodo}}.
 {{rfe|lang=gd}}
 
 ====Verb====
-{{head|gd|verb|verbal noun|cumail}}
+{{gd-verb|past=chum|fut=cumaidh|vn=cumail|pp=cumta}}
 
 # [[keep]], [[hold]]
-#: '''''cùm''' seo dhomhsa gu Dihaoine'' - keep this for me till Friday
-#: '''''chùm''' i an taigh glan'' - she kept the house clean
-#: ''cha do '''chùm''' e ris a’ bhargan'' - he didn’t keep [his part of] the bargain
+#: {{usex|'''Cùm''' seo dhomhsa gu Dihaoine.|inline=1|t='''Keep''' this for me till Friday.|lang=gd}}
+#: {{usex|'''Chùm''' i an taigh glan.|inline=1|t=She '''kept''' the house clean.|lang=gd}}
+#: {{usex|Cha do '''chùm''' e ris a’ bhargan.|inline=1|t=He didn’t '''keep''' [his part of] the bargain.|lang=gd}}
 # [[keep]], [[continue]]
 
 =====Derived terms=====
-* {{l|gd|cum ri}}
-* {{l|gd|cum suas ri}}
+* {{l/gd|cum ri}}
+* {{l/gd|cum suas ri}}
 
 ===Etymology 2===
-{{rfe|lang=gd}}
+From {{etyl|sga|gd}} {{m|sga|cummaid||fashions, shapes, composes, determines; makes, creates, devises}}, from {{m|sga|cummae||act of cutting, carving, hacking, destroying, butchering; act of shaping, fashioning, composing}}, verbal noun of {{m|sga|con·ben}}.
 
 ====Verb====
-{{head|gd|verb|verbal noun|cumadh}}
+{{gd-verb|past=chum|fut=cumaidh|vn=cumadh|pp=cumta}}
 
 # [[shape]], [[form]]
 
