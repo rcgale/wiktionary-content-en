@@ -361,7 +361,7 @@ From {{etyl|non|fo}} {{m|non|at||at, to}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|
 From {{etyl|sga|ga}} {{m|sga|att}}.
 
 ===Noun===
-{{ga-noun|ait|atanna|g=m}}
+{{ga-noun|g=m|ait|atanna}}
 
 # [[swelling]]
 
@@ -371,8 +371,8 @@ From {{etyl|sga|ga}} {{m|sga|att}}.
 ===Verb===
 {{ga-verb|pres=atann|fut=atfaidh|vn=at|pp=ata}}
 
-# to [[swell]]
-# to [[bloat]]
+# [[swell]]
+# [[bloat]]
 
 ====Conjugation====
 {{ga-conj-1a|a||t|broad|vn=at}}
@@ -483,7 +483,7 @@ From {{etyl|gem-pro|non}} {{m|gem-pro|*atǭ}}. Related to {{etyl|non|-}} {{m|ang
 * Icelandic: {{l|is|at}}
 
 ===Etymology 2===
-From {{etyl|gem-pro|non}} {{m|gem-pro|*þat||that}}. Cognate with {{etyl|ang|-}} {{m|ang|þæt}}, {{etyl|got|-}} {{m|got|𐌸𐌰𐍄𐌰|sc=Goth}}.
+From {{etyl|gem-pro|non}} {{m|gem-pro|*þat||that}}. Cognate with {{etyl|ang|-}} {{m|ang|þæt}}, {{etyl|got|-}} {{m|got|𐌸𐌰𐍄𐌰}}.
 
 ====Conjunction====
 {{head|non|conjunction}}
@@ -499,7 +499,7 @@ From {{etyl|gem-pro|non}} {{m|gem-pro|*þat||that}}. Cognate with {{etyl|ang|-}}
 {{bottom}}
 
 ===Etymology 3===
-From {{etyl|gem-pro|non}} {{m|gem-pro|*at||at, to}}. Cognate with {{etyl|ang|-}} {{m|ang|æt}}, {{etyl|ofs|-}} {{m|ofs|et}}, {{etyl|osx|-}} {{m|osx|at}}, {{etyl|goh|-}} {{m|goh|az}}, {{etyl|got|-}} {{m|got|𐌰𐍄|sc=Goth}}.
+From {{etyl|gem-pro|non}} {{m|gem-pro|*at||at, to}}. Cognate with {{etyl|ang|-}} {{m|ang|æt}}, {{etyl|ofs|-}} {{m|ofs|et}}, {{etyl|osx|-}} {{m|osx|at}}, {{etyl|goh|-}} {{m|goh|az}}, {{etyl|got|-}} {{m|got|𐌰𐍄}}.
 
 ====Particle====
 {{head|non|particle}}
@@ -541,10 +541,28 @@ From {{etyl|gem-pro|non}} {{m|gem-pro|*at||at, to}}. Cognate with {{etyl|ang|-}}
 
 ==Scottish Gaelic==
 
-===Verb===
-{{head|gd|verb|verbal noun|at|also|atadh}}
+===Etymology===
+From {{etyl|sga|gd}} {{m|sga|att}}.
 
-# [[swell]], [[fester]], [[puff up]]
+===Noun===
+{{gd-noun|g=m}}
+
+# [[swelling]], [[tumour]]
+# [[protuberance]], [[prominence]]
+
+====Derived terms====
+{{der3|{{l|gd|at-bràghad||quinsy}}
+|{{l|gd|at-chuisle||aneurism}}
+|{{l|gd|at-fhuachd||chilblain}}
+|{{l|gd|at-reum||swelling in the back of the mouth}}}}
+
+===Verb===
+{{head|gd|verb|past|dh'at|fut=ataidh|verbal noun|at|or|atadh}}
+
+# [[swell]], [[fester]], [[puff up]], become [[tumid]]
+
+===References===
+* {{R:Dwelly}}
 
 ----
 
@@ -565,7 +583,7 @@ From {{etyl|poz-cet-pro|slu}} {{m|poz-cet-pro|*əpat}}, from {{etyl|poz-pro|slu}
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|ota|sh}} {{term|آت|tr=at|lang=ota}}.
+{{borrowing|ota|آت|tr=at|lang=sh}}.
 
 ===Noun===
 {{sh-noun|g=m|r|ат}}
@@ -651,8 +669,8 @@ From {{etyl|otk|tr}} ''at'', from {{etyl|trk-pro|tr}} {{m|trk-pro|*at}}, {{m|trk
 ===Noun===
 {{tr-noun|ı|lar}}
 
-# {{context|chess|lang=tr}} [[knight]]
-# {{context|zoology|lang=tr}} [[horse]]
+# {{label|tr|chess}} [[knight]]
+# {{label|tr|zoology}} [[horse]]
 
 ====Declension====
 {{tr-noun-c|a|t|pred=+|poss=+}}
