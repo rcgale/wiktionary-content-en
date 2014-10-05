@@ -102,8 +102,8 @@ From earlier {{m|en|iland}}, from {{etyl|enm|en}} {{m|enm|iland}}, {{m|enm|yland
 *: Min Nan: {{t+|nan|島嶼|tr=tó-sū|sc=Hans}}, {{t|nan|島|tr=tó, tóo|sc=Hans}}
 * Chuvash: {{t|cv|утрав}}
 * Coptic:
-*: Bohairic: {{t|cop|ⲙⲟⲩⲓ|f|tr=mwi}}, {{t|cop|ⲛⲏⲥⲟⲥ|f|tr=nisos}}
-*: Sahidic: {{t|cop|ⲙⲟⲩⲉ|f|tr=mwe}}, {{t|cop|ⲛⲏⲥⲟⲥ|f|tr=nisos}}
+*: {{ttbc|Bohairic}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|cop|ⲙⲟⲩⲓ|f|tr=mwi}}, {{t|cop|ⲛⲏⲥⲟⲥ|f|tr=nisos}}
+*: {{ttbc|Sahidic}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|cop|ⲙⲟⲩⲉ|f|tr=mwe}}, {{t|cop|ⲛⲏⲥⲟⲥ|f|tr=nisos}}
 * Corsican: {{t|co|isula|f}}
 * Cree: {{t|cr|ᒥᓂᔥᑎᒄ}}
 * Crimean Tatar: {{t|crh|ada}}
@@ -117,7 +117,7 @@ From earlier {{m|en|iland}}, from {{etyl|enm|en}} {{m|enm|iland}}, {{m|enm|yland
 * Estonian: {{t+|et|saar}}
 * Ewe: {{t|ee|ƒukpo}}
 * Extremaduran: {{t-needed|ext}}
-* Faroese: {{t+|fo|oyggj|f}}, (small island, or river-island) {{t|fo|hólmur|m}}
+* Faroese: {{t+|fo|oyggj|f}}, {{qualifier|small island, or river-island}} {{t|fo|hólmur|m}}
 * Fijian: {{t+|fj|yanuyanu}}
 * Finnish: {{t+|fi|saari}}
 * French: {{t+|fr|île|f}}
@@ -186,7 +186,7 @@ From earlier {{m|en|iland}}, from {{etyl|enm|en}} {{m|enm|iland}}, {{m|enm|yland
 * Nepali: {{t|ne|द्वीप|m|tr=dvīpa|sc=Deva}}, {{t|ne|टापू|tr=ṭāpū|sc=Deva}}
 * Niuean: {{t|niu|motu}}
 * Norman: {{t|roa-nor|île}}
-* North Frisian: {{qualifier|Mooring}} {{t|frr|ailönj|n}}; {{qualifier|Föhr-Amrum}} {{t|frr|eilun|n}}
+* North Frisian: {{qualifier|Mooring}} {{t|frr|ailönj|n}}, {{qualifier|Föhr-Amrum}} {{t|frr|eilun|n}}
 * Norwegian:
 *: Bokmål: {{t+|nb|øy|m|f}}
 *: Nynorsk: {{t|nn|øy|f}}
@@ -236,7 +236,7 @@ From earlier {{m|en|iland}}, from {{etyl|enm|en}} {{m|enm|iland}}, {{m|enm|yland
 * Sundanese: {{t|su|pulo}}
 * Swahili: {{t+|sw|kisiwa}}
 * Swedish: {{t+|sv|ö|c}}, {{t+|sv|holme|c}}, {{t+|sv|kobbe|c}}, {{t+|sv|skär|n}}
-* Tagalog: {{t+|tl|pulo}} archipelago- kapuluan
+* Tagalog: {{t+check|tl|pulo}} archipelago- kapuluan {{attention|tl|is this one translation or three?}}
 * Tahitian: {{t|ty|motu}}
 * Tajik: {{t|tg|ҷазира}}
 * Tamil: {{t+|ta|தீவு}}
@@ -312,8 +312,8 @@ From earlier {{m|en|iland}}, from {{etyl|enm|en}} {{m|enm|iland}}, {{m|enm|yland
 * Persian: {{t+check|fa|جَزِیرَه|tr=jazire|sc=fa-Arab}}
 * Sardinian: {{t-check|sc|isula|f}}
 * {{ttbc|sh}}
-: Cyrillic: [[острво#Serbian|острво]] {{g|n}}
-: Roman: [[ostrvo#Serbian|ostrvo]] {{g|n}}
+*: Cyrillic: {{t-check|sh|острво|n|sc=Cyrl}}
+*: Roman: {{t-check|sh|ostrvo|n}}
 * Slovak: {{t-check|sk|ostrov|m}}
 * Telugu: {{t+check|te|దీవి}}, {{t+check|te|ద్వీపం}}
 * Volapük: {{t+check|vo|nisul}}
