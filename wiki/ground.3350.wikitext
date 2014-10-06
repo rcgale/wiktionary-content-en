@@ -277,7 +277,7 @@ From {{etyl|ang|en}} ''[[grund]]'', from {{etyl|gem-pro|en}} {{m|gem-pro|*grundu
 * German: {{t+|de|Grund|m}}
 {{trans-mid}}
 * Greek: {{t+|el|βυθός|m}}
-* Korean: {{t+|ko|바닥|tr=badag, -k}}, [[바다]] (bada ''for sea'')
+* Korean: {{t+check|ko|바닥|tr=badag}}<!-- had a ", -k" in transliteration, removed -->, {{t-check|ko|바다|tr=bada|sc=Kore}}<!-- "for sea" - ??? -->
 * Polish: {{t+|pl|dno|n}}, {{t+|pl|grunt|m}}
 * Russian: {{t+|ru|дно|n|tr=dno}}
 * Spanish: {{t+|es|fondo|m}}
@@ -346,16 +346,16 @@ From {{etyl|ang|en}} ''[[grund]]'', from {{etyl|gem-pro|en}} {{m|gem-pro|*grundu
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: {{l|ar|ارض|أرض}} (’arD) {{g|f}}
+* Arabic: {{t-check|ar|ارض|f|tr=’arD|alt=أرض|sc=Arab}} {{attention|ar|2=was "[[ارض|أرض]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Esperanto: {{t-check|eo|grundo}}
 * French: {{t-check|fr|sol|m}}
 * Indonesian: {{t-check|id|tanah}}, {{t-check|id|lapang|alt=lapangan}}
-* {{ttbc|it}}: [[suolo]] {{g|m}} (1, 3), [[terreno]] {{g|m}} (1, 3), [[terra]] {{g|f}} (1, 2, 3, 5, 6)
+* Italian: {{qualifier|1, 3}} {{t-check|it|suolo|m}}, {{qualifier|1, 3}} {{t-check|it|terreno|m}}, {{qualifier|1, 2, 3, 5, 6}} {{t-check|it|terra|f}}
 {{trans-mid}}
-* {{ttbc|ja}}: [[地面]] ([[じめん]], jimen), [[グラウンド]] (guraundo)
+* Japanese: {{t-check|ja|地面|tr=[[じめん]], jimen|sc=Jpan}}, {{t-check|ja|グラウンド|tr=guraundo|sc=Jpan}}
 * Latin: {{t-check|la|humus|f}}, {{t-check|la|terra|f}}
-* {{ttbc|sk}}: [[zem]] [[pôda]]
-* {{ttbc|te}}: [[నేల]] (nEla)
+* Slovak: {{t-check|sk|[[zem]] [[pôda]]}} {{attention|sk|2=was "[[zem]] [[pôda]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
+* Telugu: {{t-check|te|నేల|tr=nEla|sc=Telu}}
 {{trans-bottom}}
 
 =====See also=====
@@ -405,10 +405,9 @@ From {{etyl|ang|en}} ''[[grund]]'', from {{etyl|gem-pro|en}} {{m|gem-pro|*grundu
 * Dutch: {{t|nl|huisarrest geven}}
 * French: {{t+|fr|gronder}}, {{t+|fr|punir}}
 * German: {{t|de|Hausarrest geben}}
-* Hungarian: [[szobafogság]]ra [[ítél]]
+* Hungarian: {{t-check|hu|[[szobafogság]]ra [[ítél]]}} {{attention|hu|2=was "[[szobafogság]]ra [[ítél]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 {{trans-mid}}
-* Portuguese:
-*: {{qualifier|Brazil}} {{t|pt|deixar de castigo}}
+* Portuguese: {{qualifier|Brazil}} {{t|pt|deixar de castigo}}
 * Spanish: {{t+|es|castigar}}
 * Swedish: {{t|sv|ge husarrest}}, {{t|sv|ge utegångsförbud}}
 {{trans-bottom}}
