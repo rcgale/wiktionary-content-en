@@ -56,14 +56,14 @@ From {{etyl|fr|en}} {{term|académie|lang=fr}}, from {{etyl|la|en}} {{m|la|acad�
 * Finnish: {{t+|fi|akatemia}}
 * French: {{t+|fr|académie|f}}
 * German: {{t+|de|Akademie|f}}
-* Greek: {{t+|el|ακαδημία|f}} (akadimía)
+* Greek: {{t+|el|ακαδημία|f|tr=akadimía|sc=Grek}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|akadémia}}
 * Icelandic: {{t+|is|akademía|f}}
 * Italian: {{t+|it|accademia|f}}
 * Japanese: {{t+|ja|学会|tr=がっかい, gakkai|sc=Jpan}}
 * Latvian: {{t|lv|akadēmija|f}}
-* Norwegian: 
+* Norwegian:
 *: Bokmål: {{t+|nb|akademi|n}}
 *: Nynorsk: {{t|nn|akademi|n}}
 * Portuguese: {{t+|pt|academia|f}}
@@ -89,12 +89,12 @@ From {{etyl|fr|en}} {{term|académie|lang=fr}}, from {{etyl|la|en}} {{m|la|acad�
 * Italian: {{t+|it|accademia|m}}
 * Japanese: {{t|ja|専門学校|tr=せんもんがっこう, senmon gakkō|sc=Jpan}}
 * Latvian: {{t|lv|akadēmija|f}}
-* Norwegian: 
+* Norwegian:
 *: Bokmål: {{t+|nb|akademi|n}}
 *: Nynorsk: {{t|nn|akademi|n}}
 * Portuguese: {{t+|pt|academia|f}}
 * Romanian: {{t+|ro|academie|f}}
-* Russian: {{t+|ru|академия|f|tr=akadémija}}, {{t+|ru|высшее учебное заведение|n|tr=výsšeje učébnoje zavedénije}}, {{t+|ru|вуз|m|tr=vuz}} (''assimilated abbreviation'')
+* Russian: {{t+|ru|академия|f|tr=akadémija}}, {{t+|ru|высшее учебное заведение|n|tr=výsšeje učébnoje zavedénije}}, {{t+|ru|вуз|m|tr=vuz}} {{qualifier|assimilated abbreviation}}
 * Spanish: {{t+|es|cantera|f}}
 * Swedish: {{t+|sv|akademi|c}}
 {{trans-bottom}}
@@ -106,7 +106,7 @@ From {{etyl|fr|en}} {{term|académie|lang=fr}}, from {{etyl|la|en}} {{m|la|acad�
 * Dutch: {{t+|nl|academie|f}}, {{t+|nl|universiteit}}, {{t+|nl|college}}
 * Finnish: {{t+|fi|yliopisto}}, {{t+|fi|korkeakoulu}}
 * French: {{t+|fr|académie|f}}
-* German: [[akademisch]]e [[Einrichtung]] {{g|f}}
+* German: {{t-check|de|[[akademisch]]e [[Einrichtung]]|f}} {{attention|de|2=was "[[akademisch]]e [[Einrichtung]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Greek: {{t+|el|ακαδημία|f|tr=akadimía}}
 * Hungarian: {{t+|hu|akadémia}}
 {{trans-mid}}
@@ -114,7 +114,7 @@ From {{etyl|fr|en}} {{term|académie|lang=fr}}, from {{etyl|la|en}} {{m|la|acad�
 * Japanese: {{t|ja|学園|tr=がくえん, gakuen|sc=Jpan}}, {{t+|ja|学院|tr=がくいん, gakuin|sc=Jpan}}
 * Latvian: {{t|lv|akadēmija|f}}
 * Malay: {{t|ms|akademi}}
-* Norwegian: 
+* Norwegian:
 *: Bokmål: {{t+|nb|akademi|n}}
 *: Nynorsk: {{t|nn|akademi|n}}
 * Persian: {{t+|fa|دانشگاه|tr=dânešgâh|sc=fa-Arab}}
@@ -144,7 +144,7 @@ From {{etyl|fr|en}} {{term|académie|lang=fr}}, from {{etyl|la|en}} {{m|la|acad�
 * Greek: {{t+|el|ακαδημία|f|tr=akadimía}}
 {{trans-mid}}
 * Latvian: {{t|lv|akadēmija|f}}
-* Norwegian: 
+* Norwegian:
 *: Bokmål: {{t+|nb|akademi|n}}
 *: Nynorsk: {{t|nn|akademi|n}}
 * Portuguese: {{t+|pt|academia|f}}
@@ -153,11 +153,11 @@ From {{etyl|fr|en}} {{term|académie|lang=fr}}, from {{etyl|la|en}} {{m|la|acad�
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|he}}: [[אקדמיה|אָקָדֶמְיָה]] (aqademia) {{g|f}}
+* Hebrew: {{t-check|he|אקדמיה|f|tr=aqademia|alt=אָקָדֶמְיָה|sc=Hebr}}
 * Icelandic: {{t-check|is|æðri menntastofnun}}
 * Interlingua: {{t-check|ia|academia}}
 * Italian: {{t-check|it|accademia|f}}
-* {{ttbc|lt}}: [[Akademija]] {{g|f}} (1); [[akademija]] {{g|f}} (4, 5)
+* Lithuanian: {{qualifier|1}} {{t-check|lt|Akademija|f}}, {{qualifier|4, 5}} {{t-check|lt|akademija|f}}
 {{trans-mid}}
 * Novial: {{t-check|nov|akademie}}
 * Persian: {{t+check|fa|فرهنگستان|tr=farhangestan}}
