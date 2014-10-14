@@ -56,7 +56,7 @@ The comparatives '''[[beautifuler]]''' and '''[[beautifuller]]''', and the super
 ====Translations====
 {{trans-top|possessing charm and attractive}}
 * Afrikaans: {{t+|af|mooi}}
-* Albanian: [[bukur|i bukur]] {{g|m}}, e bukur {{g|f}}
+* Albanian: {{t|sq|bukur|alt=i bukur}}
 * American Sign Language: {{t|ase|5@NearCheek-PalmBack RoundVert OpenA@NearJaw-PalmBack}}
 * Amharic: {{t|am|ቆንጆ|tr=qonjo|sc=Ethi}}
 * Arabic: {{t|ar|جَمِيل}}
@@ -83,7 +83,7 @@ The comparatives '''[[beautifuler]]''' and '''[[beautifuller]]''', and the super
 *: <hiero>nfr-f:r-A40</hiero>
 * Esperanto: {{t+|eo|bela}}
 * Estonian: {{t+|et|kaunis}}, {{t+|et|ilus}}
-* Faroese: {{t+|fo|vakur|m}}, {{t|fo|vøkur|f}} {{t|fo|vakurt|n}}
+* Faroese: {{t+|fo|vakur|m}}, {{t-check|fo|vøkur|n}} [[vakurt]]
 * Fijian: {{t|fj|totoka}}
 * Finnish: {{t+|fi|kaunis}}
 * French: {{t+|fr|beau|m}}, {{t+|fr|belle|f}}
@@ -106,7 +106,7 @@ The comparatives '''[[beautifuler]]''' and '''[[beautifuller]]''', and the super
 * Kalmyk: {{t-needed|xal}}
 * Kazakh: {{t+|kk|әдемі|sc=Cyrl}}, {{t|kk|әсем|sc=Cyrl}}
 * Khanty:
-*: Kazym: {{t|kca|хурамӑӈ|tr=huramăň}}
+*: {{ttbc|Kazym}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|kca|хурамӑӈ|tr=huramăň}}
 * Khmer: {{t+|km|ស្អាត|tr=saāt}}, {{t+|km|ល្អ|tr=l'ɑɑ|sc=Khmr}}
 * Korean: {{qualifier|attributive}} {{t+|ko|아름다운|sc=Kore}}, {{qualifier|predicative}} {{t+|ko|아름답다|sc=Kore}}
 * Kurdish:
@@ -150,7 +150,7 @@ The comparatives '''[[beautifuler]]''' and '''[[beautifuller]]''', and the super
 * Slovene: {{t+|sl|lep}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|rědny}}
-* Spanish: {{t+|es|hermoso|m}}, {{t+|es|hermosa|f}}, {{t+|es|bello|m}}, {{t+|es|bella|f}} {{t+|es|lindo|m}}, {{t+|es|linda|f}}, {{t+|es|guapo|m}}, {{t+|es|guapa|f}}, {{t+|es|bonito|m}}, {{t+|es|bonita|f}}
+* Spanish: {{t+|es|hermoso|m}}, {{t+|es|hermosa|f}}, {{t+|es|bello|m}}, {{t-check|es|bella|m}} [[lindo]], {{t+|es|linda|f}}, {{t+|es|guapo|m}}, {{t+|es|guapa|f}}, {{t+|es|bonito|m}}, {{t+|es|bonita|f}}
 * Swahili: {{t+|sw|zuri}}
 * Swedish: {{t+|sv|fin}}, {{t+|sv|vacker}}
 * Tagalog: {{t+|tl|maganda}}
@@ -183,7 +183,7 @@ The comparatives '''[[beautifuler]]''' and '''[[beautifuller]]''', and the super
 * German: {{t+|de|heiter}}, {{t+|de|schön}}
 * Hebrew: {{t|he|נאה|tr=na'e}}
 * Hungarian: {{t+|hu|szép}}
-* Italian: {{t+|it|bel}} (''before "tempo"''); {{t+|it|bello}} (''after "tempo"'')
+* Italian: {{qualifier|before "tempo"}} {{t-check|it|bel}}, {{qualifier|after "tempo"}} {{t-check|it|bello}}
 * Kurdish:
 *: Sorani: {{t+|ku|خۆش}}, {{t+|ku|فێنک}}
 {{trans-mid}}
