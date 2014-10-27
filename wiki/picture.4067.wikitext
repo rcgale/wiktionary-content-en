@@ -67,7 +67,7 @@ From {{etyl|enm|en}} {{term|pycture|lang=en}}, from {{etyl|fro|en}} {{term|pictu
 * Afrikaans: {{t|af|beeld}}
 * Albanian: {{t|sq|pikturë|f}}
 * American Sign Language: {{t|ase|C@Sfhead-PalmForward-FlatB@InsideChestHigh-PalmAcross C@Palm-PalmForward-FlatB@CenterChesthigh-PalmAcross|sc=Sgnw}}
-* Arabic: {{t+|ar|صورة|f|tr=ṣūra}}, {{t|ar|تصوير|m|tr=taṣwīr|sc=Arab}}, {{t|ar|رسم|m|tr=rasm|sc=Arab}}
+* Arabic: {{t+|ar|صُورَة|f}}, {{t|ar|تَصْوِير|m|sc=Arab}}, {{t|ar|رَسْم|m|sc=Arab}}
 *: Egyptian Arabic: {{t|arz|صورة|f|tr=ṣūra|sc=Arab}}
 * Armenian: {{t+|hy|նկար}}, {{t|hy|պատկեր}}
 * Asturian: {{t|ast|imaxen|f}}
@@ -76,10 +76,10 @@ From {{etyl|enm|en}} {{term|pycture|lang=en}}, from {{etyl|fro|en}} {{term|pictu
 * Belarusian: {{t|be|карці́на|f|sc=Cyrl}}, {{t|be|карці́нка|f|sc=Cyrl}} {{qualifier|small}}
 * Bengali: {{t+|bn|ছবি|tr=chôbi|sc=Beng}}
 * Bulgarian: {{t+|bg|карти́на|f|sc=Cyrl}}
-* Burmese: {{t+|my|ကား|tr=ka:|sc=Mymr}}, {{t+|my|ပုံ|tr=poun|sc=Mymr}}, {{t|my|ကားရုပ်|tr=ka:jou'|sc=Mymr}}
+* Burmese: {{t+|my|ကား|sc=Mymr}}, {{t+|my|ပုံ|sc=Mymr}}, {{t|my|ကားရုပ်|sc=Mymr}}
 * Central Dusun: {{t|dtp|gambal}}
 * Chinese:
-*: Mandarin: {{t|cmn|圖畫|sc=Hani}}, {{t+|cmn|图画|tr=túhuà|sc=Hani}}, {{t|cmn|圖片|sc=Hani}}, {{t+|cmn|图片|tr=túpiàn|sc=Hani}}
+*: Mandarin: {{t+|cmn|圖畫|sc=Hani}}, {{t+|cmn|图画|tr=túhuà|sc=Hani}}, {{t+|cmn|圖片|sc=Hani}}, {{t+|cmn|图片|tr=túpiàn|sc=Hani}}{{t+|cmn|畫|sc=Hani}}, {{t+|cmn|画|tr=huà|sc=Hani}}, 
 * Czech: {{t+|cs|obraz|m}}
 * Danish: {{t|da|billede|n}}
 * Dutch: {{t+|nl|afbeelding|f}}, {{t+|nl|prent|f}}, {{t+|nl|portret|n}}, {{t+|nl|illustratie|f}}, {{t+|nl|plaatje}}, {{t+|nl|figuur}}
@@ -91,8 +91,8 @@ From {{etyl|enm|en}} {{term|pycture|lang=en}}, from {{etyl|fro|en}} {{term|pictu
 * French: {{t+|fr|image|f}}
 * Georgian: {{t|ka|ნახატი|sc=Geor}}
 * German: {{t+|de|Bild|n}}, {{t+|de|Abbildung|f}}, {{t+|de|Abbild|n}}, {{t+|de|Gemälde|n}}
-* Greek: {{t+|el|εικόνα|f|tr=ikóna}}, {{t+|el|θέαμα|n|tr=θéama}}, {{t|el|οπτική παράσταση|f|tr=optikí parástasi}}
-* Hebrew: {{t+|he|תמונה|f|tr=t'muná}}
+* Greek: {{t+|el|εικόνα|f}}, {{t+|el|θέαμα|n}}, {{t|el|οπτική παράσταση|f}}
+* Hebrew: {{t+|he|תְּמוּנָה|f|tr=tmuná}}
 * Hindi: {{t+|hi|चित्र|f|tr=chitra}}, {{t|hi|तस्वीर|f}} (tasvīr)
 * Hungarian: {{t+|hu|kép}}
 * Icelandic: {{t+|is|mynd|f}}
@@ -106,13 +106,13 @@ From {{etyl|enm|en}} {{term|pycture|lang=en}}, from {{etyl|fro|en}} {{term|pictu
 * Korean: {{t+|ko|그림|sc=Hang}}
 * Kurdish:
 *: Sorani: {{t+|ku|وێنه‌|tr=waena|sc=ku-Arab}}
-{{trans-mid}}
 * Kyrgyz: {{t|ky|сүрөт|sc=Cyrl}}
-* Lao: {{t|lo|ພາບ|tr=phaap|sc=Laoo}}
+{{trans-mid}}
+* Lao: {{t|lo|ພາບ|sc=Laoo}}
 * Latvian: {{t|lv|attēls|m}}, {{t|lv|bilde|f}}
 * Lithuanian: {{t+|lt|vaizdas|m}}
 * Luxembourgish: {{t|lb|Biller}}
-* Macedonian: {{t|mk|слика|f|tr=slíka}}
+* Macedonian: {{t|mk|сли́ка|f}}
 * Malay: {{t|ms|gambar}}
 * Mongolian: {{t+|mn|зураг|sc=Cyrl}}
 * Norwegian: {{t+|no|bilde|n}}
@@ -122,10 +122,12 @@ From {{etyl|enm|en}} {{term|pycture|lang=en}}, from {{etyl|fro|en}} {{term|pictu
 * Portuguese: {{t+|pt|figura|f}}, {{t+|pt|imagem|f}}
 * Romanian: {{t+|ro|imagine}}
 * Romansch: {{t|rm|maletg|m}}
-* Russian: {{t+|ru|картина|f|tr=kartína}}, {{t+|ru|изображение|n|tr=izobražénije}}, {{t+|ru|картинка|f|tr=kartínka|sc=Cyrl}} {{qualifier|small}}, {{t+|ru|о́браз|m|sc=Cyrl}}
-* Sanskrit: {{t|sa|चित्र|f|tr=chitra}}
+* Russian: {{t+|ru|карти́на|f}}, {{t+|ru|изображе́ние|n}}, {{t+|ru|карти́нка|f|sc=Cyrl}} {{qualifier|small}}, {{t+|ru|о́браз|m|sc=Cyrl}}
+* Sanskrit: {{t|sa|चित्र|f}}
 * Scottish Gaelic: {{t|gd|dealbh|m|f}}
-* Serbo-Croatian: {{t+|sh|slika|f}}, {{t+|sh|obrazac|m}}, {{t|sh|слика|f}}, {{t|sh|образац|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|слика|f}}, {{t|sh|образац|m}}
+*: Roman: {{t+|sh|slika|f}}, {{t+|sh|obrazac|m}}
 * Sinhalese: {{t|si|පින්තූරය|sc=Sinh}}
 * Slovak: {{t|sk|obraz|m}}
 * Slovene: {{t+|sl|slika|f}}
@@ -136,25 +138,25 @@ From {{etyl|enm|en}} {{term|pycture|lang=en}}, from {{etyl|fro|en}} {{term|pictu
 * Tagalog: {{t|tl|larawan}}
 * Tajik: {{t+|tg|тасвир|sc=Cyrl}}
 * Tatar: {{t+|tt|рәсем|sc=Cyrl}}, {{t|tt|картина|sc=Cyrl}}
-* Telugu: {{t+|te|బొమ్మ|tr=bomma}}, {{t+|te|చిత్రం|tr=chitram}}
+* Telugu: {{t+|te|బొమ్మ}}, {{t+|te|చిత్రం}}
 * Thai: {{t|th|ภาพ|tr=phab}}
 * Turkish: {{t+|tr|resim}}, {{t+|tr|tasvir}}, {{t+|tr|çizim}}
 * Turkmen: {{t+|tk|surat}}
 * Ukrainian: {{t|uk|картина|f|tr=kartýna}}
 * Urdu: {{t+|ur|تصویر|f|tr=tasvīr}}
-* Uyghur: {{t|ug|رەسىم|tr=resim|sc=ug-Arab}}
+* Uyghur: {{t|ug|رەسىم|sc=ug-Arab}}
 * Uzbek: {{t+|uz|surat}}, {{t|uz|rasm}}
 * Vietnamese: {{t+|vi|hình ảnh}}
 * Walloon: {{t+|wa|imådje|f}}
 * Welsh: {{t+|cy|llun|m}}, {{t+|cy|darlun|m}}
-* Yiddish: {{t|yi|בילד|n|tr=bild|sc=Hebr}}, {{t|yi|בילדער|p|tr=bilder|sc=Hebr}}
+* Yiddish: {{t|yi|בילד|n|sc=Hebr}}
 {{trans-bottom}}
 
 {{trans-see|painting}}
 
 <!--Note: include INFORMAL translations in this table, where these exist-->
 {{trans-top|photograph}}
-* Arabic: {{t+|ar|صورة|f|tr=ṣūra}}, {{t|ar|صورة شمسية|f|tr=ṣūra šamsíyya}}
+* Arabic: {{t+|ar|صُورَة|f}}, {{t|ar|صُورَة شَمْسِيَّة|f}}
 * Armenian: {{t+|hy|նկար}}
 * Catalan: {{t+|ca|foto|f}}, {{t|ca|fotografia|f}}
 * Chinese:
@@ -166,8 +168,8 @@ From {{etyl|enm|en}} {{term|pycture|lang=en}}, from {{etyl|fro|en}} {{term|pictu
 * Finnish: {{t+|fi|valokuva}}
 * French: {{t+|fr|photo|f}}
 * German: {{t+|de|Foto|n}}, {{t+|de|Bild|n}}
-* Greek: {{t+|el|φωτογραφία|f|tr=fotóγrafía}}
-* Hebrew: {{t+|he|תמונה|f|tr=t'muná}}, {{t|he|תצלום|m|tr=tatslúm}}
+* Greek: {{t+|el|φωτογραφία|f}}
+* Hebrew: {{t+|he|תְּמוּנָה|f|tr=tmuná}}, {{t|he|תַּצְלוּם|m|tr=tatslúm}}
 * Hungarian: {{t+|hu|fénykép}}
 * Icelandic: {{t+|is|ljósmynd|f}}
 * Irish: {{t|ga|pictiúr|m}}
@@ -175,18 +177,20 @@ From {{etyl|enm|en}} {{term|pycture|lang=en}}, from {{etyl|fro|en}} {{term|pictu
 * Japanese: {{t+|ja|写真|tr=しゃしん, shashin|sc=Jpan}}
 * Korean: {{t+|ko|사진|sc=Kore}} ({{t|ko|寫真|sc=Kore}})
 {{trans-mid}}
-* Macedonian: {{t|mk|фотографија|f|tr=fotográfija}}, {{t|mk|фото|n|tr=fóto}}, {{t|mk|слика|f|tr=slíka}}
+* Macedonian: {{t|mk|фотогра́фија|f}}, {{t|mk|фо́то|n}}, {{t|mk|сли́ка|f}}
 * Navajo: {{t|nv|aheeskidígíí}}
 * Polish: {{t+|pl|zdjęcie|n}}, {{t+|pl|fotografia|f}}
 * Portuguese: {{t+|pt|fotografia|f}}, {{t+|pt|foto|f}}
 * Romanian: {{t+|ro|fotografie}}
-* Russian: {{t+|ru|фотография|f|tr=fotográfija}}, {{t+|ru|фото|n|tr=fóto}}, {{t+|ru|фотокарточка|f|tr=fotokártočka}}, {{t+|ru|фотка|f|tr=fótka}}
+* Russian: {{t+|ru|фотогра́фия|f}}, {{t+|ru|фо́то|n}}, {{t+|ru|фотока́рточка|f}}, {{t+|ru|фо́тка|f}}
 * Scottish Gaelic: {{t|gd|dealbh|m|f}}
-* Serbo-Croatian: {{t+|sh|fotografija|f}}, {{t+|sh|slika|f}}, {{qualifier|slang, deminutive}} {{t+|sh|fotka|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|слика|f}}, {{t|sh|образац|m}}
+*: Roman: {{t+|sh|fotografija|f}}, {{t+|sh|slika|f}}, {{t+|sh|fotka|f}} {{qualifier|slang, deminutive}}
 * Slovene: {{t+|sl|fotografija|f}}
 * Spanish: {{t+|es|foto|f}}, {{t+|es|fotografía|f}}
 * Swedish: {{t+|sv|bild|c}}, {{t+|sv|fotografi}}
-* Telugu: {{t|te|ఫోటో|tr=phOTO|sc=Telu}}
+* Telugu: {{t|te|ఫోటో|sc=Telu}}
 * Thai: {{t+|th|รูป|tr=rôop|sc=Thai}}, {{t|th|รูปภาพ|tr=rôop-pâap|sc=Thai}}, {{t|th|ภาพถ่าย|tr=pâap-tàai|sc=Thai}}
 * Vietnamese: {{t+|vi|hình}}, {{t|vi|tấm hình}}
 * Walloon: {{t+|wa|fotografeye|f}}, {{t|wa|foto|f}}
@@ -202,22 +206,23 @@ From {{etyl|enm|en}} {{term|pycture|lang=en}}, from {{etyl|fro|en}} {{term|pictu
 * Finnish: {{t+|fi|elokuva}}
 * French: {{t+|fr|cinéma|m}}
 * German: {{t+|de|Kino|n}}, {{t+|de|Film|m}}
-* Greek: {{t+|el|κινηματογράφος|m|tr=kinimatoγráfos}}
-* Hebrew: {{t+|he|סרט|m|tr=séret}}
+* Greek: {{t+|el|κινηματογράφος|m}}
+* Hebrew: {{t+|he|סֶרֶט|m|tr=séret}}
 * Icelandic: {{t+|is|mynd|f}}
 * Irish: {{t|ga|pictiúr|m}}
-* Japanese: {{t|ja|映画館|tr=[[えいがかん]], eigakan}}
-* Macedonian: {{t|mk|кино|tr=kíno}}
+* Japanese: {{t|ja|映画館|tr=えいがかん, eigakan}}
+* Macedonian: {{t|mk|ки́но|n}}
 {{trans-mid}}
 * Norwegian: {{t+|no|kino|m}}
 * Polish: {{t+|pl|kino|n}}
 * Portuguese: {{t+|pt|cinema|m}}
-* Russian: {{t+|ru|кино|n|tr=kinó}}, {{t+|ru|фильм|m|tr=filʹm}}, {{t+|ru|картина|f|tr=kartína}}, {{t+|ru|киношка|f|tr=kinóška}}
-* Serbo-Croatian: {{t+|sh|film|m}}
+* Russian: {{t+|ru|кино́|n}}, {{t+|ru|фильм|m}}, {{t+|ru|карти́на|f}}, {{t+|ru|кинокарти́на|f}}, {{t+|ru|кино́шка|f}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|film|m}}
 * Slovene: {{t+|sl|film|m}}
 * Spanish: {{t+|es|cine|m}}
 * Swedish: {{t+|sv|film}}
-* Telugu: {{t+|te|చిత్రం|tr=chitraM|sc=Telu}}
+* Telugu: {{t+|te|చిత్రం|sc=Telu}}
 * Walloon: {{t+|wa|fime|m}}
 * Welsh: {{t+|cy|sinema|f}}
 {{trans-bottom}}
