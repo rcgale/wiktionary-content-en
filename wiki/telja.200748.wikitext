@@ -1,7 +1,7 @@
 ==Faroese==
 
 ===Etymology===
-From {{etyl|non|fo}} {{term|telja|lang=non}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*taljaną}}.
+From {{etyl|non|fo}} {{m|non|telja}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*taljaną}}.
 
 ===Verb===
 {{fo-verb|taldi|talt}}
@@ -17,7 +17,7 @@ From {{etyl|non|fo}} {{term|telja|lang=non}}, from {{etyl|gem-pro|fo}} {{m|gem-p
 ==Icelandic==
 
 ===Etymology===
-From {{etyl|non|is}} {{term|telja|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*taljaną}}.
+From {{etyl|non|is}} {{m|non|telja}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*taljaną}}.
 
 ===Pronunciation===
 * {{IPA|/ˈtʰɛlja/|lang=is}}
@@ -26,35 +26,34 @@ From {{etyl|non|is}} {{term|telja|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-p
 ===Verb===
 {{is-verb-weak|taldi|talið}}
 
-# {{context|ambitransitive|governs the accusative|lang=is}} to [[count]]
-#: ''Hún kann að '''telja''' upp að tíu á japönsku.''
-#:: She can '''count''' to ten in Japanese.
-# {{context|ambitransitive|governs the accusative|lang=is}} to [[believe]], to [[think]]{{jump|is|believe|s}}
+# {{label|is|ambitransitive|governs the accusative}} to [[count]]
+#: {{usex|Hún kann að '''telja''' upp að tíu á japönsku.|t=She can '''count''' to ten in Japanese.|lang=is}}
+# {{label|is|ambitransitive|governs the accusative}} to [[believe]], [[think]]{{jump|is|believe|s}}
 
 ====Conjugation====
 {{is-conj-w1|t|e|l|j=j}}
 
-====Derived terms====
-* [[eiga til að telja]]
-* [[telja á]]
-* [[telja af]]
-* [[telja eftir]]
-* [[telja eftir sér]]
-* [[telja ekki eftir]]
-* [[telja ekki eftir sér]]
-* [[telja fram]]
-* [[telja með]]
-* [[telja saman]]
-* [[telja til]]
-* [[telja trú um]]
-* [[telja um fyrir]]
-* [[teljandi]]
-* [[teljari]]
-* [[teljast]]
-* [[teljast svo til]]
-
 ====Synonyms====
-* {{jump|s|is|believe}} [[halda]]
+* {{jump|s|is|believe}} {{l|is|halda}}
+
+====Derived terms====
+{{der3|{{l|is|eiga til að telja}}
+|{{l|is|telja á}}
+|{{l|is|telja af}}
+|{{l|is|telja eftir}}
+|{{l|is|telja eftir sér}}
+|{{l|is|telja ekki eftir}}
+|{{l|is|telja ekki eftir sér}}
+|{{l|is|telja fram}}
+|{{l|is|telja með}}
+|{{l|is|telja saman}}
+|{{l|is|telja til}}
+|{{l|is|telja trú um}}
+|{{l|is|telja um fyrir}}
+|{{l|is|teljandi}}
+|{{l|is|teljari}}
+|{{l|is|teljast}}
+|{{l|is|teljast svo til}}}}
 
 [[Category:Icelandic ambitransitive verbs]]
 [[Category:Most used Icelandic verbs]]
@@ -64,34 +63,37 @@ From {{etyl|non|is}} {{term|telja|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-p
 ==Norwegian Nynorsk==
 
 ===Etymology 1===
-From {{etyl|non|nn}} {{term|telja|lang=non}}, from {{etyl|gem-pro|nn}} {{m|gem-pro|*taljaną}}.
+From {{etyl|non|nn}} {{m|non|telja}}, from {{etyl|gem-pro|nn}} {{m|gem-pro|*taljaną}}.
 
 ====Alternative forms====
-
-* [[telje#Norwegian Nynorsk|telje]] (e infinitive)
+* {{l/nn|telje}} {{qualifier|e infinitive}}
 
 ====Verb====
 {{head|nn|verb}}
 
 # to [[count]]
 
+=====Conjugation=====
 {{no-verb|nn-class=passive|present=tel|past=talde|past-bracket=talte|past-part=talt|past-part-bracket=tald|imperative=tel}}
 
 ===Etymology 2===
-May be comparable with Icelandic [[tölva]] and Faroese [[telda]].
+May be comparable with Icelandic {{m|is|tölva}} and Faroese {{m|fo|telda}}.
 
 ====Noun====
-{{head|nn}}
+{{head|nn|noun}}
 
 # [[computer]] (only [[:w:Høgnorsk|Høgnorsk]])
+
 ----
 
 ==Old Norse==
+
 ===Etymology===
-From {{etyl|gem-pro|non}} {{m|gem-pro|*taljaną||to count, tell}}. Cognate with {{etyl|ang|-}} {{term|tellan|lang=ang}}, {{etyl|ofs|-}} {{term|tella|lang=ofs}}, {{etyl|osx|-}} {{term|tellian|lang=osx}}, {{etyl|goh|-}} {{term|zellen|lang=goh}}.
+From {{etyl|gem-pro|non}} {{m|gem-pro|*taljaną||to count, tell}}. Cognate with {{etyl|ang|-}} {{m|ang|tellan}}, {{etyl|ofs|-}} {{m|ofs|tella}}, {{etyl|osx|-}} {{m|osx|tellian}}, {{etyl|goh|-}} {{m|goh|zellen}}.
 
 ===Verb===
 {{non-verb|talði|tǫlðu|talaðr}}
+
 # to [[count]], [[number]]
 # to [[tell]], [[say]]
 # to [[reckon]], [[consider]]
@@ -101,12 +103,12 @@ From {{etyl|gem-pro|non}} {{m|gem-pro|*taljaną||to count, tell}}. Cognate with 
 
 ====Descendants====
 {{top2}}
-* Danish: {{l|da|tælle}}
+* Danish: {{l/da|tælle}}
 * Icelandic: {{l|is|telja}}
-* Faroese: {{l|fo|telja}}
+* Faroese: {{l/fo|telja}}
 {{mid2}}
-* Norwegian: {{l|no|telle}}
-* Swedish: {{l|sw|tälja}}
+* Norwegian: {{l/no|telle}}
+* Swedish: {{l/sw|tälja}}
 {{bottom}}
 
 [[da:telja]]
