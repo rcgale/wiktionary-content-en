@@ -57,8 +57,6 @@
 
 ==Japanese==
 {{attention|ja|Still needs etyms & senses for ''sashi'' & ''shiki'' readings. Compounds also need expanding.}}
-{{wikipedia|lang=ja}}
-{{wikipedia|Castle}}
 
 ===Kanji===
 {{ja-kanji|grade=6|rs=土06}}
@@ -67,64 +65,109 @@
 {{ja-readings
 |goon=[[じょう]] (jō)
 |kanon=[[せい]] (sei)
-|kun=[[き]] (ki), [[ぐすく]] (gusuku), [[さし]] (sashi), [[しき]] (shiki), [[しろ]] (shiro)
-|nanori=[[いち]] (ichi), [[がき]] (gaki), [[き]] (ki), [[くに]] (kuni), [[ぐしく]] (gushiku), [[ぐすく]] (gusuku), [[さし]] (sashi), [[しき]] (shiki), [[すく]] (suku), [[ぜい]] (zei), [[たち]] (tachi), [[なり]] (nari)
+|kun=[[き]] (ki), [[ぐすく]] (gusuku), [[しき]] (shiki), [[しろ]] (shiro)
+|nanori=[[いく]] (iku), [[がき]] (gaki), [[き]] (ki), [[くに]] (kuni), [[ぐしく]] (kujiku), [[ぐすく]] (gusuku), [[しき]] (shiki), [[すく]] (suku), [[ぜい]] (zei), [[たち]] (tachi), [[なり]] (nari)
 }}
 
 ====Compounds====
-* {{l|ja|破城槌|tr=[[はじょうつい]], ''[[hajōtsui]]''}}: a [[battering ram]]
+* {{ja-r|破城槌|はじょうつい}}: a [[battering ram]]
 
 ===Etymology 1===
-Derivation unknown.  First appears in 794 when the {{l|ja|山背|tr=''Yamashiro''}} region was renamed {{l|ja|山城|tr=''Yamashiro''}}, keeping the old reading but applying the kanji {{lang|ja|城}} to the reading ''shiro'' for the first time.
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Castle}}
+[[Image:Himeji Castle M4690.jpg|thumb|250px|{{lang|ja|城}} (''shiro'', ''gusuku'', ''ki'', ''shiki'', ''jō''): a '''castle'''.]]
+</div>
+{{ja-kanjitab|yomi=k|しろ}}
+
+Derivation unknown.  The ''shiro'' reading for this character appears in 794 when the {{l|ja|山背|tr=''Yamashiro''}} region was renamed {{l|ja|山城}}<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>, keeping the old reading and thus applying the ''shiro'' reading to the {{lang|ja|城}} kanji for the first time.
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|/si.ɽo/|[ɕiɽo̞]}}
+{{ja-pron|yomi=kun|しろ|acc=0|acc_ref=DJR}}
 
 ====Noun====
-[[Image:Himeji Castle M4690.jpg|thumb|250px|{{lang|ja|城}}]]
-{{ja-noun|k|hira=しろ|rom=shiro}}
+{{ja-noun|しろ}}
 
 # [[castle]]
 
+=====Usage notes=====
+The ''shiro'' reading may be used most often when this term appears as a standalone noun.
+
 ===Etymology 2===
-Archaic Okinawan dialect term.  The final ''ku'' may be cognate with mainland Japanese ''ki''.
+{{ja-kanjitab|yomi=k|ぐすく}}
+Archaic Okinawan dialect term.  The final ''ku'' may be cognate with mainland Japanese ''ki'' (see below).
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|/ɡu.su.ku/|[ɡɯᵝsɯᵝkɯᵝ]}}
+{{ja-pron|yomi=k|ぐすく}}
 
 ====Noun====
-{{ja-noun|k|hira=ぐすく|rom=gusuku}}
+{{ja-noun|ぐすく}}
 
-# castle
+# {{context|lang=ja|sort=ぐすく|obsolete}} [[castle]]
 #* '''1531-1623''': [[w:Omoro Sōshi|Omoro Sōshi]]
 #*: 一 聞得大君ぎや 降れて 遊びよわれば 天が下 平らげて ちよわれ 又 鳴響む精高子が 又 首里杜'''ぐすく''' 真玉杜'''ぐすく'''
 
+=====Usage notes=====
+Not used in isolation in modern Japanese.  This term remains as an element in various place names.
+
 ===Etymology 3===
-From {{etyl|ojp|ja|sort=き}}.  {{IPAchar|ki<sub>2</sub>}}: {{IPAchar|[kɨ]}} > {{IPAchar|[ki]}}. Perhaps cognate with Korean. The [[w:Samguk Sagi|Samguk Sagi]] (1145) equates Baekje {{lang|und|sc=Hani|悦城}} as {{lang|und|sc=Hani|悦己}} and {{lang|und|sc=Hani|潔城}} as {{lang|und|sc=Hani|結己}}, indicating that the word {{lang|ja|城}} "castle" was read as {{lang|und|sc=Hani|己}} (*''ki'').
+{{ja-kanjitab|yomi=k|き}}
+{{IPAchar|ki<sub>2</sub>}}: {{IPAchar|[kɨ]}} > {{IPAchar|[ki]}}
+
+From {{etyl|ojp|ja|sort=き}}. Perhaps cognate with a now-defunct Korean term: the [[w:Samguk Sagi|Samguk Sagi]] (1145) equates Baekje {{lang|und|sc=Hani|悦城}} as {{lang|und|sc=Hani|悦己}} and {{lang|und|sc=Hani|潔城}} as {{lang|und|sc=Hani|結己}}, indicating that the word {{lang|ja|城}} "castle" was read as {{lang|und|sc=Hani|己}} (*''ki'').
 
 ====Pronunciation====
-* [[訓読み|Kun'yomi]]
-* {{IPA|lang=ja|[ki]}}
+{{ja-pron|yomi=k|き}}
 
 ====Noun====
-{{ja-noun|k|hira=き|rom=ki}}
+{{ja-noun|き}}
 
-# a structure surrounded by a moat or walls: a [[fortress]], [[castle]]
+# {{context|lang=ja|sort=き|archaic}} a structure surrounded by a moat or walls: a [[fortress]], [[castle]]
 #* {{RQ:Man'yōshū|20|4331}}
 #*: 天皇乃 等保能朝[廷]等 之良奴日 筑紫國波 安多麻毛流 於佐倍乃'''城'''曽等 聞食 四方國尓波 比等佐波尓 美知弖波安礼杼 登利我奈久 安豆麻乎能故波 伊田牟可比 加敝里見世受弖 伊佐美多流 多家吉軍卒等 祢疑多麻比 麻氣乃麻尓々々 多良知祢乃 波々我目可礼弖 若草能 都麻乎母麻可受 安良多麻能 月日餘美都々 安之我知流 難波能美津尓 大船尓 末加伊之自奴伎 安佐奈藝尓 可故等登能倍 由布思保尓 可知比伎乎里 安騰母比弖 許藝由久伎美波 奈美乃間乎 伊由伎佐具久美 麻佐吉久母 波夜久伊多里弖 大王乃 美許等能麻尓末 麻須良男乃 許己呂乎母知弖 安里米具[理] 事之乎波良[婆] 都々麻波受 可敝理伎麻勢登 伊波比倍乎 等許敝尓須恵弖 之路多倍能 蘇田遠利加敝之 奴婆多麻乃 久路加美之伎弖 奈我伎氣遠 麻知可母戀牟 波之伎都麻良波
 #* '''787'''-'''824''': Nihon Ryōiki (preface, page 201)
 #*: 原夫内経外書 伝於日本 而興始代 凡有二時 皆自百済国将禮來之 軽嶋豊明宮御宇誉田天皇代 外書來之 礒城<small>訓'''紀'''</small>嶋金刺宮御宇鉄明天皇代 内典來也 [...]
 
+===Etymology 4===
+{{ja-kanjitab|yomi=k|しき}}
+Originally a compound of {{compound|lang=ja|sort=しき|石|tr1=shi|t1=stone|城|tr2=ki|t2=castle, fortress}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kun|しき}}
+
+====Alternative forms====
+* {{ja-l|磯城}}
+
+====Noun====
+{{ja-noun|しき}}
+
+# {{context|lang=ja|sort=しき|archaic}} a [[castle]], a [[fortress]]
+
+===Etymology 5===
+{{ja-kanjitab|yomi=o|じょう}}
+{{IPAchar|/zjau/}} → *{{IPAchar|/ʑɔː/}} → {{IPAchar|/d͡ʑoː/}}
+
+From {{etyl|ltc|ja|sort=じょう}} {{term|lang=zh|城|tr=dzyeng}}.  Compare modern {{etyl|nan|-}} {{term|lang=zh|城|tr=siâⁿ}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|じょう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|じょう|hhira=じやう}}
+
+# a [[castle]], a [[fortress]]
+#: {{ja-usex|盛岡'''城'''|^もりおか '''じょう'''|Morioka '''Castle'''}}
+
 ===See also===
-* {{l|ja|宮|tr=[[みや]], ''[[miya]]''}}: [[palace]]
-* {{l|ja|殿|tr=[[との]], ''[[tono]]''}}: [[palace]]
-* {{l|ja|宮殿|tr=[[きゅうでん]], ''[[kyūden]]''}}: [[palace]]
-* {{l|ja|城郭|tr=[[じょうかく]], ''[[jōkaku]]''}}
+* {{ja-r|宮|みや}}: [[palace]]
+* {{ja-r|殿|との}}: [[palace]], [[hall]]
+* {{ja-r|宮殿|きゅうでん}}: [[palace]]
+* {{ja-r|城郭|じょうかく}}: [[castle]]
+* {{ja-r|砦|とりで}}: [[fortress]]
 
 ===References===
-* {{reference-book
+<references/>
+:* {{reference-book
     | last = Hokama
     | first = Shuzen
     | coauthors = Nobutsuna Saigō
@@ -136,7 +179,7 @@ From {{etyl|ojp|ja|sort=き}}.  {{IPAchar|ki<sub>2</sub>}}: {{IPAchar|[kɨ]}} > 
     | language = Japanese
     | id =
    }}
-* {{reference-book
+:* {{reference-book
   | last = Izumoji
   | first = Osamu
   | title = Shin Nihon Koten Bungaku Taikei 30: [[w:Nihon Ryōiki|Nihon Ryōiki]]
@@ -146,7 +189,7 @@ From {{etyl|ojp|ja|sort=き}}.  {{IPAchar|ki<sub>2</sub>}}: {{IPAchar|[kɨ]}} > 
   | language = Japanese
   | id = ISBN 4-00-240030-1
   }}
-* {{R:Man'yōshū 4}}
+:* {{R:Man'yōshū 4}}
 
 [[Category:Japanese terms written with one Han script character]]
 [[Category:Japanese terms spelled with 城]]
