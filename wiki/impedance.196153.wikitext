@@ -11,9 +11,10 @@
 ===Noun===
 {{en-noun|~}}
 
-# {{label|en|physics}} A [[measure]] of the [[opposition]] to the [[flow]] of an [[alternating current]] in a [[circuit]]; the [[aggregation]] of its [[resistance]], [[inductive]] and [[capacitive]] [[reactance]].  Represented by the symbol [[Z]].
-# {{label|en|physics|usually with “mechanical”}} a measure of opposition to [[motion]] of something subjected to a force.
-# {{label|en|physics|usually with “acoustic” or “sound”}} the sound pressure divided by the particle velocity and the surface area through which an acoustic wave propagates.
+# {{label|en|physics}} A [[measure]] of the [[opposition]] to the [[flow]] of an [[alternating current]] in a [[circuit]]; the [[aggregation]] of its [[resistance]], and [[inductive]] and [[capacitive]] [[reactance]]s; the ratio of  voltage to current treated as [[complex]] quantities.
+# {{label|en|physics}} A quantity analogous to electrical impedance in some other energy domain
+## {{label|en|physics|usually with “mechanical”}} a measure of opposition to [[motion]] of something subjected to a force; the ratio of force to velocity treated as complex quantities.
+## {{label|en|physics|usually with “acoustic” or “sound”}} the ratio of sound pressure to volume flow rate treated as complex quantities.
 # {{label|en|by analogy|software engineering|usually with “mismatch”}} a measure of the opposition caused by differences between two [[paradigm]]s, especially between [[object-oriented]] development and [[relational database]]s
 #* '''1997''', Bhavani M. Thuraisingham, ''Data Management Systems: Evolution and Interoperation'' (ISBN 0849394937), CRC Press, page 33:
 #*: Some argue that having '''impedance''' mismatch is difficult for programming intensive applications.
@@ -21,6 +22,9 @@
 #*: But the '''impedance''' mismatch between SQL and Java was no better than between SQL and other languages.
 #* '''2004''', Scott W. Ambler, ''The Object Primer: Agile Model-Driven Development with UML 2.0'' (ISBN 1397805218), Cambridge University Press, page 442:
 #*: Why does a technological '''impedance''' mismatch exist?
+
+====Usage notes====
+Impedance is universally given the symbol ''Z'' in technical works which is often used as a synonym for the word even in running text.
 
 ====Derived terms====
 * [[impedance coil]]
