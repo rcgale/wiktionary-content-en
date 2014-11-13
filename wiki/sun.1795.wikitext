@@ -30,8 +30,8 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Ainu: {{t|ain|クㇷ゚|tr=kup|sc=Jpan}}
 * Aka-Bo: {{t|akm|oute}}
 * Albanian: {{t+|sq|diell|m}}, {{t|sq|diejtë|p}}
-* Arabic: {{t+|ar|شمس|f|tr=shams|sc=Arab}}
-*: Egyptian Arabic: {{t|arz|شمس|f|tr=shams|sc=Arab}}
+* Arabic: {{t+|ar|شَمْس|f|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|شمس|f|tr=šams|sc=Arab}}
 * Aragonese: {{t|an|sol|m}}
 * Aramaic:
 *: Hebrew: {{t|arc|שמשא|tr=šimšā’|c}}
@@ -94,9 +94,9 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * French: {{t+|fr|soleil|m}}, {{t+|fr|Soleil|m}}
 * Friulian: {{t|fur|soreli}}
 * Galician: {{t+|gl|sol|m}}
-* Georgian: {{t|ka|მზე|tr=mze|sc=Geor}}
+* Georgian: {{t|ka|მზე|sc=Geor}}
 * German: {{t+|de|Sonne|f}}
-* Gothic: {{t|got|𐍃𐌿𐌽𐌽𐍉|f|tr=sunno|sc=Goth}}
+* Gothic: {{t|got|𐍃𐌿𐌽𐌽𐍉|f|sc=Goth}}
 * Greek: {{t+|el|ήλιος|m}}
 *: Ancient Greek: {{t|grc|ἥλιος|m}}
 * Guaraní: {{t|gn|kuarahy}}
@@ -122,9 +122,9 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Japanese: {{t+|ja|太陽|tr=[[たいよう]], taiyō}}, {{t+|ja|日|tr=[[ひ]], hi}}
 * Jarawa: {{t|anq|jehe}}
 * Javanese: {{t|jv|Srengéngé}}
-* Kannada: {{t+|kn|ಸೂರ್ಯ|tr=sūrya|sc=Knda}}
+* Kannada: {{t+|kn|ಸೂರ್ಯ|sc=Knda}}
 * Karachay-Balkar: {{t|krc|кюн|tr=kün|sc=Cyrl}}
-* Kazakh: {{t+|kk|күн|tr=kün|sc=Cyrl}}
+* Kazakh: {{t+|kk|күн|sc=Cyrl}}
 * Khmer: {{t+|km|ថ្ងៃ|tr=thngai|sc=Khmr}}
 * Kinyarwanda: {{t|rw|izuba}}
 * Kirundi: {{t|rn|izuba}}
@@ -134,7 +134,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Korean: {{t+|ko|해|sc=Kore}}, {{t+|ko|태양|sc=Kore}} ({{t+|ko|太陽|sc=Kore}})
 * Kurdish:
 *: Sorani: {{t+|ku|خۆر|tr=xor|sc=ku-Arab}}
-* Kyrgyz: {{t+|ky|күн|tr=kün|sc=Cyrl}}
+* Kyrgyz: {{t+|ky|күн|sc=Cyrl}}
 * Ladin: {{t|lld|surëdl|m}}
 {{trans-mid}}
 * Lakota: {{t|lkt|wí}}
@@ -148,11 +148,11 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Luo: {{t|luo|chíeng'}}
 * Luxembourgish: {{t+|lb|Sonn|f}}
 * Maasai: {{t|mas|engalong}}
-* Macedonian: {{t|mk|сонце|n}}
+* Macedonian: {{t|mk|со́нце|n}}
 * Malay:
 *: Rumi: {{t+|ms|matahari}}, {{t|ms|mentari}}, {{t|ms|suria}}, {{t|ms|rawi}}, {{t|ms|syamsi}}, {{t|ms|syamsu}}
 *: Jawi: {{t|ms|ماتاهاري|sc=Arab}}, {{t|ms|منتاري|sc=Arab}}, {{t|ms|سوريا|sc=Arab}}, {{t|ms|راوي|sc=Arab}}, {{t|ms|شمس|sc=Arab}}
-* Malayalam: {{t|ml|സൂര്യന്‍|tr=sūryan|sc=Mlym}}
+* Malayalam: {{t|ml|സൂര്യന്‍|sc=Mlym}}
 * Maltese: {{t+|mt|xemx|m}}
 * Manchu: {{t|mnc|ᡧᡠᠨ|tr=šun|sc=Mong}}
 * Manipuri: {{t|mni||tr=numit}}
@@ -195,7 +195,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Rajasthani: {{t|raj|सूरज}}
 * Romanian: {{t+|ro|soare|m}}
 * Romansch: {{t|rm|sulegl}}, {{t|rm|sulagl}}, {{t|rm|sulai}}
-* Russian: {{t+|ru|со́лнце|n|tr=sólnce}}
+* Russian: {{t+|ru|со́лнце|n}}
 * Sanskrit: {{t+|sa|सूर्य|tr=sūrya|sc=Deva}}, {{t|sa|रवि|tr=ravi|sc=Deva}}, {{t|sa|आदित्य|tr=āditya|sc=Deva}}
 * Sardinian: {{t|sc|sole}}, {{t|sc|sobi}}, {{t|sc|soi}}, {{t|sc|soli}}
 * Scots: {{t|sco|sun}}
@@ -205,7 +205,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 *: Roman: {{t+|sh|sunce|n}}
 * Sicilian: {{t+|scn|suli|m}}
 * Sindhi: {{t|sd|سورج|tr=suuraju|alt=سوُرَجُ|sc=sd-Arab}}
-* Sinhalese: {{t+|si|ඉර|tr=ira|sc=Sinh}}, {{t|si|හිරු|sc=Sinh}}
+* Sinhalese: {{t+|si|ඉර|sc=Sinh}}, {{t|si|හිරු|sc=Sinh}}
 * Slovak: {{t|sk|slnko|n}}
 * Slovene: {{t+|sl|sonce|n}}
 * Somali: {{t-needed|so}}
@@ -216,11 +216,11 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Swahili: {{t+|sw|jua}}
 * Swedish: {{t+|sv|sol|c}} {{qualifier|almost always in the determinative, "solen"}}
 * Tagalog: {{t+|tl|araw}}
-* Tajik: {{t+|tg|офтоб|tr=oftob|sc=Cyrl}}, {{t|tg|Офтоб|sc=Cyrl}}, {{t|tg|хуршед|sc=Cyrl}}
+* Tajik: {{t+|tg|офтоб|sc=Cyrl}}, {{t|tg|Офтоб|sc=Cyrl}}, {{t|tg|хуршед|sc=Cyrl}}
 * Tamil: {{t+|ta|சூரியன்|tr=cūriyaṉ}}, {{t+|ta|ஞாயிறு|tr=ñāyiṟu|sc=Taml}}
 * Taos: {{t|twf|thȕléna}}
 * Tatar: {{t+|tt|кояш|sc=Cyrl}}
-* Telugu: {{t+|te|సూర్యుడు|tr=sūryuḍu|sc=Telu}}
+* Telugu: {{t+|te|సూర్యుడు|sc=Telu}}
 * Thai: {{t+|th|ดวงอาทิตย์|tr=duang-aa-tít|sc=Thai}}, {{t|th|พระอาทิตย์|tr=prá-aa-tít|sc=Thai}}
 * Tibetan: {{t|bo|ཉི་མ|alt=ཉི་མ།|sc=Tibt|tr=nyi ma}}
 * Tok Pisin: {{t|tpi|san}}
@@ -307,7 +307,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 ====Translations====
 {{trans-top|a star, especially when seen as the centre of any single solar system}}
 * Afrikaans: {{t+|af|son}}
-* Arabic: {{t+|ar|شَمْس|fs}}
+* Arabic: {{t+|ar|شَمْس|f|sc=Arab}}
 *: Egyptian Arabic: {{t|arz|شمس|f|tr=šams|sc=Arab}}
 * Asturian: {{t+|ast|sol|m}}
 * Baluchi: {{t|bal|روچ|tr=roc}}
@@ -344,14 +344,14 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Japanese: {{qualifier|general}} {{t+|ja|太陽|tr=taiyō}}, {{qualifier|astronomy}} {{t+|ja|恒星|tr=kōsei}}, {{t+|ja|日|tr=ひ, hi}}
 * Kamasau: {{t|kms|nginy}}
 * Khmer: {{t+|km|អាទិត្យ|tr=aatɨt|sc=Khmr}}
-* Korean: {{t+|ko|해}}
+* Korean: {{t+|ko|해}}, {{t+|ko|태양|sc=Kore}} ({{t+|ko|太陽|sc=Kore}})
 * Latgalian: {{t|ltg|saule}}
 * Latin: {{t+|la|sōl|m}}
 {{trans-mid}}
 * Latvian: {{t+|lv|saule|f}}
 * Lithuanian: {{t+|lt|saulė|f}}
 * Low German: {{t+|nds|Sünn|f}}
-* Macedonian: {{t|mk|сонце|n|tr=sónce}}
+* Macedonian: {{t|mk|со́нце|n}}
 * Maori: {{t|mi|rā}}
 * Navajo: {{t|nv|jóhonaaʼéí}}
 * Norwegian: {{t+|no|sol}}
@@ -380,7 +380,7 @@ From {{etyl|enm|en}} {{term|sunne|lang=enm}}, from {{etyl|ang|en}} {{term|sunne|
 * Swahili: {{t+|sw|jua}}
 * Swedish: {{t+|sv|sol|c}}
 * Tajik: {{t|tg|хуршед|sc=Cyrl}}
-* Tamil: {{t+|ta|சூரியன்|tr=sooriyan|sc=Taml}}
+* Tamil: {{t+|ta|சூரியன்|sc=Taml}}
 * Thai: {{t+|th|ดวงอาทิตย์|tr=duang-aa-tít}}
 * Turkish: {{t+|tr|güneş}}
 * Ukrainian: {{t+|uk|со́нце|n|sc=Cyrl}}
