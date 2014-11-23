@@ -2,12 +2,12 @@
 ==English==
 
 ===Etymology===
-{{etyl|pt|en}} {{term|piã|lang=pt}}, or {{etyl|es|en}} {{term|pian|lang=es}}, from the native name in South America.
+{{borrowing|pt|piã|lang=en}}, or {{etyl|es|en}} {{m|es|pian}}, from the native name in South America.
 
 ===Noun===
 {{en-noun|-}}
 
-# {{context|medicine|lang=en}} [[yaws]]
+# {{label|en|medicine}} [[yaws]]
 
 {{Webster 1913}}
 
@@ -24,19 +24,19 @@
 
 ==Finnish==
 {{Finnish index|p|i}}
-
 ===Etymology===
-Singular instructive form of {{term|pika-|lang=fi}}.
+Singular instructive form of {{m|fi|pika-}}.
 
 ===Adverb===
 {{head|fi|adverb|comparative|pikemmin|superlative|pikimmin}}
 
 # [[soon]]
-#: ''Tule '''pian'''!''
-#:: Come '''soon'''!
+#: {{usex|Tule '''pian'''!|t=Come '''soon'''!|lang=fi}}
 
 ===Anagrams===
-* {{l|fi|apin}}, {{l|fi|pain}}, {{l|fi|pani}}
+* {{l/fi|apin}}
+* {{l/fi|pain}}
+* {{l/fi|pani}}
 
 ----
 
@@ -49,7 +49,7 @@ From {{etyl|mga|ga}} {{m|mga|pían}}, from {{etyl|sga|ga}} {{m|sga|pén}}, from 
 * {{IPA|[pʲiənˠ]|lang=ga}}
 
 ===Noun===
-{{ga-noun|péine|pianta|g=f}}
+{{ga-noun|g=f|péine|pianta}}
 
 # [[pain]]
 
@@ -57,17 +57,17 @@ From {{etyl|mga|ga}} {{m|mga|pían}}, from {{etyl|sga|ga}} {{m|sga|pén}}, from 
 {{ga-decl-f2|p|ian|éine|pl=ianta|dat=éin|datoc=p}}
 
 ====Derived terms====
-* {{l|ga|pianmhar}}
-* {{l|ga|pianmhúchán}}
-* {{l|ga|pianpháis}}
-* {{l|ga|pianseirbhís}}
-* {{l|ga|pianúil}}
+{{der3|{{l|ga|pianmhar}}
+|{{l|ga|pianmhúchán}}
+|{{l|ga|pianpháis}}
+|{{l|ga|pianseirbhís}}
+|{{l|ga|pianúil}}}}
 
 ===Verb===
 {{ga-verb|pres=pianann|fut=pianfaidh|vn=pianadh|pp=pianta}}
 
-# to [[pain]]
-# to [[punish]]
+# [[pain]]
+# [[punish]]
 
 ====Conjugation====
 {{ga-conj-1a|p|ia|n|broad}}
@@ -82,15 +82,16 @@ From {{etyl|mga|ga}} {{m|mga|pían}}, from {{etyl|sga|ga}} {{m|sga|pén}}, from 
 ==Italian==
 
 ===Adverb===
-{{head|it|adverb}}
+{{it-adv}}
 
 # {{apocopic form of|piano|lang=it}}
 
 ====Derived terms====
-* {{l|it|pian piano}}
+* {{l/it|pian piano}}
 
 ===Anagrams===
-* {{l|it|pani}}, {{l|it|pina}}
+* {{l/it|pani}}
+* {{l/it|pina}}
 
 ----
 
@@ -119,16 +120,19 @@ From {{etyl|mga|ga}} {{m|mga|pían}}, from {{etyl|sga|ga}} {{m|sga|pén}}, from 
 # [[pain]]
 
 ====Synonyms====
+{{top2}}
 * {{l|gv|guinn}}
 * {{l|gv|gew}}
 * {{l|gv|geu}}
 * {{l|gv|geiy}}
+{{mid2}}
 * {{l|gv|geir}}
 * {{l|gv|gaer}}
 * {{l|gv|gonnid}}
+{{bottom}}
 
 ====Derived terms====
-* {{l|gv|piandagh}}
+* {{l/gv|piandagh}}
 
 ===Mutation===
 {{gv mut cons|p|ian}}
@@ -161,17 +165,17 @@ From {{etyl|mga|gd}} {{m|mga|pían}}, from {{etyl|sga|gd}} {{m|sga|pén}}, from 
 # [[punishment]]
 
 ===Verb===
-{{head|gd|verb|verbal noun|pianadh}}
+{{gd-verb|past=phian|fut=pianaidh|vn=pianadh|pp=piante}}
 
-# to [[torment]], [[torture]], [[pain]]
-# to [[distress]], [[annoy]]
-# to [[punish]]
+# [[torment]], [[torture]], [[pain]]
+# [[distress]], [[annoy]]
+# [[punish]]
 
 ====Synonyms====
-* {{l|gd|piantaich}}
+* {{l/gd|piantaich}}
 
 ====Derived terms====
-* {{l|gd|pianadair}}
+* {{l/gd|pianadair}}
 
 [[br:pian]]
 [[el:pian]]
