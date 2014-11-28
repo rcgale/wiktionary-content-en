@@ -1,7 +1,7 @@
 ==Icelandic==
 
 ===Etymology===
-From {{etyl|non|is}} {{term|seinn|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*sainaz}}, {{m|gem-pro|*sainijaz}}.
+From {{etyl|non|is}} {{m|non|seinn}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*sainaz}}, {{m|gem-pro|*sainijaz}}.
 
 ===Pronunciation===
 * {{IPA|/seitn/|lang=is}}
@@ -11,40 +11,41 @@ From {{etyl|non|is}} {{term|seinn|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-p
 {{is-adj|seinni|seinastur}}
 
 # [[late]], [[tardy]]{{jump|is|late|s}}
-#: ''Hann hlýtur að vera kominn — hann er aldrei '''seinn'''.''
-#:: He must be here already—he's never '''late'''.
-#: ''Við erum orðnar '''seinar''' í tíma!''
-#:: We're '''late''' for class!
+#: {{usex|Hann hlýtur að vera kominn — hann er aldrei '''seinn'''.|t=He must be here already—he's never '''late'''.|lang=is}}
+#: {{usex|Við erum orðnar '''seinar''' í tíma!|t=We're '''late''' for class!|lang=is}}
 # [[slow]]{{jump|is|slow|s}}
 
 ====Inflection====
 {{is-decl-adj-3|s|ei|n}}
 
+====Synonyms====
+* {{jump|s|is|late}} {{l|is|síðkvæmur}}
+* {{jump|s|is|slow}} {{l|is|hægur}}
+
 ====Derived terms====
-* [[orðinn seinn]]
-* [[seinn að|seinn að einhverju]] (slow at something)
-* [[seinn á fæti]] (to be a slow walker)
-* [[seinn fyrir]] (late, behind-hand)
-* [[seinn til]] (to develop late)
-* [[svifaseinn]]
-* [[um seinan]] (too late)
+{{der3|{{l|is|orðinn seinn}}
+|{{l|is|seinn að|seinn að einhverju|slow at something}}
+|{{l|is|seinn á fæti||to be a slow walker}}
+|{{l|is|seinn fyrir||late, behind-hand}}
+|{{l|is|seinn til||to develop late}}
+|{{l|is|svifaseinn}}
+|{{l|is|um seinan||too late}}}}
 
 ====See also====
-* [[seinlæti]]
-
-====Synonyms====
-* {{jump|s|is|late}} [[síðkvæmur]]
-* {{jump|s|is|slow}} [[hægur]]
+* {{l|is|seinlæti}}
 
 ----
 
 ==Scottish Gaelic==
 
+===Etymology===
+{{rfe|lang=gd}}
+
 ===Verb===
-{{head|gd|verb|verbal noun|seinn}}
+{{gd-verb|past=sheinn|fut=seinnidh|vn=seinn|pp=seinnte}}
 
 # [[sing]]
-# {{context|dated|lang=gd}} [[play]] {{gloss|musical intrument}}
+# {{label|gd|dated}} [[play]] {{qualifier|musical intrument}}
 
 ===Noun===
 {{gd-noun|g=f|gen=seinne|pl=?}}
@@ -52,7 +53,9 @@ From {{etyl|non|is}} {{term|seinn|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-p
 # [[singing]]
 
 ====Derived terms====
-* {{l|gd|taigh-seinnse}}
+* {{l|gd|taigh-seinnse||public house, pub, tavern}}
+
+[[Category:gd:Music]]
 
 [[el:seinn]]
 [[es:seinn]]
