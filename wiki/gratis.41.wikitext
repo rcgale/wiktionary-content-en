@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|la|en}} {{term|gratis|lang=la}}.
+{{borrowing|la|gratis|lang=en}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈɡɹɑː.tɪs/|lang=en}}
@@ -140,6 +140,16 @@ From {{etyl|la|en}} {{term|gratis|lang=la}}.
 
 ====Declension====
 {{nl-decl-adj|gratis|-}}
+
+----
+
+==Esperanto==
+
+===Verb===
+{{eo-head}}
+
+# {{eo-form of|grat|is}}
+
 ----
 
 ==French==
@@ -212,25 +222,21 @@ From {{etyl|la|it}} {{term|gratis|lang=la}}
 # out of favor or kindness, without recompense or compensation, [[gratuitously]]
 
 ====Synonyms====
-* [[gratuito#Latin|grātuītō]]
+* {{l|la|grātuītō}}
 
 ====Related terms====
-{{top3}}
-* [[grate#Latin|grātē]]
-* [[grates#Latin|grātēs]]
-* [[gratia|grātia]]
-* [[gratificatio|grātificātiō]]
-{{mid3}}
-* [[gratificor|grātificor]]
-* [[gratiis|grātiīs]]
-* [[gratiosus|grātiōsus]]
-* [[grator|grātor]]
-{{mid3}}
-* [[gratuitus|grātuītus]]
-* [[gratulatio|grātulātiō]]
-* [[gratulor|grātulor]]
-* [[gratus|grātus]]
-{{bottom}}
+{{rel3|{{l|la|grātē}}
+|{{l|la|grātēs}}
+|{{l|la|grātia}}
+|{{l|la|grātificātiō}}
+|{{l|la|grātificor}}
+|{{l|la|grātiīs}}
+|{{l|la|grātiōsus}}
+|{{l|la|grātor}}
+|{{l|la|grātuītus}}
+|{{l|la|grātulātiō}}
+|{{l|la|grātulor}}
+|{{l|la|grātus}}}}
 
 ====Descendants====
 {{top2}}
@@ -240,7 +246,7 @@ From {{etyl|la|it}} {{term|gratis|lang=la}}
 * German: [[#German|gratis]]
 {{mid2}}
 * Italian: [[#Italian|gratis]]
-* Portuguese: [[grátis]]
+* Portuguese: {{l/pt|grátis}}
 * Romanian: [[#Romanian|gratis]]
 * Spanish: [[#Spanish|gratis]]
 {{bottom}}
