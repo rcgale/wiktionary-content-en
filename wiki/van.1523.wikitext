@@ -392,9 +392,9 @@ From {{etyl|dum|nl}}, from {{etyl|odt|nl}} {{term|fan||from|lang=odt}}, from {{e
 ==Hungarian==
 
 ===Etymology===
-From Old Hungarian [[vagyon]] (same meaning). See Hungarian [[volt#Hungarian|volt]]
-*Conjugated forms using ''val-'', ''vol-'', or ''va-'' come from the same {{etyl|fiu-pro|hu}} {{m|fiu-pro|*wole-||to be}} as Finnish and Estonian [[olla]]. Compare similarities with Old Hungarian [[vola]] (same meaning).
-*Forms with ''le-'' or ''lé-'' derive from {{etyl|fiu-pro|hu}} {{m|fiu-pro|*le-||to become}}.  Cognate with {{etyl|krl|-}} {{m|krl|lienöy}}, {{etyl|se|-}} {{m|se|leat}}, and certain conjugations of Finnish and Estonian [[olla]].
+From Old Hungarian {{m|hu|vagyon}}. See Hungarian {{m|hu|volt}}.
+* Forms beginning with {{m|hu||v-}} are from {{etyl|fiu-pro|hu}} {{m|fiu-pro|*wole-||to be}}. Cognate with Finnish {{m|fi|olla}}, Estonian {{m|et|olema}}. Compare similarities with Old Hungarian {{m|hu|vola}}.
+* Forms beginning with {{m|hu||l-}} are from {{etyl|fiu-pro|hu}} {{m|fiu-pro|*le-||to become}}. Cognate with Finnish {{m|fi|lienee|pos=potential of {{m|fi|olla}}}}, {{etyl|krl|-}} {{m|krl|lienöy|pos=potential of {{m|krl|olla}}}}, {{etyl|se|-}} {{m|se|leat}}.
 
 ===Pronunciation===
 * {{IPA|/ˈvɒn/|lang=hu}}
@@ -404,10 +404,10 @@ From Old Hungarian [[vagyon]] (same meaning). See Hungarian [[volt#Hungarian|vol
 {{hu-verb}}
 
 # [[be]], [[exist]]
-# [[have]]; someone ''[[-nak]]/[[-nek]]'' has something ''[[-ja]]/[[-je]]''
-#: ''Péter'''nek''' '''van''' egy kutyá'''ja'''.'' - “Peter has a dog” (literally 'There is a his dog for Peter' ([[sic]]))
+# [[have]]; someone {{m|hu|-nak}}/{{m|hu|-nek}} has something {{m|hu|-ja}}/{{m|hu|-je}}
+#: {{ux|hu|Péter'''nek''' '''van''' egy kutyá'''ja'''.|Peter has a dog.}}
 # [[there is]]
-#: '''''Van''' itt valaki?'' - “Is there anybody here?”
+#: {{ux|hu|'''Van''' itt valaki?|Is there anybody here?}}
 
 ====Conjugation====
 {{hu-conj-van}}
