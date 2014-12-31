@@ -28,7 +28,7 @@ From {{etyl|fro|en}} {{term|condicionel|lang=fro}} (French {{term|conditionnel|l
 * {{sense|in logic}} [[consequent]]
 
 ====Translations====
-{{trans-top|statement}}
+{{trans-top|grammar: statement}}
 * Bulgarian: {{t+|bg|условие|n}}
 * Finnish: {{t+|fi|ehtolause}}, {{t|fi|konditionaalilause}}
 {{trans-mid}}
@@ -36,7 +36,7 @@ From {{etyl|fro|en}} {{term|condicionel|lang=fro}} (French {{term|conditionnel|l
 * Russian: {{t+|ru|условие|n|tr=uslóvije}}
 {{trans-bottom}}
 
-{{trans-top|mood}}
+{{trans-top|grammar:mood}}
 * Bulgarian: {{t|bg|условно наклонение|n}}
 * Catalan: {{t+|ca|condicional|m}}
 * Dutch: {{t+|nl|voorwaardelijke wijs|m}}
@@ -53,11 +53,18 @@ From {{etyl|fro|en}} {{term|condicionel|lang=fro}} (French {{term|conditionnel|l
 * Spanish: {{t+|es|condicional|m}}
 {{trans-bottom}}
 
-{{trans-top|in logic}}
+{{trans-top|logic: statement}}
 * Bulgarian: {{t+|bg|условие|n}}
 {{trans-mid}}
-* Finnish: {{t+|fi|ehto}}
+* Finnish: {{t+|fi|ehtolause}}
 {{trans-bottom}}
+
+{{trans-top|computing: branching instruction}}
+* Finnish: {{t+|fi|ehtolause}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|limitation}}
 
 {{checktrans-top}}
 * French: {{t+check|fr|conditionnel|m}}
