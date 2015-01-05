@@ -199,12 +199,12 @@ Reduced form of {{term|also|lang=en}}, from {{etyl|ang|en}} {{m|ang|eallswā||ju
 * Walloon: {{t+|wa|come}}
 {{trans-bottom}}
 
-{{trans-top|while}}
+{{trans-top|at the same time that}}
 * Czech: {{t+|cs|zatímco}}
 * Danish: {{t+|da|mens}}, {{t|da|imens}}
 * Dutch: {{t+|nl|terwijl}}
 * Esperanto: {{t|eo|dum}}
-* Finnish: {{t+|fi|kun}}
+* Finnish: {{t+|fi|kun}}, {{t|fi|[[sillä välin]], [[kun]]}}
 * French: {{t+|fr|lorsque}}, {{t+|fr|pendant que}}
 * German: {{t+|de|während}}
 * Greek: {{t+|el|καθώς}}
@@ -237,7 +237,7 @@ Reduced form of {{term|also|lang=en}}, from {{etyl|ang|en}} {{m|ang|eallswā||ju
 * Danish: {{t+|da|som}}
 * Dutch: {{t+|nl|naarmate}}
 * Esperanto: {{t|eo|kiom}}
-* Finnish: {{t+|fi|aikana}}
+* Finnish: {{t+|fi|kun}}, {{t|fi|sitä mukaa kuin}}
 * French: {{t|fr|au fur et à mesure que}}
 * German: {{t+|de|als}}
 * Greek: {{t+|el|καθώς}}
@@ -261,7 +261,7 @@ Reduced form of {{term|also|lang=en}}, from {{etyl|ang|en}} {{m|ang|eallswā||ju
 * Walloon: {{t|wa|a fwait ki}}, {{t|wa|fwait a mzeure ki}}
 {{trans-bottom}}
 
-{{trans-top|because}}
+{{trans-top|considering that, because}}
 * Catalan: {{t|ca|com que}}, {{t|ca|ja que}}
 * Czech: {{t+|cs|neboť}}, {{t+|cs|protože}}, {{t|cs|jelikož}}, {{t|cs|poněvadž}}, {{t+|cs|neb}}
 * Danish: {{t|da|siden}}, {{t|da|eftersom}}, {{t|da|idet}}
@@ -294,43 +294,58 @@ Reduced form of {{term|also|lang=en}}, from {{etyl|ang|en}} {{m|ang|eallswā||ju
 * Walloon: {{t|wa|puski}}, {{t+|wa|come}}
 {{trans-bottom}}
 
-{{trans-top|in the manner of}}
-* Czech: {{t+|cs|jak}}, {{t+|cs|jako}}
-* Danish: {{t+|da|som}}
-* Dutch: {{t+|nl|als}}
-*: The Hague dialect: {{t+|nl|as}}
-* Esperanto: {{t+|eo|kiel}}
-* French: {{t+|fr|que}}
-* German: {{t+|de|wie}}
-* Greek: {{t+|el|σαν}}
-* Hebrew: {{t+|he|כמו|tr=cmo}}
-* Hungarian: {{t+|hu|mint}}, {{t|hu|-ként}} ([[essive-formal]])
-* Interlingua: {{t|ia|como}}
-* Italian: {{t+|it|come}}, {{t+|it|quanto}}
-*: X as Y - X come Y, tanto X comme Y
+{{trans-top|introducing a basis of comparison}}
+* Finnish: {{t|fi|kuin}}
 {{trans-mid}}
-* Japanese: {{t|ja|ように|tr=yō ni}}
-* Macedonian: {{t|mk|како|tr=káko}}
-* Norwegian: {{t+|no|som}}
-* Novial: {{t|nov|kom}}, {{t|nov|kam}}
-* Portuguese: {{t+|pt|como}}
-* Romanian: {{t|ro|ca și}}
-* Russian: {{t+|ru|как}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|ка̏о|sc=Cyrl}}, {{t|sh|ка̏ко|sc=Cyrl}}, {{t|sh|ка̀ко|sc=Cyrl}}
-*: Roman: {{t|sh|kȁo}}, {{t|sh|kȁko}}, {{t|sh|kàko}}
-* Spanish: {{t+|es|como}}, {{t|es|igual de}}... {{t+|es|que}}
-* Tok Pisin: {{t|tpi|olsem}}
-* Ukrainian: {{t+|uk|як}}, {{t|uk|наче}}
 {{trans-bottom}}
 
-{{trans-see|that|[[that]]}}
+{{trans-top|introducing a comparison with a hypothetical state}}
+* Finnish: {{t|fi|kuin}}, {{t|fi|ikään kuin}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|introducing a comparison with a hypothetical state, with the verb elided}}
+* Finnish: {{t|fi|kuin}}, {{t|fi|ikään kuin}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|relative conjunction|that}}
+
+{{trans-see|expressing concession|though}}
+
+{{trans-see|than}}
 
 {{checktrans-top}}
+* Czech: {{t-check|cs|jak}}, {{t+|cs|jako}} <!--was under: "in the manner of"-->
+* Danish: {{t-check|da|som}} <!--was under: "in the manner of"-->
+* Dutch: {{t-check|nl|als}} <!--was under: "in the manner of"-->
+*: The Hague dialect: {{t+|nl|as}} <!--was under: "in the manner of"-->
+* Esperanto: {{t-check|eo|kiel}} <!--was under: "in the manner of"-->
+* French: {{t-check|fr|que}} <!--was under: "in the manner of"-->
 * Georgian: {{t-check|ka|როგორც}}
+* German: {{t-check|de|wie}} <!--was under: "in the manner of"-->
+* Greek: {{t-check|el|σαν}} <!--was under: "in the manner of"-->
+* Hebrew: {{t-check|he|כמו|tr=cmo}} <!--was under: "in the manner of"-->
+* Hungarian: {{t-check|hu|mint}}, {{t|hu|-ként}} ([[essive-formal]]) <!--was under: "in the manner of"-->
+* Interlingua: {{t-check|ia|como}} <!--was under: "in the manner of"-->
+* Italian: {{t-check|it|come}}, {{t+|it|quanto}} <!--was under: "in the manner of"-->
+*: X as Y - X come Y, tanto X comme Y <!--was under: "in the manner of"-->
+* Japanese: {{t-check|ja|ように|tr=yō ni}} <!--was under: "in the manner of"-->
 * Kurdish: {{t-check|ku|wek}}, {{t-check|ku|mîna}}, {{t-check|ku|nola}}, {{t-check|ku|fena}}
 {{trans-mid}}
-* Spanish: {{t-check|es|al tiempo que}}
+* Macedonian: {{t-check|mk|како|tr=káko}} <!--was under: "in the manner of"-->
+* Norwegian: {{t-check|no|som}} <!--was under: "in the manner of"-->
+* Novial: {{t-check|nov|kom}}, {{t-check|nov|kam}} <!--were under: "in the manner of"-->
+* Portuguese: {{t-check|pt|como}} <!--was under: "in the manner of"-->
+* Romanian: {{t-check|ro|ca și}} <!--was under: "in the manner of"-->
+* Russian: {{t-check|ru|как}} <!--was under: "in the manner of"-->
+* Serbo-Croatian: <!--were under: "in the manner of"-->
+*: Cyrillic: {{t-check|sh|ка̏о|sc=Cyrl}}, {{t-check|sh|ка̏ко|sc=Cyrl}}, {{t-check|sh|ка̀ко|sc=Cyrl}}
+*: Roman: {{t-check|sh|kȁo}}, {{t-check|sh|kȁko}}, {{t-check|sh|kàko}}
+* Spanish: {{t|es|al tiempo que}}
+* Spanish: {{t-check|es|como}}, {{t-check|es|igual de}}… {{t-check|es|que}} <!--were under: "in the manner of"-->
+* Tok Pisin: {{t-check|tpi|olsem}} <!--was under: "in the manner of"-->
+* Ukrainian: {{t-check|uk|як}}, {{t-check|uk|наче}} <!--were under: "in the manner of"-->
 {{trans-bottom}}
 
 ====Preposition====
