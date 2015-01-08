@@ -38,12 +38,12 @@ From {{etyl|enm|en}} {{term|sinonyme|lang=enm}}, from {{etyl|la|en}} {{m|la|syn�
 
 ====Translations====
 {{trans-top|word with same meaning as another}}
-* Armenian: {{t|hy|հոմանիշ|tr=homaniš|sc=Armn}}
+* Armenian: {{t|hy|հոմանիշ|sc=Armn}}
 * Asturian: {{t+|ast|sinónimu|m}}
-* Bengali: {{t|bn|প্রতিশব্দ|sc=Beng}}
+* Bengali: {{t|bn|প্রতিশব্দ|tr=prôtishôbdô|sc=Beng}}
 * Catalan: {{t+|ca|sinònim|m}}
 * Chinese:
-*: Mandarin: {{t|cmn|同義詞|sc=Hani}}, {{t+|cmn|同义词|tr=tóngyìcí|sc=Hani}}, {{t+|cmn|代名詞|sc=Hani}}, {{t+|cmn|代名词|tr=dàimíngcí|sc=Hani}}, {{qualifier|near-synonym}} {{t+|cmn|近義詞|sc=Hani}}, {{t|cmn|近义词|tr=jìnyìcí|sc=Hani}}
+*: Mandarin: {{t+|cmn|同義詞|sc=Hani}}, {{t+|cmn|同义词|tr=tóngyìcí|sc=Hani}}, {{t+|cmn|代名詞|sc=Hani}}, {{t+|cmn|代名词|tr=dàimíngcí|sc=Hani}}, {{t+|cmn|近義詞|sc=Hani}}, {{t+|cmn|近义词|tr=jìnyìcí|sc=Hani}} {{qualifier|near-synonym}}
 * Czech: {{t+|cs|synonymum|n}}, {{t+|cs|slovo souznačné|n}}
 * Danish: {{t+|da|synonym|n}}
 * Dutch: {{t+|nl|synoniem|n}}, {{t|nl|evenwoord|n}}
@@ -53,12 +53,12 @@ From {{etyl|enm|en}} {{term|sinonyme|lang=enm}}, from {{etyl|la|en}} {{m|la|syn�
 * French: {{t+|fr|synonyme|m}}
 * Galician: {{t+|gl|sinónimo|m}}
 * German: {{t+|de|Synonym|n}}
-* Greek: {{t+|el|συνώνυμο|n|tr=synónymo}}
+* Greek: {{t+|el|συνώνυμο|n}}
 * Hindi: {{t|hi|पर्याय|m|tr=paryāy}}, {{t|hi|पर्यायवाची|sc=Deva}}, {{t|hi|समानार्थी शब्द|sc=Deva}}
 * Hungarian: {{t+|hu|szinonima}}
 * Icelandic: {{t+|is|samheiti|n}}
 * Italian: {{t+|it|sinonimo|m}}
-* Japanese: {{t+|ja|同義語|tr=どうぎご, dōgi-go; same|sc=Jpan}}, {{t+|ja|類義語|tr=るいぎご, ruigi-go; similar|sc=Jpan}}
+* Japanese: {{t+|ja|同義語|tr=どうぎご, dōgigo|sc=Jpan}} {{qualifier|same}}, {{t+|ja|類義語|tr=るいぎご, ruigigo|sc=Jpan}} {{qualifier|similar}}
 {{trans-mid}}
 * Khmer: {{t|km|ន័យដូច|sc=Khmr|tr=ney dooch}}
 * Korean: {{t+|ko|동의어|sc=Kore}}, {{t+|ko|유의어|sc=Kore}}
@@ -70,7 +70,7 @@ From {{etyl|enm|en}} {{term|sinonyme|lang=enm}}, from {{etyl|la|en}} {{m|la|syn�
 * Polish: {{t+|pl|synonim|m}}
 * Portuguese: {{t+|pt|sinónimo}} {{qualifier|Portugal}}, {{t+|pt|sinônimo}} {{qualifier|Brazil}}
 * Romanian: {{t+|ro|sinonim|n}}
-* Russian: {{t+|ru|синоним|m|tr=sinónim}}
+* Russian: {{t+|ru|сино́ним|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|истозначница|f}}, {{t|sh|сино̀нӣм|m|sc=Cyrl}}
 *: Roman: {{t|sh|istòznačnica|f}}, {{t|sh|sinònīm|m}}
@@ -103,10 +103,9 @@ From {{etyl|enm|en}} {{term|sinonyme|lang=enm}}, from {{etyl|la|en}} {{m|la|syn�
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Mandarin: {{t-check|cmn|同義詞|sc=Hani}}, {{t+check|cmn|同义词|tr=tongyici|sc=Hani}}
 * Indonesian: {{t-check|id|[[sama|persamaan]] [[kata]]}} <!-- was "[[sama|persamaan]] [[kata]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+check|id|sinonim}}
 * Interlingua: {{t-check|ia|synonymo}}
-* Malayalam: {{t+check|ml|പര്യായം|tr=paryaayam|sc=Mlym}}
+* Malayalam: {{t+check|ml|പര്യായം|sc=Mlym}}
 * Swedish: {{t+check|sv|synonym}}
 * Turkish: {{t+check|tr|eş anlamlı}}
 {{trans-bottom}}
