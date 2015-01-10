@@ -244,10 +244,9 @@ The collective plural of ''fish'' is always ''fish'' in the UK; in the US, ''[[f
 *: Cantonese: {{t|yue|魚|sc=Hani}}, {{t|yue|鱼|tr=jyu4|sc=Hani}}
 *: Dungan: {{t-needed|dng}}
 *: Gan: {{t|gan|魚|sc=Hans}}, {{t|gan|鱼|tr=enlei|sc=Hans}}
-*: Hainanese: {{lang|und|sc=Hani|[[魚]]}}, {{lang|und|sc=Hani|[[鱼]]}} (hu)
 *: Hakka: {{t|hak|魚|sc=Hans}}, {{t|hak|鱼|tr=ng|sc=Hans}}
 *: Mandarin: {{t+|cmn|魚|sc=Hani}}, {{t+|cmn|鱼|tr=yú|sc=Hani}}
-*: Min Nan: {{t+|nan|魚|sc=Hans}}, {{t|nan|鱼|tr=hî|sc=Hans}}
+*: Min Nan: {{t+|nan|魚|sc=Hans}}, {{t|nan|鱼|tr=hî|sc=Hans}},  {{i|Hainanese}} {{lang|nan|sc=Hani|[[魚]]}}, {{lang|nan|sc=Hani|[[鱼]]|tr=hu}}
 * Chuvash: {{t|cv|пулă}}
 * Classical Nahuatl: {{t|nci|michin}}
 * Cocama-Cocamilla: {{t|cod|ipira}}
@@ -264,14 +263,13 @@ The collective plural of ''fish'' is always ''fish'' in the UK; in the US, ''[[f
 * Dolgan: {{t|dlg|балык|tr=balık|sc=Cyrl}}
 * Dutch: {{t+|nl|vis|m}}
 * Eastern Mari: {{t|chm|кол}}
-* Egyptian: {{t|egy|rm|sc=Egyp}} <hiero>r:r-m-K1:Z1</hiero> rrm <hiero>r-m-in</hiero>
+* Egyptian: {{t-check|egy|rm}} <hiero>r:r-m-K1:Z1</hiero> rrm <hiero>r-m-in</hiero>
 * Erzya: {{t|myv|кал}}
 * Esperanto: {{t+|eo|fiŝo}}
 * Estonian: {{t+|et|kala}}
 * Faroese: {{t|fo|fiskur|m}}
 * Fijian: {{t|fj|ika}}
 * Finnish: {{t+|fi|kala}}
-* Flathead: [[sǝˀwéˀwɬ]]
 * French: {{t+|fr|poisson|m}}
 * Friulian: {{t|fur|pes|m}}, {{t|fur|peš}}
 * Fula: {{t|ff|liingu}}
@@ -321,7 +319,7 @@ The collective plural of ''fish'' is always ''fish'' in the UK; in the US, ''[[f
 * Japanese: {{t+|ja|魚|tr=さかな, sakana|sc=Jpan}}, {{qualifier|old or rare}} {{t+|ja|魚|tr=うお, uo|sc=Jpan}}
 * Javanese: {{t|jv|iwak}}, {{t|jv|ulam}}
 * Jèrriais: {{t|roa-jer|paîsson|m}}
-* Kaili: [[bau]]
+* {{ttbc|Kaili}} {{attention|und|This is a language group; please specify more precisely: lew for Ledo Kaili, kzf for Da'a Kaili, unz for Unde Kaili, or brs for Baras}}: [[bau]]
 * Kalmyk: {{t|xal|заһсн|sc=Cyrl}}
 * Kamayurá: {{t|kay|ipira}}
 * Kanakanabu: {{t|xnb|vutukuru}}
@@ -363,7 +361,7 @@ The collective plural of ''fish'' is always ''fish'' in the UK; in the US, ''[[f
 * Lojban: {{t|jbo|finpe}}
 * Low German:
 *: Dutch Low Saxon: {{t|nds-nl|vis}}, {{t|nds-nl|visk}}
-*: German Low German: {{t+|nds-de|Fisch}}, {{t|nds-de|Fösch}}; {{t|nds-de|Visk}}/{{t|nds-de|Fisk}} {{qualifier|East Frisian}}
+*: German Low German: {{t+|nds-de|Fisch}}, {{t|nds-de|Fösch}}, {{t|nds-de|Visk}}, {{t|nds-de|Fisk}} {{qualifier|East Frisian}}
 {{trans-mid}}
 * Luhya: {{t|luy|eng'eni}}
 * Lule Sami: {{t|smj|guolle}}
@@ -396,12 +394,13 @@ The collective plural of ''fish'' is always ''fish'' in the UK; in the US, ''[[f
 * Middle Low German: {{t|gml|visch}}
 * Mingo: {{t|iro-min|kẽtsõ}}
 * Miskito: {{t|miq|inska}}
-* Miwok: [[ˀellēˊ]]
+* {{ttbc|Miwok}} {{attention|und|Wiktionary considers this a language group; please specify the language more precisely}}: [[ˀellēˊ]]
 * Mocoví: {{t|moc|nalyin}}
 * Mohawk: {{t|moh|kéntsion}}
 * Moksha: {{t|mdf|кал}}
 * Mongolian: {{t|mn|загас}}
 * Montagnais: {{t|moe|namesh}}
+* Montana Salish: {{t|fla|sǝˀwéˀwɬ}}
 * Movima: {{t|mzp|bilau}}
 * Mundurukú: {{t|myu|ashima}}
 * Nadëb: {{t|mbj|tahüb}}
@@ -440,9 +439,7 @@ The collective plural of ''fish'' is always ''fish'' in the UK; in the US, ''[[f
 * Oriya: {{t|or|ମତ୍ସ୍ଯ|tr=matsya|sc=Orya}}
 * Oro Win: {{t|orw|hwam}}
 * Oromo: {{t|om|qurxummii}}
-* Ossetian:
-*: Digor: {{t|os|кæсалгæ|sc=Cyrl}}, {{qualifier|big}} {{t|os|кæф|sc=Cyrl}}
-*: Iron: {{t|os|кæсаг|sc=Cyrl}}, {{qualifier|big}} {{t|os|кæф|sc=Cyrl}}
+* Ossetian: {{i|Digor}} {{t|os|кæсалгæ|sc=Cyrl}}, {{qualifier|big}} {{t|os|кæф|sc=Cyrl}}; {{i|Iron}} {{t|os|кæсаг|sc=Cyrl}}, {{qualifier|big}} {{t|os|кæф|sc=Cyrl}}
 * Ottoman Turkish: {{t|ota|بالق|tr=balık|sc=ota-Arab}}
 * Paiwan: {{t|pwn|ciqaw}}
 * Palikur: {{t|plu|ima}}
@@ -517,11 +514,8 @@ The collective plural of ''fish'' is always ''fish'' in the UK; in the US, ''[[f
 * Tajik: {{t+|tg|моҳӣ|sc=Cyrl}}
 * Talysh: {{t|tly|мој|tr=moj}}
 * Tamil: {{t+|ta|மீன்|sc=Taml}}
-* Tao: {{t|tao|among}}
 * Taos: {{t|twf|pə̏’ə́na}}
-* Taroko: {{t|trv|qcurux}}
-*: Truku: {{t|trv|qsurux}}
-*:Classical Tynian: {{t|bh2|isc}}
+* Taroko: {{t|trv|qcurux}}, {{t|trv|qsurux}}{{attention|trv|different dialects?}}
 * Tatar: {{t+|tt|балык}}
 * Telugu: {{t+|te|చేప|sc=Telu}}, {{t+|te|మత్స్యము|sc=Telu}}
 * Ter Sami: {{t|sjt|кылле}}, {{t|sjt|kɨll'e}}
@@ -538,7 +532,7 @@ The collective plural of ''fish'' is always ''fish'' in the UK; in the US, ''[[f
 * Tonkawa: {{t|tqw|nɛswʌlˀʌn}}
 * Tsimshian: {{t|tsi|hóːn}}
 * Tsou: {{t|tsu|yoskʉ}}
-* Tswana: {{t|tn|tlhapi}} (9/10)
+* Tswana: {{qualifier|9/10}} {{t-check|tn|tlhapi}}
 * Tupinambá: {{t|tpn|pirá}}
 * Turkish: {{t+|tr|balık}}
 * Turkmen: {{t+|tk|balyk}}
@@ -563,11 +557,12 @@ The collective plural of ''fish'' is always ''fish'' in the UK; in the US, ''[[f
 * West Frisian: {{t|fy|fisk|m}}
 * Xingú Asuriní: {{t|asn|ipira}}
 * Yakut: {{t|sah|балык|sc=Cyrl}}
+* Yami: {{t|tao|among}}
 * Yawalapití: {{t|yaw|kupati}}
 * Yiddish: {{t|yi|פֿיש|m}}
 * Yonaguni: {{t|yoi|イユ|tr=iyu}}
 * Yoruba: {{t|yo|eja}}
-* Yucatec: [[kay]]
+* Yucatec: {{t|yua|kay}}
 * Zulu: {{t+|zu|inhlanzi|c9|c10}}, {{t|zu|ufishi|c1a|c2a}}
 {{trans-bottom}}
 
@@ -654,7 +649,7 @@ The collective plural of ''fish'' is always ''fish'' in the UK; in the US, ''[[f
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|риболов|m}}
 *: Roman: {{t+|sh|ribolov|m}}
-* Slovak: {{t|sk|rybačka|f}}, {{t|sk|rybárčenie|n}}, {{t|sk|rybárstvo|n}} {{qualifier|recreational}}; {{t|sk|rybolov|m}} {{qualifier|industrial}}
+* Slovak: {{t|sk|rybačka|f}}, {{t|sk|rybárčenie|n}}, {{t|sk|rybárstvo|n}} {{qualifier|recreational}}, {{t|sk|rybolov|m}} {{qualifier|industrial}}
 * Spanish: {{t+|es|pesca|f}}
 * Swahili: {{t+|sw|samaki}}
 * Swedish: {{t+|sv|fiske|n}}
