@@ -14,21 +14,79 @@
 ==Irish==
 
 ===Etymology===
-From {{etyl|sga|ga}} {{term|eó|lang=sga}} (cognate to {{etyl|wlm|-}} {{term|ehawc|lang=wlm}}, modern {{etyl|cy|-}} {{term|eog|lang=cy}}).
+From {{etyl|sga|ga}} {{m|sga|eó}} (cognate to {{etyl|wlm|-}} {{m|wlm|ehawc}}, modern {{etyl|cy|-}} {{m|cy|eog}}).
+
+===Pronunciation===
+* {{a|Munster|Connacht}} {{IPA|/oː/|lang=ga}}
+* {{a|Ulster}} {{IPA|/ɔː/|lang=ga}}
 
 ===Noun===
-{{head|ga|noun|g=m|genitive singular and plural|iach|nominative plural|iaich}}
+{{ga-noun|g=m|iach|iaich}}
 
-# {{context|literary|lang=ga}} [[salmon]]
-# {{context|figuratively|lang=ga}} [[noble]] being, [[prince]]
+# {{lb|ga|literary}} [[salmon]]
+# {{lb|ga|figuratively}} [[noble]] being, [[prince]]
 
-====Mutation====
-{{ga mut vowel}}
+====Declension====
+<div class="NavFrame" style="">
+<div class="NavHead" style="" >Declension of eo</div>
+<div class="NavContent">
+
+'''Irregular'''
+{| cellspacing="0" cellpadding="0" style="background-color: transparent; width: 95%" class="inflection-table"
+<p />
+| width="50%" align="left" valign="top" |
+Bare forms
+{|border="1" cellpadding="4" cellspacing="0" class="toccolours" style="align: left; margin: 0.5em 0 0 0; border-style: solid; border: 1px solid #7f7f7f; border-right-width: 2px; border-bottom-width: 2px; border-collapse: collapse; font-size: 95%;"
+!Case
+!Singular
+!Plural
+|-
+| [[nominative|Nominative]]
+| {{l-self|ga|eo}}
+| {{l-self|ga|iaich}}
+|-
+| [[vocative|Vocative]]
+| a {{l-self|ga|eo}}
+| a {{l-self|ga|iaich}}
+|-
+| [[genitive|Genitive]]
+| {{l-self|ga|iach}}
+| {{l-self|ga|iach}}
+|-
+| [[dative|Dative]]
+| {{l-self|ga|eo}}
+| {{l-self|ga|iaich}}
+|}
+<p />
+| width="50%" align="left" valign="top" |
+Forms with the [[definite article]]
+{|border="1" cellpadding="4" cellspacing="0" class="toccolours" style="align: left; margin: 0.5em 0 0 0; border-style: solid; border: 1px solid #7f7f7f; border-right-width: 2px; border-bottom-width: 2px; border-collapse: collapse; font-size: 95%;"
+!Case
+!Singular
+!Plural
+|-
+| [[nominative|Nominative]]
+| an {{l-self|ga|t-eo}}
+| na {{l-self|ga|hiaich}}
+|-
+| [[genitive|Genitive]]
+| an {{l-self|ga|iach}}
+| na {{l-self|ga|n-iach}}
+|-
+| [[dative|Dative]]
+| leis an {{l-self|ga|eo}}<br />
+don {{l-self|ga|eo}}
+| leis na {{l-self|ga|hiaich}}
+|}<p />
+|}</div></div>
 
 ====Synonyms====
 * {{sense|salmon}} {{l|ga|bradán}}
 
-[[Category:ga:Fish]]
+===Mutation===
+{{ga mut vowel}}
+
+[[Category:ga:Salmonids]]
 
 ----
 
