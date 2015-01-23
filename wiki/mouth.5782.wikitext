@@ -68,7 +68,7 @@ From {{etyl|enm|en}} {{term|mouth|lang=enm}}, from {{etyl|ang|en}} {{m|ang|mūþ
 * Aramaic: {{t|arc|ܦܘܡܐ|sc=Hebr}}
 * Armenian: {{t+|hy|բերան}}, {{t|hy|երախ|sc=Armn}} {{qualifier|of an animal}}
 * Aromanian: {{t+|rup|gurã}}
-* Assamese: {{t|as|মুখ|tr=mukʰ|sc=Deva}}
+* Assamese: {{t|as|মুখ|tr=mukʰ}}
 * Asturian: {{t+|ast|boca|f}}
 * Avar: {{t|av|кӏал|sc=Cyrl}}
 * Avestan: {{t|ae|tr=åŋhânô}}, {{t|ae|tr=âh}}, {{t|ae|tr=åñh}}
@@ -152,7 +152,7 @@ From {{etyl|enm|en}} {{term|mouth|lang=enm}}, from {{etyl|ang|en}} {{m|ang|mūþ
 * Hausa: {{t+|ha|baki}}
 * Hawaiian: {{t|haw|waha}}
 * Hebrew: {{t+|he|פֶּה|m|tr=pe|sc=Hebr}}
-* Hindi: {{t|hi|मुँह|m|tr=mũh|sc=Deva}}, {{t|hi|मुंह|m|tr=mũh|sc=Deva}}, {{t|hi|मुख|m|tr=mukh|sc=Deva}}
+* Hindi: {{t|hi|मुँह|m|tr=mũh|sc=Deva}}, {{t|hi|मुख|m|tr=mukh|sc=Deva}}
 * Hittite: {{t|hit||tr=aiš|n}}
 * Hungarian: {{t+|hu|száj}}
 * Icelandic: {{t+|is|munnur|m}}, {{t+|is|kjaftur}} {{qualifier|vulgar}} {{g|m}}
@@ -195,7 +195,7 @@ From {{etyl|enm|en}} {{term|mouth|lang=enm}}, from {{etyl|ang|en}} {{m|ang|mūþ
 * Kumyk: {{t|kum|авуз|tr=awuz|sc=Cyrl}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|dev|m}}
-*: Sorani: {{t|ckb|دەم}}
+*: Sorani: {{t|ckb|دەم|tr=dem}}
 * Kyrgyz: {{t+|ky|ооз|sc=Cyrl}}
 * Ladin: {{t|lld|bocia|f}}
 * Ladino:
@@ -210,9 +210,9 @@ From {{etyl|enm|en}} {{term|mouth|lang=enm}}, from {{etyl|ang|en}} {{m|ang|mūþ
 * Laz: {{t|lzz|პიჯი|sc=Geor}}
 * Lezgi: {{t|lez|сив|sc=Cyrl}}
 * Ligurian: {{t|lij|bocca|f}}
-{{trans-mid}}
 * Limburgish: {{t+|li|móndj|m}}, {{t|li|mónd|m}}
 * Lingala: {{t|ln|monɔkɔ}}
+{{trans-mid}}
 * Lithuanian: {{t+|lt|burna|f}}
 * Livonian: {{t|liv|sū}}
 * Lombard: {{t|lmo|boca|f}} {{qualifier|Eastern}}, {{t|lmo|buca|f}} {{qualifier|Western}}
@@ -244,7 +244,7 @@ From {{etyl|enm|en}} {{term|mouth|lang=enm}}, from {{etyl|ang|en}} {{m|ang|mūþ
 * Ndonga: {{t|ng|okana}}
 * Neapolitan: {{t|nap|vocca|f}}
 * Nenets: {{t|yrk|ня’|tr=nya'|sc=Cyrl}}, {{t|yrk|ня’н|tr=nya'n|sc=Cyrl}}
-* Nepali: {{t|ne|मुख|tr=muk|sc=Deva}}, {{t|ne|मुंह|sc=Deva}}
+* Nepali: {{t|ne|मुख|tr=mukh|sc=Deva}}
 * Newari: {{t|new|म्हुतु|sc=Deva}}
 * Nganasan: {{t|nio|ӈаӈ|tr=ñañ|sc=Cyrl}}
 * Ngarrindjeri: {{t|nay|tore}}
@@ -264,7 +264,7 @@ From {{etyl|enm|en}} {{term|mouth|lang=enm}}, from {{etyl|ang|en}} {{m|ang|mūþ
 * Old Saxon: {{t|osx|mūth}}
 * Oromo: {{t+|om|afaan}}
 * Ossetian: {{t|os|ком|sc=Cyrl}}, {{t|os|дзых|sc=Cyrl}}
-* Ottoman Turkish: {{t|ota|آغز|tr=ağiz|sc=ota-Arab}}, {{t|ota|آغيز|tr=ağyz|sc=ota-Arab}}, {{t|ota|دهان|tr=dehân|sc=ota-Arab}}, {{t|ota|دهن|tr=dehen|sc=ota-Arab}}, {{t|ota|فم|tr=fem|sc=ota-Arab}}
+* Ottoman Turkish: {{t|ota|آغز|tr=ağız}}, {{t|ota|آغیز|tr=ağız}}, {{t|ota|دهان|tr=dehân}}, {{t|ota|دهن|tr=dehen}}, {{t|ota|فم|tr=fem}}
 * Palu'e: {{t|ple|wêwa}}
 * Pangasinan: {{t|pag|sangi}}
 * Pashto: {{t+|ps|خوله|f|tr=xwlë|sc=ps-Arab}}
@@ -274,10 +274,13 @@ From {{etyl|enm|en}} {{term|mouth|lang=enm}}, from {{etyl|ang|en}} {{m|ang|mūþ
 * Piedmontese: {{t|pms|boca|f}}
 * Polish: {{qualifier|human}} {{t+|pl|usta|p}}, {{qualifier|animal}} {{t+|pl|paszcza|f}}, {{t+|pl|gęba|f}}
 * Portuguese: {{t+|pt|boca|f}}
-* Punjabi: {{t|pa|ਮੂੰਹ|tr=mūha|sc=Guru}}
+* Punjabi:
+*: Gurmukhi: {{t-|pa|ਮੁਖ|tr=mukh|sc=Guru}}, {{t-|pa|ਮੂੰਹ|tr=mū̃h|sc=Guru}}
+*: Shahmukhi: {{t-|pnb|مکھ|tr=mukh|sc=pa-Arab}}, {{t-|pnb|مونہ|tr=mū̃h|sc=pa-Arab}}
 * Quechua:
 *: Southern Quechua: {{t+|qu|simi}}
 *: Ecuadorian Kichwa: {{t|qu|shimi}}
+* Rajasthani: {{t|raj|मुखड़ौ|tr=mukhṛau}}, {{t|raj|मूंडौ|tr=mū̃ḍau}}
 * Rapa Nui: {{t|rap|haha}}
 * Romanian: {{t+|ro|gură|f}}
 * Romansch: {{t|rm|bucca|f}}, {{t|rm|buca|f}} {{qualifier|Sutsilvan dialect}}, {{t|rm|buocha|f}} {{qualifier|Puter dialect}}, {{t|rm|bocca|f}} {{qualifier|Vallader dialect}}
@@ -285,7 +288,7 @@ From {{etyl|enm|en}} {{term|mouth|lang=enm}}, from {{etyl|ang|en}} {{m|ang|mūþ
 * Rusyn: {{t|rue|рот|tr=rot|sc=Cyrl}}, {{t|rue|писок|tr=pisok|sc=Cyrl}}
 * Yakut: {{t|sah|айах|sc=Cyrl}}
 * Sami:
-*: Kildin Sami}}: {{t|se|ня̄лльм|tr=nyāllʼm|sc=Cyrl}}
+*: Kildin Sami: {{t|se|ня̄лльм|tr=nyāllʼm|sc=Cyrl}}
 *: Northern Sami: {{t|se|njálbmi}}
 * Samoan: {{t|sm|gutu}}
 * Sanskrit: {{t|sa|आस्|n}}, {{t|sa|मुख|n|sc=Deva}}
