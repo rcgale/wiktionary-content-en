@@ -52,10 +52,10 @@ The English Wiktionary uses the English '''language''' to define words from all 
 |passage="Where the hell is Horace?" ¶ "There he is. He's coming. You shouldn't use '''language'''."}}
 
 ====Synonyms====
-* {{sense|system of communication}} [[lingo]] {{qualifier|colloquial}}, [[tongue]], [[speech]], [[parlance]]
-* {{sense|computer language}} [[computer language]], [[programming language]]
-* {{sense|vocabulary of a particular field}} [[jargon]], [[phraseology]], [[terminology]]
-* {{sense|particular words used}} [[lexis]], [[phraseology]], [[phrasing]], [[term]]s, [[wording]], [[word]]s
+* {{sense|form of communication}} [[tongue]], [[speech]] {{qualifier|spoken language}}
+* {{sense|vocabulary of a particular field}} [[lingo]] {{qualifier|colloquial}}, [[jargon]], [[terminology]], [[phraseology]], [[parlance]]
+* {{sense|computer language}} [[computer language]], [[programming language]], [[machine language]]
+* {{sense|particular words used}} [[phrasing]], [[wording]], [[terminology]]
 
 ====Derived terms====
 {{rel-top3|Terms derived from ''language''}}
@@ -114,7 +114,7 @@ The English Wiktionary uses the English '''language''' to define words from all 
 * [[tonguage]]
 
 ====Translations====
-{{trans-top|system of communication using words or symbols}}
+{{trans-top|body of words used as a form of communication}}
 * Abaza: {{t|abq|бызшва}}
 * Abkhaz: {{t|ab|абызшәа|sc=Cyrl}} {{qualifier|definite}}, {{t|ab|бызшәа|sc=Cyrl}} {{qualifier|indefinite}}
 * Acehnese: {{t|ace|bahsa}}
@@ -492,57 +492,6 @@ The English Wiktionary uses the English '''language''' to define words from all 
 * Yiddish: {{t+|yi|שפּראַך|f|tr=shprakh}}
 {{trans-bottom}}
 
-{{trans-top-also|computer language|computer language}}
-* Afrikaans: {{t|af|rekenaartaal}}
-* Arabic: {{t+|ar|لُغَةٌ|f|tr=lúğa|sc=Arab}}
-* Armenian: {{t+|hy|լեզու}}
-* Bulgarian: {{t+|bg|език|m|tr=ezík}}
-* Catalan: {{t+|ca|llenguatge|m}}, {{t|ca|codi|m}}
-* Chinese:
-*: Mandarin: {{t+|cmn|語言|sc=Hani}}, {{t+|cmn|语言|tr=yǔyán|sc=Hani}}
-* Czech: {{t+|cs|jazyk|m}}
-* Danish: {{t+|da|sprog|n}}
-* Dutch: {{t+|nl|taal|f}}, {{t+|nl|code|f}}
-* Esperanto: {{t+|eo|lingvo}}
-* Finnish: {{t+|fi|kieli}}, {{t+|fi|ohjelmointikieli}}
-* French: {{t+|fr|langage|m}}
-* Galician: {{t+|gl|linguaxe}}
-* Georgian: {{t+|ka|ენა|sc=Geor}}
-* German: {{t+|de|Sprache|f}}, {{t+|de|Sprachen|p}}
-* Greek: {{t|el|γλώσσα προγραμματισμού|f|sc=Grek}}, {{t+|el|κώδικας|m}}
-* Hebrew: {{t+|he|שפה|f|tr=safa|sc=Hebr}}
-* Interlingua: {{t|ia|linguage}}
-* Italian: {{t+|it|linguaggio|m}}
-* Japanese: {{t+|ja|言語|tr=げんご, gengo|sc=Jpan}}
-* Khmer: {{t+|km|ភាសា|tr=pʰiesaa|sc=Khmr}}
-* Korean: {{t+|ko|언어|sc=Kore}} {{t+|ko|言語|sc=Hani}}
-{{trans-mid}}
-* Latvian: {{t+|lv|valoda|f}}
-* Lithuanian: {{t+|lt|kalba|f}}
-* Macedonian: {{t+|mk|јазик|m|tr=jázik}}, {{t|mk|програмски јазик|m|tr=prógramski jázik}}
-* Malay: {{t+|ms|bahasa}}
-* Mizo: {{t|lus|ṭawng}}
-* Navajo: {{t|nv|saad}}
-* Norwegian: {{t+|no|språk|n}}, {{t+|no|programmeringsspråk|n}}
-* Novial: {{t|nov|lingue}}
-* Persian: {{t+|fa|زبان|tr=zabân}}
-* Polish: {{t+|pl|język|m}}
-* Portuguese: {{t+|pt|linguagem|f}}, {{t+|pt|linguagem de programação|f}}
-* Romanian: {{t+|ro|limbaj|n}}
-* Russian: {{t|ru|[[язык]] [[программирование|программирования]]|m|tr=jazýk programmírovanija|sc=Cyrl}}
-* Scottish Gaelic: {{t|gd|cànan|m}}
-* Serbo-Croatian: {{t+|sh|jezik|m}}
-* Silesian: {{t|szl|godka|f}}
-* Slovene: {{t|sl|jêzik|m}}
-* Spanish: {{t+|es|lenguaje|m}}
-* Swedish: {{t+|sv|språk|n}}, {{t|sv|datorspråk|n}}
-* Tamil: {{t+|ta|மொழி}}, {{t+|ta|பாசை}}
-* Turkish: {{t+|tr|dil}}
-* Ukrainian: {{t+|uk|мова|f|tr=móva}}
-* Vietnamese: {{t+|vi|ngôn ngữ}}, {{t|vi|ngôn ngữ máy tính}}
-* Yiddish: {{t+|yi|שפּראַך|f|tr=shprakh}}
-{{trans-bottom}}
-
 {{trans-top|vocabulary of a particular field}}
 * Arabic: {{t+|ar|لُغَةٌ|f|tr=lúğa}}
 * Armenian: {{t+|hy|լեզու}}
@@ -623,6 +572,57 @@ The English Wiktionary uses the English '''language''' to define words from all 
 * Yiddish: {{t+|yi|שפּראַך|f|tr=shprakh}}
 {{trans-bottom}}
 
+{{trans-top-also|computer language|computer language}}
+* Afrikaans: {{t|af|rekenaartaal}}
+* Arabic: {{t+|ar|لُغَةٌ|f|tr=lúğa|sc=Arab}}
+* Armenian: {{t+|hy|լեզու}}
+* Bulgarian: {{t+|bg|език|m|tr=ezík}}
+* Catalan: {{t+|ca|llenguatge|m}}, {{t|ca|codi|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|語言|sc=Hani}}, {{t+|cmn|语言|tr=yǔyán|sc=Hani}}
+* Czech: {{t+|cs|jazyk|m}}
+* Danish: {{t+|da|sprog|n}}
+* Dutch: {{t+|nl|taal|f}}, {{t+|nl|code|f}}
+* Esperanto: {{t+|eo|lingvo}}
+* Finnish: {{t+|fi|kieli}}, {{t+|fi|ohjelmointikieli}}
+* French: {{t+|fr|langage|m}}
+* Galician: {{t+|gl|linguaxe}}
+* Georgian: {{t+|ka|ენა|sc=Geor}}
+* German: {{t+|de|Sprache|f}}, {{t+|de|Sprachen|p}}
+* Greek: {{t|el|γλώσσα προγραμματισμού|f|sc=Grek}}, {{t+|el|κώδικας|m}}
+* Hebrew: {{t+|he|שפה|f|tr=safa|sc=Hebr}}
+* Interlingua: {{t|ia|linguage}}
+* Italian: {{t+|it|linguaggio|m}}
+* Japanese: {{t+|ja|言語|tr=げんご, gengo|sc=Jpan}}
+* Khmer: {{t+|km|ភាសា|tr=pʰiesaa|sc=Khmr}}
+* Korean: {{t+|ko|언어|sc=Kore}} {{t+|ko|言語|sc=Hani}}
+{{trans-mid}}
+* Latvian: {{t+|lv|valoda|f}}
+* Lithuanian: {{t+|lt|kalba|f}}
+* Macedonian: {{t+|mk|јазик|m|tr=jázik}}, {{t|mk|програмски јазик|m|tr=prógramski jázik}}
+* Malay: {{t+|ms|bahasa}}
+* Mizo: {{t|lus|ṭawng}}
+* Navajo: {{t|nv|saad}}
+* Norwegian: {{t+|no|språk|n}}, {{t+|no|programmeringsspråk|n}}
+* Novial: {{t|nov|lingue}}
+* Persian: {{t+|fa|زبان|tr=zabân}}
+* Polish: {{t+|pl|język|m}}
+* Portuguese: {{t+|pt|linguagem|f}}, {{t+|pt|linguagem de programação|f}}
+* Romanian: {{t+|ro|limbaj|n}}
+* Russian: {{t|ru|[[язык]] [[программирование|программирования]]|m|tr=jazýk programmírovanija|sc=Cyrl}}
+* Scottish Gaelic: {{t|gd|cànan|m}}
+* Serbo-Croatian: {{t+|sh|jezik|m}}
+* Silesian: {{t|szl|godka|f}}
+* Slovene: {{t|sl|jêzik|m}}
+* Spanish: {{t+|es|lenguaje|m}}
+* Swedish: {{t+|sv|språk|n}}, {{t|sv|datorspråk|n}}
+* Tamil: {{t+|ta|மொழி}}, {{t+|ta|பாசை}}
+* Turkish: {{t+|tr|dil}}
+* Ukrainian: {{t+|uk|мова|f|tr=móva}}
+* Vietnamese: {{t+|vi|ngôn ngữ}}, {{t|vi|ngôn ngữ máy tính}}
+* Yiddish: {{t+|yi|שפּראַך|f|tr=shprakh}}
+{{trans-bottom}}
+
 {{checktrans-top}}
 * Amuzgo: {{t-check|amu|jñò ndá}}
 * Bengali: {{t+check|bn|ভাষা|tr=bhāṣā}}
@@ -651,6 +651,7 @@ The English Wiktionary uses the English '''language''' to define words from all 
 #*: Others were '''languaged''' in such doubtful expressions that they have a double sense.
 
 ===See also===
+* [[lexis]], [[term]], [[word]]
 * [[bilingual]]
 * [[linguistics]]
 * [[multilingual]]
