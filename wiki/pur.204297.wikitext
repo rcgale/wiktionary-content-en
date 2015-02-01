@@ -60,20 +60,20 @@ From {{etyl|la|ca}} {{term|purus|lang=la}}.
 # [[pure]] (undiluted)
 
 ====Derived terms====
-* {{l|fr|apurement}}
-* {{l|fr|apurer}}
-* {{l|fr|corps pur}}
-* {{l|fr|épurateur}}
-* {{l|fr|épuration}}
-* {{l|fr|épure}}
-* {{l|fr|épuré}}
-* {{l|fr|épurer}}
-* {{l|fr|impur}}
-* {{l|fr|impurement}}
-* {{l|fr|impureté}}
-* {{l|fr|purement}}
-* {{l|fr|pureté}}
-* {{l|fr|puriste}}
+{{der3|{{l|fr|apurement}}
+|{{l|fr|apurer}}
+|{{l|fr|corps pur}}
+|{{l|fr|épurateur}}
+|{{l|fr|épuration}}
+|{{l|fr|épure}}
+|{{l|fr|épuré}}
+|{{l|fr|épurer}}
+|{{l|fr|impur}}
+|{{l|fr|impurement}}
+|{{l|fr|impureté}}
+|{{l|fr|purement}}
+|{{l|fr|pureté}}
+|{{l|fr|puriste}}}}
 
 ===External links===
 * {{R:TLFi}}
@@ -83,7 +83,7 @@ From {{etyl|la|ca}} {{term|purus|lang=la}}.
 ==German==
 
 ===Etymology===
-Borrowed from {{etyl|la|de}} {{term|pūrus|||lang=la}}.
+{{borrowing|la|pūrus|lang=de}}.
 
 ===Pronunciation===
 * {{rhymes|uːɐ̯|lang=de}}
@@ -92,7 +92,7 @@ Borrowed from {{etyl|la|de}} {{term|pūrus|||lang=la}}.
 ===Adjective===
 {{de-adj|purer|pursten}}
 
-# [[pure]] (free of flaws or imperfections)
+# [[pure]] {{gloss|free of flaws or imperfections}}
 
 ====Declension====
 {{de-decl-adj|pur|purer|purst}}
@@ -125,27 +125,28 @@ Borrowed from {{etyl|la|de}} {{term|pūrus|||lang=la}}.
 
 ----
 
-==Jèrriais==
-
-===Etymology===
-From {{etyl|fro|roa-jer}} {{m|fro|pur}}, from {{etyl|la|roa-jer}} {{m|la|pūrus}}.
-
-===Adjective===
-{{roa-jer-adj|f=puthe}}
-
-# [[#English|pure]]
-
-====Derived terms====
-{{der3|{{l|roa-jer|puthement||purely}}}}
-
-----
-
 ==Lojban==
 
 ===Rafsi===
 {{jbo-rafsi}}
 
 # {{jbo-rafsi of|purci}}
+
+----
+
+==Norman==
+
+===Etymology===
+From {{etyl|fro|nrf}} {{m|fro|pur}}, from {{etyl|la|nrf}} {{m|la|pūrus}}.
+
+===Adjective===
+{{nrf-adj|f=puthe}}
+
+# {{label|nrf|Jersey}} [[#English|pure]]
+
+====Derived terms====
+{{der3|{{l|nrf|puthement||purely}}
+|{{l|nrf|êputher||to purify}}}}
 
 ----
 
