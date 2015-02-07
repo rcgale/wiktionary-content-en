@@ -172,28 +172,34 @@ From adverbial use of the preposition in verbs such as [[abschlagen]], [[abgehen
 ==Irish==
 
 ===Etymology 1===
-From {{etyl|la|ga}} {{term|abbas||father|lang=la}}, from {{etyl|grc|ga}} {{term|ἀββᾶς|lang=grc}}, from {{etyl|arc|ga}} {{term|אבא||father|lang=arc|tr=’abbā|sc=Hebr}}.
+From {{etyl|la|ga}} {{m|la|abbas||father}}, from {{etyl|grc|ga}} {{m|grc|ἀββᾶς}}, from {{etyl|arc|ga}} {{m|arc|אבא||father|tr=’abbā|sc=Hebr}}.
+
+====Pronunciation===
+* {{IPA|/abˠ/|lang=ga}}
 
 ====Noun====
 {{ga-noun|g=m|aba|abaí}}
 
-# {{context|Christianity|lang=ga}} [[abbot]]
+# {{lb|ga|Christianity}} [[abbot]]
 
 =====Declension=====
-{{ga-noun-m3|a|b|ba|baí}}
+{{ga-decl-m3|a|b|ba|baí}}
 
 =====Coordinate terms=====
-* {{sense|gender}} {{l/ga|ban-ab}}, {{l/ga|máthairab}}
+* {{sense|gender}} {{l|ga|ban-ab}}, {{l|ga|máthairab}}
 
 ===Etymology 2===
 Contraction of the relative particle {{term|a|lang=ga}} and the prevocalic variant of the past/conditional copula particle {{term|b'|b’|lang=ga}}.
+
+====Pronunciation====
+* {{IPA|/əbˠ/|lang=ga}}
 
 ====Particle====
 {{head|ga|particle}}
 
 # {{alternative form of|ba|lang=ga|nodot=yes}} {{qualifier|used in relative clauses before a vowel sound}}.
-#: {{usex|Fear maith '''ab''' ea é.|t=He was a good man.|lang=ga|inline=1}}
-#: {{usex|buachaill '''ab''' áirde ná mo dheartháir|t=A boy (who was) taller than my brother|lang=ga|inline=1}}
+#: {{ux|ga|Fear maith '''ab''' ea é.|He was a good man.}}
+#: {{ux|ga|buachaill '''ab''' áirde ná mo dheartháir|a boy (who was) taller than my brother|inline=1}}
 
 =====Related terms=====
 {{ga-copular forms}}
