@@ -1,5 +1,4 @@
 {{also|SUS|Sus|šūs|süs}}
-
 ==English==
 
 ===Noun===
@@ -7,7 +6,7 @@
 
 # {{cx|UK|informal|lang=en}} [[suspicion]] (in terms of a [[sus law]])
 #* '''2002''', Simon James, ''British Government: A Reader in Policy Making'' (page 84)
-#*: The committee {{...}} said ''''sus'''' had acquired a symbolic significance out of all proportion to its significance as a criminal charge.
+#*: {{usex|The committee {{...}} said ''''sus'''' had acquired a symbolic significance out of all proportion to its significance as a criminal charge.|lang=en}}
 
 ----
 
@@ -62,8 +61,7 @@ From {{etyl|VL.|rup}} ''sūsum'' < {{etyl|la|rup}} {{term|sursūm|lang=la}}. Com
 {{fi-int}}
 
 # [[oh]]; used only in the expression shown in the example below.
-#* ''Sus [[siunatkoon]]!''
-#** [[oh my God|Oh my God]]!
+#* {{usex|Sus [[siunatkoon]]!|t=[[oh my God|Oh my God]]!|lang=fi}}
 
 [[Category:Finnish palindromes]]
 
@@ -104,32 +102,6 @@ see {{term|savoir|lang=fr}}
 
 ----
 
-==Guernésiais==
-
-===Etymology===
-From {{etyl|fro|roa-grn}}, from {{etyl|la|roa-grn}} {{term|sursum|lang=la}}.
-
-===Preposition===
-{{head|roa-grn|preposition}}
-
-# [[on]]
-
-[[Category:Guernésiais palindromes]]
-
-----
-
-==Jèrriais==
-
-===Pronunciation===
-* {{audio|Jer-sus.ogg|Audio}}
-
-===Verb===
-{{roa-jer-verb-form}}
-
-# {{inflection of|saver||1|s|pret||lang=roa-jer}}
-
-----
-
 ==Latin==
 
 ===Etymology===
@@ -150,12 +122,7 @@ From {{etyl|ine-pro|la}} {{m|ine-pro|*suH-}}. Compare Ancient Greek {{term|ὗς
 * {{l|la|porcus}}
 
 ====Derived terms====
-* {{l|la|suile}}
-* {{l|la|suillus}}
-* {{l|la|sucula}}
-* {{l|la|subulcus}}
-* {{l|la|sucerda}}
-* {{l|la|sucidia}}
+{{der3|suile|suillus|sucula|subulcus|sucerda|sucidia|lang=la}}
 
 ====Descendants====
 * Campidanese Sardinian: {{l|sro|sue}}
@@ -165,15 +132,15 @@ From {{etyl|ine-pro|la}} {{m|ine-pro|*suH-}}. Compare Ancient Greek {{term|ὗς
 * {{R:De Vaan 2008}}
 
 [[Category:Latin palindromes]]
-[[Category:la:Mammals]]
-
 [[Category:Latin irregular nouns]]
+{{catlangcode|la|Mammals}}
+
 ----
 
 ==Middle French==
 
 ===Etymology===
-{{etyl|la|frm}} {{term|sūrsum|lang=la}}.
+From {{etyl|la|frm}} {{m|la|sūrsum}}.
 
 ===Preposition===
 {{head|frm|preposition}}
@@ -181,16 +148,40 @@ From {{etyl|ine-pro|la}} {{m|ine-pro|*suH-}}. Compare Ancient Greek {{term|ὗς
 # [[on]]; [[on top of]]; [[atop]]
 
 ====Descendants====
-* French: {{l|fr|sus}} {{qualifier|obsolete}}
+* French: {{l/fr|sus}} {{qualifier|obsolete}}
 
 [[Category:Middle French palindromes]]
+
+----
+
+==Norman==
+
+===Pronunciation===
+* {{audio|Jer-sus.ogg|Audio (Jersey)|lang=nrf}}
+
+===Etymology 1===
+From {{etyl|fro|nrf}}, from {{etyl|la|nrf}} {{m|la|sursum}}.
+
+====Preposition====
+{{head|nrf|preposition}}
+
+# {{label|nrf|Guernsey}} [[on]]
+
+===Etymology 2===
+
+====Verb====
+{{nrf-verb-form}}
+
+# {{inflection of|saver||1|s|pret||lang=nrf}}
+
+[[Category:Norman palindromes]]
 
 ----
 
 ==Old French==
 
 ===Etymology 1===
-From {{etyl|la|fro}} {{term|subtus|lang=la}}.
+From {{etyl|la|fro}} {{m|la|subtus}}.
 
 ====Preposition====
 {{head|fro|preposition}}
@@ -198,10 +189,10 @@ From {{etyl|la|fro}} {{term|subtus|lang=la}}.
 # [[under]]; [[underneath]]
 
 =====Descendants=====
-* French: {{l|fr|sous}}
+* French: {{l/fr|sous}}
 
 ===Etymology 2===
-{{etyl|la|fro}} {{term|sūrsum|lang=la}}.
+From {{etyl|la|fro}} {{m|la|sūrsum}}.
 
 ====Preposition====
 {{head|fro|preposition}}
@@ -209,7 +200,7 @@ From {{etyl|la|fro}} {{term|subtus|lang=la}}.
 # [[on]]; [[on top of]]; [[atop]]
 
 =====Descendants=====
-* French: {{l|fr|sus}}
+* French: {{l/fr|sus}}
 
 [[Category:Old French palindromes]]
 
@@ -275,7 +266,7 @@ From {{term|suster|lang=fy}}, from {{etyl|ofs|fy}} {{term|swester|lang=ofs}}, fr
 
 # [[sister]]
 
-[[Category:fy:Family]]
+{{catlangcode|fy|Family}}
 [[Category:West Frisian palindromes]]
 
 [[af:sus]]
