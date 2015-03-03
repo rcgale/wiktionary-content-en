@@ -3,9 +3,9 @@
 ===Conjunction===
 {{en-con|head=[[let]] [[alone]]}}
 
-# {{context|idiomatic|negative polarity item|lang=en}} [[much less|Much less]]; [[to say nothing of]]; {{non-gloss definition|used after one negative clause to introduce another, usually broader and more important clause, whose negation is implied by the negation of the first.}}
-#: ''He couldn't boil water, [[let alone]] prepare a dinner for eight.''
-# {{context|idiomatic|positive polarity item|rare|lang=en}} [[not to mention]], as well as; {{non-gloss definition|used after one item, to introduce a further item which is entailed by the first.}}
+# {{label|en|idiomatic|negative polarity item}} [[much less|Much less]]; [[to say nothing of]]; {{non-gloss definition|used after one negative clause to introduce another, usually broader and more important clause, whose negation is implied by the negation of the first.}}
+#: {{usex|He couldn't boil water, [[let alone]] prepare a dinner for eight.|lang=en}}
+# {{label|en|idiomatic|positive polarity item|rare}} [[not to mention]], as well as; {{non-gloss definition|used after one item, to introduce a further item which is entailed by the first.}}
 
 ====Usage notes====
 * Sometimes used with the order of items reversed.
@@ -13,8 +13,8 @@
 ====Translations====
 {{trans-top|to say nothing of}}
 * Arabic: {{t|ar|ناهيك|tr=nāhīk(a)}}
-* Armenian: {{t|hy|էլ չասած|sc=Armn}}, {{t|hy|ուր մնաց|sc=Armn}}
-* Bulgarian: {{t|bg|камо ли|tr=kámo li|sc=Cyrl}}
+* Armenian: {{t|hy|էլ չասած}}, {{t|hy|ուր մնաց}}
+* Bulgarian: {{t|bg|ка́мо ли}}
 * Chinese:
 *: Mandarin: {{t|cmn|更不用說|sc=Hani}}, {{t|cmn|更不用说|tr=gèng bùyòng shuō|sc=Hani}}, {{t|cmn|何況|sc=Hani}}, {{t+|cmn|何况|tr=hékuàng|sc=Hani}}
 * Czech: {{t|cs|natož}}
@@ -28,15 +28,15 @@
 * Japanese: {{t|ja|どころか|tr=dokoroka}}, {{t|ja|もちろん|tr=mochiron}}
 {{trans-mid}}
 * Korean: {{t+|ko|커녕|sc=Kore}}
-* Macedonian: {{t|mk|камоли|tr=kámoli|sc=Cyrl}}
+* Macedonian: {{t|mk|ка́моли}}
 * Persian: {{t|fa|چه برسه|sc=fa-Arab}}
 * Polish: {{t|pl|co dopiero}}
 * Portuguese: {{t|pt|muito menos}}, {{t|pt|quanto mais}}
 * Romanian: {{t+|ro|darămite}}
-* Russian: {{t+|ru|не говоря уже|alt=не говоря уже (о)|tr=ne govorjá užé o}}, {{t+|ru|тем более|alt=(а) тем более|tr=(a) tem bóleje}}
+* Russian: {{t+|ru|не говоря уже|alt=не говоря́ уже́ (о)}}, {{t+|ru|тем более|alt=(а) тем бо́лее}}
 * Scottish Gaelic: {{t|gd|gun luaidh}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|још мање}}, {{t|sh|камоли}}, {{t|sh|а камоли}}
+*: Cyrillic: {{t|sh|још мање|sc=Cyrl}}, {{t|sh|камоли|sc=Cyrl}}, {{t|sh|а камоли|sc=Cyrl}}
 *: Roman: {{t|sh|još manje}}, {{t|sh|kamoli}}, {{t|sh|a kamoli}}
 * Spanish: {{t|es|mucho menos -que}}, {{t|es|ni qué hablar de}}, {{t|es|por no hablar de}},{{t|es| sin contar con}}
 * Swedish: {{t|sv|än mindre}}
@@ -45,8 +45,8 @@
 
 {{trans-top|as well as}}
 * Dutch: {{t|nl|laat staan}}
-{{trans-mid}}
 * Italian: {{t|it|così come}}, {{t|it|come anche}}
+{{trans-mid}}
 * Portuguese: {{t|pt|ainda mais}}
 * Spanish: {{t|es| así como}}, {{t|es| sin contar con}}, {{t|es| además de}}
 {{trans-bottom}}
@@ -60,12 +60,13 @@
 * {{R:MWDEU|596}}
 
 ===Verb===
-{{en-verb|head=[[let]] [[alone]]|lets alone|letting alone|let alone}}
+{{en-verb|lets alone|letting alone|let alone}}
 
-# {{context|transitive|lang=en}} To [[leave alone]], [[let be]]; to stop bothering.
-#: ''I wish he would '''let''' me '''alone''' so I could get some sleep.''
+# {{label|en|transitive}} To [[leave alone]], [[let be]]; to stop bothering.
+#: {{usex|I wish he would '''let''' me '''alone''' so I could get some sleep.|lang=en}}
 
 ====Translations====
-
 {{trans-top|leave alone}}
-*Spanish: {{t|es| dejar en paz}}. {{t|es| dejar}}, {{context|slang| no joder, no me joda}}
+* Spanish: {{t|es| dejar en paz}}. {{t|es| dejar}}, {{context|slang| no joder, no me joda}}
+{{trans-mid}}
+{{trans-bottom}}
