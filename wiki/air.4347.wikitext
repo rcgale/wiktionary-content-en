@@ -705,25 +705,12 @@ From {{etyl|ms|id}} {{term|air|lang=ms}}, from {{etyl|poz-mly-pro|id}} {{m|poz-m
 * {{IPA|[ɛɾʲ]|lang=ga}}
 
 ===Pronoun===
-{{head|ga|prepositional pronoun}}
+{{head|ga|prepositional pronoun|g=m}}
 
-# {{form of|3rd person singular masculine form|ar|lang=ga}} {{gloss|on him, on it {{g|m}}}}
+# {{inflection of|ar||3|s|m|lang=ga}} {{gloss|on him, on it {{g|m}}}}
 
 ====Derived terms====
 * {{l/ga|airsean}} {{qualifier|emphatic}}
-
-----
-
-==Jèrriais==
-
-===Etymology===
-From {{etyl|la|roa-jer}} {{m|la|āēr}}.
-
-===Noun===
-{{roa-jer-noun|m}}
-
-# [[#English|air]]
-[[Category:roa-jer:Air]]
 
 ----
 
@@ -769,6 +756,23 @@ From {{etyl|poz-mly-pro|ms}} {{m|poz-mly-pro|*air}}, from {{etyl|poz-mcm-pro|ms}
 
 ----
 
+==Norman==
+
+===Etymology===
+From {{etyl|la|nrf}} {{m|la|āēr}}.
+
+===Noun===
+{{nrf-noun|m}}
+
+# [[#English|air]]
+
+====Related terms====
+* {{l|nrf|atmosphère}}, {{l|nrf|atmosphéthe}}
+
+{{catlangcode|nrf|Air}}
+
+----
+
 ==Scottish Gaelic==
 
 ===Etymology===
@@ -792,8 +796,8 @@ From {{etyl|poz-mly-pro|ms}} {{m|poz-mly-pro|*air}}, from {{etyl|poz-mcm-pro|ms}
 ====Usage notes====
 * '''Air''' combines with personal pronouns to form prepositional pronouns. See ''Derived forms'' below. Specifically for ''air'' the third-person singular masculine pronoun is identical to the uninflected preposition, hence ''air'' = ''on'' or ''on him''.
 * The word '''air''' and its derivates are also used in many idioms:
-*: {{usex|De an t-ainm a tha ort?|What's your name? (Literally: What name is on you?)|inline=1|lang=gd}}
-*: {{usex|Tha an t-acras orm.|t=I'm hungry. (Literally: the hunger is on me.)|inline=1|lang=gd}}
+*: {{usex|De an t-ainm a tha ort?|What's your name? (What name is '''on you'''?)|inline=1|lang=gd}}
+*: {{usex|Tha an t-acras orm.|t=I'm hungry. (The hunger is '''on me'''.)|inline=1|lang=gd}}
 
 ====Derived terms====
 {{der3|{{l|gd|air dheireadh||behind; late}}
@@ -811,12 +815,10 @@ From {{etyl|poz-mly-pro|ms}} {{m|poz-mly-pro|*air}}, from {{etyl|poz-mcm-pro|ms}
  |3pl    = orra
 }}
 
-===Prepositional pronoun===
-{{rfc-header|Prepositional pronoun|lang=gd}}
-{{head|gd|prepositional pronoun}}
+===Pronoun===
+{{head|gd|prepositional pronoun|g=m}}
 
-# [[on]] [[him]]
-# on [[it]]
+# {{inflection of|ar||3|s|m|lang=ga}} {{gloss|[[on]] [[him]], on [[it]] {{g|m}}}}
 
 ====See also====
 * [[prepositional pronoun]]
