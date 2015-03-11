@@ -313,7 +313,7 @@ From {{etyl|ojp|ja|sort=ひと}}.
 /hi<sub>1</sub>to<sub>2</sub>/: *pitə > ɸito > çito
 
 ====Pronunciation====
-{{ja-pron|ひと|acc=h|y=kun|dev=1}}
+{{ja-pron|ひと|acc=h|y=kun|dev=1|acc_ref=NHK}}
 
 ====Noun====
 {{ja-noun|ひと|count=人}}
@@ -348,8 +348,7 @@ From {{etyl|ojp|ja|sort=ひと}}.
 From {{etyl|ltc|ja|sort=にん}} {{term|sc=Hani|人}}.
 
 ====Pronunciation====
-* [[音読み|On'yomi]]: [[呉音|''goon'']]
-* {{IPA|lang=ja|[nĩɴ]}}
+{{ja-pron|にん|y=goon}}
 
 ====Counter====
 {{ja-pos|にん|counter}}
@@ -363,11 +362,13 @@ The above reading is used when counting three people or more.  When counting one
 From {{etyl|ltc|ja|sort=しん'}} {{term|sc=Hani|人}}.  Later borrowing than ''nin''.
 
 ====Pronunciation====
-* [[音読み|On'yomi]]: [[漢音|kan'on]]
-* {{IPA|lang=ja|[d͡ʑĩɴ]}}
+{{ja-pron|じん|y=kan'on}}
 
 ====Suffix====
 {{ja-pos|じん|suffix}}
+
+===References===
+<references/>
 
 # [[person]] from that group; [[-ian]]
 # person who does the activity of the suffixed word
