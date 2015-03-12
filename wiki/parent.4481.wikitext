@@ -89,7 +89,7 @@ From {{etyl|enm|en}} {{term|parent|lang=enm}}, from {{etyl|xno|en}} {{term|paren
 * Friulian: {{t|fur|genitôr|m}}
 * Georgian: {{t|ka|მშობელი|sc=Geor}}
 * German: {{qualifier|♂♀}} {{t+|de|Elternteil|m|n}}, {{qualifier|technical, ♂♀}} {{t+|de|Elter|m|n}}
-* Greek: {{t+|el|γονέας|m|tr=gonéas}}, {{t+|el|γεννήτορας|m|tr=genítoras}}
+* Greek: {{t+|el|γονέας|m}}, {{t+|el|γεννήτορας|m}}
 * Greenlandic: {{t|kl|angajoqqaa}}
 * Hawaiian: {{t|haw|makua}}
 * Hebrew: {{t+|he|הוֹרֶה |m|sc=Hebr}}
@@ -149,7 +149,7 @@ From {{etyl|enm|en}} {{term|parent|lang=enm}}, from {{etyl|xno|en}} {{term|paren
 * Dutch: {{t+|nl|ouder|m}}
 * Finnish: {{t+|fi|vanhempi}}, {{t|fi|ottovanhempi}}
 * Georgian: {{t|ka|მშობელი|sc=Geor}}
-* Greek: {{t+|el|γονέας|m|tr=gonéas}}
+* Greek: {{t+|el|γονέας|m}}
 * Irish: {{t|ga|tuismitheoir|m}}
 * Japanese: {{qualifier|parent}} {{t+|ja|親|tr=[[おや]], oya}}, {{qualifier|foster father and mother}} {{t|ja|養父母|tr=[[ようふぼ]], yō-fubo}}
 {{trans-mid}}
@@ -163,7 +163,7 @@ From {{etyl|enm|en}} {{term|parent|lang=enm}}, from {{etyl|xno|en}} {{term|paren
 {{trans-bottom}}
 
 {{trans-top|biology: organism from which a plant or animal is biologically descended}}
-* Armenian: {{t+|hy|ծնող|tr=çnoġ|sc=Armn}}
+* Armenian: {{t+|hy|ծնող|sc=Armn}}
 * Czech: {{t+|cs|rodič|m}}
 * Dutch: {{t+|nl|ouder|m}}
 * Finnish: {{t+|fi|vanhempi}}
@@ -316,20 +316,6 @@ From {{etyl|fro|fr}} {{term|parent|lang=fro}}, from {{etyl|la|fr}} {{term|parēn
 
 ----
 
-==Guernésiais==
-
-===Etymology===
-From {{etyl|fro|roa-grn}} {{term|parent|lang=fro}}, from {{etyl|la|roa-grn}} {{term|parens|parēns, parentem|lang=la}}, present participle of {{term|pario|pariō, parere|breed, bring forth|lang=la}}.
-
-===Noun===
-{{roa-grn-noun|m}}
-
-# [[#English|parent]]
-
-[[Category:roa-grn:Family]]
-
-----
-
 ==Latin==
 
 ===Verb===
@@ -344,7 +330,21 @@ From {{etyl|fro|roa-grn}} {{term|parent|lang=fro}}, from {{etyl|la|roa-grn}} {{t
 ===Noun===
 {{frm-noun|m|parens}}
 
-# {{l|en|parent}}
+# {{l/en|parent}}
+
+----
+
+==Norman==
+
+===Etymology===
+From {{etyl|fro|nrf}} {{term|parent|lang=fro}}, from {{etyl|la|nrf}} {{term|parens|parēns, parentem|lang=la}}, present participle of {{term|pario|pariō, parere|breed, bring forth|lang=la}}.
+
+===Noun===
+{{nrf-noun|m}}
+
+# {{label|nrf|Guernsey}} {{l/en|parent}}
+
+[[Category:nrf:Family]]
 
 ----
 
@@ -356,15 +356,15 @@ From {{etyl|la|fro}} {{term|parēns|lang=la}}, ''parentem''.
 ===Noun===
 {{fro-noun|m}}
 
-# {{l|en|parent}}
+# {{l/en|parent}}
 
 ====Derived terms====
 * [[parenté]]
 * [[parentage]]
 
 ====Descendants====
-* English: {{l|en|parent}}
-* French: {{l|fr|parent}}
+* English: {{l/en|parent}}
+* French: {{l/fr|parent}}
 
 [[ast:parent]]
 [[zh-min-nan:parent]]
