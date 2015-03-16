@@ -25,41 +25,16 @@ From {{suffix|soft|ware|lang=en}}, by contrast with {{term|hardware||the compute
 * See also [[Wikisaurus:software]]
 
 ====Derived terms====
-{{rel-top3|Terms derived from "software"}}
-* {{l/en|application software}}
-* {{l/en|kitchen table software}}
-* {{l/en|software assurance}}
-{{rel-mid3}}
-* {{l/en|software design}}
-* {{l/en|software engineering}}
-* {{l/en|software state}}
-{{rel-mid3}}
-* {{l/en|system software}}
-* {{l/en|-ware}}<!-- in sense "class of software" -->
-{{rel-bottom}}
+{{der3|application software|kitchen table software|software assurance|software design|software engineering|software state|system software|{{l/en|-ware}}<!-- in sense "class of software" -->|lang=en}}
 
 ====Related terms====
-{{rel-top3|Terms etymologically related to "software"}}
-* [[adware]]
-* [[bloatware]]
-* [[firmware]]
-* [[freeware]]
-{{rel-mid3}}
-* [[hardware]]
-* [[malware]]
-* [[schlockware]]
-* [[shareware]]
-{{rel-mid3}}
-* [[spyware]]
-* [[vaporware]]
-* [[wetware]]
-{{rel-bottom}}
+{{rel3|adware|bloatware|firmware|freeware|hardware|malware|schlockware|shareware|spyware|vaporware|wetware|lang=en}}
 
 ====Translations====
 {{trans-top|encoded computer instructions}}
 * Afrikaans: {{t|af|sagteware}}, {{t|af|programmatuur}}
 * Arabic: {{t|ar|برمجيات|p|tr=barmajiyāt}}, {{t|ar|برامج الحاسب|m-p|tr=barāmij al-ḥāsib}}
-* Armenian: {{t|hy|ծրագրային ապահովում|tr=cragrayin apahovum|sc=Armn}}
+* Armenian: {{t|hy|ծրագրային ապահովում}}
 * Bengali: {{t|bn|সফটওয়্যার|tr=sôphţowar|sc=Beng}}
 * Catalan: {{t+|ca|programari|m}}
 * Chinese:
@@ -71,7 +46,7 @@ From {{suffix|soft|ware|lang=en}}, by contrast with {{term|hardware||the compute
 * Finnish: {{t+|fi|ohjelmisto}}, {{t+|fi|tietokoneohjelma}}, {{t|fi|softa}}
 * French: {{t+|fr|logiciel|m}}
 * German: {{t+|de|Software|f}}
-* Greek: {{t+|el|λογισμικό|n|tr=logizmikó}}
+* Greek: {{t+|el|λογισμικό|n}}
 * Hebrew: {{t|he|תוכנה|f}}
 * Hungarian: {{t+|hu|szoftver}}
 * Indonesian: {{t|id|piranti lunak}}
@@ -93,8 +68,7 @@ From {{suffix|soft|ware|lang=en}}, by contrast with {{term|hardware||the compute
 * Russian: {{t+|ru|программное обеспечение|n|tr=prográmmnoje obespečénije}}, {{t|ru|софтвер|n|m|tr=sóftvɛr, softvɛ́r}}, {{t|ru|ПО|n|tr=pɛ-ó|sc=Cyrl}}, {{t+|ru|софт|m|tr=soft|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|bathar-bog|m}}
 * Serbo-Croatian:
-*: Cyrillic:
-*: Roman: [[programska oprema]], [[napudbina]], [[mekušje]], [[mekovlje]], [[mekotvorina]], [[softver]], {{t|sh|programska potpora|f}}, {{t|sh|programska podrška|f}}
+*: Roman: {{t|sh|programska oprema}}, {{t|sh|napudbina}}, {{t|sh|mekušje}}, {{t|sh|mekovlje}}, {{t|sh|mekotvorina}}, {{t|sh|softver}}, {{t|sh|programska potpora|f}}, {{t|sh|programska podrška|f}}
 * Sindhi: {{t+|sd|منطقگري|f}}
 * Slovak: {{t|sk|softvér|m}}
 * Spanish: {{t+|es|software|m}}, {{t+|es|programa|m}}
@@ -136,33 +110,36 @@ From {{suffix|soft|ware|lang=en}}, by contrast with {{term|hardware||the compute
 ==Italian==
 
 ===Etymology===
-{{etyl|en|it}}
+{{borrowing|en|lang=it}}.
 
 ===Noun===
 {{head|it|noun|g=m|invariable}}
 
-# {{context|computing|lang=it}} [[#English|software]]
+# {{lb|it|computing}} [[#English|software]]
 
 ----
 
-==Jèrriais==
+==Norman==
 
 ===Etymology===
-From {{etyl|en|roa-jer}} {{term|software|lang=en}}.
+{{borrowing|en|software|lang=nrf}}.
 
 ===Noun===
-{{roa-jer-noun|m|pl=-}}
+{{nrf-noun|m|pl=-}}
 
-# {{context|computing|lang=roa-jer}} [[#English|software]]
+# {{lb|nrf|Jersey|computing}} [[#English|software]]
 
 ----
 
 ==Portuguese==
 
+===Etymology===
+{{borrowing|en|lang=pt}}.
+
 ===Noun===
 {{pt-noun|m}}
 
-# {{label|pt|computing}} {{l|en|software}} {{gloss|encoded computer instructions}}
+# {{lb|pt|computing}} {{l|en|software}} {{gloss|encoded computer instructions}}
 
 [[am:software]]
 [[zh-min-nan:software]]
