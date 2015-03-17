@@ -539,7 +539,7 @@ From {{etyl|enm|en}} {{term|leden|lang=enm}}, from {{etyl|ang|en}} {{term|lǣdan
 * Bulgarian: {{t+|bg|водя|tr=vódja}}
 * Chinese:
 *: Mandarin: {{t+|cmn|引導|sc=Hani}}, {{t+|cmn|引导|tr=yǐndǎo|sc=Hani}}
-* Czech: {{t+|cs|vést}}, {{t|cs|vodit}}
+* Czech: {{qualifier|abstract}} {{t|cs|vodit}}, {{qualifier|concrete}} {{t+|cs|vést}}
 * Dalmatian: {{t|dlm|menur}}
 * Dutch: {{t+|nl|leiden}}
 * Esperanto: {{t|eo|konduki}}
@@ -560,11 +560,11 @@ From {{etyl|enm|en}} {{term|leden|lang=enm}}, from {{etyl|ang|en}} {{term|lǣdan
 * Lithuanian: {{t|lt|vesti}}
 * Macedonian: {{t|mk|води|tr=vódi|sc=Cyrl}}
 * Malayalam: {{t|ml|നയിയ്ക്കുക|sc=Mlym}}
-* Old Church Slavonic: {{qualifier|abstract}} {{t|cu|водити|sc=Cyrs}}, {{t|cu|вєсти|sc=Cyrs}}
+* Old Church Slavonic: {{qualifier|abstract}} {{t|cu|водити|sc=Cyrs}}, {{qualifier|concrete}} {{t|cu|вєсти|sc=Cyrs}}
 * Polish: {{qualifier|abstract}} {{t+|pl|wodzić}}, {{qualifier|concrete}} {{t|pl|wieść}}; {{t+|pl|prowadzić}}, {{t|pl|poprowadzić}}, {{t|pl|zaprowadzić}}, {{t+|pl|doprowadzać}}, {{t+|pl|przeprowadzać}}
 * Portuguese: {{t+|pt|guiar}}, {{t+|pt|conduzir}}
 * Romanian: a {{t+|ro|duce}}
-* Russian: {{t+|ru|водить|impf|tr=vodítʹ}}, {{t+|ru|вести|impf|tr=vestí}}, {{t+|ru|приводить|impf|tr=privodítʹ|sc=Cyrl}}, {{t+|ru|привести|pf|tr=privestí|sc=Cyrl}}
+* Russian: {{qualifier|abstract}} {{t+|ru|води́ть|impf}}, {{qualifier|concrete}} {{t+|ru|вести́|impf|tr=vestí}}; {{t+|ru|приводи́ть|impfsc=Cyrl}}, {{t+|ru|привести́|pf|sc=Cyrl}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|водити}}
 *: Roman: {{t|sh|voditi}}
