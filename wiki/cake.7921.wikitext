@@ -187,8 +187,8 @@ From {{etyl|enm|en}} {{term|cake|lang=enm}}, from {{etyl|non|en}} {{term|kaka||c
 * Afrikaans: {{t|af|koek}}
 * Albanian: {{t|sq|tortë|f}}, {{t|sq|kek}}
 * Amharic: {{t|am|ኬከ|sc=Ethi}}
-* Arabic: {{t|ar|كعكة|f|tr=ká3ka|sc=Arab}}
-*: Egyptian Arabic: {{t|arz|كيك|m-p|tr=kék|sc=Arab}}, {{t|arz|كيكة|f|tr=kéka|sc=Arab}}
+* Arabic: {{t|ar|كَعْكَة|f|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|كيك|m-p|tr=kek|sc=Arab}}, {{t|arz|كيكة|f|tr=keka|sc=Arab}}
 * Aragonese: {{t|an|cocca|f}}
 * Armenian: {{t|hy|տորթ|sc=Armn}}
 * Aromanian: {{t|rup|keadin}}
@@ -197,16 +197,16 @@ From {{etyl|enm|en}} {{term|cake|lang=enm}}, from {{etyl|non|en}} {{term|kaka||c
 * Bashkir: {{t|ba|торт|sc=Cyrl}}
 * Basque: {{t|eu|pastela}}
 * Belarusian: {{t|be|торт|m|sc=Cyrl}} {{qualifier|large}}, {{t|be|піро́жнае|n|sc=Cyrl}} {{qualifier|small}}
-* Bengali: {{t|bn|পিঠা|tr=piṭhā|sc=Beng}}
+* Bengali: {{t|bn|পিঠা|tr=piţha|sc=Beng}}
 * Breton: {{t+|br|gwastell|f}}
-* Bulgarian: {{t|bg|торта|f|sc=Cyrl}}
-* Burmese: {{t+|my|ကိတ်မုန့်|tr=kit-mun.|sc=Mymr}}
+* Bulgarian: {{t|bg|то́рта|f|sc=Cyrl}}
+* Burmese: {{t+|my|ကိတ်မုန့်|sc=Mymr}}
 * Catalan: {{t+|ca|pastís|m}}
 * Chechen: {{t|ce|мерза хьокхум}}
 * Cheyenne: {{t|chy|vé'keahonoo'o}}
 * Chinese:
 *: Mandarin: {{t+|cmn|蛋糕|tr=dàngāo|sc=Hani}}
-*: Min Nan: {{t+|nan|雞卵糕|tr=ke-nn̄g-ko or kue-nn̄g-ko|sc=Hans}}
+*: Min Nan: {{t+|nan|雞卵糕|tr=ke-nn̄g-ko/kue-nn̄g-ko|sc=Hans}}
 * Corsican: {{t|co|pastadolce}}
 * Czech: {{t+|cs|dort|m}}
 * Danish: {{t+|da|kage|c}}, {{t|da|lagkage}}
@@ -223,13 +223,12 @@ From {{etyl|enm|en}} {{term|cake|lang=enm}}, from {{etyl|non|en}} {{term|kaka||c
 * German: {{t+|de|Kuchen|m}}
 *: Alemannic German: {{t|gsw|Chueche|m}}
 * Gothic: {{t|got|𐌺𐍉𐌺𐌰|m|sc=Goth}}
-* Greek:
+* Greek: {{t+|el|τούρτα|f|sc=Grek}}, {{t+|el|κέικ|n|sc=Grek}}
 *: Ancient: {{t|grc|πέμμα|sc=polytonic}}
-*: Modern: {{t+|el|τούρτα|f|sc=Grek}}, {{t+|el|κέικ|n|sc=Grek}}
 * Guaraní: {{t|gn|[[mbujape]] [[he'ẽ]]}}
-* Gujarati: {{t|gu|કેક|f|tr=kēka|sc=Gujr}}
+* Gujarati: {{t|gu|કેક|f|tr=kēk|sc=Gujr}}
 * Hebrew: {{t+|he|עוּגָה|f|tr=uga|sc=Hebr}}
-* Hindi: {{t|hi|केक|f|tr=kēka|sc=Deva}}
+* Hindi: {{t|hi|केक|f|sc=Deva}}
 * Hungarian: {{t+|hu|torta}}, {{t+|hu|sütemény}}, {{t+|hu|tészta}}
 * Icelandic: {{t+|is|kaka|f}}
 * Ido: {{t+|io|kuko}}
@@ -247,7 +246,7 @@ From {{etyl|enm|en}} {{term|cake|lang=enm}}, from {{etyl|non|en}} {{term|kaka||c
 * Lao: {{t|lo|ເຄັກ|sc=Laoo}}
 * Latin: {{t|la|placenta|f}}
 {{trans-mid}}
-* Latvian: {{t+|lv|kūka}}, {{t|lv|torte}}
+* Latvian: {{t+|lv|kūka|f}}, {{t|lv|torte|f}}
 * Lithuanian: {{t|lt|pyragaitis|m}}, {{t|lt|pyragas|m}}, {{t|lt|tortas|m}}
 * Luhya: {{t|luy|ekeki}}
 * Luxembourgish: {{t+|lb|Kuch|m}}
@@ -257,11 +256,12 @@ From {{etyl|enm|en}} {{term|cake|lang=enm}}, from {{etyl|non|en}} {{term|kaka||c
 * Maltese: {{t|mt|kejk|m}}
 * Maori: {{t|mi|keke}}
 * Mapudungun: {{t|arn|[[kochü]] [[kofke]]}}
-* Marathi: {{t|mr|केक|m|tr=keka|sc=Deva}}
+* Marathi: {{t|mr|केक|m|sc=Deva}}
 * Mirandese: {{t|mwl|bolho|m}}
 * Nauruan: {{t+|na|keik}}
 * Navajo: {{t|nv|bááh łikaní}}, {{t|nv|masdéél}}, {{t|nv|basdéél}}
-* Norwegian: {{t+|no|kake|m}}
+* Norwegian:
+*: Bokmål: {{t+|no|kake|m}}
 * Novial: {{t-needed|nov}}
 * Occitan: {{t+|oc|còca|f}}
 * Old Norse: {{t|non|kaka}}
@@ -301,7 +301,7 @@ From {{etyl|enm|en}} {{term|cake|lang=enm}}, from {{etyl|non|en}} {{term|kaka||c
 * Volapük: {{t+|vo|kek}}
 * Walloon: {{t+|wa|wastea}}
 * Welsh: {{t+|cy|teisen|f}}
-* Yiddish: {{t|yi|קוכן|m|tr=kukhn|sc=Hebr}}
+* Yiddish: {{t|yi|קוכן|m|sc=Hebr}}
 {{trans-bottom}}
 
 {{trans-top|small mass of baked dough}}
