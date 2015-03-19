@@ -438,7 +438,7 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{m|ang|flēo
 *: Bokmål: {{t+|nb|fly}}, {{t|nb|flyge}}
 *: Nynorsk: {{t|nn|fly}}, {{t|nn|flyge}}
 * Occitan: {{t+|oc|volar}}
-* Old Church Slavonic: {{t|cu|лѣтати|impf|sc=Cyrs}}, {{t|cu|летѣти|impf|sc=Cyrs}}
+* Old Church Slavonic: {{qualifier|abstract}} {{t|cu|лѣтати|impf|sc=Cyrs}}, {{qualifier|concrete}} {{t|cu|летѣти|impf|sc=Cyrs}}
 * Pashto: {{t+|ps|الوتل|tr=alwatəl|sc=ps-Arab}}
 * Persian: {{t+|fa|پرواز کردن|tr=parvâz kardan|sc=fa-Arab}}, {{t+|fa|پریدن|tr=paridan|sc=fa-Arab}}
 * Pipil: {{t|ppl|patani}}
@@ -461,8 +461,8 @@ From {{etyl|enm|en}} {{term|flien|lang=enm}}, from {{etyl|ang|en}} {{m|ang|flēo
 * Slovak: {{t|sk|lietať|impf}} {{qualifier|abstract}}, {{t|sk|letieť|impf}} {{qualifier|concrete}}
 * Slovene: {{t+|sl|leteti|impf}} {{qualifier|concrete}}
 * Sorbian:
-*: Lower Sorbian: {{t|dsb|leśeś|impf}} {{qualifier|concrete}}, {{t|dsb|lětaś|impf}} {{qualifier|abstract}}
-*: Upper Sorbian: {{t|hsb|lětać|impf}}, {{t|hsb|lećeć|impf}}
+*: Lower Sorbian: {{qualifier|abstract}} {{t|dsb|lětaś|impf}}, {{qualifier|concrete}} {{t|dsb|leśeś|impf}}
+*: Upper Sorbian: {{qualifier|abstract}} {{t|hsb|lětać|impf}}, {{qualifier|concrete}} {{t|hsb|lećeć|impf}}
 * Spanish: {{t+|es|volar}}
 * Sundanese: {{t|su|hiber}}, {{t|su|ngapung}}
 * Swahili: {{t|sw|kuruka}}
