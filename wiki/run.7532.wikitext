@@ -305,14 +305,14 @@ From {{etyl|enm|en}} {{m|enm|ronnen||to run}}, alteration (due to the past parti
 * German: {{t+|de|rennen}}, {{t+|de|laufen}}
 * Greek: {{t+|el|τρέχω}}
 * Hebrew: {{t+|he|רָץ|tr=rats}}
-* Hindi: {{t|hi|दौड़ना}}
+* Hindi: {{t|hi|दौड़ना|tr=dauṛnā}}
 * Hungarian: {{t+|hu|fut}}
 * Icelandic: {{t+|is|hlaupa}}
 * Ido: {{t+|io|kurar}}, {{t+|io|hastar}}
 * Indonesian: {{t+|id|lari}}, {{t+|id|lari|alt=berlari}}, {{t+|id|jalan|alt=menjalankan}}
 * Irish: {{t|ga|rith}}
 * Italian: {{t+|it|correre}}
-* Japanese: {{t+|ja|走る|tr=[[はしる]], hashiru}}
+* Japanese: {{t+|ja|走る|tr=はしる, hashiru}}
 * Kannada: {{t+|kn|ಓಡು|sc=Knda}}
 * Kazakh: {{t|kk|жүгіру|sc=Cyrl}}
 * Khmer: {{t+|km|រត់|tr=rʊət|sc=Khmr}}
@@ -338,12 +338,12 @@ From {{etyl|enm|en}} {{m|enm|ronnen||to run}}, alteration (due to the past parti
 * Novial: {{t|nov|kurse}}
 * Occitan: {{t+|oc|córrer}}
 * Old Church Slavonic:
-*: Cyrillic: {{qualifier|abstract}} {{t|cu|бѣгати|sc=Cyrs}}, {{qualifier|concrete}} {{t|cu|бѣжати|sc=Cyrs}}
-*: Glagolitic: {{qualifier|abstract}} {{t|cu|ⰱⱑⰳⰰⱅⰹ|sc=Glag}}, {{qualifier|concrete}} {{t|cu|ⰱⱑⰶⰰⱅⰹ|sc=Glag}}
-* Old East Slavic: {{t|orv|бѣгати}}, {{t|orv|бѣжати}}
+*: Cyrillic: {{t|cu|бѣгати|impf|sc=Cyrs}} {{qualifier|abstract}}, {{t|cu|бѣжати|impf|sc=Cyrs}} {{qualifier|concrete}}
+*: Glagolitic: {{t|cu|ⰱⱑⰳⰰⱅⰹ|impf|sc=Glag}} {{qualifier|abstract}}, {{t|cu|ⰱⱑⰶⰰⱅⰹ|impf|sc=Glag}} {{qualifier|concrete}}
+* Old East Slavic: {{t|orv|бѣгати|impf}} {{qualifier|abstract}}, {{t|orv|бѣжати|impf}} {{qualifier|concrete}}
 * Ossetian: {{t-needed|os}}
 * Persian: {{t+|fa|دویدن|tr=davidan|sc=fa-Arab}}
-* Polabian: {{qualifier|concrete}} {{t|pox|bezǝt|impf}}
+* Polabian: {{t|pox|bezǝt|impf}} {{qualifier|concrete}}
 * Polish: {{t+|pl|biegać|impf}} {{qualifier|abstract}}, {{t+|pl|biec|impf}} {{qualifier|concrete}}
 * Portuguese: {{t+|pt|correr}}
 * Romanian: {{t+|ro|alerga|alt=a alerga}}, {{t+|ro|fugi|alt=a fugi}}
@@ -361,8 +361,8 @@ From {{etyl|enm|en}} {{m|enm|ronnen||to run}}, alteration (due to the past parti
 * Slovene: {{t+|sl|teči|impf}}
 * Slovincian: {{t|zlw-slv|bjìe̯găc|impf}} {{qualifier|abstract}}
 * Sorbian:
-*: Lower Sorbian: {{t|dsb|běžaś|impf}}
-*: Upper Sorbian: {{t|hsb|běžeć|impf}}
+*: Lower Sorbian: {{t|dsb|běžaś|impf}} {{qualifier|concrete}}
+*: Upper Sorbian: {{t|hsb|běžeć|impf}} {{qualifier|concrete}}
 * Spanish: {{t+|es|correr}}
 * Swahili: {{t|sw|kukimbia}}
 * Swedish: {{t+|sv|springa}}
