@@ -25,7 +25,7 @@
 * {{rhymes|ɑː(ɹ)d|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{term|carde|lang=enm||playing card}}, from {{etyl|fro|en}} {{term|carte||lang=fro}}, from {{etyl|la|en}} {{term|charta|lang=la}}, from {{etyl|grc|en}} {{term|χάρτης||paper, papyrus|tr=chartēs|lang=grc|sc=polytonic}}.
+From {{etyl|enm|en}} {{term|carde|lang=enm||playing card}}, from {{etyl|fro|en}} {{term|carte||lang=fro}}, from {{etyl|la|en}} {{term|charta|lang=la}}, from {{etyl|grc|en}} {{term|χάρτης||paper, papyrus|lang=grc|sc=polytonic}}.
 
 ====Noun====
 {{en-noun|~}}
@@ -135,13 +135,13 @@ From {{etyl|enm|en}} {{term|carde|lang=enm||playing card}}, from {{etyl|fro|en}}
 * Albanian: {{t|sq|kartë|f}}
 * Arabic: {{t|ar|بطاقة|f|tr=biṭāqa}}
 * Aragonese: {{t-needed|an}}
-* Armenian: {{t+|hy|քարտ|tr=k’art}}
+* Armenian: {{t+|hy|քարտ}}
 * Aromanian: {{t-needed|rup}}
 * Asturian: {{t|ast|tarxeta|f}}
 * Azeri: {{t|az|kart}}
 * Bashkir: {{t-needed|ba}}
 * Basque: {{t|eu|txartela}}, {{t+|eu|txartel}}
-* Belarusian: {{t|be|карты|m|tr=karty|sc=Cyrl}}
+* Belarusian: {{t|be|карты|m|sc=Cyrl}}
 * Breton: {{t-needed|br}}
 * Bulgarian: {{t+|bg|карта|f}}, {{t|bg|картичка|f}}
 * Catalan: {{t|ca|targeta|f}}
@@ -157,9 +157,9 @@ From {{etyl|enm|en}} {{term|carde|lang=enm||playing card}}, from {{etyl|fro|en}}
 * French: {{t+|fr|carte|f}}, {{t+|fr|fiche|f}}
 * Friulian: {{t|fur|cjarte|f}}
 * Galician: {{t|gl|tarxeta|f}}
-* Georgian: {{t|ka|ბარათის|tr=barat’is|sc=Geor}}, {{t|ka|ბარათით|tr=barat’it’|sc=Geor}}
+* Georgian: {{t|ka|ბარათის|sc=Geor}}, {{t|ka|ბარათით|sc=Geor}}
 * German: {{t+|de|Karte|f}}
-* Greek: {{t+|el|κάρτα|f|tr=karta}}
+* Greek: {{t+|el|κάρτα|f}}
 * Gujarati: {{t|gu|કાર્ડ|m|tr=kārḍa|sc=Gujr}}
 * Hausa: {{t-needed|ha}}
 * Hebrew: {{t+|he|קלף|tr=qlaf|m}} - ''paper card for games''; {{t+|he|כרטיס|tr=kart'ys|m}} - ''any plastic card and paper card for greetings or personal business information''
@@ -173,18 +173,18 @@ From {{etyl|enm|en}} {{term|carde|lang=enm||playing card}}, from {{etyl|fro|en}}
 * Japanese: {{t+|ja|カード|tr=kādo}}
 * Khmer: {{t+|km|កាត|tr=kaat|sc=Khmr}}
 * Korean: {{t+|ko|카드|sc=Kore}}
-* Lao: {{t|lo|ບັດປະ|tr=bad pa|sc=Laoo}}
+* Lao: {{t|lo|ບັດປະ|sc=Laoo}}
 * Latvian: {{t|lv|karšu|m}}
 * Lithuanian: {{t+|lt|korta|f}}, {{t|lt|kortelė|f}}
 * Luxembourgish: {{t|lb|Kaart|f}}
-* Macedonian: {{t|mk|карта|f|tr=kárta}}, {{t|mk|картичка|f|tr=kártička}}
+* Macedonian: {{t|mk|карта|f}}, {{t|mk|картичка|f}}
 * Malay: {{t+|ms|kad}}
 * Norwegian: {{t+|no|kort|n}}
 * Persian: {{t+|fa|کارت|tr=kârt|sc=fa-Arab}}
 * Pitcairn-Norfolk: {{t|pih|kaad}}
 * Portuguese: {{t+|pt|cartão|m}}, {{t+|pt|carta|f}}
 * Romanian: {{t|ro|card|m}}, {{t+|ro|carte|f}}
-* Russian: {{t+|ru|карточка|f|tr=kártočka}}
+* Russian: {{t+|ru|ка́рточка|f}}
 * Scottish Gaelic: {{t|gd|cairt|f}}
 * Slovak: {{t|sk|karta|f}}
 * Spanish: {{t+|es|carta|f}} {{gloss|paper card for games}}, {{t+|es|tarjeta|f}}
@@ -192,7 +192,7 @@ From {{etyl|enm|en}} {{term|carde|lang=enm||playing card}}, from {{etyl|fro|en}}
 * Swedish: {{t+|sv|kort}}
 * Tagalog: {{t+|tl|kard}}
 * Turkish: {{t+|tr|kart}}
-* Ukrainian: {{t|uk|карти|f|tr=karty|sc=Cyrl}}
+* Ukrainian: {{t|uk|карти|f|sc=Cyrl}}
 * Volapük: {{t-needed|vo}}
 * Walloon: {{t-needed|wa}}
 * Welsh: {{t|cy|cerdyn|m}}
@@ -220,7 +220,7 @@ From {{etyl|enm|en}} {{term|carde|lang=enm||playing card}}, from {{etyl|fro|en}}
 * Indonesian: {{t-check|id|kartu}}
 {{trans-mid}}
 * Interlingua: {{t-check|ia|carta}}
-* {{ttbc|es}}: [[carta]] {{g|f}}, [[naipe]] {{g|m}} (element of a deck), [[tarjeta]] {{g|f}} (computer component, transport ticket)
+* {{ttbc|es}}: {{t-check|es|carta|f}}, {{t-check|es|naipe|m}} (element of a deck), {{t-check|es|tarjeta|f}} (computer component, transport ticket)
 {{trans-bottom}}
 
 ====Verb====
@@ -295,7 +295,7 @@ From {{etyl|fro|en}} {{term|carde|lang=fro}}, from {{etyl|pro|en}} {{term|carda|
 * Finnish: {{t+|fi|karstata}}
 * French: {{t+|fr|carder}}
 {{trans-mid}}
-* Greek: {{t+|el|ξαίνω|tr=xaíno}}
+* Greek: {{t+|el|ξαίνω}}
 * Navajo: {{t|nv|hainiłchaad}}
 * Swahili: {{t+|sw|kadi}}
 {{trans-bottom}}
