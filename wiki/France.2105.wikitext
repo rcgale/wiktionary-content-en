@@ -46,7 +46,7 @@ From {{etyl|fr|en}} {{term|France|lang=fr}}, {{etyl|fro|en}} {{term|France|lang=
 * American Sign Language: {{t|ase|F@NearForehead-HandPalmDown F@NearForehead-HandPalmUp HorizSmallTwist}}
 * Antillean Creole: {{t|gcf|Lafrans}}
 * Arabic: {{t+|ar|فرنسا|f|tr=faránsa}}, {{qualifier|archaic}} {{t|ar|بلاد الإفرنج|f-p|tr=blad alʔifranj}}, {{qualifier|archaic}} {{t|ar|بلاد الفرنجة|f-p|tr=bilad alfirinja}}
-*: Egyptian Arabic: {{t|arz|فرنسا|f|tr= faransa}}
+*: Egyptian Arabic: {{t|arz|فرنسا|f|tr=Faransa}}
 * Aragonese: {{t|an|Franzia|f}}
 * Armenian: {{t+|hy|Ֆրանսիա}}
 * Aromanian: {{t|rup|Gallia}}, {{t|rup|Frantsia}}
@@ -58,7 +58,7 @@ From {{etyl|fr|en}} {{term|France|lang=fr}}, {{etyl|fro|en}} {{term|France|lang=
 * Bengali: {{t|bn|ফ্রান্স|tr=phrans|sc=Beng}}
 * Breton: {{t+|br|Frañs}} {{qualifier|state}}, {{t+|br|Bro-C'hall}} {{qualifier|country}}
 * Bulgarian: {{t+|bg|Фра́нция|f}}
-* Burmese: {{t|my|ပြင်သစ်နိုင်ငံ|tr=pyinthitnaingngan}}
+* Burmese: {{t|my|ပြင်သစ်နိုင်ငံ|sc=Mymr}}
 * Catalan: {{t+|ca|França|f}}
 * Cebuano: {{t|ceb|Pransiya}}
 * Cherokee: {{t|chr|ᎦᎸᏥᏱ|tr=Galvtsiyi|sc=Cher}}
@@ -109,7 +109,7 @@ From {{etyl|fr|en}} {{term|France|lang=fr}}, {{etyl|fro|en}} {{term|France|lang=
 * Korean: {{t+|ko|프랑스|tr=Peurangseu|sc=Hang}}
 * Kurdish:
 *: Sorani: {{t|ku|فه‌ره‌نسا|sc=ku-Arab}}
-* Lao: {{t+|lo|ປະເທດຝະລັ່ງ|tr=|sc=Laoo}}
+* Lao: {{t+|lo|ປະເທດຝະລັ່ງ|sc=Laoo}}
 {{trans-mid}}
 * Latin: {{t+|la|Gallia|f}}, {{t+|la|Francia}}
 * Latvian: {{t+|lv|Francija|f}}
@@ -222,7 +222,7 @@ From {{etyl|fro|fr}} {{term|France|lang=fro}}, from {{etyl|LL.|fr}} {{term|Franc
 ===Proper noun===
 {{fr-proper noun|f}}
 
-# {{l|en|France}} {{gloss|country}}
+# {{l/en|France}} {{gloss|country}}
 # {{given name|female|lang=fr}}
 # {{surname|French|lang=fr}}
 
@@ -246,7 +246,7 @@ From {{etyl|fro|fr}} {{term|France|lang=fro}}, from {{etyl|LL.|fr}} {{term|Franc
 ===Proper noun===
 {{head|frm|proper noun|g=f}}
 
-# {{l|en|France}} {{gloss|country of the Europe}}
+# {{l/en|France}} {{gloss|country of the Europe}}
 
 [[Category:frm:Countries]]
 
@@ -254,6 +254,10 @@ From {{etyl|fro|fr}} {{term|France|lang=fro}}, from {{etyl|LL.|fr}} {{term|Franc
 
 ==Norman==
 {{wikipedia|lang=nrf}}
+
+===Alternative forms===
+* {{l|nrf|Fraunce}} {{qualifier|continental Normandy}}
+
 ===Etymology===
 From {{etyl|fro|nrf}} {{m|fro|France}}, from {{etyl|LL.|nrf}} {{m|la|Francia}}, from {{m|la|Francī}}, the name of a {{etyl|gem|nrf}} tribe.
 
@@ -263,7 +267,7 @@ From {{etyl|fro|nrf}} {{m|fro|France}}, from {{etyl|LL.|nrf}} {{m|la|Francia}}, 
 ===Proper noun===
 {{nrf-proper noun|f}}
 
-# {{lb|nrf|Jersey}} [[#English|France]]
+# {{lb|nrf|Jersey}} {{l/en|France}}
 
 {{catlangcode|nrf|Countries of Europe|France}}
 
@@ -280,7 +284,7 @@ From {{etyl|la|fro}} {{term|Francia|lang=la}}, from {{m|la|Francī}}, the name o
 ===Proper noun===
 {{fro-proper noun|f}}
 
-# {{l|en|France}} {{gloss|country}}
+# {{l/en|France}} {{gloss|country}}
 
 ====Related terms====
 * {{l/fro|françois}}
