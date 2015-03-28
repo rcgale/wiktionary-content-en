@@ -109,12 +109,12 @@ From {{etyl|enm|en}} {{term|age|lang=enm}}, from {{etyl|xno|en}} {{term|age|lang
 
 ====Translations====
 {{trans-top|whole duration of a being}}
-* Arabic: {{t|ar|زمن|m|tr=zaman}}
+* Arabic: {{t|ar|زَمَن|m}}
 * Belarusian: {{t|be|узро́ст|m}}, {{t|be|ўзрост|m}}
 * Bengali: {{t|bn|বয়স|tr=bôyôsh|sc=Beng}}
 * Bulgarian: {{t+|bg|въ̀зраст|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|一輩子|sc=Hani}}, {{t+|cmn|一辈子|tr=yī bèizi|sc=Hani}}, {{t+|cmn|一生|tr=yīshēng|sc=Hani}}, {{t|cmn|壽命|sc=Hani}}, {{t+|cmn|寿命|tr=shòumìng|sc=Hani}}
+*: Mandarin: {{t+|cmn|一輩子|sc=Hani}}, {{t+|cmn|一辈子|tr=yī bèizi|sc=Hani}}, {{t+|cmn|一生|tr=yīshēng|sc=Hani}}, {{t+|cmn|壽命|sc=Hani}}, {{t+|cmn|寿命|tr=shòumìng|sc=Hani}}
 * Cornish: {{t|kw|oos|m}}
 * Danish: {{t|da|levetid}}
 * Dutch: {{t+|nl|leeftijd|m}}, {{t+|nl|ouderdom|m}}
@@ -125,8 +125,8 @@ From {{etyl|enm|en}} {{term|age|lang=enm}}, from {{etyl|xno|en}} {{term|age|lang
 * Georgian: {{t|ka|ასაკი|sc=Geor}}, {{t|ka|ხნოვანება|sc=Geor}}, {{t|ka|წლოვანება|sc=Geor}}
 * German: {{t+|de|Lebenszeit|f}}
 * Gujarati: {{t|gu|ઉમર|tr=umar|sc=Gujr}}
-* Hebrew: {{t+|he|גיל|m|tr=gil|sc=Hebr}}
-* Hindi: {{t|hi|आयु|tr=āyu|sc=Deva}}, {{t|hi|उमर|tr=umr|sc=Deva}}, {{t|hi|उम्र|f|tr=umr|sc=Deva}}
+* Hebrew: {{t+|he|גִּיל|m|tr=gil|sc=Hebr}}
+* Hindi: {{t|hi|आयु|sc=Deva}}, {{t|hi|उमर|f|sc=Deva}}, {{t|hi|उम्र|f|sc=Deva}}
 * Hungarian: {{t+|hu|életkor}}
 * Irish: {{t|ga|aois|f}}
 * Japanese: {{t+|ja|寿命|tr=じゅみょう, jumyō}}, {{t+|ja|一生|tr=いっしょう, isshō}}
@@ -155,7 +155,7 @@ From {{etyl|enm|en}} {{term|age|lang=enm}}, from {{etyl|xno|en}} {{term|age|lang
 
 {{trans-top|part of the duration of a being or thing between its beginning and any given time}}
 * Amharic: {{t|am|እድሜ|m}}
-* Arabic: {{t|ar|عمر|m|tr=ʿumr|sc=Arab}}
+* Arabic: {{t|ar|عُمْر|m|sc=Arab}}
 *: Egyptian Arabic: {{t|arz|عمر|m|tr=ʿumr|sc=Arab}}
 * Armenian: {{t|hy|տարիք}}, {{t|hy|հասակ}}
 *: Old Armenian: {{t|xcl|տի}}
@@ -179,8 +179,8 @@ From {{etyl|enm|en}} {{term|age|lang=enm}}, from {{etyl|xno|en}} {{term|age|lang
 * Friulian: {{t|fur|etât|f}}
 * German: {{t+|de|Alter|n}}
 * Greek: {{t+|el|ηλικία|f}}
-* Hebrew: {{t+|he|גיל|m|tr= gil|sc=Hebr}}
-* Hindi: {{t|hi|उमर|tr=umr|sc=Deva}}, {{t|hi|उम्र|f|tr=umr|sc=Deva}}, {{t|hi|आयु|f|tr=āyu|sc=Deva}}
+* Hebrew: {{t+|he|גִּיל|m|tr= gil|sc=Hebr}}
+* Hindi: {{t|hi|उमर|f|sc=Deva}}, {{t|hi|उम्र|f||sc=Deva}}, {{t|hi|आयु|f|sc=Deva}}
 * Hungarian: {{t+|hu|kor}}
 * Indonesian: {{t+|id|usia}}, {{t+|id|umur}}
 *: Sundanese: {{t|su|yuswa}}
@@ -191,7 +191,7 @@ From {{etyl|enm|en}} {{term|age|lang=enm}}, from {{etyl|xno|en}} {{term|age|lang
 {{trans-mid}}
 * Kazakh: {{t+|kk|жас}}
 * Khmer: {{t+|km|អាយុ|tr=āyʊ|sc=Khmr}}
-* Korean: {{t+|ko|연령|sc=Kore}} ({{t+|ko|年齡|sc=Kore}}), {{t+|ko|나이|sc=Kore}}, {{qualifier|honorific}} {{t+|ko|연세|sc=Kore}} ({{t+|ko|年歲|sc=Kore}})
+* Korean: {{t+|ko|연령|sc=Kore}} ({{t+|ko|年齡|sc=Kore}}), {{t+|ko|나이|sc=Kore}}, {{t+|ko|연세|sc=Kore}} ({{t+|ko|年歲|sc=Kore}}) {{qualifier|honorific}}, {{t+|ko|나이|sc=Kore}}, {{t+|ko|살|sc=Kore}}
 * Kurdish:
 *: Sorani: {{t|ckb|تەمەن|tr=temen}}
 * Lao: {{t+|lo|ອາຍຸ}}
@@ -237,7 +237,7 @@ From {{etyl|enm|en}} {{term|age|lang=enm}}, from {{etyl|xno|en}} {{term|age|lang
 * Finnish: {{t+|fi|vanhuus}}
 * German: {{t+|de|Alter|n}}
 * Greek: {{t+|el|γηρατειά|n-p}}
-* Hebrew: {{t|he|זקנה|f|tr=zikná|sc=Hebr}}
+* Hebrew: {{t|he|זִקְנָה|f|tr=zikná|sc=Hebr}}
 * Irish: {{t|ga|foirfeacht|f}}
 * Japanese: {{t|ja|老齢|tr=ろうれい, rōrei}}, {{t+|ja|高齢|tr=こうれい, kōrei}}
 {{trans-mid}}
@@ -254,22 +254,22 @@ From {{etyl|enm|en}} {{term|age|lang=enm}}, from {{etyl|xno|en}} {{term|age|lang
 {{trans-bottom}}
 
 {{trans-top|one of the stages of life}}
-* Arabic: {{t|ar|عمر|m|tr=ʿumr|sc=Arab}}, {{t+|ar|سن|m|tr=sin|sc=Arab}}
+* Arabic: {{t|ar|عُمْر|m|sc=Arab}}, {{t+|ar|سِنّ|m|sc=Arab}}
 *: Egyptian Arabic: {{t|arz|سن|m|tr=sen|sc=Arab}}
 * Armenian: {{t|hy|տարիք}}
 * Belarusian: {{t|be|ўзрост|m|sc=Cyrl}}, {{t|be|век|m|sc=Cyrl}}
 * Bulgarian: {{t+|bg|въ̀зраст|m}}
 * Chinese:
-*: Mandarin: {{t|cmn|年歲|sc=Hani}}, {{t+|cmn|年岁|tr=niánsuì|sc=Hani}}, {{t+|cmn|歲數|sc=Hani}}, {{t+|cmn|岁数|tr=suìshù|sc=Hani}}, {{t+|cmn|年紀|sc=Hani}}, {{t+|cmn|年纪|tr=niánjì|sc=Hani}}, {{t+|cmn|年齡|sc=Hani}}, {{t+|cmn|年龄|tr=niánlíng|sc=Hani}}
+*: Mandarin: {{t+|cmn|年歲|sc=Hani}}, {{t+|cmn|年岁|tr=niánsuì|sc=Hani}}, {{t+|cmn|歲數|sc=Hani}}, {{t+|cmn|岁数|tr=suìshù|sc=Hani}}, {{t+|cmn|年紀|sc=Hani}}, {{t+|cmn|年纪|tr=niánjì|sc=Hani}}, {{t+|cmn|年齡|sc=Hani}}, {{t+|cmn|年龄|tr=niánlíng|sc=Hani}}
 * Cornish: {{t|kw|oos|m}}
 * Czech: {{t+|cs|věk|m}}
 * Finnish: {{t+|fi|ikä}}, {{t+|fi|jakso}}
 * German: {{t+|de|Alter|n}}
-* Hebrew: {{t+|he|גיל|m|tr=gil|sc=Hebr}}
-* Hindi: {{t|hi|उमर|tr=umr|sc=Deva}}, {{t|hi|उम्र|f|tr=umr|sc=Deva}}
+* Hebrew: {{t+|he|גִּיל|m|tr=gil|sc=Hebr}}
+* Hindi: {{t|hi|उमर|f|sc=Deva}}, {{t|hi|उम्र|f|sc=Deva}}
 * Irish: {{t|ga|aois|f}}
 * Japanese: {{t+|ja|年齢|tr=ねんれい, nenrei|sc=Jpan}}, {{t+|ja|年|tr=とし, toshi|sc=Jpan}}
-* Korean: {{t+|ko|연령|sc=Kore}} ({{t+|ko|年齡|sc=Kore}}), {{t+|ko|나이|sc=Kore}}, {{t+|ko|살|sc=Kore}}, {{t+|ko|연세|sc=Kore}}
+* Korean: {{t+|ko|연령|sc=Kore}} ({{t+|ko|年齡|sc=Kore}}), {{t+|ko|나이|sc=Kore}}, {{t+|ko|연세|sc=Kore}} ({{t+|ko|年歲|sc=Kore}}) {{qualifier|honorific}}, {{t+|ko|나이|sc=Kore}}, {{t+|ko|살|sc=Kore}}
 {{trans-mid}}
 * Macedonian: {{t|mk|во́зраст|m|sc=Cyrl}}
 * Polish: {{t+|pl|wiek|m}}, {{t+|pl|etap|m}}
@@ -293,7 +293,7 @@ From {{etyl|enm|en}} {{term|age|lang=enm}}, from {{etyl|xno|en}} {{term|age|lang
 
 {{trans-top|time of life when one attains full person rights}}
 * Armenian: {{t|hy|չափահասություն}}
-* Bulgarian: {{t+|bg|пълнолетие}}
+* Bulgarian: {{t+|bg|пълноле́тие}}
 * Czech: {{t|cs|plnoletost|f}}
 * Danish: {{t|da|myndig}}
 * Dutch: {{t|nl|volwassenheid|f}}, {{t|nl|meerderjarigheid|f}}
@@ -301,8 +301,8 @@ From {{etyl|enm|en}} {{term|age|lang=enm}}, from {{etyl|xno|en}} {{term|age|lang
 * German: {{t|de|Volljährigkeit|f}}
 * Icelandic: {{t|is|sjálfræðisaldri}}
 * Irish: {{t|ga|aois|f}}
-* Japanese: {{t+|ja|成人|tr=seijin}}, {{t|ja|成人する|tr=seijinsuru}} (to come of age)
-* Korean: {{t|ko|성년|tr=seongnyeon}}
+* Japanese: {{t+|ja|成人|tr=せいじん, seijin}} (to coming of age)
+* Korean: {{t|ko|성년}}
 {{trans-mid}}
 * Latin: {{t+|la|natus|m}}
 * Polish: {{t|pl|dorosłość|f}}, {{t|pl|pełnoletniość|f}}
@@ -334,8 +334,9 @@ From {{etyl|enm|en}} {{term|age|lang=enm}}, from {{etyl|xno|en}} {{term|age|lang
 {{trans-top|particular period of time in history}}
 * Armenian: {{t+|hy|դարաշրջան}}, {{t+|hy|դար}}
 * Asturian: {{t|ast|edá|m}}
-* Bulgarian: {{t+|bg|епоха}}
-* Chinese: {{t-check|zh|时代|sc=Hani}}
+* Bulgarian: {{t+|bg|епо́ха|f}}
+* Chinese:
+*: Mandarin {{t+|cmn|時代|sc=Hani}}, {{t+|cmn|时代|tr=shídài|sc=Hani}}
 * Cornish: {{t|kw|oos|m}}
 * Czech: {{t+|cs|doba|f}}
 * Danish: {{t|da|epoke}}
@@ -345,12 +346,12 @@ From {{etyl|enm|en}} {{term|age|lang=enm}}, from {{etyl|xno|en}} {{term|age|lang
 * Georgian: {{t|ka|ხანა|sc=Geor}}, {{t|ka|ერა|sc=Geor}}, {{t|ka|ეპოქა|sc=Geor}}
 * German: {{t+|de|Zeit|f}}, {{t+|de|Epoche|f}}, {{t+|de|Periode|f}}
 * Greek: {{t+|el|εποχή|f}}
-* Hebrew: {{t+|he|תקופה|f|tr=tkufá}}, {{t|he|עידן|m|tr=idán}}
+* Hebrew: {{t+|he|תְּקוּפָה|f|tr=tkufá}}, {{t|he|עידן|m|tr=idán}}
 * Indonesian: {{t+|id|zaman}}
 * Interlingua: {{t|ia|epocha}}
 * Irish: {{t|ga|aois|f}}
 * Italian: {{t+|it|età}}, {{t+|it|evo}}
-* Japanese: {{t+|ja|時代|tr=jidai}}
+* Japanese: {{t+|ja|時代|tr=じだい, jidai}}
 * Korean: {{t+|ko|시대}}, {{t+|ko|時代|tr=sidae}}
 * Kurdish:
 *: Sorani: {{t|ckb|دەور|tr=dewr}}, {{t|ckb|سەردەم|tr=serdem}}
@@ -361,7 +362,7 @@ From {{etyl|enm|en}} {{term|age|lang=enm}}, from {{etyl|xno|en}} {{term|age|lang
 * Polish: {{t+|pl|epoka|f}}, {{t+|pl|era|f}}
 * Portuguese: {{t+|pt|idade|f}}, {{t+|pt|era|f}}, {{t+|pt|época|f}}
 * Romanian: {{t+|ro|epocă|f}}, {{t+|ro|ev}}, {{t+|ro|eră}}
-* Russian: {{t+|ru|эпоха|f}}, {{t+|ru|эра|f}}, {{t+|ru|время|n}} (often used in its plural form {{t|ru|времена}}), {{t|ru|век|m}} {{qualifier|especially to indicate particular century}}
+* Russian: {{t+|ru|эпо́ха|f}}, {{t+|ru|э́ра|f}}, {{t+|ru|вре́мя|n}} (often used in its plural form {{t|ru|времена}}), {{t|ru|век|m}} {{qualifier|especially to indicate particular century}}
 * Scottish Gaelic: {{t|gd|linn|f}}, {{t|gd|ùine|f}}, {{t|gd|aois|f}}
 * Slovak: {{t|sk|vek|m}}
 * Spanish: {{t+|es|edad}}
@@ -392,7 +393,7 @@ From {{etyl|enm|en}} {{term|age|lang=enm}}, from {{etyl|xno|en}} {{term|age|lang
 * Polish: {{t+|pl|era|f}}
 * Portuguese: {{t+|pt|época|f}}, {{t+|pt|era|f}}, {{t+|pt|idade|f}}
 * Romanian: {{t+|ro|epocă|f}}, {{t+|ro|eră|f}}, {{t+|ro|ev}}
-* Russian: {{t+|ru|эпоха|f}}, {{t+|ru|эра|f}}, {{t+|ru|время|n}} (often used in its plural form {{t|ru|времена}}), {{t|ru|век|m}} {{qualifier|especially to indicate particular century}}
+* Russian: {{t+|ru|эпо́ха|f}}, {{t+|ru|э́ра|f}}, {{t+|ru|вре́мя|n}} (often used in its plural form {{t|ru|времена}}), {{t|ru|век|m}} {{qualifier|especially to indicate particular century}}
 * Slovak: {{t|sk|vek|m}}
 * Spanish: {{t+|es|época|f}}, {{t+|es|era|f}}
 * Swahili: {{t+|sw|umri}}
