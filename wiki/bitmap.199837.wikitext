@@ -11,7 +11,9 @@
 {{en-noun}}
 {{wikipedia|Raster graphics}}
 
-# {{context|computing|lang=en}} a series of [[bit]]s that represents a [[rasterize]]d [[graphic]] [[image]], each [[pixel]] being represented as a group of bits
+# {{context|computing|lang=en}} A series of [[bit]]s that represents a [[rasterize]]d [[graphic]] [[image]], each [[pixel]] being represented as a group of bits.
+#* '''2002''', André LaMothe, ''Tricks of the Windows Game Programming Gurus'' (page 315)
+#*: Using the hardware blitter to move '''bitmaps''' from VRAM to VRAM is much faster than moving them from system memory to VRAM.
 
 ====Usage notes====
 * See notes at {{term|pixmap|lang=en}}.
