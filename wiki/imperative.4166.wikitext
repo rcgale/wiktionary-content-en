@@ -14,8 +14,8 @@ From {{etyl|la|en}} {{m|la|imperātīvus}}.
 
 # [[essential]]
 #: ''It is imperative that you come here right now.''
-# {{context|computing theory|lang=en}} Having a [[semantics]] that incorporates [[mutable]] variables.
 # {{context|grammar|lang=en}} of, or relating to the [[imperative mood]]
+# {{context|computing theory|lang=en}} Having a [[semantics]] that incorporates [[mutable]] variables.
 # Expressing a [[command]]; authoritatively or absolutely [[directive]].
 #: '''''imperative''' orders''
 #* Bishop Hall
@@ -28,7 +28,7 @@ From {{etyl|la|en}} {{m|la|imperātīvus}}.
 *: Mandarin: {{t-needed|cmn}}
 * Czech: {{t|cs|rozkazovací|n}}
 * Dutch: {{t+|nl|noodzakelijk}}
-* Finnish: {{t|fi|käskevä}}, {{t+|fi|välttämätön}}, {{t|fi|imperatiivinen}}
+* Finnish: {{t+|fi|välttämätön}}, {{t|fi|pakollinen}}
 * French: {{t+|fr|impératif}}, {{t+|fr|essentiel}}, {{t+|fr|indispensable}}
 * German: {{t+|de|essenziell}}, {{t+|de|essentiell}}, {{t+|de|notwendig}}, {{t+|de|unverzichtbar}}, {{t+|de|wesentlich}}
 {{trans-mid}}
@@ -43,17 +43,22 @@ From {{etyl|la|en}} {{m|la|imperātīvus}}.
 * Turkish: {{t+|tr|mecburi}}, {{t+|tr|zorunlu}}
 {{trans-bottom}}
 
-{{trans-top|of, or relating to the imperative mood}}
+{{trans-top|grammar: of, or relating to the imperative mood}}
 * Chinese:
 *: Mandarin: {{t-needed|cmn}}
-* Finnish: {{t-needed|fi}}
+* Finnish: {{t|fi|imperatiivinen}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|imperativo}}
 * Russian: {{t+|ru|повелительный|tr=povelítelʹnyj|sc=Cyrl}}
 * Swedish: {{t+|sv|imperativ}}
 {{trans-bottom}}
 
-{{trans-top|(computing)}}
+{{trans-top|computing: having semantics that incorporates mutable variables}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|authoritatively or absolutely directive}}
+* Finnish: {{t|fi|pakottava}}
 {{trans-mid}}
 {{trans-bottom}}
 
