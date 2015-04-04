@@ -223,52 +223,52 @@ From {{etyl|fiu-pro|hu}} {{m|urj-pro|*poŋka||tuber, boil, unevenness}}, along w
 ==Irish==
 
 ===Pronunciation===
-* {{IPA|[bˠɔɡ]|lang=ga}}
+* {{a|Munster|Connacht}} {{IPA|/bˠɔɡ/|lang=ga}}
+* {{a|Ulster}} {{IPA|/bˠʌɡ/|lang=ga}}
 
-===Etymology 1===
+===Etymology===
 From {{etyl|sga|ga}} {{m|sga|boc||soft, gentle, tender; tepid}}.
 
-====Adjective====
-{{head|ga|adjective}}
+The verb is from {{etyl|sga|ga}} {{m|sga|bocaid||softens, makes soft; moves; shakes}}, from the adjective.
+
+===Adjective===
+{{ga-adj|gsm=boig|gsf=boige|pl=boga|comp=boige}}
 
 # [[soft]]; [[yielding]]; [[tender]]; {{qualifier|of physical condition}} [[flabby]]; {{qualifier|of disposition}} [[indulgent]], [[lenient]], [[soft]], [[foolish]]; {{qualifier|of living, conduct, etc.}} [[easy]]; {{qualifier|of sound, voice}} soft, [[mellow]]; {{label|ga|of|_|weather}} soft, [[wet]]; {{qualifier|of winter}} [[mild]], [[humid]]
 # [[loose]]
 # [[lukewarm]]
 
-=====Declension=====
-{{ga-decl-adj-1|bog|boig}}
+====Declension====
+{{ga-decl-adj|b|og|gsm=oig|gsf=oige|pl=oga}}
 
-=====Derived terms=====
+====Derived terms====
 {{der3|{{l|ga|an rud a fhaightear go bog caitear go bog é||easy come, easy go}}|
 {{l|ga|bog-||soft, mild; nearly; easy}}|
 {{l|ga|casacht bhog||loose cough}}}}
 
-====Noun====
+===Noun===
 {{ga-noun|g=m|boig|-}}
 
 # [[soft]]
 # {{label|ga|anatomy|of ear}} [[lobe]]
 
-=====Declension=====
+====Declension====
 {{ga-decl-m1-nopl|b|og|oig}}
 
-=====Synonyms=====
-* {{sense|lobe}} {{l/ga|liopa}}, {{l/ga|maothán}}
+====Synonyms====
+* {{sense|lobe}} {{l|ga|liopa}}, {{l|ga|maothán}}
 
-===Etymology 2===
-From {{etyl|sga|ga}} {{m|sga|bocaid||softens, makes soft; moves; shakes}}, from {{m|sga|boc}} {{qualifier|see above}}.
-
-====Verb====
+===Verb===
 {{ga-verb|pres=bogann|fut=bogfaidh|vn=bogadh|pp=bogtha}}
 
 # to [[soften]], become [[soft]]; {{qualifier|of pain}} to [[ease]]; {{qualifier|of milk}} to [[warm]]; {{label|ga|of|_|weather}} to get [[mild]]er; to soften, [[move]] {{qualifier|someone's heart}}
 # to [[move]], [[loosen]]; {{qualifier|of a cradle}} to [[rock]]
 
-=====Conjugation=====
+====Conjugation====
 {{ga-conj-1a|b|o|g|broad}}
 
-=====Derived terms=====
-{{der3|{{l|ga|casacht a bhogadh||to loosen a cough}}}}
+====Derived terms====
+* {{l|ga|casacht a bhogadh||to loosen a cough}}
 
 ===Mutation===
 {{ga mut cons|b|og}}
