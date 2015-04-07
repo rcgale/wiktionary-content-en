@@ -12,7 +12,9 @@ From {{etyl|it|en}} {{term|stanza|lang=it}}.
 
 # A unit of a [[poem]], written or printed as a [[paragraph]]; equivalent to a [[verse]].
 # {{context|architecture|lang=en}} An [[apartment]] or [[division]] in a [[building]].<!--Webster 1913-->
-# {{context|computing|lang=en}} A [[structural]] [[element]] in [[XML]]
+# {{context|computing|lang=en}} A XML [[element]] which acts as basic unit of meaning in [[XMPP]].
+#* '''2011''', P. Saint-Andre, ''RFC 6120 - Extensible Messaging and Presence Protocol (XMPP): Core''
+#*: Definition of XML '''Stanza''':  An XML '''stanza''' is the basic unit of meaning in XMPP..
 #* '''2009''', Tim Riley, Adam Goucher, ''Beautiful Testing: Leading Professionals Reveal How They Improve Software''
 #*: Whenever an XMPP client generates an XML '''stanza''', it typically constructs the XML of the stanza by building up a structured document...
 #* '''2009''', John Rittinghouse, James F. Ransome, ''Cloud Computing: Implementation, Management, and Security''
