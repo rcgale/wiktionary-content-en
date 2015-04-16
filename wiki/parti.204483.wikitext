@@ -148,30 +148,6 @@ From {{etyl|de|hu}} {{term|Partie|lang=de}}, from {{etyl|fr|hu}} {{term|partie||
 
 ----
 
-==Norman==
-{{rfc-auto}}
-
-===Etymology 1===
-From {{etyl|fro|nrf}} {{term|partir|lang=fro}}, from {{etyl|la|nrf}} {{term|partio|partiō, partīre|distribute, divide|lang=la}}.
-
-====Verb====
-{{nrf-verb}}
-
-# to [[leave]]
-
-=====Antonyms=====
-* {{l|nrf|arriver|gloss=to arrive}}
-
-===Etymology 2===
-From {{etyl|fro|nrf}} {{term|partie|lang=en}}, from {{etyl|ML.|nrf}} {{term|partita|partīta|a part, party}}, from {{etyl|la|nrf}} {{term|partita|partīta|lang=en}}, feminine past participle of {{term|partior|partior, partīrī|divide}}.
-
-====Noun====
-{{nrf-noun|m}}
-
-# [[party]]
-
-----
-
 ==Latin==
 
 ===Verb===
@@ -200,12 +176,32 @@ From {{etyl|fro|nrf}} {{term|partie|lang=en}}, from {{etyl|ML.|nrf}} {{term|part
 ===Noun===
 {{head|ms|noun}}
 
-# [[party]] ''(political)''
-# [[party]] ''(social gathering)''
-#: ''Mari kita ber'''parti'''!''
-#: Let's party!
+# {{lb|ms|politics}} [[party]]
+# [[party]] {{gloss|social gathering}}
+#: {{usex|Mari kita ber'''parti'''!|t=Let's party!|lang=ms}}
 
-[[Category:Malay nouns]]
+----
+
+==Norman==
+
+===Etymology 1===
+From {{etyl|fro|nrf}} {{m|fro|partir}}, from {{etyl|la|nrf}} {{m|la|partio|partiō, partīre|distribute, divide}}.
+
+====Verb====
+{{nrf-verb}}
+
+# {{lb|nrf|Jersey}} to [[leave]]
+
+=====Antonyms=====
+* {{l|nrf|arriver||to arrive}}
+
+===Etymology 2===
+From {{etyl|fro|nrf}} {{m|fro|partie}}, from {{etyl|ML.|nrf}} {{m|la|partita|partīta|a part, party}}, from {{etyl|la|nrf}} {{m|la|partita|partīta}}, feminine past participle of {{m|la|partior|partior, partīrī|divide}}.
+
+====Noun====
+{{nrf-noun|m}}
+
+# {{lb|nrf|Jersey}} [[party]]
 
 ----
 
@@ -273,12 +269,12 @@ From {{etyl|fr|nn}} {{term|partir||to go away, to leave, to depart|lang=fr}}.
 ==Turkish==
 
 ===Etymology===
-From {{etyl|fr|tr}} {{term|partie|lang=fr}}.
+{{borrowing|fr|partie|lang=tr}}.
 
 ===Noun===
-{{head|tr|noun}}
+{{tr-noun|yi|ler}}
 
-# [[party]] (social gathering)
+# [[party]] {{gloss|social gathering}}
 
 {{tbot entry|Turkish|party|2008|December|tr}}
 
