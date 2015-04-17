@@ -118,14 +118,14 @@ Since there is no common Indo-European root for a transitive possessive verb ''h
 * Albanian: {{t|sq|ka}}
 * Arabic: {{t+|ar|ملك|tr=málaka|sc=Arab}}, {{t|ar|امتلك|tr=imtálaka|sc=Arab}}, {{t|ar|تملك|tr=tamállaka|sc=Arab}}, ''usually no verb is used'', prepositions: {{t|ar|عند|alt=عندـ|tr=ʿind-}}, {{t|ar|ل|alt=لـ|tr=li-}}, etc. + noun or pronoun are used, e.g. {{t|ar|عندي|tr=ʿindī}} - I have, {{t|ar|عندك|tr=ʿíndak/ʿíndak}} - you have (''m/f''), etc.
 * Aragonese: {{t+|an|tener}}
-* Armenian: {{t+|hy|ունենալ|tr=unenal}}
+* Armenian: {{t+|hy|ունենալ}}
 * Aromanian: {{t|rup|am}}
 * Asturian: {{t+|ast|tener}}
 * Basque: {{t|eu|izan}}
 * Belarusian: {{t+|be|мець|tr=mjecʹ}}, ''usually expressed with expressions:'' "у мяне (ёсць)" (u mjanjé (josc’)) - I have, ""у цябе (ёсць)" (u cjabjé (josc’)) - you have '', etc.'' See {{t+|be|у|tr=u}}
 * Breton: {{t+|br|kaout}}, {{t|br|endevout}}
 * Bulgarian: {{t+|bg|имам|tr=ímam}}
-* Burmese: ''use'' ''subject'' + {{t+|my|မှာ|sc=Mymr|tr=hma}} + ''object'' + {{t+|my|ရှိ|sc=Mymr|tr=shi.}}; ''literally "object is at subject"''
+* Burmese: ''use'' ''subject'' + {{t+|my|မှာ}} + ''object'' + {{t+|my|ရှိ}}; ''literally "object is at subject"''
 * Catalan: {{t+|ca|tenir}}
 * Chinese:
 *: Mandarin: {{t+|cmn|有|tr=yǒu|sc=Hani}}, {{t|cmn|擁有|sc=Hani}}, {{t+|cmn|拥有|tr=yōngyǒu|sc=Hani}}
@@ -143,8 +143,8 @@ Since there is no common Indo-European root for a transitive possessive verb ''h
 * Georgian: {{t|ka|ფლობს|sc=Geor}}, {{qualifier|inanimate}} {{t|ka|აქვს|sc=Geor}}, {{qualifier|animate}} {{t|ka|ჰყავს|sc=Geor}}
 * German: {{t+|de|haben}}
 *: Alemannic German: {{t|gsw|haa}}
-* Greek: {{t+|el|έχω|tr=écho}}
-*: Ancient Greek: {{t|grc|ἔχω|tr=ekhō|sc=polytonic}}
+* Greek: {{t+|el|έχω}}
+*: Ancient Greek: {{t|grc|ἔχω}}
 * Hawaiian: ''use'' {{t|haw|he}} + ''object + possessive form of subject''
 * Hindi: {{t+|hi|रखना|tr=rakhnā}}, {{t+|hi|पास|alt=...के पास|tr=...ke pās}}, {{t|hi|के|alt=...के|tr=...ke}}
 * Hungarian: {{t+|hu|bír}}, {{t+|hu|birtokol}}, [[van]] [[-nak]]/[[-nek]] {{gloss|attached to owner}}
@@ -158,7 +158,7 @@ Since there is no common Indo-European root for a transitive possessive verb ''h
 * Khmer: {{t+|km|មាន|tr=mien|sc=Khmr}}
 * Korean: {{t+|ko|있다|sc=Hang}}
 * Kurdish: {{t+|ku|hebûn}}, {{t+|ku|heyîn}}
-* Lao: {{t|lo|ມີ|tr=mii|sc=Laoo}}
+* Lao: {{t|lo|ມີ}}
 * Latin: {{t+|la|habeō}}, {{t+|la|teneo}}, {{t|la|possideo}}, {{t+|la| sum }} {{qualifier|with dative}}
 * Lithuanian: {{t+|lt|turėti}}
 * Lojban: {{t|jbo|ponse}}
@@ -168,7 +168,7 @@ Since there is no common Indo-European root for a transitive possessive verb ''h
 * Malay: {{t+|ms|ada}}
 * Mongolian: {{t|mn|байх|sc=Cyrl}}
 * Neapolitan: {{t|nap|avé}}, {{t|nap|tené}}
-* Norman: {{t|nrf|aver}}, {{t|nrf|aveir}}
+* Norman: {{t|nrf|aver}} {{qualifier|Jersey|Guernsey}}, {{t|nrf|aveir}} {{qualifier|Guernsey}}
 * North Frisian: {{qualifier|Mooring dialect}} {{t|frr|heewe}}; {{qualifier|Föhr-Amrum dialect|Sylt dialect}} {{t|frr|haa}}
 * Norwegian: {{t+|no|ha}}
 * Novial: {{t|nov|have}}
@@ -201,7 +201,7 @@ Since there is no common Indo-European root for a transitive possessive verb ''h
 * Spanish: {{t+|es|tener}}
 * Swedish: {{t+|sv|äga}}, {{t+|sv|ha}}
 * Tagalog: {{t|tl|magkaroón}}
-* Tajik: {{t|tg|доштан|tr=doštan|sc=Cyrl}}
+* Tajik: {{t|tg|доштан}}
 * Thai: {{t+|th|มี|tr=mee}}
 * Turkish: {{t+|tr|sahip olmak}} , ''usually expressed with expressions:'' "benim ...(I)m var" - I have, "senin ...(I)n var" - you have '', etc.''
 * Ukrainian: {{t+|uk|мати|tr=máty}}, ''usually expressed with expressions:'' "у/в мене (є)" (u/v méne (je)) - I have, "у/в тебе (є)" (u/v tébe (je)) - I have - you have '', etc.'' See {{t+|uk|у|tr=u}} / {{t+|uk|в|tr=v}}
@@ -214,11 +214,12 @@ Since there is no common Indo-European root for a transitive possessive verb ''h
 {{trans-bottom}}
 
 {{trans-top|to be related to}}
-* Ancient Greek: {{t|grc|ἔχω|tr=ekhō|sc=polytonic}}
 * Czech: {{t+|cs|mít}}
 * Danish: {{t+|da|have}}
 * Finnish: {{t+|fi|olla}}
 * German: {{t+|de|haben}}
+* Greek:
+*: Ancient Greek: {{t|grc|ἔχω}}
 {{trans-mid}}
 * Hungarian: [[van]] [[-nak]]/[[-nek]] (''attached to one who is related'')
 * Polish: {{t+|pl|mieć}}
@@ -431,18 +432,19 @@ See {{term|hav||sea, ocean|lang=da}}.
 ----
 
 ==Norman==
-{{rfc-auto}}
 
 ===Etymology===
-From {{etyl|non|nrf}} {{term|háfr||net|lang=non}}.
+{{borrowing|non|háfr||net|lang=nrf}}.
 
 ===Pronunciation===
-* {{audio|Jer-have.ogg|Audio|lang=nrf}}
+* {{audio|Jer-have.ogg|Audio (Jersey)|lang=nrf}}
 
 ===Noun===
 {{nrf-noun|f}}
 
-# [[shrimp]] [[net]]
+# {{lb|nrf|Jersey}} [[shrimp]] [[net]]
+
+{{catlangcode|nrf|Fishing}}
 
 ----
 
