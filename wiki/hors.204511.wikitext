@@ -40,22 +40,10 @@ From {{etyl|frm|fr}} {{m|frm|fors}}, from {{etyl|fro|fr}} {{m|fro|fors}}, {{etyl
 
 ----
 
-==Norman==
-
-===Etymology===
-{{rfe|lang=nrf}}
-
-===Adverb===
-{{nrf-adv}}
-
-# [[out]]
-
-----
-
 ==Middle English==
 
 ===Etymology===
-{{etyl|ang|enm}} {{term|hors|lang=ang}}
+From {{etyl|ang|enm}} {{m|ang|hors}}, from {{etyl|gem-pro|enm}} {{m|gem-pro|*hrussą||horse}}, from {{etyl|ine-pro|enm}} {{m|ine-pro|*kers-||run}}.
 
 ===Noun===
 {{enm-noun|horses}}
@@ -64,10 +52,22 @@ From {{etyl|frm|fr}} {{m|frm|fors}}, from {{etyl|fro|fr}} {{m|fro|fors}}, {{etyl
 
 ----
 
+==Norman==
+
+===Etymology===
+{{rfe|lang=nrf}}
+
+===Adverb===
+{{nrf-adv}}
+
+# {{lb|nrf|Guernsey}} [[out]]
+
+----
+
 ==Old English==
 
 ===Etymology===
-From {{etyl|gem-pro|ang}} {{m|gem-pro|*hrussą||horse}}, from {{etyl|ine-pro|ang}} {{m|ine-pro|*kers-||run}}. Cognate with Old Frisian {{term|hors|lang=ofs}}, Old Saxon {{term|hros|lang=osx}}, Dutch {{term|ros|lang=nl}}, Old High German {{term|hros|lang=goh}}, {{term|ros|lang=goh}} (German {{term|Ross|lang=de}}), Old Norse {{term|hross|lang=non}} (whence the Old Swedish {{term|hors|lang=gmq-osw}} and Icelandic {{term|hross|lang=is}}); and, outside the Germanic languages, with Latin {{m|la|currō||run, race}}.
+From {{etyl|gem-pro|ang}} {{m|gem-pro|*hrussą||horse}}, from {{etyl|ine-pro|ang}} {{m|ine-pro|*kers-||run}}. Cognate with Old Frisian {{m|ofs|hors}}, Old Saxon {{m|osx|hros}}, Dutch {{m|nl|ros}}, Old High German {{m|goh|hros}}, {{m|goh|ros}} (German {{m|de|Ross}}), Old Norse {{m|non|hross}} (whence the Old Swedish {{m|gmq-osw|hors}} and Icelandic {{m|is|hross}}); and, outside the Germanic languages, with Latin {{m|la|currō||run, race}}.
 
 ===Pronunciation===
 * {{IPA|/hors/|lang=ang}}
@@ -125,7 +125,7 @@ From {{etyl|gem-pro|ofs}} {{m|gem-pro|*hursą}}, {{m|gem-pro|*hrussą}}.
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|en|sh}} {{term|horse|lang=en}}.
+{{borrowing|en|horse|lang=sh}}.
 
 ===Noun===
 {{sh-noun|g=m|r|хорс}}
