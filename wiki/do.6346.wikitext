@@ -566,8 +566,7 @@ Short for {{term|ditto|lang=en}}.
 # To [[want]].
 # To [[like]].
 # To [[love]].
-#: ''Të '''dua'''.''
-#:: I love you.
+#: {{usex|Të '''dua'''.|I love you.|lang=sq}}
 
 ----
 
@@ -701,11 +700,15 @@ From {{etyl|roa-opt|fax}} {{term|do|lang=roa-opt}}, from {{term|de|lang=roa-opt}
 
 ===Etymology===
 From {{etyl|itc-pro|la}} {{m|itc-pro|*didō}}, from {{etyl|ine-pro|la}} {{m|ine-pro|*deh₃-||to give}}. Cognate with {{etyl|la|-}} {{term|do|lang=la|dō}}.
+
 ===Pronunciation===
 * {{IPA|/ˈdoː/|lang=xfa}}
+
 ===Verb===
 {{head|xfa|verb|head=dō}}
+
 # I [[give]]
+
 ====Derived terms====
 * {{l|xfa|datu||gift}}
 * {{l|xfa|pordo|pordō|I offer}}
@@ -724,7 +727,7 @@ From {{etyl|it|fo}} {{term|do|lang=it}}.
 ===Noun===
 {{fo-noun|n|dos|do}}
 
-# {{context|music|lang=fo}} {{l|en|do}}
+# {{context|music|lang=fo}} {{l/en|do}}
 
 ====Declension====
 {{fo-decl-noun-n3|do}}
@@ -1022,17 +1025,24 @@ From {{etyl|sla-pro|dsb}} {{m|sla-pro|*do}}.
 
 ==Luxembourgish==
 
-===Etymology===
-From {{etyl|gem-pro|lb}} {{m|gem-pro|*þar}}.
-
 ===Pronunciation===
 * {{IPA|/doː/|lang=lb}}
 ** {{rhymes|oː|lang=lb}}
 
-===Adverb===
+===Etymology 1===
+From {{etyl|gem-pro|lb}} {{m|gem-pro|*þar}}.
+
+====Adverb====
 {{head|lb|adverb}}
 
 # [[there]], in that place
+
+===Etymology 2===
+
+====Verb====
+{{head|lb|verb form}}
+
+# {{inflection of|doen||2|s|imp|lang=lb}}
 
 ----
 
@@ -1067,7 +1077,7 @@ Possibly an abbreviation of "do-[[hus|hūs]]" ("''do'' house") from {{etyl|gml|n
 ====Noun====
 {{head|no|noun|g=m}}
 
-# [[#english|do]] (the musical note)
+# {{l/en|do}} (the musical note)
 
 ----
 
@@ -1085,6 +1095,7 @@ From {{etyl|non|nn}} {{term|þó|lang=non}}.
 * {{R:Dokumentasjonsprosjektet|lang=nn}}
 
 ----
+
 ==Old Irish==
 
 ===Etymology===
@@ -1114,12 +1125,12 @@ From {{etyl|cel-pro|sga}} {{m|cel-pro|*tu||to}}.
 
 ==Polish==
 
-===Pronunciation===
-* {{audio|Pl-do.ogg|audio|lang=en}}
-* {{IPA|/dɔ/|lang=pl}}
-
 ===Etymology===
 From {{etyl|sla-pro|pl}} {{m|sla-pro|*do}}, from {{etyl|ine-pro|pl}} {{m|ine-pro|*do-}}, {{m|ine-pro|*de-}}.
+
+===Pronunciation===
+* {{audio|Pl-do.ogg|audio|lang=pl}}
+* {{IPA|/dɔ/|lang=pl}}
 
 ===Preposition===
 {{pl-prep|desc=followed by the genitive}}
@@ -1157,9 +1168,10 @@ From {{etyl|roa-opt|pt}} {{term|do|lang=roa-opt}}, from {{term|de||of|lang=roa-o
 #*:: I was hoping to meet you before dinner!
 
 ===See also===
-* {{l|pt|da}} {{qualifier|feminine form}}
-* {{l|pt|dos}} {{qualifier|plural form}}
-* {{l|pt|das}} {{qualifier|feminine plural form}}
+* {{l/pt|da}} {{qualifier|feminine form}}
+* {{l/pt|dos}} {{qualifier|plural form}}
+* {{l/pt|das}} {{qualifier|feminine plural form}}
+
 ----
 
 ==Saterland Frisian==
@@ -1311,7 +1323,7 @@ From {{etyl|it|en}} {{term|do|lang=it}}.
 ====Noun====
 {{sh-noun|g=m|head=dȏ|r|до|до̑}} {{qualifier|indeclinable}}
 
-# {{context|music|lang=sh}} [[do]]
+# {{context|music|lang=sh}} {{l/en|do}}
 
 ===References===
 * {{R:sh:HJP|f1ZnWhY%3D}}
@@ -1352,12 +1364,12 @@ From {{etyl|sla-pro|sl}} {{m|sla-pro|*do}}.
 ==Spanish==
 
 ===Etymology 1===
-{{etyl|it|es}} {{m|it|do}}.
+From {{etyl|it|es}} {{m|it|do}}.
 
 ====Noun====
 {{es-noun|m}}
 
-# [[do]] {{qualifier|musical note}}
+# {{l/en|do}} {{qualifier|musical note}}
 # [[C]] (the musical note or key)
 
 =====See also=====
@@ -1461,7 +1473,7 @@ From {{etyl|ofs|fy}} {{term|thū|lang=ofs}}, from {{etyl|gem-pro|fy}} {{m|gem-pr
 From {{etyl|ofs|fy}} *{{term||dūve|lang=ofs}}, from {{etyl|gem-pro|fy}} {{m|gem-pro|*dūbǭ}}. Compare Saterland Frisian {{m|stq|Duuwe}}, English {{m|en|dove}}, Scots {{m|sco|doo}}, Dutch {{m|nl|duif}}, Low German {{m|nds-de|Duuv}}, German {{m|de|Taube}}, Danish {{m|da|due}}, Swedish {{m|sv|duva}}.
 
 ====Noun====
-{{head|fy|noun}}
+{{fy-noun}}
 
 # [[pigeon]], [[dove]]
 
