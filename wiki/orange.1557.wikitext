@@ -482,13 +482,13 @@ See {{term|orange|lang=en}} (English).
 ===Noun===
 {{fr-noun|f}}
 
-# {{l|en|orange}} {{gloss|fruit}}
+# {{l/en|orange}} {{gloss|fruit}}
 #: {{usex|Il pressa l’'''orange''' afin d’en extraire du jus.|t=He squeezed the '''orange''' to extract juice from it.|lang=fr}}
 
 ===Noun===
 {{fr-noun|m}}
 
-# {{l|en|orange}} {{gloss|color}}
+# {{l/en|orange}} {{gloss|color}}
 
 ====Derived terms====
 * [[oranger]]
@@ -497,7 +497,7 @@ See {{term|orange|lang=en}} (English).
 ===Adjective===
 {{head|fr|adjective|g=m|g2=f|invariable}}
 
-# {{l|en|orange}}
+# {{l/en|orange}}
 #: {{usex|Les premiers TGV atlantiques étaient '''orange'''.|t=The first Atlantic TGV trains were '''orange'''.|lang=fr}}
 
 ====Usage notes====
@@ -550,10 +550,19 @@ The adjective has two sets of forms. In the formal standard language, endings ar
 
 ==Luxembourgish==
 
-===Adjective===
-{{head|lb|adjective}}
+===Etymology===
+{{rfe|lang=lb}}
 
-# {{l|en|orange}}
+===Pronunciation===
+{{rfp|lang=lb}}
+
+===Adjective===
+{{lb-adj}}
+
+# {{l/en|orange}}
+
+====Declension====
+{{rfinfl|lb|adjective}}
 
 ===See also===
 {{list:basic colors/lb}}
