@@ -10,25 +10,18 @@ From {{etyl|frm|fr}} {{term|saulver|lang=frm}}, from {{etyl|fro|fr}} {{term|sauv
 ===Verb===
 {{fr-verb}}
 
-# to [[save]], to [[rescue]]; to [[protect]]
+# to [[save]], [[rescue]]; to [[protect]]
 # {{context|computing|lang=fr}} to save
-# {{context|pronominal|lang=fr}} to [[escape]], to [[run away]]
+# {{context|pronominal|lang=fr}} to [[escape]], [[run away]]
+
+====Conjugation====
+{{fr-conj-er|sauv|avoir}}
 
 ====Synonyms====
 * {{sense|computing}} [[sauvegarder]]
 
 ====Related terms====
-{{top2}}
-* [[sauvable]]
-* [[sauvegarder]]
-* [[sauvetage]]
-{{mid2}}
-* [[sauveteur]]
-* [[sauveur]]
-{{bottom}}
-
-====Conjugation====
-{{fr-conj-er|sauv|avoir}}
+{{rel3|sauvable|sauvegarder|sauvetage|sauveteur|sauveur|lang=fr}}
 
 ===Anagrams===
 * [[saveur#French|saveur]]
@@ -39,15 +32,14 @@ From {{etyl|frm|fr}} {{term|saulver|lang=frm}}, from {{etyl|fro|fr}} {{term|sauv
 ----
 
 ==Norman==
-{{rfc-auto}}
 
 ===Etymology===
-From {{etyl|fro|nrf}} {{term|sauver|lang=fro}}, from [[Gallo-Romance]] {{term|salvar|lang=fro}}, from {{etyl|LL.|nrf}} {{term|salvo|salvō, salvāre|save|lang=la}}, from {{etyl|la|nrf}} {{term|salvus|lang=la}}.
+From {{etyl|fro|nrf}} {{m|fro|sauver}}, from [[Gallo-Romance]] {{m|fro|salvar}}, from {{etyl|LL.|nrf}} {{m|la|salvo|salvō, salvāre|save}}, from {{etyl|la|nrf}} {{m|la|salvus}}.
 
 ===Verb===
 {{nrf-verb}}
 
-# to [[save]]
+# {{lb|nrf|Jersey}} to [[save]]
 
 ----
 
@@ -57,12 +49,12 @@ From {{etyl|fro|nrf}} {{term|sauver|lang=fro}}, from [[Gallo-Romance]] {{term|sa
 * {{l|fro|salver}}
 
 ===Etymology===
-From {{etyl|LL.|en}} {{m|la|salvāre||to save}}.
+From {{etyl|LL.|fro}} {{m|la|salvāre||to save}}.
 
 ===Verb===
 {{head|fro|verb}}
 
-# to [[save]] (remove from danger)
+# to [[save]] {{gloss|remove from danger}}
 
 ====Conjugation====
 {{fro-conj-er}}
@@ -70,7 +62,7 @@ From {{etyl|LL.|en}} {{m|la|salvāre||to save}}.
 ====Descendants====
 * English: [[salvage]]
 * French: {{l|fr|sauver}}
-* Norman: {{l|nrf|sauver}}
+* Norman: {{l|nrf|sauver}} {{qualifier|Jersey}}
 
 [[cs:sauver]]
 [[de:sauver]]
