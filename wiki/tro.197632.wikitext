@@ -9,14 +9,14 @@ From {{etyl|la|ca}} {{term|tonus|lang=la}}, incremented with an -r- like in {{et
 
 # [[thunder]]
 
-[[Category:ca:Weather]]
+{{catlangcode|ca|Weather}}
 
 ----
 
 ==Danish==
 
 ===Etymology 1===
-From {{etyl|non|da}} {{term|trú|lang=non}}.
+From {{etyl|non|da}} {{m|non|trú}}.
 
 ====Pronunciation====
 * {{IPA|/tro/|[tˢʁ̥oˀ]|lang=da}}
@@ -33,7 +33,7 @@ From {{etyl|non|da}} {{term|trú|lang=non}}.
 * {{projectlink|pedia|lang=da}}
 
 ===Etymology 2===
-From {{etyl|non|da}} {{term|trúa|lang=non}}.
+From {{etyl|non|da}} {{m|non|trúa}}.
 
 ====Pronunciation====
 * {{IPA|/tro/|[tˢʁ̥oˀ]|lang=da}}
@@ -45,7 +45,7 @@ From {{etyl|non|da}} {{term|trúa|lang=non}}.
 # [[think]]
 
 ===Etymology 3===
-From {{etyl|non|da}} {{term|trúr|lang=non}}.
+From {{etyl|non|da}} {{m|non|trúr}}.
 
 ====Pronunciation====
 * {{IPA|/tro/|[tˢʁ̥oˀ]|lang=da}}
@@ -63,60 +63,42 @@ From {{etyl|non|da}} {{term|trúr|lang=non}}.
 ==Esperanto==
 
 ===Etymology===
-From {{etyl|fr|eo}} {{term|trop|lang=fr}}.
+{{borrowing|fr|trop|lang=eo}}.
 
 ===Adverb===
 {{eo-adv}}
 
 # [[too]] much
-#: ''nek '''tro''' nek maltro''
-#:: neither too much nor too little
+#: {{usex|nek '''tro''' nek maltro|t=neither too much nor too little|lang=eo}}
 
-[[Category:Esperanto adverbs]]
 {{eo BRO|1}}
 
 ====Antonyms====
-* {{l|eo|maltro|gloss=too little}}
+* {{l|eo|maltro||too little}}
 
 ====Derived terms====
-* [[troege]], [[troe]]; [[maltroege]]
-* [[troete]]; [[maltroete]]
-* [[troa]]; [[maltroa]]
-* [[troaĵo]]; [[maltroaĵo]]
-* [[troigi]]; [[maltroigi]]
-* [[troigo]]; [[maltroigo]]
-* [[troiga]]; [[maltroiga]]
-* [[troige]]; [[maltroige]]
-* [[troiĝi]]; [[maltroiĝi]]
+{{der3|[[troege]], [[troe]]; [[maltroege]]
+|[[troete]]; [[maltroete]]
+|[[troa]]; [[maltroa]]
+|[[troaĵo]]; [[maltroaĵo]]
+|[[troigi]]; [[maltroigi]]
+|[[troigo]]; [[maltroigo]]
+|[[troiga]]; [[maltroiga]]
+|[[troige]]; [[maltroige]]
+|[[troiĝi]]; [[maltroiĝi]]|lang=eo}}
 
 ----
 
 ==Ido==
 
 ===Etymology===
-From {{etyl|eo|io}} {{term|tro|lang=eo}}, from {{etyl|fr|io}} {{term|trop|lang=fr}}.
+From {{etyl|eo|io}} {{m|eo|tro}}, from {{etyl|fr|io}} {{m|fr|trop}}.
 
 ===Adverb===
 {{io-adv}}
 
 # [[too]] (much)
-#: ''Elua filiino irus, ma la voyo esas <b>tro</b> longa.'' &mdash; Her daughter would go, but the road is too long.
-
-----
-
-==Norman==
-{{rfc-auto}}
-
-===Etymology===
-From {{etyl|non|nrf}} {{term|trog|lang=non}}.
-
-===Noun===
-{{nrf-noun|m}}
-
-# [[kneading trough]]
-
-====Synonyms====
-* {{l|nrf|tro à pain}}
+#: {{usex|Elua filiino irus, ma la voyo esas '''tro''' longa.|t=Her daughter would go, but the road is '''too''' long.|lang=io}}
 
 ----
 
@@ -129,10 +111,28 @@ From {{etyl|non|nrf}} {{term|trog|lang=non}}.
 
 ----
 
+==Norman==
+
+===Etymology===
+{{borrowing|non|trog|lang=nrf}}.
+
+===Noun===
+{{nrf-noun|m}}
+
+# {{lb|nrf|Jersey}} [[kneading trough]]
+
+====Synonyms====
+* {{l|nrf|tro à pain}}
+
+----
+
 ==Norwegian Bokmål==
 
 ===Alternative forms===
 * {{l|nb|tru}}
+
+===Etymology===
+{{rfe|lang=nb}}
 
 ===Noun===
 {{head|nb|noun|g=c|definite singular|[[troa]]/[[troen]]|uncountable}}
@@ -157,7 +157,7 @@ From {{etyl|non|nrf}} {{term|trog|lang=non}}.
 ==Old French==
 
 ===Etymology===
-From {{etyl|VL.|fro}} {{m|la|*traucum||hole}} (compare {{etyl|LL.|-}} {{term|traugum|lang=la}} in the Capitularies of Charlemagne). Further origin uncertain. Possibly of Germanic or Celtic origin. Compare {{etyl|de|-}} {{term|Trog||trough|lang=de}}, English {{term|trug|lang=en}}, {{term|trough|lang=en}}.
+From {{etyl|VL.|fro}} {{m|la|*traucum||hole}} (compare {{etyl|LL.|-}} {{m|la|traugum}} in the Capitularies of Charlemagne). Further origin uncertain. Possibly of Germanic or Celtic origin. Compare {{etyl|de|-}} {{m|de|Trog||trough}}, English {{m|en|trug}}, {{m|en|trough}}.
 
 ===Noun===
 {{fro-noun|m}}
@@ -175,7 +175,10 @@ From {{etyl|VL.|fro}} {{m|la|*traucum||hole}} (compare {{etyl|LL.|-}} {{term|tra
 ==Scottish Gaelic==
 
 ===Alternative forms===
-* [[troimh]]
+* {{l/gd|troimh}}
+
+===Etymology===
+{{rfe|lang=gd}}
 
 ===Preposition===
 {{head|gd|preposition}}
@@ -197,35 +200,35 @@ pronoun
 | Prepositional
 pronoun (emphatic)
 |-
-| [[mi#Scottish Gaelic|mi]]
-| [[tromham]]
-| [[tromhamsa]]
+| {{l/gd|mi}}
+| {{l/gd|tromham}}
+| {{l/gd|tromhamsa}}
 |-
-| [[tu#Scottish Gaelic|tu]]
-| [[tromhad]]
-| [[tromhadsa]]
+| {{l/gd|tu}}
+| {{l/gd|tromhad}}
+| {{l/gd|tromhadsa}}
 |-
-| [[e#Scottish Gaelic|e]]
-| [[troimhe]]
-| [[troimhesan]]
+| {{l/gd|e}}
+| {{l/gd|troimhe}}
+| {{l/gd|troimhesan}}
 |-
-| [[i#Scottish Gaelic|i]]
-| [[troimhpe]]
-| [[troimhpese]]
+| {{l/gd|i}}
+| {{l/gd|troimhpe}}
+| {{l/gd|troimhpese}}
 |-
-| [[sinn#Scottish Gaelic|sinn]]
-| [[tromhainn]]
-| [[tromhainne]]
+| {{l/gd|sinn}}
+| {{l/gd|tromhainn}}
+| {{l/gd|tromhainne}}
 |-
-| [[sibh#Scottish Gaelic|sibh]]
-| [[tromhaibh]]
-| [[tromhaibhse]]
+| {{l/gd|sibh}}
+| {{l/gd|tromhaibh}}
+| {{l/gd|tromhaibhse}}
 |-
-| [[iad#Scottish Gaelic|iad]]
-| [[tromhpa]]
-| [[tromhpasan]]
+| {{l/gd|iad}}
+| {{l/gd|tromhpa}}
+| {{l/gd|tromhpasan}}
 |}
-* {{l|gd|tro-chèile}}
+* {{l/gd|tro-chèile}}
 
 ----
 
@@ -236,50 +239,38 @@ pronoun (emphatic)
 * {{audio|Sv-tro.ogg|audio|lang=sv}}
 
 ===Etymology===
-From {{etyl|non|sv}} {{term|trú|lang=non}} (noun) and {{term|trúa|lang=non}} (verb).
+From {{etyl|non|sv}} {{m|non|trú|pos=n}} and {{m|non|trúa|pos=v}}.
 
 ===Noun===
 {{sv-noun|c|-}}
 
 # [[faith]], [[belief]]
 # {{context|dated|lang=sv}} [[allegiance]]
-#: ''svära konungen '''tro''' och loven''
-#:: swear allegiance to the king
+#: {{usex|svära konungen '''tro''' och loven|t=swear allegiance to the king|lang=sv}}
 
 ====Declension====
 {{sv-noun-unc-irreg-c|2=tron}}
 
 ====Related terms====
-* [[trofast]]
-* [[trohet]]
-* [[trosfrihet]]
-* [[troslära]]
-* [[trossamfund]]
+{{rel3|trofast|trohet|trosfrihet|troslära|trossamfund|lang=sv}}
 
 ===Verb===
 {{head|sv|verb}}
 
 # to [[believe]]
-#: '''''tro''' alla om gott''
-#:: think well of everybody
-#: '''''tro''' på något''
-#:: [[believe in]] something
-#: '''''tro''' något om någon''
-#:: believe something of someone
+#: {{usex|'''tro''' alla om gott|t=think well of everybody|lang=sv}}
+#: {{usex|'''tro''' på något|t=[[believe in]] something|lang=sv}}
+#: {{usex|'''tro''' något om någon|t=believe something of someone|lang=sv}}
 # to [[think]]; to consider correct, but being unable to [[prove]] it
-#: ''Det har '''trotts''' mycket kring den här utvecklingen, men det har inte varit fastslaget i data vad som verkligen håller på att ske – förrän nu.''
-#:: Much has been thought (speculated) concerning this development, but it hasn't been proven by data what really is happening - until now.
+#: {{usex|Det har '''trotts''' mycket kring den här utvecklingen, men det har inte varit fastslaget i data vad som verkligen håller på att ske – förrän nu.|t=Much has been thought (speculated) concerning this development, but it hasn't been proven by data what really is happening - until now.|lang=sv}}
 # to [[think]]; to consider something correct that is not correct.
-#: ''Hon '''trodde''' att Oslo var Danmarks huvudstad''
-#:: She thought that Oslo was the capital of Denmark
+#: {{usex|Hon '''trodde''' att Oslo var Danmarks huvudstad|t=She thought that Oslo was the capital of Denmark|lang=sv}}
 
 ====Conjugation====
 {{sv-conj-wk|tro|end=vw}}
 
 ====Related terms====
-* [[troende]]
-* [[trolig]]
-* [[trovärdig]]
+{{rel3|troende|trolig|trovärdig|lang=sv}}
 
 ----
 
@@ -292,13 +283,16 @@ From {{etyl|mkh-vie-pro|vi}} {{m|mkh-vie-pro|*Clɔ}}, from {{etyl|aav-pro|vi}} {
 {{vi-pron}}
 
 ===Noun===
-{{head|vi|noun}}
+{{vi-noun}}
 
 # [[ash]], [[ashes]]
 
 ----
 
 ==Welsh==
+
+===Etymology===
+{{rfe|lang=cy}}
 
 ===Pronunciation===
 * {{IPA|/troː/|lang=cy}}
@@ -309,13 +303,13 @@ From {{etyl|mkh-vie-pro|vi}} {{m|mkh-vie-pro|*Clɔ}}, from {{etyl|aav-pro|vi}} {
 # [[bend]], [[turn]], [[curve]]
 # [[twist]], [[kink]]
 # [[turn]], [[go]]
-# [[lap]] (of a race)
-
-====Mutation====
-{{cy-mut-t|ro}}
+# [[lap]] {{qualifier|of a race}}
 
 ====Related terms====
-* {{l|cy|troi}}
+* {{l/cy|troi}}
+
+===Mutation===
+{{cy-mut-t|ro}}
 
 [[az:tro]]
 [[br:tro]]
