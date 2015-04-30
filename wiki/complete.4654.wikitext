@@ -118,18 +118,18 @@ From {{etyl|enm|en}} {{term|compleet||full, complete|lang=enm}}, from {{etyl|fro
 # {{context|logic|of a proof system of a [[formal system]]|lang=en}} &nbsp; With respect to a given [[semantics]], that any [[well-formed formula]] which is (semantically) [[valid]] must also be [[provable]].<ref>Sainsbury, Mark [2001] ''Logical Forms : An Introduction to Philosophical Logic''. Blackwell Publishing, Hong Kong (2010), p. 358.</ref>
 #* Gödel's first incompleteness theorem showed that ''Principia'' could not be both consistent and [[complete]]. According to the theorem, for every sufficiently powerful logical system (such as ''Principia''), there exists a statement ''G'' that essentially reads, "The statement ''G'' cannot be proved." Such a statement is a sort of Catch-22: if ''G'' is provable, then it is false, and the system is therefore inconsistent; and if ''G'' is not provable, then it is true, and the system is therefore incomplete.<sup>{{w|Principia Mathematica|WP}}</sup>
 # {{context|computing theory|lang=en}} With respect to a [[complexity class]], used of a [[problem]] that is in that class and such that every other problem in that class can be [[reduce]]d to it (usually in [[polynomial]] time or [[logarithmic]] space).
-#* {{quote-book|passage='''BPP''' behaves differently in some ways from other classes we have seen. For example, we know of no '''complete''' languages for '''BPP'''.
-|page=137
-|pageurl=https://books.google.ca/books?id=8Wjqvsoo48MC&pg=PA137
-|title=Computational Complexity: A Modern Approach
-|author=Sanjeev Arora and Boaz Barak
-|year=2009}}
 #* {{quote-book|passage=QMA arises naturally in the study of quantum computation, and it also has a '''complete''' problem, Local Hamiltonian, which is a generalization of ''k''-SAT.
 |pageurl=https://books.google.ca/books?id=iJ8XZ4JmXKIC&pg=PA17
 |page=17
 |title=The Complexity of the Consistency and N-representability Problems for Quantum States
 |author=Yi-Kai Liu
 |year=2007}}
+#* {{quote-book|passage='''BPP''' behaves differently in some ways from other classes we have seen. For example, we know of no '''complete''' languages for '''BPP'''.
+|page=137
+|pageurl=https://books.google.ca/books?id=8Wjqvsoo48MC&pg=PA137
+|title=Computational Complexity: A Modern Approach
+|author=Sanjeev Arora and Boaz Barak
+|year=2009}}
 
 ====Synonyms====
 * {{sense|with everything included}} [[entire]], [[total]]
