@@ -17,9 +17,9 @@ From {{etyl|fro|en}} {{term|eschés|lang=fro}}, plural of {{term|eschec|lang=fro
 =====Translations=====
 {{trans-top|two-player board game}}
 * Afrikaans: {{t+|af|skaak}}
-* Albanian: {{t|sq|shah}}
+* Albanian: {{t|sq|shah|m}}
 * Amharic: {{t|am|ሰንጠረዥ|sc=Ethi}}
-* Arabic: {{t+|ar|شطرنج|m|tr=šáṭranj|sc=Arab}}
+* Arabic: {{t+|ar|شَطْرَنْج|m|sc=Arab}}, {{t+|ar|شِطْرَنْج|m|sc=Arab}}
 * Aragonese: {{t|an|axedrez}}
 * Armenian: {{t+|hy|շախմատ}}, {{qualifier|rare}} {{t|hy|ճատրակ}}
 * Asturian: {{t|ast|axedrez}}
@@ -34,8 +34,8 @@ From {{etyl|fro|en}} {{term|eschés|lang=fro}}, plural of {{term|eschec|lang=fro
 * Catalan: {{t+|ca|escacs|m-p}}
 * Central Melanau: {{t|mel|satuor}}
 * Chinese:
-*: Mandarin: {{t+|cmn|棋|tr=qí|sc=Hani}}, {{t+|cmn|西洋棋|tr=xīyángqí|sc=Hani}}, {{t+|cmn|國際象棋|sc=Hani}}, {{t|cmn|国际象棋|tr=guójìxiàngqí|sc=Hani}}
-*: Cantonese: {{t|yue|棋|tr=kei4|sc=Hani}}, {{t|yue|國際象棋|tr=gwok3zai3zoeng6kei4|sc=Hani}}
+*: Mandarin: {{t+|cmn|棋|tr=qí|sc=Hani}}, {{t+|cmn|西洋棋|tr=xīyángqí|sc=Hani}}, {{t+|cmn|國際象棋|sc=Hani}}, {{t+|cmn|国际象棋|tr=guójìxiàngqí|sc=Hani}}
+*: Cantonese: {{t|yue|棋|tr=kei4|sc=Hani}}, {{t|yue|西洋棋|tr=sai1 joeng4 kei4-2|sc=Hani}}, {{t|yue|國際象棋|sc=Hani}}, {{t|yue|国际象棋|tr=gwok3 zai3 zoeng6 kei4|sc=Hani}}
 * Chuvash: {{t|cv|шахмат|sc=Cyrl}}
 * Classical Nahuatl: {{t|nci|cuappatōlli}}
 * Cornish: {{t|kw|gwydhbol|m}}
@@ -54,7 +54,7 @@ From {{etyl|fro|en}} {{term|eschés|lang=fro}}, plural of {{term|eschec|lang=fro
 * German: {{t+|de|Schach|n}}
 * Greek: {{t+|el|σκάκι|n}}
 * Hebrew: {{t+|he|שַׁחְמָט|m|tr=shakhmát}}
-* Hindi: {{t+|hi|शतरंज|f|tr=śatrãñj}}
+* Hindi: {{t+|hi|शतरंज|f}}
 * Hungarian: {{t+|hu|sakk}}
 * Icelandic: {{t+|is|skák|n}}, {{t|is|skáktafl|n}}
 * Indonesian: {{t+|id|catur}}
@@ -71,12 +71,12 @@ From {{etyl|fro|en}} {{term|eschés|lang=fro}}, plural of {{term|eschec|lang=fro
 {{trans-mid}}
 * Lao: {{t|lo|ໝາກຮຸກ|sc=Laoo}}, {{t|lo|ໝາກເສີກ|sc=Laoo}}, {{t|lo|ໝາກເສິກ|sc=Laoo}}
 * Latin: {{t-check|la|latrunculi|m-p|alt=latrúnculī}} <!-- was "[[latrunculi|latrúnculī]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-check|la|latrunculorum|alt=latrunculṓrum}} ''gen pl'' <!-- was "[[latrunculorum|latrunculṓrum]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
-* Latvian: {{t|lv|šahs}}
+* Latvian: {{t|lv|šahs|m}}
 * Lithuanian: {{t|lt|šachmatai|m-p}} 
 *: Samogitian: {{t|sgs|šachmatā|m-p}}
 * Lojban: {{t|jbo|caxmati}}
 * Luxembourgish: {{t|lb|Schach|n}}
-* Macedonian: {{t|mk|шах|m}}, {{t|mk|шах}}
+* Macedonian: {{t|mk|шах|m}}
 * Malagasy: {{t+|mg|eseka}}, {{t+|mg|fanorona}}, {{t+|mg|tsifahombiazana}}
 * Malay: {{t+|ms|catur}}, {{t|ms|sekak}}
 * Maltese: {{t|mt|ċess}}
@@ -93,7 +93,7 @@ From {{etyl|fro|en}} {{term|eschés|lang=fro}}, plural of {{term|eschec|lang=fro
 * Punjabi: {{qualifier|Gurmukhi}} {{t|pa|ਸ਼ਤਰੰਜ|sc=pa-Arab}}
 * Romanian: {{t+|ro|șah|n}}
 * Russian: {{t+|ru|ша́хматы|m-p}}
-* Sanskrit: {{t|sa|चतुरङग|tr=caturaṅga|sc=Deva}}
+* Sanskrit: {{t|sa|चतुरङग|sc=Deva}}
 * Scottish Gaelic: {{t|gd|tàileasg|m}}, {{t|gd|fidhcheall|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|шах|m}}, {{t|sh|сантрач|m}} {{qualifier|poetic}}
@@ -120,7 +120,7 @@ From {{etyl|fro|en}} {{term|eschés|lang=fro}}, plural of {{term|eschec|lang=fro
 * Welsh: {{t+|cy|gwyddbwyll|m|f}}, {{t|cy|sies|m}}
 * West Frisian: {{t|fy|skake}}
 * Yakut: {{t|sah|саахымат|sc=Cyrl}}
-* Yiddish: {{t|yi|שאָך|sc=Hebr}}
+* Yiddish: {{t|yi|שאָך|m|sc=Hebr}}
 {{trans-bottom}}
 
 =====Related terms=====
