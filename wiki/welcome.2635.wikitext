@@ -72,7 +72,7 @@ Similar constructions are common in [[Romance languages]], such as Italian {{ter
 * Gujarati: {{t|gu|પધારો|tr=padhāro|sc=Gujr}}
 * Hawaiian: {{t|haw|aloha}}
 * Hebrew: {{t+|he|ברוך הבא|m|tr=barúkh habá|alt=!בָּרוּךְ הַבָּא|sc=Hebr}}, {{t|he|ברוכה הבאה|f|tr=brukhá habáa|alt=!ברוכה הבאה|sc=Hebr}}, {{t|he|ברוכים הבאים|p|tr=brukhím habaím|alt=!ברוכים הבאים|sc=Hebr}}, {{t|he|ברוכות הבאות|f-p|tr=brukhót habaót|alt=!ברוכות הבאות|sc=Hebr}}
-* Hindi: {{t|hi|स्वागतम|tr=svāgatam|sc=Deva}}, {{t|hi|स्वागत है|tr=svāgat hai|sc=Deva}}
+* Hindi: {{t|hi|स्वागतम|sc=Deva}}, {{t|hi|स्वागत है|sc=Deva}}
 * Hungarian: {{t+|hu|Isten hozott}}! {{qualifier|less formal}}, {{t|hu|Isten hozta}}! {{qualifier|more formal}}
 * Icelandic: {{t+|is|velkominn}}! {{g|m}}, {{t+|is|velkomin}} {{qualifier|f sg & mixed pl}}, {{t|is|velkomnir|m-p}}, {{t|is|velkomnar|f-p}}
 * Ido: {{t+|io|bonveno}}
@@ -110,7 +110,7 @@ Similar constructions are common in [[Romance languages]], such as Italian {{ter
 * Manchu: {{t-needed|mnc}}
 * Manx: {{t|gv|failt}}, {{t|gv|failt royd}}
 * Maori: {{t|mi|haere mai}}, {{t|mi|nau mai}}
-* Marathi: {{t|mr|स्वागत आहे|tr=svāgat āhe|sc=Deva}}
+* Marathi: {{t|mr|स्वागत आहे|sc=Deva}}
 * Mazanderani: {{t|mzn|خش ‌بیمونی}}
 * Mi'kmaq: {{t|mic|weltasualuleg}}
 * Mongolian: {{t|mn|тавтай морилогтун|sc=Cyrl}}
@@ -208,9 +208,11 @@ Similar constructions are common in [[Romance languages]], such as Italian {{ter
 {{trans-top|affirm or greet the arrival of someone}}
 * Afrikaans: {{t|af|verwelkom}}
 * American Sign Language: {{t|ase|OpenB@DistalSideChesthigh-PalmAcross RoundVert OpenB@DistalInsideTrunkhigh-PalmUp RoundHoriz OpenB@NearCenterTrunkhigh-PalmUp}}
-* Arabic: {{t+|ar|رحب|tr=raHHaba}}
-* Bulgarian: {{t|bg|приветствам|tr=privétstvam|sc=Cyrl}}
+* Arabic: {{t+|ar|رَحَّبَ}}
+* Bulgarian: {{t|bg|приве́тствам|impf|sc=Cyrl}}
 * Catalan: {{t|ca|[[donar]] la [[benvinguda]]}}, {{t+|ca|acollir}}
+* Chinese:
+*: Mandarin: {{t+|cmn|歡迎|sc=Hani}}, {{t+|cmn|欢迎|tr=huānyíng|sc=Hani}}
 * Czech: {{t+|cs|vítat}}
 * Danish: {{t|da|byde velkommen}}
 * Dutch: {{t+|nl|verwelkomen}}, {{t|nl|welkom heten}}
@@ -223,18 +225,17 @@ Similar constructions are common in [[Romance languages]], such as Italian {{ter
 * Indonesian: {{t+|id|sambut|alt=menyambut}}
 * Interlingua: {{t-check|ia|[[dar]] le [[benvenita]] a}} <!-- was "[[dar]] le [[benvenita]] a" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Italian: {{t+check|it|accogliere}}, {{t-check|it|[[dare]] il [[benvenuto]]}} <!-- was "[[dare]] il [[benvenuto]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
-* Japanese: {{t|ja|歓迎する|tr=kangei suru}}
+* Japanese: {{t|ja|歓迎|tr=かんげいする, kangei suru|alt=歓迎する}}
 * Khmer: {{t+|km|ទទួល|tr=dordūul|sc=Khmr}}
-* Korean: {{t+|ko|환영하다|tr=hwanyeonghada}}
+* Korean: {{t+|ko|환영하다}}
 * Latin: {{t|la|alicuius adventu festum agere}}, {{t|la|alicuius adventu festum ago}}, {{t|la|adventu festum ago}}
 {{trans-mid}}
-* Macedonian: {{t|mk|пожелува добредојде|tr=požéluva dobrédojde}}, {{t|mk|пречекува|tr=prečékuva}}, {{t|mk|прима|tr=príma}}
-* {{ttbc|cmn}}: {{zh-tsp|歡迎|欢迎|huānyíng}}
+* Macedonian: {{t|mk|поже́лува добре́дојде}}, {{t|mk|прече́кува}}, {{t|mk|при́ма}}
 * Maori: {{t|mi|rāhiri}}
 * Polish: {{t+|pl|witać}}
 * Portuguese: {{t|pt|[[dar]] as [[boas-vindas]] a}}, {{t+|pt|receber}}, {{t+|pt|acolher}}
 * Romanian: {{t+|ro|întâmpina}}
-* Russian: {{t+|ru|приветствовать|impf|tr=privétstvovat’}}
+* Russian: {{t+|ru|приве́тствовать|impf}}
 * Scots: {{t|sco|walcum}}
 * Scottish Gaelic: {{t|gd|cuir fàilte air}}
 * Slovene: {{t-check|sl|[[izreči]] [[dobrodošlica|dobrodošlico]]}} <!-- was "[[izreči]] [[dobrodošlica|dobrodošlico]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
@@ -251,15 +252,16 @@ Similar constructions are common in [[Romance languages]], such as Italian {{ter
 
 {{trans-top|to accept willingly}}
 * American Sign Language: {{t|ase|FlatB@FromTrunk-PalmUp FlatB@Trunk-PalmUp}}
-* Czech: {{t+|cs|vítat}}
+* Chinese:
+*: Mandarin: {{t+|cmn|歡迎|sc=Hani}}, {{t+|cmn|欢迎|tr=huānyíng|sc=Hani}}
+* Czech: {{t+|cs|vítat|impf}}
 * Dutch: {{t+|nl|verwelkomen}}, {{t|nl|graag ontvangen}}
 * Finnish: {{t+|fi|toivottaa tervetulleeksi}}
 * German: {{t+|de|begrüßen}}, {{t+|de|gutheißen}}
 {{trans-mid}}
-* Japanese: {{t|ja|うれしく思う|tr=ureshiku omou}}
-* Mandarin: {{t+check|cmn|歡迎|sc=Hani}}, {{t+check|cmn|欢迎|sc=Hani}}, {{t-check|cmn|huānyíng|sc=Hani}}
+* Japanese: {{t|ja|[[うれしい|うれしく]][[思う]]|tr=ureshiku omou}}
 * Portuguese: {{t+|pt|aceitar}}
-* Russian: {{t+|ru|приветствовать|impf|tr=privétstvovat’}}
+* Russian: {{t+|ru|приве́тствовать|impf}}
 * Swedish: {{t+|sv|välkomna}}
 {{trans-bottom}}
 
@@ -286,7 +288,7 @@ Similar constructions are common in [[Romance languages]], such as Italian {{ter
 * Armenian: {{t+|hy|ցանկալի|sc=Armn}}, {{t|hy|հաճելի|sc=Armn}}, {{t|hy|սպասված|sc=Armn}}
 * Asturian: {{t|ast|bienveníu}}
 * Basque: {{t+|eu|ongi etorri}}
-* Bulgarian: {{t+|bg|желан|m|sc=Cyrl}}, {{t+|bg|желана|f|sc=Cyrl}}, {{t+|bg|желано|n|sc=Cyrl}}, {{t+|bg|желани|p|tr=želan, želana, želano, želani|sc=Cyrl}}
+* Bulgarian: {{t+|bg|желан|sc=Cyrl}}
 * Catalan: {{t+|ca|benvingut}}
 * Czech: {{t|cs|vítaný}}
 * Danish: {{t+|da|velkommen}}
@@ -304,12 +306,12 @@ Similar constructions are common in [[Romance languages]], such as Italian {{ter
 * Italian: {{t+|it|benvenuto|m}}
 * Japanese: {{t|ja|歓迎すべき|tr=kangei subeki}}
 * Latin: {{t|la|volens}}, {{t|la|acceptus}}, {{t+|la|amicus}}
-* Macedonian: {{t|mk|добредојден|m|tr=dobrédojden}}
+* Macedonian: {{t|mk|добре́дојден}}
 * Norman: {{t|nrf|byinvenûn}} {{qualifier|continental Normandy}}, {{t|nrf|beinv'nu}} {{qualifier|Jersey}}
 * Polish: {{t|pl|mile widziany|m}}
 * Portuguese: {{t+|pt|bem-vindo}}
 * Romanian: {{t|ro|binevenit|m}}, {{t|ro|binevenită|f}}
-* Russian: {{t+|ru|желанный|tr=želánnyj}}
+* Russian: {{t+|ru|жела́нный}}
 * Scots: {{t|sco|walcum}}
 * Serbo-Croatian: {{t+|sh|željan}}, {{t|sh|željna}}, {{t+|sh|željni}}, {{t+|sh|željno}}, {{t+|sh|poželjan}}, {{t+|sh|poželjna}}, {{t+|sh|poželjni}}, {{t+|sh|poželjno}}
 * Slovene: {{t+|sl|dobrodošel|m}}, {{t|sl|dobrodošla|f}}
