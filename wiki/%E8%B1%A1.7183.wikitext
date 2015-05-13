@@ -90,23 +90,6 @@ This character represents an [[elephant]] (see [http://www.chineseetymology.org/
 
 ==Japanese==
 
-===Pronunciation===
-{{ja-pron|yomi=o|ぞう|acc=1|acc_ref=NHK}}
-
-===Noun===
-{{ja-noun|count=頭|ぞう|ゾウ}}
-
-# [[elephant]]
-
-===Noun===
-{{ja-noun|きさ}}
-
-# [[elephant]]
-#* {{RQ:Wamyō Ruijushō|7|52}}
-#*: 象 [...] '''岐佐''' [...] 獣名、似水牛、大耳、長鼻、眼細、牙長者也
-#* {{RQ:Utsubo Monogatari|Toshikage}}
-#*: それより西を行ケば、虎狼ひと山さワぐ所有り。'''キサ'''出デてその山をこしつ。
-
 ===Kanji===
 {{ja-kanji|grade=4|rs=豕05}}
 
@@ -118,7 +101,20 @@ This character represents an [[elephant]] (see [http://www.chineseetymology.org/
 ====Readings====
 {{ja-readings|goon=[[ぞう]] (zō)|kanon=[[しょう]] (shō)|kun=[[かた]] (kata), [[かたどる]] (katadoru), [[のり]] (nori)}}
 
-====Compounds====
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|ぞう|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=goon|ぞう|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|count=頭|ぞう|ゾウ|hhira=ざう}}
+
+# [[elephant]]
+
+=====Derived terms=====
 {{der-top}}
 * {{ja-r|アジア象|アジアぞう}}: [[Asian elephant]]
 * {{ja-r|アフリカ象|アフリカぞう}}: [[African elephant]]
@@ -126,16 +122,45 @@ This character represents an [[elephant]] (see [http://www.chineseetymology.org/
 * {{ja-r|象嵌|ぞうがん}}, {{ja-r|象眼|ぞうがん}}: [[inlay]]
 * {{ja-r|象牙|ぞうげ}}: [[ivory]]
 * {{ja-r|象牙の塔|ぞうげのとう}}: [[ivory]] [[tower]]
-{{der-mid}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|しょう|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|しょう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|しょう|hhira=しやう}}
+
+# [[likeness]]
+
+=====Derived terms=====
+{{der-top}}
 * {{ja-r|象形|しょうけい}}: [[hieroglyphics]]
 * {{ja-r|象徴|しょうちょう}}: [[symbol]]
 * {{ja-r|抽象|ちゅうしょう}}: [[abstraction]]
 {{der-bottom}}
 
+===Etymology 3===
+{{ja-kanjitab|きさ|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|きさ}}
+
+====Noun====
+{{ja-noun|きさ}}
+
+# {{context|obsolete|lang=ja|sort=きさ}} [[elephant]]
+#* {{RQ:Wamyō Ruijushō|7|52}}
+#*: 象 [...] '''岐佐''' [...] 獣名、似水牛、大耳、長鼻、眼細、牙長者也
+#* {{RQ:Utsubo Monogatari|Toshikage}}
+#*: それより西を行ケば、虎狼ひと山さワぐ所有り。'''キサ'''出デてその山をこしつ。
+
 ===References===
 <references />
-* {{R:Utsubo Monogatari 1}}
-* {{R:Wamyō Ruijushō}}
+:* {{R:Utsubo Monogatari 1}}
+:* {{R:Wamyō Ruijushō}}
 
 [[Category:1000 Japanese basic words|そう']]
 [[Category:ja:Elephants|そう']]
