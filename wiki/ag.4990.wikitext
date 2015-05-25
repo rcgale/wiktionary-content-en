@@ -105,16 +105,16 @@ From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*auga}}, from {{etyl|ine-pro|sq}} {{m|ine-p
 
 ==Irish==
 
-===Pronunciation===
+===Etymology 1===
+From {{etyl|sga|ga}} {{term|oc|lang=sga}}. Akin to {{l|ga|agus}}. Compare Scottish Gaelic {{l|gd|aig}}.
+
+====Pronunciation====
 * {{sense|particle}}
 ** {{IPA|lang=ga|[ə]}} before a consonant
 ** {{IPA|lang=ga|[əɡ]|[əɟ]}} before a vowel
 * {{sense|preposition}} {{IPA|lang=ga|[ɛɟ]}}
 
-===Etymology===
-From {{etyl|sga|ga}} {{term|oc|lang=sga}}. Akin to {{l|ga|agus}}. Compare Scottish Gaelic {{l|gd|aig}}.
-
-===Particle===
+====Particle====
 {{head|ga|particle}}
 
 # particle used with the [[verbal noun]] to make a [[progressive]] [[aspect]]:
@@ -123,7 +123,7 @@ From {{etyl|sga|ga}} {{term|oc|lang=sga}}. Akin to {{l|ga|agus}}. Compare Scotti
 #: {{ux|ga|'''ag''' ithe|eating|inline=1}}
 #: {{ux|ga|'''ag''' ól|drinking|inline=1}}
 
-===Preposition===
+====Preposition====
 {{ga-prep}}
 
 # [[at]]
@@ -145,7 +145,30 @@ From {{etyl|sga|ga}} {{term|oc|lang=sga}}. Akin to {{l|ga|agus}}. Compare Scotti
 #: {{ux|ga|Tá caint '''agam'''.|I can talk.}}
 #: {{ux|ga|Tá ceol '''agam'''.|I can make music.}}
 
-====Inflection====
+=====Inflection=====
+{{ga-prep-infl|1sg = agam
+|2sg = agat
+|3sgm = aige
+|3sgmem = aigesean
+|3sgf = aici
+|1pl = againn
+|2pl = agaibh
+|3pl = acu
+}}
+
+===Etymology 2===
+Reduced form of {{m|ga|chuig}}, assimilated in all forms to Etymology 1.
+
+====Pronunciation====
+* {{sense|preposition}} {{IPA|lang=ga|/ɛɟ/}}
+
+====Preposition====
+{{ga-prep}}
+
+# {{lb|ga|colloquial}} {{alternative form of|chuig|lang=ga|gloss=to {{i|a person or place}}}}
+#: {{ux|ga|Tá mé ag dul '''ag''' an dochtúr.|I’m going to the doctor}}
+
+=====Inflection=====
 {{ga-prep-infl|1sg = agam
 |2sg = agat
 |3sgm = aige
@@ -159,6 +182,8 @@ From {{etyl|sga|ga}} {{term|oc|lang=sga}}. Akin to {{l|ga|agus}}. Compare Scotti
 ===References===
 * {{R:ga:Ó Dónaill}}
 * {{R:MacBain}}
+* {{R:ga:Dinneen}}
+* {{R:ga:Ó Dónaill}}
 
 ----
 
