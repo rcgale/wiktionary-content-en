@@ -77,10 +77,13 @@ From {{etyl|enm|en}} {{term|plurelle|lang=enm|sc=Latn}}, from {{etyl|fro|en}} {{
 ===Noun===
 {{en-noun}}
 
-# {{context|grammar|lang=en}}: a word in the form in which it potentially refers to something other than one person or thing; and other than two things if the language has a ''[[dual]]'' form.
+# {{context|grammar, without plural|lang=en}}: the plural number
+#* '''1895''', William W. Goodwin, ''A Greek Grammar. Revised and enlarged.'', Boston, p.34:
+#*: "There are three numbers; the singular, the dual, and the '''plural'''. [...] The dual is sometimes used to denote two objects, but even here the '''plural''' is more common."
+# {{context|grammar, with plural|lang=en}}: a word in the form in which it potentially refers to something other than one person or thing; and other than two things if the language has a ''[[dual]]'' form.
 
 ====Usage notes====
-* Many languages have [[singular]] and plural forms for one item or more than one item. Some have a singular form for one, [[dual]] form for two, [[trial]] form for three, [[paucal]] form for several, and plural for more than two (e.g., [[Arabic]], [[Fijian]]).
+* Many languages have [[singular]] and plural forms for one item or more than one item. Some have a singular form for one, [[dual]] form for two, [[trial]] form for three, [[paucal]] form for several, and plural for more than two (e.g. [[Arabic]], [[Fijian]]).
 * While the plural form generally refers to two or more persons or things, that is not always the case. The plural form is often used for [[zero]] persons or things, for fractional things in a quantity greater than one, and for people or things when the quantity is unknown.
 * In English, the plural is most often formed simply by adding the letter "[[s]]" to the end of a noun, e.g. [[apple]]/[[apples]]. There are many exceptions, however, such as [[echo]]/[[echoes]], [[mouse]]/[[mice]], [[child]]/[[children]], [[deer]]/[[deer]] (same word), etc.
 
@@ -88,6 +91,13 @@ From {{etyl|enm|en}} {{term|plurelle|lang=enm|sc=Latn}}, from {{etyl|fro|en}} {{
 * [[singular]]
 
 ====Translations====
+{{trans-top|the plural number}}
+* German: {{t+|de|Mehrzahl|f}}, {{t+|de|Plural|m}}
+* Japanese: {{t|ja|複数|tr=[[ふくすう]], fukusū}}
+{{trans-mid}}
+* Latin: ({{t|la|numerus}}) {{t|la|pluralis}}
+{{trans-bottom}}
+
 {{trans-top|word in plural form}}
 * Albanian: {{t|sq|shumës}}
 * Arabic: {{t+|ar|جمع|tr=jamʻ}}, {{t|ar|صيغة الجمع|tr=ṣīġatu 'l-jamʻ}}
@@ -101,7 +111,7 @@ From {{etyl|enm|en}} {{term|plurelle|lang=enm|sc=Latn}}, from {{etyl|fro|en}} {{
 * Finnish: {{t+|fi|monikko}}
 * French: {{t+|fr|pluriel|m}}
 * Georgian: {{t|ka|მრავლობითი|sc=Geor}}, {{t|ka|მრავლობითი რიცხვი|sc=Geor}}
-* German: {{t+|de|Plural|m}}, {{t+|de|Mehrzahl|f}}
+* German: {{t+|de|Plural|m}}, {{t+|de|Pluralformen|f}}
 * Greek: {{t+|el|πληθυντικός|tr=plithindikós|m}}
 * Icelandic: {{t+|is|fleirtala|f}}
 * Indonesian: [[bentuk]] [[jamak]]
@@ -111,7 +121,6 @@ From {{etyl|enm|en}} {{term|plurelle|lang=enm|sc=Latn}}, from {{etyl|fro|en}} {{
 * Korean: {{t|ko|복수형|sc=Hang}}
 * Kurdish:
 *: Sorani: {{t|ku|پڕژمار|tr=pirrjimar|sc=ku-Arab}}
-* Latin: {{t|la|pluralis}}
 {{trans-mid}}
 * Latvian: {{t+|lv|daudzskaitlis|m}}
 * Luxembourgish: {{t|lb|Pluriel|m}}, {{t+|lb|Méizuel|f}}
