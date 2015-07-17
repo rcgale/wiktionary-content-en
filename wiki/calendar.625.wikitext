@@ -1,9 +1,9 @@
-Plurals 
-Example, which one is the plural skyes, skys or skies
-
 ==English==
 {{Wikisource1911Enc|Calendar}}
 {{wikipedia}}
+
+===Etymology===
+From {{etyl|fro|en}} {{term|calendier|lang=fro|sc=Latn}}, from {{etyl|la|en}} {{term|calendarium||account book|lang=la|sc=Latn}}, from {{term|calendae||lang=la|the first day of the month|sc=Latn}}, from {{term|calare||to announce solemnly, to call out (the sighting of the new moon)|sc=Latn|lang=la}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*kelh₁-}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/ˈkæl.ən.də/|lang=en}}
@@ -210,7 +210,33 @@ Example, which one is the plural skyes, skys or skies
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Albanian: {{
+* Albanian: {{t-check|sq|kalendar|m}}
+* Breton: {{t-check|br|deiziadur|m}}, {{t+check|br|-ioù}}
+* Korean: {{t-check|ko|-력|sc=Kore}} ([[曆]])
+* Novial: {{t-check|nov|kalendre}}
+* Romanian: {{t+check|ro|calendar|n}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb}}
+
+# {{context|legal|lang=en}} To set a date for a proceeding in [[court]], usually done by a judge at a [[calendar call]].
+#: ''The judge agreed to '''calendar''' a hearing for pretrial motions for the week of May 15, but did not agree to '''calendar''' the trial itself on a specific date.''
+# To enter or write in a calendar; to register.
+#: {{rfquotek|Waterhouse}}
+
+====Translations====
+{{trans-top|to set a date for a proceeding in court}}
+* Dutch: {{t+|nl|vastleggen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Anagrams===
+* [[landrace#English|landrace]]
+
+[[Category:en:Time]]
+
+----
 
 ==Romanian==
 
@@ -225,6 +251,9 @@ Borrowed (in this form) from {{etyl|la|ro}} {{m|la|calendārium}}. Compare the i
 
 # {{l/en|calendar}}
 # [[almanac]]
+
+====Declension====
+{{ro-noun-n|pl=calendare|def=calendarul}}
 
 ====Related terms====
 * [[cărindar]]
