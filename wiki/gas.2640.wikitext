@@ -46,10 +46,10 @@ From {{etyl|nl|en}} {{term|gas|lang=nl}}, a word coined by chemist [[w:Jan Bapti
 * Armenian: {{t+|hy|գազ}}
 * Azeri: {{t+|az|qaz}}
 * Basque: {{t+|eu|gas}}
-* Belarusian: {{t|be|газ|m|tr=haz}}
+* Belarusian: {{t|be|газ|m}}
 * Bengali: {{t|bn|গ্যাস|tr=gæs|sc=Beng}}
-* Bulgarian: {{t+|bg|газ|m|tr=gaz}}
-* Burmese: {{t+|my|ဓာတ်ငွေ့|tr=da' ngwei.|sc=Mymr}}
+* Bulgarian: {{t+|bg|газ|m}}
+* Burmese: {{t+|my|ဓာတ်ငွေ့|sc=Mymr}}
 * Chinese:
 *: Cantonese: {{t|yue|氣體|sc=Hani}}, {{t|yue|气体|tr=hei3 tai2|sc=Hani}}
 *: Mandarin: {{t+|cmn|氣體|sc=Hani}}, {{t+|cmn|气体|tr=qìtǐ|sc=Hani}}, {{t+|cmn|氣|sc=Hani}}, {{t+|cmn|气|tr=qì|sc=Hani}}
@@ -74,16 +74,16 @@ From {{etyl|nl|en}} {{term|gas|lang=nl}}, a word coined by chemist [[w:Jan Bapti
 * Irish: {{t|ga|gás|m}}
 * Italian: {{t+|it|gas|m}}
 * Japanese: {{t+|ja|気体|tr=[[きたい]], kitai}}, {{t+|ja|ガス|tr=gasu}}
-* Kazakh: {{t|kk|газ|tr=gaz|sc=Cyrl}}
+* Kazakh: {{t|kk|газ|sc=Cyrl}}
 {{trans-mid}}
 * Khmer: {{t|km|ឧស្ម័ន|tr=usman|sc=Khmr}}, {{t|km|ហ្គាស|tr=gaah|sc=Khmr}}
 * Korean: {{t+|ko|가스|sc=Hang}}, {{t+|ko|기체|sc=Kore}}
-* Kyrgyz: {{t|ky|газ|tr=gaz|sc=Cyrl}}
-* Lao: {{t|lo|ອາຍໄຕ້|tr=ʔàːy tâi|sc=Laoo}}
+* Kyrgyz: {{t|ky|газ|sc=Cyrl}}
+* Lao: {{t|lo|ອາຍໄຕ້|sc=Laoo}}
 * Latin: {{t|la|gas|n}}, {{t|la|gasum|n}}, {{t|la|gasium|n}}
 * Latvian: {{t|lv|gāze|f}}
 * Lithuanian: {{t|lt|dujos|f-p}}
-* Macedonian: {{t|mk|гас|m|tr=gas|sc=Cyrl}}
+* Macedonian: {{t|mk|гас|m|sc=Cyrl}}
 * Malay: {{t|ms|gas}}
 * Maori: {{t|mi|haurehu}}
 * Persian: {{t+|fa|گاز|tr=gâz|sc=fa-Arab}}
@@ -99,13 +99,13 @@ From {{etyl|nl|en}} {{term|gas|lang=nl}}, a word coined by chemist [[w:Jan Bapti
 * Spanish: {{t+|es|gas|m}}
 * Swahili: {{t+|sw|gesi}}
 * Swedish: {{t+|sv|gas|c}}
-* Tajik: {{t|tg|газ|tr=gaz|sc=Cyrl}}
-* Tatar: {{t|tt|газ|tr=gaz|sc=Cyrl}}
-* Telugu: {{t+|te|వాయువు|tr=vAyuvu}}
+* Tajik: {{t|tg|газ|sc=Cyrl}}
+* Tatar: {{t|tt|газ|sc=Cyrl}}
+* Telugu: {{t+|te|వాయువు}}
 * Thai: {{t+|th|ก๊าซ|tr=gáat}}, {{t+|th|แก๊ส|tr= gáet}}
 * Turkish: {{t+|tr|gaz}}
 * Turkmen: {{t|tk|gaz}}
-* Ukrainian: {{t+|uk|газ|m|tr=haz}}
+* Ukrainian: {{t+|uk|газ|m}}
 * Urdu: {{t|ur|گیس|tr=gais}}, {{t|ur|فارغہ}}
 * Uzbek: {{t+|uz|gaz}}
 * Vietnamese: {{t|vi|khí tê}}, {{t+|vi|khí}}, {{t+|vi|chất khí}}
@@ -227,7 +227,7 @@ Shortening of {{term|gasoline}}.
 {{trans-mid}}
 * Italian: {{t+|it|benzina|f}}
 * Japanese: {{t+|ja|ガソリン|tr=[[がそりん]], gasorin}}
-* Macedonian: {{t|mk|бензин|m|tr=bénzin|sc=Cyrl}}
+* Macedonian: {{t|mk|бензин|m|sc=Cyrl}}
 * Polish: {{t+|pl|benzyna|f}}
 * Portuguese: {{t+|pt|gasolina|f}}
 * Romanian: {{t+|ro|benzină}}
@@ -257,7 +257,7 @@ Shortening of {{term|gasoline}}.
 {{trans-top|give a vehicle more fuel in order to accelerate}}
 * Bulgarian: {{t|bg|давам газ|sc=Cyrl}}
 * German: {{t|de|Gas geben}}
-* Macedonian: {{t|mk|дава гас|tr=dáva gas|sc=Cyrl}}
+* Macedonian: {{t|mk|дава гас|sc=Cyrl}}
 {{trans-mid}}
 * Russian: {{t|ru|жать на газ|impf}}; {{t+|ru|газова́ть|impf}}, {{t+|ru|газану́ть|pf}}
 * Spanish: {{t+|es|acelerar}}
@@ -339,7 +339,7 @@ Coined by chemist Van Helmont. Perhaps inspired by {{term|geest||breath, vapour,
 # {{nl-verb form of|m=imp|gassen}}
 
 ===Etymology 2===
-From {{etyl|dum|nl}} {{term|gasse||unpaved street|lang=nl}}, from {{etyl|gmh|nl}} {{term|gazze|lang=goh}}, from {{etyl|goh|nl}} {{term|gazza|lang=goh}}, from {{etyl|gem-pro|nl}} {{m|gem-pro|*gatwǭ}}. Cognate with English {{term|gate||lang=nl}} and German {{term|Gasse||unpaved street|lang=de}}. Related to Dutch {{term|gat||hole|lang=nl}}.
+From {{etyl|dum|nl}} {{m|nl|gasse||unpaved street}}, from {{etyl|gmh|nl}} {{m|gmh|gazze}}, from {{etyl|goh|nl}} {{m|goh|gazza}}, from {{etyl|gem-pro|nl}} {{m|gem-pro|*gatwǭ}}. Cognate with English {{m|en|gate}} and German {{m|de|Gasse||unpaved street}}. Related to Dutch {{m|nl|gat||hole}}.
 
 ====Noun====
 {{nl-noun|f|-en|gasje}}
@@ -514,7 +514,7 @@ From {{etyl|fro|nrf}} {{m|fro|gars}}, nominative singular form of {{m|fro|garço
 * {{l|osx|gōs}}
 
 ===Etymology===
-From {{etyl|gem-pro|osx}} {{m|gem-pro|*gans}}, whence also Old English {{m|ang|gōs}}, Old Frisian {{term|gōs|lang=ofs}}, Old High German {{term|gans|lang=goh}}, Old Norse {{term|gás|lang=non}}. Ultimately from {{etyl|ine-pro|osx}} {{m|ine-pro|*ǵʰans-}}.
+From {{etyl|gem-pro|osx}} {{m|gem-pro|*gans}}, whence also Old English {{m|ang|gōs}}, Old Frisian {{m|ofs|gōs}}, Old High German {{m|goh|gans}}, Old Norse {{m|non|gás}}. Ultimately from {{etyl|ine-pro|osx}} {{m|ine-pro|*ǵʰans-}}.
 
 ===Noun===
 {{osx-noun|g=f|head=gās}}
@@ -575,7 +575,7 @@ From {{etyl|bn|rhg}}.
 {{wikipedia|lang=es}}
 
 ===Etymology===
-From {{etyl|nl|es}} {{term|gas|lang=nl}}, coined by Belgian chemist [[w:Jan Baptist van Helmont|Jan Baptist van Helmont]]. Perhaps inspired by {{etyl|dum|-}} {{term|gheest|lang=dum}} (Modern {{etyl|nl|-}} {{term|geest|lang=nl}}) "breath, vapour, spirit", or from {{etyl|grc|es}} {{term|χάος|lang=grc}} "chasm, void".
+From {{etyl|nl|es}} {{m|nl|gas}}, coined by Belgian chemist [[w:Jan Baptist van Helmont|Jan Baptist van Helmont]]. Perhaps inspired by {{etyl|dum|-}} {{m|dum|gheest}} (Modern {{etyl|nl|-}} {{m|nl|geest}}) "breath, vapour, spirit", or from {{etyl|grc|es}} {{m|grc|χάος||chasm, void}}.
 
 ===Pronunciation===
 * {{IPA|/ɡa̠s/|lang=es}}
