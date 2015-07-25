@@ -138,12 +138,11 @@ An unstressed variety of {{etyl|dum|nl}} {{term|die|lang=dum}}. See {{term|die|l
 {{head|nl|article}}
 
 # [[the]] {{gloss|definite article, masculine and feminine gender}}
-#: '''''De''' man'' — “The man”
-#: '''''De''' vrouw'' — “The woman”
-#: ''Het boek'' — “The book”
-#: '''''De''' boeken'' — “The books”
-#: '''''De''' oude man en '''de''' zee.''
-#:: [[w:en:The Old Man and the Sea|'''The''' Old Man and '''the''' Sea.]]
+#: {{ux|nl|'''De''' man|The man|inline=1}}
+#: {{ux|nl|'''De''' vrouw|The woman|inline=1}}
+#: {{ux|nl|Het boek|The book|inline=1}}
+#: {{ux|nl|'''De''' boeken|The books|inline=1}}
+#: {{ux|nl|'''De''' oude man en '''de''' zee.|The old man and the sea.|inline=1}}
 
 ====Usage notes====
 * Placed before [[masculine]] and [[feminine]] nouns and plural nouns of all genders, indicating a specific person or thing instead of a general case.
@@ -173,16 +172,12 @@ From {{etyl|la|eo}} {{term|de|lang=la}}, {{etyl|fr|eo}} {{term|de|lang=fr}}, {{e
 {{eo-prep}}
 
 # [[from]]
-#: Mi ne aĉetas ion ajn '''de''' ĉi tiu vendejo!
-#:: ''I don't buy anything at all '''from''' this store!''
+#: {{ux|eo|Mi ne aĉetas ion ajn '''de''' ĉi tiu vendejo!|I don't buy anything at all '''from''' this store!}}
 # [[possessed]] by
-#: La aŭto '''de''' Davido estas nigra.
-#:: ''David''''s''' car is black.''
+#: {{ux|eo|La aŭto '''de''' Davido estas nigra.|David''''s''' car is black.}}
 # [[done]], [[written]] or [[composed]] [[by]]
-#: Ĉu vi havas esperantan tradukon de ''Drakulo'' '''de''' Bram Stoker?
-#:: ''Do you have an Esperanto translation of ''Dracula'' '''by''' Bram Stoker?''
-#: La viro estis mordita '''de''' hundo.
-#:: ''The man was bitten '''by''' a dog.''
+#: {{ux|eo|Ĉu vi havas esperantan tradukon de ''Drakulo'' '''de''' Bram Stoker?|Do you have an Esperanto translation of ''Dracula'' '''by''' Bram Stoker?}}
+#: {{ux|eo|La viro estis mordita '''de''' hundo.|The man was bitten '''by''' a dog.}}
 
 {{eo BRO|1}}
 
@@ -222,69 +217,41 @@ From {{etyl|la|fr}} {{m|la|dē}}.
 {{fr-prep}}
 
 # [[of]] {{gloss|expresses belonging}}
-#* '''1837''' Louis Viardot, ''L’Ingénieux Hidalgo Don Quichotte de la Manche''<sup>[[s:fr: L’Ingénieux Hidalgo Don Quichotte de la Manche|fr.Wikisource]]</sup>, translation of ''El ingenioso hidalgo Don Quijote de la Mancha'' by Miguel de Cervantes Saavedra, Chapter I:
-#*: Dans une bourgade '''de''' la Manche, dont je ne veux pas me rappeler le nom, vivait, il n’y a pas longtemps, un [[hidalgo]] ....
-#*:: In a village of La Mancha, whose name I do not want to remember, lived, not long ago, an hidalgo ....
-#: ''Paris est la capitale '''de''' la France.''
-#:: ''Paris is the capital '''of''' France.''
-#: ''En 1905, les églises devinrent la propriété '''de''' l'État.''
-#:: ''In 1905, churches became the property '''of''' the state.''
+#* {{quote-book|year=1837|author=Louis Viardot|title=''L’Ingénieux Hidalgo Don Quichotte de la Manche''<sup>[[s:fr: L’Ingénieux Hidalgo Don Quichotte de la Manche|fr.Wikisource]]</sup>, translation of ''El ingenioso hidalgo Don Quijote de la Mancha'' by Miguel de Cervantes Saavedra|chapter=I|passage=Dans une bourgade '''de''' la Manche, dont je ne veux pas me rappeler le nom, vivait, il n’y a pas longtemps, un [[hidalgo]] ....|translation=In a village of La Mancha, whose name I do not want to remember, lived, not long ago, an hidalgo ....|lang=fr}}
+#: {{ux|fr|Paris est la capitale '''de''' la France.|Paris is the capital '''of''' France.|inline=1}}
+#: {{ux|fr|En 1905, les églises devinrent la propriété '''de''' l'État.|In 1905, churches became the property '''of''' the state.|inline=1}}
 # of {{gloss|used to express property or association}}
-#: ''Œuvres '''de''' Fermat''
-#:: ''Fermat'''’s''' Works''
-#: ''Elle est la femme '''de''' mon ami.''
-#:: ''She is my friend’'''s''' wife.''
-#: ''le voisin '''de''' Gabriel''
-#:: ''Gabriel''''s''' neighbor''
+#: {{ux|fr|Œuvres '''de''' Fermat|Fermat'''’s''' Works|inline=1}}
+#: {{ux|fr|Elle est la femme '''de''' mon ami.|She is my friend’'''s''' wife.|inline=1}}
+#: {{ux|fr|le voisin '''de''' Gabriel|Gabriel''''s''' neighbor|inline=1}}
 # [[from]] {{gloss|used to indicate origin}}
-#: ''Elle vient '''de''' France.''
-#:: ''She comes '''from''' France.''
-#: ''Êtes-vous '''de''' Suisse ?''
-#:: ''Are you '''from''' Switzerland?''
-#: ''Ce fromage vient '''d’'''Espagne.''
-#:: ''This cheese is '''from''' Spain.''
-#: ''C’est '''de''' l’ouest de la France.''
-#:: ''It’s '''from''' the west of France.''
-#: ''Le train va '''de''' Paris à Bordeaux.''
-#:: ''The train goes '''from''' Paris to Bordeaux.''
+#: {{ux|fr|Elle vient '''de''' France.|She comes '''from''' France.|inline=1}}
+#: {{ux|fr|Êtes-vous '''de''' Suisse ?|Are you '''from''' Switzerland?|inline=1}}
+#: {{ux|fr|Ce fromage vient '''d’'''Espagne.|This cheese is '''from''' Spain.|inline=1}}
+#: {{ux|fr|C’est '''de''' l’ouest de la France.|It’s '''from''' the west of France.|inline=1}}
+#: {{ux|fr|Le train va '''de''' Paris à Bordeaux.|The train goes '''from''' Paris to Bordeaux.|inline=1}}
 # [[of]] {{gloss|indicates an amount}}
-#: ''5 kilos '''de''' pommes.''
-#:: ''5 kilograms '''of''' apples.''
-#: ''Un verre '''de''' vin''
-#:: ''A glass '''of''' wine''
-#: ''Une portion '''de''' frites''
-#:: ''A portion '''of''' fries''
+#: {{ux|fr|5 kilos '''de''' pommes.|5 kilograms '''of''' apples.|inline=1}}
+#: {{ux|fr|Un verre '''de''' vin|A glass '''of''' wine|inline=1}}
+#: {{ux|fr|Une portion '''de''' frites|A portion '''of''' fries|inline=1}}
 # {{non-gloss definition|used attributively, often translated into English as a [[compound word]]}}
-#: ''Un jus '''de''' pomme''
-#:: ''An apple juice''
-#: ''Un verre '''de''' vin''
-#:: ''A glass of wine''
-#: ''Une boîte '''de''' nuit''
-#:: ''A night club''
-#: ''Un chien '''de''' garde''
-#:: ''A guard dog''
-#: ''Une voiture '''de''' sport''
-#:: ''A sports car''
-#: ''Un stade '''de''' football''
-#:: ''A football stadium''
+#: {{ux|fr|Un jus '''de''' pomme|An apple juice|inline=1}}
+#: {{ux|fr|Un verre '''de''' vin|A glass of wine|inline=1}}
+#: {{ux|fr|Une boîte '''de''' nuit|A night club|inline=1}}
+#: {{ux|fr|Un chien '''de''' garde|A guard dog|inline=1}}
+#: {{ux|fr|Une voiture '''de''' sport|A sports car|inline=1}}
+#: {{ux|fr|Un stade '''de''' football|A football stadium|inline=1}}
 # [[from]] {{gloss|used to indicate the start of a time or range}}
-#: '''''De''' 9:00 à 11:00 je ne serai pas libre.''
-#:: '''''From''' 9 to 11 I won’t be free.''
-#: ''Je travaille '''de''' huit heures à midi.''
-#: ''un groupe '''de''' cinq à huit personnes''
-#:: ''a group of ['''from'''] five to eight people''
+#: {{ux|fr|'''De''' 9:00 à 11:00 je ne serai pas libre.|'''From''' 9 to 11 I won’t be free.|inline=1}}
+#: {{ux|fr|Je travaille '''de''' huit heures à midi.|inline=1}}
+#: {{ux|fr|un groupe '''de''' cinq à huit personnes|a group of ['''from'''] five to eight people|inline=1}}
 # {{non-gloss definition|used after certain verbs before an [[infinitive]], often translating into English as a [[gerund]] or an infinitive}}
-#: ''J’ai [[arrêter|arrêté]] '''de''' fumer.''
-#:: ''I stopped smoking.''
-#: ''Il [[continuer|continue]] '''de''' m’embêter.''
-#:: ''He keeps annoying me.''
-#: ''Elle m’a dit '''de''' venir.''
-#:: ''She told me to come.''
-#: ''Nous vous [[proposer#French|proposons]] '''de''' venir.''
-#:: ''We suggest you to come.''
+#: {{ux|fr|J’ai [[arrêter|arrêté]] '''de''' fumer.|I stopped smoking.|inline=1}}
+#: {{ux|fr|Il [[continuer|continue]] '''de''' m’embêter.|He keeps annoying me.|inline=1}}
+#: {{ux|fr|Elle m’a dit '''de''' venir.|She told me to come.|inline=1}}
+#: {{ux|fr|Nous vous [[proposer#French|proposons]] '''de''' venir.|We suggest you to come.|inline=1}}
 # [[by]]
-#: ''Boire trois tasses par jour réduirait '''de''' 20 % les risques de contracter une maladie.''
-#:: ''Drinking three cups a day would reduce the risk of catching an illness '''by''' 20%''.
+#: {{ux|fr|Boire trois tasses par jour réduirait '''de''' 20 % les risques de contracter une maladie.|Drinking three cups a day would reduce the risk of catching an illness '''by''' 20%.|inline=1}}
 
 ====Usage notes====
 Before a word beginning with a vowel sound, {{term|de}} elides to {{term|d'|d’|lang=fr}}. Before the article {{term|le|lang=fr}}, it contracts with the article into {{term|du|lang=fr}}, as shown in the example above. Before the article {{term|les|lang=fr}}, it contracts with the article into {{term|des|lang=fr}}.
@@ -296,19 +263,13 @@ Before a word beginning with a vowel sound, {{term|de}} elides to {{term|d'|d’
 {{head|fr|article}}
 
 # {{context|indefinite|lang=fr}} [[some]]; [[any]] (in questions or negatives)
-#: ''Je voudrais '''de''' la viande.''
-#:: ''I'd like some meat.''
-#: ''Est-ce qu'il y a '''de''' la bonne musique ?''
-#:: ''Is there any good music?''
-#: ''Nous cherchons '''du''' lait.''
-#:: ''We're looking for some milk.''
+#: {{ux|fr|Je voudrais '''de''' la viande.|I'd like some meat.|inline=1}}
+#: {{ux|fr|Est-ce qu'il y a '''de''' la bonne musique ?|Is there any good music?|inline=1}}
+#: {{ux|fr|Nous cherchons '''du''' lait.|We're looking for some milk.|inline=1}}
 # {{context|negative|lang=fr}} [[a]], [[an]], [[any]]
-#: ''Elle n'a pas '''de''' mère.''
-#:: ''She hasn't got a mother.''
-#: ''Il n'a pas '''de''' crayon.''
-#:: ''He hasn't got a pencil.''
-#: ''Je n'ai pas '''de''' temps.''
-#:: ''I haven't got any time.''
+#: {{ux|fr|Elle n'a pas '''de''' mère.|She hasn't got a mother.|inline=1}}
+#: {{ux|fr|Il n'a pas '''de''' crayon.|He hasn't got a pencil.|inline=1}}
+#: {{ux|fr|Je n'ai pas '''de''' temps.|I haven't got any time.|inline=1}}
 
 ====Usage notes====
 In the [[positive]], ''de'' is usually used with a [[definite article]], as in the examples. In the [[negative]], without an article.
@@ -373,7 +334,7 @@ From {{etyl|fr|ht}} {{term|deux||two|lang=fr}}
 {{hu-adv|-}}
 
 # [[how]]!, [[very much]]
-#: '''''De''' szép ez a ház!'' - Oh, '''how''' beautiful that house is!
+#: {{ux|hu|'''De''' szép ez a ház!|Oh, '''how''' beautiful that house is!|inline=1}}
 
 ====Synonyms====
 * [[be]] {{qualifier|dated|poetical}}
@@ -384,7 +345,7 @@ From {{etyl|fr|ht}} {{term|deux||two|lang=fr}}
 
 # [[but]]
 # (oh) [[yes]]!, [[surely]]! (used as a positive contradiction to a negative statement)
-#: ''Nem voltál itt! - '''De''' ott voltam.'' - You weren't here! - '''Yes''' I was there!
+#: {{ux|hu|Nem voltál itt! - '''De''' ott voltam.|You weren't here! - '''Yes''' I was there!|inline=1}}
 
 ====Derived terms====
 * [[dehogy]]
@@ -472,7 +433,7 @@ From {{etyl|fr|io}} [[de#French|de]], {{etyl|es|io}} [[de#Spanish|de]].
 {{head|it|contraction}}
 
 # {{apocopic form of|del|lang=it}}
-#: ''Michael Radford è il regista '''de''' "Il postino".'' &mdash; "Michael Radford is the director of "Il Postino".
+#: {{ux|it|Michael Radford è il regista '''de''' "Il postino".|Michael Radford is the director of "Il Postino".|inline=1}}
 
 ====Usage notes====
 {{term|De|lang=it}} is used where {{term|del|lang=it}}, {{term|della|lang=it}}, etc, would ordinarily be used, but cannot be because the [[article]] is part of the title of a film, book, etc.
@@ -648,8 +609,7 @@ Perhaps from {{term|ded|lang=la}} (compare {{etyl|osc|-}} {{term|dat|lang=osc}})
 {{jbo-cmavo}}
 
 # {{context|pro-sumti|lang=jbo}} [[someone]]/[[something]] that exists #2
-#: ''ro da poi plini la solri ku'o [[de]] poi mluni zo'u da se mluni [[de]]''
-#:: For every planet ''x'' orbiting around the Sun, there exists a moon ''<u>y</u>'' such that ''x'' is orbited by ''<u>y</u>''.
+#: {{ux|jbo|ro da poi plini la solri ku'o [[de]] poi mluni zo'u da se mluni [[de]]|For every planet ''x'' orbiting around the Sun, there exists a moon ''<u>y</u>'' such that ''x'' is orbited by ''<u>y</u>''.}}
 #: ''ro da poi plini la solri cu se mluni [[de]] poi mluni'' <ref>[http://dag.github.com/cll/16/5/ John Woldemar Cowan, ''The Lojban Reference Grammar'', &sect;16.5: Dropping the prenex.]</ref>
 #:: Every planet orbiting around the Sun has an orbiting moon.
 
@@ -690,7 +650,6 @@ Multiple occurrences of {{term|de}} in logically connected sentences refer to th
 From {{etyl|osx|nds}}.
 
 ===Pronunciation===
-
 * {{IPA|/dɛɪ̯/|lang=nds}}
 
 ===Article===
@@ -705,13 +664,13 @@ From {{etyl|osx|nds}}.
 {{head|nds|article|g=f|genitive|der|dative|der|accusative|de|definite article}}
 
 # [[the]]
-#* ''De Fru gat hen.'' (The woman walks [lit. goes] there.)
+#: {{ux|nds|De Fru gat hen.|The woman walks [lit. goes] there.|inline=1}}
 
 ===Article===
 {{head|nds|article|g=m|genitive|des|dative|dęme|accusative|denne|definite article}}
 
 # [[the]]
-#* ''De Mann gat hen.'' (The man walks [lit. goes] there.)
+#: {{ux|nds|De Mann gat hen.|The man walks [lit. goes] there.|inline=1}}
 
 ====Usage notes====
 * Dative or accusative are sometimes called 'object case'. However, most (if not all) dialects have not built a proper Objective case.
@@ -721,8 +680,8 @@ From {{etyl|osx|nds}}.
 {{head|nds|pronoun|g=m|accusative|den}}
 
 # {{context|relative|lang=nds}} [[which]], [[that]]
-#* ''De Mann, '''de''' dår güng.'' (The man, '''which''' walked there.)
-#* ''De Mann, '''den''' wi hüert häbben.'' (The man, '''which''' we hired.)
+#: {{ux|nds|De Mann, '''de''' dår güng.|The man, '''which''' walked there.|inline=1}}
+#: {{ux|nds|De Mann, '''den''' wi hüert häbben.|The man, '''which''' we hired.|inline=1}}
 
 ====Usage notes====
 * The use as a relative pronoun might not be present in all dialects.
@@ -731,7 +690,7 @@ From {{etyl|osx|nds}}.
 {{head|nds|pronoun|g=f|accusative|de}}
 
 # {{context|relative|lang=nds}} [[which]], [[that]]
-#* ''De Fru, '''de''' wi hüert hębben.'' (The woman, '''which''' we have hired.)
+#: {{ux|nds|De Fru, '''de''' wi hüert hębben.|The woman, '''which''' we have hired.|inline=1}}
 
 ====Usage notes====
 * The use as a relative pronoun might not be present in all dialects.
@@ -1024,12 +983,12 @@ From {{etyl|la|ro}} {{m|la|dē}}.
 {{ro-prep|a}}
 
 # [[from]]
-#: ''Casa mea nu este departe '''de''' aici.'' - “My house is not far from here.”
+#: {{ux|ro|Casa mea nu este departe '''de''' aici.|My house is not far from here.|inline=1}}
 # [[of]]
-#: ''o ceașcă '''de''' ceai'' - “a cup of tea”
-#: ''un profesor '''de''' matematică'' - “a professor of mathematics”
+#: {{ux|ro|o ceașcă '''de''' ceai|a cup of tea|inline=1}}
+#: {{ux|ro|un profesor '''de''' matematică|a professor of mathematics|inline=1}}
 # [[by]]
-#: ''o carte scrisă '''de''' Marin Preda.'' - “a book written by Marin Preda“
+#: {{ux|ro|o carte scrisă '''de''' Marin Preda.|a book written by Marin Preda|inline=1}}
 
 ----
 
@@ -1103,7 +1062,7 @@ From {{etyl|sla-pro|sh}} {{m|sla-pro|*kъdě}}, {{m|sla-pro|*kъde}}, from {{ety
 ===Pronunciation===
 * ''(after a pause, 'l', 'm', 'n' and 'ñ')'' {{IPA|lang=es|/de/|[d̪e̞]}}
 * ''(elsewhere)'' {{IPA|lang=es|/de/|[ð̞e̞]}}
-* {{audio|Es-am-lat-de.ogg|Audio (Latin America)}}
+* {{audio|Es-am-lat-de.ogg|Audio (Latin America)|lang=es}}
 
 ===Etymology 1===
 
@@ -1176,8 +1135,7 @@ From {{etyl|non|sv}} {{term|þeir|lang=non}}, from {{etyl|gem-pro|sv}} {{m|gem-p
 {{head|sv|article}}
 
 # [[the]], a definite article used in the beginning of noun phrases containing attributive adjectives and nouns '''in the plural'''. This article is used '''together''' with the definite suffix of the noun to indicate the definiteness of the noun phrase.
-#: '''''de''' gröna bilar'''na'''''
-#:: the green cars
+#: {{ux|sv|'''de''' gröna bilar'''na'''|the green cars|inline=1}}
 
 ====Usage notes====
 The same type of noun phrases with singular nouns instead use [[den]] (common gender) or [[det]] (neuter) for this function. Some definite noun phrase with attributive adjectives may skip these preceding articles. This is the case especially for many lexicalized noun phrases and also for many noun phrases working as proper names of organisations, geographical places, TV shows, events and similar.
@@ -1235,9 +1193,9 @@ From {{etyl|en|tpi}} {{term|day|lang=en}}.
 {{head|tr|adverb}}
 
 # [[as well]], [[too]], [[also]]
-:: ''Özer de sorunun yanıtını biliyor'' - Özer also knows the answer of the question
-:: ''Berker de bizimle geliyor'' - Berker is coming with us as well
-:: ''Utku de dondurma yemeyi sever'' - Utku likes eating ice cream, too.
+#: {{ux|tr|Özer de sorunun yanıtını biliyor|Özer also knows the answer of the question|inline=1}}
+#: {{ux|tr|Berker de bizimle geliyor|Berker is coming with us as well|inline=1}}
+#: {{ux|tr|Utku de dondurma yemeyi sever|Utku likes eating ice cream, too.|inline=1}}
 
 ====Usage notes====
 * It's used when the previous word's last vowel is "e", "i", "ö" or "ü". Otherwise (if the word's last vowel is "a", "ı", "o" or "u"); it becomes "[[da]]"
