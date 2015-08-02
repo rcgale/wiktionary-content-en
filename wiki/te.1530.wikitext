@@ -273,23 +273,33 @@ Combinations with the nominative form of the article, like *''te het'' or *''te 
 
 ==Faroese==
 
-===Etymology===
-Originally from {{etyl|nan|fo}} {{m|nan|tr=tê|茶|sc=Hani}}, from {{etyl|ltc|fo}}, from {{etyl|och|fo}}, ultimately from {{etyl|sit-pro|fo}} {{m|sit-pro|*s-la||leaf, tea}}.
-
 ===Pronunciation===
 * {{IPA|/tʰeː/|lang=fo}}
 * {{rhymes|eː|lang=fo}}
 * {{homophones|teg|lang=fo}}
 
-===Noun===
+===Etymology 2===
+
+====Noun===
+{{fo-noun}}
+
+# {{Latn-def|fo|name|T|t}}
+
+=====See also=====
+* {{list:Latin script letter names/fo}}
+
+===Etymology 2===
+Originally from {{etyl|nan|fo}} {{m|nan|tr=tê|茶|sc=Hani}}, from {{etyl|ltc|fo}}, from {{etyl|och|fo}}, ultimately from {{etyl|sit-pro|fo}} {{m|sit-pro|*s-la||leaf, tea}}.
+
+====Noun====
 {{fo-noun|n|tes|-}}
 
 # [[tea]]
 
-====Declension====
+=====Declension=====
 {{fo-decl-noun-n4-s|te}}
 
-====Derived terms====
+=====Derived terms=====
 * {{l|fo|grønt te}}
 * {{l|fo|hvítt te}}
 * {{l|fo|reytt te}}
@@ -560,7 +570,7 @@ From {{etyl|la|it}} {{m|la|tē}}, from {{m|la|tū}}.
 ==Latin==
 
 ===Pronunciation===
-* {{a|Classical}} {{IPA|/teː/|lang=la}}
+* {{la-pronunc|tē}}
 * {{audio|la-cls-te.ogg|Audio (Classical)|lang=la}}
 
 ===Etymology 1===
@@ -623,7 +633,7 @@ From {{etyl|la|it}} {{m|la|tē}}, from {{m|la|tū}}.
 ==Lithuanian==
 
 ===Etymology===
-Cognate with {{etyl|lv|-}} {{m|lv|te}}. The interjection is identical to {{etyl|grc|-}} {{m|grc|τῆ||here!, take this!}}, which Beekes derives from {{etyl|ine-pro|-}} {{m|ine-pro|*teh₁}}, the [[instrumental]] neuter singular form of {{m|ine-pro|*só|*tód}}.<ref>{{R:grc:Beekes}}</ref> Compare {{etyl|got|-}} {{m|got|𐌱𐌹𐌸𐌴||tr=bi-þē|while}}, {{m|got|𐌳𐌿𐌸𐌴||tr=du-þē|therefore}}, {{etyl|xto|-}} {{m|xto|ca-}}, {{etyl|txb|-}} {{m|txb|ce||demonstrative pronoun}} < ''*tē''<ref>{{R:VanWindekens|page=249}}</ref>, and possibly {{etyl|xcl|-}} {{m|xcl|թէ||that}}.
+Cognate with {{etyl|lv|-}} {{m|lv|te}}. The interjection is identical to {{etyl|grc|-}} {{m|grc|τῆ||here!, take this!}}, which Beekes derives from {{etyl|ine-pro|-}} {{m|ine-pro|*teh₁}}, the [[instrumental]] neuter singular form of {{m|ine-pro|*só|*tód}}.<ref>{{R:grc:Beekes}}</ref> Compare {{etyl|got|-}} {{m|got|𐌱𐌹𐌸𐌴||while}}, {{m|got|𐌳𐌿𐌸𐌴||therefore}}, {{etyl|xto|-}} {{m|xto|ca-}}, {{etyl|txb|-}} {{m|txb|ce||demonstrative pronoun}} < ''*tē''<ref>{{R:VanWindekens|page=249}}</ref>, and possibly {{etyl|xcl|-}} {{m|xcl|թէ||that}}.
 
 ===Pronunciation===
 {{IPA|/tʲɛ/|lang=lt}}
@@ -647,6 +657,7 @@ Cognate with {{etyl|lv|-}} {{m|lv|te}}. The interjection is identical to {{etyl|
 
 ===References===
 <references />
+
 ----
 
 ==Lojban==
@@ -854,6 +865,9 @@ From {{etyl|non|nn}} {{term|tjá|lang=non}}.
 
 ===Etymology===
 From {{etyl|gem-pro|ang}} {{m|gem-pro|*ta||to}}.
+
+===Pronunciation===
+{{rfp|lang=ang}}
 
 ===Preposition===
 {{head|ang|preposition}}
