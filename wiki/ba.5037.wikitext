@@ -253,8 +253,7 @@ From {{term|balvi|lang=jbo}}.
 ==Vietnamese==
 
 ===Pronunciation===
-{{vi-pron}}
-* {{IPA|/ba˥/|lang=vi}}
+{{vi-ipa}}
 
 ===Etymology 1===
 {{vi-etym-sino|爸|hv=n|[[father]]|bả}}
@@ -274,16 +273,27 @@ From {{term|balvi|lang=jbo}}.
 * {{l/vi/Latn|thầy}}
 * {{l/vi/Latn|tía}}
 
-[[Category:vi:Parents]]
-[[Category:vi:Male]]
+{{catlangcode|vi|Parents|Male}}
 
 ===Etymology 2===
+{{cardinalbox|vi|2|3|4|hai|bốn}}
 {{etyl|mkh-pro|vi}} {{m|mkh-pro|*paː}}. Cognates include Khmer {{term|lang=km|បី|tr=bəi|sc=Khmr}}.
 
 ====Numeral====
 {{vi-numeral|[[巴]], [[𠀧]]}}
 
-# {{context|cardinal|lang=vi}} [[three]]
+# {{lb|vi|cardinal}} [[three]]
+
+===Adjective===
+{{vi-adj|[[巴]], [[𠀧]]}}
+
+# {{lb|vi|dialectal|Southern dialects|ordinal|of a sibling}} [[second]] [[eldest]]; [[secondborn]]
+#:''anh/chị '''ba'''''
+#::second eldest brother/sister
+#:''bác '''ba'''''
+#::second eldest brother/sister of one's parent
+#:''chú '''ba'''''
+#::secondborn younger brother of one's father
 
 =====Derived terms=====
 *{{l|vi|tháng ba||[[March]]}}
