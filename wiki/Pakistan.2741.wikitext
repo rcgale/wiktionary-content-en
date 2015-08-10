@@ -22,8 +22,8 @@ From Urdu and Persian {{term|پاکستان||Land of the Pure|lang=ur}}, from {{
 * Acehnese: {{t|ace|Pakistan}}
 * Afrikaans: {{t|af|Pakistan}}
 * Albanian: {{t|sq|Pakistani}}
-* Amharic: {{t|am|ፓኪስታን|sc=Ethi}}
-* Arabic: {{t|ar|البَاكِسْتَان|m}}, {{t|ar|بَاكِسْتَان|m}}
+* Amharic: {{t|am|ፓኪስታን|tr=pakistan|sc=Ethi}}
+* Arabic: {{t|ar|بَاكِسْتَان|m}}, {{t|ar|البَاكِسْتَان|m}}
 * Aramaic: {{t|arc|ܦܐܩܣܛܐܢ|sc=Hebr}}
 * Armenian: {{t|hy|Պակիստան}}
 * Assamese: {{t|as|পাকিস্তান|tr=pakistan|sc=Beng}}
@@ -60,8 +60,8 @@ From Urdu and Persian {{term|پاکستان||Land of the Pure|lang=ur}}, from {{
 * Greenlandic: {{t|kl|Pakistan}}
 * Gujarati: {{t|gu|પાકિસ્તાન|tr=pākistān|sc=Gujr}}
 * Hawaiian: {{t|haw|Pakitana}}
-* Hebrew: {{t|he|פקיסטן|m|tr=pakistán}}
-* Hindi: {{t+|hi|पाकिस्तान|m|tr=pākistān}}
+* Hebrew: {{t|he|פָּקִיסְטָן|m|tr=pakistán}}
+* Hindi: {{t+|hi|पाकिस्तान|m}}
 * Hungarian: {{t+|hu|Pakisztán}}
 * Icelandic: {{t+|is|Pakistan}}
 * Ilocano: {{t|ilo|Pakistan}}
@@ -81,7 +81,7 @@ From Urdu and Persian {{term|پاکستان||Land of the Pure|lang=ur}}, from {{
 * Kazakh: {{t|kk|Пәкістан|sc=Cyrl}}, {{t|kk|Пәкстан|sc=Cyrl}}
 * Khmer: {{t|km|ប៉ាគីស្ថាន|tr=paakiistʰaan|sc=Khmr}}
 * Kikuyu: {{t|ki|Pakistan}}
-* Korean: {{t+|ko|파키스탄|tr=Pakiseutan|sc=Hang}}
+* Korean: {{t+|ko|^파키스탄|sc=Hang}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|Pakistan}}
 *: Sorani: {{t+|ku|پاکستان|sc=ku-Arab}}
@@ -98,7 +98,7 @@ From Urdu and Persian {{term|پاکستان||Land of the Pure|lang=ur}}, from {{
 * Macedonian: {{t+|mk|Пакистан|m}}
 * Malayalam: {{t|ml|പാക്കിസ്ഥാന്|sc=Mlym}}
 * Maltese: {{t|mt|Pakistan|alt=il-Pakistan}}
-* Marathi: {{t|mr|पाकिस्तान|tr=pākistān|sc=Deva}}
+* Marathi: {{t|mr|पाकिस्तान|sc=Deva}}
 * Meru: {{t|mer|Pakistan}}
 * Mongolian: {{t+|mn|Пакистан|sc=Cyrl}}
 * Nauruan: {{t|na|Pakistan}}
@@ -106,8 +106,8 @@ From Urdu and Persian {{term|پاکستان||Land of the Pure|lang=ur}}, from {{
 * Norwegian: {{t+|no|Pakistan}}
 * Oriya: {{t|or|ପାକିସ୍ତାନ|tr=pākistān|sc=Orya}}
 * Papiamentu: {{t|pap|Pakistan}}
-* Pashto: {{t+|ps|پاکستان|tr=Pakestân|sc=ps-Arab}}
-* Persian: {{t+|fa|پاکستان|tr=Pâkestân}}
+* Pashto: {{t+|ps|پاکستان|tr=pakestân|sc=ps-Arab}}
+* Persian: {{t+|fa|پاکستان|tr=pâkestân}}
 * Polish: {{t+|pl|Pakistan|m}}
 * Portuguese: {{t+|pt|Paquistão|m}}
 * Punjabi:
@@ -122,7 +122,7 @@ From Urdu and Persian {{term|پاکستان||Land of the Pure|lang=ur}}, from {{
 *: Roman: {{t|sh|Pȁkistān|m}}
 * Sicilian: {{t|scn|Pakistan}}
 * Silesian: {{t|szl|Pakistan}}
-* Sindhi: {{t+|sd|پاڪستان|tr=Pākistān|sc=sd-Arab}}
+* Sindhi: {{t+|sd|پاڪستان|tr=pākistān|sc=sd-Arab}}
 * Sinhalese: {{t|si|පාකිස්ථානය|sc=Sinh}}, {{t|si|පකිස්‍තානය|sc=Sinh}}
 * Slovak: {{t|sk|Pakistan|m}}
 * Slovene: {{t+|sl|Pakistan|m}}
@@ -134,8 +134,8 @@ From Urdu and Persian {{term|پاکستان||Land of the Pure|lang=ur}}, from {{
 * Tamil: {{t|ta|பாகிஸ்தான்}}, {{t|ta|பாக்கிஸ்தான்}}, {{t|ta|பாக்கித்தான்|sc=Taml}}, {{t|ta|பாக்கிஸ்தான்|sc=Taml}}, {{t|ta|பாகிஸ்தான்|sc=Taml}}
 * Tatar: {{t|tt|Пакистан|sc=Cyrl}}
 * Telugu: {{t+|te|పాకిస్తాన్}}, {{t+|te|పాకిస్తాన్|sc=Telu}}
-* Thai: {{t+|th|ปากีสถาน|tr=bpaageesàtăan}}
-* Tibetan: {{t|bo|པ་ཀི་སི་སྟན|alt=པ་ཀི་སི་སྟན།|sc=Tibt}}
+* Thai: {{t+|th|ปากีสถาน|tr=bpaa-gee-sà-tǎan}}
+* Tibetan: {{t|bo|པ་ཀི་སི་སྟན|sc=Tibt}}
 * Turkish: {{t+|tr|Pakistan}}
 * Turkmen: {{t|tk|Päkistan}}, {{t|tk|Pakystan}}
 *: Cyrillic: {{t|tk|Пәкистан|sc=Cyrl}}, {{t|tk|Пакыстан|sc=Cyrl}}
@@ -150,7 +150,7 @@ From Urdu and Persian {{term|پاکستان||Land of the Pure|lang=ur}}, from {{
 * Walloon: {{t|wa|Pakistan}}
 * Waray-Waray: {{t|war|Pakistan}}
 * West Frisian: {{t+|fy|Pakistan}}
-* Yiddish: {{t|yi|פאַקיסטאַן|tr=Pakistán}}
+* Yiddish: {{t|yi|פאַקיסטאַן}}
 * Yoruba: {{t|yo|Pakistan}}
 * Zamboanga Chavacano: {{t|cbk-zam|Pakistan}}
 {{trans-bottom}}
