@@ -194,8 +194,6 @@
 * Icelandic: {{t+|is|reikningur|m}}
 * Italian: {{t+|it|contabilità|f}}
 * Japanese: {{t+|ja|口座|tr=こうざ, kōza}}
-* Mongolian: {{t+|mn|данс|sc=Cyrl}}
-* Norman: {{t|nrf|compte|m}}
 * Kazakh: {{t|kk|шот|sc=Cyrl}}, {{t+|kk|есеп|sc=Cyrl}}
 * Korean: {{t+|ko|계좌|sc=Kore}}
 {{trans-mid}}
@@ -203,6 +201,8 @@
 * Lao: {{t|lo|ບັນຊີ|sc=Laoo}}
 * Latvian: {{t|lv|konts|m}}
 * Lithuanian: {{t+|lt|sąskaita|f}}
+* Mongolian: {{t+|mn|данс|sc=Cyrl}}
+* Norman: {{t|nrf|compte|m}}
 * Norwegian: {{t|no|konto|m}}
 * Persian: {{t+|fa|حساب|tr=hesâb}}
 * Polish: {{t+|pl|konto}}
@@ -225,7 +225,7 @@
 * Urdu: {{t+|ur|حساب|m|tr=hisāb|sc=ur-Arab}}
 * Uzbek: {{t+|uz|hisob}}
 * Vietnamese: {{t+|vi|tài khoản}}
-* Yiddish: {{t|yi|קאָנטע|f|tr=konte}}
+* Yiddish: {{t|yi|קאָנטע|f}}
 {{trans-bottom}}
 
 {{trans-top|a statement in general of reasons, causes, grounds, etc.}}
@@ -250,7 +250,7 @@
 
 {{trans-top|a statement of facts or occurrences}}
 * Armenian: {{t|hy|հաշվետվություն}}
-* Bulgarian: {{t+|bg|изложение}}, {{t+|bg|описание}}
+* Bulgarian: {{t+|bg|изложе́ние|n}}, {{t+|bg|описа́ние|n}}
 * Dutch: {{t+|nl|verslag}}, {{t+|nl|verhaal}}
 * Estonian: {{t|et|seletus}}
 * Finnish: {{t|fi|selonteko}}, {{t+|fi|selostus}}
@@ -271,7 +271,7 @@
 {{trans-bottom}}
 
 {{trans-top|a statement and explanation or vindication}}
-* Bulgarian: {{t+|bg|обяснение}}
+* Bulgarian: {{t+|bg|обясне́ние|n}}
 * Dutch: {{t+|nl|rekenschap}}
 * German: {{t+|de|Rechenschaft|f}}
 * Italian: {{t|it|giustificazione|f}}, {{t+|it|motivo|m}}, {{t+|it|ragione|f}}, {{t+|it|causa|f}}, {{t+|it|caso|m}}
@@ -296,9 +296,10 @@
 * Spanish: {{t+|es|cuenta|f}}
 * Telugu: {{t+|te|ఖాతా}}
 {{trans-bottom}}
+
 {{trans-top|(archaic) reckoning, calculation}}
 * Armenian: {{t|hy|հաշվարկ}}
-* Bulgarian: {{t+|bg|сметка}}
+* Bulgarian: {{t+|bg|сме́тка|f}}
 * Dutch: {{t+|nl|rekening}}, {{t+|nl|berekening}}, {{t+|nl|telling}}
 * Greek: {{t+|el|λογαριασμός|m}}
 * Italian: {{t+|it|conto|m}}
@@ -313,11 +314,9 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Arabic: {{t-check|ar|حَاسِب|m}}
 * Azeri: {{t+check|az|hesab}}
 * Italian: {{t+check|it|sottoscrizione|f}}, {{t+check|it|conto|m}}, {{t+check|it|abbonamento|m}}
 * Japanese: {{t+check|ja|アカウント|tr=akaunto}}
-* {{ttbc|cmn}}: {{zh-tsp|賬戶|账户|zhànghù}}
 * Romanian: {{t+check|ro|cont|n}}
 {{trans-mid}}
 * {{ttbc|ro}}: [[seamă]] {{g|f}}, [[cont]] {{g|n}} (7)
