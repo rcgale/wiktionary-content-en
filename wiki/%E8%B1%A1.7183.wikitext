@@ -101,18 +101,23 @@ This character represents an [[elephant]] (see [http://www.chineseetymology.org/
 ===Kanji===
 {{ja-kanji|grade=4|rs=豕05}}
 
-# [[elephant]]
-# [[phenomena]]
-# [[image]]
-# [[symbol]]
-
 ====Readings====
-{{ja-readings|goon=[[ぞう]] (zō)|kanon=[[しょう]] (shō)|kun=[[かた]] (kata), [[かたどる]] (katadoru), [[のり]] (nori)}}
+{{ja-readings
+|goon=[[ぞう]] (zō)
+|kanon=[[しょう]] (shō)
+|kun=[[かたどる]] ([[象る]], katadoru)
+|nanori=[[かた]] (kata), [[たか]] (taka)
+}}
 
 {{wikipedia|lang=ja}}
 
 ===Etymology 1===
 {{ja-kanjitab|ぞう|yomi=o}}
+{{IPAchar|/zau/}} → {{IPAchar|/zɔː/}} → {{IPAchar|/zoː/}}
+
+From {{etyl|ltc|ja|sort=そう'}} {{m|zh|象|tr=zjang<sup>X</sup>||elephant; image, resemblance}}.  Compare modern {{etyl|yue|-}} ''zoeng<sup>6</sup>''.
+
+The [[呉音#Japanese|goon]], so likely the initial borrowing.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|ぞう|acc=1|acc_ref=DJR,NHK}}
@@ -134,6 +139,11 @@ This character represents an [[elephant]] (see [http://www.chineseetymology.org/
 
 ===Etymology 2===
 {{ja-kanjitab|しょう|yomi=o}}
+{{IPAchar|/sjau/}} → {{IPAchar|/sjɔː/}} → {{IPAchar|/ɕɔː/}} → {{IPAchar|/ɕoː/}}
+
+From {{etyl|ltc|ja|sort=しょう}} {{m|zh|象|tr=zjang<sup>X</sup>||elephant; image, resemblance}}.  Compare modern {{etyl|nan|-}} ''siōng'' or {{etyl|cmn|-}} ''xiàng''.
+
+The [[漢音#Japanese|kan'on]], so likely a later borrowing.
 
 ====Pronunciation====
 {{ja-pron|yomi=kanon|しょう|acc=1|acc_ref=DJR}}
@@ -141,7 +151,7 @@ This character represents an [[elephant]] (see [http://www.chineseetymology.org/
 ====Noun====
 {{ja-noun|しょう|hhira=しやう}}
 
-# [[likeness]]
+# [[likeness]], [[appearance]]
 
 =====Derived terms=====
 {{der-top}}
@@ -152,6 +162,7 @@ This character represents an [[elephant]] (see [http://www.chineseetymology.org/
 
 ===Etymology 3===
 {{ja-kanjitab|きさ|yomi=irr}}
+From {{etyl|ojp|ja|sort=きさ}}.  Cognate with {{m|ja|橒|tr=kisa||wood grain}}, from the way that [[ivory]] also has a [[grain]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=irr|きさ}}
