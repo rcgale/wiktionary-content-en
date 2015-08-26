@@ -156,10 +156,16 @@ In Cantonese the use of "青" to mean black is still used in circumstances were 
 {{ja-kanji|grade=1|rs=青00}}
 
 ====Readings====
-* {{ja-readings|kanon=[[せい]] (''[[sei]]'')|goon=[[しょう]] (''[[shō]]'')|kun=[[あお]] (''[[ao]]''), [[あおい]] ([[青い]], ''[[aoi]]'')}}
+{{ja-readings
+|goon=[[しょう]] (shō)
+|kanon=[[せい]] (sei)
+|toon=[[しい]] (shī) {{qualifier|{{m|ja|宋音|tr=sōon}})
+|kun=[[あお]] (ao), [[あおい]] ([[青い]], aoi)
+|nanori=[[お]] (o), [[きよ]] (kiyo), [[はる]] (haru)
+}}
 
 ====Compounds====
-{{top2}}
+{{der-top|Compounds}}
 * [[青海原]]
 * [[青馬]]
 * [[青黴]]
@@ -175,8 +181,8 @@ In Cantonese the use of "青" to mean black is still used in circumstances were 
 * [[青二才]]
 * [[青虫]]
 * [[青物]]
-{{mid2}}
-* [[青果]] (''seika'')
+{{der-mid}}
+* {{ja-r|青果|せいか}}: [[produce]], [[fruit]]s and [[vegetable]]s
 * [[青雲の志]]
 * [[青眼]]
 * [[青酸]]
@@ -190,56 +196,49 @@ In Cantonese the use of "青" to mean black is still used in circumstances were 
 * [[青年]]
 * [[青嵐]]
 * [[青龍刀]]
-* {{l|ja|刺青|tr=いれずみ, irezumi}}
-{{bottom}}
+* {{ja-r|刺青|いれずみ}}: a [[tattoo]], [[tattooing]]
+{{der-bottom}}
 
 ===Etymology 1===
-awo → ao. Possibly sawo → awo → ao.
+{{IPAchar|/sawo/}} {{qualifier|uncertain, may be compound as opposed to root}} → {{IPAchar|/awo/}} → {{IPAchar|/ao/}}
+
+From {{etyl|ojp|ja|sort=あお}}.
+
+Appears as the latter part in older compounds with an ''-s-'' infix or prefix.  It is unclear if this leading {{IPAchar|/s/}} is indicative of an earlier form (''sawo''), or if this was an addition for [[euphony]] to avoid vowel clusters, or for other reasons.  This {{IPAchar|/s/}} is also seen in {{m|ja|雨|tr=ame|pos=becoming ''same'' in old compounds}} and {{m|ja|稲|tr=ine|pos=becoming ''shine'' in old compounds}}.
 
 ====Pronunciation====
-* {{ja-Common Accent}}: {{ja-accent-common|atamadaka|あ|お}}, {{IPA|/aꜜ.o/|[ä˦.o̞˨]|lang=ja}}
-* {{audio|Ja-ao-blue.ogg|あお|lang=ja}}
+{{ja-pron|yomi=k|あお|acc=1|acc_ref=DJR|a=Ja-ao-blue.ogg}}
 
 ====Noun====
 {{ja-noun|あお|hhira=あを}}
 
 # [[blue]]
 # the black, bluish color of a horse's hair; also, such a horse
-#* {{RQ:Nippo Jisho|39}}
-#*: '''Auo'''. アヲ (青) 馬の毛色で, 全体に黒くて青みがあり, 両耳の内側に多少白いところのあるもの. この部分の毛も他の部分と同じようにすっかり黒い時には, Curo(黒)と呼ばれる.
+#* {{RQ:Nippo Jisho|39}}<ref>{{R:Nippo Jisho}}</ref>
+#*: '''Auo'''. {{lang|ja|'''アヲ (青)''' 馬の毛色で, 全体に黒くて'''青'''みがあり, 両耳の内側に多少白いところのあるもの. この部分の毛も他の部分と同じようにすっかり黒い時には,}} Curo{{lang|ja|(黒)と呼ばれる.}}
 # [[green]] ([[traffic-light]] green is referred to as ''ao'', as are plant leaves.)
 
-=====Related terms=====
-* {{ja-r|青い|あおい}}
-
-===Etymology 2===
-sawo → sao. s- is often taken as a prefix to avoid vowel clusters, but it was probably the older form. Seen also in [[雨#Japanese|same]] and [[稲#Japanese|shine]].
-
-====Pronunciation====
-{{rfp|lang=ja|Same as above?}}
-
-====Noun====
-{{ja-noun|さお|hhira=さを}}
-
-# blue
-
 =====Derived terms=====
+{{der-top}}
+* {{ja-r|青い|あおい}}: [[blue]] {{qualifier|adjective}}
 * {{ja-r|真青|まさお}}
 * {{ja-r|真っ青|まっさお}}
+{{der-bottom}}
 
-===Etymology 3===
+===Etymology 2===
+{{unk.|lang=ja|sort=しい}}.  The reading might be an obscure term from {{etyl|ojp|-}} or dialect.  The use of the character {{lang|ja|青}} arises from its {{m|ja|宗音|tr=sōon||Song-dynasty pronunciation}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{rfp|lang=ja}}
+{{ja-pron|yomi=o|しい}}
 
 ====Noun====
 {{ja-noun|しい}}
 
-# a [[beast]] that looks like a weasel, and is said to have lived in present Fukuoka and Yamaguchi
-# a [[beast]] that looks like a wolf, and is said to have appeared in Mt. Yoshino
+# {{context|lang=ja|sort=しい|rare|archaic|mythology}} a [[beast]] that looks like a [[weasel]], and is said to have lived in present-day [[w:Fukuoka prefecture|Fukuoka]] and [[w:Yamaguchi prefecture|Yamaguchi]] [[prefecture]]s
+# {{context|lang=ja|sort=しい|rare|archaic|mythology}} a [[beast]] that looks like a [[wolf]], and is said to have appeared around {{w|Mount Yoshino}}
 
 ===References===
-* {{R:Nippo Jisho}}
+<references/>
 
 [[Category:1000 Japanese basic words|あお]]
 [[Category:Japanese nouns|あお]]
