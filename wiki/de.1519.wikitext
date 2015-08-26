@@ -135,19 +135,22 @@ An unstressed variety of {{etyl|dum|nl}} {{term|die|lang=dum}}. See {{term|die|l
 ===Article===
 {{head|nl|article}}
 
-# [[the]] {{gloss|definite article, masculine and feminine gender}}
-#: {{ux|nl|'''De''' man|The man|inline=1}}
-#: {{ux|nl|'''De''' vrouw|The woman|inline=1}}
-#: {{ux|nl|Het boek|The book|inline=1}}
-#: {{ux|nl|'''De''' boeken|The books|inline=1}}
+# [[the]] {{gloss|definite article, masculine and feminine singular, plural}}
+#: {{ux|nl|'''De''' man|The man (masculine singular)|inline=1}}
+#: {{ux|nl|'''De''' vrouw|The woman (feminine singular)|inline=1}}
+#: {{ux|nl|Het boek|The book (neuter singular)|inline=1}}
+#: {{ux|nl|'''De''' boeken|The books (neuter plural)|inline=1}}
 #: {{ux|nl|'''De''' oude man en '''de''' zee.|The old man and the sea.|inline=1}}
 
 ====Usage notes====
 * Placed before [[masculine]] and [[feminine]] nouns and plural nouns of all genders, indicating a specific person or thing instead of a general case.
 
+====Declination====
+{{nl-decl-definite article}}
+* There is also ''[['s]]'' for ''[[des]]''
+
 ====Derived terms====
 * [[dezelfde]]
-* [[des]], [[der]], [[den]], [['s]]
 
 ====Descendants====
 * Afrikaans: {{l|af|die}}
