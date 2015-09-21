@@ -308,22 +308,32 @@ Distantly cognate to {{m|en|Australia}}: it derives from the same proto-Indo-Eur
 ----
 
 ==Latin==
-{{wikipedia|lang=la}}
+
+===Etymology===
+{{rfe|lang=la}}
 
 ===Pronunciation===
-* {{IPA|[ˈaustria]|lang=la}}
+* {{la-IPA|austria}}
 
 ===Proper noun===
-{{la-proper noun|Austria|Austriae|Austriae|f|first}}
+{{la-proper noun|Austria||Austriae|f|first}}
 
 # {{lb|la|New Latin}} {{l|en|Austria}}
+#: {{ux|la|FRANCISCVS I · '''AVSTRIÆ''' IMPERATOR|[[w:Francis II, Holy Roman Emperor|Francis I · Emperor '''of Austria''']]|ref=<sup>[http://www.londonmintoffice.org/media/catalog/product/cache/1/thumbnail/800x/040ec09b1e35df139433887a97daa66f/f/r/francis-medal_1.jpg]</sup>}}
 
-====Inflection====
-{{la-decl-1st|loc=1|num=sg|Austri}}
+====Declension====
+{|
+|{{la-decl-1st|loc=1|num=sg|Austri}}
+|{{la-decl-1st|loc=1|lig=1|num=sg|Austri}}
+|}
 
-[[Category:la:Countries]]
-[[Category:la:Exonyms]]
-[[Category:la:Place names]]
+====Derived terms====
+{{der5|{{l|la|Austria Anterior}}|{{l|la|Austriacus}}|{{l|la|Austria Inferior}}|{{l|la|Austria Interior}}|{{l|la|Austria Superior}}}}
+
+===External links===
+* {{pedia|lang=la}}
+
+{{C|la|Countries|Exonyms|Place names}}
 
 ----
 
