@@ -169,7 +169,7 @@ From {{etyl|enm|en}} {{term|brethen||to breathe, blow, exhale, odour|lang=enm}},
 * Yiddish: {{t|yi|אָטעמען|tr=otemen|sc=Hebr}}
 {{trans-bottom}}
 
-{{trans-top|to exchange gases}}
+{{trans-top|to exchange gases in similar way}}
 * Finnish: {{t+|fi|hengittää}}
 * French: {{t+|fr|respirer}}
 * Hebrew: {{t|he|נשם|tr=nashám}}
@@ -184,32 +184,14 @@ From {{etyl|enm|en}} {{term|brethen||to breathe, blow, exhale, odour|lang=enm}},
 * Welsh: {{t+|cy|anadlu}}
 {{trans-bottom}}
 
-{{trans-top|to stop and catch one's breath}}
-* Finnish: {{t+|fi|hengähtää}}
-* Norwegian:
-*: Bokmål: {{t|nb|trekke pusten}}, {{t|nb|puste ut}}
+{{trans-top|to use gas to sustain life}}
+* Finnish: {{t|fi|hengittää}}
 {{trans-mid}}
-* Portuguese: {{t+|pt|respirar}}, {{t+|pt|resfolegar}}
-* Quechua: {{t|qu|samay}}
-* Russian: {{t|ru|перевести́ дух}}
-* Swedish: {{t|sv|hämta andan}}, {{t|sv|pusta ut}}
 {{trans-bottom}}
 
-{{trans-top|to be relaxed}}
-* Bulgarian: {{t|bg|отдъхвам}}
-* Catalan: {{t+|ca|respirar}}
-* Finnish: {{qualifier|wind}} {{t|fi|henkäillä}}, {{t+|fi|henkiä}}
-* Japanese: {{t|ja|一息つく|tr=hitoiki-tsuku}}
-* Polish: {{t|pl|odetchnąć}}
-{{trans-mid}}
-* Quechua: {{t|qu|samay}}
-* Russian: {{t+|ru|отдыха́ть}}
-* Slovak: {{t|sk|oddýchnuť}}
-{{trans-bottom}}
-
-{{trans-top|(fig) to live}}
+{{trans-top|figuratively: to live}}
 * Bulgarian: {{t+|bg|живея}}, {{t+|bg|съществувам}}
-* Finnish: {{t+|fi|hengittää}}, {{t|fi|olla hengissä}}
+* Finnish: {{t+|fi|hengittää}}
 * Japanese: {{t+|ja|生きる|tr=ikiru}}
 * Polish: {{t|pl|oddychać swobodnie}}
 {{trans-mid}}
@@ -219,10 +201,10 @@ From {{etyl|enm|en}} {{term|brethen||to breathe, blow, exhale, odour|lang=enm}},
 * Swedish: {{t+|sv|andas}}
 {{trans-bottom}}
 
-{{trans-top|to draw (something) into lungs}}
+{{trans-top|to draw into lungs}}
 * Bulgarian: {{t+|bg|вдишвам}}, {{t+|bg|вдъхвам}}
 * Dutch: {{t+|nl|inademen}}
-* Finnish: {{t+|fi|hengittää sisään}}
+* Finnish: {{t|fi|hengittää}}, {{t+|fi|[[hengittää]] [[sisään]]}}
 * German: {{t+|de|einatmen}}
 * Hebrew: {{t|he|נשם|tr=nashám}}
 * Japanese: {{t|ja|吸い込む|tr=suikomu}}
@@ -237,10 +219,25 @@ From {{etyl|enm|en}} {{term|brethen||to breathe, blow, exhale, odour|lang=enm}},
 * Welsh: {{t+|cy|anadlu}}
 {{trans-bottom}}
 
-{{trans-top|to whisper}}
+{{trans-top|to expel air from the lungs}}
+* Finnish: {{t|fi|hengittää}}, {{t|fi|[[hengittää]] [[ulos]]}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to pass like breath}}
+* Finnish: {{t|fi|henkäillä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to give an impression of}}
+* Finnish: {{t|fi|henkiä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to whisper quietly}}
 * Bulgarian: {{t+|bg|промълвям}}
 * Dutch: {{t+|nl|ademen}}
-* Finnish: {{t+|fi|kuiskata}}
+* Finnish: {{t+|fi|[[kuiskata]] [[hiljaa]]}}
 * German: {{t|de|hauchen}}
 * Japanese: {{t+|ja|ささやく|tr=sasayaku}}
 {{trans-mid}}
@@ -252,10 +249,38 @@ From {{etyl|enm|en}} {{term|brethen||to breathe, blow, exhale, odour|lang=enm}},
 * Swedish: {{t+|sv|viska}}
 {{trans-bottom}}
 
+{{trans-top|to exchange gases with the environment}}
+* Finnish: {{t|fi|hengittää}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to stop and catch one's breath}}
+* Finnish: {{t+|fi|hengähtää}}
+* Norwegian:
+*: Bokmål: {{t|nb|trekke pusten}}, {{t|nb|puste ut}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|respirar}}, {{t+|pt|resfolegar}}
+* Quechua: {{t|qu|samay}}
+* Russian: {{t|ru|перевести́ дух}}
+* Swedish: {{t|sv|hämta andan}}, {{t|sv|pusta ut}}
+{{trans-bottom}}
+
+{{trans-top|to to give an opportunity to catch breath}}
+* Finnish: {{t+|fi|[[antaa]] [[hengähtää]]}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{checktrans-top}}
+* Bulgarian: {{t-check|bg|отдъхвам}} <!-- Was under non-existing sense: "to be relaxed" -->
+* Catalan: {{t-check|ca|respirar}} <!-- Was under non-existing sense: "to be relaxed" -->
 * Friulian: {{qualifier|1}} {{t-check|fur|respirâ}}
 * Indonesian: {{t+check|id|nafas|alt=bernafas}}
+* Japanese: {{t-check|ja|一息つく|tr=hitoiki-tsuku}} <!-- Was under non-existing sense: "to be relaxed" -->
+* Polish: {{t-check|pl|odetchnąć}} <!-- Was under non-existing sense: "to be relaxed" -->
 {{trans-mid}}
+* Quechua: {{t-check|qu|samay}} <!-- Was under non-existing sense: "to be relaxed" -->
+* Russian: {{t-check|ru|отдыха́ть}} <!-- Was under non-existing sense: "to be relaxed" -->
+* Slovak: {{t-check|sk|oddýchnuť}} <!-- Was under non-existing sense: "to be relaxed" -->
 * Telugu: {{qualifier|1}} {{t-check|te|శ్వాసించు|sc=Telu}}, {{qualifier|2}} {{t-check|te|ఊపిరి ఆడు|sc=Telu}}
 * Thai: {{t-check|th|หายใจเข้า|tr=hai-jai-kao|sc=Thai}} ''breathe in''
 * Turkish: {{qualifier|1,2,3}} {{t+check|tr|soluk almak}}, {{qualifier|1,2,3}} {{t+check|tr|nefes almak}}
