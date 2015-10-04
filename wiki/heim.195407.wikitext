@@ -14,7 +14,7 @@
 ==Faroese==
 
 ===Etymology===
-From {{etyl|non|fo}} {{m|non|heim}} < {{m|non|heimr}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*haimaz}}.
+From {{etyl|non|fo}} {{m|non|heim}}, from {{m|non|heimr}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*haimaz}}.
 
 ===Pronunciation===
 * {{IPA|[haim]|lang=fo}}
@@ -30,14 +30,14 @@ From {{etyl|non|fo}} {{m|non|heim}} < {{m|non|heimr}}, from {{etyl|gem-pro|fo}} 
 {{fo-decl-noun-n3|heim}}
 
 ====Related terms====
-* [[heimur]] (world)
-* [[barnaheim]] (children's home)
-* [[ellisheim]] (nursing home)
-* [[frítíðarheim]] (school children's home for the afternoon)
-* [[hvíldarheim]] (rehabilitation home)
-* [[lærlingaheim]] (trainee's home)
-* [[sjómansheim]] (sailor's home)
-* [[vallaraheim]] (hostel)
+{{rel3|{{l|fo|heimur||world}}
+|{{l|fo|barnaheim||children's home}}
+|{{l|fo|ellisheim||nursing home}}
+|{{l|fo|frítíðarheim||school children's home for the afternoon}}
+|{{l|fo|hvíldarheim||rehabilitation home}}
+|{{l|fo|lærlingaheim||trainee's home}}
+|{{l|fo|sjómansheim||sailor's home}}
+|{{l|fo|vallaraheim||hostel}}}}
 
 ===Adverb===
 {{fo-adv|-}}
@@ -45,11 +45,11 @@ From {{etyl|non|fo}} {{m|non|heim}} < {{m|non|heimr}}, from {{etyl|gem-pro|fo}} 
 # [[home]], [[homeward]]
 
 ====Related terms====
-* [[heima]] (at home)
-* [[heiman]] (away from home)
-* '''heim''' [[aftur]] - back home again
-* '''heim''' [[til]] [[hús]]a - homward to the house
-* [[ikki]] [[bera]] [[boð|boðini]] '''heim''' - not return alive (''verbally:'' "not carry the message home")
+{{rel3|{{l|fo|heima||at home}}
+|{{l|fo|heiman||away from home}}
+|{{l|fo|'''heim''' [[aftur]]||back home again}}
+|{{l|fo|'''heim''' [[til]] [[hús]]a||homward to the house}}
+|{{l|fo|[[ikki]] [[bera]] [[boð|boðini]] '''heim'''||not return alive; not carry the message home}}}}
 
 ----
 
@@ -68,17 +68,17 @@ From {{m|de|Heim||home}}
 # [[home]], home-, ''only in (flection of) verbs with the prefix "heim-"''
 
 ====Derived terms====
-* [[ich]] [[gehe]] '''heim''' - I go home (''see'' [[heimgehen]])
-* [[du]] [[fährst]] '''heim''' - you drive home (''see'' [[heimfahren]])
-* [[er]] [[kehrt]] '''heim''' - he returns home (''see'' [[heimkehren]])
-* [[sie]] [[reist]] '''heim''' - she travels home (''see'' [[heimreisen]])
-* [[wir]] [[zahlen]] '''heim''' - we retaliate (''see'' [[heimzahlen]])
-* [[daheim]] (at home)
-* [[Heim]] (home)
-* [[Heimat]] (homeland)
-* [[heimkommen]] (come home)
-* [[heimlich]] (stealthily)
-* [[Heimweg]]
+{{der3|{{l|de|[[ich]] [[gehe]] '''heim'''||I go home}} (''see'' [[heimgehen]])
+|{{l|de|[[du]] [[fährst]] '''heim'''||you drive home}} (''see'' [[heimfahren]])
+|{{l|de|[[er]] [[kehrt]] '''heim'''||he returns home}} (''see'' [[heimkehren]])
+|{{l|de|[[sie]] [[reist]] '''heim'''||she travels home}} (''see'' [[heimreisen]])
+|{{l|de|[[wir]] [[zahlen]] '''heim'''||we retaliate}} (''see'' [[heimzahlen]])
+|{{l|de|daheim||at home}}
+|{{l|de|Heim||home}}
+|{{l|de|Heimat||homeland}}
+|{{l|de|heimkommen||come home}}
+|{{l|de|heimlich||stealthily}}
+|{{l|de|Heimweg}}}}
 
 ===External links===
 * {{R:Duden}}
@@ -96,10 +96,10 @@ From {{etyl|non|is}} {{m|non|heim||home, homewards}}, the accusative form of {{m
 # [[home]]
 
 =====Derived terms=====
-* [[fara heim]] (to go home)
-* [[bjóða heim|bjóða einhverjum heim]] (to invite somebody home)
-* [[sækja heim]] (to visit, ''confer'' '''[[heimsækja]]''')
-* [[það kemur heim og saman]] (that is correct)
+* {{l|is|fara heim||to go home}}
+* {{l|is|bjóða heim|bjóða einhverjum heim|to invite somebody home}}
+* {{l|is|sækja heim||to visit}} (''confer'' '''{{l|is|heimsækja}}''')
+* {{l|is|það kemur heim og saman||that is correct}}
 
 =====Related terms=====
 * {{l|is|heimur}}
@@ -185,9 +185,6 @@ From {{etyl|non|no}} {{m|non|heim}} < {{m|non|heimr}}, from {{etyl|gem-pro|no}} 
 =====Inflection=====
 {{no-noun-infl|nb-class=m1|nn-class=m1}}
 
-=====References=====
-* {{R:Dokumentasjonsprosjektet}}
-
 ===Etymology 2===
 From {{etyl|non|no}} {{m|non|heim}}.
 
@@ -199,7 +196,7 @@ From {{etyl|non|no}} {{m|non|heim}}.
 #: ''No går me '''heim'''.'' {{qualifier|Nynorsk}}  
 #:: We go '''home''' now.
 
-=====References=====
+===References===
 * {{R:Dokumentasjonsprosjektet}}
 
 ----
@@ -213,15 +210,17 @@ An accusative form of {{m|non|heimr||abode, world, land}}, from {{etyl|gem-pro|n
 {{non-adv}}
 
 # [[home]], [[homewards]]
-#: ''Flosi var allra manna glaðastr ok beztr '''[[sækja heim#Old Norse|heim]]''' at [[sækja heim#Old Norse|sækja]].''
-#:: Flosi was most cheerful of all men and the best to [[visit]].
+#: {{ux|non|Flosi var allra manna glaðastr ok beztr '''[[sækja heim|heim]]''' at [[sækja heim|sækja]].|Flosi was most cheerful of all men and the best to [[visit]].}}
 
 ====Derived terms====
-* [[bæta heim fyrir sér]] (to make for one's soul's weal)
-* [[bjóða heim]] (to bid one to a feast, ''confer'' '''[[heimboð]]''')
-* [[fara heim]] (to return home, to go home)
-* [[fara heim á leið]]
-* [[sækja heim]] (to visit, to attack somebody)
+* {{l|non|bæta heim fyrir sér||to make for one's soul's weal}}
+* {{l|non|bjóða heim||to bid one to a feast}} (''confer'' '''{{l|non|heimboð}}''')
+* {{l|non|fara heim||to return home, go home}}
+* {{l|non|fara heim á leið}}
+* {{l|non|sækja heim||to visit; to attack somebody}}
+
+====Related terms====
+* {{l|non|heimboð}}
 
 ====Descendants====
 * Icelandic: {{l|is|heim}}
@@ -230,9 +229,6 @@ An accusative form of {{m|non|heimr||abode, world, land}}, from {{etyl|gem-pro|n
 ** Bokmål: {{l|nb|hjem}}
 * Swedish: {{l|sv|hem}}
 * Danish: {{l|da|hjem}}
-
-====Related terms====
-* [[heimboð]]
 
 [[da:heim]]
 [[de:heim]]
