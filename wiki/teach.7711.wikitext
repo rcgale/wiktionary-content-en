@@ -221,7 +221,7 @@ From {{etyl|enm|en}} {{term|techen|lang=enm}}, from {{etyl|ang|en}} {{m|ang|tǣ�
 ==Irish==
 
 ===Etymology===
-From {{etyl|sga|ga}} {{term|tech|lang=sga}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*tegos}}, from {{etyl|ine-pro|ga}} {{m|ine-pro|*tegos||cover, roof}}.
+From {{etyl|sga|ga}} {{m|sga|tech|g=n|g2=m}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*tegos}}, from {{etyl|ine-pro|ga}} {{m|ine-pro|*tegos||cover, roof}}.
 
 ===Pronunciation===
 * {{IPA|/tʲax/|lang=ga}}
@@ -230,30 +230,58 @@ From {{etyl|sga|ga}} {{term|tech|lang=sga}}, from {{etyl|cel-pro|ga}} {{m|cel-pr
 ===Noun===
 {{ga-noun|g=m|tí|tithe}}
 
-# [[house]], [[dwelling]]
+# [[house]]
+## [[habitation]], [[dwelling]]
 
 ====Declension====
 {{ga-decl-m2|t|each|í|pl=ithe|dat=igh|datoc=p}}
 
 ====Derived terms====
-{{der3|{{l|ga|bean tí||housewife|g=f}}
+{{der3
+|{{l|ga|bean tí||housewife|g=f}}
 |{{l|ga|teach bainne||dairy}}
 |{{l|ga|teach itheacháin||restaurant}}
-|{{l|ga|teach óil||tavern, pub}}
-|{{l|ga|teach ósta||inn}}
+|{{l|ga|teach óil}}, {{l|ga|teach tábhairne||tavern, pub}}
+|{{l|ga|teach ósta||inn; tavern, pub}}
 |{{l|ga|teach pobail||church, chapel}}
 |{{l|ga|teach solais||lighthouse}}
-|{{l|ga|teach tábhairne||tavern, pub}}
 |{{l|ga|teach lóistín||boarding house}}
-|{{l|ga|cailín tí|g=m||housemaid}}}}
+|{{l|ga|teach níocháin||laundry(-works)}}
+|{{l|ga|cailín tí|g=m||housemaid}}
+|{{l|ga|teach agus talamh||(property in) house and land}}
+|{{l|ga|teach ceann tuí||thatched house}}
+|{{l|ga|teach ceann slinne||slated house}}
+|{{l|ga|teach dhá stór||two-storeyed house}}
+|{{l|ga|teach cathrach||town-house}}
+|{{l|ga|teach coiteora||labourer's cottage}}
+|{{l|ga|teach geata||gatehouse}}
+|{{l|ga|teach tíre}}, {{l|ga|teach tuaithe||country-house}}
+|{{l|ga|teach mór||lit=large house|mansion; main building; mental hospital}}
+|{{l|ga|teach bainise||wedding-house}}
+|{{l|ga|teach cuartaíochta||house frequented by visitors}}
+|{{l|ga|teach parlaiminte||house of parliament}}
+|{{l|ga|teach siopa||business house, shop}}
+|{{l|ga|teach spéire||skyscraper}}
+|{{l|ga|teach sraithe||toll-house}}
+|{{l|ga|teach allais||sweat-house}}
+|{{l|ga|teach beag||latrine, privy}}
+|{{l|ga|teach deice||deck-house}}
+|{{l|ga|teach gloine||glass-house, greenhouse}}
+|{{l|ga|teach stiúrach||wheel-house}}
+|{{l|ga|teach talún||underground chamber}}
+|{{l|ga|teach Dé||God’s house, church; heaven}}
+|{{l|ga|teachín|g=m||small house, cottage}}
+}}
 
 ===Mutation===
 {{ga mut cons|t|each}}
 
 ===References===
 * {{R:Dinneen|teaċ}}
+* {{R:ga:ODonaill}}
+* {{R:DIL|tech}}
 
-[[Category:ga:Architecture]]
+{{catlangcode|ga|Architecture|Housing}}
 
 [[ast:teach]]
 [[ca:teach]]
