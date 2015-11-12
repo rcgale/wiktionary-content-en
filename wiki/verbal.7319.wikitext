@@ -2,7 +2,7 @@
 {{wikipedia|dab=verbal}}
 
 ===Etymology===
-From {{etyl|fro|en}} {{term|verbal|lang=fro}}, from {{etyl|LL.|en}} {{term|verbalis||belonging to a [[word]]|lang=la}}.
+From {{etyl|fro|en}} {{m|fro|verbal}}, from {{etyl|LL.|en}} {{m|la|verbalis||belonging to a [[word]]}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/ˈvɜː.bəl/|[ˈvɜː.bɫ̩]|lang=en}}, {{enPR|vûrʹ-bəl}}
@@ -21,14 +21,14 @@ From {{etyl|fro|en}} {{term|verbal|lang=fro}}, from {{etyl|LL.|en}} {{term|verba
 #*: We subjoin an engraving {{...}} which will give the reader a far better notion of the structure than any '''verbal''' description could convey to the mind.
 # Expressly [[spoken]] rather than [[written]].
 #: ''a '''verbal''' contract; '''verbal''' testimony''
-# {{context|grammar|lang=en}} Derived from, or having the nature of a [[verb]].
-# {{context|grammar|lang=en}} Used to form a verb.
+# {{lb|en|grammar}} Derived from, or having the nature of a [[verb]].
+# {{lb|en|grammar}} Used to form a verb.
 # Capable of [[speech]].
 #* '''2005''', Avril V. Brereton, Bruce J. Tonge, ''Pre-schoolers with autism'' (page 55)
 #*: How do these language problems affect the behaviour of '''verbal''' children?
 # Word for word; [[literal]]; [[verbatim]].
 #: ''a '''verbal''' translation''
-# {{context|obsolete|lang=en}} Abounding with words; [[verbose]].
+# {{lb|en|obsolete}} Abounding with words; [[verbose]].
 #: {{rfquotek|Shakespeare}}
 
 ====Synonyms====
@@ -148,7 +148,7 @@ From {{etyl|fro|en}} {{term|verbal|lang=fro}}, from {{etyl|LL.|en}} {{term|verba
 ===Noun===
 {{en-noun}}
 
-# {{context|grammar|lang=en}} A verb form which does not function as a [[predicate]], or a word derived from a verb. In English, [[infinitive]]s, [[participle]]s and [[gerund]]s are verbals.
+# {{lb|en|grammar}} A verb form which does not function as a [[predicate]], or a word derived from a verb. In English, [[infinitive]]s, [[participle]]s and [[gerund]]s are verbals.
 
 ====Synonyms====
 * [[non-finite verb]]
@@ -164,7 +164,7 @@ From {{etyl|fro|en}} {{term|verbal|lang=fro}}, from {{etyl|LL.|en}} {{term|verba
 ===Verb===
 {{en-verb|verbals|verballing|verballed}}
 
-# {{context|transitive|British|Australia|lang=en}} To [[induce]] into [[fabricate|fabricating]] a [[confession]].
+# {{lb|en|transitive|British|Australia}} To [[induce]] into [[fabricate|fabricating]] a [[confession]].
 #* '''1982''', John A. Andrews, ''Human Rights in Criminal Procedure: A Comparative Study'', ISBN 9024725526, BRILL, page 128:
 #*: "The problem of ''''verballing'''' is unlikely to disappear, whatever the legal status of the person detained."
 #* '''2001''', Chris Cunneen, ''Conflict, Politics and Crime: Aboriginal Communities and the Police'', ISBN 1864487194, Allen & Unwin, page 116:
@@ -172,7 +172,6 @@ From {{etyl|fro|en}} {{term|verbal|lang=fro}}, from {{etyl|LL.|en}} {{term|verba
 #* '''2004''', Jeremy Gans & Andrew Palmer, ''Australian Principles of Evidence'', ISBN 1876905123, Routledge Cavendish, page 504:
 #*: "Moreover, given the risk of '''verballing''', it is by no means apparent that it is in the interests of justice that the prosecution have the benefit of admissions that are made on occasions when recordings are impracticable."
 
-[[Category:English transitive verbs]]
 [[Category:en:Talking]]
 
 ----
@@ -184,9 +183,7 @@ From {{etyl|fro|en}} {{term|verbal|lang=fro}}, from {{etyl|LL.|en}} {{term|verba
 * {{homophones|verbale|verbales|lang=fr}}
 
 ===Adjective===
-{{fr-adj|mp=verbaux}}<!--
-
--->
+{{fr-adj|mp=verbaux}}
 
 # {{l|en|verbal}}
 
@@ -195,10 +192,28 @@ From {{etyl|fro|en}} {{term|verbal|lang=fro}}, from {{etyl|LL.|en}} {{term|verba
 
 ----
 
+==German==
+
+===Pronunciation===
+* {{IPA|/vɛʁˈbaːl/|lang=de}}
+
+===Adjective===
+{{de-adj|-}}
+
+# {{l|de|verbal}}
+
+====Declension====
+{{de-decl-adj-notcomp|verbal}}
+
+====Synonyms====
+* {{l|de|mündlich}}
+
+----
+
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|LL.|pt}} {{term|verbalis|lang=la}}.
+From {{etyl|LL.|pt}} {{m|la|verbalis}}.
 
 ===Adjective===
 {{pt-adj|verba|l}}
@@ -217,7 +232,7 @@ From {{etyl|LL.|pt}} {{term|verbalis|lang=la}}.
 ===Noun===
 {{es-noun|mf|es}}
 
-# {{context|grammar|lang=es}} {{l|en|verbal}}
+# {{lb|es|grammar}} {{l|en|verbal}}
 
 ====Related terms====
 * [[verbo]]
