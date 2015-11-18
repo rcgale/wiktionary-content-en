@@ -7,7 +7,7 @@
 * [[wuz]]
 
 ===Etymology===
-From {{etyl|enm|en}} {{term|was|lang=enm}}, from {{etyl|ang|en}} {{term|wæs|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*was}}, (compare Scots {{term|was|lang=sco}}, Dutch {{term|was|lang=nl}}, Low German {{term|was|lang=nds}}, German {{term|war|lang=de}}, Swedish {{term|var|lang=sv}}), from {{etyl|ine-pro|en}} {{m|ine-pro|*h₂wes-||to reside}}. The paradigm of “to be” has been since the time of Proto-Germanic a synthesis of three originally distinct verb stems. The infinitive form {{term|be|lang=en}} is from Proto-Indo-European {{m|ine-pro|*bʰew-||to become}}. The forms {{term|is|lang=en}} and {{term|are|lang=en}} are both derived from Proto-Indo-European {{m|ine-pro|*h₁es-||to be}}. Lastly, the past forms starting with ''w-'' such as ''was'' and {{term|were|lang=en}} are from Proto-Indo-European {{m|ine-pro|*h₂wes-||to reside}}.
+From {{inh|en|enm|was}}, from {{inh|en|ang|wæs}}, from {{inh|en|gem-pro|*was}}, (compare Scots {{m|sco|was}}, Dutch {{m|nl|was}}, Low German {{m|nds|was}}, German {{m|de|war}}, Swedish {{m|sv|var}}), from {{inh|en|ine-pro|*h₂wes-||to reside}}. The paradigm of “to be” has been since the time of Proto-Germanic a synthesis of three originally distinct verb stems. The infinitive form {{m|en|be}} is from Proto-Indo-European {{m|ine-pro|*bʰew-||to become}}. The forms {{m|en|is}} and {{m|en|are}} are both derived from Proto-Indo-European {{m|ine-pro|*h₁es-||to be}}. Lastly, the past forms starting with ''w-'' such as ''was'' and {{m|en|were}} are from Proto-Indo-European {{m|ine-pro|*h₂wes-||to reside}}.
 
 ===Pronunciation===
 '''stressed'''
@@ -22,12 +22,12 @@ From {{etyl|enm|en}} {{term|was|lang=enm}}, from {{etyl|ang|en}} {{term|wæs|lan
 ===Verb===
 {{head|en|verb form}}
 
-# {{form of|First-person singular simple past tense indicative|be|lang=en}}.
-# {{form of|Third-person singular simple past tense indicative|be|lang=en}}.
+# {{inflection of|be||1|s|simple|past|ind|lang=en}}.
+# {{inflection of|be||3|s|simple|past|ind|lang=en}}.
 # {{context|proscribed|dialect|lang=en}} {{form of|Second-person singular simple past tense indicative|be|lang=en}}.
 #* '''1913''', Arthur Conan Doyle, ''The Poison Belt''
 #*: "'''Was''' you outside the Bank of England, sir?"
-# {{context|colloquial|lang=en}} {{form of|Second person plural simple past tense|be|lang=en}}
+# {{context|colloquial|nonstandard|lang=en}} {{inflection of|be||2|p|simple|past|ind|lang=en}}
 #* '''2001''', Darrel Rachel, ''The Magnolias Still Bloom'' (page 104)
 #*: “What happened here, Hadley?” the chief asked. “We '''was''' robbed, damn it, we was robbed.”
 
@@ -80,7 +80,7 @@ From {{etyl|enm|en}} {{term|was|lang=enm}}, from {{etyl|ang|en}} {{term|wæs|lan
 ===Verb===
 {{head|af|verb form}}
 
-# Past tense of '''[[wees]]'''.
+# {{inflection of|wees||past|lang=af}}
 
 ===Verb===
 {{af-verb|wassende}}
@@ -98,7 +98,7 @@ From {{etyl|enm|en}} {{term|was|lang=enm}}, from {{etyl|ang|en}} {{term|wæs|lan
 * {{rhymes|ɑs|lang=nl}}
 
 ===Etymology 1===
-Cognate with English {{term|wash|lang=en}}.
+Cognate with English {{m|en|wash}}.
 
 ====Noun====
 {{nl-noun|m|-en|wasje}}
@@ -127,13 +127,10 @@ From {{inh|nl|odt|*was}}, from {{inh|nl|gem-pro|*wahsą}}. Cognate with German {
 # {{nl-verb form of|m=imp|wassen}}
 
 ====Derived terms====
-* [[bijenwas]]
-* [[gewas]] {{g2|n}}
-* [[uitwas]]
-* [[uit de kluiten gewassen]]
+{{der3|bijenwas|{{l|nl|gewas|g=n}}|uitwas|uit de kluiten gewassen|lang=nl}}
 
 ===Etymology 3===
-Cognate with English {{term|was|lang=en}}.
+Cognate with English {{m|en|was}}.
 
 ====Verb====
 {{nl-verb-form}}
@@ -152,7 +149,7 @@ Cognate with English {{term|was|lang=en}}.
 * {{l|de|wat}} {{qualifier|colloquial in western and parts of northern Germany}}
 
 ===Etymology===
-From {{etyl|gmh|de}} {{m|gmh|waz}}, from {{etyl|goh|de}} {{m|goh|waz}}, {{m|goh|hwaz}}, originally {{m|goh|*hwat}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*hwat}}, from {{etyl|ine-pro|de}} {{m|ine-pro|*kʷod}}, {{m|ine-pro|*kʷos}}. Cognate with Dutch {{term|wat|lang=nl}}, English {{term|what|lang=en}}, Danish {{term|hvad|lang=da}}. More at {{l/en|what}}.
+From {{inh|de|gmh|waz}}, from {{inh|de|goh|[[waz]], [[hwaz]]}}, originally {{m|goh|*hwat}}, from {{inh|de|gem-pro|*hwat}}, from {{inh|de|ine-pro|[[*kʷod]], [[*kʷos]]}}. Cognate with Dutch {{m|nl|wat}}, English {{m|en|what}}, Danish {{m|da|hvad}}. More at {{l/en|what}}.
 
 ===Pronunciation===
 * {{IPA|/vas/|lang=de}}
@@ -164,37 +161,30 @@ From {{etyl|gmh|de}} {{m|gmh|waz}}, from {{etyl|goh|de}} {{m|goh|waz}}, {{m|goh|
 {{head|de|pronoun|cat2=interrogative pronouns|cat3=relative pronouns}}
 
 # {{context|interrogative|lang=de}} [[what]]
-#: '''''Was''' machst du heute?''
-#:: What are you doing today?
+#: {{ux|de|'''Was''' machst du heute?|What are you doing today?}}
 # {{context|relative|lang=de}} [[which]] (referring to the entire preceding clause)
-#: ''Sie tanzte gut, '''was''' er bewunderte.''
-#:: She was a good dancer, which he admired.
+#: {{ux|de|Sie tanzte gut, '''was''' er bewunderte.|She was a good dancer, which he admired.}}
 # {{context|relative|lang=de}} [[that]], [[which]] (referring to {{term|das|lang=de}}, {{term|alles|lang=de}}, {{term|etwas|lang=de}}, {{term|nichts|lang=de}}, and neuter substantival adjectives)
-#: ''Das ist alles, '''was''' ich will.''
-#:: That's all that I want.
-#: ''Das ist das Beste, '''was''' mir passieren konnte.''
-#:: That's the best that could have happened to me.
+#: {{ux|de|Das ist alles, '''was''' ich will.|That's all that I want.}}
+#: {{ux|de|Das ist das Beste, '''was''' mir passieren konnte.|That's the best that could have happened to me.}}
 # {{context|relative|colloquial|lang=de}} [[that]], [[which]] (referring to neuter singular nouns, instead of standard {{term|das|lang=de}})
-#: ''Siehst du das weiße Haus, '''was''' renoviert wird?''
-#:: Do you see that white house, which is being renovated?
+#: {{ux|de|Siehst du das weiße Haus, '''was''' renoviert wird?|Do you see that white house, which is being renovated?}}
 # {{context|indefinite|colloquial|lang=de}} [[something]], [[anything]] (instead of standard {{term|etwas|lang=de}})
-#: ''Ich hab '''was''' gefunden.''
-#:: I've found something.
+#: {{ux|de|Ich hab '''was''' gefunden.|I've found something.}}
 
 ====Usage notes====
-* The genitive case, and the dative case if necessary for clearness, can be paraphrased by means of {{term|welcher|lang=de}} {{term|Sache|lang=de}} (“what thing”). [[possessive|Possessive]] genitives are more commonly paraphrased with {{term|wovon||of what|lang=de}}.
-* The colloquial ''was'' meaning "something" can only be the first word in a sentence if followed by an adjective: ''Was Wichtiges fehlt noch.'' – "Something important is missing." Otherwise the full form ''etwas'' must be used: ''Etwas fehlt noch.'' – "Something is missing." The reason for this is that the latter sentence could be misinterpreted as a question if ''was'' were used.
-* ''Was'' is not commonly used with prepositions, but replaced with pronominal adverbs containing {{term|wo-|lang=de}}. Hence: '''''Wo'''mit hast du das gemacht?'' – "With what did you do that?", instead of ''Mit was hast du das gemacht?''.
+* The genitive case, and the dative case if necessary for clearness, can be paraphrased by means of {{m|de|[[welcher]] [[Sache]]||what thing}}. [[possessive|Possessive]] genitives are more commonly paraphrased with {{m|de|wovon||of what}}.
+* The colloquial ''was'' meaning "something" can only be the first word in a sentence if followed by an adjective: {{l|de||''Was Wichtiges fehlt noch.''|Something important is missing.}} Otherwise the full form ''etwas'' must be used: {{l|de||''Etwas fehlt noch.''|Something is missing.}} The reason for this is that the latter sentence could be misinterpreted as a question if ''was'' were used.
+* ''Was'' is not commonly used with prepositions, but replaced with pronominal adverbs containing {{m|de|wo-}}. Hence: {{l|de||'''''Wo'''mit hast du das gemacht?''|With what did you do that?}}, instead of ''Mit was hast du das gemacht?''.
 
 ====Derived terms====
-* [[was für]]
+* {{l|de|was für}}
 
 ===Adverb===
 {{head|de|adverb}}
 
 # {{context|colloquial|lang=de}} [[a little]], [[somewhat]]
-#: ''Ich komm' '''was''' später.''
-#:: I'll arrive a little later.
+#: {{ux|de|Ich komm' '''was''' später.|I'll arrive a little later.}}
 
 ----
 
@@ -263,9 +253,9 @@ Notes on the verb ''węsen'' (to be): In recent times (~1800) the old [[subjunct
 ===Pronoun===
 {{head|pl|pronoun form}}
 
-# Genitive of '''[[wy#Polish|wy]]'''.
-# Accusative of '''[[wy#Polish|wy]]'''.
-# Locative of '''[[wy#Polish|wy]]'''.
+# {{inflection of|wy||gen|lang=pl}}
+# {{inflection of|wy||acc|lang=pl}}
+# {{inflection of|wy||loc|lang=pl}}
 
 ----
 
@@ -281,7 +271,7 @@ Notes on the verb ''węsen'' (to be): In recent times (~1800) the old [[subjunct
 ==Tok Pisin==
 
 ===Etymology===
-{{etyl|en|tpi}} {{term|watch|lang=en}}
+From {{inh|tpi|en|watch}}.
 
 ===Verb===
 {{head|tpi|verb}}
