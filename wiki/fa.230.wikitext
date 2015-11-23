@@ -123,10 +123,10 @@ From the Catalan verb {{term|lang=ca|fer||to [[do]]}}.
 ==Hungarian==
 
 ===Etymology===
-From {{etyl|urj-pro|hu}} {{m|urj-pro|*puxe}}. Cognate with Finnish {{m|fi|puu}}.
+From {{etyl|urj-pro|hu}} {{m|urj-pro|*puxe}}. Cognates include Finnish {{m|fi|puu}}.<ref>{{R:Uralonet|829}}</ref><ref>{{R:Zaicz 2006}}</ref>
 
 ===Pronunciation===
-* {{IPA|/ˈfɒ/|lang=hu}}
+* {{hu-IPA}}
 * {{audio|Hu-fa.ogg|Audio|lang=hu}}
 
 ===Noun===
@@ -134,19 +134,23 @@ From {{etyl|urj-pro|hu}} {{m|urj-pro|*puxe}}. Cognate with Finnish {{m|fi|puu}}.
 
 # [[tree]] {{gloss|large woody plant}}
 # [[wood]] {{gloss|substance beneath the bark of the trunk or branches of a tree}}
-# {{context|graph theory|lang=hu}} [[tree]] {{gloss|connected graph with no cycles}}
-# {{context|computing theory|lang=hu}} [[tree]] {{gloss|recursive data structure}}
-# {{context|attributive|lang=hu}} [[wooden]] {{gloss|made of wood}}
+# {{lb|hu|graph theory}} [[tree]] {{gloss|connected graph with no cycles}}
+# {{lb|hu|computing theory}} [[tree]] {{gloss|recursive data structure}}
+# {{lb|hu|attributive}} [[wooden]] {{gloss|made of wood}}
 
 ====Declension====
-{{hu-decl-k-back|f|á}}{{hu-pos-tok|fá}}
+{{hu-infl-nom|fá|o}}{{hu-pos-tok|fá}}
 
 ====Derived terms====
-{{der3|akasztófa|almafa|birsalmafa|cédrusfa|családfa|diófa|ébenfa|eperfa|épületfa|facsavar|faeper|fagyöngy|fahéj|fahéjfa|fakanál|fakopáncs|fakutya|falevél|farész|faszén|fatörzs|favágó|fűzfa|gyümölcsfa|hársfa|kajszibarackfa|karácsonyfa|karfa|korfa|körtefa|licsifa|majomkenyérfa|narancsfa|olajfa|orgonafa|puhafa|sárgabarackfa|sátorfa|szelídgesztenyefa|szemöldökfa|tiszafa|tölgyfa|vállfa|lang=hu}}
-; Expressions
+* [[fás]]
+{{der4|title=Compound words|akasztófa|almafa|birsalmafa|cédrusfa|családfa|diófa|ébenfa|eperfa|épületfa|facsavar|faeper|fagyöngy|fahéj|fahéjfa|fakanál|fakopáncs|fakutya|falevél|farész|faszén|fatörzs|favágó|fűzfa|gyümölcsfa|hársfa|kajszibarackfa|karácsonyfa|karfa|korfa|körtefa|licsifa|majomkenyérfa|narancsfa|olajfa|orgonafa|puhafa|sárgabarackfa|sátorfa|szelídgesztenyefa|szemöldökfa|tiszafa|tölgyfa|vállfa|lang=hu}}
+{{qualifier|Expressions}}:
 * {{l|hu|fából vaskarika}}
 * {{l|hu|nem esik messze az alma a fájától}}
 * {{l|hu|nem látja a fától az erdőt}}
+
+===References===
+<references/>
 
 [[Category:Hungarian two-letter words]]
 [[Category:hu:Trees]]
