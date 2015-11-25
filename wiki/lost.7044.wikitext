@@ -99,26 +99,14 @@
 * Vietnamese: {{t-needed|vi}}
 {{trans-bottom}}
 
-{{trans-top|unavailable}}
-* Arabic: {{t-needed|ar}}
-* Armenian: {{t|hy|անհասանելի}}
-* Chinese:
-*: Mandarin: {{t-needed|cmn}}
-{{trans-mid}}
-* Finnish: {{t|fi|poissa}}
-* French: {{t-needed|fr}}
-* Maori: {{t|mi|ngaro}}
-* Russian: {{t+|ru|недосту́пный}}
-{{trans-bottom}}
-
-{{trans-top|with location unknown}}
+{{trans-top|in an unknown location}}
 * Arabic: {{t-needed|ar}}
 * Armenian: {{t|hy|կորուսյալ}}
 * Chinese:
 *: Mandarin: {{t-needed|cmn}}
 * Danish: {{t|da|forsvundet}}
 * Esperanto: {{t|eo|perdita}}
-* Finnish: {{t|fi|kadonnut}}, {{t|fi|kadoksissa}}
+* Finnish: {{t|fi|kadonnut}}, {{t|fi|kadoksissa}}, {{t|fi|hukassa}}
 * French: {{t+|fr|perdu}}
 * Georgian: {{t-needed|ka}}
 {{trans-mid}}
@@ -132,7 +120,38 @@
 * Vietnamese: {{t-needed|vi}}
 {{trans-bottom}}
 
+{{trans-top|not perceptible to the senses; no longer visible}}
+* Finnish: {{t|fi|kadonnut}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|parted with; no longer held or possessed}}
+* Finnish: {{t|fi|menetetty}}, {{t|fi|hukattu}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|not employed or enjoyed; thrown away}}
+* Finnish: {{t|fi|hukattu}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|ruined or destroyed}}
+* Finnish: {{t|fi|kadonnut}}, {{t|fi|kadotettu}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|hardened beyond sensibility or recovery}}
+* Finnish: {{t|fi|paatunut}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|occupied with, or under the influence of, something}}
+* Finnish: {{t|fi|uppoutunut}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{checktrans-top}}
+* Armenian: {{t-check|hy|անհասանելի}} <!-- Was under: "unavailable" -->
 * Dutch: {{t+check|nl|verloren}}, {{t+check|nl|verdwaald}}
 * French: {{t+check|fr|perdu}}
 * Georgian: {{t-check|ka|დაკარგული}}
@@ -143,8 +162,10 @@
 * Italian: {{t+check|it|perso}}
 * {{ttbc|ja}}: [[失った]] ([[うしなった]], ushinatta), [[負けた]] ([[まけた]], maketa)
 * Korean: {{t-check|ko|잃다|tr=yi-reot-da|sc=Hang}}
+* Maori: {{t-check|mi|ngaro}} <!-- Was under: "unavailable" -->
 * Polish: {{t-check|pl|zagubiony|m}}, {{t-check|pl|zagubiona|m}}, {{t-check|pl|zgubiony|m}}, {{t-check|pl|zgubiona|f}}
 * Romanian: {{t+check|ro|pierdut}}
+* Russian: {{t-check|ru|недосту́пный}} <!-- Was under: "unavailable" -->
 * Scottish Gaelic: {{t-check|gd|caillte}}
 * Vietnamese: {{t-check|vi|bị mất}}
 {{trans-bottom}}
