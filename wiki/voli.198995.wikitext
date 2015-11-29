@@ -12,7 +12,7 @@
 ==Esperanto==
 
 ===Etymology===
-From {{etyl|it|eo}} {{term|volere|lang=it}}; {{etyl|de|eo}} {{term|wollen|lang=de}}
+From {{etyl|it|eo}} {{m|it|volere}}; {{etyl|de|eo}} {{m|de|wollen}}
 
 ===Pronunciation===
 * {{IPA|/ˈvoli/|lang=eo}}
@@ -20,9 +20,8 @@ From {{etyl|it|eo}} {{term|volere|lang=it}}; {{etyl|de|eo}} {{term|wollen|lang=d
 ===Verb===
 {{eo-head}}
 
-# {{context|transitive|lang=eo}} to [[wish]], [[want]]
-#: ''Mi '''volas''' novan aŭton sed mi ne povas pagi la koston de ĝi.''
-#:: I '''want''' a new car but I cannot afford it.
+# {{cx|transitive|lang=eo}} to [[wish]], [[want]]
+#: {{usex|Mi '''volas''' novan aŭton sed mi ne povas pagi la koston de ĝi.|I '''want''' a new car but I cannot afford it.|lang=eo}}
 
 ====Conjugation====
 {{eo-conj|vol}}
@@ -61,12 +60,21 @@ From {{etyl|poz-oce-pro|fj}}, from {{etyl|poz-pro|fj}} {{m|poz-pro|*bəli}}, fro
 ==Friulian==
 
 ===Etymology===
-From {{etyl|VL.|fur}} or {{etyl|LL.|fur}} {{term|oclus|lang=la}}, from {{etyl|la|fur}} {{term|oculus|lang=la}}.
+From {{etyl|VL.|fur}} or {{etyl|LL.|fur}} {{m|la|oclus}}, from {{etyl|la|fur}} {{m|la|oculus}}.
 
 ===Noun===
 {{fur-noun|m|pl=voi}}
 
-# {{context|anatomy|lang=fur}} [[eye]]
+# {{cx|anatomy|lang=fur}} [[eye]]
+
+----
+
+==Icelandic==
+
+===Noun===
+{{is-noun form}}
+
+# {{is-inflection of|vol|indef|dat|s}}
 
 ----
 
@@ -89,7 +97,7 @@ From {{etyl|VL.|fur}} or {{etyl|LL.|fur}} {{term|oclus|lang=la}}, from {{etyl|la
 ==Novial==
 
 ===Verb===
-{{head|nov|verb}}
+{{nov-verb}}
 
 # [[want]]
 
