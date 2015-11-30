@@ -8,7 +8,7 @@
 * {{rhymes|æn|lang=en}}
 
 ===Etymology===
-From {{etyl|fro|en}} {{m|fro|bren|bren, bran|bran, filth}}, from {{etyl|cel-gau|en}} {{m|cel-gau|brennos||rotten}}, from {{etyl|cel-pro|en}} {{m|cel-pro|*bragnos||rotten, faul}} (compare {{etyl|cy|-}} {{m|cy|braen||stench}}, {{etyl|ga|-}} {{m|ga|bréan||rancid}}), from {{etyl|ine-pro|en}} {{m|ine-pro|*bʰreHg-}} (compare {{etyl|la|-}} {{m|la|fragrāre||to smell strongly}}, {{etyl|nl|-}} {{m|nl|brak||hound}}).
+From {{der|en|fro|bren|bren, bran|bran, filth}}, from {{der|en|cel-gau|brennos||rotten}}, from {{der|en|cel-pro|*bragnos||rotten, faul}} (compare {{etyl|cy|-}} {{m|cy|braen||stench}}, {{etyl|ga|-}} {{m|ga|bréan||rancid}}), from {{der|en|ine-pro|*bʰreHg-}} (compare {{etyl|la|-}} {{m|la|fragrāre||to smell strongly}}, {{etyl|nl|-}} {{m|nl|brak||hound}}).
 
 ===Noun===
 {{en-noun|~}}
@@ -19,7 +19,7 @@ From {{etyl|fro|en}} {{m|fro|bren|bren, bran|bran, filth}}, from {{etyl|cel-gau|
 ====Translations====
 {{trans-top|outside layer of a grain}}
 * Armenian: {{t|hy|թեփ}}
-* Bulgarian: {{t+|bg|трици|p|tr=tríci}}
+* Bulgarian: {{t+|bg|три́ци|p}}
 * Chinese:
 *: Mandarin: {{t|cmn|麩皮|sc=Hani}}, {{t+|cmn|麸皮|tr=fūpí|sc=Hani}}, {{t+|cmn|麩|sc=Hani}}, {{t+|cmn|麸|tr=fū|sc=Hani}}
 * Crimean Tatar: {{t|crh|kebek}}
@@ -37,7 +37,7 @@ From {{etyl|fro|en}} {{m|fro|bren|bren, bran|bran, filth}}, from {{etyl|cel-gau|
 {{trans-mid}}
 * Korean: {{t+|ko|겨|tr=gyeo}}, {{t+|ko|기울|tr=giul}}
 * Luxembourgish: {{t+|lb|Krësch|m}}
-* Macedonian: {{t|mk|трица|f|tr=tríca}}
+* Macedonian: {{t|mk|три́ца|f}}
 * Maori: {{t|mi|pāpapa}}
 * Portuguese: {{t+|pt|farelo|m}}
 * Romanian: {{t|ro|tărâțe|f-p}}
@@ -47,7 +47,7 @@ From {{etyl|fro|en}} {{m|fro|bren|bren, bran|bran, filth}}, from {{etyl|cel-gau|
 *: Roman: {{t+|sh|mekinje|p}}
 * Spanish: {{t+|es|salvado|m}}, {{t+|es|acemite}} {{qualifier|archaic}}, {{t+|es|afrecho|m}}
 * Tagalog: {{t|tl|darak}}
-* Telugu: {{t+|te|తవుడు|tr=tavuDu}}
+* Telugu: {{t+|te|తవుడు}}
 * Turkish: {{t+|tr|kepek}}
 * Vietnamese: {{t+|vi|cám}}
 * Welsh: {{t|cy|eisin|p}}
@@ -62,10 +62,10 @@ From {{etyl|fro|en}} {{m|fro|bren|bren, bran|bran, filth}}, from {{etyl|cel-gau|
 ==Breton==
 
 ===Etymology===
-From {{etyl|cel-pro|br}} {{m|cel-pro|*brano}}, from {{etyl|ine-pro|br}} {{m|ine-pro|*u̯er-}} ‘crow’ (compare Tocharian B {{term|wrauña|lang=txb}}, Lithuanian {{m|lt|várna}}).
+From {{inh|br|cel-pro|*brano}}, from {{inh|br|ine-pro|*u̯er-||crow}} (compare Tocharian B {{m|txb|wrauña}}, Lithuanian {{m|lt|várna}}).
 
 ===Noun===
-{{head|br|noun|g=m}}
+{{br-noun|m}}
 
 # [[raven]]
 
@@ -82,7 +82,7 @@ From {{etyl|cel-pro|br}} {{m|cel-pro|*brano}}, from {{etyl|ine-pro|br}} {{m|ine-
 ==Cornish==
 
 ===Etymology===
-From {{etyl|cel-pro|kw}} {{m|cel-pro|*brano}}, from {{etyl|ine-pro|kw}} {{m|ine-pro|*u̯er-||crow}} (compare Tocharian B {{m|txb|wrauña}}, Lithuanian {{m|lt|várna}}).
+From {{inh|kw|cel-pro|*brano}}, from {{inh|kw|ine-pro|*u̯er-||crow}} (compare Tocharian B {{m|txb|wrauña}}, Lithuanian {{m|lt|várna}}).
 
 ===Pronunciation===
 * {{IPA|[bɹæːn]|lang=kw}}
@@ -99,15 +99,12 @@ From {{etyl|cel-pro|kw}} {{m|cel-pro|*brano}}, from {{etyl|ine-pro|kw}} {{m|ine-
 ==Irish==
 
 ===Etymology 1===
-From {{inh|ga|sga|bran}}, from {{inh|ga|pgl|ᚁᚏᚐᚅᚐ}}, from {{inh|ga|cel-pro|*branos}}, from {{inh|ga|ine-pro|*wer-||crow}} (compare Tocharian B {{term|wrauña|lang=txb}}, Lithuanian {{m|lt|várna}}).
+From {{inh|ga|sga|bran}}, from {{inh|ga|pgl|ᚁᚏᚐᚅᚐ}}, from {{inh|ga|cel-pro|*branos}}, from {{inh|ga|ine-pro|*wer-||crow}} (compare Tocharian B {{m|txb|wrauña}}, Lithuanian {{m|lt|várna}}).
 
 ====Noun====
-{{ga-noun|brain|brain|g=m}}
+{{ga-noun|g=m|brain|brain}}
 
-# {{context|literary|lang=ga}} [[raven]]
-
-=====Declension=====
-{{ga-decl-m1|b|ran|rain}}
+# {{lb|ga|literary}} [[raven]]
 
 =====Synonyms=====
 * {{l|ga|fiach}}
@@ -115,16 +112,16 @@ From {{inh|ga|sga|bran}}, from {{inh|ga|pgl|ᚁᚏᚐᚅᚐ}}, from {{inh|ga|cel
 ===Etymology 2===
 
 ====Noun====
-{{ga-noun|brain|brain|g=m}}
+{{ga-noun|g=m|brain|brain}}
 
 # [[bream]] {{qualifier|[[Abramis brama]]}}
-
-=====Declension=====
-{{ga-decl-m1|b|ran|rain}}
 
 =====Synonyms=====
 * {{l|ga|bréan}}
 * {{l|ga|deargán}}
+
+===Declension===
+{{ga-decl-m1|b|ran|rain}}
 
 ===Mutation===
 {{ga mut cons|b|ran}}
