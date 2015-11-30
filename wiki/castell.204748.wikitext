@@ -4,7 +4,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|ca|en}} {{term|lang=ca|castell}}.
+{{borrowing|en|ca|castell}}.
 
 ===Noun===
 {{en-noun}}
@@ -27,19 +27,19 @@ From {{etyl|ca|en}} {{term|lang=ca|castell}}.
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{term|lang=la|castellum}}.
+From {{inh|ca|la|castellum}}.
 
 ===Noun===
 {{ca-noun|m}}
 
 # [[castle]] ; a fortified structure
-# {{context|nautical|lang=ca}} [[castle]] ; enclosed area located above the [[top deck]].
+# {{lb|ca|nautical}} [[castle]] ; enclosed area located above the [[top deck]].
 # [[château]] ; large house
 # {{l|en|castell}}
 
 ====Derived terms====
-* {{l|ca|castell de cartes}} {{qualifier|house of cards}}
-* {{l|ca|castell de sorra}} {{qualifier|sandcastle}}
+* {{l|ca|castell de cartes||house of cards}}
+* {{l|ca|castell de sorra||sandcastle}}
 * {{l|ca|casteller}}
 * {{l|ca|castellero}}
 
@@ -61,7 +61,7 @@ From {{etyl|la|ca}} {{term|lang=la|castellum}}.
 ==Welsh==
 
 ===Etymology===
-From {{etyl|la|cy}} {{term|castellum|lang=la}}.
+{{borrowing|cy|la|castellum}}.
 
 ===Pronunciation===
 * {{IPA|/ˈkas.tɛɬ/|lang=cy}}
@@ -72,11 +72,11 @@ From {{etyl|la|cy}} {{term|castellum|lang=la}}.
 # [[castle]] (a [[fortified]] [[building]])
 # [[rook]] (a [[chess piece]])
 
-====Mutation====
-{{welsh mutation c-|astell}}
-
 ====Synonyms====
-* [[caer]]
+* {{l|cy|caer}}
+
+===Mutation===
+{{cy-mut-auto}}
 
 [[Category:cy:Chess]]
 [[Category:cy:Military]]
