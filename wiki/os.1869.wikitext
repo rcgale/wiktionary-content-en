@@ -484,18 +484,20 @@ From {{etyl|la|fro}} {{term|ossum|lang=la}}, from {{term|os|lang=la}}.
 ==Portuguese==
 
 ===Etymology 1===
-From {{etyl|roa-opt|pt}} {{term|os|lang=roa-opt}}, {{etyl|la|pt}} {{m|la|illōs}} (with the disappearance of an initial ''l''; compare Spanish {{term|los|lang=es}}).
+From {{inh|pt|roa-opt|os}}, from {{inh|pt|VL.|*los}}, from {{inh|pt|la|illōs}}.
+
+Cognate of {{etyl|es|-}} {{m|es|los}}.
 
 ====Pronunciation====
-* {{a|PT}} {{IPA|/ʊʃ/|/ʊz/|lang=pt}}
-* {{a|BR}} {{IPA|/ʊs/|/ʊʃ/|lang=pt}}
+* {{a|PT}} {{IPA|/uʃ/|/uz/|lang=pt}}
+* {{a|BR}} {{IPA|/us/|/uʃ/|lang=pt}}
 * {{a|South Brazil}} {{IPA|/os/|lang=pt}}
 * {{hyphenation|os|lang=pt}}
 
 ====Article====
 {{pt-article}}
 
-# {{pt-article form of|o|m|pl}}
+# {{senseid|pt|article}} {{pt-article form of|o|m|pl}}
 #* {{RQ:Harry Potter|7|pt-BR|page=546}}
 #*: Está na hora de testarmos '''os''' nossos talentos no mundo real, você não acha?
 #*:: It's time to test '''the''' talents of ours in the real world, don't you think?
@@ -515,23 +517,26 @@ From {{etyl|roa-opt|pt}} {{term|os|lang=roa-opt}}, {{etyl|la|pt}} {{m|la|illōs}
 ====Pronoun====
 {{pt-pron}}
 
-# {{context|object pronoun|lang=pt}} ''3rd person'' [[them]] (as a direct object; as an indirect object, see [[lhes]]; after prepositions, see [[eles]]).
+# {{senseid|pt|pronoun}} {{n-g|third-person plural direct objective personal pronoun}}; {{l|en|them}}
 #: {{usex|Encontrei-'''os''' na rua.|t=I met '''them''' at the street.|lang=pt}}
+
+=====Synonyms=====
+* {{l|pt|lhes}} {{qualifier|indirect objective}}, {{l|pt|eles}}/{{l|pt|elas}} {{qualifier|prepositional}}
+
+=====Usage notes=====
+* Becomes -{{m|pt|los}} after verb forms ending in ''-r, -s'', or ''-z'', the pronouns {{m|pt|nos}} and {{m|pt|vos}}, and the adverb {{m|pt|eis}}; the ending letter causing the change disappears.
+*: After {{m|pt|ver}}: {{ux|pt|Posso vê-los?|May I see them?|inline=1}}
+*: After {{m|pt|por|pôs}}: {{ux|pt|Pô-los ali.|He put them there.|inline=1}}
+*: After {{m|pt|fazer|fiz}}: {{ux|pt|Fi-los ficarem contentes.|I made them become happy.|inline=1}}
+*: After {{m|pt|nos}}: {{ux|pt|Deu-no-los relutantemente.|He gave them to us reluctantly.|inline=1}}
+*: After {{m|pt|eis}}: {{ux|pt|Ei-los!|Behold them!|inline=1}}
+* Becomes -{{m|pt|nos}} after a nasal diphthong: ''-ão, -am'' {{IPAchar|[ɐ̃w̃]}}, ''-õe'' {{IPAchar|[õj̃]}}, ''-em, -êm'' {{IPAchar|[ẽj̃]}}.
+*: {{ux|pt|Detêm-nos como prisioneiros.|They detain them as a prisoners.|inline=1}}
+* In Brasil it is being abandoned in favor of the nominative form {{m|pt|eles}}.
+*: {{ux|pt|Eu os vi. → Eu vi eles.|I saw them.|inline=1}}
 
 =====Quotations=====
 {{seeCites}}
-
-=====Usage notes=====
-* Becomes -[[los]] after verb forms ending in ''-r, -s'', or ''-z'', the pronouns [[nos]] and [[vos]], and the adverb [[eis]]; the ending letter causing the change disappears.
-*: After [[ver]]: ''Posso vê-los?'' = "May I see them?"
-*: After [[por|pôs]]: ''Pô-los ali.'' = "He put them there."
-*: After [[fazer|fiz]]: ''Fi-los ficarem contentes.'' = "I made them become happy."
-*: After [[nos]]: ''Deu-no-los relutantemente.'' = "He gave them to us reluctantly."
-*: After [[eis]]: ''Ei-los!'' = "Behold them!"
-* Becomes -[[nos]] after a nasal diphthong: ''-ão, -am'' [ɐ̃w̃], ''-õe'' [õj̃], ''-em, -êm'' [ẽj̃].
-*: ''Detêm-nos como prisioneiros.'' = "They detain them as a prisoners."
-* In Brasil it is being abandoned in favor of the nominative form [[eles]].
-*: ''Eu os vi.'' → ''Eu vi eles.'': “I saw them.”
 
 =====See also=====
 {{Portuguese personal pronouns}}
@@ -541,7 +546,7 @@ From {{etyl|roa-opt|pt}} {{term|os|lang=roa-opt}}, {{etyl|la|pt}} {{m|la|illōs}
 ====Noun====
 {{pt-noun-form|m}}
 
-# {{plural of|o|lang=pt}}
+# {{senseid|pt|noun form}} {{plural of|o|lang=pt}}
 
 {{catlangname|pt|terms with multiple etymologies}}
 
