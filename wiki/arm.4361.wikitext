@@ -527,7 +527,7 @@ Akin to {{etyl|nl|-}} {{m|nl|arm||poor}}, {{etyl|de|-}} {{m|de|arm||poor}}, {{et
 ==Afrikaans==
 
 ===Etymology===
-From {{etyl|nl|af}} {{m|nl|arm}}.
+From {{inh|af|nl|arm}}.
 
 ===Noun===
 {{af-noun|arms}}
@@ -721,7 +721,7 @@ From {{etyl|gem-pro|de}} {{m|gem-pro|*armaz}}, perhaps from {{etyl|ine-pro|de}} 
 ==Irish==
 
 ===Etymology===
-From {{etyl|sga|ga}} {{m|sga|arm|g=n|g2=m||armour, battle-equipment, panoply; weapon; army}}, from {{etyl|la|ga}} {{m|la|arma}}.
+From {{inh|ga|sga|arm|g=n||armour, battle-equipment, panoply; weapon; army}}, from {{der|ga|la|arma}}.
 
 ===Pronunciation===
 * {{IPA|/ˈaɾˠəmˠ/|lang=ga}}
@@ -737,7 +737,8 @@ From {{etyl|sga|ga}} {{m|sga|arm|g=n|g2=m||armour, battle-equipment, panoply; we
 {{ga-decl-m1|a|rm|irm}}
 
 ====Derived terms====
-{{der3|{{l|ga|armach|pos=adj||armed}}
+{{der3
+|{{l|ga|armach|pos=adj||armed}}
 |{{l|ga|armadóir|g=m||armourer}}
 |{{l|ga|armáil|pos=v||arm}}
 |{{l|ga|armáil|g=f||armament; army}}
@@ -751,7 +752,8 @@ From {{etyl|sga|ga}} {{m|sga|arm|g=n|g2=m||armour, battle-equipment, panoply; we
 |{{l|ga|armrua|pos=adj||fierce in arms}}
 |{{l|ga|armlón|g=m||ammunition}}
 |{{l|ga|armshlua|g=m||armed host}}
-|{{l|ga|arm tine|g=m||firearm}}}}
+|{{l|ga|arm tine|g=m||firearm}}
+}}
 
 ===Mutation===
 {{ga mut vowel}}
@@ -774,15 +776,14 @@ Cognate to {{etyl|nl|-}} {{m|nl|arm||poor}}. Compare {{etyl|de|-}} {{m|de|arm||p
 
 # [[poor]]
 #* '''1912''', ''Tijdschrift voor Nederlandsche taal— en letterkunde'', volumes 31-32, page 309:
-#*: Hai waz nît tevrêde täus en dârkîs tû râkni '''arm'''. {{...}}
-#*:: He was not content at home and therefore he became '''poor'''. {{...}}
+#*: {{ux|gmw-jdt|Hai waz nît tevrêde täus en dârkîs tû râkni '''arm'''. {{...}}|He was not content at home and therefore he became '''poor'''. {{...}}}}
 
 ----
 
 ==Manx==
 
 ===Etymology===
-From {{etyl|sga|gv}} {{m|sga|arm|g=n|g2=m||armour, battle-equipment, panoply; weapon; army}}, from {{etyl|la|gv}} {{m|la|arma}}.
+From {{inh|gv|sga|arm|g=n||armour, battle-equipment, panoply; weapon; army}}, from {{der|gv|la|arma}}.
 
 ===Noun===
 {{gv-noun|m|armyn|arm}}
@@ -840,7 +841,7 @@ From {{inh|dum|odt|arm}}, from {{etyl|gem-pro|dum}} {{m|gem-pro|*armaz}}.
 <!--this Middle English entry was created using Template:new enm entry-->
 
 ===Etymology 1===
-From {{etyl|ang|enm}} {{m|ang|earm||arm}}, from {{etyl|gem-pro|enm}} {{m|gem-pro|*armaz||arm}}, from {{etyl|ine-pro|enm}} {{m|ine-pro|*arəm-||arm}}.
+From {{inh|enm|ang|earm||arm}}, from {{inh|enm|gem-pro|*armaz||arm}}, from {{inh|enm|ine-pro|*arəm-||arm}}.
 
 ====Noun====
 {{enm-noun}}
@@ -851,7 +852,7 @@ From {{etyl|ang|enm}} {{m|ang|earm||arm}}, from {{etyl|gem-pro|enm}} {{m|gem-pro
 * English: [[arm#English|arm]]
 
 ===Etymology 2===
-From {{etyl|ang|enm}} {{m|ang|earm||poor, wretched}}, from {{etyl|gem-pro|enm}} {{m|gem-pro|*armaz||poor}}, from {{etyl|ine-pro|enm}} {{m|ine-pro|*erm-||poor, ill}}.
+From {{inh|enm|ang|earm||poor, wretched}}, from {{inh|enm|gem-pro|*armaz||poor}}, from {{inh|enm|ine-pro|*erm-||poor, ill}}.
 
 ====Adjective====
 {{enm-adj}}
@@ -866,7 +867,7 @@ From {{etyl|ang|enm}} {{m|ang|earm||poor, wretched}}, from {{etyl|gem-pro|enm}} 
 ==Norwegian Bokmål==
 
 ===Etymology===
-From {{etyl|non|nb}} {{m|non|armr}}.
+From {{inh|nb|non|armr}}.
 
 ===Adjective===
 {{head|nb|adjective|neuter singular|armt|definite singular and plural|arme}}
@@ -893,7 +894,7 @@ From {{etyl|non|nb}} {{m|non|armr}}.
 ==Norwegian Nynorsk==
 
 ===Etymology===
-From {{etyl|non|nn}} {{m|non|armr}}.
+From {{inh|nn|non|armr}}.
 
 ===Adjective===
 {{head|nn|adjective|neuter singular|armt|definite singular and plural|arme}}
@@ -922,7 +923,7 @@ From {{etyl|non|nn}} {{m|non|armr}}.
 * {{l|ang|earm}}
 
 ===Etymology===
-From {{inh|ang|gem-pro|*armaz||arm}}, whence also Old High German {{term|arm|lang=goh}}, Old Norse {{term|armr|lang=non}}
+From {{inh|ang|gem-pro|*armaz||arm}}, whence also Old High German {{m|goh|arm}}, Old Norse {{m|non|armr}}
 
 ===Noun===
 {{ang-noun|m}}
@@ -969,7 +970,7 @@ From {{inh|goh|gem-pro|*armaz}}, whence also {{etyl|ang|-}} {{term|arm|lang=ang}
 ==Old Saxon==
 
 ===Etymology 1===
-From {{inh|osx|gem-pro|*armaz}}, whence also {{etyl|ang|-}} {{term|earm|lang=ang}}, {{etyl|non|-}} {{term|armr|lang=non}}.
+From {{inh|osx|gem-pro|*armaz}}, whence also {{etyl|ang|-}} {{m|ang|earm}}, {{etyl|non|-}} {{m|non|armr}}.
 
 ====Adjective====
 {{osx-adj|armoro|armost}}
@@ -983,7 +984,7 @@ From {{inh|osx|gem-pro|*armaz}}, whence also {{etyl|ang|-}} {{term|earm|lang=ang
 * Low German: {{l|nds|arm}}
 
 ===Etymology 2===
-From {{inh|osx|gem-pro|*armaz}}, whence also Old English ''[[earm]]'', Old Norse ''[[armr]]''.
+From {{inh|osx|gem-pro|*armaz}}, whence also Old English {{m|ang|earm}}, Old Norse {{m|non|armr}}.
 
 ====Noun====
 {{osx-noun|g=m}}
@@ -1001,7 +1002,7 @@ From {{inh|osx|gem-pro|*armaz}}, whence also Old English ''[[earm]]'', Old Norse
 ==Romanian==
 
 ===Etymology===
-From {{etyl|la|ro}} {{term|armus|lang=la}}.
+From {{inh|ro|la|armus}}.
 
 ===Noun===
 {{ro-noun|n|armuri}}
@@ -1023,7 +1024,7 @@ From {{etyl|la|ro}} {{term|armus|lang=la}}.
 ==Scots==
 
 ===Etymology 1===
-From {{etyl|enm|sco}}, from {{etyl|ang|sco}} {{term|earm||arm|lang=ang}}, from {{etyl|gem-pro|sco}} {{m|gem-pro|*armaz||arm}}, from {{etyl|ine-pro|sco}} {{m|ine-pro|*arəm-||arm}}.
+From {{der|sco|enm}}, from {{der|sco|ang|earm||arm}}, from {{der|sco|gem-pro|*armaz||arm}}, from {{der|sco|ine-pro|*arəm-||arm}}.
 
 ====Alternative forms====
 * {{l|sco|arme}}, {{l|sco|harme}}, {{l|sco|areme}}, {{l|sco|airme}}
@@ -1036,7 +1037,7 @@ From {{etyl|enm|sco}}, from {{etyl|ang|sco}} {{term|earm||arm|lang=ang}}, from {
 # [[bar]], [[beam]]
 
 ===Etymology 2===
-From {{etyl|enm|sco}} {{term|arm||poor|lang=enm}}, from {{etyl|ang|sco}} {{term|earm||poor|lang=ang}}, from {{etyl|gem-pro|sco}} {{m|gem-pro|*armaz||poor}}, from {{etyl|ine-pro|sco}} {{m|ine-pro|*erm-||poor, ill}}.
+From {{der|sco|enm|arm||poor}}, from {{der|sco|ang|earm||poor}}, from {{der|sco|gem-pro|*armaz||poor}}, from {{der|sco|ine-pro|*erm-||poor, ill}}.
 
 ====Adjective====
 {{sco-adj}}
@@ -1050,7 +1051,7 @@ From {{etyl|enm|sco}} {{term|arm||poor|lang=enm}}, from {{etyl|ang|sco}} {{term|
 # to [[crawl]] about miserably.
 
 ===Etymology 3===
-From {{etyl|enm|sco}} {{term|armen||to arm|lang=enm}}, from {{etyl|fro|sco}} {{term|armer||to arm|lang=fro}}, from {{etyl|la|sco}} {{m|la|armō||to arm}}. More at [[arm#Etymology_2|arm]].
+From {{der|sco|enm|armen||to arm}}, from {{der|sco|fro|armer||to arm}}, from {{der|sco|la|armō||to arm}}. More at [[arm#Etymology_2|arm]].
 
 ====Verb====
 {{sco-verb}}
@@ -1070,7 +1071,7 @@ From {{etyl|non|sco}} {{term|armr||wing of a body|lang=non}}.
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{etyl|sga|gd}} {{m|sga|arm|g=n|g2=m||armour, battle-equipment, panoply; weapon; army}}, from {{etyl|la|gd}} {{m|la|arma}}.
+From {{inh|gd|sga|arm|g=n||armour, battle-equipment, panoply; weapon; army}}, from {{der|gd|la|arma}}.
 
 ===Pronunciation===
 * {{IPA|/ˈaɾam/|lang=gd}}
@@ -1097,6 +1098,7 @@ From {{etyl|sga|gd}} {{m|sga|arm|g=n|g2=m||armour, battle-equipment, panoply; we
 * {{l|gd|dì-armaich}}
 
 ===References===
+* {{R:Dwelly}}
 * {{R:DIL|4184}}
 
 {{catlangcode|gd|Military|Weapons}}
@@ -1124,7 +1126,7 @@ From {{etyl|sga|gd}} {{m|sga|arm|g=n|g2=m||armour, battle-equipment, panoply; we
 * {{audio|Sv-arm.ogg|audio|lang=sv}}
 
 ===Etymology 1===
-From {{etyl|non|sv}} {{term|armr||arm|lang=non}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*armaz}}, from {{etyl|ine-pro|sv}} {{m|ine-pro|*h₂ermos}}, {{m|ine-pro|*h₂ŕ̥mos}}.
+From {{inh|sv|non|armr||arm}}, from {{inh|sv|gem-pro|*armaz}}, from {{inh|sv|ine-pro|[[*h₂ermos]], [[*h₂ŕ̥mos]]}}.
 
 ====Noun====
 {{sv-noun|c}}
@@ -1147,7 +1149,7 @@ From {{etyl|non|sv}} {{term|armr||arm|lang=non}}, from {{etyl|gem-pro|sv}} {{m|g
 * [[handled]]
 
 ===Etymology 2===
-From {{etyl|non|sv}} {{term|armr||poor|lang=non}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*armaz}}, from {{etyl|ine-pro|sv}} {{m|ine-pro|*h₂ermos}}, {{m|ine-pro|*h₂ŕ̥mos}}.
+From {{inh|sv|non|armr||poor}}, from {{inh|sv|gem-pro|*armaz}}, from {{inh|sv|ine-pro|[[*h₂ermos]], [[*h₂ŕ̥mos]]}}.
 
 ====Adjective====
 {{head|sv|adjective}}
