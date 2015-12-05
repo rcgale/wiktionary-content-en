@@ -4,16 +4,19 @@
 * {{l|ga|madradh}} {{qualifier|obsolete}}
 
 ===Etymology===
-From {{etyl|sga|ga}} {{term|madrad|lang=sga}}.
+From {{inh|ga|sga|[[madrad]], [[matrad]]}}.
 
 ===Pronunciation===
 * {{IPA|lang=ga|[ˈmˠad̪ˠɾˠə]}}
 * {{audio|ga-madra.ogg|play audio:|lang=ga}}
 
 ===Noun===
-{{ga-noun|madra|madraí|g=m}}
+{{ga-noun|g=m|-|madraí}}
 
 # [[dog]]
+#: {{ux|ga|Is teann gach madra ag a dhoras féin.|inline=1|lit=Every dog is bold in his own door.|A cock is bold on his own dunghill. —Proverb}}
+#: {{ux|ga|An té a bhuailfeadh mo mhadra bhuailfeadh sé mé féin.|inline=1|lit=Whoever beats my dog beats me.|Love me love my dog. —Proverb}}
+#: {{ux|ga|Tá an madra marbh!|inline=1|lit=The dog is dead!|The fat is in the fire!}}
 
 ====Declension====
 {{ga-decl-m4|m|adra|adraí}}
@@ -25,27 +28,41 @@ From {{etyl|sga|ga}} {{term|madrad|lang=sga}}.
 
 ====Derived terms====
 {{der3
-|{{l|ga|carrmhadra|g=m}}
+|{{l|ga|carrmhadra|g=m||mangy dog}}
 |{{l|ga|madra alla|g=m}}, {{l|ga|madra allta|g=m||wolf}}
-|{{l|ga|madra crainn|g=m}}
-|{{l|ga|madra gaoithe|g=m}}
-|{{l|ga|madra garbh|g=m}}
-|{{l|ga|madra rua|g=m||fox}}
-|{{l|ga|madra taoide|g=m}}
+|{{l|ga|madra gaoithe|g=m||light over horizon portending storm, (sea-)dog}}
+|{{l|ga|madra rua|g=m||fox; sugar-wrack}}
 |{{l|ga|madra uisce|g=m||otter}}
-|{{l|ga|madrúil}}
-|{{l|ga|maidrín|g=m}}
+|{{l|ga|madrúil|pos=adj||doglike, doggish; brutish, beastly; coarse, unmannerly; obscene}}
+|{{l|ga|maidrín|g=m}} {{qualifier|diminutive}}
 |{{l|ga|coiléar madra|g=m||dog collar}}
 |{{l|ga|smutmhadra|g=m||pug dog}}
+|{{l|ga|madra broic|g=m||badger-dog, basset}}
+|{{l|ga|madra caorach|g=m||sheep-dog, collie}}
+|{{l|ga|madra dúiseachta|g=m||pointer}}
+|{{l|ga|madra gearr|g=m||terrier}}
+|{{l|ga|madra seilge|g=m}}, {{l|ga|madra fiaigh|g=m||hunting-dog}}
+|{{l|ga|madra lathaí|g=m||guttersnipe; menial; bedraggled person}}
+|{{l|ga|madra crainn|g=m||squirrel}}
+|{{l|ga|madra éisc|g=m}}, {{l|ga|madra scadán|g=m||dogfish}}
+|{{l|ga|madra garbh|g=m||spiny dogfish}}
+|{{l|ga|madra gorm|g=m||tope}}
+|{{l|ga|madra mór|g=m||greater spotted dogfish}}
+|{{l|ga|madra bán|g=m||bee larva}}
+|{{l|ga|madra taoide|g=m||strong-running tide}}
+|{{l|ga|madra maith dráimh|g=m||good strong non-trump card}}
+|{{l|ga|madra feothain|g=m||dog-vane}}
 }}
-
-====References====
-* {{R:Dinneen|madraḋ}}
 
 ===Mutation===
 {{ga mut cons|m|adra}}
 
-[[Category:ga:Dogs]]
+====References====
+* {{R:ga:ODonaill}}
+* {{R:Dinneen|madraḋ}}
+* {{R:DIL|31235|head=madrad, matrad}}
+
+{{catlangcode|ga|Dogs}}
 
 [[cy:madra]]
 [[da:madra]]
