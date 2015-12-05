@@ -44,7 +44,7 @@ From {{etyl|enm|en}} {{term|ben|lang=enm}}, {{term|bene|lang=enm}}, variation of
 * [[but and ben]]
 
 ===Etymology 3===
-Probably representing a North African pronunciation of {{etyl|ar|en}} {{term|بَان||ben tree|lang=ar}}
+Probably representing a North African pronunciation of {{der|en|ar|بَان||ben tree}}
 
 ====Noun====
 {{en-noun}}
@@ -80,7 +80,7 @@ Probably representing a North African pronunciation of {{etyl|ar|en}} {{term|ب�
 [[Category:en:Spices and herbs]]
 
 ===Etymology 4===
-{{etyl|ar|en}} {{term|بن|lang=ar}} and {{etyl|he|en}} {{term|בן|lang=he|tr=ben||son}}.
+From {{der|en|ar|بن}} and {{der|en|he|בן|tr=ben||son}}.
 
 ====Alternative forms====
 * [[Ben]]
@@ -129,7 +129,7 @@ The form {{term|ben|lang=ca}} is used when it precedes the adjective, adverb or 
 ==Danish==
 
 ===Etymology===
-From {{etyl|non|da}} {{term|bein||bone, leg|lang=non}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*bainą}}.
+From {{inh|da|non|bein||bone, leg}}, from {{der|da|gem-pro|*bainą}}.
 
 ===Pronunciation===
 * {{IPA|/beːn/|[b̥eːˀn]|lang=da}}
@@ -147,27 +147,25 @@ From {{etyl|non|da}} {{term|bein||bone, leg|lang=non}}, from {{etyl|gem-pro|da}}
 
 ==Dutch==
 
+===Etymology===
+From {{inh|nl|dum|[[ben]], [[bem]], [[bin]], [[bim]]}}, from {{inh|nl|odt|[[*bin]], [[*bim]]}}, from {{inh|nl|gem-pro|*beuną||to be}}, from {{etyl|ine-pro|nl}} {{m|ine-pro|*bʰew-||to grow, become, appear}}. Cognate with {{etyl|de|-}} {{m|de|bin||am}}, {{etyl|ang|-}} {{m|ang|bīom}}, {{m|ang|bēom||am}}. More at {{l/en|be}}.
+
 ===Pronunciation===
 * {{audio|Nl-ben.ogg|Audio|lang=nl}}
 * {{rhymes|ɛn|lang=nl}}
 * {{IPA|/bɛn/|lang=nl}}
 
-===Etymology===
-From {{inh|nl|dum|ben}}, {{m|dum|bem}}, {{m|dum|bin}}, {{m|dum|bim}}, from {{inh|nl|odt|*bin}}, {{m|odt|*bim}}, from {{inh|nl|gem-pro|*beuną||to be}}, from {{etyl|ine-pro|nl}} {{m|ine-pro|*bʰew-||to grow, become, appear}}. Cognate with {{etyl|de|-}} {{term|bin||am|lang=de}}, {{etyl|ang|-}} {{m|ang|bīom}}, {{m|ang|bēom||am}}. More at {{l/en|be}}.
-
-See also German {{term|bin|lang=de}}.
-
 ===Verb===
 {{nl-verb-form}}
 
 # {{nl-verb form of|p=1|n=sg|t=pres|zijn}}
-# {{context|dialectical}} {{nl-verb form of|m=imp|zijn}}
+# {{lb|nl|dialectical}} {{nl-verb form of|m=imp|zijn}}
 
 ====Usage notes====
 ''Ben'' as an imperative is considered non-standard, the standard form is {{term|wees|lang=nl}}.
 
 ====Synonyms====
-* {{gloss|imperative}} [[wees]]
+* {{gloss|imperative}} {{l|nl|wees}}
 
 ===References===
 * [http://taaladvies.net/taal/advies/vraag/100 Taaladvies.net on ‘wees’ or ‘ben’]
@@ -177,7 +175,7 @@ See also German {{term|bin|lang=de}}.
 ==Faroese==
 
 ===Etymology===
-From {{etyl|non|fo}} {{term|ben|lang=non}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*banjō}}.
+From {{inh|fo|non|ben}}, from {{inh|fo|gem-pro|*banjō}}.
 
 ===Noun===
 {{fo-noun|n|bens|ben}}
@@ -223,7 +221,7 @@ From {{etyl|non|fo}} {{term|ben|lang=non}}, from {{etyl|gem-pro|fo}} {{m|gem-pro
 ==Friulian==
 
 ===Etymology===
-From {{etyl|la|fur}} {{m|la|bene}}.
+From {{der|fur|la|bene}}.
 
 ===Adverb===
 {{head|fur|adverb}}
@@ -247,7 +245,7 @@ From {{etyl|la|fur}} {{m|la|bene}}.
 ==Galician==
 
 ===Etymology===
-From {{etyl|la|gl}} {{term|bene|lang=la}}.
+From {{inh|gl|la|bene}}.
 
 ===Noun===
 {{gl-noun|m}}
@@ -286,7 +284,7 @@ From {{etyl|la|gl}} {{term|bene|lang=la}}.
 ==Istriot==
 
 ===Etymology===
-From {{etyl|la|ist}} {{m|la|bene}}.
+From {{der|ist|la|bene}}.
 
 ===Adverb===
 {{head|ist|adverb}}
@@ -301,10 +299,10 @@ From {{etyl|la|ist}} {{m|la|bene}}.
 {{it-adv}}
 
 # {{apocopic form of|bene|lang=it}}
-#: '''''ben''' fatto'' — well done
+#: {{ux|it|'''ben''' fatto|inline=1|well done}}
 
 ====Derived terms====
-* [[ben altro]]
+* {{l|it|ben altro}}
 
 ----
 
@@ -324,23 +322,23 @@ From {{etyl|la|ist}} {{m|la|bene}}.
 
 # [[string]], [[rope]]
 
-====Related terms====
-* [[bend#Kurdish|bend]]
-* [[benî#Kurdish|benî]]
-
 ====Derived terms====
-* [[benik#Kurdish|benik]]
-* [[benk#Kurdish|benk]]
+* {{l|ku|benik}}
+* {{l|ku|benk}}
+
+====Related terms====
+* {{l|ku|bend}}
+* {{l|ku|benî}}
 
 ----
 
 ==Ladin==
 
 ===Etymology===
-From {{etyl|la|lld}} {{m|la|bene}}.
+From {{der|lld|la|bene}}.
 
 ===Adverb===
-{{head|lld|adverb}} (''Comparative'': [[miec]])
+{{head|lld|adverb|comparative|miec}}
 
 # [[well]]
 # [[properly]]
@@ -348,7 +346,7 @@ From {{etyl|la|lld}} {{m|la|bene}}.
 ===Noun===
 {{lld-noun|m|bens}}
 
-# {{context|especially|in plural|lang=lld}} [[goods]], [[property]]
+# {{lb|lld|especially|in plural}} [[goods]], [[property]]
 
 ----
 
@@ -400,8 +398,6 @@ From {{inh|gv|sga|ben}}, from {{inh|gv|cel-pro|*benā}}, from {{inh|gv|ine-pro|*
 
 ----
 
-[[Category:ang:Religion]]
-
 ==Middle English==
 
 ===Verb===
@@ -418,12 +414,11 @@ From {{inh|gv|sga|ben}}, from {{inh|gv|cel-pro|*benā}}, from {{inh|gv|ine-pro|*
 
 ==Norwegian Bokmål==
 {{wikipedia|lang=no}}
-
 ===Alternative forms===
 * {{l|nb|bein}}
 
 ===Etymology===
-From {{etyl|non|nb}} {{term|bein|lang=non}}, from {{etyl|gem-pro|nb}} {{m|gem-pro|*bainą}}.
+From {{inh|nb|non|bein}}, from {{inh|nb|gem-pro|*bainą}}.
 
 ===Noun===
 {{nb-noun-n1}}
@@ -433,6 +428,7 @@ From {{etyl|non|nb}} {{term|bein|lang=non}}, from {{etyl|gem-pro|nb}} {{m|gem-pr
 
 ===References===
 * {{R:The Bokmål Dictionary}}
+
 [[Category:nb:Anatomy]]
 
 ----
@@ -441,7 +437,7 @@ From {{etyl|non|nb}} {{term|bein|lang=non}}, from {{etyl|gem-pro|nb}} {{m|gem-pr
 
 ===Etymology 1===
 {{PIE root|ang|bʰeh₂|id=speak}}
-From {{inh|ang|gem-pro|*bōniz}}. Cognate with Old Norse {{term|bón|lang=non}}.
+From {{inh|ang|gem-pro|*bōniz}}. Cognate with Old Norse {{m|non|bón}}.
 
 ====Pronunciation====
 * {{IPA|/beːn/|lang=ang}}
@@ -460,7 +456,7 @@ From {{inh|ang|gem-pro|*bōniz}}. Cognate with Old Norse {{term|bón|lang=non}}.
 * English: [[bee#Etymology_2|bee]]
 
 ===Etymology 2===
-From {{inh|ang|gem-pro|*banjō}}. Cognate with Old Norse {{term|ben|lang=non}}.
+From {{inh|ang|gem-pro|*banjō}}. Cognate with Old Norse {{m|non|ben}}.
 
 ====Pronunciation====
 * {{IPA|/ben/|lang=ang}}
@@ -469,6 +465,8 @@ From {{inh|ang|gem-pro|*banjō}}. Cognate with Old Norse {{term|ben|lang=non}}.
 {{ang-noun|f}}
 
 # {{alternative form of|benn|lang=ang}}
+
+[[Category:ang:Religion]]
 
 ----
 
@@ -535,7 +533,7 @@ Inflected form of {{m|sga|benaid}}.
 ==Old Saxon==
 
 ===Etymology===
-From {{inh|osx|gem-pro|*bainą}}. Cognate with Old Frisian {{term|bēn|lang=ofs}} (West Frisian {{term|bien|lang=fy}}), Old English {{m|osx|bān}} (English {{term|bone|lang=en}}), Dutch {{term|been||bone, leg|lang=nl}}, Old High German {{term|bein|lang=goh}} (German {{term|Bein||leg|lang=de}}), Old Norse {{term|bein|lang=non}} (Icelandic {{term|bein||bone|lang=is}}).
+From {{inh|osx|gem-pro|*bainą}}. Cognate with Old Frisian {{m|ofs|bēn}} (West Frisian {{m|fy|bien}}), Old English {{m|osx|bān}} (English {{m|en|bone}}), Dutch {{m|nl|been||bone, leg}}, Old High German {{m|goh|bein}} (German {{m|de|Bein||leg}}), Old Norse {{m|non|bein}} (Icelandic {{m|is|bein||bone}}).
 
 ===Noun===
 {{osx-noun|head=bēn|g=n}}
@@ -551,7 +549,7 @@ From {{inh|osx|gem-pro|*bainą}}. Cognate with Old Frisian {{term|bēn|lang=ofs}
 ==Scots==
 
 ===Etymology 1===
-{{etyl|ang|sco}} {{term|binnan|lang=ang}}.
+From {{der|sco|ang|binnan}}.
 
 ====Noun====
 {{sco-noun}}
@@ -582,7 +580,7 @@ From {{inh|osx|gem-pro|*bainą}}. Cognate with Old Frisian {{term|bēn|lang=ofs}
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|ota|sh}} {{term|بڭ|tr=beñ|lang=ota}}.
+{{bor|sh|ota|بڭ|tr=beñ}}.
 
 ===Noun===
 {{sh-noun|g=m|r|бен}}
@@ -723,10 +721,10 @@ From {{inh|sv|non|bein}}, from {{inh|sv|gem-pro|*bainą}}.
 * {{hyphenation|ben|lang=tr}}
 
 ===Etymology 1===
-From {{etyl|otk|tr}} ''meŋ'', from {{etyl|trk-pro|tr}} {{m|trk-pro|*beŋ||mole on the face}}.
+From {{der|tr|otk|meŋ}}, from {{der|tr|trk-pro|*beŋ||mole on the face}}.
 
 ====Noun====
-{{head|tr|noun}}
+{{tr-noun|beni|benler}}
 
 # [[birthmark]], [[mole]]
 
@@ -738,7 +736,7 @@ From {{etyl|otk|tr}} ''meŋ'', from {{etyl|trk-pro|tr}} {{m|trk-pro|*beŋ||mole 
 * {{l|tr|yama}}
 
 ===Etymology 2===
-From {{etyl|otk|tr}} ''men'', from {{etyl|trk-pro|tr}}.
+From {{der|tr|otk|men}}, from {{der|tr|trk-pro}}.
 
 ====Pronoun====
 {{head|tr|pronoun|cat2=personal pronouns}}
@@ -749,9 +747,9 @@ From {{etyl|otk|tr}} ''men'', from {{etyl|trk-pro|tr}}.
 {{tr-personal pronouns}}
 
 ====Noun====
-{{head|tr|noun}}
+{{tr-noun|beni|biz}}
 
-# {{context|psychology|lang=tr}} [[ego]]
+# {{lb|tr|psychology}} [[ego]]
 
 =====Declension=====
 {{tr-decl-noun|[[ben]]|[[biz]]
@@ -762,14 +760,14 @@ From {{etyl|otk|tr}} ''men'', from {{etyl|trk-pro|tr}}.
 |[[benim]]|[[bizim]]
 }}
 
-* It is one of the two words that have irregular dative and genitive case declension. (The other word is "{{term|sen|lang=tr}}" and also "{{term|biz|lang=tr}}" has irregular genitive case declension)
+* It is one of the two words that have irregular dative and genitive case declension. (The other word is "{{m|tr|sen}}" and also "{{m|tr|biz}}" has irregular genitive case declension)
 
 ----
 
 ==Venetian==
 
 ===Etymology===
-From {{etyl|la|vec}} {{m|la|bene}}.
+From {{der|vec|la|bene}}.
 
 ===Adverb===
 {{head|vec|adverb}}
@@ -784,7 +782,7 @@ From {{etyl|la|vec}} {{m|la|bene}}.
 ==Volapük==
 
 ===Etymology===
-{{borrowing|la|bene|lang=vo}}.
+{{bor|vo|la|bene}}.
 
 ===Pronunciation===
 * {{IPA|[ben]|lang=vo}}
@@ -798,35 +796,37 @@ From {{etyl|la|vec}} {{m|la|bene}}.
 {{vo-decl-noun}}
 
 ====Derived terms====
-* {{l|vo|benik}}
-* {{l|vo|benäd|gloss=[[grace]]}}
-* {{l|vo|benädü God|gloss=by God's grace, [[by the Grace of God]]}}
-* {{l|vo|bened|gloss=a [[blessing]]}}
-* {{l|vo|beno|gloss=[[well]]}}, ''[[adv]]''
-* {{l|vo|benod|gloss=good deed, [[charitable]] act, [[benefit]], [[benefaction]]}}
-* {{l|vo|benö}}!
-* {{l|vo|benön|gloss=be well, be prosperous}}, ''[[vi]]''
-* {{l|vo|benü|gloss=for the [[benefit]] of}} ({{l|vo|pöfikans|gloss=the [[poor]]}})
+{{der3
+|{{l|vo|benik}}
+|{{l|vo|benäd||[[grace]]}}
+|{{l|vo|benädü God||by God's grace, [[by the Grace of God]]}}
+|{{l|vo|bened||a [[blessing]]}}
+|{{l|vo|beno||[[well]]|pos=adv}}
+|{{l|vo|benod||good deed, [[charitable]] act, [[benefit]], [[benefaction]]}}
+|{{l|vo|benö!}}
+|{{l|vo|benön||be well, be prosperous|pos=vi}}
+|{{l|vo|benü||for the [[benefit]] of}} ({{l|vo|pöfikans||the [[poor]]}})
+}}
 
 ====Related terms====
 {{rel3
-|{{l|vo|benädik|gloss=[[gracious]]}}
-|{{l|vo|benedam|gloss=[[benediction]], blessing (as an action)}}
-|{{l|vo|benedik|gloss=[[benedictive]], rich in blessings}}
-|{{l|vo|benedön|gloss=[[bless]]|pos=vt}}
-|{{l|vo|beniköl|gloss=doing well, [[thriving]], [[flourishing]]}}
-|{{l|vo|benikön|gloss=become well, [[prosper]], [[thrive]], [[flourish]]|pos=vi}}
-|{{l|vo|benoköm|gloss=a [[welcome]]}}
-|{{l|vo|benokömö|gloss=welcome!}}!
-|{{l|vo|benokömön|gloss=arrive at the [[opportune]] moment|pos=vi}}
-|{{l|vo|benokömaglidön|gloss=to welcome, [[bid welcome]]|pos=vt}}
-|{{l|vo|benolab|gloss=wellness, i.e. "having (it) well", well-being, [[prosperity]], [[affluence]]}}
-|{{l|vo|benolabik|gloss=[[prosperous]], [[well-to-do]]}}
-|{{l|vo|benovimik|gloss=[[good-tempered]]}}
-|{{l|vo|benovip|gloss=[[congratulation]]}}
-|{{l|vo|benovipön|gloss=[[congratulate]], wish (someone) well|pos=vt}}
+|{{l|vo|benädik||[[gracious]]}}
+|{{l|vo|benedam||[[benediction]], blessing (as an action)}}
+|{{l|vo|benedik||[[benedictive]], rich in blessings}}
+|{{l|vo|benedön||[[bless]]|pos=vt}}
+|{{l|vo|beniköl||doing well, [[thriving]], [[flourishing]]}}
+|{{l|vo|benikön||become well, [[prosper]], [[thrive]], [[flourish]]|pos=vi}}
+|{{l|vo|benoköm||a [[welcome]]}}
+|{{l|vo|benokömö||welcome!}}!
+|{{l|vo|benokömön||arrive at the [[opportune]] moment|pos=vi}}
+|{{l|vo|benokömaglidön||to welcome, [[bid welcome]]|pos=vt}}
+|{{l|vo|benolab||wellness, i.e. "having (it) well", well-being, [[prosperity]], [[affluence]]}}
+|{{l|vo|benolabik||[[prosperous]], [[well-to-do]]}}
+|{{l|vo|benovimik||[[good-tempered]]}}
+|{{l|vo|benovip||[[congratulation]]}}
+|{{l|vo|benovipön||[[congratulate]], wish (someone) well|pos=vt}}
 |{{l|vo|benüköl}}
-|{{l|vo|benükön|gloss=benefit|pos=vt}}
+|{{l|vo|benükön||benefit|pos=vt}}
 }}
 
 ----
