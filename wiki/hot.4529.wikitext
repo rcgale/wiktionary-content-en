@@ -223,9 +223,9 @@ From {{etyl|enm|en}} {{term|hot|lang=enm}}, {{term|hat|lang=enm}}, from {{etyl|a
 ====Translations====
 {{trans-top|having a high temperature}}
 * Ainu: {{t|ain|セセㇰ|tr=sesek}}, {{t|ain|セイセㇰ|tr=seysek}}
-* Albanian: {{t|sq|nxehtë}}
+* Albanian: {{t+|sq|nxehtë}}
 * Arabic: {{t+|ar|حَارّ|m}}, {{t|ar|سَاخِن}}
-* Armenian: {{t|hy|տաք}}
+* Armenian: {{t+|hy|տաք}}
 * Asturian: {{t|ast|caliente}}
 * Azeri: {{t+|az|isti}}
 * Baba Malay: {{t|mbf|pane}}
@@ -286,7 +286,7 @@ From {{etyl|enm|en}} {{term|hot|lang=enm}}, {{term|hat|lang=enm}}, from {{etyl|a
 * Malay: {{t+|ms|panas}}
 * Maltese: {{t|mt|sħun|m}}
 * Marathi: {{t|mr|गरम|tr=garam}}
-* Mongolian: {{t|mn|халуун|sc=Cyrl}}
+* Mongolian: {{t+|mn|халуун|sc=Cyrl}}
 * Norwegian: {{t+|no|varm}}, {{t+|no|het}}
 * Old English: {{t|ang|hāt}}, {{t|ang|wearm}}
 * Old Saxon: {{t|osx|hēt}}, {{t|osx|warm}}
@@ -300,7 +300,7 @@ From {{etyl|enm|en}} {{term|hot|lang=enm}}, {{term|hat|lang=enm}}, from {{etyl|a
 * Russian: {{qualifier|water, food}} {{t+|ru|горя́чий}}
 * Scottish Gaelic: {{t|gd|teth}}
 * Serbo-Croatian:
-*: Cyrillic: {{t+|sh|врућ|m|sc=Cyrl}}
+*: Cyrillic: {{t|sh|врућ|m|sc=Cyrl}}
 *: Roman: {{t+|sh|vruć|m}}
 * Sinhalese: {{t|si|රස්නෙ|sc=Sinh}}
 * Slovak: {{t|sk|horúci}}
@@ -319,7 +319,7 @@ From {{etyl|enm|en}} {{term|hot|lang=enm}}, {{term|hat|lang=enm}}, from {{etyl|a
 * Tuvan: {{t|tyv|изиг}}, {{t|tyv|хайныышкынныг}}
 * Ukrainian: {{qualifier|water, food}} {{t|uk|гаря́чий|sc=Cyrl}}
 * Urdu: {{t|ur|گرم|tr=garam}}
-* Uzbek: {{t|uz|issiq}}
+* Uzbek: {{t+|uz|issiq}}
 * Vietnamese: {{t+|vi|nóng}}
 * Volapük: {{t+|vo|hitik}}
 * Welsh: {{t+|cy|poeth}}
@@ -336,7 +336,7 @@ From {{etyl|enm|en}} {{term|hot|lang=enm}}, {{term|hat|lang=enm}}, from {{etyl|a
 * Chinese:
 *: Cantonese: {{t|yue|熱|sc=Hani}}, {{t|yue|热|tr=jit6|sc=Hani}}, {{t|yue|炎熱|sc=Hani}}, {{t|yue|炎热|tr=jim4 jit6|sc=Hani}}
 *: Mandarin: {{t+|cmn|熱|sc=Hani}}, {{t+|cmn|热|tr=rè|sc=Hani}}, {{t+|cmn|炎熱|sc=Hani}}, {{t+|cmn|炎热|tr=yánrè|sc=Hani}}
-*: Min Nan: {{t+|nan|熱|sc=Hani}}, {{t|nan|热|tr=jo̍ah, lo̍ah|sc=Hani}}, {{t|nan|炎熱|sc=Hani}}, {{t|nan|炎热|tr=iām-jo̍ah, iām-lo̍ah|sc=Hani}}, {{t|nan|燒熱|sc=Hani}}, {{t|nan|烧热|tr=sio-jo̍ah, sio-lo̍ah|sc=Hani}}
+*: Min Nan: {{t+|nan|熱|sc=Hani}}, {{t|nan|热|tr=jo̍ah, lo̍ah|sc=Hani}}, {{t|nan|炎熱|sc=Hani}}, {{t|nan|炎热|tr=iām-jo̍ah, iām-lo̍ah|sc=Hani}}, {{t+|nan|燒熱|sc=Hani}}, {{t|nan|烧热|tr=sio-jo̍ah, sio-lo̍ah|sc=Hani}}
 * Czech: {{t+|cs|horký|m}}
 * Finnish: {{t+|fi|kuuma}}
 * French: {{t|fr|faire chaud}}
@@ -357,7 +357,7 @@ From {{etyl|enm|en}} {{term|hot|lang=enm}}, {{term|hat|lang=enm}}, from {{etyl|a
 * Russian: {{t+|ru|жа́ркий}}, '''it is hot''': {{t+|ru|жа́рко}}
 * Spanish: {{t+|es|caluroso}}, {{t+|es|cálido}}
 * Swedish: {{t+|sv|varm}}, {{t+|sv|het}}
-* Tajik: {{t|tg|гарм|sc=Cyrl}}
+* Tajik: {{t+|tg|гарм|sc=Cyrl}}
 * Thai: {{t+|th|ร้อน|tr=ron}}
 * Ukrainian: {{t|uk|спеко́тний|sc=Cyrl}}
 * Volapük: {{t+|vo|hitik}}
@@ -384,7 +384,7 @@ From {{etyl|enm|en}} {{term|hot|lang=enm}}, {{term|hat|lang=enm}}, from {{etyl|a
 {{trans-top|feverish}}
 * Chinese:
 *: Mandarin: {{t+|cmn|发烧|tr=fāshāo|sc=Hani}}
-* Finnish: {{t|fi|kuumeinen}}
+* Finnish: {{t+|fi|kuumeinen}}
 * French: {{t+|fr|fiévreux}}
 * Greek: {{t+|el|ζεστός}}
 * Italian: {{t+|it|febbrile}}
@@ -411,15 +411,15 @@ From {{etyl|enm|en}} {{term|hot|lang=enm}}, {{term|hat|lang=enm}}, from {{etyl|a
 *: Min Nan: {{t+|nan|辣|tr=lo̍ah|sc=Hani}}, {{t+|nan|薟|sc=Hani}}, {{t|nan|莶|tr=hiam, hiang|sc=Hani}}
 * Czech: {{t+|cs|ostrý|m}}
 * Dutch: {{t+|nl|pittig}}, {{t+|nl|pikant}}, {{t+|nl|heet}}
-* Finnish: {{t+|fi|tulinen}}, {{t|fi|polttava}}
+* Finnish: {{t+|fi|tulinen}}, {{t+|fi|polttava}}
 * French: {{t+|fr|épicé}}, {{t+|fr|piquant}}
 * German: {{t+|de|scharf}}
 * Greek: {{t+|el|πικάντικος}}, {{t+|el|καυτερός}}
 * Hindi: {{t|hi|गरम|tr=garam}}
 * Indonesian: {{t+|id|pedas}}
-* Italian: {{t|it|piccante}}
+* Italian: {{t+|it|piccante}}
 * Japanese: {{t+|ja|辛い|tr=karai|sc=Jpan}}
-* Javanese: {{t|jv|pedhes}}
+* Javanese: {{t+|jv|pedhes}}
 * Khmer: {{t+|km|ហឹរ|tr=həl|sc=Khmr}}
 * Korean: {{t+|ko|맵다|sc=Kore}}
 * Kurdish:
@@ -438,7 +438,7 @@ From {{etyl|enm|en}} {{term|hot|lang=enm}}, {{term|hat|lang=enm}}, from {{etyl|a
 * Russian: {{t+|ru|о́стрый}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|љут|m}}
-*: Roman: {{t|sh|ljut|m}}
+*: Roman: {{t+|sh|ljut|m}}
 * Spanish: {{t+|es|picante}}, {{t|es|picoso}}
 * Swedish: {{t+|sv|het}}, {{t+|sv|kryddstark}}
 * Telugu: {{t|te|మంటగా}}
@@ -450,8 +450,8 @@ From {{etyl|enm|en}} {{term|hot|lang=enm}}, {{term|hat|lang=enm}}, from {{etyl|a
 {{trans-bottom}}
 
 {{trans-top|slang: stolen}}
-* Danish: {{t|da|varm}}
-* Finnish: {{t+|fi|kuuma}}, {{t|fi|nyysitty}}, {{t|fi|käännetty}}
+* Danish: {{t+|da|varm}}
+* Finnish: {{t+|fi|kuuma}}, {{t+|fi|nyysitty}}, {{t+|fi|käännetty}}
 * French: {{t+|fr|chouré}}
 * German: {{t+|de|heiß}}
 {{trans-mid}}
@@ -497,7 +497,7 @@ From {{etyl|enm|en}} {{term|hot|lang=enm}}, {{term|hat|lang=enm}}, from {{etyl|a
 {{trans-bottom}}
 
 {{trans-top|popular, in demand}}
-* Finnish: {{t|fi|haluttu}}
+* Finnish: {{t+|fi|haluttu}}
 * Malay: {{t|ms|hangat}}
 * Portuguese: {{t|pt|na moda}}, {{t|pt|em voga}}
 {{trans-mid}}
