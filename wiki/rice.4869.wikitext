@@ -26,7 +26,7 @@
 * Abkhaz: {{t|ab|абрынџь|alt=а-брынџь|sc=Cyrl}}, {{t|ab|апрынџь|alt=а-прынџь|sc=Cyrl}}
 * Adyghe: {{t|ady|пындж}}
 * Afrikaans: {{t|af|rys}}
-* Albanian: {{t|sq|oriz|m}}
+* Albanian: {{t+|sq|oriz|m}}
 * Arabic: {{t|ar|أَرُزّ|m}}
 *: Egyptian Arabic: {{t|arz|رز|m-p|tr=ruzz}}
 * Armenian: {{t+|hy|բրինձ}}
@@ -50,7 +50,7 @@
 * Dutch: {{t+|nl|rijst|m}}
 * Esperanto: {{t|eo|rizo}}
 * Estonian: {{t|et|riis}}
-* Faroese: {{t|fo|rís|n}}
+* Faroese: {{t+|fo|rís|n}}
 * Finnish: {{t+|fi|riisi}}, {{t|fi|riisikasvi}}
 * French: {{t+|fr|riz|m}}
 * Georgian: {{t|ka|ბრინჯი}}
@@ -60,7 +60,7 @@
 * Hindi: {{t+|hi|चावल|m|tr=cāval}}
 * Hungarian: {{t+|hu|rizs}}
 * Iban: {{t|iba|padi}}
-* Icelandic: {{t|is|hrís|n}}
+* Icelandic: {{t+|is|hrís|n}}
 * Ilocano: {{t|ilo|pagay}}
 * Indonesian: {{t+|id|padi}}
 * Italian: {{t+|it|riso|m}}
@@ -72,9 +72,9 @@
 * Khinalug: {{t|kjj|ппарынцӏ}}
 * Khmer: {{t|km|ស្រូវ|tr=srou|sc=Khmr}}
 * Korean: {{t+|ko|벼|sc=Kore}}
-* Kyrgyz: {{t|ky|шалы}}
+* Kyrgyz: {{t+|ky|шалы}}
 * Lao: {{t+|lo|ເຂົ້າ|sc=Laoo}}
-* Latvian: {{t|lv|rīss|m}}
+* Latvian: {{t+|lv|rīss|m}}
 * Macedonian: {{t|mk|ориз|m}}
 * Malay: {{t+|ms|padi}}
 * Malayalam: {{t+|ml|നെല്ല്}}
@@ -89,9 +89,9 @@
 * Nepali: {{t+|ne|चामल|tr=cāmala|sc=Deva}}
 * Norman: {{t|nrf|riz}} {{qualifier|Guernsey}}
 * Norwegian:
-*: Bokmål: {{t|nb|ris|m}}
+*: Bokmål: {{t+|nb|ris|m}}
 *: Nynorsk: {{t|nn|ris|m}}
-* Oriya: {{t|or|ଚାଉଳ|tr=cā'uḷa|sc=Orya}}
+* Oriya: {{t+|or|ଚାଉଳ|tr=cā'uḷa|sc=Orya}}
 * Ossetian: {{t|os|пыры́ндз|sc=Cyrl}}
 * Ottoman Turkish: {{t|ota|برنج|sc=ota-Arab}}
 * Persian: {{t+|fa|برنج|tr=berenj|sc=fa-Arab}}
@@ -107,7 +107,7 @@
 *: Roman: {{t+|sh|riža|f}}, {{t+|sh|pirinač|m}}
 * Shan: {{t|shn|ၶဝ်ႈ|sc=Mymr|tr=khaw3}}
 * Sinhalese: {{t|si|වී}}
-* Slovak: {{t|sk|ryža|f}}
+* Slovak: {{t+|sk|ryža|f}}
 * Slovene: {{t+|sl|riž|m}}
 * Sotho: {{t|st|raese}}
 * Spanish: {{t+|es|arroz|m}}
@@ -115,7 +115,7 @@
 * Swedish: {{t+|sv|ris|n}}
 * Tagal Murut: {{t|mvv|parai}}
 * Tagalog: {{t+|tl|palay}}
-* Tajik: {{t|tg|биринҷ}}
+* Tajik: {{t+|tg|биринҷ}}
 * Tamil: {{t+|ta|நெல்}}
 * Telugu: {{t+|te|వరి}}
 * Tetum: {{t|tet|hare}}
@@ -133,7 +133,7 @@
 * Venetian: {{t|vec|rixo|m}}
 * Vietnamese: {{t+|vi|lúa}}
 * Volapük: {{t+|vo|risat}}, {{t+|vo|risataplan}}
-* Waray-Waray: {{t+|war|paray}}
+* Waray-Waray: {{t|war|paray}}
 * West Frisian: {{t|fy|rys}}
 * Wolof: {{t|wo|malo}}
 * Yiddish: {{t|yi|רײַז|m|f}}
@@ -145,7 +145,7 @@
 * Abkhaz: {{t|ab|абрынџь|alt=а-брынџь|sc=Cyrl}}, {{t|ab|апрынџь|alt=а-прынџь|sc=Cyrl}}
 * Adyghe: {{t|ady|пындж}}
 * Afrikaans: {{t|af|rys}}
-* Albanian: {{t|sq|oriz|m}}
+* Albanian: {{t+|sq|oriz|m}}
 * Arabic: {{t|ar|أَرُزّ|m}}
 *: Egyptian Arabic: {{t|arz|رزة|f|tr=ruza|sc=Arab}}, {{t|arz|رز|m-p|tr=ruzz|sc=Arab}}
 * Armenian: {{t+|hy|բրինձ}}
@@ -162,7 +162,7 @@
 * Catalan: {{t+|ca|arròs|m}}
 * Central Melanau: {{t|mel|nasek}} {{qualifier|cooked}}, {{t|mel|beraih}} {{qualifier|raw seed}}
 * Chinese:
-*: Cantonese: {{qualifier|raw seed}} {{t+|yue|米|tr=mai5|sc=Hani}}, {{qualifier|cooked}} {{t+|yue|飯|sc=Hani}}, {{t+|yue|饭|tr=faan6|sc=Hani}}, {{qualifier|cooked}} {{t+|yue|白飯|sc=Hani}}, {{t+|yue|白饭|tr=baak6 faan6|sc=Hani}}
+*: Cantonese: {{qualifier|raw seed}} {{t|yue|米|tr=mai5|sc=Hani}}, {{qualifier|cooked}} {{t|yue|飯|sc=Hani}}, {{t|yue|饭|tr=faan6|sc=Hani}}, {{qualifier|cooked}} {{t|yue|白飯|sc=Hani}}, {{t|yue|白饭|tr=baak6 faan6|sc=Hani}}
 *: Gan: {{t-needed|gan}}
 *: Hakka: {{t-needed|hak}}
 *: Mandarin: {{qualifier|raw seed}} {{t+|cmn|米|tr=mǐ|sc=Hani}}, {{qualifier|cooked}} {{t+|cmn|飯|sc=Hani}}, {{t+|cmn|饭|tr=fàn|sc=Hani}}, {{qualifier|cooked}} {{t+|cmn|米飯|sc=Hani}}, {{t+|cmn|米饭|tr=mǐfàn|sc=Hani}}
@@ -175,7 +175,7 @@
 * Dutch: {{t+|nl|rijst|m}}
 * Esperanto: {{t|eo|rizo}}
 * Estonian: {{t|et|riis}}
-* Faroese: {{t|fo|rís|n}}
+* Faroese: {{t+|fo|rís|n}}
 * Finnish: {{t+|fi|riisi}}
 * French: {{t+|fr|riz|m}}
 * Georgian: {{t|ka|ბრინჯი}}
@@ -191,7 +191,7 @@
 * Irish: {{t|ga|rís|f}}
 * Italian: {{t+|it|riso|m}}
 * Japanese: {{gloss|raw seed}} {{t+|ja|米|tr=こめ, kome}}, {{gloss|cooked}} {{t+|ja|ご飯|tr=ごはん, gohan}}, {{t+|ja|飯|tr=[[めし]], meshi}} {{qualifier|informal}}, {{t+|ja|ライス|tr=raisu|sc=Jpan}}
-* Javanese: {{t|jv|beras}}, {{t+|jv|uwos}} (raw seed), {{t|jv|sego}}, {{t|jv|sekul}} (cooked)
+* Javanese: {{t+|jv|beras}}, {{t+|jv|uwos}} (raw seed), {{t|jv|sego}}, {{t|jv|sekul}} (cooked)
 * Kabardian: {{t|kbd|прунж}}
 * Kannada: {{t+|kn|ಅಕ್ಕಿ|sc=Knda}}
 * Karachay-Balkar: {{t|krc|cez|sc=Cyrl}}
@@ -204,7 +204,7 @@
 *: Sorani: {{t+|ku|برنج|sc=ku-Arab}}
 * Kyrgyz: {{t|ky|күрүч}}
 * Lao: {{t+|lo|ເຂົ້າ|sc=Laoo}}
-* Latvian: {{t|lv|rīsi}}, {{t|lv|rīss|m}}, {{t|lv|rīsi|m-p}}
+* Latvian: {{t+|lv|rīsi}}, {{t+|lv|rīss|m}}, {{t+|lv|rīsi|m-p}}
 {{trans-mid}}
 * Lithuanian: {{t|lt|ryžis}}
 * Luxembourgish: {{t|lb|Räis|m}}
@@ -221,7 +221,7 @@
 * North Frisian:
 *: Föhr-Amrum: {{t|frr|ris|n}}
 * Norwegian:
-*: Bokmål: {{t|nb|ris|m}}
+*: Bokmål: {{t+|nb|ris|m}}
 *: Nynorsk: {{t|nn|ris|m}}
 * Ojibwe: {{t|oj|waabanoomin}}, {{t|oj|manoomin}}
 * Old Tamil: {{t|oty|𑀅𑀭𑀺𑀘𑀺|tr=arici}}
@@ -241,14 +241,14 @@
 *: Roman: {{t+|sh|riža|f}}, {{t+|sh|pirinač|m}}
 * Shan: {{t|shn|ၶဝ်ႈ|sc=Mymr|tr=khaw3}}
 * Sinhalese: {{t|si|බත්}} {{qualifier|cooked}}, {{t|si|හාල්}} {{qualifier|husked, uncooked}}
-* Slovak: {{t|sk|ryža|f}}
+* Slovak: {{t+|sk|ryža|f}}
 * Slovene: {{t+|sl|riž|m}}
 * Sotho: {{t|st|raese}}
 * Spanish: {{t+|es|arroz|m}}
 * Swahili: {{t|sw|mpunga}} {{qualifier|raw seed in husk}}, {{t+|sw|mchele}} {{qualifier|husked seed}}, {{t+|sw|wali}} {{qualifier|cooked}}
 * Swedish: {{t+|sv|ris|n}}
 * Tagalog: {{t+|tl|bigas}} (raw seed), {{t+|tl|kanin}} (cooked)
-* Tajik: {{t|tg|биринҷ}}
+* Tajik: {{t+|tg|биринҷ}}
 * Tamil: {{t+|ta|அரிசி}} (uncooked), {{t+|ta|சோறு}}
 * Tarifit: {{t|rif|aṛṛuẓ‎}}
 * Tatar: {{t+|tt|дөге}}
@@ -262,11 +262,11 @@
 * Udi: {{t|udi|бириндз}}
 * Ukrainian: {{t|uk|рис|m}}, {{t|uk|риж|m}}
 * Urdu: {{t|ur|چاول|m|tr=cāval|sc=ur-Arab}}
-* Uzbek: {{t|uz|guruch}}
+* Uzbek: {{t+|uz|guruch}}
 * Venetian: {{t|vec|rixo|m}}
 * Vietnamese: {{t+|vi|gạo}}, {{gloss|cooked}} {{t+|vi|cơm}}
 * Volapük: {{t+|vo|risat}}
-* Waray-Waray: {{t+|war|lu-to}}
+* Waray-Waray: {{t|war|lu-to}}
 * Welsh: {{t+|cy|reis|m}}
 * West Coast Bajau: {{t|bdr|buas}} {{qualifier|raw seed}}
 * West Frisian: {{t|fy|rys}}
