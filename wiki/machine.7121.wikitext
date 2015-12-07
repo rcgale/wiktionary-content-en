@@ -84,11 +84,11 @@
 ====Translations====
 {{trans-top|mechanical or electrical device}}
 * Afrikaans: {{t|af|masjien}}
-* Albanian: {{t|sq|makinë|f}}
+* Albanian: {{t+|sq|makinë|f}}
 * Amharic: {{t|am|ማሽን|sc=Ethi}}
 * Arabic: {{t+|ar|آلَة|f}}, {{t|ar|مَاكِينَة|f}}
 *: Egyptian Arabic: {{t|arz|آلة|f|tr=ʾāla|sc=Arab}}, {{t|arz|مكنة|f|tr=makana|sc=Arab}}
-* Armenian: {{t|hy|մեքենա}}
+* Armenian: {{t+|hy|մեքենա}}
 * Asturian: {{t|ast|máquina|f}}
 * Azeri: {{t|az|maşın}}
 * Basque: {{t|eu|makina}}
@@ -101,9 +101,9 @@
 *: Mandarin: {{t+|cmn|機|sc=Hani}}, {{t+|cmn|机|tr=jī|sc=Hani}}, {{t+|cmn|機器|sc=Hani}}, {{t+|cmn|机器|tr=jīqì|sc=Hani}}, {{t+|cmn|機械|sc=Hani}}, {{t+|cmn|机械|tr=jīxiè|sc=Hani}}, {{t+|cmn|器械|tr=qìxiè|sc=Hani}}
 * Cornish: {{t|kw|jynn|m}}
 * Czech: {{t+|cs|stroj|m}}, {{t+|cs|mašina|f}} {{qualifier|colloquial}}
-* Danish: {{t|da|maskine|c}}
-* Dutch: {{t+|nl|machine|f}}, {{t|nl|apparaat}}
-* Esperanto: {{t|eo|maŝino}}
+* Danish: {{t+|da|maskine|c}}
+* Dutch: {{t+|nl|machine|f}}, {{t+|nl|apparaat}}
+* Esperanto: {{t+|eo|maŝino}}
 * Estonian: {{t|et|masin}}
 * Faroese: {{t|fo|maskina|f}}
 * Finnish: {{t+|fi|kone}}
@@ -152,7 +152,7 @@
 * Sanskrit: {{t|sa|यन्त्र|n|sc=Deva}}
 * Scottish Gaelic: {{t|gd|inneal|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t+|sh|машина|f}}, {{t+|sh|строј|m}}
+*: Cyrillic: {{t|sh|машина|f}}, {{t|sh|строј|m}}
 *: Roman: {{t+|sh|mašina|f}}, {{t+|sh|stroj|m}}
 * Sinhalese: {{t|si|යන්ත්රය|sc=Sinh}}
 * Slovak: {{t+|sk|stroj|m}}, {{t|sk|mašina|f}} {{qualifier|colloquial}}
@@ -203,7 +203,7 @@
 * Romanian: {{t+|ro|mașină|f}}, {{t+|ro|automobil}}
 * Russian: {{t+|ru|маши́на|f}}, {{t+|ru|автомоби́ль|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t+|sh|строј|m}}
+*: Cyrillic: {{t|sh|строј|m}}
 *: Roman: {{t+|sh|stroj|m}}
 * Slovak: {{t|sk|mašina|f}}
 {{trans-bottom}}
@@ -261,7 +261,7 @@
 {{trans-bottom}}
 
 {{trans-top|shape or finish by machinery}}
-* German: {{t|de|bearbeiten}}
+* German: {{t+|de|bearbeiten}}
 {{trans-mid}}
 * Irish: {{t|ga|meaisínigh}}
 {{trans-bottom}}
