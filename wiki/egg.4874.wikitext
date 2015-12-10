@@ -112,7 +112,7 @@ From {{etyl|enm|en}} {{m|enm|egge}}, from {{etyl|non|en}} {{m|non|egg||egg}}, fr
 * Hawaiian: {{t|haw|hua}}
 * Hebrew: {{t+|he|בֵּיצָה|f|tr=beitzá}}
 * Hiligaynon: {{t|hil|itlog}}
-* Hindi: {{t+|hi|अंडा|m|tr=ãṇḍā|sc=Deva}}
+* Hindi: {{t+|hi|अंडा|m|tr=ãṇḍā}}
 * Iban: {{t|iba|telu}}
 * Icelandic: {{t+|is|egg|n}}
 * Ido: {{t|io|amniotala ovo}}
@@ -133,7 +133,7 @@ From {{etyl|enm|en}} {{m|enm|egge}}, from {{etyl|non|en}} {{m|non|egg||egg}}, fr
 * Karelian: {{t|krl|jaiču}}
 * Kashubian: {{t|csb|jaje|n}}
 * Kazakh: {{t|kk|жұмыртқа|sc=Cyrl}}
-* Khakas: {{t|kjh|нымырха|tr=nımırxa|sc=Cyrl}}
+* Khakas: {{t|kjh|нымырха}}
 * Khmer: {{t+|km|ស៊ុត|sc=Khmr|tr=sut}}, {{t+|km|ពង|sc=Khmr|tr=pɔɔŋ}}
 * Khotanese: {{t|kho|𐨀𐨱𐨀}}
 * Kimaragang: {{t|kqr|tontolu}}
@@ -155,7 +155,7 @@ From {{etyl|enm|en}} {{m|enm|egge}}, from {{etyl|non|en}} {{m|non|egg||egg}}, fr
 * Lithuanian: {{t+|lt|kiaušinis|m}}
 * Luganda: {{t|lg|miga}}
 * Luxembourgish: {{t+|lb|Ee|n}}
-* Macedonian: {{t|mk|јајце|n|sc=Cyrl}}
+* Macedonian: {{t|mk|јајце|n}}
 * Madurese: {{t|mad|tellor}}
 * Malay: {{t+|ms|telur}}
 * Maltese: {{t|mt|bajda|f}}
@@ -193,7 +193,7 @@ From {{etyl|enm|en}} {{m|enm|egge}}, from {{etyl|non|en}} {{m|non|egg||egg}}, fr
 * Sardinian: {{t|sc|obu|m}}
 * Scottish Gaelic: {{t|gd|ugh|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|јајце|n}}
+*: Cyrillic: {{t|sh|јајце|n|sc=Cyrl}}
 *: Roman: {{t+|sh|jajce|n}}
 * Sicilian: {{t+|scn|ovu|m}}, {{t+|scn|ou|m}}, {{t|scn|uòvu|m}}
 * Sindhi: {{t|sd|آنو|tr=aano|sc=sd-Arab}}
@@ -234,7 +234,7 @@ From {{etyl|enm|en}} {{m|enm|egge}}, from {{etyl|non|en}} {{m|non|egg||egg}}, fr
 * Tuvan: {{t|tyv|чуурга}}
 * Uab Meto: {{t|aoz|tekô}}, {{t|aoz|tenô}}
 * Udmurt: {{t|udm|пуз}}
-* Ukrainian: {{t+|uk|яйце́|n|sc=Cyrl}}
+* Ukrainian: {{t+|uk|яйце́|n}}
 * Unami: {{t|unm|òòl}}
 * Urdu: {{t|ur|انڈا|m|tr=ãṇḍā}}
 * Uyghur: {{t|ug|تۇخۇم|sc=ug-Arab}}
@@ -255,7 +255,7 @@ From {{etyl|enm|en}} {{m|enm|egge}}, from {{etyl|non|en}} {{m|non|egg||egg}}, fr
 * Wolof: {{t+|wo|nen}}
 * Xhosa: {{t|xh|iqanda}}
 * Yakut: {{t|sah|сымыыт|sc=Cyrl}}
-* Yiddish: {{t|yi|אײַ|n|sc=Hebr}}
+* Yiddish: {{t|yi|אײַ|n}}
 * Yoruba: {{t|yo|ẹyin}}
 * Yucatec Maya: {{t|yua|e'el}}
 * Zazaki: {{t|zza|hak}}
@@ -545,12 +545,16 @@ From {{etyl|enm|en}} {{m|enm|egge}}, from {{etyl|non|en}} {{m|non|egg||egg}}, fr
 * [[roe]]
 
 ===Etymology 2===
-From {{etyl|non|en}} {{term|eggja||to incite|lang=non}}, from {{term|egg||edge|lang=non}}.
+From {{der|en|non|eggja||to incite}}, from {{m|non|egg||edge}}.
 
 ====Verb====
 {{en-verb}}
 
 # {{context|transitive|obsolete|_|except in [[egg on]]|lang=en}} To [[encourage]], [[incite]].
+
+=====Derived terms=====
+* {{l|en|egg on}}
+* {{l|en|over-egg}}
 
 =====Translations=====
 {{trans-top|to encourage}}
@@ -563,10 +567,6 @@ From {{etyl|non|en}} {{term|eggja||to incite|lang=non}}, from {{term|egg||edge|l
 * Slovak: {{t|sk|nabádať}}
 * Swahili: {{t+|sw|yai}}
 {{trans-bottom}}
-
-=====Derived terms=====
-* {{l|en|egg on}}
-* {{l|en|over-egg}}
 
 [[Category:1000 English basic words]]
 {{catlangcode|en|Eggs|Food and drink|Poultry}}
@@ -659,7 +659,7 @@ From {{inh|is|non|egg}}, from {{inh|is|gem-pro|*ajją}}, from {{inh|is|ine-pro|*
 }}
 
 ===Etymology 2===
-From {{inh|is|non|egg}}, from {{inh|is|gem-pro|*agjō}}, from {{inh|is|ine-pro|*h₂eḱ-||sharp, pointed}}.
+From {{inh|is|non|egg}}, from {{inh|is|gem-pro|*agjō}}, from {{der|is|ine-pro|*h₂eḱ-||sharp, pointed}}.
 
 Cognates include Old Frisian {{m|ofs|egg}}, Old Saxon {{m|osx|eggia}}, Dutch {{m|nl|egge}}; Old English {{m|ang|ecg}} (English {{m|en|edge}}); Old High German {{m|goh|egga}} (German {{m|de|Ecke}}); Swedish {{m|sv|egg}}.
 
@@ -719,7 +719,7 @@ From {{etyl|non|nb}} {{term|egg|lang=non}}, from {{inh|nb|gem-pro|*ajją}}, from
 {{wikipedia|lang=nn}}
 
 ===Etymology===
-From {{etyl|non|nn}} {{term|egg|lang=non}}, from {{inh|nn|gem-pro|*ajją}}, from {{inh|nn|ine-pro|*h₂ōwyóm}}.
+From {{inh|nn|non|egg}}, from {{inh|nn|gem-pro|*ajją}}, from {{inh|nn|ine-pro|*h₂ōwyóm}}.
 
 ===Noun===
 {{nn-noun-n1}}
@@ -745,7 +745,7 @@ From {{inh|non|gem-pro|*ajją}}, from {{inh|non|ine-pro|*h₂ōwyóm}}.
 ===Noun===
 {{non-noun|n|eggs|egg}}
 
-# [[egg#English|egg]]
+# [[#English|egg]]
 
 ====Descendants====
 {{top2}}
@@ -766,7 +766,7 @@ From {{inh|non|gem-pro|*ajją}}, from {{inh|non|ine-pro|*h₂ōwyóm}}.
 ==Swedish==
 
 ===Etymology===
-From {{inh|sv|non|egg}}, from {{inh|sv|gem-pro|*agjō}}, from {{inh|sv|ine-pro|*h₂eḱ-||sharp, pointed}}.
+From {{inh|sv|non|egg}}, from {{inh|sv|gem-pro|*agjō}}, from {{der|sv|ine-pro|*h₂eḱ-||sharp, pointed}}.
 
 ===Pronunciation===
 * {{IPA|/ɛɡ/|lang=sv}}
@@ -781,7 +781,19 @@ From {{inh|sv|non|egg}}, from {{inh|sv|gem-pro|*agjō}}, from {{inh|sv|ine-pro|*
 {{sv-noun-reg-ar}}
 
 ====Related terms====
-{{rel3|egga|eggelse|eggjärn|eggredskap|eggskydd|eggstål|eggvapen|eggvass|eggverktyg|knivsegg|yxegg|lang=sv}}
+{{rel3
+|{{l|sv|egga||to stimulate; to encourage somebody to do a specific action}}
+|{{l|sv|eggelse}}
+|{{l|sv|eggjärn}}
+|{{l|sv|eggredskap}}
+|{{l|sv|eggskydd}}
+|{{l|sv|eggstål}}
+|{{l|sv|eggvapen}}
+|{{l|sv|eggvass}}
+|{{l|sv|eggverktyg}}
+|{{l|sv|knivsegg}}
+|{{l|sv|yxegg}}
+}}
 
 ===References===
 * {{R:SAOL}}
