@@ -44,10 +44,10 @@
 * Finnish: {{t+|fi|pronssi}}
 * French: {{t+|fr|bronze|m}}, {{t+|fr|airain|m}}
 * Galician: {{t|gl|bronce|m}}
-* Georgian: {{t|ka|ბრინჯაო|sc=Geor}}
+* Georgian: {{t|ka|ბრინჯაო}}
 * German: {{t+|de|Bronze|f}}
 * Greek: {{t+|el|ορείχαλκος|m}}, {{t+|el|μπρούντζος|m}}
-* Hebrew: {{t|he|ארד|m|tr=arad|sc=Hebr}}
+* Hebrew: {{t|he|ארד|m|tr=arad}}
 * Hindi: {{t|hi|कांसा|tr=kā̃sā}}, {{t|hi|कांसी|tr=kā̃sī}}
 * Hungarian: {{t+|hu|bronz}}
 * Ido: {{t+|io|bronzo}}
@@ -134,16 +134,15 @@
 # {{lb|en|of the skin}} [[tanned|Tanned]]; [[darken]]ed as a result of [[exposure]] to the sun.
 
 ====Derived terms====
-{{rel-top|terms derived from bronze}}
-* [[arsenical bronze]]
-* [[bell bronze]]
-* [[Bronze Age]]
-* [[bronze medal]]
-{{rel-mid}}
-* [[Bronze Star]]
-* [[bronzite]]
-* [[phosphor bronze]]
-{{rel-bottom}}
+{{der3
+|[[arsenical bronze]]
+|[[bell bronze]]
+|[[Bronze Age]]
+|[[bronze medal]]
+|[[Bronze Star]]
+|[[bronzite]]
+|[[phosphor bronze]]
+|lang=en}}
 
 ====Translations====
 {{trans-top|made of bronze}}
@@ -157,7 +156,7 @@
 * German: {{t+|de|bronzen}}
 {{trans-mid}}
 * Italian: {{t|it|bronzeo}}
-* Japanese: [[青銅製]]の ([[せいどうせい]]の seidousei no), [[ブロンズ製]]の (buronzusei no)
+* Japanese: {{t|ja|[[青銅製]]の|tr=[[せいどうせい]]の seidousei no}}, {{t|ja|[[ブロンズ製]]の|tr=buronzusei no}}
 * Malay: {{t|ms|gangsa}}
 * Polish: {{t+|pl|brązowy}}
 * Portuguese: {{t|pt|brônzeo}}
@@ -176,7 +175,7 @@
 * German: {{t+|de|bronzen}}
 * Italian: {{t|it|bronzeo}}
 {{trans-mid}}
-* Japanese: [[青銅色]]の ([[せいどういろ]]の seidouiro no), [[ブロンズ色]]の (buronzuiro no)
+* Japanese: {{t|ja|[[青銅色]]の|tr=[[せいどういろ]]の seidouiro no}}, {{t|ja|[[ブロンズ色]]の|tr=buronzuiro no}}
 * Malay: {{t|ms|gangsa}}
 * Maori: {{t|mi|kōuraura}}
 * Norwegian: {{t|no|bronsefarget}}
@@ -258,7 +257,7 @@
 ===Noun===
 {{ca-noun|m}}
 
-# [[bronze#English|bronze]] {{gloss|metal}}
+# [[#English|bronze]] {{gloss|metal}}
 # [[bronze medal]]
 
 ====Derived terms====
@@ -271,7 +270,7 @@
 ==Danish==
 
 ===Etymology===
-From {{etyl|fr|da}} {{term|bronze|lang=fr}}.
+{{bor|da|fr|bronze}}.
 
 ===Pronunciation===
 * {{IPA|/brɔnɡsə/|[ˈb̥ʁʌŋsə]|lang=da}}
@@ -293,7 +292,7 @@ From {{etyl|fr|da}} {{term|bronze|lang=fr}}.
 ==French==
 
 ===Etymology===
-From {{etyl|it|fr}} {{term|bronzo|lang=it}}.
+{{der|fr|it|bronzo}}.
 
 ===Pronunciation===
 * {{IPA|/bʁɔ̃z/|lang=fr}}
@@ -304,7 +303,7 @@ From {{etyl|it|fr}} {{term|bronzo|lang=it}}.
 # [[#English|bronze]] {{gloss|metal, work of art}}
 
 ====Derived terms====
-* [[mouler un bronze]]
+* {{l|fr|mouler un bronze}}
 
 ===Anagrams===
 * [[bornez#French|bornez]]
@@ -317,7 +316,7 @@ From {{etyl|it|fr}} {{term|bronzo|lang=it}}.
 ==Greenlandic==
 
 ===Etymology===
-{{etyl|da|kl}} {{term|lang=da|bronze}}; see [[#English|English bronze etymology]]
+{{bor|kl|da|bronze}}; see [[#English|English bronze etymology]]
 
 ===Noun===
 {{head|kl|noun}}
@@ -334,7 +333,7 @@ From {{etyl|it|fr}} {{term|bronzo|lang=it}}.
 {{wikipedia|lang=pt}}
 
 ===Etymology===
-From {{etyl|fr|pt}} {{term|bronze|lang=fr}}, from {{etyl|it|pt}} {{term|bronzo|lang=it}}, either from {{etyl|gkm|pt}} {{term|βροντησίον|tr=brontēsíon|lang=gkm}}, presumably from {{term|Βρεντήσιον|tr=Brentḗsion|lang=gkm||[[Brindisi]]}}, known for the manufacture of bronze; or ultimately from {{etyl|fa|pt}} {{term|برنج|tr=birinj, biranj||brass|lang=fa}} ~ {{term|پرنگ|tr=piring|lang=fa}} ‘copper’.
+{{bor|pt|fr|bronze}}, from {{der|pt|it|bronzo}}, either from {{der|pt|gkm|βροντησίον|tr=brontēsíon}}, presumably from {{m|gkm|Βρεντήσιον|tr=Brentḗsion||[[Brindisi]]}}, known for the manufacture of bronze; or ultimately from {{der|pt|fa|برنج|tr=birinj, biranj||brass}} ~ {{m|fa|پرنگ|tr=piring||copper}}.
 
 ===Pronunciation===
 * {{a|BR}} {{IPA|/ˈbɾõ.zi/|lang=pt}}
@@ -344,7 +343,7 @@ From {{etyl|fr|pt}} {{term|bronze|lang=fr}}, from {{etyl|it|pt}} {{term|bronzo|l
 ===Noun===
 {{pt-noun|m|bronzes}}
 
-# [[bronze#English|bronze]]
+# [[#English|bronze]]
 # skin [[tan]]
 
 ====Related terms====
