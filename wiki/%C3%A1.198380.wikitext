@@ -39,7 +39,7 @@ Long Old Norse /a/. often written as ''[[ā]]'' or normalized '''á''' or even '
 * {{list:Latin script letters/fo}}
 
 ===Etymology 2===
-From {{etyl|non|fo}} {{term|á|lang=non}} (‘river’), Svabo: ''Aa'',<ref name=Sv>{{fo-lit-Sv|Aa<sup>1</sup>|1}}</ref> from {{etyl|gem-pro|fo}} {{m|gem-pro|*ahwō}}, from {{etyl|ine-pro|fo}} {{m|ine-pro|*h₂ekʷeh₂||water}}.
+From {{inh|fo|non|á||river}}, Svabo: ''Aa'',<ref name=Sv>{{fo-lit-Sv|Aa<sup>1</sup>|1}}</ref> from {{der|fo|gem-pro|*ahwō}}, from {{der|fo|ine-pro|*h₂ekʷeh₂||water}}.
 
 ====Noun====
 {{fo-noun|f|áar|áir}}
@@ -47,7 +47,7 @@ From {{etyl|non|fo}} {{term|á|lang=non}} (‘river’), Svabo: ''Aa'',<ref name
 # [[brook]], [[stream]], [[river]]
 
 =====Synonyms=====
-* [[løkur]] (‘brook’)
+* {{sense|brook}} {{l|fo|løkur}}
 
 =====Declension=====
 {{fo-decl-noun-f2 (á)|á}}
@@ -61,7 +61,7 @@ From {{etyl|non|fo}} {{term|á|lang=non}} (‘river’), Svabo: ''Aa'',<ref name
 * [[ganga]] / [[fara]] [[í]] '''áir''' - go to the river in order to fish trouts<ref name=Sv/> (described in ''Føroysk orðabók'' 1998 as local usage in the island of [[Vágar]] about fishing trouts in a lake<ref>{{fo-lit-FO|Entry ''á<sup>2</sup>''}}</ref>)
 
 ===Etymology 3===
-From {{etyl|non|fo}} {{term|á|lang=non}} (‘on, onto, in, at’). Svabo: ''aa''.<ref name="Sv2">{{fo-lit-Sv|aa<sup>2</sup>|1f.}}</ref>
+From {{inh|fo|non|á||on, onto, in, at}}. Svabo: ''aa''.<ref name="Sv2">{{fo-lit-Sv|aa<sup>2</sup>|1f.}}</ref>
 
 ====Preposition====
 {{head|fo|preposition}}
@@ -106,7 +106,7 @@ From {{etyl|non|fo}} {{term|á|lang=non}} (‘on, onto, in, at’). Svabo: ''aa'
 {{context|onomatopoeia|lang=fo}}.
 
 ====Interjection====
-* '''á!'''
+{{head|fo|interjection|head=á!}}
 
 # [[oh]]!
 # ''animal sound of the puffin ([[lundi]])''
@@ -115,7 +115,7 @@ From {{etyl|non|fo}} {{term|á|lang=non}} (‘on, onto, in, at’). Svabo: ''aa'
 * [[lundi]]n [[siga|sigur]] '''á á á''' - the puffin makes “oa oa oa”
 
 ===Etymology 5===
-{{etyl|non|fo}}
+From {{inh|fo|non}}.
 
 ====Verb====
 {{head|fo|verb}}
@@ -142,7 +142,7 @@ From contraction of preposition {{term|a||to, towards|lang=gl}} + feminine defin
 # [[to]] [[the]], [[towards]] the
 
 ===Etymology 2===
-From {{etyl|la|gl}} {{term|ala|lang=la}}.
+From {{inh|gl|la|ala}}.
 
 ====Noun====
 {{gl-noun|f}}
@@ -158,7 +158,7 @@ From {{etyl|la|gl}} {{term|ala|lang=la}}.
 * {{rhymes|auː|lang=is}}
 
 ===Etymology 1===
-Compare Danish ''[[å]]'', Norwegian ''[[å]]'', Swedish ''[[å]]''.
+Compare Danish {{m|da|å}}, Norwegian {{m|no|å}}, Swedish {{m|sv|å}}.
 
 ====Noun====
 {{is-noun|f|ár|ár}}
@@ -172,41 +172,40 @@ Compare Danish ''[[å]]'', Norwegian ''[[å]]'', Swedish ''[[å]]''.
 * {{sense|river}} {{l|is|fljót}}
 
 ===Etymology 2===
-Inflection of {{term|á|lang=is}}.
+Inflection of {{m|is|á}}.
 
 ====Noun====
-'''á''' {{g|f}}
+{{head|is|noun form|g=f}}
 
 # {{is-inflection of|á|indef|acc|s}}
 # {{is-inflection of|á|indef|dat|s}}
 
 ===Etymology 3===
-Inflection of {{term|ær|lang=is}}.
+Inflection of {{m|is|ær}}.
 
 ====Noun====
-'''á''' {{g|f}}
+{{head|is|noun form|g=f}}
 
 # {{is-inflection of|ær|indef|acc|s}}
 # {{is-inflection of|ær|indef|dat|s}}
 
 ===Etymology 4===
-Conjugation of [[eiga]].
+Conjugation of {{m|is|eiga}}.
 
 ====Verb====
 {{is-verb form}}
 
-# 1. person singular of the verb [[eiga]]. I [[own]].
-# 3. person singular of the verb [[eiga]]. He [[owns]].
+# {{inflection of|eiga||1|s|pres|ind|lang=is}} I [[own]].
+# {{inflection of|eiga||3|s|pres|ind|lang=is}} He [[owns]].
 
 ===Etymology 5===
 {{rfe|lang=is}}
 
 ====Interjection====
-'''á!'''
+{{head|is|interjection|head=á!}}
 
 # [[ow]]! [[ouch]]!
-#: '''''Á!''' Þetta [[vera|var]] [[vondur|vont]]!''
-#:: '''Ouch!''' That hurt!
+#: {{ux|is|'''Á!''' Þetta [[vera|var]] [[vondur|vont]]!|'''Ouch!''' That hurt!}}
 
 ===Etymology 6===
 {{rfe|lang=is}}
@@ -215,49 +214,46 @@ Conjugation of [[eiga]].
 {{head|is|preposition}}
 
 # {{context|with dative|with accusative|lang=is}} [[on]]
-#: ''Hvar eru [[lykill|lyklarnir]]? - Þeir eru '''á''' [[borð]]inu.''
-#:: Where are the keys? - They are '''on''' the table.
+#: {{ux|is|Hvar eru [[lykill|lyklarnir]]? - Þeir eru '''á''' [[borð]]inu.|Where are the keys? - They are '''on''' the table.}}
 # {{context|with dative|with accusative|lang=is}} [[in]]
-#: ''Ég [[búa|bý]] '''á''' [[Ísland]]i.''
-#:: I live '''in''' Iceland.
+#: {{ux|is|Ég [[búa|bý]] '''á''' [[Ísland]]i.|I live '''in''' Iceland.}}
 
 =====Derived terms=====
-{{rel-top|terms derived from 'á'}}
-* [[hlaupa á glæ]]
-* [[leggja á minnið]]
-* [[lítast á]]
-* [[peningar vaxa ekki á trjám]]
-* [[kyssa á hönd]]
-* [[líta á með vanþóknun]]
-* [[líta niður á]]
-* [[á fjórum fótum]]
-* [[súpa á]]
-* [[draga á tálar]]
-* [[hæla á hvert reipi]]
-* [[heill á húfi]]
-* [[bera kápuna á báðum öxlum]]
-* [[togast á um]]
-* [[vel á minnst]]
-* [[vera á bandi]]
-* [[leita á]]
-{{rel-mid}}
-* [[bíta á jaxlinn]]
-* [[hafa nóg á sinni könnu]]
-* [[minnast á]]
-* [[standa eins og stafur á bók]]
-* [[kasta á glæ]]
-* [[á næstu grösum]]
-* [[á eftir]]
-* [[skella á]]
-* [[leggja á]]
-* [[stara eins og naut á nývirki]]
-* [[líta snöggvast á]]
-* [[færa sönnur á]]
-* [[kýla á]]
-* [[spila á]]
-* [[káfa á]]
-* [[líta á]]
-{{rel-bottom}}
+{{der3
+|[[hlaupa á glæ]]
+|[[leggja á minnið]]
+|[[lítast á]]
+|[[peningar vaxa ekki á trjám]]
+|[[kyssa á hönd]]
+|[[líta á með vanþóknun]]
+|[[líta niður á]]
+|[[á fjórum fótum]]
+|[[súpa á]]
+|[[draga á tálar]]
+|[[hæla á hvert reipi]]
+|[[heill á húfi]]
+|[[bera kápuna á báðum öxlum]]
+|[[togast á um]]
+|[[vel á minnst]]
+|[[vera á bandi]]
+|[[leita á]]
+|[[bíta á jaxlinn]]
+|[[hafa nóg á sinni könnu]]
+|[[minnast á]]
+|[[standa eins og stafur á bók]]
+|[[kasta á glæ]]
+|[[á næstu grösum]]
+|[[á eftir]]
+|[[skella á]]
+|[[leggja á]]
+|[[stara eins og naut á nývirki]]
+|[[líta snöggvast á]]
+|[[færa sönnur á]]
+|[[kýla á]]
+|[[spila á]]
+|[[káfa á]]
+|[[líta á]]
+|lang=is}}
 
 [[Category:Icelandic interjections]]
 [[Category:Icelandic prepositions]]
@@ -279,15 +275,15 @@ From {{m|ga|dhá}}, lenited variant of {{m|ga|dá}}.
 {{head|ga|pronoun}} {{qualifier|triggers {{ga-mut-link|l}} in the masculine singular, {{ga-mut-link|h}} in the feminine singular, and {{ga-mut-link|e}} in the plural}}
 
 # [[him]], [[her]], [[it]], [[them]] {{qualifier|used before the verbal noun in the progressive to indicate a third person direct object}}
-#: {{usex|Táim '''á''' bhualadh.|t=I am hitting him.|inline=1|lang=ga}}
-#: {{usex|Táim '''á''' ól.|t=I am drinking it {{qualifier|referring to a masculine noun, e.g. {{term|bainne||milk|lang=ga}}}}.|lang=ga}}
-#: {{usex|Táim '''á''' bualadh.|t=I am hitting her.|inline=1|lang=ga}}
-#: {{usex|Táim '''á''' hól.|t=I am drinking it {{qualifier|referring to a feminine noun, e.g. {{term|bláthach||buttermilk|lang=ga}}}}.|lang=ga}}
-#: {{usex|Táim '''á''' mbualadh.|t=I am hitting them.|inline=1|lang=ga}}
-#: {{usex|Táim '''á''' n-ól.|t=I am drinking them.|inline=1|lang=ga}}
+#: {{ux|ga|Táim '''á''' bhualadh.|inline=1|I am hitting him.}}
+#: {{ux|ga|Táim '''á''' ól.|I am drinking it {{qualifier|referring to a masculine noun, e.g. {{m|ga|bainne||milk}}}}.}}
+#: {{ux|ga|Táim '''á''' bualadh.|inline=1|I am hitting her.}}
+#: {{ux|ga|Táim '''á''' hól.|I am drinking it {{qualifier|referring to a feminine noun, e.g. {{m|ga|bláthach||buttermilk}}}}.}}
+#: {{ux|ga|Táim '''á''' mbualadh.|inline=1|I am hitting them.}}
+#: {{ux|ga|Táim '''á''' n-ól.|inline=1|I am drinking them.}}
 # {{non-gloss definition|used as a quasi-reflexive pronoun in a sentence with passive semantics}}
-#: {{usex|Tá an buachaill '''á''' bhualadh.|t=The boy is being hit {{qualifier|literally ‘The boy is at his hitting’}}.|lang=ga}}
-#: {{usex|Tá an chloch '''á''' tógáil ag Séamas.|t=The stone is being lifted by Séamas {{qualifier|literally ‘The stone is at its lifting by Séamas’}}.|lang=ga}}
+#: {{ux|ga|Tá an buachaill '''á''' bhualadh.|The boy is being hit {{qualifier|literally ‘The boy is at his hitting’}}.}}
+#: {{ux|ga|Tá an chloch '''á''' tógáil ag Séamas.|The stone is being lifted by Séamas {{qualifier|literally ‘The stone is at its lifting by Séamas’}}.}}
 
 ====Related terms====
 * {{l|ga|a}}
@@ -316,19 +312,16 @@ From {{m|ga|dhá}}, lenited variant of {{m|ga|dá}}.
 
 # {{alternative form of|a|lang=sga}}
 #* {{RQ:sga-gloss|Ml|90|b|12}}
-#*: Mad·genatar '''á''' thimthirthidi.
-#*:: Blessed are his servants.
+#*: {{ux|sga|Mad·genatar '''á''' thimthirthidi.|Blessed are his servants.}}
 #* {{RQ:sga-gloss|Ml|144|d|3}}
-#*: Nach torbatu coitchenn ro·boí indib fri denum n-uilc at·rubalt tar hesi '''á''' pectha.
-#*:: Every common advantage that had been in them for doing evil has perished for their sin.
+#*: {{ux|sga|Nach torbatu coitchenn ro·boí indib fri denum n-uilc at·rubalt tar hesi '''á''' pectha.|Every common advantage that had been in them for doing evil has perished for their sin.}}
 
 ===Particle===
 {{head|sga|particle}} {{qualifier|triggers [[lenition]]}}
 
 # {{alternative form of|a|lang=sga}}
 #* {{RQ:sga-gloss|Ml|53|c|11}}
-#*: in tan as·mbeir, Tait, '''á''' maccu
-#*:: when he says, "Come, O sons"
+#*: {{ux|sga|in tan as·mbeir, Tait, '''á''' maccu|when he says, "Come, O sons"}}
 
 ----
 
@@ -336,7 +329,7 @@ From {{m|ga|dhá}}, lenited variant of {{m|ga|dá}}.
 [[Image:Stream in gasadalur.jpg|thumb|á]]
 
 ===Etymology 1===
-From {{inh|non|gem-pro|*ahwō||water, stream}}, from {{etyl|ine-pro|non}} {{m|ine-pro|*h₂ekʷeh₂||water}}. Cognate with {{etyl|ang|-}} {{m|ang|ēa}}, {{etyl|ofs|-}} {{term|ā|lang=ofs}}, {{term|ē|lang=ofs}}, {{etyl|osx|-}} {{term|aha|lang=osx}}, {{etyl|goh|-}} {{term|aha|lang=goh}}, {{etyl|got|-}} {{term|𐌰𐍈𐌰|tr=[[aƕa#Gothic|aƕa]]|lang=got|sc=Goth}}.
+From {{inh|non|gem-pro|*ahwō||water, stream}}, from {{inh|non|ine-pro|*h₂ekʷeh₂||water}}. Cognate with {{etyl|ang|-}} {{m|ang|ēa}}, {{etyl|ofs|-}} {{m|ofs|[[ā]], [[ē]]}}, {{etyl|osx|-}} {{m|osx|aha}}, {{etyl|goh|-}} {{m|goh|aha}}, {{etyl|got|-}} {{m|got|𐌰𐍈𐌰|tr=[[aƕa#Gothic|aƕa]]}}.
 
 ====Alternative forms====
 * {{l|non|ǫ́}}
@@ -360,17 +353,15 @@ From {{inh|non|gem-pro|*ahwō||water, stream}}, from {{etyl|ine-pro|non}} {{m|in
 {{bottom}}
 
 ===Etymology 2===
-From {{inh|non|gem-pro|*ana||on, onto}}. Cognate with {{etyl|ang|-}} {{term|on|lang=ang}}, {{etyl|ofs|-}} {{term|on|lang=ofs}}, {{etyl|osx|-}} {{term|ana|lang=osx}}, {{term|an|lang=osx}}, {{etyl|odt|-}} {{term|ana|lang=odt}}, {{term|an|lang=odt}}, {{term|in|lang=odt}}, {{etyl|goh|-}} {{term|ana|lang=goh}}, {{term|an|lang=goh}}, {{etyl|got|-}} {{term|𐌰𐌽𐌰|tr=[[ana#Gothic|ana]]|lang=got|sc=Goth}}.
+From {{inh|non|gem-pro|*ana||on, onto}}. Cognate with {{etyl|ang|-}} {{m|ang|on}}, {{etyl|ofs|-}} {{m|ofs|on}}, {{etyl|osx|-}} {{m|osx|[[ana]], [[an]]}}, {{etyl|odt|-}} {{m|odt|[[ana]], [[an]], [[in]]}}, {{etyl|goh|-}} {{m|goh|[[ana]], [[an]]}}, {{etyl|got|-}} {{m|got|𐌰𐌽𐌰|tr=[[ana#Gothic|ana]]}}.
 
 ====Preposition====
 {{head|non|preposition}}
 
-# {{context|with dative|lang=non}} [[on]]
-#: Þeir eru '''á''' hólmi.''
-#:: They are '''on''' an island.
-# {{context|with dative|lang=non}} [[in]]
-#: ''Ek [[búa|bý]] '''á''' Islandi.''
-#:: I live '''in''' Iceland.
+# {{qualifier|with dative}} [[on]]
+#: {{ux|non|Þeir eru '''á''' hólmi.|They are '''on''' an island.}}
+# {{qualifier|with dative}} [[in]]
+#: {{ux|non|Ek [[búa|bý]] '''á''' Islandi.|I live '''in''' Iceland.}}
 
 =====Descendants=====
 {{top2}}
@@ -406,29 +397,23 @@ An imitation of a cry of pain.
 ====Verb====
 {{non-verb}}
 
-# first person singular of the verb [[eiga]]: ‘I [[own]]’.
-# third person singular of the verb [[eiga]]: ‘he [[owns]]’.
+# {{inflection of|eiga||1|s|pres|ind|lang=non}}: ‘I [[own]]’.
+# {{inflection of|eiga||3|s|pres|ind|lang=non}}: ‘he [[owns]]’.
 
 <!--====Descendants====
-* Faroese: {{l|fo|á}} (archaic, poetic)
+* Faroese: {{l|fo|á}} {{qualifier|archaic, poetic}}
 * Icelandic: {{l|is|á}}
 -->
-
-[[Category:Old Norse adverbs]]
-[[Category:Old Norse interjections]]
-[[Category:Old Norse nouns]]
-[[Category:Old Norse prepositions]]
-[[Category:Old Norse verbs]]
 
 ----
 
 ==Old Portuguese==
 
 ===Alternative forms===
-* [[a]]
+* {{l|roa-opt|a}}
 
 ===Etymology===
-From {{etyl|la|roa-opt}} {{term|illa||that (f.)|lang=la}}.
+From {{inh|roa-opt|la|illa||that|g=f}}.
 
 ===Pronunciation===
 * {{IPA|/a/|lang=roa-opt}}
@@ -456,12 +441,12 @@ From {{etyl|la|roa-opt}} {{term|illa||that (f.)|lang=la}}.
 * {{homophones|à|a|há|ah|lang=pt}}
 
 ===Etymology 1===
-From {{etyl|la|pt}} {{m|la|ā}}.
+From {{inh|pt|la|ā}}.
 
 ====Alternative forms====
-* [[a]]
-* [[A]]
-* [[Á]]
+* {{l|pt|a}}
+* {{l|pt|A}}
+* {{l|pt|Á}}
 
 ====Noun====
 {{pt-noun|m|s}}
@@ -469,10 +454,10 @@ From {{etyl|la|pt}} {{m|la|ā}}.
 # {{Latn-def|pt|name|A|a}}
 
 =====Derived terms=====
-* [[á-bê-cê]]
+* {{l|pt|á-bê-cê}}
 
 ===Etymology 2===
-From {{inh|pt|roa-opt|aa||wing}}, from {{der|pt|la|ala||wing}}. Cognate with Galician {{m|gl|á}}, Spanish {{m|es|ala}}, Catalan {{m|ca|ala}}, Occitan {{m|oc|ala}}, French {{m|fr|aile}}, Italian {{m|it|ala}} and Ligurian {{m|lij|âa}}.
+From {{inh|pt|roa-opt|aa||wing}}, from {{inh|pt|la|ala||wing}}. Cognate with Galician {{m|gl|á}}, Spanish {{m|es|ala}}, Catalan {{m|ca|ala}}, Occitan {{m|oc|ala}}, French {{m|fr|aile}}, Italian {{m|it|ala}} and Ligurian {{m|lij|âa}}.
 
 ====Noun====
 {{pt-noun|f|s}}
@@ -494,7 +479,7 @@ From {{inh|pt|roa-opt|aa||wing}}, from {{der|pt|la|ala||wing}}. Cognate with Gal
 ===Preposition===
 {{head|es|preposition}}
 
-# {{obsolete spelling of|lang=es|a}}
+# {{obsolete spelling of|a|lang=es}}
 
 ----
 
@@ -507,6 +492,7 @@ From {{inh|pt|roa-opt|aa||wing}}, from {{der|pt|la|ala||wing}}. Cognate with Gal
 {{vi-noun}}
 
 # {{Latn-def|vi|name|Ă|ă}}
+
 [[Category:Vietnamese letters]]
 
 [[ca:á]]
