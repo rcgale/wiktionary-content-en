@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|es|en}} {{term|amigo||friend|lang=es}}, from {{etyl|la|en}} {{term|amicus||friend|lang=la}}, derived from {{term|amo|amare|to love|lang=la}}. Compare French {{term|ami|lang=fr}}, Italian {{term|amico|lang=it}}, Portuguese {{term|amigo|lang=pt}} and Romanian {{term|amic|lang=ro}}.
+{{bor|en|es|amigo||friend}}, from {{der|en|la|amicus||friend}}, derived from {{m|la|amo|amare|to love}}. Compare French {{m|fr|ami}}, Italian {{m|it|amico}}, Portuguese {{m|pt|amigo}} and Romanian {{m|ro|amic}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/əˈmiː.ɡəʊ/|lang=en}}
@@ -34,45 +34,50 @@ From {{etyl|es|en}} {{term|amigo||friend|lang=es}}, from {{etyl|la|en}} {{term|a
 ==Cebuano==
 
 ===Etymology===
-From {{etyl|es|ceb}} {{m|es|amigo||male friend}}, from {{etyl|osp|ceb}} {{m|osp|amigo}}, {{m|osp|amygo}}, from {{etyl|la|ceb}} {{m|la|amīcus}}.
+{{bor|ceb|es|amigo||male friend}}, from {{der|ceb|osp|[[amigo]], [[amygo]]}}, from {{der|ceb|la|amīcus}}.
 
 ===Noun===
 {{head|ceb|noun}}
 
-# A male [[friend]].
+# A male [[friend]]
+
+{{catlangcode|ceb|Male|People}}
 
 ----
 
 ==Galician==
 
 ===Etymology===
-From {{etyl|roa-opt|gl}} {{m|roa-opt|amigo}}, from {{etyl|la|gl}} {{m|la|amīcus}}.
+From {{inh|gl|roa-opt|amigo}}, from {{inh|gl|la|amīcus}}.
 
 ===Noun===
-{{gl-noun|m}}
+{{gl-noun|m|f=amiga}}
 
 # [[friend]] (male)
 
 ====Antonyms====
-* {{sense|friend}} [[inimigo]]
+* {{sense|friend}} {{l|gl|inimigo}}
 
 ====Related terms====
-* [[amiga]]
+* {{l|gl|amiga}}
 
 ===Adjective===
 {{gl-adj|f=amiga}}
 
 # [[friendly]]
-#: ''países '''amigos''''' — "'''friendly''' countries"
+#: {{ux|gl|países '''amigos'''|inline=1|'''friendly''' countries}}
 
 ====Antonyms====
-* {{sense|friendly}} [[inimigo]]
+* {{sense|friendly}} {{l|gl|inimigo}}
 
 [[Category:gl:People]]
 
 ----
 
 ==Ladino==
+
+===Etymology===
+From {{der|lad|osp|[[amigo]], [[amygo]]}}, from {{der|lad|la|amīcus}}.
 
 ===Noun===
 {{lad-noun|l|heb=אמיגו|g=m}}
@@ -90,7 +95,7 @@ From {{etyl|roa-opt|gl}} {{m|roa-opt|amigo}}, from {{etyl|la|gl}} {{m|la|amīcus
 * {{l|roa-opt|amig'}}
 
 ===Etymology===
-From {{etyl|la|roa-opt}} {{m|la|amīcus||friend; friendly}}, from {{m|la|amō||I love}} + {{term|-icus|lang=la}}.
+From {{inh|roa-opt|la|amīcus||friend; friendly}}, from {{m|la|amō||I love}} + {{m|la|-icus}}.
 
 ===Pronunciation===
 * {{IPA|/aˈmiɡo/|lang=roa-opt}}
@@ -119,7 +124,7 @@ From {{etyl|la|roa-opt}} {{m|la|amīcus||friend; friendly}}, from {{m|la|amō||I
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|roa-opt|pt}} {{term|amigo|lang=roa-opt}}, from {{etyl|la|pt}} {{m|la|amīcus||friend; friendly}}, from {{m|la|amō||I love}} + {{term|-icus|lang=la}}. Compare Catalan {{term|amic|lang=ca}}, French {{term|ami|lang=fr}}, Italian {{term|amico|lang=it}}, Romanian {{term|amic|lang=ro}} and Spanish {{term|amigo|lang=es}}.
+From {{inh|pt|roa-opt|amigo}}, from {{inh|pt|la|amīcus||friend; friendly}}, from {{m|la|amō||I love}} + {{m|la|-icus}}. Compare Catalan {{m|ca|amic}}, French {{m|fr|ami}}, Italian {{m|it|amico}}, Romanian {{m|ro|amic}} and Spanish {{m|es|amigo}}.
 
 ===Pronunciation===
 * {{a|PT}} {{IPA|/ɐˈmiɣu/|lang=pt}}
@@ -184,7 +189,7 @@ From {{etyl|roa-opt|pt}} {{term|amigo|lang=roa-opt}}, from {{etyl|la|pt}} {{m|la
 ==Spanish==
 
 ===Etymology===
-From {{etyl|osp|es}} {{term|amigo|lang=osp}}, {{term|amygo|lang=osp}}, from {{etyl|la|es}} {{m|la|amīcus}} (compare Catalan {{term|amic|lang=ca}}, French {{term|ami|lang=fr}}, Italian {{term|amico|lang=it}}, Portuguese {{term|amigo|lang=pt}}, Romanian {{term|amic|lang=ro}}), from {{m|la|amō||I love}}.
+From {{inh|es|osp|[[amigo]], [[amygo]]}}, from {{inh|es|la|amīcus}} (compare Catalan {{m|ca|amic}}, French {{m|fr|ami}}, Italian {{m|it|amico}}, Portuguese {{m|pt|amigo}}, Romanian {{m|ro|amic}}), from {{m|la|amō||I love}}.
 
 ===Pronunciation===
 * {{IPA|lang=es|/aˈmi.ɡo/|[aˈmi.ɣo]}}
@@ -216,7 +221,7 @@ From {{etyl|osp|es}} {{term|amigo|lang=osp}}, {{term|amygo|lang=osp}}, from {{et
 ==Venetian==
 
 ===Etymology===
-From {{etyl|la|vec}} {{m|la|amīcus}}.
+From {{der|vec|la|amīcus}}.
 
 ===Noun===
 {{vec-noun|amig|m|o|hi}} (''Alternative plural'': [[amisi]])
