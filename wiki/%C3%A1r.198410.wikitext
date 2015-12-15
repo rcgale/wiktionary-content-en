@@ -184,10 +184,10 @@ Inflection of [[á#Icelandic|á]]
 ==Irish==
 
 ===Etymology 1===
-From {{etyl|sga|ga}} {{m|sga|ar}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*anserom}}, from {{etyl|ine-pro|ga}} {{m|ine-pro|*n̥serōm}}, from {{m|ine-pro|*nes-||we, us}}; compare {{etyl|de|-}} {{m|de|unser}}.
+From {{inh|ga|sga|ar}}, from {{inh|ga|cel-pro|*anserom}}, from {{inh|ga|ine-pro|*n̥serōm}}, from {{m|ine-pro|*nes-||we, us}}; compare {{etyl|de|-}} {{m|de|unser}}.
 
 ====Pronunciation====
-* {{IPA|lang=ga|[ɑːɾˠ]|[əɾˠ]|[ə]}}
+* {{IPA|lang=ga|/ɑːɾˠ/|/əɾˠ/|/ə/}}
 
 ====Determiner====
 {{head|ga|determiner|cat2=possessive determiners}} {{qualifier|triggers [[Appendix:Irish mutations#Eclipsis|eclipsis]] on the following word}}
@@ -200,10 +200,11 @@ From {{etyl|sga|ga}} {{m|sga|ar}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*anserom
 {{Irish personal pronouns}}
 
 ===Etymology 2===
-From {{etyl|sga|ga}} {{m|sga|ár||slaughter}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*agros}}, from {{etyl|ine-pro|ga}} {{m|ine-pro|*h₂eǵro-||hunt}}; compare {{etyl|grc|-}} {{m|grc|ἄγρα||hunt}}.
+From {{inh|ga|sga|ár||slaughter}}, from {{inh|ga|cel-pro|*agros}}, from {{inh|ga|ine-pro|*h₂eǵro-||hunt}}; compare {{etyl|grc|-}} {{m|grc|ἄγρα||hunt}}.
 
 ====Pronunciation====
-* {{IPA|lang=ga|[ɑːɾˠ]}}
+* {{IPA|lang=ga|/ɑːɾˠ/}}
+* {{a|Ulster}} {{IPA|lang=ga|/æːɾˠ/}}
 
 ====Noun====
 {{ga-noun|g=m|áir|-}}
@@ -215,10 +216,11 @@ From {{etyl|sga|ga}} {{m|sga|ár||slaughter}}, from {{etyl|cel-pro|ga}} {{m|cel-
 {{ga-decl-m1-nopl|á|r|ir}}
 
 ===Etymology 3===
-{{borrowing|fr|are|lang=ga}}, from {{etyl|la|ga}} {{m|la|area}}.
+{{borrowing|fr|are|lang=ga}}, from {{der|ga|la|area}}.
 
 ====Pronunciation====
-* {{IPA|lang=ga|[ɑːɾˠ]}}
+* {{a|Munster|Connacht}} {{IPA|lang=ga|/ɑːɾˠ/}}
+* {{a|Ulster}} {{IPA|lang=ga|/æːɾˠ/}}
 
 ====Noun====
 {{ga-noun|g=m|áir|áir}}
@@ -234,15 +236,15 @@ From {{etyl|sga|ga}} {{m|sga|ár||slaughter}}, from {{etyl|cel-pro|ga}} {{m|cel-
 ===References===
 * {{R:ga:ODonaill}}
 * {{R:Dinneen}}
-* {{R:DIL|ar}}
-* {{R:DIL}}
+* {{R:DIL|3906|head=5 ar (‘our’)}}
+* {{R:DIL|3912|ár (‘slaughter’)}}
 
 ----
 
 ==Old Irish==
 
 ===Etymology===
-From {{etyl|cel-pro|sga}} {{m|cel-pro|*agros||slaughter}}, from {{etyl|ine-pro|sga}} {{m|ine-pro|*h₂eǵro-||hunt}}; compare {{etyl|grc|-}} {{m|grc|ἄγρα||hunt}}
+From {{inh|sga|cel-pro|*agros||slaughter}}, from {{inh|sga|ine-pro|*h₂eǵro-||hunt}}; compare {{etyl|grc|-}} {{m|grc|ἄγρα||hunt}}
 
 ===Noun===
 {{head|sga|noun|o-stem||plural|áir|or|ára}}
@@ -254,7 +256,7 @@ From {{etyl|cel-pro|sga}} {{m|cel-pro|*agros||slaughter}}, from {{etyl|ine-pro|s
 #* {{RQ:sga-gloss|Ml|33|d|4}}
 #*: "du '''ár'''" glosses ''ad'' {{term|cedo|cedem|lang=la}}
 #* {{RQ:sga-gloss|Ml|113|b|4}}
-#*: "etarcnae '''áir''' mo namat" glosses ''de {{term|cedo|cede|lang=la}} hostium
+#*: "etarcnae '''áir''' mo namat" glosses ''de {{term|cedo|cede|lang=la}} hostium''
 
 ====Derived terms====
 * {{l|sga|árchú|gloss=slaughter-hound, watchdog}}
@@ -265,8 +267,11 @@ From {{etyl|cel-pro|sga}} {{m|cel-pro|*agros||slaughter}}, from {{etyl|ine-pro|s
 * Irish: {{l|ga|ár}}
 * Scottish Gaelic: {{l|gd|àr}}
 
+===Mutation===
+{{sga-mutation|á|r}}
+
 ===References===
-* {{R:DIL}}
+* {{R:DIL|3912}}
 
 ----
 
