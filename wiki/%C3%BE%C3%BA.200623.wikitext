@@ -2,7 +2,7 @@
 ==Icelandic==
 
 ===Etymology===
-From {{etyl|non|is}} {{term|þú|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*þū}}, from {{etyl|ine-pro|is}} {{m|ine-pro|*túh₂}}.
+From {{inh|is|non|þú}}, from {{inh|is|gem-pro|*þū}}, from {{inh|is|ine-pro|*túh₂}}.
 
 ===Pronunciation===
 * {{IPA|/θuː/|lang=is}}
@@ -12,35 +12,35 @@ From {{etyl|non|is}} {{term|þú|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-pr
 {{head|is|pronoun|cat2=personal pronouns}}
 
 # {{context|personal|singular|lang=is}} [[you]], [[thou]]
-#: '''''Þú''' [[vera#Icelandic|ert]] [[skemmtilegur]].''
-#:: '''You''' [[are]] [[fun]].
-#: ''Er'''tu''' nemandi?''
-#:: Are '''you''' a student?
+#: {{ux|is|'''Þú''' [[vera#Icelandic|ert]] [[skemmtilegur]].|'''You''' [[are]] [[fun]].}}
+#: {{ux|is|''Er'''tu''' nemandi?|Are '''you''' a student?}}
 
 ====Synonyms====
 * {{sense|singular you}} [[þér]] {{qualifier|formal|archaic}}
 
 ====Derived terms====
-* [[ertu]]
-* [[gangi þér vel]]
-* [[þúbróðir]]/[[þúnautur]]
-* [[þúa]]
-* [[þú og hvaða her]]
-* {{l|is|þúst}}
+{{der3
+|[[ertu]]
+|[[gangi þér vel]]
+|[[þúbróðir]]/[[þúnautur]]
+|[[þúa]]
+|[[þú og hvaða her]]
+|[[þúst]]
+|lang=is}}
 
 ====Usage notes====
-* After verbs the pronoun {{term|þú|lang=is}} is either:
+* After verbs the pronoun {{m|is|þú}} is either:
 *: separated:
-*:: {{qualifier|separated}} {{term||munt '''þú'''|are '''you''' going to}}
-*:: {{qualifier|separated}} {{term||skalt '''þú'''|'''you''' shall}}
-*:: {{qualifier|separated}} {{term||borðar '''þú'''|do '''you''' eat}}
-*:: {{qualifier|separated}} {{term||hoppar '''þú'''|do '''you''' jump}}
-*:: {{qualifier|separated}} {{term||sérð '''þú'''|do '''you''' see|lang=is}}
-*: or suffixed and changed into {{term|-ðu|lang=is}}, {{term|-du|lang=is}}, {{term|-tu|lang=is}} or {{term|-u|lang=is}}:
-*:: {{qualifier|suffixed}} {{term||mun'''tu'''|are '''you''' going to|lang=is}}
-*:: {{qualifier|suffixed}} {{term||borðar'''ðu'''|do '''you''' eat|lang=is}}
-*:: {{qualifier|suffixed}} {{term||vil'''tu'''|do '''you''' want to|lang=is}}
-*:: {{qualifier|suffixed}} {{term||nennir'''ðu'''|could '''you''' be bothered to|lang=is}}
+*:: {{qualifier|separated}} {{ux|is|munt '''þú'''|inline=1|are '''you''' going to}}
+*:: {{qualifier|separated}} {{ux|is|skalt '''þú'''|inline=1|'''you''' shall}}
+*:: {{qualifier|separated}} {{ux|is|borðar '''þú'''|inline=1|do '''you''' eat}}
+*:: {{qualifier|separated}} {{ux|is|hoppar '''þú'''|inline=1|do '''you''' jump}}
+*:: {{qualifier|separated}} {{ux|is|sérð '''þú'''|inline=1|do '''you''' see}}
+*: or suffixed and changed into {{m|is|-ðu}}, {{m|is|-du}}, {{m|is|-tu}} or {{m|is|-u}}:
+*:: {{qualifier|suffixed}} {{ux|is|mun'''tu'''|inline=1|are '''you''' going to}}
+*:: {{qualifier|suffixed}} {{ux|is|borðar'''ðu'''|inline=1|do '''you''' eat}}
+*:: {{qualifier|suffixed}} {{ux|is|vil'''tu'''|inline=1|do '''you''' want to}}
+*:: {{qualifier|suffixed}} {{ux|is|nennir'''ðu'''|inline=1|could '''you''' be bothered to}}
 
 ====Inflection====
 {{Icelandic personal pronouns}}
@@ -50,7 +50,7 @@ From {{etyl|non|is}} {{term|þú|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-pr
 ==Old Norse==
 
 ===Etymology===
-From {{inh|non|gem-pro|*þū}}, from {{etyl|ine-pro|non}} {{m|ine-pro|*túh₂}}. Cognates: see there.
+From {{inh|non|gem-pro|*þū}}, from {{inh|non|ine-pro|*túh₂}}. Cognates: see there.
 
 ===Pronoun===
 {{head|non|pronoun|cat2=personal pronouns}}
