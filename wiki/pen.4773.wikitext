@@ -150,7 +150,7 @@ See {{term|feather|lang=en}} and {{term|πέτομαι|lang=grc}} for more.
 * Asturian: {{t|ast|bolígrafu|m}}
 * Azeri: {{t+|az|qələm}}, {{t+|az|pero}}
 * Basque: {{t|eu|luma}}
-* Belarusian: {{t|be|ру́чка|f|sc=Cyrl}}
+* Belarusian: {{t|be|ру́чка|f}}
 * Bengali: {{t+|bn|কলম|tr=kôlômô|sc=Beng}}, {{t|bn|লিখনী|tr=likhôni|sc=Beng}}
 * Bulgarian: {{t+|bg|писа́лка|f}}
 * Burmese: {{t+|my|ကလောင်|sc=Mymr}}, {{t|my|ဘောပင်|sc=Mymr}} {{qualifier|ballpoint pen}}
@@ -344,7 +344,7 @@ Shortned form of ''[[penalty]]''
 ==Danish==
 
 ===Etymology===
-From late {{etyl|non|da}} {{term|penni|lang=non}}, from {{etyl|la|da}} {{term|penna||feather|lang=la}}.
+From late {{inh|da|non|penni}}, from {{der|da|la|penna||feather}}.
 
 ===Pronunciation===
 * {{IPA|/pɛnˀ/|[pʰɛnˀ]|lang=da}}
@@ -445,7 +445,7 @@ From late {{etyl|non|da}} {{term|penni|lang=non}}, from {{etyl|la|da}} {{term|pe
 ==Rade==
 
 ===Etymology===
-From {{etyl|fr|rad}} {{m|fr|pince}}.
+From {{der|rad|fr|pince}}.
 
 ===Noun===
 {{head|rad|noun}}
@@ -457,7 +457,7 @@ From {{etyl|fr|rad}} {{m|fr|pince}}.
 ==Tok Pisin==
 
 ===Etymology 1===
-From {{etyl|en|tpi}} {{term|paint|lang=en}}.
+From {{inh|tpi|en|paint}}.
 
 ====Noun====
 {{head|tpi|noun}}
@@ -465,7 +465,7 @@ From {{etyl|en|tpi}} {{term|paint|lang=en}}.
 # [[paint]]
 
 ===Etymology 2===
-From {{etyl|en|tpi}} {{term|pen|lang=en}}.
+From {{inh|tpi|en|pen}}.
 
 ====Noun====
 {{head|tpi|noun}}
@@ -473,7 +473,7 @@ From {{etyl|en|tpi}} {{term|pen|lang=en}}.
 # [[pen#English|pen]]
 
 ===Etymology 3===
-From {{etyl|en|tpi}} {{term|pain|lang=en}}.
+From {{inh|tpi|en|pain}}.
 
 ====Noun====
 {{head|tpi|noun}}
@@ -525,6 +525,9 @@ From {{inh|cy|wlm|penn}}, from {{inh|cy|cel-bry-pro|*penn}}, from {{inh|cy|cel-p
 
 ===Mutation===
 {{cy-mut-auto}}
+
+===References===
+* {{R:cy:GPC}}
 
 {{catlangcode|cy|Anatomy}}
 
