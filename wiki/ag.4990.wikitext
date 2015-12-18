@@ -28,7 +28,7 @@
 #*: {{...}} fruits and vegetables, oddly referred to in '''ag'''-speak as specialty crops, {{...}}
 
 ===Etymology 2===
-From {{etyl|af|en}} {{term|ag|lang=af}}, from {{etyl|nl|en}} {{term|ach|lang=nl}}.
+{{bor|en|af|ag}}, from {{der|en|nl|ach}}.
 
 ====Pronunciation====
 * {{a|UK}} {{IPA|/ax/|lang=en}}
@@ -36,7 +36,7 @@ From {{etyl|af|en}} {{term|ag|lang=af}}, from {{etyl|nl|en}} {{term|ach|lang=nl}
 ====Interjection====
 {{en-interj}}
 
-# {{context|South Africa|lang=en}} Expressing annoyance, remorse, surprise etc.; [[oh]], [[ah]].
+# {{lb|en|South Africa}} Expressing annoyance, remorse, surprise etc.; [[oh]], [[ah]].
 #* '''1979''', {{w|André Brink}}, ''A Dry White Season'', Vintage 1998, p. 88:
 #*: ‘'''''Ag''''', fuck it,’ he said. ‘Let bygones be bygones, man.’
 #* '''1994''', {{w|Nelson Mandela}}, ''Long Walk to Freedom'', Abacus 2010, p. 491:
@@ -52,7 +52,7 @@ From {{etyl|af|en}} {{term|ag|lang=af}}, from {{etyl|nl|en}} {{term|ach|lang=nl}
 ==Afrikaans==
 
 ===Etymology 1===
-From {{etyl|nl|af}} {{term|acht|lang=nl}}.
+From {{inh|af|nl|acht}}.
 
 ====Noun====
 {{af-noun|agte}}
@@ -60,23 +60,23 @@ From {{etyl|nl|af}} {{term|acht|lang=nl}}.
 # [[esteem]]
 
 ===Etymology 2===
-From {{etyl|nl|af}} {{term|achten|lang=nl}}.
+From {{inh|af|nl|achten}}.
 
 ====Verb====
 {{af-verb|agtende}}
 
 # to [[regard]]; to [[deem]]
-#: {{usex|lang=af|Ek '''ag''' hom as 'n belangrike bate in ons maatskappy.|t=I '''deem''' him as an important asset in our company.}}
-#: {{usex|lang=af|Hy word hoog '''geag'''.|t=He is highly '''regarded'''.}}
+#: {{ux|af|Ek '''ag''' hom as 'n belangrike bate in ons maatskappy.|I '''deem''' him as an important asset in our company.}}
+#: {{ux|af|Hy word hoog '''geag'''.|He is highly '''regarded'''.}}
 # to [[heed]]
 
 ===Etymology 3===
-From {{etyl|nl|af}} {{term|ach|lang=nl}}.
+From {{inh|af|nl|ach}}.
 
 ====Interjection====
 {{head|af|interjection}}
 
-# oh, oh no, shoot, damn, oh dear
+# [[oh]], [[oh no]], [[shoot]], [[damn]], [[oh dear]]
 
 ===Etymology 4===
 {{cardinalbox|af|7|8|9|sewe|nege|ord=agste}}
@@ -84,23 +84,23 @@ From {{etyl|nl|af}} {{term|ach|lang=nl}}.
 ====Numeral====
 {{head|af|numeral}}
 
-# {{context|lang=af|cardinal}} {{alternative form of|lang=af|agt}}
+# {{lb|af|cardinal}} {{alternative form of|agt|lang=af}}
 
 ----
 
 ==Albanian==
 
 ===Alternative forms===
-* {{l|sq|agull}} (Gheg)
+* {{l|sq|agull}} {{qualifier|Gheg}}
 
 ===Etymology===
-From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*auga}}, from {{etyl|ine-pro|sq}} {{m|ine-pro|*h₂ewg-}} (compare Ancient Greek {{term|αὐγή||daylight, splendor|lang=grc}}, Serbo-Croatian {{term|jug|lang=sh}} ‘south’).
+From {{inh|sq|sqj-pro|*auga}}, from {{der|sq|ine-pro|*h₂ewg-}} (compare Ancient Greek {{m|grc|αὐγή||daylight, splendor}}, Serbo-Croatian {{m|sh|jug||south}}).
 
 ===Noun===
 {{sq-noun|m|agje}}
 
-# [[dawn]], daybreak, pre-dawn light
-# half-darkness, mistiness
+# [[dawn]], [[daybreak]], [[predawn]] light
+# half-darkness, [[mistiness]]
 # black mark around the eyes of the dead
 
 ----
@@ -137,12 +137,12 @@ From {{inh|ga|mga|[[oc]], [[ac]], [[ic]]}}, from {{inh|ga|sga|[[oc]], [[occ]]}}.
 #: {{ux|ga|Tá go leor '''acu''' anseo.|There are plenty of them here.}}
 #: {{ux|ga|Tá duine '''againn''' tinn.|One of us is ill.}}
 # [[of]] {{qualifier|to indicate possession emphatically, used after a noun qualified by {{m|ga|seo||this}} or {{m|ga|sin||that}}}}
-#: {{ux|ga|an teach seo '''againne'''|this house of ours|inline=1}}
-#: {{ux|ga|na bróga sin '''agatsa'''|those shoes of yours|inline=1}}
+#: {{ux|ga|an teach seo '''againne'''|inline=1|this house of ours}}
+#: {{ux|ga|na bróga sin '''agatsa'''|inline=1|those shoes of yours}}
 # {{non-gloss definition|used with forms of {{term|bí||to be|lang=ga}} to indicate possession in place of a verb meaning ‘[[have]]’}}
-#: {{usex|Tá teach '''ag''' Seán.|t=Seán has a house.|lang=ga}}
+#: {{ux|ga|Tá teach '''ag''' Seán.|Seán has a house.}}
 # {{non-gloss definition|used with forms of {{term|bí||to be|lang=ga}} and a past participle to indicate a perfect tense}}
-#: {{usex|Tá an teach péinteáilte '''ag''' Seán.|t=Seán has painted the house.|lang=ga}}
+#: {{ux|ga|Tá an teach péinteáilte '''ag''' Seán.|Seán has painted the house.}}
 # {{non-gloss definition|used with forms of {{m|ga|bí||to be}} to indicate ability to do something}}
 #: {{ux|ga|Tá Spáinnis '''agam'''.|I can speak Spanish.}}
 #: {{ux|ga|Tá caint '''agam'''.|I can talk.}}
@@ -193,7 +193,7 @@ Reduced form of {{m|ga|chuig}}, assimilated in all forms to Etymology 1.
 ==Old Irish==
 
 ===Etymology===
-From {{etyl|cel-pro|sga}} {{m|cel-pro|*agos||cow}}, from {{etyl|ine-pro|sga}} {{m|ine-pro|*h₂eǵHos}}. Compare Old Armenian {{m|xcl|եզն}}, Sanskrit {{m|sa|अही|tr=ahī́}}.
+From {{inh|sga|cel-pro|*agos||cow}}, from {{inh|sga|ine-pro|*h₂eǵHos}}. Compare Old Armenian {{m|xcl|եզն}}, Sanskrit {{m|sa|अही|tr=ahī́}}.
 
 ===Pronunciation===
 * {{IPA|/aɣ/|lang=sga}}
@@ -211,6 +211,9 @@ From {{etyl|cel-pro|sga}} {{m|cel-pro|*agos||cow}}, from {{etyl|ine-pro|sga}} {{
 ===Mutation===
 {{sga-mutation|a|g}}
 
+===References===
+* {{R:DIL}}
+
 {{catlangcode|sga|Cattle|Cervids}}
 
 ----
@@ -218,13 +221,13 @@ From {{etyl|cel-pro|sga}} {{m|cel-pro|*agos||cow}}, from {{etyl|ine-pro|sga}} {{
 ==Scottish Gaelic==
 
 ===Etymology===
-Contraction of ''[[aig]]''
+Contraction of {{m|gd|aig}}
 
 ===Particle===
 {{head|gd|particle}}
 
 # Used before the verbal noun to form the present participle.
-#: {{usex|Bha Seumas '''ag''' obair.|inline=1|t=James was working.|lang=gd}}
+#: {{ux|gd|Bha Seumas '''ag''' obair.|inline=1|James was working.}}
 
 ====Usage notes====
 * This is the form used before a vowel. Before consonants it contracts to {{m|gd|a'}}. The sole exception is {{m|gd|'''ag''' [[ràdh]]||saying}}.
