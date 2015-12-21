@@ -6,15 +6,15 @@
 # {{context|archaic|lang=fi}} [[side]], [[flank]]
 
 ====Declension====
-See also "Usage notes".
-{{fi-decl-pron|1s=[[ohi-]]|5s=[[ohessa]]|6s=[[ohesta]]|7s=[[oheen]]|8s=[[ohella]]|9s=[[ohelta]]|10s=[[ohelle]]|a4s=[[ohi]]|a10s=[[ohi]]<br/>[[ohitse]]}}
+{{fi-decl-ovi|oh|||a}}
 
 ====Usage notes====
-The noun sense has practically ceased to exist in modern Finnish. The cases shown at the declension table are used as adverbs, and the word '''''ohi''''' itself has become a preposition and postposition (see corresponding sections below). It's also used as prefix or modifier in compound terms (see {{m|fi|ohi-}}).
+The noun sense has practically ceased to exist in modern Finnish. Some cases are used as adverbs, and the lemma '''''ohi''''' has become a preposition and postposition (see corresponding sections below). It's also used as prefix or modifier in compound terms.
 
 ====Synonyms====
 * [[kuve]]
 * [[kylki]]
+* [[pieli]]
 * [[sivu]]
 * [[vieri]]
 * [[vierusta]]
@@ -22,31 +22,36 @@ The noun sense has practically ceased to exist in modern Finnish. The cases show
 ===Adverb===
 {{fi-adv}}
 
-# (''spatial'') used to indicate movement past or beyond a certain point
+# {{lb|fi|spatial}} used to indicate movement past or beyond a certain point
 #: ''Minun piti kääntyä toisesta risteyksestä oikealle, mutta ajoinkin '''ohi'''.'' (llit. "drove past")
 #:: I was supposed to turn right from the second intersection but I missed it.
-# (''temporal'') [[over]]
+# {{lb|fi|temporal}} [[over]]
 #: Se on '''ohi''' nyt.
 #:: It is ''over'' now.
+
+====Inflection====
+{{fi-decl-pron|1s=[[ohi]]|5s=[[ohessa]]|6s=[[ohesta]]|7s=[[oheen]]|8s=[[ohella]]|9s=[[ohelta]]|10s=[[ohelle]]|a4s=[[ohi]]|a10s=[[ohi]]<br/>[[ohitse]]}}
+
+====Usage notes====
+* The inflected forms shown in the table are used as adverbs, postpositions and prepositions, see appropriate entries.
 
 ====Synonyms====
 * [[ohitse]]
 
 ===Postposition===
 ([[genitive]] +) {{fi-postp}}
-{{fi-postp}}
 
-# (''spatial'') [[by]], [[past]] (when one goes ''through'' the space that is ''next to'' something):
+# {{lb|fi|spatial}} [[by]], [[past]] (when one goes ''through'' the space that is ''next to'' something):
 #: Pallo pyöri tuolin '''ohi''' ja ovesta ulos.
 #:: The ball rolled ''by'' the chair and out of the door.
 #: ''Pallo pyöri minun '''ohitseni'''.''
 #:: The ball rolled '''past''' me.
-# (''spatial'') [[wide]]
+# {{lb|fi|spatial}} [[wide]]
 #: ''Nuoli meni maalin '''ohi'''.''
 #:: The arrow fell ''wide'' of the mark.
 
 ====Usage notes====
-'''''ohi''''' cannot be used with a [[possessive suffix]]. Instead, the word ''ohitse'' must be used, as in one of the examples above.
+* Only the inflected forms of '''''ohi''''' may assume a [[possessive suffix]]. Thus instead of ''"ohi" + possessive suffix'' one must use '"ohitse" + possessive suffix'', as in one of the examples above.
 
 ====Synonyms====
 * [[ohitse]]
@@ -67,7 +72,6 @@ The noun sense has practically ceased to exist in modern Finnish. The cases show
 # [[miss]]! {{gloss|used like an interjection to indicate that a shot missed the target}}
 
 ===Derived terms===
-* See the inflection table.
 * [[ohi-]]
 * [[oheinen]]
 * [[ohimo]]
