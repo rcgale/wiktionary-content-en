@@ -817,34 +817,41 @@ From contraction of preposition {{term|de||of, from|lang=gl}} + masculine defini
 ===Etymology 1===
 
 ====Pronunciation====
-* {{IPA|lang=ga|[d̪ˠɔ]|[d̪ˠə]}}
+* {{IPA|lang=ga|/d̪ˠɔ/|/d̪ˠə/}}
 
 ====Particle====
-{{head|ga|particle}} {{qualifier|Triggers {{ga-mut-link|l}} of a following consonant.}}
+{{head|ga|particle|triggers {{ga-mut-link|l}} of a following consonant}}
 
-# {{context|Munster|literary|lang=ga}} {{non-gloss definition|Marker of the past tense.}}
-#: {{usex|'''do''' mhol sé|t=he praised|lang=ga}}
-
-=====Usage notes=====
-The variant form, {{l|ga|d'|d’}}, is required before verbs beginning with a vowel or f:
-
-: '''''d’'''ól sé'' — he drank
-: '''''d’'''fhreastail sé'' — he served
-
-Unlike ''do'', ''d’'' is not optional.
+# {{context|Munster|literary|lang=ga}} {{non-gloss definition|marker of the past tense}}
+#: {{ux|ga|'''do''' mhol sé|he praised|inline=1}}
+# {{context|Munster|literary|lang=ga}} {{non-gloss definition|relative marker (nominative, accusative)}}
+#: {{ux|ga|an cailín '''do''' mholann sé|the girl that he praises|inline=1}}
 
 =====Related terms=====
-* {{l|ga|d'|d’}} {{qualifier|used before a vowel sound}}
+* {{l|ga|d’}} {{qualifier|used before a vowel sound}}
+
+=====Usage notes=====
+The variant form, {{m|ga|d’}}, is required before verbs beginning with a vowel or ''f'':
+: {{ux|ga|'''d’'''ól sé|he drank|inline=1}}
+: {{ux|ga|an fear '''d’'''fhreastlann sé|the man that he serves|inline=1}}
+
+Unlike {{m|ga||do}}, {{m|ga||d’}} is not optional as a marker of the past tense.
+
+The relative particle {{m|ga||do}} is most commonly pronounced {{IPAchar|/ə/}} (corresponding to the standard written Irish form {{m|ga|a}}, while {{m|ga||d’}} elides:
+
+: {{ux|ga|an cailín '''a''' mholann sé|the girl that he praises}}
+: {{ux|ga|an deoch ’ólann sé|the drink that he drinks}}
+: {{ux|ga|an fear fhreastlann sé|the man that he serves}}
 
 ===Etymology 2===
 From {{etyl|sga|ga}} {{term|do|lang=sga}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*do||to, for}}.
 
 ====Pronunciation====
-* {{IPA|lang=ga|[d̪ˠɔ]|[d̪ˠə]}}
-* {{a|Connacht}} {{IPA|lang=ga|[ɡə]}} {{qualifier|as if spelled ''go''; ''do'' and ''go'' "to, up to, until" have largely fallen together in the dialect}}
+* {{IPA|lang=ga|/d̪ˠɔ/|/d̪ˠə/}}
+* {{a|Connacht}} {{IPA|lang=ga|/ɡə/}} {{qualifier|as if spelled ''go''; ''do'' and {{m|ga|go||to, up to, until}} have largely fallen together in the dialect}}
 
 ====Preposition====
-{{ga-prep}} {{qualifier|Triggers {{ga-mut-link|l}} of a following consonant-initial noun.}}
+{{ga-prep|d|l}}
 
 # [[to]], [[for]]
 #: {{ux|ga|'''do''' chara|to a friend, for a friend|inline=1}}
@@ -874,52 +881,29 @@ Used only before consonant sounds.
 {{ga-preposition contractions}}
 
 =====Related terms=====
-* {{l|ga|d'|d’}} {{qualifier|used before a vowel sound}}
-* {{l|ga|t'|t’}} {{qualifier|(Munster) used before a vowel sound}}
+* {{l|ga|d’}} {{qualifier|used before a vowel sound}}
+* {{l|ga|t’}} {{qualifier|(Munster) used before a vowel sound}}
 
 ===Etymology 3===
 From {{etyl|sga|ga}} {{term|do|lang=sga}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*tu||your, thy}}.
 
 ====Pronunciation====
-* {{IPA|lang=ga|[d̪ˠə]}}
+* {{IPA|lang=ga|/d̪ˠə/}}
 
 ====Determiner====
 {{head|ga|determiner|cat2=possessive determiners}} {{qualifier|Triggers {{ga-mut-link|l}} of a following consonant.}}
 
-# [[your]] {{qualifier|singular}}
+# [[your]] {{g|s}}
 #: {{usex|Cá bhfuil '''do''' charr?|t=Where is your car?|lang=ga}}
 
 =====Usage notes=====
 Used only before consonant sounds.
 
 =====Related terms=====
-* {{l|ga|d'|d’}} {{qualifier|used before a vowel sound}}
+* {{l|ga|d’}} {{qualifier|used before a vowel sound}}
 
 ====See also====
 {{Irish personal pronouns}}
-
-===Etymology 4===
-
-====Pronunciation====
-* {{IPA|lang=ga|[d̪ˠɔ]|[d̪ˠə]}}
-
-====Relative Marker====
-{{qualifier|Triggers {{ga-mut-link|l}} of a following consonant.}}
-
-# {{context|Munster|literary|lang=ga}} {{non-gloss definition|relative marker (nominative, accusative).}}
-#: {{usex|an cailín '''do''' mholann sé|t=The girl that he praises|lang=ga}}
-
-=====Usage notes=====
-The variant form, {{l|ga|d'|d’}}, is required before verbs beginning with a vowel or f:
-
-: ''an deoch '''d’'''ólann sé'' — the drink that he drinks
-: ''an fear '''d’'''fhreastlann sé'' — the man that he serves
-
-'''Do''' is most commonly pronunced, and written '''a''', while '''d’''' elides:
-
-: ''an cailín '''a''' mholann sé — the girl that he praises
-: ''an deoch ’ólann sé'' — the drink that he drinks
-: ''an fear fhreastlann sé'' — the man that he serves
 
 ----
 
