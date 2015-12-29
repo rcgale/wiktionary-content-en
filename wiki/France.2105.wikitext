@@ -63,10 +63,10 @@ From {{etyl|fr|en}} {{term|France|lang=fr}}, {{etyl|fro|en}} {{term|France|lang=
 * Burmese: {{t|my|ပြင်သစ်နိုင်ငံ|sc=Mymr}}
 * Catalan: {{t+|ca|França|f}}
 * Cebuano: {{t|ceb|Pransiya}}
-* Cherokee: {{t|chr|ᎦᎸᏥᏱ|tr=Galvtsiyi|sc=Cher}}
+* Cherokee: {{t|chr|ᎦᎸᏥᏱ|sc=Cher}}
 * Chinese:
 *: Cantonese: {{t|yue|法國|sc=Hani}}, {{t|yue|法国|tr=faat3 gwok3|sc=Hani}}
-*: Mandarin: {{t|cmn|法國|sc=Hani}}, {{t+|cmn|法国|tr=Fǎguó|sc=Hani}}, {{t+|cmn|法蘭西|sc=Hani}}, {{t+|cmn|法兰西|tr=Fǎlánxī|sc=Hani}}
+*: Mandarin: {{t+|cmn|法國|sc=Hani}}, {{t+|cmn|法国|tr=Fǎguó|sc=Hani}}, {{t+|cmn|法蘭西|sc=Hani}}, {{t+|cmn|法兰西|tr=Fǎlánxī|sc=Hani}}
 *: Min Nan: {{t+|nan|法國|tr=Hoat-kok}}
 *: Teochew: Huag8gog4
 * Cornish: {{t+|kw|Pow Frynk}}
@@ -91,7 +91,7 @@ From {{etyl|fr|en}} {{term|France|lang=fr}}, {{etyl|fro|en}} {{term|France|lang=
 * Hausa: {{t|ha|Faransa|f|alt=Fàr̃ansà}}
 * Hawaiian: {{t|haw|Palani}}
 * Hebrew: {{t+|he|צָרְפַת|f|tr=tsarfát}} (''classical:'' Ṣārəphath)
-* Hindi: {{t|hi|फ़्रांस|tr=frāns}}, {{t|hi|फ़्राँस|tr=frāns}}, {{t+|hi|फ़्रान्स|m|tr=frāns|sc=Deva}}, {{t+|hi|फ्रांस|tr=phrāns|sc=Deva}}
+* Hindi: {{t|hi|फ़्रांस|}}, {{t|hi|फ़्राँस|m}}, {{t+|hi|फ़्रान्स|m|sc=Deva}}, {{t+|hi|फ्रांस|m|sc=Deva}}
 * Hungarian: {{t+|hu|Franciaország}}
 * Icelandic: {{t+|is|Frakkland|n}}
 * Ido: {{t+|io|Francia}}
@@ -110,7 +110,7 @@ From {{etyl|fr|en}} {{term|France|lang=fr}}, {{etyl|fro|en}} {{term|France|lang=
 * Kazakh: {{t+|kk|Франция}}
 * Khmer: {{t+|km|បារាំង|sc=Khmr|tr=baarang}}, {{t|km|ប្រទេសបារាំង|sc=Khmr|tr=prɑteih baarang}}
 * Kikuyu: {{t|ki|Frans}}
-* Korean: {{t+|ko|프랑스|tr=Peurangseu|sc=Hang}}
+* Korean: {{t+|ko|^프랑스|sc=Hang}}
 * Kurdish:
 *: Sorani: {{t|ku|فه‌ره‌نسا|sc=ku-Arab}}
 * Lao: {{t+|lo|ປະເທດຝະລັ່ງ|sc=Laoo}}
@@ -130,7 +130,7 @@ From {{etyl|fr|en}} {{term|France|lang=fr}}, {{etyl|fro|en}} {{term|France|lang=
 * Malagasy: {{t+|mg|Frantsa}}
 * Malay: {{t|ms|Perancis}}
 * Malayalam: {{t|ml|ഫ്രാൻസ്}}
-* Maltese: {{t+|mt|Franza}}
+* Maltese: {{t+|mt|Franza|f}}
 * Maori: {{t|mi|Parani}}, {{t+|mi|Wīwī}}
 * Marathi: {{t|mr|फ्रांस|tr=phrāns|sc=Deva}}
 * Meru: {{t|mer|Frans}}
@@ -145,8 +145,8 @@ From {{etyl|fr|en}} {{term|France|lang=fr}}, {{etyl|fro|en}} {{term|France|lang=
 * Occitan: {{t+|oc|França|f}}
 * Old English: {{t|ang|Francland}}
 * Ossetian: {{t|os|Франц}}
-* Pashto: {{t+|ps|فرانسه|tr=Frânsa|sc=ps-Arab}}, {{t|ps|فرانس|tr=Frâns|sc=ps-Arab}}
-* Persian: {{t+|fa|فرانسه|tr=Farânse}}
+* Pashto: {{t+|ps|فرانسه|tr=frânsa|sc=ps-Arab}}, {{t|ps|فرانس|tr=frâns|sc=ps-Arab}}
+* Persian: {{t+|fa|فرانسه|tr=farânse}}
 * Plains Cree: {{t|crk|wêmistikôsînâhk}}
 * Polish: {{t+|pl|Francja|f}}
 * Portuguese: {{t+|pt|França|f}}
@@ -184,14 +184,14 @@ From {{etyl|fr|en}} {{term|France|lang=fr}}, {{etyl|fro|en}} {{term|France|lang=
 * Ukrainian: {{t+|uk|Фра́нція|f}}
 * Urdu: {{t|ur|فرانس|tr=frāns}}
 * Uyghur: {{t|ug|فرانسىيە|sc=ug-Arab}}
-* Vietnamese: {{t+|vi|Pháp}}, {{t|vi|nước Pháp}}
+* Vietnamese: {{t+|vi|Pháp}}, {{t|vi|[[nước]] [[Pháp]]}}
 * Volapük: {{t+|vo|Fransän}}, {{qualifier|obsolete}} {{t|vo|Flent}}, {{qualifier|obsolete}} {{t|vo|Flentän}}
 * Võro: {{t|vro|Prantsusmaa}}
 * Wallisian: {{t|wls|Falani}}
 * Walloon: {{t+|wa|France|f}}
 * Welsh: {{t+|cy|Ffrainc|f}}
 * West Frisian: {{t+|fy|Frankryk}}
-* Yiddish: {{t|yi|פֿראַנקרײַך|n|tr=Frankraykh}}
+* Yiddish: {{t|yi|פֿראַנקרײַך|n}}
 * Zhuang: {{t|za|Fazgoz}}, {{t|za|Faƨgoƨ}}
 {{trans-bottom}}
 
