@@ -6,6 +6,8 @@
 ===Etymology===
 From {{etyl|enm|en}} {{term|linet|lang=enm}}, from {{etyl|fro|en}} {{term|linette||grain of flax|lang=fro}}, diminutive of {{term|lin||flax|lang=fro}}; or, from {{etyl|Medieval Latin|en}} {{term|linteum|lang=la}}, from {{etyl|la|en}} {{m|la|līnum||flax}}.
 
+For the verb, from the ''lint'' Unix utility, wroten in 1979, which analyses programs written in C language.
+
 ===Noun===
 {{en-noun|-}}
 
@@ -49,6 +51,15 @@ From {{etyl|enm|en}} {{term|linet|lang=enm}}, from {{etyl|fro|en}} {{term|linett
 {{trans-mid}}
 * German: {{t+|de|Flaum|m}}
 {{trans-bottom}}
+
+===Verb===
+{{en-verb|-}}
+
+# {{context|computing|lang=en}} Statically check a source code to detect stylistic or programmatic errors.
+#: ''You should '''lint''' your JavaScript code before commiting it.''
+
+====References====
+* [http://stackoverflow.com/questions/8503559/what-is-linting Question “What is linting” on StackOverFlow]
 
 ===Anagrams===
 * [[int'l#English|int'l]], [[intl.#English|intl.]]
