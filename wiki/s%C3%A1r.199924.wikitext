@@ -113,21 +113,41 @@ From {{etyl|non|is}} {{term|sár|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-pr
 ==Irish==
 
 ===Etymology===
-From {{etyl|en|ga}} {{m|en|tsar}}, from {{etyl|ru|ga}} {{m|ru|царь}}, from {{etyl|orv|ga}} {{m|orv|цьсарь}}, from {{etyl|cu|ga}} {{m|cu|цѣсарь}}, from {{etyl|got|ga}} {{m|got|𐌺𐌰𐌹𐍃𐌰𐍂||emperor}}, from {{etyl|la|ga}} {{m|la|Caesar}}.
+From a conflation of {{inh|ga|sga|sár|g=m||chief, ruler}} and {{der|ga|en|tsar}}, {{der|ga|ru|царь}}, from {{der|ga|orv|цьсарь}}, from {{der|ga|cu|цѣсарь}}, from {{der|ga|got|𐌺𐌰𐌹𐍃𐌰𐍂||emperor}}, from {{der|ga|la|Caesar}}. The Old Irish may be [[elliptical]] for some such compound like (modern) {{m|ga|[[sár-|sár]][[fear|fhear]]}}
 
 ===Noun===
-{{ga-noun|g=m|sáir|sáir|sort=sar}}
+{{ga-noun|g=m|sáir|sáir}}
 
 # [[tsar]]
+# {{lb|ga|literary}} [[overlord]], [[ruler]]
 
 ====Declension====
 {{ga-decl-m1|sá|r|ir}}
 
 ====Derived terms====
-* {{l|ga|bansár|gloss=tsarina}}
+* {{l|ga|bansár||tsarina}}
+
+===Etymology 2===
+From {{inh|ga|sga|sár|g=m||outrage, insult, humiliation}}.
+
+====Noun====
+{{ga-noun|g=m|sáir|-}}
+
+# {{lb|ga|literary}} [[violation]], [[outrage]]; [[humiliation]]
+
+=====Declension=====
+{{ga-decl-m1-nopl|sá|r|ir}}
+
+=====Derived terms=====
+* {{l|ga|sár gach searbhais||the height of bitterness}}
 
 ===Mutation===
 {{ga mut cons|sá|r}}
+
+===References===
+* {{R:ga:ODonaill}}
+* {{R:DIL|36200|head=1 sár}}
+* {{R:DIL|36202|head=3 sár}}
 
 {{catlangcode|ga|Male|Nobility}}
 
