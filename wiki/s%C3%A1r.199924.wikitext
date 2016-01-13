@@ -2,7 +2,7 @@
 ==Faroese==
 
 ===Etymology===
-From {{etyl|non|fo}} {{term|sár|lang=non}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*sairą}}.
+From {{inh|fo|non|sár}}, from {{inh|fo|gem-pro|*sairą}}.
 
 ===Pronunciation===
 * {{IPA|/sɔɑːɹ/|lang=fo}}
@@ -15,7 +15,7 @@ From {{etyl|non|fo}} {{term|sár|lang=non}}, from {{etyl|gem-pro|fo}} {{m|gem-pr
 ====Declension====
 {{fo-decl-noun-n3|sár}}
 
-[[Category:fo:Pathology]]
+{{catlangcode|fo|Pathology}}
 
 ----
 
@@ -31,13 +31,13 @@ From {{etyl|non|fo}} {{term|sár|lang=non}}, from {{etyl|gem-pro|fo}} {{m|gem-pr
 # [[mud]]
 
 ====Derived terms====
-* [[sáros]]
+* {{l|hu|sáros}}
 {{qualifier|Compound words}}:
-* [[sárvédő]]
+* {{l|hu|sárvédő}}
 {{qualifier|Expressions}}:
-* [[megállja a sarat]]
+* {{l|hu|megállja a sarat}}
 
-[[Category:Hungarian three-letter words]]
+{{catlangname|hu|three-letter words}}
 
 ----
 
@@ -48,14 +48,13 @@ From {{etyl|non|fo}} {{term|sár|lang=non}}, from {{etyl|gem-pro|fo}} {{m|gem-pr
 *: {{rhymes|auːr|lang=is}}
 
 ===Etymology 1===
-From {{etyl|non|is}} {{term|sárr|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*sairaz}}.
+From {{inh|is|non|sárr}}, from {{inh|is|gem-pro|*sairaz}}.
 
 ====Adjective====
 {{is-adj|sárari|sárastur}}
 
 # [[painful]], [[sore]]{{jump|is|painful|s}}
-#: ''Á! Þetta er '''sárt'''!''
-#:: Ouch! This '''hurts'''!
+#: {{ux|is|Á! Þetta er '''sárt'''!|Ouch! This '''hurts'''!}}
 # [[bitter]], [[distressing]]{{jump|is|distressing|s}}
 # [[hurt]], [[offended]], [[embittered]]{{jump|is|embittered|s}}
 
@@ -63,19 +62,21 @@ From {{etyl|non|is}} {{term|sárr|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-p
 {{is-decl-adj-1|s|á|r}}
 
 =====Derived terms=====
-* [[eiga um sárt að binda]] (to have suffered a great loss)
-* [[sitja eftir með sárt ennið]] (to be sorely disappointed)
-* [[mig tekur það sárt]] (I'm really sorry)
-* [[vera sárt leikinn]] (to be treated roughly)
-* [[vera sárt um]] (to set great store by something)
+{{der3
+|{{l|is|eiga um sárt að binda||to have suffered a great loss}}
+|{{l|is|sitja eftir með sárt ennið||to be sorely disappointed}}
+|{{l|is|mig tekur það sárt||I'm really sorry}}
+|{{l|is|vera sárt leikinn||to be treated roughly}}
+|{{l|is|vera sárt um||to set great store by something}}
+}}
 
 =====Synonyms=====
-* {{jump|s|is|painful}} [[kvalafullur]]
-* {{jump|s|is|distressing}} [[átakanlegur]]
-* {{jump|s|is|embittered}} [[gramur]]
+* {{jump|s|is|painful}} {{l|is|kvalafullur}}
+* {{jump|s|is|distressing}} {{l|is|átakanlegur}}
+* {{jump|s|is|embittered}} {{l|is|gramur}}
 
 ===Etymology 2===
-From {{etyl|non|is}} {{term|sár|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*sairą}}.
+From {{inh|is|non|sár}}, from {{inh|is|gem-pro|*sairą}}.
 
 ====Noun====
 {{is-noun|n|sárs|sár}}
@@ -86,16 +87,18 @@ From {{etyl|non|is}} {{term|sár|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-pr
 {{is-decl-noun-n-s|s|á|r}}
 
 =====Derived terms=====
-* [[fótasár]] (venous ulcers, stasis ulcer, varicose ulcers)
-* [[gera að sárum]] (to dress somebody's wounds)
-* [[græða sár]] (to heal a wound)
-* [[vera í sárum]] (to moult)
+{{der3
+|{{l|is|fótasár||venous ulcers, stasis ulcer, varicose ulcers}}
+|{{l|is|gera að sárum||to dress somebody's wounds}}
+|{{l|is|græða sár||to heal a wound}}
+|{{l|is|vera í sárum||to moult}}
+}}
 
 =====Synonyms=====
-* {{jump|s|is|wound}} {{qualifier|poetic}} [[und]]
+* {{jump|s|is|wound}} {{qualifier|poetic}} {{l|is|und}}
 
 ===Etymology 3===
-From {{etyl|non|is}} {{term|sár|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*saihaz}}.
+From {{inh|is|non|sár}}, from {{inh|is|gem-pro|*saihaz}}.
 
 ====Noun====
 {{is-noun|m|sás|sáir}}
