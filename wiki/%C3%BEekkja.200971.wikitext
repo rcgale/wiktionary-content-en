@@ -1,7 +1,7 @@
 ==Icelandic==
 
 ===Etymology===
-From {{etyl|non|is}} {{term|þekkja|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*þankijaną}}, from {{etyl|ine-pro|is}} {{m|ine-pro|*teng-}}.
+From {{inh|is|non|þekkja}}, from {{inh|is|gem-pro|*þankijaną}}, from {{der|is|ine-pro|*teng-}}.
 
 ===Pronunciation===
 * {{IPA|/ˈθɛhca/|lang=is}}
@@ -10,31 +10,30 @@ From {{etyl|non|is}} {{term|þekkja|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem
 ===Verb===
 {{is-verb-weak|þekkti|þekkt}}
 
-# {{context|transitive|governs the accusative|lang=is}} to [[know]], to be [[familiar]] with{{jump|is|be familiar with|s}}
-#: ''Ég '''þekki''' þennan mann ekki!''
-#:: I don't '''know''' this person!
-# {{context|transitive|governs the accusative|lang=is}} to [[recognize]], to [[know]]{{jump|is|recognize|s}}
-#: ''Geir? Ég '''þekkti''' þig ekki.''
-#:: Geir? I didn't '''recognize''' you.
+# {{lb|is|transitive|governs the accusative}} to [[know]], be [[familiar]] with{{jump|is|be familiar with|s}}
+#: {{ux|is|Ég '''þekki''' þennan mann ekki!|I don't '''know''' this person!}}
+# {{lb|is|transitive|governs the accusative}} to [[recognize]], [[know]]{{jump|is|recognize|s}}
+#: {{ux|is|Geir? Ég '''þekkti''' þig ekki.|Geir? I didn't '''recognize''' you.}}
 
 ====Conjugation====
 {{is-conj-w2|þ|e|kk|j=j}}
 
 ====Derived terms====
-* [[þekkja á]]
-* [[þekkja aftur]]
-* [[þekkja í sjón]]
-* [[þekkja í sundur]]
-* [[þekkja inn á]]
-* [[þekkjast]]
-* [[þekktur]]
+{{der3
+|{{l|is|þekkja á}}
+|{{l|is|þekkja aftur}}
+|{{l|is|þekkja í sjón}}
+|{{l|is|þekkja í sundur}}
+|{{l|is|þekkja inn á}}
+|{{l|is|þekkjast}}
+|{{l|is|þekktur||known, well-known}}
+}}
 
 ====Synonyms====
 * {{jump|s|is|be familiar with}} [[vera kunnur]]
 * {{jump|s|is|recognize}} [[bera kennsl á]]
 
 [[Category:Most used Icelandic verbs]]
-[[Category:Icelandic transitive verbs]]
 
 [[fr:þekkja]]
 [[is:þekkja]]
