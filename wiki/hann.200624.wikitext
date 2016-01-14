@@ -2,7 +2,7 @@
 ==Central Franconian==
 
 ===Etymology===
-From {{etyl|goh|gmw-cfr}} {{m|goh|habēn}}.
+From {{der|gmw-cfr|goh|habēn}}.
 
 ===Pronunciation===
 * {{IPA|/han/|lang=gmw-cfr}}
@@ -32,7 +32,7 @@ From {{inh|fo|non|hann}}, from {{inh|fo|gmq-pro|*hānaʀ}}, of uncertain origin.
 ==Icelandic==
 
 ===Etymology===
-From {{etyl|non|is}} {{term|hann|lang=non}}, from {{etyl|gmq-pro|is}} {{m|gmq-pro|*hānaʀ}}, of uncertain origin.
+From {{inh|is|non|hann}}, from {{inh|is|gmq-pro|*hānaʀ}}, of uncertain origin.
 
 ===Pronunciation===
 * {{a|stressed}} {{IPA|/ˈhanː/|lang=is}}
@@ -41,28 +41,21 @@ From {{etyl|non|is}} {{term|hann|lang=non}}, from {{etyl|gmq-pro|is}} {{m|gmq-pr
 * {{a|unstressed}} {{IPA|/an(ː)/|lang=is}}
 
 ===Pronoun===
-{{head|is|pronoun}}
+{{head|is|pronoun|cat2=personal pronouns|cat3=pronoun forms}}
 
 # {{sense|personal pronoun}} [[he]]
-#: '''''Hann''' [[vera#Icelandic|er]] [[gamall]].''
-#:: '''He''' [[is]] [[old]].
-#: '''''Hann''' [[drepa#Icelandic|drap]] [[hann#Icelandic|hann]].''
-#:: '''He''' [[killed]] [[him]].
+#: {{ux|is|'''Hann''' [[vera|er]] [[gamall]].|'''He''' [[is]] [[old]].}}
+#: {{ux|is|'''Hann''' [[drepa|drap]] [[hann]].|'''He''' [[killed]] [[him]].}}
 
-# {{sense|personal pronoun}} accusative singular form of the word ''[[hann#Icelandic|hann]]'' (meaning "[[he]]") meaning "[[him]]".
-#: ''[[hann#Icelandic|Hann]] [[drepa#Icelandic|drap]] '''hann'''.''
-#:: [[he|He]] [[killed]] '''him'''.
-#: ''[[hætta|Hættu]] þessu! Ég [[elska]] '''hann'''!''
-#:: [[stop|Stop]] it! I [[love]] '''him'''!
+# {{sense|personal pronoun}} accusative singular form of the word {{m|is|hann}} (meaning "[[he]]") meaning "[[him]]".
+#: {{ux|is|[[hann|Hann]] [[drepa|drap]] '''hann'''.|[[he|He]] [[killed]] '''him'''.}}
+#: {{ux|is|[[hætta|Hættu]] þessu! Ég [[elska]] '''hann'''!|[[stop|Stop]] it! I [[love]] '''him'''!}}
 
 ====Derived terms====
-* [[eins og hann frekast gat]]
+* {{l|is|eins og hann frekast gat}}
 
 ====Declension====
 {{Icelandic personal pronouns}}
-
-[[Category:Icelandic personal pronouns]]
-[[Category:Icelandic pronoun forms]]
 
 ----
 
@@ -71,7 +64,7 @@ From {{etyl|non|is}} {{term|hann|lang=non}}, from {{etyl|gmq-pro|is}} {{m|gmq-pr
 ===Noun===
 {{head|nb|noun|g=m|definite singular|hannen|indefinite plural|hanner|definite plural|hannene}}
 
-# {{context|zoology|lang=nb}} a [[male]]
+# {{lb|nb|zoology}} a [[male]]
 
 ====Antonyms====
 * {{l|nb|hunn}}
@@ -90,7 +83,7 @@ From {{etyl|non|is}} {{term|hann|lang=non}}, from {{etyl|gmq-pro|is}} {{m|gmq-pr
 * {{l|nn|hanne}}
 
 ===Etymology===
-From {{term|han||he|lang=nn}}.
+From {{m|nn|han||he}}.
 
 ===Pronunciation===
 * {{IPA|/han/|lang=nn}} {{nn-pronu-note}}
@@ -99,8 +92,7 @@ From {{term|han||he|lang=nn}}.
 {{nn-noun-m1}}
 
 # [[male]]
-#: ''Hjå mange artar har '''hannar''' og hoer ulik storleik.''
-#:: The '''males''' and females of many species have different sizes.
+#: {{ux|nn|Hjå mange artar har '''hannar''' og hoer ulik storleik.|The '''males''' and females of many species have different sizes.}}
 
 ====Antonyms====
 * {{l|nn|ho}}, {{l|nn|hoe}}
@@ -116,10 +108,11 @@ From {{term|han||he|lang=nn}}.
 ==Old Norse==
 
 ===Etymology===
-From {{etyl|gmq-pro|non}} {{m|gmq-pro|*hānaʀ}}, of uncertain origin. Perhaps a compound of {{m|gmq-pro|*he-}} (answering to {{etyl|en|-}} {{m|en|he}}) and {{m|gmq-pro||*ānaʀ}} (from {{etyl|gem-pro|non}} {{m|gem-pro|*jainaz}}, answering to {{etyl|got|-}} {{m|got|𐌾𐌰𐌹𐌽𐍃}}) or even directly from {{m|gmq-pro||*ānaʀ}} with ''h-'' added due to influence from the demonstrative pronoun {{m|non|hinn}}, or else perhaps directly inherited from Proto-Indo-European and answering to {{etyl|grc|-}} {{m|grc|κεῖνος}}.
+From {{inh|non|gmq-pro|*hānaʀ}}, of uncertain origin. Perhaps a compound of {{m|gmq-pro|*he-}} (corresponding to {{etyl|en|-}} {{m|en|he}}) and {{m|gmq-pro||*ānaʀ}} (from {{der|non|gem-pro|*jainaz}}, corresponding to {{etyl|got|-}} {{m|got|𐌾𐌰𐌹𐌽𐍃}}) or even directly from {{m|gmq-pro||*ānaʀ}} with ''h-'' added due to influence from the demonstrative pronoun {{m|non|hinn}}, or else perhaps directly inherited from Proto-Indo-European and answering to {{etyl|grc|-}} {{m|grc|κεῖνος}}.
 
 ===Pronoun===
 {{head|non|pronoun}}
+
 # [[he]] {{qualifier|third-person nominative singular masculine personal pronoun}}
 
 ====Declension====
