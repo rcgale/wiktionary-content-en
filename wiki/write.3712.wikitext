@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|enm|en}} {{term|writen|lang=enm}}, from {{etyl|ang|en}} {{m|ang|wrītan||to incise, engrave, write, draw, bestow by writing}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*wrītaną||to carve, write}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*wrey-||to rip, tear}}. Cognate with {{etyl|fy|-}} {{term|write||to wear by rubbing, rip, tear|lang=fy}}, {{etyl|nl|-}} {{term|wrijten||to argue, quarrel|lang=nl}}, Dutch {{term|rijten||to rip, tear|lang=nl}}, {{etyl|nds|-}} {{term|wrieten|lang=nds}}, {{term|rieten||to tear, split|lang=nds}}, German {{term|reißen||to tear, rip|lang=de}}, {{etyl|sv|-}} {{term|rita||to draw, design, delineate, model|lang=sv}}, {{etyl|is|-}} {{term|rita||to cut, scratch, write|lang=is}}, {{etyl|de|-}} {{term|ritzen||to carve, scratch|lang=de}}.
+From {{etyl|enm|en}} {{m|enm|writen}}, from {{etyl|ang|en}} {{m|ang|wrītan||to incise, engrave, write, draw, bestow by writing}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*wrītaną||to carve, write}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*wrey-||to rip, tear}}. Cognate with {{etyl|fy|-}} {{m|fy|write||to wear by rubbing, rip, tear}}, {{etyl|nl|-}} {{m|nl|wrijten||to argue, quarrel}}, Dutch {{m|nl|rijten||to rip, tear}}, {{etyl|nds|-}} {{m|nds|wrieten}}, {{m|nds|rieten||to tear, split}}, German {{m|de|reißen||to tear, rip}}, {{etyl|sv|-}} {{m|sv|rita||to draw, design, delineate, model}}, {{etyl|is|-}} {{m|is|rita||to cut, scratch, write}}, {{etyl|de|-}} {{m|de|ritzen||to carve, scratch}}.
 
 ===Pronunciation===
 * {{a|UK|US}} {{enPR|rīt}}, {{IPA|/ɹaɪt/|lang=en}}
@@ -379,7 +379,7 @@ From {{etyl|enm|en}} {{term|writen|lang=enm}}, from {{etyl|ang|en}} {{m|ang|wrī
 ===Noun===
 {{en-noun}}
 
-# {{context|computing|lang=en}} The operation of storing data, as in [[memory]] or onto [[disk]].
+# {{label|en|computing}} The operation of storing data, as in [[memory]] or onto [[disk]].
 #: ''How many '''writes''' per second can this hard disk handle?''
 #* '''2006''', ''MySQL administrator's guide and language reference'' (page 393)
 #*: In other words, the system can do 1200 reads per second with no '''writes''', the average write is twice as slow as the average read, and the relationship is linear.
