@@ -682,7 +682,7 @@ Click on labels in the image
 ==French==
 
 ===Etymology===
-From {{etyl|frm|fr}} and {{etyl|fro|fr}} {{term|face|lang=fro}}, from {{etyl|VL.|fr}} {{m|la|*facia}}, from {{etyl|la|fr}} {{m|la|faciēs||face, shape}}.
+From {{etyl|frm|fr}} and {{etyl|fro|fr}} {{m|fro|face}}, from {{etyl|VL.|fr}} {{m|la|*facia}}, from {{etyl|la|fr}} {{m|la|faciēs||face, shape}}.
 
 ===Pronunciation===
 * {{audio|Fr-face.ogg|Audio|lang=fr}}
@@ -748,7 +748,7 @@ From {{etyl|VL.|fur}} {{m|la|*facia}}, from {{etyl|la|fur}} {{m|la|faciēs||face
 ===Verb===
 {{head|it|verb form}}
 
-# {{context|archaic|lang=it}} third-person singular indicative present of '''[[fare#Italian|fare]]'''.
+# {{label|it|archaic}} third-person singular indicative present of '''[[fare#Italian|fare]]'''.
 
 ----
 
@@ -769,12 +769,12 @@ From {{etyl|VL.|fur}} {{m|la|*facia}}, from {{etyl|la|fur}} {{m|la|faciēs||face
 ==Middle English==
 
 ===Etymology===
-{{etyl|fro|enm}} {{term|face|lang=fro}}, from {{etyl|VL.|enm}} {{m|la|*facia}} < Classical {{etyl|la|enm}} {{term|facies|lang=la}}
+{{etyl|fro|enm}} {{m|fro|face}}, from {{etyl|VL.|enm}} {{m|la|*facia}} < Classical {{etyl|la|enm}} {{m|la|facies}}
 
 ===Noun===
 {{enm-noun}}
 
-# {{context|anatomy|lang=enm}} {{l|en|face}}
+# {{label|enm|anatomy}} {{l|en|face}}
 #* '''14<sup>th</sup> Century''', [[w:Geoffrey Chaucer|Chaucer]], ''[[s:The Canterbury Tales/General Prologue|General Prologue]]''
 #*: Boold was hir '''face''', and fair, and reed of hewe.
 #*:: Bold was her face, and fair, and red of hue.
@@ -789,7 +789,7 @@ From {{etyl|VL.|fro}} {{m|la|*facia}}, from {{etyl|la|fro}} {{m|la|faciēs||face
 ===Noun===
 {{fro-noun|f}}
 
-# {{context|anatomy|lang=fro}} {{l|en|face}}
+# {{label|fro|anatomy}} {{l|en|face}}
 #* '''circa 1170''', {{w|Chrétien de Troyes}}, ''[[s:fr:Érec et Énide|Érec et Énide]]'':
 #*: Le chief li desarme et la '''face'''.
 #*:: He exposed his head and his face.
@@ -823,8 +823,8 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|façe}}, {{m|roa-opt|faz}}, from {{etyl|la|
 ===Noun===
 {{pt-noun|f|s}}
 
-# {{context|anatomy|geometry|lang=pt}} {{l|en|face}}
-# {{context|anatomy|lang=pt}} the {{l|en|cheek}}
+# {{label|pt|anatomy|geometry}} {{l|en|face}}
+# {{label|pt|anatomy}} the {{l|en|cheek}}
 
 ====Synonyms====
 * {{sense|face}} {{l|pt|cara}}, {{l|pt|rosto}}
@@ -838,7 +838,7 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|façe}}, {{m|roa-opt|faz}}, from {{etyl|la|
 ==Romanian==
 
 ===Etymology===
-From {{etyl|la|ro}} {{term|facere|lang=la}}, present active infinitive of {{m|la|faciō}}<ref>http://www.dex.ro/face</ref>. The verb's original past participle was {{term|fapt|lang=ro}}, from {{m|la|factum}}, but was changed and replaced several centuries ago. An alternative third-person simple perfect, ''fece'', from {{m|la|fecit}}, was also found in some dialects.<ref>https://archive.org/details/grundrissderroma00gruoft</ref>
+From {{etyl|la|ro}} {{m|la|facere}}, present active infinitive of {{m|la|faciō}}<ref>http://www.dex.ro/face</ref>. The verb's original past participle was {{m|ro|fapt}}, from {{m|la|factum}}, but was changed and replaced several centuries ago. An alternative third-person simple perfect, ''fece'', from {{m|la|fecit}}, was also found in some dialects.<ref>https://archive.org/details/grundrissderroma00gruoft</ref>
 
 ===Pronunciation===
 * {{IPA|[ˈfatʃe]|lang=ro}}
@@ -846,8 +846,8 @@ From {{etyl|la|ro}} {{term|facere|lang=la}}, present active infinitive of {{m|la
 ===Verb===
 {{ro-verb|conj=3|face|făcut}}
 
-# {{context|transitive|lang=ro}} [[do]], [[make]]
-# {{context|reflexive|lang=ro}} to be [[made]], to be [[done]]
+# {{label|ro|transitive}} [[do]], [[make]]
+# {{label|ro|reflexive}} to be [[made]], to be [[done]]
 
 ====Conjugation====
 {{ro-conj-2|type=3|ger=făcând|past=făcut|1s=fac|2s=faci|3s=face|1p=facem|2p=faceți|3p=fac|3sub=facă|perf=făcu|3perf=făcu|imp=făce|3imp=făcea|2imp=fă}}
