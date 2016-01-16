@@ -19,7 +19,7 @@ The use of ten to represent a perfect specimen derives from the practice of rank
 ===Numeral===
 {{head|en|numeral}}
 
-# {{context|cardinal|lang=en}} The [[number]] [[occur]]ring after [[nine]] and before [[eleven]], [[represent]]ed in [[Arabic numerals]] ([[base]] ten) as [[10]], in [[binary]] ([[base]] [[two]]) as 1010, in [[hexadecimal]] ([[base]] [[sixteen]]) as A, and in [[Roman numerals]] as [[X]].
+# {{label|en|cardinal}} The [[number]] [[occur]]ring after [[nine]] and before [[eleven]], [[represent]]ed in [[Arabic numerals]] ([[base]] ten) as [[10]], in [[binary]] ([[base]] [[two]]) as 1010, in [[hexadecimal]] ([[base]] [[sixteen]]) as A, and in [[Roman numerals]] as [[X]].
 
 ====Related terms====
 * [[tenth]]
@@ -273,10 +273,10 @@ The use of ten to represent a perfect specimen derives from the practice of rank
 ===Noun===
 {{en-noun|~}}
 
-# {{context|uncountable|lang=en}} The number following [[nine]].
-# {{context|countable|cards|lang=en}} A [[card]] in a [[given]] [[suit]] with a [[value]] of ten.
-# {{context|countable|lang=en}} A [[denomination]] of [[currency]] with a [[value]] of ten [[monetary unit|units]].
-# {{context|countable|US|slang|lang=en}} A [[perfect]] [[specimen]], {{context|particularly|lang=en}} a [[physically]] [[attractive]] [[person]].
+# {{label|en|uncountable}} The number following [[nine]].
+# {{label|en|countable|cards}} A [[card]] in a [[given]] [[suit]] with a [[value]] of ten.
+# {{label|en|countable}} A [[denomination]] of [[currency]] with a [[value]] of ten [[monetary unit|units]].
+# {{label|en|countable|US|slang}} A [[perfect]] [[specimen]], {{label|en|particularly}} a [[physically]] [[attractive]] [[person]].
 
 ====Synonyms====
 * {{w|Roman numerals}}: ''[[X]]''
@@ -457,7 +457,7 @@ The use of ten to represent a perfect specimen derives from the practice of rank
 * {{audio|Nl-ten.ogg|Audio|lang=nl}}
 
 ===Etymology===
-A contraction of {{term|te|lang=nl}} + {{term|den|lang=nl}}.
+A contraction of {{m|nl|te}} + {{m|nl|den}}.
 
 ===Contraction===
 {{head|nl|contraction}}
@@ -540,7 +540,7 @@ A contraction of {{term|te|lang=nl}} + {{term|den|lang=nl}}.
 ==Pipil==
 
 ===Etymology===
-From {{etyl|azc-nah-pro|ppl}} {{m|azc-nah-pro|*teːn-}}. Compare {{etyl|nci|-}} {{term|lang=nci|tēntli||lips}}.
+From {{etyl|azc-nah-pro|ppl}} {{m|azc-nah-pro|*teːn-}}. Compare {{etyl|nci|-}} {{m|nci|tēntli||lips}}.
 
 ===Pronunciation===
 * {{a|standard}} {{IPA|/teːŋ/|lang=ppl}}
@@ -558,15 +558,15 @@ From {{etyl|azc-nah-pro|ppl}} {{m|azc-nah-pro|*teːn-}}. Compare {{etyl|nci|-}} 
 
 ====Derived terms====
 {{top2}}
-* {{term|lang=ppl|tenpan|-tēnpan|edge}}
-* {{term|lang=ppl|tenshipal|-tēnshīpal|lip}}
-* {{term|lang=ppl|tentzun|-tēntzun|moustache” or “beard}}
-* {{term|lang=ppl|tenkal|tēnkal|door”, “doorway}}
+* {{m|ppl|tenpan|-tēnpan|edge}}
+* {{m|ppl|tenshipal|-tēnshīpal|lip}}
+* {{m|ppl|tentzun|-tēntzun|moustache” or “beard}}
+* {{m|ppl|tenkal|tēnkal|door”, “doorway}}
 {{mid2}}
-* {{term|lang=ppl|tentzin|tēntzin|window}}
-* {{term|lang=ppl|tentzakka|tēntzakka|lid” or “door}}
-* {{term|lang=ppl|tennamiki|-tēnnāmiki|to kiss}}
-* {{term|lang=ppl|tenpelua|tēnpēlua|to open one's mouth}}
+* {{m|ppl|tentzin|tēntzin|window}}
+* {{m|ppl|tentzakka|tēntzakka|lid” or “door}}
+* {{m|ppl|tennamiki|-tēnnāmiki|to kiss}}
+* {{m|ppl|tenpelua|tēnpēlua|to open one's mouth}}
 {{bottom}}
 
 [[Category:ppl:Face]]
@@ -593,7 +593,7 @@ From {{inh|pl|sla-pro|*tъ}}, from {{etyl|ine-pro|pl}} {{m|ine-pro|*só}}
 ===Pronoun===
 {{head|pl|pronoun|g=m}}
 
-# {{context|demonstrative|lang=pl}} [[this]] (nearby)
+# {{label|pl|demonstrative}} [[this]] (nearby)
 
 ====Declension====
 {{pl-decl-pronoun
@@ -667,7 +667,7 @@ From {{etyl|fa|tr}} {{m|fa|تن|tr=tan|sc=fa-Arab}}.
 
 # [[skin]]
 # [[body]]
-# {{context|dialectal|lang=tr}} vulva of a cow
+# {{label|tr|dialectal}} vulva of a cow
 
 ====Declension====
 {{tr-noun-c|e|d|pred=-|poss=+}}
