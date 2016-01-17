@@ -4,7 +4,7 @@
 
 ===Etymology===
 {{PIE root|en|bʰer}}
-From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|difference||lang=fro}}, from {{etyl|la|en}} {{term|differentia||difference|lang=la}}, from {{term|differens||different|lang=la}}, present participle of {{term|differro|differre|lang=la}}
+From {{etyl|enm|en}}, from {{etyl|fro|en}} {{m|fro|difference|}}, from {{etyl|la|en}} {{m|la|differentia||difference}}, from {{m|la|differens||different}}, present participle of {{m|la|differro|differre}}
 
 ===Pronunciation===
 * {{IPA|/ˈdɪfɹəns/|lang=en}}
@@ -13,33 +13,33 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|difference||lang=fro}}, from {
 ===Noun===
 {{en-noun|~}}
 
-# {{context|uncountable|lang=en}} The quality of being [[different]].
-#: {{usex|You need to learn to be more tolerant of '''difference'''.|lang=en}}
-# {{context|countable|lang=en}} A characteristic of something that makes it different from something else.
+# {{label|en|uncountable}} The quality of being [[different]].
+#: {{ux|en|You need to learn to be more tolerant of '''difference'''.}}
+# {{label|en|countable}} A characteristic of something that makes it different from something else.
 #* {{quote-magazine|title=Towards the end of poverty
 |date=2013-06-01|volume=407|issue=8838|page=11|magazine={{w|The Economist}}
 |url=http://www.economist.com/news/leaders/21578665-nearly-1-billion-people-have-been-taken-out-extreme-poverty-20-years-world-should-aim
 |passage=But poverty’s scourge is fiercest below $1.25 (the average of the 15 poorest countries’ own poverty lines, measured in 2005 dollars and adjusted for '''differences''' in purchasing power): people below that level live lives that are poor, nasty, brutish and short.}}
-#: {{usex|There are three '''differences''' between these two pictures.|lang=en}}
-# {{context|countable|lang=en}} A [[disagreement]] or [[argument]].
+#: {{ux|en|There are three '''differences''' between these two pictures.}}
+# {{label|en|countable}} A [[disagreement]] or [[argument]].
 #: ''We have our little '''differences''', but we are firm friends.''
 #* Shakespeare
 #*: What was the '''difference'''? It was a contention in public.
 #* T. Ellwood
 #*: Away therefore went I with the constable, leaving the old warden and the young constable to compose their '''difference''' as they could.
-# {{context|countable|uncountable|lang=en}} Significant change in or effect on a situation or state.
+# {{label|en|countable|uncountable}} Significant change in or effect on a situation or state.
 #* '''1908''', {{w|Kenneth Grahame}}, ''{{w|The Wind in the Willows}}''
 #*: The line of the horizon was clear and hard against the sky, and in one particular quarter it showed black against a silvery climbing [[phosphorescence]] that grew and grew. At last, over the rim of the waiting earth the moon lifted with slow majesty till it swung clear of the horizon and rode off, free of [[moorings]]; and once more they began to see surfaces&mdash;meadows wide-spread, and quiet gardens, and the river itself from bank to bank, all softly [[disclosed]], all washed clean of mystery and terror, all radiant again as by day, but with a '''difference''' that was tremendous.
-#: {{usex|It just won't make much '''difference''' to me.|lang=en}}
-#: {{usex|It just won't make much of a '''difference''' to anyone.|lang=en}}
-# {{context|countable|lang=en}} The result of a [[subtraction]]; sometimes the [[absolute value]] of this result.
-# {{context|obsolete|lang=en}} Choice; preference.
+#: {{ux|en|It just won't make much '''difference''' to me.}}
+#: {{ux|en|It just won't make much of a '''difference''' to anyone.}}
+# {{label|en|countable}} The result of a [[subtraction]]; sometimes the [[absolute value]] of this result.
+# {{label|en|obsolete}} Choice; preference.
 #* Spenser
 #*: That now be chooseth with vile '''difference''' / To be a beast, and lack intelligence.
-# {{context|heraldry|lang=en}} An addition to a [[coat of arms]] to distinguish two people's [[bearing]]s which would otherwise be the same. See [[augmentation]] and [[cadency]].
-# {{context|logic|lang=en}} The quality or attribute which is added to those of the [[genus]] to constitute a [[species]]; a [[differentia]].
-# {{context|logic circuits|lang=en}} A [[Boolean]] operation which is [[TRUE]] when the two input variables are different but is otherwise FALSE; the [[XOR]] operation (<math>\scriptstyle A \overline B + \overline A B</math>).
-# {{context|relational algebra|lang=en}} the set of elements that are in one set but not another (<math>\scriptstyle A \overline B</math>).
+# {{label|en|heraldry}} An addition to a [[coat of arms]] to distinguish two people's [[bearing]]s which would otherwise be the same. See [[augmentation]] and [[cadency]].
+# {{label|en|logic}} The quality or attribute which is added to those of the [[genus]] to constitute a [[species]]; a [[differentia]].
+# {{label|en|logic circuits}} A [[Boolean]] operation which is [[TRUE]] when the two input variables are different but is otherwise FALSE; the [[XOR]] operation (<math>\scriptstyle A \overline B + \overline A B</math>).
+# {{label|en|relational algebra}} the set of elements that are in one set but not another (<math>\scriptstyle A \overline B</math>).
 
 ====Synonyms====
 * {{sense|characteristic of something that makes it different from something else}} [[departure]], [[deviation]], [[divergence]], [[disparity]]
@@ -228,7 +228,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|difference||lang=fro}}, from {
 ===Verb===
 {{en-verb|differenc}}
 
-# {{context|transitive|lang=en}} To distinguish or differentiate.
+# {{label|en|transitive}} To distinguish or differentiate.
 #: {{rfquote-sense|en}}
 
 ====Synonyms====
@@ -267,7 +267,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|difference||lang=fro}}, from {
 * {{l|fro|differance}}
 
 ===Etymology===
-{{etyl|la|fro}} {{term|differentia|lang=la}}
+{{etyl|la|fro}} {{m|la|differentia}}
 
 ===Noun===
 {{fro-noun|f}}
