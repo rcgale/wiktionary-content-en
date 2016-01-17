@@ -124,10 +124,10 @@
 ====Particle====
 {{head|bg|particle}}
 
-# {{context|informal|lang=bg}} {{non-gloss definition|used when giving something to someone, [[here you are]], [[take|take it]]}}
+# {{label|bg|informal}} {{non-gloss definition|used when giving something to someone, [[here you are]], [[take|take it]]}}
 #: {{ux|bg|'''На''' ти парите!|inline=1|Take the money!}}
 #: {{ux|bg|'''На''' ти!|inline=1|Take that!}}
-# {{context|informal|lang=bg}} {{non-gloss definition|used to express unexpectedness}}
+# {{label|bg|informal}} {{non-gloss definition|used to express unexpectedness}}
 #: {{ux|bg|Говорим за Мария и на — тя насреща.|inline=1|Speaking of Maria and here she is.}}
 
 ----
@@ -150,14 +150,14 @@
 ===Particle===
 {{head|mk|particle}}
 
-# {{context|rude|lang=mk}} [[here you are]] (handing someone something)
+# {{label|mk|rude}} [[here you are]] (handing someone something)
 
 ----
 
 ==Old Church Slavonic==
 
 ===Etymology===
-From {{inh|cu|sla-pro|*na}}, from {{etyl|ine-pro|cu}} {{m|ine-pro|*h₂en-}}. Cognates {{etyl|grc|-}} {{term|ἀνά||on, up|lang=grc}}.
+From {{inh|cu|sla-pro|*na}}, from {{etyl|ine-pro|cu}} {{m|ine-pro|*h₂en-}}. Cognates {{etyl|grc|-}} {{m|grc|ἀνά||on, up}}.
 
 ===Preposition===
 {{cu-prep}}
@@ -236,20 +236,20 @@ From {{inh|sh|sla-pro|*na}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*h₂no(H)}}. 
 ===Preposition===
 {{sh-preposition|head=на|c|na|na}}
 
-# {{context|with accusative|lang=sh}} {{l|en|to}}, {{l|en|on}}, {{l|en|onto}} {{gloss|with change of position, answering the question {{m|sh|kùda}}}}
-#: {{usex|ићи '''на''' концерт|t=to go to a concert|lang=sh|inline=1}}
-#: {{usex|ставити књигу '''на''' сто(л)|t=to put a book on the table|lang=sh|inline=1}}
-# {{context|with locative|lang=sh}} {{l|en|on}}, {{l|en|at}}, {{l|en|in}} {{gloss|without change of position, answering the question {{m|sh|gdjȅ}}/{{m|sh|gdȅ}}}}
-#: {{usex|књига је '''на''' столу|t=the book is on the table|lang=sh|inline=1}}
-#: {{usex|бити '''на''' концерту|t=to be at the concert|lang=sh|inline=1}}
-#: {{usex|бити '''на''' улици|t=to be in the street|lang=sh|inline=1}}
-# {{context|with accusative|lang=sh}} {{l|en|by}}, {{l|en|for}}, {{l|en|at}} {{gloss|in expressions with time}}
-#: {{usex|отићи некуда '''на''' пар дана|t=to go somewhere for a couple of days|lang=sh|inline=1}}
-#: {{usex|'''на''' љето/лето|t=next summer, the following summer|lang=sh|inline=1}}
-#: {{usex|'''на''' вр(иј)еме|t=on time|lang=sh|inline=1}}
-#: {{usex|бити плаћен '''на''' сат|t=to be paid by the hour|lang=sh|inline=1}}
-# {{context|with accusative|lang=sh}} {{non-gloss definition|to indicate a source of power or energy}}
-#: {{usex|подморница '''на''' атомски погон|t=nuclear-powered submarine|lang=sh|inline=1}}
+# {{label|sh|with accusative}} {{l|en|to}}, {{l|en|on}}, {{l|en|onto}} {{gloss|with change of position, answering the question {{m|sh|kùda}}}}
+#: {{ux|sh|ићи '''на''' концерт|t=to go to a concert|inline=1}}
+#: {{ux|sh|ставити књигу '''на''' сто(л)|t=to put a book on the table|inline=1}}
+# {{label|sh|with locative}} {{l|en|on}}, {{l|en|at}}, {{l|en|in}} {{gloss|without change of position, answering the question {{m|sh|gdjȅ}}/{{m|sh|gdȅ}}}}
+#: {{ux|sh|књига је '''на''' столу|t=the book is on the table|inline=1}}
+#: {{ux|sh|бити '''на''' концерту|t=to be at the concert|inline=1}}
+#: {{ux|sh|бити '''на''' улици|t=to be in the street|inline=1}}
+# {{label|sh|with accusative}} {{l|en|by}}, {{l|en|for}}, {{l|en|at}} {{gloss|in expressions with time}}
+#: {{ux|sh|отићи некуда '''на''' пар дана|t=to go somewhere for a couple of days|inline=1}}
+#: {{ux|sh|'''на''' љето/лето|t=next summer, the following summer|inline=1}}
+#: {{ux|sh|'''на''' вр(иј)еме|t=on time|inline=1}}
+#: {{ux|sh|бити плаћен '''на''' сат|t=to be paid by the hour|inline=1}}
+# {{label|sh|with accusative}} {{non-gloss definition|to indicate a source of power or energy}}
+#: {{ux|sh|подморница '''на''' атомски погон|t=nuclear-powered submarine|inline=1}}
 
 ===Interjection===
 {{sh-interjection|head=на!|c|na!|na!}}
@@ -266,7 +266,7 @@ From {{inh|sh|sla-pro|*na}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*h₂no(H)}}. 
 {{tg-adv|tr=na}}
 
 # [[not]]
-# {{context|informal|lang=tg}} [[no]]
+# {{label|tg|informal}} [[no]]
 
 ===See also===
 * {{l|tg|не|sc=Cyrl}} (ne)
