@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|enm|en}} {{m|enm|til}}, from {{etyl|ang|en}} {{m|ang|til||to, until}}, possibly from {{etyl|non|-}} {{m|non|til}}, both from {{etyl|gem-pro|en}} {{m|gem-pro|*tila-||goal}}, or {{etyl|gem-pro|en}} {{m|gem-pro|*til||to, towards}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*ád||near, at}}. Compare to {{etyl|ofs|-}} {{term|til|lang=ofs}}
+From {{etyl|enm|en}} {{m|enm|til}}, from {{etyl|ang|en}} {{m|ang|til||to, until}}, possibly from {{etyl|non|-}} {{m|non|til}}, both from {{etyl|gem-pro|en}} {{m|gem-pro|*tila-||goal}}, or {{etyl|gem-pro|en}} {{m|gem-pro|*til||to, towards}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*ád||near, at}}. Compare to {{etyl|ofs|-}} {{m|ofs|til}}
 <!--note that the OED says it is RELATED to the Old Norse til rather than derived from it. http://oxforddictionaries.com/definition/till-->
 
 ===Alternative forms===
@@ -11,7 +11,7 @@ From {{etyl|enm|en}} {{m|enm|til}}, from {{etyl|ang|en}} {{m|ang|til||to, until}
 ===Conjunction===
 {{en-con}}
 
-# {{context|nonstandard|lang=en}} [[until]], [[till]]
+# {{label|en|nonstandard}} [[until]], [[till]]
 #: {{quote-magazine
 |date=
 |year=c1390
@@ -45,7 +45,7 @@ From {{etyl|enm|en}} {{m|enm|til}}, from {{etyl|ang|en}} {{m|ang|til||to, until}
 ===Preposition===
 {{en-prep}}
 
-# {{context|nonstandard|lang=en}} [[until]], [[till]]
+# {{label|en|nonstandard}} [[until]], [[till]]
 #: {{quote-book
 |year=1425
 |year_published=
@@ -96,7 +96,7 @@ From {{etyl|enm|en}} {{m|enm|til}}, from {{etyl|ang|en}} {{m|ang|til||to, until}
 |url=
 |passage=Let him wander round and kids gone meddle him '''til''' he get to fighting again.
 }}
-# {{context|archaic|lang=en}} '''~ to''': as far as; down to; up to, until
+# {{label|en|archaic}} '''~ to''': as far as; down to; up to, until
 #: {{quote-book
 |year=1425
 |year_published=
@@ -207,7 +207,7 @@ From {{etyl|non|fo}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*tila-||goal}}, from 
 ===Preposition===
 {{head|fo|preposition}}
 
-# {{context|with accusative|or|with genitive|lang=fo}} [[to]], [[towards]]
+# {{label|fo|with accusative|or|with genitive}} [[to]], [[towards]]
 
 ====Derived terms====
 * {{l|fo|til-}}
@@ -240,9 +240,9 @@ From {{etyl|non|is}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*tila-||goal}}, from 
 ===Preposition===
 {{head|is|preposition}}
 
-# {{context|with genitive|lang=is}} [[to]], [[towards]]
-#: {{usex|Ég fer '''til''' Japans.|t=I'm going '''to''' Japan.|lang=is}}
-#: {{usex|Ég er með bréf '''til''' þín.|t=I have a letter [addressed] '''to''' you.|lang=is}}
+# {{label|is|with genitive}} [[to]], [[towards]]
+#: {{ux|is|Ég fer '''til''' Japans.|t=I'm going '''to''' Japan.}}
+#: {{ux|is|Ég er með bréf '''til''' þín.|t=I have a letter [addressed] '''to''' you.}}
 
 ====Derived terms====
 {{der3|{{l|is|allir vegir liggja til Rómar||all roads lead to Rome}}
@@ -341,7 +341,7 @@ From {{etyl|non|nn}}, from {{etyl|gem-pro|nn}} {{m|gem-pro|*tila-||goal}}, from 
 {{head|nn|preposition}}
 
 # [[to]] {{qualifier|indicating destination}}
-#: {{usex|Dei er på veg '''til''' fylkesgrensa.|t=They are on their way '''to''' the county border.|lang=nn}}
+#: {{ux|nn|Dei er på veg '''til''' fylkesgrensa.|t=They are on their way '''to''' the county border.}}
 # [[to]] {{qualifier|indicating purpose}}
 
 ----
@@ -358,7 +358,7 @@ From {{inh|ang|gem-pro|*tila-}}, whence also {{etyl|ofs|-}} {{m|ofs|til}}, {{ety
 {{head|ang|adjective}}
 
 # [[good]] {{gloss|morally good; competent; useful, etc.}}
-#: {{usex|'''Til''' sceal mid '''tilum'''.|t=The good shall be with the good.|lang=ang}}
+#: {{ux|ang|'''Til''' sceal mid '''tilum'''.|t=The good shall be with the good.}}
 
 ===Etymology 2===
 Possibly from {{etyl|non|ang}} {{m|non|til}}<ref>{{R:Online Etymology Dictionary|till}}</ref> though the OED has it as "Germanic" and related to {{etyl|non|-}} and to {{etyl|ofs|-}} {{m|ofs|til}}<ref>{{R:OED|till}}</ref> <!--http://oxforddictionaries.com/definition/till-->
@@ -367,15 +367,15 @@ Possibly from {{etyl|non|ang}} {{m|non|til}}<ref>{{R:Online Etymology Dictionary
 {{head|ang|preposition}}
 
 # [[to]], [[until]], [[unto]]
-#: {{usex|Ðá cueð '''til''' him ðe Hǽlend|t=Then quoth unto them the Savior.|lang=ang}}
+#: {{ux|ang|Ðá cueð '''til''' him ðe Hǽlend|t=Then quoth unto them the Savior.}}
 
 ====Noun====
 {{ang-noun|n|tilas}}
 
 # use, service, convenience
-#: {{usex|Gewritu secgaþ ðæt seó wiht sý mid moncynne miclum '''ticlum''' sweotol and gesýne, sundorcræft hafaþ.|t=Writings say that those beings were to mankind of great service; they clearly and obviously had special powers.|lang=ang}}
+#: {{ux|ang|Gewritu secgaþ ðæt seó wiht sý mid moncynne miclum '''ticlum''' sweotol and gesýne, sundorcræft hafaþ.|t=Writings say that those beings were to mankind of great service; they clearly and obviously had special powers.}}
 # goodness, kindness
-#: {{usex|Me on ðínum '''tile''' gelǽr ðæt ic teala cunne ðín sóðfæst weorc healdan.|t=Thy goodness teaches me that I should maintain your righteous work.|lang=ang}}
+#: {{ux|ang|Me on ðínum '''tile''' gelǽr ðæt ic teala cunne ðín sóðfæst weorc healdan.|t=Thy goodness teaches me that I should maintain your righteous work.}}
 
 ===References===
 <references/>
