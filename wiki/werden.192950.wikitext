@@ -92,7 +92,10 @@ From {{etyl|goh|gmh}} {{m|goh|werdan}}, from {{etyl|gem-pro|gmh}} {{m|gem-pro|*w
 * German: {{l|de|werden}}
 
 ==Middle Low German==
-{{gml-etyl-osx|werthan|to become|werþaną}}
+{{#if:werthan|===Etymology===
+From {{etyl|osx|gml}} {{term|werthan||to become|lang=osx}}{{#if:werþaną|, from {{etyl|gem-pro|gml}} {{m|gem-pro|*werþaną}}}}. 
+|}}
+
 ===Verb===
 {{head|gml|verb}}
 
