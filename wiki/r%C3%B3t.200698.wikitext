@@ -1,7 +1,7 @@
 ==Faroese==
 
 ===Etymology===
-From {{etyl|non|fo}} {{m|non|rót||root}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*wrōts}}, from {{etyl|ine-pro|fo}} {{m|ine-pro|*wrd-||root}}; compare with English {{m|en|wort}} and the Latin {{m|la|rādīx||root}}. Cognate with the Icelandic {{m|is|rót}}; Old English {{m|ang|rōt}} (whence the Middle English word {{m|enm|root||the underground part of a plant}} came, whence the English {{m|en|root}} came).
+From {{inh|fo|non|rót||root}}, from {{inh|fo|gem-pro|*wrōts}}, from {{inh|fo|ine-pro|*wréh₂ds||root}}; compare with English {{m|en|wort}} and the Latin {{m|la|rādīx||root}}. Cognate with the Icelandic {{m|is|rót}}; Old English {{m|ang|rōt}} (whence the Middle English word {{m|enm|root||the underground part of a plant}} came, whence the English {{m|en|root}} came).
 
 ===Pronunciation===
 * {{IPA|[ɹɔuːt]|lang=fo}}
@@ -15,8 +15,19 @@ From {{etyl|non|fo}} {{m|non|rót||root}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|
 {{fo-decl-noun-f12|r|ó|t|ø}}
 
 ====Derived terms====
-{{der3|lang=fo
-|rótafræ|rótakál|rótaslag|hvannrót|gularót|piparrót|sukurrót|reyðrót|sopprót|trærót|tannrót}}
+{{der3
+|{{l|fo|rótafræ}}
+|{{l|fo|rótakál}}
+|{{l|fo|rótaslag|g=n||specific root vegetable, type of root vegetable; root vegetable species}}
+|{{l|fo|hvannrót}}
+|{{l|fo|gularót|g=f||carrot}}
+|{{l|fo|piparrót|g=f||horseradish}}
+|{{l|fo|sukurrót}}
+|{{l|fo|reyðrót|g=f||beetroot}}
+|{{l|fo|sopprót|g=f||mycorrhiza}}
+|{{l|fo|trærót|g=f||tree root}}
+|{{l|fo|tannrót}}
+}}
 
 ====Related terms====
 * {{l|fo|urt}}
@@ -44,7 +55,7 @@ From {{etyl|non|fo}} {{m|non|rót||root}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|non|is}} {{m|non|rót||root}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*wrōts}}, from {{etyl|ine-pro|is}} {{m|ine-pro|*wrd-||root}}; compare with English {{m|en|wort}} and the Latin {{m|la|rādīx||root}}. Cognate with the Faroese {{m|fo|rót}}; Old English {{m|ang|rōt}} (whence the Middle English word {{m|enm|root||the underground part of a plant}} came, whence the English {{m|en|root}} came).
+From {{inh|is|non|rót||root}}, from {{inh|is|gem-pro|*wrōts}}, from {{inh|is|ine-pro|*wréh₂ds||root}}; compare with English {{m|en|wort}} and the Latin {{m|la|rādīx||root}}. Cognate with the Faroese {{m|fo|rót}}; Old English {{m|ang|rōt}} (whence the Middle English word {{m|enm|root||the underground part of a plant}} came, whence the English {{m|en|root}} came).
 
 ===Pronunciation===
 * {{IPA|/rouːt/|lang=is}}
@@ -53,21 +64,25 @@ From {{etyl|non|is}} {{m|non|rót||root}}, from {{etyl|gem-pro|is}} {{m|gem-pro|
 ===Noun===
 {{is-noun|f|rótar|rætur}}
 
-# {{label|is|plant}} [[root]]
+# {{lb|is|plant}} [[root]]
 # the [[roots]] of something, the [[beginning]] or [[origin]]
-#: '''''Rætur''' fjallsins eru [[grasi vaxinn|grasi vaxnar]].''
-#:: The '''foot''' of the mountain is covered with grass.
-# {{label|is|mathematics}} [[root]]
-# {{label|is|linguistics}} [[root]]
-#: ''Hvernig finnur maður '''rót''' nafnorða?''
-#:: How does one find the '''root''' of nouns?
+#: {{ux|is|'''Rætur''' fjallsins eru [[grasi vaxinn|grasi vaxnar]].|The '''foot''' of the mountain is covered with grass.}}
+# {{lb|is|mathematics}} [[root]]
+# {{lb|is|linguistics}} [[root]]
+#: {{ux|is|Hvernig finnur maður '''rót''' nafnorða?|How does one find the '''root''' of nouns?}}
 
 ====Declension====
 {{is-decl-noun-f-s3|r|ó|t}}
 
 ====Derived terms====
-{{der3|lang=is
-|breyta frá rótum|eiga rætur að rekja til|festa rætur|kalmusrót|kvaðratrót|undirrót}}
+{{der3
+|{{l|is|breyta frá rótum}}
+|{{l|is|eiga rætur að rekja til}}
+|{{l|is|festa rætur}}
+|{{l|is|kalmusrót|g=f||sweet flag, calamus}}
+|{{l|is|kvaðratrót|g=f||square root}}
+|{{l|is|undirrót}}
+}}
 
 ====Related terms====
 * {{l|is|jurt}}
@@ -77,6 +92,7 @@ From {{etyl|non|is}} {{m|non|rót||root}}, from {{etyl|gem-pro|is}} {{m|gem-pro|
 ==Old Irish==
 
 ===Etymology===
+{{rfe|lang=sga}}
 Cognate with {{etyl|cy|-}} {{m|cy|rhawd||course, career}}.
 
 ===Pronunciation===
@@ -92,6 +108,11 @@ Cognate with {{etyl|cy|-}} {{m|cy|rhawd||course, career}}.
 * Irish: {{l|ga|ród}}
 * Manx: {{l|gv|raad}}
 * Scottish Gaelic: {{l|gd|rathad}}
+
+===References===
+* {{R:DIL|35579|head=1 rót}}
+
+{{catlangcode|sga|Roads}}
 
 ----
 
