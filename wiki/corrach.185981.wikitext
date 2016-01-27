@@ -1,31 +1,75 @@
 ==Irish==
 
-===Adjective===
-{{head|ga|adjective|genitive singular masculine|corraigh|genitive singular feminine|corraí}}
+===Etymology 1===
+From {{inh|ga|sga|[[cuirrech]], [[currach]]|g=m||marsh, fen}}.
 
-# [[wavy]]
-# [[insecure]]
-# [[erratic]]
+====Noun====
+{{ga-noun|g=m|corraigh|corraigh}}
 
-====Declension====
+# {{lb|ga|geography}} wet [[bog]], [[marsh]]
+
+=====Declension=====
+{{ga-decl-m1|c|orrach|orraigh}}
+
+===Etymology 2===
+From {{inh|ga|sga|corrach}}.
+
+====Adjective====
+{{ga-adj|gsm=corraigh|gsf=corraí|pl=corracha|comp=corraí}}
+
+# [[uneven]], [[unsteady]]; [[uneasy]], [[unsettled]]
+# [[projecting]]; [[angular]], [[pointed]]
+
+=====Declension=====
 {{ga-decl-adj-1a|corr|a}}
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|insecure}} {{l|ga|neamhdhaingean}}
 * {{sense|erratic}} {{l|ga|taomach}}
 
 ===Mutation===
 {{ga mut cons|c|orrach}}
 
+===References===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|13675|head=cuirrech}}
+* {{R:DIL|12516}}
+
+----
+
+==Old Irish==
+
+===Etymology===
+From {{affix|sga|corr|-ach}}.
+
+===Adjective===
+{{head|sga|adjective}}
+
+# {{qualifier|of places, mountains, roads, etc.}} [[rough]], [[uneven]]
+# {{qualifier|of water, particurlarly the sea}} [[moving]], [[rough]], [[restless]]
+
+===Noun===
+{{head|sga|noun|g=f}}
+
+# [[projecting]] part, [[end]], [[corner]], [[peak]]
+
+===Mutation===
+{{sga-mutation|c|orrach}}
+
+===References===
+* {{R:DIL|12516}}
+
 ----
 
 ==Welsh==
 
-===Noun===
-{{cy-noun|m|corachod}}
+===Etymology===
+From {{affix|cy|cor|-ach}}.
 
-# [[dwarf]]
-# [[pygmy]]
+===Noun===
+{{cy-noun|m|corachod|pl2=corachiaid}}
+
+# [[dwarf]], [[pygmy]]
 
 ====Derived terms====
 * {{l|cy|corachaidd}}
@@ -34,8 +78,11 @@
 ====Related terms====
 * {{l|cy|cor}}
 
-====Mutation====
-{{cy-mut-c|orrach}}
+===Mutation===
+{{cy-mut-auto}}
+
+===References===
+* {{R:cy:GPC}}
 
 [[mg:corrach]]
 [[ru:corrach]]
