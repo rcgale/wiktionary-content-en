@@ -44,7 +44,7 @@ Singular instructive form of {{m|fi|pika-}}.
 ==Irish==
 
 ===Etymology===
-From {{inh|ga|mga|pían}}, from {{inh|ga|sga|pén}}, from {{etyl|la|ga}} {{m|la|poena||punishment, pain}}, from {{etyl|grc|ga}} {{m|grc|ποινή||penalty}}.
+From {{inh|ga|mga|pían}}, from {{inh|ga|sga|pén}}, from {{der|ga|ML.|pēna}}, from {{der|ga|la|poena||punishment, pain}}, from {{der|ga|grc|ποινή||penalty}}.
 
 ===Pronunciation===
 * {{IPA|/pʲiənˠ/|lang=ga}}
@@ -53,30 +53,49 @@ From {{inh|ga|mga|pían}}, from {{inh|ga|sga|pén}}, from {{etyl|la|ga}} {{m|la|
 {{ga-noun|g=f|péine|pianta}}
 
 # [[pain]]
-
+## pain of [[suspense]]
+# [[punishment]], [[penalty]]
+(Var: pl. ~acha; npl. ~a, gpl. ~)
 ====Declension====
 {{ga-decl-f2|p|ian|éine|pl=ianta|dat=éin|datoc=p}}
 
 ====Derived terms====
-{{der3|{{l|ga|pianmhar}}
-|{{l|ga|pianmhúchán}}
-|{{l|ga|pianpháis}}
-|{{l|ga|pianseirbhís}}
-|{{l|ga|pianúil}}}}
+{{der3
+|{{l|ga|cuid péine||penal ration of food; little or nothing}}
+|{{l|ga|[[pianmhar]], [[piantach]], [[piantúil]]||painful}}
+|{{l|ga|pianmhaolaí|g=m||anodyne}}
+|{{l|ga|pianaí||painfulness}}
+|{{l|ga|pianchíos|g=m||penal rent}}
+|{{l|ga|pianbhreith|g=f||sentence}}
+|{{l|ga|pianmhúchán|g=m||pain-killer}}
+|{{l|ga|pianmhúchach||pain-killing, analgesic}}
+|{{l|ga|pianpháis|g=f||anguish; agony of suspense}}
+|{{l|ga|pianseirbhís|g=f||penal servitude}}
+|{{l|ga|pianseirbhí|g=m||convict}}
+|{{l|ga|pianúil||punitive, penal; painful}}
+|{{l|ga|pianadóir|g=m||tormentor, punisher}}
+|{{l|ga|pianach||painful; full of aches and pains}}
+}}
 
 ===Verb===
 {{ga-verb|pres=pianann|fut=pianfaidh|vn=pianadh|pp=pianta}}
 
-# [[pain]]
-# [[punish]]
+# {{lb|ga|transitive}} [[pain]]; [[punish]]
 
 ====Conjugation====
 {{ga-conj-1a|p|ia|n|broad}}
 
+====Alternative forms====
+* {{l|ga|pianaigh}}
+
 ===Mutation===
 {{ga mut cons|p|ian}}
 
-[[Category:ga:Pain]]
+===References===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|34308|head=pían}}
+
+{{catlangcode|ga|Pain}}
 
 ----
 
@@ -115,6 +134,9 @@ From {{inh|ga|mga|pían}}, from {{inh|ga|sga|pén}}, from {{etyl|la|ga}} {{m|la|
 
 ==Manx==
 
+===Etymology===
+From {{inh|gv|mga|pían}}, from {{inh|gv|sga|pén}}, from {{der|gv|ML.|pēna}}, from {{der|gv|la|poena||punishment, pain}}, from {{der|gv|grc|ποινή||penalty}}.
+
 ===Noun===
 {{gv-noun|f}}
 
@@ -138,6 +160,9 @@ From {{inh|ga|mga|pían}}, from {{inh|ga|sga|pén}}, from {{etyl|la|ga}} {{m|la|
 ===Mutation===
 {{gv mut cons|p|ian}}
 
+===References===
+* {{R:DIL|34308|head=pían}}
+
 ----
 
 ==Romanian==
@@ -157,7 +182,7 @@ From {{inh|ga|mga|pían}}, from {{inh|ga|sga|pén}}, from {{etyl|la|ga}} {{m|la|
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{etyl|mga|gd}} {{m|mga|pían}}, from {{etyl|sga|gd}} {{m|sga|pén}}, from {{etyl|la|gd}} {{m|la|poena||punishment, pain}}, from {{etyl|grc|gd}} {{m|grc|ποινή||penalty}}
+From {{etyl|mga|gd}} {{m|mga|pían}}, from {{etyl|sga|gd}} {{m|sga|pén}}, from {{der|gd|ML.|pēna}}, from {{etyl|la|gd}} {{m|la|poena||punishment, pain}}, from {{etyl|grc|gd}} {{m|grc|ποινή||penalty}}
 
 ===Noun===
 {{gd-noun|g=f|gen=péin|pl=piantan|pl2=pianta|pl3=piantaidh}}
@@ -177,6 +202,10 @@ From {{etyl|mga|gd}} {{m|mga|pían}}, from {{etyl|sga|gd}} {{m|sga|pén}}, from 
 
 ====Derived terms====
 * {{l|gd|pianadair}}
+
+===References===
+* {{R:Dwelly}}
+* {{R:DIL|34308|head=pían}}
 
 [[br:pian]]
 [[et:pian]]
