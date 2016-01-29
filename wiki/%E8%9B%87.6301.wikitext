@@ -86,7 +86,7 @@ From {{etym|en|yue}} [[sir]].
 |goon=[[い]] (i) {{non-joyo-reading}}, [[じゃ]] (ja), [[た]] (ta) {{non-joyo-reading}}
 |kanon=[[い]] (i) {{non-joyo-reading}}, [[しゃ]] (sha) {{non-joyo-reading}}, [[た]] (ta) {{non-joyo-reading}}
 |kanyoon=[[だ]] (da)
-|kun=[[へび]] (hebi), [[くちなわ]] (kuchinawa)
+|kun=[[へび]] (hebi), [[へみ]] (hemi), [[くちなわ]] (kuchinawa)
 }}
 
 ====Compounds====
@@ -183,7 +183,9 @@ From {{etym|en|yue}} [[sir]].
 {{ja-kanjitab|yomi=k|へみ}}
 {{IPAchar|/pemi/}} → {{IPAchar|/ɸemi/}} → {{IPAchar|/hemi/}}
 
-From {{etyl|ojp|ja|sort=へみ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+From {{etyl|ojp|ja|sort=へみ}}.  The older form of modern ''hebi'' below.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Possibly related to, or influenced by, {{etyl|ojp|-}}-derived verb {{m|ja|食む|tr=hamu||to bite}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|へみ}}
@@ -197,10 +199,10 @@ From {{etyl|ojp|ja|sort=へみ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 {{ja-kanjitab|yomi=k|へび}}
 {{IPAchar|/hemi/}} → {{IPAchar|/hebi/}}
 
-From earlier ''hemi''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> The medial {{IPAchar|/m/}} lost its nasal quality to become a [[plosive]].
+From earlier ''hemi''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJS">{{R:Daijisen}}</ref> The medial {{IPAchar|/m/}} lost its nasal quality to become a [[plosive]].
 
 ====Pronunciation====
-{{ja-pron|yomi=k|へび|acc=1|acc_ref=NHK,DJR}}
+{{ja-pron|yomi=k|へび|acc=1|acc_ref=NHK,DJR,SMK5}}
 
 ====Noun====
 {{ja-noun|へび|ヘビ}}
@@ -214,10 +216,10 @@ From earlier ''hemi''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> The medial {{
 {{ja-kanjitab|yomi=k|くちなわ}}
 {{IPAchar|/kutinapa/}} → {{IPAchar|/kutinaɸa/}} → {{IPAchar|/kutinawa/}} → {{IPAchar|/kut͡ɕinawa/}}
 
-Compound of {{compound|lang=ja|sort=くちなわ|朽ち|tr1=kuchi|t1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|朽ちる}} ''kuchiru'', “to rot”|縄|tr2=nawa|t2=rope, cord}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Literally “rotten rope”, based on the appearance of a snake.
+Compound of {{compound|lang=ja|sort=くちなわ|朽ち|tr1=kuchi|t1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|朽ちる}} ''kuchiru'', “to rot”|縄|tr2=nawa|t2=rope, cord}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref><ref name="SMK5">{{R:Shinmeikai5}}</ref> Literally “rotten rope”, based on the appearance of a snake.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|くちなわ|dev=1|acc=0|acc_ref=DJR,NHK}}
+{{ja-pron|yomi=k|くちなわ|dev=1|acc=0|acc_ref=DJR,NHK,SMK5}}
 
 ====Noun====
 {{ja-noun|くちなわ|hhira=くちなは}}
@@ -226,7 +228,7 @@ Compound of {{compound|lang=ja|sort=くちなわ|朽ち|tr1=kuchi|t1=the {{m|ja|
 
 ===Etymology 4===
 {{ja-kanjitab|じゃ|yomi=o}}
-From {{etyl|ltc|ja|sort=しゃ'}} {{m|zh|蛇|tr=ye}}.
+From {{etyl|ltc|ja|sort=しゃ'}} {{m|zh|蛇|tr=zyæ}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=goon|じゃ|acc=1|acc_ref=DJR}}
@@ -235,6 +237,11 @@ From {{etyl|ltc|ja|sort=しゃ'}} {{m|zh|蛇|tr=ye}}.
 {{ja-noun|じゃ}}
 
 # [[snake]], [[large]] [[snake]], [[serpent]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|蛇口|じゃぐち}}: a [[faucet]] {{qualifier|from the way a curved faucet may look a bit like a curved snake, with the water emerging from its mouth}}
+{{der-bottom}}
 
 ===References===
 <references/>
