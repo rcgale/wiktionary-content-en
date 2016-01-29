@@ -64,8 +64,8 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|pytt||pit, hole in the ground
 * Armenian: {{t+|hy|հոր}}, {{t+|hy|փոս}}
 * Aromanian: {{t|rup|groapã|f}}
 * Bashkir: {{t|ba|соҡор|sc=Cyrl}}
-* Belarusian: {{t|be|я́ма|f|sc=Cyrl}}
-* Bulgarian: {{t+|bg|я́ма|f|sc=Cyrl}}
+* Belarusian: {{t|be|я́ма|f}}
+* Bulgarian: {{t+|bg|я́ма|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|坑|tr=kēng|sc=Hani}}, {{t+|cmn|穴|tr=xué|sc=Hani}}
 * Czech: {{t+|cs|jáma|f}}
@@ -92,7 +92,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|pytt||pit, hole in the ground
 * Korean: {{t+|ko|구멍|sc=Kore}}, {{t|ko|구덩이|sc=Kore}}
 * Latin: {{t|la|fovea|f}}, {{t+|la|puteus|m}}
 * Lubuagan Kalinga: {{t|knb|abut}}, {{t|knb|mamboka}}
-* Macedonian: {{t|mk|јама|f|sc=Cyrl}}
+* Macedonian: {{t|mk|јама|f}}
 * Malayalam: {{t+|ml|കുഴി}}
 * Maori: {{t+|mi|rua}}
 * Marathi: {{t|mr|खड्डा|m|tr=khadda|sc=Deva}}
@@ -105,7 +105,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|pytt||pit, hole in the ground
 * Russian: {{t+|ru|я́ма|f}}
 * Scottish Gaelic: {{t|gd|sloc|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|јама}}
+*: Cyrillic: {{t|sh|јама|sc=Cyrl}}
 *: Roman: {{t+|sh|jama|f}}
 * Slovak: {{t|sk|jama|f}}
 * Slovene: {{t+|sl|jama|f}}, {{t+|sl|brezno|n}}
@@ -115,7 +115,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|pytt||pit, hole in the ground
 * Tagalog: {{t|tl|hukay}}, {{t|tl|lubak}}
 * Thai: {{t+|th|หลุม|tr=lŭm|sc=Thai}}, {{t+|th|บ่อ|tr=bòr|sc=Thai}}
 * Turkish: {{t+|tr|çukur}}
-* Ukrainian: {{t+|uk|я́ма|f|sc=Cyrl}}
+* Ukrainian: {{t+|uk|я́ма|f}}
 * Vietnamese: {{t-needed|vi}}
 * Welsh: {{t|cy|pant|m}}
 {{trans-bottom}}
@@ -255,7 +255,7 @@ From {{etyl|nl|en}} {{m|nl|pit||kernel, core}}, from {{etyl|dum|en}} {{m|dum|pit
 {{trans-mid}}
 * Icelandic: {{t+|is|steinn|m}}
 * Italian: {{t+|it|osso|m}}
-* Macedonian: {{t|mk|семка|f|sc=Cyrl}}
+* Macedonian: {{t|mk|семка|f}}
 * Ojibwe: {{t|oj|okandaamin}}
 * Portuguese: {{t+|pt|caroço|m}}
 * Romanian: {{t+|ro|sâmbure|f}}
@@ -277,7 +277,7 @@ From {{etyl|nl|en}} {{m|nl|pit||kernel, core}}, from {{etyl|dum|en}} {{m|dum|pit
 * Greek: {{t+|el|κουκούτσι|n}}
 * Italian: {{t+|it|osso|m}}
 {{trans-mid}}
-* Macedonian: {{t|mk|јатка|f|sc=Cyrl}}
+* Macedonian: {{t|mk|јатка|f}}
 * Polish: {{t+|pl|pestka|f}}
 * Portuguese: {{t+|pt|caroço|m}}
 * Russian: {{t+|ru|ко́сточка|f}}
@@ -332,11 +332,11 @@ Shortening.
 
 ==Catalan==
 
+===Etymology===
+From {{der|ca|la|pectus}}. Compare Italian {{m|it|petto}}, Portuguese {{m|pt|peito}}, Romanian {{m|ro|piept}}, Spanish {{m|es|pecho}}.
+
 ===Pronunciation===
 * {{IPA|/ˈpit/|lang=ca}}
-
-===Etymology===
-From {{etyl|la|ca}} {{m|la|pectus}}. Compare Italian {{m|it|petto}}, Portuguese {{m|pt|peito}}, Romanian {{m|ro|piept}}, Spanish {{m|es|pecho}}.
 
 ===Noun===
 {{ca-noun|m}}
@@ -358,7 +358,7 @@ From {{etyl|la|ca}} {{m|la|pectus}}. Compare Italian {{m|it|petto}}, Portuguese 
 # A seed inside a fruit.
 # [[burner]] {{gloss|on a [[stove]]}}
 # [[spirit]], [[vigour]]
-#* 'Hij heeft pit' : He has something going for him.
+#: {{ux|nl|Hij heeft pit.|inline=1|He has something going for him.}}
 
 ====Derived terms====
 * {{l|nl|gaspit}}
@@ -372,22 +372,28 @@ From {{etyl|la|ca}} {{m|la|pectus}}. Compare Italian {{m|it|petto}}, Portuguese 
 ==Irish==
 
 ===Etymology===
-From {{etyl|sga|ga}} {{m|sga|pit}}, possibly related to {{m|sga|putte||pit, hollow}}, {{etyl|la|ga}} {{m|la|puteus}}.
+From {{inh|ga|sga|pit||pit, hollow; female pudenda}}, possibly related to {{m|sga|putte||pit, hollow}}, {{der|ga|la|puteus}}.
 
 ===Noun===
-{{ga-noun|pite|piteanna|g=f}}
+{{ga-noun|g=f|pite|piteanna}}
 
 # [[vulva]]
-# [[vagina]]
+# shell-less [[crab]]
 
 ====Declension====
 {{ga-decl-f2|p|it|ite|pl=iteanna}}
 
-====Synonyms====
-* {{sense|vagina}} {{l|ga|faighin}}
+====Related terms====
+* {{l|ga|faighin||vagina}}
 
 ===Mutation===
 {{ga mut cons|p|it}}
+
+===References===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|34383|head=pit, (put)}}
+
+{{catlangcode|ga|Anatomy|Crustaceans}}
 
 ----
 
@@ -423,22 +429,26 @@ From {{etyl|sga|ga}} {{m|sga|pit}}, possibly related to {{m|sga|putte||pit, holl
 # to [[put]]
 
 ====Synonyms====
-* [[putt]]
+* {{l|sco|putt}}
 
 ----
 
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{etyl|sga|gd}} {{m|sga|pit}}, possibly related to {{m|sga|putte||pit, hollow}}, {{etyl|la|gd}} {{m|la|puteus}}.
+From {{inh|gd|sga|pit||pit, hollow; female pudenda}}, possibly related to {{m|sga|putte||pit, hollow}}, {{der|gd|la|puteus}}.
 
 ===Noun===
 {{gd-noun|g=f|gen=pite|pl=pitean}}
 
 # [[female]] [[external]] [[genitalia]], [[vulva]]
-# {{label|gd|vulgar}} [[cunt]], [[pussy]]
+# {{lb|gd|vulgar}} [[cunt]], [[pussy]]
 
-[[Category:gd:Anatomy]]
+===References===
+* {{R:Dwelly}}
+* {{R:DIL|34383|head=pit, (put)}}
+
+{{catlangcode|gd|Anatomy}}
 
 [[an:pit]]
 [[az:pit]]
