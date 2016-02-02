@@ -143,7 +143,7 @@ From {{etyl|enm|en}} {{m|enm|child}}, from {{etyl|ang|en}} {{m|ang|ċild||child,
 * Hausa: {{t|ha|ya’ya}}
 * Hawaiian: {{t|haw|keiki}}
 * Hebrew: {{t+|he|יֶלֶד|m|tr=yéled|sc=Hebr}} (male child or child in general), {{t|he|יַלְדָּה|f|tr=yaldá|sc=Hebr}} (female child), {{t+|he|בֵּן|m|tr=ben|sc=Hebr}} (son), {{t+|he|בַּת|f|tr=bat|sc=Hebr}} (daughter)
-* Hindi: {{t+|hi|बच्चा|m|tr=baccā|sc=Deva}}, {{qualifier|son}} {{t+|hi|बेटा|m|tr=beṭā|sc=Deva}}, {{qualifier|daughter}} {{t+|hi|बेटी|f|tr=beṭī|sc=Deva}}, {{t|hi|शिशु|m|tr=śíśu|sc=Deva}}, {{t|hi|बालक|tr=bālak|sc=Deva}}
+* Hindi: {{t+|hi|बच्चा|m|sc=Deva}}, {{qualifier|son}} {{t+|hi|बेटा|m|sc=Deva}}, {{qualifier|daughter}} {{t+|hi|बेटी|f|sc=Deva}}, {{t|hi|शिशु|m|sc=Deva}}, {{t|hi|बालक|m|sc=Deva}}
 * Hungarian: {{t+|hu|gyerek}}, {{t+|hu|gyermek}}
 * Iban: {{t|iba|anak}}
 * Icelandic: {{t+|is|barn|n}}
@@ -159,13 +159,12 @@ From {{etyl|enm|en}} {{m|enm|child}}, from {{etyl|ang|en}} {{m|ang|ċild||child,
 * Italian: {{t+|it|bambino|m}}, {{t+|it|bambina|f}}, {{t+|it|figlio|m}}, {{t+|it|figlia|f}}
 * Jamaican Creole: {{t|jam|pikiny}}
 * Japanese: {{t+|ja|子供|tr=[[こども]], kodomo}}, {{t+|ja|子|tr=[[こ]], ko}}
-* Norman: {{t|nrf|êfant|m|f}}, {{t|nrf|avé|m}}, {{t|nrf|mousse|m|f}}
 * Judeo-Tat: {{t|jdt|гIэиль}}
 * Kalenjin: {{t|kln|lakwet}}
 * Kannada: {{t+|kn|ಹಸುಳೆ|sc=Knda}}, {{t+|kn|ಮಗು|sc=Knda}}
 * Kazakh: {{t+|kk|бала|sc=Cyrl}}
 * Khmer: {{t+|km|កូន|tr=koon|sc=Khmr}}
-* Korean: {{t+|ko|어린이|tr=eorini}}
+* Korean: {{t+|ko|어린이}}
 * Krio: {{t|kri|pickin}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|zarok}}
@@ -200,6 +199,7 @@ From {{etyl|enm|en}} {{m|enm|child}}, from {{etyl|ang|en}} {{m|ang|ċild||child,
 * Navajo: {{t|nv|awééʼ}}, {{t|nv|áłchíní|p}}
 * Ngarrindjeri: {{t|nay|porli}}
 * Nigerian Pidgin: {{t|pcm|pikin}}
+* Norman: {{t|nrf|êfant|m|f}}, {{t|nrf|avé|m}}, {{t|nrf|mousse|m|f}}
 * North Frisian:
 *: Föhr-Amrum: {{t|frr|jongen|n}}
 *: Mooring: {{t|frr|bjarn|n}}
@@ -226,7 +226,7 @@ From {{etyl|enm|en}} {{m|enm|child}}, from {{etyl|ang|en}} {{m|ang|ċild||child,
 * Romansch: {{t|rm|uffant|m}}, {{t|rm|affon|m}}, {{t|rm|unfànt|m}}, {{t|rm|unfant|m}}, {{t|rm|iffaunt|m}}
 * Russian: {{t+|ru|ребёнок|m}}, {{t+|ru|дитя́|n}}, {{t+|ru|ча́до|n}} {{qualifier|archaic, humorous}}
 * Samogitian: {{t|sgs|vāks|m}}
-* Sanskrit: {{t|sa|शिशु|tr=śíśu}}, {{t|sa|बालक|tr=bālaka|sc=Deva}}
+* Sanskrit: {{t|sa|शिशु|m}}, {{t|sa|बालक|m|sc=Deva}}
 * Santali: {{t|sat|ᱜᱳᱱ|tr=hon|sc=Olck}}
 * Scots: {{t|sco|bairn}}
 * Scottish Gaelic: {{t|gd|pàisde|m}}, {{t|gd|leanabh|m}}
@@ -273,7 +273,7 @@ From {{etyl|enm|en}} {{m|enm|child}}, from {{etyl|ang|en}} {{m|ang|ċild||child,
 * West Frisian: {{t+|fy|bern|n}}
 * Wolof: {{t+|wo|xale}}, {{t|wo|gune}}
 * Xhosa: {{t|xh|umntwana}}
-* Yiddish: {{t|yi|קינד|n|tr=kind}}, {{t|yi|קינדער|p|tr=kinder}}
+* Yiddish: {{t|yi|קינד|n}}
 * Yoruba: {{t|yo|o̩mo̩}}, {{t|yo|èwe}}
 * Zazaki: {{t|zza|qeç}}
 * Zulu: {{t|zu|umntwana|c1|c2}}, {{t|zu|ingane|c9|c10}}
