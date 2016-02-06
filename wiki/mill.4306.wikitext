@@ -378,7 +378,7 @@ From the noun {{term|#Noun|mill}}.
 ==Albanian==
 
 ===Etymology===
-From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*mis-lo}} (regular sl > Alb. /ll/), from {{etyl|ine-pro|sq}} {{m|ine-pro|*mois}} 'sheep, hide; leatherwork'. Compare Old High German {{m|goh|meisa||baggage}}.
+From {{inh|sq|sqj-pro|*mis-lo}} (regular sl > Alb. /ll/), from {{der|sq|ine-pro|*mois||sheep, hide; leatherwork}}. Compare Old High German {{m|goh|meisa||baggage}}.
 
 ===Noun===
 {{sq-noun|m|mije|milli|mijet}}
@@ -393,7 +393,7 @@ From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*mis-lo}} (regular sl > Alb. /ll/), from {{
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{m|la|milium}}.
+From {{inh|ca|la|milium}}.
 
 ===Pronunciation===
 * {{IPA|/ˈmiʎ/|lang=ca}}
@@ -407,29 +407,45 @@ From {{etyl|la|ca}} {{m|la|milium}}.
 
 ==Irish==
 
-===Etymology===
-{{rfe|lang=ga}}
-
 ===Pronunciation===
 * {{IPA|[mʲiːlʲ]|[mʲɪlʲ]|lang=ga}}
 
-===Verb===
+===Etymology 1===
+From {{inh|ga|sga|millid||spoils, ruins, destroys}}
+
+====Verb====
 {{ga-verb|pres=milleann|fut=millfidh|vn=milleadh|pp=millte}}
 
-# [[spoil]]
+# {{lb|ga|ambitransitive}} [[spoil]]; [[mar]], [[ruin]]
+## [[ravish]]
 
-====Conjugation====
+=====Conjugation=====
 {{ga-conj-1a|m|il|l|slender}}
 
+===Etymology 2===
+
+====Noun====
+{{ga-noun|g=f|mille|milleanna}}
+
+# {{alternative form of|meill||flabby, loose, skin; blubber lip; unshapely mouth|lang=ga}}
+# {{lb|ga|botany}} [[pendant]] [[bud]] or [[flower]]
+
+=====Declension=====
+{{ga-decl-f2|m|ill|ille|pl=illeanna}}
+
 ===Mutation===
-{{ga mut cons|m|ill}}
+{{ga-mut-cons|m|ill}}
+
+===References===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|32253|head=millid}}
 
 ----
 
 ==Manx==
 
 ===Etymology===
-From {{etyl|sga|gv}} {{m|sga|mil}}.
+From {{inh|gv|sga|mil}}.
 
 ===Noun===
 {{gv-noun|m|millyn|molley}}
@@ -437,7 +453,10 @@ From {{etyl|sga|gv}} {{m|sga|mil}}.
 # [[honey]]
 
 ===Mutation===
-{{gv mut cons|m|ill}}
+{{gv-mut-cons|m|ill}}
+
+===References===
+* {{R:DIL|32220|head=mil}}
 
 ----
 
@@ -447,7 +466,7 @@ From {{etyl|sga|gv}} {{m|sga|mil}}.
 * {{IPA|/miːʎ/|lang=gd}}
 
 ===Etymology 1===
-{{rfe|lang=gd}}
+From {{inh|gd|sga|millid||spoils, ruins, destroys}}
 
 ====Verb====
 {{gd-verb|past=mhill|fut=millidh|vn=milleadh|pp=millte}}
@@ -459,8 +478,12 @@ From {{etyl|sga|gv}} {{m|sga|mil}}.
 ====Noun====
 {{head|gd|noun form|g=m}}
 
-# {{genitive singular of|meall|lang=gd}}
-# {{plural of|meall|lang=gd}}
+# {{inflection of|meall||gen|s|lang=gd}}
+# {{inflection of|meall||p|lang=gd}}
+
+===References===
+* {{R:Dwelly}}
+* {{R:DIL|32253|head=millid}}
 
 ----
 
@@ -472,7 +495,7 @@ From {{etyl|sga|gv}} {{m|sga|mil}}.
 ===Noun===
 {{head|wrh|noun}}
 
-# {{label|wrh|anatomy}} [[eye]]
+# {{lb|wrh|anatomy}} [[eye]]
 
 [[ca:mill]]
 [[cs:mill]]
