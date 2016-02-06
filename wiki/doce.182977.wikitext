@@ -4,12 +4,12 @@
 * {{l|an|dotze}}
 
 ===Etymology===
-From {{etyl|la|an}} {{m|la|duodecim}}.
+From {{inh|an|la|duodecim}}.
 
 ===Numeral===
 {{head|an|numeral}}
 
-# {{label|an|cardinal}} [[twelve]]
+# {{lb|an|cardinal}} [[twelve]]
 
 ----
 
@@ -20,12 +20,12 @@ From {{etyl|la|an}} {{m|la|duodecim}}.
 * {{l|ast|dolce}}
 
 ===Etymology===
-From {{etyl|la|ast}} {{m|la|duodecim}}.
+From {{inh|ast|la|duodecim}}.
 
 ===Numeral===
 {{ast-num-card}}
 
-# {{label|ast|cardinal}} [[twelve]]
+# {{lb|ast|cardinal}} [[twelve]]
 
 ====Derived terms====
 * {{l|ast|docenu}}
@@ -36,15 +36,15 @@ From {{etyl|la|ast}} {{m|la|duodecim}}.
 {{cardinalbox|gl|11|12|13|once|trece|ord=duodécimo}}
 
 ===Etymology 1===
-From {{etyl|la|gl}} {{m|la|duodecim}}.
+From {{inh|gl|la|duodecim}}.
 
 ====Numeral====
 {{gl-num-card}}
 
-# {{label|gl|cardinal}} [[twelve]]
+# {{lb|gl|cardinal}} [[twelve]]
 
 ===Etymology 2===
-From {{etyl|la|gl}} {{m|la|dulcis||sweet}}.
+From {{inh|gl|la|dulcis||sweet}}.
 
 ====Adjective====
 {{gl-adj|f=doce}}
@@ -87,7 +87,7 @@ From {{etyl|la|gl}} {{m|la|dulcis||sweet}}.
 * {{l|roa-opt|doçe}}
 
 ===Etymology===
-From {{etyl|la|roa-opt}} {{m|la|dulcis||sweet}}, from {{etyl|ine-pro|roa-opt}} {{m|ine-pro|*dl̥kú-||sweet}}.
+From {{inh|roa-opt|la|dulcis||sweet}}, from {{der|roa-opt|ine-pro|*dl̥kú-||sweet}}.
 
 ===Pronunciation===
 * {{IPA|/ˈdo.t͡se/|lang=roa-opt}}
@@ -112,7 +112,7 @@ From {{etyl|la|roa-opt}} {{m|la|dulcis||sweet}}, from {{etyl|ine-pro|roa-opt}} {
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|roa-opt|pt}} {{m|roa-opt|doce}}, from {{etyl|la|pt}} {{m|la|dulcis||sweet}}, from {{etyl|ine-pro|pt}} {{m|ine-pro|*dl̥kú-||sweet}}. Compare {{etyl|gl|-}} {{m|gl|doce}}, {{etyl|es|-}} {{m|es|dulce}}, {{etyl|ca|-}} {{m|ca|dolç}}, {{etyl|oc|-}} {{m|oc|doç}}, {{etyl|fr|-}} {{m|fr|doux}}, {{etyl|it|-}} {{m|it|dolce}} and {{etyl|ro|-}} {{m|ro|dulce}}.
+From {{inh|pt|roa-opt|doce}}, from {{inh|pt|la|dulcis||sweet}}, from {{der|pt|ine-pro|*dl̥kú-||sweet}}. Compare {{etyl|gl|-}} {{m|gl|doce}}, {{etyl|es|-}} {{m|es|dulce}}, {{etyl|ca|-}} {{m|ca|dolç}}, {{etyl|oc|-}} {{m|oc|doç}}, {{etyl|fr|-}} {{m|fr|doux}}, {{etyl|it|-}} {{m|it|dolce}} and {{etyl|ro|-}} {{m|ro|dulce}}.
 
 ===Pronunciation===
 * {{a|PT}} {{IPA|/ˈdo.sɨ/|lang=pt}}
@@ -139,14 +139,13 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|doce}}, from {{etyl|la|pt}} {{m|la|dulcis||
 {{seeCites|lang=pt}}
 
 ===Related terms===
-{{top2}}
-* {{l|pt|adoçado}}
-* {{l|pt|adoçar}}
-* {{l|pt|adocicado}}
-{{mid2}}
-* {{l|pt|doçaria}}
-* {{l|pt|doceiro}}
-{{bottom}}
+{{rel3
+|{{l|pt|adoçado}}
+|{{l|pt|adoçar}}
+|{{l|pt|adocicado}}
+|{{l|pt|doçaria}}
+|{{l|pt|doceiro}}
+}}
 
 {{catlangcode|pt|Sweets|Taste}}
 
@@ -156,7 +155,7 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|doce}}, from {{etyl|la|pt}} {{m|la|dulcis||
 {{cardinalbox|es|11|12|13|once|trece|ord=duodécimo}}
 
 ===Etymology===
-From {{etyl|osp|es}} {{m|osp|doze, dodze}} from {{etyl|la|es}} {{m|la|duodecim}}.
+From {{inh|es|osp|doze}}, {{m|osp|dodze}} from {{inh|es|la|duodecim}}.
 
 ===Pronunciation===
 * {{a|ceseo|ceceo|Peru}} {{IPA|/ˈdo.θe/|lang=es}}
@@ -165,7 +164,7 @@ From {{etyl|osp|es}} {{m|osp|doze, dodze}} from {{etyl|la|es}} {{m|la|duodecim}}
 ===Cardinal numeral===
 {{head|es|numeral}}
 
-# {{label|es|cardinal}} [[twelve]]
+# {{lb|es|cardinal}} [[twelve]]
 
 ====Related terms====
 * {{l|es|doceno}}/{{l|es|docena}}
