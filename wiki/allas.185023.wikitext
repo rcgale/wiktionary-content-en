@@ -88,7 +88,7 @@ A {{etyl|gem|fi}} loan, compare Proto-Germanic {{m|gem-pro|*aldōn}} (whence eg.
 ==Irish==
 
 ===Etymology===
-From {{etyl|sga|ga}} {{m|sga|allas||perspiration}}.
+From {{inh|ga|sga|allas||perspiration}}, from {{inh|ga|cel-pro|*alnostus}}, from {{der|ga|ine-pro|*h₂elh₁-||heat}}.
 
 ===Noun===
 {{ga-noun|g=m|allais|-}}
@@ -103,7 +103,7 @@ From {{etyl|sga|ga}} {{m|sga|allas||perspiration}}.
 * {{l|ga|faireog allais||sweat gland}}
 
 ===Mutation===
-{{ga mut vowel}}
+{{ga-mut-vowel}}
 
 ===References===
 * {{R:ga:ODonaill}}
@@ -116,7 +116,7 @@ From {{etyl|sga|ga}} {{m|sga|allas||perspiration}}.
 ==Old Irish==
 
 ===Etymology===
-{{inh|sga|cel-pro|*alnostus}}, from {{der|sga|ine-pro|*h₂elh₁-||heat}}. Cognate with {{m|grc|ἀλέᾱ||body heat, warmth}}.
+From {{inh|sga|cel-pro|*alnostus}}, from {{der|sga|ine-pro|*h₂elh₁-||heat}}. Cognate with {{m|grc|ἀλέᾱ||body heat, warmth}}.
 
 ===Pronunciation===
 * {{IPA|/ˈal͈as/|lang=sga}}
@@ -143,7 +143,7 @@ From {{etyl|sga|ga}} {{m|sga|allas||perspiration}}.
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{etyl|sga|gd}} {{m|sga|allas||perspiration}}.
+From {{inh|gd|sga|allas||perspiration}}, from {{inh|ga|cel-pro|*alnostus}}, from {{der|ga|ine-pro|*h₂elh₁-||heat}}.
 
 ===Noun===
 {{gd-noun|g=m|gen=allais|pl=-}}
@@ -164,8 +164,8 @@ From {{etyl|sga|gd}} {{m|sga|allas||perspiration}}.
 ===Pronoun===
 {{head|sv|pronoun}}
 
-# [[everybody's]]; {{genitive singular of|alla|lang=sv}}
-#: {{ux|sv|'''Allas''' ansvar blir ingens.|t=Everybody's responsibility becomes nobody's.}}
+# [[everybody's]]; {{inflection of|alla||gen|s|lang=sv}}
+#: {{ux|sv|'''Allas''' ansvar blir ingens.|Everybody's responsibility becomes nobody's.}}
 
 [[br:allas]]
 [[de:allas]]
