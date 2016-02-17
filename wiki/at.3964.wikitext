@@ -3,7 +3,7 @@
 {{wikipedia|AT}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{m|enm|at}}, from {{etyl|ang|en}} {{m|ang|æt||at, near, by, toward}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*at||at, near, to}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*ád||near, at}}. Cognate with {{etyl|sco|-}} {{m|sco|at||at}}, {{etyl|frr|-}} {{m|frr|äät}}, {{m|frr|äit}}, {{m|frr|et}}, {{m|frr|it||at}}, {{etyl|da|-}} {{m|da|at||to}}, {{etyl|fo|-}} {{m|fo|at||at, to, toward}}, {{etyl|no|-}} {{m|no|åt||to}}, {{etyl|sv|-}} {{m|sv|åt||for, toward}}, {{etyl|is|-}} {{m|is|að||to, towards}}, {{etyl|got|-}} {{m|got|𐌰𐍄||at}}, {{etyl|la|-}} {{m|la|ad||to, near}}.
+From {{inh|en|enm|at}}, from {{inh|en|ang|æt||at, near, by, toward}}, from {{inh|en|gem-pro|*at||at, near, to}}, from {{inh|en|ine-pro|*ád||near, at}}. Cognate with {{etyl|sco|-}} {{m|sco|at||at}}, {{etyl|frr|-}} {{m|frr|äät}}, {{m|frr|äit}}, {{m|frr|et}}, {{m|frr|it||at}}, {{etyl|da|-}} {{m|da|at||to}}, {{etyl|fo|-}} {{m|fo|at||at, to, toward}}, {{etyl|no|-}} {{m|no|åt||to}}, {{etyl|sv|-}} {{m|sv|åt||for, toward}}, {{etyl|is|-}} {{m|is|að||to, towards}}, {{etyl|got|-}} {{m|got|𐌰𐍄||at}}, {{etyl|la|-}} {{m|la|ad||to, near}}.
 
 ===Pronunciation===
 * {{qualifier|stressed}} {{enPR|ăt}}, {{IPA|/æt/|lang=en}}
@@ -235,10 +235,10 @@ From {{etyl|enm|en}} {{m|enm|at}}, from {{etyl|ang|en}} {{m|ang|æt||at, near, b
 {{trans-top|the @ symbol}}
 * Armenian: {{t|hy|շնիկ}}
 * Georgian: {{t|ka|ძაღლუკა}}
-{{trans-mid}}
 * Greek: {{t+|el|παπάκι|n}}
 * Italian: {{t+|it|chiocciola|f}}
 * Polish: {{t+|pl|małpa|f}}
+{{trans-mid}}
 * Russian: {{t+|ru|соба́чка}}
 * Spanish: {{t+|es|arroba|}}
 * Swedish: {{t+|sv|snabel-a|n}}
@@ -393,40 +393,44 @@ From {{etyl|la|fur}} {{m|la|actus}}; cf. Italian {{m|it|atto}}.
 
 ==Irish==
 
-===Etymology===
-From {{etyl|sga|ga}} {{m|sga|att||swelling, protuberance, tumour}}.
-
 ===Pronunciation===
 * {{IPA|/at̪ˠ/|lang=ga}}
 
-===Noun===
+===Etymology 1===
+From {{inh|ga|sga|att||swelling, protuberance, tumour}}.
+
+====Noun====
 {{head|ga|noun|g=m|genitive as substantive|ait|genitive as verbal noun|ata|plural|atanna}}
 
 # [[swelling]]
 # {{verbal noun of|at|lang=ga}}
 
-====Declension====
+=====Declension=====
 {{ga-decl-m1|a|t|it|pl=tanna|strong=yes}}
 
-===Verb===
+===Etymology 2===
+From {{inh|ga|sga|attaid||swells, dilates, increases|pos=v}}, from {{m|sga|att||swelling, protuberance, tumour}}.
+
+====Verb====
 {{ga-verb|pres=atann|fut=atfaidh|vn=at|pp=ata}}
 
-# [[swell]]
-# [[bloat]]
-# {{qualifier|of sea}} [[heave]]
+# {{lb|ga|intransitive}} [[swell]]
+# {{lb|ga|intransitive}} [[bloat]]
+# {{lb|ga|intransitive|of sea}} [[heave]]
 
-====Conjugation====
+=====Conjugation=====
 {{ga-conj-1a|a||t|broad|vn=at}}
 
-====Synonyms====
-* {{sense|to swell}} {{l|ga|borr}}
+=====Synonyms=====
+* {{sense|swell}} {{l|ga|borr}}
 
 ===Mutation===
-{{ga mut vowel}}
+{{ga-mut-vowel}}
 
 ===References===
-* {{R:ga:ODonaill}}
+* {{R:ga:Ó Dónaill}}
 * {{R:DIL|4925|head=att}}
+* {{R:DIL|4929|head=attaid}}
 
 ----
 
@@ -590,28 +594,35 @@ From {{etyl|azc-nah-pro|ppl}} {{m|azc-nah-pro|*ātla}}, from {{etyl|azc-pro|ppl}
 
 ==Scottish Gaelic==
 
-===Etymology===
-From {{etyl|sga|gd}} {{m|sga|att}}.
+===Etymology 1===
+From {{inh|gd|sga|att}}.
 
-===Noun===
+====Noun====
 {{gd-noun|g=m}}
 
 # [[swelling]], [[tumour]]
 # [[protuberance]], [[prominence]]
 
-====Derived terms====
-{{der3|{{l|gd|at-bràghad||quinsy}}
+=====Derived terms=====
+{{der3
+|{{l|gd|at-bràghad||quinsy}}
 |{{l|gd|at-chuisle||aneurism}}
 |{{l|gd|at-fhuachd||chilblain}}
-|{{l|gd|at-reum||swelling in the back of the mouth}}}}
+|{{l|gd|at-reum||swelling in the back of the mouth}}
+}}
 
-===Verb===
+===Etymology 2===
+From {{inh|ga|sga|attaid||swells, dilates, increases|pos=v}}, from {{m|sga|att||swelling, protuberance, tumour}}.
+
+====Verb====
 {{head|gd|verb|past|dh'at|future|ataidh|verbal noun|at|or|atadh|past participle|athte}}
 
 # [[swell]], [[fester]], [[puff up]], become [[tumid]]
 
 ===References===
 * {{R:Dwelly}}
+* {{R:DIL|4925|head=att}}
+* {{R:DIL|4929|head=attaid}}
 
 ----
 
