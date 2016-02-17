@@ -1,15 +1,14 @@
 ==Latin==
-{{wikipedia|lang=la}}
 
 ===Etymology===
 {{PIE root|la|dem}}
-From {{etyl|itc-pro|la}} {{m|itc-pro|*domos}}, from {{etyl|ine-pro|la}} {{m|ine-pro|*dṓm||house, home}}, from root {{m|ine-pro|*dem-||to build}}. Cognates include Ancient Greek {{m|grc|δόμος}}, Albanian {{m|sq|dhomë||a chamber, a room}}, Avestan {{m|ae|𐬨𐬀𐬛|tr=dam-}} Sanskrit {{m|sa|दम|tr=dáma|sc=Deva}} and Proto-Slavic {{m|sla-pro|*domъ}}. The same [[Proto-Indo-European]] root also gave Old English {{m|ang|timber||building, act of building}}; see modern English {{m|en|timber}}.
+From {{inh|la|itc-pro|*domos}}, from {{inh|la|ine-pro|*dṓm||house, home}}, from root {{m|ine-pro|*dem-||to build}}. Cognates include Ancient Greek {{m|grc|δόμος}}, Albanian {{m|sq|dhomë||a chamber, a room}}, Avestan {{m|ae|𐬨𐬀𐬛|tr=dam-}} Sanskrit {{m|sa|दम|tr=dáma|sc=Deva}} and Proto-Slavic {{m|sla-pro|*domъ}}. The same [[Proto-Indo-European]] root also gave Old English {{m|ang|timber||building, act of building}}; see modern English {{m|en|timber}}.
 
 ===Pronunciation===
-* {{la-pronunc|domus|eccl=1}}
+* {{la-pronunc|eccl=1}}
 
 ===Noun===
-{{la-noun-multidecl|domus|domus|domūs|domi|domī|f|fourth|second}}
+{{la-noun|domus||domūs|gen2=domī|f|fourth|decl2=second}}
 
 # [[house]], [[home]]
 #* Motto of [[w:Methodist Ladies' College, Melbourne|Methodist Ladies' College, Melbourne]]
@@ -22,40 +21,41 @@ From {{etyl|itc-pro|la}} {{m|itc-pro|*domos}}, from {{etyl|ine-pro|la}} {{m|ine-
 # [[native]] place, one's [[country]] or [[home]] (confer [[patria]])
 # [[household]], [[family]], [[race]]
 
+====Usage notes====
+* '''Domus''' is one of three common nouns that take the [[locative case]], the other two being [[rus#Latin|rus]] and [[humus#Latin|humus]]. It is irregular in that it has a mix of second and fourth declension forms, the second declension forms being more commonly used in place constructions.
+
 ====Declension====
 {{la-decl-irreg|noun=1|domus}}
-
-====Derived terms====
-* {{l|la|domesticus}}
-* {{l|la|domuncula}}
-* [[domus equestris]]
-* [[domi]] (''adverbial form''; at home, in the house)
-* [[domi habeo aliquid]] (''colloquial''; I have something at home, I have something in abundance, I am provided with something)
-* [[domum]] (''adverbial form''; home, homewards, to the house)
-* [[domo]] (''adverbial form''; from home, out of the house; also rarely used in the same sense as ''[[domi]]''; at home, in the house)
-* [[extra domum]] (placed outside of the house; refers to a possible result of Catholic ecclesiastical legal proceedings when the culprit is removed from being part of a group like a monastery)
-* [[pro domo]] (for one’s own home or house; serving the interests of a given perspective or for the benefit of a given group)
-
-====See also====
-{{top2}}
-* [[aedes|aedēs]]
-* [[aedificium]]
-* [[casa#Latin|casa]]
-* [[domicilium]]
-* [[habitatio|habitātiō]]
-{{mid2}}
-* [[mansio|mansiō]]
-* [[moles|mōlēs]]
-* [[sedes|sēdēs]]
-* [[tectum|tēctum]]
-* [[tugurium]]
-{{bottom}}
 
 ====Synonyms====
 * {{jump|s|is|house}} [[aedes|aedēs]], [[casa#Latin|casa]]
 
-====Usage notes====
-* '''Domus''' is one of three common nouns that take the [[locative case]], the other two being [[rus#Latin|rus]] and [[humus#Latin|humus]]. It is irregular in that it has a mix of second and fourth declension forms, the second declension forms being more commonly used in place constructions.
+====Related terms====
+{{col-top|2}}
+* {{l|la|aedēs}}
+* {{l|la|aedificium}}
+* {{l|la|casa}}
+* {{l|la|domicilium}}
+* {{l|la|habitātiō}}
+* {{l|la|mansiō}}
+* {{l|la|mōlēs}}
+* {{l|la|sēdēs}}
+* {{l|la|tēctum}}
+* {{l|la|tugurium}}
+{{col-bottom}}
+
+====Derived terms====
+{{col-top|2}}
+* {{l|la|domesticus}}
+* {{l|la|domuncula}}
+* {{l|la|domus equestris}}
+* {{l|la|domī|pos=adverbial form||at home, in the house}}
+* {{l|la|domī habeō|pos=colloquial||I have at home, I have in abundance, I am provided with}}
+* {{l|la|domum|pos=adverbial form||home, homewards, to the house}}
+* {{l|la|domō|pos=adverbial form||from home, out of the house; at home, in the house}}
+* {{l|la|extrā domum||placed outside of the house; refers to a possible result of Catholic ecclesiastical legal proceedings when the culprit is removed from being part of a group like a monastery}}
+* {{l|la|prō domō||for one’s own home or house; serving the interests of a given perspective or for the benefit of a given group}}
+{{col-bottom}}
 
 ====Descendants====
 * Italian: {{l|it|duomo}}
@@ -63,10 +63,8 @@ From {{etyl|itc-pro|la}} {{m|itc-pro|*domos}}, from {{etyl|ine-pro|la}} {{m|ine-
 * Sicilian: {{l|scn|domu}}
 * Spanish: {{l|es|duemo}}
 
-[[Category:Latin nouns]]
-[[Category:Latin feminine nouns in the fourth declension]]
-
-[[Category:Latin irregular nouns]]
+====See also====
+* {{pedia|lang=la|domus}}
 
 ----
 
