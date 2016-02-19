@@ -1,7 +1,7 @@
 ==Faroese==
 
 ===Etymology===
-From {{etyl|non|fo}} {{m|non|hvítr}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*hwītaz}}, ultimately from {{etyl|ine-pro|fo}} {{m|ine-pro|*ḱweytos}}.
+From {{inh|fo|non|hvítr}}, from {{inh|fo|gem-pro|*hwītaz}}, ultimately from {{inh|fo|ine-pro|*ḱweytos}}.
 
 ===Pronunciation===
 * {{IPA|[ˈkvʊiːjtʊɹ]|lang=fo}}
@@ -18,15 +18,17 @@ From {{etyl|non|fo}} {{m|non|hvítr}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*hw�
 * {{l|fo|hvítligur}}
 
 ====Related terms====
-* {{l|fo|gulur}}
-* {{l|fo|reyður}}
-* {{l|fo|grønur}}
-* {{l|fo|bláur}}
-* {{l|fo|brúnur}}
-* {{l|fo|gráur}}
-* {{l|fo|svartur}}
-* {{l|fo|litur}}
-* {{l|fo|silvurlittur}}
+{{rel3
+|{{l|fo|gulur||yellow}}
+|{{l|fo|reyður||red}}
+|{{l|fo|grønur||green}}
+|{{l|fo|bláur||blue}}
+|{{l|fo|brúnur||brown}}
+|{{l|fo|gráur||grey}}
+|{{l|fo|svartur||black}}
+|{{l|fo|litur|g=m||colour}}
+|{{l|fo|silvurlittur}}
+}}
 
 [[Category:fo:Colors]]
 
@@ -35,7 +37,7 @@ From {{etyl|non|fo}} {{m|non|hvítr}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*hw�
 ==Icelandic==
 
 ===Etymology===
-From {{etyl|non|is}} {{m|non|hvítr}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*hwītaz}}, ultimately from {{etyl|ine-pro|is}} {{m|ine-pro|*ḱweytos}}.
+From {{inh|is|non|hvítr}}, from {{inh|is|gem-pro|*hwītaz}}, ultimately from {{inh|is|ine-pro|*ḱweytos}}.
 
 ===Pronunciation===
 * {{IPA|/ˈxʷiːtʏr/|lang=is}}
@@ -45,33 +47,34 @@ From {{etyl|non|is}} {{m|non|hvítr}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*hw�
 {{is-adj|hvítari|hvítastur}}
 
 # [[white]]
-#: ''Hún var '''hvít''' sem snjór.''
-#:: She was '''white''' as snow.
+#: {{ux|is|Hún var '''hvít''' sem snjór.|She was '''white''' as snow.}}
 
 ====Inflection====
 {{is-decl-adj-1|hv|í|t}}
 
 ====Derived terms====
-* [[hrímhvítur]]
-* [[hvítur fyrir hærunum]] (with greying hair)
-* [[hvítblæði]] (leukaemia)
-* [[hvítasunna]] (Whitsun, Whitsuntide)
-* [[hvítkál]] (white cabbage) ''[[Brassica oleracea var. capitata f. alba]]''
-* [[hvítlaukur]] (garlic)
-* [[hvítna]] (to turn white, to pale)
-* [[hvítrússneska]] (Byelorussian)
-* [[Hvítarússland]] (White Russia)
-* [[hvítstorkur]] (a white stork)
-* [[hvítvín]]
-* [[hvítabjörn]]
-* [[svart á hvítu]] (black and white)
-* [[sjá svart á hvítu|sjá eitthvað svart á hvítu]] (to see something in black and white)
+{{der3
+|{{l|is|hrímhvítur||rime-white, snow white}}
+|{{l|is|hvítur fyrir hærunum||with greying hair}}
+|{{l|is|hvítblæði|g=n||leukaemia}}
+|{{l|is|hvítasunna|g=f||Whitsun, Whitsuntide}}
+|{{l|is|hvítkál|g=n||white cabbage}} {{qualifier|[[Brassica oleracea var. capitata f. alba]]}}
+|{{l|is|hvítlaukur|g=m||garlic}}
+|{{l|is|hvítna||to turn white; to pale}}
+|{{l|is|hvítrússneska||Byelorussian}}
+|{{l|is|Hvítarússland||White Russia}}
+|{{l|is|hvítstorkur||a white stork}}
+|{{l|is|hvítvín|g=n||white wine}}
+|{{l|is|hvítabjörn|g=m||polar bear}}
+|{{l|is|svart á hvítu||black and white}}
+|{{l|is|sjá svart á hvítu|sjá eitthvað svart á hvítu|to see something in black and white}}
+}}
 
 ====Related terms====
-* [[hvíta]] (white of an egg)
+* {{l|is|hvíta||white of an egg}}
 
 ====See also====
-* [[hæra]]
+* {{l|is|hæra}}
 
 [[Category:is:Colors]]
 
