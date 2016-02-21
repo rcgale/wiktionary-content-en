@@ -5,9 +5,9 @@
 {{rfc-header|Acronym}}
 {{head|en|acronym}}
 
-# {{label|en|chiefly|North America}} {{alternative spelling of|Inc|lang=en}}
-# {{label|en|programming}} [[increment]]
-# {{label|en|knitting}} [[increase]]
+# {{lb|en|chiefly|North America}} {{alternative spelling of|Inc|lang=en}}
+# {{lb|en|programming}} [[increment]]
+# {{lb|en|knitting}} [[increase]]
 
 ===Anagrams===
 * [[NCI#English|NCI]], [[NIC#English|NIC]], [[Nic#English|Nic]], [[nic#English|nic]]
@@ -19,8 +19,8 @@
 ===Pronoun===
 {{head|ang|pronoun form|head=inċ|sc=Latinx}}
 
-# [[you]] two; accusative dual form of [[þu|þū]]
-# [[your]], [[yours]]; dative dual form of [[þu|þū]]
+# {{inflection of|þū||d|acc|lang=ang}}: [[you]] two
+# {{inflection of|þū||d|dat|lang=ang}}: [[your]], [[yours]]
 
 ----
 
@@ -28,6 +28,9 @@
 
 ===Alternative forms===
 * {{l|gd|ince}}
+
+===Etymology===
+{{bor|gd|en|ink}}.
 
 ===Noun===
 {{gd-noun|g1=m|g2=f|gen=ince|pl=incean}}
@@ -37,14 +40,26 @@
 ====Synonyms====
 * {{l|gd|dubh}}
 
+===References===
+* {{R:Dwelly}}
+
 ----
 
 ==Welsh==
 
+===Etymology===
+{{bor|cy|en|ink}}.
+
 ===Noun===
-{{cy-noun|m}}
+{{cy-noun|m|inciau}}
 
 # [[ink]]
+
+===Mutation===
+{{cy-mut-auto}}
+
+===References===
+* {{R:cy:GPC}}
 
 [[ang:inc]]
 [[cy:inc]]
