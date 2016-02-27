@@ -193,6 +193,11 @@ From {{inh|gl|roa-opt|veer}}, from {{der|gl|la|vidēre}}, present active infinit
 
 ==Icelandic==
 
+===Pronunciation===
+* {{IPA|/ˈvɛːr/|lang=is}}
+*: {{rhymes|ɛːr|lang=is}}
+*: {{homophones|Ver|lang=is}}
+
 ===Etymology 1===
 From {{etyl|non|is}} {{m|non|verr}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*weraz}}, from {{etyl|ine-pro|is}} {{m|ine-pro|*wiHrós}}. Cognate with English {{term|were-}}.
 
@@ -201,6 +206,9 @@ From {{etyl|non|is}} {{m|non|verr}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*weraz
 
 # {{label|is|poetic|literary}} a [[husband]]{{jump|husband|s}}
 # {{label|is|poetic|literary}} a [[man]] (male){{jump|is|man (male)|s}}
+
+=====Declension=====
+{{is-decl-noun-m-s1|v|e|r|i=?-}}
 
 =====Synonyms=====
 * {{jump|s|husband}} {{l|is|bóndi}}, {{l|is|eiginmaður}}, {{l|is|ektamaður}}, {{l|is|maður}}
@@ -215,31 +223,38 @@ A 19th century alteration of earlier {{m|is|vör}}, from {{etyl|non|is}} {{m|non
 
 # a [[line]] in the [[water]] made by the movement of an [[oar]] or a [[boat]]{{jump|line in the water|s}}
 
+=====Declension=====
+{{is-decl-noun-m-s2|v|e|r|}}
+{{is-decl-noun-n-s|v|e|r}}
+
 =====Synonyms=====
 * {{jump|s|line in the water}} {{qualifier|of an oar}} {{l|is|árarfar}}, {{qualifier|of a boat}} {{l|is|kjölrák}}, {{l|is|var}}, {{l|is|vör}}
 
 ===Etymology 3===
-Origin uncertain, but probably related to {{m|is|vari||liquid}} and to Old English {{m|ang|wær||sea}}.
+From {{inh|is|non|ver}}, of the same meaning. Origin uncertain, but probably related to {{m|is|vari||liquid}} and to Old English {{m|ang|wær||sea}}.
 
 ====Noun====
-{{is-noun|n|vers|ver}}
+{{is-noun|n|vers|-}}
 
 # {{label|is|poetic}} the [[sea]], the [[ocean]]
 
 ===Etymology 4===
-Related to Norwegian {{m|no|vær||fishing harbor, fishing village}}. Probably from {{etyl|gem-pro|is}} {{m|gem-pro|*warjaz}}, {{m|gem-pro|*warją||dam, weir}}, other cognates including Old English {{m|ang|wer}} (whence modern English {{term|weir}}), Old Saxon {{m|osx|werr}}, Middle Low German {{m|gmh|were}}/{{m|gmh|wer}}, Middle High German [[wer]] (whence New High German {{m|de|Wehr}}). Also related to {{m|is|vör|g=f||landing space for a boat}} and to {{m|is|verja||protect}}. Root meaning probably a guarded or fenced off place.
+The same as {{cog|no|vær||fishing harbor, fishing village}}, other cognates including {{cog|ang|wer}} (whence modern {{cog|en|weir}}), {{cog|osx|werr}}, {{cog|gml|were}}/{{m|gml|wer}}, {{cog|gmh|wer}} (whence {{cog|de|Wehr}}). Probably from {{inh|is|gem-pro|*warjaz}}, {{m|gem-pro|*warją||dam, weir}}, related to {{m|is|vör|g=f||landing space for a boat}} and to {{m|is|verja||protect}}. The root meaning would then be a guarded or fenced off place.
 
 ====Noun====
 {{is-noun|n|vers|ver}}
 
 # [[fishing]] center
+# a place where a flock of birds makes its nests (and eggs may be gathered or birds caught)
+# a wet grassy spot in an otherwise inhospitable area; [[oasis]]
+#: in this sense common as a suffix in place names: {{m|is|Eyvindarver}}, {{m|is|Þjórsárver}}
+# {{cx|as a suffix|lang=is}} production facility
+#: {{m|is|kvikmyndaver}}: movie studio, movie production facility
+#: {{m|is|álver}}: aluminum production facility
+# a generic suffix for proper names of community centers, shopping centers, or names of [[businesses]]
 
-===Etymology 5===
-
-====Suffix====
-{{is-noun|n|vers|ver}}
-
-# the suffix of [[rendezvous]], [[store]]s or names of [[businesses]]
+=====Declension=====
+{{is-decl-noun-n-s|v|e|r}}
 
 =====Derived terms=====
 {{der3|{{l|is|Húnaver}}
@@ -247,29 +262,32 @@ Related to Norwegian {{m|no|vær||fishing harbor, fishing village}}. Probably fr
 |{{l|is|kvikmyndaver}}
 |{{l|is|Eyvindarver}}}}
 
-===Etymology 6===
+===Etymology 5===
 From {{inh|is|gem-pro|*wazą}}. Related to {{etyl|fo|-}} {{m|fo|ver}} and {{m|fo|vør}}, {{etyl|da|-}} {{m|da|vår}}, {{etyl|sv|-}} {{m|sv|var}} all meaning the same, and {{etyl|no|-}} {{m|no|ver}}, {{m|no|vær}}, meaning the same, but also “bag, jar, place to store things”. Compare {{m|is|vasi||pocket}}.
 
 ====Noun====
 {{is-noun|n|vers|ver}}
 
-# a [[cover]] made of [[cloth]] used to protect pillows, duvets and other things
+# a [[cover]] made of [[cloth]] (e.g. for a pillow)
+
+=====Declension=====
+{{is-decl-noun-n-s|v|e|r}}
 
 =====Derived terms=====
 {{der3|{{l|is|koddaver}}
 |{{l|is|reiðver}}
 |{{l|is|sængurver}}}}
 
-===Etymology 7===
+===Etymology 6===
 See {{m|is|verr}}.
 
 ====Adverb====
 {{head|is|adverb form}}
 
 # {{label|is|nonstandard}} {{comparative of|illa|lang=is}}
-#* original, standard form: [[verr]]
+#: standard form: [[verr]]
 
-===Etymology 8===
+===Etymology 7===
 See [[vera]].
 
 ====Verb====
@@ -277,7 +295,7 @@ See [[vera]].
 
 # singular imperative of {{m|is|vera||to be}}
 
-===Etymology 9===
+===Etymology 8===
 See {{m|is|verja}}.
 
 ====Verb====
