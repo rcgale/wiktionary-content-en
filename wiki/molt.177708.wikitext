@@ -110,12 +110,18 @@ From {{etyl|la|fro}} {{m|la|multum|pos=adv}}, neuter of {{m|la|multus}}.
 ==Old Irish==
 
 ===Etymology===
-From {{etyl|cel-pro|sga}} {{m|cel-pro|*molto-||sheep}} (compare {{etyl|wlm|-}} {{m|wlm|mollt}}, Gaulish *''multon-'', source of French {{m|fr|mouton}}).
+From {{inh|sga|cel-pro|*moltos||sheep}} (compare {{cog|wlm|mollt}}, {{cog|cel-gau|*multon-}}, source of {{cog|fr|mouton}}).
+
+===Pronunciation===
+* {{IPA|/mol͈t/|lang=sga}}
 
 ===Noun===
-{{head|sga|noun|g=m}}
+{{sga-noun|m|muilt|muilt}}
 
 # [[ram]], [[wether]]
+
+====Declension====
+{{sga-decl-o-masc|molt|gs=muilt|ap=moltu|dp=moltaib}}
 
 ====Derived terms====
 * {{l|sga|moltán}}
@@ -128,6 +134,9 @@ From {{etyl|cel-pro|sga}} {{m|cel-pro|*molto-||sheep}} (compare {{etyl|wlm|-}} {
 
 ===Mutation===
 {{sga-mutation|m|olt}}
+
+===References===
+* {{R:DIL|32502}}
 
 [[Category:sga:Sheep]]
 
