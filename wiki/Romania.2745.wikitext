@@ -26,7 +26,7 @@ From {{etyl|ro|en}} {{m|ro|român||Romanian}} (in turn from {{etyl|la|en}} {{m|l
 {{trans-top|South-Eastern European country}}
 * Abkhaz: {{t|ab|Румыниа|sc=Cyrl}}
 * Afrikaans: {{t|af|Roemenië}}
-* Albanian: {{t+|sq|Rumania}}
+* Albanian: {{t|sq|Rumani|f}} {{qualifier|indefinite}}, {{t+|sq|Rumania|f}}
 * Arabic: {{t|ar|رُومَانِيَا|f}}
 * Aragonese: {{t|an|Rumanía|f}}
 * Armenian: {{t+|hy|Ռումինիա}}
@@ -38,14 +38,14 @@ From {{etyl|ro|en}} {{m|ro|român||Romanian}} (in turn from {{etyl|la|en}} {{m|l
 * Belarusian: {{t|be|Румы́нія|f}}
 * Bengali: {{t|bn|রোমানিয়া|tr=romaniya}}
 * Breton: {{t|br|Roumania}}
-* Bulgarian: {{t|bg|Румъ́ния|f}}
+* Bulgarian: {{t|bg|Румъ̀ния|f}}
 * Burmese: {{t|my|ရူမေးနီးယားနိုင်ငံ|sc=Mymr}}
 * Catalan: {{t+|ca|Romania|f}}
 * Cherokee: {{t|chr|ᎶᎹᏂᏯ}}
 * Chinese:
 *: Cantonese: {{t|yue|羅馬尼亞|sc=Hant}}, {{t|yue|罗马尼亚|tr=lòhmáhnàihnga|sc=Hant}}
-*: Mandarin: {{t|cmn|羅馬尼亞|sc=Hani}}, {{t+|cmn|罗马尼亚|tr=Luōmǎníyà|sc=Hani}}
-*: Min Nan: {{t|nan|羅馬尼亞|sc=Hans}}, {{t|nan|罗马尼亚|tr=lô-má-nî-a|sc=Hans}}
+*: Mandarin: {{t+|cmn|羅馬尼亞|sc=Hani}}, {{t+|cmn|罗马尼亚|tr=Luōmǎníyà|sc=Hani}}
+*: Min Nan: {{t|nan|羅馬尼亞|sc=Hans}}, {{t|nan|罗马尼亚|tr=Lô-má-nî-a|sc=Hans}}
 * Corsican: {{t|co|Rumenia}}
 * Crimean Tatar: {{t|crh|Romaniya}}
 * Czech: {{t+|cs|Rumunsko|n}}
@@ -63,8 +63,8 @@ From {{etyl|ro|en}} {{m|ro|român||Romanian}} (in turn from {{etyl|la|en}} {{m|l
 * Greek: {{t+|el|Ρουμανία|f|sc=Grek}}
 * Gujarati: {{t|gu|રોમાનિયા|tr=romāniyā|sc=Gujr}}
 * Hawaiian: {{t|haw|Romānia}}
-* Hebrew: {{t+|he|רומניה|f|tr=románya}}
-* Hindi: {{t+|hi|रोमानिया|tr=romāniyā}}
+* Hebrew: {{t+|he|רוֹמַנְיָה|f|tr=románya}}
+* Hindi: {{t+|hi|रोमानिया}}
 * Hungarian: {{t+|hu|Románia}}
 * Icelandic: {{t+|is|Rúmenía|f}}
 * Ido: {{t+|io|Rumania}}
@@ -73,11 +73,10 @@ From {{etyl|ro|en}} {{m|ro|român||Romanian}} (in turn from {{etyl|la|en}} {{m|l
 * Irish: {{t|ga|Rómáin|f|alt=An Rómáin}}
 * Italian: {{t+|it|Romania|f}}
 * Japanese: {{t+|ja|ルーマニア|tr=Rūmania}}
-* Norman: {{t|nrf|Roumanie|f}}
 * Kannada: {{t|kn|ರೊಮಾನಿಯ|sc=Knda}}
 * Kazakh: {{t|kk|Румыния|sc=Cyrl}}
 * Khmer: {{t|km|រូម៉ានី|tr=rou mar ni|sc=Khmr}}
-* Korean: {{t+|ko|루마니아|tr=Rumania|sc=Hang}}
+* Korean: {{t+|ko|^루마니아|sc=Hang}}
 * Kyrgyz: {{t|ky|Румыния|sc=Cyrl}}
 {{trans-mid}}
 * Lao: {{t+|lo|ລູມານີ|sc=Laoo}}
@@ -89,18 +88,19 @@ From {{etyl|ro|en}} {{m|ro|român||Romanian}} (in turn from {{etyl|la|en}} {{m|l
 * Malay: {{t|ms|Romania}}
 * Malayalam: {{t|ml|റൊമാനിയ|sc=Mlym}}
 * Maltese: ir-{{t|mt|Rumanija}}
-* Marathi: {{t|mr|रोमेनिया|tr=romeniyā|sc=Deva}}
+* Marathi: {{t|mr|रोमेनिया|sc=Deva}}
 * Mongolian: {{t+|mn|Румын|sc=Cyrl}}
 * Nahuatl: {{t|nah|Rumantlān}}
 * Navajo: {{t|nv|Wooméiniya}}
 * Nepali: {{t|ne|रोमानिया|tr=romāniyā|sc=Deva}}
-* Norman: {{t|nrf|Roumanîn|f}}
+* Norman: {{t|nrf|Roumanie|f}}, {{t-check|nrf|Roumanîn|f}}
 * Northern Sami: {{t|se|Románia}}
 * Norwegian: {{t+|no|Romania}}
 * Occitan: {{t+|oc|Romania|f}}, {{t|oc|Roumagnu|m}}
-* Old Church Slavonic: {{t|cu|Роумꙑнїꙗ|sc=Cyrs}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|Роумꙑнїꙗ|f|sc=Cyrs}}
 * Pashto: {{t|ps|رومانیا|sc=ps-Arab}}
-* Persian: {{t+|fa|رومانی|tr=Rumâni}}
+* Persian: {{t+|fa|رومانی|tr=rumâni}}
 * Polish: {{t+|pl|Rumunia|f}}
 * Portuguese: {{t+|pt|Roménia|f}} {{qualifier|Portugal}}, {{t+|pt|Romênia}} {{qualifier|Brazil}}
 * Romani: {{t|rom|Rumuniya}}
@@ -125,17 +125,17 @@ From {{etyl|ro|en}} {{m|ro|român||Romanian}} (in turn from {{etyl|la|en}} {{m|l
 * Tamil: {{t|ta|உருமேனியா|sc=Taml}}
 * Tatar: {{t|tt|Румыния|sc=Cyrl}}
 * Telugu: {{t+|te|రొమేనియా|sc=Telu}}
-* Thai: {{t+|th|โรมาเนีย|tr=rohmaania}}
+* Thai: {{t+|th|โรมาเนีย|tr=roo-maa-niia}}
 * Turkish: {{t+|tr|Romanya}}
 * Turkmen: {{t|tk|Rumyniýa}}
 * Ukrainian: {{t+|uk|Руму́нія|f}}
 * Urdu: {{t|ur|رومانیہ|tr=romāniyā|sc=ur-Arab}}
 * Uzbek: {{t+|uz|Ruminiya}}
-* Vietnamese: {{t|vi|Romania}}, {{t|vi|Rumani}}
+* Vietnamese: {{t|vi|Lỗ Má Ni}}, {{t|vi|Ru-ma-ni}}
 * Võro: {{t|vro|Romaania}}
 * Welsh: {{t+|cy|Rwmania|f}}
 * West Frisian: {{t|fy|Roemeenje}}
-* Yiddish: {{t|yi|רומעניע|tr=rumenye|sc=Hebr}}
+* Yiddish: {{t|yi|רומעניע|sc=Hebr}}
 {{trans-bottom}}
 
 ====See also====
