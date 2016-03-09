@@ -25,7 +25,7 @@ From {{etyl|da|en}} {{m|da|Danmark}}, from Danish {{m|da|dansk||Danish}} + {{ety
 {{trans-top|country in Western Europe}}
 * Acehnese: {{t|ace|Denmark}}
 * Afrikaans: {{t+|af|Denemarke}}
-* Albanian: {{t+|sq|Danimarka}}
+* Albanian: {{t|sq|Danimarkë|f}} {{qualifier|indefinite}}, {{t+|sq|Danimarka|f}}
 * Amharic: {{t|am|ዴንማርክ|sc=Ethi}}
 * Arabic: {{t|ar|دَانِمَارْك|m}}
 *: Egyptian Arabic: {{t|arz|دنمارك|sc=Arab}}
@@ -50,11 +50,11 @@ From {{etyl|da|en}} {{m|da|Danmark}}, from Danish {{m|da|dansk||Danish}} + {{ety
 * Cebuano: {{t|ceb|Denmark}}, {{t|ceb|Dinamarka}}
 * Central Kurdish: {{t|ckb|دانمارک}}
 * Chechen: {{t|ce|Дани}}
-* Cherokee: {{t|chr|ᏕᏂᎹᎩ|tr=Denimagi|sc=Cher}}
+* Cherokee: {{t|chr|ᏕᏂᎹᎩ|sc=Cher}}
 * Chinese:
 *: Hakka: {{t|hak|丹麥|sc=Hans}}, {{t|hak|丹麦|tr=Tan-ma̍k|sc=Hans}}
-*: Mandarin: {{t|cmn|丹麥|sc=Hani}}, {{t+|cmn|丹麦|tr=Dānmài|sc=Hani}}
-*: Min Nan: {{t|nan|Dan-kok|sc=Latn}}
+*: Mandarin: {{t+|cmn|丹麥|sc=Hani}}, {{t+|cmn|丹麦|tr=Dānmài|sc=Hani}}
+*: Min Nan: {{t|nan|丹麥|sc=Hani}}, {{t|nan|丹麦|tr=Tan-be̍h|sc=Hani}}
 * Chuvash: {{t|cv|Дани|sc=Cyrl}}, {{t|cv|Дани|sc=Cyrl}}
 * Cornish: {{t|kw|Danmark|m}}
 * Corsican: {{t|co|Danimarca|f}}
@@ -86,8 +86,8 @@ From {{etyl|da|en}} {{m|da|Danmark}}, from Danish {{m|da|dansk||Danish}} + {{ety
 * Gujarati: {{t|gu|ડેનમાર્ક|tr=ḍenmārk|sc=Gujr}}
 * Haitian Creole: {{t|ht|Danmak}}
 * Hawaiian: {{t|haw|Kenemaka}}
-* Hebrew: {{t+|he|דנמרק|f|tr=dénmark}}
-* Hindi: {{t+|hi|डेनमार्क|tr=ḍenmārk|sc=Deva}}
+* Hebrew: {{t+|he|דֶּנְמַרְק|f|tr=dénmark}}
+* Hindi: {{t+|hi|डेनमार्क|sc=Deva}}
 * Hungarian: {{t+|hu|Dánia}}
 * Icelandic: {{t+|is|Danmörk|f}}
 * Ido: {{t+|io|Dania}}
@@ -99,7 +99,6 @@ From {{etyl|da|en}} {{m|da|Danmark}}, from Danish {{m|da|dansk||Danish}} + {{ety
 * Italian: {{t+|it|Danimarca|f}}
 * Japanese: {{t+|ja|デンマーク|tr=Denmāku|sc=Jpan}}, {{qualifier|obsolete}} {{t|ja|丁抹|tr=Denmāku|sc=Jpan}}
 * Javanese: {{t|jv|Denmark}}
-* Norman: {{t|nrf|Dannemar|m}}
 * Kabardian: {{t|kbd|Даниэ}}
 * Kalenjin: {{t|kln|Denmak}}
 * Kalmyk: {{t|xal|Данскгин Нутг}}
@@ -118,7 +117,7 @@ From {{etyl|da|en}} {{m|da|Danmark}}, from Danish {{m|da|dansk||Danish}} + {{ety
 * Komi-Zyrian: {{t|kpv|Дания}}
 * Komi-Permyak: {{t|koi|Данмарк}}
 * Kongo: {{t|kg|Danemark}}
-* Korean: {{t+|ko|덴마크|tr=Denmakeu|sc=Kore}}, {{qualifier|North Korea}} {{t+|ko|단마르크|tr=Danmareukeu|sc=Kore}}
+* Korean: {{t+|ko|^덴마크|sc=Kore}}, {{qualifier|North Korea}} {{t+|ko|^단마르크|sc=Kore}}
 * Kurdish: {{t+|ku|Danîmarka|sc=ku-Arab}}
 * Kyrgyz: {{t|ky|Дания|sc=Cyrl}}
 * Ladino: {{t|lad|Danimarka}}
@@ -148,7 +147,7 @@ From {{etyl|da|en}} {{m|da|Danmark}}, from Danish {{m|da|dansk||Danish}} + {{ety
 * Maltese: id-{{t|mt|Danimarka}}
 * Manx: {{t|gv|Danvarg}}
 * Maori: {{t|mi|Tenemāka}}
-* Marathi: {{t|mr|डेन्मार्क|tr=ḍenmārk|sc=Deva}}
+* Marathi: {{t|mr|डेन्मार्क|sc=Deva}}
 * Mari:
 *: Eastern Mari: {{t|chm|Даний}}
 * Meru: {{t|mer|Denmak}}
@@ -160,6 +159,7 @@ From {{etyl|da|en}} {{m|da|Danmark}}, from Danish {{m|da|dansk||Danish}} + {{ety
 * Navajo: {{t|nv|Déinish Dineʼé bikéyah}}
 * Neapolitan: {{t|nap|Danemarca|f}}
 * Nepali: {{t|ne|डेनमार्क|tr=ḍenmārk|sc=Deva}}
+* Norman: {{t|nrf|Dannemar|m}}
 * North Frisian: {{t|frr|Dånmark}}
 * Northern Sami: {{t|se|Dánmárku}}
 * Norwegian: {{t+|no|Danmark}} (Kongeriket Danmark)
@@ -208,7 +208,7 @@ From {{etyl|da|en}} {{m|da|Danmark}}, from Danish {{m|da|dansk||Danish}} + {{ety
 * Tatar: {{t|tt|Дания|sc=Cyrl}}
 * Telugu: {{t+|te|డెన్మార్క్|sc=Telu}}
 * Tetum: {{t|tet|Dinamarka}}
-* Thai: {{t|th|ประเทศเดนมาร์ก|tr=bpràtêt dayn-màak|sc=Thai}}, {{t+|th|เดนมาร์ก|tr=dayn-màak|sc=Thai}}
+* Thai: {{t+|th|เดนมาร์ก|sc=Thai}}, {{t|th|ประเทศเดนมาร์ก|tr=bprà-têet den-màak|sc=Thai}}
 * Tibetan: {{t|bo|དན་མྲག|sc=Tibt}}
 * Tok Pisin: {{t|tpi|Denmak}}
 * Turkish: {{t+|tr|Danimarka}}
