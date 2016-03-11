@@ -23,7 +23,7 @@ From {{etyl|hi|en}}.
 ==Albanian==
 
 ===Etymology===
-From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*bōr-}}, from {{etyl|ine-pro|sq}} {{m|ine-pro|*bhōrs-}}, from root {{m|ine-pro|*bhrs}} 'point, tip bolt'. Cognate to {{etyl|sga|-}} {{m|sga|barr||point}}.<ref> Albanische Etymologien (Untersuchungen zum albanischen Erbwortschatz), Bardhyl Demiraj, Leiden Studies in Indo-European 7; Amsterdam - Atlanta 1997, p.95</ref>
+From {{inh|sq|sqj-pro|*bōr-}}, from {{der|sq|ine-pro|*bhōrs-}}, from root {{m|ine-pro|*bhrs||point, tip bolt}}. Cognate to {{cog|sga|barr||point}}.<ref> Albanische Etymologien (Untersuchungen zum albanischen Erbwortschatz), Bardhyl Demiraj, Leiden Studies in Indo-European 7; Amsterdam - Atlanta 1997, p.95</ref>
 
 ===Noun===
 {{sq-noun|m|berë|beri|berët}}
@@ -61,7 +61,7 @@ From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*bōr-}}, from {{etyl|ine-pro|sq}} {{m|ine-
 ==Faroese==
 
 ===Etymology 1===
-From {{etyl|non|fo}} {{m|non|ber}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*basja-}}, {{m|gem-pro|*bazja-}}.
+From {{inh|fo|non|ber}}, from {{der|fo|gem-pro|*basja-}}, {{m|gem-pro|*bazja-}}.
 
 ====Noun====
 {{fo-noun|n|bers|ber}}
@@ -118,7 +118,7 @@ Conjugated form.
 * {{rhymes|ɛːr|lang=is}}
 
 ===Etymology 1===
-From {{etyl|non|is}} {{m|non|berr}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*bazaz}}.
+From {{inh|is|non|berr}}, from {{inh|is|gem-pro|*bazaz}}.
 
 ====Adjective====
 {{is-adj|berari|berastur}}
@@ -138,7 +138,7 @@ From {{etyl|non|is}} {{m|non|berr}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*bazaz
 * {{l|is|ber er hver að baki, nema sér bróður eigi}}
 
 ===Etymology 2===
-From {{etyl|non|is}} {{m|non|ber}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*basja-}}, {{m|gem-pro|*bazja-}}.
+From {{inh|is|non|ber}}, from {{der|is|gem-pro|*basja-}}, {{m|gem-pro|*bazja-}}.
 
 ====Noun====
 {{is-noun|n|bers|ber}}
@@ -149,13 +149,15 @@ From {{etyl|non|is}} {{m|non|ber}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*basja-
 {{is-decl-noun-n-s|b|er|j=j}}
 
 =====Derived terms=====
-* [[aðalbláber]]
-* [[bláber]]
-* [[kirsuber]]
-* [[rifsber]]
-* [[krækiber]]
-* [[jarðarber]]
-* {{l|is|sólber}}
+{{der3
+|{{l|is|aðalbláber}}
+|{{l|is|bláber}}
+|{{l|is|kirsuber}}
+|{{l|is|rifsber}}
+|{{l|is|krækiber}}
+|{{l|is|jarðarber}}
+|{{l|is|sólber}}
+}}
 
 [[Category:is:Berries]]
 [[Category:is:Fruits]]
@@ -199,7 +201,7 @@ From {{etyl|non|is}} {{m|non|ber}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*basja-
 
 ===Etymology===
 {{PIE root|ang|bʰer}}
-From {{inh|ang|gem-pro|*bērō}}, whence also {{etyl|goh|-}} {{m|goh|bāra}}.
+From {{inh|ang|gem-pro|*bērō}}, whence also {{cog|goh|bāra}}.
 
 ===Noun===
 {{ang-noun|f|head=bēr}}
@@ -213,7 +215,7 @@ From {{inh|ang|gem-pro|*bērō}}, whence also {{etyl|goh|-}} {{m|goh|bāra}}.
 ===Noun===
 {{head|fro|noun form|g=m}}
 
-# {{nominative singular of|baron|lang=fro}}
+# {{inflection of|baron||nom|s|lang=fro}}
 
 ----
 
@@ -235,7 +237,7 @@ From {{inh|ang|gem-pro|*bērō}}, whence also {{etyl|goh|-}} {{m|goh|bāra}}.
 ==Old Norse==
 
 ===Etymology===
-From {{inh|non|gem-pro|*basją}}, {{m|gem-pro|*bazją}}, whence also {{etyl|ang|-}} {{m|ang|beriġe}}, {{etyl|goh|-}} {{m|goh|beri}}, {{etyl|got|-}} {{m|got|𐌱𐌰𐍃𐌹}}.
+From {{inh|non|gem-pro|*basją}}, {{m|gem-pro|*bazją}}, whence also {{cog|ang|beriġe}}, {{cog|goh|beri}}, {{cog|got|𐌱𐌰𐍃𐌹}}.
 
 ===Noun===
 {{non-noun|n}}
@@ -270,12 +272,12 @@ From {{inh|non|gem-pro|*basją}}, {{m|gem-pro|*bazją}}, whence also {{etyl|ang|
 {{cardinalbox|tt||1|2||ike|ord=berençe}}
 
 ===Etymology===
-From {{etyl|trk-pro|tt}} {{m|trk-pro|*bīr||one}}
+From {{der|tt|trk-pro|*bīr||one}}.
 
 ===Cardinal numeral===
 {{head|tt|numeral|Cyrillic spelling|бер}}
 
-# {{label|tt|cardinal}} [[one]]
+# {{lb|tt|cardinal}} [[one]]
 
 {{-}}
 
@@ -284,7 +286,7 @@ From {{etyl|trk-pro|tt}} {{m|trk-pro|*bīr||one}}
 ==Volapük==
 
 ===Etymology===
-{{borrowing|en|bear|lang=vo}} ([[Ursidae]]).
+{{bor|vo|en|bear}} ([[Ursidae]]).
 
 ===Pronunciation===
 * {{IPA|[beɾ]|lang=vo}}
@@ -298,19 +300,21 @@ From {{etyl|trk-pro|tt}} {{m|trk-pro|*bīr||one}}
 {{vo-decl-noun}}
 
 ====Derived terms====
-* [[berik]]
-* [[beril]]
-* [[berül]]
-* [[blägaber]]
-* [[braunaber]]
-* [[gedaber]]
-* [[hiber]]
-* [[hiberül]]
-* [[jiber]]
-* [[jiberül]]
-* [[lekevaber]]
-* [[sigretaber]] ( = [[Ursa Major]], [[Great Bear]])
-* [[sismalaber]] ( = [[Ursa Minor]], [[Little Bear]])
+{{der3
+|[[berik]]
+|[[beril]]
+|[[berül]]
+|[[blägaber]]
+|[[braunaber]]
+|[[gedaber]]
+|[[hiber]]
+|[[hiberül]]
+|[[jiber]]
+|[[jiberül]]
+|[[lekevaber]]
+|[[sigretaber]] ( = [[Ursa Major]], [[Great Bear]])
+|[[sismalaber]] ( = [[Ursa Minor]], [[Little Bear]])
+|lang=vo}}
 
 ----
 
