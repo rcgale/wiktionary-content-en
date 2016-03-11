@@ -1,13 +1,13 @@
 ==English==
 
 ===Etymology===
-{{etyl|it|en}}
+{{bor|en|it}}.
 
 ===Noun===
 {{en-noun}}
 
-# {{label|en|music}} A [[tempo mark]] directing that a passage is to be played in a [[moderate]]ly [[slow]] [[tempo]]; faster than [[adagio]] but slower than [[allegretto]].
-# {{label|en|music}} A passage having this mark.
+# {{lb|en|music}} A [[tempo mark]] directing that a passage is to be played in a [[moderate]]ly [[slow]] [[tempo]]; faster than [[adagio]] but slower than [[allegretto]].
+# {{lb|en|music}} A passage having this mark.
 
 ====Translations====
 {{trans-top|passage played in a moderately slow tempo}}
@@ -18,12 +18,12 @@
 ===Adverb===
 {{en-adv|-}}
 
-# {{label|en|music}} Played at a moderately slow tempo.
+# {{lb|en|music}} Played at a moderately slow tempo.
 
 ===Adjective===
 {{en-adj|-}}
 
-# {{label|en|music}} Describing a passage having this mark.
+# {{lb|en|music}} Describing a passage having this mark.
 
 ===Anagrams===
 * [[Dantean#English|Dantean]]
@@ -33,7 +33,7 @@
 ==Finnish==
 
 ===Etymology===
-{{etyl|it|fi}}
+{{bor|fi|it}}.
 
 ===Noun===
 {{fi-noun}}
@@ -52,12 +52,12 @@ Rarely declined.
 ===Adverb===
 {{fr-adv}}
 
-# {{label|fr|music}} {{l|en|andante}}
+# {{lb|fr|music}} {{l|en|andante}}
 
 ===Noun===
 {{fr-noun|m}}
 
-# {{label|fr|music}} {{l|en|andante}}
+# {{lb|fr|music}} {{l|en|andante}}
 
 ===External links===
 * {{R:TLFi}}
@@ -69,12 +69,12 @@ Rarely declined.
 ===Verb===
 {{head|it|present participle}}
 
-# {{present participle of|andare|lang=it|nocat=1}}
+# {{inflection of|andare||pres|part|lang=it}}
 
 ===Noun===
 {{it-noun|m}}
 
-# {{label|it|music}} {{l|en|andante}}
+# {{lb|it|music}} {{l|en|andante}}
 
 ===Adjective===
 {{it-adj|andant|e|i}}
@@ -100,7 +100,7 @@ Rarely declined.
 * {{rhymes|ɐ̃ntʃi|lang=pt}}
 
 ===Etymology 1===
-From {{etyl|roa-opt|pt}} {{m|roa-opt|andante}}, from {{m|roa-opt|andar||to walk}} + {{m|roa-opt|-ante}}.
+From {{der|pt|roa-opt|andante}}, from {{m|roa-opt|andar||to walk}} + {{m|roa-opt|-ante}}.
 
 ====Adjective====
 {{pt-adj|andant|e}}
@@ -112,16 +112,15 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|andante}}, from {{m|roa-opt|andar||to walk}
 * {{l|pt|erradio}}, {{l|pt|errante}}, {{l|pt|itinerante}}, {{l|pt|vagabundo}}, {{l|pt|vagamundo}}, {{l|pt|vagante}}
 
 =====Related terms=====
-{{top2}}
-* {{l|pt|andada}}
-* {{l|pt|andador}}
-* {{l|pt|andamento}}
-* {{l|pt|andança}}
-{{mid2}}
-* {{l|pt|andar}}
-* {{l|pt|andarilhar}}
-* {{l|pt|andarilho}}
-{{bottom}}
+{{rel3
+|{{l|pt|andada}}
+|{{l|pt|andador}}
+|{{l|pt|andamento}}
+|{{l|pt|andança}}
+|{{l|pt|andar}}
+|{{l|pt|andarilhar}}
+|{{l|pt|andarilho}}
+}}
 
 ====Noun====
 {{pt-noun|mf|s}}
@@ -135,17 +134,17 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|andante}}, from {{m|roa-opt|andar||to walk}
 * {{l|pt|ambulante}}
 
 ===Etymology 2===
-From {{etyl|it|pt}} {{m|it|andante||going}}.
+{{bor|pt|it|andante||going}}.
 
 ====Noun====
 {{pt-noun|m|s}}
 
-# {{label|pt|music}} {{l|en|andante}} {{gloss|passage to be played in a moderately slow tempo}}
+# {{lb|pt|music}} {{l|en|andante}} {{gloss|passage to be played in a moderately slow tempo}}
 
 ====Adjective====
 {{pt-adj|andant|e}}
 
-# {{label|pt|music}} {{l|en|andante}} {{gloss|played in a moderately slow tempo}}
+# {{lb|pt|music}} {{l|en|andante}} {{gloss|played in a moderately slow tempo}}
 
 =====Coordinate terms=====
 * {{l|pt|alegro}}, {{l|pt|adágio}}
@@ -160,7 +159,7 @@ From {{etyl|it|pt}} {{m|it|andante||going}}.
 ==Spanish==
 
 ===Etymology 1===
-From {{m|es|andar||to walk}} + {{m|es|-ante}}.
+From {{affix|es|andar|gloss1=to walk|-ante}}.
 
 ====Adjective====
 {{es-adj|andant|e}}
@@ -177,23 +176,23 @@ From {{m|es|andar||to walk}} + {{m|es|-ante}}.
 * {{l|es|andar}}
 
 ===Etymology 2===
-From {{etyl|it|es}} {{m|it|andante||going}}.
+{{bor|es|it|andante||going}}.
 
 ====Noun====
 {{es-noun|m|s}}
 
-# {{label|es|music}} A tempo mark directing that a passage is to be played in a moderately slow tempo; faster than adagio but slower than allegretto.
-# {{label|es|music}} A passage having this mark.
+# {{lb|es|music}} A tempo mark directing that a passage is to be played in a moderately slow tempo; faster than adagio but slower than allegretto.
+# {{lb|es|music}} A passage having this mark.
 
 ====Adjective====
 {{es-adj|andant|e}}
 
-# {{label|es|music}} Played in a moderately slow tempo
+# {{lb|es|music}} Played in a moderately slow tempo
 
 ====Adverb====
 {{es-adv|comp=y}}
 
-# {{label|es|music}} with a moderately slow tempo
+# {{lb|es|music}} with a moderately slow tempo
 
 [[de:andante]]
 [[et:andante]]
