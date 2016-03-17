@@ -638,12 +638,12 @@ From {{etyl|en|pcm}} {{m|en|me}}.
 ==Norwegian Bokmål==
 
 ===Etymology===
-From {{etyl|non|nb}} {{m|non|mín}}.
+From {{inh|nb|non|mín}}.
 
 ===Pronoun===
 {{head|nb|pronoun form}}
 
-# {{feminine singular of|min|lang=nb}}
+# {{inflection of|min||f|s|lang=nb}}
 
 ===References===
 * {{R:The Bokmål Dictionary}}
@@ -653,7 +653,7 @@ From {{etyl|non|nb}} {{m|non|mín}}.
 ==Norwegian Nynorsk==
 
 ===Etymology===
-From {{etyl|non|nn}} {{m|non|mín}}.
+From {{inh|nn|non|mín}}.
 
 ===Pronunciation===
 * {{IPA|/miː/|lang=nn}} {{nn-pronu-note}}
@@ -661,7 +661,7 @@ From {{etyl|non|nn}} {{m|non|mín}}.
 ===Pronoun===
 {{head|nn|pronoun form}}
 
-# {{feminine singular of|min|lang=nn}}
+# {{inflection of|min||f|s|lang=nn}}
 
 ===References===
 * {{R:The Nynorsk Dictionary}}
@@ -753,12 +753,11 @@ Placed after the noun.
 ===Pronoun===
 {{head|pl|pronoun form}}
 
-# Dative singular mute form of '''[[ja#Polish|ja]]'''
-#: ''Daj '''mi''' rękę.''
-#:: Give me your hand.
+# {{inflection of|ja||dat|s|mute|lang=pl}}
+#: {{ux|pl|Daj '''mi''' rękę.|Give me your hand.}}
 
 ====Related terms====
-* [[mnie]] (stressed form)
+* {{l|pl|mnie}} {{qualifier|stressed form}}
 
 ----
 
@@ -792,7 +791,7 @@ From {{etyl|la|pt}} {{m|la|mira|'''mi'''[ra]}} in the [[w:Ut queant laxis|hymn f
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{etyl|sga|gd}} {{m|sga|mé}}, from {{etyl|cel-pro|gd}} {{m|cel-pro|*mī}}.
+From {{inh|gd|sga|mé}}, from {{inh|gd|cel-pro|*mī}}.
 
 ===Pronunciation===
 * {{IPA|[mi]|lang=gd}}
@@ -923,8 +922,8 @@ From {{inh|sl|sla-pro|*my}}.
 
 =====Usage notes=====
 The forms {{m|en|mi}} and {{m|en|mis}} are only used before and within the noun phrase of the modified noun. In other positions, a form of {{m|en|mío}} is used instead.
-: ''Son '''mis''' libros.'' — They are my books.
-: ''Los libros son '''míos'''.'' — The books are mine.
+: {{ux|es|Son '''mis''' libros.|inline=1|They are my books.}}
+: {{ux|es|Los libros son '''míos'''.|inline=1|The books are mine.}}
 
 =====Related terms=====
 {{Spanish possessive adjectives}}
@@ -948,7 +947,7 @@ The forms {{m|en|mi}} and {{m|en|mis}} are only used before and within the noun 
 ==Sranan Tongo==
 
 ===Etymology===
-{{etyl|en|srn}} {{m|en|me}}
+From {{der|srn|en|me}}.
 
 ===Pronoun===
 {{head|srn|pronoun}}
@@ -961,7 +960,7 @@ The forms {{m|en|mi}} and {{m|en|mis}} are only used before and within the noun 
 ==Tok Pisin==
 
 ===Etymology===
-{{etyl|en|tpi}} {{m|en|me}}
+From {{der|tpi|en|me}}.
 
 ===Pronunciation===
 * {{IPA|/mi/|lang=tpi}}
@@ -979,7 +978,7 @@ The forms {{m|en|mi}} and {{m|en|mis}} are only used before and within the noun 
 ==Torres Strait Creole==
 
 ===Etymology===
-From {{etyl|en|tcs}} ''[[me]]''.
+From {{der|tcs|en|me}}.
 
 ===Pronoun===
 {{head|tcs|pronoun}}
@@ -987,7 +986,7 @@ From {{etyl|en|tcs}} ''[[me]]''.
 # [[me]]
 
 ===See also===
-* [[ai]]
+* {{l|tcs|ai}}
 
 ----
 
@@ -996,11 +995,9 @@ From {{etyl|en|tcs}} ''[[me]]''.
 ===Preposition===
 {{head|tr|preposition}}
 
-# Used to form [[interrogative]]s.
-#: ''Bugün okula gittin mi?''
-#:: Did you go to school today?
-#: ''Evli misin?''
-#:: Are you married?
+# {{non-gloss definition|Used to form [[interrogative]]s.}}
+#: {{ux|tr|Bugün okula gittin mi?|Did you go to school today?}}
+#: {{ux|tr|Evli misin?|Are you married?}}
 
 ====Usage notes====
 * Personal suffixes are added to the interrogative prepositions, as well as the past tense suffixes.
@@ -1083,22 +1080,21 @@ Short for {{m|vi|lông mi}}, from {{etyl|mkh-vie-pro|vi}} {{m|mkh-vie-pro|*k-pi�
 [[Category:Vietnamese personal pronouns]]
 
 ===Etymology 3===
-{{borrowing|fr|mi|lang=vi}} or {{etyl|it|vi}} {{m|it|mi}}
+{{bor|vi|fr|mi}} or {{der|vi|it|mi}}
 
 ====Noun====
 {{vi-noun}}
 
-# {{label|vi|music}} {{l|en|mi}} {{gloss|third note of diatonic scale}}
-#: ''đô, rê, '''mi'''''
-#:: do, re, mi
+# {{lb|vi|music}} {{l|en|mi}} {{gloss|third note of diatonic scale}}
+#: {{ux|vi|đô, rê, '''mi'''|do, re, mi}}
 
 ===Etymology 4===
-Probably from {{etyl|fr|vi}} {{m|fr|bise}}
+Probably from {{der|vi|fr|bise}}
 
 ====Verb====
 {{vi-verb}}
 
-# {{label|vi|slang}} to [[kiss]]
+# {{lb|vi|slang}} to [[kiss]]
 
 =====Synonyms=====
 * {{l|vi|hôn}}; {{l|vi|hun}}; {{l|vi|thơm}}
@@ -1121,7 +1117,7 @@ Probably from {{etyl|fr|vi}} {{m|fr|bise}}
 ===Particle===
 {{head|cy|particle}}
 
-# ''a particle used with verbs other than '''[[bod#Welsh|bod]]''' to mark affirmative statements.''
+# ''a particle used with verbs other than '''{{l|cy|bod}}''' to mark affirmative statements.''
 
 ====Usage notes====
 ''Mi'' triggers the [[soft mutation]] on the following verb. It is more common in the north; in the south, {{m|cy|fe}} is used instead.
