@@ -47,13 +47,13 @@ From {{suffix|lang=fi|takoa|-e}}.
 ==Irish==
 
 ===Etymology===
-From {{etyl|en|ga}} {{m|en|tea}}, from {{etyl|nl|ga}} {{m|nl|thee}}, from {{etyl|nan|ga}} {{m|nan|茶|tr=tê}}.
+From {{der|ga|en|tea}}, from {{der|ga|nl|thee}}, from {{der|ga|nan|茶|tr=tê}}.
 
 ===Pronunciation===
-* {{IPA|lang=ga|/t̪ˠeː/}}
+* {{IPA|/t̪ˠeː/|lang=ga}}
 
 ===Noun===
-{{ga-noun|tae|taenna|g=m}}
+{{ga-noun|g=m|-|taenna}}
 
 # [[tea]]
 
@@ -61,9 +61,12 @@ From {{etyl|en|ga}} {{m|en|tea}}, from {{etyl|nl|ga}} {{m|nl|thee}}, from {{etyl
 {{ga-decl-m4|t|ae|aenna}}
 
 ===Mutation===
-{{ga mut cons|t|ae}}
+{{ga-mut-cons|t|ae}}
 
-{{catlangcode|ga|Beverages|Meals}}
+===References===
+* {{R:ga:Ó Dónaill}}
+
+{{topics|ga|Beverages|Meals}}
 
 ----
 
