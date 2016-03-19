@@ -60,7 +60,7 @@
 * Azeri: {{t+|az|baba}}
 * Bashkir: {{t|ba|олатай|sc=Cyrl}}, {{t|ba|ҡартатай|sc=Cyrl}}
 * Basque: {{t+|eu|aitona}}, {{t+|eu|aitatxi}}
-* Belarusian: {{t|be|дзед|m|sc=Cyrl}}, {{t|be|дзяду́ля|m|sc=Cyrl}}
+* Belarusian: {{t|be|дзед|m}}, {{t|be|дзяду́ля|m}}
 * Bengali: {{t|bn|দাদু|tr=dadu|sc=Beng}}
 * Breton: {{t+|br|tad-kozh|m}}
 * Bulgarian: {{t+|bg|дя́до|m}}
@@ -96,7 +96,7 @@
 * Hausa: {{t-needed|ha}}
 * Hawaiian: {{t|haw|kupuna kāne}}
 * Hebrew: {{t+|he|סָב|m|tr=sav}}, {{t+|he|סַבָּא|m|tr=sába}}
-* Hindi: {{t+|hi|दादा|m|sc=Deva|tr=dādā}}, {{t+|hi|नाना|m|tr=nānā|sc=Deva}} {{qualifier|maternal}}
+* Hindi: {{t+|hi|दादा|m}}, {{t+|hi|नाना|m}} {{qualifier|maternal}}
 * Hungarian: {{t+|hu|nagyapa}}
 * Icelandic: {{t+|is|afi|m}}
 * Ido: {{t+|io|avulo}}
@@ -108,8 +108,7 @@
 * Irish: {{t+|ga|seanathair|m}}, {{t|ga|athair críonna|m}}
 * Istriot: {{t|ist|nono|f}}
 * Italian: {{t+|it|nonno|m}}
-* Japanese: {{t|ja|お爺さん|tr=[[おじいさん]], ojiisan|sc=Jpan}}, {{t+|ja|祖父|tr=sofu|sc=Jpan}} (''only about one's own''), {{t+|ja|外祖父|tr=gaisofu|sc=Jpan}} (''maternal, only about one's own'')
-* Norman: {{t|nrf|grand-péthe|m}}
+* Japanese: {{t|ja|お爺さん|tr=[[おじいさん]], ojiisan|sc=Jpan}}, {{t+|ja|祖父|tr=sofu|sc=Jpan}} {{qualifier|only about one's own}}, {{t+|ja|外祖父|tr=gaisofu|sc=Jpan}} {{qualifier|maternal, only about one's own}}
 * Kazakh: {{t+|kk|ата|sc=Cyrl}}, {{t|kk|баба|sc=Cyrl}}
 * Khmer: {{t+|km|តា|sc=Khmr|tr=taa}}, {{t+|km|អយ្យកោ|sc=Khmr|tr=ayyeakao}}
 * Kinyarwanda: {{t-needed|rw}}
@@ -118,33 +117,34 @@
 * Krio: {{t|kri|grandpa}}
 * Kurdish: {{t|ku|bavpîr|m|sc=ku-Arab}}
 *: Sorani: {{t+|ku|باپیر|tr=bapír|sc=ku-Arab}}
-{{trans-mid}}
 * Kyrgyz: {{t|ky|чоң ата|sc=Cyrl}}, {{t|ky|тай ата|sc=Cyrl}}
 * Latgalian: {{t|ltg|vaciks}}, {{t|ltg|vacjuks}}, {{t|ltg|vacuļs}}
+{{trans-mid}}
 * Latin: {{t+|la|avus}}
 * Latvian: {{t|lv|vectēvs}}
 * Lithuanian: {{t+|lt|senelis}}
 * Luganda: {{t-needed|lg}}
 * Luxembourgish: {{t|lb|Grousspapp|m}}
 * Macedonian: {{t|mk|де́до|m}}
-* Malay: {{t|ms|datuk}}, {{t|ms|nenek}} (unused)
-* Malayalam: {{t|ml|മുത്തച്ഛന്‍|sc=Mlym}}, {{t|ml|അപ്പൂപ്പന്‍|sc=Mlym}}
+* Malay: {{t|ms|datuk}}, {{t|ms|nenek}} {{qualifier|unused}}
+* Malayalam: {{t|ml|മുത്തച്ഛന്‍}}, {{t|ml|അപ്പൂപ്പന്‍}}
 * Manx: {{t|gv|shaner|m}}, {{t|gv|shennayr|m}}
-* Marathi: {{t|mr|आजोबा|m|tr=ājobā|sc=Deva}}, {{t|mr|आबा‎|tr=ābā|sc=Deva}}
+* Marathi: {{t|mr|आजोबा|m}}, {{t|mr|आबा‎}}
 * Mirandese: {{t|mwl|abó|m}}, {{t|mwl|abó pai|m}}, {{t|mwl|abó de las calças|m}}, {{t|mwl|pai-abó|m}}, {{t|mwl|bó|m}}
 * Mongolian: {{t+|mn|өвөө|sc=Cyrl}}
 * Nama: {{t|naq|ǁgaosab}}
 * Navajo: {{qualifier|maternal}} {{t|nv|acheii}}, {{qualifier|paternal}} {{t|nv|análí}}
+* Norman: {{t|nrf|grand-péthe|m}} {{qualifier|Jersey}}
 * North Frisian: {{qualifier|Mooring}} {{t|frr|åte|m}}
 * Northern Sami: {{t|se|áddjá}}
-* Norwegian: {{t+|no|morfar}} (mother's father), {{t+|no|farfar}} (father's father)
+* Norwegian: {{t+|no|morfar}} {{qualifier|mother's father}}, {{t+|no|farfar}} {{qualifier|father's father}}
 *: Bokmål: {{t+|nb|bestefar|m}}
 *: Nynorsk: {{t|nn|bestefar|m}}
 * O'odham: {{qualifier|maternal}} {{t|ood|ba꞉b}}, {{qualifier|paternal}} {{t|ood|wosk}}
-* Old Church Slavonic: {{t|cu|дѣдъ|m|sc=Cyrs}}
+* Old Church Slavonic: {{t|cu|дѣдъ|m}}
 * Old English: {{t|ang|ealdfæder|m}}, {{t|ang|ieldrafæder|m}}
 * Old Norse: {{t|non|afi|m}}
-* Oriya: {{t|or|ଜେଜେବାପା|tr=jējēbāpā|sc=Orya}}
+* Oriya: {{t|or|ଜେଜେବାପା|tr=jējēbāpā}}
 * Ossetian: {{t|os|дада|sc=Cyrl}}, {{t|os|баба|sc=Cyrl}}
 * Pashto: {{t-needed|ps}}
 * Persian: {{t|fa|پدربزرگ|tr=pedar-bozorg|sc=fa-Arab}}
@@ -165,7 +165,7 @@
 *: Roman: {{t+|sh|djed|m}}, {{t|sh|ded|m}}, {{t|sh|deda|m}}, {{t+|sh|deka|m}}, {{t|sh|dekica|m}}, {{t|sh|dedica|m}}
 * Sicilian: {{t|scn|avu|m}}, {{t+|scn|nannu|m}}
 * Sindhi: {{t-needed|sd}}
-* Sinhalese: {{t|si|පිතාමහ|sc=Sinh}}, {{t|si|මිති|sc=Sinh}}
+* Sinhalese: {{t|si|පිතාමහ}}, {{t|si|මිති}}
 * Skolt Sami: {{t|sms|äʹjj}}
 * Slovak: {{t|sk|dedo|m}}, {{t|sk|dedko|m}}, {{t|sk|starý otec|m}}, {{t|sk|ded|m}}
 * Slovene: {{t|sl|ded|m}}, {{t+|sl|stari oče|m}}
@@ -176,7 +176,7 @@
 * Swedish: {{t+|sv|farfar|c}} (paternal), {{t+|sv|morfar|c}} (maternal)
 * Tagalog: {{t+|tl|lolo}}, {{t|tl|ingkong}}, {{t|tl|lelong}}, {{t+|tl|apo}}, {{t|tl|abwelo}}
 * Tajik: {{t|tg|падарбузург|sc=Cyrl}}
-* Tamil: {{t+|ta|தாத்தா|sc=Taml}}
+* Tamil: {{t+|ta|தாத்தா}}
 * Taos: {{t|twf|tàłułi’ína}}
 * Tatar: {{t+|tt|бабай|sc=Cyrl}}, {{t+|tt|дәү әти|sc=Cyrl}}
 * Telugu: {{t+|te|తాతయ్య}}
@@ -186,8 +186,8 @@
 * Turkish: {{t+|tr|dede}}
 * Turkmen: {{t+|tk|ata}}, {{t+|tk|baba}}
 * Tuvan: {{t|tyv|кырган-ача}}
-* Ukrainian: {{t|uk|дід|m|sc=Cyrl}}, {{t|uk|діду́сь|m|sc=Cyrl}}
-* Urdu: {{t|ur|دادا|m|tr=dādā|sc=ur-Arab}}, {{t|ur|نانا|m|tr=nānā|sc=ur-Arab}} {{qualifier|maternal}}
+* Ukrainian: {{t|uk|дід|m}}, {{t|uk|діду́сь|m}}
+* Urdu: {{t|ur|دادا|m|tr=dādā}}, {{t|ur|نانا|m|tr=nānā}} {{qualifier|maternal}}
 * Uzbek: {{t+|uz|buva}}
 * Venetian: {{t|vec|nono|m}}
 * Vietnamese: {{t+|vi|ông}}, {{t+|vi|ôông}}
@@ -196,7 +196,7 @@
 * West Frisian: {{t|fy|pake|m}}
 * Wolof: {{t-needed|wo}}
 * Xhosa: {{t-needed|xh}}
-* Yiddish: {{t|yi|זיידע|m|tr=zeyde|sc=Hebr}}
+* Yiddish: {{t|yi|זיידע|m}}
 * Yoruba: {{t-needed|yo}}
 * Zulu: {{t-needed|zu}}
 {{trans-bottom}}
@@ -209,7 +209,7 @@
 * Greek: {{t+|el|παππούς|m}}, {{t+|el|πάππος}}
 * Khmer: {{t+|km|តា|sc=Khmr|tr=taa}}, {{t+|km|អយ្យកោ|sc=Khmr|tr=ayyeakao}}
 {{trans-mid}}
-* Old Church Slavonic: {{t|cu|дѣдъ|m|sc=Cyrs}}
+* Old Church Slavonic: {{t|cu|дѣдъ|m}}
 * Portuguese: {{t+|pt|avoengo|m}}
 * Romanian: {{t+|ro|străbunic|m}}, {{t+|ro|strămoș|m}}, {{t|ro|strămoși|p}}, {{t+|ro|străbun|m}}
 * Spanish: {{t+|es|abuelo|m}}
