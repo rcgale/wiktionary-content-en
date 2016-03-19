@@ -259,7 +259,7 @@ From {{affix|eo|zebro|gloss1=zebra|-a}}.
 [[File:Raised_crosswalk_1.jpg|thumb|Zebra [2].]]
 
 ===Pronunciation===
-* {{IPA|/ˈzɛbrɒ/|lang=hu}}
+* {{hu-IPA}}
 * {{hyphenation|zeb|ra|lang=hu}}
 
 ===Noun===
@@ -269,13 +269,14 @@ From {{affix|eo|zebro|gloss1=zebra|-a}}.
 # [[pedestrian crossing]], [[crosswalk]], [[zebra crossing]]
 
 ====Declension====
-{{hu-decl-k-back|zebr|á}}{{hu-pos-tok|zebrá}}
+{{hu-infl-nom|zebrá|o}}{{hu-pos-tok|zebrá}}
 
 ====Synonyms====
 * {{sense|crosswalk}} [[gyalogátkelőhely]]
 
 ====Derived terms====
-* {{qualifier|Compound words}}: [[zebrapinty]]
+{{qualifier|Compound words}}:
+* [[zebrapinty]]
 
 [[Category:hu:Equids]]
 [[Category:hu:Road transport]]
