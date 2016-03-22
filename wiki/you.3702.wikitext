@@ -107,7 +107,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: Old Armenian: {{t|xcl|ձեզ}}
 * Asturian: {{t+|ast|vosotros|m-p}}, {{t+|ast|vosotres|f-p}}
 * Azeri: {{t-needed|az}}
-* Bulgarian: {{qualifier|direct object, full}} {{t|bg|вас|tr=vas}}, {{qualifier|direct object, short}} {{t|bg|ви|tr=vi}}, {{qualifier|indirect object, full}} {{t|bg|вам|tr=vam}}, {{qualifier|indirect object, short}} {{t|bg|ви|tr=vi}}
+* Bulgarian: {{t|bg|вас}} {{qualifier|direct object|full}}, {{t|bg|ви}} {{qualifier|direct object|short}}, {{t|bg|вам}} {{qualifier|indirect object|full}}, {{t|bg|ви}} {{qualifier|indirect object|short}}
 * Catalan: {{t+|ca|vosaltres}}, {{t+|ca|vostès}}, {{t|ca|vós}}
 * Cherokee: {{t-needed|chr}}
 * Chinese:
@@ -118,7 +118,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Czech: {{t+|cs|vás}}, {{t|cs|vám}}, {{t|cs|vámi}}
 * Dalmatian: {{t|dlm|voi}}
 * Danish: {{t+|da|jer}}
-* Dutch: {{qualifier|standard}} {{t+|nl|jullie}}, {{t+|nl|je}}, {{qualifier|formal}} {{t+|nl|u}}, {{qualifier|Flemish}} {{t+|nl|u}}
+* Dutch: {{t+|nl|jullie}} {{qualifier|standard}}, {{t+|nl|je}}, {{t+|nl|u}} {{qualifier|formal}}, {{t+|nl|u}} {{qualifier|Flemish}}
 * Esperanto: {{t+|eo|vin}}
 * Ewe: {{t|ee|mi}}, {{t|ee|miawo}}
 * Faroese: {{t|fo|tykkum}}
@@ -128,27 +128,26 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: Old French: {{t|fro|vos}}
 * Friulian: {{t-needed|fur}}
 * Galician: {{t|gl|vostedes}}
-* Georgian: {{t|ka|თქვენ|sc=Geor}}
-* German: {{qualifier|accusative|familiar}} {{t+|de|euch}}, {{qualifier|accusative|polite}} {{t+|de|Sie}}, {{qualifier|dative|familiar}} {{t+|de|euch}}, {{qualifier|dative|polite}} {{t+|de|Ihnen}}
+* Georgian: {{t|ka|თქვენ}}
+* German: {{t+|de|euch}} {{qualifier|accusative|familiar}}, {{t+|de|Sie}} {{qualifier|accusative|polite}}, {{t+|de|euch}} {{qualifier|dative|familiar}}, {{t+|de|Ihnen}} {{qualifier|dative|polite}}
 * Greek: {{t+|el|εσάς|p}}
 * Gujarati: {{t-needed|gu}}
 * Hausa: {{t+|ha|kai|m}}, {{t|ha|ku|n-p}}, {{t|ha|ke|f}}, {{t+|ha|kai|m}}, {{t+|ha|kai|m}}
-* Hebrew: {{t+|he|אתם|m|tr=atém|sc=Hebr}}
-* Hindi: {{qualifier|mid-polite or familiar}} {{t|hi|तुम|tr=tum}}, {{qualifier|polite}} {{t|hi|आप|tr=āp}}
+* Hebrew: {{t+|he|אתם|m|tr=atém}}
+* Hindi: {{t|hi|तुम}} {{qualifier|mid-polite or familiar}}, {{t|hi|आप}} {{qualifier|polite}}
 * Hungarian: {{t-needed|hu}}
 * Icelandic: {{t+|is|ykkur}}
-* Indonesian: {{qualifier|familiar}} {{t+|id|kalian}}
-* Irish: {{t|ga|sibh}}, {{qualifier|emphatic}} {{t|ga|sibhse}}
+* Indonesian: {{t+|id|kalian}} {{qualifier|familiar}}
+* Irish: {{t|ga|sibh}}, {{t|ga|sibhse}} {{qualifier|emphatic}}
 *: Old Irish: {{t|sga|-uib}}, {{t|sga|b-}}, {{t|sga|dob-}}
-* Italian: {{qualifier|direct object}} {{t+|it|vi}}, {{qualifier|indirect object}} {{t+|it|vi}}, {{qualifier|after preposition}} {{t+|it|voi}}, {{t+|it|Loro}} {{qualifier|formal polite}}
+* Italian: {{t+|it|vi}} {{qualifier|direct object}}, {{t+|it|vi}} {{qualifier|indirect object}}, {{t+|it|voi}} {{qualifier|after preposition}}, {{t+|it|Loro}} {{qualifier|formal|polite}}
 * Japanese: <!-- Maybe we need a separate article for the case of ja pronouns... perhaps the "horribly insulting" ones should be removed just for sake’s sake... there should probably be a better term than ‘rude’ here too. -->, {{qualifier|generic|discourteous if used for a superior}} {{t-check|ja|貴方達|tr=[[あなたたち]], anata-tachí|sc=Jpan}}, {{qualifier|honorific}} {{t-check|ja|貴方方|tr=[[あなたがた]], anata-gatá|sc=Jpan}}, {{t-check|ja|お前達|tr=[[おまえたち]], omaé-tachi|sc=Jpan}}, {{qualifier|highly insulting}} {{t-check|ja|貴様等|tr=[[きさまら]], kisamá-ra|sc=Jpan}} {{qualifier|used to be highly formal}}, {{qualifier|intimate; in business, used toward subordinates}} {{t-check|ja|君達|tr=[[きみたち]], kimi-tachí|sc=Jpan}}
-* Norman: {{t|nrf|ou}}
-* Kannada: {{qualifier|accusative}} {{t|kn|ನಿಮ್ಮನ್ನು|sc=Knda}}, {{qualifier|dative}} {{t|kn|ನಿಮಗೆ|sc=Knda}}
+* Kannada: {{t|kn|ನಿಮ್ಮನ್ನು}} {{qualifier|accusative}}, {{t|kn|ನಿಮಗೆ}} {{qualifier|dative}}
 * Khmer: {{t|km|អ្នកទាំងអស់គ្នា|tr=neak teang ɑh knie}}, {{t|km|លោកអ្នក|tr=louk neak}}, {{t|km|ពួកអ្នក|tr=puək neak}}
 * Korean: {{t-needed|ko}}
 * Kurdish:
 *: [[Kurmanji]]: {{t+|ku|we}}
-* Latin: {{qualifier|direct object}} {{t+|la|vos}}, {{qualifier|indirect object}} {{t+|la|vobis}}, {{qualifier|after preposition that governs the accusative}} {{t+|la|vos}}, {{qualifier|after preposition that dative and ablative}} {{t+|la|vobis}}, {{qualifier|acc}} {{t+|la|vos}}, {{qualifier|ablative and dative}} {{t+|la|vobis}}
+* Latin: {{t+|la|vos}} {{qualifier|direct object}}, {{t+|la|vobis}} {{qualifier|indirect object}}, {{t+|la|vos}} {{qualifier|after preposition that governs the accusative}}, {{t+|la|vobis}} {{qualifier|after preposition that dative and ablative}}, {{t+|la|vos}} {{qualifier|accusative}}, {{t+|la|vobis}} {{qualifier|ablative and dative}}
 * Latvian: {{t+|lv|jūs}}
 {{trans-mid}}
 * Lithuanian: {{t+|lt|jus}}, {{t|lt|Jus}}
@@ -156,23 +155,24 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Macedonian: {{t|mk|вас}}, {{t|mk|вам}}
 * Malay: {{t|ms|kalian}}
 * Malayalam: {{t-needed|ml}}
-* Manx: {{t|gv|shiu}}, {{qualifier|emphatic}} {{t|gv|shiuish}}
+* Manx: {{t|gv|shiu}}, {{t|gv|shiuish}} {{qualifier|emphatic}}
 * Maori: {{t|mi|kōrua}} {{qualifier|two people}}, {{t|mi|koutou}} {{qualifier|three or more people}}
 * Marathi: {{t|mr|तूम्ही|sc=Deva}}
 * Mazanderani: {{t|mzn|شمار|tr=šëmârë|sc=fa-Arab}}
 * Mirandese: {{t-needed|mwl}}
 * Nepali: {{t-needed|ne}}
+* Norman: {{t|nrf|ou}} {{qualifier|Jersey}}
 * Norwegian:
-*: Bokmål: {{qualifier|familiar}} {{t+|nb|dere}}, {{qualifier|familiar|rare}} {{t|nb|eder}}, {{qualifier|polite}} {{t+|nb|Dere}}
-*: Nynorsk: {{qualifier|familiar}} {{t+|nn|dykk}}, {{qualifier|polite}} {{t|nn|Dykk}}
+*: Bokmål: {{t+|nb|dere}} {{qualifier|familiar}}, {{t|nb|eder}} {{qualifier|familiar|rare}}, {{t+|nb|Dere}} {{qualifier|polite}}
+*: Nynorsk: {{t+|nn|dykk}} {{qualifier|familiar}}, {{t|nn|Dykk}} {{qualifier|polite}}
 * Novial: {{t|nov|vus}}
 * Occitan: {{t-needed|oc}}
 * Old English: {{t+|ang|inċ}} {{qualifier|dual}}, {{t|ang|ēow|p}}
-* Oriya: {{qualifier|formal}} {{t|or|ଆପଣମାନଙ୍କୁ|tr=āpaṇamānaṅku|sc=Orya}}, {{qualifier|familiar}} {{t|or|ତୁମମାନଙ୍କୁ|tr=tumamānaṅku|sc=Orya}}
+* Oriya: {{t|or|ଆପଣମାନଙ୍କୁ|tr=āpaṇamānaṅku|sc=Orya}} {{qualifier|formal}}, {{t|or|ତୁମମାନଙ୍କୁ|tr=tumamānaṅku|sc=Orya}} {{qualifier|familiar}}
 * Persian: {{t|fa|شما را|tr=šomā rā}}
 * Pipil: {{t|ppl|metzin-}}
 * Pitcairn-Norfolk: {{t|pih|yorle}}
-* Polish: {{qualifier|familiar}} {{t+|pl|was|c-p}}, {{qualifier|polite}} {{t|pl|Państwa|c-p}}
+* Polish: {{t+|pl|was|c-p}} {{qualifier|familiar}}, {{t|pl|Państwa|c-p}} {{qualifier|polite}}
 * Portuguese: {{qualifier|familiar in Portugal, archaic in Brazil}} {{t+|pt|vos}} {{qualifier|with or without prepositions}} {{t+|pt|convosco}} {{qualifier|attached to the preposition "com"}}, {{qualifier|polite in Portugal, general in Brazil}} {{t+|pt|vocês}}, {{t+|pt|consigo}} {{qualifier|attached to the preposition "com"; used only in Portugal}}, {{qualifier|formal, according to the addressee's gender}} {{t|pt|os senhores|m}} {{qualifier|also with mixed groups}}, {{t|pt|as senhoras|f}} {{qualifier|all-female groups only}}
 * Punjabi: {{t|pa|ਤੁਸੀਂ|p|tr=tusin|sc=Guru}}
 * Quechua: {{t|qu|qamkunata}}
@@ -198,7 +198,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Tajik: {{t|tg|шумо ро}}
 * Tamil: {{t-needed|ta}}
 * Taos: {{t|twf|ę̋}}
-* Telugu: {{t+|te|నీవు|tr=nīvu}}
+* Telugu: {{t+|te|నీవు}}
 * Tlingit: {{t|tli|yeewháan}}
 * Turkish: {{t|tr|sizi}}
 * Ukrainian: {{t|uk|вас}}
@@ -230,7 +230,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: Old Armenian: {{t|xcl|քեզ}}
 * Asturian: {{t+|ast|te}}, {{t+|ast|te}}
 * Bulgarian: {{qualifier|informal, direct object, full}} {{t|bg|теб}}, {{qualifier|informal, direct object, short}} {{t+|bg|те}}, {{qualifier|informal, indirect object, full}} {{t|bg|тебе}}, {{qualifier|informal, indirect object, short}} {{t|bg|ти}}, {{qualifier|formal, direct object, full}} {{t|bg|Вас}}, {{qualifier|formal, direct object, short}} {{t|bg|Ви}}, {{qualifier|formal, indirect object, full}} {{t|bg|Вам}}, {{qualifier|formal, indirect object, short}} {{t|bg|Ви}}
-* Burmese: {{t+|my|နင်|tr=nang|sc=Mymr}}, {{t+|my|မင်း|tr=mang:|sc=Mymr}}, {{t+|my|ခင်ဗျား|tr=hkangbya:|sc=Mymr}}, {{t+|my|ရှင်|tr=hrang|sc=Mymr}}
+* Burmese: {{t+|my|နင်}}, {{t+|my|မင်း}}, {{t+|my|ခင်ဗျား}}, {{t+|my|ရှင်}}
 * Catalan: {{t+|ca|tu}}, {{t+|ca|vostè}}
 * Chamicuro: {{t|ccc|pi'ti}}
 * Chinese:
@@ -253,7 +253,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Georgian: {{t+|ka|შენ|sc=Geor}}
 * German: {{qualifier|familiar}} {{t+|de|dich|c}}, {{qualifier|polite}} {{t+|de|Sie|c}}
 * Greek: {{t+|el|εσένα}}
-* Hindi: {{qualifier|familiar}} {{t|hi|तुझ|tr=tujh}}, {{qualifier|mid-polite}} {{t|hi|तुम|tr=tum}}, {{qualifier|polite}} {{t|hi|आप|tr=āp}}
+* Hindi: {{t|hi|तुझ}} {{qualifier|familiar}}, {{t|hi|तुम}} {{qualifier|mid-polite}}, {{t|hi|आप}} {{qualifier|polite}}
 * Hopi: {{t|hop|ung}}
 * Icelandic: {{qualifier|familiar}} {{t+|is|þig}}, {{qualifier|polite, rare in modern Icelandic}} {{t+|is|yður}}
 * Irish: {{t|ga|thú}}, {{qualifier|emphatic}} {{t|ga|thusa}}
@@ -261,8 +261,8 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Italian: {{t+|it|ti|m|f}}
 * Japanese: {{qualifier|generic}} {{t+|ja|君|tr=きみ, kimi}}, {{qualifier|polite}} {{t+|ja|貴方|tr=[[あなた]], anata}}, {{qualifier|friendly or slightly rude}} {{t+|ja|お前|tr=[[おまえ]], omae}}, {{qualifier|highly insulting}} {{t|ja|貴様|tr=[[きさま]], kisama}}
 * Javanese: {{t|jv|jenengan}}
-* Kannada: {{qualifier|accusative}} {{t|kn|ನಿನ್ನನ್ನು|sc=Knda}}, {{qualifier|dative}} {{t|kn|ನಿನಗೆ|sc=Knda}}
-* Latin: {{t+|la|te}}, {{qualifier|acc and ablative}} {{t+|la|te}}, {{qualifier|dative}} {{t+|la|tibi}}
+* Kannada: {{t|kn|ನಿನ್ನನ್ನು}} {{qualifier|accusative}}, {{t|kn|ನಿನಗೆ}} {{qualifier|dative}}
+* Latin: {{t+|la|te}}, {{t+|la|te}} {{qualifier|accusative and ablative}}, {{t+|la|tibi}} {{qualifier|dative}}
 {{trans-mid}}
 * Latvian: {{t|lv|tevi}}, {{t+|lv|jūs}}
 * Lithuanian: {{t+|lt|tave}}, {{t|lt|Jus}}
@@ -375,12 +375,11 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: Old Irish: {{t|sga|síi}}, {{t|sga|sib}}
 * Italian: {{qualifier|polite}} {{t+|it|voi}}, {{qualifier|formal polite}} {{t+|it|Loro}}
 * Japanese: <!-- Maybe we need a separate article for the case of ja pronouns... perhaps the "horribly insulting" ones should be removed just for sake’s sake... there should probably be a better term than ‘rude’ here too. -->{{qualifier|generic}} {{sense|discourteous if used for a superior}} {{t|ja|貴方達|tr=[[あなたたち]], anata-tachi}}, {{qualifier|honorific}} {{t|ja|貴方方|tr=[[あなたがた]], anata-gata}}, {{qualifier|slightly rude, occasionally generic}} {{t|ja|お前達|tr=[[おまえたち]], omae-tachi}}, {{qualifier|highly insulting}} {{t|ja|貴様等|tr=[[きさまら]], kisama-ra}} {{qualifier|used to be highly formal}}, {{qualifier|intimate; in business, used toward subordinates}} {{t|ja|君達|tr=[[きみたち]], kimi-tachi}}
-* Norman: {{t|nrf|ou}}
-* Kannada: {{t+|kn|ನೀವು|tr=nīvu|sc=Knda}}
+* Kannada: {{t+|kn|ನೀವು}}
 * Kazakh: {{qualifier|informal}} {{t|kk|сендер}}, {{qualifier|formal}} {{t|kk|сіздер}}
 * Korean: {{qualifier|generic|discourteous if used for a superior}} {{t+check|ko|너희|tr=neohui}}, {{qualifier|honorific}} {{t+check|ko|여러분|tr=yeoreobun}}, {{qualifier|slightly rude}} {{t+check|ko|너희|tr=neohui}}, {{t-check|ko|당신들|tr=dangsin deul}}, {{qualifier|highly insulting}} {{t-check|ko|이놈들|tr=inomdeul}}, {{t-check|ko|[[이]] [[새끼들]]|sc=Kore}}, {{qualifier|very familiar}} {{t-check|ko|니네|tr=nine}}, {{t-check|ko|니들|tr=nideul}} {{qualifier|insulting if used wrongly}}, {{qualifier|intimate|in business, used toward subordinates}} {{t-check|ko|자네들|tr=janedeul}}
-* Kyrgyz: {{qualifier|familiar}} {{t+|ky|силер}}, {{qualifier|polite}} {{t|ky|сиздер}}
-* Lao: {{t+|lo|ເຈົ້າ|tr=cao|sc=Laoo}} (to an equal)
+* Kyrgyz: {{t+|ky|силер}} {{qualifier|familiar}}, {{t|ky|сиздер}} {{qualifier|polite}}
+* Lao: {{t+|lo|ເຈົ້າ|tr=cao}} {{qualifier|to an equal}}
 {{trans-mid}}
 * Latgalian: {{t|ltg|jius}}
 * Latin: {{t+|la|vos}}
@@ -389,12 +388,13 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Luxembourgish: {{t+|lb|dir}}
 * Macedonian: {{t|mk|вие}}
 * Malay: {{t|ms|kalian}}
-* Malayalam: {{t|ml|നിങ്ങള്|sc=Mlym}}
+* Malayalam: {{t|ml|നിങ്ങള്}}
 * Maltese: {{t|mt|intkom}}
 * Manx: {{t|gv|shiu}}, {{qualifier|emphatic}} {{t|gv|shiuish}}
 * Mazanderani: {{t|mzn|شما|tr=šëmâ|sc=fa-Arab}}
 * Mongolian: {{t|mn|та нар}}
 * Navajo: {{qualifier|[[dual]]}} {{t|nv|nihí}}, {{qualifier|plural}} {{t|nv|danihí}}
+* Norman: {{t|nrf|ou}} {{qualifier|Jersey}}
 * Northern Sami: {{qualifier|[[dual]]}} {{t|se|doai}}, {{qualifier|plural}} {{t|se|dii}}
 * Northern Thai: {{t|nod|ᨧᩮᩢ᩶ᩣ|tr=chao|sc=Lana}}
 * Norwegian:
@@ -422,7 +422,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Serbo-Croatian: {{t|sh|vi}}
 * Sichuan Yi: {{t|ii|ꆍ|tr=nop|sc=Yiii}}
 * Sicilian: {{t|scn|vuiàtri}}, {{t+|scn|vuàutri}}
-* Sinhalese: {{qualifier|informal}} {{t|si|ඔයාලා|tr=oyālā|sc=Sinh}}, {{qualifier|formal}} {{t|si|ඔබ සියල්ලන්|tr=oba siyallan|sc=Sinh}}
+* Sinhalese: {{t|si|ඔයාලා}} {{qualifier|informal}}, {{t|si|ඔබ සියල්ලන්}} {{qualifier|formal}}
 * Slovak: {{t|sk|vy}}
 * Slovene: {{t+|sl|ví}}
 * Sorbian:
@@ -438,22 +438,22 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Talysh: {{t|tly|شما|tr=šəmâ|sc=fa-Arab}}
 * Taos: {{t|twf|ę̋}}
 * Tatar: {{t+|tt|сез}}
-* Telugu: {{t+|te|నువ్వు|sc=Telu|tr=nuvvu}}, {{t+|te|మీరు|sc=Telu|tr=mīru}}
+* Telugu: {{t+|te|నువ్వు}}, {{t+|te|మీరు}}
 * Tetum: {{t|tet|ó}}, {{t|tet|imi}}, {{t|tet|Ita}}, {{t|tet|Ita-Boot}}, {{t|tet|Ita-Na’i}}
 * Thai: {{t+|th|คุณ|tr=khun|sc=Thai}}
 * Tigrinya: {{qualifier|informal}} {{t|ti|ንስኻትኩም|m|sc=Ethi}}, {{t|ti|ንስኻትክን|f|sc=Ethi}}; {{qualifier|polite}} {{t|ti|ንስኹም|m|sc=Ethi}}, {{t|ti|ንስኽን|f|sc=Ethi}}; {{qualifier|vocative}} {{t|ti|ኣቱም|m|sc=Ethi}}, {{t|ti|ኣተን|f|sc=Ethi}}
 * Tok Pisin: {{t|tpi|yupela}}
 * Turkish: {{t+|tr|siz}}, {{t|tr|sizler}}
 * Turkmen: {{t|tk|siz}}
-* Ukrainian: {{t+|uk|ви|tr=vy}}
+* Ukrainian: {{t+|uk|ви}}
 * Urdu: {{qualifier|familiar}} {{t|ur|تو|tr=tū}}, {{qualifier|polite}} {{t+|ur|آپ|tr=āp}}
-* Uyghur: {{qualifier|informal}} {{t|ug|سەنلەر|tr=senler|sc=ug-Arab}}, {{qualifier|formal}} {{t|ug|سىلەر|tr=siler|sc=ug-Arab}}, {{qualifier|respectful}} {{t|ug|سىزلەر|tr=sizler|sc=ug-Arab}}
+* Uyghur: {{t|ug|سەنلەر}} {{qualifier|informal}}, {{t|ug|سىلەر}} {{qualifier|formal}}, {{t|ug|سىزلەر}} {{qualifier|respectful}}
 * Uzbek: {{t+|uz|siz}}
 * Venetian: {{t+|vec|voaltri}}
 * Volapük: {{t+|vo|ols}}
 * Welsh: {{t|cy|chi}}, {{t|cy|chwi}}
 * West Frisian: {{qualifier|informal}} {{t+|fy|jimme}}, {{qualifier|formal}} {{t+|fy|jo}}
-* Yiddish: {{t|yi|איר|tr=ir|sc=Hebr}}
+* Yiddish: {{t|yi|איר}}
 * Yoruba: {{t|yo|ệyin}}
 * Zulu: {{t|zu|nina}}
 * ǃXóõ: {{t|nmn|ūh}}, {{qualifier|emphatic}} {{t|nmn|ūhʻū}}
@@ -479,9 +479,9 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Bakhtiari: {{t|bqi|تو|tr=to|sc=fa-Arab}}
 * Bashkir: {{t|ba|һин}}
 * Belarusian: {{qualifier|familiar}} {{t+|be|ты}}, {{qualifier|polite}} {{t+|be|вы}}
-* Bengali: {{qualifier|very familiar}} {{t|bn|তুই|tr=tu'i|sc=Beng}}, {{qualifier|familiar}} {{t|bn|তুমি|tr=tumi|sc=Beng}}, {{qualifier|polite}} {{t|bn|আপনি|tr=āpni|sc=Beng}}
+* Bengali: {{t|bn|তুই|tr=tu'i|sc=Beng}} {{qualifier|very familiar}}, {{t|bn|তুমি|tr=tumi|sc=Beng}} {{qualifier|familiar}}, {{t|bn|আপনি|tr=āpni|sc=Beng}} {{qualifier|polite}}
 * Bulgarian: {{qualifier|informal}} {{t|bg|ти|tr=ti}}, {{qualifier|formal}} {{t|bg|Вие|tr=Víe}}
-* Burmese: {{t+|my|နင်|tr=nang|sc=Mymr}} {{qualifier|informal}}, {{t+|my|မင်း|tr=mang:|sc=Mymr}} {{qualifier|informal}}, {{t+|my|ခင်ဗျား|tr=hkang-bya:|sc=Mymr}} {{qualifier|polite, used by males}}, {{t+|my|ရှင်|tr=hrang|sc=Mymr}} {{qualifier|polite, used by females}}
+* Burmese: {{t+|my|နင်}} {{qualifier|informal}}, {{t+|my|မင်း}} {{qualifier|informal}}, {{t+|my|ခင်ဗျား}} {{qualifier|polite, used by males}}, {{t+|my|ရှင်}} {{qualifier|polite, used by females}}
 * Buryat: {{t|bua|ши}}
 * Catalan: {{t+|ca|tu}}, {{t+|ca|vostè}}
 * Chamicuro: {{t|ccc|pi'ti}}
@@ -519,21 +519,21 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Havasupai-Walapai-Yavapai: {{t|yuf|ma}}
 * Hawaiian: {{t|haw|ʻoe}}
 * Hebrew: {{t+|he|אַתָּה|m|tr='ata}}, {{t+|he|אַתְּ|f|tr='at}}
-* Hindi: {{qualifier|familiar}} {{t|hi|तू|tr=tū|sc=Deva}}, {{qualifier|mid-polite}} {{t|hi|तुम|tr=tum|sc=Deva}}, {{qualifier|polite}} {{t|hi|आप|tr=āp|sc=Deva}}
+* Hindi: {{t|hi|तू}} {{qualifier|familiar}}, {{t|hi|तुम}} {{qualifier|mid-polite}}, {{t|hi|आप}} {{qualifier|polite}}
 * Hopi: {{t|hop|um}}
 * Hungarian: {{t+|hu|te}}
-* Icelandic: {{qualifier|familiar}} {{t+|is|þú}}, {{qualifier|polite|rare in modern Icelandic}} {{t+|is|þér}}
-* Irish: {{t|ga|tú}}, {{qualifier|emphatic}} {{t|ga|tusa}}
+* Icelandic: {{t+|is|þú}} {{qualifier|familiar}}, {{t+|is|þér}} {{qualifier|polite|rare in modern Icelandic}}
+* Irish: {{t|ga|tú}}, {{t|ga|tusa}} {{qualifier|emphatic}}
 *: Old Irish: {{t|sga|tú}}
-* Italian: {{qualifier|familiar}} {{t+|it|tu}}, {{qualifier|polite}} {{t+|it|lei}}, {{t+|it|Lei}}, {{qualifier|most polite|archaic}} {{t|it|Voi}}
+* Italian: {{t+|it|tu}} {{qualifier|familiar}}, {{t+|it|lei}} {{qualifier|polite}}, {{t+|it|Lei}}, {{t|it|Voi}} {{qualifier|most polite|archaic}}
 * Japanese: {{qualifier|familiar}} {{t+|ja|君|tr=きみ, kimi}}, {{qualifier|polite}} {{t+|ja|貴方|tr=[[あなた]], anata}}, {{qualifier|dialect}} {{t+|ja|自分|tr=jibun}}, {{qualifier|usually feminine or older male speaker}} {{t|ja|あんた|tr=anta}}, {{qualifier|feminine to young male}} {{t+|ja|僕|tr=boku}}, {{qualifier|friendly or slightly rude}} {{t+|ja|お前|tr=[[おまえ]], omae}}, {{qualifier|highly insulting}} {{t|ja|貴様|tr=[[きさま]], kisama}}, {{qualifier|polite}} {{t+|ja|そちら|tr=sochira}}, {{qualifier|familiar}} {{t+|ja|そっち|tr=socchi}}, {{qualifier|vulgar or dialect}} {{t|ja|われ|tr=ware}}, {{qualifier|vulgar or dialect}} {{t|ja|おんどれ|tr=ondore}}
 * Javanese: {{t|jv|kowe}}, {{t|jv|awakmu}}
-* Kannada: {{t+|kn|ನೀನು|tr=nīnu|sc=Knda}}
+* Kannada: {{t+|kn|ನೀನು}}
 * Kazakh: {{qualifier|informal}} {{t+|kk|сен}}, {{qualifier|formal}} {{t+|kk|сіз}}
 * Khmer: {{t+|km|លោក|tr=lōk|sc=Khmr}} {{qualifier|male}}, {{t|km|លោក​ស្រី|tr=lōk sray|sc=Khmr}} {{qualifier|older female}}, {{t|km|នាង​ស្រី|tr=neeung sray|sc=Khmr}} {{qualifier|younger female}}
 * Korean: {{t+|ko|당신|sc=Kore}} ({{t+|ko|當身|sc=Kore}}), {{t+|ko|너|sc=Kore}}, {{t+|ko|네|sc=Kore}}, {{t+|ko|자네|sc=Kore}}
 * Kurdish: {{t+|ku|tu|sc=ku-Arab}}, {{t+|ku|tu|sc=ku-Arab}}
-* Kyrgyz: {{qualifier|informal}} {{t+|ky|сен}}, {{qualifier|formal}} {{t+|ky|сиз}}
+* Kyrgyz: {{t+|ky|сен}} {{qualifier|informal}}, {{t+|ky|сиз}} {{qualifier|formal}}
 * Latgalian: {{t|ltg|tu}}, {{qualifier|polite}} {{t|ltg|jius|p}}
 * Latin: {{t+|la|tu}}, {{t+|la|vos|p}}
 {{trans-mid}}
@@ -580,7 +580,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: Cyrillic: {{qualifier|familiar}} {{t|sh|ти}}, {{qualifier|polite}} {{t|sh|ви}}
 *: Roman: {{qualifier|familiar}} {{t+|sh|ti}}, {{qualifier|polite}} {{t|sh|vi}}
 * Sichuan Yi: {{t|ii|ꆏ|tr=ne|sc=Yiii}}
-* Sinhalese: {{t|si|ඔයා|tr=oyā|sc=Sinh}} {{qualifier|informal}}, {{t|si|ඔබ|tr=oba|sc=Sinh}} {{qualifier|formal}}
+* Sinhalese: {{t|si|ඔයා}} {{qualifier|informal}}, {{t|si|ඔබ}} {{qualifier|formal}}
 * Skolt Sami: {{t|sms|ton}}
 * Slovak: {{qualifier|familiar}} {{t+|sk|ty}}, {{qualifier|polite}} {{t|sk|vy}}
 * Slovene: {{t+|sl|tí}} {{qualifier|familiar}}, {{t+|sl|ví}} {{qualifier|polite}}
@@ -592,11 +592,11 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Swedish: {{t+|sv|du}}, {{t+|sv|ni}} {{qualifier|formal}}
 * Tagalog: {{qualifier|familiar}} {{t+|tl|ikaw}}, {{qualifier|polite}} {{t|tl|kayo}}, {{qualifier|"sa" form, familiar}} {{t|tl|iyo}}, {{qualifier|"sa" form, polite}} {{t|tl|inyo}}, {{qualifier|familiar, when "you" acts out verb}} {{t|tl|mo}}, {{qualifier|polite, when "you" acts out verb}} {{t|tl|niyo}}, {{qualifier|most polite, when "you" acts out verb}} {{t|tl|nila}}
 * Tajik: {{qualifier|familiar}} {{t+|tg|ту}} {{qualifier|polite, grammatically plural}} {{t|tg|Шумо}}
-* Tamil: {{t+|ta|நீ|tr=nii|sc=Taml}} {{qualifier|familiar}}, {{t+|ta|நீங்கள்|tr=niingaL|sc=Taml}} {{qualifier|polite}}, {{t+|ta|தாங்கள்|tr=thaangaL|sc=Taml}} {{qualifier|most polite}}, {{t+|ta|நீர்|tr=niir|sc=Taml}}{{qualifier|polite}}
+* Tamil: {{t+|ta|நீ}} {{qualifier|familiar}}, {{t+|ta|நீங்கள்}} {{qualifier|polite}}, {{t+|ta|தாங்கள்}} {{qualifier|most polite}}, {{t+|ta|நீர்}} {{qualifier|polite}}
 * Tangsa: {{t|nst|ümznäq}}
 * Taos: {{t|twf|ę̋}}
 * Tatar: {{t|tt|син}}
-* Telugu: {{qualifier|familiar}} {{t+|te|నీవు|tr=nEvu|sc=Telu}}, {{qualifier|polite}} {{t+|te|మీరు|tr=meeru|sc=Telu}}
+* Telugu: {{t+|te|నీవు}} {{qualifier|familiar}}, {{t+|te|మీరు}} {{qualifier|polite}}
 * Thai: {{t+|th|คุณ|tr=kun|sc=Thai}}, {{t+|th|เธอ|tr=ter|sc=Thai}}
 * Tigrinya: {{qualifier|informal}} {{t|ti|ንስኻ|m|sc=Ethi}}, {{t|ti|ንስኺ|f|sc=Ethi}}; {{qualifier|polite}} {{t|ti|ንስኹም|m|sc=Ethi}}, {{t|ti|ንስኽን|f|sc=Ethi}}; {{qualifier|vocative}} {{t|ti|ኣታ|m|sc=Ethi}}, {{t|ti|ኣቲ|f|sc=Ethi}}
 * Turkish: {{qualifier|familiar}} {{t+|tr|sen}} {{qualifier|polite, grammatically plural}} {{t+|tr|siz}}
@@ -604,14 +604,14 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Ugaritic: {{t|uga|𐎀𐎚|tr=ʾat|sc=Ugar}}
 * Ukrainian: {{qualifier|familiar}} {{t+|uk|ти}}, {{qualifier|polite}} {{t+|uk|ви}}
 * Unami: {{t|unm|ki}}
-* Urdu: {{qualifier|formal}} {{t+|ur|آپ|tr=āp|sc=ur-Arab}}, {{qualifier|informal}} {{t+|ur|تم|tr=tum|sc=ur-Arab}}, {{qualifier|very informal}} {{t|ur|تو|tr=tū|sc=ur-Arab}}, {{qualifier|informal}} {{t+|ur|تم|tr=tum|sc=ur-Arab}}, {{qualifier|very informal}} {{t|ur|تو|tr=tū|sc=ur-Arab}}
-* Uyghur: {{qualifier|informal}} {{t|ug|سەن|tr=sen|sc=ug-Arab}}, {{qualifier|formal}} {{t+|ug|سىز|tr=siz|sc=ug-Arab}}, {{qualifier|respectful}} {{t|ug|سىلى|tr=sili|sc=ug-Arab}}
+* Urdu: {{t+|ur|آپ|tr=āp}} {{qualifier|formal}}, {{t+|ur|تم|tr=tum}} {{qualifier|informal}}, {{t|ur|تو|tr=tū}} {{qualifier|very informal}}, {{t+|ur|تم|tr=tum}} {{qualifier|informal}}, {{t|ur|تو|tr=tū}} {{qualifier|very informal}}
+* Uyghur: {{t|ug|سەن}} {{qualifier|informal}}, {{t+|ug|سىز}} {{qualifier|formal}}, {{t|ug|سىلى}} {{qualifier|respectful}}
 * Uzbek: {{t+|uz|sen}}
 * Venetian: {{t+|vec|ti}}
 * Vietnamese: {{t+|vi|bạn}}
 * Volapük: {{t+|vo|ol}}
-* Welsh: {{qualifier|familiar}} {{t+|cy|ti}}, {{qualifier|polite}} {{t|cy|chi}}, {{qualifier|polite}} {{t|cy|chwi}}
-* West Frisian: {{qualifier|informal}} {{t+|fy|do}}, {{qualifier|formal}} {{t+|fy|jo}}
+* Welsh: {{t+|cy|ti}} {{qualifier|familiar}}, {{t|cy|chi}} {{qualifier|polite}}, {{t|cy|chwi}} {{qualifier|polite}}
+* West Frisian: {{t+|fy|do}} {{qualifier|informal}}, {{t+|fy|jo}} {{qualifier|formal}}
 * Yoruba: {{t|yo|(familiar) ìwọ , (polite, grammatically plural) ệyin}}
 * Zulu: {{t|zu|wena}}
 * ǃXóõ: {{t|nmn|āh}}, {{qualifier|emphatic}} {{t|nmn|āhʻā}}, {{qualifier|dual}} {{t|nmn|ǂnûmʻū|alt=ǂnûm}}
@@ -636,11 +636,11 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Italian: {{t+|it|si}}
 * Japanese: {{qualifier|generic}} {{t+|ja|君|tr=きみ, kimi}}, {{qualifier|polite}} {{t+|ja|貴方|tr=[[あなた]], anata}}, {{qualifier|slightly rude, or often friendly}} {{t+|ja|お前|tr=[[おまえ]], omae}}, {{qualifier|highly insulting}} {{t|ja|貴様|tr=[[きさま]], kisama}}
 {{trans-mid}}
-* Norman: {{t|nrf|nou}}
 * Kannada: {{t-needed|kn}}
 * Kurdish: {{t+|ku|mirov}}, {{t+|ku|mirovî}}, {{t+|ku|تۆ|sc=ku-Arab}}
 * Ladin: {{t|lld|n}}
-* Latin: {{qualifier|acc and ablative}} {{t+|la|te}}, {{qualifier|dative}} {{t+|la|tibi}}, {{qualifier|acc}} {{t+|la|vos|p}}, {{qualifier|dative and ablative}} {{t+|la|vobis|p}}
+* Latin: {{t+|la|te}} {{qualifier|accusative|ablative}}, {{t+|la|tibi}} {{qualifier|dative}}, {{t+|la|vos|p}} {{qualifier|accusative}}, {{t+|la|vobis|p}} {{qualifier|dative|ablative}}
+* Norman: {{t|nrf|nou}} {{qualifier|Jersey}}
 * Norwegian:
 *: Norwegian Bokmål: {{t+|nb|man}}, {{t+|nb|en}}, {{t+|nb|du}}
 *: Norwegian Nynorsk: {{t+|nn|ein}}, {{t+|nn|du}}
@@ -657,7 +657,8 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Sinhalese: {{t+check|si|ඔය|tr=oya|sc=Sinh}}
+* Sinhalese: {{t+check|si|ඔය}}
+{{trans-mid}}
 * Vietnamese: {{qualifier|polite}} {{t+check|vi|chị}}, {{t+check|vi|ông}}, {{t+check|vi|em}}, {{qualifier|neutral}} {{t-check|vi|quý vị}}, {{t+check|vi|bác}}, {{qualifier|{{g|s}}; with [[các]], {{g|p}}}} {{t+check|vi|dì|alt=dì and other words expressing familial relationship}} <!-- sg has its own section --> <!-- was "[[dì]] and other words expressing familial relationship" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-check|vi|các anh}}, {{t-check|vi|các chị}}, {{t-check|vi|các ông}}, {{t-check|vi|các bà}}, {{t-check|vi|các con}}, {{t-check|vi|các em}}, {{t-check|vi|các bạn}}, {{qualifier|rude unless to a friend or subordinate}} {{t-check|vi|các ngươi}}, {{t-check|vi|các mày}}
 {{trans-bottom}}
 
