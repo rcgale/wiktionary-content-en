@@ -45,7 +45,7 @@ From {{etyl|fro|en}} {{m|fro|comparison}}, from {{etyl|la|en}} {{m|la|comparāti
 {{trans-top|act of comparing or the state of being compared}}
 * Arabic: {{t|ar|مُقَّارَنَة|f}}, {{t|ar|مُقَّابَلَة|f}}
 * Azeri: {{t+|az|müqayisə}}
-* Belarusian: {{t|be|параўна́нне|n|sc=Cyrl}}
+* Belarusian: {{t|be|параўна́нне|n}}
 * Bulgarian: {{t+|bg|сравне́ние|n}}
 * Catalan: {{t+|ca|comparació|f}}
 * Chinese:
@@ -60,17 +60,17 @@ From {{etyl|fro|en}} {{m|fro|comparison}}, from {{etyl|la|en}} {{m|la|comparāti
 * Indonesian: {{t+|id|perbandingan}}
 * Italian: {{t|it|comparazione}}
 * Japanese: {{t+|ja|比較|tr=ひかく, hikaku|sc=Jpan}}
-* Norman: {{t|nrf|compathaison|f}}
 * Korean: {{t+|ko|비교|sc=Kore}} ({{t+|ko|比較|sc=Kore}})
-{{trans-mid}}
 * Latvian: {{t|lv|salīdzināšana|f}}, {{t|lv|salīdzinājums|m}}
+{{trans-mid}}
 * Lithuanian: {{t|lt|lyginimas|m}}
-* Macedonian: {{t|mk|спо́редба|f|sc=Cyrl}}
+* Macedonian: {{t|mk|спо́редба|f}}
+* Norman: {{t|nrf|compathaison|f}} {{qualifier|Jersey}}
 * Norwegian: {{t|no|sammenligning}}
 * Persian: {{t+|fa|مقایسه|tr=moqâyase/moqâyese|sc=fa-Arab}}
 * Polish: {{t+|pl|porównanie|n}}
 * Portuguese: {{t+|pt|comparação|f}}
-* Russian: {{t+|ru|сравне́ние|n}} (state); {{t+|ru|сра́внивание|n}} (process)
+* Russian: {{t+|ru|сравне́ние|n}} {{qualifier|state}}, {{t+|ru|сра́внивание|n}} {{qualifier|process}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|поређење|n|sc=Cyrl}}, {{t|sh|успоредба|f|sc=Cyrl}}
 *: Roman: {{t|sh|poređenje|n}}, {{t+|sh|usporedba|f}}
@@ -79,7 +79,7 @@ From {{etyl|fro|en}} {{m|fro|comparison}}, from {{etyl|la|en}} {{m|la|comparāti
 * Spanish: {{t+|es|comparación|f}}
 * Swedish: {{t+|sv|jämförelse|c}}
 * Turkish: {{t+|tr|karşılaştırma}}, {{t+|tr|mukayese}}
-* Ukrainian: {{t|uk|порі́вняння|n|sc=Cyrl}}
+* Ukrainian: {{t|uk|порі́вняння|n}}
 * Vietnamese: {{t+|vi|so sánh|alt=sự so sánh}}
 * Walloon: {{t+|wa|rimetaedje}}
 {{trans-bottom}}
@@ -96,12 +96,12 @@ From {{etyl|fro|en}} {{m|fro|comparison}}, from {{etyl|la|en}} {{m|la|comparāti
 * Hungarian: {{t+|hu|összehasonlítás}}
 * Irish: {{t+|ga|comparáid|f}}
 * Italian: {{t|it|comparazione}}
-* Norman: {{t|nrf|compathaison|f}}
-{{trans-mid}}
 * Lithuanian: {{t+|lt|palyginimas|m}}
-* Macedonian: {{t|mk|споредба|f|tr=spóredba|sc=Cyrl}}
+* Macedonian: {{t|mk|спо́редба|f}}
+{{trans-mid}}
 * Maori: {{t|mi|whakaritenga}}
 * Navajo: {{t|nv|ałhąąh sinil}}
+* Norman: {{t|nrf|compathaison|f}} {{qualifier|Jersey}}
 * Polish: {{t+|pl|porównanie|n}}
 * Portuguese: {{t+|pt|comparação|f}}
 * Russian: {{t+|ru|сравне́ние|n}}
@@ -110,7 +110,7 @@ From {{etyl|fro|en}} {{m|fro|comparison}}, from {{etyl|la|en}} {{m|la|comparāti
 * Slovene: {{t|sl|primerjava|f}}
 * Spanish: {{t+|es|comparación|f}}
 * Swedish: {{t+|sv|jämförelse|c}}
-* Ukrainian: {{t|uk|порі́вняння|n|sc=Cyrl}}
+* Ukrainian: {{t|uk|порі́вняння|n}}
 {{trans-bottom}}
 
 {{trans-top|state of being similar or alike}}
@@ -123,7 +123,7 @@ From {{etyl|fro|en}} {{m|fro|comparison}}, from {{etyl|la|en}} {{m|la|comparāti
 * Hungarian: {{t+|hu|hasonlóság}}
 {{trans-mid}}
 * Norman: {{t|nrf|compathaison|f}}
-* Macedonian: {{t|mk|сличност|f|tr=slíčnost|sc=Cyrl}}
+* Macedonian: {{t|mk|сли́чност|f}}
 * Polish: {{t+|pl|porównanie|n}}
 * Portuguese: {{t+|pt|comparação|f}}
 * Russian: {{t+|ru|сравне́ние|n}}
@@ -134,7 +134,7 @@ From {{etyl|fro|en}} {{m|fro|comparison}}, from {{etyl|la|en}} {{m|la|comparāti
 {{trans-top|ability of adjectives and adverbs to form three degrees}}
 * Czech: {{t|cs|stupňování|n}}
 * Finnish: {{t+|fi|komparaatio}}
-* French: [[degré|degrés]] [[de]] [[comparaison]] (degrees of comparison)
+* French: {{t|fr|[[degré|degrés]] [[de]] [[comparaison]]}} {{qualifier|degrees of comparison}}
 * German: {{t+|de|Komparation}}, {{t+|de|Steigerung|f}}
 * Hungarian: {{t+|hu|fokozás}}
 * Irish: {{t+|ga|comparáid|f}}
@@ -143,13 +143,14 @@ From {{etyl|fro|en}} {{m|fro|comparison}}, from {{etyl|la|en}} {{m|la|comparāti
 * Portuguese: {{t+|pt|comparação|f}}
 * Russian: {{t|ru|[[степень|сте́пени]] [[сравнение|сравне́ния]]|f-p}} (degrees of comparison)
 * Swedish: {{t+|sv|komparation|c}}
-* Ukrainian: {{t|uk|ступе́ні порі́вняння|f-p|sc=Cyrl}}
+* Ukrainian: {{t|uk|ступе́ні порі́вняння|f-p}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 * Hebrew: {{t+check|he|השוואה||f|tr=hashvaa|sc=Hebr}}
 * Indonesian: {{t+check|id|banding|alt=perbandingan}}
 * Interlingua: {{t-check|ia|comparation}}
+* Irish: {{t-check|ga|comórtas|m}}
 {{trans-mid}}
 * Kurdish: {{t-check|ku|به‌راورد|sc=ku-Arab}}
 * Persian: {{t+check|fa|همسنجی|tr=Hamsanji|sc=fa-Arab}}
