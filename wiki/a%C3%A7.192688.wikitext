@@ -2,26 +2,56 @@
 ==Turkish==
 
 ===Etymology===
-From {{etyl|otk|tr}} ''aç'', from {{etyl|trk-pro|tr}} {{m|trk-pro|*āç||hungry}}, {{m|trk-pro|*ạ̄č||hunger}}.
+From {{inh|tr|ota|آج|tr=āc||hungry}}, from {{etyl|trk-pro|tr}} {{m|trk-pro|*āç}}, {{m|trk-pro|*ạ̄č||hunger}}.
+
+Cognate with {{etyl|otk|-}} {{m|otk||tr=āç||hunger, hungry}}, {{etyl|az|-}} {{m|az|ac||hungry}}, {{etyl|ba|-}} {{m|ba|ас||hungry}}, {{etyl|cv|-}} {{m|cv|выҫӑ||hungry}}, {{etyl|kk|-}} & {{etyl|tyv|-}} {{m|tyv|аш||hungry}}, {{etyl|ky|-}} {{m|ky|ач||hungry}}, {{etyl|tk|-}} {{m|tk|aç||hungry}}, аш {{etyl|uz|-}} {{m|uz|och||hungry}}, {{etyl|sah|-}} {{m|sah|аас||hunger}}.
 
 ===Pronunciation===
 * {{IPA|[ɑtʃ]|lang=tr}}
 
-===Adjective===
-{{tr-adj}}
-
-# [[hungry]]
-
-====Antonyms====
-* [[tok#Turkish|tok]]
-
 ===Noun===
 {{tr-noun|ı|lar}}
 
-# The [[hungry]] person
+# {{label|tr|archaic}} [[hunger]]
+#: {{ux|tr|'''''Acımdan''' ölüyorum.''|I am dying '''of hunger'''.|inline=1}} {{gloss|Literally '''of my hunger'''}}
+# [[hungry]], [[esurient]] or [[greedy]] person or people
+#: {{ux|tr|'''''Aç''' ne yemez tok ne demez.''|'''Hungry person''' eats anything, satieted person complains of everything.|inline=1}} {{gloss|A proverb}}
+
+====Usage notes====
+*The noun has two declension forms. One normal and one with /ç/→/c/.
+
+====Synonyms====
+*{{sense|hunger}} {{l|tr|açlık}}
+
+====Derived terms====
+*{{l|tr|acından ölmek}}
 
 ====Declension====
-{{tr-noun-c|a|t|pred=+|poss=+}}
+{{tr-noun-c|a|t}}
+{{tr-noun-c|a|t|stem=ac}}
+
+===Adjective===
+{{tr-adj}}
+
+# [[hungry]], [[unfed]]
+#: {{ux|tr|'''''Aç''' ayı oynamaz.''|'''Hungry''' bear doesn't dance.|inline=1}} {{gloss|A proverb}}
+# [[greedy]], [[covetous]], [[insatiable]]
+
+====Antonyms====
+* {{l|tr|tok}}
+
+====Derived terms====
+* {{l|tr|açlık}}
+* {{l|tr|aç gözlü}}
+
+====Declension====
+{{tr-pred-c-adj|ı|t|stem=ac}}
+
+===Related terms===
+* {{l|tr|acıkmak}}
+
+===External links===
+*{{R:tr:Nishanyan|aç}}
 
 [[et:aç]]
 [[fr:aç]]
