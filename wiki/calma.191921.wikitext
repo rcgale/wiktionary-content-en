@@ -40,44 +40,58 @@
 # [[peace]], [[quietude]]
 
 ====Synonyms====
-* {{sense|peace}} [[paz]], [[serenidade]], [[tranquilidade]]
+* {{sense|peace}} {{l|gl|paz}}, {{l|gl|serenidade}}, {{l|gl|tranquilidade}}
 
 ====Related terms====
-* [[calmo]]
+* {{l|gl|calmo}}
 
 ----
 
 ==Irish==
 
 ===Etymology 1===
-From {{etyl|sga|ga}} {{m|sga|calma||strong; brave, valiant}}.
+From {{inh|ga|sga|calma||strong; brave, valiant}}.
 
 ====Adjective====
-{{head|ga|adjective}}
+{{ga-adj}}
 
 # [[stalwart]]; [[brave]], [[strong]]
 # [[fine]], [[splendid]]
 
 ===Etymology 2===
 {{rfe|lang=ga}}
-Compare French {{m|fr|calme}}, English {{m|en|calm}}.
+Compare {{cog|fr|calme}}, {{cog|en|calm}}.
 
 ====Adjective====
-{{head|ga|adjective}}
+{{ga-adj}}
 
 # [[calm]]
 
+===Etymology 3===
+
+====Noun====
+{{ga-noun|g=m|-|-}}
+
+# {{alternative form of|calm||calm|lang=ga}}
+
+=====Declension=====
+{{ga-decl-m4-nopl|c|alma}}
+
 ===Mutation===
-{{ga mut cons|c|alma}}
+{{ga-mut-cons|c|alma}}
+
+===References===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|8071|head=1 calma}}
 
 ----
 
 ==Italian==
 
 ===Adjective===
-{{head|it|adjective form}}
+{{head|it|adjective form|g=f}}
 
-# {{feminine singular of|calmo|lang=it}}
+# {{inflection of|calmo||f|s|lang=it}}
 
 ===Noun===
 {{it-noun|f}}
@@ -86,18 +100,57 @@ Compare French {{m|fr|calme}}, English {{m|en|calm}}.
 # [[tranquility]], [[peace and quiet]]
 
 ====Related terms====
-* [[calma interiore]]
-* [[calmare]]
-* [[calmo]]
+* {{l|it|calma interiore}}
+* {{l|it|calmare}}
+* {{l|it|calmo}}
 
 ===Verb===
 {{head|it|verb form}}
 
 # {{inflection of|calmare||3|s|pres|lang=it}}
-# [[second-person singular]] [[imperative]] of calmare
+# {{inflection of|calmare||2|s|imp|lang=it}}
 
 ===Anagrams===
 * [[clama#Italian|clama]]
+
+----
+
+==Old Irish==
+
+===Etymology===
+{{rfe|lang=sga}}
+
+===Adjective===
+{{head|sga|adjective}}
+
+# [[strong]]; [[brave]], [[valiant]]
+
+====Synonyms====
+* {{l|sga|calmach}}
+
+====Derived terms====
+* {{l|sga|calmaigid||strengthens, confirms}}
+* {{l|sga|calmuain}}
+
+====Descendants====
+* Irish: {{l|ga|calma}}
+* Scottish Gaelic: {{l|gd|calma}}
+
+===Noun===
+{{head|sga|noun|g=f}}
+
+# [[strength]]; [[bravery]], deeds of [[valour]]
+
+====Synonyms====
+* {{l|sga|calmacht}}
+* {{l|sga|calmatus}}
+
+===Mutation===
+{{sga-mutation|c|alma}}
+
+===References===
+* {{R:DIL|8071}}
+* {{R:DIL|8072}}
 
 ----
 
@@ -109,7 +162,7 @@ Compare French {{m|fr|calme}}, English {{m|en|calm}}.
 * {{rhymes|awma|lang=pt}}
 
 ===Etymology===
-From {{etyl|it|pt}} {{m|it|calma}}, from {{etyl|la|pt}} {{m|la|cauma||heat of the midday sun}}, from {{etyl|grc|pt}} {{m|grc|καῦμα||heat, especially of the sun}}, from {{m|grc|καίω||I burn}}.
+From {{der|pt|it|calma}}, from {{der|pt|la|cauma||heat of the midday sun}}, from {{der|pt|grc|καῦμα||heat, especially of the sun}}, from {{m|grc|καίω||I burn}}.
 
 ===Noun===
 {{pt-noun|f}}
@@ -118,9 +171,9 @@ From {{etyl|it|pt}} {{m|it|calma}}, from {{etyl|la|pt}} {{m|la|cauma||heat of th
 # [[tranquility]]
 
 ===Adjective===
-{{head|pt|adjective form}}
+{{head|pt|adjective form|g=f}}
 
-# {{feminine singular of|calmo|lang=pt}}
+# {{inflection of|calmo||f|s|lang=pt}}
 
 ===Verb===
 {{pt-verb-form}}
@@ -130,12 +183,29 @@ From {{etyl|it|pt}} {{m|it|calma}}, from {{etyl|la|pt}} {{m|la|cauma||heat of th
 
 ----
 
+==Scottish Gaelic==
+
+===Etymology===
+From {{inh|gd|sga|calma||strong; brave, valiant}}.
+
+===Adjective===
+{{gd-adj}}
+
+# [[brave]], [[stout]], [[daring]], [[resolute]], [[strong]]
+# [[thickset]], [[brawny]], [[robust]]
+
+===References===
+* {{R:Dwelly}}
+* {{R:DIL|8071|head=1 calma}}
+
+----
+
 ==Spanish==
 
 ===Adjective===
 {{head|es|adjective form|g=f}}
 
-# {{feminine singular of|calmo|lang=es}}
+# {{inflection of|calmo||f|s|lang=es}}
 
 ===Noun===
 {{es-noun|f}}
@@ -151,11 +221,11 @@ From {{etyl|it|pt}} {{m|it|calma}}, from {{etyl|la|pt}} {{m|la|cauma||heat of th
 # {{es-verb form of|ending=ar|mood=indicative|tense=present|pers=3|number=singular|calmar}}
 
 ====Related terms====
-* [[calmar]]
-* [[calmante]]
+* {{l|es|calmar}}
+* {{l|es|calmante}}
 
 ===See also===
-* [[tranquilidad]]
+* {{l|es|tranquilidad}}
 
 [[ca:calma]]
 [[de:calma]]
