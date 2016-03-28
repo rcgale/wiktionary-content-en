@@ -61,7 +61,7 @@
 * Bashkir: {{t|ba|олатай|sc=Cyrl}}, {{t|ba|ҡартатай|sc=Cyrl}}
 * Basque: {{t+|eu|aitona}}, {{t+|eu|aitatxi}}
 * Belarusian: {{t|be|дзед|m}}, {{t|be|дзяду́ля|m}}
-* Bengali: {{t|bn|দাদু|tr=dadu|sc=Beng}}
+* Bengali: {{t|bn|দাদু|sc=Beng}}
 * Breton: {{t+|br|tad-kozh|m}}
 * Bulgarian: {{t+|bg|дя́до|m}}
 * Burmese: {{t+|my|အဘိုး}}, {{qualifier|informally}} {{t+|my|ဘိုးဘိုး}}
@@ -72,8 +72,8 @@
 * Chinese:
 *: Cantonese: {{t-needed|yue}}
 *: Hakka: {{t-needed|hak}}
-*: Mandarin: {{t|cmn|爺爺|sc=Hani}}, {{t+|cmn|爷爷|tr=yéye|sc=Hani}} {{qualifier|paternal}}, {{t+|cmn|祖父|tr=zǔfù|sc=Hani}} {{qualifier|paternal}}, {{t+|cmn|外祖父|tr=wàizǔfù|sc=Hani}} {{qualifier|maternal}}, {{t+|cmn|外公|tr=wàigōng|sc=Hani}} {{qualifier|maternal, colloquial}}
-*: Min Nan: {{t|nan|lai6gong1|sc=Hani}}, {{t|nan|ghua7gong1|sc=Hani}}, {{qualifier|paternal}} {{t+|nan|阿公|tr=a-kong|sc=Hans}}, {{t|nan|俺公|tr=án-kong|sc=Hans}}, {{t|nan|外公|tr=guā-kong|sc=Hans}}, {{t|nan|火灰公|tr=hóe-hu-kong, hé-hu-kong|sc=Hans}}
+*: Mandarin: {{t+|cmn|爺爺|sc=Hani}}, {{t+|cmn|爷爷|tr=yéye|sc=Hani}} {{qualifier|paternal}}, {{t+|cmn|祖父|tr=zǔfù|sc=Hani}} {{qualifier|paternal}}, {{t+|cmn|外祖父|tr=wàizǔfù|sc=Hani}} {{qualifier|maternal}}, {{t+|cmn|外公|tr=wàigōng|sc=Hani}} {{qualifier|maternal, colloquial}}
+*: Min Nan: {{qualifier|paternal}} {{t+|nan|阿公|tr=a-kong|sc=Hani}}, {{t|nan|俺公|tr=án-kong|sc=Hani}}, {{t|nan|外公|tr=guā-kong|sc=Hani}}, {{t|nan|火灰公|tr=hóe-hu-kong, hé-hu-kong|sc=Hani}}
 * Chinook Jargon: {{t|chn|chitsh}}
 * Czech: {{t+|cs|děda|m}}, {{t+|cs|děd|m}}
 * Danish: {{t+|da|bedstefar|c}}
@@ -110,12 +110,12 @@
 * Irish: {{t+|ga|seanathair|m}}, {{t|ga|athair críonna|m}}
 * Istriot: {{t|ist|nono|f}}
 * Italian: {{t+|it|nonno|m}}
-* Japanese: {{t|ja|お爺さん|tr=[[おじいさん]], ojiisan|sc=Jpan}}, {{t+|ja|祖父|tr=sofu|sc=Jpan}} {{qualifier|only about one's own}}, {{t+|ja|外祖父|tr=gaisofu|sc=Jpan}} {{qualifier|maternal, only about one's own}}
+* Japanese: {{t|ja|お爺さん|tr=おじいさん, ojiisan|sc=Jpan}}, {{t+|ja|祖父|tr=そふ, sofu|sc=Jpan}} {{qualifier|only about one's own}}, {{t+|ja|外祖父|tr=がいそふ, gaisofu|sc=Jpan}} {{qualifier|maternal, only about one's own}}
 * Kazakh: {{t+|kk|ата|sc=Cyrl}}, {{t|kk|баба|sc=Cyrl}}
 * Khmer: {{t+|km|តា|sc=Khmr|tr=taa}}, {{t+|km|អយ្យកោ|sc=Khmr|tr=ayyeakao}}
 * Kinyarwanda: {{t-needed|rw}}
 * Kirundi: {{t-needed|rn}}
-* Korean: {{t+|ko|할아버지|sc=Hang|tr=harabeoji}}, {{t+|ko|친할아버지|sc=Hang|tr=chinharabeoji}} {{qualifier|paternal}}, {{t+|ko|외할아버지|sc=Hang|tr=waeharabeoji}} {{qualifier|maternal}}
+* Korean: {{t+|ko|할아버지|sc=Hang}}, {{t+|ko|친할아버지|sc=Hang}} {{qualifier|paternal}}, {{t+|ko|외할아버지|sc=Hang}} {{qualifier|maternal}}
 * Krio: {{t|kri|grandpa}}
 * Kurdish: {{t|ku|bavpîr|m|sc=ku-Arab}}
 *: Sorani: {{t+|ku|باپیر|tr=bapír|sc=ku-Arab}}
@@ -124,8 +124,8 @@
 * Latgalian: {{t|ltg|vaciks}}, {{t|ltg|vacjuks}}, {{t|ltg|vacuļs}}
 {{trans-mid}}
 * Latin: {{t+|la|avus}}
-* Latvian: {{t|lv|vectēvs}}
-* Lithuanian: {{t+|lt|senelis}}
+* Latvian: {{t|lv|vectēvs|m}}
+* Lithuanian: {{t+|lt|senelis|m}}
 * Luganda: {{t-needed|lg}}
 * Luxembourgish: {{t|lb|Grousspapp|m}}
 * Macedonian: {{t|mk|де́до|m}}
@@ -183,7 +183,7 @@
 * Taos: {{t|twf|tàłułi’ína}}
 * Tatar: {{t+|tt|бабай|sc=Cyrl}}, {{t+|tt|дәү әти|sc=Cyrl}}
 * Telugu: {{t+|te|తాతయ్య}}
-* Thai: {{t+|th|ปู่|tr=poo|sc=Thai}} (paternal), {{t+|th|ตา|tr=ta|sc=Thai}}, {{t+|th|ก๋ง|sc=Thai|tr=kŏng}} (maternal)
+* Thai: {{t+|th|ปู่|sc=Thai}} {{q|paternal}}, {{t+|th|ตา|sc=Thai}}, {{t+|th|ก๋ง|sc=Thai}} {{q|maternal}}
 * Tok Pisin: {{t|tpi|tumbuna}}
 * Tupinambá: {{qualifier|t-, t-}} {{t|tpn|amỹîa}}
 * Turkish: {{t+|tr|dede}}
