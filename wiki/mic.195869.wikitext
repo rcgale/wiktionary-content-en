@@ -24,7 +24,7 @@
 ===Verb===
 {{en-verb|mics|micing|pres_ptc2=mic'ing|miced|past2=mic'ed}}
 
-# {{label|en|transitive|and|intransitive|music|sound engineering}} To put one or more microphones on or in; to use or place a microphone.
+# {{lb|en|transitive|and|intransitive|music|sound engineering}} To put one or more microphones on or in; to use or place a microphone.
 #: ''If we add the drum kit, we'll have to '''mic''' the orchestra.''
 #* {{quote-book|title=Hunting Trophy Whitetails|page=167|author=Darren Brown|co-authors=Jackie Bushman|year=2002|passage=At 11:00 am, Doug '''mics''' up with me on the radio, and I advise him to go back to camp to get a quad, that we have a monster down.}}
 #* {{quote-book|title=Gigs from Hell: True Tales of Rock and Roll Gone Wrong|page=104|author=Sleazegrinder|year=2003|passage=Imagine playing a venue the size of an aircraft hangar without your tiny amps '''miced''' up through the PA!}}
@@ -48,12 +48,12 @@
 * {{IPA|/mʲɪc/|lang=ga}}
 
 ===Noun===
-{{head|ga|noun form|g=m}}
+{{head|ga|noun form|g=m|cat2=noun plural forms}}
 
-# {{vocative singular of|mac|lang=ga}}
-# {{genitive singular of|mac|lang=ga}}
-# {{nominative plural of|mac|lang=ga}}
-# {{dative plural of|mac|lang=ga}}
+# {{inflection of|mac||voc|s|lang=ga}}
+# {{inflection of|mac||gen|s|lang=ga}}
+# {{inflection of|mac||nom|p|lang=ga}}
+# {{inflection of|mac||dat|p|lang=ga}}
 
 ===Mutation===
 {{ga-mut-cons|m|ic}}
@@ -72,7 +72,7 @@
 ==Romanian==
 
 ===Etymology===
-Probably from a {{etyl|VL.|ro}} root *''miccus'' or possibly from {{etyl|grc|ro}}. Compare Aromanian {{m|rup|njic}}. Cf. also Siclian ''[[nicu]]'', Calabrian ''[[miccu]]'', also Italian ''[[miccino]]''. May also be related to Latin ''[[mica|mīca]]''; compare Romanian ''[[mică]]''.
+Probably from a {{der|ro|VL.}} root {{m|la|*miccus}} or possibly from {{der|ro|grc}}. Compare {{cog|rup|njic}}. Cf. also {{cog|scn|nicu}}, Calabrian {{m|nap|miccu}}, also {{cog|it|miccino}}. May also be related to {{cog|la|mīca}}; compare {{m|ro|mică}}.
 
 ===Pronunciation===
 * {{IPA|[mik]|lang=ro}}
@@ -89,7 +89,7 @@ Probably from a {{etyl|VL.|ro}} root *''miccus'' or possibly from {{etyl|grc|ro}
 * {{l|ro|mare}}
 
 ====Derived terms====
-* [[micșora]]
+* {{l|ro|micșora}}
 * {{l|ro|mici}}
 * {{l|ro|mititel}}
 * {{l|ro|micuț}}
@@ -102,8 +102,6 @@ Probably from a {{etyl|VL.|ro}} root *''miccus'' or possibly from {{etyl|grc|ro}
 ====See also====
 * {{l|ro|prunc}}, {{l|ro|băiat}}
 
-[[Category:Romanian terms derived from Latin]]
-
 ----
 
 ==Scottish Gaelic==
@@ -112,10 +110,10 @@ Probably from a {{etyl|VL.|ro}} root *''miccus'' or possibly from {{etyl|grc|ro}
 * {{IPA|[miʰkʲ]|lang=gd}}
 
 ===Noun===
-{{head|gd|noun form|g=m}}
+{{head|gd|noun form|g=m|cat2=noun plural forms}}
 
-# {{genitive singular of|mac|lang=gd}}
-# {{plural of|mac|lang=gd}}
+# {{inflection of|mac||gen|s|lang=gd}}
+# {{inflection of|mac||nom|p|lang=gd}}
 
 [[az:mic]]
 [[el:mic]]
