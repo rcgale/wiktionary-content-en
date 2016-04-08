@@ -112,9 +112,9 @@
 {{trans-top|to change the focal length of a zoom lens}}
 * Finnish: {{t+|fi|zoomata}}
 * German: {{t|de|zoomen}}
-{{trans-mid}}
 * Italian: {{t|it|zoomare}}
-* Marathi: {{t|mr|जूम करणे|tr=zūma karṇe|sc=Deva}}
+* Marathi: {{t|mr|जूम करणे}}|tr=zūma karṇe|sc=Deva
+{{trans-mid}}
 * Portuguese: {{t|pt|[[dar]] [[zoom]]}}
 * Romanian: {{t|ro|zooma}}
 * Spanish: {{t|es|hacer zoom}}
@@ -179,7 +179,7 @@ From {{inh|nl|dum|soom}}, from {{inh|nl|odt|*sōm}}, from {{inh|nl|gem-pro|*saum
 ==French==
 
 ===Etymology===
-{{etyl|en|fr}} {{m|en|zoom|}}.
+{{bor|fr|en|zoom}}.
 
 ===Pronunciation===
 * {{IPA|/zum/|lang=fr}}
@@ -189,7 +189,7 @@ From {{inh|nl|dum|soom}}, from {{inh|nl|odt|*sōm}}, from {{inh|nl|gem-pro|*saum
 ===Noun===
 {{fr-noun|m}}
 
-# [[zoom#English|zoom]] (photography)
+# {{lb|fr|photography}} [[#English|zoom]]
 
 ====Derived terms====
 * [[zoomer]]
@@ -208,7 +208,7 @@ From {{inh|nl|dum|soom}}, from {{inh|nl|odt|*sōm}}, from {{inh|nl|gem-pro|*saum
 {{head|de|verb form}}
 
 # {{de-verb form of|zoomen|i|s}}
-# {{label|de|colloquial}} {{de-verb form of|zoomen|1|s|g}}
+# {{lb|de|colloquial}} {{de-verb form of|zoomen|1|s|g}}
 
 ----
 
@@ -216,35 +216,40 @@ From {{inh|nl|dum|soom}}, from {{inh|nl|odt|*sōm}}, from {{inh|nl|gem-pro|*saum
 {{wikipedia|lang=it}}
 
 ===Etymology===
-{{etyl|en|it}}
+{{bor|it|en}}.
 
 ===Noun===
 {{head|it|noun|g=m|invariable}}
 
-# {{label|it|photography}} {{l|en|zoom}}
+# {{lb|it|photography}} [[#English|zoom]]
 
 ====Related terms====
-* [[zoomare]]
-* [[zoomata]]
+* {{l|it|zoomare}}
+* {{l|it|zoomata}}
 
 ----
+
 ==Norwegian Bokmål==
 
 ===Verb===
 {{head|nb|verb form}}
 
-# {{imperative of|zoome|lang=nb}}
+# {{inflection of|zoome||imp|lang=nb}}
 
 ----
+
 ==Portuguese==
 
 ===Alternative forms===
 * {{l|pt|zum}}
 
+===Etymology===
+{{bor|pt|en}}.
+
 ===Noun===
 {{pt-noun|m|s}}
 
-# {{label|pt|photography|computing}} {{l|en|zoom}} {{gloss|augmentation of a view}}
+# {{lb|pt|photography|computing}} [[#English|zoom]] {{gloss|augmentation of a view}}
 
 [[da:zoom]]
 [[et:zoom]]
