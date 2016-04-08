@@ -62,9 +62,9 @@ To describe the soonest upcoming weekend:
 * Armenian: {{t|hy|շաբաթ-կիրակի}}, {{t|hy|շաբաթվա վերջ}}, {{t|hy|ուիքենդ}}, {{t|hy|վիքենդ}}
 * Azeri: {{t|az|həftə sonu}}
 * Basque: {{t+|eu|asteburu}}, {{t+|eu|astebukaera}}
-* Belarusian: {{t|be|выхадны́я|m-p|sc=Cyrl}}, {{t|be|уік-э́нд|m|sc=Cyrl}}
+* Belarusian: {{t|be|выхадны́я|m-p}}, {{t|be|уік-э́нд|m}}
 * Breton: {{t|br|dibenn-sizhun|m}}
-* Bulgarian: {{t|bg|уике́нд|m|sc=Cyrl}}
+* Bulgarian: {{t|bg|уике́нд|m}}
 * Catalan: {{t+|ca|cap de setmana|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|週末|sc=Hani}}, {{t+|cmn|周末|tr=zhōumò|sc=Hani}}
@@ -76,13 +76,13 @@ To describe the soonest upcoming weekend:
 * Faroese: {{t|fo|vikuskifti|n}}
 * Finnish: {{t+|fi|viikonloppu}}
 * French: {{t+|fr|fin de semaine|f}}, {{t+|fr|week-end|m}}, {{t+|fr|weekend|m}}
-* Galician: {{t+|gl|fin de semana|f}}, {{t|gl|finde|m}} {{sense|colloquial}}
+* Galician: {{t+|gl|fin de semana|f}}, {{t|gl|finde|m}} {{qualifier|colloquial}}
 * German: {{t+|de|Wochenende|n}}
 * Greek: {{t+|el|σαββατοκύριακο|n}}
 * Greenlandic: {{t|kl|weekendi}}
 * Hawaiian: {{t|haw|hopena pule}}
 * Hebrew: {{t|he|סוף שבוע|m}} ([[Friday]] and [[Saturday]] in Israel)
-* Hindi: {{t|hi|सप्ताहांत|m|sc=Deva}}, {{t|hi|वीकेंड|m|sc=Deva}}
+* Hindi: {{t|hi|सप्ताहांत|m}}, {{t|hi|वीकेंड|m}}
 * Hungarian: {{t+|hu|hétvége}}
 * Icelandic: {{t+|is|helgi|f}}
 * Indonesian: {{t+|id|akhir pekan}}
@@ -93,7 +93,7 @@ To describe the soonest upcoming weekend:
 * Korean: {{t+|ko|주말|sc=Kore}} ({{t+|ko|週末|sc=Kore}})
 {{trans-mid}}
 * Ladino: {{t|lad|fin de semana}}
-* Lao: {{t|lo|ທ້າຍສັບປະດາ|sc=Laoo}}
+* Lao: {{t|lo|ທ້າຍສັບປະດາ}}
 * Latgalian: {{t|ltg|nedeļgols|m}}
 * Latvian: {{t+|lv|vīkends|m}}
 * Lithuanian: {{t|lt|savaitgalis|m}}
@@ -122,8 +122,8 @@ To describe the soonest upcoming weekend:
 * Swedish: {{t+|sv|helg|c}}, {{t+|sv|veckoslut|n}}
 * Thai: {{t|th|สุดสัปดาห์|sc=Thai|tr=sùt sàpdaa}}
 * Turkish: {{t+|tr|hafta sonu}}
-* Ukrainian: {{t|uk|вихідні́|m-p|sc=Cyrl}}, {{t|uk|уїк-е́нд|m|sc=Cyrl}}
-* Urdu: {{t|ur|ویک اینڈ|m|tr=vīk eṇḍ|sc=ur-Arab}}
+* Ukrainian: {{t|uk|вихідні́|m-p}}, {{t|uk|уїк-е́нд|m}}
+* Urdu: {{t|ur|ویک اینڈ|m|tr=vīk eṇḍ}}
 * Vietnamese: {{t|vi|cuối tuần}}
 * Welsh: {{t+|cy|penwythnos|m}}
 {{trans-bottom}}
@@ -146,7 +146,7 @@ To describe the soonest upcoming weekend:
 {{trans-top|Of, relating to or for the weekend}}
 * Faroese: {{t|fo|vikuskiftis-}}
 * Hungarian: {{t+|hu|hétvégi}}
-* Macedonian: [[викенд]][[-]] (víkend-)
+* Macedonian: {{t|mk|[[ви́кенд]]-}}
 {{trans-mid}}
 * Polish: {{t+|pl|weekendowy}}
 * Slovak: {{t|sk|víkendový}}
@@ -156,7 +156,7 @@ To describe the soonest upcoming weekend:
 {{trans-top|Occurring at the weekend}}
 * Faroese: {{t|fo|vikuskiftis-}}
 * Hungarian: {{t+|hu|hétvégi}}
-* Macedonian: [[викенд]][[-]] (víkend-)
+* Macedonian: {{t|mk|[[ви́кенд]]-}}
 {{trans-mid}}
 * Polish: {{t+|pl|weekendowy}}
 * Slovak: {{t|sk|víkendový}}
@@ -170,7 +170,7 @@ To describe the soonest upcoming weekend:
 ==Danish==
 
 ===Etymology===
-From {{etyl|en|da}} {{m|en|weekend}}.
+{{bor|da|en|weekend}}.
 
 ===Pronunciation===
 * {{IPA|/viːɡɛnd/|[ˈviːˌɡ̊ɛnˀd̥]|[ˈviːˌɡ̊ɛnd̥]|[ˈwiːˌɡ̊ɛnd̥]|lang=da}}
@@ -193,7 +193,7 @@ From {{etyl|en|da}} {{m|en|weekend}}.
 ==Dutch==
 
 ===Etymology===
-{{borrowing|en|weekend|lang=nl}}.
+{{bor|nl|en|weekend}}.
 
 ===Pronunciation===
 * {{IPA|/ˈʋikɛnt/|lang=nl}}
@@ -213,7 +213,7 @@ From {{etyl|en|da}} {{m|en|weekend}}.
 ==French==
 
 ===Etymology===
-From {{etyl|en|fr}}.
+{{bor|fr|en}}.
 
 ===Pronunciation===
 * {{IPA|/wi.kɛnd/|lang=fr}}
@@ -221,37 +221,35 @@ From {{etyl|en|fr}}.
 ===Noun===
 {{fr-noun|m}}
 
-# {{label|fr|1990 spelling reform}} {{alternative form of|week-end|lang=fr}}
+# {{lb|fr|1990 spelling reform}} {{alternative form of|week-end|lang=fr}}
 
 ====Synonyms====
-* [[fin de semaine]]
+* {{l|fr|fin de semaine}}
 
 ----
 
 ==Italian==
 
+===Alternative forms===
+* {{l|it|week-end}}
+
 ===Etymology===
-From {{etyl|en|it}}.
+{{bor|it|en}}.
 
 ===Noun===
 {{head|it|noun|g=m|invariable}}
 
 # {{l|en|weekend}}
 
-====Alternative forms====
-* [[week-end#Italian|week-end]]
-
 ====Synonyms====
-* [[fine settimana]]
+* {{l|it|fine settimana}}
 
 ----
 
 ==Polish==
 
-===Translation===
-
 ===Etymology===
-From {{etyl|en|pl}} {{m|en|weekend}}
+{{bor|pl|en|weekend}}.
 
 ===Pronunciation===
 * {{IPA|/ˈwikɛn̪t̪/|lang=pl}}, rare: {{IPAchar|/ˈwikɛn̪d̪/}}
