@@ -49,19 +49,19 @@
 ===Verb===
 {{head|af|verb form}}
 
-# {{form of|preterite|hê|lang=af}}; {{l|en|had}}
+# {{inflection of|hê||pret|lang=af}}; {{l|en|had}}
 
 ----
 
 ==Breton==
 
 ===Etymology===
-From {{etyl|cel-pro|br}} {{m|cel-pro|*satos}}, from *''sh₁-tó-'', past participle of {{etyl|ine-pro|br}} {{m|ine-pro|*seh₁-||to sow}}. Cognate with {{etyl|en|-}} {{m|en|seed}}.
+From {{inh|br|cel-pro|*satos}}, from *''sh₁-tó-'', past participle of {{der|br|ine-pro|*seh₁-||to sow}}. Cognate with {{cog|en|seed}}.
 
 ===Noun===
 {{br-noun|m|p=hadoù}}
 
-# {{label|br|botany}} [[seed]]
+# {{lb|br|botany}} [[seed]]
 
 [[Category:br:Agriculture]]
 
@@ -104,7 +104,7 @@ From {{inh|cs|sla-pro|*gadъ}}.
 ==Danish==
 
 ===Etymology===
-From {{etyl|non|da}} {{m|non|hatr}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*hataz}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*ḱeh₂d-||hate}}, {{m|ine-pro|*ḱād-}}.
+From {{inh|da|non|hatr}}, from {{inh|da|gem-pro|*hataz}}, from {{der|da|ine-pro|*ḱeh₂d-||hate}}, {{m|ine-pro|*ḱād-}}.
 
 ===Noun===
 {{da-noun|et|-}}
@@ -112,25 +112,23 @@ From {{etyl|non|da}} {{m|non|hatr}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*hataz
 # [[hate]], [[hatred]]
 
 ====Related terms====
-{{top3}}
-* {{l|da|fremmedhad}} {{g|n}}
-* {{l|da|hade}}
-* {{l|da|hadefuld}}
-* {{l|da|hadegave}} {{g|c}}
-{{mid3}}
-* {{l|da|hadfyldt}}
-* {{l|da|had-kærlighed}} {{g|c}}
-* {{l|da|had-kærligheds-forhold}} {{g|n}}
-* {{l|da|hadsk}}
-{{mid3}}
-* {{l|da|racehad}} {{g|n}}
-* {{l|da|selvhad}} {{g|n}}
-{{bottom}}
+{{rel3
+|{{l|da|fremmedhad|g=n}}
+|{{l|da|hade}}
+|{{l|da|hadefuld}}
+|{{l|da|hadegave|g=c}}
+|{{l|da|hadfyldt}}
+|{{l|da|had-kærlighed|g=c}}
+|{{l|da|had-kærligheds-forhold|g=n}}
+|{{l|da|hadsk}}
+|{{l|da|racehad|g=n}}
+|{{l|da|selvhad|g=n}}
+}}
 
 ===Verb===
 {{head|da|verb form}}
 
-# {{imperative of|hade|lang=da}}
+# {{inflection of|hade||imp|lang=da}}
 
 ----
 
@@ -151,7 +149,7 @@ From {{etyl|non|da}} {{m|non|hatr}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*hataz
 ==Hungarian==
 
 ===Etymology===
-From Old Hungarian ''hadu'', from {{etyl|fiu-ugr-pro}} {{m|fiu-ugr-pro|*kontə}}, from {{etyl|fiu-pro|hu}} {{m|urj-pro|*kunta}}.<ref>András Róna-Tas & Árpád Berta, ''West Old Turkic: Turkic Loanwords in Hungarian. Part 2: L-Z, Conclusions, Apparatus'' (Wiesbaden: Harrassowitz, 2011), 1277.</ref> Cognate with {{etyl|fi|-}} {{m|fi|kunta}}.
+From Old Hungarian ''hadu'', from {{der|hu|fiu-ugr-pro|*kontə}}, from {{der|hu|fiu-pro}} {{m|urj-pro|*kunta}}.<ref>András Róna-Tas & Árpád Berta, ''West Old Turkic: Turkic Loanwords in Hungarian. Part 2: L-Z, Conclusions, Apparatus'' (Wiesbaden: Harrassowitz, 2011), 1277.</ref> Cognate with {{cog|fi|kunta}}.
 
 ===Pronunciation===
 * {{IPA|/ˈhɒd/|lang=hu}}
@@ -160,7 +158,7 @@ From Old Hungarian ''hadu'', from {{etyl|fiu-ugr-pro}} {{m|fiu-ugr-pro|*kontə}}
 ===Noun===
 {{hu-noun|ak}}
 
-# {{label|hu|military}} [[army]]
+# {{lb|hu|military}} [[army]]
 
 ====Declension====
 {{hu-decl-ak|ha|d|at}}{{hu-pos-atok|had||ai}}
@@ -202,7 +200,7 @@ From Old Hungarian ''hadu'', from {{etyl|fiu-ugr-pro}} {{m|fiu-ugr-pro|*kontə}}
 ==Old English==
 
 ===Etymology===
-From {{inh|ang|gem-pro|*haiduz||state, condition, rank, person}}. Akin to {{etyl|non|-}} {{m|non|heiðr||dignity, honor}}, {{etyl|got|-}} {{m|got|𐌷𐌰𐌹𐌳𐌿𐍃||manner}}.
+From {{inh|ang|gem-pro|*haiduz||state, condition, rank, person}}. Akin to {{cog|non|heiðr||dignity, honor}}, {{cog|got|𐌷𐌰𐌹𐌳𐌿𐍃||manner}}.
 
 ===Noun===
 {{ang-noun|head=hād|m|hāda}}
@@ -250,10 +248,10 @@ From {{inh|sk|sla-pro|*gadъ}}.
 ==Turkish==
 
 ===Etymology===
-{{borrowing|ar|حَدّ|lang=tr}}.
+{{bor|tr|ar|حَدّ}}.
 
 ===Noun===
-{{tr-noun}}
+{{tr-noun|ı|lar}}
 
 # [[limit]]
 # [[boundary]]
