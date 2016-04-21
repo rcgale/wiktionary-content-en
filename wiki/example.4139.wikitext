@@ -2,7 +2,7 @@
 {{wikipedia|dab=example}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{m|enm|example}}, from {{etyl|fro|en}} {{m|fro|essample}} (French: {{m|fr|exemple}}), from {{etyl|la|en}} {{m|la|exemplum||lit=what is taken out (as a sample)|a sample, pattern, specimen, copy for imitation, etc.}}, from {{m|la|eximō||take out}}, from {{m|la|ex||out}} + {{m|la|emō||buy; acquire}}; see [[exempt]]. Compare [[ensample]], [[sample]], [[exemplar]]. Displaced native [[Middle English]] {{m|enm|bisne}}, {{m|enm|forbus|forbus, forbusen|example, model, template, exemplar}} (from [[Old English]] {{m|ang|bīsen}}, {{m|ang|forebisen|forebīsen, forebȳsen|example, model, template, exemplar}}) and [[Middle English]] {{m|enm|byspel||example, proverb}} (from [[Old English]] {{m|ang|bīspel}}).
+From {{inh|en|enm|example}}, from {{der|en|fro|essample}} ({{cog|fr|exemple}}), from {{der|en|la|exemplum||lit=what is taken out (as a sample)|a sample, pattern, specimen, copy for imitation, etc.}}, from {{m|la|eximō||take out}}, from {{m|la|ex||out}} + {{m|la|emō||buy; acquire}}; see {{m|en|exempt}}. Compare {{m|en|ensample}}, {{m|en|sample}}, {{m|en|exemplar}}. Displaced native {{cog|enm|bisne}}, {{m|enm|forbus|forbus, forbusen|example, model, template, exemplar}} (from {{cog|ang|bīsen}}, {{m|ang|forebīsen}}, {{m|ang|forebȳsen||example, model, template, exemplar}}) and {{cog|enm|byspel||example, proverb}} (from {{cog|ang|bīspel}}).
 
 ===Pronunciation===
 * {{a|NZ|UK}} {{IPA|/ɪɡˈzɑːmpəl/|lang=en}}
@@ -49,13 +49,12 @@ From {{etyl|enm|en}} {{m|enm|example}}, from {{etyl|fro|en}} {{m|fro|essample}} 
 * See also [[Wikisaurus:exemplar]]
 
 ====Derived terms====
-{{der-top}}
-* [[for example]]
-* [[make an example of]]
-{{der-mid}}
-* [[proof by example]]
-* [[set an example]]
-{{der-bottom}}
+{{der3
+|[[for example]]
+|[[make an example of]]
+|[[proof by example]]
+|[[set an example]]
+}}
 
 ====Related terms====
 * [[exemplary]]
@@ -87,7 +86,7 @@ From {{etyl|enm|en}} {{m|enm|example}}, from {{etyl|fro|en}} {{m|fro|essample}} 
 * German: {{t+|de|Beispiel|n}}, {{t+|de|Exempel|n}}
 * Greek: {{t+|el|παράδειγμα}}
 * Hebrew: {{t+|he|דֻּגְמָה|m|tr=dugma}}
-* Hindi: {{t|hi|नमूना|m|tr=namūnā}}, {{t|hi|मिसाल|m|tr=misāl}}
+* Hindi: {{t|hi|नमूना|m}}, {{t|hi|मिसाल|m}}
 * Hungarian: {{t+|hu|példány}}
 * Icelandic: {{t+|is|dæmi}}
 * Indonesian: {{t+|id|misal}}, {{t+|id|contoh}}
@@ -145,7 +144,7 @@ From {{etyl|enm|en}} {{m|enm|example}}, from {{etyl|fro|en}} {{m|fro|essample}} 
 * Galician: {{t|gl|exemplo|m}}
 * German: {{t+|de|Beispiel|n}}
 * Greek: {{t+|el|παράδειγμα|n}}
-* Hindi: {{t+|hi|उदाहरण|m}}, {{t|hi|नमूना|m|tr=namūnā}}, {{t|hi|मिसाल|m|tr=misāl}}
+* Hindi: {{t+|hi|उदाहरण|m}}, {{t|hi|नमूना|m}}, {{t|hi|मिसाल|m}}
 * Hungarian: {{t+|hu|példa}}
 * Interlingua: {{t|ia|exemplo}}
 * Irish: {{t|ga|sampla|m}}
@@ -171,7 +170,7 @@ From {{etyl|enm|en}} {{m|enm|example}}, from {{etyl|fro|en}} {{m|fro|essample}} 
 * Spanish: {{t+|es|ejemplar|m}}
 * Swahili: {{t+|sw|mifano}}
 * Swedish: {{t+|sv|exempel|n}}, {{t|sv|illustrativt exempel|n}}
-* Tamil: {{t+|ta|எடுத்துக்காட்டு|tr=eṭuttukkāṭṭu|sc=Taml}}, {{t+|ta|உதாரணம்|tr=utāraṇam|sc=Taml}}
+* Tamil: {{t+|ta|எடுத்துக்காட்டு}}, {{t+|ta|உதாரணம்}}
 * Tatar: {{t|tt|mísal}}
 * Telugu: {{t+|te|ఉదాహరణము}}
 * Turkish: {{t+|tr|örnek}}
@@ -221,7 +220,7 @@ From {{etyl|enm|en}} {{m|enm|example}}, from {{etyl|fro|en}} {{m|fro|essample}} 
 * Romanian: {{t+|ro|exemplu}}
 * Russian: {{t+|ru|приме́р|m}}
 * Swahili: {{t+|sw|mifano}}
-* Swedish: (varnande) {{t+|sv|exempel}}
+* Swedish: {{t|sv|([[varnande]]) [[exempel]]}}
 * Turkish: {{t+|tr|ibret}}
 {{trans-bottom}}
 
