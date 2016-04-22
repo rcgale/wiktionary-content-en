@@ -126,10 +126,10 @@ Some Min Zhong dialects use {{zh-l|*個}} and {{zh-l|*寡}} for <tt>ONE</tt>.
 
 ====Readings====
 {{ja-readings
-|goon=[[いち]] (''ichi'')
-|kanon=[[いつ]] (''itsu'')
-|kun=[[ひと]] (''hito''), [[ひとつ]] ([[一つ]], ''hitotsu'')
-|nanori=[[い]] (''i''), [[いっ]] (''it''), [[いる]] (''iru''), [[おさむ]] (''osamu''), [[かつ]] (''katsu''), [[かず]] (''kazu''), [[かづ]] (''kazu''), [[すすむ]] (''susumu''), [[てん]] (''ten''), [[はじめ]] (''hajime''), [[ひ]] (''hi''), [[ひとつ]] (''hitotsu''), [[まこと]] (''makoto'')
+|goon=[[いち]] (ichi)
+|kanon=[[いつ]] (itsu)
+|kun=[[ひと]] (hito), [[ひとつ]] ([[一つ]], hitotsu)
+|nanori=[[い]] (i), [[いっ]] (it), [[いる]] (iru), [[おさむ]] (osamu), [[かつ]] (katsu), [[かず]] (kazu), [[かづ]] (kazu), [[すすむ]] (susumu), [[てん]] (ten), [[はじめ]] (hajime), [[ひ]] (hi), [[ひとつ]] (hitotsu), [[まこと]] (makoto)
 }}
 
 ====Compounds====
@@ -254,6 +254,8 @@ Some Min Zhong dialects use {{zh-l|*個}} and {{zh-l|*寡}} for <tt>ONE</tt>.
 * {{ja-r|一寸先は闇|いっすんさき%は%やみ}}
 * {{ja-r|一山%当てる|ひとやま%あてる}}
 * {{ja-r|一皮%剥ける|ひとかわ%むける}}
+* {{ja-r|尺一|しゃくいち}}: one [[shaku]] and one [[sun]]
+* {{ja-r|尺一|せき.いつ}}: in [[ancient]] [[China]], the [[paperboard]] on which the [[imperial]] [[decree]] was written, or the [[imperial]] [[decree]]
 * {{ja-r|画一|かくいつ}}
 * {{ja-r|統一|とういつ}}
 {{rel-bottom}}
@@ -271,9 +273,7 @@ Some Min Zhong dialects use {{zh-l|*個}} and {{zh-l|*寡}} for <tt>ONE</tt>.
 From {{etyl|zhx|ja|sort=いち}} {{m|zh|sc=Hani|一}}, from {{etyl|och|ja}} {{m|och|*yit|*<sup>?</sup>yit}}.
 
 ====Pronunciation====
-* [[音読み|On'yomi]]
-* {{IPA|lang=ja|/i.tiꜜ/|[i˨.t͡ɕi˦]}}
-* {{audio|Ja-1-ichi.ogg|Audio|lang=ja}}
+{{ja-pron|yomi=goon|いち|acc=2|dev=2|acc_ref=DJR,NHK|a=Ja-1-ichi.ogg}}
 
 ====Noun====
 {{ja-noun|いち}}
@@ -308,6 +308,16 @@ From {{etyl|zhx|ja|sort=いち}} {{m|zh|sc=Hani|一}}, from {{etyl|och|ja}} {{m|
 *: unhesitatingly
 
 ===Etymology 2===
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|いつ|acc=1|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|いつ}}
+
+# [[one]]
+
+===Etymology 3===
 From {{etyl|ojp|ja|sort=ひと}}.
 
 <span class="IPA">/hito<small>2</small>/: [pitə] > [ɸitə] > [ɸito] > [çito]</span>
@@ -321,7 +331,7 @@ From {{etyl|ojp|ja|sort=ひと}}.
 
 # {{label|ja|cardinal|sort=1}} [[one]]
 
-===Etymology 3===
+===Etymology 4===
 From {{m|ja|始め|tr=hajime||beginning, first}}, stem noun form of verb {{m|ja|始める|tr=hajimeru||to begin something}}. The use of the kanji {{lang|ja|一}} for the reading ''hajime'' is an example of {{l|ja|熟字訓|tr=jukujikun}}.
 
 ====Pronunciation====
@@ -335,8 +345,6 @@ From {{m|ja|始め|tr=hajime||beginning, first}}, stem noun form of verb {{m|ja|
 [[Category:1000 Japanese basic words|いち]]
 [[Category:Japanese numeral symbols|1]]
 [[Category:Japanese numerals|1]]
-[[Category:Japanese terms spelled with 一]]
-[[Category:Japanese terms written with one Han script character]]
 
 ----
 
