@@ -2,7 +2,7 @@
 ==Faroese==
 
 ===Etymology===
-From {{etyl|non|fo}} {{m|non|borð}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*burdą}}.
+From {{inh|fo|non|borð}}, from {{inh|fo|gem-pro|*burdą}}.
 
 ===Pronunciation===
 * {{IPA|/poːɹ/|lang=fo}}
@@ -12,8 +12,8 @@ From {{etyl|non|fo}} {{m|non|borð}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*burd
 
 # [[table]]
 # [[board]] (games)
-# {{label|fo|nautical}} [[plank]]
-# {{label|fo|nautical}} board (ship side)
+# {{lb|fo|nautical}} [[plank]]
+# {{lb|fo|nautical}} board (ship side)
 # [[side]]
 
 ====Declension====
@@ -26,7 +26,7 @@ From {{etyl|non|fo}} {{m|non|borð}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*burd
 ==Icelandic==
 
 ===Etymology===
-From {{etyl|non|is}} {{m|non|borð}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*burdą}}.
+From {{inh|is|non|borð}}, from {{inh|is|gem-pro|*burdą}}.
 
 ===Pronunciation===
 * {{IPA|/ˈpɔrð/|lang=is}}
@@ -37,11 +37,10 @@ From {{etyl|non|is}} {{m|non|borð}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*burd
 
 # a [[table]] (furniture)
 # a [[plank]], [[board]] (long flat piece of wood)
-# {{label|is|board games}} [[board]]
-# {{label|is|video games}} a [[level]] (in a video game)
-#: ''Ég er kominn í þriðja '''borð'''.''
-#:: I'm in the third '''level'''.
-# {{label|is|nautical}} [[board]] (side of a ship)
+# {{lb|is|board games}} [[board]]
+# {{lb|is|video games}} a [[level]] (in a video game)
+#: {{ux|is|Ég er kominn í þriðja '''borð'''.|I'm in the third '''level'''.}}
+# {{lb|is|nautical}} [[board]] (side of a ship)
 
 ====Declension====
 {{is-decl-noun-n-s|b|o|rð}}
@@ -50,15 +49,17 @@ From {{etyl|non|is}} {{m|non|borð}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*burd
 * {{sense|plank}} {{l|is|planki}}
 
 ====Derived terms====
-* {{l|is|borðstokkur}}
-* {{l|is|búðarborð}}
-* {{l|is|móðurborð}}
-* {{l|is|skiptiborð}}
-* {{l|is|skjáborð}}
-* {{l|is|lyklaborð}}
-* {{l|is|leturborð}}
-* {{l|is|hnappaborð}}
-* {{l|is|matarborð}}
+{{der3
+|{{l|is|borðstokkur}}
+|{{l|is|búðarborð}}
+|{{l|is|móðurborð}}
+|{{l|is|skiptiborð}}
+|{{l|is|skjáborð}}
+|{{l|is|lyklaborð}}
+|{{l|is|leturborð}}
+|{{l|is|hnappaborð}}
+|{{l|is|matarborð}}
+}}
 
 [[da:borð]]
 [[el:borð]]
