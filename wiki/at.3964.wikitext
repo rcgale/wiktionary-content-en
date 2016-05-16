@@ -394,7 +394,8 @@ From {{der|fur|la|actus}}; cf. Italian {{m|it|atto}}.
 ==Irish==
 
 ===Pronunciation===
-* {{IPA|/at̪ˠ/|lang=ga}}
+* {{a|Munster|Aran}} {{IPA|/ɑt̪ˠ/|lang=ga}}
+* {{a|Connemara|Mayo|Ulster}} {{IPA|/at̪ˠ/|lang=ga}}
 
 ===Etymology 1===
 From {{inh|ga|sga|att||swelling, protuberance, tumour}}.
@@ -403,6 +404,9 @@ From {{inh|ga|sga|att||swelling, protuberance, tumour}}.
 {{head|ga|noun|g=m|genitive as substantive|ait|genitive as verbal noun|ata|plural|atanna}}
 
 # [[swelling]]
+#: {{ux|ga|Tá '''at''' i lámh m’iníne.|My daughter has a swelling on her hand.}}
+#: {{ux|ga|Tá seacht '''n-at''' ina mhuineál.|He has seven swellings on his neck.}}
+#: {{ux|ga|Cuir do lámh in uisce leis an '''t-at''' a maolú.|Put your hand in water to reduce the swelling.}}
 # {{verbal noun of|at|lang=ga}}
 
 =====Declension=====
@@ -415,11 +419,14 @@ From {{inh|ga|sga|attaid||swells, dilates, increases|pos=v}}, from {{m|sga|att||
 {{ga-verb|pres=atann|fut=atfaidh|vn=at|pp=ata}}
 
 # {{lb|ga|intransitive}} [[swell]]
+#: {{ux|ga|Tá a héadan '''ataithe'''.|Her face is swollen.}}
+#: {{ux|ga|Tá mo lámh '''ataithe'''.|My hand is swollen.}}
 # {{lb|ga|intransitive}} [[bloat]]
 # {{lb|ga|intransitive|of sea}} [[heave]]
 
 =====Conjugation=====
 {{ga-conj-1a|a||t|broad|vn=at}}
+*Alternative past participle: {{l|ga|ataithe}}
 
 =====Synonyms=====
 * {{sense|swell}} {{l|ga|borr}}
@@ -428,9 +435,12 @@ From {{inh|ga|sga|attaid||swells, dilates, increases|pos=v}}, from {{m|sga|att||
 {{ga-mut-vowel}}
 
 ===References===
-* {{R:ga:Ó Dónaill}}
 * {{R:DIL|4925|head=att}}
 * {{R:DIL|4929|head=attaid}}
+* {{R:ga:Dinneen}}
+* {{R:ga:Dinneen|head=ataim}}
+* {{R:ga:Finck|II|11}}
+* {{R:ga:Ó Dónaill}}
 
 ----
 
