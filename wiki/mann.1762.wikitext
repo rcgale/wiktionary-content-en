@@ -74,7 +74,7 @@
 ==Norwegian Bokmål==
 
 ===Etymology===
-From {{etyl|non|nb}} {{m|non|mann}}, [[accusative|accusative case]] of {{m|non|maðr||man}} (compare the accusative of the Icelandic {{m|is|maður}}). Originally the word only had the sense "human" but later changed to primarily designate an adult male, the original meaning being replaced by words such as {{m|nb|menneske}} and {{m|nb|person}}. Believed to ultimately be from {{etyl|gem-pro|nb}} {{m|gem-pro|*mann-}}, stemming from the {{etyl|ine-pro|nb}} root {{m|ine-pro|*man-}}. Cognate with Swedish {{m|sv|man}}, Danish {{m|da|mand}}, Icelandic and Faroese {{m|is|maður}}, English {{m|en|man}} and many others.
+From {{inh|nb|non|mann}}, [[accusative|accusative case]] of {{m|non|maðr||man}} (compare the accusative of {{cog|is|maður}}). Originally the word only had the sense "human" but later changed to primarily designate an adult male, the original meaning being replaced by words such as {{m|nb|menneske}} and {{m|nb|person}}. Believed to ultimately be from {{der|nb|gem-pro|*mann-}}, stemming from the {{der|nb|ine-pro}} root {{m|ine-pro|*man-}}. Cognate with {{cog|sv|man}}, {{cog|da|mand}}, {{etyl|fo|-}} and {{cog|is|maður}}, {{cog|en|man}} and many others.
 
 ===Pronunciation===
 * {{IPA|/mɑn/|lang=nb}}
@@ -85,52 +85,61 @@ From {{etyl|non|nb}} {{m|non|mann}}, [[accusative|accusative case]] of {{m|non|m
 {{head|nb|noun|g=m|definite singular|mannen|indefinite plural|menn|definite plural|mennene}}
 
 # a [[man]] {{qualifier|adult male human being}}
-#: ''Det sitter tre '''menn''' og to kvinner i styret'' - ''There are three men and two women on the board''
-# (mostly in regular sayings and idioms) A [[human|human being]], [[person]]
-#: ''Den vanlige '''mann''' = ''The man in the street'', ''the ordinary citizen''
-#: ''Gå ned med '''mann''' og mus'' = ''Be lost with all hands'' (literally: "Go down with man and mouse")
+#: {{ux|nb|Det sitter tre '''menn''' og to kvinner i styret.|inline=1|There are three men and two women on the board.}}
+# {{qualifier|mostly in regular sayings and idioms}} A [[human|human being]], [[person]]
+#: {{ux|nb|Den vanlige '''mann'''|inline=1|The man in the street, the ordinary citizen}}
+#: {{ux|nb|Gå ned med '''mann''' og mus|inline=1|Be lost with all hands}} (literally: "Go down with man and mouse")
 # A person with certain praiseworthy qualities, often used about males
-#: ''Være '''mann''' nok for'' = ''Be a man enough for''
-#: ''Være en '''mann''''' = ''Be a man''
+#: {{ux|nb|Være '''mann''' nok for|inline=1|Be a man enough for}}
+#: {{ux|nb|Være en '''mann'''|inline=1|Be a man}}
 # One's [[husband]] (''see also {{l|nb|ektemann}}'')
-#: ''Hun mistet '''mannen''' sin i en ulykke for tre år siden'' = ''She lost her husband in an accident three years ago''
-
-====Derived terms====
-{{top3}}
-* {{l|nb|adelsmann}}
-* {{l|nb|ektemann}}
-* {{l|nb|embetsmann}}
-* {{l|nb|en mann for sitt ord}}
-* {{l|nb|finansmann}}
-* {{l|nb|formann}}
-* {{l|nb|forretningsmann}}
-* {{l|nb|franskmann}}
-* {{l|nb|handelsmann}}
-* {{l|nb|idrettsmann}}
-{{mid3}}
-* {{l|nb|i manns minne}}
-* {{l|nb|ingenmannsland}}
-* {{l|nb|ja, så menn!}}
-* {{l|nb|kjøpmann}}
-* {{l|nb|landsmann}}
-* {{l|nb|levemann}}
-* {{l|nb|likemann}}
-* {{l|nb|mannsdominert}}
-* {{l|nb|mannskap}}
-{{mid3}}
-* {{l|nb|målmann}}
-* {{l|nb|oppsynsmann}}
-* {{l|nb|politimann}}
-* {{l|nb|rådmann}}
-* {{l|nb|sjømann}}
-* {{l|nb|statsmann}}
-* {{l|nb|stormann}}
-* {{l|nb|stuntmann}}
-* {{l|nb|talsmann}}
-{{bottom}}
+#: {{ux|nb|Hun mistet '''mannen''' sin i en ulykke for tre år siden.|inline=1|She lost her husband in an accident three years ago.}}
 
 ====Synonyms====
-[[adam]], [[fyr]], [[gubbe]], [[hann]], [[herre]], [[kar]], [[mannfolk]], [[menneske]]
+{{top3}}
+* {{l|nb|adam}}
+* {{l|nb|fyr}}
+* {{l|nb|gubbe}}
+{{mid3}}
+* {{l|nb|hann}}
+* {{l|nb|herre}}
+* {{l|nb|kar}}
+{{mid3}}
+* {{l|nb|mannfolk}}
+* {{l|nb|menneske}}
+{{bottom}}
+
+====Derived terms====
+{{der3
+|{{l|nb|adelsmann}}
+|{{l|nb|ektemann}}
+|{{l|nb|embetsmann}}
+|{{l|nb|en mann for sitt ord}}
+|{{l|nb|finansmann}}
+|{{l|nb|formann}}
+|{{l|nb|forretningsmann}}
+|{{l|nb|franskmann}}
+|{{l|nb|handelsmann}}
+|{{l|nb|idrettsmann}}
+|{{l|nb|i manns minne}}
+|{{l|nb|ingenmannsland}}
+|{{l|nb|ja, så menn!}}
+|{{l|nb|kjøpmann}}
+|{{l|nb|landsmann}}
+|{{l|nb|levemann}}
+|{{l|nb|likemann}}
+|{{l|nb|mannsdominert}}
+|{{l|nb|mannskap}}
+|{{l|nb|målmann}}
+|{{l|nb|oppsynsmann}}
+|{{l|nb|politimann}}
+|{{l|nb|rådmann}}
+|{{l|nb|sjømann}}
+|{{l|nb|statsmann}}
+|{{l|nb|stormann}}
+|{{l|nb|stuntmann}}
+|{{l|nb|talsmann}}
+}}
 
 ===References===
 * {{R:The Bokmål Dictionary}}
@@ -140,7 +149,7 @@ From {{etyl|non|nb}} {{m|non|mann}}, [[accusative|accusative case]] of {{m|non|m
 ==Norwegian Nynorsk==
 
 ===Etymology===
-From {{etyl|non|nn}} {{m|non|mann}}, [[accusative|accusative case]] of {{m|non|maðr||man}} (compare the accusative of the Icelandic {{m|is|maður}}). Originally the word only had the sense "human" but later changed to primarily designate an adult male, the original meaning being replaced by words such as {{m|nn|menneske}} and {{m|nn|person}}. Believed to ultimately be from {{etyl|gem-pro|nn}} {{m|gem-pro|*mann-}}, stemming from the {{etyl|ine-pro|nn}} root {{m|ine-pro|*man-}}. Cognate with Swedish {{m|sv|man}}, Danish {{m|da|mand}}, Icelandic and Faroese {{m|is|maður}}, English {{m|en|man}} and many others.
+From {{inh|nn|non|mann}}, [[accusative|accusative case]] of {{m|non|maðr||man}} (compare the accusative of the {{cog|is|maður}}). Originally the word only had the sense "human" but later changed to primarily designate an adult male, the original meaning being replaced by words such as {{m|nn|menneske}} and {{m|nn|person}}. Believed to ultimately be from {{der|nn|gem-pro|*mann-}}, stemming from the {{der|nn|ine-pro}} root {{m|ine-pro|*man-}}. Cognate with {{cog|sv|man}}, {{cog|da|mand}}, {{etyl|fo|-}} and {{cog|is|maður}}, {{cog|en|man}} and many others.
 
 ===Pronunciation===
 * {{IPA|/mɑn/|lang=nn}}
@@ -155,52 +164,61 @@ From {{etyl|non|nn}} {{m|non|mann}}, [[accusative|accusative case]] of {{m|non|m
 # person with certain praiseworthy qualities, often used about males
 # [[husband]] (''see also {{l|nn|ektemann}}'')
 
-====Derived terms====
+====Synonyms====
 {{top3}}
-* {{l|nn|adelsmann}}
-* {{l|nn|ein mann for sitt ord}}
-* {{l|nn|ektemann}}
-* {{l|nn|embetsmann}}
-* {{l|nn|finansmann}}
-* {{l|nn|formann}}
-* {{l|nn|forretningsmann}}
-* {{l|nn|franskmann}}
-* {{l|nn|handelsmann}}
-* {{l|nn|idrettsmann}}
+* {{l|nn|fyr}}
+* {{l|nn|gubbe}}
 {{mid3}}
-* {{l|nn|i manns minne}}
-* {{l|nn|ingenmannsland}}
-* {{l|nn|ja, så menn!}}
-* {{l|nn|kjøpmann}}
-* {{l|nn|landsmann}}
-* {{l|nn|levemann}}
-* {{l|nn|likemann}}
-* {{l|nn|mannsdominert}}
-* {{l|nn|mannskap}}
+* {{l|nn|herre}}
+* {{l|nn|kar}}
 {{mid3}}
-* {{l|nn|målmann}}
-* {{l|nn|oppsynsmann}}
-* {{l|nn|politimann}}
-* {{l|nn|rådmann}}
-* {{l|nn|sjømann}}
-* {{l|nn|statsmann}}
-* {{l|nn|stormann}}
-* {{l|nn|stuntmann}}
-* {{l|nn|talsmann}}
+* {{l|nn|mannfolk}}
+* {{l|nn|menneske}}
 {{bottom}}
 
-====Synonyms====
-* {{l|nn|fyr}}, {{l|nn|gubbe}}, {{l|nn|herre}}, {{l|nn|kar}}, {{l|nn|mannfolk}}, {{l|nn|menneske}}
+====Derived terms====
+{{der3
+|{{l|nn|adelsmann}}
+|{{l|nn|ein mann for sitt ord}}
+|{{l|nn|ektemann}}
+|{{l|nn|embetsmann}}
+|{{l|nn|finansmann}}
+|{{l|nn|formann}}
+|{{l|nn|forretningsmann}}
+|{{l|nn|franskmann}}
+|{{l|nn|handelsmann}}
+|{{l|nn|idrettsmann}}
+|{{l|nn|i manns minne}}
+|{{l|nn|ingenmannsland}}
+|{{l|nn|ja, så menn!}}
+|{{l|nn|kjøpmann}}
+|{{l|nn|landsmann}}
+|{{l|nn|levemann}}
+|{{l|nn|likemann}}
+|{{l|nn|mannsdominert}}
+|{{l|nn|mannskap}}
+|{{l|nn|målmann}}
+|{{l|nn|oppsynsmann}}
+|{{l|nn|politimann}}
+|{{l|nn|rådmann}}
+|{{l|nn|sjømann}}
+|{{l|nn|statsmann}}
+|{{l|nn|stormann}}
+|{{l|nn|stuntmann}}
+|{{l|nn|talsmann}}
+}}
 
 ----
 
 ==Old English==
 
 ===Alternative forms===
-* [[man]], [[monn]], [[mon]]
+* {{l|ang|man}}
+* {{l|ang|monn}}
+* {{l|ang|mon}}
 
 ===Etymology===
-From {{inh|ang|gem-pro|*mann-}}, probably ultimately from {{etyl|ine-pro|ang}}, though the derivation is problematic; a root {{m|ine-pro|*man-}} is one possibility. Cognate with Old Frisian {{m|ofs|man}}, {{m|ofs|mon}}, Old Saxon {{m|osx|man}}, Old Dutch {{m|odt|man}}, Old High German {{m|goh|man}} (German {{m|de|Mann}}), Old Norse {{m|non|maðr}}, Gothic {{m|got|𐌼𐌰𐌽𐌽𐌰}}. The Sanskrit {{m|sa|मनु||man|tr=manu}} seems to be cognate; some have suggested a common root from an Indo-European base word for {{m|en|mind}} (from {{m|ine-pro|*men-||to think}}), though this is by no means universally accepted.
+From {{inh|ang|gem-pro|*mann-}}, probably ultimately from {{der|ang|ine-pro}}, though the derivation is problematic; a root {{m|ine-pro|*man-}} is one possibility. Cognate with {{cog|ofs|man}}, {{m|ofs|mon}}, {{cog|osx|man}}, {{cog|odt|man}}, {{cog|goh|man}} ({{cog|de|Mann}}), {{cog|non|maðr}}, {{cog|got|𐌼𐌰𐌽𐌽𐌰}}. {{cog|sa|मनु||man}} seems to be cognate; some have suggested a common root from an Indo-European base word for {{m|en|mind}} (from {{m|ine-pro|*men-||to think}}), though this is by no means universally accepted.
 
 ===Pronunciation===
 * {{IPA|/mɑnː/|lang=ang}}
@@ -232,20 +250,19 @@ From {{inh|ang|gem-pro|*mann-}}, probably ultimately from {{etyl|ine-pro|ang}}, 
 {{bottom}}
 
 ====Derived terms====
-{{top2}}
-* [[brimmann]]
-* [[ealdormann]]
-* [[fyrnmann]]
-* [[glædmann]]
-* [[gleomann|glēomann]]
-* [[gummann]]
-{{mid2}}
-* [[hiredmann]]
-* [[iumann|iūmann]]
-* [[lidmann]]
-* [[sæmann|sǣmann]]
-* [[wæpnedmann|wǣpnedmann]]
-{{bottom}}
+{{der3
+|{{l|ang|brimmann}}
+|{{l|ang|ealdormann}}
+|{{l|ang|fyrnmann}}
+|{{l|ang|glædmann}}
+|{{l|ang|glēomann}}
+|{{l|ang|gummann}}
+|{{l|ang|hiredmann}}
+|{{l|ang|iūmann}}
+|{{l|ang|lidmann}}
+|{{l|ang|sǣmann}}
+|{{l|ang|wǣpnedmann}}
+}}
 
 ====Related terms====
 * {{l|ang|man}}
