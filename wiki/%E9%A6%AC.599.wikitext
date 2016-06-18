@@ -2,19 +2,34 @@
 {{character info/new}}
 
 ==Translingual==
-<!--{{stroke order|type=animate}} -- stroke order is incorrect as of July 8 2015-->
 
-===Etymology===
-[[File:Icelandic horse1.jpg|thumb|right|250px]]
+===Han character===
+{{Han char|rn=187|rad=馬|as=00|sn=10|four=71327|canj=SQSF}}
+
+# KangXi radical 187 [[Index:Chinese radical/馬|馬]]
+
+====Derived terms====
+* {{l|mul|媽}}, {{l|mul|嗎}}, {{l|mul|闖}}, {{l|mul|罵}}, {{l|mul|螞}}, {{l|mul|碼}}, {{l|mul|瑪}}, {{l|mul|榪}}, {{l|mul|獁}}, {{l|mul|傌}}, {{l|mul|溤}}, {{l|mul|遤}}, {{l|mul|鎷}}, {{l|mul|禡}}, {{l|mul|䣕}}, {{l|mul|㾺}}, {{l|mul|褭}}
+* {{l|mul|Index:Chinese radical/馬}}
+
+====References====
+* {{Han ref|kx=1433.010|dkj=44572|dj=1956.340|hdz=74539.010|uh=99AC|ud=39340|bh=B0A8|bd=45224}}
+
+----
+
+==Chinese==
+{{zh-forms|s=马|alt=𫠉,傌,𢒗,𢒠,𢒧,𩡬,𩡮}}
+
+===Glyph origin===
 {{stroke order|type=animate}}
-{{liushu|p}}; derived from the pictogram of a horse with its head turned to look back and showing a flowing mane in the wind. The four short strokes at its base ({{m|mul|灬}}) represent its feet, and the sweeping hook stroke in the lower right represents its tail.
+{{liushu|p}}; derived from the pictogram of a horse with its head turned to look back and showing a flowing mane in the wind. The four short strokes at its base ({{zh-m|*灬}}) represent its feet, and the sweeping hook stroke in the lower right represents its tail.
 
-Compare also {{m|mul|鳥||bird}}, whose current form is similar (graphically, {{lang|mul|灬}} for claws/legs).
+Compare also {{zh-m|*鳥|bird}}, whose current form is similar (graphically, {{zh-m|*灬}} for claws/legs).
 
-Contrast with {{m|mul|鹿||deer}}, which saw a very different development, and {{m|mul|𢊁||bison}} (as in {{m|mul|薦}}), which is a hybrid: it has the the legs of {{lang|mul|馬}} ({{lang|mul|灬}}) but the head of {{lang|mul|鹿}}.
+Contrast with {{zh-m|*鹿|deer}}, which saw a very different development, and {{zh-m|*𢊁|bison}} (as in {{zh-m|*薦}}), which is a hybrid: it has the the legs of {{lang|zh|馬}} ({{zh-m|*灬}}) but the head of {{zh-m|*鹿}}.
 
 {| class="wikitable"
-! colspan="4" | Historical forms of the character {{lang|mul|馬|sc=Hani}}
+! colspan="4" | Historical forms of the character {{lang|zh|馬}}
 |- align="center"
 ! {{w|Oracle bone script}}
 ! {{w|Bronze inscriptions}}
@@ -35,22 +50,10 @@ Contrast with {{m|mul|鹿||deer}}, which saw a very different development, and {
 | style="padding:8px;" | [[File:馬-caoshu.svg|60px]]
 |}
 
-===Han character===
-{{Han char|rn=187|rad=馬|as=00|sn=10|four=71327|canj=SQSF}}
+===Etymology===
+“Horse” – from {{inh|zh|sit-pro|*k-m-raŋ ~ s-raŋ}}. The sense of “big” is derived from “horse”; compare the English uses of {{m|en|horse}}.
 
-# KangXi radical 187 [[Index:Chinese radical/馬|馬]]
-
-====Derived terms====
-* {{l|mul|媽}}, {{l|mul|嗎}}, {{l|mul|闖}}, {{l|mul|罵}}, {{l|mul|螞}}, {{l|mul|碼}}, {{l|mul|瑪}}, {{l|mul|榪}}, {{l|mul|獁}}, {{l|mul|傌}}, {{l|mul|溤}}, {{l|mul|遤}}, {{l|mul|鎷}}, {{l|mul|禡}}, {{l|mul|䣕}}, {{l|mul|㾺}}, {{l|mul|褭}}
-* {{l|mul|Index:Chinese radical/馬}}
-
-====References====
-* {{Han ref|kx=1433.010|dkj=44572|dj=1956.340|hdz=74539.010|uh=99AC|ud=39340|bh=B0A8|bd=45224}}
-
-----
-
-==Chinese==
-{{zh-forms|s=马|alt=𫠉,傌,𢒗,𢒠,𢒧,𩡬,𩡮}}
+For the animal prefix sense, see {{zh-m|*螞}}. It has converged with the sense of “big”.
 
 ===Pronunciation===
 {{zh-pron
@@ -58,54 +61,32 @@ Contrast with {{m|mul|鹿||deer}}, which saw a very different development, and {
 |ma=y
 |c=maa5
 |h=pfs=mâ
+|md=mā
 |mn=bé/má
 |mn_note=bé - colloquial; má - literary
 |w=3mo,3ma
 |mc=y
 |oc=y
-|cat=n,pn,a
+|cat=n,a,pref,pn
 }}
 
-===Etymology 1===
-From {{inh|zh|sit-pro|*k-m-raŋ ~ s-raŋ}}.
-
-====Noun====
-{{zh-noun}}
+===Definitions===
+{{zh-hanzi}}
 
 # [[horse]] {{zh-mw|匹|隻}}
+# [[horse]]-shaped
 # {{lb|zh|chess}} [[knight]]
 # {{lb|zh|Chinese chess}} [[horse]]
-
-====Proper noun====
-{{zh-proper noun}}
-
+# {{zh-original|碼|chip for counting}}
+# [[big]] {{gloss|prefix for nouns}}
+#: {{zh-x|馬勺|ladle ('''big''' spoon)}}
+# {{n-g|Prefix for names of insects, also written as {{zh-l|*螞}}.}}
+# {{zh-abbrev|馬祖}}
+# {{zh-abbrev|馬來西亞}}
 # {{surname|lang=zh}}
 
-====Adjective====
-{{zh-adj}}
-
-# [[big]] {{qualifier|by extension from the ''horse'' sense; compare English use of {{m|en|horse}}}}
-#: {{zh-x|馬勺|ladle ('''big''' spoon)}}
-
-===Etymology 2===
-
-====Proper noun====
-{{zh-proper noun}}
-
-# {{zh-abbrev|馬祖}}
-
-===Etymology 3===
-
-====Proper noun====
-{{zh-proper noun}}
-
-# {{zh-abbrev|馬來西亞}}
-
 ===Compounds===
-{{zh-der|馬德里|馬鱉|馬達加斯加|馬蒂斯|馬恩列斯|馬爾比基|馬爾代夫|馬爾薩斯|馬蜂|馬蜂窩|馬赫|馬虎|馬糊|馬克思|馬拉松|馬拉維|馬來半島|馬來西亞|馬里|馬力|馬路|馬馬虎虎|馬奈|馬匹|馬其頓|馬上|馬紹爾|馬術|馬斯特里赫特|馬特峰|馬蹄|馬鬃|馬掌|拍馬屁|馬桶}}
-
-===References===
-* {{R:cedict}}
+{{zh-der|馬德里|馬鱉|馬達加斯加|馬蒂斯|馬恩列斯|馬爾比基|馬爾代夫|馬爾薩斯|馬蜂|馬蜂窩|馬赫|馬虎|馬糊|馬克思|馬拉松|馬拉維|馬來半島|馬來西亞|馬里|馬力|馬路|馬馬虎虎|馬奈|馬匹|馬其頓|馬上|馬紹爾|馬術|馬斯特里赫特|馬特峰|馬蹄|馬鬃|馬掌|拍馬屁|馬桶|上馬|下馬|並馬|乘馬|五馬|人馬|代馬|伽馬|倒馬|備馬|兒馬|兵馬|出馬|前馬|剗馬|劣馬|勒馬|口馬|叩馬|司馬|哨馬|單馬|回馬|圈馬|報馬|墜馬|墮馬|天馬|夫馬|奔馬|官馬|害馬|寶馬|弓馬|征馬|怒馬|意馬|戎馬|戰馬|扇馬|打馬|扣馬|拉馬|拍馬|拒馬|探馬|控馬|撥馬|斑馬|服馬|木馬|樸馬|櫪馬|歇馬|汗馬|河馬|法馬|泥馬|洗馬|海馬|灶馬|燙馬|牛馬|牧馬|牽馬|犬馬|狗馬|玉馬|班馬|甲馬|疋馬|瘦馬|發馬|白馬|盜馬|盤馬|相馬|神馬|祿馬|禿馬|秣馬|秧馬|竹馬|策馬|簷馬|籌馬|紙馬|縱馬|羅馬|背馬|胡馬|良馬|荷馬|菜馬|落馬|薊馬|衣馬|裘馬|角馬|課馬|賭馬|賽馬|走馬|起馬|趟馬|跑馬|跳馬|躍馬|車馬|軍馬|輿馬|遛馬|郡馬|重馬|野馬|金馬|鋪馬|鎧馬|鐵馬|長馬|阿馬|陣馬|鞍馬|鞴馬|響馬|頭馬|飛馬|飲馬|馬乾|馬來|馬克|馬內|馬兵|馬冠|馬刀|馬利|馬勃|馬勺|馬可|馬吊|馬哨|馬嘶|馬圈|馬圖|馬埒|馬場|馬太|馬夫|馬奴|馬子|馬封|馬將|馬尾|馬屁|馬嵬|馬帳|馬幣|馬幫|馬店|馬廄|馬廠|馬弁|馬快|馬戲|馬房|馬扁|馬援|馬札|馬杆|馬杓|馬架|馬棒|馬棚|馬槍|馬槽|馬樁|馬步|馬江|馬流|馬熊|馬燈|馬王|馬班|馬球|馬甲|馬留|馬眼|馬祖|馬票|馬童|馬策|馬糞|馬腦|馬腳|馬臺|馬船|馬良|馬號|馬蝨|馬融|馬蟥|馬蟬|馬蟻|馬蠅|馬蠲|馬表|馬補|馬褂|馬褲|馬調|馬謖|馬賊|馬趴|馬車|馬軍|馬通|馬道|馬達|馬遞|馬邑|馬郎|馬銜|馬鋪|馬鐙|馬門|馬關|馬陸|馬隊|馬面|馬靴|馬鞍|馬鞭|馬頭|馬頰|馬食|馬駒|馬騾|馬鬣|馬鳴|馬齒|馱馬|馳馬|駑馬|駙馬|駱馬|駻馬|駿馬|騍馬|騎馬|騙馬|騧馬|騸馬|騾馬|驄馬|驛馬|黑馬|龍馬}}
 
 {{zh-cat|Beginning|Horses|Mammals}}
 
