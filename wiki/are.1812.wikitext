@@ -204,10 +204,9 @@ From {{etyl|fr|en}} {{m|fr|are}}.
 * {{l|en|Rae}}
 
 [[Category:100 English basic words]]
+[[Category:1000 English basic words]]
 [[Category:English auxiliary verb forms]]
 [[Category:English verb irregular forms]]
-
-[[Category:1000 English basic words]]
 
 ----
 
@@ -235,7 +234,7 @@ From {{etyl|fr|en}} {{m|fr|are}}.
 ==French==
 
 ===Etymology===
-Formed from {{etyl|la|fr}} {{m|la|area}}, a piece of level ground.
+Formed from {{der|fr|la|area}}, a piece of level ground.
 
 ===Pronunciation===
 * {{homophones|art|lang=fr}}
@@ -257,9 +256,9 @@ Formed from {{etyl|la|fr}} {{m|la|area}}, a piece of level ground.
 ==Italian==
 
 ===Noun===
-{{head|it|noun plural form|g=p}}
+{{head|it|noun plural form|g=f-p}}
 
-# {{plural of|ara|lang=it}}
+# {{inflection of|ara||p|lang=it}}
 
 ===Anagrams===
 * {{l|it|era}}, {{l|it|Era}}
@@ -308,7 +307,7 @@ Formed from {{etyl|la|fr}} {{m|la|area}}, a piece of level ground.
 # [[white-tailed eagle]]
 
 ===Etymology 2===
-Perhaps from a {{etyl|nds-nl|no}} or {{etyl|nds-de|no}} verb.
+Perhaps from a {{der|no|nds-nl}} or {{der|no|nds-de}} verb.
 
 {{rfe|lang=no}}
 
@@ -324,14 +323,15 @@ Perhaps from a {{etyl|nds-nl|no}} or {{etyl|nds-de|no}} verb.
 ===Pronunciation===
 * {{IPA|lang=ang|/ˈaːre/}}
 
-===Noun===
-{{head|ang|noun form|sc=Latinx|head=āre}}
+===Noun 1===
+{{head|ang|noun form|head=āre}}
 
-# {{plural of|ar|lang=ang}}
-# {{inflection of|ār||acc|s|lang=ang}}
-# {{inflection of|ār||gen|s|lang=ang}}
-# {{inflection of|ār||dat|s|lang=ang}}
-# {{inflection of|ār||acc|p|lang=ang}}
+# {{inflection of|ār|gloss=honor, glory, grace||acc|s|;|gen|s|;|dat|s|;|nom|p||acc|p|lang=ang}}
+
+===Noun 2===
+{{head|ang|noun form|head=āre}}
+
+# {{inflection of|ār|gloss=messenger, herald; angel; missionary||dat|s|lang=ang}}
 
 ----
 
@@ -383,7 +383,7 @@ From {{inh|ofs|gem-pro|*ausô}}.
 ====Noun====
 {{pt-noun|m|s}}
 
-# {{label|pt|historical}} {{l|en|are}} {{gloss|unit of area}}
+# {{lb|pt|historical}} {{l|en|are}} {{gloss|unit of area}}
 
 ===Etymology 2===
 
@@ -414,7 +414,7 @@ From {{inh|ofs|gem-pro|*ausô}}.
 ==Scots==
 
 ===Etymology===
-From {{etyl|enm|sco}} {{m|enm|are}}, from {{etyl|ang|sco}} {{m|ang|ār||honor, worth, dignity, glory, respect, reverence, grace, favor, prosperity, benefit, help, mercy, pity, privilege}}, from {{etyl|gem-pro|sco}} {{m|gem-pro|*aizō||respect, honour}}, from {{etyl|gem-pro|sco}} {{m|gem-pro|*ais-||to honour, respect, revere}}. Cognate with {{etyl|nl|-}} {{m|nl|eer||honour, credit}}, {{etyl|de|-}} {{m|de|Ehre||honour, glory}}, {{etyl|la|-}} {{m|la|erus||master, professor}}.
+From {{inh|sco|enm|are}}, from {{inh|sco|ang|ār||honor, worth, dignity, glory, respect, reverence, grace, favor, prosperity, benefit, help, mercy, pity, privilege}}, from {{inh|sco|gem-pro|*aizō||respect, honour}}, from {{m|gem-pro|*ais-||to honour, respect, revere}}. Cognate with {{cog|nl|eer||honour, credit}}, {{cog|de|Ehre||honour, glory}}, {{cog|la|erus||master, professor}}.
 
 ===Noun===
 {{sco-noun|-}}
@@ -440,7 +440,7 @@ From {{etyl|enm|sco}} {{m|enm|are}}, from {{etyl|ang|sco}} {{m|ang|ār||honor, w
 ===Noun===
 {{head|vec|noun plural form}}
 
-# {{plural of|ara|lang=vec}}
+# {{inflection of|ara||p|lang=vec}}
 
 [[af:are]]
 [[ast:are]]
