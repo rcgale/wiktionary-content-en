@@ -498,7 +498,7 @@ From {{inh|an|la|illas}}.
 {{head|an|article|g=p}}
 
 # [[the]]
-#: '''''As''' mesachas de Zaragoza'' = "The girls from Saragossa"
+#: {{ux|an|'''As''' mesachas de Zaragoza|inline=1|'''The''' girls from Saragossa}}
 
 ====Usage notes====
 The form [[las]], either pronounced as ''las'' or as ''ras'', can be found after words ending with an -a.
@@ -524,11 +524,11 @@ From {{etyl|la|ca}} {{m|la|as||basic Roman unit of money}}.
 # {{label|ca|historical|numismatics}} An [[#Etymology 2|as]] {{gloss|Roman unit of money}}.
 
 =====Derived terms=====
-* {{l|ca|as de guia}} {{gloss|bowline knot}}
-* {{l|ca|sempre un sis o un as}} {{gloss|a handicap or a problem}}
+* {{l|ca|as de guia||bowline knot}}
+* {{l|ca|sempre un sis o un as||a handicap or a problem}}
 
 ===Etymology 2===
-From {{etyl|non|ca}} {{m|non|áss}}, singular of {{m|non|æsir||the Norse gods}}.
+From {{der|ca|non|áss}}, singular of {{m|non|æsir||the Norse gods}}.
 
 ====Noun====
 {{ca-noun|m}}
@@ -550,7 +550,7 @@ From {{etyl|non|ca}} {{m|non|áss}}, singular of {{m|non|æsir||the Norse gods}}
 ====Noun====
 {{ca-noun-form}}
 
-# {{plural of|a|lang=ca}}
+# {{inflection of|a||p|lang=ca}}
 
 ----
 
@@ -569,7 +569,7 @@ From {{etyl|non|ca}} {{m|non|áss}}, singular of {{m|non|æsir||the Norse gods}}
 ==Danish==
 
 ===Etymology===
-From {{etyl|non|da}} {{m|non|áss}} ({{g|p}} {{m|non|æsir}}).
+From {{inh|da|non|áss}} ({{g|p}} {{m|non|æsir}}).
 
 ===Noun===
 {{da-noun|en|er}}
@@ -590,7 +590,7 @@ From {{etyl|non|da}} {{m|non|áss}} ({{g|p}} {{m|non|æsir}}).
 ===Verb===
 {{head|da|verb form}}
 
-# {{imperative of|ase|lang=da}}
+# {{inflection of|ase||imp|lang=da}}
 
 [[Category:da:Music]]
 
@@ -605,7 +605,7 @@ From {{etyl|non|da}} {{m|non|áss}} ({{g|p}} {{m|non|æsir}}).
 ===Etymology 1===
 From {{inh|nl|dum|asche}}, from {{inh|nl|odt|*aska}}, from {{inh|nl|gem-pro|*askǭ}}.
 
-Cognate with Low German {{m|nds|Asch}}, German {{m|de|Asche}}, English {{m|en|ash}}, West Frisian {{m|fy|jiske}}, Danish {{m|da|aske}}, Swedish {{m|sv|aska}}.
+Cognate with {{cog|nds|Asch}}, {{cog|de|Asche}}, {{cog|en|ash}}, {{cog|fy|jiske}}, {{cog|da|aske}}, {{cog|sv|aska}}.
 
 ====Noun====
 {{nl-noun|f|-|-}}
@@ -626,7 +626,7 @@ From {{inh|nl|dum|asse}}, from {{inh|nl|odt|*assa}}, from {{inh|nl|gem-pro|*ahs�
 # [[axle]]
 
 ===Etymology 3===
-From {{inh|nl|dum|as}}, a variant of Middle Dutch {{m|dum|als}}, {{m|dum|alse}}, and doublet of standard Dutch {{m|nl|als}}.
+From {{inh|nl|dum|as}}, a variant of {{m|dum|als}}, {{m|dum|alse}}, and doublet of standard Dutch {{m|nl|als}}.
 
 ====Conjunction====
 {{nl-con}}
@@ -645,12 +645,12 @@ From {{inh|nl|dum|as}}, a variant of Middle Dutch {{m|dum|als}}, {{m|dum|alse}},
 ==Fala==
 
 ===Etymology===
-From {{etyl|roa-opt|fax}} {{m|roa-opt|as}}, from {{etyl|la|fax}} {{m|la|illas}}.
+From {{der|fax|roa-opt|as}}, from {{inh|fax|la|illas}}.
 
 ===Article===
 {{head|fax|article|g=f-p|singular|a|masculine|o|masculine plural|os}}
 
-# ''feminine plural of definite article '''{{l|fax|o}}'''''
+# {{inflection of|o||f|p|lang=fax}}
 #* {{quote-book|year=2000|author=Domingo Frades Gaspar|title=Vamus a falal: Notas pâ coñocel y platical en nosa fala|publisher=Editora regional da Extremadura|section=Theme I, Chapter 2: Númerus?|passage='''As''' lenguas, idiomas, dialectus o falas tenin un-as funciós mui claras desde o principiu dos siglu i si hai contabilizaus en o mundu un-as 8.000 lenguas, ca un-a con sua importancia numérica relativa, a nossa fala é un tesoiru mais entre elas.|translation='''The''' tongues, languages or regional variants have some very clear functions since the beginning of the centuries and some 8,000 languages have been accounted for in the world, each with its relative numerical importance, our Fala is another treasure among them.}}
 
 ----
@@ -699,8 +699,7 @@ From the verb {{m|fr|avoir}}.
 {{fr-verb-form}}
 
 # {{inflection of|avoir||2|s|pres|indc|lang=fr}}
-#: ''Tu '''as''' un chien.''
-#:: You have a dog.
+#: {{ux|fr|Tu '''as''' un chien.|You have a dog.}}
 
 ===Anagrams===
 * {{l|fr|sa}}
@@ -715,7 +714,7 @@ From the verb {{m|fr|avoir}}.
 ==Friulian==
 
 ===Etymology===
-From {{etyl|la|fur}} {{m|la|axis}}.
+From {{der|fur|la|axis}}.
 
 ===Noun===
 {{head|fur|noun|g=m}}
@@ -739,13 +738,12 @@ From {{inh|gl|roa-opt|as}}, from {{inh|gl|la|illās}}, accusative feminine plura
 The definite article ''o'' (in all its forms) regularly forms contractions when it follows the prepositions {{m|gl|a||to}}, {{m|gl|con||with}}, {{m|gl|de||of, from}}, and {{m|gl|en||in}}. For example, ''con as'' ("with the") contracts to {{m|gl|coas}}, and ''en as'' ("in the") contracts to {{m|gl|nas}}.
 
 ====Derived terms====
-{{top2}}
-* {{l|gl|ás}}
-* {{l|gl|coas}}
-{{mid2}}
-* {{l|gl|das}}
-* {{l|gl|nas}}
-{{bottom}}
+{{der3
+|{{l|gl|ás}}
+|{{l|gl|coas}}
+|{{l|gl|das}}
+|{{l|gl|nas}}
+}}
 
 ===Pronoun===
 {{gl-pron|form=acconly|g=f pl|nom=elas|obl=elas|dat=lles}}
@@ -760,15 +758,14 @@ In all other situations, the standard forms of the pronouns are used ({{m|gl|o}}
 These direct object pronouns also form contractions when they immediately follow an indirect object pronoun. For example, ''Dou che as'' ("I gave you them.") contracts to ''Dou chas.''
 
 ====Derived terms====
-{{top2}}
-* {{l|gl|chas}}
-* {{l|gl|llelas}}
-* {{l|gl|llas}}
-{{mid2}}
-* {{l|gl|mas}}
-* {{l|gl|nolas}}
-* {{l|gl|volas}}
-{{bottom}}
+{{der3
+|{{l|gl|chas}}
+|{{l|gl|llelas}}
+|{{l|gl|llas}}
+|{{l|gl|mas}}
+|{{l|gl|nolas}}
+|{{l|gl|volas}}
+}}
 
 ====Related terms====
 * {{l|gl|a}}
@@ -801,7 +798,7 @@ These direct object pronouns also form contractions when they immediately follow
 * {{a|Aran}} {{IPA|lang=ga|/æsˠ/}} {{q|as if spelled {{m|ga||eas}}}}
 
 ===Etymology 1===
-From {{inh|ga|sga|a|ass, a|out of}}. Ultimately from {{inh|ga|ine-pro|*h₁eǵʰs}}. Cognate of {{cog|la|ex}}. Compare {{cog|gd|à}}.
+From {{inh|ga|sga|a|ass, a|out of}} (compare {{cog|gd|à}}), ultimately from {{inh|ga|ine-pro|*h₁eǵʰs}} (compare {{cog|la|ex}}).
 
 ====Preposition====
 {{ga-prep|d|-}}
@@ -871,7 +868,7 @@ From {{inh|ga|sga|ass}}.
 =====Declension=====
 {{ga-decl-m-irreg|a|s|sa|sa|s}}
 
-{{catlangcode|ga|Footwear}}
+{{topics|ga|Footwear}}
 
 ===Etymology 4===
 {{rfe|lang=ga}}
@@ -888,12 +885,12 @@ From {{inh|ga|sga|ass}}.
 {{ga-mut-vowel}}
 
 ===References===
-* {{R:ga:ODonaill}}
+* {{R:ga:Ó Dónaill}}
 * {{R:DIL|8|head=7 a (‘out of’)}}
 * {{R:DIL|4358|head=as (‘milk’)}}
 * {{R:DIL|4359|head=as (‘shoe’)}}
 
-{{catlangcode|ga|Dairy products}}
+{{topics|ga|Dairy products}}
 
 ----
 
@@ -933,12 +930,15 @@ It is especially significant as being the coin of least value in the Classical a
 ==Manx==
 
 ===Etymology===
-From {{etyl|sga|gv}} {{m|sga|ocus}} "and", originally "proximity" < {{etyl|cel-pro|gv}} {{m|cel-pro|*onkus-tus}} < *''onkus'' "near"
+From {{inh|gv|sga|ocus||and", originally "proximity}}, from {{inh|gv|cel-pro|*onkus-tus}}, from {{m|cel-pro|*onkus||near}}.
 
 ===Conjunction===
 {{head|gv|conjunction}}
 
 # [[and]]
+
+===References===
+* {{R:DIL|33484|head=2 ocus}}
 
 ----
 
@@ -1096,7 +1096,7 @@ From {{inh|pt|roa-opt|as}}, from {{inh|pt|la|illas}} (with an initial ''l'' havi
 {{head|pt|pronoun|g=f-p}}
 
 # {{senseid|pt|pronoun}} {{label|pt|third person personal}} [[them]] (''as a direct object''; ''the corresponding indirect object is [[lhes]]''; ''the form used after prepositions is [[elas]]'').
-#: ''Encontrei-as na rua.'' — I met them in the street.
+#: {{ux|pt|Encontrei-as na rua.|inline=1|I met them in the street.}}
 
 ====Quotations====
 {{seeCites}}
@@ -1106,15 +1106,15 @@ From {{inh|pt|roa-opt|as}}, from {{inh|pt|la|illas}} (with an initial ''l'' havi
 
 ====Usage notes====
 * [[As]] becomes -[[las]] after verb forms ending in ''-r, -s'', or ''-z'', the pronouns [[nos]] and [[vos]], and the adverb [[eis]]; the ending letter causing the change disappears.
-*: After [[ver]]: ''Posso vê-las?'' = "May I see them?"
-*: After [[por|pôs]]: ''Quero pô-las ali.'' = "I want to put them there."
-*: After [[fazer|fiz]]: ''Fi-las ficar contente.'' = "I made them become happy."
-*: After [[nos]]: ''Deu-no-las relutantemente.'' = "He gave them to us reluctantly."
-*: After [[eis]]: ''Ei-las!'' = "Behold them!"
+*: After [[ver]]: {{ux|pt|Posso vê-las?|inline=1|May I see them?}}
+*: After [[por|pôs]]: {{ux|pt|Quero pô-las ali.|inline=1|I want to put them there.}}
+*: After [[fazer|fiz]]: {{ux|pt|Fi-las ficar contente.|inline=1|I made them become happy.}}
+*: After [[nos]]: {{ux|pt|Deu-no-las relutantemente.|inline=1|He gave them to us reluctantly.}}
+*: After [[eis]]: {{ux|pt|Ei-las!|inline=1|Behold them!}}
 * Becomes -[[nas]] after a nasal diphthong: ''-ão, -am'' [ɐ̃w̃], ''-õe'' [õj̃], ''-em, -êm'' [ẽj̃].
-*: ''Detêm-nas como prisioneiros.'' = "They detain them as prisoners."
+*: {{ux|pt|Detêm-nas como prisioneiros.|inline=1|They detain them as prisoners.}}
 * In Brazil it is being abandoned in favor of the nominative form [[elas]].
-*: ''Eu as vi.'' → ''Eu vi elas.'' = "I saw them."
+*: ''Eu as vi.'' → ''Eu vi elas.'' = "I saw them.
 
 ====See also====
 {{Portuguese personal pronouns}}
@@ -1122,14 +1122,16 @@ From {{inh|pt|roa-opt|as}}, from {{inh|pt|la|illas}} (with an initial ''l'' havi
 ===Noun===
 {{pt-noun-form|m}}
 
-# {{plural of|a|lang=pt}}
+# {{inflection of|a||p|lang=pt}}
+
+[[Category:1000 basic Portuguese words]]
 
 ----
 
 ==Saterland Frisian==
 
 ===Etymology===
-From {{etyl|ofs|stq}} {{m|ofs|as}}, {{m|ofs|ase}}, {{m|ofs|asa}}, {{m|ofs|als}}, {{m|ofs|alse}}, {{m|ofs|alsa}}, equivalent to {{compound|al|so|lang=stq}}. More at {{l|en|as}}.
+From {{inh|stq|ofs|as}}, {{m|ofs|ase}}, {{m|ofs|asa}}, {{m|ofs|als}}, {{m|ofs|alse}}, {{m|ofs|alsa}}, equivalent to {{affix|stq|al|so}}. More at {{l|en|as}}.
 
 ===Adverb===
 {{head|stq|adverb}}
@@ -1149,15 +1151,13 @@ From {{etyl|ofs|stq}} {{m|ofs|as}}, {{m|ofs|ase}}, {{m|ofs|asa}}, {{m|ofs|als}},
 {{head|gd|particle}}
 
 # Creates the [[superlative]] when preceding the [[comparative]] form of an [[adjective]] or an [[adverb]].
-#: ''glic'' - wise
-#:: '''''as''' glice'' - wisest
-#: ''mòr'' - big
-#:: '''''as''' motha'' - biggest
+#: {{m|gd||glic|wise}} → {{m|gd||'''as''' glice|wisest}}
+#: {{m|gd||mòr|big}} → {{m|gd||'''as''' motha|biggest}}
 
 ====Usage notes====
 * Only used in the [[present tense|present]] and [[future tense]]s. In the [[past tense]] and the [[conditional mood]], '''{{l|gd|a bu}}''' and '''{{l|gd|a b'}}''' are used.
 * [[lenite|Lenites]] initial '''f''' if followed by a [[vowel]]:
-*: ''fuar > '''as''' fhuaire''
+*: ''fuar → '''as''' fhuaire''
 
 ====Related terms====
 * {{l|gd|nas}}
@@ -1167,7 +1167,7 @@ From {{etyl|ofs|stq}} {{m|ofs|as}}, {{m|ofs|ase}}, {{m|ofs|asa}}, {{m|ofs|als}},
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|de|sh}} {{m|de|As}}, from {{etyl|la|sh}} {{m|la|as||as, copper coin}}.
+{{bor|sh|de|As}}, from {{der|sh|la|as||as, copper coin}}.
 
 ===Pronunciation===
 * {{IPA|/âs/|lang=sh}}
@@ -1229,8 +1229,7 @@ Unknown
 
 # [[carrion|Carrion]], [[carcass]] (''of an [[animal]] killed by a [[predator]]'').
 # {{label|sv|slang}} Derogatory and offensive term describing or addressing a person whose behaviour is considered as inconsiderate towards others.
-#: ''Dra åt helvete ditt jävla '''as'''!''
-#:: Go to hell you bloody arse!
+#: {{ux|sv|Dra åt helvete ditt jävla '''as'''!|inline=1|Go to hell you bloody arse!}}
 
 =====Declension=====
 {{sv-noun-irreg-n|3=as|5=as|7=as}}
@@ -1257,7 +1256,7 @@ From {{etyl|non|sv}} {{m|non|áss}} ({{g|p}} {{m|non|æsir}}).
 ==Tok Pisin==
 
 ===Etymology===
-From {{etyl|en|tpi}} ''[[arse]]''.
+From {{der|tpi|en|arse}}.
 
 ===Noun===
 {{head|tpi|noun}}
@@ -1268,22 +1267,23 @@ From {{etyl|en|tpi}} ''[[arse]]''.
 # [[beginning]], [[source]]
 
 ====Derived terms====
-* [[asbin]]
-* [[asples]]
-* [[as bilong trabel]]
-* [[as nating]]
-* [[astingting]]
-* [[astok]]
+{{der3
+|[[asbin]]
+|[[asples]]
+|[[as bilong trabel]]
+|[[as nating]]
+|[[astingting]]
+|[[astok]]
+|lang=tpi}}
 
 [[Category:tpi:Anatomy]]
-[[Category:1000 basic Portuguese words]]
 
 ----
 
 ==Turkish==
 
 ===Etymology 1===
-From {{etyl|otk|tr}} ''as'' (“ermine”), from {{etyl|trk-pro|tr}} {{m|trk-pro|*argun}}, {{m|trk-pro|*āŕ}}.
+From {{der|tr|otk|as||ermine}}, from {{der|tr|trk-pro|*argun}}, {{m|trk-pro|*āŕ}}.
 
 ====Noun====
 {{tr-noun|ı|lar}}
@@ -1339,9 +1339,9 @@ From {{etyl|otk|tr}} ''as'' (“ermine”), from {{etyl|trk-pro|tr}} {{m|trk-pro
 {{head|fy|preposition}}
 
 # [[as]] {{qualifier|used to form an equating phrase}}
-#: ''Grut '''as''' in hûs.'' — Big '''as''' a house.
+#: {{ux|fy|Grut '''as''' in hûs.|inline=1|Big '''as''' a house.}}
 # [[than]]
-#: ''Grutter '''as''' in hûs.'' — Bigger '''than''' a house.
+#: {{ux|fy|Grutter '''as''' in hûs.|inline=1|Bigger '''than''' a house.}}
 
 [[af:as]]
 [[ar:as]]
