@@ -26,7 +26,7 @@ Short for {{m|en|barazoku}}, from {{etyl|ja|en}} {{m|ja|薔薇族}} ({{m|ja|バ�
 ==Breton==
 
 ===Etymology===
-From {{inh|br|cel-pro|[[*bargo-]], [[*barginā-]]||cake, bread}} (compare Welsh {{m|cy|bara}}, Old and Middle Cornish {{m|oco|bara}}, Old Irish {{m|sga|bairgen|g=f||bread, loaf; food, plain diet}}).
+From {{inh|br|cel-pro|[[*bargo-]], [[*barginā-]]||cake, bread}} (compare {{cog|cy|bara}}, {{cog|oco|bara}}, {{cog|sga|bairgen|g=f||bread, loaf; food, plain diet}}).
 
 ===Pronunciation===
 * {{IPA|/ˈba.ʁa/|lang=br}}
@@ -39,7 +39,7 @@ From {{inh|br|cel-pro|[[*bargo-]], [[*barginā-]]||cake, bread}} (compare Welsh 
 ====Derived terms====
 {{der3|bara amanenn|bara an aelez|bara an aoter|bara-an-evn|bara-an-hoc'h|bara-an-ozhac'h-kozh|bara ar Rouanez|bara brizh|bara-choanenn|bara-chokolad|bara du|bara-gad|bara-gavr|bara gwenn|bara-kann|bara-koukoug|bara krazet|bara-laezh|bara-ludu|bara-mel|bara-mor|bara-oaled|bara-rezin|bara-tiegezh|baraa|baraek|baraenn|baraer|baraerezh|baraiñ|lang=br}}
 
-{{catlangcode|br|Foods}}
+{{topics|br|Foods}}
 
 ----
 
@@ -96,15 +96,11 @@ From {{etyl|es|hil}} {{m|es|vara}}/{{m|es|barra}}.
 {{is-adv}}
 
 # [[only]], [[just]], [[if only]]
-#: ''Ég á '''bara''' 200 krónur.''
-#:: I '''only''' have 200 krónur.
-#: '''''Bara''' að hann hringi í mig...''
-#:: If '''only''' he'd call me...
-# {{label|is|emphatic|postpositive}} [[only]], [[just]]
-#: ''Þegiðu '''bara'''!''
-#:: '''Just''' shut up!
-#: ''Gerðu þetta '''bara''' og þegiðu!''
-#:: '''Just''' do it and shut up.
+#: {{ux|is|Ég á '''bara''' 200 krónur.|I '''only''' have 200 krónur.}}
+#: {{ux|is|'''Bara''' að hann hringi í mig...|If '''only''' he'd call me...}}
+# {{lb|is|emphatic|postpositive}} [[only]], [[just]]
+#: {{ux|is|Þegiðu '''bara'''!|'''Just''' shut up!}}
+#: {{ux|is|Gerðu þetta '''bara''' og þegiðu!|'''Just''' do it and shut up.}}
 
 ====Derived terms====
 * {{l|is|af því bara}} ([[aþþí bara]], [[af því barasta]]; just because)
@@ -129,6 +125,44 @@ From {{etyl|es|hil}} {{m|es|vara}}/{{m|es|barra}}.
 {{id-noun}}
 
 # [[ember]]
+
+----
+
+==Irish==
+
+===Etymology 1===
+From {{inh|ga|sga|bara||flow; intention, design}}.
+
+====Noun====
+{{ga-noun|g=f|-|baraí}}
+
+# [[inclination]], [[intention]]
+
+=====Declension=====
+{{ga-decl-f4|b|ara|araí}}
+
+===Etymology 2===
+From {{inh|ga|mga|bara||barrow}}, a {{bor|ga|non|barar|nocap=1}}.
+
+====Noun====
+{{ga-noun|g=m|-|baraí}}
+
+# [[barrow]]
+
+=====Declension=====
+{{ga-decl-m4|b|ara|araí}}
+
+=====Derived terms=====
+* {{l|ga|bara láimhe||hand-barrow}}
+* {{l|ga|bara rotha||wheel-barrow}}
+
+===Mutation===
+{{ga-mut-cons|b|ara}}
+
+===References===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|5376|head=1 bara}}
+* {{R:DIL|5377|head=2 bara}}
 
 ----
 
@@ -281,10 +315,8 @@ From {{etyl|ar|sw}} {{m|ar|بَرّ||mainland}}.
 {{head|sv|adverb}}
 
 # [[just]], [[only]]
-#: ''Jag ska '''bara''' läsa den här sidan också.''
-#:: I'll just read this page too.
-#: ''Vi har '''bara''' en bil.''
-#:: We have only one car.
+#: {{ux|sv|Jag ska '''bara''' läsa den här sidan också.|I'll just read this page too.}}
+#: {{ux|sv|Vi har '''bara''' en bil.|We have only one car.}}
 
 ====Synonyms====
 * {{l|sv|endast}}
@@ -296,7 +328,7 @@ From {{etyl|ar|sw}} {{m|ar|بَرّ||mainland}}.
 ==Welsh==
 
 ===Etymology===
-From {{inh|cy|cel-pro|[[*bargo-]], [[*barginā-]]||cake, bread}} (compare Breton {{m|br|bara}}, Old and Middle Cornish {{m|oco|bara}}, Old Irish {{m|sga|bairgen|g=f||bread, loaf; food, plain diet}}).
+From {{inh|cy|cel-pro|[[*bargo-]], [[*barginā-]]||cake, bread}} (compare {{cog|br|bara}}, {{cog|oco|bara}}, {{cog|sga|bairgen|g=f||bread, loaf; food, plain diet}}).
 
 ===Pronunciation===
 * {{a|North Wales}} {{IPA|/ˈbara/|lang=cy}}
@@ -313,7 +345,7 @@ From {{inh|cy|cel-pro|[[*bargo-]], [[*barginā-]]||cake, bread}} (compare Breton
 ===References===
 * {{R:cy:GPC}}
 
-{{catlangcode|cy|Foods}}
+{{topics|cy|Foods}}
 
 [[af:bara]]
 [[az:bara]]
