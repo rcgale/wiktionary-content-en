@@ -28,14 +28,13 @@ From {{etyl|fro|en}} {{m|fro|designer}}, from {{etyl|la|en}} {{m|la|designō||I 
 #: ''Danish furniture '''design''' is world-famous.''
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|architectural design}}
-* {{l|en|design by contract}}
-* {{l|en|design pattern}}
-{{der-mid}}
-* {{l|en|hardware design}}
-* {{l|en|software design}}
-{{der-bottom}}
+{{der3
+|{{l|en|architectural design}}
+|{{l|en|design by contract}}
+|{{l|en|design pattern}}
+|{{l|en|hardware design}}
+|{{l|en|software design}}
+}}
 
 ====Related terms====
 * {{l|en|designer}}
@@ -43,7 +42,7 @@ From {{etyl|fro|en}} {{m|fro|designer}}, from {{etyl|la|en}} {{m|la|designō||I 
 ====Translations====
 {{trans-top|plan}}
 * Arabic: {{t|ar|تَخْطِيط|m}}, {{t|ar|تصميم|tr=taṣmīm|sc=Arab}}
-* Bulgarian: {{t+|bg|план|m|tr=plan|sc=Cyrl}}, {{t+|bg|конструкция|f|tr=konstrúkcija|sc=Cyrl}}, {{t+|bg|дизайн|m|tr=dizájn|sc=Cyrl}}
+* Bulgarian: {{t+|bg|план|m}}, {{t+|bg|констру́кция|f}}, {{t+|bg|диза́йн|m}}
 * Catalan: {{t+|ca|disseny|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|設計|sc=Hani}}, {{t+|cmn|设计|tr=shèjì|sc=Hani}}
@@ -96,7 +95,7 @@ From {{etyl|fro|en}} {{m|fro|designer}}, from {{etyl|la|en}} {{m|la|designō||I 
 {{trans-bottom}}
 
 {{trans-top|composition}}
-* Bulgarian: {{t+|bg|композиция|f|tr=kompozícija|sc=Cyrl}}, {{t+|bg|конструкция|f|tr=konstrúkcija|sc=Cyrl}}
+* Bulgarian: {{t+|bg|компози́ция|f}}, {{t+|bg|констру́кция|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|設計|sc=Hani}}, {{t+|cmn|设计|tr=shèjì|sc=Hani}}
 * Finnish: {{t+|fi|sommittelu}}
@@ -108,7 +107,7 @@ From {{etyl|fro|en}} {{m|fro|designer}}, from {{etyl|la|en}} {{m|la|designō||I 
 
 {{trans-top|intention}}
 * Bashkir: {{t|ba|ниәт|sc=Cyrl}}
-* Bulgarian: {{t+|bg|намерение|n|tr=namérenie|sc=Cyrl}}
+* Bulgarian: {{t+|bg|наме́рение|n}}
 * Chinese:
 *: Mandarin: {{t+|cmn|打算|tr=dǎsuàn, dǎsuan|sc=Hani}}, {{t|cmn|意圖|sc=Hani}}, {{t+|cmn|意图|tr=yìtú|sc=Hani}}
 * Finnish: {{t+|fi|suunnitelma}}, {{t+|fi|juoni}}
@@ -128,18 +127,18 @@ From {{etyl|fro|en}} {{m|fro|designer}}, from {{etyl|la|en}} {{m|la|designō||I 
 {{trans-bottom}}
 
 {{trans-top|appearance}}
-* Bulgarian: {{t+|bg|дизайн|m|tr=dizájn|sc=Cyrl}}
+* Bulgarian: {{t+|bg|диза́йн|m}}
 * Finnish: {{t+|fi|muotoilu}}, {{t+|fi|design}}, {{t+|fi|kuosi}}
 * German: {{t+|de|Entwurf|m}}
-* Polish: {{t+|pl|wzór|m-in}}, {{t+|pl|krój|m-in}} {{qualifier|of a typeface}}, {{t+|pl|design|m-in}}, {{t|pl|dizajn|m-in}}
 {{trans-mid}}
+* Polish: {{t+|pl|wzór|m-in}}, {{t+|pl|krój|m-in}} {{qualifier|of a typeface}}, {{t+|pl|design|m-in}}, {{t|pl|dizajn|m-in}}
 * Russian: {{t+|ru|диза́йн|m}}, {{t+|ru|вне́шний вид|m}}, {{t+|ru|экстерье́р|m|tr=ekstɛrʹjér}}
 * Turkish: {{t+|tr|tasarım}}
 {{trans-bottom}}
 
 {{trans-top|art of designing}}
 * Arabic: {{t|ar|تَصْمِيم|m}}
-* Bulgarian: {{t+|bg|дизайн|m|tr=dizájn|sc=Cyrl}}
+* Bulgarian: {{t+|bg|диза́йн|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|設計|sc=Hani}}, {{t+|cmn|设计|tr=shèjì|sc=Hani}}
 * Dutch: {{t+|nl|vormgeving}}
@@ -196,7 +195,7 @@ From {{etyl|fro|en}} {{m|fro|designer}}, from {{etyl|la|en}} {{m|la|designō||I 
 * Dutch: {{t+|nl|ontwerpen}}
 * Finnish: {{t+|fi|suunnitella}}, {{t+|fi|muotoilla}}
 * German: {{t+|de|entwerfen}}, {{t+|de|designen}}
-* Greek: {{t+|el|σχεδιάζω}} (schediázo)
+* Greek: {{t+|el|σχεδιάζω}}
 * Hungarian: {{t+|hu|tervez}}
 * Icelandic: {{t|is|hanna}}
 * Interlingua: {{t|ia|designar}}
@@ -214,8 +213,9 @@ From {{etyl|fro|en}} {{m|fro|designer}}, from {{etyl|la|en}} {{m|la|designō||I 
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: {{l|ar|صمم|يصمم}} (yusámmem)
+* Arabic: {{t+check|ar|صمم|alt=يصمم}} (yusámmem)
 * Esperanto: {{t-check|eo|desegni}}
+{{trans-mid}}
 * Czech: {{t+check|cs|navrhnout}} <!-- dubious header "intention" -->
 {{trans-bottom}}
 
@@ -234,7 +234,7 @@ From {{etyl|fro|en}} {{m|fro|designer}}, from {{etyl|la|en}} {{m|la|designō||I 
 ==Dutch==
 
 ===Etymology===
-{{borrowing|en|lang=nl}}
+{{bor|nl|en|design}}.
 
 ===Pronunciation===
 * {{audio|Nl-design.ogg|Audio|lang=nl}}
@@ -252,6 +252,9 @@ From {{etyl|fro|en}} {{m|fro|designer}}, from {{etyl|la|en}} {{m|la|designō||I 
 
 ==Finnish==
 
+===Etymology===
+{{bor|fi|en|design}}.
+
 ===Noun===
 {{fi-noun}}
 
@@ -264,6 +267,9 @@ From {{etyl|fro|en}} {{m|fro|designer}}, from {{etyl|la|en}} {{m|la|designō||I 
 
 ==French==
 
+===Etymology===
+{{bor|fr|en|design}}.
+
 ===Noun===
 {{fr-noun|m}}
 
@@ -274,7 +280,7 @@ From {{etyl|fro|en}} {{m|fro|designer}}, from {{etyl|la|en}} {{m|la|designō||I 
 ==Italian==
 
 ===Etymology===
-{{etyl|en|it}}
+{{bor|it|en|design}}.
 
 ===Noun===
 {{head|it|noun|g=m|invariable}}
@@ -288,6 +294,9 @@ From {{etyl|fro|en}} {{m|fro|designer}}, from {{etyl|la|en}} {{m|la|designō||I 
 
 ==Portuguese==
 
+===Etymology===
+{{bor|pt|en|design}}.
+
 ===Noun===
 {{pt-noun|m|s}}
 
@@ -299,6 +308,9 @@ From {{etyl|fro|en}} {{m|fro|designer}}, from {{etyl|la|en}} {{m|la|designō||I 
 ----
 
 ==Swedish==
+
+===Etymology===
+{{bor|sv|en|design}}.
 
 ===Pronunciation===
 * {{IPA|/dɛˈsajn/|lang=sv}}
