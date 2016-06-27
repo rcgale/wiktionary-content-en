@@ -351,18 +351,17 @@ From {{etyl|frm|fr}} {{m|frm|chat}}, from {{etyl|fro|fr}} {{m|fro|chat}}, from {
 # [[tag]], [[tig]] (children’s game)
 
 =====Related terms=====
-{{rel-top}}
-* {{l|fr|cataire}}, {{l|fr|chataire}}
-* {{l|fr|chat-huant}}
-* {{l|fr|chatière}}
-* {{l|fr|chaton}}
-* {{l|fr|chatonner}}
-* {{l|fr|chatte}}
-* {{l|fr|chattemite}}
-{{rel-mid}}
-* {{l|fr|chatterie}}
-* {{l|fr|chat-tigre}}
-{{rel-bottom}}
+{{rel3
+|{{l|fr|cataire}}, {{l|fr|chataire}}
+|{{l|fr|chat-huant}}
+|{{l|fr|chatière}}
+|{{l|fr|chaton}}
+|{{l|fr|chatonner}}
+|{{l|fr|chatte}}
+|{{l|fr|chattemite}}
+|{{l|fr|chatterie}}
+|{{l|fr|chat-tigre}}
+}}
 
 =====Derived terms=====
 * {{l|fr|chat échaudé craint l'eau froide}}
@@ -378,7 +377,7 @@ From {{etyl|frm|fr}} {{m|frm|chat}}, from {{etyl|fro|fr}} {{m|fro|chat}}, from {
 * {{l|fr|mistigri}}
 
 ===Etymology 2===
-{{etyl|en|fr}} {{m|en|chat}}
+{{bor|fr|en|chat}}.
 
 ====Pronunciation====
 * {{IPA|/tʃat/|lang=fr}}
@@ -421,19 +420,22 @@ From {{etyl|nan|iba}} {{m|nan|漆|tr=chhat}}, from {{etyl|ltc|iba}} {{m|ltc|漆|
 ==Irish==
 
 ===Pronunciation===
-* {{IPA|lang=ga|/xat̪ˠ/}}
+* {{IPA|/xat̪ˠ/|lang=ga}}
 
 ===Noun===
 {{head|ga|mutated noun|g=m}}
 
 # {{ga-lenition of|cat|lang=ga}}
 
+===Mutation===
+{{ga-mut-cons|c|at}}
+
 ----
 
 ==Italian==
 
 ===Etymology 1===
-From {{etyl|en|it}}.
+{{bor|it|en}}.
 
 ====Pronunciation====
 * {{IPA|/tʃɛt/|/tʃat/|lang=it}}
@@ -524,7 +526,7 @@ From {{etyl|fro|frm}} {{m|fro|chat}}, from {{etyl|LL.|frm}} {{m|la|cattus}}
 ==Spanish==
 
 ===Etymology===
-From {{etyl|en|es}} {{m|en|chat}}.
+{{bor|es|en|chat}}.
 
 ===Noun===
 {{es-noun|m}}
