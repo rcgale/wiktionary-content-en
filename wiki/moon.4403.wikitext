@@ -146,7 +146,7 @@ From {{etyl|enm|en}} {{m|enm|mone}}, from {{etyl|ang|en}} {{m|ang|mōna||moon}},
 * Coptic: {{t|cop|ⲓⲟϩ|m|tr=yoh}} {{qualifier|Bohairic}}, {{t|cop|ⲟⲟϩ|m|tr=ʔoh}} {{qualifier|Sahidic}}
 * Cornish: {{t|kw|loor}}
 * Corsican: {{t+|co|luna|f}}
-* Cree: {{t|cr|ᑎᐱᔅᑳᐅᐲᓯᒻ|sc=Cans|tr=tipiskāopīsim}}
+* Cree: {{t|cr|ᑎᐱᔅᑳᐅᐲᓯᒻ}}
 * Crimean Tatar: {{t|crh|ay}}
 * Czech: {{t+|cs|měsíc}}
 * Dalmatian: {{t|dlm|loina|f}}
@@ -187,7 +187,7 @@ From {{etyl|enm|en}} {{m|enm|mone}}, from {{etyl|ang|en}} {{m|ang|mōna||moon}},
 * Hausa: {{t+|ha|wata}}
 * Hawaiian: {{t|haw|mahina}}
 * Hebrew: {{t+|he|יָרֵחַ|m|tr=yaréach}}, {{t+|he|לְבָנָה|f|tr=l'vaná}}
-* Hindi: {{t|hi|चांद|m|tr=cānd|sc=Deva}}, {{t+|hi|चन्द्रमा|m|tr=candrmā}}
+* Hindi: {{t|hi|चांद|m}}, {{t+|hi|चन्द्रमा}}
 * Hixkaryana: {{t|hix|nuno}}
 * Hopi: {{t|hop|muuyaw}}
 * Hungarian: {{t+|hu|hold}}
@@ -296,7 +296,7 @@ From {{etyl|enm|en}} {{m|enm|mone}}, from {{etyl|ang|en}} {{m|ang|mōna||moon}},
 * Rungus: {{t|drg|vullan}}
 * Russian: {{t+|ru|луна́|f}}, {{t+|ru|ме́сяц|m}}
 * Samogitian: {{t|sgs|mienolis}}
-* Sanskrit: {{t+|sa|चन्द्र|tr=candrá}}, {{t+|sa|सोम|tr=soma|sc=Deva}}
+* Sanskrit: {{t+|sa|चन्द्र|tr=candrá}}, {{t+|sa|सोम}}
 * Sardinian: {{t|sc|luna|f}}
 * Saterland Frisian: {{t|stq|Moune}}
 * Scots: {{t|sco|muin}}
@@ -315,6 +315,7 @@ From {{etyl|enm|en}} {{m|enm|mone}}, from {{etyl|ang|en}} {{m|ang|mōna||moon}},
 * Slovene: {{t+|sl|lúna|f-in}}, {{t+|sl|mésec|m-in}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|mjasec|m}}
+*: Upper Sorbian: {{t|hsb|měsačk|m}}
 * Sotho: {{t+|st|kgwedi}}
 * Southern Kalinga: {{t|ksc|furan}}
 * Southern Tujia: {{t|tjs|lo³⁵ ɕi⁵⁵ du̵³⁵}}
@@ -342,7 +343,6 @@ From {{etyl|enm|en}} {{m|enm|mone}}, from {{etyl|ang|en}} {{m|ang|mōna||moon}},
 * Tuvan: {{t|tyv|ай}}
 * Udmurt: {{t|udm|толэзь}}
 * Ukrainian: {{t+|uk|мі́сяць|m}}
-* Upper Sorbian: {{t|hsb|měsačk|m}}
 * Urdu: {{t|ur|چاند|m|tr=cānd}}, {{t|ur|چندرما|m|tr=candrmā|sc=ur-Arab}}
 * Uyghur: {{t+|ug|ئاي|sc=ug-Arab}}
 * Uzbek: {{t+|uz|oy|sc=Cyrl}}
@@ -388,7 +388,7 @@ From {{etyl|enm|en}} {{m|enm|mone}}, from {{etyl|ang|en}} {{m|ang|mōna||moon}},
 * German: {{t+|de|Mond|m}}, {{t+|de|Trabant|m}}, {{t+|de|Satellit|m}}
 * Greek: {{t+|el|φεγγάρι|n}}, {{t+|el|δορυφόρος|m}}
 * Hebrew: {{t+|he|יָרֵחַ|tr=yaréakh|m}}
-* Hindi: {{t+|hi|चाँद|tr=cām̐da}}, {{t+|hi|चन्द्रमा|tr=candramā}}
+* Hindi: {{t+|hi|चाँद}}, {{t+|hi|चन्द्रमा}}
 * Hungarian: {{t+|hu|hold}}
 * Icelandic: {{t+|is|tungl|n}}, {{t+|is|fylgihnöttur|m}}
 * Indonesian: {{t+|id|bulan}}
@@ -396,7 +396,7 @@ From {{etyl|enm|en}} {{m|enm|mone}}, from {{etyl|ang|en}} {{m|ang|mōna||moon}},
 * Italian: {{t+|it|satellite|m}}, {{t+|it|luna|f}}
 * Japanese: {{t+|ja|衛星|tr=えいせい, eisei}}
 * Khmer: {{t|km|លោកខែ|tr=lōk kai}}
-* Korean: {{t+|ko|위성|tr=wisǒng}}
+* Korean: {{t+|ko|위성}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|heyv}}, {{t+|ku|hîv}}
 *: Sorani: {{t+|ku|mang}}
@@ -466,7 +466,7 @@ From {{etyl|enm|en}} {{m|enm|mone}}, from {{etyl|ang|en}} {{m|ang|mōna||moon}},
 * Japanese: {{t+|ja|月|tr=つき, tsuki}}
 * Kalmyk: {{t|xal|сар}}
 * Khmer: {{t+|km|ខែ|tr=kai}}
-* Korean: {{t+|ko|달|tr=dal}}, {{t+|ko|월|tr=weol}}
+* Korean: {{t+|ko|달}}, {{t+|ko|월}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|meh}}, {{t+|ku|heyv}}, {{t+|ku|hîv}}
 *: Sorani: {{t+|ku|مانگ}}
