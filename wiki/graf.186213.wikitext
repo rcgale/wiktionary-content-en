@@ -27,7 +27,7 @@ Phonetic respelling of {{abbreviation of|paragraph|nocap=1|lang=en}}
 ==Afrikaans==
 
 ===Etymology===
-From {{etyl|nl|af}} {{m|nl|graf}}.
+From {{der|af|nl|graf}}.
 
 ===Noun===
 {{af-noun|grafte}}
@@ -59,7 +59,7 @@ From {{etyl|nl|af}} {{m|nl|graf}}.
 {{wikipedia|lang=nl}}
 
 ===Etymology 1===
-From {{inh|nl|odt|*graf}}, from {{inh|nl|gem-pro|*grabą}}, {{m|gem-pro|*grabō||grave, trench, ditch}}, from {{der|nl|ine-pro|*gʰrābʰ-||to dig, scratch, scrape}}. Compare Low German {{m|nds|Graf}}, {{m|nds|Graff}}, German {{m|de|Grab}}, West Frisian {{m|fy|grêf}}, English {{m|en|grave}}, Danish {{m|da|grav}}, Icelandic {{m|is|gröf}}.
+From {{inh|nl|odt|*graf}}, from {{inh|nl|gem-pro|*grabą}}, {{m|gem-pro|*grabō||grave, trench, ditch}}, from {{der|nl|ine-pro|*gʰrābʰ-||to dig, scratch, scrape}}. Compare {{cog|nds|Graf}}, {{m|nds|Graff}}, {{cog|de|Grab}}, {{cog|fy|grêf}}, {{cog|en|grave}}, {{cog|da|grav}}, {{cog|is|gröf}}.
 
 ====Pronunciation====
 * {{rhymes|ɑf|lang=nl}}
@@ -107,12 +107,12 @@ From {{der|nl|fr|grave||serious, grave}}. Most likely influenced by Dutch {{m|nl
 {{wikipedia|lang=no}}
 
 ===Etymology===
-From {{etyl|en|nb}} {{m|en|graph}}
+{{bor|nb|en|graph}}
 
 ===Noun===
 {{nb-noun-m1}}
 
-# a {{l|en|graph}} (''diagram'')
+# {{l|en|graph}} (''diagram'')
 
 ===References===
 * {{R:The Bokmål Dictionary}}
@@ -123,15 +123,31 @@ From {{etyl|en|nb}} {{m|en|graph}}
 {{wikipedia|lang=nn}}
 
 ===Etymology===
-From {{etyl|en|nn}} {{m|en|graph}}
+{{bor|nn|en|graph}}
 
 ===Noun===
 {{nn-noun-m1}}
 
-# a {{l|en|graph}} (''diagram'')
+# {{l|en|graph}} (''diagram'')
 
 ===References===
 * {{R:The Nynorsk Dictionary}}
+
+----
+
+==Old English==
+
+===Noun===
+{{ang-noun||head=grāf}}
+
+# [[grove]]
+
+====Declension====
+{{rfinfl|ang|noun}}
+
+====Descendants====
+* Middle English: {{l|enm|grove}}
+** English: {{l|en|grove}}
 
 ----
 
@@ -146,15 +162,7 @@ From {{etyl|en|nn}} {{m|en|graph}}
 # {{label|pl|mathematics}} [[graph]]
 
 ====Declension====
-{{pl-decl-noun
-|graf|grafy
-|grafu|grafów
-|grafowi|grafom
-|graf|grafy
-|grafem|grafami
-|grafie|grafach
-|grafie|grafy
-}}
+{{pl-decl-noun-m-in}}
 
 ----
 
