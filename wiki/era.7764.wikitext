@@ -118,7 +118,7 @@ From {{etyl|LL.|en}} {{m|la|aera}}.
 ==Basque==
 
 ===Noun===
-{{head|eu|noun}}
+{{eu-noun}}
 
 # [[manner]]
 
@@ -127,7 +127,7 @@ From {{etyl|LL.|en}} {{m|la|aera}}.
 ==Catalan==
 
 ===Noun===
-{{head|ca|noun}}
+{{ca-noun|?}}
 
 # Small section of arable land destined for cultivation.
 
@@ -178,8 +178,7 @@ From {{etyl|LL.|en}} {{m|la|aera}}.
 ===Verb===
 {{gl-verb-form}}
 
-# {{inflection of|ser||lang=gl|1|s|impf|indc}}
-# {{inflection of|ser||lang=gl|3|s|impf|indc}}
+# {{inflection of|ser||lang=gl|1|and|3|s|impf|ind}}
 
 ----
 
@@ -340,6 +339,7 @@ From {{inh|osx|gem-pro|*aizō}}, whence also {{cog|ang|ār}}, {{cog|non|eir}}.
 # {{l|en|era}}
 
 ====Declension====
+{{pl-decl-noun-f}}
 {{pl-decl-noun
 |era|ery
 |ery|er
@@ -359,6 +359,7 @@ From {{inh|osx|gem-pro|*aizō}}, whence also {{cog|ang|ār}}, {{cog|non|eir}}.
 
 ===Pronunciation===
 * {{a|Portugal|Brazil}} {{IPA|/ˈɛ.ɾɐ/|lang=pt}}
+* {{hyphenation|e|ra|lang=pt}}
 * {{rfap|lang=pt}}
 * {{homophones|hera|lang=pt}}
 
@@ -460,6 +461,9 @@ From {{etyl|LL.|sh}} {{m|la|aera}}.
 
 ==Spanish==
 
+===Pronunciation===
+* {{hyphenation|e|ra|lang=es}}
+
 ===Etymology 1===
 see {{m|es|ser}}
 
@@ -499,10 +503,10 @@ From {{etyl|la|es}} {{m|la|ārea}}.
 ==Swedish==
 
 ===Alternative forms===
-* {{l|sv|edra}} {{qualifier|archaic}}
+* {{l|sv|edra}} {{q|archaic}}
 
 ===Etymology===
-From {{etyl|non|sv}} {{m|non|yðr}}, {{m|non|yðar}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*izwiz}}.
+From {{inh|sv|non|yðr}}, {{m|non|yðar}}, from {{inh|sv|gem-pro|*izwiz}}.
 
 ===Pronunciation===
 * {{audio|Sv-era.ogg|audio|lang=sv}}
