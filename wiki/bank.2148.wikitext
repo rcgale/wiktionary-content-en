@@ -10,7 +10,7 @@
 * {{rhymes|æŋk|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|enm|banke}}, from {{etyl|frm|en}} {{m|frm|banque|}}, from {{etyl|roa-oit|en}} {{m|it|banca||counter, moneychanger's bench or table}}, from {{etyl|lng|en}} {{m|lng|sc=Latn|bank||bench, counter}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*bankiz||bench, counter}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bheg-||to turn, curve, bend, bow}}. Cognate with {{etyl|goh|en}} {{m|goh|banc}}, {{m|goh|banch||counter, bench}}, {{cog|ang|benc||bench}}. More at {{l|en|bench}}.
+From {{inh|en|enm|banke}}, from {{der|en|frm|banque|}}, from {{etyl|roa-oit|en}} {{m|it|banca||counter, moneychanger's bench or table}}, from {{etyl|lng|en}} {{m|lng|sc=Latn|bank||bench, counter}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*bankiz||bench, counter}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bheg-||to turn, curve, bend, bow}}. Cognate with {{etyl|goh|en}} {{m|goh|banc}}, {{m|goh|banch||counter, bench}}, {{cog|ang|benc||bench}}. More at {{l|en|bench}}.
 
 ====Noun====
 {{en-noun}}
@@ -534,7 +534,7 @@ Probably from {{etyl|fr|en}} {{m|fr|banc}}. Of German origin, and akin to Englis
 ==Danish==
 
 ===Etymology 1===
-From {{etyl|fr|da}} {{m|fr|banque}}, from {{etyl|it|da}} {{m|it|banco||bench}}.
+{{bor|da|fr|banque}}, from {{der|da|it|banco||bench}}.
 
 ====Noun====
 {{da-noun|en|er}}
@@ -546,7 +546,7 @@ From {{etyl|fr|da}} {{m|fr|banque}}, from {{etyl|it|da}} {{m|it|banco||bench}}.
 * {{l|da|bankier}}
 * {{l|da|bankør}}<!-- banker in a casino -->
 
-=====Inflection=====
+=====Declension=====
 {{da-noun-infl|en|er}}
 
 ===Etymology 2===
@@ -569,7 +569,7 @@ From {{etyl|de|da}} {{m|de|Bank||bench}}.
 =====Synonyms=====
 * {{sense|beating}} {{l|da|tæsk}}, {{l|da|tæv}}
 
-=====Inflection=====
+=====Declension=====
 {{da-noun-infl|et}}
 
 ====Verb====
@@ -608,6 +608,9 @@ From {{inh|nl|dum|banc}}, from {{inh|nl|odt|*bank}}, from {{inh|nl|gem-pro|*bank
 
 ==Hungarian==
 
+===Etymology===
+{{rfe|hu}}
+
 ===Pronunciation===
 * {{hu-IPA}}
 * {{audio|Hu-bank.ogg|Audio|lang=hu}}
@@ -635,6 +638,9 @@ From {{inh|nl|dum|banc}}, from {{inh|nl|odt|*bank}}, from {{inh|nl|gem-pro|*bank
 
 ==Maltese==
 
+===Etymology===
+{{rfe|mt}}
+
 ===Noun===
 {{mt-noun|m|banek}}
 
@@ -652,7 +658,7 @@ From {{inh|nl|dum|banc}}, from {{inh|nl|odt|*bank}}, from {{inh|nl|gem-pro|*bank
 ===Noun===
 {{enm-noun}}
 
-# the [[bank]] of a river or lake
+# the bank of a river or lake
 
 ----
 
@@ -663,12 +669,12 @@ From {{inh|nl|dum|banc}}, from {{inh|nl|odt|*bank}}, from {{inh|nl|gem-pro|*bank
 * {{IPA|/bɑŋk/|lang=nb}}
 
 ===Etymology 1===
-From {{etyl|it|nb}} {{m|it|banca}}, {{m|it|banco}}, via {{etyl|fr|nb}} {{m|fr|banque}}
+{{bor|nb|fr|banque}}, from {{der|nb|it|banco||bench}}, {{m|it|banca}}.
 
 ====Noun====
 {{nb-noun-m1}}
 
-# a {{l|en|bank}} {{gloss|''financial institution''}}
+# {{l|en|bank}} {{gloss|''financial institution''}}
 
 =====Derived terms=====
 * {{l|nb|bankkonto}}
@@ -689,12 +695,12 @@ From {{etyl|it|nb}} {{m|it|banca}}, {{m|it|banco}}, via {{etyl|fr|nb}} {{m|fr|ba
 {{wikipedia|lang=nn}}
 
 ===Etymology===
-From {{etyl|it|nn}} {{m|it|banca}}, {{m|it|banco}}, via {{etyl|fr|nn}} {{m|fr|banque}}
+{{bor|nn|fr|banque}}, from {{der|nn|it|banco||bench}}, {{m|it|banca}}.
 
 ===Noun===
 {{nn-noun-m1}}
 
-# a {{l|en|bank}} {{gloss|financial institution}}
+# {{l|en|bank}} {{gloss|financial institution}}
 
 ====Derived terms====
 * {{l|nn|bankkonto}}
@@ -715,6 +721,7 @@ From {{etyl|it|nn}} {{m|it|banca}}, {{m|it|banco}}, via {{etyl|fr|nn}} {{m|fr|ba
 # {{l|en|bank}}
 
 ====Declension====
+{{pl-decl-noun-m-in}}
 {{pl-decl-noun|bank|[[banki]]
 |[[banku]]|[[banków]]
 |[[bankowi]]|[[bankom]]
@@ -738,8 +745,7 @@ From {{etyl|it|nn}} {{m|it|banca}}, {{m|it|banco}}, via {{etyl|fr|nn}} {{m|fr|ba
 ===Noun===
 {{head|sl|noun form|head=bánk}}
 
-# {{inflection of|bánka||gen|d|lang=sl}}
-# {{inflection of|bánka||gen|p|lang=sl}}
+# {{inflection of|bánka||gen|d|;||gen|p|lang=sl}}
 
 ----
 
@@ -796,7 +802,7 @@ From {{etyl|it|nn}} {{m|it|banca}}, {{m|it|banco}}, via {{etyl|fr|nn}} {{m|fr|ba
 ===Noun===
 {{tr-noun|ı|lar}}
 
-# [[bench]] (long seat)
+# [[bench]] {{gloss|long seat}}
 
 ====Declension====
 {{tr-noun-c|ı|t|poss=+|pred=-}}
