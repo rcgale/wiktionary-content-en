@@ -2,15 +2,15 @@
 ==English==
 
 ===Etymology 1===
-{{borrowing|la|bulla||bubble|lang=en}}.
+{{bor|en|la|bulla||bubble}}.
 
 ====Noun====
 {{slim-wikipedia}}
 {{en-noun|bullae}}
 
-# {{label|en|medicine}} A [[blister]], [[vesicle]], or other thin-walled cavity or [[lesion]].
-# {{label|en|archaeology}} A clay envelope or hollow ball, typically with seal impressions or writing on its outside indicating its contents.
-# {{label|en|historical}} In ancient Rome, a kind of [[amulet]] or [[boss]].
+# {{lb|en|medicine}} A [[blister]], [[vesicle]], or other thin-walled cavity or [[lesion]].
+# {{lb|en|archaeology}} A clay envelope or hollow ball, typically with seal impressions or writing on its outside indicating its contents.
+# {{lb|en|historical}} In ancient Rome, a kind of [[amulet]] or [[boss]].
 # Later, a handwritten document from the papal chancellery.
 
 ====See also====
@@ -81,35 +81,38 @@
 # a [[piston]]{{jump|is|piston|s}}
 # a [[bully]]{{jump|is|bully|s}}
 
-====Derived terms====
-{{der-top}}
-* {{l|is|bulludæla|gloss=piston pump}}
-* {{l|is|bulluhaus|gloss=piston head}}
-* {{l|is|bulluhiti|gloss=piston operating temperature}}
-* {{l|is|bulluhreyfill|gloss=piston engine}}
-* {{l|is|bulluhringur|gloss=piston ring}}
-* {{l|is|bulluhöfuð|gloss=piston crown}}
-* {{l|is|bullukollur|gloss=piston head}}
-{{der-mid}}
-* {{l|is|bulluslag|gloss=piston stroke}}
-* {{l|is|bullustrokkur|gloss=piston barrel}}
-* {{l|is|bullustýring|gloss=piston guide}}
-* {{l|is|bullustöng|gloss=piston rod}}
-* {{l|is|bulluvölur|gloss=piston pin}}
-* {{l|is|bulluþétti|gloss=piston gasket, piston packing, piston seal}}
-* {{l|is|bulluþjappa|gloss=piston compressor}}
-* {{l|is|vélbulluvölur|gloss=piston pin}}
-{{der-bottom}}
-
 ====Synonyms====
-* {{jump|s|is|piston}} [[stimpill]]
-* {{jump|s|is|bully}} [[svoli]]
+* {{jump|s|is|piston}} {{l|is|stimpill}}
+* {{jump|s|is|bully}} {{l|is|svoli}}
+
+====Derived terms====
+{{der3
+|{{l|is|bulludæla||piston pump}}
+|{{l|is|bulluhaus||piston head}}
+|{{l|is|bulluhiti||piston operating temperature}}
+|{{l|is|bulluhreyfill||piston engine}}
+|{{l|is|bulluhringur||piston ring}}
+|{{l|is|bulluhöfuð||piston crown}}
+|{{l|is|bullukollur||piston head}}
+|{{l|is|bulluslag||piston stroke}}
+|{{l|is|bullustrokkur||piston barrel}}
+|{{l|is|bullustýring||piston guide}}
+|{{l|is|bullustöng||piston rod}}
+|{{l|is|bulluvölur||piston pin}}
+|{{l|is|bulluþétti||piston gasket, piston packing, piston seal}}
+|{{l|is|bulluþjappa||piston compressor}}
+|{{l|is|vélbulluvölur||piston pin}}
+}}
 
 ===Verb===
 {{is-verb-weak|bullaði|bullað}}
 
-# {{label|is|intransitive}} to [[talk]] [[nonsense]]{{jump|is|talk nonsense|s}}
-# {{label|is|intransitive}} to [[boil]], to [[bubble]] up{{jump|is|boil|s}}
+# {{lb|is|intransitive}} to [[talk]] [[nonsense]]{{jump|is|talk nonsense|s}}
+# {{lb|is|intransitive}} to [[boil]], to [[bubble]] up{{jump|is|boil|s}}
+
+====Synonyms====
+* {{jump|s|is|talk nonsense}} {{l|is|rugla}}, {{l|is|þvæla}}, {{l|is|þvaðra}}
+* {{jump|s|is|boil}} {{l|is|sjóða}}
 
 ====Derived terms====
 * {{l|is|bullandi}}
@@ -117,16 +120,58 @@
 ====Related terms====
 * {{l|is|bull}}
 
-====Synonyms====
-* {{jump|s|is|talk nonsense}} {{l|is|rugla}}, {{l|is|þvæla}}, {{l|is|þvaðra}}
-* {{jump|s|is|boil}} {{l|is|sjóða}}
+----
+
+==Irish==
+
+===Etymology 1===
+{{rfe|lang=ga}}
+
+====Noun====
+{{ga-noun|g=m|-|bullaí}}
+
+# {{lb|ga|nautical}} [[buoy]]
+# {{lb|ga|medicine}} [[#English|bulla]]
+
+===Etymology 2===
+From {{inh|ga|sga|bulla}}, a {{bor|ga|la|bulla|nocap=1}}.
+
+====Noun====
+{{ga-noun|g=m|-|bullaí}}
+
+# {{lb|ga|Christianity}} [[bull]]
+
+===Etymology 3===
+{{rfe|lang=ga}}
+
+====Noun====
+{{ga-noun|g=m|-|bullaí}}
+
+# {{lb|ga|finance}} [[bull]]
+
+===Etymology 4===
+
+====Noun====
+{{ga-noun|g=m|-|bullaí}}
+
+# {{alternative form of|bolla||bowl|lang=ga}}
+
+===Declension====
+{{ga-decl-m4|b|ulla|ullaí}}
+
+===Mutation===
+{{ga-mut-cons|b|ulla}}
+
+===References===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|7443|head=1 bulla}}
 
 ----
 
 ==Latin==
 
 ===Etymology===
-From {{etyl|cel-gau|la}}, from {{der|la|ine-pro|*beu||swelling}}, same source as Middle Dutch {{m|dum|puyl||bag}} and Lithuanian {{m|lt|bule||buttocks}}.<ref>Skeat, An Etymological Dictionary of the English Language</ref>
+From {{der|la|cel-gau}}, from {{der|la|ine-pro|*beu||swelling}}, same source as {{cog|dum|puyl||bag}} and {{cog|lt|bule||buttocks}}.<ref>Skeat, An Etymological Dictionary of the English Language</ref>
 
 ===Pronunciation===
 * {{la-IPA|bulla}}
@@ -137,19 +182,17 @@ From {{etyl|cel-gau|la}}, from {{der|la|ine-pro|*beu||swelling}}, same source as
 # a [[bubble]]
 # a [[swollen]] or [[bubble]]-[[shape]]d [[object]], ''[[particularly]]'':
 ## a [[knob]], [[boss]], or [[stud]], [[as]] on [[door]]s, [[shield]]s, [[&c.]]
-## {{label|la|historical}} a {{l|en|bulla}}: a [[protective]] ([[usually]] [[golden]]) [[amulet]] [[worn]] by [[upper]]-[[class]] [[Roman]] [[children]] 
-## {{senseid|la|seal}} {{label|la|medieval|historical}} a [[round]] [[metallic]] [[seal]] [[certify]]ing [[official]] [[medieval]] [[document]]s, ''[[particularly]]'' the [[golden]] [[imperial]] [[seal]] and the [[leaden]] [[papal]] [[one]].
-# {{label|la|medieval}} a [[papal bull]] or [[other]] [[official]] [[document]] [[seal]]ed with a {{m|la|bulla|id=seal}}
-
-====Derived terms====
-* [[bulla dignus|bullā dignus]] (childish)
+## {{lb|la|historical}} a {{l|en|bulla}}: a [[protective]] ([[usually]] [[golden]]) [[amulet]] [[worn]] by [[upper]]-[[class]] [[Roman]] [[children]] 
+## {{senseid|la|seal}} {{lb|la|medieval|historical}} a [[round]] [[metallic]] [[seal]] [[certify]]ing [[official]] [[medieval]] [[document]]s, ''[[particularly]]'' the [[golden]] [[imperial]] [[seal]] and the [[leaden]] [[papal]] [[one]].
+# {{lb|la|medieval}} a [[papal bull]] or [[other]] [[official]] [[document]] [[seal]]ed with a {{m|la|bulla|id=seal}}
 
 ====Inflection====
 {{la-decl-1st|bull}}
 
 ====Derived terms====
-* {{l|la|bullio|bulliō}}
-* {{l|la|bullo|bullō}}
+* {{l|la|bullā dignus}} {{qualifier|childish}}
+* {{l|la|bulliō}}
+* {{l|la|bullō}}
 
 ====Descendants====
 {{top2}}
@@ -197,7 +240,7 @@ Usually found in the noun phrase {{m|pl|bulla papieska}}.
 ==Spanish==
 
 ===Etymology===
-{{m|es|bullir}}, from {{etyl|la|es}} {{m|la|bullīre}}, present active infinitive of {{m|la|bulliō||I bubble, boil}}, from {{m|la|bulla||bubble}}.
+From {{m|es|bullir}}, from {{der|es|la|bullīre}}, present active infinitive of {{m|la|bulliō||I bubble, boil}}, from {{m|la|bulla||bubble}}.
 
 ===Noun===
 {{es-noun|f}}
