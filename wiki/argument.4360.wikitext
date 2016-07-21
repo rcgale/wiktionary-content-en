@@ -20,10 +20,10 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}}, from {{etyl|fro|en}}, from {{etyl|la
 # <span id="N3">A [[process]] of [[reasoning]].</span>
 #* John Locke
 #*: The '''argument''' is not about things, but names.
-# <span id="N4">{{label|en|philosophy|logic}}</span> A [[series]] of [[proposition]]s [[organize]]d so that the [[final]] proposition is a [[conclusion]] which is [[intend]]ed to [[follow]] [[logically]] from the [[preceding]] propositions, which function as [[premise]]s.
+# <span id="N4">{{lb|en|philosophy|logic}}</span> A [[series]] of [[proposition]]s [[organize]]d so that the [[final]] proposition is a [[conclusion]] which is [[intend]]ed to [[follow]] [[logically]] from the [[preceding]] propositions, which function as [[premise]]s.
 #* {{quote-book|year=2001|author=Mark Sainsbury|title=Logical Forms &mdash; An Introduction to Philosophical Logic|edition=2nd|publisher=Blackwell Publishing|chapter=1|section=&sect;8|isbn=978-0-63121-679-7|page=35|passage=&nbsp;&nbsp;&nbsp;Consider the [[argument]]:<br>&nbsp;&nbsp;&nbsp;'''15''') I am hungry; therefore I am hungry.<br>Intuitively this should count as valid. But suppose we thought of the components of arguments as sentences, and suppose we imagine the context shifting between the utterance of the premise and the utterance of the conclusion. Suppose you are hungry and utter the premise, and I am not hungry and utter the conclusion. Then we would have a true premise and a false conclusion, so the [[argument]] would not be valid. Clearly we need to avoid such problems, and introducing the notion of a proposition, in the style of this section, is one way of doing so.}}
-# <span id="N5">{{label|en|mathematics}} The independent variable of a function.</span>
-# <span id="N6">{{label|en|programming}} A [[value]]</span>, or reference to a value, passed to a [[function]]. <!-- call by value v.s. call by reference -->
+# <span id="N5">{{lb|en|mathematics}} The independent variable of a function.</span>
+# <span id="N6">{{lb|en|programming}} A [[value]]</span>, or reference to a value, passed to a [[function]]. <!-- call by value v.s. call by reference -->
 #* {{quote-web|date=2011-07-20
 |author=Edwin Mares
 |title=Propositional Functions
@@ -32,11 +32,11 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}}, from {{etyl|fro|en}}, from {{etyl|la
 |accessdate=2012-07-15}}
 #*: In ‘The Critic of Arguments’ (1892), Peirce adopts a notion that is even closer to that of a propositional function. There he develops the concept of the ‘rhema’. He says the rhema is like a relative term, but it is not a term. It contains a copula, that is, when joined to the correct number of [[argument]]s it produces an assertion. For example, ‘__ is bought by __ from __ for __’ is a four-place rhema. Applying it to four objects ''a'', ''b'', ''c'', and ''d'' produces the assertion that ''a'' is bought by ''b'' from ''c'' for ''d'' (ibid. 420).
 #: ''Parameters are like labeled fillable blanks used to define a function whereas '''arguments''' are passed to a function when calling it, filling in those blanks.''
-# <span id="N7">{{label|en|programming}} A [[parameter]]</span> in a function definition; an [[actual parameter]], as opposed to a [[formal parameter]].
-# {{label|en|linguistics}} Any of the [[phrase]]s that bears a [[syntactic]] connection to the [[verb]] of a [[clause]].
+# <span id="N7">{{lb|en|programming}} A [[parameter]]</span> in a function definition; an [[actual parameter]], as opposed to a [[formal parameter]].
+# {{lb|en|linguistics}} Any of the [[phrase]]s that bears a [[syntactic]] connection to the [[verb]] of a [[clause]].
 #* {{quote-book|year=1988|author=Andrew Radford|title=Transformational grammar: a first course|location=Cambridge, UK|publisher=Cambridge University Press|page=372|chapter=7}}
 #*: In numerous works over the past two decades, beginning with the pioneering work of Gruber (1965), Fillmore (1968a), and Jackendoff (1972), it has been argued that each '''Argument''' (i.e. Subject or Complement) of a Predicate bears a particular ''thematic role'' (alias ''theta-role'', or ''&theta;-role'' to its Predicate), and that the set of ''thematic functions'' which '''Arguments''' can fulfil are drawn from a highly restricted, finite, universal set.
-# {{label|en|astronomy}} The quantity on which another quantity in a table depends.
+# {{lb|en|astronomy}} The quantity on which another quantity in a table depends.
 #: ''The altitude is the '''argument''' of the refraction.''
 # The [[subject]] [[matter]] of a [[discourse]], [[writing]], or [[artistic]] [[representation]]; [[theme]] or [[topic]]; also, an [[abstract]] or [[summary]], as of the contents of a [[book]], [[chapter]], [[poem]].
 #* Shakespeare
@@ -356,7 +356,7 @@ From {{etyl|la|nn}} {{m|la|argumentum}}
 {{sh-noun|g=m|head=argùment|r|аргумент|аргу̀мент}}
 
 # [[#English|argument]] (fact or statement used to support a proposition)
-# {{label|sh|philosophy|logic|mathematics|programming}} [[#English|argument]]
+# {{lb|sh|philosophy|logic|mathematics|programming}} [[#English|argument]]
 
 ====Declension====
 {{sh-decl-noun|argument|argumenti
@@ -379,8 +379,8 @@ From {{etyl|la|nn}} {{m|la|argumentum}}
 {{sv-noun|n}}
 
 # an [[#English|argument]]; a reason
-# {{label|sv|mathematics}} an argument; an independent variable passed to a function
-# {{label|sv|programming}} an argument; a variable passed to a function
+# {{lb|sv|mathematics}} an argument; an independent variable passed to a function
+# {{lb|sv|programming}} an argument; a variable passed to a function
 
 ====Declension====
 {{sv-infl-noun-n-zero}}
