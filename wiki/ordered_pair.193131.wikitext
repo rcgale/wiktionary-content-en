@@ -4,7 +4,7 @@
 ===Noun===
 {{en-noun|head=[[ordered]] [[pair]]}}
 
-# {{label|en|set theory}} An object containing exactly two [[element]]s in a fixed order, so that, when the elements are different, exchanging them gives a different object. Notation: (a, b) ''or'' <math>\langle a, b\rangle</math>.
+# {{lb|en|set theory}} An object containing exactly two [[element]]s in a fixed order, so that, when the elements are different, exchanging them gives a different object. Notation: (a, b) ''or'' <math>\langle a, b\rangle</math>.
 #: If an [[ordered pair]] were defined (in terms of sets) as <math> (x,y) := \{ \{a\}, \{a, \{b\}\}\} </math> then the "first element" of an ordered pair ''S'' could be defined as CAR(S) where CAR(S) = ''x'' if and only if <math> (\forall y \in S. \, x \in y) </math>. Likewise, the "second element" of ''S'' could be defined as CDR(S) where CDR(S) = ''x'' if and only if <math> (\exists y \in S. \, (\exists z \in y. \, x \in z)) </math>. If the two elements happened to be equal, then the ordered pair would still have cardinality two as would be naturally expected.
 
 ====Related terms====
