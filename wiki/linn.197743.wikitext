@@ -11,7 +11,7 @@
 ==Estonian==
 
 ===Etymology===
-From {{inh|et|fiu-fin-pro|*litna}}. Cognate with Finnish {{m|fi|linna}}.
+From {{inh|et|fiu-fin-pro|*litna}}. Compare {{cog|fi|linna}}.
 
 ===Noun===
 {{et-noun|linna|linna}}
@@ -22,62 +22,96 @@ From {{inh|et|fiu-fin-pro|*litna}}. Cognate with Finnish {{m|fi|linna}}.
 {{et-decl-õrn|linn|a}}
 
 ====Compounds====
-{{l|et|pealinn}}
+* {{l|et|pealinn}}
 
 ----
 
 ==Irish==
 
 ===Etymology 1===
+From {{inh|ga|sga|linn||pool, lake; sea, ocean}}.
 
 ====Pronunciation====
-* {{IPA|lang=ga|/l̠ʲiːn̠ʲ/|/l̠ʲɪn̠ʲ/}}
+* {{IPA|/l̠ʲiːn̠ʲ/|/l̠ʲɪn̠ʲ/|lang=ga}}
 
 ====Noun====
 {{ga-noun|g=f|linne|linnte}}
 
-# [[pool]], [[pond]]
+# [[pool]], [[pond]]; body of water, lake, sea
 
 =====Declension=====
 {{ga-decl-f2|l|inn|inne|pl=innte}}
 
 =====Derived terms=====
-* {{l|ga|linneolaí|g=m||limnologist}}
-* {{l|ga|linneolaíocht|g=f||limnology}}
+{{der3
+|{{l|ga|linn mhuilinn||mill-pond}}
+|{{l|ga|linn éisc||fish-pond}}
+|{{l|ga|linn lachan||duck-pond}}
+|{{l|ga|linn trá||sandy creek}}
+|{{l|ga|linn chalaidh||harbour creek}}
+}}
 
 ===Etymology 2===
+From {{inh|gd|sga|linn||period, space of time}}.
+
+====Noun====
+{{ga-noun|g=f|linne|-}}
+
+# space of [[time]], [[period]]
+
+=====Declension=====
+{{ga-decl-f2-nopl|l|inn|inne}}
+
+=====Derived terms=====
+* {{l|ga|le linn||because of}}
+
+===Etymology 3===
 
 ====Pronunciation====
-* {{IPA|lang=ga|/lʲɪn̠ʲ/}}
+* {{IPA|/lʲɪn̠ʲ/|lang=ga}}
 
 ====Pronoun====
 {{ga-prpr|linne}}
 
 # {{inflection of|le||1|p|lang=ga}}: {{def|[[with]] [[us]], [[to]] us}}
 
-[[Category:ga:Landforms]]
+===References===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|30274|head=1 linn}}
+* {{R:DIL|30276|head=3 linn}}
+
+{{topics|ga|Landforms|Time}}
 
 ----
 
 ==Scottish Gaelic==
+
+===Etymology===
+From {{inh|gd|sga|linn||period, space of time}}.
 
 ===Noun===
 {{gd-noun|g1=m|g2=f|gen1=linn|gen2=linne|pl=linntean}}
 
 # [[era]], [[age]]
 # [[century]]
-#: ''san 20mh '''linn''''' - in the 20th century
+#: {{ux|gd|san 20mh '''linn'''|inline=1|in the 20th century}}
 # [[generation]] {{gloss|genealogy}}
-#: ''bho '''linn''' gu '''linn''' - from generation to generation
+#: {{ux|gd|bho '''linn''' gu '''linn'''|inline=1|from generation to generation}}
 
 ====Synonyms====
 * {{sense|generation}} {{l|gd|ginealach}}, {{l|gd|glùn}}
 
 ====Derived terms====
-* {{l|gd|Linntean Dorcha|Na Linntean Dorcha}} - Dark Ages
-* {{l|gd|Linntean Meadhanach|Na Linntean Meadhanach}} - Middle Ages
-* {{l|gd|Linn Ùr na Cloiche}} - New Stone Age
-* {{l|gd|ri linn}} - during; because of; with regard to
+{{der2
+|{{l|gd|Linntean Dorcha|Na Linntean Dorcha|Dark Ages}}
+|{{l|gd|Linntean Meadhanach|Na Linntean Meadhanach|Middle Ages}}
+|{{l|gd|Linn Ùr na Cloiche||New Stone Age}}
+|{{l|gd|ri linn||during; because of; with regard to}}
+}}
+
+===References===
+* {{R:Dwelly}}
+* {{R:DIL|30276|head=3 linn}}
 
 [[az:linn]]
 [[cs:linn]]
