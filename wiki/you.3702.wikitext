@@ -242,7 +242,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: Cantonese: {{t|yue|你|tr=nei5|sc=Hani}}
 *: Hakka: {{t|hak|你|tr=ngì, ǹg, nì, ǹ|sc=Hani}}
 *: Mandarin: {{qualifier|familiar}} {{t+|cmn|你|tr=nǐ|sc=Hani}}, {{qualifier|formal}} {{t+|cmn|您|tr=nín|sc=Hani}}
-*: Min Dong: {{t-check|cdo|汝|tr=nv|sc=Hani}}, {{t-check|cdo|你|tr=ni|sc=Hani}}
+*: Min Dong: {{t|cdo|汝|tr=nṳ̄|sc=Hani}}
 *: Min Nan: {{t+|nan|你|sc=Hani}}, {{t+|nan|汝|tr=lí, lú|sc=Hani}}
 *:: Teochew: {{t+|nan|你|sc=Hani}}, {{t+|nan|汝|tr=le2|sc=Hani}}
 * Classical Nahuatl: {{t|nci|tehhuātl}}
@@ -339,7 +339,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Azeri: {{t+|az|siz}}, {{t|az|sizlər}}
 * Bashkir: {{t|ba|һеҙ}}
 * Belarusian: {{t+|be|вы}}
-* Bengali: {{qualifier|very familiar}} {{t|bn|তোরা|tr=tōrā|sc=Beng}}, {{qualifier|familiar}} {{t|bn|তোমরা|tr=tōmrā|sc=Beng}}, {{qualifier|polite}} {{t|bn|আপনারা|tr=āpnārā|sc=Beng}}, {{t|bn|তোমরা|sc=Beng}}
+* Bengali: {{qualifier|very familiar}} {{t|bn|তোরা|sc=Beng}}, {{qualifier|familiar}} {{t|bn|তোমরা|sc=Beng}}, {{qualifier|polite}} {{t|bn|আপনারা|sc=Beng}}, {{t|bn|তোমরা|sc=Beng}}
 * Bulgarian: {{t+|bg|вие}}
 * Burmese: {{t|my|နင်တို့}}, {{t|my|မင်းတို့}}, {{t|my|ခင်ဗျားတို့}}, {{t|my|ရှင်တို့}}
 * Catalan: {{t+|ca|vosaltres}}, {{t+|ca|vostès}}, {{t|ca|vós}}
@@ -347,7 +347,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Chinese:
 *: Cantonese: {{t|yue|你哋|tr=nei5 dei6|sc=Hani}}
 *: Hakka: {{t|hak|你兜|tr=ngì-têu, ǹg-têu, ǹ-têu|sc=Hani}}, {{t|hak|你這兜|sc=Hani}}, {{t|hak|你这兜|tr=ngì-iá-têu, ǹg-iá-têu, ǹ-iá-têu|sc=Hani}}, {{t|hak|你等|tr=ǹg-tên, ǹg-nên|sc=Hani}}, {{t|hak|你等這兜|sc=Hani}}, {{t|hak|你等这兜|tr=ǹg-tên-iá-têu, ǹg-nên-iá-têu|sc=Hani}}, {{t|hak|你兜人|tr=ǹg-têu-ngìn|sc=Hani}}, {{t|hak|你兜儕|sc=Hani}}, {{t|hak|你兜侪|tr=ǹg-têu-sà|sc=Hani}}, {{t|hak|你等人|tr=ǹg-tên-ngìn|sc=Hani}}, {{t|hak|你等儕|sc=Hani}}, {{t|hak|你等侪|tr=ǹg-nên-sà|sc=Hani}}
-*: Mandarin: {{t|cmn|你們|sc=Hani}}, {{t+|cmn|你们|tr=nǐmen|sc=Hani}}
+*: Mandarin: {{t+|cmn|你們|sc=Hani}}, {{t+|cmn|你们|tr=nǐmen|sc=Hani}}
 *: Min Nan: {{t+|nan|恁|tr=lín|sc=Hani}}
 *:: Teochew: {{t+|nan|恁|tr=ning2|sc=Hani}}
 * Chuvash: {{t|cv|эсир}}
@@ -378,7 +378,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Havasupai-Walapai-Yavapai: {{t|yuf|ma}}
 * Hawaiian: {{qualifier|[[dual]]}} {{t|haw|ʻolua}}, {{qualifier|plural}} {{t|haw|ʻoukou}}
 * Hebrew: {{t+|he|אֲתֶּם|m-p|tr=attém}}, {{t+|he|אֲתֶּן|f-p|tr=attén}}
-* Hindi: {{qualifier|mid-polite}} {{t+|hi|तुम|tr=tum}}, {{qualifier|polite}} {{t+|hi|आप|tr=āp}}
+* Hindi: {{qualifier|mid-polite}} {{t+|hi|तुम}}, {{qualifier|polite}} {{t+|hi|आप}}
 * Hungarian: {{qualifier|familiar}} {{t+|hu|ti}}, {{qualifier|polite}} {{t+|hu|önök}}
 * Icelandic: {{t+|is|þið}}
 * Ido: {{qualifier|polite}} {{t+|io|vu}}
@@ -390,7 +390,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Japanese: <!-- Maybe we need a separate article for the case of ja pronouns... perhaps the "horribly insulting" ones should be removed just for sake’s sake... there should probably be a better term than ‘rude’ here too. -->{{qualifier|generic}} {{sense|discourteous if used for a superior}} {{t|ja|貴方達|tr=[[あなたたち]], anata-tachi}}, {{qualifier|honorific}} {{t|ja|貴方方|tr=[[あなたがた]], anata-gata}}, {{qualifier|slightly rude, occasionally generic}} {{t|ja|お前達|tr=[[おまえたち]], omae-tachi}}, {{qualifier|highly insulting}} {{t|ja|貴様等|tr=[[きさまら]], kisama-ra}} {{qualifier|used to be highly formal}}, {{qualifier|intimate; in business, used toward subordinates}} {{t|ja|君達|tr=[[きみたち]], kimi-tachi}}
 * Kannada: {{t+|kn|ನೀವು}}
 * Kazakh: {{qualifier|informal}} {{t|kk|сендер}}, {{qualifier|formal}} {{t|kk|сіздер}}
-* Korean: {{qualifier|generic|discourteous if used for a superior}} {{t+check|ko|너희|tr=neohui}}, {{qualifier|honorific}} {{t+check|ko|여러분|tr=yeoreobun}}, {{qualifier|slightly rude}} {{t+check|ko|너희|tr=neohui}}, {{t-check|ko|당신들|tr=dangsin deul}}, {{qualifier|highly insulting}} {{t-check|ko|이놈들|tr=inomdeul}}, {{t-check|ko|[[이]] [[새끼들]]|sc=Kore}}, {{qualifier|very familiar}} {{t-check|ko|니네|tr=nine}}, {{t-check|ko|니들|tr=nideul}} {{qualifier|insulting if used wrongly}}, {{qualifier|intimate|in business, used toward subordinates}} {{t-check|ko|자네들|tr=janedeul}}
+* Korean: {{qualifier|generic|discourteous if used for a superior}} {{t+check|ko|너희}}, {{qualifier|honorific}} {{t+|ko|여러분}}, {{qualifier|slightly rude}} {{t+|ko|너희}}, {{t|ko|당신들}}, {{qualifier|highly insulting}} {{t|ko|이놈들}}, {{t-check|ko|[[이]] [[새끼들]]|sc=Kore}}, {{qualifier|very familiar}} {{t|ko|니네}}, {{t|ko|니들}} {{qualifier|insulting if used wrongly}}, {{qualifier|intimate|in business, used toward subordinates}} {{t|ko|자네들}}
 * Kurdish: {{t+|ku|hûn|sc=ku-Arab}}
 * Kyrgyz: {{t+|ky|силер}} {{qualifier|familiar}}, {{t|ky|сиздер}} {{qualifier|polite}}
 * Lao: {{t+|lo|ເຈົ້າ|tr=cao}} {{qualifier|to an equal}}
@@ -456,7 +456,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Tatar: {{t+|tt|сез}}
 * Telugu: {{t+|te|నువ్వు}}, {{t+|te|మీరు}}
 * Tetum: {{t|tet|ó}}, {{t|tet|imi}}, {{t|tet|Ita}}, {{t|tet|Ita-Boot}}, {{t|tet|Ita-Na’i}}
-* Thai: {{t+|th|คุณ|tr=khun|sc=Thai}}
+* Thai: {{t+|th|คุณ|sc=Thai}}
 * Tigrinya: {{qualifier|informal}} {{t|ti|ንስኻትኩም|m|sc=Ethi}}, {{t|ti|ንስኻትክን|f|sc=Ethi}}; {{qualifier|polite}} {{t|ti|ንስኹም|m|sc=Ethi}}, {{t|ti|ንስኽን|f|sc=Ethi}}; {{qualifier|vocative}} {{t|ti|ኣቱም|m|sc=Ethi}}, {{t|ti|ኣተን|f|sc=Ethi}}
 * Tok Pisin: {{t|tpi|yupela}}
 * Turkish: {{t+|tr|siz}}, {{t|tr|sizler}}
@@ -495,22 +495,21 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Bakhtiari: {{t|bqi|تو|tr=to|sc=fa-Arab}}
 * Bashkir: {{t|ba|һин}}
 * Belarusian: {{qualifier|familiar}} {{t+|be|ты}}, {{qualifier|polite}} {{t+|be|вы}}
-* Bengali: {{t|bn|তুই|tr=tu'i|sc=Beng}} {{qualifier|very familiar}}, {{t|bn|তুমি|tr=tumi|sc=Beng}} {{qualifier|familiar}}, {{t|bn|আপনি|tr=āpni|sc=Beng}} {{qualifier|polite}}
+* Bengali: {{t|bn|তুই|sc=Beng}} {{qualifier|very familiar}}, {{t|bn|তুমি|sc=Beng}} {{qualifier|familiar}}, {{t|bn|আপনি|sc=Beng}} {{qualifier|polite}}
 * Bulgarian: {{qualifier|informal}} {{t+|bg|ти|tr=ti}}, {{qualifier|formal}} {{t+|bg|Вие|tr=Víe}}
 * Burmese: {{t+|my|နင်}} {{qualifier|informal}}, {{t+|my|မင်း}} {{qualifier|informal}}, {{t+|my|ခင်ဗျား}} {{qualifier|polite, used by males}}, {{t+|my|ရှင်}} {{qualifier|polite, used by females}}
 * Buryat: {{t|bua|ши}}
 * Catalan: {{t+|ca|tu}}, {{t+|ca|vostè}}
 * Chamicuro: {{t|ccc|pi'ti}}
 * Chinese:
-*: Cantonese: {{t|yue|你|tr=nei5|sc=Hant}}
-*: Dungan: {{t|dng|ни}}
+*: Cantonese: {{t|yue|你|tr=nei5|sc=Hani}}
+*: Dungan: {{t|dng|ни|tr=ni}}
 *: Hakka: {{t|hak|你|tr=ngì, ǹg, nì, ǹ|sc=Hani}}
-*: Gan: {{t|gan|汝|sc=Hani}}
 *: Mandarin: {{qualifier|familiar}} {{t+|cmn|你|tr=nǐ|sc=Hani}}, {{qualifier|formal}} {{t+|cmn|您|tr=nín|sc=Hani}}
 *: Min Dong: {{t|cdo|汝|tr=nṳ̄|sc=Hani}}
 *: Min Nan: {{t+|nan|你|sc=Hani}}, {{t+|nan|汝|tr=lí, lú|sc=Hani}}
 *:: Teochew: {{t+|nan|你|sc=Hani}}, {{t+|nan|汝|tr=le2|sc=Hani}}
-*: Wu: {{t|wuu|儂|sc=Hans}}, {{t|wuu|侬|tr=nóng|sc=Hans}}
+*: Wu: {{t|wuu|儂|sc=Hani}}, {{t|wuu|侬|tr=non|sc=Hani}}
 * Chuvash: {{t|cv|эсӗ}}, {{t|cv|эс}}
 * Classical Nahuatl: {{t|nci|teh}}, {{t|nci|tehhuātl}}
 * Cornish: {{t|kw|ty}}
@@ -617,7 +616,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Taos: {{t|twf|ę̋}}
 * Tatar: {{t|tt|син}}
 * Telugu: {{t+|te|నీవు}} {{qualifier|familiar}}, {{t+|te|మీరు}} {{qualifier|polite}}
-* Thai: {{t+|th|คุณ|tr=kun|sc=Thai}}, {{t+|th|เธอ|tr=ter|sc=Thai}}
+* Thai: {{t+|th|คุณ|sc=Thai}}, {{t+|th|เธอ|sc=Thai}}
 * Tigrinya: {{qualifier|informal}} {{t|ti|ንስኻ|m|sc=Ethi}}, {{t|ti|ንስኺ|f|sc=Ethi}}; {{qualifier|polite}} {{t|ti|ንስኹም|m|sc=Ethi}}, {{t|ti|ንስኽን|f|sc=Ethi}}; {{qualifier|vocative}} {{t|ti|ኣታ|m|sc=Ethi}}, {{t|ti|ኣቲ|f|sc=Ethi}}
 * Turkish: {{qualifier|familiar}} {{t+|tr|sen}} {{qualifier|polite, grammatically plural}} {{t+|tr|siz}}
 * Turkmen: {{qualifier|informal}} {{t|tk|sen}}, {{qualifier|formal}} {{t|tk|siz}}
