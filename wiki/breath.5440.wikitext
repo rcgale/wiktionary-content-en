@@ -5,7 +5,7 @@
 * {{l|en|breth}} {{qualifier|obsolete}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{m|enm|breeth}}, {{m|enm|breth}}, from {{etyl|ang|en}} {{m|ang|brǣþ||odor, scent, stink, exhalation, vapor}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*brēþiz||vapour, waft, exhalation, breath}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bʰrē-t-||exhalation from heat; steam}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bʰer-||to seethe, toss about, cook}}. Cognate with {{cog|sco|breth}}, {{m|sco|breith||breath}}, {{cog|de|Brodem||steam, vapour, fume, odour}}. Related also to {{cog|is|bráður||hasty, hurried, excited, rash}}. More at {{l|en|brath}}.
+From {{inh|en|enm|breeth}}, {{m|enm|breth}}, from {{inh|en|ang|brǣþ||odor, scent, stink, exhalation, vapor}}, from {{inh|en|gem-pro|*brēþiz||vapour, waft, exhalation, breath}}, from {{der|en|ine-pro|*bʰrē-t-||exhalation from heat; steam}}, from {{m|ine-pro|*bʰer-||to seethe, toss about, cook}}. Cognate with {{cog|sco|breth}}, {{m|sco|breith||breath}}, {{cog|de|Brodem||steam, vapour, fume, odour}}. Related also to {{cog|is|bráður||hasty, hurried, excited, rash}}. More at {{l|en|brath}}.
 
 ===Pronunciation===
 * {{enPR|brĕth}}, {{IPA|/brɛθ/|lang=en}}
@@ -42,32 +42,29 @@ From {{etyl|enm|en}} {{m|enm|breeth}}, {{m|enm|breth}}, from {{etyl|ang|en}} {{m
 #*: an after dinner's '''breath'''
 
 ====Derived terms====
-{{rel-top3|Terms derived from ''breath''}}
-* {{l|en|bad breath}}
-* {{l|en|breather}}
-* {{l|en|breathless}}
-* {{l|en|breath of fresh air}}
-* {{l|en|breathtaking}}
-{{rel-mid3}}
-* {{l|en|breathy}}
-* {{l|en|draw breath}}
-* {{l|en|draw one's last breath}}
-* {{l|en|fresh breath}}
-* {{l|en|get one's breath back}}
-{{rel-mid3}}
-* {{l|en|hold one's breath}}
-* {{l|en|out of breath}}
-* {{l|en|take one's breath away}}
-* {{l|en|under one's breath}}
-* {{l|en|waste breath}}
-{{rel-bottom}}
+{{der3
+|{{l|en|bad breath}}
+|{{l|en|breather}}
+|{{l|en|breathless}}
+|{{l|en|breath of fresh air}}
+|{{l|en|breathtaking}}
+|{{l|en|breathy}}
+|{{l|en|draw breath}}
+|{{l|en|draw one's last breath}}
+|{{l|en|fresh breath}}
+|{{l|en|get one's breath back}}
+|{{l|en|hold one's breath}}
+|{{l|en|out of breath}}
+|{{l|en|take one's breath away}}
+|{{l|en|under one's breath}}
+|{{l|en|waste breath}}
+}}
 
 ====Related terms====
-{{rel-top|Terms etymologically related to ''breath''}}
-* {{l|en|breathe}}
-{{rel-mid}}
-* {{l|en|breather}}
-{{rel-bottom}}
+{{rel2
+|{{l|en|breathe}}
+|{{l|en|breather}}
+}}
 
 ====Translations====
 {{trans-top|act or process of breathing}}
@@ -124,7 +121,7 @@ From {{etyl|enm|en}} {{m|enm|breeth}}, {{m|enm|breth}}, from {{etyl|ang|en}} {{m
 * Albanian: {{t+|sq|frymë}}
 * Armenian: {{t+|hy|շունչ}}
 * Breton: {{t+|br|anal}}
-* Bulgarian: {{t+|bg|вдишване|n|sc=Cyrl}}, {{t|bg|издишване|n|sc=Cyrl}}
+* Bulgarian: {{t+|bg|вдишване|n}}, {{t|bg|издишване|n}}
 * Catalan: {{t|ca|alè|m}}
 * Czech: {{t+|cs|dech}}, {{t|cs|nádech}}
 * Dutch: {{t+|nl|adem|m}}, {{t+|nl|asem|m}}
@@ -157,7 +154,7 @@ From {{etyl|enm|en}} {{m|enm|breeth}}, {{m|enm|breth}}, from {{etyl|ang|en}} {{m
 {{trans-top|air expelled from the lungs}}
 * Albanian: {{t+|sq|frymë}}
 * Armenian: {{t+|hy|շունչ}}
-* Bulgarian: {{t+|bg|дъх|m|sc=Cyrl}}, {{t+|bg|дихание|n|sc=Cyrl}}
+* Bulgarian: {{t+|bg|дъх|m}}, {{t+|bg|дихание|n}}
 * Catalan: {{t|ca|alè|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|呼吸|tr=hūxī|sc=Hani}}
@@ -199,7 +196,7 @@ From {{etyl|enm|en}} {{m|enm|breeth}}, {{m|enm|breth}}, from {{etyl|ang|en}} {{m
 
 {{trans-top|rest or pause}}
 * Albanian: {{t+|sq|frymë}}
-* Bulgarian: {{t+|bg|отдих|m|sc=Cyrl}}
+* Bulgarian: {{t+|bg|отдих|m}}
 * Catalan: {{t|ca|alè|m}}
 * Dutch: {{t|nl|adempauze|f}}, {{t+|nl|pauze|f}}
 * Finnish: {{t+|fi|hengähdystauko}}, {{t+|fi|tauko}}
@@ -231,11 +228,11 @@ From {{etyl|enm|en}} {{m|enm|breeth}}, {{m|enm|breth}}, from {{etyl|ang|en}} {{m
 * Interlingua: {{t-check|ia|halito}}, {{t-check|ia|respiration}}
 {{trans-mid}}
 * Korean: {{t-check|ko|숨}}, {{t-check|ko|호흡|tr=[[呼吸]], hoheup|sc=Kore}}
-* Ladino: {{t-check|lad|aliento|sc=Hebr}}, {{t-check|lad|respirasion|sc=Hebr}}
+* Ladino: {{t-check|lad|aliento}}, {{t-check|lad|respirasion}}
 * Marathi: {{t-check|mr|श्वास|tr=šwās|?}}
 * Romanian: {{t-check|ro|răsuflare}}
 * Serbo-Croatian: {{t-check|sh|dah|m}}
-* Telugu: {{t-check|te|శ్వాస|sc=Telu}}, {{t-check|te|ఊపిరి|sc=Telu}}
+* Telugu: {{t-check|te|శ్వాస}}, {{t-check|te|ఊపిరి}}
 * Turkish: {{t-check|tr|soluk}}, {{t-check|tr|nefes|n}}
 * Volapük: {{t-check|vo|natem}}
 {{trans-bottom}}
@@ -253,6 +250,29 @@ From {{etyl|enm|en}} {{m|enm|breeth}}, {{m|enm|breth}}, from {{etyl|ang|en}} {{m
 * {{l|en|bertha}}, {{l|en|Bertha}}
 
 [[Category:en:Air]]
+
+----
+
+==Irish==
+
+===Noun 1===
+{{ga-noun|g=f|breithe|breitheanna}}
+
+# {{alternative form of|breith||birth; lay; bearing capacity; bringing, taking; seizing; catching, overtaking|lang=ga}}
+
+===Noun 2===
+{{ga-noun|g=f|breithe|breitheanna}}
+
+# {{alternative form of|breith||judgment, decision; injunction|lang=ga}}
+
+===Declension===
+{{ga-decl-f2|b|reath|reithe|pl=reitheanna}}
+
+===Mutation===
+{{ga-mut-cons|b|reath}}
+
+===References===
+* {{R:ga:Ó Dónaill}}
 
 [[ar:breath]]
 [[ca:breath]]
