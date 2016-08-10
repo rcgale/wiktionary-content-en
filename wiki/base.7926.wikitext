@@ -37,9 +37,10 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 # {{lb|en|electronics}} The name of the controlling [[terminal]] of a [[bipolar]] [[transistor]] ([[BJT]]).
 # {{lb|en|geometry}} The lowest side of a in a [[triangle]] or other [[polygon]], or the lowest face of a [[cone]], [[pyramid]] or other [[polyhedron]] laid flat.
 # {{lb|en|heraldiccharge}} The lowest third of a [[shield]] or [[escutcheon]].
+# {{lb|en|heraldry}} The lower part of the [[field]]. See {{m|en|escutcheon}}.
 # {{lb|en|mathematics}} A [[number]] [[raise]]d to the [[power]] of an [[exponent]].
 #: ''The logarithm to '''base''' 2 of 8 is 3.''
-# {{lb|en|mathematics}} Alternative to [[radix]].
+# {{lb|en|mathematics}} {{alternative term for|radix|lang=en}}.
 # {{lb|en|topology}} The [[set]] of sets from which a [[topology]] is [[generate]]d.
 # {{lb|en|topology}} A [[topological space]], looked at in relation to one of its [[covering space]]s, [[fibration]]s, or [[bundle]]s.
 # {{lb|en|acrobatics|cheerleading}} In hand-to-hand balance, the person who supports the [[flyer]]; the person that remains in contact with the ground.
@@ -48,8 +49,7 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 #* Dryden
 #*: The trebles squeak for fear, the '''bases''' roar.
 # {{lb|en|military|historical}} The smallest kind of [[cannon]].
-# {{lb|en|heraldry}} The lower part of the [[field]]. See {{m|en|escutcheon}}.
-# The [[housing]] of a [[horse]].
+# {{lb|en|archaic}} The [[housing]] of a [[horse]].
 # {{lb|en|historical|in the plural}} A kind of skirt (often of velvet or brocade, but sometimes of mailed armour) which hung from the middle to about the knees, or lower.
 # {{lb|en|obsolete}} The lower part of a robe or petticoat.
 # {{lb|en|obsolete}} An [[apron]].
@@ -65,7 +65,7 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 * {{sense|chemical compound that will neutralize an acid}} {{l|en|acid}}
 * {{sense|end of a leaf}} {{l|en|apex}}
 
-====Hyponyms====
+=====Hyponyms=====
 {{hyp4
 | [[air base]]
 | [[code base]]/[[codebase]]
@@ -112,7 +112,7 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 | [[wheelbase]]
 }}
 
-====Related terms====
+=====Related terms=====
 {{rel4
 | [[base bag]]
 | [[base box]]
@@ -154,7 +154,7 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 * {{l|en|embase}}, {{l|en|imbase}}
 
 =====Translations=====
-{{trans-top|foundation}}
+{{trans-top|something from which other things extend}}
 * Arabic: {{t+|ar|أساس|m}}, {{t|ar|قاعدَة|f}}
 * Armenian: {{t+|hy|հիմք}}
 * Asturian: {{t|ast|base|f}}
@@ -196,7 +196,7 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 * Turkish: {{t+|tr|temel}}[[esas]], {{t+|tr|kaide}}
 {{trans-bottom}}
 
-{{trans-top|starting point}}
+{{trans-top|starting point of thought}}
 * Bulgarian: {{t|bg|старт}}
 * Catalan: {{t+|ca|base|f}}, {{t+|ca|principi|m}}, {{t|ca|fonament|m}}
 * Chinese:
@@ -204,7 +204,7 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 * Czech: {{t+|cs|základ|m}}
 * Dutch: {{t+|nl|basis|f}}, {{t+|nl|vertrekpunt|n}}
 * Estonian: {{t|et|alguspunkt}}, {{t+|et|põhi}}
-* Finnish: {{t|fi|alkupiste}}, {{t+|fi|perusta}}
+* Finnish: {{t|fi|lähtökohta}}
 * French: {{t+|fr|base}}
 * Galician: {{t|gl|base|f}}
 * German: {{t+|de|Basis|f}}, {{t+|de|Grundlage|f}}
@@ -220,7 +220,7 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 * Swedish: {{t+|sv|början}}
 {{trans-bottom}}
 
-{{trans-top|permanent structure for housing a military}}
+{{trans-top|permanent structure for housing military}}
 * Arabic: {{t|ar|قاعدَة|f}}
 * Armenian: {{t+|hy|բազա}}
 * Asturian: {{t|ast|base|f}}
@@ -287,6 +287,21 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 * Turkish: {{t+|tr|karargâh}}, {{t+|tr|merkez}}, {{t+|tr|üs}}
 {{trans-bottom}}
 
+{{trans-top|cooking, painting, pharmacy: basic but essential component or ingredient}}
+* Finnish: {{t[fi|perusraaka-aine}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|substance used as mordant in dyeing}}
+* Finnish: {{t[fi|puretin}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|cosmetics: a cosmetic cream to make the face appear uniform}}
+* Finnish: {{t[fi|perusvoide}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|chemical compound that will neutralize an acid}}
 * Afrikaans: {{t+|af|basis}}
 * Arabic: {{t|ar|قاعدَة|f}}
@@ -341,21 +356,6 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 * Portuguese: {{t+|pt|pique|m}}
 {{trans-bottom}}
 
-{{trans-top|lowermost part of a column}}
-* Bulgarian: {{t+|bg|основа}}
-* Catalan: {{t|ca|basament|m}}
-* Czech: {{t|cs|patka|f}}
-* Finnish: {{t+|fi|kanta}}
-* Greek: {{t+|el|βάση|f}}
-* Hungarian: {{t+|hu|lábazat}}
-{{trans-mid}}
-* Persian: {{t+|fa|پِی|tr=pey}}
-* Portuguese: {{t+|pt|base|f}}
-* Russian: {{t+|ru|осно́ва|f}}
-* Serbo-Croatian: {{t+|sh|osnova}}, {{t+|sh|baza}}
-* Turkish: {{t+|tr|temel}}
-{{trans-bottom}}
-
 {{trans-top|baseball: one of the three places that a runner can stand in safety}}
 * Bulgarian: {{t+|bg|база}}
 * Catalan: {{t+|ca|base|f}}
@@ -373,7 +373,22 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 * Swedish: {{t+|sv|bas|c}}
 {{trans-bottom}}
 
-{{trans-top|colloquial term for a nucleotide}}
+{{trans-top|lowermost part of a column}}
+* Bulgarian: {{t+|bg|основа}}
+* Catalan: {{t|ca|basament|m}}
+* Czech: {{t|cs|patka|f}}
+* Finnish: {{t+|fi|kanta}}
+* Greek: {{t+|el|βάση|f}}
+* Hungarian: {{t+|hu|lábazat}}
+{{trans-mid}}
+* Persian: {{t+|fa|پِی|tr=pey}}
+* Portuguese: {{t+|pt|base|f}}
+* Russian: {{t+|ru|осно́ва|f}}
+* Serbo-Croatian: {{t+|sh|osnova}}, {{t+|sh|baza}}
+* Turkish: {{t+|tr|temel}}
+{{trans-bottom}}
+
+{{trans-top|biology: nucleobase in the context of DNA or RNA}}
 * Czech: {{t+|cs|báze|f}}
 * Finnish: {{t+|fi|emäs}}
 {{trans-mid}}
@@ -381,7 +396,7 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 * Serbo-Croatian: {{t+|sh|baza}}
 {{trans-bottom}}
 
-{{trans-top|end of a leaf, petal or similar organ where it is attached to its support}}
+{{trans-top|botany: end of a leaf, petal or similar organ where it is attached to its support}}
 * Czech: {{t+|cs|báze|f}}
 * Finnish: {{t+|fi|kanta}}
 {{trans-mid}}
@@ -404,7 +419,7 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 * Turkish: {{t+|tr|baz}}
 {{trans-bottom}}
 
-{{trans-top|lower, horizontal line in a triangle or the horizontal plane of a 3D object}}
+{{trans-top|geometry: lowest side or face}}
 * Arabic: {{t|ar|قَاعِدَة|f}}
 * Armenian: {{t+|hy|հիմք}}
 * Bulgarian: {{t+|bg|основа}}
@@ -430,11 +445,21 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 * Turkish: {{t+|tr|taban}} (3)
 {{trans-bottom}}
 
-{{trans-top|number raised to the power of an exponent (mathematics)}}
+{{trans-top|heraldic charge: lowest third of a shield or escutcheon}}
+* Finnish: {{t[fi|tyviö}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|heraldry: lower part of the field}}
+* Finnish: {{t[fi|tyvi}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|math: number raised to the power of an exponent}}
 * Asturian: {{t|ast|base|f}}
 * Czech: {{t+|cs|základ|m}}
 * Estonian: {{t+|et|aste}}
-* Finnish: {{t+|fi|kantaluku}}
+* Finnish: {{t+|fi|kantaluku}}, {{t|fi|kanta}}
 * Galician: {{t|gl|base|f}}
 * Greek: {{t+|el|βάση|f|sc=Grek}}
 * Hungarian: {{t+|hu|alap}}
@@ -447,6 +472,51 @@ From {{etyl|enm|en}} {{m|enm|base}}, {{m|enm|bas}}, {{m|enm|baas}}, from {{etyl|
 * Serbo-Croatian: {{t+|sh|baza}}
 * Spanish: {{t+|es|base|f}}
 * Tagalog: {{t|tl|takad}}
+{{trans-bottom}}
+
+{{trans-see|radix}}
+
+{{trans-top|topology: set of sets from which a topology is derived}}
+* Finnish: {{t[fi|kanta}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|topology: topological space, looked at in relation to one of its covering spaces, fibrations, or bundles}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|acrobatics, cheerleading: person who supports the flyer}}
+* Finnish: {{t[fi|alamies}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|linguistics: morpheme that serves as foundation on which affixes can be attached}}
+* Finnish: {{t[fi|kanta}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|bass}}
+
+{{trans-top|historical: smallest kind of cannon}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|housing of a horse|housing}}
+
+{{trans-top|historical: kind of skirt}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|lower part of a robe or petticoat}}
+* Finnish: {{t[fi|helma}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|apron}}
+
+{{trans-top|surveying: line that serves as the origin for measurements}}
+* Finnish: {{t|fi|perusviiva}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
