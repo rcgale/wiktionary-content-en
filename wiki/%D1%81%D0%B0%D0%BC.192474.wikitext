@@ -51,50 +51,27 @@ From {{inh|ru|sla-pro|*samъ}}, from {{inh|ru|ine-pro|*somHós}}.
 #:* {{ux|ru|'''Само́''' [[государство|госуда́рство]] [[так]] [[решать|реши́ло]]|t=The State itself has so decided.}}
 
 ====Declension====
-{| style="margin-bottom:1em; margin-right:1em; border: 1px solid #AAAAAA; border-collapse:collapse;" cellpadding="4" rules="all"
-!
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[masculine|Masc. sg.]]
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[feminine|Fem. sg.]]
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[neuter|Neut. sg.]]
-!bgcolor=#EFEFFF align=center style="font-size:90%;"|[[plural|Plural]]
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[nominative case|nominative]]
-|align=center|{{l|ru|сам}}
-|align=center|{{l|ru|сама́}}
-|align=center|{{l|ru|само́}}
-|align=center|{{l|ru|са́ми}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[genitive case|genitive]]
-|align=center|{{l|ru|самого́|tr=samovó}}
-|align=center|{{l|ru|само́й}}
-|align=center|{{l|ru|самого́|tr=samovó}}
-|align=center|{{l|ru|сами́х}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[dative case|dative]]
-|align=center|{{l|ru|самому́}}
-|align=center|{{l|ru|само́й}}
-|align=center|{{l|ru|самому́}}
-|align=center|{{l|ru|сами́м}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[accusative case|accusative]]
-|align=center|{{l|ru|сам}}, {{l|ru|самого́|tr=samovó}}
-|align=center|{{l|ru|саму́}}, {{l|ru|самоё}}*
-|align=center|{{l|ru|само́}}
-|align=center|{{l|ru|са́ми}}, {{l|ru|сами́х}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[instrumental case|instrumental]]
-|align=center|{{l|ru|сами́м}}
-|align=center|{{l|ru|само́й}}, {{l|ru|само́ю}}
-|align=center|{{l|ru|сами́м}}
-|align=center|{{l|ru|сами́ми}}
-|-
-!bgcolor=#EFEFFF align=left style="font-size:90%;"|[[prepositional case|prepositional]]
-|align=center|о {{l|ru|само́м}}
-|align=center|о {{l|ru|само́й}}
-|align=center|о {{l|ru|само́м}}
-|align=center|о {{l|ru|сами́х}}
-|}
-<nowiki>*</nowiki><small>an archaic form</small>
+{{ru-adj-table
+|nom_m=са́м
+|nom_n=само́
+|nom_f=сама́
+|nom_p=са́ми
+|gen_m=самого́
+|gen_f=само́й
+|gen_p=сами́х
+|dat_m=самому́
+|dat_f=само́й
+|dat_p=сами́м
+|acc_f=саму́,самоё1
+|ins_m=сами́м
+|ins_f=само́й,само́ю
+|ins_p=сами́ми
+|pre_m=само́м
+|pre_f=само́й
+|pre_p=сами́х
+|notes=
+# An archaic form.
+}}
 
 ====Related terms====
 * {{l|ru|са́мый}}
