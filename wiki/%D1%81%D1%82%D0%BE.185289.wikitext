@@ -73,13 +73,22 @@ From {{inh|ru|sla-pro|*sъto}}, from {{inh|ru|ine-pro|*ḱm̥tóm}}.
 #: {{ru-ux|[[у|У]] [[мы|нас]] [[быть|бы́ло]] [[несколько|не́сколько]] сот [[карандаш|карандаше́й]]|We had several hundred pencils.}}
 
 ====Declension====
-{{ru-decl-noun
-|сто|-
-|ста|сот
-|ста|-
-|сто,ста|-
-|ста|-
-|ста|-}}
+{{ru-noun-table||manual|a=b
+|gen_pl=со́т
+|nom_sg=сто́
+|gen_sg=ста́
+|dat_sg=ста́
+|ins_sg=ста́
+|pre_sg=ста́
+}}
+{{ru-noun-old||manual|a=b
+|gen_pl=со́тъ
+|nom_sg=сто́
+|gen_sg=ста́
+|dat_sg=ста́
+|ins_sg=ста́
+|pre_sg=ста́
+}}
 
 ====Usage notes====
 * {{U:ru:numeral}}
