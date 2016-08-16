@@ -24,15 +24,20 @@ From {{inh|ru|sla-pro|*čьto}}, from {{inh|ru|ine-pro|*kʷid}}, {{m|ine-pro|*k�
 #: {{ux|ru|[[книга|Кни́га]], '''что''' [[на]] [[стол|столе́]].|The book '''that''' is on the table.|inline=y}}
 
 ====Declension====
-{{ru-decl-noun-unc
-|что́
-|чего́
-|чему́
-|что́
-|че́м
-|чём}}
-<small>* Letter "{{l|ru|ч}}" in nominative and accusative "что" is pronounced as /ʂ/, not /t͡ɕ/.</small><br>
-<small>** Letter "{{l|ru|г}}" in genitive and accusative "чего́" is pronounced as /v/, not /g/.</small>
+{{ru-noun-table||manual|n=sg
+|nom_sg=что́
+|gen_sg=чего́
+|dat_sg=чему́
+|ins_sg=че́м
+|pre_sg=чём
+}}
+{{ru-noun-old||manual|n=sg
+|nom_sg=что́
+|gen_sg=чего́
+|dat_sg=чему́
+|ins_sg=чѣ́мъ
+|pre_sg=чёмъ
+}}
 
 ====Usage notes====
 * In informal speech, the genitive form {{m|ru|чего́|tr=čevó}} often replaces the accusative and sometimes the nominative.
