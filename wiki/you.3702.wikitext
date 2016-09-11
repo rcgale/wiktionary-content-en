@@ -137,7 +137,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Greek: {{t+|el|εσάς|p}}
 * Gujarati: {{t-needed|gu}}
 * Hausa: {{t+|ha|kai|m}}, {{t|ha|ku|n-p}}, {{t|ha|ke|f}}, {{t+|ha|kai|m}}, {{t+|ha|kai|m}}
-* Hebrew: {{t+|he|אתכם|m|tr=etkhém}} {{qualifier|accusative}}, {{t+|he|לכם|m|tr=lakhém}} {{qualifier|dative}}
+* Hebrew: {{t|he|אתכם|m|tr=etkhém}} {{qualifier|accusative}}, {{t|he|לכם|m|tr=lakhém}} {{qualifier|dative}}
 * Hindi: {{t+|hi|तुम}} {{qualifier|mid-polite or familiar}}, {{t+|hi|आप}} {{qualifier|polite}}
 * Hungarian: {{t-needed|hu}}
 * Icelandic: {{t+|is|ykkur}}
@@ -249,7 +249,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Classical Nahuatl: {{t|nci|tehhuātl}}
 * Cornish: {{t|kw|’th}}
 * Crimean Tatar: {{t|crh|saña}}
-* Czech: {{t|cs|tebe}}, {{t|cs|tobě}}, {{t+|cs|tě}}, {{t|cs|tebou}}
+* Czech: {{t+|cs|tebe}}, {{t|cs|tobě}}, {{t+|cs|tě}}, {{t|cs|tebou}}
 * Dalmatian: {{t|dlm|toi}}
 * Danish: {{qualifier|familiar}} {{t+|da|dig}}, {{qualifier|polite}} {{t+|da|Dem}}
 * Dutch: {{qualifier|standard}} {{t+|nl|jou}}, {{t+|nl|je}}, {{qualifier|formal}} {{t+|nl|u}}, {{qualifier|Flemish}} {{t+|nl|u}}, {{t+|nl|jij}}
@@ -262,7 +262,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Georgian: {{t+|ka|შენ|sc=Geor}}
 * German: {{t+|de|dich}} {{qualifier|accusative|familiar}}, {{t+|de|dir}} {{qualifier|dative|familiar}}, {{t+|de|Sie|}} {{qualifier|accusative|polite}}
 * Greek: {{t+|el|εσένα}}
-* Hebrew: {{t+|he|אותך|m|tr=otkhá}} {{qualifier|accusative}}, {{t+|he|לך|m|tr=lekhá}} {{qualifier|dative}}
+* Hebrew: {{t|he|אותך|m|tr=otkhá}} {{qualifier|accusative}}, {{t|he|לך|m|tr=lekhá}} {{qualifier|dative}}
 * Hindi: {{t+|hi|तुझ}} {{qualifier|familiar}}, {{t+|hi|तुम}} {{qualifier|mid-polite}}, {{t+|hi|आप}} {{qualifier|polite}}
 * Hopi: {{t|hop|ung}}
 * Icelandic: {{qualifier|familiar}} {{t+|is|þig}}, {{qualifier|polite, rare in modern Icelandic}} {{t+|is|yður}}
@@ -307,7 +307,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Spanish: {{qualifier|informal}} {{t+|es|te}}, {{qualifier|formal}} {{t+|es|se}}, {{t+|es|ti}}, {{t+|es|vosotros|p}}, {{t+|es|ustedes|p}}, {{t+|es|usted}}
 * Sundanese: {{t+|su|anjeun}}
 * Swedish: {{t+|sv|dig}}
-* Tagalog: {{qualifier|familiar}} {{t+|tl|ka}}, {{qualifier|familiar, less used}} {{t+|tl|ikaw}}, {{qualifier|familiar, when subject of sentence is 'I'}} {{t|tl|kita}}, {{qualifier|polite}} {{t|tl|kayo}}, {{qualifier|most polite}} {{t+|tl|sila}}
+* Tagalog: {{qualifier|familiar}} {{t+|tl|ka}}, {{qualifier|familiar, less used}} {{t+|tl|ikaw}}, {{qualifier|familiar, when subject of sentence is 'I'}} {{t+|tl|kita}}, {{qualifier|polite}} {{t|tl|kayo}}, {{qualifier|most polite}} {{t+|tl|sila}}
 * Tajik: {{qualifier|familiar}} {{t|tg|туро}} {{qualifier|polite, grammatically plural}} {{t|tg|Шуморо}}
 * Taos: {{t|twf|ę̋}}
 * Tlingit: {{t|tli|wa.é}}
@@ -360,7 +360,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Czech: {{t+|cs|vy}}
 * Dalmatian: {{t|dlm|vu}}
 * Danish: {{qualifier|familiar}} {{t+|da|I}}, {{qualifier|polite}} {{t+|da|jer}}
-* Dutch: {{qualifier|standard}} {{t+|nl|jullie}}, {{qualifier|archaic}} {{t|nl|gijlieden}}, {{qualifier|formal}} {{t+|nl|u}}, {{qualifier|Flemish}} {{t+|nl|gij}}, {{t|nl|gijlie}}, {{t|nl|gijle}}, {{t|nl|gulder}}
+* Dutch: {{qualifier|standard}} {{t+|nl|jullie}}, {{qualifier|archaic}} {{t+|nl|gijlieden}}, {{qualifier|formal}} {{t+|nl|u}}, {{qualifier|Flemish}} {{t+|nl|gij}}, {{t|nl|gijlie}}, {{t|nl|gijle}}, {{t|nl|gulder}}
 * Dyirbal: {{qualifier|[[dual]]}} {{t|dbl|ŋubalaɖi}}, {{qualifier|plural}} {{t|dbl|ŋuraɖi}}
 * Esperanto: {{t+|eo|vi}}
 * Estonian: {{t+|et|teie}}, {{t+|et|te}}
@@ -646,7 +646,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Catalan: {{t+|ca|hom}}, {{t+|ca|tu}}, {{t+|ca|u}}
 * Chinese:
 *: Mandarin: {{t+check|cmn|你|tr=nǐ}}
-* Czech: {{t|cs|tebe}}, {{t|cs|tobě}}, {{t+|cs|tě}}, {{t|cs|tebou}}, {{t+|cs|vás}}, {{t|cs|vám}}, {{t|cs|vámi}}, {{t+|cs|člověk|m}}
+* Czech: {{t+|cs|tebe}}, {{t|cs|tobě}}, {{t+|cs|tě}}, {{t|cs|tebou}}, {{t+|cs|vás}}, {{t|cs|vám}}, {{t|cs|vámi}}, {{t+|cs|člověk|m}}
 * Danish: {{t+|da|man}}, {{t+|da|en}}
 * Dutch: {{qualifier|standard}} {{t+|nl|men}}, {{t+|nl|je}}, {{qualifier|Flemish}} {{t+|nl|ge}}, {{t+|nl|u}}
 * Esperanto: {{t+|eo|oni}}, {{t+|eo|onin}}
