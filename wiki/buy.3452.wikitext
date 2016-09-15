@@ -79,7 +79,7 @@ From {{etyl|enm|en}} {{m|enm|byen}}, {{m|enm|biggen}}, {{m|enm|buggen}}, from {{
 * Ainu: {{t|ain|ホㇰ|tr=hok}}
 * Albanian: {{t+|sq|blej}}
 * Amharic: {{t|am|መግዛት|sc=Ethi}}
-* Arabic: {{t+|ar|اِشْتَرَى}}, imperfect: {{t+|ar|اِشْتَرَى}}
+* Arabic: {{t+|ar|اِشْتَرَى}}
 *: Egyptian Arabic: {{t|arz|اشترى|tr=ištarā|sc=Arab}}
 *: Moroccan Arabic: {{t|ary|شرى|tr=šra}}
 * Armenian: {{t+|hy|գնել}}, {{t+|hy|առնել}}
@@ -89,9 +89,9 @@ From {{etyl|enm|en}} {{m|enm|byen}}, {{m|enm|biggen}}, {{m|enm|buggen}}, from {{
 * Azeri: {{t|az|satın almaq}}
 * Basque: {{t+|eu|erosi}}
 * Belarusian: {{t|be|купля́ць|impf}}, {{t|be|купі́ць|pf|sc=Cyrl}}
-* Bengali: {{t|bn|কেনা|tr=kena|sc=Beng}}
+* Bengali: {{t|bn|কেনা|sc=Beng}}
 * Breton: {{t+|br|prenañ}}
-* Bulgarian: {{t+|bg|купу́вам}}
+* Bulgarian: {{t+|bg|купу́вам|impf}}
 * Burmese: {{t+|my|ဝယ်|sc=Mymr}}
 * Catalan: {{t+|ca|comprar}}
 * Central Atlas Tamazight: {{t|tzm|ⵙⵖ|tr=sγ}}, {{t|tzm|ⴰⵖ|tr=aγ}}
@@ -102,7 +102,7 @@ From {{etyl|enm|en}} {{m|enm|byen}}, {{m|enm|biggen}}, {{m|enm|buggen}}, from {{
 * Chuukese: {{t|chk|kamö}}
 * Corsican: {{t+|co|cumprà}}
 * Crimean Tatar: {{t|crh|satın almaq}}
-* Czech: {{t+|cs|kupovat}}
+* Czech: {{t+|cs|kupovat|impf}}
 * Danish: {{t+|da|købe}}
 * Dutch: {{t+|nl|kopen}}, {{t+|nl|aanschaffen}}
 * Esperanto: {{t+|eo|aĉeti}}
@@ -121,8 +121,8 @@ From {{etyl|enm|en}} {{m|enm|byen}}, {{m|enm|biggen}}, {{m|enm|buggen}}, from {{
 * Haitian Creole: {{t|ht|achte}}
 * Hausa: {{t|ha|sáyṓ}}
 * Hawaiian: {{t|haw|kūʻai}}
-* Hebrew: {{t+|he|קנה|tr=kaná}}
-* Hindi: {{t|hi|मोल लेना|tr=mol lenā}}, {{t|hi|ख़रीदना|tr=xarīdnā|sc=Deva}}
+* Hebrew: {{t+|he|קָנָה|tr=kaná}}
+* Hindi: {{t|hi|मोल लेना}}, {{t|hi|ख़रीदना|sc=Deva}}
 * Hungarian: {{t+|hu|vásárol}}, {{t+|hu|vesz}}
 * Icelandic: {{t+|is|kaupa}}
 * Ido: {{t+|io|komprar}}
@@ -146,7 +146,7 @@ From {{etyl|enm|en}} {{m|enm|byen}}, {{m|enm|biggen}}, {{m|enm|buggen}}, from {{
 * Latvian: {{t+|lv|pirkt}}, {{t|lv|nopirkt}}
 * Lithuanian: {{t+|lt|pirkti}}
 * Luxembourgish: {{t|lb|kafen}}
-* Macedonian: {{t|mk|ку́пува}}
+* Macedonian: {{t|mk|ку́пува|impf}}
 * Malay: {{t|ms|beli}}
 * Maltese: {{t|mt|xtara}}
 * Mongolian: {{t+|mn|авах|sc=Cyrl}}
@@ -173,12 +173,12 @@ From {{etyl|enm|en}} {{m|enm|byen}}, {{m|enm|biggen}}, {{m|enm|buggen}}, from {{
 * Sardinian: {{t|sc|comparai}}, {{t|sc|comporai}}, {{t|sc|comporare}}, {{t|sc|cumporai}}, {{t|sc|comprai}}
 * Scottish Gaelic: {{t|gd|ceannaich}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|купити}}, {{t|sh|куповати}}, {{t|sh|покуповати}}
-*: Roman: {{t+|sh|kupiti}}, {{t+|sh|kupovati}}, {{t+|sh|pokupovati}}
+*: Cyrillic: {{t|sh|купити|pf}}, {{t|sh|куповати|impf}}, {{t|sh|покуповати}}
+*: Roman: {{t+|sh|kupiti|pf}}, {{t+|sh|kupovati|impf}}, {{t+|sh|pokupovati}}
 * Sicilian: {{t+|scn|accattari}}, {{t+|scn|cumprari}}
 * Sinhalese: {{t|si|ගන්නවා|sc=Sinh}}
-* Slovak: {{t|sk|kúpiť}}, {{t|sk|nakupovať}}
-* Slovene: {{t+|sl|kupiti}}
+* Slovak: {{t|sk|kúpiť|pf}}, {{t|sk|nakupovať}}
+* Slovene: {{t+|sl|kupiti|pf}}
 * Somali: {{t|so|gado}}, {{t|so|iibso}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|kupowaś|impf}}, {{t|dsb|kupiś|pf}}
@@ -190,7 +190,7 @@ From {{etyl|enm|en}} {{m|enm|byen}}, {{m|enm|biggen}}, {{m|enm|buggen}}, from {{
 * Tagalog: {{t+|tl|bili}}, {{t|tl|bilhin}}
 * Tajik: {{t+|tg|харидан|sc=Cyrl}}
 * Tamil: {{t+|ta|வாங்கு|sc=Taml}}
-* Thai: {{t+|th|ซื้อ|tr=séu}}, {{t+|th|การซื้อ|tr=gaan séu}} {{attention|th|isn't the latter here a noun due to the prefix?}}
+* Thai: {{t+|th|ซื้อ}}
 * Turkish: {{t+|tr|satın almak}}
 * Turkmen: {{t|tk|satyn almak}}
 * Tuvan: {{t|tyv|садып алыр}}
@@ -208,7 +208,8 @@ From {{etyl|enm|en}} {{m|enm|byen}}, {{m|enm|biggen}}, {{m|enm|buggen}}, from {{
 
 {{trans-top|to accept as true}}
 * Albanian: {{t+|sq|blej}}
-* Chinese: Mandarin: 买账
+* Chinese:
+*: Mandarin: {{t+|cmn|買賬|sc=Hani}}, {{t+|cmn|买账|tr=mǎizhàng|sc=Hani}}
 * Czech: {{t+|cs|baštit}}, {{t+|cs|žrát}}, {{t+|cs|skočit}}, {{t|cs|sbaštit i s navijákem}}
 * Finnish: {{t+|fi|niellä}}, {{t+|fi|uskoa}}
 * French: {{t+|fr|gober}}
@@ -221,7 +222,8 @@ From {{etyl|enm|en}} {{m|enm|byen}}, {{m|enm|biggen}}, {{m|enm|buggen}}, from {{
 * Norwegian: {{t+|no|kjøpe}}
 * Portuguese: {{t+|pt|engolir}}
 * Russian: {{t+|ru|ве́рить|impf}}, {{t+|ru|пове́рить|pf}}
-* Serbo-Croatian: {{t+|sh|prihvatiti}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|prihvatiti}}
 * Slovak: {{t|sk|naletieť}}
 * Spanish: {{t+|es|creer}}
 * Swahili: {{t+|sw|nunua}}
