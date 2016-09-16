@@ -55,7 +55,7 @@
 * Bulgarian: {{t+|bg|строи́телство|n}}, {{t+|bg|граде́ж|m|sc=Cyrl}}, {{t+|bg|изгра́ждане|n|sc=Cyrl}}
 * Catalan: {{t+|ca|construcció|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|建設|sc=Hani}}, {{t|cmn|建设|tr=jiànshè|sc=Hani}}
+*: Mandarin: {{t+|cmn|建設|sc=Hani}}, {{t+|cmn|建设|tr=jiànshè|sc=Hani}}
 * Czech: {{t+|cs|stavba|f}}, {{t|cs|budování|n}}, {{t|cs|výstavba|f}}
 * Danish: {{t|da|byggeri}}, {{t|da|opførelse}} (af en bygning)
 * Dutch: {{t+|nl|bouwen|n}}, {{t+|nl|bouw|m}}
@@ -67,7 +67,7 @@
 * German: {{t+|de|Bau|m}}, {{t+|de|Bauen|n}}
 * Greek: {{t+|el|δόμηση|f|sc=Grek}}
 * Hebrew: {{t+|he|בנייה|f|tr=b'niá}}
-* Hindi: {{t+|hi|निर्माण|tr=nirmāṇ|sc=Deva}}
+* Hindi: {{t+|hi|निर्माण|sc=Deva}}
 * Hungarian: {{t+|hu|építés}}, {{t+|hu|építkezés}}, {{t+|hu|felépítés}}
 * Indonesian: {{t+|id|pembangunan}}, {{t+|id|konstruksi}}
 * Italian: {{t+|it|costruzione|f}}, {{t+|it|edificazione|f}}
@@ -143,8 +143,8 @@
 * Gujarati: {{t+|gu|મકાન|m|tr=makāna|sc=Gujr}}
 * Haitian Creole: {{t|ht|bilding}}, {{t|ht|batiman}}
 * Hawaiian: {{t|haw|hale}}
-* Hebrew: {{t+|he|בניין|m|tr=binyan}}
-* Hindi: {{t+|hi|भवन|tr=bhavan|sc=Deva}}, {{t+|hi|इमारत|f|tr=imārat|sc=Deva}}, {{t+|hi|निर्माण|tr=nirmāṇ|sc=Deva}}
+* Hebrew: {{t+|he|בניין|m|tr=binyan|alt=בניין \ בִּנְיָן}}
+* Hindi: {{t+|hi|भवन|m|sc=Deva}}, {{t+|hi|इमारत|f|sc=Deva}}, {{t+|hi|निर्माण|m|sc=Deva}}
 * Hungarian: {{t+|hu|épület}}
 * Icelandic: {{t+|is|bygging|f}}
 * Ido: {{t+|io|edifico}}
@@ -152,7 +152,6 @@
 * Irish: {{t+|ga|foirgneamh|m}}
 * Italian: {{t+|it|edificio|m}}, {{t+|it|palazzo|m}}
 * Japanese: {{t+|ja|建物|tr=たてもの, tatémono|sc=Jpan}}, {{t+|ja|ビル|tr=biru|sc=Jpan}}, {{t|ja|ビルディング|tr=birudingu|sc=Jpan}}
-* Norman: {{t|nrf|înmeubl'ye|m}}
 * Kazakh: {{t+|kk|ғимарат|sc=Cyrl}}, {{t+|kk|үй|sc=Cyrl}}
 * Khmer: {{t+|km|អាគារ|tr=aakie|sc=Khmr}}
 * Korean: {{t+|ko|건물|sc=Kore}} ({{t+|ko|建物|sc=Kore}}), {{t+|ko|빌딩|sc=Kore}}
@@ -172,10 +171,11 @@
 * Maltese: {{t|mt|bini}}
 * Mongolian: {{t|mn|барьсан зүйл|sc=Cyrl}}, {{t+|mn|барилга|sc=Cyrl}}
 * Nepali: {{t|ne|भवन|tr=bhavana|sc=Deva}}
+* Norman: {{t|nrf|înmeubl'ye|m}}
 * Norwegian: {{t+|no|bygning}}
 * Old English: {{t|ang|bytlung|alt=(ġe)bytlung|sc=Latinx}}, {{t|ang|timbrung|alt=(ġe)timbrung|sc=Latinx}}, {{t|ang|bu|alt=bū|sc=Latinx}}, {{t|ang|reced|alt=reċed|sc=Latinx}}, {{t|ang|timber|sc=Latinx}}, {{t|ang|ærn|sc=Latinx}}
 * Pashto: {{t+|ps|ماڼۍ|f|tr=mānnəi|sc=ps-Arab}}
-* Persian: {{t+|fa|ساختمان|tr=sâxtemân}}, {{t+|fa|بنا|tr=banâ}}, {{t+|fa|عمارت|tr='emārat}}, {{t|fa|ساختمون|tr=sâxtemun|sc=fa-Arab}} {{qualifier|colloquial}}
+* Persian: {{t+|fa|ساختمان|tr=sâxtemân}}, {{t+|fa|بنا|tr=banâ}}, {{t+|fa|عمارت|tr='emârat}}, {{t|fa|ساختمون|tr=sâxtemun|sc=fa-Arab}} {{qualifier|colloquial}}
 * Polish: {{t+|pl|budynek|m}}, {{t+|pl|budowla|f}}, {{t+|pl|dom|m}}, {{t+|pl|gmach|m}}
 * Portuguese: {{t+|pt|edifício|m}}, {{t+|pt|prédio|m}}, {{t+|pt|prédio|m}}
 * Romanian: {{t+|ro|edificiu|m}}, {{t+|ro|clădire|f}}, {{t+|ro|construcție|f}}
@@ -198,7 +198,7 @@
 * Tajik: {{t+|tg|бино|sc=Cyrl}}, {{t|tg|иморат|sc=Cyrl}}
 * Tamil: {{t+|ta|கட்டிடம்|sc=Taml}}
 * Telugu: {{t|te|భవంతి|sc=Telu}}, {{t+|te|కట్టడము|sc=Telu}}
-* Thai: {{t+|th|ตึก|tr=dtèuk|sc=Thai}}, {{t+|th|อาคาร|tr=aa-kaan|sc=Thai}}, {{t+|th|โรง|sc=Thai}}, {{t+|th|หอ|sc=Thai}}
+* Thai: {{t+|th|ตึก|sc=Thai}}, {{t+|th|อาคาร|sc=Thai}}, {{t+|th|โรง|sc=Thai}}, {{t+|th|หอ|sc=Thai}}
 * Tibetan: {{t|bo|ཁང་པ|sc=Tibt}}
 * Tok Pisin: {{t|tpi|haus}}
 * Turkish: {{t+|tr|bina}}, {{t+|tr|yapı}}
