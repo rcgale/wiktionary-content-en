@@ -738,18 +738,18 @@ From {{inh|id|ms|air}}, from {{inh|id|poz-mly-pro|*air}}, from {{der|id|poz-mcm-
 
 ==Irish==
 
-===Pronunciation===
-* {{IPA|/ɛɾʲ/|lang=ga}}
-
 ===Etymology 1===
 From {{inh|ga|sga|airid||ploughs, tills}}.
 
+====Pronunciation====
+* {{IPA|/aɾʲ/|lang=ga}}
+
 ====Verb====
-{{ga-verb|pres=aireann|fut=airfidh|vn=ar|pp=airthe}}
+{{ga-verb|pres=~eann|fut=~fidh|vn=ar|pp=~the}}
 
-# {{lb|ga|literary|transitive|intransitive}} [[plough]]
+# {{lb|ga|literary|ambitransitive}} {{l|en|plough}}
 
-=====Inflection=====
+=====Conjugation=====
 {{ga-conj-1a|a|i|r|slender|vn=ar|pp=airthe}}
 
 ====Noun====
@@ -757,9 +757,10 @@ From {{inh|ga|sga|airid||ploughs, tills}}.
 
 # {{inflection of|ar||gen|s|lang=ga}}
 
-{{catlangcode|ga|Agriculture}}
-
 ===Etymology 2===
+
+====Pronunciation====
+* {{IPA|/ɛɾʲ/|lang=ga}}
 
 ====Pronoun====
 {{ga-prpr|airsean}}
@@ -767,11 +768,13 @@ From {{inh|ga|sga|airid||ploughs, tills}}.
 # {{inflection of|ar||3|s|m|lang=ga}} {{gloss|on him, on it {{g|m}}}}
 
 ===Mutation===
-{{ga mut vowel}}
+{{ga-mut}}
 
 ===References===
 * {{R:ga:ODonaill}}
 * {{R:DIL|2090|head=3 airid}}
+
+{{C|ga|Agriculture}}
 
 ----
 
