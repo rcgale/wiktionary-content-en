@@ -81,7 +81,7 @@ From {{etyl|es|en}} {{m|es|torta}}, from {{etyl|VL.|en}} {{m|la|*torta}}, from {
 ==Italian==
 
 ===Etymology 1===
-From {{etyl|VL.|it}} *''torta'', from the expression {{m|la|torta}} ''[[panis]]'', from feminine of {{etyl|la|it}} ''[[tortus]]''.
+From {{inh|it|VL.|*torta}}, from the expression {{m|la|[[torta]] [[panis]]}}, from feminine of {{der|it|la|tortus}}.
 
 ====Noun====
 {{it-noun|f}}
@@ -102,7 +102,7 @@ From {{etyl|VL.|it}} *''torta'', from the expression {{m|la|torta}} ''[[panis]]'
 # {{inflection of|torto||f|s|lang=it}}
 
 ====Verb====
-{{head|it|past participle form}}
+{{head|it|past participle form|g=f-s}}
 
 # {{inflection of|torcere||f|s|past|part|lang=it}}
 
@@ -148,7 +148,7 @@ From {{etyl|la|pt}} {{m|la|torta}}, feminine of {{m|la|tortus}}.
 # {{pt-adj form of|torto|f|sg}}
 
 ===Etymology 2===
-From {{etyl|VL.|pt}} *''torta'', from the expression ''[[torta]]'' ''[[panis]]'', from feminine of {{etyl|la|pt}} ''[[tortus]]''.
+From {{inh|pt|VL.|*torta}}, from the expression {{m|la|[[torta]] [[panis]]}}, from feminine of {{der|pt|la|tortus}}.
 
 ====Noun====
 {{pt-noun|f|tortas}}
@@ -187,7 +187,7 @@ From {{etyl|VL.|pt}} *''torta'', from the expression ''[[torta]]'' ''[[panis]]''
 ==Spanish==
 
 ===Etymology===
-From {{etyl|VL.|es}} {{m|la|*torta}}, from {{m|la|torta||twisted}} {{m|la|panis||bread}}, from feminine of {{etyl|la|es}} {{m|la|tortus||twisted, folded over}}. Cognate to French {{m|fr|tourte}}.
+From {{inh|es|VL.|*torta}}, from {{m|la|[[torta]] [[panis]]||twisted bread}}, from feminine of {{der|es|la|tortus||twisted, folded over}}. Cognate to {{cog|fr|tourte}}.
 
 ===Noun===
 {{es-noun|f}}
@@ -202,12 +202,14 @@ From {{etyl|VL.|es}} {{m|la|*torta}}, from {{m|la|torta||twisted}} {{m|la|panis|
 * {{sense|slap}} {{l|es|bofetada}}, {{l|es|bofetón}}, {{l|es|cachetada}}, {{l|es|sopapo}}
 
 ====Derived terms====
-* {{l|es|tortilla|g=f}}
-* {{l|es|tortita|g=f}}
-* {{l|es|tortazo|g=m}}
-* {{l|es|tortero|g=m}}
-* {{l|es|tortera|g=f}}
-* {{l|es|tortear}} {{pos_v}}
+{{der3
+|{{l|es|tortilla|g=f}}
+|{{l|es|tortita|g=f}}
+|{{l|es|tortazo|g=m}}
+|{{l|es|tortero|g=m}}
+|{{l|es|tortera|g=f}}
+|{{l|es|tortear|pos=v}}
+}}
 
 ====Descendants====
 * English: {{l|en|torta}}
