@@ -78,7 +78,7 @@ From {{inh|en|enm|doughter}}, from {{inh|en|ang|dōhtor}}, from {{inh|en|gem-pro
 * Bashkir: {{t|ba|ҡыҙ|sc=Cyrl}}
 * Basque: {{t+|eu|alaba}}
 * Belarusian: {{t|be|дачка́|f|sc=Cyrl}}
-* Bengali: {{t|bn|মেয়ে|tr=meye|sc=Beng}}, {{t|bn|বালিকা|tr=balika|sc=Beng}}
+* Bengali: {{t|bn|মেয়ে|sc=Beng}}, {{t|bn|বালিকা|sc=Beng}}
 * Breton: {{t+|br|merc'h|f}}, {{t+|br|merc'hed|p}}
 * Bulgarian: {{t+|bg|дъщеря́|f|sc=Cyrl}}
 * Burmese: {{t+|my|သမီး|sc=Mymr}}, {{t|my|သ္မီး|sc=Mymr}}
@@ -86,7 +86,7 @@ From {{inh|en|enm|doughter}}, from {{inh|en|ang|dōhtor}}, from {{inh|en|gem-pro
 * Catalan: {{t+|ca|filla|f}}
 * Cebuano: {{t|ceb|anak}}
 * Chechen: {{t|ce|йоӏ|sc=Cyrl}}
-* Cherokee: {{t+|chr|ᎤᏪᏥ|tr=uwetsi|sc=Cher}}, {{t|chr|ᎤᏪᏥ ᎠᎨᏴ|tr=uwetsi ageyv|sc=Cher}}, {{t|chr|ᎠᏇᏥ|tr=aquetsi|sc=Cher}}, {{t|chr|ᎠᏇᏥ ᎠᎨᏴ|tr=aquetsi ageyv|sc=Cher}}
+* Cherokee: {{t+|chr|ᎤᏪᏥ|sc=Cher}}, {{t|chr|ᎤᏪᏥ ᎠᎨᏴ|sc=Cher}}, {{t|chr|ᎠᏇᏥ|sc=Cher}}, {{t|chr|ᎠᏇᏥ ᎠᎨᏴ|sc=Cher}}
 * Chinese:
 *: Dungan: {{t-needed|dng}}
 *: Mandarin: {{t+|cmn|女兒|sc=Hani}}, {{t+|cmn|女儿|tr=nǚ'ér|sc=Hani}}
@@ -124,11 +124,11 @@ From {{inh|en|enm|doughter}}, from {{inh|en|ang|dōhtor}}, from {{inh|en|gem-pro
 *: Ancient: {{t|grc|θυγάτηρ|f|sc=polytonic}}
 * Greenlandic: {{t|kl|panik}}
 * Guaraní: {{t|gn|ajýra}} (tajýra/rajy/itajýra) {{qualifier|of a man}}, {{t|gn|memby}} {{qualifier|of a woman}}
-* Gujarati: {{t|gu|દીકરી|tr=dīkrī|sc=Gujr}}
+* Gujarati: {{t|gu|દીકરી|sc=Gujr}}
 * Hausa: {{t|ha|ya}}, {{t|ha|ɗiya}}
 * Hawaiian: {{t|haw|kaikamahine}}
 * Hebrew: {{t+|he|בַּת|f|tr=bat|sc=Hebr}}
-* Hindi: {{t+|hi|बेटी|f|tr=beṭī|sc=Deva}}, {{t+|hi|लड़की|f|tr=laṛkī|sc=Deva}}, {{t+|hi|पुत्री|f|tr=putrī|sc=Deva}}
+* Hindi: {{t+|hi|बेटी|f|sc=Deva}}, {{t+|hi|लड़की|f|sc=Deva}}, {{t+|hi|पुत्री|f|sc=Deva}}
 * Hungarian: {{t+|hu|lány}}
 * Icelandic: {{t+|is|dóttir}}
 * Ido: {{t+|io|filiino}}
@@ -140,8 +140,7 @@ From {{inh|en|enm|doughter}}, from {{inh|en|ang|dōhtor}}, from {{inh|en|gem-pro
 *: Old Irish: {{t|sga|ingen|f}}
 *: Primitive Irish: {{t|pgl|ᚔᚅᚔᚌᚓᚅᚐ|f|sc=Ogam|tr={{smallcaps|inigena}}}}
 * Italian: {{t+|it|figlia|f}}
-* Japanese: {{t+|ja|娘|tr=むすめ, musume}}, {{qualifier|honorific}} {{t|ja|お嬢さん|tr=おじょうさん, ojōsan}}
-* Norman: {{t|nrf|fil'ye|f}}
+* Japanese: {{t+|ja|娘|tr=むすめ, musume}}, {{t|ja|お嬢さん|tr=おじょうさん, ojōsan}} {{qualifier|honorific}}
 * Kabardian: {{t|kbd|пхъу}}
 * Kalmyk: {{t|xal|күүкн}}
 * Kannada: {{t+|kn|ಮಗಳು|sc=Knda}}
@@ -152,7 +151,7 @@ From {{inh|en|enm|doughter}}, from {{inh|en|ang|dōhtor}}, from {{inh|en|gem-pro
 * Kazakh: {{t+|kk|қыз|sc=Cyrl}}
 * Khakas: {{t|kjh|хызы|sc=Cyrl}}
 * Khmer: {{t|km|កូនស្រី|tr=koon srǝy|sc=Khmr}}
-* Korean: {{t+|ko|딸|sc=Hang}}, {{qualifier|honorific}} {{t+|ko|따님|sc=Kore}}
+* Korean: {{t+|ko|딸|sc=Hang}}, {{t+|ko|따님|sc=Kore}} {{qualifier|honorific}}
 * Kurdish: {{t+|ku|keç}}
 * Kyrgyz: {{t+|ky|кыз|sc=Cyrl}}
 * Lao: {{t|lo|ລູກສາວ|sc=Laoo}}
@@ -178,6 +177,7 @@ From {{inh|en|enm|doughter}}, from {{inh|en|ang|dōhtor}}, from {{inh|en|gem-pro
 * Nauruan: {{t|na|ñait ân}}
 * Navajo: {{qualifier|a man's}} {{t|nv|hatsiʼ}}, {{qualifier|a woman's}} {{t|nv|achʼéʼé}}
 * Neapolitan: {{t|nap|figlia|f}}
+* Norman: {{t|nrf|fil'ye|f}}
 * Tundra Nenets: {{t|yrk|не ню}}
 * Nepali: {{t+|ne|छोरी|tr=chorī|sc=Deva}}
 * North Frisian:
@@ -239,7 +239,7 @@ From {{inh|en|enm|doughter}}, from {{inh|en|ang|dōhtor}}, from {{inh|en|gem-pro
 * Taos: {{t|twf|phȉwéna}}
 * Tatar: {{t+|tt|кыз|sc=Cyrl}}
 * Telugu: {{t+|te|కూతురు|sc=Telu}}, {{t+|te|కుమార్తె|sc=Telu}}, {{t+|te|పుత్రిక|sc=Telu}}, {{qualifier|literally: girl}} {{t+|te|అమ్మాయి|sc=Telu}}
-* Thai: {{t+|th|ลูกสาว|tr=lôok-săao|sc=Thai}}
+* Thai: {{t+|th|ลูกสาว|sc=Thai}}
 * Tibetan: {{t|bo|བུ་མོ|sc=Tibt}}, {{t|bo|སྲས་མོ|sc=Tibt}} {{qualifier|honorific}}
 * Tigrinya: {{t+|ti|ጓል|sc=Ethi}}
 * Tocharian A: {{t|xto|ckācar}}
