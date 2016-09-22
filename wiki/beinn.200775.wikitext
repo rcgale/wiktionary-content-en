@@ -11,8 +11,7 @@ From {{etyl|non|is}} {{m|non|beinn}}.
 {{is-adj|beinni|beinastur}}
 
 # [[straight]], [[right]]
-#: ''Maðurinn [[standa|stendur]] '''beinn'''.
-#:: The man [[stands]] '''straight'''.
+#: {{ux|is|Maðurinn [[standa|stendur]] '''beinn'''.|The man [[stands]] '''straight'''.}}
 
 ====Inflection====
 {{is-decl-adj-3|b|ei|n}}
@@ -39,7 +38,7 @@ From {{etyl|non|is}} {{m|non|beinn}}.
 ==Manx==
 
 ===Etymology===
-From {{etyl|sga|gv}} {{m|sga|benn||peak, point, prong, pinnacle}}, from {{etyl|cel-pro|gv}} {{m|cel-pro|*benno-||peak, top}}.
+From {{inh|gv|sga|benn||peak, point, prong, pinnacle}}, from {{der|gv|cel-pro|*benno-||peak, top}}.
 
 ===Noun===
 {{gv-noun|m|beinnyn|pl2=binn|beinnee}}
@@ -54,14 +53,17 @@ From {{etyl|sga|gv}} {{m|sga|benn||peak, point, prong, pinnacle}}, from {{etyl|c
 * {{qualifier|summit, pinnacle, apex}} {{l|gv|ard-veinn}}, {{l|gv|baare}}, {{l|gv|mullagh}}
 
 ===Mutation===
-{{gv mut cons|b|einn}}
+{{gv-mut-cons|b|einn}}
+
+===References===
+* {{R:DIL|5654|head=benn}}
 
 ----
 
 ==Old Irish==
 
 ===Alternative forms===
-* {{l|sga|beind|·beind}}
+* {{l|sga|·beind}}
 
 ===Verb===
 {{head|sga|verb form|head=·beinn}}
@@ -77,13 +79,13 @@ From {{etyl|sga|gv}} {{m|sga|benn||peak, point, prong, pinnacle}}, from {{etyl|c
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{etyl|sga|gd}} {{m|sga|benn||peak, point, pinnacle}}, from {{etyl|cel-pro|gd}} {{m|cel-pro|*benno-||peak, top}}.
+From {{inh|gd|sga|benn||peak, point, pinnacle}}, from {{der|gd|cel-pro|*benno-||peak, top}}.
 
 ===Noun===
 {{gd-noun|g=f|gen=beinne|pl=beanntan}}
 
 # [[mountain]], [[hill]]
-#: {{ux|gd|mar an ceò thall air a' '''bheinn'''|inline=1|t=as the distant mist on the '''hill'''}}
+#: {{ux|gd|mar an ceò thall air a' '''bheinn'''|inline=1|as the distant mist on the '''hill'''}}
 # [[pinnacle]]
 # [[bin]]
 # [[head]], [[top]], [[high]] [[place]]
@@ -98,6 +100,7 @@ From {{etyl|sga|gd}} {{m|sga|benn||peak, point, pinnacle}}, from {{etyl|cel-pro|
 ===References===
 * {{R:Dwelly}}
 * ''A Pronouncing and Etymological Dictionary of the Gaelic Language'' (John Grant, Edinburgh, 1925, Compiled by Malcolm MacLennan)
+* {{R:DIL|5654|head=benn}}
 
 [[cy:beinn]]
 [[de:beinn]]
