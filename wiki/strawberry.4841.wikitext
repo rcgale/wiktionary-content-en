@@ -43,7 +43,7 @@ From {{inh|en|enm|strawbery}}, {{m|enm|strauberi}}, from {{inh|en|ang|strēawber
 * Belarusian: {{t|be|суні́ца|f}} {{qualifier|wild}}, {{t|be|клубні́ца|f}} {{qualifier|cultivated}}; {{t|be|труска́ўка|f}}
 * Bengali: {{t|bn|স্ট্রবেরি|tr=sṭrabēri|sc=Beng}}
 * Bulgarian: {{t+|bg|я́года|f}}
-* Burmese: {{t+|my|စတော်ဘယ်ရီ|tr=sa-tàw-bè-rì|sc=Mymr}}
+* Burmese: {{t+|my|စတော်ဘယ်ရီ|sc=Mymr}}
 * Catalan: {{t+|ca|maduixa|f}}, {{t|ca|freula|f}}
 * Cherokee: {{t|chr|ᎠᏅ|tr=anv|sc=Cher}}
 * Chichewa: {{t|ny|sitiroberi}}
@@ -55,7 +55,7 @@ From {{inh|en|enm|strawbery}}, {{m|enm|strauberi}}, from {{inh|en|ang|strēawber
 * Cornish: {{t|kw|sevien|f}}
 * Cree: {{t|cr|ᐅᑌᐦᐃᒥᐣ|sc=Cans}}
 * Czech: {{t+|cs|jahoda|f}}
-* Danish: {{t+|da|jordbær}}
+* Danish: {{t+|da|jordbær|n}}
 * Dutch: {{t+|nl|aardbei|f}}
 * Esperanto: {{t+|eo|frago}}
 * Estonian: {{t+|et|maasikas}}, {{t|et|maasikmari}}
@@ -80,10 +80,10 @@ From {{inh|en|enm|strawbery}}, {{m|enm|strauberi}}, from {{inh|en|ang|strēawber
 * Irish: {{t|ga|sú talún|f}}
 * Italian: {{t+|it|fragola|f}}
 * Japanese: {{t|ja|イチゴ|tr=ichigo|sc=Jpan}}, {{t+|ja|苺|tr=いちご, ichigo|sc=Jpan}}
-* Kannada: {{t|kn|ಸ್ಟ್ರಾಬೆರಿ|tr=sṭrāperi|sc=Knda}}
+* Kannada: {{t|kn|ಸ್ಟ್ರಾಬೆರಿ|sc=Knda}}
 * Khmer: {{t|km|ហ្វ្រែហ្ស៍|tr=frɛɛz|sc=Khmr}}
 * Korean: {{t+|ko|딸기|tr=ttalgi}}
-* Lao: {{t|lo|ໝາກສະຕໍເບີຣີ|tr=maksatoboeri|sc=Laoo}}
+* Lao: {{t|lo|ໝາກສະຕໍເບີຣີ|sc=Laoo}}
 * Latgalian: {{t|ltg|zemneica|f}}
 * Latin: {{t|la|fragum}}
 * Latvian: {{t+|lv|zemene|f}}
@@ -94,7 +94,7 @@ From {{inh|en|enm|strawbery}}, {{m|enm|strauberi}}, from {{inh|en|ang|strēawber
 * Macedonian: {{t|mk|ја́года|f}}
 * Malagasy: {{t+|mg|frezy}}
 * Malay: {{t|ms|strawberi}}
-* Malayalam: {{t|ml|ഞാവല്‍ പഴം|tr=njaaval pazham}}
+* Malayalam: {{t|ml|ഞാവല്‍ പഴം}}
 * Malecite-Passamaquoddy: {{t|pqm|pskihqimins}}
 * Maltese: {{t|mt|frawla|f}}
 * Manx: {{t|gv|soo thallooin|m}}
@@ -136,7 +136,7 @@ From {{inh|en|enm|strawbery}}, {{m|enm|strauberi}}, from {{inh|en|ang|strēawber
 * Swedish: {{t+|sv|jordgubbe|c}}
 * Tagalog: {{t+|tl|presa}}
 * Tajik: {{t+|tg|тути заминӣ|sc=Cyrl}}
-* Tamil: {{t+|ta|செம்புற்றுப்பழம்}} (semputrupazham), {{t|ta|ஸ்ட்ராபெரி|tr=sṭrāperi|sc=Knda}}
+* Tamil: {{t+|ta|செம்புற்றுப்பழம்}}, {{t|ta|ஸ்ட்ராபெரி}}
 * Telugu: {{t|te|స్ట్రాబెర్రీ|tr=sṭrāberrī|sc=Telu}}
 * Thai: {{t|th|สตรอว์เบอร์รี่|tr=sàdtror-berrêe|sc=Thai}}
 * Tongan: {{t|to|sitolopeli}}
@@ -238,7 +238,7 @@ From {{inh|en|enm|strawbery}}, {{m|enm|strauberi}}, from {{inh|en|ang|strēawber
 * Indonesian: {{t+check|id|arbei}} (1), {{t+check|id|buah arbei}}
 * Lombard: {{t-check|lmo|magiostra|f}}
 * Interlingua: {{qualifier|1}} {{t-check|ia|fraga}}
-* Inuktitut: {{t-check|iu|ᐊᖅᐱᓕᒐᖅ|tr=[[aqpiligaq]]|sc=Cans}} (1)
+* Inuktitut: {{t-check|iu|ᐊᖅᐱᓕᒐᖅ|sc=Cans}} (1)
 {{trans-mid}}
 * Korean: {{t+check|ko|딸기|sc=Kore}}
 * Latin: {{t-check|la|fragaria|f}} (1, 2)
@@ -279,7 +279,7 @@ From {{inh|en|enm|strawbery}}, {{m|enm|strauberi}}, from {{inh|en|ang|strēawber
 * Slovak: {{t|sk|jahodový}}
 * Swedish: {{t|sv|jordgubbs-}}
 * Turkish: {{t|tr|çilekli}}
-* Ukrainian: {{t|uk|суничний|f|tr=sunýčnyj}}, {{t|uk|полуничний|f|tr=polunýčnyj}}
+* Ukrainian: {{t|uk|суни́чний|f}}, {{t|uk|полуни́чний|f}}
 {{trans-bottom}}
 
 {{trans-top|colour}}
