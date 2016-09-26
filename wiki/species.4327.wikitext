@@ -54,33 +54,29 @@ From {{etyl|la|en}} {{m|la|speciēs||appearance; quality}}, from {{m|la|speciō|
 * {{sense|biology, taxonomy, rank in the classification of organisms}} See {{m|en|species name}}.
 
 ====Derived terms====
-{{top3}}
-* {{l|en|chemical species}}
-* {{l|en|endangered species}}
-{{mid3}}
-* {{l|en|microspecies}}
-* {{l|en|ring species}}
-{{mid3}}
-* {{l|en|subspecies}}
-{{bottom}}
+{{der3
+|{{l|en|chemical species}}
+|{{l|en|endangered species}}
+|{{l|en|microspecies}}
+|{{l|en|ring species}}
+|{{l|en|subspecies}}
+}}
 
 ====Related terms====
-{{top3}}
-* {{l|en|speciate}}
-* {{l|en|speciation}}
-* {{l|en|specie}}
-* {{l|en|specific}}
-{{mid3}}
-* {{l|en|speciose}}
-* {{l|en|specious}}
-* {{l|en|spectacle}}
-* {{l|en|spectacular}}
-{{mid3}}
-* {{l|en|speculate}}
-* {{l|en|speculation}}
-* {{l|en|speculative}}
-* {{l|en|speculator}}
-{{bottom}}
+{{rel3
+|{{l|en|speciate}}
+|{{l|en|speciation}}
+|{{l|en|specie}}
+|{{l|en|specific}}
+|{{l|en|speciose}}
+|{{l|en|specious}}
+|{{l|en|spectacle}}
+|{{l|en|spectacular}}
+|{{l|en|speculate}}
+|{{l|en|speculation}}
+|{{l|en|speculative}}
+|{{l|en|speculator}}
+}}
 
 ====See also====
 {{top3}}
@@ -98,7 +94,7 @@ From {{etyl|la|en}} {{m|la|speciēs||appearance; quality}}, from {{m|la|speciō|
 
 ====Translations====
 {{trans-top|group of plants or animals having similar appearance}}
-* Armenian: {{t+|hy|տեսակ|sc=Armn}}
+* Armenian: {{t+|hy|տեսակ}}
 * Basque: {{t+|eu|espezie}}
 * Catalan: {{t+|ca|espècie|f}}
 * Czech: {{t+|cs|druh}}
@@ -108,8 +104,8 @@ From {{etyl|la|en}} {{m|la|speciēs||appearance; quality}}, from {{m|la|speciō|
 * French: {{t+|fr|espèce|f}}
 * German: {{t+|de|Art|f}}
 * Italian: {{t+|it|specie|f}}
-* Khmer: {{t+|km|ប្រភេទ|tr=prɑpʰeit|sc=Khmr}}
-* Macedonian: {{t|mk|вид|m|tr=vid|sc=Cyrl}}
+* Khmer: {{t+|km|ប្រភេទ|tr=prɑpʰeit}}
+* Macedonian: {{t|mk|вид|m}}
 * Malay: {{t|ms|spesies}}
 {{trans-mid}}
 * Norwegian:
@@ -128,23 +124,23 @@ From {{etyl|la|en}} {{m|la|speciēs||appearance; quality}}, from {{m|la|speciō|
 {{trans-bottom}}
 
 {{trans-top|rank in a taxonomic classification}}
-* Armenian: {{t+|hy|տեսակ|sc=Armn}}
+* Armenian: {{t+|hy|տեսակ}}
 * Basque: {{t+|eu|espezie}}
 * Catalan: {{t+|ca|espècie|f}}
 * Chinese:
-*: Cantonese: {{t|yue|種|sc=Hani}}, {{t|yue|种|tr=zung2|sc=Hani}}
-*: Mandarin: {{t+|cmn|種|sc=Hani}}, {{t+|cmn|种|tr=zhǒng|sc=Hani}}
-*: Min Nan: {{t+|nan|種|sc=Hani}}, {{t|nan|种|tr=chéng|sc=Hani}}
+*: Cantonese: {{t|yue|種}}, {{t|yue|种|tr=zung2}}
+*: Mandarin: {{t+|cmn|種}}, {{t+|cmn|种|tr=zhǒng}}
+*: Min Nan: {{t+|nan|種}}, {{t|nan|种|tr=chéng}}
 * Czech: {{t+|cs|druh|m}}
 * Danish: {{t+|da|art|c}}
 * Dutch: {{t+|nl|soort|f}}, {{t+|nl|species|f}}
 * Finnish: {{t+|fi|laji}}
 * German: {{t+|de|Art|f}}, {{t+|de|Spezies|f}}, {{t+|de|Species|f}}
 * Italian: {{t+|it|specie|f}}
-* Japanese: {{t+|ja|種|tr=shu}} ([[しゅ]])(''academic''), {{t+|ja|類|tr=rui}} ([[るい]]), {{t+|ja|種類|tr=shurui}} ([[しゅるい]]){{qualifier|colloquial}}
-* Khmer: {{t+|km|ប្រភេទ|tr=bro phet|sc=Khmr}}
+* Japanese: {{t+|ja|種|tr=shu, [[しゅ]]}} {{qualifier|academic}}, {{t+|ja|類|tr=rui, [[るい]]}}, {{t+|ja|種類|tr=shurui, [[しゅるい]]}} {{qualifier|colloquial}}
+* Khmer: {{t+|km|ប្រភេទ|tr=bro phet}}
 {{trans-mid}}
-* Macedonian: {{t|mk|вид|m|tr=vid}}, {{t|mk|вид|m|tr=vid|sc=Cyrl}}
+* Macedonian: {{t|mk|вид|m}}
 * Malay: {{t|ms|spesies}}, {{t|ms|jenis}}
 * Norwegian:
 *: Bokmål: {{t+|nb|art|m|f}}
@@ -180,16 +176,17 @@ From {{etyl|la|en}} {{m|la|speciēs||appearance; quality}}, from {{m|la|speciō|
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|cmn}}: [[種]], [[种]] (zhǒng); [[類]], [[类]] (lèi); [[種類]], [[种类]] (zhǒnglèi)
+* Chinese:
+*: Mandarin: {{t-check|cmn|種}}, {{t-check|cmn|种|tr=zhǒng}}; {{t-check|cmn|類}}, {{t-check|cmn|类|tr=lèi}}; {{t-check|cmn|種類}}, {{t-check|cmn|种类|tr=zhǒnglèi}}
 * Danish: {{t+check|da|art|c}}
 * Esperanto: {{t-check|eo|specio}}
 * French: {{t+check|fr|espèce|f}}
 * German: {{t+check|de|Art|f}}, {{t+check|de|Spezies|f}}
-* Hungarian: {{t+check|hu|fajta}} (1), {{t+check|hu|faj}} (2,3)
+* Hungarian: {{t+check|hu|fajta}}, {{t+check|hu|faj}}
 * Indonesian: {{t-check|id|spesies}}, {{t-check|id|jenis}}
-* Interlingua: {{t-check|ia|specie}}
 {{trans-mid}}
-* Italian: {{t+check|it|specie|f}}, (plural: [[speci]])
+* Interlingua: {{t-check|ia|specie}}
+* Italian: {{t+check|it|specie|f}}
 * Lithuanian: {{t-check|lt|rūšis|f}}
 * Mongolian: {{t-check|mn|төрөл зүйл}}
 * Romanian: {{t-check|ro|specie|f}}
@@ -204,6 +201,7 @@ From {{etyl|la|en}} {{m|la|speciēs||appearance; quality}}, from {{m|la|speciō|
 [[Category:English invariant nouns]]
 [[Category:English nouns with irregular plurals]]
 [[Category:English words not following the I before E except after C rule]]
+
 ----
 
 ==Dutch==
