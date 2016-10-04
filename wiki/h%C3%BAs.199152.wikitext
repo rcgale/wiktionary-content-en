@@ -2,7 +2,7 @@
 ==Faroese==
 
 ===Etymology===
-From {{etyl|non|fo}} {{m|non|hús}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*hūsą}}.
+From {{inh|fo|non|hús}}, from {{inh|fo|gem-pro|*hūsą}}.
 
 ===Pronunciation===
 * {{IPA|/hʉuːs/|lang=fo}}
@@ -20,23 +20,18 @@ From {{etyl|non|fo}} {{m|non|hús}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*hūs�
 {{fo-decl-noun-n11|hús}}
 
 ====Synonyms====
-* '''building'''
-: [[bygningur]]
-* '''house'''
-: [[bústaður]], [[sethús]]
-* '''accommodation'''
-: [[tilhald]], [[innivist]]
-* '''household'''
-: [[húshald]]
-* '''people living in one household'''
-: [[húski]], [[húsfólk]]
+* {{sense|building}} {{l|fo|bygningur}}
+* {{sense|house}} {{l|fo|bústaður}}, {{l|fo|sethús}}
+* {{sense|accommodation}} {{l|fo|tilhald}}, {{l|fo|innivist}}
+* {{sense|household}} {{l|fo|húshald}}
+* {{sense|people living in one household}} {{l|fo|húski}}, {{l|fo|húsfólk}}
 
 ----
 
 ==Hungarian==
 
 ===Etymology===
-Perhaps from an {{etyl|ira|hu}} language, compare {{cog|ku|goşt}}.
+Perhaps from an {{der|hu|ira}} language, compare {{cog|ku|goşt|sc=Latn}}.
 
 ===Pronunciation===
 * {{hu-IPA}}
@@ -51,15 +46,15 @@ Perhaps from an {{etyl|ira|hu}} language, compare {{cog|ku|goşt}}.
 {{hu-infl-nom|húso|o|-}}{{hu-pos-otok|hús||ai}}
 
 ====Derived terms====
-* [[húsos]]
+* {{l|hu|húsos}}
 {{qualifier|Compound words}}:
-* [[csirkehús]]
-* [[disznóhús]]
-* [[gyümölcshús]]
-* [[húsgombóc]]
-* [[húslé]]
-* [[húsvét]]
-* [[marhahús]]
+* {{l|hu|csirkehús}}
+* {{l|hu|disznóhús}}
+* {{l|hu|gyümölcshús}}
+* {{l|hu|húsgombóc}}
+* {{l|hu|húslé}}
+* {{l|hu|húsvét}}
+* {{l|hu|marhahús}}
 
 [[Category:Hungarian three-letter words]]
 [[Category:hu:Anatomy]]
@@ -71,7 +66,7 @@ Perhaps from an {{etyl|ira|hu}} language, compare {{cog|ku|goşt}}.
 {{wikipedia|lang=is}}
 
 ===Etymology===
-From the {{etyl|non|is}} {{m|non|hús}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*hūsą}}.
+From {{inh|is|non|hús}}, from {{inh|is|gem-pro|*hūsą}}.
 
 ===Pronunciation===
 * {{IPA|/huːs/|lang=is}}
@@ -86,14 +81,16 @@ From the {{etyl|non|is}} {{m|non|hús}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*h
 {{is-decl-noun-n-s|h|ú|s}}
 
 ====Derived terms====
-* {{l|is|Alþingishúsið}} ([[w:Alþingishúsið|Alþingishúsið]])
-* {{l|is|kaffihús}}
-* {{l|is|húsnæði}}
-* {{l|is|kvikmyndahús}}
-* {{l|is|eldhús}}
-* {{l|is|leikhús}}
-* {{l|is|íþróttahús}}
-* {{l|is|ölgerðarhús}}
+{{der3
+|{{l|is|Alþingishúsið}} ([[w:Alþingishúsið|Alþingishúsið]])
+|{{l|is|kaffihús}}
+|{{l|is|húsnæði}}
+|{{l|is|kvikmyndahús}}
+|{{l|is|eldhús}}
+|{{l|is|leikhús}}
+|{{l|is|íþróttahús}}
+|{{l|is|ölgerðarhús}}
+}}
 
 ====Related terms====
 * {{l|is|hyski}}
@@ -126,8 +123,8 @@ From {{inh|non|gem-pro|*hūsą}}, whence also {{cog|ang|hūs}} ({{cog|en|house}}
 {{bottom}}
 
 ====Related terms====
-* [[hyski]], [[hýski]]
-* [[hjú]]
+* {{l|non|hyski}}, {{l|non|hýski}}
+* {{l|non|hjú}}
 
 [[az:hús]]
 [[cs:hús]]
