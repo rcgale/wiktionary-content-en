@@ -22,12 +22,13 @@ The verb is from {{etyl|enm|en}} {{m|enm|planten}}, from {{etyl|ang|en}} {{m|ang
 * {{a|Australia|US|Canada|Northern England}} {{IPA|/plænt/|lang=en}}
 * {{a|ae-tensing}} {{IPA|/pleənt/|lang=en}}
 * {{audio|en-us-plant.ogg|Audio (US)|lang=en}}
+* {{hyphenation|plant|lang=en}}
 * {{rhymes|ɑːnt|lang=en}}
 
 ===Noun===
 {{en-noun}}
 
-# An [[organism]] that is not an animal, especially an organism capable of photosynthesis. Typically a small or herbaceous organism of this kind, rather than a [[tree]].
+# {{lb|en|botany}} An [[organism]] that is not an animal, especially an organism capable of photosynthesis. Typically a small or herbaceous organism of this kind, rather than a [[tree]].
 #* {{quote-magazine|year=2013|month=May-June|author=[http://www.americanscientist.org/authors/detail/katrina-g-claw Katrina G. Claw]
 |title=[http://www.americanscientist.org/issues/feature/2013/3/rapid-evolution-in-eggs-and-sperm Rapid Evolution in Eggs and Sperm]
 |volume=101|issue=3|page=217|magazine={{w|American Scientist}}
@@ -60,9 +61,16 @@ The verb is from {{etyl|enm|en}} {{m|enm|planten}}, from {{etyl|ang|en}} {{m|ang
 ====Usage notes====
 The scientific definition of what organisms should be considered plants changed dramatically during the 20th century. Bacteria, algae, and fungi are no longer considered plants by those who study them. Many textbooks do not reflect the most current thinking on classification.
 
-====Synonyms====
-* {{l|en|desalination plant}}
-* {{l|en|power plant}}
+====Hypernyms====
+* {{l|en|Archaeplastida}}
+
+====Hyponyms====
+{{hyp4
+| {{l|en|desalination plant}}
+| {{l|en|houseplant}}
+| {{l|en|pot plant}}
+| {{l|en|power plant}}
+}}
 
 ====Derived terms====
 {{der4
@@ -74,12 +82,9 @@ The scientific definition of what organisms should be considered plants changed 
 }}
 
 ====Related terms====
-{{rel4
-| {{l|en|plant disease}}
-| {{l|en|plant pot}}
-| {{l|en|pot plant}}
-| {{l|en|plant room}}
-}}
+* {{l|en|plant disease}}
+* {{l|en|plant pot}}
+*  {{l|en|plant room}}
 
 ====Translations====
 {{trans-top|organism capable of photosynthesis}}
