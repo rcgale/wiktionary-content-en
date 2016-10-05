@@ -4,7 +4,9 @@
 
 ===Han character===
 {{Han char|rn=74|rad=月|as=00|sn=4|four=77220|canj=B|ids=⿵冂二}}
-#{{mul-kangxi radical-def}}
+
+# {{mul-kangxi radical-def}}
+
 ====Usage notes====
 Do not confuse {{lang|mul|月}} with {{m|mul|⺼|sc=Hani}}, a form of {{m|mul|肉||flesh, meat}} when used as the left-hand radical of a character. {{m|mul|⺼|sc=Hani}} is used for parts of the body such as {{m|mul|背||back}} or {{m|mul|肝||liver}}. These may be written identically as {{lang|mul|月}}, but in careful use they are distinguished, with the inside of {{lang|mul|⺼|sc=Hani}} being written with unattached diagonal strokes. This is particularly an issue in looking up characters by radical; compare the [[Index:Chinese radical/月|月 index]] and [[Index:Chinese radical/肉|肉 index]].
 
@@ -21,7 +23,14 @@ Do not confuse {{lang|mul|月}} with {{m|mul|⺼|sc=Hani}}, a form of {{m|mul|�
 
 ===Glyph origin===
 {{Han etyl}}
-{{liushu|p}} - pictographic representation of a [[crescent moon]].
+{{liushu|p}} – pictographic representation of a [[crescent moon]].
+
+===Etymology===
+{{unk.|lang=zh}}. {{zh-ref|Unger (1992)}} proposes as cognate {{cog|bo|ངོ||waxing and waning moon; half moon}} (e.g. {{m|bo|མར་ངོ||waning moon}} and {{m|bo|ཡར་ངོ||waxing moon}}). Also compare {{cog|sit-pro|*s-ŋow||white; light colour}}.
+
+{{zh-ref|Matisoff}} sets up {{inh|zh|sit-pro|*s-ŋʷ(j)a-t||moon; star}} for this, whence also {{w|Magar}} ''gya hot'' (“moon”). 
+
+{{cog|th|งวด||occasion; time; period}} may be a Chinese loan ({{zh-ref|Manomaivibool, 1975}}).
 
 ===Pronunciation===
 {{zh-pron
@@ -36,14 +45,19 @@ Do not confuse {{lang|mul|月}} with {{m|mul|⺼|sc=Hani}}, a form of {{m|mul|�
 |mc=y
 |oc=y
 |ma=y
-|cat=n
+|cat=n,a,cls,pn
 }}
 
 ===Definitions===
 {{zh-hanzi}}
 
 # {{lb|zh|literary}} [[moon]] {{zh-mw|m:輪}}
+# [[moon]]-shaped [[object]]s
+# {{†}} [[moonlight]]
 # [[month]] {{zh-mw|個}}
+# [[monthly]]
+# {{zh-classifier|[[month]]s}}
+# {{surname|lang=zh}}
 
 ====Synonyms====
 * {{sense|moon}}
