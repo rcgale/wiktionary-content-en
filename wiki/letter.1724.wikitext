@@ -157,12 +157,12 @@
 * Bashkir: {{t|ba|хәреф|sc=Cyrl}}
 * Basque: {{t|eu|letra}}
 * Belarusian: {{t|be|лі́тара|f}}
-* Bengali: {{t+|bn|অক্ষর|tr=ôkshôr|sc=Beng}}
+* Bengali: {{t+|bn|অক্ষর|sc=Beng}}
 * Breton: {{t+|br|lizherenn}}
 * Bulgarian: {{t+|bg|бу́ква|f}}
 * Burmese: {{t+|my|အက္ခရာ|sc=Mymr}}
 * Catalan: {{t+|ca|lletra|f}}, {{t+|ca|caràcter|m}}
-* Central Atlas Tamazight: {{t|tzm|ⴰⵙⴽⴽⵉⵍ|tr=asəkkil|m}}
+* Central Atlas Tamazight: {{t|tzm|ⴰⵙⴽⴽⵉⵍ|m}}
 * Chechen: {{t|ce|элп}}
 * Chinese:
 *: Mandarin: {{t+|cmn|字母|tr=zìmǔ|sc=Hani}}, {{t+|cmn|字|tr=zì|sc=Hani}}
@@ -197,7 +197,6 @@
 * Irish: {{t+|ga|litir|f}}
 * Italian: {{t+|it|lettera|f}}, {{t+|it|carattere|m}}, {{t|it|lettera dell'alfabeto|f}}
 * Japanese: {{t+|ja|文字|tr=もじ, móji}}, {{t+|ja|字|tr=じ, ji|sc=Jpan}}
-* Norman: {{t|nrf|lettre|f}}
 * Kabyle: {{t|kab|asekkil}}
 * Kalmyk: {{t|xal|үзг|sc=Cyrl}}
 * Kannada: {{t+|kn|ಅಕ್ಷರ|sc=Knda}}
@@ -224,6 +223,7 @@
 * Marathi: {{t|mr|अक्षर|sc=Deva}}
 * Mongolian: {{t+|mn|үсэг|sc=Cyrl}}
 * Nepali: {{t+|ne|अक्षर|tr=akṣar|sc=Deva}}
+* Norman: {{t|nrf|lettre|f}}
 * Norwegian:
 *: Bokmål: {{t+|nb|bokstav|m}}
 *: Nynorsk: {{t|nn|bokstav|m}}
@@ -261,7 +261,7 @@
 * Tashelhit: {{t|tzm|ⴰⵙⴽⴽⵉⵍ|tr=asəkkil|m}}
 * Tatar: {{t+|tt|хәреф|sc=Cyrl}}
 * Telugu: {{t+|te|అక్షరము}}
-* Thai: {{t|th|ตัวอักษร|tr=dtua àksŏn|sc=Thai}}, {{t+|th|อักษร|tr=àksŏn|sc=Thai}}, {{t|th|อักขระ|tr=àkkàrà|sc=Thai}}, {{t+|th|ตัวหนังสือ|tr=dtua năngsĕu|sc=Thai}}, {{t+|th|หนังสือ|tr=năngsĕu|sc=Thai}}
+* Thai: {{t|th|ตัวอักษร|sc=Thai}}, {{t+|th|อักษร|sc=Thai}}, {{t|th|อักขระ|sc=Thai}}, {{t+|th|ตัวหนังสือ|sc=Thai}}, {{t+|th|หนังสือ|sc=Thai}}
 * Tigrinya: {{t|ti|ፊደል|sc=Ethi}}
 * Turkish: {{t+|tr|harf}}
 * Turkmen: {{t|tk|harp}}
@@ -276,13 +276,13 @@
 * Votic: {{t|vot|tširjai}}
 * Walloon: {{t+|wa|lete|f}}
 * Welsh: {{t+|cy|llythyren|f}}
-* Yiddish: {{t|yi|אות|m|n|tr=os}}, {{t|yi|בוכשטאַב|m}}
+* Yiddish: {{t|yi|אות|m|n|tr=os}}, {{t|yi|אָס|m|n}}, {{t|yi|בוכשטאַב|m}}
 {{trans-bottom}}
 
 {{trans-top|written message}}
 * Afrikaans: {{t|af|brief}}
 * Albanian: {{t+|sq|letër|f}}
-* Amharic: {{t|am|ደብዳቤ|tr=däbdabe|sc=Ethi}}
+* Amharic: {{t|am|ደብዳቤ|sc=Ethi}}
 * Arabic: {{t|ar|رِسَالَة|f}}
 * Armenian: {{t+|hy|նամակ}}
 * Aromanian: {{t|rup|scriturã|f}}, {{t|rup|scripturã|f}}, {{t|rup|scriitoari|f}}
@@ -291,7 +291,7 @@
 * Bashkir: {{t|ba|хат|sc=Cyrl}}
 * Basque: {{t|eu|eskutitz}}
 * Belarusian: {{t|be|ліст|m|sc=Cyrl}}, {{t|be|пісьмоَ|n|sc=Cyrl}}
-* Bengali: {{t|bn|চিঠি|tr=ciţhi|sc=Beng}}
+* Bengali: {{t|bn|চিঠি|sc=Beng}}
 * Bulgarian: {{t|bg|писмоَ|n}}
 * Burmese: {{t+|my|စာ}}
 * Catalan: {{t+|ca|carta|f}}
@@ -328,7 +328,6 @@
 * Italian: {{t+|it|lettera|f}}
 * Japanese: {{t+|ja|手紙|tr=[[てがみ]], tegamí|sc=Jpan}}
 * Javanese: {{t|jv|layang}}
-* Norman: {{t|nrf|lettre|f}}
 * Kalmyk: {{t|xal|бичг|sc=Cyrl}}
 * Kannada: {{t+|kn|ಪತ್ರ|sc=Knda}}
 * Kazakh: {{t+|kk|хат|sc=Cyrl}}
@@ -353,7 +352,8 @@
 * Maltese: {{t|mt|ittra|f}}
 * Marathi: {{t|mr|पत्र|sc=Deva}}
 * Mongolian: {{t+|mn|захиа|sc=Cyrl}}, {{t+|mn|захидал|sc=Cyrl}}
-* Nepali: {{t+|ne|पत्र|tr=patra|sc=Deva}}
+* Nepali: {{t+|ne|पत्र|sc=Deva}}
+* Norman: {{t|nrf|lettre|f}}
 * North Frisian: {{qualifier|Mooring}} {{t|frr|bräif|n}}, {{qualifier|Föhr-Amrum}} {{t|frr|briaf|n}}
 * Norwegian:
 *: Bokmål: {{t+|nb|brev|n}}
@@ -384,8 +384,8 @@
 * Tatar: {{t+|tt|хат|sc=Cyrl}}
 * Telugu: {{t+|te|లేఖ}}, {{t+|te|ఉత్తరము|sc=Telu}}, {{t+|te|జాబు|sc=Telu}}
 * Tetum: {{t|tet|karta}}, {{t|tet|surat}}
-* Thai: {{t+|th|จดหมาย|tr=jòt măai|sc=Thai}}
-* Tigrinya: {{t|ti|ደብዳበ|tr=däbdabä|sc=Ethi}}
+* Thai: {{t+|th|จดหมาย|sc=Thai}}
+* Tigrinya: {{t|ti|ደብዳበ|sc=Ethi}}
 * Turkish: {{t+|tr|mektup}}
 * Turkmen: {{t|tk|hat}}
 * Ukrainian: {{t|uk|лист|m}}
