@@ -118,27 +118,26 @@ From a {{etyl|trk|hu}} language, compare to Turkish {{m|tr|çok}} and Azeri {{m|
 {{wikipedia|lang=pl}}
 
 ===Etymology===
-From {{inh|pl|sla-pro|*sokъ}}.
+From {{inh|pl|sla-pro|*sokъ}}, from {{etyl|ine-pro|pl}} {{m|ine-pro|*sokʷos}}. Cognate with Lithuanian {{m|lt|sakai||resin, tar}}.
 
 ===Pronunciation===
 * {{IPA|lang=pl|/sɔk/}}
 * {{audio|Pl-sok.ogg|audio|lang=pl}}
 
 ===Noun===
-{{head|pl|noun|g=m|diminutive|soczek}}
+{{pl-noun|m-in|dim=soczek}}
 
 # [[juice]]
+#: ''Nalej mi jeszcze '''soku'''.''
 # [[sap]]
 
 ====Declension====
-{{pl-decl-noun
-|sok|soki
-|soku|soków
-|sokowi|sokom
-|sok|soki
-|sokiem|sokami
-|soku|sokach
-|soku|soki}}
+{{pl-decl-noun-m-in}}
+
+====Derived terms====
+* {{qualifier|nouns}} {{l|pl|sokowirówka|g=f}}, {{l|pl|sokownik|g=m}}
+* {{qualifier|adjectives}} {{l|pl|soczysty}}, {{l|pl|sokowy}}
+
 
 [[Category:pl:Beverages]]
 
