@@ -272,7 +272,7 @@ From {{inh|sga|cel-pro|*dubus||black}}, from {{inh|sga|ine-pro|*dʰewbʰ-||black
 * Manx: {{l|gv|doo}}
 
 ===Noun===
-{{sga-noun|m|duib}}
+{{sga-noun|n|duib}}
 
 # [[black]] [[pigment]], [[ink]]
 #* {{RQ:sga-gloss|Wb|15|a|10}}
@@ -283,7 +283,9 @@ From {{inh|sga|cel-pro|*dubus||black}}, from {{inh|sga|ine-pro|*dʰewbʰ-||black
 # [[gall]]
 
 ====Inflection====
-{{rfinfl|sga|noun}}
+{{sga-decl-noun
+|class=u-n
+}}
 
 ===Mutation===
 {{sga-mutation|d|ub}}
