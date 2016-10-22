@@ -5,7 +5,7 @@
 * {{l|en|bair}}, {{l|en|bear}}, {{l|en|bér}}, {{l|en|bèr}}, {{l|en|bër}}, {{l|en|bher}}, {{l|en|bir}}
 
 ===Etymology===
-From {{etyl|hi|en}}.
+{{bor|en|hi|}}.
 
 ===Pronunciation===
 * {{a|RP}} {{enPR|bâr}}, {{IPA|/bɛə/|lang=en}}
@@ -23,7 +23,7 @@ From {{etyl|hi|en}}.
 ==Albanian==
 
 ===Etymology===
-From {{inh|sq|sqj-pro|*bōr-}}, from {{der|sq|ine-pro|*bhōrs-}}, from root {{m|ine-pro|*bhrs||point, tip bolt}}. Cognate to {{cog|sga|barr||point}}.<ref> Albanische Etymologien (Untersuchungen zum albanischen Erbwortschatz), Bardhyl Demiraj, Leiden Studies in Indo-European 7; Amsterdam - Atlanta 1997, p.95</ref>
+From {{inh|sq|sqj-pro|*bōr-}}, from {{inh|sq|ine-pro|*bhōrs-}}, from root {{m|ine-pro|*bhrs||point, tip bolt}}. Cognate to {{cog|sga|barr||point}}.<ref> Albanische Etymologien (Untersuchungen zum albanischen Erbwortschatz), Bardhyl Demiraj, Leiden Studies in Indo-European 7; Amsterdam - Atlanta 1997, p.95</ref>
 
 ===Noun===
 {{sq-noun|m|berë|beri|berët}}
@@ -61,7 +61,7 @@ From {{inh|sq|sqj-pro|*bōr-}}, from {{der|sq|ine-pro|*bhōrs-}}, from root {{m|
 ==Faroese==
 
 ===Etymology 1===
-From {{inh|fo|non|ber}}, from {{der|fo|gem-pro|*basja-}}, {{m|gem-pro|*bazja-}}.
+From {{inh|fo|non|ber}}, from {{inh|fo|gem-pro|*basja-}}, {{m|gem-pro|*bazja-}}.
 
 ====Noun====
 {{fo-noun|n|bers|ber}}
@@ -94,8 +94,7 @@ Conjugated form.
 ====Verb====
 {{head|fo|verb form}}
 
-# {{inflection of|bera||3|s|pres|lang=fo}}
-# {{inflection of|bera||2|s|impr|lang=fo}}
+# {{inflection of|bera||3|s|pres|;|2|s|imp|lang=fo}}
 
 =====Derived terms=====
 * {{l|fo|tað ber ikki til||this is impossible}}
@@ -138,7 +137,7 @@ From {{inh|is|non|berr}}, from {{inh|is|gem-pro|*bazaz}}.
 * {{l|is|ber er hver að baki, nema sér bróður eigi}}
 
 ===Etymology 2===
-From {{inh|is|non|ber}}, from {{der|is|gem-pro|*basja-}}, {{m|gem-pro|*bazja-}}.
+From {{inh|is|non|ber}}, from {{inh|is|gem-pro|*basja-}}, {{m|gem-pro|*bazja-}}.
 
 ====Noun====
 {{is-noun|n|bers|ber}}
@@ -186,6 +185,7 @@ From {{inh|is|non|ber}}, from {{der|is|gem-pro|*basja-}}, {{m|gem-pro|*bazja-}}.
 * {{l|mwl|bista}}
 
 ----
+
 ==Norwegian Bokmål==
 
 ===Verb===
@@ -194,6 +194,7 @@ From {{inh|is|non|ber}}, from {{der|is|gem-pro|*basja-}}, {{m|gem-pro|*bazja-}}.
 # {{present tense of|be|lang=nb}}
 
 ----
+
 ==Norwegian Nynorsk==
 
 ===Verb===
@@ -215,6 +216,9 @@ From {{inh|ang|gem-pro|*bērō}}, whence also {{cog|goh|bāra}}.
 {{ang-noun|f|head=bēr}}
 
 # [[bier]]; a [[litter]] to transport dead people
+
+====Declension====
+{{infl|ang|noun}}
 
 ----
 
@@ -251,6 +255,9 @@ From {{inh|non|gem-pro|*basją}}, {{m|gem-pro|*bazją}}, whence also {{cog|ang|b
 {{non-noun|n}}
 
 # [[berry]]
+
+====Declension====
+{{rfinfl|non|noun}}
 
 ====Descendants====
 {{top2}}
@@ -341,6 +348,15 @@ From {{der|tt|trk-pro|*bīr||one}}.
 
 ===Mutation===
 {{cy-mut-auto}}
+
+----
+
+==Yola==
+
+===Verb===
+{{head|yol|verb}}
+
+# to [[bear]], to [[carry]]
 
 [[br:ber]]
 [[cs:ber]]
