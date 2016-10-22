@@ -67,7 +67,7 @@ From {{etyl|enm|en}} {{m|enm|foode}}, {{m|enm|fode}}, from {{etyl|ang|en}} {{m|a
 * Bashkir: {{t|ba|аҙыҡ|sc=Cyrl}}, {{t|ba|ризыҡ|sc=Cyrl}}, {{t|ba|аш|sc=Cyrl}}; {{t|ba|ем|sc=Cyrl}} {{qualifier|for animals}}
 * Basque: {{t+|eu|janari}}
 * Belarusian: {{t|be|харчава́нне|n|sc=Cyrl}}, {{t|be|е́жа|f|sc=Cyrl}}
-* Bengali: {{t+|bn|খাদ্য|tr=khadyô|sc=Beng}}
+* Bengali: {{t+|bn|খাদ্য|sc=Beng}}
 * Breton: {{t+|br|boued|m}}, {{t+|br|bouedoù|p}}
 * Bulgarian: {{t+|bg|храна́|f}}
 * Burmese: {{t+|my|စားစရာ|sc=Mymr}}, {{t+|my|အစားအစာ|sc=Mymr}}, {{t+|my|အစား|sc=Mymr}}
@@ -96,8 +96,8 @@ From {{etyl|enm|en}} {{m|enm|foode}}, {{m|enm|fode}}, from {{etyl|ang|en}} {{m|a
 * Gujarati: {{t|gu|ખાવાનું|tr=khāvānū̃|sc=Gujr}}
 * Haitian Creole: {{t|ht|manje}}
 * Hawaiian: {{t|haw|ʻai}}
-* Hebrew: {{t+|he|אכל|m|tr=ókhel|sc=Hebr}}, {{t+|he|מזון|m|tr=mazón|sc=Hebr}}
-* Hindi: {{t+|hi|खाना|m|tr=khānā|sc=Deva}}, {{t+|hi|भोजन|m|tr=bhojan|sc=Deva}}
+* Hebrew: {{t+|he|אכל|m|tr=ókhel|alt=אוכל \ אֹכֶל|sc=Hebr}}, {{t+|he|מָזוֹן|m|tr=mazón|sc=Hebr}}
+* Hindi: {{t+|hi|खाना|m|sc=Deva}}, {{t+|hi|भोजन|m|sc=Deva}}
 * Hungarian: {{t+|hu|étel}}, {{t+|hu|ennivaló}}, {{t+|hu|élelem}}, {{t|hu|étek}}
 * Iban: {{t|iba|pemakai}}
 * Icelandic: {{t+|is|matur|m}}, {{t|is|fæði|n}}
@@ -154,17 +154,19 @@ From {{etyl|enm|en}} {{m|enm|foode}}, {{m|enm|fode}}, from {{etyl|ang|en}} {{m|a
 * Pitjantjatjara: {{t|pjt|mai|sc=pjt-Latn}}
 * Polish: {{t+|pl|jedzenie|n}}, {{t+|pl|pożywienie|n}}, {{t+|pl|strawa|f}}, {{t+|pl|jadło|n}}
 * Portuguese: {{t+|pt|comida|f}}, {{t+|pt|alimento|m}}
-* Punjabi: {{t|pa|ਅਹਾਰ|m|tr=ahār|sc=Guru}}
+* Punjabi: {{t|pa|ਅਹਾਰ|m|sc=Guru}}
 * Quechua: {{t+|qu|mikhuna}}
 * Romanian: {{t+|ro|aliment|n}}, {{t+|ro|mâncare|f}}, {{t+|ro|hrană|f}}
 * Russian: {{t+|ru|еда́|f}}, {{t+|ru|пи́ща|f}}, {{t+|ru|пита́ние|n}}, {{qualifier|for animals}} {{t+|ru|корм|m}}
-* Sanskrit: {{t+|sa|खाद्य|tr=khādya|sc=Deva}}
+* Sanskrit: {{t+|sa|खाद्य|n|sc=Deva}}
 * Sardinian:
 *: Campidanese: {{t|sc|alimentu}}
 *: Logudorese: {{t|sc|tzibbu}}, {{t|sc|alimentu}}
 * Gallurese: {{t|sdn|alimentu}}, {{t|sdn|riccattu}}
 * Scottish Gaelic: {{t|gd|biadh|m}}
-* Serbo-Croatian: {{t|sh|храна|f|sc=Cyrl}}, {{t+|sh|hrána|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|храна|f|sc=Cyrl}}
+*: Roman: {{t+|sh|hrána|f}}
 * Sinhalese: {{t+|si|කෑම|sc=Sinh}}, {{t+|si|ආහාර|sc=Sinh}}
 * Skolt Sami: {{t|sms|porrmõš}}
 * Slovak: {{t|sk|jedlo|n}}, {{t|sk|strava|f}}
@@ -181,7 +183,7 @@ From {{etyl|enm|en}} {{m|enm|foode}}, {{m|enm|fode}}, from {{etyl|ang|en}} {{m|a
 * Tamil: {{t+|ta|சாப்பாடு|sc=Taml}}, {{t+|ta|உணவு|sc=Taml}}
 * Tatar: {{t+|tt|аш|sc=Cyrl}}
 * Telugu: {{t+|te|ఆహారం}}, {{t+|te|తిండి}}
-* Thai: {{t+|th|อาหาร|tr=aa-hăan|sc=Thai}}, {{t+|th|ของกิน}}
+* Thai: {{t+|th|อาหาร|sc=Thai}}, {{t+|th|ของกิน}}
 * Tibetan: {{t|bo|ལྟོ}}
 * Tok Pisin: {{t|tpi|kaikai}}
 * Tupinambá: {{t|tpn|emi'u}} (t-)
@@ -199,7 +201,7 @@ From {{etyl|enm|en}} {{m|enm|foode}}, {{m|enm|fode}}, from {{etyl|ang|en}} {{m|a
 * Waray-Waray: {{t|war|pagka-un}}
 * Welsh: {{t+|cy|bwyd|m}}
 * West Frisian: {{t|fy|fiedsel}}
-* Yiddish: {{t+|yi|עסן|n|tr=esn|sc=Hebr}}
+* Yiddish: {{t+|yi|עסן|n|sc=Hebr}}
 * Yoruba: {{t-needed|yo}}
 * Zhuang: {{t|za|gijgwn}}
 * ǃXóõ: {{t|nmn|ʻâã}}
