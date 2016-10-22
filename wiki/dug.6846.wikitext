@@ -15,7 +15,7 @@ From earlier {{m|en|dugge}} {{gloss|"pap, teat"; compare also English dialectal 
 
 ====Translations====
 {{trans-top|mammary gland on domestic mammal}}
-* Bulgarian: {{t|bg|цицка|tr=cicka|sc=Cyrl}}, {{t+|bg|бозка|tr=bozka|sc=Cyrl}}
+* Bulgarian: {{t|bg|цицка|sc=Cyrl}}, {{t+|bg|бозка|sc=Cyrl}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -37,18 +37,18 @@ From earlier {{m|en|dugge}} {{gloss|"pap, teat"; compare also English dialectal 
 
 ===Etymology 1===
 {{PIE root|da|dʰewh₂}}
-From {{etyl|non|da}} {{m|non|dǫgg||dew}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*dawwō||dew}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*dʰewh₂-||smoke, haze}}. Cognate with German {{m|de|Tau||dew}}.
+From {{inh|da|non|dǫgg||dew}}, from {{inh|da|gem-pro|*dawwō||dew}}, from {{inh|da|ine-pro|*dʰewh₂-||smoke, haze}}. Cognate with {{cog|de|Tau||dew}}.
 
 ====Pronunciation====
 * {{IPA|/duɡ/|[d̥uɡ̊]|lang=da}}
 
 ====Noun====
-{{da-noun|stem=dugg|en|-}}
+{{da-noun|dc=1|en|-}}
 
 # [[dew]]
 
 ===Etymology 2===
-From {{etyl|non|da}} {{m|non|dúkr}}.
+From {{inh|da|non|dúkr}}.
 
 ====Pronunciation====
 * {{IPA|/duːɡ/|[d̥uːˀ]|lang=da}}
@@ -78,7 +78,7 @@ From {{etyl|non|da}} {{m|non|dúkr}}.
 * [[voksdug]] {{g|c}}
 {{rel-bottom}}
 
-=====Inflection=====
+=====Declension=====
 {{da-noun-infl|en|e}}
 
 ----
@@ -133,7 +133,7 @@ From {{etyl|non|da}} {{m|non|dúkr}}.
 ==Scots==
 
 ===Alternative forms===
-* {{l|sco|duggie}} {{qualifier|diminutive}}
+* {{l|sco|duggie}} {{q|diminutive}}
 
 ===Etymology===
 {{rfe|lang=sco}}
@@ -179,7 +179,7 @@ From {{inh|sh|sla-pro|*dъlgъ}}.
 
 ===Etymology 2===
 From {{inh|sh|sla-pro|*dьlgъ}}.
-Cognated with Czech {{m|cs|dlouhý}}.
+Cognated with {{cog|cs|dlouhý}}.
 
 ====Pronunciation====
 * {{IPA|/dûɡ/|lang=sh}}
@@ -219,6 +219,18 @@ Cognated with Czech {{m|cs|dlouhý}}.
 
 ===Mutation===
 {{cy-mut-auto}}
+
+----
+
+==Yola==
+
+===Noun===
+{{head|yol|noun}}
+
+# [[dog]]
+
+===References===
+* J. Poole W. Barnes, ''A Glossary, with Some Pieces of Verse, of the Old Dialect of the English Colony in the Baronies of Forth and Bargy'' (1867)
 
 [[ar:dug]]
 [[da:dug]]
