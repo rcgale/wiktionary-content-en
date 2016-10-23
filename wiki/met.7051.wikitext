@@ -8,7 +8,7 @@
 * {{rhymes|ɛt|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|enm|meten||to dream, see in a sweven}}, from {{etyl|ang|en}} {{m|ang|mætan||to dream}}.
+From {{inh|en|enm|meten||to dream, see in a sweven}}, from {{inh|en|ang|mætan||to dream}}.
 
 ====Verb====
 {{en-verb|-|-|met|-}}
@@ -45,6 +45,12 @@ From {{etyl|enm|en}} {{m|enm|meten||to dream, see in a sweven}}, from {{etyl|ang
 
 ==Afrikaans==
 
+===Etymology===
+{{rfe|af}}
+
+===Pronunciation===
+{{rfp|af}}
+
 ===Preposition===
 {{head|af|preposition}}
 
@@ -53,6 +59,9 @@ From {{etyl|enm|en}} {{m|enm|meten||to dream, see in a sweven}}, from {{etyl|ang
 ----
 
 ==Breton==
+
+===Etymology===
+{{rfe|br}}
 
 ===Pronunciation===
 * {{IPA|/mɛd/|lang=br}}
@@ -80,7 +89,7 @@ From {{etyl|enm|en}} {{m|enm|meten||to dream, see in a sweven}}, from {{etyl|ang
 * {{l|gmw-cfr|mot}}, {{l|gmw-cfr|möt}} {{i|Eifel}}
 
 ===Etymology===
-From {{etyl|goh|gmw-cfr}} {{m|goh|mit}}.
+From {{inh|gmw-cfr|goh|mit}}.
 
 ===Pronunciation===
 * {{IPA|/met/|lang=gmw-cfr}} {{i|most dialects}}
@@ -121,13 +130,13 @@ From {{etyl|goh|gmw-cfr}} {{m|goh|mit}}.
 
 ==Dutch==
 
-===Pronunciation===
-* {{rhymes|ɛt|lang=nl}}
-* {{IPA|/mɛt/|/mɛ/|lang=nl}}
-* {{audio|Nl-met.ogg|audio|lang=nl}}
-
 ===Etymology===
-From {{inh|nl|odt|mit}}, variant of *''midi'' (from which {{m|nl|mee}}, {{m|nl|mede}}), from {{der|nl|gem-pro|*midi}}.
+From {{inh|nl|odt|mit}}, variant of *''midi'' (from which {{m|nl|mee}}, {{m|nl|mede}}), from {{inh|nl|gem-pro|*midi}}.
+
+===Pronunciation===
+* {{IPA|/mɛt/|/mɛ/|lang=nl}}
+* {{rhymes|ɛt|lang=nl}}
+* {{audio|Nl-met.ogg|audio|lang=nl}}
 
 ===Preposition===
 {{nl-prep}}
@@ -196,7 +205,7 @@ From {{inh|nl|odt|mit}}, variant of *''midi'' (from which {{m|nl|mee}}, {{m|nl|m
 ===Verb===
 {{head|fr|verb form}}
 
-# {{inflection of|mettre||3|s|pres|indc|lang=fr}}
+# {{inflection of|mettre||3|s|pres|ind|lang=fr}}
 
 ----
 
@@ -226,7 +235,7 @@ From {{inh|nl|odt|mit}}, variant of *''midi'' (from which {{m|nl|mee}}, {{m|nl|m
 ==Ladino==
 
 ===Etymology===
-From {{etyl|he|lad}} {{m|he|מת|tr=met}}.
+From {{der|lad|he|מת|tr=met}}.
 
 ===Adjective===
 {{lad-adj|l|heb=מת}}
@@ -264,7 +273,7 @@ From {{etyl|he|lad}} {{m|he|מת|tr=met}}.
 ==Middle Dutch==
 
 ===Etymology===
-From {{inh|dum|odt|mit}}, from {{etyl|gem-pro|dum}} {{m|gem-pro|*midi}}.
+From {{inh|dum|odt|mit}}, from {{inh|dum|gem-pro|*midi}}.
 
 ===Pronunciation===
 * {{IPA|lang=dum|/met/}}
@@ -324,7 +333,7 @@ From {{inh|dum|odt|mit}}, from {{etyl|gem-pro|dum}} {{m|gem-pro|*midi}}.
 ==Turkish==
 
 ===Noun===
-{{head|tr|noun}}
+{{tr-noun}}
 
 # [[flow]]
 # [[tide]]
@@ -343,6 +352,21 @@ From {{inh|dum|odt|mit}}, from {{etyl|gem-pro|dum}} {{m|gem-pro|*midi}}.
 
 ====Declension====
 {{vo-decl-noun}}
+
+----
+
+==Yola==
+
+===Noun===
+{{head|yol|noun}}
+
+# [[food]]
+
+====Derived terms====
+* {{l|yol|met-borde||dining table}}
+
+===References===
+* J. Poole W. Barnes, ''A Glossary, with Some Pieces of Verse, of the Old Dialect of the English Colony in the Baronies of Forth and Bargy'' (1867)
 
 [[ar:met]]
 [[ast:met]]
