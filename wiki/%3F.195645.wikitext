@@ -31,10 +31,10 @@
 #*:What is the next number in the sequence below?
 #*:1 &nbsp;&nbsp; 4 &nbsp;&nbsp; 9 &nbsp;&nbsp; 16 &nbsp;&nbsp; 25 &nbsp;&nbsp; 36 &nbsp;&nbsp; <u>&nbsp;'''?'''&nbsp;</u>
 # {{lb|mul|chess}} In [[algebraic notation]], marks a [[bad]] move.
-# {{lb|mul|programming}}
-## A [[wildcard]] for one [[character]] in [[query language]].
-## The [[ternary operator]] in some programming languages.
-## Zero-or-one modifier for detecting characters or groups in [[regular expression]]s.
+# {{lb|mul|programming}} A [[wildcard]] for one [[character]] in [[query language]].
+# {{lb|mul|programming}} The [[ternary operator]] in some programming languages.
+# {{lb|mul|regex}} Zero-or-one modifier for detecting characters or groups in [[regular expression]]s.
+#: ''For example, <code>colou?r</code> matches both "color" and "colour".''
 # {{lb|mul|networking}} In a [[URL]], begins a [[query string]] (a series of [[data]] formatted as field-value pairs).
 #: ''[http://example.com/form.asp?name1=value1&name2=value2 http://example.com/form.asp'''?'''name1=value1&name2=value2]''
 
