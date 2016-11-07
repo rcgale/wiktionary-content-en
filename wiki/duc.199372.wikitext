@@ -37,7 +37,7 @@ From {{inh|rup|la|ducō}}. Compare Daco-Romanian {{m|ro|duce}}, {{m|ro|duc}}.
 ==French==
 
 ===Etymology===
-From {{etyl|fro|fr}}, borrowed from {{etyl|la|fr}} {{m|la|dux}}, ''ducem''.
+From {{inh|fr|frm|duc}}, from {{inh|fr|fro|duc}}, a {{bor|fr|la|dux|dux, ducem|nocap=1}}, from {{m|la|duco|dūcō, dūcere|lead, guide}}, from {{der|fr|ine-pro|*dewk-}}.
 
 ===Pronunciation===
 * {{audio|Fr-duc.ogg|audio|lang=fr}}
@@ -75,26 +75,36 @@ From {{etyl|fro|fr}}, borrowed from {{etyl|la|fr}} {{m|la|dux}}, ''ducem''.
 
 ==Middle English==
 
+===Etymology===
+{{bor|enm|fro|duc}}.
+
 ===Noun===
 {{enm-noun}}
 
 # [[duke]] (nobleman)
 
+====Descendants====
+* English: {{l|en|duke}}
 ----
 
 ==Middle French==
+
+===Etymology===
+From {{inh|frm|fro|duc}}.
 
 ===Noun===
 {{frm-noun|m}}
 
 # [[duke]] (nobleman)
 
+====Descendants====
+* French: {{l|fr|duc}}
 ----
 
 ==Norman==
 
 ===Etymology===
-From {{etyl|fro|nrf}} {{m|fro|duc}}, borrowed from {{etyl|la|nrf}} {{m|la|dux|dux, ducem}}, from {{m|la|duco|dūcō, dūcere|lead, guide}}, from {{etyl|ine-pro|nrf}} {{m|ine-pro|*dewk-}}.
+From {{inh|nrf|fro|duc}}, a {{bor|nrf|la|dux|dux, ducem|nocap=1}}, from {{m|la|duco|dūcō, dūcere|lead, guide}}, from {{der|nrf|ine-pro|*dewk-}}.
 
 ===Noun===
 {{nrf-noun|m}}
@@ -111,7 +121,7 @@ From {{etyl|fro|nrf}} {{m|fro|duc}}, borrowed from {{etyl|la|nrf}} {{m|la|dux|du
 ==Old French==
 
 ===Etymology===
-Borrowed from {{etyl|la|fro}} {{m|la|dux}}, ''ducem''.
+{{bor|fro|la|dux|dux, ducem}}.
 
 ===Noun===
 {{fro-noun|m}}
@@ -119,13 +129,18 @@ Borrowed from {{etyl|la|fro}} {{m|la|dux}}, ''ducem''.
 # [[duke]] {{gloss|nobleman}}
 
 ====Descendants====
-* English: {{l|en|duke}}
-* French: {{l|fr|duc}}
+* Middle English: {{l|enm|duc}}
+** English: {{l|en|duke}}
+* Middle French: {{l|frm|duc}}
+** French: {{l|fr|duc}}
 * Norman: {{l|nrf|duc}} {{qualifier|Jersey}}
 
 ----
 
 ==Old Provençal==
+
+===Etymology===
+{{bor|pro|la|dux|dux, ducem}}.
 
 ===Noun===
 {{pro-noun|m}}
