@@ -6,7 +6,7 @@
 * {{l|en|vb.}}, {{l|en|v.}} {{qualifier|abbreviation}}
 
 ===Etymology===
-From {{etyl|fro|en}} {{m|fro|verbe|sc=Latn}}, from {{etyl|la|en}} {{m|la|verbum||word, verb|sc=Latn}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*werdʰo-}}. {{etymtwin|lang=en}} {{m|en|word|sc=Latn}}.
+{{bor|en|fro|verbe}}, from {{der|en|la|verbum||word, verb}}, from {{der|en|ine-pro|*werdʰo-}}. {{etymtwin|lang=en}} {{m|en|word}}.
 
 ===Pronunciation===
 * {{a|US}} {{IPA|/vɝb/|lang=en}}
@@ -18,7 +18,7 @@ From {{etyl|fro|en}} {{m|fro|verbe|sc=Latn}}, from {{etyl|la|en}} {{m|la|verbum|
 {{en-noun}}
 
 # {{lb|en|grammar}} A [[word]] that indicates an action, event, or state.
-#: ''The word “speak” is an English '''verb'''.''
+#: {{ux|en|The word “speak” is an English '''verb'''.}}
 # {{lb|en|obsolete}} Any [[word]]; a [[vocable]].
 #: {{rfquotek|South}}
 
@@ -33,24 +33,7 @@ Verbs compose a fundamental category of words in most languages. In an English c
 * See: [[Wikisaurus:verb]]
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|adverb}}
-* {{l|en|coverb}}
-* {{l|en|preverb}}
-* {{l|en|intransitive verb}}
-* {{l|en|subject-verb agreement}}
-{{der-mid3}}
-* {{l|en|transitive verb}}
-* {{l|en|verb inflection}}
-* {{l|en|verb phrase}}
-* {{l|en|verb tense}}
-* {{l|en|verbal}}
-{{der-mid3}}
-* {{l|en|verbal complement}}
-* {{l|en|verbal noun}}
-* {{l|en|verbal regency}}
-* {{l|en|verbless clause}}
-{{der-bottom}}
+{{der3|adverb|coverb|preverb|intransitive verb|subject-verb agreement|transitive verb|verb inflection|verb phrase|verb tense|verbal|verbal complement|verbal noun|verbal regency|verbless clause|lang=en}}
 * See also: [[Wikisaurus:verb]]
 
 ====Translations====
@@ -59,35 +42,35 @@ Verbs compose a fundamental category of words in most languages. In an English c
 * Albanian: {{t+|sq|folje|f}}
 * Amharic: {{t-needed|am}}
 * Arabic: {{t+|ar|فِعْل|m}}
-*: Egyptian Arabic: {{t|arz|فعل|m|tr=feʕl|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|فعل|m|tr=feʕl}}
 * Aragonese: {{t+|an|berbo}}
 * Aramaic:
-*: Syriac: {{t|arc|ܡܠܬܐ|f|tr=miltā’|sc=Syrc}}
-*: Hebrew: {{t|arc|מלתא|f|tr=miltā’|sc=Hebr}}
+*: Syriac: {{t|arc|ܡܠܬܐ|f|tr=miltā’}}
+*: Hebrew: {{t|arc|מלתא|f|tr=miltā’}}
 * Armenian: {{t+|hy|բայ}}
 * Assamese: {{t-needed|as}}
 * Asturian: {{t+|ast|verbu}}
 * Aymara: {{t|ay|parliri}}
 * Azeri: {{t|az|fe'l}}
-* Bashkir: {{t|ba|ҡылым|tr=qïlïm}}
+* Bashkir: {{t|ba|ҡылым}}
 * Basque: {{t|eu|aditz}}
-* Belarusian: {{t|be|дзеяслоў|m|tr=dzejaslóŭ}}
-* Bengali: {{t+|bn|ক্রিয়া|tr=kriya|sc=Beng}}
+* Belarusian: {{t|be|дзеясло́ў|m}}
+* Bengali: {{t+|bn|ক্রিয়া}}
 * Bishnupriya Manipuri: {{t-needed|bpy}}
 * Breton: {{t+|br|verb}}
-* Bulgarian: {{t+|bg|глагол|m|tr=glagól}}
-* Burmese: {{t+|my|ကြိယာ|tr=kări.ya|sc=Mymr}}
+* Bulgarian: {{t+|bg|глаго́л|m}}
+* Burmese: {{t+|my|ကြိယာ|tr=kări.ya}}
 * Catalan: {{t+|ca|verb}}
-* Chechen: {{t|ce|хандош|tr=handoš}}
+* Chechen: {{t|ce|хандош}}
 * Chinese:
-*: Cantonese: {{t|yue|動詞|sc=Hani}}, {{t|yue|动词|tr=dung6 ci4|sc=Hani}}
-*: Mandarin: {{t+|cmn|動詞|sc=Hani}}, {{t+|cmn|动词|tr=dòngcí|sc=Hani}}
-*: Min Nan: {{t+|nan|動詞|sc=Hani}}, {{t|nan|动词|tr=tōng-sû|sc=Hani}}
-* Chuvash: {{t|cv|глагол|sc=Cyrl}}
+*: Cantonese: {{t|yue|動詞}}, {{t|yue|动词|tr=dung6 ci4}}
+*: Mandarin: {{t+|cmn|動詞}}, {{t+|cmn|动词|tr=dòngcí}}
+*: Min Nan: {{t+|nan|動詞}}, {{t|nan|动词|tr=tōng-sû}}
+* Chuvash: {{t|cv|глагол}}
 * Crimean Tatar: {{t|crh|fiil}}
 * Czech: {{t+|cs|sloveso|n}}
 * Danish: {{t+|da|udsagnsord|n}}, {{t+|da|verbum|n}}
-* Dhivehi: {{t|dv|ކއަނ|tr=kan|sc=Thaa}}
+* Dhivehi: {{t|dv|ކއަނ|tr=kan}}
 * Dutch: {{t+|nl|werkwoord|n}}
 * Erzya: {{t|myv|теввал}}, {{t|myv|теемавал}}
 * Esperanto: {{t+|eo|verbo}}
@@ -102,17 +85,16 @@ Verbs compose a fundamental category of words in most languages. In an English c
 * Galician: {{t+|gl|verbo|m}}
 * Georgian: {{t|ka|ზმნა}}
 * German: {{t+|de|Verb|n}}, {{t+|de|Verbum|n}}, {{t+|de|Zeitwort|n}}, {{t+|de|Tätigkeitswort|n}}, {{t|de|Wandelwort|n}}, {{t+|de|Tuwort|n}}/{{t+|de|Tunwort|n}}, {{t+|de|Aussagewort}}
-*: Middle High German / Early New High German: [[wort]]
+*: Middle High German / Early New High German: {{t|gmh|wort}}
 * Low German:
 *: German Low German: {{t+|nds-de|Verb}}
-* Ancient Greek: {{t|grc|ῥῆμα|n}}
 * Greek: {{t+|el|ρήμα|n}}
 * Greenlandic: {{t|kl|oqaluut}}
 * Gujarati: {{t|gu|ક્રિયાપદ|tr=kriyāpada}}
 * Hausa: {{t|ha|fi'ili}}
 * Hawaiian: {{t|haw|haʻina}}
 * Hebrew: {{t+|he|פועל|tr=pô'al}}
-* Hindi: {{t+|hi|क्रिया|f|tr=kriyā|sc=Deva}}
+* Hindi: {{t+|hi|क्रिया|f}}
 * Hungarian: {{t+|hu|ige}}
 * Icelandic: {{t+|is|sagnorð|n}}, {{t+|is|sögn|f}}
 * Ido: {{t+|io|verbo}}
@@ -124,19 +106,17 @@ Verbs compose a fundamental category of words in most languages. In an English c
 * Italian: {{t+|it|verbo|m}}
 * Japanese: {{t+|ja|動詞|tr=[[どうし]], dōshi}}
 * Javanese: {{t|jv|kriyo}}
-* Norman: {{t|nrf|vèrbe|m}}
 * Kalmyk: {{t|xal|үүлдәгч}}
-* Kannada: {{t+|kn|ಕ್ರಿಯಾಪದ|tr=kriyāpada}}
+* Kannada: {{t+|kn|ಕ್ರಿಯಾಪದ}}
 * Kashubian: {{t|csb|czasnik|m}}
-* Kazakh: {{t+|kk|етістік|tr=etistik|sc=Cyrl}}
-* Khmer: {{t|km|កិរិយាស័ព្ទ|tr=gēiriyā səp|sc=Khmr}}
-
-* Korean: {{t+|ko|동사|sc=Hang}} ({{t+|ko|動詞}})
+* Kazakh: {{t+|kk|етістік}}
+* Khmer: {{t|km|កិរិយាស័ព្ទ}}
+* Korean: {{t+|ko|동사}} ({{t+|ko|動詞}})
 * Kurdish:
-*: Sorani: {{t|ckb|کردار|sc=ku-Arab}}
-* Kyrgyz: {{t+|ky|этиш|tr=etiş|sc=Cyrl}}
+*: Sorani: {{t|ckb|کردار}}
+* Kyrgyz: {{t+|ky|этиш}}
 {{trans-mid}}
-* Lao: {{t+|lo|ຄຳກຳມະ|tr=kham kam ma|sc=Laoo}}
+* Lao: {{t+|lo|ຄຳກຳມະ}}
 * Latin: {{t+|la|verbum|n}}, {{t|la|verbum temporale|n}}
 * Latvian: {{t+|lv|darbības vārds|m}}, {{t+|lv|verbs|m}}
 * Ligurian: {{t|lij|vèrbo|m}}
@@ -145,16 +125,17 @@ Verbs compose a fundamental category of words in most languages. In an English c
 * Lithuanian: {{t+|lt|veiksmažodis}}
 * Lojban: {{t+|jbo|fasnyvla}}
 * Lower Sorbian: {{t|dsb|werb|m}}
-* Macedonian: {{t|mk|глагол|m|tr=glágol}}
+* Macedonian: {{t|mk|гла́гол|m}}
 * Malay: {{t|ms|kata kerja}}
-* Malayalam: {{t+|ml|ക്രിയ|tr=kriya|sc=Mlym}}
+* Malayalam: {{t+|ml|ക്രിയ}}
 * Maltese: {{t+|mt|verb}}
-* Marathi: {{t|mr|क्रियापद|tr=kriyāpada|sc=Deva}}
+* Marathi: {{t|mr|क्रियापद|tr=kriyāpada}}
 * Mirandese: {{t|mwl|berbo|m}}
-* Mongolian: {{t+|mn|үйл үг|tr=üjl üg|sc=Cyrl}}
+* Mongolian: {{t+|mn|үйл үг}}
 * Navajo: {{t|nv|áhátʼíinii}}
-* Nepali: {{t+|ne|क्रिया|tr=kriyā}}
+* Nepali: {{t+|ne|क्रिया}}
 * Newari: {{t-needed|new}}
+* Norman: {{t|nrf|vèrbe|m}} {{qualifier|Jersey}}
 * Northern Sami: {{t|se|vearba}}
 * Norwegian: {{t+|no|verb}}
 *: Nynorsk: {{t+|nn|verb}}
@@ -163,7 +144,7 @@ Verbs compose a fundamental category of words in most languages. In an English c
 * Old English: {{t+|ang|word|n}}
 * Oriya: {{t-needed|or}}
 * Pashto: {{t-needed|ps}}
-* Persian: {{t+|fa|فعل|tr=fe'l|sc=fa-Arab}}
+* Persian: {{t+|fa|فعل|tr=fe'l}}
 * Polish: {{t+|pl|czasownik|m-in}}
 * Portuguese: {{t+|pt|verbo|m}}
 * Quechua: {{t|qu|ruray rimana}}
@@ -174,11 +155,11 @@ Verbs compose a fundamental category of words in most languages. In an English c
 * Scots: {{t|sco|verb}}
 * Scottish Gaelic: {{t|gd|gnìomhair}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|глагол|m|sc=Cyrl}}
+*: Cyrillic: {{t|sh|глагол|m}}
 *: Roman: {{t+|sh|glagol|m}}
 * Sicilian: {{t+|scn|verbu|m}}
 * Sindhi: {{t-needed|sd}}
-* Sinhalese: {{t|si|ක්රියා පද|tr=kriyā pada|sc=Sinh}}, {{t|si|ක්රියාව|tr=kriyāva|sc=Sinh}}
+* Sinhalese: {{t|si|ක්රියා පද}}, {{t|si|ක්රියාව}}
 * Slovak: {{t+|sk|sloveso|n}}
 * Slovene: {{t+|sl|glagol|m}}
 * Somali: {{t|so|fal}}
@@ -189,16 +170,16 @@ Verbs compose a fundamental category of words in most languages. In an English c
 * Swazi: {{t-needed|ss}}
 * Swedish: {{t+|sv|verb|n}}
 * Tagalog: {{t+|tl|pandiwa}}
-* Tajik: {{t+|tg|феъл|tr=fe'l|sc=Cyrl}}
-* Tamil: {{t+|ta|வினைச்சொல்|tr=vinnnaicamcolam}}
-* Telugu: {{t+|te|క్రియ|tr=kriya|sc=Telu}}
-* Thai: {{t+|th|คำกริยา|tr=khâm-kri-yā}}, {{t+|th|กริยา|tr=kri-yā}}
+* Tajik: {{t+|tg|феъл}}
+* Tamil: {{t+|ta|வினைச்சொல்}}
+* Telugu: {{t+|te|క్రియ}}
+* Thai: {{t+|th|คำกริยา}}, {{t+|th|กริยา}}
 * Turkish: {{t+|tr|fiil}}, {{t+|tr|eylem}}
 * Turkmen: {{t+|tk|işlik}}
-* Ukrainian: {{t+|uk|дієслово|n|tr=dijeslóvo}}
+* Ukrainian: {{t+|uk|дієсло́во|n}}
 * Upper Sorbian: {{t|hsb|werb|m}}
-* Urdu: {{t|ur|فعل|m|tr=fe'l|sc=ur-Arab}}
-* Uyghur: {{t|ug|پېئىل|sc=ug-Arab}}
+* Urdu: {{t|ur|فعل|m|tr=fe'l}}
+* Uyghur: {{t|ug|پېئىل}}
 * Uzbek: {{t+|uz|fe'l}}
 * Vietnamese: {{t+|vi|động từ}} ({{t|vi|動詞}})
 * Volapük: {{t+|vo|värb}}
@@ -207,7 +188,7 @@ Verbs compose a fundamental category of words in most languages. In an English c
 * West Frisian: {{t+|fy|tiidwurd|n}}
 * Wolof: {{t-needed|wo}}
 * Xhosa: {{t-needed|xh}}
-* Yiddish: {{t+|yi|ווערב|m|tr=verb}}, {{t|yi|צייטווארט|n|tr=tsaytvort}}
+* Yiddish: {{t+|yi|ווערב|m}}, {{t|yi|צייטווארט|n}}
 * Yoruba: {{t|yo|ẹka-ọrọ iṣe}}
 * Zazaki: {{t|zza|fiil}}, {{t|zza|kar}}
 * Zulu: {{t+|zu|isenzo|c7|c8}}
