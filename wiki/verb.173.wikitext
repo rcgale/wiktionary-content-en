@@ -114,8 +114,8 @@ Verbs compose a fundamental category of words in most languages. In an English c
 * Korean: {{t+|ko|동사}} ({{t+|ko|動詞}})
 * Kurdish:
 *: Sorani: {{t|ckb|کردار}}
-* Kyrgyz: {{t+|ky|этиш}}
 {{trans-mid}}
+* Kyrgyz: {{t+|ky|этиш}}
 * Lao: {{t+|lo|ຄຳກຳມະ}}
 * Latin: {{t+|la|verbum|n}}, {{t|la|verbum temporale|n}}
 * Latvian: {{t+|lv|darbības vārds|m}}, {{t+|lv|verbs|m}}
@@ -230,7 +230,7 @@ Verbs compose a fundamental category of words in most languages. In an English c
 ==Catalan==
 
 ===Etymology===
-{{etyl|la|ca}} {{m|la|verbum|sc=Latn}}
+From {{der|ca|la|verbum}}.
 
 ===Noun===
 {{ca-noun|m}}
@@ -245,19 +245,18 @@ Verbs compose a fundamental category of words in most languages. In an English c
 {{wikipedia|lang=no}}
 
 ===Etymology===
-From {{etyl|la|nb}} {{m|la|verbum}}
+From {{der|nb|la|verbum}}.
 
 ===Noun===
 {{nb-noun-n3}}
 
-# a {{l|en|verb}}
+# {{lb|nb|grammar}} {{l|en|verb}}
 
 ====Derived terms====
 * {{l|nb|verbbøying}}
 
 ===References===
 * {{R:The Bokmål Dictionary}}
-[[Category:nb:Grammar]]
 
 ----
 
@@ -265,19 +264,18 @@ From {{etyl|la|nb}} {{m|la|verbum}}
 {{wikipedia|lang=nn}}
 
 ===Etymology===
-From {{etyl|la|nn}} {{m|la|verbum}}
+From {{der|nn|la|verbum}}
 
 ===Noun===
 {{nn-noun-n1}}
 
-# a {{l|en|verb}}
+# {{lb|nn|grammar}} {{l|en|verb}}
 
 ====Derived terms====
 * {{l|nn|verbbøying}}
 
 ===References===
 * {{R:The Nynorsk Dictionary}}
-[[Category:nn:Grammar]]
 
 ----
 
@@ -285,7 +283,7 @@ From {{etyl|la|nn}} {{m|la|verbum}}
 {{wikipedia|lang=ro}}
 
 ===Etymology===
-From {{etyl|la|ro}} {{m|la|verbum}}.
+From {{der|ro|la|verbum}}.
 
 ===Pronunciation===
 * {{IPA|[verb]|lang=ro}}
@@ -307,7 +305,7 @@ From {{etyl|la|ro}} {{m|la|verbum}}.
 ===Noun===
 {{sv-noun|n}}
 
-# a [[#English|verb]]
+# {{lb|sv|grammar}} [[#English|verb]]
 
 ====Declension====
 {{sv-noun-irreg-n}}
@@ -319,17 +317,11 @@ From {{etyl|la|ro}} {{m|la|verbum}}.
 * {{l|sv|hjälpverb}}
 
 ====Related terms====
-* {{l|sv|verba}}
-* {{l|sv|verbal}}
-* {{l|sv|verbatim}}
-* {{l|sv|verbböjning}}
-* {{l|sv|verbform}}
-* {{l|sv|verbändelse}}
+{{rel3|verba|verbal|verbatim|verbböjning|verbform|verbändelse|lang=sv}}
 
 ===References===
 * {{R:SAOL}}
 
-[[Category:sv:Grammar]]
 [[Category:sv:Parts of speech]]
 
 ----
