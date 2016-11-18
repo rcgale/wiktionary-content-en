@@ -101,6 +101,48 @@ From {{der|nl|fr|grave||serious, grave}}. Most likely influenced by Dutch {{m|nl
 
 ----
 
+==Irish==
+
+===Etymology===
+{{bor|ga|en|graph}}.
+
+===Noun===
+{{ga-noun|m|graif|graif}}
+
+# [[graph]], [[chart]]
+
+====Declension====
+{{ga-decl-m1|g|raf|raif}}
+* Alternative plural: {{l|ga|grafanna}}
+
+====Derived terms====
+{{der4
+|{{l|ga|grafach|pos=a|t=graphic(al)}}
+|{{l|ga|grafeolaíocht|g=f|t=graphology}}
+|{{l|ga|grafpháipéar|g=m|t=graph paper}}
+|{{l|ga|graiftheoiric|g=f|t=graph theory}}
+}}
+
+====Related terms====
+* {{l|ga|grafachas|g=m|t=graphism}}
+
+===Verb===
+{{ga-verb|pres=~ann|fut=~faidh|vn=~adh|pp=~a}}
+
+# {{lb|ga|ambitransitive|literary}} [[write]]; [[draw]], [[sketch]]
+# {{lb|ga|transitive|math|statistics}} graph, [[plot]], chart
+
+====Conjugation====
+{{ga-conj-1a|g|ra|f|broad}}
+
+===Mutation===
+{{ga-mut}}
+
+===References===
+* {{R:ga:Ó Dónaill}}
+
+----
+
 ==Norwegian Bokmål==
 {{wikipedia|lang=no}}
 
@@ -211,11 +253,7 @@ From {{der|nl|fr|grave||serious, grave}}. Most likely influenced by Dutch {{m|nl
 {{sv-infl-noun-c-ar|2=grafv|definitions=3}}
 
 ====Related terms====
-* {{l|sv|grafik}}
-* {{l|sv|grafiker}}
-* {{l|sv|grafisk}}
-* {{l|sv|grafteori}}
-* {{l|sv|telegraf}}
+{{rel3|grafik|grafiker|grafisk|grafteori|telegraf|lang=sv}}
 
 ====See also====
 * {{l|sv|diagram}}
