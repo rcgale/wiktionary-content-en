@@ -6,7 +6,7 @@
 *: {{rhymes|aːva|lang=is}}
 
 ===Etymology 1===
-From {{etyl|non|is}} {{m|non|grafa||to dig}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*grabaną}}, from {{etyl|ine-pro|is}} {{m|ine-pro|*gʰrābʰ-||to dig, scratch, scrape}}.
+From {{inh|is|non|grafa|t=to dig}}, from {{inh|is|gem-pro|*grabaną}}, from {{der|is|ine-pro|*gʰrābʰ-|t=to dig, scratch, scrape}}.
 
 ====Verb====
 {{is-verb-strong|gróf|grófu|grafið}}
@@ -15,7 +15,7 @@ From {{etyl|non|is}} {{m|non|grafa||to dig}}, from {{etyl|gem-pro|is}} {{m|gem-p
 # to [[bury]]
 # to [[engrave]]
 # to [[enquire]]
-# {{lb|is|impersonal}} to [[suppurate]], to [[fester]]
+# {{lb|is|impersonal}} to [[suppurate]], [[fester]]
 
 =====Conjugation=====
 {{is-conj-s6|gr|a|f}}
@@ -26,14 +26,14 @@ From {{etyl|non|is}} {{m|non|grafa||to dig}}, from {{etyl|gem-pro|is}} {{m|gem-p
 * {{sense|to enquire}} {{l|is|grafast}}, {{l|is|spyrja}}
 
 =====Derived terms=====
-* {{l|is|grafa skurði}} (to trench)
-* {{l|is|grafa undan}} (to undermine)
+* {{l|is|grafa skurði|t=to trench}}
+* {{l|is|grafa undan|t=to undermine}}
 
 =====Related terms=====
 * {{l|is|gröf}}
 
 ===Etymology 2===
-From the verb {{m|is|grafa||to dig}}.
+From the verb {{m|is|grafa|t=to dig}}.
 
 [[File:Kettenbagger CAT 325C LN.jpeg|thumb|A modern excavator.]]
 
@@ -46,11 +46,13 @@ From the verb {{m|is|grafa||to dig}}.
 {{is-decl-noun-f-w1|gr|a|f}}
 
 =====Derived terms=====
-* {{l|is|keðjugrafa}} (trencher)
-* {{l|is|traktorsgrafa}} (excavator loader)
-* {{l|is|vökvagrafa}} (hydraulic excavator)
-* {{l|is|vélgrafa}} (mechanical excavator)
-* {{l|is|víragrafa}} (rope-operated excavator)
+{{der3
+|{{l|is|keðjugrafa|t=trencher}}
+|{{l|is|traktorsgrafa|t=excavator loader}}
+|{{l|is|vökvagrafa|t=hydraulic excavator}}
+|{{l|is|vélgrafa|t=mechanical excavator}}
+|{{l|is|víragrafa|t=rope-operated excavator}}
+}}
 
 ===Etymology 3===
 
@@ -61,10 +63,30 @@ From the verb {{m|is|grafa||to dig}}.
 
 ----
 
+==Irish==
+
+===Noun===
+{{head|ga|noun form|g=m-s}}
+
+# {{inflection of|grafadh|gloss=(act of) grubbing, hoeing; grubbed land||gen|s|lang=ga}}
+
+===Verb===
+{{ga-pp}}
+
+# {{inflection of|graf|gloss=graph, chart||past|part|lang=ga}}
+
+===Mutation===
+{{ga-mut}}
+
+===References===
+* {{R:ga:Ó Dónaill}}
+
+----
+
 ==Old Norse==
 
 ===Etymology===
-From {{inh|non|gem-pro|*grabaną}}, whence also {{cog|ang|grafan}} ({{cog|en|grave}}), {{cog|osx|bigraƀan}}, {{cog|nl|graven}}, {{cog|goh|graban}} ({{cog|de|graben}}), {{cog|got|𐌲𐍂𐌰𐌱𐌰𐌽}}. Ultimately from {{etyl|ine-pro|non}} {{m|ine-pro|*gʰrābʰ-||to dig, scratch, scrape}}.
+From {{inh|non|gem-pro|*grabaną}}, whence also {{cog|ang|grafan}} ({{cog|en|grave}}), {{cog|osx|bigraƀan}}, {{cog|nl|graven}}, {{cog|goh|graban}} ({{cog|de|graben}}), {{cog|got|𐌲𐍂𐌰𐌱𐌰𐌽}}. Ultimately from {{der|non|ine-pro|*gʰrābʰ-|t=to dig, scratch, scrape}}.
 
 ===Verb===
 {{non-verb}}
@@ -72,7 +94,7 @@ From {{inh|non|gem-pro|*grabaną}}, whence also {{cog|ang|grafan}} ({{cog|en|gra
 # to [[dig]]
 # to [[bury]]
 # to [[engrave]]
-# to [[enquire]] (also in middle voice: [[grafask]])
+# to [[enquire]] (also in middle voice: {{m|non|grafask}})
 # {{lb|non|impersonal}} to cause the formation of [[pus]] (in something); [[suppurate]]
 
 ====Related terms====
@@ -96,9 +118,12 @@ From {{inh|non|gem-pro|*grabaną}}, whence also {{cog|ang|grafan}} ({{cog|en|gra
 ==Scottish Gaelic==
 
 ===Noun===
-{{head|gd|noun form}}
+{{head|gd|noun form|g=m-s}}
 
-# {{genitive singular of|graf|lang=gd}}
+# {{inflection of|graf||gen|s|lang=gd}}
+
+===Mutation===
+{{gd-mut-cons|g|rafa}}
 
 [[es:grafa]]
 [[fr:grafa]]
