@@ -24,8 +24,8 @@ From {{inh|ga|sga|eó}}, from {{inh|ga|cel-pro|*esoxs}} (cognate to {{cog|wlm|eh
 ====Noun====
 {{ga-noun|m|iach|iaich}}
 
-# {{lb|ga|literary}} [[salmon]]
-# {{lb|ga|figuratively}} [[noble]] being, [[prince]]
+# {{lb|ga|literary}} {{l|en|salmon}}
+# {{lb|ga|figuratively}} {{def|[[noble]] being, [[prince]]}}
 
 =====Declension=====
 {{ga-decl-m-V|eo|iach|iaich|iach|decl=5}}
@@ -34,30 +34,29 @@ From {{inh|ga|sga|eó}}, from {{inh|ga|cel-pro|*esoxs}} (cognate to {{cog|wlm|eh
 * {{sense|salmon}} {{l|ga|bradán}}
 
 ===Etymology 2===
-{{rfe|lang=ga}}
+Ultimately from {{inh|ga|ine-pro|*h₁eyHweh₂||yew}}; cognate with {{cog|cy|yw}} and {{cog|en|yew}}.
 
 ====Noun====
-{{ga-noun|f|-|-}}
+{{ga-noun|f|~|-}}
 
-# {{lb|ga|literary}} [[yew]] tree
+# {{lb|ga|literary}} {{def|[[yew]] tree}}
 
 ===Etymology 3===
 {{rfe|lang=ga}}
 
 ====Noun====
-{{ga-noun|m|-|-}}
+{{ga-noun|m|~|-}}
 
-# {{lb|ga|literary}} [[point]] {{qualifier|of blade}}; [[pin]], [[brooch]]
+# {{lb|ga|literary}} {{def|[[point]] {{qualifier|of blade}}; [[pin]], [[brooch]]}}
 
 ===Mutation===
-{{ga-mut-vowel}}
+{{ga-mut|msn}}
 
 ===References===
 * {{R:ga:Ó Dónaill}}
 * {{R:DIL|20128|head=1 eó, eú}}
 
-[[Category:ga:Salmonids]]
-[[Category:ga:Trees]]
+{{C|ga|Salmonids|Trees}}
 
 ----
 
@@ -74,7 +73,7 @@ From {{inh|la|itc-pro|*eō}}, from {{der|la|ine-pro|*h₁ey-}}. Cognate with {{c
 ====Verb====
 {{la-verb|eō|īre|iī|itum|conj=irreg}}
 
-# I [[go]].
+# {{lb|la|intransitive}} I [[go]].
 #: ''Romani '''ite''' domum!''
 #:: Romans, '''go''' home!
 #: ''Romani '''ierunt''' domum.''
@@ -93,52 +92,52 @@ Irregular conjugation, but similar to [[Appendix:Latin fourth conjugation|fourth
 {{la-conj-irreg|type=pass-impers|eo|p3inf=1}}
 
 =====Derived terms=====
-{{der3
+{{der3|lang=la
 |title=Derived terms from ''eō'' ("I go")
-|{{l|la|abeō}}
-|{{l|la|adeō}}
-|{{l|la|ambeō}}
-|{{l|la|circumeō}}
-|{{l|la|coeō}}
-|{{l|la|deeō}}
-|{{l|la|dispereō}}
-|{{l|la|exeō}}
-|{{l|la|ineō}}
-|{{l|la|intereō}}
-|{{l|la|introeō}}
-|{{l|la|itus}}
-|{{l|la|nequeō}}
-|{{l|la|obeō}}
-|{{l|la|pereō}}
-|{{l|la|praetereō}}
-|{{l|la|prodeō}}
-|{{l|la|queō}}
-|{{l|la|redeō}}
-|{{l|la|subeō}}
-|{{l|la|trānsabeō}}
-|{{l|la|trānseō}}
-|{{l|la|vēneō}}
+|abeō
+|adeō
+|ambeō
+|circumeō
+|coeō
+|deeō
+|dispereō
+|exeō
+|ineō
+|intereō
+|introeō
+|itus
+|nequeō
+|obeō
+|pereō
+|praetereō
+|prodeō
+|queō
+|redeō
+|subeō
+|trānsabeō
+|trānseō
+|vēneō
 }}
 
 ====See also====
 * {{l|la|vādō}}
 
 =====Descendants=====
-{{top2}}
+{{desc-top}}
 * Asturian: {{l|ast|dir}} {{qualifier|in part}}
 * Dalmatian: {{l|dlm|zer}}
 * French: {{l|fr|aller}} {{qualifier|in part: future tense only, form "ir-"}}
 * Galician: {{l|gl|ir}} {{qualifier|in part}}
 * Istriot: {{l|ist|zì}}
 * Italian: {{l|it|gire}}, {{l|it|ire}}
-{{mid2}}
+{{desc-mid}}
 * Ladin: {{l|lld|jì}}, {{l|lld|jir}} {{qualifier|in part}}
 * Neapolitan {{l|nap|ji}}, {{l|nap|jì}}, {{l|nap|ghì}}, {{l|nap|i}}
 * Portuguese: {{l|pt|ir}} {{qualifier|in part}}
 * Romansch: {{l|rm|ir}}, {{l|rm|eir}} {{qualifier|in part}}
 * Sicilian: {{l|scn|iri}}, {{l|scn|jiri}}, {{l|scn|giri}}, {{l|scn|ghiri}}
 * Spanish: {{l|es|ir}} {{qualifier|in part}}
-{{bottom}}
+{{desc-bottom}}
 
 ===Etymology 2===
 From the ablative (and old dative) of the masculine pronoun {{m|la|is||he, it}}.
@@ -166,7 +165,6 @@ From the ablative (and old dative) of the masculine pronoun {{m|la|is||he, it}}.
 * {{R:Gaffiot}}
 * {{R:M&A}}
 
-[[Category:Latin intransitive verbs]]
 [[Category:Latin root words]]
 
 ----
@@ -198,7 +196,7 @@ From {{inh|osx|gem-pro|*aiwaz}}, whence also Old Norse {{m|non|ei}}
 ==Scottish Gaelic==
 
 ===Etymology 1===
-From {{etyl|sga|gd}} {{m|sga|eó}} (cognate to {{cog|wlm|ehawc}}, modern {{cog|cy|eog}}).
+From {{inh|gd|sga|eó}} (cognate to {{cog|wlm|ehawc}}, modern {{cog|cy|eog}}).
 
 ====Noun====
 {{gd-noun|g=m}}
