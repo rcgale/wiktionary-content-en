@@ -53,49 +53,58 @@ Cognate with {{cog|sco|starn}}, {{cog|frr|steer}}, {{cog|fy|stjer}}, {{etyl|stq|
 ====Synonyms====
 * {{sense|astronomy}} {{l|en|*}} {{qualifier|abbreviation}}
 
-====Derived terms====
-{{rel-top3|Terms derived from ''star'' (noun)}}
-* {{l|en|Barnard's Star}}
-* {{l|en|binary star}}
-* {{l|en|dwarf star}}
-* {{l|en|double star}}
-* {{l|en|faxed star}}
-* {{l|en|fixed star}}
-* {{l|en|frozen star}}
-* {{l|en|Garnet Star}}
-* {{l|en|giant star}}
-* {{l|en|Kleene star}}
-* {{l|en|megastar}}
-* {{l|en|neutron star}}
-* {{l|en|quark star}}
-* {{l|en|see stars}}
-{{rel-mid3}}
-* {{l|en|shooting star}}
-* {{l|en|starcraft}}
-* {{l|en|star-crossed}}
-* {{l|en|stardom}}
-* {{l|en|starfish}} ([[seastar]])
-* {{l|en|star height}}
-* {{l|en|starhood}}
-* {{l|en|starlet}}
-* {{l|en|starlore}}
-* {{l|en|starly}}
-* {{l|en|starman}}
-* {{l|en|starquake}}
-{{rel-mid3}}
-* {{l|en|starry}}
-* {{l|en|starry-eyed}}
-* {{l|en|stars are aligned}}
-* {{l|en|starscape}}
-* {{l|en|star shell}}
-* {{l|en|stars in one's eyes}}
-* {{l|en|star system}}
-* {{l|en|star trail}}
-* {{l|en|superstar}}
-{{rel-bottom}}
+====Hypernyms====
+* {{sense|astronomy}} {{l|en|celestial body}}
 
 ====Hyponyms====
-* {{l|en|Wikisaurus:star}}
+{{hyp4
+| {{l|en|Barnard's Star}}
+| {{l|en|binary star}}
+| {{l|en|dwarf star}}
+| {{l|en|double star}}
+| {{l|en|faxed star}}
+| {{l|en|fixed star}}
+| {{l|en|frozen star}}
+| {{l|en|Garnet Star}}
+| {{l|en|giant star}}
+| {{l|en|Kleene star}}
+| {{l|en|megastar}}
+| {{l|en|neutron star}}
+| {{l|en|quark star}}
+| {{l|en|shooting star}}
+| {{l|en|superstar}}
+}}
+* [[Wikisaurus:star]]
+
+====Derived terms====
+{{der4
+| {{l|en|megastar}}
+| {{l|en|starcraft}}
+| {{l|en|star-crossed}}
+| {{l|en|stardom}}
+| {{l|en|starfish}} ([[seastar]])
+| {{l|en|starhood}}
+| {{l|en|starlet}}
+| {{l|en|starlore}}
+| {{l|en|starly}}
+| {{l|en|starman}}
+| {{l|en|starquake}}
+| {{l|en|starry}}
+| {{l|en|starry-eyed}}
+| {{l|en|stars are aligned}}
+| {{l|en|starscape}}
+| {{l|en|superstar}}
+}}
+
+====Related terms====
+{{rel4
+| {{l|en|see stars}}
+| {{l|en|star height}}
+| {{l|en|star shell}}
+| {{l|en|stars in one's eyes}}
+| {{l|en|star system}}
+| {{l|en|star trail}}
+}}
 
 ====Descendants====
 * German: {{l|de|Star}}
@@ -588,13 +597,14 @@ Cognate with {{cog|sco|starn}}, {{cog|frr|steer}}, {{cog|fy|stjer}}, {{etyl|stq|
 * Swedish: {{t+|sv|stjärna|c}}
 {{trans-bottom}}
 
-{{checktrans-top}}
-'''a luminous celestial body'''
+{{checktrans-top|a luminous celestial body}}
 * Belarusian: {{t-check|be|зо́рка|f}}
+{{checktrans-mid}}
 * Ukrainian: {{t+check|uk|зі́рка|f}}
 * Vietnamese: {{t+check|vi|sao}}
+{{checktrans-bottom}}
 
-'''a person or thing'''
+{{checktrans-top|a person or thing}}
 * Afrikaans: {{t+check|af|ster}}
 * Albanian: {{t-check|sq|yll|m}}
 * Arabic: {{t-check|ar|نَجْمَة|f}}
@@ -610,6 +620,7 @@ Cognate with {{cog|sco|starn}}, {{cog|frr|steer}}, {{cog|fy|stjer}}, {{etyl|stq|
 * Italian: {{t+check|it|stella|f}}
 * Khmer: {{t+check|km|តារា|tr=daaraa|sc=Khmr}}
 * Korean: {{t+check|ko|별|sc=Kore}}
+{{checktrans-mid}}
 * Latin: {{t+check|la|stēlla|f}}
 * Macedonian: {{t-check|mk|ѕвезда}}
 * Malayalam: {{t+check|ml|താരം|sc=Mlym}}
@@ -624,10 +635,12 @@ Cognate with {{cog|sco|starn}}, {{cog|frr|steer}}, {{cog|fy|stjer}}, {{etyl|stq|
 * Spanish: {{t+check|es|estrella|f}}
 * Swedish: {{t+check|sv|stjärna|c}}
 * Thai: {{t+check|th|ดารา|tr=daaraa|sc=Thai}}
+{{checktrans-bottom}}
 
-'''asterisk'''
+{{checktrans-top|asterisk}}
 * Greenlandic: {{t-check|kl|ulloriaasaq}}
-{{trans-bottom}}
+{{checktrans-mid}}
+{{checktrans-bottom}}
 
 ===Verb===
 {{en-verb|starr}}
