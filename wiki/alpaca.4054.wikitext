@@ -4,7 +4,7 @@
 [[File:Alpaka 33444.jpg|thumb|An '''alpaca''' (''Vicugna pacos'')]]
 
 ===Etymology===
-From {{etyl|es|en}}, from {{etyl|ay|en}} {{m|ay|allpaqa}}.
+{{bor|en|es|-}}, from {{der|en|ay|allpaqa}}.
 
 ===Pronunciation===
 * {{IPA|/ælˈpækə/|lang=en}}
@@ -30,8 +30,8 @@ From {{etyl|es|en}}, from {{etyl|ay|en}} {{m|ay|allpaqa}}.
 * Aymara: {{t|ay|allpaqa}}
 * Catalan: {{t|ca|alpaca|m}}
 * Chinese:
-*: Cantonese: {{t|yue|草泥馬|tr=cou2 nai4 maa5|sc=Hant}}, {{t|yue|草泥马|tr=cou2 nai4 maa5|sc=Hant}}
-*: Mandarin: {{t+|cmn|羊駝|sc=Hani}}, {{t+|cmn|羊驼|tr=yángtuó|sc=Hani}}, {{t|cmn|美洲駝|sc=Hani}}, {{t|cmn|美洲驼|tr=Měizhōu tuó|sc=Hani}}, {{t|cmn|無峰駝|sc=Hani}}, {{t|cmn|无峰驼|tr=wúfēngtuó|sc=Hani}}, {{t+|cmn|草泥馬|tr=cǎonímǎ|sc=Hant}}, {{t+|cmn|草泥马|tr=cǎonímǎ|sc=Hant}}
+*: Cantonese: {{t|yue|草泥馬|tr=cou2 nai4 maa5}}, {{t|yue|草泥马|tr=cou2 nai4 maa5}}
+*: Mandarin: {{t+|cmn|羊駝}}, {{t+|cmn|羊驼|tr=yángtuó}}, {{t|cmn|美洲駝}}, {{t|cmn|美洲驼|tr=Měizhōu tuó}}, {{t|cmn|無峰駝}}, {{t|cmn|无峰驼|tr=wúfēngtuó}}, {{t+|cmn|草泥馬|tr=cǎonímǎ}}, {{t+|cmn|草泥马|tr=cǎonímǎ}}
 * Czech: {{t|cs|alpaka|f}}
 * Danish: {{t|da|alpaka|c}}
 * Dutch: {{t+|nl|alpaca|m}}
@@ -46,9 +46,9 @@ From {{etyl|es|en}}, from {{etyl|ay|en}} {{m|ay|allpaqa}}.
 * Interlingua: {{t|ia|alpaca}}
 * Irish: {{t|ga|alpaca|m}}
 * Italian: {{t+|it|alpaca|m}}
-* Japanese: {{t+|ja|アルパカ|tr=arupaka|sc=Jpan}}
+* Japanese: {{t+|ja|アルパカ|tr=arupaka}}
 * Latin: {{t|la|Lama pacos}}
-* Macedonian: {{t|mk|алпака|f|sc=Cyrl}}
+* Macedonian: {{t|mk|алпака|f}}
 * Navajo: {{t|nv|Shádiʼááhdę́ę́ʼ tłʼízíʼilí}}
 * Norwegian:
 *: Bokmål: {{t+|nb|alpakka|m}}
@@ -57,7 +57,8 @@ From {{etyl|es|en}}, from {{etyl|ay|en}} {{m|ay|allpaqa}}.
 * Quechua: {{t|qu|allpaqa}}
 * Romanian: {{t+|ro|alpaca|f}}
 * Russian: {{t+|ru|альпа́ка|m|f}}
-* Serbo-Croatian: {{t|sh|alpaka|f}}
+* Serbo-Croatian:
+*: Roman: {{t|sh|alpaka|f}}
 * Slovene: {{t+|sl|alpaka|f}}
 * Spanish: {{t+|es|alpaca|f}}
 * Swedish: {{t+|sv|alpacka|c}}
@@ -81,26 +82,52 @@ From {{etyl|es|en}}, from {{etyl|ay|en}} {{m|ay|allpaqa}}.
 
 ==Dutch==
 
+===Etymology===
+{{bor|nl|es|-}}, from {{der|nl|ay|allpaqa}}.
+
 ===Pronunciation===
 * {{audio|Nl-alpaca.ogg|audio|lang=nl}}
 * {{hyphenation|al|pa|ca|lang=nl}}
-
-===Etymology===
-From {{der|nl|ay|allpaqa}}.
 
 ===Noun===
 {{nl-noun|m|-'s|alpacaatje}}
 
 # [[#English|alpaca]]
 
-{{catlangcode|nl|Camelids}}
+{{topics|nl|Camelids}}
+
+----
+
+==Irish==
+
+===Etymology===
+{{bor|ga|es|-}}, possibly via {{der|ga|en|-}}, from {{der|ga|ay|allpaqa}}.
+
+===Noun===
+{{ga-noun|m|~|~í}}
+
+# [[#English|alpaca]]
+
+====Declension====
+{{ga-decl-m4|a|lpaca|lpacaí}}
+
+====Derived terms====
+* {{l|ga|olann alpaca|g=f|t=alpaca wool}}
+
+===Mutation===
+{{ga-mut}}
+
+===External links===
+* {{R:ga:Foras}}
+
+{{topics|ga|Camelids}}
 
 ----
 
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|ay|pt}} {{m|ay|allpaca}}.
+{{bor|pt|es|-}}, from {{der|pt|ay|allpaqa}}.
 
 ===Pronunciation===
 * {{rhymes|aka|lang=pt}}
@@ -112,14 +139,14 @@ From {{etyl|ay|pt}} {{m|ay|allpaca}}.
 # {{l|en|alpaca}} {{gloss|wool from the alpaca}}
 # {{l|en|nickel silver}} {{gloss|alloy of copper, zinc and nickel}}
 
-{{catlangcode|pt|Mammals|Fibers|Camelids|Alloys}}
+{{topics|pt|Mammals|Fibers|Camelids|Alloys}}
 
 ----
 
 ==Romanian==
 
 ===Etymology===
-From {{etyl|fr|ro}} {{m|fr|alpaga}}, {{m|fr|alpaca}}, from {{etyl|es|ro}} {{m|es|alpaca}}, from {{etyl|ay|ro}} {{m|ay|allpaqa}}.
+{{bor|ro|fr|alpaga}}, {{m|fr|alpaca}}, from {{der|ro|es|alpaca}}, from {{der|ro|ay|allpaqa}}.
 
 ===Pronunciation===
 * {{IPA|/alpaˈka/|lang=ro}}
@@ -141,12 +168,12 @@ From {{etyl|fr|ro}} {{m|fr|alpaga}}, {{m|fr|alpaca}}, from {{etyl|es|ro}} {{m|es
 ==Spanish==
 
 ===Etymology===
-From {{etyl|ay|es}} {{m|ay|allpaqa}}.
+{{bor|es|ay|allpaqa}}.
 
 ===Noun===
 {{es-noun|f}}
 
-# [[alpaca#English|alpaca]]
+# [[#English|alpaca]]
 
 [[ay:alpaca]]
 [[cs:alpaca]]
