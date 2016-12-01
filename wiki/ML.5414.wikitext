@@ -16,9 +16,8 @@
 {{rfc-header|Initialism}}
 {{en-initialism}}
 
-# [[Medieval Latin]], [[Middle Latin]]
-# Markup Language
-# the {{w|ML (programming language)|ML programming language}}
+# {{lb|en|computing}} {{initialism of|[[markup language|Markup Language]]|lang=en}}
+# {{lb|en|computing}} {{initialism of|[[metalanguage|MetaLanguage]]|dot=|lang=en}} {{gloss|the {{w|ML (programming language)|ML programming language}}}}
 #* {{quote-web
 |date=1991-12-20
 |author=Henk P. Barendregt
@@ -28,7 +27,12 @@
 |accessdate=2012-07-15
 }}
 #*: The Curry and Church approaches to typed lambda calculus correspond to two paradigms in programming. In the first of these a program may be written without typing at all. Then a compiler should check whether a type can be assigned to the program. This will be the case if the program is correct. A well-known example of such a language is [[ML]], see Milner (1984). The style of typing is called 'implicit typing'. The other paradigm in programming is called 'explicit typing' and corresponds to the Church version of typed lambda calculi. Here a program should be written together with its type. For these languages type-checking is usually easier, since no types have to be constructed. Examples of such languages are ALGOL 68 and PASCAL. Some authors designate the Curry systems as 'lambda calculi ''with type assignment''' and the Church systems as 'systems of ''typed'' lambda calculus'.
+# {{lb|en|linguistics}} {{initialism of|[[Medieval Latin]]|lang=en}}
+# {{lb|en|linguistics}} {{initialism of|[[Middle Latin]]|lang=en}}
 # {{lb|en|surface chemistry}} {{initialism of|monolayer|lang=en}}
+
+====Hyponyms====
+* {{sense|computing}} {{l|en|SML}}
 
 ===Anagrams===
 * {{l|en|LM}}
