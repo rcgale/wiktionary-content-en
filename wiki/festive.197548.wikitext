@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|fr|en}} {{m|fr|festif}}, from {{etyl|la|en}} {{m|la|festivus||pertaining to a feast, gay, lively, joyous}}. Equivalent to {{suffix|feast|ive|lang=en}}.
+From {{der|en|fr|festif}}, from {{der|en|la|festivus|t=pertaining to a feast, gay, lively, joyous}}. Equivalent to {{affix|en|feast|-ive}}.
 
 ===Pronunciation===
 * {{audio|en-us-festive.ogg|Audio (US)|lang=en}}
@@ -10,9 +10,9 @@ From {{etyl|fr|en}} {{m|fr|festif}}, from {{etyl|la|en}} {{m|la|festivus||pertai
 {{en-adj}}
 
 # Having the [[atmosphere]], [[decoration]], or [[attitude]] of a [[festival]], [[holiday]], or [[celebration]].
-#: ''The room was decked out in '''festive''' streamers, with flowers everywhere.''
+#: {{ux|en|The room was decked out in '''festive''' streamers, with flowers everywhere.}}
 # In the mood to [[celebrate]].
-#: ''Please put the Christmas decorations away, I'm really not in a '''festive''' mood.''
+#: {{ux|en|Please put the Christmas decorations away, I'm really not in a '''festive''' mood.}}
 
 ====Synonyms====
 * {{l|en|feastful}}
@@ -36,25 +36,25 @@ From {{etyl|fr|en}} {{m|fr|festif}}, from {{etyl|la|en}} {{m|la|festivus||pertai
 ==French==
 
 ===Adjective===
-{{fr-adj-form}}
+{{fr-adj-form|g=f-s}}
 
-# {{feminine of|festif|lang=fr}}
+# {{inflection of|festif||f|s|lang=fr}}
 
 ----
 
 ==Italian==
 
 ===Adjective===
-{{head|it|adjective form|g=f-p}}
+{{it-adj-form|f-p}}
 
-# {{feminine plural of|festivo|lang=it}}
+# {{inflection of|festivo||f|p|lang=it}}
 
 ----
 
 ==Latin==
 
 ===Etymology===
-From {{m|la|fēstīvus||joyous, festive; pleasing}}, from {{m|la|fēstus||feast-like; festive}}.
+From {{m|la|fēstīvus|t=joyous, festive; pleasing}}, from {{m|la|fēstus|t=feast-like; festive}}.
 
 ===Adverb===
 {{la-adv|fēstīvē|-}}
@@ -63,16 +63,7 @@ From {{m|la|fēstīvus||joyous, festive; pleasing}}, from {{m|la|fēstus||feast-
 # [[humorously]], [[facetiously]], [[wittily]]
 
 ====Related terms====
-{{top2}}
-* {{l|la|festivalis|fēstīvālis}}
-* {{l|la|festivitas|fēstīvitās}}
-* {{l|la|festiviter|fēstīviter}}
-* {{l|la|festivum|fēstīvum}}
-{{mid2}}
-* {{l|la|festivus|fēstīvus}}
-* {{l|la|festum|fēstum}}
-* {{l|la|festus|fēstus}}
-{{bottom}}
+{{rel4|fēstīvālis|fēstīvitās|fēstīviter|fēstīvum|fēstīvus|fēstum|fēstus|lang=la}}
 
 ===References===
 * {{R:L&S}}
