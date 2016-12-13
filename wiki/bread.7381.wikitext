@@ -373,7 +373,7 @@ From {{etyl|enm|en}} {{m|enm|bred}}, {{m|enm|breed}}, from {{etyl|ang|en}} {{m|a
 * Basque: {{t+|eu|ogi}}
 * Bats: {{t|bbl|მაჲჴი̆}}
 * Belarusian: {{t+|be|хлеб|m}}
-* Bengali: {{t+|bn|রুটি|tr=ruṭi|sc=Beng}}
+* Bengali: {{t+|bn|রুটি|sc=Beng}}
 * Breton: {{t+|br|bara|m}}
 * Bulgarian: {{t+|bg|хляб|m}}
 * Burmese: {{t+|my|နံပြား|sc=Mymr}}, {{t+|my|ပေါင်မုန့်|sc=Mymr}}
@@ -412,11 +412,11 @@ From {{etyl|enm|en}} {{m|enm|bred}}, {{m|enm|breed}}, from {{etyl|ang|en}} {{m|a
 *: Ancient: {{t|grc|ἄρτος|sc=polytonic}}, {{t|grc|σῖτος|m|sc=polytonic}}
 * Greenlandic: {{t|kl|iffiaq}}
 * Guaraní: {{t|gn|mbupaje}}
-* Gujarati: {{t|gu|રોટલી|tr=roṭlī|sc=Gujr}}
+* Gujarati: {{t|gu|રોટલી|sc=Gujr}}
 * Haitian Creole: {{t|ht|pen}}
 * Hawaiian: {{t|haw|palaoa}}
-* Hebrew: {{t+|he|לחם|m|tr=lekhem}}
-* Hindi: {{t+|hi|रोटी|f|tr=roṭī}}, {{t+|hi|नान|f|tr=nān|sc=Deva}}, {{t|hi|ब्रेड|tr=breḍ|sc=Deva}}
+* Hebrew: {{t+|he|לֶחֶם|m|tr=lekhem}}
+* Hindi: {{t+|hi|रोटी|f}}, {{t+|hi|नान|f|sc=Deva}}, {{t|hi|ब्रेड|sc=Deva}}
 * Hittite: {{t|hit|𒉒|tr=NÍNDA|sc=Xsux}}
 * Hungarian: {{t+|hu|kenyér}}
 * Icelandic: {{t+|is|brauð|n}}
@@ -461,7 +461,7 @@ From {{etyl|enm|en}} {{m|enm|bred}}, {{m|enm|breed}}, from {{etyl|ang|en}} {{m|a
 {{trans-mid}}
 * Luwian: {{t|xlu|𒉒|tr=NÍNDA|sc=Xsux}}
 * Lü: {{t|khb|ᦶᦖᧃᧈᦗᧁᧈ}}, {{t|khb|ᦃᧁᧉᦓᦳᧄᦔᧂ}}, {{t|khb|ᦃᧁᧉᦶᦖᧃᧈᦗᧁᧈ|sc=Talu}}
-* Macedonian: {{t|mk|леб|m|tr=leb}}
+* Macedonian: {{t|mk|леб|m}}
 * Malagasy: {{t+|mg|mofo}}, {{t+|mg|dipaina}}
 * Malay: {{t+|ms|roti}}
 * Malayalam: {{t+|ml|റൊട്ടി|sc=Mlym}}, {{t+|ml|അപൂപം|sc=Mlym}}
@@ -542,7 +542,7 @@ From {{etyl|enm|en}} {{m|enm|bred}}, {{m|enm|breed}}, from {{etyl|ang|en}} {{m|a
 * Tatar: {{t+|tt|икмәк|sc=Cyrl}}, {{t+|tt|ашлык|sc=Cyrl}}
 * Telugu: {{t+|te|బ్రెడ్|sc=Telu}}, {{t|te|బ్రెడ్డు|sc=Telu}}, {{t+|te|రొట్టె|sc=Telu}}
 * Tetum: {{t|tet|paun}}
-* Thai: {{t+|th|ขนมปัง|tr=kànŏm bpang}}, {{t+|th|ปัง|tr=bpang|sc=Thai}}
+* Thai: {{t+|th|ขนมปัง}}, {{t+|th|ปัง|sc=Thai}}
 * Tibetan: {{t|bo|གོ་རེ།|sc=Tibt}}
 * Turkish: {{t+|tr|ekmek}}, {{t+|tr|banak}}
 * Turkmen: {{t+|tk|çörek}}
@@ -564,7 +564,7 @@ From {{etyl|enm|en}} {{m|enm|bred}}, {{m|enm|breed}}, from {{etyl|ang|en}} {{m|a
 * Walloon: {{t+|wa|pwin|m}}, {{t+|wa|pan|m}}
 * Welsh: {{t+|cy|bara|m}}
 * West Frisian: {{t|fy|bôle|c}}, {{t|fy|brea|n}}
-* Yiddish: {{t+|yi|ברויט|n|tr=broyt|sc=Hebr}}
+* Yiddish: {{t+|yi|ברויט|n|sc=Hebr}}
 * Yup'ik: {{t|esu|avukaq}}, {{t|esu|kelipaq}}
 * Zarma: {{t|dje|buru}}
 * Zhuang: {{t|za|bouh}}
@@ -618,16 +618,17 @@ From {{etyl|enm|en}} {{m|enm|bred}}, {{m|enm|breed}}, from {{etyl|ang|en}} {{m|a
 {{trans-mid}}
 * Latvian: {{t|lv|kukuļ}}
 * Portuguese: {{t+|pt|massa|f}}, {{t|pt|guito|m}}, {{t+|pt|grana|f}}
-* Russian: {{t+|ru|ба́бки|p}}
+* Russian: {{t+|ru|ба́бки|f-p}}
 * Spanish: {{t+|es|pasta|f}} (Spain), {{t+|es|lana|f}} (Mexico), {{t+|es|plata|f}} (Argentina)
 * Swahili: {{t|sw|mkati}}
 * Turkish: {{t+|tr|ekmek parası}}
 {{trans-bottom}}
 
-{{trans-top|Food, sustenance, support of life, in general}}
+{{trans-top|food, sustenance, support of life, in general}}
 * French: {{t+|fr|pain|m}}
 * German: {{t+|de|Brot|n}}
 {{trans-mid}}
+* Russian: {{t+|ru|хлеб|m}}
 * Swahili: {{t+|sw|riziki|c9|c10}}
 {{trans-bottom}}
 
