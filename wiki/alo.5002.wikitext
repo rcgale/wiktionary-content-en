@@ -32,7 +32,7 @@
 ==Hawaiian==
 
 ===Etymology===
-From {{etyl|poz-pol-pro|haw}} {{m|poz-pol-pro|*qaro}}, from {{etyl|poz-oce-pro|haw}} {{m|poz-oce-pro|*qarop}}, from {{etyl|pqe-pro|haw}}, from {{etyl|poz-cet-pro|haw}}, from {{etyl|poz-pro|haw}} {{m|poz-pro|*qadəp}} (compare {{cog|id|hadap}}, {{cog|ms|hadap}}).
+From {{inh|haw|poz-pol-pro|*qaro}}, from {{inh|haw|poz-oce-pro|*qarop}}, from {{inh|haw|pqe-pro|-}}, from {{der|haw|poz-cet-pro|-}}, from {{inh|haw|poz-pro|*qadəp}} (compare {{cog|id|hadap}}, {{cog|ms|hadap}}).
 
 ===Noun===
 {{head|haw|noun}}
@@ -44,7 +44,7 @@ From {{etyl|poz-pol-pro|haw}} {{m|poz-pol-pro|*qaro}}, from {{etyl|poz-oce-pro|h
 ==Ilocano==
 
 ===Etymology===
-From {{etyl|phi-pro|ilo}}, from {{etyl|poz-pro|ilo}} {{m|poz-pro|*qahəlu}}, {{m|poz-pro|*laqəlu}}, from {{etyl|map-pro|ilo}} {{m|map-pro|*qaSəlu}}.
+From {{inh|ilo|phi-pro|-}}, from {{inh|ilo|poz-pro|*qahəlu}}, {{m|poz-pro|*laqəlu}}, from {{inh|ilo|map-pro|*qaSəlu}}.
 
 ===Noun===
 {{head|ilo|noun}}
@@ -82,8 +82,7 @@ From {{inh|la|itc-pro|*alō}}, from {{inh|la|ine-pro|*h₂életi||grow, nourish}
 #*: ''Bellum se ipsum '''alet'''''.
 #*:: The war '''will nourish''' itself.
 # I [[feed]], I [[maintain]], I [[develop]]
-#: ''[[homo|Hominum]] [[gratia]] [[genero|generatur]], '''aluntur''' [[bestia|bestiae]].''
-#:: It is for the sake of man that beasts are '''bred'''.
+#: {{ux|la|[[homo|Hominum]] [[gratia]] [[genero|generatur]], '''aluntur''' [[bestia|bestiae]].|It is for the sake of man that beasts are '''bred'''.}}
 
 ====Inflection====
 There are two possible conjugations; the difference lies within the non-finite and supine forms. 
@@ -91,29 +90,15 @@ There are two possible conjugations; the difference lies within the non-finite a
 {{la-conj-3rd|al|alu|alit}}
 
 ====Derived terms====
-{{top3}}
-* [[alesco|alescō]]
-* [[alibilis]]
-* [[alica]]
-* [[alimentum]]
-{{mid3}}
-* [[alimonia|alimōnia]]
-* [[almus]]
-* [[altor]]
-* [[altus]]
-{{mid3}}
-* [[alumnus]]
-* [[coalo|coalō]]
-* {{l|la|elementum}}
-{{bottom}}
+{{der4|alescō|alibilis|alica|alimentum|alimōnia|almus|altor|altus|alumnus|coalō|lang=la|elementum}}
 
 ====Related terms====
-* [[alicarius|alicārius]]
-* [[alimentarius|alimentārius]]
+* {{l|la|alicārius}}
+* {{l|la|alimentārius}}
 
 ====Descendants====
-* English: [[alimentary]]
-* Portuguese: alimentar
+* English: {{l|en|alimentary}}
+* Portuguese: {{l|pt|alimentar}}
 
 ====See also====
 * {{l|la|oleō}}
@@ -130,7 +115,7 @@ There are two possible conjugations; the difference lies within the non-finite a
 ==Old Saxon==
 
 ===Etymology===
-From {{inh|osx|gem-pro|*alu}}. Cognate with Old English ''[[ealu]]'', Middle Dutch [[ale]], Old High German ''al-'', Old Norse [[ǫl]] (Swedish [[öl]]).
+From {{inh|osx|gem-pro|*alu}}. Cognate with {{cog|ang|ealu}}, {{cog|dum|ale}}, {{cog|goh|al-}}, {{cog|non|ǫl}} ({{cog|sv|öl}}).
 
 ===Noun===
 {{osx-noun|g=n}}
@@ -149,8 +134,9 @@ From {{inh|osx|gem-pro|*alu}}. Cognate with Old English ''[[ealu]]'', Middle Dut
 ----
 
 ==Romanian==
+
 ===Etymology===
-From {{etyl|fr|ro}} {{m|fr|allô}}.
+{{bor|ro|fr|allô}}.
 
 ===Pronunciation===
 * {{IPA|/aˈlo/|lang=ro}}
