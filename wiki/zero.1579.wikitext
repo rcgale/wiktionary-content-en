@@ -67,7 +67,7 @@ From {{etyl|fr|en}} {{m|fr|zéro}}, from {{etyl|it|en}} {{m|it|zero}}, from {{et
 * Asturian: {{t+|ast|cero}}
 * Azeri: {{t+|az|sıfır}}
 * Belarusian: {{t|be|нуль|m}}
-* Bengali: {{t|bn|শূন্য|tr=śūnya|sc=Beng}}, {{qualifier|numeral}} {{t+|bn|০|sc=Beng}}
+* Bengali: {{t|bn|শূন্য|sc=Beng}}, {{qualifier|numeral}} {{t+|bn|০|sc=Beng}}
 * Breton: {{t+|br|mann}}, {{t+|br|zero}}
 * Bulgarian: {{t+|bg|ну́ла|f}}
 * Burmese: {{t+|my|သုည|sc=Mymr}}
@@ -75,7 +75,7 @@ From {{etyl|fr|en}} {{m|fr|zéro}}, from {{etyl|it|en}} {{m|it|zero}}, from {{et
 * Central Atlas Tamazight: {{t|tzm|ⴰⵎⵢⴰ|tr=amya}}
 * Chamorro: {{t|ch|tåya’}}
 * Chechen: {{t|ce|нул}}
-* Cherokee: {{t|chr|ᎧᏂᎩᏛ|tr=kanigidv|sc=Cher}}, {{t|chr|Ꮭ ᎪᎱᏍᏗ|tr=tla gohusdi|sc=Cher}}
+* Cherokee: {{t|chr|ᎧᏂᎩᏛ|sc=Cher}}, {{t|chr|Ꮭ ᎪᎱᏍᏗ|sc=Cher}}
 * Chinese:
 *: Cantonese: {{t|yue|零|tr=ling4|sc=Hani}}
 *: Mandarin: {{t+|cmn|零|tr=líng|sc=Hani}}, {{qualifier|numeral}} {{t+|cmn|〇|sc=Hani}}
@@ -96,10 +96,10 @@ From {{etyl|fr|en}} {{m|fr|zéro}}, from {{etyl|it|en}} {{m|it|zero}}, from {{et
 * Georgian: {{t|ka|ნული|sc=Geor}}
 * German: {{t+|de|null}}, {{t+|de|Null|f}}, {{t+|de|zero}}, {{t|de|Zero}}
 * Greek: {{t+|el|μηδέν|n}}
-* Gujarati: {{t|gu|મીંડું|tr=mīṇḍum|sc=Gujr}}, {{qualifier|numeral}} {{t|gu|૦|sc=Gujr}}, {{t+|gu|શૂન્ય|tr=śūnya|sc=Gujr}}
+* Gujarati: {{t|gu|મીંડું|sc=Gujr}}, {{qualifier|numeral}} {{t|gu|૦|sc=Gujr}}, {{t+|gu|શૂન્ય|sc=Gujr}}
 * Hawaiian: {{t|haw|ʻole}}
 * Hebrew: {{t+|he|אֶפֶס|m|tr=éffes|sc=Hebr}}
-* Hindi: {{t+|hi|शून्य|m|tr=śūnya}} (numeral: {{t|hi|०|sc=Deva}}), {{t|hi|ज़ीरो|sc=Deva}} {{qualifier|borrowing}}
+* Hindi: {{t+|hi|शून्य|m}} (numeral: {{t|hi|०|sc=Deva}}), {{t|hi|ज़ीरो|sc=Deva}} {{qualifier|borrowing}}
 * Hungarian: {{t+|hu|nulla}}, {{t+|hu|zéró}}
 * Icelandic: {{t+|is|núll}}
 * Ido: {{t+|io|zero}}
@@ -107,7 +107,7 @@ From {{etyl|fr|en}} {{m|fr|zéro}}, from {{etyl|it|en}} {{m|it|zero}}, from {{et
 * Interlingua: {{t+|ia|zero}}
 * Irish: {{t|ga|neamhní}}, {{t|ga|nialas}}, {{t+|ga|náid|f}}
 * Italian: {{t+|it|zero|m}}
-* Japanese: {{t+|ja|零|tr=[[れい]], rei|sc=Jpan}}, {{t+|ja|ゼロ|tr=zero|sc=Jpan}}, {{qualifier|numeral}} {{t|ja|〇|sc=Jpan}}
+* Japanese: {{t+|ja|零|tr=れい, rei|sc=Jpan}}, {{t+|ja|ゼロ|tr=zero|sc=Jpan}}, {{qualifier|numeral}} {{t|ja|〇|sc=Jpan}}
 * Kannada: {{t+|kn|ಸೊನ್ನೆ|sc=Knda}}, {{t+|kn|ಶೂನ್ಯ|sc=Knda}}
 * Karachay-Balkar: {{t|krc|ноль|tr=nol|sc=Cyrl}}
 * Karelian: {{t-needed|krl}}
@@ -147,7 +147,7 @@ From {{etyl|fr|en}} {{m|fr|zéro}}, from {{etyl|it|en}} {{m|it|zero}}, from {{et
 * Persian: {{t+|fa|صِفر|tr=sefr|sc=fa-Arab}}, {{qualifier|numeral}} {{t|fa|۰|sc=fa-Arab}}
 * Polish: {{t+|pl|zero|n}}
 * Portuguese: {{t+|pt|zero|m}}
-* Punjabi: {{t|pa|ਸਿਫ਼ਰ|tr=sifar|sc=Guru}}, {{qualifier|numeral}} {{t|pa|੦|sc=Guru}}
+* Punjabi: {{t|pa|ਸਿਫ਼ਰ|sc=Guru}}, {{qualifier|numeral}} {{t|pa|੦|sc=Guru}}
 * Quechua: {{t|qu|ch'usaq}}
 * Rapa Nui: {{t|rap|kokore}}
 * Romanian: {{t+|ro|zero|n}}
@@ -171,7 +171,7 @@ From {{etyl|fr|en}} {{m|fr|zéro}}, from {{etyl|it|en}} {{m|it|zero}}, from {{et
 * Tamil: {{t|ta|பூஜியம்|sc=Taml}}
 * Tatar: {{t+|tt|ноль|sc=Cyrl}}
 * Telugu: {{t+|te|సున్నా|sc=Telu}}, {{t+|te|శూన్యము|sc=Telu}}, {{qualifier|numeral}} {{t+|te|౦|sc=Telu}}
-* Thai: {{t+|th|ศูนย์|tr=súún|sc=Thai}}, {{qualifier|numeral}} {{t+|th|๐|sc=Thai}}
+* Thai: {{t+|th|ศูนย์|sc=Thai}}, {{qualifier|numeral}} {{t+|th|๐|sc=Thai}}
 * Tibetan: {{t|bo|ཀླད་ཀོར|sc=Tibt}}
 * Turkish: {{t+|tr|sıfır}}
 * Turkmen: {{t|tk|nol}}
@@ -185,7 +185,7 @@ From {{etyl|fr|en}} {{m|fr|zéro}}, from {{etyl|it|en}} {{m|it|zero}}, from {{et
 * Võro: {{t|vro|nulĺ}}
 * Welsh: {{t+|cy|sero|m}}
 * West Frisian: {{t+|fy|nul}}
-* Yiddish: {{t|yi|נול|tr=nul|sc=Hebr}}
+* Yiddish: {{t|yi|נול|sc=Hebr}}
 * Yup'ik: {{t|esu|caunateng}}
 {{trans-bottom}}
 
