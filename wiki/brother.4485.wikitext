@@ -111,7 +111,7 @@ The plural “brethren” is not used for biological brothers in contemporary En
 * Bashkir: {{t|ba|ағай|sc=Cyrl}} {{qualifier|elder}}; {{t|ba|ҡусты|sc=Cyrl}}, {{t|ba|эне|sc=Cyrl}}, {{t|ba|мырҙа|sc=Cyrl}} {{qualifier|younger}}
 * Basque: {{t|eu|anai}} {{qualifier|brother of a male}}, {{t+|eu|neba}} {{qualifier|brother of a female}}
 * Belarusian: {{t|be|брат|m}}
-* Bengali: {{t+|bn|ভাই|tr=bhai|sc=Beng}}, literary: {{t|bn|ভ্রাতা|tr=bhrata|sc=Beng}}
+* Bengali: {{t+|bn|ভাই|sc=Beng}}, literary: {{t|bn|ভ্রাতা|sc=Beng}}
 * Breton: {{t+|br|breur|m}}, {{t+|br|breudeur|p}}
 * Bulgarian: {{t+|bg|брат|m}}
 * Burmese: {{t|my|အကို|sc=Mymr}} {{gloss|elder}}, {{t+|my|ညီ|sc=Mymr}} {{gloss|younger}}
@@ -153,12 +153,12 @@ The plural “brethren” is not used for biological brothers in contemporary En
 * Gooniyandi: {{qualifier|elder}} {{t|gni|marna}}
 * Greek: {{t+|el|αδελφός|m}}
 *: Ancient: {{t|grc|ἀδελφός|m|sc=polytonic}}
-* Gujarati: {{t+|gu|ભાઈ|tr=bhāī}}
+* Gujarati: {{t+|gu|ભાઈ|m}}
 * Haitian Creole: {{t|ht|frè}}
 * Hausa: {{t|ha|ɗanuwa}}
 * Hawaiian: {{t|haw|kaikuaʻana}}
 * Hebrew: {{t+|he|אָח|m|tr=akh}}
-* Hindi: {{t+|hi|भाई|m|tr=bhāī}}, {{t+|hi|भ्राता|m|tr=bhrātā}}
+* Hindi: {{t+|hi|भाई|m}}, {{t+|hi|भ्राता|m}}
 * Hungarian: {{t+|hu|fivér}}, {{t+|hu|báty}} {{qualifier|elder brother}}, {{t+|hu|öcs}} {{qualifier|younger brother}}
 * Icelandic: {{t+|is|bróðir}}
 * Ido: {{t+|io|fratulo}}
@@ -184,7 +184,7 @@ The plural “brethren” is not used for biological brothers in contemporary En
 * Kashubian: {{t|csb|brat|m}}
 * Kazakh: {{qualifier|elder}} {{t+|kk|аға|sc=Cyrl}}, {{qualifier|younger}} {{t+|kk|іні|sc=Cyrl}}
 * Khmer: {{qualifier|elder}} {{t|km|បងប្រុស|tr=borng bproh|sc=Khmr}}, {{qualifier|younger}} {{t|km|ប្អូនប្រុស|tr=bpəōn bproh|sc=Khmr}}
-* Korean: {{t+|ko|형제|sc=Hang}}, {{t+|ko|형님|sc=Hang}}, {{t+|ko|오빠|sc=Hang}}, {{t+|ko|동생|sc=Hang}}, {{t+|ko|아우|sc=Hang}}
+* Korean: {{t+|ko|형제|sc=Hang}}, {{t+|ko|형님|sc=Hang}}, {{t+|ko|오빠|sc=Hang}}, {{t+|ko|남동생|sc=Hang}}, {{t+|ko|동생|sc=Hang}}, {{t+|ko|아우|sc=Hang}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|bira}}
 *: Northern Kurdish: {{t|kmr|бьра}}
@@ -213,7 +213,7 @@ The plural “brethren” is not used for biological brothers in contemporary En
 * Maltese: {{t+|mt|ħu}}
 * Manx: {{t|gv|braar|m}}
 * Maori: {{t|mi|tuakana}} {{qualifier|elder}}, {{t|mi|teina}} {{qualifier|younger}}, {{t|mi|tungāne}} {{qualifier|of a female}}, {{t|mi|taina}} {{qualifier|younger, of a male}}, {{t|mi|tuakana}} {{qualifier|older, of a male}}
-* Marathi: {{t|mr|भाऊ|m|tr=bhāū|sc=Deva}}
+* Marathi: {{t|mr|भाऊ|m|sc=Deva}}
 * Mazanderani: {{t|mzn|برار|tr=berâr}}
 * Mi'kmaq: {{t|mic|nidap}}
 * Mirandese: {{t|mwl|armano|m}}
@@ -253,10 +253,10 @@ The plural “brethren” is not used for biological brothers in contemporary En
 *: Kalo Finnish Romani: {{t|rmf|phal}}, {{t|rmf|praal}}
 * Romanian: {{t+|ro|frate|m}}
 * Romansch: {{t|rm|frar|m}}
-* Russian: {{t+|ru|брат|m}}, {{t+|ru|брата́н|m}} {{qual|colloquial}}
+* Russian: {{t+|ru|брат|m}}, {{t+|ru|бра́тец|m}} {{qualifier|colloquial}}, {{t+|ru|брати́шка|m}} {{qualifier|colloquial}}, {{t+|ru|брата́н|m}} {{qualifier|slang}}
 * Rusyn: {{t|rue|брат|m}}
 * Samoan: {{t-needed|sm}}
-* Sanskrit: {{t+|sa|भ्रातृ|m|tr=bhrā́tṛ}}
+* Sanskrit: {{t+|sa|भ्रातृ|m}}
 * Sardinian: {{t|sc|fràde|m}}
 * Scots: {{t|sco|brither}}, {{t|sco|brar}}
 * Scottish Gaelic: {{t+|gd|bràthair|m}}
@@ -287,7 +287,7 @@ The plural “brethren” is not used for biological brothers in contemporary En
 * Taos: {{t|twf|p’ǫ́yna}} (younger), {{t|twf|pòpóna}} (elder)
 * Tatar: {{qualifier|elder}} {{t+|tt|абый|sc=Cyrl}}, {{t+|tt|абзый|sc=Cyrl}}, {{qualifier|younger}} {{t+|tt|эне|sc=Cyrl}}
 * Telugu: {{t+|te|సోదరుడు|sc=Telu}}
-* Thai: {{t+|th|พี่|tr=pêe}} {{qualifier|elder}}, {{t|th|พี่ชาย|tr=pêe chaai}} {{qualifier|elder}}, {{t+|th|น้อง|tr=nóng}} {{qualifier|younger}}, {{t|th|น้องชาย|tr=nóng chaai}} {{qualifier|younger}}, {{t+|th|ภราดร|tr=páraadon}}, {{t+|th|ภราดา|tr=páraadaa}}
+* Thai: {{t+|th|พี่}} {{qualifier|elder}}, {{t|th|พี่ชาย}} {{qualifier|elder}}, {{t+|th|น้อง}} {{qualifier|younger}}, {{t|th|น้องชาย}} {{qualifier|younger}}, {{t+|th|ภราดร}}, {{t+|th|ภราดา}}
 * Tibetan: {{t|bo|ཇོ་ཇོ|sc=Tibt}} {{qualifier|older}}, {{t|bo|ཅོ་ཅོག|sc=Tibt}} {{qualifier|older}}, {{t|bo|ཇོ་ལགས|sc=Tibt}} {{qualifier|older, honorific}}, {{t|bo|འོག་མ|sc=Tibt}} {{qualifier|younger}}, {{t|bo|ནུ་བོ|sc=Tibt}} {{qualifier|younger}}, {{t|bo|ཨོ་ལགས|sc=Tibt}} {{qualifier|younger, honorific}}
 * Tigrinya: {{t|ti|ሓወ|sc=Ethi}}
 * Tocharian A: {{t|xto|pracar}}
@@ -312,7 +312,7 @@ The plural “brethren” is not used for biological brothers in contemporary En
 * Wolof: {{t|wo|mag ju góor}}, {{t|wo|ràkk ju góor}}, {{t|wo|càmmiñ}}
 * Xhosa: {{t|xh|ubhuti}}, {{t|xh|umntase}}, {{t|xh|umnakwe}}
 * Yakut: {{t|sah|убай|sc=Cyrl}}, {{t|sah|бий|sc=Cyrl}}, {{t|sah|быраат|sc=Cyrl}}, {{t|sah|ини|sc=Cyrl}}
-* Yiddish: {{t|yi|ברודער|m|tr=bruder}}
+* Yiddish: {{t|yi|ברודער|m}}
 * Yoruba: {{t|yo|arakunrin}}
 * Zhuang: {{t|za|beix}} {{qualifier|elder}}, {{t|za|nuengx}} {{qualifier|younger}}, {{t|za|beixneungx}} {{qualifier|brothers}}
 * Zulu: {{t|zu|ubhuti}}
@@ -449,11 +449,9 @@ The plural “brethren” is not used for biological brothers in contemporary En
 * Marathi: {{t-check|mr|भाऊ|tr=bhāu|?}}
 * Mi'kmaq: {{t-check|mic|nidap}}
 * Norwegian: {{qualifier|1}} {{t-check|no|bror}}, {{qualifier|little brother; 1}} {{t-check|no|lillebror}}, {{qualifier|big brother; 1}} {{t-check|no|storebror}}, {{qualifier|elder form/formal}} {{t-check|no|Broder}}, {{qualifier|stepbrother; 2}} {{t-check|no|stebror}}, {{qualifier|half-brother; 2}} {{t-check|no|halvbror}}
-* Persian: {{t+check|fa|بَرادَر|tr=bærādær}}
 * Sanskrit: {{t-check|sa|बंधू|tr=bandhu|sc=Deva}}
-* Telugu: {{t+check|te|అన్న}} (anna), {{t+check|te|అన్నయ్య}} (annayya, ''elder brother''), {{t+check|te|తమ్ముడు}} (tammuddu, ''younger brother'')
+* Telugu: {{t+check|te|అన్న}}, {{t+check|te|అన్నయ్య}} (''elder brother''), {{t+check|te|తమ్ముడు}} (''younger brother'')
 * Tupinambá: {{qualifier|brother of a female; 1}} {{t-check|tpn|kybyra}}, {{qualifier|younger brother of a male; t-, t-}} {{t-check|tpn|ybyra}}, {{qualifier|elder brother of a male; t-, t-}} {{t-check|tpn|yke'yra}}
-* Vietnamese: {{t-check|vi|anh}}, {{qualifier|younger}} {{t-check|vi|em}} (1,2)
 * Xhosa: {{t-check|xh|bhuti}}
 {{trans-bottom}}
 
