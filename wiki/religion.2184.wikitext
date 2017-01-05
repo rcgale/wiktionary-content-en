@@ -84,13 +84,13 @@ From {{etyl|xno|en}} {{m|fro|religiun}}, from {{etyl|fro|en}} {{m|fro|religion}}
 * Bashkir: {{t|ba|дин}}
 * Basque: {{t|eu|erlijio}}
 * Belarusian: {{t|be|рэлі́гія|f|sc=Cyrl}}
-* Bengali: {{t+|bn|ধর্ম|tr=dhôrmô|sc=Beng}}
-* Bulgarian: {{t+|bg|религия|f}}, {{t+|bg|вероизповеда́ние|n|sc=Cyrl}}
+* Bengali: {{t+|bn|ধর্ম|sc=Beng}}
+* Bulgarian: {{t+|bg|рели́гия|f}}, {{t+|bg|вероизповеда́ние|n|sc=Cyrl}}
 * Burmese: {{t+|my|အယူဝါဒ|sc=Mymr}}
 * Catalan: {{t+|ca|religió|f}}
 * Chechen: {{t|ce|дин}}
 * Chinese:
-*: Cantonese: {{t|yue|宗教|tr=zung1 gaau3|sc=Hant}}
+*: Cantonese: {{t|yue|宗教|tr=zung1 gaau3|sc=Hani}}
 *: Mandarin: {{t+|cmn|宗教|tr=zōngjiào|sc=Hani}}
 *: Min Nan: {{t+|nan|宗教|tr=chong-kàu|sc=Hani}}
 * Chuvash: {{t|cv|тӗн|sc=Cyrl}}
@@ -109,9 +109,9 @@ From {{etyl|xno|en}} {{m|fro|religiun}}, from {{etyl|fro|en}} {{m|fro|religion}}
 * Guaraní: {{t|gn|tupãrape}}
 * Gujarati: {{t|gu|ધર્મ}}
 * Haitian Creole: {{t|ht|relijyon}}
-* Hebrew: {{t+|he|דת|f|tr=dat}}
+* Hebrew: {{t+|he|דָּת|f|tr=dat}}
 * Hiligaynon: {{t|hil|relihiyon}}
-* Hindi: {{t+|hi|धर्म|m|tr=dharm}}, {{t+|hi|दीन|m|tr=dīn}}, {{t|hi|मज़हब|m|tr=mazhab|sc=Deva}}
+* Hindi: {{t+|hi|धर्म|m}}, {{t+|hi|दीन|m}}, {{t|hi|मज़हब|m|sc=Deva}}
 * Hungarian: {{t+|hu|vallás}}
 * Icelandic: {{t+|is|trúarbrögð|n-p}}
 * Ido: {{t+|io|religio}}
@@ -120,7 +120,6 @@ From {{etyl|xno|en}} {{m|fro|religiun}}, from {{etyl|fro|en}} {{m|fro|religion}}
 * Irish: {{t|ga|creideamh|m}}, {{t|ga|reiligiún|f}}
 * Italian: {{t+|it|religione|f}}
 * Japanese: {{t+|ja|宗教|tr=しゅうきょう, shūkyō}}
-* Norman: {{t|nrf|r'ligion|f}}
 * Kannada: {{t+|kn|ಧರ್ಮ|sc=Knda}}
 * Kazakh: {{t|kk|дин|sc=Cyrl}}
 * Khmer: {{t+|km|សាសនា|tr=saasnaa|sc=Khmr}}
@@ -149,6 +148,7 @@ From {{etyl|xno|en}} {{m|fro|religiun}}, from {{etyl|fro|en}} {{m|fro|religion}}
 * Mirandese: {{t|mwl|religion|f}}
 * Mongolian: {{t+|mn|шашин|sc=Cyrl}}
 * Navajo: {{t|nv|nahaghá}}
+* Norman: {{t|nrf|r'ligion|f}}
 * Norwegian:
 *: Bokmål: {{t+|nb|religion|m}}, {{t|nb|trosretning|m|f}}
 *: Nynorsk: {{t|nn|religion|m}}
@@ -166,7 +166,7 @@ From {{etyl|xno|en}} {{m|fro|religiun}}, from {{etyl|fro|en}} {{m|fro|religion}}
 * Russian: {{t+|ru|рели́гия|f}}, {{t+|ru|ве́ра|f}}, {{t+|ru|вероиспове́дание|n}}
 * Rusyn: {{t|rue|релі́ґія|f}}
 * Samogitian: {{t|sgs|viera|f}}
-* Sanskrit: {{t+|sa|धर्म|m|tr=dharma}}
+* Sanskrit: {{t+|sa|धर्म|m}}
 * Santali: {{t|sat|ᱫᱤᱱ|tr=din|sc=Olck}}
 * Scots: {{t|sco|releegion}}
 * Scottish Gaelic: {{t|gd|creideamh|m}}, {{t|gd|diadhachd|f}}
@@ -186,7 +186,7 @@ From {{etyl|xno|en}} {{m|fro|religiun}}, from {{etyl|fro|en}} {{m|fro|religion}}
 * Tamil: {{t+|ta|சமயம்}}
 * Tatar: {{t+|tt|дин}}
 * Telugu: {{t+|te|మతము}}
-* Thai: {{t+|th|ศาสนา|tr=sàat-sà-năa}}
+* Thai: {{t+|th|ศาสนา}}
 * Tibetan: {{t|bo|ཆོས་ལུགས|sc=Tibt}}
 * Turkish: {{t+|tr|din}}, {{t+|tr|inanç}}, {{t|tr|bağlanç}}
 * Turkmen: {{t|tk|din}}
@@ -201,7 +201,7 @@ From {{etyl|xno|en}} {{m|fro|religiun}}, from {{etyl|fro|en}} {{m|fro|religion}}
 * Welsh: {{t+|cy|crefydd}}
 * West Frisian: {{t+|fy|religy|c}}
 * Yakut: {{t|sah|итэҕэл}}
-* Yiddish: {{t|yi|רעליגיע|f|tr=religye}}
+* Yiddish: {{t|yi|רעליגיע|f}}
 * Zazaki: {{qualifier|Southern Zazaki}} {{t|zza|din}}
 {{trans-bottom}}
 
@@ -210,7 +210,6 @@ From {{etyl|xno|en}} {{m|fro|religiun}}, from {{etyl|fro|en}} {{m|fro|religion}}
 * Albanian: {{t-check|sq|fe|f}}
 * Bulgarian: {{t+check|bg|рели́гия|f|sc=Cyrl}}
 * Esperanto: {{t-check|eo|religio}}
-* Hindi: {{t+check|hi|धर्म|m|tr=dharm|sc=Deva}}, {{t-check|hi|मज़हब|m|tr=mazhab|sc=Deva}}
 * Interlingua: {{t-check|ia|religion}}
 {{trans-mid}}
 * Latin: {{t+check|la|religio|f}}
