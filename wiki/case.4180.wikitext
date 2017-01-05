@@ -1,11 +1,11 @@
 {{also|CASE|Case|casé|cáse|cåse|cåsĕ}}
 ==English==
-{{wikipedia|dab=case}}
 
 ===Pronunciation===
 * {{IPA|/keɪs/|lang=en}}
 * {{audio|en-us-case.ogg|Audio (US)|lang=en}}
 * {{rhymes|eɪs|lang=en}}
+* {{hyphenation|case|lang=en}}
 
 ===Etymology 1===
 From {{etyl|enm|en}} {{m|enm|cas}}, from {{etyl|fro|en}} {{m|fro|cas||an event}}, from {{etyl|la|en}} {{m|la|casus||a falling, a fall; accident, event, occurrence; occasion, opportunity; noun case}}, perfect passive participle of {{m|la|cado||to fall, to drop}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*kad-||to fall}}.
@@ -60,21 +60,24 @@ From {{etyl|enm|en}} {{m|enm|cas}}, from {{etyl|fro|en}} {{m|fro|cas||an event}}
 * {{l|en|befall}}
 * {{l|en|grammatical case}}
 
-=====Derived terms=====
-{{der-top}}
-* {{l|en|be the case}}
-* {{l|en|case study}}
-* {{l|en|Case}}
-* {{l|en|court case}}
-{{der-mid}}
-* {{l|en|hard case}}
-* {{l|en|in case}}
-* {{l|en|just in case}}
-* {{l|en|make a case}}
-{{der-bottom}}
-
 =====Hyponyms=====
+* {{l|en|court case}}
 * See also [[Wikisaurus:grammatical case]]
+
+=====Derived terms=====
+* {{l|en|best-case}}
+* {{l|en|worst-case}}
+
+=====Related terms=====
+{{rel4
+| {{l|en|be the case}}
+| {{l|en|case study}}
+| {{l|en|Case}}
+| {{l|en|hard case}}
+| {{l|en|in case}}
+| {{l|en|just in case}}
+| {{l|en|make a case}}
+}}
 
 =====Translations=====
 {{trans-top|actual event, situation, or fact}}
@@ -210,8 +213,11 @@ From {{etyl|enm|en}} {{m|enm|cas}}, from {{etyl|fro|en}} {{m|fro|cas||an event}}
 
 {{checktrans-top}}
 * Georgian: {{t+check|ka|ბრუნვა}}
-{{trans-mid}}
-{{trans-bottom}}
+{{checktrans-mid}}
+{{checktrans-bottom}}
+
+===References===
+* {{pedia|dab=case}}
 
 ====Verb====
 {{en-verb|cas}}
