@@ -1,5 +1,4 @@
 ==English==
-{{wikipedia}}
 
 ===Etymology===
 From {{etyl|fro|en}} {{m|fro|crimne}} (French {{m|fr|crime}}), from {{etyl|la|en}} {{m|la|crimen}}.
@@ -30,35 +29,40 @@ From {{etyl|fro|en}} {{m|fro|crimne}} (French {{m|fr|crime}}), from {{etyl|la|en
 * {{sense|criminal acts collectively}} {{l|en|delinquency}}, {{l|en|crime rate}}, {{l|en|criminality}}
 
 ====Hyponyms====
-* {{l|en|criminal act}}
-* {{l|en|felony}}
-* {{l|en|misdemeanor}}
-* {{l|en|offence}}
-* {{l|en|petty crime}}
-* {{l|en|regulatory offence}}
-* {{l|en|summary offence}}
+{{hyp4
+| {{l|en|criminal act}}
+| {{l|en|felony}}
+| {{l|en|crime against humanity}}
+| {{l|en|crime against nature}}
+| {{l|en|international crime}}
+| {{l|en|misdemeanor}}
+| {{l|en|offence}}
+| {{l|en|organised crime}}
+| {{l|en|organized crime}}
+| {{l|en|petty crime}}
+| {{l|en|regulatory offence}}
+| {{l|en|sexual offence}}
+| {{l|en|summary crime}}|
+| {{l|en|war crime}}
+| {{l|en|white collar crime}}
+}}
 
 ====Derived terms====
-{{rel-top3|Terms derived from "crime"}}
-* {{l|en|crime against humanity}}
-* {{l|en|crime against nature}}
-* {{l|en|crimebuster}}
-* {{l|en|crime index}}
-* {{l|en|crime mapping}}
-* {{l|en|crime rate}}
-{{rel-mid3}}
-* {{l|en|criminal}}
-* {{l|en|criminal law}}
-* {{l|en|criminal record}}
-* {{l|en|criminology}}
-* {{l|en|decriminalization}}
-* {{l|en|international crime}}
-{{rel-mid3}}
-* {{l|en|organised crime}} / [[organized crime]]
-* {{l|en|sexual crime}}
-* {{l|en|war crime}}
-* {{l|en|white collar crime}}
-{{rel-bottom}}
+{{der4
+| {{l|en|crimebuster}}
+| {{l|en|criminal}}
+| {{l|en|criminology}}
+| {{l|en|decriminalization}}
+}}
+
+====Related terms====
+{{rel4
+| {{l|en|crime index}}
+| {{l|en|crime mapping}}
+| {{l|en|crime rate}}
+| {{l|en|criminal law}}
+| {{l|en|criminal record}}
+}}
 
 ====Translations====
 {{trans-top|act violating the law}}
@@ -243,13 +247,16 @@ From {{etyl|fro|en}} {{m|fro|crimne}} (French {{m|fr|crime}}), from {{etyl|la|en
 * Indonesian: {{t+check|id|jahat|alt=kejahatan}}
 * Lithuanian: {{t+check|lt|nusikaltimas|m}}
 * Malayalam: {{t-check|ml|കുറ്റം}}, {{t-check|ml|കുറ്റകൃത്യം}}
-{{trans-mid}}
+{{checktrans-mid}}
 * Manchu: {{t-check|mnc|weile}}
 * Persian: {{t+check|fa|بزه|tr=bezeh}}, {{t+check|fa|جرم|tr=jorm}}
 * Romanian: {{t-check|ro|infracțiune|f}}, {{t-check|ro|delict|n}}
 * Telugu: {{t-check|te|నేరప్రవృత్తి|sc=Telu}}
 * {{ttbc|tr}}: [[suç]] [çu]
-{{trans-bottom}}
+{{checktrans-bottom}}
+
+====References====
+* {{pedia}}
 
 ===Verb===
 {{en-verb|crim|es}}
@@ -265,7 +272,7 @@ From {{etyl|fro|en}} {{m|fro|crimne}} (French {{m|fr|crime}}), from {{etyl|la|en
 
 [[Category:en:Crime]]
 
-----
+---|
 
 ==French==
 
