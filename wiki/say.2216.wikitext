@@ -93,14 +93,14 @@ From {{etyl|enm|en}} {{m|enm|seyen}}, {{m|enm|seien}}, {{m|enm|seggen}}, from {{
 *: Tashelhit: {{t|shi|ini}}
 * Brahui: {{t|brh|par}}
 * Breton: {{t+|br|lavaret}}
-* Bulgarian: {{t+|bg|казвам}}
+* Bulgarian: {{t+|bg|ка́звам|impf}}
 * Burmese: {{t+|my|ဆို|sc=Mymr}}
 * Catalan: {{t+|ca|dir}}
 * Chinese:
 *: Mandarin: {{t+|cmn|說|sc=Hani}}, {{t+|cmn|说|tr=shuō|sc=Hani}} {{qualifier|say, speak, pronounce}}, {{t+|cmn|告訴|sc=Hani}}, {{t+|cmn|告诉|tr=gàosu|sc=Hani}} {{qualifier|tell (somebody)}}
-*: Min Dong: {{t|cdo|讲|tr=goung|sc=Hani}}
+*: Min Dong: {{t|cdo|講|sc=Hani}}, {{t|cdo|讲|tr=kóng, káng|sc=Hani}}
 * Cornish: {{t|kw|leverel}}, {{t|kw|lawl}}
-* Czech: {{t+|cs|říct}}, {{t|cs|povědět}}
+* Czech: {{t+|cs|říct|impf}}, {{t|cs|povědět|pf}}
 * Dalmatian: {{t|dlm|decro}}
 * Danish: {{t|da|sige}}
 * Dutch: {{t+|nl|zeggen}}, {{t+|nl|luiden}}, {{t+|nl|opzeggen}}
@@ -120,8 +120,8 @@ From {{etyl|enm|en}} {{m|enm|seyen}}, {{m|enm|seien}}, {{m|enm|seggen}}, from {{
 * Georgian: {{t|ka|თქმა}}, {{t|ka|ლაპარაკი}}
 * German: {{t+|de|sagen}}
 *: Alemannic German: {{t|gsw|säge}}
-* Hebrew: {{t+|he|אמר|tr=amár}}
-* Hindi: {{t+|hi|कहना|tr=kahnā}}
+* Hebrew: {{t+|he|אָמַר|tr=amár}}
+* Hindi: {{t+|hi|कहना}}
 * Hungarian: {{t+|hu|mond}}
 * Icelandic: {{t+|is|segja}}
 * Indonesian: {{t+|id|berkata}}, {{t+|id|bicara}}
@@ -131,7 +131,6 @@ From {{etyl|enm|en}} {{m|enm|seyen}}, {{m|enm|seien}}, {{m|enm|seggen}}, from {{
 * Isan: {{t-needed|tts}}
 * Italian: {{t+|it|dire}}, {{t+|it|aio}}
 * Japanese: {{t+|ja|言う|tr=[[いう]], iu}}, {{t|ja|語る|tr=かたる, kataru}}, {{t+|ja|おっしゃる|tr=ossharu}} {{qualifier|honorific}}, {{t+|ja|申す|tr=もうす, mōsu}} {{qualifier|humble}}, {{t|ja|申し上げる|tr=もうしあげる, mōshi-ageru}} {{qualifier|humble}}
-* Norman: {{t|nrf|dithe}}
 * Khmer: {{t+|km|ថា|tr=tʰaa|sc=Khmr}}, {{t|km|និយាយថា|tr=ni’yiey tʰaa|sc=Khmr}}
 {{trans-mid}}
 * Khün: {{t-needed|kkh}}
@@ -143,10 +142,11 @@ From {{etyl|enm|en}} {{m|enm|seyen}}, {{m|enm|seien}}, {{m|enm|seggen}}, from {{
 * Lithuanian: {{t+|lt|sakyti}}
 * Lojban: {{t+|jbo|bacru}}
 * Lü: {{t|khb|ᦞᦱᧈ}}
-* Macedonian: {{t|mk|каже}}
+* Macedonian: {{t|mk|каже|impf}}
 * Malay: {{t+|ms|kata}}, {{t|ms|cakap}}
 * Malayalam: {{t|ml|പറയുന്നു|sc=Mlym}}, {{t|ml|ശബ്ദിക്കുന്നു|sc=Mlym}}
 * Manx: {{t|gv|abbyr}}
+* Norman: {{t|nrf|dithe}}
 * Northern Thai: {{t-needed|nod}}
 * Norwegian:
 *: Norwegian Bokmål: {{t+|nb|si}}
@@ -158,27 +158,27 @@ From {{etyl|enm|en}} {{m|enm|seyen}}, {{m|enm|seien}}, {{m|enm|seggen}}, from {{
 * Old Saxon: {{t|osx|seggian}}
 * Ottoman Turkish: {{t|ota|سویله‌مك|tr=söylemek|sc=ota-Arab}}
 * Persian: {{t+|fa|گفتن|tr=goftan}}
-* Polish: {{t+|pl|mówić|impf}}, {{t+|pl|powiadać|impf}}, {{t+|pl|powiedzieć|pf}}, {{t+|pl|wymawiać}}, {{t+|pl|rzec}}
+* Polish: {{t+|pl|mówić|impf}}, {{t+|pl|powiadać|impf}}, {{t+|pl|powiedzieć|pf}}, {{t+|pl|wymawiać}}, {{t+|pl|rzec|impf}}
 * Portuguese: {{t+|pt|dizer}}, {{t+|pt|falar}}
 * Quechua: {{t|qu|ñiy}}, {{t|qu|nii}}
 * Rapa Nui: {{t|rap|ki}}
 * Romanian: {{t+|ro|zice}}, {{t+|ro|spune}}
 * Romansch: {{t|rm|dir}}, {{t|rm|deir}}, {{t|rm|gir}}
 * Russian: {{t+|ru|говори́ть|impf}}, {{t+|ru|сказа́ть|pf}}
-* Sanskrit: {{t+|sa|वदति|tr=vadati|sc=Deva}}
+* Sanskrit: {{t+|sa|वदति|sc=Deva}}
 * Sardinian: {{t|sc|nàrrere}}, {{t|sc|narri}}, {{t|sc|faedhare}}
 *: Campidanese: {{t|sc|fueddai}}, {{t|sc|narai}}
 *: Logudorese: {{t|sc|faeddare}}
 * Sassarese: {{t|sdc|fabiddà}}
 * Scottish Gaelic: {{t|gd|abair}}, {{t|gd|can}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|рећи|sc=Cyrl}}, {{t|sh|говорити|sc=Cyrl}}, {{t|sh|казати|sc=Cyrl}}
-*: Roman: {{t+|sh|rȅći}}, {{t+|sh|govoriti}}, {{t+|sh|kázati}}
+*: Cyrillic: {{t|sh|рећи|impf|sc=Cyrl}}, {{t|sh|говорити|impf|sc=Cyrl}}, {{t|sh|казати|pf|sc=Cyrl}}
+*: Roman: {{t+|sh|rȅći|impf}}, {{t+|sh|govoriti|impf}}, {{t+|sh|kázati|pf}}
 * Shan: {{t-needed|shn}}
 * Sicilian: {{t+|scn|diri}}, {{t+|scn|dìciri}}
 * Sinhalese: {{t|si|කියනවා|sc=Sinh}}
-* Slovak: {{t|sk|hovoriť}}, {{t|sk|povedať}}
-* Slovene: {{t+|sl|reči}}, {{t+|sl|povedati}}
+* Slovak: {{t|sk|hovoriť|impf}}, {{t|sk|povedať|pf}}
+* Slovene: {{t+|sl|reči|impf}}, {{t+|sl|povedati|pf}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|groniś}}
 * Spanish: {{t+|es|decir}}
@@ -186,14 +186,14 @@ From {{etyl|enm|en}} {{m|enm|seyen}}, {{m|enm|seien}}, {{m|enm|seggen}}, from {{
 * Swedish: {{t+|sv|säga}}
 * Tagalog: {{t+|tl|sabihin}}, {{t|tl|magsabi}}
 * Tai Dam: {{t-needed|blt}}
-* Thai: {{t+|th|กล่าว|tr=glàao}}
+* Thai: {{t+|th|กล่าว}}
 * Turkish: {{t+|tr|söylemek}}
 * Ukrainian: {{t+|uk|говори́ти|impf}}, {{t|uk|каза́ти|impf}}, {{t|uk|сказа́ти|pf}}
 * Urdu: {{t|ur|کہنا|tr=kahnā}}
 * Vietnamese: {{t+|vi|nói}}
 * Walloon: {{t+|wa|dire}}
 * West Frisian: {{t|fy|útsprekke}}
-* Yiddish: {{t|yi|זאָגן|tr=zogn|sc=Hebr}}
+* Yiddish: {{t|yi|זאָגן|sc=Hebr}}
 * Zhuang: {{t-needed|za}}
 {{trans-bottom}}
 
@@ -223,7 +223,7 @@ From {{etyl|enm|en}} {{m|enm|seyen}}, {{m|enm|seien}}, {{m|enm|seggen}}, from {{
 *: Lower Sorbian: {{t|dsb|groniś}}
 * Turkish: {{t+|tr|söylemek}}, {{t+|tr|okumak}}
 * Walloon: {{t+|wa|dire}}
-* Yiddish: {{t|yi|זאָגן|tr=zogn|sc=Hebr}}
+* Yiddish: {{t|yi|זאָגן|sc=Hebr}}
 {{trans-bottom}}
 
 {{trans-top|to communicate verbally or in writing}}
