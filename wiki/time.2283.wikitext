@@ -1501,7 +1501,7 @@ Typical collocations with '''time''' or time expressions.
 * Baluchi: {{t|bal|وہد|tr=vahd}}
 * Bashkir: {{t|ba|ваҡыт}}
 * Belarusian: {{t|be|час|m}}
-* Bengali: {{t|bn|সময়|tr=shômôẏ|sc=Beng}}
+* Bengali: {{t|bn|সময়|sc=Beng}}
 * Breton: {{t+|br|amzer|f}}
 * Bulgarian: {{t+|bg|вре́ме|n}}
 * Burmese: {{t+|my|အချိန်}}
@@ -1539,8 +1539,8 @@ Typical collocations with '''time''' or time expressions.
 *: Ancient: {{t|grc|χρόνος|m}}
 * Gujarati: {{t+|gu|સમય|tr=samay|sc=Gujr}}
 * Hausa: {{t+|ha|lokaci}}
-* Hebrew: {{t+|he|זמן|m|tr=zman}}
-* Hindi: {{t+|hi|समय|m|tr=samay}}, {{t|hi|वक़्त|m|sc=Deva}}
+* Hebrew: {{t+|he|זְמָן|m|tr=z'man}}
+* Hindi: {{t+|hi|समय|m}}, {{t|hi|वक़्त|m|sc=Deva}}
 * Hungarian: {{t+|hu|idő}}
 * Icelandic: {{qualifier|usually in definite form}} {{t+|is|tími|m}}, {{t+|is|tíð|f}}
 * Ido: {{t+|io|tempo}}
@@ -1623,7 +1623,7 @@ Typical collocations with '''time''' or time expressions.
 * Tajik: {{t+|tg|замон}}, {{t+|tg|вақт}}
 * Tamil: {{t+|ta|காலம்}}
 * Telugu: {{t+|te|సంఘటన}}
-* Thai: {{t+|th|เวลา|tr=waylaa}}
+* Thai: {{t+|th|เวลา}}
 * Tibetan: {{t|bo|དུས་ཚོད}}
 * Tocharian A: {{t|xto|praṣt}}
 * Tok Pisin: {{t|tpi|taim}}
@@ -1665,8 +1665,8 @@ Typical collocations with '''time''' or time expressions.
 * Georgian: {{t+|ka|დრო|sc=Geor}}
 * German: {{t+|de|Zeit|f}}
 * Greek: {{t+|el|χρόνος|m}}, {{t+|el|ώρα|f}}
-* Hebrew: {{t+|he|זמן|m|tr=zman}}
-* Hindi: {{t+|hi|समय|m|tr=samay}}, {{t|hi|वक़्त|m|tr=vaqt}}
+* Hebrew: {{t+|he|זְמָן|m|tr=z'man}}
+* Hindi: {{t+|hi|समय|m}}, {{t|hi|वक़्त|m}}
 * Hungarian: {{t+|hu|idő}}
 * Icelandic: {{t+|is|tími|m}}
 * Irish: {{t+|ga|am}}
@@ -1693,7 +1693,7 @@ Typical collocations with '''time''' or time expressions.
 * Pitcairn-Norfolk: {{t|pih|tiem}}
 * Polish: {{t+|pl|czas|m-in}}
 * Portuguese: {{t+|pt|tempo|m}}
-* Punjabi: {{t|pa|ਸਮਾਂ|tr=samān|m}}
+* Punjabi: {{t|pa|ਸਮਾਂ|m}}
 * Romanian: {{t+|ro|timp}}
 * Romansch: {{t|rm|peda|f}}, {{t|rm|peada|f}}, {{t|rm|peida|f}}
 * Russian: {{t+|ru|вре́мя|n}}
@@ -1703,10 +1703,10 @@ Typical collocations with '''time''' or time expressions.
 *: Lower Sorbian: {{t|dsb|cas|m}}
 * Spanish: {{t+|es|tiempo|m}}
 * Tagalog: {{t|tl|tion}}
-* Thai: {{t+|th|เวลา|tr=waylaa}}
+* Thai: {{t+|th|เวลา}}
 * Turkish: {{t+|tr|vakit}}
 * Ukrainian: {{t+|uk|час|m}}
-* Urdu: {{t|ur|وقت|m}}
+* Urdu: {{t|ur|وقت|m|tr=vaqt}}
 * Venetian: {{t|vec|tènp|m}}
 * Vietnamese: {{t+|vi|thời gian}} ({{t|vi|時間|sc=Hani}})
 * West Frisian: {{t+|fy|tiid}}
