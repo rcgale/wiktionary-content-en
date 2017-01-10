@@ -9,14 +9,18 @@
 From {{etyl|fiu-ugr-pro|hu}} {{m|fiu-ugr-pro|*sawɜ}} or {{etyl|otk|hu}} [[söz]].
 
 ====Noun====
-{{hu-noun|pl=szavak}}
+{{hu-noun|pl=szavak|alt=szók}}
 
-# [[word]] {{gloss|smallest unit of language which has a particular meaning}}
+# {{lb|hu|linguistics}} [[word]] {{gloss|smallest unit of language which has a particular meaning}}
 # [[word]] {{gloss|promise; oath or guarantee}}
-#: {{ux|hu|Soha nem szegi meg a '''szavát'''.|He/she never breaks his/her word.|inline=1}}
+#: {{ux|hu|Sosem szegjük meg a '''szavunkat'''.|We never break our '''word'''.|inline=1}}
+# [[sound]]
+#: {{ux|hu|muzsika'''szó'''|'''sound''' of music|inline=1}}
 
 =====Declension=====
 {{hu-infl-nom|szava|o|-|stem2=szó}}{{hu-pos-atok|szav||ai}}
+or
+{{hu-infl-nom|szó|o}}{{hu-pos-tok|szó}}
 
 =====Derived terms=====
 * {{l|hu|szól}}
