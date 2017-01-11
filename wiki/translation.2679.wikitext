@@ -51,13 +51,13 @@ From {{etyl|xno|en}} {{m|fro|translacioun}}, from {{etyl|fro|en}} {{m|fro|transl
 
 ====Translations====
 {{trans-top|act of translating between languages}}
-* Albanian: {{t+|sq|përkthim}}
+* Albanian: {{t+|sq|përkthim|m}}
 * Arabic: {{t+|ar|تَرْجَمَة|f}}
 * Armenian: {{t+|hy|թարգմանություն}}
 * Asturian: {{t+|ast|traducción|f}}
 * Bashkir {{t|ba|тәржемә|sc=Cyrl}}
 * Belarusian: {{t|be|перакла́д|m}}
-* Bengali: {{t+|bn|অনুবাদ|tr=ônubad|sc=Beng}}, {{t|bn|তর্জমা|tr=tôrjôma|sc=Beng}}
+* Bengali: {{t+|bn|অনুবাদ|sc=Beng}}, {{t|bn|তর্জমা|sc=Beng}}
 * Bulgarian: {{t+|bg|пре́вод|m}}
 * Catalan: {{t+|ca|traducció|f}}
 * Chinese:
@@ -75,7 +75,7 @@ From {{etyl|xno|en}} {{m|fro|translacioun}}, from {{etyl|fro|en}} {{m|fro|transl
 * German: {{t+|de|Übersetzung|f}}, {{t|de|Übersetzen|n}}
 * Greek: {{t+|el|μετάφραση|f}}
 * Hebrew: {{t+|he|תַּרְגּוּם|m|tr=targúm}}
-* Hindi: {{t+|hi|अनुवाद|m|tr=anuvād}}
+* Hindi: {{t+|hi|अनुवाद|m}}
 * Hungarian: {{t+|hu|fordítás}}
 * Icelandic: {{t+|is|þýðing|f}}
 * Ido: {{t+|io|traduko}}
@@ -123,12 +123,12 @@ From {{etyl|xno|en}} {{m|fro|translacioun}}, from {{etyl|fro|en}} {{m|fro|transl
 * Tajik: {{t+|tg|тарҷума|sc=Cyrl}}
 * Tamil: {{t+|ta|மொழிபெயர்ப்பு}}
 * Telugu: {{t+|te|అనువాదము}}
-* Thai: {{t+|th|คำแปล|tr=kam bplae}}, {{t+|th|การแปล|tr=gaan bplae}}
+* Thai: {{t+|th|คำแปล}}, {{t+|th|การแปล}}
 * Turkish: {{t+|tr|çeviri}}, {{t+|tr|tercüme}}
 * Turkmen: {{t|tk|terjime}}
 * Ukrainian: {{t|uk|перекла́д|m}}
 * Urdu: {{t|ur|ترجمہ|m|tr=tarjama}}, {{t|ur|انواد|m|tr=anuvād}}
-* Vietnamese: {{t|vi|sự thông dịch}}
+* Vietnamese: {{t+|vi|thông dịch|alt=sự thông dịch}}
 * Volapük: {{t+|vo|tradut}}, {{t|vo|tradutam}}
 * Walloon: {{t+|wa|tradujhaedje|m}}, {{t+|wa|ratournaedje|m}}
 * Welsh: {{t+|cy|cyfieithu|m}}
@@ -141,7 +141,7 @@ From {{etyl|xno|en}} {{m|fro|translacioun}}, from {{etyl|fro|en}} {{m|fro|transl
 * Asturian: {{t+|ast|traducción|f}}
 * Bashkir {{t|ba|тәржемә|sc=Cyrl}}
 * Belarusian: {{t|be|перакла́д|m}}
-* Bengali: {{t+|bn|অনুবাদ|tr=ônubad|sc=Beng}}
+* Bengali: {{t+|bn|অনুবাদ|sc=Beng}}
 * Bulgarian: {{t+|bg|пре́вод|m}}
 * Catalan: {{t+|ca|traducció|f}}
 * Chinese:
@@ -158,7 +158,7 @@ From {{etyl|xno|en}} {{m|fro|translacioun}}, from {{etyl|fro|en}} {{m|fro|transl
 * German: {{t+|de|Übersetzung|f}}
 * Greek: {{t+|el|μετάφραση|f}}
 * Hebrew: {{t+|he|תַּרְגּוּם|m|tr=targúm}}
-* Hindi: {{t+|hi|अनुवाद|m|tr=anuvād}}, {{t+|hi|भाषांतर|m|sc=Deva}}
+* Hindi: {{t+|hi|अनुवाद|m}}, {{t+|hi|भाषांतर|m|sc=Deva}}
 * Hungarian: {{t+|hu|fordítás}}
 * Icelandic: {{t+|is|þýðing|f}}
 * Ido: {{t+|io|tradukuro}}
@@ -166,7 +166,7 @@ From {{etyl|xno|en}} {{m|fro|translacioun}}, from {{etyl|fro|en}} {{m|fro|transl
 * Interlingua: {{t|ia|traduction}}
 * Irish: {{t+|ga|aistriúchán|m}}
 * Italian: {{t+|it|traduzione|f}}
-* Japanese: {{t+|ja|訳|tr=[[やく]], yaku}}, {{t+|ja|訳文|tr=[[やくぶん]], yakubun}}, {{t+|ja|翻訳|tr=[[ほんやく]], hon'yaku}}
+* Japanese: {{t+|ja|訳|tr=やく, yaku}}, {{t+|ja|訳文|tr=やくぶん, yakubun}}, {{t+|ja|翻訳|tr=ほんやく, hon'yaku}}
 * Javanese: {{t|jv|pertalan}}
 * Khmer: {{t|km|ការបកប្រែ|tr=kaa bɑɑk prae|sc=Khmr}}
 * Korean: {{t+|ko|번역|sc=Hang}} ({{t+|ko|飜譯|sc=Hani}}), {{t|ko|번역문|sc=Hang}}
@@ -215,7 +215,7 @@ From {{etyl|xno|en}} {{m|fro|translacioun}}, from {{etyl|fro|en}} {{m|fro|transl
 * French: {{t+|fr|transmission|f}}
 * German: {{t+|de|Übersetzung|f}} {{qualifier|slow to fast}}, {{t|de|Untersetzung|f}} {{qualifier|fast to slow}}
 * Hungarian: {{t+|hu|vált}}, {{qualifier|slow to fast}} {{t+|hu|felvált}}, {{qualifier|fast to slow}} {{t+|hu|levált}}
-* Japanese: {{t+|ja|伝達|tr=[[でんたつ]], dentatsu}}
+* Japanese: {{t+|ja|伝達|tr=でんたつ, dentatsu}}
 {{trans-mid}}
 * Luxembourgish: {{t|lb|Transmissioun|f}}
 * Macedonian: {{t|mk|пре́нос|m}}
