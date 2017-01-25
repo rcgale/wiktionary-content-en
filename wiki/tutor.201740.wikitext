@@ -8,10 +8,12 @@
 From {{inh|en|enm|tutour}}, a {{bor|en|fro|tuteur|nocap=1}} (French {{m|fr|tuteur}}), from {{der|en|la|tutor||a watcher, protector, guardian}}, from {{term|tueri|tuēri|to protect}}; see [[tuition]].
 
 ===Pronunciation===
-* {{IPA|/ˈtjuːtə/|lang=en}}
+* {{a|GA}} {{IPA|/ˈtutɚ/|lang=en}}
 * {{audio|en-us-tutor.ogg|Audio (US)|lang=en}}
+** {{homophones|tooter|Tudor|lang=en}}
+* {{a|RP}} {{IPA|/ˈtjuːtə/|lang=en}}
 * {{audio|en-uk-tutor.ogg|Audio (UK)|lang=en}}
-* {{rhymes|uːtə(r)|lang=en}}
+* {{rhymes|uːtə(ɹ)|lang=en}}
 
 ===Noun===
 {{en-noun}}
@@ -36,6 +38,7 @@ From {{inh|en|enm|tutour}}, a {{bor|en|fro|tuteur|nocap=1}} (French {{m|fr|tuteu
 
 ====Translations====
 {{trans-top|one who teaches another}}
+* Catalan: {{t|ca|tutor|m}}
 * Chinese:
 *: Mandarin: {{qualifier|private teacher}} {{t|cmn|私人教師|sc=Hani}}, {{t|cmn|私人教师|tr=sīrén jiàoshī|sc=Hani}}, {{qualifier|teacher who goes to student's home}} {{t+|cmn|家庭教師|sc=Hani}}, {{t+|cmn|家庭教师|tr=jiātíng jiàoshī|sc=Hani}}
 * Danish: {{t|da|hjælpelærer|c}}, {{t|da|privatlærer|c}}, {{t|da|lektiehjælper|c}}
@@ -54,7 +57,7 @@ From {{inh|en|enm|tutour}}, a {{bor|en|fro|tuteur|nocap=1}} (French {{m|fr|tuteu
 * Romanian: {{t+|ro|preceptor|m}}
 * Russian: {{t+|ru|репети́тор|m}}
 * Serbo-Croatian: {{t+|sh|skrbnik|m}}, {{t|sh|skrbkinja|f}}
-* Spanish: {{t+|es|tutor}}
+* Spanish: {{t+|es|tutor|m}}
 * Swedish: {{t+|sv|informator|c}}, {{t+|sv|lärare|c}}, {{t+|sv|guvernant|c}}, {{t|sv|privatlärare|c}}
 * Turkish: {{t+|tr|lala}}, {{t|tr|lalalar|p}}
 {{trans-bottom}}
@@ -91,6 +94,29 @@ From {{inh|en|enm|tutour}}, a {{bor|en|fro|tuteur|nocap=1}} (French {{m|fr|tuteu
 
 ----
 
+==Catalan==
+
+===Etymology===
+From {{etyl|la|ca}} {{m|la|tutor}}.
+
+===Pronunciation===
+* {{ca-IPA}}
+
+===Noun===
+{{ca-noun|m|f=tutora}}
+
+# {{l|en|tutor}} {{gloss|teacher}}
+# [[guardian]] {{gloss|person responsible for another}}
+
+====Related terms====
+* {{l|ca|tutela}}
+* {{l|ca|tutoria}}
+
+====External links====
+* {{R:IEC2}}
+
+----
+
 ==Finnish==
 
 ===Etymology===
@@ -99,7 +125,7 @@ From {{inh|en|enm|tutour}}, a {{bor|en|fro|tuteur|nocap=1}} (French {{m|fr|tuteu
 ===Noun===
 {{fi-noun}}
 
-# [[tutor#English|tutor]] {{gloss|person}}
+# {{l|en|tutor}} {{gloss|person}}
 
 ====Declension====
 {{fi-decl-paperi|tutor|a|i=0}}
@@ -119,17 +145,22 @@ From {{affix|la|tueor|-tor}}, via the old past participle {{m|la|tūtus}} (later
 
 # [[watcher]], [[protector]], [[defender]]
 # [[guardian]] (of minors)
-# [[#English|tutor]]
+# {{l|en|tutor}}
 
 =====Inflection=====
 {{la-decl-3rd|tūtor}}
 
 =====Descendants=====
+{{des-top}}
+* Catalan: {{l|ca|tutor}}
 * English: {{l|en|tutor}}
+* Finnish: {{l|fi|tutor}}
 * French: {{l|fr|tuteur}}
+{{des-mid}}
 * Italian: {{l|it|tutore}}
 * Portuguese: {{l|pt|tutor}}
 * Spanish: {{l|es|tutor}}
+{{des-bottom}}
 
 ===Etymology 2===
 From {{affix|la|tueor|-tō}}, via the old past participle {{m|la|tūtus}} (later replaced by {{m|la|tuitus}}).
@@ -143,17 +174,17 @@ From {{affix|la|tueor|-tō}}, via the old past participle {{m|la|tūtus}} (later
 {{la-conj-1st|type=depon|tūt|tūtāt|p3inf=1}}
 
 =====Descendants=====
-{{top2}}
+{{des-top}}
 * French: {{l|fr|tuer}}
 * Gallo: {{l|roa-gal|tuer}}
 * Italian: {{l|it|attutare}}, {{l|it|stutare}}
 * Norman: {{l|nrf|tuer}}
-{{mid2}}
+{{des-mid}}
 * Old Provençal: {{l|pro|tuar}}, {{l|pro|tudar}}
 * Occitan: {{l|oc|tuar}}
 * Sicilian: {{l|scn|astutari}}
 * Walloon: {{l|wa|touwer}}
-{{bottom}}
+{{des-bottom}}
 
 ===References===
 * {{R:L&S}}
@@ -213,11 +244,21 @@ From {{affix|la|tueor|-tō}}, via the old past participle {{m|la|tūtus}} (later
 ===Etymology===
 {{bor|es|la|tutor|tutor, tutorem}}.
 
+===Pronunciation===
+* {{es-IPA}}
+
 ===Noun===
 {{es-noun|mf|es|f=tutora}}
 
-# [[guardian]]
-# {{l|en|tutor}}
+# [[guardian]] {{gloss|person responsible for another}}
+# {{l|en|tutor}} {{gloss|teacher}}
+
+====Related terms====
+* {{l|es|tutela}}
+* {{l|es|tutoría}}
+
+====External links====
+* {{R:DRAE 2001}}
 
 ----
 
