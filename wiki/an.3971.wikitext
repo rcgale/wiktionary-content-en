@@ -503,13 +503,11 @@ From {{der|ht|fr|an||year}}
 
 ==Irish==
 
-===Etymology===
-From {{inh|ga|sga|in}}.  Compare {{cog|cel-pro|*sindos}} [Dr. Ken George]; or from {{inh|ga|cel-pro|*eni}}.
+===Etymology 1===
+From {{inh|ga|sga|in}}, from {{inh|ga|cel-pro|*sindos}}.
 
-===Pronunciation===
-* {{sense|article}} {{IPA|lang=ga|[ənˠ]}}; between consonants {{IPAchar|[ə]}}
-* {{sense|preverbal particle}} {{IPA|[ə]|lang=ga}}
-* {{sense|copular particle}} {{IPA|[ənˠ]|lang=ga}}; before {{m|ga|é}}, {{m|ga|ea}}, {{m|ga|í}}, {{m|ga|iad}} {{IPAchar|[ə.n̠ʲ-]}}
+====Pronunciation====
+* {{IPA|/ənˠ/|/ə/|/ə.nˠ-/|/ə.n̠ʲ-/|qual2=between consonants|qual3=before ''a/á, o/ó, u/ú''|qual4=before ''e/é'', ''i/í''|lang=ga}}
 
 ===Article===
 {{head|ga|article}}
@@ -538,34 +536,41 @@ From {{inh|ga|sga|in}}.  Compare {{cog|cel-pro|*sindos}} [Dr. Ken George]; or fr
 | {{l-self|ga|na}}<sup>N</sup>
 |-
 ! Dative
-| {{lang|ga|(ag)}} {{l-self|ga|an}}<sup>DM</sup>
-| {{lang|ga|(ag)}} {{l-self|ga|an}}<sup>DF</sup>
+| {{l|ga||(ag)}} {{l-self|ga|an}}<sup>DM</sup>
+| {{l|ga||(ag)}} {{l-self|ga|an}}<sup>DF</sup>
 | {{l-self|ga|na}}<sup>H</sup>
 |-
 | colspan=4| DF: triggers {{ga-mut-link|e}} or {{ga-mut-link|l}} depending on dialect; no lenition of ''d, t''; changes ''s'' to ''ts'' (pronounced like ''t'')<br/>DM: triggers {{ga-mut-link|e}} or {{ga-mut-link|l}} depending on dialect; no lenition of ''d, t, s''<br/>H: triggers {{ga-mut-link|h}}<br/>L: triggers {{ga-mut-link|l}} except of ''d, t''; changes ''s'' to ''ts'' (pronounced like ''t'')<br/>N: triggers {{ga-mut-link|e}}<br/>T: triggers {{ga-mut-link|t}} of a vowel
 |}
 
-===Particle===
+===Etymology 2===
+From {{inh|ga|sga|in}}.
+
+====Pronunciation====
+* {{sense|preverbal particle}} {{IPA|/ə/|/ə.nˠ-/|/ə.n̠ʲ-/|qual1=before a consonant|qual2=before ''a/á, o/ó, u/ú''|qual3=before ''e/é'', ''i/í''|lang=ga}}
+* {{sense|copular particle}} {{IPA|/ənˠ/|/ə.n̠ʲ-/|lang=ga|qual2=before {{m|ga|é}}, {{m|ga|ea}}, {{m|ga|í}}, {{m|ga|iad}}}}
+
+====Particle====
 {{head|ga|particle|cat2=interrogative particles}} {{qualifier|triggers {{ga-mut-link|e}}; takes the dependent form of irregular verbs if available; not used in the past tense except of some irregular verbs}}
 
 # {{non-gloss definition|Used to form direct and indirect questions}}
 #: {{ux|ga|'''An''' bhfuil tú ag éisteacht?|Are you listening?|inline=1}}
 #: {{ux|ga|Níl a fhios agam '''an''' bhfuil sé anseo.|I don’t know if/whether he is here.|inline=1}}
 
-====Related terms====
+=====Related terms=====
 * {{l|ga|ar}} {{qualifier|used in the past tense of regular and some irregular verbs}}
 
-===Particle===
+====Particle====
 {{head|ga|particle|cat2=interrogative particles}}
 
 # {{non-gloss definition|used to introduce copular questions, both direct and indirect, in the present/future tense}}
 #: {{ux|ga|'''An''' maith leat bainne?|Do you like milk?}}
 #: {{ux|ga|Níl a fhios agam '''an''' é Conchúr a chonaic mé.|I don’t know if it’s Connor whom I saw.}}
 
-====Related terms====
+=====Related terms=====
 {{ga-copular forms}}
 
-===References===
+===External links===
 * {{R:ga:Ó Dónaill}}
 * {{R:DIL|28194|head=in}}
 
