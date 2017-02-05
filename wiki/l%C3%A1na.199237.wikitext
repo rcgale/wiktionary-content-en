@@ -9,8 +9,7 @@
 {{is-verb-weak|lánaði|lánað}}
 
 # to [[lend]]
-#: ''[[pabbi|Pabbi]] '''lánaði''' mér [[bíll|bílinn]].''
-#: Daddy '''lent''' me the car.
+#: {{ux|is|[[pabbi|Pabbi]] '''lánaði''' mér [[bíll|bílinn]].|Daddy '''lent''' me the car.}}
 
 ====Conjugation====
 {{is-conj-w4|l|á|n}}
@@ -33,19 +32,19 @@
 ==Irish==
 
 ===Pronunciation===
-* {{a|Munster|Connacht}} {{IPA|lang=ga|[ˈl̪ˠɑːnˠə]}}
-* {{a|Ulster}} {{IPA|lang=ga|[ˈl̪ˠæːnˠə]}}
+* {{a|Munster|Connacht}} {{IPA|[ˈl̪ˠɑːnˠə]|lang=ga}}
+* {{a|Ulster}} {{IPA|[ˈl̪ˠæːnˠə]|lang=ga}}
 
 ===Etymology 1===
-From {{etyl|enm|ga}} {{m|enm|lane}}, {{m|enm|lone}}, from {{etyl|ang|ga}} {{m|ang|lane}}, {{m|ang|lanu||a lane, alley, avenue}}, from {{etyl|gem-pro|ga}} {{m|gem-pro|*lanō||lane, passageway}}.
+From {{der|ga|enm|lane}}, {{m|enm|lone}}, from {{der|ga|ang|lane}}, {{m|ang|lanu|t=a lane, alley, avenue}}, from {{der|ga|gem-pro|*lanō|t=lane, passageway}}.
 
 ====Noun====
-{{ga-noun|m|lána|lánaí}}
+{{ga-noun|m|~|~í}}
 
 # [[lane]] {{gloss|narrow passageway between fences, walls, hedges or trees; lengthwise division of roadway intended for a single line of vehicles}}
 
 =====Derived terms=====
-* {{l|ga|aerlána|g=m||air lane}}
+* {{l|ga|aerlána|g=m|t=air lane}}
 * {{l|ga|lána bus}}, {{l|ga|buslána}}
 
 ===Etymology 2===
@@ -54,10 +53,17 @@ Inflected form of {{m|ga|lán}}.
 ====Adjective====
 {{head|ga|adjective form}}
 
-# {{inflection of|lán||nom|/|voc|/|dat|p|lang=ga}}
+# {{inflection of|lán||nom|p|lang=ga}}
+# {{inflection of|lán||voc|p|lang=ga}}
 # {{inflection of|lán||strong|gen|p|lang=ga}}
+# {{inflection of|lán||dat|p|lang=ga}}
 
-[[Category:ga:Roads|lana]]
+===External links===
+* {{R:ga:Ó Dónaill}}
+* {{R:ga:Foras|alley}}
+* {{R:ga:Foras|lane}}
+
+{{topics|ga|Roads}}
 
 [[ast:lána]]
 [[io:lána]]
