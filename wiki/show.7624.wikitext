@@ -88,7 +88,7 @@ From {{etyl|enm|en}} {{m|enm|schewen}}, {{m|enm|schawen}}, {{m|enm|scheawen}}, f
 * Armenian: {{t|hy|ցույց տալ}}
 * Azeri: {{t+|az|göstərmək}}
 * Belarusian: {{t|be|пака́зваць|impf|sc=Cyrl}}, {{t+|be|паказа́ць|pf|sc=Cyrl}}
-* Bengali: {{t|bn|দেখানো|tr=dekhano|sc=Beng}}
+* Bengali: {{t|bn|দেখানো|sc=Beng}}
 * Bulgarian: {{t+|bg|пока́звам|impf}}, {{t+|bg|пока́жа|pf|sc=Cyrl}}
 * Burmese: {{t+|my|ပြသ|sc=Mymr}}
 * Catalan: {{t+|ca|mostrar}}, {{t+|ca|ensenyar}}
@@ -166,7 +166,7 @@ From {{etyl|enm|en}} {{m|enm|schewen}}, {{m|enm|schawen}}, {{m|enm|scheawen}}, f
 * Tagalog: {{t|tl|magpakita}}
 * Tajik: {{t|tg|нишон додан}}
 * Telugu: {{t+|te|చూపించు}}
-* Thai: {{t+|th|แสดง|tr=sà-dɛɛng}}, {{t+|th|ชี้แจง|tr=chí chaeng}}
+* Thai: {{t+|th|แสดง}}, {{t+|th|ชี้แจง}}
 * Turkish: {{t+|tr|göstermek}}
 * Turkmen: {{t|tk|görkezmek}}
 * Ukrainian: {{t+|uk|пока́зувати|impf|sc=Cyrl}}, {{t|uk|показа́ти|pf|sc=Cyrl}}
@@ -189,7 +189,7 @@ From {{etyl|enm|en}} {{m|enm|schewen}}, {{m|enm|schawen}}, {{m|enm|scheawen}}, f
 * Greek: {{t+|el|αποδεικνύω|sc=Grek}}
 * Hebrew: {{t|he|הראה|tr=her'é}}
 * Italian: {{t+|it|dimostrare}}
-* Japanese: {{t+|ja|示す|tr=shimesu}}
+* Japanese: {{t+|ja|示す|tr=しめす, shimesu}}
 * Kurdish:
 *: Sorani: {{t|ku|پیشاندان}}
 * Macedonian: {{t|mk|пока́жува|tr=pokážuva|sc=Cyrl}}
@@ -205,7 +205,7 @@ From {{etyl|enm|en}} {{m|enm|schewen}}, {{m|enm|schawen}}, {{m|enm|scheawen}}, f
 * Spanish: {{t+|es|demostrar}}
 * Swahili: {{t+|sw|shoo}}
 * Swedish: {{t+|sv|visa}}, {{t+|sv|demonstrera}}
-* Thai: {{t+|th|แสดง|tr=sà-dɛɛng}}
+* Thai: {{t+|th|แสดง}}
 * Walloon: {{t+|wa|mostrer}}, {{t|wa|dimostrer}} {{qualifier|formally}}
 {{trans-bottom}}
 
@@ -229,8 +229,7 @@ From {{etyl|enm|en}} {{m|enm|schewen}}, {{m|enm|schawen}}, {{m|enm|scheawen}}, f
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 {{checktrans-top}}
 * Breton: {{t+check|br|diskouez}}
-* Bulgarian: {{t+check|bg|показвам|tr=pokazvam|sc=Cyrl}} (1,2)
-* Mandarin: {{t-check|cmn|使被看见|tr=shǐ bèi kànjiàn|sc=Hani}}
+* Bulgarian: {{t+check|bg|показвам|sc=Cyrl}} (1,2)
 * Ido: {{t+check|io|montrar}}, {{qualifier|indicate}} {{t+check|io|indikar}}
 * Indonesian: {{t+check|id|tunjuk|alt=menunjukkan}} <!-- was "[[tunjuk|menunjukkan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+check|id|tunjuk|alt=mempertunjukkan}} <!-- was "[[tunjuk|mempertunjukkan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+check|id|tampil|alt=menampilkan}} <!-- was "[[tampil|menampilkan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+check|id|lihat|alt=memperlihatkan}} <!-- was "[[lihat|memperlihatkan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-bottom}}
@@ -313,7 +312,7 @@ From {{etyl|enm|en}} {{m|enm|schewen}}, {{m|enm|schawen}}, {{m|enm|scheawen}}, f
 * Korean: {{t+|ko|쇼|sc=Kore}}, {{t+|ko|흥행|sc=Kore}}
 * Latin: {{t|la|spectaculum|n}}
 {{trans-mid}}
-* Macedonian: {{t|mk|претстава|f|tr=prétstava|sc=Cyrl}}, {{t|mk|емисија|f|tr=emísija|sc=Cyrl}} {{qualifier|TV}}
+* Macedonian: {{t|mk|претстава|f|sc=Cyrl}}, {{t|mk|емисија|f|sc=Cyrl}} {{qualifier|TV}}
 * Malay: {{t|ms|persembahan}}
 * Maltese: {{t|mt|spettaklu|m}}
 * Persian: {{t+|fa|نمایش|tr=namâyeš}}
@@ -321,11 +320,12 @@ From {{etyl|enm|en}} {{m|enm|schewen}}, {{m|enm|schawen}}, {{m|enm|scheawen}}, f
 * Romanian: {{t+|ro|spectacol|n}}
 * Russian: {{t+|ru|представле́ние|n}}, {{t+|ru|шо́у|n}}, {{t+|ru|спекта́кль|m}}, {{t+|ru|зре́лище|n}}
 * Scots: {{t|sco|shaw}}
-* Serbo-Croatian: {{t+|sh|šou|m}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|šou|m}}
 * Spanish: {{t+|es|espectáculo|m}}, {{t+|es|show|m}}
 * Swahili: {{t+|sw|shoo}}
 * Swedish: {{t+|sv|show|c}}
-* Thai: {{t+|th|ละคร}} (lá-kon), {{t|th|โชว์}}(choh) (=show)
+* Thai: {{t+|th|ละคร}}, {{t|th|โชว์}}
 * Turkish: {{t+|tr|gösteri}}, {{t+|tr|şov}}
 {{trans-bottom}}
 
@@ -339,11 +339,11 @@ From {{etyl|enm|en}} {{m|enm|schewen}}, {{m|enm|schawen}}, {{m|enm|scheawen}}, f
 * Greek: {{t+|el|έκθεση|f|sc=Grek}}
 * Hebrew: {{t+|he|מופע|m|tr=mofá}}
 * Italian: {{t+|it|mostra|f}}, {{t+|it|esibizione|f}}
-* Japanese: {{t|ja|展示会|tr=tenjikai}}
+* Japanese: {{t|ja|展示会|tr=てんじかい, tenjikai}}
 * Kazakh: {{t+|kk|көрме|sc=Cyrl}}
 * Kurdish:
 *: Sorani: {{t|ku|پیشانگا}}
-* Macedonian: {{t|mk|изложба|f|tr=ízložba|sc=Cyrl}}
+* Macedonian: {{t|mk|изложба|f|sc=Cyrl}}
 {{trans-mid}}
 * Maltese: {{t|mt|wirja}}, {{t|mt|essibizjoni}}
 * Portuguese: {{t+|pt|mostra|f}}, {{t+|pt|exposição|f}}
@@ -351,11 +351,12 @@ From {{etyl|enm|en}} {{m|enm|schewen}}, {{m|enm|schawen}}, {{m|enm|scheawen}}, f
 * Russian: {{t+|ru|вы́ставка|f}}
 * Scots: {{t|sco|shaw}}
 * Scottish Gaelic: {{t|gd|taisbeanadh|m}}
-* Serbo-Croatian: {{t|sh|izložba|f}}
+* Serbo-Croatian:
+*: Roman: {{t|sh|izložba|f}}
 * Spanish: {{t+|es|exposición|f}}
 * Swahili: {{t+|sw|shoo}}
-* Swedish: {{t|sv|uppvisning}} {{qualifier|living objects}} {{g|c}}, {{t+|sv|utställning}} {{qualifier|non-living objects}} {{g|c}}
-* Telugu: {{t+|te|ప్రదర్శనం}} (pradarSanam)
+* Swedish: {{t|sv|uppvisning|c}} {{qualifier|living objects}}, {{t+|sv|utställning|c}} {{qualifier|non-living objects}}
+* Telugu: {{t+|te|ప్రదర్శనం}}
 * Turkish: {{t+|tr|şov}}
 {{trans-bottom}}
 
@@ -366,18 +367,19 @@ From {{etyl|enm|en}} {{m|enm|schewen}}, {{m|enm|schawen}}, {{m|enm|scheawen}}, f
 * French: {{t+|fr|démonstration|f}}
 * German: {{t+|de|Demonstration|f}}
 * Greek: {{t+|el|επίδειξη|f|sc=Grek}}
-* Japanese: {{t|ja|誇示|tr=koji}}
+* Japanese: {{t|ja|誇示|tr=こじ, koji}}
 * Portuguese: {{t+|pt|demonstração|f}}
 * Romanian: {{t+|ro|demonstrație|f}}
 {{trans-mid}}
 * Russian: {{t+|ru|демонстра́ция|f}}, {{t+|ru|пока́з|m}}
 * Scots: {{t|sco|shaw}}
 * Scottish Gaelic: {{t|gd|taisbeanadh|m}}
-* Serbo-Croatian: {{t+|sh|demonstracija|f}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|demonstracija|f}}
 * Spanish: {{t+|es|demostración|f}}
 * Swahili: {{t+|sw|shoo}}
 * Swedish: {{t+|sv|demonstration}}
-* Telugu: {{t+|te|ప్రదర్శనం}} (pradarSanam)
+* Telugu: {{t+|te|ప్రదర్శనం}}
 {{trans-bottom}}
 
 {{trans-top|broadcast program(me)}}
@@ -388,7 +390,7 @@ From {{etyl|enm|en}} {{m|enm|schewen}}, {{m|enm|schawen}}, {{m|enm|scheawen}}, f
 * Greek: {{t+|el|εκπομπή|f|sc=Grek}}
 * Hebrew: {{t|he|תוכנית|f|tr=tokhnít}}
 * Italian: {{t+|it|programma|m}}
-* Macedonian: {{t|mk|емисија|f|tr=emísija|sc=Cyrl}}
+* Macedonian: {{t|mk|емисија|f|sc=Cyrl}}
 * Norwegian: {{t+|no|show|m}}, {{t|no|program|m}}
 * Persian: {{t+|fa|شو|tr=šow|sc=fa-Arab}}
 {{trans-mid}}
@@ -396,10 +398,11 @@ From {{etyl|enm|en}} {{m|enm|schewen}}, {{m|enm|schawen}}, {{m|enm|scheawen}}, f
 * Romanian: {{t+|ro|emisiune|f}}, {{t+|ro|program|f}}
 * Russian: {{t+|ru|програ́мма|f}}, {{qualifier|Television only}} {{t+|ru|телепрогра́мма|f}}, {{t+|ru|шо́у|n}}
 * Scots: {{t|sco|shaw}}
-* Serbo-Croatian: {{t+|sh|šou|m}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|šou|m}}
 * Spanish: {{t+|es|programa|m}}
 * Swahili: {{t+|sw|shoo}}
-* Thai: {{t+|th|ละคร}} (lá-kon)
+* Thai: {{t+|th|ละคร}}
 * Turkish: {{t+|tr|gösteri}}, {{t+|tr|şov}}, {{t+|tr|program}}
 {{trans-bottom}}
 
