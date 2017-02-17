@@ -77,7 +77,7 @@ From {{inh|en|enm|animal}}, a {{bor|en|fro|animal|nocap=1}}, from {{der|en|la|an
 * Basque: {{t+|eu|animalia}}
 * Bavarian: {{t|bar|Viech}}
 * Belarusian: {{t+|be|жывёла|f}}, {{t|be|звер|m}}
-* Bengali: {{t|bn|জানোয়ার|tr=janoẇar}}
+* Bengali: {{t|bn|জানোয়ার}}
 * Borôro: {{t|bor|barögö}}
 * Breton: {{t+|br|loen|m}}, {{t+|br|aneval|m}}
 * Bulgarian: {{t+|bg|живо́тно|n}}
@@ -140,7 +140,7 @@ From {{inh|en|enm|animal}}, a {{bor|en|fro|animal|nocap=1}}, from {{der|en|la|an
 * Khakas: {{t|kjh|аң}}
 * Khmer: {{t+|km|សត្វ|tr=sāt}}
 * Kimaragang: {{t|kqr|dudupot}}
-* Korean: {{t+|ko|동물|tr=dongmul}} ({{t+|ko|動物}})
+* Korean: {{t+|ko|동물}} ({{t+|ko|動物}})
 * Krymchak: {{t|jct|tuvar}}
 * Kumyk: {{t|kum|гьайван|tr=haywan|sc=Cyrl}}
 * Kurdish:
@@ -151,7 +151,7 @@ From {{inh|en|enm|animal}}, a {{bor|en|fro|animal|nocap=1}}, from {{der|en|la|an
 * Lao: {{t+|lo|ສັດ}}
 * Latgalian: {{t|ltg|dzeivnīks}}, {{t|ltg|žeivots}}
 * Latin: {{t+|la|animal|n}}, {{t+|la|bestia|f}}
-* Latvian: {{t|lv|dzīvnieks}}
+* Latvian: {{t|lv|dzīvnieks|m}}
 * Lezgi: {{t|lez|гьайван|sc=Cyrl}}
 * Lithuanian: {{t+|lt|gyvūnas|m}}
 * Low German:
@@ -188,7 +188,7 @@ From {{inh|en|enm|animal}}, a {{bor|en|fro|animal|nocap=1}}, from {{der|en|la|an
 * Pitjantjatjara: {{t-needed|pjt}}
 * Polish: {{t+|pl|zwierzę|n}}
 * Portuguese: {{t+|pt|animal|m}}, {{t+|pt|besta|f}}, {{t+|pt|bicho|m}}
-* Punjabi: {{t|pa|ਹੈਵਾਨ|tr=haivān}}
+* Punjabi: {{t|pa|ਹੈਵਾਨ}}
 * Quechua: {{t+|qu|uywa}}
 * Rohingya: {{t|rhg|focú}}, {{t|rhg|januar}}
 * Romagnol: {{t|rgn|animêl}}
@@ -262,14 +262,23 @@ From {{inh|en|enm|animal}}, a {{bor|en|fro|animal|nocap=1}}, from {{der|en|la|an
 * Arabic: {{t+|ar|حَيَوَان|m}}
 * Armenian: {{t+|hy|կենդանի}}
 * Basque: {{t+|eu|animalia}}
+* Belarusian: {{t+|be|жывёла|f}}, {{t|be|звер|m}}
+* Bengali: {{t|bn|জানোয়ার}}
+* Bulgarian: {{t+|bg|живо́тно|n}}
 * Burmese: {{t+|my|အကောင်}}, {{t+|my|တိရစ္ဆာန်}}
 * Catalan: {{t+|ca|animal|m}}, {{t+|ca|bèstia|f}}
+* Chinese:
+*: Cantonese: {{t|yue|動物}}, {{t|yue|动物|tr=dung6 mat6}}
+*: Mandarin: {{t+|cmn|動物}}, {{t+|cmn|动物|tr=dòngwù}}
+*: Min Nan: {{t+|nan|動物}}, {{t|nan|动物|tr=tōng-bu̍t}}
+* Czech: {{t+|cs|živočich|m}}, {{t+|cs|zvíře|n}}
 * Esperanto: {{t+|eo|besto}}
 * Faroese: {{t|fo|djór|n}}, {{t+|fo|dýr|n}}
 * Finnish: {{t+|fi|eläin}}, {{t+|fi|elukka}}
 * French: {{t+|fr|bête|f}}, {{t+|fr|animal|m}}
 *: Old French: {{t|fro|beste}}
 *: Middle French: {{t|frm|beste}}
+* German: {{t+|de|Tier|n}}
 * Greek: {{t+|el|ζώο|n}}, {{t+|el|κτήνος|n}}, {{t+|el|θηρίο|n}}
 * Greenlandic: {{t|kl|uumasoq}}
 * Haitian Creole: {{t|ht|bèt}}, {{t|ht|animal}}, {{t|ht|zannimo}}
@@ -279,8 +288,9 @@ From {{inh|en|enm|animal}}, a {{bor|en|fro|animal|nocap=1}}, from {{der|en|la|an
 * Ido: {{t+|io|bestio}}
 * Indonesian: {{t+|id|binatang}}, {{t+|id|hewan}}, {{t+|id|satwa}}
 * Italian: {{t+|it|animale|m}}, {{t+|it|bestia|f}}
-* Japanese: {{t+|ja|動物|tr=どうぶつ, dōbutsu}}, {{t+|ja|生物|tr=せいぶつ, seibutsu}}, {{t+|ja|獣|tr=[[けもの]], kemono}} {{qualifier|covered with fur}}
+* Japanese: {{t+|ja|動物|tr=どうぶつ, dōbutsu}}, {{t+|ja|生物|tr=せいぶつ, seibutsu}}, {{t+|ja|獣|tr=けもの, kemono}} {{qualifier|covered with fur}}
 * Kikuyu: {{t|ki|nyamũ}}
+* Korean: {{t+|ko|동물}} ({{t+|ko|動物}})
 * Kumyk: {{t|kum|гьайван|tr=hayvan}}
 * Kurdish:
 *: Sorani: {{t|ku|حه‌یوان|tr=HaiwAn|sc=ku-Arab}}, {{t|ku|ئاژه‌ڵ|tr=AjaL|sc=ku-Arab}}
@@ -294,9 +304,10 @@ From {{inh|en|enm|animal}}, a {{bor|en|fro|animal|nocap=1}}, from {{der|en|la|an
 * Nama: {{t|naq|xamanin}}
 * Navajo: {{t|nv|naaldlooshii}}
 * Ngazidja Comorian: {{t|zdj|inyama|c7|c8}}, {{t|zdj|mnyama}}
+* Polish: {{t+|pl|zwierzę|n}}
 * Portuguese: {{t+|pt|animal|m}}, {{t+|pt|bicho|m}}
 * Romanian: {{t+|ro|animal|n}}, {{t+|ro|jivină|f}}
-* Russian: {{t+|ru|живо́тное|n}}, {{t+|ru|зверь|m}}
+* Russian: {{t+|ru|живо́тное|n}}, {{t+|ru|зверь|m}}, {{t+|ru|тварь|f}}, {{t+|ru|скоти́на|f}}, {{t+|ru|животи́на|f}}
 * Sardinian:
 *: Campidanese: {{t|sc|animali}}
 *: Logudorese: {{t|sc|animàri}}
@@ -305,11 +316,14 @@ From {{inh|en|enm|animal}}, a {{bor|en|fro|animal|nocap=1}}, from {{der|en|la|an
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|животиња|f|sc=Cyrl}}
 *: Roman: {{t+|sh|životinja|f}}
-* Slovene: {{t+|sl|žival}}
+* Slovak: {{t+|sk|živočích|m}}, {{t|sk|zviera|n}}
+* Slovene: {{t+|sl|žival|f}}, {{t+|sl|zver|f}}
 * Spanish: {{t+|es|animal|m}}
 * Sundanese: {{t+|su|sato}}
 * Swahili: {{t+|sw|mnyama}}
 * Turkish: {{t+|tr|hayvan}}
+* Ukrainian: {{t+|uk|тварина|f}}, {{t+|uk|звір|m}}
+* Vietnamese: {{t+|vi|thú vật}} ({{t|vi|獸物}}), {{t+|vi|động vật}} ({{t|vi|動物}})
 * Walloon: {{t+|wa|biesse|f}}
 * Yucatec Maya: {{t|yua|ba’alche’}}
 {{trans-bottom}}
