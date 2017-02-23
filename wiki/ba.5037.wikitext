@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology 1===
-Compare Old French {{m|fro|baer||to open the mouth}}; French {{m|fr|bayer}}
+{{bor|en|fro|baer|t=to open the mouth}}; compare {{cog|fr|bayer}}.
 
 ====Verb====
 {{en-verb}}
@@ -13,7 +13,7 @@ Compare Old French {{m|fro|baer||to open the mouth}}; French {{m|fr|bayer}}
 #*: Com neer, my spouse, lat me '''ba''' thy cheke!
 
 ===Etymology 2===
-From {{der|en|egy|𓅽𓏤|tr=bA}}.
+{{bor|en|egy|𓅽𓏤|tr=bA}}.
 
 ====Noun====
 {{en-noun}}
@@ -204,7 +204,7 @@ From {{inh|ga|sga|ba}}.
 * {{l|ku|با}}
 
 ===Etymology===
-From {{etyl|ira-pro|ku}} (compare Avestan {{m|ae|tr=vā́ta}}, {{m|ae|tr=vātō}}, Persian and Pashto {{m|fa|باد|tr=bâd}}), from {{etyl|iir-pro|ku}} (compare Sanskrit {{m|sa|वात|tr=vā́ta|sc=Deva}}), from {{der|ku|ine-pro|*h₂wéh₁n̥ts||blowing}}, present participle of {{m|ine-pro|*h₂weh₁-||to blow}}.
+From {{inh|ku|ira-pro}} (compare {{cog|ae|tr=vā́ta}}, {{m|ae|tr=vātō}}, {{cog|ps|-}} and {{cog|fa|باد|tr=bâd}}), from {{inh|ku|iir-pro}} (compare {{cog|sa|वात|tr=vā́ta|sc=Deva}}), from {{inh|ku|ine-pro|*h₂wéh₁n̥ts|t=blowing}}, present participle of {{m|ine-pro|*h₂weh₁-|t=to blow}}.
 
 ===Noun===
 {{ku-noun|g=m}}
@@ -287,12 +287,10 @@ From {{m|jbo|balvi}}.
 ===Verb===
 {{head|sga|verb form}}
 
-# {{inflection of|is||1|s|pres|subj|lang=sga}}
-# {{inflection of|is||2|s|pres|subj|lang=sga}}
-# {{inflection of|is||3|s|pres|subj|lang=sga}}
-# {{inflection of|is||2|s|impr|lang=sga}}
-# {{inflection of|is||3|s|pret|and|impf|indc|lang=sga}}
-# {{inflection of|is||3|s|pret|and|impf|indc|relative|lang=sga}}
+# {{inflection of|is||1|and|2|and|3|s|pres|subj|;
+    |2|s|impr|;
+    |3|s|pret|and|impf|indc|nonrelative|and|relative
+  |lang=sga}}
 
 ----
 
@@ -335,7 +333,7 @@ From {{m|jbo|balvi}}.
 
 ===Etymology 2===
 {{cardinalbox|vi|2|3|4|hai|bốn}}
-From {{der|vi|mkh-vie-pro|*paː}}, from {{der|vi|mkh-pro|*paː}}. Cognates include Khmer {{m|km|បី|tr=bəi|sc=Khmr}}.
+From {{inh|vi|mkh-vie-pro|*paː}}, from {{inh|vi|mkh-pro|*paː}}. Cognates include {{cog|km|បី|tr=bəi|sc=Khmr}}.
 
 ====Numeral====
 {{vi-numeral|[[巴]], [[𠀧]]}}
@@ -351,8 +349,8 @@ From {{der|vi|mkh-vie-pro|*paː}}, from {{der|vi|mkh-pro|*paː}}. Cognates inclu
 #: {{ux|vi|chú '''ba'''|secondborn younger brother of one's father|inline=1}}
 
 =====Derived terms=====
-* {{l|vi|tháng ba||[[March]]}}
-* {{l|vi|thứ ba||[[third]]; [[Tuesday]]}}
+* {{l|vi|tháng ba|t=[[March]]}}
+* {{l|vi|thứ ba|t=[[third]]; [[Tuesday]]}}
 
 ===See also===
 * {{l|vi|tam}}
