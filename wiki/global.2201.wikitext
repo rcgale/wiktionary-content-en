@@ -35,30 +35,29 @@ From {{etyl|fr|en}} {{m|fr|global}}, from {{etyl|fro|en}} {{m|fro|globe}}.
 * {{sense|of a variable, in computing}} {{l|en|local}}
 
 ====Hyponyms====
-* {{l|en|quasi-global}}
-* {{l|en|semiglobal}}
-* {{l|en|transglobal}}
+{{hyp4
+| {{l|en|quasi-global}}
+| {{l|en|semiglobal}}
+| {{l|en|superglobal}}
+| {{l|en|transglobal}}
+| {{l|en|sub-global}}
+}}
 
 ====Derived terms====
 {{der4
-| {{l|en|quasi-global}}
 | {{l|en|globalisation}}
 | {{l|en|globalization}}
 | {{l|en|globalism}}
 | {{l|en|globalist}}
 | {{l|en|globally}}
-| {{l|en|semiglobal}}
-| {{l|en|sub-global}}
-| {{l|en|superglobal}}
-| {{l|en|transglobal}}
 }}
 
 ====Related terms====
-* {{l|en|global warming}}
-
-====Related terms====
-* {{l|en|globe}}
-* {{l|en|globular}}
+{{rel3
+| {{l|en|global warming}}
+| {{l|en|globe}}
+| {{l|en|globular}}
+}}
 
 ====Translations====
 {{trans-top|spherical}}
@@ -119,7 +118,7 @@ From {{etyl|fr|en}} {{m|fr|global}}, from {{etyl|fro|en}} {{m|fro|globe}}.
 * Russian: {{t+|ru|всеми́рный}}, {{t+|ru|глоба́льный}}
 * Scottish Gaelic: {{t|gd|domhanta}}
 * Swedish: {{t+|sv|global}}, {{t+|sv|världsomspännande}}, {{t+|sv|världsomfattande}}
-* Turkish: {{t+|tr|küresel}}
+* Turkish: {{t+|tr|global}}, {{t+|tr|küresel}}
 {{trans-bottom}}
 
 {{trans-top|of a variable, in computing}}
@@ -136,8 +135,9 @@ From {{etyl|fr|en}} {{m|fr|global}}, from {{etyl|fro|en}} {{m|fro|globe}}.
 
 {{checktrans-top}}
 * French: {{t-check|fr|global}}
+{{checktrans-mid}}
 * Spanish: {{qualifier|2}} {{t-check|es|mundial}}, {{qualifier|3}} {{t-check|es|global}}
-{{trans-bottom}}
+{{checktrans-bottom}}
 
 ===Noun===
 {{en-noun}}
