@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-16th century (as [[indico]], modern spelling from the 17th century), {{etyl|es|en}} {{m|es|índigo}}, {{etyl|pt|en}} {{m|pt|endego}} (modern {{m|pt|índigo}}), or {{etyl|nl|en}} (via {{etyl|pt|en}}) {{m|nl|indigo}}, all from {{etyl|la|en}} {{m|la|indicum||indigo}}, from {{etyl|grc|en}} {{m|grc|Ἰνδικὸν||Indian dye}}, from {{m|grc|Ἰνδία}}.<ref>{{R:Online Etymology Dictionary}}</ref>
+16th century (as {{m|en|indico}}, modern spelling from the 17th century), {{der|en|es|índigo}}, {{der|en|pt|endego}} (modern {{m|pt|índigo}}), or {{der|en|nl|-}} (via {{der|en|pt|-}}) {{m|nl|indigo}}, all from {{der|en|la|indicum|t=indigo}}, from {{der|en|grc|Ἰνδικὸν|t=Indian dye}}, from {{m|grc|Ἰνδία}}.<ref>{{R:Online Etymology Dictionary}}</ref>
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈɪn.dɪˌɡəʊ/|lang=en}}
@@ -21,39 +21,30 @@
 # An indigo plant, such as from species in genera ''[[Indigofera]]'', ''[[Amorpha]]'' ({{vern|false indigo}}), ''[[Baptisia]]'' ([[wild indigo]]), and {{taxlink|Psorothamnus|genus|noshow=1|ver=161009}} and ''[[Dalea]]'' ([[indigo bush]]).
 
 ====Derived terms====
-{{rel-top|terms derived from ''indigo''}}
-* {{vern|indigo bird}} ([[Viduidae]] family)
-* {{l|en|indigo blue}}
-* {{l|en|Indigo child}}
-* {{l|en|indigo bunting}}
-* {{l|en|indigo snake}}
-{{rel-mid}}
-* {{l|en|indium}}<!--see the etymology for that word-->
-* {{vern|false indigo}} (''[[Baptisia]] spp.'', ''[[Amorpha|Amorpha spp.]]'')
-* {{vern|yellow false indigo}} ({{taxlink|Baptisia tinctoria|species|noshow=1|ver=161009}})
-* {{l|en|wild indigo}} ({{taxlink|Baptisia tinctoria|species|noshow=1|ver=161009}})
-{{rel-bottom}}
+{{der3
+|{{vern|indigo bird}} ([[Viduidae]] family)
+|{{l|en|indigo blue}}
+|{{l|en|Indigo child}}
+|{{l|en|indigo bunting}}
+|{{l|en|indigo snake}}
+|{{l|en|indium}}<!--see the etymology for that word-->
+|{{vern|false indigo}} (''[[Baptisia]] spp.'', ''[[Amorpha|Amorpha spp.]]'')
+|{{vern|yellow false indigo}} ({{taxlink|Baptisia tinctoria|species|noshow=1|ver=161009}})
+|{{l|en|wild indigo}} ({{taxlink|Baptisia tinctoria|species|noshow=1|ver=161009}})
+}}
 
 ====Related terms====
-{{top3}}
-* {{l|en|indican}}
-* {{l|en|indicolite}}
-{{mid3}}
-* {{l|en|indium}}
-* {{l|en|indoxyl}}
-{{mid3}}
-* {{l|en|induline}}
-{{bottom}}
+{{rel3|indican|indicolite|indium|indoxyl|induline|lang=en}}
 
 ====Translations====
 {{trans-top|colour}}
 * Albanian: {{t+|sq|llullaq}}, {{t+|sq|vjollcë}}
 * Arabic: {{t|ar|اللَّوْن النِّيلِيّ}}
 * Azeri: {{t|az|indiqo}}
-* Bulgarian: {{t|bg|индиго|m|tr=indigo}}
+* Bulgarian: {{t|bg|индиго|m}}
 * Catalan: {{t+|ca|indi|m}}, {{t|ca|anyil|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|靛青|tr=diànqīng|sc=Hani}}, {{t+|cmn|靛藍|sc=Hani}}, {{t+|cmn|靛蓝|tr=diànlán|sc=Hani}}
+*: Mandarin: {{t+|cmn|靛青|tr=diànqīng}}, {{t+|cmn|靛藍}}, {{t+|cmn|靛蓝|tr=diànlán}}
 * Czech: {{t|cs|indigo|n}}
 * Dutch: {{t+|nl|indigo|n}}
 * Esperanto: {{t|eo|indigo}}
@@ -67,11 +58,11 @@
 {{trans-mid}}
 * Italian: {{t+|it|indaco|m}}
 * Japanese: {{t|ja|インジゴ|tr=injigo}}, {{t+|ja|藍色|tr=あいいろ, aiiro}}
-* Korean: {{t|ko|남빛|sc=Hang}}, {{t|ko|쪽빛|sc=Hang}}
+* Korean: {{t|ko|남빛}}, {{t|ko|쪽빛}}
 * Latin: {{t|la|indicum|m}}
 * Malagasy: {{t+|mg|aika}}
 * Malay: {{t|ms|biru nila}}
-* Navajo: {{t|nv|diłhiłgo dootłʼizh}}
+* Navajo: {{t|nv|diłhiłgo dootłʼizh|sc=Latn}}
 * Polish: {{t|pl|indygo}}
 * Portuguese: {{t+|pt|anil|m}}, {{t+|pt|índigo|m}}
 * Romanian: {{t+|ro|indigo|m}}
@@ -85,7 +76,7 @@
 
 {{trans-top|dye}}
 * Chinese:
-*: Mandarin: {{t+|cmn|靛青|tr=diànqīng|sc=Hani}}, {{t+|cmn|靛藍|sc=Hani}}, {{t+|cmn|靛蓝|tr=diànlán|sc=Hani}}
+*: Mandarin: {{t+|cmn|靛青|tr=diànqīng}}, {{t+|cmn|靛藍}}, {{t+|cmn|靛蓝|tr=diànlán}}
 * Finnish: {{t+|fi|indigo}}, {{t|fi|indigokarmiiniväri}}
 * French: {{t+|fr|indigo|m}}
 * German: {{t+|de|Indigo|m}}
@@ -102,18 +93,18 @@
 {{trans-bottom}}
 
 ===Adjective===
-{{head|en|adjective}}
+{{en-adj}}
 
-# Having a deep blue colour.
+# having a deep blue colour
 
 ====Translations====
 {{trans-top|colour}}
 * Arabic: {{t|ar|نِيلِيّ}}
 * Belarusian: {{t|be|індыга}}
-* Bulgarian: {{t|bg|индиго |m}}
+* Bulgarian: {{t|bg|индиго|m}}
 * Burmese: {{t+|my|မဲနယ်}}
 * Chinese:
-*: Mandarin: {{t+|cmn|靛藍|sc=Hani}}, {{t+|cmn|靛蓝|tr=diànlán|sc=Hani}}, {{t+|cmn|靛青|tr=diànqīng|sc=Hani}}
+*: Mandarin: {{t+|cmn|靛藍}}, {{t+|cmn|靛蓝|tr=diànlán}}, {{t+|cmn|靛青|tr=diànqīng}}
 * Dutch: {{t+|nl|indigo}}, {{t|nl|indigoblauw}}, {{t|nl|indigoblauwe}}
 * Esperanto: {{t|eo|indiga}}
 * Faroese: {{t|fo|indigo}}
@@ -121,19 +112,19 @@
 * French: {{t+|fr|indigo}}
 * German: {{t+|de|indigofarben}}
 * Icelandic: {{t|is|indígóblár}}
-* Italian: [[indaco]] {{g|m}}/{{g|f}}
+* Italian: {{t|it|indaco|m|f}}
 {{trans-mid}}
 * Japanese: {{t|ja|インジゴ|tr=indigo}}, {{t+|ja|藍色|tr=あいいろ , aiiro}}
-* Korean: [[남색]] [藍色] (namsæk), {{t|ko|남빛|tr=nambit}}, {{t|ko|쪽빛|tr=jjokbit}}
+* Korean: {{t|ko|남색|tr=[[藍色]], namsæk}}, {{t|ko|남빛}}, {{t|ko|쪽빛}}
 * Kyrgyz: {{t+|ky|индиго }}
 * Macedonian: {{t|mk|индиго }}
 * Maori: {{t|mi|tūāuri}}, {{t|mi|tuauri}}
-* Middle Persian: {{t|pal|𐭭𐭩𐭫|tr=nīl|sc=Phli}}
-* Persian: {{t+|fa|نیلی|tr=nili|sc=fa-Arab}}
+* Middle Persian: {{t|pal|𐭭𐭩𐭫|tr=nīl}}
+* Persian: {{t+|fa|نیلی|tr=nili}}
 * Portuguese: {{t+|pt|anil}}, {{t+|pt|índigo}}
 * Romanian: {{t+|ro|indigo}}
 * Russian: {{t+|ru|индиго|alt=цве́та инди́го}}
-* Sinhalese: {{t|si|ඉන්ඩිගෝ|tr=inḍigō}}
+* Sinhalese: {{t|si|ඉන්ඩිගෝ}}
 * Spanish: {{t+|es|índigo}}, {{t+|es|añil}}
 * Turkish: {{t+|tr|indigo}}, {{t|tr|indigo renkli}}
 * Ukrainian: {{t|uk|індиго|m}}
