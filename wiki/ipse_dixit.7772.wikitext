@@ -1,29 +1,47 @@
 ==English==
-{{wikipedia}}
 
 ===Etymology===
-From {{etyl|la|en}} {{m|la|ipse dixit||he himself said it}}, {{calque|en|grc|αὐτὸς ἔφα|nocap=1}}. Originally used by the followers of [[Pythagoreanism]], who claimed this or that proposition to be uttered by [[Pythagoras]] himself.
+From {{bor|en|la|ipse dīxit||he himself said it}}, {{calque|en|grc|αὐτὸς ἔφα|nocap=1}}.<br/>Originally used by the followers of {{l|en|Pythagoreanism}}, who claimed this or that proposition to be uttered by {{l|en|Pythagoras}} himself. Extended during the Middle Ages to the statements of {{l|en|Aristotle}}, and more famously used in such contexts.
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|/ˈɪp.sɪ ˈdɪk.sɪt/|lang=en}}
+{{wikipedia}}
+* {{a|UK}} {{IPA|/ˌɪpseɪ ˈdɪksɪt/|/ˌɪpsiː ˈdɪksɪt/|lang=en}}
+* {{a|US}} {{IPA|/ˌɪpsi ˈdɪksɪt/|lang=en}}
 
 ===Noun===
-{{en-noun|ipse dixits}}
+{{en-noun|ipse dixits|head=ipse dixit}}
 
-# {{lb|en|rhetoric}} An [[unproved]] [[proposition]] that is accepted solely on the [[authority]] of someone who is known to have [[assert]]ed it; a [[dogmatic]] statement; a [[dictum]].
-#* {{RQ:Fielding Tom Jones|V|i}}
+# {{lb|en|rhetoric}} {{def|A [[dogmatic]] and [[unproved]] [[proposition]] that is accepted solely on the [[authority]] of someone who is known to have [[assert]]ed it; a [[dictum]].}}
+#* {{RQ:Fielding Tom Jones|V|i}}:
 #*: To avoid, therefore, all imputation of laying down a rule for posterity, founded only on the authority of '''''ipse dixit'''''—for which, to say the truth, we have not the profoundest veneration...
-#* '''1858''' August 21, [[w:Stephen A. Douglas|Stephen A. Douglas]], [[w:Lincoln–Douglas debates of 1858|Rejoinder at Ottawa, Illinois]]
-#*: Mr. Lincoln has not character enough for integrity and truth, merely on his own '''''ipse dixit''''', to arraign President Buchanan, President Pierce, and nine Judges of the Supreme Court, not one of whom would be complimented by being put on an equality with him. There is an unpardonable presumption in a man putting himself up before thousands of people, and pretending that his '''''ipse dixit''''', without proof, without fact, and without truth, is enough to bring down and destroy the purest and best of living men.
+#* {{quote-hansard
+|date=August 21 1858
+|speaker={{w|Stephen A. Douglas}}
+|debate={{w|Lincoln–Douglas debates of 1858|Rejoinder at Ottawa, Illinois}}
+|passage=Mr. Lincoln has not character enough for integrity and truth, merely on his own '''''ipse dixit''''', to arraign President Buchanan, President Pierce, and nine Judges of the Supreme Court, not one of whom would be complimented by being put on an equality with him. There is an unpardonable presumption in a man putting himself up before thousands of people, and pretending that his '''''ipse dixit''''', without proof, without fact, and without truth, is enough to bring down and destroy the purest and best of living men.
+}}
 # An authority who makes such an assertion.
-
-===See also===
-* {{projectlink|wikipedia}}
 
 ===References===
 * {{R:OED2}}
+* {{R:Oxford Dictionaries Online}}
 
-[[Category:en:Logical fallacies]]
+{{catlangcode|en|Logical fallacies}}
+
+----
+
+==Latin==
+
+===Etymology===
+{{calque|la|grc|αὐτὸς ἔφα|he himself said it}}, originally used by Pythagoreans.
+
+===Pronunciation===
+* {{la-IPA|ipse dīxit|eccl=yes}}
+
+===Phrase===
+{{la-phrase|[[ipse]] [[dīxit]]}}
+
+# {{lb|la|rhetoric|Medieval Latin}} {{non-gloss definition|Used after a statement claimed to be by {{l|en|Aristotle}}, whose absolete authority made it and {{l|en|incontestable}}.}}
 
 [[et:ipse dixit]]
 [[kn:ipse dixit]]
