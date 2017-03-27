@@ -66,7 +66,7 @@ The homophone ''[[capitol]]'' refers only to a [[building]], usually one that ho
 * Estonian: {{t|et|kapital}}
 * Finnish: {{t+|fi|pääoma}}
 * French: {{t+|fr|capital|m}}
-* Galician: {{t+|gl|capital|f}}
+* Galician: {{t+|gl|capital|m}}
 * Georgian: {{t|ka|კაპიტალი}}
 * German: {{t+|de|Kapital|n}}
 * Greek: {{t+|el|κεφάλαιο|n}}
@@ -125,6 +125,7 @@ The homophone ''[[capitol]]'' refers only to a [[building]], usually one that ho
 * Estonian: {{t|et|kapiteel}}
 * Finnish: {{t+|fi|kapiteeli}}
 * French: {{t+|fr|chapiteau}}
+* Galician: {{t|gl|capitel|m}}
 * German: {{t+|de|Kapitell|n}}
 * Greek: {{t+|el|κιονόκρανο|n}}
 {{trans-mid}}
@@ -237,7 +238,7 @@ The homophone ''[[capitol]]'' refers only to a [[building]], usually one that ho
 * Catalan: {{t|ca|majúscula}}
 * Chinese:
 *: Mandarin: {{t+|cmn|大寫|alt=大寫的}}, {{t+|cmn|大写|alt=大写的|tr=dàxiě de}}
-* Dutch: {{t|nl|hoofd(letter)}}
+* Dutch: {{t|nl|[[hoofd]](letter)}}
 * Finnish: {{t+|fi|versaali}}, {{t+|fi|iso}}
 * French: {{t+|fr|majuscule}}
 * German: {{t|de|Groß-}}
@@ -278,15 +279,7 @@ The homophone ''[[capitol]]'' refers only to a [[building]], usually one that ho
 {{rel-bottom}}
 
 ===Related terms===
-{{rel-top3|Terms etymologically related to ''capital''}}
-* {{l|en|captain}}
-* {{l|en|capitulate}}
-{{rel-mid3}}
-* {{l|en|capitulation}}
-* {{l|en|chapiter}}
-{{rel-mid3}}
-* {{l|en|chapter}}
-{{rel-bottom}}
+{{rel3|captain|capitulate|capitulation|chapiter|chapter|lang=en}}
 
 ===References===
 * {{R:Online Etymology Dictionary}}
@@ -319,6 +312,9 @@ The homophone ''[[capitol]]'' refers only to a [[building]], usually one that ho
 ===Etymology===
 {{borrowing|ca|la|capitālis}}.
 
+===Pronunciation===
+* {{ca-IPA}}
+
 ===Noun===
 {{ca-noun|f}}
 
@@ -328,6 +324,14 @@ The homophone ''[[capitol]]'' refers only to a [[building]], usually one that ho
 {{ca-noun|m}}
 
 # {{l|en|capital}} {{gloss|finance}}
+
+====Derived terms====
+* {{l|ca|capitalisme}}
+* {{l|ca|capitalista}}
+* {{l|ca|capitalitzar}}
+
+====External links====
+* {{R:IEC2}}
 
 ----
 
@@ -457,27 +461,33 @@ From {{der|rm|la|capitālis}}, from {{m|la|caput||head}}.
 {{borrowing|es|la|capitālis}}.
 
 ===Pronunciation===
-* {{IPA|/ka.piˈtal/|lang=es}}
+* {{es-IPA}}
 * {{audio|Es-am-lat-capital.ogg|Audio (Latin America)|lang=es}}
 
 ===Adjective===
 {{es-adj|pl=capitales}}
 
 # {{l|en|capital}} {{gloss|important}}
-#: ''Es asunto de '''capital''' importancia'' = "(This) is a very important matter"
-#: ''Lo condenaron a la {{l|es|pena}} '''capital''''' = "He was sentenced to [[death penalty]]" (''rare, "[[pena de muerte]]" is commonly used'')
+#: {{ux|es|Es asunto de '''capital''' importancia.|This is a very important matter.}}
+#: {{ux|es|Lo condenaron a la {{l|es|pena}} '''capital'''.|He was sentenced to the [[death penalty]].}}
 
-===Noun===
+===Noun 1===
 {{es-noun|m|es}}
 
 # {{l|en|capital}} {{gloss|finance}}
 
+====Derived terms====
+* {{l|es|capitalismo}}
+* {{l|es|capitalista}}
+* {{l|es|capitalizar}}
+
+===Noun 2===
 {{es-noun|f|es}}
 
 # {{l|en|capital}} {{gloss|city}}
 
-===See also===
-* [[capitalizar]]
+====External links====
+* {{R:DRAE 2001}}
 
 [[ar:capital]]
 [[az:capital]]
