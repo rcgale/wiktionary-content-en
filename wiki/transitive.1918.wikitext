@@ -20,6 +20,7 @@ From {{etyl|la|en}} {{m|la|transitivus}}, from {{m|la|transitus}}, from {{m|la|t
 # {{lb|en|set theory|of a [[relation]] on a [[set]]}} Having the property that if an element ''x'' is related to ''y'' and ''y'' is related to ''z'', then ''x'' is necessarily related to ''z''.
 #: {{ux|en|"Is an ancestor of" is a '''transitive''' relation: if Alice is an ancestor of Bob, and Bob is an ancestor of Carol, then Alice is an ancestor of Carol.}}
 # {{lb|en|algebra|of a {{soplink|group|action}}}} Such that, for any [[two]] [[element]]s of the [[act]]ed-upon [[set]], some group element [[map]]s the first to the second.
+# {{lb|en|graph theory|of a [[graph]]}} Such that, for any two [[vertex|vertices]] there exists a an [[automorphism]] which maps one to the other.
 
 ====Antonyms====
 * {{sense|grammar, of a verb: taking an object}} {{l|en|intransitive}}
@@ -100,6 +101,10 @@ From {{etyl|la|en}} {{m|la|transitivus}}, from {{m|la|transitus}}, from {{m|la|t
 * Polish: {{t|pl|tranzytywny}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|transitivo}}
+{{trans-bottom}}
+
+{{trans-top|of a graph}}
+{{trans-mid}}
 {{trans-bottom}}
 
 ====Derived terms====
