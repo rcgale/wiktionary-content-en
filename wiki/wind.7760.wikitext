@@ -171,7 +171,7 @@ From {{inh|en|enm|wind}}, from {{inh|en|ang|wind||wind}}, from {{inh|en|gem-pro|
 * Bau Bidayuh: {{t|sne|sobak}}
 * Baure: {{t|brg|vir}}
 * Belarusian: {{t|be|ве́цер|m}}
-* Bengali: {{t|bn|বায়ু|tr=baẏu|sc=Beng}}
+* Bengali: {{t|bn|বায়ু|sc=Beng}}
 * Bikol Central: {{t|bcl|duros}}
 * Breton: {{t+|br|avel}}
 *: Old Breton: {{t|obt|auel}}
@@ -181,15 +181,19 @@ From {{inh|en|enm|wind}}, from {{inh|en|ang|wind||wind}}, from {{inh|en|gem-pro|
 * Buryat: {{t|bua|һалхин|sc=Cyrl}}
 * Catalan: {{t+|ca|vent|m}}
 * Cebuano: {{t|ceb|hangin}}
-* Central Atlas Tamazight: {{t|tzm|ⴰⴹⵓ|m|tr=aḍu|sc=Tfng}}
+* Central Atlas Tamazight: {{t|tzm|ⴰⴹⵓ|m|sc=Tfng}}
 * Central Melanau: {{t|mel|pangai}}
 * Chamicuro: {{t|ccc|timili}}
 * Chechen: {{t|ce|мох}}
 * Chichewa: {{t|ny|mphepo}}
 * Chinese:
-*: Cantonese: {{t|yue|風|tr=fung1}}
+*: Cantonese: {{t|yue|風}}, {{t|yue|风|tr=fung1|sc=Hani}}
 *: Mandarin: {{t+|cmn|風|sc=Hani}}, {{t+|cmn|风|tr=fēng|sc=Hani}}
-*: Min Dong: {{t|cdo|风|tr=hung|sc=Hani}}
+*: Hakka: {{t|hak|風}}, {{t|hak|风|tr=fûng|sc=Hani}}
+*: Jin: {{t|cjy|風}}, {{t|cjy|风|tr=feng1|sc=Hani}}
+*: Min Dong: {{t|cdo|風}}, {{t|cdo|风|tr=hŭng|sc=Hani}}
+*: Min Nan: {{t+|mn|風}}, {{t|mn|风|tr=hong, hoang|sc=Hani}}
+*: Wu: {{t|wuu|風}}, {{t|wuu|风|tr=fon|sc=Hani}}
 * Chuvash: {{t|cv|ҫил|sc=Cyrl}}
 * Czech: {{t+|cs|vítr|m}}
 * Dakota: {{t|dak|tate}}
@@ -216,10 +220,10 @@ From {{inh|en|enm|wind}}, from {{inh|en|ang|wind||wind}}, from {{inh|en|gem-pro|
 * Greek: {{t+|el|άνεμος|m}}
 * Greenlandic: {{t|kl|anori}}
 * Guaraní: {{t|gn|yvytu}}
-* Gujarati: {{t|gu|પવન|tr=pavan}}
+* Gujarati: {{t|gu|પવન}}
 * Hausa: {{t|ha|iska}}
 * Hawaiian: {{t|haw|makani}}
-* Hebrew: {{t+|he|רוח|m|f|tr=rúakh}}
+* Hebrew: {{t+|he|רוּחַ|m|f|tr=rúakh}}
 * Hiligaynon: {{t|hil|hangin}}
 * Hindi: {{t+|hi|हवा|f}}, {{t+|hi|पवन|m}}
 * Hungarian: {{t+|hu|szél}}
@@ -237,7 +241,7 @@ From {{inh|en|enm|wind}}, from {{inh|en|ang|wind||wind}}, from {{inh|en|gem-pro|
 * Isthmus Zapotec: {{t|zai|bi}}
 * Istriot: {{t|ist|vento|m}}
 * Italian: {{t+|it|vento|m}}
-* Japanese: {{t+|ja|風|tr=[[かぜ]], kaze|sc=Jpan}}, {{t|ja|ウインド|tr=uindo|sc=Jpan}}, {{t|ja|ウィンド|tr=windo|sc=Jpan}}
+* Japanese: {{t+|ja|風|tr=かぜ, kaze|sc=Jpan}}, {{t|ja|ウインド|tr=uindo|sc=Jpan}}, {{t|ja|ウィンド|tr=windo|sc=Jpan}}
 * Kalmyk: {{t|xal|салькн|sc=Cyrl}}
 * Kannada: {{t+|kn|ಗಾಳಿ|sc=Knda}}
 * Kapampangan: {{t|pam|angin}}
@@ -279,7 +283,7 @@ From {{inh|en|enm|wind}}, from {{inh|en|ang|wind||wind}}, from {{inh|en|gem-pro|
 * Mansi: {{t|mns|вōт}}
 * Manx: {{t|gv|geay|f}}
 * Maori: {{t|mi|hau}}
-* Marathi: {{t|mr|वारा|tr=vārā}}
+* Marathi: {{t|mr|वारा}}
 * Mari:
 *: Eastern Mari: {{t|chm|мардеж|sc=Cyrl}}
 * Mirandese: {{t|mwl|biento|m}}
@@ -291,7 +295,7 @@ From {{inh|en|enm|wind}}, from {{inh|en|ang|wind||wind}}, from {{inh|en|gem-pro|
 * Mòcheno: {{t|mhn|bint}}
 * Nahuatl: {{t+|nah|ehecatl}}
 * Navajo: {{t|nv|níłchʼi}}, {{t|nv|níyol}}
-* Nepali: {{t+|ne|हावा|tr=hāvā|sc=Deva}}
+* Nepali: {{t+|ne|हावा|sc=Deva}}
 * Newari: {{t|new|phē}}
 * Ngazidja Comorian: {{t|zdj|upepo|c11}}
 * Norman: {{t|nrf|vent|m}}
@@ -363,7 +367,7 @@ From {{inh|en|enm|wind}}, from {{inh|en|ang|wind||wind}}, from {{inh|en|gem-pro|
 * Tatar: {{t+|tt|җил|sc=Cyrl}}
 * Tausug: {{t|tsg|hangin}}
 * Telugu: {{t+|te|పవనము}}, {{t+|te|తెమ్మెర}}
-* Thai: {{t+|th|ลม|tr=lom|sc=Thai}}, {{t+|th|วายุ|tr=waayóo|sc=Thai}}
+* Thai: {{t+|th|ลม|sc=Thai}}, {{t+|th|วายุ|sc=Thai}}
 * Tibetan: {{t|bo|རླུང|sc=Tibt}}
 * Timugon Murut: {{t|tih|bagiu}}
 * Tocharian A: {{t|xto|want}}
