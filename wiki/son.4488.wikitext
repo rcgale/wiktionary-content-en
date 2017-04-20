@@ -3,7 +3,7 @@
 {{wikipedia|Son (disambiguation)}}
 
 ===Alternative forms===
-* {{l|en|sonne}} {{qualifier|obsolete}}
+* {{l|en|sonne}} {{q|obsolete}}
 
 ===Pronunciation===
 * {{IPA|/sʌn/|lang=en}}
@@ -595,15 +595,11 @@ From {{inh|fr|frm|son}}, from {{inh|fr|fro|son}}, from {{inh|fr|VL.||sum}}, a re
 ====Determiner====
 {{head|fr|determiner|cat2=possessive determiners|g=m|singular}}
 
-# {{lb|fr|possessive}} [[his|His]], [[her]], [[its]] (used to qualify masculine nouns and before vowel).
-#: ''Elle a perdu son chapeau.''
-#:: ''She lost her hat.''
-#: ''Il a perdu son chapeau.''
-#:: ''He lost his hat.''
-#: ''J'aime son amie.''
-#:: ''I like her/his girlfriend.''
-#: ''La décision a été prise pendant son absence.''
-#:: ''The decision was taken in his absence.''
+# {{lb|fr|possessive}} [[his|His]], [[her]], [[its]] (used to qualify masculine nouns and before a vowel).
+#: {{ux|fr|Elle a perdu son chapeau.|She lost her hat.}}
+#: {{ux|fr|Il a perdu son chapeau.|He lost his hat.}}
+#: {{ux|fr|J'aime son amie.|I like her/his girlfriend.}}
+#: {{ux|fr|La décision a été prise pendant son absence.|The decision was taken in his absence.}}
 
 =====Related terms=====
 {{French possessive adjectives}}
@@ -615,8 +611,7 @@ From {{inh|fr|la|secundus}}. Cognate with {{cog|ca|segó}}. {{doublet|lang=fr|se
 {{fr-noun|m}}
 
 # [[bran]]
-#: ''Ceci est du pain de son.''
-#:: ''This bread is done with bran.''
+#: {{ux|fr|Ceci est du pain de son.|This bread is done with bran.}}
 
 ===Anagrams===
 * {{l|fr|nos}}
@@ -645,8 +640,7 @@ From {{der|gl|la|sonus}}.
 ===Verb===
 {{gl-verb-form}}
 
-# {{inflection of|ser||lang=gl|1|s|pres|indc}}
-# {{inflection of|ser||lang=gl|3|p|pres|indc}}
+# {{inflection of|ser||lang=gl|1|s|pres|ind|;|3|p|pres|ind}}
 
 ----
 
@@ -769,6 +763,7 @@ From {{inh|frm|fro|son}}.
 
 ====Descendants====
 * French: {{l|fr|son}}
+
 ----
 
 ==Northern Sami==
@@ -1029,6 +1024,18 @@ From {{der|tr|otk|tr=soŋ}}, from {{der|tr|trk-pro}}.
 
 ----
 
+==Uzbek==
+
+===Etymology===
+{{rfe|uz}}
+
+===Noun===
+{{uz-noun}}
+
+# [[thigh]]
+
+----
+
 ==Venetian==
 
 ===Verb===
@@ -1115,11 +1122,11 @@ From {{der|tr|otk|tr=soŋ}}, from {{der|tr|trk-pro}}.
 
 ==Zhuang==
 
+===Etymology===
+From {{inh|za|tai-pro|*soːlᴬ}}. Cognate with {{cog|lo|ສອນ}}, {{cog|th|สอน}}.
+
 ===Pronunciation===
 * {{za-pron}}
-
-===Etymology===
-Compare Lao {{l|lo|ສອນ}}, Thai {{l|th|สอน|tr=sawn}}.
 
 ===Verb===
 {{za-head|verb}}
