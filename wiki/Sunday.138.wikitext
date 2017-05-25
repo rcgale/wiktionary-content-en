@@ -208,11 +208,11 @@ Compare {{cog|stq|Sundai||Sunday}}, {{cog|nds|Sünndag}}, {{cog|nl|zondag}}, Wes
 * Chuukese: {{t|chk|Raninfen}}
 * Chuvash: {{t|cv|вырсарникун}}
 * Cornish: {{t|kw|Sul}}, {{t|kw|dy'Sul}}
-* Corsican: {{t+|co|dumenica}}
+* Corsican: {{t+|co|dumenica|f}}
 * Crimean Tatar: {{t|crh|bazar}}
 * Czech: {{t+|cs|neděle|f}}
 * Dakota: {{t|dak|Aŋpetuwakaŋ}}
-* Danish: {{t+|da|søndag}}
+* Danish: {{t+|da|søndag|c}}
 * Dhivehi: {{t|dv|އާދިއްތަ}}
 * Dutch: {{t+|nl|zondag|m}}
 * Esperanto: {{t+|eo|dimanĉo}}
@@ -256,17 +256,17 @@ Compare {{cog|stq|Sundai||Sunday}}, {{cog|nds|Sünndag}}, {{cog|nl|zondag}}, Wes
 * Kurdish:
 *: Sorani: {{t|ku|یه‌کشه‌م}}, {{t|ku|یه‌کشه‌مه‌}}
 * Kyrgyz: {{t+|ky|жекшемби}}
-* Ladin: {{t|lld|domenia}}
+* Ladin: {{t|lld|domenia|}}
 * Lao: {{t+|lo|ວັນອາທິດ|tr=wan-'aa-thit|sc=Laoo}}
 * Latgalian: {{t|ltg|svātdīne|f}}
-* Latin: {{t+|la|dies Solis|m}}, {{t|la|dies Dominica|m}}
+* Latin: {{t+|la|diēs Sōlis|f}}, {{t|la|diēs Dominica|f}}, {{t|la|diēs Dominicus|m}}
 * Latvian: {{t|lv|svētdiena|f}}
 * Lithuanian: {{t+|lt|sekmadienis|m}}
 * Livonian: {{t|liv|pivāpǟva}}
 * Lojban: {{t+|jbo|soldei}}
 * Low German:
 *: Dutch Low Saxon: {{t|nds-nl|zundag}}
-*: German Low German: {{t|nds|Sünndag}}
+*: German Low German: {{t|nds|Sünndag|m}}
 * Luganda: {{t|lg|sande}}
 * Luxembourgish: {{t+|lb|Sonnden|m}}, {{t+|lb|Sonndeg|m}}
 * Lü: {{t|khb|ᦞᧃᦑᦲᧆ}}
@@ -276,11 +276,11 @@ Compare {{cog|stq|Sundai||Sunday}}, {{cog|nds|Sünndag}}, {{cog|nl|zondag}}, Wes
 *: Arabic: {{t|ms|هاري احد|sc=Arab}}, {{t|ms|احد|sc=Arab}}, {{t|ms|هاري ميڠݢو|sc=Arab}}, {{t|ms|ميڠݢو|sc=Arab}}
 *: Latin: {{t|ms|hari Ahad}}, {{t+|ms|Ahad}}, {{t|ms|hari Minggu}}, {{t|ms|Minggu}}
 * Malayalam: {{t|ml|ഞായര്}}
-* Maltese: {{t|mt|il-Ħadd}}
+* Maltese: {{t|mt|il-Ħadd|m}}
 * Manchu: {{t|mnc|ᡧᡠᠨ ᡠᠰᡳᠩᡤᡳ|tr=šun usinggi}}
 * Maori: {{t|mi|Rātapu}}
 * Marathi: {{t+|mr|रविवार|m|sc=Deva}}
-* Mirandese: {{t|mwl|demingo}}
+* Mirandese: {{t|mwl|demingo|m}}
 * Mongolian: {{t+|mn|ням}}
 * Navajo: {{t|nv|Damį́įgo}}, {{t|nv|Damóo}}
 * Neapolitan: {{t|nap|dumméneca}}
@@ -290,19 +290,21 @@ Compare {{cog|stq|Sundai||Sunday}}, {{cog|nds|Sünndag}}, {{cog|nl|zondag}}, Wes
 *: Föhr-Amrum: {{t|frr|söndai}}
 *: Mooring: {{t|frr|saandi}}
 * Northern Sami: {{t|se|sotnabeaivi}}
-* Norwegian: {{t+|no|søndag}}
+* Norwegian: 
+*: Bokmål: {{t+|nb|søndag|m}}
+*: Nynorsk: : {{t+|nn|søndag|m}}, {{t+|nn|sundag|m}}
 * Occitan: {{t+|oc|dimenge|m}}
 * Ojibwe: {{t|oj|anami'egiizhigad}}
-* Old English: {{t+|ang|sunnandæg|m}}
+* Old English: {{t+|ang|sunnandæġ|m}}
 * Old Norse: {{t|non|sunnudagr|m}}
 * Old Turkic: {{t|otk|yetinç}}
 * Oriya: {{t+|or|ରବିବାର|tr=rôbibār|sc=Orya}}
 * Ossetian: {{qualifier|Digor}} {{t|os|хуцаубон}}, {{qualifier|Iron}}: {{t|os|хуыцаубон}}
 * Papiamentu: {{t|pap|diadomingu}}
 * Pashto: {{t+|ps|يکشنبه|tr=yakšanba|sc=ps-Arab}}
-* Pennsylvania German: {{t|pdc|Sunndaag}}
+* Pennsylvania German: {{t|pdc|Sunndaag|m}}
 * Persian: {{t|fa|یک‌شنبه|tr=yekšanbe}}
-* Picard: {{t|pcd|diminche}}
+* Picard: {{t|pcd|diminche|m}}
 * Polish: {{t+|pl|niedziela|f}}
 * Portuguese: {{t+|pt|domingo|m}}
 * Punjabi: {{t+|pa|ਐਤਵਾਰ|tr=ætvār|sc=Guru}}
@@ -323,7 +325,7 @@ Compare {{cog|stq|Sundai||Sunday}}, {{cog|nds|Sünndag}}, {{cog|nl|zondag}}, Wes
 *: Cyrillic: {{t|sh|недеља|f|sc=Cyrl}}, {{t|sh|недјеља|f|sc=Cyrl}}
 *: Roman: {{t+|sh|nedelja|f}}, {{t+|sh|nedjelja|f}}
 * Shona: {{t|sn|Svondo}}
-* Sicilian: {{t+|scn|duminica|f}}, {{t+|scn|dumìnica}}, {{t+|scn|duminicadìa}}
+* Sicilian: {{t+|scn|duminica|f}}, {{t+|scn|dumìnica|f}}, {{t+|scn|duminicadìa|f}}
 * Sindhi: {{t+|sd|آچر|tr=āčaru|sc=sd-Arab}}
 * Sinhalese: {{t+|si|ඉරිදා}}
 * Skolt Sami: {{t|sms|pâʹsspeiʹvv}}
@@ -337,7 +339,7 @@ Compare {{cog|stq|Sundai||Sunday}}, {{cog|nds|Sünndag}}, {{cog|nl|zondag}}, Wes
 * Spanish: {{t+|es|domingo|m}}
 * Swahili: {{t|sw|Jumapili}}
 * Swazi: {{t|ss|lí-Sontfo}}
-* Swedish: {{t+|sv|söndag}}
+* Swedish: {{t+|sv|söndag|c}}
 * Tagalog: {{t|tl|Linggo}}, {{t+|tl|linggo}}
 * Tahitian: {{t|ty|Tapati}}
 * Tajik: {{t+|tg|якшанбе}}
@@ -361,9 +363,9 @@ Compare {{cog|stq|Sundai||Sunday}}, {{cog|nds|Sünndag}}, {{cog|nl|zondag}}, Wes
 * Venetian: {{t+|vec|doménega|f}}
 * Vietnamese: {{t|vi|Chủ nhật}}
 * Volapük: {{t+|vo|sudel}}, {{t|vo|balüdel}}, {{t|vo|soldel}}
-* Walloon: {{t+|wa|dimegne}}
-* Welsh: {{t+|cy|dydd Sul}}
-* West Frisian: {{t+|fy|snein}}
+* Walloon: {{t+|wa|dimegne|f}}
+* Welsh: {{t+|cy|dydd Sul|m}}
+* West Frisian: {{t+|fy|snein|c}}
 * Winnebago: {{t|win|Haramįhe Hąąp}}
 * Wolof: {{t|wo|Dibéer}}, {{t|wo|Dimas}}
 * Xhosa: {{t|xh|isonto}}
