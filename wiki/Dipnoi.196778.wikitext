@@ -7,16 +7,20 @@ From {{etyl|grc|mul}} {{m|grc|δίς||double}} + {{m|grc|πνοή||breathing}}.
 ===Proper noun===
 {{taxoninfl}}
 
-# {{taxon|subclass|class|Sarcopterygii|the [[lungfish]]es and their extinct relatives}}
+# the [[lungfish]]es and their extinct relatives
+## {{taxon|subclass|class|Sarcopterygii}}
+## {{taxon|infraclass|subclass|Sarcopterygii}}
+## {{taxon|class|superclass|Sarcopterygii}}<ref name="Ruggiero">{{R:Ruggiero}}</ref>
 
 ====Hypernyms====
 * {{sense|subclass}} {{l|mul|Chordata}}&nbsp;- phylum; [[Chordata Craniata]]&nbsp;- clade; [[Vertebrata]]&nbsp;- subphylum; [[Gnathostomata]]&nbsp;- infraphylum; [[Osteichthyes]]&nbsp;- superclass; [[Sarcopterygii]]&nbsp;- class
-
+* {{sense|class}} {{Chordata Hypernyms}}; [[Vertebrata]]&nbsp;- subphylum; [[Gnathostomata]]&nbsp;- infraphylum; [[Sarcopterygii]]&nbsp;- superclass<ref name="Ruggiero" />
 ====Hyponyms====
-* {{sense|subclass}} {{l|mul|Ceratodontiformes}}, {{l|mul|Lepidosireniformes}}
+* {{sense|class}} ''{{taxlink|Ceratodontiformes|order|ver=170614}}'', ''{{taxlink|Lepidosireniformes|order|ver=170614}}<ref name="Ruggiero" />&nbsp;- orders
 
 ===Further reading===
 * {{pedia}}
 * {{specieslite}}
 * {{comcatlite}}
 * {{R:TOL}}
+<references />
