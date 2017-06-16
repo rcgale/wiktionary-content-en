@@ -5,7 +5,7 @@
 * {{qualifier|abbreviation, grammar}}: {{l|en|du.}}
 
 ===Etymology===
-{{etyl|la|en}} {{m|la|dualis||two}}, from {{m|la|duo||two}}, + adjective suffix {{m|la|-alis}}
+{{bor|en|la|dualis||two}}, from {{m|la|duo||two}}, + adjective suffix {{m|la|-alis}}
 
 ===Pronunciation===
 * {{a|UK}} {{enPR|dyo͞o'əl, djo͞o'əl}}; {{IPA|/ˈdjuː.əl/|/ˈdʒuː.əl/|lang=en}}
@@ -157,7 +157,7 @@
 * {{IPA|/d̪ˠuəlˠ/|lang=ga}}
 
 ===Etymology 1===
-From {{inh|ga|sga|dúal||tress, lock of hair}}, from {{inh|ga|cel-pro|*doklo-}}, from {{etyl|ine-pro|ga}} {{m|ine-pro|*doḱ-lo-}} (compare {{cog|is|tagl||horse’s tail}}, {{cog|ang|tægel}}, {{cog|en|tail}}).
+From {{inh|ga|sga|dúal||tress, lock of hair}}, from {{inh|ga|cel-pro|*doklos}}, from {{inh|ga|ine-pro|*doḱlos}} (compare {{cog|is|tagl||horse’s tail}}, {{cog|ang|tægel}}, {{cog|en|tail}}).
 
 ====Noun====
 {{ga-noun|m|duail|duail}}
@@ -179,7 +179,7 @@ From {{inh|ga|sga|dúal||tress, lock of hair}}, from {{inh|ga|cel-pro|*doklo-}},
 * {{l|ga|dualach|dualach<sup>1</sup>}}
 
 ====Verb====
-{{ga-verb|pres=dualann|fut=dualfaidh|vn=dualadh|pp=dualta}}
+{{ga-verb|pres=~ann|fut=~faidh|vn=~adh|pp=~ta}}
 
 # to [[twine]]
 # to [[braid]], [[coil]]
@@ -211,7 +211,7 @@ From {{inh|ga|sga|dúal||tress, lock of hair}}, from {{inh|ga|cel-pro|*doklo-}},
 From {{inh|ga|ine-pro|*dʰewgʰ-}}.
 
 ====Adjective====
-{{ga-adj|gsm=duail|gsf=duaile|pl=duala|comp=duaile}}
+{{ga-adj|gsm=duail|gsf=duaile|pl=~a|comp=duaile}}
 
 # [[native]], [[natural]]
 #: {{ux|ga|Is '''dual''' dó a bheith leisciúil.|t=He is naturally lazy.|inline=1}}
@@ -225,7 +225,7 @@ From {{inh|ga|ine-pro|*dʰewgʰ-}}.
 {{ga-decl-adj-1|dual|duail}}
 
 ===Mutation===
-{{ga-mut-cons|d|ual}}
+{{ga-mut}}
 
 ----
 
