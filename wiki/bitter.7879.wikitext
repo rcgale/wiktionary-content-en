@@ -1,10 +1,6 @@
 ==English==
 {{wikipedia|dab=bitter}}
 
-===Etymology===
-{{PIE root|en|bʰeyd}}
-From {{inh|en|enm|bitter}}, from {{inh|en|ang|bitter}}, {{m|ang|biter||bitter}}, from {{inh|en|gem-pro|*bitraz||bitter}}, equivalent to {{affix|en|bite|-er|pos2=adjectival suffix}}. Compare {{cog|stq|bitter||bitter}}, {{cog|fy|bitter||bitter}}, {{cog|nl|bitter||bitter}}, {{cog|nds|bitter||bitter}}, {{cog|de|bitter||bitter}}, {{cog|sv|bitter||bitter}}, {{cog|is|bitur||bitter}}.
-
 ===Pronunciation===
 * {{a|RP}} {{IPA|/ˈbɪtə/|lang=en}}
 * {{a|US}} {{IPA|/ˈbɪtəɹ/|[ˈbɪɾɚ]|lang=en}}
@@ -12,7 +8,11 @@ From {{inh|en|enm|bitter}}, from {{inh|en|ang|bitter}}, {{m|ang|biter||bitter}},
 * {{rhymes|ɪtə(r)|lang=en}}
 * {{homophones|lang=en|bidder}} {{qualifier|in some dialects}}
 
-===Adjective===
+===Etymology 1===
+{{PIE root|en|bʰeyd}}
+From {{inh|en|enm|bitter}}, from {{inh|en|ang|bitter}}, {{m|ang|biter||bitter}}, from {{inh|en|gem-pro|*bitraz||bitter}}, equivalent to {{affix|en|bite|-er|pos2=adjectival suffix}}. Compare {{cog|stq|bitter||bitter}}, {{cog|fy|bitter||bitter}}, {{cog|nl|bitter||bitter}}, {{cog|nds|bitter||bitter}}, {{cog|de|bitter||bitter}}, {{cog|sv|bitter||bitter}}, {{cog|is|bitur||bitter}}.
+
+====Adjective====
 {{en-adj|er|more}}
 
 # Having an [[acrid]] [[taste]] (usually from a [[base|basic]] substance).
@@ -31,22 +31,22 @@ From {{inh|en|enm|bitter}}, from {{inh|en|ang|bitter}}, {{m|ang|biter||bitter}},
 # [[cynical|Cynical]] and [[resentful]].
 #: {{ux|en|I've been '''bitter''' ever since that defeat.}}
 
-====Usage notes====
+=====Usage notes=====
 * The one-word comparative form {{m|en|bitterer}} and superlative form {{m|en|bitterest}} exist, but are less common than their two-word counterparts {{m|en||more bitter}} and {{m|en||most bitter}}.
 
-====Derived terms====
+=====Derived terms=====
 * {{l|en|bitter pill to swallow}}
 
-====See also====
+=====See also=====
 * {{l|en|bitter end}}
 
-====Antonyms====
+=====Antonyms=====
 * {{sense|cynical and resentful}} {{l|en|optimistic}}
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|cynical and resentful}} {{l|en|jaded}}
 
-====Translations====
+=====Translations=====
 {{trans-top|having an acrid taste}}
 * Albanian: {{t+|sq|hidhur}}
 * Arabic: {{t+|ar|مُرّ}}
@@ -228,7 +228,7 @@ From {{inh|en|enm|bitter}}, from {{inh|en|ang|bitter}}, {{m|ang|biter||bitter}},
 * Volapük: {{t-check|vo|biedik}}
 {{trans-bottom}}
 
-===Noun===
+====Noun====
 {{en-noun|~}}
 
 # {{lb|en|usually in the plural [[bitters]]}} A liquid or powder, made from bitter herbs, used in mixed drinks or as a tonic.
@@ -238,10 +238,10 @@ From {{inh|en|enm|bitter}}, from {{inh|en|ang|bitter}}, {{m|ang|biter||bitter}},
 # A type of [[beer]] heavily flavored with [[hops]].
 # {{lb|en|nautical}} A [[turn]] of a [[cable]] about the [[bitts]].
 
-====Derived terms====
+=====Derived terms=====
 * {{l|en|brought up to a bitter}}
 
-====Translations====
+=====Translations=====
 {{trans-top|liquid or powder used in mixed drinks or as tonic}}
 * Armenian: {{t+|hy|դառնություն}}
 * Danish: {{t+|da|bitter}}
@@ -261,11 +261,23 @@ From {{inh|en|enm|bitter}}, from {{inh|en|ang|bitter}}, {{m|ang|biter||bitter}},
 * Spanish: {{t-check|es|bíter|m}}
 {{trans-bottom}}
 
-===Verb===
+====Verb====
 {{en-verb}}
 
 # To make bitter.
 #: {{rfquotek|Wolcott}}
+
+===Etymology 2===
+{{suffix|en|bit|er}}
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|computing|informal}} A [[hardware]] [[system]] whose [[architecture]] is based around units of the specified number of [[bit]]s (binary digits).
+#* '''1983''', ''Computerworld'' (volume 17, number 49, page 21)
+#*: However, 16-'''bitters''' are far more expensive than the 8-bit variety. And, unfortunately, have only a handful of business applications software packages that really take advantage of them.
+#* '''1984''', ''Electronic Business'' (volume 10, page 154)
+#*: The company believes that the 32-bit market will almost equal that of 16-'''bitters''' by the end of the decade. Chip maker Zilog Inc., not a major player in the 16-bit arena, is even more bullish about 32-'''bitters''' as it readies its own version for market.
 
 [[Category:en:Beer]]
 [[Category:en:Taste]]
