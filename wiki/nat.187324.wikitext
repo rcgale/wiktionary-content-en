@@ -29,6 +29,7 @@ Abbreviation of [[natural logarithm|'''nat'''ural logarithm]].
 
 ====Noun====
 {{en-noun}}
+
 # [[logarithmic]] unit of information or [[entropy]], based on natural logarithms
 
 =====Synonyms=====
@@ -47,7 +48,10 @@ Abbreviation of [[natural logarithm|'''nat'''ural logarithm]].
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{m|la|nātus}}.
+From {{der|ca|la|nātus}}.
+
+===Pronunciation===
+* {{ca-IPA}}
 
 ===Adjective===
 {{ca-adj|nada}}
@@ -57,22 +61,25 @@ From {{etyl|la|ca}} {{m|la|nātus}}.
 ====Synonyms====
 * [[nascut]]
 
+====Further reading====
+* {{R:IEC2}}
+
 ----
 
 ==Danish==
 
 ===Etymology===
-From {{etyl|gmq-oda|da}} {{m|gmq-oda|nat}}, from {{etyl|non|da}} {{m|non|nátt}}, {{m|non|nótt}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*nahts}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*nókʷts}}.
+From {{inh|da|gmq-oda|nat}}, from {{inh|da|non|nátt}}, {{m|non|nótt}}, from {{inh|da|gem-pro|*nahts}}, from {{inh|da|ine-pro|*nókʷts}}.
 
 ===Pronunciation===
-* {{IPA|[nad̥]|lang=da}}
+* {{IPA|/nad̥/|lang=da}}
 
 ===Noun===
 {{da-noun|natten|nætter|g=c}}
 
 # [[night]] (period between sunset and sunrise)
 
-====Inflection====
+====Declension====
 {{da-noun-infl-base
 |sg-indef=nat
 |sg-def=natten
@@ -84,6 +91,9 @@ From {{etyl|gmq-oda|da}} {{m|gmq-oda|nat}}, from {{etyl|non|da}} {{m|non|nátt}}
 |gen-pl-def=nætternes
 |g=c
 }}
+
+===Further reading===
+* {{R:DDO}}
 
 [[Category:da:Time]]
 
@@ -141,7 +151,7 @@ From {{inh|nl|dum|nat}}, from {{inh|nl|odt|nat}}, from {{inh|nl|gem-pro|*nataz}}
 ==Middle English==
 
 ===Etymology===
-{{etyl|ang|enm}} {{m|ang|*noth|*nōht}}, {{m|ang|nāht||nought, nothing}}, short for {{m|ang|nōwiht}}, {{m|ang|nāwiht||nothing|lit=no thing, no creature}}, corresponding to {{m|ang|nā||no}} + {{m|ang|wiht||thing, creature}}.
+From {{inh|enm|ang|*noth|*nōht}}, {{m|ang|nāht||nought, nothing}}, short for {{m|ang|nōwiht}}, {{m|ang|nāwiht||nothing|lit=no thing, no creature}}, corresponding to {{m|ang|nā||no}} + {{m|ang|wiht||thing, creature}}.
 
 ===Adverb===
 {{head|enm|adverb}}
@@ -173,13 +183,13 @@ From {{inh|gmq-osw|non|nátt}}, from {{inh|gmq-osw|gem-pro|*nahts}}.
 ==Romanian==
 
 ===Etymology===
-From {{etyl|la|ro}} {{m|la|nātus}}, taking the meaning of "offspring" or "progeny" in relation to the parent. Compare Aromanian {{m|rup|nat||child}}, also Provençal ''[[nada]]'' ("girl").
+From {{der|ro|la|nātus}}, taking the meaning of "offspring" or "progeny" in relation to the parent. Compare Aromanian {{m|rup|nat||child}}, also Provençal ''[[nada]]'' ("girl").
 
 ===Noun===
 {{ro-noun|m|nați}}
 
-# {{lb|ro|uncommon, popular}} [[person]], [[individual]]
-# {{lb|ro|uncommon, popular}} [[kinsman]], [[relative]]
+# {{lb|ro|uncommon|popular}} [[person]], [[individual]]
+# {{lb|ro|uncommon|popular}} [[kinsman]], [[relative]]
 
 ====Declension====
 {{ro-noun-m|pl=nați|def=natul}}
