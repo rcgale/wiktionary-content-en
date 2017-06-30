@@ -36,17 +36,15 @@
 ===Etymology 1===
 
 ====Noun====
-{{head|egy|noun|g=m|head=<hiero>t:*r-M5-N5</hiero>}}
+{{egy-noun|m|head=<hiero>t:*r-M5-N5</hiero>}}
 
 # [[season]]
 
 =====Usage notes=====
-Variant hieroglyphic writings:
-{| class="wikitable"
-| <hiero>t:*r-i-M5-N5</hiero>||<hiero>i-t:*r-N5</hiero>||<hiero>M5-N5</hiero>
-|-
-| ''tr'' || {{m|egy|jtr}} ||''tr''
-|}
+{{egy-hieroforms
+|<hiero>t:*r-i-M5-N5</hiero>|read1=tr
+|<hiero>i-t:*r-N5</hiero>|read2=jtr
+|<hiero>M5-N5</hiero>|read3=tr}}
 
 =====Inflection=====
 {{egy-decl-noun|g=m|tr}}
@@ -54,23 +52,18 @@ Variant hieroglyphic writings:
 ===Etymology 2===
 
 ====Particle====
-{{head|egy|particle|head=<hiero>t:*r-M5-A2</hiero>}}
+{{egy-part|enclitic|head=<hiero>t:*r-M5-A2</hiero>}}
 
-# ''Indicates that the phrase is a question''
+# {{ngd|Interrogative particle; indicates that the phrase is a question}}
 # [[really]]?, [[actually]]?
 
 =====Usage notes=====
-This particle is enclitic.
-
-Variant hieroglyphic writings:
-{| class="wikitable"
-| <hiero>t:Z4</hiero>||<hiero>t-M5</hiero>
-|-
-| ''tr'' || ''tr''
-|}
+{{egy-hieroforms
+|<hiero>t:Z4</hiero>|read1=tr
+|<hiero>t-M5</hiero>|read2=tr}}
 
 ====Verb====
-{{head|egy|verb|head=<hiero>t:*r-M5-A30-M40</hiero>}}
+{{egy-verb|2-lit|head=<hiero>t:*r-M5-A30-M40</hiero>}}
 
 # {{lb|egy|transitive}} to [[respect]]
 # {{lb|egy|intransitive}} to be [[respectful]]
@@ -78,12 +71,9 @@ Variant hieroglyphic writings:
 # {{lb|egy|transitive}} to [[hail]]
 
 =====Usage notes=====
-Variant hieroglyphic writings:
-{| class="wikitable"
-| <hiero>t::r-Y1</hiero>||<hiero>t::r-i-i-A30</hiero>
-|-
-| ''tr'' || {{m|egy|try}}
-|}
+{{egy-hieroforms
+|<hiero>t::r-Y1</hiero>|read1=tr
+|<hiero>t::r-i-i-A30</hiero>|read2=try}}
 
 =====Inflection=====
 {{egy-conj-2-lit|tr|trr}}
