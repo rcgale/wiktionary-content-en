@@ -18,9 +18,9 @@
 * {{hyphenation|rè|gia|lang=it}}
 
 ===Adjective===
-{{head|it|adjective form}}
+{{it-adj-form|f-s}}
 
-# {{feminine singular of|regio|lang=it}}
+# {{it-adj form of|regio|f|sg}}
 
 ===Anagrams===
 * {{l|it|agire}}, {{l|it|egira}}, {{l|it|eriga}}, {{l|it|giare}}, {{l|it|ragie}}, {{l|it|reagì}}
@@ -28,6 +28,7 @@
 ----
 
 ==Latin==
+
 ===Pronunciation===
 * {{la-IPA|rēgia}}
 
@@ -91,19 +92,18 @@ Morphemes: {{affix|nov|reg-|-al}}
 # [[kingdom]]
 
 ====Related terms====
-
-{{col-top|3}}
-* {{l|nov|rege|pos=n||monarch}}
-* {{l|nov|rego|pos=n||king}}
-* {{l|nov|rega|pos=n||queen}}
-* {{l|nov|regira|pos=v||reign}}
-* {{l|nov|regido|pos=n||royal prince}}
-* {{l|nov|regida|pos=n||royal princess}}
-* {{l|nov|viserego|pos=n||viceroy}}
-* {{l|nov|regal|pos=a||regal, royal}}
-* {{l|nov|regonal|pos=a||kingly}}
-* {{l|nov|reganal|pos=a||queenly}}
-{{col-bottom}}
+{{rel3
+|{{l|nov|rege|pos=n|t=monarch}}
+|{{l|nov|rego|pos=n|t=king}}
+|{{l|nov|rega|pos=n|t=queen}}
+|{{l|nov|regira|pos=v|t=reign}}
+|{{l|nov|regido|pos=n|t=royal prince}}
+|{{l|nov|regida|pos=n|t=royal princess}}
+|{{l|nov|viserego|pos=n|t=viceroy}}
+|{{l|nov|regal|pos=a|t=regal, royal}}
+|{{l|nov|regonal|pos=a|t=kingly}}
+|{{l|nov|reganal|pos=a|t=queenly}}
+|lang=nov}}
 
 ----
 
