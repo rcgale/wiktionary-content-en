@@ -1,5 +1,4 @@
 ==English==
-{{wikipedia}}
 
 ===Pronunciation===
 * {{audio|En-us-SQL.ogg|Audio (US)|lang=en}}
@@ -31,14 +30,17 @@
 ====Hypernyms====
 * {{l|en|QL}}
 
+====Hyponyms====
+{{hyp4
+| {{l|en|eSQL}}
+| {{l|en|NoSQL}}
+| {{l|en|PL/SQL}}
+| {{l|en|Transact-SQL}}
+| {{l|en|T-SQL}}
+|lang=en}}
+
 ====Derived terms====
-{{der4|lang=en|{{l|en|eSQL}}
-|{{l|en|HSQLDB}}
-|{{l|en|NoSQL}}
-|{{l|en|PL/SQL}}
-|{{l|en|Transact-SQL}}
-|{{l|en|T-SQL}}
-}}
+* {{l|en|HSQLDB}}
 
 ====Translations====
 {{trans-top|SQL}}
@@ -51,5 +53,8 @@
 
 ====Usage notes====
 * {{sense|structured query language}} The first form of SQL was called {{m|en||SEQUEL}}, pronounced like {{m|en||sequel}}. As a result, many speakers still pronounce {{m|en|SQL}} like {{m|en||sequel}}. (For these speakers, {{m|en|SQL}} is an [[Appendix:Glossary#acronym|acronym]].)
+
+===References===
+* {{pedia}}
 
 [[Category:English acronyms]]
