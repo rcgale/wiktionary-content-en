@@ -29,7 +29,7 @@ Short for {{m|en|barazoku}}, from {{etyl|ja|en}} {{m|ja|薔薇族}} ({{m|ja|バ�
 ==Breton==
 
 ===Etymology===
-From {{inh|br|cel-pro|[[*bargos]], [[*barginā]]||cake, bread}} (compare {{cog|cy|bara}}, {{cog|oco|bara}}, {{cog|sga|bairgen|g=f||bread, loaf; food, plain diet}}).
+From {{inh|br|cel-pro|[[*bargos]], [[*barginā]]|t=cake, bread}} (compare {{cog|cy|bara}}, {{cog|oco|bara}}, {{cog|sga|bairgen|g=f|t=bread, loaf; food, plain diet}}).
 
 ===Pronunciation===
 * {{IPA|/ˈba.ʁa/|lang=br}}
@@ -39,9 +39,6 @@ From {{inh|br|cel-pro|[[*bargos]], [[*barginā]]||cake, bread}} (compare {{cog|c
 
 # [[bread]]
 
-====Derived terms====
-{{der3|bara amanenn|bara an aelez|bara an aoter|bara-an-evn|bara-an-hoc'h|bara-an-ozhac'h-kozh|bara ar Rouanez|bara brizh|bara-choanenn|bara-chokolad|bara du|bara-gad|bara-gavr|bara gwenn|bara-kann|bara-koukoug|bara krazet|bara-laezh|bara-ludu|bara-mel|bara-mor|bara-oaled|bara-rezin|bara-tiegezh|baraa|baraek|baraenn|baraer|baraerezh|baraiñ|lang=br}}
-
 ===Inflection===
 {{br-noun-mutation
 |b
@@ -49,6 +46,9 @@ From {{inh|br|cel-pro|[[*bargos]], [[*barginā]]||cake, bread}} (compare {{cog|c
 |araioù
 |g=m
 }}
+
+====Derived terms====
+{{der4|bara amanenn|bara an aelez|bara an aoter|bara-an-evn|bara-an-hoc'h|bara-an-ozhac'h-kozh|bara ar Rouanez|bara brizh|bara-choanenn|bara-chokolad|bara du|bara-gad|bara-gavr|bara gwenn|bara-kann|bara-koukoug|bara krazet|bara-laezh|bara-ludu|bara-mel|bara-mor|bara-oaled|bara-rezin|bara-tiegezh|baraa|baraek|baraenn|baraer|baraerezh|baraiñ|lang=br}}
 
 {{topics|br|Foods}}
 
@@ -91,7 +91,7 @@ From {{inh|br|cel-pro|[[*bargos]], [[*barginā]]||cake, bread}} (compare {{cog|c
 ==Hiligaynon==
 
 ===Etymology===
-From {{etyl|es|hil}} {{m|es|vara}}/{{m|es|barra}}.
+{{bor|hil|es|vara}}/{{m|es|barra}}.
 
 ===Noun===
 {{hil-noun|bára}}
@@ -142,10 +142,10 @@ From {{etyl|es|hil}} {{m|es|vara}}/{{m|es|barra}}.
 ==Irish==
 
 ===Etymology 1===
-From {{inh|ga|sga|bara||flow; intention, design}}.
+From {{inh|ga|sga|bara|t=flow; intention, design}}.
 
 ====Noun====
-{{ga-noun|f|-|baraí}}
+{{ga-noun|f|~|~í}}
 
 # [[inclination]], [[intention]]
 
@@ -153,25 +153,27 @@ From {{inh|ga|sga|bara||flow; intention, design}}.
 {{ga-decl-f4|b|ara|araí}}
 
 ===Etymology 2===
-From {{inh|ga|mga|bara||barrow}}, a {{bor|ga|non|barar|nocap=1}}.
+From {{inh|ga|mga|bara|t=barrow}}, a {{bor|ga|non|barar|nocap=1}}.
 
 ====Noun====
-{{ga-noun|m|-|baraí}}
+{{ga-noun|m|~|~í}}
 
-# [[barrow]]
+# [[barrow]], [[cart]]
 
 =====Declension=====
 {{ga-decl-m4|b|ara|araí}}
 
 =====Derived terms=====
-* {{l|ga|bara láimhe||hand-barrow}}
-* {{l|ga|bara rotha||wheel-barrow}}
+* {{l|ga|bara láimhe|t=hand-barrow}}
+* {{l|ga|bara rotha|t=wheel-barrow}}
 
 ===Mutation===
-{{ga-mut-cons|b|ara}}
+{{ga-mut}}
 
-===References===
+===Further reading===
 * {{R:ga:Ó Dónaill}}
+* {{R:ga:Foras|barrow}}
+* {{R:ga:Foras|cart}}
 * {{R:DIL|5376|head=1 bara}}
 * {{R:DIL|5377|head=2 bara}}
 
@@ -180,7 +182,7 @@ From {{inh|ga|mga|bara||barrow}}, a {{bor|ga|non|barar|nocap=1}}.
 ==Italian==
 
 ===Etymology 1===
-{{bor|it|lng|bāra||bier, litter}}, from {{der|it|gem-pro|*beraną||to carry}}.
+{{bor|it|lng|bāra|t=bier, litter}}, from {{der|it|gem-pro|*beraną|t=to carry}}.
 
 ====Noun====
 {{it-noun|f}}
@@ -200,7 +202,7 @@ From {{inh|ga|mga|bara||barrow}}, a {{bor|ga|non|barar|nocap=1}}.
 ==Jamaican Creole==
 
 ===Alternative forms===
-* '''[[baro]]''', '''[[baara]]''' (basilectal Jamaican Creole)
+* {{l|jam|baro}}, {{l|jam|baara}} {{qualifier|basilectal Jamaican Creole}}
 
 ===Verb===
 {{head|jam|verb}}
@@ -231,7 +233,7 @@ From {{inh|ga|mga|bara||barrow}}, a {{bor|ga|non|barar|nocap=1}}.
 
 ===Etymology===
 {{PIE root|goh|bʰer}}
-From {{inh|goh|gem-pro|*bērō}}, whence also Old English {{m|ang|bēr}}.
+From {{inh|goh|gem-pro|*bērō}}, whence also {{cog|ang|bēr}}.
 
 ===Noun===
 {{goh-noun|head=bāra|f}}
@@ -247,7 +249,7 @@ From {{inh|goh|gem-pro|*bērō}}, whence also Old English {{m|ang|bēr}}.
 ==Old Swedish==
 
 ===Etymology===
-From {{inh|gmq-osw|non|bera}}, {{m|non|bara}} (east old norse), from {{inh|gmq-osw|gem-pro|*bazōną}}.
+From {{inh|gmq-osw|non|bera}}, {{m|non|bara}} (East Old Norse), from {{inh|gmq-osw|gem-pro|*bazōną}}.
 
 ===Verb===
 {{head|gmq-osw|verb}}
@@ -262,7 +264,7 @@ From {{inh|gmq-osw|non|bera}}, {{m|non|bara}} (east old norse), from {{inh|gmq-o
 ==Romanian==
 
 ===Etymology===
-From {{etyl|fr|ro}} {{m|fr|barrer||to bar}}.
+{{bor|ro|fr|barrer|t=to bar}}.
 
 ===Pronunciation===
 * {{IPA|/baˈra/|lang=ro}}
@@ -309,7 +311,7 @@ From {{inh|sh|sla-pro|*bara}}.
 ==Swahili==
 
 ===Etymology===
-From {{etyl|ar|sw}} {{m|ar|بَرّ||mainland}}.
+From {{der|sw|ar|بَرّ|t=mainland}}.
 
 ===Noun===
 {{sw-noun|n}}
@@ -346,10 +348,19 @@ From {{etyl|ar|sw}} {{m|ar|بَرّ||mainland}}.
 
 ----
 
+==Turkish==
+
+===Noun===
+{{tr-noun-form}}
+
+# {{inflection of|bar||def|dat|s|lang=tr}}
+
+----
+
 ==Welsh==
 
 ===Etymology===
-From {{inh|cy|cel-pro|[[*bargo-]], [[*barginā-]]||cake, bread}} (compare {{cog|br|bara}}, {{cog|oco|bara}}, {{cog|sga|bairgen|g=f||bread, loaf; food, plain diet}}).
+From {{inh|cy|cel-pro|[[*bargo-]], [[*barginā-]]|t=cake, bread}} (compare {{cog|br|bara}}, {{cog|oco|bara}}, {{cog|sga|bairgen|g=f|t=bread, loaf; food, plain diet}}).
 
 ===Pronunciation===
 * {{a|North Wales}} {{IPA|/ˈbara/|lang=cy}}
