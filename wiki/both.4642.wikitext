@@ -178,13 +178,13 @@ From {{der|en|enm|boþe}}, from {{der|en|non|báðir}}, from {{der|en|gem-pro|*b
 ==Irish==
 
 ===Etymology===
-From {{inh|ga|sga|both||hut, bothy, cot; cabin}}, from {{inh|ga|cel-pro|*butā}} (compare {{cog|wlm|bot||dwelling}}), from {{inh|ga|ine-pro|*bʰuH-||to be}}.
+From {{inh|ga|sga|both|t=hut, bothy, cot; cabin}}, from {{inh|ga|cel-pro|*butā}} (compare {{cog|wlm|bot|t=dwelling}}), from {{inh|ga|ine-pro|*bʰuH-|t=to be}}.
 
 ===Pronunciation===
 * {{IPA|/bˠɔh/|/bˠɔ/|lang=ga}}
 
 ===Noun===
-{{ga-noun|f|botha|bothanna}}
+{{ga-noun|f|~a|~anna|pl2=~a}}
 
 # [[booth]], [[hut]]
 
@@ -194,16 +194,19 @@ From {{inh|ga|sga|both||hut, bothy, cot; cabin}}, from {{inh|ga|cel-pro|*butā}}
 {{ga-decl-f-irreg|b|oth|otha|otha|oth}}
 
 ====Derived terms====
-* {{l|ga|bothach|pos=adj||hutted, full of huts}}
-* {{l|ga|bothán|g=m||shanty, cabin; hut, shed, coop}}
-* {{l|ga|bothchampa|g=m||hutment}}
-* {{l|ga|bothóg|g=f||shanty, cabin}}
+{{der4
+|{{l|ga|bothach|pos=a|t=hutted, full of huts}}
+|{{l|ga|bothán|g=m|t=shanty, cabin; hut, shed, coop}}
+|{{l|ga|bothchampa|g=m|t=hutment}}
+|{{l|ga|bothóg|g=f|t=shanty, cabin}}
+|lang=ga}}
 
 ===Mutation===
-{{ga-mut-cons|b|oth}}
+{{ga-mut}}
 
-===References===
-* {{R:ga:ODonaill}}
+===Further reading===
+* {{R:ga:Ó Dónaill}}
+* {{R:ga:Foras}}
 * {{R:DIL|6435|head=2 both}}
 
 {{topics|ga|Housing}}
