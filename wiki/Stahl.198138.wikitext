@@ -2,7 +2,7 @@
 ==German==
 
 ===Etymology===
-From {{etyl|goh|de}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*stahlą}}, {{m|gem-pro|*stahliją}}, from {{etyl|ine-pro|de}} {{m|ine-pro|*stak-||to stay, be firm}}. Compare Dutch {{m|nl|staal}}, Danish {{m|da|stål}}, Icelandic {{m|is|stál}}, also English {{m|en|steel}}.
+From {{inh|de|gmh|}}, from {{inh|de|goh|stahal}}, from {{inh|de|gem-pro|*stahlą}}, {{m|gem-pro|*stahliją}}, from {{inh|de|ine-pro|*stak-||to stay, be firm}}. Cognate with {{cog|nl|staal}}, {{cog|da|stål}}, {{cog|is|stál}}, also {{cog|en|steel}}.
 
 ===Pronunciation===
 * {{IPA|/ʃtaːl/|lang=de}}
@@ -10,9 +10,12 @@ From {{etyl|goh|de}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*stahlą}}, {{m|gem-p
 * {{rhymes|aːl|lang=de}}
 
 ===Noun===
-{{de-noun|m|Stahls|Stähle|gen2=Stahles}}
+{{de-noun|m|Stahles|Stähle|gen2=Stahls}}
 
 # [[steel]]
+
+====Declension====
+{{de-decl-noun-m|(e)s|pl=Stähle}}
 
 ====Related terms====
 * {{l|de|Edelstahl}}
@@ -30,8 +33,8 @@ From {{etyl|goh|de}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*stahlą}}, {{m|gem-p
 * {{l|de|Stahlkopfforelle}}
 
 ====Descendants====
-* Polish: {{l|pl|stal}}
-* Russian: {{l|ru|сталь}}
+* {{desc|pl|stal}}
+* {{desc|ru|сталь}}
 
 ===Further reading===
 * {{R:Duden}}
