@@ -1,6 +1,5 @@
 {{also|Time|timé|tìme}}
 ==English==
-{{wikipedia}}
 
 ===Alternative forms===
 * {{l|en|tyme}} {{qualifier|obsolete}}
@@ -17,7 +16,8 @@ From {{inh|en|enm|time}}, {{m|enm|tyme}}, from {{inh|en|ang|tīma||time, period,
 * {{rhymes|aɪm|lang=en}}
 * {{rhymes|ɑem|lang=en}}
 * {{rhymes|ɜːm|lang=en}}
-* {{homophones|lang=en|thyme}}
+* {{hyphenation|time|lang=en}}
+* {{homophones|thyme|lang=en}}
 
 ===Noun===
 {{en-noun|~}}
@@ -131,7 +131,7 @@ Typical collocations with '''time''' or time expressions.
 * {{seeCites}}
 
 ====Hyponyms====
-{{hyp4-u|lang=en|title=Hyponyms of ''time'' (proper names)
+{{hyp4-u|title=Hyponyms of ''time'' (proper names)
 |African time
 |Alaska Standard Time
 |Alaska Standard Time
@@ -230,9 +230,9 @@ Typical collocations with '''time''' or time expressions.
 |Western European Time
 |Yukon Time
 |Zulu time
-}}
+|lang=en}}
 
-{{hyp4-u|lang=en|title=other hyponyms of "time"
+{{hyp4-u|title=other hyponyms of ''time''
 |absolute time
 |access time
 |Achilles tendon reflex time
@@ -828,39 +828,60 @@ Typical collocations with '''time''' or time expressions.
 |Z time
 |zone time
 |zonetime
-}}
+|lang=en}}
 
 ====Derived terms====
-{{der4-u|lang=en
+{{der4-u
 |aftertime
+|birth-time
+|cock-shut-time
+|compile-time
 |compile-time
 |counter-time
+|dance-time
+|dining-time
 |downtime
 |first-time
 |flexitime
 |floodtime
 |floortime
 |foretime
+|fruit-time
+|heaking-time
+|holiday-time
 |last-time
+|launch-time
 |lead-time
 |link-time
 |lock-time
 |long-time
 |march-time
+|march-time
+|nick-time
 |nick-time
 |no-time
 |off-time
 |oft-time
+|peace-time
+|please-time
+|quitting-time
 |real-time
 |reap-time
+|reap-time
+|ring-time
 |ring-time
 |run-time
 |rutey-time
+|rutey-time
 |seedtime
 |seed-time
+|shriving-time
 |sometime
 |space-time
 |split-time
+|split-time
+|spring-time
+|stop-time
 |stop-time
 |term-time
 |time/space
@@ -884,6 +905,8 @@ Typical collocations with '''time''' or time expressions.
 |Timewheel
 |timework
 |timist
+|two-time
+|undern-time
 |untime
 |vacation-time
 |waltz-time
@@ -891,11 +914,12 @@ Typical collocations with '''time''' or time expressions.
 |waste-time
 |whiting-time
 |whole-time
+|winter-time
 |zonetime
-}}
+|lang=en}}
 
 ====Related terms====
-{{rel4|lang=en|title=Related words to "time"
+{{rel4|title=Related words to ''time''
 |administration of the fulness of times
 |anytime
 |arrow of time
@@ -1143,9 +1167,9 @@ Typical collocations with '''time''' or time expressions.
 |time-span reduction
 |time-tracking software
 |Time-Triggered Protocol
-}}
+|lang=en}}
 
-{{rel4|lang=en|title=Related words to "time" that are not nouns
+{{rel4|title=Related words to ''time'' that are not nouns
 |a long time coming
 |administration of the fulness of times
 |anight
@@ -1263,7 +1287,8 @@ Typical collocations with '''time''' or time expressions.
 |on a time
 |once upon a time
 |one's time is one's own
-|[[othertimes]], [[other-times]]
+|othertimes
+|other-times
 |out of one's time
 |out of time
 |over time
@@ -1396,7 +1421,8 @@ Typical collocations with '''time''' or time expressions.
 |time-of-use meter
 |time-of-use rates
 |time-on
-|[[time-one map]], [[time-one mapping]]
+|time-one map
+|time-one mapping
 |time-ordered
 |timeous
 |timeout
@@ -1421,7 +1447,8 @@ Typical collocations with '''time''' or time expressions.
 |times without number
 |time-sampling
 |time-saver
-|[[timesaving]], [[time-saving]]
+|timesaving
+|time-saving
 |time-scale
 |time-served
 |timeserver
@@ -1484,7 +1511,7 @@ Typical collocations with '''time''' or time expressions.
 |when the time comes
 |why in time
 |within the agreed time
-}}
+|lang=en}}
 
 ====Translations====
 {{trans-top|inevitable passing of events}}
@@ -2150,7 +2177,7 @@ Typical collocations with '''time''' or time expressions.
 
 ====Derived terms====
 <!--Terms derived from the VERB senses-->
-{{der4|lang=en
+{{der4
 |mistime
 |overtime
 |over-time
@@ -2161,7 +2188,7 @@ Typical collocations with '''time''' or time expressions.
 |time out
 |timer
 |timing
-}}
+|lang=en}}
 
 ====Translations====
 {{trans-top|to measure time}}
@@ -2205,10 +2232,10 @@ Typical collocations with '''time''' or time expressions.
 {{checktrans-top}}
 * Esperanto: {{t-check|eo|kronometri}}, {{t-check|eo|[[registri]] [[la]] [[daŭro]]n [[de]]}}
 * Interlingua: {{t-check|ia|chronometrar}}
-{{trans-mid}}
+{{checktrans-mid}}
 * Norman: {{t-check|nrf|minnuter}} {{qualifier|Jersey}}
 * Vietnamese: {{t-check|vi|thoi gian}}
-{{trans-bottom}}
+{{checktrans-bottom}}
 
 ===Interjection===
 {{en-interj}}
@@ -2222,6 +2249,9 @@ Typical collocations with '''time''' or time expressions.
 * {{l|en|temporal}}<!--not etymologically related to "time"-->
 * {{l|en|Time-ese}}
 * {{l|en|Timese}}
+
+===References===
+* {{pedia}}
 
 ===Further reading===
 * {{Wikisource1911Enc Citation|Time}}
