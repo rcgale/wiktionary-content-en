@@ -7,7 +7,7 @@
 * {{l|en|momma}}
 
 ===Etymology===
-From a reduplication of {{m|en|ma}}; a trend present in many [[Indo-European]] languages, probably with ultimate origin in baby talk; or perhaps representing, in altered form, a continuation of {{etyl|enm|en}} {{m|enm|mome||mother, aunt}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*mōmǭ||mother, aunt}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*méh₂-méh₂}}, reduplication of {{m|ine-pro|*méh₂-||mother}}, related to {{cog|de|Muhme||aunt}}, {{cog|la|mamma||mother, nurse}}, {{cog|ga|mam||mother}}, {{cog|lt|mama}}, {{m|lt|moma||mother}}.
+From a reduplication of {{m|en|ma}}; a trend present in many [[Indo-European]] languages, probably with ultimate origin in baby talk; or perhaps representing, in altered form, a continuation of {{der|en|enm|mome|t=mother, aunt}}, from {{der|en|gem-pro|*mōmǭ|t=mother, aunt}}, from {{der|en|ine-pro|*méh₂-méh₂}}, reduplication of {{m|ine-pro|*méh₂-|t=mother}}, related to {{cog|de|Muhme|t=aunt}}, {{cog|la|mamma|t=mother, nurse}}, {{cog|ga|mam|t=mother}}, {{cog|lt|mama}}, {{m|lt|moma|t=mother}}.
 
 ===Pronunciation===
 * {{a|GenAm}} {{enPR|mäʹmə}}, {{IPA|/ˈmɑmə/|lang=en}}
@@ -36,16 +36,14 @@ From a reduplication of {{m|en|ma}}; a trend present in many [[Indo-European]] l
 ==Aukan==
 
 ===Etymology===
-From {{etyl|en|djk}} {{m|en|mama}}.
+{{bor|djk|en|mama}}.
 
 ===Noun===
 {{head|djk|noun}}
 
 # [[mother]]
 # [[woman]]
-
-====Synonyms====
-* [[uman]] {{qualifier|woman}}
+#: {{syn|djk|uman}}
 
 ----
 
@@ -59,8 +57,7 @@ From {{etyl|en|djk}} {{m|en|mama}}.
 
 # [[mother]]
 # [[Mrs.]], [[mistress]] {{qualifier|general respectful address for married women}}.
-#: ''tatanak '''mamanaka'''''
-#:: ladies and gentlemen
+#: {{ux|ay|tatanak '''mamanaka'''|ladies and gentlemen}}
 
 ----
 
@@ -112,12 +109,11 @@ From {{bor|chn|en|mama|notext=1}} or {{bor|chn|fr|maman|notext=1}}.
 {{nl-noun|f|-'s|mamaatje}}
 
 # [[#English|mama]], [[mother]]
-#: '''''Mama''', ik heb honger!''
-#:: '''Mommy''', I’m hungry!
+#: {{ux|nl|'''Mama''', ik heb honger!|'''Mommy''', I’m hungry!}}
 
 ====Synonyms====
-* [[ma#Dutch|ma]], [[mam#Dutch|mam]]
-* [[moeder]], [[moe#Dutch|moe]], [[moeke]] {{qualifier|Flemish}}
+* {{l|nl|ma}}, {{l|nl|mam}}
+* {{l|nl|moeder}}, {{l|nl|moe}}, {{l|nl|moeke}} {{qual|Flemish}}
 
 [[Category:nl:Family]]
 [[Category:nl:Parents]]
@@ -179,14 +175,14 @@ From {{bor|chn|en|mama|notext=1}} or {{bor|chn|fr|maman|notext=1}}.
 # {{l|en|mama}}, [[mom]], [[mommy]], [[mum]]
 
 ====Synonyms====
-* [[matro]]
+* {{l|io|matro}}
 
 ----
 
 ==Istriot==
 
 ===Etymology===
-From {{etyl|la|ist}} {{m|la|mamma}}.
+From {{inh|ist|la|mamma}}.
 
 ===Noun===
 {{head|ist|noun|g=f}}
@@ -228,7 +224,7 @@ From {{etyl|la|ist}} {{m|la|mamma}}.
 {{lt-noun-f-a|mam}}
 
 ====Related terms====
-* {{l|lt|mamytė}}, {{l|lt|mamelė}} (diminutive)
+* {{l|lt|mamytė}}, {{l|lt|mamelė|pos=diminutive}}
 
 [[Category:lt:Family]]
 
@@ -302,7 +298,7 @@ From {{etyl|la|ist}} {{m|la|mamma}}.
 ===Noun===
 {{head|pnw|noun}}
 
-# [[father|Father]]; [[paternal uncle]], one’s father’s brother.
+# [[father]]; [[paternal uncle]], one’s father’s brother
 
 ====Synonyms====
 * {{l|pnw|papu}} (father)
@@ -328,13 +324,15 @@ From {{etyl|la|ist}} {{m|la|mamma}}.
 
 ====Synonyms====
 * {{sense|father}} {{l|pjt|punari}}
-* {{sense|father's older brother}} {{l|pjt|mama puḻka||}}
+* {{sense|father's older brother}} {{l|pjt|mama puḻka}}
 
 ====Derived terms====
-* {{l|pjt|mama maḻatja||father's younger brother; uncle}}
-* {{l|pjt|mama ngunytju||parents}}
-* {{l|pjt|maṟa mama||thumb}}
-* {{l|pjt|tjina mama||big toe}}
+{{der4
+|{{l|pjt|mama maḻatja|t=father's younger brother; uncle}}
+|{{l|pjt|mama ngunytju|t=parents}}
+|{{l|pjt|maṟa mama|t=thumb}}
+|{{l|pjt|tjina mama|t=big toe}}
+|lang=pjt}}
 
 {{topics|pjt|Family|Male|People|God|Gods}}
 
@@ -363,8 +361,8 @@ From {{etyl|la|ist}} {{m|la|mamma}}.
 }}
 
 ====Related terms====
-* [[mamusia]] (diminutive)
-* [[matka]]
+* {{l|pl|mamusia|pos=diminutive}}
+* {{l|pl|matka}}
 
 ===Further reading===
 * {{R:PWN}}
@@ -503,11 +501,11 @@ From {{inh|es|la|mamma}}.
 ===Noun===
 {{sw-noun|n}}
 
-# [[mother]] (female parent)
+# [[mother]] {{gloss|female parent}}
 # {{non-gloss definition|Respectful term of address for an older woman.}}
 
 ====Coordinate terms====
-* {{l|sw|baba|gloss=father}}
+* {{l|sw|baba|t=father}}
 
 [[Category:sw:Family]]
 
@@ -521,18 +519,18 @@ From {{inh|es|la|mamma}}.
 ===Noun===
 {{tl-noun}}
 
-# a term used in referring to, or in addressing, a male unknown to the speaker
+# {{non-gloss definition|a term used in referring to, or in addressing, a male unknown to the speaker}}
 
 ===Pronunciation 2===
 * {{IPA|/ma.ˈma/|lang=tl}}
 
 ===Etymology===
-From {{etyl|es|tl}} {{m|es|mamá}}, adapted from {{etyl|fr|tl}} {{m|fr|maman}}.
+{{bor|tl|es|mamá}}, adapted from {{der|tl|fr|maman}}.
 
 ===Noun===
 {{tl-noun}}
 
-# {{label|tl|colloquial|familiar}} [[mum]], [[mom]]
+# {{lb|tl|colloquial|familiar}} [[mum]], [[mom]]
 
 ===Pronunciation 3===
 * {{IPA|/ma.ˈmaʔ/|lang=tl}}
@@ -543,20 +541,14 @@ From {{etyl|es|tl}} {{m|es|mamá}}, adapted from {{etyl|fr|tl}} {{m|fr|maman}}.
 # [[betel]] [[chew]]ing
 
 ====Related terms====
-* {{l|tl|buyo}}
-* {{l|tl|hitso}}
-* {{l|tl|ikmo}}
-* {{l|tl|itmo}}
-* {{l|tl|mam-in}}
-* {{l|tl|nganga}}
-* {{l|tl|samat}}
+{{rel4|buyo|hitso|ikmo|itmo|mam-in|nganga|sama|lang=tlt}}
 
 ----
 
 ==Tok Pisin==
 
 ===Etymology===
-{{etyl|en|tpi}} {{m|en|mama}}
+From {{der|tpi|en|mama}}.
 
 ===Noun===
 {{head|tpi|noun}}
@@ -618,7 +610,7 @@ From {{etyl|es|tl}} {{m|es|mamá}}, adapted from {{etyl|fr|tl}} {{m|fr|maman}}.
 ==Venetian==
 
 ===Etymology===
-From {{inh|vec|la|mamma}}. Compare Italian {{m|it|mamma}}.
+From {{inh|vec|la|mamma}}. Compare {{cog|it|mamma}}.
 
 ===Noun===
 {{vec-noun|mam|f|a|e}}
