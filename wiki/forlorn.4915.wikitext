@@ -1,27 +1,25 @@
 ==English==
+{{was wotd|2017|November|2}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{m|enm|forlorn}}, {{m|enm|forloren}}, from {{etyl|ang|en}} {{m|ang|forloren}} (past participle of {{m|ang|forlēosan||to lose}}), from {{etyl|gem-pro|en}} {{m|gem-pro|*fraluzanaz||lost}}, past participle of {{etyl|gem-pro|en}} {{m|gem-pro|*fraleusaną||to lose}}, equivalent to {{prefix|for|lorn|lang=en}}. Cognate with {{cog|fy|ferlern||lost}}, {{cog|nl|verloren||lost}}, {{cog|de|verloren||lost}}, {{cog|sv|förlorad||lost}}. More at {{l|en|lese}}/{{l|en|leese}}, {{l|en|lorn}}.
+From {{inh|en|enm|forlorn}}, {{m|enm|forloren}}, from {{inh|en|ang|forloren}}, {{glossary|past tense|past}} {{glossary|participle}} of {{m|ang|forlēosan||to lose}}), from {{der|en|gem-pro|*fraluzanaz||lost}}, past participle of {{m|gem-pro|*fraleusaną||to lose}}, equivalent to {{prefix|en|for|lorn}}. Cognate with {{cog|fy|ferlern||lost}}, {{cog|nl|verloren||lost}}, {{cog|de|verloren||lost}}, {{cog|sv|förlorad||lost}}. ''See further'' at {{m|en|lese}}/{{m|en|leese}}, {{m|en|lorn}}.
 
 ===Pronunciation===
-* {{a|US}} {{IPA|/fɔɹˈlɔɹn/|lang=en}}
-* {{audio|en-us-forlorn.ogg|Audio (US)|lang=en}}
+* {{a|RP}} {{IPA|/fəˈlɔːn/|/fɔː-/|lang=en}}
+* {{a|GA}} {{IPA|/fɔɹˈlɔɹn/|lang=en}}
+* {{audio|en-us-forlorn.ogg|Audio (GA)|lang=en}}
 * {{rhymes|ɔː(ɹ)n|lang=en}}
-
-===Verb===
-{{head|en|past participle}}
-
-# {{lb|en|obsolete}} {{inflection of|forlese||past|part|lang=en}}
+* {{hyphenation|for|lorn|lang=en}}
 
 ===Adjective===
 {{en-adj|er|more}}
 
-# [[abandoned|Abandoned]], [[left behind]], [[deserted]].
+# [[abandoned#Adjective|Abandoned]], [[deserted#Adjective|deserted]], [[left behind]].
 #* {{w|Edmund Spenser}} (c.1552–1599)
 #*: Of fortune and of hope at once '''forlorn'''.
 #* {{w|William Shakespeare}} (1564-1616)
 #*: Some say that ravens foster '''forlorn''' children.
-# [[miserable|Miserable]], as when [[lonely]] being abandoned.
+# [[miserable|Miserable]], as when [[lonely]] after being abandoned.
 #* {{w|Oliver Goldsmith}} (1730-1774)
 #*: For here '''forlorn''' and lost I tread.
 #* {{w|William H. Prescott}} (1796-1859)
@@ -33,16 +31,16 @@ From {{etyl|enm|en}} {{m|enm|forlorn}}, {{m|enm|forloren}}, from {{etyl|ang|en}}
 |passage=Sophia broke down here. Even at this moment she was subconsciously comparing her rendering of the part of the '''forlorn''' bride with Miss Marie Lohr's.}}
 # [[unlikely|Unlikely]] to [[succeed]].
 
+====Synonyms====
+* {{sense|miserable}} {{l|en|forsaken}}
+
 ====Derived terms====
 * {{l|en|forlorn hope}}
 * {{l|en|forlornness}}
 * {{l|en|forlornly}}
 
-====Synonyms====
-* {{sense|miserable}} {{l|en|forsaken}}
-
 ====Translations====
-{{trans-top|left behind}}
+{{trans-top|abandoned, deserted, left behind}}
 * Bulgarian: {{t+|bg|изоставен|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t|cmn|[[被]][[遺棄]][[的]]}}, {{t|cmn|[[被]][[遗弃]][[的]]|tr=bèi yíqì de}}
@@ -89,9 +87,14 @@ From {{etyl|enm|en}} {{m|enm|forlorn}}, {{m|enm|forloren}}, from {{etyl|ang|en}}
 {{trans-bottom}}
 
 ===Noun===
-{{en-noun}}
+{{en-noun}} {{tcx|en|military}}
 
-# {{lb|en|military}} A [[forlorn hope]].
-# {{lb|en|military}} A member of a [[forlorn hope]].
+# A [[forlorn hope]].
+# A member of a [[forlorn hope]].
+
+===Verb===
+{{head|en|past participle}}
+
+# {{lb|en|obsolete}} {{inflection of|forlese||past|part|lang=en}}.
 
 [[Category:en:Emotions]]
