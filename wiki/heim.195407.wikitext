@@ -288,14 +288,14 @@ An accusative form of {{m|non|heimr||abode, world, land}}, from {{etyl|gem-pro|n
 * [[haim]], [[häim]]
 
 ===Etymology 1===
-From {{etyl|non|gmq-bot}} {{m|non|heim}} < {{m|non|heimr}}, from {{etyl|gem-pro|gmq-bot}} {{m|gem-pro|*haimaz}}. Akin to {{cog|en|home}}.
+From {{inh|gmq-bot|non|heimr}} (dative {{m|non|heimi}}), from {{inh|gmq-bot|gem-pro|*haimaz}}. Akin to {{cog|en|home}}.
 
 ====Pronunciation====
-* {{IPA|[héɪ̯ːm]|[háɪ̯ːm]|lang=gmq-bot}}
-*: {{rhymes|éɪ̯ːm|lang=gmq-bot}}
+* {{IPA|[hèɪ̯ːm]|[hàɪ̯ːm]|lang=gmq-bot}}
+*: {{rhymes|èɪ̯ːm|lang=gmq-bot}}
 
 ====Noun====
-{{head|gmq-bot|noun|g=n}}
+{{head|head=hêim|gmq-bot|noun|g=n|definite singular|heime|dative|heimen}}
 
 # [[home]]
 # [[whereabouts]]
@@ -303,12 +303,17 @@ From {{etyl|non|gmq-bot}} {{m|non|heim}} < {{m|non|heimr}}, from {{etyl|gem-pro|
 ===Etymology 2===
 From {{inh|gmq-bot|non|heim}}.
 
+====Pronunciation====
+* {{IPA|[héɪ̯ːm]|[háɪ̯ːm]|lang=gmq-bot}}
+*: {{rhymes|éɪ̯ːm|lang=gmq-bot}}
+
 ====Adverb====
 {{head|head=heim|gmq-bot|adverb}}
 
 #  [[home]]
-#: ''Jig går '''haim'''.''
-#:: I'm going '''home'''.
+#: {{ux|gmq-bot|Jig går '''haim'''.|I'm going '''home'''.}}
+#: ''Sko jö fåli de '''heim'''?
+#:: Shall I follow you '''home'''?
 
 ===Etymology 3===
 From {{inh|gmq-bot|non|heima}}.
@@ -325,15 +330,19 @@ From {{inh|gmq-bot|non|heima}}.
 #:: He is not '''home'''.
 #: ''Hvórs jär du '''haim'''?''
 #:: Where do you live?
-#: ''Ji vait int hódt’n jär '''heim'''.''
+#: ''Ji vait int [[hódt]]’n jär '''heim'''.''
 #:: I know not whether he's '''home'''.''
 
 ====Derived terms====
-* {{l|non|heima}}
-* {{l|non|heimanätt}}
-* {{l|non|heimat}}
-* {{l|non|heimät}}
-* {{l|non|heimärvä}}
+{{der3|lang=gmq-bot|{{l|non|heimderi}}
+|{{l|non|heima}}
+|{{l|non|heiman}}
+|{{l|non|heimanätt}}
+|{{l|non|heimat}}
+|{{l|non|heimärvä}}
+|{{l|non|heimät}}
+|{{l|non|heimeli}}
+|{{l|non|heimvivi}}}}
 
 ===References===
 <references/>
