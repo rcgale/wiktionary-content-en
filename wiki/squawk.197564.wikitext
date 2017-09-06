@@ -34,7 +34,12 @@
 #*: The hens woke up '''squawking''' with terror because they had all dreamed simultaneously of hearing a gun go off in the distance.
 # To [[speak]] [[out]]; to [[protest]].
 # To [[report]] an [[infraction]]; to [[rat]] on or [[tattle]]; to [[disclose]] a [[secret]].
-# {{lb|en|aviation}} To set or transmit a four-digit transponder code. {{non-gloss definition|(Normally followed by the specific code in question.)}}
+# {{lb|en|programming|informal}} To produce a [[warning]] [[message]], indicating a possible [[error]].
+#* '''1993''', Steve Maguire, ''Writing Solid Code''
+#*: That way, if you type = instead of ==, the compiler will '''squawk''' because you can't assign something to a constant.
+#* '''2013''', Bill Sempf, ‎Chuck Sphar, ‎Stephen R. Davis, ''C# 5.0 All-in-One For Dummies''
+#*: You want the compiler to '''squawk''' if you try to instantiate for a type that doesn't implement IPrioritizable.
+# {{lb|en|aviation}} To set or transmit a four-digit [[transponder]] code. {{non-gloss definition|(Normally followed by the specific code in question.)}}
 
 ====Translations====
 {{trans-top|to make a squawking noise}}
