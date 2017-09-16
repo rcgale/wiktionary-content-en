@@ -15,16 +15,17 @@ From {{etyl|la|en}} {{m|la|trānsitīvus}}, from {{m|la|trānsitus}}, from {{m|l
 # Affected by {{l|en|transference}} of signification.
 #* {{quote-book|author=[[w:John Stuart Mill|John Stuart Mill]]|passage=By far the greater part of the ''transitive'' or derivative applications of words depend on casual and unaccountable caprices of the feelings or the fancy.}}
 # {{lb|en|grammar|of a verb}} Taking an {{l|en|object}} or objects.
+#: {{ant|en|intransitive}}
 #: {{ux|en|The English verb "to notice" is a '''transitive''' verb, because we say things like "She noticed <em>a problem</em>".}}
 #* {{quote-book|author=[[w:G. K. Chesterton|G. K. Chesterton]]|title=Orthodoxy|passage=Men have tried to turn "revolutionise" from a '''transitive''' to an intransitive verb.}}
 # {{lb|en|set theory|of a [[relation]] on a [[set]]}} Having the property that if an element ''x'' is related to ''y'' and ''y'' is related to ''z'', then ''x'' is necessarily related to ''z''.
+#: {{ant|en|intransitive|nontransitive}}
 #: {{ux|en|"Is an ancestor of" is a '''transitive''' relation: if Alice is an ancestor of Bob, and Bob is an ancestor of Carol, then Alice is an ancestor of Carol.}}
 # {{lb|en|algebra|of a {{soplink|group|action}}}} Such that, for any [[two]] [[element]]s of the [[act]]ed-upon [[set]], some group element [[map]]s the first to the second.
 # {{lb|en|graph theory|of a [[graph]]}} Such that, for any two [[vertex|vertices]] there exists a an [[automorphism]] which maps one to the other.
 
-====Antonyms====
-* {{sense|grammar, of a verb: taking an object}} {{l|en|intransitive}}
-* {{sense|set theory, of a relation on a set}} {{l|en|intransitive}}, {{l|en|nontransitive}}
+====Derived terms====
+{{der4|ditransitive|monotransitive|complex transitive|transitively|transitiveness|transitive verb|quasi-transitive|semi-transitive|lang=en}}
 
 ====Translations====
 {{trans-top|making a transit or passage}}
@@ -33,13 +34,13 @@ From {{etyl|la|en}} {{m|la|trānsitīvus}}, from {{m|la|trānsitus}}, from {{m|l
 * Romanian: {{t+|ro|tranzitiv}}
 {{trans-mid}}
 * Spanish: {{t+|es|transitivo}}
-* Ukrainian: {{t+|uk|перехідний|sc=Cyrl}}
+* Ukrainian: {{t+|uk|перехідний}}
 {{trans-bottom}}
 
 {{trans-top|affected by transference of signification}}
 * Dutch: {{t+|nl|overdrachtelijk}}
 {{trans-mid}}
-* Ukrainian: {{t|uk|образний|sc=Cyrl}}
+* Ukrainian: {{t|uk|образний}}
 {{trans-bottom}}
 
 {{trans-top|grammar, of a verb: taking an object or objects}}
@@ -47,7 +48,7 @@ From {{etyl|la|en}} {{m|la|trānsitīvus}}, from {{m|la|trānsitus}}, from {{m|l
 * Arabic: {{t|ar|مُتَعَدٍّ}} {{qualifier|indefinite}}
 * Catalan: {{t+|ca|transitiu}}
 * Chinese:
-*: Mandarin: {{t+|cmn|及物|tr=jíwù|sc=Hani}}
+*: Mandarin: {{t+|cmn|及物|tr=jíwù}}
 * Czech: {{t+|cs|přechodný}}
 * Dutch: {{t+|nl|overgankelijk}}, {{t+|nl|transitief}}
 * Esperanto: {{t+|eo|transitiva}}
@@ -63,9 +64,9 @@ From {{etyl|la|en}} {{m|la|trānsitīvus}}, from {{m|la|trānsitus}}, from {{m|l
 * Italian: {{t+|it|transitivo}}
 * Japanese: {{t|ja|他動|tr=たどう, tadō}}
 {{trans-mid}}
-* Korean: {{t+|ko|타동사|tr=tadongsa|sc=Hang}} ({{t+|ko|他動詞|sc=Hani}})
+* Korean: {{t+|ko|타동사}} ({{t+|ko|他動詞}})
 * Kurdish: {{t+|ku|têper}}, {{t+|ku|gerguhêz}}
-* Mongolian: {{t+|mn|тусах|sc=Cyrl}}
+* Mongolian: {{t+|mn|тусах}}
 * Norman: {{t|nrf|transitif}}
 * Norwegian: {{t+|no|transitiv}}
 * Novial: {{t|nov|transitiv}}
@@ -75,11 +76,12 @@ From {{etyl|la|en}} {{m|la|trānsitīvus}}, from {{m|la|trānsitus}}, from {{m|l
 * Romanian: {{t+|ro|tranzitiv}}
 * Russian: {{t+|ru|перехо́дный}}
 * Scottish Gaelic: {{t|gd|aisigeach}}, {{t|gd|aistreach}}, {{t|gd|asdolach}}
-* Serbo-Croatian: {{t+|sh|prijélazan}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|prijélazan}}
 * Spanish: {{t+|es|transitivo}}
 * Swedish: {{t+|sv|transitiv}}
 * Turkish: {{t+|tr|geçişli}}
-* Ukrainian: {{t+|uk|перехідний|sc=Cyrl}}, {{t|uk|перехідне дієслово|sc=Cyrl}}, {{t|uk|форма перехідного дієслова|sc=Cyrl}}
+* Ukrainian: {{t+|uk|перехідний}}, {{t|uk|перехідне дієслово}}, {{t|uk|форма перехідного дієслова}}
 * Volapük: {{t+|vo|loveädik}}
 {{trans-bottom}}
 
@@ -88,16 +90,17 @@ From {{etyl|la|en}} {{m|la|trānsitīvus}}, from {{m|la|trānsitus}}, from {{m|l
 * French: {{t+|fr|transitif}}
 * German: {{t+|de|transitiv}}
 * Icelandic: {{t|is|gegnvirkur}}
-* Japanese: {{t|ja|推移的|tr=すいいてき, suiï-teki|sc=Jpan}}
+* Japanese: {{t|ja|推移的|tr=すいいてき, suiï-teki}}
 * Polish: {{t+|pl|przechodni}}
 * Portuguese: {{t+|pt|transitivo}}
 {{trans-mid}}
 * Romanian: {{t+|ro|tranzitiv}}
-* Serbo-Croatian: {{t+|sh|trȁnzitīvan}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|trȁnzitīvan}}
 * Spanish: {{t+|es|transitivo}}
 * Swedish: {{t+|sv|transitiv}}
 * Tagalog: {{t|tl|palipat}}
-* Ukrainian: {{t+|uk|перехідний|sc=Cyrl}}
+* Ukrainian: {{t+|uk|перехідний}}
 {{trans-bottom}}
 
 {{trans-top|of a group action}}
@@ -110,16 +113,6 @@ From {{etyl|la|en}} {{m|la|trānsitīvus}}, from {{m|la|trānsitus}}, from {{m|l
 * Hebrew: {{t|he|טרנזיטיבי}}
 {{trans-mid}}
 {{trans-bottom}}
-
-====Derived terms====
-* {{l|en|ditransitive}}
-* {{l|en|monotransitive}}
-* {{l|en|complex transitive}}
-* {{l|en|transitively}}
-* {{l|en|transitiveness}}
-* {{l|en|transitive verb}}
-* {{l|en|quasi-transitive}}
-* {{l|en|semi-transitive}}
 
 ===See also===
 * {{l|en|reflexive}}<!--mathematics sense-->
@@ -159,12 +152,12 @@ From {{etyl|la|en}} {{m|la|trānsitīvus}}, from {{m|la|trānsitus}}, from {{m|l
 ==Italian==
 
 ===Adjective===
-{{head|it|adjective form}}
+{{it-adj-form|f-p}}
 
-# {{feminine plural of|transitivo|lang=it}}
+# {{it-adj form of|transitivo|f|pl}}
 
 ===Anagrams===
-* {{l|it|intervista}}, {{l|it|intestarvi}}, {{l|it|intraviste}}, {{l|it|rinvestita}}, {{l|it|rinvitaste}}, {{l|it|strinatevi}}, {{l|it|vetrinista}}
+* {{anagrams|it|intervista|intestarvi|intraviste|rinvestita|rinvitaste|strinatevi|vetrinista}}
 
 ----
 
