@@ -101,13 +101,12 @@ Do not confuse {{lang|mul|月}} with {{m|mul|⺼|sc=Hani}}, a form of {{m|mul|�
 
 # [[moon]]
 # a [[month]] (on the lunar calendar)
-# every month
 # [[menstruation]]
 # abbreviation for {{l|ja|月曜日}} ([[Monday]])
 
 ====Readings====
 {{ja-readings
-|goon=がち<ぐわち, ごち
+|goon=がち<ぐわち, ごち, がつ<ぐわつ
 |kanon=げつ<げつ<ぐゑつ
 |kanyoon=がつ<ぐわつ
 |kun=つき-, つく-
@@ -154,7 +153,7 @@ Do not confuse {{lang|mul|月}} with {{m|mul|⺼|sc=Hani}}, a form of {{m|mul|�
 * {{ja-r|月%読|^つく%よみ}}, {{ja-r|月%読|^つき%よみ}}, {{ja-r|月%夜%見|^つく%よ%み}}, {{ja-r|月%夜%見|^つき%よ%み}}: the Japanese god of the moon
 {{der-bottom}}
 
-===See also===
+====See also====
 {{der-top|Japanese months}}
 * {{ja-r|一%月|いち%がつ}}: [[January]]
 * {{ja-r|二%月|に%がつ}}: [[February]]
@@ -172,11 +171,34 @@ Do not confuse {{lang|mul|月}} with {{m|mul|⺼|sc=Hani}}, a form of {{m|mul|�
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|つき|yomi=k}}
-{{IPAchar|/tuki<sub>1</sub>/}} → {{IPAchar|/t͡suki/}}
+{{ja-kanjitab|つく|yomi=k}}
 
-From either {{ja-r|次|つぎ|next}} or {{ja-r|尽き|つき}}, the latter is related to modern {{ja-r|尽きる|つきる|to come to an end}} {{rfv-etymology|ja}}; after the sun passes, or sets, at the end of the day, comes the moon.
-{{attention|ja|Old Japanese? also is it ki1 or ki2}}
+From {{inh|ja|ojp|-|sort=つく}}.  Only found in older compounds.  Appears to be the older form.
+
+====Pronunciation====
+{{ja-pron|yomi=k|つく}}
+
+====Noun====
+{{ja-noun|つく}}
+
+# the {{l|en|moon}}
+
+=====Usage notes=====
+Not productive in modern Japanese.  Not found in isolation.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|月%日|つく%ひ}}: {{l|en|time}}, {{l|en|day}}s and {{l|en|night}}s
+* {{ja-r|月%夜|つく%よ}}: a {{l|en|moonlit}} {{l|en|night}}
+* {{ja-r|月%読|つく%よみ}}, {{ja-r|月%夜%見|つく%よ%み}}: the {{l|en|Shinto}} {{l|en|god}} of the {{l|en|moon}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|つき|yomi=k}}
+
+{{IPAchar|/tuki<sub>2</sub>/}} → {{IPAchar|*/tukwi/}} → {{IPAchar|*/t͡sukwi/}} → {{IPAchar|/t͡suki/}}
+
+From {{inh|ja|ojp|-|sort=つき}}.  Likely a shift from ''tsuku'' above, derived through a fusion with ancient Japanese emphatic nominal particle {{ja-r|い}}.  Compare the development of {{m|ja|神|tr=kami}} from older combining form ''kamu''.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|つき|acc=2|dev=1|acc_ref=DJR,NHK}}
@@ -184,29 +206,57 @@ From either {{ja-r|次|つぎ|next}} or {{ja-r|尽き|つき}}, the latter is re
 ====Noun====
 {{ja-noun|つき}}
 
-# the [[moon]]
+# the {{l|en|moon}}
 #: {{ja-usex|日%本では'''月'''にうさぎが住んでいるというお話があります。|に%ほん で は '''つき''' に うさぎ が すんで いる と いう お-はなし が あります。|In Japan, there is a fairy-tale that rabbits live on the '''moon'''.}}
-#: {{ja-usex|'''月'''は地%球の唯一の衛%星です。|'''つき''' は ち%きゅう の ゆい.いつ の えい%せい です。|The '''moon''' is the only one [[satellite]] of the [[Earth]].}}
-# the [[lunar]] [[cycle]], a [[month]]
+#: {{ja-usex|'''月'''は地%球の唯一の衛%星です。|'''つき''' は ち%きゅう の ゆい.いつ の えい%せい です。|The '''moon''' is the one and only {{l|en|satellite}} of the {{l|en|Earth}}.}}
+# the {{l|en|lunar}} {{l|en|cycle}}, a {{l|en|month}}
 #: {{ja-usex|'''月'''に一%度、旅%行に出かけます。|'''つき''' に いち%ど、 りょ%こう に でかけます。|I go for a trip once a '''month'''.}}
-# {{lb|ja|tarot}}: The [[moon|Moon]]; the eighteenth [[trump]] or [[major arcana]] [[card]] in most traditional Tarot decks.
+# {{lb|ja|tarot}}: the {{l|en|moon|Moon}}, the eighteenth {{l|en|trump}} or {{l|en|major arcana}} {{l|en|card}} in most traditional Tarot decks
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|the moon}} {{l|ja|太陰}}, {{l|ja|ムーン}}
 
-===Etymology 2===
-{{ja-kanjitab|がつ|yomi=o}}
+===Etymology 3===
+{{ja-kanjitab|yomi=o|がつ}}
+
 {{IPAchar|/ɡwatu/}} → {{IPAchar|/ɡat͡su/}}
 
-From {{etyl|ltc|ja|sort=がつ}} {{m|ltc|月|tr=nguat|pos=reconstructed by some linguists as {{IPAchar|/ŋʉɐt̚/}}}}. This reading, according to some dictionaries, is considered both goon and kan’yōon {{rfv-etymology|ja}}.
+From {{der|ja|ltc|sort=かつ'|-}} {{ltc-l|月}}.
 
 ====Pronunciation====
-{{ja-pron|yomi=kanyo|-がつ}}
+{{ja-pron|yomi=goon|-がつ}}
+* Some dictionaries apparently classify this reading as both [[呉音#Japanese|''goon'']] and [[慣用音#Japanese|''kan'yōon'']].
 
 ====Suffix====
 {{ja-pos|がつ|hhira=ぐわつ|suffix}}
 
-# month of the year
+# {{l|en|month}} of the {{l|en|year}}
+
+=====Usage notes=====
+When used in most compounds or when counting a number of months with {{m|ja|ヶ|tr=ka}}, 月 is pronounced {{ja-r|げつ}}. When used in compounds for modern months of the year, it is pronounced {{ja-r|がつ}}. When used for poetic or lunar months, it is pronounced {{ja-r|つき}}.
+
+===Etymology 4===
+{{ja-kanjitab|yomi=o|げつ}}
+
+{{IPAchar|/ɡwetu/}} → {{IPAchar|/ɡet͡su/}}
+
+From {{der|ja|ltc|sort=かつ'|-}} {{ltc-l|月}}.  The [[漢音#Japanese|''kan'on'']], so likely a later borrowing.  Compare modern {{cog|hak|-}} reading ''ngie̍t'', {{cog|nan|-}} ''ge̍h''.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|げつ}}
+
+====Counter====
+{{ja-pos|counter|げつ}}
+
+# a {{l|en|month}} as a {{l|en|duration}} of {{l|en|time}}
+
+====Noun====
+{{ja-noun|げつ|hhira=ぐゑつ}}
+
+# a {{l|en|month}}
+
+=====Usage notes=====
+When used in most compounds or when counting a number of months with {{m|ja|ヶ|tr=ka}}, 月 is pronounced {{ja-r|げつ}}. When used in compounds for modern months of the year, it is pronounced {{ja-r|がつ}}. When used for poetic or lunar months, it is pronounced {{ja-r|つき}}.
 
 ===References===
 <references/>
@@ -222,9 +272,6 @@ From {{etyl|ltc|ja|sort=がつ}} {{m|ltc|月|tr=nguat|pos=reconstructed by some 
 |kld=1876
 |heisig=13
 |tuttle=4b0.1}}
-
-====Usage notes====
-When used in compounds counting a number of months with "ヶ"([[か]], ''ka''), 月 is pronounced as [[げつ]] (''getsu''). When used in compounds for modern months of the year, it is pronounced as [[がつ]] (''gatsu''). When used for poetic or lunar months, it is pronounced as [[つき]] (''tsuki'').
 
 [[Category:Japanese basic words|つき]]
 [[Category:ja:Astronomy|つき]]
