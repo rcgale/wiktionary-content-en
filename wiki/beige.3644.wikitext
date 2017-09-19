@@ -14,7 +14,7 @@ Borrowed from {{bor|en|fr|(dialectal) [[beige]]|notext=1}}, from {{etyl|fro|en}}
 
 # A slightly [[yellowish]] [[gray]] [[colour]], as that of [[unbleached]] [[wool]].
 #: {{color panel|beige|F5F5DC}}
-# [[debeige]]; a kind of woollen or mixed dress goods
+# [[debeige|Debeige]]; a kind of woollen or mixed dress goods.
 
 ====Translations====
 {{trans-top|colour}}
@@ -23,7 +23,7 @@ Borrowed from {{bor|en|fr|(dialectal) [[beige]]|notext=1}}, from {{etyl|fro|en}}
 * Armenian: {{t+|hy|բեժ}}
 * Azeri: {{t|az|bej}}
 * Bulgarian: {{t|bg|бежов цвят|m}}
-* Catalan: {{t+|ca|beix}}
+* Catalan: {{t+|ca|beix|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|米黃|sc=Hani}}, {{t+|cmn|米黄|tr=mǐhuáng|sc=Hani}}, {{t+|cmn|米色|tr=mǐsè|sc=Hani}}
 * Czech: {{t+|cs|béžový|m}}
@@ -60,7 +60,7 @@ Borrowed from {{bor|en|fr|(dialectal) [[beige]]|notext=1}}, from {{etyl|fro|en}}
 * Serbo-Croatian: {{t+|sh|bež|m}}
 * Slovak: {{t|sk|béžový}}
 * Somali: {{t|so|midab beej}}
-* Spanish: {{t+|es|beige}}, {{t+|es|beis}}, {{t+|es|beige|m}}
+* Spanish: {{t+|es|beis|m}}, {{t+|es|beige|m}}
 * Swedish: {{t+|sv|beige}}
 * Tagalog: {{t|tl|murang kayumanggi}}
 * Tajik: {{t|tg|каҳваранг|sc=Cyrl}}
@@ -97,14 +97,14 @@ Borrowed from {{bor|en|fr|(dialectal) [[beige]]|notext=1}}, from {{etyl|fro|en}}
 * German: {{t+|de|beige}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|bézs}}
-* Italian: {{t+|it|bigio|m}}
+* Italian: {{t+|it|bigio}}
 * Japanese: {{t|ja|ベージュ|tr=bēju}}
 * Malay: {{t|ms|kuning air}}
 * Polish: {{t+|pl|beżowy}}
 * Portuguese: {{t+|pt|bege}}
 * Romanian: {{t+|ro|bej}}
 * Russian: {{t+|ru|бе́жевый}}
-* Spanish: {{t+|es|beige}}, {{t+|es|beis}}
+* Spanish: {{t+|es|beis}}, {{t+|es|beige}}
 {{trans-bottom}}
 
 ====Derived terms====
@@ -133,7 +133,7 @@ From {{etyl|nl|af}} {{m|nl|beige}}, from {{etyl|fr|af}} {{m|fr|beige}}.
 ===Adjective===
 {{af-adj}}
 
-# [[beige#English|beige]]
+# {{l|en|beige}}
 
 [[Category:af:Colors]]
 
@@ -151,7 +151,7 @@ Borrowed from {{bor|nl|fr|beige|notext=1}}.
 ===Adjective===
 {{nl-adj}}
 
-# [[beige#English|beige]]
+# {{l|en|beige}}
 
 ====Inflection====
 {{nl-decl-adj}}
@@ -162,13 +162,16 @@ Borrowed from {{bor|nl|fr|beige|notext=1}}.
 
 ==Finnish==
 
+===Alternative forms===
+* {{l|fi|beesi}}, {{l|fi|bees}}
+
 ===Etymology===
 Borrowed from {{bor|fi|fr|beige|notext=1}}.
 
 ===Adjective===
 {{fi-adj|beige|mpi|in}}
 
-# [[#English|beige]]
+# {{l|en|beige}}
 
 ====Declension====
 {{fi-decl-nalle|pos=adj|beig|||ä}}
@@ -176,7 +179,7 @@ Borrowed from {{bor|fi|fr|beige|notext=1}}.
 ===Noun===
 {{fi-noun}}
 
-# [[#English|beige]] (color)
+# {{l|en|beige}} (color)
 
 ====Declension====
 {{fi-decl-nalle|beig|||ä}}
@@ -257,6 +260,7 @@ The other inflectional endings are visible: ''in dem beig'''en''' Haus'' – in 
 * {{l|de|Beige}}
 
 ===Etymology 2===
+{{nonlemma}}
 
 ====Pronunciation====
 * {{IPA|/ˈbaɪ̯ɡə/|lang=de}}
@@ -296,18 +300,21 @@ Borrowed from {{bor|lb|fr|beige|notext=1}}.
 
 ==Spanish==
 
-===Etymology===
-Borrowed from {{bor|es|fr|beige|notext=1}}.
-
 ===Pronunciation===
 * {{IPA|[beis]|lang=es}}
 
 ===Adjective===
 {{es-adj|pl=beige}}
 
-# [[beige#English|beige]]
+# {{altform|beis|lang=es}}
 
-[[Category:es:Colors]]
+===Noun===
+{{es-noun|m|-}}
+
+# {{altform|beis|lang=es}}
+
+===Further reading===
+* {{R:DRAE 2001}}
 
 ----
 
@@ -324,11 +331,9 @@ Attested from 1895. {{bor|sv|fr|beige}}. The slang definition is likely associat
 {{head|sv|adjective}}
 
 # [[#English|Beige]].
-#: ''Hon hade en lång, '''beige''' kappa på sig.''
-#: "She wore a long, beige coat."
+#: {{ux|sv|Hon hade en lång, '''beige''' kappa på sig.|She wore a long, beige coat.}}
 # {{lb|sv|slang}} [[boring|Boring]], [[uninteresting]], [[negative]].
-#: ''Din morsa är så jävla '''beige'''!''
-#: "Your mother is so damn dull."
+#: {{ux|sv|Din morsa är så jävla '''beige'''!|Your mother is so damn dull.}}
 
 ====Declension====
 {{sv-adj-reg|beige|beigt|beig|beige|beige|beig|beig|beig|beig}}
