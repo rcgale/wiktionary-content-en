@@ -1,9 +1,30 @@
 {{also|computer-language}}
 ==English==
 
-===Noun.===
-# {{lb|en|programming}} A language that is used in association with computers, including programming languages, machine languages, [[query language]]s, [[markup language|markup languag]]
+===Noun===
+{{en-noun}}
 
+# {{lb|en|programming}} [[machine language|Machine language]].
+# {{lb|en|programming}} [[programming language|Programming language]].
+# {{lb|en|programming}} A language that is used in association with computers, including programming languages, machine languages, [[query language]]s, [[markup language]]s etc.
+
+====Hypernyms====
+* {{l|en|language}}
+
+====Hyponyms====
+{{hyp4
+| {{l|en|command language}}
+| {{l|en|configuration language}}
+| {{l|en|construction language}}
+| {{l|en|machine language or machine code}}
+| {{l|en|markup language}}
+| {{l|en|modeling language}}
+| {{l|en|programming language}}
+| {{l|en|query language}}
+| {{l|en|style sheet language}}
+|lang=en}}
+
+====Translations====
 {{trans-see|machine language}}
 
 {{trans-see|programming language}}
@@ -25,5 +46,9 @@
 * Volapük: {{t|vo|kompütapük}}
 {{trans-bottom}}
 
-===Re===
-*
+===References===
+* {{pedia}}
+
+====Further reading====
+* [http://dmoz.org/Computers/Programming/Languages/ DMOZ list of Programming Languages]
+* [http://dir.yahoo.com/Computers_and_Internet/Programming_and_Development/Languages/ Yahoo list of Programming Languages]
