@@ -75,7 +75,7 @@ From {{etyl|la|lld}} {{m|la|certus}}.
 Borrowed from {{bor|sga|la|certus|notext=1}}.
 
 ===Adjective===
-{{sga-adj}}
+{{sga-adj|comp=certu}}
 
 # [[correct]], [[right]], [[proper]], [[fitting]]
 # [[fair]], [[just]]
@@ -83,20 +83,21 @@ Borrowed from {{bor|sga|la|certus|notext=1}}.
 # {{qualifier|of numbers, quantities etc.}} [[exact]], [[precise]]
 
 ====Inflection====
-{{rfinfl|sga|adjective}}
+{{sga-decl-adj-o-a|gsm=cirt|dsm=[[cert]], [[cirt]]}}
 
 ===Noun===
 {{sga-noun|n|g2=m}}
 
 # the right, what is proper, [[correctness]]
-#* ina '''chirt''', i '''cirt''', ''properly'', ''rightly'', ''as is fitting''
 # {{qualifier|in quasi-legal sense}} [[right]], [[claim]], [[entitlement]]
-# [[justice]], [[fair dealing]]
+# [[justice]], [[fair]] [[dealing]]
 
 ====Inflection====
-{{sga-decl-noun
-|class=o-n|class2=o-m
-}}
+{{sga-decl-o-neut|gs=cirt|ds=[[cert]], [[cirt]]|np=certa|dp=certaib}}
+{{sga-decl-o-masc|gs=cirt|ds=[[cert]], [[cirt]]|ap=certu|dp=certaib}}
+
+====Derived terms====
+* {{l|sga|ina chirt}}, {{l|sga|i cirt||properly, rightly, as is fitting}}
 
 ====Descendants====
 * Irish: {{l|ga|ceart}}
