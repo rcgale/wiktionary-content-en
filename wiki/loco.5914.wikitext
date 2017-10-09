@@ -6,7 +6,7 @@
 * {{rhymes|əʊkəʊ|lang=en}}
 
 ===Etymology 1===
-{{etyl|it|en}}
+From {{bor|en|it|-|notext=1}}.
 
 ====Adverb====
 {{en-adv|-}}
@@ -14,7 +14,7 @@
 # {{lb|en|music}} A direction in written or printed music to return to the proper pitch after having played an octave higher or lower.
 
 ===Etymology 2===
-From {{etyl|es|en}} {{m|es|loco||insane, crazy}}, from {{m|es|loco||loose}}. From {{etyl|ar|en}} {{m|ar|لَوَق||foolishness}} or {{etyl|grc|en}} {{m|grc|γλαυκός||clear}}.
+From {{bor|en|es|loco|t=insane, crazy|notext=1}}, from {{m|es|loco|t=loose}}. From {{der|en|ar|لَوَق|t=foolishness}} or {{der|en|grc|γλαυκός|t=clear}}.
 
 ====Adjective====
 {{en-adj}}
@@ -30,7 +30,7 @@ From {{etyl|es|en}} {{m|es|loco||insane, crazy}}, from {{m|es|loco||loose}}. Fro
 =====Translations=====
 {{trans-top|crazy}}
 * Chinese:
-*: Mandarin: {{t+|cmn|瘋|sc=Hani}}, {{t+|cmn|疯|tr=fēng|sc=Hani}}
+*: Mandarin: {{t+|cmn|瘋}}, {{t+|cmn|疯|tr=fēng}}
 {{trans-mid}}
 * Finnish: {{t+|fi|hullu}}
 * Russian: {{t+|ru|чокнутый}}
@@ -39,10 +39,8 @@ From {{etyl|es|en}} {{m|es|loco||insane, crazy}}, from {{m|es|loco||loose}}. Fro
 ====Noun====
 {{en-noun|s|locoes}}
 
-# Certain species of ''[[Astragalus]]'' or ''[[Oxytropis]]'', capable of causing [[locoism]].
-
-=====Synonyms=====
-* {{l|en|locoweed}}
+# certain species of ''[[Astragalus]]'' or ''[[Oxytropis]]'', capable of causing [[locoism]]
+#: {{syn|en|locoweed}}
 
 ====Related terms====
 * {{l|en|locoism}}
@@ -84,7 +82,7 @@ From {{etyl|es|en}} {{m|es|loco||insane, crazy}}, from {{m|es|loco||loose}}. Fro
 ===Noun===
 {{ia-noun|s}}
 
-# [[place|Place]], [[location]].
+# [[place]], [[location]]
 
 ----
 
@@ -92,7 +90,7 @@ From {{etyl|es|en}} {{m|es|loco||insane, crazy}}, from {{m|es|loco||loose}}. Fro
 
 ===Etymology===
 {{PIE root|it|stel}}
-From {{inh|it|la|locus}}, from {{inh|it|itc-ola|stlocus}}, from {{der|it|ine-pro|*stel-||to put, place, locate}}.
+From {{inh|it|la|locus}}, from {{inh|it|itc-ola|stlocus}}, from {{der|it|ine-pro|*stel-|t=to put, place, locate}}.
 
 ===Pronunciation===
 * {{IPA|/ˈlɔ.ko/|[ˈl̺ɔːko]|lang=it}}
@@ -109,14 +107,14 @@ From {{inh|it|la|locus}}, from {{inh|it|itc-ola|stlocus}}, from {{der|it|ine-pro
 # {{inflection of|locare||1|s|pres|indc|lang=it}}
 
 ===Anagrams===
-* {{l|it|colo}}, {{l|it|colò}}
+* {{anagrams|it|colo|colò}}
 
 ----
 
 ==Latin==
 
 ===Etymology===
-From {{m|la|locus||place, location}}.
+From {{m|la|locus|t=place, location}}.
 
 ===Pronunciation===
 * {{la-IPA|locō}}
@@ -124,28 +122,30 @@ From {{m|la|locus||place, location}}.
 ===Verb===
 {{la-verb|locō|locāre|locāvī|locātum|conj=1}}
 
-# I [[put]], [[place]], [[set]].
-# I [[arrange]], [[establish]].
-# I [[lease]], [[hire]] out, [[lend]].
+# I [[put]], [[place]], [[set]]
+# I [[arrange]], [[establish]]
+# I [[lease]], [[hire]] out, [[lend]]
 
 ====Inflection====
 {{la-conj-1st|loc|locāv|locāt|sync_perf=poet}}
 
 ====Derived terms====
-{{der3|allocō|collocō|ēlocō|locārium|locārius|locātīcius|locātiō|locātor|locātōrius|locātus|locitō|oblocō|lang=la}}
+{{der4|allocō|collocō|ēlocō|locārium|locārius|locātīcius|locātiō|locātor|locātōrius|locātus|locitō|oblocō|lang=la}}
 
 ====Related terms====
-{{der3|locālis|locālitās|locāliter|locellus|loculus|locus|lang=la}}
+{{rel3|locālis|locālitās|locāliter|locellus|loculus|locus|lang=la}}
 
 ====Descendants====
-{{top2}}
+{{top4}}
 * English: {{l|en|locate}}
 * French: {{l|fr|louer}}
+{{mid4}}
 * Friulian: {{l|fur|logâ}}
 * Italian: {{l|it|locare}}
-{{mid2}}
+{{mid4}}
 * Occitan: {{l|oc|logar}}
 * Sicilian: {{l|scn|lucari}}
+{{mid4}}
 * Spanish: {{l|es|logar}}
 * Venetian: {{l|vec|logar}}
 {{bottom}}
@@ -179,32 +179,29 @@ From {{m|la|locus||place, location}}.
 * {{es-IPA}}
 
 ===Etymology 1===
-From {{etyl|xaa|es}} {{m|xaa|tr=lawqa}}. Compare {{cog|pt|louco}}.
+From {{der|es|xaa|tr=lawqa}}. Compare {{cog|pt|louco}}.
 
 ====Adjective====
 {{es-adj|f=loca}}
 
-# [[crazy]], [[insane]], [[mad]] (asserting that something is out of place in the head).
-#: ''David está muy '''loco'''''
-#:: ''David's really crazy.''
+# [[crazy]], [[insane]], [[mad]] {{q|asserting that something is out of place in the head}}
+#: {{syn|es|chiflado|desquiciado|pirado|trastornado}}
+#: {{ux|es|David está muy '''loco'''.|inline=1|David's really crazy.}}
 # [[rash]], [[risky]], [[imprudent]]
 # [[tremendous]], [[terrific]], [[huge]], [[enormous]]
 # [[overgrown]], [[rambling]]
-# [[loose]] (pipe fittings, pulley)
-# [[sexy]] (only with "ser" ex. soy loco)
-
-=====Synonyms=====
-* {{sense|crazy}} {{l|es|chiflado}}, {{l|es|desquiciado}}, {{l|es|pirado}}, {{l|es|trastornado}}
+# [[loose]] {{q|pipe fittings, pulley}}
+# [[sexy]] {{q|only with "ser" ex. soy loco}}
 
 ====Noun====
 {{es-noun|m|f=loca}}
 
-# {{lb|es|pejorative}} A [[crazy]] person.
-# A highly affected [[homosexual]]; [[fruit]].
-# A plant in the genus ''[[Astragalus]]'' or ''[[Oxytropis]]''.
+# {{lb|es|pejorative}} a [[crazy]] person
+# a highly affected [[homosexual]]; [[fruit]]
+# a plant in the genus ''[[Astragalus]]'' or ''[[Oxytropis]]''
 
 ====Related terms====
-{{rel3|locura|locamente|locoísmo|loquear|loquero|loquísimo|enloquecer|volver loco|lang=es}}
+{{rel4|locura|locamente|locoísmo|loquear|loquero|loquísimo|enloquecer|volver loco|lang=es}}
 
 ====See also====
 * {{l|es|demencia}}
@@ -213,24 +210,21 @@ From {{etyl|xaa|es}} {{m|xaa|tr=lawqa}}. Compare {{cog|pt|louco}}.
 * {{l|es|trastornado}}
 
 ===Etymology 2===
-From {{etyl|arn|es}}.
+From {{der|es|arn}}.
 
 ====Noun====
 {{es-noun|m}}
 
 # {{lb|es|Chile}} Chilean edible [[gastropod]] [[mollusk]] resembling [[abalone]] but is, in fact, a [[muricid]] ({{taxlink|Concholepas concholepas|species|noshow=1}})
-
-=====Synonyms=====
-* {{sense|abalone}} {{l|es|abalón chileno}}
+#: {{syn|es|abalón chileno}}
 
 ===Anagrams===
-* {{l|es|coló}}
+* {{anagrams|es|coló}}
 
 ====Further reading====
 * {{R:DRAE 2001}}
 
-{{topics|es|Mind|Psychology|Mollusks|Seafood|Legumes}}
+{{topics|es|Mind|People|Psychology|Mollusks|Seafood|Legumes}}
 
 [[Category:Spanish basic words]]
 [[Category:Spanish terms with multiple etymologies]]
-[[Category:es:People]]
