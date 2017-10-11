@@ -105,12 +105,12 @@ Note that {{och-l|倝}} (as in left part of {{och-l|朝}}) is not derived from {
 ===Kanji===
 {{ja-kanji|grade=1|rs=車00}}
 
-# [[vehicle]]
+# {{l|en|vehicle}}
 
 ====Readings====
 {{ja-readings
-|goon=こ, しゃ<しや
-|kanon=きょ<きよ, しゃ<しや
+|goon=しゃ<しや, こ
+|kanon=しゃ<しや, きょ<きよ
 |kun=くるま-
 }}
 
@@ -122,9 +122,31 @@ Note that {{och-l|倝}} (as in left part of {{och-l|朝}}) is not derived from {
 * {{ja-r|電車|でんしゃ}}
 {{der-bottom}}
 
+===Etymology 1===
+{{ja-kanjitab|yomi=o|しゃ}}
+
+====Pronunciation====
+{{ja-pron|yomi=goon|しゃ}}
+
+====Counter====
+{{ja-pos|counter|しゃ}}
+
+# {{n-g|used to count vehicles}}
+
+====Noun====
+{{ja-noun|しゃ}}
+
+# {{l|en|vehicle}}
+
+=====Usage notes=====
+The noun sense is never used in isolation.  Only found in compounds.
+
+===Etymology 2===
 {{ja-kanjitab|くるま|yomi=k}}
-===Etymology===
-From either {{m|ja|くるくる|tr=kurukuru||spinning}} or {{m|ja|眩めく|tr=kurumeku||to spin}}, and {{m|ja|輪|tr=ma}}, modern {{m|ja|輪|tr=wa||circle/ring}} {{rfv-etymology|ja}}.
+
+From {{inh|ja|ojp|sort=くるま|-}}.  Appears in the ''{{w|Man'yōshū}}'' completed some time after 759 CE, with the ideographic spelling {{lang|ja|車}}.<ref>{{RQ:Manyoshu|4|694}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man4Yos.html#694 here]</ref>
+
+Assuming an initial meaning of {{m|en|wheel}}, may be a compound of {{compound|lang=ja|sort=くるま|くる|tr1=kuru|pos1=related to spinning or rotating, as in {{m|ja|繰る|tr=kuru||to spin (as in thread)}}, {{m|ja|枢|tr=kuru||hinge}}, {{m|ja|くるくる|tr=kurukuru||spinningly, round and round}}, {{m|ja|転めく|tr=kurumeku||to spin round and round, to rotate; to be dizzy}}|ま|tr2=ma|pos2=a suffix added to various parts of speech to form an indeclinable word indicating state}}.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|くるま|acc=0|acc_ref=DJR,NHK}}
@@ -132,16 +154,26 @@ From either {{m|ja|くるくる|tr=kurukuru||spinning}} or {{m|ja|眩めく|tr=k
 ====Noun====
 {{ja-noun|count=台|くるま}}
 
-# a [[car]], an [[automobile]], a [[carriage]], a [[cart]]
-# a [[wheel]], a [[caster]]
+# a {{l|en|car}}, an {{l|en|automobile}}, a {{l|en|carriage}}, a {{l|en|cart}}
+# a {{l|en|wheel}}, a {{l|en|caster}}
+# something {{l|en|wheel}}-{{l|en|shaped}}
+# a style of {{m|ja|紋|tr=mon||family {{l|en|crest}}}}
+# short for various terms:
+## {{short for|nocap=1|nodot=1|lang=ja|sort=くるま|車海老}} (''kuruma ebi''): a {{l|en|prawn}}
+## {{short for|nocap=1|nodot=1|lang=ja|sort=くるま|車懸}} (''kuruma-gakari''): “wheel formation”, a battle tactic where units attack in staged waves in order to prevent the opponent from resting
+## {{short for|nocap=1|nodot=1|lang=ja|sort=くるま|肩車}} (''kata-guruma''): riding on one's shoulders, {{l|en|piggyback}}
+## {{short for|nocap=1|nodot=1|lang=ja|sort=くるま|手車}} (''te-guruma''): a {{l|en|handcard}}, a {{l|en|wheelbarrow}}
+## {{short for|nocap=1|nodot=1|lang=ja|sort=くるま|車座}} (''kuruma za''): {{l|en|sitting}} in a {{l|en|circle}}
+# {{lb|ja|sort=くるま|obsolete}} during the {{w|Edo period}}, in the {{l|en|red-light district}} in {{w|Ōsaka}}, a {{l|en|prostitute}} whose services cost four {{m|ja|匁|tr=monme}} and three {{m|ja|分|tr=bun}} (possibly in reference to the cost of a carriage ride)
 
-====Derived terms====
+=====Derived terms=====
 {{der-top}}
-* {{ja-r|車椅子|くるまいす}}: [[wheelchair]]
+* {{ja-r|車椅子|くるまいす}}: {{l|en|wheelchair}}
 {{der-bottom}}
 
 ===References===
 <references/>
+:* {{R:Kokugo Dai Jiten}}
 
 [[Category:Japanese basic words|くるま]]
 [[Category:ja:Machines|くるま]]
