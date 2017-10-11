@@ -2,7 +2,7 @@
 ==Esperanto==
 
 ===Etymology===
-From Romanic verbs meaning "to live": Italian ''{{l|it|vivere}}''; Spanish ''{{l|es|vivir}}''; Portuguese ''{{l|pt|viver}}''; French ''{{l|fr|vivre}}''
+From {{der|eo|roa}} verbs meaning "to live": {{cog|it|vivere}}; {{cog|es|vivir}}; {{cog|pt|viver}}; {{cog|fr|vivre}}.
 
 ===Verb===
 {{eo-head}}
@@ -14,16 +14,17 @@ From Romanic verbs meaning "to live": Italian ''{{l|it|vivere}}''; Spanish ''{{l
 {{eo-conj|intr=yes}}
 
 ====Derived terms====
-{{der3|lang=eo|{{l|eo|ĝisvivi||to survive until, to "live to see"}}
-|{{l|eo|reviviĝi||to return to life}}
-|{{l|eo|travivi||to [[live through]]}}
-|{{l|eo|viva||alive}}
-|{{l|eo|vivaĵo||a [[living thing]]}}
-|{{l|eo|vive||in a lively manner}}
-|{{l|eo|vivo||life}}
+{{der3
+|{{l|eo|ĝisvivi|t=to survive until|lit=to live to see}}
+|{{l|eo|reviviĝi|t=to return to life}}
+|{{l|eo|travivi|t=to [[live through]]}}
+|{{l|eo|viva|t=alive}}
+|{{l|eo|vivaĵo|t=a living thing}}
+|{{l|eo|vive|t=in a lively manner}}
+|{{l|eo|vivo|t=life}}
 |{{l|eo|vivukrio}}
-|{{l|eo|vivadi||to live for a significant period of time}}
-}}
+|{{l|eo|vivadi|t=to live for a significant period of time}}
+|lang=eo}}
 
 {{eo BRO|2}}
 
@@ -38,16 +39,13 @@ From {{inh|fur|la|vīvere}}, present active infinitive of {{m|la|vīvō}}.
 {{head|fur|verb}}
 
 # {{lb|fur|intransitive}} to [[live]]
+#: {{ant|fur|murî}}
 
 ====Conjugation====
 {{fur-conj}}
 
-====Antonyms====
-* {{l|fur|murî}}
-
 ====Related terms====
-* {{l|fur|vîf}}
-* {{l|fur|vite}}
+{{rel2|vîf|vite|lang=fur}}
 
 ----
 
@@ -56,12 +54,13 @@ From {{inh|fur|la|vīvere}}, present active infinitive of {{m|la|vīvō}}.
 ===Verb===
 {{head|it|verb form}}
 
-# [[second-person singular]] [[present tense]] and [[imperative]] of [[vivere]]
+# {{inflection of|vivere||2|s|pres|ind|lang=it}}
+# {{inflection of|vivere||2|s|imp|lang=it}}
 
 ===Adjective===
-{{head|it|adjective form}}
+{{it-adj-form|m-p}}
 
-# {{plural of|vivo|lang=it}}
+# {{it-adj form of|vivo|m|pl}}
 
 ----
 
