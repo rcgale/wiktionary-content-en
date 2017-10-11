@@ -2,7 +2,7 @@
 ==Esperanto==
 
 ===Etymology===
-From Esperanto {{affix|eo|vivi|gloss1=to live|pos2=[[nominal]] suffix|-o}}.
+From {{af|eo|vivi|t1=to live|-o|pos2=[[nominal]] suffix}}.
 
 ===Pronunciation===
 * {{IPA|/ˈvivo/|lang=eo}}
@@ -12,22 +12,20 @@ From Esperanto {{affix|eo|vivi|gloss1=to live|pos2=[[nominal]] suffix|-o}}.
 {{eo-head}}
 
 # [[life]]
-
-====Antonyms====
-* {{l|eo|morto}}
+#: {{ant|eo|morto}}
 
 ====Derived terms====
 {{der3|kunvivanto|malvivo|malvivulo|porvivaĵo|senvivaĵo|vivaĵo|lang=eo}}
 
 ====Related terms====
-* {{l|eo|vivi||to live}}
+* {{l|eo|vivi|t=to live}}
 
 ----
 
 ==Galician==
 
 ===Etymology 1===
-From {{inh|gl|roa-opt|vivo}}, from {{inh|gl|la|vīvus||alive, living}}.
+From {{inh|gl|roa-opt|vivo}}, from {{inh|gl|la|vīvus|t=alive, living}}.
 
 ====Adjective====
 {{gl-adj|f=viva}}
@@ -50,7 +48,7 @@ Inflected form of {{m|gl|vivir}}.
 ==Ido==
 
 ===Etymology===
-From {{etyl|eo|io}} {{m|eo|vivo}}.
+From {{der|io|eo|vivo}}.
 
 ===Noun===
 {{io-noun|viv}}
@@ -84,21 +82,16 @@ From {{inh|it|la|vīvus|t=alive”, “living}}, from {{inh|it|itc-pro|*gʷīwos
 ===Verb===
 {{head|it|verb form}}
 
-# {{form of|[[first-person singular]] [[present tense]]|vivere|lang=it}}
+# {{inflection of|vivere||1|s|pres|lang=it}}
 
 ====Derived terms====
-* {{l|it|al vivo}}
-* {{l|it|argento vivo}}
-* {{l|it|a viva forza}}
-* {{l|it|dal vivo}}
-* {{l|it|da vivo}}
-* {{l|it|vivamente}}
+{{der3|al vivo|argento vivo|a viva forza|dal vivo|da vivo|vivamente|lang=it}}
 
 ====Related terms====
 * {{l|it|vivere}}
 
 ===Anagrams===
-* {{l|it|ovvi}}
+* {{anagrams|it|ovvi}}
 
 ----
 
@@ -106,9 +99,9 @@ From {{inh|it|la|vīvus|t=alive”, “living}}, from {{inh|it|itc-pro|*gʷīwos
 
 ===Etymology===
 {{PIE root|la|gʷeyh₃}}
-From {{inh|la|itc-pro|*gʷīwō}}, from {{inh|la|ine-pro|*gʷíh₃weti||to live}}. The ''x'' and ''c'' in {{m|la|vīxī}} and {{m|la|vīctum}} were introduced by analogy with other verbs.
+From {{inh|la|itc-pro|*gʷīwō}}, from {{inh|la|ine-pro|*gʷíh₃weti|t=to live}}. The ''x'' and ''c'' in {{m|la|vīxī}} and {{m|la|vīctum}} were introduced by analogy with other verbs.
 
-Cognate with Old English {{m|ang|cwic||alive}} (English [[quick]]), Old Church Slavonic {{m|cu|sc=Cyrl|жити|tr=žiti}}, Ancient Greek {{m|grc|sc=polytonic|βίος}}, Sanskrit {{m|sa|जीवति}}.
+Cognate with {{cog|ang|cwic|t=alive}} ({{cog|en|quick}}), {{cog|cu|жити}}, {{cog|grc|βίος}}, {{cog|sa|जीवति}}.
 
 ===Pronunciation===
 * {{la-IPA|vīvō|eccl=yes}}
@@ -130,21 +123,21 @@ Cognate with Old English {{m|ang|cwic||alive}} (English [[quick]]), Old Church S
 * {{l|la|spirō}}
 
 ====Derived terms====
-{{col-top|3}}
-* {{l|la|ita vīvam||as true as I live}}
-* {{l|la|nē vīvam sī||may I die if}}
-* {{l|la|victitō}}
-* {{l|la|vīta}}
-* {{l|la|vītālis}}
-* {{l|la|vīvācitās}}
-* {{l|la|vīvāciter}}
-* {{l|la|vīvārium}}
-* {{l|la|vīvārius}}
-* {{l|la|vīvātus}}
-* {{l|la|vīvāx}}
-* {{l|la|vīvēscō}}
-* {{l|la|vīvidus}}
-{{col-bottom}}
+{{der3
+|{{l|la|ita vīvam|t=as true as I live}}
+|{{l|la|nē vīvam sī|t=may I die if}}
+|{{l|la|victitō}}
+|{{l|la|vīta}}
+|{{l|la|vītālis}}
+|{{l|la|vīvācitās}}
+|{{l|la|vīvāciter}}
+|{{l|la|vīvārium}}
+|{{l|la|vīvārius}}
+|{{l|la|vīvātus}}
+|{{l|la|vīvāx}}
+|{{l|la|vīvēscō}}
+|{{l|la|vīvidus}}
+|lang=la}}
 
 ====Related terms====
 * {{l|la|vīvus}}
@@ -154,7 +147,7 @@ Cognate with Old English {{m|ang|cwic||alive}} (English [[quick]]), Old Church S
 * [[Aragonese]]: {{l|an|bibir}}
 * [[Asturian]]: {{l|ast|vivir}}
 * [[Catalan]]: {{l|ca|viure}}
-* English: [[revive]]
+* English: {{l|en|revive}}
 * Esperanto: {{l|eo|vivi}}
 * [[Franco-Provençal]]: {{l|frp|vivre}}
 * French: {{l|fr|vivre}}
@@ -197,27 +190,20 @@ From {{inh|pt|roa-opt|vivo}}, from {{inh|pt|la|vīvus}}, from {{inh|pt|itc-pro|*
 {{pt-adj|viv|o}}
 
 # {{l|en|alive}} {{gloss|having life; not dead}}
+#: {{ant|pt|morto}}
 # {{l|en|lively}}; {{l|en|vivacious}}
+#: {{syn|pt|vivaz}}
 # {{lb|pt|linguistics|of a language or lect}} having {{l|en|native}} speakers
+#: {{ant|pt|morto}}
 # {{l|en|strong}} {{gloss|highly stimulating to the senses}}
+#: {{syn|pt|forte}}
+#: {{ant|pt|fraco}}
 
 ====Inflection====
 {{pt-adj-infl|viv|o|dim=1}}
 
-====Synonyms====
-* {{sense|lively}} {{l|pt|vivaz}}
-* {{sense|stimulating to the senses}} {{l|pt|forte}}
-
-====Antonyms====
-* {{sense|alive}} {{l|pt|morto}}
-* {{sense|having native speakers}} {{l|pt|morto}}
-* {{sense|stimulating to the senses}} {{l|pt|fraco}}
-
 ====Derived terms====
-* {{l|pt|água-viva}}
-* {{l|pt|ao vivo}}
-* {{l|pt|entre vivos}}
-* {{l|pt|vivinho da silva}}
+{{der4|água-viva|ao vivo|entre vivos|vivinho da silva|lang=pt}}
 
 ====Related terms====
 {{rel4|vida|viva|vivacidade|vivamente|vivário|vivaz|vivazmente|vivedor|vivedouro|viveiro|vivência|vivenciado|vivencial|vivenciamento|vivenciar|vivenda|vivente|viver|vivi-|vividamente|vívido|vivível|lang=pt}}
@@ -232,7 +218,7 @@ From {{inh|pt|roa-opt|vivo}}, from {{inh|pt|la|vīvus}}, from {{inh|pt|itc-pro|*
 ==Spanish==
 
 ===Etymology===
-From {{inh|es|la|vīvus||alive, living}}, from {{inh|es|itc-pro|*gʷīwos}}, ultimately from {{inh|es|ine-pro|*gʷih₃wós||alive}}.
+From {{inh|es|la|vīvus|t=alive, living}}, from {{inh|es|itc-pro|*gʷīwos}}, ultimately from {{inh|es|ine-pro|*gʷih₃wós|t=alive}}.
 
 ===Adjective===
 {{es-adj|f=viva}}
@@ -241,8 +227,7 @@ From {{inh|es|la|vīvus||alive, living}}, from {{inh|es|itc-pro|*gʷīwos}}, ult
 # [[vivid]]
 
 ====Related terms====
-* {{l|es|vivamente}}
-* {{l|es|viver}}
+{{rel2|vivamente|viver|lang=es}}
 
 ===Verb===
 {{head|es|verb form}}
