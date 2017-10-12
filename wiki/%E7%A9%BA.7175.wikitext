@@ -127,10 +127,6 @@
 
 # [[sky]]
 # [[empty]], [[hollow]], [[bare]], [[void]], [[deserted]]
-# {{lb|mul|Buddhism}} [[sunyata]]; [[emptiness]], [[vacuity]], [[awareness]], [[openness]], [[thusness]]
-# (''[[Japanese]] [[Buddhism]]'') "[[Wikipedia:Five elements (Japanese philosophy)#Kū|void]]": One of the {{l|ja|五大}} (''godai''; lit. "''[[great]] [[five]]); also known as {{l|ja|天}} ({{l|ja|そら}}, sora'') and is of particular importance as the highest of the five elements. It also represents those things that are beyond one's everyday [[experience]]s, particularly those things composed of [[pure]] [[energy]].
-## (''Bodily'') represents one's [[spirit]], [[thought]], and [[creative]] energy. It represents one's [[ability]] to [[think]] and to [[communicate]], as well one's [[creativity]]. It can also be associated with power, creativity, [[spontaneity]], and [[inventiveness]].
-## (''[[martial art|Martial arts]]'') a [[philosophy]]; when [[exercise]]d, the power of the Void allows one to connect to the [[quintessential]] creative energy of the world. A martial arts [[practitioner]], who is properly attuned into the 'Void', have greater [[visucentric|spatial awareness]] of their surroundings, the [[presence]]s of others, and to act without thinking and without using their physical senses, via this [[mindstate]] of [[inner peace]].
 
 =====Readings=====
 {{ja-readings
@@ -174,13 +170,14 @@
 
 ===Etymology 1===
 {{ja-kanjitab|そら|yomi=kun}}
-{{rfe|ja|A theory states it came from Italian: from [[solfège]], so + la}}
+
+From {{inh|ja|ojp|sort=そら|-}}.  Found in the ''{{w|Kojiki}}'' c. 712 CE.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|そら|acc=1|acc_ref=DJR}}
 
 ====Alternative forms====
 * {{ja-l|虚}}
-
-====Pronunciation====
-{{ja-pron|そら|y=k}}
 
 ====Noun====
 {{ja-noun|そら}}
@@ -195,10 +192,11 @@
 
 ===Etymology 2===
 {{ja-kanjitab|から|yomi=kun}}
-Related to {{ja-r|殻|から|[[shell]]}}
+
+Cognate with {{ja-r|殻|から|[[shell]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|から|y=k}}
+{{ja-pron|yomi=k|から|acc=2|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|から}}
@@ -215,17 +213,19 @@ Related to {{ja-r|殻|から|[[shell]]}}
 
 ===Etymology 3===
 {{ja-kanjitab|くう|yomi=on}}
-From {{etyl|ltc|ja|sort=くう}} {{m|ltc|空|tr=khung|pos=reconstructed by some linguists as {{IPAchar|/kʰuŋ/}}}}. 
+
+From {{der|ja|ltc|sort=くう|-}} {{ltc-l|空}}. 
 
 ====Pronunciation====
-{{ja-pron|くう|y=goon}}
+{{ja-pron|yomi=goon|くう|acc=0|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
 
 ====Noun====
 {{ja-noun|くう}}
 
 # empty air
-# [[shunya]] ([[Śūnyatā]])
 # [[meaninglessness]]
+# {{lb|ja|sort=くう|Buddhism}} [[shunya]] ([[Śūnyatā]]): [[emptiness]], [[vacuity]], [[awareness]], [[openness]], [[thusness]]
+# {{lb|ja|sort=くう|Buddhism}} {{w|Wikipedia:Five elements (Japanese philosophy)#Kū|void}}: one of the {{l|ja|五大}} (''godai''; lit. "''[[great]] [[five]]); also known as {{l|ja|天}} ({{l|ja|そら}}, sora''), of particular importance as the highest of the five elements
 
 ===Etymology 4===
 {{rfe|ja}}
@@ -263,6 +263,9 @@ Similar etymology to {{m|ja|空|tr=utsuo}}. As /h/ gradually changed from [p] �
 {{ja-noun|うつぼ}}
 
 # {{alternative form of|うろ|lang=ja}}
+
+===References===
+<references/>
 
 [[Category:Japanese basic words|そら]]
 
