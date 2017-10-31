@@ -1,5 +1,4 @@
 ==English==
-{{wikipedia}}
 
 ===Pronunciation===
 * {{IPA|mæpɪŋ|lang=en}}
@@ -8,9 +7,13 @@
 {{en-noun|~}}
 
 # The process of making [[map]]s.
-# {{lb|en|mathematics}} A [[function]] that [[map]]s every [[element]] of a given [[set]] to a [[unique]] element of another set; a [[correspondence]].
 # {{lb|en|biology}} The process of [[locating]] [[gene]]s on a [[chromosome]].
 # {{lb|en|computing}} Assigning a [[PC]] to a shared drive or printer port on a network.
+# {{lb|en|mathematics}} A [[function]] that [[map]]s every [[element]] of a given [[set]] to a [[unique]] element of another set; a [[correspondence]].
+# {{lb|en|object-oriented programming}} [[conversion]] of [[data type]]s between incompatible [[type system]]s.
+
+====Hyponyms====
+* {{sense|computing}} {{l|en|object-relational mapping}}
 
 ====Translations====
 {{trans-top|process of making maps}}
@@ -38,6 +41,9 @@
 {{trans-mid}}
 * French: {{t+|fr|cartographie|f}}
 {{trans-bottom}}
+
+===References===
+* {{pedia}}
 
 ===Verb===
 {{head|en|present participle}}
