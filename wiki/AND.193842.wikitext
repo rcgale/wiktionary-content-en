@@ -25,6 +25,21 @@
 (1 AND 0) = 0<br>
 (1 AND 1) = 1<br>
 
+{| class="wikitable" style="clear:right; float:right; width:248px"
+|+ AND Truth Table
+|-
+!colspan="2" | Input || rowspan="2" | Output
+|-
+!A || B
+|-
+| 0 || 0 || 0
+|-
+| 0 || 1 || 0
+|-
+| 1 || 0 || 0
+|-
+| 1 || 1 || 1
+|}
 ====Antonyms====
 * {{l|en|NAND}}
 
