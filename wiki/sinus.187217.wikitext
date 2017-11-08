@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|la|en}} {{m|la|sinus}}.
+From {{bor|en|la|sinus|notext=1}}.
 
 ===Pronunciation===
 * {{IPA|/ˈsaɪnəs/|lang=en}}
@@ -59,11 +59,6 @@ From {{etyl|la|en}} {{m|la|sinus}}.
 * Finnish: {{t+|fi|avanne}}
 {{trans-mid}}
 * Russian: {{t+|ru|свищ|m}}, {{t+|ru|фи́стула|f}}
-{{trans-bottom}}
-
-{{checktrans-top}}<!-- These look like paranasal sinuses, not general terms for a pouch or cavity in organ tissue -->
-* French: {{t-check|fr|sinus paranasal|m}}
-* German: {{t-check|de|Nasennebenhöhle|f}}
 {{trans-bottom}}
 
 ===Anagrams===
@@ -151,7 +146,7 @@ Borrowed from {{bor|fr|la|sinus|notext=1}}. Compare the inherited doublet {{doub
 ===Noun===
 {{fr-noun|m|sinus}}
 
-# {{lb|fr|anatomy}} [[#English|sinus]]
+# {{lb|fr|anatomy}} {{l|en|sinus}}
 # {{lb|fr|trigonometry}} [[sine]]
 
 ====See also====
@@ -169,7 +164,9 @@ Borrowed from {{bor|fr|la|sinus|notext=1}}. Compare the inherited doublet {{doub
 ==Latin==
 
 ===Etymology 1===
-Of {{etyl|ine-pro|la}} origin.
+Of {{der|la|ine-pro}} origin.
+
+The mathematical sense ‘chord of an arc, sine’ was introduced in the 12th century by {{w|Gherardo of Cremona}} as a {{semantic loan|la|ar|جَيْب||chord, sine|nocap=1}} (ultimately a loan from {{der|la|sa|ज्या||bowstring}}) by confusion with {{m|ar|جَيْب||bosom, fold in a garment}}.
 
 ====Pronunciation====
 * {{la-IPA|sinus}}
@@ -183,6 +180,7 @@ Of {{etyl|ine-pro|la}} origin.
 # [[bosom]]
 # [[fold]] of the [[toga]] over the breast, [[pocket]], [[lap]]
 # [[heart]], secret [[feelings]]
+# {{lb|la|Medieval|mathematics}} [[chord]] of an arc, [[sine]]
 
 =====Inflection=====
 {{la-decl-4th|sin}}
@@ -201,7 +199,7 @@ Of {{etyl|ine-pro|la}} origin.
 {{top2}}
 * Aromanian: {{l|rup|sin}}
 * Asturian: {{l|ast|sen}}, {{l|ast|senu}}
-* English: {{l|en|sinus}}
+* English: {{l|en|sinus}}, {{l|en|sine}}
 * French: {{l|fr|sein}}, {{l|fr|sinus}}
 * Friulian: {{l|fur|sen}}
 * Italian: {{l|it|seno}}
@@ -215,24 +213,7 @@ Of {{etyl|ine-pro|la}} origin.
 {{bottom}}
 
 ===Etymology 2===
-Medieval Latin, introduced in the 12th century by [[w:Gherardo of Cremona|Gherardo of Cremona]] as a translation of {{der|la|ar|جَيْب||chord, sine}} (ultimately a loan from {{der|la|sa|ज्या||bowstring}}) by confusion with {{m|ar|جَيْب||bosom, fold in a garment}}.
-
-====Pronunciation====
-* {{la-IPA|sinus}}
-
-====Noun====
-{{la-noun|sinus|sinūs|m|fourth}}
-
-# {{lb|la|mathematics}} [[chord]] of an arc, [[sine]]
-
-=====Inflection=====
-{{la-decl-4th|sin}}
-
-=====Descendants=====
-* English: {{l|en|sine}}
-
-===Etymology 3===
-From {{m|la|sinus||a hollow, cavity}}.
+From {{m|la|sinus||a hollow, cavity}}.{{attention|la|Really? The long vowel and the fact that it's 2nd declension instead of 4th make this seem unlikely}}
 
 ====Pronunciation====
 * {{la-IPA|sīnus}}
@@ -248,7 +229,7 @@ From {{m|la|sinus||a hollow, cavity}}.
 =====Alternative forms=====
 * {{l|la|sīnum}}
 
-===References===
+===Further reading===
 * {{R:L&S}}
 * {{R:Elementary Lewis}}
 * {{R:du Cange}}
@@ -274,13 +255,13 @@ From {{m|la|sinus||a hollow, cavity}}.
 ==Norwegian==
 
 ===Etymology===
-From {{etyl|la|no}}.
+From {{bor|no|la|sinus|notext=1}}.
 
 ===Noun===
 {{head|no|noun|g=m}}
 
 # {{lb|no|trigonometry}} [[sine]]
-# {{lb|no|anatomy}} [[#English|sinus]]
+# {{lb|no|anatomy}} {{l|en|sinus}}
 
 ====Inflection====
 {{no-noun-infl|nb-class=m1|nn-class=m1}}
@@ -313,7 +294,7 @@ From {{etyl|la|no}}.
 ==Romanian==
 
 ===Etymology===
-From {{etyl|fr|ro}} {{m|fr|sinus}}
+From {{bor|ro|fr|sinus|notext=1}}
 
 ===Noun===
 {{ro-noun|n|uri}}
