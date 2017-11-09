@@ -17,6 +17,7 @@ Variant form of {{m|en|german}}, adapted in this sense in allusions to its use i
 {{en-adj}}
 
 # [[related|Related]] to the [[topic]] being discussed or considered.
+#: {{syn|en|pertinent|relevant|on-topic|apt}}
 #* {{quote-journal
 |date=August 5, 2012
 |author=Nathan Rabin
@@ -27,35 +28,32 @@ Variant form of {{m|en|german}}, adapted in this sense in allusions to its use i
 #* '''1924''', [[w:Aristotle|Aristotle]], ''[[w:Metaphysics (Aristotle)|Metaphysics]]''. Translated by W. D. Ross. Nashotah, Wisconsin, USA: The Classical Library, 2001, [http://www.classicallibrary.org/aristotle/metaphysics Book 1, Part 5].
 #*: Yet this much is '''germane''' to the present inquiry:
 
-=====Synonyms=====
-* {{l|en|pertinent}}, {{l|en|relevant}}, {{l|en|on-topic}}, {{l|en|apt}}
-
 =====Related terms=====
-* {{l|en|germanely}}
-* {{l|en|germaneness}}
+{{rel2|germanely|germaneness|lang=en}}
 
 =====Translations=====
 {{trans-top|related to the topic being discussed}}
-* Bulgarian: {{t+|bg|уместен|sc=Cyrl}}
+* Bulgarian: {{t+|bg|уместен}}
 * Chinese:
-*: Mandarin: {{t+|cmn|有關|sc=Hani}}, {{t+|cmn|有关|tr=yǒuguān|sc=Hani}}, {{t+|cmn|有關係|sc=Hani}}, {{t+|cmn|有关系|tr=yǒuguānxi|sc=Hani}}
+*: Mandarin: {{t+|cmn|有關}}, {{t+|cmn|有关|tr=yǒuguān}}, {{t+|cmn|有關係}}, {{t+|cmn|有关系|tr=yǒuguānxi}}
 * Danish: {{t|da|relevant}}, {{t|da|relevante|p}}
 * Dutch: {{t+|nl|relevant}}, {{t|nl|ter zake}}, {{t|nl|van toepassing}}
 * Estonian: {{t|et|kohane}}, {{t|et|sobiv}}
 * Finnish: {{t|fi|asiaankuuluva}}, {{t+|fi|relevantti}}, {{t+|fi|olennainen}}
 * German: {{t+|de|relevant}}
 {{trans-mid}}
-* Persian: {{t+|fa|مربوط|tr=marbut|sc=fa-Arab}}
+* Persian: {{t+|fa|مربوط|tr=marbut}}
 * Polish: {{t+|pl|istotny}}
 * Russian: {{t+|ru|уме́стный}}, {{t+|ru|подходя́щий}}, {{t+|ru|соотве́тствующий}}, {{t+|ru|релева́нтный}}, {{t|ru|[[относиться|относя́щийся]] к [[тема|те́ме]]}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|релевантан|sc=Cyrl}}, {{t|sh|сродан|sc=Cyrl}}, {{t|sh|повезан|sc=Cyrl}}
-*: Roman: {{t+|sh|relevantan}}, {{t+|sh|srodan}}, {{t+|sh|povezan}}
+*: Cyrillic: {{t|sh|релева̀нтан}}, {{t|sh|сро̏дан}}, {{t|sh|по̀ве̄за̄н}}
+*: Roman: {{t+|sh|relevàntan}}, {{t+|sh|srȍdan}}, {{t+|sh|pòvēzān}}
 * Spanish: {{t+|es|relacionado}}, {{t+|es|relacionada}}
 {{trans-bottom}}
+
 ===Etymology 2===
-====Noun====
 {{wikipedia}}
+====Noun====
 {{en-noun}}
 
 # {{lb|en|inorganic chemistry}} [[germanium tetrahydride]], GeH<sub>4</sub>
@@ -70,7 +68,7 @@ Variant form of {{m|en|german}}, adapted in this sense in allusions to its use i
 {{trans-top|germanium tetrahydride}}
 * Catalan: {{t+|ca|germà|m}}
 * Chinese:
-*: Mandarin: {{t|cmn|甲鍺烷|sc=Hani}}, {{t|cmn|甲锗烷|tr=jiǎzhěwán|sc=Hani}}
+*: Mandarin: {{t|cmn|甲鍺烷}}, {{t|cmn|甲锗烷|tr=jiǎzhěwán}}
 * Dutch: {{t|nl|germaan|n}}
 * Finnish: {{t|fi|germaniumtetrahydridi}}
 * French: {{t+|fr|germane|m}}
@@ -96,19 +94,30 @@ Variant form of {{m|en|german}}, adapted in this sense in allusions to its use i
 # Germanly; in the manner of a [[German]]
 
 ====Related terms====
-* {{l|eo|germana|gloss=German}}
-* {{l|eo|Germanio|gloss=[[Germany]]}}
-* {{l|eo|germano|gloss=a German}}
+{{rel3
+|{{l|eo|germana|t=German}}
+|{{l|eo|Germanio|t=[[Germany]]}}
+|{{l|eo|germano|t=a German}}
+|lang=eo}}
 
 [[Category:eo:Germany]]
 [[Category:eo:Languages]]
 
 ----
 
+==Italian==
+
+===Adjective===
+{{it-adj-form|f-p}}
+
+# {{it-adj form of|germano|f|pl}}
+
+----
+
 ==Latin==
 
 ===Etymology===
-From {{m|la|germānus||real, sincere}}.
+From {{m|la|germānus|t=real, sincere}}.
 
 ===Pronunciation 1===
 {{rfc-pron-n|Pronunciation 1|lang=la}}
