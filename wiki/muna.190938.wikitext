@@ -70,7 +70,8 @@ From {{inh|fi|fiu-fin-pro|*muna}}, From {{inh|fi|urj-pro|*muna}}.
 # {{lb|fi|vulgar|in plural}} [[balls]] {{gloss|testicles}}
 # {{lb|fi|slang}} [[guts]], [[balls]] {{gloss|courage}}
 #: {{ux|fi|Onko sulla '''munaa''' tehdä se?|Do you have the balls to do it?}}
-# [[ovoid]] (something egg-shaped, used especially in compound terms with a modifier that specifies the material)
+# [[ovoid]] {{gloss|something egg-shaped, used especially in compound terms with a modifier that specifies the material}}
+#: {{syn|fi|ovoidi}}
 
 =====Declension=====
 {{fi-decl-koira|mun|||a}}
@@ -78,7 +79,6 @@ From {{inh|fi|fiu-fin-pro|*muna}}, From {{inh|fi|urj-pro|*muna}}.
 =====Synonyms=====
 * {{sense|balls}} {{l|fi|palli|pallit}}
 * {{sense|hen's egg}} {{l|fi|kananmuna}}
-* {{sense|ovoid}} {{l|fi|ovoidi}}
 
 =====Derived terms=====
 {{der3|lang=fi
@@ -101,9 +101,7 @@ From {{inh|fi|fiu-fin-pro|*muna}}, From {{inh|fi|urj-pro|*muna}}.
 {{head|fi|pronoun form}}
 
 # {{lb|fi|colloquial}} {{fi-form of|mä|case=essive}}
-
-=====Synonyms=====
-* {{l|fi|minuna}} {{q|standard language}}
+#: {{syn|fi|minuna}} {{q|standard language}}
 
 ===Anagrams===
 * {{anagrams|fi|Manu|manu|maun|namu}}
@@ -136,7 +134,7 @@ From {{inh|is|non|muna}}, from {{inh|is|gem-pro|*munaną}}. Cognate with {{cog|f
 #*: {{ux|is|Ég '''man''' ekki.|I can’t '''remember'''.}}
 
 ===Etymology 2===
-Related to {{m|is|munur||difference}}.
+Related to {{m|is|munur|t=difference}}.
 
 ====Verb====
 {{is-verb-weak|munaði|munað}}
@@ -170,6 +168,15 @@ From {{inh|izh|fiu-fin-pro|*muna}}, from {{inh|izh|urj-pro|*muna}}.
 
 # {{alternative form of|mura|lang=ga}}
 
+===Particle===
+{{head|ga|particle|copular form used before consonants||form used before vowels|munab}}
+
+# {{alternative form of|mura|lang=ga}}
+
+===Further reading===
+* {{R:ga:Ó Dónaill}}
+* {{R:ga:NEID}}
+
 ----
 
 ==Livonian==
@@ -202,7 +209,7 @@ From {{inh|lud|fiu-fin-pro|*muna}}, from {{inh|lud|urj-pro|*muna}}.
 ==Old Norse==
 
 ===Etymology===
-From {{inh|non|gem-pro|*munaną||to think, consider, remember}}, from {{der|non|ine-pro|*men-||to think}}. Cognate with {{cog|ang|ġemunan}}, {{cog|osx|munan}}, {{cog|goh|munan}}, {{cog|got|𐌼𐌿𐌽𐌰𐌽}}.
+From {{inh|non|gem-pro|*munaną|t=to think, consider, remember}}, from {{der|non|ine-pro|*men-|t=to think}}. Cognate with {{cog|ang|ġemunan}}, {{cog|osx|munan}}, {{cog|goh|munan}}, {{cog|got|𐌼𐌿𐌽𐌰𐌽}}.
 
 ===Verb===
 {{non-verb|mundi|mundu|munaðr}}
@@ -232,10 +239,7 @@ From {{inh|vep|fiu-fin-pro|*muna}}, from {{inh|vep|urj-pro|*muna}}.
 {{vep-decl-stems|mun|a|an|ad|id}}
 
 ====Derived terms====
-* {{l|vep|munarič}}
-* {{l|vep|dubmuna}}
-* {{l|vep|häčämuna}}
-* {{l|vep|südäimuna}}
+{{der4|munarič|dubmuna|häčämuna|südäimuna|lang=vep}}
 
 ===References===
 * {{R:vep:UVVV|яйцо}}
