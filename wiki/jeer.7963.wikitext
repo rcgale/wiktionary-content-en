@@ -6,7 +6,7 @@
 * {{rhymes|ɪə(r)|lang=en}}
 
 ===Etymology 1===
-Perhaps a corruption of {{m|en|cheer||to salute with cheers}}, taken in an ironical sense; or more probably from {{etyl|nl|en}} {{m|nl|gekscheren||to jeer|lit=to shear the fool}}, from {{m|nl|gek||a fool}} (see {{m|en|geck}}) + {{m|nl|scheren||to shear}} (see {{m|en|shear|pos=v}}).
+Perhaps a corruption of {{m|en|cheer||to salute with cheers}}, taken in an ironical sense; or more probably from {{bor|en|nl|gekscheren||to jeer|lit=to shear the fool}}, from {{m|nl|gek||a fool}} (see {{m|en|geck}}) + {{m|nl|scheren||to shear}} (see {{m|en|shear|pos=v}}).
 
 ====Noun====
 {{en-noun}}
@@ -117,22 +117,21 @@ Compare {{m|en|gear}}.
 ==Manx==
 
 ===Etymology===
-From {{etyl|sga|gv}} {{m|sga|dír||due, fit, proper}}.
+From {{inh|gv|sga|dír||due, fit, proper}}.
 
 ===Adverb===
 {{head|gv|adverb}}
 
 # [[indeed]], [[verily]], [[truly]], [[actually]]
-#* '''Jeer''' {{l|gv|cha}} {{l|gv|nel}}!
-#** ''Indeed it is not!''
-
-====Mutation====
-{{gv mut cons|j|eer}}
+#: {{ux|gv|'''Jeer''' cha nel!|Indeed it is not!}}
 
 ====Related terms====
 * {{l|gv|jeeragh}}
 * {{l|gv|jeerid}}
 * {{l|gv|jeerys}}
+
+===Mutation===
+{{gv-mut-cons|j|eer}}
 
 ----
 
@@ -145,7 +144,6 @@ From {{etyl|sga|gv}} {{m|sga|dír||due, fit, proper}}.
 {{head|so|noun|g=?}}
 
 # [[hippopotamus]]
-<!--Not sure that the translation is totally right, that's why I leave it hidden
-#: ''Jeertu way jeclayd dhexqaadka dhoobaada'' - The hippopotamus loved wallowing. -->
+#: {{ux|so|'''Jeertu''' way jeclayd dhexqaadka dhoobaada.|The hippopotamus loved wallowing.}}{{attention|so|Please double-check that the translation is correct}}
 
 [[Category:so:Mammals]]
