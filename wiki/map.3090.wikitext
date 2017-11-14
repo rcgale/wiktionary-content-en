@@ -4,7 +4,7 @@
 [[Image:Worldmap LandAndPolitical.jpg|thumb|right|A map of the world.]]
 
 ===Etymology===
-Shortening of {{etyl|enm|en}} {{m|enm|mapemounde||world map}}, {{etyl|fro|en}} {{m|fro|mapamonde}}, from {{etyl|ML.|en}} {{m|la|mappa mundī}}, compound of {{etyl|la|en}} {{m|la|mappa||napkin, cloth}} and {{m|la|mundus||world}}, {{m|la|mappa}}.
+Shortening of {{der|en|enm|mapemounde|t=world map}}, {{der|en|fro|mapamonde}}, from {{der|en|ML.|mappa mundī}}, compound of {{der|en|la|mappa|t=napkin, cloth}} and {{m|la|mundus|t=world}}, {{m|la|mappa}}.
 
 ===Pronunciation===
 * {{a|RP}} & {{a|US}}: {{IPA|/mæp/|lang=en}}
@@ -53,28 +53,13 @@ For the most part, ''map'' and ''function'' are synonyms in mathematics, and are
 * {{sense|mathematics}} {{l|en|mapping}}, {{l|en|function}}.
 
 ====Hyponyms====
-{{hyp4|lang=en|[[argument map]]
-|[[concept map]]
-|[[Hénon map]]
-|[[mind map]]
-|[[overworld map]]
-|[[roadmap]]
-|[[texture map]]
-|[[thematic map]]
-|[[topic map]]
-}}
+{{hyp3|argument map|concept map|Hénon map|mind map|overworld map|roadmap|texture map|thematic map|topic map|lang=en}}
 
 ====Derived terms====
-* {{l|en|roadmap}}
+{{der3|roadmap|mapmaker|mapmaking|lang=en}}
 
 ====Related terms====
-* {{l|en|mapmaker}}
-* {{l|en|mapmaking}}
-
-====Related terms====
-* {{l|en|atlas}}
-* {{l|en|cartographer}}
-* {{l|en|cartography}}
+{{rel3|atlas|cartographer|cartography|lang=en}}
 
 ====Translations====
 {{trans-top|visual representation of an area}}
@@ -134,7 +119,7 @@ For the most part, ''map'' and ''function'' are synonyms in mathematics, and are
 * Korean: {{t+|ko|지도}} ({{t+|ko|地圖}})
 * Kyrgyz: {{t+|ky|карта}}
 * Lao: {{t+|lo|ແຜນທີ່}}
-* Latin: {{qualifier|Medieval Latin}} {{t|la|charta|f}}, {{qualifier|Classical Latin}} {{t|la|tabula|f}}
+* Latin: {{t|la|charta|f}} {{qualifier|Medieval Latin}}, {{t|la|tabula|f}} {{qualifier|Classical Latin}}
 * Latvian: {{t|lv|karte|f}}
 * Lithuanian: {{t+|lt|žemėlapis|m}}
 * Lojban: {{t|jbo|tumxra}}
@@ -149,7 +134,7 @@ For the most part, ''map'' and ''function'' are synonyms in mathematics, and are
 * Mongolian: {{t|mn|газрын зураг}}
 * Muong: {{t-needed|mtq}}
 * Nauruan: {{t|na|ekorob}}
-* Navajo: {{t|nv|kéyah beʼelyaaígíí}}, {{t|nv|atiin bikááʼ naashchʼąąʼígíí}}
+* Navajo: {{t|nv|kéyah beʼelyaaígíí|sc=Latn}}, {{t|nv|atiin bikááʼ naashchʼąąʼígíí|sc=Latn}}
 * Nepali: {{t|ne|नक्शा}}
 * Norwegian:
 *: Bokmål: {{t+|nb|kart|n}}
@@ -159,7 +144,7 @@ For the most part, ''map'' and ''function'' are synonyms in mathematics, and are
 * Plautdietsch: {{t|pdt|Launtkoat|f}}, {{t|pdt|Koat|f}}
 * Polish: {{t+|pl|mapa|f}}
 * Portuguese: {{t+|pt|mapa|m}}, {{t+|pt|carta|f}}, {{t|pt|carta geográfica|f}}
-* Punjabi: {{t|pa|ਨਕਸ਼ਾ|tr=nakśā}}
+* Punjabi: {{t|pa|ਨਕਸ਼ਾ}}
 * Romanian: {{t+|ro|hartă|f}}
 * Romansch: {{t|rm|carta|f}}
 * Russian: {{t+|ru|ка́рта|f}}, {{t+|ru|план|m}}
@@ -167,8 +152,8 @@ For the most part, ''map'' and ''function'' are synonyms in mathematics, and are
 * Scots: {{t|sco|cairt}}
 * Scottish Gaelic: {{t|gd|map|m}}, {{t|gd|mapa|m}}, {{t|gd|cairt-iùil|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|карта|f}}, {{t|sh|мапа|f}}
-*: Roman: {{t+|sh|karta|f}}, {{t+|sh|mapa|f}}, {{t+|sh|zemljovid}}
+*: Cyrillic: {{t|sh|ка̑рта|f}}, {{t|sh|ма̏па|f}}
+*: Roman: {{t+|sh|kȃrta|f}}, {{t+|sh|mȁpa|f}}, {{t+|sh|zȅmljovīd}} {{qualifier|Croatian}}
 * Sinhalese: {{t+|si|සිතියම}}
 * Slovak: {{t+|sk|mapa|f}}, {{t|sk|plán|m}}
 * Slovene: {{t+|sl|zemljevid|m}}, {{t+|sl|karta|f}}
