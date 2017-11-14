@@ -488,9 +488,9 @@ From {{etyl|enm|en}} {{m|enm|shiten}}, from {{etyl|ang|en}} {{m|ang|scītan}}, f
 * Arabic: {{t|ar|خَرِئَ}}
 * Armenian: {{t|hy|քաքել}}
 * Aromanian: {{t|rup|cac}}
-* Belarusian: {{t|be|сраць|sc=Cyrl}}
-* Bengali: {{t|bn|হাগা|tr=haga|sc=Beng}}
-* Bulgarian: {{t|bg|сера́|sc=Cyrl}}
+* Belarusian: {{t|be|сраць|impf|sc=Cyrl}}
+* Bengali: {{t|bn|হাগা|sc=Beng}}
+* Bulgarian: {{t|bg|сера́|impf|sc=Cyrl}}
 * Catalan: {{t+|ca|cagar}}
 * Chinese:
 *: Mandarin: {{t+|cmn|拉屎|tr=lāshǐ|sc=Hani}}
@@ -510,7 +510,7 @@ From {{etyl|enm|en}} {{m|enm|shiten}}, from {{etyl|ang|en}} {{m|ang|scītan}}, f
 * German: {{t+|de|scheißen}}, {{t+|de|kacken}}
 * Greek: {{t+|el|χέζω}}
 * Greenlandic: {{t|kl|anarpoq}}
-* Hindi: {{t|hi|ख़ारिज करना|tr=xārija karnā|sc=Deva}}, {{t+|hi|हगना|tr=hagnā|sc=Deva}}
+* Hindi: {{t|hi|ख़ारिज करना|sc=Deva}}, {{t+|hi|हगना|sc=Deva}}
 * Hungarian: {{t+|hu|szarik}}
 * Icelandic: {{t|is|kúka}}, {{t|is|skíta}} {{qualifier|vulgar}}
 * Ido: {{t+|io|fekifar}}
@@ -525,29 +525,29 @@ From {{etyl|enm|en}} {{m|enm|shiten}}, from {{etyl|ang|en}} {{m|ang|scītan}}, f
 * Lithuanian: {{t|lt|kakoti}}, {{t+|lt|šikti}}
 * Low German: {{t|nds|schieten}}
 * Luxembourgish: {{t|lb|schäissen}}
-* Macedonian: {{t-check|mk|[[odi]] [[po]] [[golema]] [[nuzhda]]|sc=Cyrl}} <!-- was "odi po golema nuzhda" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-check|mk|kaka|sc=Cyrl}}, {{t-check|mk|sere|sc=Cyrl}}
+* Macedonian: {{t|mk|кака|impf|sc=Cyrl}}, {{t|mk|сере|impf|sc=Cyrl}}, {{t|mk|[[оди]] [[по]] [[голема]] [[нужда]]|sc=Cyrl}} {{q|euphemism}}
 * Ngazidja Comorian: {{t|zdj|nya|alt=hunya}}
 * Northern Sami: {{t|se|baikit}}
 * Norwegian: {{t|no|skite}}, {{t|no|bæsje}}
 * Persian: {{t+|fa|ریدن|tr=ridan|sc=fa-Arab}}
-* Polish: {{t+|pl|srać}}
+* Polish: {{t+|pl|srać|impf}}
 * Portuguese: {{t+|pt|cagar}}
 * Quechua: {{t|qu|akai}}, {{t|qu|ismai}}
 * Romanian: {{t+|ro|căca}}
 * Romansch: {{t|rm|chajar}}, {{t|rm|far il cac}}
-* Russian: {{t+|ru|срать|impf}}, {{t+|ru|посра́ть|pf}} <!-- replaced "насрать" with "посрать" -->, {{qualifier|childish or less crude}} {{t+|ru|ка́кать|impf}}, {{t+|ru|пока́кать|pf}}
+* Russian: {{t+|ru|срать|impf}}, {{t+|ru|посра́ть|pf}}, {{qualifier|childish or less crude}} {{t+|ru|ка́кать|impf}}, {{t+|ru|пока́кать|pf}}
 * Scottish Gaelic: {{t|gd|cac}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|срати}}
-*: Roman: {{t+|sh|srati}}
-* Slovak: {{t|sk|srať}}
-* Slovene: {{t+|sl|srati}}
+*: Cyrillic: {{t|sh|срати|impf}}
+*: Roman: {{t+|sh|srati|impf}}
+* Slovak: {{t|sk|srať|impf}}
+* Slovene: {{t+|sl|srati|impf}}
 * Sorbian:
-*: Upper Sorbian: {{t|hsb|srać}}
+*: Upper Sorbian: {{t|hsb|srać|impf}}
 * Spanish: {{t+|es|cagar}}
 * Swedish: {{t+|sv|skita}}, {{t+|sv|bajsa}}
 * Turkish: {{t+|tr|dışkılamak}}, {{t|tr|boşaltım yapmak}}
-* Ukrainian: {{t|uk|сра́ти|sc=Cyrl}}
+* Ukrainian: {{t|uk|сра́ти|impf|sc=Cyrl}}
 * Urdu: {{t|ur|هگنا|tr=hagnā}}
 * Vietnamese: {{t|vi|đi ỉa}}, {{t|vi|đi tiêu}}
 * Volapük: {{t+|vo|jiedön}}
@@ -574,7 +574,7 @@ From {{etyl|enm|en}} {{m|enm|shiten}}, from {{etyl|ang|en}} {{m|ang|scītan}}, f
 * Low German: {{t|nds|schieten}}
 * Macedonian: {{t|mk|sere}}
 * Portuguese: {{t+|pt|cagar}}
-* Russian: {{t+|ru|высира́ть}}, {{t+|ru|вы́срать}}
+* Russian: {{t+|ru|высира́ть|impf}}, {{t+|ru|вы́срать|pf}}
 * Scottish Gaelic: {{t|gd|cac}}
 * Slovene: {{t+|sl|srati}}
 * Spanish: {{t+|es|cagar}}
@@ -603,14 +603,11 @@ From {{etyl|enm|en}} {{m|enm|shiten}}, from {{etyl|ang|en}} {{m|ang|scītan}}, f
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Arabic: {{t-check|ar|[[خرا]] [[khara]]}} <!-- was "[[خرا]] [[khara]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Esperanto: {{t-check|eo|feko}}, {{t-check|eo|merdo}}
 * Guaraní: {{qualifier|1}} {{t-check|gn|poti}}
 * Interlingua: {{qualifier|1}} {{t-check|ia|defecar}}
 {{trans-mid}}
 * Romanian: {{qualifier|1}} {{t+check|ro|căca}}
-* Slovak: {{t-check|sk|srať}}
-* Urdu: {{t-check|ur|هگنا|tr=hagna}}
 {{trans-bottom}}
 
 ====Interjection====
