@@ -467,7 +467,17 @@ Derived from {{der|pt|la|Europa}}, from {{der|pt|grc|Εὐρώπη}}.
 # {{topics|sms|Currencies}} [[#English|euro]]
 
 ====Inflection====
-{{sms-decl|euro|euro|euro|[[euro]], [[eurooʹje]]|eurost|euroin|[[eurotaa]], [[eurotää]]|euron|eurod|euro|euroid|euroi|euroid|euroin|euroivuiʹm|[[euroitaa]], [[euroitää]]}}
+{{sms-infl-noun
+|nom_s=euro|nom_p=euro
+|acc_s=euro|acc_p=euroid
+|gen_s=euro|gen_p=euroi
+|ill_s=euro|ill_s2=eurooʹje|ill_p=euroid
+|loc_s=eurost|loc_p=euroin
+|com_s=euroin|com_p=euroivuiʹm
+|abe_s=eurotaa|abe_s2=eurotää|abe_p=euroitaa|abe_p2=euroitää
+|ess=euron
+|par=eurod
+}}
 
 ----
 
