@@ -2,10 +2,10 @@
 ==Breton==
 
 ===Etymology===
-From {{inh|br|cel-pro|*marwos||dead}} (compare {{cog|cy|marw}}, {{m|sga|marb}}), from {{inh|br|ine-pro|*mr̥wós}} (compare {{m|ine-pro|*mr̥tós}}), ultimately from the root {{m|ine-pro|*mer-||to die}}.
+From {{inh|br|cel-pro|*marwos|t=dead}} (compare {{cog|cy|marw}}, {{m|sga|marb}}), from {{inh|br|ine-pro|*mr̥wós}} (compare {{m|ine-pro|*mr̥tós}}), ultimately from the root {{m|ine-pro|*mer-|t=to die}}.
 
 ===Adjective===
-{{head|br|adjective}}
+{{br-adj}}
 
 # {{l|en|dead}}
 
@@ -54,11 +54,17 @@ From {{der|eo|it|-}} and {{der|eo|la|mare}}.
 |{{l|eo|Ruĝa Maro|t=Red Sea}}
 |lang=eo}}
 
+====Descendants====
+* {{desc|io|maro}}
+
 {{eo BRO|3}}
 
 ----
 
 ==Ido==
+
+===Etymology===
+From {{der|io|eo|maro}}.
 
 ===Noun===
 {{io-noun|mar}}
@@ -70,7 +76,7 @@ From {{der|eo|it|-}} and {{der|eo|la|mare}}.
 ==Italian==
 
 ===Etymology===
-From {{etyl|la|it}} {{m|la|marum}}, from {{etyl|grc|it}}.
+From {{der|it|la|marum}}, from {{der|it|grc}}.
 
 ===Noun===
 {{it-noun|m}}
@@ -94,7 +100,7 @@ From {{etyl|la|it}} {{m|la|marum}}, from {{etyl|grc|it}}.
 ==Romanian==
 
 ===Alternative forms===
-* {{l|ro|maron}}
+* {{alter|ro|maron}}
 
 ===Etymology===
 Borrowed from {{bor|ro|fr|marron}}.
