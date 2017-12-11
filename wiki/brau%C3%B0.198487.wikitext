@@ -12,23 +12,20 @@ From {{inh|is|non|brauð}}, from {{inh|is|gem-pro|*braudą}}.
 
 # {{lb|is|uncountable}} [[bread]]
 # a [[loaf]] of bread
+#: {{syn|is|brauðhleifur|hleifur}}
 # a [[living]]
 # the [[office]] of [[parson]] or [[vicar]]
 
 ====Declension====
 {{is-decl-noun-n-s|br|au|ð}}
 
-====Synonyms====
-* {{sense|loaf of bread}} {{l|is|brauðhleifur}}, {{l|is|hleifur}}
-
 ====Derived terms====
-{{der-top}}
-* {{l|is|brauðhleifur}}
-* {{l|is|brauðmylsna}}
-{{der-mid}}
-* {{l|is|flatbrauð}}
-* {{l|is|hrökkbrauð}}
-{{der-bottom}}
+{{der2
+|{{l|is|brauðhleifur}}
+|{{l|is|brauðmylsna|t=breadcrumbs, breadcrumb}}
+|{{l|is|flatbrauð}}
+|{{l|is|hrökkbrauð|t=crispbread}}
+|lang=is}}
 
 [[Category:is:Food and drink]]
 
@@ -37,7 +34,7 @@ From {{inh|is|non|brauð}}, from {{inh|is|gem-pro|*braudą}}.
 ==Old Norse==
 
 ===Etymology===
-From {{inh|non|gem-pro|*braudą}}, whence also Old English {{m|ang|brēad}} (English {{m|en|bread}}), Old Frisian {{m|ofs|brād}} (West Frisian {{m|fy|brea}}), Old Saxon {{m|osx|brōd}} ({{cog|nds-de|Brot}}, {{m|nds-de|Broot}}), Dutch {{m|nl|brood}}, Old High German {{m|goh|brōt}} (German {{m|de|Brot}}).
+From {{inh|non|gem-pro|*braudą}}, whence also {{cog|ang|brēad}} ({{cog|en|bread}}), {{cog|ofs|brād}} ({{cog|fy|brea}}), {{cog|osx|brōd}} ({{cog|nds-de|Brot}}, {{m|nds-de|Broot}}), {{cog|nl|brood}}, {{cog|goh|brōt}} ({{cog|de|Brot}}).
 
 ===Noun===
 {{non-noun|n}}
@@ -45,17 +42,15 @@ From {{inh|non|gem-pro|*braudą}}, whence also Old English {{m|ang|brēad}} (Eng
 # [[bread]]
 
 ====Descendants====
-{{top2}}
-* Faroese: [[breyð]] {{g|n}}
-* Icelandic: [[brauð#Icelandic|brauð]] {{g|n}}
-* Norwegian:
-*: Bokmål: [[brød]] {{g|n}}
-*: Nynorsk: [[brød]] {{g|n}}
-{{mid2}}
-* Swedish: [[bröd]] {{g|n}} ({{cog|gmq-osw|brøþ}})
-*: Elfdalian: [[bröð]] {{g|n}}
-* Danish: [[brød]] {{g|n}}
-* Elfdalian: [[broð]] {{g|n}}
+{{top3}}
+* {{desc|fo|breyð}}
+* {{desc|is|brauð}}
+* {{desc|nn|brød}}
+* {{desc|gmq-osw|brøþ}}
+** {{desc|sv|bröd}}
+** {{desc|ovd|bröð}}
+* {{desc|da|brød}}
+** {{desc|nb|brød}}
 {{bottom}}
 
 [[Category:non:Food and drink]]
