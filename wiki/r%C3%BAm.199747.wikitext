@@ -11,14 +11,12 @@ From {{der|fo|non|rúm}}, from {{der|fo|gem-pro|*rūmą}}, from {{der|fo|ine-pro
 {{fo-noun|n|rúms|rúm}}
 
 # [[space]]
+#: {{syn|fo|pláss|øki|rúmd}}
 # [[room]]
+#: {{syn|fo|kamar|herbergi|skemma}}
 
 ====Declension====
 {{fo-decl-noun-n3|rúm}}
-
-====Synonyms====
-* {{l|fo|pláss}}, {{l|fo|øki}}, {{l|fo|rúmd}}
-* {{l|fo|kamar}}, {{l|fo|herbergi}}, {{l|fo|skemma}}
 
 [[Category:fo:Rooms]]
 
@@ -38,27 +36,49 @@ From {{der|is|non|rúm}}, from {{der|is|gem-pro|*rūmą}}, from {{der|is|ine-pro
 {{is-noun|n}}
 
 # [[room]], [[space]] (occupied by or intended for a person or thing)
+#: {{syn|is|pláss|rými}}
 # [[space]] (the three dimensions in which everything exists and moves)
 # [[bed]]
+#: {{syn|is|sæng|ból|bæli|rekkja}}
 
 ====Declension====
 {{is-decl-noun-n-s|r|ú|m}}
 
-====Synonyms====
-* {{sense|room, space [for something]}} {{l|is|pláss}}, {{l|is|rými}}
-* {{sense|bed}} {{l|is|sæng}}, {{l|is|ból}}, {{l|is|bæli}}, {{l|is|rekkja}}
-
 ====Derived terms====
-* {{l|is|búa um rúmið}}
-* {{l|is|rúmfræði}}
+{{der2
+|{{l|is|búa um rúmið|t=to make the bed}}
+|{{l|is|rúmfræði|t=geometry}}
+|lang=is}}
 
 ====Related terms====
 * {{l|is|rúmur}}
 
 ===Anagrams===
-* [[múr#Icelandic|múr]]
+* {{anagrams|is|múr}}
 
 [[Category:is:Bedding]]
+
+----
+
+==Irish==
+
+===Alternative forms===
+* {{alter|ga|rúma}}
+
+===Etymology===
+{{rfe|lang=ga}}
+
+===Noun===
+{{ga-noun|m|~a|~anna}}
+
+# [[room]]
+# (floor) [[space]]
+
+====Declension====
+{{ga-decl-m3|r|úm|úma|úmanna}}
+
+===Further reading===
+* {{R:ga:Ó Dónaill}}
 
 ----
 
@@ -74,8 +94,11 @@ From {{inh|non|gem-pro|*rūmą}}, from {{der|non|ine-pro|*rowǝ-}}. Cognate with
 # [[space]]
 
 ====Descendants====
-* Danish {{l|da|rum}}
-* Faroese: {{l|fo|rúm}}
-* Icelandic: {{l|is|rúm}}
-* Norwegian: {{l-nb|rom}}, {{l-nn|rom}}
-* Swedish: {{l|sv|rum}}
+{{top3}}
+* {{desc|da|rum}}
+* {{desc|fo|rúm}}
+* {{desc|is|rúm}}
+* {{desc|nb|rom}}
+* {{desc|nn|rom}}
+* {{desc|sv|rum}}
+{{bottom}}
