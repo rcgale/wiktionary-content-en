@@ -2,7 +2,7 @@
 
 ===Etymology===
 {{PIE root|is|ker|bʰergʰ}}
-From {{etyl|non|is}} {{m|non|herbergi}}, probably from {{etyl|gml|is}} {{m|gml|herberge}}.
+From {{inh|is|non|herbergi}}, probably from {{der|is|gml|herberge}}.
 
 ===Pronunciation===
 * {{IPA|/ˈhɛr.pɛrcɪ/|lang=is}}
@@ -16,8 +16,10 @@ From {{etyl|non|is}} {{m|non|herbergi}}, probably from {{etyl|gml|is}} {{m|gml|h
 {{is-decl-noun-n-s|herb|e|rg|i}}
 
 ====Derived terms====
-* {{l|is|svefnherbergi}}
-* {{l|is|baðherbergi}}
+{{der2
+|{{l|is|svefnherbergi|g=n|t=bedroom}}
+|{{l|is|baðherbergi|g=n|t=bathroom}}
+|lang=is}}
 
 [[Category:is:Rooms]]
 
@@ -27,7 +29,7 @@ From {{etyl|non|is}} {{m|non|herbergi}}, probably from {{etyl|gml|is}} {{m|gml|h
 
 ===Etymology===
 {{PIE root|non|ker|bʰergʰ}}
-Confer Old English {{m|ang|hereberga}}, {{m|ang|herebeorga}}. Modern English {{m|en|harbour}} and {{m|en|arbour}}; middle High German {{m|de|herberge}}; German {{m|de|herberge}}; Swedish {{m|sv|härbärge}}; hence Italian {{m|it|albergo}} and French {{m|fr|auberge}}.
+Confer {{cog|ang|hereberga}}, {{m|ang|herebeorga}}. Modern {{cog|en|harbour}} and {{m|en|arbour}}; {{cog|gmh|herberge}}; {{cog|de|herberge}}; {{cog|sv|härbärge}}; hence {{cog|it|albergo}} and {{cog|fr|auberge}}.
 
 ===Noun===
 {{non-noun|n}}
@@ -37,11 +39,13 @@ Confer Old English {{m|ang|hereberga}}, {{m|ang|herebeorga}}. Modern English {{m
 # a [[closet]], a [[room]]
 
 ====Derived terms====
-* [[taka sér herbergi]] (to take lodgings)
+* {{l|non|taka sér herbergi|t=to take lodgings}}
 
 ====Descendants====
-* Icelandic: {{l|is|herbergi}}
-* Swedish: {{l|is|härbärge}}
+{{top2}}
+* {{desc|is|herbergi}}
+* {{desc|sv|härbärge}}
+{{bottom}}
 
 ===References===
 * {{R:Zoega}}
