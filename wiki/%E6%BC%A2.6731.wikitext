@@ -71,34 +71,99 @@ Note that in traditional Chinese, the component [[File:U26c29-ue0102.svg|25px|te
 {{ja-readings
 |goon=かん
 |kanon=かん
-|kun=あや-,おとこ-, から-
-|nanori=はん
+|kun=あや-, おとこ-<をとこ-, から-
+|nanori=はた
 }}
-{{attention|ja|はん?}}
 
 ====Compounds====
 {{der-top|Compounds}}
 * {{ja-r|漢%音|かん%おん}}
 * {{ja-r|漢%語|かん%ご}}
-* {{ja-r|漢%字|かん%じ}}: Chinese character
+* {{ja-r|漢%字|かん%じ|Chinese character}}
 * {{ja-r|漢%方|かん%ぽう}}
 * {{ja-r|痴%漢|ち%かん}}
 {{der-bottom}}
 
-===Etymology===
+===Etymology 1===
+{{ja-kanjitab|かん|yomi=o}}
+
+From {{der|ja|ltc|sort=かん|-}} {{ltc-l|漢}}.
+
+{{rfe|ja|expand for "man" suffix}}
+
+====Proper noun====
+{{ja-pos|proper|かん}}
+
+# the name of [[China]] during the {{w|Han dynasty}} (206 BC – 220 AD)
+# name of various [[Chinese]] [[dynasty|dynasties]]
+## the {{m|ja|西漢|tr=Saikan||Western Han}} or {{m|ja|前漢|tr=Zenkan||Former Han}} (206 BC – 9 AD)
+## the {{m|ja|東漢|tr=Tōkan||Eastern Han}} or {{m|ja|後漢|tr=Gokan||Later Han}} (25–220 AD)
+## the {{m|ja|蜀漢|tr=Shokkan||{{w|Shu Han}}}} (221-263)
+## the {{m|ja|前趙|tr=Zenchō||{{w|Former Zhao}}}} (304–329)
+## the {{m|ja|成漢|tr=Seikan||{{w|Cheng Han}}}} (304–347)
+## the {{m|ja|南漢|tr=Nankan||{{w|Southern Han}}}} (917–971)
+## the {{m|ja|後漢|tr=Kōkan||{{w|Later Han}}}} (947–951)
+## the {{m|ja|北漢|tr=Hokukan||{{w|Northern Han}}}} (951–979)
+# the {{w|Han Chinese}} people
+# the [[Milky Way]]
+#: {{synonyms|ja|天の川|tr=Ama-no-gawa}}
+# alternative name for {{m|ja|漢中|tr=Kanchū||{{w|Hanzhong}}}}
+# {{surname|lang=ja|A=a|sort=かん}}
+
+====Suffix====
+{{ja-pos|suffix|かん}}
+
+# [[man]], [[-man]]
+#: {{m|ja|硬骨漢|硬骨'''漢'''|tr=kōkotsu-'''kan'''|'''man''' of [[principle]]}}
+#: {{m|ja|熱血漢|熱血'''漢'''|tr=nekketsu-'''kan'''|[[hot-blooded]] '''man'''}}
+
+===Etymology 2===
+{{ja-kanjitab|から|yomi=k}}
+
+From {{inh|ja|ojp|sort=から|-}}.
+
+There are two main theories regarding the ultimate derivation:
+# Derived from {{m|ja|伽羅|tr=Kara}}, originally referred to the {{w|Gaya confederacy}}, then later meant the entire Korean peninsula and then including the Chinese mainland.
+# Can also be derived from {{m|ja|から|tr=kara||[[from]]}}, or from the prefix ''kara-'', used to mean objects or entities originating from foreign lands.
+
+====Alternative forms====
+* {{sense|usually China in the {{w|Tang dynasty}}}} {{ja-l|唐}}
+* {{sense|usually Korea}} {{ja-l|韓}}
+
+====Pronunciation====
+{{ja-pron|y=k|から|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|^から}}
+
+# {{lb|ja|usually|_|archaic|sort=から}} places referred today as [[China]] and [[Korea]]
+# {{lb|ja|by extension}} a foreign country
+# an affix, found in compounds, referring to objects imported from China or Korea
+
+===Etymology 3===
+{{ja-kanjitab|あや|yomi=k}}
+
+From {{inh|ja|ojp|sort=あや|-}}.
+
+====Proper noun====
+{{ja-pos|proper|あや}}
+
+# {{surname|lang=ja|A=a|sort=あや}}, historically to those descended from {{w|Han Chinese}} {{rfv-sense|ja}}
+
+===Etymology 4===
 {{ja-kanjitab|おとこ|yomi=k}}
 
 Rare alternative spelling for {{m|ja|男|tr=otoko||man}}, from usage in Chinese to differentiate between the "{{l|en|civilized}}" people of the Han versus other ethnic groups.
 
-See the {{noncog|ja|男}} entry for the derivation of the reading.
+See the {{ja-l|男}} entry for the derivation of the reading.
 
 ====Pronunciation====
 {{ja-pron|yomi=k|おとこ|acc=3|acc_ref=DJR,NHK}}
 
-===Noun===
-{{ja-noun|おとこ}}
+====Noun====
+{{ja-noun|おとこ|hhira=をとこ}}
 
-# {{lb|ja|sort=おとこ|rare}} {{altspell|lang=ja|男||{{l|en|man}}}}
+# {{rarespell|lang=ja|男||{{l|en|man}}}}
 #* {{quote-book
 |language=Japanese
 |location=Tokyo
