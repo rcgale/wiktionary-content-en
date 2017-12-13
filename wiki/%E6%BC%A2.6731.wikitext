@@ -64,8 +64,8 @@ Note that in traditional Chinese, the component [[File:U26c29-ue0102.svg|25px|te
 ===Kanji===
 {{ja-kanji|grade=3|rs=水11}}
 
-# [[Sino-]], [[China]]
-# [[man]]
+# {{l|en|Sino-}}, {{l|en|China}}
+# {{l|en|man}}
 
 ====Readings====
 {{ja-readings
@@ -85,17 +85,25 @@ Note that in traditional Chinese, the component [[File:U26c29-ue0102.svg|25px|te
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|かん|yomi=o}}
+{{ja-kanjitab|yomi=o|かん}}
 
-From {{der|ja|ltc|sort=かん|-}} {{ltc-l|漢}}.
+From {{bor|ja|ltc|sort=かん|-}} {{ltc-l|漢}}, in reference to the {{w|Han Chinese}} ethnic group.
 
-{{rfe|ja|expand for "man" suffix}}
+The sense of {{m|en|man}} arose from usage in Chinese to differentiate between the “{{l|en|civilized}}” people of the {{w|Han Chinese}} ethnicity versus other ethnic groups.
+
+====Noun====
+{{ja-noun|かん}}
+
+# {{l|en|man}}
+#: {{m|ja|硬骨漢|硬骨'''漢'''|tr=kōkotsu-'''kan'''|'''man''' of {{l|en|principle}}}}
+#: {{m|ja|熱血漢|熱血'''漢'''|tr=nekketsu-'''kan'''|{{l|en|hot-blooded}} '''man'''}}
+#: {{ja-usex|さらに悟%上に得%悟する'''漢'''あり、迷%中%又%迷の'''漢'''あり。|さら に ご%じょう に とく%ご する '''かん''' あり、 めい%ちゅう% う%めい の '''かん''' あり。|Moreover, some '''men''' achieve enlightenment and further enlightenment, and some '''men''' achieve confusion and further confusion.}}
 
 ====Proper noun====
 {{ja-pos|proper|かん}}
 
-# the name of [[China]] during the {{w|Han dynasty}} (206 BC – 220 AD)
-# name of various [[Chinese]] [[dynasty|dynasties]]
+# the name of {{l|en|China}} during the {{w|Han dynasty}} (206 BC – 220 AD)
+# name of various {{l|en|Chinese}} {{l|en|dynasty|dynasties}}
 ## the {{m|ja|西漢|tr=Saikan||Western Han}} or {{m|ja|前漢|tr=Zenkan||Former Han}} (206 BC – 9 AD)
 ## the {{m|ja|東漢|tr=Tōkan||Eastern Han}} or {{m|ja|後漢|tr=Gokan||Later Han}} (25–220 AD)
 ## the {{m|ja|蜀漢|tr=Shokkan||{{w|Shu Han}}}} (221-263)
@@ -105,67 +113,74 @@ From {{der|ja|ltc|sort=かん|-}} {{ltc-l|漢}}.
 ## the {{m|ja|後漢|tr=Kōkan||{{w|Later Han}}}} (947–951)
 ## the {{m|ja|北漢|tr=Hokukan||{{w|Northern Han}}}} (951–979)
 # the {{w|Han Chinese}} people
-# the [[Milky Way]]
-#: {{synonyms|ja|天の川|tr=Ama-no-gawa}}
+# the {{w|Han River}}, a tributary of the {{w|Yangtze}}
+# {{lb|ja|sort=かん|by extension|_|from the "river" sense}} the {{l|en|Milky Way}}
+#: {{synonyms|ja|天漢|tr1=Tenkan|天河|tr2=Tenga|銀河|tr3=Ginga|天の川|tr4=Ama-no-gawa}}
 # alternative name for {{m|ja|漢中|tr=Kanchū||{{w|Hanzhong}}}}
-# {{surname|lang=ja|A=a|sort=かん}}
-
-====Suffix====
-{{ja-pos|suffix|かん}}
-
-# [[man]], [[-man]]
-#: {{m|ja|硬骨漢|硬骨'''漢'''|tr=kōkotsu-'''kan'''|'''man''' of [[principle]]}}
-#: {{m|ja|熱血漢|熱血'''漢'''|tr=nekketsu-'''kan'''|[[hot-blooded]] '''man'''}}
+# {{surname|lang=ja|A=a|nodot=1|sort=かん}}
 
 ===Etymology 2===
 {{ja-kanjitab|から|yomi=k}}
 
 From {{inh|ja|ojp|sort=から|-}}.
 
-There are two main theories regarding the ultimate derivation:
-# Derived from {{m|ja|伽羅|tr=Kara}}, originally referred to the {{w|Gaya confederacy}}, then later meant the entire Korean peninsula and then including the Chinese mainland.
-# Can also be derived from {{m|ja|から|tr=kara||[[from]]}}, or from the prefix ''kara-'', used to mean objects or entities originating from foreign lands.
-
-====Alternative forms====
-* {{sense|usually China in the {{w|Tang dynasty}}}} {{ja-l|唐}}
-* {{sense|usually Korea}} {{ja-l|韓}}
+Originally referred to the {{w|Gaya confederacy}}, an independent state in the south of the Korean peninsula in the years 42-562 CE.  Over time, the meaning extended to refer in general to the Korean peninsula and China, expanding further just before and during the {{w|Edo period}} to refer to foreign lands in general.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
 
 ====Pronunciation====
-{{ja-pron|y=k|から|acc=1|acc_ref=DJR}}
+{{ja-pron|yomi=k|から|acc=1|acc_ref=DJR,SMK5}}
+
+====Alternative forms====
+* {{sense|usually China in the {{w|Tang dynasty}}, and foreign lands in general}} {{ja-l|唐}}
+* {{sense|usually Korea}} {{ja-l|韓}}
+* {{sense|specifically the Gaya confederacy}} {{ja-l|加羅}}, {{ja-l|伽羅}}, {{ja-l|迦羅}}
+
+====Prefix====
+{{ja-pos|prefix|から}}
+
+# {{n-g|element in compounds, referring to things {{l|en|import}}ed from China or Korea, or from other foreign lands}}
+#: {{ja-usex|漢%詩、唐%歌、唐%揚げ、漢%音|から%うた、から%うた、から%あげ、から%ごえ|Chinese-style poetry (as opposed to formal {{l|en|waka}} Japanese-style poetry), Chinese-style poetry, deep-fried chicken or fish (a style introduced by Europeans in the 1600s), “Chinese voice” → the [[漢音#Japanese|kan'on]] or Chinese-derived reading for a character}}
 
 ====Noun====
-{{ja-noun|^から}}
+{{ja-noun|から}}
 
-# {{lb|ja|usually|_|archaic|sort=から}} places referred today as [[China]] and [[Korea]]
-# {{lb|ja|by extension}} a foreign country
-# an affix, found in compounds, referring to objects imported from China or Korea
+# {{lb|ja|sort=から|historical}} shortly before and during the {{w|Edo period}}, {{l|en|foreign}} {{l|en|land}}s in general
+
+====Proper noun====
+{{ja-pos|proper|から}}
+
+# the {{w|Gaya confederacy}}
+# the {{l|en|Korean}} {{l|en|peninsula}}
+# {{l|en|China}}
 
 ===Etymology 3===
-{{ja-kanjitab|あや|yomi=k}}
+{{ja-kanjitab|yomi=k|あや}}
 
-From {{inh|ja|ojp|sort=あや|-}}.
+From {{inh|ja|ojp|sort=あや|-}}, in reference to clans purportedly originating from China.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  Appears to be cognate with {{m|ja|文}} / {{m|ja|紋}} / {{m|ja|綾}} / {{m|ja|絢|tr=aya||a pattern or design; a pattern of diagonally interweaving lines; twill; how something fits together, the reason or background of a thing; skillful expression in color or words; melody, tune}}, possibly in distant reference to technologies and cultural practices brought to Japan by the original Chinese immigrants.
+
+====Pronunciation====
+{{ja-pron|yomi=k|あや}}
 
 ====Proper noun====
 {{ja-pos|proper|あや}}
 
-# ''short for'' {{m|ja|漢氏|tr=Aya-uji}}: name of one of two ancient clans, usually descendants from {{w|Han Chinese}} {{rfv-sense|ja}}
-## {{m|ja|東漢|tr=Yamato-no-Aya}}
-## {{m|ja|西漢|tr=Kawachi-no-Aya}}
+# ''short for'' {{m|ja|漢氏|tr=Aya uji}}: name of one of two ancient clans, purportedly descendants from {{w|Han Chinese}}, and notable historically for major achievements in fields including {{l|en|literature}}, {{l|en|diplomacy}}, and {{l|en|finance}}, among others
+## {{m|ja|東漢|tr=Yamato no Aya}}
+## {{m|ja|西漢|tr=Kawachi no Aya}}
 
 ===Etymology 4===
-{{ja-kanjitab|おとこ|yomi=k}}
+{{ja-kanjitab|yomi=k|おとこ}}
 
-Rare alternative spelling for {{m|ja|男|tr=otoko||man}}, from usage in Chinese to differentiate between the "{{l|en|civilized}}" people of the Han versus other ethnic groups.
+Rare alternative spelling for {{m|ja|男|tr=otoko||man}}, from usage in Chinese to differentiate between the “{{l|en|civilized}}” people of the {{w|Han Chinese}} ethnicity versus other ethnic groups.
 
 See the {{ja-l|男}} entry for the derivation of the reading.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|おとこ|acc=3|acc_ref=DJR,NHK}}
+{{ja-pron|yomi=k|おとこ|acc=3|acc_ref=DJR,NHK,SMK5}}
 
 ====Noun====
 {{ja-noun|おとこ|hhira=をとこ}}
 
-# {{rarespell|lang=ja|男||{{l|en|man}}|sort=おとこ}}
+# {{rarespell|lang=ja|sort=おとこ|男}}: {{l|en|man}}
 #* {{quote-book
 |language=Japanese
 |location=Tokyo
@@ -181,7 +196,7 @@ See the {{ja-l|男}} entry for the derivation of the reading.
 ||161
 |chapter={{lj|[第](だい)26[話](わ)　トレーニング・デイ}}
 |trans-chapter=Chapter 26: Training Day
-|{{ja-usex|'''漢'''は背%中で人%生を語る！キミのベストポーズでスーパーアピール‼|'''おとこ''' は せ%なか で じん%せい を かたる！キミ の ベスト ポーズ で スーパー アピール‼|Men show what life is with their backs! Strike your best pose to drive home your point‼}}}}
+|{{ja-usex|'''漢'''は背%中で人%生を語る！キミのベストポーズでスーパーアピール‼|'''おとこ''' は せ%なか で じん%せい を かたる！キミ の ベスト ポーズ で スーパー アピール‼|'''Men''' show what life is with their backs! Strike your best pose to drive home your point‼}}}}
 
 ===References===
 <references/>
