@@ -2,25 +2,23 @@
 ==Estonian==
 
 ===Etymology===
-From {{inh|et|fiu-fin-pro|*halpa}}, from {{etyl|gem-pro|et}} {{m|gem-pro|*salwaz}}. Cognates include Finnish {{m|fi|halpa||cheap}}, more distantly English {{m|en|sallow}}.
+From {{inh|et|fiu-fin-pro|*halpa}}, from {{der|et|gem-pro|*salwaz}}. Cognates include {{cog|fi|halpa||cheap}}, more distantly {{cog|en|sallow}}.
 
 ===Adjective===
 {{et-adj|halva|halba}}
 
 # [[bad]]
+#: {{ant|et|hea}}
 
 ====Declension====
 {{rfinfl|et|adjective}}
-
-====Antonyms====
-* {{l|et|hea}}
 
 ----
 
 ==German==
 
 ===Etymology===
-From {{etyl|goh|de}} {{m|goh|halb}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*halbaz}}. Compare Dutch {{m|nl|half}}, English {{m|en|half}}, Danish {{m|da|halv}}.
+From {{inh|de|goh|halb}}, from {{inh|de|gem-pro|*halbaz}}. Compare {{cog|nl|half}}, {{cog|en|half}}, {{cog|da|halv}}.
 
 ===Pronunciation===
 * {{audio|De-halb.ogg|Audio|lang=de}}
@@ -37,10 +35,12 @@ From {{etyl|goh|de}} {{m|goh|halb}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*halba
 {{de-decl-adj-notcomp|halb}}
 
 ====Derived terms====
-* {{l|de|halbieren}}
-* {{l|de|Halbblut}}
-* {{l|de|Halbkugel}}
-* {{l|de|Halbschlaf}}
+{{der4
+|{{l|de|halbieren}}
+|{{l|de|Halbblut}}
+|{{l|de|Halbkugel}}
+|{{l|de|Halbschlaf}}
+|lang=de}}
 
 ====Related terms====
 * {{l|de|Hälfte}}
@@ -52,10 +52,12 @@ From {{etyl|goh|de}} {{m|goh|halb}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*halba
 #: {{ux|de|Wir treffen uns um '''halb''' zwei.|We’re meeting at one-thirty.}}
 
 ====See also====
+{{top4}}
 * {{l|de|dreiviertel}}
 * {{l|de|viertel}}
 * {{l|de|Viertel nach}}
 * {{l|de|Viertel vor}}
+{{bottom}}
 
 ===Further reading===
 * {{R:DWDS}}
