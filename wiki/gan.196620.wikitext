@@ -49,12 +49,12 @@ Probably a variant of {{m|en|gang}}, from {{inh|en|enm|gangen}}, from {{inh|en|a
 ==Irish==
 
 ===Etymology===
-From {{inh|ga|sga|cen||besides; without}}, from {{inh|ga|cel-pro|*kina||besides}}; compare Welsh {{m|cy|amgen|am-'''gen'''|otherwise}}, Breton {{m|br|ken||otherwise}}.
+From {{inh|ga|sga|cen|t=besides; without}}, from {{inh|ga|cel-pro|*kina|t=besides}}; compare {{cog|cy|amgen|am-'''gen'''|t=otherwise}}, {{cog|br|ken|t=otherwise}}.
 
 ===Pronunciation===
-* {{a|unstressed}} {{IPA|lang=ga|/ɡən̪ˠ/}}
-* {{a|stressed|Munster|Aran}} {{IPA|lang=ga|/ɡɑn̪ˠ/}}
-* {{a|stressed|Connemara|Mayo|Ulster}} {{IPA|lang=ga|/ɡan̪ˠ/}}
+* {{a|unstressed}} {{IPA|/ɡən̪ˠ/|lang=ga}}
+* {{a|stressed|Munster|Aran}} {{IPA|/ɡɑn̪ˠ/|lang=ga}}
+* {{a|stressed|Connemara|Mayo|Ulster}} {{IPA|/ɡan̪ˠ/|lang=ga}}
 
 ===Preposition===
 {{ga-prep|n|l-}}
@@ -63,9 +63,51 @@ From {{inh|ga|sga|cen||besides; without}}, from {{inh|ga|cel-pro|*kina||besides}
 # [[not]] {{qualifier|in conjunction with a verbal noun}}
 
 ====Usage notes====
-Triggers {{ga-mut-link|l}} of ''b, c, g, m, p'' on unmodified nouns, e.g. ''gan {{l|ga|pingin|phingin}}'' ‘without a penny’. Does not trigger lenition on modified nouns, e.g. ''gan {{l|ga|pingin}} ina phóca'' ‘without a penny in his pocket’. In the meaning ‘not’, does not trigger lenition on either a verbal noun or on the direct object of the verbal noun, e.g. ''gan {{l|ga|ceannaigh|ceannach}}'' ‘not to buy’, ''gan {{l|ga|pingin}} a shaothrú'' ‘not to earn a penny’.
+Triggers {{ga-mut-link|l}} of ''b, c, g, m, p'' on unmodified nouns, e.g. {{m|ga|gan [[pingin|phingin]]|t=without a penny}}. Does not trigger lenition on modified nouns, e.g. {{m|ga|gan pingin ina [[póca|phóca]]|t=without a penny in his pocket}}. In the meaning ‘not’, does not trigger lenition on either a verbal noun or on the direct object of the verbal noun, e.g. ''gan {{l|ga|ceannaigh|ceannach}}'' ‘not to buy’, ''gan {{l|ga|pingin}} a shaothrú'' ‘not to earn a penny’.
 
-Unlike most Irish prepositions, ''gan'' is followed by the nominative case of nouns, not the dative, and it does not form prepositional pronouns: ''gan {{l|ga|an}} {{l|ga|arán|t-arán}}'' ‘without the bread’, ''gan {{l|ga|mé}}'' ‘without me’.
+Unlike most Irish prepositions, ''gan'' is followed by the nominative case of nouns, not the dative, and it does not form prepositional pronouns: {{m|ga|gan [[an]] t-[[arán]]|t=without the bread}}, {{m|ga|gan [[mé]]|t=without me}}.
+
+====Derived terms====
+{{der4
+|{{l|ga|gan on|t=faultless, unblemished}}
+|{{l|ga|gan fáth gan ábhar|t=for no reason whatever}}
+|{{l|ga|gan mórán achair|t=shortly}}
+|{{l|ga|gan aon agó|t=undoubtedly}}
+|{{l|ga|gan bhréag gan áibhéil|t=in plain fact}}
+|{{l|ga|gan áireamh|t=countless, incalculable}}
+|{{l|ga|gan aithne gan urlabhra|t=comatose; dead}}
+|{{l|ga|gan amhras|t=undoubtedly}}
+|{{l|ga|gan bhail|t=invalid, void}}
+|{{l|ga|gan bheartú|t=unpremeditated}}
+|{{l|ga|gan bhogadh|t=still, impassive}}
+|{{l|ga|gan cháim|t=flawless}}
+|{{l|ga|gan mhuinchillí|t=sleeveless}}
+|{{l|ga|gan choinne|t=unexpected(ly)}}
+|{{l|ga|gan choinníoll|t=unconditional(ly)}}
+|{{l|ga|gan chor|t=motionless}}
+|{{l|ga|gan chuimhneamh|t=inadvertently}}
+|{{l|ga|gan chuimse|t=limitless}}
+|{{l|ga|gan dícheall|t=without fail}}
+|{{l|ga|gan doic|t=unhesitatingly}}
+|{{l|ga|gan éislis|t=without fail}}
+|{{l|ga|gan fheiceáil|t=unseen}}
+|{{l|ga|gan fhios|t=unknown; secretly}}
+|{{l|ga|gan dua|t=effortless(ly)}}
+|{{l|ga|gan dúshraith|t=baseless}}
+|{{l|ga|gan locht|t=blameless}}
+|{{l|ga|gan bhlas|t=flavourless}}
+|{{l|ga|gan chumas}}, {{l|ga|gan mhaith}}, {{l|ga|gan bhrí|t=impotent}}
+|{{l|ga|gan éifeacht|t=inefficient}}
+|lang=ga}}
+
+===Mutation===
+{{ga-mut}}
+
+===Further reading===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|8581|head=cen}}
+* {{R:ga:EID}}
+* {{R:ga:NEID}}
 
 ----
 
