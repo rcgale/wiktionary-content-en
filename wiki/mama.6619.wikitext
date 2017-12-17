@@ -3,8 +3,7 @@
 {{wikipedia|dab=mama}}
 
 ===Alternative forms===
-* {{l|en|mamma}}
-* {{l|en|momma}}
+* {{alter|en|mamma|momma}}
 
 ===Etymology===
 From a reduplication of {{m|en|ma}}; a trend present in many [[Indo-European]] languages, probably with ultimate origin in baby talk; or perhaps representing, in altered form, a continuation of {{der|en|enm|mome|t=mother, aunt}}, from {{der|en|gem-pro|*mōmǭ|t=mother, aunt}}, from {{der|en|ine-pro|*méh₂-méh₂}}, reduplication of {{m|ine-pro|*méh₂-|t=mother}}, related to {{cog|de|Muhme|t=aunt}}, {{cog|la|mamma|t=mother, nurse}}, {{cog|ga|mam|t=mother}}, {{cog|lt|mama}}, {{m|lt|moma|t=mother}}.
@@ -71,10 +70,8 @@ Borrowed from {{bor|djk|en|mama}}.
 {{head|ceb|noun}}
 
 # A [[mother]]; a ([[human]]) [[female]] who (a) [[parent#Verb|parent]]s a [[child]] (b) gives [[birth]] to a [[baby]] (c) donates a fertilized egg or (d) donates a body cell which has resulted in a clone. Sometimes used in reference to a [[pregnant]] female, possibly as a shortened form of [[mother-to-be]].
+#: {{syn|ceb|ina|inahan|nanay}}
 # A [[term]] of address to one's [[mother]], [[mother-in-law]] or [[wife]].
-
-====Synonyms====
-* {{sense|a mother}} {{l|ceb|ina}}, {{l|ceb|inahan}}, {{l|ceb|nanay}}
 
 ----
 
@@ -87,9 +84,7 @@ From {{bor|chn|en|mama}} or {{bor|chn|fr|maman}}.
 {{head|chn|noun}}
 
 # [[mother]]
-
-====Synonyms====
-* {{l|chn|naha}}
+#: {{syn|chn|naha}}
 
 ====Coordinate terms====
 * {{sense|with regards to gender}} {{l|chn|papa}}
@@ -111,10 +106,8 @@ From {{bor|chn|en|mama}} or {{bor|chn|fr|maman}}.
 
 # [[#English|mama]], [[mother]]
 #: {{ux|nl|'''Mama''', ik heb honger!|'''Mommy''', I’m hungry!}}
-
-====Synonyms====
-* {{l|nl|ma}}, {{l|nl|mam}}
-* {{l|nl|moeder}}, {{l|nl|moe}}, {{l|nl|moeke}} {{qual|Flemish}}
+#: {{syn|nl|ma|mam}}
+#: {{syn|nl|moeder|moe|moeke}} {{qual|Flemish}}
 
 [[Category:nl:Family]]
 [[Category:nl:Parents]]
@@ -152,17 +145,13 @@ From {{bor|chn|en|mama}} or {{bor|chn|fr|maman}}.
 {{hu-noun|pl=mamák}}
 
 # [[mom]]
+#: {{syn|hu|anya}}
 
 ====Declension====
 {{hu-infl-nom|mamá|o}}{{hu-pos-tok|mamá}}
 
-====Synonyms====
-* {{l|hu|anya}}
-
 ====Derived terms====
-* {{l|hu|kismama}}
-* {{l|hu|nagymama}}
-* {{l|hu|pótmama}}
+{{der3|kismama|nagymama|pótmama|lang=hu}}
 
 [[Category:hu:Family]]
 
@@ -174,9 +163,31 @@ From {{bor|chn|en|mama}} or {{bor|chn|fr|maman}}.
 {{io-noun|mama}}
 
 # {{l|en|mama}}, [[mom]], [[mommy]], [[mum]]
+#: {{syn|io|matro}}
 
-====Synonyms====
-* {{l|io|matro}}
+----
+
+==Irish==
+
+===Etymology===
+From {{der|ga|la|mamma}}.
+
+===Noun===
+{{ga-noun|m|~|~í}}
+
+# {{lb|ga|literary}} [[breast]], [[pap]]
+# {{lb|ga|anatomy}} [[mamma]]
+
+====Declension====
+{{ga-decl-m4|m|ama|amaí}}
+
+===Mutation===
+{{ga-mut}}
+
+===Further reading===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|31504}}
+* {{R:ga:NEID}}
 
 ----
 
@@ -299,10 +310,9 @@ From {{inh|ist|la|mamma}}.
 ===Noun===
 {{head|pnw|noun}}
 
-# [[father]]; [[paternal uncle]], one’s father’s brother
-
-====Synonyms====
-* {{l|pnw|papu}} (father)
+# [[father]]
+#: {{syn|pnw|papu}}
+# [[paternal uncle]], one’s father’s brother
 
 ====References====
 * Dench, Alan (1991). "Panyjima", in R.M.W. Dixon and Barry J. Blake: ''The Handbook of Australian Languages, Volume 4''. Melbourne: Oxford University Press Australia, 125–244.
@@ -320,12 +330,10 @@ From {{inh|ist|la|mamma}}.
 {{head|pjt|noun}}
 
 # [[father]]
+#: {{syn|pjt|punari}}
 # father’s older brother or close male friend; [[uncle]]
+#: {{syn|pjt|mama puḻka}}
 # [[god]]
-
-====Synonyms====
-* {{sense|father}} {{l|pjt|punari}}
-* {{sense|father's older brother}} {{l|pjt|mama puḻka}}
 
 ====Derived terms====
 {{der4
@@ -552,19 +560,17 @@ Borrowed from {{bor|tl|es|mamá}}, adapted from {{der|tl|fr|maman}}.
 ==Tok Pisin==
 
 ===Etymology===
-From {{der|tpi|en|mama}}.
+From {{inh|tpi|en|mama}}.
 
 ===Noun===
 {{head|tpi|noun}}
 
 # [[mother]]
 #* {{tpi-cite-bible|Gen|3|20|Man i kolim meri bilong em Iv, long wanem, em i tumbuna '''mama''' bilong olgeta manmeri.}}
-
-====Antonyms====
-* {{l|tpi|papa}}
+#: {{ant|tpi|papa}}
 
 ====Derived terms====
-* [[mama karim]]
+* {{l|tpi|mama karim}}
 
 {{LDL|tpi}}
 
@@ -576,7 +582,7 @@ From {{der|tpi|en|mama}}.
 {{tr-noun|yı|lar}}
 
 # [[baby food]]
-# [[food]] (in child's language)
+# [[food]] {{q|in child's language}}
 
 ====Declension====
 {{tr-noun-v|ı|pred=-|poss=+}}
