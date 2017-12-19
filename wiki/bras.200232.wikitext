@@ -14,7 +14,7 @@
 ==Breton==
 
 ===Etymology===
-From {{inh|br|cel-pro|*brassos||large}}: (compare {{cog|kw|bras||big, great}}, {{m|kw|broas}}, and {{cog|cy|bras||fat, broad, rich}}).
+From {{inh|br|cel-pro|*brassos|t=large}}: (compare {{cog|kw|bras|t=big, great}}, {{m|kw|broas}}, and {{cog|cy|bras|t=fat, broad, rich}}).
 
 ===Pronunciation===
 * {{IPA|/bʁaz/|lang=br}}
@@ -38,11 +38,11 @@ From {{inh|br|cel-pro|*brassos||large}}: (compare {{cog|kw|bras||big, great}}, {
 ==Cornish==
 
 ===Alternative forms===
-* {{qualifier|Revived Late Cornish}} {{l|kw|broas}}
-* {{qualifier|Standard Cornish}} {{l|kw|brâs}}
+* {{alter|kw|broas||Revived Late Cornish}}
+* {{alter|kw|brâs||Standard Cornish}}
 
 ===Etymology===
-From {{inh|kw|cel-pro|*brassos||large}}.
+From {{inh|kw|cel-pro|*brassos|t=large}}.
 
 ===Adjective===
 {{head|kw|adjective}}
@@ -74,7 +74,7 @@ From {{inh|fr|frm|bras}}, from {{inh|fr|fro|bras}}, from {{inh|fr|la|brachium}},
 {{der3|avant-bras|brassage|brassard|brassière|brasse|brasser|embrasser|bras de fer|bras d'honneur|à bras le corps|à tour de bras|avoir le bras long|avoir quelque chose sur les bras|bras dessus, bras dessous|se croiser les bras|lang=fr}}
 
 ====Descendants====
-* Russian: {{l|ru|бра|g=n}}
+* {{desc|ru|бра|bor=1}}
 
 ===Further reading===
 * {{R:TLFi}}
@@ -82,7 +82,7 @@ From {{inh|fr|frm|bras}}, from {{inh|fr|fro|bras}}, from {{inh|fr|la|brachium}},
 {{topics|fr|Anatomy}}
 
 ===Anagrams===
-* {{l|fr|bars}}
+* {{anagrams|fr|bars}}
 
 ----
 
@@ -105,6 +105,38 @@ From {{inh|fr|frm|bras}}, from {{inh|fr|fro|bras}}, from {{inh|fr|la|brachium}},
 
 ----
 
+==Irish==
+
+===Etymology 1===
+From {{inh|ga|cel-pro|*brassos|t=large}}.
+
+====Adjective====
+{{ga-adj|gsm=brais|gsf=braise|pl=~a|comp=braise}}
+
+# {{lb|ga|literary}} [[great]], [[strong]]
+# {{lb|ga|literary}} [[swift]]
+
+=====Declension=====
+{{ga-decl-adj-1|bras|brais}}
+
+===Etymology 2===
+
+====Noun====
+{{ga-noun|m|brais|brais}}
+
+# {{alternative form of|prás|t=brass|lang=ga}}
+
+=====Declension=====
+{{ga-decl-m1|b|ras|rais}}
+
+===Mutation===
+{{ga-mut}}
+
+===Further reading===
+* {{R:ga:Ó Dónaill}}
+
+----
+
 ==Middle French==
 
 ===Etymology===
@@ -116,7 +148,7 @@ From {{inh|frm|fro|bras}}, from {{inh|frm|la|brachium}}, {{m|la|bracchium}}, fro
 # [[arm]]
 
 ====Descendants====
-* French: {{l|fr|bras}}
+* {{desc|fr|bras}}
 
 {{topics|frm|Anatomy}}
 
@@ -125,8 +157,8 @@ From {{inh|frm|fro|bras}}, from {{inh|frm|la|brachium}}, {{m|la|bracchium}}, fro
 ==Norman==
 
 ===Alternative forms===
-* {{l|nrf|brâs}} {{qualifier|continental Normandy}}
-* {{l|nrf|bra}} {{qualifier|Sark}}
+* {{alter|nrf|brâs||continental Normandy}}
+* {{alter|nrf|bra||Sark}}
 
 ===Etymology===
 From {{inh|nrf|fro|bras}}, from {{inh|nrf|la|brachium}}, {{m|la|bracchium}}, from {{der|nrf|grc|βραχίων}}.
@@ -140,7 +172,7 @@ From {{inh|nrf|fro|bras}}, from {{inh|nrf|la|brachium}}, {{m|la|bracchium}}, fro
 # {{lb|nrf|Jersey|Guernsey|anatomy}} [[arm]]
 
 ====Related terms====
-* {{l|nrf|braichie||armful}}
+* {{l|nrf|braichie|t=armful}}
 
 ----
 
@@ -155,9 +187,9 @@ From {{inh|fro|la|brachium}}, {{m|la|bracchium}}, from {{der|fro|grc|βραχί�
 # [[arm]]
 
 ====Descendants====
-* Middle French: {{l|frm|bras}}
-** French: {{l|fr|bras}}
-* Norman: {{l|nrf|bras}}
+* {{desc|frm|bras}}
+** {{desc|fr|bras}}
+* {{desc|nrf|bras}}
 
 {{topics|fro|Anatomy}}
 
@@ -166,7 +198,7 @@ From {{inh|fro|la|brachium}}, {{m|la|bracchium}}, from {{der|fro|grc|βραχί�
 ==Tok Pisin==
 
 ===Etymology===
-From {{etyl|en|tpi}} {{m|en|brush}}.
+From {{inh|tpi|en|brush}}.
 
 ===Noun===
 {{head|tpi|noun}}
