@@ -12,21 +12,27 @@ From {{etyl|la|de}} {{m|la|fūnctiō}}.
 ===Noun===
 {{de-noun|f||Funktionen}}
 
-# [[function]], [[subroutine]]
 # [[role]]
 # {{lb|de|computing}} [[feature]] {{gloss|beneficial capability of a piece of software}}
+# {{lb|de|computing}} [[subroutine]]
+# {{lb|de|computing|logic|mathematics}} [[function]]
 
-====Declension====
-{{de-decl-noun-f|en}}
+====Hyponyms====
+* {{sense|mathematics}} {{l|de|Eigenfuntion}}
 
 ====Derived terms====
-* {{l|de|Funktionenraum}}
-* {{l|de|funktionieren}}
-* {{l|de|Funktionsstörung}}
-* {{l|de|Funktionswort}}
+{{der4
+|Funktionenraum
+|funktionieren
+|Funktionsstörung
+|Funktionswort
+|lang=en}}
 
 ====Related terms====
 * {{l|de|Funktionalität}}
+
+====Declension====
+{{de-decl-noun-f|en}}
 
 ===Further reading===
 * {{R:Duden}}
