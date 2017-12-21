@@ -8,7 +8,7 @@
 * {{rhymes|eɪdʒ|lang=en}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{m|enm|age}}, from {{etyl|xno|en}} {{m|fro|age}}, from {{etyl|fro|en}} {{m|fro|aage|aage, eage}} (Modern French {{m|fr|âge}}), from assumed unattested {{etyl|VL.|en}} {{m|la|*aetāticum}}, from {{etyl|la|en}} {{m|la|aetātem}}, accusative form of {{m|la|aetās}}, from {{m|la|aevum||lifetime}}. Displaced native [[Middle English]] {{m|enm|elde||age}} (modern {{m|en|eld}}; from [[Old English]] {{m|ang|ieldu|eldo, ieldo|age}}).
+From {{inh|en|enm|age}}, from {{etyl|xno|en}} {{m|fro|age}}, from {{der|en|fro|aage|aage, eage}} (Modern French {{m|fr|âge}}), from assumed unattested {{etyl|VL.|en}} {{m|la|*aetāticum}}, from {{der|en|la|aetātem}}, accusative form of {{m|la|aetās}}, from {{m|la|aevum||lifetime}}. Displaced native [[Middle English]] {{m|enm|elde||age}} (modern {{m|en|eld}}; from [[Old English]] {{m|ang|ieldu|eldo, ieldo|age}}).
 
 ===Noun===
 {{en-noun|~}}
@@ -130,19 +130,19 @@ From {{etyl|enm|en}} {{m|enm|age}}, from {{etyl|xno|en}} {{m|fro|age}}, from {{e
 *: Middle French: {{t|frm|eage|m}}
 * Georgian: {{t|ka|ასაკი|sc=Geor}}, {{t|ka|ხნოვანება|sc=Geor}}, {{t|ka|წლოვანება|sc=Geor}}
 * German: {{t+|de|Lebenszeit|f}}
-* Gujarati: {{t|gu|ઉમર|tr=umar|sc=Gujr}}
+* Gujarati: {{t|gu|ઉમર|sc=Gujr}}
 * Hebrew: {{t+|he|גִּיל|m|tr=gil|sc=Hebr}}
 * Hindi: {{t+|hi|आयु|sc=Deva}}, {{t+|hi|उमर|f|sc=Deva}}, {{t+|hi|उम्र|f|sc=Deva}}
 * Hungarian: {{t+|hu|életkor}}
 * Irish: {{t+|ga|aois|f}}
 {{trans-mid}}
 * Japanese: {{t+|ja|寿命|tr=じゅみょう, jumyō}}, {{t+|ja|一生|tr=いっしょう, isshō}}
-* Khmer: {{t+|km|អាយុ|tr=aayʊ’|sc=Khmr}}
+* Khmer: {{t+|km|អាយុ|sc=Khmr}}
 * Korean: {{t+|ko|일생}} ({{t+|ko|一生}}), {{t+|ko|수명}} ({{t+|ko|壽命}})
 * Lao: {{t+|lo|ອາຍຸ}}
 * Latin: {{t+|la|natus|m}}, {{t+|la|aetas|f}}
 * Old English: {{t|ang|ieldu|f}}
-* Oriya: {{t+|or|ବୟସ|tr=baẏasa|sc=Orya}}
+* Oriya: {{t+|or|ବୟସ|sc=Orya}}
 * Polish: {{t+|pl|życie|n}}
 * Portuguese: {{t+|pt|idade|f}}
 * Romanian: {{t+|ro|viață|f}}
@@ -201,7 +201,7 @@ From {{etyl|enm|en}} {{m|enm|age}}, from {{etyl|xno|en}} {{m|fro|age}}, from {{e
 * Italian: {{t+|it|età|m}}
 * Japanese: {{t+|ja|年齢|tr=ねんれい, nenrei|sc=Jpan}}, {{t+|ja|年|tr=とし, toshi|sc=Jpan}}
 * Kazakh: {{t+|kk|жас}}
-* Khmer: {{t+|km|អាយុ|tr=āyʊ|sc=Khmr}}
+* Khmer: {{t+|km|អាយុ|sc=Khmr}}
 {{trans-mid}}
 * Korean: {{t+|ko|연령}} ({{t+|ko|年齡}}), {{t+|ko|나이}}, {{t+|ko|연세}} ({{t+|ko|年歲}}) {{qualifier|honorific}}, {{t+|ko|나이}}, {{t+|ko|살}}
 * Kurdish:
@@ -214,7 +214,7 @@ From {{etyl|enm|en}} {{m|enm|age}}, from {{etyl|xno|en}} {{m|fro|age}}, from {{e
 * Norwegian:
 *: Bokmål: {{t+|nb|alder|m}}
 * Occitan: {{t+|oc|edat|f}}
-* Oriya: {{t+|or|ବୟସ|tr=baẏasa|sc=Orya}}
+* Oriya: {{t+|or|ବୟସ|sc=Orya}}
 * Persian: {{t+|fa|سن|tr=senn|sc=fa-Arab}}
 * Polish: {{t+|pl|wiek|m-in}}
 * Portuguese: {{t+|pt|idade|f}}
@@ -627,6 +627,18 @@ From {{etyl|enm|en}} {{m|enm|age}}, from {{etyl|xno|en}} {{m|fro|age}}, from {{e
 
 ----
 
+==Danish==
+
+===Verb===
+{{da-verb||age|ager|agede||aget}}
+
+# to [[drive]]
+
+===Further reading===
+* {{R:DDO}}
+
+----
+
 ==French==
 
 ===Pronunciation===
@@ -747,5 +759,4 @@ From {{inh|ofs|gem-pro|*augô}}, from {{der|ofs|ine-pro|*h₃ekʷ-||eye, to see}
 ===Verb===
 {{pt-verb-form}}
 
-# {{inflection of|agir||3|s|pres|indc|lang=pt}}
-# {{inflection of|agir||2|s|impr|lang=pt}}
+# {{pt-verb-form-of|agir}}
