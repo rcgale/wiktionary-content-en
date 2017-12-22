@@ -45,8 +45,8 @@
 ===Noun===
 {{cs-noun|g=f}}
 
-# {{sense|music}} [[tone]]
-# {{sense|music}} [[note]]
+# {{lb|cs|music}} [[tone]]
+# {{lb|cs|music}} [[note]]
 
 ====Declension====
 {{cs-decl-noun
@@ -55,7 +55,7 @@
 }}
 
 ====Derived terms====
-* [[stojan na noty]]
+* {{l|cs|stojan na noty}}
 
 ----
 
@@ -67,7 +67,7 @@
 # {{inflection of|noter||3|s|phis|lang=fr}}
 
 ===Anagrams===
-* {{l|fr|OTAN}}, {{l|fr|taon}}
+* {{anagrams|fr|OTAN|taon}}
 
 ----
 
@@ -99,9 +99,11 @@ From {{inh|is|non|nota}}, from {{inh|is|gem-pro|*nutōną}}.
 {{is-conj-w4|n|o|t}}
 
 ====Derived terms====
-* {{l|is|nota tækifærið}}
-* {{l|is|notandi}}
-* {{l|is|notaður}}
+{{der3
+|{{l|is|nota tækifærið}}
+|{{l|is|notandi}}
+|{{l|is|notaður}}
+|lang=is}}
 
 ====Related terms====
 * {{l|is|notkun}}
@@ -121,14 +123,14 @@ From {{inh|is|non|nota}}, from {{inh|is|gem-pro|*nutōną}}.
 * {{IPA|[ˈnɔː.t̪a]|/ˈnɔta/|lang=it}}
 
 ===Adjective===
-{{head|it|adjective form|g=f}}
+{{it-adj-form|f-s}}
 
-# {{inflection of|noto||f|s|lang=it}}
+# {{it-adj form of|noto|f|sg}}
 
 ===Noun===
 {{it-noun|f}}
 
-# [[note]] (''in all senses'')
+# [[note]] {{q|in all senses}}
 # [[list]]
 # [[bill]]
 
@@ -142,7 +144,7 @@ From {{inh|is|non|nota}}, from {{inh|is|gem-pro|*nutōną}}.
 # {{inflection of|notare||2|s|impr|lang=it}}
 
 ===Anagrams===
-* {{l|it|nato}}, {{l|it|onta}}, {{l|it|tona}}
+* {{anagrams|it|nato|onta|tona}}
 
 ----
 
@@ -162,17 +164,21 @@ Traditionally connected to {{m|la|nōtus}}, "known"<ref>{{R:L&S}}</ref>.<!-- Cen
 {{la-decl-1st|nōt}}
 
 =====Derived terms=====
-* {{l|la|nōta Tīrōniāna}}
-* {{l|la|nōtō}}
-* {{l|la|nōtula}}
+{{der3
+|{{l|la|nōta Tīrōniāna}}
+|{{l|la|nōtō}}
+|{{l|la|nōtula}}
+|lang=la}}
 
 =====Descendants=====
-* English: {{l|en|note}}
-* French: {{l|fr|note}}
-* German: {{l|de|Note}}
-* Irish: {{l|ga|nod}}
-* Portuguese: {{l|pt|nota}}
-* Russian: {{l|ru|нота}}
+{{top3}}
+* {{desc|en|note|bor=1}}
+* {{desc|fr|note}}
+* {{desc|de|Note|bor=1}}
+* {{desc|ga|nod|bor=1}}
+* {{desc|pt|nota}}
+* {{desc|ru|нота|bor=1}}
+{{bottom}}
 
 =====Pronunciation=====
 * {{la-IPA|nōta}}
@@ -222,7 +228,7 @@ Traditionally connected to {{m|la|nōtus}}, "known"<ref>{{R:L&S}}</ref>.<!-- Cen
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|roa-opt|pt}} {{m|roa-opt|nota}}, from {{etyl|la|pt}} {{m|la|nota||mark”, “sign}}.
+From {{inh|pt|roa-opt|nota}}, from {{inh|pt|la|nōta|t=mark; sign}}.
 
 ===Pronunciation===
 * {{a|PT}} {{IPA|/ˈnɔ.tɐ/|lang=pt}}
@@ -252,18 +258,20 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|nota}}, from {{etyl|la|pt}} {{m|la|nota||ma
 ==Scottish Gaelic==
 
 ===Alternative forms===
-* {{l|gd|not}}
+* {{alter|gd|not}}
 
 ===Noun===
 {{gd-noun|g=m|gen=nota|pl=notaichean}}
 
-# [[note]] {{gloss|music}}
+# {{lb|gd|music}} [[note]]
 # [[note]] {{gloss|written}}
-# [[pound]] {{gloss|money}}
+# {{lb|gd|money}} [[pound]]
 
 ====Derived terms====
-* {{l|gd|eàrr-nota}}
-* {{l|gd|nota-maise}}
+{{der2
+|{{l|gd|eàrr-nota}}
+|{{l|gd|nota-maise}}
+|lang=gd}}
 
 ----
 
@@ -276,7 +284,7 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|nota}}, from {{etyl|la|pt}} {{m|la|nota||ma
 ===Noun===
 {{sl-noun|nóta|f|nóte|nóte}}
 
-# [[note]] (diplomatic missive or written communication)
+# [[note]] {{gloss|diplomatic missive or written communication}}
 
 ====Declension====
 {{sl-decl-noun-f|nót}}
@@ -286,13 +294,13 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|nota}}, from {{etyl|la|pt}} {{m|la|nota||ma
 ==Spanish==
 
 ===Etymology===
-From {{etyl|la|es}} {{m|la|nota}}.
+From {{der|es|la|nōta}}.
 
 ===Noun===
 {{es-noun|f}}
 
 # [[note]], [[memo]]
-# [[note]] (music)
+# {{lb|es|music}} [[note]]
 # [[mark]], academic [[score]]
 
 ====Derived terms====
