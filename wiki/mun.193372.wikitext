@@ -2,10 +2,10 @@
 ==English==
 
 ===Etymology 1===
-From {{etyl|non|en}} {{m|non|man||must, will}}.<ref>{{R:Collins English Dictionary}}</ref>
+From {{der|en|non|man|t=must, will}}.<ref>{{R:Collins English Dictionary}}</ref>
 
 ====Alternative forms====
-* {{l|sco|maun}}
+* {{alter|sco|maun}}
 
 ====Verb====
 {{head|en|verb}}
@@ -18,7 +18,7 @@ From {{etyl|non|en}} {{m|non|man||must, will}}.<ref>{{R:Collins English Dictiona
 <references />
 
 ===Etymology 2===
-From {{etyl|non|en}} {{m|non|muðr}}, {{m|non|munnr}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*munþaz}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*ment-}}; compare {{m|en|mouth}}
+From {{der|en|non|muðr}}, {{m|non|munnr}}, from {{der|en|gem-pro|*munþaz}}, from {{der|en|ine-pro|*ment-}}; compare {{m|en|mouth}}
 
 ====Noun====
 {{en-noun}}
@@ -62,12 +62,12 @@ JamesStein|title=Sucessfully Powering Down a Campaign|url=http://groups.google.c
 ==Dalmatian==
 
 ===Etymology===
-From {{etyl|la|dlm}} {{m|la|manus}}.
+From {{inh|dlm|la|manus}}.
 
 ===Noun===
 {{head|dlm|noun|g=f}}
 
-# [[hand]]
+# {{lb|dlm|anatomy}} [[hand]]
 
 ----
 
@@ -116,6 +116,21 @@ From {{inh|smn|smi-pro|*monë}}.
 
 ----
 
+==Irish==
+
+====Contraction====
+{{head|ga|contraction}}
+
+# {{contraction of|[[um]] + [[an]]|lang=ga}}
+
+===Mutation===
+{{ga-mut}}
+
+===Further reading===
+* {{R:ga:Ó Dónaill}}
+
+----
+
 ==Lojban==
 
 ===Rafsi===
@@ -152,7 +167,7 @@ From {{inh|se|smi-pro|*monë}}.
 ==Scots==
 
 ===Alternative forms===
-* {{l|sco|maun}}
+* {{alter|sco|maun}}
 
 ===Verb===
 {{head|sco|verb}}
@@ -166,18 +181,18 @@ From {{inh|se|smi-pro|*monë}}.
 ==Scottish Gaelic==
 
 ===Etymology===
-{{l|gd|mu}} + {{l|gd|an}}
+Fro {{m|gd|mu}} + {{m|gd|an}}.
 
 ===Preposition===
 {{head|gd|preposition}}
 
-# about the, about their, about my, about whom, about which
-# concerning the, concerning their, concerning my, concerning whom, concerning which
+# [[about]] the, about their, about my, about whom, about which
+# [[concerning]] the, concerning their, concerning my, concerning whom, concerning which
 
 ===See also===
 * {{l|gd|mu}}
 
-===References===
+===Further reading===
 * {{R:Dwelly}}
 
 ----
@@ -185,7 +200,7 @@ From {{inh|se|smi-pro|*monë}}.
 ==Swedish==
 
 ===Etymology===
-From {{inh|sv|gmq-osw|munder}}, from {{inh|sv|non|[[muðr]], [[munnr]]}}, from {{inh|sv|gem-pro|*munþaz}}, from {{inh|sv|ine-pro|*ment-}}.
+From {{inh|sv|gmq-osw|munder}}, from {{inh|sv|non|muðr}}, {{m|non|munnr}}, from {{inh|sv|gem-pro|*munþaz}}, from {{der|sv|ine-pro|*ment-}}.
 
 ===Pronunciation===
 * {{IPA|lang=sv|/mɵn/|[mɵnː]}}
@@ -195,50 +210,14 @@ From {{inh|sv|gmq-osw|munder}}, from {{inh|sv|non|[[muðr]], [[munnr]]}}, from {
 {{sv-noun|c}}
 
 # {{lb|sv|anatomy}} a [[mouth]]
-#: ''morgonstund har guld i '''mun'''''
-#:: morning hour has gold in its mouth (meaning: the early bird catches the worm)
-#: ''många '''munnar''' att mätta''
-#:: many mouths to feed
+#: {{ux|sv|morgonstund har guld i '''mun'''|morning hour has gold in its mouth (meaning: the early bird catches the worm)}}
+#: {{ux|sv|många '''munnar''' att mätta|many mouths to feed}}
 
 ====Declension====
 {{sv-noun-irreg-c|2=munnen|3=munnar}}
 
 ====Related terms====
-{{rel3|lang=sv|{{l|sv|munart}}
-|{{l|sv|munblåst}}
-|{{l|sv|mundiarré}}
-|{{l|sv|munfull}}
-|{{l|sv|mungiga}}
-|{{l|sv|mungipa}}
-|{{l|sv|munharmonika}}
-|{{l|sv|munhuggande}}
-|{{l|sv|munhuggas}}
-|{{l|sv|munhuggning}}
-|{{l|sv|munhygien}}
-|{{l|sv|munhåla}}
-|{{l|sv|munhäfta}}
-|{{l|sv|munkorg}}
-|{{l|sv|munlag}}
-|{{l|sv|munlås}}
-|{{l|sv|munläder}}
-|{{l|sv|munläsa}}
-|{{l|sv|mun-mot-mun-metoden}}
-|{{l|sv|munsbit}}
-|{{l|sv|munskydd}}
-|{{l|sv|munskänk}}
-|{{l|sv|munspel}}
-|{{l|sv|munstycke}}
-|{{l|sv|munstyv}}
-|{{l|sv|munsår}}
-|{{l|sv|munta}}
-|{{l|sv|muntlig}}
-|{{l|sv|muntligen}}
-|{{l|sv|muntorrhet}}
-|{{l|sv|muntur}}
-|{{l|sv|munvatten}}
-|{{l|sv|munvig}}
-|{{l|sv|munvinkel}}
-|{{l|sv|munväder}}}}
+{{rel3|munart|munblåst|mundiarré|munfull|mungiga|mungipa|munharmonika|munhuggande|munhuggas|munhuggning|munhygien|munhåla|munhäfta|munkorg|munlag|munlås|munläder|munläsa|mun-mot-mun-metoden|munsbit|munskydd|munskänk|munspel|munstycke|munstyv|munsår|munta|muntlig|muntligen|muntorrhet|muntur|munvatten|munvig|munvinkel|munväder|lang=sv}}
 
 ===References===
 * {{R:SAOL}}
@@ -263,7 +242,7 @@ From {{inh|sjt|smi-pro|*monë}}.
 ==Tok Pisin==
 
 ===Etymology===
-From {{etyl|en|tpi}} {{m|en|moon}}.
+From {{inh|tpi|en|moon}}.
 
 ===Noun===
 {{head|tpi|noun}}
@@ -278,7 +257,7 @@ From {{etyl|en|tpi}} {{m|en|moon}}.
 ==Torres Strait Creole==
 
 ===Etymology===
-From {{etyl|en|tcs}} {{m|en|moon}}.
+From {{inh|tcs|en|moon}}.
 
 ===Noun===
 {{head|tcs|noun}}
@@ -290,7 +269,7 @@ From {{etyl|en|tcs}} {{m|en|moon}}.
 ==Vietnamese==
 
 ===Etymology===
-From {{inh|vi|mkh-vie-pro|*ɓuːɲ||[[ashes]]}}; cognate with {{cog|mtq|bunh}}.
+From {{inh|vi|mkh-vie-pro|*ɓuːɲ|t=[[ashes]]}}; cognate with {{cog|mtq|bunh}}.
 
 ===Pronunciation===
 {{vi-IPA}}
@@ -308,9 +287,7 @@ From {{inh|vi|mkh-vie-pro|*ɓuːɲ||[[ashes]]}}; cognate with {{cog|mtq|bunh}}.
 {{vi-adj|椚}}
 
 # {{lb|vi|rare|of a cat}} [[black]]
-
-====Synonyms====
-* {{l|vi|đen}}
+#: {{syn|vi|đen}}
 
 ===See also===
 * {{l|vi|mực}}
