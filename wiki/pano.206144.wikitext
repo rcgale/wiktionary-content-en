@@ -128,10 +128,10 @@ From {{etyl|eo|io}} {{m|eo|pano}}, from {{etyl|fr|io}} {{m|fr|pain}}, {{etyl|it|
 {{wikipedia|lang=pt}}
 
 ===Alternative forms===
-* {{l|pt|panno}} {{qualifier|obsolete}}
+* {{alter|pt|panno||obsolete}}
 
 ===Etymology===
-From {{etyl|roa-opt|pt}} {{m|roa-opt|pano}}, from {{etyl|la|pt}} {{m|la|pannus||cloth; rag}}.
+From {{inh|pt|roa-opt|pano}}, from {{inh|pt|la|pannus|t=cloth; rag}}.
 
 ===Pronunciation===
 * {{IPA|/ˈpɐ.nu/|lang=pt}}
@@ -140,22 +140,19 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|pano}}, from {{etyl|la|pt}} {{m|la|pannus||
 ===Noun===
 {{pt-noun|m|s}}
 
-# [[cloth]] (woven fabric)
+# [[cloth]] {{gloss|woven fabric}}
+#: {{syn|pt|fazenda|tecido|têxtil}}
 # [[rag]]; [[tatter]]
-
-====Synonyms====
-* {{sense|cloth}} {{l|pt|fazenda}}, {{l|pt|tecido}}, {{l|pt|têxtil}}
-* {{sense|rag}} {{l|pt|farrapo}}, {{l|pt|flanela}}
+#: {{syn|pt|farrapo|flanela}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|pt|pano de boca}}
-* {{l|pt|pano de chão}}
-* {{l|pt|pano de fundo|gloss=backdrop}}
-{{der-mid}}
-* {{l|pt|pano de prato}}
-* {{l|pt|pano sagrado}}
-* {{l|pt|por baixo dos panos|gloss=secretly, covertly}}
-{{der-bottom}}
+{{der3
+|{{l|pt|pano de boca}}
+|{{l|pt|pano de chão}}
+|{{l|pt|pano de fundo|t=backdrop}}
+|{{l|pt|pano de prato}}
+|{{l|pt|pano sagrado}}
+|{{l|pt|por baixo dos panos|t=secretly, covertly}}
+|lang=pt}}
 
 [[Category:pt:Sewing]]
