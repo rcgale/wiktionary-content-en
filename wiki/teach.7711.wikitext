@@ -9,7 +9,7 @@
 
 ===Etymology 1===
 {{PIE root|en|deyḱ}}
-From {{etyl|enm|en}} {{m|enm|techen}}, from {{etyl|ang|en}} {{m|ang|tǣċan||to show, declare, demonstrate; teach, instruct, train; assign, prescribe, direct; warn; persuade}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*taikijaną||to show}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*deyǵe-}}, {{m|ine-pro|*deyḱe-||to show, point out, declare, tell}}, {{m|ine-pro|*deyḱ-||to show}}. Cognate with {{cog|sco|tech}}, {{m|sco|teich||to teach}}, {{cog|de|zeigen||to show, point out}}, {{m|de|zeihen||accuse, blame}}, {{cog|got|𐌲𐌰𐍄𐌴𐌹𐌷𐌰𐌽||tr=gateihan|to announce, declare, tell}}, {{cog|la|dīcō||speak, say, tell}}, {{cog|grc|δείκνυμι||show, point out, explain, teach}}. More at {{l|en|token}}.
+From {{inh|en|enm|techen}}, from {{inh|en|ang|tǣċan|t=to show, declare, demonstrate; teach, instruct, train; assign, prescribe, direct; warn; persuade}}, from {{inh|en|gem-pro|*taikijaną|t=to show}}, from {{der|en|ine-pro|*deyǵe-}}, {{m|ine-pro|*deyḱe-|t=to show, point out, declare, tell}}, {{m|ine-pro|*deyḱ-|t=to show}}. Cognate with {{cog|sco|tech}}, {{m|sco|teich|t=to teach}}, {{cog|de|zeigen|t=to show, point out}}, {{m|de|zeihen|t=accuse, blame}}, {{cog|got|𐌲𐌰𐍄𐌴𐌹𐌷𐌰𐌽|t=to announce, declare, tell}}|tr=gateihan|, {{cog|la|dīcō|t=speak, say, tell}}, {{cog|grc|δείκνυμι|t=show, point out, explain, teach}}. More at {{l|en|token}}.
 
 ====Verb====
 {{en-verb|teaches|teaching|taught|taught}}
@@ -25,8 +25,10 @@ From {{etyl|enm|en}} {{m|enm|techen}}, from {{etyl|ang|en}} {{m|ang|tǣċan||to 
 <!--Prior quote:Than Sir Launcelot armed hym and toke his horse, and so he was '''taughte''' to the abbey.-->
 # {{lb|en|transitive}} To [[pass]] on [[knowledge]] to.
 #: {{ux|en|Can you '''teach''' me to sew?&emsp; Can you '''teach''' sewing to me?}}
+#: {{syn|en|educate|instruct}}
 # {{lb|en|intransitive}} To [[pass]] on [[knowledge]], especially as one's profession; to act as a [[teacher]].
 #: {{ux|en|She used to '''teach''' at university.}}
+#: {{ant|en|learn}}
 # {{lb|en|transitive}} To [[cause]] to [[learn]] or [[understand]].
 #* {{quote-book|year=1898|author={{w|Winston Churchill (novelist)|Winston Churchill}}
 |title={{w|The Celebrity}}|chapter=8
@@ -35,21 +37,14 @@ From {{etyl|enm|en}} {{m|enm|techen}}, from {{etyl|ang|en}} {{m|ang|tǣċan||to 
 |magazine={{w|American Scientist}}|title=[http://www.americanscientist.org/issues/pub/2013/5/making-life-from-scratch Making Life from Scratch]
 |passage=Deep Blue '''taught''' us a great deal about the power of the human mind precisely because it could not reproduce the intuitive and logical leaps of Kasparov’s mind. A truly synthetic cell, built from scratch or even from preexisting components, will be a cell without ancestry, and it, too, will '''teach''' us a great deal about the underlying complexities of life without actually reproducing them.}}
 
-=====Synonyms=====
-* {{sense|transitive|to pass on knowledge}} {{l|en|educate}}, {{l|en|instruct}}
-
-=====Antonyms=====
-* {{sense|intransitive|to pass on knowledge}} {{l|en|learn}}
-
 =====Derived terms=====
-{{rel-top|Terms derived from ''teach'' (verb)}}
-* {{l|en|give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime}}
-* {{l|en|teacher}}
-* {{l|en|teaching}}
-{{rel-mid}}
-* {{l|en|teach someone a lesson}}
-* {{l|en|teach who's boss}}
-{{rel-bottom}}
+{{der3|title=Terms derived from ''teach'' (verb)
+|give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime
+|teacher
+|teaching
+|teach someone a lesson
+|teach who's boss
+|lang=en}}
 
 =====Translations=====
 {{trans-top|obsolete: to show the way}}
@@ -68,24 +63,24 @@ From {{etyl|enm|en}} {{m|enm|techen}}, from {{etyl|ang|en}} {{m|ang|tǣċan||to 
 * Albanian: {{t|sq|mësoj}}
 * American Sign Language: {{t|ase|FlatO@NearSfhead-FlatO@NearSfhead FlatO@FromSfhead-FlatO@FromSfhead}}
 * Arabic: {{t+|ar|عَلَّمَ}}, {{t+|ar|دَرَّسَ}}, {{t|ar|لَقَّنَ}}
-*: Moroccan Arabic: {{t|ary|قرّى|tr=qerra|sc=Arab}}, {{t|ary|علّم|tr=ʿellem|sc=Arab}}
+*: Moroccan Arabic: {{t|ary|قرّى|tr=qerra}}, {{t|ary|علّم|tr=ʿellem}}
 * Armenian: {{t+|hy|սովորեցնել}}, {{t+|hy|ուսուցանել}}, {{t|hy|դաս տալ}}, {{t+|hy|վարժեցնել}}
 * Aromanian: {{t|rup|nvetsu}}, {{t|rup|anvetsu}}
 * Assamese: {{t|as|শিকোৱা}}, {{t|as|পঢ়োৱা}}
 * Asturian: {{t+|ast|enseñar}}
 * Avar: {{t-needed|av}}
 * Azeri: {{t+|az|öyrətmək}}, {{t|az|dərs demək}}
-* Belarusian: {{t|be|вучы́ць|impf|sc=Cyrl}}, {{t|be|выклада́ць|impf|sc=Cyrl}}
-* Bengali: {{t|bn|শেখান|sc=Beng}}
+* Belarusian: {{t|be|вучы́ць|impf}}, {{t|be|выклада́ць|impf}}
+* Bengali: {{t|bn|শেখান}}
 * Bulgarian: {{t+|bg|у́ча|impf}}
-* Burmese: {{t+|my|သင်|sc=Mymr}}, {{t+|my|ပညာပေး|sc=Mymr}}
+* Burmese: {{t+|my|သင်}}, {{t+|my|ပညာပေး}}
 * Catalan: {{t+|ca|ensenyar}}
 * Chechen: {{t-needed|ce}}
 * Chichewa: {{t|ny|phunzitsa|alt=-phunzitsa}}
 * Chinese:
 *: Cantonese: {{t|yue|教|tr=gaau3}}
-*: Mandarin: {{t+|cmn|教|tr=jiāo|sc=Hani}}, {{t+|cmn|教授|tr=jiāoshòu|sc=Hani}}
-*: Min Dong: {{t|cdo|教|tr=ga|sc=Hani}}
+*: Mandarin: {{t+|cmn|教|tr=jiāo}}, {{t+|cmn|教授|tr=jiāoshòu}}
+*: Min Dong: {{t|cdo|教|tr=ga}}
 * Cornish: {{t|kw|dyski}}, {{t|kw|dysky}}
 * Czech: {{t+|cs|učit|impf}}
 * Danish: {{t+|da|undervise}}, {{t+|da|lære}}
@@ -105,8 +100,8 @@ From {{etyl|enm|en}} {{m|enm|techen}}, from {{etyl|ang|en}} {{m|ang|tǣċan||to 
 * Gujarati: {{t-needed|gu}}
 * Hawaiian: {{t|haw|aʻo}}
 * Hebrew: {{t|he|לימד|tr=liméd|alt=לימד \ לִמֵּד}}
-* Hindi: {{t+|hi|सिखाना|sc=Deva}}, {{t|hi|शिक्षा देना|sc=Deva}}, {{t+|hi|पढ़ाना|sc=Deva}}
-* Hungarian: {{t+|hu|tanít}}, ''transitive:'' {{t+|hu|megtanít}}
+* Hindi: {{t+|hi|सिखाना}}, {{t|hi|शिक्षा देना}}, {{t+|hi|पढ़ाना}}
+* Hungarian: {{t+|hu|tanít}}, {{t+|hu|megtanít}} {{q|transitive}}
 * Icelandic: {{t+|is|kenna}}
 * Ido: {{t+|io|instruktar}}
 * Indonesian: {{t+|id|ajar}}, {{t+|id|ajar|alt=mengajar}}, {{t+|id|ajar|alt=mengajari}}
@@ -114,16 +109,13 @@ From {{etyl|enm|en}} {{m|enm|techen}}, from {{etyl|ang|en}} {{m|ang|tǣċan||to 
 * Irish: {{t|ga|múin}}
 * Istriot: {{t|ist|insignà}}
 * Italian: {{t+|it|insegnare}}
-* Japanese: {{t+|ja|教える|tr=おしえる, oshieru|sc=Jpan}}
-* Kannada: {{t+|kn|ಕಲಿಸು|sc=Knda}}
-* Kazakh: {{t+|kk|оқыту|sc=Cyrl}}, {{t|kk|сабақ беру|sc=Cyrl}}
-* Khmer: {{t+|km|បង្រៀន|tr=bong-rīən|sc=Khmr}}
+* Japanese: {{t+|ja|教える|tr=おしえる, oshieru}}
+* Kannada: {{t+|kn|ಕಲಿಸು}}
+* Kazakh: {{t+|kk|оқыту}}, {{t|kk|сабақ беру}}
+* Khmer: {{t+|km|បង្រៀន|tr=bong-rīən}}
 * Korean: {{t+|ko|가르치다}}
-* Kurdish:
-*: Kurmanji: {{t|ku|fêr kirin}}
-*: Sorani: {{t|ku|وتنه‌وه‌|tr=witnewe|sc=ku-Arab}}
-* Kyrgyz: {{t+|ky|окутуу|sc=Cyrl}}, {{t|ky|сабак берүү|sc=Cyrl}}
-* Lao: {{t|lo|ສອນ|sc=Laoo}}
+* Kyrgyz: {{t+|ky|окутуу}}, {{t|ky|сабак берүү}}
+* Lao: {{t|lo|ສອນ}}
 * Latin: {{t|la|docere}}, {{t+|la|instruo}}, {{t|la|addoceo}}
 {{trans-mid}}
 * Latvian: {{t+|lv|mācīt}}
@@ -131,21 +123,21 @@ From {{etyl|enm|en}} {{m|enm|techen}}, from {{etyl|ang|en}} {{m|ang|tǣċan||to 
 * Lojban: {{t+|jbo|ctuca}}
 * Luxembourgish: {{t|lb|léieren}}
 * Lü: {{t-needed|khb}}
-* Macedonian: {{t|mk|учи|impf|sc=Cyrl}}
+* Macedonian: {{t|mk|учи|impf}}
 * Malay: {{t|ms|mengajar}}
 * Malayalam: {{t+|ml|പഠിപ്പിക്കുക}}, {{t|ml|അഭ്യസിപ്പിക്കുക}}, {{t|ml|ശിക്ഷണം നല്‍കുക}}
 * Maltese: {{t|mt|għallem}}
 * Manx: {{t|gv|ynsaghey}}
-* Mongolian: {{t+|mn|заах|sc=Cyrl}}
+* Mongolian: {{t+|mn|заах}}
 * Neapolitan: {{t|nap|'mparà}}
-* Nepali: {{t|ne|सिकाउनु|tr=sikaunu|sc=Deva}}
+* Nepali: {{t|ne|सिकाउनु|tr=sikaunu}}
 * Norman: {{t|nrf|apprendre}}, {{t|nrf|ensîngni}}
 * Northern Sami: {{t|se|oahpahit}}
 * Norwegian: {{t+|no|undervise}}, {{t+|no|lære}}
 * Occitan: {{t+|oc|ensenhar}}
 * Oriya: {{t-needed|or}}
 * Ossetian: {{t-needed|os}}
-* Persian: {{t+|fa|یاد دادن|tr=yâd dâdan|sc=fa-Arab}} {{t|fa|درس دادن|tr=dars dâdan|sc=fa-Arab}}
+* Persian: {{t+|fa|یاد دادن|tr=yâd dâdan}} {{t|fa|درس دادن|tr=dars dâdan}}
 * Polish: {{t+|pl|uczyć|impf}}
 * Portuguese: {{t+|pt|ensinar}}
 * Quechua: {{t|qu|yachachiy}}
@@ -168,16 +160,16 @@ From {{etyl|enm|en}} {{m|enm|techen}}, from {{etyl|ang|en}} {{m|ang|tǣċan||to 
 * Swahili: {{t|sw|kufundisha}}
 * Swedish: {{t+|sv|lära}}, {{t+|sv|lära ut}}
 * Sylheti: {{t|syl|ꠢꠤꠇꠣꠘꠤ}}, {{t|syl|ꠙꠠꠣꠘꠤ}}
-* Tajik: {{t|tg|дарс додан|sc=Cyrl}}, {{t|tg|омӯхтан|sc=Cyrl}}
-* Tamil: {{t+|ta|கற்பி|sc=Taml}}
+* Tajik: {{t|tg|дарс додан}}, {{t|tg|омӯхтан}}
+* Tamil: {{t+|ta|கற்பி}}
 * Telugu: {{t+|te|బోధించు}}, {{t+|te|నేర్పు}}
 * Thai: {{t+|th|สอน}}
-* Tibetan: {{t|bo|སློབ་པ|sc=Tibt}}, {{t|bo|སློབ་ཁྲིད་བྱེད་པ|sc=Tibt}}
+* Tibetan: {{t|bo|སློབ་པ}}, {{t|bo|སློབ་ཁྲིད་བྱེད་པ}}
 * Turkish: {{t+|tr|öğretmek}}, {{t+|tr|ders vermek}}
 * Turkmen: {{t|tk|okatmak}}, {{t|tk|öwretmek}}
 * Tuvan: {{t|tyv|өөредир}}, {{t|tyv|өөредип каар}}
-* Ukrainian: {{t|uk|вчи́ти|impf|sc=Cyrl}}, {{t|uk|виклада́ти|impf|sc=Cyrl}}
-* Urdu: {{t|ur|سکھانا|tr=sikhānā|sc=ur-Arab}}, {{t|ur|پڑھانا|tr=paṛhānā|sc=ur-Arab}}
+* Ukrainian: {{t|uk|вчи́ти|impf}}, {{t|uk|виклада́ти|impf}}
+* Urdu: {{t|ur|سکھانا|tr=sikhānā}}, {{t|ur|پڑھانا|tr=paṛhānā}}
 * Uzbek: {{t+|uz|oʻrgatmoq}}, {{t+|uz|oʻqitmoq}}, {{t|uz|saboq bermoq}}, {{t|uz|dars bermoq}}
 * Venetian: {{t|vec|insegnar}}
 * Vietnamese: {{t+|vi|dạy}}, {{t|vi|dạy học}}, {{t+|vi|dạy bảo}}, {{t+|vi|dạy dỗ}}
@@ -191,15 +183,15 @@ From {{etyl|enm|en}} {{m|enm|techen}}, from {{etyl|ang|en}} {{m|ang|tǣċan||to 
 {{trans-bottom}}
 
 {{trans-top|to pass on one's knowledge as one's profession}}
-* Belarusian: {{t|be|выклада́ць|impf|sc=Cyrl}}
+* Belarusian: {{t|be|выклада́ць|impf}}
 * Chinese:
-*: Mandarin: {{t+|cmn|教學|sc=Hani}}, {{t+|cmn|教学|tr=jiāoxué|sc=Hani}}, {{t+|cmn|講課|sc=Hani}}, {{t+|cmn|讲课|tr=jiǎngkè|sc=Hani}}
+*: Mandarin: {{t+|cmn|教學}}, {{t+|cmn|教学|tr=jiāoxué}}, {{t+|cmn|講課}}, {{t+|cmn|讲课|tr=jiǎngkè}}
 * Dutch: {{t+|nl|lesgeven}}
 * Finnish: {{t+|fi|opettaa}}
 * French: {{t+|fr|enseigner}}
 * Friulian: {{t|fur|insegnâ}}, {{t|fur|inscuelâ}}
 * German: {{t+|de|unterrichten}}
-* Hindi: {{t+|hi|पढ़ाना|sc=Deva}}
+* Hindi: {{t+|hi|पढ़ाना}}
 * Hungarian: {{t+|hu|tanít}}
 * Portuguese: {{t+|pt|ensinar}}, {{t|pt|[[dar]] [[aula]]}}
 {{trans-mid}}
@@ -211,8 +203,8 @@ From {{etyl|enm|en}} {{m|enm|techen}}, from {{etyl|ang|en}} {{m|ang|tǣċan||to 
 *: Upper Sorbian: {{t|hsb|wučić}}
 * Swedish: {{t+|sv|undervisa}}
 * Turkish: {{t+|tr|öğretmek}}
-* Ukrainian: {{t|uk|виклада́ти|impf|sc=Cyrl}}
-* Urdu: {{t|ur|پڑھانا|tr=paṛhānā|sc=ur-Arab}}
+* Ukrainian: {{t|uk|виклада́ти|impf}}
+* Urdu: {{t|ur|پڑھانا|tr=paṛhānā}}
 * Volapük: {{t+|vo|tidön}}
 {{trans-bottom}}
 
