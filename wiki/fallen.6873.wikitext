@@ -129,15 +129,14 @@
 * Icelandic: {{t+|is|valur|m}}
 {{trans-bottom}}
 
-[[Category:English adjectives ending in -en]]
-[[Category:English irregular past participles]]
+{{cln|en|adjectives ending in -en|irregular past participles}}
 
 ----
 
 ==German==
 
 ===Etymology===
-From {{etyl|goh|de}} {{m|goh|fallan}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*fallaną}}, from {{etyl|ine-pro|de}} {{m|ine-pro|*pōl-}}. Akin to Low German {{m|nds|fallen}}, Dutch {{m|nl|vallen}}, English {{m|nl|fall}}, Danish {{m|da|falde}}, Swedish {{m|nl|falla}}.
+From {{inh|de|goh|fallan}}, from {{inh|de|gem-pro|*fallaną}}, from {{der|de|ine-pro|*pōl-}}. Akin to {{cog|nds|fallen}}, {{cog|nl|vallen}}, {{cog|nl|fall}}, {{cog|da|falde}}, {{cog|nl|falla}}.
 
 ===Pronunciation===
 * {{IPA|/ˈfaln̩/|/ˈfalən/|lang=de}}
@@ -223,19 +222,19 @@ From {{etyl|goh|de}} {{m|goh|fallan}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*fal
 ==Low German==
 
 ===Etymology===
-From {{etyl|osx|nds}} {{m|osx|fallan}}, from {{etyl|gem-pro|nds}} {{m|gem-pro|*fallaną}}.
+From {{inh|nds|osx|fallan}}, from {{inh|nds|gem-pro|*fallaną}}.
 
 ===Pronunciation===
 * {{IPA|/ˈfalːn̩/|/ˈfalːən/|lang=nds}}
 
 ===Verb===
-{{head|nds|verb}} (''past singular'' '''[[full]]''', ''past participle'' '''[[fullen]]''', ''auxiliary verb'' '''[[wesen]]''')
+{{head|nds|verb|past singular|full|past participle|fullen|auxiliary verb|wesen}}
 
 # {{lb|nds|ergative}} to [[fall]], [[tumble]]
-#: ''de Avend '''fallt''''': the evening falls
-#: ''in Slaap '''fallen''''': to fall asleep
+#: {{uxi|nds|de Avend '''fallt'''|the evening falls}}
+#: {{uxi|nds|in Slaap '''fallen'''|to fall asleep}}
 # to happen
-#: ''dat is op düssen Dag '''fullen''''': that happened on that day
+#: {{uxi|nds|dat is op düssen Dag '''fullen'''|that happened on that day}}
 
 ====Conjugation====
 {{nds-conj-st|class=7|fall|fall|full|full|full}}
@@ -298,10 +297,8 @@ From the verb {{m|nn|falle}}
 {{head|sv|adjective}}
 
 # {{l|en|fallen}}
-#: ''en '''fallen''' ängel''
-#:: a fallen angel
-#: '''''fallna''' äpplen''
-#:: fallen apples
+#: {{uxi|sv|en '''fallen''' ängel|a fallen angel}}
+#: {{uxi|sv|'''fallna''' äpplen|fallen apples}}
 
 ====Declension====
 {{sv-adj-pastpart|en-stem=fall}}
