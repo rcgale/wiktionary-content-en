@@ -86,8 +86,9 @@ From {{etyl|fr|en}} ''[[métrique]]'' (1864), from {{etyl|NL.|en}} {{m|la|metric
 #: {{ux|en|It's the most important single '''metric''' that quantifies the predictive performance.}}
 #: {{ux|en|How to measure marketing? Use these key '''metrics''' for measuring marketing effectiveness.}}
 #: {{ux|en|There is a lack of standard '''metrics'''.}}
-# {{lb|en|mathematics}} A measurement of the "distance" between two points in some [[metric space]]: it is a [[real-valued]] [[function]] ''d''(''x'',''y'') between points ''x'' and ''y'' satisfying the following properties: (1) "[[positive definiteness]]": <math> d(x,y) \ge 0 </math> and <math> d(x,y) = 0 \mbox{ iff } x=y </math>, (2) "[[symmetric|symmetry]]": <math> d(x,y) = d(y,x) </math>, and (3) "[[triangle inequality]]": <math> d(x,y) \le d(x,z) + d(z,y) </math>.
+# {{lb|en|mathematics}} A measurement of the "distance" between two points in some [[metric space]]: it is a [[real-valued]] [[function]] ''d''(''x'',''y'') between points ''x'' and ''y'' satisfying the following properties: (1) "non-negativity": <math> d(x,y) \ge 0 </math>, (2) "identity of indiscernibles": <math> d(x,y) = 0 \mbox{ iff } x=y </math>, (2) "[[symmetric|symmetry]]": <math> d(x,y) = d(y,x) </math>, and (3) "[[triangle inequality]]": <math> d(x,y) \le d(x,z) + d(z,y) </math>.
 #* {{quote-book|title=Riemannian Metrics of Constant Mass and Moduli Spaces of Conformal Structures|author=Lutz Habermann|year=2000|passage=As we shall see, these '''metrics''' are constructed from a Green function.|url=https://books.google.com/books?id=XAhrmyoIkLoC&lpg=PA11&dq=%22metrics%22%20%22function%22&pg=PA11#v=onepage&q=%22metrics%22%20%22function%22&f=false}}
+# {{lb|en|mathematics}} a [[metric tensor]]
 # {{abbreviation of|metric system|lang=en}}
 
 ====Synonyms====
