@@ -14,7 +14,108 @@ From {{prefix|vz|jmout|lang=cs}} via an ancient form *vz-jęti, hence ''[[vzal]]
 # {{lb|cs|reflexive|si}} to [[marry]] ''sb.'', to [[get married]] to ''sb.''
 
 ====Conjugation====
-{{cs-conj-vzít|}}
+<div class="NavFrame">
+<div class="NavHead" align=left>&nbsp; &nbsp;[[w:en:Czech verbs|<span style="color: black">Conjugation table</span>]]</div>
+<div class="NavContent" align=center>
+{{cs-conj-imperfective
+|indicative present 1st person singular=—
+|indicative present 2nd person singular=—
+|indicative present 3rd person singular=—
+|indicative present 1st person plural=—
+|indicative present 2nd person plural=—
+|indicative present 3rd person plural=—
+|indicative past M 1st person singular=vzal jsem
+|indicative past M 2nd person singular=vzal {{#if:|s|jsi}}
+|indicative past M 3rd person singular=vzal
+|indicative past M 1st person plural=vzali jsme
+|indicative past M 2nd person plural=vzali jste
+|indicative past M 3rd person plural animate=vzali
+|indicative past M 3rd person plural inanimate=vzaly
+|indicative past F 1st person singular=vzala jsem
+|indicative past F 2nd person singular=vzala {{#if:|s|jsi}}
+|indicative past F 3rd person singular=vzala
+|indicative past F 1st person plural=vzaly jsme
+|indicative past F 2nd person plural=vzaly jste
+|indicative past F 3rd person plural=vzaly
+|indicative past N 1st person singular=vzalo jsem
+|indicative past N 2nd person singular=vzalo {{#if:|s|jsi}}
+|indicative past N 3rd person singular=vzalo
+|indicative past N 1st person plural=vzala jsme
+|indicative past N 2nd person plural=vzala jste
+|indicative past N 3rd person plural=vzala
+|indicative future 1st person singular=[[vezmu]]
+|indicative future 2nd person singular=[[vezmeš]]
+|indicative future 3rd person singular=[[vezme]]
+|indicative future 1st person plural=[[vezmeme]]
+|indicative future 2nd person plural=[[vezmete]]
+|indicative future 3rd person plural=[[vezmou]]
+|imperative 2nd person singular=[[vezmi]]
+|imperative 1st person plural=[[vezměme]]
+|imperative 2nd person plural=[[vezměte]]
+|conditional present M 1st person singular=vzal bych
+|conditional present M 2nd person singular=vzal {{#if:|by s|bys}}
+|conditional present M 3rd person singular=vzal by
+|conditional present M 1st person plural=vzali bychom
+|conditional present M 2nd person plural=vzali byste
+|conditional present M 3rd person plural animate=vzali by
+|conditional present M 3rd person plural inanimate=vzaly by
+|conditional present F 1st person singular=vzala bych
+|conditional present F 2nd person singular=vzala {{#if:|by s|bys}}
+|conditional present F 3rd person singular=vzala by
+|conditional present F 1st person plural=vzaly bychom
+|conditional present F 2nd person plural=vzaly byste
+|conditional present F 3rd person plural=vzaly by
+|conditional present N 1st person singular=vzalo bych
+|conditional present N 2nd person singular=vzalo {{#if:|by s|bys}}
+|conditional present N 3rd person singular=vzalo by
+|conditional present N 1st person plural=vzala bychom
+|conditional present N 2nd person plural=vzala byste
+|conditional present N 3rd person plural=vzala by
+|conditional past M 1st person singular=byl bych vzal
+|conditional past M 2nd person singular=byl by{{#if:|&nbsp;s|s}} vzal
+|conditional past M 3rd person singular=byl by vzal
+|conditional past M 1st person plural=byli bychom vzali
+|conditional past M 2nd person plural=byli byste vzali
+|conditional past M 3rd person plural animate=byli by vzali
+|conditional past M 3rd person plural inanimate=byly by vzaly
+|conditional past F 1st person singular=byla bych vzala
+|conditional past F 2nd person singular=byla by{{#if:|&nbsp;s|s}} vzala
+|conditional past F 3rd person singular=byla by vzala
+|conditional past F 1st person plural=byly bychom vzaly
+|conditional past F 2nd person plural=byly byste vzaly
+|conditional past F 3rd person plural=byly by vzaly
+|conditional past N 1st person singular=bylo bych vzalo
+|conditional past N 2nd person singular=bylo by{{#if:|&nbsp;s|s}} vzalo
+|conditional past N 3rd person singular=bylo by vzalo
+|conditional past N 1st person plural=byla bychom vzala
+|conditional past N 2nd person plural=byla byste vzala
+|conditional past N 3rd person plural=byla by vzala
+|active participle M singular=[[vzal]]
+|active participle M plural animate=[[vzali]]
+|active participle M plural inanimate=[[vzaly]]
+|active participle F singular=[[vzala]]
+|active participle F plural=[[vzaly]]
+|active participle N singular=[[vzalo]]
+|active participle N plural=[[vzala]]
+|passive participle M singular={{#if:|—|[[vzat]]}}
+|passive participle M plural animate={{#if:|—|[[vzati]]}}
+|passive participle M plural inanimate={{#if:|—|[[vzaty]]}}
+|passive participle F singular={{#if:|—|[[vzata]]}}
+|passive participle F plural={{#if:|—|[[vzaty]]}}
+|passive participle N singular={{#if:|—|[[vzato]]}}
+|passive participle N plural={{#if:|—|[[vzata]]}}
+|stem=vzít
+|verbal adjective=[[vezmoucí]]
+|gerund={{#if:|—|[[vzetí]]}}
+|transgressive present singular M=[[vezma]]
+|transgressive present singular F=[[vezmouc]]
+|transgressive present plural=[[vezmouce]]
+|transgressive past singular M={{#if:|-|[[vzav]]|—}}
+|transgressive past singular F={{#if:|-|[[vzavši]]|—}}
+|transgressive past plural={{#if:|-|[[vzavše]]|—}}
+}}
+</div>
+</div>
 
 ====Antonyms====
 * {{l|cs|dát}}
