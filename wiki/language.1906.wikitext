@@ -281,7 +281,7 @@ The English Wiktionary uses the English '''language''' to define words from all 
 * Hindi: {{t+|hi|भाषा|f}}, {{t|hi|ज़बान|f}}, {{t+|hi|बोली}}
 * Hungarian: {{t-simple|hu|nyelv|langname=Hungarian|interwiki=1}}
 * Iban: {{t-simple|iba|jaku|langname=Iban}}
-* Icelandic: {{t+|is|mál|n}}, {{t+|is|tungumál|n}}, {{t+|is|tunga|n}}
+* Icelandic: {{t+|is|mál|n}}, {{t+|is|tungumál|n}}, {{t+|is|tunga|f}}
 * Ido: {{t-simple|io|linguo|langname=Ido|interwiki=1}}
 * Indonesian: {{t-simple|id|bahasa|langname=Indonesian|interwiki=1}}
 * Ingrian: {{t-simple|izh|keel|langname=Ingrian}}
@@ -374,7 +374,9 @@ The English Wiktionary uses the English '''language''' to define words from all 
 * Nogai: {{t|nog|тил|sc=Cyrl}}
 * Northern Sami: {{t-simple|se|giella|langname=Northern Sami}}
 * Northern Thai: {{t|nod|ᨽᩣᩇᩣ|tr=pʰāːsǎː|sc=Lana}}
-* Norwegian: {{t+|no|språk|n}}, {{t|no|talemål|n}} {{qualifier|oral only}}, {{t+|no|tunge|f}}, {{t+|no|tungemål|n}}
+* Norwegian:
+*: Bokmål: {{t+|nb|språk|n}}, {{t|nb|talemål|n}} {{q|oral only}}, {{t+|nb|tunge|f}}, {{t+|nb|tungemål|n}}
+*: Nynorsk: {{t+|nn|språk|n}}, {{t|nn|talemål|n}} {{q|oral only}}, {{t+|nn|tunge|f}}, {{t|nn|tungemål|n}}
 * Novial: {{t-simple|nov|lingue|langname=Novial}}
 * O'odham: {{t-simple|ood|ñiok|langname=O'odham}}
 * Occitan: {{t+|oc|lenga|f}}
@@ -520,7 +522,9 @@ The English Wiktionary uses the English '''language''' to define words from all 
 * Macedonian: {{t|mk|говор|m|tr=góvor}}
 * Mizo: {{t-simple|lus|ṭawng|langname=Mizo}}
 * Navajo: {{t-simple|nv|saad|langname=Navajo}}
-* Norwegian: {{t|no|taleevne|m|f}}
+* Norwegian: 
+*: Bokmål: {{t|nb|taleevne|m|f}}
+*: Nynorsk: {{t|nn|taleeve|f}}
 * Novial: {{t-simple|nov|lingue|langname=Novial}}
 * Occitan: {{t-simple|oc|lengatge|langname=Occitan|interwiki=1}}
 * Polish: {{t+|pl|mowa|f}}
@@ -560,7 +564,7 @@ The English Wiktionary uses the English '''language''' to define words from all 
 * Galician: {{t-simple|gl|linguaxe|langname=Galician|interwiki=1}}
 * German: {{t+|de|Sprache|f}}
 * Greek: {{t+|el|γλώσσα|f}}
-* Hebrew: {{t+|he|לשון|f|tr=lašón}}, {{t+|he|שפה|f|tr=safa}}
+* Hebrew: {{t+|he|לשון|f|tr=lashón}}, {{t+|he|שפה|f|tr=safá}}
 * Interlingua: {{t-simple|ia|linguage|langname=Interlingua}}
 * Italian: {{t+|it|linguaggio|m}}
 * Khmer: {{t+|km|ភាសា|tr=pʰiesaa}}
@@ -569,7 +573,9 @@ The English Wiktionary uses the English '''language''' to define words from all 
 * Lithuanian: {{t+|lt|kalba|f}}
 * Macedonian: {{t+|mk|јазик|m|tr=jázik}}
 * Mizo: {{t-simple|lus|ṭawng|langname=Mizo}}
-* Norwegian: {{t+|no|språk|n}}
+* Norwegian: 
+*: Bokmål: {{t+|nb|språk|n}}
+*: Nynorsk: {{t+|nn|språk|n}}
 * Novial: {{t-simple|nov|lingue|langname=Novial}}
 * Polish: {{t+|pl|język|m-in}}
 * Portuguese: {{t+|pt|linguagem|f}}
@@ -603,7 +609,7 @@ The English Wiktionary uses the English '''language''' to define words from all 
 * Georgian: {{t+|ka|ენა}}, {{t|ka|ენები|p}}
 * German: {{t+|de|Sprache|f}}, {{t+|de|Jargon|n}}
 * Greek: {{t|el|ιδιογλωσσία|f}}, {{t+|el|φρασεολογία|f}}, {{t+|el|διάλεκτος|f}}
-* Hebrew: {{t+|he|לשון|f|tr=lašón}}, {{t+|he|שפה|f|tr=safa}}
+* Hebrew: {{t+|he|לשון|f|tr=lashón}}, {{t+|he|שפה|f|tr=safá}}
 * Interlingua: {{t-simple|ia|linguage|langname=Interlingua}}
 * Italian: {{t+|it|linguaggio|m}}
 * Japanese: {{t+|ja|用語|tr=ようご, yōgo|sc=Jpan}}
@@ -612,7 +618,9 @@ The English Wiktionary uses the English '''language''' to define words from all 
 * Korean: {{t+|ko|용어}} {{t+|ko|用語|sc=Hani}}
 * Mizo: {{t-simple|lus|ṭawng|langname=Mizo}}
 * Navajo: {{t-simple|nv|saad|langname=Navajo}}
-* Norwegian: {{t+|no|språk|n}}, {{t|no|terminologi|m}}
+* Norwegian: 
+*: Bokmål: {{t+|nb|språk|n}}, {{t|nb|terminologi|m}}
+*: Nynorsk: {{t+|nn|språk|n}}, {{t|nn|terminologi|m}}
 * Novial: {{t-simple|nov|lingue|langname=Novial}}
 * Polish: {{t+|pl|słownictwo|n}}, {{t+|pl|język|m-in}}
 * Portuguese: {{t+|pt|linguagem|f}}
@@ -646,7 +654,7 @@ The English Wiktionary uses the English '''language''' to define words from all 
 * Galician: {{t-simple|gl|linguaxe|langname=Galician|interwiki=1}}
 * German: {{t+|de|Sprache|f}}
 * Greek: {{t+|el|γλώσσα|f}}
-* Hebrew: {{t+|he|לשון|f|tr=lašón|sc=Hebr}}, {{t+|he|שפה|f|tr=safa}}
+* Hebrew: {{t+|he|לשון|f|tr=lashón|sc=Hebr}}, {{t+|he|שפה|f|tr=safá}}
 * Interlingua: {{t-simple|ia|linguage|langname=Interlingua}}
 * Italian: {{t+|it|linguaggio|m}}
 * Japanese: {{t|ja|言い回し|tr=いいまわし, iimawashi}}
@@ -656,7 +664,9 @@ The English Wiktionary uses the English '''language''' to define words from all 
 * Malay: {{t-simple|ms|istilah|langname=Malay|interwiki=1}}
 * Mizo: {{t-simple|lus|ṭawng|langname=Mizo}}
 * Navajo: {{t-simple|nv|saad|langname=Navajo}}
-* Norwegian: {{t+|no|språk|n}}
+* Norwegian: 
+*: Bokmål: {{t+|nb|språk|n}}
+*: Nynorsk: {{t+|nn|språk|n}}
 * Novial: {{t-simple|nov|lingue|langname=Novial}}
 * Polish: {{t+|pl|język|m-in}}, {{t+|pl|słownictwo|n}}
 * Portuguese: {{t+|pt|linguagem|f}}
@@ -689,7 +699,7 @@ The English Wiktionary uses the English '''language''' to define words from all 
 * Georgian: {{t+|ka|ენა}}
 * German: {{t+|de|Sprache|f}}, {{t+|de|Sprachen|p}}
 * Greek: {{t|el|γλώσσα προγραμματισμού|f}}, {{t+|el|κώδικας|m}}
-* Hebrew: {{t+|he|שפה|f|tr=safa}}
+* Hebrew: {{t+|he|שפה|f|tr=safá}}
 * Interlingua: {{t-simple|ia|linguage|langname=Interlingua}}
 * Italian: {{t+|it|linguaggio|m}}
 * Japanese: {{t+|ja|言語|tr=げんご, gengo|sc=Jpan}}
