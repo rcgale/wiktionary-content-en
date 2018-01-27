@@ -70,41 +70,80 @@
 |kanon=せい
 |toon=すい
 |kun=にし-
+|nanori=あき
 }}
 
 ====Compounds====
-{{top2}}
-* {{ja-r|西欧|^せいおう}}: [[Western Europe]]
-* {{ja-r|西瓜|すいか}}: [[watermelon]]
-* {{ja-r|西経|せいけい}}: [[west]] [[longitude]]
-* {{ja-r|西の対|にし の たい}}
-{{mid2}}
-* {{ja-r|西洋|せいよう}}: the [[West]], [[western]] [[countries]]
-* {{ja-r|西暦|せいれき}}: [[western]] [[calendar]]
+{{der-top|Compounds}}
+* {{ja-r|西欧|^せいおう|[[Western Europe]]}}
+* {{ja-r|西経|せいけい|[[west]] [[longitude]]}}
+* {{ja-r|西洋|せいよう|the [[West]], [[western]] [[countries]]}}
+* {{ja-r|西暦|せいれき|[[western]] [[calendar]]}}
+* {{ja-r|西瓜|すいか|[[watermelon]]}}
 * {{ja-r|関西|^かんさい}}
-{{bottom}}
+* {{ja-r|東西|とうざい}}
+{{der-bottom}}
 
-====Usage notes====
-''nishi'' may be used as separate word. ''sei'', on the other hand, is used mainly in compounds, like [[西南]] (せいなん ''seinan'') - south west (literally "west south").
-
+===Etymology 1===
 {{ja-kanjitab|にし|yomi=k}}
-
-===Noun===
-{{ja-noun|にし}}
-
-# the [[west]]
+From the direction of ''[[sunset]]'', derived from the adjective {{m|ja|往にし|tr=inishi||[[leave|leaving]], [[pass]]ing}}. {{rfv-etymology|ja}}
 
 ====Pronunciation====
-{{ja-pron|yomi=k|にし|acc=0|acc_ref=SMK2}}
+{{ja-pron|y=k|にし|acc=0|acc_ref=DJR,SMK2}}
 
-===Proper noun===
+====Noun====
+{{ja-noun|にし}}
+
+# [[west]] {{gloss|one of the four [[cardinal direction]]s}}
+#: {{antonyms|ja|東|tr=higashi}}
+# the [[West]]
+# [[wind]] [[blow]]ing from the [[west]]
+# {{lb|ja|theater|sort=にし}} in ''[[kabuki]]i'':
+## the [[left]] side of the [[stage]] in the Edo-style
+## the [[right]] side of the stage in Kyoto and Osaka styles
+# {{lb|ja|sumo|sort=にし}} the names of sumo wrestlers on the left side of a ''[[banzuke]]''
+# by extension of ''the West'' sense, a [[capitalist]] [[state]]
+#: {{synonyms|ja|西側|tr=nishigawa}}
+
+=====Derived terms=====
+* {{ja-r|西の対|にし の たい}}
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|西と言うたら東を悟れ|にし と いう たら ひがし を さとれ}}
+* {{ja-r|西 向く 侍|にし むく さむらい}}
+* {{ja-r|西も東もわからない|にし も ひがし も わからない}} 
+{{der-bottom}}
+ 
+====Proper noun====
 {{ja-pos|にし|proper}}
 
+# {{lb|ja|Buddhism|sort=にし}} {{synonym of|lang=ja|西方浄土|tr=Saihō Jōdo}}, the western [[paradise]] of [[Amitabha]] [[Buddha]]
+# {{lb|ja|Buddhism|sort=にし}} {{short for|lang=ja|西本願寺|tr=Nishi Hongan-ji}}, a [[Buddhist]] [[temple]] in {{w|Kyoto}}
+#: {{synonyms|ja|お西|tr=o-Nishi}}
+# {{lb|ja|historical|sort=にし}} the [[red-light district]] in {{w|Edo period|Edo-period}} {{w|Shinjuku}}
+#: as the district was at the west of {{w|Edo Castle}}
+# name of a [[district]] in various prefectures of Japan
 # {{surname|lang=ja|sort=にし}}
 
+===Etymology 2===
+{{ja-kanjitab|す|yomi=irr}}
+Short-form of ateji spelling {{m|ja|西班牙||tr=Supein}}.
+
+====Proper noun====
 {{ja-pos|す|proper}}
 
 # [[Spain]]
+
+===Etymology 3===
+{{ja-kanjitab|しゃー|yomi=irr|sort=しやあ}}
+Derivation {{unknown|sort=しやあ|nocap=1}}.
+
+====Noun====
+{{ja-noun|シャー}}
+
+# {{lb|ja|mahjong|sort=しやあ}} [[west wind]] ([[tile]])
+# {{lb|ja|mahjong|sort=しやあ}} a {{m|ja|役|tr=yaku||[[hand]]}} of a [[triplet]] or [[quad]] of west wind tiles, see {{ja-l|役牌}}
 
 ===References===
 <references/>
