@@ -257,36 +257,61 @@ From {{inh|is|non|á}}, from {{inh|is|gmq-pro|ᚨᚾ}}, from {{inh|is|gem-pro|*a
 
 ==Irish==
 
-===Alternative forms===
-* {{l|ga|agá}}, {{l|ga|'gá|’gá}}, {{l|ga|'ghá|’ghá}} {{qualifier|obsolete}}
-
-===Etymology===
-From {{m|ga|dhá}}, lenited variant of {{m|ga|dá}}.
-
 ===Pronunciation===
 * {{IPA|/ɑː/|lang=ga}}
 
-===Pronoun===
+===Etymology 1===
+From {{m|ga|dhá}}, lenited variant of {{m|ga|dá}}.
+
+====Pronoun====
 {{ga-pron|type=personal|desc=triggers {{ga-mut-link|l}} in the masculine singular, {{ga-mut-link|h}} in the feminine singular, and {{ga-mut-link|e}} in the plural}}
 
 # [[him]], [[her]], [[it]], [[them]] {{qualifier|used before the verbal noun in the progressive to indicate a third person direct object}}
 #: {{ux|ga|Táim '''á''' bhualadh.|inline=1|I am hitting him.}}
-#: {{ux|ga|Táim '''á''' ól.|I am drinking it {{qualifier|referring to a masculine noun, e.g. {{m|ga|bainne||milk}}}}.}}
+#: {{ux|ga|Táim '''á''' ól.|I am drinking it {{qualifier|referring to a masculine noun, e.g. {{m|ga|bainne|t=milk}}}}.}}
 #: {{ux|ga|Táim '''á''' bualadh.|inline=1|I am hitting her.}}
-#: {{ux|ga|Táim '''á''' hól.|I am drinking it {{qualifier|referring to a feminine noun, e.g. {{m|ga|bláthach||buttermilk}}}}.}}
+#: {{ux|ga|Táim '''á''' hól.|I am drinking it {{qualifier|referring to a feminine noun, e.g. {{m|ga|bláthach|t=buttermilk}}}}.}}
 #: {{ux|ga|Táim '''á''' mbualadh.|inline=1|I am hitting them.}}
 #: {{ux|ga|Táim '''á''' n-ól.|inline=1|I am drinking them.}}
 # {{non-gloss definition|used as a quasi-reflexive pronoun in a sentence with passive semantics}}
 #: {{ux|ga|Tá an buachaill '''á''' bhualadh.|The boy is being hit {{qualifier|literally ‘The boy is at his hitting’}}.}}
 #: {{ux|ga|Tá an chloch '''á''' tógáil ag Séamas.|The stone is being lifted by Séamas {{qualifier|literally ‘The stone is at its lifting by Séamas’}}.}}
 
-====Related terms====
-* {{l|ga|a}}
-* {{l|ga|ag}}
-* {{l|ga|do}}
+=====Alternative forms=====
+* {{alter|ga|agá|'gá|alt2=’gá|'ghá|alt3=’ghá||obsolete}}
+
+=====Related terms=====
+{{rel3
+|{{l|ga|a}}
+|{{l|ga|ag}}
+|{{l|ga|do}}
+|lang=ga}}
+
+====Contraction====
+{{head|ga|contraction}}
+
+# {{alternative form of|dá|lang=ga}}
+# {{rfdef|lang=ga}}
+
+===Etymology 2===
+{{onomatopoeic|lang=ga}}.
+
+====Interjection====
+{{head|ga|interjection|head=á!}}
+
+# [[ah]]!
+
+===Etymology 3===
+
+====Letter====
+{{head|ga|letter}}
+
+# {{rfdef|lang=ga}}
 
 ===Further reading===
-* {{R:ga:ODonaill}}
+* {{R:ga:Ó Dónaill}}
+* {{R:ga:EID}}
+* {{R:ga:NEID}}
 
 ----
 
