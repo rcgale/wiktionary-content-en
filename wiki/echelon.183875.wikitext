@@ -69,7 +69,7 @@ Borrowed from {{bor|en|fr|échelon||rung; echelon}}, from {{m|fr|échelle||ladde
 ===Verb===
 {{en-verb}}
 
-# {{lb|en|transitive}} To [[form#Verb|form]] [[troops]] into an echelon.
+# {{lb|en|transitive|military}} To [[form#Verb|form]] [[troops]] into an echelon.
 #* {{quote-book|author=François-Xavier Garneau|authorlink=François-Xavier Garneau|author2=Andrew Bell|chapter=Battle of Carillon (Ticonderoga). 1758.|title=History of Canada, from the Time of Its Discovery till the Union Year (1840–1): Translated from “L’Histoire du Canada” of F. X. Garneau, Esq., and Accompanied with Illustrative Notes, etc., etc. [...] In Three Volumes|location=Montreal, Que.|publisher=Printed and published by John Lovell, St. Nicholas Street|year=1860|volume=II|page=205|pageurl=https://archive.org/stream/historycanadafr00garngoog#page/n211/mode/1up|oclc=937926093|passage=July 1, Montcalm made a movement in advance, '''''echeloning''''' his troops from Fort Carillon to the foot of Lake George, to curb the enemy, and obstruct their landing.}}
 #* {{quote-book|author=Earl F[rederick] Ziemke|authorlink=Earl F. Ziemke|chapter=Offensives on Both Flanks—the South Flank|title=Stalingrad to Berlin: The German Defeat in the East|series=Army Historical Series|location=Washington, D.C.|publisher=[[w:United States Army Center of Military History|Office of the Chief of Military History]], [[w:United States Army|U.S. Army]]|year=1968|oclc=1175695|location2=Washington, D.C.|publisher2=[[w:United States Army Center of Military History|Center of Military History]], United States Army|series2=CMH Pub|seriesvolume2=30–5–1|year2=2002|page2=225|pageurl2=https://archive.org/stream/StalingradToBerlinTheGermanDefeatInTheEast-nsia/StalingradToBerlinTheGermanDefeatInTheEast#page/n237/mode/1up|oclc2=781285997|passage=Behind the 17th Panzer Division the corps '''echeloned''' the main force of its other division, the 16th Panzer Division.}}
 
@@ -82,6 +82,21 @@ Borrowed from {{bor|en|fr|échelon||rung; echelon}}, from {{m|fr|échelle||ladde
 * Portuguese: {{t|pt|escalonar}}
 * Spanish: {{t+|es|escalonar}}
 {{trans-bottom}}
+
+===Adjective===
+{{examples-right|examples=An example of a 4×6 matrix in row echelon form (the * indicate the non-zero pivots, and the · indicate entries which may be zero or non-zero):
+<math>
+\left[ \begin{array}{cccccc}
+* & \cdot & \cdot & \cdot & \cdot & \cdot \\
+0 & * & \cdot & \cdot & \cdot & \cdot \\
+0 & 0 & 0 & 0 & * & \cdot \\
+0 & 0 & 0 & 0 & 0 & 0
+\end{array} \right]
+</math>}}
+{{en-adj|-}}
+
+# {{lb|en|linear algebra}} Of a [[matrix]]: having undergone {{w|Gaussian elimination}} with the result that the leading [[coefficient]] or [[pivot#Noun|pivot]] (that is, the first [[nonzero]] [[number#Noun|number]] from the left) of a nonzero [[row#Noun|row]] is to the right of the pivot of the row above it, giving rise to a [[stepped#Adjective|stepped]] [[appearance]] in the matrix.
+#* {{quote-book|author=Malcolm Pemberton|author2=Nicholas Rau|chapter=Systems of Linear Equations|title=Mathematics for Economists: An Introductory Textbook|location=Manchester; New York, N.Y.|publisher={{w|Manchester University Press}}|year=2001|section=section 12.1 (Echelon Matrices)|page=204|pageurl=https://books.google.com/books?id=rJ5d7DW2t4UC&pg=PA204|isbn=978-0-7190-3340-7|passage=An '''''echelon''' matrix'' is a matrix, not necessarily square, with the following two properties: (i) There is at least one non-zero entry; rows consisting entirely of zeros, if any, lie below rows with at least one non-zero entry. (ii) In each non-zero row after the first, the left-most non-zero entry lies to the right of the left-most non-zero entry in the preceding row. {{...}} In each of the non-zero rows of an '''echelon''' matrix, the left-most non-zero entry is called the ''pivot'', {{...}}}}
 
 ===Further reading===
 * {{pedia|echelon|echelon (disambiguation)}}
