@@ -283,7 +283,7 @@ From {{der|fr|la|index|t=pointer, indicator}}, from {{m|la|indicō|t=point out, 
 
 ===Etymology===
 {{PIE root|la|deyḱ}}
-From {{m|la|indicō||point out, indicate, show}}, from {{m|la|in||in, at, on; into}} + {{m|la|dicō||indicate; dedicate; set apart}}.
+From {{m|la|indicō|t=point out, indicate, show}}, from {{m|la|in|t=in, at, on; into}} + {{m|la|dicō|t=indicate; dedicate; set apart}}.
 
 ===Pronunciation===
 * {{la-IPA}}
@@ -293,6 +293,7 @@ From {{m|la|indicō||point out, indicate, show}}, from {{m|la|in||in, at, on; in
 
 # A [[pointer]], [[indicator]].
 # The [[index finger]], [[forefinger]].
+#: {{syn|la|digitus salūtāris}}
 # A [[sign]], [[indication]], [[proof]], [[mark]], [[token]], [[#English|index]].
 # An [[informer]], [[discoverer]], [[director]], [[talebearer]], [[guide]], [[witness]], [[betrayer]], [[spy]].
 # {{lb|la|of books}} A [[title]], [[superscription]].
@@ -302,37 +303,34 @@ From {{m|la|indicō||point out, indicate, show}}, from {{m|la|in||in, at, on; in
 ====Declension====
 {{la-decl-3rd|index}}
 
-====Synonyms====
-* {{sense|index finger, forefinger}} {{l|la|digitus salūtāris}}
-
 ====Derived terms====
-* {{l|la|indicīna}}
-* {{l|la|indicium}}
-* {{l|la|indiculum}}
+{{der3
+|{{l|la|indicīna}}
+|{{l|la|indicium}}
+|{{l|la|indiculum}}
+|lang=la}}
 
 ====Related terms====
-{{top2}}
-* {{l|la|indicābilis}}
-* {{l|la|indicātiō}}
-* {{l|la|indicātīvus}}
-{{mid2}}
-* {{l|la|indicātor}}
-* {{l|la|indicātūra}}
-* {{l|la|indicō}}
-{{bottom}}
+{{rel3
+|{{l|la|indicābilis}}
+|{{l|la|indicātiō}}
+|{{l|la|indicātīvus}}
+|{{l|la|indicātor}}
+|{{l|la|indicātūra}}
+|{{l|la|indicō}}
+|lang=la}}
 
 ====Descendants====
-{{top2}}
-* Catalan: {{l|ca|índex}}
-* English: {{l|en|index}}
-* French: {{l|fr|index}}, {{l|fr|indice}}
-* Italian: {{l|it|endice}}, {{l|it|indice}}
-* Ladin: {{l|lld|indesc}}
-{{mid2}}
-* Portuguese: {{l|pt|índex}}, {{l|pt|índice}}
-* Romanian: {{l|ro|index}}, {{l|ro|indice}}
-* Russian: {{l|ru|и́ндекс}}
-* Spanish: {{l|es|índex}}, {{l|es|índice}}
+{{top3}}
+* {{desc|ca|índex}}
+* {{desc|en|index}}
+* {{desc|fr|index}}, {{l|fr|indice}}
+* {{desc|it|endice}}, {{l|it|indice}}
+* {{desc|lld|indesc}}
+* {{desc|pt|índex}}, {{l|pt|índice}}
+* {{desc|ro|index}}, {{l|ro|indice}}
+* {{desc|ru|и́ндекс}}
+* {{desc|es|índex}}, {{l|es|índice}}
 {{bottom}}
 
 ===References===
