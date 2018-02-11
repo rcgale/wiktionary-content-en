@@ -205,32 +205,32 @@ From {{etyl|ms|id}} {{m|ms|ara}}.
 ==Irish==
 
 ===Etymology 1===
-From {{inh|ga|sga|ara|g=m||charioteer; messenger, attendant}}.
+From {{inh|ga|sga|ara|g=m|t=charioteer; messenger, attendant}}.
 
 ====Noun====
-{{ga-noun|m|-|~í}}
+{{ga-noun|m|~|~í}}
 
 # [[charioteer]]
-# [[attendant]], [[horseboy]]
+# [[attendant]]
+## [[horseboy]]
+##: {{syn|ga|giolla capaill|giolla eich}}
 
 =====Declension=====
 {{ga-decl-m4|a|ra|raí}}
 
-=====Synonyms=====
-* {{sense|horseboy}} {{l|ga|giolla capaill}}, {{l|ga|giolla eich}}
-
 {{topics|ga|Horses|Occupations}}
 
 ===Etymology 2===
-From {{inh|ga|sga|ara||temple}}.
+From {{inh|ga|sga|ara|t=temple}}.
 
 ====Noun====
-{{ga-noun|m|g2=f|-|araí}}
+{{ga-noun|m|g2=f|~|gen2=arach|~í|pl2=aracha}}
 
 # [[temple]] {{gloss|of the forehead}}
 
 =====Declension=====
 {{ga-decl-m4|a|ra|raí}}
+;Feminine declension
 {{ga-decl-f5|a|ra|rach|racha}}
 
 ===Etymology 3===
@@ -238,25 +238,26 @@ From {{inh|ga|sga|ara||temple}}.
 ====Interjection====
 {{head|ga|interjection|head=ara!}}
 
-# {{alternative form of|arú||Ah! No! So! Indeed!|lang=ga}}
+# {{alternative form of|arú|t=Ah! No! So! Indeed!|lang=ga}}
 
 ===Etymology 4===
 
 ====Noun====
-{{ga-noun|m|-|araí}}
+{{ga-noun|m|~|~í}}
 
-# {{alternative form of|earra||goods; ware, merchandise; article of trade, commodity; accoutrement(s), trappings; apparel; article, thing|lang=ga}}
+# {{alternative form of|earra|t=goods; ware, merchandise; article of trade, commodity; accoutrement(s), trappings; apparel; article, thing|lang=ga}}
 
 =====Declension=====
 {{ga-decl-m4|a|ra|raí}}
 
 ===Mutation===
-{{ga-mut}}
+{{ga-mut|msn}}
 
-===References===
-* {{R:ga:ODonaill}}
+===Further reading===
+* {{R:ga:Ó Dónaill}}
 * {{R:DIL|3915|head=3 ara (‘charioteer’)}}
 * {{R:DIL|3914|head=2 ara (‘temple (of the forehead)’)}}
+* {{R:ga:EID}}
 
 {{topics|ga|Face}}
 
