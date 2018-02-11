@@ -800,7 +800,7 @@ The definite article ''o'' (in all its forms) regularly forms contractions when 
 ==Irish==
 
 ===Etymology 1===
-From {{inh|ga|sga|a|ass, a|out of}} (compare {{cog|gd|à}}), ultimately from {{inh|ga|ine-pro|*h₁eǵʰs}} (compare {{cog|la|ex}}).
+From {{inh|ga|sga|a|ass, a|t=out of}} (compare {{cog|gd|à}}), ultimately from {{inh|ga|ine-pro|*h₁eǵʰs}} (compare {{cog|la|ex}}).
 
 ====Pronunciation====
 * {{IPA|lang=ga|/asˠ/}}
@@ -834,18 +834,20 @@ From {{inh|ga|sga|a|ass, a|out of}} (compare {{cog|gd|à}}), ultimately from {{i
 }}
 
 =====Derived terms=====
-* {{l|ga|as a chéile||in a row; apart}}
-* {{l|ga|as amharc||out of sight}}
-* {{l|ga|as cuma||out of shape}}
-* {{l|ga|as marc||off target, wrong}}
+{{der4
+|{{l|ga|as a chéile|t=in a row; apart}}
+|{{l|ga|as amharc|t=out of sight}}
+|{{l|ga|as cuma|t=out of shape}}
+|{{l|ga|as marc|t=off target, wrong}}
+|lang=ga}}
 
 ===Etymology 2===
 From {{inh|ga|sga|ass}}.
 
 ====Pronunciation====
-* {{IPA|lang=ga|/asˠ/}}
+* {{IPA|/asˠ/|lang=ga}}
 * {{a|Munster}} {{IPA|/ɑsˠ/|lang=ga}}
-* {{a|Aran}} {{IPA|lang=ga|/æsˠ/}} {{qualifier|as if spelled {{m|ga||eas}}}}
+* {{a|Aran}} {{IPA|/æsˠ/|lang=ga}} {{qualifier|as if spelled {{m|ga||eas}}}}
 
 ====Pronoun====
 {{ga-prpr|as-san}}
@@ -854,10 +856,10 @@ From {{inh|ga|sga|ass}}.
 #: {{ux|ga|Ní fhuair tú freagra '''as'''.|You didn’t get an answer from him.}}
 
 =====Derived terms=====
-* {{l|ga|as féin||alone}}
+* {{l|ga|as féin|t=alone}}
 
 ====Adverb====
-{{head|ga|adverb}}
+{{ga-adv}}
 
 # [[off]] {{gloss|in or into a state of non-operation or non-existence: of a machine, light, etc.}}
 #: {{ux|ga|Cas '''as''' an raidió.|Turn off the radio.}}
@@ -866,14 +868,16 @@ From {{inh|ga|sga|ass}}.
 #: {{ux|ga|Tá an tine '''as'''.|The fire is out.}}
 
 =====Derived terms=====
-* {{l|ga|cas as||turn off}}
-* {{l|ga|cuir as||switch off}}
+{{der2
+|{{l|ga|cas as|t=turn off}}
+|{{l|ga|cuir as|t=switch off}}
+|lang=ga}}
 
 ===Etymology 3===
 {{rfe|lang=ga}}
 
 ====Noun====
-{{ga-noun|m|asa|asa}}
+{{ga-noun|m|~a|~a}}
 
 # {{lb|ga|literary}} [[shoe]]
 
@@ -886,7 +890,7 @@ From {{inh|ga|sga|ass}}.
 {{rfe|lang=ga}}
 
 ====Noun====
-{{ga-noun|m|asa|-}}
+{{ga-noun|m|~a|-}}
 
 # {{lb|ga|literary}} [[milk]]
 
@@ -896,13 +900,14 @@ From {{inh|ga|sga|ass}}.
 ===Mutation===
 {{ga-mut|msn}}
 
-===References===
+===Further reading===
 * {{R:ga:Ó Dónaill}}
 * {{R:DIL|8|head=7 a (‘out of’)}}
 * {{R:DIL|4358|head=as (‘milk’)}}
 * {{R:DIL|4359|head=as (‘shoe’)}}
 * {{R:ga:Finck|I|195}}
 * {{R:ga:Sjoestedt Description|95}}
+* {{R:ga:NEID}}
 
 {{topics|ga|Dairy products}}
 
