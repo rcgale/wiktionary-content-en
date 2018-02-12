@@ -530,9 +530,6 @@ From {{etyl|enm|en}} {{m|enm|setten|}}, from {{etyl|ang|en}} {{m|ang|settan|}}, 
 #: ''the '''set''' of a coat''
 # The [[camber]] of a curved roofing tile.
 
-=====Hyponyms=====
-* {{l|en|skillset}}
-
 =====Translations=====
 {{trans-top|punch for setting nails in wood}}
 * Danish: {{t|da|sætning}}
@@ -801,32 +798,34 @@ From {{etyl|enm|en}} {{m|enm|set}}, {{m|enm|sete}}, {{m|enm|sette||that which is
 * {{sense|three of a kind}} {{l|en|three of a kind}}
 
 =====Hypernyms=====
-* {{sense|set theory}} {{l|en|multiset}}, {{l|en|bag}}
+{{hyp4|title=(set theory) Hypernyms of ''set''
+|bag
+|closed set
+|empty set
+|Mandelbrot set
+|multiset
+|open set
+|skillset
+|subset
+|lang=en}}
 
 =====Derived terms=====
-{{rel-top3|terms derived from Etymology 2 of ''set'' "grouping" (noun)}}
-* {{l|en|box set}}
-* {{l|en|bump set}} <!--volleyball?-->
-* {{l|en|closed set}}<!--in set theory-->
-* {{l|en|country set}}
-* {{l|en|crystal set}}
-* {{l|en|drop set}} <!-- ? -->
-* {{l|en|empty set}}<!--in set theory-->
-{{rel-mid3}}
-* {{l|en|filmset}}
-* {{l|en|game, set, match}}
-* {{l|en|jet set}}
-* {{l|en|Mandelbrot set}}
-* {{l|en|open set}}<!--in set theory-->
-* {{l|en|set of pipes}}
-* {{l|en|set piece}}
-{{rel-mid3}}
-* {{l|en|set point}}<!--in tennis, volleyball-->
-* {{l|en|set theory}}
-* {{l|en|subset}}
-* {{l|en|twinset}}
-* {{l|en|instruction set}}
-{{rel-bottom}}
+{{der4|title=terms derived from Etymology 2 of ''set'' "grouping" (noun)
+|box set
+|bump set<!--volleyball?-->
+|country set
+|crystal set
+|drop set<!-- ? -->
+|filmset
+|game, set, match
+|jet set
+|set of pipes
+|set piece
+|set point<!--in tennis, volleyball-->
+|set theory
+|twinset
+|instruction set
+|lang=en}}
 
 =====Translations=====
 {{trans-top|matching collection of similar things, such as a set of tables}}
