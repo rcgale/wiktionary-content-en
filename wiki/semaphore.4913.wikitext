@@ -20,6 +20,10 @@ Borrowed in 1816 from {{etyl|fr|en}} {{m|fr|sémaphore}}, coined in French from 
 # {{lb|en|computing}} A [[bit]], token, fragment of code, or some other mechanism which is used to restrict access to a shared function or device to a single process at a time, or to synchronize and coordinate events in different processes.
 #: {{ux|en|The thread increments the '''semaphore''' to prevent other threads from entering the [[critical section]] at the same time.}}
 
+====Derived terms====
+* {{l|en|flag semaphore}}
+* {{l|en|semaphore plant}}
+
 ====Translations====
 {{trans-top|visual signaling system}}
 * Catalan: {{t+|ca|semàfor|m}}
