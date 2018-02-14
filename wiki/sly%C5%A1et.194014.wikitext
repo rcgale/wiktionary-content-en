@@ -13,26 +13,15 @@ From {{inh|cs|sla-pro|*slyšati}}, from {{der|cs|ine-pro|*ḱlew-}}.
 # to [[hear]]
 
 ====Conjugation====
-{{cs-conj-lež-et|slyš}}
-
-; imperative forms
-{|class="wikitable"
-!
-!Singular
-!Plural
-|-
-|1st person
-|[[-]]
-|[[slyšme]]
-|-
-|2nd person
-|[[slyš]]
-|[[slyšte]]
-|-
-|3rd person
-|[[-]]
-|[[-]]
-|}
+{{Template:cs-conj-forms
+|pf 3s=slyší
+|im 2s=slyš
+|past ms=slyšel
+|pass ms=slyšen
+|tr1 pres=slyše
+|tr2 pres=slyšíc
+|tr1 past=slyšev
+|future=budu}}
 
 ====Related terms====
 * {{l|cs|slyšitelný|g=m}}
