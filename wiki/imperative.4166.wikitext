@@ -2,7 +2,7 @@
 ==English==
 
 ===Alternative forms===
-* {{qualifier|abbreviation, grammar}}: {{l|en|imp.}}, {{l|en|imper.}}
+* {{alter|en|imp.|imper.||abbreviation|grammar}}
 
 ===Etymology===
 Borrowed from {{bor|en|la|imperātīvus}}.
@@ -14,11 +14,11 @@ Borrowed from {{bor|en|la|imperātīvus}}.
 {{en-adj}}
 
 # [[essential]]
-#: ''It is '''imperative''' that you come here right now.''
+#: {{ux|en|It is '''imperative''' that you come here right now.}}
 # {{lb|en|grammar}} of, or relating to the [[imperative mood]]
 # {{lb|en|computing theory}} Having a [[semantics]] that incorporates [[mutable]] variables.
 # Expressing a [[command]]; authoritatively or absolutely [[directive]].
-#: '''''imperative''' orders''
+#: {{ux|en|'''imperative''' orders}}
 #* Bishop Hall
 #*: The suits of kings are '''imperative'''.
 
@@ -57,7 +57,7 @@ Borrowed from {{bor|en|la|imperātīvus}}.
 {{trans-bottom}}
 
 {{trans-top|computing: having semantics that incorporates mutable variables}}
-* Russian: {{t+|ru|императивный|sc=Cyrl}}
+* Russian: {{t+|ru|императи́вный}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -71,10 +71,10 @@ Borrowed from {{bor|en|la|imperātīvus}}.
 {{en-noun|~}}
 
 # {{lb|en|uncountable|grammar}} The [[grammatical mood]] expressing an order (see [[jussive]]). In English, the imperative form of a verb is the same as that of the bare infinitive.
-#: ''The verbs in sentences like "Do it!" and "Say what you like!" are in the '''imperative'''.''
+#: {{ux|en|The verbs in sentences like "Do it!" and "Say what you like!" are in the '''imperative'''.}}
 # {{lb|en|countable|grammar}} A [[verb]] in imperative mood.
 # {{lb|en|countable}} An essential action, a [[must]]: something which is imperative.
-#: ''Visiting Berlin is an '''imperative'''.''
+#: {{ux|en|Visiting Berlin is an '''imperative'''.}}
 #* {{quote-journal|author=Rupert Christiansen|authorlink=Rupert Christiansen|title=English translations rarely sing|work={{w|The Daily Telegraph}} (Review)|date=1 March 2014|page=R19|passage=Anything grandiose or historically based tends to sound flat and banal when it reaches English, partly because translators get stuck between contradictory '''imperatives''': juggling fidelity to the original sense with what is vocally viable, they tend to resort to a genteel fustian which lacks either poetic resonance or demotic realism, adding to a sense of artificiality rather than enhancing credibility.}}
 
 ====Synonyms====
@@ -85,13 +85,12 @@ Borrowed from {{bor|en|la|imperātīvus}}.
 * {{sense|in grammar}} {{l|en|assertoric}}, {{l|en|interrogative}}
 
 ====Derived terms====
-{{top2}}
-* {{l|en|categorical imperative}}
-* {{l|en|first imperative}} {{qualifier|Latin grammar}}
-{{mid2}}
-* {{l|en|moral imperative}}
-* {{l|en|second imperative}} {{qualifier|Latin grammar}}
-{{bottom}}
+{{der4
+|categorical imperative
+|[[first imperative]] {{qualifier|Latin grammar}}
+|moral imperative
+|[[second imperative]] {{qualifier|Latin grammar}}
+|lang=en}}
 
 ====Translations====
 {{trans-see|imperative mood}}
@@ -104,7 +103,7 @@ Borrowed from {{bor|en|la|imperātīvus}}.
 * Icelandic: {{t+|is|nauðsyn|f}}
 {{trans-mid}}
 * Italian: {{t+|it|imperativo|m}}, {{t+|it|necessario|m}}
-* Latin: {{t|la|necessitas|f}}, {{t+|la|opus|n}}
+* Latin: {{t|la|necessitās|f}}, {{t+|la|opus|n}}
 * Portuguese: {{t+|pt|necessidade|f}}
 * Turkish: {{t+|tr|mecburiyet}}, {{t+|tr|zorunluluk}}
 {{trans-bottom}}
@@ -118,48 +117,45 @@ Borrowed from {{bor|en|la|imperātīvus}}.
 ===Adjective===
 {{head|it|adjective form|g=f-p}}
 
-# {{feminine plural of|imperativo|lang=it}}
+# {{it-adj form of|imperativo|f|pl}}
 
 ===Anagrams===
-* {{l|it|riempivate}}
+* {{anagrams|it|riempivate}}
 
 ----
 
 ==Latin==
 
 ===Alternative forms===
-* {{l|la|inperātīvē}}
+* {{alter|la|inperātīvē}}
 
 ===Etymology===
-From {{m|la|imperātīvus||commanded}}, from {{m|la|imperō||command, order}}, from {{m|la|im-||form of ''[[in#Latin|in]]''}} + {{m|la|parō||prepare, arrange; intend}}.
+From {{m|la|imperātīvus|t=commanded}}, from {{m|la|imperō|t=command, order}}, from {{m|la|im-|pos=form of {{m|la|in}}}} + {{m|la|parō|t=prepare, arrange; intend}}.
 
 ===Adverb===
 {{la-adv|imperātīvē|-}}
 
-# In an [[#English|imperative]] manner, [[imperatively]].
+# In an {{l|en|imperative}} manner, [[imperatively]].
 
 ====Related terms====
-{{top4}}
-* {{l|la|imperābiliter}}
-* {{l|la|imperāns}}
-* {{l|la|imperātīvus}}
-* {{l|la|imperātōr}}
-{{mid4}}
-* {{l|la|imperātōriē}}
-* {{l|la|imperātōrius}}
-* {{l|la|imperātrīx}}
-* {{l|la|imperātum}}
-{{mid4}}
-* {{l|la|imperātus}}
-* {{l|la|imperiābiliter}}
-* {{l|la|imperiālis}}
-* {{l|la|imperiōsē}}
-{{mid4}}
-* {{l|la|imperiōsus}}
-* {{l|la|imperitō}}
-* {{l|la|imperium}}
-* {{l|la|imperō}}
-{{bottom}}
+{{rel4
+|imperābiliter
+|imperāns
+|imperātīvus
+|imperātōr
+|imperātōriē
+|imperātōrius
+|imperātrīx
+|imperātum
+|imperātus
+|imperiābiliter
+|imperiālis
+|imperiōsē
+|imperiōsus
+|imperitō
+|imperium
+|imperō
+|lang=la}}
 
 ===References===
 * {{R:L&S}}
