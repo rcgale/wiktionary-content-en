@@ -17,9 +17,9 @@ Borrowed from {{bor|en|la|circulus}}. Replaced Middle English {{m|enm|cercle}}, 
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|geometry}} A [[two-dimensional]] [[geometric]] [[figure]], a line, consisting of the [[set]] of all those [[point]]s in a [[plane]] that are equally [[distant]] from another point.
+# {{lb|en|geometry}} A [[two-dimensional]] [[geometric]] [[figure]], a line, consisting of the [[set]] of all those [[point]]s in a [[plane]] that are equally [[distant]] from a given point ([[center]]).
 #: The set of all [[points]] (''x'', ''y'') such that (x-1)<sup>2</sup>&thinsp;+&thinsp;y<sup>2</sup>&nbsp;=&nbsp;r<sup>2</sup> is a '''circle''' of radius ''r'' around {{nowrap|the point (1, 0).}}
-# A [[two-dimensional]] [[geometric]] [[figure]], a [[disk]], consisting of the set of all those points of a plane at a distance less than or equal to a fixed [[distance]] from another point.
+# A [[two-dimensional]] [[geometric]] [[figure]], a [[disk]], consisting of the set of all those points of a plane at a distance less than or equal to a fixed [[distance]] ([[radius]]) from a given point.
 # Any [[thin]] [[three-dimensional]] [[equivalent]] of the [[geometric]] figures.
 #: {{ux|en|Put on your dunce-cap and sit down on that '''circle'''.}}
 # A [[curve]] that more or less [[form]]s part or all of a circle.
@@ -76,7 +76,7 @@ Borrowed from {{bor|en|la|circulus}}. Replaced Middle English {{m|enm|cercle}}, 
 * {{l|en|circus}}
 
 ====Translations====
-{{trans-top|two-dimensional outline geometric figure}}
+{{trans-top|geometry: set of points that are equally distant from a center}}
 * Abkhaz: {{t|ab|аикәагьежь|sc=Cyrl}}
 * Albanian: {{t+|sq|rreth|m}}
 * Amharic: {{t|am|ክብ}}
@@ -198,7 +198,7 @@ Borrowed from {{bor|en|la|circulus}}. Replaced Middle English {{m|enm|cercle}}, 
 * Yoruba: {{t-needed|yo}}
 {{trans-bottom}}
 
-{{trans-top|disc, two-dimensional solid geometric figure}}
+{{trans-top|geometry: set of all points in a plane within a radius}}
 * Arabic: {{t+|ar|دَائِرَة|f}}
 * Armenian: {{t+|hy|շրջան}}
 * Belarusian: {{t|be|круг|m|sc=Cyrl}}
@@ -244,7 +244,7 @@ Borrowed from {{bor|en|la|circulus}}. Replaced Middle English {{m|enm|cercle}}, 
 * Ukrainian: {{t|uk|круг|m|sc=Cyrl}}, {{t+|uk|ко́ло|n|sc=Cyrl}}
 {{trans-bottom}}
 
-{{trans-top|three-dimensional geometric figure}}
+{{trans-top|thin three-dimensional equivalent of these geometric figures}}
 * Armenian: {{t+|hy|շրջան}}, {{t+|hy|կլորակ}}
 * Chinese:
 *: Mandarin: {{t+|cmn|球|tr=qiú|sc=Hani}}
@@ -268,7 +268,7 @@ Borrowed from {{bor|en|la|circulus}}. Replaced Middle English {{m|enm|cercle}}, 
 * Thai: {{t+|th|วงกลม|tr=wong-glom}}
 {{trans-bottom}}
 
-{{trans-top|curve}}
+{{trans-top|curve approximating part or all of a circle}}
 * Armenian: {{t+|hy|շրջան}}
 * Breton: {{t+|br|kelc'h|m}}
 * Bulgarian: {{t+|bg|кръг|m}}
@@ -276,7 +276,7 @@ Borrowed from {{bor|en|la|circulus}}. Replaced Middle English {{m|enm|cercle}}, 
 *: Mandarin: {{t+|cmn|弧|sc=Hani}}, {{t+|cmn|弧|tr=hú|sc=Hani}}
 * Danish: {{t+|da|cirkel|c}}
 * Dutch: {{t+|nl|kring}}
-* Finnish: {{t+|fi|kaari}}, {{t+|fi|ympyrä}}
+* Finnish: {{t+|fi|ympyränkaari}} {{q|part}}; {{t+|fi|ympyrä}} {{q|all}}
 * Georgian: {{t|ka|მრუდე ხაზი|sc=Geor}}
 * German: {{t+|de|Kreis|m}}
 {{trans-mid}}
@@ -291,32 +291,9 @@ Borrowed from {{bor|en|la|circulus}}. Replaced Middle English {{m|enm|cercle}}, 
 * Thai: {{t|th|ทางโค้ง|tr=taang kóhng}}
 {{trans-bottom}}
 
-{{trans-top|orbit}}
-* Armenian: {{t+|hy|ուղեծիր}}
-* Breton: {{t+|br|kelc'h|m}}
-* Bulgarian: {{t+|bg|орбита|f}}
-* Catalan: {{t|ca|òrbita|f}}
-* Chinese:
-*: Mandarin: {{t+|cmn|軌道|sc=Hani}}, {{t+|cmn|轨道|tr=guǐdào|sc=Hani}}
-* Danish: {{t|da|kredsløb|n}}
-* Dutch: {{t+|nl|baan}}
-* Finnish: {{t+|fi|rata}}
-* Georgian: {{t|ka|ორბიტი|sc=Geor}}
-* Greek: {{t+|el|τροχιά|f}}
-{{trans-mid}}
-* Hebrew: {{t+|he|מסלול|m|tr=maslúl}}
-* Italian: {{t+|it|orbita|f}}
-* Latin: {{t+|la|orbis|m}}
-* Malayalam: {{t|ml|ഭ്രമണ പഥം|sc=Mlym}}
-* Portuguese: {{t+|pt|círculo|m}}
-* Russian: {{t+|ru|орби́та|f}}
-* Scottish Gaelic: {{t|gd|cearcall|m}}
-* Slovene: {{t|sl|krožnica|f}}
-* Spanish: {{t+|es|órbita|f}}
-* Telugu: {{t+|te|కక్ష్య}}
-{{trans-bottom}}
+{{trans-see|orbit}}
 
-{{trans-top|group of persons}}
+{{trans-top|specific group of persons}}
 * Arabic: {{t|ar|حَلْقَة|f}}
 * Armenian: {{t+|hy|շրջապատ}}
 * Breton: {{t+|br|kelc'h|m}}
@@ -355,13 +332,50 @@ Borrowed from {{bor|en|la|circulus}}. Replaced Middle English {{m|enm|cercle}}, 
 * Uzbek: {{t+|uz|krujok}}, {{t+|uz|toʻgarak}}
 {{trans-bottom}}
 
-{{trans-top|darkening bagginess of skin under eyes}}
+{{trans-top|cricket: line comprising two semicircles joined by straight lines}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|Wicca: ritual circle}}
+* Finnish: {{t|fi|ympyrä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|traffic circle or roundabout|traffic circle}}
+
+{{trans-top|compass; circuit; enclosure}}
+* Finnish: {{t|fi|kehä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|astronomy: instrument of observation}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|series ending where it begins, and repeating itself}}
+* Finnish: {{t|fi|kehä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|logic: form of argument}}
+* Finnish: {{t|fi|kehäpäätelmä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|indirect form of words|circumlocution}}
+
+{{trans-top|territorial division or district}}
+* Finnish: {{t|fi|piiri}}, {{t|fi|piirikunta}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|bagginess of skin under eyes}}
 * Catalan: {{t+|ca|ulleres|f-p}}
 * Chinese:
 *: Mandarin: {{t+|cmn|眼袋|tr=yǎndài|sc=Hani}}
 * Danish: {{t|da|poser under øjnene|p}}
 * Dutch: {{t+|nl|wallen}}
-* Finnish: {{t|fi|silmäpussit}}
+* Finnish: {{t|fi|silmäpussit|p}}
 * French: {{t|fr|yeux cernés|m-p}}, {{t+|fr|cerne|f}}
 * German: {{t+|de|Augenringe|m-p}}
 * Italian: {{t+|it|occhiaie}}
