@@ -27,7 +27,7 @@ From {{etyl|fiu-pro|hu}} {{m|urj-pro|*we̮ri}}, {{m|urj-pro|*wara}}, {{m|urj-pro
 ===Noun===
 {{hu-noun|ok}}
 
-# [[nose]]
+# {{lb|hu|anatomy}} [[nose]]
 
 ====Declension====
 {{hu-infl-nom|orro|o}}{{hu-pos-otok|orr||ai}}
@@ -36,18 +36,24 @@ From {{etyl|fiu-pro|hu}} {{m|urj-pro|*we̮ri}}, {{m|urj-pro|*wara}}, {{m|urj-pro
 * {{l|hu|szaglószerv}}
 
 ====Derived terms====
-* {{l|hu|ormány}}
-{{qualifier|Compound words}}:
-* {{l|hu|orrcimpa}}
-* {{l|hu|orrhossz}}
-* {{l|hu|orrlyuk}}
-* {{l|hu|orrnyereg}}
-* {{l|hu|orrspray}}
-* {{l|hu|orrszarv}}
-* {{l|hu|orrszarvú}}
-* {{l|hu|orrvérzés}}
-{{qualifier|Expressions}}:
-* {{l|hu|borsot tör az orra alá}}
+{{der4|lang=hu
+|ormány
+|orrú
+}}
+{{der4|lang=hu|title=Compound words
+|orrcimpa
+|orrcsont
+|orrhossz
+|orrlyuk
+|orrnyereg
+|orrspray
+|orrszarv
+|orrszarvú
+|orrvérzés
+}}
+{{der4|lang=hu|title=Expressions
+|borsot tör az orra alá
+}}
 
 [[Category:Hungarian three-letter words]]
 [[Category:hu:Anatomy]]
