@@ -19,14 +19,14 @@ From {{bor|en|la|Corsica}}.
 
 ====Translations====
 {{trans-top|island in the Mediterranean}}
-* Arabic: {{t|ar|كُورَسِيكَا|f|sc=Arab}}
+* Arabic: {{t|ar|كُورَسِيكَا|f}}
 * Armenian: {{t|hy|Կորսիկա}}
 * Belarusian: {{t|be|Корсіка|f}}
 * Breton: {{t|br|Korsika|f}}
 * Bulgarian: {{t|bg|Корсика|f}}
 * Catalan: {{t+|ca|Còrsega|f}}
 * Chinese:
-*: Mandarin: {{t|cmn|科西嘉|tr=Kēxījiā|sc=Hani}}, {{t+|cmn|科西嘉島|tr=Kēxījiā dǎo|sc=Hani}}
+*: Mandarin: {{t|cmn|科西嘉|tr=Kēxījiā}}, {{t+|cmn|科西嘉島|tr=Kēxījiā dǎo}}
 * Corsican: {{t+|co|Corsica|f}}
 * Czech: {{t+|cs|Korsika|f}}
 * Danish: {{t|da|Korsika}}
@@ -45,9 +45,9 @@ From {{bor|en|la|Corsica}}.
 * Icelandic: {{t|is|Korsíka|f}}
 * Irish: {{t|ga|Corsaic|f|alt=An Chorsaic}}
 * Italian: {{t+|it|Corsica|f}}
-* Japanese: {{t|ja|コルシカ|tr=Korushika|sc=Jpan}}, {{t|ja|コルシカ島|tr=Korushika-tō|sc=Jpan}}
+* Japanese: {{t|ja|コルシカ|tr=Korushika}}, {{t|ja|コルシカ島|tr=Korushika-tō}}
 * Korean: {{t|ko|코르시카}}
-* Kurdish: {{t+|ku|Korsîka|f|sc=ku-Arab}}
+* Kurdish: {{t+|ku|Korsîka|f}}
 * Latin: {{t+|la|Corsica|f}}
 {{trans-mid}}
 * Latvian: {{t|lv|Korsika|f}}
@@ -55,25 +55,25 @@ From {{bor|en|la|Corsica}}.
 * Macedonian: {{t|mk|Корзика|f}}
 * Maltese: {{t|mt|Korsika}}
 * Manx: {{t|gv|Corsickey|f|alt=Yn Chorsickey}}
-* Marathi: {{t|mr|कॉर्सिका|tr=kǒrsikā|sc=Deva}}
+* Marathi: {{t|mr|कॉर्सिका}}
 * Norwegian:
 *: Bokmål: {{t|nb|Korsika}}
 *: Nynorsk: {{t|nn|Korsika}}
-* Ottoman Turkish: {{t|ota|قورسوغه|sc=ota-Arab}}
-* Persian: {{t+|fa|کرس|tr=Kors|sc=fa-Arab}}
+* Ottoman Turkish: {{t|ota|قورسوغه}}
+* Persian: {{t+|fa|کرس|tr=Kors}}
 * Polish: {{t+|pl|Korsyka|f}}
 * Portuguese: {{t+|pt|Córsega|f}}
 * Romanian: {{t|ro|Corsica|f}}
 * Russian: {{t+|ru|Ко́рсика|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|Ко̀рзика|f|sc=Cyrl}}
+*: Cyrillic: {{t|sh|Ко̀рзика|f}}
 *: Roman: {{t+|sh|Kòrzika|f}}
 * Slovak: {{t|sk|Korzika|f}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|Korsika|f}}
 * Spanish: {{t+|es|Córcega|f}}
 * Swedish: {{t|sv|Korsika|n}}
-* Tamil: {{t|ta|கோர்சிகா|sc=Taml}}
+* Tamil: {{t|ta|கோர்சிகா}}
 * Turkish: {{t+|tr|Korsika}}
 * Ukrainian: {{t|uk|Ко́рсика|f}}
 * Venetian: {{t|vec|Còrsega|f}}
@@ -106,6 +106,7 @@ From {{bor|en|la|Corsica}}.
 ----
 
 ==Italian==
+{{wikipedia|lang=it}}
 
 ===Etymology===
 From {{inh|it|la|Corsica}}, from {{der|it|grc|Κορσική}}.
@@ -117,20 +118,17 @@ From {{inh|it|la|Corsica}}, from {{der|it|grc|Κορσική}}.
 
 ===Proper noun===
 {{it-proper noun|f}}
-{{wikipedia|lang=it}}
 
 # {{l|en|Corsica}}
 
 ====Related terms====
-* {{l|it|corsesca}}
-* {{l|it|corso}}
+{{rel2
+|{{l|it|corsesca}}
+|{{l|it|corso}}
+|lang=it}}
 
 ===Anagrams===
-* {{l|it|accorsi}}
-* {{l|it|carsico}}
-* {{l|it|ricasco}}, {{l|it|ricascò}}
-* {{l|it|scarico}}, {{l|it|scaricò}}
-* {{l|it|scorcia}}
+* {{anagrams|it|accorsi|carsico|ricasco|ricascò|scarico|scaricò|scorcia}}
 
 [[Category:it:Exonyms]]
 [[Category:it:Islands]]
@@ -153,13 +151,20 @@ From {{bor|la|grc|Κορσική}}, mentioned in Homer's Odyssey. From a corrupt
 {{la-decl-1st|loc=1|num=sg|Corsic}}
 
 ====Related terms====
-* [[Corsicanus|Corsicānus]]
-* [[Corsicus]]
-* [[Corsus]]
+{{rel3|Corsicānus|Corsicus|Corsus|lang=la}}
 
 ====Descendants====
+{{top3}}
+* {{desc|ca|Còrsega}}
+* {{desc|co|Corsica}}
 * {{desc|en|Corsica|bor=1}}
 * {{desc|ga|Corsaic|An Chorsaic|bor=1}}
+* {{desc|it|Corsica}}
+* {{desc|gv|Corsickey|Yn Chorsickey|bor=1}}
+* {{desc|pt|Córsega}}
+* {{desc|es|Córcega}}
+* {{desc|cy|Corsica|bor=1}}
+{{bottom}}
 
 ===References===
 * {{R:L&S}}
