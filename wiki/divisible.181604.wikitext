@@ -27,7 +27,8 @@ Borrowed from {{bor|en|fro|-}}, from {{der|en|LL.|divisibilis}}, from the verb {
 
 ====Translations====
 {{trans-top|capable of being divided}}
-* Bulgarian: {{t+|bg|делим|sc=Cyrl}}
+* Bulgarian: {{t+|bg|делим}}
+* Catalan: {{t|ca|divisible}}
 * Czech: {{t|cs|dělitelný}}
 * Danish: {{t|da|delelig}}
 * Dutch: {{t+|nl|deelbaar}}
@@ -39,12 +40,12 @@ Borrowed from {{bor|en|fro|-}}, from {{der|en|LL.|divisibilis}}, from the verb {
 * Greenlandic: {{t|kl|agguarneqarsinnaasoq}}
 * Hungarian: {{t+|hu|osztható}}
 {{trans-mid}}
-* Icelandic: {{t|is|deilanlegur|m}}
+* Icelandic: {{t|is|deilanlegur}}
 * Italian: {{t+|it|divisibile}}
 * Japanese: {{t+|ja|分割|alt=分割できる|tr=bunkatsu dekiru}}, {{t+|ja|割れる|tr=wareru}}, {{t|ja|分けられる|tr=wakerareru}}, {{t+|ja|可分|alt=可分の|tr=kabun no}}
 * Polish: {{t+|pl|podzielny}}
 * Portuguese: {{t+|pt|divisível}}
-* Romanian: {{t+|ro|divizibil|m}}
+* Romanian: {{t+|ro|divizibil}}
 * Russian: {{t+|ru|дели́мый}}
 * Spanish: {{t+|es|divisible}}
 * Swedish: {{t+|sv|delbar}}
@@ -53,7 +54,8 @@ Borrowed from {{bor|en|fro|-}}, from {{der|en|LL.|divisibilis}}, from the verb {
 {{trans-bottom}}
 
 {{trans-top|of an integer, that when divided leaves no remainder}}
-* Bulgarian: {{t+|bg|делим|sc=Cyrl}}
+* Bulgarian: {{t+|bg|делим}}
+* Catalan: {{t|ca|divisible}}
 * Czech: {{t|cs|dělitelný}}
 * Danish: {{t|da|delelig}}
 * Dutch: {{t+|nl|deelbaar}}
@@ -64,11 +66,11 @@ Borrowed from {{bor|en|fro|-}}, from {{der|en|LL.|divisibilis}}, from the verb {
 * Greenlandic: {{t|kl|agguarneqarsinnaasoq}}
 * Hungarian: {{t+|hu|osztható}}
 {{trans-mid}}
-* Icelandic: {{t|is|deilanlegur|m}}
+* Icelandic: {{t|is|deilanlegur}}
 * Japanese: {{t|ja|割り切れる|tr=warikireru}}
 * Polish: {{t+|pl|podzielny}}
 * Portuguese: {{t+|pt|divisível}}
-* Romanian: {{t+|ro|divizibil|m}}
+* Romanian: {{t+|ro|divizibil}}
 * Russian: {{t+|ru|дели́мый}}
 * Spanish: {{t+|es|divisible}}
 * Swedish: {{t+|sv|delbar}}
@@ -85,10 +87,36 @@ Borrowed from {{bor|en|fro|-}}, from {{der|en|LL.|divisibilis}}, from the verb {
 
 ----
 
+==Catalan==
+
+===Etymology===
+From {{der|ca|la|dīvīsibilis}}.
+
+===Pronunciation===
+* {{ca-IPA}}
+
+===Adjective===
+{{ca-adj|mf}}
+
+# {{l|en|divisible}} {{gloss|capable of being divided}}
+#: {{ant|ca|indivisible}}
+# {{lb|ca|arithmetic}} {{l|en|divisible}} {{gloss|of an integer, that when divided leaves no remainder}}
+
+====Related terms====
+* {{l|ca|divisibilitat}}
+
+===Further reading===
+* {{R:IEC2}}
+
+----
+
 ==French==
 
 ===Etymology===
 From {{inh|fr|fro|-}}, borrowed from {{bor|fr|LL.|divisibilis}}, from the verb {{der|fr|la|divido|}}.
+
+===Pronunciation===
+* {{fr-IPA}}
 
 ===Adjective===
 {{fr-adj}}
@@ -104,3 +132,26 @@ From {{inh|fr|fro|-}}, borrowed from {{bor|fr|LL.|divisibilis}}, from the verb {
 
 ===Further reading===
 * {{R:TLFi}}
+
+----
+
+==Spanish==
+
+===Etymology===
+From {{der|es|la|dīvīsibilis}}.
+
+===Pronunciation===
+* {{es-IPA}}
+
+===Adjective===
+{{es-adj}}
+
+# {{l|en|divisible}} {{gloss|capable of being divided}}
+#: {{ant|es|indivisible}}
+# {{lb|es|arithmetic}} {{l|en|divisible}} {{gloss|of an integer, that when divided leaves no remainder}}
+
+====Related terms====
+* {{l|es|divisibilidad}}
+
+===Further reading===
+* {{R:DRAE 2001}}
