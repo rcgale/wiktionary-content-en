@@ -5,6 +5,7 @@
 * {{a|UK}} {{IPA|/dɪ.ˈvaɪ.zə(ɹ)/|lang=en}}
 * {{a|US}} {{enPR|dĭ-vīʹ-zər}}, {{IPA|/dɨ.ˈvaɪ.zɚ/|lang=en}}
 * {{audio|en-us-divisor.ogg|Audio (US)|lang=en}}
+** {{homophones|diviser|lang=en}}
 * {{rhymes|aɪzə(r)|lang=en}}
 
 ===Noun===
@@ -19,6 +20,7 @@
 {{trans-top|arithmetic: a number or expression}}
 * Armenian: {{t+|hy|բաժանարար}}
 * Bulgarian: {{t|bg|делител|m|tr=delítel}}
+* Catalan: {{t|ca|divisor}}
 * Chinese:
 *: Mandarin: {{t+|cmn|除數|sc=Hani}}, {{t+|cmn|除数|tr=chúshù|sc=Hani}}
 * Czech: {{t|cs|dělitel|m}}
@@ -67,6 +69,24 @@
 
 ----
 
+==Catalan==
+
+===Etymology===
+From {{der|ca|la|divisor}}.
+
+===Noun===
+{{ca-noun|m}}
+
+# {{lb|ca|arithmetic}} {{l|en|divisor}} {{gloss|number that another is to be divided by}}
+
+====Related terms====
+* {{l|ca|dividir}}
+
+===Further reading===
+* {{R:IEC2}}
+
+----
+
 ==Danish==
 
 ===Noun===
@@ -93,6 +113,11 @@
 ====Inflection====
 {{la-decl-3rd|dīvīsor}}
 
+====Descendants====
+* Catalan: {{l|ca|divisor}}
+* Portuguese: {{l|pt|divisor}}
+* Spanish: {{l|es|divisor}}
+
 ===References===
 * {{R:L&S}}
 * {{R:Elementary Lewis}}
@@ -104,6 +129,9 @@
 ----
 
 ==Portuguese==
+
+===Etymology===
+From {{der|pt|la|divisor}}.
 
 ===Noun===
 {{pt-noun|m|es}}
@@ -120,6 +148,12 @@
 
 ==Spanish==
 
+===Etymology===
+From {{der|es|la|divisor}}.
+
+===Pronunciation===
+* {{es-IPA}}
+
 ===Adjective===
 {{es-adj|f=divisora|mpl=divisores}}
 
@@ -128,4 +162,7 @@
 ===Noun===
 {{es-noun|m|divisores}}
 
-# {{l|en|divisor}}
+# {{lb|es|arithmetic}} {{l|en|divisor}} {{gloss|number that another is to be divided by}}
+
+===Further reading===
+* {{R:DRAE 2001}}
