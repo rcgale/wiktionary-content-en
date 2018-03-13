@@ -1,12 +1,12 @@
 {{also|Art|ART|árt|ärt|'art|-art|art.|Appendix:Variations of "art"}}
 ==English==
-{{wikipedia|dab=art (disambiguation)|art}}
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ɑːt/|lang=en}}
 * {{a|US}} {{IPA|/ɑɹt/|lang=en}}
 * {{audio|en-us-art.ogg|Audio (US)|lang=en}}
 * {{rhymes|ɑː(ɹ)t|lang=en}}
+* {{hyphenation|art|lang=en}}
 
 ===Etymology 1===
 {{PIE root|en|h₂er}}
@@ -57,52 +57,105 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * {{sense|Human effort}} {{l|en|mundacity}}, {{l|en|nature}}, {{l|en|subsistence}}
 
 =====Hyponyms=====
-{{hyp4|lang=en|[[ABC art]]
-|[[abstract art]]
-|[[ASCII art]]
-|[[black art]]
-|[[black arts]]
-|[[body art]]
-|[[cave art]]
-|[[clip art]]
-|[[concept art]]
-|[[fine arts]]
-|[[folk art]]
-|[[graphic art]]
-|[[high art]]
-|[[installation art]]
-|[[junk art]]
-|[[kinetic art]]
-|[[liberal arts]]
-|[[line art]]
-|[[martial art]]
-|[[minimal art]]
-|[[modern art]]
-|[[naïve art]]
-|[[op art]]
-|[[optical art]]
-|[[outsider art]]
-|[[performance art]]
-|[[pixel art]]
-|[[plastic art]]
-|[[pop art]]
-|[[primitive art]]
-|[[prior art]]
-|[[process art]]
-|[[sand art]]
-|[[sequential art]]
-|[[seventh art]]
-|[[street art]]
-|[[traditional art]]
-|[[vernacular art]]
-|[[visual art]]
-}}
+{{hyp4
+|ABC art
+|abstract art
+|ASCII art
+|black art
+|black arts
+|body art
+|cave art
+|clip art
+|concept art
+|fine arts
+|folk art
+|graphic art
+|high art
+|installation art
+|junk art
+|kinetic art
+|liberal arts
+|line art
+|martial art
+|minimal art
+|modern art
+|naïve art
+|op art
+|optical art
+|outsider art
+|performance art
+|pixel art
+|plastic art
+|pop art
+|primitive art
+|prior art
+|process art
+|sand art
+|sequential art
+|seventh art
+|street art
+|traditional art
+|vernacular art
+|visual art
+|lang=en}}
 
 =====Derived terms=====
-{{der4|artefact|art handler|artifact|artful|artifice|artificial|artisan|artist|artiste|artistic|artless|artsy|artsy-craftsy|artwear|artwork|artworker|arty|arty-farty|state-of-the-art|lang=en}}
-
-=====Related terms=====
-{{rel4|art class|art collection|art dealer|Art Deco|art exhibition|art film|art for art's sake|art form|art gallery|art historian|art history|art house|art imitates life|art journal|art movie|art music|art nouveau|art object|art paper|art rock|art rooom|arts and crafts|art school|arts degree|art student|art therapy|[[art union]]<!--Australia, NZ: a lottery-->|Bachelor of Arts|[[down to a fine art]]<!--do something ..., get something..., have something...-->|life imitates art|Master of Arts|objet d'art|person of ordinary skill in the art|term of art|work of art|lang=en}}
+{{der4
+|art class
+|art collection
+|art dealer
+|Art Deco
+|art exhibition
+|art film
+|art for art's sake
+|art form
+|art gallery
+|art handler
+|art historian
+|art history
+|art house
+|art imitates life
+|art journal
+|art movie
+|art music
+|art nouveau
+|art object
+|art paper
+|art rock
+|art rooom
+|art school
+|art student
+|art therapy
+|[[art union]]<!-- Australia, NZ: a lottery -->
+|artefact
+|artful
+|artifact
+|artifice
+|artificial
+|artisan
+|artist
+|artiste
+|artistic
+|artless
+|arts and crafts
+|arts degree
+|artsy
+|artsy-craftsy
+|artwear
+|artwork
+|artworker
+|arty
+|arty-farty
+|Bachelor of Arts
+|[[down to a fine art]]<!-- do something…, get something…, have something… -->
+|life imitates art
+|Master of Arts
+|objet d'art
+|person of ordinary skill in the art
+|state-of-the-art
+|term of art
+|work of art
+|lang=en}}
 * {{lookfrom|art}}
 
 =====Translations=====
@@ -421,7 +474,7 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 *: Sorani: {{t-check|ckb|هونه‌ر|sc=ku-Arab}}
 * Latin: {{t-check|la|ars|f}}
 * Lithuanian: {{t-check|lt|menas}}
-{{trans-mid}}
+{{checktrans-mid}}
 * Low German: {{t-check|nds|Kunst|f}}
 * Luxembourgish: {{t-check|lb|Konscht|f}}
 * Maltese: {{t-check|mt|arti|f}}, {{t-check|mt|toi}}
@@ -445,7 +498,7 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Vietnamese: {{t-check|vi|nghệ thuật}}, {{qualifier|rare}} {{t-check|vi|nghệ-thuật}} ([[藝術]])
 * West Frisian: {{t-check|fy|keunst|f}}
 * Yiddish: {{t-check|yi|קונסט|m|f}}
-{{trans-bottom}}
+{{checktrans-bottom}}
 
 ===Etymology 2===
 From {{inh|en|enm|-}}, from {{inh|en|ang|eart|t=''(thou)'' art}}, second-person singular present indicative of {{m|ang|wesan}}, from {{inh|en|gem-pro|*ar-t|t=''(thou)'' art", originally, "''(thou)'' becamest}}, second-person singular preterite indicative form of {{m|gem-pro|*iraną|t=to rise, be quick, become active}}, from {{der|en|ine-pro|*er-}}, {{m|ine-pro|*or(w)-|t=to lift, rise, set in motion}}. Cognate with {{cog|fo|ert|t=art}}, {{cog|is|ert|t=art}}, {{cog|ang|earon|t=are}}, from the same preterite-present Germanic verb. More at {{l|en|are}}.
@@ -457,27 +510,32 @@ From {{inh|en|enm|-}}, from {{inh|en|ang|eart|t=''(thou)'' art}}, second-person 
 #: {{ux|en|How great thou '''art'''!}}
 
 ====See also====
-{{top2}}
+{{top3}}
 * {{l|en|am}}
 * {{l|en|are}}
 * {{l|en|be}}
 * {{l|en|been}}
+{{mid3}}
 * {{l|en|beest}}
-{{mid2}}
 * {{l|en|being}}
 * {{l|en|was}}
 * {{l|en|wast}}
+{{mid3}}
 * {{l|en|were}}
 * {{l|en|wert}}
 {{bottom}}
+
+===References===
+* {{pedia|dab=art (disambiguation)|art}}
+
+===Anagrams===
+* {{anagrams|en|ATR|RAT|RTA|Rat|Tar|rat|tar}}
 
 [[Category:English auxiliary verb forms]]
 [[Category:English basic words]]
 [[Category:English irregular second-person singular forms]]
 [[Category:English terms with multiple etymologies]]
 
-===Anagrams===
-* {{anagrams|en|ATR|RAT|RTA|Rat|Tar|rat|tar}}
 
 ----
 
