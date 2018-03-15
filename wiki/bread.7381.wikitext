@@ -744,6 +744,9 @@ Variant of {{m|en|braid}}, from {{etyl|enm|en}} {{m|enm|breden}}, from {{etyl|an
 
 ==Old English==
 
+===Alternative forms===
+* {{alter|ang|brēod}}
+
 ===Etymology===
 From {{inh|ang|gem-pro|*braudą}}, whence also {{cog|ofs|brād}} ({{cog|en|brea}}), {{cog|osx|brōd}} ({{cog|nds-de|Broot}}, {{m|nds-de|Brot}}), {{cog|nl|brood}}, {{cog|goh|brōt}} ({{cog|de|Brot}}), Old Norse and {{cog|is|brauð}} ({{cog|sv|bröd}}).
 
@@ -751,16 +754,25 @@ From {{inh|ang|gem-pro|*braudą}}, whence also {{cog|ofs|brād}} ({{cog|en|brea}
 * {{IPA|/bræːɑ̯d/|lang=ang}}
 
 ===Noun===
-{{ang-noun|n|head=brēad}}
+{{ang-noun|n|head=brēad|brēad|pl2=brēadru}}
 
-# [[bit]], [[piece]], [[morsel]]
-# [[bread#English|bread]] (foodstuff)
+# {{lb|ang|rare|chiefly|Northumbrian}} [[bit]], [[piece]], [[morsel]], [[crumb]]
+# {{lb|ang|rare|chiefly|Northumbrian}} [[bread#English|bread]] (foodstuff)
+
+====Inflection====
+{{ang-decl-noun|brēad|[[brēad]], [[brēadru]]|brēad|[[brēad]], [[brēadru]]|brēades|brēada|brēade|brēadum}}
+
+====Synonyms====
+* {{sense|bread}} {{l|ang|hlāf}}
 
 ====Derived terms====
 * {{l|ang|bēobrēad}}
+* {{l|ang|picgbrēad}}
 
 ====Descendants====
-* {{desc|en|bread}}
+* {{desc|enm|brede}}, {{l|enm|breed}}
+** {{desc|en|bread}}
+** {{desc|sco|brede}}, {{l|sco|breid}}, {{l|sco|braid}}
 
 [[Category:ang:Foods]]
 
