@@ -7,7 +7,7 @@
 * {{rhymes|əʊɡəʊ|lang=en}}
 
 ===Etymology 1===
-From {{w|Togoville}}, from {{etyl|ee|en}} {{m|ee|to||water}} + {{m|ee|go||shore}}.
+From {{w|Togoville}}, from {{der|en|ee|to|t=water}} + {{m|ee|go|t=shore}}.
 
 ====Proper noun====
 {{en-proper noun}}
@@ -19,23 +19,23 @@ From {{w|Togoville}}, from {{etyl|ee|en}} {{m|ee|to||water}} + {{m|ee|go||shore}
 * {{l|en|Subsahara}}
 
 =====Derived terms=====
-* {{l|en|Togolese}} (relating to the country)
+* {{l|en|Togolese|pos=relating to the country}}
 
 =====Translations=====
 {{trans-top|id=Q945|Togolese Republic}}
 * Adja: {{t-needed|ajg}}
 * Amharic: {{t|am|ቶጎ}}
 * Arabic: {{t|ar|تُوغُو|m|tr=tōḡō}}, {{t|ar|تُوجُو|m|tr=tōgō}}
-* Armenian: {{t|hy|Տոգո|sc=Armn}}
+* Armenian: {{t|hy|Տոգո}}
 * Azerbaijani: {{t+|az|Toqo}}
-* Belarusian: {{t|be|То́га|f|sc=Cyrl}}
-* Bengali: {{t|bn|টোগো|sc=Beng}}
+* Belarusian: {{t|be|То́га|f}}
+* Bengali: {{t|bn|টোগো}}
 * Breton: {{t|br|Togo}}
-* Bulgarian: {{t|bg|То́го|m|sc=Cyrl}}
+* Bulgarian: {{t|bg|То́го|m}}
 * Burmese: {{t|my|တိုဂို}}
 * Catalan: {{t+|ca|Togo}}
 * Chinese:
-*: Mandarin: {{t+|cmn|多哥|tr=Duōgē|sc=Hani}}
+*: Mandarin: {{t+|cmn|多哥|tr=Duōgē}}
 * Czech: {{t+|cs|Togo|n}}
 * Dagbani: {{t-needed|dag}}
 * Danish: {{t+|da|Togo}}
@@ -45,7 +45,7 @@ From {{w|Togoville}}, from {{etyl|ee|en}} {{m|ee|to||water}} + {{m|ee|go||shore}
 * Finnish: {{t+|fi|Togo}}
 * French: {{t+|fr|Togo|m}}
 * Gen: {{t-needed|gej}}
-* Georgian: {{t|ka|ტოგო|sc=Geor}}
+* Georgian: {{t|ka|ტოგო}}
 * German: {{t+|de|Togo|n}}
 * Greek: {{t+|el|Τόγκο|n}}
 * Hausa: {{t|ha|Togo}}
@@ -62,7 +62,7 @@ From {{w|Togoville}}, from {{etyl|ee|en}} {{m|ee|to||water}} + {{m|ee|go||shore}
 {{trans-mid}}
 * Korean: {{t|ko|^토고}}
 * Kyrgyz: {{t+|ky|Того}}
-* Lao: {{t|lo|ໂຕໂກ|sc=Laoo}}
+* Lao: {{t|lo|ໂຕໂກ}}
 * Latvian: {{t+|lv|Togo|f}}
 * Lithuanian: {{t+|lt|Togas|m}}
 * Luhya: {{t|luy|Togo}}
@@ -70,12 +70,12 @@ From {{w|Togoville}}, from {{etyl|ee|en}} {{m|ee|to||water}} + {{m|ee|go||shore}
 * Macedonian: {{t|mk|Того|n}}
 * Maori: {{t|mi|Toko}}
 * Mongolian: {{t+|mn|Того}}
-* Navajo: {{t|nv|Tʼóogo}}
+* Navajo: {{t|nv|Tʼóogo|sc=Latn}}
 * Norman: {{t|nrf|Togo|m}}
 * Norwegian:
 *: Bokmål: {{t+|nb|Togo}}
 *: Nynorsk: {{t+|nn|Togo}}
-* Persian: {{t|fa|توگو|tr=togo|sc=fa-Arab}}
+* Persian: {{t|fa|توگو|tr=togo}}
 * Polish: {{t+|pl|Togo}}
 * Portuguese: {{t+|pt|Togo}}
 * Romanian: {{t+|ro|Togo|n}}
@@ -102,7 +102,7 @@ From {{w|Togoville}}, from {{etyl|ee|en}} {{m|ee|to||water}} + {{m|ee|go||shore}
 * {{l|en|Appendix:Countries of the world|Countries of the world}}
 
 ===Etymology 2===
-After {{etyl|ja|en}} admiral {{w|Tōgō Heihachirō}}
+After {{der|en|ja|-}} admiral {{w|Tōgō Heihachirō}}
 
 ====Proper noun====
 {{en-proper noun}}
@@ -126,8 +126,10 @@ After {{etyl|ja|en}} admiral {{w|Tōgō Heihachirō}}
 # {{l|en|Togo}}
 
 ===Related terms===
-* [[tožský]]
-* [[Tožan]]
+{{rel2
+|tožský
+|Tožan
+|lang=cs}}
 
 ===Further reading===
 * {{R:SSJC}}
@@ -186,12 +188,14 @@ After {{etyl|ja|en}} admiral {{w|Tōgō Heihachirō}}
 # {{l|en|Togo}}
 
 ====Derived terms====
-* {{l|de|Togolese}}
-* {{l|de|Togolesin}}
-* {{l|de|togolesisch}}
-* {{l|de|Togoer}}
-* {{l|de|Togoerin}}
-* {{l|de|togoisch}}
+{{der4
+|Togolese
+|Togolesin
+|togolesisch
+|Togoer
+|Togoerin
+|togoisch
+|lang=de}}
 
 [[Category:de:Countries in Africa]]
 
@@ -280,8 +284,11 @@ After {{etyl|ja|en}} admiral {{w|Tōgō Heihachirō}}
 # {{l|en|Togo}}
 
 ====Derived terms====
-* [[Togijczyk]] {{g|m}}, [[Togijka]] {{g|f}}
-* adjective: [[togijski]]
+{{der3
+|{{l|pl|Togijczyk|g=m}}
+|{{l|pl|Togijka|g=f}}
+|{{l|pl|togijski}}
+|lang=pl}}
 
 [[Category:pl:Countries]]
 
@@ -324,7 +331,7 @@ After {{etyl|ja|en}} admiral {{w|Tōgō Heihachirō}}
 ==Tagalog==
 
 ===Etymology===
-From {{etyl|es|tl}} {{m|es|Togo||Togo}}.
+From {{bor|tl|es|Togo|t=Togo}}.
 
 ===Proper noun===
 {{head|tl|proper noun}}
