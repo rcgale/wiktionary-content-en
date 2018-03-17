@@ -59,15 +59,15 @@ From {{etyl|fr|en}} {{m|fr|zéro}}, from {{etyl|it|en}} {{m|it|zero}}, from {{de
 * Albanian: {{t+|sq|zero}}
 * Alutiiq: {{t-needed|ems}}
 * Amharic: {{t|am|ባዶ|sc=Ethi}}
-* Arabic: {{t|ar|صِفْر|m}}, {{qualifier|numeral}} {{t|ar|٠}}
+* Arabic: {{t|ar|صِفْر|m}}, {{qualifier|numeral}} {{t|ar|٠|tr=-}}
 *: Hijazi Arabic: {{t|acw|صفر|m|tr=ṣifir|sc=Arab}}
 * Aramaic: {{t|arc|ציפר|m|tr=ṣīpar|sc=Hebr}}
 * Armenian: {{t+|hy|զրո}}
-* Assamese: {{t|as|সূঞ|tr=sūnya|sc=Beng}}
+* Assamese: {{t|as|সূঞ}}
 * Asturian: {{t+|ast|cero}}
 * Azerbaijani: {{t+|az|sıfır}}
 * Belarusian: {{t|be|нуль|m}}
-* Bengali: {{t|bn|শূন্য|sc=Beng}}, {{qualifier|numeral}} {{t+|bn|০|sc=Beng}}
+* Bengali: {{t|bn|শূন্য}}, {{qualifier|numeral}} {{t+|bn|০|tr=-}}
 * Breton: {{t+|br|mann}}, {{t+|br|zero}}
 * Bulgarian: {{t+|bg|ну́ла|f}}
 * Burmese: {{t+|my|သုည|sc=Mymr}}
@@ -97,11 +97,11 @@ From {{etyl|fr|en}} {{m|fr|zéro}}, from {{etyl|it|en}} {{m|it|zero}}, from {{de
 * Georgian: {{t|ka|ნული|sc=Geor}}
 * German: {{t+|de|null}}, {{t+|de|Null|f}}, {{t+|de|zero}}, {{t|de|Zero}}
 * Greek: {{t+|el|μηδέν|n}}
-* Gujarati: {{t|gu|મીંડું|sc=Gujr}}, {{qualifier|numeral}} {{t|gu|૦|sc=Gujr}}, {{t+|gu|શૂન્ય|sc=Gujr}}
+* Gujarati: {{t|gu|મીંડું|sc=Gujr}}, {{qualifier|numeral}} {{t|gu|૦|tr=-}}, {{t+|gu|શૂન્ય|sc=Gujr}}
 * Hausa: {{t|ha|sifiri}}
 * Hawaiian: {{t|haw|ʻole}}
 * Hebrew: {{t+|he|אֶפֶס|m|tr=éffes|sc=Hebr}}
-* Hindi: {{t+|hi|शून्य|m}} (numeral: {{t|hi|०|sc=Deva}}), {{t|hi|ज़ीरो|sc=Deva}} {{qualifier|borrowing}}
+* Hindi: {{t+|hi|शून्य|m}} (numeral: {{t|hi|०|tr=-}}), {{t|hi|ज़ीरो|sc=Deva}} {{qualifier|borrowing}}
 * Hungarian: {{t+|hu|nulla}}, {{t+|hu|zéró}}
 * Icelandic: {{t+|is|núll}}
 * Ido: {{t+|io|zero}}
@@ -114,13 +114,13 @@ From {{etyl|fr|en}} {{m|fr|zéro}}, from {{etyl|it|en}} {{m|it|zero}}, from {{de
 * Karachay-Balkar: {{t|krc|ноль|tr=nol|sc=Cyrl}}
 * Karelian: {{t-needed|krl}}
 * Kazakh: {{t+|kk|нөл|sc=Cyrl}}
-* Khmer: {{t+|km|សូន្យ|tr=sōn|sc=Khmr}}, {{qualifier|numeral}} {{l|km|០}}
+* Khmer: {{t+|km|សូន្យ}}, {{qualifier|numeral}} {{l|km|០|tr=-}}
 * Korean: {{t+|ko|영}} ({{t+|ko|零}}), {{t+|ko|령}} ({{t+|ko|零}}) {{q|North Korea}}, {{t+|ko|공}}, {{t+|ko|제로}}
 * Krio: {{t|kri|ziro}}
 * Kurdish: {{t+|ku|sifir}}
 * Kyrgyz: {{t|ky|нөль|sc=Cyrl}}
 * Lakota: {{t|lkt|tákuni}}
-* Lao: {{t|lo|ສູນ|sc=Laoo}} (numeral: [[໐]])
+* Lao: {{t|lo|ສູນ|sc=Laoo}}, {{qualifier|numeral}} {{l|lo|໐|tr=-}}
 * Latin: {{t|la|zerum|n}}, {{t|la|nihilum|n}}, {{t|la|zephirum|m}} {{qualifier|Mediaeval}}
 * Latvian: {{t|lv|nulle|f}}
 * Ligurian: {{t|lij|zêro}}
@@ -136,7 +136,7 @@ From {{etyl|fr|en}} {{m|fr|zéro}}, from {{etyl|it|en}} {{m|it|zero}}, from {{de
 * Maltese: {{t+|mt|żero}}
 * Manx: {{t|gv|neunhee}}
 * Maori: {{t+|mi|kore}}
-* Mongolian: {{t+|mn|тэг|sc=Cyrl}} (classical Mongolian numeral: {{t|mn|᠐|sc=Mong}}), {{t+|mn|бинт|sc=Cyrl}}
+* Mongolian: {{t+|mn|тэг|sc=Cyrl}} (classical Mongolian numeral: {{t|mn|᠐|sc=Mong|tr=-}}), {{t+|mn|бинт|sc=Cyrl}}
 * Navajo: {{t|nv|ádin}}, {{t|nv|názbąs}}
 * Northern Sami: {{t|se|nolla}}
 * Norwegian:
@@ -146,18 +146,18 @@ From {{etyl|fr|en}} {{m|fr|zéro}}, from {{etyl|it|en}} {{m|it|zero}}, from {{de
 * Occitan: {{t|oc|zèro}}
 * Ojibwe: {{t|oj|waawiyebii'igan}}, {{t|oj|gaawiin gegoo}}
 * Old English: {{t|ang|nōwiht}}
-* Oriya: {{t|or|ଶୁନ୍ୟ|tr=śunẏa|sc=Orya}}
+* Oriya: {{t|or|ଶୁନ୍ୟ}}
 * Ottoman Turkish: {{t|ota|صفر|tr=sıfır|sc=ota-Arab}}
-* Persian: {{t+|fa|صِفر|tr=sefr|sc=fa-Arab}}, {{qualifier|numeral}} {{t|fa|۰|sc=fa-Arab}}
+* Persian: {{t+|fa|صِفر|tr=sefr|sc=fa-Arab}}, {{qualifier|numeral}} {{t|fa|۰|tr=-}}
 * Polish: {{t+|pl|zero|n}}
 * Portuguese: {{t+|pt|zero|m}}
-* Punjabi: {{t|pa|ਸਿਫ਼ਰ|sc=Guru}}, {{qualifier|numeral}} {{t|pa|੦|sc=Guru}}
+* Punjabi: {{t|pa|ਸਿਫ਼ਰ|sc=Guru}}, {{qualifier|numeral}} {{t|pa|੦|tr=-}}
 * Quechua: {{t|qu|ch'usaq}}
 * Rapa Nui: {{t|rap|kokore}}
 * Romanian: {{t+|ro|zero|n}}
 * Russian: {{t+|ru|нуль|m}}, {{t+|ru|ноль|m}}, {{qualifier|rare}} {{t+|ru|зеро́|n}}
 * Samoan: {{t+|sm|selo}}
-* Sanskrit: {{t+|sa|शून्य}}, {{qualifier|numeral}} {{t|sa|०}}
+* Sanskrit: {{t+|sa|शून्य|n}}, {{qualifier|numeral}} {{t|sa|०|tr=-}}
 * Scottish Gaelic: {{t|gd|neoni}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|нула|f}}
@@ -176,7 +176,7 @@ From {{etyl|fr|en}} {{m|fr|zéro}}, from {{etyl|it|en}} {{m|it|zero}}, from {{de
 * Tamil: {{t|ta|பூஜியம்|sc=Taml}}
 * Tatar: {{t+|tt|ноль|sc=Cyrl}}
 * Telugu: {{t+|te|సున్నా|sc=Telu}}, {{t+|te|శూన్యము|sc=Telu}}, {{qualifier|numeral}} {{t+|te|౦|sc=Telu}}
-* Thai: {{t+|th|ศูนย์}}, {{qualifier|numeral}} {{t+|th|๐}}
+* Thai: {{t+|th|ศูนย์}}, {{qualifier|numeral}} {{t+|th|๐|tr=-}}
 * Tibetan: {{t|bo|ཀླད་ཀོར|sc=Tibt}}
 * Tongan: {{t|to|noa}}
 * Turkish: {{t+|tr|sıfır}}
