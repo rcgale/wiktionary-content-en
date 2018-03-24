@@ -8,7 +8,750 @@
 ===Etymology 1===
 From {{inh|en|enm|langage}}, {{m|enm|language}}, from {{der|en|fro|language}}, from {{der|en|VL.|*linguāticum}}, from {{der|en|la|lingua||tongue, speech, language}}, from {{der|en|itc-ola|dingua||tongue}}, from {{der|en|ine-pro|*dn̥ǵʰwéh₂s||tongue, speech, language}}. Doublet of tongue. Displaced native {{cog|enm|rearde|rearde, ȝerearde|language}} (from {{cog|ang|reord||language, speech}}), {{cog|enm|londspeche|londspreche, londspeche|language}} (from {{cog|ang|*landsprǣċ||language, national tongue}}, {{cog|ang|þēod}} and {{m|ang|þēodisc||language}}.
 
-Kanuri
+====Noun====
+{{en-noun|~}}
+{{examples-right|
+The English Wiktionary uses the English '''language''' to define words from all of the world's '''languages'''.
+<br><br>
+[[File:Hello1.ogv|200px]]<br>This person is saying "hello" in American sign '''language'''.
+}}
+{{wikipedia}}
+
+# {{lb|en|countable}} A [[body]] of [[word]]s, and set of methods of combining them (called a [[grammar]]), understood by a [[community]] and used as a form of [[communication]].
+#: {{ux|en|The English '''language''' and the German '''language''' are related.}}
+#: {{ux|en|Deaf and mute people communicate using '''languages''' like [[ASL]].}}
+#* '''1867''', ''Report on the Systems of Deaf-Mute Instruction pursued in Europe'', quoted in '''1983''' in ''History of the College for the Deaf, 1857-1907'' {{ISBN|0913580856}}, page 240:
+#*: Hence the natural '''language''' of the mute is, in schools of this class, suppressed as soon and as far as possible, and its existence as a '''language''', capable of being made the reliable and precise vehicle for the widest range of thought, is ignored.
+#* {{quote-book|page=50|year=1900|author={{w|William Thomas Beckford|William Beckford}}
+|title=[http://books.google.com/books?id=KnArAAAAMAAJ The History of the Caliph Vathek]
+|passage=No '''language''' could express his rage and despair.}}
+#* '''2000''', Geary Hobson, ''The Last of the Ofos'' {{ISBN|0816519595}}, page 113:
+#*: Mr. Darko, generally acknowledged to be the last surviving member of the Ofo Tribe, was also the last remaining speaker of the tribe's '''language'''.
+# {{lb|en|uncountable}} The ability to communicate using words.
+#: {{ux|en|the gift of '''language'''}}
+# {{lb|en|uncountable}} The [[vocabulary]] and [[usage]] of a particular [[specialist]] [[field]].
+#: {{ux|en|legal '''language'''; &nbsp; the '''language''' of chemistry}}
+#* {{RQ:WBsnt IvryGt|chapter=Prologue|passage=Thus, when he drew up instructions in lawyer '''language''', he expressed the important words by an initial, a medial, or a final consonant, and made scratches for all the words between; his clerks, however, understood him very well.}}
+# {{lb|en|countable|uncountable}} The expression of thought (the communication of meaning) in a specified way.
+#: {{ux|en|body '''language'''; &nbsp; the '''language''' of the eyes}}
+#* '''2001''', Eugene C. Kennedy, Sara C. Charles, ''On Becoming a Counselor'' {{ISBN|0824519132}}:
+#*: A tale about themselves [is] told by people with help from the universal '''languages''' of their eyes, their hands, and even their shirting feet.
+# {{lb|en|countable|uncountable}} A body of sounds, signs and/or signals by which animals communicate, and by which plants are sometimes also thought to communicate.
+#* '''1983''', ''The Listener'', volume 110, page 14:
+#*: A more likely hypothesis was that the attacked leaves were transmitting some airborne chemical signal to sound the alarm, rather like insects sending out warnings {{...}} But this is the first time that a plant-to-plant '''language''' has been detected.
+#* '''2009''', ''Animals in Translation'', page 274:
+#*: Prairie dogs use their '''language''' to refer to real dangers in the real world, so it definitely has meaning.
+# {{lb|en|computing|countable}} A [[computer language]]; a [[machine language]].
+#* '''2015''', Kent D. Lee, ''Foundations of Programming Languages'' {{ISBN|3319133144}}, page 94:
+#*: In fact pointers are called references in these '''languages''' to distinguish them from pointers in '''languages''' like C and C++.
+# {{lb|en|uncountable}} [[manner|Manner]] of [[expression]].
+#* {{rfdate}} Cowper:
+#*: Their '''language''' simple, as their manners meek, {{...}}
+# {{lb|en|uncountable}} The particular words used in a [[speech]] or a [[passage]] of [[text]].
+#: {{ux|en|The '''language''' used in the law does not permit any other interpretation.}}
+#: {{ux|en|The '''language''' he used to talk to me was obscene.}}
+# {{lb|en|uncountable}} [[profanity|Profanity]].
+#* {{quote-book|page=500|year=1978|author=James Carroll
+|title=[http://books.google.com/books?id=Nbl6vw3uieoC Mortal Friends]|isbn=0440157897
+|passage="Where the hell is Horace?" ¶ "There he is. He's coming. You shouldn't use '''language'''."}}
+
+=====Synonyms=====
+* {{sense|form of communication}} {{l|en|tongue}}, {{l|en|speech}} {{qualifier|spoken language}}; [[leid]] {{qualifier|Scottish}}, see also [[Thesaurus:language]]
+* {{sense|vocabulary of a particular field}} {{l|en|lingo}} {{qualifier|colloquial}}, [[jargon]], [[terminology]], [[phraseology]], [[parlance]], see also [[Thesaurus:jargon]]
+* {{sense|computer language}} {{l|en|computer language}}, {{l|en|programming language}}, {{l|en|machine language}}
+* {{sense|particular words used}} {{l|en|phrasing}}, {{l|en|wording}}, {{l|en|terminology}}; [[talk]] {{qualifier|spoken words used}}, see also [[Thesaurus:wording]]
+
+=====Hypernyms=====
+* {{l|en|medium}}
+
+=====Hyponyms=====
+* See [[:Category:en:Languages]]
+{{hyp4|lang=en|title=linguistics: Hypnonyms of ''language'' (kinds)
+|artificial language
+|auxiliary language
+|bad language
+|body language
+|common language
+|[[computer language|computer]]/[[computing language]]
+|constructed language
+|dead language
+|endangered language
+|engineered language
+|everyday language
+|experimental language
+|extinct language
+|foreign language
+|formal language
+|foul language
+|global language
+|hardware description language
+|indigenous language
+|international language
+|link language
+|literary language
+|living language
+|logical language
+|machine language
+|meta language
+|main language
+|mathematical language
+|metaphorical language
+|minority language
+|modern language
+|multi-paradigm language
+|natural language
+|object language
+|pattern language
+|philosophical language
+|phonetic language
+|planned language
+|principal language
+|private language
+|programming language
+|scripting language
+|secular language
+|sign language
+|spoken language
+|standard language
+|subject-oriented language
+|target language
+|universal language
+|vehicular language
+|vernacular language
+|working language
+|world language
+}}
+{{hyp4|lang=en|title=linguistics: Hypnonyms of ''language'' (types)
+|active-stative language
+|agglutinative language
+|analytic language
+|direct-inverse language
+|E-language<!--Chomsky-->
+|ergative-absolutive language
+|I-language<!--Chomsky-->
+|isolating language
+|nominative-accusative language
+|oligosynthetic language
+|OV language
+|polysynthetic language
+|synthetic language
+|tripartite language
+|VO language
+}}
+
+=====Derived terms=====
+{{der4|lang=en
+|English-language
+|German-language
+|interlanguage
+|language barrier
+|language code
+|language cop
+|language death
+|language extinction
+|language family
+|language lab
+|language laboratory
+|language model
+|language of education
+|language of flowers
+|language planning
+|language police
+|language pollution
+|language processing
+|language school
+|language shift
+|language technology
+|language transfer
+|languaging
+|mind one's language
+|speak someone's language
+|speak the same language
+|Turkish-language
+}}
+
+=====Related terms=====
+{{rel4|lang=en
+|langue<!--English word-->
+|lingua franca
+|lingua
+|linguine
+|linguistics
+|tonguage
+}}
+
+=====Translations=====
+{{trans-top|body of words used as a form of communication}}
+* Abaza: {{t|abq|бызшва}}
+* Abkhaz: {{t|ab|абызшәа|sc=Cyrl}} {{qualifier|definite}}, {{t|ab|бызшәа|sc=Cyrl}} {{qualifier|indefinite}}
+* Acehnese: {{t-simple|ace|bahsa|langname=Acehnese}}
+* Adyghe: {{t|ady|бзэ|sc=Cyrl}}
+* Afrikaans: {{t-simple|af|taal|langname=Afrikaans|interwiki=1}}
+* Ainu: {{t|ain|イタㇰ|tr=itak}}
+* Akkadian: {{t|akk|𒅴|tr=lišānu|sc=Xsux}}
+* Albanian: {{t+|sq|gjuhë|f}}
+* Alviri-Vidari: {{t|avd|زووان|tr=zuvān}}
+* Amharic: {{t|am|ቋንቋ}}, {{t|am|ልሳን}}
+* Arabic: {{t+|ar|لُغَة|f}}, {{t|ar|لِسَان|m|f}}
+*: Egyptian Arabic: {{t|arz|لغة|f|tr=loḡa|sc=Arab}}
+*: Hijazi Arabic: {{t|acw|لُغَة|f|tr=luḡa|sc=Arab}}
+*: Moroccan Arabic: {{t|ary|lougha}}
+* Aragonese: {{t|an|luenga|f}}, {{t|an|idioma|m}}
+* Aramaic:
+*: Hebrew: {{t|arc|לשנא|m|tr=lišānā’|sc=Hebr}}
+*: Syriac: {{t|arc|ܠܫܢܐ|m|tr=lišānā’|sc=Syrc}}
+* Archi: {{t|aqc|чӏат|tr=č̣at}}
+* Armenian: {{t+|hy|լեզու}}
+* Aromanian: {{t-simple|rup|limbã|langname=Aromanian|interwiki=1}}
+* Assamese: {{t|as|ভাষা|sc=Beng}}
+* Asturian: {{t+|ast|idioma|m}}, {{t+|ast|llingua|f}}
+* Avar: {{t|av|мацӏ|sc=Cyrl}}
+* Avestan: {{t|ae|𐬵𐬌𐬰𐬎𐬎𐬁}}
+* Azerbaijani: {{t-simple|az|dil|langname=Azerbaijani|interwiki=1}}
+* Badaga: {{t|bfq|பாஷை|tr=pāṣai}}
+* Balinese: {{t|ban|ᬩᬲ|tr=basa|sc=Bali}}
+* Baluchi: {{t|bal|زبان}}, {{t|bal|زوان|tr=zawán}}
+* Banjarese: {{t-simple|bjn|basa|langname=Banjarese}}
+* Bashkir: {{t|ba|тел|sc=Cyrl}}
+* Basque: {{t-simple|eu|hizkuntza|langname=Basque|interwiki=1}}
+* Belarusian: {{t+|be|мо́ва|f}}
+* Bengali: {{t+|bn|ভাষা}}
+* Breton: {{t-simple|br|yezh|langname=Breton|interwiki=1}}
+* Budukh: {{t|bdk|мез|tr=mez|sc=Cyrl}}
+* Bulgarian: {{t+|bg|ези́к|m}}
+* Burmese: {{t+|my|ဘာသာစကား}}, {{t+|my|စကား}}, {{t+|my|ဘာသာ}}
+* Buryat: {{t|bua|хэлэн}}
+* Catalan: {{t+|ca|idioma|m}}, {{t+|ca|llengua|f}}
+* Central Dusun: {{t-simple|dtp|boros|langname=Central Dusun}}
+* Chechen: {{t|ce|мотт|sc=Cyrl}}
+* Cherokee: {{t|chr|ᎦᏬᏂᎯᏍᏗ}}
+* Chinese:
+*: Cantonese: {{t|yue|語言|sc=Hani}}, {{t|yue|语言|tr=jyu5 jin4|sc=Hani}}
+*: Dungan: {{t|dng|йүян|sc=Cyrl}}, {{t|dng|янйү}}, {{t|dng|йү}}, {{t|dng|хуа}}
+*: Hakka: {{t|hak|語言|sc=Hani}}, {{t|hak|语言|tr=ngî-ngièn|sc=Hani}}
+*: Mandarin: {{t+|cmn|語言|sc=Hani}}, {{t+|cmn|语言|tr=yǔyán|sc=Hani}}, {{t+|cmn|話}}, {{t+|cmn|话|tr=huà}}
+*: Min Dong: {{t|cdo|語言|sc=Hani}}, {{t|cdo|语言|tr=ngṳ̄-ngiòng|sc=Hani}}
+*: Min Nan: {{t+|nan|語言|sc=Hani}}, {{t|nan|语言|tr=gí-giân, gú-giân|sc=Hani}}
+*: Wu: {{t|wuu|語言|sc=Hani}}, {{t|wuu|语言|tr=nyy hhi|sc=Hani}}
+* Chuvash: {{t|cv|чӗлхе|sc=Cyrl}}
+* Cia-Cia: {{t-simple|cia|bahasa|langname=Cia-Cia}}
+* Coptic: {{t|cop|ⲗⲁⲥ|tr=las|sc=Copt}}
+* Cornish: {{t-simple|kw|yeth|langname=Cornish}}
+* Corsican: {{t-simple|co|lingua|langname=Corsican|interwiki=1}}
+* Crimean Tatar: {{t-simple|crh|til|langname=Crimean Tatar}}
+* Czech: {{t+|cs|jazyk|m}}, {{t+|cs|řeč|f}}
+* Dalmatian: {{t|dlm|langa|f}}
+* Danish: {{t+|da|sprog|n}}, {{t-simple|da|mål|langname=Danish|interwiki=1}}, {{t+|da|tunge|c}}
+* Dargwa: {{t|dar|мез|sc=Cyrl}}
+* Dhivehi: {{t+|dv|ބަސް|sc=Thaa}}
+* Dolgan: {{t|dlg|тыл|tr=tıl|sc=Cyrl}}
+* Dusner: {{t-simple|dsn|nandwort|langname=Dusner}}
+* Dutch: {{t+|nl|taal|f}}, {{t+|nl|spraak|f}}, {{t+|nl|tong|f}}
+* Eblaite: {{t|xeb|𐎍𐎌𐎐|tr=li-sa-nu/lišānu(m)}}
+* Erzya: {{t|myv|кель}}
+* Esperanto: {{t-simple|eo|lingvo|langname=Esperanto|interwiki=1}}
+* Estonian: {{t-simple|et|keel|langname=Estonian|interwiki=1}}
+* Faroese: {{t|fo|mál|n}}, {{t|fo|tungumál|n}}
+* Fiji Hindi: {{t-simple|hif|bhasa|langname=Fiji Hindi}}
+* Fijian: {{t-simple|fj|vosa|langname=Fijian}}
+* Finnish: {{t-simple|fi|kieli|langname=Finnish|interwiki=1}}
+* French: {{t+|fr|langue|f}}
+*: Middle French: {{t|frm|langue|f}}
+*: Old French: {{t|fro|langue|f}}
+* Friulian: {{t|fur|lenghe|f}}
+* Fula: {{t|ff|ɗemŋgal}} {{qualifier|Pulaar dialect}}
+* Gagauz: {{t-simple|gag|dil|langname=Gagauz}}
+* Galician: {{t+|gl|lingua|f}}, {{t|gl|idioma|m}}, {{t+|gl|fala|f}}
+* Garhwali: {{t|gbm|भाख}}
+* Ge'ez: {{t|gez|ልስሳን|tr=lǝssan|sc=Ethi}}
+* Georgian: {{t+|ka|ენა}}
+* German: {{t+|de|Sprache|f}}
+* Gilaki: {{t|glk|زوان}}
+* Gilbertese: {{t-simple|gil|taetae|langname=Gilbertese}}
+* Gothic: {{t|got|𐍂𐌰𐌶𐌳𐌰|f|sc=Goth}}
+* Greek:
+*: Ancient: {{t|grc|γλῶσσα|f}}, {{t|grc|γλῶττα|f}}
+*: Modern: {{t+|el|γλώσσα|f}}
+* Guaraní: {{t|gn|ñe'ẽ}}
+* Gujarati: {{t+|gu|ભાષા}}
+* Gurani: {{t|hac|زوان}}
+* Hausa: {{t-simple|ha|harshe|langname=Hausa|interwiki=1}}
+* Hawaiian: {{t|haw|‘ōlelo}}
+* Hebrew: {{t+|he|לָשׁוֹן|f|tr=lashón}}, {{t+|he|שָׂפָה|f|tr=safá}}
+* Hindi: {{t+|hi|भाषा|f}}, {{t|hi|ज़बान|f}}, {{t+|hi|बोली}}
+* Hungarian: {{t-simple|hu|nyelv|langname=Hungarian|interwiki=1}}
+* Iban: {{t-simple|iba|jaku|langname=Iban}}
+* Icelandic: {{t+|is|mál|n}}, {{t+|is|tungumál|n}}, {{t+|is|tunga|f}}
+* Ido: {{t-simple|io|linguo|langname=Ido|interwiki=1}}
+* Indonesian: {{t-simple|id|bahasa|langname=Indonesian|interwiki=1}}
+* Ingrian: {{t-simple|izh|keel|langname=Ingrian}}
+* Ingush: {{t|inh|мотт|sc=Cyrl}}
+* Interlingua: {{t-simple|ia|lingua|langname=Interlingua}}, {{t-simple|ia|linguage|langname=Interlingua}}
+* Irish: {{t+|ga|teanga|f}}
+* Isan: {{t|tts|ภาษา|tr=phasa|sc=Thai}}
+* Istriot: {{t|ist|lèngua|f}}, {{t|ist|lengua|f}}, {{t|ist|laèngua|f}}
+* Istro-Romanian: {{t|ruo|limbĕ|f}}
+* Italian: {{t+|it|lingua|f}}
+* Japanese: {{t+|ja|言葉|tr=ことば, kotoba}}, {{t+|ja|言語|tr=げんご, gengo}}
+* Javanese: {{t-simple|jv|basa|langname=Javanese}}
+* Kabardian: {{t|kbd|бзэ|sc=Cyrl}}
+* Kalmyk: {{t|xal|келн}}
+* Kannada: {{t+|kn|ಭಾಷೆ}}
+* Kanuri: {{t-simple|kr|tǝlam|langname=Kanuri}}
+* Karachay-Balkar: {{t|krc|тил|tr=til|sc=Cyrl}}
+* Karakalpak: {{t-simple|kaa|til|langname=Karakalpak}}
+* Karelian: {{t-simple|krl|kieli|langname=Karelian}}
+* Karok: {{t-simple|kyh|hih|langname=Karok}}
+* Kashubian: {{t-simple|csb|jãzëk|langname=Kashubian}}
+* Kazakh: {{t+|kk|тіл|sc=Cyrl}}
+* Ket: {{t|ket|ӄаʼ|tr=qaʔ|sc=Cyrl}}
+* Khakas: {{t|kjh|тіл}}
+* Khanty:
+*: Kazym: {{t|kca|ясӑӈ}}
+*: Shuryshkar: {{t|kca|ясaӈ}}
+*: Surgut: {{t|kca|няԓәм ҷӓв}}
+* Khmer: {{t+|km|ភាសា}}
+* Khün: {{t|kkh|ᨽᩣᩈᩣ|sc=Lana}}
+* Komi-Permyak: {{t|koi|кыв}}
+* Komi-Zyrian: {{t|kpv|кыв|sc=Cyrl}}
+* Konkani: {{t|kok|भास}}, {{t|kok|bhas}}
+* Korean: {{t+|ko|언어}} ({{t+|ko|言語}}), {{t+|ko|말}}
+* Koryak: {{t|kpy|йилыйил|tr=yiləyil|sc=Cyrl}}
+* Krisa: {{t-simple|ksi|iasg|langname=Krisa}}
+* Kumyk: {{t|kum|тил|tr=til|sc=Cyrl}}
+* Kurdish:
+*: Kurmanji: {{t+|ku|ziman}}
+*: Sorani: {{t|ckb|زمان|sc=ku-Arab}}
+* Kyrgyz: {{t+|ky|тил|sc=Cyrl}}
+* Ladin: {{t-simple|lld|lingaz|langname=Ladin}}, {{t|lld|rujneda|f}}
+* Ladino: {{t-simple|lad|lengua|langname=Ladino}}, {{t-simple|lad|lingua|langname=Ladino}}, {{t-simple|lad|lashon|langname=Ladino}}, {{t|lad|לינגוה}}
+* Laki: {{t|lki|زوان}}
+* Lakota: {{t-simple|lkt|iyapi|langname=Lakota}}
+* Lao: {{t+|lo|ພາສາ|sc=Laoo}}
+* Latgalian: {{t|ltg|volūda|f}}
+* Latin: {{t+|la|lingua|f}}
+* Latvian: {{t+|lv|valoda|f}}
+* Laz: {{t|lzz|ნენა}}
+* Lezgi: {{t|lez|чӀал}}
+* Limburgish: {{t+|li|taol|f}}
+* Lingala: {{t-simple|ln|lokóta|langname=Lingala|interwiki=1}}
+* Lithuanian: {{t+|lt|kalba|f}}
+{{trans-mid}}
+* Lojban: {{t-simple|jbo|bangu|langname=Lojban}}
+* Lule Sami: {{t-simple|smj|giella|langname=Lule Sami}}
+* Luxembourgish: {{t+|lb|Sprooch|f}}
+* Lü: {{t-needed|khb}}
+* Macedonian: {{t+|mk|ја́зик|m}}
+* Makassar Malay: {{t|mfp|ᨅᨔ|tr=basa|sc=Bugi}}
+* Malay: {{t-simple|ms|bahasa|langname=Malay|interwiki=1}}
+* Malayalam: {{t+|ml|ഭാഷ|sc=Mlym}}
+* Maltese: {{t-simple|mt|lingwa|langname=Maltese|interwiki=1}}, {{t-simple|mt|ilsien|langname=Maltese}}
+* Manchu: {{t|mnc|ᡤᡳᠰᡠᠨ}}
+* Manx: {{t|gv|çhengey|f}}
+* Maori: {{t-simple|mi|reo|langname=Maori|interwiki=1}}
+* Maranao: {{t-simple|mrw|basa|langname=Maranao}}
+* Marathi: {{t+|mr|भाषा}}
+* Mari: {{t|chm|йылме}}
+*: Eastern Mari: {{t|chm|йылме}}
+*: Western Mari: {{t|mrj|йылме|tr=jylme}}
+* Maricopa: {{t-simple|mrc|chuukwer|langname=Maricopa}}
+* Mazanderani: {{t|mzn|زوون}}
+* Middle High German: {{t|gmh|sprāche|f}}
+* Middle Persian: {{t-simple|pal|uzvān|langname=Middle Persian}}
+* Minangkabau: {{t-simple|min|baso|langname=Minangkabau}}
+* Mingrelian: {{t|xmf|ნინა}}
+* Mirandese: {{t|mwl|lhéngua|f}}
+* Mizo: {{t-simple|lus|ṭawng|langname=Mizo}}
+* Moksha: {{t|mdf|кяль}}
+* Mongolian: {{t+|mn|хэл|sc=Cyrl}}
+*: Uyghurjin: {{t|mn|ᠬᠡᠯᠡ|tr=hele|sc=Mong}}
+* Muong: {{t-simple|mtq|thiểng|langname=Muong}}
+* Nahuatl: {{t-simple|nah|tlahtōlli|langname=Nahuatl|interwiki=1}}
+* Nauruan: {{t-simple|na|langue|langname=Nauruan|interwiki=1}}, {{t-simple|na|edorer|langname=Nauruan|interwiki=1}}, {{t-simple|na|ekakairũ|langname=Nauruan}}
+* Navajo: {{t-simple|nv|saad|langname=Navajo}}
+* Nepali: {{t+|ne|भाषा|sc=Deva}}
+* Ngazidja Comorian: {{t-simple|zdj|lugha|langname=Ngazidja Comorian}}
+* Nogai: {{t|nog|тил|sc=Cyrl}}
+* Northern Sami: {{t-simple|se|giella|langname=Northern Sami}}
+* Northern Thai: {{t|nod|ᨽᩣᩇᩣ|tr=pʰāːsǎː|sc=Lana}}
+* Norwegian:
+*: Bokmål: {{t+|nb|språk|n}}, {{t|nb|talemål|n}} {{q|oral only}}, {{t+|nb|tunge|f}}, {{t+|nb|tungemål|n}}
+*: Nynorsk: {{t+|nn|språk|n}}, {{t|nn|talemål|n}} {{q|oral only}}, {{t+|nn|tunge|f}}, {{t|nn|tungemål|n}}
+* Novial: {{t-simple|nov|lingue|langname=Novial}}
+* O'odham: {{t-simple|ood|ñiok|langname=O'odham}}
+* Occitan: {{t+|oc|lenga|f}}
+* Ojibwe: {{t-simple|oj|inwewin|langname=Ojibwe}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|ѩзꙑкъ|m|sc=Cyrl}}
+*: Glagolitic: {{t|cu|ⱗⰸⱏⰹⰽⱏ|m|sc=Cyrs}}
+* Old East Slavic: {{t|orv|ꙗзꙑкъ|m}}
+* Old English: {{t|ang|sprǣċ|f}}, {{t|ang|spǣċ|f}}, {{t|ang|reord|f}}, {{t|ang|tunge|f}}, {{t|ang|leoden|n}}, {{t|ang|þeodisc|n}}
+* Old High German: {{t|goh|sprāhha|f}}
+* Old Norse: {{t|non|mál|n}}, {{t|non|tunga|f}}
+* Old Occitan: {{t-simple|pro|lengaje|langname=Old Occitan}}
+* Old Saxon: {{t|osx|sprāka|f}}
+* Oriya: {{t+|or|ଭାଷା}}
+* Oromo: {{t-simple|om|afaan|langname=Oromo|interwiki=1}}
+* Ossetian: {{t|os|ӕвзаг|sc=Cyrl}}
+* Pashto: {{t+|ps|ژبه|f|tr=žëba|sc=ps-Arab}}
+* Pennsylvania German: {{t-simple|pdc|Schprooch|langname=Pennsylvania German}}
+* Persian: {{t+|fa|زبان|tr=zabân}}
+* Pitcairn-Norfolk: {{t-simple|pih|laenghwij|langname=Pitcairn-Norfolk}}
+* Polish: {{t+|pl|język|m-in}}, {{t+|pl|mowa|f}}
+* Portuguese: {{t+|pt|idioma|m}}, {{t+|pt|língua|f}}
+* Punjabi: {{t|pa|ਬੋੱਲੀ}}, {{t|pa|ਜ਼ਬਾਨ}}, {{t|pa|ਭਾਸ਼ਾ}}
+* Quechua:
+*: Ecuadorian Kichwa: {{t+|qu|rimay}}, {{t|qu|shimi}}
+*: Southern Quechua: {{t+|qu|rimay}}, {{t+|qu|simi}}
+* Rajasthani: {{t-needed|raj}}
+* Rapa Nui: {{t-simple|rap|reo|langname=Rapa Nui}}
+* Rarotongan: {{t-simple|rar|reo|langname=Rarotongan}}
+* Romanian: {{t+|ro|limbă|f}}
+* Romansch: {{t-simple|rm|linguatg|langname=Romansch}}
+* Russian: {{t+|ru|язы́к|m}}, {{t+|ru|речь|f}}
+* Rusyn: {{t|rue|бесї́да|f|sc=Cyrl}}, {{t|rue|язы́к|m|sc=Cyrl}}
+* Rwanda-Rundi: {{t-simple|rw|urumini|langname=Rwanda-Rundi}}
+* Sabaean: {{t|xsa|𐩡𐩪𐩬|tr=lsn}}
+* Samoan: {{t-simple|sm|gagana|langname=Samoan}}
+* Samogitian: {{t-simple|sgs|kalba|langname=Samogitian}}
+* Sango: {{t-simple|sg|sarä|langname=Sango|interwiki=1}}, {{t-simple|sg|mëngä|langname=Sango|interwiki=1}}, {{t-simple|sg|yângâködörö|langname=Sango|interwiki=1}}
+* Sanskrit: {{t+|sa|भाषा|f}}
+* Santali: {{t|sat|ᱨᱳᱲ|tr=rorr|sc=Olck}}
+* Sardinian: {{l|sc|limbàlzu}}
+* Scots: {{t-simple|sco|leid|langname=Scots}}
+* Scottish Gaelic: {{t|gd|cànan|m}}, {{t|gd|cainnt|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|језик|m|sc=Cyrl}}
+*: Roman: {{t+|sh|jezik|m}}
+* Shan: {{t|shn|ၽႃႇသႃႇ|sc=Mymr}}
+* Shor: {{t|cjs|тил|tr=til|sc=Cyrl}}
+* Sicilian: {{t+|scn|lingua|f}}
+* Silesian: {{t|szl|godka|f}}, {{t|szl|gŏdka|f}}
+* Sindhi: {{t|sd|زبان|f|tr=zuban|sc=sd-Arab}}
+* Sinhalese: {{t+|si|භාෂාව}}
+* Skolt Sami: {{t-simple|sms|ǩiõll|langname=Skolt Sami}}
+* Slovak: {{t+|sk|jazyk|m}}
+* Slovene: {{t+|sl|jêzik|m}}
+* Somali: {{t-simple|so|af|langname=Somali|interwiki=1}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|rěc|f}}
+*: Upper Sorbian: {{t+|hsb|rěč|f}}
+* Sotho: {{t-simple|st|puo|langname=Sotho|interwiki=1}}
+* Southern Altai: {{t|alt|тил|tr=til|sc=Cyrl}}
+* Southern Sami: {{t-simple|sma|gïele|langname=Southern Sami}}
+* Spanish: {{t+|es|lengua|f}}, {{t+|es|idioma|m}}
+* Sundanese: {{t-simple|su|basa|langname=Sundanese|interwiki=1}}
+* Svan: {{t|sva|ნინ|sc=Geor}}
+* Swahili: {{t-simple|sw|lugha|langname=Swahili|interwiki=1}}, {{t|sw|ki-}} {{qualifier|noun prefix 7}}
+* Swedish: {{t+|sv|språk|n}}, {{t+|sv|tungomål|n}}
+* Tagalog: {{t-simple|tl|wika|langname=Tagalog|interwiki=1}}, {{t-simple|tl|lengguwa|langname=Tagalog}}, {{t-simple|tl|idyoma|langname=Tagalog}}
+* Tahitian: {{t-simple|ty|reo|langname=Tahitian}}
+* Tai Dam: {{t-needed|blt}}
+* Tajik: {{t+|tg|забон|sc=Cyrl}}
+* Talysh: {{t-simple|tly|zıvon|langname=Talysh}}
+* Tamil: {{t+|ta|மொழி}}, {{t+|ta|பாசை}}
+* Tat: {{t-simple|ttt|zuhun|langname=Tat}}
+* Tatar: {{t+|tt|тел|sc=Cyrl}}
+* Telugu: {{t+|te|భాష}}
+* Tetum: {{t-simple|tet|língua|langname=Tetum}}
+* Thai: {{t+|th|ภาษา}}
+* Tibetan: {{t|bo|སྐད|sc=Tibt}}
+* Tigre: {{t|tig|ልሳን|tr=ləsan|sc=Ethi}}
+* Tigrinya: {{t|ti|ልሳን|sc=Ethi}}
+* Tongan: {{t|to|lea faka}}
+* Turkish: {{t-simple|tr|dil|langname=Turkish|interwiki=1}}, {{qualifier|obsolete}} {{t-simple|tr|lisan|langname=Turkish|interwiki=1}}
+* Turkmen: {{t-simple|tk|dil|langname=Turkmen|interwiki=1}}
+* Tuvan: {{t|tyv|дыл|sc=Cyrl}}
+* Uab Meto: {{t-simple|aoz|uab|langname=Uab Meto}}
+* Udmurt: {{t|udm|кыл}}
+* Ugaritic: {{t|uga|𐎍𐎌𐎐|tr=lšn/lašānu|sc=Ugar}}
+* Ukrainian: {{t+|uk|мо́ва|f}}
+* Urdu: {{t+|ur|زبان|f|tr=zabān}}, {{t|ur|بھاشا|f|tr=bhāṣā}}, {{t|ur|بولی|tr=bōlī}}
+* Uyghur: {{t+|ug|تىل|sc=ug-Arab}}
+* Uzbek: {{t+|uz|til}}, {{t+|uz|zabon}}
+* Venetian: {{t|vec|łéngua|f}}
+* Vietnamese: {{t+|vi|tiếng}}, {{t+|vi|ngôn ngữ}}, {{t+|vi|tiếng nói}} {{qualifier|verbal}}
+* Volapük: {{t-simple|vo|pük|langname=Volapük|interwiki=1}}
+* Votic: {{t-simple|vot|tšeeli|langname=Votic}}
+* Võro: {{t-simple|vro|kiil|langname=Võro}}
+* Walloon: {{t-simple|wa|lingaedje|langname=Walloon|interwiki=1}}
+* Welsh: {{t+|cy|iaith|f}}
+* West Frisian: {{t-simple|fy|taal|langname=West Frisian|interwiki=1}}
+* White Hmong: {{t-simple|mww|lus|langname=White Hmong}}, {{t|mww|hom lus}}
+* Wolof: {{t-simple|wo|làkk|langname=Wolof|interwiki=1}}, {{t-simple|wo|kàllaama|langname=Wolof|interwiki=1}}, {{t-simple|wo|lammiñ|langname=Wolof}}
+* Xhosa: {{t-simple|xh|ulwimi|langname=Xhosa}}
+* Yaeyama: {{t|rys|物言|tr=むに, muni}}
+* Yakut: {{t|sah|тыл|sc=Cyrl}}
+* Yiddish: {{t+|yi|לשון|n|tr=loshn}}, {{t+|yi|שפּראַך|f}}
+* Yonaguni: {{t|yoi|物言|tr=むぬい, munui}}
+* Yoruba: {{t-simple|yo|èdè|langname=Yoruba}}
+* Yup'ik: {{t-simple|esu|qaneryaraq|langname=Yup'ik}}
+* Zazaki: {{t-simple|zza|zon|langname=Zazaki}}, {{t-simple|zza|zowan|langname=Zazaki}}, {{t-simple|zza|zewan|langname=Zazaki}}, {{t-simple|zza|zıwan|langname=Zazaki}}
+* Zhuang: {{t-simple|za|vah|langname=Zhuang}}
+* Zulu: {{t+|zu|ulimi|c11|c10}}
+* ǃXóõ: {{t-simple|nmn|ǂàã|langname=ǃXóõ}}
+{{trans-bottom}}
+
+{{trans-top|the ability to communicate using words}}
+* Afrikaans: {{t-simple|af|spraak|langname=Afrikaans}}
+* Archi: {{t|aqc|чӏат|tr=č̣at}}
+* Armenian: {{t+|hy|լեզու}}
+* Belarusian: {{t+|be|мова|f|tr=móva}}
+* Bulgarian: {{t+|bg|език|m|tr=ezík}}
+* Catalan: {{t+|ca|llenguatge|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|語言|sc=Hani}}, {{t+|cmn|语言|tr=yǔyán|sc=Hani}}
+* Czech: {{t+|cs|jazyk|m}}, {{t+|cs|řeč|f}}
+* Danish: {{t-simple|da|sprogbeherskelse|langname=Danish}}
+* Dutch: {{t+|nl|taal|f}}, {{t+|nl|spraak|f}}
+* Esperanto: {{t-simple|eo|lingvo|langname=Esperanto|interwiki=1}}
+* Faroese: {{t|fo|málførleiki|m}}
+* Finnish: {{t-simple|fi|kieli|langname=Finnish|interwiki=1}}, {{t-simple|fi|puhe|langname=Finnish|interwiki=1}}
+* French: {{t+|fr|langage|m}}
+* Friulian: {{t|fur|lengaç|m}}
+* Galician: {{t+|gl|fala|f}}, {{t|gl|linguaxe|f}}
+* German: {{t+|de|Sprache|f}}
+* Greek: {{t+|el|λόγος|m}}, {{t+|el|ομιλία|f}}
+* Italian: {{t-simple|it|lingua|langname=Italian|interwiki=1}}, {{t-simple|it|linguaggio|langname=Italian|interwiki=1}}
+* Japanese: {{t+|ja|言語|tr=gengo|sc=Jpan}}
+* Khmer: {{t+|km|ភាសា|tr=pʰiesaa}}
+* Ladin: {{t-simple|lld|lingaz|langname=Ladin}}
+* Latvian: {{t+|lv|valoda|f}}
+* Lithuanian: {{t+|lt|kalba|f}}
+* Macedonian: {{t|mk|говор|m|tr=góvor}}
+{{trans-mid}}
+* Mizo: {{t-simple|lus|ṭawng|langname=Mizo}}
+* Navajo: {{t-simple|nv|saad|langname=Navajo}}
+* Norwegian:
+*: Bokmål: {{t|nb|taleevne|m|f}}
+*: Nynorsk: {{t|nn|taleeve|f}}
+* Novial: {{t-simple|nov|lingue|langname=Novial}}
+* Occitan: {{t-simple|oc|lengatge|langname=Occitan|interwiki=1}}
+* Polish: {{t+|pl|mowa|f}}
+* Portuguese: {{t+|pt|língua|f}}, {{t+|pt|linguagem|f}}
+* Romanian: {{t+|ro|vorbire|f}}, {{t+|ro|limbaj|n}}, {{t+|ro|limbă|f}}
+* Romansch: {{t-simple|rm|linguatg|langname=Romansch}}
+* Russian: {{t+|ru|язы́к|m}}, {{t+|ru|речь|f|f}}
+* Scottish Gaelic: {{t|gd|cainnt|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|говор|m|sc=Cyrl}}
+*: Roman: {{t+|sh|govor|m}}
+* Silesian: {{t|szl|godka|f}}
+* Slovene: {{t|sl|gôvor|m}}
+* Spanish: {{t+|es|lenguaje|m}}
+* Swedish: {{t+|sv|tal|n}}
+* Tamil: {{t+|ta|மொழி}}, {{t+|ta|பாசை}}
+* Telugu: {{t+|te|మాట్లాడు}}
+* Turkish: {{t-simple|tr|dil|langname=Turkish|interwiki=1}}
+* Yiddish: {{t+|yi|שפּראַך|f|tr=shprakh}}
+* Zazaki: {{t-simple|zza|zuwan|langname=Zazaki}}
+{{trans-bottom}}
+
+{{trans-top|nonverbal communication}}
+* Afrikaans: {{t-simple|af|gebaretaal|langname=Afrikaans}}
+* Armenian: {{t+|hy|լեզու}}
+* Belarusian: {{t+|be|мова|f|tr=móva}}
+* Bulgarian: {{t+|bg|език|m|tr=ezík}}
+* Catalan: {{t+|ca|llenguatge|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|語言|sc=Hani}}, {{t+|cmn|语言|tr=yǔyán|sc=Hani}}
+* Czech: {{t+|cs|jazyk|m}}, {{t+|cs|řeč|f}}
+* Danish: {{t+|da|sprog|n}}
+* Dutch: {{t+|nl|taal|f}}
+* Esperanto: {{t-simple|eo|lingvo|langname=Esperanto|interwiki=1}}
+* Finnish: {{t-simple|fi|kieli|langname=Finnish|interwiki=1}}
+* French: {{t+|fr|langage|m}}, {{t+|fr|langue|m}}
+* Galician: {{t-simple|gl|linguaxe|langname=Galician|interwiki=1}}
+* German: {{t+|de|Sprache|f}}
+* Greek: {{t+|el|γλώσσα|f}}
+* Hebrew: {{t+|he|לשון|f|tr=lashón}}, {{t+|he|שפה|f|tr=safá}}
+* Interlingua: {{t-simple|ia|linguage|langname=Interlingua}}
+* Italian: {{t+|it|linguaggio|m}}
+* Khmer: {{t+|km|ភាសា|tr=pʰiesaa}}
+* Latvian: {{t+|lv|valoda|f}}
+{{trans-mid}}
+* Lithuanian: {{t+|lt|kalba|f}}
+* Macedonian: {{t+|mk|јазик|m|tr=jázik}}
+* Mizo: {{t-simple|lus|ṭawng|langname=Mizo}}
+* Norwegian:
+*: Bokmål: {{t+|nb|språk|n}}
+*: Nynorsk: {{t+|nn|språk|n}}
+* Novial: {{t-simple|nov|lingue|langname=Novial}}
+* Polish: {{t+|pl|język|m-in}}
+* Portuguese: {{t+|pt|linguagem|f}}
+* Romanian: {{t+|ro|limbaj|n}}
+* Russian: {{t+|ru|язы́к|m}}, {{t+|ru|пи́сьменная речь|f}}
+* Slovene: {{t+|sl|jêzik|m}}
+* Spanish: {{t+|es|lenguaje|m}}
+* Tamil: {{t+|ta|மொழி}}, {{t+|ta|பாசை}}
+* Telugu: {{t|te|సైగ చేయు}}
+* Thai: {{t+|th|ภาษา}}
+* Turkish: {{t-simple|tr|dil|langname=Turkish|interwiki=1}}
+* Ukrainian: {{t+|uk|мова|f|tr=móva}}
+* Vietnamese: {{t+|vi|ngôn ngữ}}
+* Yiddish: {{t+|yi|שפּראַך|f|tr=shprakh}}
+{{trans-bottom}}
+
+{{trans-top|vocabulary of a particular field}}
+* Arabic: {{t+|ar|لُغَة|f}}
+* Armenian: {{t+|hy|լեզու}}
+* Bulgarian: {{t+|bg|ези́к|m}}
+* Catalan: {{t+|ca|llenguatge|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|語言|sc=Hani}}, {{t+|cmn|语言|tr=yǔyán|sc=Hani}}, {{t+|cmn|用語|sc=Hani}}, {{t+|cmn|用语|tr=yòngyǔ|sc=Hani}}, {{t+|cmn|詞語|sc=Hani}}, {{t+|cmn|词语|tr=cíyǔ|sc=Hani}}
+* Czech: {{t+|cs|jazyk|m}}, {{t+|cs|řeč|f}}
+* Danish: {{t+|da|sprog|n}}, {{t-simple|da|terminologi|langname=Danish|interwiki=1}}
+* Dutch: {{t+|nl|taal|f}}, {{t+|nl|jargon|f}}
+* Esperanto: {{t-simple|eo|lingvo|langname=Esperanto|interwiki=1}}
+* Finnish: {{t-simple|fi|kieli|langname=Finnish|interwiki=1}}, {{t-simple|fi|sanasto|langname=Finnish|interwiki=1}}
+* French: {{t+|fr|langage|m}}, {{t+|fr|jargon|m}}
+* Galician: {{t-simple|gl|linguaxe|langname=Galician|interwiki=1}}
+* Georgian: {{t+|ka|ენა}}, {{t|ka|ენები|p}}
+* German: {{t+|de|Sprache|f}}, {{t+|de|Jargon|n}}
+* Greek: {{t|el|ιδιογλωσσία|f}}, {{t+|el|φρασεολογία|f}}, {{t+|el|διάλεκτος|f}}
+* Hebrew: {{t+|he|לשון|f|tr=lashón}}, {{t+|he|שפה|f|tr=safá}}
+* Interlingua: {{t-simple|ia|linguage|langname=Interlingua}}
+* Italian: {{t+|it|linguaggio|m}}
+* Japanese: {{t+|ja|用語|tr=ようご, yōgo|sc=Jpan}}
+* Khmer: {{t+|km|ភាសា|tr=pʰiesaa}}
+{{trans-mid}}
+* Korean: {{t+|ko|용어}} {{t+|ko|用語|sc=Hani}}
+* Mizo: {{t-simple|lus|ṭawng|langname=Mizo}}
+* Navajo: {{t-simple|nv|saad|langname=Navajo}}
+* Norwegian:
+*: Bokmål: {{t+|nb|språk|n}}, {{t|nb|terminologi|m}}
+*: Nynorsk: {{t+|nn|språk|n}}, {{t|nn|terminologi|m}}
+* Novial: {{t-simple|nov|lingue|langname=Novial}}
+* Polish: {{t+|pl|słownictwo|n}}, {{t+|pl|język|m-in}}
+* Portuguese: {{t+|pt|linguagem|f}}
+* Romanian: {{t+|ro|limbaj|n}}, {{t+|ro|jargon|n}}
+* Russian: {{t+|ru|язы́к|m}}, {{t+|ru|лексико́н|m}}
+* Scottish Gaelic: {{t|gd|cainnt|f}}
+* Spanish: {{t+|es|lenguaje|m}}
+* Swedish: {{t+|sv|språk|n}}
+* Tamil: {{t+|ta|மொழி}}, {{t+|ta|பாசை}}
+* Telugu: {{t|te|పదజాలం}}, {{t+|te|అక్షరమాల}}
+* Turkish: {{t-simple|tr|dil|langname=Turkish|interwiki=1}}
+* Vietnamese: {{t+|vi|ngôn ngữ}}, {{t|vi|biệt ngữ}}, {{t+|vi|từ vựng}}, {{t+|vi|thuật ngữ}}
+* Walloon: {{t+|wa|motlî|m}}
+* Yiddish: {{t+|yi|שפּראַך|f}}
+* Zazaki: {{t-simple|zza|zuwan|langname=Zazaki}}
+{{trans-bottom}}
+
+{{trans-top|particular words used}}
+* Afrikaans: {{t-simple|af|taalgebruik|langname=Afrikaans}}
+* Armenian: {{t+|hy|լեզու}}
+* Belarusian: {{t+|be|мо́ва|f}}
+* Bulgarian: {{t+|bg|ези́к|m}}
+* Catalan: {{t+|ca|llenguatge|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|語言|sc=Hani}}, {{t+|cmn|语言|tr=yǔyán|sc=Hani}}, {{t+|cmn|用語|sc=Hani}}, {{t+|cmn|用语|tr=yòngyǔ|sc=Hani}}, {{t+|cmn|詞語|sc=Hani}}, {{t+|cmn|词语|tr=cíyǔ|sc=Hani}}
+* Danish: {{t+|da|sprog|n}}, {{t-simple|da|ordvalg|langname=Danish}}
+* Dutch: {{t+|nl|taal|f}}
+* Esperanto: {{t-simple|eo|lingvo|langname=Esperanto|interwiki=1}}
+* Finnish: {{t-simple|fi|kieli|langname=Finnish|interwiki=1}}, {{t+|fi|sana|alt=sanat}}, {{t-simple|fi|kielenkäyttö|langname=Finnish|interwiki=1}}
+* French: {{t+|fr|langage|m}}, {{t+|fr|parler|m}}
+* Galician: {{t-simple|gl|linguaxe|langname=Galician|interwiki=1}}
+* German: {{t+|de|Sprache|f}}
+* Greek: {{t+|el|γλώσσα|f}}
+* Hebrew: {{t+|he|לשון|f|tr=lashón|sc=Hebr}}, {{t+|he|שפה|f|tr=safá}}
+* Interlingua: {{t-simple|ia|linguage|langname=Interlingua}}
+* Italian: {{t+|it|linguaggio|m}}
+* Japanese: {{t|ja|言い回し|tr=いいまわし, iimawashi}}
+* Latvian: {{t|lv|izteiksme|f}}
+{{trans-mid}}
+* Macedonian: {{t+|mk|речник|m|tr=réčnik}}
+* Malay: {{t-simple|ms|istilah|langname=Malay|interwiki=1}}
+* Mizo: {{t-simple|lus|ṭawng|langname=Mizo}}
+* Navajo: {{t-simple|nv|saad|langname=Navajo}}
+* Norwegian:
+*: Bokmål: {{t+|nb|språk|n}}
+*: Nynorsk: {{t+|nn|språk|n}}
+* Novial: {{t-simple|nov|lingue|langname=Novial}}
+* Polish: {{t+|pl|język|m-in}}, {{t+|pl|słownictwo|n}}
+* Portuguese: {{t+|pt|linguagem|f}}
+* Russian: {{t+|ru|язы́к|m}}
+* Scottish Gaelic: {{t|gd|cainnt|f}}
+* Spanish: {{t+|es|lenguaje|m}}
+* Swedish: {{t+|sv|språk|n}}
+* Telugu: {{t|te|పదజాలం}}
+* Turkish: {{t-simple|tr|dil|langname=Turkish|interwiki=1}}
+* Walloon: {{t+|wa|lingaedje|m}}, {{t+|wa|pårlaedje|m}}, {{t+|wa|cåzaedje|m}}, {{t+|wa|pårler|m}}
+* Yiddish: {{t+|yi|שפּראַך|f}}
+* Zazaki: {{t-simple|zza|lisan|langname=Zazaki}}
+{{trans-bottom}}
+
+{{trans-top-also|computer language|computer language}}
+* Afrikaans: {{t-simple|af|rekenaartaal|langname=Afrikaans}}
+* Arabic: {{t+|ar|لُغَة|f}}
+* Armenian: {{t+|hy|լեզու}}
+* Bulgarian: {{t+|bg|ези́к|m}}
+* Catalan: {{t+|ca|llenguatge|m}}, {{t+|ca|codi|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|語言|sc=Hani}}, {{t+|cmn|语言|tr=yǔyán|sc=Hani}}
+* Czech: {{t+|cs|jazyk|m}}
+* Danish: {{t+|da|sprog|n}}
+* Dutch: {{t+|nl|taal|f}}, {{t+|nl|code|f}}
+* Esperanto: {{t-simple|eo|lingvo|langname=Esperanto|interwiki=1}}
+* Finnish: {{t-simple|fi|kieli|langname=Finnish|interwiki=1}}, {{t-simple|fi|ohjelmointikieli|langname=Finnish|interwiki=1}}
+* French: {{t+|fr|langage|m}}
+* Galician: {{t-simple|gl|linguaxe|langname=Galician|interwiki=1}}
+* Georgian: {{t+|ka|ენა}}
+* German: {{t+|de|Sprache|f}}, {{t+|de|Sprachen|p}}
+* Greek: {{t|el|γλώσσα προγραμματισμού|f}}, {{t+|el|κώδικας|m}}
+* Hebrew: {{t+|he|שפה|f|tr=safá}}
+* Interlingua: {{t-simple|ia|linguage|langname=Interlingua}}
+* Italian: {{t+|it|linguaggio|m}}
+* Japanese: {{t+|ja|言語|tr=げんご, gengo|sc=Jpan}}
+* Khmer: {{t+|km|ភាសា|tr=pʰiesaa}}
+* Korean: {{t+|ko|언어}} {{t+|ko|言語|sc=Hani}}
+* Kurdish: {{t+|ku|ziman|sc=ku-Arab}}
+* Latvian: {{t+|lv|valoda|f}}
+{{trans-mid}}
+* Lithuanian: {{t+|lt|kalba|f}}
+* Macedonian: {{t+|mk|ја́зик|m}}, {{t|mk|про́грамски ја́зик|m}}
+* Malay: {{t-simple|ms|bahasa|langname=Malay|interwiki=1}}
+* Mizo: {{t-simple|lus|ṭawng|langname=Mizo}}
+* Navajo: {{t-simple|nv|saad|langname=Navajo}}
+* Norwegian: {{t+|no|språk|n}}, {{t+|no|programmeringsspråk|n}}
+* Novial: {{t-simple|nov|lingue|langname=Novial}}
+* Persian: {{t+|fa|زبان|tr=zabân}}
+* Polish: {{t+|pl|język|m-in}}
+* Portuguese: {{t+|pt|linguagem|f}}, {{t+|pt|linguagem de programação|f}}
+* Romanian: {{t+|ro|limbaj|n}}
+* Russian: {{t|ru|[[язы́к]] [[программирование|программи́рования]]|m}}
+* Scottish Gaelic: {{t|gd|cànan|m}}
+* Serbo-Croatian: {{t+|sh|jezik|m}}
+* Silesian: {{t|szl|godka|f}}
+* Slovene: {{t+|sl|jêzik|m}}
+* Spanish: {{t+|es|lenguaje|m}}
+* Swedish: {{t+|sv|språk|n}}, {{t|sv|datorspråk|n}}
+* Tamil: {{t+|ta|மொழி}}, {{t+|ta|பாசை}}
+* Turkish: {{t-simple|tr|dil|langname=Turkish|interwiki=1}}
+* Ukrainian: {{t+|uk|мо́ва|f}}
+* Vietnamese: {{t+|vi|ngôn ngữ}}, {{t|vi|ngôn ngữ máy tính}}
+* Walloon: {{t+|wa|lingaedje|m}}
+* Yiddish: {{t+|yi|שפּראַך|f}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Bengali: {{t+check|bn|ভাষা|tr=bhāṣā}}
+* Breton: {{t+check|br|yezh|f}}
+* Cebuano: {{t-check|ceb|yinaknan}}, {{t-check|ceb|pinulungan}}
+* Fijian: {{t-check|fj|vosa}}
+* Guaraní: {{t-check|gn|ñe'ẽ}}
+* Guerrero Amuzgo: {{t-check|amu|jñò ndá}}
+* Hawaiian: {{t-check|haw|alelo}}
+* Kannada: {{t+check|kn|ನುಡಿ}}, {{t+check|kn|ಭಾಷೆ}}
+{{trans-mid}}
+* Maltese: {{t-check|mt|lingwaġġ}}
+* Maori: {{t+check|mi|reo}}
+* Middle High German: {{qualifier|{{g|f}}}} {{t-check|gmh|sprāche}} <!-- was "[[sprache|sprāche]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Sardinian: {{t-check|sc|limba}}
+* Slovak: {{t-check|sk|reč|f}}
+* Tagalog: {{t+check|tl|wika}}, {{t+check|tl|salita}}, {{t+check|tl|pagbigkas}}, {{t-check|tl|pagbasa}}
+* Tupinambá: {{t-check|tpn|nhe'enga}}
+{{trans-bottom}}
 
 ====Verb====
 {{en-verb|languages|languaging|languaged}}
