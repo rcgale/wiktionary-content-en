@@ -386,8 +386,8 @@ The form {{m|en|-ology}} is also used when including the connecting vowel {{m|en
 * Catalan: {{t+|ca|-logia|f}}
 * Cebuano: {{t|ceb|-lohia}}
 * Chinese:
-*: Cantonese: {{t|yue|學|sc=Hani}}, {{t|yue|学|tr=haak|sc=Hani}}
-*: Mandarin: {{t+|cmn|學|sc=Hani}}, {{t+|cmn|学|tr=xué|sc=Hani}}
+*: Cantonese: {{t|yue|學}}, {{t|yue|学|tr=haak}}
+*: Mandarin: {{t+|cmn|學}}, {{t+|cmn|学|tr=xué}}
 * Corsican: {{t|co|-lugia|f}}
 * Czech: {{t|cs|-logie|f}}
 * Danish: {{t+|da|-logi|c}}
@@ -403,7 +403,7 @@ The form {{m|en|-ology}} is also used when including the connecting vowel {{m|en
 * German: {{t+|de|-kunde|f}}, {{t+|de|Lehre|f|alt=-lehre}}, {{t+|de|Wissenschaft|f|alt=-wissenschaft}}, {{t+|de|-logie|f}}, {{t+|de|-ik|f}}
 * Greek: {{t+|el|-λογία|f}}
 * Hebrew: {{t+|he|־לוגיה|tr=-logya}}
-* Hindi: {{t+|hi|ज्ञान|m|alt=-ज्ञान|sc=Deva}}
+* Hindi: {{t+|hi|ज्ञान|m|alt=-ज्ञान}}
 * Hungarian: {{t|hu|-lógia}}
 * Icelandic: {{t|is|-fræði}}
 * Ido: {{t|io|-logio}}
@@ -413,8 +413,8 @@ The form {{m|en|-ology}} is also used when including the connecting vowel {{m|en
 * Irish: {{t|ga|eolaíocht|f}}
 {{trans-mid}}
 * Italian: {{t+|it|-logia|f}}
-* Japanese: {{t+|ja|学|tr=-がく, -gaku}}, {{t|ja|ロジー|tr=-rojī|alt=-ロジー|sc=Jpan}} {{qualifier|with non-Japanese words}}
-* Khmer: {{t+|km|វិទ្យា|alt=-វិទ្យា|sc=Khmr}}, {{t|km|សាស្ត្រ|alt=-សាស្ត្រ|sc=Khmr}}
+* Japanese: {{t+|ja|学|tr=-がく, -gaku}}, {{t|ja|ロジー|tr=-rojī|alt=-ロジー}} {{qualifier|with non-Japanese words}}
+* Khmer: {{t+|km|វិទ្យា|alt=-វិទ្យា}}, {{t|km|សាស្ត្រ|alt=-សាស្ត្រ}}
 * Korean: {{t+|ko|학}} ({{t+|ko|學}})
 * Latin: {{t|la|-logia|f}}
 * Latvian: {{t|lv|-logija|f}}
@@ -423,20 +423,20 @@ The form {{m|en|-ology}} is also used when including the connecting vowel {{m|en
 * Luxembourgish: {{t|lb|-logie|f}}
 * Macedonian: {{t|mk|-логија|f}}
 * Malay: {{t|ms|-logi}}, {{t|ms|kaji}}
-* Mongolian: {{t+|mn|зүй|sc=Cyrl}}
+* Mongolian: {{t+|mn|зүй}}
 * Navajo: {{t|nv|naalkaah}}
 * Northern Sami: {{t|se|-logiija}}
 * Norwegian: {{t+|no|-logi|c}}
 * Occitan: {{t|oc|-logia|f}}
-* Persian: {{t|fa|‌شناسی|tr=-šenâsi|sc=fa-Arab}}, {{t|fa|لوژی|tr=-loži|alt=ـلوژی|sc=fa-Arab}}
+* Persian: {{t|fa|‌شناسی|tr=-šenâsi}}, {{t|fa|لوژی|tr=-loži|alt=ـلوژی}}
 * Polish: {{t+|pl|-logia|f}}
 * Portuguese: {{t+|pt|-logia|f}}
 * Romanian: {{t|ro|-logie|f}}
 * Russian: {{t+|ru|-ло́гия|f}}, {{t+|ru|ведение|n|alt=-ве́дение}}, {{t+|ru|знание|n|alt=-зна́ние}}
 * Sardinian: {{t|sc|-logia|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|-логија|f|sc=Cyrl}}
-*: Roman: {{t|sh|-logija|f}}
+*: Cyrillic: {{t|sh|-ло̀гија|f}}
+*: Roman: {{t|sh|-lògija|f}}
 * Sicilian: {{t|scn|-logia|f}}
 * Slovak: {{t|sk|-lógia|f}}
 * Slovene: {{t|sl|-logija|f}}
@@ -453,7 +453,12 @@ The form {{m|en|-ology}} is also used when including the connecting vowel {{m|en
 {{trans-bottom}}
 
 {{trans-top|something said}}
-* German: {{qualifier|set of works}} {{t|de|-teiler|m}}
+* German: {{t|de|-teiler|m}} {{qualifier|set of works}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{ttbc-top}}
+* Irish: {{t-check|ga|-lógacht|f}}
 {{trans-mid}}
 {{trans-bottom}}
 
