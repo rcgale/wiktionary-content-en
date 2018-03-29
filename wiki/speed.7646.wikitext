@@ -27,9 +27,14 @@ From {{etyl|enm|en}} {{m|enm|spede||prosperity, good luck, quickness, success}},
 #*: O Lord God of my master Abraham, I pray thee, send me good '''speed''' this day.
 # {{lb|en|slang}} Personal [[preference]].
 #: ''We could go to the shore next week, or somewhere else if that's not your '''speed'''.''
+# {{lb|en|finance|uncountable}} A [[third-order]] measure of [[derivative]] price sensitivity, expressed as the rate of change of [[gamma]] with respect to changes in the [[underlying]] [[asset]] [[price]].
 
 =====Synonyms=====
 * {{l|en|velocity}}
+* {{sense|measure of derivative price sensitivity}} {{l|en|DgammaDspot}}, {{l|en|gamma of the gamma}}
+
+====Hypernyms====
+* {{sense|measure of derivative price sensitivity}} {{l|en|Greeks}} {{qualifier|includes list of coordinate terms}}
 
 =====Hyponyms=====
 * {{l|en|lightspeed}}
