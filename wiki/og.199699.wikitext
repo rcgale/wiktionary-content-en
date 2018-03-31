@@ -176,8 +176,25 @@ Uncertain. Originally a neuter s-stem, perhaps {{m|cel-pro||*ugos}}. Apparently 
 # [[egg]]
 # {{lb|sga|anatomy}} [[testicle]]
 
-====Inflection====
-{{rfinfl|sga|noun}}
+====Declension====
+{{sga-decl-noun
+|class=s-n
+|nom_sg=og
+|voc_sg=og
+|acc_sg=og
+|gen_sg=ugae+H
+|dat_sg=uig+L
+|nom_du=og+N
+|voc_du=og+N
+|acc_du=og+N
+|gen_du=ugae+N
+|dat_du=ugaib
+|nom_pl=ugae+L
+|voc_pl=ugae+L
+|acc_pl=ugae+L
+|gen_pl=ugae+N
+|dat_pl=ugaib
+}}
 
 ====Descendants====
 * {{desc|ga|ubh}}
