@@ -1,29 +1,65 @@
 ==Japanese==
-{{ja-kanjitab|yomi=irreg}}
 
-===Alternative forms===
-* {{ja-l|あなた}}, {{ja-l|貴女}}, {{ja-l|貴男}}
+===Etymology 1===
+{{ja-kanjitab|yomi=irreg|sort=あなた}}
 
-===Etymology===
-{{rfe|lang=ja}}
+Compound of {{compound|lang=ja|sort=あなた|あ|tr1=a|pos1=[[distal]] pronoun marker, indicating something far away from both speaker and listener; also found in {{m|ja|あれ||tr=are|that|pos=far away}}, {{m|ja|あそこ||tr=asoko|there|pos=far away}}, etc.|な|tr2=na|pos2=possessive, ancient compounding alternative for particle {{ja-r|の}}|た|tr3=ta|t3=direction|pos3=only found in ancient terms}}.
 
-===Pronunciation===
-{{ja-pron|あなた|y=irreg}}
+Originally meant {{m|en|[[that]] [[direction]], that [[side]] ([[far]] [[away]])}}, in contrast to {{ja-r|そなた||[[that]] [[direction]], that [[side]], that [[place]] (closer to the listener)}}, {{ja-r|こなた||[[this]] direction, this  [[side]], this [[place]] (close to both listener and speaker)}}, and {{ja-r|どなた||[[which]] or [[what]] direction, side, or place}}.  Appears with this sense at least as early as the ''{{w|Kokin Wakashū}}'' of the late 900s,<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> and the ''{{w|Kagerō Nikki}}'' of 974 CE.<ref>'''974''', ''{{w|Kagerō Nikki}}'' (“The Mayfly Diary”), by {{w|Michitsuna no Haha|Michitsuna's mother}} (in Japanese), text available online [http://jti.lib.virginia.edu/japanese/kagero/MicKage.html here]</ref>
 
-===Pronoun===
+The [[indirect]] and [[polite]] sense of ''that'' {{m|en|person}} is also evident in texts from the late 900s, including the ''{{w|Ochikubo Monogatari}}''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The sense of {{m|en|you}} as a polite and indirect form of reference appears in texts from around the 1750s.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irreg|あなた|acc=2|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
+:* The {{m|en|you}} and {{m|en|[[that]] [[person]]}} senses only ever have pitch accent 2.  The {{m|en|[[that]] [[direction]] or [[side]]}} sense may have either pitch accent, with pitch accent 1 more common.
+
+====Alternative forms====
+* {{ja-l|あなた}}, {{ja-l|貴女}}, {{ja-l|貴男}}, {{ja-l|彼方}}
+
+====Pronoun====
 {{ja-pos|pronoun|あなた}}
 
-# [[you]] {{gloss|second-person pronoun}}
-# {{lb|ja|women's speech|sort=あなた}} [[dear]], [[darling]], [[sweetheart]] {{gloss|term used by a wife to refer to her husband}}
+# {{ja-def|貴方}} [[you]] {{gloss|second-person pronoun}}
+# {{ja-def|貴方}} {{lb|ja|women's speech|sort=あなた}} [[dear]], [[darling]], [[sweetheart]] {{gloss|term used by a wife to address her husband}}
+# {{ja-def|貴方|彼方}} {{lb|ja|sort=あなた|uncommon}} [[that]] [[person]] {{gloss|far from both speaker and listener}}
+# {{ja-def|彼方}} {{lb|ja|sort=あなた|uncommon}} [[that]] [[direction]], that [[side]], that [[place]] {{gloss|far from both speaker and listener}}
+#: {{ja-usex|山の'''彼方'''|やま の '''あなた'''|'''that side''' of the mountain, the '''far side''' of the mountain}}
 
 ====Usage notes====
-* Gender-neutrally written either as {{lang|ja|貴方}} or {{m|ja|あなた}}. This kanji spelling ({{lang|ja|貴方}}) is less common. Alternative spellings include {{m|ja|貴女}} when referring to females and {{m|ja|貴男}} when referring to males.
-* あなた is the most neutral and polite 2nd person singular pronoun but it's still preferred to use names or titles, if they are known, when addressing people.
+The {{m|en|you}} sense is spelled most often in [[hiragana]] in modern usage.  The {{m|ja|貴方}} spelling is gender-neutral. Alternative spellings include {{m|ja|貴女}} when referring to females and {{m|ja|貴男}} when referring to males.
 
-====Synonyms====
+{{ja-r|あなた}} is the most neutral second-person singular pronoun. If names or titles are known, these are used more commonly when addressing people.
+
+=====Synonyms=====
 * {{ja-r|君|きみ}}
 * {{ja-r|あんた}}
 * {{ja-r|お前|おまえ}}
 
-====Related terms====
-* {{ja-r|此方|こなた}}, {{ja-r|其方|そなた}}, {{ja-r|彼方|かなた}}
+=====Related terms=====
+* {{ja-r|こなた}}, {{ja-r|そなた}}, {{ja-r|かなた}}, {{ja-r|どなた}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|き|ほう}}
+
+{{IPAchar|/kipau/}} → {{IPAchar|/kifau/}} → {{IPAchar|/kifɔː/}} → {{IPAchar|/kihoː/}}
+
+From {{bor|ja|ltc|sort=きほう|-}} {{ltc-l|貴方|id=1,2|noble, superior + side, place, direction}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|きほう|acc=2|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
+
+====Pronoun====
+{{ja-pos|pronoun|きほう|hhira=きはう}}
+
+# {{lb|ja|sort=きほう|respectful}} [[your]] [[house]], your [[residence]]
+# {{lb|ja|sort=きほう|respectful|men's speech}} [[you]] {{gloss|used to address someone of equal social footing}}
+
+=====Synonyms=====
+* {{ja-r|貴公|きこう}}
+* {{ja-r|貴殿|きでん}}
+* {{ja-r|貴君|きくん}}
+
+===References===
+<references/>
