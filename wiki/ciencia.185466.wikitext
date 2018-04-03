@@ -28,17 +28,17 @@ Borrowed from {{bor|gl|la|scientia}}.
 ----
 
 ==Spanish==
-
-===Alternative forms===
-* {{l|es|esciencia}} {{qualifier|archaic}}
 {{wikipedia|lang=es}}
 
+===Alternative forms===
+* {{alter|es|esciencia||archaic}}
+
 ===Etymology===
-From {{inh|es|osp|sçiençia}} or {{m|osp|sciencia||knowledge}}, borrowed from {{bor|es|la|scientia}}, from {{m|la|sciens}}, from {{m|la|sciō}}.
+From {{inh|es|osp|sçiençia}} or {{m|osp|sciencia|t=knowledge}}, borrowed from {{bor|es|la|scientia}}, from {{m|la|sciens}}, from {{m|la|sciō}}.
 
 ===Pronunciation===
-* {{a|Castilian}} {{IPA|lang=es|/ˈθje̞nθja̠/|}}
-* {{a|Others}} {{IPA|lang=es|/ˈsje̞nsja̠/|}}
+* {{a|Castilian}} {{IPA|/ˈθje̞nθja̠/|lang=es}}
+* {{a|Others}} {{IPA|/ˈsje̞nsja̠/|lang=es}}
 
 ===Noun===
 {{es-noun|f}}
@@ -50,11 +50,13 @@ From {{inh|es|osp|sçiençia}} or {{m|osp|sciencia||knowledge}}, borrowed from {
 * {{l|es|a ciencia cierta}}
 
 ====Related terms====
-* {{l|es|científico}}
-* {{l|es|conciencia}}
-* {{l|es|consciente}}
+{{rel3
+|{{l|es|científico}}
+|{{l|es|conciencia}}
+|{{l|es|consciente}}
+|lang=es}}
 
 ====Descendants====
-* Tagalog: [[siyensiya]]
+* {{desc|tl|siyensiya|bor=1}}
 
 [[Category:es:Sciences]]
