@@ -2,7 +2,7 @@
 ==Icelandic==
 
 ===Etymology===
-From {{etyl|non|is}} {{m|non|súrr}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*sūraz}}, from {{etyl|ine-pro|is}} {{m|ine-pro|*sūr-}}. Compare English {{m|en|sour}}, German {{m|de|sauer}}, Dutch {{m|nl|zuur}} Danish {{m|da|sur}}, Faroese {{m|fo|súrur}}, Norwegian {{m|no|sur}} and Swedish {{m|sv|sur}}.
+From {{inh|is|non|súrr}}, from {{inh|is|gem-pro|*sūraz}}, from {{der|is|ine-pro|*sūr-}}. Compare {{cog|en|sour}}, {{cog|de|sauer}}, {{cog|nl|zuur}}, {{cog|da|sur}}, {{cog|fo|súrur}}, {{cog|no|sur}} and {{cog|sv|sur}}.
 
 ===Pronunciation===
 * {{IPA|/suːr/|lang=is}}
@@ -12,14 +12,15 @@ From {{etyl|non|is}} {{m|non|súrr}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*sūr
 {{is-adj|súrari|súrastur}}
 
 # [[sour]], [[tart]], [[acid]], [[acidic]]
-# (of mood) [[surly]], [[bitter]], [[morose]], [[sour]]
-#: ''Ekki vera svona '''súr'''.''
-#:: Don't be so '''morose'''.
+# {{q|of mood}} [[surly]], [[bitter]], [[morose]], [[sour]]
+#: {{ux|is|Ekki vera svona '''súr'''.|Don't be so '''morose'''.}}
 
 ====Inflection====
 {{is-decl-adj-1|s|ú|r}}
 
 ====Derived terms====
-* {{l|is|gegnum súrt og sætt}}
-* {{l|is|þykja súrt í broti}}
-* {{l|is|súrmjólk}}
+{{der3
+|gegnum súrt og sætt
+|þykja súrt í broti
+|súrmjólk
+|lang=is}}
