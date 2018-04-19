@@ -1,10 +1,14 @@
 ==English==
+[[File:Venn A subset B.svg|150px|thumb|right|[[Euler diagram]] showing ''A'' is a proper subset of ''B'', &nbsp;''A''⊂''B'',&nbsp; and conversely ''B'' is a proper superset of ''A''.]]
 
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|set theory}} Of a [[set]], a set that is a [[subset]] of the set but not equal to it.
+# {{lb|en|set theory}} a [[set]] that is a [[subset]] of the set, but not equal to it.
 #: ''{2, 4, 5} is a proper subset of {1, 2, 3, 4, 5}, but {1, 2, 3, 4, 5} is not.''
+
+====Hypernyms====
+* {{l|en|subset}}
 
 ====Translations====
 {{trans-top|a set that is a subset of but not equal to another set}}
@@ -16,3 +20,6 @@
 * Italian: {{t|it|sottoinsieme proprio|m}}
 * Swedish: {{t|sv|proper delmängd}}, {{t+|sv|äkta delmängd|c}}
 {{trans-bottom}}
+
+===References===
+* {{pedia}}
