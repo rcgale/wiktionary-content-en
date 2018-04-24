@@ -2,11 +2,11 @@
 ==Novial==
 
 ===Etymology===
-Derived from {{m|nov|rege||a [[monarch]], [[king]] or [[queen]]}}
+Derived from {{m|nov|rege|t=a [[monarch]], [[king]] or [[queen]]}}
 
 Root: {{m|nov|reg-}}.
 
-Morphemes: {{affix|nov|reg-|-id-|-o}}
+Morphemes: {{af|nov|reg-|-id-|-o}}
 
 ===Noun===
 {{nov-noun}}
@@ -14,37 +14,41 @@ Morphemes: {{affix|nov|reg-|-id-|-o}}
 # [[royal]] [[prince]]
 
 ====Related terms====
-
-* {{l|nov|rege|pos=n||monarch}}
-* {{l|nov|rego|pos=n||king}}
-* {{l|nov|rega|pos=n||queen}}
-* {{l|nov|regia|pos=n||kingdom}}
-* {{l|nov|regira|pos=v||reign}}
-* {{l|nov|regido|pos=n||royal prince}}
-* {{l|nov|regida|pos=a||royal, regal}}
-* {{l|nov|viserego|pos=n||viceroy}}
-* {{l|nov|regonal|pos=a||kingly}}
-* {{l|nov|reganal|pos=a||queenly}}
+{{rel4
+|{{l|nov|rege|pos=n|t=monarch}}
+|{{l|nov|rego|pos=n|t=king}}
+|{{l|nov|rega|pos=n|t=queen}}
+|{{l|nov|regia|pos=n|t=kingdom}}
+|{{l|nov|regira|pos=v|t=reign}}
+|{{l|nov|regido|pos=n|t=royal prince}}
+|{{l|nov|regida|pos=a|t=royal, regal}}
+|{{l|nov|viserego|pos=n|t=viceroy}}
+|{{l|nov|regonal|pos=a|t=kingly}}
+|{{l|nov|reganal|pos=a|t=queenly}}
+|lang=nov}}
 
 ----
 
 ==Portuguese==
-
-===Verb===
-{{pt-pp|regid}}
-
-# {{past participle of|reger|lang=pt|nocat=1}}
 
 ===Adjective===
 {{pt-adj|regid|o}}
 
 # [[governed]], [[directed]]
 
+===Verb===
+{{pt-pp|regid}}
+
+# {{pt-verb-form-of|reger}}
+
 ----
 
 ==Spanish==
 
-===Verb===
-{{head|es|verb form}}
+===Pronunciation===
+* {{es-IPA}}
 
-# {{es-verb form of|ending=ir|mood=participle|regir}}
+===Verb===
+{{es-past participle|regid}}
+
+# {{es-verb form of|ending=ir|mood=participle|gen=m|num=s|regir}}
