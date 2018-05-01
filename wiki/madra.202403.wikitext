@@ -22,17 +22,14 @@
 
 ==Irish==
 
-===Alternative forms===
-* {{alter|ga|madradh||obsolete}}
-
-===Etymology===
-From {{inh|ga|sga|madrad}}, {{m|sga|matrad}}.
-
 ===Pronunciation===
 * {{IPA|lang=ga|[ˈmˠad̪ˠɾˠə]}}
 * {{audio|ga-madra.ogg|play audio:|lang=ga}}
 
-===Noun===
+===Etymology 1===
+From {{inh|ga|sga|madrad}}, {{m|sga|matrad}}.
+
+====Noun====
 {{ga-noun|m|~|~í}}
 
 # [[dog]]
@@ -41,11 +38,15 @@ From {{inh|ga|sga|madrad}}, {{m|sga|matrad}}.
 #: {{m|ga||Tá an '''madra''' marbh!|lit=The dog is dead!|The fat is in the fire!}}
 #: {{syn|ga|cú|gadhar|madadh}}
 
-====Declension====
+=====Declension=====
 {{ga-decl-m4|m|adra|adraí}}
 
-====Derived terms====
-{{der2
+=====Alternative forms=====
+* {{alter|ga|madradh||obsolete}}
+* {{alter|ga|madar|madara}}
+
+=====Derived terms=====
+{{der3
 |{{l|ga|carrmhadra|g=m|t=mangy dog}}
 |{{l|ga|madra alla|g=m}}, {{l|ga|madra allta|g=m|t=wolf}}
 |{{l|ga|madra gaoithe|g=m|t=light over horizon portending storm, (sea-)dog}}
@@ -73,6 +74,16 @@ From {{inh|ga|sga|madrad}}, {{m|sga|matrad}}.
 |{{l|ga|cró madra|g=m|t=kennel}}
 |{{l|ga|madra gríofa|g=m|t=griffon (terrier)}}
 |lang=ga}}
+
+===Etymology 2===
+
+====Noun====
+{{ga-noun|m|~|-}}
+
+# {{alternative form of|madar|t=madder|lang=ga}}
+
+=====Declension=====
+{{ga-decl-m4-nopl|m|adra}}
 
 ===Mutation===
 {{ga-mut}}
