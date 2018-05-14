@@ -27,6 +27,7 @@ From {{suffix|liqueō|idus|gloss1=I am liquid|lang=la}}.
 {{la-adj-1&2|liquidus|liquida|liquidum}}
 
 # [[liquid]], [[fluid]], [[flowing]]
+#: {{ant|la|solidus}}
 # {{lb|la|substantive}} a liquid; [[water]]
 # [[clear]], [[transparent]], [[limpid]]
 # {{lb|la|figuratively}} without [[interruption]], [[smooth]], fluid, flowing
@@ -37,34 +38,34 @@ From {{suffix|liqueō|idus|gloss1=I am liquid|lang=la}}.
 ====Inflection====
 {{la-decl-1&2|liquid}}
 
-====Antonyms====
-* {{sense|liquid}} {{l|la|solidus}}
-
 ====Derived terms====
-* {{l|la|liquidē}}
-* {{l|la|liquiditās}}
-* {{l|la|liquidiusculus}}
-* {{l|la|liquidō}}
+{{der4
+|liquidē
+|liquiditās
+|liquidiusculus
+|liquidō
+|lang=la}}
 
 ====Related terms====
-{{top2}}
-* {{l|la|liquefaciō}}
-* {{l|la|liquefactiō}}
-* {{l|la|liquēns}}
-{{mid2}}
-* {{l|la|liqueō}}
-* {{l|la|liquēscō}}
-* {{l|la|liquor}}
-{{bottom}}
+{{rel3
+|liquefaciō
+|liquefactiō
+|liquēns
+|liqueō
+|liquēscō
+|liquor
+|lang=la}}
 
 ====Descendants====
-* Catalan: {{l|ca|líquid}}
-* English: {{l|en|liquid}}
-* French: {{l|fr|liquide}}
-* Galician: {{l|gl|líquido}}
-* Italian: {{l|it|liquido}}
-* Portuguese: {{l|pt|líquido}}
-* Spanish: {{l|es|líquido}}
+{{top4}}
+* {{desc|ca|líquid}}
+* {{desc|en|liquid}}
+* {{desc|fr|liquide}}
+* {{desc|gl|líquido}}
+* {{desc|it|liquido}}
+* {{desc|pt|líquido}}
+* {{desc|es|líquido}}
+{{bottom}}
 
 ===References===
 * {{R:L&S}}
