@@ -335,7 +335,7 @@ From {{inh|ruo|la|ossum}}, from {{m|la|os}}.
 
 ===Etymology 1===
 [[Image:Mouth.jpg|thumb|ōs (mouth)]]
-From {{inh|la|itc-pro|*ōs}}, from {{inh|la|ine-pro|*h₃éh₁os}}. Cognates include Hittite {{m|hit|sc=Xsux|𒀀𒄿𒅖|tr=aiš}}, Sanskrit {{m|sa|आस्}}, Old Irish {{m|sga|á}}.
+From {{inh|la|itc-pro|*ōs}}, from {{inh|la|ine-pro|*h₃éh₁os}}. Cognates include {{cog|hit|𒀀𒄿𒅖|tr=aiš}}, {{cog|sa|आस्}}, {{cog|sga|á}}.
 
 ====Pronunciation====
 * {{la-IPA|ōs}}
@@ -358,7 +358,7 @@ From {{inh|la|itc-pro|*ōs}}, from {{inh|la|ine-pro|*h₃éh₁os}}. Cognates in
 {{la-decl-3rd-N-I|ōs|ōr}}
 
 =====Derived terms=====
-{{der3|lang=la
+{{der3
 |cōram
 |ōrālis
 |ōrārium
@@ -368,15 +368,15 @@ From {{inh|la|itc-pro|*ōs}}, from {{inh|la|ine-pro|*h₃éh₁os}}. Cognates in
 |ōscitō
 |ōsculum
 |ōstīgō
-}}
+|lang=la}}
 
 ===Etymology 2===
 [[Image:Hand 1 1.jpg|thumb|ossa manūs (bones of the hand)]]
-From {{der|la|ine-pro|*h₃ésth₁||bone}}, {{m|ine-pro|*h₂óst}}. Cognates include Ancient Greek {{m|grc|ὀστέον}}, Sanskrit {{m|sa|अस्थि}} and Old Armenian {{m|xcl|ոսկր|}}.
+From {{der|la|ine-pro|*h₃ésth₁|t=bone}}, {{m|ine-pro|*h₂óst}}. Cognates include {{cog|grc|ὀστέον}}, {{cog|sa|अस्थि}} and {{cog|xcl|ոսկր|}}.
 
 ====Alternative forms====
 * {{alter|la|ossum}}
-* {{alter|la|ossu}}, {{alter|la|ossua}}
+* {{alter|la|ossu|ossua}}
 
 ====Pronunciation====
 * {{la-IPA}}
@@ -394,36 +394,37 @@ From {{der|la|ine-pro|*h₃ésth₁||bone}}, {{m|ine-pro|*h₂óst}}. Cognates i
 {{la-decl-3rd-N-I|os|oss|gen_pl=ossium}}
 
 =====Derived terms=====
-* {{l|la|ossa legō||to [[gather]] up the [[bone]]s that remain after burning a corpse}}
-* {{l|la|ossa legō||to [[extract]] fragments of [[bone]] from a wound}}
-* {{l|la|ossa condō||to bury [[bone]]s}}
-* {{l|la|arborum ossa||the inside [[wood]]; the [[heart]]}}
+{{der2
+|{{l|la|ossa legō|t=to [[gather]] up the [[bone]]s that remain after burning a corpse}}
+|{{l|la|ossa legō|t=to [[extract]] fragments of [[bone]] from a wound}}
+|{{l|la|ossa condō|t=to bury [[bone]]s}}
+|{{l|la|arborum ossa|t=the inside [[wood]]; the [[heart]]}}
+|lang=la}}
 
 =====Descendants=====
-{{top2}}
-* Aragonese: {{l|an|güeso}}
-* Aromanian: {{l|rup|os}}
-* Asturian: {{l|ast|güesu}}
-* Catalan: {{l|ca|os}}
-* Dalmatian: {{l|dlm|vuas}}
-* French: {{l|fr|os}}
-* Friulian: {{l|fur|vues}}
-* Galician: {{l|gl|óso}}
-* Interlingua: {{l|ia|osso}}
-* Istriot: {{l|ist|uosso}}
-* Istro-Romanian: {{l|ruo|os}}
-{{mid2}}
-* Italian: {{l|it|osso}}
-* Megleno-Romanian: {{l|ruq|uos}}
-* Mirandese: {{l|mwl|uosso}}
-* Occitan: {{l|oc|òs}}
-* Portuguese: {{l|pt|osso}}
-* Romanian: {{l|ro|os}}
-* Romansch: {{l|rm|ies}}, {{l|rm|oss}}
-* Sardinian: {{l|sc|ossu}}
-* Sicilian: {{l|scn|ossu}}
-* Spanish: {{l|es|hueso}}
-* Venetian: {{l|vec|oso}}
+{{top4}}
+* {{desc|an|güeso}}
+* {{desc|rup|os}}
+* {{desc|ast|güesu}}
+* {{desc|ca|os}}
+* {{desc|dlm|vuas}}
+* {{desc|fr|os}}
+* {{desc|fur|vues}}
+* {{desc|gl|óso}}
+* {{desc|ia|osso}}
+* {{desc|ist|uosso}}
+* {{desc|ruo|os}}
+* {{desc|it|osso}}
+* {{desc|ruq|uos}}
+* {{desc|mwl|uosso}}
+* {{desc|oc|òs}}
+* {{desc|pt|osso}}
+* {{desc|ro|os}}
+* {{desc|rm|ies}}, {{l|rm|oss}}
+* {{desc|sc|ossu}}
+* {{desc|scn|ossu}}
+* {{desc|es|hueso}}
+* {{desc|vec|oso}}
 {{bottom}}
 
 ===References===
