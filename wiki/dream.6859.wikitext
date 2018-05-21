@@ -353,7 +353,7 @@ The verb is from {{inh|en|enm|dremen}}, possibly (see above) from {{inh|en|ang|d
 * Interlingue: {{t-needed|ie}}
 * Irish: {{t|ga|aisling}}
 * Italian: {{t+|it|sognare}}
-* Japanese: {{t|ja|夢を見る|tr=ゆめをみる, yume o miru}}, {{t|ja|...を[[夢見る]]|tr=..をゆめみる, ...o yume-miru}}
+* Japanese: {{t|ja|[[夢]]を[[見る]]|tr=ゆめをみる, yume o miru}}, {{t|ja|...を[[夢見る]]|tr=..をゆめみる, ...o yumemiru}}
 * Jarai: {{t|jra|rơpơi}}
 * Khmer: {{t|km|យល់សប្តិ|tr=yūəl sop}}, {{t+|km|មមាល}}, {{t+|km|សុបិន}}
 * Korean: {{t+|ko|꿈꾸다}}
@@ -383,7 +383,7 @@ The verb is from {{inh|en|enm|dremen}}, possibly (see above) from {{inh|en|ang|d
 * Polish: {{t+|pl|śnić}}
 * Portuguese: {{t+|pt|sonhar}}
 * Romanian: {{t+|ro|visa}}
-* Russian: {{t|ru|ви́деть сон|impf}}, {{t|ru|уви́деть сон|pf}}, {{qualifier|+ dative case}} {{t+|ru|сни́ться|impf}}, {{t+|ru|присни́ться|pf}} (e.g., мне приснилось, что ...), {{t+|ru|гре́зить|impf}}
+* Russian: {{t|ru|[[ви́деть]] [[сон]]|impf}}, {{t|ru|[[уви́деть]] [[сон]]|pf}}, {{qualifier|+ dative case}} {{t+|ru|сни́ться|impf}}, {{t+|ru|присни́ться|pf}} {{qualifier|the person dreaming is the object}} (e.g., мне приснилось, что ...), {{t+|ru|гре́зить|impf}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|сањати}}, {{t|sh|снивати}}
 *: Roman: {{t+|sh|sanjati}}, {{t+|sh|snivati}}
@@ -396,7 +396,7 @@ The verb is from {{inh|en|enm|dremen}}, possibly (see above) from {{inh|en|ang|d
 * Swedish: {{t+|sv|drömma}}
 * Tamil: {{t+|ta|கனவு}}
 * Telugu: {{t+|te|కలగను}}
-* Thai: {{t|th|ฝันถึง|tr=făn tĕung}}, {{t+|th|ฝัน}}
+* Thai: {{t|th|ฝันถึง}}, {{t+|th|ฝัน}}
 * Tibetan: {{t|bo|རྨི་བ}}
 * Turkish: {{t|tr|rüya görmek}}, {{t+|tr|düş görmek}}
 * Ukrainian: {{t|uk|сни́тися|impf}} {{qualifier|the person dreaming is the object}}
@@ -416,7 +416,7 @@ The verb is from {{inh|en|enm|dremen}}, possibly (see above) from {{inh|en|ang|d
 * Asturian: {{t+|ast|suañar}}, {{t+|ast|soñar}}
 * Belarusian: {{t|be|ма́рыць|impf}}, {{t|be|мро́іць|impf}}
 * Breton: {{t+|br|hunvreal}}
-* Bulgarian: {{t+|bg|мечта́я}}
+* Bulgarian: {{t+|bg|мечта́я|impf}}
 * Catalan: {{t+|ca|somiar}}
 * Chinese:
 *: Mandarin: {{t+|cmn|夢想}}, {{t+|cmn|梦想|tr=mèngxiǎng}}
@@ -443,13 +443,13 @@ The verb is from {{inh|en|enm|dremen}}, possibly (see above) from {{inh|en|ang|d
 * Polish: {{t+|pl|marzyć}}
 * Portuguese: {{t+|pt|sonhar}}, {{t+|pt|desejar}}
 * Romanian: {{t+|ro|visa}}
-* Russian: {{t+|ru|мечта́ть}}
+* Russian: {{t+|ru|мечта́ть|impf}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|са́њати}}, {{t|sh|сни́вати}}, {{t|sh|[[на́дати]] се}}
 *: Roman: {{t+|sh|sánjati}}, {{t+|sh|snívati}}, {{t+|sh|[[nádati]] se}}
 * Spanish: {{t+|es|soñar}}
 * Swedish: {{t+|sv|drömma|c}}
-* Thai: {{t|th|ฝันใฝ่|tr=făn fài}}, {{t+|th|ปรารถนา}}
+* Thai: {{t|th|ฝันใฝ่}}, {{t+|th|ปรารถนา}}
 * Turkish: {{t|tr|hayali olmak}}, {{t+|tr|ummak}}
 * Ukrainian: {{t|uk|мрі́яти|impf}}, {{t|uk|ма́рити|impf}}, {{t|uk|мрі́ти|impf}}
 * West Frisian: {{t+|fy|dreame}}
@@ -458,7 +458,7 @@ The verb is from {{inh|en|enm|dremen}}, possibly (see above) from {{inh|en|ang|d
 {{trans-see|daydream}}
 
 {{trans-top|to create an imaginary experience}}
-* Bulgarian: {{t+|bg|мечтая}}
+* Bulgarian: {{t+|bg|мечта́я|impf}}
 * Czech: {{t|cs|vysnít si}}
 * French: {{t+|fr|rêver}}
 * Georgian: {{t|ka|ფანტაზიორობა}}
@@ -472,13 +472,9 @@ The verb is from {{inh|en|enm|dremen}}, possibly (see above) from {{inh|en|ang|d
 * Nepali: {{t|ne|सपना}}
 * Portuguese: {{t+|pt|sonhar}}
 * Romanian: {{t+|ro|imagina}}
-* Russian: {{t+|ru|мечта́ть}}, {{t+|ru|фантази́ровать}}
+* Russian: {{t+|ru|мечта́ть|impf}}, {{t+|ru|фантази́ровать|impf}}
 * Spanish: {{t+|es|soñar}}
-* Thai: {{t|th|ฝันเฟื่อง|tr=făn-fêuang}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-{{trans-mid}}
+* Thai: {{t|th|ฝันเฟื่อง}}
 {{trans-bottom}}
 
 ===References===
