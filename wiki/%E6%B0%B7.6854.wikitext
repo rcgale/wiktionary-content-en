@@ -36,60 +36,78 @@ This character is listed as the [[unorthodox]] form ([[俗字]]) of [[冰]] in t
 # [[congeal]]
 
 ====Readings====
+{{rfv-pronunciation|ja}}
 {{ja-readings
 |goon=ひょう<ひよう
 |kanon=ひょう<ひよう
+|toon=ひん
+|soon=びん
 |kun=こお-り<こほ-り, こおり-<こほり-, こお-る<こほ-る, ひ-
 |nanori=きよ, すい
 }}
-====Alternate forms====
-* [[冫#Japanese|冫]]
-* [[冰#Japanese|冰]]
 
 ====Compounds====
-* {{ja-r|氷%屋|こおり%や|ice shop}}
-* {{ja-r|薄%氷|はく%ひょう}}, {{ja-r|薄%氷|うす%ごおり|thin ice}}
-* {{ja-r|氷%雨|ひ%さめ|frozen rain}}
-* {{ja-r|氷%室|ひ%むろ|ice house}}
+{{der-top}}
+* {{ja-r|薄%氷|はく%ひょう|[[thin]] ice}}
 * {{ja-r|氷%海|ひょう%かい|icy waters}}
 * {{ja-r|氷%河|ひょう%が|[[glacier]]}}
 * {{ja-r|氷%山|ひょう%ざん|[[iceberg]]}}
-* {{ja-r|氷%雪|ひょう%せつ|ice and snow}}
-* {{ja-r|氷%柱|ひょう%ちゅう}}, {{ja-r|氷柱|つらら|[[icicle]]}}
+* {{ja-r|氷%雪|ひょう%せつ|ice and [[snow]]}}
+* {{ja-r|氷%柱|ひょう%ちゅう|[[icicle]]}}
 * {{ja-r|氷%点|ひょう%てん|[[freezing point]]}}
 * {{ja-r|流%氷|りゅう%ひょう|[[drift ice]]}}
-
+* {{ja-r|氷柱|つらら|[[icicle]]}}
+{{der-bottom}}
 <!-- You can [http://web.mit.edu/jpnet/ji/data/sound/koori.au hear] it pronunced. ''(need *.au file player)''-->
 
-===Etymology 1===
-{{ja-kanjitab|こお|o1=り|yomi=k}}
+===Alternate forms===
 {{ja-kanjitab|こおり|yomi=k}}
-From {{m|ja|凍り}}, {{m|ja|氷り|tr=kōri||[[freezing]]}}, the continuative form of the verb {{m|ja|凍る}}, {{m|ja|氷る|tr=kōru||to [[freeze]]}}
+* {{ja-l|冰}}
 
-kopori > koɸori > kowori > koori > koːri
+===Etymology 1===
+{{IPAfont|⟨ko<sub>2</sub>pori⟩}} → *{{IPAchar|/kəpori/}} → {{IPAchar|/kofori/}} → {{IPAchar|/kowori/}} → {{IPAchar|/koːri/}}
+
+From {{inh|ja|ojp|sort=こおり|-}}.
+
+From {{ja-l|凍り}}, {{m|ja|氷り|tr=kōri||[[freezing]]}}, the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{ja-l|凍る}}, {{m|ja|氷る|tr=kōru||to [[freeze]]}}.<ref name="DJR"/>
 
 ====Alternative forms====
-* {{ja-l|氷り}}
-* {{ja-l|凍り}}
-* {{ja-l|凍}}
+* {{ja-l|氷り}}, {{ja-l|凍り}}, {{ja-l|凍}}
 
 ====Pronunciation====
-{{ja-pron|acc=0|y=k|こおり}}
+{{ja-pron|y=k|こおり|acc=0|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|こおり|hhira=こほり}}
 
-# [[ice]]
-#* {{RQ:Wamyō Ruijushō|1|46}}
-#*: 氷 [...] 和名比、一云'''古保利'''
+# [[ice]] {{gl|[[freeze|frozen]] [[water]]}}
+#* {{RQ:Wamyō Ruijushō|1|46}}<ref name="WMS">{{R:Wamyō Ruijushō}}</ref>
+#*: {{lang|ja|'''氷''' [...] 和名比、一云'''古保利'''}}
+#: {{synonyms|ja|アイス|tr=aisu}}
+# a [[cold]] and [[sharp]] [[object]], as a [[shard]] of ice
+# {{short for|lang=ja|氷水|tr=kōrimizu|nodot=1}}: [[ice water]]; water [[fill]]ed with ice
+# {{short for|lang=ja|氷襲|tr=kōrigasane|nodot=1}}: [[layer]]ed [[clothing]] with the front [[shining]] [[white]] and [[plain]] white at the back
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|氷%襲|こおり%がさね}}
+* {{ja-r|氷%水|こおり%みず}}
+* {{ja-r|氷%屋|こおり%や|ice shop}}
+* {{ja-r|薄%氷|うす%ごおり|thin ice}}
+* {{ja-r|かき氷|かきごおり|rom=-}}, {{ja-r|欠%氷|かき%ごおり|rom=-}}, {{ja-r|欠き氷|かきごおり}}
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper|こおり|hhira=こほり}}
+
+# {{given name|female|lang=ja|A=a|nodot=1|sort=こおり}}
+# {{surname|lang=ja|A=a|nodot=1|sort=こおり}}
 
 ===Etymology 2===
 {{ja-kanjitab|ひ|yomi=k}}
-{{rfe|ja}}
-pi > ɸi > hi
+{{IPAfont|⟨pi<sub>1</sub>⟩}} → *{{IPAchar|/pʲi/}} → {{IPAchar|/fi/}} → {{IPAchar|/hi/}}
 
-====Alternative forms====
-* {{ja-l|冰}}
+From {{inh|ja|ojp|-}}.
 
 ====Pronunciation====
 {{ja-pron|ひ|y=k}}
@@ -97,14 +115,20 @@ pi > ɸi > hi
 ====Noun====
 {{ja-noun|ひ}}
 
-# [[ice]]
-#* {{RQ:Wamyō Ruijushō|1|46}}
-#*: 氷 [...] 和名'''比'''、一云古保利
+# [[ice]] {{gl|[[freeze|frozen]] [[water]]}}
+#* {{RQ:Wamyō Ruijushō|1|46}}<ref name="WMS"/>
+#*: {{lang|ja|'''氷''' [...] 和名'''比'''、一云古保利}}
+#: {{synonyms|ja|アイス|tr=aisu}}
+# [[hail]] {{gl|[[precipitate]]d ice}}
+#: {{synonyms|ja|雹|tr=hyō}}
 
-===See also===
-* {{l|ja|アイス|tr=aisu}}
+=====Derived terms=====
+* {{ja-r|氷%雨|ひ%さめ|frozen rain}}
+* {{ja-r|氷%室|ひ%むろ|ice house}}
 
 ===References===
+<references/>
+
 {{ja-kref
 |ku=4125
 |shift=9558
@@ -119,7 +143,6 @@ pi > ɸi > hi
 |heisig=131
 |tuttle=3a1.2
 }}
-* {{R:Wamyō Ruijushō}}
 
 {{cln|ja|words with multiple readings}}
 {{cln|ja|basic words|sort=こおり}}
