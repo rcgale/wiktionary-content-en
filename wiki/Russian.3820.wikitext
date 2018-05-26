@@ -61,15 +61,15 @@
 * Finnish: {{t+|fi|venäläinen}}
 * French: {{t+|fr|Russe|m|f}}
 * Galician: {{t+|gl|ruso|m}}, {{t|gl|rusa|f}}
-* Georgian: {{t+|ka|რუსი|sc=Geor}}, {{t|ka|რუსეთიდან}}
+* Georgian: {{t|ka|რუსი|sc=Geor}}, {{t|ka|რუსეთიდან}}
 * German: {{t+|de|Russe|m}}, {{t+|de|Russin|f}}, {{t+|de|Russländer|m}} {{q|citizen of Russia}}, {{t|de|Russländerin|f}} {{q|citizen of Russia}}, {{t+|de|Reuße|m}} {{q|obsolete}}, {{t+|de|Reusse|m}} {{q|obsolete, Switzerland & Liechtenstein}}, {{t+|de|Reußin|f}} {{q|obsolete}}, {{t+|de|Reussin|f}} {{q|obsolete, Switzerland & Liechtenstein}}
 * Greenlandic: {{t|kl|russeq}}
 * Hawaiian: {{t|haw|Lūkia}}
-* Hebrew: {{t+|he|רוּסִי|m|tr=rusí}}, {{t|he|רוּסִיָּה|f|tr=rusiyá}}
+* Hebrew: {{t+|he|רוּסִי|m|tr=rusí}}, {{t+|he|רוּסִיָּה|f|tr=rusiyá}}
 * Hindi: {{t+|hi|रूसी|tr=rūsī}}
 * Hungarian: {{t+|hu|orosz}}, {{q|pejorative}} {{t+|hu|ruszki}}
 * Icelandic: {{t|is|rússki|m}}, {{t|is|rússka|f}}
-* Indonesian: {{t+|id|[[orang]] [[Rusia]]}} 
+* Indonesian: {{t|id|[[orang]] [[Rusia]]}} 
 * Interlingua: {{t+|ia|russo|m}}, {{t|ia|russa|f}}
 * Irish: {{t|ga|Rúiseach|m}}
 * Italian: {{t+|it|russo|m}}, {{t+|it|russa|f}}
@@ -80,7 +80,7 @@
 * Kurdish:
 *: Sorani: {{t|ku|ڕوسی|tr=rūsi|sc=ku-Arab}}
 {{trans-mid}}
-* Kyrgyz: {{t|ky|орус|sc=Cyrl}}
+* Kyrgyz: {{t+|ky|орус|sc=Cyrl}}
 * Ladin: {{t|lld|rus|m}}
 * Lao: {{t|lo|ຄົນລັດເຊຍ|sc=Laoo}}
 * Latgalian: {{t|ltg|krīvs|m}}, {{t|ltg|krīvīte|f}}
@@ -145,7 +145,7 @@
 * Finnish: {{t+|fi|venäläinen}}
 * French: {{t+|fr|Russe|m|f}}
 * Galician: {{t+|gl|ruso|m}}
-* Georgian: {{t+|ka|რუსი|sc=Geor}}
+* Georgian: {{t|ka|რუსი|sc=Geor}}
 * German: {{t+|de|Russe|m}}, {{t+|de|Russin|f}}
 * Hawaiian: {{t|haw|Lūkia}}
 * Irish: {{t|ga|Rúiseach|m}}
@@ -208,7 +208,7 @@
 * Bashkir: {{t|ba|урыҫ теле|sc=Cyrl}},   {{t|ba|рус теле|sc=Cyrl}}, {{t|ba|урыҫса|sc=Cyrl}}, {{t|ba|русса|sc=Cyrl}}
 * Basque: {{t+|eu|errusiera}}
 * Belarusian: {{t|be|ру́ская мо́ва|f}}, {{t|be|ру́ская|f}}, {{t|be|расе́йская мо́ва|f}} {{qualifier|Taraškevica orthography}}
-* Bengali: {{t|bn|রুশ ভাষা|f|tr=rushô bhasha|sc=Beng}}, {{t|bn|রুশ|tr=rushô|sc=Beng}}, {{t|bn|রাশান|tr=rashan|sc=Beng}} {{qualifier|colloquial}}, {{t|bn|রাশিয়ান|tr=rashiyan|sc=Beng}} {{qualifier|colloquial}}, {{t|bn|রুশী|tr=rushi|sc=Beng}}, {{t|bn|রুশি|tr=rushi|sc=Beng}}
+* Bengali: {{t|bn|রুশ ভাষা|f|tr=rushô bhasha|sc=Beng}}, {{t+|bn|রুশ|tr=rushô|sc=Beng}}, {{t|bn|রাশান|tr=rashan|sc=Beng}} {{qualifier|colloquial}}, {{t|bn|রাশিয়ান|tr=rashiyan|sc=Beng}} {{qualifier|colloquial}}, {{t|bn|রুশী|tr=rushi|sc=Beng}}, {{t|bn|রুশি|tr=rushi|sc=Beng}}
 * Breton: {{t|br|Ruseg}}, {{t|br|Rusianeg}}
 * Bulgarian: {{t+|bg|ру́ски|m}} {{qualifier|ези́к}}
 * Burmese: {{t|my|ရုရှားစကား|sc=Mymr}}, {{t|my|ရုရှားဘာသာ|sc=Mymr}}
@@ -259,7 +259,7 @@
 * Kurdish:
 *: Kurmanji: {{t|ku|Ûrisî}}
 *: Sorani: {{t|ku|ڕوسی|tr=rūsi|sc=ku-Arab}}
-* Kyrgyz: {{t|ky|орус|sc=Cyrl}}, {{t|ky|орус тили|sc=Cyrl}}, {{t+|ky|орусча|sc=Cyrl}}
+* Kyrgyz: {{t+|ky|орус|sc=Cyrl}}, {{t|ky|орус тили|sc=Cyrl}}, {{t+|ky|орусча|sc=Cyrl}}
 * Lao: {{t|lo|ພາສາ​ລັດເຊຍ|sc=Laoo}}, {{t+|lo|ພາສາລັດເຊຍ|sc=Laoo}} <!-- the first translation has ZWNJ -->
 * Latin: {{t|la|lingua Ruthenica|f}}, {{t|la|Ruthenica|f}}
 {{trans-mid}}
@@ -366,7 +366,7 @@
 * Bashkir: {{t|ba|урыҫ|sc=Cyrl}}
 * Basque: {{t+|eu|errusiar}}
 * Belarusian: {{t|be|ру́скі}}
-* Bengali: {{t|bn|রুশ|tr=ruś|sc=Beng}}
+* Bengali: {{t+|bn|রুশ|tr=ruś|sc=Beng}}
 * Bulgarian: {{t+|bg|ру́ски|m}}
 * Burmese: {{t+|my|ရုရှား|sc=Mymr}}
 * Catalan: {{t+|ca|rus}}
@@ -401,7 +401,7 @@
 * Korean: {{t+|ko|러시아|alt=러시아의}}
 * Kurdish:
 *: Sorani: {{t|ku|ڕوسی|tr=rūsi|sc=ku-Arab}}
-* Kyrgyz: {{t|ky|орус|sc=Cyrl}}
+* Kyrgyz: {{t+|ky|орус|sc=Cyrl}}
 * Lao: {{t+|lo|ລັດເຊຍ|sc=Laoo}}
 {{trans-mid}}
 * Latin: {{t|la|ruthenicus}}
@@ -466,7 +466,7 @@
 *: Cyrillic: {{t|cu|русьскъ|sc=Cyrs}}
 {{trans-mid}}
 * Old East Slavic: {{t|orv|русьскъ|sc=Cyrs}}
-* Polish: {{t+|pl|ruski}}, {{t|pl|staroruski}}
+* Polish: {{t+|pl|ruski}}, {{t+|pl|staroruski}}
 * Portuguese: {{t+|pt|russo}}
 * Russian: {{t+|ru|ру́сский}}, {{t+|ru|древнеру́сский}}
 * Rusyn: {{t|rue|ру́ськый|sc=Cyrl}}
