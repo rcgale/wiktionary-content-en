@@ -1515,7 +1515,7 @@ Typical collocations with '''time''' or time expressions.
 *: Egyptian Arabic: {{t|arz|وقت|m|tr=waʾt|sc=Arab}}
 *: Hijazi Arabic: {{t|acw|وَقْت|m|tr=wagt|sc=Arab}}, {{t|acw|زَمَن|m|tr=zaman|sc=Arab}}
 * Armenian: {{t+|hy|ժամանակ|sc=Armn}}
-* Aromanian: {{t|rup|chiro}}
+* Aromanian: {{t|rup|chiro|m}}
 * Assamese: {{t|as|বেলা}}, {{t|as|সময়}}
 * Asturian: {{t+|ast|tiempu|m}}
 * Azerbaijani: {{t+|az|vaxt}}, {{t+|az|zaman}}
@@ -1530,7 +1530,7 @@ Typical collocations with '''time''' or time expressions.
 * Central Mazahua: {{t|maz|mezhe}}
 * Chechen: {{t|ce|хан}}
 * Cherokee: {{t|chr|ᎠᎵᏱᎵᏒ}}
-* Chichewa: {{t|ny|nthawi}}
+* Chichewa: {{t|ny|nthawi|c9|c10}}
 * Chinese:
 *: Cantonese: {{t|yue|時間|sc=Hani}}, {{t|yue|时间|tr=si4 gaan1, si4 gaan3|sc=Hani}}, {{t|yue|時光|sc=Hani}}, {{t|yue|时光|tr=si4 gwong1|sc=Hani}}
 *: Dungan: {{t|dng|сыҗе}}
@@ -1564,19 +1564,19 @@ Typical collocations with '''time''' or time expressions.
 *: East Central German: {{t|gmw-ecg|Zeit}} {{q|Erzgebirgisch}}
 * Greek: {{t+|el|χρόνος|m}}, {{t+|el|καιρός|m}}
 *: Ancient: {{t|grc|χρόνος|m}}
-* Gujarati: {{t+|gu|સમય|sc=Gujr}}
-* Hausa: {{t+|ha|lokaci}}
+* Gujarati: {{t+|gu|સમય|m|sc=Gujr}}
+* Hausa: {{t+|ha|lokaci|m}}
 * Hebrew: {{t+|he|זְמָן|m|tr=z'man}}
 * Hindi: {{t+|hi|समय|m}}, {{t|hi|वक़्त|m|sc=Deva}}
 * Hungarian: {{t+|hu|idő}}
-* Icelandic: {{qualifier|usually in definite form}} {{t+|is|tími|m}}, {{t+|is|tíð|f}}
+* Icelandic: {{t+|is|tími|m}} {{qualifier|usually in definite form}}, {{t+|is|tíð|f}}
 * Ido: {{t+|io|tempo}}
 * Inari Sami: {{t|smn|äigi}}
 * Indonesian: {{t+|id|waktu}}
 * Ingrian: {{t|izh|aika}}
-* Irish: {{t+|ga|am}}
+* Irish: {{t+|ga|am|m}}
 * Istriot: {{t|ist|tenpo|m}}
-* Italian: {{t+|it|tempo}}
+* Italian: {{t+|it|tempo|m}}
 * Japanese: {{t+|ja|時間|tr=じかん, jikan}}
 * Kannada: {{t+|kn|ವೇಳೆ}}, {{t+|kn|ಕಾಲ}}
 * Karelian: {{t|krl|aika}}
@@ -1585,8 +1585,8 @@ Typical collocations with '''time''' or time expressions.
 * Khanty: {{t-needed|kca}}
 * Khmer: {{t+|km|កាល}}, {{t+|km|ពេល}}, {{t+|km|វេលា}}
 * Korean: {{t+|ko|시간}} ({{t+|ko|時間|sc=Hani}})
-* Kurdish: {{t+|ku|dem}}
-*: Kurmanji: {{t+|ku|wext}}, {{t+|ku|çax}}
+* Kurdish: 
+*: Kurmanji: {{t+|ku|dem|f}}, {{t+|ku|wext}}, {{t+|ku|çax}}
 *: Sorani: {{t|ckb|وەخت|tr=wext}}, {{t|ckb|فەلەک|tr=felek}}
 * Kyrgyz: {{t+|ky|саат}}, {{t+|ky|убакыт}}, {{t+|ky|убакты}}
 * Ladin: {{t|lld|tëmp|m}}
@@ -1609,7 +1609,7 @@ Typical collocations with '''time''' or time expressions.
 * Mansi: {{t-needed|mns}}
 * Manx: {{t|gv|traa|m}}
 * Maori: {{t|mi|wā}}
-* Marathi: {{t|mr|काळ|sc=Deva}}
+* Marathi: {{t|mr|काळ|m|sc=Deva}}
 * Mingrelian: {{t|xmf|ჟამი}}
 * Mizo: {{t|lus|hun}}
 * Moksha: {{t|mdf|пинге}}
@@ -1617,10 +1617,10 @@ Typical collocations with '''time''' or time expressions.
 * Nahuatl: {{t|nah|cāhuitl}}
 * Navajo: {{t|nv|ookił}}
 * Nepali: {{t+|ne|समय|tr=samay}}
-* North Frisian: {{qualifier|Mooring}} {{t|frr|tid|f}}, {{qualifier|Föhr-Amrum}} {{t|frr|tidj|f}}
+* North Frisian: {{t|frr|tid|f}} {{qualifier|Mooring}}, {{t|frr|tidj|f}} {{qualifier|Föhr-Amrum}}
 * Northern Sami: {{t|se|áigi}}
 * Norwegian: {{t+|no|tid|m|f}}
-* Occitan: {{t+|oc|temps}}, {{t|oc|tèms|m}}
+* Occitan: {{t+|oc|temps|m}}, {{t|oc|tèms|m}}
 * Old Church Slavonic:
 *: Cyrillic: {{t|cu|врѣмѧ|n}}, {{t|cu|часъ|m}}
 * Old East Slavic: {{t|orv|веремѧ|n}}, {{t|orv|часъ|m}}
@@ -1634,8 +1634,8 @@ Typical collocations with '''time''' or time expressions.
 * Pitcairn-Norfolk: {{t|pih|tiem}}
 * Polish: {{t+|pl|czas|m-in}}
 * Portuguese: {{t+|pt|tempo|m}}
-* Punjabi: {{t|pa|ਸਮਾਂ}}
-* Romanian: {{t+|ro|timp}}, {{t+|ro|vreme}}
+* Punjabi: {{t|pa|ਸਮਾਂ|m}}
+* Romanian: {{t+|ro|timp|n}}, {{t+|ro|vreme|f}}
 * Romansch: {{t|rm|temp|m}}, {{t|rm|temps|m}}, {{t|rm|taimp|m}}, {{t|rm|tains|m}}
 * Russian: {{t+|ru|вре́мя|n}}, {{t+|ru|час|m}} {{qualifier|dated or poetic}}
 * Rusyn: {{t|rue|час|m}}
@@ -1655,7 +1655,7 @@ Typical collocations with '''time''' or time expressions.
 *: Lower Sorbian: {{t|dsb|cas|m}}
 *: Upper Sorbian: {{t|hsb|čas|m}}
 * Spanish: {{t+|es|tiempo|m}}
-* Swahili: {{t+|sw|wakati}}
+* Swahili: {{t+|sw|wakati|c11|c12}}
 * Swedish: {{t+|sv|tid|c}}
 * Tajik: {{t+|tg|замон}}, {{t+|tg|вақт}}
 * Tamil: {{t+|ta|காலம்}}
@@ -1680,7 +1680,7 @@ Typical collocations with '''time''' or time expressions.
 * Walloon: {{t+|wa|tins|m}}
 * Welsh: {{t+|cy|amser|m}}
 * West Frisian: {{t+|fy|tiid|c}}
-* Yagnobi: {{t|yai|вахт}}
+* Yagnobi: {{t|yai|вахт|tr=vaxt}}
 * Yakut: {{t|sah|бириэмэ}}, {{t|sah|кэм}}
 * Yiddish: {{t+|yi|צײַט|f}}
 * Zazaki: {{t|zza|wext}}, {{t|zza|çax}}
