@@ -2,7 +2,7 @@
 ==Faroese==
 
 ===Etymology===
-From {{etyl|non|fo}} {{m|non|verða}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*werþaną}}.
+From {{inh|fo|non|verða}}, from {{inh|fo|gem-pro|*werþaną}}.
 
 ===Pronunciation===
 * {{IPA|/ˈveːɹa/|lang=fo}}
@@ -23,7 +23,7 @@ From {{etyl|non|fo}} {{m|non|verða}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*wer
 ==Icelandic==
 
 ===Etymology===
-From {{etyl|non|is}} {{m|non|verða}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*werþaną}}.
+From {{inh|is|non|verða}}, from {{inh|is|gem-pro|*werþaną}}.
 
 ===Pronunciation===
 * {{IPA|/ˈvɛrða/|lang=is}}
@@ -70,8 +70,6 @@ From {{etyl|non|is}} {{m|non|verða}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*wer
 * {{jump|s|become}} [[gerast]]
 * {{jump|s|have to}} [[þurfa]]
 
-[[Category:Most used Icelandic verbs]]
-
 ====Derived terms====
 {{der-top4}}
 * {{l|is|ekki verður bæði sleppt og haldið}}
@@ -102,6 +100,7 @@ From {{etyl|non|is}} {{m|non|verða}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*wer
 * {{l|is|verði ykkur að góðu}}!
 {{der-bottom}}
 
+[[Category:Most used Icelandic verbs]]
 [[Category:Icelandic auxiliary verbs]]
 
 ----
@@ -120,14 +119,14 @@ From {{inh|non|gem-pro|*werþaną}}.
 {{non-conj-strong|class=3|verð|1s=verz|varð|2t=var|2s=varz|urð|3i=yrð|orð}}
 
 ====Descendants====
-* Faroese: {{l|fo|verða}}
-* Icelandic: {{l|is|verða}}
-* Norwegian Nynorsk: {{l|nn|verta}}, {{l|nn|verte}}
-** Norwegian Bokmål: {{l|nb|vart}} {{q|past tense of {{m|nb|bli}}|1938-2005}}
-* Old Swedish: {{l|gmq-osw|varþa}}, {{l|gmq-osw|værþa}}
-** Swedish: {{l|sv|varda}}
-* Old Danish: {{l|gmq-oda|warthæ}}
-** Danish: {{l|da|vorde}} {{q|archaic}}
-*** → Norwegian Bokmål: {{l|nb|vorde}} {{q|archaic}}
-* Westrobothnian: {{l|gmq-bot|wahl}}
-* Elfdalian: {{l|ovd|werda}}
+* {{desc|fo|verða}}
+* {{desc|is|verða}}
+* {{desc|nb|vart}} {{q|past tense of {{m|nb|bli}}|1938-2005}}
+* {{desc|nn|verta}}, {{l|nn|verte}}
+* {{desc|gmq-osw|varþa}}, {{l|gmq-osw|værþa}}
+** {{desc|sv|varda}}
+* {{desc|gmq-oda|warthæ}}
+** {{desc|da|vorde}} {{q|archaic}}
+*** {{desc|nb|vorde|bor=1}} {{q|archaic}}
+* {{desc|gmq-bot|wahl}}
+* {{desc|ovd|werda}}
