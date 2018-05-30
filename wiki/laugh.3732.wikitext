@@ -271,9 +271,9 @@ The simple past tense forms '''[[laught]]''', '''[[laugh'd]]''' and '''[[low]]''
 * Asturian: {{t|ast|rir}}, {{t|ast|rise}}
 * Azerbaijani: {{t+|az|gülmək}}
 * Basque: {{t|eu|barre egin}}
-* Belarusian: {{t|be|смяя́цца}}
+* Belarusian: {{t|be|смяя́цца|impf}}
 * Breton: {{t-needed|br}}
-* Bulgarian: {{t|bg|сме́я се}}
+* Bulgarian: {{t|bg|сме́я се|impf}}
 * Burmese: {{t+|my|ရယ်|sc=Mymr}}
 * Catalan: {{t+|ca|riure}}
 * Cherokee: {{t-needed|chr}}
@@ -306,8 +306,8 @@ The simple past tense forms '''[[laught]]''', '''[[laugh'd]]''' and '''[[low]]''
 * Greenlandic: {{t|kl|illarpoq}}, {{t|kl|illaatigaa}} (''trans.''), {{t|kl|illarpoq}}
 * Hausa: {{t-needed|ha}}
 * Hawaiian: {{t|haw|ʻakaʻaka}}, {{t|haw|'aka}}
-* Hebrew: {{t+|he|צָחַק}}
-* Hindi: {{t+|hi|हँसना|tr=hãsnā|sc=Deva}}, {{t|hi|हंसना|tr=hãsnā|sc=Deva}}
+* Hebrew: {{t+|he|צָחַק|tr=tsakhák}}
+* Hindi: {{t+|hi|हँसना}}, {{t|hi|हंसना}}
 * Hungarian: {{t+|hu|nevet}}
 * Icelandic: {{t+|is|hlæja}}
 * Ido: {{t+|io|ridar}}
@@ -319,7 +319,7 @@ The simple past tense forms '''[[laught]]''', '''[[laugh'd]]''' and '''[[low]]''
 * Japanese: {{t+|ja|笑う|tr=わらう, warau|sc=Jpan}}
 * Javanese: {{t-needed|jv}}
 * Kazakh: {{t+|kk|күлу}}
-* Khmer: {{t+|km|សើច|tr=saǝc|sc=Khmr}}
+* Khmer: {{t+|km|សើច}}
 * Korean: {{t+|ko|웃다}}
 * Kurdish: {{t+|ku|kenîn|sc=ku-Arab}}
 *: Sorani: {{t+|ku|پێکه‌نین}}
@@ -331,7 +331,7 @@ The simple past tense forms '''[[laught]]''', '''[[laugh'd]]''' and '''[[low]]''
 * Luganda: {{t-needed|lg}}
 * Luxembourgish: {{t|lb|laachen}}
 * Lü: {{t|khb|ᦷᦃ|tr=xó}}
-* Macedonian: {{t|mk|се смее}}
+* Macedonian: {{t|mk|се смее|impf}}
 {{trans-mid}}
 * Malay: {{t|ms|tawa}}, {{t|ms|ketawa}}, {{t|ms|gelak}}
 * Malayalam: {{t|ml|പൊട്ടിച്ചിരിക്കുക|sc=Mlym}}, {{t+|ml|അട്ടഹസിക്കുക|sc=Mlym}}
@@ -345,14 +345,15 @@ The simple past tense forms '''[[laught]]''', '''[[laugh'd]]''' and '''[[low]]''
 * Northern Sami: {{t|se|čaibmat}}
 * Norwegian: {{t+|no|le}}, {{t|no|skratte}}
 * Occitan: {{t+|oc|rire}}, {{t+|oc|rider}}, {{t+|oc|arríder}}
-* Old Church Slavonic: {{t|cu|смиꙗти}}
-* Old East Slavic: {{t|orv|смиꙗти сꙗ|impf}}, {{t|orv|смѣꙗти сꙗ|impf}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|смиꙗти|impf|alt=смиꙗти сѧ}}
+* Old East Slavic: {{t|orv|смиꙗти|impf|alt=смиꙗти сꙗ}}, {{t|orv|смѣꙗти|impf|alt=смѣꙗти сꙗ}}
 * Old Occitan: {{t|pro|ridre}}
 * Oriya: {{t-needed|or}}
 * Ottoman Turkish: {{t|ota|گولمك|tr=gülmek|sc=ota-Arab}}
 * Pashto: {{t-needed|ps}}
 * Persian: {{t+|fa|خندیدن|tr=xandidan}}
-* Polish: {{t+|pl|śmiać się}}
+* Polish: {{t+|pl|śmiać się|impf}}
 * Portuguese: {{t+|pt|rir}}
 * Punjabi: {{t-needed|pa}}
 * Quechua: {{t+|qu|asiy}}
@@ -370,11 +371,11 @@ The simple past tense forms '''[[laught]]''', '''[[laugh'd]]''' and '''[[low]]''
 * Sicilian: {{t+|scn|rìdiri}}, {{t+|scn|arrìdiri}}
 * Sindhi: {{t-needed|sd}}
 * Sinhalese: {{t|si|හිනා වෙනවා|sc=Sinh}}
-* Slovak: {{t|sk|smiať sa}}
-* Slovene: {{t+|sl|smejati se}}
+* Slovak: {{t|sk|smiať sa|impf}}
+* Slovene: {{t+|sl|smejati se|impf}}
 * Somali: {{t|so|qosol}}
 * Sorbian:
-*: Lower Sorbian: {{t|dsb|smjaś|alt=smjaś se|impf}}
+*: Lower Sorbian: {{t|dsb|smjaś|impf|alt=smjaś se|impf}}
 *: Upper Sorbian: {{t|hsb|so smjeć|impf}}, {{t|hsb|so zasmjeć|pf}}
 * Spanish: {{t+|es|reír}}
 * Sundanese: {{t|su|gumujeng}}
@@ -387,7 +388,7 @@ The simple past tense forms '''[[laught]]''', '''[[laugh'd]]''' and '''[[low]]''
 * Tibetan: {{t|bo|གད་མོ་ཤོར་བ}}
 * Turkish: {{t+|tr|gülmek}}
 * Turkmen: {{t|tk|gülmek}}
-* Ukrainian: {{t|uk|смія́тися}}
+* Ukrainian: {{t|uk|смія́тися|impf}}
 * Urdu: {{t|ur|ہنسنا|tr=hãsnā|sc=ur-Arab}}
 * Uyghur: {{t|ug|كۈلمەك}}
 * Uzbek: {{t+|uz|kulmoq}}
@@ -400,7 +401,7 @@ The simple past tense forms '''[[laught]]''', '''[[laugh'd]]''' and '''[[low]]''
 * Wolof: {{t-needed|wo}}
 * Xhosa: {{t-needed|xh}}
 * Yagnobi: {{t|yai|хантак}}
-* Yiddish: {{t|yi|לאַכן|tr=lakhn|sc=Hebr}}, {{t|yi|צעלאַכן|tr=tselakhn|sc=Hebr}}
+* Yiddish: {{t|yi|לאַכן}}, {{t|yi|צעלאַכן}}
 * Yoruba: {{t-needed|yo}}
 * Zazaki: {{t|zza|huwayen}}
 * Zhuang: {{t|za|hu}}, {{t|za|riu}}
