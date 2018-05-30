@@ -17,7 +17,7 @@
 ==Faroese==
 
 ===Etymology===
-From {{der|fo|non|halda}}, from {{der|fo|gem-pro|*haldaną}}.
+From {{inh|fo|non|halda}}, from {{inh|fo|gem-pro|*haldaną}}.
 
 ===Verb===
 {{fo-verb|helt|hildu|hildið}}
@@ -36,7 +36,7 @@ From {{der|fo|non|halda}}, from {{der|fo|gem-pro|*haldaną}}.
 ==Icelandic==
 
 ===Etymology===
-From {{der|is|non|halda}}, from {{der|is|gem-pro|*haldaną}}.
+From {{inh|is|non|halda}}, from {{inh|is|gem-pro|*haldaną}}.
 
 ===Pronunciation===
 * {{IPA|/ˈhalta/|lang=is}}
@@ -70,7 +70,7 @@ From {{der|is|non|halda}}, from {{der|is|gem-pro|*haldaną}}.
 * {{l|nn|halde}}
 
 ===Etymology===
-From {{der|nn|non|halda}}, from {{der|nn|gem-pro|*haldaną}}. Akin to {{cog|en|hold}}.
+From {{inh|nn|non|halda}}, from {{inh|nn|gem-pro|*haldaną}}. Akin to {{cog|en|hold}}.
 
 ===Pronunciation===
 * {{IPA|/²hɑldɑ/|lang=no}}
@@ -79,14 +79,12 @@ From {{der|nn|non|halda}}, from {{der|nn|gem-pro|*haldaną}}. Akin to {{cog|en|h
 {{nn-verb|held|heldt|halde|imp2=haldt}}
 
 # to {{l|en|hold}}
-#: ''Kva '''held''' du på? ''
-#:: What are you '''holding'''?
+#: {{ux|nn|Kva '''held''' du på?|What are you '''holding'''?}}
 '''halda fram'''
 # to {{l|en|continue}}
 '''halda seg'''
 # to {{l|en|endure}}, {{l|en|keep}}
-#: ''Kor lenge '''held''' denne mjølka '''seg'''?''
-#:: How long will this milk '''keep'''?
+#: {{ux|nn|Kor lenge '''held''' denne mjølka '''seg'''?|How long will this milk '''keep'''?}}
 #: {{usex|nn|Eg må på do. Eg klarer ikkje å '''halda meg''' lenger.|I need the toilet. I can not '''keep''' it in any longer.}}
 
 ===See also===
@@ -109,6 +107,9 @@ From {{inh|non|gem-pro|*haldaną}}.
 
 ====Conjugation====
 {{non-conj-strong|class=7|hald|1i=held|1is=helz|1u=hǫld|helt|2t=helz|2s=helz|held|hald}}
+
+====Descendants====
+* {{desc|da|holde}}
 
 ===References===
 * {{R:Zoega}}
@@ -134,4 +135,4 @@ From {{inh|gmq-osw|non|halda}}, from {{inh|gmq-osw|gem-pro|*haldaną}}.
 {{gmq-osw-conj-st|hald|hiolt|hiold|hald|pastsg=hælt|past2sg=''*''hælst|impsg=halt|mppressg=halts}}
 
 ====Descendants====
-* Swedish: {{l|sv|hålla}}
+* {{desc|sv|hålla}}
