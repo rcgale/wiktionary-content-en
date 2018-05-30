@@ -1,7 +1,7 @@
 ==Catalan==
 
 ===Etymology===
-From {{der|ca|la|genero}}.
+From {{der|ca|la|generāre}}, present active infinitive of {{m|la|generō}}.
 
 ===Pronunciation===
 * {{ca-IPA}}
@@ -9,15 +9,17 @@ From {{der|ca|la|genero}}.
 ===Verb===
 {{ca-verb}}
 
-# to [[generate]], to [[create]]
+# to [[generate]], [[create]]
 
 ====Conjugation====
 {{ca-conj-ar|gener}}
 
 ====Related terms====
-* {{l|ca|generació}}
-* {{l|ca|generatiu}}
-* {{l|ca|regenerar}}
+{{rel3
+|generació
+|generatiu
+|regenerar
+|lang=ca}}
 
 ===Further reading===
 * {{R:IEC2}}
@@ -35,18 +37,19 @@ From {{der|es|la|generāre}}, present active infinitive of {{m|la|generō}}.
 ===Verb===
 {{es-verb|gener|ar}}
 
-# to [[generate]], to [[create]]
-#: ''Una política de Estado para '''generar''' riqueza''
-#:: ''A state policy to create wealth''
+# to [[generate]], [[create]]
+#: {{ux|es|Una política de Estado para '''generar''' riqueza|A state policy to create wealth}}
 #: {{syn|es|crear}}
 
 ====Conjugation====
 {{es-conj-ar|gener|combined=1}}
 
 ====Related terms====
-* {{l|es|generación}}
-* {{l|es|generativo}}
-* {{l|es|regenerar}}
+{{rel3
+|generación
+|generativo
+|regenerar
+|lang=es}}
 
 ===Further reading===
 * {{R:DRAE 2001}}
