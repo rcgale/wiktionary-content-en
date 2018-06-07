@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{bor|en|fr|imperméable}}, from {{der|en|la|impermeābilis}}, from {{m|la|in-|im-}} + {{m|la|permeābilis||permeable}}.
+From {{bor|en|fr|imperméable}}, from {{der|en|la|impermeābilis}}, from {{m|la|in-|im-}} + {{m|la|permeābilis|t=permeable}}.
 
 ===Adjective===
 {{en-adj}}
@@ -17,9 +17,11 @@ From {{bor|en|fr|imperméable}}, from {{der|en|la|impermeābilis}}, from {{m|la|
 * {{l|en|permeable}}
 
 ====Related terms====
-* {{l|en|nonpermeable}}
-* {{l|en|permeability}}
-* {{l|en|impermeability}}
+{{rel3
+|nonpermeable
+|permeability
+|impermeability
+|lang=en}}
 
 ====Translations====
 {{trans-top|impossible to permeate}}
@@ -56,15 +58,16 @@ From {{bor|en|fr|imperméable}}, from {{der|en|la|impermeābilis}}, from {{m|la|
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{m|ca|impermeabilis}}, equivalent to {{prefix|in|permeable|lang=ca}}.
+From {{etyl|la|ca}} {{m|ca|impermeābilis}}, equivalent to {{af|ca|in-|alt1=im-|permeable}}.
+
+===Pronunciation===
+* {{ca-IPA}}
 
 ===Adjective===
 {{ca-adj|mf}}
 
 # {{l|en|impermeable}}
-
-====Antonyms====
-* {{l|en|permeable}}
+#: {{ant|en|permeable}}
 
 ===Noun===
 {{ca-noun|m}}
@@ -79,13 +82,17 @@ From {{etyl|la|ca}} {{m|ca|impermeabilis}}, equivalent to {{prefix|in|permeable|
 
 ==Spanish==
 
+===Etymology===
+From {{der|es|la|impermeābilis}}, equivalent to {{af|es|in-|alt1=im-|permeable}}.
+
+===Pronunciation===
+* {{es-IPA}}
+
 ===Adjective===
 {{es-adj}}
 
 # {{l|en|impermeable}}
-
-====Antonyms====
-* {{l|es|permeable}}
+#: {{ant|es|permeable}}
 
 ===Noun===
 {{es-noun|m}}
