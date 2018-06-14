@@ -57,26 +57,27 @@ From {{etyl|enm|en}} {{m|enm|cas}}, from {{etyl|fro|en}} {{m|fro|cas||an event}}
 #*: Execution does not automatically stop at the next '''case'''.
 
 =====Synonyms=====
-* {{l|en|befall}}
-* {{l|en|grammatical case}}
+{{syn2
+|befall
+|grammatical case
+|lang=en}}
 
 =====Hyponyms=====
-* {{l|en|court case}}
+* [[court case]]
 * See also [[Thesaurus:grammatical case]]
 
 =====Derived terms=====
-* {{l|en|best-case}}
-* {{l|en|worst-case}}
-
-=====Related terms=====
-{{rel4|lang=en|{{l|en|be the case}}
-|{{l|en|case study}}
-|{{l|en|Case}}
-|{{l|en|hard case}}
-|{{l|en|in case}}
-|{{l|en|just in case}}
-|{{l|en|make a case}}
-}}
+{{der4
+|be the case
+|case study
+|Case
+|best-case
+|hard case
+|in case
+|just in case
+|make a case
+|worst-case
+|lang=en}}
 
 =====Translations=====
 {{trans-top|actual event, situation, or fact}}
@@ -229,8 +230,8 @@ From {{etyl|enm|en}} {{m|enm|cas}}, from {{etyl|fro|en}} {{m|fro|cas||an event}}
 
 {{checktrans-top}}
 * Georgian: {{t+check|ka|ბრუნვა}}
-{{trans-mid}}
-{{trans-bottom}}
+{{checktrans-mid}}
+{{checktrans-bottom}}
 
 ====Verb====
 {{en-verb|cas}}
@@ -269,24 +270,22 @@ From {{inh|en|enm|cas}}, from {{der|en|ONF.|casse}}, (compare {{cog|fro|chasse||
 #: {{rfquotek|Knight}}
 # A thin [[layer]] of [[hard]]er [[metal]] on the [[surface]] of an object whose deeper metal is allowed to remain soft.
 
-=====Derived terms=====
-{{rel-top3|Terms derived from ''case'' (noun, etymology 2)}}
-* {{l|en|attaché case}}
-* {{l|en|briefcase}}
-* {{l|en|camel case}}
-* {{l|en|casing}} (noun)
-* {{l|en|case harden}}
-{{rel-mid3}}
-* {{l|en|letter case}}
-* {{l|en|lower case}}
-* {{l|en|packing case}}
-{{rel-mid3}}
-* {{l|en|sentence case}}
-* {{l|en|staircase}}
-* {{l|en|suitcase}}
-* {{l|en|title case}}
-* {{l|en|upper case}}
-{{rel-bottom}}
+=====Hyponyms=====
+{{hyp4|title=Terms derived from ''case'' (noun, etymology 2)
+|attaché case
+|briefcase
+|camel case
+|casing
+|case harden
+|letter case
+|lower case
+|packing case
+|sentence case
+|staircase
+|suitcase
+|title case
+|upper case
+|lang=en}}
 
 =====Translations=====
 {{trans-top|box containing a number of identical items of manufacture}}
@@ -505,8 +504,6 @@ From {{inh|en|enm|cas}}, from {{der|en|ONF.|casse}}, (compare {{cog|fro|chasse||
 [[Category:English terms with multiple etymologies]]
 [[Category:en:Containers]]
 [[Category:en:Units of measure]]
-
-----
 
 ==Asturian==
 
