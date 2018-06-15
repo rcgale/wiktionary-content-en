@@ -205,8 +205,9 @@ See {{section link|fire/translations#Noun}}.
 #: {{ux|en|When a neuron '''fires''', it transmits information.}}
 # {{lb|en|transitive}} To forcibly direct (something).
 #: {{ux|en|He answered the questions the reporters '''fired''' at him.}}
-# {{lb|en|intransitive|computer sciences, software engineering}} To initiate an event (by means of an event handler).
+# {{lb|en|ambitransitive|computer sciences, software engineering}} To initiate an event (by means of an event handler).
 #: {{ux|en|The event handler should only '''fire''' after all web page content has finished loading.}}
+#: {{ux|en|The queue '''fires''' a job whenever the thread pool is ready to handle it.}}
 # To inflame; to irritate, as the passions.
 #: {{ux|en|to '''fire''' the soul with anger, pride, or revenge}}
 #* {{w|John Dryden}} (1631-1700)
