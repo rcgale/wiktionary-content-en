@@ -1,13 +1,30 @@
 ==English==
+{{wikipedia}}
 
 ===Noun===
 {{en-noun}}
-{{wikipedia}}
 
-# {{lb|en|set theory}} A [[relation]], such as "is less than" or "is the daughter of", that makes statements about pairs of objects, these statements being true or false depending on the objects.
+# {{lb|en|set theory|order theory|"on" a set A}} A [[subset]] of the [[Cartesian product]] ''A''×''A'' (the set of [[ordered pair]]s (''a'', ''b'') of [[element]]s of ''A'').
+#* '''1978''', {{w|George Grätzer}}, ''General Lattice Theory'', Academic Press, [https://books.google.com.au/books?id=OdPQs1wx8ZIC&pg=PA1&dq=%22binary+relation%22%7C%22binary+relations%22&hl=en&sa=X&ved=0ahUKEwiXs8KD2drbAhXIx7wKHexSAlUQ6AEI4wEwJQ#v=onepage&q=%22binary%20relation%22%7C%22binary%20relations%22&f=false page 1],
+#*: A ''partially ordered set'' <math>\langle A,\varrho\rangle</math> consists of a nonvoid set <math>A</math> and a '''binary relation''' <math>\varrho</math> on <math>A</math>, such that <math>\varrho</math> satisfies properties (P1)-(P3).
+#* '''1999''', James C. Moore, ''Mathematical Methods for Economic Theory 1'', Springer, [https://books.google.com.au/books?id=akdEl1R0K6sC&pg=PA24&dq=%22binary+relation%22%7C%22binary+relations%22&hl=en&sa=X&ved=0ahUKEwiXs8KD2drbAhXIx7wKHexSAlUQ6AEIhAEwEw#v=onepage&q=%22binary%20relation%22%7C%22binary%20relations%22&f=false page 24],
+#*: '''1.30. Corollary.''' ''If P is a '''binary relation''' which is asymmetric and negatively transitive, then P is also transitive.''
+#*: It should be noted that a '''binary relation''' may be irreflexive and negatively transitive without being transitive; as an example, consider the standard inequality relation (≠).
+#* '''2005''', T. S. Blyth, ''Lattices and Ordered Algebraic Structures'', Springer, [https://books.google.com.au/books?id=jQYwCI__1mgC&pg=PA1&dq=%22binary+relation%22%7C%22binary+relations%22&hl=en&sa=X&ved=0ahUKEwiXs8KD2drbAhXIx7wKHexSAlUQ6AEIswIwNA#v=onepage&q=%22binary%20relation%22%7C%22binary%20relations%22&f=false page 1],
+#*: '''Definition''' If ''E'' is a non-empty set then by an '''order''' on ''E'' we mean a '''binary relation''' on ''E'' that is reflexive, anti-symmetric, and transitive.
+# {{lb|en|set theory|order theory|"on" or "between" sets A and B}} A [[subset]] of the [[Cartesian product]] ''A''×''B''.
+
+====Usage notes====
+For a binary relation <math>R</math>, the notation <math>a R b</math> signifies that <math>(a,b) \in R</math>, and one may say that <math>a</math> is in binary relation <math>R</math> to <math>b</math>.
+
+====Synonyms====
+* {{sense|order theory}} {{l|en|correspondence}}, {{l|en|dyadic relation}}, {{l|en|2-place relation}}
+
+====Hyponyms====
+* {{sense|order theory}} {{l|en|dependency relation}}, {{l|en|equivalence relation}}
 
 ====Translations====
-{{trans-top|relation}}
+{{trans-top|order theory}}
 * Czech: {{t|cs|binární relace|f}}
 * French: {{t|fr|relation binaire|f}}
 * Hungarian: {{t|hu|kétváltozós reláció}}
@@ -18,3 +35,13 @@
 * Romanian: {{t+|ro|relație binară|f}}
 * Spanish: {{t|es|relación binaria|f}}
 {{trans-bottom}}
+
+===See also===
+* {{l|en|nil relation}} {{gloss|the [[empty set]]}}
+* {{l|en|universal relation}} {{gloss|the entire set ''A''×''A''}}
+
+===Further reading===
+* {{pedialite|Finitary relation}}
+* {{pedialite|Order theory}}
+* [https://www.encyclopediaofmath.org/index.php/Binary_relation Binary relation] on {{w|Encyclopedia of Mathematics}}
+* [http://mathworld.wolfram.com/BinaryRelation.html Binary Relation] on {{w|MathWorld|Wolfram MathWorld}}
