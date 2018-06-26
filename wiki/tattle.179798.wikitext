@@ -1,24 +1,40 @@
 ==English==
+{{was wotd|2018|October|21}}
 
 ===Etymology===
-Likely akin to {{etyl|dum|-}}, {{etyl|gml|-}}, [[w:Saterland Frisian language|East Frisian]] ''[[tateren]]'' - “to chatter, babble”, possibly of imitative origin. Attested in 1481 in William Caxton's translation of “[[w:Reynard|The History of Reynard the Fox]]” in the sense “to [[stutter]]”, probably borrowed from {{etyl|dum|en}}.
+From {{der|en|dum|tatelen}}, {{m|dum|tateren||to babble, chatter}}, originally {{glossary|imitative}}.<ref>{{R:Oxford Dictionaries Online}}</ref> The word is cognate with {{cog|nds|tateln}}, {{m|nds|täteln||to cackle, gabble}}.<ref>{{R:Oxford English Dictionary|entry=Tattle, sb.|volume=IX|part=2|page=111|column=2}}</ref>
+
+===Pronunciation===
+* {{a|RP}} {{IPA|/ˈtæt(ə)l/|lang=en}}
+* {{a|GA}} {{IPA|/ˈtætl̩/|/-ɾl̩/|lang=en}}
+* {{hyphenation|tat|tle|lang=en}}
 
 ===Verb===
-{{en-verb|tattles|tattling|tattled|tattled}}
+{{en-verb|tattl}}
 
-# {{senseid|en|to report others' wrongdoings or violations}}{{lb|en|intransitive|pejorative}} To [[report]] others' [[wrongdoing]]s or [[violations]]; to [[tell on]] somebody; to [[gossip]] or to disclose [[incriminating]] information (usually said of children).
-# {{lb|en|intransitive}} To [[chatter]].
+# {{lb|en|intransitive}} To [[chatter#Verb|chatter]]; to [[gossip#Verb|gossip]].
 #* '''1599''', [[w:William Shakespeare|William Shakespeare]], ''[[w:Much Ado About Nothing|Much Ado About Nothing]]'', [[s:Much Ado About Nothing (Shakespeare)|Act 2 Scene 1]]
-#*: BEATRICE. He were an excellent man that were made just in the mid-way between him and Benedick: the one is too like an image, and says nothing; and the other too like my lady's eldest son, evermore '''tattling'''.
+#*: He were an excellent man that were made just in the mid-way between him and Benedick: the one is too like an image, and says nothing; and the other too like my lady's eldest son, evermore '''tattling'''.
 #* Dryden
 #*: the '''tattling''' quality of age, which is always narrative
+# {{senseid|en|to report others' wrongdoings or violations}}{{lb|en|intransitive|Canada|US|pejorative}} ''Often said of children'': to [[report#Verb|report]] [[incriminating#Adjective|incriminating]] [[information]] about another person, or a person's [[wrongdoing]]; to [[tell on]] somebody. {{defdate|from late 15th c.}}
+# {{lb|en|intransitive|obsolete}} To [[speak]] like a [[baby#Noun|baby]] or [[young#Adjective|young]] [[child]]; to [[babble#Verb|babble]], to [[prattle]]; to speak [[haltingly]]; to [[stutter#Verb|stutter]].
+#* Attested in 1481 in William Caxton's translation of “[[w:Reynard|The History of Reynard the Fox]]”
 
 ====Synonyms====
-* {{l|en|blow the whistle}}, {{l|en|rat on}}, {{l|en|sing}}, {{l|en|snitch}}, {{l|en|squeal}}
-* {{l|en|gossip}}; see also [[WS:chatter]]
+* {{sense|to chatter}} ''see'' [[Thesaurus:chatter]]
+* {{sense|to report incriminating information or wrongdoing}} {{l|en|blow the whistle}}, {{l|en|rat on}}, {{l|en|sing}}, {{l|en|snitch}}, {{l|en|squeal}}
 
 ====Translations====
-{{trans-top|to report others' wrongdoings or violations}}
+{{trans-top-also|to chatter|chatter|gossip}}
+* Dutch: {{t+|nl|kletsen}}, {{t+|nl|babbelen}}
+* Finnish: {{t+|fi|juoruilla}}, {{t|fi|rupatella}}
+{{trans-mid}}
+* German: {{t+|de|klatschen}}, {{t+|de|tratschen}}
+* Russian: {{t+|ru|болта́ть|n}}
+{{trans-bottom}}
+
+{{trans-top|to report incriminating information or wrongdoing}}
 * Chinese:
 *: Mandarin: {{t+|cmn|打小报告|tr=dǎ xiǎo bàogào|sc=Hani}}
 * Dutch: {{t+|nl|roddelen}}, {{t+|nl|klikken}}
@@ -31,30 +47,30 @@ Likely akin to {{etyl|dum|-}}, {{etyl|gml|-}}, [[w:Saterland Frisian language|Ea
 * Spanish: {{t+|es|delatar}}
 {{trans-bottom}}
 
-{{trans-top|to chatter}}
-* Dutch: {{t+|nl|kletsen}}, {{t+|nl|babbelen}}
-* Finnish: {{t+|fi|juoruilla}}, {{t|fi|rupatella}}
-{{trans-mid}}
-* German: {{t+|de|klatschen}}, {{t+|de|tratschen}}
-* Russian: {{t+|ru|болта́ть|n}}
-{{trans-bottom}}
+====Derived terms====
+* {{l|en|tattler}}
+* {{l|en|tattletale}}
+* {{l|en|tattling|pos=noun}}
 
 ===Noun===
-{{en-noun|-}}
+{{en-noun|~}}
 
-# A [[tattletale]].
-# [[gossip|Gossip]]; idle talk.
-
-====Related terms====
-* {{l|en|tattletale}}
+# {{lb|en|countable}} A [[tattletale]].
+# {{lb|en|uncountable}} [[idle#Adjective|Idle]] [[talk#Noun|talk]]; [[gossip#Noun|gossip]].
 
 ====Translations====
 {{trans-see|tattletale}}
 
-{{trans-top|gossip; idle talk}}
+{{trans-top|idle talk; gossip}}
 * Finnish: {{t+|fi|rupattelu}}, {{t+|fi|juoruilu}}, {{t+|fi|juttelu}}
 {{trans-mid}}
 * German: {{t+|de|Klatsch|m}}, {{t+|de|Tratsch|m}}
 {{trans-bottom}}
+
+===References===
+<references />
+
+===Further reading===
+* {{pedia|gossip}}
 
 [[Category:en:Talking]]
