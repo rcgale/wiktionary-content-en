@@ -2,7 +2,7 @@
 ==English==
 
 ===Alternative forms===
-* {{l|en|Ebrew}} {{qualifier|obsolete}}
+* {{l|en|Ebrew}} {{q|obsolete}}
 
 ===Etymology===
 From {{der|en|enm|Ebreu}}, from {{der|en|fro|Ebreu}}, from {{der|en|la|hebraeus}} or {{m|la|hebraicus}}, from {{der|en|grc|Ἑβραῖος}}, from {{der|en|arc|||tr='ibrāy}}, from {{der|en|he|עברי|tr=ivrí}}, from {{der|en|he|עבר|tr=ever}}.
@@ -120,12 +120,18 @@ From {{der|en|enm|Ebreu}}, from {{der|en|fro|Ebreu}}, from {{der|en|la|hebraeus}
 * {{l|en|Jewish}}
 
 ===Noun===
-{{en-noun}}
+{{en-noun|~}}
 
-# A [[member]] or [[descendant]] of a [[Semite|Semitic]] [[people]] claiming descent from [[Abraham]], [[Isaac]], and [[Jacob]].
-# A [[descendant]] of the [[biblical]] [[Patriarch]] [[Eber]].
+# {{lb|en|countable}} A [[member]] or [[descendant]] of a [[Semite|Semitic]] [[people]] claiming descent from [[Abraham]], [[Isaac]], and [[Jacob]].
+# {{lb|en|countable}} A [[descendant]] of the [[biblical]] [[Patriarch]] [[Eber]].
+# {{lb|en|uncountable}} The [[Semitic]] [[language]] spoken by the Hebrew people.
+# {{lb|en|uncountable}} The writing system used in Hebrew language.
+
+====Hyponyms====
+* {{l|en|Ivrit}}
 
 ====Derived terms====
+* {{q|language}} {{l|en|Biblical Hebrew}}
 * {{l|en|Hebrewess}}
 * {{l|en|Shebrew}}
 
@@ -180,27 +186,6 @@ From {{der|en|enm|Ebreu}}, from {{der|en|fro|Ebreu}}, from {{der|en|la|hebraeus}
 
 {{trans-see|Jewish}}
 
-{{trans-see|Yiddish}}
-
-{{checktrans-top}}
-* Indonesian: {{t-check|id|Yahudi}}, {{t-check|id|Ibrani}}
-{{trans-mid}}
-* Persian: {{t+check|fa|عبری|tr=ebri}}, {{t+check|fa|عبرانی|tr=ebrani}}
-{{trans-bottom}}
-
-===Proper noun===
-{{en-proper noun}}
-
-# The [[Semitic]] [[language]] spoken by the Hebrew people.
-# The writing system used in Hebrew language.
-
-====Hyponyms====
-* {{l|en|Ivrit}}
-
-====Derived terms====
-* {{l|en|Biblical Hebrew}}
-
-====Translations====
 {{trans-top-also|language|Biblical Hebrew}}
 * Albanian: {{t+|sq|gjuha hebraike}}
 * Arabic: {{t|ar|الْعِبْرِيَّةُ|f}}, {{t|ar|الْيَهُودِيَّةُ|f}}
@@ -270,9 +255,13 @@ From {{der|en|enm|Ebreu}}, from {{der|en|fro|Ebreu}}, from {{der|en|la|hebraeus}
 
 {{trans-see|Yiddish}}
 
-{{trans-see|Jewish}}
+{{checktrans-top|person}}
+* Indonesian: {{t-check|id|Yahudi}}, {{t-check|id|Ibrani}}
+{{trans-mid}}
+* Persian: {{t+check|fa|عبری|tr=ebri}}, {{t+check|fa|عبرانی|tr=ebrani}}
+{{trans-bottom}}
 
-{{checktrans-top}}
+{{checktrans-top|language}}
 * Indonesian: {{t-check|id|Yahudi}}, {{t-check|id|Ibrani}}
 {{trans-mid}}
 * Persian: {{t+check|fa|عبری|tr=ebri}}, {{t+check|fa|عبرانی|tr=ebrani}}
