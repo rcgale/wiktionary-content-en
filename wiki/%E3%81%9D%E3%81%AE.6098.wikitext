@@ -1,52 +1,65 @@
 ==Japanese==
 
-===Etymology===
-From {{inh|ja|ojp|tr=so₂no₂}} → {{IPAchar|/sono/}}.
+===Etymology 1===
+{{IPAfont|⟨so<sub>2</sub> no<sub>2</sub>⟩}} → *{{IPAchar|/sənə/}} → {{IPAchar|/sono/}}
 
-===Pronunciation===
-{{ja-pron|acc=0}}
+From {{inh|ja|ojp|-}}.
+
+{{rfe|ja}}
+
+====Alternative forms====
+* {{ja-l|其の}}
+
+====Pronunciation====
+{{ja-pron|acc=0|acc_ref=DJR}}
 
 ====Adnominal====
 {{ja-pos|adnominal}}
 
-# {{ja-def|其の}} ''([[deictically]])'' [[that]] ... near you (near the addressee)
+# {{lb|ja|[[deictically]]}} [[that]] ... near you (near the addressee)
 #: {{ja-usex|私が読みたい本は、'''その'''本です。|わたし が よみたい ほん は、 '''その''' ほん です。|What I want to read is '''that''' book.}}
-# {{ja-def|其の}} ''([[anaphorically]])'' [[the]] ... we are talking about.
-# {{ja-def|其の}} of it. [[its]].
+# {{lb|ja|[[anaphorically]]}} [[the]] ... we are talking about.
+# ...of it; [[its]]
+
+=====Usage notes=====
+* ''Sono'' is anaphorically used to refer to things and experiences that either the speaker or the listener knows about, but not both. Compare the two following sentences:
+*: {{ja-usex|'''その'''本はやすいですか。|'''その''' ほん は やすい です か。|Is '''that''' book (which we are talking about) cheap? ''(anaphorically)''<br/>Is '''that''' book (I'm pointing to/near you/of yours) cheap? ''(deictically)''}}
+*: {{ja-usex|[[あの]]本はやすいですか。|あの ほん は やすい です か。|Is the book (which we both know) cheap? ''(anaphorically)''<br/>Is that book (over there, which you and I can see) cheap? ''(deictically)''}}
+* The hiragana spelling {{ja-l||その}} is preferred to the kanji spelling {{ja-l|其の}}, which is rarely used.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|その足で|その あしで}}
+* {{ja-r|その時はその時|その とき は その とき}}
+* {{ja-r|その日その日|その ひ その ひ}}
+* {{ja-r|その日暮らし|その ひぐらし}}
+{{der-bottom}}
 
 =====See also=====
 {{Japanese demonstratives}}
 
-=====Usage notes=====
-* その is anaphorically used to refer to things and experiences that either the speaker or the listener knows about, but not both. Compare the two following sentences,
-*: '''その'''本はやすいですか？
-*:: Is that book (which we are talking about) cheap? ''(anaphorically)''
-*:: Is that book (I'm pointing to/near you/of yours) cheap? ''(deictically)''
-*: '''あの'''本はやすいですか？
-*:: Is the book (which we both know) cheap? ''(anaphorically)''
-*:: Is that book (over there, which you and I can see) cheap? ''(deictically)''
-* The hiragana spelling ([[その]]) is preferred to the kanji spelling ([[其の]]), which is rarely used.
+====Interjection====
+{{ja-pos|interjection}}
 
-====Related terms====
-* {{ja-r|この}}: (''demonstrative'') [[this]]
-* {{ja-r|あの}}: (''demonstrative'') [[that]] (near the listener)
-* {{ja-r|どの}}: (''demonstrative'') [[which]]
-* {{ja-r|そこ}}: [[there]]
-* {{ja-r|それ}}: [[it]], [[that]]
-* {{ja-r|そちら}}: (''polite'') [[there]]; that direction
+# {{rfdef|ja}}
 
-===Pronunciation===
-{{ja-pron|acc=a}}
+===Etymology 2===
+Readings of various kanji.
+
+====Pronunciation====
+{{ja-pron|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun}}
 
-# {{ja-def|園}} [[garden]]; [[park]]; [[plantation]]
-# {{ja-def|苑}} [[garden]]
+# {{ja-def|園|苑}} a [[garden]], [[park]]; a [[plantation]]
 
 ===Proper noun===
 {{ja-pos|proper}}
 
-# {{ja-def|園}} A surname.
+# {{ja-def|園}} {{surname|lang=ja|A=a|nodot=1}}
+
+===References===
+<references/>
 
 [[Category:Japanese basic words]]
