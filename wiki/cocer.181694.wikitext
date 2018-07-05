@@ -21,10 +21,10 @@ From {{inh|gl|roa-opt|}}, from {{inh|gl|VL.|*cocēre}}, from {{inh|gl|la|coquere
 ==Old English==
 
 ===Alternative forms===
-* {{l|ang|cocur}}
+* {{alter|ang|cocur}}
 
 ===Etymology===
-{{etyl|gmw|ang}} {{m|gem-pro||*kokar-}}, whence also Old Frisian ''[[koker]]'', Old Saxon ''kokar'' (Dutch ''[[koker]]''), Old High German ''[[kohhar|kohhār]]'' (German ''[[Köcher]]''). The origin of the West Germanic word is unknown, but note that a similar word can be found in Turkic and Mongolic languages: see {{cog|xgn-pro|*kökexür}} for more.
+From {{der|ang|gmw}} {{m|gem-pro||*kokar-}}, whence also {{cog|ofs|koker}}, {{cog|osx|kokar}} ({{cog|nl|koker}}), {{cog|goh|kohhār}} ({{cog|de|Köcher}}). The origin of the West Germanic word is unknown, but note that a similar word can be found in Turkic and Mongolic languages: see {{cog|xgn-pro|*kökexür}} for more.
 
 ===Pronunciation===
 * {{IPA|/ˈkoker/|lang=ang}}
@@ -37,9 +37,9 @@ From {{inh|gl|roa-opt|}}, from {{inh|gl|VL.|*cocēre}}, from {{inh|gl|la|coquere
 # a [[sheath]]
 
 ====Descendants====
-* Middle English: {{l|enm|coker}}, {{l|enm|cokre}}
-** English: {{l|en|cogger}}, {{l|en|scogger}}
-*** Scots: {{l|sco|scogger}}
+* {{desc|enm|coker}}, {{l|enm|cokre}}
+** {{desc|en|cogger}}, {{l|en|scogger}}
+*** {{desc|sco|scogger}}
 
 [[Category:ang:Containers]]
 
@@ -59,26 +59,24 @@ From {{inh|es|osp|-}}, from {{inh|es|VL.|*cocēre}}, from {{inh|es|la|coquere}},
 {{es-verb|coc|er|pres=cuezo}}
 
 # to [[boil]]
-#: ''cocer a fuego lento'' - [[simmer]]
+#: {{ux|es|cocer a fuego lento|inline=1|[[simmer]]}}
 # {{lb|es|reflexive|cocerse}} to [[brew]]
-#: ''Algo se está '''cociendo'''''
+#: {{ux|es|Algo se está '''cociendo'''}}
 # {{lb|es|pronominal}} to [[chafe]] {{gloss|get sore}}
+#: {{syn|es|[[escocer]]se|[[escaldar]]se}}
 
 ====Conjugation====
 {{es-conj-er|c||p=-cer o-ue|combined=1}}
 
-====Synonyms====
-* {{sense|get sore}} {{l|es|escocer}}se, {{l|es|escaldar}}se
-
 ====Related terms====
-{{top2}}
-* {{l|es|cocción}}
-* {{l|es|cocedero}}
-* {{l|es|cocimiento}}
-* {{l|es|cocina}}
-* {{l|es|cocinar}}
-* {{l|es|escocer}}
-{{bottom}}
+{{rel3
+|cocción
+|cocedero
+|cocimiento
+|cocina
+|cocinar
+|escocer
+|lang=es}}
 
 ===References===
 <references/>
