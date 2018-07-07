@@ -28,10 +28,22 @@
 ==Japanese==
 ===Etymology 1===
 {{ja-kanjitab|yomi=irr}}
-From the stem "''as-''", related to {{ja-r|朝|あさ}}, {{ja-r|朝|あした}}, and {{ja-r|明後日|あさって}}.
+
+From {{inh|ja|ojp|-}}, first attested in the ''{{w|Man'yōshū}}'' (''c.'' 759 {{CE}}).
+
+Various theories exist regarding the ultimate derivation:
+* Possibly originally a compound of {{m|ja|明け|tr=ake}} + {{m|ja|時|tr=shida||[[hour]]}}
+*: {{IPAfont|*⟨ake<sub>2</sub> sida⟩}} → *{{IPAchar|/akəʲsida/}} → {{IPAchar|/asita/}} → {{IPAchar|/aɕita/}}
+* Possibly cognate with {{m|ja|朝|tr=asa||[[morning]]}}, also read as ''ashita'', likely the original meaning and spelling
+
+The kanji spelling is {{juku|sort=あした}}, from {{bor|ja|zh|sort=あした|-}} {{zh-l|明日}}.
+
+====Alternative forms====
+* {{ja-l|朝}}
 
 ====Pronunciation====
 {{ja-pron|あした|y=i|dev=2|acc=o|acc_note=''as a noun''|acc_ref=NHK,DJR|acc2=h|acc2_note=''as an adverb''|acc2_ref=NHK}}
+
 ====Noun====
 {{ja-noun|あした}}
 
@@ -41,7 +53,15 @@ From the stem "''as-''", related to {{ja-r|朝|あさ}}, {{ja-r|朝|あした}},
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=irr}}
-From the stem "''as-''", related to {{ja-r|朝|あさ}}, {{ja-r|朝|あした}}, and {{ja-r|明後日|あさって}}.
+
+From {{inh|ja|ojp|sort=あす|-}}, first attested in the ''{{w|Kojiki}}'' (712 {{CE}}).
+
+Various theories exist regarding the ultimate derivation:
+* Possibly a shift from {{m|ja|明かす|tr=akasu||to [[pass]]}}
+*: {{IPAfont|*/akasu/}} → *{{IPAchar|/akusu/}} → {{IPAchar|/asu/}}
+* Possibly an apophonic form of or cognate with {{m|ja|朝|tr=asa||[[morning]]}}
+
+The kanji spelling is {{juku}}, from {{bor|ja|zh|-}} {{zh-l|明日}}.
 
 ====Pronunciation====
 {{ja-pron|あす|y=i|acc=o|acc_note=''as a noun''|acc_ref=NHK,DJR,SMK5|acc2=h|acc2_note=''as an adverb''|acc2_ref=NHK}}
@@ -55,7 +75,9 @@ From the stem "''as-''", related to {{ja-r|朝|あさ}}, {{ja-r|朝|あした}},
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=o|みょう|にち}}
-From {{etyl|ltc|ja}} /*miaŋȵiɪt̚/ > {{etyl|ja|-}} {{IPAchar|/mjaũniti/}} > {{IPAchar|/mjounit͡ʃi/}}
+{{IPAchar|/mʲau nʲiti/}} → {{IPAchar|/mjɔːnit͡ɕi/}} → {{IPAchar|/mjoːnit͡ɕi/}}
+
+From {{der|ja|ltc|sort=みようにち|-}} compound {{ltc-l|明日}}.
 
 ====Pronunciation====
 {{ja-pron|みょうにち|y=go|acc=a|acc_ref=NHK,DJR,SMK5}}
@@ -66,20 +88,20 @@ From {{etyl|ltc|ja}} /*miaŋȵiɪt̚/ > {{etyl|ja|-}} {{IPAchar|/mjaũniti/}} > 
 # {{lb|ja|formal}} [[tomorrow]]
 
 ===Usage notes===
-Note that the pronunciation differs depending on register, which also happens for the antonym "yesterday" and the coordinate term "today". Corresponding in formality to ashita/asu/myōnichi "tomorrow" are {{ja-r|昨日|きのう}}/{{ja-r|昨日|きそ}} (rare)/{{ja-r|昨日|さくじつ}} "yesterday" and {{ja-r|今日|きょう}}/{{ja-r|今日|こんにち}}/{{ja-r|本日|ほんじつ}} "today".
+Note that the pronunciation differs depending on register, which also happens for the antonym "[[yesterday]]" and the coordinate term "[[today]]". Corresponding in formality to ''ashita'', ''asu'', and ''myōnichi'' for "tomorrow" are {{ja-l|昨日||kinō}}, {{ja-l|昨日||kiso|pos=rare}}, and {{ja-l|昨日||sakujitsu}} for "yesterday"; and {{ja-l|今日||kyō}},{{ja-l|今日||konnichi}}, and {{ja-l|本日||honjutsu}} for "today".
 
 ===Antonyms===
 * {{ja-r|昨日|きのう}}, {{ja-r|昨日|さくじつ}}, {{ja-r|昨日|きそ}}
 
 ===Coordinate terms===
-* {{ja-r|今日|きょう}}, {{ja-r|今日|こんにち}}, {{ja-r|今日|こんじつ}}, {{ja-r|本日|ほんじつ}}
+* {{ja-r|今日|きょう}}, {{ja-r|今日|こんにち}}, {{ja-r|今日|こんじつ}}
+* {{ja-r|本日|ほんじつ}}
 
 ===Related terms===
-* {{ja-l|明後日}}
+* {{ja-r|明後日|あさって}}
 
 ===References===
 <references/>
-<!-- override -->
 
 [[Category:Japanese basic words|あす]]
 [[Category:Japanese words with multiple readings]]
