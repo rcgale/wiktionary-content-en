@@ -5,14 +5,22 @@
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|grammar}} A word that expresses the [[relative]] [[position]] of an item in an [[ordered]] [[sequence]].
-#: ''First, second and third are the '''ordinal numbers''' corresponding to one, two and three.''
-# {{lb|en|arithmetic}} A [[number]] used to denote [[position]] in a [[sequence]].
-#: ''In the expression a<sup>3</sup>, the "3" is an '''ordinal number'''.''
-# {{lb|en|mathematics}} A generalized kind of [[number]] to denote the length of a [[well-order]] on a [[set]].
+# {{lb|en|grammar}} A word that expresses the [[relative]] [[position]] of an item in a [[sequence]].
+#: {{ux|en|First, second and third are the '''ordinal numbers''' corresponding to one, two and three.}}
+# {{lb|en|arithmetic}} A [[natural number]] used to denote [[position]] in a [[sequence]].
+#: {{ux|en|In the expression a<sup>3</sup>, the "3" is an '''ordinal number'''.}}
+# {{lb|en|set theory}} The [[order type]] of some [[well-ordered]] [[set]] of some [[cardinality]] ''a'', which represents an [[equivalence class]] of well-ordered sets (exactly those of cardinality ''a'') under the [[equivalence relation]] "existence of an order-preserving [[bijection]]".
+#* '''1950''', Frederick Bagemihl (translator), {{w|Erich Kamke}}, ''Theory of Sets'', Dover (Dover Phoenix), 2006, [https://books.google.com.au/books?id=ARjpe689MF4C&pg=PA137&dq=%22ordinal+number%22%7C%22ordinal+numbers%22&hl=en&sa=X&ved=0ahUKEwjh4dWV5_zbAhVDppQKHdi1AW0Q6AEIjQEwEw#v=onepage&q=%22ordinal%20number%22%7C%22ordinal%20numbers%22&f=false page 137],
+#*: For not only do the antinomies a) to e) disappear when we admit as elements of sets only such sets, '''ordinal numbers''', and cardinal numbers as are bounded above by a fixed cardinal number, but we see also that paradoxes always arise if we collect into a set any sets, cardinal numbers, or '''ordinal numbers''' which are not bounded above by a fixed cardinal number.
+#* '''1960''' [D. Van Nostrand], {{w|Paul R. Halmos}}, ''{{w|Naive Set Theory (book)|Naive Set Theory}}'', 2017, Dover, Republication, [https://books.google.com.au/books?id=bWu9DgAAQBAJ&pg=PA80&dq=%22ordinal+number%22%7C%22ordinal+numbers%22&hl=en&sa=X&ved=0ahUKEwjh4dWV5_zbAhVDppQKHdi1AW0Q6AEIfDAQ#v=onepage&q=%22ordinal%20number%22%7C%22ordinal%20numbers%22&f=false page 80],
+#*: Is there a set that consists exactly of all the '''ordinal numbers'''? It is easy to see that the answer must be no. If there were such a set, then we could form the supremum of all '''ordinal numbers'''. That supremum would be an '''ordinal number''' greater than or equal to every '''ordinal number'''. Since, however, for each '''ordinal number''' there exists a strictly greater one (for example, its successor), this is impossible; it makes no sense to speak of the "set" of all ordinals.
+#* '''2009''', Marek Kuczma, Attila Gilányi (editor), ''An Introduction to the Theory of Functional Equations and Inequalities'', Springer (Birkhäuser), 2nd Edition, [https://books.google.com.au/books?id=rqqvbKOC4c8C&pg=PA10&dq=%22ordinal+number%22%7C%22ordinal+numbers%22&hl=en&sa=X&ved=0ahUKEwjh4dWV5_zbAhVDppQKHdi1AW0Q6AEIYzAL#v=onepage&q=%22ordinal%20number%22%7C%22ordinal%20numbers%22&f=false page 10],
+#*: If <math>\alpha</math> is an '''ordinal number''', then by definition any two well-ordered sets of type <math>\alpha</math> are similar, i.e., there exists a one-to-one mapping from one set to the other. Consequently these sets have the same cardinality. Consequently to any '''ordinal number''' <math>\alpha</math> we may assign a cardinal number, the common cardinality of all well-ordered sets of type <math>\alpha</math>.
 
 ====Synonyms====
-* {{sense|grammar}} [[ordinal]], [[ordinal numeral]]
+* {{sense|grammar}} {{l|en|ordinal}}, {{l|en|ordinal numeral}}
+* {{sense|arithmetic}} {{l|en|ordinal}}
+* {{sense|order theory}} {{l|en|ordinal}}
 
 ====Antonyms====
 * {{sense|grammar}} {{l|en|cardinal}}, {{l|en|cardinal number}}, {{l|en|cardinal numeral}}
@@ -101,7 +109,22 @@ On ordinal number usage:
 
 ====See also====
 * {{l|en|numeral}}
+* {{l|en|order type}}
 * {{l|en|zeroth}}
+
+===Further reading===
+* {{sense|grammar}}
+** {{pedialite|Ordinal number (linguistics)}}
+** {{pedialite|English numerals}}
+* {{sense|arithmetic}}
+** {{pedialite|Natural number}}
+* {{sense|order theory}}
+** {{pedialite|Order type}}
+** {{pedialite|Successor ordinal}}
+** {{pedialite|Well-order}}
+** {{pedialite|Transfinite induction}}
+** [https://www.encyclopediaofmath.org/index.php/Ordinal_number Ordinal number] on {{w|Encyclopedia of Mathematics}}
+** [http://mathworld.wolfram.com/OrdinalNumber.html Ordinal Number] on {{w|MathWorld|Wolfram MathWorld}}
 
 [[Category:en:Numbers]]
 [[Category:en:Parts of speech]]
