@@ -31,11 +31,13 @@
 ----
 
 ==Japanese==
-{{wikipedia|lang=ja}}
-{{wikipedia|Hime}}
 
 ===Kanji===
 {{ja-kanji|grade=c|rs=女06|kyu=姬}}
+
+# [[princess]]
+# [[concubine]]
+# [[woman]]
 
 ====Readings====
 As shinjitai kanji of {{ja-l|姬}}:
@@ -54,31 +56,42 @@ As unsimplified kanji {{ja-l|姫}}:
 
 ====Compounds====
 {{der-top|Compounds}}
-* {{ja-r|お姫|おひめ}}: [[princess]]
-* {{ja-r|姫様|ひめ-さま}}: [[honorable]] princess {{qualifier|term of address or reference}}
-* {{ja-r|お姫様抱っこ|お-ひめ-さま だっこ}}: {{qualifier|slang}} bridal carry: the manner of carrying a bride over a threshold
-* {{ja-r|歌姫|うたひめ}}: a [[chanteuse]], a female [[singer]]
+* {{ja-r|寵姫|ちょうき}}
+* {{ja-r|美姫|びき}}
+* {{ja-r|舞姫|ぶき}}
+* {{ja-r|妖姫|ようき}}
 {{der-bottom}}
 
-===Etymology===
+===Alternative forms===
+<div style="float:right;">
+{{wp|lang=ja}}
+{{wp|Hime}}
+</div>
 {{ja-kanjitab|yomi=k|ひめ}}
 
-{{IPAchar|/pi<sub>1</sub>me<sub>1</sub>/}}: *{{IPAchar|[pime]}} → {{IPAchar|[ɸime]}} → {{IPAchar|[hime]}}
+* {{ja-l|媛}}
 
-From {{etyl|ojp|ja|sort=ひめ}}. Compound of {{compound|lang=ja|sort=ひめ|日|tr1=hi|t1=sun|pos1=a prefix or appellation used in reference to the imperial family|女|tr2=me|t2=woman}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+===Etymology===
+{{IPAfont|⟨pi<sub>1</sub> me<sub>1</sub>⟩}} → *{{IPAchar|/pʲimʷe/}} → {{IPAchar|/fime/}} → {{IPAchar|/hime/}}
+
+From {{inh|ja|ojp|sort=ひめ|-}}. 
+
+Originally a compound of {{compound|lang=ja|sort=ひめ|日|tr1=hi|t1=[[sun]]|pos1=a prefix or appellation used in reference to the imperial family|女|tr2=me|t2=[[woman]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ===Pronunciation===
 {{ja-pron|yomi=k|ひめ|acc=1|acc_ref=DJR}}
 
 ===Noun===
-{{ja-noun|ひめ}}
+{{ja-noun|kyu=姬|ひめ}}
 
-# a [[noblewoman]], a [[lady]], a [[princess]]
-#* {{quote-book
+# the [[daughter]] of a [[high]]-[[rank]]ing person
+## a [[noblewoman]]
+## a [[princess]]
+##* {{quote-book
 ||{{w|lang=ja|井沢ひろし|Hiroshi, Izawa}}
 |{{w2|ja|ファイアーエムブレム 覇者の剣}}
 ||354
-|{{ja-usex|ラグナの天%馬'''姫'''セルディア|^ラグナ の ^てん%ま'''ひめ''' ^セルディア|Serdia, Pegasus Princess of Ragna}}
+|{{ja-usex|ラグナの天%馬'''姫'''セルディア|^ラグナ の ^てん%ま'''ひめ''' ^セルディア|Serdia, '''Pegasus Princess''' of Ragna}}
 |coauthors={{w|lang=ja|山田孝太郎|Kotaro, Yamada}}
 |chapter={{ruby|{{lang|ja|[最](さい)[終](しゅう)[話](わ)　それぞれの[道](みち)へ}}}}
 |trans-chapter=Final Chapter: Epilog
@@ -91,32 +104,52 @@ From {{etyl|ojp|ja|sort=ひめ}}. Compound of {{compound|lang=ja|sort=ひめ|日
 |publisher=Shueisha
 |date=Oct 20 2007
 |isbn=978-4-08-109486-8}}
-# {{lb|ja|sort=ひめ|euphemistic}} a woman
-# {{lb|ja|sort=ひめ|slang}} in the Kyōto and Ōsaka areas, a [[prostitute]]
-# short for {{m|ja|姫糊|tr=himenori}}, a kind of [[starch]] [[glue]] made from boiled-down rice
-
-===Prefix===
-{{ja-pos|prefix|ひめ}}
-
-# prefix expressing [[cuteness]] or [[smallness]]
+##: {{syn|ja|王女|tr=ōjo|皇女|tr2=kōjo|プリンセス|tr3=purinsesu}}
+# {{lb|ja|sort=ひめ|euphemistic}} a [[woman]]
+#: {{ant|ja|彦|tr=hiko}}
+# {{lb|ja|sort=ひめ|regional|_|slang}} in the Kyōto and Osaka areas, a [[prostitute]]
+# {{short for|lang=ja|姫糊|tr=himenori|nodot=1|sort=ひめ}}: a kind of [[starch]] [[glue]] made from [[boil]]ed-down [[rice]]
 
 ====Derived terms====
 {{der-top}}
-* {{ja-r|月の姫|つき-の-ひめ}}: the [[princess]] of the [[moon]]: ''Kaguya-hime'' from ''[[w:The Tale of the Bamboo Cutter|The Tale of the Bamboo Cutter]]''
+* {{ja-r|姫君|ひめぎみ}}
+* {{ja-r|姫様|ひめ-さま}}: [[honorable]] princess {{qualifier|term of address or reference}}
+* {{ja-r|歌姫|うたひめ}}: a [[chanteuse]], a female [[singer]]
+* {{ja-r|弟姫|おとひめ|rom=-}}, {{ja-r|乙姫|おとひめ}}
+* {{ja-r|お姫|おひめ}}: [[princess]]
+* {{ja-r|お姫様 抱っこ|お-ひめ-さま だっこ}}: {{qualifier|slang}} bridal carry: the manner of carrying a bride over a threshold
+* {{ja-r|織姫|^おりひめ}}, {{ja-r|織り姫|おりひめ}}
 * {{ja-r|木%花%之%開%耶%姫|^こ-の-%はな-%の-%さく-%や-%ひめ}}: (Shintō): in Japanese mythology, the blossom princess and symbol of delicate earthly life
+* {{ja-r|佐保%姫|^さほ%ひめ}}, {{ja-r|佐保%姫|^さお%ひめ}}
+* {{ja-r|月の姫|つき-の-ひめ}}: the [[princess]] of the [[moon]]: ''Kaguya-hime'' from ''{{w|The Tale of the Bamboo Cutter}}''
+* {{ja-r|舞姫|まいひめ}}
 {{der-bottom}}
 
-====Synonyms====
-* {{sense|princess}} {{ja-r|プリンセス}}: [[princess]]
-* {{sense|princess}} {{ja-r|皇女|こうじょ}}: an [[imperial]] princess
-* {{sense|princess}} {{ja-r|王女|おうじょ}}: a [[king]]'s [[daughter]]: a [[princess]]
+===Prefix===
+{{ja-pos|prefix|kyu=姬|ひめ}}
 
-====See also====
-* {{ja-r|女皇|じょこう}}: an {{l|en|empress}}
-* {{ja-r|女王|じょ.おう}}: a {{l|en|queen}}
-* {{ja-r|彦|ひこ}}: a {{l|en|prince}}
-* {{ja-r|娘|むすめ}}: a {{l|en|daughter}}
-* {{ja-r|乙%女|おと%め}}: a {{l|en|maiden}}; a {{l|en|virgin}}
+# [[cute]]
+# [[small]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|姫%鏡台|ひめ%-きょうだい}}
+* {{ja-r|姫%小%松|ひめ%-こ%まつ}}
+* {{ja-r|姫%百合|ヒメ%ユリ}}
+{{der-bottom}}
+
+===Proper noun===
+{{ja-pos|proper|kyu=姬|ひめ}}
+
+# ''a [[place name]]''
+# {{surname|lang=ja|A=a|nodot=1|sort=ひめ}}
+# {{given name|female|lang=ja|A=a|nodot=1|sort=ひめ}}
+
+===See also===
+* {{ja-r|女皇|じょこう|[[empress]]}}
+* {{ja-r|女王|じょ.おう|[[queen]]}}
+* {{ja-r|娘|むすめ|[[daughter]]}}
+* {{ja-r|乙%女|おと%め|[[maiden]], [[virgin]]}}
 * {{pedialite|Princess}}
 * {{pedialite|Noblewoman}}
 
