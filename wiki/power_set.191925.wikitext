@@ -1,12 +1,31 @@
 {{also|powerset}}
 ==English==
+{{wikipedia}}
+
+===Alternative forms===
+* {{l|en|power-set}} {{qualifier|attributive use}}
+* {{l|en|powerset}}
 
 ===Noun===
-{{wikipedia}}
 {{en-noun}}
 
-# {{lb|en|set theory}} The set of all [[subset]]s of a set. Notation for a set ''S'': <math>\mathcal{P}(S)</math> ''or'' 2<sup>''S''</sup>
-#: ''The '''power set''' of {1, 2} is {Ø, {1}, {2}, {1,&nbsp;2}&zwnj;}''
+# {{lb|en|set theory|of a set S}} The [[set]] whose [[element]]s comprise all the [[subset]]s of ''S'' (including the [[empty set]] and ''S'' itself).
+#: {{ux|en|The '''power set''' of <math>\{1, 2\}</math> is <math>\left \{\empty, \{1\}, \{2\}, \{1, 2\}\right \}</math>.}}
+#* '''2009''', Arindama Singh, ''Elements of Computation Theory'', Springer, [https://books.google.com.au/books?id=gqWMGR1otqoC&pg=PA16&dq=%22power+set%22%7C%22power+sets%22&hl=en&sa=X&ved=0ahUKEwirkJbr0I_cAhWbd94KHZy8BeEQ6AEIkQIwKg#v=onepage&q=%22power%20set%22%7C%22power%20sets%22&f=false page 16],
+#*: Moreover, for notational convenience, we write the cardinality of a denumerable set as <math>\aleph_0</math>. Cardinality of the '''power set''' of a denumerable set is written as <math>\aleph_1</math>. We may thus extend this notation further by taking cardinality of the '''power set''' of the '''power set''' of a denumerable set as <math>\aleph_2</math>, etc. but we do not have the need for it right now.
+#* '''2013''', A. Carsetti, ''Epistemic Complexity and Knowledge Construction'', Springer, [https://books.google.com.au/books?id=ueREAAAAQBAJ&pg=PA94&dq=%22power+set%22%7C%22power+sets%22&hl=en&sa=X&ved=0ahUKEwirkJbr0I_cAhWbd94KHZy8BeEQ6AEISzAH#v=onepage&q=%22power%20set%22%7C%22power%20sets%22&f=false page 94],
+#*: '''Theorem 4.1.''' ''A complete Boolean algebra B has a set of (complete and atomic) ca-free generators iff B is isomorphic to the '''power set''' of a '''power set'''.''
+#* '''2015''', Amir D. Aczel, ''Finding Zero: A Mathematician's Odyssey to Uncover the Origins of Numbers'', Palgrave MacMillan, [https://books.google.com.au/books?id=nAADBAAAQBAJ&pg=PA147&dq=%22power+set%22%7C%22power+sets%22&hl=en&sa=X&ved=0ahUKEwirkJbr0I_cAhWbd94KHZy8BeEQ6AEIiQEwEg#v=onepage&q=%22power%20set%22%7C%22power%20sets%22&f=false page 147],
+#*: Exponentiation is essentially a move to the '''''power set'''''—the set of all subsets of a given set. This is one of the reasons why Bertrand Russell's paradox is indeed a paradox: We cannot find a universal set because no set can contain its own '''power set'''!
+
+====Usage notes====
+The power ''set'' is more properly a {{m|en|family}} of sets (or possibly, in this case, a ''family of subsets''), rather than a [[set]].
+
+Denoted using the notation ''P''(''S'') with any one of several fonts for the letter "P" (usually uppercase). Examples include: <math>\mathcal{P}(S)</math>, <math>\wp(S)</math> (with the ''{{w|Weierstrass p}}''), <math>\mathbb{P}(S)</math> and 𝒫(''S'').<br>
+An alternative notation is <math>2^S\!\!</math>, derived from the consideration that a set <math>T</math> in the power set is fully characterised by determining, for each element of <math>S</math>, whether it is or is not in <math>T</math>.
+
+====Derived terms====
+* {{l|en|hyper-power set}}
 
 ====Translations====
 {{trans-top|set of all subsets of a set}}
@@ -27,3 +46,9 @@
 * Serbo-Croatian: {{t|sh|partitivni skup|m}}
 * Spanish: {{t|es|conjunto de partes|m}}
 {{trans-bottom}}
+
+===See also===
+* {{l|en|axiom of power set}}
+
+===Further reading===
+* {{pedialite|Axiom of power set}}
