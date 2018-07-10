@@ -7,8 +7,8 @@
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|football}} A [[sweeper]].
-# {{lb|en|volleyball}} A [[designated]] [[back-row]] player intended to be used as a [[ball control|ball-control]] [[specialist]].
+# {{lb|en|football}} a [[sweeper]]
+# {{lb|en|volleyball}} a [[designated]] [[back-row]] player intended to be used as a [[ball control|ball-control]] [[specialist]]
 
 ====Usage notes====
 * {{sense|volleyball}} in volleyball rules and other official documents, ''Libero'' is always capitalised. In common usage it follows normal capitalisation rules and conventions.
@@ -18,9 +18,9 @@
 * Catalan: {{t+|ca|defensa lliure|m|f}}
 * Finnish: {{t+|fi|libero}}
 * French: {{t+|fr|libero|m}}, {{t+|fr|libéro|m}}
-* German: {{t+|de|Libero|m}}
 {{trans-mid}}
-* Greek: {{t+|el|λίμπερο|sc=Grek}}, {{t+|el|ελεύθερος|sc=Grek}}
+* German: {{t+|de|Libero|m}}
+* Greek: {{t+|el|λίμπερο}}, {{t+|el|ελεύθερος}}
 * Swedish: {{t+|sv|libero|c}}
 {{trans-bottom}}
 
@@ -59,8 +59,8 @@
 ===Noun===
 {{cs-noun|g=n}}
 
-# {{lb|cs|soccer}} [[libero#English|libero]], [[sweeper]]
-# {{lb|cs|volleyball}} [[libero#English|libero]] {{gloss|designated back-row player specialized in defensive skills}}
+# {{lb|cs|soccer}} {{l|en|libero}}, [[sweeper]]
+# {{lb|cs|volleyball}} {{l|en|libero}} {{gloss|designated back-row player specialized in defensive skills}}
 
 ====Declension====
 {{cs-decl-noun
@@ -91,14 +91,14 @@
 ===Verb===
 {{gl-verb-form}}
 
-# {{inflection of|liberar||lang=gl|1|s|pres|indc}}
+# {{inflection of|liberar||1|s|pres|indc|lang=gl}}
 
 ----
 
 ==Italian==
 
 ===Etymology===
-From {{inh|it|la|līber|līber, līberum}}, from {{inh|it|itc-ola|loeber}}, from {{inh|it|itc-pro|*louðeros}}, from {{inh|it|ine-pro||*h₁lewdʰ-er-os}}, from {{m|ine-pro|*h₁lewdʰ-||people}}.
+From {{inh|it|la|līber|līber, līberum}}, from {{inh|it|itc-ola|loeber}}, from {{inh|it|itc-pro|*louðeros}}, from {{inh|it|ine-pro||*h₁lewdʰ-er-os}}, from {{m|ine-pro|*h₁lewdʰ-|t=people}}.
 
 ===Pronunciation===
 * {{IPA|/ˈlibero/|lang=it}}
@@ -107,30 +107,27 @@ From {{inh|it|la|līber|līber, līberum}}, from {{inh|it|itc-ola|loeber}}, from
 ===Adjective===
 {{it-adj|liber}}
 
-# [[free]] (''not [[imprisoned]] or [[enslaved]]'')
-#: ''Un [[uomo]] '''libero'''.''
-#:: A '''free''' man.
-# [[clear]], [[unobstructed]] (''without [[blockage]]s'')
-#: ''Il [[passaggio]] era '''libero'''.''
-#:: The passage was '''clear'''.
-# free (''without [[obligation]]s'')
-#: ''[[tempo|Tempo]] '''libero'''.''
-#:: '''Free''' time./'''Leisure''' time.
-# [[free]] (''that does not have to be paid for'')
-#: ''[[ingresso|Ingresso]] '''libero'''.''
-#:: '''Free''' admission.
-# free (''as in "free software"'')
-#: ''[[software#Italian|Software]] '''libero'''.''
-#:: '''Free''' software.
+# [[free]] {{q|not [[imprisoned]] or [[enslaved]]}}
+#: {{ux|it|Un [[uomo]] '''libero'''.|inline=1|A '''free''' man.}}
+# [[clear]], [[unobstructed]] {{q|without [[blockage]]s}}
+#: {{ux|it|Il [[passaggio]] era '''libero'''.|inline=1|The passage was '''clear'''.}}
+# free {{q|without [[obligation]]s}}
+#: {{ux|it|[[tempo|Tempo]] '''libero'''.|inline=1|'''Free''' time./'''Leisure''' time.}}
+# [[free]] {{q|that does not have to be paid for}}
+#: {{ux|it|[[ingresso|Ingresso]] '''libero'''.|inline=1|'''Free''' admission.}}
+# free {{q|as in "free software"}}
+#: {{ux|it|[[software|Software]] '''libero'''.|inline=1|'''Free''' software.}}
 
 ====Related terms====
-* {{l|it|liberamente}}
-* {{l|it|liberare}}
-* {{l|it|liberismo}}
-* {{l|it|liberista}}
-* {{l|it|libero professionista}}
-* {{l|it|libertà}}
-* {{l|it|via libera}}
+{{rel4
+|liberamente
+|liberare
+|liberismo
+|liberista
+|libero professionista
+|libertà
+|via libera
+|lang=it}}
 
 ===Verb===
 {{head|it|verb form}}
@@ -147,7 +144,7 @@ From {{inh|it|la|līber|līber, līberum}}, from {{inh|it|itc-ola|loeber}}, from
 ==Ladino==
 
 ===Etymology===
-From {{etyl|it|lad}} {{m|it|libero}}.
+From {{der|lad|it|libero}}.
 
 ===Adjective===
 {{lad-adj|l}}
@@ -159,7 +156,7 @@ From {{etyl|it|lad}} {{m|it|libero}}.
 ==Latin==
 
 ===Etymology===
-From {{m|la|līber||free}}.
+From {{m|la|līber|t=free}}.
 
 ===Pronunciation===
 * {{la-IPA|līberō}}
@@ -168,8 +165,7 @@ From {{m|la|līber||free}}.
 {{la-verb|līberō|līberāre|līberāvī|līberātum|conj=1}}
 
 # I [[free]], [[liberate]]
-#: ''Camillus Romam ex obsidione Gallorum '''liberavit'''.''
-#:: Camillus '''liberated''' Rome from the siege of the Gauls.
+#: {{ux|la|Camillus Romam ex obsidione Gallorum '''liberavit'''.|Camillus '''liberated''' Rome from the siege of the Gauls.}}
 # I [[release]], [[deliver]]
 # I [[absolve]], [[acquit]]
 
@@ -177,39 +173,39 @@ From {{m|la|līber||free}}.
 {{la-conj-1st|līber|līberāv|līberāt|sync_perf=poet|p3inf=1}}
 
 ====Derived terms====
-* {{l|la|līberātiō}}
-* {{l|la|līberātor}}
+{{der2
+|līberātiō
+|līberātor
+|lang=la}}
 
 ====Related terms====
-{{top2}}
-* {{l|la|liber|līber}}
-* {{l|la|liberalis|līberālis}}
-* {{l|la|liberalitas|līberālitās}}
-* {{l|la|liberaliter|līberāliter}}
-* {{l|la|libere|līberē}}
-* {{l|la|liberi|līberī}}
-{{mid2}}
-* {{l|la|liberta|libērta}}
-* {{l|la|libertas|lībērtās}}
-* {{l|la|liberto|lībērtō}}
-* {{l|la|libertinus|lībērtīnus}}
-* {{l|la|libertus|lībērtus}}
-{{bottom}}
+{{rel4
+|līber
+|līberālis
+|līberālitās
+|līberāliter
+|līberē
+|līberī
+|libērta
+|lībērtās
+|lībērtō
+|lībērtīnus
+|lībērtus
+|lang=la}}
 
 ====Descendants====
 {{top2}}
-* Asturian: {{l|ast|llibrar}}, {{l|ast|liberar}}
-* Catalan: {{l|ca|lliurar}}
-* English: [[liberate]]
-* French: {{l|fr|livrer}}, {{l|fr|libérer}}
-* Galician: {{l|gl|liberar}}
-* Italian: {{l|it|liberare}}, {{l|it|liverare}}, {{l|it|livrare}}
-{{mid2}}
-* Occitan: {{l|oc|liberar}}, {{l|oc|liurar}}
-* Old Portuguese: {{l|roa-opt|livrar}}
-* Portuguese: {{l|pt|livrar}}, {{l|pt|liberar}}
-* Spanish: {{l|es|librar}}, {{l|es|liberar}}
-* Venetian: {{l|vec|łibarar}}
+* {{desc|ast|llibrar}}, {{l|ast|liberar}}
+* {{desc|ca|lliurar}}
+* {{desc|en|liberate}}
+* {{desc|fr|livrer}}, {{l|fr|libérer}}
+* {{desc|gl|liberar}}
+* {{desc|it|liberare}}, {{l|it|liverare}}, {{l|it|livrare}}
+* {{desc|oc|liberar}}, {{l|oc|liurar}}
+* {{desc|roa-opt|livrar}}
+* {{desc|pt|livrar}}, {{l|pt|liberar}}
+* {{desc|es|librar}}, {{l|es|liberar}}
+* {{desc|vec|łibarar}}
 {{bottom}}
 
 ----
@@ -224,6 +220,9 @@ From {{m|la|līber||free}}.
 ----
 
 ==Spanish==
+
+===Pronunciation===
+* {{es-IPA}}
 
 ===Verb===
 {{head|es|verb form}}
