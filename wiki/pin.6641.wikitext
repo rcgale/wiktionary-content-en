@@ -322,8 +322,10 @@ No relation to classical {{cog|la|pinna||fin, flipper, wing-like appendage, wing
 # {{lb|en|chess|usually|in the passive}} To cause (a piece) to be in a pin.
 # {{lb|en|wrestling}} To [[pin down]] (someone).
 # To enclose; to confine; to pen; to pound.
-# {{lb|en|computing|GUI}} To attach (an icon, application, etc.) to another item.
+# {{lb|en|computing|GUI|transitive}} To attach (an icon, application, etc.) to another item.
 #: ''to '''pin''' a window to the Taskbar''
+# {{lb|en|computing|transitive}} To [[fix]] (an [[array]] in [[memory]], a [[security]] [[certificate]], etc.) so that it cannot be [[modify|modified]].
+#: ''When marshaling data, the interop marshaler can copy or '''pin''' the data being marshaled.''
 # {{alternative form of|peen|lang=en}}
 
 ====Derived terms====
