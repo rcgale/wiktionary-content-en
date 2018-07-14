@@ -25,8 +25,8 @@
 {{eo-conj|intr=yes}}
 
 ====See also====
-* {{l|eo|juĝi|gloss=to put on trial, try}}
-* {{l|eo|provi|gloss=to test, attempt, try}}
+* {{l|eo|juĝi|t=to put on trial, try}}
+* {{l|eo|provi|t=to test, attempt, try}}
 
 {{eo BRO|4}}
 
@@ -35,18 +35,16 @@
 ==Estonian==
 
 ===Etymology===
-From {{inh|et|fiu-fin-pro|*peni}}. Cognate with Finnish {{m|fi|peni}}, Northern Sami {{m|se|beana}}.
+From {{inh|et|fiu-fin-pro|*peni}}. Cognate with {{cog|fi|peni}}, {{cog|se|beana}}.
 
 ===Noun===
 {{et-noun|peni|peni}}
 
 # {{lb|et|archaic|or|dialectal}} [[dog]], [[hound]]
+#: {{syn|et|koer}}
 
 ====Inflection====
 {{et-decl-elu|peni}}
-
-====Synonyms====
-* {{l|et|koer}}
 
 ====Derived terms====
 * {{l|et|Suur Peni}}
@@ -58,12 +56,13 @@ From {{inh|et|fiu-fin-pro|*peni}}. Cognate with Finnish {{m|fi|peni}}, Northern 
 ==Finnish==
 
 ===Etymology===
-From {{inh|fi|fiu-fin-pro|*peni}}. Cognate with Estonian {{m|et|peni}} and Northern Sami {{m|se|beana}}.
+From {{inh|fi|fiu-fin-pro|*peni}}. Cognate with {{cog|et|peni}}, {{cog|se|beana}}.
 
 ===Noun===
 {{fi-noun}}
 
 # {{lb|fi|archaic}} [[dog]]
+#: {{syn|fi|haukku|hauva|hunttu|hurtta|koira}}
 
 ====Usage notes====
 Although no longer used in modern Finnish in its original sense, the word remains a popular dog's name.
@@ -71,17 +70,12 @@ Although no longer used in modern Finnish in its original sense, the word remain
 ====Declension====
 {{fi-decl-risti|pen|||ä}}
 
-====Synonyms====
-* {{l|fi|koira}}
-* {{l|fi|hunttu}}
-* {{l|fi|hurtta}}
-* {{l|fi|hauva}}
-* {{l|fi|haukku}}
-
 ====Derived terms====
-* {{l|fi|penikka}}
-* {{l|fi|peninkulma}}
-* {{l|fi|pentu}}
+{{der3
+|penikka
+|peninkulma
+|pentu
+|lang=fi}}
 
 ===Anagrams===
 * {{anagrams|fi|pien|pien-}}
@@ -91,7 +85,7 @@ Although no longer used in modern Finnish in its original sense, the word remain
 ==Italian==
 
 ===Noun===
-{{head|it|noun plural form|g=m}}
+{{head|it|noun plural form|g=m-p}}
 
 # {{plural of|pene|lang=it}}
 
@@ -105,7 +99,7 @@ Although no longer used in modern Finnish in its original sense, the word remain
 # {{inflection of|penare||3|s|impr|lang=it}}
 
 ===Anagrams===
-* [[pine#Italian|pine]]
+* {{anagrams|it|pine}}
 
 ----
 
@@ -169,12 +163,10 @@ From {{inh|vot|fiu-fin-pro|*peni}}.
 {{vot-noun|penii}}
 
 # [[female]] [[dog]]
+#: {{syn|vot|penikoira}}
 
 ====Inflection====
 {{rfinfl|vot|noun}}
-
-====Synonyms====
-* {{l|vot|penikoira}}
 
 ====Derived terms====
 * {{l|vot|penikoira}}
