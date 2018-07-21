@@ -10,19 +10,34 @@
 ===Verb===
 {{en-verb|activat}}
 
-# {{lb|en|transitive}} To put into [[action]]; to put to [[work]].
-# {{lb|en|transitive}} To [[turn on]] (an electrical device).
+# {{lb|en|transitive}} To encourage development or induce increased activity.
+# {{lb|en|transitive|electronics}} To put into [[operation]], to [[power up]], to [[start]] (an electrical device).
+# {{lb|en|transitive|computing}} To [[turn on]], to [[enable]] (a software functionality).
+# {{lb|en|transitive|computing}} To remove the limitations of [[demoware]] by providing a license, to [[unlock]].
+# {{lb|en|transitive|chemistry}} To convert into a reactive form.
+# {{lb|en|transitive|chemistry}} To hasten a chemical reaction, especially by heating.
+# {{lb|en|transitive|physics}} To render more reactive; [[excite]].
+# {{lb|en|transitive|physics}} To render a substance radioactive.
+# {{lb|en|transitive}} To aerate something in order to aid decomposition of organic matter.
+# {{lb|en|transitive|biology}} To render a molecule reactive, active, or effective in performing its function.
+# {{lb|en|transitive|military}} To organize a military unit or station.
+# {{lb|en|transitive|sports}} To bring a player back after an injury.
 
 ====Synonyms====
+* {{l|en|spur}}
 * {{l|en|actuate}}
 * {{l|en|enable}}
+* {{l|en|start}}
 * {{l|en|turn on}}
+* {{l|en|set going}}
+* {{l|en|set in motion}}
 
 ====Antonyms====
 * {{l|en|deactivate}}
+* {{l|en|inactivate}}
 
 ====Translations====
-{{trans-top|to put into action}}
+{{trans-top|to put into operation}}
 * Albanian: {{t+|sq|aktivizoj}}
 * Arabic: {{t+|ar|فَعَّلَ}}
 * Asturian: {{t|ast|activar}}
@@ -32,58 +47,39 @@
 * Catalan: {{t+|ca|activar}}
 * Chinese:
 *: Mandarin: {{t+|cmn|激活|tr=jīhuó|sc=Hani}}
-* Dutch: {{t+|nl|activeren}}
+* Dutch: {{t+|nl|activeren}}, {{t+|nl|aanzetten}}, {{t+|nl|inschakelen}}
 * Esperanto: {{t|eo|aktivigi}}
 * Estonian: {{t|et|rakendama}}
-* Finnish: {{t+|fi|aktivoida}}
+* Finnish: {{t+|fi|aktivoida}}, {{t+|fi|käynnistää}}
 * French: {{t+|fr|actionner}}, {{t+|fr|activer}}
 * Galician: {{t|gl|activar}}
+* German: {{t|de|aktivieren}}
 {{trans-mid}}
-* Greek: {{t+|el|ενεργοποιώ}}
+* Greek: {{t+|el|ενεργοποιώ}}, {{t+|el|ενεργοποιώ}} ({{t+|el|ανοίγω}})
+* Indonesian: {{t+|id|mengaktifkan}}
 * Kyrgyz: {{t+|ky|жандыруу}}
 * Maori: {{t|mi|whakahohe}}
 * Marathi: {{t|mr|सक्रिय करावे}}
 * Norman: {{t|nrf|activiser}}
 * Norwegian:
 *: Bokmål: {{t+|nb|aktivere}}, {{t+|nb|aktivisere}}
-* Polish: {{t+|pl|aktywować}}, {{t|pl|uaktywnić}}
+* Polish: {{t+|pl|aktywować|impf|pf}}, {{t|pl|uaktywnić|pf}}
 * Portuguese: {{t+|pt|ativar}}
 * Romanian: {{t+|ro|activa}}
-* Russian: {{t+|ru|активизи́ровать|impf|pf}}, {{t+|ru|активи́ровать|impf|pf}}, {{t|ru|[[приводи́ть]] в [[де́йствие]]|impf}}, {{t|ru|[[привести́]] в [[де́йствие]]|pf}}
+* Russian: {{t+|ru|активизи́ровать|impf|pf}}, {{t+|ru|активи́ровать|impf|pf}}, {{t|ru|[[приводи́ть]] в [[де́йствие]]|impf}}, {{t|ru|[[привести́]] в [[де́йствие]]|pf}}, {{t+|ru|включа́ть|impf}}, {{t+|ru|включи́ть|pf}}
+* Serbo-Croatian: {{t|sh|aktivírati}}
+* Slovene: {{t|sl|aktivirati}}, {{t|sl|vključiti}}
 * Spanish: {{t+|es|activar}}
 * Swedish: {{t+|sv|aktivera}}
 * Turkish: {{t+|tr|etkinleştirmek}}
 {{trans-bottom}}
 
-{{trans-top|to turn on}}
-* Asturian: {{t|ast|activar}}
-* Catalan: {{t+|ca|activar}}
-* Czech: {{t+|cs|zapnout}}
-* Dutch: {{t+|nl|aanzetten}}, {{t+|nl|inschakelen}}
-* Esperanto: {{t|eo|aktivigi}}
-* Estonian: {{t+|et|käivitama}}
-* Finnish: {{t+|fi|aktivoida}}, {{t+|fi|käynnistää}}
-* French: {{t+|fr|actionner}}, {{t+|fr|allumer}}
-{{trans-mid}}
-* Galician: {{t|gl|activar}}
-* Greek: {{t+|el|ενεργοποιώ}} ({{t+|el|ανοίγω}})
-* Polish: {{t+|pl|włączyć}}
-* Portuguese: {{t+|pt|ativar}}
-* Russian: {{t+|ru|активи́ровать|impf|pf}}, {{t+|ru|включа́ть|impf}}, {{t+|ru|включи́ть|pf}}
-* Slovene: {{t|sl|vključiti}}
-* Spanish: {{t+|es|activar}}
-* Swedish: {{t+|sv|aktivera}}
-{{trans-bottom}}
-
 {{checktrans-top}}
-* German: {{t+check|de|aktivieren}}
-* Indonesian: {{t+check|id|aktif|alt=mengaktifkan}}
 * Interlingua: {{t-check|ia|activar}}
 * Italian: {{t+check|it|attivare}}
 {{trans-mid}}
 * {{ttbc|ja}}: [[活性化]]する (かっせいかする, kasseika suru)
 * {{ttbc|cmn}}: [[使活动]] (shǐ huódòng); [[啟動]], [[启动]] (qǐdòng); [[触发]] (chùfā)
-* Serbo-Croatian: {{t+check|sh|aktivírati}}
 * Volapük: {{t-check|vo|dunotön}}
 {{trans-bottom}}
 
