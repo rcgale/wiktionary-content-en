@@ -3,10 +3,13 @@
 ==Translingual==
 
 ===Han character===
-{{Han char|rn=38|rad=女|as=06|asj=07|sn=9|snj=10|four=41417|canj=VSLL,XVSLL|ids=⿰女臣|alt=姬}}
+{{Han char|rn=38|rad=女|as=06|asj+=07|sn=9|snj+=10|four=41417|canj=VSLL,XVSLL|ids=⿰女臣}}
 
-===References===
-* {{Han ref|kx=0260.220|dkj=06229|dj=0526.210|hdz=21043.040|uh=59EB|ud=23019}}
+====Related characters====
+* {{l|mul|[[姬]]}} ''(Original form for the meaning "[[princess]]")''
+
+====References====
+{{Han ref|kx=0260.220|dkj=06229|dj=0526.210|hdz=21043.040|uh=59EB}}
 
 ----
 
@@ -15,39 +18,51 @@
 ===Etymology 1===
 {{zh-see|姬|v}}
 
+====References====
+* {{R:twedu|A00932-012}}
+
 ===Etymology 2===
 {{zh-forms}}
+
+====Glyph origin====
+{{Han compound|女|臣|c1=s|c2=p|t1=woman|ls=psc}}.
 
 ====Pronunciation====
 {{zh-pron
 |m=zhěn
+|mc=
+|cat=v
 }}
 
 ====Definitions====
 {{zh-hanzi}}
 
-# {{rfdef|lang=zh}}
+# [[cautious]]; [[prudent]]
+#: {{zh-syn|謹慎}}
+
+====References====
+* {{R:twedu|C02079}}
 
 ----
 
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=c|rs=女06|kyu=姬}}
+{{ja-kanji|grade=c|rs=女06}} <!-- Note: 姬 is not its kyūjitai form (Not found in Jōyō Kanji 2010) -->
 
 # [[princess]]
 # [[concubine]]
 # [[woman]]
 
 ====Readings====
-As shinjitai kanji of {{ja-l|姬}}:
+From its original form {{ja-l|姬}}:
 {{ja-readings
 |goon=き
 |kanon=き
 |kun=ひめ-
 |nanori=こひめ, ひめさき, れもん
 }}
-As unsimplified kanji {{ja-l|姫}}:
+In its current form {{ja-l|姫}}:
 {{ja-readings
 |goon=しん
 |kanon=しん
@@ -82,7 +97,7 @@ Originally a compound of {{compound|lang=ja|sort=ひめ|日|tr1=hi|t1=[[sun]]|po
 {{ja-pron|yomi=k|ひめ|acc=1|acc_ref=DJR}}
 
 ===Noun===
-{{ja-noun|kyu=姬|ひめ}}
+{{ja-noun|ひめ}}
 
 # the [[daughter]] of a [[high]]-[[rank]]ing person
 ## a [[noblewoman]]
@@ -126,7 +141,7 @@ Originally a compound of {{compound|lang=ja|sort=ひめ|日|tr1=hi|t1=[[sun]]|po
 {{der-bottom}}
 
 ===Prefix===
-{{ja-pos|prefix|kyu=姬|ひめ}}
+{{ja-pos|prefix|ひめ}}
 
 # [[cute]]
 # [[small]]
@@ -139,7 +154,7 @@ Originally a compound of {{compound|lang=ja|sort=ひめ|日|tr1=hi|t1=[[sun]]|po
 {{der-bottom}}
 
 ===Proper noun===
-{{ja-pos|proper|kyu=姬|ひめ}}
+{{ja-pos|proper|ひめ}}
 
 # ''a [[place name]]''
 # {{surname|lang=ja|A=a|nodot=1|sort=ひめ}}
