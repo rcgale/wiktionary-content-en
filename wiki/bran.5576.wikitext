@@ -114,36 +114,51 @@ Compare {{cog|txb|wrauña}}, {{cog|lt|várna}}.
 ==Irish==
 
 ===Etymology 1===
-From {{inh|ga|sga|bran}}, from {{inh|ga|pgl|ᚁᚏᚐᚅᚐ}}, from {{inh|ga|cel-pro|*branos}}, from {{der|ga|ine-pro|*werneh₂-||crow}} (compare {{cog|txb|wrauña}}, {{cog|lt|várna}}).
+From {{inh|ga|sga|bran}}, from {{inh|ga|pgl|ᚁᚏᚐᚅᚐ}}, from {{inh|ga|cel-pro|*branos}}, from {{der|ga|ine-pro|*werneh₂-|t=crow}} (compare {{cog|txb|wrauña}}, {{cog|lt|várna}}).
 
 ====Noun====
 {{ga-noun|m|brain|brain}}
 
 # {{lb|ga|literary}} [[raven]]
+#: {{syn|ga|fiach}}
 
-=====Synonyms=====
-* {{l|ga|fiach}}
+=====Declension=====
+{{ga-decl-m1|b|ran|rain}}
+
+=====Derived terms=====
+* {{l|ga|branán|g=m|t=raven; a principal piece in ancient board-game set; prince}}
 
 ===Etymology 2===
+{{rfe|lang=ga}}
 
 ====Noun====
 {{ga-noun|m|brain|brain}}
 
 # [[bream]] {{qualifier|[[Abramis brama]]}}
+#: {{syn|ga|bréan|deargán}}
 
-=====Synonyms=====
-* {{l|ga|bréan}}
-* {{l|ga|deargán}}
-
-===Declension===
+=====Declension=====
 {{ga-decl-m1|b|ran|rain}}
+
+===Etymology 3===
+
+====Noun====
+{{ga-noun|m|~|-}}
+
+# {{clipping of|bran mór|bran (mór)|bran|lang=ga}}
+# {{clipping of|bran beag||pollard|lang=ga}}
+
+=====Declension=====
+{{ga-decl-m4-nopl|b|ran}}
 
 ===Mutation===
 {{ga-mut}}
 
-===References===
-* {{R:DIL|6537|head=1 bran (‘raven’)}}
+===Further reading===
 * {{R:ga:Ó Dónaill}}
+* {{R:DIL|6537|head=1 bran (‘raven’)}}
+* {{R:ga:EID}}
+* {{R:ga:NEID}}
 
 {{topics|ga|Corvids|Cyprinids}}
 
