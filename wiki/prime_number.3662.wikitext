@@ -4,21 +4,27 @@
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|number theory}} Any [[natural number]] that is greater than 1 and is [[divisible]] only by itself and 1.
+# {{lb|en|number theory}} Any [[natural number]] greater than 1 that is [[divisible]] only by itself and 1.
+#: {{ux|en|The {{w|fundamental theorem of arithmetic}} states that every natural number greater than 1 can be factorized into '''prime numbers''' in a way that is unique up to the order in which the factors are written.}}
+#* '''2007''', James Alfred Walker, Julian Francis Miller, ''Predicting '''Prime Numbers''' Using Cartesian Genetic Programming'', Marc Ebner, Michael O'Neill, Anikó Ekárt, Anna Isabel Esparcia-Alcázar, Leonardo Vanneschi (editors), ''Genetic Programming: 10th European Conference, EuroGP 2007, Proceedings'', Springer, {{w|LNCS}} 4445, [https://books.google.com.au/books?id=7Oq0PE8iTewC&pg=PA215&dq=%22prime+number%22%7C%22prime+numbers%22&hl=en&sa=X&ved=0ahUKEwjUrqz6kOncAhXB31QKHYSsDnYQ6AEIvwMwUg#v=onepage&q=%22prime%20number%22%7C%22prime%20numbers%22&f=false page 215],
+#*: As the evolved solution for the first 16 '''prime numbers''' was capable of accepting inputs up to 31, we decided to extend the experiment to see how the solution generalised on 15 previously unseen inputs (just as we did with the integer-based approach). From the 15 unseen inputs, 7 of the predicted 15 outputs were '''prime numbers''', which is just below 50%, indicating that the solution had learned something about "primeness" or favoured '''prime numbers'''.
+#* '''2010''', Colin Foster, ''Resources for Teaching Mathematics: 14-16'', {{w|Continuum International Publishing Group}}, [https://books.google.com.au/books?id=vqevhmxo6RkC&pg=PA168&dq=%22prime+number%22%7C%22prime+numbers%22&hl=en&sa=X&ved=0ahUKEwjUrqz6kOncAhXB31QKHYSsDnYQ6AEIuQIwNQ#v=onepage&q=%22prime%20number%22%7C%22prime%20numbers%22&f=false page 168],
+#*: The most common definition of a '''prime number''' used in school seems to be 'an integer whose only factors are one and itself', which unfortunately leaves open the question of whether one is itself a '''prime number'''. Until the nineteenth century, most mathematicians regarded one as a '''prime number''' - Henri Lebesgue (1875-1941) is often said to be the last professional mathematician to call one prime - so it is a little unfair to regard learners as silly for thinking this today, or for questioning why we do not now regard one as a '''prime number''' - it is still a good question.
 #* {{quote-magazine|year=2013|month=July-August|author=[http://www.americanscientist.org/authors/detail/sarah-glaz Sarah Glaz]|title=[http://www.americanscientist.org/issues/pub/2013/4/ode-to-prime-numbers Ode to Prime Numbers]|volume=101|issue=4|magazine={{w|American Scientist}}|passage=Some poems, echoing the purpose of early poetic treatises on scientific principles, attempt to elucidate the mathematical concepts that underlie '''prime numbers'''. Others play with primes’ cultural associations. Still others derive their structure from mathematical patterns involving primes.}}
-#: {{ux|en|Every natural number greater than 1 can be factorized into '''prime numbers'''.}}
+# {{lb|en|obsolete|number theory}} Any [[natural number]] (including 1) that is [[divisible]] only by itself and 1.
 
 ====Usage notes====
-* Modern mathematical usage specifies that 1 is not a prime number (as has been defined here); some older texts consider 1 to be a prime number.
+* Modern mathematical usage specifies that 1 is not a prime number; some older texts consider 1 to be a prime number.
+** Using the obsolete specification would affect the phrasing of the {{w|fundamental theorem of arithmetic}}: the factorisation of a given natural number would be unique only with regard to prime factors ''other than 1''.
 
 ====Synonyms====
-* {{l|en|prime}}
+* {{sense|natural number >1 divisible only by itself and 1}} {{l|en|prime}}
 
 ====Antonyms====
-* {{l|en|composite number}}
+* {{sense|natural number divisible only by itself and 1}} {{l|en|composite number}}
 
 ====Hypernyms====
-* {{l|en|number}}
+* {{l|en|integer}}, {{l|en|natural number}}, {{l|en|number}}
 
 ====Hyponyms====
 {{hyp4
@@ -36,7 +42,7 @@
 |cousin prime number
 |Cuban prime number
 |Cullen prime number
-|delannoy number prime number
+|Delannoy number prime number
 |deletable prime number
 |dihedral prime number
 |double factorial prime number
