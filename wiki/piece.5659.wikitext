@@ -107,7 +107,7 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * Chamicuro: {{t|ccc|naspejka}}
 * Chinese:
 *: Cantonese: {{t|yue|嚿|tr=gau6|sc=Hani}}, {{t|yue|塊|sc=Hani}}, {{t|yue|块|tr=faai3|sc=Hani}}
-*: Mandarin: {{t+|cmn|片|tr=piàn|sc=Hani}}, {{t+|cmn|塊|sc=Hani}}, {{t+|cmn|块|tr=kuài|sc=Hani}}
+*: Mandarin: {{t+|cmn|片|tr=piàn|sc=Hani}}, {{t+|cmn|塊|sc=Hani}}, {{t+|cmn|块|tr=kuài|sc=Hani}}, {{t+|cmn|片段|tr=piànduàn|sc=Hani}}, {{t+|cmn|部分|tr=bùfen|sc=Hani}}
 * Czech: {{t+|cs|kus|m}}
 * Danish: {{t+|da|stykke|n}}, {{t+|da|del|c}}
 * Dutch: {{t+|nl|stuk|n}}, {{t+|nl|deel|n}}, {{t+|nl|onderdeel|n}}
@@ -120,16 +120,16 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * German: {{t+|de|Stück|n}}
 * Greek: {{t+|el|κομμάτι|n}}
 * Haitian Creole: {{t|ht|moso}}
-* Hebrew: {{t|he|חלק|m|tr=khélek}}
+* Hebrew: {{t|he|חֵלֶק|m|tr=khélek}}
 * Hindi: {{t|hi|टुकड़ा|m}}, {{t+|hi|खंड}}
 * Hungarian: {{t+|hu|darab}}
 * Icelandic: {{t+|is|hluti|m}}, {{t|is|stykki|n}}
 * Irish: {{t+|ga|píosa|m}}, {{t|ga|giota|m}}, {{t|ga|boim|m}} {{qualifier|literary}}
-* Italian: {{t+|it|pezzo|m}}, {{t+|it|porzione|f}}
-* Japanese: {{qualifier|part}} {{t+|ja|部分|tr=[[ぶぶん]], bubun}}, {{qualifier|small part}} {{t|ja|一切れ|tr=[[ひときれ]], hitokire}}, {{t|ja|一片|tr=[[いっぺん]], ippen}}, {{qualifier|fish meat}} {{t|ja|切り身|tr=[[きりみ]], kirimi}}
+* Italian: {{t+|it|pezzo|m}}, {{t+|it|porzione|f}}, {{t+|it|parte|f}}
+* Japanese: {{qualifier|part}} {{t+|ja|部分|tr=ぶぶん, bubun}}, {{qualifier|small part}} {{t|ja|一切れ|tr=ひときれ, hitokire}}, {{t|ja|一片|tr=いっぺん, ippen}}, {{qualifier|fish, meat}} {{t|ja|切り身|tr=きりみ, kirimi}}
 * Kazakh: {{t|kk|кесек}}
-* Khmer: {{t+|km|ដុំ|tr=dom|sc=Khmr}}
-* Korean: {{t|ko|한조각}}, {{t+|ko|조각}}, {{t+|ko|부분}}
+* Khmer: {{t+|km|ដុំ}}
+* Korean: {{t+|ko|조각}}, {{t+|ko|부분}}
 * Kurdish:
 *: Sorani: {{t|ckb|پارچە|tr=parçe}}
 * Kyrgyz: {{t+|ky|үзүм}}
@@ -139,7 +139,7 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * Latin: {{t+|la|pars|f}}, {{t|la|fragmentum|n}}, {{t|la|frustum|m}}, {{t+|la|mica|f}}
 * Latvian: {{t|lv|gabals|m}}
 * Lithuanian: {{t|lt|gabalas|m}}, {{t+|lt|dalis|f}}
-* Macedonian: {{t|mk|парче|n|tr=parče|sc=Cyrl}}, {{t|mk|дел|m|tr=del|sc=Cyrl}}
+* Macedonian: {{t|mk|парче|n}}, {{t|mk|дел|m}}
 * Maltese: {{t|mt|biċċa|f}}
 * Maori: {{t|mi|wāhanga}}
 * Mongolian: {{t+|mn|зүсэм|sc=Cyrl}}, {{t+|mn|хэрчим|sc=Cyrl}}, {{t+|mn|нөхөөс|sc=Cyrl}}
@@ -184,7 +184,7 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * Belarusian: {{t|be|шту́ка|f}}
 * Danish: {{t+|da|stykke|n}}
 * German: {{t+|de|Stück|n}}
-* Japanese: {{t|ja|一片|tr=[[いっぺん]], ippen}}
+* Japanese: {{t|ja|一片|tr=いっぺん, ippen}}
 * Old English: {{t|ang|styċċe|n}}
 * Polish: {{t+|pl|sztuka|f}}
 {{trans-mid}}
@@ -206,7 +206,7 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * Finnish: {{t+|fi|nappula}}
 * German: {{t+|de|Spielfigur}}, {{qual|chess, a higher-value figure as distinguished from a pawn}} {{t+|de|Offizier}}
 {{trans-mid}}
-* Japanese: {{t|ja|ピース|tr=ぴーす, pīsu}}
+* Japanese: {{t|ja|ピース|tr=pīsu}}
 * Persian: {{t+|fa|مهره|tr=mohre|sc=fa-Arab}}
 * Polish: {{t+|pl|pionek|m}}
 * Portuguese: {{t+|pt|peça|f}}
@@ -240,7 +240,7 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * Irish: {{t|ga|saothar|m}}, {{t|ga|dréacht|m}}, {{t+|ga|píosa|m}}
 * Italian: {{t+|it|brano|m}}
 {{trans-mid}}
-* Japanese: {{t+|ja|作品|tr=[[さくひん]], sakuhin}}
+* Japanese: {{t+|ja|作品|tr=さくひん, sakuhin}}
 * Korean: {{t+|ko|작품}}
 * Mongolian: {{t+|mn|зохиол|sc=Cyrl}}, {{t+|mn|жүжиг|sc=Cyrl}}
 * Polish: {{t+|pl|utwór|m}}, {{t+|pl|sztuka|f}}
@@ -301,10 +301,8 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * French: {{t+check|fr|pièce|f}}
 * German: {{t+check|de|Stück|n}}
 * Indonesian: {{t+check|id|potong}}
-* Italian: {{t+check|it|parte|f}}, {{t+check|it|pezzo|m}}
-* Korean: {{t+check|ko|조각|sc=Kore}}, {{t+check|ko|부분|sc=Kore}}
+* Italian: {{t+check|it|pezzo|m}}
 {{trans-mid}}
-* Mandarin: {{t+check|cmn|片斷|sc=Hani}}, {{t+check|cmn|片断|tr=piànduàn|sc=Hani}}, {{t+check|cmn|部分|tr=bùfen|sc=Hani}}
 * Persian: {{t+check|fa|تکه|tr=tekke|sc=fa-Arab}}
 * Spanish: {{t+check|es|pedazo|m}}, {{t+check|es|trozo|m}}
 * Swahili: {{t+check|sw|kipande}}, {{qualifier|noun 7/8}} {{t+check|sw|vipande}} ''pl ''
