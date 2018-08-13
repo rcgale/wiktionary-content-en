@@ -191,7 +191,7 @@ From {{inh|en|enm|light}}, {{m|enm|liht}}, {{m|enm|leoht}}, from {{inh|en|ang|l�
 * Catalan: {{t-simple|ca|llum|g=f|langname=Catalan|interwiki=1}}
 * Chechen: {{t|ce|серло}}
 * Cherokee: {{t|chr|ᎠᏨᏍᏛ}}
-* Chickasaw: {{t|cic|shoppala'}}
+* Chickasaw: {{t-simple|cic|shoppala'|langname=Chickasaw}}
 * Chinese:
 *: Cantonese: {{t|yue|光|tr=gwong1}}
 *: Hakka: {{t|hak|光|tr=kông}}
@@ -226,8 +226,8 @@ From {{inh|en|enm|light}}, {{m|enm|liht}}, {{m|enm|leoht}}, from {{inh|en|ang|l�
 * Galician: {{t-simple|gl|luz|g=f|langname=Galician|interwiki=1}}
 * Georgian: {{t|ka|შუქი|sc=Geor}}, {{t|ka|სინათლე|sc=Geor}}, {{t|ka|ნათება|sc=Geor}}
 * German: {{t-simple|de|Licht|g=n|langname=German|interwiki=1}}
-*: Alemannic German: {{t|gsw|Liecht|n}}
-*: Pennsylvania German: {{t|pdc|Licht|n}}
+*: Alemannic German: {{t-simple|gsw|Liecht|g=n|langname=Alemmanic German}}
+*: Pennsylvania German: {{t-simple|pdc|Licht|g=n|Pennsylvania German}}
 * Gothic: {{t|got|𐌻𐌹𐌿𐌷𐌰𐌸|n}}
 * Greek: {{t+|el|φως|n}}
 *: Ancient: {{t|grc|φῶς|n}}
@@ -326,7 +326,7 @@ From {{inh|en|enm|light}}, {{m|enm|liht}}, {{m|enm|leoht}}, from {{inh|en|ang|l�
 * Portuguese: {{t-simple|pt|luz|g=f|langname=Portuguese|interwiki=1}}
 * Pumpokol: {{t-simple|xpm|hixem|langname=Pumpokol}}
 * Punjabi: {{t|pa|ਪਰਕਾਸ਼|m}}
-* Quechua: {{t|qu|k'ancha}}, {{t-simple|qu|acki|langname=Quechua}}, {{t-simple|qu|azki|langname=Quechua}}, {{t+|qu|k'anchay}}
+* Quechua: {{t-simple|qu|k'ancha|langname=Quechua}}, {{t-simple|qu|acki|langname=Quechua}}, {{t-simple|qu|azki|langname=Quechua}}, {{t-simple|qu|k'anchay|langname=Quechua|interwiki=1}}
 * Romagnol: {{t-simple|rgn|luš|langname=Romagnol}}
 * Romanian: {{t-simple|ro|lumină|g=f|langname=Romanian|interwiki=1}}
 * Romansch: {{t-simple|rm|glisch|g=f|langname=Romansch}} {{qualifier|Rumantsch Grischun, Sursilvan, Sutsilvan}}, {{t-simple|rm|gleisch|g=f|langname=Romansch}} {{qualifier|Surmiran}}, {{t-simple|rm|glüsch|g=f|langname=Romansch}} {{qualifier|Puter}}, {{t-simple|rm|glüm|g=f|langname=Romansch}} {{qualifier|Vallader}}
@@ -348,7 +348,7 @@ From {{inh|en|enm|light}}, {{m|enm|liht}}, {{m|enm|leoht}}, from {{inh|en|ang|l�
 * Slovak: {{t-simple|sk|svetlo|g=n|langname=Slovak|interwiki=1}}
 * Slovene: {{t-simple|sl|svetlôba|g=f|langname=Slovene|interwiki=1}}
 * Sorbian:
-*: Lower Sorbian: {{t|dsb|swětło|n}}
+*: Lower Sorbian: {{t-simple|dsb|swětło|g=n|langname=Lower Sorbian}}
 * Sotho: {{t-simple|st|lesedi|langname=Sotho}}
 * Southern Altai: {{t|alt|јарык|tr=carıq|sc=Cyrl}}
 * Spanish: {{t-simple|es|luz|g=f|langname=Spanish|interwiki=1}}
@@ -375,9 +375,9 @@ From {{inh|en|enm|light}}, {{m|enm|liht}}, {{m|enm|leoht}}, from {{inh|en|ang|l�
 * Ukrainian: {{t+|uk|світло́|n}}
 * Urdu: {{t|ur|روشنی|f|tr=rośnī}}, {{t|ur|پرکاش|m|tr=prakāś|sc=ur-Arab}}, {{t+|ur|نور|sc=ur-Arab}}
 * Uyghur: {{t|ug|يورۇقلۇق}}, {{t+|ug|نۇر}}
-* Uzbek: {{t+|uz|yorugʻlik}}, {{t-simple|uz|nur|langname=Uzbek|interwiki=1}}, {{t+|uz|yogʻdu|alt=yog'du}}
+* Uzbek: {{t-simple|uz|yorugʻlik|langname=Uzbek||interwiki=1}}, {{t-simple|uz|nur|langname=Uzbek|interwiki=1}}, {{t+|uz|yogʻdu|alt=yog'du}}
 * Venetian: {{t-simple|vec|łuxe|g=f|langname=Venetian}}
-* Vietnamese: {{t+|vi|ánh sáng}}, {{t-simple|vi|ánh|langname=Vietnamese|interwiki=1}}
+* Vietnamese: {{t-simple|vi|ánh sáng|langname=Vietnamese|interwiki=1}}, {{t-simple|vi|ánh|langname=Vietnamese|interwiki=1}}
 * Vilamovian: {{t-simple|wym|łicht|g=n|langname=Vilamovian}}
 * Volapük: {{t-simple|vo|lit|langname=Volapük|interwiki=1}}
 * Walloon: {{t-simple|wa|loumire|g=f|langname=Walloon|interwiki=1}}
@@ -388,11 +388,11 @@ From {{inh|en|enm|light}}, {{m|enm|liht}}, {{m|enm|leoht}}, from {{inh|en|ang|l�
 * Yakut: {{t|sah|сырдык}}
 * Yiddish: {{t|yi|ליכט|n|sc=Hebr}}, {{t|yi|אור|m|tr=or|sc=Hebr}}
 * Yine: {{t-simple|pib|katalu|langname=Yine}}
-* Yoruba: {{t|yo|ìmọ́lẹ̀}}
+* Yoruba: {{t-simple|yo|ìmọ́lẹ̀|langname=Yoruba}}
 * Yucatec Maya: {{t-simple|yua|sáasil|langname=Yucatec Maya}}
 * Zazaki: {{t-simple|zza|zerq|langname=Zazaki}}
 * Zulu: {{t-simple|zu|ukukhanya|c15|langname=Zulu}}, {{t+|zu|isibane|c7|c8}}
-* ǃXóõ: {{t|nmn|ǁga̰e}}
+* ǃXóõ: {{t-simple|nmn|ǁga̰e|langname=ǃXóõ}}
 {{trans-bottom}}
 
 {{trans-top|source of illumination}}
@@ -484,7 +484,7 @@ From {{inh|en|enm|light}}, {{m|enm|liht}}, {{m|enm|leoht}}, from {{inh|en|ang|l�
 * Javanese: {{t-simple|jv|pepadhang|langname=Javanese}}
 * Korean: {{t+|ko|빛}}
 * Kurdish:
-*: Kurmanji: {{t+|ku|ronî|f}}, {{t+|ku|ronahî|f}}
+*: Kurmanji: {{t-simple|ku|ronî|g=f|langname=Kurmanji|interwiki=1}}, {{t-simple|ku|ronahî|g=f|langname=Kurmanji|interwiki=1}}
 {{trans-mid}}
 * Latin: {{t-simple|la|lux|langname=Latin|interwiki=1}}, {{t-simple|la|lumen|g=n|langname=Latin}}
 * Ngazidja Comorian: {{t|zdj|nuru|c9|c10}}
