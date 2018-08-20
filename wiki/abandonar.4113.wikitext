@@ -4,7 +4,9 @@
 {{ast-verb}}
 
 # to [[abandon]]
+
 ----
+
 ==Catalan==
 
 ===Pronunciation===
@@ -27,13 +29,11 @@
 {{gl-verb|abandon|ar}}
 
 # to [[abandon]], [[leave]]
+#: {{syn|gl|deixar}}
 # to [[forsake]]
 
 ====Conjugation====
 {{gl-conj-ar|abandon}}
-
-====Synonyms====
-* {{sense|to leave}} {{l|gl|deixar}}
 
 ----
 
@@ -50,7 +50,7 @@ Borrowed from {{bor|io|en|abandon}}, {{bor|io|fr|abandonner}}, {{bor|io|it|abban
 {{io-verb|abandon}}
 
 # {{lb|io|transitive}} to [[abandon]], {{gloss|wholly}} [[give up]], {{gloss|totally}} [[relinquish]], [[forego]], [[forsake]]
-#: {{ux|io|Ne '''abandonez''' tua frato!|Don't '''abandon''' your brother!|inline=yes}}
+#: {{uxi|io|Ne '''abandonez''' tua frato!|Don't '''abandon''' your brother!}}
 
 ====Conjugation====
 {{io-conj}}
@@ -83,7 +83,7 @@ Borrowed from {{bor|io|en|abandon}}, {{bor|io|fr|abandonner}}, {{bor|io|it|abban
 
 ===Etymology===
 {{PIE root|pt|bʰeh₂|id=speak}}
-From {{etyl|fro|pt}} {{m|fro|abandoner}}, formed from {{m|fro|à|a|at, to}} + {{m|fro|bandon||jurisdiction, control}}, from {{etyl|LL.|pt}} {{m|la|bannum||proclamation}}, {{m|la|bannus}}, {{m|la|bandum}}, from {{etyl|frk|pt}} {{m|frk|*ban}}, {{m|frk|*bann}}, from {{etyl|gem-pro|pt}} {{m|gem-pro|*bannaną||to proclaim, command}}, from {{etyl|ine-pro|pt}} {{m|ine-pro|*bʰeh₂-||to speak}}.
+From {{der|pt|fro|abandoner}}, formed from {{m|fro|à|a|t=at, to}} + {{m|fro|bandon|t=jurisdiction, control}}, from {{der|pt|LL.|bannum|t=proclamation}}, {{m|la|bannus}}, {{m|la|bandum}}, from {{der|pt|frk|*ban}}, {{m|frk|*bann}}, from {{der|pt|gem-pro|*bannaną|t=to proclaim, command}}, from {{der|pt|ine-pro|*bʰeh₂-|t=to speak}}.
 
 ===Pronunciation===
 * {{a|Portugal}} {{IPA|/ɐ.ˌbɐ̃.du.ˈnaɾ/|[ɐ.ˌβɐ̃.du.ˈnaɾ]|lang=pt}}
@@ -97,31 +97,31 @@ From {{etyl|fro|pt}} {{m|fro|abandoner}}, formed from {{m|fro|à|a|at, to}} + {{
 #* {{RQ:Harry Potter|5|pt-BR|page=75}}
 #*: Não o perdoou por '''abandonar''' o serviço em vez de seguir você.
 #*:: She didn't forgive him for abandoning his service instead of following you.
-#: {{ux|pt|O exército teve que '''abandonar''' o forte.|The army had to '''abandon''' the fort.}}
-#: {{ux|pt|A mulher '''abandonou''' seu bebé.|The woman '''abandoned''' her baby.}}
+#: {{uxi|pt|O exército teve que '''abandonar''' o forte.|The army had to '''abandon''' the fort.}}
+#: {{uxi|pt|A mulher '''abandonou''' seu bebé.|The woman '''abandoned''' her baby.}}
+#: {{syn|pt|deixar|largar}}
 # {{lb|pt|transitive}} to {{l|en|give up}} {{gloss|to quit an activity or attempt}}
-#: {{ux|pt|'''Abandone''' a aviação, você nunca vai ser piloto.|'''Give up''' aviation, you will never be a pilot.}}
+#: {{uxi|pt|'''Abandone''' a aviação, você nunca vai ser piloto.|'''Give up''' aviation, you will never be a pilot.}}
+#: {{syn|pt|desistir|largar|[[largar mão]] [[de]]}}
 # {{indtr|pt|em|.pronominal}} to let oneself be controlled by; to put oneself in the hands of; to {{l|en|indulge}} in
-#: {{ux|pt|Nós nos '''abandonamos''' na tristeza.|We '''let ourselves be seized''' by sadness.}}
-#: {{ux|pt|O réu se '''abandonou''' nas mãos do advogado.|The accused '''put''' himself in his lawyer’s hands.}}
+#: {{uxi|pt|Nós nos '''abandonamos''' na tristeza.|We '''let ourselves be seized''' by sadness.}}
+#: {{uxi|pt|O réu se '''abandonou''' nas mãos do advogado.|The accused '''put''' himself in his lawyer’s hands.}}
 
 ====Conjugation====
 {{pt-conj|abandon|ar}}
 
-====Synonyms====
-* {{sense|to abandon}} {{l|pt|deixar}}, {{l|pt|largar}}
-* {{sense|to give up}} {{l|pt|desistir}}, {{l|pt|largar}}, {{l|pt|[[largar mão]] [[de]]}}
-
 ====Related terms====
-* {{l|pt|abandono}}
-* {{l|pt|abandonado}}
+{{rel2
+|abandono
+|abandonado
+|lang=pt}}
 
 ----
 
 ==Spanish==
 
 ===Etymology===
-{{etyl|fr|es}} {{m|fr|abandonner}}, from {{etyl|gem-pro|es}} {{m|gem-pro|*bannaną}}.
+From {{bor|es|fr|abandonner}}, from {{der|es|gem-pro|*bannaną}}.
 
 ===Pronunciation===
 * {{es-IPA}}
@@ -130,18 +130,20 @@ From {{etyl|fro|pt}} {{m|fro|abandoner}}, formed from {{m|fro|à|a|at, to}} + {{
 {{es-verb|abandon|ar}}
 
 # to [[abandon]], to [[leave]]
-#: {{ux|es|La '''abandonó''' por otra mujer.|He abandoned her for another woman.}}
+#: {{uxi|es|La '''abandonó''' por otra mujer.|He abandoned her for another woman.}}
 # to [[neglect]]
 
 ====Conjugation====
 {{es-conj-ar|abandon|combined=1}}
 
 ====Derived terms====
-* {{l|es|abandonado}}
-* {{l|es|abandonamiento}}
-* {{l|es|abandonismo}}
-* {{l|es|abandonista}}
-* {{l|es|abandono}}
+{{der3
+|abandonado
+|abandonamiento
+|abandonismo
+|abandonista
+|abandono
+|lang=es}}
 
 ===External links===
 * {{R:DRAE 2001}}
