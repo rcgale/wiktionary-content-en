@@ -2,7 +2,10 @@
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{m|la|destruo|dēstruere}}.
+From {{der|ca|la|destruo|dēstruere}}.
+
+===Pronunciation===
+* {{ca-IPA}}
 
 ===Verb===
 {{ca-verb}}
@@ -20,7 +23,7 @@ From {{etyl|la|ca}} {{m|la|destruo|dēstruere}}.
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|la|pt}} {{m|la|destruo|dēstruere}}.
+From {{der|pt|la|destruo|dēstruere}}.
 
 ===Pronunciation===
 * {{a|PT}} {{IPA|/dɨʃtɾuˈiɾ/|lang=pt}}
@@ -31,37 +34,38 @@ From {{etyl|la|pt}} {{m|la|destruo|dēstruere}}.
 {{pt-verb|des|truir}}
 
 # to [[destroy]]
+#: {{ant|pt|construir}}
 
 ====Conjugation====
 {{pt-conj|des|truir}}
-
-====Antonyms====
-* {{l|pt|construir}}
 
 ----
 
 ==Spanish==
 
 ===Etymology===
-From {{etyl|la|es}} {{m|la|destruo|dēstruere}}.
+From {{der|es|la|destruo|dēstruere}}.
+
+===Pronunciation===
+* {{es-IPA}}
 
 ===Verb===
 {{es-verb|destru|ir|pres=destruyo}}
 
 # to [[destroy]]
+#: {{syn|es|romper}}
 
 ====Conjugation====
 {{es-conj-ir|destr|p=-uir|combined=1}}
 
-====Synonyms====
-* {{l|es|romper}}
-
 ====Related terms====
-* {{l|es|construir}}
-* {{l|es|destrucción}}
-* {{l|es|destructor}}
-* {{l|es|detructivo}}
-* {{l|es|destruyente}}
+{{rel3
+|construir
+|destrucción
+|destructor
+|detructivo
+|destruyente
+|lang=es}}
 
 ===See also===
 * {{l|es|deshacer}}
