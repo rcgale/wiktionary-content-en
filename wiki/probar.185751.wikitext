@@ -1,7 +1,7 @@
 ==Asturian==
 
 ===Etymology===
-From {{etyl|la|ast}} {{m|la|probāre}}, present active infinitive of {{m|la|probō}}.
+From {{der|ast|la|probāre}}, present active infinitive of {{m|la|probō}}.
 
 ===Verb===
 {{ast-verb}}
@@ -15,8 +15,10 @@ From {{etyl|la|ast}} {{m|la|probāre}}, present active infinitive of {{m|la|prob
 {{rfinfl|ast|verb}}
 
 ====Related terms====
-* {{l|ast|probable}}
-* {{l|ast|prueba}}
+{{rel2
+|probable
+|prueba
+|lang=ast}}
 
 ----
 
@@ -29,7 +31,7 @@ Borrowed from {{bor|io|es|probar}}, from {{der|io|la|probāre}}, present active 
 {{io-verb|prob}}
 
 # {{lb|io|transitive}} to [[try]] [[out]], to [[attempt]], to [[test]]
-#: {{ux|io|Lu probis omno sen suceso.|He/she/it tried everything without success.}}
+#: {{uxi|io|Lu '''probis''' omno sen suceso.|He/she/it '''tried''' everything without success.}}
 
 ====Conjugation====
 {{io-conj|prob}}
@@ -42,37 +44,39 @@ Borrowed from {{bor|io|es|probar}}, from {{der|io|la|probāre}}, present active 
 ==Spanish==
 
 ===Etymology===
-From {{etyl|la|es}} {{m|la|probāre}}, present active infinitive of {{m|la|probō}}.
+From {{der|es|la|probāre}}, present active infinitive of {{m|la|probō}}.
+
+===Pronunciation===
+* {{es-IPA}}
 
 ===Verb===
 {{es-verb|prob|ar|pres=pruebo}}
 
 # to [[prove]]
-#: ''No puedes '''probar'''lo.'' - You can’t '''prove''' it.
+#: {{uxi|es|No puedes '''probar'''lo.|You can’t '''prove''' it.}}
 # to [[taste]]
-#: '''''Prueba''' a ver si está bueno.'' - '''Taste''' it to see if it’s good.
+#: {{uxi|es|'''Prueba''' a ver si está bueno.|'''Taste''' it to see if it’s good.}}
 # to [[try]]
-#: ''Lo '''probó''' todo sin éxito.'' - He '''tried''' everything without success.
+#: {{uxi|es|Lo '''probó''' todo sin éxito.|He '''tried''' everything without success.}}
 # to [[suit]]
-#: ''Vivir en Madrid no le '''prueba'''.'' - Living in Madrid doesn't '''suit''' her.
-# {{lb|es|reflexive}} (''with clothes, etc.'') to see if it [[fit]]s; to try on
-#: ''María '''se probó''' el vestido.'' - Maria '''tried on''' the dress.
+#: {{uxi|es|Vivir en Madrid no le '''prueba'''.|Living in Madrid doesn't '''suit''' her.}}
+# {{lb|es|reflexive|with clothes, etc.}} to see if it [[fit]]s; to try on
+#: {{uxi|es|María '''se probó''' el vestido.|Maria '''tried on''' the dress.}}
 
 ====Conjugation====
 {{es-conj-ar|pr|b|p=o-ue|combined=1}}
 
 ====Related terms====
-{{top2}}
-* {{l|es|aprobar}}
-* {{l|es|comprobar}}
-* {{l|es|probador|g=m}} / {{l|es|probadora|g=f}}
-* {{l|es|probable}}
-{{mid2}}
-* {{l|es|probado}}
-* {{l|es|probanza|g=f}}
-* {{l|es|prueba|g=f}}
-* {{l|es|probadura|g=f}}
-{{bottom}}
+{{rel4
+|{{l|es|aprobar}}
+|{{l|es|comprobar}}
+|{{l|es|probador|g=m}} / {{l|es|probadora|g=f}}
+|{{l|es|probable}}
+|{{l|es|probado}}
+|{{l|es|probanza|g=f}}
+|{{l|es|prueba|g=f}}
+|{{l|es|probadura|g=f}}
+|lang=es}}
 
 ====See also====
 * {{l|es|intentar}}
