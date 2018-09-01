@@ -1,7 +1,10 @@
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{m|la|bullīre}}, present active participle of {{m|la|bulliō||I bubble, boil}}, from {{m|la|bulla||bubble}}.
+From {{der|ca|la|bullīre}}, present active participle of {{m|la|bulliō|t=I bubble, boil}}, from {{m|la|bulla|t=bubble}}.
+
+===Pronunciation===
+* {{ca-IPA}}
 
 ===Verb===
 {{ca-verb|pres_1_sg=bullo}}
@@ -9,24 +12,25 @@ From {{etyl|la|ca}} {{m|la|bullīre}}, present active participle of {{m|la|bulli
 # to [[boil]]
 
 ====Conjugation====
-as [[dormir]]
 {{ca-conj-ir-pure|bull}}
 
 ====Related terms====
-* {{l|ca|bull|g=m}}
-* {{l|ca|bullabessa|g=f}}
-* {{l|ca|bullanga|g=f}}
-* {{l|ca|bullangós}} ''adj''
-* {{l|ca|bullent}} ''adj''
-* {{l|ca|bullícia|g=f}}
-* {{l|ca|bulliciós}} ''adj''
-* {{l|ca|bulliciosament}} ''adv''
-* {{l|ca|bullida|g=f}}
-* {{l|ca|bullidera|g=f}}
-* {{l|ca|bullidor|g=m}}
-* {{l|ca|bulliment|g=m}}
-* {{l|ca|bullit|g=m}}
-* {{l|ca|bullor|g=f}}
+{{rel3
+|{{l|ca|bull|g=m}}
+|{{l|ca|bullabessa|g=f}}
+|{{l|ca|bullanga|g=f}}
+|{{l|ca|bullangós|pos=a}}
+|{{l|ca|bullent|pos=a}}
+|{{l|ca|bullícia|g=f}}
+|{{l|ca|bulliciós|pos=a}}
+|{{l|ca|bulliciosament|pos=adv}}
+|{{l|ca|bullida|g=f}}
+|{{l|ca|bullidera|g=f}}
+|{{l|ca|bullidor|g=m}}
+|{{l|ca|bulliment|g=m}}
+|{{l|ca|bullit|g=m}}
+|{{l|ca|bullor|g=f}}
+|lang=ca}}
 
 ===References===
 * {{R:IEC4}}
@@ -36,23 +40,24 @@ as [[dormir]]
 ==Spanish==
 
 ===Etymology===
-From {{etyl|la|es}} {{m|la|bullīre}}, present active participle of {{m|la|bulliō||I bubble, boil}}, from {{m|la|bulla||bubble}}.
+From {{der|es|la|bullīre}}, present active participle of {{m|la|bulliō|t=I bubble, boil}}, from {{m|la|bulla|t=bubble}}.
+
+===Pronunciation===
+* {{es-IPA}}
 
 ===Verb===
 {{es-verb|bull|ir}}
 
 # to [[budge]]
 # to [[boil]]
-# to [[spring]], to [[well]]
-# to [[teem]], to [[abound]]
-# to [[bubble]] (e.g. with ideas)
+#: {{syn|es|hervir}}
+# to [[spring]], [[well]]
+# to [[teem]], [[abound]]
+#: {{syn|es|hervir}}
+# to [[bubble]] {{q|e.g. with ideas}}
 
 ====Conjugation====
 {{es-conj-ir|bull|p=-ñir}}
-
-====Synonyms====
-* {{sense|to boil}} {{l|es|hervir}}
-* {{sense|to teem}} {{l|es|hervir}}
 
 ====Derived terms====
 * {{l|es|bulla}}
