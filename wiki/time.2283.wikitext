@@ -1514,12 +1514,12 @@ Typical collocations with '''time''' or time expressions.
 * Afrikaans: {{t-simple|af|tyd|langname=Afrikaans|interwiki=1}}
 * Albanian: {{t-simple|sq|kohë|f|langname=Albanian|interwiki=1}}
 * Amharic: {{t|am|ጊዜ}}, {{t|am|ዘመን}}
-* Arabic: {{t+|ar|زَمَن|m}}, {{t+|ar|وَقْت|m}}, {{t+|ar|دَهْر|m}}
-*: Egyptian Arabic: {{t|arz|وقت|m|tr=waʾt|sc=Arab}}
-*: Hijazi Arabic: {{t|acw|وَقْت|m|tr=wagt|sc=Arab}}, {{t|acw|زَمَن|m|tr=zaman|sc=Arab}}
+* Arabic: {{t-simple|ar|زمن|alt=زَمَن|tr=zaman|g=m|langname=Arabic|sc=Arab}}, {{t-simple|ar|وقت|alt=وَقْت|tr=waqt|g=m|langname=Arabic|sc=Arab}}, {{t-simple|ar|دهر|alt=دَهْر|tr=dahr|g=m|langname=Arabic|sc=Arab}}
+*: Egyptian Arabic: {{t-simple|arz|وقت|g=m|tr=waʾt|sc=Arab|langname=Egyptian Arabic}}
+*: Hijazi Arabic: {{t-simple|acw|وقت|alt=وَقْت|g=m|tr=wagt|sc=Arab|langname=Hijazi Arabic}}, {{t-simple|acw|زمن|alt=زَمَن|g=m|tr=zaman|sc=Arab|langname=Hijazi Arabic}}
 * Aramaic:
 *: Hebrew: {{t-simple|arc|זמנא|m|tr=zamnā|langname=Aramaic}}, {{t-simple|arc|זבנא|m|tr=zaḇnā|langname=Aramaic}}
-*: Classical Syriac: {{t-simple|syc|ܙܒܢܐ|c|tr=zaḇnā|langname=Classical Syriac}}
+*: Classical Syriac: {{t-simple|syc|ܙܒܢܐ|g=c|tr=zaḇnā|langname=Classical Syriac}}
 * Armenian: {{t+|hy|ժամանակ|sc=Armn}}
 * Aromanian: {{t-simple|rup|chiro|m|langname=Aromanian}}
 * Assamese: {{t|as|সময়}}, {{t|as|পৰ}}
@@ -1755,8 +1755,8 @@ Typical collocations with '''time''' or time expressions.
 {{trans-bottom}}
 
 {{trans-top|quantity of availability in time}}
-* Arabic: {{t+|ar|وَقْت|m}}
-* Armenian: {{t+|hy|ժամանակ|sc=Armn}}
+* Arabic: {{t-simple|ar|وقت|alt=وَقْت|tr=waqt|g=m|langname=Arabic|sc=Arab}}
+* Armenian: {{t-simple|hy|ժամանակ|sc=Armn|tr=žamanak|langname=Armenian}}
 * Bashkir: {{t|ba|ваҡыт}}
 * Catalan: {{t-simple|ca|temps|m|langname=Catalan|interwiki=1}}
 * Chinese:
@@ -1824,7 +1824,7 @@ Typical collocations with '''time''' or time expressions.
 {{trans-bottom}}
 
 {{trans-top|measurement of a quantity of time}}
-* Armenian: {{t+|hy|ժամանակ|sc=Armn}}
+* Armenian: {{t-simple|hy|ժամանակ|sc=Armn|tr=žamanak|langname=Armenian}}
 * Bashkir: {{t|ba|ваҡыт}}
 * Chinese:
 *: Mandarin: {{t+|cmn|時間|sc=Hani}}, {{t+|cmn|时间|tr=shíjiān|sc=Hani}}
@@ -1880,9 +1880,9 @@ Typical collocations with '''time''' or time expressions.
 {{trans-top|time of day, as indicated by a clock, etc}}
 * Afrikaans: {{t-simple|af|tyd|langname=Afrikaans|interwiki=1}}
 * American Sign Language: {{t|ase|X@BackWrist-PalmDown Contact Contact}}
-* Arabic: {{t+|ar|سَاعَة|f}}
-*: Egyptian Arabic: {{t|arz|ساعة|f|tr=sāʿa|sc=Arab}}
-* Armenian: {{t+|hy|ժամ|sc=Armn}}
+* Arabic: {{t-simple|ar|ساعة|alt=سَاعَة|g=f|sc=Arab|langname=Arabic|tr=sāʿa}}
+*: Egyptian Arabic: {{t-simple|arz|ساعة|g=f|tr=sāʿa|sc=Arab|langname=Egyptian Arabic}}
+* Armenian: {{t-simple|hy|ժամ|sc=Armn|langname=Armenian|tr=žam}}
 * Asturian: {{t-simple|ast|hora|f|langname=Asturian}}
 * Bashkir: {{t|ba|ваҡыт}}, {{t|ba|сәғәт}}
 * Breton: {{t-simple|br|eur|f|langname=Breton|interwiki=1}}
@@ -1950,8 +1950,8 @@ Typical collocations with '''time''' or time expressions.
 {{trans-bottom}}
 
 {{trans-top|particular moment or hour}}
-* Arabic: {{t+|ar|حِين|m}}, {{t+|ar|وَقْت|m}}, {{t|ar|أَوَان|m}}
-* Armenian: {{t+|hy|ժամ|sc=Armn}}
+* Arabic: {{t-simple|ar|حين|alt=حِين|tr=ḥīn|sc=Arab|langname=Arabic|g=m}}, {{t-simple|ar|وقت|alt=وَقْت|tr=waqt|sc=Arab|langname=Arabic|g=m}}, {{t-simple|ar|أوان|alt=أَوَان|tr=ʾawān|sc=Arab|langname=Arabic|g=m}}
+* Armenian: {{t-simple|hy|ժամ|sc=Armn|langname=Armenian|tr=žam}}
 * Breton: {{t-simple|br|gwezh|f|langname=Breton|interwiki=1}}
 * Chechen: {{t|ce|хан}}
 * Chinese:
@@ -1980,7 +1980,7 @@ Typical collocations with '''time''' or time expressions.
 {{trans-bottom}}
 
 {{trans-top|measurement under some system of the time of day or moment in time}}
-* Armenian: {{t+|hy|ժամանակ|sc=Armn}}
+* Armenian: {{t-simple|hy|ժամ|sc=Armn|langname=Armenian|tr=žam}}
 * Czech: {{t-simple|cs|čas|m|langname=Czech|interwiki=1}}
 * Dutch: {{t-simple|nl|tijd|m|langname=Dutch|interwiki=1}}
 * Finnish: {{t-simple|fi|aika|langname=Finnish|interwiki=1}}
@@ -2003,7 +2003,7 @@ Typical collocations with '''time''' or time expressions.
 {{trans-bottom}}
 
 {{trans-top|numerical indication of a particular moment in time}}
-* Armenian: {{t+|hy|ժամ|sc=Armn}}
+* Armenian: {{t-simple|hy|ժամ|sc=Armn|langname=Armenian|tr=žam}}
 * Bashkir: {{t|ba|ваҡыт}}
 * Chinese:
 *: Mandarin: {{t+|cmn|時候|sc=Hani}}, {{t+|cmn|时候|tr=shíhòu|sc=Hani}}
@@ -2030,8 +2030,8 @@ Typical collocations with '''time''' or time expressions.
 
 {{trans-top|instance or occurrence}}
 * Albanian: {{t-simple|sq|herë|f|langname=Albanian|interwiki=1}}
-* Arabic: {{t+|ar|مَرَّة|f}}
-* Armenian: {{t+|hy|անգամ|sc=Armn}}
+* Arabic: {{t-simple|ar|مرة|alt=مَرَّة|g=f|tr=marra|langname=Arabic|sc=Arab}}
+* Armenian: {{t-simple|hy|անգամ|sc=Armn|tr=angam|langname=Armenian}}
 * Aromanian: {{t-simple|rup|oarã|f|langname=Aromanian}}
 * Asturian: {{t-simple|ast|vez|f|langname=Asturian}}, {{t-simple|ast|vegada|f|langname=Asturian}}
 * Bashkir: {{t|ba|тапҡыр}}, {{t|ba|мәртәбә}}, {{t|ba|рәт}}
@@ -2127,7 +2127,7 @@ Typical collocations with '''time''' or time expressions.
 {{trans-bottom}}
 
 {{trans-top|era}}
-* Arabic: {{t-simple|ar|عصر|alt=عَصْر|g=m|tr=ʿaṣr|langname=Arabic}}, {{t-simple|ar|إبان|alt=إِبَّان|g=m|tr=ʾibbān|langname=Arabic}}
+* Arabic: {{t-simple|ar|عصر|alt=عَصْر|g=m|tr=ʿaṣr|langname=Arabic|sc=Arab}}, {{t-simple|ar|إبان|alt=إِبَّان|g=m|tr=ʾibbān|langname=Arabic|sc=Arab}}
 * Chechen: {{t|ce|хан}}
 * Czech: {{t-simple|cs|časy|m-p|langname=Czech}}
 * Dutch: {{t-simple|nl|tijdperk|langname=Dutch|interwiki=1}}
