@@ -1520,9 +1520,9 @@ Typical collocations with '''time''' or time expressions.
 * Aramaic:
 *: Hebrew: {{t-simple|arc|זמנא|m|tr=zamnā|langname=Aramaic}}, {{t-simple|arc|זבנא|m|tr=zaḇnā|langname=Aramaic}}
 *: Classical Syriac: {{t-simple|syc|ܙܒܢܐ|g=c|tr=zaḇnā|langname=Classical Syriac}}
-* Armenian: {{t+|hy|ժամանակ|sc=Armn}}
+* Armenian: {{t-simple|hy|ժամանակ|sc=Armn|tr=žamanak|langname=Armenian}}
 * Aromanian: {{t-simple|rup|chiro|m|langname=Aromanian}}
-* Assamese: {{t|as|সময়}}, {{t|as|পৰ}}
+* Assamese: {{t-simple|as|সময়|tr=xomoy|langname=Assamese|sc=Beng}}, {{t-simple|as|পৰ|tr=por|langname=Assamese|sc=Beng}}
 * Asturian: {{t-simple|ast|tiempu|m|langname=Asturian|interwiki=1}}
 * Avar: {{t|av|гӏуж}}, {{t|av|заман}}, {{t|av|мех}}
 * Awadhi: {{t|awa|समय}}
@@ -1532,10 +1532,10 @@ Typical collocations with '''time''' or time expressions.
 * Bashkir: {{t-simple|ba|ваҡыт|langname=Bashkir}}
 * Basque: {{t-simple|eu|denbora|langname=Basque|interwiki=1}}
 * Belarusian: {{t|be|час|m}}
-* Bengali: {{t|bn|সময়|sc=Beng}}
+* Bengali: {{t-simple|bn|সময়|sc=Beng|langname=Bengali|tr=sômyô}}
 * Breton: {{t-simple|br|amzer|f|langname=Breton|interwiki=1}}
 * Bulgarian: {{t+|bg|вре́ме|n}}
-* Burmese: {{t+|my|အချိန်}}
+* Burmese: {{t-simple|my|အချိန်|tr=a.hkyin|sc=Mymr|langname=Burmese}}
 * Buryat: {{t-simple|bua|саг|langname=Buryat}}
 * Catalan: {{t-simple|ca|temps|m|langname=Catalan|interwiki=1}}
 * Central Mazahua: {{t-simple|maz|mezhe|langname=Central Mazahua}}
@@ -1589,7 +1589,7 @@ Typical collocations with '''time''' or time expressions.
 * Hausa: {{t-simple|ha|lokaci|m|langname=Hausa|interwiki=1}}
 * Hawaiian: {{t-simple|haw|wā|langname=Hawaiian}}
 * Hebrew: {{t+|he|זְמָן|m|tr=z'man}}
-* Hindi: {{t+|hi|समय|m}}, {{t|hi|वक़्त|m|sc=Deva}}, {{t+|hi|टाइम|m}}
+* Hindi: {{t-simple|hi|समय|g=m|tr=samay|langname=Hindi|sc=Deva}}, {{t-simple|hi|वक़्त|g=m|sc=Deva|tr=vaqt|langname=Hindi}}, {{t-simple|hi|टाइम|g=m|tr=ṭāim|langname=Hindi|sc=Deva}}
 * Hungarian: {{t-simple|hu|idő|langname=Hungarian|interwiki=1}}
 * Icelandic: {{t-simple|is|tími|m|langname=Icelandic|interwiki=1}} {{qualifier|usually in definite form}}, {{t-simple|is|tíð|f|langname=Icelandic|interwiki=1}}
 * Ido: {{t-simple|io|tempo|langname=Ido|interwiki=1}}
@@ -1613,7 +1613,7 @@ Typical collocations with '''time''' or time expressions.
 * Kazakh: {{t+|kk|уақыт}}, {{t|kk|шақ}}
 * Khanty: {{t|kca|пора}}
 * Khmer: {{t+|km|កាល}}, {{t+|km|ពេល}}, {{t+|km|វេលា}}
-* Konkani: {{t|kok|काल|m|tr=kāla}}
+* Konkani: {{t-simple|kok|काल|g=m|tr=kāla|sc=Deva|langname=Konkani}}
 * Korean: {{t+|ko|시간}} ({{t+|ko|時間|sc=Hani}})
 * Kumyk: {{t|kum|заман|tr=zaman}}
 * Kurdish: 
@@ -1657,7 +1657,7 @@ Typical collocations with '''time''' or time expressions.
 * Nauruan: {{t-simple|na|edae|langname=Nauruan}}
 * Navajo: {{t-simple|nv|ookił|langname=Navajo}}
 * Neapolitan: {{t-simple|nap|tiempo|m|langname=Neapolitan}}
-* Nepali: {{t+|ne|समय|tr=samay}}
+* Nepali: {{t-simple|ne|समय|tr=samay|sc=Deva|langname=Nepali}}
 * North Frisian: {{t-simple|frr|tid|f|langname=North Frisian}} {{qualifier|Mooring}}, {{t-simple|frr|tidj|f|langname=North Frisian}} {{qualifier|Föhr-Amrum}}
 * Northern Sami: {{t-simple|se|áigi|langname=Northern Sami}}
 * Norwegian: {{t+|no|tid|m|f}}
@@ -1679,14 +1679,14 @@ Typical collocations with '''time''' or time expressions.
 * Plautdietsch: {{t-simple|pdt|Tiet|f|langname=Plautdietsch|interwiki=1}}
 * Polish: {{t-simple|pl|czas|m-in|langname=Polish|interwiki=1}}
 * Portuguese: {{t-simple|pt|tempo|m|langname=Portuguese|interwiki=1}}
-* Punjabi: {{t|pa|ਸਮਾਂ|m}}, {{t|pa|ਵਕਤ|m}}
+* Punjabi: {{t-simple|pa|ਸਮਾਂ|g=m|sc=Deva|langname=Punjabi|tr=samā̃}}, {{t-simple|pa|ਵਕਤ|g=m|tr=vakat|langname=Punjabi|sc=Deva}}
 * Quechua: {{t-simple|qu|pacha|langname=Quechua|interwiki=1}}
 * Romanian: {{t-simple|ro|timp|n|langname=Romanian|interwiki=1}}, {{t-simple|ro|vreme|f|langname=Romanian|interwiki=1}}
 * Romansch: {{t-simple|rm|temp|m|langname=Romansch}}, {{t-simple|rm|temps|m|langname=Romansch}}, {{t-simple|rm|taimp|m|langname=Romansch}}, {{t-simple|rm|tains|m|langname=Romansch}}
 * Russian: {{t+|ru|вре́мя|n}}, {{t+|ru|час|m}} {{qualifier|dated or poetic}}
 * Rusyn: {{t|rue|час|m}}
 * Rwanda-Rundi: {{t|rw|igihe|c7|c8}}, {{t|rw|umwanya|c3|c4}}
-* Sanskrit: {{t+|sa|काल|m}}{{t+|sa|समय|m}}, {{t+|sa|वेला|f}}
+* Sanskrit: {{t-simple|sa|काल|g=m|sc=Deva|langname=Sanskrit|tr=kāla}}, {{t-simple|sa|समय|g=m|tr=samaya|sc=Deva|langname=Sanskrit}}, {{t-simple|sa|वेला|g=f|tr=velā|sc=Deva|langname=Sanskrit}}
 * Sardinian: {{t-simple|sc|tempus|m|langname=Sardinian}}
 * Saterland Frisian: {{t-simple|stq|Tied|f|langname=Saterland Frisian}}
 * Scots: {{t-simple|sco|time|langname=Scots}}
@@ -1776,7 +1776,7 @@ Typical collocations with '''time''' or time expressions.
 * Greek: {{t+|el|χρόνος|m}}, {{t+|el|ώρα|f}}
 *: Ancient Greek: {{t|grc|χρόνος|m}}
 * Hebrew: {{t+|he|זְמָן|m|tr=z'man}}
-* Hindi: {{t+|hi|समय|m}}, {{t|hi|वक़्त|m}}
+* Hindi: {{t-simple|hi|समय|g=m|tr=samay|sc=Deva|langname=Hindi}}, {{t-simple|hi|वक़्त|g=m|tr=vaqt|sc=Deva|langname=Hindi}}
 * Hungarian: {{t-simple|hu|idő|langname=Hungarian|interwiki=1}}
 * Icelandic: {{t-simple|is|tími|m|langname=Icelandic|interwiki=1}}
 * Irish: {{t-simple|ga|am|langname=Irish|interwiki=1}}
@@ -1803,7 +1803,7 @@ Typical collocations with '''time''' or time expressions.
 * Pitcairn-Norfolk: {{t-simple|pih|tiem|langname=Pitcairn-Norfolk}}
 * Polish: {{t-simple|pl|czas|m-in|langname=Polish|interwiki=1}}
 * Portuguese: {{t-simple|pt|tempo|m|langname=Portuguese|interwiki=1}}
-* Punjabi: {{t|pa|ਸਮਾਂ|m}}
+* Punjabi: {{t-simple|pa|ਸਮਾਂ|g=m|tr=samā̃|langname=Punjabi|sc=Deva}}
 * Romanian: {{t-simple|ro|timp|langname=Romanian|interwiki=1}}
 * Romansch: {{t-simple|rm|peda|f|langname=Romansch}}, {{t-simple|rm|peada|f|langname=Romansch}}, {{t-simple|rm|peida|f|langname=Romansch}}
 * Russian: {{t+|ru|вре́мя|n}}
@@ -1904,7 +1904,7 @@ Typical collocations with '''time''' or time expressions.
 * German: {{t-simple|de|Uhrzeit|f|langname=German|interwiki=1}}, {{t-simple|de|Zeit|f|langname=German|interwiki=1}}
 * Greek: {{t+|el|ώρα|f}}
 * Hebrew: {{t+|he|שָׁעָה|f|tr=sha'á}}
-* Hindi: {{t+|hi|काल|m|sc=Deva}}
+* Hindi: {{t-simple|hi|काल|g=m|sc=Deva|tr=kāl|langname=Hindi}}
 * Hungarian: {{t-simple|hu|idő|langname=Hungarian|interwiki=1}}, {{t-simple|hu|óra|langname=Hungarian|interwiki=1}}
 * Icelandic: {{t-simple|is|tími|m|langname=Icelandic|interwiki=1}}
 * Irish: {{t-simple|ga|uair|f|langname=Irish|interwiki=1}}
@@ -1932,7 +1932,7 @@ Typical collocations with '''time''' or time expressions.
 * Pitcairn-Norfolk: {{t-simple|pih|tiem|langname=Pitcairn-Norfolk}}
 * Polish: {{t-simple|pl|czas|m-in|langname=Polish|interwiki=1}}, {{t-simple|pl|godzina|f|langname=Polish|interwiki=1}}
 * Portuguese: {{t-simple|pt|hora|f|langname=Portuguese|interwiki=1}}, {{t-simple|pt|horário|m|langname=Portuguese|interwiki=1}}
-* Punjabi: {{t|pa|ਵਕ਼ਤ}}
+* Punjabi: {{t-simple|pa|ਵਕ਼ਤ|tr=vak਼at|sc=Deva|langname=Punjabi}}
 * Romanian: {{t-simple|ro|ceas|m|langname=Romanian|interwiki=1}}, {{t-simple|ro|oră|f|langname=Romanian|interwiki=1}}, {{t|ro|ora zilei|f}}
 * Romansch: {{t-simple|rm|ura|f|langname=Romansch}}, {{t-simple|rm|oura|f|langname=Romansch}}
 * Russian: {{t+|ru|вре́мя|n}}, {{t|ru|вре́мя су́ток|n}}, {{t+|ru|час|m}} {{qualifier|archaic, poetic}}
@@ -2037,7 +2037,7 @@ Typical collocations with '''time''' or time expressions.
 * Bashkir: {{t|ba|тапҡыр}}, {{t|ba|мәртәбә}}, {{t|ba|рәт}}
 * Belarusian: {{t|be|раз|m|sc=Cyrl}}
 * Bulgarian: {{t+|bg|път|m}}
-* Burmese: {{t+|my|ကြိမ်}}
+* Burmese: {{t-simple|my|ကြိမ်|tr=krim|sc=Mymr|langname=Burmese}}
 * Catalan: {{t-simple|ca|vegada|f|langname=Catalan|interwiki=1}}, {{t-simple|ca|cop|m|langname=Catalan|interwiki=1}}
 * Chinese:
 *: Mandarin: {{t+|cmn|次|tr=cì|sc=Hani}}, {{t+|cmn|度|tr=dù}}, {{t+|cmn|遍|tr=biàn}}
@@ -2056,7 +2056,7 @@ Typical collocations with '''time''' or time expressions.
 * German: {{t-simple|de|Mal|n|langname=German|interwiki=1}}
 * Greek: {{t+|el|φορά|f}}
 * Hebrew: {{t+|he|פעם|f|tr=pá-am|sc=Hebr}}
-* Hindi: {{t+|hi|बार|f|sc=Deva}}, {{t|hi|दफ़ा|f|sc=Deva}}
+* Hindi: {{t-simple|hi|बार|g=f|sc=Deva|langname=Hindi|tr=bār}}, {{t-simple|hi|दफ़ा|g=f|sc=Deva|langname=Hindi|tr=dafā}}
 * Hungarian: {{t-simple|hu|alkalom|langname=Hungarian|interwiki=1}}
 * Icelandic: {{t-needed|is}}
 * Irish: {{t-simple|ga|uair|f|langname=Irish|interwiki=1}}
