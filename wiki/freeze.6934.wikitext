@@ -79,7 +79,7 @@ From {{etyl|enm|en}} {{m|enm|fresen}}, from {{etyl|ang|en}} {{m|ang|frēosan||to
 * {{l|en|frost}}
 
 =====Translations=====
-{{trans-top|become solid due to low temperature}}
+{{trans-top|to become solid due to low temperature}}
 * Arabic: {{t|ar|تَجَمَّدَ}}
 * Aromanian: {{t|rup|ãngljets}}, {{t|rup|ngljets}}
 * Bashkir: {{t|ba|туңыу|sc=Cyrl}}
@@ -91,7 +91,7 @@ From {{etyl|enm|en}} {{m|enm|fresen}}, from {{etyl|ang|en}} {{m|ang|frēosan||to
 * Czech: {{t+|cs|zmrznout}}
 * Dutch: {{t+|nl|bevriezen}}
 * Esperanto: {{t|eo|frosti}}
-* Finnish: {{t+|fi|jäätyä}}, {{t+|fi|jähmettyä}} {{qualifier|chemistry}}
+* Finnish: {{t+|fi|jäätyä}} {{q|water and similar}}; {{t+|fi|jähmettyä}} {{q|other substances}}
 * French: {{t+|fr|geler}}, {{t+|fr|glacer}}
 * Friulian: {{t|fur|glaçâ}}, {{t|fur|glačâ}}
 * Galician: {{t+|gl|xear}}, {{t+|gl|conxelar}}
@@ -136,14 +136,14 @@ From {{etyl|enm|en}} {{m|enm|fresen}}, from {{etyl|ang|en}} {{m|ang|frēosan||to
 * Yiddish: {{t|yi|פֿרירן}}
 {{trans-bottom}}
 
-{{trans-top|lower something's temperature to freezing point}}
+{{trans-top|to lower something's temperature to freezing point}}
 * Breton: {{t+|br|skornañ}}
 * Bulgarian: {{t+|bg|замразявам|sc=Cyrl}}
 * Catalan: {{t+|ca|congelar}}
 * Czech: {{t|cs|zmrazit}}
 * Dutch: {{t+|nl|bevriezen}}, {{t+|nl|invriezen}}, {{t+|nl|vriezen}}
 * Esperanto: {{t|eo|frostigi}}
-* Finnish: {{t+|fi|jäädyttää}}, {{t+|fi|pakastaa}}
+* Finnish: {{t+|fi|jäädyttää}} {{q|water and similar}}; {{t+|fi|pakastaa}} {{q|food for storing}}; {{t|fi|jähmettää}} {{q|other substances}}
 * French: {{t+|fr|congeler}}
 * Friulian: {{t|fur|inglaçâ}}, {{t|fur|agelâ}}
 * Galician: {{t+|gl|conxelar}}
@@ -174,7 +174,7 @@ From {{etyl|enm|en}} {{m|enm|fresen}}, from {{etyl|ang|en}} {{m|ang|frēosan||to
 * Yiddish: {{t|yi|אײַנפֿרירן}}
 {{trans-bottom}}
 
-{{trans-top|drop below zero}}
+{{trans-top|of temperature, to drop below zero}}
 * Danish: {{t+|da|fryse}}
 * Dutch: {{t+|nl|vriezen}}
 * Esperanto: {{t|eo|frosti}}
@@ -203,10 +203,10 @@ From {{etyl|enm|en}} {{m|enm|fresen}}, from {{etyl|ang|en}} {{m|ang|frēosan||to
 * Welsh: {{t+|cy|rhewi}}
 {{trans-bottom}}
 
-{{trans-top|be very cold}}
+{{trans-top|to be affected by cold}}
 * Bulgarian: {{t+|bg|мръзна|sc=Cyrl}}
 * Czech: {{t|cs|mrznout}}
-* Finnish: {{t|fi|jäätää}}
+* Finnish: {{t|fi|jäätää}}; {{t|fi|jäätyä}}
 * Georgian: {{t|ka|ყინვა}}
 * German: {{t+|de|frieren}}
 {{trans-mid}}
@@ -217,7 +217,12 @@ From {{etyl|enm|en}} {{m|enm|fresen}}, from {{etyl|ang|en}} {{m|ang|frēosan||to
 * Turkish: {{t+|tr|donmak}}
 {{trans-bottom}}
 
-{{trans-top|become motionless}}
+{{trans-top|of machines and software: to come to a sudden halt}}
+* Finnish: {{t|fi|hyytyä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to become motionless}}
 * Breton: [[chom]] a-sav krenn
 * Bulgarian: {{t+|bg|застивам|sc=Cyrl}}
 * Czech: [[ztuhnout]] or [[znehybnět]]
@@ -241,10 +246,25 @@ From {{etyl|enm|en}} {{m|enm|fresen}}, from {{etyl|ang|en}} {{m|ang|frēosan||to
 * Turkish: {{t+|tr|donmak}}
 {{trans-bottom}}
 
-{{trans-top|prevent movement of someone's financial assets}}
+{{trans-top|to cause to become motionless}}
+* Finnish: {{t|fi|jähmettää}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to lose or cause to lose warmth of feeling}}
+* Finnish: {{t|fi|kylmetä}}, {{t|fi|viiletä}} {{q|lose}}; {{t|fi|kylmentää}}, {{t|fi|viilentää}} {{q|to cause to lose}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to cause loss of animation or life in, from lack of heat}}
+* Finnish: {{t|fi|palelluttaa}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to prevent movement of someone's financial assets}}
 * Bulgarian: {{t+|bg|замразявам|sc=Cyrl}}
 * Esperanto: {{t|eo|frostigi}}
-* Finnish: {{t+|fi|jäädyttää}}
+* Finnish: {{t|fi|sulkea}}, {{t+|fi|jäädyttää}}
 * Icelandic: {{t|is|frysta}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|congelar}}
