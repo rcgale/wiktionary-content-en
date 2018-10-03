@@ -92,8 +92,8 @@ From {{inh|ru|sla-pro|*město}}.
 ==Serbo-Croatian==
 
 ===Alternative forms===
-* (''Ijekavian''): {{l|sh|sc=Cyrl|мје̏сто}}
-* (''Ikavian''): {{l|sh|mȉsto}}
+* {{alter|sh|мје̏сто||Ijekavian}}
+* {{alter|sh|mȉsto||Ikavian}}
 
 ===Etymology===
 From {{inh|sh|sla-pro|*město}}.
@@ -105,7 +105,7 @@ From {{inh|sh|sla-pro|*město}}.
 ===Noun===
 {{sh-noun|g=n|head=ме̏сто}}
 
-# [[place]] (''location, position'')
+# [[place]] {{q|location, position}}
 # [[space]]
 # a [[settlement]] (usually between a [[village]] and a [[town]] in size)
 
@@ -121,27 +121,24 @@ From {{inh|sh|sla-pro|*město}}.
 }}
 
 ====Derived terms====
-{{top2}}
-* {{l|sh|sc=Cyrl|ме̏снӣ}}
-* {{l|sh|sc=Cyrl|ме̏сно}}
-* {{l|sh|sc=Cyrl|места́нце}}
-* {{l|sh|sc=Cyrl|места̀рина}}
-* {{l|sh|sc=Cyrl|места́шце}}
-{{mid2}}
-* {{l|sh|sc=Cyrl|мѐстимице̄}}
-* {{l|sh|sc=Cyrl|мѐстимичан}}
-* {{l|sh|sc=Cyrl|мѐстимично}}
-* {{l|sh|sc=Cyrl|ме̏стопӣс}}
-* {{l|sh|sc=Cyrl|место̀вина}}
-{{bottom}}
+{{der4
+|ме̏снӣ
+|ме̏сно
+|места́нце
+|места̀рина
+|места́шце
+|мѐстимице̄
+|мѐстимичан
+|мѐстимично
+|ме̏стопӣс
+|место̀вина
+|lang=sh}}
 
 ===Preposition===
 {{sh-preposition|head=ме̏сто}} {{qualifier|+ [[genitive case]]}}
 
 # [[instead of]]
-
-====Synonyms====
-* {{l|sh|sc=Cyrl|у̀место}}
+#: {{syn|sh|у̀место}}
 
 ===Quotations===
 * {{seeCites|mesto|lang=sh}}
