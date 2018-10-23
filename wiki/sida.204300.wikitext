@@ -7,7 +7,7 @@ From the genus name.
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|botany}} Any of the [[flowering plant]]s of the [[genus]] ''[[Sida]]'' in the [[mallow]] family.
+# {{lb|en|botany}} any of the [[flowering plant]]s of the [[genus]] ''[[Sida]]'' in the [[mallow]] family
 
 ===Anagrams===
 * {{anagrams|en|AIDS|Aids|Dais|IADS|IADs|Said|aids|dais|daïs|sadi|said}}
@@ -17,6 +17,9 @@ From the genus name.
 ----
 
 ==Catalan==
+
+===Pronunciation===
+* {{ca-IPA}}
 
 ===Noun===
 {{ca-noun|f|-}}
@@ -42,7 +45,7 @@ From the genus name.
 ==French==
 
 ===Alternative forms===
-* {{l|fr|SIDA}}
+* {{alter|fr|SIDA}}
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -54,14 +57,16 @@ From the genus name.
 # {{acronym of|syndrome d'immunodéficience acquise|lang=fr|nodot=1}}; [[AIDS]]
 
 ====Derived terms====
-* {{l|fr|sidatique}}
-* {{l|fr|sidéen}}
+{{der2
+|sidatique
+|sidéen
+|lang=fr}}
 
 ===Further reading===
 * {{R:TLFi}}
 
 ===Anagrams===
-* {{l|fr|Asdi}}
+* {{anagrams|fr|Asdi}}
 
 ----
 
@@ -77,12 +82,12 @@ From the genus name.
 ==Norwegian Bokmål==
 
 ===Alternative forms===
-* {{l|nb|siden}}
+* {{alter|nb|siden}}
 
 ===Noun===
 {{head|nb|noun form|g=m|g2=f}}
 
-# {{inflection of|side||definite|f|s|lang=nb}}
+# {{inflection of|side||def|f|s|lang=nb}}
 
 ----
 
@@ -91,7 +96,7 @@ From the genus name.
 ===Noun===
 {{head|nn|noun form|g=f}}
 
-# {{inflection of|side||definite|s|lang=nn}}
+# {{inflection of|side||def|s|lang=nn}}
 
 ----
 
@@ -107,7 +112,7 @@ From the genus name.
 ==Old High German==
 
 ===Etymology===
-Akin to Italian ''[[seta]]''
+Akin to {{cog|it|seta}}.
 
 ===Noun===
 {{goh-noun|f|head=sīda}}
@@ -115,7 +120,16 @@ Akin to Italian ''[[seta]]''
 # [[silk]]
 
 ====Descendants====
-* German: {{l|de|Seide}}
+* {{desc|de|Seide}}
+
+----
+
+==Portuguese==
+
+===Verb===
+{{pt-pp|sid|ser}}
+
+# {{pt-verb-form-of|ser}}
 
 ----
 
@@ -135,7 +149,7 @@ Akin to Italian ''[[seta]]''
 ====Noun====
 {{es-noun|m|-}}
 
-# {{form of|abbreviation of|síndrome de inmunodeficiencia adquirida|lang=es}} ([[AIDS]])
+# {{abbreviation of|síndrome de inmunodeficiencia adquirida|lang=es}} ([[AIDS]])
 
 =====Alternative forms=====
 * {{alter|es|SIDA}}
@@ -166,8 +180,7 @@ From {{inh|sv|gmq-osw|sīþa}}, from {{inh|sv|non|síða}}, from {{inh|sv|gem-pr
 {{sv-noun|c}}
 
 # [[side]]; a bounding straight edge or surface
-#: ''En kub har sex '''sidor'''
-#:: A cube has six sides
+#: {{uxi|sv|En kub har sex '''sidor'''.|A cube has six '''sides'''.}}
 # [[side]]; a region in a specified position with respect to something.
 # [[side]]; one group of competitors in a game or a war.
 # [[page]]; one surface of a sheet of paper.
@@ -183,11 +196,9 @@ From {{inh|sv|gmq-osw|sīþa}}, from {{inh|sv|non|síða}}, from {{inh|sv|gem-pr
 {{sv-verb-reg}}
 
 # {{lb|sv|sports}} to [[seed]] (a player into a competition), more commonly ''[[seeda]]''
-#: ''Hon har '''sidats''' in i första startledet och tilldelats startnummer 21.''
-#:: She was seeded into the first line, starting as number 21.
+#: {{uxi|sv|Hon har '''sidats''' in i första startledet och tilldelats startnummer 21.|She was seeded into the first line, starting as number 21.}}
 # {{lb|sv|colloquial}} to [[side]] (with), to be allied with
-#: ''Det var inte så att britterna '''sidade''' med araberna''
-#:: It wasn't so that the Brits sided with the Arabs
+#: {{uxi|sv|Det var inte så att britterna '''sidade''' med araberna.|It wasn't so that the Brits sided with the Arabs.}}
 
 ====Conjugation====
 {{sv-conj-wk}}
