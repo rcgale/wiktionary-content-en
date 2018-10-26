@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology 1===
-From {{inh|en|enm|ybeen|}}, from {{inh|en|ang|ġebēon}}, past participle of {{m|ang|bēon|t=to be}}, equivalent to {{af|en|be|-en}}.
+From {{inh|en|enm|ybeen|}}, {{m|enm|been}}, past participle of {{m|enm|been|t=to be}}, from {{inh|en|ang|ġebēon}}, past participle of {{m|ang|bēon|t=to be}}, equivalent to {{af|en|be|-en}}.
 
 ====Alternative forms====
 * {{sense|obsolete}} {{l|en|ybe}} (see [[y-]]).
@@ -26,8 +26,15 @@ From {{inh|en|enm|ybeen|}}, from {{inh|en|ang|ġebēon}}, past participle of {{m
 {{head|en|past participles}}
 
 # {{inflection of|be||past|part|lang=en}}
+<!-- Translations belong at [[be]] -->
+
+===Etymology 2===
+From {{inh|en|enm|been}}, {{m|enm|be}}, present plural of {{m|enm|been|t=to be}} (with the ''-n'' leveled in from the past and subjunctive; compare competing forms {{m|enm|aren}}/{{m|enm|are}}, {{m|enm|beth}}), from {{inh|en|ang|bēoþ}}, present plural of {{m|ang|bēon|t=to be}}, from {{inh|en|gem-pro|*biunþi}}, third-person present plural of {{m|gem-pro|*beuną|t=to be, become}}.
+
+====Verb====
+{{head|en|verb form}}
+
 # {{lb|en|obsolete}} {{inflection of|be||p|simple|pres|lang=en}}
-#: ''Assembled '''been''' a senate grave and stout.'' &mdash; Fairfax.
 #* '''1584''', {{w|George Peele}}, ''The Arraignment of Paris'', I, ii
 #*: My love is fair, my love is gay,
 #*: As fresh as '''been''' the flowers in May;
@@ -36,10 +43,17 @@ From {{inh|en|enm|ybeen|}}, from {{inh|en|ang|ġebēon}}, past participle of {{m
 #* '''1641''', {{w|Ben Jonson}}, ''The Sad Shepherd'', I, iii
 #*: O Friar, those are faults that are not seen,
 #*: Ours open, and of worse example '''been'''.
-# {{lb|en|Southern US}} {{inflection of|be||infinitive|lang=en}}
-<!-- Translations belong at [[be]] -->
+#* {{quote-book|author=Edward Fairfax, transl.|title=Godfrey of Bulloigne: Or, The Recovery of Jerusalem|page=8|section=20|year=1686|url=https://books.google.co.nz/books?id=HScJAAAAQAAJ|passage=Some of green Boughs their slender Cabbins frame, / Some lodged were ''Tortoſa's'' streets about, / Of all the Hoſt the Chief of Worth and Name / Aſſembled '''been''', a Senate grave and ſtout;}}
 
-===Etymology 2===
+===Etymology 3===
+From {{inh|en|enm|been|t=to be}}, from {{inh|en|ang|bēon|t=to be}}, from {{inh|en|gem-pro|*beuną|t=to be, become}}.
+
+====Verb====
+{{head|en|verb form}}
+
+# {{lb|en|Southern US}} {{inflection of|be||infinitive|lang=en}}
+
+===Etymology 4===
 From {{inh|en|enm|been}}, from {{inh|en|ang|bēon||bees}}, nominative and accusative plural of {{m|ang|bēo||bee}}. More at {{m|en|bee}}.
 
 ====Pronunciation====
@@ -58,6 +72,7 @@ Vaux, Bert and Scott Golder. 2003. The Harvard Dialect Survey: been. Cambridge, 
 
 ===Anagrams===
 * {{anagrams|en|Bene|NEbE|bene|eben|neeb}}
+
 
 [[Category:English auxiliary verb forms]]
 [[Category:English irregular past participles]]
@@ -226,15 +241,16 @@ From a conflation of {{inh|enm|ang|bēon}} and {{m|ang|wesan}}, from {{inh|enm|g
 
 # to {{l|en|be}}
 #* '''''1382''''' [[w:John Wycliffe|John Wycliffe]], translation of the Bible (John 1:48)
-#*: ''Bifor that Filip clepide thee, whanne thou '''were''' vndur the fige tree, Y saiy thee.''
+#*: Bifor that Filip clepide thee, whanne thou '''were''' vndur the fige tree, Y saiy thee.
 #* '''1407''', ''[[w:The Testimony of William Thorpe|The Testimony of William Thorpe]]'', pages 40–41
-#*: ''...Filip of Repintoun whilis he '''was''' a chanoun of Leycetre, Nycol Herforde, dane Geffrey of Pikeringe, monke of Biland and a maistir dyuynyte, and Ioon Purueye, and manye other whiche '''weren''' holden rightwise men and prudent...''
+#*: ...Filip of Repintoun whilis he '''was''' a chanoun of Leycetre, Nycol Herforde, dane Geffrey of Pikeringe, monke of Biland and a maistir dyuynyte, and Ioon Purueye, and manye other whiche '''weren''' holden rightwise men and prudent...
+
 ====Conjugation====
-{{enm-conj|type=strong|am, be|are, aren, beth, been|art, bist|are, aren, beth, been|is, bith, biþ|are, aren, beth, been|be, si|been|beinge, beende|(y)been|was|were(n)|were, wast|were(n)|was|were(n)|wer(e)|weren|be|beth, beþ}}
+{{enm-conj|type=strong|am, be|are(n), beth, bee(n)|art, bist|are(n), beth, bee(n)|is, bith, biþ|are(n), beth, bee(n)|be, si|been|beinge, beende|(y)been|was|were(n)|were, wast|were(n)|was|were(n)|wer(e)|weren|be|beth, beþ}}
 
 ====Descendants====
-* English: to [[be]]
-* Scots: [[be]]
+* {{desc|en|be}} (dialectal {{m|en|been}})
+* {{desc|sco|be}}
 
 [[Category:Middle English irregular verbs]]
 [[Category:Middle English suppletive verbs]]
