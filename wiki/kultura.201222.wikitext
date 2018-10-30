@@ -8,7 +8,7 @@ Borrowed from {{bor|eu|es|cultura}}.
 {{eu-noun}}
 
 # [[culture]]
-#: {{ux|eu|[[euskal]] '''kultura'''|Basque culture}}
+#: {{uxi|eu|[[euskal]] '''kultura'''|Basque culture}}
 # [[refinement]], [[culture]]
 
 ----
@@ -17,7 +17,7 @@ Borrowed from {{bor|eu|es|cultura}}.
 
 ===Etymology===
 {{PIE root|cs|kʷel}}
-From {{etyl|la|cs}} {{m|la|cultūra||cultivation; culture}},<ref>{{R:Rejzek 2007}}</ref> from {{m|la|cultus}}, perfect passive participle of {{m|la|colō||till, cultivate, worship}} (related to {{m|la|colōnus}} and {{m|la|colōnia}}), from {{etyl|ine-pro|cs}} {{m|ine-pro|*kʷel-||to move; to turn (around)}}.
+From {{der|cs|la|cultūra|t=cultivation; culture}},<ref>{{R:Rejzek 2007}}</ref> from {{m|la|cultus}}, perfect passive participle of {{m|la|colō|t=till, cultivate, worship}} (related to {{m|la|colōnus}} and {{m|la|colōnia}}), from {{der|cs|ine-pro|*kʷel-|t=to move; to turn (around)}}.
 
 ===Pronunciation===
 * {{IPA|/ˈkultuːra/|lang=cs}}
@@ -54,11 +54,16 @@ From {{etyl|la|cs}} {{m|la|cultūra||cultivation; culture}},<ref>{{R:Rejzek 2007
 
 ==Esperanto==
 
+===Pronunciation===
+* {{IPA|/kulˈtura/|lang=eo}}
+* {{hyph|kul|tur|a|lang=eo}}
+* {{rhymes|ura|lang=eo}}
+
 ===Adjective===
 {{eo-adj}}
 
-# [[cultural]] (relating to [[culture]])
-# [[cultured]] ([[civilized]], [[refined]])
+# [[cultural]] {{gloss|relating to [[culture]]}}
+# [[cultured]] {{gloss|[[civilized]], [[refined]]}}
 
 ----
 
@@ -71,7 +76,7 @@ From {{der|lad|la|cultūra|t=culture}} (compare {{cog|es|cultura}}), from {{m|la
 {{lad-noun|l|g=f|heb=קולטורה}}
 
 # [[culture]]
-#: {{ux|lad|'''kultura''' djudia|Jewish '''culture'''}}
+#: {{uxi|lad|'''kultura''' djudia|Jewish '''culture'''}}
 
 ====Related terms====
 * {{l|lad|kultural}} / {{l|lad|kulturalo}}
@@ -86,20 +91,22 @@ From {{der|lad|la|cultūra|t=culture}} (compare {{cog|es|cultura}}), from {{m|la
 {{mt-noun|f}}
 
 # [[culture]]
-#: {{ux|mt|il-'''kultura''' Maltija|Maltese '''culture'''}}
+#: {{uxi|mt|il-'''kultura''' Maltija|Maltese '''culture'''}}
 
 ====Related terms====
-* {{l|mt|kulturali}}
-* {{l|mt|kulturalment}}
-* {{l|mt|multikulturali}}
-* {{l|mt|multikulturaliżmu}}
+{{rel4
+|kulturali
+|kulturalment
+|multikulturali
+|multikulturaliżmu
+|lang=mt}}
 
 ----
 
 ==Polish==
 
 ===Etymology===
-From {{etyl|la|pl}} {{m|la|cultura}}
+From {{der|pl|la|cultūra}}.
 
 ===Pronunciation===
 * {{pl-IPA}}
@@ -108,7 +115,7 @@ From {{etyl|la|pl}} {{m|la|cultura}}
 ===Noun===
 {{pl-noun|f}}
 
-# [[culture]] (arts, customs and habits)
+# [[culture]] {{q|arts, customs and habits}}
 
 ====Declension====
 {{pl-decl-noun
@@ -122,7 +129,10 @@ From {{etyl|la|pl}} {{m|la|cultura}}
 }}
 
 ====Derived terms====
-* {{l|pl|kulturowy}}, {{l|pl|kulturalny}}
+{{der2
+|kulturowy
+|kulturalny
+|lang=pl}}
 
 ===Further reading===
 * {{R:PWN}}
@@ -132,7 +142,7 @@ From {{etyl|la|pl}} {{m|la|cultura}}
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|la|sh}} {{m|la|cultura}}
+From {{der|sh|la|cultūra}}.
 
 ===Pronunciation===
 * {{IPA|/kultǔːra/|lang=sh}}
@@ -164,7 +174,7 @@ From {{etyl|la|sh}} {{m|la|cultura}}
 ==Tagalog==
 
 ===Etymology===
-Borrowed from {{bor|tl|es|cultura||culture}}.
+Borrowed from {{bor|tl|es|cultura|t=culture}}.
 
 ===Noun===
 {{tl-noun}}
