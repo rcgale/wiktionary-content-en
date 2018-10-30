@@ -19,7 +19,7 @@
 # {{lb|nl|rare}} {{alternative form of|radja|lang=nl}}
 
 ===Anagrams===
-* [[jaar#Dutch|jaar]]
+* {{anagrams|nl|jaar}}
 
 ----
 
@@ -40,14 +40,15 @@ Either from Old East Slavic {{m|orv|краи}}, or a newer loan from Russian {{m
 
 ==Finnish==
 {{Finnish index|r|a}}
+{{wp|lang=fi}}
 
 ===Etymology===
-From a {{der|fi|sla}} language, compare {{cog|cs|kraj}}.
+From a {{der|fi|sla}} language (compare {{cog|cs|kraj}}).
 
 ===Pronunciation===
-* {{IPA|lang=fi|[ˈrɑjɑ]}}
-* Rhymes: [[Rhymes:Finnish-ɑjɑ|-ɑjɑ]]
+* {{IPA|[ˈrɑjɑ]|lang=fi}}
 * {{hyphenation|ra|ja|lang=fi}}
+* {{rhymes|ɑjɑ|lang=fi}}
 
 ===Noun===
 {{fi-noun}}
@@ -72,9 +73,10 @@ From a {{der|fi|sla}} language, compare {{cog|cs|kraj}}.
 ----
 
 ==Indonesian==
+{{wp|lang=id}}
 
 ===Etymology===
-From {{etyl|ms|id}} {{m|ms|raja}}, from {{etyl|sa|id}} {{m|sa|राजन्}}, ultimately from {{etyl|ine-pro|id}} {{m|ine-pro|*h₃reǵ-}}.
+from {{der|id|ms|raja}}, from {{der|id|sa|राजन्||king, prince}}, from {{der|id|inc-pro|*Hrā́ȷ́ā||king}}, from {{der|id|iir-pro|*Hrā́ĵā}}, from {{der|id|ine-pro|*h₃rḗǵ-ō}}, from {{m|ine-pro|*h₃rḗǵs|t=ruler, king}}.
 
 ===Noun===
 {{id-noun}}
@@ -84,18 +86,15 @@ From {{etyl|ms|id}} {{m|ms|raja}}, from {{etyl|sa|id}} {{m|sa|राजन्}},
 # {{lb|id|card games}} [[king]]
 
 ====Coordinate terms====
-* (''monarch''): {{l|id|ratu||queen}}, {{l|id|putri||princess}}, {{l|id|pangeran||prince}}, {{l|id|permaisuri||empress}}, {{l|id|sultan}}, {{l|id|bupati}}, {{l|id|kaisar||emperor}}
+* {{sense|monarch}}
+** {{l|id|ratu||queen}}
+** {{l|id|permaisuri||empress}}
+** {{l|id|putri||princess}}
+** {{l|id|pangeran||prince}}
+** {{l|id|sultan}}, {{l|id|bupati}}, {{l|id|kaisar||emperor}}
 
 ====Derived terms====
-{{rel-top|Terms derived from ''raja''}}
-* {{l|id|beraja}}
-* {{l|id|beraja-raja}}
-* {{l|id|kerajaan}}
-{{rel-mid}}
-* {{l|id|meraja}}
-* {{l|id|merajai}}
-* {{l|id|merajakan}}
-{{rel-bottom}}
+{{id-der|lang=id|340|310|310+222|310+221|40}}
 
 [[Category:id:Monarchy]]
 [[Category:id:Occupations]]
@@ -141,26 +140,35 @@ From {{etyl|ms|id}} {{m|ms|raja}}, from {{etyl|sa|id}} {{m|sa|राजन्}},
 ----
 
 ==Malay==
-
-===Alternative forms===
-* {{l|ms|راج|sc=Arab}}
+{{wp|lang=ms}}
 
 ===Etymology===
-From {{etyl|sa|ms}} {{m|sa|राजन्}}, from {{etyl|iir-pro|ms}}, from {{etyl|ine-pro|ms}} {{m|ine-pro|*h₃reǵ-}}.
+from {{der|ms|sa|राजन्||king, prince}}, from {{der|ms|inc-pro|*Hrā́ȷ́ā||king}}, from {{der|ms|iir-pro|*Hrā́ĵā}}, from {{der|ms|ine-pro|*h₃rḗǵ-ō}}, from {{m|ine-pro|*h₃rḗǵs|t=ruler, king}}.
 
 ===Pronunciation===
-* {{a|Johor-Selangor}} {{IPA|/rad͡ʒə/|lang=ms}}
-* {{a|Riau-Lingga}} {{IPA|/rad͡ʒa/|lang=ms}}
+* {{a|Johor-Selangor}} {{IPA|/ra.d͡ʒə/|lang=ms}}
+* {{a|Riau-Lingga}} {{IPA|/ra.d͡ʒa/|lang=ms}}
 * {{rhymes|ad͡ʒə|d͡ʒə|ə|lang=ms}}
 
 ===Noun===
-{{head|ms|noun|Jawi spelling|راج|plural|raja-raja}}
+{{ms-noun|j=راج}}
 
 # [[king]] {{gloss|a male of a royal family who is the supreme ruler of his nation}}
 # {{lb|ms|chess}} [[king]] {{gloss|a playing piece in chess}}
 
 ====Synonyms====
-* {{l|ms|datu}} / {{l|ms|داتو|sc=Arab}}
+* {{l|ms|datu}} / {{l|ms|داتو|sc=Arab}} {{q|archaic}}
+
+====Coordinate terms====
+* {{sense|monarch}}
+** {{l|ms|ratu||queen}}
+** {{l|ms|permaisuri||empress}}
+** {{l|ms|puteri||princess}}
+** {{l|ms|putera||prince}}
+** {{l|ms|sultan}}, {{l|ms|maharaja||emperor}}
+
+====Derived terms====
+{{ms-der|340|340+221|310|310+222|310+221|40}}
 
 ====See also====
 {{table:chess pieces/ms}}
@@ -173,7 +181,7 @@ From {{etyl|sa|ms}} {{m|sa|राजन्}}, from {{etyl|iir-pro|ms}}, from {{e
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|ota|sh}} {{m|ota|رعایا|tr=re'aya}}, from {{etyl|ar|sh}} {{m|ar|رَعَايَا}}, plural of {{m|ar|رَعِيَّة}}.
+From {{der|sh|ota|رعایا|tr=re'aya}}, from {{der|sh|ar|رَعَايَا}}, plural of {{m|ar|رَعِيَّة}}.
 
 ===Pronunciation===
 * {{IPA|/rǎːja/|lang=sh}}
