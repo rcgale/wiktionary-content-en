@@ -253,7 +253,7 @@ From {{inh|en|enm|bernen}}, {{m|enm|birnen}}, from {{inh|en|ang|byrnan}}, {{m|an
 #: {{ux|en|The grill was too hot and the steak '''burned'''.}}
 # {{lb|en|transitive}} To make or produce by the application of fire or burning heat.
 #: {{ux|en|to '''burn''' a hole;&emsp; to '''burn''' letters into a block}}
-# {{lb|en|transitive}} To [[injure]] (a person or animal) with [[heat]] or [[caustic]] [[chemicals]].
+# {{lb|en|transitive}} To [[injure]] (a person or animal) with [[heat]] or [[chemicals]] that produce similar [[damage]].
 #: {{ux|en|She '''burned''' the child with an iron, and was jailed for ten years.}}
 # {{lb|en|transitive|surgery}} To [[cauterize]].
 # {{lb|en|ambitransitive}} To [[sunburn]].
@@ -310,9 +310,7 @@ From {{inh|en|enm|bernen}}, {{m|enm|birnen}}, from {{inh|en|ang|byrnan}}, {{m|an
 {{rel-bottom}}
 
 =====Translations=====
-{{trans-see|burn, catch fire|combust}}
-
-{{trans-top|cause to be consumed by fire}}
+{{trans-top|to cause to be consumed by fire}}
 * Aramaic: {{t|arc|שְׂרַף|tr=sraf|sc=Hebr}}
 * Armenian: {{t+|hy|այրել}}, {{t+|hy|վառել}}
 * Assamese: {{t|as|জলোৱা}}, {{t|as|জ্বলোৱা}}, {{t|as|পোৰা}} {{q|to roast}}
@@ -378,7 +376,7 @@ From {{inh|en|enm|bernen}}, {{m|enm|birnen}}, from {{inh|en|ang|byrnan}}, {{m|an
 * Yiddish: {{t|yi|ברענען|sc=Hebr}}
 {{trans-bottom}}
 
-{{trans-top|be consumed by fire}}
+{{trans-top|to be consumed by fire}}
 * Arabic: {{t|ar|حَرَقَ}}
 * Aramaic: {{t|arc|אִשְׂתָּרֵיף|sc=Hebr}}
 * Armenian: {{t+|hy|այրվել}}, {{t+|hy|վառվել}}
@@ -485,9 +483,10 @@ From {{inh|en|enm|bernen}}, {{m|enm|birnen}}, from {{inh|en|ang|byrnan}}, {{m|an
 * ǃXóõ: {{t|nmn|ʘʻáa}}
 {{trans-bottom}}
 
-{{trans-top|overheat}}
+{{trans-top|to overheat so as to make unusable}}
 * Bulgarian: {{t|bg|прегрявам}}
 * Czech: {{t+|cs|spálit}}
+* Finnish: {{t|fi|polttaa}}
 * Dutch: {{t+|nl|laten}} {{t+|nl|aanbranden}}, {{t+|nl|verbranden}}
 * Greek: {{t+|el|καίω}}
 * Japanese: {{t+|ja|焦がす|tr=kogasu}}
@@ -501,10 +500,11 @@ From {{inh|en|enm|bernen}}, {{m|enm|birnen}}, from {{inh|en|ang|byrnan}}, {{m|an
 * Swahili: {{t+|sw|choma}}
 {{trans-bottom}}
 
-{{trans-top|become overheated}}
+{{trans-top|to become overheated}}
 * Bulgarian: {{t|bg|прегрявам се}}
 * Czech: {{t+|cs|spálit}} se
 * Dutch: {{t+|nl|aanbranden}}, {{t+|nl|verbranden}}
+* Finnish: {{t|fi|palaa}}
 * Greek: {{t+|el|καίγομαι}}
 * Hindi: {{t+|hi|जलना|sc=Deva}}
 * Japanese: {{t+|ja|焦げる|tr=kogeru}}
@@ -519,7 +519,12 @@ From {{inh|en|enm|bernen}}, {{m|enm|birnen}}, from {{inh|en|ang|byrnan}}, {{m|an
 * Westrobothnian: {{t|gmq-bot|sven}}
 {{trans-bottom}}
 
-{{trans-top|injure (a person or animal) with heat or caustic chemicals}}
+{{trans-top|to make or produce by the application of fire}}
+* Finnish: {{t|fi|polttaa}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to injure with heat or chemicals}}
 * Bulgarian: {{t+|bg|обгарям}}, {{t+|bg|изгарям}}
 * Chinese:
 *: Mandarin: {{t+|cmn|燒|sc=Hani}}, {{t+|cmn|烧|tr=shāo|sc=Hani}}
@@ -554,14 +559,22 @@ From {{inh|en|enm|bernen}}, {{m|enm|birnen}}, from {{inh|en|ang|byrnan}}, {{m|an
 * Vietnamese: {{t+|vi|đốt}}
 {{trans-bottom}}
 
-{{trans-see|sunburn}}
+{{trans-see|to cauterize|cauterize}}
 
-{{trans-top|feel hot}}
+{{trans-see|to sunburn|sunburn}}
+
+{{trans-top|to consume, injure, or change the condition of, as if by action of fire or heat}}
+* Finnish: {{t|fi|polttaa}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to feel hot due to embarrassment}}
 * Armenian: {{t+|hy|այրվել}}, {{t+|hy|վառվել}}
 * Belarusian: {{t|be|згара́ць|impf|sc=Cyrl}}, {{t|be|згарэ́ць|pf|sc=Cyrl}}
 * Czech: {{t+|cs|hořet}}
 * Danish: {{t+|da|brænde}}
 * Dutch: {{t+|nl|branden}}, {{t+|nl|gloeien}}
+* Finnish: {{t|fi|kuumottaa}}
 * Greek: {{t+|el|καίγομαι}}
 * Korean: {{t+|ko|달아오르다}}
 * Norwegian: {{t+|no|brenne}}
@@ -575,7 +588,17 @@ From {{inh|en|enm|bernen}}, {{m|enm|birnen}}, from {{inh|en|ang|byrnan}}, {{m|an
 * Swedish: {{t+|sv|brinna}}
 {{trans-bottom}}
 
-{{trans-top|write data}}
+{{trans-top|chemistry: to cause to combine with oxygen or other active agent}}
+* Finnish: {{t|fi|hapettaa}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|chemistry: to combine energetically, with evolution of heat}}
+* Finnish: {{t|fi|hapettua}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|computing: to write data}}
 * Bulgarian: {{t+|bg|пека}}, {{t+|bg|записвам}}
 * Czech: {{t|cs|vypálit}}
 * Dutch: {{t+|nl|branden}}
@@ -601,28 +624,26 @@ From {{inh|en|enm|bernen}}, {{m|enm|birnen}}, from {{inh|en|ang|byrnan}}, {{m|an
 * Swedish: {{t+|sv|bränna}}
 {{trans-bottom}}
 
-{{trans-top|betray}}
+{{trans-top|to betray}}
 * Dutch: {{t+|nl|verraden}}, {{t+|nl|in de steek laten}}
+* Finnish: {{t|fi|käräyttää}}
 * Korean: {{t|ko|데다}}
-* Norwegian: {{t|no|foræde}}
 {{trans-mid}}
+* Norwegian: {{t|no|foræde}}
 * Polish: {{t+|pl|spalić}}
 * Portuguese: {{t+|pt|queimar}}
 {{trans-bottom}}
 
-{{trans-top|slang: insult or defeat}}
+{{trans-top|slang: to insult or defeat}}
 * Dutch: {{t+|nl|kwetsen}}, {{t+|nl|beledigen}}, {{t|nl|liggen hebben}}
+* Finnish: {{t|fi|nokittaa}}
 {{trans-mid}}
 * Polish: {{t+|pl|pojazd}}, {{t+|pl|wjazd}}
 {{trans-bottom}}
 
-{{trans-top|curling: accidentally touch a moving stone}}
-* Swahili: {{t+|sw|choma}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|waste (time)}}
+{{trans-top|to waste}}
 * Dutch: {{t+|nl|verliezen}}, {{t+|nl|doden}}
+* Finnish: {{t|fi|tappaa}} {{q|time}}; {{t|fi|polttaa}} {{q|money, resources}}
 * Hebrew: {{t+|he|שרף|tr=saraf}}
 * Norwegian: {{t+|no|brenne}}
 * Polish: {{t+|pl|tracić|impf}}, {{t+|pl|stracić|pf}}, {{t+|pl|marnować|impf}}, {{t+|pl|zmarnować|pf}}
@@ -632,8 +653,34 @@ From {{inh|en|enm|bernen}}, {{m|enm|birnen}}, from {{inh|en|ang|byrnan}}, {{m|an
 * Vietnamese: {{t+|vi|tốn}}
 {{trans-bottom}}
 
-{{trans-top|pontoon: swap a pair of cards for another pair; deal a dead card}}
+{{trans-top|to approach near to a concealed object which is sought}}
+* Finnish: {{t|fi|polttaa}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|curling: to accidentally touch a moving stone}}
+* Finnish: {{t|fi|palaa}}
+{{trans-mid}}
 * Swahili: {{t+|sw|choma}}
+{{trans-bottom}}
+
+{{trans-top|pontoon: to swap a pair of cards for another pair; deal a dead card}}
+* Swahili: {{t+|sw|choma}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|photography: to increase the exposure for certain areas of a print}}
+* Finnish: {{t|fi|ylivalottaa}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|physics: to be converted to another element in a nuclear fusion}}
+* Finnish: {{t|fi|fuusioitua}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|card games: to discard}}
+* Finnish: {{t|fi|[[heittää]] [[pois]]}}
 {{trans-mid}}
 {{trans-bottom}}
 
