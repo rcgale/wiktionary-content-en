@@ -21,9 +21,9 @@
 {| class="wikitable" style="clear:right; float:right; width:248px"
 |+ OR Truth Table
 |-
-!colspan="2" | Input || rowspan="2" | Output
+!colspan="2" | Input !! rowspan="2" | Output
 |-
-!A || B
+!A !! B
 |-
 | 0 || 0 || 0
 |-
