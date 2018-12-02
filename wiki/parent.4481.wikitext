@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{m|enm|parent}}, from {{etyl|xno|en}} {{m|fro|parent}}, {{etyl|frm|en}} {{m|frm|parent}}, from {{etyl|la|en}} {{m|la|parentem}}, accusative of {{m|la|parēns||parent}}, present participle of {{m|la|parere||to breed, bring forth}}.
+From {{inh|en|enm|parent}}, borrowed from {{bor|en|xno|parent}}, {{bor|en|frm|parent}}, from {{der|en|la|parentem}}, accusative of {{m|la|parēns||parent}}, present participle of {{m|la|parere||to breed, bring forth}}.
 
 ===Pronunciation===
 * {{a|GenAm}} {{IPA|/ˈpɛəɹənt/|/ˈpeəɹənt/|/ˈpæɹənt/|lang=en}}; {{enPR|pârʹ-ənt|părʹ-ənt}}
@@ -284,7 +284,7 @@ From {{etyl|enm|en}} {{m|enm|parent}}, from {{etyl|xno|en}} {{m|fro|parent}}, {{
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{m|la|parēns}}.
+From {{inh|ca|pro|parent}}, from {{inh|ca|la|parentem}}, accusative singular of {{m|la|parēns}}.
 
 ===Pronunciation===
 * {{ca-IPA|é}}
@@ -304,7 +304,7 @@ From {{etyl|la|ca}} {{m|la|parēns}}.
 ==French==
 
 ===Etymology===
-From {{etyl|fro|fr}} {{m|fro|parent}}, from {{etyl|la|fr}} {{m|la|parēns}}, {{m|la|parentem|}}.
+From {{inh|fr|frm|parent}}, from {{inh|fr|fro|parent}}, from {{inh|fr|la|parentem}}, accusative singular of {{m|la|parēns}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -389,10 +389,16 @@ From {{etyl|fro|fr}} {{m|fro|parent}}, from {{etyl|la|fr}} {{m|la|parēns}}, {{m
 
 ==Middle French==
 
+===Etymology===
+From {{inh|frm|fro|parent}}.
+
 ===Noun===
 {{frm-noun|m|parens}}
 
 # {{l|en|parent}}
+
+====Descendants====
+* French: {{l|fr|parent}}
 
 ----
 
@@ -420,7 +426,7 @@ From {{inh|nrf|fro|parent}}, from {{inh|nrf|la|parēns}}, {{m|la|parentem}}, fro
 ==Old French==
 
 ===Etymology===
-From {{etyl|la|fro}} {{m|la|parēns}}, ''parentem''.
+From {{inh|fro|la|parens|parēns, parentem}}.
 
 ===Noun===
 {{fro-noun|m}}
@@ -432,5 +438,8 @@ From {{etyl|la|fro}} {{m|la|parēns}}, ''parentem''.
 * [[parentage]]
 
 ====Descendants====
-* English: {{l|en|parent}}
-* French: {{l|fr|parent}}
+* Middle English: {{l|enm|parent}} {{q|borrowed}}
+** English: {{l|en|parent}}
+* Middle French: {{l|frm|parent}}
+** French: {{l|fr|parent}}
+* Norman: {{l|nrf|parent}}, {{l|nrf|pathent}}
