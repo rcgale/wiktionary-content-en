@@ -1,11 +1,22 @@
 {{also|tree-}}
 ==English==
+{{picdic
+|image=Birnbaum am Lerchenberg retouched.jpg
+|text=tree (1)
+|detail1=
+{{picdicimg|image=Brunfelsia pauciflora shrub.jpg|link=plant|lang=en}}
+|detail3=<!-- Meronyms -->
+{{picdicimg|image=Roots by cesarpb.jpg|link=root|lang=en}}
+{{picdicimg|image=Magnolia acuminata trunk.JPG|link=trunk|lang=en}}
+{{picdicimg|image=Ceiba sp branches.jpg|link=branch|lang=en}}
+{{picdicimg|image=Autumn Red Oak Leaf.jpg|link=leaf|lang=en}}
+{{picdicimg|image=Picea koyamae shoot.JPG|link=needle|lang=en}}
+{{picdicimg|image=Fruit_Stall_in_Barcelona_Market.jpg|link=fruit|lang=en}}
+}}
 [[Image:Grid-tree.svg|thumb|A tree structure]]
 
 ===Etymology===
-From {{inh|en|enm|tre}}, {{m|enm|tree}}, {{m|enm|treo}}, {{m|enm|treou}}, {{m|enm|trew}}, {{m|enm|trow}}, from {{inh|en|ang|trēo}}, {{m|ang|trēow|t=tree, wood, timber, beam, log, stake, stick, grove, cross, rood}}
-
-, from {{inh|en|gem-pro|*trewą|t=tree, wood}}, from pre-Germanic {{m|ine-pro||*dréwom}}, thematic e-grade derivative of {{der|en|ine-pro|*dóru|t=tree}}.
+From {{inh|en|enm|tre}}, {{m|enm|tree}}, {{m|enm|treo}}, {{m|enm|treou}}, {{m|enm|trew}}, {{m|enm|trow}}, from {{inh|en|ang|trēo}}, {{m|ang|trēow|t=tree, wood, timber, beam, log, stake, stick, grove, cross, rood}}, from {{inh|en|gem-pro|*trewą|t=tree, wood}}, from pre-Germanic {{m|ine-pro||*dréwom}}, thematic e-grade derivative of {{der|en|ine-pro|*dóru|t=tree}}.
 {{rel-top|Cognates}}From the same Proto-Indo-European: {{cog|sco|tree|t=wood, rod, stick}}, {{cog|frr|tre}}, {{m|frr|trä|t=tree}}, {{cog|dum|tree}} > {{cog|nl|teer|t=tree}}, {{cog|da|træ|t=tree}}, {{cog|sv|trä|t=wood}}, {{m|sv|träd|t=tree}}, {{cog|no|tre|t=tree}}, {{cog|is|tré|t=tree}}, {{cog|got|𐍄𐍂𐌹𐌿|t=tree, wood, piece of wood}}, {{cog|sq|dru|t=tree, wood}}, {{cog|cy|dâr|t=oaks}}, {{cog|grc|δόρυ|t=wood, spear}}, {{cog|ru|де́рево}} or {{m|ru|дре́во}}, {{cog|xto|or}}. Related to {{m|en|tar}}, {{m|en|true}}.
 {{rel-bottom}}
 
@@ -32,20 +43,7 @@ From {{inh|en|enm|tre}}, {{m|enm|tree}}, {{m|enm|treo}}, {{m|enm|treou}}, {{m|en
 #: {{ux|en|He put a shoe '''tree''' in each of his shoes.}} <!-- Move to [[shoe tree]]? -->
 # The structural [[frame]] of a [[saddle]].
 # {{lb|en|graph theory}} A connected [[graph]] with no cycles or, equivalently, a connected graph with ''n'' vertices and ''n''-1 edges.
-#{{picdic
-|image=Birnbaum am Lerchenberg retouched.jpg
-|text=tree (1)
-|detail1=
-{{picdicimg|image=Brunfelsia pauciflora shrub.jpg|link=plant|lang=en}}
-|detail3=<!-- Meronyms -->
-{{picdicimg|image=Roots by cesarpb.jpg|link=root|lang=en}}
-{{picdicimg|image=Magnolia acuminata trunk.JPG|link=trunk|lang=en}}
-{{picdicimg|image=Ceiba sp branches.jpg|link=branch|lang=en}}
-{{picdicimg|image=Autumn Red Oak Leaf.jpg|link=leaf|lang=en}}
-{{picdicimg|image=Picea koyamae shoot.JPG|link=needle|lang=en}}
-{{picdicimg|image=Fruit_Stall_in_Barcelona_Market.jpg|link=fruit|lang=en}}
-}}
-{{lb|en|computing theory}} A [[recursive]] [[data structure]] in which each [[node]] has zero or more nodes as children.
+# {{lb|en|computing theory}} A [[recursive]] [[data structure]] in which each [[node]] has zero or more nodes as children.
 # {{lb|en|graphical user interface}} A [[display]] or listing of [[entry|entries]] or [[element]]s such that there are [[primary]] and [[secondary]] entries shown, usually linked by drawn lines or by indenting to the right.
 #: {{ux|en|We’ll show it as a '''tree''' list.}}
 # Any [[structure]] or [[construct]] having [[branch]]es akin to (1).
