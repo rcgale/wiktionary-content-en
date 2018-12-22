@@ -13,7 +13,7 @@
 
 ===Etymology 1===
 [[File:Dubrovnik-port.jpg|right|thumb|The old port of [[Dubrovnik]]]]
-From {{der|en|ang|port}}, from {{der|en|la|portus||port, harbour}}, ultimately from {{der|en|ine-pro|*pértus||crossing}} (and thus distantly cognate with {{m|en|ford}}).
+From {{inh|en|ang|port}}, borrowed from {{der|en|la|portus||port, harbour}}, ultimately from {{der|en|ine-pro|*pértus||crossing}} (and thus distantly cognate with {{doublet|notext=1|en|ford}}).
 
 ====Noun====
 {{en-noun}}
@@ -484,7 +484,7 @@ Named from {{der|en|pt|Porto}}, a city in [[Portugal]] from whence the wines wer
 * {{ca-IPA|ò}}
 
 ===Etymology 1===
-From {{der|ca|la|portus}}.
+From {{inh|ca|pro|port}}, from {{inh|ca|la|portus}}, from {{der|ca|itc-pro|*portus}}, from {{der|ca|ine-pro|*pértus||crossing}}, from {{m|ine-pro|*per-||to go forth, to cross}}.
 
 ====Noun====
 {{ca-noun|m}}
@@ -567,7 +567,7 @@ See {{m|nl|porren}}.
 * {{audio|Fr-port.ogg|audio|lang=fr}}
 
 ===Etymology 1===
-From {{inh|fr|fro|port}}, from {{inh|fr|la|portus}}, from {{inh|fr|itc-pro|*portus}}, from {{inh|fr|ine-pro|*pértus||crossing}}, from {{m|ine-pro|*per-||to go forth, to cross}}.
+From {{inh|fr|fro|port}}, borrowed from {{bor|fr|la|portus}}, from {{der|fr|itc-pro|*portus}}, from {{der|fr|ine-pro|*pértus||crossing}}, from {{m|ine-pro|*per-||to go forth, to cross}}.
 
 ====Noun====
 {{fr-noun|m}}
@@ -659,7 +659,7 @@ From {{inh|ga|sga|port||tune, melody}}.
 {{ga-decl-m1|p|ort|oirt}}
 
 ===Etymology 2===
-From {{inh|ga|sga|port||bank, shore (of river or sea); landing-place, haven; bank, mound, entrenchment; place, spot, locality; stead, abode; stronghold, fortress}}, from {{der|ga|la|portus||harbour, port; haven, refuge, asylum, retreat}}.
+From {{inh|ga|sga|port||bank, shore (of river or sea); landing-place, haven; bank, mound, entrenchment; place, spot, locality; stead, abode; stronghold, fortress}}, borrowed from {{der|ga|la|portus||harbour, port; haven, refuge, asylum, retreat}}.
 
 ====Noun====
 {{ga-noun|m|poirt|poirt}}
@@ -708,7 +708,7 @@ From {{der|lld|la|portus}}.
 ==Norman==
 
 ===Etymology===
-From {{inh|nrf|la|portus||port, harbour}}.
+From {{inh|nrf|fro|port}}, borrowed from {{bor|nrf|la|portus||port, harbour}}.
 
 ===Noun===
 {{nrf-noun|m}}
@@ -727,7 +727,7 @@ From {{inh|nrf|la|portus||port, harbour}}.
 {{wikipedia|lang=no|Port (datakommunikasjon)}}
 
 ===Etymology===
-From {{inh|nb|gmq-mno|portr|g=m}}, from late {{inh|nb|non|port|g=n}}, from {{der|nb|la|porta|g=f}}.
+From {{inh|nb|gmq-mno|portr|g=m}}, from late {{inh|nb|non|port|g=n}}, ultimately from {{der|nb|la|porta|g=f}}.
 
 ===Pronunciation===
 * {{IPA|/puʈ/|lang=nb}}
@@ -748,7 +748,7 @@ From {{inh|nb|gmq-mno|portr|g=m}}, from late {{inh|nb|non|port|g=n}}, from {{der
 ==Norwegian Nynorsk==
 
 ===Etymology===
-From {{inh|nn|gmq-mno|portr|g=m}}, from late {{inh|nn|non|port|g=n}}, from {{der|nn|la|porta|g=f}}.
+From {{inh|nn|gmq-mno|portr|g=m}}, from late {{inh|nn|non|port|g=n}}, ultimately from {{der|nn|la|porta|g=f}}.
 
 ===Noun===
 {{nn-noun-m1}}
@@ -825,7 +825,7 @@ Borrowed from {{bor|ang|la|porta||gate”, “entrance”, “passage”, “doo
 ==Old French==
 
 ===Etymology===
-From {{inh|fro|la|portus}}.
+Borrowed from {{bor|fro|la|portus}}.
 
 ===Pronunciation===
 * {{IPA|/pɔrt/|lang=fro}}
@@ -839,10 +839,14 @@ From {{inh|fro|la|portus}}.
 
 ====Descendants====
 * French: {{l|fr|port}}
+* Norman: {{l|nrf|port}}
 
 ----
 
 ==Polish==
+
+===Etymology===
+Ultimately borrowed from {{der|pl|la|portus}}. Compare French and English {{m|en|port}}.
 
 ===Pronunciation===
 * {{pl-IPA}}
@@ -865,7 +869,7 @@ From {{inh|fro|la|portus}}.
 ==Romanian==
 
 ===Etymology 1===
-From {{der|ro|fr|port}}, {{der|ro|it|porto}}, {{der|ro|la|portus}}.
+Borrowed from {{bor|ro|fr|port}}, {{bor|ro|it|porto}}, {{bor|ro|la|portus}}.
 
 ====Noun====
 {{ro-noun|n|porturi}}
@@ -906,7 +910,7 @@ From {{inh|gd|sga|port||tune, melody}}.
 * {{l|gd|mànran}}
 
 ===Etymology 2===
-From {{inh|gd|sga|port||bank, shore (of river or sea); landing-place, haven; bank, mound, entrenchment; place, spot, locality; stead, abode; stronghold, fortress}}, from {{der|gd|la|portus||harbour, port; haven, refuge, asylum, retreat}}.
+From {{inh|gd|sga|port||bank, shore (of river or sea); landing-place, haven; bank, mound, entrenchment; place, spot, locality; stead, abode; stronghold, fortress}}, ultimately from {{der|gd|la|portus||harbour, port; haven, refuge, asylum, retreat}}.
 
 ====Noun====
 {{gd-noun|g=m|gen=puirt|pl=puirt|pl2=portan}}
