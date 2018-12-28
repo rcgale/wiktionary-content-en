@@ -89,7 +89,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Afrikaans: {{t+|af|julle}}
 * Albanian: {{t+|sq|ju}}
 * American Sign Language: {{t|ase|1@InsideChesthigh-RadialUp}}
-* Arabic: {{t|ar|كم|m-p|alt=ـكُم}}, {{t|ar|كن|f-p|alt=ـكُنَّ}}, {{t|ar|كما|c-d|alt=ـكُمَا}}, {{t|ar|إيَّاكُمْ|m-p}}, {{t|ar|إِيَّاكُنَّ|f-p}}, {{t|ar|إيَّاكُمَا|c-d}}
+* Arabic: {{t+|ar|كم|m-p|alt=ـكُم}}, {{t|ar|كن|f-p|alt=ـكُنَّ}}, {{t|ar|كما|c-d|alt=ـكُمَا}}, {{t|ar|إيَّاكُمْ|m-p}}, {{t|ar|إِيَّاكُنَّ|f-p}}, {{t|ar|إيَّاكُمَا|c-d}}
 *: Egyptian Arabic: {{t|arz|كو|alt=ـكو}}
 *: Tunisian Arabic: {{t|aeb|كم|m-p|f-p|alt=ـكُمْ|tr=kum}}
 * Aragonese: {{t|an|mercés|p}}, {{t|an|vustés|p}}
@@ -172,7 +172,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: Nynorsk: {{t+|nn|dykk}} {{qualifier|familiar}}, {{t|nn|Dykk}} {{qualifier|polite}}
 * Novial: {{t|nov|vus}}
 * Occitan: {{t-needed|oc}}
-* Old English: {{t|ang|ēow}} {{qualifier|plural}}, {{t|ang|inc}} {{qualifier|dual}}
+* Old English: {{t|ang|ēow}} {{qualifier|plural}}, {{t+|ang|inc}} {{qualifier|dual}}
 * Oriya: {{t|or|ଆପଣମାନଙ୍କୁ|sc=Orya}} {{qualifier|formal}}, {{t|or|ତୁମମାନଙ୍କୁ|sc=Orya}} {{qualifier|familiar}}
 * Persian: {{t|fa|شما را|tr=šomā rā}}
 * Pipil: {{t|ppl|metzin-}}
@@ -447,7 +447,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Ojibwe: {{t|oj|giinawaa}}
 * Old Church Slavonic: {{t|cu|ва}} {{qualifier|dual}}, {{t|cu|вꙑ|p}}
 * Old East Slavic: {{t|orv|вꙑ}}
-* Old English: {{t|ang|ġē}} {{qualifier|plural}}, {{t|ang|ġit}} {{qualifier|[[dual]]}}
+* Old English: {{t|ang|ġē}} {{qualifier|plural}}, {{t+|ang|ġit}} {{qualifier|[[dual]]}}
 * Old Turkic: {{t|otk|𐰾𐰃𐰕|tr=siz}}
 * Oriya: {{qualifier|familar}} {{t|or|ତୁମେମାନେ|sc=Orya}}, {{qualifier|formal}} {{t|or|ଆପଣମାନେ|sc=Orya}}
 * Ottoman Turkish: {{t|ota|سز|tr=siz}}
@@ -730,7 +730,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: Norwegian Bokmål: {{t+|nb|man}}, {{t+|nb|en}}, {{t+|nb|du}}
 *: Norwegian Nynorsk: {{t+|nn|ein}}, {{t+|nn|du}}
 * Novial: {{t|nov|on}}
-* Old English: {{t|ang|man}}
+* Old English: {{t+|ang|man}}
 * Portuguese: {{t+|pt|você}}, {{t+|pt|se}}, {{t|pt|[[a]] [[pessoa]]}}
 * Russian: {{qualifier|passive or infinitive forms are used}} {{t+|ru|ты}}
 * Scots: {{t|sco|ane}}
@@ -769,7 +769,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: Hebrew: {{t|arc|אנת|m|tr=’ant|sc=Hebr}}, {{t|arc|אנתי|f|tr=’antī|sc=Hebr}}, {{t|arc|אנתון|m-p|tr=’antōn|sc=Hebr}}, {{t|arc|אנתין|f-p|tr=’antēn|sc=Hebr}}
 * Bulgarian: {{qualifier|vocative is commonly used}}, {{qualifier|informal}} {{t+|bg|ти|tr=ti}}, {{qualifier|formal}} {{t+|bg|Вие|tr=Víe}}, {{qualifier|group}} {{t+|bg|вие|tr=víe}}
 * Czech: {{t+|cs|vy|p}}
-* Danish: {{t|da|I|p}} (not used in singular)
+* Danish: {{t+|da|I|p}} (not used in singular)
 * Dutch: ''translated by the definite article'': {{t+|nl|de}}
 * Esperanto: {{t+|eo|ci}} {{qualifier|familiar}}, {{t+|eo|vi}} {{qualifier|polite}}
 * Estonian: {{qualifier|familiar}} {{t+|et|sina|s}}, {{t+|et|sa|s}}, {{t+|et|teie|p}}, {{t+|et|te|p}}, {{qualifier|polite}} {{t|et|Sina|s}}, {{t+|et|Sa|s}}, {{t|et|Teie|p}}, {{t+|et|Te|p}}
@@ -799,10 +799,10 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Afrikaans: {{t+|af|jy}}
 * Bulgarian: {{qualifier|vocative is commonly used}}, {{qualifier|informal}} {{t+|bg|ти|tr=ti}}, {{qualifier|formal}} {{t+|bg|Вие|tr=Víe}}, {{qualifier|group}} {{t+|bg|вие|tr=víe}}
 * Czech: {{t+|cs|ty|s}}, {{t+|cs|vy|p}}
-* Danish: {{t|da|din|c}}/{{t|da|dit|n}}/{{t|da|I|p}}
+* Danish: {{t+|da|din|c}}/{{t+|da|dit|n}}/{{t+|da|I|p}}
 * Dutch: {{qualifier|singular|standard}} {{t+|nl|jij}}, {{qualifier|Flemish}} {{t+|nl|gij}}, {{qualifier|plural}}, {{qualifier|standard}} {{t+|nl|jullie}}, {{qualifier|Flemish}} {{t|nl|gulder}}
 * Esperanto: {{t+|eo|vi}}, {{t+|eo|ci}} {{qualifier|familiar|rarely used}}
-* Finnish: {{t|fi|senkin}}
+* Finnish: {{t+|fi|senkin}}
 * French: {{qualifier|singular}} {{t+|fr|espèce de}}, {{qualifier|plural}} {{t|fr|bande de}}
 * Georgian: {{t|ka|შე}}, {{t|ka|თქვე}}, {{t|ka|თქვე}}
 * German: {{t+|de|du}}
