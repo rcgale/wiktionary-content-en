@@ -580,16 +580,16 @@ From {{inh|dum|odt|*bat}}, {{m|odt|*bet}}, from {{inh|dum|gem-pro|*batiz}}.
 
 ==Middle English==
 
-===Alternative forms===
-* {{alter|enm|batt|batte|bot}}
-
-===Etymology===
+===Etymology 1===
 From {{inh|enm|ang|batt}}, from {{der|enm|cel}}; influenced by {{der|enm|fro|batte}}.
 
-===Pronunciation===
+====Alternative forms====
+* {{alter|enm|batt|batte|bot}}
+
+====Pronunciation====
 * {{IPA|lang=enm|/bat/|/bɔt/}}
 
-===Noun===
+====Noun====
 {{enm-noun|battes|pl2=botten}}
 
 # A [[mace]], {{l|en|bat}}, or [[morningstar]] {{gloss|blunt weapon}}
@@ -597,12 +597,20 @@ From {{inh|enm|ang|batt}}, from {{der|enm|cel}}; influenced by {{der|enm|fro|bat
 # {{lb|enm|rare|Late ME}} A strike or hit from a weapon.
 # {{lb|enm|rare|Late ME}} A clump of soft material.
 
-====Descendants====
+=====Descendants=====
 * {{desc|en|bat}}, {{l|en|batt}}
 * {{desc|sco|bat}}
 
-====References====
+=====References=====
 * {{R:MED Online|entry=bat (n.)  |id=MED3761 |accessdate=2018-07-16}}
+
+===Etymology 2===
+From {{inh|enm|ang|bāt}}.
+
+====Noun====
+{{head|enm|noun}}
+
+# {{alt form|lang=enm|bot|t=boat}}
 
 [[Category:enm:Weapons]]
 
@@ -628,19 +636,7 @@ From {{inh|ang|gem-pro|*baitaz}}. Related to {{cog|non|beit}}. {{cog|non|bátr}}
 {{ang-decl-noun-o-f|bāt}}
 
 ====Descendants====
-* Middle English: {{l|enm|boot}}, {{l|enm|bate}}
-** English: {{l|en|boat}} {{see desc}}
-** Scots: {{l|sco|bate}}, {{l|sco|bait}}
-** {{desc|nl|boot|bor=1}}
-*** Afrikaans: {{l|af|boot}}
-** {{desc|de|Boot|bor=1}}
-** {{desc|nds|Boot|bor=1}}
-** {{desc|pdt|Boot|bor=1}}
-** {{desc|frr|böötj|bor=1}}
-** {{desc|stq|Boot|bor=1}}
-** {{desc|fy|boat|bor=1}}
-** {{desc|ca|bot|bor=1}}
-** {{desc|gl|bote|bor=1}}
+* {{desctree|enm|bot}}
 * {{desc|non|bátr|bor=1}} {{see desc}}
 * {{desc|fro|batel|bor=1}} {{see desc}}
 * {{desc|ga|bád|bor=1}}
