@@ -411,21 +411,31 @@ From {{der|nn|la|argumentum}}
 {{sh-noun|g=m|head=argùment}}
 
 # {{l|en|argument}} (fact or statement used to support a proposition)
-#<sup>{{lb|sh|philosophy|logic|mathematics|programming}}</sup> {{l|en|argument}}
+# {{lb|sh|philosophy|logic|mathematics|programming}} {{l|en|argument}}
 
 ====Declension====
+{{sh-decl-noun|argument|argumenti
+|argumenta|argumenata
+|argumentu|argumentima
+|argument|argumente
+|argumente|argumenti
+|argumentu|argumentima
+|argumentom|argumentima
+}}
+
 ----
 
 ==Swedish==
 
 ===Pronunciation===
-* 
+* {{audio|Sv-argument.ogg|audio|lang=sv}}
 
 ===Noun===
 {{sv-noun|n}}
 
 # an {{l|en|argument}}; a reason
-# an argument; an independent variable passed to a function
-# an argument; a variable passed to a function
+# {{lb|sv|mathematics}} an argument; an independent variable passed to a function
+# {{lb|sv|programming}} an argument; a variable passed to a function
 
 ====Declension====
+{{sv-infl-noun-n-zero}}
