@@ -276,9 +276,9 @@ The Min native word for “person”; used as a replacement character for {{zh-l
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|ひと}}
-{{IPAchar|/pi<sub>1</sub>to<sub>2</sub>/}} → *{{IPAchar|/pitə/}} → {{IPAchar|/fito/}} → {{IPAchar|/hito/}}
+{{IPAfont|⟨pi<sub>1</sub>to<sub>2</sub>⟩}} → *{{IPAchar|/pʲitə/}} → {{IPAchar|/fito/}} → {{IPAchar|/hito/}}
 
-From {{inh|ja|ojp||sort=ひと}}, from {{inh|ja|jpx-pro|*pitə}}.
+From {{inh|ja|ojp|sort=ひと|-}}, from {{inh|ja|jpx-pro|*pitə}}.
 
 ====Pronunciation====
 {{ja-pron|ひと|acc=h|dev=1|acc2=o|y=k|acc_ref=NHK,SMK5,DJR|acc2_ref=NHK,SMK5}}
@@ -286,32 +286,47 @@ From {{inh|ja|ojp||sort=ひと}}, from {{inh|ja|jpx-pro|*pitə}}.
 ====Noun====
 {{ja-noun|ひと|count=人|ヒト}}
 
-# [[person]]; [[human]]
+# a [[person]], [[human]]
 #* {{quote-book|date=Jun 4 2004|||publisher={{w|Wizards of the Coast}}|{{lang|ja|フィフス・ドーン}}|chapter={{ruby|{{lang|ja|レオニンの[従](じゅう)[者](しゃ)}}}}|trans-chapter=Leonin Squire|||{{ja-usex|私は王かもしれないが、兵%士や'''人%々'''なくしては、私は何%者でもないのだ。|^わたし は おう かも しれない が、へい%し や '''ひと%びと''' なく して は、わたし は なに%もの でも ない の だ。|I may be king, but without my soldiers and my '''people''', I am nobody.}}|trans-title=Fifth Dawn|lang=ja}}
-# [[someone]] [[else]]
+# an [[individual]]
+#: {{syn|ja|個人|tr=kojin}}
+# [[mankind]], [[people]]
+#: {{syn|ja|人類|tr=jinrui|人間|tr2=ningen}}
+# [[character]], [[personality]]
+#: {{syn|ja|人格|tr=jinkaku|人柄|tr2=hitogara}}
+# an [[average]] person
+#: {{syn|ja|世人|tr=sejin, yohito}}
+# {{rfdef|ja|sort=ひと}}
+#: {{syn|ja|方|tr=kata|者|tr2=mono}}
+# {{lb|ja|sort=ひと|law}} {{rfdef|ja}}
+# {{rfdef|ja}}
+# an [[adult]]
+#: {{syn|ja|大人|tr=otona|成人|tr2=seijin}}
+# [[someone]] {{gl|[[else]]}}
 
 =====Usage notes=====
 * When scientifically referring to humans, this term is often spelled in katakana, as {{m|ja|ヒト}}.
 
 =====Derived terms=====
 {{der-top}}
-* {{ja-r|弟|おとうと}}: younger [[brother]]
-* {{ja-r|妹|いもうと}}: younger [[sister]]
-* {{ja-r|舅|しゅうと}}: [[father-in-law]]
-* {{ja-r|姑|しゅうと}}: [[mother-in-law]]
-* {{ja-r|素人|しろうと}}: an [[amateur]], a [[novice]]
-* {{ja-r|玄人|くろうと}}: [[expert]], [[professional]]
-* {{ja-r|真人|まひと}}, {{ja-r|真人|まとうど}}, {{ja-r|真人|もうと}}: a [[clan]] in ancient Japan; a [[noble]]; someone who is very [[honest]] and [[straightforward]]
+* {{ja-r|人々|ひとびと|[[people]]}}
+* {{ja-r|人%伝|ひと%づて}}
+* {{ja-r|為人|ひととなり}}
+* {{ja-r|人の世|ひと の よ}}: [[this]] [[world]], the world of humans {{qualifier|as opposed to the world of the gods}}
+* {{ja-r|商人|あきゅうど}}, {{ja-r|商人|あきんど|[[trader]], [[shopkeeper]], [[merchant]]}}
+* {{ja-r|弟|おとうと|younger [[brother]]}}
 * {{ja-r|首|おびと}}: a [[chief]] or [[boss]]; a [[clan]] in ancient Japan
-* {{ja-r|客人|まろうど}}: a [[visitor]], a [[guest]]
-* {{ja-r|商人|あきゅうど}}, {{ja-r|商人|あきんど}}: [[trader]], [[shopkeeper]], [[merchant]]
-* {{ja-r|仲人|なこうど}}: [[go-between]], [[matchmaker]]
-* {{ja-r|囚人|めしゅうど}}: [[prisoner]]
-* {{ja-r|人の世|ひと の よ}}: [[this world]], the world of humans {{qualifier|as opposed to the world of the gods}}
+* {{ja-r|玄人|くろうと|[[expert]], [[professional]]}}
+* {{ja-r|恋%人|こい%びと}}
+* {{ja-r|妹|いもうと|younger [[sister]]}}
+* {{ja-r|舅|しゅうと|[[father-in-law]]}}
+* {{ja-r|姑|しゅうと|[[mother-in-law]]}}
+* {{ja-r|素人|しろうと|[[amateur]], [[novice]]}}
+* {{ja-r|仲人|なこうど|[[go-between]], [[matchmaker]]}}
+* {{ja-r|真%人|ま%ひと}}, {{ja-r|真人|まとうど}}, {{ja-r|真人|もうと}}: a [[clan]] in ancient Japan; a [[noble]]; someone who is very [[honest]] and [[straightforward]]
+* {{ja-r|客人|まろうど|[[visitor]], [[guest]]}}
+* {{ja-r|囚人|めしゅうど|[[prisoner]]}}
 {{der-bottom}}
-
-=====Synonyms=====
-* {{ja-r|方|かた}} {{qualifier|honorific}}
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=o|にん}}
