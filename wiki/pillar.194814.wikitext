@@ -32,16 +32,15 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|fro|pilier}}, from {{der|en|ML.|-}
 * {{l|en|column}}, {{l|en|sile}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|A-pillar}}, {{l|en|B-pillar}}, {{l|en|C-pillar}}, {{l|en|D-pillar}}
-* {{l|en|earth pillar}}
-* {{l|en|from pillar to post}}
-* {{l|en|pillar box}}
-{{der-mid}}
-* {{l|en|pillar harp}}
-* {{l|en|pillar of the community}}
-* {{l|en|sun pillar}}
-{{der-bottom}}
+{{der4
+|{{l|en|A-pillar}}, {{l|en|B-pillar}}, {{l|en|C-pillar}}, {{l|en|D-pillar}}
+|{{l|en|earth pillar}}
+|{{l|en|from pillar to post}}
+|{{l|en|pillar box}}
+|{{l|en|pillar harp}}
+|{{l|en|pillar of the community}}
+|{{l|en|sun pillar}}
+|lang=en}}
 
 ====Translations====
 {{trans-top|large post, often used as supporting architecture}}
@@ -53,12 +52,12 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|fro|pilier}}, from {{der|en|ML.|-}
 * Aromanian: {{t|rup|stur}}, {{t|rup|stil}}, {{t|rup|durec}}
 * Assamese: {{t|as|খুটি}}, {{t|as|থাম}}
 * Asturian: {{t|ast|pilar|m}}
-* Bashkir: {{t|ba|бағана|sc=Cyrl}}, {{t|ba|баған|sc=Cyrl}} {{qualifier|Eastern Bashkir}}; {{t|ba|колонна|sc=Cyrl}}
+* Bashkir: {{t|ba|бағана}}, {{t|ba|баған}} {{qualifier|Eastern Bashkir}}; {{t|ba|колонна}}
 * Berber:
 *: Tashelhit: {{t|shi|anbdad|m}}
 * Catalan: {{t+|ca|pilar|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|柱子|tr=zhùzi|sc=Hani}}
+*: Mandarin: {{t+|cmn|柱子|tr=zhùzi}}
 * Czech: {{t+|cs|pilíř|m}}
 * Dalmatian: {{t|dlm|chilauna|f}}
 * Dutch: {{t+|nl|pijler}}, {{t+|nl|zuil}}, {{t+|nl|pilaar}}
@@ -70,19 +69,19 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|fro|pilier}}, from {{der|en|ML.|-}
 * Georgian: {{t|ka|სვეტი}}, {{t|ka|დედაბოძი}}, {{t|ka|საყრდენი}}
 * German: {{t+|de|Pfeiler|m}}, {{t+|de|Säule|f}}
 * Greek: {{t+|el|στυλοβάτης|m}}, {{t+|el|κολώνα|f}}, {{t+|el|στύλος|m}}
-* Hebrew: {{t+|he|עמוד|m|tr='amúd|sc=Hebr}}
-* Hindi: {{t+|hi|स्तंभ|tr=stambh}}, {{t+|hi|खंभा|tr=khambhā}}
+* Hebrew: {{t+|he|עמוד|m|tr='amúd}}
+* Hindi: {{t+|hi|स्तंभ}}|tr=stambh, {{t+|hi|खंभा}}|tr=khambhā
 * Hungarian: {{t+|hu|oszlop}}
 * Indonesian: {{t+|id|pilar}}, {{t+|id|tiang}}
 * Italian: {{t+|it|pilastro|m}}
-* Japanese: {{t+|ja|柱|tr=[[はしら]], hashira|sc=Jpan}}
-* Khmer: {{t+|km|សសរ|tr=sɑsɑɑ|sc=Khmr}}
+* Japanese: {{t+|ja|柱|tr=[[はしら]], hashira}}
+* Khmer: {{t+|km|សសរ|tr=sɑsɑɑ}}
 {{trans-mid}}
 * Korean: {{t+|ko|기둥}}
 * Lithuanian: {{t+|lt|piliorius|m}}
-* Macedonian: {{t|mk|столб|m|tr=stólb}}, {{t|mk|дирек|m|tr=dírek}}
+* Macedonian: {{t|mk|сто́лб|m}}|tr=stólb, {{t|mk|ди́рек|m}}|tr=dírek
 * Maori: {{t|mi|pou}}
-* Mongolian: {{t+|mn|багана|sc=Cyrl}}
+* Mongolian: {{t+|mn|багана}}
 * Norwegian:
 *: Bokmål: {{t+|nb|søyle|m|f}}
 *: Nynorsk: {{t|nn|søyle|f}}
@@ -143,6 +142,22 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|fro|pilier}}, from {{der|en|ML.|-}
 
 ----
 
+==Catalan==
+
+===Pronunciation===
+* {{ca-IPA}}
+* {{rhymes|a(ɾ)|lang=ca}}
+
+===Verb===
+{{ca-verb}}
+
+# {{lb|ca|transitive}} {{rfdef|lang=ca}}
+
+====Conjugation====
+{{ca-conj-ar|pill}}
+
+----
+
 ==Portuguese==
 
 ===Noun===
@@ -155,7 +170,7 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|fro|pilier}}, from {{der|en|ML.|-}
 ==Spanish==
 
 ===Etymology===
-Probably borrowed from {{bor|es|it|pigliare}} or {{bor|es|fr|piller}}. Compare also Portuguese {{m|pt|pilhar}}.
+Probably borrowed from {{bor|es|it|pigliare}} or {{bor|es|fr|piller}}. Compare also {{cog|pt|pilhar}}.
 
 ===Pronunciation===
 * {{es-IPA}}
@@ -171,7 +186,7 @@ Probably borrowed from {{bor|es|it|pigliare}} or {{bor|es|fr|piller}}. Compare a
 # {{lb|es|colloquial}} to [[come down with]], [[catch]] (an illness)
 
 ====Conjugation====
-{{es-conj-ar}}
+{{es-conj-ar|pill}}
 
 ====Synonyms====
 * {{sense|catch}} {{l|es|atrapar}}, {{l|es|sorprender}}
