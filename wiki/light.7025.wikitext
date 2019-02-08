@@ -241,7 +241,7 @@ From {{inh|en|enm|light}}, {{m|enm|liht}}, {{m|enm|leoht}}, from {{inh|en|ang|l�
 * Hawaiian: {{t-simple|haw|lama|langname=Hawaiian}}, {{t-simple|haw|ao|langname=Hawaiian}}
 * Hebrew: {{t|he|אורה|f|tr=orá}}, {{t+|he|אור|m|tr=ór}}
 * Hindi: {{t+|hi|प्रकाश|m|tr=prakāś|sc=Deva}}, {{t+|hi|रौशनी|f|tr=raušnī|sc=Deva}}
-* Hungarian: {{t-simple|hu|fény|langname=Hungarian|interwiki=1}}
+* Hungarian: {{t-simple|hu|fény|langname=Hungarian|interwiki=1}}, {{t+|hu|világosság}}
 * Hunsrik: {{t-simple|hrx|licht|g=n|langname=Hunsrik}}
 * Icelandic: {{t-simple|is|ljós|g=n|langname=Icelandic|interwiki=1}}
 * Ido: {{t-simple|io|foto|langname=Ido|interwiki=1}}, {{t-simple|io|lumo|langname=Ido|interwiki=1}}
@@ -422,7 +422,7 @@ From {{inh|en|enm|light}}, {{m|enm|liht}}, {{m|enm|leoht}}, from {{inh|en|ang|l�
 *: Ancient: {{t|grc|φωστήρ|m}}
 * Hebrew: {{t+|he|אור|m|tr=ór}}
 * Hindi: {{t+|hi|रोशनी|f|tr=rośnī|sc=Deva}}, {{t+|hi|प्रकाश|m|tr=prakāś|sc=Deva}}, {{t+|hi|लाइट|f|tr=lā'iṭ|sc=Deva}}, {{t+|hi|चमक|sc=Deva}}, {{t+|hi|चिराग|sc=Deva}}
-* Hungarian: {{t-simple|hu|fényforrás|langname=Hungarian|interwiki=1}}, {{t-simple|hu|fény|langname=Hungarian|interwiki=1}}, {{t+|hu|villany}}, {{t+|hu|lámpa}}
+* Hungarian: {{t-simple|hu|fényforrás|langname=Hungarian|interwiki=1}}, {{t-simple|hu|fény|langname=Hungarian|interwiki=1}}, {{t+|hu|villany}}, {{t+|hu|lámpa}}, {{t+|hu|világítás}}, {{t+|hu|fényszóró}}
 * Icelandic: {{t-simple|is|ljós|g=n|langname=Icelandic|interwiki=1}}
 * Ido: {{t-simple|io|lumo|langname=Ido|interwiki=1}}
 * Irish: {{t-simple|ga|solas|g=m|langname=Irish|interwiki=1}}
@@ -483,13 +483,14 @@ From {{inh|en|enm|light}}, {{m|enm|liht}}, {{m|enm|leoht}}, from {{inh|en|ang|l�
 * German: {{t-simple|de|Erleuchtung|g=f|langname=German}}, {{t-simple|de|Licht|g=n|langname=German|interwiki=1}}
 * Greek: {{t+|el|φως|n}}
 * Hebrew: {{t+|he|אור|m|tr=ór}}, {{t+|he|הארה|f|tr=he`ará}}
+* Hungarian: {{t+|hu|megvilágítás}}, {{t+|hu|fény}}
 * Italian: {{t-simple|it|luce|g=m|langname=Italian|interwiki=1}}
 * Japanese: {{t+|ja|光明|tr=こうみょう, kōmyō|sc=Jpan}}, {{qualifier|useful idea}} {{t|ja|妙案|tr=みょうあん, myōan}}
 * Javanese: {{t-simple|jv|pepadhang|langname=Javanese}}
 * Korean: {{t+|ko|빛}}
+{{trans-mid}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|ronî|f}}, {{t+|ku|ronahî|f}}
-{{trans-mid}}
 * Latin: {{t-simple|la|lux|langname=Latin|interwiki=1}}, {{t-simple|la|lumen|g=n|langname=Latin}}
 * Ngazidja Comorian: {{t|zdj|nuru|c9|c10}}
 * Norwegian: {{t-simple|no|lys|g=n|langname=Norwegian|interwiki=1}}
@@ -524,7 +525,7 @@ From {{inh|en|enm|light}}, {{m|enm|liht}}, {{m|enm|leoht}}, from {{inh|en|ang|l�
 * Bashkir: {{t|ba|күҙлек}}, {{t|ba|ҡараш}}
 * Finnish: {{t-simple|fi|valo|langname=Finnish|interwiki=1}}, {{t-simple|fi|näkökulma|langname=Finnish|interwiki=1}}
 * Hebrew: {{t+|he|אור|m|tr=ór}}
-* Hungarian: {{t-simple|hu|megvilágítás|langname=Hungarian|interwiki=1}}, {{t-simple|hu|szemszög|langname=Hungarian}}
+* Hungarian: {{t-simple|hu|megvilágítás|langname=Hungarian|interwiki=1}}, {{t-simple|hu|szemszög|langname=Hungarian}}, {{t+|hu|szemlélet}}, {{t|hu|látásmód}}, {{t+|hu|fény}}, {{t+|hu|szín}}
 * Japanese: {{t|ja|視点|tr=してん, shiten|sc=Jpan}}, {{t+|ja|観点|tr=かんてん, kanten|sc=Jpan}}
 * Latin: {{t-simple|la|lux|g=f|langname=Latin|interwiki=1}}, {{t-simple|la|lumen|g=n|langname=Latin}}
 * Polish: {{t-simple|pl|światło|g=n|langname=Polish|interwiki=1}}
@@ -570,9 +571,10 @@ From {{inh|en|enm|light}}, {{m|enm|liht}}, {{m|enm|leoht}}, from {{inh|en|ang|l�
 
 {{trans-top|window or space for one}}
 * Finnish: {{t-simple|fi|ikkuna|langname=Finnish|interwiki=1}} {{qualifier|window}}; {{t|fi|ikkuna-aukko}} {{qualifier|space for window}}
+* Hungarian: {{t+|hu|ablaknyílás}}
 * Japanese: {{t|ja|明かり取り|tr=akari-tori|sc=Jpan}}
-* Polish: {{t-simple|pl|światło|g=m|langname=Polish|interwiki=1}}, {{t-simple|pl|okno|g=n|langname=Polish|interwiki=1}}, {{t-simple|pl|świetlik|g=m|langname=Polish|interwiki=1}}
 {{trans-mid}}
+* Polish: {{t-simple|pl|światło|g=m|langname=Polish|interwiki=1}}, {{t-simple|pl|okno|g=n|langname=Polish|interwiki=1}}, {{t-simple|pl|świetlik|g=m|langname=Polish|interwiki=1}}
 * Swahili: {{t-simple|sw|mwanga|langname=Swahili|interwiki=1}}
 * Telugu: {{t+|te|కిటికి|sc=Telu}}
 {{trans-bottom}}
@@ -606,7 +608,7 @@ From {{inh|en|enm|light}}, {{m|enm|liht}}, {{m|enm|leoht}}, from {{inh|en|ang|l�
 {{trans-top|traffic light, or an intersection controlled by one}}
 * Finnish: {{t-simple|fi|valot|p|langname=Finnish|interwiki=1}}
 {{trans-mid}}
-* Hungarian: {{t-simple|hu|lámpa|langname=Hungarian|interwiki=1}}
+* Hungarian: {{t-simple|hu|lámpa|langname=Hungarian|interwiki=1}}, {{t+|hu|jelzőlámpa}}
 {{trans-bottom}}
 
 {{checktrans-top}}
