@@ -16,7 +16,7 @@
 ==Catalan==
 
 ===Etymology===
-From {{m|ca|estudi}}.
+From {{af|ca|estudi|-ar}}.
 
 ===Pronunciation===
 * {{ca-IPA}}
@@ -41,10 +41,10 @@ From {{m|ca|estudi}}.
 ==Spanish==
 
 ===Etymology===
-From {{m|es|estudio}}, from {{etyl|la|es}} {{m|la|studium}}. Compare Latin {{m|la|studeō}}. Compare Portuguese {{m|pt|estudar}}.
+From {{af|es|estudio|-ar}}, from {{der|es|la|studium}}. Compare {{cog|la|studeō}}, {{cog|pt|estudar}}.
 
 ===Pronunciation===
-* {{IPA|[estuˈðjaɾ]|lang=es}}
+* {{es-IPA}}
 
 ===Verb===
 {{es-verb|estudi|ar}}
@@ -55,5 +55,7 @@ From {{m|es|estudio}}, from {{etyl|la|es}} {{m|la|studium}}. Compare Latin {{m|l
 {{es-conj-ar|estudi|combined=1}}
 
 ====Related terms====
-* {{l|es|estudiante}}
-* {{l|es|estudio}}
+{{rel2
+|estudiante
+|estudio
+|lang=es}}
