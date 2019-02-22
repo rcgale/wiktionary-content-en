@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|frm|en}} {{m|frm|perpendiculaire}}, from {{etyl|fro|en}} {{m|fro|perpendiculer}}, from {{etyl|la|en}} {{m|la|perpendiculum||[[plumb line]]}}.
+From {{der|en|frm|perpendiculaire}}, from {{der|en|fro|perpendiculer}}, from {{der|en|la|perpendiculum|t=[[plumb line]]}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˌpɜː.pənˈdɪk.jə.lə(ɹ)/|lang=en}} {{enPR|pû"pəndĭ'kyələ(r)}},
@@ -13,7 +13,7 @@ From {{etyl|frm|en}} {{m|frm|perpendiculaire}}, from {{etyl|fro|en}} {{m|fro|per
 ===Adjective===
 {{en-adj}}
 
-# {{lb|en|geometry}} At or forming a [[right angle]] (''to'' something).
+# {{lb|en|geometry}} at or forming a [[right angle]] (''to'' something).
 #* {{quote-journal|lang=en|date=2012-03
 |author={{w|Henry Petroski}}
 |title=Opening Doors
@@ -21,21 +21,20 @@ From {{etyl|frm|en}} {{m|frm|perpendiculaire}}, from {{etyl|fro|en}} {{m|fro|per
 |magazine=[[w:American Scientist|American Scientist]]
 |url=http://www.americanscientist.org/issues/pub/opening-doors
 |passage=A doorknob of whatever roundish shape is effectively a continuum of levers, with the axis of the latching mechanism&mdash;known as the spindle&mdash;being the fulcrum about which the turning takes place. Applying a force tangential to the knob is essentially equivalent to applying one '''perpendicular''' to a radial line defining the lever.}}
-#: ''In most houses, the walls are '''perpendicular''' to the floor''.
+#: {{ux|en|In most houses, the walls are '''perpendicular''' to the floor.}}
+#: {{syn|en|normal|orthogonal}}
 # Exactly [[upright]]; extending in a straight line toward the centre of the earth, etc.
 
-====Synonyms====
-* {{sense|forming a right angle}} {{l|en|normal}}, {{l|en|orthogonal}}
-
 ====Derived terms====
-{{der3|lang=en
+{{der3
 |perpendicularly
 |perpendicularity
 |perpendicular recording
 |perpendicularness
 |perpendicular pronoun
 |quasiperpendicular
-|perpendicular universe}}
+|perpendicular universe
+|lang=en}}
 
 ====Translations====
 {{trans-top|at or forming a right angle to}}
@@ -81,8 +80,8 @@ From {{etyl|frm|en}} {{m|frm|perpendiculaire}}, from {{etyl|fro|en}} {{m|fro|per
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|geometry}} A [[line]] or [[plane]] that is perpendicular to another.
-# A [[device]] such as a [[plumb line]] that is used in making or marking a perpendicular line.
+# {{lb|en|geometry}} a [[line]] or [[plane]] that is perpendicular to another
+# a [[device]] such as a [[plumb line]] that is used in making or marking a perpendicular line
 
 ====Translations====
 {{trans-top|line or plane}}
@@ -106,8 +105,8 @@ From {{etyl|frm|en}} {{m|frm|perpendiculaire}}, from {{etyl|fro|en}} {{m|fro|per
 
 {{trans-top|device}}
 * Dutch: {{t+|nl|schietlood|n}}
-* German: {{t|de|Bleilot|n}}, {{t+|de|Senkblei|n}}
 {{trans-mid}}
+* German: {{t|de|Bleilot|n}}, {{t+|de|Senkblei|n}}
 {{trans-bottom}}
 
 ----
@@ -115,7 +114,7 @@ From {{etyl|frm|en}} {{m|frm|perpendiculaire}}, from {{etyl|fro|en}} {{m|fro|per
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|LL.|pt}} {{m|la|perpendiculāris}}, from {{m|la|perpendiculum}}.
+From {{der|pt|LL.|perpendiculāris}}, from {{m|la|perpendiculum}}.
 
 ===Pronunciation===
 * {{a|PT}} {{IPA|/pɨɾ.pẽ.di.ku.ˈlaɾ/|lang=pt}}
@@ -124,23 +123,28 @@ From {{etyl|LL.|pt}} {{m|la|perpendiculāris}}, from {{m|la|perpendiculum}}.
 ===Adjective===
 {{pt-adj|pl=perpendiculares}}
 
-# [[#English|perpendicular]]
+# {{l|en|perpendicular}}
 
 ===Noun===
-{{pt-noun|f|pl=perpendiculares}}
+{{pt-noun|f}}
 
-# [[#English|perpendicular]]
+# {{l|en|perpendicular}}
 
 ====Derived terms====
-* {{l|pt|perpendicularmente}}
-* {{l|pt|perpendicularidade}}
+{{der2
+|perpendicularmente
+|perpendicularidade
+|lang=pt}}
 
 ----
 
 ==Spanish==
 
 ===Etymology===
-From {{etyl|LL.|es}} {{m|la|perpendiculāris}}, from {{m|la|perpendiculum}}.
+From {{der|es|LL.|perpendiculāris}}, from {{m|la|perpendiculum}}.
+
+===Pronunciation===
+* {{es-IPA}}
 
 ===Adjective===
 {{es-adj|pl=perpendiculares}}
