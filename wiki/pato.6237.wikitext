@@ -50,7 +50,7 @@ Borrowed from {{bor|ccc|es|pato}}.
 ==Chavacano==
 
 ===Etymology===
-From {{etyl|es|cbk}} {{m|es|pato||duck}}.
+From {{der|cbk|es|pato|t=duck}}.
 
 ===Noun===
 {{head|cbk|noun}}
@@ -121,9 +121,7 @@ From {{inh|fi|fiu-fin-pro|*pato}}, from {{inh|fi|fiu-pro|*padɜ}}.
 {{gl-noun|m}}
 
 # [[duck]]
-
-====Synonyms====
-* {{l|gl|parrulo}}
+#: {{syn|gl|parrulo}}
 
 [[Category:gl:Birds]]
 
@@ -155,8 +153,8 @@ From {{inh|pt|roa-opt|pato|t=duck}}, from {{der|pt|xaa|بَطّ|tr=paṭṭ}}, f
 * {{l|pt|patinho}}
 
 ====Descendants====
-* Kabuverdianu: {{l|kea|patu}}
-* Tok Pisin: {{l|tpi|pato}}
+* {{desc|kea|patu}}
+* {{desc|tpi|pato}}
 
 ----
 
@@ -186,28 +184,17 @@ Borrowed from {{bor|es|xaa|tr=páṭṭ}}, from {{der|es|ar|بَطّ|t=duck}}, f
 
 # [[duck]], [[drake]]
 #: {{syn|es|ánade}}
+#: {{hyper|es|anseriforme}}
+#: {{coordinate terms|es|ánsar|barnacla|cisne|ganso|oca|porrón|serreta}}
 # {{lb|es|vulgar|slang|Antilles|Nicaragua|Venezuela|Puerto Rico}} [[homosexual]], [[faggot]] (''see {{l|es|puto}}'')
 #: {{syn|es|marica|marico|maricón|puto}}
 
-====Hypernyms====
-* {{sense|duck}} {{l|es|anseriforme}}
-
-====Coordinate terms====
-{{sense|duck}}
-{{top3}}
-* {{l|es|ánsar}}, {{l|es|ganso}}, {{l|es|oca}}
-* {{l|es|barnacla}}
-{{mid3}}
-* {{l|es|cisne}}
-* {{l|es|porrón}}
-{{mid3}}
-* {{l|es|serreta}}
-{{bottom}}
-
 ====Derived terms====
-* {{l|es|patoso}}
-* {{l|es|patudo}}
-* {{sense|diminutives}} {{l|es|patito}}, {{l|es|patico}}
+{{der3
+|{{l|es|patoso}}
+|{{l|es|patudo}}
+|{{l|es|patito}}, {{l|es|patico|pos=diminutives}}
+|lang=es}}
 
 ===See also===
 {{top4}}
@@ -248,7 +235,7 @@ Borrowed from {{bor|tl|es|pato|t=duck}}.
 ===Noun===
 {{tl-noun}}
 
-# [[duck#English|Duck]] (animal).
+# {{l|en|duck}} {{q|animal}}
 
 ====Related terms====
 * {{l|tl|bibe}}
