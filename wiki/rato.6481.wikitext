@@ -74,10 +74,7 @@
 {{it-adj|rat|o|a|i|e}}
 
 # [[valid]], [[ratified]], [[approved]]
-
-====Antonyms====
-* {{l|it|irrito}}
-* {{l|it|invalido}}
+#: {{ant|it|invalido|irrito}}
 
 ----
 
@@ -101,7 +98,7 @@
 ==Old High German==
 
 ===Etymology===
-See German {{m|de|Ratte}}.
+See {{cog|de|Ratte}}.
 
 ===Noun===
 {{goh-noun|m}}
@@ -109,8 +106,8 @@ See German {{m|de|Ratte}}.
 # [[rat]]
 
 ====Descendants====
-* Middle High German: {{l|gmh|ratte}}
-** German: {{l|de|Ratte}}
+* {{desc|gmh|ratte}}
+** {{desc|de|Ratte}}
 
 ----
 
@@ -121,23 +118,21 @@ See German {{m|de|Ratte}}.
 * {{a|PT|Brazil}} {{IPA|/ˈʁa.tu/|lang=pt}}
 
 ===Etymology 1===
-From {{etyl|VL.|pt}} {{m|la|rattus||rat}}, of Germanic origin. Cognate to Galician {{m|gl|rato}} and Spanish {{m|es|ratón}}. Mostly displaced Old Portuguese {{m|roa-opt|mur}}.
+From {{der|pt|VL.|rattus|t=rat}}, of {{der|pt|gem}} origin. Cognate to {{cog|gl|rato}} and {{cog|es|ratón}}. Mostly displaced {{cog|roa-opt|mur}}.
 
 ====Alternative forms====
-* {{l|pt|ratto}} {{qualifier|obsolete}}
+* {{alter|pt|ratto||obsolete}}
 
 ====Noun====
 {{pt-noun|m|f=rata}}
 
 # {{l|en|rat}} {{gloss|any rodent of the genus ''Rattus''}}
 # {{l|en|mouse}} {{gloss|any rodent of the genus ''Mus''}}
+#: {{syn|pt|camundongo|q1=Brazil}}
 # {{lb|pt|computer hardware|Portugal}} {{l|en|mouse}} {{gloss|input device used to move a pointer on the screen}}
+#: {{syn|pt|mouse|q1=Brazil}}
 # {{l|en|burglar}}; petty {{l|en|thief}} {{gloss|person who steals small objects}}
-
-=====Synonyms=====
-* {{sense|rodent of the genus ''Mus''}} {{l|pt|camundongo}} {{qualifier|Brazil}}
-* {{sense|computer mouse}} {{l|pt|mouse}} {{qualifier|Brazil}}
-* {{sense|thief}} {{l|pt|ladrão}}, {{l|pt|gatuno}}
+#: {{syn|pt|gatuno|ladrão}}
 
 =====Derived terms=====
 * {{l|pt|ratão}}, {{l|pt|ratazana}} {{qualifier|augmentatives}}
@@ -145,14 +140,13 @@ From {{etyl|VL.|pt}} {{m|la|rattus||rat}}, of Germanic origin. Cognate to Galici
 {{der3|lang=pt|arroz-de-rato|jogo de gato e rato|ninho de rato|orelha-de-rato|rato almiscareiro|rato-do-campo|rato-toupeira|rato-veadeiro|rato de biblioteca}}
 
 ===Etymology 2===
+{{rfe|lang=pt}}
 
 ====Noun====
 {{pt-noun|m}}
 
 # {{lb|pt|Trás-os-Montes}} {{l|en|while}} {{gloss|a very short period of time}}
-
-=====Synonyms=====
-* {{l|pt|bocado}}, {{l|pt|pouco}}
+#: {{syn|pt|bocado|pouco}}
 
 {{topics|pt|Rodents}}
 
@@ -161,35 +155,35 @@ From {{etyl|VL.|pt}} {{m|la|rattus||rat}}, of Germanic origin. Cognate to Galici
 ==Spanish==
 
 ===Pronunciation===
-* {{IPA|[ˈra̠.to̞]|lang=es}}
+* {{es-IPA}}
 
 ===Etymology 1===
-From {{etyl|la|es}} {{m|la|raptus}}
+From {{der|es|la|raptus}}.
 
 ====Noun====
 {{es-noun|m}}
 
-# a [[while]], a short period of time.
+# a [[while]] {{gloss|a short period of time}}
 
 =====Derived terms=====
-* {{sense|diminutive}} [[ratito]]
-* [[a cada rato]]
-* [[al poco rato]]
-* [[buen rato]]
-* [[mal rato]]
-* [[rato perdido]]
+{{der3
+|{{l|es|ratito|pos=diminutive}}
+|{{l|es|a cada rato}}
+|{{l|es|al poco rato}}
+|{{l|es|buen rato}}
+|{{l|es|mal rato}}
+|{{l|es|rato perdido}}
+|lang=es}}
 
 ===Etymology 2===
-From {{m|es|rata}}, this from {{etyl|gem|es}}.
+From {{m|es|rata}}, this from {{der|es|gem}}.
 
 ====Noun====
 {{es-noun|m|f=rata}}
 
 # male [[rat]]
 # [[mouse]]
-
-=====Synonyms=====
-* {{sense|mouse}} [[ratón]]
+#: {{syn|es|ratón}}
 
 [[Category:Spanish terms with multiple etymologies]]
 [[Category:es:Time]]
