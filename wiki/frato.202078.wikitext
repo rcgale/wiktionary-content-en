@@ -4,10 +4,7 @@
 From {{etyl|la|eo}} {{m|la|frater}}, from {{etyl|ine-pro|eo}} {{m|ine-pro|*bʰréh₂tēr}}.
 
 ===Pronunciation===
-* {{IPA|/ˈfrato/|lang=eo}}
-* {{audio|Eo-frato.ogg|Audio|lang=eo}}
-* {{hyphenation|fra|to|lang=eo}}
-* {{rhymes|ato|lang=eo}}
+{{eo-IPA|a=Eo-frato.ogg}}
 
 ===Noun===
 {{eo-head}}
@@ -16,17 +13,13 @@ From {{etyl|la|eo}} {{m|la|frater}}, from {{etyl|ine-pro|eo}} {{m|ine-pro|*bʰr�
 #* '''1910''', L. L. Zamenhof, "[https://eo.wikiquote.org/wiki/Zamenhofa_proverbaro Proverbaro Esperanta]":
 #*: Kiam '''fratoj''' batalas, fremdulo ne eniĝu.
 #*:: When brothers fight, outsiders shouldn't get involved.
+#: {{hyper|eo|gefrato}}
+#: {{coordinate terms|eo|fratino}}
 # {{lb|eo|nonstandard}} [[sibling]]
-
-====Hypernyms====
-* {{l|eo|gefrato|gloss=[[sibling]]}}
-
-====Coordinate terms====
-* {{l|eo|fratino|gloss=[[sister]]}}
+#: {{syn|eo|gefrato}}
 
 ====Derived terms====
-* {{l|eo|frateco}}
-* {{l|eo|fratiĉo}}
+{{der2|lang=eo|frateco|fratiĉo}}
 
 {{eo BRO|3}}
 
@@ -38,7 +31,10 @@ From {{etyl|la|eo}} {{m|la|frater}}, from {{etyl|ine-pro|eo}} {{m|ine-pro|*bʰr�
 ==Ido==
 
 ===Etymology===
-From {{etyl|eo|io}} {{m|eo|frato||brother, sibling}}, from {{etyl|la|io}} {{m|la|frater}}, from {{etyl|ine-pro|io}} {{m|ine-pro|*bʰréh₂tēr}}.
+From {{der|io|eo|frato|t=brother, sibling}}, from {{der|io|la|frater}}, from {{der|io|ine-pro|*bʰréh₂tēr}}.
+
+===Pronunciation===
+* {{io-IPA}}
 
 ===Noun===
 {{io-noun|frat}}
@@ -46,8 +42,10 @@ From {{etyl|eo|io}} {{m|eo|frato||brother, sibling}}, from {{etyl|la|io}} {{m|la
 # [[sibling]]
 
 ====Derived terms====
-* {{l|io|fratala}}, {{l|io|fratatra||brotherly, fraternal}}
-* {{l|io|fratulo||brother}}
-* {{l|io|fratino||sister}}
+{{der3
+|{{l|io|fratala}}, {{l|io|fratatra|t=brotherly, fraternal}}
+|{{l|io|fratulo|t=brother}}
+|{{l|io|fratino|t=sister}}
+|lang=io}}
 
 [[Category:io:Family]]
