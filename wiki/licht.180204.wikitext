@@ -80,7 +80,7 @@ From {{inh|nl|dum|licht}}, from {{inh|nl|odt|lieht}}, from {{inh|nl|gem-pro|*leu
 ==German==
 
 ===Etymology===
-From {{etyl|gmh|de}} {{m|gmh|liecht}}, from {{etyl|goh|de}} {{m|goh|lioht}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*leuhtaz}}, ultimately from the {{etyl|ine-pro|de}} root {{m|ine-pro|*lewk-}}. Compare Dutch {{m|nl|licht}}, English ''[[light]]''.
+From {{inh|de|gmh|liecht}}, from {{inh|de|goh|lioht}}, from {{inh|de|gem-pro|*leuhtaz}}, from {{der|de|ine-pro|*lewk-}}. Compare {{cog|nl|licht}}, {{cog|en|light}}.
 
 ===Pronunciation===
 * {{audio|De-at-Licht.ogg|audio (Austria)|lang=de}}
@@ -89,14 +89,17 @@ From {{etyl|gmh|de}} {{m|gmh|liecht}}, from {{etyl|goh|de}} {{m|goh|lioht}}, fro
 * {{rhymes|ɪçt|lang=de}}
 
 ===Adjective===
-{{head|de|adjective}}
+{{de-adjective}}
 
 # [[light]], [[bright]] (luminescent)
 # [[unobstructed]], [[clear]]
-#: ''Du hast da eine '''lichte''' Stelle.'' - You have an almost bald spot.
+#: {{ux|de|Du hast da eine '''lichte''' Stelle.|You have an almost bald spot.}}
+
+====Declension====
+{{de-decl-adj}}
 
 ====Related terms====
-* [[Licht]] {{g|n}}
+* {{l|de|Licht|g=n}}
 
 ===Further reading===
 * {{R:Duden}}
@@ -106,7 +109,7 @@ From {{etyl|gmh|de}} {{m|gmh|liecht}}, from {{etyl|goh|de}} {{m|goh|lioht}}, fro
 ==Hunsrik==
 
 ===Etymology===
-From {{etyl|goh|hrx}} {{m|goh|lioht}}, from {{etyl|gem-pro|hrx}} {{m|gem-pro|*leuhtą}}, from {{etyl|ine-pro|hrx}} {{m|ine-pro|*lewk-||bright, to shine, to see}}.
+From {{inh|hrx|goh|lioht}}, from {{inh|hrx|gem-pro|*leuhtą}}, from {{der|hrx|ine-pro|*lewk-||bright, to shine, to see}}.
 
 ===Pronunciation===
 * {{IPA|/lɪxt/|lang=hrx}}
@@ -116,8 +119,7 @@ From {{etyl|goh|hrx}} {{m|goh|lioht}}, from {{etyl|gem-pro|hrx}} {{m|gem-pro|*le
 
 # [[light]]
 #* Bible, Genesis 1:5
-#*: Kot hot es '''licht''' "taach" kenënt un tii tunkelheet "naacht" kenënt.
-#*:: God called the '''light''' "day", and the darkness he called "night".
+#*: {{quote|hrx|Kot hot es '''licht''' "taach" kenënt un tii tunkelheet "naacht" kenënt.|God called the '''light''' "day", and the darkness he called "night".}}
 
 ====Antonyms====
 * {{l|hrx|tunkelheet}}
