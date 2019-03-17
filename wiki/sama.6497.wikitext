@@ -56,7 +56,7 @@ Borrowed from {{bor|eo|en|same}}.
 ==Estonian==
 
 ===Etymology===
-From {{etyl|gem-pro|et}} {{m|gem-pro|*samaz}}, cognates include English [[same]] and Swedish [[samma]].
+From {{der|et|gem-pro|*samaz}}. Cognates include {{cog|en|same}} and {{cog|sv|samma}}.
 
 ===Pronoun===
 {{head|et|pronoun}}
@@ -122,8 +122,7 @@ From {{der|fi|gem-pro|*samaz}}; compare {{cog|se|seamma}}.
 {{head|is|adverb}}
 
 # [[indifferently]]
-#: ''Mér er '''sama'''.''
-#:: I don't '''care'''.
+#: {{uxi|is|Mér er '''sama'''.|I don't '''care'''.}}
 
 ====See also====
 * {{l|is|ég prútta ekki um það}}
@@ -150,22 +149,24 @@ From {{der|fi|gem-pro|*samaz}}; compare {{cog|se|seamma}}.
 ==Indonesian==
 
 ===Etymology===
-From {{etyl|sa|id}} {{m|sa|सम||same, equal}}
+From {{inh|id|ms|sama}}, from {{der|id|sa|सम||same, equal}}, from {{der|id|inc-pro|*samás}}, from {{der|id|iir-pro|*samás}}, from {{der|id|ine-pro|*somHós||same}}.
 
 ===Adjective===
 {{head|id|adjective}}
 
 # [[same]]
-#: [[kedua|Kedua]] [[garis]] L [[dan]] M [[adalah]] '''sama''' [[panjang]].
-#:: Both lines L and M are of the '''same''' [[length]].
+#: {{ux|id|[[kedua|Kedua]] [[garis]] L [[dan]] M [[adalah]] '''sama''' [[panjang]].|Both lines L and M are of the '''same''' length.}}
 # [[equal]]
-#: [[massa|Massa]] A [[adalah]] <u>'''sama''' [[dengan]]</u> [[massa]] B.
-#:: [[mass|Mass]] of A is <u>'''equal''' to</u> mass of B.
-# [[with]]
-# [[together]]
+#: {{ux|id|[[massa|Massa]] A [[adalah]] <u>'''sama''' [[dengan]]</u> [[massa]] B.|[[mass|Mass]] of A is <u>'''equal''' to</u> mass of B.}}
 
 ====Derived terms====
-* {{l|id|sama-sama}}
+{{id-der|lang=id|420|340:[[together]]|310+222|310+221|210+31|210+310+221|21+31|40|131}}
+
+===Anagrams===
+* {{anagrams|id|a=aams|masa}}
+
+===Further reading===
+* {{R:KBBI Daring}}
 
 ----
 
@@ -211,7 +212,7 @@ From {{etyl|sa|id}} {{m|sa|सम||same, equal}}
 ==Livonian==
 
 ===Etymology===
-Borrowing from a Slavic language, compare Croatian ''[[som]]''.
+Borrowing from a {{bor|liv|sla}} language, compare {{cog|sh|som}}.
 
 ===Noun===
 {{head|liv|noun}}
@@ -222,19 +223,36 @@ Borrowing from a Slavic language, compare Croatian ''[[som]]''.
 
 ==Malay==
 
+===Etymology===
+From {{der|ms|sa|सम||same, equal}}, from {{der|ms|inc-pro|*samás}}, from {{der|ms|iir-pro|*samás}}, from {{der|ms|ine-pro|*somHós||same}}.
+
+===Pronunciation===
+* {{a|Johor-Selangor}} {{IPA|/sa.mə/|lang=ms}}
+* {{a|Riau-Lingga}} {{IPA|/sa.ma/|lang=ms}}
+* {{rhymes|amə|lang=ms}}
+
 ===Adjective===
-{{head|ms|adjective}}
+{{ms-adj|j=سام}}
 
 # [[same]]
-#: ''Bajunya '''sama''' dengan baju saya.''
-#:: His shirt is the same as mine.
+#: {{ux|ms|Bajunya '''sama''' dengan baju saya.|His shirt is the '''same''' as mine.}}
 # [[equal]]
-#: ''Dua kali dua '''sama''' dengan empat.''
-#:: 2 multiplied by 2 equals 4.
-# [[with]]
-#: ''Marilah main '''sama''' kami.''
-#:: Come play with us.
-# [[together]]
+#: {{ux|ms|Dua kali dua '''sama''' dengan empat.|2 multiplied by 2 '''equals''' 4.}}
+# {{lb|ms|informal}} [[with]]
+#: {{ux|ms|Marilah main '''sama''' kami.|Come play '''with''' us.}}
+
+====Synonyms====
+* {{sense|with}} {{l|ms|dengan}}
+
+====Derived terms====
+{{ms-der|131|420|340:[[together]]|310+222|310+221|210+310+221|40|210+31|21+31|21|ketidaksamaan}}
+
+===Anagrams===
+* {{anagrams|ms|a=aams|masa}}
+
+===Further reading===
+* {{R:KD4}}
+* {{R:PRPM}}
 
 ----
 
@@ -314,16 +332,18 @@ From {{inh|osx|gem-pro|*samaz||same}}
 
 ===Noun===
 {{head|tl|noun}}
+
 # act of [[accompaniment]]
 
-==== Derived terms ====
+====Derived terms====
 {{der3|lang=tl|samahan|kasama|isama|sumama|}}
 
 ===Noun===
 {{head|tl|noun}}
+
 # relating to being bad
 
-==== Derived terms ====
+====Derived terms====
 {{der3|lang=tl|masama|sumama|masamain|}}
 
 ----
