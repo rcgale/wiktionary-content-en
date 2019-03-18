@@ -1,8 +1,8 @@
-{{also|-metric}}
+{{also|-metric|mètric}}
 ==English==
 
 ===Etymology===
-From {{etyl|fr|en}} ''[[métrique]]'' (1864), from {{etyl|NL.|en}} {{m|la|metricus||pertaining to the system based on the meter}}, from {{m|la|metrum||a meter}}; see {{m|en|meter}}.
+From {{der|en|fr|métrique}} (1864), from {{der|en|NL.|metricus||pertaining to the system based on the meter}}, from {{m|la|metrum||a meter}}; see {{m|en|meter}}.
 
 ===Pronunciation===
 * {{IPA|/ˈmɛt.ɹɪk/|lang=en}}
@@ -11,9 +11,9 @@ From {{etyl|fr|en}} ''[[métrique]]'' (1864), from {{etyl|NL.|en}} {{m|la|metric
 ===Adjective===
 {{en-adj|-}}
 
-# of or relating to the [[metric system]] of [[measurement]]
-# {{lb|en|music}} of or relating to the [[meter]] of a piece of music.
-# {{lb|en|mathematics|physics}} of or relating to [[distance]]
+# Of or relating to the [[metric system]] of [[measurement]].
+# {{lb|en|music}} Of or relating to the [[meter]] of a piece of music.
+# {{lb|en|mathematics|physics}} Of or relating to [[distance]].
 
 ====Derived terms====
 {{der4
@@ -35,10 +35,11 @@ From {{etyl|fr|en}} ''[[métrique]]'' (1864), from {{etyl|NL.|en}} {{m|la|metric
 {{trans-top|relating to metric system}}
 * Afrikaans: {{t|af|metriek}}
 * Catalan: {{t|ca|mètric}}
-* Czech: {{t+|cs|metrický|m}}
+* Czech: {{t+|cs|metrický}}
 * Dutch: {{t+|nl|metriek}}
 * Finnish: {{t|fi|metrinen}}
 * French: {{t+|fr|métrique}}
+* Galician: {{t|gl|métrico}}
 * German: {{t+|de|metrisch}}
 * Greek: {{t+|el|μετρικός}}
 * Hebrew: {{t+|he|מֶטְרִי|m|tr=metri}}
@@ -47,12 +48,12 @@ From {{etyl|fr|en}} ''[[métrique]]'' (1864), from {{etyl|NL.|en}} {{m|la|metric
 * Italian: {{t|it|metrico}}
 {{trans-mid}}
 * Latin: {{t|la|metricus}}
-* Macedonian: {{t+|mk|ме́трички|m}}
+* Macedonian: {{t+|mk|ме́трички}}
 * Norwegian:
 *: Bokmål: {{t+|nb|metrisk}}
 *: Nynorsk: {{t|nn|metrisk}}
 * Polish: {{t|pl|metryczny}}
-* Portuguese: {{t+|pt|métrico|m}}
+* Portuguese: {{t+|pt|métrico}}
 * Romanian: {{t+|ro|metric}}
 * Russian: {{t+|ru|метри́ческий}}
 * Spanish: {{t+|es|métrico}}
@@ -80,7 +81,7 @@ From {{etyl|fr|en}} ''[[métrique]]'' (1864), from {{etyl|NL.|en}} {{m|la|metric
 ===Noun===
 {{en-noun|s|es}}
 
-# A [[measure]] for something; a means of deriving a [[quantitative]] [[measurement]] or [[approximation]] for otherwise [[qualitative]] [[phenomena]] (especially used in engineering)
+# A [[measure]] for something; a means of deriving a [[quantitative]] [[measurement]] or [[approximation]] for otherwise [[qualitative]] [[phenomena]] (especially used in engineering).
 #* {{quote-journal|lang=en|date=April 10 2011|magazine=Financial Times|passage=As for the large number of official statements that Spain is safe, I think they are merely a '''metric''' of the complacency that has characterised the European crisis from the start.}}
 #* {{quote-journal|lang=en|date=2013-08-03|volume=408|issue=8847|magazine={{w|The Economist}}
 |title=Boundary problems|url=http://www.economist.com/news/finance-and-economics/21582498-america-has-changed-way-it-measures-gdp-boundary-problems|passage=Economics is a messy discipline: too fluid to be a science, too rigorous to be an art. Perhaps it is fitting that economists’ most-used '''metric''', gross domestic product (GDP), is a tangle too. GDP measures the total value of output in an economic territory. Its apparent simplicity explains why it is scrutinised down to tenths of a percentage point every month.}}
@@ -91,7 +92,7 @@ From {{etyl|fr|en}} ''[[métrique]]'' (1864), from {{etyl|NL.|en}} {{m|la|metric
 #: {{ux|en|There is a lack of standard '''metrics'''.}}
 # {{lb|en|mathematics}} A measurement of the "distance" between two points in some [[metric space]]: it is a [[real-valued]] [[function]] ''d''(''x'',''y'') between points ''x'' and ''y'' satisfying the following properties: (1) "non-negativity": <math> d(x,y) \ge 0 </math>, (2) "identity of indiscernibles": <math> d(x,y) = 0 \mbox{ iff } x=y </math>, (2) "[[symmetric|symmetry]]": <math> d(x,y) = d(y,x) </math>, and (3) "[[triangle inequality]]": <math> d(x,y) \le d(x,z) + d(z,y) </math>.
 #* {{quote-book|lang=en|title=Riemannian Metrics of Constant Mass and Moduli Spaces of Conformal Structures|author=Lutz Habermann|year=2000|passage=As we shall see, these '''metrics''' are constructed from a Green function.|url=https://books.google.com/books?id=XAhrmyoIkLoC&lpg=PA11&dq=%22metrics%22%20%22function%22&pg=PA11#v=onepage&q=%22metrics%22%20%22function%22&f=false}}
-# {{lb|en|mathematics}} a [[metric tensor]]
+# {{lb|en|mathematics}} A [[metric tensor]].
 # {{abbreviation of|metric system|lang=en}}
 
 ====Synonyms====
