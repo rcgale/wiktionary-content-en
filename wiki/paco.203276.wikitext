@@ -45,7 +45,7 @@ From {{der|eo|la|pāx|t=peace}}.
 {{io-bor|eo=paco|peace|paix||pace||paz|nodot=1}}, ultimately from {{der|io|la|pāx}}.
 
 ===Pronunciation===
-* {{IPA|lang=io|/ˈpa.t͡so/}}
+* {{IPA|/ˈpa.t͡so/|lang=io}}
 
 ===Noun===
 {{io-head|-}}
@@ -53,9 +53,7 @@ From {{der|eo|la|pāx|t=peace}}.
 # {{l|en|peace}}
 
 ====Derived terms====
-* {{l|io|pacala}}
-* {{l|io|pacema}}
-* {{l|io|pacoza}}
+{{der3|lang=io|pacala|pacema|pacoza}}
 
 ----
 
@@ -67,15 +65,14 @@ From {{der|eo|la|pāx|t=peace}}.
 # {{inflection of|pacare||1|s|pres|indc|lang=it}}
 
 ===Anagrams===
-* [[capo#Italian|capo]]
-* [[poca#Italian|poca]]
+* {{anagrams|it|capo|poca}}
 
 ----
 
 ==Latin==
 
 ===Etymology===
-From {{m|la|pāx||peace}}.
+From {{m|la|pāx|t=peace}}.
 
 ===Pronunciation===
 * {{la-IPA|pācō}}
@@ -83,41 +80,36 @@ From {{m|la|pāx||peace}}.
 ===Verb===
 {{la-verb|pācō|pācāre|pācāvī|pācātum|conj=1}}
 
-# I make [[peaceful]], [[pacify]], [[quiet]], [[soothe]]; [[subdue]].
-# {{lb|la|Late or Medieval Latin}} I [[settle]], [[satisfy]].
+# I make [[peaceful]], [[pacify]], [[quiet]], [[soothe]]; [[subdue]]
+#: {{syn|la|pācificō}}
+# {{lb|la|Late or Medieval Latin}} I [[settle]], [[satisfy]]
 
 ====Inflection====
 {{la-conj-1st|pāc|pācāv|pācāt}}
 
-====Synonyms====
-* {{sense|pacify}} {{l|la|pācificō}}
-
 ====Derived terms====
-{{top2}}
-* {{l|la|compaco|compācō}}
-* {{l|la|pacate|pācātē}}
-* {{l|la|pacatio|pācātiō}}
-* {{l|la|pacator|pācātor}}
-{{mid2}}
-* {{l|la|pacatum|pācātum}}
-* {{l|la|pacatus|pācātus}}
-* {{l|la|perpaco|perpācō}}
-{{bottom}}
+{{der4
+|compācō
+|pācātē
+|pācātiō
+|pācātor
+|pācātum
+|pācātus
+|perpācō
+|lang=la}}
 
 ====Related terms====
-{{top2}}
-* {{l|la|pacalis|pācālis}}
-* {{l|la|pacatorius|pācātōrius}}
-* {{l|la|pacifer|pācifer}}
-* {{l|la|pacificatio|pācificātiō}}
-* {{l|la|pacificator|pācificātor}}
-{{mid2}}
-* {{l|la|pacifice|pācificē}}
-* {{l|la|pacifico|pācificō}}
-* {{l|la|pacificus|pācificus}}
-* {{l|la|paco|pācō}}
-* {{l|la|pax|pāx}}
-{{bottom}}
+{{rel3
+|pācālis
+|pācātōrius
+|pācifer
+|pācificātiō
+|pācificātor
+|pācificē
+|pācificō
+|pācificus
+|pāx
+|lang=la}}
 
 ====Descendants====
 * {{desc|dlm|pacur}}
@@ -164,6 +156,9 @@ From {{m|la|pāx||peace}}.
 ----
 
 ==Spanish==
+
+===Pronunciation===
+* {{es-IPA}}
 
 ===Etymology 1===
 {{bor|es|qu|p'aqu||rojizo}}
