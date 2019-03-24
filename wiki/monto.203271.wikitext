@@ -2,40 +2,37 @@
 ==Esperanto==
 
 ===Etymology===
-{{etyl|la|eo}} {{m|la|mons|mōns, montis}}.
+From {{der|eo|la|mons|mōns, montis}}.
 
 ===Pronunciation===
-* {{audio|Eo-monto.ogg|Audio|lang=eo}}
 * {{IPA|/ˈmonto/|lang=eo}}
 * {{hyphenation|mon|to|lang=eo}}
+* {{rhymes|onto|lang=eo}}
+* {{audio|Eo-monto.ogg|Audio|lang=eo}}
 
 ===Noun===
 {{eo-head}}
 
 # {{lb|eo|geography}} [[mountain]], [[hill]]
-#: Moseo renkontis Dion sur '''monto''' kie li ricevis la Dekalogon.
-#: ''Moses encountered God on a mountain where he received the Ten Commandments''
+#: {{uxi|eo|Moseo renkontis Dion sur '''monto''' kie li ricevis la Dekalogon.|Moses encountered God on a mountain where he received the Ten Commandments.}}
 
 ====Derived terms====
-{{top3}}
-* {{l|eo|antaŭmontoj||foothills}}
-* {{l|eo|montodeklivo}}
-* {{l|eo|montoflanko}}
-* {{l|eo|monta}}
-{{mid3}}
-* {{l|eo|montarano}}
-* {{l|eo|montaro}}
-* {{l|eo|montego}}
-* {{l|eo|monteto}}
-{{mid3}}
-* {{l|eo|montspino}}, {{l|eo|montkresto}}, {{l|eo|montodorso}}
-* {{l|eo|montopasejo}}
-* {{l|eo|montopinto}}
-{{bottom}}
+{{der4
+|{{l|eo|antaŭmontoj|t=foothills}}
+|{{l|eo|montodeklivo}}
+|{{l|eo|montoflanko}}
+|{{l|eo|monta}}
+|{{l|eo|montarano}}
+|{{l|eo|montaro}}
+|{{l|eo|montego}}
+|{{l|eo|monteto}}
+|{{l|eo|montspino}}, {{l|eo|montkresto}}, {{l|eo|montodorso}}
+|{{l|eo|montopasejo}}
+|{{l|eo|montopinto}}
+|lang=eo}}
 
 ====Related terms====
-* {{l|eo|alpinismo}}
-* {{l|eo|alpinisto}}
+{{rel2|lang=eo|alpinismo|alpinisto}}
 
 {{eo BRO|3}}
 
@@ -66,7 +63,10 @@ From {{m|gl|monte|t=hill, mount}}.
 ==Ido==
 
 ===Etymology===
-{{etyl|eo|io}}, from {{etyl|la|io}} {{m|la|mons|mōns, montis}}.
+{{io-bor|eo=monto|nodot=1}}, from {{der|io|la|mons|mōns, montis}}.
+
+===Pronunciation===
+{{io-IPA}}
 
 ===Noun===
 {{io-noun|mont}}
@@ -78,7 +78,7 @@ From {{m|gl|monte|t=hill, mount}}.
 ==Istriot==
 
 ===Etymology===
-From {{etyl|la|ist}} {{m|la|mōns}}, ''mōntem''.
+From {{der|ist|la|mōns}}, ''mōntem''.
 
 ===Noun===
 {{head|ist|noun|g=m}}
@@ -104,18 +104,27 @@ From {{etyl|la|ist}} {{m|la|mōns}}, ''mōntem''.
 ===Verb===
 {{head|pt|verb form}}
 
-# {{inflection of|montar||1|s|pres|indc|lang=pt}}
+# {{pt-verb-form-of|montar}}
 
 ----
 
 ==Spanish==
 
-===Verb===
-{{head|es|verb form}}
+===Pronunciation===
+* {{es-IPA}}
 
-# {{es-verb form of|person=first-person|number=singular|tense=present|mood=indicative|ending=er|montar}}
+===Etymology 1===
+{{rfe|lang=es}}
 
-===Noun===
+====Noun====
 {{es-noun|m}}
 
 # [[amount]]
+
+===Etymology 2===
+{{nonlemma}}
+
+====Verb====
+{{head|es|verb form}}
+
+# {{es-verb form of|person=first-person|number=singular|tense=present|mood=indicative|ending=er|montar}}
