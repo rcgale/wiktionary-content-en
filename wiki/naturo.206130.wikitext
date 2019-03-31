@@ -1,10 +1,7 @@
 ==Esperanto==
 
 ===Pronunciation===
-* {{IPA|/naˈturo/|lang=eo}}
-* {{audio|Eo-naturo.ogg|Audio|lang=eo}}
-* {{hyphenation|na|tu|ro|lang=eo}}
-* {{rhymes|uro|lang=eo}}
+{{eo-IPA|a=Eo-naturo.ogg}}
 
 ===Noun===
 {{eo-head}}
@@ -20,7 +17,10 @@
 ==Ido==
 
 ===Etymology===
-Borrowed from {{bor|io|eo|naturo}}, from {{bor|io|en|nature}}, {{bor|io|fr|nature}}, {{bor|io|de|Natur}}, {{bor|io|it|natura}}, {{bor|io|pt|natureza}}, {{bor|io|es|naturaleza}}, all ultimately from {{der|io|la|natura}}.
+{{io-bor|eo=naturo|nature|nature|Natur|natura||naturaleza|nodot=1}}, all ultimately from {{der|io|la|natura}}.
+
+===Pronunciation===
+{{io-IPA}}
 
 ===Noun===
 {{io-noun|natur}}
@@ -28,11 +28,13 @@ Borrowed from {{bor|io|eo|naturo}}, from {{bor|io|en|nature}}, {{bor|io|fr|natur
 # [[nature]]
 
 ====Derived terms====
-* {{l|io|naturala|gloss=natural}}
-* {{l|io|naturale|gloss=naturally}}
-* {{l|io|naturaleso|gloss=naturalness}}
-* {{l|io|naturalismo|gloss=naturalism}}
-* {{l|io|naturalisto|gloss=naturalist}}
+{{der3
+|{{l|io|naturala|t=natural}}
+|{{l|io|naturale|t=naturally}}
+|{{l|io|naturaleso|t=naturalness}}
+|{{l|io|naturalismo|t=naturalism}}
+|{{l|io|naturalisto|t=naturalist}}
+|lang=io}}
 
 [[Category:io:Nature]]
 
