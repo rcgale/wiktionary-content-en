@@ -11,7 +11,7 @@
 ==Esperanto==
 
 ===Etymology===
-From {{der|eo|fr|nom}}, {{der|eo|it|nome}}, {{der|eo|pt|nome}}, {{der|eo|es|nombre}}, from {{der|eo|la|nōmen}}. Ultimately derived from {{der|eo|ine-pro|*h₁nómn̥||name}}. Similar forms also appear in other major Indo-European languages, e.g. English {{m|en|name}}, German {{m|de|Name}}, Hindi {{m|hi|नाम}}, and in non-Indo-European languages, e.g. Finnish {{m|fi|nimi}}, Indonesian {{m|id|nama}}, Japanese {{m|ja|なまえ|tr=namae}}.
+From {{der|eo|fr|nom}}, {{der|eo|it|nome}}, {{der|eo|pt|nome}}, {{der|eo|es|nombre}}, from {{der|eo|la|nōmen}}. Ultimately derived from {{der|eo|ine-pro|*h₁nómn̥||name}}. Similar forms also appear in other major Indo-European languages, e.g. English {{cog|en|name}}, German {{cog|de|Name}}, Hindi {{cog|hi|नाम}}, and in non-Indo-European languages, e.g. Finnish {{cog|fi|nimi}}, Indonesian {{cog|id|nama}}, Japanese {{cog|ja|なまえ|tr=namae}}.
 
 ===Pronunciation===
 * {{IPA|/ˈnomo/|lang=eo}}
@@ -22,24 +22,24 @@ From {{der|eo|fr|nom}}, {{der|eo|it|nome}}, {{der|eo|pt|nome}}, {{der|eo|es|nomb
 {{eo-head}}
 
 # [[name]]
-#: {{ux|eo|Mia '''nomo''' estas Aleksandro. Kio estas via '''nomo'''?|inline=1|My '''name''' is Alexander. What is your '''name'''?}}
+#: {{uxi|eo|Mia '''nomo''' estas Aleksandro. Kio estas via '''nomo'''?|My '''name''' is Alexander. What is your '''name'''?}}
 
 ====Derived terms====
-{{der3|lang=eo
-|{{l|eo|alnomo||nickname; surname; cognomen}}
-|{{l|eo|antaŭnomo||first name, forename}}
-|{{l|eo|baptonomo||[[Christian name]]}}
-|{{l|eo|familinomo||[[family name]]}}
-|{{l|eo|kaŝnomo||name used to hide one's identity, [[pseudonym]]}}
-|{{l|eo|kromnomo||[[cognomen]]}}
-|{{l|eo|moknomo||a derogatory nickname}}
-|{{l|eo|[[neformala]] [[nomo]]||informal name, [[nickname]]}}
-|{{l|eo|nomi||to name something}}
-|{{l|eo|patronomo||[[patronym]]}}
-|{{l|eo|samnoma||having the same name, [[homonymous]]}}
-|{{l|eo|sennoma||nameless}}
-|{{l|eo|ŝercnomo||a joking nickname}}
-}}
+{{der3
+|{{l|eo|alnomo|t=nickname; surname; cognomen}}
+|{{l|eo|antaŭnomo|t=first name, forename}}
+|{{l|eo|baptonomo|t=[[Christian name]]}}
+|{{l|eo|familinomo|t=[[family name]]}}
+|{{l|eo|kaŝnomo|t=name used to hide one's identity, [[pseudonym]]}}
+|{{l|eo|kromnomo|t=[[cognomen]]}}
+|{{l|eo|moknomo|t=a derogatory nickname}}
+|{{l|eo|[[neformala]] [[nomo]]|t=informal name, [[nickname]]}}
+|{{l|eo|nomi|t=to name something}}
+|{{l|eo|patronomo|t=[[patronym]]}}
+|{{l|eo|samnoma|t=having the same name, [[homonymous]]}}
+|{{l|eo|sennoma|t=nameless}}
+|{{l|eo|ŝercnomo|t=a joking nickname}}
+|lang=eo}}
 
 {{eo BRO|2}}
 {{Universala Vortaro}}
@@ -51,7 +51,7 @@ From {{der|eo|fr|nom}}, {{der|eo|it|nome}}, {{der|eo|pt|nome}}, {{der|eo|es|nomb
 ==Ido==
 
 ===Etymology===
-From {{suffix|io|nomar|t1=to name, call|o|t2=noun}}.
+From {{af|io|nomar|t1=to name, call|-o|t2=noun}}.
 
 ===Pronunciation===
 * {{IPA|/ˈno.mo/|/ˈnɔ.mɔ/|lang=io}}
@@ -64,19 +64,18 @@ From {{suffix|io|nomar|t1=to name, call|o|t2=noun}}.
 
 ====Related terms====
 {{top2}}
-* {{l|io|nomar||to name, call}}
-* {{l|io|nomesar||to be named, to be called}}
-* {{l|io|nomizar||to name, give a name to}}
-** {{l|io|nomizo||naming, appellation}}
-** {{l|io|nomizado||nomenclature}}
-* {{l|io|nomuro||naming, appellation}}
-{{mid2}}
-* {{l|io|nome||namely}}
-* {{l|io|baptonomo||Christian name}}
-* {{l|io|prenomo||first name}}
-* {{l|io|sennoma||nameless}}
-* {{l|io|surnomo||surname, family name}}
-** {{l|io|surnomacho||nickname, sobriquet}}
+* {{l|io|nomar|t=to name, call}}
+* {{l|io|nomesar|t=to be named, to be called}}
+* {{l|io|nomizar|t=to name, give a name to}}
+** {{l|io|nomizo|t=naming, appellation}}
+** {{l|io|nomizado|t=nomenclature}}
+* {{l|io|nomuro|t=naming, appellation}}
+* {{l|io|nome|t=namely}}
+* {{l|io|baptonomo|t=Christian name}}
+* {{l|io|prenomo|t=first name}}
+* {{l|io|sennoma|t=nameless}}
+* {{l|io|surnomo|t=surname, family name}}
+** {{l|io|surnomacho|t=nickname, sobriquet}}
 {{bottom}}
 
 ----
@@ -91,6 +90,9 @@ From {{suffix|io|nomar|t1=to name, call|o|t2=noun}}.
 ----
 
 ==Spanish==
+
+===Pronunciation===
+* {{es-IPA}}
 
 ===Noun===
 {{es-noun|m}}
