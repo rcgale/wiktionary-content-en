@@ -2,25 +2,32 @@
 ==Catalan==
 
 ===Etymology===
-From {{m|ca|granar}}. Cf. Spanish {{m|es|granada}}, French {{m|fr|grenade}}.
+From {{m|ca|granar}}. Cf. {{cog|es|granada}}, {{cog|fr|grenade}}.
+
+===Pronunciation===
+* {{ca-IPA}}
 
 ===Noun===
 {{ca-noun|f}}
 
-# [[grenade]] (small explosive device)
+# [[grenade]] {{gloss|small explosive device}}
 
 ====Related terms====
-* {{l|ca|granader}}
-* {{l|ca|granat}}
+{{rel2|lang=ca|granader|granat}}
 
 [[Category:ca:Explosives]]
+
+===Verb===
+{{head|ca|past participle|g=f-s}}
+
+# {{ca-verb form of|g=f|m=ptc|t=past|granar}}
 
 ----
 
 ==Cebuano==
 
 ===Etymology===
-From {{der|ceb|es|granada}}, from {{der|ceb|la|-}} ({{m|la|mālum}}) {{m|la|granātum}}, literally, "apple with many seeds."
+From {{der|ceb|es|granada}}, from {{der|ceb|la|([[mālum]]) [[granātum]]|lit=apple with many seeds}}.
 
 ===Noun===
 {{head|ceb|noun}}
@@ -37,17 +44,16 @@ From {{der|ceb|es|granada}}, from {{der|ceb|la|-}} ({{m|la|mālum}}) {{m|la|gran
 ==Galician==
 
 ===Etymology===
-From the feminine of {{inh|gl|la|grānātum||pomegranate}}, from {{m|la|grānātus||having many seeds}}, from {{m|la|grānum||seed, grain}}, from {{der|gl|ine-pro|*ǵr̥h₂nóm||grain}}.
+From the feminine of {{inh|gl|la|grānātum|t=pomegranate}}, from {{m|la|grānātus|t=having many seeds}}, from {{m|la|grānum|t=seed, grain}}, from {{der|gl|ine-pro|*ǵr̥h₂nóm|t=grain}}.
 
 ===Noun===
 {{gl-noun|f}}
 
-# [[pomegranate]] (fruit)
+# [[pomegranate]] {{gloss|fruit}}
 # [[hand grenade]]
 
 ====Related terms====
-* [[granado]]
-* {{l|gl|milgranda}}
+{{rel2|lang=gl|granado|milgranda}}
 
 [[Category:gl:Fruits]]
 
@@ -56,20 +62,18 @@ From the feminine of {{inh|gl|la|grānātum||pomegranate}}, from {{m|la|grānāt
 ==Portuguese==
 
 ===Etymology===
-From the feminine of {{inh|pt|la|grānātum||pomegranate}}, from {{m|la|grānātus||having many seeds}}, from {{m|la|grānum||seed, grain}}, from {{der|pt|ine-pro|*ǵr̥h₂nóm||grain}}.
+From the feminine of {{inh|pt|la|grānātum|t=pomegranate}}, from {{m|la|grānātus|t=having many seeds}}, from {{m|la|grānum|t=seed, grain}}, from {{der|pt|ine-pro|*ǵr̥h₂nóm|t=grain}}.
 
 ===Noun===
-{{pt-noun|f|s}}
+{{pt-noun|f}}
 
-# [[pomegranate]] (fruit)
-# [[hand grenade]] (small explosive device)
-# [[shell]] (artillery)
-# [[garnet]] (mineral group)
-
-====Synonyms====
-* (pomegranate) [[romã]]
-* (hand grenade) [[granada de mão]]
-* (garnet) [[granate]]
+# [[pomegranate]] {{gloss|fruit}}
+#: {{syn|pt|romã}}
+# [[hand grenade]] {{gloss|small explosive device}}
+#: {{syn|pt|granada de mão}}
+# [[shell]] {{q|artillery}}
+# [[garnet]] {{gloss|mineral group}}
+#: {{syn|pt|granate}}
 
 ====Related terms====
 * {{l|pt|milgrada}}
@@ -96,22 +100,24 @@ From the feminine of {{m|es|granado}}, from ({{m|la|mālum}}) {{m|la|granātum}}
 # [[shell]] {{gloss|artillery}}
 
 =====Related terms=====
-* [[granado]]
-* [[granar]]
-* [[grano]]
+{{rel3
+|granado
+|granar
+|grano
+|lang=es}}
 
 ===Etymology 2===
-From {{m|la|granātum}}
+From {{der|es|la|granātum}}
 
 ====Adjective====
 {{head|es|adjective form|g=f-s}}
 
-# {{feminine of|lang=es|granado}}
+# {{es-adj form of|granado|f|sg}}
 
 ====Verb====
-{{head|es|verb form|g=f-s}}
+{{head|es|past participle form}}
 
-# {{es-verb form of|ending=ar|mood=participle|granar}}
+# {{es-verb form of|mood=participle|gen=f|num=s|ending=ar|granar}}
 
 [[Category:es:Explosives]]
 [[Category:es:Fruits]]
