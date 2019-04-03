@@ -929,14 +929,17 @@ From {{inh|ang|gem-pro|*farhaz|t=pig}}. Cognate with {{cog|gml|vōr|t=lean young
 
 ==Old Irish==
 
-===Alternative forms===
-* {{l|sga|far}}
+===Pronunciation===
+* {{IPA|/for/|lang=sga}}
 
-===Etymology===
+===Etymology 1===
 From {{inh|sga|cel-pro|*sweseros}}, from {{m|cel-pro|*swīs||you (pl.)}}; compare {{cog|la|vester}}.
 
-===Determiner===
-{{head|sga|determiner}}
+====Alternative forms====
+* {{alter|sga|far|bar}}
+
+====Determiner====
+{{head|sga|determiner|triggers eclipsis|cat2=possessive determiners}}
 
 # [[your]] {{qualifier|plural}}
 # [[you]] {{qualifier|plural; as the object of a preposition that takes the genitive}}
@@ -944,12 +947,66 @@ From {{inh|sga|cel-pro|*sweseros}}, from {{m|cel-pro|*swīs||you (pl.)}}; compar
 #*: {{l|sga||Bíuu-sa oc irbáig dar '''far''' cenn-si fri Maccidóndu.}}
 #*:: I am boasting about you to the Macedonians.
 
-====Synonyms====
+=====Synonyms=====
 * {{l|sga|sethar}}
 
-====Descendants====
-* Irish: {{l|ga|bhur}}
-* Scottish Gaelic: {{l|gd|ur}}
+=====Descendants=====
+* {{desc|ga|bhur}}
+* {{desc|gd|ur}}
+
+===Etymology 2===
+From {{inh|sga|cel-pro|*uɸor}}, from {{inh|sga|ine-pro|*uper}}.
+
+====Alternative forms====
+* {{alter|sga|far}}
+
+====Preposition====
+{{head|sga|preposition|with accusative or dative}}
+
+# [[on]], [[over]]
+#* {{RQ:sga-gloss|Wb|6|b|22}}
+#*: {{quote|sga|Ní latt aní ara·rethi {{m|la||et}} ní lat in cách '''forsa'''·mmitter.|What you assail is not yours, and not everyone whom you judge is yours.}}
+
+=====Inflection=====
+{{sga-prep-infl
+ |1sg         = [[form]]
+ |1sg-em      = [[formsa|for]]([[forumsa|u]])[[formsa|msa]]
+ |2sg         = [[fort]]
+ |2sg-em      = [[fortsu]]
+ |3sgm-dat    = [[for]]
+ |3sgm-dat-em = 
+ |3sgm-acc    = [[foir]], [[fair]]
+ |3sgm-acc-em = [[foirsom]], [[foirsem]]
+ |3sgf-dat    = [[furi|fu]]([[fuiri|i]])[[furi|ri]]
+ |3sgf-dat-em = 
+ |3sgf-acc    = [[forrae]]
+ |3sgf-acc-em = 
+ |1pl         = [[fornn]], [[furnn]]
+ |1pl-em      = [[fornni|for]]([[forunni|u]])[[fornni|nni]]
+ |2pl         = [[furib|fu]]([[fuirib|i]])[[furib|rib]], [[forib|fo]]([[foirib|i]])[[forib|rib]]
+ |2pl-em      = [[furibsi|fu]]([[fuiribsi|i]])[[furibsi|ribsi]]
+ |3pl-dat     = [[forib|for]]([[foraib|a]])[[forib|ib]]
+ |3pl-dat-em  = [[foribsom|for]]([[foraibsom|a]])[[foribsom|ibsom]]
+ |3pl-acc     = [[forru]]
+ |3pl-acc-em  = [[forrusom]]
+}}
+
+=====Derived terms=====
+Combinations with definite articles:
+* {{l|sga|[[forsin]]([[forsind|d]])}} {{q|masculine and feminine accusative singular, all genders dative singular}}
+* {{l|sga|forsa}} {{q|neuter accusative singular}}
+* {{l|sga|[[forna|for]]([[forsna|s]])[[forna|na]]}} {{q|accusative plural}}
+* {{l|sga|[[fornaib|for]]([[forsnaib|s]])[[fornaib|naib]]}} {{q|dative plural}}
+Combinations with possessive determiners:
+* {{l|sga|form|t=on my}}
+* {{l|sga|fort|t=on your {{g|s}}}}
+* {{l|sga|fora|t=on his/her/its/their}}
+Combinations with relative pronouns:
+* {{l|sga|[[fora|for]]([[forsa|s]])[[fora|a]]|t=on whom, on which}}
+
+===Further reading===
+* {{R:DIL|head=1 for (‘on, over’)|23272}}
+* {{R:DIL|head=2 for, far, bar, uar (‘your’)|23273}}
 
 ----
 
