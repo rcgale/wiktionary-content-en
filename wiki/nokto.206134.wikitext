@@ -1,39 +1,36 @@
 ==Esperanto==
 
 ===Etymology===
-From {{etyl|la|eo}} {{m|la|nox|nox, noctis}}.
+From {{der|eo|la|nox|nox, noctis}}.
 
 ===Pronunciation===
 * {{IPA|/ˈnokto/|lang=eo}}
+* {{rhymes|okto|lang=eo}}
 * {{audio|Eo-nokto.ogg|Audio|lang=eo}}
 
 ===Noun===
 {{eo-head}}
 
 # [[night]]
-
-====Antonyms====
-* {{l|eo|tago|gloss=[[day]]}}
+#: {{ant|eo|tago}}
 
 ====Derived terms====
-{{top3}}
-* {{l|eo|ĉiunokte|gloss=every night, [[nightly]]}}
-* {{l|eo|nokta|gloss=related to night}}
-* {{l|eo|noktblinda|gloss=[[night-blind]]}}
-* {{l|eo|noktblindeco|gloss=[[night blindness]]}}
-* {{l|eo|nokte|gloss=[[at night]]}}
-{{mid3}}
-* {{l|eo|nokti|gloss=to be night}}
-* {{l|eo|noktiĝo|gloss=[[nightfall]]}}
-* {{l|eo|noktmezo|gloss=[[midnight]]}}
-* {{l|eo|noktoĉemizo|gloss=[[nightshirt]]}}
-* {{l|eo|noktoklubo|gloss=[[nightclub]]}}
-{{mid3}}
-* {{l|eo|noktpapilio}}
-* {{l|eo|noktvestaĵo|gloss=[[night clothes]]}}
-* {{l|eo|tranokti|gloss=to spend the night}}
-* {{l|eo|tutnokte|gloss=[[all night]] long}}
-{{bottom}}
+{{der3
+|{{l|eo|ĉiunokte|t=every night, [[nightly]]}}
+|{{l|eo|nokta|t=related to night}}
+|{{l|eo|noktblinda|t=[[night-blind]]}}
+|{{l|eo|noktblindeco|t=[[night blindness]]}}
+|{{l|eo|nokte|t=[[at night]]}}
+|{{l|eo|nokti|t=to be night}}
+|{{l|eo|noktiĝo|t=[[nightfall]]}}
+|{{l|eo|noktmezo|t=[[midnight]]}}
+|{{l|eo|noktoĉemizo|t=[[nightshirt]]}}
+|{{l|eo|noktoklubo|t=[[nightclub]]}}
+|{{l|eo|noktpapilio}}
+|{{l|eo|noktvestaĵo|t=[[night clothes]]}}
+|{{l|eo|tranokti|t=to spend the night}}
+|{{l|eo|tutnokte|t=[[all night]] long}}
+|lang=eo}}
 
 {{eo BRO|4}}
 {{eo GCSE|0}}
@@ -46,24 +43,24 @@ From {{etyl|la|eo}} {{m|la|nox|nox, noctis}}.
 ==Ido==
 
 ===Etymology===
-{{suffix|io|noktar|t1=to be night|o|t2=noun}}
+{{io-bor|eo=nokto|nodot=1}}, ultimately from {{der|eo|la|nox|nox, noctis}}. Synchronically, from {{af|io|noktar|t1=to be night|-o|pos2=noun}}.
 
 ===Pronunciation===
-* {{IPA|/ˈnok.to/|lang=io}}
+{{io-IPA}}
 
 ===Noun===
 {{io-noun|nokt}}
 
 # [[night]]
-
-====Antonyms====
-* {{l|io|jorno}}
+#: {{ant|io|jorno}}
 
 ====Related terms====
-* {{l|io|noktar||to be night}}
-* {{l|io|nokte||by night, at night}}
-* {{l|io|noktala||nocturnal}}
-* {{l|io|nokteskar||to become night, turn night}}
-* {{l|io|noktesko||nightfall}}
+{{rel3
+|{{l|io|noktar|t=to be night}}
+|{{l|io|nokte|t=by night, at night}}
+|{{l|io|noktala|t=nocturnal}}
+|{{l|io|nokteskar|t=to become night, turn night}}
+|{{l|io|noktesko|t=nightfall}}
+|lang=io}}
 
 [[Category:io:Time]]
