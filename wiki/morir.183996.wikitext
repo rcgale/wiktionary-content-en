@@ -42,7 +42,7 @@ From {{inh|frp|VL.|*morīre}}, from {{inh|frp|la|morī}}, present active infinit
 ==Ladin==
 
 ===Alternative forms===
-* {{l|lld|morì}}
+* {{alter|lld|morì}}
 
 ===Etymology===
 From {{inh|lld|VL.|*morīre}}, from {{inh|lld|la|morī}}, present active infinitive of {{m|la|morior}}, ultimately from {{der|lld|ine-pro|*mer-}}.
@@ -60,7 +60,7 @@ From {{inh|lld|VL.|*morīre}}, from {{inh|lld|la|morī}}, present active infinit
 ==Occitan==
 
 ===Alternative forms===
-* {{l|oc|mourir}} {{qualifier|Provence}}
+* {{alter|oc|mourir||Provence}}
 
 ===Etymology===
 From {{inh|oc|pro|morir}}, from {{inh|oc|VL.|*morīre}}, from {{inh|oc|la|morī}}, present active infinitive of {{m|la|morior}}, ultimately from {{der|oc|ine-pro|*mer-}}.
@@ -81,7 +81,7 @@ From {{inh|oc|pro|morir}}, from {{inh|oc|VL.|*morīre}}, from {{inh|oc|la|morī}
 ==Old French==
 
 ===Alternative forms===
-* {{l|fro|murir}}
+* {{alter|fro|murir}}
 
 ===Etymology===
 From {{inh|fro|VL.|*morīre}}, from {{inh|fro|la|morī}}, present active infinitive of {{m|la|morior}}, ultimately from {{der|fro|ine-pro|*mer-}}.
@@ -103,10 +103,12 @@ From {{inh|fro|VL.|*morīre}}, from {{inh|fro|la|morī}}, present active infinit
 * {{l|fro|mort}}
 
 ====Descendants====
-* Middle French: {{l|frm|mourir}}
-** French: {{l|fr|mourir}}
-* Norman: {{l|nrf|mouothi}}, {{l|nrf|mouorir}}
-* Walloon: {{l|wa|mori}}
+{{top2}}
+* {{desc|frm|mourir}}
+** {{desc|fr|mourir}}
+* {{desc|nrf|mouothi}} {{q|Jersey}}, {{l|nrf|mouorir}} {{q|Guernsey}}
+* {{desc|wa|mori}}
+{{bottom}}
 
 ----
 
@@ -124,8 +126,8 @@ From {{inh|pro|VL.|*morīre}}, from {{inh|pro|la|morī}}, present active infinit
 * {{l|pro|mort}}
 
 ====Descendants====
-* Catalan: {{l|ca|morir}}
-* Occitan: {{l|oc|morir}}
+* {{desc|ca|morir}}
+* {{desc|oc|morir}}
 
 ===References===
 * {{R:FEW|63|132|title=mori}}
@@ -144,22 +146,13 @@ From {{inh|es|VL.|*morīre}}, from {{inh|es|la|morī}}, present active infinitiv
 {{es-verb|mor|ir|pres=muero|part=muerto}}
 
 # to [[die]]
+#: {{syn|es|estirar la pata|fallecer|morirse|palmar|petatearse}}
 
 ====Conjugation====
 {{es-conj-ir|p=morir|m|r|combined=1}}
 
-====Synonyms====
-* {{l|es|estirar la pata}}
-* {{l|es|fallecer}}
-* {{l|es|morirse}}
-* {{l|es|palmar}}
-* {{l|es|petatearse}}
-
 ====Related terms====
-* {{l|es|moribundo}}
-* {{l|es|mortal}}
-* {{l|es|muerte}}
-* {{l|es|muerto}}
+{{rel4|es|moribundo|mortal|muerte|muerto}}
 
 [[Category:Spanish basic words]]
 [[Category:es:Death]]
@@ -169,7 +162,7 @@ From {{inh|es|VL.|*morīre}}, from {{inh|es|la|morī}}, present active infinitiv
 ==Venetian==
 
 ===Etymology===
-From {{inh|vec|VL.|*morīre}}, from {{inh|vec|la|morī}}, present active infinitive of {{m|la|morior}}, ultimately from {{der|vec|ine-pro|*mer-}}. Compare Italian {{m|it|morire}}.
+From {{inh|vec|VL.|*morīre}}, from {{inh|vec|la|morī}}, present active infinitive of {{m|la|morior}}, ultimately from {{der|vec|ine-pro|*mer-}}. Compare {{cog|it|morire}}.
 
 ===Verb===
 {{head|vec|verb}}
