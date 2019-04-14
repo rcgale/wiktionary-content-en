@@ -1,6 +1,5 @@
 {{also|Suffix}}
 ==English==
-{{wikipedia}}
 
 ===Etymology===
 Borrowed from {{bor|en|la|suffixum||suffix}}, from {{m|la|sub||under, beneath}} + {{m|la|fixus}}, perfect passive participle of {{m|la|figere||to fasten, fix}}.
@@ -15,19 +14,16 @@ Borrowed from {{bor|en|la|suffixum||suffix}}, from {{m|la|sub||under, beneath}} 
 {{en-noun|es}}
 
 # {{lb|en|grammar|linguistic morphology}} A [[morpheme]] added at the [[end]] of a word to modify the word's [[meaning]].
-#: ''The '''suffix''' "-able" changes "sing" into "singable".''
+#: {{syn|en|affix|q1=narrow sense}}
+#: {{ant|en|prefix}}
+#: {{hyper|en|affix|q1=broad sense}}
+#: {{ux|en|The '''suffix''' "-able" changes "sing" into "singable".}}
 # {{lb|en|mathematics}} A [[subscript]].
 # {{lb|en|computing}} A [[final]] [[segment]] of a [[string]] of characters.
-#: ''The string "<tt>''abra''</tt>" is both a prefix and a '''suffix''' of the string "<tt>''abracadabra''</tt>".''
+#: {{ux|en|The string "abra" is both a prefix and a '''suffix''' of the string "abracadabra".}}
 
 ====Usage notes====
 * The plural {{m|en|suffices}} occasionally appears (including in one educational publication), but it is not a standard plural and has no basis in the Latin origin of the term.
-
-====Synonyms====
-* {{l|en|affix}} {{qualifier|narrow sense}}
-
-====Hypernyms====
-* {{l|en|affix}} {{qualifier|broad sense}}
 
 ====Coordinate terms====
 * {{affixes}}
@@ -152,5 +148,8 @@ Borrowed from {{bor|en|la|suffixum||suffix}}, from {{m|la|sub||under, beneath}} 
 * Portuguese: {{t+|pt|sufixar}}
 * Spanish: {{t|es|sufijar}}
 {{trans-bottom}}
+
+===Further reading===
+* {{pedia}}
 
 [[Category:en:Linguistic morphology]]
