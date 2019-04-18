@@ -19,7 +19,10 @@ From {{etyl|fr|en}} {{m|fr|omelette}}, from {{m|fr|alemette}}, from {{m|fr|aleme
 {{wikipedia}}
 {{en-noun}}
 
-# A dish made with beaten [[egg]]s cooked in a frying pan without stirring, flipped over to cook on both sides, and sometimes filled or topped with cheese, chives or other foodstuffs
+# A dish made with beaten [[egg]]s cooked in a frying pan without stirring, flipped over to cook on both sides, and sometimes filled or topped with cheese, chives or other foodstuffs.
+# {{lb|en|computing}} A form of [[shellcode]] that searches the [[address space]] for multiple small blocks of data ("eggs") and [[recombine]]s them into a larger block to be [[execute]]d.
+#* '''2015''', Herbert Bos, ‎Fabian Monrose, ‎Gregory Blanc, ''Research in Attacks, Intrusions, and Defenses: 18th International Symposium''
+#*: This approach would be altered for an optimal '''omelette''' based exploit. One would spray the heap with the '''omelette''' code solely, then load a single copy of the additional shellcode eggs into memory outside the target region for the spray.
 
 ====Derived terms====
 * {{l|en|you can't make an omelette without breaking eggs}}
