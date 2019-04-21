@@ -1007,16 +1007,46 @@ For other terms please refer to '''{{l-nb|do}}''' for the time being.
 From {{inh|sga|cel-pro|*tu||to}}.
 
 ===Pronunciation===
-* {{IPA|/do/|lang=sga}}
+* {{IPA|sga|/do/}}
 
 ===Preposition===
-{{head|sga|preposition|triggers lenition of a following consonant-initial noun.}}
+{{head|sga|preposition|with dative; triggers lenition of a following consonant-initial noun.}}
 
 # [[to]], [[for]]
+
+====Inflection====
+{{sga-prep-infl
+ |1sg         = [[dom]], [[dam]]
+ |1sg-em      = [[domsa]], [[damsa]]
+ |2sg         = [[duit]], [[dait]], [[dit|d]]([[deit|e]])[[dit|it]]
+ |2sg-em      = [[duitsiu]], [[detsiu|de]]([[deitsiu|i]])[[detsiu|tsiu]], [[duitso]], [[déitso]]
+ |3sgm-dat    = [[dó]]([[dóu|u]]), [[dáu]]
+ |3sgm-dat-em = [[dosom|dos]]([[dossom|s]])[[dosom|om]]
+ |3sgf-dat    = dí
+ |3sgf-dat-em = [[disi|dis]]([[dissi|s]])[[disi|i]]
+ |1pl         = [[dún]]([[dúnn|n]])
+ |1pl-em      = [[dúnni|dúnn]]([[dúnnai|a]])[[dúnni|i]]
+ |2pl         = dúib
+ |2pl-em      = dúibsi
+ |3pl-dat     = [[doib|do]]([[doaib|a]])[[doib|ib]], [[duaib]], [[dóib]]
+ |3pl-dat-em  = [[doïbsom]], [[doaibsem]], [[dóibsem]]
+}}
+Combinations with a definite article:
+* {{l|sga|[[don]]([[dond|d]]), [[dun]]([[dund|d]])|t=to/for the {{g|s}}}}
+* {{l|sga|[[donaib]], [[dunaib]]|t=to/for the {{g|p}}}}
+Combinations with a possessive determiner:
+* {{l|sga|dom|t=to/for my}}
+* {{l|sga|dot|t=to/for your {{g|s}}}}
+* {{l|sga|dia|t=to/for his/her/their}}
+Combinations with a relative pronoun:
+* {{l|sga|dia·|t=to/for whom/which}}
 
 ====Related terms====
 * {{l|sga|to-}}
 
+===Further reading===
+* {{R:DIL|head=1 do|17096}}
+* {{R:sga:Thurneysen|pp=274, 506}}
 ----
 
 ==Pennsylvania German==
