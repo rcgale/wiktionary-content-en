@@ -10,7 +10,7 @@ From {{inh|sh|sla-pro|*govorъ}}.
 {{sh-noun|g=m|head=gȍvōr}}
 
 # [[speech]]
-#: Kraljev govor - The King's Speech (Movie)
+#: {{uxi|sh|Kraljev govor|The King's Speech (Movie)}}
 # [[talk]], [[saying]]
 
 ====Declension====
@@ -25,20 +25,18 @@ From {{inh|sh|sla-pro|*govorъ}}.
 }}
 
 ====Derived terms====
-{{top2}}
-* {{l|sh|dogovor}}
-* {{l|sh|govoriti}}
-* {{l|sh|govorni}}
-* {{l|sh|govornica}}
-* {{l|sh|govornik}}
-* {{l|sh|nagovor}}
-{{mid2}}
-* {{l|sh|odgovor}}
-* {{l|sh|prigovor}}
-* {{l|sh|razgovor}}
-* {{l|sh|zagovor}}
-* {{l|sh|zagovornik}}
-{{bottom}}
+{{der4|sh
+|dogovor
+|govoriti
+|govorni
+|govornica
+|govornik
+|nagovor
+|odgovor
+|prigovor
+|razgovor
+|zagovor
+|zagovornik}}
 
 ----
 
@@ -61,8 +59,9 @@ From {{inh|sl|sla-pro|*govorъ}}.
 {{sl-decl-noun-m|gôvor}}
 
 ====Derived terms====
-* {{l|sl|govoren}}
-* {{l|sl|govoriti}}
+{{der2|sl
+|govoren
+|govoriti}}
 {{rel-top|prefixed forms and their respective derivatives}}
 * {{l|sl|dogovor}}
 ** {{l|sl|dogovoren}}
