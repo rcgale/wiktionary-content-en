@@ -215,35 +215,44 @@ From {{inh|fro|la|factum}}.
 
 ===Etymology===
 {{PIE root|sga|h₂weh₁}}
-From {{der|sga|cel-pro|*wintos|t=wind}}, from {{der|sga|ine-pro|*h₂wéh₁n̥ts}}.
+From {{inh|sga|cel-pro|*wintos|t=wind}}, from {{inh|sga|ine-pro|*h₂wéh₁n̥ts}}.
 
 ===Pronunciation===
-* {{IPA|/fʲed/|lang=sga}}
+* {{IPA|sga|/fʲed/}}
 
 ===Noun===
-{{sga-noun|f}}
+{{sga-noun|f|fite|feta|gen2=feite}}
 
 # [[whistling]], [[hissing]], the sound of a [[sword]] [[cleaving]] the air
+#* {{RQ:sga-gloss|Sg|3|a|7}}
+#*: {{quote|sga|is cosmart do rétaib ind '''ḟet'''|the whistling is a signal by things}}
 # {{lb|sga|musical intrument}} {{l|en|pipe}}
 
 ====Inflection====
-{{rfinfl|sga|noun}}
+{{sga-decl-a-fem|fit}}
+{{sga-decl-a-fem|feit}}
 
 ====Derived terms====
-{{der3|sga<!--
--->|fetán<!--
--->|fetánach<!--
--->|fetánacht<!--
--->|fetchúisech<!--
--->|fetgaire<!--
--->|fetgal<!--
--->|fetugud<!--
--->}}
+{{der3|sga 
+ |fetán 
+ |fetánach 
+ |fetánacht 
+ |fetchúisech 
+ |fetgaire 
+ |fetgal 
+ |fetugud 
+ }}
 
 ====Descendants====
 * {{desc|ga|fead}}
 * {{desc|gv|fed}}
 * {{desc|gd|fead}}
+
+===Mutation===
+{{sga-mutation|f|et}}
+
+===Further reading===
+* {{R:DIL|21800}}
 
 ----
 
