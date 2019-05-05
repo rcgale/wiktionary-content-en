@@ -102,6 +102,7 @@ Do not confuse {{lang|mul|月}} with {{m|mul|⺼|sc=Hani}}, a form of {{m|mul|�
 ===Further reading===
 * {{thcwd|812}}
 
+{{zh-cat|Astronomy|Time}}
 ----
 
 ==Japanese==
@@ -114,13 +115,7 @@ Do not confuse {{lang|mul|月}} with {{m|mul|⺼|sc=Hani}}, a form of {{m|mul|�
 # [[menstruation]]
 
 ====Readings====
-{{ja-readings
-|goon=がち<ぐわち, ごち
-|kanon=げつ<げつ<ぐゑつ
-|kanyoon=がつ<ぐわつ
-|kun=つき-, つく-
-|nanori=おと, す, ずき<づき, もり
-}}
+{{ja-readings|goon=がち<ぐわち, ごち|kanon=げつ<げつ<ぐゑつ|kanyoon=がつ<ぐわつ|kun=つき-, つく-|nanori=おと, す, ずき<づき, もり}}
 
 ====Compounds====
 {{der-top3|Compounds}}
@@ -418,24 +413,12 @@ Either a shift in sense from the ''low-ranking prostitute'' meaning above, or a 
 #: {{syn|ja|野暮|tr=yabo}}
 
 ===References===
-{{ja-kref
-|ku=2378
-|shift=8c8e
-|jis=376E
-|euc=B7EE
-|freq=23
-|nelson=2169
-|newnelson=2530
-|halpern=2956
-|kld=1876
-|heisig=13
-|tuttle=4b0.1}}
+{{ja-kref|ku=2378|shift=8c8e|jis=376E|euc=B7EE|freq=23|nelson=2169|newnelson=2530|halpern=2956|kld=1876|heisig=13|tuttle=4b0.1}}
 
 <references/>
 
 [[Category:Japanese basic words|つき]]
-[[Category:ja:Astronomy|つき]]
-[[Category:ja:Time|つき]]
+{{C|ja|Astronomy|Days of the week|Time|sort=つき}}
 
 ----
 
@@ -446,28 +429,27 @@ Either a shift in sense from the ''low-ranking prostitute'' meaning above, or a 
 
 # [[month]]
 # [[moon]]
-# {{lb|ko|as an abbreviation}} [[Monday]]
+# {{lb|ko|abbreviation}} [[Monday]]
 ====Synonyms====
 * (''Monday''): {{ko-inline|월요일|woryoil|Monday}}
 
 [[Category:Hanja readings|월]]
-
-[[Category:ko:Days of the week|월]]
+{{C|ko|Astronomy|Days of the week|Time|sort=월}}
 
 ----
 
 ==Kunigami==
 
 ===Kanji===
-{{head|xug|kanji}}
+{{head|xug|Han character}}
 
-* {{ja-readings|kun=[[しちー]] (shichii)}}
+* {{ja-readings|kun=[[しちー]] (shichī)}}
 
 ===Pronunciation===
-* {{IPA|/ɕi̻t͡ɕiː/|lang=xug}}
+* {{IPA|/ɕi̻t͡ɕiː/|lang=xug|sort=しちい}}
 
 ===Noun===
-{{head|xug|noun|hiragana|しちー|romaji|shichii}}
+{{head|xug|noun|hiragana|しちー|romaji|shichī|sort=しちい}}
 
 # [[moon]]
 
@@ -476,35 +458,42 @@ Either a shift in sense from the ''low-ranking prostitute'' meaning above, or a 
 ==Miyako==
 
 ===Kanji===
-{{head|mvi|kanji}}
+{{head|mvi|Han character}}
 
 * {{ja-readings|kun=[[つぃきぃ]] (tsïksï)}}
 
 ===Pronunciation===
-* {{IPA|/t͡sɨ̥kˢɨ/|lang=mvi}}
+* {{IPA|/t͡sɨ̥kˢɨ/|lang=mvi|sort=つぃきぃ}}
 
 ===Noun===
-{{head|mvi|noun|hiragana|つぃきぃ|romaji|tsïksï}}
+{{head|mvi|noun|hiragana|つぃきぃ|romaji|tsïksï|sort=つぃきぃ}}
 
 # [[moon]]
+# [[month]]
+# {{lb|mvi|abbreviation}} [[Monday]]
 
+{{c|mvi|Astronomy|Days of the week|Time|sort=つぃきぃ}}
 ----
 
 ==Okinawan==
 
 ===Kanji===
-{{head|ryu|kanji}}
+{{head|ryu|Han character}}
 
 * {{ja-readings|kun=[[ちち]] (chichi)}}
 
+===Alternative forms===
+* {{alter|ryu|月ぇー|t=ちちぇー, chichē|topicalized}}
+
 ===Pronunciation===
-* {{IPA|/t͡ɕi̻t͡ɕi/|lang=ryu}}
+* {{IPA|/t͡ɕi̻t͡ɕi/|lang=ryu|sort=ちち}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|ちち|romaji|chichi}}
+{{head|ryu|noun|hiragana|ちち|romaji|chichi|sort=ちち}}
 
 # [[moon]]
 
+{{c|ryu|Astronomy|sort=ちち}}
 ----
 
 ==Vietnamese==
@@ -519,33 +508,35 @@ Either a shift in sense from the ''low-ranking prostitute'' meaning above, or a 
 ==Yaeyama==
 
 ===Kanji===
-{{head|rys|kanji}}
+{{head|rys|Han character}}
 
 * {{ja-readings|kun=[[つぃきぃ]] (tsïkï)}}
 
 ===Pronunciation===
-* {{IPA|/t͡sɨ̥kɨ/|lang=rys}}
+* {{IPA|/t͡sɨ̥kɨ/|lang=rys|sort=つぃきぃ}}
 
 ===Noun===
-{{head|rys|noun|hiragana|つぃきぃ|romaji|tsïkï}}
+{{head|rys|noun|hiragana|つぃきぃ|romaji|tsïkï|sort=つぃきぃ}}
 
 # [[moon]]
 
+{{c|rys|Astronomy|sort=つぃきぃ}}
 ----
 
 ==Yonaguni==
 
 ===Kanji===
-{{head|yoi|kanji}}
+{{head|yoi|Han character}}
 
-* {{ja-readings|kun=[[ってぃー]] (ttii)}}
+* {{ja-readings|kun=[[ってぃー]] (ttī)}}
 
 ===Pronunciation===
-* {{IPA|/tˀiː/|lang=yoi}}
+* {{IPA|/tˀiː/|lang=yoi|sort=ってぃい}}
 
 ===Noun===
-{{head|yoi|noun|hiragana|ってぃー|romaji|ttii}}
+{{head|yoi|noun|hiragana|ってぃー|romaji|ttī|sort=ってぃい}}
 
 # [[moon]]
 
+{{c|yoi|Astronomy|sort=ってぃい}}
 [[Category:CJKV radicals]]
