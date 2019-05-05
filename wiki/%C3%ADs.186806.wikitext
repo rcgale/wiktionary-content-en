@@ -4,7 +4,7 @@
 ===Noun===
 {{head|fo|noun forms}}
 
-# accusative or genitive singular of [[ísur]]
+# {{infl of|fo|ísur||acc//gen|s}}
 
 ----
 
@@ -24,11 +24,9 @@ From {{der|is|non|íss}}.
 {{is-noun|m|íss|ísar}}
 
 # [[ice]]{{jump|is|ice|s}}
-#: ''Um það bil 81% af yfirborði Grænlands er þakið '''ís'''.''
-#:: About 81% of Greenland's surface is covered by '''ice'''.
+#: {{ux|is|Um það bil 81% af yfirborði Grænlands er þakið '''ís'''.|About 81% of Greenland's surface is covered by '''ice'''.}}
 # [[ice cream]]{{jump|is|ice cream|s}}
-#: ''Langar þig í '''ís'''?''
-#:: Do you want some '''ice cream'''?
+#: {{ux|is|Langar þig í '''ís'''?|Do you want some '''ice cream'''?}}
 
 ====Declension====
 {{is-decl-noun-m-s1||í|s|i=?-}}
@@ -38,23 +36,21 @@ From {{der|is|non|íss}}.
 * {{jump|s|is|ice cream}} {{l|is|rjómaís}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|is|Ísland}}
-* {{l|is|íslenskur}}
-{{der-mid}}
-* {{l|is|ístegund}}
-* {{l|is|þurrís}}
-{{der-bottom}}
+{{der4|is
+|Ísland
+|íslenskur
+|ístegund
+|þurrís
+}}
 
-[[Category:is:Foods]]
-[[Category:is:Sweets]]
+{{C|is|Foods|Sweets}}
 
 ----
 
 ==Old Irish==
 
 ===Etymology===
-From {{inh|sga|cel-pro|*end-so}}, from {{der|sga|ine-pro|*endʰ}}. See {{m|sga|ísel}}.
+From {{inh|sga|cel-pro|*ɸīssu}}, from {{inh|sga|ine-pro||*pedsú}}, locative plural of {{m|ine-pro|*pṓds|t=foot}}.<ref>{{R:cel:EDPC|131}}</ref>
 
 ===Pronunciation===
 * {{IPA|/iːs/|lang=sga}}
@@ -63,13 +59,20 @@ From {{inh|sga|cel-pro|*end-so}}, from {{der|sga|ine-pro|*endʰ}}. See {{m|sga|�
 {{head|sga|adverb}}
 
 # [[down]] {{gloss|denoting low position}}
+#: {{syn|sga|uas}}
 
-====Antonyms====
-* {{l|sga|uas}}
+====Derived terms====
+* {{l|sga|anís}}
 
 ====Descendants====
-* Irish: {{l|ga|aníos}}, {{l|ga|síos}}, {{l|ga|thíos}}
-* Scottish Gaelic: {{l|gd|nìos}}, {{l|gd|shìos}}, {{l|gd|sìos}}
+* {{desc|ga|aníos}}, {{l|ga|síos}}, {{l|ga|thíos}}
+* {{desc|gd|nìos}}, {{l|gd|shìos}}, {{l|gd|sìos}}
+
+===Further reading===
+* {{R:DIL|head=1 ís|29107}}
+
+===References===
+<references/>
 
 ----
 
@@ -78,4 +81,4 @@ From {{inh|sga|cel-pro|*end-so}}, from {{der|sga|ine-pro|*endʰ}}. See {{m|sga|�
 ===Noun===
 {{head|non|noun forms}}
 
-# accusative singular of [[íss]]
+# {{infl of|non|íss||acc|s}}
