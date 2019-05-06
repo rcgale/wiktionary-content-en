@@ -7,12 +7,12 @@ A shortening of {{m|en|aromantic}}. Coined on the Internet in the 2010s.
 ===Adjective===
 {{en-adj}}
 
-# {{lb|en|slang|neologism}} [[aromantic|Aromantic]]. {{gloss|not experiencing romantic attraction}}
+# {{lb|en|slang|neologism}} [[aromantic]] {{gloss|not experiencing romantic attraction}}
 
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|slang|neologism}} A person who is [[aromantic]].
+# {{lb|en|slang|neologism}} a person who is [[aromantic]]
 
 ===See also===
 * {{sense|aromantic}} {{l|en|ace}}
@@ -28,8 +28,8 @@ A shortening of {{m|en|aromantic}}. Coined on the Internet in the 2010s.
 {{eu-noun}}
 
 # [[age]]
-#: {{ux|eu|Erdi Aro|inline=1|Middles Ages, medieval era}}
-#: {{ux|eu|Harri Aro|inline=1|Stone Age}}
+#: {{uxi|eu|Erdi Aro|Middles Ages, medieval era}}
+#: {{uxi|eu|Harri Aro|Stone Age}}
 
 ===References===
 * Gorka Aulestia, Linda White, ''Basque-English, English-Basque Dictionary''
@@ -42,14 +42,13 @@ A shortening of {{m|en|aromantic}}. Coined on the Internet in the 2010s.
 {{back-form|eo|-aro|gloss=collection}}.
 
 ===Pronunciation===
-* {{audio|LL-Q143 (epo)-Lepticed7-aro.wav|Audio|lang=eo}}
-{{eo-IPA}}
+{{eo-IPA|a=LL-Q143 (epo)-Lepticed7-aro.wav}}
 
 ===Noun===
 {{eo-head}}
 
 # [[bunch]]
-#: {{ux|eo|'''aro''' da kliŝaĵoj pri kaj Eŭropo kaj la nova traktato|a bunch of clichés about both Europe and the new treaty}}
+#: {{uxi|eo|'''aro''' da kliŝaĵoj pri kaj Eŭropo kaj la nova traktato|a bunch of clichés about both Europe and the new treaty}}
 
 ====Related terms====
 * {{l|eo|ariĝi}}
@@ -102,7 +101,7 @@ A shortening of {{m|en|aromantic}}. Coined on the Internet in the 2010s.
 ===Verb===
 {{head|it|verb form}}
 
-# {{inflection of|arare||1|s|pres|indc|lang=it}}
+# {{inflection of|it|arare||1|s|pres|indc}}
 
 ===Anagrams===
 * {{anagrams|it|ora}}
@@ -115,7 +114,7 @@ A shortening of {{m|en|aromantic}}. Coined on the Internet in the 2010s.
 {{PIE root|la|h₂erh₃}}
 From {{inh|la|itc-pro|*araō}}, from {{inh|la|ine-pro|*h₂éryeti|t=to plough}}, from the root {{m|ine-pro|*h₂erh₃-}}. The root-final laryngeal was lost in the Proto-Indo-European verb, but was restored in Proto-Italic.
 
-Cognates include Ancient Greek {{m|grc|sc=polytonic|ἀρόω}}, Old Church Slavonic {{m|cu|sc=Cyrs|орати}}, Lithuanian {{m|lt|arti}}, and Old English {{m|ang|erian}} (archaic English {{m|en|ear}}).
+Cognates include {{cog|grc|ἀρόω}}, {{cog|cu|орати}}, {{cog|lt|arti}}, and {{cog|ang|erian}} (archaic {{cog|en|ear}}).
 
 ===Pronunciation===
 * {{la-IPA|arō}}
@@ -123,15 +122,15 @@ Cognates include Ancient Greek {{m|grc|sc=polytonic|ἀρόω}}, Old Church Slav
 ===Verb===
 {{la-verb|arō|arāre|arāvī|arātum|conj=1}}
 
-# I [[plough]], [[till]]; [[cultivate]] [[land]], [[farm]]; [[acquire]] by [[tillage]].
-# {{lb|la|of age}} I [[draw]] [[furrow|furrows]] over the [[body]], [[wrinkle]].
+# I [[plough]], [[till]]; I [[cultivate]] [[land]], [[farm]]; I [[acquire]] by [[tillage]]
+# {{lb|la|of age}} I [[draw]] [[furrow|furrows]] over the [[body]], [[wrinkle]]
 
 ====Inflection====
 {{la-conj-1st|ar|arāv|arāt}}
 
 ====Derived terms====
-{{der3
-|la|adarō
+{{der4|la
+|adarō
 |arābilis
 |arātiō
 |arātor
@@ -146,8 +145,8 @@ Cognates include Ancient Greek {{m|grc|sc=polytonic|ἀρόω}}, Old Church Slav
 }}
 
 ====Related terms====
-{{rel3
-|la|arātiuncula
+{{rel3|la
+|arātiuncula
 |arātōrius
 |arātrō
 |arva
@@ -221,8 +220,8 @@ Same as {{m|goh|arn}}.
 ==Portuguese==
 
 ===Pronunciation===
-* {{a|Portugal|Brazil}} {{IPA|/ˈa.ɾu/|lang=pt}}
-* {{hyphenation|a|ro|lang=pt}}
+* {{a|Portugal|Brazil}} {{IPA|pt|/ˈa.ɾu/}}
+* {{hyphenation|pt|a|ro}}
 
 ===Etymology 1===
 From {{inh|pt|roa-opt|aro}} of {{unk|pt|title=uncertain}} origin. Cognate with {{cog|es|aro}}.
@@ -241,6 +240,7 @@ From {{inh|pt|roa-opt|aro}} of {{unk|pt|title=uncertain}} origin. Cognate with {
 #: {{syn|pt|periferia}}
 
 ===Etymology 2===
+{{rfe|pt}}
 
 ====Alternative forms====
 * {{alter|pt|arão|arum|árum|jarro|jaro}}
@@ -251,11 +251,12 @@ From {{inh|pt|roa-opt|aro}} of {{unk|pt|title=uncertain}} origin. Cognate with {
 # {{l|en|arum}} {{gloss|any plant in the genus ''{{l|mul|Arum}}''}}
 
 ===Etymology 3===
+{{nonlemma}}
 
 ====Verb====
 {{head|pt|verb form}}
 
-# {{pt-verb-form-of|arar|o}}
+# {{pt-verb-form-of|arar}}
 
 {{topics|pt|Arum family plants}}
 {{catlangname|pt|terms with multiple etymologies}}
