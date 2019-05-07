@@ -146,7 +146,7 @@ From {{inh|fro|la|multum|pos=adv}}, neuter of {{m|la|multus}}.
 From {{inh|sga|cel-pro|*moltos||sheep}} (compare {{cog|wlm|mollt}}, {{cog|cel-gau|*multon-}}, source of {{cog|fr|mouton}}).
 
 ===Pronunciation===
-* {{IPA|/mol͈t/|lang=sga}}
+* {{IPA|sga|/mol͈t/}}
 
 ===Noun===
 {{sga-noun|m|muilt|muilt}}
@@ -154,21 +154,23 @@ From {{inh|sga|cel-pro|*moltos||sheep}} (compare {{cog|wlm|mollt}}, {{cog|cel-ga
 # [[ram]], [[wether]]
 
 ====Declension====
-{{sga-decl-o-masc|molt|gs=muilt|ap=moltu|dp=moltaib}}
+{{sga-decl-o-masc/new|muilt}}
 
 ====Derived terms====
-* {{l|sga|moltán}}
-* {{l|sga|moltrad}}
+{{der2|sga
+|moltán
+|moltrad
+}}
 
 ====Descendants====
-* Irish: {{l|ga|molt}}
-* Manx: {{l|gv|mohlt}}
-* Scottish Gaelic: {{l|gd|mult}}
+* {{desc|ga|molt}}
+* {{desc|gv|mohlt}}
+* {{desc|gd|mult}}
 
 ===Mutation===
 {{sga-mutation|m|olt}}
 
-===References===
+===Further reading===
 * {{R:DIL|32502}}
 
 [[Category:sga:Sheep]]
