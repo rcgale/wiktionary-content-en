@@ -61,7 +61,7 @@ From {{inh|gv|sga|corp}}, borrowed from {{bor|gv|la|corpus}}.
 Borrowed from {{bor|sga|la|corpus}}.
 
 ===Pronunciation===
-* {{IPA|/korp/|lang=sga}}
+* {{IPA|sga|/korp/}}
 
 ===Noun===
 {{sga-noun|m|coirp|coirp|gen2=cuirp|pl2=cuirp}}
@@ -74,17 +74,16 @@ Borrowed from {{bor|sga|la|corpus}}.
 # {{qualifier|text}} body
 
 ====Inflection====
-{{sga-decl-o-masc
-|gs=cuirp
-|ds=curp
-|ap=curpu
-|dp=corpaib
+{{sga-decl-o-masc/new
+|coirp|gen_sg2=cuirp
+|dat_sg=curp
+|acc_pl=curpu
 }}
 
 ====Descendants====
-* Irish: {{l|ga|corp}}
-* Manx: {{l|gv|corp}}
-* Scottish Gaelic: {{l|gd|corp}}
+* {{desc|ga|corp}}
+* {{desc|gv|corp}}
+* {{desc|gd|corp}}
 
 ===Mutation===
 {{sga-mutation|c|orp}}
