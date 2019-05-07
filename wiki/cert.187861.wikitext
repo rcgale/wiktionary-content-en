@@ -90,7 +90,7 @@ From {{inh|fro|la|certus}}.
 Borrowed from {{bor|sga|la|certus}}.
 
 ===Pronunciation===
-* {{IPA|/kʲer͈t/|lang=sga}}
+* {{IPA|sga|/kʲer͈t/}}
 
 ===Adjective===
 {{sga-adj|comp=certu}}
@@ -112,15 +112,17 @@ Borrowed from {{bor|sga|la|certus}}.
 
 ====Inflection====
 {{sga-decl-o-neut|cirt|ds=[[cert]], [[cirt]]}}
-{{sga-decl-o-masc|cirt|ds=[[cert]], [[cirt]]}}
+{{sga-decl-o-masc/new
+|cirt|dat_sg=cert
+|dat_sg2=cirt}}
 
 ====Derived terms====
 * {{l|sga|ina chirt}}, {{l|sga|i cirt||properly, rightly, as is fitting}}
 
 ====Descendants====
-* Irish: {{l|ga|ceart}}
-* Manx: {{l|gv|kiart}}
-* Scottish Gaelic: {{l|gd|ceart}}
+* {{desc|ga|ceart}}
+* {{desc|gv|kiart}}
+* {{desc|gd|ceart}}
 
 ===Mutation===
 {{sga-mutation|c|ert}}
