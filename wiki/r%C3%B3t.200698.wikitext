@@ -91,10 +91,10 @@ From {{inh|is|non|rót||root}}, from {{inh|is|gem-pro|*wrōts}}, from {{inh|is|i
 ==Old Irish==
 
 ===Etymology===
-{{rfe|lang=sga}}
+{{rfe|sga}}
 
 ===Pronunciation===
-* {{IPA|/r͈oːd/|lang=sga}}
+* {{IPA|sga|/r͈oːd/}}
 
 ===Noun===
 {{sga-noun|m}}
@@ -103,14 +103,17 @@ From {{inh|is|non|rót||root}}, from {{inh|is|gem-pro|*wrōts}}, from {{inh|is|i
 # [[highway]]
 
 ====Inflection====
-{{sga-decl-o-masc|rót|gs=róit|ds=rout|ap=rótu|dp=rótaib}}
+{{sga-decl-o-masc/new|róit|dat_sg=rout}}
 
 ====Descendants====
-* Irish: {{l|ga|ród}}
-* Manx: {{l|gv|raad}}
-* Scottish Gaelic: {{l|gd|rathad}}
+* {{desc|ga|ród}}
+* {{desc|gv|raad}}
+* {{desc|gd|rathad}}
 
-===References===
+===Mutation===
+{{sga-mutation|r|ót}}
+
+===Further reading===
 * {{R:DIL|35579|head=1 rót}}
 
 {{topics|sga|Roads}}
