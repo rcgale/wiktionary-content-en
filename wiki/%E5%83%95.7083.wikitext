@@ -77,7 +77,7 @@ Alternatively, {{zh-ref|Peiros and Starostin (1996)}} compare it to {{cog|bo|ཕ
 ===Kanji===
 {{ja-kanji|grade=c|rs=人12}}
 
-# [[I]] ([[male]])
+# [[I]] (''[[masculine]] [[speech]]'')
 # [[manservant]]
 
 ====Readings====
@@ -108,15 +108,24 @@ Alternatively, {{zh-ref|Peiros and Starostin (1996)}} compare it to {{cog|bo|ཕ
 {{der-bottom}}
 
 ===Etymology 1===
-{{ja-kanjitab|ぼく|yomi=o}}
+{{ja-kanjitab|yomi=goon|ぼく}}
+
+Shift in reading to use the [[on'yomi]], becoming prevalent from around the {{w|Meiji period}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
 
 ====Pronunciation====
 {{ja-pron|yomi=go|ぼく|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=NHK}}
 
+====Noun====
+{{ja-noun|ぼく}}
+
+# [[manservant]], [[servant]]
+#: {{ja-usex|忠実な'''僕'''|ちゅうじつ な '''しもべ'''|a faithful servant}}
+#: {{synonyms|ja|下僕|tr1=geboku|下男|tr2=genan|僕|tr3=shimobe|q3=see below}}
+
 ====Pronoun====
 {{ja-pos|pronoun|ぼく|ボク}}
 
-# {{lb|ja|men's speech|sort=ぼく}} [[I]]; [[me]] (personal pronoun; usually by male)
+# {{lb|ja|sort=ほく'|men's speech}} [[I]]; [[me]] (personal pronoun; usually used by males)
 #* {{quote-book
 |ja
 |location=Tokyo
@@ -164,7 +173,7 @@ Alternatively, {{zh-ref|Peiros and Starostin (1996)}} compare it to {{cog|bo|ཕ
 |publisher={{w|Mag Garden}}
 |nodate=y
 |volume=1}}
-# [[you]]; [[he]]; [[she]] (when the person to which this refers uses this term to refer to themselves, or is one who is assumed to use it, such as a young boy)
+# [[you]], [[he]], [[she]] {{q|only used in reference to a person who uses this term to refer to themselves, or is one who is assumed to use it, such as a young boy}}
 
 ====Usage notes====
 * {{U:ja:informal|ボク}}
@@ -176,18 +185,22 @@ Alternatively, {{zh-ref|Peiros and Starostin (1996)}} compare it to {{cog|bo|ཕ
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|しもべ}}
 
+Originally a compound of {{compound|ja|下|tr1=shimo|t1=lower|部|tr2=be|t2=servant to the imperial court}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
 ====Pronunciation====
 {{ja-pron|yomi=k|しもべ|acc=0|acc_ref=DJR,NHK|acc2=3|acc2_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{m|ja|下部}}
 
 ====Noun====
 {{ja-noun|しもべ}}
 
-# [[manservant]]; [[servant]]
+# [[manservant]], [[servant]]
 #: {{ja-usex|忠実な'''僕'''|ちゅうじつ な '''しもべ'''|a faithful servant}}
-
-=====Synonyms=====
-* [[下僕]]
-* [[下男]]
+#: {{synonyms|ja|下僕|tr1=geboku|下男|tr2=genan|僕|tr3=boku|q3=see above}}
+# a [[man]] of low [[social status]]
+# a low-ranking [[civil servant]]
 
 ===References===
 <references/>
