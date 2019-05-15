@@ -2,19 +2,17 @@
 ==English==
 
 ===Etymology===
-First recorded in English 1852. Ultimately from {{der|en|la|fēminīnus}}, from {{m|la|fēmina||woman}}. See also {{m|en|feminine}}, {{m|en|feminism}}.
+First recorded in English 1852. Ultimately from {{der|en|la|fēminīnus}}, from {{m|la|fēmina|t=woman}}. See also {{m|en|feminine}}, {{m|en|feminism}}.
+[[Category:English words suffixed with -ist]]
 
 ===Pronunciation===
-* {{IPA|/ˈfɛmənɪst/|lang=en}}
-* {{hyphenation|fem|in|ist|lang=en}}
-
-===Hypernyms===
-* {{l|en|egalitarian}}
+* {{IPA|en|/ˈfɛmənɪst/}}
+* {{hyphenation|en|fem|in|ist}}
 
 ===Adjective===
 {{en-adj}}
 
-# Relating to or in accordance with [[feminism]].
+# relating to or in accordance with [[feminism]].
 #* {{quote-book
 |lang=en
 |date=2000-05-01
@@ -25,6 +23,7 @@ First recorded in English 1852. Ultimately from {{der|en|la|fēminīnus}}, from 
 |pageurl=http://books.google.com/books?id=uvIQbop4cdsC&pg=PR11
 |passage='''Feminist''' struggle takes place anytime anywhere any female or male resists sexism, sexist exploitation, and oppression.
 }}
+#: {{hypernyms|en|egalitarian}}
 
 ====Translations====
 {{trans-top|relating to or in accordance with feminism}}
@@ -60,19 +59,21 @@ First recorded in English 1852. Ultimately from {{der|en|la|fēminīnus}}, from 
 ===Noun===
 {{en-noun}}
 
-# An advocate of [[feminism]]; a person who believes in bringing about the equality of the sexes (of women and men) in all aspects of public and private life.
-# A member of a feminist political movement.
+# an advocate of [[feminism]]; a person who believes in bringing about the equality of the sexes (of women and men) in all aspects of public and private life
+#: {{hypernyms|en|egalitarian}}
+# a member of a feminist political movement
 
 ====Derived terms====
-{{der4|en
+{{der3|en
 |antifeminist
 |cyberfeminist
 |[[femifascism]] {{qualifier|blend}}
 |[[femifascist]] {{qualifier|blend}}
 |[[feminazi]] {{qualifier|blend}}
 }}
+
 ====Related terms====
-{{rel4|en
+{{rel3|en
 |feminism
 |feminine
 |[[femicentric]], [[femi-centric]]|feminacentric|feminocentric|feminocentrism
@@ -152,13 +153,10 @@ From {{der|da|fr|féministe}}.
 {{da-noun|en|er}}
 
 # {{l|en|feminist}}
+#: {{syn|da|kvindeforkæmper|kvindesagsforkæmper}}
 
 ====Declension====
 {{da-noun-infl|en|er}}
-
-====Synonyms====
-* {{l|da|kvindeforkæmper}}
-* {{l|da|kvindesagsforkæmper}}
 
 ====Derived terms====
 * {{l|da|feministisk}}
@@ -171,18 +169,18 @@ From {{der|da|fr|féministe}}.
 ==Dutch==
 
 ===Pronunciation===
-* {{audio|Nl-feminist.ogg|Audio|lang=nl}}
+* {{audio|nl|Nl-feminist.ogg|Audio}}
 
 ===Noun===
 {{nl-noun|m|-en|feministje|f=feministe}}
 
-# [[#English|feminist]]
+# {{l|en|feminist}}
 
 ====Derived terms====
-* {{l|nl|feministisch}} (adj)
+* {{l|nl|feministisch|pos=a}}
 
 ====Related terms====
-* {{l|nl|feminisme}} {{g2|f}}
+* {{l|nl|feminisme|g=f}}
 
 ----
 
@@ -194,8 +192,9 @@ From {{der|da|fr|féministe}}.
 # a {{l|en|feminist}}
 
 ====Related terms====
-* {{l|nb|feminisme}}
-* {{l|nb|feministisk}}
+{{rel2|nb
+|feminisme
+|feministisk}}
 
 ----
 
@@ -219,4 +218,4 @@ From {{der|da|fr|féministe}}.
 ===Noun===
 {{sh-noun|g=m}}
 
-# [[#English|feminist]]
+# {{l|en|feminist}}
