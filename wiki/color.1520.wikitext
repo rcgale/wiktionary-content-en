@@ -610,8 +610,8 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 # {{lb|en|informal}} To attribute a quality to.
 #: {{ux|en|'''Color''' me confused.}}
 #: {{syn|en|call}}
-# {{lb|en|mathematics}} To [[assign]] colors to the [[vertex|vertices]] of (a [[graph]]) or the [[region]]s of (a [[map]]) so that no two [[adjacent]] ones have the [[same]] color.
-#: {{ux|en|Can this graph be two-'''colored'''?}}
+# {{lb|en|mathematics|graph theory}} To [[assign]] colors to the [[vertex|vertices]] of a [[graph]] (''or'' the [[region]]s of a [[map]]) so that no two vertices connected by an [[edge]] (regions sharing a border) have the [[same]] color.
+#: {{ux|en|Can this graph be 2-'''colored'''?}}
 #: {{ux|en|You can '''color''' any map with four colors.}}
 
 ====Antonyms====
