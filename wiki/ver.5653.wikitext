@@ -29,7 +29,7 @@ From {{inh|af|nl|ver}}, from {{inh|af|dum|verre}}.
 {{unk|sq}}. Maybe related to {{m|sq|urë}}.
 
 ===Noun===
-{{head|sq|noun|g=m|plural|verra}}
+{{sq-noun|m|verra}}
 
 # {{lb|sq|architecture}} [[arch]]
 
@@ -74,9 +74,9 @@ From {{inh|nl|dum|verre}}. {{etystub|nl}}
 
 ===Pronunciation===
 * {{IPA|/vɛr/|lang=nl}}
-* {{audio|Nl-ver.ogg|audio (Holland)|lang=nl}}
-* {{hyphenation|lang=nl|ver}}
 * {{rhymes|ɛr|lang=nl}}
+* {{hyph|ver|lang=nl}}
+* {{audio|Nl-ver.ogg|audio (Holland)|lang=nl}}
 
 ===Adjective===
 {{nl-adj}}
@@ -139,13 +139,13 @@ From {{inh|fr|fro|ver}}, {{m|fro|verm||worm}}, from {{inh|fr|la|vermis|vermis, v
 
 ===Pronunciation===
 * {{fr-IPA}}
+* {{rhymes|ɛʁ|lang=fr}}
 * {{audio|Fr-ver-France-Aquitaine.ogg|Audio (France, Aquitaine)|lang=fr}}
 * {{a|Quebec}} {{IPA|/vaɛ̯ʁ/|lang=fr}}
 * {{audio|Fr-ver-ca-Montréal.ogg|Audio (Quebec, Montreal)|lang=fr}}
 * {{audio|LL-Q150 (fra)-DSwissK-ver.wav|Audio|lang=fr}}
-* {{rhymes|ɛʁ|lang=fr}}
+* {{hyph|ver|lang=fr}}
 * {{homophones|vair|vairs|verre|verres|vers|vert|verts|lang=fr}}
-* {{hyphenation|ver|lang=fr}}
 
 ===Noun===
 {{fr-noun|m}}
@@ -176,12 +176,14 @@ From {{inh|fr|fro|ver}}, {{m|fro|verm||worm}}, from {{inh|fr|la|vermis|vermis, v
 ===Etymology===
 From {{inh|gl|roa-opt|veer}}, from {{inh|gl|la|vidēre}}, present active infinitive of {{m|la|videō||to see}}, from {{inh|gl|itc-pro|*widēō||to see}}, from {{der|gl|ine-pro|*weyd-||to know; see}}.
 
+===Pronunciation===
+{{rfp|gl}}
+
 ===Verb===
 {{gl-verb|v|er|pres=vexo|pret=vin|part=visto}}
 
 # {{lb|gl|irregular}} to [[see]]
-# {{inflection of|ver||1|s|pr|inf|lang=gl}}
-# {{inflection of|ver||3|s|pr|inf|lang=gl}}
+# {{inflection of|ver||1|and|3|s|pr|inf|lang=gl}}
 
 ====Conjugation====
 {{gl-conj (ver)|v}}
@@ -416,10 +418,10 @@ Cognate with {{cog|grc|ἔαρ|id=spring}}, {{cog|non|vár}}, {{cog|lt|vasara}},
 * Fala: {{l|fax|veran}}
 * French: {{l|fr|primevère}}
 {{mid2}}
-* Galician: {{l|gl|verán}}, {{l|gl|vrán}}
-* Mirandese: {{l|mwl|berano}}
-* Old Portuguese: {{l|roa-opt|verão}}
-* Portuguese: {{l|pt|verão}}
+* {{desc|gl|verán}}, {{l|gl|vrán}}
+* {{desc|mwl|berano}}
+* {{desc|roa-opt|verão}}
+** {{desc|pt|verão}}
 * Romanian: {{l|ro|vară}}
 * Spanish: {{l|es|verano}}
 {{bottom}}
@@ -496,6 +498,18 @@ Also used in order to express a phrase where English would use [[ago]], such as 
 
 ----
 
+==Piedmontese==
+
+===Etymology===
+From {{inh|pms|la|vērus|t=true}}, from {{inh|pms|itc-pro|*wēros}}, from a {{inh|pms|ine-pro||*weh₁-ros}}, from {{m|ine-pro|*weh₁-|t=true}}.
+
+===Adjective===
+{{head|pms|adjective}}
+
+# [[true]]
+
+----
+
 ==Portuguese==
 
 ===Etymology===
@@ -508,6 +522,7 @@ From {{inh|pt|roa-opt|veer}}, from {{inh|pt|la|vidēre}}, present active infinit
 ** {{a|South Brazil}} {{IPA|/ve(ɻ)/|lang=pt}}
 ** {{a|Northeast Brazil}} {{IPA|/ve(h)/|lang=pt}}
 * {{a|Brazil}} {{homophones|vê|lang=pt}}
+* {{hyph|ver|lang=pt}}
 
 ===Verb===
 {{pt-verb||ver}}
@@ -600,6 +615,7 @@ From {{inh|es|la|vidēre}}, present active infinitive of {{m|la|videō}}, from {
 
 ===Pronunciation===
 * {{es-IPA}}
+* {{hyph|ver|lang=es}}
 
 ===Verb===
 {{es-verb|v|er|pres=veo|pret=vi|part=visto}}
