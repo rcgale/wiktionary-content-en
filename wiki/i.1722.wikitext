@@ -1359,44 +1359,37 @@ From {{inh|sga|cel-pro|*en}} (compare {{cog|cy|yn}}), from {{inh|sga|ine-pro|*h�
 
 ====Derived terms====
 ; Combinations with the definite article
-* {{l|sga|isin}} {{qualifier|accusative/dative masculine/feminine singular}}
+* {{l|sga|isin}} {{qualifier|accusative masculine/feminine singular}}
 * {{l|sga|issa}} {{qualifier|accusative neuter singular}}
 * {{l|sga|isind}} {{qualifier|dative singular}}
 * {{l|sga|isna}} {{qualifier|accusative plural}}
 * {{l|sga|isnaib}} {{qualifier|dative plural}}
 
 ; Combinations with possessive determiners
-* {{l|sga|ím}} {{qualifier|1st person singular}}
-* {{l|sga|inna}}, {{l|sga|na}} {{qualifier|3rd person}}
+* {{l|sga|ím|t=in my}} {{q|1st person singular}}
+* {{l|sga|inna}}, {{l|sga|na|t=in his/her/its/their}} {{q|3rd person}}
 
 ; Combinations with object pronouns
-{| class=wikitable
-! Person
-! Singular
-! Plural
-|-
-! 1
-| {{l|sga|indium}}, {{l|sga|indiumm}}
-| {{l|sga|indiunn}}
-|-
-! 2
-| {{l|sga|indiut}}
-| {{l|sga|indib}}
-|-
-! 3 masc./neut. dat.
-| {{l|sga|and}}
-| rowspan=2| {{l|sga|indib}}
-|-
-! 3 fem. dat.
-| {{l|sga|indi}}
-|-
-! 3 masc./neut. acc.
-| {{l|sga|ind}}
-| rowspan=2| {{l|sga|intiu}}
-|-
-! 3 fem. acc.
-| {{l|sga|inte}}
-|}
+{{sga-prep-infl
+ |1sg         = [[indium]]([[indiumm|m]])
+ |1sg-em      = indiumsa
+ |2sg         = indiut
+ |2sg-em      = [[indiutsu]], [[indiutsiu]]
+ |3sgm-dat    = and
+ |3sgm-dat-em = andsom
+ |3sgm-acc    = ind
+ |3sgm-acc-em = indsom
+ |3sgf-dat    = indi
+ |3sgf-acc    = inte
+ |3sgf-acc-em = intesi
+ |1pl         = indiunn
+ |1pl-em      = indiunni
+ |2pl         = indib
+ |2pl-em      = indibsi
+ |3pl-dat     = indib
+ |3pl-dat-em  = [[indibsom]], [[indibsem]]
+ |3pl-acc     = intiu
+}}
 
 ====Descendants====
 * {{desc|ga|i}}
