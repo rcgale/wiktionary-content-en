@@ -8,9 +8,9 @@ From {{inh|en|enm|vapour}}, from {{der|en|xno|vapour}}, {{der|en|fro|vapor}}, fr
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈveɪpə/|lang=en}}
+* {{rhymes|eɪpə(r)|lang=en}}
 * {{audio|en-us-vapour.ogg|Audio (US)|lang=en}}
 * {{audio|En-us-vapor.ogg|Audio (US)|lang=en}}
-* {{rhymes|eɪpə(r)|lang=en}}
 
 ===Noun===
 {{wikipedia}}
@@ -164,7 +164,7 @@ From {{inh|en|enm|vapour}}, from {{der|en|xno|vapour}}, {{der|en|fro|vapor}}, fr
 ==Albanian==
 
 ===Noun===
-{{head|sq|noun}}
+{{sq-noun}}
 
 # [[steamboat]]
 
@@ -173,7 +173,10 @@ From {{inh|en|enm|vapour}}, from {{der|en|xno|vapour}}, {{der|en|fro|vapor}}, fr
 ==Asturian==
 
 ===Etymology===
-From {{etyl|la|ast}} {{m|la|vapor}}.
+From {{der|ast|la|vapor}}.
+
+===Pronunciation===
+{{rfp|ast}}
 
 ===Noun===
 {{ast-noun|m|vapores}}
@@ -185,19 +188,28 @@ From {{etyl|la|ast}} {{m|la|vapor}}.
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{m|la|vapor}}.
+From {{der|ca|la|vapor}}.
+
+===Pronunciation===
+* {{ca-IPA}}
 
 ===Noun===
 {{ca-noun|m}}
 
 # {{l|en|vapor}}, {{l|en|steam}}
 
+===Further reading===
+* {{R:IEC2}}
+
 ----
 
 ==Galician==
 
 ===Etymology===
-From {{etyl|la|gl}} {{m|la|vapor}}.
+From {{der|gl|la|vapor}}.
+
+===Pronunciation===
+{{rfp|gl}}
 
 ===Noun===
 {{gl-noun|m|vapores}}
@@ -206,6 +218,9 @@ From {{etyl|la|gl}} {{m|la|vapor}}.
 
 ====Synonyms====
 * {{sense|vapor}} {{l|gl|gas}}
+
+===Further reading===
+* {{R:DRAG}}
 
 ----
 
@@ -300,10 +315,25 @@ Uncertain, but possibly related to Ancient Greek {{m|grc|καπνός||smoke}} a
 
 ----
 
+==Piedmontese==
+
+===Alternative forms===
+* {{alter|pms|vapur}}
+
+===Pronunciation===
+* {{IPA|/vaˈpur/|lang=pms}}
+
+===Noun===
+{{head|pms|noun|g=m|plural|vapor}}
+
+# [[vapor]], [[steam]]
+
+----
+
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|la|pt}} {{m|la|vapor}}.
+From {{der|pt|la|vapor}}.
 
 ===Pronunciation===
 * {{a|Portugal}} {{IPA|/vɐ.ˈpoɾ/|lang=pt}}
@@ -311,7 +341,7 @@ From {{etyl|la|pt}} {{m|la|vapor}}.
 * {{a|South Brazil}} {{IPA|/va.ˈpoɻ/|lang=pt}}
 * {{a|Carioca}} {{IPA|/va.ˈpox/|lang=pt}}
 * {{a|Northeast Brazil}} {{IPA|/va.ˈpo/|lang=pt}}
-* {{hyphenation|va|por|lang=pt}}
+* {{hyph|va|por|lang=pt}}
 
 ===Noun===
 {{pt-noun|m|vapores}}
@@ -320,6 +350,9 @@ From {{etyl|la|pt}} {{m|la|vapor}}.
 
 ===Anagrams===
 * {{l|pt|prova}}, {{l|pt|pavor}}
+
+===Further reading===
+* {{R:DAN}}
 
 ----
 
@@ -344,13 +377,17 @@ From {{etyl|it|ro}} {{m|it|vapore}}, {{etyl|fr|ro}} {{m|fr|vapeur}}.
 ==Spanish==
 
 ===Etymology===
-From {{etyl|la|es}} {{m|la|vapor}}.
+From {{der|es|la|vapor}}.
 
 ===Pronunciation===
-* {{IPA|[baˈpoɾ]|lang=es}}
+* {{es-IPA}}
 * {{rhymes|oɾ|lang=es}}
+* {{hyph|va|por|lang=pt}}
 
 ===Noun===
 {{es-noun|m|vapores}}
 
 # [[steam]], [[vapor]] (water vapor)
+
+===Further reading===
+* {{R:DRAE}}
