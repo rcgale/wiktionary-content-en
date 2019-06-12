@@ -1,8 +1,8 @@
 ==English==
 {{wikipedia}}
 
-===Et ===
-
+===Etymology 1===
+{{PIE root|en|keh₂n}}
 From {{inh|en|enm|accent}}, from {{der|en|frm|accent}}, from {{der|en|fro|acent}}, from {{der|en|la|accentus}}, past participle of {{m|la|accinō||sing to, sing along}}. The word {{m|ang|accent}} had been borrowed into Old English already, but was lost and reborrowed in Middle English.
 
 ====Pronunciation====
@@ -38,7 +38,7 @@ From {{inh|en|enm|accent}}, from {{der|en|frm|accent}}, from {{der|en|fro|acent}
 # {{lb|en|linguistics|sign languages}} A distinctive manner of [[producing]] a [[sign language]], such as someone who does not normally use a certain sign language might have when using it.
 #*{{quote-text|lang=en|year=2008|author=Jeremy Linn Brunson|title=The Practice and Organization of Sign Language|page=76
 |passage=I believe I still retain some of my hearing '''accent''' when I use American Sign Language.}}
-#*'''2015''' December 3, ''[./http://www.pri.org/stories/2015-12-03/philadelphia-accent-sign-language There's a distinctly Philadelphia '''accent''' in American Sign Language]''
+#* <!-- good example even if not durable -->'''2015''' December 3, ''[./http://www.pri.org/stories/2015-12-03/philadelphia-accent-sign-language There's a distinctly Philadelphia '''accent''' in American Sign Language]''
 # A [[word]]; a significant [[tone]] or [[sound]].
 # {{lb|en|usually|plural only}} Expressions in general; [[speech]].
 #* Dryden
@@ -73,6 +73,63 @@ The word "accent" is often used specifically to refer to manners of speech that 
 {{der-bottom}}
 
 =====Translations=====
+{{trans-top|stronger articulation}}
+* Arabic: {{t|ar|نَبْر|m}}
+* Armenian: {{t+|hy|շեշտ}}
+* Asturian: {{t|ast|acentu|m}}
+* Bashkir: {{t|ba|баҫым|sc=Cyrl}}
+* Belarusian: {{t|be|на́ціск|m}}
+* Bulgarian: {{t+|bg|ударе́ние|n}}
+* Catalan: {{t+|ca|accent|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|重音|tr=zhòngyīn|sc=Hani}}, {{t+|cmn|腔調|sc=Hani}}, {{t+|cmn|腔調|tr=qiāngdiào|sc=Hani}}, {{t+|cmn|強勢}}, {{t+|cmn|强势|tr=qiángshì}}
+* Czech: {{t+|cs|přízvuk|m}}
+* Danish: {{t|da|betoning}}, {{t|da|tryk|n}}
+* Dutch: {{t+|nl|accent|n}}, {{t+|nl|klemtoon|m}}
+* Esperanto: {{t|eo|akcento}}
+* Faroese: {{t|fo|herðing|f}}
+* Finnish: {{t+|fi|paino}}
+* French: {{t+|fr|accent|m}}
+* Galician: {{t|gl|acento|m}}
+* German: {{t+|de|Betonung|f}}
+* Greek: {{t+|el|τόνος|m}}
+*: Ancient: {{t|grc|τόνος|m}}
+* Hebrew: {{t+|he|דגש|m|tr=dagéš}}
+* Hungarian: {{t+|hu|hangsúly}}
+* Icelandic: {{t|is|áhersla|f}}
+* Indonesian: {{t+|id|aksen}}
+* Interlingue: {{t|ie|accentu}}
+* Irish: {{t|ga|aiceann|m}}, {{t|ga|béim ghutha|f}}
+* Italian: {{t+|it|accento|m}}
+{{trans-mid}}
+* Japanese: {{t|ja|強音|tr=きょうおん, kyōon}}, {{t+|ja|強調|tr=きょうちょう, kyōchō}}, {{t+|ja|アクセント|tr=akusento}}, {{t+|ja|強勢|tr=きょうせい, kyōsei}}
+* Khmer: {{t|km|តានា}}
+* Korean: {{t|ko|강세}}
+* Kumyk: {{t|kum|ургъу|tr=urğu}}
+* Latvian: {{t|lv|akcents|m}}, {{t|lv|uzsvars|m}}
+* Lithuanian: {{t|lt|kirtis|m}}
+* Macedonian: {{t|mk|на́гласок|m}}
+* Malay: {{t|ms|aksen}}
+* Norman: {{t|nrf|accent|m}} {{qualifier|Jersey}}
+* Norwegian: {{t+|no|aksent|m}}, {{t+|no|trykk|n}}, {{t|no|betoning|m}}
+* Polish: {{t+|pl|akcent|m-in}}, {{t+|pl|nacisk|m-in}}
+* Portuguese: {{t+|pt|acento|m}}, {{t+|pt|tonicidade|f}}
+* Romanian: {{t+|ro|accent|n}}, {{t+|ro|intonație|f}}
+* Russian: {{t+|ru|ударе́ние|n}}
+* Sardinian: {{t|sc|atzentu|m}}
+* Scottish Gaelic: {{t|gd|beum|m}}
+* Serbo-Croatian: {{t+|sh|naglasak|m}}, {{t|sh|нагласак|m}}
+* Slovak: {{t+|sk|prízvuk|m}}
+* Slovene: {{t+|sl|naglàs|m-in}}
+* Spanish: {{t+|es|acento|m}}
+* Swedish: {{t+|sv|accent|c}}, {{t+|sv|betoning|c}}
+* Turkish: {{t+|tr|vurgu}}
+* Ukrainian: {{t|uk|на́голос|m}}
+* Uyghur: {{t|ug|ئۇرغۇ}}
+* Vietnamese: {{t+|vi|trọng âm}} ({{t|vi|重音|sc=Hani}})
+* Votic: {{t|vot|rõhka}}
+{{trans-bottom}}
+
 {{trans-top|emphasis or importance in general}}
 * Belarusian: {{t|be|на́ціск|m}}
 * Esperanto: {{t|eo|akcento}}
@@ -83,10 +140,111 @@ The word "accent" is often used specifically to refer to manners of speech that 
 * Russian: {{t+|ru|ударе́ние|n}}, {{t+|ru|акце́нт|m}}
 {{trans-bottom}}
 
+{{trans-top|orthography: mark to indicate accent}}
+* Arabic: {{t|ar|عَلَامَة نَبْر|f|tr=ʿalāmat nabr}}
+* Armenian: {{t+|hy|շեշտ}}
+* Asturian: {{t|ast|acentu|m}}, {{t|ast|tilde|f}}
+* Bulgarian: {{t+|bg|ударе́ние|n}}
+* Catalan: {{t+|ca|accent|m}}, {{t+|ca|titlla|f}}
+* Chinese:
+*: Mandarin: {{t|cmn|尖音符|tr=jiānyīnfú|sc=Hani}}
+* Dutch: {{t+|nl|accent|n}}, {{t+|nl|klemtoon|m}}
+* Finnish: {{t+|fi|aksenttimerkki}}, {{t+|fi|aksentti}}
+* French: {{t+|fr|accent|m}}
+* Galician: {{t|gl|acento|m}}
+* Greek: {{t+|el|τόνος}}
+* Hungarian: {{t+|hu|ékezet}}
+* Interlingue: {{t|ie|accentu}}
+* Italian: {{t+|it|accento|m}}
+* Japanese: {{t+|ja|アクセント|tr=akusento}}
+* Ligurian: {{t|lij|acénto|m}}
+{{trans-mid}}
+* Macedonian: {{t|mk|акце́нт|m}}
+* Maori: {{t|mi|tohu whakahua kupu}}, {{t|mi|tohu whakahua}}
+* Norman: {{t|nrf|accent|m}} {{qualifier|Jersey}}
+* Norwegian: {{t+|no|aksent|m}}
+* Persian: {{t|fa|آکسان|tr=āksān|sc=fa-Arab}}
+* Portuguese: {{t+|pt|acento|m}}
+* Romanian: {{t+|ro|accent|n}}
+* Russian: {{t|ru|[[знак]] [[ударение|ударе́ния]]|n}}, {{t+|ru|ударе́ние|n}}
+* Sardinian: {{t|sc|atzentu|m}}
+* Spanish: {{t+|es|acento|m}}, {{t+|es|tilde|f}}
+* Swedish: {{t+|sv|accent}}
+* Tagalog: {{t+|tl|diin}}
+* Telugu: {{t+|te|శైలి}}
+* Vietnamese: {{t+|vi|dấu}}
+* Volapük: {{t+|vo|kazetamal}}
+{{trans-bottom}}
+
 {{trans-top|modulation of the voice in speaking}}
 * Finnish: {{t+|fi|painotus}}, {{t|fi|äänensävy}}, {{t+|fi|sävy}}
 {{trans-mid}}
 * Italian: {{t+|it|tono|m}}, {{t+|it|modulazione|f}}, {{t+|it|enfasi|f}}
+{{trans-bottom}}
+
+{{trans-top|distinctive pronunciation associated with a region, social group, etc.}}
+* Afrikaans: {{t|af|tongval}}
+* Albanian: {{t-needed|sq}}
+* Arabic: {{t|ar|لُكْنَة|f}}, {{t|ar|تَلَفُّظ|m}}, {{t|ar|نُطْق|m}}
+* Armenian: {{t+|hy|ակցենտ}}, {{t+|hy|առոգանություն}}
+* Asturian: {{t|ast|acentu|m}}
+* Basque: {{t-needed|eu}}
+* Belarusian: {{t|be|акцэ́нт|m}}
+* Bulgarian: {{t+|bg|акце́нт|m}}, {{t+|bg|произноше́ние|n}}
+* Burmese: {{t-needed|my}}
+* Catalan: {{t+|ca|accent|m}}
+* Chinese:
+*: Cantonese: {{t|yue|口音|tr=hau2 jam1}}
+*: Dungan: {{t-needed|dng}}
+*: Mandarin: {{t+|cmn|口音|tr=kǒuyin|sc=Hani}}, {{t+|cmn|方音|tr=fāngyīn|sc=Hani}}
+* Czech: {{t+|cs|přízvuk|m}}
+* Danish: {{t+|da|accent|c}}
+* Dutch: {{t+|nl|accent|n}}, {{t+|nl|tongval|m}}, {{t+|nl|uitspraak|f}}
+* Esperanto: {{t+|eo|akĉento}}
+* Finnish: {{t+|fi|korostus}}
+* French: {{t+|fr|accent|m}}
+* Galician: {{t|gl|acento|m}}
+* Georgian: {{t-needed|ka}}
+* German: {{t+|de|Akzent|m}}
+* Greek: {{t+|el|προφορά|f}}
+* Hebrew: {{t|he|מבטא|m|tr=mivtá}}
+* Hindi: {{t|hi|लहज़ा|m}}, {{t+|hi|लहजा|m}}, {{t+|hi|स्वरपात|m}}
+* Hungarian: {{t+|hu|akcentus}}
+* Ido: {{t+|io|acento}}
+* Irish: {{t|ga|blas|m}}
+* Italian: {{t+|it|accento|m}}, {{t+|it|cadenza|f}}, {{t+|it|inflessione|f}}, {{t+|it|calata|f}}
+* Japanese: {{t+|ja|なまり|tr=namari}}, {{t|ja|話し振り|tr=hanashiburi}}
+{{trans-mid}}
+* Khmer: {{t-needed|km}}
+* Korean: {{t+|ko|악센트}}, {{t|ko|말씨}}
+* Kurdish: {{t+|ku|devok|f}}
+*: Central Kurdish: {{t|ckb|شێوەزار}}
+* Lao: {{t|lo|ສຳນຽງ|tr=samniang}}
+* Latvian: {{t|lv|akcents|m}}
+* Lithuanian: {{t-needed|lt}}
+* Macedonian: {{t|mk|на́гласок|m}}
+* Maltese: {{t-needed|mt}}
+* Maori: {{t|mi|mita}}
+* Mongolian: {{t-needed|mn}}
+* Norman: {{t|nrf|accent|m}} {{qualifier|Jersey}}
+* Norwegian: {{t+|no|aksent|m}}, {{t+|no|uttale|m}}, {{t|no|tonefall|n}}
+* Persian: {{t+|fa|لهجه|tr=lahje}}, {{t|fa|اکسنت|tr=aksent}}
+* Portuguese: {{t+|pt|sotaque|m}}, {{t+|pt|acento|m}}
+* Russian: {{t+|ru|акце́нт|m}}
+* Sardinian: {{t|sc|atzentu|m}}
+* Slovene: {{t+|sl|naglàs|m-in}}
+* Spanish: {{t+|es|acento|m}}
+* Swedish: {{t+|sv|accent|c}}, {{t+|sv|brytning|c}}
+* Tagalog: {{t+|tl|punto}}
+* Tamil: {{t-needed|ta}}
+* Telugu: {{t+|te|యాస}}
+* Thai: {{t+|th|สำเนียง}}
+* Tibetan: {{t|bo|སྐད་གདངས}}
+* Turkish: {{t+|tr|şive}}, {{t+|tr|aksan}}
+* Ukrainian: {{t+|uk|акцент}}, {{t+|uk|вимова}}
+* Uyghur: {{t|ug|شىۋە}}
+* Vietnamese: {{t+|vi|giọng|tr=voice}}, {{t+|vi|tiếng|tr=language}}, {{t|vi|khẩu âm}}
+* Welsh: {{t+|cy|acen|f}}
 {{trans-bottom}}
 
 {{trans-top|distinctive manner of producing a sign language}}
@@ -107,14 +265,132 @@ The word "accent" is often used specifically to refer to manners of speech that 
 * Finnish: {{t+|fi|puhe}}, {{t+|fi|ilmaisu}}
 {{trans-bottom}}
 
+{{trans-top|prosody: stress on syllables of a verse}}
+* Arabic: {{t|ar|نَبْر|m}}
+* Belarusian: {{t|be|на́ціск|m}}
+* Bulgarian: {{t+|bg|ритъм|m}}
+* Catalan: {{t+|ca|accent|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|重音|tr=zhòngyīn|sc=Hani}}, {{t+|cmn|腔調|sc=Hani}}, {{t+|cmn|腔調|tr=qiāngdiào|sc=Hani}}
+* Dutch: {{t+|nl|accent|n}}
+* Finnish: {{t+|fi|paino}}, {{t+|fi|painotus}}
+* French: {{t+|fr|accent|m}}
+* German: {{t+|de|Betonung|f}}
+* Italian: {{t+|it|accento|m}}
+* Japanese: {{t+|ja|強調|tr=きょうちょう, kyōchō}}, {{t|ja|強音|tr=きょうおん, kyōon}}
+{{trans-mid}}
+* Latvian: {{t|lv|akcents|m}}
+* Macedonian: {{t|mk|на́гласок|m}}
+* Norman: {{t|nrf|accent|m}} {{qualifier|Jersey}}
+* Norwegian: {{t+|no|aksent|m}}
+* Polish: {{t+|pl|akcent|m-in}}
+* Portuguese: {{t+|pt|acento|m}}
+* Russian: {{t+|ru|ударе́ние|n}}, {{t+|ru|акце́нт|m}}
+* Sardinian: {{t|sc|atzentu|m}}
+* Spanish: {{t+|es|acento|m}}
+* Uyghur: {{t|ug|ئۇرغۇ}}
+* Vietnamese: {{t+|vi|trọng âm}} ({{t|vi|重音|sc=Hani}})
+{{trans-bottom}}
+
+{{trans-top|music: recurring stress on a tone}}
+* Dutch: {{t+|nl|accent|n}}
+* Finnish: {{t+|fi|isku}}
+* French: {{t+|fr|accent|m}}
+* German: {{t+|de|Betonung|f}}
+* Irish: {{t|ga|aiceann|m}}
+* Italian: {{t+|it|accento|m}}
+* Latvian: {{t|lv|akcents|m}}
+* Maori: {{t|mi|rīrā }}
+{{trans-mid}}
+* Norman: {{t|nrf|accent|m}} {{qualifier|Jersey}}
+* Norwegian: {{t+|no|aksent|m}}, {{t+|no|trykk|n}}
+* Polish: {{t+|pl|akcent|m-in}}
+* Portuguese: {{t+|pt|acento|m}}
+* Russian: {{t+|ru|акце́нт|m}}
+* Sardinian: {{t|sc|atzentu|m}}
+* Spanish: {{t+|es|acento|m}}
+{{trans-bottom}}
+
+{{trans-top|music: special emphasis on a tone}}
+* Bulgarian: {{t+|bg|акце́нт|m}}
+* Dutch: {{t+|nl|accent|n}}
+* Finnish: {{t+|fi|aksentti}}
+* French: {{t+|fr|accent|m}}
+* German: {{t+|de|Betonung|f}}
+* Italian: {{t+|it|accento|m}}
+* Latvian: {{t|lv|akcents|m}}
+* Macedonian: {{t|mk|акце́нт|m}}
+{{trans-mid}}
+* Maori: {{t|mi|rīrā}}
+* Norman: {{t|nrf|accent|m}} {{qualifier|Jersey}}
+* Norwegian: {{t+|no|aksent|m}}
+* Polish: {{t+|pl|akcent|m-in}}
+* Portuguese: {{t+|pt|acentuação|f}}
+* Russian: {{t+|ru|акце́нт|m}}
+* Sardinian: {{t|sc|atzentu|m}}
+* Ukrainian: {{t+|uk|акцент}}
+{{trans-bottom}}
+
+{{trans-top|music: rhythmical accent}}
+* Bulgarian: {{t+|bg|акце́нт|m}}
+* Dutch: {{t+|nl|accent|n}}
+* Finnish: {{t+|fi|aksentti}}
+* French: {{t+|fr|accent|m}}
+* Italian: {{t+|it|accento|m}}
+* Latvian: {{t|lv|akcents|m}}
+{{trans-mid}}
+* Macedonian: {{t|mk|акце́нт|m}}
+* Norman: {{t|nrf|accent|m}} {{qualifier|Jersey}}
+* Norwegian: {{t+|no|aksent|m}}, {{t+|no|trykk|n}}
+* Portuguese: {{t+|pt|acentuação|f}}
+* Russian: {{t+|ru|акце́нт|m}}
+* Sardinian: {{t|sc|atzentu}}
+{{trans-bottom}}
+
+{{trans-top|music: expressive emphasis of a passage}}
+* Bulgarian: {{t+|bg|акце́нт|m}}
+* Dutch: {{t+|nl|accent|n}}
+* Finnish: {{t+|fi|aksentti}}
+* French: {{t+|fr|accent|m}}
+* Italian: {{t+|it|accento|m}}
+* Latvian: {{t|lv|akcents|m}}
+{{trans-mid}}
+* Macedonian: {{t|mk|акце́нт|m}}
+* Norman: {{t|nrf|accent|m}} {{qualifier|Jersey}}
+* Portuguese: {{t+|pt|acentuação|f}}
+* Russian: {{t+|ru|акце́нт|m}}
+* Sardinian: {{t|sc|atzentu}}
+* Spanish: {{t+|es|acento|m}}
+{{trans-bottom}}
+
 {{trans-top|music: mark to represent specific stress on a note}}
 * Finnish: {{t+|fi|aksenttimerkki}}
 {{trans-mid}}
 {{trans-bottom}}
 
+{{trans-top|math: mark to distinguish magnitudes of similar kind}}
+* Bulgarian: {{t+|bg|акце́нт|m}}
+* Dutch: {{t+|nl|accent|n}}, {{t+|nl|accentteken|n}}
+* Finnish: {{t+|fi|pilkku}}
+* German: {{t+|de|Akzent|m}}
+{{trans-mid}}
+* Italian: {{t+|it|accento|m}}
+* Norwegian: {{t+|no|aksent|m}}, {{t+|no|merke|n}}
+* Portuguese: {{t+|pt|linha|f}}
+* Russian: {{t+|ru|штрих|m}}
+{{trans-bottom}}
+
 {{trans-top|geometry: mark indicating minutes and seconds of a degree}}
 * Finnish: {{t+|fi|pilkku}}
 {{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|mark to denote feet or inches}}
+* Dutch: {{t+|nl|accent|n}}, {{t+|nl|accentteken|n}}
+* Finnish: {{t+|fi|pilkku}}
+{{trans-mid}}
+* German: {{t+|de|Akzent|m}}
+* Macedonian: {{t|mk|прим|m}}
 {{trans-bottom}}
 
 {{trans-top|emphasis laid on a part of an artistic design or composition}}
@@ -125,6 +401,11 @@ The word "accent" is often used specifically to refer to manners of speech that 
 {{trans-bottom}}
 
 {{trans-top|very small gemstone set into a piece of jewellery}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|distinctive feature or quality}}
+* Finnish: {{t|fi|erityispiirre}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -161,6 +442,30 @@ From {{der|en|frm|accenter}}, from {{der|en|fro|accenter}}, from {{der|en|la|acc
 
 =====Translations=====
 {{trans-see|to express the accent of|accentuate}}
+
+{{trans-top|to emphasize}}
+* Armenian: {{t+|hy|շեշտել|sc=Armn}}
+* Bulgarian: {{t+|bg|подчертавам}}, {{t|bg|акцентирам}}
+* Catalan: {{t+|ca|accentuar}}
+* Dutch: {{t+|nl|accentueren}}, {{t+|nl|beklemtonen}}
+* Esperanto: {{t|eo|akcenti}}
+* Finnish: {{t+|fi|korostaa}}, {{t+|fi|painottaa}}
+* French: {{t+|fr|accentuer}}
+* Ido: {{t+|io|acentizar}}
+* Irish: {{t|ga|aiceannaigh}}
+* Italian: {{t+|it|accentuare}}
+{{trans-mid}}
+* Latvian: {{t|lv|akcentēt}}, {{t|lv|uzsvērt}}
+* Macedonian: {{t|mk|нагла́сува}}
+* Norwegian: {{t+|no|aksentuere}}
+* Portuguese: {{t+|pt|acentuar}}
+* Russian: {{t+|ru|акценти́ровать|impf|pf}}, {{t+|ru|подчёркивать|impf}}, {{t+|ru|подчеркну́ть|pf}}
+* Slovene: {{t|sl|poudariti}}
+* Spanish: {{t+|es|acentuar}}
+* Swedish: {{t+|sv|accentuera}}, {{t+|sv|betona}}
+* Turkish: {{t+|tr|vurgulamak}}
+* Ukrainian: {{t+|uk|акцентувати}}, {{t|uk|наголошувати}}, {{t|uk|підкреслювати}}
+{{trans-bottom}}
 
 {{trans-see|to mark with written accents|accentuate}}
 
@@ -280,6 +585,8 @@ Borrowed from {{bor|ang|la|accentus}}.
 #: ''baric'', ðæt ys hefig '''accent''' — baric, that is a heavy accent
 
 ====Declension====
+{{ang-decl-noun-a-m|accent}}
+
 ===References===
 * 1916, John R. Clark, "A Concise Anglo-Saxon Dictionary for the Use of Students", accent
 * 2010, J. Bosworth, An Anglo-Saxon Dictionary Online (T. N. Toller & Others, Eds.), accent
