@@ -251,10 +251,11 @@ Borrowed from {{bor|ga|fr|are}}, from {{der|ga|la|area}}.
 ==Old Irish==
 
 ===Etymology===
-From {{inh|sga|cel-pro|*agros||slaughter}}, from {{inh|sga|ine-pro|*h₂eǵro-||hunt}}; compare {{cog|grc|ἄγρα||hunt}}
+{{PIE root|sga|h₂eǵ}}
+From {{inh|sga|cel-pro|*agrom||slaughter}}, from {{inh|sga|ine-pro|*h₂eǵro-||hunt}}; compare {{cog|grc|ἄγρα||hunt}}, {{cog|ae|𐬀𐬰𐬭𐬋𐬛𐬀𐬌𐬜𐬍|t=hunt}}.
 
 ===Noun===
-{{sga-noun|m||áir|pl2=ára}}
+{{sga-noun|n||ár|pl2=ára}}
 
 # [[slaughter]], [[carnage]]
 #* {{RQ:sga-gloss|Ml|34|a|19}}
@@ -266,21 +267,24 @@ From {{inh|sga|cel-pro|*agros||slaughter}}, from {{inh|sga|ine-pro|*h₂eǵro-||
 #*: {{quote|sga|etarcnae '''áir''' mo namat|glosses ''de {{m|la|cedo|cede}} hostium''}}
 
 ====Inflection====
-{{rfinfl|sga|noun}}
+{{sga-decl-o-neut|áir|dat_pl2=áirib}}
 
 ====Derived terms====
-* {{l|sga|árchú|gloss=slaughter-hound, watchdog}}
-* {{l|sga|ármag|gloss=slaughter-plain, battlefield}}
-* {{l|sga|muccár|gloss=swine-massacre}}
+{{der3|sga
+|árchú
+|ármag
+|muccár
+}}
 
 ====Descendants====
-* Irish: {{l|ga|ár}}
-* Scottish Gaelic: {{l|gd|àr}}
+* {{desc|ga|ár}}
+* {{desc|gv|haar}}
+* {{desc|gd|àr}}
 
 ===Mutation===
 {{sga-mutation|á|r}}
 
-===References===
+===Further reading===
 * {{R:DIL|3912}}
 
 ----
