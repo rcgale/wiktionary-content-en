@@ -131,7 +131,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Friulian: {{t-needed|fur}}
 * Galician: {{t|gl|vostedes}}
 * Georgian: {{t|ka|თქვენ}}
-* German: {{t+|de|euch}} {{qualifier|accusative|familiar}}, {{t+|de|Sie}} {{qualifier|accusative|polite}}, {{t+|de|euch}} {{qualifier|dative|familiar}}, {{t+|de|Ihnen}} {{qualifier|dative|polite}}
+* German: {{t+|de|euch}}, {{t+|de|Euch}} {{qualifier|dative, accusative|familiar}}; {{t+|de|Sie}} {{qualifier|accusative|formal, polite}}, {{t+|de|Ihnen}} {{qualifier|dative|formal, polite}}
 * Greek: {{t+|el|εσάς|p}}
 * Gujarati: {{t-needed|gu}}
 * Hausa: {{t+|ha|kai|m}}, {{t|ha|ku|n-p}}, {{t|ha|ke|f}}, {{t+|ha|kai|m}}, {{t+|ha|kai|m}}
@@ -154,6 +154,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 {{trans-mid}}
 * Latvian: {{t+|lv|jūs}}
 * Lithuanian: {{t+|lt|jus}}, {{t|lt|Jus}}
+* Low German: {{t|nds|ink}}, {{t|nds|Ink}} {{qualifier|Westphalian, regional}}
 * Luxembourgish: {{t+|lb|iech}}
 * Macedonian: {{t|mk|вас}}, {{t|mk|вам}}
 * Malay: {{t|ms|kalian}}
@@ -173,7 +174,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: Nynorsk: {{t+|nn|dykk}} {{qualifier|familiar}}, {{t|nn|Dykk}} {{qualifier|polite}}
 * Novial: {{t|nov|vus}}
 * Occitan: {{t-needed|oc}}
-* Old English: {{t|ang|ēow}} {{qualifier|plural}}, {{t+|ang|inc}} {{qualifier|dual}}
+* Old English: {{t|ang|ēow}} {{qualifier|plural}}; {{t+|ang|inc}} {{qualifier|dual}}
 * Oriya: {{t|or|ଆପଣମାନଙ୍କୁ|sc=Orya}} {{qualifier|formal}}, {{t|or|ତୁମମାନଙ୍କୁ|sc=Orya}} {{qualifier|familiar}}
 * Persian: {{t|fa|شما را|tr=šomā rā}}
 * Pipil: {{t|ppl|metzin-}}
@@ -270,7 +271,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * French: {{qualifier|familiar}} {{t+|fr|toi}}, {{qualifier|polite}} {{t+|fr|vous}}
 * Galician: {{t+|gl|te}}
 * Georgian: {{t+|ka|შენ|sc=Geor}}
-* German: {{t+|de|dich}} {{qualifier|accusative|familiar}}, {{t+|de|dir}} {{qualifier|dative|familiar}}, {{t+|de|Sie|}} {{qualifier|accusative|polite}}
+* German: {{t+|de|dich}}, {{t+|de|Dich}} {{qualifier|accusative|familiar}}, {{t+|de|dir}}, {{t+|de|Dir}} {{qualifier|dative|familiar}}; {{t|de|Euch}} {{qualifier|dative, accusative}}; {{t+|de|Sie}} {{qualifier|accusative|formal, polite}}, {{t+|de|Ihnen}} {{qualifier|dative|formal, polite}}
 * Greek: {{t+|el|εσένα}}
 * Hebrew: {{t|he|אותך|m|tr=otkhá}} {{qualifier|accusative}}, {{t|he|לך|m|tr=lekhá}} {{qualifier|dative}}
 * Hindi: {{t+|hi|तुझ}} {{qualifier|familiar}}, {{t+|hi|तुम}} {{qualifier|mid-polite}}, {{t+|hi|आप}} {{qualifier|polite}}
@@ -291,6 +292,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 {{trans-mid}}
 * Latvian: {{t|lv|tevi}}, {{t+|lv|jūs}}
 * Lithuanian: {{t+|lt|tave}}, {{t|lt|Jus}}
+* Low German: {{t|nds|Di}} {{qualifier|dative}}
 * Luxembourgish: {{qualifier|familiar}} {{t|lb|dech}}, {{qualifier|polite}} {{t+|lb|iech}}
 * Macedonian: {{qualifier|familiar}} {{t+|mk|тебе}}, {{qualifier|polite}} {{t|mk|вас}}, {{t|mk|вам}}
 * Malay: {{t|ms|kamu}}, {{t|ms|anda}}, {{t+|ms|awak}}, {{t|ms|engkau}}, {{t|ms|mu}}, {{t+|ms|kau}}
@@ -398,7 +400,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 *: Old French: {{t|fro|vos}}
 * Galician: {{t+|gl|vós}}, {{t|gl|vosoutros}}
 * Georgian: {{t|ka|თქვენ}}
-* German: {{qualifier|familiar}} {{t+|de|ihr}}, {{qualifier|polite}} {{t+|de|Sie}}
+* German: {{t+|de|ihr}} {{qualifier|familiar}}; {{t+|de|Sie}} {{qualifier|formal, polite}}
 * Greek: {{t+|el|εσείς|p}}
 * Greenlandic: {{t|kl|ilissi}}
 * Guaraní: {{t|gn|peẽ}}
@@ -581,7 +583,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Friulian: {{t|fur|tu}}
 * Galician: {{t+|gl|ti}}, {{t+|gl|tu}}
 * Georgian: {{t+|ka|შენ}}, {{t|ka|თქვენ}}
-* German: {{qualifier|familiar}} {{t+|de|du}}, {{qualifier|polite}} {{t+|de|Sie}}
+* German: {{t+|de|du}}, {{t+|de|Du}} {{qualifier|familiar}}; {{t+|de|Sie}} {{qualifier|formal, polite}}
 ** Silesian: {{t|gmw-ecg|du}}
 * Gothic: {{t|got|𐌸𐌿|tr=þū}}
 * Greek: {{t+|el|εσύ}}, {{qualifier|polite}} {{t+|el|εσείς}}
@@ -615,7 +617,7 @@ When a word ending in {{IPAchar|/t/}}, {{IPAchar|/d/}}, {{IPAchar|/s/}}, or {{IP
 * Latin: {{t+|la|tu}}, {{t+|la|vos|p}}
 * Latvian: {{t+|lv|tu}}, {{qualifier|polite}} {{t+|lv|jūs|p}}
 * Lithuanian: {{t+|lt|tu}}, {{t|lt|Jūs}}
-* Low German:
+* Low German: {{t|nds|Du}}
 ** Middle Low German: {{t|gml|dū}}
 * Luxembourgish: {{qualifier|familiar}} {{t+|lb|du}}, {{qualifier|polite}} {{t+|lb|dir}}
 * Lü: {{t-needed|khb}}
