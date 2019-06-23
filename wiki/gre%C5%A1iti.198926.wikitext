@@ -55,13 +55,32 @@
 
 ==Slovene==
 
+===Etymology===
+From {{affix|sl|grẹ́h|-iti}}.
+
 ===Pronunciation===
 * {{sl-IPA|grešīti}}
 
 ===Verb===
-{{sl-verb|grešīti|impf}}
+{{sl-verb|grešīti|both}}
 
 # to [[sin]]
 
 ====Inflection====
-{{rfinfl|sl|verb}}
+{{sl-infl-verb-manual
+|inf=grešīti
+|1_s_pres=greším
+|2_s_impr=grẹ́ši
+|2_p_impr=grešȋte
+|pres_actv_ptcp=grešȅč
+|m_s_l-ptcp=grešȋl
+|f_s_l-ptcp=grešíla
+|n_s_l-ptcp=grešȋlo
+|supine=grešȋt
+|vnoun=grešénje
+}}
+
+====Derived terms====
+* {{l|sl|pregrešīti}}
+* {{l|sl|zgrešīti}}
+* {{l|sl|zagrešīti}}
