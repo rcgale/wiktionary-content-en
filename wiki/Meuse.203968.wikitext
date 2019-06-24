@@ -8,10 +8,8 @@ From {{bor|en|fr|Meuse}}.
 {{en-proper noun}}
 
 # A river in [[Europe]] that flows about 901 km (560 mi) from [[France]] through [[Belgium]] ([[Wallonia]] region) to the [[North Sea]] at the [[Netherlands]].
-# A [[department]] of [[Grand Est]], [[France]] ([[INSEE]] code 55)
-
-====Synonyms====
-* {{sense|river}} {{l|en|Maas}}
+#: {{syn|en|Maas}}
+# A [[department]] of [[Grand Est]], [[France]] ([[INSEE]] code 55).
 
 ====Translations====
 {{trans-top|river}}
@@ -30,8 +28,9 @@ From {{bor|en|fr|Meuse}}.
 * Latin: {{t|la|Mosa|m}}
 * Limburgish: {{t|li|Maas}}
 {{trans-mid}}
-* Luxembourgish: Meuse
+* Luxembourgish: {{t|lb|Meuse}}
 * Norwegian: {{t|no|Maas}}
+* Occitan: {{t|oc|Mòsa|f}}
 * Old English: {{t|ang|Mǣs}}
 * Picard: {{t|pcd|Meuse}}
 * Polish: {{t+|pl|Moza|f}}
@@ -44,6 +43,12 @@ From {{bor|en|fr|Meuse}}.
 * Spanish: {{t|es|Mosa|f}}
 * Swedish: {{t|sv|Maas}}
 * Walloon: {{t+|wa|Mouze|f}}
+{{trans-bottom}}
+
+{{trans-top|department of France}}
+* French: {{t|fr|Meuse|f}}
+{{trans-mid}}
+* Occitan: {{t|oc|Mòsa|f}}
 {{trans-bottom}}
 
 ===Anagrams===
@@ -60,7 +65,7 @@ From {{bor|en|fr|Meuse}}.
 ==French==
 
 ===Etymology===
-From {{etyl|la|fr}} {{m|la|Mosa}}, from a {{etyl|cel|fr}} source.
+From {{der|fr|la|Mosa}}, from a {{etyl|cel|fr}} source.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -68,10 +73,7 @@ From {{etyl|la|fr}} {{m|la|Mosa}}, from a {{etyl|cel|fr}} source.
 * {{audio|LL-Q150 (fra)-Fhala.K-Félicité de Choiseul-Meuse.wav|Audio|lang=fr}}
 
 ===Proper noun===
-{{fr-proper noun|g=f}}
+{{fr-proper noun|f}}
 
-# the river [[#English|Meuse]]
-# the French department of [[#English|Meuse]]
-
-[[Category:fr:Departments of France]]
-[[Category:fr:Rivers]]
+# {{place|fr|river|t=Meuse}}
+# {{place|fr|department|c/France|t=Meuse}}
