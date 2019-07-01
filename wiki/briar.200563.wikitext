@@ -1,11 +1,11 @@
 {{also|Briar}}
 ==English==
 {{wikipedia}}
-[[Image:Briar_rose_(3212229202).jpg|thumb|A sweet '''briar''' (''Rosa rubiginosa''). Mudgee, New South Wales.]]
+[[Image:Briar_rose_(3212229202).jpg|thumb|A sweet '''briar''' ({{taxlink|Rosa rubiginosa|species}}). Mudgee, New South Wales.]]
 
 ===Alternative forms===
-* {{l|en|brier}}
-* {{l|en|breer}} {{qualifier|Scotland}}
+* {{alter|en|brier}}
+* {{alter|en|breer}} {{qualifier|Scotland}}
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/bɹʌɪə/|lang=en}}
@@ -13,7 +13,7 @@
 * {{rhymes|aɪə(ɹ)|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|enm|brere}}, from {{etyl|ang|en}} {{m|ang|brēr}}, {{m|ang|brǣr||briar; bramble}}, possibly ultimately from {{etyl|ine-pro|en}} {{m|ine-pro|*wert-||to twist, turn}}. Compare Icelandic {{m|is|brörr||briar}}.
+From {{inh|en|enm|brere}}, from {{inh|en|ang|brēr}}, {{m|ang|brǣr|t=briar; bramble}}, possibly ultimately from {{der|en|ine-pro|*wert-|t=to twist, turn}}. Compare {{cog|is|brörr|t=briar}}.
 
 ====Noun====
 {{en-noun}}
@@ -28,7 +28,7 @@ From {{etyl|enm|en}} {{m|enm|brere}}, from {{etyl|ang|en}} {{m|ang|brēr}}, {{m|
 
 =====Translations=====
 {{trans-top|any thorny plant}}
-* Arabic: {{t|ar|شوك|tr=shuk}}
+* Arabic: {{t|ar|شَوْك|m}}
 * Bulgarian: {{t|bg|шипка}}
 * Catalan: {{t|ca|bruc|m}}
 * French: {{t+|fr|églantier|m}}, {{t+|fr|bruyère|f}}
@@ -39,12 +39,14 @@ From {{etyl|enm|en}} {{m|enm|brere}}, from {{etyl|ang|en}} {{m|ang|brēr}}, {{m|
 *: Old Irish: {{t|sga|dris|f}}
 {{trans-mid}}
 * Italian: {{t+|it|spino|m}}
+* Latin: {{t|la|veprēs|m}}
 * Persian: {{t|fa|گل رشتی}}
 * Polish: {{t+|pl|wrzosiec}}
 * Portuguese: {{t+|pt|sarça|f}}
 * Russian: {{t+|ru|шипо́вник|m}}
 * Scottish Gaelic: {{t|gd|dris|f}}, {{t|gd|dreas|f}}
 * Spanish: {{t+|es|brezo|m}}
+* Swedish: {{t|sv|törnbuske|n}}
 * Welsh: {{t|cy|mieri}}
 {{trans-bottom}}
 
@@ -58,12 +60,12 @@ From {{etyl|enm|en}} {{m|enm|brere}}, from {{etyl|ang|en}} {{m|ang|brēr}}, {{m|
 
 ===Etymology 2===
 {{wikispecies|Erica arborea}}
-From {{etyl|fr|en}} {{m|fr|bruyère}}, assimilated with Etymology 1, above.
+From {{bor|en|fr|bruyère}}, assimilated with Etymology 1, above.
 
 ====Noun====
 {{en-noun}}
 
-# The [[white heath]], {{taxlink|Erica arborea|species|noshow=1}}, a [[thorny]] [[Mediterranean]] [[shrub]].
+# The {{vern|white heath}}, {{taxlink|Erica arborea|species|noshow=1}}, a [[thorny]] [[Mediterranean]] [[shrub]].
 # A [[pipe]] for smoking, made from the [[root]]s of that shrub.
 
 =====Derived terms=====
@@ -84,12 +86,7 @@ From {{etyl|fr|en}} {{m|fr|bruyère}}, assimilated with Etymology 1, above.
 {{trans-mid}}
 {{trans-bottom}}
 
-{{checktrans-top}}
-* Swedish: {{t-check|sv|törnbuske}}
-{{trans-mid}}
-{{trans-bottom}}
-
 ===Anagrams===
 * {{anagrams|en|a=abirr|birra}}
 
-[[Category:en:Heather family plants]]
+{{topics|en|Smoking|Heather family plants}}
