@@ -4,8 +4,8 @@
 From {{der|is|non|nafn}}, from {{der|is|gem-pro|*namô}}, from {{der|is|ine-pro|*h₁nómn̥}}.
 
 ===Pronunciation===
-* {{IPA|/napn/|lang=is}}
-*: {{rhymes|apn|lang=is}}
+* {{IPA|is|/napn/}}
+*: {{rhymes|is|apn}}
 
 ===Noun===
 {{is-noun|n|nafns|nöfn}}
@@ -16,27 +16,25 @@ From {{der|is|non|nafn}}, from {{der|is|gem-pro|*namô}}, from {{der|is|ine-pro|
 {{is-decl-noun-n-s|n|a|fn}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|is|að nafni}}
-* {{l|is|eftirnafn}}
-* {{l|is|eiginnafn}}
-* {{l|is|fornafn}}
-{{der-mid}}
-* {{l|is|í nafni}}
-* {{l|is|nafnbót}}
-* {{l|is|skírnarnafn}}
-* {{l|is|ættarnafn}}
-{{der-bottom}}
+{{der4|is
+|að nafni
+|eftirnafn
+|eiginnafn
+|fornafn
+|í nafni
+|nafnbót
+|skírnarnafn
+|ættarnafn}}
 
 ----
 
 ==Old Norse==
 
 ===Alternative forms===
-* {{l|non|namn}}
+* {{alter|non|namn}}
 
 ===Etymology===
-From {{inh|non|gem-pro|*namô||name}}, from {{der|non|ine-pro|*h₁nómn̥||name}}. Cognate with {{cog|ang|nama}}, {{m|ang|noma}}, {{cog|ofs|noma}}, {{cog|osx|namo}}, {{cog|odt|namo}}, {{cog|goh|namo}}, {{cog|got|𐌽𐌰𐌼𐍉|tr=[[namo#Gothic|namo]]}}.
+From {{inh|non|gem-pro|*namô|t=name}}, from {{der|non|ine-pro|*h₁nómn̥||name}}. Cognate with {{cog|ang|nama}}, {{m|ang|noma}}, {{cog|ofs|noma}}, {{cog|osx|namo}}, {{cog|odt|namo}}, {{cog|goh|namo}}, {{cog|got|𐌽𐌰𐌼𐍉}}.
 
 ===Noun===
 {{non-noun|n|nafns|nǫfn}}
@@ -50,14 +48,15 @@ From {{inh|non|gem-pro|*namô||name}}, from {{der|non|ine-pro|*h₁nómn̥||name
 * {{l|non|nefna|t=to name}}
 
 ====Descendants====
-{{top2}}
-* Danish: {{l|da|navn|g=n}} (Old Danish {{l|gmq-oda|nafn}}, {{l|gmq-oda|nauæn}})
-* Faroese: {{l|fo|navn|g=n}}
-* Icelandic: {{l|is|nafn|g=n}}
-{{mid2}}
-* Norwegian Bokmål: {{l|nb|navn|g=n}}
-* Norwegian Nynorsk: {{l|nn|namn|g=n}}
-* Swedish: {{l|sv|namn|g=n}} (Old Swedish {{l|gmq-osw|namn|g=n}})
+{{top4}}
+* {{desc|gmq-oda|nafn}}, {{l|gmq-oda|nauæn}}
+** {{desc|da|navn}}
+* {{desc|fo|navn}}
+* {{desc|is|nafn}}
+* {{desc|nb|navn}}
+* {{desc|nn|namn}}
+* {{desc|gmq-osw|namn}}
+** {{desc|sv|namn}}
 {{bottom}}
 
 ===References===
