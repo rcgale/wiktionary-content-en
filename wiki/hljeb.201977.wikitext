@@ -1,18 +1,19 @@
 ==Serbo-Croatian==
 
 ===Alternative forms===
-* (''Ekavian''): {{l|sh|hlȅb}}
+* {{alter|sh|hlȅb||Ekavian}}
 
 ===Etymology===
-From {{inh|sh|sla-pro|*xlěbъ}}, from {{etyl|gem-pro|sh}} {{m|gem-pro|*hlaibaz}}. Compare {{cog|got|𐌷𐌻𐌰𐌹𐍆𐍃}}.
+From {{inh|sh|sla-pro|*xlěbъ}}, from {{der|sh|gem-pro|*hlaibaz}}. Compare {{cog|got|𐌷𐌻𐌰𐌹𐍆𐍃}}.
 
 ===Pronunciation===
-* {{IPA|/xʎêb/|lang=sh}}
+* {{IPA|sh|/xʎêb/}}
 
 ===Noun===
 {{sh-noun|g=m|head=hljȅb}}
 
-# {{lb|sh|Bosnia|Serbia|regional Croatia}} [[bread]]
+# {{lb|sh|Bosnia|Serbia|regional|_|Croatia}} [[bread]]
+#: {{syn|sh|krȕh|q1=Croatia}}
 # [[loaf]] (of bread)
 # circled [[shape]] of bread
 
@@ -27,12 +28,11 @@ From {{inh|sh|sla-pro|*xlěbъ}}, from {{etyl|gem-pro|sh}} {{m|gem-pro|*hlaibaz}
 |hljebom|hljebovima
 }}
 
-====Synonyms====
-* {{sense|bread}} {{l|sh|krȕh}} {{qualifier|Croatia}}
-
 ====Derived terms====
-* {{l|sh|hljèpčić}}
-* {{l|sh|uhljeb}}
-* {{l|sh|ùhljebiti}} / {{l|sh|uhljebljívati}}
+{{der3|sh
+|{{l|sh|hljèpčić}}
+|{{l|sh|uhljeb}}
+|{{l|sh|ùhljebiti}} / {{l|sh|uhljebljívati}}
+}}
 
 [[Category:sh:Breads]]
