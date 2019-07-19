@@ -14,7 +14,7 @@
 ==Fijian==
 
 ===Etymology===
-From {{etyl|poz-oce-pro|fj}}, from {{etyl|poz-pro|fj}} {{m|poz-pro|*qudaŋ}} (compare {{cog|ch|uhang}}, {{cog|jv|urang}}, {{cog|ms|udang}}), from {{etyl|map-pro|fj}} {{m|map-pro|*qudaŋ}}.
+From {{inh|fj|poz-oce-pro}}, from {{inh|fj|poz-pro|*qudaŋ}} (compare {{cog|ch|uhang}}, {{cog|jv|urang}}, {{cog|ms|udang}}), from {{inh|fj|map-pro|*qudaŋ}}.
 
 ===Noun===
 {{head|fj|noun}}
@@ -59,7 +59,7 @@ From {{inh|fi|fiu-fin-pro|*ura}}, probably from {{der|fi|fiu-pro|*ura}}. Related
 
 ===Pronunciation===
 * {{hu-IPA}}
-* {{hyphenation|ura|lang=hu}}
+* {{hyph|hu|ura}}
 
 ===Noun===
 {{head|hu|noun form}}
@@ -101,16 +101,12 @@ From {{der|ist|la|hōra}}.
 ===Participle===
 {{la-part-form|ūra}}
 
-# {{inflection of|ūrus||nom|f|s|lang=la}}
-# {{inflection of|ūrus||nom|n|p|lang=la}}
-# {{inflection of|ūrus||acc|n|p|lang=la}}
-# {{inflection of|ūrus||voc|f|s|lang=la}}
-# {{inflection of|ūrus||voc|n|p|lang=la}}
+# {{infl of|la|ūrus||nom//voc|f|s|;|nom//acc//voc|n|p}}
 
 ===Participle===
 {{la-part-form|ūrā}}
 
-# {{inflection of|ūrus||abl|f|s|lang=la}}
+# {{infl of|la|ūrus||abl|f|s}}
 
 ----
 
@@ -119,7 +115,7 @@ From {{der|ist|la|hōra}}.
 ===Determiner===
 {{head|enm|determiner}}
 
-# {{alt form|lang=enm|oure}}
+# {{alt form|enm|oure}}
 
 ===References===
 * {{R:MED Online|entry= our(e (pron.)  |id=MED31082 |accessdate=11 May 2018}}
@@ -134,7 +130,7 @@ From {{der|ist|la|hōra}}.
 ===Noun===
 {{head|nb|noun form|g=n}}
 
-# {{inflection of|ur||definite|p|lang=nb}}
+# {{infl of|nb|ur||definite|p}}
 
 ----
 
@@ -143,7 +139,7 @@ From {{der|ist|la|hōra}}.
 ===Noun===
 {{head|nn|noun form|g=n}}
 
-# {{inflection of|ur||definite|p|lang=nn}}
+# {{infl of|nn|ur||definite|p}}
 
 ----
 
@@ -178,8 +174,8 @@ Borrowed from {{bor|qu|es|hora|t=hour}}.
 From {{inh|ro|la|ōrāre}}, present active infinitive of {{m|la|ōrō}}.
 
 ====Pronunciation====
-* {{IPA|/uˈra/|lang=ro}}
-* {{rhymes|a|lang=ro}}
+* {{IPA|ro|/uˈra/}}
+* {{rhymes|ro|a}}
 
 ====Verb====
 {{ro-verb|conj=1|urează|urat}}
@@ -204,7 +200,7 @@ From {{inh|ro|la|ōrāre}}, present active infinitive of {{m|la|ōrō}}.
 Form of {{m|ro|ură}}.
 
 ====Pronunciation====
-* {{IPA|/ˈu.ra/|lang=ro}}
+* {{IPA|ro|/ˈu.ra/}}
 
 ====Noun====
 {{head|ro|noun form|g=f}}
@@ -215,7 +211,7 @@ Form of {{m|ro|ură}}.
 Borrowed from {{bor|ro|fr|hourra}}.
 
 ====Pronunciation====
-* {{IPA|/ˈu.ra/|lang=ro}}
+* {{IPA|ro|/ˈu.ra/}}
 
 ====Interjection====
 {{head|ro|interjection}}
@@ -230,7 +226,7 @@ Borrowed from {{bor|ro|fr|hourra}}.
 * {{qualifier|Surmiran}} {{l|rm|oura}}
 
 ===Etymology===
-From {{etyl|la|rm}} {{m|la|hōra||hour}}, from {{etyl|grc|rm}} {{m|grc|ὥρα||time, season, year}}.
+From {{inh|zm|la|hōra||hour}}, from {{der|rm|grc|ὥρα||time, season, year}}.
 
 ===Noun===
 {{rm-noun|f}}
@@ -246,11 +242,11 @@ From {{etyl|la|rm}} {{m|la|hōra||hour}}, from {{etyl|grc|rm}} {{m|grc|ὥρα||
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|de|sh}} {{m|de|Uhr}}, from {{etyl|la|sh}} {{m|la|hōra}}.
+From {{bor|sh|de|Uhr}}, from {{der|sh|la|hōra}}.
 
 ===Pronunciation===
-* {{IPA|/ûra/|lang=sh}}
-* {{hyphenation|u|ra|lang=sh}}
+* {{IPA|sh|/ûra/}}
+* {{hyph|sh|u|ra}}
 
 ===Noun===
 {{sh-noun|head=ȕra|g=f}}
@@ -299,7 +295,7 @@ From {{etyl|de|sh}} {{m|de|Uhr}}, from {{etyl|la|sh}} {{m|la|hōra}}.
 ==Slovene==
 
 ===Etymology===
-Both ultimately from {{etyl|la|sl}} {{m|la|hōra}}.
+Both ultimately from {{der|sl|la|hōra}}.
 
 ===Pronunciation 1===
 * {{sl-IPA|ūra}}
