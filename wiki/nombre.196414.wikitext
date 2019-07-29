@@ -148,7 +148,7 @@ From {{bor|enm|fro|nombrer}}.
 ==Spanish==
 
 ===Pronunciation===
-* {{IPA|/ˈnom.bɾe/|lang=es}}
+* {{es-IPA}}
 ** {{rhymes|ombɾe|lang=es}}
 
 ===Alternative forms===
@@ -156,38 +156,36 @@ From {{bor|enm|fro|nombrer}}.
 * {{alter|es|nonbre||obsolete}}
 
 ===Etymology===
-From {{inh|es|osp|nomne}}, {{m|osp|nomen}}, from a {{inh|es|VL.|*nōmine}}, from {{inh|es|la|nōmen}},<ref>https://www.scribd.com/document/158436269/Diccionario-Critico-Etimologico-castellano-MI-RI-Corominas-Joan-pdf</ref>, from {{inh|es|ine-pro|*h₁nómn̥}}. Compare English {{m|en|noun}}.
+From {{inh|es|osp|nomne}}, {{m|osp|nomen}}, from a {{inh|es|VL.|*nōmine}}, from {{inh|es|la|nōmen}},<ref>https://www.scribd.com/document/158436269/Diccionario-Critico-Etimologico-castellano-MI-RI-Corominas-Joan-pdf</ref>, from {{inh|es|ine-pro|*h₁nómn̥}}. Compare {{cog|en|noun}}.
 
 ===Noun===
 {{es-noun|m}}
 
 # [[name]]
+#: {{hyponyms|es|apellido}}
 #: ''¿Cuál es tu '''nombre'''?'' — “What is your name?”
 #: ''Mi '''nombre''' es ‘Carlos’.'' — “My name is ‘Carlos’.”
-# {{lb|es|grammar}} [[noun]] (sensu lato)
+# {{lb|es|grammar}} [[noun]]
 
 ====Usage notes====
-In Spanish, it is a bit more common to use {{m|es|llamar|llamarse|to be called}} to indicate someone’s name:
+In Spanish, it is more common to use {{m|es|llamar|llamarse|to be called}} to indicate someone’s name:
 : ''¿Cómo te llamas?'' — “What is your name?” (Literally, “What do you call yourself?”)
 : ''Me llamo Carlos.'' — “My name is Carlos.” (Literally, “I call myself Carlos.”)
 
 ====Derived terms====
-* ''(grammar)'' {{l|es|nombre substantivo}}, {{l|es|nombre sustantivo}}, {{l|es|nombre adjectivo}}, {{l|es|nombre adjetivo}}, {{l|es|nombre propio}}, {{l|es|nombre común}}
-
-====Derived terms====
-* {{l|es|sobrenombre}}<!--this does not belong here: {{m}}-->
+* {{sense|grammar}} {{l|es|nombre sustantivo}}, {{l|es|nombre adjetivo}}, {{l|es|nombre propio}}, {{l|es|nombre común}}
+* {{l|es|antenombre}}
+* {{l|es|sobrenombre}}
 
 ====Related terms====
-* {{l|es|nombrar|gloss=to name}}
+* {{l|es|nombrar}}
 
 ====Descendants====
 * {{desc|pap|nòmber|bor=1}}
 
-===See also===
-* {{l|es|apellido|gloss=surname|g=m}}
-* {{l|es|llamar|llamarse|gloss=to be called}}
+===Etymology 2===
 
-===Verb===
+====Verb====
 {{head|es|verb form}}
 
 # {{es-verb form of|ending=ar|mood=imperative|pers=2|formal=yes|number=singular|nombrar}}
@@ -197,5 +195,8 @@ In Spanish, it is a bit more common to use {{m|es|llamar|llamarse|to be called}}
 
 ===References===
 <references/>
+
+===Further reading===
+* {{R:DRAE}}
 
 [[Category:Spanish basic words]]
