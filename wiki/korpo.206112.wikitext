@@ -42,20 +42,21 @@ From {{der|eo|la|corpus}}.
 ==Ido==
 
 ===Etymology===
-From {{der|io|eo|korpo}}, from {{der|io|en|corps}}, {{der|io|fr|corps}}, {{der|io|de|Körper}}, {{der|io|it|corpo}}, {{der|io|es|cuerpo}}, {{der|io|ru|ко́рпус}}.
+{{io-bor|eo=korpo|corps|corps|Körper|corpo|ко́рпус|cuerpo|nodot=1}}, ultimately from {{der|io|la|corpus}}.
 
 ===Pronunciation===
-* {{IPA|/ˈkorpo/|lang=io}}
+{{io-IPA}}
 
 ===Noun===
 {{io-noun|korp}}
 
 # [[body]]
 # {{lb|io|military}} [[corps]]
+#: {{syn|io|armeokorpo}}
 
 ====Derived terms====
-{{der4
-|io|{{l|io|korpala|t=corporal, corporeal, bodily}}
+{{der2|io
+|{{l|io|korpala|t=corporal, corporeal, bodily}}
 |{{l|io|korpeskar|t=to become body, materialize}}
 |{{l|io|korpexerco}}, {{l|io|korpexercado|t=bodily exercise}}
 |{{l|io|korpogardisto|t=bodyguard}}
