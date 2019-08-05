@@ -25,32 +25,8 @@ From {{der|en|frm|predicat}} ({{cog|fr|prédicat}}), from post-classical {{der|e
 #: {{ux|en|A '''predicate''' is either valid, satisfiable, or unsatisfiable.}}
 # {{lb|en|computing}} An [[operator]] or [[function]] that returns either true or false.
 
-====Translations====
-{{trans-top|part of sentence that states something about its subject}}
-* Hungarian: {{t+|hu|állítmány}}
-* Latin: {{t+|la|praedicātum|m}}, {{t|la|attribūtum|n}}
-{{trans-mid}}
-* Serbo-Croatian: {{t+|sh|predikat|m}}
-{{trans-bottom}}
-
-====Adjective====
-{{en-adj}}
-
-# {{lb|en|grammar}} Of or related to the predicate of a sentence or clause.
-# [[predicated|Predicated]], [[stated]].
-# {{lb|en|law}} Relating to or being any of a series of criminal acts upon which prosecution for racketeering may be predicated. <!-- (from [https://web.archive.org/web/20100216123226/http://research.lawyers.com/glossary/predicate.html]) -->
-
-=====Derived terms=====
-{{der3
-|en|nominal predicative
-|predicatable
-|predicate calculus
-|predicative adjective
-|predicatively
-}}
-
 =====Translations=====
-{{trans-top|grammar}}
+{{trans-top|(grammar) part of sentence that states something about its subject}}
 * Albanian: {{t+|sq|kallëzues|m}}
 * Arabic: {{t|ar|خَبَر|m}}
 * Armenian: {{t+|hy|ստորոգյալ}}
@@ -81,6 +57,7 @@ From {{der|en|frm|predicat}} ({{cog|fr|prédicat}}), from post-classical {{der|e
 {{trans-mid}}
 * Kazakh: {{t|kk|баяндауыш}}
 * Korean: {{t+|ko|술어}}
+* Latin: {{t+|la|praedicātum|m}}, {{t|la|attribūtum|n}}
 * Latvian: {{t|lv|izteicējs|m}}
 * Lithuanian: {{t|lt|tarinys|m}}
 * Macedonian: {{t|mk|при́рок|m}}
@@ -134,6 +111,34 @@ From {{der|en|frm|predicat}} ({{cog|fr|prédicat}}), from post-classical {{der|e
 * Finnish: {{t|fi|predikaattifunktio}}
 {{trans-mid}}
 {{trans-bottom}}
+
+====Adjective====
+{{en-adj}}
+
+# {{lb|en|grammar}} Of or related to the predicate of a sentence or clause.
+# [[predicated|Predicated]], [[stated]].
+# {{lb|en|law}} Relating to or being any of a series of criminal acts upon which prosecution for racketeering may be predicated. <!-- (from [https://web.archive.org/web/20100216123226/http://research.lawyers.com/glossary/predicate.html]) -->
+
+=====Translations=====
+{{trans-top|(grammar) of or related to the predicate of a sentence or clause}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|predicated|predicated|stated}}
+
+{{trans-top|(law) relating to or being any of a series of criminal acts upon which prosecution for racketeering may be predicated}}
+{{trans-mid}}
+{{trans-bottom}}
+
+
+=====Derived terms=====
+{{der3
+|en|nominal predicative
+|predicatable
+|predicate calculus
+|predicative adjective
+|predicatively
+}}
 
 ===Etymology 2===
 {{PIE root|en|deyḱ}}
