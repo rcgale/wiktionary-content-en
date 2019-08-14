@@ -4,10 +4,10 @@
 From {{inh|en|enm|smellen}}, {{m|enm|smillen}}, {{m|enm|smyllen}}, {{m|enm|smullen}}, from {{inh|en|ang|*smyllan}}, {{m|ang|*smiellan|t=to smell, emit fumes}}, from {{inh|en|gem-pro|*smuljaną}}, {{m|gem-pro|*smaljaną|t=to glow, burn, smoulder}}, from {{der|en|ine-pro|*smelə-|t=to burn, smoke, smoulder; tar, pitch}}. The noun is from {{etyl|enm|en}} {{m|enm|smel}}, {{m|enm|smil}}, {{m|enm|smul||smell, odour}}. Related to {{cog|stq|smeele|t=to smoulder}}, {{cog|dum|smolen|smōlen|to burn, smoulder}} (whence {{cog|nl|smeulen||to smoulder}}), {{cog|gml|smölen||to be hazy, be dusty}} (whence {{cog|nds|smölen||smoulder}}), {{cog|nds|smullen||emit smoke}}, {{cog|vls|smoel||stuffy, muggy, hazy}}, {{cog|da|smul||dust, powder}}, {{cog|lt|smilkyti||to incense, fumigate}}, {{cog|lt|smilkti||to smudge, smolder, fume, reek}}, {{cog|lt|smalkinti||to fume}}, {{cog|mga|smál}}, {{m|mga|smól}}, {{m|mga|smúal||fire, gleed, embers, ashes}}, {{cog|ru|смола́||resin, tar}}. Compare {{l|en|smoulder}}, {{l|en|smother}}.
 
 ===Pronunciation===
-* {{enPR|smĕl}}, {{IPA|/smɛl/|lang=en}}
-* {{audio|en-us-smell.ogg|Audio (US)|lang=en}}
-* {{audio|LL-Q1860 (eng)-Nattes à chat-smell.wav|Audio|lang=en}}
-* {{rhymes|ɛl|lang=en}}
+* {{enPR|smĕl}}, {{IPA|/smɛl/|en}}
+* {{audio|en-us-smell.ogg|Audio (US)|en}}
+* {{audio|LL-Q1860 (eng)-Nattes à chat-smell.wav|Audio|en}}
+* {{rhymes|ɛl|en}}
 
 ===Noun===
 {{en-noun|~}}
@@ -28,11 +28,14 @@ From {{inh|en|enm|smellen}}, {{m|enm|smillen}}, {{m|enm|smyllen}}, {{m|enm|smull
 * {{sense|sense}} {{l|en|olfaction}} {{qualifier|in technical use}}, {{l|en|sense of smell}}
 
 ====Hyponyms====
-{{col3
-|en|[[bad|bad smell]]
+{{col3|en
+|bad smell
 |code smell
-|[[good|good smell]]
+|good smell
 }}
+
+====Derived terms====
+{{col3|en|code smell}}
 
 ====Translations====
 {{trans-top|sensation}}
@@ -211,13 +214,15 @@ From {{inh|en|enm|smellen}}, {{m|enm|smillen}}, {{m|enm|smyllen}}, {{m|enm|smull
 {{en-verb|smells|smelling|smelled|past2=smelt}}
 
 # {{lb|en|transitive}} To [[sense]] a smell or smells.
+#: {{synonyms|en|detect|sense}}
 #: {{ux|en|I can '''smell''' fresh bread.}}
 #: {{ux|en|'''Smell''' the milk and tell me whether it's gone off.}}
 # {{lb|en|intransitive}} To have a particular smell, whether good or bad; if descriptive, followed by "like" or "of".
+#: {{synonyms|en|pong|q1=informal|reek|stink|whiff|q4=informal; these words refer to unpleasant smells, and are all followed by ''like'' or ''of''}}
 #: {{ux|en|The roses '''smell''' lovely.}}
 #: {{ux|en|Her feet '''smell''' of cheese.}}
 #: {{ux|en|The drunkard '''smelt''' like a brewery.}}
-#* {{quote-book|lang=en|year=1913|author={{w|Joseph C. Lincoln}}|chapter=8
+#* {{quote-book|en|year=1913|author={{w|Joseph C. Lincoln}}|chapter=8
 |title=[http://openlibrary.org/works/OL5535161W Mr. Pratt's Patients]
 |passage=Philander went into the next room{{...}}and came back with a salt mackerel{{...}}. Next he put the mackerel in a fry-pan, and the shanty began to '''smell''' like a Banks boat just in from a v'yage.}}
 # {{lb|en|intransitive|without a modifier}} To smell bad; to [[stink]].
@@ -236,13 +241,22 @@ From {{inh|en|enm|smellen}}, {{m|enm|smillen}}, {{m|enm|smyllen}}, {{m|enm|smull
 #*: From that time forward I began to '''smell''' the Word of God, and forsook the school doctors.
 
 ====Usage notes====
-* The sense "to smell bad, stink" is considered by some to be an incorrect substitute for [[stink]].
+* The sense “to smell bad, stink” is considered by some to be an incorrect substitute for {{m|en|stink.
 
-====Synonyms====
-* {{sense|sense a smell or smells}} {{l|en|detect}}, {{l|en|sense}}
-* {{sense|have the smell of}} (''all followed by'' '''like''' ''or'' '''of''')
-** {{sense|pleasant}}
-** {{sense|unpleasant}} [[pong]] {{qualifier|informal}}, [[reek]], [[stink]], [[whiff]] {{qualifier|informal}}
+====Derived terms====
+{{col3|en
+|besmell
+|[[sense of smell]] (see [[olfaction]])
+|smell a rat
+|smell blood
+|smell like a rose
+|smell of an oily rag
+|smell test
+|smell the barn
+|smelly
+|[[smell ya later]], [[smell you later]]
+|wake up and smell the coffee
+}}
 
 ====Translations====
 {{trans-top|sense with nose}}
@@ -409,26 +423,9 @@ From {{inh|en|enm|smellen}}, {{m|enm|smillen}}, {{m|enm|smyllen}}, {{m|enm|smull
 * Indonesian: {{t+check|id|cium|alt=mencium}}, {{t+check|id|bau|alt=membaui}}
 {{trans-bottom}}
 
-===Derived terms===
-{{rel-top3|Terms derived from the noun or verb ''smell''}}
-* {{l|en|besmell}}
-* {{l|en|code smells}}
-* {{l|en|sense of smell}} (see [[olfaction]])
-* {{l|en|smell a rat}}
-* {{l|en|smell blood}}
-{{rel-mid3}}
-* {{l|en|smell like a rose}}
-* {{l|en|smell of an oily rag}}
-* {{l|en|smell test}}
-* {{l|en|smell the barn}}
-{{rel-mid3}}
-* {{l|en|smelly}}
-* {{l|en|wake up and smell the coffee}}
-{{rel-bottom}}
-
-===See also===
-* {{l|en|anosmia}}
-* {{l|en|sense}}
+====See also====
+|anosmia}}
+|sense}}
 
 ===References===
 * {{R:Century 1911}}
