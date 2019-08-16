@@ -114,7 +114,7 @@ From {{der|hu|de|Ar||are}} and {{der|hu|fr|are||are}}, from {{der|hu|la|ārea||t
 * {{rhymes|auːr|lang=is}}
 
 ===Etymology 1===
-From {{der|is|non|ár}}, from {{der|is|gem-pro|*airi}}. Cognates include: {{cog|got|𐌰𐌹𐍂||early}}, {{cog|ang|ār}} and {{m|ang|ærlice}} ({{cog|en|early}}).<ref name="torp">Alf Torp, "Nynorsk Etymologisk Ordbok", Oslo 1992 (reprint), {{ISBN|82-90520-17-4}}; ''aarlege'', ''aar''</ref>
+From {{der|is|non|ár}}, from {{der|is|gem-pro|*airi}}. Cognates include: {{cog|got|𐌰𐌹𐍂|t=early}}, {{cog|ang|ār}} and {{m|ang|ærlice}} ({{cog|en|early}}).<ref name="torp">Alf Torp, "Nynorsk Etymologisk Ordbok", Oslo 1992 (reprint), {{ISBN|82-90520-17-4}}; ''aarlege'', ''aar''</ref>
 
 ====Adverb====
 {{is-adv}}
@@ -140,14 +140,15 @@ From {{inh|is|non|ár|t=year}}, from {{inh|is|gem-pro|*jērą}}, from {{der|is|i
 {{is-decl-noun-n-s||á|r}}
 
 =====Derived terms=====
-* {{l|is|árlegur}}
-* {{l|is|ártíð}}
-* {{l|is|í ár}}
-* {{l|is|gleðilegt nýtt ár}}
-* {{l|is|gleðilegt ár}}
-* {{l|is|hlaupaár}}
-* {{l|is|áramót}}
-* {{l|is|nýár}}
+{{der4|is
+|árlegur
+|ártíð
+|í ár
+|gleðilegt nýtt ár
+|gleðilegt ár
+|hlaupaár
+|áramót
+|nýár}}
 
 ===Etymology 3===
 From {{der|is|non|ár}}, from {{der|is|gem-pro|*airō}}. Cognates include: {{cog|ang|ār||oar}} ({{cog|en|oar}}).<ref name="torp"/>
@@ -163,22 +164,22 @@ From {{der|is|non|ár}}, from {{der|is|gem-pro|*airō}}. Cognates include: {{cog
 {{is-decl-noun-f-s1||á|r}}
 
 =====Derived terms=====
-* {{l|is|árinni kennir illur ræðari}}
-* {{l|is|árabátur}}
-* {{l|is|koma ár sinni vel fyrir borð}} (to do well for oneself)
-* {{l|is|leggja árar í bát}} (to [[give up]])
-* {{l|is|taka djúpt í árinni}} (to express oneself forcefully)
-* {{l|is|róa öllum árum að}} (to employ all available means towards getting something done)
+{{der2|is
+|{{l|is|árinni kennir illur ræðari}}
+|{{l|is|árabátur}}
+|{{l|is|koma ár sinni vel fyrir borð|t=to do well for oneself}}
+|{{l|is|leggja árar í bát|t=to [[give up]]}}
+|{{l|is|taka djúpt í árinni|t=to express oneself forcefully}}
+|{{l|is|róa öllum árum að|t=to employ all available means towards getting something done}}
+}}
 
 ===Etymology 4===
-Inflection of [[á#Icelandic|á]]
+{{nonlemma}}
 
 ====Noun====
 {{is-noun form}} {{g|f}}
 
-# {{inflection of|is|á||indef|gen|s}}
-# {{inflection of|is|á||indef|nom|p}}
-# {{inflection of|is|á||indef|acc|s}}
+# {{inflection of|is|á||indef|gen//acc|s|;|indef|nom|p}}
 
 ===References===
 <references/>
