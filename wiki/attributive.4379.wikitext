@@ -10,23 +10,19 @@
 {{en-adj}}
 
 # {{lb|en|grammar|of a word or phrase}} Modifying a [[noun]], while in the same phrase as that noun.
-#: ''In "this ''big'' house", "big" is '''attributive''', whereas in "this house is ''big''", it is [[predicative]].''
-#: ''In "this tiger is a man-eater," "man" is an '''attributive''' noun.''
+#: {{ux|en|In "this ''big'' house", "big" is '''attributive''', whereas in "this house is ''big''", it is [[predicative]].}}
+#: {{ux|en|In "this tiger is a man-eater," "man" is an '''attributive''' noun.}}
 #* {{quote-book|lang=en|year=1988|author=Andrew Radford|title=Transformational grammar: a first course|location=Cambridge, UK|publisher=Cambridge University Press|page=197}}
 #*: Since both ''Attributes'' and ''Adjuncts'' recursively expand N-bar into N-bar, it seems clear that the two have essentially the same function, so that ''Attributes'' are simply pronominal Adjuncts (though we shall continue to follow tradition and refer to '''attributive''' premodifiers as ''Attributes'' rather than ''Adjuncts'').
+#: {{ant|en|predicative}}
 # Having the nature of an [[attribute]].
 
-====Antonyms====
-* {{sense|modifying a noun while in the same phrase}} {{l|en|predicative}}
-
 ====Derived terms====
-{{der-top}}
-* {{l|en|attributive adjective}}
-* {{l|en|attributively}}
-{{der-mid}}
-* {{l|en|attributive noun}}
-* {{l|en|attributive verb}}
-{{der-bottom}}
+{{der4|en
+|attributive adjective
+|attributively
+|attributive noun
+|attributive verb}}
 
 ====Related terms====
 * {{l|en|attribute}}
@@ -36,7 +32,7 @@
 * Azerbaijani: {{t|az|təyini}}
 * Catalan: {{t|ca|atributiu}}
 * Chinese:
-*: Mandarin: {{t+|cmn|定語|sc=Hani}}, {{t+|cmn|定语|tr=dìngyǔ|sc=Hani}}
+*: Mandarin: {{t+|cmn|定語}}, {{t+|cmn|定语|tr=dìngyǔ}}
 * Danish: {{t|da|attributiv}}
 * Dutch: {{t+|nl|attributief}}
 * Finnish: {{t|fi|attributiivinen}}
