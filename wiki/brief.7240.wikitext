@@ -246,15 +246,15 @@ From {{inh|nl|dum|brief}}, borrowed from {{der|nl|la|brevis||short}}.<ref>''brie
 ==Old French==
 
 ===Alternative forms===
-* {{l|fro|bref}}
+* {{alter|fro|bref}}
 
 ===Etymology===
-{{etyl|la|fro}} {{m|la|brevis}}, see English {{l|en|brief}} above.
+From {{der|fro|la|brevis}}.
 
 ===Adjective===
 {{fro-adj|f=brieve}}
 
-# {{l|en|brief}}; [[short]] in [[length]]
+# [[#English|brief]], [[short]] in [[length]]
 
 ====Declension====
 {{fro-decl-adj-f|brie|ssm=briés|opm=briés}}
@@ -266,8 +266,10 @@ From {{inh|nl|dum|brief}}, borrowed from {{der|nl|la|brevis||short}}.<ref>''brie
 {{fro-noun|m}}
 
 # (short) [[letter]] or [[statement]]
-#* {{quote-book|lang=fro|circa 1170|title=[http://books.google.fr/books?id=yjcTAAAAQAAJ&pg=PA139&dq=Le+Roman+de+Rou+et+des+ducs+de+Normandie,+Volume+2&hl=fr&ei=hd3STa3kNNKGhQe5kZnyCQ&sa=X&oi=book_result&ct=book-preview-link&resnum=3&ved=0CDoQuwUwAg#v=onepage&q&f=false Le Roman de Rou]|author=[[w:Wace|Wace]]|passage=A li '''brief''' al Conte enveié|translation=He sent the letter to the Count}}
+#* {{quote-book|lang=fro|circa 1170|url=http://books.google.fr/books?id=yjcTAAAAQAAJ|title=Le Roman de Rou]|author={{w|Wace}}|passage=A li '''brief''' al Conte enveié.|translation=He sent the '''letter''' to the Count.}}
 
 ====Descendants====
-* English: {{l|en|brief}}
-* French: {{l|fr|bref}}
+* {{desctree|frm|brief}}
+* {{desc|bor=1|enm|bref|alts=1}}
+** {{desc|en|brief}}, {{l|en|breve}}
+** {{desc|sco|brief}}, {{l|sco|brieve}}, {{l|sco|breef}}, {{l|sco|briefe}}
