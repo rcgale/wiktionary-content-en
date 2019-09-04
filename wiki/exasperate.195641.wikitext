@@ -1,14 +1,14 @@
 ==English==
 
 ===Etymology===
-From {{etyl|la|en}} {{m|la|exaspero}}; {{m|la|ex||out of; thoroughly}} + {{m|la|asperare||to make rough}}, from {{m|la|asper||rough}}.
+From {{der|en|la|exasperō}}; {{m|la|ex|t=out of; thoroughly}} + {{m|la|asperō|t=make rough}}, from {{m|la|asper|t=rough}}.
 
 ===Pronunciation===
-* {{a|RP}} {{IPA|/ɪɡˈzæsp(ə)ɹeɪt/|lang=en}}
-* {{a|RP|also}} {{IPA|/ɪɡˈzɑːspəɹeɪt/|lang=en}}
-* {{audio|en-us-exasperate.ogg|Audio (US)|lang=en}}
-* {{rhymes|æspəɹeɪt|lang=en}}
-* {{hyphenation|ex|as|per|ate|lang=en}}
+* {{a|RP}} {{IPA|en|/ɪɡˈzæsp(ə)ɹeɪt/}}
+* {{a|RP|also}} {{IPA|en|/ɪɡˈzɑːspəɹeɪt/}}
+* {{audio|en|en-us-exasperate.ogg|Audio (US)}}
+* {{rhymes|en|æspəɹeɪt}}
+* {{hyph|en|ex|as|per|ate}}
 
 ===Verb===
 {{en-verb|exasperat}}
@@ -29,10 +29,10 @@ From {{etyl|la|en}} {{m|la|exaspero}}; {{m|la|ex||out of; thoroughly}} + {{m|la|
 
 ====Translations====
 {{trans-top|frustrate, vex, annoy}}
-* Bulgarian: {{t+|bg|раздразвам|sc=Cyrl}}, {{t+|bg|разгневявам|sc=Cyrl}}
+* Bulgarian: {{t+|bg|раздразвам}}, {{t+|bg|разгневявам}}
 * Catalan: {{t+|ca|exasperar}}
 * Chinese:
-*: Mandarin: {{t+|cmn|恼怒|tr=shǐ (sb. ) nǎo nù|alt=使(sb.) 恼怒|sc=Hani}}
+*: Mandarin: {{t+|cmn|恼怒|tr=shǐ (sb. ) nǎo nù|alt=使(sb.) 恼怒}}
 * Dutch: {{t|nl|tot wanhoop drijven}}
 * Finnish: {{t+|fi|ärsyttää}}, {{t+|fi|suututtaa}}
 * French: {{t+|fr|exaspérer}}
@@ -42,7 +42,7 @@ From {{etyl|la|en}} {{m|la|exaspero}}; {{m|la|ex||out of; thoroughly}} + {{m|la|
 * Hungarian: {{t+|hu|dühít}}, {{t+|hu|feldühít}}, {{t+|hu|felbőszít}}
 * Ido: {{t+|io|iracigar}}, {{t+|io|exasperar}}
 * Maori: {{t|mi|whakahōhā}}, {{t|mi|whakakawakawa}}, {{t|mi|rangirangi}}
-* Persian: {{t|fa|کفر کسی را در آوردن|tr=kofr-e kasi râ dar âvardan|sc=fa-Arab}}
+* Persian: {{t|fa|کفر کسی را در آوردن|tr=kofr-e kasi râ dar âvardan}}
 * Polish: {{t|pl|wkurzać}}
 * Portuguese: {{t+|pt|exasperar}}
 * Russian: {{t+|ru|серди́ть}}, {{t+|ru|раздража́ть}}, {{t+|ru|возмущать}}, {{t+|ru|изводи́ть}}, {{qualifier|informal}} {{t+|ru|беси́ть}}, {{t|ru|приводи́ть в я́рость}}
@@ -63,8 +63,9 @@ From {{etyl|la|en}} {{m|la|exaspero}}; {{m|la|ex||out of; thoroughly}} + {{m|la|
 #*: Sets spinning {{...}}
 
 ====Related terms====
-* {{l|en|asperate}}
-* {{l|en|asperity}}
+{{rel2|en
+|asperate
+|asperity}}
 
 ===See also===
 * {{l|en|exacerbate}}
@@ -75,9 +76,24 @@ From {{etyl|la|en}} {{m|la|exaspero}}; {{m|la|ex||out of; thoroughly}} + {{m|la|
 
 ----
 
+==Ido==
+
+===Pronunciation===
+{{io-IPA}}
+
+===Verb===
+{{io-part|adv}}
+
+# {{io-form of|exasper}}
+
+----
+
 ==Latin==
+
+===Pronunciation===
+* {{la-IPA|exasperāte}}
 
 ===Verb===
 {{la-verb-form|exasperāte}}
 
-# {{inflection of|exasperō||2|p|pres|actv|impr|lang=la}}
+# {{inflection of|la|exasperō||2|p|pres|actv|impr}}
