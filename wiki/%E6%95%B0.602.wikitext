@@ -1,21 +1,33 @@
 {{also|數}}
 {{character info/new}}
 ==Translingual==
+{{stroke order|strokes=13}}
 {{ja-forms|数|数|[[數]]}}
-
-===Glyph origin===
-Unorthodox variant of {{l|mul|數}}. From {{w|cursive script (East Asia)|cursive script}}.
 
 ===Han character===
 {{Han char|rn=66|rad=攴|as=09|sn=13|four=98440|canj=FVOK|ids=⿰娄攵}}
 
-====References====
-* {{Han ref|kx=0474.131|dkj=13319|dj=0827.260|hdz=21470.190|uh=6570|ud=25968}}
+====Derived characters====
+* {{l|mul|[[𫣫]], [[𪢒]], [[擞]], [[𥐈]], [[𬳛]], [[薮]], [[𥨧]], [[䉤]], [[𡦤]], [[𫻍]]}}
+
+====Related characters====
+* {{l|mul|數}} {{q|Orthodox [[Traditional Chinese|traditional form]]}}
+
+===Further reading===
+{{Han ref|kx=0474.131|dkj=13319|dj=0827.260|hdz=21470.190|uh=6570}}
 
 ----
 
 ==Chinese==
+
+===Glyph origin===
+Unorthodox variant of {{zh-l|數*}}, attested since [[w:Ming dynasty|Ming dynasty]].
+
+===Definitions===
 {{zh-see|數|sv}}
+
+===References===
+* {{R:twedu|A01739-001#34}}
 
 ----
 
@@ -24,8 +36,6 @@ Unorthodox variant of {{l|mul|數}}. From {{w|cursive script (East Asia)|cursive
 
 ===Kanji===
 {{ja-kanji|grade=2|rs=攴09|kyu=數}}
-
-# [[number]]
 
 ====Readings====
 {{ja-readings
@@ -36,49 +46,97 @@ Unorthodox variant of {{l|mul|數}}. From {{w|cursive script (East Asia)|cursive
 }}
 
 ====Compounds====
-{{top2}}
-* {{ja-r|数学|すうがく}}: [[mathematics]]
-* {{ja-r|数独|すうどく}}: [[sudoku]]
-* {{ja-r|自然数|しぜんすう}}: [[natural number]]
-* {{ja-r|整数|せいすう}}: [[integer]]
-* {{ja-r|実数|じっすう}}: [[real number]]
-{{mid2}}
-* {{ja-r|複%素%数|ふく%そ%すう}}: [[complex number]]
-* {{ja-r|対数|たいすう}}: [[logarithm]]
-* {{ja-r|変数|へんすう}}: [[variable]]
-* {{ja-r|定数|ていすう}}: [[constant]]
-* {{ja-r|助数詞|じょすうし}}: [[counter]] word
-{{bottom}}
+* {{ja-r|数珠|じゅず}}, {{ja-r|数珠|ずず}}, {{ja-r|数珠|じゅじゅ}}
+* {{ja-r|数奇屋|すきや}}
 
 ===Etymology 1===
 {{ja-kanjitab|かず|yomi=k}}
+
+{{rfelite|ja|From {{inh|ja|ojp|-}}}}
 
 ====Pronunciation====
 {{ja-pron|y=k|かず|acc=1|acc_ref=SMK2}}
 
 ====Noun====
-{{ja-noun|かず}}
+{{ja-noun|kyu=數|かず}}
 
 # [[number]]; [[amount]]
 #: {{ja-usex|人 の '''数'''|ひと の '''かず'''|'''number''' of people}}
 #: {{ja-usex|夜%空 の 星 の '''数'''|よ%ぞら の ほし の '''かず'''|the '''number''' of stars in the night sky}}
 
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|数々|かずかず|rom=-}}, {{ja-r|数数|かずかず}}
+* {{ja-r|数的|かずてき}}
+* {{ja-r|数札|かずふだ}}
+* {{ja-r|数%矢|かず%や}}
+* {{ja-r|御%数|お%かず}}
+* {{ja-r|口数|くちかず}}
+* {{ja-r|人数|ひとかず}}
+* {{ja-r|数%歯%巨頭|カズ%ハ%ゴン%ドウ}}
+{{der-bottom}}
+
 ===Etymology 2===
 {{ja-kanjitab|すう|yomi=kanyoon}}
+
+From {{der|ja|ltc|sort=すう|-}} {{ltc-l|數|id=1+2}}.
 
 ====Pronunciation====
 {{ja-pron|y=o|すう|acc=1|acc_ref=SMK2}}
 
 ====Noun====
-{{ja-noun|すう}}
+{{ja-noun|kyu=數|すう}}
 
-# [[number]]
+# {{lb|ja|mathematics}} [[number]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|数学|すうがく|mathematics}}
+* {{ja-r|数%字|すう%じ}}
+* {{ja-r|数式|すうしき}}
+* {{ja-r|数%値|すう%ち}}
+* {{ja-r|数的|すうてき}}
+* {{ja-r|数独|すうどく|sudoku}}
+* {{ja-r|数量|すうりょう}}
+* {{ja-r|奇%数|き%すう}}
+* {{ja-r|偶数|ぐうすう}}
+* {{ja-r|件数|けんすう}}
+* {{ja-r|軒数|けんすう}}
+* {{ja-r|口数|こうすう}}
+* {{ja-r|算数|さんすう}}
+* {{ja-r|実数|じっすう|real number}}
+* {{ja-r|除数|じょすう}}
+* {{ja-r|乗数|じょうすう}}
+* {{ja-r|整数|せいすう|integer}}
+* {{ja-r|多%数|た%すう}}
+* {{ja-r|対数|たいすう|logarithm}}
+* {{ja-r|丁数|ちょうすう}}
+* {{ja-r|坪数|つぼすう}}
+* {{ja-r|定数|ていすう|constant}}
+* {{ja-r|人数|にんずう}}, {{ja-r|人%数|にん%ず}}
+* {{ja-r|年数|ねんすう}}
+* {{ja-r|端数|は%すう}}
+* {{ja-r|複数|ふくすう|rom=-}}, {{ja-r|復数|ふくすう}}
+* {{ja-r|変数|へんすう|variable}}
+* {{ja-r|枚数|まいすう}}
+* {{ja-r|自%然%数|し%ぜん%すう|[[natural number]]}}
+* {{ja-r|助%数%詞|じょ%すう%し|[[counter]] word}}
+* {{ja-r|複%素%数|ふく%そ%すう|[[complex number]]}}
+{{der-bottom}}
 
 ====Prefix====
 {{ja-pos|すう|prefix}}
 
 # [[several]]
 #: {{ja-usex|'''数'''百%人|'''すう'''ひゃく%にん|'''several''' hundred people}}
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|数隻|すうせき}}
+* {{ja-r|数匹|すうひき}}
+* {{ja-r|数百|すうひゃく}}
+* {{ja-r|数百万|すうひゃくまん}}
+{{der-bottom}}
 
 ===Etymology 3===
 {{ja-kanjitab|しばしば|yomi=k}}
@@ -91,3 +149,31 @@ Unorthodox variant of {{l|mul|數}}. From {{w|cursive script (East Asia)|cursive
 [[Category:ja:Mathematics|かず]]
 
 ----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|세다|셀|수}}
+
+# {{hanja form of|수|{{alternative form of|ko|數}}}}
+
+===References===
+* {{R:zonmal|25968}}
+
+{{categorize|ko|Hanja variant forms|sort=수}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=攴09
+|hanviet=số-tdcntd;gdhn
+|phienthiet=
+|nom=số-tdcntd;gdhn, sổ-tdcntd;gdhn, sộ-tdcntd;gdhn, sỗ-gdhn, xọ-gdhn
+}}
+
+# {{alternative form of|vi|數}}
+
+===References===
+<references/>
