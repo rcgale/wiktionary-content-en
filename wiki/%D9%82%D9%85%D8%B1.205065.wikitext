@@ -42,12 +42,18 @@ From the root {{ar-root|ق|م|ر}}. The Arabic word for the moon is alone in the
 # [[moon]]
 # [[satellite]]
 # [[snow blindness]]
+# {{lb|ar|figuratively}} a [[beautiful]] or [[handsome]] person
+#: {{uxi|ar|قَمَرُ بَنِي هَاشِم|The Moon of the Sons of Hashim [title of [[w:Abbas ibn Ali|Abbas ibn Ali]]]}}
 
 ====Declension====
 {{ar-decl-noun|قَمَر|pl=أَقْمَار}}
 
 ====Derived terms====
 * {{l|ar|قَمَر الدِّين}}
+
+====Descendants====
+* {{desc|afb|قمر|tr=gumar}}
+* {{desc|fa|bor=1|قمر|tr=qamar}}
 
 ===Noun===
 {{ar-noun|قَمْر|m}}
@@ -68,6 +74,24 @@ From the root {{ar-root|ق|م|ر}}. The Arabic word for the moon is alone in the
 
 ----
 
+==Gulf Arabic==
+
+===Alternative forms===
+* {{alter|afb|گمر}}
+
+===Etymology===
+From {{inh|afb|ar|قَمَر}}.
+
+===Pronunciation===
+* {{a|Kuwait}} {{IPA|afb|/ˈɡʊmər/}}
+
+===Noun===
+{{head|afb|noun|g=m|tr=gumar|head=قُمَر|dual|قُمَرين|f1tr=gumarēn|plural|اَقْمار|f2tr=aqmār|or|اَقْمار|f3tr=agmār}}
+# a [[moon]]
+# {{lb|afb|definite}} {{l|afb|القمر|tr=il-gumar}} the moon
+# {{lb|afb|figuratively}} a very [[beautiful]] or [[handsome]] [[person]], regardless of gender
+{{topics|afb|Astronomy|Light sources|Space}}
+----
 ==Persian==
 {{wikipedia|lang=fa}}
 
@@ -78,9 +102,8 @@ From {{bor|fa|ar|قَمَر}}.
 {{fa-noun|tr=qamar|pl=اقمار|pltr=aqmâr|pl2=قمرها}}
 
 # {{lb|fa|archaic|poetic}} [[moon]]
+#: {{syn|fa|ماه|tr=mâh}}
 # [[satellite]]
-
-====Synonyms====
-* {{l|fa|ماهواره|tr=mâhvâre}}
+#: {{syn|fa|ماهواره|tr=mâhvâre}}
 
 {{topics|fa|Astronomy|Light sources|Space}}
