@@ -20,13 +20,13 @@ Originated 1925–30 from {{suffix|en|sense|or}}.
 ====Translations====
 {{trans-top|device or organ that detects certain external stimuli}}
 * Basque: {{t|eu|sentsore}}
-* Bulgarian: {{t+|bg|сензор|m|tr=sénzor|sc=Cyrl}}
+* Bulgarian: {{t+|bg|се́нзор|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|傳感器|sc=Hani}}, {{t+|cmn|传感器|tr=chuán'gǎnqì|sc=Hani}}
 * Danish: {{t|da|føler|c}}, {{t|da|sensor|c}}
 * Esperanto: {{t|eo|sensilo}}
 * Estonian: {{t|et|andur}} (device)
-* Finnish: {{t+|fi|anturi}}, {{t+|fi|tunnistin}} (device); {{t+|fi|aistin}}; {{t|fi|tuntoelin}} (organ), {{t+|fi|sensori}}
+* Finnish: {{t+|fi|anturi}}, {{t+|fi|tunnistin}} {{q|device}}; {{t+|fi|aistin}}; {{t|fi|tuntoelin}} {{q|organ}}, {{t+|fi|sensori}}
 * French: {{t+|fr|détecteur}}, {{t+|fr|capteur|m}}
 * German: {{t+|de|Sensor|m}}
 * Irish: {{t|ga|braiteoir|m}}
@@ -35,16 +35,16 @@ Originated 1925–30 from {{suffix|en|sense|or}}.
 {{trans-mid}}
 * Korean: {{t|ko|센서}}
 * Macedonian: {{t+|mk|сетилник|m}}
-* Maori: {{t|mi|paerongo}}, {{t|mi|pūoko }}
+* Maori: {{t|mi|paerongo}}, {{t|mi|pūoko}}
 * Norwegian:
 *: Bokmål: {{t+|nb|sensor|m}}
 *: Nynorsk: {{t|nn|sensor|m}}
 * Portuguese: {{t+|pt|sensor|m}}
 * Russian: {{t+|ru|се́нсор|m|tr=sɛ́nsor}}
-* Serbo-Croatian: {{t+|sh|osjetnik|m}} (device), {{t+|sh|osjetilo|n}} (organ)
+* Serbo-Croatian: {{t+|sh|osjetnik|m}} {{q|device}}, {{t+|sh|osjetilo|n}} {{q|organ}}
 * Spanish: {{t+|es|sensor|m}}
 * Swedish: {{t+|sv|sensor|c}}
-* Ukrainian: {{t|uk|сенсор|m|tr=sénsor|sc=Cyrl}}
+* Ukrainian: {{t|uk|се́нсор|m}}
 {{trans-bottom}}
 
 ===References===
@@ -85,14 +85,21 @@ From {{der|id|en|sensor}}.
 ==Norwegian Bokmål==
 {{wikipedia|lang=no}}
 
-===Etymology===
-From {{der|nb|la|censor}}, sense 3 from {{der|nb|en|sensor}}
+===Etymology 1===
+From {{der|nb|la|censor}}
 
-===Noun===
+====Noun====
 {{nb-noun-m1}}
 
 # a {{l|en|censor}}
 # an {{l|en|examiner}} {{lb|nb|education|of exam papers}}
+
+===Etymology 2===
+From {{der|nb|en|sensor}}
+
+====Noun====
+{{nb-noun-m1}}
+
 # a {{l|en|sensor}} {{q|device}}
 
 ===References===
@@ -102,14 +109,21 @@ From {{der|nb|la|censor}}, sense 3 from {{der|nb|en|sensor}}
 
 ==Norwegian Nynorsk==
 
-===Etymology===
-From {{der|nn|la|censor}}, sense 3 from {{der|nn|en|sensor}}
+===Etymology 1===
+From {{der|nn|la|censor}}
 
-===Noun===
+====Noun====
 {{nn-noun-m1}}
 
 # a {{l|en|censor}}
 # an {{l|en|examiner}} {{lb|nn|education|of exam papers}}
+
+===Etymology 2===
+From {{der|nn|en|sensor}}
+
+====Noun====
+{{nn-noun-m1}}
+
 # a {{l|en|sensor}} {{q|device}}
 
 ===References===
