@@ -81,19 +81,19 @@ From {{inh|en|enm|quene}}, {{m|enm|queen}}, {{m|enm|cwen}}, from {{inh|en|ang|cw
 ====Translations====
 {{trans-top|female monarch}}
 * Afrikaans: {{t+|af|koningin}}
-* Akan: {{t-simple|ak|hemmea|langname=Akan}}
+* Akan: {{t|ak|hemmea}}
 * Albanian: {{t+|sq|mbretëreshë|f}}
 * American Sign Language: {{t|ase|G@Chest-PalmDown G@Abdomen|sc=Sgnw}}
 * Amharic: {{t|am|ንግሥት|f}}
 * Arabic: {{t|ar|مَلِكَة|f}}
-*: Egyptian Arabic: {{t|arz|ملكة|f|tr=maleka|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|مَلِكَة|f|tr=maleka|sc=Arab}}
 * Aragonese: {{t|an|reina|f}}
 * Aramaic:
 *: Hebrew: {{t|arc|מַלְכְּתָא|f|tr=malkəṯā}}
 *: Syriac: {{t|arc|ܡܠܟܬܐ|f|tr=malkəṯā}}
 * Armenian: {{t+|hy|թագուհի}}
 * Aromanian: {{t|rup|vãsiloanji|f}}
-* Assamese: {{t|as|ৰাণী|f|tr=raāṇī}}
+* Assamese: {{t|as|ৰাণী|f}}
 * Asturian: {{t|ast|reina|f}}
 * Azerbaijani: {{t+|az|kraliça}}
 * Baluchi: {{t|bal|شاهبانک|tr=šāhbanuk}}
@@ -225,7 +225,7 @@ From {{inh|en|enm|quene}}, {{m|enm|queen}}, {{m|enm|cwen}}, from {{inh|en|ang|cw
 * Uzbek: {{t+|uz|qirolicha}}, {{t+|uz|malika}}
 * Venetian: {{t|vec|rexina|f}}
 * Vietnamese: {{t+|vi|nữ hoàng}}, {{t|vi|bà hoàng}}, {{t|vi|[[bà]] [[chúa]]}}, {{t+|vi|nữ vương}}
-* Volapük: {{qualifier|♂♀}} {{t+|vo|reg}}, {{qualifier|♀}} {{t+|vo|jireg}}
+* Volapük: {{t+|vo|reg|m|f}}, {{t+|vo|jireg|f}}
 * Walloon: {{t+|wa|royinne|f}}, {{t+|wa|rinne|f}}
 * Welsh: {{t|cy|brenhines|f}}
 * West Frisian: {{t|fy|keningin|c}}
@@ -261,7 +261,7 @@ From {{inh|en|enm|quene}}, {{m|enm|queen}}, {{m|enm|cwen}}, from {{inh|en|ang|cw
 * Indonesian: {{t+|id|permaisuri|f}}
 * Japanese: {{t+|ja|王妃|tr=おうひ, ōhi}}, {{t|ja|クィーン|tr=kuīn}}
 * Kazakh: {{t|kk|король әйел|sc=Cyrl}}
-* Korean: {{t+|ko|왕비|tr=wangbi}} ({{t+|ko|王妃}}), {{t+|ko|왕후|tr=wanghu}} ({{t+|ko|王后}}), {{t|ko|궁비|tr=gungbi}} ({{t|ko|宮妃}}
+* Korean: {{t+|ko|왕비}} ({{t+|ko|王妃}}), {{t+|ko|왕후}} ({{t+|ko|王后}}), {{t|ko|궁비}} ({{t|ko|宮妃}}
 * Latin: {{t+|la|regina|f}}
 * Latvian: {{t|lv|karaliene|f}}
 {{trans-mid}}
@@ -272,7 +272,7 @@ From {{inh|en|enm|quene}}, {{m|enm|queen}}, {{m|enm|cwen}}, from {{inh|en|ang|cw
 * Maltese: {{t|mt|reġina}}
 * Manx: {{t|gv|benrein|f}}, {{t|gv|rein|f}}
 * Middle English: {{t|enm|quene}}
-* Norman: {{t|nrf|ranne|f}} {{qualifier|continental Normandy}}, {{t|nrf|reine|f}} {{qualifier|Jersey}}, {{t|nrf|royne|f}} {{qualifier|Guernsey}}
+* Norman: {{t|nrf|ranne|f}} {{qualifier|France}}, {{t|nrf|reine|f}} {{qualifier|Jersey}}, {{t|nrf|royne|f}} {{qualifier|Guernsey}}
 * Norwegian: {{t+|no|dronning}}
 * Old English: {{t|ang|cwēn|f}}
 * Persian: {{t+|fa|شهبانو|tr=šahbânu}}
@@ -491,7 +491,7 @@ From {{inh|en|enm|quene}}, {{m|enm|queen}}, {{m|enm|cwen}}, from {{inh|en|ang|cw
 * Italian: {{t|it|ape regina|f}}
 * Japanese: {{t+|ja|女王|tr=joō}}
 {{trans-mid}}
-* Korean: {{t+|ko|여왕|tr=yeowang}}
+* Korean: {{t+|ko|여왕}}
 * Latvian: {{t+|lv|māte|f}}
 * Lithuanian: {{t|lt|motinėlė|f}}
 * Low German: {{t|nds|Königin|f}}, {{t|nds|Keunigin|f}}
@@ -541,12 +541,12 @@ From {{inh|en|enm|quene}}, {{m|enm|queen}}, {{m|enm|cwen}}, from {{inh|en|ang|cw
 
 {{checktrans-top}}
 * Breton: {{t+check|br|rouanez|f}}, {{qualifier|1,2,4}} {{t+check|br|-ed|p}}, {{qualifier|3}} {{t+check|br|damez|f}}, {{t-check|br|katell|f}}, {{qualifier|5}} {{t+check|br|-ed|p}}
-* Bulgarian: {{t+check|bg|кралица|f|tr=1}}, {{t+check|bg|царица|f|tr=1, 2, 5}}, {{t+check|bg|дама|f|tr=3}}, {{t-check|bg|травестит|tr=5}}
+* Bulgarian: {{t+check|bg|кралица|f}} {{q|1}}, {{t+check|bg|царица|f}} {{q|1,2,5}}, {{t+check|bg|дама|f}} {{q|3}}, {{t-check|bg|травестит}} {{q|5}}
 * Georgian: {{t-check|ka|დედოფალი}}
 * Hindi: {{t+check|hi|रानी}}
 * Interlingua: {{t-check|ia|regina}}
 {{trans-mid}}
-* Korean: {{t+check|ko|여왕}} [女王]
+* Korean: {{t+check|ko|여왕}} [{{t-check|ko|女王}}]
 * Lithuanian: {{qualifier|1, 4}} {{t+check|lt|karalienė|f}}, {{qualifier|ruling female monarch, when her consort is not ruling}} {{t-check|lt|karalė|f|f|alt=karalė}} (1) {{t-check|lt|valdovė}} (2), {{qualifier|3}} {{t-check|lt|dama|f}}, {{qualifier|6}} {{t-check|lt|motinėlė|f}}
 * Volapük: {{t+check|vo|jireg}}
 {{trans-bottom}}
@@ -609,7 +609,7 @@ From {{inh|en|enm|quene}}, {{m|enm|queen}}, {{m|enm|cwen}}, from {{inh|en|ang|cw
 
 ====Translations====
 {{trans-top|to make a queen}}
-* Danish: gøre til {{t+|da|dronning}}, {{t|da|udnævne}} til {{t+|da|dronning}}, {{t+|da|krone}}
+* Danish: {{t+|da|[[gøre]] til [[dronning]]}}, {{t|da|[[udnævne]] til [[dronning]]}}, {{t+|da|krone}}
 * Irish: {{t|ga|ríonaigh}} {{qualifier|chess}}
 * Italian: {{t+|it|incoronare}}
 * Portuguese: {{t+|pt|coroar}} ({{t+|pt|rainha}})
@@ -627,7 +627,7 @@ From {{inh|en|enm|quene}}, {{m|enm|queen}}, {{m|enm|cwen}}, from {{inh|en|ang|cw
 * Russian: {{t|ru|пе́шку прово́дят в ферзи́}}
 {{trans-mid}}
 * Spanish: {{t+|es|coronar}}
-* Swedish: {{t|sv|gå i dam}}, {{t|sv|göra till}} {{t+|sv|drottning}}
+* Swedish: {{t|sv|gå i dam}}, {{t|sv|[[göra till]] [[drottning]]}}
 * Vietnamese: {{t|vi|[[nâng]] [[thành]] ([[quân]]) [[hậu|Hậu]]}}
 {{trans-bottom}}
 
