@@ -431,7 +431,7 @@ See {{section link|head/translations#Noun}}.
 * German: {{t+|de|Kopf|alt=Kopf-}}, {{qualifier|dated}} {{t+|de|Haupt|alt=Haupt-}}
 * Greek: {{t+|el|κεφαλικός}}
 * Gujarati: {{t|gu|માથુ}}
-* Italian: {{t-check|it|di testa}} <!-- link as t-SOP if non-idiomatic; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Italian: {{t-check|it|[[di]] [[testa]]}}
 * Japanese: {{t|ja|頭の|tr=あたまの, atama no}}
 {{trans-mid}}
 * Kabuverdianu: {{t|kea|kabesa}}
@@ -439,8 +439,8 @@ See {{section link|head/translations#Noun}}.
 * Russian: {{t+|ru|головно́й}}
 * Slovak: {{t|sk|hlavový}}
 * Spanish: {{t+|es|cabeza}}
-* Swedish: compounds with {{t+|sv|huvud}}
-* Turkish: {{t+check|tr|kafa|alt=kafa-}} <!-- see de above -->
+* Swedish: {{t-check|sv|huvud|alt=compounds with huvud}}
+* Turkish: {{t+check|tr|kafa|alt=kafa-}}
 {{trans-bottom}}
 
 {{trans-top|foremost in rank or importance}}
@@ -458,7 +458,7 @@ See {{section link|head/translations#Noun}}.
 * Slovak: {{t+|sk|hlavný}}
 * Slovene: {{t|sl|gláven}}
 * Swabian: {{t|swg|Haubd-}}
-* Swedish: {{t+|sv|främst}}, {{t+|sv|först}}, compounds with {{t+|sv|huvud}} and {{t+|sv|topp}}
+* Swedish: {{t+|sv|främst}}, {{t+|sv|först}}, {{t-check|sv|compounds with [[huvud]] and [[topp]]}}
 {{trans-bottom}}
 
 {{trans-top|placed at the top or the front}}
@@ -480,7 +480,7 @@ See {{section link|head/translations#Noun}}.
 {{trans-mid}}
 * Polish: {{t+|pl|czołowy}}
 * Russian: {{t+|ru|встре́чный}}
-* Swedish: {{t+|sv|mot}}-
+* Swedish: {{t-check|sv|mot|alt=mot-}} {{attention|sv|2=was "[[mot]]-" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:So9q/Improved-xte.js/documentation#Translation_fixing]]}}
 {{trans-bottom}}
 
 {{trans-top|''slang'': of, relating to, or for drugs or drug users}}
@@ -537,7 +537,7 @@ See {{section link|head/translations#Noun}}.
 * Catalan: {{t+|ca|comandar}}, {{t+|ca|dirigir}}, {{t+|ca|encapçalar}}, {{t+|ca|liderar}}
 * Dutch: {{t+|nl|leiden}}, {{t+|nl|aanvoeren}}
 * Esperanto: {{t+|eo|komandi}}, {{t|eo|konduki}}
-* Finnish: {{t+|fi|johtaa}}; {{t+|fi|komentaa}} {{qualifier|military}}
+* Finnish: {{t+|fi|johtaa}}, {{t+|fi|komentaa}} {{qualifier|military}}
 * French: {{t+|fr|commander}}, {{t+|fr|diriger}}, {{t+|fr|chapeauter}}
 * German: {{t+|de|führen}}, {{t+|de|leiten}}
 * Hebrew: {{t|he|עמד בראש|tr=amad b’rosh|sc=Hebr}}
@@ -581,7 +581,7 @@ See {{section link|head/translations#Noun}}.
 * Bulgarian: {{t|bg|отправям се}}
 * Dutch: {{t-check|nl|ergens naar toe gaan}}, {{t-check|nl|een richting op gaan}} <!-- {{t-SOP}} if non-idiomatic -->
 * Finnish: {{t+|fi|suunnata}}, {{t+|fi|suunnistaa}}, {{t|fi|[[lähteä]] [[johonkin]]}}
-* French: se {{t+|fr|diriger}}, {{t+|fr|courir}} {{qualifier|''for:'' [[vers]]}}
+* French: {{t-check|fr|diriger|alt=se diriger}} {{attention|fr|2=was "se [[diriger]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:So9q/Improved-xte.js/documentation#Translation_fixing]]}}, {{t+|fr|courir}} {{qualifier|''for:'' [[vers]]}}
 * German: {{t-check|de|ansteuern}}, {{t-check|de|in eine Richtung gehen}}, {{t-check|de|auf etwas zusteuern}} <!-- use {{t-SOP}} if non-idiomatic -->, {{t+|de|ziehen}}
 * Icelandic: {{t|is|stefna}}, {{t+|is|fara}}
 * Indonesian: {{t+|id|tuju|alt=menuju}}
@@ -641,7 +641,7 @@ See {{section link|head/translations#Noun}}.
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Esperanto: {{t|eo|direktiĝi}}
+* Esperanto: {{t-check|eo|direktiĝi}}
 {{trans-mid}}
 {{trans-bottom}}
 
