@@ -369,7 +369,7 @@ A few alternative spellings (see below) respell the term so as not to contain ''
 * Ayabadhu: {{t|ayd|wethemu}} {{qualifier|Yintyingka}}
 * Aymara: {{t+|ay|palla}}
 * Aynu: {{t|aib|zen}}
-* Azerbaijani: {{t+|az|qadın}}, {{t|az|xanım}}, {{t|az|civi}} (vulgar)
+* Azerbaijani: {{t+|az|qadın}}, {{t|az|xanım}}, {{t-check|az|civi}} {{q|vulgar}} 
 * Bagusa: {{t|bqb|is}}
 * Bakhtiari: {{t|bqi|زینه|tr=zēne}}
 * Baldemu: {{t|bdn|ŋgǎsā}}
@@ -1005,7 +1005,7 @@ A few alternative spellings (see below) respell the term so as not to contain ''
 * Nukuoro: {{t|nkr|hahine}}
 * Nungon: {{t|paa-nun|oe}}
 * Nyankole: {{t|nyn|omukazi|c1}}
-* Nzadi : {{t|nzd|okaar|alt=okáàr}}
+* Nzadi: {{t|nzd|okaar|alt=okáàr}}
 * Nüpode Huitoto: {{t|hux|rɯ́-ŋo}}
 * O'odham: {{t|ood|'oks}}, {{t|ood|'uwĭ}}
 * Obispeño: {{t|obi|tsiyuʟ}}
@@ -1250,7 +1250,7 @@ A few alternative spellings (see below) respell the term so as not to contain ''
 * Titan: {{t|ttv|pein}}
 * Tivi: {{t|tiv|kwɑse}}
 * Tlahuica: {{t|ocu|wuetxu}}
-* Tlingit: {{t|tli|ša'wát}} / {{t|tli|shawút}}
+* Tlingit: {{t|tli|ša'wát}}, {{t|tli|shawút}}
 * To'abaita: {{t|mlu|kini}}
 * Tocantins Asurini: {{t|asu|kósoa}}, {{t|asu|hée}}
 * Tocharian A: {{t|xto|śäṃ}}
@@ -1286,7 +1286,7 @@ A few alternative spellings (see below) respell the term so as not to contain ''
 * Tunica: {{t|tun|nuxtci}}
 * Tunjung: {{t|tjg|wawe}}
 * Tupinambá: {{t|tpn|kunhã}}
-* Turkish: {{t+|tr|kadın}}, {{t+|tr|hatun}}, {{t+|tr|bayan}}, {{t|tr|gacı}} (''slang''), {{t|tr|cıvır}} (''dialectal'')
+* Turkish: {{t+|tr|kadın}}, {{t+|tr|hatun}}, {{t+|tr|bayan}}, {{t-check|tr|gacı}} {{q|slang}} , {{t-check|tr|cıvır}} {{q|dialectal}} 
 * Turkmen: {{t|tk|aýaal}}, {{t|tk|heleý}}, {{t|tk|zenaan}}
 * Tuscarora: {{t|tus|kanę̀·węˀ}}
 * Tuvaluan: {{t|tvl|fafine}}
@@ -1340,7 +1340,7 @@ A few alternative spellings (see below) respell the term so as not to contain ''
 * West Coast Bajau: {{t|bdr|pedendoon}}
 * West Frisian: {{t+|fy|frou}}, {{t+|fy|wiif}}
 * West Tarangan: {{t|txn|konar}}
-* Western Apache: {{t|apw|isdzánhń}} (-[[’isdzą’]]), {{t|apw|izdzán}}
+* Western Apache: {{t-|apw|isdzánhń}}, {{t|apw|izdzán}}
 * Western Bukidnon Manobo: {{t|mbb|bahi}}
 * White Hmong: {{t|mww|pojniam}}
 * Wichita: {{t|wic|kaahiik'a}}
@@ -1390,7 +1390,9 @@ A few alternative spellings (see below) respell the term so as not to contain ''
 {{trans-bottom}}
 
 {{trans-see|wife}}
-
+{{checktrans-top}}
+* Western Apache: {{t|apw|-[[’isdzą’]]}}
+{{trans-bottom}}
 ====References====
 * {{pedia}}
 * {{pedia|dab=Woman (disambiguation)}}
