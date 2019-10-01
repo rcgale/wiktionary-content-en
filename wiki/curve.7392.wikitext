@@ -91,7 +91,7 @@ From {{der|en|la|curvus|t=bent, curved}}.
 * Finnish: {{t+|fi|käyrä}}
 * German: {{t+|de|Kurve|f}}
 * Maori: {{t|mi|ānau}}
-* Navajo: {{t|nv|ahééʼídzoh|sc=Latn}}
+* Navajo: {{t|nv|ahééʼídzoh}}
 * Norwegian:
 *: Bokmål: {{t+|nb|kurve|m}}
 *: Nynorsk: {{t|nn|kurve|f}}
@@ -128,7 +128,7 @@ From {{der|en|la|curvus|t=bent, curved}}.
 * Latvian: {{t|lv|līkne|f}}
 * Lithuanian: {{t|lt|kreivė|f}}
 * Macedonian: {{t|mk|кри́ва|f}}
-* Navajo: {{t|nv|ahééʼídzoh|sc=Latn}}
+* Navajo: {{t|nv|ahééʼídzoh}}
 * Norwegian:
 *: Bokmål: {{t+|nb|kurve|m}}
 *: Nynorsk: {{t|nn|kurve|f}}
@@ -245,7 +245,7 @@ From {{der|en|la|curvus|t=bent, curved}}.
 ==Dutch==
 
 ===Etymology===
-From {{der|nl|la|curvus||bent, curved}}
+From {{der|nl|la|curvus|t=bent, curved}}.
 
 ===Pronunciation===
 * {{audio|nl|Nl-curve.ogg|Audio}}
@@ -257,26 +257,30 @@ From {{der|nl|la|curvus||bent, curved}}
 # {{l|en|curve}}: {{l|en|curved}} {{l|en|line}}
 
 ====Derived terms====
-* {{l|nl|aanbodcurve}}
-* {{l|nl|vraagcurve}}
+{{der2|nl
+|aanbodcurve
+|vraagcurve}}
 
 ----
 
 ==Italian==
+
+===Adjective===
+{{head|it|adjective form}}
+
+# {{it-adj form of|curvo|f|pl}}
 
 ===Noun===
 {{head|it|noun plural form|g=f}}
 
 # {{plural of|it|curva}}
 
-===Adjective===
-{{head|it|adjective form}}
-
-# {{feminine plural of|it|curvo}}
-
 ----
 
 ==Latin==
+
+===Pronunciation===
+* {{la-IPA}}
 
 ===Adjective===
 {{la-adj-form|curve}}
@@ -290,10 +294,7 @@ From {{der|nl|la|curvus||bent, curved}}
 ===Verb===
 {{head|pt|verb form}}
 
-# {{pt-verb form of|curvar|ar|subjunctive|present|singular|first}}
-# {{pt-verb form of|curvar|ar|subjunctive|present|singular|third}}
-# {{pt-verb form of|curvar|ar|imperative|affirmative|singular|third|}}
-# {{pt-verb form of|curvar|ar|imperative|negative|singular|third|}}
+# {{pt-verb-form-of|curvar}}
 
 ----
 
@@ -310,6 +311,9 @@ From {{der|nl|la|curvus||bent, curved}}
 ----
 
 ==Spanish==
+
+===Pronunciation===
+* {{es-IPA}}
 
 ===Verb===
 {{head|es|verb form}}
