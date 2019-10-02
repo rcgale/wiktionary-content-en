@@ -3,7 +3,7 @@
 
 ===Etymology===
 {{PIE root|en|per}}
-From {{inh|en|enm|parent}}, borrowed from {{bor|en|xno|parent}}, {{bor|en|frm|parent}}, from {{der|en|la|parentem}}, accusative of {{m|la|parēns||parent}}, present participle of {{m|la|parere||to breed, bring forth}}.
+From {{inh|en|enm|parent}}, borrowed from {{bor|en|xno|parent}}, {{bor|en|frm|parent}}, from {{der|en|la|parentem}}, accusative of {{m|la|parēns|t=parent}}, present participle of {{m|la|parere|t=to breed, bring forth}}.
 
 ===Pronunciation===
 * {{a|GenAm}} {{IPA|en|/ˈpɛəɹənt/|/ˈpeəɹənt/|/ˈpæɹənt/}}; {{enPR|pârʹ-ənt|părʹ-ənt}}
@@ -21,6 +21,9 @@ From {{inh|en|enm|parent}}, borrowed from {{bor|en|xno|parent}}, {{bor|en|frm|pa
 #*: And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see? His '''parents''' answered them and said, We know that this is our son, and that he was born blind {{...}}
 #* '''2005''', Siobhan O'Neill, ''The Guardian'', 24 Aug 2005:
 #*: The NHS is naturally pro-immunisation, reassuring '''parents''' that their babies can easily cope with these jabs.
+#: {{syn|en|progenitor}}
+#: {{ant|en|child|offspring}}
+#: {{hypo|en|father|mother}}
 # A [[surrogate]] mother
 # A third person who has provided [[DNA]] samples in an [[IVF]] procedure in order to [[alter]] [[faulty]] [[genetic]] [[material]]
 # A person who [[act]]s as a parent in [[rear]]ing a [[child]]; a [[stepparent|step-parent]] or adoptive parent.
@@ -42,34 +45,22 @@ From {{inh|en|enm|parent}}, borrowed from {{bor|en|xno|parent}}, {{bor|en|frm|pa
 |title=[http://www.economist.com/news/finance-and-economics/21579860-g8-pledges-tackle-three-ts-t-time T time]
 |passage=The ability to shift profits to low-tax countries by locating intellectual property in them{{...}}is often assumed to be the preserve of high-tech companies.{{...}}current tax rules make it easy for all sorts of firms to generate{{...}}“stateless income”: profit subject to tax in a jurisdiction that is neither the location of the factors of production that generate the income nor where the '''parent''' firm is domiciled.}}
 # {{lb|en|computing}} The object from which a [[child]] or [[derived]] object is descended; a [[node]] superior to another node. {{defdate|from 20th c.}}
-
-====Synonyms====
-* {{sense|person from whom one is descended}} {{l|en|progenitor}}
-* {{sense|computing: object from which a child is descended}} {{l|en|mother}}
-
-====Antonyms====
-* {{sense|person from whom one is descended}} {{l|en|child}}, {{l|en|offspring}}
-* {{sense|computing: object from which a child is descended}} {{l|en|child}}
-
-====Hyponyms====
-* {{sense|person from whom one is descended}} {{l|en|father}}, {{l|en|mother}}
+#: {{syn|en|mother}}
+#: {{ant|en|child}}
 
 ====Derived terms====
-{{der-top3}}
-* {{l|en|parent company}}
-* {{l|en|parentage}}
-* {{l|en|parental}}
-* {{l|en|parentdom}}
-{{der-mid3}}
-* {{l|en|parenthood}}
-* {{l|en|parentish}}
-* {{l|en|parentless}}
-* {{l|en|parentlike}}
-{{der-mid3}}
-* {{l|en|parently}}
-* {{l|en|parentness}}
-* {{l|en|parentship}}
-{{der-bottom}}
+{{der4|en
+|parent company
+|parentage
+|parental
+|parentdom
+|parenthood
+|parentish
+|parentless
+|parentlike
+|parently
+|parentness
+|parentship}}
 
 ====Translations====
 {{trans-top|person from whom one is descended}}
@@ -78,19 +69,19 @@ From {{inh|en|enm|parent}}, borrowed from {{bor|en|xno|parent}}, {{bor|en|frm|pa
 * Arabic: {{t+|ar|وَالِد|m}} {{qualifier|father}}, {{t|ar|وَالِدَة|f}} {{qualifier|mother}}, {{t|ar|وَالِدَان|m-d}} {{qualifier|parents}}
 * Aramaic:
 *: Classical Syriac: {{t|syc|ܝܠܘܕܐ|m|tr=yālōḏā}}, {{t|syc|ܝܠܘܕܬܐ|f|tr=yālōḏtā}}
-* Armenian: {{t+|hy|ծնող|sc=Armn}}
+* Armenian: {{t+|hy|ծնող}}
 * Aromanian: {{t|rup|pãrinte}}
 * Avar: {{t-needed|av}}
-* Bashkir: {{t|ba|ата-әсә|sc=Cyrl}}
-* Belarusian: {{t|be|ба́цька|m|sc=Cyrl}}
-* Bengali: {{t|bn|পেরেন্ট|tr=perenţ|sc=Beng}}, {{t|bn|অভিভাবক|tr=ôbhibhabôk|sc=Beng}}
-* Bulgarian: {{t+|bg|роди́тел|m|sc=Cyrl}}
+* Bashkir: {{t|ba|ата-әсә}}
+* Belarusian: {{t|be|ба́цька|m}}
+* Bengali: {{t|bn|পেরেন্ট}}, {{t|bn|অভিভাবক}}
+* Bulgarian: {{t+|bg|роди́тел|m}}
 * Burmese: {{t+|my|မိဘ}}
 * Catalan: {{t+|ca|progenitor|m|f}}, {{t+|ca|genitor|m|f}}, {{t+|ca|pares|m-p}}
 * Chechen: {{t-needed|ce}}
 * Chinese:
 *: Cantonese: {{t|yue|親}}, {{t|yue|亲|tr=can1}}, {{t|yue|父母|tr=fu6 mou5}} {{qualifier|parents}}
-*: Mandarin: {{t+|cmn|親|sc=Hani}}, {{t+|cmn|亲|tr=qīn|sc=Hani}}, {{t+|cmn|父母|tr=fùmǔ}} {{qualifier|parents}}
+*: Mandarin: {{t+|cmn|親}}, {{t+|cmn|亲|tr=qīn}}, {{t+|cmn|父母|tr=fùmǔ}} {{qualifier|parents}}
 * Czech: {{t+|cs|rodič|m}}
 * Danish: {{t+|da|forælder|c}}
 * Dutch: {{t+|nl|ouder|m}}
@@ -100,21 +91,21 @@ From {{inh|en|enm|parent}}, borrowed from {{bor|en|xno|parent}}, {{bor|en|frm|pa
 * French: {{qualifier|♂♀}} {{t+|fr|parent|m}}, {{t+|fr|géniteur|m}}, {{t+|fr|génitrice|f}}
 * Friulian: {{t|fur|genitôr|m}}
 * Galician: {{t+|gl|pai|m}}
-* Georgian: {{t|ka|მშობელი|sc=Geor}}
+* Georgian: {{t|ka|მშობელი}}
 * German: {{t+|de|Elternteil|m}}, {{qualifier|technical}} {{t+|de|Elter|m|n}}
 * Gothic: {{t|got|𐌱𐌴𐍂𐌿𐍃𐌾𐍉𐍃|m|p}}, {{t|got|𐍆𐌰𐌳𐍂𐌴𐌹𐌽|n}} {{qualifier|plural in meaning}}
 * Greek: {{t+|el|γονέας|m}}, {{t+|el|γεννήτορας|m}}
 *: Ancient: {{t|grc|γονεύς|m}}
 * Greenlandic: {{t|kl|angajoqqaa}}
 * Hawaiian: {{t|haw|makua}}
-* Hebrew: {{t+|he|הוֹרֶה|m|sc=Hebr}}
+* Hebrew: {{t+|he|הוֹרֶה|m}}
 * Hungarian: {{t+|hu|szülő}}
 * Icelandic: {{t+|is|foreldri|n}}
 * Ido: {{t+|io|genitoro}}
 * Irish: {{t|ga|tuismitheoir|m}}
 * Italian: {{t+|it|genitore|m}}, {{t+|it|genitrice|f}}
 * Japanese: {{t+|ja|親|tr=[[おや]], oya}}
-* Khmer: {{t|km|ឪពុកឬម្ដាយ|tr=əv puk rɨɨ mdaay|sc=Khmr}}
+* Khmer: {{t|km|ឪពុកឬម្ដាយ|tr=əv puk rɨɨ mdaay}}
 * Korean: {{t+|ko|조상}}
 * Lao: {{t|lo|ພໍ່ແມ່}}
 * Latgalian: {{t|ltg|dzymdynuotuoji|p}}, {{t|ltg|tāvs|m}}, {{t|ltg|muote|f}}
@@ -126,7 +117,7 @@ From {{inh|en|enm|parent}}, borrowed from {{bor|en|xno|parent}}, {{bor|en|frm|pa
 {{trans-mid}}
 * Luhya: {{t|luy|omsasi}}
 * Luxembourgish: {{t|lb|Elteren|p}}
-* Macedonian: {{t|mk|ро́дител|m|sc=Cyrl}}
+* Macedonian: {{t|mk|ро́дител|m}}
 * Malay: {{t|ms|ibu bapa}}, {{t|ms|emak ayah}}
 * Maori: {{t|mi|matua}}
 * Mongolian: {{t-needed|mn}}
@@ -151,9 +142,9 @@ From {{inh|en|enm|parent}}, borrowed from {{bor|en|xno|parent}}, {{bor|en|frm|pa
 * Samoan: {{t+|sm|matua}}
 * Scottish Gaelic: {{t|gd|pàrant|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|родитељ|m}}
-*: Roman: {{t+|sh|roditelj|m}}
-* Sinhalese: {{t|si|මව්පිය|sc=Sinh}}
+*: Cyrillic: {{t|sh|ро̀дитељ|m}}
+*: Roman: {{t+|sh|ròditelj|m}}
+* Sinhalese: {{t|si|මව්පිය}}
 * Slovak: {{t+|sk|rodič|m}}
 * Slovene: {{t|sl|starš|m}}, {{t|sl|roditelj|m}}
 * Spanish: {{t+|es|padre}}
@@ -161,13 +152,13 @@ From {{inh|en|enm|parent}}, borrowed from {{bor|en|xno|parent}}, {{bor|en|frm|pa
 * Swedish: {{t+|sv|förälder|c}}
 * Tahitian: {{t|ty|metua}}
 * Thai: {{t|th|พ่อแม่}}
-* Tibetan: {{t|bo|ཕ་མ|p|sc=Tibt}}
+* Tibetan: {{t|bo|ཕ་མ|p}}
 * Tok Pisin: {{t|tpi|papamama}}
 * Tongan: {{t|to|motuʻa}}
 * Tswana: {{t|tn|motsadi}} (1/2)
 * Turkish: {{t+|tr|ebeveyn}}, {{t+|tr|ana baba}}
 * Tuvan: {{t|tyv|ада-ие}}
-* Ukrainian: {{t|uk|роди́тель|m|sc=Cyrl}}, {{t+|uk|ба́тько|m|sc=Cyrl}} {{qualifier|"father", in plural - also "parents"}}, {{t+|uk|батьки́|m-p}} {{qualifier|parents}}
+* Ukrainian: {{t|uk|роди́тель|m}}, {{t+|uk|ба́тько|m}} {{qualifier|"father", in plural - also "parents"}}, {{t+|uk|батьки́|m-p}} {{qualifier|parents}}
 * Vietnamese: {{t+|vi|cha mẹ}} {{qualifier|parents}}, {{t+|vi|bố mẹ}} {{qualifier|parents}}
 * Volapük: {{qualifier|♂♀}} {{t+|vo|pal}}, {{qualifier|♂}} {{t+|vo|hipal}}, {{qualifier|♀}} {{t+|vo|jipal}}
 * Waray-Waray: {{t|war|kag-anak}}
@@ -176,13 +167,13 @@ From {{inh|en|enm|parent}}, borrowed from {{bor|en|xno|parent}}, {{bor|en|frm|pa
 {{trans-bottom}}
 
 {{trans-top|person who acts as a parent in rearing a child}}
-* Armenian: {{t+|hy|ծնող|sc=Armn}}
+* Armenian: {{t+|hy|ծնող}}
 * Chinese:
 *: Mandarin: {{t-needed|cmn}}
 * Czech: {{t+|cs|rodič|m}}
 * Dutch: {{t+|nl|ouder|m}}
 * Finnish: {{t+|fi|vanhempi}}, {{t|fi|ottovanhempi}}
-* Georgian: {{t|ka|მშობელი|sc=Geor}}
+* Georgian: {{t|ka|მშობელი}}
 * German: {{t+|de|Elternteil|n}}, {{t+|de|Eltern|p}}
 * Greek: {{t+|el|γονέας|m}}
 {{trans-mid}}
@@ -198,7 +189,7 @@ From {{inh|en|enm|parent}}, borrowed from {{bor|en|xno|parent}}, {{bor|en|frm|pa
 {{trans-bottom}}
 
 {{trans-top|biology: organism from which a plant or animal is biologically descended}}
-* Armenian: {{t+|hy|ծնող|sc=Armn}}
+* Armenian: {{t+|hy|ծնող}}
 * Chinese:
 *: Mandarin: {{t-needed|cmn}}
 * Czech: {{t+|cs|rodič|m}}
@@ -213,7 +204,7 @@ From {{inh|en|enm|parent}}, borrowed from {{bor|en|xno|parent}}, {{bor|en|frm|pa
 {{trans-bottom}}
 
 {{trans-top|source or origin of something}}
-* Armenian: {{t+|hy|աղբյուր|sc=Armn}}
+* Armenian: {{t+|hy|աղբյուր}}
 * Catalan: {{t+|ca|pare|m}}, {{t+|ca|mare|f}}
 * Czech: {{t+|cs|zdroj|m}}
 * Danish: {{t|da|ophav}}
@@ -237,18 +228,18 @@ From {{inh|en|enm|parent}}, borrowed from {{bor|en|xno|parent}}, {{bor|en|frm|pa
 {{checktrans-top}}
 * Afrikaans: {{t+check|af|ouer}}
 * Breton: {{t+check|br|tud|p}}, {{qualifier|only plural, otherwise use [[father]] or [[mother]]}} {{t+check|br|kerent|p}}
-* Bulgarian: {{t+check|bg|родител|m|sc=Cyrl}} (1)
+* Bulgarian: {{t+check|bg|родител|m}} (1)
 * Esperanto: {{t+check|eo|patro}}
 * French: {{t+check|fr|parent|m}}
 * German: {{t+check|de|Elternteil|m}}
-* Hebrew: {{t+check|he|הורה|m|tr=hore|sc=Hebr}}, {{t+check|he|הורה|f|tr=hora|sc=Hebr}}, ''plural:'' [[הורים]] (horim) {{g|m}} or {{g|m|f}}, {{t+check|he|הורות|f|tr=horot|sc=Hebr}}
+* Hebrew: {{t+check|he|הורה|m|tr=hore}}, {{t+check|he|הורה|f|tr=hora}}, ''plural:'' [[הורים]] (horim) {{g|m}} or {{g|m|f}}, {{t+check|he|הורות|f|tr=horot}}
 * Icelandic: {{t+check|is|foreldrar|p}}
 * Ido: {{t+check|io|genitoro}}
 * Indonesian: {{t+check|id|orangtua}}
 {{trans-mid}}
 * Interlingua: {{t-check|ia|parente}}, {{t-check|ia|genitor}}
 * Italian: {{t+check|it|genitore}}
-* Korean: {{t+check|ko|어버이|sc=Kore}}, {{t+check|ko|부모|sc=Kore}}
+* Korean: {{t+check|ko|어버이}}, {{t+check|ko|부모}}
 * Latin: {{t-check|la|parēns|m|f}} <!-- was "[[parens|parēns]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Romanian: {{t+check|ro|părinte|m}}
 * Slovene: {{qualifier|there are only 'parents' in Slovene, there is no singular form to it; if used in singular, we say 'father' [[oče]] or 'mother' [[mati]], or very formally [[roditelj]]}} {{t+check|sl|starši|m-p}}
@@ -318,14 +309,14 @@ From {{inh|ca|pro|parent}}, from {{inh|ca|la|parentem}}, accusative singular of 
 
 ==French==
 
-===Etymology===
+===Etymology 1===
 From {{inh|fr|frm|parent}}, from {{inh|fr|fro|parent}}, from {{inh|fr|la|parentem}}, accusative singular of {{m|la|parēns}}.
 
-===Pronunciation===
+====Pronunciation====
 * {{fr-IPA}}
 * {{audio|fr|Fr-parent.ogg|audio}}
 
-===Noun===
+====Noun====
 {{fr-noun|m|f=parente}}
 
 # [[relative]], [[relation]], family member
@@ -336,47 +327,48 @@ From {{inh|fr|frm|parent}}, from {{inh|fr|fro|parent}}, from {{inh|fr|la|parente
 # {{lb|fr|in the plural}} [[ancestor]]s
 # {{lb|fr|in the plural}} {{l|en|parents}}
 
-====Derived terms====
-{{der-top3}}
-* {{l|fr|arrière-arrière-grand-parent}}
-* {{l|fr|arrière-grand-parent}}
-* {{l|fr|être parent avec quelqu'un}}
-* {{l|fr|grand-parent}}
-* {{l|fr|ils sont proches parents}}
-* {{l|fr|parent éloigné}}
-{{der-mid3}}
-* {{l|fr|parent par alliance}}
-* {{l|fr|parent pauvre}}
-* {{l|fr|parent proche}}
-* {{l|fr|parental}}
-* {{l|fr|parentalité}}
-* {{l|fr|parents adoptifs}}
-{{der-mid3}}
-* {{l|fr|parents d'élèves}}
-* {{l|fr|parents et amis}}
-* {{l|fr|sans parents}}
-* {{l|fr|son plus proche parent}}
-* {{l|fr|traiter quelqu'un en parent pauvre}}
-{{der-bottom}}
+=====Derived terms=====
+{{der4|fr
+|arrière-arrière-grand-parent
+|arrière-grand-parent
+|être parent avec quelqu'un
+|grand-parent
+|ils sont proches parents
+|parent éloigné
+|parent par alliance
+|parent pauvre
+|parent proche
+|parental
+|parentalité
+|parents adoptifs
+|parents d'élèves
+|parents et amis
+|sans parents
+|son plus proche parent
+|traiter quelqu'un en parent pauvre}}
 
-===Adjective===
+====Adjective====
 {{fr-adj}}
 
 # [[related]]
 # [[similar]]
 
-====Derived terms====
-{{der-top}}
-* {{l|fr|familles parentes}}
-* {{l|fr|intelligences parentes}}
-* {{l|fr|langues parentes}}
-{{der-mid}}
-* {{l|fr|parent à}}
-* {{l|fr|parent avec}}
-* {{l|fr|parent de}}
-{{der-bottom}}
+=====Derived terms=====
+{{der3|fr
+|familles parentes
+|intelligences parentes
+|langues parentes
+|parent à
+|parent avec
+|parent de}}
 
-===Verb===
+===Etymology 2===
+{{nonlemma}}
+
+====Pronunciation====
+* {{fr-IPA|pare}}
+
+====Verb====
 {{head|fr|verb form}}
 
 # {{inflection of|fr|parer||3|p|pres|indc}}
@@ -386,7 +378,7 @@ From {{inh|fr|frm|parent}}, from {{inh|fr|fro|parent}}, from {{inh|fr|la|parente
 * {{R:TLFi}}
 
 ===Anagrams===
-* {{l|fr|arpent}}, {{l|fr|râpent}}
+* {{anagrams|fr|arpent|râpent}}
 
 [[Category:fr:Family]]
 
@@ -394,10 +386,17 @@ From {{inh|fr|frm|parent}}, from {{inh|fr|fro|parent}}, from {{inh|fr|la|parente
 
 ==Latin==
 
-===Verb===
+===Pronunciation===
+* {{la-IPA}}
+
+===Verb 1===
 {{la-verb-form|parent}}
 
 # {{inflection of|la|parō||3|p|pres|actv|subj}}
+
+===Verb 2===
+{{la-verb-form|parent}}
+
 # {{inflection of|la|pareō||3|p|pres|actv|ind}}
 
 ----
@@ -420,19 +419,16 @@ From {{inh|frm|fro|parent}}.
 ==Norman==
 
 ===Alternative forms===
-* {{l|nrf|pathent}} {{qualifier|Jersey}}
+* {{alter|nrf|pathent||Jersey}}
 
 ===Etymology===
-From {{inh|nrf|fro|parent}}, from {{inh|nrf|la|parēns}}, {{m|la|parentem}}, from {{m|la|pariō}}, {{m|la|parere||bring forth, give birth to, produce}}.
+From {{inh|nrf|fro|parent}}, from {{inh|nrf|la|parēns}}, {{m|la|parentem}}, from {{m|la|pariō}}, {{m|la|parere|t=bring forth, give birth to, produce}}.
 
 ===Noun===
 {{nrf-noun|m}}
 
 # {{lb|nrf|Guernsey}} {{l|en|parent}}
-
-====Hyponyms====
-* {{l|nrf|mère}}
-* {{l|nrf|père}}
+#: {{hypo|nrf|mère|père}}
 
 {{topics|nrf|Family}}
 
@@ -449,12 +445,13 @@ From {{inh|fro|la|parens|parēns, parentem}}.
 # {{l|en|parent}}
 
 ====Derived terms====
-* [[parenté]]
-* [[parentage]]
+{{der2|fro
+|parenté
+|parentage}}
 
 ====Descendants====
 * {{desc|enm|parent|bor=1}}
 ** {{desc|en|parent}}
 * {{desc|frm|parent}}
 ** {{desc|fr|parent}}
-* {{desc|nrf|parent}}, {{l|nrf|pathent}}
+* {{desc|nrf|parent}} {{q|Guernsey}}, {{l|nrf|pathent}} {{q|Jersey}}
