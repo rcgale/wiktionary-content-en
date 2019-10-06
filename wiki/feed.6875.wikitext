@@ -80,14 +80,14 @@ From {{inh|en|enm|feede}}, from {{inh|en|ang|fēdan||to feed}}, from {{inh|en|ge
 * Georgian: {{t|ka|კვება}}
 * German: {{t+|de|füttern}}, {{t+|de|nähren}}
 * Greek: {{t+|el|ταΐζω}}
-*: Ancient: {{t|grc|βόσκω}}, {{t|grc|τρέφω}}, {{t|grc|φέρβω}} {{qualifier|Epic}}
+*: Ancient Greek: {{t|grc|βόσκω}}, {{t|grc|τρέφω}}, {{t|grc|φέρβω}} {{qualifier|Epic}}
 * Haitian Creole: {{t|ht|ba(y\n)...mange}}
 * Hindi: {{t+|hi|खिलाना}}
 * Hungarian: {{t+|hu|etet}}, {{t+|hu|megetet}}, {{t+|hu|táplál}}
 * Icelandic: {{t+|is|fóðra}}, {{t+|is|fæða}}
 * Indonesian: {{t|id|[[beri|memberi]] [[makan]]}}
 * Irish: {{t|ga|beathaigh}}, {{t|ga|biathaigh}}
-* Italian: {{t+|it|nutrire}}, {{t+|it|alimentare}}, [[fare]] [[mangiare]]
+* Italian: {{t+|it|nutrire}}, {{t+|it|alimentare}}, {{t-check|it|[[fare]] [[mangiare]]}} {{attention|it|2=was "[[fare]] [[mangiare]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:So9q/Improved-xte.js/documentation#Translation_fixing]]}}
 * Japanese: {{t|ja|食べさせる|tr=たべさせる, tabesaseru|sc=Jpan}}, {{t+|ja|飼う|tr=かう, kau}}, {{t|ja|[[食べ物]]を[[与える]]|tr=たべものをあたえる, tabemono wo ataeru}}
 * Khmer: {{t-needed|km}}
 * Korean: {{t+|ko|먹이다}}
@@ -136,7 +136,7 @@ From {{inh|en|enm|feede}}, from {{inh|en|ang|fēdan||to feed}}, from {{inh|en|ge
 * Bulgarian: {{t+|bg|ям|impf}}
 * Czech: {{t|cs|živit se}}
 * Danish: {{t|da|leve af}}
-* Dutch: zich [[voeden]] met
+* Dutch: {{t|nl|voeden|alt=zich voeden met}}
 * Finnish: {{t+|fi|syödä}}, {{t|fi|[[käyttää]] [[ravinto]]naan}}
 * French: {{t+|fr|nourrir|alt=se nourrir}}, {{t+|fr|alimenter|alt=s'alimenter}}
 * German: {{t+|de|fressen}}
@@ -221,6 +221,7 @@ From {{inh|en|enm|feede}}, from {{inh|en|ang|fēdan||to feed}}, from {{inh|en|ge
 
 {{trans-top|something supplied continuously; as, a satellite feed}}
 * Bulgarian: {{t|bg|захранване|n|sc=Cyrl}}
+* Danish: {{t-check|da|forsyning}}
 * Dutch: {{t+|nl|aanvoer|m}}
 * Finnish: {{t+|fi|syöte}}
 * French: {{t+|fr|flux|m}}
@@ -233,6 +234,7 @@ From {{inh|en|enm|feede}}, from {{inh|en|ang|fēdan||to feed}}, from {{inh|en|ge
 
 {{trans-top|a gathering to eat, especially in quantity}}
 * Bulgarian: {{t+|bg|хранене|n|sc=Cyrl}}
+* Danish: {{t|da|gilde}} 
 * Dutch: {{t+|nl|festijn|n}}
 * Finnish: {{t+|fi|ateria}}
 {{trans-mid}}
@@ -260,11 +262,6 @@ From {{inh|en|enm|feede}}, from {{inh|en|ang|fēdan||to feed}}, from {{inh|en|ge
 * Russian: {{t|ru|новостна́я ле́нта|f}}, {{t|ru|ле́нта новосте́й|f}}, {{t+|ru|фид|m}} {{qualifier|colloquial}}
 * Serbo-Croatian: {{t|sh|sažetak sadržaja|m}}, {{t+|sh|kanal|m}}, {{t+|sh|izvor|m}}
 * Spanish: {{t+|es|feed|m}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* {{ttbc|da}}: {{t|da|forsyning}} (2); {{t|da|gilde}} (3)
-{{trans-mid}}
 {{trans-bottom}}
 
 ====Derived terms====
