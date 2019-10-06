@@ -100,9 +100,9 @@ From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēr}}, {{m|ang|ġ�
 =====Related terms=====
 {{rel4|en|{{l|en|in the year of our Lord}}, {{l|en|in the year of our Lord Jesus Christ}}, {{l|en|on in years}}, {{l|en|the year dot}}, {{l|en|year by year}}
 |{{sense|smaller divisions}} ''see'' '''[[month#Related terms|month]]''', '''[[week#Related terms|week]]''', '''[[day#Related terms|day]]''', etc.
-|{{sense|¼-year}} {{l|en|quarter}}, {{l|en|quarterly}}, {{l|en|season}}, {{l|en|seasonal}}
-|{{sense|⅓-year}} {{l|en|triannual}}
-|{{sense|½-year}} {{l|en|biannual}}, {{l|en|semiannual}}, {{l|en|twice-yearly}}
+|{{sense|{{frac|4}}-year}} {{l|en|quarter}}, {{l|en|quarterly}}, {{l|en|season}}, {{l|en|seasonal}}
+|{{sense|{{frac|3}}-year}} {{l|en|triannual}}
+|{{sense|{{frac|2}}-year}} {{l|en|biannual}}, {{l|en|semiannual}}, {{l|en|twice-yearly}}
 |{{sense|roughly one year}} {{l|en|quasi-annual}}
 |{{sense|adj.}} {{l|en|yearly}}, {{l|en|annual}}, {{l|en|per annum}}
 |{{sense|2-year}} {{l|en|biennium}}, {{l|en|biennial}}
@@ -133,7 +133,7 @@ From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēr}}, {{m|ang|ġ�
 * Albanian: {{t+|sq|vit|m}}
 * Amharic: {{t|am|አመት|f|sc=Ethi}}
 * Antillean Creole: {{t|gcf|lanné}}
-* Arabic: {{t|ar|عَام}} (plural: {{t|ar|أَعْوَام|p}}), {{t+|ar|سَنَة|f}} (plural: {{lang|und|sc=Arab|[[سنوات|سَنَوات]]}} (sanawāt) {{g|p}})
+* Arabic: {{t|ar|عَام}} (plural: {{t|ar|أَعْوَام|p}}), {{t+|ar|سَنَة|f}} (plural: {{t|ar|سَنَوَات|p}})
 *: Egyptian Arabic: {{t|arz|سنة|f|tr=sana|sc=Arab}}
 * Aragonese: {{t+|an|año}}
 * Aramaic:
@@ -149,7 +149,7 @@ From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēr}}, {{m|ang|ġ�
 * Baluchi: {{t|bal|سال|tr=sál}}
 * Bashkir: {{t|ba|йыл}}
 * Basque: {{t+|eu|urte}}
-* Belarusian: {{t+|be|год|m}}, {{t|be|лет}} {gen. pl.}
+* Belarusian: {{t+|be|год|m}}, {{t|be|лет}} {{q|genitive plural}}
 * Bengali: {{t|bn|বছর|sc=Beng}}
 * Bole: {{t|bol|soni}}
 * Breton: {{t+|br|bloaz|m}}, {{t+|br|bloavezh|m}}
@@ -181,7 +181,7 @@ From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēr}}, {{m|ang|ġ�
 * Erzya: {{t|myv|ие}}
 * Esperanto: {{t+|eo|jaro}}
 * Estonian: {{t+|et|aasta}}
-* Etruscan: {{t|ett|𐌀𐌅𐌉𐌋|tr=avil|sc=Ital}}
+* Etruscan: {{t|ett|𐌀𐌅𐌉𐌋}}
 * Ewe: {{t|ee|eƒe}}
 * Extremaduran: {{t|ext|añu}}
 * Faroese: {{t|fo|ár|n}}
@@ -219,7 +219,7 @@ From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēr}}, {{m|ang|ġ�
 * Isthmus Zapotec: {{t|zai|iza}}
 * Istro-Romanian: {{t|ruo|ån}}
 * Italian: {{t+|it|anno|m}}
-* Japanese: {{t+|ja|年|tr=[[ねん]], nen; [[とし]], toshí}}
+* Japanese: {{t+|ja|年|tr=[[ねん]], nen; [[とし]], toshi}}
 * Javanese: {{t+|jv|taun}}
 * Kalmyk: {{t|xal|җил}}
 * Karakhanid: {{t|xqa|يِلْ|tr=yïl}}
@@ -258,7 +258,7 @@ From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēr}}, {{m|ang|ġ�
 * Manchu: {{t|mnc|ᠠᠨᡳᠶᠠ|tr=aniya}}
 * Manx: {{t|gv|blein|f}}
 * Maori: {{t+|mi|tau}}
-* Marathi: {{t|mr|वर्ष|tr=varṣa|sc=Deva}}
+* Marathi: {{t|mr|वर्ष}}
 * Megleno-Romanian: {{t|ruq|an}}
 * Mongolian: {{t+|mn|жил}}
 * Mwani: {{t|wmw|mwaka}}
@@ -341,7 +341,7 @@ From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēr}}, {{m|ang|ġ�
 * Udi: {{t|udi|усен|sc=Cyrl}}
 * Udmurt: {{t|udm|ар}}
 * Ugaritic: {{t|uga|𐎌𐎐𐎚|tr=šnt|sc=Ugar}}
-* Ukrainian: {{t+|uk|рік|m|tr=rik}}
+* Ukrainian: {{t+|uk|рік|m}}
 * Upper Sorbian: {{t+|hsb|lěto|n}}
 * Urdu: {{t|ur|سال|m|tr=sāl}}, {{t|ur|ورش|tr=varṣ}}
 * Uyghur:
@@ -379,7 +379,7 @@ From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēr}}, {{m|ang|ġ�
 * Galician: {{t+|gl|ano|m}}
 * German: {{t+|de|Jahr|n}}
 * Greek: {{t+|el|χρόνος|m}}, {{t+|el|έτος|n}}
-* Hungarian: {{qualifier|before the word "év" there is the name of the body which circles the other and is connected to "év" with a hyphen if it's a proper noun}} {{t+|hu|év}}
+* Hungarian: {{t+|hu|év}}
 * Italian: {{t+|it|anno|m}}
 {{trans-mid}}
 * Kurdish:
@@ -494,19 +494,19 @@ From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēr}}, {{m|ang|ġ�
 * Kurdish:
 *: Sorani: {{t|ckb|ساڵ}}, {{t|ckb|پۆل}}
 {{trans-mid}}
-* Macedonian: {{t|mk|година|f}}, {{t|mk|одделение|n}} ''(only primary educ.)''
+* Macedonian: {{t|mk|година|f}}, {{t|mk|одделение|n}} {{q|primary education}}
 * Malay: {{t+|ms|tahun}}
 * Maltese: {{t+|mt|sena}}
 * Norman: {{t|nrf|année|f}}
 * Portuguese: {{t+|pt|série|f}}
-* Russian: {{t+|ru|класс|m}} ''at school'', {{t+|ru|курс|m}} ''at college or university''
+* Russian: {{t+|ru|класс|m}} {{q|school}}, {{t+|ru|курс|m}} {{q|college or university}}
 * Semai: {{t|sea|tahut}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|разред|m}}, {{t|sh|година|f}}
 *: Roman: {{t+|sh|razred|m}}, {{t+|sh|godina|f}}
 * Spanish: {{t+|es|año|m}}, {{t+|es|grado|m}}
 * Thai: {{t+|th|ปี}}
-* Ukrainian: {{t|uk|клас|m}} ''at school'', {{t|uk|курс|m}} ''at college or university''
+* Ukrainian: {{t|uk|клас|m}} {{q|school}}, {{t|uk|курс|m}} {{q|college or university}}
 {{trans-bottom}}
 
 {{checktrans-top}}
