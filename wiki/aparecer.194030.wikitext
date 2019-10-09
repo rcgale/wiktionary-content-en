@@ -52,26 +52,35 @@ From {{inh|pt|roa-opt|aparecer}}, from {{inh|pt|LL.|appārēscere}}, present act
 ===Etymology===
 From {{inh|es|LL.|appārēscere}}, present active infinitive of {{m|la|appārēscō||begin to appear}}, from {{inh|es|la|appareō}}.
 
+===Pronunciation===
+* {{es-IPA}}
+
 ===Verb===
 {{es-verb|aparec|er|pres=aparezco}}
 
 # {{lb|es|intransitive|reflexive}} to [[appear]]; to [[turn up]]
-#: '''''apareció''' de la nada''
-#:: ''it '''came out''' of nowhere''
+#: {{syn|es|surgir}}
+#: {{ant|es|desaparecer}}
+#: {{uxi|es|'''apareció''' de la nada|it '''came out''' of nowhere}}
 
 ====Conjugation====
 {{es-conj-er|apare|p=c-zc|combined=1}}
 
+====Derived terms====
+{{der3|es
+|aparecimiento
+|desaparecer
+|reaparecer}}
+
 ====Related terms====
-* {{l|es|aparente}}
-* {{l|es|aparentemente}}
-* {{l|es|desaparecer}}
-* {{l|es|parecer}}
-* {{l|es|reaparecer}}
-* {{l|es|aparecimiento}}
-* {{l|es|aparencial}}
-* {{l|es|aparentador}}
-* {{l|es|aparentar}}
-* {{l|es|aparición}}
-* {{l|es|apariencia}}
-* {{l|es|comparecer}}
+{{rel3|es
+|aparente
+|parecer
+|aparencial
+|aparentar
+|aparición
+|apariencia
+|comparecer}}
+
+===Further reading===
+* {{R:DRAE}}
