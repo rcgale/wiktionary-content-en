@@ -40,7 +40,7 @@ Borrowed from {{bor|en|es|salsa||sauce}}, from {{der|en|la|salsus||salted}}, whe
 {{trans-top|style of music}}
 * Finnish: {{t+|fi|salsa}}
 * French: {{t+|fr|salsa|f}}
-* Marathi: {{t|mr|साल्सा|n|tr=sālsā|sc=Deva}}
+* Marathi: {{t|mr|साल्सा|n|tr=sālsā}}
 * Polish: {{t+|pl|salsa|f}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|salsa|f}}
@@ -52,16 +52,16 @@ Borrowed from {{bor|en|es|salsa||sauce}}, from {{der|en|la|salsus||salted}}, whe
 * Czech: {{t|cs|salsa|f}}
 * Finnish: {{t+|fi|salsa}}
 * French: {{t+|fr|salsa|f}}
-* Hebrew: {{t+|he|סלסה|sc=Hebr}}
+* Hebrew: {{t+|he|סלסה}}
 {{trans-mid}}
-* Marathi: {{t|mr|साल्सा|m|tr=sālsā|sc=Deva}}
+* Marathi: {{t|mr|साल्सा|m|tr=sālsā}}
 * Polish: {{t+|pl|salsa|f}}
 * Russian: {{t+|ru|са́льса|f}}
 * Swedish: {{t+|sv|salsa|c}}
 {{trans-bottom}}
 
 ====References====
-2001. ''The Garland Encyclopedia of World Music: North America''. Garland Publishing. Ellen Koskoff (Ed.). Pg. 336.
+* 2001. ''The Garland Encyclopedia of World Music: North America''. Garland Publishing. Ellen Koskoff (Ed.). Pg. 336.
 
 ===Verb===
 {{en-verb}}
@@ -80,6 +80,9 @@ Borrowed from {{bor|en|es|salsa||sauce}}, from {{der|en|la|salsus||salted}}, whe
 ===Etymology===
 From {{inh|ca|pro|-}}, from {{inh|ca|VL.|*salsa}}, noun use of the feminine of {{inh|ca|la|salsus||salted}}, from {{m|la|saliō}}, from {{m|la|sal}}.
 
+===Pronunciation===
+* {{ca-IPA}}
+
 ===Noun===
 {{ca-noun|f}}
 
@@ -87,12 +90,18 @@ From {{inh|ca|pro|-}}, from {{inh|ca|VL.|*salsa}}, noun use of the feminine of {
 # {{l|en|salsa}} {{gloss|music}}
 # {{l|en|salsa}} {{gloss|dance}}
 
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
+
 ----
 
 ==Cebuano==
 
 ===Etymology===
-From {{der|ceb|en|salsa}}. {{doublet|ceb|sarsa}}.
+From {{bor|ceb|en|salsa}}. {{doublet|ceb|sarsa}}.
 
 ===Pronunciation===
 * {{hyph|ceb|sal|sa}}
@@ -187,6 +196,9 @@ Borrowed from {{bor|nl|es|salsa}}, from {{der|nl|la|salsus}}.
 ===Etymology===
 From {{inh|it|VL.|*salsa}}, noun use of the feminine of {{inh|it|la|salsus||salted}}, from {{m|la|saliō}}, from {{m|la|sal}}.
 
+===Pronunciation===
+* {{it-IPA}}
+
 ===Noun===
 {{it-noun|f}}
 
@@ -246,32 +258,30 @@ From {{inh|pt|la|[[salsa]] [[herba]]||salted herb}}.
 * {{l|pt|perrexil}}, {{l|pt|salsinha}}
 
 =====Derived terms=====
-{{rel-top}}
-* {{l|pt|salsa-americana}}
-* {{l|pt|salsa-ardente}}
-* {{l|pt|salsa-branca}}
-* {{l|pt|salsa-brava}}
-* {{l|pt|salsa-crespa}}
-* {{l|pt|salsa-da-praia}}
-* {{l|pt|salsa-de-água}}
-* {{l|pt|salsa-de-burro}}
-* {{l|pt|salsa-de-castanheiro}}
-* {{l|pt|salsa-de-cavalos}}
-* {{l|pt|salsa-de-cheiro}}
-* {{l|pt|salsa-de-cupim}}
-{{rel-mid}}
-* {{l|pt|salsa-do-brejo}}
-* {{l|pt|salsa-do-campo}}
-* {{l|pt|salsa-do-mato}}
-* {{l|pt|salsa-do-monte}}
-* {{l|pt|salsa-do-rio-grande-do-sul}}
-* {{l|pt|salsa-do-rio-novo}}
-* {{l|pt|salsa-dos-cavalos}}
-* {{l|pt|salsa-dos-pântanos}}
-* {{l|pt|salsa-gorda}}
-* {{l|pt|salsa-leitosa}}
-* {{l|pt|salsa-moura}}
-{{rel-bottom}}
+{{der3|pt
+|salsa-americana
+|salsa-ardente
+|salsa-branca
+|salsa-brava
+|salsa-crespa
+|salsa-da-praia
+|salsa-de-água
+|salsa-de-burro
+|salsa-de-castanheiro
+|salsa-de-cavalos
+|salsa-de-cheiro
+|salsa-de-cupim
+|salsa-do-brejo
+|salsa-do-campo
+|salsa-do-mato
+|salsa-do-monte
+|salsa-do-rio-grande-do-sul
+|salsa-do-rio-novo
+|salsa-dos-cavalos
+|salsa-dos-pântanos
+|salsa-gorda
+|salsa-leitosa
+|salsa-moura}}
 
 ===Etymology 2===
 Borrowed from {{bor|pt|es|salsa}}.
@@ -303,46 +313,52 @@ From {{inh|es|VL.|*salsa}}, noun use of the feminine of {{inh|es|la|salsus||salt
 # {{l|en|salsa}} {{gloss|dance performed to salsa music}}
 
 ====Derived terms====
-* {{l|es|en su salsa}}-{{l|es|en su propia salsa}}
-* {{l|es|salsa alfredo}}
-* {{l|es|salsa balandra}}
-* {{l|es|salsa bearnesa}}
-* {{l|es|salsa blanca}}
-* {{l|es|salsa bordelesa}}
-* {{l|es|salsa brava}}
-* {{l|es|salsa cazadora}}
-* {{l|es|salsa criolla}}
-* {{l|es|salsa de menta}}
-* {{l|es|salsa de tomate}}
-* {{l|es|salsa española}}
-* {{l|es|salsa holandesa}}
-* {{l|es|salsa marinara}}
-* {{l|es|salsa mayordoma}}
-* {{l|es|salsa mil islas}}
-* {{l|es|salsa ravigote}}
-* {{l|es|salsa rosa}}
-* {{l|es|salsa rubia}}
-* {{l|es|salsa siciliana}}
-* {{l|es|salsa suprema}}
-* {{l|es|salsa tártara}}
-* {{l|es|salsa verde}}
-* {{l|es|salsa vinagreta}}
-* {{l|es|salsear}}
-* {{l|es|salsera}}
-* {{l|es|salsereta}}
-* {{l|es|salserilla}}
-* {{l|es|salsero}}
-* {{l|es|salserón}}
-* {{l|es|salseruela}}
-* {{l|es|vale más la salsa que los perdigones}}
+{{der3|es
+|{{l|es|en su salsa}}, {{l|es|en su propia salsa}}
+|salsa alfredo
+|salsa balandra
+|salsa bearnesa
+|salsa blanca
+|salsa bordelesa
+|salsa brava
+|salsa cazadora
+|salsa criolla
+|salsa de menta
+|salsa de tomate
+|salsa española
+|salsa holandesa
+|salsa marinara
+|salsa mayordoma
+|salsa mil islas
+|salsa ravigote
+|salsa rosa
+|salsa rubia
+|salsa siciliana
+|salsa suprema
+|salsa tártara
+|salsa verde
+|salsa vinagreta
+|salsear
+|salsera
+|salsereta
+|salserilla
+|salsero
+|salserón
+|salseruela
+|vale más la salsa que los perdigones}}
 
 ====Related terms====
 * {{l|es|sal}}
 * {{l|es|salar}}
 * {{l|es|salso}}
 
+====Descendants====
+* {{desc|ceb|salsa|bor=1}}
+* {{desc|nl|salsa|bor=1}}
+* {{desc|en|salsa|bor=1}}
+
 ====Further reading====
-* {{R:DRAE 2001}}
+* {{R:DRAE}}
 
 [[Category:Spanish 2-syllable words]]
 [[Category:es:Sauces]]
