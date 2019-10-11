@@ -20,66 +20,66 @@ From {{der|en|fr|sémantique}}, displacing earlier {{m|en|semasiology}}. From {{
 #: {{ux|en|The '''semantics''' of the terms used are debatable.}}
 #: {{ux|en|The '''semantics''' of a single preposition is a dissertation in itself.}}
 # {{lb|en|computer science}} The meaning of computer language constructs, in contrast to their form or [[syntax]].
-#: ''file sharing and locking '''semantics'''''
+#: {{ux|en|file sharing and locking '''semantics'''}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|algebraic semantics}}
-* {{l|en|axiomatic semantics}}
-* {{l|en|computational semantics}}
-* {{l|en|denotational semantics}}
-* {{l|en|formal semantics}}
-{{der-mid}}
-* {{l|en|lexical semantics}}
-* {{l|en|mathematical semantics}}
-* {{l|en|operational semantics}}
-* {{l|en|statistical semantics}}
-{{der-bottom}}
+{{der3|en
+|algebraic semantics
+|axiomatic semantics
+|computational semantics
+|denotational semantics
+|formal semantics
+|lexical semantics
+|mathematical semantics
+|operational semantics
+|statistical semantics
+}}
 
 ====Related terms====
-{{rel-top}}
-* {{l|en|semantic}}
-* {{l|en|semasiology}}
-* {{l|en|sematic}}
-* {{l|en|sematology}}
-{{rel-mid}}
-* {{l|en|seme}}
-* {{l|en|sememe}}
-* {{l|en|semiotic}}
-* {{l|en|semiotics}}
-{{rel-bottom}}
+{{rel4|en
+|semantic
+|semasiology
+|sematic
+|sematology
+|seme
+|sememe
+|semiotic
+|semiotics
+}}
 
 ====Translations====
 {{trans-top|science of the meaning of words}}
 * Afrikaans: {{t|af|semantiek}}
 * Albanian: {{t+|sq|semantikë|f}}
 * Arabic: {{t|ar|عِلْم اَلْمَعَانِي|m}}
-* Armenian: {{t+|hy|իմաստաբանություն|sc=Armn}}
+* Armenian: {{t+|hy|իմաստաբանություն}}
 * Catalan: {{t+|ca|semàntica|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|語義學|sc=Hani}}, {{t+|cmn|语义学|tr=yǔyìxué|sc=Hani}}
+*: Mandarin: {{t+|cmn|語義學}}, {{t+|cmn|语义学|tr=yǔyìxué}}
 * Czech: {{t+|cs|sémantika|f}}
 * Danish: {{t+|da|semantik|c}}
 * Dutch: {{t+|nl|semantiek|f}}
 * Finnish: {{t+|fi|semantiikka}}, {{t+|fi|merkitysoppi}}
 * French: {{t+|fr|sémantique|f}}
-* Georgian: {{t|ka|სემანტიკა|sc=Geor}}
+* Georgian: {{t|ka|სემანტიკა}}
 * German: {{t+|de|Bedeutungslehre}}, {{t+|de|Semantik|f}}
 * Hungarian: {{t+|hu|szemantika}}
 * Indonesian: {{t+|id|semantik}}
-* Japanese: {{t|ja|意味論|tr=いみろん, imiron|sc=Jpan}}
-* Khmer: {{t|km|និឃណ្ដសាស្ត្រ|sc=Khmr|tr=ni’kʰoanda’sah}}
-{{trans-mid}}
+* Japanese: {{t|ja|意味論|tr=いみろん, imiron}}
+* Khmer: {{t|km|និឃណ្ដសាស្ត្រ|tr=ni’kʰoanda’sah}}
 * Korean: {{t+|ko|의미론}} ({{t+|ko|意味論}})
+{{trans-mid}}
 * Kurdish:
 *: Kurmanji: {{t+|kmr|watenasî|f}}
 * Norwegian: {{t+|no|semantikk|m}}
-* Persian: {{t|fa|علم معانی|tr='elm ma'âni|sc=fa-Arab}}, {{t|fa|معنی‌شناسی|tr=ma'ni-šenâsi|sc=fa-Arab}}
+* Persian: {{t|fa|علم معانی|tr='elm ma'âni}}, {{t|fa|معنی‌شناسی|tr=ma'ni-šenâsi}}
 * Polish: {{t+|pl|semantyka|f}}
-* Portuguese: {{t+|pt|semântica}}
+* Portuguese: {{t+|pt|semântica|f}}
 * Romanian: {{t+|ro|semantică|f}}
 * Russian: {{t+|ru|сема́нтика|f}}
-* Serbo-Croatian: {{t|sh|семантика|f}}, {{t+|sh|semantika|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|сема̀нтика|f}}
+*: Roman: {{t+|sh|semàntika|f}}
 * Slovene: {{t+|sl|pomenoslovje|n}}
 * Spanish: {{t+|es|semántica|f}}
 * Swahili: {{t|sw|semantiki}}
@@ -93,12 +93,14 @@ From {{der|en|fr|sémantique}}, displacing earlier {{m|en|semasiology}}. From {{
 {{trans-top|study of the relationship between words and their meanings}}
 * Danish: {{t+|da|semantik|c}}, {{t|da|betydningslære|c}}
 * Finnish: {{t+|fi|semantiikka}}, {{t+|fi|merkitysoppi}}
-* Khmer: {{t|km|និឃណ្ដសាស្ត្រ|sc=Khmr|tr=ni’kʰoanda’sah}}
+* Khmer: {{t|km|និឃណ្ដសាស្ត្រ|tr=ni’kʰoanda’sah}}
 * Norwegian: {{t+|no|semantikk|m}}
 * Portuguese: {{t+|pt|semântica|f}}
-{{trans-mid}}
 * Russian: {{t+|ru|сема́нтика|f}}
-* Serbo-Croatian: {{t|sh|семантика|f}}, {{t+|sh|semantika|f}}
+{{trans-mid}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|сема̀нтика|f}}
+*: Roman: {{t+|sh|semàntika|f}}
 * Swahili: {{t|sw|semantiki}}
 * Walloon: {{t+|wa|semantike|f}}
 {{trans-bottom}}
@@ -108,16 +110,18 @@ From {{der|en|fr|sémantique}}, displacing earlier {{m|en|semasiology}}. From {{
 * Finnish: {{t+|fi|semantiikka}}, {{t+|fi|merkitys}}, {{t|fi|merkityssisältö}}
 * Norwegian: {{t+|no|semantikk|m}}
 * Portuguese: {{t+|pt|semântica|f}}
-{{trans-mid}}
 * Russian: {{t+|ru|сема́нтика|f}}
-* Serbo-Croatian: {{t|sh|семантика|f}}, {{t+|sh|semantika|f}}
+{{trans-mid}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|сема̀нтика|f}}
+*: Roman: {{t+|sh|semàntika|f}}
 * Turkish: {{t+|tr|anlam}}
 * Walloon: {{t+|wa|semantike|f}}, {{t|wa|sinifiance|f}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 * Dutch: {{t+check|nl|semantiek|f}}
-* Hebrew: {{t-check|he|דקדוק}}
+* Hebrew: {{t-check|he|דִּקְדּוּק|m|tr=dikdúk}}
 * Interlingua: {{t-check|ia|semantica}}
 * Italian: {{t+check|it|semantica|f}}
 {{trans-mid}}
