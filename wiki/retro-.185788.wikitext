@@ -11,42 +11,27 @@ See {{m|en|retro}}.
 # [[behind|Behind]].
 # In the [[opposite]] [[direction]].
 # Pertaining to an earlier time.
-#: '''''retro'''active''
+#: {{ux|en|'''retro'''active}}
 # {{lb|en|informal}} [[old-fashioned|Old-fashioned]] or [[old school]].
 
 ====Derived terms====
 {{prefixsee|en}}
-{{der-top4}}
-* {{l|en|retroaction}}
-* {{l|en|retroactive}}
-* {{l|en|retrocede}}
-* {{l|en|retrofire}}
-* {{l|en|retrofit}}
-* {{l|en|retroflex}}
-* {{l|en|retrogamer}}, {{l|en|retrogaming}}
-{{der-mid4}}
-* {{l|en|retrograde}}
-* {{l|en|retrograde ejaculation}}
-* {{l|en|retrogress}}
-* {{l|en|retrogression}}
-* {{l|en|retrolental}}
-* {{l|en|retronym}}
-{{der-mid4}}
-* {{l|en|retroocular}}
-* {{l|en|retroperitoneal}}
-* {{l|en|retropharyngeal}}
-* {{l|en|retrorocket}}
-* {{l|en|retrorse}}
-* {{l|en|retrospect}}
-{{der-mid4}}
-* {{l|en|retrospective}}
-* {{l|en|retrotransposon}}
-* {{l|en|retroussé}}
-* {{l|en|retroversion}}
-* {{l|en|retro-Victorian}} <!--a type of novel/fiction-->
-* {{l|en|retrovirus}}
-* {{l|en|retrovisceral}}
-{{der-bottom}}
+{{der4|en
+|{{l|en|retroactive}}
+|{{l|en|retroflex}}
+|{{l|en|retrograde}}
+|{{l|en|retrograde ejaculation}}
+|{{l|en|retrogress}}
+|{{l|en|retrogression}}
+|{{l|en|retrorse}}
+|{{l|en|retrospect}}
+|{{l|en|retrospective}}
+|{{l|en|retroussé}}
+|{{l|en|retroversion}}
+|{{l|en|retroverted}}
+|{{l|en|retro-Victorian}} <!--a type of novel/fiction-->
+|{{l|en|retrovisceral}}
+}}
 
 ====Translations====
 {{trans-top|back or backward}}
@@ -70,18 +55,23 @@ See {{m|en|retro}}.
 ===Etymology===
 Borrowed from {{bor|eo|io|retro-}}.
 
+===Pronunciation===
+* {{IPA|eo|/ˈretro/}}
+
 ===Prefix===
 {{head|eo|prefix}}
 
 # {{l|en|retro-}}
 
 ====Derived terms====
-* {{l|eo|retroagi}}
-* {{l|eo|retroaktiva}}
-* {{l|eo|retroefiki}}
-* {{l|eo|retroiri}}
-* {{l|eo|retropagi}}
-* {{l|eo|retropaŝi}}
+{{prefixsee|eo}}
+{{der3|eo
+|{{l|eo|retroagi}}
+|{{l|eo|retroaktiva}}
+|{{l|eo|retroefiki}}
+|{{l|eo|retropagi}}
+|{{l|eo|retropaŝi}}
+}}
 
 ----
 
@@ -106,27 +96,27 @@ From {{der|gl|la|retrō}}.
 ==Ido==
 
 ===Etymology===
-Borrowed from {{bor|io|en|retro-}} and {{bor|io|it|retro-}}.
+{{io-bor|retro-|||retro-}}
 
 ===Pronunciation===
-* {{IPA|/ˈre.tro/|lang=io}}
+{{io-IPA}}
 
 ===Prefix===
 {{head|io|prefix}}
 
 # {{non-gloss definition|prefix used with a verbal root to indicate: back, backwards, inverse action, return: retro-, re-}}
 #: {{suffixusex|io|jetar|t1=to throw|retrojetar|t2=to throw back}}
-
-====Antonyms====
-* {{l|io|avan-}}
+#: {{ant|io|avan-}}
 
 ====Derived terms====
-* {{l|io|retro||backwards}} {{qualifier|preposition}}
-* {{l|io|retroe||backwards}} {{qualifier|adverb}}
 {{prefixsee|io}}
+{{der2|io
+|{{l|io|retro|t=backwards|pos=preposition}}
+|{{l|io|retroe|t=backwards|pos=adv}}
+}}
 
 ====Descendants====
-* [[Esperanto]] {{m|eo|retro-}}
+* {{desc|eo|retro-|bor=1}}
 
 ----
 
@@ -164,6 +154,9 @@ From {{der|pt|la|retrō}}.
 
 ===Etymology===
 From {{der|es|la|retrō}}.
+
+===Pronunciation===
+* {{es-IPA}}
 
 ===Prefix===
 {{es-prefix}}
