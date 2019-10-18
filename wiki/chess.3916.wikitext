@@ -28,7 +28,7 @@ From {{inh|en|enm|ches}}, {{m|enm|chesse}}, from {{der|en|fro|eschés}}, plural 
 * Arabic: {{t+|ar|شَطْرَنْج|m}}, {{t+|ar|شِطْرَنْج|m}}
 * Aragonese: {{t|an|axedrez|m}}
 * Aramaic: {{t|arc|ܛܠܦܣܢܐ|sc=Syrc}}, {{t|arc|ܫܛܪܢܓ|sc=Syrc}}
-* Armenian: {{t+|hy|շախմատ}}, {{qualifier|rare}} {{t+|hy|ճատրակ}}
+* Armenian: {{t+|hy|շախմատ}}, {{t+|hy|ճատրակ}} {{q|rare}}
 * Assamese: {{t|as|দবাখেল}}
 * Asturian: {{t|ast|axedrez|m}}
 * Azerbaijani: {{t+|az|şahmat}}
@@ -70,7 +70,7 @@ From {{inh|en|enm|ches}}, {{m|enm|chesse}}, from {{der|en|fro|eschés}}, plural 
 * Hindi: {{t+|hi|शतरंज|f}}, {{t|hi|चैस}}, {{t+|hi|शतरञ्ज|m}}, {{t+|hi|बुद्धिद्यूत|m}}, {{t+|hi|सतरंज|m}}, {{t+|hi|सतरञ्ज|m}}, {{t+|hi|सँतरँज|m}}, {{t+|hi|चेस|m}}, {{t+|hi|चतुरंग|m}}, {{t+|hi|चतुरङ्ग|m}}, {{t+|hi|चतरङ्ग|m}}
 * Hungarian: {{t+|hu|sakk}}
 * Hunsrik: {{t|hrx|Schach|n}}
-* Icelandic: {{t+|is|skák|n}}, {{t|is|skáktafl|n}}, {{t+|is|tafl|n}}
+* Icelandic: {{t+|is|skák|f}}, {{t|is|skáktafl|n}}, {{t+|is|tafl|n}}
 * Ido: {{t+|io|shakoludo}}
 * Ilocano: {{t|ilo|ahedrés}}
 * Indonesian: {{t+|id|catur}}
@@ -113,8 +113,11 @@ From {{inh|en|enm|ches}}, {{m|enm|chesse}}, from {{der|en|fro|eschés}}, plural 
 * Navajo: {{t|nv|siláo ałchʼįʼ naanil}}
 * Nepali: {{t+|ne|बुद्धिचाल|sc=Deva}}
 * Nganasan: {{t|nio|катариаи’’|tr=katariai'}}
-* Norwegian: {{t+|no|sjakk|m}}
+* Norwegian: 
+*: Bokmål: {{t+|nb|sjakk|m}}
+*: Nynorsk: {{t+|nn|sjakk|m}}
 * Occitan: {{t+|oc|escacs|m-p}}
+* Old Norse: {{t|non|skák|f}},
 * Oriya: {{t+|or|ସତରଞ୍ଜ}}
 * Ossetian: {{t|os|шахмӕттӕ|sc=Cyrl}}, {{t|os|къентӕ}} {{qualifier|Digor}}
 * Pali: {{t|pi|caturaṅga}}
@@ -129,8 +132,8 @@ From {{inh|en|enm|ches}}, {{m|enm|chesse}}, from {{der|en|fro|eschés}}, plural 
 * Sanskrit: {{t+|sa|चतुरङ्ग|m}}
 * Scottish Gaelic: {{t|gd|tàileasg|m}}, {{t|gd|fidhcheall|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|шах|m}}, {{t|sh|сантрач|m}} {{qualifier|poetic}}
-*: Roman: {{t+|sh|šah|m}}, {{t+|sh|santrač|m}} {{qualifier|poetic}}
+*: Cyrillic: {{t|sh|шах|m}}, {{t|sh|сантрач|m}} {{q|poetic}}
+*: Roman: {{t+|sh|šah|m}}, {{t+|sh|santrač|m}} {{q|poetic}}
 * Sicilian: {{t|scn|scacchi}}
 * Sinhalese: {{t|si|පාද ක්‍රීඩාව}}
 * Slovak: {{t|sk|šach|m}}, {{t|sk|šachy|m-p}}
@@ -166,7 +169,7 @@ From {{inh|en|enm|ches}}, {{m|enm|chesse}}, from {{der|en|fro|eschés}}, plural 
 * Zulu: {{t|zu|ishesi|c5}}
 {{trans-bottom}}
 
-=====See also=====
+====See also====
 {{table:chess pieces/en}}
 * {{l|en|Appendix:Glossary of chess}}
 * {{l|en|checkers}}
