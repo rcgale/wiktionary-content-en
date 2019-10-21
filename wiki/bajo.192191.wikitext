@@ -30,10 +30,10 @@
 * {{audio|es|Es-am-lat-bajo.ogg|Audio (Latin America)}}
 
 ===Etymology 1===
-From {{etyl|LL.|es}} {{m|la|bassus}}. Cognate with {{cog|en|base}} and {{m|en|bass}}.
+From {{inh|es|LL.|bassus}}. Cognate with {{cog|en|base}} and {{m|en|bass}}.
 
 ====Adjective====
-{{es-adj|f=baja}} (''superlative'' '''[[bajísimo]]''')
+{{es-adj|f=baja}}
 
 # [[short]] {{gloss|of little height}}
 #: {{ant|es|alto}}
@@ -46,11 +46,13 @@ From {{etyl|LL.|es}} {{m|la|bassus}}. Cognate with {{cog|en|base}} and {{m|en|ba
 #: {{syn|es|vil}}
 
 =====Derived terms=====
-* {{l|es|altibajo}}
-* {{l|es|bajito}}
-* {{l|es|bajo cuerda}}
-* {{l|es|bajo manga}}
-* {{l|es|bajorrelieve}}
+{{der3|es
+|altibajo
+|bajísimo
+|bajito
+|bajo cuerda
+|bajo manga
+|bajorrelieve}}
 
 ====Adverb====
 {{es-adv}}
@@ -64,7 +66,7 @@ From {{etyl|LL.|es}} {{m|la|bassus}}. Cognate with {{cog|en|base}} and {{m|en|ba
 
 # {{lb|es|music}} [[bass]] {{gloss|sound, voice or instrument}}
 
-====Derived terms====
+=====Derived terms=====
 * {{l|es|bajista}}
 
 ====Preposition====
@@ -73,8 +75,11 @@ From {{etyl|LL.|es}} {{m|la|bassus}}. Cognate with {{cog|en|base}} and {{m|en|ba
 # [[under]] {{gloss|in both literal and figurative senses}}
 #: {{syn|es|[[debajo]] de}}
 
-===Related terms===
+=====Related terms=====
 {{rel3|es|baja|bajada|bajar|bajón|debajo}}
+
+=====Descendants=====
+* {{desc|ceb|baho|bor=1}}
 
 ===Etymology 2===
 {{nonlemma}}
@@ -85,7 +90,7 @@ From {{etyl|LL.|es}} {{m|la|bassus}}. Cognate with {{cog|en|base}} and {{m|en|ba
 # {{es-verb form of|ending=ar|mood=indicative|tense=present|pers=1|number=singular|bajar}}
 
 ===External links===
-* {{R:DRAE 2001}}
+* {{R:DRAE}}
 
 [[Category:Spanish 2-syllable words]]
 [[Category:Spanish basic words]]
