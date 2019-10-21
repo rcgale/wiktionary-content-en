@@ -2,7 +2,7 @@
 [[Image:Barracuda.JPG|thumb|a typical '''barracuda'''<br> ({{taxlink|Sphyraena sphyraena|species|noshow=1|ver=161111}})]]
 
 ===Etymology===
-First attested in the 1670s, from Latin American {{etyl|es|en}}, perhaps from a {{etyl|sai-car|en}} word.
+First attested in the 1670s, from Latin American {{bor|en|es|barracuda}}, perhaps from a {{der|en|sai-car|-}} word.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|en|/ˌbæɹəˈkuːdə/}}
@@ -16,17 +16,17 @@ First attested in the 1670s, from Latin American {{etyl|es|en}}, perhaps from a 
 
 ====Translations====
 {{trans-top|marine fish}}
-* Bulgarian: {{t|bg|бараку́да|f|sc=Cyrl}}
+* Bulgarian: {{t|bg|бараку́да|f}}
 * Catalan: {{t+|ca|barracuda|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|梭子魚|sc=Hani}}, {{t+|cmn|梭子鱼|tr=suōziyú|sc=Hani}}, {{t+|cmn|梭魚|sc=Hani}}, {{t+|cmn|梭鱼|tr=suōyú|sc=Hani}}
+*: Mandarin: {{t+|cmn|梭子魚}}, {{t+|cmn|梭子鱼|tr=suōziyú}}, {{t+|cmn|梭魚}}, {{t+|cmn|梭鱼|tr=suōyú}}
 * Czech: {{t|cs|barakuda|f}}
 * Dutch: {{t|nl|zeesnoek|m}}, {{t+|nl|barracuda|f}}
 * Finnish: {{t+|fi|barrakuda}}
 * Greek: {{t|el|σφύραινα|f}}, {{t|el|μπαρακούντα|n}}
 * Icelandic: {{t|is|barrakúda|f}}
 {{trans-mid}}
-* Japanese: {{t|ja|バラクーダ|tr=barakūda|sc=Jpan}}, {{t|ja|梭子魚|tr=かます, kamasu|sc=Jpan}}, {{t|ja|カマス|tr=kamasu|sc=Jpan}}
+* Japanese: {{t|ja|バラクーダ|tr=barakūda}}, {{t|ja|梭子魚|tr=かます, kamasu}}, {{t|ja|カマス|tr=kamasu}}
 * Navajo: {{t|nv|yílnoodii}}
 * Portuguese: {{t+|pt|barracuda|f}}
 * Romanian: {{t|ro|baracudă|f}}
@@ -78,19 +78,22 @@ Borrowed from {{bor|nl|en|barracuda}}. {{etystub|nl}}
 
 # [[#English|barracuda]]
 
-===Further reading===
-* {{R:TLFi}}
-
 [[Category:fr:Fish]]
 
 ----
 
 ==Italian==
 
+===Etymology===
+From {{bor|it|es|barracuda}}.
+
 ===Noun===
-{{head|it|noun|g=m|invariable}}
+{{it-noun|m|-}}
 
 # [[#English|barracuda]]
+
+===Further reading===
+* {{R:it:Treccani}}
 
 [[Category:it:Fish]]
 
@@ -98,10 +101,16 @@ Borrowed from {{bor|nl|en|barracuda}}. {{etystub|nl}}
 
 ==Portuguese==
 
+===Etymology===
+From {{bor|pt|es|barracuda}}.
+
 ===Noun===
 {{pt-noun|f}}
 
 # {{l|en|barracuda}} {{gloss|large marine fish of the genus ''{{ll|mul|Sphyraena}}''}}
+
+===Further reading===
+* {{R:Priberam}}
 
 {{topics|pt|Scombroids}}
 
@@ -111,17 +120,26 @@ Borrowed from {{bor|nl|en|barracuda}}. {{etystub|nl}}
 {{wikipedia|lang=es}}
 
 ===Pronunciation===
-* {{a|Castilian}} {{IPA|es|[ba̠.ra̠ˈku.da̠]}}
+* {{es-IPA}}
 
 ===Etymology===
-{{unk|es}}, perhaps from a {{etyl|sai-car|es}} term.
+{{unk|es}}, perhaps from a {{der|es|sai-car|-}} term.
 
 ===Noun===
 {{es-noun|f}}
 
 # {{lb|es|fish}} {{l|en|barracuda}}
+#: {{syn|es|picuda}}
 
-===Synonyms===
-* {{l|es|picuda}}
+====Descendants====
+{{top2}}
+* {{desc|ceb|barakuda|bor=1}}
+* {{desc|en|barracuda|bor=1}}
+* {{desc|it|barracuda|bor=1}}
+* {{desc|pt|barracuda|bor=1}}
+{{bottom}}
+
+===Further reading===
+* {{R:DRAE}}
 
 [[Category:es:Fish]]
