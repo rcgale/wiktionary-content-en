@@ -680,14 +680,13 @@ From {{der|ko|ltc|-}} {{ltc-l|人}}. Attested in {{w2|ko|s:훈몽자회/雜語#�
 {{ryu-kanji}}
 
 ====Readings====
+{{ryu-readings
 |on=にん
 |kun=っちゅ-, ぴとぅ-, い-, たい-
 }}
 
 ====Compounds====
-{{der-top3|Compounds}}
 * {{ryu-r|人間|にんじん}}
-{{der-bottom}}
 
 ===Etymology 1===
 {{ryu-kanjitab|っちゅ|yomi=kun}}
@@ -702,9 +701,9 @@ From {{der|ko|ltc|-}} {{ltc-l|人}}. Attested in {{w2|ko|s:훈몽자회/雜語#�
 # [[human]]
 
 =====Derived terms=====
-* {{l|ryu|八重山人|t=Yaeyamans, Yaeyama people|tr=いぇーやまんちゅ, yēyamanchu}}
-* {{l|ryu|大人|t=adult|tr=うふっちゅ, ufutchu}}
-* {{l|ryu|海人|t=fisherman, fishermen; diver|tr=うみんちゅ, uminchu, うんちゅ, unchu}}
+* {{ryu-r|八重山%ん%人|いぇーやま%ん%ちゅ}}: Yaeyamans, Yaeyama people
+* {{ryu-r|大%人|うふ%っちゅ}}: adult
+* {{ryu-r|海人|んみんちゅ}}
 
 ===Etymology 2===
 {{ryu-kanjitab|ぴとぅ|yomi=kun}}
@@ -735,15 +734,16 @@ From {{der|ko|ltc|-}} {{ltc-l|人}}. Attested in {{w2|ko|s:훈몽자회/雜語#�
 # ''[[counter]] for [[number]] of [[people]]''
 
 =====Derived terms=====
-* {{l|ryu|五人|t=five people|tr=ぐにん, gunin}}
-<!-- * {{l|ryu|八人|t=eight people|tr=はちにん, hachinin}} -->
-<!-- * {{l|ryu|九人|t=nine people|tr=くにん, kunin}} -->
-<!-- * {{l|ryu|十人|t=ten people|tr=じゅーにん, jūnin}} -->
+* {{ryu-r|五人|ぐにん}}: five people
+* {{ryu-r|八人|はちにん}}: eight people
+* {{ryu-r|九人|くにん}}: nine people
+* {{ryu-r|十人|じゅーにん}}: ten people
 
 ===Etymology 4===
+{{ryu-kanjitab|たい|yomi=kun}}
 
 ====Counter====
-{{head|ryu|counter|romaji|-i|sort=い}}
+{{ryu-pos|counter|い}}
 
 # ''[[counter]] for [[number]] of [[people]]''
 
@@ -751,20 +751,21 @@ From {{der|ko|ltc|-}} {{ltc-l|人}}. Attested in {{w2|ko|s:훈몽자회/雜語#�
 * {{l|ryu|一人}}, {{l|ryu|独い|t=alone, lone; one person|tr=ちゅい, chui}}
 
 ===Etymology 5===
+{{ryu-kanjitab|い|yomi=kun}}
 
 ====Counter====
-{{head|ryu|counter|romaji|-tai|sort=たい}}
+{{ryu-pos|counter|たい}}
 
 # ''[[counter]] for [[number]] of [[people]]''
 
 =====Derived terms=====
-* {{l|ryu|幾人|t=how many (people, persons, members)|tr=いくたい, ikutai}}
-* {{l|ryu|二人|t=two people; pair; couple; both|tr=たい, tai}}
-<!-- * {{l|ryu|四人|t=four people|tr=ゆったい, yuttai}} -->
-<!-- * {{l|ryu|五人|t=five people|tr=いとぅたい, itutai, いちたい, ichitai}} -->
-<!-- * {{l|ryu|六人|t=six people|tr=むったい, muttai}} -->
-<!-- * {{l|ryu|七人|t=seven people|tr=ななたい, nanatai}} -->
-<!-- * {{l|ryu|八人|t=eight people|tr=やったい, yattai}} -->
+* {{ryu-r|幾%人|いく%たい}}: how many (people, persons, members)
+* {{ryu-r|二人|たい}}: two people
+* {{ryu-r|四%人|ゆっ%たい}}: four people
+* {{ryu-r|五%人|いち%たい}}: five people
+* {{ryu-r|六%人|むっ%たい}}: six people
+* {{ryu-r|七%人|なな%たい}}: seven people
+* {{ryu-r|八%人|やっ%たい}}: eight people
 
 
 {{c|ryu|Hominids|People|sort=っちゅ}}
