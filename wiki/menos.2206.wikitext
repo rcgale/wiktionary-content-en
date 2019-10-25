@@ -2,24 +2,21 @@
 ==Asturian==
 
 ===Etymology===
-From {{etyl|la|ast}} {{m|la|minus}}.
+From {{der|ast|la|minus}}.
 
 ===Adverb===
 {{ast-adv}}
 
 # [[less]]
-#: ''Esti pueblu ye menos guapu que'l to.''
-#:: ''This town is less nice than that one.''
-
-====Antonyms====
-* {{l|ast|más}}
+#: {{uxi|ast|Esti pueblu ye '''menos''' guapu que'l to.|This town is '''less''' nice than that one.}}
+#: {{ant|ast|más}}
 
 ----
 
 ==Galician==
 
 ===Etymology===
-From {{etyl|la|gl}} {{m|la|minus}}, comparative of {{m|la|parum}}.
+From {{der|gl|la|minus}}, comparative of {{m|la|parum}}.
 
 ===Adverb===
 {{gl-adv}}
@@ -32,18 +29,18 @@ From {{etyl|la|gl}} {{m|la|minus}}, comparative of {{m|la|parum}}.
 
 ===Adverb===
 {{lad-adv}}
-# [[less]]
-# (often with definite article) [[least]]
 
-====Synonyms====
-* {{l|lad|manko}}
+# [[less]]
+#: {{syn|lad|manko}}
+# {{q|often with definite article}} [[least]]
+#: {{syn|lad|manko}}
 
 ----
 
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|roa-opt|pt}} {{m|roa-opt|menos}}, displacing collateral form {{m|roa-opt|mẽos}}, from {{etyl|la|pt}} {{m|la|minus}}, neuter of {{m|pt|minor||lesser; smaller}}, comparative of {{m|pt|parvus||small}}.
+From {{inh|pt|roa-opt|menos}}, displacing collateral form {{m|roa-opt|mẽos}}, from {{der|pt|la|minus}}, neuter of {{m|pt|minor|t=lesser; smaller}}, comparative of {{m|pt|parvus|t=small}}.
 
 ===Pronunciation===
 * {{a|PT}} {{IPA|pt|/ˈme.nuʃ/}}
@@ -54,43 +51,36 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|menos}}, displacing collateral form {{m|roa
 {{pt-adv|-}}
 
 # {{l|en|less}} {{gloss|in lower degree}}
-#: {{ux|pt|Aqui é '''menos''' frio.|t=Here is '''less''' cold.}}
-#: {{ux|pt|Se trabalhares '''menos''', cansarás '''menos'''.|t=If you work '''less''', you will tire '''less'''.}}
-
-====Antonyms====
-* {{l|pt|mais}}
+#: {{uxi|pt|Aqui é '''menos''' frio.|Here is '''less''' cold.}}
+#: {{uxi|pt|Se trabalhares '''menos''', cansarás '''menos'''.|If you work '''less''', you will tire '''less'''.}}
+#: {{ant|pt|mais}}
 
 ===Preposition===
 {{head|pt|preposition}}
 
 # {{l|en|except}}; {{l|en|but}}
-#: {{ux|pt|Li todos, '''menos''' o último.|t=I read all, '''except''' the last one.}}
+#: {{uxi|pt|Li todos, '''menos''' o último.|I read all, '''except''' the last one.}}
+#: {{syn|pt|exceto|fora}}
 # {{lb|pt|mathematics}} {{l|en|minus}} {{gloss|indicates subtraction}}
-#: {{ux|pt|Três '''menos''' dois é um.|t=Three '''minus''' two is one.}}
+#: {{uxi|pt|Três '''menos''' dois é um.|Three '''minus''' two is one.}}
 
-====Synonyms====
-* {{sense|except}} {{l|pt|fora}}, {{l|pt|exceto}}
 
 ===Pronoun===
 {{head|pt|pronoun|g=m|g2=f|plural|menos}}
 
 # {{l|en|fewer}} {{gloss|a smaller number of}}, {{l|en|less}} {{gloss|a smaller size or significance of}}
-#: {{ux|pt|'''Menos''' pessoas correm.|t='''Fewer''' people run.}}
-#: {{ux|pt|Atirou com '''menos''' precisão.|t=He shot with '''less''' precision.}}
+#: {{uxi|pt|'''Menos''' pessoas correm.|'''Fewer''' people run.}}
+#: {{uxi|pt|Atirou com '''menos''' precisão.|He shot with '''less''' precision.}}
+#: {{ant|pt|mais}}
 
 ====Usage notes====
-Some use the incorrect feminine plural ''{{l|pt|menas}}''.
-
-====Antonyms====
-* {{l|pt|mais}}
+Some use the incorrect feminine plural {{m|pt|menas}}.
 
 ===Noun===
 {{pt-noun|m|menos}}
 
 # {{l|en|minus sign}} {{gloss|the symbol −}}
-
-====Synonyms====
-* {{l|pt|sinal de menos}}
+#: {{syn|pt|sinal de menos}}
 
 ----
 
@@ -106,29 +96,27 @@ From {{der|es|la|minus}}, comparative of {{m|la|parum}}.
 {{es-adv}}
 
 # [[less]]
-# (often with definite article) [[least]]
+#: {{ant|es|más}}
+# {{q|often with definite article}} [[least]]
+#: {{ant|es|más}}
 
 ====Usage notes====
 * used in forming the [[comparative]] of adjectives.
 * with the [[definite article]], used in forming the [[superlative]] of adjectives.
 
-====Antonyms====
-* {{sense|less, least}} {{l|es|más}}
-
 ===Adjective===
 {{es-adj|pl=menos}}
 
 # [[less]], [[fewer]]
+#: {{ant|es|más}}
 # [[least]], [[fewest]]
-
-====Antonyms====
-* {{l|es|más}}
+#: {{ant|es|más}}
 
 ===Preposition===
 {{head|es|preposition|head=menos}}
 
 # [[minus]]
-#: {{eg|es|Dos '''menos''' uno son uno.|Two '''minus''' one is one.|inline=1}}
+#: {{uxi|es|Dos '''menos''' uno son uno.|Two '''minus''' one is one.}}
 
 ===Noun===
 {{es-noun|m|menos}}
@@ -136,18 +124,18 @@ From {{der|es|la|minus}}, comparative of {{m|la|parum}}.
 # [[minus sign]]
 
 ====Derived terms====
-{{der3|es
-|al menos
-|a menos que
+{{der4|es
+|{{l|es|al menos}}
+|{{l|es|a menos que}}
 |{{l|es|cuanto menos}}, {{l|es|cuando menos}}
-|echar de menos
-|por lo menos
-|más o menos
-|menos mal
-|menospreciar
-|quien más, quien menos
-|tener sus más y sus menos
-|un día más un día menos
+|{{l|es|echar de menos}}
+|{{l|es|por lo menos}}
+|{{l|es|más o menos}}
+|{{l|es|menos mal}}
+|{{l|es|menospreciar}}
+|{{l|es|quien más, quien menos}}
+|{{l|es|tener sus más y sus menos}}
+|{{l|es|un día más un día menos}}
 }}
 
 ===Further reading===
