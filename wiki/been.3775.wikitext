@@ -200,26 +200,26 @@ From a conflation of {{inh|enm|ang|bēon}} and {{m|ang|wesan}}, from {{inh|enm|g
 
 ====Alternative forms====
 * {{alter|enm|beon|boen|bean|ben|be}}
-* {{q|from *h₁ésti|rare}} {{alter|enm|seen|sen}}
+* {{q|from {{m|ine-pro||*h₁ésti}}|rare}} {{alter|enm|seen|sen}}
 
 ====Pronunciation====
 * {{a|Early ME}} {{IPA|enm|/bøːn/}}
 * {{IPA|enm|/beːn/}}
 
 ====Verb====
-{{head|enm|verb}}
+{{enm-verb|is|beinge|was|been}}
 
 # to {{l|en|be}}
-#* '''''1382''''' [[w:John Wycliffe|John Wycliffe]], translation of the Bible (John 1:48)
-#*: Bifor that Filip clepide thee, whanne thou '''were''' vndur the fige tree, Y saiy thee.
-#* '''1407''', ''[[w:The Testimony of William Thorpe|The Testimony of William Thorpe]]'', pages 40–41
-#*: ...Filip of Repintoun whilis he '''was''' a chanoun of Leycetre, Nycol Herforde, dane Geffrey of Pikeringe, monke of Biland and a maistir dyuynyte, and Ioon Purueye, and manye other whiche '''weren''' holden rightwise men and prudent...
+#* '''1382''', {{w|John Wycliffe}}, translation of the Bible (John 1:48)
+#*: {{quote|enm|Bifor that Filip clepide thee, whanne thou '''were''' vndur the fige tree, Y saiy thee.}}
+#* '''1407''', ''{{w|The Testimony of William Thorpe}}'', pages 40–41
+#*: {{quote|enm|{{...}}Filip of Repintoun whilis he '''was''' a chanoun of Leycetre, Nycol Herforde, dane Geffrey of Pikeringe, monke of Biland and a maistir dyuynyte, and Ioon Purueye, and manye other whiche '''weren''' holden rightwise men and prudent{{...}}}}
 
 =====Conjugation=====
 {{enm-conj|type=irreg|{{l|enm|am}}, {{l|enm|be}}|{{l|enm|aren|are(n)}}, {{l|enm|beth}}, {{l|enm|been|bee(n)}}|{{l|enm|art}}, {{l|enm|bist}}||{{l|enm|is}}, {{l|enm|bith}}, {{l|enm|biþ}}|are(n), beth, bee(n)|{{l|enm|be}}, {{l|enm|si}}|{{l|enm|been}}|{{l|enm|beinge}}, {{l|enm|beende}}|{{l|enm|ybeen|(y)been}}|{{l|enm|was}}|{{l|enm|weren|were(n)}}|{{l|enm|were}}, {{l|enm|wast}}|were(n)|{{l|enm|was}}|were(n)|{{l|enm|were|wer(e)}}|{{l|enm|weren}}|{{l|enm|be}}|{{l|enm|beth}}, {{l|enm|beþ}}}}
 
 =====Descendants=====
-* {{desc|en|be}} (dialectal {{m|en|been}})
+* {{desc|en|be}}; {{l|en|been}} {{q|dialectal}}
 * {{desc|sco|be}}
 
 ===Etymology 2===
@@ -228,7 +228,7 @@ From {{inh|enm|ang|bēon}}, nominative plural form of {{m|enm|bēo}}, from {{inh
 ====Noun====
 {{head|enm|noun plural form}}
 
-# {{plural of|enm|bee}}
+# {{plural of|enm|bee||bee}}
 
 ===Etymology 3===
 From {{inh|enm|ang|ġebēon}}, past participle of {{m|ang|bēon|t=to be}}; equivalent to {{af|enm|y-|be|-en}}.
@@ -246,10 +246,10 @@ From {{inh|enm|ang|ġebēon}}, past participle of {{m|ang|bēon|t=to be}}; equiv
 * {{desc|sco|been}}
 
 ===Etymology 4===
-From {with the ''-þ'' replaced with an ''-n'' leveled in from the past and subjunctive) {{inh|enm|ang|bēoþ}}, present plural of {{m|ang|bēon|t=to be}}, from {{inh|en|gem-pro|*biunþi}}, third-person present plural of {{m|gem-pro|*beuną|t=to be, become}}.
+From (with the ''-þ'' replaced with an ''-n'' leveled in from the past and subjunctive) {{inh|enm|ang|bēoþ}}, present plural of {{m|ang|bēon|t=to be}}, from {{inh|en|gem-pro|*biunþi}}, third-person present plural of {{m|gem-pro|*beuną|t=to be, become}}.
 
 ====Alternative forms====
-* {{l|enm|be}}
+* {{alter|enm|be}}
 
 ====Verb====
 {{head|enm|verb form}}
@@ -274,8 +274,7 @@ From {{inh|enm|ang|bēon}}, present subjunctive plural of {{m|ang|bēon|t=to be}
 * {{desc|en|be}}
 * {{desc|sco|be}}
 
-[[Category:Middle English irregular verbs]]
-[[Category:Middle English suppletive verbs]]
+{{cln|enm|irregular verbs|suppletive verbs}}
 
 ----
 
