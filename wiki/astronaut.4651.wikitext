@@ -4,7 +4,7 @@
 [[Image:Soichi 20Noguchi em 20alta.jpg|thumb|right|Astronaut Soichi Noguchi.]]
 
 ===Etymology===
-{{confix|en|astro|naut}}. Coined from {{der|en|grc|ἄστρον|sc=polytonic||star}} and {{m|grc|ναύτης|sc=polytonic||sailor}}.
+From {{af|en|astro-|-naut}}. Coined from {{der|en|grc|ἄστρον|t=star}} and {{m|grc|ναύτης|t=sailor}}.
 
 ===Pronunciation===
 * {{enPR|ăsʹtrənôt'}}
@@ -72,7 +72,7 @@
 * German: {{t+|de|Astronaut|m}}, {{t+|de|Raumfahrer|m}}, {{t+|de|Kosmonaut|m}}, {{t|de|Weltraumpilot|m}}, {{t|de|Raumpilot|m}}
 * Greek: {{t+|el|αστροναύτης|m}}
 * Hebrew: {{t+|he|אסטרונאוט|m|tr=astronáut}}
-* Hindi: {{t|hi|अंतरिक्ष यात्री|?|tr=antarikṣ yātrī}}
+* Hindi: {{t|hi|अंतरिक्ष यात्री|m|tr=antarikṣ yātrī}}
 * Hungarian: {{t+|hu|űrhajós}}, {{t+|hu|asztronauta}}
 * Icelandic: {{t+|is|geimfari|m}}
 * Ido: {{t+|io|astronauto}}
@@ -121,24 +121,25 @@
 ==Albanian==
 
 ===Noun===
-{{head|sq|noun}}
+{{sq-noun}}
 
 # [[#English|astronaut]], [[cosmonaut]]
+#: {{syn|sq|kosmonaut}}
 
-====Synonyms====
-* {{l|sq|kosmonaut}}
+[[Category:sq:People]]
 
 ----
 
 ==Czech==
 
+===Pronunciation===
+* {{cs-IPA}}
+
 ===Noun===
 {{cs-noun|g=m}}
 
 # {{l|en|astronaut}}, [[cosmonaut]]
-
-====Synonyms====
-* {{l|cs|kosmonaut}}
+#: {{syn|cs|kosmonaut}}
 
 ===Related terms===
 * {{l|cs|astronautika}}
@@ -147,7 +148,7 @@
 * {{R:KNLA}}
 * {{R:SSJC}}
 
-[[Category:Czech words prefixed with astro-]]
+[[Category:Czech words prefixed with astro-|naut]]
 
 ----
 
@@ -187,10 +188,7 @@ Borrowed from {{bor|nl|en|astronaut}}.
 {{nl-noun|m|-en|astronautje}}
 
 # {{l|en|astronaut}} {{defdate|from early 1950s}}
-
-====Synonyms====
-* {{l|nl|kosmonaut}}
-* {{l|nl|ruimtevaarder}}
+#: {{syn|nl|kosmonaut|ruimtevaarder}}
 
 ====Derived terms====
 * {{l|nl|astronautisch}}
@@ -206,15 +204,13 @@ Borrowed from {{bor|nl|en|astronaut}}.
 {{wikipedia|lang=no|Romfarer}}
 
 ===Etymology===
-From {{der|nb|en|astronaut}}
+From {{der|nb|en|astronaut}}.
 
 ===Noun===
 {{nb-noun-m1}}
 
 # an {{l|en|astronaut}}
-
-====Synonyms====
-* {{l|nb|romfarer}}
+#: {{syn|nb|romfarer}}
 
 ===References===
 * {{R:The Bokmål Dictionary}}
@@ -225,15 +221,13 @@ From {{der|nb|en|astronaut}}
 {{wikipedia|lang=nn|Romfarar}}
 
 ===Etymology===
-From {{der|nn|en|astronaut}}
+From {{der|nn|en|astronaut}}.
 
 ===Noun===
 {{nn-noun-m1}}
 
 # an {{l|en|astronaut}}
-
-====Synonyms====
-* {{l|nn|romfarar}}
+#: {{syn|nn|romfarar}}
 
 ===References===
 * {{R:The Nynorsk Dictionary}}
@@ -252,17 +246,17 @@ Borrowed from {{bor|ro|fr|astronaute}}, {{bor|ro|en|astronaut}}.
 {{ro-noun|m|astronauți|f=astronaută}}
 
 # {{l|en|astronaut}}
+#: {{syn|ro|cosmonaut}}
 
 ====Declension====
 {{ro-noun-m|pl=astronauți|def=astronautul}}
 
-====Synonyms====
-* {{l|ro|cosmonaut}}
-
 ====Related terms====
-* {{l|ro|astronautic}}
-* {{l|ro|astronautică}}
-* {{l|ro|astronautician}}
+{{col3|ro
+|astronautic
+|astronautică
+|astronautician
+}}
 
 ===See also===
 * {{l|ro|taikonaut}}
@@ -284,6 +278,7 @@ Borrowed from {{bor|ro|fr|astronaute}}, {{bor|ro|en|astronaut}}.
 {{sh-noun|g=m|head=astronàut}}
 
 # [[#English|astronaut]]
+#: {{syn|sh|kozmonàut|kosmonàut}}
 
 ====Declension====
 {{sh-decl-noun|astronaut|astronauti
@@ -295,15 +290,12 @@ Borrowed from {{bor|ro|fr|astronaute}}, {{bor|ro|en|astronaut}}.
 |astronautom|astronautima
 }}
 
-====Synonyms====
-* {{sense|astronaut}} {{l|sh|kozmonàut}}, {{l|sh|kosmonàut}}
-
 ----
 
 ==Swedish==
 
 ===Etymology===
-{{confix|sv|astro|naut}}
+From {{af|sv|astro-|-naut}}.
 
 ===Noun===
 {{sv-noun|c}}
@@ -314,5 +306,7 @@ Borrowed from {{bor|ro|fr|astronaute}}, {{bor|ro|en|astronaut}}.
 {{sv-infl-noun-c-er}}
 
 ====See also====
-* [[kosmonaut]]
-* [[rymdfarare]]
+{{col2|sv
+|kosmonaut
+|rymdfarare
+}}
