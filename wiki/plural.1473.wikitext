@@ -67,15 +67,15 @@ From {{inh|en|enm|plurelle|sc=Latn}}, from {{der|en|fro|plurel||plural|sc=Latn}}
 * Russian: {{t+|ru|мно́жественный}}
 * Scottish Gaelic: {{t|gd|iolra}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|множински|m}}, {{t|sh|плурални|m}}
-*: Roman: {{t+|sh|množinski|m}}, {{t+|sh|pluralni|m}}
+*: Cyrillic: {{t|sh|множински}}, {{t|sh|плурални}}
+*: Roman: {{t+|sh|množinski}}, {{t+|sh|pluralni}}
 * Spanish: {{t+|es|plural}}
 * Swedish: {{t+|sv|plural}}, {{t+|sv|flertal}}
 * Thai: {{t+|th|พหูพจน์}}
 * Turkish: {{t+|tr|çok}}
 * Ukrainian: {{t|uk|чисельний}}
 * Volapük: {{t+|vo|plunumik}}
-* Walloon: {{t+|wa|pluriyal|m}}
+* Walloon: {{t+|wa|pluriyal}}
 {{trans-bottom}}
 
 ===Noun===
@@ -210,11 +210,26 @@ Borrowed from {{bor|ca|la|plūrālis}}.
 {{ca-adj|mf}}
 
 # {{l|en|plural}}
+#: {{ant|ca|singular}}
 
 ===Noun===
 {{ca-noun|m}}
 
 # {{l|en|plural}}
+#: {{ant|ca|singular}}
+
+====Derived terms====
+* {{l|ca|pluralisme}}
+* {{l|ca|pluralista}}
+
+====Related terms====
+* {{l|ca|pluralitat}}
+
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
 
 [[Category:ca:Grammar]]
 
@@ -254,6 +269,17 @@ Borrowed from {{bor|gl|la|plūrālis}}.
 {{gl-adj|f=plural|pl=plurais}}
 
 # [[#English|plural]]
+#: {{ant|gl|singular}}
+
+====Derived terms====
+* {{l|gl|pluralismo}}
+* {{l|gl|pluralista}}
+
+====Related terms====
+* {{l|gl|pluralidade}}
+
+===Further reading===
+* {{R:DRAG}}
 
 [[Category:gl:Grammar]]
 
@@ -332,11 +358,23 @@ Borrowed from {{bor|pt|la|plūrālis}}.
 {{pt-adj|plura|l}}
 
 # {{l|en|plural}} {{gloss|consisting of more than one things}}
+#: {{ant|pt|singular}}
 
 ===Noun===
 {{pt-noun|m}}
 
 # {{lb|pt|grammar}} {{l|en|plural}} {{gloss|word referring to multiple things}}
+#: {{ant|pt|singular}}
+
+====Derived terms====
+* {{l|pt|pluralismo}}
+* {{l|pt|pluralista}}
+
+====Related terms====
+* {{l|pt|pluralidade}}
+
+===Further reading===
+* {{R:Priberam}}
 
 ----
 
@@ -382,8 +420,20 @@ Borrowed from {{bor|es|la|plūrālis}}.
 {{es-adj|pl=plurales}}
 
 # [[#English|plural]], [[multiple]]
+#: {{ant|es|singular}}
 
 ===Noun===
 {{es-noun|m|plurales}}
 
 # {{lb|es|grammar}} [[#English|plural]]
+#: {{ant|es|singular}}
+
+====Derived terms====
+* {{l|es|pluralismo}}
+* {{l|es|pluralista}}
+
+====Related terms====
+* {{l|es|pluralidad}}
+
+===Further reading===
+* {{R:DRAE}}
