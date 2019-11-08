@@ -94,9 +94,11 @@ From {{inh|en|enm|acre}}, {{m|enm|aker}}, from {{inh|en|ang|æcer||a field, land
 }}
 
 ====Related terms====
-* {{l|en|acorn}}
-* {{l|en|Greenacre}}
-* {{l|en|wiseacre}}
+{{col3|en
+|acorn
+|Greenacre
+|wiseacre
+}}
 
 ====Descendants====
 * {{desc|ga|acra|bor=1}}
@@ -128,7 +130,7 @@ From {{inh|en|enm|acre}}, {{m|enm|aker}}, from {{inh|en|ang|æcer||a field, land
 * Maori: {{t|mi|eka}}
 * Navajo: {{t|nv|náhásdzo hayázhí dikʼą́}}
 * Norman: {{t|nrf|acre|f}} {{qualifier|Jersey}}
-* Persian: {{t+|fa|جریب|tr=jerib|sc=fa-Arab}}
+* Persian: {{t+|fa|جریب|tr=jerib}}
 * Polish: {{t+|pl|akr|m}}
 * Portuguese: {{t+|pt|acre|m}}
 * Russian: {{t+|ru|акр|m}}
@@ -163,7 +165,7 @@ From {{inh|en|enm|acre}}, {{m|enm|aker}}, from {{inh|en|ang|æcer||a field, land
 ==French==
 
 ===Etymology===
-Probably from {{etyl|non|fr}} {{m|non|akr}} reenforced by {{der|fr|ang|æcer||a field, land, that which is sown, sown land, cultivated land; a definite quantity of land, land which a yoke of oxen could plough in a day, an acre, a certain quantity of land, strip of plough-land; crop}} .
+Probably from {{der|fr|non|akr}} reenforced by {{der|fr|ang|æcer|t=a field, land, that which is sown, sown land, cultivated land; a definite quantity of land, land which a yoke of oxen could plough in a day, an acre, a certain quantity of land, strip of plough-land; crop}} .
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -179,16 +181,14 @@ Probably from {{etyl|non|fr}} {{m|non|akr}} reenforced by {{der|fr|ang|æcer||a 
 * {{R:TLFi}}
 
 ===Anagrams===
-* {{l|fr|care}}
-* {{l|fr|créa}}
-* {{l|fr|race}}
+* {{anagrams|fr|a=acer|âcre|care|créa|race}}
 
 ----
 
 ==Italian==
 
 ===Etymology===
-From {{der|it|la|ācre}}, neuter nominative singular of {{m|la|ācer||sharp}}. {{doublet|it|agro}}.
+From {{der|it|la|ācre}}, neuter nominative singular of {{m|la|ācer|t=sharp}}. {{doublet|it|agro}}.
 
 ===Adjective===
 {{it-adj|acr|e|i}}
@@ -197,26 +197,25 @@ From {{der|it|la|ācre}}, neuter nominative singular of {{m|la|ācer||sharp}}. {
 # [[harsh]]
 
 ====Related terms====
-* {{l|it|acredine}}
-* {{l|it|acremente}}
+{{col2|it
+|acredine
+|acremente
+}}
 
 ===Anagrams===
-* {{l|it|care}}
-* {{l|it|cera}}
-* {{l|it|c'era}}
-* {{l|it|crea}}
-* {{l|it|reca}}
+* {{anagrams|it|a=acer|care|cera|c'era|crea|reca}}
 
 ----
 
 ==Latin==
 
+===Pronunciation===
+* {{la-IPA|ācre}}
+
 ===Adjective===
 {{la-adj-form|ācre}}
 
-# {{inflection of|la|ācer||n|nom|s}}
-# {{inflection of|la|ācer||n|acc|s}}
-# {{inflection of|la|ācer||n|voc|s}}
+# {{inflection of|la|ācer||n|nom//acc//voc|s}}
 
 ===References===
 * {{R:L&S}}
@@ -246,10 +245,10 @@ From {{der|it|la|ācre}}, neuter nominative singular of {{m|la|ācer||sharp}}. {
 * {{hyphenation|pt|a|cre}}
 
 ===Etymology 1===
-From {{der|pt|la|ācre}}, neuter nominative singular of {{m|la|ācer||sharp}}, from {{der|pt|ine-pro|*h₂ḱrós||sharp}}.
+From {{der|pt|la|ācre}}, neuter nominative singular of {{m|la|ācer|t=sharp}}, from {{der|pt|ine-pro|*h₂ḱrós|t=sharp}}.
 
 ====Alternative forms====
-* {{l|pt|agre}}
+* {{alter|pt|agre}}
 
 ====Adjective====
 {{pt-adj|acr|e}}
@@ -257,13 +256,14 @@ From {{der|pt|la|ācre}}, neuter nominative singular of {{m|la|ācer||sharp}}, f
 # {{l|en|sharp}} {{gloss|having an intense, acrid flavour}}
 
 ===Etymology 2===
-Borrowed from {{bor|pt|en|acre}}, from {{der|pt|enm|acre}}, {{m|enm|aker}}, from {{der|pt|ang|æcer}}, from {{der|pt|gem-pro|*akraz||field}}, from {{der|pt|ine-pro|*h₂éǵros||field}}.
+Borrowed from {{bor|pt|en|acre}}, from {{der|pt|enm|acre}}, {{m|enm|aker}}, from {{der|pt|ang|æcer}}, from {{der|pt|gem-pro|*akraz|t=field}}, from {{der|pt|ine-pro|*h₂éǵros|t=field}}.
 
 ====Noun====
-{{pt-noun|m|s}}
+{{pt-noun|m}}
 
 # {{l|en|acre}} {{gloss|unit of surface area}}
 
+{{topics|pt|Units of measure}}
 {{catlangname|pt|terms with multiple etymologies}}
 
 ----
@@ -276,10 +276,7 @@ Borrowed from {{bor|pt|en|acre}}, from {{der|pt|enm|acre}}, {{m|enm|aker}}, from
 ===Adjective===
 {{head|ro|adjective form}}
 
-# {{inflection of|ro|acru||f|p|nom}}
-# {{inflection of|ro|acru||f|p|acc}}
-# {{inflection of|ro|acru||n|p|nom}}
-# {{inflection of|ro|acru||n|p|acc}}
+# {{inflection of|ro|acru||f//n|p|nom//acc}}
 
 ----
 
@@ -289,7 +286,7 @@ Borrowed from {{bor|pt|en|acre}}, from {{der|pt|enm|acre}}, {{m|enm|aker}}, from
 * {{alter|sco|aker|acker}}
 
 ===Etymology===
-From {{inh|sco|enm|aker}}, from {{inh|sco|ang|æcer||field; acre}}. Cognate with {{cog|en|acre}}; see there for more.
+From {{inh|sco|enm|aker}}, from {{inh|sco|ang|æcer|t=field; acre}}. Cognate with {{cog|en|acre}}; see there for more.
 
 ===Pronunciation===
 * {{IPA|sco|[ˈekər]|[ˈjɪkər]}}
@@ -334,8 +331,10 @@ From {{der|es|la|acer|acer, acre}}. Cf. also {{m|es|agrio}}.
 * {{l|es|acremente}}
 
 =====Related terms=====
-* {{l|es|acérrimo}}
-* {{l|es|acritud}}
+{{col2|es
+|acérrimo
+|acritud
+}}
 
 ===Etymology 2===
 Borrowed from {{bor|es|en|acre}}. {{doublet|es|agro}}.
@@ -346,7 +345,7 @@ Borrowed from {{bor|es|en|acre}}. {{doublet|es|agro}}.
 # {{l|en|acre}}
 
 ===Anagrams===
-* {{l|es|arce}}, {{l|es|crea}}, {{l|es|cera}}, {{l|es|caer}}
+* {{anagrams|es|a=acer|arce|caer|cera|crea}}
 
 ===Further reading===
 * {{R:DRAE 2001}}
