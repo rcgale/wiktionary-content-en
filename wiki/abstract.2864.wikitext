@@ -180,8 +180,10 @@ From {{inh|en|enm|abstract}}, borrowed from {{bor|en|la|abstractus}}, perfect pa
 # Considered apart from any application to a particular object; not [[concrete]]; [[ideal]]; non-specific; general, as opposed to specific. {{defdate|First attested around 1350 to 1470.}}<ref name=SOED/>
 #* '''1843''', {{w|John Stuart Mill}}, ''{{w|A System of Logic|A System of Logic, Ratiocinative and Inductive}}'', Volume 1, [https://books.google.com.au/books?id=y4MEAAAAQAAJ&pg=PA34&dq=%22A+concrete+name+is+a+name+which+stands%22&hl=en&sa=X&ved=0ahUKEwjE7KGZ6fraAhUBvbwKHV4pBYgQ6AEIJzAA#v=onepage&q=%22A%20concrete%20name%20is%20a%20name%20which%20stands%22&f=false page 34],
 #*: A concrete name is a name which stands for a thing; an '''abstract''' name which stands for an attribute of a thing.{{...}}A practice, however, has grown up in more modern times, which, if not introduced by Locke, has gained currency from his example, of applying the expression "'''abstract''' name" to all names which are the result of abstraction and generalization, and consequently to all general names, instead of confining it to the names of attributes.
+#: {{ant|en|concrete}}
 # Difficult to understand; [[abstruse]]; hard to conceptualize. {{defdate|First attested around 1350 to 1470.}}<ref name=SOED/>
 #* {{quote-book|en|year=1929|author={{w|Ernest Hemingway}}|title={{w|A Farewell to Arms}}|passage='''Abstract''' words such as glory, honour, courage, or hallow were obscene.}}
+#: {{syn|en|abstruse}}
 # {{lb|en|archaic}} [[absent-minded|Absent-minded]]. {{defdate|First attested in the early 16<sup>th</sup> century.}}<ref name=SOED/>
 #* {{rfdate|en|and other bibliographic particulars, eg, title of work, page, url}} {{w|John Milton}}
 #*: '''abstract''', as in a trance
@@ -191,19 +193,13 @@ From {{inh|en|enm|abstract}}, borrowed from {{bor|en|la|abstractus}}, perfect pa
 ## {{lb|en|music}} [[absolute|Absolute]].
 ## {{lb|en|dance}} Lacking a story.
 # Insufficiently factual.<ref name = dict>{{R:MW3 1976|page=8}}</ref>
+#: {{syn|en|formal}}
 # Apart from [[practice]] or [[reality]]; [[vague]]; [[theoretical]]; [[impersonal]]; not applied.
 #* {{quote-book|en|page=489|author=Nicholas Walker|chapter=The Reorientation of Critical Theory: Habermas|editor=Simon Glemdinning|title=The Edinburgh Encyclopedia of Continental Philosophy|year=1999|publisher={{w|Routledge}}|url= https://books.google.co.nz/books?id=oZ8UDxYpUCoC |isbn= 9781579581527 |passage=During the late 1950s and throughout the 1960s, this commitment brought him into frequent critical confrontation with entrenched forms of conservative thinking (in academic areas from history and social science to the more '''abstract''' domains of ethical and political philosophy), with a mentality anchored in a profoundly influential and persistent hostility to central features of the Enlightment faith in the theoretical and practical autonomy of the human subject.}}
+#: {{syn|en|conceptual|theoretical}}
+#: {{ant|en|applied|practical}}
 # {{lb|en|grammar}} As a noun, denoting an intangible as opposed to an object, place, or person.
 # {{lb|en|computing}} Of a [[class]] in [[object-oriented]] programming, being a partial basis for [[subclass]]es rather than a complete template for objects.
-
-====Synonyms====
-* {{sense|not applied or practical}} {{l|en|conceptual}}, {{l|en|theoretical}}
-* {{sense|insufficiently factual}} {{l|en|formal}}
-* {{sense|difficult to understand}} {{l|en|abstruse}}
-
-====Antonyms====
-* {{sense|not applied or practical}} {{l|en|applied}}, {{l|en|practical}}
-* {{sense|considered apart from concrete existence}} {{l|en|concrete}}
 
 ====Derived terms====
 {{col3|en
@@ -255,9 +251,9 @@ From {{inh|en|enm|abstract}}, borrowed from {{bor|en|la|abstractus}}, perfect pa
 * Burmese: {{t-needed|my}}
 * Catalan: {{t+|ca|abstracte}}
 * Chinese:
-*: Cantonese: {{t|yue|抽象|tr=cau1 zoeng6|sc=Hani}}
-*: Mandarin: {{t+|cmn|抽象|tr=chōuxiàng|sc=Hani}}
-*: Min Nan: {{t+|nan|抽象|tr=thiu-siōng|sc=Hani}}
+*: Cantonese: {{t|yue|抽象|tr=cau1 zoeng6}}
+*: Mandarin: {{t+|cmn|抽象|tr=chōuxiàng}}
+*: Min Nan: {{t+|nan|抽象|tr=thiu-siōng}}
 * Dutch: {{t+|nl|abstract}}, {{t+|nl|theoretisch}}
 * Esperanto: {{t+|eo|abstrakta}}
 * Estonian: {{t+|et|abstraktne}}
@@ -332,7 +328,7 @@ From {{inh|en|enm|abstract}}, borrowed from {{bor|en|la|abstractus}}, perfect pa
 {{checktrans-top}}
 * Indonesian: {{t+check|id|abstrak}}
 * Interlingua: {{t-check|ia|abstracte}}
-* Korean: {{t-check|ko|추상적인|tr=chusangjeokin}}
+* Korean: {{t-check|ko|추상적인}}
 * Novial: {{t-check|nov|abstrakti}}, {{t-check|nov|abstraktet}}
 {{trans-mid}}
 * Spanish: {{t+check|es|abstracto}}
