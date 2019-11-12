@@ -1,9 +1,6 @@
 ==English==
 {{wikipedia}}
 
-===Etymology===
-From {{inh|en|enm|sesoun|sesoun, seson|time of the year}}, from {{der|en|fro|seison|seson, seison|time of sowing, seeding}}, from {{der|en|la|satiōnem}}, accusative of {{m|la|satiō||act of sowing, planting}} from {{m|la|satum}}, past participle of {{m|la|serere||to sow, plant}} from {{der|en|ine-pro|*seh₁-||to sow, plant}}. Akin to {{cog|ang|sāwan||to sow}}, [[Old English]] {{m|ang|sǣd||seed}}. Displaced native {{cog|enm|sele||season}} (from {{cog|ang|sǣl||season, time, occasion}}), {{cog|enm|tide||season, time of year}} (from {{cog|ang|tīd||time, period, yeartide, season}}).
-
 ===Pronunciation===
 * {{a|RP}} {{IPA|en|/ˈsiːzən/}}
 * {{a|GA}} {{enPR|sēʹzən}} {{IPA|en|/ˈsizən/}}
@@ -11,7 +8,10 @@ From {{inh|en|enm|sesoun|sesoun, seson|time of the year}}, from {{der|en|fro|sei
 * {{audio|en|en-au-season.ogg|Audio (AU)}}
 * {{rhymes|en|iːzən}}
 
-===Noun===
+===Etymology 1===
+From {{inh|en|enm|sesoun|sesoun, seson|time of the year}}, from {{der|en|fro|seison|seson, seison|time of sowing, seeding}}, from {{der|en|la|satiōnem}}, accusative of {{m|la|satiō||act of sowing, planting}} from {{m|la|satum}}, past participle of {{m|la|serere||to sow, plant}} from {{der|en|ine-pro|*seh₁-||to sow, plant}}. Akin to {{cog|ang|sāwan||to sow}}, [[Old English]] {{m|ang|sǣd||seed}}. Displaced native {{cog|enm|sele||season}} (from {{cog|ang|sǣl||season, time, occasion}}), {{cog|enm|tide||season, time of year}} (from {{cog|ang|tīd||time, period, yeartide, season}}).
+
+====Noun====
 {{en-noun}}
 
 # {{senseid|en|Q24384}} Each of the four divisions of a [[year]]: [[spring]], [[summer]], [[autumn]] ([[fall]]) and [[winter]]
@@ -51,10 +51,10 @@ From {{inh|en|enm|sesoun|sesoun, seson|time of the year}}, from {{der|en|fro|sei
 # {{lb|en|video games}} The full set of [[downloadable]] [[content]] for a game, which can be purchased with a [[season pass]].
 # {{lb|en|video games}} A fixed period of time in a [[massively multiplayer online game]] in which new content (themes, rules, modes, etc.) becomes available, sometimes replacing earlier content.
 
-====Usage notes====
+=====Usage notes=====
 In British English, a year-long group of episodes of a television or radio show is called a {{m|en|series|id=Q3464665}}, whereas in North American English the word {{m|en|series}} is a synonym of {{m|en|program}} or {{m|en|show}}.
 
-====Derived terms====
+=====Derived terms=====
 {{rel-top3|Terms derived from ''season''}}
 * {{l|en|end-of-season}}
 * {{l|en|growing season}}
@@ -79,7 +79,7 @@ In British English, a year-long group of episodes of a television or radio show 
 * {{l|en|unseasonably}}
 {{rel-bottom}}
 
-====Translations====
+=====Translations=====
 {{trans-top|quarter of a year}}
 * Albanian: {{t+|sq|stinë|f}}
 * Arabic: {{t+|ar|فَصْل}}, {{t|ar|مَوْسِم}}
@@ -300,13 +300,12 @@ In British English, a year-long group of episodes of a television or radio show 
 {{trans-mid}}
 {{trans-bottom}}
 
-====See also====
+=====See also=====
 {{table:seasons/en}}
 
-===Verb===
+====Verb====
 {{en-verb|seasons|seasoning|seasoned}}
 
-# {{lb|en|transitive}} To [[flavour]] [[food]] with [[spice]]s, [[herb]]s or [[salt]].
 # {{lb|en|transitive}} To make [[fit]] for any use by time or habit; to [[habituate]]; to [[accustom]]; to [[inure]].
 #: {{ux|en|to '''season''' oneself to a climate}}
 # {{lb|en|transitive|by extension}} To [[prepare]] by [[dry]]ing or [[harden]]ing, or [[removal]] of natural [[juice]]s.
@@ -318,7 +317,48 @@ In British English, a year-long group of episodes of a television or radio show 
 # {{lb|en|obsolete}} To [[copulate]] with; to [[impregnate]].
 #: {{rfquotek|en|Holland}}
 
-====Translations====
+{{trans-top|to make fit for any use by time or habit}}
+* Dutch: zich [[aanpassen]]
+* Finnish: {{t+|fi|totuttaa}}
+* German: {{t+|de|anpassen}}, {{t+|de|abhärten}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|hozzászoktat}}, {{t+|hu|akklimatizál}}
+* Italian: {{t+|it|addestrare}}, {{t+|it|allenare}}, {{t+|it|acclimatare}}
+* Spanish: {{t+|es|habituar}}, {{t+|es|acostumbrar}}, {{t+|es|aclimatar}}
+{{trans-bottom}}
+
+{{trans-top|to prepare by drying or hardening}}
+* Finnish: {{t+|fi|kuivattaa}}
+* German: {{t+|de|trocknen}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|kiszárít}}, {{t+|hu|szárít}}, {{t|hu|kiérlel}}, {{t+|hu|érlel}}
+* Italian: {{t+|it|stagionare}}
+{{trans-bottom}}
+
+{{trans-top|to become mature}}
+* Dutch: {{t+|nl|rijpen}}, {{t|nl|rijp worden}}
+* German: {{t+|de|altern}}
+* Japanese: {{t|ja|熟れる|tr=ureru|sc=Jpan}}
+{{trans-mid}}
+* Norwegian: {{t|no|modnes}}
+* Spanish: {{t+|es|madurar}}
+{{trans-bottom}}
+
+{{trans-top|to become dry and hard}}
+* German: {{t+|de|austrocknen}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|kiszárad}}, {{t+|hu|szárad}}
+{{trans-bottom}}
+
+===Etymology 2===
+From {{bor|en|fr|assaisonner}}.
+
+====Verb====
+{{en-verb|seasons|seasoning|seasoned}}
+
+# {{lb|en|transitive}} To [[flavour]] [[food]] with [[spice]]s, [[herb]]s or [[salt]].
+
+=====Translations=====
 {{trans-top|to flavour food}}
 * Breton: {{t|br|temzañ}}, {{t|br|sasuniñ}}
 * Catalan: {{t+|ca|condimentar}}, {{t+|ca|amanir}}
@@ -353,39 +393,6 @@ In British English, a year-long group of episodes of a television or radio show 
 * Turkish: {{t+|tr|çeşnilemek}}, {{t+|tr|çeşni katmak}}, {{t|tr|baharat katmak}}, {{t|tr|çeşnilendirmek}}
 * Vietnamese: {{t+|vi|nêm}}
 * Yiddish: {{t|yi|צוריכטן}}
-{{trans-bottom}}
-
-{{trans-top|to make fit for any use by time or habit}}
-* Dutch: zich [[aanpassen]]
-* Finnish: {{t+|fi|totuttaa}}
-* German: {{t+|de|anpassen}}, {{t+|de|abhärten}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|hozzászoktat}}, {{t+|hu|akklimatizál}}
-* Italian: {{t+|it|addestrare}}, {{t+|it|allenare}}, {{t+|it|acclimatare}}
-* Spanish: {{t+|es|habituar}}, {{t+|es|acostumbrar}}, {{t+|es|aclimatar}}
-{{trans-bottom}}
-
-{{trans-top|to prepare by drying or hardening}}
-* Finnish: {{t+|fi|kuivattaa}}
-* German: {{t+|de|trocknen}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|kiszárít}}, {{t+|hu|szárít}}, {{t|hu|kiérlel}}, {{t+|hu|érlel}}
-* Italian: {{t+|it|stagionare}}
-{{trans-bottom}}
-
-{{trans-top|to become mature}}
-* Dutch: {{t+|nl|rijpen}}, {{t|nl|rijp worden}}
-* German: {{t+|de|altern}}
-* Japanese: {{t|ja|熟れる|tr=ureru|sc=Jpan}}
-{{trans-mid}}
-* Norwegian: {{t|no|modnes}}
-* Spanish: {{t+|es|madurar}}
-{{trans-bottom}}
-
-{{trans-top|to become dry and hard}}
-* German: {{t+|de|austrocknen}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|kiszárad}}, {{t+|hu|szárad}}
 {{trans-bottom}}
 
 ===Anagrams===
