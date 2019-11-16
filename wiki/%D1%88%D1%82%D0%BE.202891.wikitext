@@ -23,10 +23,12 @@ From {{inh|be|sla-pro|*čьto}}, from {{der|be|ine-pro|*kʷid}}, {{m|ine-pro|*k�
 {{be-decl-noun-unc|што|чаго́|чаму́|што|чым|чым}}
 
 ====Derived terms====
-* {{l|be|не́шта}}
-* {{l|be|ніхто́}}
-* {{l|be|штось}}
-* {{l|be|што́сьці}}
+{{der4|be
+|не́шта
+|ніхто́
+|штось
+|што́сьці
+}}
 
 ===References===
 * {{R:be:slounik.org}}
@@ -91,7 +93,7 @@ From {{inh|mk|sla-pro|*čьto}}.
 ==Rusyn==
 
 ===Etymology===
-From {{inh|rue|sla-pro|*čьto}}, from {{etyl|ine-pro|rue}} {{m|ine-pro|*kʷid}}, {{m|ine-pro|*kʷis}}. Cognates include {{cog|uk|що}}, {{cog|ru|что}} and {{cog|pl|co}}.
+From {{inh|rue|sla-pro|*čьto}}, from {{inh|rue|ine-pro|*kʷid}}, {{m|ine-pro|*kʷis}}. Cognates include {{cog|uk|що}}, {{cog|ru|что}} and {{cog|pl|co}}.
 
 ===Conjunction===
 {{head|rue|conjunction}}
@@ -110,7 +112,7 @@ From {{inh|rue|sla-pro|*čьto}}, from {{etyl|ine-pro|rue}} {{m|ine-pro|*kʷid}}
 * {{alter|sh|шта̏||interrogative pronoun only}}
 
 ===Etymology===
-From {{inh|sh|sla-pro|*čьto||what}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*kʷid}}, compare {{m|ine-pro|*kʷis}}; compare Čakavian {{m|sh|sc=Cyrl|ча̏||what}} (from {{etyl|sla-pro|sh}} {{m|sla-pro|*čь}}).
+From {{inh|sh|sla-pro|*čьto||what}}, from {{inh|sh|ine-pro|*kʷid}}, compare {{m|ine-pro|*kʷis}}; compare {{m|sh-cha|ча̏||what}} (from {{m+|sla-pro|*čь}}).
 
 ===Pronunciation===
 * {{IPA|sh|/ʃtô/}}
@@ -118,15 +120,15 @@ From {{inh|sh|sla-pro|*čьto||what}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*kʷ
 ===Adverb===
 {{sh-adverb|head=што̏}}
 
-# [[why]] (short for {{m|sh|sc=Cyrl|за̏што}})
+# [[why]] (short for {{m|sh|за̏што}})
 # {{lb|sh|in comparisons}} [[the]], [[as]]
-#: {{ux|sh|'''што''' раније то боље|the sooner the better|sc=Cyrl|inline=1}}
-#: {{ux|sh|'''што''' брже|as quickly as possible|sc=Cyrl|inline=1}}
+#: {{uxi|sh|'''што''' раније то боље|the sooner the better}}
+#: {{uxi|sh|'''што''' брже|as quickly as possible}}
 
 ===Pronoun===
 {{sh-pronoun|head=што̏}}
 
 # {{lb|sh|relative}} [[that]], [[what]], [[which]]
-#: {{ux|sh|Ако је то тачно, мора бити да знаш нешто '''што''' ја не знам.|If that is correct, it must be that you know something '''that''' I don't.|inline=1}}
+#: {{ux|sh|Ако је то тачно, мора бити да знаш нешто '''што''' ја не знам.|If that is correct, it must be that you know something '''that''' I don't.}}
 
 [[Category:Serbo-Croatian relative pronouns]]
