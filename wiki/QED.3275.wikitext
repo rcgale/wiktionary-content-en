@@ -3,17 +3,19 @@
 {{was wotd|2020|January|24}}
 
 ===Pronunciation===
-* {{a|RP|GA}} {{IPA|en|/ˌkjuː ˌiː ˈdiː/}}
+* {{a|RP}} {{IPA|en|/ˌkjuːiːˈdiː/}}
 * {{audio|en|En-uk-QED.oga|Audio (RP)}}
+* {{a|GA}} {{IPA|en|/ˌkjuˌiˈdi/}}
 
 ===Etymology 1===
-From {{der|en|la|quod erat demonstrandum|q(uod) e(rat) d(emonstrandum)}}.
+From {{der|en|LL.|q.e.d.}}, from {{der|en|la|quod erat demonstrandum|q(uod) e(rat) d(emonstrandum)}}.<ref>{{R:OED Online|entry=Q.E.D.|pos=''int.'' and ''n.{{sup|1}}''|noformat=yes|id=240240|date=December 2007|nodot=yes}}; {{R:Lexico|pos=abbrev.}}</ref>
 
 ====Phrase====
 {{en-phrase}}
 
 # {{lb|en|mathematics|dated}} {{initialism of|en|quod erat demonstrandum|t=what had to be proved; what was to be demonstrated|nodot=1}}: {{non-gloss definition|placed at the end of a [[mathematical]] [[proof]] to [[show#Verb|show]] that the [[theorem]] under [[discussion]] is [[prove]]d.}}
 #* {{quote-book|en|author=William Dunham|authorlink=William Dunham (mathematician)|chapter=Euler and Analytic Number Theory|title=[[w:Leonhard Euler|Euler]]: The Master of Us All|series=The Dolciani Mathematical Expositions|seriesvolume=22|location=[Washington, D.C.]|publisher={{w|Mathematical Association of America}}|year=1999|page=64|pageurl=https://books.google.com/books?id=x7p4tCPPuXoC&pg=PA64|isbn=978-0-88385-328-3|passage=By Cases 1 and 2, we see that any finite collection of <math>4k - 1</math> primes cannot contain all such primes. Thus there are infinitely many primes of this type. '''Q.E.D.'''}}
+# {{lb|en|by extension}} {{non-gloss definition|Used to [[indicate]] that an [[argument]] or [[proposition]] is proved by the [[existence]] of some [[fact]] or [[scenario]].}}
 
 =====Usage notes=====
 When used to end a mathematical proof, ''QED'' is somewhat dated or traditional; modern textbooks often use the graphical symbol [[∎]] (the [[halmos]] or [[tombstone]]) instead. Other languages generally use a vernacular abbreviation, such as {{noncog|fr|CQFD|t=ce qu'il fallait démontrer}}.
@@ -50,8 +52,19 @@ When used to end a mathematical proof, ''QED'' is somewhat dated or traditional;
 * Vietnamese: {{t+|vi|đpcm}}
 {{trans-bottom}}
 
+====Noun====
+{{en-noun}}
+
+# Some [[fact]] or [[scenario]] that [[prove]]s an [[argument]] or [[proposition]]; a [[justification]].
+
+=====Alternative forms=====
+* {{l|en|Q.E.D.}}
+
+=====Translations=====
+{{trans-see|fact or scenario that proves an argument or proposition|justification}}
+
 ===Etymology 2===
-From {{m|en|quantum electrodynamics|q(uantum) e(lectro)d(ynamics)}}.
+From {{m|en|quantum electrodynamics|q(uantum) e(lectro)d(ynamics)}}.<ref>{{R:OED Online|pos=''n.{{sup|2}}''|noformat=yes|id=268897|date=December 2007|nodot=yes}}; {{R:Lexico|pos=abbrev}}</ref>
 
 ====Noun====
 {{en-noun|-}}
@@ -61,6 +74,9 @@ From {{m|en|quantum electrodynamics|q(uantum) e(lectro)d(ynamics)}}.
 
 =====Related terms=====
 * {{l|en|QCD|t=initialism of {{m|en|quantum chromodynamics}}}}
+
+===References===
+<references />
 
 ===Further reading===
 * {{pedia|Q.E.D.}}
