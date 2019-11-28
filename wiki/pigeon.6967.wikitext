@@ -226,7 +226,7 @@ From {{inh|en|enm|pygeoun}}, {{m|enm|pygyne}}, {{m|enm|pegyon}}, from {{der|en|f
 {{rel-bottom}}
 
 ====Translations====
-{{trans-top|bird of the pigeon and dove family Columbidae}}
+{{trans-top|bird of the dove and pigeon family Columbidae}}
 * Acehnese: {{t|ace|mirahpati}}
 * Afrikaans: {{t|af|duif}}
 * Albanian: {{t|sq|pëllumbi}}
@@ -297,7 +297,7 @@ From {{inh|en|enm|pygeoun}}, {{m|enm|pygyne}}, {{m|enm|pegyon}}, from {{der|en|f
 * Lakota: {{t|lkt|thiwákiŋyela}}
 * Lao: {{t+|lo|ກາງແກ}}
 * Latgalian: {{t|ltg|bolūds}}
-* Latin: {{t|la|columbus|m}}, {{t|la|columba|f}}, {{t|la|columbulus|m}}, {{t|la|columbula|f}}
+* Latin: {{t|la|columbus|m}}, {{t|la|columba|f}}, {{t|la|columbulus|m}} {{q|diminutive}}, {{t|la|columbula|f}} {{q|diminutive}}
 * Latvian: {{t|lv|balodis}}
 {{trans-mid}}
 * Lithuanian: {{t+|lt|karvelis|m}}, {{t+|lt|balandis|m}}
@@ -312,14 +312,14 @@ From {{inh|en|enm|pygeoun}}, {{m|enm|pygyne}}, {{m|enm|pegyon}}, from {{der|en|f
 * Mongolian: {{t+|mn|тагтаа|sc=Cyrl}}
 * Navajo: {{t|nv|hasbídí}}
 * Norwegian:
-*: Bokmål: {{qualifier|♂♀}} {{t+|no|due|f|m}}, {{qualifier|♂}} {{t|no|hanndue|f|m}}, {{qualifier|♂}} {{t|no|duestegg|m}}, {{qualifier|♀}} {{t|no|hunndue|f|m}}
-*: Nynorsk: {{qualifier|♂♀}} {{t|nn|due|f}}, {{qualifier|♂♀}} {{t|nn|dua|f}} {{qualifier|variant form}}, {{qualifier|♂}} {{t|nn|hanndue|f}}, {{qualifier|♂}} {{t|nn|duestegg|m}}, {{qualifier|♀}} {{t|nn|hodue|f}}
+*: Bokmål: {{t+|no|due|f|m}}, {{t|no|hanndue|f|m}} {{q|male}}, {{t|no|duestegg|m}} {{q|male}}, {{t|no|hunndue|f|m}} {{q|female}}
+*: Nynorsk: {{t|nn|due|f}}, {{t|nn|dua|f}} {{q|variant form}}, {{t|nn|hanndue|f}} {{q|male}}, {{t|nn|duestegg|m}} {{q|male}}, {{t|nn|hodue|f}} {{q|female}}
 * Occitan: {{t+|oc|colomb|m}}
 * Ojibwe: {{t|oj|omiimii}}
 * Old Church Slavonic:
 *: Cyrillic: {{t|cu|голѫбь|m|sc=Cyrs}}
 *: Glagolitic: {{t|cu|ⰳⱁⰾⱘⰱⱐ|m|sc=Glag}}
-* Old English: {{t|ang|culfre|f}}, {{t|ang|*dūfe|f}}
+* Old English: {{t|ang|culfre|f}}, {{t|ang|*dūfe|f}} {{q|cf. woman’s attested name: [[Dūfe]], “[[Dove]]”}}
 * Persian: {{t+|fa|کبوتر|tr=kabutar}}
 * Polabian: {{t|pox|ďölǫb|m}}
 * Polish: {{t+|pl|gołąb|m}}
@@ -328,7 +328,7 @@ From {{inh|en|enm|pygeoun}}, {{m|enm|pygyne}}, {{m|enm|pegyon}}, from {{der|en|f
 * Quechua: {{t|qu|irpa}}, {{t+|qu|urpi}}
 * Romani: {{t|rom|golumbo|m}}, {{t|rom|golumbaika|f}}
 * Romanian: {{t+|ro|porumbel|m}}, {{t+|ro|porumbă|f}}
-* Romansch: {{t|rm|columba}}
+* Romansch: {{t|rm|columba|f}}
 * Russian: {{t+|ru|го́лубь|m}}, {{t+|ru|голу́бка|f}} {{qualifier|female; also a term of endearment for a woman}}
 * Rusyn: {{t|rue|го́луб|m}}
 * Sami: [[duvvá]] (livia), [[dielkoduvvá]] (palumbus)
@@ -365,7 +365,7 @@ From {{inh|en|enm|pygeoun}}, {{m|enm|pygyne}}, {{m|enm|pegyon}}, from {{der|en|f
 * Venetian: {{t|vec|cołonbo|m}}, {{t|vec|colonbo}}, {{t|vec|pipion|m}}, {{t|vec|cortexan|m}}
 * Vietnamese: {{t+|vi|bồ câu}}
 * Volapük: {{t+|vo|pijun}}
-* Welsh: {{t|cy|colomen}}, {{t|cy|colomennod|f-p}}
+* Welsh: {{t|cy|colomen}}
 * West Frisian: {{t+|fy|do}}
 * Yiddish: {{t|yi|טויב|f|tr=toyb}}
 * Yucatec Maya: {{t|yua|mukuy}}
@@ -381,7 +381,7 @@ From {{inh|en|enm|pygeoun}}, {{m|enm|pygyne}}, {{m|enm|pegyon}}, from {{der|en|f
 * Russian: {{t+|ru|лох|m}}
 {{trans-bottom}}
 
-====See also====
+===See also===
 * {{l|en|piper}}
 * {{l|en|squab}}
 * {{l|en|squeaker}}
@@ -416,12 +416,13 @@ From {{inh|fr|fro|pyjon}}, from {{der|fr|LL.|pīpiōnem||chirping bird}}, accusa
 # {{lb|fr|colloquial}} [[patsy]] {{gloss|an easily trickable, naive person}}
 
 ====Derived terms====
-{{der3|fr|aile de pigeon
+{{der4|fr
+|aile de pigeon
 |je me suis fait pigeonner
 |je me suis laissé pigeonner
+|l'industrie pigeonnière
 |loger avec les pigeons
 |loger comme les pigeons
-|l'industrie pigeonnière
 |pigeon à calotte
 |pigeon à capuchon
 |pigeon à caroncule
@@ -432,6 +433,7 @@ From {{inh|fr|fro|pyjon}}, from {{der|fr|LL.|pīpiōnem||chirping bird}}, accusa
 |pigeon boulant
 |pigeon bouvreuil
 |pigeon capucin
+|pigeon carrier
 |pigeon cigogne
 |pigeon colombin
 |pigeon cravaté
@@ -444,19 +446,20 @@ From {{inh|fr|fro|pyjon}}, from {{der|fr|LL.|pīpiōnem||chirping bird}}, accusa
 |pigeon de ville
 |pigeon domestique
 |pigeon domestiqué
+|pigeon dragon
 |pigeon femelle
 |pigeon grosse gorge
 |pigeonite
 |pigeon mâle
 |pigeon messager
 |pigeon migrateur
-|pigeonnier militaire
 |pigeonnage
 |pigeonnant
 |pigeonne
 |pigeonner
 |pigeonnier
 |pigeonnier contraceptif
+|pigeonnier militaire
 |pigeonneau
 |pigeonnelle
 |pigeon paon
@@ -466,17 +469,23 @@ From {{inh|fr|fro|pyjon}}, from {{der|fr|LL.|pīpiōnem||chirping bird}}, accusa
 |pigeon vole
 |pigeon voyageur
 |plumer un pigeon
-|soutien-gorge pigeonnant}}
+|soutien-gorge pigeonnant
+}}
 
-====See also====
-{{col3|fr|colombiculteur
+===See also===
+{{col4|fr
+|colombiculteur
+|colombicultrice
 |colombiculture
 |colombier
 |colombophilie
 |colombophile
 |tourte
 |tourterelle
-|tourtière}}
+|tourtereau
+|tourtière
+|tourtre
+}}
 
 ===Further reading===
 * {{R:TLFi}}
