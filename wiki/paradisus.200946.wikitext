@@ -1,17 +1,17 @@
 ==Latin==
 
 ===Etymology===
-From {{der|la|grc|παράδεισος|}}
+Borrowed from {{bor|la|grc|παράδεισος}}, ultimately from {{der|la|ira-pro|*paridayȷ́ah}}.
 
 ===Pronunciation===
-* {{la-IPA|paradīsus}}
+* {{la-IPA|paradīsus|eccl=1}}
 
 ===Noun===
 {{la-noun|paradīsus<2>}}
 
 # [[park]], [[orchard]]
-# {{lb|la|ecclesiastical}} [[Eden]], the paradise home of the first humans
-# {{lb|la|ecclesiastical}} [[Paradise]], the abode of the [[blessed]] after death
+# {{lb|la|Ecclesiastical Latin}} [[Eden]], the paradise home of the first humans
+# {{lb|la|Ecclesiastical Latin}} [[Paradise]], the abode of the [[blessed]] after death
 
 ====Declension====
 {{la-ndecl|paradīsus<2>}}
@@ -20,28 +20,44 @@ From {{der|la|grc|παράδεισος|}}
 * {{l|la|paradīsiacus}}
 * {{l|la|paradīsicola}}
 
-====Descendants====
-{{top2}}
-* {{desc|sq|parajsa}}, {{l|sq|parriz}}
-* {{desc|ca|paradís}}
-* {{desc|nl|paradijs}}
-* {{desc|en|paradise}}
-* {{desc|fr|parvis}}, {{l|fr|paradis}}
-* {{desc|fur|paradîs}}
-* {{desc|gl|paraíso}}
-* {{desc|de|Paradies}}
-* {{desc|ga|parthas}}
-{{mid2}}
+====Descendants==== 
 * {{desc|it|paradiso}}
-* {{desc|oc|paradís}}
-* {{desc|ang|paradīs}}
-* {{desc|fro|pareïs}}, {{l|fro|paredis}}, {{l|fro|parevis}}
-* {{desc|roa-opt|parayso}}
-** {{desc|pt|paraíso}}
-* {{desc|ro|paradis}}
-* {{desc|es|paraíso}}
-* {{desc|cy|paradwys}}
-{{bottom}}
+* {{desc|fro|parvis}}, {{l|fro|parevis}}
+** {{desc|fr|parvis}}
+** {{desc|enm|parvis|bor=1}}, {{l|enm|parvise}}, {{l|enm|parvys}}
+*** {{desc|en|parvis|alts=1}}
+* {{desctree|roa-opt|parayso}} 
+* {{desc|osp}}
+** {{desctree|es|paraíso}}
+* {{desc|sq|parajsa|bor=1}}, {{l|sq|parriz}}
+* {{desc|ca|paradís|bor=1}} 
+* {{desc|fur|paradîs|bor=1}}
+* {{desc|hu|paradicsom|bor=1}}
+* {{desc|oc|paradís|bor=1}} 
+* {{desc|fro|paradis|bor=1}}
+** {{desc|frm|paradis}}
+*** {{desc|fr|paradis}}
+**** {{desc|ga|parthas|bor=1}}
+**  {{desc|odt|-|bor=1|nolb=1}} Late {{desc|odt|paradīs}}
+*** {{desc|dum|paradijs}}
+**** {{desctree|nl|paradijs}}
+** {{desc|ang|-|bor=1|nolb=1}} Late {{desc|ang|paradīs}}
+*** {{desc|enm|paradis}}, {{l|enm|paradise}}, {{l|enm|paradys}}
+**** {{desc|en|paradise}}
+* {{desc|goh|paradīs|bor=1}}
+** {{desc|gmh|paradīse}}
+*** {{desc|de|Paradies}}
+* {{desc|non|paradís|bor=1}}
+** {{desc|da|paradis}}
+** {{desc|fo|paradis}}
+** {{desc|is|paradís}}
+** {{desc|no|paradis}}
+** {{desctree|sv|paradis}} 
+* {{desc|ro|paradis|bor=1}}
+* {{desc|cy|paradwys|bor=1}}
+<!--- Unsorted descendants
+* {{desc|et|paradiis|bor=1}}
+* {{desc|fy|paradys|bor=1}} --->
 
 ===References===
 * {{R:L&S}}
