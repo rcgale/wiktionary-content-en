@@ -481,8 +481,10 @@ From Old Hungarian {{m|hu|vagyon}}. See Hungarian {{m|hu|volt}}.
 ===Verb===
 {{hu-verb}}
 
-# [[be]], [[exist]]
-# [[have]]; someone ({{m|hu|-nak}}/{{m|hu|-nek}}) has something ({{m|hu|-ja}}/{{m|hu|-je}}/{{m|hu|-a}}/{{m|hu|-e}})
+# to [[be]], to [[exist]]
+#: {{syn|hu|létezik}}
+#: {{ant|hu|nincs}}
+# to [[have]]; someone ({{m|hu|-nak}}/{{m|hu|-nek}}) has something ({{m|hu|-ja}}/{{m|hu|-je}}/{{m|hu|-a}}/{{m|hu|-e}})
 #: {{ux|hu|Péter'''nek''' '''van''' egy kutyá'''ja'''.|Peter '''has''' a dog.}}
 # [[there is]]
 #: {{ux|hu|'''Van''' itt valaki?|'''Is there''' anybody here?}}
@@ -492,41 +494,36 @@ From Old Hungarian {{m|hu|vagyon}}. See Hungarian {{m|hu|volt}}.
 #:: {{ux|hu|"Szakmány módra '''van''' rám '''mérve''' minden óra: / Jöttem kegyelmedhez búcsuvevő szóra."|"Every hour '''is measured''' as though by contract. / I come to bid you now farewell."}}
 
 ====Usage notes====
-* Omission of ''van'' and ''vannak:''
-*: When used with an adjective (qualification) or a noun (whether with the definite or the indefinite article), i.e. when it answers the question ''who?'' or ''what?'' (including ''what...like?'') or ''which?'', the (indicative present third-person) forms ''van'' and ''vannak'' are omitted:
-*::: ''Béla okos.'' - Béla is clever.
-*::: ''Béla a király.'' - Béla is the king.
-*::: ''Béla egy ember.'' - Béla is a human.
+* Omission of the present-tense third-person singular and plural forms:
+*: When used with an adjective (qualification) or a noun (whether with the definite or the indefinite article), i.e. when it answers the question ''who?'' or ''what?'' (including ''what …… like?'') or ''which?'', the (indicative present third-person) forms ''van'' and ''vannak'' are omitted:
+*:: {{uxi|hu|Béla okos.|Béla '''is''' clever.}}
+*:: {{uxi|hu|Béla a király.|Béla '''is''' the king.}}
+*:: {{uxi|hu|Béla egy ember.|Béla '''is''' a human.}}
 *: On the other hand, if ''is'' or ''are'' answers the question ''where?'' or ''how?'', these verb forms will appear as usual:
-*::: ''Béla itt '''van'''.'' - Béla '''is''' here.
-*::: ''Béla jól '''van'''.'' - Béla '''is''' (feeling) well.
-*:: It also appears if ''van''/''vannak'' is the [[w:Hungarian grammar#Emphasis|focus]] of the sentence. This happens when the sentence means that the property described by the adjective (e.g. strength) reaches or exceeds some specified level and this is emphasized by the speaker. In this case, the adjective is preceded by a word like ''olyan'' (such), ''annyira'' (that much), ''elég'' (enough).
-*::: ''Béla '''van''' annyira erős, hogy felemelje a szekrényt.'' - Béla is strong enough to lift the cupboard.
-*:: The forms other than ''van'' and ''vannak'' are always used.
-*::: ''Béla okos '''volt'''.'' - Béla was clever.
-*::: ''Okos '''vagyok'''.'' - I am clever.
-*: Otherwise, all forms are used:
-*:: With adverbs and [[w:adverbial participle|adverbial participles]] (suffixed ''{{m|hu|-va}}''/''{{m|hu|-ve}}'')
-*::: ''Hogy '''van'''?'' - How is he? (also 'How are you?', formal singular)
-*::: ''El '''van''' törve.'' - It is broken.
-*:: Using in the "exists" or "there is" sense (and so with ''have'', which is expressed by ''there is'' in Hungarian)
-*::: '''''Van''' egy ház a hegyen.'' - There is a house on the mountain.
-*::: '''''Van''' egy kutyám.'' - I have a dog.
+*:: {{uxi|hu|Béla itt '''van'''.|Béla '''is''' here.}}
+*:: {{uxi|hu|Béla jól '''van'''.|Béla '''is''' (feeling) well.}}
+*: It also appears if ''van''/''vannak'' is the [[w:Hungarian grammar#Emphasis|focus]] of the sentence. This happens when the sentence means that the property described by the adjective (e.g. strength) reaches or exceeds some specified level and this is emphasized by the speaker. In this case, the adjective is preceded by a word like {{m|hu|olyan||such}}, {{m|hu|annyira||that much}}, {{m|hu|elég||enough}}.
+*:: {{uxi|hu|Béla '''van''' annyira erős, hogy felemelje a szekrényt.|Béla '''is''' strong '''enough''' to lift the cupboard.}}
+*: The forms other than ''van'' and ''vannak'' are always used.
+*:: {{uxi|hu|Béla okos '''volt'''.|Béla '''was''' clever.}}
+*:: {{uxi|hu|Okos '''vagyok'''.|I '''am''' clever.}}
+*: In other senses, all forms are used:
+*: With adverbs and [[w:adverbial participle|adverbial participles]] (suffixed ''{{m|hu|-va}}''/''{{m|hu|-ve}}'')
+*:: {{uxi|hu|Hogy '''van'''?|How '''is''' he? (''also'' How '''are''' you?, ''formal singular'')}}
+*:: {{uxi|hu|El '''van''' törve.|It '''is''' broken.}}
 
-* The negative form is {{l|hu|nincs}} or {{l|hu|nincsen}} and {{l|hu|sincs}} or {{l|hu|sincsen}} (the latter two expressing 'is not...either').
-*: '''''Nincs''' pénzem.'' - I don't have any money.
-*: Itt '' '''sincs''' étel.'' - There isn't any food here '' '''either'''. ''
-*: If the predicate includes an adjective or a noun, that is, if it answers the question ''who, what'' etc. (see above), the third person present forms are omitted again, only ''nem'' remains:
-*:: ''Béla '''nem''' tanár.'' - Béla '''is not''' a teacher.
+* The negative form is {{l|hu|nincs}} or {{l|hu|nincsen}} and {{l|hu|sincs}} or {{l|hu|sincsen}} (the latter two expressing 'is not … either').
+*: {{uxi|hu|'''Nincs''' pénzem.|I '''don't have''' any money.}}
+*: {{uxi|hu|Itt '' '''sincs''' étel.|There ''''isn't''' any food here '''either'''.}}
+* If the predicate includes an adjective or a noun, that is, if it answers the question ''who, what'' etc. (see above), the third person present forms are omitted again, only ''nem'' remains:
+*: {{uxi|hu|Béla '''nem''' tanár.|Béla '''is not''' a teacher.}}
+
+{{sense|exist, there is, to have}} (''have'' is expressed by ''there is'' in Hungarian):
+*: {{uxi|hu|'''Van''' egy ház a hegyen.|'''There is''' a house on the mountain.}}
+*: {{uxi|hu|'''Van''' egy kutyám.|I '''have''' a dog.|lit='''There is''' a my-dog.}}
 
 ====Conjugation====
 {{hu-conj-van}}
-
-====Synonyms====
-* {{sense|exist}} {{l|hu|létezik}}
-
-====Antonyms====
-* {{l|hu|nincs}}
 
 ====Derived terms====
 * {{l|hu|vanni}}
@@ -544,6 +541,9 @@ From Old Hungarian {{m|hu|vagyon}}. See Hungarian {{m|hu|volt}}.
 |útban van
 |van benne valami
 }}
+
+===References===
+<references/>
 
 {{cln|hu|three-letter words}}
 
