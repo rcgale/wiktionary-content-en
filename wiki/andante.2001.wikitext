@@ -12,8 +12,8 @@ Borrowed from {{bor|en|it|andante}}.
 ====Translations====
 {{trans-top|passage played in a moderately slow tempo}}
 * Finnish: {{t+|fi|andante}}
-{{trans-mid}}
 * Interlingue: {{t|ie|andante}}
+{{trans-mid}}
 * Portuguese: {{t|pt|andante|m}}
 {{trans-bottom}}
 
@@ -43,7 +43,7 @@ Borrowed from {{bor|fi|it|andante}}.
 ===Noun===
 {{fi-noun}}
 
-# {{l|en|andante}}
+# {{lb|fi|music}} {{l|en|andante}}
 
 ====Declension====
 Rarely declined.
@@ -53,6 +53,10 @@ Rarely declined.
 
 ==French==
 {{wikipedia|lang=fr}}
+
+===Pronunciation===
+* {{fr-IPA}}
+* {{homophones|fr|andantes}}
 
 ===Adverb===
 {{fr-adv}}
@@ -91,7 +95,7 @@ Rarely declined.
 # [[agile]]
 
 ===Anagrams===
-* {{l|it|dannate}}
+* {{anagrams|it|a=aadennt|dannate}}
 
 ----
 
@@ -105,19 +109,18 @@ Rarely declined.
 * {{rhymes|pt|ɐ̃ntʃi}}
 
 ===Etymology 1===
-From {{der|pt|roa-opt|andante}}, from {{m|roa-opt|andar||to walk}} + {{m|roa-opt|-ante}}.
+From {{der|pt|roa-opt|andante}}, from {{m|roa-opt|andar|t=to walk}} + {{m|roa-opt|-ante}}.
 
 ====Adjective====
 {{pt-adj|andant|e}}
 
 # who {{l|en|roam|roams}}, {{l|en|wander|wanders}}
-#: {{ux|pt|Cavaleiro '''andante'''.|translation=Knight-'''errant'''.|inline=1}}
-
-=====Synonyms=====
-* {{l|pt|erradio}}, {{l|pt|errante}}, {{l|pt|itinerante}}, {{l|pt|vagabundo}}, {{l|pt|vagamundo}}, {{l|pt|vagante}}
+#: {{uxi|pt|Cavaleiro '''andante'''.|Knight-'''errant'''.}}
+#: {{syn|pt|erradio|errante|itinerante|vagabundo|vagamundo|vagante}}
 
 =====Related terms=====
-{{rel3|pt|andada
+{{col4|pt
+|andada
 |andador
 |andamento
 |andança
@@ -127,21 +130,19 @@ From {{der|pt|roa-opt|andante}}, from {{m|roa-opt|andar||to walk}} + {{m|roa-opt
 }}
 
 ====Noun====
-{{pt-noun|mf|s}}
+{{pt-noun|mf}}
 
 # {{l|en|roamer}} {{gloss|one who roams}}
-
-=====Synonyms=====
-* {{l|pt|itinerante}}, {{l|pt|vagabundo}}
+#: {{syn|pt|itinerante|vagabundo}}
 
 ====See also====
 * {{l|pt|ambulante}}
 
 ===Etymology 2===
-Borrowed from {{bor|pt|it|andante||going}}.
+Borrowed from {{bor|pt|it|andante|t=going}}.
 
 ====Noun====
-{{pt-noun|m|s}}
+{{pt-noun|m}}
 
 # {{lb|pt|music}} {{l|en|andante}} {{gloss|passage to be played in a moderately slow tempo}}
 
@@ -149,9 +150,7 @@ Borrowed from {{bor|pt|it|andante||going}}.
 {{pt-adj|andant|e}}
 
 # {{lb|pt|music}} {{l|en|andante}} {{gloss|played in a moderately slow tempo}}
-
-=====Coordinate terms=====
-* {{l|pt|alegro}}, {{l|pt|adágio}}
+#: {{coordinate terms|pt|adágio|alegro}}
 
 =====Related terms=====
 * {{l|pt|andantino}}
@@ -166,13 +165,13 @@ Borrowed from {{bor|pt|it|andante||going}}.
 * {{es-IPA}}
 
 ===Etymology 1===
-From {{affix|es|andar|gloss1=to walk|-ante}}.
+From {{af|es|andar|t1=to walk|-ante}}.
 
 ====Adjective====
 {{es-adj|andant|e}}
 
 # [[walking]], who {{l|en|roam|roams}}, who {{l|en|wander|wanders}}, [[errant]]
-#: {{ux|es|Caballero '''andante'''.|translation=Knight-'''errant'''.}}
+#: {{uxi|es|Caballero '''andante'''.|Knight-'''errant'''.}}
 
 ====Noun====
 {{es-noun|mf|andantes}}
@@ -183,10 +182,10 @@ From {{affix|es|andar|gloss1=to walk|-ante}}.
 * {{l|es|andar}}
 
 ===Etymology 2===
-Borrowed from {{bor|es|it|andante||going}}.
+Borrowed from {{bor|es|it|andante|t=going}}.
 
 ====Noun====
-{{es-noun|m|andantes}}
+{{es-noun|m}}
 
 # {{lb|es|music}} A tempo mark directing that a passage is to be played in a moderately slow tempo; faster than adagio but slower than allegretto.
 # {{lb|es|music}} A passage having this mark.
