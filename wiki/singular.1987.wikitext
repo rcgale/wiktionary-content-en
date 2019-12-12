@@ -2,10 +2,10 @@
 ==English==
 
 ===Alternative forms===
-* {{q|abbreviation}}: {{l|en|sg.}}
+* {{alter|en|sg.||abbreviation}}
 
 ===Etymology===
-From {{inh|en|enm|singuler}}, borrowed from {{bor|en|fro|}}, from {{der|en|la|singularis||alone of its kind}}, from {{der|en|la|singulus||single}}.
+From {{inh|en|enm|singuler}}, borrowed from {{bor|en|fro|-}}, from {{der|en|la|singulāris|t=alone of its kind}}, from {{der|en|la|singulus|t=single}}.
 
 ===Pronunciation===
 * {{a|GA}} {{IPA|en|/ˈsɪŋɡjəlɚ/}}
@@ -16,47 +16,53 @@ From {{inh|en|enm|singuler}}, borrowed from {{bor|en|fro|}}, from {{der|en|la|si
 {{en-adj}}
 
 # Being only [[one]] of a [[large]]r [[population]].
-#: ''A '''singular''' experiment cannot be regarded as scientific proof of the existence of a phenomenon.''
+#: {{ux|en|A '''singular''' experiment cannot be regarded as scientific proof of the existence of a phenomenon.}}
+#: {{syn|en|individual}}
+#: {{ant|en|general}}
 # Being the [[only]] one of the [[kind]]; [[unique]].
-#: ''She has a '''singular''' personality.''
+#: {{ux|en|She has a '''singular''' personality.}}
 #* {{rfdate|en|and other bibliographic particulars, eg, title of work, page, url, full name of author}} {{w|Addison}}
 #*: These busts of the emperors and empresses are all very scarce, and some of them almost '''singular''' in their kind.
 #* {{rfdate|en|and other bibliographic particulars, eg, title of work, page, url, full name of author}} {{w|Chaucer}}
 #*: And God forbid that all a company / Should rue a '''singular''' man's folly.
 #: {{rfquotek|en|Francis Bacon}}
+#: {{syn|en|unique}}
 # Distinguished by superiority: [[peerless]], [[unmatched]], [[eminent]], [[exceptional]], [[extraordinary]].
-#: ''a man of '''singular''' gravity or attainments''
+#: {{ux|en|a man of '''singular''' gravity or attainments}}
+#: {{syn|en|exceptional|extraordinary|remarkable}}
 # Out of the ordinary; curious.
-#: ''It was very '''singular'''; I don't know why he did it.''
+#: {{ux|en|It was very '''singular'''; I don't know why he did it.}}
 #* {{rfdate|en|and other bibliographic particulars, eg, title of work, page, url, full name of author}} {{w|Denham}}
 #*: So '''singular''' a sadness / Must have a cause as strange as the effect.
 #* {{rfdate|en|and other bibliographic particulars, eg, title of work, page, url, full name of author}} {{w|Milton}}
 #*: His zeal / None seconded, as out of season judged, / Or '''singular''' and rash.
+#: {{syn|en|curious|eccentric|funny|odd|peculiar|rum|rummy|strange|unusual}}
 # {{lb|en|grammar}} Referring to only one thing or person.
+#: {{ant|en|plural}}
 # {{lb|en|linear algebra|of matrix}} Having no [[inverse]].
+#: {{syn|en|non-invertible}}
+#: {{ant|en|invertible|non-singular}}
 # {{lb|en|linear algebra|of transformation}} Having the property that the matrix of coefficients of the new variables has a determinant equal to zero.
 # {{lb|en|set theory|of a cardinal number}} Not equal to its own {{l|en|cofinality}}.
-# {{lb|en|legal}} Each; individual.
-#: ''to convey several parcels of land, all and '''singular'''''
+# {{lb|en|law}} Each; individual.
+#: {{ux|en|to convey several parcels of land, all and '''singular'''}}
 # {{lb|en|obsolete}} Engaged in by only one on a side; single.
 #* {{rfdate|en|and other bibliographic particulars, eg, title of work, page, url, full name of author}} {{w|Holinshed}}
 #*: to try the matter thus together in a '''singular''' combat
 
 ====Synonyms====
-* {{sense|being only one}} {{l|en|individual}}; see also [[Thesaurus:specific]]
-* {{sense|being the only one of a kind}} {{l|en|unique}}; see also [[Thesaurus:unique]]
-* {{sense|distinguished by superiority}} {{l|en|exceptional}}, {{l|en|extraordinary}}, {{l|en|remarkable}}
-* {{sense|being out of the ordinary}} {{l|en|curious}}, {{l|en|eccentric}}, {{l|en|funny}}, {{l|en|odd}}, {{l|en|peculiar}}, {{l|en|strange}}, {{l|en|rum}}, {{l|en|rummy}}, {{l|en|unusual}}; see also [[Thesaurus:strange]]
-* {{sense|linear algebra: of matrix: having no inverse}} {{l|en|non-invertible}}
+* {{sense|being only one}} see also [[Thesaurus:specific]]
+* {{sense|being the only one of a kind}} see also [[Thesaurus:unique]]
+* {{sense|being out of the ordinary}} see also [[Thesaurus:strange]]
 
 ====Antonyms====
-* {{sense|being only one}} {{l|en|general}}; see also [[Thesaurus:generic]]
-* {{sense|grammar: referring to only one thing}} {{l|en|plural}}
-* {{sense|linear algebra: of matrix: having no inverse}} {{l|en|invertible}}, {{l|en|non-singular}}
+* {{sense|being only one}} see also [[Thesaurus:generic]]
 
 ====Derived terms====
-* {{l|en|singularity}}
-* {{l|en|singularize}}
+{{col2|en
+|singularity
+|singularize
+}}
 
 ====Translations====
 {{trans-top|being only one of larger population}}
@@ -91,8 +97,8 @@ From {{inh|en|enm|singuler}}, borrowed from {{bor|en|fro|}}, from {{der|en|la|si
 {{trans-mid}}
 * Romanian: {{t+|ro|singular|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|поједини}}, {{t|sh|једини}}, {{t|sh|особит}}
-*: Roman: {{t+|sh|pojedini}}, {{t+|sh|jedini}}, {{t+|sh|osobit}}
+*: Cyrillic: {{t|sh|појѐдӣнӣ}}, {{t|sh|јѐдӣнӣ}}, {{t|sh|о̀собит}}
+*: Roman: {{t+|sh|pojèdīnī}}, {{t+|sh|jèdīnī}}, {{t+|sh|òsobit}}
 * Slovak: {{t|sk|jedinečný}}
 * Spanish: {{t+|es|singular}}
 * Swedish: {{t+|sv|ensam}}, {{t+|sv|unik}}
@@ -129,8 +135,8 @@ From {{inh|en|enm|singuler}}, borrowed from {{bor|en|fro|}}, from {{der|en|la|si
 * Portuguese: {{t+|pt|singular}}, {{t+|pt|único}}
 * Romanian: {{t+|ro|neobișnuit}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|необичан}}
-*: Roman: {{t+|sh|neobičan}}
+*: Cyrillic: {{t|sh|не̏обичан}}
+*: Roman: {{t+|sh|nȅobičan}}
 * Slovak: {{t|sk|jedinečný}}
 * Spanish: {{t+|es|singular}}
 * Swedish: {{t+|sv|besynnerlig}}, {{t+|sv|egendomlig}}, {{t+|sv|säregen}}
@@ -206,8 +212,8 @@ From {{inh|en|enm|singuler}}, borrowed from {{bor|en|fro|}}, from {{der|en|la|si
 {{checktrans-top}}
 * Indonesian: {{t+check|id|tunggal}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-check|sh|поједини|m|sc=Cyrl}}, {{t-check|sh|једини|m|sc=Cyrl}}
-*: Roman: {{t+check|sh|pojedini|m}}, {{t+check|sh|jedini|m}}
+*: Cyrillic: {{t-check|sh|појѐдӣнӣ|m}}, {{t-check|sh|јѐдӣнӣ|m}}
+*: Roman: {{t+check|sh|pojèdīnī|m}}, {{t+check|sh|jèdīnī|m}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -215,10 +221,8 @@ From {{inh|en|enm|singuler}}, borrowed from {{bor|en|fro|}}, from {{der|en|la|si
 {{en-noun}}
 
 # {{lb|en|grammar}} A form of a word that refers to only one person or thing.
+#: {{ant|en|plural}}
 # {{lb|en|logic}} That which is not general; a specific determinate instance.
-
-====Antonyms====
-* {{sense|grammar: form of a word that refers to only one thing}} {{l|en|plural}}
 
 ====Related terms====
 * {{l|en|singulare tantum}}
@@ -228,12 +232,12 @@ From {{inh|en|enm|singuler}}, borrowed from {{bor|en|fro|}}, from {{der|en|la|si
 * Albanian: {{t+|sq|njëjës}}, {{t|sq|numri njëjës|m}}
 * Arabic: {{t|ar|مُفْرَد|m}}, {{t|ar|صِيغَة اَلْمُفْرَد|f|tr=ṣīḡat al-mufrad}}
 * Armenian: {{t+|hy|եզակի թիվ}}, {{t+|hy|եզակի}}
-* Belarusian: {{t|be|адзіно́чны лік|m|sc=Cyrl}}
-* Bulgarian: {{t|bg|еди́нствено число́|n|sc=Cyrl}}
+* Belarusian: {{t|be|адзіно́чны лік|m}}
+* Bulgarian: {{t|bg|еди́нствено число́|n}}
 * Burmese: {{t+|my|ဧကဝုစ်ကိန်း}}
 * Catalan: {{t+|ca|singular|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|單數|sc=Hani}}, {{t+|cmn|单数|tr=dānshù|sc=Hani}}
+*: Mandarin: {{t+|cmn|單數}}, {{t+|cmn|单数|tr=dānshù}}
 * Czech: {{t+|cs|jednotné číslo|n}}
 * Danish: {{t+|da|ental}}, {{t+|da|singularis}}
 * Dutch: {{t+|nl|enkelvoud|n}}
@@ -244,30 +248,30 @@ From {{inh|en|enm|singuler}}, borrowed from {{bor|en|fro|}}, from {{der|en|la|si
 * Georgian: {{t|ka|მხოლოობითი რიცხვი}}
 * German: {{t+|de|Einzahl|f}}, {{t+|de|Singular|m}}, {{t|de|Singularis|m}} {{q|dated}}
 * Greenlandic: {{t|kl|ataasersiut}}
-* Hindi: {{t+|hi|एकवचन|m|sc=Deva}}
+* Hindi: {{t+|hi|एकवचन|m}}
 * Hungarian: {{t+|hu|egyes}}
 * Icelandic: {{t+|is|eintala|f}}
 * Indonesian: {{t-check|id|[[bentuk]] [[tunggal]]}} {{attention|id|2=was "[[bentuk]] [[tunggal]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Ingrian: {{t|izh|üksikko}}
 * Italian: {{t+|it|singolare|m}}
-* Japanese: {{t+|ja|単数形|tr=tansū-kei}}, {{t+|ja|単数|tr=たんすう, tansū|sc=Jpan}}
+* Japanese: {{t+|ja|単数形|tr=tansū-kei}}, {{t+|ja|単数|tr=たんすう, tansū}}
 * Khmer: {{t|km|ឯកវចនៈ}}
 {{trans-mid}}
 * Korean: {{t+|ko|단수}}
 * Lao: {{t|lo|ເອກກະພົດ}}
-* Latin: {{t|la|[[numerus]] [[singularis]]}}, {{t|la|singularis}}
+* Latin: {{t|la|[[numerus]] [[singulāris]]}}, {{t|la|singulāris}}
 * Latvian: {{t|lv|vienskaitlis|m}}
-* Macedonian: {{t|mk|е́днина|f|sc=Cyrl}}
-* Mongolian: {{t+|mn|ганц тоо|sc=Cyrl}}
+* Macedonian: {{t|mk|е́днина|f}}
+* Mongolian: {{t+|mn|ганц тоо}}
 * Old French: {{t|fro|singuler|m}}
-* Persian: {{t+|fa|مفرد|tr=mofrad|sc=fa-Arab}}
+* Persian: {{t+|fa|مفرد|tr=mofrad}}
 * Polish: {{t+|pl|liczba pojedyncza|f}}
 * Portuguese: {{t+|pt|singular}}
 * Quechua: {{t|qu|sapa}}
 * Russian: {{t+|ru|еди́нственное число́|n}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|једнина|f}}
-*: Roman: {{t+|sh|jednina|f}}
+*: Cyrillic: {{t|sh|једнѝна|f}}
+*: Roman: {{t+|sh|jednìna|f}}
 * Slovak: {{t|sk|jednotné číslo|n}}, {{t+|sk|singulár|m}}
 * Slovene: {{t+|sl|ednina|f}}
 * Spanish: {{t+|es|singular|m}}
@@ -275,7 +279,7 @@ From {{inh|en|enm|singuler}}, borrowed from {{bor|en|fro|}}, from {{der|en|la|si
 * Tajik: {{t+|tg|мунфарид}}, {{t+|tg|ягона}}
 * Thai: {{t+|th|เอกพจน์}}
 * Turkish: {{t+|tr|tekil}}
-* Ukrainian: {{t+|uk|однина́|f|sc=Cyrl}}
+* Ukrainian: {{t+|uk|однина́|f}}
 * Vietnamese: {{t+|vi|số ít}}
 * Volapük: {{t+|vo|balnum}}
 * Votic: {{t|vot|ühsikko}}
@@ -285,10 +289,12 @@ From {{inh|en|enm|singuler}}, borrowed from {{bor|en|fro|}}, from {{der|en|la|si
 
 ===See also===
 * {{list:grammatical numbers/en}}
-* {{l|en|simplex}}
-* {{l|en|simple}}
-* {{l|en|single}}
-* {{l|en|singulus}}
+{{col4|en
+|simplex
+|simple
+|single
+|singulus
+}}
 
 ===Further reading===
 * {{R:Webster 1913}}
@@ -315,16 +321,16 @@ Borrowed from {{bor|ca|la|singulāris}}. {{doublet|ca|senglar}}.
 {{ca-adj|mf}}
 
 # {{l|en|singular}}
-
-====Antonyms====
-* {{l|ca|plural}}
+#: {{ant|ca|plural}}
 
 ====Derived terms====
 * {{l|ca|singularment}}
 
 ====Related terms====
-* {{l|ca|singularitat}}
-* {{l|ca|singularitzar}}
+{{col2|ca
+|singularitat
+|singularitzar
+}}
 
 [[Category:ca:Grammar]]
 
@@ -338,9 +344,7 @@ Borrowed from {{bor|gl|la|singulāris}}.
 ===Adjective===
 {{gl-adj|f=singular|pl=singulares}}
 
-# {{l|en|singular}}
-
-[[Category:gl:Grammar]]
+# {{lb|gl|grammar}} {{l|en|singular}}
 
 ----
 
@@ -380,6 +384,7 @@ Borrowed from {{bor|sh|la|singulāris}}.
 {{sh-noun|g=m|head=sȉngulār}}
 
 # {{l|en|singular}}
+#: {{syn|sh|jednìna}}
 
 ====Declension====
 {{sh-decl-noun
@@ -391,9 +396,6 @@ Borrowed from {{bor|sh|la|singulāris}}.
 |singularu|singularima
 |singularom|singularma
 }}
-
-====Synonyms====
-* {{l|sh|jednìna}}
 
 ----
 
