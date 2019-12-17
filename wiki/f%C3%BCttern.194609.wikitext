@@ -1,18 +1,47 @@
 {{also|futtern}}
 ==German==
 
-===Alternative forms===
-* {{l|de|futtern}}
-
 ===Pronunciation===
-* {{IPA|de|/ˈfʏtɐn/}}
+* {{IPA|de|/ˈfʏtərn/|[ˈfʏtɐn]}}
 * {{audio|de|De-füttern.ogg|audio}}
 
-===Verb===
+===Etymology 1===
+From {{inh|de|gmh|vüetern}}, from {{inh|de|goh|fuotiren}}, derived from {{m|goh|fuotar}}, from {{der|de|gem-pro|*fōdrą|t=fodder}}. Equivalent to {{suffix|de|Futter|-n}}. Compare {{cog|nl|voeren|t=to feed}}, dialectal {{m+|en|to [[fodder]]}}.
+
+====Alternative forms====
+* {{l|de|futtern}} {{q|obsolete in this sense}}
+
+====Verb====
 {{de-verb-weak|füttert|fütterte|gefüttert}}
 
-# to [[feed]]
-# to [[line]] (''to cover the inner surface of'')
+# to [[feed]] {{gloss|to give food to}}
 
-====Conjugation====
+=====Usage notes=====
+* The word is used chiefly with small children and animals, or otherwise when someone raises the food directly to another person’s mouth. For “to provide food” in general the usual word is {{m|de|ernähren}}.
+
+=====Derived terms=====
+{{der3|de
+|abfüttern
+|beifüttern
+|durchfüttern
+|Fütterung
+|überfüttern
+|[[unterfüttern|unterfüttern (“to feed insufficiently”)]]
+|verfüttern
+|zufüttern
+}}
+
+===Etymology 2===
+From {{inh|de|gmh|vüetern}}, derived from {{m|gmh|vueter}}, from {{der|de|goh|fuotar}}, from {{der|de|gem-pro|*fōdrą|t=sheath, wrapping, lining}}. Equivalent to {{suffix|de|Futter|-n}}. Compare {{cog|nl|voeren|t=to line}}. Probably remotely related to etymology 1, but not identical.
+
+====Verb====
+{{de-verb-weak|füttert|fütterte|gefüttert}}
+
+# to [[line]] {{gloss|to cover the inner surface of a garment or bag}}
+
+=====Derived terms=====
+* {{l|de|ausfüttern}}
+* {{l|de|unterfüttern|t=to undergird}}
+
+===Conjugation===
 {{de-conj-weak-ern|fütt|gefüttert|h}}
