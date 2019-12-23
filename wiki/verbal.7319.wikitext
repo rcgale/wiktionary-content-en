@@ -4,7 +4,7 @@
 
 ===Etymology===
 {{PIE root|en|werh₁}}
-From {{etyl|fro|en}} {{m|fro|verbal}}, from {{etyl|LL.|en}} {{m|la|verbalis||belonging to a [[word]]}}.
+From {{der|en|fro|verbal}}, from {{der|en|LL.|verbālis|t=belonging to a [[word]]}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|en|/ˈvɜː.bəl/|[ˈvɜː.bɫ̩]}}, {{enPR|vûrʹ-bəl}}
@@ -51,18 +51,19 @@ From {{etyl|fro|en}} {{m|fro|verbal}}, from {{etyl|LL.|en}} {{m|la|verbalis||bel
 * {{sense|expressly stated}} {{l|en|unsaid}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|verbal complement}}
-* {{l|en|verbal diarrhoea}}
-* {{l|en|verbal noun}}
-{{der-mid}}
-* {{l|en|verbal regency}}
-* {{l|en|verbal warning}}
-{{der-bottom}}
+{{col3|en
+|verbal complement
+|verbal diarrhoea
+|verbal noun
+|verbal regency
+|verbal warning
+}}
 
 ====Related terms====
-* {{l|en|verbalism}}
-* {{l|en|verbality}}
+{{col2|en
+|verbalism
+|verbality
+}}
 
 ====Translations====
 {{trans-top|of, or relating to words}}
@@ -204,11 +205,9 @@ From {{etyl|fro|en}} {{m|fro|verbal}}, from {{etyl|LL.|en}} {{m|la|verbalis||bel
 {{en-noun}}
 
 # {{lb|en|grammar}} A verb form which does not function as a [[predicate]], or a word derived from a verb. In English, [[infinitive]]s, [[participle]]s and [[gerund]]s are verbals.
+#: {{syn|en|non-finite verb}}
 # {{lb|en|UK|Ireland}} A [[confession]] given to [[police]].
 #* {{quote-book|en|year=1982|author=New South Wales. Parliament|title=Parliamentary Debates|page=2496|passage=They were convicted on the evidence of an agent provocateur named Richard Seary, backed up by police '''verbals''' from three police officers who gave evidence of six '''verbals''' in which the three accused were supposed to have admitted their guilt.}}
-
-====Synonyms====
-* {{sense|verb form}} {{l|en|non-finite verb}}
 
 ====Translations====
 {{trans-top|grammar}}
@@ -253,7 +252,7 @@ From {{etyl|fro|en}} {{m|fro|verbal}}, from {{etyl|LL.|en}} {{m|la|verbalis||bel
 ==Catalan==
 
 ===Etymology===
-From {{der|ca|LL.|verbalis}}.
+From {{der|ca|LL.|verbālis}}.
 
 ===Pronunciation===
 * {{ca-IPA}}
@@ -266,8 +265,10 @@ From {{der|ca|LL.|verbalis}}.
 # {{lb|ca|grammar}} {{l|en|verbal}} {{gloss|relating to verbs}}
 
 ====Derived terms====
-* {{l|ca|verbalitzar}}
-* {{l|ca|verbalment}}
+{{col2|ca
+|verbalitzar
+|verbalment
+}}
 
 ====Related terms====
 * {{l|ca|verb}}
@@ -280,7 +281,7 @@ From {{der|ca|LL.|verbalis}}.
 ==French==
 
 ===Etymology===
-Borrowed from {{bor|fr|LL.|verbālis}}. Synchronically analysable as {{suffix|fr|verbe|al}}.
+Borrowed from {{bor|fr|LL.|verbālis}}. Synchronically analysable as {{af|fr|verbe|-al}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -308,19 +309,17 @@ Borrowed from {{bor|fr|LL.|verbālis}}. Synchronically analysable as {{suffix|fr
 {{de-adj|-}}
 
 # {{l|en|verbal}}
+#: {{syn|de|mündlich}}
 
 ====Declension====
 {{de-decl-adj-notcomp|verbal}}
-
-====Synonyms====
-* {{l|de|mündlich}}
 
 ----
 
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|LL.|pt}} {{m|la|verbalis}}.
+From {{der|pt|LL.|verbālis}}.
 
 ===Adjective===
 {{pt-adj|verba|l}}
@@ -332,7 +331,7 @@ From {{etyl|LL.|pt}} {{m|la|verbalis}}.
 ==Spanish==
 
 ===Etymology===
-From {{der|es|LL.|verbalis}}.
+From {{der|es|LL.|verbālis}}.
 
 ===Pronunciation===
 * {{es-IPA}}
@@ -345,11 +344,14 @@ From {{der|es|LL.|verbalis}}.
 # {{lb|es|grammar}} {{l|en|verbal}} {{gloss|relating to verbs}}
 
 ====Derived terms====
-* {{l|es|verbalizar}}
-* {{l|es|verbalmente}}
+{{col3|es
+|pluriverbal
+|verbalizar
+|verbalmente
+}}
 
 ===Noun===
-{{es-noun|mf|verbales}}
+{{es-noun|mf}}|verbales
 
 # {{lb|es|grammar}} {{l|en|verbal}}
 
