@@ -310,8 +310,8 @@ Idioms:
 * Albanian: {{t+|sq|vrapoj}}
 * American Sign Language: {{t|ase|S@SideChesthigh-S@SideChesthigh CirclesMidline-CirclesMidline}}
 * Arabic: {{t+|ar|رَكَضَ}}, {{t+|ar|جَرَى}}
-*: Egyptian Arabic: {{t|arz|جري|tr=geri|sc=Arab}}
-*: Hijazi Arabic: {{t|acw|جري|tr=jiri|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|جري|tr=gerī|sc=Arab}}
+*: Hijazi Arabic: {{t|acw|جري|tr=jirī|sc=Arab}}
 *: Moroccan Arabic: {{t|ary|جْرى|tr=jra}}
 * Armenian: {{t+|hy|վազել}}
 * Aromanian: {{t|rup|fug}}, {{t|rup|alag}}
@@ -355,7 +355,7 @@ Idioms:
 *: Ancient: {{t|grc|τρέχω}}
 * Gujarati: {{t|gu|દોડવું}}
 * Hebrew: {{t+|he|רָץ|tr=rats}}
-* Hindi: {{t+|hi|दौड़ना|tr=dauṛnā}}
+* Hindi: {{t+|hi|दौड़ना}}
 * Hungarian: {{t+|hu|fut}}
 * Icelandic: {{t+|is|hlaupa}}
 * Ido: {{t+|io|kurar}}, {{t+|io|hastar}}
@@ -369,7 +369,7 @@ Idioms:
 * Korean: {{t+|ko|달리다}}, {{t+|ko|뛰다}}
 * Kurdish:
 *: Kurmanji: {{t+|kmr|bezîn}}, {{t+|kmr|revîn}}, {{t+|kmr|bazdan}}
-*: Sorani: {{t+|ku|ڕاکردن|tr=rakirdin}}
+*: Sorani: {{t+|ku|ڕاکردن}}
 * Kyrgyz: {{t+|ky|жүгүрүү|sc=Cyrl}}
 * Lao: {{t|lo|ແລ່ນ}}
 * Latgalian: {{t|ltg|skrīt}}
@@ -386,7 +386,7 @@ Idioms:
 * Maori: {{t|mi|oma}}
 * Mongolian: {{t+|mn|гүйх}}
 * North Frisian: {{qualifier|Föhr-Amrum}} {{t|frr|luup}}, {{t|frr|laap}} {{qualifier|Sylt}}
-* Northern Altai: {{t|atv|чӱгӱрер|tr=ćügürer}}
+* Northern Altai: {{t|atv|чӱгӱрер}}
 * Northern Ohlone: {{t|cst|othemhimah}}
 * Norwegian: {{t+|no|løpe}}, {{t+|no|springe}}
 * Novial: {{t|nov|kurse}}
@@ -419,7 +419,7 @@ Idioms:
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|běgaś|impf}} {{qualifier|abstract}}, {{t|dsb|běžaś|impf}} {{qualifier|concrete}}
 *: Upper Sorbian: {{t|dsb|běhać|impf}} {{qualifier|abstract}}, {{t|hsb|běžeć|impf}} {{qualifier|concrete}}
-* Southern Altai: {{t|alt|јӱгӱрӱ|tr=jügürü}}
+* Southern Altai: {{t|alt|јӱгӱрӱ}}
 * Spanish: {{t+|es|correr}}
 * Swahili: {{t|sw|kukimbia}}
 * Swedish: {{t+|sv|springa}}
@@ -469,13 +469,13 @@ Idioms:
 * Czech: {{t|cs|prohánět}}, {{t|cs|prohnat}}
 {{trans-mid}}
 * Finnish: {{t+|fi|juoksuttaa}}, {{t+|fi|ajaa}}
-* Russian: {{t+|ru|гнать}}, {{t+|ru|гоня́ть|impf}} ''(abstract)''; {{t+|ru|погоня́ть|impf}} ''(esp. cattle)''; {{t+|ru|вести́|impf}}; {{t+|ru|води́ть|impf}} ''(abstract)''; {{t+|ru|проводи́ть|impf}}, {{t+|ru|провести́|pf}};
+* Russian: {{t+|ru|гнать}}, {{t+|ru|гоня́ть|impf}} {{q|abstract}}; {{t+|ru|погоня́ть|impf}} {{q|esp. cattle}}; {{t+|ru|вести́|impf}}; {{t+|ru|води́ть|impf}} ''(abstract)''; {{t+|ru|проводи́ть|impf}}, {{t+|ru|провести́|pf}};
 {{trans-bottom}}
 
 {{trans-top|to be in charge of}}
 * Czech: {{t+|cs|řídit}}
 * Finnish: {{t+|fi|vetää}}, {{t+|fi|vastata}}, {{t+|fi|hallita}}, {{t+|fi|johtaa}}
-* Hebrew: {{t+|he|נִהֵל|tr=Niheil}}
+* Hebrew: {{t+|he|נִהֵל|tr=niheil}}
 * Icelandic: {{t+|is|reka}}, {{t|is|leiða}}, {{t+|is|stýra}}
 * Italian: {{t+|it|condurre}}
 * Korean: {{t+|ko|맡다}}
@@ -656,7 +656,7 @@ Idioms:
 {{trans-top|to transport someone or something}}
 * Finnish: {{t+|fi|ajaa}}, {{t+|fi|viedä}}
 {{trans-mid}}
-* Russian: {{t+|ru|вози́ть|impf}}, {{t+|ru|везти́|impf}} ''(abstract)''
+* Russian: {{t+|ru|вози́ть|impf}}, {{t+|ru|везти́|impf}} {{q|abstract}}
 {{trans-bottom}}
 
 {{trans-see|to smuggle illegal goods|smuggle}}
@@ -942,7 +942,7 @@ Idioms:
 {{trans-mid}}
 * Macedonian: {{t|mk|тира́ж|m}}, {{t|mk|траење|n}}
 * Portuguese: {{t+|pt|tiragem|f}}
-* Romanian: {{t+|ro|tiraj}} (''for magazines'')
+* Romanian: {{t+|ro|tiraj}} {{q|for magazines}}
 * Russian: {{t+|ru|тира́ж}}, {{t+|ru|па́ртия}}
 {{trans-bottom}}
 
@@ -966,7 +966,7 @@ Idioms:
 * French: {{t+|fr|galoper}}
 * Italian: {{t|it|galoppata|f}}, {{t|it|trotterellata|f}}
 {{trans-mid}}
-* Japanese: {{t|ja|襲歩|tr=shūho}} (''for horse riding'')
+* Japanese: {{t|ja|襲歩|tr=shūho}} {{q|for horse riding}}
 * Macedonian: {{t|mk|трк|m}}
 * Portuguese: {{t+|pt|galopar}}
 * Romanian: {{t+|ro|trap}}
