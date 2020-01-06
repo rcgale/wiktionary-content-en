@@ -1,8 +1,7 @@
 ==English==
-{{wikipedia}}
 
 ===Etymology===
-{{blend|en|quantum|bit}}, influenced by {{m|en|cubit}}. Coined by American physicist {{w|Benjamin Schumacher}} in 1995.
+{{blend|en|quantum|bit}}, influenced by {{m|en|cubit}}. {{coin|en|occ=American physicist|Benjamin Schumacher|in=1995}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|en|/ˈkjuːbɪt/}}
@@ -13,12 +12,11 @@
 {{en-noun}}
 
 # {{lb|en|computing}} A [[quantum bit]]; the [[unit]] of [[quantum]] [[information]] described by a [[superposition]] of [[two]] [[state]]s; a [[quantum]] [[bit]] in a [[quantum computer]] capable of being in a state of [[superposition]].
+#: {{syn|en|qbit|quantum bit}}
+#: {{cot|en|bit}}
 #* '''2012''', ‘An uncertain future’, ''The Economist'', 25 Feb 2012:
 #*: Each extra '''qubit''' in a quantum machine doubles the number of simultaneous operations it can perform.
-
-====Synonyms====
-* {{l|en|qbit}}
-* {{l|en|quantum bit}}
+#* {{quote-web|en|work=New York Times|date=2019-10-23|author=Cade Metz|title=Google Claims a Quantum Breakthrough That Could Change Computing|url=https://www.nytimes.com/2019/10/23/technology/quantum-computing-google.html|passage=By harnessing that odd behavior, scientists can instead build a quantum bit, or '''qubit''', which stores a combination of 1 and 0. Two '''qubits''' can hold four values at once. And as the number of '''qubits''' grows, a quantum computer becomes exponentially more powerful.}}
 
 ====Derived terms====
 * {{l|en|multiqubit}}
@@ -45,7 +43,10 @@
 {{trans-bottom}}
 
 ====See also====
-* {{l|en|bit}}, {{l|en|nat}}, {{l|en|ban}}
+* {{l|en|nat}}, {{l|en|ban}}
+
+===Further reading===
+* {{pedia}}
 
 ----
 
