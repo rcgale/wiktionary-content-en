@@ -1,7 +1,7 @@
 ==Hungarian==
 
 ===Etymology===
-From the verb {{affix|hu|nő|id1=to grow|t1=to grow|-vény|pos=noun}}
+From the verb {{affix|hu|nő|-vény|id1=to grow|t1=to grow|pos2=noun-forming suffix|pos=noun}}.
 
 ===Pronunciation===
 * {{hu-IPA}}
@@ -10,16 +10,33 @@ From the verb {{affix|hu|nő|id1=to grow|t1=to grow|-vény|pos=noun}}
 ===Noun===
 {{hu-noun|ek}}
 
-# [[plant]]
+# {{lb|hu|botany}} [[plant]] {{gloss|an [[organism]] of the kingdom [[Plantae]]}}
 
 ====Declension====
 {{hu-infl-nom|növénye|e|-}}{{hu-pos-etek|növény||ei}}
 
 ====Derived terms====
-* {{l|hu|növényi}}
-{{qualifier|Compound words}}:
-* {{l|hu|gyógynövény}}
-* {{l|hu|gyomnövény}}
-* {{l|hu|növénytan}}
+{{der4|hu
+|növényi
+|növényke
+|növényzet
+}}
+{{der4|hu|title=Compound words
+|gyógynövény
+|gyomnövény
+|kultúrnövény
+|növényápolás
+|növényevő
+|növénygyűjtemény
+|növényhatározó
+|növénynemesítés
+|növénynemzetség
+|növénytakaró
+|növénytan
+|növényvilág
+}}
+
+===Further reading===
+* {{R:ErtSz}}
 
 {{topics|hu|Plants}}
