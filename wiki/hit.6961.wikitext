@@ -381,8 +381,18 @@ From {{inh|en|enm|hitten|t=to hit, strike, make contact with}}, from {{inh|en|an
 }}
 
 =====Descendants=====
+{{top3}}
+* {{desc|ca|bor=1|hit}}
+* {{desc|cs|bor=1|hit}}
+* {{desc|da|bor=1|hit}}
 * {{desc|nl|bor=1|hit}}
+* {{desc|ja|bor=1|ヒット|tr=hitto}}
+* {{desc|pl|bor=1|hit}}
+* {{desc|pt|bor=1|hit}}
 * {{desc|ru|bor=1|хит}}
+* {{desc|es|bor=1|hit}}
+* {{desc|sv|bor=1|hit}}
+{{bottom}}
 
 ====Adjective====
 {{en-adj|-}}
@@ -431,7 +441,7 @@ From {{inh|en|enm|hitten|t=to hit, strike, make contact with}}, from {{inh|en|an
 
 {{trans-top|success, especially in the entertainment industry}}
 * Bulgarian: {{t+|bg|хит|m}}, {{t|bg|шла́гер|m}}
-* Catalan: {{t+|ca|èxit|m}}
+* Catalan: {{t+|ca|èxit|m}}, {{t|ca|hit|m}}
 * Czech: {{t+|cs|hit|m}}
 * Dutch: {{t+|nl|hit|m}}
 * Esperanto: {{t|eo|ŝlagro}}
@@ -450,7 +460,7 @@ From {{inh|en|enm|hitten|t=to hit, strike, make contact with}}, from {{inh|en|an
 * Portuguese: {{t+|pt|hit|m}}, {{t+|pt|sucesso|m}}
 * Romanian: {{t+|ro|șlagăr|n}}
 * Russian: {{t+|ru|хит|m}}, {{t+|ru|шля́гер|m}}
-* Spanish: {{t+|es|éxito|m}}
+* Spanish: {{t+|es|éxito|m}}, {{t|es|hit|m}}
 * Swedish: {{t+|sv|hit|c}}
 * Ukrainian: {{t|uk|хіт}}, {{t|uk|шля́гер}}
 * Yiddish: {{t|yi|שלאַגער|m}}
@@ -593,6 +603,9 @@ From {{inh|gsw|goh|hiutu}}, from {{compound|goh|hiu|tagu|nocat=1}}, a [[calque]]
 
 ==Czech==
 
+===Etymology===
+From {{bor|cs|en|hit}}.
+
 ===Pronunciation===
 * {{IPA|cs|/hɪt/}}
 * {{audio|cs|Cs-hit.ogg|Audio}}
@@ -601,9 +614,7 @@ From {{inh|gsw|goh|hiutu}}, from {{compound|goh|hiu|tagu|nocat=1}}, a [[calque]]
 {{cs-noun|g=m}}
 
 # [[hit#English|hit]] (a success, especially in the entertainment industry)
-
-====Synonyms====
-* {{l|cs|šlágr}}
+#: {{syn|cs|šlágr}}
 
 ----
 
@@ -880,7 +891,7 @@ From {{inh|ang|gem-pro|*hit||this, this one}}, from {{der|ang|ine-pro|*ḱe-}}, 
 ==Polish==
 
 ===Etymology===
-From {{der|pl|en|hit}}.
+From {{bor|pl|en|hit}}.
 
 ===Pronunciation===
 * {{pl-IPA}}
@@ -902,39 +913,36 @@ From {{der|pl|en|hit}}.
 
 ==Portuguese==
 
+===Etymology===
+From {{bor|pt|en|hit}}.
+
 ===Noun===
 {{pt-noun|m|s}}
 
 # {{l|en|hit}} {{gloss|success, especially in the entertainment industry}}
+#: {{syn|pt|sucesso}}
 
-====Synonyms====
-* {{l|pt|sucesso}}
+===Further reading===
+* {{R:Priberam}}
 
 ----
 
 ==Spanish==
 
 ===Etymology===
-{{der|es|en|-}}
+From {{bor|es|en|hit}}.
 
 ===Noun===
 {{es-noun|m}}
 
 # {{l|en|hit}} {{gloss|success}}
+#: {{syn|es|éxito}}
 
 ----
 
 ==Swedish==
 
 ===Etymology 1===
-From {{der|sv|en|hit}}.
-
-====Noun====
-{{sv-noun|c}}
-
-# {{lb|sv|informal}} {{l|en|hit}}; something very popular. (A book, a movie, a song, ...)
-
-===Etymology 2===
 From {{der|sv|gmq-osw|-}} ''hit'', from *''hī''+''at''.
 * ''hī'', from {{der|sv|ine-pro|*kei-}} (as in {{cog|grc|ἐκεῖ}})
 * ''at'', from {{der|sv|gem-pro|*at}}, from {{der|sv|ine-pro|*ád}} (as in Swedish {{m|sv|åt}})
@@ -958,3 +966,11 @@ Composed in a similar way: {{cog|is|hegat}} and {{m|is|hingað}}.
 =====See also=====
 * {{l|sv|hit och dit}}
 * {{l|sv|här}}
+
+===Etymology 2===
+From {{bor|sv|en|hit}}.
+
+====Noun====
+{{sv-noun|c}}
+
+# {{lb|sv|informal}} {{l|en|hit}}; something very popular. (A book, a movie, a song, ...)
