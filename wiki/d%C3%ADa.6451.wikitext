@@ -73,15 +73,21 @@ From {{inh|gl|roa-opt|dia}}, from {{inh|gl|VL.||*dia}} (reanalyzed as a 1st decl
 From {{inh|sga|cel-pro|*dīyos}} (compare {{cog|cy|dydd}}), from {{inh|sga|ine-pro|*dyew-}}. Cognate with {{cog|la|diēs}}.
 
 ====Noun====
-{{sga-noun}}<!--gender is probably masculine but as it's only used in fixed expressions it isn't possible to say for sure-->
+{{sga-noun|u}}<!--gender is probably masculine but as it's only used in fixed expressions it isn't possible to say for sure-->
 
 # [[day]]
+#: {{syn|sga|lá}}
 
 =====Inflection=====
-{{rfinfl|sga|noun}}
-
-=====Synonyms=====
-* {{l|sga|lá}}
+{{sga-decl-noun
+|class=irreg-?
+|n=s
+|nom_sg={{l-self|sga|día}}, {{l|sga|die}}
+|voc_sg=
+|acc_sg={{l|sga|dé}}, {{l|sga|dei}}
+|gen_sg={{l-self|sga|día}}, {{l|sga|die}}
+|dat_sg={{l|sga|dé}}, {{l|sga|dei}}
+}}
 
 ===Etymology 2===
 {{PIE root|sga|dyew}}
