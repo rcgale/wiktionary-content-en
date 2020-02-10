@@ -1,37 +1,55 @@
 {{also|Semaphore|sémaphore}}
 ==English==
-{{wikipedia}}
-[[File:Wsh signals.jpg|thumb|right|'''Semaphore''' signals at [[w:Worcester Shrub Hill railway station|Worcester Shrub Hill railway station]]]]
-[[File:Semaphore alphabet (Signalling, 1918).jpg|thumb|right|The '''semaphore''' signalling alphabet]]
+{{was wotd|2020|February|22}}
 
 ===Etymology===
-Borrowed in 1816 from {{der|en|fr|sémaphore}}, coined in French from {{der|en|grc|σῆμα||sign}}, and {{m|grc||-φορος|bearing, bearer}}, from {{m|grc|φέρω||to bear, carry}}.
+{{multiple images
+|direction = vertical
+|image1 = Wsh signals.jpg
+|caption1 = Semaphore [[signal#Noun|signals]] ''(sense 1)'' at {{w|Worcester Shrub Hill railway station}}
+|image2 = Semaphore alphabet (Signalling, 1918).jpg
+|caption2 = The [[flag semaphore]] ''(sense 2)'' signalling alphabet
+}}
+
+{{PIE root|en|dʰyeh₂|bʰer}}
+The noun is borrowed from {{bor|en|fr|sémaphore}}, from {{der|en|grc|σῆμα|t=mark, sign, token}} ({{der|en|ine-pro|*dʰyeh₂-|t=to notice}}) {{suffix|fr||phore|nocat=1}} (from {{m|grc|-φορος|pos=''suffix indicating a bearer or carrier''}}, from {{m|grc|φέρω|t=to bear, carry}}, ultimately from {{der|en|ine-pro|*bʰer-|t=to bear, carry}}).<ref>{{R:OED Online|pos=n|id=175547|date=March 2014|nodot=yes}}; {{R:Lexico|pos=n}}</ref>
+
+The verb is derived from the noun.<ref>{{R:OED Online|pos=v|id=327983|date=March 2014|nodot=yes}}; {{R:Lexico|pos=v}}</ref>
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|en|/ˈsɛ.mə.fɔː/}}
-* {{audio|en|LL-Q1860 (eng)-I learned some phrases-semaphore.wav|Audio (UK)}}
+* {{a|RP}} {{IPA|en|/ˈsɛməfɔː/}}
+* {{audio|en|En-uk-semaphore.oga|Audio (RP)}}
+* {{a|GA}} {{IPA|en|/ˈsɛməˌfɔɹ/}}
+* {{hyphenation|en|se|ma|phore}}
 
 ===Noun===
 {{en-noun|~}}
 
-# Any visual [[signaling]] system with flags, lights, or mechanically moving arms.
-#* '''2008''', Gene Weingarten, ''Old Dogs: Are the Best Dogs'', Simon & Schuster, page 4 [http://books.google.com/books?id=GOUMoGLf9tYC&printsec=frontcover&dq=gene+weingarten&source=bl&ots=BgRdWbPGYP&sig=gd-Mgu3cNEgerci0w2psNOA6ZjM&hl=en&sa=X&ei=GDIVUNqbDcOYqAGZx4HgBQ&ved=0CDgQ6AEwAQ#v=onepage&q=semaphore&f=false]:
+# Any [[equipment]] [[use#Verb|used]] for [[visual#Adjective|visual]] [[signalling#Noun|signalling]] by means of [[flag#Noun|flags]], [[light#Noun|lights]], or [[mechanically]] [[moving#Adjective|moving]] [[arm#Noun|arms]] which are used to [[represent]] [[letter#Noun|letters]] of the [[alphabet]], or [[word#Noun|words]].
+#* '''2008''', Gene Weingarten, ''Old Dogs: Are the Best Dogs'', Simon & Schuster, page 4 [https://books.google.com/books?id=GOUMoGLf9tYC&printsec=frontcover&dq=gene+weingarten&source=bl&ots=BgRdWbPGYP&sig=gd-Mgu3cNEgerci0w2psNOA6ZjM&hl=en&sa=X&ei=GDIVUNqbDcOYqAGZx4HgBQ&ved=0CDgQ6AEwAQ#v=onepage&q=semaphore&f=false]:
 #*: Consider the wagging tail, the most basic '''semaphore''' in dog/human communication.
-# A visual system for transmitting information by means of two flags that are held one in each hand, using an alphabetic and numeric code based on the position of the signaler’s [[arm]]s.
-# {{lb|en|computing}} A [[bit]], token, fragment of code, or some other mechanism which is used to restrict access to a shared function or device to a single process at a time, or to synchronize and coordinate events in different processes.
+# {{lb|en|also|figuratively}} A visual [[system]] for [[transmit]]ting [[information]] using the above equipment; or {{lb|en|by extension}} by means of [[two]] flags held [[one]] in each [[hand#Noun|hand]], using an [[alphabetic]] and [[numeric]] [[code#Noun|code]] [[base#Verb|based]] on the [[position#Noun|position]] of the [[signaller]]'s arms; [[flag semaphore]].
+# {{lb|en|computing}} A [[bit#Noun|bit]], [[token]], [[fragment#Noun|fragment]] of code, or some other [[mechanism]] which is used to [[restrict]] [[access#Noun|access]] to a [[shared#Adjective|shared]] [[function#Noun|function]] or [[device]] to a [[single#Adjective|single]] [[process#Noun|process]] at a [[time#Noun|time]], or to [[synchronize]] and [[coordinate#Verb|coordinate]] [[event]]s in [[different]] processes.
 #: {{ux|en|The thread increments the '''semaphore''' to prevent other threads from entering the [[critical section]] at the same time.}}
 
 ====Derived terms====
-{{der2|en
+{{col3|en
 |flag semaphore
 |semaphore plant
 |semaphore signal
+|[[semaphoretic]] {{qualifier|obsolete}}
+|semaphoretical
 |semaphoric
 |semaphorin
-|semaphorist}}
+|semaphorist
+}}
 
 ====Translations====
-{{trans-top|visual signaling system}}
+{{trans-top|equipment used for visual signalling}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|visual system for transmitting information}}
 * Catalan: {{t+|ca|semàfor|m}}
 * Czech: {{t+|cs|semafor|m}}
 * Dutch: {{t+|nl|semafoor|m}}
@@ -45,7 +63,7 @@ Borrowed in 1816 from {{der|en|fr|sémaphore}}, coined in French from {{der|en|g
 * Spanish: {{t+|es|semáforo}}
 {{trans-bottom}}
 
-{{trans-top|visual signaling with flags}}
+{{trans-top|visual system for transmitting information with flags}}
 * Dutch: {{t+|nl|semafoor|m}}
 * Finnish: {{t|fi|lippuviittoilu}}
 {{trans-mid}}
@@ -53,7 +71,7 @@ Borrowed in 1816 from {{der|en|fr|sémaphore}}, coined in French from {{der|en|g
 * Italian: {{t|it|semaforo marittimo|m}}
 {{trans-bottom}}
 
-{{trans-top|computing term}}
+{{trans-top|other mechanism used to restrict access to a shared function or device to a single process at a time}}
 * Chinese:
 *: Mandarin: {{t-needed|cmn}}
 * Czech: {{t+|cs|semafor|m}}
@@ -72,19 +90,25 @@ Borrowed in 1816 from {{der|en|fr|sémaphore}}, coined in French from {{der|en|g
 ===Verb===
 {{en-verb|semaphor}}
 
-# {{lb|en|transitive|intransitive}} To [[signal]] using (or as if using) a semaphore.
+# {{lb|en|ambitransitive|also|figuratively}} To [[signal#Verb|signal]] [[use#Verb|using]], or as if using, a [[#Noun|semaphore]], with the [[implication]] that it is done [[nonverbally|non-verbally]].
 #* '''1990''', {{w|Peter Hopkirk}}, ''The Great Game'', Folio Society 2010, p. 425:
 #*: Minutes later, unseen by the defenders, he '''semaphored''' back across the valley that he was going to make a fresh attempt.
 
+====Derived terms====
+* {{l|en|semaphoring|pos=adjective}}
+
 ====Translations====
-{{trans-top|to signal using semaphore}}
+{{trans-top|to signal using, or as if using, a semaphore}}
 * Dutch: {{t+|nl|signaleren}}, {{t+|nl|seinen}}
 {{trans-mid}}
 * Spanish: {{t+|es|semáforo|m}}
 {{trans-bottom}}
 
 ===References===
-* {{R:Lexico}}
+<references />
+
+===Further reading===
+* {{pedia}}
 
 ===Anagrams===
 * {{anagrams|en|a=aeehmoprs|mesohepar}}
