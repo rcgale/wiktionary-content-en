@@ -12,7 +12,7 @@
 }}
 
 {{PIE root|en|dʰyeh₂|bʰer}}
-The noun is borrowed from {{bor|en|fr|sémaphore}}, from {{der|en|grc|σῆμα|t=mark, sign, token}} (from {{der|en|ine-pro|*dʰyeh₂-|t=to notice}}) {{suffix|fr||phore|nocat=1}} (from {{m|grc|-φορος|pos=''suffix indicating a bearer or carrier''}}, from {{m|grc|φέρω|t=to bear, carry}}, ultimately from {{der|en|ine-pro|*bʰer-|t=to bear, carry}}).<ref>{{R:OED Online|pos=n|id=175547|date=March 2014|nodot=yes}}; {{R:Lexico|pos=n}}</ref>
+The noun is borrowed from {{bor|en|fr|sémaphore}}, from {{der|en|grc|σῆμα|t=mark, sign, token}} (from {{der|en|ine-pro|*dʰyeh₂-|t=to notice}}) + {{der|en|fr|-phore}} (from {{m|grc|-φορος|pos=''suffix indicating a bearer or carrier''}}, from {{m|grc|φέρω|t=to bear, carry}}, ultimately from {{der|en|ine-pro|*bʰer-|t=to bear, carry}}).<ref>{{R:OED Online|pos=n|id=175547|date=March 2014|nodot=yes}}; {{R:Lexico|pos=n}}</ref>
 
 The verb is derived from the noun.<ref>{{R:OED Online|pos=v|id=327983|date=March 2014|nodot=yes}}; {{R:Lexico|pos=v}}</ref>
 
@@ -26,9 +26,8 @@ The verb is derived from the noun.<ref>{{R:OED Online|pos=v|id=327983|date=March
 {{en-noun|~}}
 
 # Any [[equipment]] [[use#Verb|used]] for [[visual#Adjective|visual]] [[signalling#Noun|signalling]] by means of [[flag#Noun|flags]], [[light#Noun|lights]], or [[mechanically]] [[moving#Adjective|moving]] [[arm#Noun|arms]] which are used to [[represent]] [[letter#Noun|letters]] of the [[alphabet]], or [[word#Noun|words]].
-#* '''2008''', Gene Weingarten, ''Old Dogs: Are the Best Dogs'', Simon & Schuster, page 4 [https://books.google.com/books?id=GOUMoGLf9tYC&printsec=frontcover&dq=gene+weingarten&source=bl&ots=BgRdWbPGYP&sig=gd-Mgu3cNEgerci0w2psNOA6ZjM&hl=en&sa=X&ei=GDIVUNqbDcOYqAGZx4HgBQ&ved=0CDgQ6AEwAQ#v=onepage&q=semaphore&f=false]:
-#*: Consider the wagging tail, the most basic '''semaphore''' in dog/human communication.
 # {{lb|en|also|figuratively}} A visual [[system]] for [[transmit]]ting [[information]] using the above equipment; or {{lb|en|by extension}} by means of [[two]] flags held [[one]] in each [[hand#Noun|hand]], using an [[alphabetic]] and [[numeric]] [[code#Noun|code]] [[base#Verb|based]] on the [[position#Noun|position]] of the [[signaller]]'s arms; [[flag semaphore]].
+#* {{quote-book|en|author=Gene Weingarten|authorlink=Gene Weingarten|chapter=Remembering Harry|title=Old Dogs are the Best Dogs|location=New York, N.Y.|publisher={{w|Simon & Schuster}}|year=2008|page=4|pageurl=https://books.google.com/books?id=GOUMoGLf9tYC&pg=PA4|isbn=978-1-4165-6596-3|passage=Consider the wagging tail, the most basic '''semaphore''' in dog/human communication.}}
 # {{lb|en|computing}} A [[bit#Noun|bit]], [[token]], [[fragment#Noun|fragment]] of code, or some other [[mechanism]] which is used to [[restrict]] [[access#Noun|access]] to a [[shared#Adjective|shared]] [[function#Noun|function]] or [[device]] to a [[single#Adjective|single]] [[process#Noun|process]] at a [[time#Noun|time]], or to [[synchronize]] and [[coordinate#Verb|coordinate]] [[event]]s in [[different]] processes.
 #: {{ux|en|The thread increments the '''semaphore''' to prevent other threads from entering the [[critical section]] at the same time.}}
 
@@ -91,8 +90,7 @@ The verb is derived from the noun.<ref>{{R:OED Online|pos=v|id=327983|date=March
 {{en-verb|semaphor}}
 
 # {{lb|en|ambitransitive|also|figuratively}} To [[signal#Verb|signal]] [[use#Verb|using]], or as if using, a [[#Noun|semaphore]], with the [[implication]] that it is done [[nonverbally|non-verbally]].
-#* '''1990''', {{w|Peter Hopkirk}}, ''The Great Game'', Folio Society 2010, p. 425:
-#*: Minutes later, unseen by the defenders, he '''semaphored''' back across the valley that he was going to make a fresh attempt.
+#* {{quote-book|en|author=Peter Hopkirk|authorlink=Peter Hopkirk|chapter=The Climactic Years|title=[[w:The Great Game (Peter Hopkirk book)|The Great Game: On Secret Service in High Asia]]|location=London|publisher=[[w:John Murray (publisher)|John Murray]]|year=1990|isbn=978-0-7195-4727-0|location2=Oxford, Oxfordshire|publisher2={{w|Oxford University Press}}|year2=2001|page2=478|pageurl2=https://books.google.com/books?id=1_41VGoCYU8C&pg=PA478|isbn2=978-0-19-280232-3|passage=Minutes later, unseen by the defenders, he '''semaphored''' back across the valley that he was going to make a fresh attempt.}}
 
 ====Derived terms====
 * {{l|en|semaphoring|pos=adjective}}
@@ -113,4 +111,5 @@ The verb is derived from the noun.<ref>{{R:OED Online|pos=v|id=327983|date=March
 ===Anagrams===
 * {{anagrams|en|a=aeehmoprs|mesohepar}}
 
+[[Category:English words suffixed with -phore]]
 [[Category:en:Rail transportation]]
