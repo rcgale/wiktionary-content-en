@@ -1193,17 +1193,20 @@ Generally used in favor of complex native grammatical structures used to achieve
 ==Romanian==
 
 ===Pronunciation===
-* {{IPA|ro|[o]}}
+* {{IPA|ro|/o/}}
 
 ===Etymology 1===
 
 ====Letter====
-{{head|ro|letter|lowercase||capital|O}}
+{{ro-letter|lower=o|upper=O}}
 
-# The eighteenth letter of the [[Romanian alphabet]] representing the phoneme /o/. Preceded by [[n]] and followed by [[p]].
+# {{Latn-def|ro|letter|18|o}}
 
 =====Usage notes=====
 See {{m|ro|O}}.
+
+=====See also=====
+* {{list:Latin script letters/ro}}
 
 ===Etymology 2===
 From {{inh|ro|la|ūna}}, feminine of {{m|la|ūnus}}.
@@ -1211,9 +1214,8 @@ From {{inh|ro|la|ūna}}, feminine of {{m|la|ūnus}}.
 ====Article====
 {{head|ro|article form}}
 
-# {{inflection of|ro|un||f|s|nom}}: [[a]]/[[an]] {{gloss|indefinite article}}
-# {{inflection of|ro|un||f|s|acc}}: [[a]]/[[an]] {{gloss|indefinite article}}
-#: {{ux|ro|'''O''' [[femeie]] [[frumoasă]]|'''A''' beautiful woman}}
+# {{infl of|ro|un||f|s|nom//acc}}: [[a]]/[[an]] {{gloss|indefinite article}}
+#: {{ux|ro|'''O''' femeie frumoasă|'''A''' beautiful woman}}
 
 =====Related terms=====
 * {{l|ro|un}}
