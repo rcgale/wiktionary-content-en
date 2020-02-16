@@ -1,10 +1,10 @@
 ==English==
 
 ===Alternative forms===
-* {{l|en|rasterise}}
+* {{alter|en|rasterise}}
 
 ===Etymology===
-{{suffix|en|raster|ize}}
+From {{af|en|raster|-ize}}.
 
 ===Pronunciation===
 * {{audio|en|en-uk-rasterize.ogg|Audio (UK)}}
@@ -13,12 +13,12 @@
 {{en-verb|rasteriz}}
 
 # {{lb|en|transitive|computing}} To [[convert]] (an [[image]]) into a [[grid]] of [[point]]s, such as a [[bitmap]], for [[display]] or [[printing]].
-
-====Coordinate terms====
-* {{l|en|vectorize}}
+#: {{coordinate terms|en|vectorize}}
 
 ====Related terms====
-* {{l|en|raster}}
-* {{l|en|rasterizer}}
-* {{l|en|rasterization}}
-* {{l|en|rasterized}}
+{{rel4|en
+|raster
+|rasterizer
+|rasterization
+|rasterized
+}}
