@@ -18,13 +18,7 @@
 
 # {{lb|en|logic}} Alternative form of [[∧]], the [[conjunction]] operator.
 
-# {{lb|en|logic}} The [[binary]] [[operator]] ''and'', only true if both of two inputs is true. In [[infix notation]], it has values
-
-(0 AND 0) = 0<br>
-(0 AND 1) = 0<br>
-(1 AND 0) = 0<br>
-(1 AND 1) = 1<br>
-
+# {{lb|en|logic}} The [[binary]] [[operator]] ''and'', only true if both of two inputs is true. In [[infix notation]].
 {| class="wikitable" style="clear:right; float:right; width:248px"
 |+ AND Truth Table
 |-
