@@ -15,8 +15,8 @@ Borrowed from {{bor|eo|fr|lit}}.
 #: {{holonyms|eo|dormĉambro|dormejo}}
 
 ====Derived terms====
-{{der2
-|eo|{{l|eo|ellitiĝi|t=to get up, get out of bed}}
+{{col2|eo
+|{{l|eo|ellitiĝi|t=to get up, get out of bed}}
 |{{l|eo|enlitiĝi|t=to go to bed}}
 }}
 
@@ -53,26 +53,28 @@ Borrowed from {{bor|eo|fr|lit}}.
 {{io-bor|eo=lito||lit||letto||lecho|nodot=1}}, from {{der|io|la|lectus}}.
 
 ===Pronunciation===
-* {{IPA|io|/ˈli.to/}}
+{{io-IPA}}
 
 ===Noun===
 {{io-noun|lit}}
 
 # [[bed]]
-#:{{ux|io|Pupeo jacis sur la '''lito'''.}}
+#: {{uxi|io|Pupeo jacis sur la '''lito'''.}}
 
 ====Derived terms====
-{{der3|io|{{l|io|enliteskar||to make one's bed}}
-|{{l|io|plumolito||featherbed}}
-|{{l|io|litala||}}
-|{{l|io|liteto||berth}}
-|{{l|io|litego||}}
-|{{l|io|litigar||}}
-|{{l|io|enlitigar||to put to bed, lay up; to confine to bed}}
-|{{l|io|enlitigita||in bed}}
-|{{l|io|enlitigo||}}
-|{{l|io|enlitesko||}}
-|{{l|io|litotableto||bedside table, nightstand}}}}
+{{col4|io
+|{{l|io|enliteskar|t=to make one's bed}}
+|{{l|io|plumolito|t=featherbed}}
+|{{l|io|litala}}
+|{{l|io|liteto|t=berth}}
+|{{l|io|litego}}
+|{{l|io|litigar}}
+|{{l|io|enlitigar|t=to put to bed, lay up; to confine to bed}}
+|{{l|io|enlitigita|t=in bed}}
+|{{l|io|enlitigo}}
+|{{l|io|enlitesko}}
+|{{l|io|litotableto|t=bedside table, nightstand}}
+}}
 
 [[Category:io:Bedding]]
 [[Category:io:Furniture]]
@@ -99,7 +101,7 @@ From {{inh|ist|la|lēctus}}, perfect passive participle of {{m|la|legō}}. Compa
 ==Latin==
 
 ===Etymology===
-{{suffix|la|*lita|ō|id2=denominative}}, borrowed from {{der|la|grc|λιτή}} (via a variant {{m|grc||*λιτᾱ}}).
+From {{af|la|*lita|-ō|id2=denominative}}, borrowed from {{der|la|grc|λιτή}} (via a variant {{m|grc||*λιτᾱ}}).
 
 ===Pronunciation===
 * {{la-IPA|litō}}
@@ -117,9 +119,11 @@ From {{inh|ist|la|lēctus}}, perfect passive participle of {{m|la|legō}}. Compa
 {{la-conj|1+|litō}}
 
 ====Derived terms====
-* {{l|la|litābilis}}
-* {{l|la|litāmen}}
-* {{l|la|litātiō}}
+{{col3|la
+|litābilis
+|litāmen
+|litātiō
+}}
 
 ====Related terms====
 * {{l|la|litānīa}}
@@ -143,11 +147,11 @@ From {{inh|ist|la|lēctus}}, perfect passive participle of {{m|la|legō}}. Compa
 ==Serbo-Croatian==
 
 ===Alternative forms===
-* (''Ekavian''): {{l|sh|lȅto}}
-* (''Ijekavian''): {{l|sh|ljȅto}}
+* {{alter|sh|lȅto||Ekavian}}
+* {{alter|sh|ljȅto||Ijekavian}}
 
 ===Etymology===
-From {{inh|sh|sla-pro|*lěto||summer}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*leh₁tom}}.
+From {{inh|sh|sla-pro|*lěto|t=summer}}, from {{inh|sh|ine-pro|*leh₁tom}}.
 
 ===Noun===
 {{sh-noun|g=n}}
@@ -166,6 +170,9 @@ From {{inh|sh|sla-pro|*lěto||summer}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*le
 ----
 
 ==Spanish==
+
+===Pronunciation===
+* {{es-IPA}}
 
 ===Verb===
 {{head|es|verb form}}
