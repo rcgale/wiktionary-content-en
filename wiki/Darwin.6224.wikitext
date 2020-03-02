@@ -17,10 +17,10 @@ The city in Australia is named after [[w:Charles Darwin|Charles Darwin]].
 {{en-proper noun}}
 
 # {{surname|en|nodot=1}}, especially referring to {{w|Charles Darwin}} (1809–1882), British [[naturalist]] and founder of the theory of [[evolution]] by [[natural selection]].
-# {{place|en|municipality|p/[[Río Negro]] province|c/Argentina}}.
+# {{place|en|municipality|p:suf/Río Negro|c/Argentina}}.
 # {{place|en|capital city|terr/Northern Territory|c/Australia}}.
 # {{place|en|ghost town|s/Tasmania|c/Australia}}.
-# {{place|en|settlement|on the peninsula of|pen/Lafonia|isl/East Falkland|terr/Falkland Islands}}.
+# {{place|en|settlement|on the|pen:pref/Lafonia|isl:suf/East Falkland|terr/Falkland Islands}}.
 # {{place|en|unincorporated community/and/CDP|co/Inyo County|s/California|c/USA}}.
 # {{place|en|ghost town|co/Fresno County|s/California|c/USA}}.
 # {{place|en|unincorporated community|twp/Darwin Township|co/Clark County|s/Illinois|c/USA}}.
@@ -129,7 +129,8 @@ Borrowed from {{bor|hu|en|Darwin}}.
 ===Proper noun===
 {{head|hu|proper noun}}
 
-# {{l|en|Darwin}}
+# {{l|en|Darwin}} {{gloss|Charles Darwin, English naturalist}}
+# {{place|hu|capital city|terr/Northern Territory|c/Australia|t1=Darwin}}
 
 ====Declension====
 {{hu-infl-nom|Darwino|o|-}}{{hu-pos-otok|Darwin|j|jai}}
