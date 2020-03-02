@@ -15,10 +15,10 @@ From {{der|en|gmh|Luccelemburc}}, from {{der|en|goh|Lucilinburhuc}}, ultimately 
 ===Proper noun===
 {{en-proper noun}}
 
-# {{senseid|en|Q32}} A [[country]] in [[Europe]] having borders with [[Belgium]], [[France]] and [[Germany]]. Member state of the [[European Union]]. Official language: [[Letzeburgesh]]. Official name: Grand [[Duchy]] of Luxembourg.
+# {{senseid|en|Q32}} {{place|en|country|in|r/Central Europe|official=Grand [[Duchy]] of Luxembourg}}. It has borders with [[Belgium]], [[France]] and [[Germany]], and is a member state of the [[European Union]].
 # {{senseid|en|Q1126}} {{place|en|province|r/Wallonia|c/Belgium}}.
-# {{senseid|en|Q1842}} The [[capital]] [[city]] of {{w|Luxembourg}}.
-# {{senseid|en|Q691741}} One of the twelve [[canton]]s of Luxembourg (the country), that includes its capital city.
+# {{senseid|en|Q1842}} {{place|en|capital city|c/Luxembourg}}.
+# {{senseid|en|Q691741}} {{place|en|One of the twelve <<canton>>s of the <<c:pref/Luxembourg>>, which includes its capital city}}.
 
 ====Derived terms====
 * {{l|en|Luxembourger}}
@@ -153,17 +153,15 @@ From {{der|en|gmh|Luccelemburc}}, from {{der|en|goh|Lucilinburhuc}}, ultimately 
 * Spanish: {{t+|es|Luxemburgo}}
 {{trans-bottom}}
 
-{{trans-top|district in Luxembourg}}
+{{trans-top|canton in Luxembourg}}
 * Finnish: {{t+|fi|Luxemburg}}
 {{trans-mid}}
 * Georgian: {{t|ka|ლუქსემბურგი}}
 {{trans-bottom}}
 
 ====See also====
-* {{list:countries of Europe/en}}{{topics|en|Countries in Europe}}
+* {{list:countries of Europe/en}}
 * {{l|en|Appendix:Countries of the world|Countries of the world}}
-
-{{topics|en|Capital cities|Cantons of Luxembourg|Cities in Luxembourg|Luxembourg}}
 
 ----
 
@@ -172,7 +170,7 @@ From {{der|en|gmh|Luccelemburc}}, from {{der|en|goh|Lucilinburhuc}}, ultimately 
 ===Proper noun===
 {{head|et|proper noun}}
 
-# {{place|et|capital|c/Luxembourg|t1=Luxembourg}}
+# {{place|et|capital city|c/Luxembourg|t1=Luxembourg}}
 
 ----
 
@@ -185,15 +183,12 @@ From {{der|en|gmh|Luccelemburc}}, from {{der|en|goh|Lucilinburhuc}}, ultimately 
 ===Proper noun===
 {{fr-proper noun|m}}
 
-# {{l|en|Luxembourg|id=Q32}} {{gloss|Grand Duchy}}
-# {{l|en|Luxembourg|id=Q1126}} {{gloss|province}}
-# {{l|en|Luxembourg|id=Q1842}} {{gloss|capital city}}
+# {{place|fr|country|r/Central Europe|t1=Luxembourg|tid1=Q32}}
+# {{place|fr|province|r/Wallonia|c/Belgium|t1=Luxembourg|tid1=Q1126}}
+# {{place|fr|capital city|c/Luxembourg|t1=Luxembourg|tid1=Q1842}}
+# {{place|fr|canton|c:pref/Luxembourg|t1=Luxembourg|tid1=Q691741}}
 # {{ellipsis of|fr|jardin du Luxembourg}} {{gloss|garden in Paris}}
-
-[[Category:fr:Capital cities]]
-[[Category:fr:Countries in Europe]]
-[[Category:fr:Provinces of Belgium]]
-
+ 
 ----
 
 ==Norwegian Bokmål==
@@ -205,13 +200,14 @@ From {{der|en|gmh|Luccelemburc}}, from {{der|en|goh|Lucilinburhuc}}, ultimately 
 ===Proper noun===
 {{head|nb|proper noun}}
 
-# {{l|en|Luxembourg}}
+# {{place|nb|country|r/Central Europe|t1=Luxembourg|id1=Q32}}
+# {{place|nb|province|r/Wallonia|c/Belgium|t1=Luxembourg|id1=Q1126}}
+# {{place|nb|capital city|c/Luxembourg|t1=Luxembourg|id1=Q1842}}
+# {{place|nb|canton|c:pref/Luxembourg|t1=Luxembourg|id1=Q691741}}
 
 ====Related terms====
 * {{l|nb|luxembourger}}, {{l|nb|luxemburger}}
 * {{l|nb|luxembourgsk}}, {{l|nb|luxemburgsk}}
-
-[[Category:nb:Countries]]
 
 ----
 
@@ -224,10 +220,11 @@ From {{der|en|gmh|Luccelemburc}}, from {{der|en|goh|Lucilinburhuc}}, ultimately 
 ===Proper noun===
 {{head|nn|proper noun}}
 
-# {{l|en|Luxembourg}}
+# {{place|nn|country|r/Central Europe|t1=Luxembourg|id1=Q32}}
+# {{place|nn|province|r/Wallonia|c/Belgium|t1=Luxembourg|id1=Q1126}}
+# {{place|nn|capital city|c/Luxembourg|t1=Luxembourg|id1=Q1842}}
+# {{place|nn|canton|c:pref/Luxembourg|t1=Luxembourg|id1=Q691741}}
 
 ====Related terms====
 * {{l|nn|luxembourgar}}, {{l|nn|luxemburgar}}
 * {{l|nn|luxembourgsk}}, {{l|nn|luxemburgsk}}
-
-[[Category:nn:Countries]]
