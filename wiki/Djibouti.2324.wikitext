@@ -10,9 +10,9 @@ Unknown. The country of Djibouti was named after its capital city. Multiple theo
 ===Proper noun===
 {{en-proper noun}}
 
-# {{senseid|en|Q977}}Country in Eastern [[Africa]], official name: [[Republic of Djibouti]].
+# {{senseid|en|Q977}}{{place|en|country|r/East Africa|official=Republic of Djibouti}}.
 #: {{hyper|en|Subsahara}}
-# {{senseid|en|Q3604}}The [[capital]] [[city]] of Djibouti.
+# {{senseid|en|Q3604}}{{place|en|capital city|c/Djibouti}}.
 
 ====Derived terms====
 * {{l|en|Djiboutian}}
@@ -71,14 +71,14 @@ Unknown. The country of Djibouti was named after its capital city. Multiple theo
 * Navajo: {{t|nv|Jibótii}}
 * Norman: {{t|nrf|Djibouti}}
 * Norwegian: {{t+|no|Djibouti}}
-* Pashto: {{t|ps|ګبوټي|f|tr=gabûṭi|sc=ps-Arab}}
+* Pashto: {{t|ps|ګبوټي|f|tr=gabûṭi}}
 * Persian: {{t|fa|جیبوتی|tr=jibuti}}
 * Polish: {{t+|pl|Dżibuti}}
 * Portuguese: {{t+|pt|Jibuti|m}} {{qualifier|Portugal}}, {{t+|pt|Djibuti|m}} {{qualifier|Brazil}}
 * Romanian: {{t+|ro|Djibouti}}
 * Russian: {{t+|ru|Джибути́|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|Џибу̏ти|m|sc=Cyrl}}
+*: Cyrillic: {{t|sh|Џибу̏ти|m}}
 *: Roman: {{t+|sh|Džibȕti|m}}
 * Sinhalese: {{t|si|ජිබුටි}}
 * Slovak: {{t|sk|Džibutsko|n}}
@@ -116,10 +116,6 @@ Unknown. The country of Djibouti was named after its capital city. Multiple theo
 ===Further reading===
 * {{pedialite}}
 
-[[Category:en:Capital cities]]
-[[Category:en:Countries in Africa]]
-[[Category:en:Djibouti]]
-
 ----
 
 ==Catalan==
@@ -128,9 +124,12 @@ Unknown. The country of Djibouti was named after its capital city. Multiple theo
 ===Proper noun===
 {{ca-proper noun|m}}
 
-# {{l|en|Djibouti}}
+# {place|ca|country|r/East Africa|t1=Djibouti}}
 
-[[Category:ca:Countries]]
+===Proper noun===
+{{ca-proper noun|f}}
+
+# {place|ca|capital city|c/Djibouti|t1=Djibouti}}
 
 ----
 
@@ -140,12 +139,11 @@ Unknown. The country of Djibouti was named after its capital city. Multiple theo
 ===Proper noun===
 {{fi-proper noun}}
 
-# [[#English|Djibouti]]
+# {place|fi|country|r/East Africa|t1=Djibouti}}
+# {place|fi|capital city|c/Djibouti|t1=Djibouti}}
 
 ====Declension====
 {{fi-decl-risti|n=sg|Djibout|||a}}
-
-[[Category:fi:Countries]]
 
 ----
 
@@ -158,9 +156,8 @@ Unknown. The country of Djibouti was named after its capital city. Multiple theo
 ===Proper noun===
 {{fr-proper noun}}
 
-# {{l|en|Djibouti}}
-
-[[Category:fr:Countries in Africa]]
+# {place|fr|country|r/East Africa|t1=Djibouti}}
+# {place|fr|capital city|c/Djibouti|t1=Djibouti}}
 
 ----
 
@@ -170,13 +167,12 @@ Unknown. The country of Djibouti was named after its capital city. Multiple theo
 ===Proper noun===
 {{head|nb|proper noun}}
 
-# {{l|en|Djibouti}}
+# {place|nb|country|r/East Africa|t1=Djibouti}}
+# {place|nb|capital city|c/Djibouti|t1=Djibouti}}
 
 ====Related terms====
 * {{l|nb|djiboutier}}
 * {{l|nb|djiboutisk}}
-
-{{topics|nb|Countries|Africa}}
 
 ----
 
@@ -186,27 +182,28 @@ Unknown. The country of Djibouti was named after its capital city. Multiple theo
 ===Proper noun===
 {{head|nn|proper noun}}
 
-# {{l|en|Djibouti}}
+# {place|nn|country|r/East Africa|t1=Djibouti}}
+# {place|nn|capital city|c/Djibouti|t1=Djibouti}}
 
 ====Related terms====
 * {{l|nn|djiboutiar}}
 * {{l|nn|djiboutisk}}
 
-{{topics|nn|Countries|Africa}}
-
 ----
 ==Swahili==
+
 ===Alternative forms===
 * {{l|sw|Jibuti}}
+
 ===Proper noun===
 {{head|sw|proper noun}}
 
-# {{l|en|Djibouti}}
+# {place|sw|country|r/East Africa|t1=Djibouti}}
+# {place|sw|capital city|c/Djibouti|t1=Djibouti}}
 
 ===See also===
 * {{list:countries of Africa/sw}}
 
-{{topics|sw|Countries}}
 ----
 
 ==Swedish==
@@ -214,6 +211,5 @@ Unknown. The country of Djibouti was named after its capital city. Multiple theo
 ===Proper noun===
 {{sv-proper noun|n}}
 
-# {{l|en|Djibouti}}
-
-[[Category:sv:Countries]]
+# {place|sv|country|r/East Africa|t1=Djibouti}}
+# {place|sv|capital city|c/Djibouti|t1=Djibouti}}{{attention|sv|is the gender correct for the city?}}
