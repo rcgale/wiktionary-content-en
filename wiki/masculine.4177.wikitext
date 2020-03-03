@@ -18,48 +18,43 @@ From {{inh|en|enm|masculyne}}, {{m|enm|masculyn}}, from {{der|en|fro|masculin}},
 
 # Of or pertaining to the [[male]] [[gender]]; [[manly]].
 # Of or pertaining to the [[male]] [[sex]]; biologically male, not female.
+#: {{syn|en|male}}
+#: {{ant|en|female|womanly}}
 # Belonging to males; typically used by males.
-#: ''“John”, “Paul”{{,}} and “Jake” are '''masculine''' names.''
+#: {{ux|en|“John”, “Paul”{{,}} and “Jake” are '''masculine''' names.}}
 # Having the qualities stereotypically associated with [[men]]: [[virile]], [[aggressive]], not [[effeminate]].
 #* {{rfdatek|en|Henry Hallam}}:
 #*: That lady, after her husband's death, held the reins with a '''masculine''' energy.
 #* {{rfdatek|en|Thomas Fuller}}:
 #*: {{...}} a '''masculine''' church.
+#: {{syn|en|manly|virile}}
+#: {{ant|en|effeminate|emasculated|epicene|unmanly}}
 # {{lb|en|grammar}} Of, pertaining or belonging to the male grammatical [[gender]], in languages that have gender distinctions.
 ## {{lb|en|of a [[noun]]}} Being of the '''masculine''' class, or grammatical gender, and inflected in that manner.
-##: ''The noun ''Student'' is '''masculine''' in German.''
+##: {{ux|en|The noun ''Student'' is '''masculine''' in German.}}
 ## {{lb|en|of some other parts of speech}} Being inflected in agreement with the '''masculine''' noun.
-##: ''German uses the '''masculine''' form of the definite article, ''der'', with ''Student''.''
-
-====Synonyms====
-* {{sense|of the male sex}} {{l|en|male}}
-* {{sense|having qualities stereotypical of the male gender}} {{l|en|manly}}, {{l|en|virile}}
-
-====Antonyms====
-* {{sense|of the male sex}} {{l|en|female}}, {{l|en|womanly}}
-* {{sense|having qualities stereotypical of the male gender}} {{l|en|emasculated}}, {{l|en|unmanly}}, {{l|en|epicene}} and [[effeminate]]
-* {{sense|grammar}} {{l|en|feminine}}, {{l|en|neuter}}
+##: {{ux|en|German uses the '''masculine''' form of the definite article, ''der'', with ''Student''.}}
+#: {{coordinate terms|en|feminine|neuter}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|demasculinization}}
-* {{l|en|emasculate}}
-* {{l|en|masculinely}}
-{{der-mid}}
-* {{l|en|masculineness}}
-* {{l|en|masculinity}}
-* {{l|en|masculinization}}
-{{der-bottom}}
+{{col3|en
+|demasculinization
+|emasculate
+|masculinely
+|masculineness
+|masculinity
+|masculinization
+}}
 
 ====Translations====
 {{trans-top|of the male sex; biologically male, not female; manly}}
 * Arabic: {{t|ar|ذَكَرِيّ}}
 * Armenian: {{t+|hy|արական}}
-* Belarusian: {{t|be|мужчы́нскі|sc=Cyrl}}
-* Bulgarian: {{t+|bg|мъ́жки|sc=Cyrl}}
+* Belarusian: {{t|be|мужчы́нскі}}
+* Bulgarian: {{t+|bg|мъ́жки}}
 * Catalan: {{t+|ca|masculí}}
 * Chinese:
-*: Mandarin: {{t+|cmn|男的|tr=nán de|sc=Hani}}, {{t+|cmn|男性|tr=nánxìng de|alt=男性的|sc=Hani}}
+*: Mandarin: {{t+|cmn|男的|tr=nán de}}, {{t+|cmn|男性|tr=nánxìng de|alt=男性的}}
 * Czech: {{t+|cs|mužský}}
 * Danish: {{t+|da|mandlig}}
 * Dutch: {{t+|nl|mannelijk}}
@@ -86,7 +81,7 @@ From {{inh|en|enm|masculyne}}, {{m|enm|masculyn}}, from {{der|en|fro|masculin}},
 * Lithuanian: {{t+|lt|vyriškas}}
 * Maori: {{t|mi|tāne}}
 * Marathi: {{t|mr|पुरुषवाचक}}
-* Norman: {{t|nrf|mastchulîn}}
+* Norman: {{t|nrf|mastchulîn}} {{q|Jersey}}
 * Norwegian:
 *: Bokmål: {{t|nb|maskulin}}, {{t+|nb|mandig}}
 *: Nynorsk: {{t|nn|maskulin}}, {{t|nn|mandig}}
@@ -101,18 +96,18 @@ From {{inh|en|enm|masculyne}}, {{m|enm|masculyn}}, from {{der|en|fro|masculin}},
 * Spanish: {{t+|es|masculino|m}}
 * Swedish: {{t+|sv|manlig}}
 * Turkish: {{t+|tr|eril}}
-* Ukrainian: {{t|uk|чолові́чий|sc=Cyrl}}
+* Ukrainian: {{t|uk|чолові́чий}}
 * Volapük: {{t+|vo|manik}}
 * West Frisian: {{t|fy|manlik}}
 {{trans-bottom}}
 
 {{trans-top|belonging to males; appropriated to, or used by, males}}
 * Armenian: {{t|hy|տղամարդու}}
-* Belarusian: {{t|be|мужчы́нскі|m|sc=Cyrl}}
+* Belarusian: {{t|be|мужчы́нскі|m}}
 * Catalan: {{t+|ca|masculí}}
 * Cebuano: {{t|ceb|panglalaki}}
 * Chinese:
-*: Mandarin: {{t+|cmn|男的|tr=nán de|sc=Hani}}, {{t+|cmn|男性|tr=nánxìng de|alt=男性的|sc=Hani}}
+*: Mandarin: {{t+|cmn|男的|tr=nán de}}, {{t+|cmn|男性|tr=nánxìng de|alt=男性的}}
 * Danish: {{t|da|maskulin}}
 * Dutch: {{t+|nl|mannelijk}}
 * Estonian: {{t|et|mehelik}}
@@ -129,7 +124,7 @@ From {{inh|en|enm|masculyne}}, {{m|enm|masculyn}}, from {{der|en|fro|masculin}},
 * Korean: {{t+|ko|남자|alt=남자의}}
 * Latvian: {{t|lv|vīrišķīgs}}, {{t|lv|vīrišķs}}, {{t|lv|vīriešu}}
 * Marathi: {{t|mr|पुरुषी}}
-* Norman: {{t|nrf|mastchulîn}}
+* Norman: {{t|nrf|mastchulîn}} {{q|Jersey}}
 * Old English: {{t|ang|werlīċ}}
 * Pashto: {{t+|ps|نارينه|tr=nâriná}}
 * Persian: {{t+|fa|مردانه|tr=mardâna}}
@@ -147,10 +142,10 @@ From {{inh|en|enm|masculyne}}, {{m|enm|masculyn}}, from {{der|en|fro|masculin}},
 {{trans-top|having male qualities, not feminine or effeminate}}
 * Albanian: {{t+|sq|mashkullor}}
 * Armenian: {{t+|hy|առնական}}
-* Belarusian: {{t|be|мужчы́нскі|m|sc=Cyrl}}
+* Belarusian: {{t|be|мужчы́нскі|m}}
 * Catalan: {{t+|ca|masculí}}, {{t|ca|viril}}
 * Chinese:
-*: Mandarin: {{t+|cmn|男性|tr=nánxìng de|alt=男性的|sc=Hani}}, {{t+|cmn|男子氣|alt=男子氣的|sc=Hani}}, {{t+|cmn|男子气|tr=nánzǐqì de|alt=男子气的|sc=Hani}}, {{t+|cmn|男子漢|alt=男子漢的|sc=Hani}}, {{t+|cmn|男子汉|tr=nánzǐhàn de|alt=男子汉的|sc=Hani}}
+*: Mandarin: {{t+|cmn|男性|tr=nánxìng de|alt=男性的}}, {{t+|cmn|男子氣|alt=男子氣的}}, {{t+|cmn|男子气|tr=nánzǐqì de|alt=男子气的}}, {{t+|cmn|男子漢|alt=男子漢的}}, {{t+|cmn|男子汉|tr=nánzǐhàn de|alt=男子汉的}}
 * Czech: {{t+|cs|mužský}}, {{t|cs|mužný}}
 * Danish: {{t|da|maskulin}}, {{t|da|mandig}}
 * Dutch: {{t+|nl|mannelijk}}
@@ -174,7 +169,7 @@ From {{inh|en|enm|masculyne}}, {{m|enm|masculyn}}, from {{der|en|fro|masculin}},
 * Lithuanian: {{t+|lt|vyriškas}}
 * Maori: {{t|mi|whakatāne}}, {{t|mi|tāne}}
 * Marathi: {{t|mr|पुरुषी}}
-* Norman: {{t|nrf|mastchulîn}}
+* Norman: {{t|nrf|mastchulîn}} {{q|Jersey}}
 * Norwegian:
 *: Bokmål: {{t|nb|maskulin}}, {{t+|nb|mandig}}
 *: Nynorsk: {{t|nn|maskulin}}, {{t|nn|mandig}}
@@ -189,7 +184,7 @@ From {{inh|en|enm|masculyne}}, {{m|enm|masculyn}}, from {{der|en|fro|masculin}},
 * Spanish: {{t+|es|masculino|m}}, {{t+|es|varonil}}, {{t+|es|viril}}, {{t+|es|macho}}, {{t|es|hombruno|m}}
 * Swedish: {{t+|sv|maskulin}}, {{t+|sv|manlig}}
 * Turkish: {{t+|tr|erkeksi}}
-* Urdu: {{t|ur|مردانہ|tr=mardāna|sc=ur-Arab}}
+* Urdu: {{t|ur|مردانہ|tr=mardāna}}
 * Volapük: {{t+|vo|manik}}
 * West Frisian: {{t|fy|manlik}}
 {{trans-bottom}}
@@ -205,7 +200,7 @@ From {{inh|en|enm|masculyne}}, {{m|enm|masculyn}}, from {{der|en|fro|masculin}},
 * Cebuano: {{t|ceb|panglalaki}}
 * Chechen: {{t|ce|божарийн род}}
 * Chinese:
-*: Mandarin: {{t+|cmn|陽性|alt=陽性的|sc=Hani}}, {{t+|cmn|阳性|tr=yángxìng de|alt=阳性的|sc=Hani}}
+*: Mandarin: {{t+|cmn|陽性|alt=陽性的}}, {{t+|cmn|阳性|tr=yángxìng de|alt=阳性的}}
 * Czech: {{t+|cs|mužský|m}}
 * Danish: {{t+|da|hankøn}}s-
 * Dutch: {{t+|nl|mannelijk}}
@@ -216,10 +211,10 @@ From {{inh|en|enm|masculyne}}, {{m|enm|masculyn}}, from {{der|en|fro|masculin}},
 * Galician: {{t+|gl|masculino}}
 * Georgian: {{t|ka|მამრობითი სქესი}}, {{t|ka|მამრობითი}}
 * German: {{t+|de|männlich}}, {{t+|de|maskulin}}
-* Greek: {{t+|el|αρσενικός|m|sc=Grek}}
+* Greek: {{t+|el|αρσενικός|m}}
 *: Ancient: {{t|grc|ἀρσενικός}}
 * Hausa: {{t+|ha|namiji}}
-* Hebrew: {{t+|he|זכר|m|tr=zakhar|sc=Hebr}}
+* Hebrew: {{t+|he|זכר|m|tr=zakhar}}
 * Hindi: {{t|hi|पुल्लिंग|m}}
 * Hungarian: {{t+|hu|hímnemű}}
 * Indonesian: {{t+|id|maskulin}}
@@ -234,7 +229,7 @@ From {{inh|en|enm|masculyne}}, {{m|enm|masculyn}}, from {{der|en|fro|masculin}},
 * Maltese: {{t-needed|mt}}
 * Marathi: {{t|mr|पुल्लिंगी}}
 * Middle Persian: {{t|pal|nl}}
-* Norman: {{t|nrf|mastchulîn}}
+* Norman: {{t|nrf|mastchulîn}} {{q|Jersey}}
 * Norwegian:
 *: Bokmål: {{t|nb|maskulin}}
 *: Nynorsk: {{t|nn|maskulin}}
@@ -249,8 +244,8 @@ From {{inh|en|enm|masculyne}}, {{m|enm|masculyn}}, from {{der|en|fro|masculin}},
 * Sanskrit: {{t+|sa|पुंलिङ्ग}}
 * Scottish Gaelic: {{t|gd|fireann}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|мушки}}
-*: Roman: {{t+|sh|muški}}
+*: Cyrillic: {{t|sh|му̏шкӣ}}
+*: Roman: {{t+|sh|mȕškī}}
 * Slovak: {{t+|sk|mužský}}
 * Slovene: {{t+|sl|moški}}
 * Spanish: {{t+|es|masculino|m}}
@@ -266,15 +261,15 @@ From {{inh|en|enm|masculyne}}, {{m|enm|masculyn}}, from {{der|en|fro|masculin}},
 
 {{checktrans-top}}
 * Esperanto: {{t-check|eo|virseksa}}
-* Hebrew: {{t-check|he|זכרי|m|tr=zikhrí|alt=זִכְרִי|sc=Hebr}} {{attention|he|2=was "[[זכרי|זִכְרִי]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
+* Hebrew: {{t-check|he|זכרי|m|tr=zikhrí|alt=זִכְרִי}} {{attention|he|2=was "[[זכרי|זִכְרִי]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Ido: {{t+check|io|maskula}}
 * Interlingua: {{t-check|ia|masculin}}
 * Marathi: {{t-check|mr|मर्दानी}}
 {{trans-mid}}
-* Mongolian: {{t+check|mn|эр|sc=Cyrl}}, {{t+check|mn|эршүүд|sc=Cyrl}}
+* Mongolian: {{t+check|mn|эр}}, {{t+check|mn|эршүүд}}
 * Scottish Gaelic: {{t-check|gd|fearail}}, {{t-check|gd|fireannta}}, {{t-check|gd|fireann}}
 * Swedish: {{t+check|sv|maskulin|c}}, {{qualifier|1,2,4}} {{t+check|sv|maskulint|n}}
-* Telugu: {{t-check|te|మగతనం|sc=Telu}}
+* Telugu: {{t-check|te|మగతనం}}
 * Vietnamese: {{t+check|vi|nam tính}}, {{t-check|vi|tính đàn ông}}
 {{trans-bottom}}
 
