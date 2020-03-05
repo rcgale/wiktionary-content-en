@@ -144,7 +144,42 @@ Also cognate with {{cog|sq|brishtë||fragile}}, {{cog|la|frangō||break, break u
 # {{lb|en|intransitive|sports}} To [[counter-attack]]
 #* {{quote-journal|en|date=December 28, 2010|author=Kevin Darlin| title=West Brom 1 - 3 Blackburn| work=BBC| url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9308862.stm| passage=The Baggies almost hit back instantly when Graham Dorrans '''broke''' from midfield and pulled the trigger from 15 yards but Paul Robinson did superbly to tip the Scot's drive around the post.}}
 # {{lb|en|transitive|obsolete}} To lay open, as a purpose; to disclose, divulge, or communicate.
-#* {{RQ:Shakespeare Henry 5|V|ii|passage=Katharine, '''break''' thy mind to me.}}
+#* {{quote-book
+|en
+|author         = William Shakespeare
+|authorlink     = William Shakespeare
+|chapter        = [[w:Henry V (play)|The Life of Henry the Fift<!--not an error-->]]
+|title          = Mr. William Shakespeares Comedies, Histories, & Tragedies: Published According to the True Originall Copies
+|series         = [[w:First Folio|First Folio]]
+|location       = London
+|publisher      = Printed by [[w:William Jaggard|Isaac Iaggard]], and [[w:Edward Blount|Ed[ward] Blount]]
+|year           = 1599
+|year_published = 1623
+|section        = {{#if:V
+    | [Act {{uc:V}}{{#if:ii
+        | {{#ifeq:ii|prologue
+            |, prologue]
+            |, scene {{lc:ii}}]
+          }}
+        | {{#if:V
+            |, {{maintenance line|please specify the scene number in lowercase Roman numerals}}]
+          }}
+      }}
+    | {{maintenance line|please specify the act number in uppercase Roman numerals}}
+  }}
+|page           = 
+|pages          = 
+|pageurl        = https://books.google.com/books?id=uNtBAQAAMAAJ&pg=RA1-PA
+|column         = 
+|columns        = 
+|line           = 
+|lines          = 
+|oclc           = 606515358
+|passage        = Katharine, '''break''' thy mind to me.
+|translation    = 
+|footer         = 
+|brackets       = 
+}}
 # {{lb|en|intransitive}} To become weakened in constitution or faculties; to lose health or strength.
 #* {{rfdatek|en|Jonathan Swift}}
 #*: See how the dean begins to '''break'''; / Poor gentleman he droops apace.
