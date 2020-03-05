@@ -20,13 +20,44 @@ From {{inh|en|enm|boren}}, from {{inh|en|ang|borian|t=to pierce}}, from {{inh|en
 {{en-verb|bor}}
 
 # {{senseid|en|to inspire boredom}}{{lb|en|transitive}} To [[inspire]] [[boredom]] in somebody.
-#* {{rfdatek|en|Shakespeare}}
-#*: He '''bores''' me with some trick.
+#* {{quote-book
+|en
+|author         = William Shakespeare
+|authorlink     = William Shakespeare
+|author2        = [John Fletcher]
+|authorlink2    = John Fletcher (playwright)
+|chapter        = [[w:Henry VIII (play)|The Famous History of the Life of King Henry the Eight<!--Not an error-->]]
+|title          = Mr. William Shakespeares Comedies, Histories, & Tragedies: Published According to the True Originall Copies
+|series         = [[w:First Folio|First Folio]]
+|location       = London
+|publisher      = Printed by [[w:William Jaggard|Isaac Iaggard]], and [[w:Edward Blount|Ed[ward] Blount]]
+|year           = 1613
+|year_published = 1623
+|section        = {{#if:I
+    | [Act {{uc:I}}{{#if:i
+        |, scene {{lc:i}}]
+            | {{#if:I
+                |, {{maintenance line|please specify the scene number in lowercase Roman numerals}}]
+              }}
+          }}
+    | {{maintenance line|please specify the act number in uppercase Roman numerals}}
+  }}
+|page           = 
+|pages          = 
+|pageurl        = https://books.google.com/books?id=uNtBAQAAMAAJ&pg=RA1-PA
+|column         = 
+|columns        = 
+|line           = 
+|lines          = 
+|oclc           = 606515358
+|passage        = He '''bores''' me with some trick.
+|translation    = 
+|brackets       = 
+}}
 #* {{rfdatek|en|Carlyle}}
 #*: {{...}} used to come and '''bore''' me at rare intervals.
 # {{senseid|en|to make a hole}}{{lb|en|transitive}} To make a [[hole]] through something.
-#* {{rfdatek|en|Shakespeare}}
-#*: I'll believe as soon this whole earth may be '''bored'''.
+#* {{RQ:Shakespeare Midsummer|III|ii|passage=I'll believe as soon this whole earth may be '''bored'''.}}
 # {{lb|en|intransitive}} To make a [[hole]] with, or as if with, a boring instrument; to cut a circular hole by the rotary motion of a tool.
 #: ''to '''bore''' for water or oil''
 #: ''An insect '''bores''' into a tree.''
