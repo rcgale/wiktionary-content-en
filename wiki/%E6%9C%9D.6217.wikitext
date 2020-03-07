@@ -125,79 +125,108 @@ Perhaps related to {{cog|th|เพรา||morning}} ({{zh-ref|Manomaivibool, 197
 ===Kanji===
 {{ja-kanji|grade=2|rs=月08}}
 
-# [[morning]]
-# [[dynasty]]; [[regime]]
-# [[epoch]]; [[period]]
-# [[Korea]]; {{qualifier|more specifically}} [[North Korea]]
-
 ====Readings====
+From {{der|ja|ltc|-}} {{ltc-l|朝|id=1|[[morning]]}}:
 {{ja-readings
-|goon=ちょう<てう, じょう<でう
+|goon=ちょう<てう
 |kanon=ちょう<てう
 |kun=あさ-, あした-
-|nanori=あ, あそ, ささ, ちか, とも
+|nanori=とき, はじめ
 }}
-
-====Compounds====
-{{der-top|Compounds}}
-* {{ja-r|朝な 夕な|あさな ゆうな}}
-* {{ja-r|朝%食|ちょう%しょく}}
-* {{ja-r|朝%刊|ちょう%かん}}: (morning) [[newspaper]]
-* {{ja-r|朝%貢|ちょう%こう}}
-* {{ja-r|朝%廷|ちょう%てい}}
-* {{ja-r|朝%野|ちょう%や}}
-* {{ja-r|王%朝|おう%ちょう}}
-* {{ja-r|早%朝|そう%ちょう}}
-* {{ja-r|朝%飯%前|あさ%めし%まえ}}: a piece of cake (an easy thing to do)
-* {{ja-r|朝%日|あさ%ひ}}: [[rising sun]]
-* {{ja-r|今%朝|け%さ}}: this morning
-{{der-bottom}}
+From {{der|ja|ltc|-}} {{ltc-l|朝|id=2|[[dynasty]]; [[imperial]] [[court]]; [[epoch]]}}:
+{{ja-readings
+|goon=じょう<でう
+|kanon=ちょう<てう
+|nanori=かた, さ, つと, とも, のり
+}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|あさ}}
-Historically a day was split into two halves:
-* afternoon cycle: {{ja-r|朝|あさ}}, {{ja-r|昼|ひる}}, {{ja-r|夕|ゆう}}
-* evening cycle: {{ja-r|夕べ|ゆうべ}}, {{ja-r|宵|よい}}, {{ja-r|夜%中|よ%なか}}, {{ja-r|暁|あかつき}}, {{ja-r|朝|あした}}
+From {{inh|ja|ojp|sort=あさ|-}}.
+
+Historically, a day was split into two halves:
+* Afternoon cycle: {{m|ja||朝|tr=asa}} → {{m|ja|昼|tr=hiru}} → {{m|ja|夕|tr=yū}}
+* Evening cycle: {{m|ja|夕べ|tr=yūbe}} → {{m|ja|宵|tr=yoi}} → {{m|ja|夜中|tr=yonaka}} → {{m|ja|暁|tr=akatsuki}} → {{m|ja|朝#Etymology 3|朝|tr=ashita}}
 While ''asa'' and ''ashita'' represent the same time period, ''asa'' was associated with beginning of the afternoon and ''ashita'' was associated with the end of the night. Both terms share an initial ''as-'' and are likely etymologically related.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|あさ|acc=1|acc_ref=DJR,SMK2}}
-** (''[[w:Kansai dialect|Kyoto]]'') あ{{overline|さ}} [àsáꜜ]<ref>{{R:Keihankei}}</ref>
+{{ja-pron|あさ|acc=1|acc_ref=DJR,SMK2}}
+* (''[[w:Kansai dialect|Kyoto]]'') {{lang|ja|あ{{ja-accent/down|さ}}}} <tt>[àsáꜜ]</tt> ({{ll|ja|低起式|Teiki}} - [2])<ref name="KHK">{{R:Keihankei}}</ref>
 
 ====Noun====
 {{ja-noun|あさ}}
 
-# [[morning]]
+# the [[morning]]
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|朝臣|あそん}}
+* {{ja-r|朝な夕な|あさ な ゆう な}}
+* {{ja-r|朝%日|あさ%ひ}}
+* {{ja-r|朝%飯|あさ%めし}}
+* {{ja-r|今%朝|け%さ}}
+{{der-bottom}}
 
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|あした}}
-Historically a day was split into two halves:
-* afternoon cycle: {{ja-r|朝|あさ}}, {{ja-r|昼|ひる}}, {{ja-r|夕|ゆう}}
-* evening cycle: {{ja-r|夕べ|ゆうべ}}, {{ja-r|宵|よい}}, {{ja-r|夜%中|よ%なか}}, {{ja-r|暁|あかつき}}, {{ja-r|朝|あした}}
+From {{inh|ja|ojp|-}}.
+
+Historically, a day was split into two halves:
+* Afternoon cycle: {{m|ja|朝#Etymology 1|朝|tr=asa|}} → {{m|ja|昼|tr=hiru}} → {{m|ja|夕|tr=yū}}
+* Evening cycle: {{m|ja|夕べ|tr=yūbe}} → {{m|ja|宵|tr=yoi}} → {{m|ja|夜中|tr=yonaka}} → {{m|ja|暁|tr=akatsuki}} → {{m|ja||朝|tr=ashita}}
 While ''asa'' and ''ashita'' represent the same time period, ''asa'' was associated with beginning of the afternoon and ''ashita'' was associated with the end of the night. Both terms share an initial ''as-'' and are likely etymologically related.
 
 ====Pronunciation====
-{{ja-pron|yomi=k|あした|acc=3|acc_ref=DJR}}
-** (''[[w:Kansai dialect|Kyoto]]'') {{overline|あした}} [áshítá]<ref>{{R:Keihankei}}</ref>
-
-====Alternative forms====
-* {{ja-l|明日}}
+{{ja-pron|あした|acc=3|acc_ref=DJR}}
+* (''[[w:Kansai dialect|Kyoto]]'') {{lang|ja|{{ja-accent/high|あした}}}} <tt>[áshítá]</tt> ({{ll|ja|高起式|Kōki}} - [0])<ref name="KHK"/>
 
 ====Noun====
 {{ja-noun|あした}}
 
-# [[morning]]
+# the [[morning]]
 
-=====Usage notes=====
-The spelling {{ja-l|明日}} is much more common in modern Japanese.
+=====Derived terms=====
+* {{ja-r|明日|あした|[[tomorrow]]}}
 
 ===Etymology 3===
+{{ja-kanjitab|yomi=o|ちょう}}
+{{IPAchar|/teu/}} → {{IPAchar|/t͡ɕeu/}} → {{IPAchar|/t͡ɕoː/}}
+
+The “morning” and “Korea” senses are from {{der|ja|ltc|sort=ちよう|-}} {{ltc-l|朝|id=1}}.
+
+The “imperial court”, “dynasty”{{,}} and “epoch” senses are from {{der|ja|ltc|sort=ちよう|-}} {{ltc-l|朝|id=2}}, using the {{m|ja|漢音|tr=kan'on|lit=[[Han]] [[sound]]}} borrowing.
+
+====Pronunciation====
+{{ja-pron|ちょう|acc=1|acc_ref=DJR}}
 
 ====Suffix====
-{{ja-kanjitab|yomi=on|ちょう}}
+{{ja-pos|suffix|ちょう|てう}}
 
 # [[dynasty]]
-#: {{ja-usex|ブルボン'''朝'''|^ブルボン-'''ちょう'''|the Bourbon '''Dynasty'''}}
+#: {{ja-usex-inline|ブルボン'''朝'''|^ブルボン-'''ちょう'''|the Bourbon '''Dynasty'''}}
+
+====Affix====
+{{ja-pos|affix|ちょう|hhira=てう}}
+
+# [[morning]]
+# [[imperial]] [[court#Noun|court]]
+# {{lb|ja|by extension}} [[Japan]]
+# [[have|having]] an [[audience]] with the [[emperor]]
+# [[dynasty]], [[regime]]
+# {{lb|ja|by extension}} [[epoch]], [[period]]
+# {{short for|ja|朝鮮|tr=Chōsen|dot=:|sort=ちよう}} [[Korea]], ''specifically'' {{short for|ja|nocap=1|朝鮮民主主義人民共和国|tr=Chōsen Minshu Shugi Jinmin Kyōwakoku|dot=:}} [[Democratic People's Republic of Korea]] {{gl|[[North Korea]]}}
+
+=====Derived terms=====
+{{der-top3}}
+* {{ja-r|朝%食|ちょう%しょく}}
+* {{ja-r|朝%刊|ちょう%かん|morning [[newspaper]]}}
+* {{ja-r|朝%貢|ちょう%こう}}
+* {{ja-r|朝%臣|ちょう%しん}}
+* {{ja-r|朝%廷|ちょう%てい}}
+* {{ja-r|朝%野|ちょう%や}}
+* {{ja-r|王%朝|おう%ちょう}}
+* {{ja-r|早%朝|そう%ちょう}}
+{{der-bottom}}
 
 ===References===
 <references/>
