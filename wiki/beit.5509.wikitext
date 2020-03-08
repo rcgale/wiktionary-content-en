@@ -57,10 +57,12 @@
 ==Old Norse==
 
 ===Etymology 1===
-From {{inh|non|gem-pro|*baitō}}, from {{der|non|ine-pro|*bʰeyd-||to break, split}}.
+{{PIE root|non|bʰeyd}}
+From {{inh|non|gem-pro|*baitō}}, from {{der|non|ine-pro|*bʰeyd-||to break, split}}. Related to {{m|non|bíta}}.
 
 ====Noun====
-{{non-noun|f}}
+{{non-noun|f|beitar|beitar}}
+
 # a {{l|en|pasturage}}, a {{l|en|pasture}}
 # a plate of metal mounted on the brim (of a thing)
 
@@ -68,62 +70,44 @@ From {{inh|non|gem-pro|*baitō}}, from {{der|non|ine-pro|*bʰeyd-||to break, spl
 {{non-decl-f-o|beit|beit}}
 
 =====Derived terms=====
-{{der3|non|{{l|non|beitarland|g=n||a pasture man}}
-|{{l|non|beitarmaðr|g=m||owner of a pasture}}
-|{{l|non|beitartollr||a toll or fee for pasturage}}
-}}
+* {{l|non|beitarland|g=n||a pasture man}}
+* {{l|non|beitarmaðr|g=m||owner of a pasture}}
+* {{l|non|beitartollr||a toll or fee for pasturage}}
 
 =====Related terms=====
 * {{l|non|beita}}
 * {{l|non|beiti}}
-* {{l|non|bíta}}
 
-=====References=====
-* [https://archive.org/stream/icelandicenglish00cleauoft#page/56 beit] in ''An Icelandic-English Dictionary'', R. Cleasby and G. Vigfússon, Clarendon Press, 1874, at [https://archive.org/details/icelandicenglish00cleauoft Internet Archive].
-* [https://archive.org/stream/concisedictionar001857#page/46 beit] in ''A Concise Dictionary of Old Icelandic'', G. T. Zoëga, Clarendon Press, 1910, at [https://archive.org/details/concisedictionar001857 Internet Archive].
-* {{R:Zoega}}
+=====Descendants=====
+* {{desc|nn|beit|g=f}}
 
 ===Etymology 2===
+{{PIE root|non|bʰeyd}}
+From {{inh|non|gem-pro|*baitą}}, {{m|gem-pro|*baitaz}}, also from {{der|non|ine-pro|*bʰeyd-||to break, split}}. Cognate with {{cog|ang|bāt}}, which was borrowed into Old Norse again as the more used {{m|non|bátr}}.
 
 ====Noun====
-{{non-noun|f}}
-# a plate of metal mounted on the brim (of a thing)
+{{non-noun|n|beits}}
 
-====Descendants====
-* {{desc|nn|beit}}
-
-====References====
-* {{R:Zoega}}
-* {{R:The Nynorsk Dictionary}}
-
-===Etymology 3===
-From {{inh|non|gem-pro|*baitą}}, {{m|gem-pro|*baitaz}}, also from {{der|non|ine-pro|*bʰeyd-||to break, split}}.
-
-====Noun====
-{{non-noun|n}}
 # {{lb|non|poetic}} a {{l|en|boat}}
 
 =====Declension=====
 {{non-decl-n-a|beit|beit|gsi=beits, beiz|gsd=beitsins, beizins}}
 
-=====Derived terms=====
-* {{l|non|beitiáss|g=m||sail-yard}}
-
-=====Related terms=====
-* {{l|non|bátr}}
-* {{l|non|bíta}}
-
-=====References=====
-* [https://archive.org/stream/icelandicenglish00cleauoft#page/56 beit] in ''An Icelandic-English Dictionary'', R. Cleasby and G. Vigfússon, Clarendon Press, 1874, at [https://archive.org/details/icelandicenglish00cleauoft Internet Archive].
-* [https://archive.org/stream/concisedictionar001857#page/46 beit] in ''A Concise Dictionary of Old Icelandic'', G. T. Zoëga, Clarendon Press, 1910, at [https://archive.org/details/concisedictionar001857 Internet Archive].
-* {{R:Zoega}}
-
-===Etymology 4===
+===Etymology 3===
 {{nonlemma}}
 
 ====Verb====
 {{head|non|verb form}}
-# {{inflection of|non|bíta||1//3|s|ind|past}}
+
+# {{inflection of|non|beita||2|s|imp|act}}
+# {{inflection of|non|bíta||1//3|s|past|ind|act}}
+
+===References===
+* [https://archive.org/stream/icelandicenglish00cleauoft#page/56 beit] in ''An Icelandic-English Dictionary'', R. Cleasby and G. Vigfússon, Clarendon Press, 1874, at [https://archive.org/details/icelandicenglish00cleauoft Internet Archive].
+* [https://archive.org/stream/concisedictionar001857#page/46 beit] in ''A Concise Dictionary of Old Icelandic'', G. T. Zoëga, Clarendon Press, 1910, at [https://archive.org/details/concisedictionar001857 Internet Archive].
+* {{R:Zoega|beit1|beit1}}
+* {{R:Zoega|beit2|beit2}}
+* {{R:Zoega|beit3|beit3}}
 
 [[Category:non:Watercraft]]
 
