@@ -287,8 +287,7 @@ Short for {{m|en|ditto}}.
 ===Verb===
 {{head|sq|verb}}
 
-# {{inflection of|sq|dua||2|s|pres|indc}}
-# {{inflection of|sq|dua||3|s|pres|indc}}
+# {{infl of|sq|dua||23|s|pres|ind}}
 
 ----
 
@@ -300,12 +299,10 @@ Short for {{m|en|ditto}}.
 ===Noun===
 {{head|bm|noun}}
 
-# [[group]]
+# [[Category:bm:Collectives]] [[group]]
 
 ===References===
 * 2007. [http://archive.phonetics.ucla.edu/Language/BAM/bam.html The UCLA Phonetics Lab Archive]. Los Angeles, CA: UCLA Department of Linguistics.
-
-{{topics|bm|Collectives}}
 
 ----
 
@@ -341,7 +338,7 @@ Borrowed from {{bor|ca|it|do}}.
 ====Noun====
 {{ca-noun|m|dos}}
 
-# {{lb|ca|music}} [[#English|do]] {{gloss|first note of diatonic scale}}
+# {{lb|ca|music}} [[#English|do]] (first note of diatonic scale)
 
 ----
 
@@ -362,7 +359,7 @@ From {{inh|gmw-cfr|goh|dār||there}}.
 From {{inh|gmw-cfr|goh|duo||then}}, variant of {{m|goh|do|do, dō}}. Compare {{cog|de|da}}, {{cog|nl|toen}}.
 
 ====Alternative forms====
-* {{l|gmw-cfr|du}}, {{l|gmw-cfr|dunn}} {{qualifier|southern Moselle Francoinan}}
+* {{alter|gmw-cfr|du}}, {{l|gmw-cfr|dunn}} {{qualifier|southern Moselle Francoinan}}
 
 ====Pronunciation====
 * {{IPA|gmw-cfr|/doː/}} {{qualifier|traditional}}
@@ -377,9 +374,9 @@ From {{inh|gmw-cfr|goh|duo||then}}, variant of {{m|goh|do|do, dō}}. Compare {{c
 From {{inh|gmw-cfr|goh|du}}.
 
 ====Alternative forms====
-* {{l|gmw-cfr|du}} {{qualifier|many dialects}}
-* {{l|gmw-cfr|dou}} {{qualifier|some dialects of Moselle Franconian}}
-* {{l|gmw-cfr|de}} {{qualifier|unstressed form}}
+* {{alter|gmw-cfr|du}} {{qualifier|many dialects}}
+* {{alter|gmw-cfr|dou}} {{qualifier|some dialects of Moselle Franconian}}
+* {{alter|gmw-cfr|de}} {{qualifier|unstressed form}}
 
 ====Pronunciation====
 * {{IPA|gmw-cfr|/doː/}}
@@ -404,15 +401,15 @@ From {{inh|cs|sla-pro|*do}}.
 {{cs-prep}} + ''genitive''
 
 # [[into]], [[in]] {{gloss|to the inside of}}
-#: ''Vešel '''do''' místnosti.'' —He walked into the room.
-#: ''Dostala se jí voda '''do''' bot.''—''Water got in her boots.''
+#: {{uxi|cs|Vešel '''do''' místnosti.|He walked into the room.}}
+#: {{uxi|cs|Dostala se jí voda '''do''' bot.|Water got in her boots.}}
 # [[to]], [[in]] {{gloss|in the direction of, and arriving at; indicating destination}}
-#: ''Jdeme '''do''' obchodu.'' — ''We are walking to the shop.''
-#: ''Přiletěli jsme '''do''' New Yorku.'' — ''We arrived in New York.''
+#: {{uxi|cs|Jdeme '''do''' obchodu.|We are walking to the shop.}}
+#: {{uxi|cs|Přiletěli jsme '''do''' New Yorku.|We arrived in New York.}}
 # [[until]] {{gloss|up to the time of}}
-#: ''Zůstal tam až '''do''' neděle.''—He stayed there until Sunday.
+#: {{uxi|cs|Zůstal tam až '''do''' neděle.|He stayed there until Sunday.}}
 # [[by]] {{gloss|at some time before the given time}}
-#: ''Ať jsi zpátky '''do''' desíti!'' — ''Be back by ten o'clock!''
+#: {{uxi|cs|Ať jsi zpátky '''do''' desíti!|Be back by ten o'clock!}}
 
 ----
 
@@ -436,15 +433,7 @@ From {{der|nl|it|do||the note}}.
 * {{l|nl|ut}} {{qualifier|archaic}}
 
 ===See also===
-* {{l|nl|bee}}
-* {{l|nl|fa}}
-* {{l|nl|kruis}}
-* {{l|nl|la}}
-* {{l|nl|mi}}
-* {{l|nl|mol}}
-* {{l|nl|re}}
-* {{l|nl|si}}
-* {{l|nl|sol}}
+* {{sense|notes}} {{l|nl|[[re]], [[mi]], [[fa]], [[sol]], [[la]], [[si]]; [[bee]], [[kruis]], [[mol]]}}
 
 ----
 
@@ -517,9 +506,7 @@ Borrowed from {{bor|fo|it|do}}.
 {{fr-noun|m|do}}
 
 # {{lb|fr|music}} [[#Noun 2|do]], the note 'C'.
-
-====Synonyms====
-* {{l|fr|ut}}
+#: {{syn|fr|ut}}
 
 ===Further reading===
 * {{R:TLFi}}
@@ -538,8 +525,7 @@ From contraction of preposition {{m|gl|de||of, from}} + masculine definite artic
 {{head|gl|contraction|g=m|feminine|da|masculine plural|dos|feminine plural|das}}
 
 # [[of]] [[the]]; [[from]] the; [['s]]
-#: ''cabalo '''do''' demo''
-#:: "demon''''s''' horse" ("dragonfly")
+#: {{uxi|gl|cabalo '''do''' demo|demon''''s''' horse ("dragonfly")}}
 
 ----
 
@@ -554,9 +540,7 @@ From {{der|ht|fr|dos||back}}
 ===Noun===
 {{head|ht|noun}}
 
-# [[back]] (of the body)
-
-[[Category:ht:Anatomy]]
+# [[Category:ht:Anatomy]] [[back]] (of the body)
 
 ----
 
@@ -569,13 +553,11 @@ From {{der|ht|fr|dos||back}}
 {{head|hrx|adverb}}
 
 # [[here]]
-#: {{ux|hrx|Die Fraa is nimmi '''do'''.|The woman isn't '''here''' anymore.}}
+#: {{syn|hrx|hie|hier}}
+#: {{uxi|hrx|Die Fraa is nimmi '''do'''.|The woman isn't '''here''' anymore.}}
 # [[then]]; [[so]]
-#: {{ux|hrx|'''Do''' sim-mer fortgesprung.|'''Then''' we fled.}}
-
-====Synonyms====
-* {{sense|here}} {{l|hrx|hie}}, {{l|hrx|hier}}
-* {{sense|then}} {{l|hrx|dann}}
+#: {{syn|hrx|dann}}
+#: {{uxi|hrx|'''Do''' sim-mer fortgesprung.|'''Then''' we fled.}}
 
 ===Further reading===
 * [https://hunsriqueanoriograndense.wordpress.com/dicionario-werterbuch/ Online Hunsrik Dictionary]
@@ -605,9 +587,9 @@ From {{der|ht|fr|dos||back}}
 {{head|ga|particle|triggers {{ga-mut-link|l}}}}
 
 # {{lb|ga|Munster|literary}} ''marker of the past tense''
-#: {{ux|ga|'''do''' mhol sé|he praised|inline=1}}
+#: {{uxi|ga|'''do''' mhol sé|he praised}}
 # {{lb|ga|Munster|literary}} ''relative marker (nominative, accusative)''
-#: {{ux|ga|an cailín '''do''' mholann sé|the girl that he praises|inline=1}}
+#: {{uxi|ga|an cailín '''do''' mholann sé|the girl that he praises}}
 
 ===Etymology 2===
 From {{inh|ga|sga|do}}, from {{inh|ga|cel-pro|*do|t=to, for}}.
@@ -624,11 +606,11 @@ From {{inh|ga|sga|do}}, from {{inh|ga|cel-pro|*do|t=to, for}}.
 {{ga-prep|d|l}}
 
 # [[to]], [[for]]
-#: {{ux|ga|'''do''' chara|to a friend, for a friend|inline=1}}
+#: {{uxi|ga|'''do''' chara|to a friend, for a friend}}
 # {{non-gloss definition|used with the possessive determiners ''mo'', ''do'', ''bhur'' to indicate the direct object of a verbal noun, in place of ''ag'' after a form of ''bí'' in the progressive aspect}}
-#: {{ux|ga|Tá sé '''do''' mo ghortú.|inline=1|It’s hurting me.}}
-#: {{ux|ga|Bhí sé '''do''' d’fhiafraí.|inline=1|He was inquiring about you {{g|s}}.}}
-#: {{ux|ga|Bhí sibh '''do''' bhur gcloí.|inline=1|You {{g|p}} were being overthrown.}}
+#: {{uxi|ga|Tá sé '''do''' mo ghortú.|It’s hurting me.}}
+#: {{uxi|ga|Bhí sé '''do''' d’fhiafraí.|He was inquiring about you {{g|s}}.}}
+#: {{uxi|ga|Bhí sibh '''do''' bhur gcloí.|You {{g|p}} were being overthrown.}}
 
 =====Inflection=====
 {{ga-prep-infl
@@ -664,7 +646,7 @@ From {{inh|ga|sga|do}}, from {{inh|ga|cel-pro|*tu|t=your, thy}}.
 {{head|ga|determiner|cat2=possessive determiners}} {{qualifier|triggers {{ga-mut-link|l}}}}
 
 # your (singular)
-#: {{ux|ga|Cá bhfuil '''do''' ghluaisteán?|Where is your car?}}
+#: {{uxi|ga|Cá bhfuil '''do''' ghluaisteán?|Where is your car?}}
 
 ====See also====
 {{Irish personal pronouns}}
@@ -684,12 +666,12 @@ From {{inh|ga|sga|do}}, from {{inh|ga|cel-pro|*tu|t=your, thy}}.
 ===Etymology 1===
 
 ====Alternative forms====
-* {{qualifier|rare}} {{l|it|dò}}
+* {{qualifier|rare}} {{alter|it|dò}}
 
 ====Verb====
 {{head|it|verb form}}
 
-# {{inflection of|it|dare||first-person|singular|indicative|present}}
+# {{infl of|it|dare||1s|ind|pres}}
 
 ===Etymology 2===
 
@@ -697,8 +679,8 @@ From {{inh|ga|sga|do}}, from {{inh|ga|cel-pro|*tu|t=your, thy}}.
 {{wikipedia|Do (nota)|lang=it}}
 {{head|it|noun|g=m}}
 
-# [[#Noun 2|do]], the musical note
-# [[C]] (the musical note or key)
+# [[#Noun 2|do]] (musical note)
+# [[C]] (musical note or key)
 
 ===Anagrams===
 * {{l|it|od}}
@@ -721,10 +703,8 @@ From {{inh|ga|sga|do}}, from {{inh|ga|cel-pro|*tu|t=your, thy}}.
 {{head|lld|preposition}}
 
 # [[behind]]
+#: {{ant|lld|dant}}
 # [[before]] (time)
-
-====Antonyms====
-* {{l|lld|dant}}
 
 ----
 
@@ -744,16 +724,13 @@ Cognates include {{cog|grc|δίδωμι}}, {{cog|sa|ददाति|tr=dádāti}
 {{la-verb|irreg|dō}}
 
 # I [[give]]
-#: ''Tertium non '''datur'''.''<sup>{{w|law of excluded middle}}</sup>
-#:: A third [possibility] is not '''given''': <math> P \or \neg P </math>.
+#: {{syn|la|dōnō}}
+#: {{ux|la|Tertium non '''datur'''.''<sup>{{w|law of excluded middle}}</sup>|A third [possibility] is not '''given''': <math> P \or \neg P </math>.}}
 #* {{Q|la|Jerome|Vulgate|Exodus|20|12|quote=Honora patrem tuum et matrem tuam, ut sis longaevus super terram, quam Dominus Deus tuus '''dabit''' tibi.|trans=Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God '''giveth''' thee.}}
-#: {{syn|la|dōnō}}
 # I [[offer]], [[render]]
-#* {{rfdate|la}}, {{w|Plautus}} ''{{w|Captivi}}'' ("the captives") ([https://web.archive.org/web/20130113120403/http://www.ihaystack.com/authors/m/plautus_titus_maccius/00016564_amphitryo_asinaria_aulularia_bacchides_captivi_amphi/00016564_englishlatin_utf8_p043.htm English and Latin text])
-#*: '''''Do''' tibi operam, Aristophontes, si quid est quod me velis.''
-#*:: I’m at your service, Aristophontes, if there’s anything you want of me.
-#*:: ''Literally:'' I '''offer''' labour to you, Aristophontes...
 #: {{syn|la|dōnō}}
+#* {{rfdate|la}}, {{w|Plautus}} ''{{w|Captivi}}'' ("the captives") ([https://web.archive.org/web/20130113120403/http://www.ihaystack.com/authors/m/plautus_titus_maccius/00016564_amphitryo_asinaria_aulularia_bacchides_captivi_amphi/00016564_englishlatin_utf8_p043.htm English and Latin text])
+#*: {{ux|la|'''Do''' tibi operam, Aristophontes, si quid est quod me velis.|I’m at your service, Aristophontes, if there’s anything you want of me. ("I '''offer''' labour to you, Aristophontes…)}}
 # I [[yield]], [[surrender]], [[concede]]
 
 ====Conjugation====
@@ -784,7 +761,6 @@ Cognates include {{cog|grc|δίδωμι}}, {{cog|sa|ददाति|tr=dádāti}
 }}
 
 ====Descendants====
-{{desc-top}}
 * {{desc|rup|dau}}, {{l|rup|dari}}
 * {{desc|co|dà}}
 * {{desc|dlm|dur}}
@@ -804,11 +780,10 @@ Cognates include {{cog|grc|δίδωμι}}, {{cog|sa|ददाति|tr=dádāti}
 ** {{desc|ast|dar}}
 ** {{desc|roa-leo|dar}}
 ** {{desc|mwl|dar}}
-{{desc-mid}}
 * {{desc|roa-opt|dar}}
 ** {{desc|fax|dal}}
 ** {{desc|gl|dar}}
-** Portuguese: {{desctree|pt|dar|notext=1}}
+** {{desctree|pt|dar}}
 * {{desc|pro|dar}}
 ** {{desc|oc|dar}}
 ** {{desc|roa-oca|dar}}
@@ -827,7 +802,6 @@ Cognates include {{cog|grc|δίδωμι}}, {{cog|sa|ददाति|tr=dádāti}
 * {{desc|scn|dari}}, {{l|scn|rari}}
 * {{desc|roa-tar|dare}}
 * {{desc|vec|dar}}
-{{desc-bottom}}
 
 ===References===
 * {{R:L&S}}
@@ -867,10 +841,10 @@ From {{inh|dsb|sla-pro|*do}}.
 #* '''1998''', Erwin Hannusch, ''Niedersorbisch praktisch und verständlich'', Bauzten: Domowina, {{ISBN|3-7420-1667-9}}, p.&nbsp;30:
 #*: {{lang|dsb|Jana chójźi hyšći '''do''' šule, wóna jo wuknica.}}
 #*:: Jana still goes to school; she is a schoolgirl.
-#: {{ux|dsb|'''do''' Chóśebuza|to Cottbus|inline=1}}
-#: {{ux|dsb|'''do''' jsy|to the village, into the village|inline=1}}
-#: {{ux|dsb|'''do''' wognja|into the fire|inline=1}}
-#: {{ux|dsb|'''do''' njebja|to heaven|inline=1}}
+#: {{uxi|dsb|'''do''' Chóśebuza|to Cottbus}}
+#: {{uxi|dsb|'''do''' jsy|to the village, into the village}}
+#: {{uxi|dsb|'''do''' wognja|into the fire}}
+#: {{uxi|dsb|'''do''' njebja|to heaven}}
 
 ----
 
@@ -893,7 +867,7 @@ From {{inh|lb|gem-pro|*þar}}.
 ====Verb====
 {{head|lb|verb form}}
 
-# {{inflection of|lb|doen||2|s|imp}}
+# {{infl of|lb|doen||2s|imp}}
 
 ----
 
@@ -906,10 +880,7 @@ Possibly an abbreviation of "do-[[hus|hūs]]" ("''do'' house") from {{der|nb|gml
 {{nb-noun-c2}}
 
 # a [[toilet]], a [[loo]]
-
-=====Synonyms=====
-* {{l|nb|dass}}
-* {{l|nb|toalett}}
+#: {{syn|nb|dass|toalett}}
 
 =====Derived terms=====
 {{der3|nb
@@ -927,7 +898,7 @@ Possibly an abbreviation of "do-[[hus|hūs]]" ("''do'' house") from {{der|nb|gml
 ====Noun====
 {{head|nb|noun|g=m}}
 
-# [[#English|do]] {{qualifier|the musical note}}
+# [[#English|do]] (the musical note)
 
 ===References===
 * {{R:The Bokmål Dictionary}}
@@ -955,10 +926,7 @@ Possibly an abbreviation of "do-[[hus|hūs]]" ("''do'' house") from {{der|nn|gml
 {{nn-noun-n1}}
 
 # a [[toilet]], a [[loo]]
-
-=====Synonyms=====
-* {{l|nn|dass}}
-* {{l|nn|toalett}}
+#: {{syn|nn|dass|toalett}}
 
 =====Derived terms=====
 For other terms please refer to '''{{l-nb|do}}''' for the time being.
@@ -973,7 +941,7 @@ For other terms please refer to '''{{l-nb|do}}''' for the time being.
 ====Noun====
 {{head|nn|noun|g=m}}
 
-# [[#English|do]] {{qualifier|the musical note}}
+# [[#English|do]] (musical note)
 
 ===References===
 * {{R:The Nynorsk Dictionary}}
@@ -1051,8 +1019,7 @@ Compare {{cog|de|da}}.
 {{head|pdc|adverb}}
 
 # [[here]]
-#: Heit iss en Feierdaag '''do''' in Amerikaa.
-#:: Today is a holiday here in America.
+#: {{ux|pdc|Heit iss en Feierdaag '''do''' in Amerikaa.|Today is a holiday here in America.}}
 
 ----
 
@@ -1080,7 +1047,7 @@ From {{inh|pl|sla-pro|*do}}, from {{der|pl|ine-pro|*de}}, {{m|ine-pro|*do}}, whe
 ==Portuguese==
 
 ===Alternative forms===
-* {{l|pt|d'o}} {{qualifier|dated}}
+* {{alter|pt|d'o}} {{qualifier|dated}}
 
 ===Etymology===
 From {{inh|pt|roa-opt|do}}, from {{m|roa-opt|de||of}} + {{m|roa-opt|o||the}}. Akin to {{cog|es|del}} and {{cog|fr|du}}.
@@ -1129,12 +1096,12 @@ From {{inh|gd|sga|do}}, from {{inh|gd|cel-pro|*tu||your, thy}}.
 {{head|gd|pronoun}}
 
 # [[your]] {{qualifier|informal singular}}
-#: {{ux|gd|Bha iongantach '''do''' ghràdh dhomh.|t=Wonderful was thy love for me.|inline=1}}
+#: {{uxi|gd|Bha iongantach '''do''' ghràdh dhomh.|Wonderful was thy love for me.}}
 
 =====Usage notes=====
 * [[lenite|Lenites]] the following word.
 * Before a word beginning with a [[vowel]] or '''fh''' followed by a vowel it takes the form {{m|gd|d'}}.
-*: {{ux|gd|Bidh cuimhn’ agam ort, air '''d’''' anam ghrinn.|t=I will remember thee, thy dear soul.|inline=1}}
+*: {{uxi|gd|Bidh cuimhn’ agam ort, air '''d’''' anam ghrinn.|I will remember thee, thy dear soul.}}
 
 ===Etymology 2===
 From {{inh|gd|sga|do}}, from {{inh|gd|cel-pro|*tu||to}}.
@@ -1143,16 +1110,16 @@ From {{inh|gd|sga|do}}, from {{inh|gd|cel-pro|*tu||to}}.
 {{head|gd|preposition}}
 
 # [[to]]
-#: {{ux|gd|Bha e a' siubhal '''do''' Shasainn an-uiridh.|t=He travelled to England last year.|inline=1}}
+#: {{uxi|gd|Bha e a' siubhal '''do''' Shasainn an-uiridh.|He travelled to England last year.}}
 # [[for]]
-#: {{ux|gd|'''Do''' dh'ar beatha, dhut, dhèanainn e.|t=For our life, for thee, I would do it.|inline=1}}
+#: {{uxi|gd|'''Do''' dh'ar beatha, dhut, dhèanainn e.|For our life, for thee, I would do it.}}
 
 =====Usage notes=====
 * [[lenite|Lenites]] the following word.
 * Before a word beginning with a [[vowel]] or '''fh''' followed by a vowel it takes the form {{l|gd|do dh'}}.
-*: {{ux|gd|Tha sinn a' dol '''do dh''''Ile.|t=We are going to Islay.|inline=1}}
+*: {{uxi|gd|Tha sinn a' dol '''do dh''''Ile.|We are going to Islay.}}
 * If the [[definite article]] in the [[singular]] follows, it combines with '''do''' into {{l|gd|don}}:
-*: {{ux|gd|Fàilte '''don''' dùthaich.|t=Welcome to the country.|inline=1}}
+*: {{uxi|gd|Fàilte '''don''' dùthaich.|Welcome to the country.}}
 
 =====Synonyms=====
 * {{l|gd|a}}
@@ -1186,47 +1153,47 @@ From {{inh|sh|sla-pro|*do}}, from {{der|sh|ine-pro|*de}}, {{m|ine-pro|*do}}.
 {{sh-adverb|head=dȍ}}
 
 # [[only]], [[except]]
-#: {{ux|sh|ni(t)ko do ja|t=nobody but me, only me|inline=1}}
-#: {{ux|sh|ne jede ništa do komad hljeba/hleba|t=he eats nothing except a piece of bread|inline=1}}
+#: {{uxi|sh|ni(t)ko do ja|nobody but me, only me}}
+#: {{uxi|sh|ne jede ništa do komad hljeba/hleba|he eats nothing except a piece of bread}}
 # [[around]], [[approximately]]
-#: {{ux|sh|do dva metra|t=around two meters|inline=1}}
-#: {{ux|sh|do 5 kila|t=around five kilograms|inline=1}}
+#: {{uxi|sh|do dva metra|around two meters}}
+#: {{uxi|sh|do 5 kila|around five kilograms}}
 # [[due to]], [[because]] of
-#: {{ux|sh|to je do hrane|t=that's due to the food|inline=1}}
+#: {{uxi|sh|to je do hrane|that's due to the food}}
 
 ====Preposition====
 {{sh-preposition|head=dȍ}} {{qualifier|+ [[genitive case]]}}
 
 # [[up to]], [[to]], [[until]], [[as far as]], [[by]]
-#: {{ux|sh|od Zagreba do Beograda|t=from Zagreb to Belgrade|inline=1}}
-#: {{ux|sh|od jutra do mraka / od 5 do 10 sati|t=from morning to night / from 5 to 10 o'clock|inline=1}}
-#: {{ux|sh|od vrha do dna|t=from top to bottom|inline=1}}
-#: {{ux|sh|do r(ij)eke|t=as far as the river|inline=1}}
-#: {{ux|sh|sad je pet do sedam|t=now it's five minutes to seven|inline=1}}
-#: {{ux|sh|do poned(j)eljka|t=by Monday|inline=1}}
-#: {{ux|sh|do sada|t=so far, thus far, till now|inline=1}}
-#: {{ux|sh|do nedavna|t=until recently|inline=1}}
-#: {{ux|sh|do dana današnjega|t=to this very day|inline=1}}
-#: {{ux|sh|sve do|t=as far as up to, all the way to|inline=1}}
-#: {{ux|sh|do kuda|t=how far|inline=1}}
-#: {{ux|sh|do tuda|t=thus far, up to here|inline=1}}
+#: {{uxi|sh|od Zagreba do Beograda|from Zagreb to Belgrade}}
+#: {{uxi|sh|od jutra do mraka / od 5 do 10 sati|from morning to night / from 5 to 10 o'clock}}
+#: {{uxi|sh|od vrha do dna|from top to bottom}}
+#: {{uxi|sh|do r(ij)eke|as far as the river}}
+#: {{uxi|sh|sad je pet do sedam|now it's five minutes to seven}}
+#: {{uxi|sh|do poned(j)eljka|by Monday}}
+#: {{uxi|sh|do sada|so far, thus far, till now}}
+#: {{uxi|sh|do nedavna|until recently}}
+#: {{uxi|sh|do dana današnjega|to this very day}}
+#: {{uxi|sh|sve do|as far as up to, all the way to}}
+#: {{uxi|sh|do kuda|how far}}
+#: {{uxi|sh|do tuda|thus far, up to here}}
 # [[before]] (= {{m|sh|prȉje}}/{{m|sh|prȅ}})
-#: {{ux|sh|do rata|t=before the war|inline=1}}
+#: {{uxi|sh|do rata|before the war}}
 # [[beside]], [[next]] (to)
-#: {{ux|sh|s(j)edi do mene|t=sit next to me|inline=1}}
-#: {{ux|sh|jedan do drugoga|t=side by side|inline=1}}
+#: {{uxi|sh|s(j)edi do mene|sit next to me}}
+#: {{uxi|sh|jedan do drugoga|side by side}}
 # {{lb|sh|by extension||idiomatic and figurative meanings}} [[up to]] one; interested in; [[feel like]]
-#: {{ux|sh|nije mi do toga|t=I don't feel like doing that|inline=1}}
-#: {{ux|sh|nije mi do sm(ij)eha|t=I don't feel like laughing|inline=1}}
-#: {{ux|sh|njemu je samo do seksa|t=he is only interested in sex|inline=1}}
-#: {{ux|sh|nije mi puno stalo do toga|t=I'm not very much interested in that|inline=1}}
-#: {{ux|sh|nije do mene|t=it's not up to me, it's no me to lame|inline=1}}
+#: {{uxi|sh|nije mi do toga|I don't feel like doing that}}
+#: {{uxi|sh|nije mi do sm(ij)eha|I don't feel like laughing}}
+#: {{uxi|sh|njemu je samo do seksa|he is only interested in sex}}
+#: {{uxi|sh|nije mi puno stalo do toga|I'm not very much interested in that}}
+#: {{uxi|sh|nije do mene|it's not up to me, it's no me to lame}}
 
 ===Etymology 2===
 From {{inh|sh|sla-pro|*dolъ}}.
 
 ====Alternative forms====
-* {{l|sh|dȏl}}
+* {{alter|sh|dȏl}}
 
 ====Pronunciation====
 * {{IPA|sh|/dôː/}}
@@ -1314,11 +1281,11 @@ Borrowed from {{bor|es|it|do}}.
 ====Noun====
 {{es-noun|m}}
 
-# [[do]] {{qualifier|musical note}}
-# [[C]] (the musical note or key)
+# [[do]] (musical note)
+# [[C]] (musical note or key)
 
 ====See also====
-* {{sense|notes}} {{l|es|do}}, {{l|es|re}}, {{l|es|mi}}, {{l|es|fa}}, {{l|es|sol}}, {{l|es|la}}, {{l|es|si}}
+* {{sense|notes}} {{l|es|[[do]], [[re]], [[mi]], [[fa]], [[sol]], [[la]], [[si]]}}
 
 ===Etymology 2===
 From contraction of preposition {{m|es|de||of, from}} + adverb {{m|es|o||in where}}
@@ -1327,17 +1294,16 @@ From contraction of preposition {{m|es|de||of, from}} + adverb {{m|es|o||in wher
 {{es-adv}}
 
 # {{lb|es|archaic}} [[where]]
+#: {{syn|es|donde|q1=modern}}
 
 ====Pronoun====
 {{head|es|pronoun}}
 
 # {{lb|es|archaic}} [[where]]
+#: {{syn|es|donde|q1=modern}}
 
 =====Derived terms=====
 * {{l|es|doquier}}
-
-====Synonyms====
-* {{qualifier|modern}} {{l|es|donde}}
 
 [[Category:Spanish calques]]
 
@@ -1348,12 +1314,10 @@ From contraction of preposition {{m|es|de||of, from}} + adverb {{m|es|o||in wher
 ===Noun===
 {{head|tbp|noun}}
 
-# [[fire]]
+# [[Category:tbp:Fire]] [[fire]]
 
 ===Further reading===
 Bill Palmer, ''The Languages and Linguistics of the New Guinea Area'' ({{ISBN|3110295253}}, 2017), page 531, table 95, ''Comparative basic vocabulary in Lakes Plain Languages''
-
-{{topics|tbp|Fire}}
 
 ----
 
@@ -1362,7 +1326,7 @@ Bill Palmer, ''The Languages and Linguistics of the New Guinea Area'' ({{ISBN|31
 ===Noun===
 {{head|tr|noun}}
 
-# [[C]], the musical note
+# [[C]] (musical note)
 
 ----
 
@@ -1371,7 +1335,7 @@ Bill Palmer, ''The Languages and Linguistics of the New Guinea Area'' ({{ISBN|31
 ===Verb===
 {{head|vec|verb form}}
 
-# {{inflection of|vec|dar||1|s|pres|indc}} - I give
+# {{infl of|vec|dar||1s|pres|ind}} - I give
 
 ----
 
@@ -1387,7 +1351,7 @@ Bill Palmer, ''The Languages and Linguistics of the New Guinea Area'' ({{ISBN|31
 {{vi-prep}}
 
 # {{lb|vi|[[neutral]] [[passive]] [[voice]] marker}} [[by]]
-#: {{ux|vi|Hầu hết các mô hình dưỡng lão đều '''do''' nhà nước bảo trợ, {{...}}|Most of the aged care models '''are''' sponsor'''ed''' '''by''' the state, {{...}}}}
+#: {{ux|vi|Hầu hết các mô hình dưỡng lão đều '''do''' nhà nước bảo trợ, […]|Most of the aged care models '''are''' sponsor'''ed''' '''by''' the state, […]}}
 # [[because of]]; [[due to]]
 
 ====Related terms====
@@ -1420,14 +1384,14 @@ Bill Palmer, ''The Languages and Linguistics of the New Guinea Area'' ({{ISBN|31
 ===Etymology 2===
 
 ====Alternative forms====
-* {{l|cy|da}} {{qualifier|colloquial}}
-* {{l|cy|deuaf}} {{qualifier|literary}}
-* {{l|cy|dof}} {{qualifier|literary}}
+* {{alter|cy|da}} {{qualifier|colloquial}}
+* {{alter|cy|deuaf}} {{qualifier|literary}}
+* {{alter|cy|dof}} {{qualifier|literary}}
 
 ====Verb====
 {{head|cy|verb form}}
 
-# {{lb|cy|colloquial}} {{inflection of|cy|dod||1|s|fut}}
+# {{lb|cy|colloquial}} {{infl of|cy|dod||1s|fut}}
 
 ====Mutation====
 {{cy-mut-auto}}
@@ -1457,13 +1421,13 @@ From {{inh|fy|ofs|thū}}, from {{inh|fy|gem-pro|*þū}}, from {{inh|fy|ine-pro|*
 {{head|fy|pronoun|cat2=personal pronouns}}
 
 # {{lb|fy|Clay}} [[you]]; ''informal second-person singular pronoun''
-#: {{ux|fy|Ik hâld fan '''dy'''.|I love '''you'''.}}
+#: {{uxi|fy|Ik hâld fan '''dy'''.|I love '''you'''.}}
 
 =====Inflection=====
 {{West Frisian personal pronouns}}
 
 =====Alternative forms=====
-* {{l|fy|dû}} {{q|Wood}}
+* {{alter|fy|dû}} {{q|Wood}}
 
 =====Further reading=====
 * {{R:WFT|16218|I}}
@@ -1491,7 +1455,7 @@ Borrowed from {{bor|fy|it|do}}.
 ====Noun====
 {{fy-noun|c|do's}}
 
-# [[#English|do]] {{qualifier|musical note}}
+# [[#English|do]] (musical note)
 
 =====Further reading=====
 * {{R:WFT|16221|IV}}
@@ -1506,6 +1470,4 @@ Related to {{cog|fa|دوغ|tr=duğ}} and {{cog|tg|дуғ}}.
 ===Noun===
 {{zza-noun}}
 
-# [[airan]]
-
-[[Category:zza:Beverages]]
+# [[Category:zza:Beverages]] [[airan]]
