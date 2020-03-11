@@ -78,7 +78,7 @@ From {{etyl|fro|en}} {{m|fro|ignorant}}. Surface analysis: {{suffix|en|ignore|an
 * Catalan: {{t+|ca|ignorant}}
 * Chinese:
 *: Mandarin: {{t+|cmn|無知|sc=Hani}}, {{t+|cmn|无知|tr=wúzhī|sc=Hani}}
-* Czech: {{t|cs|ignorantský|m}}, {{t|cs|nevzdělaný|m}}, {{t|cs|neznalý|m}}
+* Czech: {{t|cs|ignorantský}}, {{t|cs|nevzdělaný}}, {{t|cs|neznalý}}
 * Dutch: {{t+|nl|onwetend}}, {{t+|nl|ignorant}}
 * Esperanto: {{t-needed|eo}}
 * Finnish: {{t+|fi|tietämätön}}
@@ -106,11 +106,11 @@ From {{etyl|fro|en}} {{m|fro|ignorant}}. Surface analysis: {{suffix|en|ignore|an
 * Occitan: {{t|oc|ignorant}}
 * Persian: {{t+|fa|نادان|tr=nâdân|sc=fa-Arab}}
 * Polish: {{t|pl|ignorancki}}
-* Portuguese: {{t+|pt|ignorante|m|f}}
-* Romanian: {{t+|ro|ignorant|m|n}}, {{t+|ro|ignorantă|f}}
+* Portuguese: {{t+|pt|ignorante}}
+* Romanian: {{t+|ro|ignorant}}
 * Russian: {{t+|ru|неве́жественный}}, {{t+|ru|необразованный}}
 * Scottish Gaelic: {{t|gd|ainfhiosach}}, {{t|gd|ainfhiosrach}}
-* Spanish: {{t+|es|ignorante}}, {{t+|es|ignaro|m}}
+* Spanish: {{t+|es|ignorante}}, {{t+|es|ignaro}}
 * Swedish: {{t+|sv|ovetande}}, {{t+|sv|okunnig}}
 * Tagalog: {{t|tl|bano}}
 * Thai: {{t-needed|th}}
@@ -134,10 +134,33 @@ From {{etyl|fro|en}} {{m|fro|ignorant}}. Surface analysis: {{suffix|en|ignore|an
 
 ==Catalan==
 
-===Verb===
+===Pronunciation===
+* {{ca-IPA}}
+
+===Etymology 1===
+From {{der|ca|la|ignōrāns}}.
+
+====Adjective====
+{{ca-adj|mf}}
+
+# {{l|en|ignorant}}
+
+=====Related terms=====
+* {{l|ca|ignorància}}
+* {{l|ca|ignorar}}
+
+===Etymology 2===
+
+====Verb====
 {{head|ca|verb form}}
 
 # {{ca-verb form of|t=pres|m=ptc|ignorar}}
+
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
 
 ----
 
@@ -186,15 +209,24 @@ From {{etyl|fro|en}} {{m|fro|ignorant}}. Surface analysis: {{suffix|en|ignore|an
 * {{fr-IPA}}
 * {{audio|fr|Fr-ignorant.ogg|Audio}}
 
-===Verb===
-{{head|fr|present participle}}
+===Etymology 1===
+From {{der|fr|la|ignōrāns}}.
 
-# {{present participle of|fr|ignorer|nocat=1}}
-
-===Adjective===
+====Adjective====
 {{fr-adj}}
 
 # [[#English|ignorant]]
+
+=====Related terms=====
+* {{l|fr|ignorance}}
+* {{l|fr|ignorer}}
+
+===Etymology 2===
+
+====Verb====
+{{head|fr|present participle}}
+
+# {{present participle of|fr|ignorer|nocat=1}}
 
 ===Further reading===
 * {{R:TLFi}}
@@ -202,6 +234,9 @@ From {{etyl|fro|en}} {{m|fro|ignorant}}. Surface analysis: {{suffix|en|ignore|an
 ----
 
 ==German==
+
+===Etymology===
+From {{bor|de|la|ignōrāns}}.
 
 ===Pronunciation===
 * {{rhymes|de|ant}}
@@ -213,6 +248,11 @@ From {{etyl|fro|en}} {{m|fro|ignorant}}. Surface analysis: {{suffix|en|ignore|an
 
 ====Declension====
 {{de-decl-adj|ignorant|ignoranter|ignorantest}}
+
+====Related terms====
+* {{l|de|Ignorant}}
+* {{l|de|Ignoranz}}
+* {{l|de|ignorieren}}
 
 ===Further reading===
 * {{R:Duden}}
