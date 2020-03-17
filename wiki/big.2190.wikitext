@@ -8,7 +8,7 @@
 * {{rhymes|en|ɪɡ}}
 
 ===Etymology 1===
-From a northern {{etyl|enm|en}} dialectal term {{m|enm|big}}, {{m|enm|bigge||powerful, strong}}, of unknown origin, possibly from a dialect of {{etyl|non|-}}. Compare dialectal {{cog|no|bugge||great man}}.
+From a northern {{inh|en|enm|-}} dialectal term {{m|enm|big}}, {{m|enm|bigge||powerful, strong}}, of unknown origin, possibly from a dialect of {{der|en|non|-}}. Compare dialectal {{cog|no|bugge||great man}}.
 
 ====Adjective====
 {{en-adj|bigger}}
@@ -339,10 +339,10 @@ From a northern {{etyl|enm|en}} dialectal term {{m|enm|big}}, {{m|enm|bigge||pow
 * Mongolian: {{t+|mn|том}}, {{t+|mn|их}}
 * Mulam: {{t|mlm|lo⁴}} {{q|Dongmen, Siba}}
 * Nahuatl: {{t+|nah|huey}}
-* Navajo: {{t|nv|tsoh|sc=Latn}}
+* Navajo: {{t|nv|tsoh}}
 * Neapolitan: {{t|nap|gruosso}}
 * Nepali: {{t|ne|ठूलो}}
-* Ngazidja Comorian: {{t-check|zdj|huu|alt=-huu}} <!-- was "[[huu|-huu]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Ngazidja Comorian: {{t-check|zdj|-[[huu]]}}
 * Norman: {{t|nrf|grand}}, {{t|nrf|grànd}}
 * Northern Luri: {{t|lrc|گت|tr=gat}}
 * Northern Sami: {{t|se|stuoris}}
@@ -530,7 +530,7 @@ From a northern {{etyl|enm|en}} dialectal term {{m|enm|big}}, {{m|enm|bigge||pow
 #* {{quote-book|en|year=2017|title=Every Word is a Bird We Teach to Sing |author=Daniel Tammet |page=162 |ISBN=9780340961308 |passage=Some say of me, "There's Adrian again in the media, '''bigging''' himself up. }}
 
 ===Etymology 2===
-From {{etyl|enm|en}} {{m|enm|biggen}}, {{m|enm|byggen}}, from {{etyl|non|en}} {{m|non|byggja}}, {{m|non|byggva||to build, dwell in, inhabit}}, a secondary form of {{cog|non|búa||to dwell}}, related to {{cog|ang|buan|būan|to dwell}}. Cognate with {{cog|da|bygge}}, {{cog|sv|bygga}}.
+From {{inh|en|enm|biggen}}, {{m|enm|byggen}}, from {{der|en|non|byggja}}, {{m|non|byggva||to build, dwell in, inhabit}}, a secondary form of {{cog|non|búa||to dwell}}, related to {{cog|ang|buan|būan|to dwell}}. Cognate with {{cog|da|bygge}}, {{cog|sv|bygga}}.
 
 ====Verb====
 {{en-verb|bigs|bigging|bigged}}
@@ -541,7 +541,7 @@ From {{etyl|enm|en}} {{m|enm|biggen}}, {{m|enm|byggen}}, from {{etyl|non|en}} {{
 # {{lb|en|intransitive|archaic|or|UK|_|dialectal|Northern England|Scotland}} to [[dwell]]; have a dwelling
 
 ===Etymology 3===
-From {{etyl|enm|en}} {{m|enm|byge}}, from {{etyl|non|en}} {{m|non|bygg||barley, probably ''[[Hordeum vulgare]]'', [[common barley]]}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*bewwuz||crop, barley}}. Cognate with {{cog|ang|beow|bēow|barley}}.
+From {{inh|en|enm|byge}}, from {{der|en|non|bygg||barley, probably ''[[Hordeum vulgare]]'', [[common barley]]}}, from {{der|en|gem-pro|*bewwuz||crop, barley}}. Cognate with {{cog|ang|bēow|t=barley}}.
 
 ====Alternative forms====
 * {{l|en|bigg}}
@@ -627,7 +627,7 @@ From {{der|sco|non|byggja||inhabit, build}}.
 ==Torres Strait Creole==
 
 ===Etymology===
-From {{etyl|en|tcs}} {{m|en|big}}, cognate with (the first part of) {{cog|bi|bikfala}}, {{m|bi|bigfala}}, {{cog|pis|bigfala}}, {{cog|tpi|bikpela}}.
+From {{inh|tcs|en|big}}, cognate with (the first part of) {{cog|bi|bikfala}}, {{m|bi|bigfala}}, {{cog|pis|bigfala}}, {{cog|tpi|bikpela}}.
 
 ===Adjective===
 {{head|tcs|adjective}}
@@ -635,8 +635,8 @@ From {{etyl|en|tcs}} {{m|en|big}}, cognate with (the first part of) {{cog|bi|bik
 # [[#English|big]]
 
 ====Derived terms====
-{{der3
-|tcs|big boil
+{{der3|tcs
+|big boil
 |big maut
 |big ren
 |big taun
@@ -664,7 +664,7 @@ From {{etyl|en|tcs}} {{m|en|big}}, cognate with (the first part of) {{cog|bi|bik
 ==Western Apache==
 
 ===Etymology===
-From {{etyl|ath-pro|apw}} {{m|ath-pro|*-wə̓t̕}}.
+From {{inh|apw|ath-pro|*-wə̓t̕}}.
 
 Cognates: {{cog|nv|-bid}}, {{cog|apk|-bid}}.
 
@@ -672,9 +672,11 @@ Cognates: {{cog|nv|-bid}}, {{cog|apk|-bid}}.
 * {{IPA|apw|[pɪ̀k]}}
 
 ===Noun===
-{{head|apw|noun}} (''[[inalienable]]'', e.g., '''shibig''' "my belly", '''bibig''' "her/his/their belly")
+{{head|apw|noun|inalienable}}
 
 # [[belly]], [[stomach]], [[abdomen]]
+#: {{uxi|apw|shi'''big'''|my belly}}
+#: {{uxi|apw|bi'''big'''|her/his/their belly}}
 
 ====Usage notes====
 * The form '''-big''' occurs in the White Mountain varieties; '''-bid''' occurs in San Carlos and Dilzhe’eh ([[Tonto]]).
