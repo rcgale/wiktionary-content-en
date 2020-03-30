@@ -7,18 +7,18 @@
 ===Noun===
 {{bg-noun|велосипе́д|m}}
 
-# [[bicycle]], [[bike]] (''vehicle'')
+# [[bicycle]], [[bike]] {{gloss|vehicle}}
+#: {{syn|bg|колело}}
 
 ====Inflection====
 {{bg-noun-m-i}}
 
-====Synonyms====
-* {{l|bg|колело}}
-
 ====Derived terms====
-* {{l|bg|велосипеден}}
-* {{l|bg|велосипедист}}
-* {{l|bg|велосипедистка}}
+{{col3|bg
+|велосипеден
+|велосипедист
+|велосипедистка
+}}
 
 [[Category:bg:Cycling]]
 [[Category:bg:Vehicles]]
@@ -29,7 +29,7 @@
 {{kk-regional|велосипед|ۆەلوسيپەد}}
 
 ===Etymology===
-Borrowed from {{bor|kk|ru|велосипе́д}}, from {{bor|kk|fr|vélocipède}}, from {{der|kk|la|vēlōx||fast}} + {{m|la|pedēs||feet}}.
+Borrowed from {{bor|kk|ru|велосипе́д}}, from {{der|kk|fr|vélocipède}}, from {{der|kk|la|vēlōx|t=fast}} + {{m|la|pedēs|t=feet}}.
 
 ===Noun===
 {{kk-noun|Roman spelling|velosïped}}
@@ -56,7 +56,7 @@ Borrowed from {{bor|ky|ru|велосипе́д}}.
 ==Macedonian==
 
 ===Etymology===
-From {{etyl|fr|mk}} {{m|fr|vélocipède}}, from {{etyl|la|mk}} {{m|la|velox||fast}} + {{m|la|pedes||feet}}.
+From {{bor|mk|fr|vélocipède}}, from {{der|mk|la|vēlōx|t=fast}} + {{m|la|pedēs|t=feet}}.
 
 ===Pronunciation===
 * {{mk-IPA|велосипе́д}}
@@ -65,13 +65,11 @@ From {{etyl|fr|mk}} {{m|fr|vélocipède}}, from {{etyl|la|mk}} {{m|la|velox||fas
 {{mk-noun|head=велосипе́д|m}}
 
 # [[bicycle]]
+#: {{syn|mk|точак}}
 # [[velocipede]]
 
 ====Inflection====
 {{mk-decl-noun-m|||}}
-
-====Synonyms====
-* {{l|mk|точак}}
 
 [[Category:mk:Cycling]]
 [[Category:mk:Vehicles]]
@@ -82,7 +80,7 @@ From {{etyl|fr|mk}} {{m|fr|vélocipède}}, from {{etyl|la|mk}} {{m|la|velox||fas
 {{wikipedia|lang=ru}}
 
 ===Etymology===
-Borrowed from {{bor|ru|fr|vélocipède}}, from {{der|ru|la|vēlōx||fast}} + {{m|la|pedēs||feet}}. Compare English {{m|en|velocipede}}.
+Borrowed from {{bor|ru|fr|vélocipède}}, from {{der|ru|la|vēlōx|t=fast}} + {{m|la|pedēs|t=feet}}. Compare {{cog|en|velocipede}}.
 
 ===Pronunciation===
 * {{ru-IPA|велосипе́д}}
@@ -118,11 +116,17 @@ Borrowed from {{bor|ru|fr|vélocipède}}, from {{der|ru|la|vēlōx||fast}} + {{m
 
 ==Serbo-Croatian==
 
+===Etymology===
+From {{der|sh|fr|vélocipède}}, from {{der|sh|la|vēlōx|t=fast}} + {{m|la|pedēs|t=feet}}.
+
 ===Noun===
-{{sh-noun|g=m}}
+{{sh-noun|g=m|head=велосѝпе̄д}}
 
 # [[velocipede]]
 # {{lb|sh|regional}} [[bicycle]]
+
+====Declension====
+{{rfinfl|sh}}
 
 [[Category:sh:Cycling]]
 [[Category:sh:Vehicles]]
