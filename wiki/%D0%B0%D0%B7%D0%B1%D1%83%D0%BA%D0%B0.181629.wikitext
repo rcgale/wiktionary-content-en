@@ -1,24 +1,53 @@
+==Belarusian==
+
+===Etymology===
+Inherited from {{inh|be|orv|азъбукꙑ}}; borrowed from {{der|be|cu|азъбоукꙑ}}, from the names of the first two letters of the Cyrillic alphabet, {{compound|cu|азъ|боукꙑ|nocat=1}}, a {{calque|be|grc|ἀλφάβητος|nocap=1}}
+
+===Pronunciation===
+* {{be-IPA|а́збука}}
+
+===Noun===
+{{be-noun|head=а́збука|g=f-in}}
+
+# [[alphabet]]
+#: {{syn|be|алфаві́т}}
+
+====Declension====
+{{be-decl-noun|а́збука|азбукі|азбукі|азбук|азбуцы|азбукам|азбуку|азбукі|азбукай|азбукамі|азбуцы|азбуках}}
+
+===References===
+* {{R:be:slounik.org}}
+
+[[Category:be:Alphabets]]
+
+----
+
 ==Bulgarian==
 
 ===Pronunciation===
-* {{IPA|bg|/ˈazbukə/}}
+* {{bg-IPA|а́збука}}
 
 ===Noun===
 {{bg-noun|а́збука|f}}
 
 # [[alphabet]]
+#: {{syn|bg|алфави́та}}
 
 ====Inflection====
-{{bg-noun-f-a1|азбук}}
+{{bg-ndecl|а́збука<(v)>}}
 
-====Synonyms====
-* {{l|bg|алфавит}}
+===References===
+* {{R:RBE}}
+* {{R:RBE2}}
 
 [[Category:bg:Alphabets]]
 
 ----
 
 ==Macedonian==
+
+===Pronunciation===
+* {{mk-IPA}}
 
 ===Noun===
 {{mk-noun|f}}
@@ -28,6 +57,9 @@
 ====Inflection====
 {{mk-decl-noun-f|азбук}}
 
+===References===
+* {{R:mk:MI}}
+
 [[Category:mk:Alphabets]]
 
 ----
@@ -35,7 +67,7 @@
 ==Russian==
 
 ===Etymology===
-Inherited from {{inh|ru|orv|азъбукы}}; borrowed from {{der|ru|cu|азъбоукꙑ}}, from the names of the first two letters of the Cyrillic alphabet, {{compound|cu|азъ|боукꙑ|nocat=1}}, a [[calque]] of {{m|grc|ἀλφάβητος}}.
+Inherited from {{inh|ru|orv|азъбукꙑ}}; borrowed from {{der|ru|cu|азъбоукꙑ}}, from the names of the first two letters of the Cyrillic alphabet, {{compound|cu|азъ|боукꙑ|nocat=1}}, a {{calque|ru|grc|ἀλφάβητος|nocap=1}}
 
 ===Pronunciation===
 * {{ru-IPA|а́збука}}
@@ -48,16 +80,15 @@ Inherited from {{inh|ru|orv|азъбукы}}; borrowed from {{der|ru|cu|азъб
 #: {{uxi|ru|[[а́збука Мо́рзе]]|Morse code|tr=ázbuka Mórzɛ}}
 #: {{uxi|ru|[[а́збука Бра́йля]]|Braille}}
 #: {{uxi|ru|[[слоговой|слогова́я]] '''а́збука'''|syllabary}}
+* {{syn|ru|алфави́т}}
 # ABC book, [[abecedary]]; [[primer]]
+* {{syn|ru|буква́рь}}
 # [[ABC]] {{gloss|the rudiments of any subject}}
+* {{syn|ru|осно́вы|азы́}}
 
 ====Declension====
 {{ru-noun-table|а́збука}}
-
-====Synonyms====
-* {{sense|alphabet}} {{l|ru|алфави́т}}
-* {{sense|ABC book}} {{l|ru|буква́рь}}
-* {{sense|the rudiments of any subject}} {{l|ru|основа|осно́вы}}, {{l|ru|азы́}}
+{{ru-noun-table|а́збука|old=1}}
 
 [[Category:ru:Alphabets]]
 [[Category:ru:Books]]
@@ -109,19 +140,14 @@ Attested 1627, compare {{m|uk||язъбука}} (17–18th century).
 {{uk-noun|а́збука|f-in|а́збуки|а́збуки}}
 
 # {{lb|uk|dated}} {{l|en|alphabet}} {{gloss|an ordered set of letters used in a language}}, especially the old [[Cyrillic]] alphabet.
+#: {{syn|uk|алфаві́т|альфабе́т|абе́тка|абе́тло|q4=dialectal}}
 
 ====Declension====
 {{uk-decl-noun|а́збука|а́збуки|а́збуки|а́збук|а́збуці|а́збукам|а́збуку|а́збуки|а́збукою|а́збуками|а́збуці|а́збуках|а́збуко|а́збуки}}
 
-====Synonyms====
-* {{l|uk|абетка}}
-* {{l|uk|абетло}} {{qualifier|dialectal}}
-* {{l|uk|алфавіт}}
-* {{l|uk|альфабет}}
-
 ====Derived terms====
-* {{l|uk|азбучний}}
-* {{l|uk|азбучна війна}} {{qualifier|historical|proper noun}}
+* {{l|uk|а́збучний}}
+* {{l|uk|а́збучна війна́}} {{qualifier|historical|proper noun}}
 
 ====Related terms====
 * {{l|uk|аз}}
@@ -130,5 +156,6 @@ Attested 1627, compare {{m|uk||язъбука}} (17–18th century).
 ===References===
 * {{R:uk:ESUM}}
 * {{R:uk:SUM-11}}
+* {{R:uk:HOROKH}}
 
 [[Category:uk:Alphabets]]
