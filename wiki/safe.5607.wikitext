@@ -17,7 +17,9 @@ From {{inh|en|enm|sauf}}, {{m|enm|safe}}, {{m|enm|saf}}, {{m|enm|saaf}}, from {{
 
 # Not in [[danger]]; out of [[harm]]'s reach.
 #: {{ux|en|You’ll be '''safe''' here.}}
-# Free from risk; [[harmless]], [[riskless]].
+# Free from risk.
+#: {{syn|en|riskless|harmless}}
+#: {{ant|en|harmful|danerous}}
 #* {{quote-book|en|year=1963|author={{w|Margery Allingham}}|title={{w|The China Governess}}
 |chapter=19|url=http://openlibrary.org/works/OL2004261W
 |passage=When Timothy and Julia hurried up the staircase to the bedroom floor, where a considerable commotion was taking place, Tim took Barry Leach with him. He had him gripped firmly by the arm, since he felt it was not '''safe''' to let him loose, and he had no immediate idea what to do with him.}}
@@ -26,14 +28,17 @@ From {{inh|en|enm|sauf}}, {{m|enm|safe}}, {{m|enm|saf}}, {{m|enm|saaf}}, from {{
 #: {{ux|en|We have to find a '''safe''' spot, where we can hide out until this is over.}}
 # {{lb|en|baseball}} When a batter successfully reaches [[first base]], or when a [[baserunner]] successfully advances to the next [[base]] or returns to the base he last occupied; not [[out]].
 #: {{ux|en|The pitcher attempted to pick off the runner at first, but he was '''safe'''.}}
-# Properly secured; [[secure]].
+# Properly secured.
+#: {{syn|en|secure}}
+#: {{hypo|en|binary-safe|fail-safe|thread-safe|type-safe}}
 #: {{ux|en|The documents are '''safe'''.}}
 # {{lb|en|used after a noun|often|forming a compound}} Not susceptible to a specified source of harm.
-#: {{ux|en|dishwasher '''safe''';&nbsp; dishwasher-'''safe'''}}
+#: {{ux|en|dishwasher-'''safe'''}}
 # {{lb|en|UK|slang}} [[great|Great]], [[cool]], [[awesome]], [[respectable]]; {{non-gloss definition|a term of approbation, of used as interjection.}}
+#: {{syn|en|wicked|cool|Thesaurus:awesome}}
 #* {{quote-newsgroup|en|date=August 12 1996|author="Mandrake"|title=Re: Multiple Messages - an apology
 |newsgroup=uk.people.gothic|url=http://groups.google.com/group/uk.people.gothic/msg/aee4864a6b460c4b
-|passage=and you also forgot to mentioned{{SIC}} the wheels man you know bmw playing<br> ragga jungle hip hop tunes<br> and on the mobile<br> yeah '''safe'''!<br> nice one<br> later}}
+|passage=and you also forgot to mentioned{{SIC}} the wheels man you know bmw playing / ragga jungle hip hop tunes / and on the mobile / yeah '''safe'''! / nice one / later}}
 #* {{quote-book|en|year=1996 '''or''' 1997|year_published=2002|publisher=Methuen
 |author=Roy Williams|title=Plays 1: The No Boys Cricket Club / Startstruck / Lift Off
 |url=http://books.google.com/books?ei=6L5ZTMunMcWsOKiwzaMJ&ct=result&id=9gZ5AAAAMAAJ&dq=yeah+safe+%22laters%22&q=safe#search_anchor
@@ -53,28 +58,14 @@ From {{inh|en|enm|sauf}}, {{m|enm|safe}}, {{m|enm|saf}}, {{m|enm|saaf}}, from {{
 |passage=''They end the call.'' Fami ''goes over to'' Paul. ''They touch hands''.¶ Femi: Yeah, '''safe''' man.}}
 #* {{quote-book|en|year=2013|author=Steve Carter|title=Love, Sex and Tesco's Finest Cava|page=169|isbn=9781481811798|passage=“Yeah, '''safe''' mate, wassup?” says one hoodie, who should at least be credited with attempting a more detailed sentence construction.}}
 # {{lb|en|slang}} Lenient, usually describing a teacher that is easy-going.
+#: {{syn|en|easy-going|merciful|tolerant|lenient}}
+#: {{ant|en|strict|harsh|intolerant}}
 # [[reliable|Reliable]]; [[trusty]].
+#: {{syn|en|trustworthy}}
 # [[cautious|Cautious]].
 
-====Synonyms====
-{{checksense|en}}
-* {{l|en|harmless}}, {{l|en|riskless}}
-* {{l|en|secure}}
-* {{sense|cool}} {{l|en|wicked}}, {{l|en|cool}}, {{l|en|awesome}}
-* {{sense|reliable}} {{l|en|trustworthy}}
-* (''lenient''): easy-going, merciful, tolerant, lenient
-
 ====Antonyms====
-{{checksense|en}}
-* {{l|en|unsafe}}
-* {{sense|providing protection from danger; providing shelter}} {{l|en|dangerous}}
-* {{sense|providing protection from danger; providing shelter}} {{l|en|harmful}}
-* {{l|en|insecure}}
-* (''lenient''): strict, harsh, intolerant
-
-====Hyponyms====
-* {{sense|not in danger from the specified source of harm}} {{l|en|dishwasher-safe}}
-* {{sense|properly secured; secure}} {{l|en|binary-safe}}, {{l|en|fail-safe}}, {{l|en|thread-safe}}, {{l|en|type-safe}}, {{l|en|typesafe}}
+* {{l|en|unsafe}} 
 
 ====Translations====
 {{trans-top|not in danger}}
