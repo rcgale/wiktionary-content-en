@@ -168,7 +168,6 @@ From {{inh|en|enm|noun}}, from {{der|en|xno|noun}}, {{m|fro|non}}, {{m|fro|nom}}
 * Maltese: {{t+|mt|nom}}
 * Maori: {{t|mi|kupuingoa}}
 * Marathi: {{t|mr|नाम|sc=Deva}}
-* Middle English: {{t|enm|noun}}
 * Mirandese: {{t-needed|mwl}}
 * Mongolian: {{t|mn|нэр үг|sc=Cyrl}}
 * Navajo: {{t|nv|yízhí}}
@@ -181,7 +180,6 @@ From {{inh|en|enm|noun}}, from {{der|en|xno|noun}}, {{m|fro|non}}, {{m|fro|nom}}
 * Novial: {{t|nov|substantive}}
 * Occitan: {{t+|oc|nom|m}}
 * Okinawan: {{t-needed|ryu}}
-* Old English: {{t|ang|nama|m}}
 * Oriya: {{t+|or|ବିଶେଷ୍ୟ|sc=Orya}}
 * Ossetian: {{t|os|номдар}}
 * Pashto: {{t+|ps|اسم|m|tr=esm}}
@@ -346,12 +344,19 @@ From {{bor|enm|xno|noun}}, {{m|fro|non}}, {{m|fro|nom}}, from {{der|enm|la|nōme
 ===Noun===
 {{enm-noun|nounes}}
 
-# {{l|en|noun}} {{gloss|part of speech}}
-# A category of word including [[nouns]], [[pronouns]] and [[adjectives]].
+# {{lb|enm|grammar}} {{l|en|noun}} {{gloss|part of speech; a category of words including [[substantive]]s or [[noun#English|noun]]s in the strict sense and [[adjective]]s}}
 # An [[appellation]].
 
 ====Descendants====
 * {{desc|en|noun}}
+
+====Hyponyms====
+{{sense|grammar}}
+* {{l|enm|noun substantyf}}
+** {{l|enm|noun abstract}}
+** {{l|enm|noune collectyf}}, {{l|enm|nown collectif}}
+** {{l|enm|nowne appellatiue}}
+* {{l|enm|noun adiectyf}}
 
 ====References====
 * {{R:MED Online|entry=nǒun(e (n.) |id=MED29955 |accessdate=2018-05-03}}
