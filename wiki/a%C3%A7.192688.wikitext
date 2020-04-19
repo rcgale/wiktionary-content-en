@@ -5,18 +5,19 @@
 * {{IPA|tr|[ɑtʃ]}}
 
 ===Etymology 1===
-From {{inh|tr|ota|آج|tr=ac||hungry}}, from {{inh|tr|trk-oat|tr=ac|||hungry}}, from {{inh|tr|trk-pro|*āç}}, {{m|trk-pro|*ạ̄č||hunger}}.
+From {{inh|tr|ota|آج|tr=ac|t=hungry}}, from {{inh|tr|trk-oat|tr=ac|t=hungry}}, from {{inh|tr|trk-pro|*āç}}, {{m|trk-pro|*ạ̄č|t=hunger}}.
 {{rel-top|cognates}}
-Cognate with {{cog|otk|𐰀𐰲|tr=aç|t=hungry}}, {{cog|oui||tr=aç|t=hungry}}, {{cog|xqa||tr=āç|t=hungry}}, {{cog|az|ac||hungry}}, {{cog|ba|ас||hungry}}, {{cog|cv|выҫӑ||hunger, hungry}}, {{cog|kk|аш||hunger}}, {{cog|kjh|ас||hunger, hungry}}, {{cog|qwm||tr=aç|t=hungry|sc=Arab}}, {{cog|ky|ач||hungry}}, {{cog|alt|ач||hunger}}, {{cog|tk|aç|āç|t=hungry}}, {{cog|tyv|аш||hunger, hungry}}, {{cog|ug|ئاچ||hungry}}, {{cog|uz|och||hungry}}, {{cog|sah|аас||hunger}}.
+Cognate with {{cog|otk|𐰀𐰲|tr=aç|t=hungry}}, {{cog|oui|tr=aç|t=hungry}}, {{cog|xqa|tr=āç|t=hungry}}, {{cog|az|ac|t=hungry}}, {{cog|ba|ас|t=hungry}}, {{cog|cv|выҫӑ|t=hunger, hungry}}, {{cog|kk|аш|t=hunger}}, {{cog|kjh|ас|t=hunger, hungry}}, {{cog|qwm|tr=aç|t=hungry}}, {{cog|ky|ач|t=hungry}}, {{cog|alt|ач|t=hunger}}, {{cog|tk|āç|t=hungry}}, {{cog|tyv|аш||hunger, hungry}}, {{cog|ug|ئاچ|t=hungry}}, {{cog|uz|och|t=hungry}}, {{cog|sah|аас|t=hunger}}.
 {{rel-bottom}}
 
 ====Noun====
 {{tr-noun|ı|lar}}
 
 # {{lb|tr|archaic}} [[hunger]]
-#: {{ux|tr|'''''Acımdan''' ölüyorum.''|I am dying '''of hunger'''.|inline=1}} {{gloss|Literally '''of my hunger'''}}
+#: {{uxi|tr|'''''Acımdan''' ölüyorum.''|I am dying '''of hunger'''.|lit='''of my hunger'''}}
+#: {{syn|tr|açlık}}
 # [[hungry]] person
-#: {{ux|tr|'''''Aç''' ne yemez tok ne demez.''|A '''hungry one''' will eat anything, while a sated one will complain.}} {{gloss|A proverb}}
+#: {{uxi|tr|'''''Aç''' ne yemez tok ne demez.''|A '''hungry one''' will eat anything, while a sated one will complain.}} {{gloss|A proverb}}
 
 =====Usage notes=====
 * The noun has two declension forms. One normal and one with /ç/→/c/.
@@ -25,9 +26,6 @@ Cognate with {{cog|otk|𐰀𐰲|tr=aç|t=hungry}}, {{cog|oui||tr=aç|t=hungry}},
 {{tr-infl-noun-c|a}}
 {{tr-infl-noun-c|a|stem=ac}}
 
-=====Synonyms=====
-* {{sense|hunger}} {{l|tr|açlık}}
-
 =====Related terms=====
 * {{l|tr|acından ölmek}}
 
@@ -35,7 +33,7 @@ Cognate with {{cog|otk|𐰀𐰲|tr=aç|t=hungry}}, {{cog|oui||tr=aç|t=hungry}},
 {{tr-adj}}
 
 # [[hungry]], [[unfed]]
-#: {{ux|tr|'''''Aç''' ayı oynamaz.''|A '''hungry''' bear won't dance.|inline=1}} {{gloss|A proverb}}
+#: {{uxi|tr|'''''Aç''' ayı oynamaz.''|A '''hungry''' bear won't dance.}} {{gloss|A proverb}}
 # [[greedy]], [[covetous]], [[insatiable]]
 
 =====Declension=====
@@ -45,9 +43,11 @@ Cognate with {{cog|otk|𐰀𐰲|tr=aç|t=hungry}}, {{cog|oui||tr=aç|t=hungry}},
 * {{l|tr|tok}}
 
 =====Related terms=====
-* {{l|tr|açlık}}
-* {{l|tr|aç gözlü}}
-* {{l|tr|acıkmak}}
+{{col3|tr
+|açlık
+|aç gözlü
+|acıkmak
+}}
 
 ====References====
 * {{R:tr:Nishanyan|aç}}
@@ -55,6 +55,7 @@ Cognate with {{cog|otk|𐰀𐰲|tr=aç|t=hungry}}, {{cog|oui||tr=aç|t=hungry}},
 * {{R:tut-pro:SDM|*ạ̄č|url=http://starling.rinet.ru/cgi-bin/response.cgi?single=1&basename=%2fdata%2falt%2fturcet&text_number=+734&root=config}}
 
 ===Etymology 2===
+{{nonlemma}}
 
 ====Verb====
 {{head|tr|verb form}}
