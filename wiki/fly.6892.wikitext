@@ -994,12 +994,13 @@ From {{der|nb|non|fljúga}}
 * {{IPA|nn|/flyː/}} {{nn-pronu-note}}
 
 ===Etymology 1===
-Shortened form of {{m|nn|flygemaskin||flying machine}}.
+{{PIE root|nn|plewk}}
+{{clipping|nn|flygemaskin||flying machine}}
 
 ====Noun====
 {{nn-noun-n1}}
 
-# [[plane]], [[aeroplane]] (UK), [[airplane]] (US), [[aircraft]]
+# {{senseid|nn|airplane}} [[plane]], [[aeroplane]] (UK), [[airplane]] (US), [[aircraft]]
 #: ''Skunda deg, elles misser du '''flyet''' ditt!''
 #:: Hurry up, or you'll miss your '''plane'''!
 
@@ -1039,22 +1040,127 @@ Shortened form of {{m|nn|flygemaskin||flying machine}}.
 }}
 
 ===Etymology 2===
+{{PIE root|nn|plewk}}
+From {{inh|nn|non|fljúga}}, from {{inh|nn|gem-pro|*fleuganą}}.
+
+====Alternative forms====
+* {{alter|nn|flyga|flyge||long forms}}
 
 ====Verb====
-{{nn-verb-irreg|flyr|pres_tense2=flyg|flaug|floge|imp2=flyg|second_root=flyg}}
+{{head|nn|verb|cat2=class 2 strong verbs|cat3=strong verbs|present tense|flyr|or|flyg|past tense|flaug|supine|floge|past participle|flogen|present participle|flygande|imperative|fly|or|flyg}}
 
-# {{alternative form of|nn|flyga}}
+# {{senseid|nn|to fly}} {{lb|nn|intransitive}} to {{l|en|fly}} (to travel through [[air]], another [[gas]] or a [[vacuum]], without being in contact with a grounded surface)
+# {{lb|nn|transitive|ergative}} to cause to {{l|en|fly}}: to [[transport]] via air or the like
+# {{lb|nn|intransitive}} to [[run]], move [[fast]]
+# {{lb|nn|intransitive|chiefly|about farm animals}} to be [[in heat]], [[rutting]]
+
+=====Derived terms=====
+{{Template:User:Donnanz/der3-u|lang=nn
+|flygande hund
+|flygande festning
+|flygande mare
+|flygande tallerk
+|flygande tallerken
+|flygar
+|flygebane
+|flygeblad
+|flygedyktig
+|flygeferdig
+|flygefisk
+|flygefør
+|flygehud
+|flygeidé
+|flygeleiar
+|flygelem
+|flygemaskin
+|flygemaur
+|flygeregistrator
+|flygesand
+|flygeskrift
+|flygetid
+|flygetur
+|flygeøgle
+}}
+
+=====Related terms=====
+* {{l|nn|fløygje}}
+
+====Adjective====
+{{nn-adj-irreg|n=flytt}}
+
+# [[very]] [[steep]]
+
+====Noun====
+{{nn-noun-n1}}
+
+# a very [[steep]] [[cliff]]
 
 ===Etymology 3===
-From {{der|nn|non|flýja}}.
+From {{inh|nn|non|flýja}}.
 
 ====Verb====
 {{nn-verb-3}}
 
-# [[escape]]; [[flee]]
+# {{senseid|nn|flee}} {{lb|nn|intransitive}} to [[escape]]; [[flee]]; [[run]] [[away]]
+#: {{syn|nn|flykte}}
+# {{senseid|nn|flee}} {{lb|nn|transitive}} to [[escape]] from
+
+===Etymology 4===
+{{PIE root|nn|plewk}}
+Short for {{m|nn|flygande||flying}}, present participle of {{m|nn|fly|id=to fly}}.
+
+====Adverb====
+{{head|nn|adverb}}
+
+# {{lb|nn|colloquial}} {{ngd|Used as an [[intensifier]] for the word {{m|nn|forbanna}}}}
+#: ''Så vart han '''fly''' forbanna.''
+
+===Etymology 5===
+{{PIE root|nn|plewk}}
+Confer with {{m|nn|flye|g=n||flying insect}} and {{cog|en|fly}}.
+
+====Noun====
+{{nn-noun-f1}}
+
+# [[small]] ([[flying]]) [[insect]]
+# {{lb|nn|fishing}} [[bait]]
+
+===Etymology 6===
+
+====Noun====
+{{nn-noun-f1}}
+
+# {{rfdef|nn}}
+#: {{syn|nn|rusk|grann}}
+
+===Etymology 7===
+
+====Noun====
+{{nn-noun-f1}}
+
+# [[mountain]] [[plateau]]
+#: {{syn|nn|vidde|fjellvidde}}
+
+===Etymology 8===
+Of uncertain origin, though may be related to {{m|nn|flyta||to float}}.
+
+====Noun====
+{{nn-noun-n1}}
+
+# [[sump]]
+
+===Etymology 9===
+
+====Adjective====
+{{nn-adj-irreg|n=flytt}}
+
+# [[tepid]]
 
 ===References===
 * {{R:The Nynorsk Dictionary}}
+
+{{catlangname|nn|intensifiers}}
+{{topics|nn|Landforms}}
 
 ----
 
