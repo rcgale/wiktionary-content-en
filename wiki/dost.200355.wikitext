@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-{{suffix|en|do|st}}
+From {{af|en|do|-st}}.
 
 ===Pronunciation===
 * {{IPA|en|/dʌst/}}
@@ -15,17 +15,19 @@
 # {{en-archaic second-person singular of|do|lang=en}}
 
 ====Usage notes====
-''[[doth|Doth]]'' and ''dost'' are generally used as auxiliary verbs; ''[[doeth]]'' and ''[[doest]]'' are generally used as main verbs.
+{{m|en|doth|Doth}} and ''dost'' are generally used as auxiliary verbs; {{m|en|doeth}} and {{m|en|doest}} are generally used as main verbs.
 
 ====Quotations====
 * {{seeCites|en}}
 
 ====Related terms====
-* {{l|en|do}}
-* {{l|en|doest}}
-* {{l|en|doth}}
-* {{l|en|didst}}
-* {{l|en|thou}}
+{{col3|en
+|do
+|doest
+|doth
+|didst
+|thou
+}}
 
 ===Anagrams===
 * {{anagrams|en|a=dost|DOTs|DTOs|TODs|dots|stod|stød|tods}}
@@ -51,15 +53,15 @@ From {{bor|az|fa|دوست|tr=dôst}}.
 {{az-latin-noun-decl|c|o}}
 
 ====Derived terms====
-* {{l|az|dostluq||friendship}}
-* {{l|az|dost-tanış||friends and acquaintances}}
+* {{l|az|dostluq|t=friendship}}
+* {{l|az|dost-tanış|t=friends and acquaintances}}
 
 ----
 
 ==Crimean Tatar==
 
 ===Etymology===
-From {{etyl|fa|crh}} {{m|fa|دوست}}.
+From {{der|crh|fa|دوست}}.
 
 ===Noun===
 {{head|crh|noun}}
@@ -124,30 +126,37 @@ From {{bor|ku|fa|دوست|tr=dôst}}.
 ==Turkish==
 
 ===Etymology===
-From {{etyl|fa|tr}} {{m|fa|دوست|sc=fa-Arab|tr=dust}}.
+From {{der|tr|fa|دوست|tr=dust}}.
 
 ===Noun===
 {{tr-noun|u|lar}}
 
 # [[friend]] {{gloss|often, [[arkadaş]] is used instead of dost}}
+#: {{syn|tr|kanka|q1=informal}}
 # [[paramour]]; an illicit male or female lover
+#: {{syn|tr|metres|q1=a female paramour|zamazingo|q2=slang}}
 
 ====Declension====
 {{tr-infl-noun-c|o|poss=1|pred=1}}
-
-====Synonyms====
-* {{l|tr|kanka}} (1, informal)
-* {{l|tr|metres}} (2, a female paramour)
-* {{l|tr|zamazingo}} (2, slang)
 
 ====Antonyms====
 * {{l|tr|düşman}}
 
 ====Derived terms====
-{{der3|tr|dostça|dostla|dostluk|dostsa|dostsuz|dostsuzluk}}
+{{col3|tr
+|dostça
+|dostla
+|dostluk
+|dostsa
+|dostsuz
+|dostsuzluk
+}}
 
 ====Related terms====
-{{rel3|tr|dost hayatı|dost hayatı yaşamak}}
+{{col3|tr
+|dost hayatı
+|dost hayatı yaşamak
+}}
 
 ===See also===
 * {{l|tr|arkadaş}}
@@ -163,7 +172,4 @@ From {{bor|zza|fa|دوست|tr=dôst}}.
 {{zza-noun}}
 
 # [[friend]]
-
-====Synonyms====
-* {{l|zza|olboz}}
-* {{l|zza|ombaz}}
+#: {{syn|zza|olboz|ombaz}}
