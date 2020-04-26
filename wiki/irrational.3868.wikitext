@@ -10,26 +10,21 @@ From {{etyl|la|en}} {{m|la|irratiōnālis}}, from {{m|la|ir-}} + {{m|la|rational
 {{en-adj}}
 
 # Not [[rational]]; [[unfounded]] or [[nonsensical]].
-#: ''an '''irrational''' decision''
+#: {{ux|en|an '''irrational''' decision}}
 #* '''July 18, 2012''', Scott Tobias, AV Club ''The Dark Knight Rises''[http://www.avclub.com/articles/the-dark-knight-rises-review-batman,82624/]
 #*: Where the Joker preys on our fears of random, '''irrational''' acts of terror, Bane has an all-consuming, dictatorial agenda that’s more stable and permanent, a New World Order that’s been planned out with the precision of a military coup.
 # {{lb|en|mathematics|arithmetic|number theory|not comparable}} Of a [[real number]], that cannot be written as the ratio of two [[integer]]s.
-#: ''The number &pi; is '''irrational'''.''
-
-====Antonyms====
-* {{sense|mathematics}} {{l|en|rational}}
-
-====Hyponyms====
-* {{sense|mathematics}} {{l|en|transcendental}}
+#: {{ux|en|The number &pi; is '''irrational'''.}}
+#: {{ant|en|rational}}
+#: {{hypo|en|transcendental}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|irrationality}}
-* {{l|en|irrationalization}}
-{{der-mid}}
-* {{l|en|irrationalize}}
-* {{l|en|irrational number}}
-{{der-bottom}}
+{{col4|en
+|irrationality
+|irrationalization
+|irrationalize
+|irrational number
+}}
 
 ====Translations====
 {{trans-top|unfounded or nonsensical}}
@@ -38,7 +33,7 @@ From {{etyl|la|en}} {{m|la|irratiōnālis}}, from {{m|la|ir-}} + {{m|la|rational
 * Bulgarian: {{t+|bg|неразумен}}, {{t+|bg|безразсъден}}
 * Catalan: {{t+|ca|bèstia}}, {{t+|ca|irracional}}
 * Chinese:
-*: Mandarin: {{t+|cmn|不合理|tr=bùhélǐ|sc=Hani}}
+*: Mandarin: {{t+|cmn|不合理|tr=bùhélǐ}}
 * Danish: {{t|da|irrationel}}
 * Dutch: {{t+|nl|irrationeel}}, {{t+|nl|irrationele}}, {{t+|nl|onzinnig}}, {{t+|nl|onzinnige}}, {{t+|nl|onredelijk}}, {{t+|nl|onredelijke}}
 * Esperanto: {{t|eo|malracia}}
@@ -61,9 +56,10 @@ From {{etyl|la|en}} {{m|la|irratiōnālis}}, from {{m|la|ir-}} + {{m|la|rational
 *: Nynorsk: {{t|nn|irrasjonell}}
 * Polish: {{t+|pl|nieracjonalny}}, {{t+|pl|irracjonalny}}
 * Portuguese: {{t+|pt|irracional}}
-* Romanian: {{t+|ro|irațional|m|n}}, {{t+|ro|nerațional|m|n}}
+* Romanian: {{t+|ro|irațional}}, {{t+|ro|nerațional}}
 * Russian: {{t+|ru|нерациона́льный}}, {{t+|ru|иррациона́льный}}
-* Serbo-Croatian: {{t+|sh|iracionalan|m}}, {{t+|sh|nerazuman|m}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|ȉracionālan}}, {{t+|sh|nȅrazūman}}
 * Spanish: {{t+|es|irracional}}
 * Swedish: {{t+|sv|irrationell}}
 * Tagalog: {{t|tl|atbang}}, {{t|tl|maatbang}}
@@ -76,13 +72,13 @@ From {{etyl|la|en}} {{m|la|irratiōnālis}}, from {{m|la|ir-}} + {{m|la|rational
 * Bulgarian: {{t+|bg|ирационален}}
 * Catalan: {{t+|ca|irracional}}
 * Chinese:
-*: Mandarin: {{t+|cmn|無理數|sc=Hani}}, {{t+|cmn|无理数|tr=wúlǐshù|sc=Hani}}
+*: Mandarin: {{t+|cmn|無理數}}, {{t+|cmn|无理数|tr=wúlǐshù}}
 * Czech: {{t|cs|iracionální}}
 * Danish: {{t|da|irrational}}
 * Dutch: {{t|nl|irrationaal}}, {{t|nl|irrationale}}
 * Esperanto: {{t|eo|neracionala}}
 * Finnish: {{t|fi|irrationaalinen}}
-* French: {{t+|fr|irrationnel|m}}, {{t+|fr|irrationnelle|f}}
+* French: {{t+|fr|irrationnel}}
 * German: {{t+|de|irrational}}
 * Greek: {{t+|el|άρρητος}}
 *: Ancient Greek: {{t|grc|ἄρρητος}}
@@ -100,11 +96,11 @@ From {{etyl|la|en}} {{m|la|irratiōnālis}}, from {{m|la|ir-}} + {{m|la|rational
 * Russian: {{t+|ru|иррациона́льный}}
 * Swedish: {{t+|sv|irrationell}}
 * Tagalog: {{t|tl|ditagwayin}}
-* Vietnamese: {{t+|vi|số vô tỉ }}
+* Vietnamese: {{t+|vi|số vô tỉ}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|id}}: [[irasional]], [[tak]] [[masuk akal]]
+* Indonesian: {{t+check|id|irasional}}, {{t-check|id|[[tak]] [[masuk akal]]}}
 {{trans-mid}}
 {{trans-bottom}}
 
