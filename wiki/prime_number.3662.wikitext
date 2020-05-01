@@ -5,7 +5,7 @@
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|number theory}} Any [[natural number]] greater than 1 that is [[divisible]] only by itself and 1.
+# {{lb|en|number theory}} Any [[natural number]] greater than 1 that cannot be formed by [[multiply]]ing two smaller natural numbers.
 #: {{ux|en|The {{w|fundamental theorem of arithmetic}} states that every natural number greater than 1 can be factorized into '''prime numbers''' in a way that is unique up to the order in which the factors are written.}}
 #* '''2007''', James Alfred Walker, Julian Francis Miller, ''Predicting '''Prime Numbers''' Using Cartesian Genetic Programming'', Marc Ebner, Michael O'Neill, Anikó Ekárt, Anna Isabel Esparcia-Alcázar, Leonardo Vanneschi (editors), ''Genetic Programming: 10th European Conference, EuroGP 2007, Proceedings'', Springer, {{w|LNCS}} 4445, [https://books.google.com.au/books?id=7Oq0PE8iTewC&pg=PA215&dq=%22prime+number%22%7C%22prime+numbers%22&hl=en&sa=X&ved=0ahUKEwjUrqz6kOncAhXB31QKHYSsDnYQ6AEIvwMwUg#v=onepage&q=%22prime%20number%22%7C%22prime%20numbers%22&f=false page 215],
 #*: As the evolved solution for the first 16 '''prime numbers''' was capable of accepting inputs up to 31, we decided to extend the experiment to see how the solution generalised on 15 previously unseen inputs (just as we did with the integer-based approach). From the 15 unseen inputs, 7 of the predicted 15 outputs were '''prime numbers''', which is just below 50%, indicating that the solution had learned something about "primeness" or favoured '''prime numbers'''.
