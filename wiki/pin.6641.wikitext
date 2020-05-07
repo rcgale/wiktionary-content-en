@@ -3,11 +3,6 @@
 {{wikipedia}}
 [[Image:Marking pin.jpg|150px|thumb|pins (sharpened steel wire with a head)]]
 
-===Etymology===
-From {{inh|en|enm|pinne}}, from {{inh|en|ang|pinn||pin, peg, bolt}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*pinnaz}}, {{m|gem-pro|*pinnō}}, {{m|gem-pro|*pint-||protruding point, peak, peg, pin, nail}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bend-||protruding object, pointed peg, nail, edge}}. Cognate with {{cog|nl|pin||peg, pin}}, {{cog|nds|pin}}, {{m|nds|pinne||pin, point, nail, peg}}, {{cog|de|Pinn}}, {{m|de|Pinne||pin, tack, peg}}, {{cog|bar|Pfonzer}}, {{m|bar|Pfunzer||sharpened point}}, {{cog|da|pind||pin, pointed stick}}, {{cog|no|pinn||stick}}, {{cog|sv|pinne||peg, rod, stick}}, {{cog|is|pinni||pin}}. More at [[pintle]].
-
-No relation to classical {{cog|la|pinna||fin, flipper, wing-like appendage, wing, feather}}, which was extended to mean "ridge, peak, point" (compare [[pinnacle]]), and often confused with {{cog|la|penna||wing, feather}}. More at [[feather]].
-
 ===Pronunciation===
 * {{enPR|pĭn}}, {{IPA|en|/pɪn/|[pʰɪn]}}
 * {{audio|en|En-ca-pin.ogg|Audio (CA)}}
@@ -16,7 +11,12 @@ No relation to classical {{cog|la|pinna||fin, flipper, wing-like appendage, wing
 * {{rhymes|en|ɪn}}
 * {{homophones|en|pen}} {{qualifier|pin-pen merger}}
 
-===Noun===
+===Etymology 1===
+From {{inh|en|enm|pinne}}, from {{inh|en|ang|pinn||pin, peg, bolt}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*pinnaz}}, {{m|gem-pro|*pinnō}}, {{m|gem-pro|*pint-||protruding point, peak, peg, pin, nail}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bend-||protruding object, pointed peg, nail, edge}}. Cognate with {{cog|nl|pin||peg, pin}}, {{cog|nds|pin}}, {{m|nds|pinne||pin, point, nail, peg}}, {{cog|de|Pinn}}, {{m|de|Pinne||pin, tack, peg}}, {{cog|bar|Pfonzer}}, {{m|bar|Pfunzer||sharpened point}}, {{cog|da|pind||pin, pointed stick}}, {{cog|no|pinn||stick}}, {{cog|sv|pinne||peg, rod, stick}}, {{cog|is|pinni||pin}}. More at [[pintle]].
+
+No relation to classical {{cog|la|pinna||fin, flipper, wing-like appendage, wing, feather}}, which was extended to mean "ridge, peak, point" (compare [[pinnacle]]), and often confused with {{cog|la|penna||wing, feather}}. More at [[feather]].
+
+====Noun====
 {{en-noun}}
 
 # A [[sewing pin]] or [[ballhead pin]]: a [[needle]] without an [[eye]] (usually) made of drawn-out steel wire with one end sharpened and the other [[flatten]]ed or rounded into a head, used for [[fasten]]ing.
@@ -54,17 +54,17 @@ No relation to classical {{cog|la|pinna||fin, flipper, wing-like appendage, wing
 # {{lb|en|informal}} A [[pinball machine]].
 #: {{ux|en|I spent most of my time in the arcade playing '''pins'''.}}
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|small nail}} {{l|en|nail}}, {{l|en|tack}}
 * {{sense|cylinder of wood or metal}} {{l|en|peg}}
 * {{sense|games}} {{l|en|skittle}}
 * {{sense|jewellery fastened with a pin}} {{l|en|brooch}}
 
-====Hyponyms====
+=====Hyponyms=====
 * {{sense|jewellery fastened with a pin}} {{l|en|breastpin}}
 * {{sense|chess}} {{l|en|absolute pin}}, {{l|en|relative pin}}, {{l|en|partial pin}}
 
-====Derived terms====
+=====Derived terms=====
 {{rel-top3|Terms derived from ''pin'' (noun)}}
 * {{l|en|belaying pin}}
 * {{l|en|breastpin}}
@@ -88,9 +88,10 @@ No relation to classical {{cog|la|pinna||fin, flipper, wing-like appendage, wing
 * {{l|en|pin-up}}, {{l|en|pinup}}<!--noun-->
 * {{l|en|rolling pin}}
 * {{l|en|safety pin}}
+* {{l|en|schoolgirl pin}}
 {{rel-bottom}}
 
-====Translations====
+=====Translations=====
 {{trans-top|needle without an eye, used for fastening}}
 * Afrikaans: {{t|af|speld}}, {{t|af|naald}}
 * Albanian: {{t|sq|gjilpërë me kokë}}
@@ -316,10 +317,10 @@ No relation to classical {{cog|la|pinna||fin, flipper, wing-like appendage, wing
 * Welsh: {{t-check|cy|pìn}}
 {{trans-bottom}}
 
-====See also====
+=====See also=====
 * {{l|en|needle}}
 
-===Verb===
+====Verb====
 {{en-verb|pins|pinning|pinned}}
 
 # {{lb|en|often followed by a preposition such as "to" or "on"}} To fasten or attach (something) with a pin.
@@ -330,9 +331,8 @@ No relation to classical {{cog|la|pinna||fin, flipper, wing-like appendage, wing
 #: ''to '''pin''' a window to the Taskbar''
 # {{lb|en|computing|transitive}} To [[fix]] (an [[array]] in [[memory]], a [[security]] [[certificate]], etc.) so that it cannot be [[modify|modified]].
 #: ''When marshaling data, the interop marshaler can copy or '''pin''' the data being marshaled.''
-# {{alternative form of|en|peen}}.
 
-====Derived terms====
+=====Derived terms=====
 * {{l|en|pin down}}
 * {{l|en|pin in}}
 * {{l|en|pin on}}
@@ -341,7 +341,7 @@ No relation to classical {{cog|la|pinna||fin, flipper, wing-like appendage, wing
 * {{l|en|pin up}}<!--verb-->
 * {{l|en|underpin}}
 
-====Translations====
+=====Translations=====
 {{trans-top|to fasten/attach with a pin}}
 * Dutch: {{t+|nl|vastpinnen}}
 * Finnish: {{t+|fi|kiinnittää}}
@@ -363,6 +363,13 @@ No relation to classical {{cog|la|pinna||fin, flipper, wing-like appendage, wing
 * Italian: {{t+|it|inchiodare}}
 * Spanish: {{t+|es|clavar}}
 {{trans-bottom}}
+
+===Etymology 2===
+
+====Verb====
+{{en-verb|pins|pinning|pinned}}
+
+# {{alternative form of|en|peen}}
 
 ===Anagrams===
 * {{anagrams|en|a=inp|NIP|NPI|Nip|nip}}
