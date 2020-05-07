@@ -509,20 +509,34 @@ From {{inh|oc|pro|-}}, from {{inh|oc|la|ad}} {{m|la|hōram}}.
 
 ==Old Irish==
 
-===Etymology===
-From {{m|sga|ar|t=for}} combined with various words of the form {{m|sga|a}}; the conjunction is derived from the contraction of {{m|sga|ar}} with the relative particle.
-
 ===Pronunciation===
 * {{IPA|sga|/ˈara/}}
 
-===Contraction===
-{{head|sga|contraction}}
+===Etymology 1===
+{{univerbation|sga|ar|t1=for (the sake of), because of|a|t2=the|pos2=neuter accusative singular}}
 
-# {{contraction of|sga|ar|t=for (the sake of), because of|nodot=1}} + {{n-g|{{m|sga|a|t=the|pos=neuter accusative singular}}}} {{q|triggers eclipsis}}
-# {{contraction of|sga|ar|t=for (the sake of), because of|nodot=1}} + {{n-g|{{m|sga|a|t=his/her/their}}}} {{q|‘his’ triggers lenition, ‘her’ triggers {{IPAchar|/h/}}-prothesis, ‘their’ triggers eclipsis}}
-# {{contraction of|sga|ar|t=for (the sake of), because of|nodot=1}} + {{n-g|{{m|sga|a|pos=relative particle}}}} {{q|triggers lenition in direct relative clauses and eclipsis in indirect relative clauses}}
+====Article====
+{{head|sga|article form|triggers eclipsis}}
 
-===Conjunction===
+# for (the sake of) the, because of the {{q|neuter accusative singular}}
+
+===Etymology 2===
+{{univerbation|sga|ar|t1=for (the sake of), because of|a|t2=his/her/their}}
+
+====Determiner====
+{{head|sga|determiner form|‘his’ and ‘its’ trigger lenition, ‘her’ triggers {{IPAchar|/h/}}-prothesis, ‘their’ triggers eclipsis}}
+
+# for (the sake of) his/her/its/their, because of his/her/its/their
+
+===Etymology 3===
+{{af|sga|ar|t1=for (the sake of), because of|-a|pos2=relative pronoun}}
+
+====Particle====
+{{head|sga|relative particle|triggers lenition in direct relative clauses and eclipsis in indirect relative clauses}}
+
+# for (the sake of) whom/which, because of whom/which
+
+====Conjunction====
 {{head|sga|conjunction|negative|arna|or|arná|or|arnacon|or|arnachon}}
 
 # [[so that]]
