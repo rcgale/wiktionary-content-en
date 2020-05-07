@@ -5,7 +5,7 @@
 * {{bg-IPA|университе́т}}
 
 ===Noun===
-{{bg-noun|университе́т|m}}
+{{bg-noun|университе́т|m|adj=университе́тски}}
 
 # {{top|bg|Education}} [[university]]
 
@@ -46,11 +46,11 @@ Borrowed from {{bor|kk|ru|университе́т}}, from {{der|kk|de|Universit
 {{kk-noun}}
 
 # [[university]]
-#: {{ux|kk|'''университет''' бітіру|translation= to graduate from '''university'''}}
-#: {{ux|kk|'''университет''' жарғысы|translation= the '''university''' statues}}
-#: {{ux|kk|'''университетте''' оқу|translation= to study at '''university'''}}
-#: {{ux|kk|'''университет''' талапкері|translation=entrants of '''university'''}}
-#: {{ux|kk|'''университетке''' түсу|translation= to enter '''university'''}}
+#: {{uxi|kk|'''университет''' бітіру|translation= to graduate from '''university'''}}
+#: {{uxi|kk|'''университет''' жарғысы|translation= the '''university''' statues}}
+#: {{uxi|kk|'''университетте''' оқу|translation= to study at '''university'''}}
+#: {{uxi|kk|'''университет''' талапкері|translation=entrants of '''university'''}}
+#: {{uxi|kk|'''университетке''' түсу|translation= to enter '''university'''}}
 
 ====Declension====
 {{kk-noun-c|е|т}}
@@ -70,10 +70,10 @@ Borrowed from {{bor|ru|de|Universität}}, from {{bor|ru|la|universitas}}.
 
 ===Pronunciation===
 * {{ru-IPA|университе́т}}
-* {{audio|ru|Ru-университет.ogg|Audio}}
+* {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
 
 ===Noun===
-{{ru-noun+|университе́т}}
+{{ru-noun+|университе́т|adj=университе́тский}}
 
 # {{top|ru|Education}} [[university]]
 
