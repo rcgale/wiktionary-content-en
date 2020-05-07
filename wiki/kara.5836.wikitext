@@ -18,6 +18,7 @@ From {{bor|en|pa|ਕੜਾ}}.
 ----
 
 ==Balinese==
+
 ===Romanization===
 {{ban-rom}}
 # {{romanization of|ban|ᬓᬭ}}
@@ -144,7 +145,7 @@ From {{inh|fi|fiu-fin-pro|*kara}}.
 * {{l|fi|omenankara}}
 
 ===Etymology 2===
-Onomatopoeic.
+{{onomatopoeic|fi}}.
 
 ====Noun====
 {{fi-noun}}
@@ -184,7 +185,7 @@ Onomatopoeic.
 ==Hungarian==
 
 ===Etymology===
-{{affix|hu|kar|-a|pos2=possessive suffix|nocat=y}}
+From {{af|hu|kar|-a|pos2=possessive suffix|nocat=y}}.
 
 ===Pronunciation===
 * {{hu-IPA}}
@@ -227,10 +228,9 @@ Onomatopoeic.
 {{head|kdr|adjective}}
 
 # [[black]]
-*
 
 ====References====
-[http://www.dnathan.com/language/karaim/dic/karaim-russian/index.html dnathan.com]
+* [http://www.dnathan.com/language/karaim/dic/karaim-russian/index.html dnathan.com]
 
 [[Category:kdr:Colors]]
 
@@ -257,7 +257,7 @@ Onomatopoeic.
 ==Lower Sorbian==
 
 ===Etymology===
-Borrowed from {{bor|dsb|gmh|karre}}, ultimately from {{der|de|la|carrus}}, from {{der|dsb|cel-gau|karros}}, from {{der|dsb|cel-pro|*karros||wagon}}.
+Borrowed from {{bor|dsb|gmh|karre}}, ultimately from {{der|de|la|carrus}}, from {{der|dsb|cel-gau|karros}}, from {{der|dsb|cel-pro|*karros|t=wagon}}.
 
 ===Pronunciation===
 * {{IPA|dsb|/ˈkara/}}
@@ -283,9 +283,7 @@ Borrowed from {{bor|dsb|gmh|karre}}, ultimately from {{der|de|la|carrus}}, from 
 {{head|arn|noun|using Raguileo Alphabet}}
 
 # [[city]]
-
-====Synonyms====
-* {{l|arn|waria}}
+#: {{syn|arn|waria}}
 
 ===References===
 * {{R:Wixaleyiñ 2008}}
@@ -304,7 +302,7 @@ Borrowed from {{bor|dsb|gmh|karre}}, ultimately from {{der|de|la|carrus}}, from 
 ==Norwegian Bokmål==
 
 ===Alternative forms===
-* {{l|nb|karene}}
+* {{alter|nb|karene}}
 
 ===Noun===
 {{head|nb|noun form|g=n}}
@@ -337,6 +335,7 @@ From {{inh|osx|gem-pro|*kar-}}, perhaps from the same {{der|osx|ine-pro|-}} root
 {{rfinfl|osx|noun}}
 
 ----
+
 ==Oroqen==
 
 ===Adjective===
@@ -357,25 +356,31 @@ From {{inh|osx|gem-pro|*kar-}}, perhaps from the same {{der|osx|ine-pro|-}} root
 * {{pl-IPA}}
 * {{audio|pl|Pl-kara.ogg|Audio}}
 
-===Etymology===
+===Etymology 1===
 From {{inh|pl|sla-pro|*kara}}.
 
-===Noun===
+====Noun====
 {{pl-noun|f}}
 
 # [[punishment]]
 # [[penalty]], [[fine]]
-#: {{ux|pl|kara śmierci|capital punishment, death penalty|inline=1}}
+#: {{uxi|pl|kara śmierci|capital punishment, death penalty}}
 
-====Declension====
+=====Declension=====
 {{pl-decl-noun-f}}
 
-===Noun===
+===Etymology 2===
+{{nonlemma}}
+
+====Noun====
 {{head|pl|noun form}}
 
 # {{inflection of|pl|karo||gen|s|;|nom//acc//voc|p}}
 
-===Adjective===
+===Etymology 3===
+{{nonlemma}}
+
+====Adjective====
 {{head|pl|adjective form}}
 
 # {{inflection of|pl|kary||f|nom//voc|s}}
@@ -407,7 +412,9 @@ From {{der|tr|otk|𐰴𐰺𐰀|tr=kara|t=dark, black; land; north}}, from {{inh|
 {{tr-adj}}
 
 # [[black]], [[dark]]
-#: {{ux|tr|'''kara''' büyü|[[black magic|'''black''' magic]]|inline=1}}
+#: {{uxi|tr|'''kara''' büyü|[[black magic|'''black''' magic]]}}
+#: {{syn|tr|siyah}}
+#: {{ant|tr|ak|beyaz}}
 # [[brunette]]
 # [[dark]] [[skinned]]
 # {{lb|tr|figuratively}} [[evil]], [[wicked]], [[villainous]]
@@ -419,31 +426,21 @@ From {{der|tr|otk|𐰴𐰺𐰀|tr=kara|t=dark, black; land; north}}, from {{inh|
 =====Descendants=====
 * {{desc|bor=1|ady|къарэ}}
 
-====Synonyms====
-* {{l|tr|siyah}}
-
-====Antonyms====
-* {{l|tr|ak}}
-
 ===Noun===
 {{tr-noun|yı|lar}}
 
 # {{topics|tr|Colors}} [[black]]
+#: {{syn|tr|siyah}}
+#: {{ant|tr|ak}}
 # [[land]], [[field]]
-#: {{ux|tr|kara göründü!|[[land ahoy]]!}}
+#: {{uxi|tr|kara göründü!|[[land ahoy]]!}}
+#: {{ant|tr|deniz}}
 # {{lb|tr|archaic}} [[north]]
+#: {{syn|tr|kuzey}}
+#: {{ant|tr|ak|güney}}
 
 ====Declension====
 {{tr-infl-noun-v|a|poss=1}}
-
-====Synonyms====
-* {{sense|black}} {{l|tr|siyah}}
-* {{sense|north}} {{l|tr|kuzey}}
-
-====Antonyms====
-* {{sense|black|north}} {{l|tr|ak}}
-* {{sense|land}} {{l|tr|deniz}}
-* {{sense|north}} {{l|tr|güney}}
 
 ====See also====
 {{table:colors/tr}}
