@@ -1,8 +1,32 @@
 {{also|гряд}}
+==Belarusian==
+
+===Etymology===
+From {{inh|be|sla-pro|*gradъ}}.
+
+===Pronunciation===
+* {{be-IPA}}
+
+===Noun===
+{{be-noun||m-in|гра́ду}}
+
+# {{lb|be|meteorology}} [[hail]]
+
+====Declension====
+{{be-decl-noun-unc|град|гра́ду|гра́ду|град|гра́дам|гра́дам|гра́дзе}}
+
+===References===
+* {{R:uk:SUM-11}}
+* {{R:uk:HOROKH}}
+
+[[Category:be:Weather]]
+
+----
+
 ==Bulgarian==
 
 ===Pronunciation===
-* {{IPA|bg|/ɡrat/}}
+* {{bg-IPA}}
 
 ===Etymology 1===
 From {{inh|bg|sla-pro|*gȏrdъ}}.
@@ -16,7 +40,7 @@ From {{inh|bg|sla-pro|*gȏrdъ}}.
 {{bg-ndecl|град<b(v)+ове+ища[r]>}}
 
 ====See also====
-* {{l|bg|село|g=n}}
+* {{l|bg|се́ло|g=n}}
 
 ===Etymology 2===
 From {{inh|bg|sla-pro|*gradъ}}, from {{der|bg|ine-pro|*greh₃d-}}.
@@ -48,6 +72,9 @@ From {{inh|bg|sla-pro|*gradъ}}, from {{der|bg|ine-pro|*greh₃d-}}.
 ===Etymology 1===
 From {{inh|mk|sla-pro|*gȏrdъ}}.
 
+===Pronunciation===
+* {{mk-IPA}}
+
 ====Noun====
 {{mk-noun|m}}
 
@@ -75,7 +102,7 @@ From {{inh|mk|sla-pro|*gradъ}}.
 ==Russian==
 
 ===Alternative forms===
-* {{l|ru|градъ}} {{ru-PRO}}
+* {{alter|ru|градъ}} {{ru-PRO}}
 
 ===Etymology 1===
 {{PIE root|ru|ǵʰreh₃d}}
@@ -86,7 +113,7 @@ From {{inh|ru|sla-pro|*gradъ}}, from {{der|ru|ine-pro|*greh₃d-}} or {{m|ine-p
 * {{rhymes|ru|at}}
 
 ====Noun====
-{{ru-noun+|n=sg}}
+{{ru-noun+|n=sg|dim=гра́дик}}
 
 # {{lb|ru|meteorology}} [[hail]]
 #: {{uxi|ru|'''Град''' [[идти|идёт]]|It’s hailing.}}
@@ -107,6 +134,7 @@ Borrowed from {{bor|ru|cu|градъ}}, which is a reflex of {{der|ru|sla-pro|*g
 
 # {{senseid|ru|town}} {{lb|ru|poetic|antiquated}} [[town]], [[city]], used as a common city name suffix ([[Волгоград]], [[Калининград]], [[Ленинград]])
 #: {{uxi|ru|[[стольный]] '''град'''|capital (city)}} {{i|modern Russian: {{m|ru|столи́ца}}}}
+#: {{syn|ru|го́род|q1=regular term}}
 
 =====Declension=====
 {{ru-noun-table}}
@@ -193,3 +221,28 @@ From {{bor|sh|la|gradus}}.
 
 [[Category:Serbo-Croatian terms with multiple etymologies]]
 [[Category:sh:Weather]]
+
+----
+
+==Ukrainian==
+
+===Etymology===
+From {{inh|uk|sla-pro|*gradъ}}.
+
+===Pronunciation===
+* {{uk-IPA}}
+* {{audio|uk|Uk-{{PAGENAME}}.ogg|Audio}}
+
+===Noun===
+{{uk-noun||m-in|гра́ду|гра́ди}}
+
+# {{lb|uk|meteorology}} [[hail]]
+
+====Declension====
+{{uk-decl-noun|град|гра́ди|гра́ду|гра́дів|гра́дові, гра́ду|гра́дам|град|гра́ди|гра́дом|гра́дами|гра́ді|гра́дах|гра́де|гра́ди}}
+
+===References===
+* {{R:uk:SUM-11}}
+* {{R:uk:HOROKH}}
+
+[[Category:uk:Weather]]
