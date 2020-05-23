@@ -276,11 +276,11 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Friulian: {{t-simple|fur|langname=Friulian|colôr|g=m}}
 * Galician: {{t+|gl|cor|f}}, {{t|gl|color|f}}
 * Georgian: {{t|ka|ფერი|sc=Geor}}
-* German: {{t+|de|Farbe|f}}
+* German: {{t-simple|interwiki=1|de|langname=German|Farbe|f}}
 * Greek: {{t+|el|χρώμα|n}}
 *: Ancient: {{t|grc|χρῶμα|n}}, {{t|grc|χρώς|m}}
-* Greenlandic: {{t+|kl|qalipaat}}
-* Guaraní: {{t|gn|sa'y}}
+* Greenlandic: {{t-simple|interwiki=1|kl|langname=Greenlandic|qalipaat}}
+* Guaraní: {{t-simple|gn|langname=|sa'y}}
 * Haitian Creole: {{t|ht|koulè}}
 * Hawaiian: {{t|haw|waihoʻoluʻu}}
 * Hebrew: {{t+|he|צֶבַע|m|tr=tséva}}
@@ -424,9 +424,9 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Finnish: {{t-simple|interwiki=1|fi|langname=Finnish|väri}}
 * French: {{t-simple|interwiki=1|fr|langname=French|couleur|g=f}}
 * Georgian: {{t|ka|ფერი|sc=Geor}}
-* German: {{t+|de|Farbe|f}}
+* German: {{t-simple|interwiki=1|de|langname=German|Farbe|g=f}}
 * Greek: {{t+|el|χρώμα|n}}
-* Greenlandic: {{t+|kl|qalipaat}}
+* Greenlandic: {{t-simple|interwiki=1|kl|langname=Greenlandic|qalipaat}}
 * Haitian Creole: {{t|ht|koulè}}
 * Hebrew: {{t+|he|צֶבַע|m|tr=tzéva}}
 * Hungarian: {{t+|hu|szín}}
@@ -469,7 +469,7 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Dutch: {{t-simple|interwiki=1|nl|langname=Dutch|kleur|g=f}}
 * Estonian: {{t-simple|interwiki=1|et|langname=Estonian|toon}}
 * Finnish: {{t-simple|interwiki=1|fi|langname=Finnish|väri}}
-* German: {{t+|de|Farbton|m}}
+* German: {{t-simple|interwiki=1|de|langname=German|Farbton|m}}
 {{trans-mid}}
 * Greek: {{t+|el|χρώμα|n}}, {{t+|el|απόχρωση|f}}
 * Hungarian: {{t+|hu|színárnyalat}}
@@ -493,7 +493,7 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Dutch: {{t-simple|interwiki=1|nl|langname=Dutch|kleur|g=f}}
 * Estonian: {{t-simple|et|langname=Estonian|nahavärv}}
 * Finnish: {{t-simple|interwiki=1|fi|langname=Finnish|ihonväri}}
-* German: {{t+|de|Hautfarbe|f}}
+* German: {{t-simple|interwiki=1|de|langname=German|Hautfarbe|g=f}}
 * Greek: {{t+|el|χρώμα|n}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|bőrszín}}
@@ -530,7 +530,7 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Danish: {{t-simple|interwiki=1|da|langname=Danish|farve|g=c}}
 * Dutch: {{t-simple|interwiki=1|nl|langname=Dutch|kleur|g=f}}
 * Finnish: {{t-simple|fi|langname=Finnish|väri}}, {{t|fi|[[heraldinen]] [[väri]]}}
-* German: {{t+|de|Tinktur|f}}
+* German: {{t-simple|interwiki=1|de|langname=German|Tinktur|g=f}}
 {{trans-mid}}
 * Japanese: {{t+|ja|業績|tr=ぎょうせき, gyōseki}}
 * Norwegian: {{t+|no|farge|m}}
@@ -546,7 +546,7 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Dutch: {{t-simple|interwiki=1|nl|langname=Dutch|kleur}}
 * Estonian: {{t-simple|et|langname=Estonian|lipp}}
 * Finnish: {{t-simple|interwiki=1|fi|langname=Finnish|lippu}}, {{t-simple|interwiki=1|fi|langname=Finnish|värit}}
-* German: {{t+|de|Fahne|f}}, {{t+|de|Flagge|f}}
+* German: {{t-simple|interwiki=1|de|langname=German|Fahne|g=f}}, {{t-simple|interwiki=1|de|langname=German|Flagge|g=f}}
 * Greek: {{t+|el|χρώματα|n-p}}
 * Hungarian: {{t+|hu|lobogó}}
 {{trans-mid}}
@@ -561,8 +561,6 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Galician: {{t-check|gl|color}}
-* Guaraní: {{t-check|gn|sa'y}}
 * Hebrew: {{t+check|he|צֶבַע|tr=tséva|sc=Hebr}}
 * Hindi: {{t+check|hi|रंग|sc=Deva}}
 * Ido: {{t+check|io|koloro}}
@@ -595,8 +593,8 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Bulgarian: {{t+|bg|цветен}}
 * Chinese:
 *: Mandarin: {{t+|cmn|彩色|tr=cǎisè}}
-* Danish: {{t|da|farve-}}
-* French: {{t|fr|en couleur}}
+* Danish: {{t-simple|da|langname=Danish|farve}}
+* French: {{t-simple|fr|langname=French|en couleur}}
 * Greek: {{t+|el|έγχρωμος}}, {{t+|el|χρωματικός}}
 * Hebrew: {{t+|he|צבעוני|tr=tziv'ony|m}}, {{t|he|צבעונית|f|tr=tziv'onyt|sc=Hebr}}
 * Hungarian: {{t+|hu|színes}}
@@ -680,8 +678,8 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Esperanto: {{t-simple|eo|langname=Esperanto|kolorigi}}, {{t-simple|eo|langname=Esperanto|kolori}}
 * Finnish: {{t-simple|interwiki=1|fi|langname=Finnish|värjätä}}
 * French: {{t-simple|interwiki=1|fr|langname=French|colorer}}, {{t-simple|interwiki=1|fr|langname=French|teinter}}
-* Galician: {{t+|gl|colorar}}
-* German: {{t+|de|färben}}
+* Galician: {{t-simple|interwiki=1|gl|langname=Galician|colorar}}
+* German: {{t-simple|interwiki=1|de|langname=German|färben}}
 * Greek: {{t+|el|χρωματίζω}}, {{t+|el|βάφω}}
 * Hebrew: {{t+|he|צבע|tr=tsavá}}
 * Hungarian: {{t+|hu|színez}}, {{t+|hu|fest}}
@@ -720,7 +718,7 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Dutch: {{t-simple|interwiki=1|nl|langname=Dutch|kleuren}}
 * Finnish: {{t-simple|interwiki=1|fi|langname=Finnish|värittää}}
 * French: {{t-simple|interwiki=1|fr|langname=French|colorier}}
-* German: {{t+|de|ausmalen}}
+* German: {{t-simple|interwiki=1|de|langname=German|ausmalen}}
 * Greek: {{t+|el|χρωματίζω}}
 * Hungarian: {{t+|hu|színez}}
 {{trans-mid}}
@@ -742,7 +740,7 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Danish: {{t-simple|da|langname=Danish|få kulør}}, {{t-simple|da|langname=Danish|få farve}}, {{t-simple|interwiki=1|da|langname=Danish|rødme}}
 * Dutch: {{t-simple|interwiki=1|nl|langname=Dutch|blozen}}, een {{t-simple|interwiki=1|nl|langname=Dutch|kleur}} krijgen, {{t-simple|interwiki=1|nl|langname=Dutch|kleuren}}
 * French: {{t-simple|interwiki=1|fr|langname=French|rougir}}
-* German: {{t+|de|erröten}}, {{t|de|rot werden}}
+* German: {{t-simple|interwiki=1|de|langname=German|erröten}}, {{t-simple|de|langname=German|rot werden}}
 * Greek: {{t+|el|κοκκινίζω}}
 * Hebrew: {{t+|he|הסמיק|tr=hismík}}
 * Hungarian: {{t+|hu|elpirul}}
