@@ -17,7 +17,7 @@
 * {{homophones|en|SKU}}
 
 ===Etymology 1===
-The {{glossary|verb}} is derived from {{inh|en|enm|skeuen}}, {{m|enm|skewe}}, {{m|enm|skewen|t=to run at an angle or obliquely; to escape}}, from {{der|en|ONF.|escuer}}{{nb...|eskieuer, eskiuer, eskiuwer, eskuer|otherforms=1}}, variants of {{der|en|fro|eschuer}}, {{m|fro|eschever}}, {{m|fro|eschiver|t=to escape, flee; to avoid}} (modern {{cog|fr|esquiver|t=to dodge (a blow), duck; to elude, evade; to slip away; to sidestep}}),<ref>{{R:MED Online|entry=skeuen|pos=''v.''(2)|noformat=yes|id=MED40664}}</ref><ref>{{R:OED Online|pos=''v.{{sup|2}}''|noformat=yes|id=180793|date=1911|nodot=1}}; {{R:Lexico|pos=v}}</ref> from {{der|en|frk|*skiuhan|t=to dread; to avoid, shun}}, from {{der|en|gem-pro|*skiuhijaną|t=to frighten}}. The English word is cognate with {{cog|da|skæv|t=crooked, slanting; skew, wry}}, {{cog|no|skejv|t=crooked, lopsided; oblique, slanting; distorted}}, {{cog|stq|skeeuw|t=aslant, slanting; oblique; awry}}, and is a {{doublet|en|eschew|nocap=1}}.
+The {{glossary|verb}} is derived from {{inh|en|enm|skeuen}}, {{m|enm|skewe}}, {{m|enm|skewen|t=to run at an angle or obliquely; to escape}}, from {{der|en|ONF.|escuer}}{{nb...|eskieuer, eskiuer, eskiuwer, eskuer|otherforms=1}}, variants of {{der|en|fro|eschuer}}, {{m|fro|eschever}}, {{m|fro|eschiver|t=to escape, flee; to avoid}} (modern {{cog|fr|esquiver|t=to dodge (a blow), duck; to elude, evade; to slip away; to sidestep}}),<ref>{{R:MED Online|entry=skeuen|pos=''v.''(2)|noformat=yes|id=MED40664}}</ref><ref>{{R:OED Online|pos=''v.{{sup|2}}''|noformat=yes|id=180793|date=1911|nodot=1}}; {{R:Lexico|pos=v}}</ref> from {{der|en|frk|*skiuhan|t=to dread; to avoid, shun}}, from {{der|en|gem-pro|*skiuhijaną|t=to frighten}}. The English word is cognate with {{cog|da|skæv|t=crooked, slanting; skew, wry}}, {{cog|no|skjev|t=crooked, lopsided; oblique, slanting; distorted}}, {{cog|stq|skeeuw|t=aslant, slanting; oblique; awry}}, and is a {{doublet|en|eschew|nocap=1}}.
 
 The {{glossary|adjective}} and {{glossary|adverb}} are probably derived from the verb and/or from {{m|en|askew}},<ref>{{R:OED Online|pos=adj.'' and ''adv|id=180791|date=1911|nodot=1}}; {{R:Lexico|pos=adj}}</ref> and the {{glossary|noun}} is derived from either the adjective or the verb.<ref>{{R:OED Online|pos=''n.{{sup|3}}''|noformat=yes|id=180785|date=1911|nodot=1}}; {{R:Lexico|pos=n}}</ref>
 
@@ -39,9 +39,14 @@ The {{glossary|adjective}} and {{glossary|adverb}} are probably derived from the
 #: {{rfquotek|en|Beaumont and Fletcher}}
 
 =====Derived terms=====
-* {{l|en|skewer|t=that which skews something}} {{qualifier|rare}}
-* {{l|en|skewing|pos=adjective, noun}}
-* {{l|en|unskew}}
+{{col3|en
+|{{l|en|nonskewed}}
+|{{l|en|skewed|pos=adjective}}
+|{{l|en|skewer|t=that which skews something}} {{qualifier|rare}}
+|{{l|en|skewing|pos=adjective, noun}}
+|{{l|en|unskew}}
+|{{l|en|unskewed}}
+}}
 
 =====Translations=====
 {{trans-top|to form or shape in an oblique way}}
@@ -139,7 +144,7 @@ The {{glossary|adjective}} and {{glossary|adverb}} are probably derived from the
 ====Noun====
 {{en-noun}}
 
-# Something that has an [[oblique#Adjective|oblique]] or [[slanted#Adjective|slanted]] [[position#Noun|position]].{{trans-top|something that has an oblique or slanted position}}
+# Something that has an [[oblique#Adjective|oblique]] or [[slanted#Adjective|slanted]] [[position#Noun|position]].
 # An oblique or [[sideways]] [[movement]].
 # A [[bias#Noun|bias]] or [[distortion]] in a particular [[direction]].
 #* '''1989''', Ivan Andonovic, ‎Deepak Uttamchandani, ''Principles of Modern Optical Systems'' (volume 1, page 501)
