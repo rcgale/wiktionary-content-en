@@ -277,14 +277,14 @@ Like many nouns denoting places where people spend time, {{m|en||bed}} requires 
 * Hebrew: {{t+|he|מיטה|f|tr=mitá|alt=מיטה \ מִטָּה}}, {{t+|he|עֶרֶשׂ|m|tr=éres}}
 * Hindi: {{t+|hi|पलंग|m}}, {{t+|hi|बिस्तर|m}}, {{t+|hi|शय्या|?}}
 * Hungarian: {{t-simple|interwiki=1|hu|langname=Hungarian|ágy}}
-* Icelandic: {{t+|is|rúm|n}}
-* Ido: {{t+|io|lito}}
-* Igbo: {{t|ig|akwa}}
-* Indonesian: {{t+|id|ranjang}}, {{t|id|tempat tidur}}
-* Interlingua: {{t|ia|lecto}}
-* Interlingue: {{t|ie|lette}}
-* Irish: {{t+|ga|leaba|f}}
-* Italian: {{t+|it|letto|m}}, {{t+|it|giaciglio|m}}
+* Icelandic: {{t-simple|interwiki=1|is|langname=Icelandic|rúm|n}}
+* Ido: {{t-simple|interwiki=1|io|langname=Ido|lito}}
+* Igbo: {{t-simple|ig|langname=Igbo|akwa}}
+* Indonesian: {{t-simple|interwiki=1|id|langname=Indonesian|ranjang}}, {{t-simple|id|langname=Indonesian|tempat tidur}}
+* Interlingua: {{t-simple|ia|langname=Interlingua|lecto}}
+* Interlingue: {{t-simple|ie|langname=Interlingue|lette}}
+* Irish: {{t-simple|interwiki=1|ga|langname=Irish|leaba|f}}
+* Italian: {{t-simple|interwiki=1|it|langname=Italian|letto|m}}, {{t+|it|giaciglio|m}}
 * Japanese: {{t+|ja|ベッド|tr=beddo}}, {{t+|ja|寝床|tr=[[ねどこ]], nedoko}}
 * Kabuverdianu: {{t|kea|kama}}
 * Kachchi: {{t|kfr|પલંગ|m|tr=palaṅg}}
@@ -443,7 +443,7 @@ Like many nouns denoting places where people spend time, {{m|en||bed}} requires 
 * Finnish: {{t+|fi|vuode}}, {{t|fi|makuusija}}, {{t+|fi|yösija}}
 * French: {{t-simple|interwiki=1|fr|langname=French|lit|m}}
 * German: {{t+|de|Lager|n}} (outdoor) (indoor if not a standard bed), {{t+|de|Bett|m}} (bed)
-* Irish: {{t+|ga|leaba|f}}
+* Irish: {{t-simple|interwiki=1|ga|langname=Irish|leaba|f}}
 * Korean: {{t+|ko|잠자리}}
 * Kurdish: {{t+|ku|nivîn|m}}, {{t+|ku|cihê nivistinê|m}}
 * Norwegian: {{t+|no|seng|m}}
@@ -513,8 +513,8 @@ Like many nouns denoting places where people spend time, {{m|en||bed}} requires 
 * Greek: {{t+|el|κοίτη|f}}, {{t+|el|πυθμένας|m}}
 * Hebrew: {{t+|he|קרקעית|tr=karka'it|f}}
 {{trans-mid}}
-* Irish: {{t+|ga|leaba|f}}
-* Italian: {{t+|it|letto|m}}
+* Irish: {{t-simple|interwiki=1|ga|langname=Irish|leaba|f}}
+* Italian: {{-tsimple|interwiki=1|it|langname=Italian|letto|m}}
 * Kazakh: {{t-needed|kk}}
 * Korean: {{t+|ko|하상}}
 * Malay: {{t|ms|dasar}}
@@ -577,7 +577,7 @@ Like many nouns denoting places where people spend time, {{m|en||bed}} requires 
 * Gujarati: {{t|gu|ક્યારી|?}}, {{t|gu|ક્યારો|?}}
 * Hebrew: {{t+|he|עֲרוּגָה|f|tr=arugá}}, {{t+|he|עֶרֶשׂ|m|tr=éres}}
 {{trans-mid}}
-* Irish: {{t+|ga|leaba|f}}, {{t|ga|ceapach|f}}
+* Irish: {{t-simple|interwiki=1|ga|langname=Irish|leaba|f}}, {{t-simple|ga|langname=Irish|ceapach|f}}
 * Kazakh: {{t-needed|kk}}
 * Korean: {{t|ko|모판}}
 * Latin: {{t|la|pulvīnus|m}}
@@ -698,7 +698,7 @@ Like many nouns denoting places where people spend time, {{m|en||bed}} requires 
 * Dutch: {{t-simple|nl|langname=Dutch|naar bed gaan}}, {{t|nl|[[gaan]] [[slapen]]}}
 * Finnish: {{t|fi|[[mennä]] [[nukkua|nukkumaan]]}}, {{t|fi|[[mennä]] [[sänky|sänkyyn]]}}
 * German: {{t|de|[[schlafen]] [[gehen]]}}
-* Italian: {{t|it|andare a dormire}}
+* Italian: {{t-simple|it|langname=Italian|andare a dormire}}
 {{trans-mid}}
 * Kurdish: {{t+|ku|nivistin}}, {{t+|ku|razan}}, {{t+|ku|raketin}}
 * Portuguese: {{t+|pt|deitar}}
