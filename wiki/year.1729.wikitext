@@ -163,18 +163,18 @@ From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēr}}, {{m|ang|ġ�
 * Central Dusun: {{t|dtp|toun}}
 * Chamicuro: {{t|ccc|wata}}
 * Chechen: {{t|ce|шо}}
-* Cherokee: {{t|chr|ᏑᏕᏘᏴᏓ|sc=Cher}}
+* Cherokee: {{t|chr|ᏑᏕᏘᏴᏓ}}
 * Chichewa: {{t|ny|chaka}}
 * Chinese:
-*: Cantonese: {{t+|yue|年|tr=nin4|sc=Hani}}
+*: Cantonese: {{t+|yue|年|tr=nin4}}
 *: Dungan: {{t|dng|нян}}
 *: Gan: {{t|gan|年|tr=nyien4}}
 *: Hakka: {{t|hak|年|tr=ngièn / ngiàn}} {{qualifier|Sixian}}, {{t|hak|年|tr=ngian2}} {{qualifier|Meixian}}
 *: Jin: {{t|cjy|年|tr=nie1}}
-*: Mandarin: {{t+|cmn|年|tr=nián|sc=Hani}}, {{qualifier|colloquial}} {{t+|cmn|年頭|sc=Hani}}, {{t+|cmn|年头|tr=niántóu|sc=Hani}}
+*: Mandarin: {{t+|cmn|年|tr=nián}}, {{qualifier|colloquial}} {{t+|cmn|年頭}}, {{t+|cmn|年头|tr=niántóu}}
 *: Min Bei: {{t|mnp|年|tr=nîng}}
-*: Min Dong: {{t|cdo|年|tr=nièng|sc=Hani}}
-*: Min Nan: {{t+|nan|年|tr=nî|sc=Hani}}
+*: Min Dong: {{t|cdo|年|tr=nièng}}
+*: Min Nan: {{t+|nan|年|tr=nî / liân}}
 *: Wu: {{t|wuu|年|tr=nyi}}
 *: Xiang: {{t|hsn|年|tr=nyienn2}}
 * Chukchi: {{t|ckt|гивин|tr=givin}}
@@ -262,7 +262,6 @@ From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēr}}, {{m|ang|ġ�
 * Livonian: {{t|liv|āigast}}
 * Lombard: {{t|lmo|ann|m}}
 * Low German: {{t+|nds|Johr}}
-* Lower Sorbian: {{t|dsb|lěto|n}}
 * Luxembourgish: {{t+|lb|Joer|n}}
 * Lü: {{t|khb|ᦔᦲ|sc=Talu}}, {{t|khb|ᨸᩦ|sc=Lana}}
 * Macedonian: {{t|mk|година|f}}
@@ -292,8 +291,9 @@ From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēr}}, {{m|ang|ġ�
 *: Bokmål: {{t+|no|år|n}}
 *: Nynorsk: {{t|nn|år|n}}
 * Occitan: {{t+|oc|annada}}
-* Old Church Slavonic: {{t|cu|лѣто|n}}, {{t|cu|рокъ|m}}, {{t|cu|годъ|m}}
-* Old East Slavic: {{t|orv|рокъ|m}}, {{t|orv|лѣто|n}}, {{t|orv|годъ|m}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|годъ|m}}, {{t|cu|рокъ|m}}, {{t|cu|лѣто|n}}
+* Old East Slavic: {{t|orv|рокъ|m}}, {{t|orv|годъ|m}}, {{t|orv|лѣто|n}}
 * Old English: {{t|ang|ġēar|n}}
 * Old Saxon: {{t|osx|gēr}}, {{t|osx|jār}}
 * Oriya: {{t+|or|ବର୍ଷ}}
@@ -317,20 +317,23 @@ From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēr}}, {{m|ang|ġ�
 * Rutul: {{t|rut|сен}}
 * S'gaw Karen: {{t|ksw|နံၣ်}}
 * Samogitian: {{t|sgs|metā}}
-* Sanskrit: {{t+|sa|वर्ष}}
+* Sanskrit: {{t+|sa|वर्ष|m|n}}
 * Sardinian: {{t|sc|annu|m}}
 * Scots: {{t|sco|year}}
 * Scottish Gaelic: {{t|gd|bliadhna}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|година|f|sc=Cyrl}}, {{t|sh|лето|n|sc=Cyrl}}
-*: Roman: {{t+|sh|godina|f}}, {{t+|sh|leto|n}}
+*: Cyrillic: {{t|sh|го̏дина|f}}, {{t|sh|ле̏то|n}} {{q|archaic}}
+*: Roman: {{t+|sh|gȍdina|f}}, {{t+|sh|lȅto|n}} {{q|archaic}}
 * Shan: {{t|shn|ပီ}}
 * Sicilian: {{t+|scn|annu|m}}
 * Sinhalese: {{t|si|අවුරුද්‍ද|sc=Sinh}}
 * Skolt Sami: {{t|sms|eeˊǩǩ}}
 * Slovak: {{t+|sk|rok|m}}
-* Slovene: {{t+|sl|leto|n}}
+* Slovene: {{t+|sl|lẹ́to|n}}
 * Somali: {{t+|so|sanad}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|lěto|n}}
+*: Upper Sorbian: {{t+|hsb|lěto|n}}
 * Sotho: {{t+|st|selemo}}
 * Spanish: {{t+|es|año|m}}
 * Sundanese: {{t|su|taun}}, {{t|su|warsih}}
@@ -359,11 +362,9 @@ From {{inh|en|enm|yeer}}, {{m|enm|yere}}, from {{inh|en|ang|ġēr}}, {{m|ang|ġ�
 * Udmurt: {{t|udm|ар}}
 * Ugaritic: {{t|uga|𐎌𐎐𐎚}}
 * Ukrainian: {{t+|uk|рік|m}}
-* Upper Sorbian: {{t+|hsb|lěto|n}}
 * Urdu: {{t|ur|سال|m|tr=sāl}}, {{t|ur|ورش|tr=varṣ}}
 * Uyghur: {{t+|ug|يىل‎}}
-*: UEY: {{t+|ug|يىل}}
-*: USY: {{t|ug|жил}}
+*: Cyrillic: {{t|ug|жил}}
 * Uzbek: {{t+|uz|yil}}
 * Venetian: {{t+|vec|ano}}, {{t+|vec|an}}
 * Veps: {{t|vep|voz'}}
