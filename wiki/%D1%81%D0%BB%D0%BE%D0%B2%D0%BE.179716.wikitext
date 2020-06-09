@@ -4,7 +4,7 @@
 From {{inh|bg|sla-pro|*slȍvo|t=word}}, from {{inh|bg|ine-pro|*ḱléwos|t=fame}}.
 
 ===Pronunciation===
-* {{IPA|bg|/ˈslɔvo/}}
+* {{bg-IPA|сло́во}}
 
 ===Noun===
 {{bg-noun|сло́во|n}}
@@ -29,7 +29,7 @@ From {{inh|bg|sla-pro|*slȍvo|t=word}}, from {{inh|bg|ine-pro|*ḱléwos|t=fame}
 From {{inh|mk|sla-pro|*slȍvo|t=word}}, from {{inh|mk|ine-pro|*ḱléwos|t=fame}}.
 
 ===Pronunciation===
-* {{IPA|mk|/ˈsɫɔvɔ/}}
+* {{mk-IPA}}
 
 ===Noun===
 {{head|mk|noun|g=n|head=сло́во}}
@@ -93,12 +93,13 @@ From {{inh|cu|sla-pro|*slȍvo|t=word}}, from {{inh|cu|ine-pro|*ḱléwos|t=fame}
 ===Etymology===
 {{PIE root|ru|ḱlew}}
 From {{der|ru|sla-pro|*slȍvo|t=word}}, from {{der|ru|ine-pro|*ḱléwos|t=fame}}.
+
 ===Pronunciation===
 * {{ru-IPA|сло́во}}
-* {{audio|ru|Ru-слово.ogg|Audio}}
+* {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
 
 ===Noun===
-{{ru-noun+|c|сло́во}}
+{{ru-noun+|c|сло́во|adj=слове́сный|dim=слове́чко}|dim2=словцо́}}
 
 # [[word]], [[term]]
 #: {{uxi|ru|[[грубый|гру́бое]] '''сло́во'''|harsh '''word'''}}
@@ -226,10 +227,10 @@ From {{inh|uk|sla-pro|*slȍvo|t=word}}, from {{inh|uk|ine-pro|*ḱléwos|t=fame}
 
 ===Pronunciation===
 * {{uk-IPA|сло́во}}
-* {{audio|uk|Uk-слово.ogg|Audio}}
+* {{audio|uk|Uk-{{PAGENAME}}.ogg|Audio}}
 
 ===Noun===
-{{uk-noun|сло́во|n-in|сло́ва|слова́}}
+{{uk-noun|сло́во|n-in|сло́ва|слова́|adj=слове́сний|dim=слове́чко}|dim2=слівце́}}
 
 # a [[word]]
 # a verbal [[expression]], [[utterance]], or [[phrase]]
@@ -238,15 +239,22 @@ From {{inh|uk|sla-pro|*slȍvo|t=word}}, from {{inh|uk|ine-pro|*ḱléwos|t=fame}
 # a literary [[genre]]
 
 ====Declension====
-{{uk-decl-noun|сло́во|слова́|сло́ва|слів|сло́ву|слова́м|сло́во|слова́|сло́вом|слова́ми|сло́ві|слова́х|сло́во|слова́}}
+{{uk-decl-noun
+|сло́во|слова́
+|сло́ва|слів
+|сло́ву|слова́м
+|сло́во|слова́
+|сло́вом|слова́ми
+|сло́ві|слова́х
+|сло́во|слова́}}
 
 ====Synonyms====
-* {{l|uk|глагол}}
+* {{l|uk|глаго́л}}
 * {{l|uk|мо́ва}}
 * {{l|uk|вислів}}, {{l|uk|вираз}}
 * {{l|uk|висловлювання}}, {{l|uk|ду́мка}}, {{l|uk|рішення}}
 * {{l|uk|обіцянка}}
-* {{l|uk|промова}}, {{l|uk|виступ}}
+* {{l|uk|промо́ва}}, {{l|uk|виступ}}
 * {{l|uk|напучення}}
 * {{l|uk|те́рмін}}
 
@@ -258,3 +266,5 @@ From {{inh|uk|sla-pro|*slȍvo|t=word}}, from {{inh|uk|ine-pro|*ḱléwos|t=fame}
 
 ===References===
 * {{R:uk:SUM-11}}
+* {{R:uk:HOROKH}}
+* {{R:uk:Slovnyk}}
