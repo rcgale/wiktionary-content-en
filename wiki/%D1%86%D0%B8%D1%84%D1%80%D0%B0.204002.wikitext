@@ -1,5 +1,8 @@
 ==Macedonian==
 
+===Pronunciation===
+* {{mk-IPA}}
+
 ===Noun===
 {{mk-noun|f}}
 
@@ -17,16 +20,17 @@ From {{bor|ru|la|cifra}}, ultimately from {{bor|ru|ar|صِفْر||zero}}.
 
 ===Pronunciation===
 * {{ru-IPA|ци́фра}}
-* {{audio|ru|Ru-цифра.ogg|Audio}}
+* {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
 
 ===Noun===
-{{ru-noun+|ци́фра}}
+{{ru-noun+|ци́фра|adj=цифрово́й|dim=ци́ферка}}
 
 # [[figure]], [[cipher]], [[digit]]
 # [[figures]], [[numbers]]
 
 ====Declension====
 {{ru-noun-table|ци́фра}}
+{{ru-noun-table|ци́фра|old=1}}
 
 ====Related terms====
 * {{l|ru|оцифрова́ть}}
@@ -70,3 +74,35 @@ From {{etyl|ar|sh}} {{m|ar|صِفْر||empty}} and, subsequently "zero"; {{m|sh|
 }}
 
 [[Category:sh:Numbers]]
+
+----
+
+==Ukrainian==
+
+===Etymology===
+From {{bor|uk|la|cifra}}.
+
+===Pronunciation===
+* {{uk-IPA|ци́фра}}
+* {{audio|uk|Uk-{{PAGENAME}}.ogg|Audio}}
+
+===Noun===
+{{uk-noun|ци́фра|f-in|ци́фри|ци́фри|adj=цифрови́й}}
+
+# [[figure]], [[cipher]], [[digit]]
+# [[figures]], [[numbers]]
+
+====Declension====
+{{uk-decl-noun
+|ци́фра|ци́фри
+|ци́фри|цифр
+|ци́фрі|ци́фрам
+|ци́фру|ци́фри
+|ци́фрою|ци́фрами
+|ци́фрі|ци́фрах
+|ци́фро|ци́фри}}
+
+===References===
+* {{R:uk:SUM-11}}
+* {{R:uk:HOROKH}}
+* {{R:uk:Slovnyk}}
