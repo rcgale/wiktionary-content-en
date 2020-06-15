@@ -7,10 +7,10 @@ From {{inh|ru|sla-pro|*ľudьje}}, from {{der|ru|ine-pro|*h₁lewdʰ-||men, peop
 
 ===Pronunciation===
 * {{ru-IPA|лю́ди}}
-* {{audio|ru|Ru-люди.ogg|Audio}}
+* {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
 
 ===Noun===
-{{ru-noun+|лю́ди|m|gen_pl=люде́й|ins_pl=людьми́|a=an}} {{gloss|{{plural of|ru|челове́к}}}}
+{{ru-noun+|лю́ди|m|gen_pl=люде́й|ins_pl=людьми́|a=an|adj=людско́й}} {{gl|{{plural of|ru|челове́к}}}}
 
 # [[people]], [[humans]]
 #: {{uxi|ru|[[толпа|то́лпы]] '''люде́й'''|crowds '''of people'''}}
@@ -44,11 +44,24 @@ From {{inh|ru|sla-pro|*ľudьje}}, from {{der|ru|ine-pro|*h₁lewdʰ-||men, peop
 
 ==Ukrainian==
 
+===Etymology===
+From {{inh|uk|sla-pro|*ľudьje}}, from {{der|ru|ine-pro|*h₁lewdʰ-||men, people}}.
+
 ===Pronunciation===
 * {{uk-IPA|лю́ди}}
 * {{audio|uk|Uk-{{PAGENAME}}.ogg|Audio}}
 
 ===Noun===
+{{uk-noun|лю́ди|m-in-p|люде́й|adj=людськи́й}} {{gl|{{plural of|uk|люди́на}}}}
+
+# {{lb|uk|plurale tantum}} [[people]], [[humans]]
+
+====Declension====
+{{uk-decl-noun-pl|лю́ди|люде́й|лю́дям|люде́й|людьми́|лю́дях|лю́ди}}
+
+===Noun===
 {{head|uk|noun form|head=лю́ди}}
 
 # {{inflection of|uk|люди́на||nom//voc|p}}
+
+[[Category:uk:People]]
