@@ -2,7 +2,7 @@
 {{wikipedia|dab=crude}}
 
 ===Etymology===
-From {{inh|en|enm|crude}}, borrowed from {{bor|en|la|crūdus||raw, bloody, uncooked, undigested, crude}}, probably from {{der|en|ine-pro|*krewh₂-||raw meat, fresh blood}}. Cognate with {{cog|ang|hrēaw||raw, uncooked}}. More at {{l|en|raw}}.
+From {{inh|en|enm|crude}}, borrowed from {{bor|en|la|crūdus|t=raw, bloody, uncooked, undigested, crude}}, probably from {{der|en|ine-pro|*krewh₂-|t=raw meat, fresh blood}}. Cognate with {{cog|ang|hrēaw|t=raw, uncooked}}. More at {{l|en|raw}}.
 
 ===Pronunciation===
 * {{enPR|kro͞od}}, {{IPA|en|/kɹuːd/}}
@@ -15,47 +15,48 @@ From {{inh|en|enm|crude}}, borrowed from {{bor|en|la|crūdus||raw, bloody, uncoo
 {{en-adj|er}}
 
 # In a [[natural]], [[untreated]] [[state]].
-#: '''''crude''' oil''
+#: {{ux|en|'''crude''' oil}}
+#: {{syn|en|raw}}, {{l|en|unrefined}}, {{l|en|unprocessed}}
 # Characterized by [[simplicity]], especially something not [[carefully]] or [[expertly]] [[made]].
-#: ''a '''crude''' shelter''
+#: {{ux|en|a '''crude''' shelter}}
+#: {{syn|en|primitive}}, {{l|en|rough}}, {{l|en|rude}}, {{l|en|rudimentary}}
 # Lacking [[concealing]] [[elements]].
-#: ''a '''crude''' truth''
+#: {{ux|en|a '''crude''' truth}}
+#: {{syn|en|obvious}}, {{l|en|plain}}, {{l|en|unadorned}}, {{l|en|undisguised}}
 # Lacking [[tact]] or [[taste]].
-#: ''a '''crude''' remark''
+#: {{ux|en|a '''crude''' remark}}
+#: {{syn|en|blunt}}, {{l|en|coarse}}, {{l|en|earthy}}, {{l|en|gross}}, {{l|en|stark}}, {{l|en|uncultivated}}, {{l|en|vulgar}}
 # {{lb|en|archaic}} [[immature|Immature]] or [[unripe]].
+#: {{syn|en|immature|unripe}}
 # {{lb|en|grammar}} Pertaining to the uninflected [[stem]] of a word.
 
 ====Synonyms====
-* {{sense|being in a natural state}} {{l|en|raw}}, {{l|en|unrefined}}, {{l|en|unprocessed}}
-* {{sense|characterized by simplicity}} {{l|en|primitive}}, {{l|en|rough}}, {{l|en|rude}}, {{l|en|rudimentary}}
-* {{sense|lacking concealing elements}} {{l|en|obvious}}, {{l|en|plain}}, {{l|en|unadorned}}, {{l|en|undisguised}}
-* {{sense|lacking tact or taste}} {{l|en|blunt}}, {{l|en|coarse}}, {{l|en|earthy}}, {{l|en|gross}}, {{l|en|stark}}, {{l|en|uncultivated}}, {{l|en|vulgar}}
 * {{sense|statistics: in an unanalyzed form}} {{l|en|raw}}
-* {{sense|archaic: immature or unripe}} ''See'' '''[[immature]]''' ''or'' '''[[unripe]]'''
 * See also [[Thesaurus:raw]]
 
 ====Antonyms====
 * {{sense|being in a natural state}} {{l|en|refined}}, {{l|en|processed}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|crude form}}/[[crudeform]]
-* {{l|en|crude material}}
-{{der-mid}}
-* {{l|en|crude oil}}
-* {{l|en|crudeness}}
-{{der-bottom}}
+{{col4|en
+|[[crude form]]/[[crudeform]]
+|crude material
+|crude oil
+|crudeness
+}}
 
 ====Related terms====
-* {{l|en|crudity}}
-* {{l|en|cruel}}
-* {{l|en|cruelty}}
+{{col3|en
+|crudity
+|cruel
+|cruelty
+}}
 
 ====Translations====
 {{trans-top|being in a natural state}}
 * Bulgarian: {{t+|bg|суро́в}}, {{t+|bg|необрабо́тен}}
 * Catalan: {{t|ca|cru}}
-* Czech: {{t+|cs|surový}}, {{t+|cs|syrový}}
+* Czech: {{t+|cs|surový}} {{t+|cs|syrový}}
 * Dutch: {{t+|nl|ruw}}, {{t+|nl|onbewerkt}}, {{t|nl|ongeraffineerd}}
 * Esperanto: {{t|eo|kruda}}
 * French: {{t+|fr|cru}}
@@ -191,14 +192,17 @@ From {{inh|en|enm|crude}}, borrowed from {{bor|en|la|crūdus||raw, bloody, uncoo
 ===Adjective===
 {{head|it|adjective form}}
 
-# {{feminine plural of|it|crudo}}
+# {{it-adj form of|crudo|f|pl}}
 
 ===Anagrams===
-* {{l|it|curde}}
+* {{anagrams|it|a=cderu|curde}}
 
 ----
 
 ==Latin==
+
+===Pronunciation===
+* {{la-IPA|crūde}}
 
 ===Adjective===
 {{la-adj-form|crūde}}
