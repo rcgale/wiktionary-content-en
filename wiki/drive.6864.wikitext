@@ -672,10 +672,28 @@ From {{der|en|enm|driven}}, from {{der|en|ang|drīfan||to drive, force, move, ch
 ==Danish==
 
 ===Etymology 1===
-From {{der|da|non|drífa}}, from {{der|da|gem-pro|*drībaną}}, from {{der|da|ine-pro|*dʰreybʰ-||to drive, push}}. Compare {{cog|sv|driva}}, {{cog|is|drífa}}, {{cog|en|drive}}, {{cog|nds|drieven}}, {{cog|frr|driwe}}, {{cog|nl|drijven}}, {{cog|de|treiben}}.
+From {{der|da|non|drífa}}, from {{der|da|gem-pro|*drībaną}}, cognate with {{cog|sv|driva}}, {{cog|en|drive}}, {{cog|nl|drijven}}, {{cog|de|treiben}}.
 
 ====Pronunciation====
-* {{IPA|da|/driːvə/|[d̥ʁiːwə]}}
+* {{IPA|da|[ˈd̥ʁiːʋə]|[ˈd̥ʁiːʊ]}}
+
+====Verb====
+{{head|da|verb|imperative|driv|present|driver|past|drev|past participle|drevet|{{g|c}}|dreven|definite and plural|drevne}}
+
+# {{l|en|drive}}
+# [[run]]
+# [[force]]
+# [[power]]
+# [[drift]]
+
+====Inflection====
+{{da-conj|driv||er|drev|h|drevet||||}}
+
+===Etymology 2===
+From {{der|da|non|drífa|g=f}}, derived form the verb.
+
+====Pronunciation====
+* {{IPA|da|[ˈd̥ʁiːʋə]|[ˈd̥ʁiːʊ]}}
 
 ====Noun====
 {{da-noun|n|r}}
@@ -685,30 +703,27 @@ From {{der|da|non|drífa}}, from {{der|da|gem-pro|*drībaną}}, from {{der|da|in
 =====Inflection=====
 {{da-noun-infl|n|r}}
 
-====Verb====
-{{head|da|verb|imperative|driv|present|driver|past|drev|past participle|drevet|&#32;|dreven|or|drevne|present participle|drivende}}
-
-# {{l|en|drive}}
-# [[run]]
-# [[force]]
-# [[power]]
-# [[drift]]
-
-===Etymology 2===
+===Etymology 3===
 From {{der|da|en|drive}}.
 
+====Pronunciation====
+* {{IPA|da|[ˈd̥ɹɑjʋ]}}
+
 ====Noun====
-{{head|da|noun|g=c}}
+{{da-noun|n|-}}
 
 # {{l|en|drive}} {{q|psychology: desire or interest, self-motivation}}
 
+=====Inflection=====
+{{da-decl|n|n=sg}}
+
 ====Noun====
-{{da-noun|t}}
+{{da-noun|t|drives}}
 
 # {{l|en|drive}} {{q|golf: stroke made with a driver}}
 
 =====Inflection=====
-{{da-noun-infl|t|3=drivene}}
+{{da-decl|t|drives|3=drivene|6=drives'}}
 
 [[Category:Danish class 1 strong verbs]]
 
