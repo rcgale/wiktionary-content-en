@@ -94,7 +94,7 @@ Cognate with {{cog|stq|Wiek}}, {{cog|fy|wike}}, {{cog|nl|week}}, {{cog|de|Woche}
 *: Min Nan: {{t+|nan|禮拜}}, {{t|nan|礼拜|tr=lé-pài}}
 *: Wu: {{t|wuu|星期|tr=xin qi}}, {{t|wuu|禮拜}}, {{t|wuu|礼拜|tr=li pa}}
 * Chuvash: {{t|cv|эрне}}
-* Corsican: {{t|co|settimana}}, {{t|co|sittimana}}, {{t|co|simana}}
+* Corsican: {{t|co|settimana|f}}, {{t|co|sittimana|f}}, {{t|co|simana|f}}
 * Crimean Tatar: {{t|crh|afta}}
 * Czech: {{t+|cs|týden|m}}
 * Dalmatian: {{t|dlm|jedma|f}}, {{t|dlm|setemúna|f}}
@@ -121,7 +121,7 @@ Cognate with {{cog|stq|Wiek}}, {{cog|fy|wike}}, {{cog|nl|week}}, {{cog|de|Woche}
 * Haitian Creole: {{t|ht|semèn}}
 * Hausa: {{t|ha|mako}}
 * Hawaiian: {{t|haw|pule}}
-* Hebrew: {{t+|he|שָׁבוּעַ|m|tr=shavúa}}
+* Hebrew: {{t+|he|שבוע|m|tr=shavúa|alt=שבוע \ שָׁבוּעַ}}
 * Hindi: {{t+|hi|हफ़्ता|m}}, {{t+|hi|सप्ताह|m}}
 * Hungarian: {{t+|hu|hét}}
 * Icelandic: {{t+|is|vika|f}}
@@ -152,7 +152,7 @@ Cognate with {{cog|stq|Wiek}}, {{cog|fy|wike}}, {{cog|nl|week}}, {{cog|de|Woche}
 * Lak: {{t|lbe|нужмяр}}
 * Lao: {{t+|lo|ອາທິດ}}
 * Latgalian: {{t|ltg|nedeļa|f}}
-* Latin: {{t+|la|hebdomas|f}}, {{qualifier|Late}} {{t|la|septimāna|f}}
+* Latin: {{t+|la|hebdomas|f}}, {{t|la|septimāna|f}} {{q|Late}} 
 * Latvian: {{t+|lv|nedēļa|f}}
 * Limburgish: {{t+|li|waek}}
 * Lindu: {{t|klw|minggu}}
@@ -181,12 +181,12 @@ Cognate with {{cog|stq|Wiek}}, {{cog|fy|wike}}, {{cog|nl|week}}, {{cog|de|Woche}
 * Neapolitan: {{t|nap|semana|f}}
 * Nepali: {{t|ne|हप्‍ता}}
 * Ngazidja Comorian: {{t|zdj|mfumo|c3|c4}}
-* Norman: {{t|nrf|s'maine|f}} {{qualifier|Jersey}}, {{t|nrf|s'môine|f}} {{qualifier|Guernsey}}
+* Norman: {{t|nrf|s'maine|f}} {{q|Jersey}}, {{t|nrf|s'môine|f}} {{q|Guernsey}}
 * North Frisian: {{t|frr|weg|f}}
 * Northern Sami: {{t|se|vahkku}}
 * Norwegian:
-*: Bokmål: {{t+|nb|uke|c}}
-*: Nynorsk: {{t|nn|veke|f}}
+*: Bokmål: {{t+|nb|uke|m|f}}
+*: Nynorsk: {{t|nn|veke|f}}, {{t|nn|vika|f}} {{q|archaic, [[Høgnorsk]]}}
 * Novial: {{t|nov|semane}}
 * Occitan: {{t+|oc|setmana|f}}
 * Ojibwe: {{t|oj|anami'e-giizhik}}
@@ -194,6 +194,8 @@ Cognate with {{cog|stq|Wiek}}, {{cog|fy|wike}}, {{cog|nl|week}}, {{cog|de|Woche}
 *: Cyrillic: {{t|cu|седмица|f}}
 * Old East Slavic: {{t|orv|тꙑижьдьнь|f}}, {{t|orv|тꙑжьдьнь|m}}
 * Old French: {{t|fro|semeine|f}}
+* Old Norse: {{t|non|vika|f}}
+* Old Saxon: {{t|osx|wika|f}}
 * Oriya: {{t|or|ସପ୍ତାହ}}
 * Ossetian: {{t|os|къуыри}}
 * Papiamentu: {{t|pap|siman}}
@@ -209,7 +211,7 @@ Cognate with {{cog|stq|Wiek}}, {{cog|fy|wike}}, {{cog|nl|week}}, {{cog|de|Woche}
 * Russian: {{t+|ru|неде́ля|f}}
 * Rusyn: {{t|rue|ты́ждень|m}}
 * Samoan: {{t|sm|vaiaso}}
-* Sardinian: {{t|sc|chída|f}}, {{t|sc|chida}}, {{t|sc|chita}}, {{t|sc|cida}}, {{t|sc|cira}}
+* Sardinian: {{t|sc|chída|f}}, {{t|sc|chida|f}}, {{t|sc|chita|f}}, {{t|sc|cida|f}}, {{t|sc|cira|f}}
 * Scottish Gaelic: {{t|gd|seachdain|f}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|седмица|f}}, {{t|sh|недеља|f}}, {{t|sh|тједан|m}}
