@@ -8,12 +8,18 @@ From {{bor|be|ru|аку́ла}}, see below.
 {{rfap|be}}
 
 ===Noun===
-{{be-noun|аку́ла|f-an}}
+{{be-noun|аку́ла|f-an|аку́лы|аку́лы}}
 
 # [[shark]]
 
 ====Declension====
-{{rfinfl|be|noun}}
+{{be-decl-noun
+|аку́ла|аку́лы
+|аку́лы|аку́л
+|аку́ле|аку́лам
+|аку́лу|аку́л
+|аку́лай, аку́лаю|аку́ламі
+|аку́ле|аку́лах}}
 
 ===References===
 * {{R:be:slounik.org}}
@@ -26,7 +32,7 @@ From {{bor|be|ru|аку́ла}}, see below.
 From {{bor|bg|ru|аку́ла}}, see below.
 
 ===Pronunciation===
-* {{IPA|bg|/əˈkulə/}}
+* {{bg-IPA|аку́ла}}
 
 ===Noun===
 {{bg-noun|аку́ла|f}}
@@ -80,21 +86,37 @@ Compare dialectal {{cog|no|haakall}}, {{cog|sms|akkli}}, {{cog|sjd|а̄һклэ�
 
 ===Pronunciation===
 * {{ru-IPA|аку́ла}}
-* {{audio|ru|Ru-акула.ogg|Audio}}
+* {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
 
 ===Noun===
-{{ru-noun+|аку́ла|a=an}}
+{{ru-noun+|аку́ла|a=an|adj=аку́лий|dim=аку́лка}}
 
 # [[shark]]
 
 ====Declension====
 {{ru-noun-table|аку́ла|a=an}}
+{{ru-noun-table|аку́ла|a=an|old=1}}
 
 ====Descendants====
+* {{desc|az|akula|bor=1}}
+* {{desc|ba|акула|bor=1}}
+* {{desc|be|аку́ла|bor=1}}
+* {{desc|bg|аку́ла|bor=1}}
 * {{desc|kap|tr=akula|bor=1}}
+* {{desc|kk|акула|bor=1}}
+* {{desc|ky|акула|bor=1}}
+* {{desc|mk|ајкула|bor=1}}
+** {{desc|sh|-}}
+**: {{desc|sh|а̏јкула|sclb=1|bor=1}}
+**: {{desc|sh|ȁjkula|sclb=1|bor=1}}
+* {{desc|tt|акула|bor=1}}
+* {{desc|tk|akula|bor=1}}
+* {{desc|uk|аку́ла|bor=1}}
+* {{desc|ug|ئاكۇلا‎|bor=1}}
+* {{desc|uz|akula|bor=1}}
 
 ====Related terms====
-* {{l|ru|аку́лий}}
+* {{l|ru|акулёнок}}
 
 {{topics|ru|Fish}}
 
@@ -106,8 +128,8 @@ Compare dialectal {{cog|no|haakall}}, {{cog|sms|akkli}}, {{cog|sjd|а̄һклэ�
 From {{bor|uk|ru|аку́ла}}, see above.
 
 ===Pronunciation===
-* {{audio|uk|Uk-акула.ogg|Audio}}
 * {{uk-IPA|аку́ла}}
+* {{audio|uk|Uk-{{PAGENAME}}.ogg|Audio}}
 
 ===Noun===
 {{uk-noun|аку́ла<anml>}}
@@ -119,5 +141,6 @@ From {{bor|uk|ru|аку́ла}}, see above.
 
 ===References===
 * {{R:uk:SUM-11}}
+* {{R:uk:Horokh}}
 
 {{topics|uk|Fish|Sharks}}
