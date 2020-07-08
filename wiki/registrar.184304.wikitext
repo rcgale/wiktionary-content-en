@@ -57,23 +57,39 @@ From {{etyl|ML.|en}} {{m|la|registrārius}}, from {{m|la|registrum||register}} +
 
 ==Catalan==
 
+===Etymology===
+From {{af|ca|registre|-ar}}. Attested from 1286.<ref>{{R:GDLC}}</ref>
+
 ===Pronunciation===
+* {{ca-IPA}}
 * {{rhymes|ca|a(ɾ)}}
 
 ===Verb===
 {{ca-verb}}
 
 # to [[register]], to [[record]]
+#: {{syn|ca|enregistrar}}
 
 ====Conjugation====
 {{ca-conj-ar|registr}}
+
+====Derived terms====
+* {{l|ca|registració}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{R:IEC2}}
+* {{R:DNV}}
+* {{R:DCVB}}
 
 ----
 
 ==Portuguese==
 
 ===Etymology===
-From {{m|pt|registro}}, from {{etyl|ML.|pt}} {{m|la|regestum}}, singular form of {{etyl|LL.|pt}} {{m|la|regesta}}, neuter plural of {{etyl|la|pt}} {{m|la|regestus}}, past participle of {{m|la|regerere||to record}}.
+From {{af|pt|registro|-ar}}.
 
 ===Verb===
 {{pt-verb|registr|ar}}
@@ -91,7 +107,7 @@ From {{m|pt|registro}}, from {{etyl|ML.|pt}} {{m|la|regestum}}, singular form of
 ==Spanish==
 
 ===Etymology===
-From {{m|es|registro}}.
+From {{af|es|registro|-ar}}.
 
 ===Pronunciation===
 * {{es-IPA}}
@@ -107,11 +123,11 @@ From {{m|es|registro}}.
 {{es-conj-ar|registr|combined=1}}
 
 ====Derived terms====
-* {{l|es|marca registrada}}
-
-====Related terms====
-{{rel3
-|es|registrador
-|registro
+{{der3|es
+|marca registrada
+|registrador
 |registración
 }}
+
+===Further reading===
+* {{R:DRAE}}
