@@ -12,7 +12,7 @@
 ===Noun===
 {{en-noun}}
 
-# One who, or that which, [[accumulate]]s.
+# {{lb|en|literal}} One who, or that which, [[accumulate]]s.
 #: {{syn|en|collector}}
 #: {{ux|en|He is a great '''accumulator''' of bad jokes.}}
 # {{lb|en|British}} A [[wet cell|wet-cell]] storage battery.
@@ -23,7 +23,9 @@
 # {{lb|en|manufacturing}} A vessel containing pressurized hot water ready for release as steam.
 # {{lb|en|engineering|hydraulics}} A container which stores hydraulic power for release, in the form of a pressurized fluid (often suspended within a larger tank of fluid under pressure).
 #: {{syn|en|shock absorber}}
-# {{lb|en|computer science}} A [[register]] in a calculator or computer used for holding the intermediate results of a [[computation]] or [[data]] [[transfer]].
+# {{lb|en|programming}} A [[register]] or [[variable]] used for holding the intermediate results of a [[computation]] or [[data]] [[transfer]].
+#* '''2011''', Oliver Sturm, ''Functional Programming in C#'', John Wiley & Sons ({{ISBN|9780470971109}}), page {{gbooks|gE9BukqrsrMC|122}}:
+#*: The function  signature has changed to include the additional parameter '''accumulator'''. This  parameter, in a way, takes on the job of the return value.
 # {{lb|en|finance}} A [[derivative]] contract under which the seller commits to sell shares of an underlying security at a certain [[strike price]], which the buyer is obligated to buy.
 #: {{syn|en|share forward accumulator}}
 # {{lb|en|UK|education|historical}} One who takes two higher degrees simultaneously, to reduce their length of study.
