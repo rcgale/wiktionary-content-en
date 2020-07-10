@@ -8,13 +8,19 @@ From {{inh|be|sla-pro|*bogъ}}.
 * {{be-IPA}}
 
 ===Noun===
-{{be-noun|бог|m-an|бо́га|багі́|f=багі́ня}}
+{{be-noun|бог|m-an|бо́га|багі́|f=багі́ня|adj=бо́жы|adj2=бо́скі|dim=бажо́к}}
 
 # [[god]]
 #: {{uxi|be|'''бо́жа''' мой!|oh my god!}}
 
 ====Declension====
-{{be-decl-noun|бо́г|багі́|бо́га|баго́ў|бо́гу|бага́м|бо́г|баго́ў|бо́гам|бага́мі|бо́дзе|бага́х}}
+{{be-decl-noun
+|бо́г|багі́
+|бо́га|баго́ў
+|бо́гу|бага́м
+|бо́га|баго́ў
+|бо́гам|бага́мі
+|бо́дзе|бага́х}}
 
 ===References===
 * {{R:be:slounik.org}}
@@ -67,7 +73,7 @@ From {{inh|mk|sla-pro|*bogъ}}.
 ==Russian==
 
 ===Alternative forms===
-* {{l|ru|богъ|tr=box}} {{ru-PRO}}
+* {{alter|ru|богъ|tr=box||ru-PRO}}
 
 ===Etymology===
 From {{inh|ru|sla-pro|*bogъ}}.
@@ -80,7 +86,7 @@ From {{inh|ru|sla-pro|*bogъ}}.
 In the nominative singular, the word is usually pronounced {{IPAchar|/box/}} (as if spelled {{lang|ru|бох}}) due to Church Slavonic influence. The regular pronunciation {{IPAchar|/bok/}} is used only rarely (mostly for pagan deities) and is not recommended. In all other case forms, the regular {{IPAchar|/ɡ/}} is more common, but older pronunciations used {{IPAchar|/ɣ/}}.
 
 ===Noun===
-{{ru-noun+|e|nom_sg=бог//box|voc=бо́же|a=an|f=боги́ня|adj=боже́ственный|adj2=бо́жий|adj3=бо́жеский|dim=божо́к}}
+{{ru-noun+|e|nom_sg=бог//box|voc=бо́же|a=an|f=боги́ня|adj=бо́жий|adj2=бо́жий|adj3=бо́жеский|dim=божо́к}}
 
 # [[God]]
 # [[god]], [[idol]]
@@ -161,10 +167,10 @@ From {{inh|uk|sla-pro|*bogъ}}.
 
 ===Pronunciation===
 * {{uk-IPA}}
-* {{audio|uk|Uk-Бог.ogg|Audio}}
+* {{audio|uk|Uk-{{PAGENAME}}.ogg|Audio}}
 
 ===Noun===
-{{uk-noun|бог<c.pr.locovi:u:i.voce>|f=боги́ня}}
+{{uk-noun|бог<c.pr.locovi:u:i.voce>|f=боги́ня|adj=бо́жий|adj2=божи́стий|adj3=бо́жеський|dim=божо́к}}
 
 # [[god]]
 
