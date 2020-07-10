@@ -7,13 +7,19 @@ Inherited from {{inh|be|orv|азъбукꙑ}}; borrowed from {{der|be|cu|азъ�
 * {{be-IPA|а́збука}}
 
 ===Noun===
-{{be-noun|а́збука|f-in|азбукі|азбукі}}
+{{be-noun|а́збука|f-in|а́збукі|а́збукі}}
 
 # [[alphabet]]
 #: {{syn|be|алфаві́т}}
 
 ====Declension====
-{{be-decl-noun|а́збука|азбукі|азбукі|азбук|азбуцы|азбукам|азбуку|азбукі|азбукай|азбукамі|азбуцы|азбуках}}
+{{be-decl-noun
+|а́збука|а́збукі
+|а́збукі|а́збук
+|а́збуцы|а́збукам
+|а́збуку|а́збукі
+|а́збукай|а́збукамі
+|а́збуцы|а́збуках}}
 
 ===References===
 * {{R:be:slounik.org}}
@@ -74,7 +80,7 @@ Inherited from {{inh|ru|orv|азъбукꙑ}}; borrowed from {{der|ru|cu|азъ�
 * {{audio|ru|Ru-а́збука.ogg|Audio}}
 
 ===Noun===
-{{ru-noun+|а́збука}}
+{{ru-noun+|а́збука|adj=а́збучный|dim=а́збучка}}
 
 # [[alphabet]]
 #: {{uxi|ru|[[а́збука Мо́рзе]]|Morse code|tr=ázbuka Mórzɛ}}
@@ -132,7 +138,7 @@ Attested 1627, compare {{m|uk||язъбука}} (17–18th century).
 
 ===Pronunciation===
 * {{uk-IPA|а́збука}}
-* {{audio|uk|Uk-азбука.ogg|Audio}}
+* {{audio|uk|Uk-{{PAGENAME}}.ogg|Audio}}
 
 ===Noun===
 {{uk-noun|а́збука<>}}
