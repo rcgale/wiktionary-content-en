@@ -8,12 +8,18 @@ From {{inh|be|sla-pro|*kridlo}}.
 {{rfap|be}}
 
 ===Noun===
-{{be-noun|крыло́|n-in}}
+{{be-noun|крыло́|n-in|крыла́|кры́лы|dim=кры́лка|dim2=кры́льца|dim3=кры́лца}}
 
 # [[wing]]
 
 ====Declension====
-{{rfinfl|be|noun}}
+{{be-decl-noun
+|крыло́|кры́лы
+|крыла́|кры́лаў
+|крылу́|кры́лам
+|крыло́|кры́лы
+|крыло́м|кры́ламі
+|крыле́|кры́лах}}
 
 ===References===
 * {{R:be:slounik.org}}
@@ -29,10 +35,10 @@ Inherited from {{inh|ru|sla-pro|*kridlo}}. ''Ы'' probably appeared by the influ
 
 ====Pronunciation====
 * {{ru-IPA|крыло́}}
-* {{audio|ru|Ru-крыло.ogg|Audio}}
+* {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
 
 ====Noun====
-{{ru-noun+|d|крыло́|-ья|or|b|pltail=*|notes=* Poetic.}}
+{{ru-noun+|d|крыло́|-ья|or|b|pltail=*|notes=* Poetic.|dim=кры́лышко}}
 
 # [[wing]]
 ## {{lb|ru|aviation|engineering}} a pair of [[wing]]s {{q|viewed as a single aerodynamic entity}}
