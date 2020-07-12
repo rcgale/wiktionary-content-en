@@ -876,19 +876,10 @@ Cognate with {{cog|sco|stand||to stand}}, {{cog|stq|stounde||to stand}}, {{cog|f
 ==Danish==
 
 ===Etymology===
-From the verb {{m|da|stande}}
+From the verb {{m|da|stande}}, influenced by {{cog|gml|stant}}, {{cog|de|Stand}} and (in the sense "booth") {{cog|en|stand}}.
 
 ===Pronunciation===
-* {{IPA|da|/stand/|[sd̥anˀ]}}
-
-===Noun===
-{{da-noun|en|e}}
-
-# {{l|en|stand}} {{gloss|device to hold something upright or aloft}}
-# {{l|en|stand}} {{gloss|small building or booth}}
-
-====Inflection====
-{{da-noun-infl|en|e}}
+* {{IPA|da|[ˈsd̥anˀ]}}
 
 ===Noun===
 {{da-noun|en|stænder}}
@@ -899,18 +890,21 @@ From the verb {{m|da|stande}}
 # [[estate]]
 
 ====Inflection====
-{{da-noun-infl|en|stænder|stænderne|||stænders|stændernes}}
+{{da-decl|en|stænder|stænderne|||stænders|stændernes}}
 
 ===Noun===
-{{head|da|noun|g=c}}
+{{da-noun|en|e}}
 
+# {{l|en|stand}} {{q|device to hold something upright or aloft}}
+# {{l|en|stand}} {{q|small building or booth}}
 # {{lb|da|uncountable}} [[condition]], [[repair]]
+
+====Inflection====
+{{da-decl|en|e}}
 
 ====Related terms====
 * {{l|da|godt i stand}}
-* {{l|da|gøre i stand}}
-* {{l|da|være i stand til}}
-* {{l|da|i stand til alt}}
+* {{l|da|i stand}}
 
 ===References===
 * {{R:Den Danske Ordbog}}
