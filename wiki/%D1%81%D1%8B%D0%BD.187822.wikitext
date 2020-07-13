@@ -21,13 +21,20 @@
 From {{inh|be|sla-pro|*synъ}}, from {{inh|be|ine-bsl-pro|*sū́ˀnus}}, from {{inh|be|ine-pro|*suHnús}}.
 
 ===Noun===
-{{be-noun|сын|m-an|сы́на|сыны́}}
+{{be-noun|сын|m-an|сы́на|сыны́|dim=сыно́к}}
 
 # [[son]]
 
 ====Declension====
-{{be-decl-noun|сын|сыны́|сы́на|сыно́ў|сы́ну|сына́м,сыно́м*|сы́на|сыно́ў|сы́нам|сына́мі|сы́не|сына́х,сыно́х*}}
-* Tarashkevitsa
+{{be-decl-noun
+|сын|сыны́
+|сы́на|сыно́ў
+|сы́ну|сына́м,сыно́м*
+|сы́на|сыно́ў
+|сы́нам|сына́мі
+|сы́не|сына́х,сыно́х*
+|сы́не
+|footnote=* Taraškievica}}
 
 {{topics|be|Male family members}}
 
@@ -66,15 +73,18 @@ From {{inh|be|sla-pro|*synъ}}, from {{inh|be|ine-bsl-pro|*sū́ˀnus}}, from {{
 ----
 ==Russian==
 
+===Alternative forms===
+* {{alter|ru|сынъ||ru-PRO}}
+
 ===Etymology===
 From {{inh|ru|sla-pro|*synъ}}, from {{inh|ru|ine-bsl-pro|*sū́ˀnus}}, from {{inh|ru|ine-pro|*suHnús}}.
 
 ===Pronunciation===
 * {{ru-IPA}}
-* {{audio|ru|Ru-сын.ogg|Audio}}
+* {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
 
 ===Noun===
-{{ru-noun+|c||-ья(2)|сынов|or|c|voc=сы́не|pltail=*|notes=* Epic verse.|a=an|adj=сыно́вний|dim=сыни́шка|dim2=сыно́к|dim3=сыно́чек}}
+{{ru-noun+|c||-ья(2)|сынов|or|c|voc=сы́не|pltail=*|notes=* Epic verse.|a=an|adj=сыно́вний|adj2=сыно́вий|dim=сыни́шка|dim2=сыно́к|dim3=сыно́чек|dim4=сыну́ля}}
 
 # [[son]]
 # [[child]]
@@ -85,12 +95,8 @@ From {{inh|ru|sla-pro|*synъ}}, from {{inh|ru|ine-bsl-pro|*sū́ˀnus}}, from {{
 ====Declension====
 {{ru-noun-table|c||-ья(2)|сынов|or|c|voc=сы́не|pltail=*|notes=* Epic verse.|a=an}}
 
-====Derived terms====
-* (''Diminutive forms'') , {{l|ru|сыну́ля}}
-
 ====Related terms====
 * {{l|ru|сы́нов}}
-* {{l|ru|сыно́вий}}
 
 {{topics|ru|Male family members}}
 
