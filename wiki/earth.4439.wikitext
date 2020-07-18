@@ -142,7 +142,7 @@ Probably unrelated, and of unknown etymology, is {{noncog|xcl|երկիր||earth}
 * Istriot: {{t-simple|ist|langname=Istriot|tiera|f}}
 * Italian: {{t-simple|interwiki=1|it|langname=Italian|terra|g=f}}
 * Japanese: {{t+|ja|地|tr=ち, chi}}, {{t+|ja|土|tr=つち, tsuchi}}, {{t+|ja|土壌|tr=どじょう, dojō}}
-* K'iche': {{t|quc|ulew}}
+* K'iche': {{t-simple|quc|langname=K'iche'|ulew}}
 * Kazakh: {{t+|kk|топырақ}}
 * Khanty:
 *: Kazym: {{t|kca|мўв}}
@@ -152,16 +152,16 @@ Probably unrelated, and of unknown etymology, is {{noncog|xcl|երկիր||earth}
 * Kurdish:
 *: Sorani: {{t+|ku|خۆڵ}}
 * Kyrgyz: {{t+|ky|топурак}}
-* Ladin: {{t|lld|tera|f}}, {{t|lld|tiera|f}}
+* Ladin: {{t-simple|lld|langname=Ladin|tera|g=f}}, {{t-simple|lld|langname=Ladin|tiera|g=f}}
 * Lao: {{t+|lo|ດິນ}}
-* Latin: {{t+|la|terra|f}}, {{t+|la|humus|f}}
-* Latvian: {{t+|lv|zeme|f}}, {{qualifier|soil}} {{t|lv|augsne|f}}
-* Lithuanian: {{t+|lt|žemė|f}}, {{qualifier|soil}} {{t|lt|dirva|f}}
+* Latin: {{t-simple|interwiki=1|la|langname=Latin|terra|g=f}}, {{t-simple|interwiki=1|la|langname=Latin|humus|g=f}}
+* Latvian: {{t-simple|interwiki=1|lv|langname=Latvian|zeme|g=f}}, {{qualifier|soil}} {{t-simple|lv|langname=Latvian|augsne|g=f}}
+* Lithuanian: {{t-simple|interwiki=1|lt|langname=Lithuanian|žemė|g=f}}, {{qualifier|soil}} {{t-simple|lt|langname=Lithuanian|dirva|g=f}}
 * Low German:
-*: German Low German: {{t|nds-de|Eerd}}, {{t+|nds-de|Eer}}
+*: German Low German: {{t-simple|nds-de|langname=German Low German|Eerd}}, {{t-simple|interwiki=1|nds-de|langname=German Low German|Eer}}
 * Lü: {{t|khb|ᦡᦲᧃ}}
 * Macedonian: {{t|mk|земја|f}}, {{t|mk|почва|f}}
-* Malay: {{t+|ms|bumi}}
+* Malay: {{t-simple|interwiki=1|ms|langname=Malay|bumi}}
 * Malayalam: {{t+|ml|മണ്ണ്}}
 {{trans-mid}}
 * Mansi: {{t|mns|ма̄}}
@@ -263,13 +263,13 @@ Probably unrelated, and of unknown etymology, is {{noncog|xcl|երկիր||earth}
 * Italian: {{t-simple|interwiki=1|it|langname=Italian|terra|g=f}}
 * Japanese: {{t+|ja|土|tr=つち, tsuchi|sc=Jpan}}
 * Korean: {{t+|ko|흙}}
-* Latin: {{t+|la|terra|f}}
+* Latin: {{t-simple|interwiki=1|la|langname=Latin|terra|g=f}}
 {{trans-mid}}
-* Latvian: {{t+|lv|zeme|f}}
-* Lithuanian: {{t+|lt|žemė|f}}
+* Latvian: {{t-simple|interwiki=1|lv|langname=Latvian|zeme|g=f}}
+* Lithuanian: {{t-simple|interwiki=1|lt|langname=Lithuanian|žemė|g=f}}
 * Luxembourgish: {{t+|lb|Äerd|f}}
-* Malay: {{t|ms|tanah}}
-* Middle High German: {{t|gmh|ërde}}
+* Malay: {{t-simple|ms|langname=Malay|tanah}}
+* Middle High German: {{t-simple|gmh|langname=Middle High German|ërde}}
 * Navajo: {{t|nv|niʼ}}
 * Norman: {{t|nrf|tèrre|f}}
 * Norwegian: {{t+|no|jord|m}}
@@ -350,13 +350,13 @@ Probably unrelated, and of unknown etymology, is {{noncog|xcl|երկիր||earth}
 *: Sorani: {{t+|ku|خاک}}, {{t+|ku|زەمین}}, {{t+|ku|زەوی}}
 * Kwak'wala: {{t-simple|kwk|a̱wi'nak̕wa̱s}}
 * Kyrgyz: {{t+|ky|жер}}
-* Ladin: {{t|lld|tera}}
-* Latin: {{t+|la|terra|f}}, {{t+|la|solum|n}}
-* Latvian: {{t+|lv|zeme|f}}
+* Ladin: {{t-simple|lld|langname=Ladin|tera}}
+* Latin: {{t-simple|interwiki=1|la|langname=Latin|terra|g=f}}, {{t-simple|interwiki=1|la|langname=Latin|solum|g=n}}
+* Latvian: {{t-simple|interwiki=1|lv|langname=Latvian|zeme|g=f}}
 {{trans-mid}}
-* Lithuanian: {{t+|lt|žẽmė|f}}
-* Maasai: {{t|mas|enkop|f}}
-* Malay: {{t|ms|tanah}}
+* Lithuanian: {{t-simple|interwiki=1|lt|langname=Lithuanian|žẽmė|g=f}}
+* Maasai: {{t-simple|mas|langname=Maasai|enkop|g=f}}
+* Malay: {{t-simple|ms|langname=Malay|tanah}}
 * Manchu: {{t|mnc|ᠨᠠ}}
 * Mongolian: {{t+|mn|газар}}
 *: Classical Mongolian: {{t|cmg|ᠭᠠᠵᠠᠷ}}
@@ -433,8 +433,8 @@ Probably unrelated, and of unknown etymology, is {{noncog|xcl|երկիր||earth}
 * Italian: {{t-simple|interwiki=1|it|langname=Italian|terra|g=f}}, {{t-simple|interwiki=1|it|langname=Italian|massa|g=f}}
 * Japanese: {{t|ja|接地|tr=せっち, setchi}}, {{t+|ja|アース|tr=āsu}}, {{t|ja|グランド|tr=gurando}}, {{t|ja|グラウンド|tr=guraundo}}, {{t|ja|地線|tr=ちせん, chisen}}
 * Korean: {{t|ko|어어드}}, {{t+|ko|접지선}}
-* Latvian: {{t|lv|iezemējums|m}}
-* Lithuanian: {{t|lt|įžeminimas|m}}
+* Latvian: {{t-simple|lv|langname=Latvian|iezemējums|g=m}}
+* Lithuanian: {{t-simple|lt|langname=Lithuanian|įžeminimas|g=m}}
 * Navajo: {{t|nv|niʼ}}
 * Norman: {{t|nrf|tèrre|f}}
 * Persian: {{t+|fa|زمین|tr=zamin}}, {{t|fa|اِرت|tr=ert}}
@@ -479,7 +479,7 @@ Probably unrelated, and of unknown etymology, is {{noncog|xcl|երկիր||earth}
 * Hindi: {{t+|hi|दुनिया|f}}, {{t+|hi|जहान|m}}, {{t+|hi|संसार|m}}
 {{trans-mid}}
 * Ido: {{t-simple|interwiki=1|io|langname=Ido|tero}}
-* Latin: {{t|la|mundus|m}}, {{t+|la|saeculum|n}}
+* Latin: {{t-simple|la|langname=Latin|mundus|g=m}}, {{t-simple|interwiki=1|la|langname=Latin|saeculum|g=n}}
 * Ngazidja Comorian: {{t|zdj|dunia|c9}}
 * Persian: {{t+|fa|گیتی|tr=giti}}, {{t+|fa|جهان|tr=jahân}}, {{qualifier|religious}} {{t+|fa|دنیا|tr=donyâ}}, {{qualifier|religious}} {{t+|fa|مادّه|tr=mâdde}}, {{qualifier|much-literally}} {{t|fa|گیهان|tr=geyhân}}
 * Piedmontese: {{t|pms|mundo|m}}
@@ -515,10 +515,10 @@ Probably unrelated, and of unknown etymology, is {{noncog|xcl|երկիր||earth}
 * Italian: {{t-simple|interwiki=1|it|langname=Italian|terra|g=f}}
 * Japanese: {{t+|ja|地|tr=ち, chi}}
 * Korean: {{t+|ko|흙}}
-* Latin: {{t+|la|terra|f}}
+* Latin: {{t-simple|interwiki=1|la|langname=Latin|terra|g=f}}
 {{trans-mid}}
-* Latvian: {{t+|lv|zeme|f}}
-* Lithuanian: {{t+|lt|žemė|f}}
+* Latvian: {{t-simple|interwiki=1|lv|langname=Latvian|zeme|g=f}}
+* Lithuanian: {{t-simple|interwiki=1|lt|langname=Lithuanian|žemė|g=f}}
 * Luxembourgish: {{t+|lb|Äerd|f}}
 * Malayalam: {{t+|ml|ഭൂമി}}
 * Norman: {{t|nrf|tèrre|f}}
@@ -568,9 +568,9 @@ Probably unrelated, and of unknown etymology, is {{noncog|xcl|երկիր||earth}
 * Italian: {{t-simple|interwiki=1|it|langname=Italian|terra|g=f}}
 * Japanese: {{t+|ja|土|tr=つち, tsuchi}}
 * Korean: {{t+|ko|흙}}
-* Latvian: {{t+|lv|zeme|f}}
+* Latvian: {{t-simple|interwiki=1|lv|langname=Latvian|zeme|g=f}}
 {{trans-mid}}
-* Lithuanian: {{t+|lt|žemė|f}}
+* Lithuanian: {{t-simple|interwiki=1|lt|langname=Lithuanian|žemė|g=f}}
 * Malayalam: {{t+|ml|ഭൂമി}}
 * Norwegian: {{t+|no|jord|m}}
 * Old English: {{t|ang|hrūse|f}}
@@ -670,11 +670,11 @@ Probably unrelated, and of unknown etymology, is {{noncog|xcl|երկիր||earth}
 * German: {{t+|de|erden}}
 * Greek: {{t+|el|γειώνω}}
 * Irish: {{t|ga|talmhaigh}}
-* Italian: {{t-simple|it|langname=Italian|mettere a terra}}, {{t-simple-simple|it|langname=Italian|collegare a terra}}
+* Italian: {{t-simple|it|langname=Italian|mettere a terra}}, {{t-simple|it|langname=Italian|collegare a terra}}
 * Japanese: {{t|ja|接地する|tr=せっちする, setchisuru}}, {{t|ja|アースする|tr=āsusuru}}, {{t|ja|グランドする|tr=gurandosuru}}
 {{trans-mid}}
-* Latvian: {{t|lv|iezemēt}}
-* Lithuanian: {{t|lt|įžeminti}}
+* Latvian: {{t-simple|lv|langname=Latvian|iezemēt}}
+* Lithuanian: {{t-simple|lt|langname=Lithuanian|įžeminti}}
 * Norwegian:
 *: Bokmål: {{t+|nb|jorde}}
 * Persian: {{t|fa|زمین کردن|tr=zamin kardan}}, {{qualifier|common}} {{t|fa|ارت کردن|tr=ert kardan}}
