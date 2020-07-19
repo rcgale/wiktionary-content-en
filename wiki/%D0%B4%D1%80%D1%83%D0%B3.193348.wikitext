@@ -3,20 +3,24 @@
 ===Etymology===
 From {{inh|be|sla-pro|*drugъ}}, from {{inh|be|ine-bsl-pro|*draugás}}, from {{der|be|ine-pro|*dʰrewgʰ-}}.
 
+===Pronunciation===
+* {{be-IPA}}
+
 ===Noun===
-{{be-noun|друг|m-an}}
+{{be-noun|друг|m-an|дру́га|друзья́}}
 
 # [[friend]]
+#: {{syn|be|ся́бар|пры́яцель}}
 
 ====Declension====
-{{rfinfl|be|noun}}
-
-====Usage notes====
-This word has a vocative form: {{m|be|дру́жа}}.
-
-====Synonyms====
-* {{l|be|пры́яцель}}
-* {{l|be|ся́бар}}
+{{be-decl-noun
+|друг|друзья́
+|дру́га|друзе́й
+|дру́гу|друзья́м
+|дру́га|друзе́й
+|дру́гам|друзья́мі
+|дру́гу|друзья́х
+|дру́жа}}
 
 ----
 
@@ -104,7 +108,7 @@ This word has a vocative form: {{m|be|дру́жа}}.
 From {{inh|ru|sla-pro|*drugъ}}, from {{inh|ru|ine-bsl-pro|*draugás}}, from {{der|ru|ine-pro|*dʰrewgʰ-}}.
 
 ====Noun====
-{{ru-noun+|c||-ья(2)|друз|voc=дру́же|a=an|f=подру́га}}
+{{ru-noun+|c||-ья(2)|друз|voc=дру́же|a=an|f=подру́га|dim=дружо́к}}
 
 # close [[friend]]
 #: {{uxi|ru|[[я|Я]] [[хотеть|хочу́]] [[име́ть]] '''друзе́й'''.|I want to have friends.}}
