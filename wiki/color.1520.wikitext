@@ -132,8 +132,8 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 }}
 
 ====Derived terms====
-{{der4
-|en|anticolor
+{{der4|en
+|anticolor
 |bicolor
 |bodycolor
 |colored
@@ -260,7 +260,7 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 *: Wu: {{t|wuu|色|tr=seq}}, {{t|wuu|顏色}}, {{t|wuu|颜色|tr=nge seq}}
 * Chukchi: {{t|ckt|пэран|tr=pėran}}
 * Chuvash: {{t|cv|тӗс|sc=Cyrl}}
-* Coptic: {{qualifier|Bohairic}} {{t|cop|ⲁⲟⲩⲁⲛ|m}}, {{qualifier|Sahidic}} {{t|cop|ⲁⲩⲁⲛ|m}}
+* Coptic: {{t|cop|ⲁⲟⲩⲁⲛ|m}} {{q|Bohairic}}, {{t|cop|ⲁⲩⲁⲛ|m}} {{q|Sahidic}} 
 * Cornish: {{t-simple|kw|langname=Cornish|liw}}
 * Crimean Tatar: {{t-simple|crh|langname=Crimean Tatar|renk}}, {{t-simple|crh|langname=Crimean Tatar|tüs}}
 * Czech: {{t-simple|interwiki=1|cs|langname=Czech|barva|g=f}}
@@ -334,8 +334,10 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Neapolitan: {{t|nap|culore|m}}
 * Nepali: {{t|ne|रङ्ग}}
 * Nogai: {{t|nog|туьс}}
-* Norman: {{t|nrf|couleu|m}} {{qualifier|Jersey}}, {{t|nrf|couleur|m}} {{qualifier|Guernsey}}, {{t|nrf|couoleu|m}} {{qualifier|continental Normandy}}
-* Norwegian: {{t+|no|farge|m}}
+* Norman: {{t|nrf|couleu|m}} {{q|Jersey}}, {{t|nrf|couleur|m}} {{q|Guernsey}}, {{t|nrf|couoleu|m}} {{q|continental Normandy}}
+* Norwegian: 
+*: Bokmål: {{t+|nb|farge|m}}
+*: Nynorsk: {{t|nn|farge|m|f}}
 * Occitan: {{t+|oc|color|f}}
 * Old English: {{t|ang|blēo|n}}, {{t|ang|hīw|n}}, {{t|ang|dēah|f}}
 * Old Norse: {{t|non|litr|m}}
@@ -441,7 +443,9 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Luxembourgish: {{t-simple|interwiki=1|lb|langname=Luxembourgish|Faarf|f}}, {{t-simple|lb|langname=Luxembourgish|Fuarf|f}}
 * Malay: {{t+|ms|warna}}, {{t+|ms|rona}}
 * Malayalam: {{t+|ml|നിറം}}, {{t|ml|വര്‍ണ്ണം}}
-* Norwegian: {{t+|no|farge|m}}
+* Norwegian: 
+*: Bokmål: {{t+|nb|farge|m}}
+*: Nynorsk: {{t|nn|farge|m|f}}
 * Old English: {{t|ang|blēo|n}}
 * Old Prussian: {{t|prg|bārwi}}
 * Persian: {{t+|fa|رنگ|tr=rang}}
@@ -476,7 +480,9 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Icelandic: {{t-simple|interwiki=1|is|langname=Icelandic|litur|m}}
 * Japanese: {{t+|ja|色|tr=いろ, iro}}
 * Malay: {{t+|ms|warna}}, {{t+|ms|rona}}
-* Norwegian: {{t+|no|farge|m}}, {{t|no|fargetone|m}}, {{t|no|kulør|m}}
+* Norwegian: 
+*: Bokmål: {{t+|nb|farge|m}}, {{t|nb|fargetone|m}}, {{t|nb|kulør|m}}
+*: Nynorsk: {{t|nn|farge|m|f}}, {{t|nn|fargetone|m}}, {{t|nn|kulør|m}}
 * Polish: {{t+|pl|barwa|f}}, {{t+|pl|odcień|m-in}}
 * Portuguese: {{t+|pt|cor|f}}
 * Russian: {{t+|ru|насы́щенность}}
@@ -500,13 +506,15 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Japanese: {{t-check|ja|[[肌]]の[[色]]|tr=はだのいろ, hada no iro|sc=Jpan}} <!-- was "[[肌]]の[[色]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Korean: {{t+|ko|피부색}}
 * Malay: {{t-check|ms|[[warna]] [[kulit]]}} <!-- was "[[warna]] [[kulit]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
-* Norwegian: {{t|no|hudfarge|m}}
+* Norwegian: 
+*: Bokmål: {{t|nb|hudfarge|m}}
+*: Nynorsk: {{t|nn|hudfarge|m|f}}
 * Polish: {{t|pl|kolor skóry|m-in}}
 * Portuguese: {{t+|pt|cor|f}}
 * Romanian: {{t|ro|culoare de piele|f}}
 * Russian: {{t+|ru|цвет|m}}
 * Spanish: {{t+|es|color|m}}
-* Volapük: {{t|vo|täin}}, {{qualifier|face}} {{t|vo|logodakölül}}
+* Volapük: {{t|vo|täin}}, {{t|vo|logodakölül}} {{q|face}} 
 {{trans-bottom}}
 
 {{trans-top|interest, especially in a selective area}}
@@ -517,9 +525,9 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Japanese: {{t+|ja|色|tr=いろ, iro}}
 * Korean: {{t+|ko|특색}}
 {{trans-mid}}
-* Norwegian: {{t|no|koloritt|m}}
-*: Bokmål: {{t+|nb|farge|m}}
-*: Nynorsk: {{t|nn|farge|m}}
+* Norwegian: 
+*: Bokmål: {{t+|nb|farge|m}}, {{t|nb|koloritt|m}}
+*: Nynorsk: {{t|nn|farge|m|f}}, {{t|nn|koloritt|m}}
 * Polish: {{t+|pl|koloryt|m-in}}
 * Russian: {{t+|ru|колори́т|m}}
 {{trans-bottom}}
@@ -533,7 +541,9 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * German: {{t-simple|interwiki=1|de|langname=German|Tinktur|g=f}}
 {{trans-mid}}
 * Japanese: {{t+|ja|業績|tr=ぎょうせき, gyōseki}}
-* Norwegian: {{t+|no|farge|m}}
+* Norwegian: 
+*: Bokmål: {{t+|nb|farge|m}}
+*: Nynorsk: {{t|nn|farge|m|f}}
 * Polish: {{t+|pl|kolor|m-in}}
 * Portuguese: {{t+|pt|cor|f}}
 * Russian: {{t+|ru|цвет|m}}
@@ -554,7 +564,9 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Italian: {{t-simple|interwiki=1|it|langname=Italian|stendardo|g=m}}, {{t-simple|interwiki=1|it|langname=Italian|bandiera|g=f}}
 * Japanese: {{t+|ja|幟|tr=のぼり, nobori}}
 * Malay: {{t|ms|panji-panji}}
-* Norwegian: {{t+|no|fane|m}}
+* Norwegian:
+*: Bokmål: {{t+|nb|fane|m|f}}
+*: Nynorsk: {{t|nn|fane|m}}
 * Portuguese: {{t+|pt|cores|m-p}}
 * Russian: {{t+|ru|зна́мя|n}}, {{t+|ru|флаг|m}}, {{t+|ru|штанда́рт|m}}
 * Tagalog: {{t+|tl|kulay}}
