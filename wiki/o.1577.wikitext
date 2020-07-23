@@ -214,31 +214,34 @@ From {{inh|ast|la|aut}}.
 ----
 
 ==Azerbaijani==
-
-===Etymology===
 {{az-variant|c=о|r=o|a=او}}
-From {{inh|az|trk-oat|اول|tr=ol}}, {{inh|az|trk-pro|*ol}}.
 
-===Pronunciation===
+===Etymology 1===
+
+====Pronunciation====
 * {{qualifier|phoneme}} {{IPA|az|/ɔ/}}
 
-===Letter===
+====Letter====
 {{az-letter|upper=O|lower=o}}
 
 # {{Latn-def|az|letter|21}}
 
-====See also====
+=====See also=====
 * {{list:Latin script letters/az}}
 
-===Pronoun===
+===Etymology 2===
+
+From {{inh|az|trk-oat|اول|tr=ol}}, {{inh|az|trk-pro|*ol}}.
+
+====Pronoun====
 {{az-pron|acc=onu|pl=onlar}}
 
 # [[he]], [[she]], [[it]]
 
-====Declension====
+=====Declension=====
 {{az-personal-pronouns-decl}}
 
-====Derived terms====
+=====Derived terms=====
 * {{l|az|onunku}}
 
 [[Category:Azerbaijani personal pronouns]]
@@ -310,18 +313,32 @@ From {{inh|ca|la|aut}}.
 
 ----
 
+==Corsican==
+
+===Etymology===
+From {{inh|co|la|aut}}. Cognates include {{cog|it|o}} and {{cog|es|o}}.
+
+===Conjunction===
+{{head|co|conjunction}}
+
+# [[or]]
+
+====References====
+* http://infcor.adecec.net/
+
+----
+
 ==Crimean Tatar==
 
-===Pronoun===
-{{head|crh|pronoun|personal}}
+===Etymology===
+From {{inh|crh|trk-pro|*ol}}. Compare {{cog|tr|o}} and {{cog|az|o}}.
 
-# [[he]], [[she]], [[it]]
+===Pronoun===
+{{head|crh|pronoun|cat2=personal pronouns|cat3=demonstrative pronouns}}
+
+# {{qualifier|personal pronoun}} [[he]], [[she]], [[it]]
 #: {{syn|crh|anav|q1=Northern dialect}}
-
-===Pronoun===
-{{head|crh|pronoun|demonstrative}}
-
-# [[that]]
+# {{qualifier|demonstrative pronoun}}[[that]]
 
 ----
 
@@ -430,6 +447,9 @@ From {{inh|cs|sla-pro|*o(b)}}, from {{der|cs|ine-pro|*h₃ebʰi}}.
 ----
 
 ==Extremaduran==
+
+===Etymology===
+From {{inh|ext|la|aut}}. Cognates include {{cog|es|o}} and {{cog|it|o}}.
 
 ===Conjunction===
 {{head|ext|conjunction}}
@@ -591,7 +611,7 @@ From {{inh|fax|roa-opt|ou}}, from {{inh|fax|la|aut||or}}.
 ===Etymology 1===
 From Old Galician and {{inh|gl|roa-opt|o}}, from {{inh|gl|la|illum}}, from {{m|la|ille}}.
 
-===Alternative forms===
+====Alternative forms====
 * {{alter|gl|lo}}
 
 ====Article====
@@ -1381,6 +1401,9 @@ From a root {{m|ro||*eaua}}, from {{inh|ro|la|illam}}, accusative feminine singu
 
 ==Scots==
 
+===Etymology===
+From {{inh|sco|enm|of}}, from {{inh|sco|ang|of}}, from {{m|ang|[[af]], [[æf]]||from, off, away}}, from {{inh|sco|gem-pro|*ab||away (from)}}. Compare {{cog|en|of}}.
+
 ===Preposition===
 {{sco-prep}}
 
@@ -1628,7 +1651,7 @@ Borrowed from {{bor|tl|es|o||or}}.
 ==Tok Pisin==
 
 ===Etymology===
-From {{der|tpi|en|or}}.
+From {{inh|tpi|en|or}}.
 
 ===Conjunction===
 {{head|tpi|conjunction}}
