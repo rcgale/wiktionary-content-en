@@ -451,7 +451,7 @@ From {{inh|az|trk-pro|*at|t=horse}}.<ref>{{R:trk-pro:SDM|*ăt|855}}</ref>
 ==Danish==
 
 ===Etymology 1===
-From {{inh|da|non|at}}, cf. {{cog|sv|att}}, {{cog|nb|at}}. Probably from {{inh|da|gem-pro|*þat}}, a pronoun used as a conjunction, cf. {{cog|en|that}} and {{cog|de|dass}}.
+From {{inh|da|non|at}}, cf. {{cog|sv|att}}, {{cog|no|at}}. Probably from {{inh|da|gem-pro|*þat}}, a demonstrative pronoun used as a conjunction, compare {{cog|en|that}}, {{cog|de|dass}}, {{cog|nl|dat}}.
 
 ====Pronunciation====
 * {{IPA|da|[ad̥]|[a]}}
@@ -459,15 +459,41 @@ From {{inh|da|non|at}}, cf. {{cog|sv|att}}, {{cog|nb|at}}. Probably from {{inh|d
 ====Conjunction====
 {{head|da|conjunction}}
 
-# {{l|en|that}} {{q|introduces a {{glossary|noun clause}} functioning as a subject, object, or predicative of a verb, or as the object of a prepositional phrase}}
-# {{lb|da|archaic}} {{l|en|that}}, {{l|en|in order that}}, {{l|en|so that}} {{q|introduces an adverbial {{glossary|adverbial clause}} stating the purpose}}
+# {{l|en|that}} {{q|introduces a {{glossary|noun clause}} functioning as the subject, object or predicative of a verb, or as the object of a prepositional phrase}}
+#*'''1986''', Knud Erik Larsen, ''Bare ikke om søndagen'' / https://books.google.dk/books?id=DedIDwAAQBAJ&pg=PT85:
+#*:Knud hørte, '''at''' bedstefaren lagde værktøjet fra sig
+#*::Knud heard '''that''' his grandfather put down the tool.
+#*'''1876''', J.P. Jacobsen, ''Fru Marie Grubbe'', vol. 1, p. 67 / https://books.google.dk/books?id=VdK9DgAAQBAJ&pg=PT59:
+#*:Hun var overbevist om '''at''' det var sandt.
+#*::She was convinced '''that''' it was true.
+# {{lb|da|archaic}} {{l|en|that}}, {{l|en|in order that}}, {{l|en|so that}} {{q|introduces an {{glossary|adverbial clause}} stating the purpose}}
+#*'''1856''', Christian Winther, ''Hr. Peder Jernskjæg'', from ''Hjortens Flugt'' / https://kalliope.org/da/text/winther2018100610:
+#*:Og Hjorten vil jeg fange, | At Korset jeg kan faae.
+#*::And the deer, I will catch, that I may win the cross.
+#*'''1987''', Thomas Bruun, ''Et paradisisk blik. Humoresker og grotesker'':
+#*: det er helvedes svært, '''at''' du bare ved det.
+#*::it is damned difficult, just '''that''' you know it.
 #: {{synonyms|da|for at}}
-# {{l|en|that}}, {{l|en|so that}} {{q|introduces an adverbial {{glossary|adverbial clause}} stating the result, normally after a demonstrative adverb}}
+# {{l|en|that}}, {{l|en|so that}} {{q|introduces an {{glossary|adverbial clause}} stating the result, normally after a demonstrative adverb or pronoun}}
+#*'''1902''', Karin Michaëlis, ''Barnet'' / https://books.google.dk/books?id=A_4kDgAAQBAJ&pg=PT62:
+#*:Jeg er saa fattig, '''at''' jeg sulter paa Sjæl og Legeme.
+#*::I am so poor '''that''' I starve in my soul and my body.
 #: {{synonyms|da|så at|således at}}
-# {{lb|da|proscribed}} {{non-gloss definition|added pleonastically to other conjunctions: {{l|da|fordi|fordi at}}, {{l|da|når|når at}}}}
+# {{l|en|that}}, {{l|en|why}} {{q|introducing an {{glossary|independent clause}}, expressing passion, surprise, anger, or joy}}
+#*'''1901''', Herman Bang, ''Det graa Hus'' / https://books.google.dk/books?id=xpqmDgAAQBAJ&pg=PT26:
+#*:'''At''' De kan synge saa tidligt om Morgenen.
+#*::'''That''' you can sing that early in the morning.
+# {{lb|da|proscribed}} {{non-gloss definition|added pleonastically to other conjunctions: {{l|da|fordi|fordi at}}, {{l|da|hvis|hvis at}}, {{l|da|når|når at}}}}
+#*2009, Frank Colding, Sejleren, p. 32 / https://books.google.dk/books?id=HCNperkZeKIC&pg=PA32:
+#*:Forbavset aner min forstand, | at denne scenes sære magt | kun begribes, '''hvis at''' man | bevæger sig i dansetakt. 
+#*::Astonished, my mind senses that the strange power of this scene can only be understood '''if''' one moves in dance steps.
+
+====References====
+* {{R:DDO|at,1}}
+* {{R:ODS online|at,1}}
 
 ===Etymology 2===
-From {{inh|da|non|at}}, cognate with {{cog|sv|att}}, {{cog|nb|å}}. Originally the samme word as the preposition {{inh|da|non|at||at, to}}, from {{inh|non|gem-pro|*at}}, cognate with {{cog|en|at}}. {{doublet|da|ad}}). In the West Germanic languages, a different preposition, {{m|gem-pro|*tō||to}}, serves as the infinitive marker, cf {{cog|en|to}}, {{cog|de|zu}}, {{cog|nl|te}}.
+From {{inh|da|non|at}}, cognate with {{cog|sv|att}}, {{cog|no|å}}. Originally the samme word as the preposition {{inh|da|non|at||at, to}}, from {{inh|non|gem-pro|*at}}, cognate with {{cog|en|at}}. {{doublet|da|ad}}). In the West Germanic languages, a different preposition, {{m|gem-pro|*tō||to}}, serves as the infinitive marker, cf {{cog|en|to}}, {{cog|de|zu}}, {{cog|nl|te}}.
 
 ====Pronunciation====
 * {{IPA|da|[ad̥]|[a]|[ʌ]}}
@@ -476,8 +502,16 @@ From {{inh|da|non|at}}, cognate with {{cog|sv|att}}, {{cog|nb|å}}. Originally t
 ====Particle====
 {{head|da|particle}}
 
-# {{l|en|to}} {{q|infinitive-marker, obligatory when the infinitive is not governed by a modal verb, but functions as noun phrase or an adverbial phrase}}
+# {{l|en|to}} {{q|infinitive-marker, obligatory when the infinitive functions as noun phrase or an adverbial phrase, but omitted when it is governed by a modal verb}}
 #: {{ux|da|Det er menneskeligt '''at''' fejle.|'''To''' err is human.}}
+# {{non-gloss definition|introducing an adverb of direction after a phrase that normally governs an infinitive (which may be understood {{glossary|ellipsis|elliptically}})}}
+#*'''1992''', Thøger Birkeland, ''Bette Nielses krig'':
+#*:Mon de da ikke snart skulle til '''at''' hjemad!
+#*::Aren't they going to go home soon!
+
+====References====
+* {{R:DDO|at,2}}
+* {{R:ODS online|at,2}}
 
 ----
 
