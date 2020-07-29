@@ -34,13 +34,12 @@ Like all abbreviations, acronyms were formerly usually punctuated with [[full st
 * {{sense|all senses}} {{l|en|abbreviation}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|acronymania}}
-* {{l|en|acronymic}}
-{{der-mid}}
-* {{l|en|acronymization}}
-* {{l|en|acronymous}}
-{{der-bottom}}
+{{der4|en
+|acronymania
+|acronymic
+|acronymization
+|acronymous
+}}
 
 ====Translations====
 {{trans-top|any abbreviation formed by initial letters}}
@@ -93,7 +92,7 @@ Like all abbreviations, acronyms were formerly usually punctuated with [[full st
 *: Nynorsk: {{t|nn|akronym|n}}
 * Occitan: {{t|oc|acronim|m}}
 * Polish: {{t+|pl|akronim|m-in}}, {{t+|pl|skrót|m-in}}, {{t+|pl|skrótowiec|m-in}}
-* Portuguese: {{t+|pt|acrônimo|m}} {{qualifier|Brazil}}, {{t+|pt|acrónimo|m}} {{qualifier|Portugal}}, {{t|pt|acrograma|m}}
+* Portuguese: {{t+|pt|acrônimo|m}} {{q|Brazil}}, {{t+|pt|acrónimo|m}} {{q|Portugal}}, {{t|pt|acrograma|m}}
 * Romanian: {{t+|ro|acronim|n}}
 * Russian: {{t+|ru|акро́ним|m}}, {{t+|ru|сокраще́ние|n}}
 * Scottish Gaelic: {{t|gd|acranaim|m}}, {{t|gd|geàrr-ainm|m}}
@@ -105,19 +104,19 @@ Like all abbreviations, acronyms were formerly usually punctuated with [[full st
 * Swedish: {{t+|sv|akronym|c}}
 {{trans-bottom}}
 
-====References====
-<references />
+===Verb===
+{{en-verb}}
 
-=====See also=====
+# To form into an [[acronym]].
+
+===See also===
 * [[:Category:English shortenings]] - ''a list of all abbreviated forms''
 * {{l|en|backronym}}
 * {{l|en|initialism}}
 * {{l|en|mnemonic}}
 
-===Verb===
-{{en-verb}}
-
-# To form into an [[acronym]]
+===References===
+<references/>
 
 ===Anagrams===
 * {{anagrams|en|a=acmnory|romancy}}
