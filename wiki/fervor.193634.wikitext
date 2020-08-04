@@ -1,7 +1,7 @@
 ==English==
 
 ===Alternative forms===
-* (''Commonwealth spelling'') [[fervour]]
+* {{alter|en|fervour||Commonwealth}}
 
 ===Etymology===
 From {{der|en|enm|-}}, from {{der|en|fro|-}}, from {{der|en|la|fervor||a boiling or raging heat, heat, vehemence, passion}}, from {{m|la|fervere||to boil, be hot}}; see [[fervent]].
@@ -30,6 +30,7 @@ From {{der|en|enm|-}}, from {{der|en|fro|-}}, from {{der|en|la|fervor||a boiling
 {{trans-top|intense, heated emotion; passion, ardor}}
 * Bulgarian: {{t+|bg|плам|sc=Cyrl}}, {{t+|bg|страст|f|sc=Cyrl}}
 * Chinese:
+* Catalan: {{t|ca|fervor|m|f}}, {{t|ca|ardor|m|f}}
 *: Mandarin: {{t+|cmn|熱情|sc=Hani}}, {{t+|cmn|热情|tr=rèqíng|sc=Hani}}
 * Finnish: {{t+|fi|palo}}
 * French: {{t+|fr|ferveur|f}}
@@ -38,6 +39,7 @@ From {{der|en|enm|-}}, from {{der|en|fro|-}}, from {{der|en|la|fervor||a boiling
 {{trans-mid}}
 * Macedonian: {{t|mk|жар}}, {{t|mk|страст}}
 * Maori: {{t|mi|wana}}
+* Occitan: {{t|oc|fervor|f}}, {{t|oc|ardor|f}}
 * Persian: {{t+|fa|جوشش|tr=jušeš|sc=fa-Arab}}
 * Portuguese: {{t+|pt|fervor|m}}
 * Romanian: {{t+|ro|fervoare|f}}, {{t+|ro|ardoare|f}}
@@ -89,6 +91,30 @@ From {{der|en|enm|-}}, from {{der|en|fro|-}}, from {{der|en|la|fervor||a boiling
 
 ----
 
+==Catalan==
+
+===Etymology===
+From {{der|ca|la|fervor}}, attested from the 14th century.<ref>{{R:GDLC}}</ref>
+
+===Noun===
+{{ca-noun|mf}}
+
+# {{l|en|fervor}}
+
+====Related terms====
+* {{l|ca|fervent}}
+* {{l|ca|fervorós}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{R:IEC2}}
+* {{R:DNV}}
+* {{R:DCVB}}
+
+----
+
 ==Latin==
 
 ===Etymology===
@@ -108,10 +134,44 @@ From {{af|la|ferveō|-or}}.
 ====Declension====
 {{la-ndecl|fervor<3>}}
 
+====Descendants====
+{{top3}}
+* {{desc|ca|fervor}}
+* {{desc|fr|ferveur}}
+* {{desc|gl|fervor}}
+* {{desc|it|fervore}}
+* {{desc|oc|fervor}}
+* {{desc|pt|fervor}}
+* {{desc|es|fervor}}
+{{bottom}}
+
 ===References===
 * {{R:L&S}}
 * {{R:Elementary Lewis}}
 * {{R:Gaffiot}}
+
+----
+
+==Occitan==
+
+===Etymology===
+From {{der|oc|la|fervor}}. Attested from the 14th century.<ref>{{R:DGLO|271}}</ref>
+
+===Pronunciation===
+* {{audio|oc|LL-Q14185 (oci)-Davidgrosclaude-fervor.wav|Audio (Béarn)}}
+
+===Noun===
+{{oc-noun|f}}
+
+# {{l|en|fervor}}
+#: {{syn|oc|ardor}}
+
+====Related terms====
+* {{l|oc|fervent}}
+* {{l|oc|fervorós}}
+
+===References===
+<references/>
 
 ----
 
@@ -129,6 +189,13 @@ From {{der|pt|la|fervor|fervōris}}.
 
 # {{l|en|fervour}} {{gloss|passionate enthusiasm}}
 
+====Related terms====
+* {{l|pt|fervente}}
+* {{l|pt|fervoroso}}
+
+===Further reading===
+* {{R:Priberam}}
+
 ----
 
 ==Spanish==
@@ -137,6 +204,13 @@ From {{der|pt|la|fervor|fervōris}}.
 From {{der|es|la|fervor|fervōris}}.
 
 ===Noun===
-{{es-noun|m|fervores}}
+{{es-noun|m}}
 
 # [[#English|fervor]]
+
+====Related terms====
+* {{l|es|ferviente}}
+* {{l|es|fervoroso}}
+
+===Further reading===
+* {{R:DRAE}}
