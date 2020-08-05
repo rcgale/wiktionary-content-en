@@ -14,13 +14,19 @@ Borrowed from {{bor|hi|sa|भारत|tr=bhā́rata}}.
 
 # [[India]]
 #: {{syn|hi|इंडिया|हिंदुस्तान|भारतवर्ष}}
-#: {{hyper|hi|दक्षिण एशिया|एशिया}}
+#: {{hyper|hi|एशिया|दक्षिण एशिया}}
 
 ====Derived terms====
 * {{l|hi|भारतीय}}
 * {{l|hi|भारवर्ष}}
 
-[[Category:hi:Countries]]
+====Descendants====
+* {{desc|eo|Barato|bor=1}}
+
+===References===
+* {{R:hi:McGregor}}
+
+{{topics|hi|Countries}}
 
 ----
 
@@ -31,52 +37,64 @@ Borrowed from {{bor|hi|sa|भारत|tr=bhā́rata}}.
 
 # [[India]]
 
+{{topics|kok|Countries}}
+
 ----
 
 ==Marathi==
 {{wikipedia|lang=mr}}
 
 ===Etymology===
-Borrowed from {{bor|mr|sa|भारत|tr=bhā́rata}}.
+Borrowed from {{bor|mr|sa|भारत|tr=bhā́rata}}. Compare {{cog|omr|𑘥𑘨𑘝}}, {{m|omr|𑘥𑘰𑘨𑘝}}, {{l|omr|𑘥𑘰𑘨𑘞}}.
 
 ===Pronunciation===
-* {{IPA|mr|[ˈbʱaːrət̪]}}
+* {{IPA|mr|/ˈbʱa.ɾət̪/}}
 
 ===Proper noun===
-{{head|mr|proper noun}}
+{{mr-proper noun|g=m}}
 
 # [[India]]
-
-====Synonyms====
-* {{l|mr|इंडिया}}
-* {{l|mr|हिन्दुस्तान}}
+#: {{syn|mr|इंडिया|हिंदुस्थान}}
+#: {{hyper|mr|एशिया|दक्षिण एशिया}}
 
 ====Derived terms====
 * {{l|mr|भारतीय}}
 
-[[Category:mr:Countries]]
+===References===
+* {{R:mr:Berntsen}}
+* {{R:mr:Molesworth}}
+* {{R:mr:Date}}
+
+{{topics|mr|Countries}}
 
 ----
 
 ==Nepali==
+{{wikipedia|lang=ne}}
 
 ===Proper noun===
 {{ne-pos|proper}}
 
 # [[India]]
 
+{{topics|ne|Countries}}
+
 ----
 
 ==Sanskrit==
+{{wp|lang=sa|भारतम्}}
+
+===Alternative scripts===
+{{sa-alt}}
 
 ===Etymology===
-From {{inh|sa|inc-pro|*bhā́ratas}}, ultimately from {{der|sa|ine-pro|*bʰer-||to carry}}.
+From {{inh|sa|inc-pro|*bhā́ratas}}, ultimately from {{der|sa|ine-pro|*bʰer-||to carry}}. Synchronically analysable as the {{vrd|sa|भरत|nocap=1}}.
 
 ===Pronunciation===
 {{sa-IPA|a=1}}
 
 ===Adjective===
-{{head|sa|adjective|tr=bhā́rata}}
+{{sa-adj|tr=bhā́rata}}
 
 # descended from {{m|sa|भरत}} or the [[Bhāratas]] (applied to [[Agni]] either "sprung from the priests called Bharatas" or "bearer of the [[oblation]]")
 # belonging or relating to the Bharatas
@@ -111,5 +129,18 @@ From {{inh|sa|inc-pro|*bhā́ratas}}, ultimately from {{der|sa|ine-pro|*bʰer-||
 ====Declension====
 {{sa-decl-noun-n|bhā́rata}}
 
+====Descendants====
+* {{desc|as|ভাৰত|bor=1}}
+* {{desc|bn|ভারত|bor=1}}
+* {{desc|gu|ભારત|bor=1}}
+* {{desc|hi|भारत|bor=1}}
+* {{desc|omr|-|bor=1}}
+*: {{desc|omr|भरत|sclb=1}}, {{l|omr|भारत}}, {{l|omr|भारथ}}
+*: {{desc|omr|𑘥𑘨𑘝|sclb=1}}, {{l|omr|𑘥𑘰𑘨𑘝}}, {{l|omr|𑘥𑘰𑘨𑘞}}
+** {{desc|mr|भारत|bor=1}}
+* {{desc|kn|ಭಾರತ|bor=1}}
+* {{desc|or|ଭାରତ|bor=1}}
+* {{desc|ta|பாரதம்|bor=1}}
+
 ===References===
-* {{R:MW|0753}}
+* {{R:sa:MW|column=1|0753}}
