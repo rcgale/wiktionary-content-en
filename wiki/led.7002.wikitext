@@ -88,70 +88,74 @@ From {{inh|cs|sla-pro|*ledъ}}.
 ==Danish==
 
 ===Etymology 1===
-From {{der|da|non|liðr}}, from {{inh|da|gem-pro|*liþuz}}. Cognate with {{cog|de|Glied||joint}} and {{m|de|Lied||song}}.
+From {{der|da|non|liðr}}, from {{inh|da|gem-pro|*liþuz}}, cognate with {{cog|de|Glied||joint}}, {{m|de|Lied||song}}.
 
 ====Pronunciation====
-* {{IPA|da|[ˈleð]}}
+* {{IPA|da|/leð/|[ˈleð]}}
 
 ====Noun====
-{{da-noun|stem=ledd|et}}
+{{da-noun|dc=1|et}}
 
-# [[joint]]
-# [[link]]
-# {{lb|da|mathematics}} {{l|en|term}} {{gloss|one of the addends in a sum or in another mathematical operation}}
+# {{lb|da|anatomy}} {{l|en|joint}} {{q|movable connection between the bones in a body or a minor exterior part of the body; also of joints in a plant}}
+# {{l|en|link}} {{q|movable part of a thing or a plant}}
+# {{l|en|link}}, {{l|en|part}} {{q|element in a line of thought or a course of events}}
+# {{l|en|generation}} {{q|in a family tree}}
+# {{lb|da|grammar}} {{l|en|phrase}} {{q|a word or group of words that functions as a single unit in the syntax of a sentence}}
+# {{lb|da|mathematics}} {{l|en|term}} {{q|one of the addends in a sum or in another mathematical operation}}
 #: {{ux|da|I udtrykket <math>2x + 4\ln x - 3</math> er <math>2x</math>, <math>4\ln x</math> og <math>-3</math> '''led'''.|In the expression <math>2x + 4\ln x - 3</math>, <math>2x</math>, <math>4\ln x</math>, and <math>-3</math> are '''terms'''.}}
 
 =====Inflection=====
-{{da-noun-infl|stem=ledd|et}}
+{{da-decl|dc=1|et}}
 
 =====References=====
 * {{R:DDO|led,1}}
 
 ===Etymology 2===
-A merger of two Old Norse nouns: 1. {{m|non|leið||road, direction}}, from {{der|da|gem-pro|*laidō}, and 2. {{m|non|hlið||side}}, from {{der|da|gem-pro|*hliþō}}.
+A merger of two Old Norse nouns: 1. {{m|non|leið||road, direction}}, from {{der|da|gem-pro|*laidō}}, cognate with {{cog|en|load}}, {{m|en|lode}}, {{cog|de|Leite||slope}}, {{cog|nl|lei||slate}}. 2. {{m|non|hlið|g=f||side}}, from {{der|da|gem-pro|*hliþō}}, cognate with {{cog|ang|hliþ|g=n}}.
 
 ====Pronunciation====
-* {{IPA|da|[ˈleð]}}
+* {{IPA|da|/leð/|[ˈleð]}}
 
 ====Noun====
-{{da-noun|stem=ledd|en|er}}
+{{da-noun|dc=1|en|er}}
 
-# [[side]], [[direction]]
+# {{l|en|side}}, {{l|en|direction}} {{q|of an object}}
+# {{l|en|way}} {{q|of doing something}}
 
 =====Inflection=====
-{{da-noun-infl|stem=ledd|en|er}}
+{{da-decl|dc=1|en|er}}
 
 =====References=====
 * {{R:DDO|led,2}}
 
 ===Etymology 4===
-From {{der|da|non|hliðr}}, from {{inh|en|gem-pro|*hlidą}}. Cognate with {{cog|sv|lid||gate}}), {{cog|en|lid}} and {{cog|de|lid||eyelid}}.
+From {{der|da|non|hliðr}}, from {{inh|en|gem-pro|*hlidą}}, cognate with {{cog|sv|lid||gate}}), {{cog|en|lid}}, {{cog|de|lid||eyelid}}.
 
 ====Pronunciation====
-* {{IPA|da|[ˈleð]}}
+* {{IPA|da|/leð/|[ˈleð]}}
 
 ====Noun====
 {{da-noun|stem=ledd|et}}
 
-# [[gate]]
+# {{l|en|gate}} {{q|in a fence or at a level crossing}}
+
+=====Inflection=====
+{{da-decl|dc=1|et}}
 
 =====References=====
 * {{R:DDO|led,3}}
 
 ===Etymology 4===
-From {{der|da|non|leiðr||uncomfortable, tired}}.
+From {{inh|da|non|leiðr||uncomfortable, tired}}, {{inh|da|gem-pro|*laiþaz}}, cognate with {{cog|en|loath}}, {{cog|de|leid||distressing}}, {{cog|nl|leed||sad}}
 
 ====Pronunciation====
-* {{IPA|da|[ˈleˀð]|[ˈleðˀ]}}
+* {{IPA|da|/leːˀð/|[ˈleˀð]|[ˈleðˀ]}}
 
 ====Adjective====
-{{da-adj}}
+{{da-adj|t|e|ere|est}}
 
 # [[disgusting]], [[odious]], [[loathsome]]
 # [[nasty]], [[beastly]]
-
-=====Inflection=====
-{{da-infl-adj||est}}
 
 =====References=====
 * {{R:DDO|led,4}}
@@ -160,12 +164,23 @@ From {{der|da|non|leiðr||uncomfortable, tired}}.
 {{nonlemma}}
 
 ====Pronunciation====
-* {{IPA|da|[ˈleˀð]|[ˈleðˀ]}}
+* {{IPA|da|/leːˀð/|[ˈleˀð]|[ˈleðˀ]}}
 
 ====Verb====
 {{head|da|verb form}}
 
-# {{past tense of|da|lide}}
+# {{inflection of|da|lide||past|tense|nocat=1}}
+
+===Etymology 6===
+{{nonlemma}}
+
+====Pronunciation====
+* {{IPA|da|/leːˀð/|[ˈleˀð]|[ˈleðˀ]}}
+
+====Verb====
+{{head|da|verb form}}
+
+# {{inflection of|da|lede||imp|nocat=1}}
 
 ----
 
