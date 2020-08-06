@@ -1483,18 +1483,27 @@ Compare {{cog|de|ein}}.
 # [[a]], [[an]]
 
 ====Declension====
-{| class="wikitable"
+{| style="margin-left:0.5em; margin-bottom:0.5em; border: 1px solid #AAAAAA; border-collapse:collapse;" cellpadding="5" rules="all"
 |-
-! scope="col"|
-! scope="col"| Masculine
-! scope="col"| Feminine
-! scope="col"| Neuter
+! width="65" bgcolor="#F4F4F4" |
+! bgcolor="#EEEEB0" | Masculine
+! bgcolor="#EEEEB0" | Feminine
+! bgcolor="#EEEEB0" | Neuter
 |-
-! scope="row"| Nominative<br>and<br>Accusative
-| {{l|pdc|en}} || {{l|pdc|en}}|| {{l|pdc|en}}
+| bgcolor="#DDDDFF" | '''[[nominative|Nominative]]'''
+| align="center" | {{l-self|pdc|en}}, {{l-self|pdc|kee}}
+| align="center" | {{l-self|pdc|en}}, {{l-self|pdc|kee}}
+| align="center" | {{l-self|pdc|en}}, {{l-self|pdc|kee}}
 |-
-! scope="row"| Dative
-| {{l|pdc|me}} || {{l|pdc|re}} || {{l|pdc|me}}
+| bgcolor="#DDDDFF" | '''[[accusative|Accusative]]'''
+| align="center" | {{l-self|pdc|en}}, {{l-self|pdc|kee}}
+| align="center" | {{l-self|pdc|en}}, {{l-self|pdc|kee}}
+| align="center" | {{l-self|pdc|en}}, {{l-self|pdc|kee}}
+|-
+| bgcolor="#DDDDFF" | '''[[dative|Dative]]'''
+| align="center" | {{l-self|pdc|em}}
+| align="center" | {{l-self|pdc|re}}
+| align="center" | {{l-self|pdc|em}}
 |}
 
 ----
