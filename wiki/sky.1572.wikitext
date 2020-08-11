@@ -357,17 +357,20 @@ From {{inh|en|enm|sky}}, from {{der|sco|non|ský}}.
 From {{inh|sv|gmq-osw|sky|skȳ}}, from {{inh|sv|non|ský}}, from {{inh|sv|gem-pro|*skiwją}}, compare {{cog|en|sky}}.
 
 ====Noun====
-{{head|sv|noun}}
+{{sv-noun|c}}
 
 # {{lb|sv|countable}} [[heaven]]
 # {{lb|sv|countable}} {{l|en|sky}}
 # {{lb|sv|countable}} [[cloud]]
 
+=====Declension=====
+{{sv-noun-irreg-c|2=skyn|3=skyar}}
+
 ===Etymology 2===
 From {{der|sv|fr|jus}}.
 
 ====Noun====
-{{head|sv|noun}}
+{{sv-noun|c}}
 
 # {{lb|sv|uncountable|cooking}} The liquid that remains in a [[frying pan]] after the fried meat is ready.
 
@@ -375,8 +378,11 @@ From {{der|sv|fr|jus}}.
 From {{der|sv|gml|schǖwen}}.
 
 ====Verb====
-{{head|sv|verb}}
+{{sv-verb-reg|sky|r|dde}}
 
 # avoid due to fear or disgust, [[shun]]
+
+=====Conjugation=====
+{{sv-conj-wk|sky|end=vw}}
 
 [[Category:Swedish terms with multiple etymologies]]
