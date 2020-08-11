@@ -62,20 +62,23 @@ From {{inh|af|nl|tak|t=branch, twig, offshoot}}, from {{inh|af|dum|tac|t=pointy 
 * {{IPA|da|/tak/|[ˈtˢɑɡ̊]}}
 
 ===Etymology 1===
-From {{inh|da|non|þǫkk}}, from {{inh|da|gem-pro|*þankō}}, {{m|gem-pro|*þankaz}}.
+From {{inh|da|non|þǫkk}}, from {{inh|da|gem-pro|*þankō}}, {{m|gem-pro|*þankaz}}, cognate with {{cog|en|thank}}, {{cog|de|Dank}}.
 
 ====Noun====
 {{da-noun|stem=takk|en|-}}
 
 # [[thanks]]
 
+=====Inflection=====
+{{da-decl|dc=1|en|n=sg}}
+
 ====Interjection====
 {{da-interj}}
 
-# [[thank you]], [[thanks]], [[ta]]
+# [[thank you]], [[thanks]]
 
 ===Etymology 2===
-From {{der|da|gml|tacke}}, from {{der|da|osx|*takko}}, from {{der|da|gem-pro|*takkô||prickle, spike, jag}}.
+From {{der|da|gml|tacke}}, from {{der|da|gem-pro|*takkô||prickle, spike, jag}}, cognate with {{cog|en|tack}}, {{cog|de|Zacke}}.
 
 ====Noun====
 {{da-noun|stem=takk|en|er}}
@@ -87,10 +90,18 @@ From {{der|da|gml|tacke}}, from {{der|da|osx|*takko}}, from {{der|da|gem-pro|*ta
 # [[tine]]
 
 =====Inflection=====
-{{da-noun-infl|stem=takk|en|er}}
+{{da-decl|dc=1|en|er}}
 
 =====Further reading=====
 * {{pedialite|lang=da}}
+
+===Etymology===
+{{nonlemma}}
+
+====Verb====
+{{head|da|verb form}}
+
+# {{inflection of|da|takke||imp|nocat=1}}
 
 [[Category:Danish terms with multiple etymologies]]
 
