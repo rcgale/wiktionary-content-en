@@ -159,6 +159,8 @@ Also cognate with {{cog|sq|brishtë||fragile}}, {{cog|la|frangō||break, break u
 # {{lb|en|intransitive|archaic}} To fall out; to terminate friendship.
 #* {{rfdatek|en|Collier}}
 #*: To '''break''' upon the score of danger or expense is to be mean and narrow-spirited.
+# {{label|en|computing}} To terminate the execution of a [[program]] before normal completion.
+# {{label|en|programming}} To suspend the execution of a [[program]] during [[debugging]] so that the state of the program can be investigated.
 
 =====Conjugation=====
 {{en-conj|break|broke|broken|breaking|breaks}}
@@ -906,7 +908,9 @@ Also cognate with {{cog|sq|brishtë||fragile}}, {{cog|la|frangō||break, break u
 #: {{ux|en|make a '''break''' for it, for the door}}
 #: {{ux|en|It was a clean '''break'''.}}
 #: {{ux|en|prison '''break'''}}
-# {{label|en|computing|}} The separation between [[line]]s or [[paragraph]]s of a written text.
+# {{label|en|computing}} The separation between [[line]]s, [[paragraph]]s or [[page]]s of a written text.
+# {{lb|en|computing}} A [[keystroke]] or other [[signal]] that causes a [[program]] to terminate or suspend execution.
+# {{lb|en|programming}} A point or condition in a [[program]] at which [[operation]] may be [[suspended]] during [[debugging]] so that the state of the program at that point can be investigated.  A [[breakpoint]].
 # {{lb|en|British|weather}} A change, particularly the end of a spell of [[persistent]] good or bad [[weather]].
 # {{lb|en|sports|_|and|_|games}}:
 ## {{senseid|en|tennis}} {{lb|en|tennis}} A [[game]] won by the [[receive|receiving]] [[player]](s).
