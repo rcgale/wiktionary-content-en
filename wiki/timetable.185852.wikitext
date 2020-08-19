@@ -2,11 +2,10 @@
 ==English==
 
 ===Alternative forms===
-* {{l|en|time table}}
-* {{l|en|time-table}}
+* {{alter|en|time table|time-table}}
 
 ===Etymology===
-{{compound|en|time|table}}
+From {{af|en|time|table}}.
 
 ===Pronunciation===
 * {{enPR|tīm′tā'bəl}}, {{IPA|en|/ˈtaɪmˌteɪbəl/}}
@@ -17,48 +16,45 @@
 {{en-noun}}
 
 # a [[tabular]] [[schedule]] of [[event]]s with the [[time]]s at which they [[occur]], especially times of [[arrival]]s and [[departure]]s
-#: ''The '''timetable''' has been changed several times since it was first announced.''
-
-====Synonyms====
-* (''structured schedule of events with the times at which they occur''): [[schedule]], [[timeline]]
+#: {{ux|en|The '''timetable''' has been changed several times since it was first announced.}}
+#: {{syn|en|schedule|timeline}}
 
 ====Derived terms====
-{{top2}}
-* {{l|en|clock-face timetable}}
-* {{l|en|timetable and train order}}
-* {{l|en|timetable motion}}
-{{mid2}}
-* {{l|en|timetabler}}
-* {{l|en|working timetable}}
-{{bottom}}
+{{col3|en
+|clock-face timetable
+|timetable and train order
+|timetable motion
+|timetabler
+|working timetable
+}}
 
 ====Translations====
 {{trans-top|a structured schedule of events}}
 * Albanian: {{t+|sq|orar|m}}
 * Arabic: {{t|ar|جَدْوَل مَوَاعِيد|m}}, {{t|ar|جَدْوَل|m}}
 * Azerbaijani: {{t+|az|cədvəl}}, {{t|az|qrafik}}
-* Belarusian: {{t|be|раскла́д|m|sc=Cyrl}}, {{t|be|гра́фік|m|sc=Cyrl}}
+* Belarusian: {{t|be|раскла́д|m}}, {{t|be|гра́фік|m}}
 * Bengali: {{t|bn|সময়সূচী}}
 * Bulgarian: {{t|bg|разписа́ние|n}}
 * Burmese: {{t+|my|အချိန်စာရင်း}}
 * Chinese:
-*: Mandarin: {{t+|cmn|時刻表|sc=Hani}}, {{t+|cmn|时刻表|tr=shíkèbiǎo|sc=Hani}}, {{t+|cmn|時間表|sc=Hani}}, {{t+|cmn|时间表|tr=shíjiānbiǎo|sc=Hani}}
+*: Mandarin: {{t+|cmn|時刻表}}, {{t+|cmn|时刻表|tr=shíkèbiǎo}}, {{t+|cmn|時間表}}, {{t+|cmn|时间表|tr=shíjiānbiǎo}}
 * Cornish: {{t|kw|euryador|m}}, {{t|kw|rol dermynyow|f}}
 * Czech: {{t|cs|rozvrh hodin|m}}, {{t|cs|rozvrh|m}}
-* Danish: {{t|da|tidsplan}}, {{t+|da|køreplan}}
+* Danish: {{t|da|tidsplan|c}}, {{t+|da|køreplan|c}}
 * Dutch: {{t+|nl|rooster|m|n}}, {{t+|nl|lesrooster|n}}
 * Esperanto: {{t|eo|hortabelo}}
 * Estonian: {{t|et|ajakava}}, {{t|et|sõiduplaan}} {{qualifier|for transport}}, {{t|et|tunniplaan}} {{qualifier|in schools, etc.}}
 * Finnish: {{t+|fi|aikataulu}} {{qualifier|for transport}}, {{t+|fi|lukujärjestys}} {{qualifier|in schools, etc.}}
 * French: {{t+|fr|horaire|m}} {{qualifier|for transport, tides, etc.}}, {{t+|fr|emploi du temps|m}} {{qualifier|in schools, etc.}}
 * German: {{t+|de|Zeitplan|m}}, {{t+|de|Fahrplan|m}} {{gloss|for transport}}, {{t+|de|Stundenplan|m}} {{gloss|in schools, etc.}}
-* Greek: {{t+|el|χρονοδιάγραμμα|n|sc=Grek}}, {{t+|el|δρομολόγιο|n|sc=Grek}}, {{t+|el|ωράριο|n|sc=Grek}}
-* Gujarati: {{t|gu|સમયપત્રક}}
+* Greek: {{t+|el|χρονοδιάγραμμα|n}}, {{t+|el|δρομολόγιο|n}}, {{t+|el|ωράριο|n}}
+* Gujarati: {{t|gu|સમયપત્રક|n}}
 * Hindi: {{t+|hi|अनुसूची|f}}, {{t|hi|समयसारणी|f}}, {{t|hi|समयसूची|f}}
 * Hungarian: {{t+|hu|menetrend}}
 * Irish: {{t|ga|tráthchlár|m}}, {{t|ga|clár ama|m}}, {{t|ga|amchlár|m}}
 * Italian: {{t+|it|orario|m}}
-* Japanese: {{t|ja|時刻表|tr=じこくひょう, jikokuhyō|sc=Jpan}}, {{t|ja|時間表|tr=じかんひょう, jikanhyō|sc=Jpan}}, {{t+|ja|時間割|tr=じかんわり, jikanwari|sc=Jpan}}, {{t|ja|予定表|tr=よていひょう, yoteihyō|sc=Jpan}}
+* Japanese: {{t|ja|時刻表|tr=じこくひょう, jikokuhyō}}, {{t|ja|時間表|tr=じかんひょう, jikanhyō}}, {{t+|ja|時間割|tr=じかんわり, jikanwari}}, {{t|ja|予定表|tr=よていひょう, yoteihyō}}
 * Khmer: {{t|km|តារាងកាល}}, {{t+|km|កាលវិភាគ}}
 {{trans-mid}}
 * Korean: {{t+|ko|시간표}} ({{t+|ko|時間表}}), {{t+|ko|일과표}} ({{t+|ko|日課表}})
@@ -68,25 +64,25 @@
 * Malay: {{t|ms|jadual}}
 * Mongolian: {{t|mn|цагийн хуваарь}}, {{t+|mn|хуваарь}}
 * Norwegian:
-*: Bokmål: {{qualifier|transport}} {{t|nb|rutetabell|m}}
-*: Nynorsk: {{qualifier|transport}} {{t|nn|rutetabell|m}}
+*: Bokmål: {{t|nb|rutetabell|m}} {{qualifier|transport}}
+*: Nynorsk: {{t|nn|rutetabell|m}} {{qualifier|transport}}
 * Polish: {{t+|pl|rozkład|m}}
 * Portuguese: {{t+|pt|horário|m}}
 * Romanian: {{t+|ro|orar|n}}
 * Russian: {{t+|ru|расписа́ние|n}}, {{t+|ru|гра́фик|m}}
 * Scottish Gaelic: {{t|gd|clàr-ama|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|распоред|m}}
-*: Roman: {{t+|sh|raspored|m}}
+*: Cyrillic: {{t|sh|ра̏споре̄д|m}}
+*: Roman: {{t+|sh|rȁsporēd|m}}
 * Slovak: {{t|sk|rozvrh hodín|m}}, {{t|sk|rozvrh|m}}
 * Slovene: {{t|sl|razpored|m}}
 * Spanish: {{t+|es|horario|m}}
 * Tagalog: {{t|tl|talaorasan}}
-* Swahili: {{t+|sw|ratiba}}
+* Swahili: {{t+|sw|ratiba|c9|c10}}
 * Swedish: {{t+|sv|tidtabell|c}}, {{t+|sv|tidsschema|n}}
 * Thai: {{t|th|ตารางเวลา}}, {{t+|th|ตาราง}}, {{t+|th|กำหนดการ}}
 * Turkish: {{t+|tr|çizelgeleme}}
-* Ukrainian: {{t|uk|ро́зклад|m|sc=Cyrl}}, {{t|uk|гра́фік|m|sc=Cyrl}}
+* Ukrainian: {{t|uk|ро́зклад|m}}, {{t|uk|гра́фік|m}}
 * Vietnamese: {{t+|vi|thời khắc biểu}}, {{t+|vi|thời gian biểu}}, {{t+|vi|thời khóa biểu}} {{qualifier|in schools, etc.}}, {{t+|vi|lịch trình}}
 * Welsh: {{t+|cy|amserlen|f}}
 {{trans-bottom}}
@@ -95,13 +91,11 @@
 {{en-verb|timetabl}}
 
 # {{lb|en|transitive}} To arrange a specific time for (an event, a class, etc).
-#: ''I've '''timetabled''' the meeting for Monday afternoon.''
-
-====Synonyms====
-* (''insert (an event, etc) into a timetable''): [[schedule]]
+#: {{ux|en|I've '''timetabled''' the meeting for Monday afternoon.}}
+#: {{syn|en|schedule}}
 
 ====Derived terms====
-* {{l|en|timetabled}} {{q|adjective}}
+* {{l|en|timetabled|pos=a}}
 * {{l|en|timetabling}}
 
 ====Translations====
