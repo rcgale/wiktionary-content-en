@@ -29,22 +29,30 @@ Borrowed from {{bor|hi|sa|श्वेत}}, from {{der|hi|iir-pro|*ćwaytás}},
 ----
 
 ==Sanskrit==
-
+===Alternative scripts===
+{{sa-alt}}
 ===Etymology===
-From {{inh|sa|inc-pro|*śwaytás}}, from {{inh|sa|iir-pro|*ćwaytás}} (compare {{cog|fa|سفید|tr=sefid}}), from {{inh|sa|ine-pro|*ḱweytos||bright; shine}} (compare {{cog|cu|свѣтъ}}, {{cog|ang|hwīt}} (whence {{cog|en|white}})).
+From {{inh|sa|iir-pro|*ćwaytás||white}}, from {{inh|sa|ine-pro|*ḱweyt-||bright; shine}}. Cognate with {{cog|ae|𐬯𐬞𐬀𐬉𐬙𐬀}}, {{cog|fa|سفید|tr=safēd}}, {{cog|cu|свѣтъ}}.
 
 ===Pronunciation===
 {{sa-IPA|a=2}}
 
 ===Adjective===
-{{head|sa|adjective|tr=śvetá}} ([[w:Vedic Sanskrit|Vedic]] ''śvaitá'')
+{{head|sa|adjective|tr=śvetá}}
 
-# [[white]]
-#: {{syn|sa|शुक्ल|tr=śuklá}}
-# [[bright]]
+# [[white]], [[bright]], [[dressed]] in [[white]]
+#* {{Q|sa||RV|8|55|02|quote=शतं '''श्वेतास''' उक्षणो दिवि तारो न रोचन्ते ।|trans=One hundred '''white''' bulls shine like the stars in the sky.}}
+
+====Declension====
+{{sa-decl-adj-mfn|śvetá|śvetā́|śvetá}}
 
 ====Descendants====
-* {{desc|hi|श्वेत}} {{qual|borrowing}}, {{l|hi|स्वेत}}
+* {{desc|inc-dar-pro|*išpēta}}
+** {{desc|khw|اِشپےرو|tr=išperú}}
+* {{desc|pmh|𑀲𑁂𑀅}}
+* {{desc|pi|seta}}
+* {{desc|hi|श्वेत|bor=1}}, {{l|hi|स्वेत}}
+* {{desc|kn|ಶ್ವೇತ|bor=1}}
 * {{desc|te|శ్వేతము|bor=1}}
 
 [[Category:sa:Colors]]
