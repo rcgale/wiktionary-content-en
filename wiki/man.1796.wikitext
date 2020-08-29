@@ -187,13 +187,13 @@ See {{section link|man/translations#Noun}}.
 * Galician: {{t-simple|interwiki=1|gl|langname=Galician|ho|g=m}}, {{t-simple|interwiki=1|gl|langname=Galician|meu|g=m}}
 * German: {{t-simple|interwiki=1|de|langname=German|Mann|g=m}}
 * Hindi: {{t+|hi|मानस|m}}, {{t+|hi|मानुस|m}}
-* Italian: {{t+|it|cavolo|m}}, {{t+|it|ragazzi}}
+* Italian: {{t-simple|interwiki=1|it|langname=Italian|cavolo|g=m}}, {{t-simple|interwiki=1|it|langname=Italian|ragazzi}}
 {{trans-mid}}
-* Portuguese: {{t+|pt|cara|m}}
+* Portuguese: {{t-simple|interwiki=1|pt|langname=Portuguese|cara|m}}
 * Punjabi: {{t|pa|ਮਨੁੱਖ|m}}
 * Russian: {{t+|ru|блин|sc=Cyrl}}, {{t+|ru|чёрт|sc=Cyrl}}
 * Thai: {{t+|th|เพื่อน}}
-* Walloon: {{t+|wa|valet|m}} {{qualifier|after coma, at the end of sentence}}
+* Walloon: {{t-simple|interwiki=1|wa|langname=Walloon|valet|m}} {{qualifier|after comma, at the end of sentence}}
 {{trans-bottom}}
 
 ===Etymology 2===
@@ -231,10 +231,10 @@ From {{inh|en|enm|mannen}}, from {{inh|en|ang|mannian}}, {{m|ang|ġemannian||to 
 * Kurdish:
 *: Kurmanji: {{t+|ku|dagirtin}}, {{t+|ku|dagir kirin}}
 * Norwegian:
-*: Bokmål: {{t|nb|bemanne}}
-*: Nynorsk: {{t|nn|bemanne}}, {{t|nn|bemanna}}
-* Portuguese: {{t+|pt|tripular}}
-* Spanish: {{t+|es|tripular}}
+*: Bokmål: {{t-simple|nb|langname=Norwegian Bokmål|bemanne}}
+*: Nynorsk: {{t-simple|nn|langname=Norwegian Nynorsk|bemanne}}, {{t-simple|nn|langname=Norwegian Nynorsk|bemanna}}
+* Portuguese: {{t-simple|interwiki=1|pt|langname=Portuguese|tripular}}
+* Spanish: {{t-simple|interwiki=1|es|langname=Spanish|tripular}}
 * Swedish: {{t+|sv|bemanna}}
 {{trans-bottom}}
 
@@ -249,9 +249,9 @@ From {{inh|en|enm|mannen}}, from {{inh|en|ang|mannian}}, {{m|ang|ġemannian||to 
 {{trans-mid}}
 * Japanese: {{t|ja|割り当てる|tr=wariateru|sc=Jpan}}, {{t+|ja|据える|tr=sueru|sc=Jpan}}
 * Norwegian:
-*: Bokmål: {{t|nb|bemanne}}
-*: Nynorsk: {{t|nn|bemanne}}, {{t|nn|bemanna}}
-* Portuguese: {{t+|pt|operar}}
+*: Bokmål: {{t-simple|nb|langname=Norwegian Bokmål|bemanne}}
+*: Nynorsk: {{t-simple|nn|langname=Norwegian Nynorsk|bemanne}}, {{t-simple|nn|langname=Norwegian Nynorsk|bemanna}}
+* Portuguese: {{t-simple|interwiki=1|pt|langname=Portuguese|operar}}
 * Spanish: {{t-simple|interwiki=1|es|langname=Spanish|reforzar}} {{qualifier|military}}, {{t-simple|interwiki=1|es|langname=Spanish|guarnecer}} {{qualifier|military}}, {{t-simple|es|langname=Spanish|encargarse de}} {{qualifier|encargarse}}, {{t-simple|interwiki=1|es|langname=Spanish|operar}}
 * Swedish: {{t+|sv|bemanna}}
 * Zazaki: {{t-simple|zza|langname=Zazaki|merdımey}}
