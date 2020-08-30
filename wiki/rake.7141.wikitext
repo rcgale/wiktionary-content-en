@@ -260,32 +260,41 @@ The {{glossary|noun}} is derived from the verb.<ref>{{R:OED Online|pos=''n.''{{s
 ===Etymology 3===
 [[File:DH2868 At Westfield (24051503844).jpg|thumb|Several rakes of [[wagon]]s ''(sense 4)'' in the railway yard at [[Westfield]], [[Otahuhu]], [[New Zealand]].]]
 
-From {{der|en|enm|-}}, from {{der|en|non|rák||trail}}, from {{der|en|gem-pro|*rēkō}}, {{m|gem-pro|*raką}}, {{m|gem-pro|*rakō}}, {{m|gem-pro|*rakǭ||file of tracks, line}}, from {{der|en|ine-pro|*h₃reǵ-||to straighten, direct}}. Cognate with {{cog|is|rák||streak, grazing}}, {{cog|is|raka||strip, series}}, {{cog|no|røk||grazing}}, {{cog|no|rak||wick}}, {{cog|ang|race}}, {{m|ang|racu||a run, riverbed}}.
+From {{inh|en|enm|rake}}, {{m|enm|rakke|t=pass, path, track; type of fencing thrust; pasture land (?)}},<ref>{{R:MED Online|entry=rāke|pos=''n.''(3)|noformat=1|id=MED35823}}</ref> and then partly:<ref name="OED n3">{{R:OED Online|pos=''n.''{{sup|3}}|noformat=1|id=157644|date=June 2008}}</ref>
+
+* probably from {{inh|en|ang|racu|t=bed of a stream; path; account, narrative; explanation; argument, reasoning; reason}} (compare {{cog|ang|hrace}}, {{m|ang|hraca}}, {{m|ang|hracu|t=gorge}}), from {{der|en|gem-pro|*rakō|t=path, track; course, direction; an unfolding, unwinding; account, narrative; argument, reasoning}}{{nb...|*raką, *rakǭ, *rēkō|otherforms=1}}, from {{der|en|ine-pro|*h₃reǵ-|t=to straighten, right oneself}}; and
+* from {{der|en|non|rák|t=strip; stripe; furrow; small mountain ravine}}, further etymology uncertain but probably ultimately from {{der|en|gem-pro|*rakō}}, as above.
+
+The English word is cognate with {{cog|is|rák|t=streak, stripe; notch in a rock; vein in stone or wood}}, {{cog|no|råk|t=channel (in ice); cow path; trail}}, {{cog|nn|råk|t=channel (in ice); cow path; trail; furrow; stripe}}, {{cog|sv|råk|t=crack or channel in ice; river valley}}, {{cog|gmq-bot|råk|t=crack or hole in ice; channel; swath, windrow; hair parting}}; and probably cognate with {{cog|gmq-oda|rag}} (modern {{cog|da|rag|t=stiff; taut}} {{qualifier|regional}}), {{cog|non|rakr|t=straight}}, {{cog|sv|rak|t=straight}}.<ref name="OED n3"/>
 
 ====Noun====
 {{en-noun}}
 
-# {{lb|en|provincial|Northern England}} A [[course]]; [[direction]]; [[stretch]].
-# {{lb|en|provincial|Northern England|for animals}} A [[range]], [[stray]].
-#: ''a sheep-'''raik''''' = a ''sheep-walk''
-# {{lb|en|mining}} A fissure or mineral vein traversing the strata vertically, or nearly so.
-# {{lb|en|rail|UK}} A set of coupled rail vehicles, normally coaches or wagons.
+# {{lb|en|Northern England|and|climbing|also|figurative}} A [[course#Noun|course]], a [[path]], especially a [[narrow#Adjective|narrow]] and [[steep#Adjective|steep]] path or [[route#Noun|route]] up a [[hillside]].
+# {{lb|en|mining}} A [[fissure#Noun|fissure]] or [[mineral]] [[vein]] of [[ore]] [[traverse|traversing]] the [[stratum|strata]] [[vertically]], or nearly so.
+# {{lb|en|Britain|originally|Northern England|Scotland}} A [[series]]; {{lb|en|rail transport|specifically}} a [[set#Noun|set]] of [[couple#Verb|coupled]] [[rail#Noun|rail]] [[vehicle]]s, normally [[coach#Noun|coaches]] or [[wagon#Noun|wagons]].
 #: {{synonyms|en|consist}}
 #: {{ux|en|The train was formed of a locomotive and a '''rake''' of six coaches.}}
-#* {{quote-journal|en|year=1959|month=April|title=Motive Power Miscellany: London Midland Region|journal=Trains Illustrated|page=222|text=On February 21 Class "O4/1" [[2-8-0]] No. 63635 passed through Manchester (Victoria) heading in the [[Rochdale]] direction with a '''rake''' of empty wagons.}}
-# {{lb|en|systems theory}} In [[cellular automaton|cellular automata]]: a [[puffer]] that emits a stream of [[spaceship]]s rather than a trail of [[debris]].
-
-====Alternative forms====
-* {{l|en|raik}}
+#* {{quote-journal|en|year=1959|month=April|title=Motive Power Miscellany: London Midland Region|journal=Trains Illustrated|page=222|text=On February 21 Class "O4/1" [[2-8-0]] No. 63635 passed through Manchester (Victoria) heading in the Rochdale direction with a '''rake''' of empty wagons.}}
+# {{lb|en|systems theory}} In [[cellular automaton|cellular automata]]: a [[puffer]] that [[emit]]s a [[stream#Noun|stream]] of [[spaceship]]s rather than a [[trail#Noun|trail]] of [[debris]].
+# {{lb|en|Midlands|Northern England}} {{alternative spelling of|en|raik|t=a course, a [[way]]; [[pastureland]] over which [[animal]]s [[graze#Verb|graze]]; a [[journey#Noun|journey]] to [[transport#Verb|transport]] something between [[two]] [[place#Noun|places]]; a [[run#Noun|run]]; also, the [[quantity]] of [[item]]s so transported.}}
 
 =====Translations=====
-{{trans-top|rail transport: set of vehicles}}
+{{trans-top|narrow and steep path or route up a hillside}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|set of coupled rail vehicles}}
 * French: {{t+|fr|rame|f}}
 * German: {{t|de|Wagenzug|m}}
 * Hungarian: {{t+|hu|szerelvény}}
 {{trans-mid}}
 * Italian: {{t+|it|convoglio|m}}
 * Swedish: {{t+|sv|radda|c}}
+{{trans-bottom}}
+
+{{trans-top|puffer that emits a stream of spaceships}}
+{{trans-mid}}
 {{trans-bottom}}
 
 ====Verb====
