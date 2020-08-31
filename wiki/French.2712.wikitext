@@ -65,7 +65,7 @@ In reference to vermouth, a shortened form of {{m|en|French vermouth}}, distingu
 ====Translations====
 {{trans-top|principal language of France and other related countries}}
 * Afrikaans: {{t+|af|Frans}}
-* Albanian: {{t+|sq|[[gjuha]] [[frënge]]|f}}
+* Albanian: {{t|sq|[[gjuha]] [[frënge]]|f}}
 * American Sign Language: {{t|ase|F@NearForehead-HandPalmDown F@NearForehead-HandPalmUp HorizSmallTwist|sc=Sgnw}}
 * Amharic: {{t|am|ፈረንሳይኛ|sc=Ethi}}
 * Antillean Creole: {{t|gcf|fransè}}
@@ -79,7 +79,7 @@ In reference to vermouth, a shortened form of {{m|en|French vermouth}}, distingu
 * Armenian: {{t+|hy|ֆրանսերեն}}
 * Assamese: {{t|as|ফৰাচী ভাষা}}
 * Asturian: {{t+|ast|francés}}
-* Azerbaijani: {{t+|az|[[Fransız]] [[dili]]}}
+* Azerbaijani: {{t|az|[[Fransız]] [[dili]]}}
 * Bambara: {{t|bm|Faransekan}}
 * Banjarese: {{t|bjn|[[bahasa]] [[Parancis]]}}
 * Basque: {{t+|eu|frantses}}
@@ -87,7 +87,7 @@ In reference to vermouth, a shortened form of {{m|en|French vermouth}}, distingu
 * Belarusian: {{t|be|францу́зская мо́ва|f}}
 * Bikol Central: {{t|bcl|Pranses}}
 * Breton: {{t+|br|galleg|m}}
-* Bulgarian: {{t|bg|[[фре́нски]] [[ези́к]]|m|sc=Cyrl}}, {{t|bg|фре́нски|m|sc=Cyrl}}
+* Bulgarian: {{t|bg|[[фре́нски]] [[ези́к]]|m|sc=Cyrl}}, {{t+|bg|фре́нски|m|sc=Cyrl}}
 * Burmese: {{t|my|ပြင်သစ်စကား|sc=Mymr}}
 * Catalan: {{t+|ca|francès|m}}
 *: Valencian: {{t+|ca|francés|m}}
@@ -109,12 +109,12 @@ In reference to vermouth, a shortened form of {{m|en|French vermouth}}, distingu
 * Dutch: {{t+|nl|Frans|n}}
 * East Futuna: {{t|fud|fakafalani}}
 * Esperanto: {{t+|eo|franca}}, {{t|eo|[[franca]] [[lingvo]]}}
-* Estonian: {{t|et|prantsuse}}, {{t+|et|[[prantsuse]] [[keel]]}}
+* Estonian: {{t|et|prantsuse}}, {{t|et|[[prantsuse]] [[keel]]}}
 * Ewe: {{t|ee|Fransegbe|n}}
 * Faroese: {{t+|fo|franskt|n}}
 * Finnish: {{t+|fi|ranska}}, {{t|fi|[[ranskan]] [[kieli]]}}
 * Franco-Provençal: {{t|frp|Francês}}
-* French: {{t+|fr|français|m}}, {{t+|fr|[[langue]] [[française]]|f}}
+* French: {{t+|fr|français|m}}, {{t|fr|[[langue]] [[française]]|f}}
 *: Middle French: {{t|frm|françoys|m}}
 *: Old French: {{t|fro|françois|m}}
 * Galician: {{t+|gl|francés|m}}
@@ -134,7 +134,7 @@ In reference to vermouth, a shortened form of {{m|en|French vermouth}}, distingu
 * Icelandic: {{t+|is|franska|f}}
 * Ido: {{t+|io|Franciana}}
 * Ilocano: {{t|ilo|Frances}}
-* Indonesian: {{t+|id|[[bahasa]] [[Perancis]]}}
+* Indonesian: {{t|id|[[bahasa]] [[Perancis]]}}
 * Interlingua: {{t+|ia|francese}}
 * Inuktitut: {{t|iu|ᐅᐃᕖᑎᑐᑦ|sc=Cans}}
 * Irish: {{t|ga|Fraincis|f}}
@@ -145,7 +145,7 @@ In reference to vermouth, a shortened form of {{m|en|French vermouth}}, distingu
 * Khmer: {{t+|km|ភាសាបារាំង|tr=pīăsā baarung}}
 * Komi-Zyrian: {{t|kpv|Франция кыв|sc=Cyrl}}
 * Kongo: {{t|kg|Kifalanse}}
-* Korean: {{t+|ko|프랑스어}} ({{t+|ko|-[[語]]}}), {{t+|ko|불어}} ({{t+|ko|佛語}})
+* Korean: {{t+|ko|프랑스어}} ({{t|ko|-[[語]]}}), {{t+|ko|불어}} ({{t+|ko|佛語}})
 * Kurdish: {{t+|ku|zimanê fransî}}, {{t+|ku|frensî}}, {{t+|ku|ferensayî}}
 *: Central Kurdish: {{t|ckb|فەرەنساوی}}
 * Kyrgyz: {{t|ky|франсузча}}
@@ -334,7 +334,7 @@ The use of the plural form ''Frenches'' occurred in early modern English but is 
 * Italian: {{t-check|it|i francesi|m-p}}
 {{trans-mid}}
 * Japanese: {{t+|ja|フランス人|tr=フランスじん, furansujin}}, {{t|ja|仏人|tr=ふつじん, futsujin|sc=Jpan}}
-* Korean: {{t+|ko|[[프랑스]][[인]]}} ({{t+|ko|-[[人]]}}), {{t+|ko|[[프랑스]] [[사람]]}}
+* Korean: {{t|ko|[[프랑스]][[인]]}} ({{t|ko|-[[人]]}}), {{t|ko|[[프랑스]] [[사람]]}}
 * Latin: {{t+|la|Galli}}, {{t|la|Francogalli}}
 * Latvian: {{t|lv|franči}}
 * Lithuanian: {{t+|lt|prancūzai}}
@@ -556,7 +556,7 @@ The use of the plural form ''Frenches'' occurred in early modern English but is 
 * Basque: {{t+|eu|frantziar}}, {{t+|eu|frantses}}
 * Belarusian: {{t|be|францу́зскі}}
 * Bengali: {{t+|bn|ফরাসি}}
-* Bulgarian: {{t|bg|фре́нски}}
+* Bulgarian: {{t+|bg|фре́нски}}
 * Burmese: {{t|my|ပြင်သစ်}}
 * Catalan: {{t+|ca|francès}}
 * Chinese:
@@ -639,7 +639,7 @@ The use of the plural form ''Frenches'' occurred in early modern English but is 
 * Arabic: {{t+|ar|فَرَنْسِيّ}}, {{t|ar|فَرَنْسَاوِيّ}}
 *: Egyptian Arabic: {{t|arz|فرنساوي|tr=faransāwi|sc=Arab}}
 * Armenian: {{t+|hy|ֆրանսիական}}
-* Bulgarian: {{t|bg|френски|sc=Cyrl}}
+* Bulgarian: {{t+|bg|френски|sc=Cyrl}}
 * Catalan: {{t+|ca|francès}}
 * Chinese:
 *: Mandarin: {{t+|cmn|法國人|alt=法國人的|sc=Hani}}, {{t+|cmn|法国人|alt=法国人的|tr=gǎguórén de|sc=Hani}}
