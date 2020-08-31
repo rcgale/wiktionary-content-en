@@ -31,8 +31,14 @@ From {{bor|en|fr|complexe}}, from {{der|en|la|complexus}}, past participle of {{
 # Not [[simple]], [[easy]], or [[straightforward]]; [[complicated]].
 #* {{RQ:Whewell History of the Inductive Sciences}}
 #*: When the actual motions of the heavens are calculated in the best possible way, the process is '''complex''' and difficult.
-# {{lb|en|mathematics}} Of a number, of the form ''a + bi'', where ''a'' and ''b'' are [[real number]]s and ''i'' is a [[square root]] of &minus;1.
-#: {{uxi|en|'''complex''' function}}
+# {{lb|en|mathematics|of a number}} Having the form ''a + bi'', where ''a'' and ''b'' are [[real number]]s and ''i'' is (by definition) the [[imaginary]] [[square root]] of −1.
+#: {{uxi|en|[[complex number|'''complex''' number]]}}
+#: {{uxi|en|function of a '''complex''' variable}}
+# {{lb|en|mathematics|analysis|of a function}} Whose [[range]] is a subset of the [[complex number]]s.
+#: {{uxi|en|[[complex function|'''complex''' function]]}}
+# {{lb|en|mathematics|algebra}} Whose [[coefficient]]s are [[complex number]]s; defined over the [[field]] of complex numbers.
+#: {{uxi|en|'''complex''' [[polynomial]]}}
+#: {{uxi|en|'''complex''' [[algebraic variety]]}}
 # {{lb|en|geometry}} A [[curve]], polygon or other figure that crosses or intersects itself.
 
 ====Synonyms====
@@ -42,6 +48,7 @@ From {{bor|en|fr|complexe}}, from {{der|en|la|complexus}}, past participle of {{
 * {{sense|not simple}} {{l|en|basic}}, {{l|en|easy}}, {{l|en|simple}}, {{l|en|simplex}}, {{l|en|straightforward}}
 
 ====Derived terms====
+* {{l|en|complex function}}
 * {{l|en|complexify}}
 * {{l|en|complexity}}
 * {{l|en|complexness}}
