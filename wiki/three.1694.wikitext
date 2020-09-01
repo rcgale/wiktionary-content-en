@@ -68,7 +68,7 @@ From {{inh|en|enm|thre}}, {{m|enm|threo}}, {{m|enm|thrie}}, {{m|enm|thri}}, from
 * Bay Miwok: {{t|mkq|teleeka}}
 * Belarusian: {{t+|be|тры}}, {{qualifier|collective}} {{t|be|тро́е|sc=Cyrl}}, {{t|be|тро́йка|f|sc=Cyrl}}
 * Bengali: {{t+|bn|তিন|sc=Beng}} (numeral: [[৩]])
-* Bikol Central: {{t+|bcl|tulo}}
+* Bikol Central: {{t|bcl|tulo}}
 * Brahui: {{t|brh|musiŧ}}
 * Breton: {{t+|br|tri|m}}, {{t+|br|teir|f}}
 * Brunei Malay: {{t|kxd|tiga}}
@@ -116,7 +116,7 @@ From {{inh|en|enm|thre}}, {{m|enm|threo}}, {{m|enm|thrie}}, {{m|enm|thri}}, from
 * Esperanto: {{t+|eo|tri}}
 * Estonian: {{t+|et|kolm}}
 * Evenki: {{t|evn|илан}}
-* Faroese: {{t|fo|tríggir|m}}, {{t|fo|tríggjar|f}}, {{t|fo|trý|n}}, {{t|fo|trinnir|m}} {{qualifier|distributive number}}
+* Faroese: {{t|fo|tríggir|m}}, {{t|fo|tríggjar|f}}, {{t+|fo|trý|n}}, {{t|fo|trinnir|m}} {{qualifier|distributive number}}
 * Fijian: {{t+|fj|tolu}}
 * Finnish: {{t+|fi|kolme}}
 * French: {{t+|fr|trois}}
@@ -163,13 +163,13 @@ From {{inh|en|enm|thre}}, {{m|enm|threo}}, {{m|enm|thrie}}, {{m|enm|thri}}, from
 * Kabardian: {{t|kbd|щы}}
 * Kalmyk: {{t|xal|һурвн}}
 * Kannada: {{t+|kn|ಮೂರು}}: (numeral: {{t+|kn|೩}})
-* Kapampangan: {{t+|pam|atlu}}
+* Kapampangan: {{t|pam|atlu}}
 * Karachay-Balkar: {{t|krc|юч|tr=üç|sc=Cyrl}}
 * Karaim: {{t|kdr|üč}}
 * Karakhanid: {{t|xqa|اُجْ|tr=üč}}
 * Karelian: {{t|krl|kolme}}
 * Kashubian: {{t|csb|trzë}}
-* Kaurna: {{t+|zku|marnkutyi}}
+* Kaurna: {{t|zku|marnkutyi}}
 * Kazakh: {{t+|kk|үш}}
 * Khakas: {{t|kjh|ӱс}}
 * Khanty: {{t|kca|хәԓум}} {{qualifier|Kazym}}
@@ -203,7 +203,7 @@ From {{inh|en|enm|thre}}, {{m|enm|threo}}, {{m|enm|thrie}}, {{m|enm|thri}}, from
 * Malagasy: {{t+|mg|telo}}
 * Malay:
 *: Jawi: {{t|ms|تيݢ|sc=Arab}}, {{t|ms|تلو|sc=Arab}}, {{t|ms|تري|sc=Arab}}
-*: Rumi: {{t+|ms|tiga}}, {{t|ms|telu}}, {{t|ms|tri}}
+*: Rumi: {{t+|ms|tiga}}, {{t+|ms|telu}}, {{t|ms|tri}}
 * Malayalam: {{t|ml|മൂന്നു}}, {{t+|ml|മൂന്ന്}} (numeral: [[൩]])
 * Maltese: {{t+|mt|tlieta}}
 {{trans-mid}}
@@ -288,7 +288,7 @@ From {{inh|en|enm|thre}}, {{m|enm|threo}}, {{m|enm|thrie}}, {{m|enm|thri}}, from
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|три̑|sc=Cyrl}}
 *: Roman: {{t|sh|trȋ}}
-* Shan: {{t|shn|သၢမ်}} (numeral: [[႓]])
+* Shan: {{t+|shn|သၢမ်}} (numeral: [[႓]])
 * Shor: {{t|cjs|ӱш|tr=üş|sc=Cyrl}}
 * Sichuan Yi: {{t|ii|ꌕ|tr=suo}}
 * Sicilian: {{t+|scn|tri}}
@@ -430,9 +430,9 @@ From {{inh|en|enm|thre}}, {{m|enm|threo}}, {{m|enm|thrie}}, {{m|enm|thri}}, from
 * Asturian: {{t+|ast|tres|m}}
 * Basque: {{t+|eu|hiru}}
 * Belarusian: {{t|be|тро́йка|f}}
-* Bikol Central: {{t+|bcl|tulo}}
+* Bikol Central: {{t|bcl|tulo}}
 * Catalan: {{t+|ca|tres|m}}
-* Cebuano: {{t+|ceb|tulo}}
+* Cebuano: {{t|ceb|tulo}}
 * Danish: {{t+|da|tre}}
 * Dutch: {{t+|nl|drie|f}}
 * Finnish: {{t+|fi|kolmonen}}
@@ -443,7 +443,7 @@ From {{inh|en|enm|thre}}, {{m|enm|threo}}, {{m|enm|thrie}}, {{m|enm|thri}}, from
 * Hebrew: {{t+|he|שלוש|f|tr=shalósh}}
 * Hindi: {{t+|hi|तीन|m}}
 * Hungarian: {{t+|hu|hármas}}
-* Ilocano: {{t+|ilo|tallo}}
+* Ilocano: {{t|ilo|tallo}}
 * Italian: {{t+|it|tre}}
 * Japanese: {{t+|ja|san}}
 * Latin: {{t+|la|tribus}}
@@ -472,22 +472,22 @@ From {{inh|en|enm|thre}}, {{m|enm|threo}}, {{m|enm|thrie}}, {{m|enm|thri}}, from
 {{trans-bottom}}
 
 {{trans-top|anything measuring three units}}
-* Finnish: {{t|fi|kolmonen}}
+* Finnish: {{t+|fi|kolmonen}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|person who is three years old}}
-* Finnish: {{t|fi|kolmivuotias}}; {{t|fi|kolmonen}} {{q|colloquial}}
+* Finnish: {{t|fi|kolmivuotias}}; {{t+|fi|kolmonen}} {{q|colloquial}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|playing card}}
-* Finnish: {{t|fi|kolmonen}}
+* Finnish: {{t+|fi|kolmonen}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|basketball: abbreviation of three-pointer}}
-* Finnish: {{t|fi|kolmonen}}
+* Finnish: {{t+|fi|kolmonen}}
 {{trans-mid}}
 {{trans-bottom}}
 
