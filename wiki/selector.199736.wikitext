@@ -14,13 +14,17 @@
 #* '''1949''', ''Billboard'' (volume 61, number 34, page 97)
 #*: There is one selection for hot chocolate. All '''selectors''' are the push button type.
 # {{lb|en|cricket}} An [[administrator]] responsible for selecting which [[player]]s will [[play]] for a [[side]].
-# {{lb|en|internet}} A [[match]]ing [[expression]] in a [[stylesheet]] determining which [[element]]s in the [[markup]] are affected by a [[style]].
-# {{lb|en|internet}} A [[text]] [[string]] transmitted to a [[Gopher]] [[server]], identifying the [[resource]] to be retrieved.
+# {{lb|en|computing|programming}} A [[match]]ing [[expression]] in a [[stylesheet]] determining which [[element]]s in the [[markup]] are affected by a [[style]].
+#* '''2007''', Craig Cook, David Schultz, ''Beginning HTML with CSS and XHTML'', Apress ({{ISBN|9781430203506}}), page 28:
+#*: The ID '''selector''' targets just one element per page, making it much more specific than a class '''selector''' that might target many.
+#* '''2009''', Dino Esposito, ''Microsoft ASP.NET and AJAX'', Microsoft Press ({{ISBN|9780735698253}}), page 140:
+#*: The '''selector''' indicates the query expression to run over the DOM; the context indicates the portion of the DOM from which to run the query.
 # {{lb|en|computing}} A [[pointer]] to a [[structure]] describing a [[segment]] of [[memory]].
 #* '''1990''', ''Byte'' (volume 15, issues 11-13, page 256)
 #*: Phar Lap executables {{...}} provide a protected-mode '''selector''', 34h, that maps to the first megabyte of physical memory.
 #* '''1995''', Lary L. Myers, ‎Keith Weiskamp, ''Amazing 3-D games adventure set'' (page 235)
 #*: You will only have to be concerned with DPMI, '''selectors''', and such, if you use Borland C++ in DOS.
+# {{lb|en|internet|historical}} A [[text]] [[string]] transmitted to a [[Gopher]] [[server]], identifying the [[resource]] to be retrieved.
 # {{lb|en|music}} A [[disc jockey]].
 #* {{quote-song|en|title=Medicine Ball|artist=Eminem|album=Relapse|year=2009|passage=That's my sector, homosexual dissector / Come again, rewind '''selector'''}}
 #* '''2011''', Julian Henriques, ''Sonic Bodies'', A&C Black ({{ISBN|9781441144294}}), page 125:
@@ -34,7 +38,7 @@
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|(Internet) text string identifying a Gopher resource to be retrieved}}
+{{trans-top|text string identifying a Gopher resource to be retrieved}}
 * Maori: {{t|mi|pūtīpako }}
 {{trans-mid}}
 {{trans-bottom}}
