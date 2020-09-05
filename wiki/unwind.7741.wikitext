@@ -22,6 +22,9 @@ From {{inh|en|enm|unwinden}}, from {{inh|en|ang|unwindan|t=to unwind; unwrap}}, 
 #: {{ux|en|After work, I like to '''unwind''' by smoking a pipe while reading the paper.}}
 # {{lb|en|intransitive}} To be or become unwound; to be capable of being unwound or untwisted.
 # {{lb|en|transitive|finance}} To [[undo]] something.
+# {{lb|en|transitive|programming}} To analyse (a [[call stack]]) so as to generate a [[stack trace]] etc.
+#* '''2006''', Hans-Wolfgang Loidl, ''Trends in Functional Programming'' (volume 5, page 62)
+#*: If the expression is a throw, we '''''unwind''' the stack'' seeking a handler expression.
 
 ====Related terms====
 * {{l|en|wind}}
