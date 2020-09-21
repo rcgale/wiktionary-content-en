@@ -1,7 +1,7 @@
 ==English==
 
 ===Noun===
-{{en-noun|inverse matrices|es}}
+{{en-noun|inverse matrices|+}}
 
 # {{lb|en|linear algebra}} Of a [[matrix]] ''A'', another matrix ''B'' such that ''A'' multiplied by ''B'' and ''B'' multiplied by ''A'' both equal the [[identity matrix]]. <!--Note: matrix multiplication is not commutative, so B x A is not the same as A x B; both of the stated conditions must hold for matrix B to be the inverse matrix of matrix A-->
 #: Given the basis of some vector space ''V'', how to find its dual basis, i.e., the basis of the dual space <math>V^*</math>? Fill the columns of a square matrix ''M'' with the basis vectors of ''V''. Find the '''inverse matrix''' <math>M^{-1}</math> of ''M''. Then the rows of <math>M^{-1}</math> are the (co)vectors of that dual basis. Since <math>(M^{-1})^{-1} = M</math>, then <math>(V^*)^* = V</math>.
