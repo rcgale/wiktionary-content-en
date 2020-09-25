@@ -106,42 +106,71 @@ From {{inh|is|non|lesa}}, from {{inh|is|gem-pro|*lesaną}}.
 ==Norwegian Nynorsk==
 
 ===Alternative forms===
-* {{alter|nn|lese}}
+* {{alter|nn|lese}} {{q|e-infinitive}}
 
 ===Etymology===
-From {{inh|nn|non|lesa}}.
+{{PIE root|nn|les}}
+From {{inh|nn|non|lesa}}, from {{inh|nn|gem-pro|*lesaną}}.
 
 ===Pronunciation===
-* {{IPA|no|/²leːsɑ/}}
+* {{IPA|nn|/²leːsɑ/}} {{nn-pronu-note}}
 
 ===Verb===
-{{nn-verb-irreg|les|las|lese}} {{catlangname|nn|strong verbs|class 5 strong verbs}}
+{{head|nn|verb|cat2=strong verbs|cat3=class 5 strong verbs|present tense|les|past tense|las|supine|lese|past participle|lesen|present participle|lesande|imperative|les}}
 
-# [[read]]
+# {{lb|nn|transitive|or|intransitive}} to [[read]]
 #: {{ux|nn|Har du '''lese''' boka?|Have you '''read''' the book?}}
+# {{lb|nn|transitive|or|intransitive}} to [[read]] [[aloud]]
+# {{lb|nn|transitive|or|intransitive}} to [[study]]
+# {{lb|nn|transitive|or|intransitive}} to [[tutor]], [[teach]]
 
-====References====
-* {{R:Dokumentasjonsprosjektet|lang=nn}}
+====Usage notes====
+* This is a split infinitive verb.
+
+====Derived terms====
+{{col4|nn|finlesa|forelesa|førelesa|forlesa|lesa mellom linene|lesa mellom linjene|lesa opp for|lesa på munnen|lesar|lesa seg til|lesa teksta|lesa ut|lesebok|lesebrille|lesedrama|lesedugleik|lesefør|lesehest|lesehug|leselampe|leseleg|leselyst|lesepenn|leseplikt|leseprøve|lesepult|lesering|lesesal|lesesirkel|lesestoff|lesestykke|lesesvak|lesevanske|leseveik|leseverk|lesing|lesnad|nilesa|skumlesa|smuglesa|sprenglesa|tinglesa|tjuvlesa|uleseleg|ulesen}}
+
+====Related terms====
+* {{l|nn|lester|g=m}}
+
+===References===
+* {{R:The Nynorsk Dictionary}}
+
+===Anagrams===
+* {{anagrams|nn|a=aels|Asle|Elsa|elas|esla|lase|leas|lesa|sale|sela}}
 
 ----
 
 ==Old Norse==
 
 ===Etymology===
+{{PIE root|non|les}}
 From {{inh|non|gem-pro|*lesaną}}. The sense “read” is derived from West Germanic (Old Saxon or Old High German), a semantic loan of {{noncog|la|legō|t=gather, read}}; for reading the Germanic [[rune]]s, which were in use before the adoption of the Latin alphabet, the usual verb had been {{m|non|ráða}} (same as {{cog|en|read}}).
 
 ===Verb===
-{{non-verb}}
+{{non-verb|las|lásu|lesinn}}
 
 # to [[gather]], [[pick]]
 # to [[read]]
 
+====Conjugation====
+{{non-conj-strong|class=5|les|1r=less|1s=les|las|2s=las|lás|3i=læs|les}}
+
 ====Descendants====
+{{top2}}
 * {{desc|is|lesa}}
 * {{desc|fo|lesa}}
-* {{desc|no|lese}}
+* {{desc|nn|lesa}}, {{l|nn|lese}}
+* {{desc|nb|lese}}
 * {{desc|da|læse}}
 * {{desc|sv|läsa}}
+{{bottom}}
+
+===References===
+* {{R:Zoega}}
+
+===Anagrams===
+* {{anagrams|non|a=aels|sela}}
 
 ----
 
