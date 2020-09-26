@@ -37,14 +37,15 @@ From {{der|is|non|byggja}}, {{m|non|byggva}}. Compare {{cog|sco|big}}.
 ==Norwegian Nynorsk==
 
 ===Alternative forms===
-* {{l|nn|byggje}}
-* {{nn-inf|bygg}}
+* {{alter|nn|byggje}} {{q|e- and split infinitives, also with j-infix}}
+* {{alter|nn|bygga|bygge}} {{q|witout the j-infix}}
 
 ===Etymology===
-From {{der|nn|non|byggja}}.
+{{PIE root|nn|bʰuH}}
+From {{inh|nn|non|byggja}}, {{m|non|byggva}}, from {{inh|nn|gem-pro|*būwijaną}}.
 
 ===Pronunciation===
-* {{IPA|no|/²bʏjːɑ/|/²bʏɟ͡ʝːɑ/|/²bʏʝːɑ/}}
+* {{IPA|nn|/²bʏjːɑ/|/²bʏɟ͡ʝːɑ/|/²bʏʝːɑ/}}
 
 ===Verb===
 {{nn-verb-3}}
@@ -53,38 +54,27 @@ From {{der|nn|non|byggja}}.
 #: {{usex|nn|Dei skal '''byggja''' eit nytt kjøpesenter her.|They will '''build''' a new shopping centre here.}}
 
 ====Derived terms====
-* {{l|nn|byggjekloss}}
+* {{l|nn|bygg|g=n}}
+* {{l|nn|byggjekloss|g=m}}
+
+====Related terms====
+* {{l|nn|bu|g=f}} ''and'' {{q|verb}}
+* {{l|nn|by|g=m}}
+* {{l|nn|bygd|g=f}}
 
 ===References===
-* {{R:Dokpro|lang=nn}}
+* {{R:The Nynorsk Dictionary}}
 
 ----
 
 ==Old Norse==
 
 ===Etymology 1===
-From {{inh|non|gem-pro|*bugjaną||to buy, purchase}}. Cognate with {{cog|ang|bycgan}}, {{cog|osx|buggian}}, {{cog|got|𐌱𐌿𐌲𐌾𐌰𐌽}}.
-
-====Verb====
-{{non-verb|bygði|bygðu|bygðr}}
-
-# to [[let out]]
-# to [[lend]] [[money]] at interest
-
-=====Descendants=====
-{{top2}}
-* {{desc|fo|byggja}}
-* {{desc|is|byggja}}
-{{mid2}}
-* {{desc|nn|byggje}}
-* {{desc|gmq-osw|byggia}}
-{{bottom}}
-
-===Etymology 2===
+{{PIE root|non|bʰuH}}
 From {{inh|non|gem-pro|*būwijaną||to build, settle}}.
 
 ====Alternative forms====
-* {{l|non|byggva}}
+* {{alter|non|byggva}} {{q|with v-infix}}
 
 ====Verb====
 {{non-verb|bygði|bygðu|bygðr}}
@@ -95,5 +85,27 @@ From {{inh|non|gem-pro|*būwijaną||to build, settle}}.
 =====Conjugation=====
 {{non-conj-weak1-long|bygg|1j=byggj|bygð|bygð|bygð}}
 
-====References====
+=====Descendants=====
+{{top2}}
+* {{desc|fo|byggja}}
+* {{desc|is|byggja}}
+* {{desc|nn|byggja|alts=1}}
+* {{desc|nb|bygge}}
+* {{desc|sv|bygga}}
+* {{desc|da|bygge}}
+{{bottom}}
+
+===Etymology 2===
+From {{inh|non|gem-pro|*bugjaną||to buy, purchase}}. Cognate with {{cog|ang|bycgan}}, {{cog|osx|buggian}}, {{cog|got|𐌱𐌿𐌲𐌾𐌰𐌽}}.
+
+====Verb====
+{{non-verb|bygði|bygðu|bygðr}}
+
+# to [[let out]]
+# to [[lend]] [[money]] at interest
+
+=====Conjugation=====
+{{non-conj-weak1-long|bygg|1j=byggj|bygð|bygð|bygð}}
+
+===References===
 * {{R:Zoega}}
