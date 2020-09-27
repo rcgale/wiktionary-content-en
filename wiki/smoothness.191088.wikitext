@@ -1,4 +1,5 @@
 ==English==
+{{wikipedia}}
 
 ===Etymology===
 From {{inh|en|enm|smethnes}}, *{{m|enm||smothnes}}, from {{inh|en|ang|smēþnes}}, *{{m|ang||smōþnes|smoothness, a smooth place, a level surface}}, equivalent to {{suffix|en|smooth|ness}}.
@@ -6,11 +7,22 @@ From {{inh|en|enm|smethnes}}, *{{m|enm||smothnes}}, from {{inh|en|ang|smēþnes}
 ===Noun===
 {{en-noun|~}}
 
-# The condition of being [[smooth]].
+# The condition of being [[smooth]]; the degree or measure of said condition.
+#* '''1998''', Vladimir V. Senatov, ''Normal Approximation: New Results, Methods and Problems'', Walter de Gruyter (VSP), [https://books.google.com.au/books?id=f1GNsiF8Zp8C&pg=PA32&dq=%22smoothness%22%7C%22smoothnesses%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwipnNGz1IjsAhUSWqwKHSvuAWEQ6AEwHnoECEsQAg#v=onepage&q=%22smoothness%22%7C%22smoothnesses%22&f=false page 32],
+#*: The ‘'''smoothness'''’ of distributions can be understood in various senses, this is why we used quotation marks before; further we will drop them. The '''smoothness''' can be understood as the differentiability of the distribution function, boundedness of some of its derivatives, the existence of the absolutely continuous component, the decrease of the characteristic function with a certain rate, the validity of the Cramér condition, the condition <math>\sigma(\Phi)\rightarrow 0</math> as <math>n\rightarrow\infty</math>, etc.
+#* '''2013''', Robert Otto Rasmussen, ''et al.'', ''Real-time '''Smoothness''' Measurements on Portland Cement Concrete Pavements During Construction'', {{w|Transportation Research Board}}, [https://books.google.com.au/books?id=QtWk5xfGazkC&pg=PA3&dq=%22smoothness%22%7C%22smoothnesses%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwipnNGz1IjsAhUSWqwKHSvuAWEQ6AEwBHoECB0QAg#v=onepage&q=%22smoothness%22%7C%22smoothnesses%22&f=false page 3],
+#*: With it,<sup>[a pavement profile]</sup> paving operations can be adjusted "on the fly" to maintain or improve '''smoothness'''.
+# {{lb|en|analysis|of a function}} The highest order of [[derivative]] (the [[differentiability class]]) over a given [[domain]].
+#: {{ux|en|'''Smoothness''' can vary from 0 (for a nondifferentiable function) to infinity (for a [[smooth function]]).}}
+# {{lb|en|approximation theory|numerical analysis|of a function}} The quantity measured by the [[modulus of smoothness]].
+#* '''2013''', Feng Dai, Yuan Xu, ''Approximation Theory and Harmonic Analysis on Spheres and Balls'', Springer, [https://books.google.com.au/books?id=8SA_AAAAQBAJ&pg=PA79&dq=%22smoothness%22%7C%22smoothnesses%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwipnNGz1IjsAhUSWqwKHSvuAWEQ6AEwFXoECEEQAg#v=onepage&q=%22smoothness%22%7C%22smoothnesses%22&f=false page 79],
+#*: A central problem in approximation theory is to characterize the best approximation of a function by polynomials, or other classes of simple functions, in terms of the '''smoothness''' of the function. In this chapter, we study the characterization of the best approximation by polynomials on the sphere. In the classical setting of one variable, the '''smoothness''' of a function on <math>\mathbb S^1</math> is described by the modulus of '''smoothness''', defined by the forward difference.
 
 ====Antonyms====
-* {{l|en|jerkiness}}
-* {{l|en|roughness}}
+* {{sense|condition of being smooth}} {{l|en|jerkiness}}, {{l|en|roughness}}
+
+====Derived terms====
+* {{l|en|modulus of smoothness}}
 
 ====Translations====
 {{trans-top|condition of being smooth}}
@@ -26,3 +38,17 @@ From {{inh|en|enm|smethnes}}, *{{m|enm||smothnes}}, from {{inh|en|ang|smēþnes}
 * Latvian: {{t|lv|gludums|m}}
 * Portuguese: {{t+|pt|suavidade|f}}
 {{trans-bottom}}
+
+{{trans-top|quantitative measure of how smooth a function is}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===See also===
+* {{l|en|differentiability class}}
+* {{l|en|modulus of continuity}}
+* {{l|en|modulus of smoothness}}
+* {{l|en|uniform continuity}}
+
+===Further reading===
+* {{pedialite|Modulus of smoothness}}
+* {{pedialite|Modulus of continuity}}
