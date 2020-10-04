@@ -13,132 +13,13 @@
 # {{lb|en|software}} [[Software]] that controls the allocation and usage of [[hardware]] resources such as memory, CPU time, disk space, and input and output devices.
 
 ====Synonyms====
-* [[OS]]
+* OS
 
 ====Hypernyms====
-* {{l|en|system}}
+* 
 
 ====Hyponyms====
-{{col4|en|asynchronous operating system
-|atomic operating system
-|back-end operating system
-|built-in operating system
-|capability-based operating system
-|cloud-based operating system
-|database operating system
-|disk operating system
-|distributed operating system
-|distributed database operating system
-|embedded operating system
-|front-end operating system
-|fuzzy operating system
-|guest operating system
-|in-memory operating system
-|library operating system
-|logic operating system
-|logical operating system
-|mainframe operating system
-|micro-controller operating system
-|middleware operating system
-|mobile operating system
-|multi-tasking operating system
-|multi-user operating system
-|network operating system
-|non-Unix Operating System
-|proprietary operating system
-|real-time operating system
-|real-time multiprogramming operating system
-|safety-critical operating system
-|security-evaluated operating system
-|security-focused operating system
-|single-tasking operating system
-|single-user operating system
-|synchronous operating system
-|templated operating system
-|time-sharing operating system
-|time-sharing RSTS operating system
-|trusted operating system
-|Unix-like operating system
-|Web operating system
-}}
-
 ====Translations====
-{{trans-top|software which controls computer}}
-* Afrikaans: {{t|af|bedryfstelsel}}
-* Arabic: {{t|ar|نِظَام تَشْغِيل|m}}
-* Armenian: {{t|hy|օպերացիոն համակարգ}}
-* Asturian: {{t|ast|sistema operativu|m}}
-* Azerbaijani: {{t|az|əməliyyət sistemi}}
-* Bangala: {{t|bxg|পরিচালন সিস্টেম}}
-* Basque: {{t|eu|sistema eragile}}
-* Belarusian: {{t|be|аперацы́йная сістэ́ма|f}}
-* Bulgarian: {{t|bg|операцио́нна систе́ма|f}}
-* Catalan: {{t|ca|sistema operatiu|m}}
-* Chinese:
-*: Mandarin: {{t+|cmn|操作系統}}, {{t+|cmn|操作系统|tr=cāozuò xìtǒng}}
-*: Min Nan: {{t|nan|操作系統}}, {{t|nan|操作系统|tr=chok-gia̍p hē-thóng}}
-* Czech: {{t|cs|operační systém|m}}
-* Danish: {{t|da|styresystem|n}}, {{t|da|operativsystem|n}}
-* Dutch: {{t+|nl|besturingssysteem|n}}
-* Esperanto: {{t+|eo|operaciumo}}
-* Estonian: {{t|et|operatsioonisüsteem}}
-* Finnish: {{t+|fi|käyttöjärjestelmä}}
-* French: {{t+|fr|système d’exploitation|m}}
-* Galician: {{t|gl|sistema operativo|m}}
-* Georgian: {{t|ka|ოპერაციული სისტემა}}
-* German: {{t+|de|Betriebssystem|n}}
-* Greek: {{t+|el|λειτουργικό σύστημα|n}}
-* Hebrew: {{t+|he|מערכת הפעלה|f|tr=ma'arékhet-haf'alá}}
-* Hungarian: {{t+|hu|operációs rendszer}}
-* Icelandic: {{t|is|stýrikerfi|n}}, {{t|is|stjórnkerfi|n}} {{qualifier|rare}}
-* Ido: {{t|io|operaco-sistemo}}
-* Indonesian: {{t|id|sistem operasi}}, {{t|id|sistem operasional}}, {{t|id|sistem pengoperasian}}
-* Interlingua: {{t|ia|systema de operation}}
-* Irish: {{t|ga|córas oibriúcháin|m}}
-* Italian: {{t+|it|sistema operativo|m}}
-* Japanese: {{t+|ja|オペレーティングシステム|tr=opēretingushisutemu}}
-* Kashubian: {{t|csb|òperacjowô systema}}
-* Kazakh: {{t|kk|операциялық жүйе}}
-* Korean: {{t|ko|운영 체제}} ({{t|ko|運營體制}}), {{t|ko|오퍼레이팅 시스템}}, {{t|ko|조작체계|tr=jojakchegye}} ({{t|ko|操作體系}})
-* Kurdish: {{t+|ku|sîstema şixulandinê}}
-{{trans-mid}}
-* Lao: {{t|lo|ລະບົບປະຕິບັດການ}}
-* Latin: {{t|la|systema internum|n}}, {{t|la|systema operationis|n}}
-* Latvian: {{t|lv|operacionālā sistēma}}
-* Lithuanian: {{t+|lt|operacinė sistema}}
-* Low German: {{t|nds|Bedriefsysteem}}
-* Macedonian: {{t|mk|операти́вен систем|m}}
-* Malagasy: {{t+|mg|mpandrindra milina}}
-* Malay: {{t|ms|sistem pengendalian}}, {{t|ms|sistem pengoperasian}}
-* Malayalam: {{t|ml|ഓപറേറ്റിങ്ങ് സിസ്റ്റം}}
-* Maori: {{t|mi|pūnaha mahi}}
-* Mongolian: {{t|mn|үйлдлийн систем|sc=Cyrl}}, {{t|mn|ᠦᠢᠯᠡᠳᠦᠯ ᠦᠨ ᠰᠢᠰᠲ᠋ᠧᠮ|tr=üildliin sistyem|sc=Mong}}
-* Norman: {{t|nrf|système d'opéthâtion|m}}
-* Norwegian:
-*: Bokmål: {{t|nb|operativsystem|n}}
-*: Nynorsk: {{t|nn|operativsystem|n}}
-* Persian: {{t|fa|سیستم عامل|tr=sistem âmel}}
-* Polish: {{t+|pl|system operacyjny|m-in}}
-* Portuguese: {{qualifier|Portugal}} {{t+|pt|sistema operativo|m}}, {{qualifier|Brazil}} {{t+|pt|sistema operacional|m}}
-* Romanian: {{t|ro|[[sistem]] [[de]] [[operare]]|n}}, {{t|ro|sistem operațional|n}}
-* Russian: {{t+|ru|операцио́нная систе́ма|f}}
-* Serbo-Croatian:
-*: Cyrillic: {{t|sh|оперативни систем|m|sc=Cyrl}}, {{t|sh|опера́цӣјскӣ су́став|m|sc=Cyrl}}
-*: Roman: {{t|sh|operativni sistem|m}}, {{t|sh|operácījskī sústav|m}}
-* Slovak: {{t+|sk|operačný systém|m}}
-* Slovene: {{t|sl|operacijski sistem|m}}
-* Spanish: {{t+|es|sistema operativo|m}}
-* Swedish: {{t+|sv|operativsystem}}
-* Tamil: {{t|ta|இயங்குதளம்}}
-* Thai: {{t|th|ระบบปฏิบัติการ}}
-* Turkish: {{t+|tr|işletim sistemi}}
-* Ukrainian: {{t|uk|операці́йна систе́ма|f}}
-* Uyghur: {{t|ug|مەشغۇلات سىستېمىسى}}
-* Vietnamese: {{t|vi|hệ điều hành}}
-* Welsh: {{t|cy|system weithredu}}
-* Zulu: {{t-needed|zu}}
-{{trans-bottom}}
-
 ===References===
 * {{pedia|List of operating systems}}
 * {{pedia}}
