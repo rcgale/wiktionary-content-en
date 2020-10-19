@@ -660,6 +660,7 @@ Note: In all these forms, ''mi'' is optional and only serves for emphasis.
 * {{l|hu|mink}} {{q|dialectal}}
 
 ===Etymology 2===
+{{hu-corr}}
 From {{inh|hu|urj-pro|*mi}}.
 
 ====Interjection====
@@ -675,7 +676,7 @@ From {{inh|hu|urj-pro|*mi}}.
 * {{l|hu|minő}} {{q|poetic and archaic}}
 
 ====Pronoun====
-{{hu-corr}}{{hu-suff-pron}}{{hu-pron|interrogative}}
+{{hu-pron|interrogative}}
 
 # {{lb|hu|interrogative}} [[what]]?
 #: {{uxi|hu|'''Mi''' van a kezedben?|'''What''' is in your hand?}}
@@ -684,8 +685,9 @@ From {{inh|hu|urj-pro|*mi}}.
 #: {{uxi|hu|Még szerencse, hogy volt '''mit''' enni!|It's lucky there was '''something''' to eat!}}
 #: {{uxi|hu|Örülnék, ha lenne '''mit''' nézni a tévében.|I would be glad if there were '''something''' to watch on TV.}}
 #: {{uxi|hu|Van '''mire''' tenni a vázát?|Is there '''anything''' to put the vase '''on'''?}}
-
+<br clear="all"/><!-- needed because of the following template "hu-suff-pron" -->
 =====Declension=====
+{{hu-suff-pron}}<!-- it doesn't fit above, but it suits the "declension" topic pretty well, though somewhat overlapping it -->
 {{hu-infl-nom|mi|e}}{{hu-pos-tek|mi|je}}
 
 =====Derived terms=====
