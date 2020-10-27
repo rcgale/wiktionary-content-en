@@ -1391,43 +1391,50 @@ From {{inh|fro|la|in}}.
 ----
 
 ==Old Frisian==
-{{cardinalbox|ofs|0|1|2||twēne}}
+{{cardinalbox|ofs|0|1|2||twēne|alt=ēn|ord=ērest}}
 
 ===Alternative forms===
 * {{alter|ofs|ān}}
+* {{q|Late Old Frisian}} {{alter|ofs|een}}
 
 ===Etymology===
-From {{inh|ofs|gem-pro|*ainaz}}.
+From {{inh|ofs|gem-pro|*ainaz}}. Cognates include {{cog|ang|ān}} and {{cog|osx|ēn}}.
+
+===Pronunciation===
+* {{IPA|ofs|/ˈeːn/|[ˈɛːn]}}
 
 ===Numeral===
-{{head|ofs|numeral|g=m}}
+{{head|ofs|numeral|cat2=cardinal numbers|g=m|g2=n|head=ēn}}
 
-# {{cln|ofs|cardinal numbers}} {{l|en|one}}
+# {{l|en|one}}
 #: {{ux|ofs|inline=y|ēn skilling|one shilling}}
 
-====Inflection====
-{| class="wikitable"
-|-
-! !! Masculine SG !! Feminine SG !! Neuter SG
-|-
-| nominative || ēn || ēne || ēn
-|-
-| accusative || ēnne || ēne || ēn
-|-
-| genitive || ēnes || ēnere || ēnes
-|-
-| dative || ēne || ēnere || ēne
-|}
+===Article===
+{{head|ofs|article|g=m|g2=n|head=ēn}}
+
+# [[a]], [[an]]
+
+====Declension====
+{{ofs-decl-en}}
 
 ====Descendants====
 * {{desc|frr|-}}
-*: Föhr-Amrum: {{l|frr|een|g=m}}, {{l|frr|ian|g=f|g2=n}}
-*: Helgoland: {{l|frr|iaan}}, {{l|frr|jaan}}
+*: Föhr-Amrum: 
+*:: Föhr: {{l|frr|een|g=m}}, {{l|frr|ian|g=f|g2=n}}
+*:: Amrum: {{l|frr|ään|g=m}}, {{l|frr|ian|g=f|g2=n}}
+*: Goesharde:
+*:: Hoolmer: {{l|frr|åån|g=m}}, {{l|frr|iin|g=f|g2=n}}
+*:: Hoorninger: {{l|frr|aan|g=m}}, {{l|frr|iin|g=f|g2=n}}
+*: Halligen: {{l|frr|aon|g=m}}, {{l|frr|ian|g=f|g2=n}}
+*: Heligoland: {{l|frr|iaan}}, {{l|frr|jaan}}
 *: Mooring: {{l|frr|ån|g=m}}, {{l|frr|iinj|g=f|g2=n}}
 *: Sylt: {{l|frr|jen}}
-*: Wiedingharde: {{l|frr|aarn|g=m}}, {{l|frr|iin|g=f|g2=n}}
-* {{desc|stq|aan}}, {{l|stq|een}}
+*: Wiedingharde: {{l|frr|oan|g=m}}, {{l|frr|iin|g=f|g2=n}}
+* {{desc|stq|aan|g=m}}, {{l|stq|een|g=f|g2=n}}
 * {{desc|fy|ien}}
+
+===References===
+* {{R:ofs:Bremmer:2009}}
 
 ----
 
