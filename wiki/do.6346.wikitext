@@ -585,9 +585,10 @@ From {{der|ht|fr|dos||back}}
 ==Irish==
 
 ===Etymology 1===
+From {{inh|ga|mga|no-}}, from {{inh|mga|sga|no-}}, from {{inh|mga|ine-pro|*nū}}, cognate with {{cog|sa|नु||now}} and {{cog|hit|𒉡||now, and|tr=nu}}.
 
 ====Alternative forms====
-* {{alter|ga|d’||used before vowel sounds}}
+* {{alter|ga|d’||used before vowels and lenited fh-}}
 
 ====Pronunciation====
 * {{IPA|ga|/d̪ˠɔ/|/d̪ˠə/}}
@@ -595,12 +596,22 @@ From {{der|ht|fr|dos||back}}
 ====Particle====
 {{head|ga|particle|triggers {{ga-mut-link|l}}}}
 
-# {{lb|ga|Munster|literary}} ''marker of the past tense''
+# {{lb|ga|Munster|literary}} ''prefixed before the preterite, imperfect and conditional forms of a verb''
 #: {{uxi|ga|'''do''' mhol sé|he praised}}
+
+===Etymology 2===
+Possibly related to the use {{m|ga|go}} in place {{m|ga|a}} as the direct relative particle, influenced by Etymology 1.
+
+====Pronunciation====
+* {{IPA|ga|/d̪ˠɔ/|/d̪ˠə/}}
+
+====Particle====
+{{head|ga|particle|triggers {{ga-mut-link|l}}}}
+
 # {{lb|ga|Munster|literary}} ''relative marker (nominative, accusative)''
 #: {{uxi|ga|an cailín '''do''' mholann sé|the girl that he praises}}
 
-===Etymology 2===
+===Etymology 3===
 From {{inh|ga|sga|do}}, from {{inh|ga|cel-pro|*do|t=to, for}}.
 
 ====Alternative forms====
@@ -637,7 +648,7 @@ From {{inh|ga|sga|do}}, from {{inh|ga|cel-pro|*do|t=to, for}}.
 =====Derived terms=====
 {{ga-preposition contractions}}
 
-===Etymology 3===
+===Etymology 4===
 From {{inh|ga|sga|do}}, from {{inh|ga|cel-pro|*tu|t=your, thy}}.
 
 ====Alternative forms====
@@ -657,6 +668,7 @@ From {{inh|ga|sga|do}}, from {{inh|ga|cel-pro|*tu|t=your, thy}}.
 {{Irish personal pronouns}}
 
 ===Further reading===
+* {{R:DIL|33202}}
 * {{R:ga:Ó Dónaill}}
 * {{R:ga:EID}}
 * {{R:ga:NEID}}
