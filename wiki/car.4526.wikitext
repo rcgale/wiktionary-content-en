@@ -413,26 +413,20 @@ Etymology {{unk|en|title=unclear}}, but probably from {{der|en|gem-pro|*karzijan
 #*: Like feeble age, he reeleth from the day, <small>(after the sun reaches the zenith it, with a ''weary'' turn, begins to {{m|en|reel||to roll}} (downwards))</small>
 
 ===Etymology 3===
-Acronym of ''[[contents|'''c'''ontents]] of the [[address|'''a'''ddress]] part of [[register|'''r'''egister]] number''. Note that it was based on original hardware and has no meaning today.
+[[File:Cons-cells.svg|thumb|Diagram for the list (42 69 613). The [[car]] of the first [[cons]] is 42, and the [[cdr]] points the next cons.]]
+{{acronym|en|[[content|'''c'''ontents]] of the [[address|'''a'''ddress]] part of [[register|'''r'''egister]]  number}}. Note that it was based on original hardware and has no meaning today.
 
 ====Noun====
-[[Image:Cons-cells.svg|thumb|Diagram for the list (42 69 613). The [[car]] of the first [[cons]] is 42, and the [[cdr]] points the next cons.]]
 {{en-noun}}
 
-# {{lb|en|computing}} The first part of a [[cons]] in [[LISP]]. The first element of a list
-#* Matt Kaufmann, Panagiotis Manolios, and J Strother Moore, ''Computer-aided reasoning: an approach'', 2000 :
-#*: ''The elements of a list are the successive '''cars''' along the "cdr chain." That is, the elements are the '''car''', the '''car''' of the cdr, the '''car''' of the cdr of the cdr, etc.''
-
-=====Antonyms=====
-* {{l|en|cdr}}
+# {{lb|en|programming}} The first part of a [[cons]] in [[LISP]]. The first element of a list.
+#: {{ant|en|cdr}}
+#: {{holonyms|en|cons}}
+#* {{quote-book|en|author=Matt Kaufmann|author2=Panagiotis Manolios|author3=J Strother Moore|title=Computer-aided reasoning: an approach|year=2000|passage=The elements of a list are the successive '''cars''' along the "cdr chain." That is, the elements are the '''car''', the '''car''' of the cdr, the '''car''' of the cdr of the cdr, etc.}}
 
 =====Derived terms=====
 * {{l|en|cadr}}
 * {{l|en|caddr}}
-
-=====Related terms=====
-* {{l|en|cons}}
-* {{l|en|LISP}}
 
 ===Gallery===
 <gallery mode=packed>
