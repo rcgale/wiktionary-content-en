@@ -21,7 +21,7 @@ From {{etyl|la|en}} {{m|la|speciēs||appearance; quality}}, from {{m|la|speciō|
 ## A group of plants or animals having [[similar]] [[appearance]].
 ##: {{ux|en|This '''species''' of animal is unique to the area.}}
 ##* {{quote-journal|en|date=2012-01|author=Donald Worster| volume=100| issue=1| page=70| magazine={{w|American Scientist}}| title=[http://www.americanscientist.org/bookshelf/pub/a-drier-and-hotter-future A Drier and Hotter Future]| passage=We may see many such [dust] storms in the decades ahead, along with '''species''' extinctions, radical disturbance of ecosystems, and intensified social conflict over land and water.}}
-## {{lb|en|taxonomy}} A [[rank]] in the classification of [[organism]]s, below [[genus]] and above [[subspecies]]; a [[taxon]] at that rank.
+## {{lb|en|biology|taxonomy}} A [[category]] in the classification of [[organism]]s, ranking below [[genus]]; a [[taxon]] at that rank.
 ##* '''1859''', {{w|Charles Darwin}}, ''{{w|On the Origin of Species}}'':
 ##*: Hence, in determining whether a form should be ranked as a '''species''' or a variety, the opinion of naturalists having sound judgment and wide experience seems the only guide to follow.
 ##* {{RQ:Schuster Hepaticae|volume=V|page=vii|text=Firstly, I continue to base most '''species''' treatments on personally collected material, rather than on herbarium plants.}}
@@ -46,8 +46,11 @@ From {{etyl|la|en}} {{m|la|speciēs||appearance; quality}}, from {{m|la|speciō|
 #: {{rfquotek|en|Thomas de Quincey}}
 
 ====Usage notes====
-* {{m|en|specie}} is a separate word that means coin money, not the singular version of {{m|en||species}}.
-* {{sense|biology, taxonomy, rank in the classification of organisms}} See {{m|en|species name}}.
+* '''species''' is its own plural; {{m|en|specie}} is a separate word that means coin money.
+* {{sense|biology|taxonomy}} See {{m|en|species name}}, {{m|en|binomial nomenclature}}.
+
+====Hyponyms====
+* {{sense|taxonomy}} {{l|en|subspecies}}; {{l|en|variety}}; {{l|en|form}}; (botany) {{l|en|cultivar}}
 
 ====Derived terms====
 {{der4|en
@@ -277,18 +280,16 @@ From {{etyl|la|en}} {{m|la|speciēs||appearance; quality}}, from {{m|la|speciō|
 {{trans-bottom}}
 
 ====See also====
-{{top3}}
-* {{l|en|family}}
-* {{l|en|genus}}
-* {{l|en|kingdom}}
-{{mid3}}
-* {{l|en|order}}
-* {{l|en|phylum}}
 * {{l|en|race}}
-{{mid3}}
-* {{l|en|variety}}
-* {{l|en|binomial nomenclature}}
-{{bottom}}
+*{{sense|taxonomy}}
+** {{l|en|domain}}
+** {{l|en|kingdom}}
+** {{l|en|phylum}}/{{l|en|division}}
+** {{l|en|class}}
+** {{l|en|order}}
+** {{l|en|family}}
+** {{l|en|genus}}
+** '''species'''
 
 ====References====
 * {{R:OED2}}
