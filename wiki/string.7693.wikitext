@@ -14,9 +14,11 @@ From {{inh|en|enm|string}}, {{m|enm|streng}}, {{m|enm|strynge}}, from {{inh|en|a
 {{en-noun|~}}
 
 # {{lb|en|countable}} A long, thin and flexible structure made from [[thread]]s twisted together.
+#: {{syn|en|cord|rope|line|Thesaurus:string}}
 #* {{RQ:Prior Carmen Seculare}}
 #*: Round Ormond's knee thou tiest the mystic '''string'''.
 # {{lb|en|uncountable}} Such a structure considered as a substance.
+#: {{syn|en|cord|rope|twine}}
 # {{lb|en|countable}} Any similar long, thin and flexible object.
 #: {{ux|en|a violin '''string'''}}
 #: {{ux|en|a [[bowstring|bow'''string''']]}}
@@ -28,16 +30,19 @@ From {{inh|en|enm|string}}, {{m|enm|streng}}, {{m|enm|strynge}}, from {{inh|en|a
 # {{lb|en|countable}} A cohesive substance taking the form of a string.
 #: {{ux|en|The '''string''' of spittle dangling from his chin was most unattractive}}
 # {{lb|en|countable}} A series of items or events.
+#: {{syn|en|sequence|series}}
 #* '''2012''', Christoper Zara, ''Tortured Artists: From Picasso and Monroe to Warhol and Winehouse, the Twisted Secrets of the World's Most Creative Minds'', part 1, chapter 1, {{gbooks|q=string|id=HV4jKhjzMVYC|pg=27}}:
 #*: In 1933, disgusted and discouraged after a '''string''' of commercial failures, Clara quit the film business forever. She was twenty-six.
 #: {{ux|en|a '''string''' of successes}}
 # {{lb|en|countable}} The members of a sports team or squad regarded as most likely to achieve success. (Perhaps metaphorical as the "strings" that hold the squad together.) Often first '''string''', second '''string''' etc.
 # {{lb|en|countable}} In various games and competitions, a certain number of turns at play, of rounds, etc.
 # A [[drove]] of [[horse]]s, or a group of [[racehorse]]s kept by one owner or at one [[stable]].
-# {{lb|en|countable|computing}} An ordered sequence of [[text]] [[character]]s stored consecutively in [[memory]] and capable of being processed as a single entity.
-# {{lb|en|music|countable}} A [[stringed instrument]].
+# {{lb|en|countable|programming}} An ordered sequence of [[text]] [[character]]s stored consecutively in [[memory]] and capable of being processed as a single entity.
+# {{lb|en|music|metonym|countable}} A [[stringed instrument]].
 # {{lb|en|music|usually|in the plural}} The [[stringed instrument]]s as a section of an orchestra, especially those played by a bow, or the persons playing those instruments.
-# {{lb|en|in the plural}} The conditions and limitations in a contract collectively.
+#: {{syn|en|string section}}
+# {{lb|en|figurative|in the plural}} The conditions and limitations in a contract collectively.
+#: {{syn|en|conditions|provisions}}
 #: {{ux|en|[[no strings attached|no '''strings''' attached]]}}
 # {{lb|en|countable|physics}} The main [[object]] of study in [[string theory]], a branch of theoretical physics.
 # {{lb|en|slang}} [[cannabis|Cannabis]] or [[marijuana]].
@@ -63,17 +68,6 @@ From {{inh|en|enm|string}}, {{m|enm|streng}}, {{m|enm|strynge}}, from {{inh|en|a
 # {{synonym of|en|stable||group of prostitutes managed by one pimp}}
 #* '''2006''', Steve Niles, Jeff Mariotte, ''30 Days of Night: Rumors of the Undead'' (page 307)
 #*: They were turning tricks, doing drugs, and generally little better off than they had been before, except that they were keeping more of their money. But they seemed lonely, too, without the company of their pimp and the rest of his '''string'''.
-
-====Synonyms====
-* {{sense|long, thin structure}} [[cord]], [[rope]], [[line]]
-* {{sense|this structure as a substance}} [[cord]], [[rope]], [[twine]]
-* {{sense|anything long and thin}}
-* {{sense|cohesive substance in the form of a string}}
-* {{sense|series of items or events}} [[sequence]], [[series]]
-* {{sense|sequence of characters in computing}}
-* {{sense|stringed instruments}} [[string section]] ''the strings, or the string section''
-* {{sense|conditions}} [[condition]]s, [[proviso]]s
-* See also [[Thesaurus:string]]
 
 ====Hyponyms====
 {{col4|en|cosmic string
@@ -253,7 +247,7 @@ From {{inh|en|enm|string}}, {{m|enm|streng}}, {{m|enm|strynge}}, from {{inh|en|a
 * Swedish: {{t+|sv|serie|c}}, {{t+|sv|följd|c}}, {{t+|sv|rad|c}}
 {{trans-bottom}}
 
-{{trans-top|computing: sequence of characters}}
+{{trans-top|programming: sequence of characters}}
 * Arabic: {{t|ar|سِلْسِلَة|f}}
 * Belarusian: {{t|be|радо́к|m}}
 * Bulgarian: {{t+|bg|низ}}
