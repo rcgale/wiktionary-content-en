@@ -2,7 +2,7 @@
 ==Faroese==
 
 ===Etymology===
-From {{der|fo|non|ráð}}.
+From {{inh|fo|non|ráð}}.
 
 ===Pronunciation===
 * {{IPA|fo|/ɹɔɑː/}}
@@ -26,7 +26,7 @@ From {{der|fo|non|ráð}}.
 
 ===Etymology===
 {{root|is|ine-pro|*Hreh₁dʰ-}}
-From {{der|is|non|ráð}}, from {{der|is|gem-pro|*rēdaz}}. Cognate with Old Frisian [[red|rēd]], Old Saxon [[rad|rād]] (Dutch [[raad]] ‘advice’), Old High German [[rat|rāt]] (German [[Rat]] ‘advice’), Danish {{m|da|råd}}, {{cog|sv|råd}} ‘advice, way out’.
+From {{inh|is|non|ráð}}, from {{inh|is|gmq-pro|*ᚱᚨᛞᚨᛉ|tr=rādaz}}, {{inh|is|gem-pro|*rēdaz}}. Cognate with Old Frisian [[red|rēd]], Old Saxon [[rad|rād]] (Dutch [[raad]] ‘advice’), Old High German [[rat|rāt]] (German [[Rat]] ‘advice’), Danish {{m|da|råd}}, {{cog|sv|råd}} ‘advice, way out’.
 
 ===Pronunciation===
 * {{IPA|is|/rauːð/}}
@@ -58,3 +58,29 @@ From {{der|is|non|ráð}}, from {{der|is|gem-pro|*rēdaz}}. Cognate with Old Fri
 * {{l|is|ráðstafa}}
 * {{l|is|umráð}}
 * {{l|is|yfirráð}}
+
+----
+
+==Old Norse==
+
+===Etymology===
+{{root|non|ine-pro|*Hreh₁dʰ-}}
+From {{inh|non|gmq-pro|*ᚱᚨᛞᚨᛉ|tr=rādaz}}, from {{inh|non|gem-pro|*rēdaz}}. Cognate with {{cog|ang|rǣd}}, {{cog|goh|rāt||advice}} ({{cog|de|Rat||advice}})
+
+===Noun===
+{{non-noun|n|ráðs|ráð}}
+
+# [[advice]], [[counsel]]
+# [[council]] {{gloss|body of advisors}}
+
+====Declension====
+{{non-decl-n-a|ráð|ráð}}
+
+====Descendants====
+* {{desc|fo|ráð}}
+* {{desc|is|ráð}}
+* {{desc|nb|råd}}
+* {{desc|gmq-osw|raþ|rāþ}}
+** {{desc|sv|råd}}
+** {{desc|fi|raati|bor=1}}
+* {{desc|da|råd}}
