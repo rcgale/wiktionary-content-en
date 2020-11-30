@@ -410,23 +410,21 @@ See {{m|is|verja}}.
 ===Etymology===
 From {{inh|la|itc-pro|*wezor}} (stem {{m|itc-pro|*wezn-}}), from {{inh|la|ine-pro|*wósr̥||spring}}. The original Italic form gave {{m|la|*veror}}, genitive {{m|la|*vēnis}}, with ''-s-'' lost before ''-n-'' with lengthening of the preceding vowel, as is usual in Latin. The ''-n-'' of the genitive stem was then replaced by the ''-r-'' of the nominative, and the genitive stem was then extended back to the nominative.<ref>{{R:itc:EDL}}</ref>
 
-Cognate with {{cog|grc|ἔαρ|id=spring}}, {{cog|non|vár}}, {{cog|lt|vasara}}, {{cog|sa|वसर्||morning}} and {{m|sa|वसन्त|tr=vasantá||spring}}, {{cog|fa|بهار|tr=bahâr||spring}}, {{cog|xcl|գարուն}}, and {{cog|cu|весна}}.
+Cognate with {{cog|grc|ἔαρ|id=spring}}, {{cog|non|vár}}, {{cog|lt|vasara}}, {{cog|sa|वसर्||morning}} and {{m|sa|वसन्त|tr=vasantá||spring}}, {{cog|fa|بهار|tr=bahâr||spring}}, {{cog|xcl|գարուն}}, and {{cog|ru|весна́}}.
 
 ===Pronunciation===
-* {{la-IPA|vēr|eccl=yes}}
+* {{la-IPA|vēr}}
 
 ===Noun===
 {{la-noun|vēr<3.N>}}
 
 # [[spring]] {{gloss|season}}
+#: {{coordinate_terms|la|aestās|autumnus|hiems}}
 #* {{Q|la|Catullus|Carmina|46|quote=Iam '''vēr''' ēgelidōs refert tepōrēs,<br>iam caelī furor aequinoctiālis<br>iūcundīs Zephyrī silēscit aurīs.<br>Linquantur Phrygiī, Catulle, campī<br>Nīcaeaeque ager ūber aestuōsae:<br>ad clārās Asiae volēmus urbēs.<br>Iam mēns praetrepidāns avet vagārī,<br>iam laetī studiō pedēs vigēscunt.<br>Ō dulcēs comitum valēte coetūs,<br>longē quōs simul ā domō profectōs<br>dīversae variae viae reportant.|trans=Now spring brings back the thawed-out warmth,<br>now the raging of the equinoctial sky<br>subsides with the sweet breezes of Zephyr.<br>Let the Phrygian plains be left behind, Catullus,<br>and the rich land of sweltering Nicaea:<br>let us fly away to the famed cities of Asia.<br>Now my fluttering soul yearns to wander;<br>now my joyful feet come alive with eagerness.<br>Farewell, dear bands of fellow travellers,<br>whom, having left home at the same time,<br>split paths carry home by different routes.|transauthor=Wikisource}}
 #* {{Q|la|Tiberianus|Pervigilium Veneris|2|quote='''Vēr''' novum, '''vēr''' iam canōrum, '''vēre''' nātus orbis est.|trans=The '''spring''' is new, the '''spring''' is now melodious, in the '''spring''' was the world created.}}
 
 ====Declension====
 {{la-ndecl|vēr<3.N>}}
-
-====Coordinate terms====
-* {{l|la|aestās}}
 
 ====Derived terms====
 * {{l|la|vē̆rnō}}
@@ -435,29 +433,30 @@ Cognate with {{cog|grc|ἔαρ|id=spring}}, {{cog|non|vár}}, {{cog|lt|vasara}},
 
 ====Descendants====
 {{top2}}
-* {{desc|sq|verë}}
-* {{desc|an|verano}}
-* {{desc|rup|vearã}}
-* {{desc|ast|veranu}}, {{l|ast|verañu}}, {{l|ast|branu}}
-* {{desc|fax|veran}}
-* {{desc|fr|primevère}}
+Note: all reshaped in some way.
+* {{desc|bor=1|der=1|sq|verë}}
+* {{desc|der=1|an|verano}}
+* {{desc|der=1|rup|vearã}}
+* {{desc|der=1|ast|veranu}}, {{l|ast|verañu}}, {{l|ast|branu}}
+* {{desc|der=1|fax|veran}}
+* {{desc|der=1|fr|primevère}}
 {{mid2}}
-* {{desc|gl|verán}}, {{l|gl|vrán}}
-* {{desc|it|primavera}}
-* {{desc|mwl|berano}}
-* {{desc|roa-opt|verão}}
-* {{desc|pt|verão}}
-* {{desc|ro|vară}}
-* {{desc|es|verano}}
+* {{desc|der=1|gl|verán}}, {{l|gl|vrán}}
+* {{desc|der=1|it|primavera}}
+* {{desc|der=1|mwl|berano}}
+* {{desc|der=1|roa-opt|verão}}
+* {{desc|der=1|pt|verão}}
+* {{desc|der=1|ro|vară}}
+* {{desc|der=1|es|verano}}
 {{bottom}}
+
+===References===
+<references/>
 
 ===Further reading===
 * {{R:L&S}}
 * {{R:Gaffiot}}
 <!--* {{R:M&A}} commented out to save Lua memory-->
-
-===References===
-<references/>
 
 [[Category:la:Seasons]]
 
