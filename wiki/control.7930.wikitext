@@ -111,7 +111,6 @@ From {{inh|en|enm|controllen}}, from {{der|en|fro|contrerole}}, from {{der|en|ML
 
 # {{lb|en|countable|uncountable}} Influence or authority over something.
 #: {{ux|en|The government has complete '''control''' over the situation.}}
-# A separate group or subject in an experiment against which the results are compared where the primary variable is low or [[non-existent]].
 # The method and means of governing the performance of any apparatus, machine or system, such as a lever, handle or button.
 # [[restraint|Restraint]] or ability to [[contain]] one's [[movement]]s or [[emotions]], or [[self-control]].
 #* {{quote-journal|en|year=2012|author=John Branch|title=Snow Fall : The Avalanche at Tunnel Creek|newspaper=New York Times|url=http://www.nytimes.com/projects/2012/snow-fall/?smid=fb-nytimes&WT.z_sma=SP_SNT_20130415#/?part=tunnel-creek}}
@@ -122,6 +121,7 @@ From {{inh|en|enm|controllen}}, from {{der|en|fro|contrerole}}, from {{der|en|ML
 |passage=The dirty secret of the internet is that all this distraction and interruption is immensely profitable. Web companies like to boast about [&hellip;], or offering services that let you{{...}} "share the things you love with the world" and so on. But the real way to build a successful online business is to be better than your rivals at undermining people's '''control''' of their own attention.}}
 # A security mechanism, policy, or procedure that can counter system attack, reduce risks, and resolve vulnerabilities; a [[safeguard]] or [[countermeasure]].
 # {{lb|en|project management}} A means of monitoring for, and triggering intervention in, activities that are not going according to plan.
+# A separate group or subject in an experiment against which the results are compared where the primary variable is low or [[non-existent]].
 # A duplicate book, register, or account, kept to correct or check another account or register.
 #: {{rfquotek|en|Johnson}}
 # {{lb|en|graphical user interface}} An interface element that a computer user interacts with, such as a window or a text box.
@@ -182,26 +182,6 @@ From {{inh|en|enm|controllen}}, from {{der|en|fro|contrerole}}, from {{der|en|ML
 * Vietnamese: {{t+|vi|kiểm soát}}
 {{trans-bottom}}
 
-{{trans-top|in an experiment}}
-* Bulgarian: {{t|bg|контро́лна гру́па|f}}
-* Danish: {{t|da|kontrolgruppe|c}}
-* Estonian: {{t|et|kontrollgrupp}}
-* Finnish: {{t|fi|vertailuryhmä}}
-* French: {{t|fr|de contrôle}}, {{t|fr|groupe témoin|m}}
-* German: {{t+|de|Kontrollgruppe|f}}
-* Greek: {{t+|el|έλεγχος|m}}
-* Hebrew: {{t+|he|ביקורת|f|tr=biqóret|alt=בִּקֹּרֶת / ביקורת}}
-* Italian: {{t|it|di controllo}}
-{{trans-mid}}
-* Latin: {{t+|la|imperator}}, {{t+|la|imperium|n}}
-* Polish: {{t|pl|grupa kontrolna|f}}
-* Portuguese: {{t+|pt|controlo|m}} {{qualifier|Portugal}}, {{t+|pt|controle|m}} {{qualifier|Brazil}}
-* Romanian: {{t|ro|grup de control|n}}, {{t|ro|grup de comparație|n}}
-* Russian: {{t|ru|контро́льная гру́ппа|f}}
-* Spanish: {{t|es|patrón de comparación|m}}, {{t|es|de control}}
-* Swedish: {{t|sv|kontrollgrupp|c}}
-{{trans-bottom}}
-
 {{trans-top|machine}}
 * Catalan: {{t+|ca|control|m}}
 * Finnish: {{t|fi|hallintalaitteet|p}}
@@ -242,6 +222,26 @@ From {{inh|en|enm|controllen}}, from {{der|en|fro|contrerole}}, from {{der|en|ML
 * Spanish: {{t+|es|control|m}}, {{t|es|autodominio|m}}
 * Swedish: {{t+|sv|självbehärskning|c}}
 * Vietnamese: {{t+|vi|điều khiển}}
+{{trans-bottom}}
+
+{{trans-top|in an experiment}}
+* Bulgarian: {{t|bg|контро́лна гру́па|f}}
+* Danish: {{t|da|kontrolgruppe|c}}
+* Estonian: {{t|et|kontrollgrupp}}
+* Finnish: {{t|fi|vertailuryhmä}}
+* French: {{t|fr|de contrôle}}, {{t|fr|groupe témoin|m}}
+* German: {{t+|de|Kontrollgruppe|f}}
+* Greek: {{t+|el|έλεγχος|m}}
+* Hebrew: {{t+|he|ביקורת|f|tr=biqóret|alt=בִּקֹּרֶת / ביקורת}}
+* Italian: {{t|it|di controllo}}
+{{trans-mid}}
+* Latin: {{t+|la|imperator}}, {{t+|la|imperium|n}}
+* Polish: {{t|pl|grupa kontrolna|f}}
+* Portuguese: {{t+|pt|controlo|m}} {{qualifier|Portugal}}, {{t+|pt|controle|m}} {{qualifier|Brazil}}
+* Romanian: {{t|ro|grup de control|n}}, {{t|ro|grup de comparație|n}}
+* Russian: {{t|ru|контро́льная гру́ппа|f}}
+* Spanish: {{t|es|patrón de comparación|m}}, {{t|es|de control}}
+* Swedish: {{t|sv|kontrollgrupp|c}}
 {{trans-bottom}}
 
 {{trans-top|graphical user interface element}}
