@@ -168,9 +168,6 @@ From {{inh|zh|sit-pro|*(g/k)uŋ||hole; orifice; inner part}}. {{och-l|孔|hole}}
 ===Kanji===
 {{ja-kanji|grade=1|rs=穴03}}
 
-# [[sky]]
-# [[empty]], [[hollow]], [[bare]], [[void]], [[deserted]]
-
 =====Readings=====
 {{ja-readings
 |goon=く, くう
@@ -180,30 +177,24 @@ From {{inh|zh|sit-pro|*(g/k)uŋ||hole; orifice; inner part}}. {{och-l|孔|hole}}
 }}
 
 =====Compounds=====
-{{der-top3|Compounds}}
-* {{ja-r|空き缶|あきかん}}
-* {{ja-r|空き瓶|あきびん}}
-* {{ja-r|空き巣%狙い|あきす%ねらい}}
-{{der-bottom}}
+* {{ja-r|空%穂|うつ%ぼ}}
 
 ===Etymology 1===
-{{ja-kanjitab|そら|yomi=kun}}
+{{ja-kanjitab|yomi=k|そら|alt=虚}}
+{{IPAfont|⟨so<sub>1</sub>ra⟩}} → *{{IPAchar|/sʷora/}} → {{IPAchar|/sora/}}
 
-From {{inh|ja|ojp|sort=そら|-}}, from {{inh|ja|jpx-pro|sort=そら|*suwara}}.  Found in the ''{{w|Kojiki}}'' c. 712 CE.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+From {{inh|ja|ojp|sort=そら|-}}, apparently from {{inh|ja|jpx-pro|sort=そら|*suwara}}.
+
+Found in the ''{{w|Kojiki}}'' c. 712 CE.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|そら|acc=1|acc_ref=DJR}}
-
-====Alternative forms====
-* {{ja-l|虚}}
+{{ja-pron|そら|acc=1|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|そら}}
 
 # the [[sky]]
-
-=====Synonyms=====
-* {{sense|the sky}} {{m|ja|天|tr=ten}}
+#: {{syn|ja|天|tr=ten}}
 
 =====Derived terms=====
 {{der-top3}}
@@ -219,26 +210,26 @@ From {{inh|ja|ojp|sort=そら|-}}, from {{inh|ja|jpx-pro|sort=そら|*suwara}}. 
 ===Etymology 2===
 {{ja-kanjitab|から|yomi=kun}}
 
-Cognate with {{ja-r|殻|から|[[shell]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+Cognate with {{m|ja|殻|tr=kara||[[shell]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
-{{ja-pron|yomi=k|から|acc=2|acc_ref=DJR}}
+{{ja-pron|から|acc=2|acc_ref=DJR}}
 
 ====Noun====
 {{ja-noun|から}}
 
-# [[empty]]
-#: {{ja-usex|'''空'''箱|'''から'''ばこ|'''empty''' [[box]]|inline=1}}
+# something [[empty]]
+#: {{ja-usex-inline|'''空'''箱|'''から'''ばこ|'''empty''' [[box]]|inline=1}}
 # [[ineffectual]]
-#: {{ja-usex|'''空'''振り|'''から'''ぶり|[[in vain]]|inline=1}}
+#: {{ja-usex-inline|'''空'''振り|'''から'''ぶり|[[in vain]]|inline=1}}
 # [[false]]
-#: {{ja-usex|'''空'''元%気|'''から'''げん%き|[[bravado]]|inline=1}}
+#: {{ja-usex-inline|'''空'''元%気|'''から'''げん%き|[[bravado]]|inline=1}}
 
 =====Derived terms=====
 {{der-top3}}
 {{ja-r/multi|data=
 * {{ja-r/args|空%揚げ|から%あげ}}
-* {{ja-r/args|空オケ|カラオケ}}, {{ja-l|カラオケ|karaoke}}
+* {{ja-r/args|カラオケ}}
 * {{ja-r/args|空%元%気|から%げん%き}}
 * {{ja-r/args|空%手|から%て}}
 * {{ja-r/args|空%箱|から%ばこ}}
@@ -247,20 +238,22 @@ Cognate with {{ja-r|殻|から|[[shell]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}
 {{der-bottom}}
 
 ===Etymology 3===
-{{ja-kanjitab|くう|yomi=on}}
+{{ja-kanjitab|くう|yomi=goon}}
 
 From {{der|ja|ltc|sort=くう|-}} {{ltc-l|空}}.
 
+The Buddhist senses are a translation of {{der|ja|sa|sort=くう|शून्यता}}.
+
 ====Pronunciation====
-{{ja-pron|yomi=goon|くう|acc=0|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
+{{ja-pron|くう|acc=0|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
 
 ====Noun====
 {{ja-noun|くう}}
 
 # [[empty]] [[air]]
 # [[meaninglessness]]
-# {{lb|ja|sort=くう|Buddhism}} [[shunya]] ([[Śūnyatā]]): [[emptiness]], [[vacuity]], [[awareness]], [[openness]], [[thusness]]
-# {{lb|ja|sort=くう|Buddhism}} [[w:Five elements (Japanese philosophy)#Void_(Aether)|void]]: one of the {{m|ja|五大|tr=godai|lit=[[great]] [[five]]}}; also known as {{m|ja|天|tr=sora}}, of particular importance as the highest of the five elements
+# {{lb|ja|sort=くう|Buddhism}} ''[[sunyata]]'': [[emptiness]], [[vacuity]], [[awareness]], [[openness]], [[thusness]]
+# {{lb|ja|sort=くう|Buddhism}} [[w:Five elements (Japanese philosophy)#Void_(Aether)|void]]: one of the {{m|ja|五大|tr=godai|lit=[[great]] [[five]]}} and the highest of the five [[element]]s
 
 =====Derived terms=====
 {{der-top3}}
@@ -289,42 +282,16 @@ From {{der|ja|ltc|sort=くう|-}} {{ltc-l|空}}.
 {{der-bottom}}
 
 ===Etymology 4===
-{{rfe|ja}}
 {{ja-kanjitab|うろ|yomi=kun}}
-
-====Pronunciation====
-{{ja-pron|うろ|y=k}}
-
-====Noun====
-{{ja-noun|うろ}}
-
-# [[cavity]], [[hole]]
+{{ja-see|虚}}
 
 ===Etymology 5===
 {{ja-kanjitab|うつお|yomi=kun}}
-
-{{IPAchar|/utuho/}}: {{IPAchar|/utupo/}} → {{IPAchar|/utuɸo/}} → {{IPAchar|/utuwo/}} → {{IPAchar|/utuo/}}. See also {{m|ja|空|tr=utsubo}}.
-
-====Pronunciation====
-{{ja-pron|うつお|y=k}}
-
-====Noun====
-{{ja-noun|うつお|hhira=うつほ}}
-
-# {{alternative form of|ja|うろ}}
+{{ja-see|虚}}
 
 ===Etymology 6===
 {{ja-kanjitab|うつぼ|yomi=kun}}
-
-Similar etymology to {{m|ja|空|tr=utsuo}}. As /h/ gradually changed from [p] → [ɸ] → [w] → [Ø], the phoneme was voiced to [b] in order to maintain it.
-
-====Pronunciation====
-{{ja-pron|うつぼ|y=k}}
-
-====Noun====
-{{ja-noun|うつぼ}}
-
-# {{alternative form of|ja|うろ}}
+{{ja-see|うつぼ}}
 
 ===References===
 <references/>
@@ -415,13 +382,17 @@ From {{der|ko|ltc|sort=공|-}} {{ltc-l|空}}.
 |kun=すら-
 }}
 
+===Etymology===
+{{ryu-kanjitab|yomi=k|すら}}
+Cognate with {{cog|ja|空|tr=sora}}.
+
 ===Pronunciation===
 * {{IPA|ryu|/suɾa/|sort=すら}}
 
 ===Noun===
-{{head|ryu|noun|hiragana|すら|romaji|sura|sort=すら}}
+{{ryu-noun|すら}}
 
-# {{lb|ryu|literary}} the [[sky]]; the [[heaven]]s
+# {{lb|ryu|literary}} the [[sky]], [[heaven]]s
 
 ----
 
