@@ -1,11 +1,11 @@
 {{also|PIT|pit|pít|pît|pīt}}
 ==English==
-{{wikipedia}}
-[[File:A close-up of Pit.JPG|thumb|Close-up of a pit]]
 
 ===Pronunciation===
-* {{IPA|en|/ˈpɪt/|[ˈpʰɪʔt]}}
-* {{audio|en|en-us-pit.ogg}}
+[[File:A close-up of Pit.JPG|thumb|A close-up of a pit.]]
+
+* {{IPA|en|/pɪt/|[pʰɪʔt]}}
+* {{audio|en|En-us-pit.ogg}}
 * {{rhymes|en|ɪt}}
 
 ===Etymology 1===
@@ -52,10 +52,11 @@ From {{inh|en|enm|pit}}, {{m|enm|pet}}, {{m|enm|put|püt}}, from {{inh|en|ang|py
 * {{sense|pit bull terrier}} [[pibble]] {{qualifier|informal}}, [[pit bull]], [[pittie]] {{qualifier|informal}}, [[shitbull]] {{qualifier|pejorative}}, [[velvet hippo]] {{qualifier|slang}}
 
 =====Derived terms=====
-{{der3|en|title=Terms derived from ''pit'' (etymology 1, noun)
+{{col3|en
 |armpit
 |[[ash pit]], [[ashpit]]
 |catchpit
+|circle pit
 |cockpit
 |gravel pit
 |money pit
@@ -77,12 +78,12 @@ From {{inh|en|enm|pit}}, {{m|enm|pet}}, {{m|enm|put|püt}}, from {{inh|en|ang|py
 * Armenian: {{t+|hy|հոր}}, {{t+|hy|փոս}}
 * Aromanian: {{t|rup|groapã|f}}
 * Azerbaijani: {{t+|az|çuxur}}
-* Bashkir: {{t|ba|соҡор|sc=Cyrl}}
+* Bashkir: {{t|ba|соҡор}}
 * Belarusian: {{t|be|я́ма|f}}
 * Bulgarian: {{t+|bg|я́ма|f}}
 * Catalan: {{t+|ca|sot}}
 * Chinese:
-*: Mandarin: {{t+|cmn|坑|tr=kēng|sc=Hani}}, {{t+|cmn|穴|tr=xué|sc=Hani}}
+*: Mandarin: {{t+|cmn|坑|tr=kēng}}, {{t+|cmn|穴|tr=xué}}
 * Czech: {{t+|cs|jáma|f}}
 * Dutch: {{t+|nl|kuil|m}}, {{t+|nl|put|m}}
 * Eastern Bontoc: {{t|ebk|lokkong}}
@@ -103,8 +104,8 @@ From {{inh|en|enm|pit}}, {{m|enm|pet}}, {{m|enm|put|püt}}, from {{inh|en|ang|py
 * Ilocano: {{t|ilo|abut}}
 * Indonesian: {{t+|id|lubang}}
 * Italian: {{t+|it|fossa|f}}, {{t+|it|buca|f}}
-* Japanese: {{t|ja|落とし穴|tr=おとしあな, otoshiana|sc=Jpan}}, {{t+|ja|穴|tr=[[あな]], ana|sc=Jpan}}
-* Khmer: {{t+|km|ក្រហូង|tr=krɑhoong|sc=Khmr}}
+* Japanese: {{t|ja|落とし穴|tr=おとしあな, otoshiana}}, {{t+|ja|穴|tr=[[あな]], ana}}
+* Khmer: {{t+|km|ក្រហូង|tr=krɑhoong}}
 * Korean: {{t+|ko|구멍}}, {{t|ko|구덩이}}
 {{trans-mid}}
 * Kurdish:
@@ -125,7 +126,7 @@ From {{inh|en|enm|pit}}, {{m|enm|pet}}, {{m|enm|put|püt}}, from {{inh|en|ang|py
 * Russian: {{t+|ru|я́ма|f}}
 * Scottish Gaelic: {{t|gd|sloc|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|јама|sc=Cyrl}}
+*: Cyrillic: {{t|sh|јама}}
 *: Roman: {{t+|sh|jama|f}}
 * Slovak: {{t|sk|jama|f}}
 * Slovene: {{t+|sl|jama|f}}, {{t+|sl|brezno|n}}
@@ -133,7 +134,7 @@ From {{inh|en|enm|pit}}, {{m|enm|pet}}, {{m|enm|put|püt}}, from {{inh|en|ang|py
 * Spanish: {{t+|es|fosa|f}}
 * Swedish: {{t+|sv|grop|c}}
 * Tagalog: {{t|tl|hukay}}, {{t|tl|lubak}}
-* Telugu: {{t+|te|గొయ్యి|sc=Telu}}
+* Telugu: {{t+|te|గొయ్యి}}
 * Thai: {{t+|th|หลุม}}, {{t+|th|บ่อ}}
 * Tibetan: {{t|bo|ས་དོང}}
 * Tocharian B: {{t|txb|kāre}}
@@ -332,7 +333,7 @@ From {{bor|en|nl|pit|t=kernel, core}}, from {{der|en|dum|pitte}}, from {{der|en|
 {{en-verb}}
 
 # {{lb|en|transitive}} To remove the [[stone]] from a stone fruit or the shell from a drupe.
-#: ''One must '''pit''' a peach to make it ready for a pie.''
+#: {{ux|en|One must '''pit''' a peach to make it ready for a pie.}}
 
 =====Translations=====
 {{trans-top|remove the stone from}}
@@ -359,6 +360,9 @@ Shortening.
 
 ====Translations====
 {{trans-see|pit bull terrier}}
+
+===Further reading===
+* {{pedia}}
 
 ===Anagrams===
 * {{anagrams|en|a=ipt|PTI|TIP|TPI|tip|tpi}}
