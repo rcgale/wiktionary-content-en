@@ -107,27 +107,34 @@ From {{inh|fr|frm|latin}}, from {{inh|fr|fro|latin}}, borrowed from {{bor|fr|la|
 {{hu-adj|-}}
 
 # [[Roman]], [[Latin]]
-#: {{ux|hu|'''latin''' betűk|[[Roman]] characters|inline=1}}
-#: {{ux|hu|a '''latin''' nyelv|Latin|inline=1}}
+#: {{uxi|hu|'''latin''' betűk|[[Roman]] characters}}
+#: {{uxi|hu|a '''latin''' nyelv|Latin [language]}}
+#: {{uxi|hu|'''Latinul''' tanulok.|I am studying '''Latin'''.|lit=in Latin}}
 
 ====Declension====
-{{hu-infl-nom|latino|o|-}}
+{{hu-infl-nom|latino|o|-|esm_sg=1}}
 
 ====Derived terms====
-* {{l|hu|latin ábécé}}
-* {{l|hu|Latin-Amerika}}
+{{col4|hu|title=Compound words
+|Latin-Amerika
+}}
+{{col4|hu|title=Expressions
+|latin ábécé
+}}
 
 ===Noun===
 {{hu-noun|ok}}
 
 # [[Latin]] (people)
 # {{lb|hu|singular only}} [[Latin]] (language)
-#: {{ux|hu|'''Latinul''' tanulok.|I am studying Latin.|inline=1}}
 
 ====Declension====
-{{hu-infl-nom|latino|o|-|esm_sg=1}}{{hu-pos-otok|latin|j|jai}}
+{{hu-infl-nom|latino|o|-}}{{hu-pos-otok|latin|j|jai}}
 
-{{topics|hu|Languages}}
+===Further reading===
+* {{R:ErtSz}}
+
+{{topics|hu|Languages|Ethnonyms}}
 
 ----
 
