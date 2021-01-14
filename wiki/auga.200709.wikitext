@@ -145,13 +145,13 @@ From {{der|mwl|la|aqua}}, from {{der|mwl|itc-pro|*akʷā}}, from {{der|mwl|ine-p
 ----
 
 ==Norwegian Nynorsk==
-{{wikipedia|lang=nn}}
+{{wp|lang=nn}}
 
 ===Alternative forms===
-* {{l|nn|auge}}
+* {{alter|nn|auge}}
 
 ===Etymology===
-From {{der|nn|non|auga}}, from {{der|nn|gem-pro|*augô}}, ultimately from {{der|nn|ine-pro|*h₃ekʷ-||eye; to see}}. Akin to {{cog|en|eye}}.
+From {{inh|nn|non|auga}}, from {{inh|nn|gem-pro|*augô}}, ultimately from {{der|nn|ine-pro|*h₃ekʷ-||eye; to see}}. Akin to {{cog|en|eye}}.
 
 ===Pronunciation===
 * {{IPA|nn|/²æʉɡɑ/}} {{nn-pronu-note}}
@@ -165,16 +165,49 @@ From {{der|nn|non|auga}}, from {{der|nn|gem-pro|*augô}}, ultimately from {{der|
 # [[eye]] (the visual sense); [[vision]]
 #: {{usex|nn|'''Augo''' mine er ikkje so gode som dei ein gong var.|My '''eyes''' aren't as good as they once were.}}
 
-{{head|nn|noun form|g=n}}
+====Inflection====
+{{nn-noun-infl
+|Aasen1=Auga
+|Aasen2=Augat
+|Aasen3=Augo<sup>2</sup>
+|Aasen4=Augo(n)<sup>2</sup>
+|1901a=auga
+|1901b=auga
+|1901c=augo (''augu'')
+|1901d=augo (''augu'')
+|1917=1917 (current)
+|1917a=auga
+|1917b=auga
+|1917c=augo
+|1917d=augo
+|notes=
+<sup>2</sup><small>Aasen notes that the weak feminine plural is by far the most common in the vernacular (''Augor – Augorna'').</small>
+}}
+{{nn-noun-infl|title=auge
+|1917a=auge
+|1917b=auget
+|1917c=auge
+|1917d=auga, ''augi''
+|1938d=auga [''augi'']
+|2012a=auge
+|2012b=auget
+|2012c=auge
+|2012d=auga
+}}
 
-# {{inflection of|nn|auge||def|p}}
+===Noun===
+{{nn-noun-form|n}}
+
+# {{infl of|nn|auge||def|p}}
 
 ===See also===
 * {{l|nn|auge-}}, {{l|nn|augne-}}
 * {{l-nb|øye}}
 
 ===References===
-* {{R:The Nynorsk Dictionary}}
+* {{R:ND}}
+
+{{c|nn|Body parts}}
 
 ----
 
