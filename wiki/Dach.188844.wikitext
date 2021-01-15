@@ -6,24 +6,27 @@ From {{inh|de|gmh|dach}}, from {{inh|de|goh|dah}}, from {{inh|de|gmw-pro|*þak}}
 
 ===Pronunciation===
 * {{IPA|de|/dax/|[däχ]}}
-* {{rhymes|de|aχ}}
+* {{rhymes|de|ax}}
 * {{audio|de|De-Dach.ogg|audio}}
+* {{homophone|de|DACH}}
 
 ===Noun===
 {{de-noun|n|Daches|gen2=Dachs|Dächer|Dächlein|dim2=Dächel|dim3=Dächelchen|dim4=Dächerchen}}
 
 # [[roof]]
 # {{lb|de|informal}} [[circumflex]]
+#: {{syn|de|Zirkumflex}}
 
 ====Declension====
 {{de-decl-noun-n|(e)s|pl=Dächer}}
 
-====Synonyms====
-* {{sense|circumflex}} {{l|de|Zirkumflex}}
-
 ====Derived terms====
-* {{l|de|dachartig}}, {{l|de|dachförmig}}, {{l|de|dachlos}}
-* {{l|de|Obdach}}, {{l|de|bedachen}}
+{{der2|de
+|dachartig
+|dachförmig
+|dachlos
+|Obdach
+|bedachen}}
 
 ====Related terms====
 {{rel3|de
@@ -101,7 +104,10 @@ From {{inh|hrx|goh|dah}}, from {{inh|hrx|gmw-pro|*þak}}, from {{inh|hrx|gem-pro
 ==Pennsylvania German==
 
 ===Etymology===
-Compare {{cog|de|Dach}}, {{cog|nl|dak}}, {{cog|en|thatch}}.
+From {{inh|pdc|goh|dah}}, from {{inh|pdc|gmw-pro|*þak}}, from {{inh|pdc|gem-pro|*þaką}}.
+
+===Pronunciation===
+{{rfp|pdc}}
 
 ===Noun===
 {{head|pdc|noun|g=n|plural|Decher}}
@@ -111,6 +117,12 @@ Compare {{cog|de|Dach}}, {{cog|nl|dak}}, {{cog|en|thatch}}.
 ----
 
 ==Plautdietsch==
+
+===Etymology===
+{{rfe|pdt}}
+
+===Pronunciation===
+{{rfp|pdt}}
 
 ===Noun===
 {{head|pdt|noun|g=m|plural|Doag}}
@@ -133,12 +145,12 @@ Compare {{cog|de|Dach}}, {{cog|nl|dak}}, {{cog|en|thatch}}.
 * {{l|pdt|dache}}
 
 ===See also===
-* {{l|pdt|dach}} (''bright'')
-* {{l|pdt|Dak}} (''roof'')
-* {{l|pdt|Dakj}} (''blanket, cover'')
-* {{l|pdt|Sinnowent}} (''Saturday'')
-* {{l|pdt|Wäakj}} (''week'')
-* {{l|pdt|Moonat}} (''month'')
-* {{l|pdt|Joa}} (''year'')
+* {{l|pdt|dach||bright}}
+* {{l|pdt|Dak||roof}}
+* {{l|pdt|Dakj||blanket, cover}}
+* {{l|pdt|Sinnowent||Saturday}}
+* {{l|pdt|Wäakj||week}}
+* {{l|pdt|Moonat||month}}
+* {{l|pdt|Joa||year}}
 
 [[Category:Plautdietsch one-syllable nouns]]
