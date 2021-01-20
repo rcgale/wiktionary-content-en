@@ -319,7 +319,7 @@ From {{der|nb|non|egg|g=f}}
 {{wp|lang=nn}}
 
 ===Pronunciation===
-* {{IPA|nn|/ɛɡː/}} {{nn-pronu-note}}
+* {{IPA|nn|/eɡː/|/ɛɡː/}} {{nn-pronu-note}}
 
 ===Etymology 1===
 From {{inh|nn|non|egg|g=n}}, from {{inh|nn|gem-pro|*ajją}}, from {{inh|nn|ine-pro|*h₂ōwyóm}}. Akin to {{cog|en|egg}}.
@@ -328,6 +328,22 @@ From {{inh|nn|non|egg|g=n}}, from {{inh|nn|gem-pro|*ajją}}, from {{inh|nn|ine-p
 {{nn-noun-n1}}
 
 # an {{l|en|egg}}
+
+=====Inflection=====
+{{nn-noun-infl
+|Aasen1=Egg {{g|n}}
+|Aasen2=Egget
+|Aasen3=Egg
+|Aasen4=''Eggi''
+|1901b=egget (''egge'')
+|1917b=egget
+|1917d=egga, ''eggi''
+|1938d=egga [''eggi'']
+|2012a=egg {{g|n}}
+|2012b=egget
+|2012c=egg
+|2012d=egga
+}}
 
 ====Derived terms====
 {{col3-u|nn
@@ -343,11 +359,34 @@ From {{inh|nn|non|egg|g=n}}, from {{inh|nn|gem-pro|*ajją}}, from {{inh|nn|ine-p
 {{root|nn|ine-pro|*h₂eḱ-}}
 From {{inh|nn|non|egg|g=f}}, from {{inh|nn|gem-pro|*agjō|g=f|t=edge, corner}}, and ultimately from the {{der|nn|ine-pro|-}} root {{m|ine-pro|*h₂eḱ-}}. Cognates include {{cog|en|edge}} and {{cog|de|Ecke}}.
 
-===Noun===
+====Noun====
 {{nn-noun-multi|f1|m1}}
 
 # an {{l|en|edge}} {{q|the thin cutting side of the blade of an instrument, such as an ax, knife, sword, or scythe}}
 # {{lb|nn|geology}} an {{l|en|arête}}
+
+=====Inflection=====
+{{nn-noun-infl
+|Aasen1=Egg {{g|f}}
+|Aasen2=''Eggi''
+|Aasen3=''Eggjar''
+|Aasen4=''Eggjarna''
+|1901d=''eggjarne'' (''eggjane'')
+|1917b=egga, ''eggi''
+|1917c=''eggjar'', egger
+|1917d=''eggjane'', eggene
+|1938b=egga [''eggi'']
+|1938c=egger
+|1938d=eggene
+|1959a=egg {{g|m|f}}
+|1959b=eggen, egga [''eggi'']
+|1959c=eggar, egger
+|1959d=eggane, eggene
+|2012a=egg {{g|m|f}}
+|2012b=eggen, egga
+|2012c=eggar, egger
+|2012d=eggane, eggene
+}}
 
 ===References===
 * {{R:ND}}
