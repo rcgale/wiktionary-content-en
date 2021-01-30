@@ -54,7 +54,7 @@ From {{af|en|tactic|-al}}.
 |year=2013
 |author=Adam Chlipala
 |title=Certified Programming with Dependent Types
-|passage=The <tt>repeat</tt> that we use here is called a '''''tactical''''', or tactic combinator. The behavior of <tt>repeat</tt> ''t'' is to loop through running ''t'', running ''t'' on all generated subgoals, running ''t'' on ''their'' generated subgoals, and so on. When ''t'' fails at any point in this search tree, that particular subgoal is left to be handled by later tactics.}}
+|passage=The {{monospace|repeat}} that we use here is called a '''''tactical''''', or tactic combinator. The behavior of {{monospace|repeat}} ''t'' is to loop through running ''t'', running ''t'' on all generated subgoals, running ''t'' on ''their'' generated subgoals, and so on. When ''t'' fails at any point in this search tree, that particular subgoal is left to be handled by later tactics.}}
 # A [[private]] [[war]] [[reenactment]] event involving mock [[battle]]s or [[skirmish]]es.
 
 [[Category:English 3-syllable words]]
