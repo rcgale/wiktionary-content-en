@@ -38,12 +38,12 @@ From {{der|en|enm|putten}}, {{m|enm|puten}}, {{m|enm|poten}}, from {{der|en|ang|
 #*: His fury thus appeased, he '''puts''' to land.
 # To play a card or a hand in the game called put.
 # To attach or attribute; to assign.
-#: ''to '''put''' a wrong construction on an act or expression''
+#: {{ux|en|to '''put''' a wrong construction on an act or expression}}
 # {{lb|en|obsolete}} To lay down; to give up; to surrender.
 #* {{RQ:Wycliffe Bible|IV|John|15|13|280}}
 #*: No man hath more love than this, that a man '''put''' his life for his friends.
 # To [[set]] before one for [[judgment]], [[acceptance]], or [[rejection]]; to [[bring]] to the [[attention]].
-#: ''to '''put''' a question; to '''put''' a case''
+#: {{ux|en|to '''put''' a question; to '''put''' a case}}
 #* '''1708-1710''', {{w|George Berkeley}}, ''Philosophical Commentaries or Common-Place Book''
 #*: '''Put''' the perceptions and you '''put''' the mind.
 #* {{RQ:Orwell Animal Farm|3}}
@@ -281,18 +281,18 @@ From {{der|en|enm|putten}}, {{m|enm|puten}}, {{m|enm|poten}}, from {{der|en|ang|
 {{trans-bottom}}
 
 =====See also=====
-[[putten]]
+* {{l|en|putten}}
 
 ====Noun====
 {{en-noun|~}}
 
 # {{lb|en|business}} A right to sell something at a predetermined price.
 # {{lb|en|finance}} A [[contract]] to sell a security at a set price on or before a certain date.
-#: ''He bought a January '08 '''put''' for Procter and Gamble at 80 to hedge his bet.''
+#: {{ux|en|He bought a January '08 '''put''' for Procter and Gamble at 80 to hedge his bet.}}
 #* '''c. 1900''', ''Universal Cyclopaedia'' Entry for ''Stock-Exchange''
 #*: A '''put''' and a call may be combined in one instrument, the holder of which may either buy or sell as he chooses at the fixed price.
 # The act of putting; an action; a movement; a thrust; a push.
-#: ''the '''put''' of a ball''
+#: {{ux|en|the '''put''' of a ball}}
 #* {{RQ:L'Estrange Fables of Aesop|passage=The Stag's was a Forc'd '''put''', and a Chance rather than a Choice.}}
 # {{lb|en|uncountable}} An old [[card game]].
 #: {{rfquotek|en|Young}}
@@ -476,37 +476,42 @@ From {{inh|nl|dum|put}}, from {{inh|nl|odt|*putti}}, from {{inh|nl|gmw-pro|*puti
 ===Etymology 1===
 Borrowed from {{bor|gd|sco|put|t=push}}. Ultimately from the root of {{cog|en|put}}.
 
-===Pronunciation===
+====Pronunciation====
 * {{IPA|gd|/pʰuʰt̪/}}
 
-===Verb===
+====Verb====
 {{gd-verb|past=phut|fut=putaidh|vn=putadh|pp=pute}}
 
 # [[push]], [[shove]]
 # [[jostle]]
 # [[press]]
 
-====Derived terms====
+=====Derived terms=====
 * {{l|gd|put ann}}
 
 ===Etymology 2===
 Borrowed from {{bor|gd|sco|pout}}, from {{der|gd|enm|pulet|t=a pullet}}.
 
-===Noun===
+====Noun====
 {{gd-noun|g=m|gen=puta|pl=putan}}
 
 # young [[grouse]], [[pout]] {{qualifier|[[Lagopus lagopus]]}}
 
+=====Mutation=====
+{{gd-mut-cons|p|uta}}
+
 ===Etymology 3===
 Probably of {{der|gd|gmq|-}} origin, from {{der|gd|gem-pro|*pūto||swollen}}, from {{der|gd|ine-pro|*bu-||to swell}}, see also {{cog|sa|बुद्बुद||bubble}}.
 
-===Noun===
+====Noun====
+{{gd-noun|g=m|gen=puta|pl=putan}}
+
 # {{lb|gd|nautical}} large [[buoy]], [[float]] {{qualifier|generally of sheepskin, inflated}}
 # [[corpulent]] person; any [[bulge|bulging]] thing
 # [[shovelful]], [[sod]], [[spadeful]]
 # {{lb|gd|medicine}} [[bruise]]d [[swelling]]
 
-====Mutation====
+=====Mutation=====
 {{gd-mut-cons|p|uta}}
 
 ===References===
@@ -529,30 +534,30 @@ From {{inh|sh|sla-pro|*pǫtь}}, from {{der|sh|ine-pro|*ponth₂-}}.
 {{sh-noun|g=m|head=pȗt}}
 
 # [[road]]
-#: ''put za Sarajevo'' — road to Sarajevo
-#: ''gd(j)e vodi ovaj put?'' — where does this road lead?
+#: {{uxi|sh|'''put''' za Sarajevo|'''road''' to Sarajevo}}
+#: {{uxi|sh|gd(j)e vodi ovaj '''put'''?|where does this '''road''' lead?}}
 # [[way]]
-#: ''ovim putem'' — this way
-#: ''ići pravim putem'' — to go the right way
-#: ''vodeni put'' — waterway
-#: ''ići svojim putem'' — to go one's own way
-#: ''stati nekome na put'' — to stand in somebody's way
-#: ''teret je na putu'' — cargo is on the way
-#: ''miči mi se s puta!'' — get out of my way!
-#: ''najkraći put do bolnice'' — the shortest way to the hospital
-#: ''na pola puta do škole'' — halfway to the school
+#: {{uxi|sh|ovim '''putem'''|this '''way'''}}
+#: {{uxi|sh|ići pravim '''putem'''|to go the right '''way'''}}
+#: {{uxi|sh|vodeni '''put'''|water'''way'''}}
+#: {{uxi|sh|ići svojim '''putem'''|to go one's own '''way'''}}
+#: {{uxi|sh|stati nekome na '''put'''|to stand in somebody's '''way'''}}
+#: {{uxi|sh|teret je na '''putu'''|cargo is on the '''way'''}}
+#: {{uxi|sh|miči mi se s '''puta'''!|get out of my '''way'''!}}
+#: {{uxi|sh|najkraći '''put''' do bolnice|the shortest '''way''' to the hospital}}
+#: {{uxi|sh|na pola '''puta''' do škole|half'''way''' to the school}}
 # [[path]]
-#: ''krčiti put'' — to clear a path
-#: ''put do usp(j)eha'' — the path to success
+#: {{uxi|sh|krčiti '''put'''|to clear a path}}
+#: {{uxi|sh|'''put''' do usp(j)eha|the path to success}}
 # [[trip]], [[journey]]
-#: ''ići na put'' — to go on a trip
-#: ''biti na putu'' — to be on a trip
-#: ''put oko sv(ij)eta'' — a trip around the world
-#: ''poslovni put'' — a business trip
+#: {{uxi|sh|ići na '''put'''|to go on a '''trip'''}}
+#: {{uxi|sh|biti na '''putu'''|to be on a '''trip'''}}
+#: {{uxi|sh|'''put''' oko sv(ij)eta|a '''trip''' around the world}}
+#: {{uxi|sh|poslovni '''put'''|a business '''trip'''}}
 # ({{non-gloss definition|figurative and idiomatic senses}}) [[method]], [[means]]
-#: ''sudskim putem'' — by legal means; through court order
-#: ''službenim/zvaničnim putem'' — through official channels
-#: ''Ml(ij)ečni put'' — Milky Way
+#: {{uxi|sh|sudskim '''putem'''|by legal '''means'''; through court '''order'''}}
+#: {{uxi|sh|službenim/zvaničnim '''putem'''|through official '''channels'''}}
+#: {{uxi|sh|Ml(ij)ečni '''put'''|Milky '''Way'''}}
 
 =====Declension=====
 {{sh-decl-noun
@@ -575,12 +580,12 @@ From {{inh|sh|sla-pro|*plъtь}}.
 {{sh-noun|g=f|head=pȕt}}
 
 # [[complexion]], [[skin]] [[hue]], [[tan]]
-#: ''sv(ij)etla put'' — fair complexion/tan
-#: ''tamna put'' — dark complexion/tan
-#: ''crna put'' — black complexion/tan
+#: {{uxi|sh|sv(ij)etla '''put'''|fair '''complexion'''/'''tan'''}}
+#: {{uxi|sh|tamna '''put'''|dark '''complexion'''/'''tan'''}}
+#: {{uxi|sh|crna '''put'''|black '''complexion'''/'''tan'''}}
 # [[body]] as a totality of physical properties and sensitivities
-#: ''mlada put'' — a young body
-#: ''gladna put'' — a hungry body
+#: {{uxi|sh|mlada '''put'''|a young '''body'''}}
+#: {{uxi|sh|gladna '''put'''|a hungry '''body'''}}
 
 =====Declension=====
 {{sh-decl-noun
@@ -621,13 +626,13 @@ From {{m|sh|pȗt||road, path, way}}.
 {{sh-adverb|head=pȗt}}
 
 # [[time]] (with adjectives, ordinals and demonstratives indicating order in the sequence of actions or occurrences)
-#: ''prvi put'' — the first time, for the first time
-#: ''drugi put'' — the second time, for the second time; another time
-#: ''ovaj put'' — this time
-#: ''sljedeći/sledeći put'' — the next time
-#: ''posljednji/poslednji put'' — the last time
-#: ''po stoti put'' — for the hundredth time
-#: ''svaki put'' — every time
+#: {{uxi|sh|prvi '''put'''|the first '''time''', for the first '''time'''}}
+#: {{uxi|sh|drugi '''put'''|the second '''time''', for the second '''time'''; another '''time'''}}
+#: {{uxi|sh|ovaj '''put'''|this '''time'''}}
+#: {{uxi|sh|sljedeći/sledeći '''put'''|the next '''time'''}}
+#: {{uxi|sh|posljednji/poslednji '''put'''|the last '''time'''}}
+#: {{uxi|sh|po stoti '''put'''|for the hundredth '''time'''}}
+#: {{uxi|sh|svaki '''put'''|every '''time'''}}
 
 [[Category:Serbo-Croatian terms with multiple etymologies]]
 [[Category:sh:Body]]
