@@ -2,23 +2,22 @@
 {{wikipedia}}
 
 ===Etymology===
-Borrowed from {{bor|en|la|cochlea||a snail}}, from {{der|en|grc|κοχλίας||snail with a spiral shell}}.
+Borrowed from {{bor|en|la|cochlea||snail}}, from {{der|en|grc|κοχλίας||spiral, snail shell}}.
 
 ===Pronunciation===
-* {{a|RP}} {{IPA|en|/ˈkɒk.li.ə/}}
-* {{a|GA}} {{IPA|en|/ˈkoʊ.kli.ə/|/ˈkɑk.li.ə/}}
+* {{IPA|en|/ˈkɒk.lɪə/}}
 
 ===Noun===
-{{en-noun|cochleae|s}}
+{{en-noun|s|cochleae}}
 
-# {{lb|en|anatomy}} The complex, [[spirally]] [[coil]]ed, tapered [[cavity]] of the [[inner ear]] of higher [[vertebrate]]s, which contains the {{w|organ of Corti}} and in which sound [[vibration]]s are converted into [[nerve impulse]]s.
-# A [[spiral]]-shaped shell, especially that of a [[snail]].
+# {{lb|en|anatomy}} The complex, spirally coiled, tapered [[cavity]] of the [[inner ear]] in which sound vibrations are converted into nerve impulses.
+# A spiral-shaped [[shell]], especially that of a [[snail]].
 
 ====Derived terms====
 * {{l|en|cochlear}}
 
 ====Translations====
-{{trans-top}}
+{{trans-top|the complex, spirally coiled, tapered cavity of the inner ear}}
 * Afrikaans: {{t|af|koglea}}
 * Bulgarian: {{t|bg|ушен охлюв}}
 * Catalan: {{t+|ca|còclea|f}}
@@ -43,24 +42,50 @@ Borrowed from {{bor|en|la|cochlea||a snail}}, from {{der|en|grc|κοχλίας||
 * Tagalog: {{t|tl|karakol}}
 {{trans-bottom}}
 
-===References===
-* {{R:Lexico}}
-* {{R:MWO}}
-
-[[cat:en:Body parts]]
+[[Category:English nouns with irregular plurals]]
 
 ----
 
 ==Latin==
 
+===Alternative forms===
+* {{l|la|coclea}}
+
+===Etymology===
+From {{der|la|grc|κοχλίας||spiral, snail shell}}.
+
 ===Pronunciation===
-* {{la-IPA|cōchlea}}
+* {{la-IPA|cochlea}}
 
 ===Noun===
-{{la-noun|cōchlea<1>}}
+{{la-noun|cochlea<1>}}
 
-# {{alt sp|la|cōclea}}.
+# [[snail]]
+# snail [[shell]]
+# [[spiral]]
+
+====Declension====
+{{la-ndecl|cochlea<1>}}
 
 ====Derived terms====
-* {{l|la|cōchlear}}
-* {{l|la|cōchleārium}}
+* {{l|la|cochlear}}
+* {{l|la|cochleārium}}
+
+====Descendants====
+{{top2}}
+* {{desc|ca|còclea}}
+* {{desc|en|cochlea}}
+* {{desc|it|chiocciola}}, {{l|it|coclea}}
+{{mid2}}
+* {{desc|pt|cóclea}}
+* {{desc|ro|ghioc}}
+* {{desc|scn|crocchia}}
+* {{desc|es|cóclea}}
+{{bottom}}
+
+===References===
+* {{R:L&S}}
+* {{R:du Cange}}
+* {{R:Gaffiot}}
+
+{{C|la|Gastropods}}
