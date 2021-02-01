@@ -223,9 +223,9 @@ From {{inh|pcc|tai-pro|*ʰmaːᴬ||dog}}. Cognate with {{cog|th|หมา}}, {{c
 * {{rhymes|ca|al}}
 
 ===Etymology 1===
-From {{inh|ca|pro}}, from {{inh|ca|la|malus}}.
+From {{inh|ca|pro|mal}}, from {{inh|ca|la|malus}}.
 
-===Noun===
+====Noun====
 {{ca-noun|m}}
 
 # [[evil]], [[bad]]
@@ -233,32 +233,32 @@ From {{inh|ca|pro}}, from {{inh|ca|la|malus}}.
 # [[illness]]
 #: {{syn|ca|malaltia}}
 
-====Related terms====
+=====Related terms=====
 * {{l|ca|malícia}}
 
 ===Etymology 2===
 From {{inh|ca|pro|mal}}, from {{inh|ca|la|male}}.
 
-===Adverb===
+====Adverb====
 {{ca-adv}}
 
 # [[badly]], [[poorly]]
 #: {{syn|ca|malament}}
 #: {{ant|ca|bé}}
 
-====Derived terms====
+=====Derived terms=====
 * {{l|ca|anar a mal borràs}}
 * {{l|ca|malestar}}
 * {{l|ca|prendre mal}}
 
-===Adjective===
+====Adjective====
 {{ca-adj}}
 
 # [[bad]], [[poor]]
 #: {{syn|ca|dolent}}
 #: {{ant|ca|bo}}
 
-====Derived terms====
+=====Derived terms=====
 * {{l|ca|mala herba}}
 * {{l|ca|malament}}
 
@@ -336,12 +336,12 @@ From {{inh|dlm|la|malus}}.
 ===Etymology 1===
 From {{bor|nl|fro|modle}}, an old (11th century) borrowing from {{der|nl|la|modulus||measure}}.
 
-===Pronunciation===
+====Pronunciation====
 * {{rhymes|nl|ɑl}}
 * {{audio|nl|Nl-mal.ogg|audio}}
 * {{IPA|nl|/mɑl/}}
 
-===Noun===
+====Noun====
 {{nl-noun|f|-en|malletje}}
 
 # [[mold]], [[cast]] {{gloss|device to help creating [[shape]]s}}
@@ -349,25 +349,25 @@ From {{bor|nl|fro|modle}}, an old (11th century) borrowing from {{der|nl|la|modu
 ===Etymology 2===
 From {{inh|nl|dum|mal|}}, of uncertain origin, possibly related to {{der|nl|fr|mal|t=bad}} or {{cog|nl|malen|t=to grind, crush}} in the sense "broken, twisted."
 
-===Adjective===
+====Adjective====
 {{nl-adj|maller}}
 
 # [[foolish]], [[crazy]], lacking [[common sense]]
 
-====Usage notes====
+=====Usage notes=====
 The adjective {{m|nl|mal}} always refers to an aspect of a thing or person. It is the adjective form of the noun {{m|nl|mallerd}}. For other senses, {{m|nl|dwaas}}, {{m|nl|dom}} and {{m|nl|gek}} are used.
 
-====Inflection====
+=====Inflection=====
 {{nl-decl-adj|malle}}
 
-====Derived terms====
+=====Derived terms=====
 * {{l|nl|mallerd}}
-
-===Anagrams===
-* {{l|nl|lam}}
 
 ===Further reading===
 * {{R:nl:Etymologiebank|mal1}}
+
+===Anagrams===
+* {{l|nl|lam}}
 
 ----
 
@@ -794,30 +794,34 @@ From {{inh|ang|gem-pro|*mailą}}.
 ===Etymology 1===
 From {{inh|fro|la|male}}.
 
-===Adverb===
+====Adverb====
 {{fro-adv}}
 
 # [[evilly]]
 # [[badly]]; [[poorly]]
 
-====Descendants====
-* {{desctree|frm|mal}}
+=====Descendants=====
+* {{desc|frm|mal}}
+** {{desc|fr|mal}}
 
 ===Etymology 2===
 From {{inh|fro|la|malus}}.
 
-===Noun===
+====Noun====
 {{fro-noun|m}}
 
 # [[evil]]
 # [[pain]], [[suffering]]
 
-===Adjective===
+=====Descendants=====
+* {{desctree|frm|mal}}
+
+====Adjective====
 {{fro-adj|comp=peior|sup=peior}}
 
 # [[bad]] (undesirable; not good)
 
-====Descendants====
+=====Descendants=====
 * {{desc|frm|mal}}
 ** {{desc|fr|mal}}
 
@@ -1052,9 +1056,12 @@ Apocopic form of {{m|la|malo}}, from {{inh|es|la|malus}}, possibly derived from 
 |no hay mal que por bien no venga
 }}
 
-====Related terms====
+=====Related terms=====
 * {{l|es|maleza}}
 * {{l|es|malicia}}
+
+=====Descendants=====
+* {{desc|pap|malu}}
 
 ===Etymology 2===
 From {{inh|es|la|male}}.
@@ -1089,7 +1096,7 @@ From {{inh|es|la|male}}.
 # [[worse]] {{q|substantive}}
 #: {{uxi|es|para bien o para '''mal'''|for better or for '''worse'''}}
 
-====Derived terms====
+=====Derived terms=====
 {{col4|es
 |dar más mal que un hijo tonto
 |eje del mal
