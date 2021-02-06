@@ -27,6 +27,7 @@ From {{der|en|la|basis}}, from {{der|en|grc|βάσις}},<ref name="OED">“[htt
 #: ''You should brush your teeth on a daily '''basis''' at minimum.''
 #: ''The flights to Fiji leave on a weekly '''basis'''.''
 #: ''Cars must be checked on a yearly '''basis'''.''
+# {{lb|en|agriculture|trading}} The difference between the cash price a dealer pays to a farmer for his produce and an agreed reference price, which is usually the futures price at which the given crop is trading at a [[commodity exchange]]. 
 # {{lb|en|linear algebra}} In a [[vector space]], a [[linearly independent]] set of [[vector]]s spanning the whole vector space.
 # {{lb|en|accounting}} Amount paid for an investment, including commissions and other expenses.
 # {{lb|en|topology}} A collection of subsets ("basis elements") of a set, such that this collection covers the set, and for any two basis elements which both contain an element of the set, there is a third basis element contained in the intersection of the first two, which also contains that element.
@@ -50,7 +51,8 @@ From {{der|en|la|basis}}, from {{der|en|grc|βάσις}},<ref name="OED">“[htt
 {{der-bottom}}
 
 ====Translations====
-{{trans-top|physical foundation}}
+{{trans-top|physical base or foundation}}
+* Finnish: {{t|fi|pohja}}, {{t|fi|perusta}}; {{t|fi|perustus}}
 * Italian: {{t+|it|fondamenta}}
 * Latin: {{t|la|fundāmen|n}}
 {{trans-mid}}
@@ -62,7 +64,7 @@ From {{der|en|la|basis}}, from {{der|en|grc|βάσις}},<ref name="OED">“[htt
 * Belarusian: {{t|be|асно́ва|f}}
 * Bulgarian: {{t|bg|изходен пункт}}
 * Dutch: {{t+|nl|basis|f}}
-* Finnish: {{t+|fi|lähtökohta}}, {{t+|fi|perusta}}
+* Finnish: {{t+|fi|lähtökohta}} {{q|starting point}}; {{t+|fi|peruste}} {{q|foundation}}
 * French: {{t+|fr|base|f}}
 * German: {{t+|de|Basis|f}}, {{t+|de|Grundlage|f}}
 * Greek: {{t+|el|βάση|f|sc=Grek}}
@@ -92,7 +94,7 @@ From {{der|en|la|basis}}, from {{der|en|grc|βάσις}},<ref name="OED">“[htt
 * Chinese:
 *: Mandarin: {{t+|cmn|基礎|sc=Hani}}, {{t+|cmn|基础|tr=jīchǔ|sc=Hani}}
 * Dutch: {{t+|nl|basis|f}}
-* Finnish: {{t+|fi|perusta}}
+* Finnish: {{t+|fi|peruste}}
 * French: {{t+|fr|base|f}}
 * German: {{t+|de|Basis|f}}, {{t+|de|Grundlage|f}}
 * Hungarian: {{t+|hu|alap}}
@@ -108,6 +110,16 @@ From {{der|en|la|basis}}, from {{der|en|grc|βάσις}},<ref name="OED">“[htt
 * Tocharian B: {{t|txb|ścmoñña}}
 * Ukrainian: {{t+|uk|ба́за}}, {{t+|uk|баз́ис}}, {{t|uk|осно́ва}}
 * Vietnamese: {{t+|vi|cơ sở }}
+{{trans-bottom}}
+
+{{trans-top|regular frequency}}
+* Finnish: {{t|fi|-ttain}}, {{t|fi|joka}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|agriculture: difference between cash price and futures price}}
+* Finnish: {{t|fi|basis}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|linearly independent, spanning set of vectors}}
@@ -132,14 +144,14 @@ From {{der|en|la|basis}}, from {{der|en|grc|βάσις}},<ref name="OED">“[htt
 * Ukrainian: {{t+|uk|баз́ис}}
 {{trans-bottom}}
 
-{{trans-top|amount paid for an investment}}
+{{trans-top|accounting: amount paid for an investment}}
 * Finnish: {{t+|fi|hankintameno}}
 * Italian: {{t+|it|cifra|f}}, {{t+|it|ammontare|m}}, {{t|it|cifra base}}, {{t|it|ammontare base}}
 {{trans-mid}}
 * Korean: {{t|ko|밑천}}
 {{trans-bottom}}
 
-{{trans-top|collection of subsets}}
+{{trans-top|topology: collection of subsets}}
 * Finnish: {{t+|fi|kanta}}
 {{trans-mid}}
 {{trans-bottom}}
