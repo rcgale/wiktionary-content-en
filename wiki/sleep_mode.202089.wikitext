@@ -3,16 +3,22 @@
 ===Noun===
 {{en-noun|-}}
 
-# {{lb|en|computing}} the state of a [[computer]] [[system]] (especially a [[laptop]]), in which the [[screen]] and [[hard drive]] are [[switched]] [[off]], and the only [[task]] running [[monitor]]s [[external]] [[activity]] (such as a [[key]] [[press]]) which [[restore]]s the system to its [[active]] state
+# {{lb|en|computing}} the state of a [[computer]] [[system]] in which the [[drive]]s and [[interface]]s are [[switched]] [[off]], and the only [[task]] running is [[monitor]]ing [[external]] [[activity]], particularly a [[key]] [[press]] which [[restore]]s the system to its [[active]] state from the [[random access memory]].
+#: {{syn|en|standby|suspend to memory|suspend to RAM}}<!--Note to formalists: the POS is abstracted from here. The verbs are converted into nouns by making them gerunds anyway. The verb to this page is “put into sleep mode” which is SOP so one has to place verb synonyms under the noun. -->
+#: {{cot|en|hibernation|t1=a mode that completely powers off and restores from [[hard disk]]}}
 
 ====Translations====
 {{trans-top|state of a computer system}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
 * Finnish: {{t+|fi|valmiustila}}, {{t|fi|lepotila}}
 * French: {{t+|fr|mise en veille|f}}
+* German: {{t|de|Bereitschaftszustand|m}}
 * Georgian: {{t|ka|ძილის რეჟიმი}}
+{{trans-mid}}
 * Norwegian:
 *: Bokmål: {{t|nb|dvalemodus|m}}
 *: Nynorsk: {{t|nn|dvalemodus|m}}
-{{trans-mid}}
 * Russian: {{t|ru|дежу́рный режи́м|m}}, {{t|ru|режи́м ожида́ния|m}}
+* Swedish: {{t-needed|sv}}
 {{trans-bottom}}
