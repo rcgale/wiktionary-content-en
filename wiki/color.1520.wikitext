@@ -18,7 +18,7 @@
 }}
 
 ===Alternative forms===
-* {{alter|en|colla||Bermuda}}, {{alter|en|colour||Commonwealth|Ireland}} (see the [[#Usage notes|usage notes]] below)
+* {{alt|en|colla||Bermuda}}, {{alt|en|colour||Commonwealth|Ireland}} (see the [[#Usage notes|usage notes]] below)
 
 ===Etymology===
 From {{inh|en|enm|colour}}, {{m|enm|color}}, borrowed from {{der|en|xno|colur}}, from {{der|en|fro|colour}}, {{m|fro|color}}, from {{der|en|la|color}}. Displaced {{noncog|en|blee}}, {{noncog|enm|blee|t=color}}, from {{noncog|ang|blēo}}. Also partially replaced {{cog|ang|hīew||color}} and its descendants, which is less often used in this sense. {{doublet|en|couleur}}.
@@ -35,7 +35,7 @@ In the US, the spelling ''color'' is used to match the spelling of the word's La
 ===Noun===
 {{en-noun|~}} {{tlb|en|American spelling}}
 
-# {{lb|en|uncountable}} The spectral composition of visible light
+# {{lb|en|uncountable}} The spectral composition of visible light.
 #: {{ux|en|Humans and birds can perceive '''color'''.}}
 #: {{syn|en|blee}}
 # A subset thereof:
@@ -97,14 +97,14 @@ The late {{cog|xno|colour}}, which is the standard UK spelling, has been the usu
 In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, ''-our'' endings are the standard, although ''-or'' endings had some currency in the past and are still sporadically found in some regions. In New Zealand and South Africa, ''-our'' endings are the standard.
 
 ====Synonyms====
-* {{sense|measure of derivative price sensitivity}} {{l|en|colour}}, {{l|en|DgammaDtime}}, {{l|en|gamma decay}}
+* {{s|measure of derivative price sensitivity}} {{l|en|colour}}, {{l|en|DgammaDtime}}, {{l|en|gamma decay}}
 
 ====Hypernyms====
-* {{sense|measure of derivative price sensitivity}} {{l|en|Greeks}} {{qualifier|includes list of coordinate terms}}
+* {{s|measure of derivative price sensitivity}} {{l|en|Greeks}} {{qualifier|includes list of coordinate terms}}
 
 ====Hyponyms====
-{{col4
-|en|accidental color
+{{col4|en
+|accidental color
 |bodycolor
 |color of fire
 |color of law
@@ -274,7 +274,7 @@ In Canada, ''colour'' is preferred, but ''color'' is not unknown; in Australia, 
 * Quechua: {{tt|qu|llimphi}}
 * Romanian: {{tt+|ro|culoare|f}}
 * Romansch: {{tt|rm|colur|m}}, {{tt|rm|calur|m}}, {{tt|rm|calour|m}}, {{tt|rm|culur|m}}
-* Russian: {{tt+|ru|цвет|m}}, {{tt+|ru|ко́лер|m}} {{qualifier|colloquial or special}}
+* Russian: {{tt+|ru|цвет|m}}, {{tt+|ru|ко́лер|m}} {{q|colloquial or special}}
 * Sanskrit: {{tt+|sa|रङ्ग|m}}
 * Santali: {{tt|sat|ᱵᱳᱨᱳᱱ}}
 * Sardinian: {{tt|sc|cabori|m}}, {{tt|sc|caori|m}}, {{tt|sc|colore|m}}, {{tt|sc|colori|m}}
@@ -861,7 +861,7 @@ Up to {{w|lang=de|Goldene Latinität|Golden Latinity}} {{m|la|colōs}}, from {{d
 ===Noun===
 {{la-noun|color<3>}}
 
-# (UK) [[colour]], [[shade]]; (US) [[color#English|color]]
+# [[colour]] {{q|UK}}, [[shade]]; [[color#English|color]] {{q|US}}
 # [[pigment]]
 # [[complexion]]
 # [[outward]] [[appearance]]
