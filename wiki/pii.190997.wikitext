@@ -42,13 +42,14 @@
 
 ===Etymology 1===
 {{senseid|tag=p|fi|silicon}}
-From {{inh|fi|urj-pro|*pije}}; possibly related to etymology (2).
+From {{inh|fi|fiu-fin-pro|*pii||flint}}, from {{inh|fi|urj-pro|*pije||rock, stone}}; possibly related to etymology (2).
 
 ====Noun====
 {{fi-noun}}
 
-# {{lb|fi|dated}} [[flint]] (''hard, fine-grained quartz or a piece of it'')
-# [[silicon]] (''element, symbol Si'')
+# [[silicon]] {{gloss|element, symbol Si}}
+# {{lb|fi|dated}} [[flint]] {{gloss|hard, fine-grained quartz or a piece of it}}
+#: {{syn|fi|piikivi}}
 
 =====Declension=====
 {{fi-decl-maa|pii|ä}}
@@ -87,16 +88,14 @@ From {{inh|fi|urj-pro|*pije}}; possibly related to etymology (2).
 
 ===Etymology 2===
 {{senseid|tag=p|fi|tooth}}
-From {{inh|fi|fiu-fin-pro|*pii}}, from {{inh|fi|fiu-pro|*piŋe}}. Cognates include {{cog|hu|fog||tooth}}.
+From {{inh|fi|fiu-fin-pro|*pii||tooth}}, from {{inh|fi|fiu-pro|*piŋe||tooth}}. Cognates include {{cog|hu|fog||tooth}}.
 
 ====Noun====
 {{fi-noun}}
 
-# {{lb|fi|dated}} A [[thorn]], [[prong]], [[tooth]] or similar element e.g. in a plant, a saw or a rake.
-# {{lb|fi|weaving}} A [[dent]] in a [[reed]]
-# {{lb|fi|nautical}} The position of a sailing vessel, when she is set so that its bow points steadily to the direction of the wind.
-#: {{uxi|fi|olla '''piissä'''|to lie hove-to}}
-#: {{uxi|fi|asettua '''piihin'''|to heave-to}}
+# {{lb|fi|dated}} [[thorn]], [[prong]], [[tooth]] or similar element e.g. in a plant, a saw or a rake
+# {{lb|fi|weaving}} [[dent]] in a [[reed]]
+# {{lb|fi|archaic}} {{synonym of|fi|hammas||tooth}}
 
 =====Declension=====
 {{fi-decl-maa|pii|ä}}
@@ -107,10 +106,21 @@ From {{inh|fi|fiu-fin-pro|*pii}}, from {{inh|fi|fiu-pro|*piŋe}}. Cognates inclu
 =====Derived terms=====
 * {{l|fi|selkäpii}}
 
-=====Related terms=====
-* {{l|fi|pirta}}
-
 ===Etymology 3===
+{{senseid|tag=p|fi|wind}}
+Borrowed from {{bor|fi|sv|bi|lit=by}}.
+
+====Noun====
+{{fi-noun}}
+
+# {{lb|fi|nautical}} The position of a sailing vessel, when she is set so that its bow points steadily to the direction of the wind.
+#: {{uxi|fi|olla '''piissä'''|to lie hove-to}}
+#: {{uxi|fi|asettua '''piihin'''|to heave-to}}
+
+=====Declension=====
+{{fi-decl-maa|pii|ä}}
+
+===Etymology 4===
 {{senseid|tag=p|fi|letter}}
 < {{der|fi|grc|πεῖ}}
 {{enum|fi|omikron|rhoo|Greek letter|Ππ}}
