@@ -3,15 +3,15 @@
 {{wp}}
 
 ===Alternative forms===
-* {{alter|en|scalenus}}
+* {{alter|en|scalenus}} {{q|noun}}
 
 ===Etymology===
 Borrowed from {{bor|en|LL.|scalēnus||of unequal sides}}, from {{bor|en|grc|σκᾰληνός|gloss=uneven, unequal}}.
 
 ===Pronunciation===
-* {{accent|RP}} {{IPA|en|/ˈskeɪ.liːn/}}
+* {{a|RP}} {{IPA|en|/ˈskeɪ.liːn/}}
 * {{audio|en|LL-Q1860 (eng)-Vealhurl-scalene.wav|Audio (RP)}}
-* {{accent|GA}} {{IPA|en|/ˈskeɪˌlin/|/skeɪˈlin/}}
+* {{a|GA}} {{IPA|en|/ˈskeɪˌlin/|/skeɪˈlin/}}
 * {{rhymes|en|iːn}}
 
 ===Adjective===
@@ -23,7 +23,12 @@ Borrowed from {{bor|en|LL.|scalēnus||of unequal sides}}, from {{bor|en|grc|σκ
 # {{lb|en|anatomy}} Of or pertaining to the [[scalene muscle]].
 
 ====Derived terms====
-* {{link|en|scalene muscle}}
+{{col2|en
+|interscalene
+|intrascalene
+|scalene muscle
+|scalene triangle
+|scaleno-}}
 
 ====Translations====
 {{trans-top|having sides unequal in length}}
@@ -46,12 +51,9 @@ Borrowed from {{bor|en|LL.|scalēnus||of unequal sides}}, from {{bor|en|grc|σκ
 ===Noun===
 {{en-noun}}
 
-# {{label|en|muscle}} Any of several [[muscle]]s extending from the [[neck]] to the first and second [[rib]]s. {{ellipsis of|en|scalene muscle}}.
-#: {{ux|en|anterior [[scalene]]}}
-# {{label|en|trigonometry}} A [[scalene]] [[triangle]].
-
-====Derived terms====
-* {{l|en|intrascalene}}
+# {{lb|en|muscle}} {{ellipsis of|en|scalene muscle}}.
+#: {{hypo|en|anterior scalene muscle|middle scalene muscle|posterior scalene muscle}}
+# {{lb|en|trigonometry}} {{ellipsis of|en|scalene triangle}}.
 
 ===References===
 * {{R:Lexico}}
