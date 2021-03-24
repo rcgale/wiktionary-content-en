@@ -433,6 +433,81 @@ From {{der|da|non|hundrað||hundred}}, from {{der|da|gem-pro|*hundaradą}}, from
 
 ----
 
+==Middle English==
+{{number box|enm|100}}
+
+===Etymology 1===
+From {{inh|enm|ang|hundred}}, from {{inh|enm|gem-pro|*hundaradą||hundred}}; some forms are remodelled on {{m|non|hundrað}}.
+
+====Alternative forms====
+* {{alter|enm|honderd|hondred|houndred|houndreth|hundered|hundereth|hunderyth|hundreþ|hundret|hundreth|hundrid|hundrit|hundrythe|hundurd|hwndreth}}
+
+====Pronunciation====
+* {{IPA|enm|/ˈhundrɛd/|/ˈhundrɛθ/|/ˈhundər/}}
+
+====Numeral====
+{{head|enm|numeral}}
+
+# {{senseid|enm|hundred}} A [[hundred|hundred]]; [[100]].
+# A [[large]] number; a [[zillion]].
+
+=====Usage notes=====
+Much like modern {{noncog|en|hundred}}, ''hundred'' needs a determiner preceding it to function as a number.
+
+=====Derived terms=====
+* {{l|enm|hundredfold}}
+
+=====Descendants=====
+* {{desc|en|hundred}}
+* {{desc|sco|hunder}}, {{l|sco|hunner}}
+** {{desc|bor=1|haw|haneli}}
+
+=====References=====
+* {{R:MED Online|entry=hundred|pos=card. num|id=MED21487}}
+
+====Noun====
+{{enm-noun|hundredes}}
+
+# A [[hundredweight]].
+# {{senseid|enm|administrative division}} A {{l|en|hundred}} {{gloss|administrative division}}
+# The [[assembly]] or [[court]] of such a division.
+
+=====Derived terms=====
+* {{l|enm|hundredpeny}}
+
+=====Descendants=====
+* {{desc|en|hundred}}
+
+=====References=====
+* {{R:MED Online|entry=hundred|pos=card. num|id=MED21487}}
+* {{R:MED Online|entry=hundred|pos=n|id=MED21486}}
+
+===Etymology 2===
+A combination of specialised use of the cardinal and {{af|enm|hundred|-eth}}.
+
+====Alternative forms====
+* {{alter|enm|hondraȝte|hondred|hondredaȝte|hundredeþe|hundred|hundret|hundreþ|hundreth|hundrid}}
+
+====Pronunciation====
+* {{IPA|enm|/ˈhundrɛd/|/ˈhundrɛθ/|/ˈhundər/}}
+
+====Adjective====
+{{head|enm|numeral}}
+
+# {{senseid|enm|hundredth}} A [[hundredth]].
+
+=====Descendants=====
+* {{desc|en|hundredth}}
+
+=====References=====
+* {{R:MED Online|entry=hundredethe|pos=ord. num|id=MED21489}}
+
+[[Category:enm:Administrative divisions]]
+[[Category:enm:Numbers]]
+[[Category:enm:Units of measure]]
+
+----
+
 ==Old English==
 {{number box|ang|100}}
 
@@ -452,7 +527,4 @@ From {{inherited|ang|gem-pro|*hundaradą||hundred}}, from {{m|gem-pro|*hundą}} 
 * {{l|ang|hundtēontiġ}}
 
 ====Descendants====
-* {{desc|enm|hundred}}
-** {{desc|sco|hunder}}, {{l|sco|hunner}}
-** {{desc|en|hundred}}
-*** {{desc|bor=1|haw|haneli}}
+* {{desctree|enm|hundred|noalts=1}}
