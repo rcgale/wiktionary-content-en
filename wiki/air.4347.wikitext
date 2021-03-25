@@ -868,13 +868,14 @@ From the same root as {{m|sga|ar|t=for|pos=preposition}}.
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{der|gd|sga|for}} (compare {{cog|ga|ar}}), from {{der|gd|cel-pro|*uɸor}} (compare {{cog|cy|ar}}), from {{der|gd|ine-pro|*upér}} (compare {{cog|la|super}}, {{cog|grc|ὑπέρ}}, {{cog|ang|ofer}}).
+{{dercat|gd|cel-pro|ine-pro|inh=2}}
+From {{der|gd|sga|for}}. Cognates include {{cog|ga|ar}}.
 
 ===Pronunciation===
 * {{IPA|gd|/ɛrʲ/}}
 
 ===Preposition===
-{{head|gd|preposition}}
+{{gd-prep|dat}}
 
 # [[on]], [[upon]]
 #: {{ux|gd|'''air''' bàrr a' bhalla|t='''on''' top of the wall|inline=1}}
@@ -885,32 +886,20 @@ From {{der|gd|sga|for}} (compare {{cog|ga|ar}}), from {{der|gd|cel-pro|*uɸor}} 
 #: {{ux|gd|'''air''' an aobhar sin|t=for that reason|inline=1}}
 # [[by]]
 #: {{ux|gd|'''air''' ainm|t=by name|inline=1}}
-# [[for]] the [[sake]] of - <em lang="gd">air son</em>  - see below, and more under <strong>{{l|gd|son}}</strong>.
+
+====Inflection====
+{{gd-prep-infl|1sg=orm|2sg=ort|3sgm=air|3sgf=oirre|1pl=oirnn|2pl=oirbh|3pl=orra}}
 
 ====Usage notes====
-* '''Air''' combines with personal pronouns to form prepositional pronouns. See ''Derived forms'' below. Specifically for ''air'' the third-person singular masculine pronoun is identical to the uninflected preposition, hence ''air'' = ''on'' or ''on him''.
-* The word '''air''' and its derivates are also used in many idioms:
+* The word '''air''' and its derivates are used in many idioms:
 *: {{ux|gd|Dè an t-ainm a tha ort?|What's your name? (What the name that is '''on you'''?)|inline=1}}
 *: {{ux|gd|Tha an t-acras orm.|t=I'm hungry. (The hunger is '''on me'''.)|inline=1}}
-
-* A grammaticalised unit meaning {{m|en|for}} is formed by a prepositional phrase combining the preposition {{m|gd|air}} / {{m|gd|ar}} with a nominal or pronominal argument and the noun {{m|gd|son}}. (These structures are sometimes called ‘compound prepositions’.)
 
 ====Derived terms====
 {{der3|gd|{{l|gd|air dheireadh||behind; late}}
 |{{l|gd|air fhichead||twenty-...}}
 |{{l|gd|air sgàth||for the sake of}}
 |{{l|gd|airson||for}}}}
-
-* The following prepositional pronouns:
-{{gd-prep-infl
-|1sg=orm
-|2sg=ort
-|3sgm=air
-|3sgf=oirre
-|1pl=oirnn
-|2pl=oirbh
-|3pl=orra
-}}
 
 ===Pronoun===
 {{head|gd|prepositional pronoun|g=m}}
