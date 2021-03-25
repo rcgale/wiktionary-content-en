@@ -1216,18 +1216,21 @@ From {{inh|gd|sga|do}}, from {{inh|gd|cel-pro|*tu||your, thy}}.
 *: {{uxi|gd|Bidh cuimhn’ agam ort, air '''d’''' anam ghrinn.|I will remember thee, thy dear soul.}}
 
 ===Etymology 2===
-From {{inh|gd|sga|do}}, from {{inh|gd|cel-pro|*tu||to}}.
+{{dercat|gd|cel-pro|ine-pro|inh=1}}
+From {{inh|gd|sga|do}}. Cognates include {{cog|ga|do}}.
 
 ====Preposition====
-{{head|gd|preposition}}
+{{gd-prep|dat|L=1}}
 
 # [[to]]
-#: {{uxi|gd|Bha e a' siubhal '''do''' Shasainn an-uiridh.|He travelled to England last year.}}
+#: {{uxi|gd|Bha e a' siubhal '''do''' Shasainn an-uiridh.|He travelled '''to''' England last year.}}
 # [[for]]
-#: {{uxi|gd|'''Do''' dh'ar beatha, dhut, dhèanainn e.|For our life, for thee, I would do it.}}
+#: {{uxi|gd|'''Do''' dh'ar beatha, dhut, dhèanainn e.|'''For''' our life, for thee, I would do it.}}
+
+====Inflection====
+{{gd-prep-infl|1sg=dhomh|2sg=dhut|3sgm=dha|3sgf=dhi|1pl=dhuinn|2pl=dhuibh|3pl=dhaibh}}
 
 ====Usage notes====
-* [[lenite|Lenites]] the following word.
 * Before a word beginning with a [[vowel]] or '''fh''' followed by a vowel it takes the form {{l|gd|do dh'}}.
 *: {{uxi|gd|Tha sinn a' dol '''do dh''''Ìle.|We are going to Islay.}}
 * If the [[definite article]] in the [[singular]] follows, it combines with '''do''' into {{l|gd|don}}:
@@ -1239,16 +1242,6 @@ From {{inh|gd|sga|do}}, from {{inh|gd|cel-pro|*tu||to}}.
 ====Derived terms====
 * {{l|gd|an dèidh do}}
 * {{l|gd|'s urrainn do}}
-* The following prepositional pronouns:
-{{gd-prep-infl
-|1sg=dhomh
-|2sg=dhut
-|3sgm=dha
-|3sgf=dhi
-|1pl=dhuinn
-|2pl=dhuibh
-|3pl=dhaibh
-}}
 
 ----
 
