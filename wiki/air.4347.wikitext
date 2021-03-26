@@ -867,14 +867,14 @@ From the same root as {{m|sga|ar|t=for|pos=preposition}}.
 
 ==Scottish Gaelic==
 
-===Etymology===
-{{dercat|gd|cel-pro|ine-pro|inh=2}}
-From {{der|gd|sga|for}}. Cognates include {{cog|ga|ar}}.
-
 ===Pronunciation===
 * {{IPA|gd|/ɛrʲ/}}
 
-===Preposition===
+===Etymology 1===
+{{dercat|gd|cel-pro|ine-pro|inh=2}}
+From {{der|gd|sga|for}}. Cognates include {{cog|ga|ar}}.
+
+====Preposition====
 {{gd-prep|dat}}
 
 # [[on]], [[upon]]
@@ -887,24 +887,30 @@ From {{der|gd|sga|for}}. Cognates include {{cog|ga|ar}}.
 # [[by]]
 #: {{uxi|gd|'''air''' ainm|'''by''' name}}
 
-====Inflection====
+=====Inflection=====
 {{gd-prep-infl|1sg=orm|2sg=ort|3sgm=air|3sgf=oirre|1pl=oirnn|2pl=oirbh|3pl=orra}}
 
-====Usage notes====
+=====Usage notes=====
 * The word '''air''' and its derivates are used in many idioms:
 *: {{ux|gd|Dè an t-ainm a tha ort?|What's your name? (What the name that is '''on you'''?)|inline=1}}
 *: {{ux|gd|Tha an t-acras orm.|t=I'm hungry. (The hunger is '''on me'''.)|inline=1}}
 
-====Derived terms====
+=====Derived terms=====
 {{der3|gd|{{l|gd|air dheireadh||behind; late}}
 |{{l|gd|air fhichead||twenty-...}}
 |{{l|gd|air sgàth||for the sake of}}
 |{{l|gd|airson||for}}}}
 
-===Pronoun===
-{{head|gd|prepositional pronoun|g=m}}
+===Etymology 2===
+From {{inh|gd|sga|for}}. Cognates include {{cog|ga|air}}.
 
-# {{inflection of|gd|air||3|s|m}} {{gloss|[[on]] [[him]], on [[it]] {{g|m}}}}
+====Pronoun====
+{{head|gd|prepositional pronoun}}
+
+# {{inflection of|gd|air||3|sg|m}}: [[on]] [[him]], [[on]] [[it]]
+
+=====Inflection=====
+{{gd-prep-infl|1sg=orm|2sg=ort|3sgm=air|3sgf=oirre|1pl=oirnn|2pl=oirbh|3pl=orra|root=air}}
 
 ===References===
 * {{R:Dwelly}}
