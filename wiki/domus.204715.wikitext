@@ -20,12 +20,15 @@ Borrowed from {{bor|en|la|domus}}. {{doublet|en|dome}}.
 
 ===Etymology===
 {{root|la|ine-pro|*dem-}}
-From {{inh|la|itc-pro|*domos}}, from {{inh|la|ine-pro|*dṓm|t=house, home}}, from root {{m|ine-pro|*dem-|t=to build}}. Cognates include {{cog|grc|δόμος}}, {{cog|sq|dhomë|t=a chamber, a room}}, {{cog|ae|𐬛𐬀𐬨|𐬛𐬀𐬨-}} {{cog|sa|दम|tr=dáma}} and {{cog|sla-pro|*domъ}}. The same [[Proto-Indo-European]] root also gave {{cog|ang|timber|t=building, act of building}}; see modern {{cog|en|timber}}. Unrelated to {{noncog|la|dominus}} from {{der|la|ine-pro|*demh₂-}}.
+For {{inh|la|itc-pro|*domos}}, from {{inh|la|ine-pro|*dṓm|t=house, home}}, from root {{m|ine-pro|*dem-|t=to build}}. Cognates include {{cog|grc|δόμος}}, {{cog|sq|dhomë|t=a chamber, a room}}, {{cog|ae|𐬛𐬀𐬨|𐬛𐬀𐬨-}} {{cog|sa|दम|tr=dáma}} and {{cog|sla-pro|*domъ}}, {{cog|en|timber}}. At least indirectly cognate to {{cog|la|dominus}}.
+
+The feminine gender probably due to the original root noun; attempts to transfer it to the 4th declension are due to 2nd declension feminines being unusual outside of treenames. Some manuscripts of Plautus show forms in ''dem-''; De Vaan 2008 doubts their authenticity.
+
+===Alternative forms===
+* {{alt|la|demus||uncertain}}
 
 ===Pronunciation===
-* '''domus''': {{la-IPA|domus|eccl=0|vul=1|indent=**}}
-* '''domūs''': {{la-IPA|domūs|eccl=0|vul=1|indent=**}}
-* {{la-IPA|domus|classical=0}}
+* {{la-IPA|domus}}
 
 ===Noun===
 {{la-noun|domus<irreg>|g=f}}
@@ -37,24 +40,22 @@ From {{inh|la|itc-pro|*domos}}, from {{inh|la|ine-pro|*dṓm|t=house, home}}, fr
 #* {{rfdate|la}}, Motto of {{w|Methodist Ladies' College, Melbourne}}
 #*: {{quote|la|Deō '''domuī'''[[-que|que]].|For God and for '''home'''.}}
 #* {{rfdate|la}}, First part of the motto of {{w|Harrow School}}, {{w|England}}
-#*: ''Stet fortūna '''domūs'''.''
-#*:: Let the fortune of the '''house''' stand.
+#*: {{ux|la|Stet Fortūna '''Domūs'''.|Let the good fortune of the '''house''' stand.}}
 # {{lb|la|poetic}} any [[building]] or [[abode]]
-#: {{syn|la|aedificium|cōnstructiō}}
+#: {{syn|la|domicilium|habitāculum|aedificium|aedēs}}
 # [[native]] place, one's [[country]] or [[home]] (confer [[patria]])
 # [[household]], [[family]], [[race]]
 # {{lb|la|in [[locative case]] in phrases}} [[peace]]
-#: ''Bellī '''domīque'''''.
-#:: In war and '''peace'''.
+#: {{ux|la|Bellī '''domīque.'''|In war and '''peace.'''}}
 # {{lb|la|monarchy}} [[house]], [[dynasty]]
 
 ====Usage notes====
-* '''Domus''' is one of a handful of common nouns that take the [[locative case]]; others are [[rus#Latin|rus]] and [[humus#Latin|humus]]. It is irregular in that it has a mix of second and fourth declension forms, the second declension forms being more commonly used in place constructions.
+* This is one of a handful of common nouns that take the [[locative case]]; others are {{m|la|bellum}}, {{m|la|rūs}} and {{m|la|humus}}. It is irregular in that it has a mix of second and fourth declension forms, the second declension forms being more commonly used in place constructions.
 
 ====Declension====
 {{la-ndecl|domus<irreg>}}
 
-* At least in later Latin, the most common declension is as follows:
+* The classically most common declension is as follows:
 : ''domus, domūs, domuī, domum, domō — domūs, domōrum, domibus, domōs, domibus''.
 
 ====Derived terms====
@@ -74,13 +75,13 @@ From {{inh|la|itc-pro|*domos}}, from {{inh|la|ine-pro|*dṓm|t=house, home}}, fr
 
 ====Descendants====
 * {{desc|it|duomo||cathedral}}
-** {{desc|fr|dôme||dome}}
-*** {{desc|de|Dom||cathedral}}
-**** {{desc|pl|dom}}
-* {{desc|pms|dòm}}/{{l|pms|dom}}
-* {{desc|sc|domu|}}, {{l|sc|dommu}}
+** {{desc|bor=1|fr|dôme||dome}}
+*** {{desc|bor=1|de|Dom||cathedral}}
+**** {{desc|bor=1|pl|dom}}
+*** {{desc|bor=1|sv|dom||dome}}
+* {{desc|pms|dòm}}, {{l|pms|dom}}
+* {{desc|sc|domu|alts=1}}, {{l|sc|dommu}}
 * {{desc|scn|domu}}
-* {{desc|sv|dom||dome}}
 
 ===See also===
 {{col4|la
@@ -98,6 +99,9 @@ From {{inh|la|itc-pro|*domos}}, from {{inh|la|ine-pro|*dṓm|t=house, home}}, fr
 }}
 
 ===References===
+* {{R:itc:EDL|domus, dominus|pages=177-179}}
+
+===Further reading===
 * {{R:L&S}}
 * {{R:Elementary Lewis}}
 * {{R:du Cange}}
