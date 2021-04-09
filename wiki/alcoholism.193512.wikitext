@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology===
-{{suffix|en|alcohol|ism}}
+From {{suffix|en|alcohol|ism}}.
 
 ===Pronunciation===
 * {{a|GenAm}} {{IPA|en|/ˈælkə(ˌ)hɔlˌɪzəm/}}<!--~{{IPAchar|/ˈælkə(ˌ)hɔˌlɪzəm/|lang=en}}--><ref name="DC">{{R:Dictionary.com}}</ref><ref name="MWO">{{R:MWO}}</ref><ref name="Collins">{{R:Collins}}</ref><ref name="Macm">{{R:Macmillan}}</ref> {{IPAchar|/ˈælkəhɒlˌɪzəm/|lang=en}}<!--~{{IPAchar|/ˈælkəhɒˌlɪzəm/|lang=en}}--><ref name="DC"/><ref name="Collins"/>
@@ -16,20 +16,33 @@
 # {{lb|en|pathology}} Acute [[alcohol poisoning]].
 
 ====Hypernyms====
-* {{sense|addiction}} {{l|en|alcohol use disorder|gloss={{l|en|AUD}}}} {{gloss|DSM5}}
+* {{s|addiction}} {{l|en|alcohol use disorder|gloss={{l|en|AUD}}}} {{gloss|DSM5}}
 
 ====Derived terms====
 * {{l|en|-holism}}
 
 ====Related terms====
-* {{l|en|alcoholic}}
+{{rel4|en
+|alco
+|alcoholic
+|alcoholical
+|alcoholist
+|alcoholically
+|alcoholicity
+|alcoholise
+|alcoholize
+|alkie
+|alky
+|nonalcoholic
+|non-alcoholic
+}}
 
 ====Translations====
 {{trans-top|chronic disease}}
 * Arabic: {{t|ar|كُحُولِيَّة|f}}
 * Armenian: {{t+|hy|հարբեցողություն}}, {{t+|hy|ալկոհոլիզմ}}
 * Asturian: {{t|ast|alcoholismu|m}}
-* Azerbaijani: {{t|az|alkoqolizm}}, {{t|az|əyyaşlıq}}, {{t|az|pyanskalıq}} {{qualifier|colloquial}}
+* Azerbaijani: {{t|az|alkoqolizm}}, {{t|az|əyyaşlıq}}, {{t|az|pyanskalıq}} {{q|colloquial}}
 * Belarusian: {{t|be|алкагалі́зм|m}}
 * Bulgarian: {{t+|bg|алкохоли́зъм}}
 * Catalan: {{t+|ca|alcoholisme|m}}
@@ -37,8 +50,8 @@
 *: Mandarin: {{t+|cmn|酗酒|tr=xùjiǔ|sc=Hani}}
 * Cornish: {{t|kw|alkohologeth|f}}, {{t|kw|lasogeth|f}}
 * Czech: {{t+|cs|alkoholismus|m}}, {{t+|cs|alkoholizmus|m}}
-* Danish: {{t|da|alkoholisme}}
-* Dutch: {{t+|nl|alcoholisme}}
+* Danish: {{t|da|alkoholisme|c}}
+* Dutch: {{t+|nl|alcoholisme|n}}, {{t+|nl|drankzucht|f|m}}
 * Esperanto: {{t|eo|alkoholismo}}
 * Estonian: {{t+|et|alkoholism}}
 * Finnish: {{t+|fi|alkoholismi}}
@@ -50,7 +63,7 @@
 * Hindi: {{t|hi|शराबीपन|m}}
 * Hungarian: {{t+|hu|alkoholizmus}}
 {{trans-mid}}
-* Italian: {{t+|it|alcolismo}}
+* Italian: {{t+|it|alcolismo|m}}
 * Japanese: {{t|ja|アルコール依存症|tr=アルコールいぞんしょう, arukōru izonshō|sc=Jpan}}, {{t|ja|アル中|tr=アルちゅう, aruchū}}
 * Kalmyk: {{t|xal|әркнчллһн}}
 * Kazakh: {{t|kk|маскүнемдік}}
