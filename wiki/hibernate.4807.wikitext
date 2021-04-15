@@ -1,11 +1,10 @@
 ==English==
 
 ===Alternative forms===
-* {{l|en|hivernate}} {{qualifier|obsolete}}
-* {{l|en|hybernate}} {{qualifier|obsolete}}
+* {{alt|en|hivernate|hybernate}} {{q|both obsolete}}
 
 ===Etymology===
-From {{etyl|la|en}} {{m|la|hibernātus}}, from {{m|la|hibernō}}, from {{m|la|hībernus||winter}}.
+From {{etyl|la|en}} {{m|la|hībernātus}}, from {{m|la|hībernō|hībernāre}}, from {{m|la|hībernus||winter}}.
 
 ===Pronunciation===
 * {{IPA|en|/ˈhaɪbəˌneɪt/}}
@@ -14,7 +13,7 @@ From {{etyl|la|en}} {{m|la|hibernātus}}, from {{m|la|hibernō}}, from {{m|la|h�
 ===Verb===
 {{en-verb}}
 
-# {{lb|en|intransitive}} To spend [[winter]] time in [[hibernation]].
+# {{lb|en|intransitive|biology}} To spend the [[winter]] in a [[dormant]] or [[inactive]] state of [[minimal]] activity, low body-temperature, slow breathing and heart-rate, and low [[metabolic]] rate; to go through a winter [[sleep]].
 #: {{ux|en|Squirrels and bears are two of the many mammals that '''hibernate''' in winter.}}
 # {{lb|en|intransitive}} To live in [[seclusion]].
 # {{lb|en|intransitive|computing}} To enter a [[standby]] state which conserves power without losing the contents of [[memory]].
@@ -26,9 +25,11 @@ From {{etyl|la|en}} {{m|la|hibernātus}}, from {{m|la|hibernō}}, from {{m|la|h�
 
 ====Related terms====
 * {{l|en|hibernal}}
+* {{l|en|hibernation}}
+* {{l|en|hibernator}}
 
 ====Translations====
-{{trans-top|winter sleep}}
+{{trans-top|spend winter time in a dormant or inactive state}}
 * Arabic: {{t|ar|أَسْبَتَ}}
 * Armenian: {{t+|hy|ձմեռել}}
 * Bulgarian: {{t+|bg|зимувам|sc=Cyrl}}
@@ -38,7 +39,7 @@ From {{etyl|la|en}} {{m|la|hibernātus}}, from {{m|la|hibernō}}, from {{m|la|h�
 * Czech: {{t+|cs|přezimovat}}
 * Dutch: {{t+|nl|overwinteren}}, {{t|nl|een winterslaap houden}}
 * Finnish: {{t|fi|horrostaa}}
-* French: {{t+|fr|hiberner}}
+* French: {{t+|fr|hiberner}}, {{t+|fr|hiverner}}
 * Georgian: {{t|ka|ზამთრის ძილს მიეცემა}}, {{t|ka|ზამთარს ძილში ატარებს}}, {{t|ka|გამოიზამთრებს}}
 * German: {{t|de|Winterschlaf halten}}, {{t+|de|überwintern}}
 * Greek:
@@ -48,7 +49,7 @@ From {{etyl|la|en}} {{m|la|hibernātus}}, from {{m|la|hibernō}}, from {{m|la|h�
 * Interlingua: {{t|ia|hibernar}}
 * Italian: {{t+|it|ibernare}}
 * Japanese: {{t-check|ja|冬眠|tr=とうみんする, tōmin-suru|alt=冬眠する|sc=Jpan}} <!-- was "[[冬眠]]する" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
-* Maori: {{t|mi|moemakariri}}, {{t|mi|moe-hōtoke }}
+* Maori: {{t|mi|moemakariri}}, {{t|mi|moe-hōtoke}}
 * Norwegian: {{t+|no|hibernere}}
 * Portuguese: {{t+|pt|hibernar}}
 * Romanian: {{t+|ro|hiberna}}
@@ -60,14 +61,19 @@ From {{etyl|la|en}} {{m|la|hibernātus}}, from {{m|la|hibernō}}, from {{m|la|h�
 * Vietnamese: {{t+|vi|ngủ đông}}
 {{trans-bottom}}
 
-{{trans-top|computer standby}}
+{{trans-top|live in seclusion}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|computer: enter a standby state}}
 * Catalan: {{t+|ca|hibernar}}
-* Maori: {{t|mi|moe-hōtoke }}
+* Maori: {{t|mi|moe-hōtoke}}
 {{trans-mid}}
 * Persian: {{t+|fa|خواب زمستانی|sc=fa-Arab}}
 {{trans-bottom}}
 
 ===See also===
+* {{l|en|oversummer}}
 * {{l|en|overwinter}}
 
 ===Anagrams===
