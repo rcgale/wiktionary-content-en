@@ -2,50 +2,43 @@
 ==English==
 
 ===Etymology===
-From {{inh|en|enm|vocal}}, from {{der|en|fro|vocal}}, borrowed from {{bor|en|la|vōcālis}}. {{doublet|en|vowel}}.
+Late {{inh|en|enm|vocal}}, borrowed from {{bor|en|la|vōcālis||uttering a voice, sounding, speaking}}, from {{af|la|vox|-ālis|t1=a voice, sound, tone|t2=-al|pos2=adjectival suffix|nocat=1}}. {{doublet|en|vowel|vocalis}}. Compare {{cog|fro|vocal}}.
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|en|/ˈvəʊ.kəl/}}
-* {{a|US}} {{IPA|en|/ˈvoʊ.kəl/}}
-* {{audio|en|LL-Q1860 (eng)-Mélange a trois-vocal.wav |Audio (UK)}}
+* {{a|RP}} {{IPA|en|/ˈvəʊ.kəl/}}
+** {{audio|en|LL-Q1860 (eng)-Mélange a trois-vocal.wav |Audio (RP)}}
+* {{a|GA}} {{IPA|en|/ˈvoʊ.kəl/}}
+* {{rhymes|en|əʊkəl}}
 
 ===Adjective===
 {{en-adj}}
 
-# Of or pertaining to the [[voice]] or speech
+# Of, pertaining to, or resembling the [[human]] [[voice]] or [[speech]].
 #: {{ux|en|'''vocal''' problems}}
-# Having a voice
-#* '''1667''', {{w|John Milton}}, ''Paradise Lost''
-#*: To hill or valley, fountain, or fresh shade, / Made '''vocal''' by my song.
-# Uttered or modulated by the voice; [[oral]]
-#: {{ux|en|'''vocal''' melody}}
-#: {{ux|en|'''vocal''' prayer}}
-#: {{ux|en|'''vocal''' worship}}
-# Of or pertaining to a voice sound; [[spoken]]
-# {{lb|en|phonetics}} Consisting of, or characterized by, voice, or tone produced in the larynx, which may be modified, either by resonance, as in the case of the vowels, or by obstructive action, as in certain consonants, such as ''v'', ''l'', etc., or by both, as in the nasals {{g|m}}, {{g|n}}, ''ng''; sonant; intonated; voiced. See [[voice]], and [[vowel]]
-# {{lb|en|phonetics}} Of or pertaining to a vowel; having the character of a vowel; vowel
-#: {{ux|en|a '''vocal''' sound}}
-# [[loud]]; getting oneself heard.
-#: {{ux|en|The protesters were very '''vocal''' in their message to the mayor.}}
-
-====Synonyms====
-* {{sense|uttered or modulated by the voice}} {{l|en|audible}}
-* {{sense|getting oneself heard}} {{l|en|audible}}, {{l|en|loud}}
-
-====Antonyms====
-* {{sense|uttered or modulated by the voice}} {{l|en|inaudible}}, {{l|en|quiet}}, {{l|en|silent}}, {{l|en|voiceless}}
-* {{sense|getting oneself heard}} {{l|en|inaudible}}, {{l|en|quiet}}, {{l|en|silent}}
+## {{lb|en|anatomy}} Used in the production of [[speech]] [[sound]]s.
+##: {{ux|en|'''vocal''' apparatus}}
+## {{lb|en|music}} Relating to, [[compose]]d or [[arrange]]d for, or [[sing|sung]] by the human [[voice]].
+## {{lb|en|phonetics}} Consisting of, or characterized by, [[voice]], or [[tone]] produced in the [[larynx]], which may be [[modify|modified]], either by [[resonance]], as in the case of the [[vowel]]s, or by [[obstructive]] action, as in certain [[consonant]]s, such as ''v'', ''l'', etc., or by both, as in the [[nasal]]s ''m'', ''n'', ''ng''.
+##: {{syn|en|sonant|intonated|voiced}}
+## {{lb|en|phonetics}} {{syn of|en|vocalic}}.
+# [[utter|Utter]]ed or [[modulate]]d by the [[voice]]; [[express]]ed in [[word]]s.
+#: {{ux|en|'''vocal''' melody, '''vocal''' prayer, '''vocal''' worship}}
+#: {{syn|en|oral|audible}}
+#: {{ant|en|inaudible|quiet|silent|voiceless}}
+## [[express|Express]]ing [[opinion]]s or [[feeling]]s [[freely]], [[loudly]], or [[insistently]].
+##: {{ux|en|The protesters were very '''vocal''' in their message to the mayor.}}
+##: {{syn|en|outspoken|loud|audible}}
+##: {{ant|en|inaudible|quiet|silent}}
+## Having or [[exercise|exercising]] the [[power]] of producing [[voice]], [[speech]], or [[sound]].
+##* {{quote-book|en|1667|{{w|John Milton}}|{{w|Paradise Lost}}|text=To hill or valley, fountain, or fresh shade,<br>Made '''vocal''' by my song.}}
+##: {{syn|en|spoken}}
+## {{syn of|en|expressive}}.
+## [[full|Full]] of [[voice]]s.
+##: {{syn|en|resounding}}
 
 ====Derived terms====
-{{der3|en
-|backup vocals
-|bivocal
-|cricovocal
-|lead vocals
-|nonvocal
-|off vocal
-|unvocal
-|vocal cords
+{{col5|en
+|[[vocal cord]], [[vocal chord]]
 |vocal fold
 |vocal fremitus
 |vocal fry
@@ -56,7 +49,18 @@ From {{inh|en|enm|vocal}}, from {{der|en|fro|vocal}}, borrowed from {{bor|en|la|
 |vocal tube
 |vocally
 |vocalness
-}}
+|vocalism
+|vocality
+|vocalist
+|[[vocalize]], [[vocalise]]
+|unvocal
+|nonvocal
+|semivocal
+|bivocal
+|polyvocal
+|subvocal
+|cricovocal
+|audiovocal}}
 
 ====Translations====
 {{trans-top|of or pertaining to the voice or speech}}
@@ -105,6 +109,25 @@ From {{inh|en|enm|vocal}}, from {{der|en|fro|vocal}}, borrowed from {{bor|en|la|
 * Vietnamese: {{t|vi|nói to tiếng}}
 {{trans-bottom}}
 
+{{trans-top|characterized by voice or tone produced in the larynx}}
+* Finnish: {{t+|fi|vokaali}}
+* Georgian: {{t|ka|ვოკალური}}
+* Hungarian: {{t|hu|magánhangzói}}
+* Indonesian: {{t+|id|vokal}}
+* Korean: {{t|ko|보컬 부분}}
+* Norwegian: {{t-check|no|vokale|f}}<!--this is an adjective sense-->
+* Polish: {{t+check|pl|samogłoska|f}}<!--this is an adjective sense-->
+{{trans-mid}}
+* Portuguese: {{t|pt|vocálico}}
+* Russian: {{t+|ru|гла́сный}}
+* Slovak: {{t-check|sk|hlasový|f}}<!--this is an adjective sense-->
+* Slovene: {{t-check|sl|vokalne|n}}<!--this is an adjective sense-->
+* Swedish: {{t+|sv|vokal}}
+* Vietnamese: {{t|vi|nói lớn tiếng}}
+{{trans-bottom}}
+
+{{trans-see|vocalic}}
+
 {{trans-top|uttered or modulated by the voice}}
 * Albanian: {{t+|sq|vokal|m}}
 * Bengali: {{t|bn|গেয়}}
@@ -125,39 +148,7 @@ From {{inh|en|enm|vocal}}, from {{der|en|fro|vocal}}, borrowed from {{bor|en|la|
 * Welsh: {{t+|cy|llafar}}
 {{trans-bottom}}
 
-{{trans-top|phonetics}}
-* Finnish: {{t+|fi|vokaali}}
-* Georgian: {{t|ka|ვოკალური}}
-* Hungarian: {{t|hu|magánhangzói}}
-* Indonesian: {{t+|id|vokal}}
-* Korean: {{t|ko|보컬 부분}}
-* Norwegian: {{t-check|no|vokale|f}}<!--this is an adjective sense-->
-* Polish: {{t+check|pl|samogłoska|f}}<!--this is an adjective sense-->
-{{trans-mid}}
-* Portuguese: {{t|pt|vocálico}}
-* Russian: {{t+|ru|гла́сный}}
-* Slovak: {{t-check|sk|hlasový|f}}<!--this is an adjective sense-->
-* Slovene: {{t-check|sl|vokalne|n}}<!--this is an adjective sense-->
-* Swedish: {{t+|sv|vokal}}
-* Vietnamese: {{t|vi|nói lớn tiếng}}
-{{trans-bottom}}
-
-{{trans-top|of or pertaining to a vowel}}
-* Catalan: {{t|ca|vocàlic}}
-* Finnish: {{t|fi|[[vokaali]]-}}, {{t+|fi|vokaalinen}}
-* Galician: {{t+|gl|vogal}}, {{t|gl|vocálico}}
-* Georgian: {{t|ka|მჟღერი}}, {{t|ka|ხმიერი}}
-* German: {{t+|de|vokalisch}}
-* Greek: {{t+|el|φωνηεντικός}}
-{{trans-mid}}
-* Indonesian: {{t+|id|vokal}}
-* Portuguese: {{t|pt|vocálico}}
-* Russian: {{t+|ru|гла́сный}}
-* Spanish: {{t|es|vocálico}}
-* Swedish: {{t+|sv|vokal}}
-{{trans-bottom}}
-
-{{trans-top|loud}}
+{{trans-top|expressing opinions or feelings freely}}
 * Finnish: {{t+|fi|äänekäs}}
 * Georgian: {{t|ka|ხმამაღალი}}, {{t|ka|ხმაურიანი}}, {{t|ka|ხმიანი}}, {{t|ka|მყვირალა}}
 * German: {{t+|de|lautstark}}, {{t+|de|laut}}
@@ -181,11 +172,31 @@ From {{inh|en|enm|vocal}}, from {{der|en|fro|vocal}}, borrowed from {{bor|en|la|
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|phonetics}} A vocal sound; specifically, a purely vocal element of speech, unmodified except by resonance; a vowel or a diphthong; a tonic element; a tonic; distinguished from a '''[[subvocal]]''', and a '''[[nonvocal]]'''
-# {{lb|en|Roman Catholic Church}} A man who has a right to vote in certain elections.
+# {{lb|en|phonetics}} A [[vocal]] [[sound]]; specifically, a purely vocal [[element]] of [[speech]], [[unmodified]] except by [[resonance]]; a [[vowel]] or a [[diphthong]]; a [[tonic]] element; a tonic.
+#: {{cot|en|subvocal|nonvocal}}
+# {{lb|en|music}} A part of a piece of [[music]] that is [[sing|sung]].
+#: {{syn|en|song}}
+#: {{hypo|en|backup vocals|lead vocals}}
+## {{lb|en|acting}} A [[musical]] [[performance]] involving [[singing]].
+# {{lb|en|Catholicism}} A [[man]] in the [[Roman Catholic Church]] who has a [[right]] to [[vote]] in certain [[election]]s.
+
+====Derived terms====
+* {{l|en|off vocal}}
+* {{l|en|vocalic}}
+* {{l|en|vocalese}}
 
 ===Related terms===
 {{rel3|en|vocable|vocabulary|vocalist|vocalization|vocalize|vocation|voice}}
+
+===See also===
+* {{l|en|voice}}
+* {{l|en|vowel}}
+
+===References===
+* {{R:Lexico}}
+* {{R:MWO}}
+
+{{cln|en|words suffixed with -al}}
 
 ----
 
