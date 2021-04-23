@@ -10,7 +10,7 @@
 ==Latin==
 
 ===Etymology===
-From {{inh|la|itc-pro|*abdoukō}}. Equivalent to {{affix|la|ab-|gloss1=from, away from|dūcō|gloss2=I lead}}.
+From {{inh|la|itc-pro|*abdoukō}}. Equivalent to {{affix|la|ab-|gloss1=from, away from|dūcō|gloss2=to lead, conduct, draw, bring forward}}.
 
 ===Pronunciation===
 * {{la-IPA|abdūcō}}
@@ -18,75 +18,73 @@ From {{inh|la|itc-pro|*abdoukō}}. Equivalent to {{affix|la|ab-|gloss1=from, awa
 ===Verb===
 {{la-verb|irreg|abdūcō}}
 
-# I [[take away]], [[lead]] away or aside, [[carry]] off; [[detach]], [[remove]]
-# I [[withdraw]]
-# I [[cause]] to [[withdraw]], be [[separated]], [[fall off]] or [[drop out]]; [[divert]]
-# I carry off or away [[forcibly]], [[rob]], [[ravish]]
-# I [[seduce]], [[charm]], [[attract]] or [[entice]] away, [[pervert]]
-# I [[bring]] down, [[reduce]], [[degrade]], [[lower]]
+# {{lb|la|literally}}
+## {{q|in general}} [[lead]] away or aside, [[take away]], [[bring]] away, [[carry off]]; [[detach]], [[remove]]
+##: {{syn|la|abdō|āmandō|āmōlior|āmoveō|aspellō|auferō|dēmoveō|dētrahō|eximō|relēgō|removeō|submoveō}}
+##: {{ant|la|addō}}
+## {{q|in particular}}:
+### [[take]] (with one) to [[dine]]
+### [[take]] [[aside]]
+### [[carry off]] or [[carry away|away]] [[forcibly]]; [[rob]], [[ravish]]
+### {{lb|la|law}} [[take away]], [[drive away]]
+# {{lb|la|figurative}}
+## {{q|in general}} [[lead]] away, [[separate]], [[distinguish]]
+## {{q|in particular}}:
+### [[seduce]], [[charm]], [[attract]] or [[entice]] away, [[pervert]]; [[alienate]] from [[fidelity]] or [[allegiance]]
+###: {{syn|la|allicefaciō|corrumpō|pelliciō|sēdūcō}}
+### [[withdraw]], [[draw off]], [[hinder]] (from a [[study]], [[pursuit]], [[duty]], etc.)
+###: {{syn|la|recēdō}}
+### [[cause]] to [[withdraw]], be [[separated]], [[fall off]] or [[drop out]]; [[divert]]
+###: {{syn|la|redūcō}}
+### [[bring down]], [[reduce]], [[degrade]], [[lower]]
+###: {{syn|la|attenuō}}
 
-====Conjugation====
+====Inflection====
 {{la-conj|irreg|abdūcō}}
 
-====Synonyms====
-* {{sense|cause to withdraw}} {{l|la|redūcō}}
-* {{sense|reduce}} {{l|la|attenuō}}
-* {{sense|remove}} {{l|la|abdō}}, {{l|la|āmandō}}, {{l|la|āmōlior}}, {{l|la|āmoveō}}, {{l|la|aspellō}}, {{l|la|auferō}}, {{l|la|dēmoveō}}, {{l|la|dētrahō}}, {{l|la|eximō}}, {{l|la|relēgō}}, {{l|la|removeō}}, {{l|la|submoveō}}
-* {{sense|seduce, charm}} {{l|la|allicefaciō}}, {{l|la|corrumpō}}, {{l|la|pelliciō}}, {{l|la|sēdūcō}}
-* {{sense|withdraw}} {{l|la|recēdō}}
-
-====Antonyms====
-* {{sense|remove}} {{l|la|addō}}
-
 ====Derived terms====
-{{der-top}}
-* {{l|la|abdūcēns}}
-* {{l|la|abductiō}}
-{{der-mid}}
+* {{l|la|abdūcēns|pos=participle}}
+* {{l|la|abductiō|pos=noun}}
 * {{l|la|abductor}}
-* {{l|la|abductus}}
-{{der-bottom}}
+* {{l|la|abductus|pos=participle}}
 
 ====Related terms====
-{{rel-top4}}
-* {{l|la|addūcō}}
-* {{l|la|circumdūcō}}
-* {{l|la|condūcō}}
-* {{l|la|dēdūcō}}
-* {{l|la|dīdūcō}}
-{{rel-mid4}}
-* {{l|la|dūcō}}
-* {{l|la|ēdūcō}}
-* {{l|la|indūcō}}
-* {{l|la|intrōdūcō}}
-* {{l|la|obdūcō}}
-{{rel-mid4}}
-* {{l|la|perdūcō}}
-* {{l|la|praedūcō}}
-* {{l|la|praeterdūcō}}
-* {{l|la|prōdūcō}}
-* {{l|la|redūcō}}
-{{rel-mid4}}
-* {{l|la|sēdūcō}}
-* {{l|la|subdūcō}}
-* {{l|la|subterdūcō}}
-* {{l|la|superdūcō}}
-* {{l|la|trādūcō}}
-{{rel-bottom}}
+{{col5|la
+|addūcō
+|circumdūcō
+|condūcō
+|dēdūcō
+|dīdūcō
+|dūcō
+|ēdūcō
+|indūcō
+|intrōdūcō
+|obdūcō
+|perdūcō
+|praedūcō
+|praeterdūcō
+|prōdūcō
+|redūcō
+|sēdūcō
+|subdūcō
+|subterdūcō
+|superdūcō
+|trādūcō}}
 
 ====Descendants====
-{{top2}}
+{{des-top}}
 * {{desc|ca|abduir}}
-* {{desc|en|abduce}}, {{l|en|abduct}}
+* {{desc|en|[[abduce]], [[abduct]]|bor=1}}
 * {{desc|it|abdurre}}
-{{mid2}}
 * {{desc|pt|abduzir}}
-* {{desc|ro|abduce}}
-* {{desc|es|abducir}}
-{{bottom}}
+* {{desc|ro|abduce|bor=1}}
+* {{desc|es|abducir|bor=1}}
+{{des-bottom}}
 
 ===References===
 * {{R:L&S}}
 * {{R:Elementary Lewis}}
 * {{R:Gaffiot}}
 * {{R:M&A}}
+
+{{cln|la|words suffixed with -o (compound verb)}}
