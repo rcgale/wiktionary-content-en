@@ -25,7 +25,9 @@
 #: {{coordinate terms|en|AB|BC|MB|NB|NL|NS|NT|NU|ON|QC|SK|YT}}
 # {{lb|en|software}} {{initialism of|en|[[portable|Portable]] [[edition|Edition]]|nodot=1}} {{gloss|usually used for a software version}}.
 # {{lb|en|software}} {{initialism of|en|Windows Preinstallation Environment|Preinstallation Environment}}
-# {{lb|en|software}} {{init of|en|{{w|Portable Executable}}|nodot=1}} {{gloss|[[executable]] [[file]] [[format]] used by modern versions of [[Microsoft Windows]]}}.
+# {{lb|en|software}} {{init of|en|portable executable|Portable Executable|nodot=1}} {{gloss|[[executable]] [[file]] [[format]] used by modern versions of [[Microsoft Windows]]}}.
+#* '''2016''', Ryan "elfmaster" O'Neill, ''Learning Linux Binary Analysis'' (page 97)
+#*: In ELF executables, there aren't a whole lot of code caves (such as in the '''PE''' format), so you are not likely to be able to shove more than just a meager amount of shellcode into existing code slots {{...}}
 # {{lb|en|geography}} {{abbreviation of|en|Pernambuco}} {{gloss|a state of [[Brazil]]}}.
 
 ===Noun===
@@ -38,9 +40,6 @@
 # {{lb|en|organic compounds}} {{initialism of|en|polyethylene}}
 # {{lb|en|pathology}} {{initialism of|en|pulmonary embolism}}
 # {{lb|en|medicine}} {{initialism of|en|premature ejaculation}}
-# {{lb|en|software}} {{initialism of|en|portable executable|Portable Executable}}
-#* '''2016''', Ryan "elfmaster" O'Neill, ''Learning Linux Binary Analysis'' (page 97)
-#*: In ELF executables, there aren't a whole lot of code caves (such as in the '''PE''' format), so you are not likely to be able to shove more than just a meager amount of shellcode into existing code slots {{...}}
 
 ====Derived terms====
 {{der3|en|title=polyethylene|
@@ -57,6 +56,12 @@
 |EG
 |MEG
 }}
+
+====Coordinate terms====
+{{s|Portable Executable}}
+* {{l|en|LE}}
+* {{l|en|LX}}
+* {{l|en|NE}}
 
 ===Anagrams===
 * {{anagrams|en|a=ep|EP|ep|ep.}}
