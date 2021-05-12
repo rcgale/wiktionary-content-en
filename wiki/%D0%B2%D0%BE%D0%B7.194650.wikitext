@@ -25,7 +25,7 @@
 ==Macedonian==
 
 ===Etymology===
-From {{inh|mk|sla-pro|*vozъ||cart, wagon}}.
+From {{inh|mk|sla-pro|*vozъ|t=cart, wagon}}.
 
 ===Pronunciation===
 * {{mk-IPA}}
@@ -43,18 +43,18 @@ From {{inh|mk|sla-pro|*vozъ||cart, wagon}}.
 * {{l|mk|товарен воз|g=m}}
 
 ====See also====
-{{top2}}
-* {{l|mk|вагон|g=m}}
-* {{l|mk|железница|g=f}}
-* {{l|mk|железничка линија|g=f}}
-* {{l|mk|железничка станица|g=f}}
-* {{l|mk|колосек|g=m}}
-* {{l|mk|купе|g=n}}
-* {{l|mk|локомотива|g=f}}
-* {{l|mk|перон|g=m}}
-* {{l|mk|пруга|g=f}}
-* {{l|mk|шина|g=f}}
-{{bottom}}
+{{col4|mk
+|{{l|mk|вагон|g=m}}
+|{{l|mk|железница|g=f}}
+|{{l|mk|железничка линија|g=f}}
+|{{l|mk|железничка станица|g=f}}
+|{{l|mk|колосек|g=m}}
+|{{l|mk|купе|g=n}}
+|{{l|mk|локомотива|g=f}}
+|{{l|mk|перон|g=m}}
+|{{l|mk|пруга|g=f}}
+|{{l|mk|шина|g=f}}
+}}
 
 ===References===
 * {{R:mk:DRMJ}}
@@ -94,7 +94,7 @@ From {{inh|ru|sla-pro|*vozъ}}, from {{der|ru|ine-pro|*weǵʰ-}}.
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{inh|sh|sla-pro|*vozъ|*vȏzъ}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*weǵʰ-}}.
+From {{inh|sh|sla-pro|*vozъ|*vȏzъ}}, from {{der|sh|ine-pro|*weǵʰ-}}.
 
 ===Pronunciation===
 * {{IPA|sh|/ʋôːz/}}
@@ -103,6 +103,7 @@ From {{inh|sh|sla-pro|*vozъ|*vȏzъ}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*we
 {{sh-noun|g=m|head=во̑з}}
 
 # {{lb|sh|Bosnian|Serbian}} [[train]]
+#: {{syn|sh|вла̑к}}
 # [[cart]], [[wagon]]
 
 ====Declension====
@@ -115,8 +116,5 @@ From {{inh|sh|sla-pro|*vozъ|*vȏzъ}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*we
 |возу|возовима
 |возом|возовима
 }}
-
-====Synonyms====
-* {{l|sh|sc=Cyrl|вла̑к}}
 
 {{c|sh|Rail transportation|Vehicles}}
