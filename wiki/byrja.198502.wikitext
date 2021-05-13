@@ -41,30 +41,78 @@ From {{der|is|non|byrja}}, from {{der|is|gem-pro|*burjaną}}.
 
 ==Norwegian Nynorsk==
 
+===Pronunciation===
+* {{IPA|nn|/²bʏr.jɑ/}} {{nn-pronu-note}}
+
 ===Etymology 1===
-From {{der|nn|non|byrja}}.
+From {{inh|nn|non|byrja}}.
 
 ====Alternative forms====
-* {{l|nn|byrje}} (e infinitive)
+* {{alter|nn|byrje}} {{q|e-infinitive}}
 
 ====Verb====
 {{nn-verb-1|byrj}}
 
 # to [[begin]], [[start]]
-#: ''Kva tid '''byrjar''' det?''
-#:: When does it '''start'''?
-
-=====Synonyms=====
-* {{l|nn|begynna}}, {{l|nn|begynne}}
-* {{l|nn|starta}}, {{l|nn|starte}}
-
-=====References=====
-* {{R:Dokpro|lang=nn|byrje}}
+#: {{syn|nn|begynne|starte}}
+#: {{ux|nn|Kva tid '''byrjar''' det?|When does it '''start'''?}}
 
 ===Etymology 2===
-From {{der|nn|non|byrja}}.
+From {{inh|nn|non|byrja}}.
 
 ====Verb====
-{{nn-verb-irreg|bør|burde|burt|first_four=1}}
+{{nn-verb|bør|burde|burt|first_four=1}}
 
 # {{nn-former|burda|2012}}
+
+===References===
+* {{R:ND}}
+
+----
+
+==Old Norse==
+
+===Etymology 1===
+From the noun {{m|non|byrr|t=fair wind}}.
+
+====Verb====
+{{non-verb}}
+
+# {{lb|non|impersonal|with|dative}} to get ([[fair]]) [[wind]]s
+#: {{ux|non|inline=1|honum '''byrjar''' vel|he '''gets''' fair '''wind'''}}
+#: {{ux|non|inline=1|honum '''byrjar''' illa|he '''gets''' foul '''wind'''}}
+# {{lb|non|impersonal|intransitive}} to [[blow]], be [[windy]]
+
+=====Conjugation=====
+{{non-conj-weak2-j|voice=active|byr}}
+
+===Etymology 2===
+
+====Verb====
+{{non-verb}}
+
+# {{lb|non|intransitive}} to [[originate]]
+# {{lb|non|transitive}} to [[begin]]
+
+=====Conjugation=====
+{{non-conj-weak2-j|voice=active|byrj}}
+
+=====Descendants=====
+* {{desc|is|byrja}}
+* {{desc|fo|byrja}}
+* {{desc|nn|byrja|alts=1}}
+
+===Etymology 3===
+From {{inh|non|gem-pro|*burjaną}}, with senses possibly from {{m|gem-pro|*gaburjaną}}.
+
+====Verb====
+{{non-verb}}
+
+# {{lb|non|impersonal|with|dative}} to be [[due]], [[beseem]]
+
+=====Conjugation=====
+{{non-conj-weak1-short|voice=active|byr|burð|byrð|pp=buri}}
+{{non-conj-weak2-j|voice=active|byrj}}
+
+===References===
+* [https://archive.org/stream/concisedictionar001857#page/81 byrja] in ''A Concise Dictionary of Old Icelandic'', G. T. Zoëga, Clarendon Press, 1910, at [https://archive.org/details/concisedictionar001857 Internet Archive].
