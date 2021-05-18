@@ -65,14 +65,14 @@ From {{der|en|fr|industriel}}
 * Belarusian: {{t|be|індустрыя́льны}}
 * Bulgarian: {{t+|bg|промишлен}}, {{t+|bg|индустриален}}
 * Catalan: {{t+|ca|industrial}}
-* Czech: {{t+|cs|průmyslový|m}}
+* Czech: {{t+|cs|průmyslový}}
 * Danish: {{t|da|industriel}}
 * Dutch: {{t+|nl|industrieel}}, {{t+check|nl|industrie|alt=industrie-}} {{attention|nl|2=was "[[industrie]]-" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t+check|nl|nijverheid|alt=nijverheids-}} {{attention|nl|2=was "[[nijverheid]]s-" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Esperanto: {{t+|eo|industria}}
 * Finnish: {{t+|fi|teollinen}}, {{t+|fi|teollisuus|alt=teollisuus-}}
 * French: {{t+|fr|industriel}}
 * German: {{t+|de|industriell}}, {{t+|de|Industrie|alt=Industrie-}}
-* Greek: {{t+|el|βιομηχανικός|m}}
+* Greek: {{t+|el|βιομηχανικός}}
 * Hungarian: {{t+|hu|ipari}}
 * Ido: {{t+|io|industriala}}
 {{trans-mid}}
@@ -94,14 +94,14 @@ From {{der|en|fr|industriel}}
 
 {{trans-top|(of a society or country) having many industries}}
 * Armenian: {{t+|hy|արդյունաբերական|sc=Armn}}
-* Czech: {{t+|cs|průmyslový|m}}
+* Czech: {{t+|cs|průmyslový}}
 * Dutch: {{t+|nl|geïndustrialiseerd}}, {{t+|nl|industrieel}}
 * Finnish: {{t+|fi|teollinen}}, {{t|fi|teollistunut}}
 * German: {{t+|de|industriell}}
 {{trans-mid}}
-* Greek: {{t+|el|βιομηχανικός|m}}
+* Greek: {{t+|el|βιομηχανικός}}
 * Portuguese: {{t+|pt|industrial}}
-* Romanian: {{t+|ro|industrial|m}}, {{t+|ro|industrializat|m}}
+* Romanian: {{t+|ro|industrial}}, {{t+|ro|industrializat}}
 * Russian: {{t+|ru|индустриа́льный}}
 {{trans-bottom}}
 
@@ -148,6 +148,9 @@ From {{der|en|fr|industriel}}
 
 ==Catalan==
 
+===Etymology===
+{{af|ca|indústria|-al}}
+
 ===Pronunciation===
 * {{ca-IPA}}
 * {{rhymes|ca|al}}
@@ -157,9 +160,22 @@ From {{der|en|fr|industriel}}
 
 # {{l|en|industrial}}
 
+====Derived terms====
+* {{l|ca|industrialisme}}
+* {{l|ca|industrialista}}
+
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
+
 ----
 
 ==Galician==
+
+===Etymology===
+{{af|gl|industria|-al}}
 
 ===Pronunciation===
 {{rfp|gl}}
@@ -168,6 +184,10 @@ From {{der|en|fr|industriel}}
 {{gl-adj|pl=industriais}}
 
 # {{l|en|industrial}}
+
+====Derived terms====
+* {{l|gl|industrialismo}}
+* {{l|gl|industrialista}}
 
 ====Further reading====
 * {{R:DRAG}}
@@ -188,6 +208,10 @@ From {{der|en|fr|industriel}}
 {{pt-adj|industria|l}}
 
 # [[#English|industrial]]
+
+====Derived terms====
+* {{l|pt|industrialismo}}
+* {{l|pt|industrialista}}
 
 ----
 
@@ -214,6 +238,9 @@ From {{bor|ro|fr|industriel}}.
 
 ==Spanish==
 
+===Etymology===
+{{af|es|industria|-al}}
+
 ===Pronunciation===
 {{es-IPA}}
 * {{hyph|es|in|dus|trial}}
@@ -224,13 +251,13 @@ From {{bor|ro|fr|industriel}}.
 # [[#English|industrial]]
 
 ====Derived terms====
-* {{l|es|agroindustrial}}
-* {{l|es|complejo militar industrial}}
-* {{l|es|espionaje industrial}}
-* {{l|es|polígono industrial}}
-
-====Related terms====
-* {{l|es|industria}}
+{{der3|es
+|agroindustrial
+|complejo militar industrial
+|espionaje industrial
+|industrialismo
+|industrialista
+|polígono industrial}}
 
 ===Further reading===
 * {{R:DRAE}}
