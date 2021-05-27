@@ -1,7 +1,7 @@
 {{also|Morpheme|morphème}}
 ==English==
 {{was wotd|2012|May|17}}
-{{wikipedia}}
+{{wp}}
 
 ===Etymology===
 From {{etyl|fr|en}} {{m|fr|morphème}}. Ultimately from {{der|en|grc|μορφή|t=shape, form}}.
@@ -23,27 +23,37 @@ From {{etyl|fr|en}} {{m|fr|morphème}}. Ultimately from {{der|en|grc|μορφή|
 * See also [[Thesaurus:morpheme]]
 
 ====Hyponyms====
-* {{l|en|prefix}}
-* {{l|en|suffix}}
-* {{l|en|affix}}
+{{col4|en
+|affix
+|infix
+|prefix
+|suffix
+}}
 
 ====Holonyms====
 * {{l|en|word}}
 
 ====Derived terms====
-* {{l|en|morphemic}}
+{{der4|en
+|bound morpheme
+|free morpheme
+|morphemic
+|morphemics
+}}
 
 ====Related terms====
-{{rel-top}}
-* {{l|en|allomorph}}
-* {{l|en|bound morpheme}}
-* {{l|en|free morpheme}}
-* {{l|en|lemma}}
-{{rel-mid}}
-* {{l|en|lexeme}}
-* {{l|en|sememe}}
-* {{l|en|word form}}
-{{rel-bottom}}
+{{rel4|en
+|allomorph
+|cheireme
+|chereme
+|chroneme 
+|grapheme 
+|lexeme
+|listeme 
+|phoneme 
+|sememe
+|toneme
+}}
 
 ====Translations====
 {{trans-top|smallest linguistic unit}}
@@ -51,7 +61,7 @@ From {{etyl|fr|en}} {{m|fr|morphème}}. Ultimately from {{der|en|grc|μορφή|
 * Armenian: {{t|hy|ձեւույթ}}
 * Asturian: {{t|ast|morfema|m}}
 * Balinese: {{t|ban|ᬭᬸᬧᬩᬕ|tr=rupabaga|sc=Bali}}
-* Belarusian: {{t|be|марфе́ма|f|sc=Cyrl}}, {{t|be|марфэ́ма|f}} {{qualifier|Taraškievica}}
+* Belarusian: {{t|be|марфе́ма|f|sc=Cyrl}}, {{t|be|марфэ́ма|f}} {{q|Taraškievica}}
 * Bulgarian: {{t+|bg|морфе́ма|f}}
 * Catalan: {{t+|ca|morfema|m}}
 * Cebuano: {{t|ceb|morpheme}}
@@ -86,7 +96,7 @@ From {{etyl|fr|en}} {{m|fr|morphème}}. Ultimately from {{der|en|grc|μορφή|
 * Polish: {{t+|pl|morfem|m-in}}
 * Portuguese: {{t+|pt|morfema|m}}
 * Romanian: {{t+|ro|morfem|n}}
-* Russian: {{t+|ru|морфе́ма|f}}
+* Russian: {{t+|ru|морфе́ма|f-in}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|морфе́ма|f|sc=Cyrl}}, {{t|sh|мо̀рфе̄м|f|sc=Cyrl}}
 *: Roman: {{t|sh|morféma|f}}, {{t+|sh|mòrfēm|f}}
@@ -103,13 +113,8 @@ From {{etyl|fr|en}} {{m|fr|morphème}}. Ultimately from {{der|en|grc|μορφή|
 {{trans-bottom}}
 
 ===See also===
-* {{l|en|chereme}}
-* {{l|en|chroneme}}
-* {{l|en|grapheme}}
-* {{l|en|lexeme}}
-* {{l|en|listeme}}
-* {{l|en|phoneme}}
-* {{l|en|toneme}}
+* {{l|en|lemma}}
+* {{l|en|word form}}
 
 [[Category:en:Grammar]]
 [[Category:en:Linguistics]]
