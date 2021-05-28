@@ -96,15 +96,82 @@ From {{inh|mhn|gmh|hütte}}, from {{inh|mhn|goh|hutta}}, probably from {{inh|mhn
 
 ----
 
+==Norwegian Bokmål==
+
+===Pronunciation===
+* {{IPA|nb|/hɪtː/}}
+
+===Etymology 1===
+From {{bor|nb|en|hit}}.
+
+====Alternative forms====
+* {{alter|nb|hit}}
+
+====Noun====
+{{nb-noun-m1}}
+
+# {{lb|nb|music}} a [[hit]]
+
+===Etymology 2===
+From the verb {{m|nb|hitte}}.
+
+====Noun====
+{{nb-noun-m1}}
+
+# {{lb|nb|colloquial}} a [[happy]] [[accident]]
+
+====Verb====
+{{nb-verb-form}}
+
+# {{infl of|nb|hitte||imp}}
+
+===Etymology 3===
+
+====Determiner====
+{{head|nb|determiner form|g=n}}
+
+# {{nb-fcon|2005}} {{infl of|nb|hin||n|s}}
+
+===References===
+* {{R:BD}}
+
+----
+
 ==Norwegian Nynorsk==
 
 ===Pronunciation===
 * {{IPA|nn|/hɪtː/}} {{nn-pronu-note}}
 
-===Determiner===
+===Etymology 1===
+
+====Determiner====
 {{head|nn|determiner form|g=n|masculine|hin|feminine|hi|plural|hine}}
 
-# {{neuter singular of|nn|hin}}
+# {{infl of|nn|hin||n|s}}
+
+===Etymology 2===
+From {{bor|nn|en|hit}}.
+
+====Alternative forms====
+* {{alter|nn|hit}}
+
+====Noun====
+{{nn-noun-m1}}
+
+# {{lb|nn|music}} a {{l|en|hit}}
+
+===Etymology 3===
+From the verb {{m|nn|hitte}}.
+
+====Noun====
+{{nn-noun-m1}}
+
+# {{lb|nn|colloquial}} a [[happy]] [[accident]]
+
+====Verb====
+{{nn-verb-form}}
+
+# {{infl of|nn|hitte||imp}}
 
 ----
 
@@ -122,14 +189,23 @@ From {{m|non|hinn}}.
 {{non-decl-adj-base|title=Declension of ''hinn''|nsm=hinn|asm=hinn|dsm=hinum|gsm=hins|nsf=hin|asf=hina|dsf=hinni|gsf=hinnar|nsn=hitt|asn=hitt|dsn=hinu|gsn=hins|npm=hinir|apm=hina|dpm=hinum|gpm=hinna|npf=hinar|apf=hinar|dpf=hinum|gpf=hinna|npn=hin|apn=hin|dpn=hinum|gpn=hinna}}
 
 ===Etymology 2===
-From {{m|non|hitta||hit}}.
+
+====Verb====
+{{head|non|verb form}}
+
+# {{infl of|non|hitta||2s|imp|act}}
+
+===Etymology 3===
+From {{m|non|hitta||to hit, meet}}.
 
 ====Participle====
 {{head|non|participle form}}
 
-# {{infl of|non|hittr||str|f|nom|s|;|str|n|nom//acc|s//p}}
+# {{infl of|non|hittr||str|f|nom|s}}
+# {{infl of|non|hittr||str|n|nom//acc|s}}
+# {{infl of|non|hittr||str|n|nom//acc|p}}
 
 ====Verb====
-{{non-verb form}}
+{{head|non|verb form}}
 
-# {{infl of|non|hitta||2|s|imp|act|;|sup}}
+# {{infl of|non|hitta||sup}}
