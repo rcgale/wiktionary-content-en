@@ -2029,7 +2029,7 @@ Aphetic form of {{m|cy|fo}}
 # [[he]], [[him]]
 
 =====Usage notes=====
-''O'' is used predominantly in the north of Wales, while {{m|cy|e}} is used in the south, with {{m|cy|fo}} and {{m|cy|fe}} as variants of {{m|cy||o}} and {{m|cy|e}} respectively. In formal Welsh, the equivalent pronoun is {{m|cy|ef}}.
+''O'' is used predominantly in the north of Wales, while {{m|cy|e}} is used in the south, with {{m|cy|fo}} and {{m|cy|fe}} as variants of {{m|cy||o}} and {{m|cy|e}} respectively after a vowel. In formal Welsh, the equivalent pronoun is {{m|cy|ef}}.
 
 ===Etymology 3===
 From {{inh|cy|cel-bry-pro|*o}}, from {{inh|cy|cel-pro|*ɸo}}, from {{inh|cy|ine-pro|*h₂pó}}.
@@ -2038,10 +2038,16 @@ From {{inh|cy|cel-bry-pro|*o}}, from {{inh|cy|cel-pro|*ɸo}}, from {{inh|cy|ine-
 * {{IPA|cy|/oː/|/ɔ/}}
 
 ====Preposition====
-{{head|cy|preposition}}
+{{head|cy|preposition|causes [[Appendix:Welsh mutations#Soft mutation|soft mutation]]}}
 
-# [[of]]
 # [[from]]
+#: {{ux|cy|Aethon ni '''o''' <u>G</u>aerdydd i Abertawe.|We went '''from''' Cardiff to Swansea.}}
+# [[of]], [[out of]] {{q|partitive}}
+#: {{ux|cy|Roedd llawer '''o''' <u>f</u>rain yn y coed.|There were a lot '''of''' crows in the trees.}}
+#: {{ux|cy|Mae'r tri '''ohonyn''' nhw'n dweud celwydd.|The three '''of''' them are lying.}}
+# {{n-g|Used to modify an adjective with another adjective (equivalent to adverb + adjective in English)}}
+#: {{uxi|cy|arbennig '''o''' <u>b</u>wysig|especial'''ly''' important}}
+#: {{uxi|cy|ofnadwy '''o''' <u>g</u>aredig|awful'''ly''' kind}}
 
 =====Inflection=====
 {{cy-personal-prep|ohono|ohonot|ohono|ohoni|ohonom|ohonoch|ohonyn}}
