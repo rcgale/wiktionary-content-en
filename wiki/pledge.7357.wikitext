@@ -116,11 +116,11 @@ From {{inh|en|enm|plege}}, from {{der|en|xno|plege}}, from {{der|en|fro|plege}} 
 *: Mandarin: {{t+|cmn|誓言|tr=shìyán|sc=Hani}}, {{t+|cmn|誓詞|sc=Hani}}, {{t+|cmn|誓词|tr=shìcí|sc=Hani}}
 * Esperanto: {{t-needed|eo}}
 * Finnish: {{t+|fi|lupaus}}
-* French: {{t+|fr|gage|m}}, {{t+|fr|serment|m}}
+* French: {{t+|fr|serment|m}}
 * German: {{t+|de|Pfand|n}}
 * Gothic: {{t|got|𐍄𐍂𐌹𐌲𐌲𐍅𐌰|f}}
 * Hungarian: {{t+|hu|fogadalom}}, {{t+|hu|ígéret}}, {{t+|hu|eskü}}
-* Italian: {{t+|it|giuramento|m}}, {{t+|it|pegno|m}}, {{t|it|promessa solenne|f}}
+* Italian: {{t+|it|giuramento|m}}, {{t|it|promessa solenne|f}}
 * Japanese: {{t+|ja|抵当|tr=ていとう, teitō}}, {{t+|ja|保証|tr=ほしょう, hoshō}}
 * Korean: {{t+|ko|서약}}, {{t+|ko|맹세}}, {{t+|ko|보증}}
 * Kurdish:
@@ -131,7 +131,7 @@ From {{inh|en|enm|plege}}, from {{der|en|xno|plege}}, from {{der|en|fro|plege}} 
 * Maori: {{t|mi|takoha}}, {{t|mi|kupu taurangi}}
 * Occitan: {{t+|oc|promessa|f}}, {{t+|oc|jurament|m}}
 * Polish: {{t+|pl|obietnica|f}}
-* Portuguese: {{t+|pt|promessa|f}}, {{t+|pt|penhor|m}}
+* Portuguese: {{t+|pt|promessa|f}}
 * Romanian: {{t+|ro|legământ}}, {{t+|ro|promisiune|alt=promisiune (fermă)}}, {{t+|ro|jurământ}}
 * Russian: {{t+|ru|обе́т|m}}, {{t+|ru|обеща́ние|n}}, {{t+|ru|заро́к|m}}
 * Scottish Gaelic: {{t|gd|gealltanas|m}}
@@ -144,32 +144,42 @@ From {{inh|en|enm|plege}}, from {{der|en|xno|plege}}, from {{der|en|fro|plege}} 
 * Telugu: {{t+|te|ప్రతిజ్ఞ}}, {{t+|te|ప్రతిన}}
 {{trans-bottom}}
 
-{{trans-top|security to payment}} <!-- it is possibly (???) meant to correspond to this sense above: "Something given by a person who is borrowing money etc to the person he has borrowed it from, to be kept until the money etc is returned." -- anyway, this definition here should be clarified, as opposed to the other meaning below, "A security to guarantee payment of a debt." -->
-* Armenian: {{t+|hy|գրավ}}
-* Catalan: {{t+|ca|penyora|f}}, {{t+|ca|garantia|f}}
-* Finnish: {{t+|fi|pantti}}, {{t+|fi|vakuus}}
+{{trans-top|security to guarantee the payment of a debt}}
+* Albanian: {{t+|sq|peng|m}}
+* Armenian: {{t+|hy|գրավ|tr=grav}}
+* Bulgarian: {{t+|bg|залог|m}}
+* Catalan: {{t+|ca|penyora|f}}
+* Chinese: {{t|zh|质权|tr=zhì quán}}
+* Danish: {{t|da|pant|n}}
+* Dutch: {{t+|nl|pand|n}}
+* Finnish: {{t+|fi|pantti}}
+* French: {{t+|fr|gage|m}}
+* German: {{t+|de|Pfand|n}}
 * Greek: {{t+|el|ενέχυρο|n}}
 *: Ancient: {{t|grc|ἐγγύη|f}}, {{t|grc|ῥύσιον|n}}, {{t|grc|ὑποθήκη|f}}
 * Hungarian: {{t+|hu|zálog}}, {{t+|hu|biztosíték}}, {{t+|hu|fedezet}}
-* Italian: {{t+|it|avallo|m}}, {{t+|it|garanzia|f}}
+* Italian: {{t+|it|pegno|m}}
+* Japanese: {{t|ja|質権|tr=しちけん, shichiken}}
+* Korean: {{t|ko|질권|tr=jilgwon}}
 * Latin: {{t|la|pignus|n}}
-* Maori: {{t|mi|tāmana}}
 {{trans-mid}}
+* Maori: {{t|mi|tāmana}}
+* Norwegian: {{t+|no|pant|n}}
 * Persian: {{t+|fa|گرو|tr=gerow|sc=fa-Arab}}
-* Polish: {{t+|pl|depozyt|m}}, {{t+|pl|kaucja|f}}, {{t+|pl|zastaw|m}}
-* Portuguese: {{t+|pt|garantia|f}}
-* Romanian: {{t+|ro|zălog}}, {{t+|ro|gaj}}, {{t+|ro|garanție}}
+* Polish: {{t+|pl|zastaw|m}}
+* Portuguese: {{t+|pt|penhor|m}}
+* Romanian: {{t+|ro|zălog}}, {{t+|ro|gaj}}
+* Romansch: {{t+|rm|pegn|m}}
 * Russian: {{t+|ru|зало́г|m}}
-* Spanish: {{t+|es|garantía|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|залога|f}}
+*: Roman: {{t+|sh|zaloga|f}}
+* Spanish: {{t+|es|prenda|f}}
+* Swedish: {{t+|sv|pant|c}}
 * Telugu: {{t+|te|తనఖా}}
 * Thai: {{t+|th|จำนำ}}
-{{trans-bottom}}
-
-{{trans-top|security to guarantee the payment of a debt}}
-* Bulgarian: {{t+|bg|залог|m}}
-* Finnish: {{t+|fi|vakuus}}
-{{trans-mid}}
-* Galician: {{t+|gl|depósito|m}}, {{t|gl|garantía|f}}
+* Vietnamese: {{t+|vi|cầm đồ}}
+* Welsh: {{t+|cy|gwystl|m}}
 {{trans-bottom}}
 
 {{trans-top|person who has taken a pledge of allegiance to a fraternity}}
