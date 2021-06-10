@@ -23,13 +23,15 @@ From {{der|en|ML.|Norvegia}} + {{m|en|-ian}}.
 # {{lb|en|uncountable}} The [[language]] of [[Norway]], which has two official forms, {{l|en|Bokmål}} and {{l|en|Nynorsk}}.
 
 ====Related terms====
-{{sense|language}}
-* {{l|en|Dano-Norwegian}}
-* {{l|en|Old Norwegian}}
-* {{l|en|Middle Norwegian}}
-* {{l|en|New Norwegian}}
-* {{l|en|Norwegian Bokmål}}
-* {{l|en|Norwegian Nynorsk}}
+{{s|language}}
+{{rel4|en
+|Dano-Norwegian
+|Middle Norwegian
+|New Norwegian
+|Norwegian Bokmål
+|Norwegian Nynorsk
+|Old Norwegian
+}}
 
 ====Translations====
 {{trans-top|native of Norway}}
@@ -43,7 +45,7 @@ From {{der|en|ML.|Norvegia}} + {{m|en|-ian}}.
 * Czech: {{t+|cs|Nor|m}}, {{t+|cs|Norka|f}}
 * Danish: {{t+|da|nordmand|c}}
 * Dutch: {{t+|nl|Noor|m}}, {{t+|nl|Noorse|f}}
-* Esperanto: {{t|eo|norvego}}, {{t|eo|norvegino}} {{qualifier|woman}}
+* Esperanto: {{t|eo|norvego}}, {{t|eo|norvegino}} {{q|woman}}
 * Estonian: {{t|et|norralane}}
 * Faroese: {{t|fo|norðmaður|m}}
 * Finnish: {{t+|fi|norjalainen}}
@@ -64,7 +66,7 @@ From {{der|en|ML.|Norvegia}} + {{m|en|-ian}}.
 * Latvian: {{t|lv|norvēģis|m}}, {{t|lv|norvēģiete|f}}
 * Lithuanian: {{t+|lt|norvegas|m}}, {{t+|lt|norvegė|f}}
 * Luxembourgish: {{t|lb|Norweeger|m}}, {{t|lb|Norweegerin|f}}
-* Northern Sami: {{t|se|norgalaš}} {{qualifier|nationality}}, {{t|se|dárrolaš}} {{qualifier|ethnicity}}
+* Northern Sami: {{t|se|norgalaš}} {{q|nationality}}, {{t|se|dárrolaš}} {{q|ethnicity}}
 * Norwegian:
 *: Bokmål: {{t+|nb|nordmann|m}}
 *: Nynorsk: {{t+|nn|nordmann|m}}
@@ -73,7 +75,7 @@ From {{der|en|ML.|Norvegia}} + {{m|en|-ian}}.
 * Portuguese: {{t+|pt|norueguês|m}}, {{t|pt|norueguesa|f}}
 * Romanian: {{t+|ro|norvegian|m}}, {{t+|ro|norvegiancă|f}}, {{t|ro|norvegieni|p}}, {{t|ro|norvegience|f-p}}, {{t+|ro|norvegiană|f}}
 * Russian: {{t+|ru|норве́жец|m}}, {{t+|ru|норве́жка|f}}
-* Scottish Gaelic: {{t|gd|Nirribheach|m}}, {{qualifier|dated}} {{t|gd|Lochlannach|m}}
+* Scottish Gaelic: {{t|gd|Nirribheach|m}}, {{t|gd|Lochlannach|m}} {{|dated}} 
 * Serbo-Croatian:
 *: Roman: {{t+|sh|Norvéžanin|m}}, {{t|sh|Norvéžānka|f}}
 * Slovak: {{t+|sk|Nór|m}}, {{t|sk|Nórka|f}}
@@ -145,7 +147,7 @@ From {{der|en|ML.|Norvegia}} + {{m|en|-ian}}.
 * Thai: {{t+|th|ภาษานอร์เวย์|tr=paasăa norway}}
 * Tigrinya: {{t|ti|ኖርዌጂያን}}
 * Turkish: {{t+|tr|Norveççe}}
-* Ukrainian: {{t+|uk|норве́зька|f}} {{qualifier|мо́ва}}
+* Ukrainian: {{t+|uk|норве́зька|f}} {{q|мо́ва}}
 * Vietnamese: {{t+|vi|tiếng Na Uy}}
 * Volapük: {{t+|vo|Norgänapük}}, {{t|vo|Norgänapük (Bokmål)}}, {{t|vo|Nula-Norgänapük}}
 * Walloon: {{t+|wa|norvedjin|m}}
@@ -213,7 +215,7 @@ From {{der|en|ML.|Norvegia}} + {{m|en|-ian}}.
 * Portuguese: {{t+|pt|norueguês}}
 * Romanian: {{t+|ro|norvegian}}
 * Russian: {{t+|ru|норве́жский}}
-* Scottish Gaelic: {{t|gd|Nirribheach}}, {{qualifier|dated}} {{t|gd|Lochlannach}}
+* Scottish Gaelic: {{t|gd|Nirribheach}}, {{t|gd|Lochlannach}} {{q|dated}} 
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|но̀рвешкӣ}}
 *: Roman: {{t+|sh|nòrveškī}}
@@ -267,7 +269,7 @@ From {{der|en|ML.|Norvegia}} + {{m|en|-ian}}.
 * Portuguese: {{t+|pt|norueguês}}
 * Romanian: {{t+|ro|norvegian}}
 * Russian: {{t+|ru|норве́жский}}
-* Scottish Gaelic: {{t|gd|Nirribheach}}, {{qualifier|dated}} {{t|gd|Lochlannach}}
+* Scottish Gaelic: {{t|gd|Nirribheach}}, {{t|gd|Lochlannach}} {{q|dated}}
 * Serbo-Croatian:
 *: Roman: {{t+|sh|nòrveškī}}
 * Slovak: {{t+|sk|nórsky}}
@@ -290,7 +292,7 @@ From {{der|en|ML.|Norvegia}} + {{m|en|-ian}}.
 * Esperanto: {{t+|eo|norvega}}, {{t|eo|norveglingva}}
 * Faroese: {{t|fo|norskur|m}}
 * Finnish: {{t+|fi|norjalainen}}
-* French: {{t+|fr|norvégien|m}}, {{t+|fr|norvégienne|f}}, {{t|fr|norvégophone|m|f}}
+* French: {{t+|fr|norvégien}}, {{t|fr|norvégophone}}
 * German: {{t+|de|norwegisch}}, {{t|de|norwegischsprachig}}, {{t|de|norwegischsprachlich}}, {{t|de|norwegischsprechend}}
 * Hawaiian: {{t|haw|Nolewai}}
 * Hindi: {{t|hi|नार्वेजियन}}, {{t|hi|नॉर्वेजियाई}}
@@ -306,9 +308,9 @@ From {{der|en|ML.|Norvegia}} + {{m|en|-ian}}.
 *: Nynorsk: {{t+|nn|norsk}}
 * Polish: {{t+|pl|norweski}}
 * Portuguese: {{t+|pt|norueguês}}
-* Romanian: {{t+|ro|norvegian|m}}, {{t+|ro|norvegiană|f}}, {{t|ro|norvegieni|p}}, {{t|ro|norvegiene|f-p}}
+* Romanian: {{t+|ro|norvegian}}
 * Russian: {{t+|ru|норве́жский}}
-* Scottish Gaelic: {{t|gd|Nirribheach}}, {{qualifier|dated}} {{t|gd|Lochlannach}}
+* Scottish Gaelic: {{t|gd|Nirribheach}}, {{t|gd|Lochlannach}} {{q|dated}} 
 * Serbo-Croatian:
 *: Roman: {{t+|sh|nòrveškī}}
 * Slovak: {{t+|sk|nórsky|m}}
@@ -316,7 +318,7 @@ From {{der|en|ML.|Norvegia}} + {{m|en|-ian}}.
 * Spanish: {{t+|es|noruego|m}}, {{t+|es|noruega|f}}
 * Swedish: {{t+|sv|norsk}}
 * Turkish: {{t+|tr|Norveç}}
-* Volapük: {{t|vo|Norgänapükik}}, {{t|vo|Norgänapükik (Bokmål)}}, {{t|vo|Nula-Norgänapükik}}
+* Volapük: {{t|vo|Norgänapükik}}, {{t|vo|Norgänapükik}} {{q|[[Bokmål]]}}, {{t|vo|Nula-Norgänapükik}} {{q|[[Nynorsk]]}}
 {{trans-bottom}}
 
 ===Derived terms===
@@ -324,11 +326,13 @@ From {{der|en|ML.|Norvegia}} + {{m|en|-ian}}.
 * {{l|en|Norwegian Sea}}
 
 ===See also===
-* {{l|en|Bokmål}}
-* {{l|en|Høgnorsk}}
-* {{l|en|Nynorsk}}
-* {{l|en|Riksmål}}
-* {{l|en|Landsmål}}
+{{col4|en
+|Bokmål
+|Høgnorsk
+|Nynorsk
+|Riksmål
+|Landsmål
+}}
 * {{langcat|no}}
 
 ===Further reading===
