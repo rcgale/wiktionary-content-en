@@ -2,7 +2,7 @@
 ==English==
 
 ===Alternative forms===
-* {{alter|en|sg.||abbreviation}}
+* {{alt|en|sing.|sg.|sg||abbreviation}}
 
 ===Etymology===
 {{root|en|ine-pro|*sem-}}
@@ -52,15 +52,17 @@ From {{inh|en|enm|singuler}}, borrowed from {{bor|en|fro|-}}, from {{der|en|la|s
 #*: Thus made he an end, and the two princes allowed well of his last motion, and so order was taken, that they should fight togither in a '''singular''' combat
 
 ====Synonyms====
-* {{sense|being only one}} see also [[Thesaurus:specific]]
-* {{sense|being the only one of a kind}} see also [[Thesaurus:unique]]
-* {{sense|being out of the ordinary}} see also [[Thesaurus:strange]]
+* {{s|being only one}} see also [[Thesaurus:specific]]
+* {{s|being the only one of a kind}} see also [[Thesaurus:unique]]
+* {{s|being out of the ordinary}} see also [[Thesaurus:strange]]
 
 ====Antonyms====
-* {{sense|being only one}} see also [[Thesaurus:generic]]
+* {{s|being only one}} see also [[Thesaurus:generic]]
 
 ====Derived terms====
-{{col2|en
+{{col4|en
+|nonsingular
+|singularise
 |singularity
 |singularize
 }}
@@ -372,9 +374,9 @@ Borrowed from {{bor|pt|la|singulāris}}. {{doublet|pt|senheiro}}.
 ===Adjective===
 {{pt-adj|singula|r}}
 
-# {{l|en|singular}} {{gloss|being the only one of a kind}}
+# {{l|en|singular}} (being the only one of a kind)
 #: {{syn|pt|único}}
-# {{lb|pt|grammar}} {{l|en|singular}} {{gloss|referring to only one thing}}
+# {{lb|pt|grammar}} {{l|en|singular}} (referring to only one thing)
 #: {{ant|pt|plural}}
 
 ====Derived terms====
@@ -386,7 +388,7 @@ Borrowed from {{bor|pt|la|singulāris}}. {{doublet|pt|senheiro}}.
 ===Noun===
 {{pt-noun|m}}
 
-# {{lb|pt|grammar}} {{l|en|singular}} {{gloss|form of a word that refers to only one thing}}
+# {{lb|pt|grammar}} {{l|en|singular}} (form of a word that refers to only one thing)
 #: {{ant|pt|plural}}
 
 ----
@@ -426,7 +428,7 @@ Borrowed from {{bor|es|la|singulāris}}. {{doublet|es|señero}}.
 ===Adjective===
 {{es-adj}}
 
-# [[#English|singular]]
+# {{l|en|singular}}
 #: {{ant|es|plural}}
 # [[odd]], [[peculiar]]
 
@@ -439,7 +441,7 @@ Borrowed from {{bor|es|la|singulāris}}. {{doublet|es|señero}}.
 ===Noun===
 {{es-noun|m}}
 
-# [[#English|singular]]
+# {{l|en|singular}}
 #: {{ant|es|plural}}
 
 ===Further reading===
