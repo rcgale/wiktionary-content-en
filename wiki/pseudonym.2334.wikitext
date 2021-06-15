@@ -1,10 +1,10 @@
 {{also|Pseudonym}}
 ==English==
 {{was wotd|2006|October|5}}
-{{wikipedia}}
+{{wp}}
 
 ===Etymology===
-{{back-formation|en|pseudonymous}}, from {{der|en|fr|pseudonyme|pos=a||pseudonymous}}, from {{der|en|grc|ψευδώνυμος}}, from {{m|grc|ψευδής|t=false}} and {{m|grc|ὄνυμα}}, from {{m|grc|ὄνομα|t=name}}. Synchronically analyzable as {{af|en|pseudo-|-onym}}.
+{{back-formation|en|pseudonymous}}, from {{der|en|fr|pseudonyme|pos=a||pseudonymous}}, from {{der|en|grc|ψευδώνυμος}}, from {{m|grc|ψευδής|t=false}} and {{m|grc|ὄνυμα}}, a dialectal form of  {{m|grc|ὄνομα|t=name}}. Synchronically analyzable as {{af|en|pseudo-|-onym}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|en|/ˈs(j)uː.dəʊ.nɪm/|/ˈsu.də.nɪm/}}
@@ -15,24 +15,39 @@
 ===Noun===
 {{en-noun}}
 
-# A [[fictitious]] [[name]], as [[those]] [[use]]d by [[writer]]s and [[movie star]]s.
+# A [[fictitious]] name (more [[literally]], a [[false]] [[name]]), as [[those]] [[use]]d by [[writer]]s and [[movie star]]s.
 #: ''The Reverend Charles Lutwidge Dodgson wrote "Alice's Adventures in Wonderland" under the '''pseudonym''' Lewis Carroll.''
 #* {{c.|1911}} [[w:H. G. Wells|H. G. Wells]], ''[[s:The Obliterated Man|The Obliterated Man]]''
 #*: I doubt, indeed, whether I should not abandon the struggle altogether—leave this sad world of ordinary life for which I am so ill fitted, abandon the name of Cummins for some professional '''pseudonym''', complete my self-effacement, and—a thing of tricks and tatters, of posing and pretence—go upon the stage.
 #* '''1928''', [[w:H.P. Lovecraft|H.P. Lovecraft]], ''[[s:Supernatural Horror in Literature|Supernatural Horror in Literature]]''
 #*: The best example of its literary use so far are the German novel ''The Golem'', by Gustav Meyrink, and the drama ''The Dybbuk'', by the jewish writer using the '''pseudonym''' "Ansky".
 
+====Antonyms====
+* {{l|en|alethonym||[[true]] name, from Ancient Greek {{l|grc|ἀληθής||true}} and {{m|grc|ὄνυμα}}}} {{q|cf. the [[cognate]]s - English: {{l|en|alethonym}} (noun), {{l|en|alethonymous}} (adjective); German: {{l|de|Alethonym}} (noun) [[http://www.max-stirner-archiv-leipzig.de/dokumente/Ruest.doc]], {{l|de|alethonym}} (adjective or adverb), [https://elibrary.duncker-humblot.com/publication/b/id/34336/]; French: {{l|fr|aléthonyme}} (noun or adjective) [https://phiphilo.blogspot.com/2011/10/forum-philosophique-et-internet.html], [https://www.wipo.int/edocs/pubdocs/fr/copyright/120/wipo_pub_120_1917_10.pdf], {{l|fr|aléthonymes}} (noun or adjective), [https://www.erudit.org/fr/revues/etudlitt/2016-v47-n3-etudlitt04124/1054008ar/]}}
+
 ====Hyponyms====
-* {{sense|acting contexts}} {{l|en|stage name}}
-* {{sense|literary contexts}} {{l|en|pen name}}, {{l|en|pen-name}}, {{l|en|nom de plume}}
-* {{sense|military contexts}} {{l|en|nom de guerre}}
-* {{sense|another person's actual name adopted as a pseudonym}} {{l|en|allonym}}
+* {{s|acting contexts}} {{l|en|stage name}}
+* {{s|literary contexts}} {{l|en|pen name}}, {{l|en|pen-name}}, {{l|en|nom de plume}}
+* {{s|military contexts}} {{l|en|nom de guerre}}
+* {{s|another person's actual name adopted as a pseudonym}} {{l|en|allonym}}
 
 ====Coordinate terms====
-*{{l|en|alias}}, {{l|en|handle}}, {{l|en|moniker}}, {{l|en|nickname}}
+* {{l|en|alias}}, {{l|en|handle}}, {{l|en|moniker}}, {{l|en|nickname}}
 
 ====Derived terms====
-{{der4|en|pseudonymize|pseudonymization|pseudonymousness|pseudonymity|pseudonymous|pseudonymously|pseudonymized}}
+{{der4|en
+|pseudonymisation
+|pseudonymise
+|pseudonymiser
+|pseudonymization
+|pseudonymize
+|pseudonymizer
+|pseudonymousness
+|pseudonymity
+|pseudonymous
+|pseudonymously
+|pseudonymized
+}}
 
 ====Translations====
 {{trans-top|fictitious name}}
@@ -41,7 +56,7 @@
 * Belarusian: {{t|be|псеўдані́м|m}}
 * Catalan: {{t+|ca|pseudònim|m}}
 * Chinese:
-*: Mandarin: {{qualifier|fake name}} {{t+|cmn|假名|tr=jiǎmíng}}, {{qualifier|assumed name}} {{t+|cmn|化名|tr=huàmíng}}, {{qualifier|pen name}} {{t+|cmn|筆名}}, {{t+|cmn|笔名|tr=bǐmíng}}, {{qualifier|stage name}} {{t+|cmn|藝名}}, {{t+|cmn|艺名|tr=yìmíng}}
+*: Mandarin: {{t+|cmn|假名|tr=jiǎmíng}} {{q|fake name}}, {{t+|cmn|化名|tr=huàmíng}} {{q|assumed name}}, {{t+|cmn|筆名}} {{q|pen name}}, {{t+|cmn|笔名|tr=bǐmíng}}, {{t+|cmn|藝名}} {{q|stage name}}, {{t+|cmn|艺名|tr=yìmíng}}
 * Czech: {{t+|cs|pseudonym|m}}
 * Danish: {{t|da|pseudonym}}
 * Dutch: {{t+|nl|pseudoniem|n}}, {{t+|nl|schuilnaam|m}}, {{t+|nl|deknaam|m}}
@@ -55,7 +70,7 @@
 * Hungarian: {{t+|hu|álnév}}
 * Icelandic: {{t|is|höfundarnafn|n}}, {{t|is|dulnefni|n}}, {{t|is|leyninafn|n}}
 * Ido: {{t+|io|pseudonimo}}
-* Irish: {{t|ga|ainm bréige|m}}, {{t|ga|ainm cleite|m}} {{qualifier|pen name}}
+* Irish: {{t|ga|ainm bréige|m}}, {{t|ga|ainm cleite|m}} {{q|pen name}}
 * Italian: {{t+|it|pseudonimo|m}}
 * Japanese: {{t+|ja|仮名|tr=かめい, kamei}}, {{t|ja|雅号|tr=がごう, gagō}}, {{t+|ja|筆名|tr=ひつめい, hitsumei}}, {{t+|ja|ペンネーム|tr=pennēmu}}, {{t+|ja|芸名|tr=geimei}}, {{t+|ja|武号}} {{q|used by a martial artist}}
 * Kazakh: {{t+|kk|бүркеншік ат}}
@@ -67,12 +82,12 @@
 *: Southern Kurdish: {{t|sdh|زِڕناو}}
 * Latin: {{t|la|pseudonymum|n}}
 * Latvian: {{t+|lv|pseidonīms|m}}
-* Norman: {{t|nrf|nom-d'plieunme|m}} {{qualifier|Jersey; pen name}}
+* Norman: {{t|nrf|nom-d'plieunme|m}} {{q|Jersey; pen name}}
 * Norwegian:
 *: Bokmål: {{t+|nb|pseudonym|n}}, {{t|nb|psevdonym|n}}
 *: Nynorsk: {{t|nn|pseudonym|n}}, {{t|nn|psevdonym|n}}
 * Polish: {{t+|pl|pseudonim|m-in}}
-* Portuguese: {{t+|pt|pseudónimo|m}}, {{t+|pt|pseudônimo|m}} {{qualifier|Brazil}}
+* Portuguese: {{t+|pt|pseudónimo|m}}, {{t+|pt|pseudônimo|m}} {{q|Brazil}}
 * Romanian: {{t+|ro|pseudonim|n}}
 * Russian: {{t+|ru|псевдони́м|m}}, {{t|ru|вы́мышленное и́мя|n}}
 * Serbo-Croatian:
@@ -100,7 +115,7 @@
 ===Noun===
 {{cs-noun|g=m}}
 
-# [[#English|pseudonym]]
+# {{l|en|pseudonym}}
 
 ----
 
@@ -112,7 +127,7 @@
 ===Noun===
 {{da-noun|et|er}}
 
-# [[pseudonym#English|pseudonym]]
+# {{l|en|pseudonym}}
 
 ====Inflection====
 {{da-noun-infl|et|er}}
@@ -150,7 +165,7 @@
 ----
 
 ==Norwegian Bokmål==
-{{wikipedia|lang=no}}
+{{wp|lang=no}}
 
 ===Alternative forms===
 * {{l|nb|psevdonym}}
@@ -161,7 +176,7 @@ From {{der|nb|grc|ψευδώνυμος}}
 ===Noun===
 {{nb-noun-n3}}
 
-# a {{l|en|pseudonym}}
+# {{l|en|pseudonym}}
 
 ===References===
 * {{R:The Bokmål Dictionary}}
@@ -169,7 +184,7 @@ From {{der|nb|grc|ψευδώνυμος}}
 ----
 
 ==Norwegian Nynorsk==
-{{wikipedia|lang=nn}}
+{{wp|lang=nn}}
 
 ===Alternative forms===
 * {{l|nn|psevdonym}}
@@ -180,7 +195,7 @@ From {{der|nn|grc|ψευδώνυμος}}
 ===Noun===
 {{nn-noun-n1}}
 
-# a {{l|en|pseudonym}}
+# {{l|en|pseudonym}}
 
 ===References===
 * {{R:The Nynorsk Dictionary}}
