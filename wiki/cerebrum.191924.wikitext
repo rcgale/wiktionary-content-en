@@ -83,7 +83,8 @@
 
 ===Etymology===
 {{root|la|ine-pro|*ḱerh₂-}}
-From {{inh|la|itc-pro|*kerazrom}}, ultimately from {{der|la|ine-pro|*ḱerh₂-}}.
+
+From {{inh|la|itc-pro|*kerazrom}}, ultimately from {{der|la|ine-pro|*ḱerh₂-}}. Compare {{cog|grc|κᾰ́ρᾱ||a head, face}}.
 
 ===Pronunciation===
 * {{la-IPA}}
@@ -91,34 +92,39 @@ From {{inh|la|itc-pro|*kerazrom}}, ultimately from {{der|la|ine-pro|*ḱerh₂-}
 ===Noun===
 {{la-noun|cerebrum<2>}}
 
-# [[brain]]
-# [[skull]]
+# a [[brain]]
+## {{lb|la|metonym}} [[understanding]]; [[anger]], [[choler]]
+# {{lb|la|skeleton}} a [[skull]]
+# {{lb|la|botany}} an [[upper]] [[pith]]
 
-====Declension====
+{{rfq|la}}
+
+====Inflection====
 {{la-ndecl|cerebrum<2>}}
 
 ====Derived terms====
-{{der3|la
-|cerebellum
-|cerebrōsus
-|cerebralis
-}}
+* {{l|la|cerebellum}}
+* {{l|la|cerebrālis}}
+* {{l|la|cerebrōsus}}
+* {{l|la|excerebrō}}
 
 ====Descendants====
-{{top2}}
+{{des-top}}
 * {{desc|rup|crier}}
-* {{desc|ast|cerebru}}
-* {{desc|en|cerebrum}}
+* {{desc|ast|cerebru|bor=1}}
+* {{desc|en|cerebrum|bor=1}}
 * {{desc|eo|cerbo}}
-* {{desc|gl|cerebro}}
-* {{desc|io|cerebro}}
-* {{desc|ia|cerebro}}
-* {{desc|it|cerebro}}
-* {{desc|pt|cérebro}}
+* {{desc|fr|cérébral|der=1}}
+** {{desc|en|cerebral|bor=1}}
+* {{desc|gl|cerebro|bor=1}}
+* {{desc|io|cerebro|bor=1}}
+* {{desc|ia|cerebro|bor=1}}
+* {{desc|it|cerebro|bor=1}}
+* {{desc|pt|cérebro|bor=1}}
 * {{desc|ro|creier}}
-* {{desc|es|cerebro}}
-* {{desc|tr|serebrum}}
-{{bottom}}
+* {{desc|es|cerebro|bor=1}}
+* {{desc|tr|serebrum|bor=1}}
+{{des-bottom}}
 
 ===References===
 * {{R:L&S}}
@@ -127,4 +133,4 @@ From {{inh|la|itc-pro|*kerazrom}}, ultimately from {{der|la|ine-pro|*ḱerh₂-}
 * {{R:Gaffiot}}
 * {{R:Century 1911|cerebrum}}
 
-[[Category:la:Anatomy]]
+{{c|la|Neuroanatomy|Thinking|Emotions}}
