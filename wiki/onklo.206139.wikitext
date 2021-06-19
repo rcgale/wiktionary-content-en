@@ -4,20 +4,16 @@
 From {{der|eo|fr|oncle}}, {{der|eo|de|Onkel}}, {{der|eo|en|uncle}}, ultimately from {{der|eo|la|avunculus}}.
 
 ===Pronunciation===
-* {{audio|eo|Eo-onklo.ogg|Audio}}
+{{eo-IPA|a=Eo-onklo.ogg}}
 
 ===Noun===
 {{eo-head}}
 
 # [[uncle]]
-
-====Hypernyms====
-* {{l|eo|geonklo|gloss=[[aunt]] or [[uncle]]}}
+#: {{hypernyms|eo|geonklo}}
+#: {{coordinate terms|eo|onklino}}
 
 {{eo BRO|4}}
-
-====Coordinate terms====
-* {{l|eo|onklino|gloss=[[aunt]]}}
 
 ====Derived terms====
 * {{l|eo|oĉjo|t=[[uncley]]}}
@@ -30,15 +26,15 @@ From {{der|eo|fr|oncle}}, {{der|eo|de|Onkel}}, {{der|eo|en|uncle}}, ultimately f
 ==Ido==
 
 ===Etymology===
-From {{der|io|eo|onklo}}, from {{der|io|en|uncle}}, {{der|io|fr|oncle}}, {{der|io|de|Onkel}}, from {{der|io|la|avunculus}}.
+{{io-bor|eo=onklo|uncle|oncle|Onkel|nodot=1}}, from {{der|io|la|avunculus}}.
+
+===Pronunciation===
+{{io-IPA}}
 
 ===Noun===
 {{io-noun|onkl}}
 
 # [[uncle]] ''or'' [[aunt]]
-
-====Derived terms====
-* {{l|io|onklulo||uncle}}
-* {{l|io|onklino||aunt}}
+#: {{hyponyms|io|onklulo|onklino}}
 
 {{c|io|Family members}}
