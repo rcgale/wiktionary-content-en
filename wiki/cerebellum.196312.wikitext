@@ -111,50 +111,61 @@
 ==Latin==
 
 ===Etymology===
-From {{m|la|cerebrum||brain}}, with the diminutive suffix {{m|la|-ellum}}.
+From {{af|la|cerebrum|-ellum|t1=a brain|pos2=diminutive nominal suffix}}.
 
 ===Pronunciation===
-* {{la-IPA|cerebellum|eccl=yes}}
+* {{la-IPA}}
 
 ===Noun===
 {{la-noun|cerebellum<2>}}
 
-# [[brain]], little brain
-# seat of [[senses]], [[intellect]]
+# {{dim of|la|cerebrum}}:
+## {{lb|la|anatomy}} a [[little]] [[brain]]
+## the [[seat]] of [[senses]], [[intellect]]
 
-====Declension====
+{{rfq|la}}
+
+====Inflection====
 {{la-ndecl|cerebellum<2>}}
 
+====Derived terms====
+* {{l|la|cerebellāre}}
+
 ====Descendants====
-{{top2}}
-* {{desc|rup|crier}}, {{l|rup|criel}}
+{{des-top}}
+* {{desc|rup|crier|alts=1}}
 * {{desc|ast|cerebelu|bor=1}}
-* {{desc|ca|cervell}}; {{desc|ca|cerebel|bor=1|nolb=1}}
-* {{desc|co|ciarbeddu}}, {{l|co|ciarbellu}}
+* {{desc|ca|cervell}}
+* {{desc|ca|cerebel|bor=1}}
+* {{desc|co|[[ciarbeddu]], [[ciarbellu]], [[cerbellu]]}}
 * {{desc|dlm|carviale}}
+* {{desc|en|cerebellum|bor=1}}
+* {{desc|el|τσερβέλο|bor=1}}
 * {{desc|fro|cervel}}
-** {{desc|frm|cerveau}}, {{l|frm|cervel}}
+** {{desc|frm|cerveau|alts=1}}
 *** {{desc|fr|cerveau}}
 ** {{desc|nrf|chèrvé}}
 ** {{desc|wa|cervea}}
 * {{desc|fro|cervele}}
 ** {{desc|frm|cervelle}}
 *** {{desc|fr|cervelle}}
-* {{desc|fur|cerviel}}, {{l|fur|čurviel}}
+* {{desc|fur|cerviel|alts=1}}
 * {{desc|gl|cerebelo|bor=1}}
-* {{desc|it|cervello}}; {{desc|it|cerebello|bor=1|nolb=1}}, {{l|it|cerebellare}}
+* {{desc|it|cervello}}
+* {{desc|it|cerebello|bor=1}}, {{desc|it|cerebellare|der=1|nolb=1}}
 * {{desc|oc|cervèl}}
 * {{desc|pt|cerebelo|bor=1}}
-* {{desc|ro|creier}}; {{desc|ro|cerebel|bor=1|nolb=1}}
+* {{desc|ro|creier|alts=1}}
+* {{desc|ro|cerebel|bor=1}}
 * {{desc|rm|tscharvè}}
-* {{desc|sc|cherbeddu}}, {{l|sc|cherveddu}}, {{l|sc|cerbeddu}}, {{l|sc|carbeddu}}
-* {{desc|scn|ciriveddu}}, {{l|scn|cirbeddu}}, {{l|scn|cirveddu}}
+* {{desc|sc|cherbeddu|alts=1}}
+* {{desc|scn|ciriveddu|alts=1}}
 * {{desc|es|cerebelo|bor=1}}
-* {{desc|vec|serveło}}, {{l|vec|zerveło}}, {{l|vec|çervèlo}}, {{l|vec|çervèl}}
-* {{desc|en|cerebellum|bor=1}}
-* {{desc|el|τσερβέλο|bor=1}}
-{{bottom}}
+* {{desc|vec|serveło|alts=1}}
+{{des-bottom}}
 
 ===References===
 * {{R:L&S}}
 * {{R:Gaffiot}}
+
+{{c|la|Thinking}}
