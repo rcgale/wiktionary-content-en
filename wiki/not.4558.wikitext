@@ -572,16 +572,16 @@ From {{bor|id|nl|noot}}, from {{der|id|dum|note}}, from {{der|id|fro|note}}, fro
 
 ==Middle English==
 
-===Alternative forms===
-* {{alter|enm|nat|note|notte|nate|nut}}
-
-===Etymology===
-Reduction of {{m|enm|nought}} (from {{inh|enm|ang|nāwiht}}, {{m|ang|nōwiht}}).
-
 ===Pronunciation===
 * {{IPA|enm|/nɔt/|/nat/}}
 
-===Adverb===
+===Etymology 1===
+Reduction of {{m|enm|nought}} (from {{inh|enm|ang|nāwiht}}, {{m|ang|nōwiht}}).
+
+====Alternative forms====
+* {{alter|enm|nat|note|notte|nate|nut}}
+
+====Adverb====
 {{enm-adv}}
 
 # [[not]] ({{n-g|negates the accompanying verb}})
@@ -589,26 +589,39 @@ Reduction of {{m|enm|nought}} (from {{inh|enm|ang|nāwiht}}, {{m|ang|nōwiht}}).
 # [[not]] ({{n-g|to no degree, extent, or way}})
 #: {{ux|enm|Þou art '''not''' weyke.|t=You are'''n't''' weak.|inline=1}}
 
-====Descendants====
+=====Descendants=====
 * {{desc|en|not}}
 * {{desc|sco|nat}} {{q|obsolete}}
 * {{desc|yol|nat}}
 
-====References====
+=====References=====
 * {{R:MED Online|entry=not|part of speech=adv|id=MED29867}}
 
-===Noun===
+====Noun====
 {{enm-noun|-}}
 
 # [[nothing]], {{l|en|nought}}
 # {{lb|enm|rare}} [[nobody]], no [[person]]
 
-====Descendants====
+=====Descendants=====
 * {{desc|en|not}}
 * {{desc|sco|nat}} {{q|obsolete}}
 
-====References====
+=====References=====
 * {{R:MED Online|entry=not|part of speech=pron|id= MED29865}}
+
+===Etymology 2===
+From {{inh|enm|ang|nāt}}, first and third person singular of {{m|ang|nytan|nitan}}, equivalent to {{af|enm|ne|wot}} and {{af|enm|ne|witen}}.
+
+====Alternative forms====
+* {{alter|enm|not|nat|noot|note}}
+
+====Contraction====
+{{head|en|contraction}}
+
+# {{contraction of|enm|[[ne]] [[wot]]|dot=;}} {{l|en|not}} to {{l|en|know}}.
+#* {{RQ:Chaucer Canterbury|The Knight's Tale}} {{attention|en|this should be in Middle English}}
+#*:I '''noot''' which was the fairer of hem two
 
 [[Category:enm:Zero]]
 
