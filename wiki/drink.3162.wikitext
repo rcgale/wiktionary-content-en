@@ -2,7 +2,10 @@
 ==English==
 
 ===Alternative forms===
-* {{l|en|drinck}} {{qualifier|obsolete}}
+* {{l|en|dhrink}} {{qualifier|pronunciation spelling|imitating an Irish accent}}
+* {{l|en|drank}} {{qualifier|slang}}
+* {{l|en|drinck}}, {{l|en|drinke}} {{qualifier|obsolete}}
+* {{l|en|thrink}} {{qualifier|pronunciation spelling}}
 
 ===Pronunciation===
 * {{a|RP|GA}} {{enPR|drĭngk}}, {{IPA|en|/dɹɪŋk/|[dʒɹɪŋk]|[d̠ɹ̠˔ʷɪŋk]}}
@@ -13,7 +16,7 @@
 From {{inh|en|enm|drynken}}, from {{inh|en|ang|drincan|t=to drink, swallow up, engulf}}, from {{inh|en|gem-pro|*drinkaną|t=to drink}}, of uncertain origin; possibly from {{der|en|ine-pro|*dʰrenǵ-|t=to draw into one's mouth, sip, gulp}}, nasalised variant of {{m|ine-pro|*dʰreǵ-|t=to draw, glide}}. Cognate with {{cog|fy|drinke|t=to drink}}, {{cog|nds|drinken|t=to drink}}, {{cog|nl|drinken|t=to drink}}, {{cog|de|trinken|t=to drink}}, {{cog|da|-}} and {{cog|nb|drikke|t=to drink}}, {{cog|nn|drikka|t=to drink}}.
 
 ====Verb====
-{{en-verb|drinks|drinking|drank|past2=drunk|past2_qual=southern US|past3=drinked|past3_qual=nonstandard|drunk|past_ptc2=drank|past_ptc2_qual=informal|past_ptc3=drinked|past_ptc3_qual=nonstandard|past_ptc4=drunken|past_ptc4_qual=obsolete or dialectal|past_ptc5=dranken|past_ptc5_qual=obsolete or nonstandard}}
+{{en-verb|drinks|drinking|drank|past2=drunk|past2_qual=southern US|past3=drinked|past3_qual=nonstandard|drunk|past_ptc2=drank|past_ptc2_qual=obsolete or informal|past_ptc3=drinked|past_ptc3_qual=nonstandard|past_ptc4=drunken|past_ptc4_qual=obsolete or dialectal|past_ptc5=dranken|past_ptc5_qual=obsolete or nonstandard}}
 
 # {{lb|en|ambitransitive}} To [[consume]] (a liquid) through the mouth.
 #: {{ux|en|He '''drank''' the water I gave him.}}
@@ -66,7 +69,12 @@ From {{inh|en|enm|drynken}}, from {{inh|en|ang|drincan|t=to drink, swallow up, e
 * {{l|en|drunken}}, {{l|en|drunk}}, {{l|en|dranken}}
 
 =====Descendants=====
+* {{desc|djk|diingi}}
 * {{desc|cpi|drinkee|alts=1}}
+* {{desc|srn|dringi}}
+* {{desc|tpi|dringim}}
+* {{desc|eo|drinki|bor=1}}
+* {{desc|io|drinkar|bor=1}}
 
 =====Translations=====
 {{trans-top|consume liquid through the mouth}}
@@ -435,24 +443,31 @@ From {{inh|en|enm|drink}}, {{m|enm|drinke}} (also as {{m|enm|drinche}}, {{m|enm|
 
 =====Derived terms=====
 {{rel-top3|Terms derived from ''drink'' (noun)}}
-* the [[big drink]]<!--nickname for various bodies of water-->
+* the {{l|en|big drink}}<!--nickname for various bodies of water-->
+* {{l|en|drank}}
 * {{l|en|drink-driver}}
 * {{l|en|drink-driving}}
-{{rel-mid3}}
 * {{l|en|drive to drink}}
 * {{l|en|in the drink}}
 * {{l|en|straw that stirs the drink}}
-{{rel-mid3}}
 * {{l|en|take to drink}}
 {{rel-bottom}}
 
 =====Descendants=====
+{{top3}}
+* {{desc|tpi|dring}}
 * {{desc|cs|drink|bor=1}}
 * {{desc|da|drink|bor=1}}
+* {{desc|nl|drink|bor=1}}
+* {{desc|fi|drinkki|bor=1}}
 * {{desc|fr|drink|bor=1}}
+* {{desc|de|Drink|bor=1}}
 * {{desc|it|drink|bor=1}}
 * {{desc|ja|ドリンク|tr=dorinku|bor=1}}
 * {{desc|pl|drink|bor=1}}
+* {{desc|pt|drinque|bor=1}}, {{l|pt|drink}}
+* {{desc|sv|drink|bor=1}}
+{{bottom}}
 
 =====Translations=====
 {{trans-top|served beverage}}
@@ -825,7 +840,7 @@ From {{bor|da|en|drink}}.
 # {{nl-verb form of|m=imp|drinken}}
 
 ===Etymology 2===
-Borrowed from English
+Borrowed from {{bor|nl|en|drink}}
 
 ====Noun====
 {{nl-noun|m|-s|-}}
@@ -926,6 +941,7 @@ From {{bor|pl|en|drink}}.
 ----
 
 ==Swedish==
+
 ===Etymology===
 From {{bor|sv|en|drink}}
 
