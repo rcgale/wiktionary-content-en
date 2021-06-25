@@ -283,44 +283,57 @@ From {{bor|id|nl|basis}}, from {{der|id|la|basis}}, from {{der|id|grc|βάσις
 
 ===Etymology===
 {{root|la|ine-pro|*gʷem-}}
-From {{der|la|grc|βάσις||foundation, base|sc=polytonic}}.
+
+Borrowing from {{bor|la|grc|βᾰ́σῐς||stepping, step; foot; base, pedestal}}.
 
 ===Pronunciation===
-* {{la-IPA|basis}}
+* {{la-IPA}}
 
 ===Noun===
 {{la-noun|basis<3.acc-im.abl-i>|g=f}}
 
-# A [[pedestal]], [[foot]], [[base]]; {{l|en|basis}}, [[foundation]].
-# {{lb|la|architecture}} The [[lowest]] part of the [[shaft]] of a [[column]].
-# {{lb|la|grammar}} The [[primitive]] [[word]], [[root]].
-# {{lb|la|of cattle}} A [[track]], [[footprint]].
+# {{lb|la|literal}} a [[pedestal]], [[foot]], [[base]]
+#: {{syn|la|crepīdō}}
+#* {{quote|la|aliquem cum '''basī''' suā mētīrī|to give false measure, to estimate too high|lit=to measure a pillar together with its '''pedestal'''}}
+## {{lb|la|figurative}} a [[foundation]]
+##: {{syn|la|rādīx}}
+# {{lb|la|geometry}} the [[base]] of a [[triangle]], [[chord]] of an [[arc]]
+# {{lb|la|architecture}} the [[lowest]] part of the [[shaft]] of a [[column]]
+# {{lb|la|grammar}} a [[primitive]] [[word]], [[root]]
+# {{q|of [[cattle]]}} a [[track]], [[footprint]]
+#: {{syn|la|vestīgium}}
 
-====Declension====
+{{rfq|la}}
+
+====Inflection====
 Note that there are the alternative forms {{m|la|baseōs}} for the genitive singular, {{m|la|baseī}} for the ablative singular, {{m|la|basin}} for accusative singular, and {{m|la|baseis}} for the accusative plural.
+
 {{la-ndecl|basis<3.acc-im.abl-i>}}
 
-====Synonyms====
-* {{sense|basis, foundation}} {{l|la|rādīx}}
-* {{sense|pedestal, base}} {{l|la|crepīdō}}
-* {{sense|track, footprint}} {{l|la|vestīgium}}
-
 ====Derived terms====
-* {{l|la|basella}}
-* {{l|la|basicula}}
-* {{l|la|basilāris}}
+* {{l|la|basella|pos=diminutive}}
+* {{l|la|basicula|pos=diminutive}}
+* {{l|la|basilāris|pos=adjective}}
 
 ====Related terms====
-* {{l|la|antibasis}}
+{{col2|la
+|antibasis
+|anabasis
+|catabasis
+|ecbasis
+|embasis
+|orthembasis}}
 
 ====Descendants====
-* {{desc|en|base}}, {{l|en|basis}}
-* {{desc|fr|base}}
-* {{desc|de|Basis|g=f}}
-* {{desc|it|base}}
-* {{desc|ru|ба́за|g=f}}, {{l|ru|ба́зис|g=m}}
-* {{desc|es|base}}
-* {{desc|sv|bas}}
+{{des-top}}
+* {{desc|en|base|bor=1}}, {{desc|en|basis|nolb=1}}
+* {{desc|fr|base|bor=1}}
+* {{desc|de|Basis|g=f|bor=1}}
+* {{desc|it|base|bor=1}}
+* {{desc|ru|ба́за|g=f|bor=1}}, {{desc|ru|ба́зис|g=m|nolb=1}}
+* {{desc|es|base|bor=1}}
+* {{desc|sv|bas|bor=1}}
+{{des-bottom}}
 
 ===References===
 * {{R:L&S}}
