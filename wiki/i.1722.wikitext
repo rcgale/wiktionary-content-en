@@ -1629,29 +1629,91 @@ From {{inh|nb|non|í||in}}, from {{inh|nb|gem-pro|*in||in, into}}, from {{inh|nb
 
 ==Norwegian Nynorsk==
 
-===Etymology===
-From {{inh|nn|non|í}}, from {{inh|nn|gem-pro|*in}}, from {{inh|nn|ine-pro|*en}}. Akin to {{cog|en|in}}.
+===Etymology 1===
+From {{inh|nn|non|í}}, from {{inh|nn|gem-pro|*in|t=in, into}}, from {{inh|nn|ine-pro|*en}}. Akin to {{cog|en|in}}.
 
-===Pronunciation===
-* IPA: /iː/<!--{{IPA|nn|/iː/}} {{nn-pronu-note}}-->
+====Preposition====
+{{nn-prep}}
 
-===Preposition===
-{{head|nn|preposition}}
-
-# [[in]], inside of
+# {{q|location}} [[in]], inside of
 #: {{uxi|nn|No er me '''i''' Noreg.|We are currently '''in''' Norway.}}
-# [[for]], [[in]], [[during]]
-# [[in]] (condition, state)
-# [[in]] (means, method)
+# {{q|duration of time}} [[for]], [[in]], [[during]]
+# {{q|condition, state}} [[in]]
+# {{q|means, method}} [[in]]
 # [[pertaining]] to, in [[reference]] to
 
-====Derived terms====
-* {{l|nn|i dag}}
-* {{l|nn|i lag}}
-* {{l|nn|i år}}
+=====Derived terms=====
+{{der4|nn
+|i dag
+|i eino
+|i fjor
+|i forfjor
+|i går
+|i hel
+|i hende
+|i lag
+|i land
+|i live
+|i morgon
+|i mutom
+|i ny og ne
+|i tide
+|i vente
+|i år
+|iallfall
+|ifrå
+|igjennom
+|imellom
+|inni
+|uti
+}}
+
+====Adverb====
+{{nn-adv}}
+
+# {{ngd|Used together with certain verbs.}}
+
+===Etymology 2===
+From {{der|nn|la|i}}, [[minuscule]] of {{m|la|I}}.
+
+====Pronunciation====
+* {{IPA|nn|/iː/}} {{nn-pronu-note}}
+
+====Letter====
+{{head|nn|noun|cat2=letters|upper case|I|definite singular|i-en|indefinite plural|i-ar|definite plural|i-ane}}
+
+# {{Latn-def|no|letter|9|i}}
+
+=====Derived terms=====
+* {{l|nn|i-land}}
+* {{l|nn|i-mål}}
+* {{l|nn|prikken over i-en}}
+
+===Etymology 3===
+
+====Pronoun====
+{{head|nn|pronoun|cat2=personal pronouns|objective|me|possessive|min}}
+
+# {{lb|nn|dialectal}} {{alt case|nocap=1|nn|I}}; {{alt form|nocap=1|nn|eg|t=I}}
+
+===Etymology 4===
+From {{der|nn|non|ér}}, {{m|non|ír}}, from {{der|nn|gem-pro|*jūz}}, from {{der|nn|ine-pro|*yū́}}. Possibly via {{bor|nn|da|I}}. Compare with {{m|nn|de}}.
+
+====Pronunciation====
+* {{IPA|nn|/iː/}}
+
+====Pronoun====
+{{head|nn|pronoun|cat2=personal pronouns|objective|jær|or|ær|or|ør|possessive|jærs|or|ærs|or|ørs}}
+
+# {{lb|nn|obsolete|dialectal|polite}} [[you]] (second person singular)
 
 ===References===
-* {{R:Dokumentasjonsprosjektet|lang=nn}}
+* {{R:ND}}
+* {{cite-book|nn|year=1919|last=Torp|first=Alf|authorlink=Alf Torp|title=Nynorsk etymologisk ordbok|location=Kristiania|publisher=Aschehoug|entry=I|page=240}}
+* {{R:Aasen1850|i}}
+
+===Anagrams===
+* {{anagrams|nn|a=i|I|i-}}
 
 ----
 
