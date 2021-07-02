@@ -239,62 +239,67 @@ From {{bor|id|nl|sinus}}, from {{der|id|la|sinus}}, from {{der|id|ine-pro|*sinos
 ==Latin==
 
 ===Etymology 1===
-From {{inh|la|ine-pro|*sinos}}; akin to {{cog|sq|gji||breast, bosom}}.<ref>Michiel de Vaan, ''Etymological Dictionary of Latin and the Other Italic Languages'' (Leiden: Brill, 2008), 567.</ref>
+From {{inh|la|ine-pro|*sinos}}; akin to {{cog|sq|gji||breast, bosom}}.<ref>{{cite-book|2008|{{w|Michiel de Vaan}}|Etymological Dictionary of Latin and the Other Italic Languages|location=Leiden|publisher={{w|Brill Publishers|Brill}}||567}}</ref>
 
 The mathematical sense ‘chord of an arc, sine’ was introduced in the 12th century by {{w|Gherardo of Cremona}} as a {{semantic loan|la|ar|جَيْب||chord, sine|nocap=1}} (ultimately a loan from {{der|la|sa|ज्या||bowstring}}) by confusion with {{m|ar|جَيْب||bosom, fold in a garment}}.
 
 ====Pronunciation====
-* {{la-IPA|sinus}}
+* {{la-IPA}}
 
 ====Noun====
-{{la-noun|sinus<4>}} {{topics|la|Landforms}}
+{{la-noun|sinus<4>}}
 
-# a [[hollow]], [[cavity]]
-# [[curve]], [[fold]], [[winding]]
-# [[gulf]], [[bay]]
-# {{lb|la|by extension}} [[cove]]
-# [[bosom]]
-# [[fold]] of the [[toga]] over the breast, [[pocket]], [[lap]]
-# [[heart]], secret [[feelings]]
-# {{lb|la|Medieval Latin|mathematics}} [[chord]] of an arc, [[sine]]
-# {{lb|la|Medieval Latin}} [[fjord]]
+# {{lb|la|mostly|poetic}} a [[bent]] [[surface]]; a [[curve]], [[fold]], [[hollow]]
+# {{lb|la|literal}} the [[hang]]ing [[fold]] of a [[toga]] over the [[breast]]; a [[pocket]], [[lap]]
+#: {{syn|la|gremium}}
+## {{lb|la|transferred sense}}
+### a [[purse]], [[money]], {{ngd|which was carried in the [[bosom]] of the [[toga]]}}
+### {{lb|la|poetic}} a [[garment]]
+### the [[bosom]], [[breast]]
+###: {{syn|la|pectus}}
+## {{lb|la|figurative}}
+### the [[bosom]] for [[love]], [[protection]], [[asylum]]
+### the [[interior]], [[inmost]] part of a thing
+### a [[power]], [[possession]] of someone
+### a [[hiding place]], [[place]] of [[concealment]]; a [[secret]] [[feeling]]
+# a [[gulf]], [[bay]], [[bight]]
+## the [[land]] lying on or a [[point]] of [[land]] that helps to form a [[gulf]]
+## a [[basin]], [[hollow]], [[valley]]
+## {{lb|la|Medieval Latin}} a [[fjord]]
+# {{lb|la|Medieval Latin|mathematics}} the [[chord]] of an [[arc]]; a [[sine]]
 
-=====Declension=====
+{{rfq|la}}
+
+=====Inflection=====
 {{la-ndecl|sinus<4>}}
 
-=====Synonyms=====
-* {{sense|bosom}} {{l|la|pectus}}
-
 =====Derived terms=====
-* {{l|la|sinuōsē}}
-* {{l|la|sinuōsus}}
-
-=====Related terms=====
-* {{l|la|sinuō}}
+* {{l|la|sinuō|pos=verb}}
+* {{l|la|sinuōsus|pos=adjective}}
 
 =====Descendants=====
-{{top2}}
-* {{desc|rup|sin}}
-* {{desc|ast|sen}}, {{l|ast|senu}}
-* {{desc|ca|si}}, {{l|ca|sina}}
-* {{desc|en|sinus|bor=1}}, {{l|en|sine}}
-* {{desc|fr|sein}}, {{l|fr|sinus}}
+{{des-top}}
+* {{desc|rup|sin|bor=1}}
+* {{desc|ast|senu|alts=1}}
+* {{desc|ca|si}}; {{desc|ca|sina|bor=1|nolb=1}}
+* {{desc|en|sinus|bor=1}}, {{desc|en|sine|nolb=1}}
+* {{desc|fr|sein}}; {{desc|fr|sinus|bor=1|nolb=1}}
 * {{desc|fur|sen}}
 * {{desc|it|seno}}
 * {{desc|pms|sen}}
-* {{desc|pt|seio}}, {{l|pt|seno}}
+* {{desc|pt|seio}}, {{desc|pt|seno|nolb=1}}
 * {{desc|ro|sân}}
 * {{desc|rm|sain}}
 * {{desc|sc|sinu}}
 * {{desc|es|seno}}
-* {{desc|vec|sen}}, {{l|vec|seno}}
-{{bottom}}
+* {{desc|vec|sen}}
+{{des-bottom}}
 
 ===Etymology 2===
-From {{inh|la|ine-pro|*sh₁ih₂sno-}}, deverbative of {{m|ine-pro|*seh₁y-}} ‘to sift, strain’ (compare {{cog|grc|ἠθέω}}, {{cog|lt|sijoti|sijóti}}, {{cog|sh|sijati|sȉjati}}).<ref>Douglas Q. Adams, “Sieve”, in ''Encyclopedia of Indo-European Culture'', eds. J. P. Mallory & D. Q. Adams (London: Fitzroy Dearborn, 1997), 518.</ref>
+From {{inh|la|ine-pro|*sh₁ih₂sno-}}, deverbative of {{m|ine-pro|*seh₁y-}} ‘to sift, strain’ (compare {{cog|grc|ἠθέω}}, {{cog|lt|sijoti|sijóti}}, {{cog|sh|sijati|sȉjati}}).<ref>{{cite-book|1997|{{w|Douglas Q. Adams}}|chapter=Sieve|Encyclopedia of Indo-European Culture|editors={{w|J. P. Mallory}}; {{w|Douglas Q. Adams}}|location=London|publisher={{w|Fitzroy Dearborn Publishers|Fitzroy Dearborn}}||518}}</ref>
 
 ====Alternative forms====
-* {{l|la|sīnum}}
+* {{alt|la|sīnum}}
 
 ====Pronunciation====
 * {{la-IPA|sīnus}}
@@ -302,13 +307,16 @@ From {{inh|la|ine-pro|*sh₁ih₂sno-}}, deverbative of {{m|ine-pro|*seh₁y-}} 
 ====Noun====
 {{la-noun|sīnus<2>}}
 
-# a large [[bowl]]
+# a large [[round]] [[drinking]] [[vessel]] with [[swelling]] sides, shaped like a [[bowl]]
 
-=====Declension=====
+{{rfq|la}}
+
+=====Inflection=====
 {{la-ndecl|sīnus<2>}}
 
 ===References===
 * {{R:L&S}}
+* {{R:L&S|sinum}}
 * {{R:Elementary Lewis}}
 * {{R:du Cange}}
 * {{R:Gaffiot}}
@@ -316,6 +324,8 @@ From {{inh|la|ine-pro|*sh₁ih₂sno-}}, deverbative of {{m|ine-pro|*seh₁y-}} 
 * {{R:Peck}}
 * {{R:Smith's Geography}}
 <references/>
+
+{{topics|la|Clothing|Landforms|Vessels}}
 
 ----
 
