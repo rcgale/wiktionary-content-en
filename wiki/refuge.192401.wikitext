@@ -3,7 +3,7 @@
 
 ===Etymology===
 {{root|en|ine-pro|*bʰewg-|id=flee}}
-From {{der|en|fro|refuge}}, from {{der|en|la|refugium}}, from {{m|la|re-}} + {{m|la|fugiō||flee}}. {{doublet|en|refugium}}.
+From {{inh|en|enm|refuge}}, from {{der|en|fro|refuge}}, from {{der|en|la|refugium}}, from {{m|la|re-}} + {{m|la|fugiō||flee}}. {{doublet|en|refugium}}.
 
 ===Pronunciation===
 * {{IPA|en|/ˈɹɛfjuːdʒ/}}
@@ -180,15 +180,43 @@ From {{der|fr|la|refugium}}.
 
 ----
 
+==Middle English==
+
+===Etymology===
+From {{bor|enm|fro|refuge}}, from {{der|enm|la|refūgium}}.
+
+===Alternative forms===
+* {{alter|enm|reffuge|reyfuge}}
+
+===Pronunciation===
+* {{IPA|enm|/rɛˈfiu̯dʒ(ə)/}}
+
+===Noun===
+{{enm-noun}}
+
+# {{l|en|refuge}} {{gloss|[[state]] or [[means]] of [[protection]]}}
+# {{l|en|refuge}} {{gloss|[[place]] of protection}}
+# A [[protector]]; one who [[protect]]s or [[safeguard]]s.
+
+====Descendants====
+* {{desc|en|refuge}}
+
+====References====
+* {{R:MED Online|entry=refū̆ǧe|pos=n|id=MED36452}}
+
+[[Category:enm:Diplomacy]]
+[[Category:enm:Law]]
+[[Category:enm:People]]
+
+----
+
 ==Old French==
 
 ===Alternative forms===
-* {{l|fro|reffuge}}
-* {{l|fro|refiuge}}
-* {{l|fro|refuje}}
+* {{alter|fro|reffuge|refiuge|refuje}}
 
 ===Etymology===
-From {{der|fro|la|refugium}}.
+From {{bor|fro|la|refugium}}. {{doublet|fro|refui}}.
 
 ===Noun===
 {{fro-noun|m}}
@@ -197,5 +225,5 @@ From {{der|fro|la|refugium}}.
 # {{lb|fro|figuratively}} a [[protector]] or [[savior]]
 
 ====Descendants====
-* {{desc|en|refuge|bor=1}}
 * {{desc|fr|refuge}}
+* {{desctree|enm|refuge|bor=1}}
