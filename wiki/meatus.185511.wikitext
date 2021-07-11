@@ -52,45 +52,47 @@ Borrowed from {{bor|en|la|meātus||a going, passing; a way, path, passage}}, fro
 
 ==Latin==
 
-===Pronunciation 1===
+===Pronunciation===
 * {{la-IPA|meātus}}
 
-====Etymology====
+===Etymology 1===
 Perfect passive participle of {{m|la|meō||to go, to pass}}.
+
+====Participle====
+{{la-part|meātus}}
+
+# {{infl of|la|meō||perf|pass|part}}
+
+=====Inflection=====
+{{la-adecl|meātus}}
+
+=====Related terms=====
+* {{l|la|commeātus}}
+* {{l|la|intrameātus}}
+* {{l|la|permeātus}}
+* {{l|la|remeātus}}
+
+===Etymology 2===
+From {{af|la|meō|-tus|t1=to go, pass|pos2=action noun suffix}}.
 
 ====Noun====
 {{la-noun|meātus<4>}}
 
-# A [[going]], [[passing]], [[motion]], [[course]].
-# A [[way]], [[path]], [[passage]].
-## The [[avenue]]s of [[sensation]] in the body.
+# {{lb|la|literal}} a [[going]], [[passing]], [[motion]], [[course]]
+# {{lb|la|transferred sense}} a [[way]], [[path]], [[passage]]
+## the [[avenue]]s of [[sensation]] in the body
+
+{{rfq|la}}
 
 =====Inflection=====
 {{la-ndecl|meātus<4>}}
 
 =====Descendants=====
+{{des-top|meātus}}
 * {{desc|en|meatus|bor=1}}
 * {{desc|it|meato|bor=1}}
 * {{desc|es|meato|bor=1}}
-
-====Participle====
-{{la-part|meātus}}
-
-# [[gone|Gone]], [[passed]], [[traversed]], having been passed.
-
-=====Inflection=====
-{{la-adecl|meātus}}
-
-===Pronunciation 2===
-* {{la-IPA|meātūs}}
-
-====Noun====
-{{la-noun-form|meātūs}}
-
-# {{infl of|la|meātus||nom|p}}
-# {{infl of|la|meātus||gen|s}}
-# {{infl of|la|meātus||acc|p}}
-# {{infl of|la|meātus||voc|s//p}}
+{{des-bottom}}
 
 ===References===
 * {{R:L&S}}
