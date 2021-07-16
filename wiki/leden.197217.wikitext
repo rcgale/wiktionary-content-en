@@ -96,14 +96,14 @@ From {{affix|cs|led|t1=ice|-en}}.
 
 ==Middle English==
 
-===Pronunciation===
-* {{IPA|enm|/ˈlɛːdən/}}
-
 ===Etymology 1===
 From {{inh|enm|ang|lǣdan}}, from {{inh|enm|gem-pro|*laidijaną}}.
 
 ====Alternative forms====
 * {{alter|enm|lede|leaden|leeden|lædden}}
+
+====Pronunciation====
+* {{IPA|enm|/ˈlɛːdən/}}
 
 ====Verb====
 {{head|enm|verb}}
@@ -126,17 +126,45 @@ From {{inh|enm|ang|lǣdan}}, from {{inh|enm|gem-pro|*laidijaną}}.
 {{enm-conj-wk|led|3s2=let|c=de}}
 
 =====Descendants=====
-* {{desc|en|lead}}
+* {{desc|en|lead|id=guide|t=to guide}}
 * {{desc|sco|leid}}, {{l|sco|lede}}
 
 =====References=====
 * {{R:MED Online|entry=lēden|pos=v.(1)|id=MED24960 |accessdate=2018-03-25}}
 
 ===Etymology 2===
+From {{af|enm|led|-en|t1=lead|pos2=infinitival suffix|id2=infinitival}}.
+
+====Alternative forms====
+* {{alter|enm|lede|leedyn}}
+
+====Pronunciation====
+* {{IPA|enm|/ˈlɛːdən/}}
+
+====Verb====
+{{head|enm|verb}}
+
+# {{senseid|enm|to cover in lead}} To [[cover]] in lead; to [[attach]] [[lead]] to.
+# To [[make]] out of [[lead]].
+# {{lb|enm|figurative|rare}} To [[dumb]] [[down]]; to [[stupidify]].
+
+=====Conjugation=====
+{{enm-conj-wk|led}}
+
+=====Descendants=====
+* {{desc|en|lead|id=to cover in lead|t=cover in lead}}
+
+=====References=====
+* {{R:MED Online|entry=lēden|pos=v.(2)|id=MED24961}}
+
+===Etymology 3===
 From {{inh|enm|ang|lēaden}}; equivalent to {{suffix|enm|led|-en|t2=made of|id2=made of}}.
 
 ====Alternative forms====
 * {{alter|enm|leaden|ledyn|ledun|ledyng}}
+
+====Pronunciation====
+* {{IPA|enm|/ˈlɛːdən/}}
 
 ====Adjective====
 {{head|enm|adjective}}
@@ -150,12 +178,15 @@ From {{inh|enm|ang|lēaden}}; equivalent to {{suffix|enm|led|-en|t2=made of|id2=
 ====References====
 * {{R:MED Online|entry= leden, |pos=adj |id=MED24959 |accessdate=28 April 2018}}
 
-===Etymology 3===
+===Etymology 4===
 A conflation of {{der|enm|ang|lēoden|t=national language}}; and {{m|ang|Lǣden|gloss=Latin}}.
 
 ====Alternative forms====
 * {{alter|enm|lede|ledne|ledene|ledden|liden}}
 * {{q|shortened}} {{alter|enm|lede}}
+
+====Pronunciation====
+* {{IPA|enm|/ˈleːdən/|/ˈlɛːdən/}}
 
 ====Noun====
 {{head|enm|noun}}
@@ -171,6 +202,14 @@ A conflation of {{der|enm|ang|lēoden|t=national language}}; and {{m|ang|Lǣden|
 
 =====References=====
 * {{R:MED Online|entry=lē̆den |pos=n |id=MED24958 |accessdate=2018-03-25}}
+
+===Etymology 5===
+From {{inh|enm|ang|lēodan}}; equivalent to {{af|enm|lede|-en|t1=people|id1=people|pos2=plural suffix|id2=noun plural}}.
+
+===Noun===
+{{head|enm|noun plural form}}
+
+# {{tlb|enm|Early ME}} {{plural of|enm|lede|t=people|id=people}}
 
 [[Category:Middle English weak verbs]]
 [[Category:enm:Language]]
