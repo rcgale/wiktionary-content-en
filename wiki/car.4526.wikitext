@@ -136,9 +136,9 @@
 * Apache:
 *: Western Apache: {{tt|apw|náłbill}}
 * Arabic: {{tt+|ar|سَيَّارَة|f}}
-*: Egyptian Arabic: {{tt|arz|عَرَبِيَّة|f|tr=ʿarabiyya|sc=Arab}}
+*: Egyptian Arabic: {{tt|arz|عَرَبِيَّة|f|tr=ʿarabiyya}}
 *: Gulf Arabic: {{tt|afb|سيارة|f|tr=sayyāra}}
-*: Hijazi Arabic: {{tt|acw|سَيَّارَة|f|tr=sayyāra|sc=Arab}}
+*: Hijazi Arabic: {{tt|acw|سَيَّارَة|f|tr=sayyāra}}
 *: Moroccan Arabic: {{tt|ary|طوموبيل|f|tr=ṭumubīl}}
 * Aramaic: {{tt|arc|ܪܕܝܬܐ}}
 * Armenian: {{tt+|hy|մեքենա}}, {{tt+|hy|ավտոմեքենա}}, {{tt+|hy|ավտո}}, {{qualifier|colloquial}}
@@ -160,10 +160,10 @@
 * Cherokee: {{tt|chr|ᏗᎦᏚᎴᏂ}}
 * Chichewa: {{tt|ny|galimoto}}
 * Chinese:
-*: Cantonese: {{tt|yue|車|sc=Hani}}, {{tt+|yue|车|tr=ce1|sc=Hani}}, {{tt+|yue|汽車|sc=Hant}}, {{tt|yue|汽车|tr=hei3 ce1|sc=Hans}}
-*: Dungan: {{tt|dng|машинэ|sc=Cyrl}}, {{tt|dng|чичә}}
-*: Mandarin: {{tt+|cmn|汽車|sc=Hant}}, {{tt+|cmn|汽车|tr=qìchē|sc=Hans}}, {{tt+|cmn|車|sc=Hant}}, {{tt+|cmn|车|tr=chē|sc=Hans}}, {{tt+|cmn|自動車|sc=Hant}}, {{tt+|cmn|自动车|tr=zìdòngchē|sc=Hans}}
-*: Min Nan: {{tt+|nan|自動車|sc=Hant}}, {{tt|nan|自动车|tr=chū-tōng-chhia|sc=Hans}}, {{tt+|nan|風車|sc=Hant}}, {{tt|nan|风车|tr=hong-chhia|sc=Hans}}, {{tt+|nan|汽車|sc=Hant}}, {{tt|nan|汽车|tr=khì-chhia|sc=Hans}}
+*: Cantonese: {{tt|yue|車}}, {{tt+|yue|车|tr=ce1}}, {{tt+|yue|汽車}}, {{tt|yue|汽车|tr=hei3 ce1}}
+*: Dungan: {{tt|dng|машинэ}}, {{tt|dng|чичә}}
+*: Mandarin: {{tt+|cmn|汽車}}, {{tt+|cmn|汽车|tr=qìchē}}, {{tt+|cmn|車}}, {{tt+|cmn|车|tr=chē}}, {{tt+|cmn|自動車}}, {{tt+|cmn|自动车|tr=zìdòngchē}}
+*: Min Nan: {{tt+|nan|自動車}}, {{tt|nan|自动车|tr=chū-tōng-chhia}}, {{tt+|nan|風車}}, {{tt|nan|风车|tr=hong-chhia}}, {{tt+|nan|汽車}}, {{tt|nan|汽车|tr=khì-chhia}}
 * Coptic: {{tt|cop|ⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ|f}}
 * Cornish: {{tt|kw|karr|m}}
 * Corsican: {{tt|co|vittura}}
@@ -210,12 +210,12 @@
 * Khoekhoe: {{tt|naq|audos}}
 * Kikuyu: {{tt|ki|ngari}}
 * Kis: {{tt|kis|egari}}
-* Korean: {{tt+|ko|자동차}} ({{tt+|ko|自動車}}), {{tt+|ko|차}} ({{tt+|ko|車}})
+* Korean: {{tt+|ko|자동차 (自動車)}}, {{tt+|ko|차 (車)}}
 * Krio: {{tt|kri|motocar}}
 * Kurdish:
 *: Central Kurdish: {{tt+|ckb|ئۆتۆمۆبیل}}, {{tt|ckb|سەیارە}}, {{tt+|ckb|ماشێن}}, {{tt|ckb|ترومبیل}}
 *: Northern Kurdish: {{tt+|kmr|otomobîl}}, {{tt+|kmr|erebe}}, {{tt+|kmr|maşîn}}
-* Kyrgyz: {{tt+|ky|автомобиль|sc=Cyrl}}, {{tt+|ky|машина|sc=Cyrl}}, {{tt+|ky|автомашина}}, {{tt+|ky|унаа}}
+* Kyrgyz: {{tt+|ky|автомобиль}}, {{tt+|ky|машина}}, {{tt+|ky|автомашина}}, {{tt+|ky|унаа}}
 * Lao: {{tt+|lo|ລົດ}}, {{tt|lo|ລົດຍົນ}}, {{tt|lo|ລົດໃຫຍ່}}, {{tt|lo|ລົດໂອໂຕ}}, {{tt|lo|ໂອໂຕ}}, {{tt|lo|ຣົຖ}}
 * Latin: {{tt|la|autocinetum|n}}, {{tt|la|autocurrus|m}}, {{tt|la|autovehiculum|n}}, {{tt|la|autoraeda|f}}
 * Latvian: {{tt|lv|automašīna|f}}, {{tt|lv|spēkrats|m}} {{qualifier|informally}}, {{tt|lv|mašīna|f}}
@@ -225,7 +225,7 @@
 * Lule Sami: {{tt|smj|bijlla}}
 * Luo: {{tt|luo|mtokaa}}
 * Luxembourgish: {{tt+|lb|Auto|n}}
-* Lü: {{tt|khb|ᦷᦟᧆ}}, {{tt|khb|ᦷᦟᧆᦓᦾᧉ|sc=Talu}}
+* Lü: {{tt|khb|ᦷᦟᧆ}}, {{tt|khb|ᦷᦟᧆᦓᦾᧉ}}
 * Macedonian: {{tt+|mk|кола|f}}, {{tt|mk|автомоби́л|m}}
 * Malagasy: {{tt+|mg|fiara}}
 * Malay: {{tt+|ms|kereta}}
@@ -255,7 +255,7 @@
 * Ossetian: {{tt|os|хӕдтулгӕ}}
 * Pashto: {{tt+|ps|موټر|m|tr=moṭár}}, {{tt|ps|تېزرفتار|m|tr=tezraftãr}}
 * Pennsylvania German: {{tt|pdc|Kaer|f}}, {{tt|pdc|Kar|f}}
-* Persian: {{tt+|fa|خودرو|tr=xodrow}}, {{tt+|fa|ماشین|tr=mâšin}}, {{tt+|fa|اتومبیل|tr=otomobil|sc=fa-Arab}}
+* Persian: {{tt+|fa|خودرو|tr=xodrow}}, {{tt+|fa|ماشین|tr=mâšin}}, {{tt+|fa|اتومبیل|tr=otomobil}}
 * Pitjantjatjara: {{tt|pjt|mutuka}}
 * Plautdietsch: {{tt|pdt|Koa|f}}, {{tt+|pdt|Auto|n}}
 * Polish: {{tt+|pl|samochód|m-in}}, {{tt+|pl|auto|n}}, {{tt+|pl|wóz|}} {{qualifier|slang}}, {{tt+|pl|bryka|}} {{qualifier|slang}}, {{tt+|pl|gablota|}} {{qualifier|slang}}
@@ -272,8 +272,8 @@
 * Scots: {{tt|sco|caur}}, {{tt|sco|machine}}
 * Scottish Gaelic: {{tt|gd|càr|m}}, {{tt|gd|carbad|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{tt|sh|кола|n-p|sc=Cyrl}}, {{tt|sh|ауто|n|sc=Cyrl}}, {{tt|sh|аутомобил|m|sc=Cyrl}}
-*: Roman: {{tt+|sh|kola|n-p}}, {{tt+|sh|auto|n}}, {{tt+|sh|automobil|m}}
+*: Cyrillic: {{tt|sh|ко̏ла|n-p}}, {{tt|sh|а̀уто|n}}, {{tt|sh|аутомо̀бӣл|m}}
+*: Roman: {{tt+|sh|kȍla|n-p}}, {{tt+|sh|àuto|n}}, {{tt+|sh|automòbīl|m}}
 * Shan: {{t-needed|shn}}
 * Shona: {{tt|sn|motokari}}
 * Silesian: {{tt|szl|auto|n}}
@@ -329,7 +329,7 @@
 * Bulgarian: {{tt+|bg|ваго́н|m}}
 * Catalan: {{tt+|ca|vagó|m}}
 * Chinese:
-*: Mandarin: {{tt+|cmn|升降梯|tr=shēngjiāngtī|sc=Hani}}
+*: Mandarin: {{tt+|cmn|升降梯|tr=shēngjiāngtī}}
 * Czech: {{tt+|cs|vagón|m}}
 * Danish: {{tt+|da|vogn|c}}
 * Dutch: {{tt+|nl|wagon|m}}
@@ -344,7 +344,7 @@
 * Italian: {{tt+|it|cabina|f}}
 * Japanese: {{tt+|ja|客車|tr=きゃくしゃ, kyakusha}}
 {{trans-mid}}
-* Korean: {{tt+|ko|객차}} ({{tt+|ko|客車}})
+* Korean: {{tt+|ko|객차 (客車)}}
 * Malay: {{tt+|ms|gerabak}}
 * Norman: {{tt|nrf|vaituthe|f}} {{qualifier|Jersey}}
 * Norwegian: {{tt|no|vogn|m}}
@@ -369,7 +369,7 @@
 * Armenian: {{tt+|hy|վագոն}}
 * Catalan: {{tt+|ca|cabina|f}}
 * Chinese:
-*: Mandarin: {{tt+|cmn|吊艙|sc=Hani}}, {{tt+|cmn|吊舱|tr=diàocāng|sc=Hani}}
+*: Mandarin: {{tt+|cmn|吊艙}}, {{tt+|cmn|吊舱|tr=diàocāng}}
 * Czech: {{tt+|cs|kabina|f}}
 * Danish: {{tt|da|elevatorstol|c}}
 * Estonian: {{tt|et|vagun}}
@@ -398,7 +398,6 @@
 * Guaraní: {{t-check|gn|kóche}}, {{t-check|gn|mba'yru}}
 * Indonesian: {{t+check|id|mobil}}
 * Interlingua: {{t-check|ia|automobile}}
-* Korean: {{t+check|ko|차}}
 * Kurdish:
 *: Northern Kurdish: {{t+check|kmr|tirimpêl}}, {{t+check|kmr|erebe}}, {{t+check|kmr|seyare}}
 {{trans-mid}}
