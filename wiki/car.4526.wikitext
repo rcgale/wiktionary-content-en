@@ -435,7 +435,7 @@ Etymology {{unk|en|title=unclear}}, but probably from {{der|en|gem-pro|*karzijan
 ====Noun====
 {{en-noun}}
 
-# {{lb|en|programming}} The first part of a [[cons]] in [[LISP]]. The first element of a list.
+# {{lb|en|programming}} The first part of a [[cons]] in [[Lisp]]. The first element of a list.
 #: {{ant|en|cdr}}
 #: {{holonyms|en|cons}}
 #* {{quote-book|en|author=Matt Kaufmann|author2=Panagiotis Manolios|author3=J Strother Moore|title=Computer-aided reasoning: an approach|year=2000|passage=The elements of a list are the successive '''cars''' along the "cdr chain." That is, the elements are the '''car''', the '''car''' of the cdr, the '''car''' of the cdr of the cdr, etc.}}
