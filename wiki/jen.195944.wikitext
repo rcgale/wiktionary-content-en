@@ -2,11 +2,13 @@
 ==Czech==
 
 ===Pronunciation===
-* {{IPA|cs|/jɛn/}}
+* {{cs-IPA}}
 * {{audio|cs|Cs-jen.ogg|Audio}}
+* {{hyphenation|cs|jen}}
+* {{rhymes|cs|ɛn}}
 
 ===Etymology 1===
-From {{inh|cs|sla-pro|*jenъ}}. Compare {{cog|pl|jeno}}.
+From {{inh|cs|zlw-ocs|jen}}, from {{inh|cs|sla-pro|*jenъ}}. Compare {{cog|pl|jeno}}.
 
 ====Adverb====
 {{cs-adv|-}}
@@ -14,12 +16,21 @@ From {{inh|cs|sla-pro|*jenъ}}. Compare {{cog|pl|jeno}}.
 # [[only]]
 #: {{syn|cs|jenom|pouze|toliko}}
 
+=====Derived terms=====
+* {{l|cs|jenjen}}
+
 ===Etymology 2===
 
 ====Noun====
-{{cs-noun|g=m}}
+{{cs-noun|g=m-in}}
 
 # [[yen]] {{gloss|Japanese currency}}
+
+=====Declension=====
+{{cs-decl-noun
+|jen|jenu|jenu|jen|jene|jenu|jenem
+|jeny|jenů|jenům|jeny|jeny|jenech|jeny
+}}
 
 ===Further reading===
 * {{R:PSJC}}
