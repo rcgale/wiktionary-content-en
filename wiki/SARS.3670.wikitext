@@ -6,9 +6,16 @@
 
 # {{lb|en|medicine}} {{acronym of|en|severe acute respiratory syndrome|dot=;}} {{n-g|also {{m|en|Sars}}.}}
 #* {{quote-book|en|year=2010|author=[[w:Siddhartha Mukherjee|Siddhartha Mukherjee]]|title=[[w:The Emperor of All Maladies|The Emperor of All Maladies]] |publisher=Fourth Estate (2011)|page=182|passage='''SARS''' set off a panic about global spread and contagion.}}
+
+====Descendants====
+* {{desc|mul|[[SARS-CoV]], [[SARS-CoV-1]], [[SARS-CoV-2]], [[SARSr-CoV]]}}
+* {{desc|zh|SARS}}
+* {{desc|fi|SARS}}
+* {{desc|pt|SARS}}
+
 ====Translations====
 {{trans-top|severe acute respiratory syndrome}}
-* Chinese:
+* Chinese: {{t|zh|SARS}}
 *: Cantonese: {{t|yue|沙士|tr=saa1 si6-2}}
 *: Mandarin: {{t+|cmn|非典|tr=fēidiǎn}}
 * Danish: {{t-needed|da}}
@@ -33,12 +40,33 @@
 
 ----
 
+==Chinese==
+
+===Etymology===
+From {{bor|zh|en|SARS}}
+
+===Noun===
+{{head|zh|noun}}
+
+# {{m|en|SARS||severe acute respiratory syndrome}} {{gloss|a disease}}
+# {{lb|zh|medicine|pathology|virology|informal}} {{m|mul|SARS-CoV-1}} {{gloss|the virus that causes {{m|en|severe acute respiratory syndrome}}, SARS}}
+# {{lb|zh|medicine|pathology|virology|informal}} {{m|mul|SARSr-CoV}} {{gloss|the virus species that contains the SARS virus}}
+
+===See also===
+* Cantonese: {{m|yue|沙士||saa1 si6-2}}
+* Mandarin: {{m|cmn|非典||fēidiǎn}}
+
+----
+
 ==Finnish==
+
+===Etymology===
+{{bor|fi|en|SARS}}
 
 ===Noun===
 {{fi-noun}}
 
-# [[SARS]], [[severe acute respiratory syndrome]]
+# {{lb|fi|medicine|pathology|virology}} {{m|en|SARS}}: {{l|en|severe acute respiratory syndrome}}
 
 ====Usage notes====
 The "severe acute respiratory syndrome" tranlates into Finnish as [[äkillinen]] [[vakava]] [[hengitystie]][[oireyhtymä]], but the term is seldom used. Usually the English initialism SARS is used as the Finnish name of this illness. An individual occurrence of SARS may be referred to as {{m|en|tapaus|SARS-tapaus}}.
