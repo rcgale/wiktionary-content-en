@@ -869,20 +869,28 @@ From {{inh|es|osp|è}} or {{m|osp|e}}, from {{inh|es|la|et}}.
 ** {{a|informal}} {{IPA|cy|/əː/}}
 
 ====Letter====
-{{cy-noun|f|yau}}
+{{cy-letter|upper=Y|lower=y}}
 
 # {{Latn-def|cy|letter|29|y}} ''It is preceded by {{l|cy|w}}.''
-# {{Latn-def|cy|name|Y|y}}
 
 =====Mutation=====
-{{cy-mut}}
+* y cannot be mutated but, being a vowel, does take {{l|en|h-prothesis}}, for example with the word {{m|cy|ysgol||school; ladder}}:
+{{cy-mut|ysgol}}
 
 =====Derived terms=====
 * Digraph sequences: {{l|cy|yw}}
 
-====See also====
+=====See also=====
 * {{list:Latin script letters/cy}}
 * {{list:Latin script letter names/cy}}
+
+====Noun====
+{{cy-noun|f|yau}}
+
+# {{Latn-def|cy|name|Y|y}}
+
+=====Mutation=====
+{{cy-mut|y}}
 
 ===Etymology 2===
 From {{inh|cy|wlm|y}}, {{m|wlm|yr}}, from {{inh|cy|owl|ir}}, ultimately from {{der|cy|cel-pro|*sindos}}.
