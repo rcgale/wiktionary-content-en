@@ -2487,20 +2487,28 @@ From {{inh|wa|VL.|illos}}, used in place of the missing third-person pronoun, fr
 * {{i|with [[diaeresis]] to indicate disyllabicity}}: {{l|cy|ï}}
 
 ====Letter====
-{{cy-noun|f|ïau}}
+{{cy-letter|upper=A|lower=a}}
 
 # {{Latn-def|cy|letter|13|i}} ''It is preceded by {{l|cy|h}} and followed by {{l|cy|j}}.''
-# {{Latn-def|cy|name|I|i}}
 
-====Derived terms====
+=====Derived terms=====
 * Digraph sequences: {{l|cy|iw}}
 
-====Mutation====
-{{cy-mut}}
+=====Mutation=====
+* i cannot mutate but, being a vowel, does take {{l|en|h-prothesis}}, for example with the word {{m|cy|iwrch||roe deer}}:
+{{cy-mut|iwrch}}
 
-====See also====
+=====See also=====
 * {{list:Latin script letters/cy}}
 * {{list:Latin script letter names/cy}}
+
+====Noun====
+{{cy-noun|f|âu}}
+
+# {{Latn-def|cy|name|I|i}}
+
+=====Mutation=====
+{{cy-mut}}
 
 ===Etymology 2===
 From {{inh|cy|cel-bry-pro|*mi}}, from {{inh|cy|cel-pro|*mī}}, from {{der|cy|ine-pro|*éǵh₂|*m̥(m)é ~ me|me}}.
