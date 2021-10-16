@@ -25,7 +25,7 @@ See cognates in regional languages in France : {{cog|nrf|veî}} or ''[[veir]]'',
 {{fr-conj-auto}}
 
 ====Derived terms====
-{{col3|fr
+{{der4|fr
 |je vois
 |aller se faire voir
 |aller se faire voir chez les Grecs
@@ -68,6 +68,9 @@ See cognates in regional languages in France : {{cog|nrf|veî}} or ''[[veir]]'',
 |voyons voir
 }}
 
+====Descendants====
+* {{desctree|ht-sdm|voir}}
+
 ===Adverb===
 {{fr-adv}}
 
@@ -78,6 +81,25 @@ See cognates in regional languages in France : {{cog|nrf|veî}} or ''[[veir]]'',
 * {{R:TLFi}}
 
 [[Category:French non-affirmatively subjunctive-subordinating terms]]
+
+----
+
+==Haitian Creole==
+
+===Etymology===
+From {{inh|ht|fr|-}} {{m|fr|voir|4=to see}}. Compare {{cog|lou|oua}}.
+
+===Verb===
+{{head|ht|verb}}
+
+# {{lb|ht|Saint-Domingue}} to [[see]]
+#:{{uxi|ht|Mo '''voir''' ly ahier.|I '''saw''' him yesterday.}}
+
+====Descendants====
+* {{desc|ht|wè}}
+
+===References===
+* S.J Ducoeurjoly, ''Manuel des habitans de Saint-Domingue, contenant un précis de l'histoire de cette île''
 
 ----
 
@@ -93,9 +115,7 @@ See cognates in regional languages in France : {{cog|nrf|veî}} or ''[[veir]]'',
 ==Old French==
 
 ===Alternative forms===
-* {{l|fro|veir}}
-* {{l|fro|vair}}
-* {{l|fro|ver}}
+* {{alter|fro|veir|vair|ver}}
 
 ===Etymology===
 From {{inh|fro|la|vērus}}.
@@ -115,7 +135,8 @@ From {{inh|fro|la|vērus}}.
 * {{l|fro|verai}}
 
 ====Descendants====
-* {{desc|en|voir dire}}
+* {{desctree|fr|voir}}
+* {{desc|en|voir dire|bor=1|der=1}}
 
 ===Noun===
 {{fro-noun|m}}
@@ -128,24 +149,3 @@ From {{inh|fro|la|vērus}}.
 ===References===
 * {{R:Godefroy}}
 * {{R:Anglo-Norman On-Line Hub|veir}}
-
-----
-
-==Saint Dominican Creole French==
-
-===Etymology===
-From {{inh|ht|fr|-}} {{m|fr|voir|4=to see}}. Compare {{cog|lou|oua}}.
-
-===Verb===
-{{head|ht|verb}}
-
-# to [[see]]
-#:{{uxi|ht|Mo '''voir''' ly ahier.|I '''saw''' him yesterday.}}
-
-====Descendants====
-* {{desc|ht|wè}}
-
-===References===
-* S.J Ducoeurjoly, ''Manuel des habitans de Saint-Domingue, contenant un précis de l'histoire de cette île''
-
-[[Category:Saint Dominican Creole French]]
