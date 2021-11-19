@@ -754,58 +754,21 @@ From {{inh|sc|la|ibi}}.
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{inh|gd|sga|bí}} (imperative singular of {{m|sga|at·tá}}), from {{inh|gd|cel-pro|*buyeti}}, from {{inh|gd|ine-pro|*bʰuH-}}
+{{dercat|gd|cel-pro|ine-pro|inh=2}}
+From {{inh|gd|sga|at·tá|bí}}. Cognate with {{cog|ga|bí}} and {{cog|gv|bee}}.
 
 ===Pronunciation===
 * {{IPA|gd|/pi/}}
 
 ===Verb===
-{{head|gd|verb|past|bha|future|bidh|verbal noun|bhith|cat2=irregular verbs}}
+{{head|gd|verb|past|bha|future|bidh|verbal noun|bhith}}
 
 # [[be]], [[exist]]
 
 ====Inflection====
-{| class="wikitable"
-|-
-! Verbal noun
-| {{l|gd|bhith}}
-|-
-! Imperative
-| bi
-|-
-! Present participle
-| a' bhith
-|-
-! Past participle
-| air a bhith
-|}
-
-{| class="wikitable"
-|-
-!
-! Present tense
-! Past tense
-! Future tense
-! Conditional
-|-
-! Basic form
-| {{l|gd|tha}}
-| {{l|gd|bha}}
-| {{l|gd|bidh}}/{{l|gd|bithidh}}
-| {{l|gd|bhithinn}}/{{l|gd|bhiodh}}/{{l|gd|bhiomaid}}
-|-
-! Dependent form
-| {{l|gd|bheil}}
-| {{l|gd|robh}}
-| {{l-self|gd|bi}}
-| {{l|gd|bithinn}}/{{l|gd|biodh}}/{{l|gd|biomaid}}
-|-
-! Impersonal form
-| {{l|gd|thathar}}
-| {{l|gd|bhathar}}
-| {{l|gd|bithear}}
-| {{l|gd|bhiteadh}}/{{l|gd|bhite}}
-|}
+{{gd-conj-bi}}
+{{gd-conj-is}}
+{{gd-conj-thathar}}
 
 ====Related terms====
 * {{l|gd|beò}}
@@ -813,13 +776,9 @@ From {{inh|gd|sga|bí}} (imperative singular of {{m|sga|at·tá}}), from {{inh|g
 ===Mutation===
 {{gd-mut-cons|b|i}}
 
-===See also===
-* {{l|gd|is}}
-
 ===References===
+* {{R:gd:Mark:2003|+|page=75}}
 * {{R:Dwelly}}
-
-[[Category:Scottish Gaelic suppletive verbs]]
 
 ----
 
