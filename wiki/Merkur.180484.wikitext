@@ -57,7 +57,7 @@
 ==German==
 
 ===Etymology===
-From {{der|de|la|Mercurius||Mercury}}.
+{{lbor|de|la|Mercurius}}.
 
 ===Pronunciation===
 * {{IPA|de|/mɛʁˈkuːɐ̯/}}
@@ -68,19 +68,30 @@ From {{der|de|la|Mercurius||Mercury}}.
 ===Proper noun===
 {{de-proper noun|m}}
 
-# {{senseid|de|Q308}} [[Mercury]] ([[planet]])
+# {{senseid|de|Q308}} {{lb|de|astronomy}} [[Mercury]] {{gloss|[[planet]]}}
 # {{lb|de|Roman god}} [[Mercury]]
-# [[mercury]] ([[alchemy]])
 
 ====Declension====
 {{de-decl-noun-m|s|n=sg}}
 
-====See also====
+===Noun===
+{{de-noun|n|g2=m|Merkurs|-}}
+
+# {{lb|de|alchemy}} [[mercury]]
+#: {{syn|de|Quecksilber|q=common}}
+
+====Declension====
+{{de-decl-noun-n|s|n=sg}}
+{{de-decl-noun-m|s|n=sg}}
+
+===See also===
 * {{list:planets of the Solar System/de}}
 
 ===References===
-* {{R:Duden}}
 * {{R:DWDS}}
+* {{R:Duden|Merkur_Planet|w=Merkur (Planet)}}
+* {{R:Duden|Merkur_Gott_Sagengestalt|w=Merkur (Römischer Gott)}}
+* {{R:Duden|Merkur_Quecksilber|w=Merkur (Quecksilber)}}
 
 {{C|de|Planets of the Solar System}}
 
