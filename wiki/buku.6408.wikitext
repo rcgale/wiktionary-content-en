@@ -250,46 +250,53 @@ From {{inh|mak|poz-ssw-pro|*buku}}, from {{inh|mak|poz-pro|*buku|t=joint}}.
 
 ==Malay==
 
-===Etymology 1===
-Borrowed from {{bor|ms|nl|boek}}, from {{der|ms|dum|boec}}, from {{der|ms|odt|buok}}, from {{der|ms|gem-pro|*bōks}}.
-
 ===Pronunciation===
 * {{IPA|ms|/buku/}}
 * {{rhymes|ms|uku|ku|u}}
 * {{audio|ms|Ms-MY-buku.ogg|Audio (MY)}}
 
+===Etymology 1===
+Borrowed from {{bor|ms|nl|boek}}, from {{der|ms|dum|boec}}, from {{der|ms|odt|buok}}, from {{der|ms|gem-pro|*bōks}}.
+
 ===Noun===
 {{ms-noun|j=بوکو}}
 
 # [[book]] {{gloss|collection of sheets of paper bound together containing printed or written material}}
-
-====Synonyms====
-* {{l|ms|kitab}}
-* {{l|ms|pustaka}}
+#: {{usex|ms|'''Buku''' siapakah ini?|Whose '''book''' is this?}}
+#: {{syn|ms|kitab|pustaka}}
 
 ====Descendants====
-* {{desctree|id|buku|bor=1}}
+* {{desc|id|buku}}
 
 ===Etymology 2===
 From {{inh|ms|poz-mly-pro|*buku}}, from {{inh|ms|poz-pro|*buku}}.
 
-===Pronunciation===
-* {{IPA|ms|/buku/}}
-* {{rhymes|ms|uku|ku|u}}
-
 ===Noun===
 {{ms-noun|j=بوکو}}
 
-# a lumpy [[joint]] {{gloss|of fingers or similar structures}}
-# a small block of something
+# a [[lumpy]] [[joint]] {{gloss|of fingers or similar structures}}
+#: {{syn|ms|ruas|sendi}}
+# a [[small]] [[block]] of something
+#: {{uxi|ms|'''Buku''' tanah|Mud '''block'''}}
+#: {{syn|ms|ketul|butir}}
+
+====Derived terms====
+{{der4|ms|berbuku|terbuku|buku jari|buku lima|buku lali|buku kaki|buku benang}}
+
+====Descendants====
+* {{desc|id|buku}}
 
 ===Classifier===
-{{ms-classifier}}
+{{ms-classifier|j=بوکو}}
 
-# {{l|en|classifier}} for {{l|en|block}}, {{l|en|lumpy}} or something like {{l|en|block}}.
+# {{l|en|classifier}} for {{l|en|blocky}}, {{l|en|lumpy}} things or things [[akin]] to {{l|en|blocks}}
+#: {{uxi|ms|'''Sebuku''' roti|'''A loaf''' of bread}}
 
-====Synonyms====
-* {{sense|joint}} {{l|ms|ruas}}, {{l|ms|sendi}}
+====Descendants====
+* {{desc|id|buku}}
+
+===Further reading===
+* {{R:PRPM}}
 
 [[Category:Malay classifiers]]
 
