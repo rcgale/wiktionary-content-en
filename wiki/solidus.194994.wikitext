@@ -106,18 +106,28 @@ From {{inh|la|itc-pro|*soliðos}}, from {{inh|la|ine-pro||*solh₂-i-dʰ-o-s|t=e
 
 ====Descendants====
 {{top2}}
-* {{desc|ca|sòlid|bor=1}}
-* {{desc|de|solid|bor=1}}
-* {{desc|en|solid|bor=1}}
-* {{desc|fr|solide|bor=1}}
-* {{desc|it|sodo}}
-* {{desc|it|soldo}}
-* {{desc|it|solido|bor=1}}
-* {{desc|pt|sólido|bor=1}}
-* {{desc|ro|solid|bor=1}}
-* {{desc|ru|соли́дный|bor=1}}
-* {{desc|es|sueldo}}
-* {{desc|es|sólido|bor=1}}
+* Inherited:
+** France:
+*** {{desc|fro|soude}}, {{l|fro|saude||hard}}
+*** {{desc|pro|sod||raw}}
+** Italy:
+*** {{desc|egl|soli}}
+*** {{desc|it|sodo}}, {{l|it|saldo}}
+**** {{desc|pt|saldo|bor=1}}
+**** {{desc|ru|сальдо|bor=1}}
+**** {{desc|es|saldo|bor=1}}
+*** {{desc|lmo|söli}}, {{l|lmo|söda}}
+*** {{desc|pms|sore}}, {{l|pms|söli}}
+* Borrowed:
+** {{desc|ca|sòlid|bor=1}}
+** {{desc|en|solid|bor=1}}
+** {{desc|fr|solide|bor=1}}
+** {{desc|de|solid|bor=1}}
+** {{desc|it|solido|bor=1}}
+** {{desc|pt|sólido|bor=1}}
+** {{desc|ro|solid|bor=1}}
+** {{desc|ru|соли́дный|bor=1}}
+** {{desc|es|sólido|bor=1}}
 {{bottom}}
 
 ===Noun===
@@ -134,43 +144,49 @@ From {{inh|la|itc-pro|*soliðos}}, from {{inh|la|ine-pro||*solh₂-i-dʰ-o-s|t=e
 {{la-ndecl|solidus<2>}}
 
 ====Descendants====
-{{desc-top}}
-* {{desc|cel-bry-pro|*solt|bor=1}}
-** {{desc|obt|solt}}
-*** {{desc|br|saout||livestock}}
-** {{desc|oco|sols}}
-*** {{desc|kw|zowlz}}
-** {{desc|wlm|swllt||shilling}}
-*** {{desc|cy|swllt}}
-* {{desc|dlm|suald||cent}}
-* {{desc|en|solidus|bor=1}}
-* {{desc|it|soldo||cent}}, {{l|it|saldo||payment}}
-** {{desc|en|soldo|bor=1}}
-** {{desc|fr|solde|bor=1}}
-** {{desc|fro|solde|bor=1||balance}}
-*** {{desc|frm|solde}}, {{l|frm|soulde}}
-**** {{desc|en|sold|bor=1}}
+{{top3}}
+* Balkan Romance:
+** {{desc |ro|solz}}
+* Gallo-Italic:
+** {{desc|pms|sòld}}
+* Ibero-Romance:
+** {{desc|pt|soldo}}
+** {{desc|es|sueldo}}
+* Italo-Romance:
+** {{desc|dlm|suald||cent}}
+** {{desc|it|soldo||cent}}
+*** {{desc|en|soldo|bor=1}}
+*** {{desc|frm|solde|bor=1}}, {{l|frm|soulde||balance}}
 **** {{desc|fr|solde||pay}}
+**** {{desc|en|sold|bor=1}}
+*** {{desc|nap|sordo|bor=1}}
+* Òc:
+** {{desc|ca|sou}}
+** {{desc|oc|sòu}}
+* Oïl:
+** {{desc|fro|solt}}
+*** {{desc|fr|sou}}, {{l|fr|sol}}
+**** {{desc|en|sou|bor=1}}
+*** {{desc|en|sol|bor=1}}
 *** {{desc|gmh|solt|bor=1}}
 **** {{desc|de|Sold}}
-***** {{desc|pl|żołd|bor=1}}
 ***** {{desc|cs|žold|bor=1}}
 ***** {{desc|hu|zsold|bor=1}}
-** {{desc|nap|sordo|bor=1}}
-** {{desc|pt|saldo|bor=1}}
-** {{desc|ru|сальдо|bor=1}}
-** {{desc|es|saldo|bor=1}}
-* {{desc|fro|sol}}
-** {{desc|fr|sou}}, {{l|fr|sol}}
-*** {{desc|en|sou|bor=1}}
-** {{desc|en|sol|bor=1}}
-* {{desc|pro}}
-** {{desc|ca|sou}}
-* {{desc|pms|sòld}}
-* {{desc|pt|sólido}}, {{l|pt|soldo}}
-* {{desc|ro|solid}}, {{l|ro|solz}}
-* {{desc|es|sólido}}, {{l|es|sueldo}}
-{{desc-bottom}}
+***** {{desc|pl|żołd|bor=1}}
+* Early borrowings:
+** {{desc|cel-bry-pro|*solt|bor=1}}
+*** {{desc|obt|solt}}
+**** {{desc|br|saout||livestock}}
+*** {{desc|oco|sols}}
+**** {{desc|kw|zowlz}}
+*** {{desc|owl|swllt||shilling}}
+**** {{desc|cy|swllt}}
+* Later borrowings:
+** {{desc|en|solidus|bor=1}}
+** {{desc|pt|sólido|bor=1}}
+** {{desc|ro|solid|bor=1}}
+** {{desc|es|sólido|bor=1}}
+{{bottom}}
 
 ===References===
 * {{R:L&S}}
@@ -181,6 +197,8 @@ From {{inh|la|itc-pro|*soliðos}}, from {{inh|la|ine-pro||*solh₂-i-dʰ-o-s|t=e
 * {{R:NLW}}
 * {{R:Smith's Antiquities}}
 * {{R:Century 1911|solid}}
+* {{R:FEW|120|49|solidus}}
+* {{R:REW|sŏlĭdus|608}}
 
 {{topics|la|Coins}}
 
