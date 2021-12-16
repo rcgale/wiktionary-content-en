@@ -25,16 +25,16 @@
 * Afrikaans: {{t|af|tuisland}}
 * Albanian: {{t+|sq|atdhe}}, {{t+|sq|mëmëdhe}}
 * Amharic: {{t|am|የትውልድ ሃገር}}, {{t|am|የትውልድ ሀገር}}
-* Arabic: {{t+|ar|وَطَن}}, {{t+|ar|وطن|alt=أَوْطَان}}
+* Arabic: {{t+|ar|وَطَن|m}}
 * Armenian: {{t+|hy|հայրենիք}}
 * Azerbaijani: {{t+|az|vətən}}
 * Bashkir: {{t|ba|ватан}}
-* Belarusian: {{t+|be|радзі́ма|f|sc=Cyrl}}, {{t|be|айчы́на|f|sc=Cyrl}}, {{t|be|ба́цькаўшчына|f|sc=Cyrl}}
+* Belarusian: {{t+|be|радзі́ма|f}}, {{t|be|айчы́на|f}}, {{t|be|ба́цькаўшчына|f}}
 * Bengali: {{t|bn|জন্মভূমি}}
-* Bulgarian: {{t+|bg|ро́дина|f|sc=Cyrl}}
+* Bulgarian: {{t+|bg|роди́на|f}}
 * Catalan: {{t+|ca|pàtria|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|祖國|sc=Hani}}, {{t+|cmn|祖国|tr=zǔguó|sc=Hani}}, {{t+|cmn|故鄉|sc=Hani}}, {{t+|cmn|故乡|tr=gùxiāng|sc=Hani}} {{qualifier|native place}}
+*: Mandarin: {{t+|cmn|祖國}}, {{t+|cmn|祖国|tr=zǔguó}}, {{t+|cmn|故鄉}}, {{t+|cmn|故乡|tr=gùxiāng}} {{qualifier|native place}}
 * Czech: {{t+|cs|vlast|f}}, {{t|cs|domovina|f}}
 * Danish: {{t+|da|hjemland|n}}
 * Dutch: {{t+|nl|thuisland|n}}
@@ -48,18 +48,18 @@
 *: Silesian German: {{t|gmw-ecg|Heemteland|n}}
 * Greek: {{t+|el|πατρίδα|f}}
 *: Ancient: {{t|grc|πατρίς|f}}
-* Gujarati: {{t|gu|સ્વદેશ|sc=Gujr}}
-* Hebrew: {{t+|he|מוֹלֶדֶת|f|tr=moledet|sc=Hebr}}, {{t+|he|מְכוֹרָה|f|tr=mekhora|sc=Hebr}}
-* Hindi: {{t+|hi|स्वदेश|sc=Deva}}, {{t+|hi|वतन|sc=Deva}}, {{t+|hi|मातृभूमि|f}}, {{t+|hi|जन्मभूमि|f}}
+* Gujarati: {{t|gu|સ્વદેશ}}
+* Hebrew: {{t+|he|מוֹלֶדֶת|f|tr=moledet}}, {{t+|he|מְכוֹרָה|f|tr=mekhora}}
+* Hindi: {{t+|hi|स्वदेश}}, {{t+|hi|वतन}}, {{t+|hi|मातृभूमि|f}}, {{t+|hi|जन्मभूमि|f}}
 * Hungarian: {{t+|hu|szülőföld}}, {{t+|hu|haza}}
 * Icelandic: {{t|is|heimaland|n}}
 * Indonesian: {{t+|id|tanah air}}
 * Irish: {{t|ga|tír dhúchais|f}}
 * Italian: {{t+|it|patria|f}}, {{t|it|suolo natio}}, {{t+|it|paese|m}}
-* Japanese: {{t+|ja|祖国|tr=そこく, sokoku|sc=Jpan}}, {{t+|ja|故郷|tr=こきょう, kókyō|sc=Jpan}} {{qualifier|native place}}, {{t|ja|原郷|tr=げんきょう, genkyō}}
+* Japanese: {{t+|ja|祖国|tr=そこく, sokoku}}, {{t+|ja|故郷|tr=こきょう, kókyō}} {{qualifier|native place}}, {{t|ja|原郷|tr=げんきょう, genkyō}}
 * Kazakh: {{t|kk|атажұрт}}, {{t|kk|отан}}
 * Khmer: {{t+|km|ស្វទេស}}, {{t+|km|ដំណែល}}
-* Korean: {{t+|ko|고국(故國)}}, {{t|ko|자기 나라}}, {{t+|ko|고향(故鄕)}}
+* Korean: {{t+|ko|고국(故國)}}, {{t|ko|[[자기]] [[나라]]}}, {{t+|ko|고향(故鄕)}} {{qualifier|native place}}
 * Kurdish:
 *: Northern Kurdish: {{t+|kmr|welat}}, {{t+|kmr|weten}}
 * Kyrgyz: {{t+|ky|родина}}, {{t|ky|ата мекен}}
@@ -78,7 +78,7 @@
 * Occitan: {{t+|oc|patria|f}}
 * Old English: {{t|ang|ēþel}}, {{t|ang|eard}}
 * Pashto: {{t+|ps|وطن|m|tr=watan}}
-* Persian: {{t+|fa|وطن|tr=vatan|sc=fa-Arab}}, {{t+|fa|میهن|tr=mihan|sc=fa-Arab}}, {{t+|fa|زادبوم|tr=zâdbum|sc=fa-Arab}}
+* Persian: {{t+|fa|وطن|tr=vatan}}, {{t+|fa|میهن|tr=mihan}}, {{t+|fa|زادبوم|tr=zâdbum}}
 * Polish: {{t+|pl|ojczyzna|f}}, {{t+|pl|macierz|f}}
 * Portuguese: {{t+|pt|pátria|f}}
 * Romanian: {{t+|ro|patrie|f}}
@@ -86,26 +86,26 @@
 * Rwanda-Rundi: {{t|rw|igihugu kavukire}}
 * Sanskrit: {{t+|sa|स्वदेश|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|домовина|f|sc=Cyrl}}, {{t|sh|завичај|m|sc=Cyrl}}, {{t|sh|отаџбина|f}}
-*: Roman: {{t+|sh|domovina|f}}, {{t+|sh|zavičaj|m}}, {{t+|sh|otadžbina|f}}
+*: Cyrillic: {{t|sh|до̀мовина|f}}, {{t|sh|за̏вича̄ј|m}}, {{t|sh|о̀таџбина|f}}
+*: Roman: {{t+|sh|dòmovina|f}}, {{t+|sh|zȁvičāj|m}}, {{t+|sh|òtadžbina|f}}
 * Silesian: {{t|szl|hajmatland}}
 * Slovak: {{t|sk|vlasť|f}}, {{t|sk|domovina|f}}
 * Slovene: {{t+|sl|domovina|f}}
-* Southern Altai: {{t|alt|тӧрӧл|sc=Cyrl}}
+* Southern Altai: {{t|alt|тӧрӧл}}
 * Spanish: {{t+|es|patria|f}}, {{t|es|terruño|m}}
 * Sundanese: {{t|su|lemah cai}}
 * Swedish: {{t+|sv|fosterland|n}}, {{t+|sv|hemland|n}}
-* Tajik: {{t+|tg|ватан|sc=Cyrl}}
+* Tajik: {{t+|tg|ватан}}
 * Tamil: {{t+|ta|ஈழம்}}
 * Tatar: {{t+|tt|ватан}}
-* Thai: {{t|th|บ้านเกิด|tr=bâan-gə̀ət}}, {{t+|th|บ้านเมือง|tr=bâan-mʉʉang}}, {{qualifier|idiomatic}} {{t+|th|บ้านเกิดเมืองนอน|tr=bâan-gə̀ət-mʉʉang-nɔɔn}}
+* Thai: {{t|th|บ้านเกิด}}, {{t+|th|บ้านเมือง}}, {{t+|th|บ้านเกิดเมืองนอน}}
 * Turkish: {{t+|tr|vatan}}, {{t+|tr|anavatan}}, {{t+|tr|yurt}}
 * Turkmen: {{t|tk|watan}}
-* Ukrainian: {{t+|uk|ба́тьківщина|f|sc=Cyrl}}, {{t+|uk|вітчи́зна|f|sc=Cyrl}}
-* Urdu: {{t+|ur|وطن|tr=vatan|sc=ur-Arab}}
+* Ukrainian: {{t+|uk|ба́тьківщина|f}}, {{t+|uk|вітчи́зна|f}}
+* Urdu: {{t+|ur|وطن|tr=vatan}}
 * Uyghur: {{t|ug|ۋەتەن}}
 * Uzbek: {{t+|uz|vatan}}
-* Vietnamese: {{t+|vi|tổ quốc}} ({{t|vi|祖國|sc=Hani}})
+* Vietnamese: {{t+|vi|tổ quốc}} ({{t|vi|祖國}})
 * Walloon: {{t+|wa|patreye|f}}
 * Yiddish: {{t|yi|היימלאַנד|n}}
 {{trans-bottom}}
@@ -117,7 +117,7 @@
 
 {{trans-top|one's country of birth}}
 * Afrikaans: {{t|af|geboorteland}}
-* Bulgarian: {{t+|bg|родина|f}}
+* Bulgarian: {{t+|bg|роди́на|f}}
 * Danish: {{t|da|fædreland|n}}, {{t|da|fødeland|n}}
 * Finnish: {{t+|fi|synnyinmaa}}
 * French: {{t+|fr|terre natale|f}}
@@ -127,7 +127,8 @@
 * Hungarian: {{t+|hu|szülőhaza}}, {{t+|hu|szülőföld}}
 * Latin: {{t+|la|patria|f}}
 * Maori: {{t|mi|ewe}}
-* Mongolian: {{t|mn|төрсөн нутаг|sc=Cyrl}}
+* Mongolian:
+*: Cyrillic: {{t|mn|төрсөн нутаг}}
 * Portuguese: {{t+|pt|terra natal|f}}
 * Rwanda-Rundi: {{t|rw|igihugu kavukire}}
 * Spanish: {{t|es|tierra natal|f}}
