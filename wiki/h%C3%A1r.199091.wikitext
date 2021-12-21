@@ -16,7 +16,7 @@ From {{der|fo|non|hár}}, from {{der|fo|gem-pro|*hērą}}, from {{der|fo|ine-pro
 ====Declension====
 {{fo-decl-noun-n3|hár}}
 
-[[Category:fo:Anatomy]]
+{{c|fo|Anatomy}}
 
 ----
 
@@ -33,11 +33,9 @@ From {{der|is|non|hár}}, {{m|non|hór}}, from {{der|is|gem-pro|*hauhaz}}.
 {{is-adj|hærri|hæstur}}
 
 # [[high]]
-#: [[múr|Múrinn]] er '''hár'''.
-#:: The wall is '''high'''
+#: {{ux|is|[[múr|Múrinn]] er '''hár'''.|The wall is '''high'''.}}
 # [[tall]]
-#: Guð minn almáttugur! Þú ert orðinn svo '''hár'''!
-#:: My god almighty! You've gotten so '''tall'''!
+#: {{ux|is|Guð minn almáttugur! Þú ert orðinn svo '''hár'''!|My god almighty! You've gotten so '''tall'''!}}
 
 =====Derived terms=====
 * {{l|is|há-}}
@@ -48,8 +46,8 @@ From {{der|is|non|hár}}, from {{der|is|gem-pro|*hērą}}.
 ====Noun====
 {{is-noun|n|hárs|hár}}
 
-# {{senseid|non|hair}} [[hair]]
-#: {{usex|non|Þú hefur fallegt '''hárin'''.|You have pretty hairs.}}
+# {{senseid|is|hair}} [[hair]]
+#: {{ux|is|Þú hefur fallegt '''hárin'''.|You have pretty hairs.}}
 
 =====Declension=====
 {{is-decl-noun-n-s|h|á|r}}
@@ -89,7 +87,7 @@ Cognate with the {{cog|fo|háur}}, {{m|fo|hávur}},<ref>{{R:Íslensk orðsifjab�
 ===References===
 <references/>
 
-{{topics|is|Anatomy|Hair}}
+{{c|is|Anatomy|Hair}}
 
 ----
 
@@ -169,6 +167,7 @@ From {{inh|non|gem-pro|*hauhaz|t=high}}, from {{der|non|ine-pro|*kewk-|t=to bend
 }}
 
 =====Descendants=====
+{{top2}}
 * {{desc|is|hár}}
 * {{desc|fo|háur}}
 * {{desc|nrn|hjog}}, {{l|nrn|høg}}
@@ -184,6 +183,7 @@ From {{inh|non|gem-pro|*hauhaz|t=high}}, from {{der|non|ine-pro|*kewk-|t=to bend
 ** {{desc|fo|høgur|bor=1}}
 * {{desc|non-ogt|haur}}
 ** {{desc|gmq-gut|haugar}}, {{l|gmq-gut|haug}}, {{l|gmq-gut|hau}}
+{{bottom}}
 
 ===Etymology 2===
 From {{inh|non|gem-pro|*hērą}}, from {{der|non|ine-pro|*keres-||rough hair, bristle}}. Compare Old Saxon and {{cog|goh|hār}}, {{cog|ang|her}}, {{m|ang|hǣr}}.
@@ -191,7 +191,7 @@ From {{inh|non|gem-pro|*hērą}}, from {{der|non|ine-pro|*keres-||rough hair, br
 ====Noun====
 {{non-noun|n}}
 
-# [[hair]]
+# {{senseid|non|hair}} [[hair]]
 
 =====Declension=====
 {{non-decl-n-a|hár}}
@@ -213,7 +213,7 @@ From {{inh|non|gem-pro|*hērą}}, from {{der|non|ine-pro|*keres-||rough hair, br
 ====Noun====
 {{non-noun|m|hás|háir}}
 
-# [[thole]], [[rowlock]]
+# {{senseid|non|rowlock}} [[thole]], [[rowlock]]
 
 =====Declension=====
 {{non-decl-m-i1|há|dsd=hánum|dp=hám|dpd=hánum|gp=há}}
@@ -227,7 +227,7 @@ Probably from a derivative of {{der|non|gem-pro|*hawwaną|t=to hew, cut}}, relat
 ====Noun====
 {{non-noun|m}}
 
-# [[spiny dogfish]]
+# {{senseid|non|dogfish}} [[spiny dogfish]]
 #: {{Q|non|First Grammatical Treatise|84|22|quote=''Har'' vex á kykvendum, en '''''hȧr''''' er fiskr.|trans=''Hair'' grows on living things, but ''har'' is a fish.}}
 
 =====Usage notes=====
@@ -250,15 +250,22 @@ The {{w|First Grammarian}} says that this word had a long nasalized vowel, marke
 ====Adjective====
 {{head|non|adjective form}}
 
-# {{inflection of|non|hárr||posd|str|f|nom|s|;|posd|str|n|nom//acc|p}}
+# {{infl of|non|hárr||str|f|nom|s}}
+# {{infl of|non|hárr||str|n|nom//acc|p}}
+
+===Etymology 6===
+{{nonlemma}}
 
 ====Noun====
-{{head|non|noun form}}
+{{head|non|noun form|g=f}}
 
-# {{inflection of|non|há|id=aftergrass||indef|gen|s|;|indef|nom//acc|p}}
+# {{infl of|non|há|id=aftergrass||indef|gen|s}}
+# {{infl of|non|há|id=aftergrass||indef|nom//acc|p}}
 
 ===References===
 * [https://archive.org/stream/concisedictionar001857#page/187 hár] in ''A Concise Dictionary of Old Icelandic'', G. T. Zoëga, Clarendon Press, 1910, at [https://archive.org/details/concisedictionar001857 Internet Archive].
 
-[[Category:non:Anatomy]]
-[[Category:non:Hair]]
+===Anagrams===
+* {{anagrams|non|a=árh|hrá}}
+
+{{c|non|Anatomy|Hair}}
