@@ -172,12 +172,68 @@ From {{inh|enm|ang|mīn}}.
 
 ----
 
-==Norwegian Nynorsk==
+==Norwegian Bokmål==
+
+===Noun===
+{{nb-noun-n1}}
+
+# {{alt form|nocap=1|nb|men}}
 
 ===Verb===
+{{nb-verb-form}}
+
+# {{infl of|nb|meine||imp}}
+
+----
+
+==Norwegian Nynorsk==
+
+===Pronunciation===
+* {{IPA|nn|/mæɪ̯n/}} {{nn-pronu-note}}
+
+===Etymology 1===
+From {{inh|nn|non|mein}}, from {{inh|nn|gem-pro|*mainą}}.
+
+====Noun====
+{{nn-noun-n1}}
+
+# [[harm]]
+# [[obstacle]]
+
+=====Derived terms=====
+* {{l|nn|til meins}}
+
+=====Related terms=====
+* {{l|nn|meine}}
+
+===Etymology 2===
+From {{inh|nn|non|meinn}}, from {{inh|nn|gem-pro|*mainaz}}.
+
+====Adjective====
+{{nn-adj-1}}
+
+# [[cumbersome]], [[mean]]
+# [[precise]], [[keen]]
+#: {{syn|nn|visshøv}}
+
+=====Related terms=====
+* {{l|nn|mein-}}
+
+===Etymology 3===
+{{nonlemma}}
+
+====Verb====
 {{head|nn|verb form}}
 
-# {{nn-verb-form of|imperative|mein}}
+# {{infl of|nn|meine||imp}}
+
+===References===
+* {{R:ND}}
+* {{R:NO}}
+* {{R:AASEN}}
+
+===Anagrams===
+* {{anagrams|nn|a=eimn|mein-|meni}}
 
 ----
 
@@ -186,26 +242,27 @@ From {{inh|enm|ang|mīn}}.
 ===Noun===
 {{fro-noun|f}}
 
-# {{alternative form of|fro|main}}
+# {{alt form|fro|main}}
 
-[[Category:fro:Anatomy]]
+{{c|fro|Anatomy}}
 
 ----
 
 ==Old Norse==
 
-===Etymology===
+===Etymology 1===
 From {{inh|non|gem-pro|*mainą}}.
 
-===Noun===
+====Noun====
 {{non-noun|n}}
 
 # [[harm]], [[mischief]], [[crime]], [[misdeed]]
 
-====Declension====
-{{non-decl-n-a|mein|mein}}
+=====Declension=====
+{{non-decl-n-a|mein}}
 
-====Descendants====
+=====Descendants=====
+{{top2}}
 * {{desc|is|mein}}
 * {{desc|fo|mein}}
 * {{desc|nn|mein}}
@@ -214,6 +271,16 @@ From {{inh|non|gem-pro|*mainą}}.
 ** {{desc|sv|men}}
 * {{desc|da|men}}
 ** {{desc|nb|men}}
+{{bottom}}
+
+===Etymology 2===
+{{nonlemma}}
+
+====Adjective====
+{{head|non|adjective form}}
+
+# {{infl of|non|meinn||str|f|nom|s}}
+# {{infl of|non|meinn||str|n|nom//acc|p}}
 
 ===References===
 * {{R:Zoega}}
