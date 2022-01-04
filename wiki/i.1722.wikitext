@@ -38,9 +38,9 @@ Lower case variation of upper case {{m|en|I}}, from {{der|mul|grc|-}} letter {{m
 * {{l|mul|ɪ}} — [[International Phonetic Alphabet|IPA]]
 
 ===Etymology 2===
-* {{sense|mathematics, imaginary number}} abbreviation of {{m|en|imaginary}}
-* {{sense|engineering, electric current}} abbreviation of French {{m|fr|intensité du courant}} first used by M. André-Marie Ampère
-* {{sense|computer programming, generic index}} abbreviation of {{m|en|index}}
+* {{sense-lite|mathematics, imaginary number}} abbreviation of {{m|en|imaginary}}
+* {{sense-lite|engineering, electric current}} abbreviation of French {{m|fr|intensité du courant}} first used by M. André-Marie Ampère
+* {{sense-lite|computer programming, generic index}} abbreviation of {{m|en|index}}
 
 ====Pronunciation====
 {{wikipedia|Close front unrounded vowel}}
@@ -99,8 +99,8 @@ Image:Fraktur letter I.png|Uppercase and lowercase '''I''' in [[Fraktur]]
 From {{der|en|la|i}}, [[minuscule]] of {{m|la|I}}
 
 ====Pronunciation====
-* {{sense|phoneme}} IPA: /aɪ/, /ɪ/, /i/<!--{{IPA|en|/aɪ/|/ɪ/|/i/}}-->
-* {{sense|letter name}} {{enPR|ī}}, IPA: /aɪ/<!--{{IPA|en|/aɪ/}}-->
+* {{sense-lite|phoneme}} IPA: /aɪ/, /ɪ/, /i/<!--{{IPA|en|/aɪ/|/ɪ/|/i/}}-->
+* {{sense-lite|letter name}} {{enPR|ī}}, IPA: /aɪ/<!--{{IPA|en|/aɪ/}}-->
 * {{audio|en|en-us-i.ogg|Audio (US)}}
 * {{rhymes|en|aɪ}}
 * {{homophones|en|aye|eye}}
@@ -196,7 +196,7 @@ From {{inh|en|ang|iċ}}.
 ===Preposition===
 {{head|sq|preposition|of|g=m}}
 
-# {{non-gloss definition|masculine singular preposition}}
+# {{n-g-lite|masculine singular preposition}}
 # [[of]]
 #: {{uxi|sq|Fisi '''i''' Malësorëve.|The tribe '''of''' Highlanders.}}
 #: {{uxi|sq|Fisi '''i''' Malësorëvet.|The tribe '''of''' the Highlanders.}}
@@ -204,7 +204,7 @@ From {{inh|en|ang|iċ}}.
 ===Article===
 {{head|sq|article|the|g=m}}
 
-# {{non-gloss definition|masculine singular nominative adjectival article}}
+# {{n-g-lite|masculine singular nominative adjectival article}}
 # [[the]]
 #: {{uxi|sq|Shkurt. '''I''' shkurt. '''I''' shkurti.|Short. Short one. '''The''' short one. ''or'' Short. Shorty. '''The''' shorty.}}
 #: {{uxi|sq|Madh. '''I''' madhi zot. / Zoti '''i''' madh.|Great. '''The''' great god.}}
@@ -269,7 +269,7 @@ See [[Appendix:Albanian adjectival articles]] for other forms.<!--not inlined to
 ==Azerbaijani==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} IPA: /ɪ/<!--{{IPA|az|/ɪ/}}-->
+* {{qualifier-lite|phoneme}} IPA: /ɪ/<!--{{IPA|az|/ɪ/}}-->
 
 ===Letter===
 {{az-letter|upper=İ|lower=i}}
@@ -339,7 +339,7 @@ From {{inh|bar|gmh|ich}}, from {{inh|bar|goh|ih}}, from {{inh|bar|gmw-pro|*ik}}.
 ===Particle===
 {{head|bi|particle}}
 
-# {{non-gloss definition|Separates the [[subject]] of a sentence from the [[predicate]], used when the subject is a [[pronoun]] or a [[noun]]}}
+# {{n-g-lite|Separates the [[subject]] of a sentence from the [[predicate]], used when the subject is a [[pronoun]] or a [[noun]]}}
 
 ----
 
@@ -387,7 +387,7 @@ See [[Appendix:Bourguignon personal pronouns]].<!--not inlined to save Lua memor
 ===Pronoun===
 {{head|wes|pronoun|cat2=personal pronouns}}
 
-# {{n-g|3rd person singular subject personal pronoun}}
+# {{n-g-lite|3rd person singular subject personal pronoun}}
 
 ====See also====
 {{wes-personal pronouns}}
@@ -499,7 +499,7 @@ From the earlier {{m|co|li}}. Compare {{cog|it|i||the}} and {{cog|ro|îi||them}}
 ===Article===
 {{head|co|article|g=m-p|masculine singular|u|feminine singular|a|feminine plural|e}}
 
-# [[the]] {{qualifier|masculine plural}}
+# [[the]] {{qualifier-lite|masculine plural}}
 
 ====Usage notes====
 * Before a vowel, '''i''' turns into {{m|co|l'}}.
@@ -507,7 +507,7 @@ From the earlier {{m|co|li}}. Compare {{cog|it|i||the}} and {{cog|ro|îi||them}}
 ===Pronoun===
 {{head|co|pronoun|cat2=personal pronouns|g=m-p}}
 
-# [[them]] {{qualifier|direct object}}
+# [[them]] {{qualifier-lite|direct object}}
 
 ====Usage notes====
 * Before a vowel, '''i''' turns into {{m|co|l'}}.
@@ -534,7 +534,7 @@ From {{inh|cs|sla-pro|*i}}.
 
 # [[and]] (also), and [[even]]
 #: {{syn|cs|aj|aji|q1=Moravian|q2=Moravian}}
-# [[even]] {{gloss|implying an extreme example, used at the beginning of sentences}}
+# [[even]] {{gloss-lite|implying an extreme example, used at the beginning of sentences}}
 #: {{syn|cs|aj|aji|q1=Moravian|q2=Moravian}}
 #: {{uxi|cs|'''I''' slepá veverka někdy najde ořech.|'''Even''' a blind squirrel finds an acorn sometimes.}}
 
@@ -555,7 +555,7 @@ From {{inh|dlm|la|illī}}, nominative masculine plural of {{m|la|ille}}. Compare
 ===Article===
 {{head|dlm|article}}
 
-# [[the]]; {{non-gloss definition|masculine plural definite article}}
+# [[the]]; {{n-g-lite|masculine plural definite article}}
 
 ====Related terms====
 * {{l|dlm|el}}
@@ -598,19 +598,19 @@ From {{inh|da|non|í}}, from {{inh|da|gem-pro|*in}}, from {{inh|da|ine-pro|*en}}
 {{head|da|preposition}}
 
 # [[in]], [[inside]]
-# {{ngd|Indicates exponentiation.}}
+# {{n-g-lite|Indicates exponentiation.}}
 #: {{uxi|da|Tre '''i''' femte.|Three '''to the power of''' five.}} (short for tre i femte potens, three in fifth power). [note that the exponent is in the ordinal form]
 # [[for]] (some duration)
 #: {{uxi|da|Jeg har boet her '''i''' tre år.|I have lived here '''for''' three years.}}
-# {{ngd|Used to indicate a past time or period when something took place.}}
+# {{n-g-lite|Used to indicate a past time or period when something took place.}}
 #: {{uxi|da|Han fyldte seks år '''i''' mandags.|He turned six years old '''on''' Monday.}}
-# {{ngd|Used to indicate regular presence in a location.}}
+# {{n-g-lite|Used to indicate regular presence in a location.}}
 #: {{uxi|da|Pigen går '''i''' gymnasiet og er 17 år |The girl goes '''to''' high school and is 17 years old.}}
-# {{ngd|Used in conjunction with time to indicate a number of minutes before a full hour.}}
+# {{n-g-lite|Used in conjunction with time to indicate a number of minutes before a full hour.}}
 #: {{uxi|da|Fem minutter '''i''' tolv.|Five minutes '''to''' twelve.}}
-# {{ngd|Used when indicating that something is happening or repeated a number of times within each time period .}}
+# {{n-g-lite|Used when indicating that something is happening or repeated a number of times within each time period .}}
 #: {{uxi|da|Tre gange '''i''' timen.|Three times '''a''' day}}
-# {{ngd|Indicates affiliation with a profession.}}
+# {{n-g-lite|Indicates affiliation with a profession.}}
 #: {{uxi|da|Professor '''i''' fysik|Professor '''of''' physics}}
 
 ----
@@ -638,7 +638,7 @@ From {{inh|da|non|í}}, from {{inh|da|gem-pro|*in}}, from {{inh|da|ine-pro|*en}}
 ===Pronunciation===
 * {{audio|nl|Nl-i.ogg|Audio}}
 * {{rhymes|nl|i|s=1}}
-* {{sense|letter name}} IPA: /i/<!--{{IPA|nl|/i/}}-->
+* {{sense-lite|letter name}} IPA: /i/<!--{{IPA|nl|/i/}}-->
 
 ===Letter===
 {{head|nl|letter|lower case||upper case|I}}
@@ -690,8 +690,8 @@ From {{inh|egl|la|illī||they}} (nominative plural of {{m|la|ille}}).
 ==Esperanto==
 
 ===Pronunciation===
-* {{sense|letter name}} {{IPA|eo|/i/}}
-* {{sense|phoneme}} {{IPA|eo|/i/}}
+* {{sense-lite|letter name}} {{IPA|eo|/i/}}
+* {{sense-lite|phoneme}} {{IPA|eo|/i/}}
 * {{audio|eo|Eo-i.ogg|Audio}}
 
 ===Letter===
@@ -748,7 +748,7 @@ From {{der|fax|roa-opt|e}}.
 ===Conjunction===
 {{head|fax|conjunction}}
 
-# [[and]] {{gloss|expressing two elements to be taken together}}
+# [[and]] {{gloss-lite|expressing two elements to be taken together}}
 
 ====Quotations====
 {{seemoreCites|fax}}
@@ -854,7 +854,7 @@ From {{inh|fur|la|illi}}.
 ===Letter===
 {{ff-letter|upper=I|lower=i}}
 
-# {{non-gloss definition|A [[letter]] of the Fula [[alphabet]], written in the [[Appendix:Latin script|Latin script]].}}
+# {{n-g-lite|A [[letter]] of the Fula [[alphabet]], written in the [[Appendix:Latin script|Latin script]].}}
 
 ====Usage notes====
 * {{U:ff:common}}
@@ -892,7 +892,7 @@ From {{inh|fur|la|illi}}.
 ====Particle====
 {{head|gl|particle}}
 
-# {{non-gloss definition|an antihiatical particle that, due to [[sandhi]], can precede a word which begins with a vowel sound after a word which ends with vowel sound; now rarely represented in written language}}
+# {{n-g-lite|an antihiatical particle that, due to [[sandhi]], can precede a word which begins with a vowel sound after a word which ends with vowel sound; now rarely represented in written language}}
 #* '''1594''', Anonymous, ''Entremés dos pastores'':
 #*: ''Ay Jan cata non te enfermes, nen sentencies con malicia, cata que a '''y'''alma perdes.''
 #*:: Oh, Xan, watch out, don't get sick, nor sentence with meanness, watch out that your soul you're loosing
@@ -936,11 +936,11 @@ From {{der|haw|poz-pol-pro|*i}}.
 ===Particle===
 {{head|haw|particle}}
 
-# {{non-gloss definition|used to mark the following (noun or noun phrase) as a direct object}}
+# {{n-g-lite|used to mark the following (noun or noun phrase) as a direct object}}
 #: {{uxi|haw|Ua ʻai ka pōpoki '''i''' ka ʻiole.|The cat ate the mouse.}}
-# {{non-gloss definition|used to indicate past tense (precedes verb)}}
+# {{n-g-lite|used to indicate past tense (precedes verb)}}
 #: {{uxi|haw|'''I''' hana au.|I worked.}}
-# {{non-gloss definition|used to indicate perfect participle (precedes verb)}}
+# {{n-g-lite|used to indicate perfect participle (precedes verb)}}
 #: {{uxi|haw|'''i''' haʻalele|having left, who had left}}
 
 ===Preposition===
@@ -957,8 +957,8 @@ From {{der|haw|poz-pol-pro|*i}}.
 ==Hungarian==
 
 ===Pronunciation===
-* {{sense|phoneme}} IPA: [ˈi]<!--{{hu-IPA}}-->
-* {{sense|letter name}} IPA: [ˈi]<!--{{hu-IPA|i}}-->
+* {{sense-lite|phoneme}} IPA: [ˈi]<!--{{hu-IPA}}-->
+* {{sense-lite|letter name}} IPA: [ˈi]<!--{{hu-IPA|i}}-->
 
 ===Letter===
 {{hu-letter|upper=I|lower=i}}
@@ -1040,8 +1040,8 @@ From {{der|haw|poz-pol-pro|*i}}.
 ==Indonesian==
 
 ===Pronunciation===
-* {{sense|letter name}} {{IPA|id|/i/}}
-* {{sense|phoneme}} {{IPA|id|/i/|/ɪ/}}
+* {{sense-lite|letter name}} {{IPA|id|/i/}}
+* {{sense-lite|phoneme}} {{IPA|id|/i/|/ɪ/}}
 
 ===Letter===
 {{id-letter|upper=I|lower=i}}
@@ -1269,7 +1269,7 @@ Shortened from {{inh|ltg|ine-bsl-pro|*ir}}, from {{inh|ltg|ine-pro|*h₂er-|*h�
 ====Noun====
 {{la-noun|ī|g=f|indecl=y}}
 
-# {{non-gloss definition|The name of the letter ''{{l|la|I}}''.}}
+# {{n-g-lite|The name of the letter ''{{l|la|I}}''.}}
 
 =====Coordinate terms=====
 * {{Latin letter names of the Roman alphabet}}
@@ -1341,7 +1341,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ==Lithuanian==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} IPA: /ɪ/<!--{{IPA|lt|/ɪ/}}-->
+* {{qualifier-lite|phoneme}} IPA: /ɪ/<!--{{IPA|lt|/ɪ/}}-->
 
 ===Letter===
 {{head|lt|letter|upper case|I}}
@@ -1356,7 +1356,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ==Livonian==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} IPA: /i/<!--{{liv-IPA|i}}-->
+* {{qualifier-lite|phoneme}} IPA: /i/<!--{{liv-IPA|i}}-->
 
 ===Letter===
 {{head|liv|letter|upper case|I}}
@@ -1398,7 +1398,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ==Lushootseed==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} IPA: /i/, /eɪ/<!--{{IPA|lut|/i/|/eɪ/}}-->
+* {{qualifier-lite|phoneme}} IPA: /i/, /eɪ/<!--{{IPA|lut|/i/|/eɪ/}}-->
 
 ===Letter===
 {{head|lut|letter}}
@@ -1412,7 +1412,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Article===
 {{head|mak|article|Lontara spelling|ᨕᨗ}}
 
-# {{ngd|article for personal names and pronouns}}
+# {{n-g-lite|article for personal names and pronouns}}
 
 ----
 
@@ -1431,10 +1431,10 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ==Maltese==
 
 ===Pronunciation===
-* {{IPA|mt|/ɪ/}} {{q|short phoneme}}
-* {{IPA|mt|/iː/}} {{q|long phoneme}}
-* {{IPA|mt|/ɪː/}} {{q|long phoneme before the letters {{m|mt|għ}}, {{m|mt|ħ}}, {{m|mt|h}}, {{m|mt|q}}; merges with {{m|mt|ie}}}}
-* {{IPA|mt|/ɛj/|/aj/}} {{q|after {{m|mt|għ}}; variation is regional and idiolectal}}
+* {{IPA|mt|/ɪ/}} {{q-lite|short phoneme}}
+* {{IPA|mt|/iː/}} {{q-lite|long phoneme}}
+* {{IPA|mt|/ɪː/}} {{q-lite|long phoneme before the letters {{m|mt|għ}}, {{m|mt|ħ}}, {{m|mt|h}}, {{m|mt|q}}; merges with {{m|mt|ie}}}}
+* {{IPA|mt|/ɛj/|/aj/}} {{q-lite|after {{m|mt|għ}}; variation is regional and idiolectal}}
 
 ===Letter===
 {{head|mt|letter|upper case|I}}
@@ -1451,7 +1451,7 @@ Proposed in 1908 as part of the new Latvian spelling by the scientific commissio
 ===Pronoun===
 {{head|mnk|pronoun}}
 
-# [[you]] {{gloss|personal pronoun}}
+# [[you]] {{gloss-lite|personal pronoun}}
 #: {{uxi|mnk|as '''i''' busa|he/she struck '''you'''.}}
 
 ====See also====
@@ -1468,9 +1468,9 @@ From {{inh|mi|poz-pol-pro|*i}}.
 {{mi-part}}
 
 # [[from]]
-# {{non-gloss definition|past-tense verbal particle}}
-# {{non-gloss definition|particle indicating the direct object of a transitive sentence}}
-# {{non-gloss definition|past-tense particle indicating location}}
+# {{n-g-lite|past-tense verbal particle}}
+# {{n-g-lite|particle indicating the direct object of a transitive sentence}}
+# {{n-g-lite|past-tense particle indicating location}}
 
 ----
 
@@ -1610,7 +1610,7 @@ From {{inh|nap|la|ego}}.
 ====Pronoun====
 {{head|nap|pronoun}}
 
-# [[I]]: {{non-gloss definition|the first-person singular nominative personal pronoun}}.
+# [[I]]: {{n-g-lite|the first-person singular nominative personal pronoun}}.
 
 ----
 
@@ -1635,8 +1635,8 @@ From {{inh|nap|la|ego}}.
 From {{inh|nb|non|í||in}}, from {{inh|nb|gem-pro|*in||in, into}}, from {{inh|nb|ine-pro|*én||in}}.
 
 ===Pronunciation===
-* {{sense|letter name}} IPA: /iː/<!--{{IPA|nb|/iː/}}-->
-* {{sense|phoneme}} IPA: /iː/, /i/, /ɪ/ <!--{{IPA|nb|/iː/|/i/|/ɪ/}}-->
+* {{sense-lite|letter name}} IPA: /iː/<!--{{IPA|nb|/iː/}}-->
+* {{sense-lite|phoneme}} IPA: /iː/, /i/, /ɪ/ <!--{{IPA|nb|/iː/|/i/|/ɪ/}}-->
 
 ===Letter===
 {{head|nb|letter}}
@@ -1646,18 +1646,18 @@ From {{inh|nb|non|í||in}}, from {{inh|nb|gem-pro|*in||in, into}}, from {{inh|nb
 ===Preposition===
 {{head|nb|preposition}}
 
-# {{qualifier|location}} [[in]], inside of
+# {{qualifier-lite|location}} [[in]], inside of
 #: {{uxi|nb|Ligge '''i''' sengen|Laying '''in''' bed}}
 #: {{uxi|nb|Oppe '''i''' fjellene|Up '''in''' the mountains}}
-# {{qualifier|duration of time}} [[for]], [[in]], [[during]]
+# {{qualifier-lite|duration of time}} [[for]], [[in]], [[during]]
 #: {{uxi|nb|Møtet varte ('''i''') to timer|The meeting lasted two hours|lit=The meeting went '''during''' two hours}}
 #: {{uxi|nb|Han var utenlands '''i''' mange år|He lived abroad for many years}}
 #: {{uxi|nb|'''I''' høst, '''i''' vår, '''i''' dag, '''i''' går|'''In''' autumn, '''in''' spring, today, yesterday}}
-# {{qualifier|condition, state}} [[in]]
+# {{qualifier-lite|condition, state}} [[in]]
 #: {{uxi|nb|Være '''i''' fred|To be '''in''' peace}}
 #: {{uxi|nb|Være '''i''' god form|To be '''in''' shape (physically fit)}}
 #: {{uxi|nb|Leve '''i''' fattigdom|To live '''in''' poverty}}
-# {{qualifier|means, method}} [[in]]
+# {{qualifier-lite|means, method}} [[in]]
 #: {{uxi|nb|Betale '''i''' gull|To pay '''in''' gold.}}
 #: {{uxi|nb|Gjøre noe '''i''' all hast|To do something urgently|lit=To do something '''in''' all haste}}
 #: {{uxi|nb|'''i''' hemmelighet|'''in''' secret}}
@@ -1674,11 +1674,11 @@ From {{inh|nn|non|í}}, from {{inh|nn|gem-pro|*in|t=in, into}}. Akin to {{cog|en
 ====Preposition====
 {{nn-prep}}
 
-# {{q|location}} [[in]], inside of
+# {{q-lite|location}} [[in]], inside of
 #: {{uxi|nn|No er me '''i''' Noreg.|We are currently '''in''' Norway.}}
-# {{q|duration of time}} [[for]], [[in]], [[during]]
-# {{q|condition, state}} [[in]]
-# {{q|means, method}} [[in]]
+# {{q-lite|duration of time}} [[for]], [[in]], [[during]]
+# {{q-lite|condition, state}} [[in]]
+# {{q-lite|means, method}} [[in]]
 # [[pertaining]] to, in [[reference]] to
 
 =====Derived terms=====
@@ -1687,7 +1687,7 @@ From {{inh|nn|non|í}}, from {{inh|nn|gem-pro|*in|t=in, into}}. Akin to {{cog|en
 ====Adverb====
 {{nn-adv}}
 
-# {{ngd|Used together with certain verbs.}}
+# {{n-g-lite|Used together with certain verbs.}}
 
 ===Etymology 2===
 From {{der|nn|la|i}}, [[minuscule]] of {{m|la|I}}.
@@ -1741,7 +1741,7 @@ From {{der|nn|non|ér}}, {{m|non|ír}}, from {{der|nn|gem-pro|*jūz}}. Possibly 
 ===Noun===
 {{oc-noun|f}}
 
-# [[#English|i]] {{gloss|the letter i, I}}
+# [[#English|i]] {{gloss-lite|the letter i, I}}
 
 ====Derived terms====
 * {{l|oc|i grèga}}
@@ -1808,7 +1808,7 @@ From {{inh|pro|la|hīc}}.
 ==Papiamentu==
 
 ===Alternative forms===
-* {{alter|pap|y}} {{q|alternative spelling}}
+* {{alter|pap|y}} {{q-lite|alternative spelling}}
 
 ===Etymology===
 From {{der|pap|es|y}} and {{der|pap|pt|e}} and {{der|pap|kea|i}}.
@@ -1825,7 +1825,7 @@ From {{der|pap|es|y}} and {{der|pap|pt|e}} and {{der|pap|kea|i}}.
 ===Particle===
 {{head|pis|particle}}
 
-# {{non-gloss definition|Separates the [[subject]] of a sentence from the [[predicate]], used when the subject is a [[pronoun]] or a [[noun]]}}
+# {{n-g-lite|Separates the [[subject]] of a sentence from the [[predicate]], used when the subject is a [[pronoun]] or a [[noun]]}}
 
 ----
 
@@ -1867,7 +1867,7 @@ From {{inh|pl|sla-pro|*i}}, from {{der|pl|ine-pro|*ei}}, an early locative singu
 #: {{uxi|pl|Byłeś głupi, '''i''' cierp teraz.|You were a fool, '''so''' now suffer.}}
 # [[as well as]]
 #: {{uxi|pl|Polsce potrzebne są '''i''' armia, '''i''' flota.|Poland needs an army '''as well as''' a navy.}}
-# {{non-gloss definition|Emphasizing particle.}}
+# {{n-g-lite|Emphasizing particle.}}
 #: {{uxi|pl|'''I''' dobrze.|'''Fine.'''}}
 
 ===Further reading===
@@ -1881,7 +1881,7 @@ From {{inh|pl|sla-pro|*i}}, from {{der|pl|ine-pro|*ei}}, an early locative singu
 ===Pronunciation===
 * IPA: /i/<!--{{IPA|pt|/i/}}-->
 * {{audio|pt|Pt-br-i.ogg|Audio (BR)}}
-* {{homophones|pt|e}} {{qualifier|some accents}}
+* {{homophones|pt|e}} {{qualifier-lite|some accents}}
 
 ===Letter===
 {{pt-letter|upper=I|lower=i}}
@@ -1906,7 +1906,7 @@ From {{inh|rap|poz-pol-pro|*i}}.
 ===Particle===
 {{head|rap|particle}}
 
-# {{non-gloss definition|[[relational particle]] that marks the object of a verb}}
+# {{n-g-lite|[[relational particle]] that marks the object of a verb}}
 
 ====Usage notes====
 Used in all cases except with verbs of sensing; in which case, use {{m|rap|e}}.
@@ -1940,7 +1940,7 @@ Used in all cases except with verbs of sensing; in which case, use {{m|rap|e}}.
 ====Article====
 {{head|rom|article|g=f-s|masculine singular|o|plural|e}}
 
-# [[the]]; {{non-gloss definition|feminine singular definite article}}
+# [[the]]; {{n-g-lite|feminine singular definite article}}
 #: {{uxi|rom|i Sperànca|Speranza}}
 #: {{uxi|rom|i Rumùnia|Romania}}
 
@@ -1996,7 +1996,7 @@ From {{inh|sm|poz-pol-pro|*i}}.
 ===Particle===
 {{head|sm|particle}}
 
-# {{non-gloss definition|used to mark the following (noun or noun phrase) as a direct object}}
+# {{n-g-lite|used to mark the following (noun or noun phrase) as a direct object}}
 
 ===Preposition===
 {{head|sm|preposition}}
@@ -2082,7 +2082,7 @@ From {{inh|gd|sga|sí}}. Cognates include {{cog|ga|sí}} and {{cog|gv|ee}}.
 See [[#Translingual|Translingual section]].
 
 ====Pronunciation====
-* {{qualifier|phoneme}} {{IPA|sh|/i/}}
+* {{qualifier-lite|phoneme}} {{IPA|sh|/i/}}
 
 ====Letter====
 {{sh-letter}}
@@ -2143,7 +2143,7 @@ From {{inh|sh|sla-pro|*i}}.
 ==Skolt Sami==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|sms|/i/|/j/}}
+* {{qualifier-lite|phoneme}} {{IPA|sms|/i/|/j/}}
 
 ===Letter===
 {{head|sms|letter|upper case|I}}
@@ -2180,8 +2180,8 @@ From {{inh|sk|sla-pro|*i}}.
 ==Spanish==
 
 ===Pronunciation===
-* {{qualifier|Phoneme}}: {{IPA|es|/i/|/j/}}
-* {{qualifier|Letter name}}: {{IPA|es|/i/}}
+* {{qualifier-lite|Phoneme}}: {{IPA|es|/i/|/j/}}
+* {{qualifier-lite|Letter name}}: {{IPA|es|/i/}}
 ** {{audio|es|Letter i es es.flac|Audio (Spain)}}
 
 ===Etymology 1===
@@ -2247,7 +2247,7 @@ From {{inh|sv|gmq-osw|i|ī}}, from {{inh|sv|non|í}}, from {{inh|sv|gem-pro|*in}
 ====Adverb====
 {{head|sv|adverb|verb particle}}
 
-# {{non-gloss definition|used to signify that an action is done with intensity}}
+# {{n-g-lite|used to signify that an action is done with intensity}}
 
 =====Derived terms=====
 {{der3|sv|ligga i|stå i|ta i}}
@@ -2324,7 +2324,7 @@ Probably from {{inh|tpi|en|is}}
 ===Particle===
 {{head|tpi|particle}}
 
-# {{non-gloss definition|Separates the [[subject]] of a sentence from the [[predicate]], used when the subject is a [[:Category:Tok Pisin pronouns|pronoun]], or a [[:Category:Tok Pisin nouns|noun]]}}
+# {{n-g-lite|Separates the [[subject]] of a sentence from the [[predicate]], used when the subject is a [[:Category:Tok Pisin pronouns|pronoun]], or a [[:Category:Tok Pisin nouns|noun]]}}
 #* {{RQ:Buk Baibel|Jenesis|1|2|passage=Tasol graun '''i''' no bin '''i''' stap olsem yumi save lukim nau.}}
 
 {{LDL}}
@@ -2374,13 +2374,13 @@ From {{inh|to|poz-pol-pro|*i}}.
 ===Pronoun===
 {{head|tpn|pronoun}}
 
-# He, she, it, they {{qualifier|with descriptive verbs}}
+# He, she, it, they {{qualifier-lite|with descriptive verbs}}
 #: {{ux|tpn|i porang|inline=1|he/she/it is / they are beautiful}}
-# Him, her, it, them {{qualifier|with transitive verbs}}
+# Him, her, it, them {{qualifier-lite|with transitive verbs}}
 #: {{ux|tpn|a-i-kuab|inline=1|i know him/her/it/them}}
-# His, her, its, their {{qualifier|with nouns}}
+# His, her, its, their {{qualifier-lite|with nouns}}
 #: {{ux|tpn|i py|inline=1|his/her/its/their foot/feet}}
-# Him, her, it, them {{qualifier|before postpositions}}
+# Him, her, it, them {{qualifier-lite|before postpositions}}
 #: {{ux|tpn|i xupé|inline=1|to him/her/it/them}}
 
 ----
@@ -2411,7 +2411,7 @@ From {{inh|to|poz-pol-pro|*i}}.
 ==Turkmen==
 
 ===Pronunciation===
-* {{qualifier|phoneme}} {{IPA|tk|/i/|/iː/}}
+* {{qualifier-lite|phoneme}} {{IPA|tk|/i/|/iː/}}
 
 ===Letter===
 {{head|tk|letter|upper case|I}}
@@ -2624,10 +2624,10 @@ From {{inh|gmq-bot|non|yr}}, {{m|non|úr}}, {{m|non|ór}}, {{m|non|or}}, from {{
 Often combined with {{m|gmq-bot|båhtt}}, {{m|gmq-bot|bódht}}, {{m|gmq-bot|bodt}}, {{m|gmq-bot|both}}.
 
 =====Alternative forms=====
-* {{l|gmq-bot|äi}} {{qualifier|Kalix|stressed}}
-* {{l|gmq-bot|öy}} {{qualifier|Luleå|stressed}}
-* {{l|gmq-bot|ö}} {{qualifier|Luleå|stressed}}
-* {{l|gmq-bot|öv}} {{qualifier|Luleå|stressed}}
+* {{l|gmq-bot|äi}} {{qualifier-lite|Kalix|stressed}}
+* {{l|gmq-bot|öy}} {{qualifier-lite|Luleå|stressed}}
+* {{l|gmq-bot|ö}} {{qualifier-lite|Luleå|stressed}}
+* {{l|gmq-bot|öv}} {{qualifier-lite|Luleå|stressed}}
 
 ----
 
@@ -2652,8 +2652,8 @@ Often combined with {{m|gmq-bot|båhtt}}, {{m|gmq-bot|bódht}}, {{m|gmq-bot|bodt
 ===Etymology 1===
 
 ====Pronunciation====
-* {{sense|phoneme}} {{IPA|yo|/i/}}
-* {{sense|letter name}} {{IPA|yo|/í/}}
+* {{sense-lite|phoneme}} {{IPA|yo|/i/}}
+* {{sense-lite|letter name}} {{IPA|yo|/í/}}
 
 ====Letter====
 {{yo-letter|upper=I|lower=i}}
@@ -2677,13 +2677,13 @@ Often combined with {{m|gmq-bot|båhtt}}, {{m|gmq-bot|bódht}}, {{m|gmq-bot|bodt
 ====Particle====
 {{yo-pos|particle|í}}
 
-# {{n-g|Used to express the [[progressive]] tense in [[negative]] constructions.}}
+# {{n-g-lite|Used to express the [[progressive]] tense in [[negative]] constructions.}}
 
 ===Etymology 3===
 
 ====Pronunciation====
-* {{sense|mid-tone}} {{IPA|yo|/ī/}}
-* {{sense|high-tone}} {{IPA|yo|/í/}}
+* {{sense-lite|mid-tone}} {{IPA|yo|/ī/}}
+* {{sense-lite|high-tone}} {{IPA|yo|/í/}}
 
 ====Pronoun====
 {{yo-pos|pronoun|i}}
