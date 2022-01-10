@@ -1,41 +1,48 @@
 ==English==
-
-===Etymology===
-{{root|en|ine-pro|*h₂eyḱ-}}
-From {{inh|en|enm|freyght}}, from {{der|en|dum|vracht}}, {{der|en|gml|vrecht||cost of transport}}, from {{der|en|gmw-pro|*fra-}} + {{m|gmw-pro|*aihti}}, ultimately from {{der|en|gem-pro|*fra-|pos=intensive prefix}} + {{der|en|gem-pro|*aihtiz||possession}}, from {{der|en|ine-pro|*h₂eyḱ-||to possess}}, equivalent to {{prefix|en|for|aught|nocat=1}}. Cognate with {{cog|goh|frēht||earnings}}, {{cog|ang|ǣht||sc=Latinx|owndom}}, and a {{doublet|en|fraught|nocap=1}}. More at {{m|en|for-}}, {{l|en|own}}.
+{{was wotd|2022|January|13}}
 
 ===Pronunciation===
-* {{enPR|frāt}}, {{IPA|en|/fɹeɪt/}}
-* {{audio|en|en-us-freight.ogg|Audio (US)}}
+* {{a|RP|GA}} {{enPR|frāt}}, {{IPA|en|/fɹeɪt/}}
+* {{audio|en|En-us-freight.ogg|Audio (GA)}}
 * {{rhymes|en|eɪt|s=1}}
 
-===Noun===
+===Etymology 1===
+{{root|en|ine-pro|*pro-|*h₂eyḱ-}}
+From Late {{inh|en|enm|freight}}, {{m|enm|freght}}, {{m|enm|freyght}}{{nb...|frait, freit, freyte|otherforms=1}}, a variant of {{m|enm|fraught}}, {{m|enm|fraght|t=transport of goods or people, usually by water; transportation fee; transportation facilities; cargo or passengers of a ship; (''figuratively'') burden; ballast of a ship; goods; a charge}},<ref>{{R:MED Online|entry=fraught|pos=n|id=MED17589}}</ref> from {{der|en|dum|vracht}}, {{m|dum|vrecht}}, and {{der|en|gml|vrecht|t=cargo, freight; transportation fee}},<ref>{{R:OED Online|pos=n|id=74453|date=December 2021|nodot=1}}; {{R:Lexico|pos=n}}</ref> from {{der|en|gmw-pro|*fra-}} (from {{der|en|gem-pro|*fra-|pos={{glossary|prefix}} meaning ‘completely, fully’}}) + {{m|gmw-pro|*aihti}} (from {{der|en|gem-pro|*aihtiz|t=possessions, property}}, ultimately from {{der|en|ine-pro|*h₂eyḱ-|t=to come into possession of, obtain; to own, possess}}). The English word can be analysed as {{prefix|en|for|aught|nocat=1}}, and is a {{doublet|en|fraught|nocap=1}}.
+
+{{rel-top|cognates}}
+* {{cog|fr|fret|t=cargo, freight; transportation fees; rental of a ship}}
+* {{cog|ang|ǣht|t=livestock; possession, property; power}}
+* {{cog|goh|frēht|t=earnings}}
+* {{cog|pt|frete|t=cargo, freight; transportation fees}}
+* {{cog|es|flete|t=cargo, freight; charter (hire of a vehicle for transporting cargo)}}
+{{rel-bottom}}
+
+====Noun====
 {{en-noun|-|s}}
 
-# [[payment|Payment]] for [[transportation]].
-#: ''The '''freight''' was more expensive for cars than for coal.''
+# {{lb|en|uncountable}} The [[transportation]] of [[goods]] (originally by [[water#Noun|water]]; now also {{lb|en|chiefly|US}} by [[land#Noun|land]]); also, the [[hiring#Noun|hiring]] of a [[vehicle]] or [[vessel]] for such transportation.
+# {{lb|en|uncountable}} Goods or [[item]]s in [[transport#Noun|transport]]; [[cargo]], [[luggage]].
+#: {{ux|en|The '''freight''' shifted and the trailer turned over on the highway.}}
+#* {{quote-journal|en|year=2019|month=October|title=South Wales open access bid|journal=Modern Railways|page=15|passage=Space for carrying light '''freight''' also features in Grand Union's proposal. The company says it is working with partners at Intercity Railfreight on the logistics of this, with refrigerated space to be available for movement of urgent NHS biological materials. Initially '''freight''' would be carried in the DVTs of the Class 91/Mk 4 sets, while on the Class 802s the kitchen/buffet would be located towards the centre of the train to make space for '''freight'''.}}
+# {{lb|en|countable}} [[payment|Payment]] for transportation.
+#: {{ux|en|The '''freight''' was more expensive for cars than for coal.}}
 #* '''1881''', ''{{w|Federal Reporter}}'', 1st Series, Vol. 6, [[s:Page:Federal Reporter, 1st Series, Volume 6.djvu/424|p. 412]]:
 #*: Had the ship earned her '''freight'''? To earn '''freight''' there must, of course, be either a right delivery, or a due and proper offer to deliver the goods to the consignees.
-# [[goods|Goods]] or [[item]]s in [[transport]].
-#: {{ux|en|The '''freight''' shifted and the trailer turned over on the highway.}}
-#* {{quote-journal|en|year=2019|month=October|title=South Wales open access bid|journal=Modern Railways|page=15|text=Space for carrying light '''freight''' also features in Grand Union's proposal. The company says it is working with partners at Intercity Railfreight on the logistics of this, with refrigerated space to be available for movement of urgent NHS biological materials. Initially '''freight''' would be carried in the DVTs of the Class 91/Mk 4 sets, while on the Class 802s the kitchen/buffet would be located towards the centre of the train to make space for '''freight'''.}}
-# Transport of goods.
-#: ''They shipped it ordinary '''freight''' to spare the expense.''
-# {{lb|en|rail|countable}} A [[freight train]].
+# {{lb|en|figuratively}}
+## {{lb|en|countable}} A [[burden#Noun|burden]], a [[load#Noun|load]].
+## {{lb|en|specifically|uncountable}} [[cultural|Cultural]] or [[emotional]] [[association]]s.
+##* '''2007''', B. Richards, ''Emotional Governance: Politics, Media and Terror'' (page 116)
+##*: This may seem to be a quite unrealistic aim, until we note that some contributors to the emotional public sphere – advertising creatives – are very aware of the emotional '''freight''' that simple words may carry, {{...}}
+# {{lb|en|countable|originally|US|rail transport}} {{short for|en|freight train}}
+#: {{ux|en|They shipped it ordinary '''freight''' to spare the expense.}}
 #* {{quote-journal|en|year=1961|month=July|author=J.Geoffrey Todd|title=Impressions of railroading in the United States: Part Two|journal=Trains Illustrated|page=423|text=Two westbound '''freights''' were in the vicinity and the operator was kept busy passing them radio messages with the latest information on the late running of the streamliners, to allow the enginemen to keep moving until the last possible minute before they had to sidetrack their trains to let the fast trains overtake.}}
-# {{lb|en|figurative}} [[cultural|Cultural]] or [[emotional]] associations.
-#* '''2007''', B. Richards, ''Emotional Governance: Politics, Media and Terror'' (page 116)
-#*: This may seem to be a quite unrealistic aim, until we note that some contributors to the emotional public sphere – advertising creatives – are very aware of the emotional '''freight''' that simple words may carry, {{...}}
 
-====Synonyms====
-* {{l|en|cargo}}
-* {{l|en|luggage}}
-
-====Derived terms====
+=====Derived terms=====
 {{der-top|Terms derived from ''freight''}}
 * {{l|en|freight car}}
 * {{l|en|freight carrier}}
-* {{l|en|freighter}}
+* {{l|en|freightless}} {{qualifier|rare}}
 * {{l|en|freight operating company}}
 * {{l|en|freight train}}
 * {{l|en|freight wagon}}, {{l|en|freightwagon}}
@@ -45,23 +52,65 @@ From {{inh|en|enm|freyght}}, from {{der|en|dum|vracht}}, {{der|en|gml|vrecht||co
 * {{l|en|time freight}}
 {{der-bottom}}
 
-====Related terms====
-* {{l|en|fraught}}
+=====Related terms=====
+* {{l|en|fraught|pos=noun}}
 
-====Translations====
+=====Translations=====
+{{trans-top|transportation of goods}}
+* Bulgarian: {{t+|bg|превоз|m}}
+* Dutch: {{t+|nl|vracht|m}}, {{t+|nl|cargo|m}}
+* Finnish: {{t+|fi|kuljetus}}, {{t+|fi|rahti}}
+* French: {{t+|fr|fret|m}}
+* Georgian: {{t+|ka|ფრახტი}}, {{t|ka|ფრახტირება}}, {{t|ka|ტვირთის გადაზიდვა}}
+* Greek: {{t+|el|μεταφορά|f}}
+{{trans-mid}}
+* Japanese: {{t|ja|[[貨物]][[輸送]]|tr=かもつゆそう, kamotsu yusō}}
+* Polish: {{t|pl|fracht|m}}
+* Russian: {{t+|ru|фрахт|m}}, {{t+|ru|перево́зка|f}}, {{t+|ru|транспортиро́вка|f}}
+* Spanish: {{t|es|transporte de mercancías|m}}
+* Swedish: {{t+|sv|frakt|c}}
+{{trans-bottom}}
+
+{{trans-top|hiring of a vehicle or vessel for such transportation}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top-also|goods or items in transport|cargo}}
+* Armenian: {{t+|hy|բեռ}}
+* Bulgarian: {{t+|bg|товар|m}}
+* Czech: {{t+|cs|náklad|m}}
+* Dutch: {{t+|nl|vracht|m}}, {{t+|nl|cargo|m}}
+* Finnish: {{t+|fi|kuorma}}, {{t+|fi|lasti}}, {{t+|fi|rahti}}, {{t|fi|rahtitavara}}
+* French: {{t+|fr|fret}}, {{t+|fr|cargaison|f}} {{qualifier|maritime}}, {{t+|fr|chargement|m}} {{qualifier|rare}}
+* Georgian: {{t+|ka|ფრახტი}}, {{t|ka|ტვირთი}}
+* German: {{t+|de|Fracht|f}}
+* Greek: {{t+|el|φορτίο|n}}
+*: Ancient: {{t|grc|γόμος|m}}, {{t|grc|φορτίον|n}}
+{{trans-mid}}
+* Japanese: {{t+|ja|貨物|tr=かもつ, kamotsu}}
+* Khmer: {{t+|km|បន្ទុក}}
+* Maori: {{t|mi|utanga}}
+* Polish: {{t|pl|fracht|m}}
+* Portuguese: {{t+|pt|carga|f}}
+* Russian: {{t+|ru|фрахт|m}}, {{t+|ru|груз|m}}
+* Scottish Gaelic: {{t|gd|luchd|m}}
+* Spanish: {{t+|es|flete|m}}, {{t+|es|carga|f}}, {{t+|es|cargamento|m}}
+* Swedish: {{t|sv|fraktgods}}
+{{trans-bottom}}
+
 {{trans-top|payment for transportation}}
-* Bulgarian: {{t|bg|фрахт|m|sc=Cyrl}}
+* Bulgarian: {{t|bg|фрахт|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|運費}}, {{t+|cmn|运费|tr=yùnfèi}}
 * Coptic: {{t|cop|ⲛⲁⲩⲗⲟⲛ|m}}
-* Dutch: {{t+|nl|vrachtprijs|m}}, {{t+|nl|vracht|f}}
+* Dutch: {{t+|nl|vracht|f}}, {{t+|nl|vrachtprijs|m}}
 * Finnish: {{t|fi|kuljetusmaksu}}, {{t|fi|rahtimaksu}}
 * French: {{t+|fr|fret|m}}
 * German: {{t+|de|Fracht|f}}
 * Greek: {{t+|el|ναύλος|m}}
-{{trans-mid}}
 * Icelandic: {{t+|is|farmgjald|n}}
-* Japanese: {{t|ja|[[貨物]][[輸送]][[運賃]]|tr=かもつゆそううんちん, kamotsu yusō unchin|sc=Jpan}}
+{{trans-mid}}
+* Japanese: {{t|ja|[[貨物]][[輸送]][[運賃]]|tr=かもつゆそううんちん, kamotsu yusō unchin}}
 * Latin: {{t|la|onus|n}}
 * Polish: {{t|pl|fracht|m}}
 * Portuguese: {{t+|pt|frete|m}}
@@ -72,92 +121,105 @@ From {{inh|en|enm|freyght}}, from {{der|en|dum|vracht}}, {{der|en|gml|vrecht||co
 * Thai: {{t|th|ค่าระวางสินค้า}}
 {{trans-bottom}}
 
-{{trans-top|goods}}
-* Armenian: {{t+|hy|բեռ}}
-* Bulgarian: {{t+|bg|товар|m}}
-* Czech: {{t+|cs|náklad|m}}
-* Dutch: {{t+|nl|vracht|m}}, {{t+|nl|cargo|m}}
-* Finnish: {{t|fi|rahtitavara}}, {{t+|fi|rahti}}, {{t+|fi|lasti}}, {{t+|fi|kuorma}}
-* French: {{t+|fr|fret}}, {{t+|fr|cargaison|f}} {{qualifier|maritime}}, {{t+|fr|chargement|m}} {{qualifier|rare}}
-* Georgian: {{t+|ka|ფრახტი}}, {{t|ka|ტვირთი}}
-* German: {{t+|de|Fracht|f}}
-* Greek: {{t+|el|φορτίο|n}}
-*: Ancient: {{t|grc|φορτίον|n}}, {{t|grc|γόμος|m}}
-* Japanese: {{t+|ja|貨物|tr=かもつ, kamotsu|sc=Jpan}}
+{{trans-see|burden, load|burden|load}}
+
+{{trans-top|cultural or emotional associations}}
 {{trans-mid}}
-* Khmer: {{t+|km|បន្ទុក}}
-* Maori: {{t|mi|utanga}}
-* Polish: {{t|pl|fracht|m}}
-* Portuguese: {{t+|pt|carga|f}}
-* Russian: {{t+|ru|груз|m}}, {{t+|ru|фрахт|m}}
-* Scottish Gaelic: {{t|gd|luchd|m}}
-* Spanish: {{t+|es|carga|f}}, {{t+|es|flete|m}}, {{t+|es|cargamento|m}}
-* Swedish: {{t|sv|fraktgods}}
 {{trans-bottom}}
 
-{{trans-top|transport of goods}}
-* Bulgarian: {{t+|bg|превоз|m|sc=Cyrl}}
-* Dutch: {{t+|nl|vracht|m}}, {{t+|nl|cargo|m}}
-* Finnish: {{t+|fi|kuljetus}}, {{t+|fi|rahti}}
-* French: {{t+|fr|fret|m}}
-* Georgian: {{t|ka|ფრახტირება}}, {{t|ka|ტვირთის გადაზიდვა}}, {{t+|ka|ფრახტი}}
-* Greek: {{t+|el|μεταφορά|f}}
-{{trans-mid}}
-* Japanese: {{t|ja|[[貨物]][[輸送]]|tr=かもつゆそう, kamotsu yusō|sc=Jpan}}
-* Polish: {{t|pl|fracht|m}}
-* Russian: {{t+|ru|перево́зка|f}}, {{t+|ru|фрахт|m}}, {{t+|ru|транспортиро́вка|f}}
-* Spanish: {{t|es|transporte de mercancías|m}}
-* Swedish: {{t+|sv|frakt|c}}
-{{trans-bottom}}
+{{trans-see|''short for'' freight train|freight train}}
 
 {{checktrans-top}}
-* Esperanto: {{t-check|eo|ŝarĝo}}, {{t-check|eo|kargo}}, {{t+check|eo|frajto}}
-* Indonesian: {{t+check|id|muat|alt=muatan}}, {{t+check|id|kargo}}
+* Esperanto: {{t+check|eo|frajto}}, {{t-check|eo|kargo}}, {{t-check|eo|ŝarĝo}}
+* Indonesian: {{t+check|id|kargo}}, {{t+check|id|muat|alt=muatan}}
 {{trans-mid}}
-* Korean: {{t+check|ko|짐|sc=Hang}}, {{t+check|ko|바리|sc=Hang}}
+* Korean: {{t+check|ko|짐}}, {{t+check|ko|바리}}
 {{trans-bottom}}
 
-===Verb===
-{{en-verb}} {{term-label|en|transitive}}
+===Etymology 2===
+The {{glossary|verb}} is derived from Late {{inh|en|enm|freighten}}, {{m|enm|freghten}}, a variant of {{m|enm|fraughten}}, {{m|enm|fraghten|t=to load (a ship with cargo or passengers); to hire (a ship) for transporting goods; to provide fully (with goods, money, etc.); to stow away}},<ref name="MED">{{R:MED Online|entry=fraughten|pos=v|id=MED17591}}</ref> and then either:
 
-# To [[transport#Verb|transport]] ([[goods]]).
-# {{lb|en|also|figuratively}} To [[load#Verb|load]] (a [[ship#Noun|ship]], etc.) with [[freight#Noun|freight]].
-#* {{RQ:Irving Astoria|volume=II|chapter=XXV|page=217|passage=On hearing of this determination, Mr. [[w:John Jacob Astor|[John Jacob] Astor]] immediately proceeded to fit out a ship called the Enterprise, to sail in company with the Adams, '''freighted''' with additional supplies and reinforcements for Astoria.}}
-#* '''1957''', {{w|James Baldwin}}, “{{w|Sonny’s Blues}},” in ''{{w|Going to Meet the Man}}'', Dial, 1965,<sup>[https://books.google.com/books?id=Gc1WAAAAQBAJ&printsec=frontcover#v=onepage&q&f=false]</sup>
-#*: Everything I did seemed awkward to me, and everything I said sounded '''freighted''' with hidden meaning.
-#* {{quote-journal|en|author=Rupert Christiansen|authorlink=Rupert Christiansen|title=English translations rarely sing|work={{w|The Daily Telegraph}} (Review)|date=1 March 2014|page=R19|passage=English National Opera is a title '''freighted''' with implications, and that first adjective promises not only a geographical reach, but a linguistic commitment too.}}
+* from {{m|enm|fraught}}, {{m|enm|fraght|pos=noun}} (see [[#Etymology 1|etymology 1]])<ref>Compare {{R:OED Online|pos=v|id=74454|date=December 2020|nodot=1}}; {{R:Lexico|pos=v}}</ref> + {{m|enm|-en|pos={{glossary|suffix}} forming the {{glossary|infinitive}} form of verbs}};<ref>{{R:MED Online|entry=-en|pos=''suf.''(3)|noformat=1|id=MED13518}}</ref> or
+* from {{der|en|dum|vrachten}}, {{m|dum|vrechten|t=to load (a ship with cargo or passengers); to hire (a ship) for transporting goods, to fraught}}, from {{m|dum|vracht}}, {{m|dum|vrecht|pos=noun}} (see etymology 1) + {{m|dum|-en|pos=suffix forming the infinitive form of verbs}}.
 
-====Derived terms====
+The {{glossary|adjective}} is:
+
+* derived from {{inh|en|enm|freght}}, {{m|enm|freight}}, {{m|enm|freyght}}, the {{glossary|past}} {{glossary|participle}} of {{m|enm|fraughten|pos=verb}} (see above);<ref name="MED"/> and/or
+* a {{contraction|en|freighted|nocap=1}}, the past participle of the verb.<ref>{{R:OED Online|entry=† freight|pos=adj|id=74455|date=March 2021}}</ref>
+
+====Verb====
+{{en-verb}}
+
+# {{lb|en|transitive}}
+## To [[load#Verb|load]] (a [[vehicle]] or [[vessel]]) with [[freight#Noun|freight]] ([[cargo]]); also, to [[hire#Verb|hire]] or [[rent out]] (a vehicle or vessel) to [[carry#Verb|carry]] cargo or [[passenger]]s.
+##* {{RQ:Irving Astoria|volume=II|chapter=XXV|page=217|passage=On hearing of this determination, Mr. [[w:John Jacob Astor|[John Jacob] Astor]] immediately proceeded to fit out a ship called the Enterprise, to sail in company with the Adams, '''freighted''' with additional supplies and reinforcements for Astoria.}}
+## To [[transport#Verb|transport]] ([[goods]]).
+## {{lb|en|by extension}} To load or [[store#Verb|store]] (goods, etc.).
+## {{lb|en|figuratively}} To carry (something) as if it is a [[burden#Noun|burden]] or [[load#Noun|load]].
+# {{lb|en|intransitive|US|also|figuratively}} ''Chiefly followed by'' '''[[up#Adverb|up]]''': to carry as [[part#Noun|part]] of a cargo.
+
+=====Conjugation=====
+{{en-conj-simple}}
+
+=====Derived terms=====
 * {{l|en|afreight}}
-* {{l|en|freighted}}
-* {{l|en|freighting}}
+* {{l|en|freightage}}
+* {{l|en|freighted|pos=adjective}}
+* {{l|en|freighter}}
+* {{l|en|freighting|pos=noun}}
 
-====Related terms====
-* {{l|en|fraught}}
+=====Related terms=====
+* {{l|en|fraught|pos=verb}}
 
-====Translations====
-{{trans-top|to transport goods}}
-* Bulgarian: {{t+|bg|превозвам|sc=Cyrl}}
-* Finnish: {{t+|fi|rahdata}}, {{t+|fi|kuljettaa}}
+=====Translations=====
+{{trans-top|to load (a vehicle or vessel) with freight (cargo)}}
+* Bulgarian: {{t+|bg|товаря}}
+* Finnish: {{t+|fi|kuormata}}, {{t+|fi|kuormittaa}}, {{t+|fi|lastata}}
+* Greek: {{t+|el|φορτώνω}}
+{{trans-mid}}
+* Japanese: {{t+|ja|積む|tr=つむ, tsumu}}
+* Spanish: {{t+|es|cargar}}
+{{trans-bottom}}
+
+{{trans-top|to hire or rent out (a vehicle or vessel) to carry cargo or passengers}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to transport (goods)}}
+* Bulgarian: {{t+|bg|превозвам}}
+* Finnish: {{t+|fi|kuljettaa}}, {{t+|fi|rahdata}}
 * Greek: {{t+|el|μεταφέρω}}
-* Japanese: {{t|ja|貨物輸送|tr=かもつゆそう, kamotsu yusō|sc=Jpan}}
+* Japanese: {{t|ja|貨物輸送|tr=かもつゆそう, kamotsu yusō}}
 {{trans-mid}}
 * Maori: {{t|mi|taritari}}
 * Norwegian: {{t+|no|frakte}}
 * Swedish: {{t+|sv|frakta}}
 {{trans-bottom}}
 
-{{trans-top|to load with freight}}
-* Bulgarian: {{t+|bg|товаря|sc=Cyrl}}
-* Finnish: {{t+|fi|lastata}}, {{t+|fi|kuormata}}, {{t+|fi|kuormittaa}}
-* Greek: {{t+|el|φορτώνω}}
+{{trans-top|to load or store (goods, etc.)}}
 {{trans-mid}}
-* Japanese: {{t+|ja|積む|tr=つむ, tsumu|sc=Jpan}}
-* Spanish: {{t+|es|cargar}}
 {{trans-bottom}}
 
-===See also===
-* {{Wikisource1911Enc Citation|Freight}}
+{{trans-top|to carry (something) as if it is a burden or load}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to carry as part of a cargo}}
+{{trans-mid}}
+{{trans-bottom}}
+
+====Adjective====
+{{en-adj}}
+
+# {{lb|en|obsolete}} [[freighted#Adjective|Freighted]]; [[laden#Adjective|laden]].
+
+===References===
+<references/>
+
+===Further reading===
+* {{pedia|cargo}}
+* {{pedia|freight transport}}
+* {{projectlink|1911|Freight}}
 
 ===Anagrams===
 * {{anagrams|en|a=efghirt|fighter|refight}}
