@@ -77,29 +77,24 @@ From {{inh|fo|non|vika}}, from {{inh|fo|gem-pro|*wikǭ}}, from {{der|fo|ine-pro|
 ==Finnish==
 
 ===Pronunciation===
-{{fi-pronunciation}}
+{{fi-p}}
 
 ===Etymology 1===
 {{etymid|fi|flaw}}
 From {{inh|fi|fiu-fin-pro|*vika}}. Cognate with {{cog|et|viga}}.
 
 ====Noun====
-{{head|fi|noun}}
+{{fi-noun}}
 
 # [[flaw]], [[malfunction]], [[failure]], [[problem]]
-#: ''Koneessa on '''vika'''.''
-#:: There is a '''malfunction''' in the machine.
-#: ''Kun hän näki '''vian''', hän vain kohautti olkapäitään ja alkoi korjata sitä.''
-#:: When he saw the '''problem''', he just shrugged and started fixing it.
+#: {{ux|fi|Koneessa on '''vika'''.|There is a '''malfunction''' in the machine.}}
+#: {{ux|fi|Kun hän näki '''vian''', hän vain kohautti olkapäitään ja alkoi korjata sitä.|When he saw the '''problem''', he just shrugged and started fixing it.}}
 # [[fault]]
-#: ''Se on sinun '''vikasi'''.''
-#:: It is your '''fault'''.
+#: {{ux|fi|Se on sinun '''vikasi'''.|It is your '''fault'''.}}
 # [[stain]] or [[flaw]] in character
-# [[wrong]] (''adjective'').
-#: ''Älä valita! Ruoassasi ei ole mitään '''vikaa'''.''
-#:: Stop complaining! There's nothing '''wrong''' with your food.
-#: ''Kännykässäni on jotain '''vikaa'''.''
-#:: Something is '''wrong''' with my cellphone.
+# [[wrong]] {{gloss|adjectival}}
+#: {{ux|fi|Älä valita! Ruoassasi ei ole mitään '''vikaa'''.|Stop complaining! There's nothing '''wrong''' with your food.}}
+#: {{ux|fi|Kännykässäni on jotain '''vikaa'''.|Something is '''wrong''' with my cellphone.}}
 
 =====Declension=====
 {{fi-decl-kala|vi|k||a}}
@@ -158,12 +153,13 @@ From {{inh|fi|fiu-fin-pro|*vika}}. Cognate with {{cog|et|viga}}.
 
 ===Etymology 2===
 {{etymid|fi|last}}
-Colloquial form of {{m|fi|viimeinen||last}}.
+{{clipping|fi|viimeinen||last}}. See also {{m|fi|-ka}}.
 
 ====Adjective====
-{{head|fi|noun}}
+{{fi-adj}}
 
 # {{lb|fi|colloquial}} the [[last]]
+{{ux|fi|'''Vikana''' hypännyt häviää.|The one that jumps last loses.}}
 
 =====Declension=====
 {{fi-decl-kala|pos=adj|vik|||a}}
