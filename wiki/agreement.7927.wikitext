@@ -58,7 +58,7 @@ Morphologically {{suffix|en|agree|ment|nocat=1}}
 * Bulgarian: {{t+|bg|съгла́сие|n}}
 * Catalan: {{t+|ca|acord|m}}, {{t+|ca|pacte|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|協議|sc=Hani}}, {{t+|cmn|协议|tr=xiéyì|sc=Hani}}, {{t+|cmn|同意|tr=tóngyì}}, {{t+|cmn|答應}}, {{t+|cmn|答应|tr=dāying}}, {{t+|cmn|協定}}, {{t+|cmn|协定|tr=xiédìng}}
+*: Mandarin: {{t+|cmn|協議}}, {{t+|cmn|协议|tr=xiéyì}}, {{t+|cmn|同意|tr=tóngyì}}, {{t+|cmn|答應}}, {{t+|cmn|答应|tr=dāying}}, {{t+|cmn|協定}}, {{t+|cmn|协定|tr=xiédìng}}
 * Corsican: {{t|co|accordu|m}}
 * Czech: {{t|cs|domluva|f}}, {{t+|cs|souhlas|m}}, {{t+|cs|soulad|m}}
 * Danish: {{t+|da|aftale|c}}, {{t+|da|samtykke|n}}
@@ -68,7 +68,7 @@ Morphologically {{suffix|en|agree|ment|nocat=1}}
 * French: {{t+|fr|accord|m}}, {{t+|fr|entente|f}}, {{t+|fr|pacte|m}}
 * Galician: {{t+|gl|acordo|m}}
 * German: {{t+|de|Vereinbarung|f}}, {{t+|de|Zustimmung|f}}
-* Greek: {{t+|el|συμφωνία|f|sc=Grek}}
+* Greek: {{t+|el|συμφωνία|f}}
 *: Ancient: {{t|grc|συμφώνησις|f}}
 * Hebrew: {{t+|he|הֶסְכֵּם|m|tr=heském}}, {{t|he|הַסְכָּמָה|f|tr=haskamá}}
 * Hindi: {{t|hi|इक़रार|m}}
@@ -78,7 +78,7 @@ Morphologically {{suffix|en|agree|ment|nocat=1}}
 * Japanese: {{t+|ja|合意|tr=ごうい, gōi}}, {{t+|ja|一致|tr=いっち, itchi}}, {{t+|ja|納得|tr=なっとく, nattoku}}, {{t+|ja|賛成|tr=さんせい, sansei}}
 * Kazakh: {{t+|kk|келісім}}
 * Khmer: {{t|km|កិច្ចព្រមព្រៀង}}, {{t+|km|កតិកា}}
-* Korean: {{t|ko|협정}}, {{t+|ko|합의}}, {{t+|ko|동의}}
+* Korean: {{t|ko|협정(協定)}}, {{t+|ko|합의(合意)}}, {{t+|ko|동의(同意)}}
 * Kurdish:
 *: Central Kurdish: {{t|ckb|یەککەوتن}}
 * Kyrgyz: {{t+|ky|макулдук}}, {{t+|ky|келишим}}
@@ -93,17 +93,17 @@ Morphologically {{suffix|en|agree|ment|nocat=1}}
 * Mirandese: {{t|mwl|acuordo|m}}
 * Navajo: {{t|nv|ahaʼdeetʼaah}}
 * Norman: {{t|nrf|accord|m}} {{qualifier|Jersey}}
-* Norwegian: {{t+|no|avtale|m}}, {{t+|no|samtykke|n}}
-*: Bokmål: {{t|nb|overenskomst|m}}
-* Persian: {{t+|fa|پیمان|tr=peymân|sc=fa-Arab}}, {{t+|fa|توافق|tr=tavâfoq}}
+* Norwegian:
+*: Bokmål: {{t+|nb|avtale|m}}, {{t+|nb|samtykke|n}}, {{t|nb|overenskomst|m}}
+* Persian: {{t+|fa|پیمان|tr=peymân}}, {{t+|fa|توافق|tr=tavâfoq}}
 * Polish: {{t+|pl|umowa|f}}
 * Portuguese: {{t+|pt|consenso|m}}, {{t+|pt|acordo|m}}, {{t+|pt|pacto|m}}
 * Romanian: {{t+|ro|acord|n}}, {{t+|ro|consens|n}}, {{t+|ro|înțelegere|f}}
 * Russian: {{t+|ru|согла́сие|n}}, {{t+|ru|догово́р|m}}, {{t+|ru|до́говор|m}}, {{t+|ru|соглаше́ние|n}}, {{t+|ru|договорённость|f}}
 * Scottish Gaelic: {{t|gd|aontachadh|m}}, {{t|gd|còrdadh|m}}, {{t|gd|aonta|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|споразум|m}}
-*: Roman: {{t+|sh|sporazum|m}}
+*: Cyrillic: {{t|sh|спо̏разӯм|m}}
+*: Roman: {{t+|sh|spȍrazūm|m}}
 * Sicilian: {{t+|scn|accordu|m}}, {{t+|scn|accordiu|m}}
 * Slovak: {{t+|sk|dohoda|f}}
 * Slovene: {{t|sl|dogovor|m}}
@@ -141,6 +141,7 @@ Morphologically {{suffix|en|agree|ment|nocat=1}}
 * Hungarian: {{t+|hu|egyetértés}}
 * Italian: {{t+|it|accordo|m}}, {{t+|it|convenzione|f}}, {{t+|it|patto|m}}
 * Japanese: {{t+|ja|合意|tr=ごうい, gōi}}, {{t+|ja|協定|tr=きょうてい, kyōtei}}
+* Kazakh: {{t+|kk|келiсiм}}
 * Kurdish:
 *: Central Kurdish: {{t|ckb|یەککەوتن}}
 {{trans-mid}}
@@ -150,8 +151,9 @@ Morphologically {{suffix|en|agree|ment|nocat=1}}
 * Mirandese: {{t|mwl|acuordo|m}}
 * Navajo: {{t|nv|ahaʼdeetʼaah}}
 * Norman: {{t|nrf|accord|m}}
-* Norwegian: {{t+|no|enighet|m}}, {{t|no|overensstemmelse|m}}
-* Persian: {{t+|fa|توافق|tr=tavâfoq|sc=fa-Arab}}
+* Norwegian:
+*: Bokmål: {{t+|nb|enighet|m}}, {{t|nb|overensstemmelse|m}}
+* Persian: {{t+|fa|توافق|tr=tavâfoq}}
 * Polish: {{t+|pl|zgoda|f}}, {{t+|pl|porozumienie|n}}
 * Portuguese: {{t+|pt|acordo|m}}
 * Russian: {{t+|ru|согла́сие|n}}
@@ -181,7 +183,7 @@ Morphologically {{suffix|en|agree|ment|nocat=1}}
 * Catalan: {{t+|ca|contracte|m}}, {{t+|ca|conveni|m}}, {{t+|ca|acord|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|合同|tr=hétong}}, {{t+|cmn|合約}}, {{t+|cmn|合约|tr=héyuē}}
-* Czech: {{t+|cs|dohoda|f}}
+* Czech: {{t+|cs|dohoda|f}}, {{t+|cs|smlouva|f}}
 * Danish: {{t+|da|aftale |c}}
 * Dutch: {{t+|nl|contract|n}}
 * Esperanto: {{t|eo|interkonsento}}
@@ -198,46 +200,47 @@ Morphologically {{suffix|en|agree|ment|nocat=1}}
 * Hungarian: {{t+|hu|megállapodás}}, {{t+|hu|megegyezés}}
 * Italian: {{t+|it|contratto|m}}
 * Japanese: {{t+|ja|合意|tr=ごうい, gōi}}
-* Kazakh: {{t+|kk|шарт}}
+* Kazakh: {{t+|kk|шарт}}, {{t+|kk|келiсiм}}
 * Khmer: {{t|km|កិច្ចព្រមព្រៀង}}, {{t+|km|សន្យា}}, {{t+|km|កតិកា}}
-* Korean: {{t+|ko|조약}}, {{t|ko|협정}}, {{t+|ko|합의}}
+* Korean: {{t+|ko|조약(條約)}}, {{t|ko|협정(協定)}}, {{t+|ko|합의(合意)}}
 * Kurdish:
 *: Northern Kurdish: {{t+|kmr|lihevhatin}}, {{t+|kmr|peyman}}
-* Kyrgyz: {{t|ky|макулдашуу}}
+* Kyrgyz: {{t|ky|макулдашуу}}, {{t+|ky|келишим}}, {{t+|ky|договор}}
 * Lao: {{t+|lo|ຂໍ້ຕົກລົງ}}, {{t+|lo|ກະຕິກາ}}
-* Latvian: {{t|lv|vienošana|f}}
+* Latvian: {{t|lv|vienošana|f}}, {{t|lv|līgums|m}}
 {{trans-mid}}
-* Lithuanian: {{t|lt|sutartis|f}}
-* Macedonian: {{t|mk|договор|m}}
+* Lithuanian: {{t|lt|sutartis|f}}, {{t|lt|sutartis|m}}
+* Macedonian: {{t|mk|договор|m}}, {{t|mk|спогодба|f}}
 * Malay: {{t|ms|perjanjian}}, {{t|ms|persetiaan}}
 * Malayalam: {{t+|ml|കരാർ}}
 * Maori: {{t|mi|kupu whakaae}}
 * Mongolian:
 *: Cyrillic: {{t+|mn|гэрээ}}
-*: Uyghurjin: {{t|mn|ᠭᠡᠷ᠎ᠡ}}
+*: Mongolian: {{t|mn|ᠭᠡᠷ᠎ᠡ}}
 * Navajo: {{t|nv|ahaʼdeetʼaah}}
-* Norwegian: {{t+|no|avtale|m}}
+* Norwegian:
+*: Bokmål: {{t+|nb|avtale|m}}
 * Occitan: {{t+|oc|acòrdi|m}}
 * Pashto: {{t+|ps|شرطنامه|f|tr=šartnāmá}}, {{t+|ps|پيمان|m|tr=paymãn}}
-* Persian: {{t+|fa|پیمان|tr=peymân|sc=fa-Arab}}, {{t|fa|توافق‎|tr=tavâfoq}}, {{t+|fa|مقاوله|tr=moqâvale}}
+* Persian: {{t+|fa|پیمان|tr=peymân}}, {{t|fa|توافق‎|tr=tavâfoq}}, {{t+|fa|مقاوله|tr=moqâvale}}
 * Polish: {{t+|pl|umowa|f}}
 * Portuguese: {{t+|pt|contrato|m}}
 * Romanian: {{t+|ro|contract|n}}
-* Russian: {{t+|ru|соглаше́ние|n}}, {{t+|ru|договорённость|f}}, {{t+|ru|догово́р|m}}, {{t+|ru|до́говор|m}}
+* Russian: {{t+|ru|соглаше́ние|n}}, {{t+|ru|догово́р|m}}, {{t+|ru|до́говор|m}}, {{t+|ru|договорённость|f}}
 * Scottish Gaelic: {{t|gd|còrdadh|m}}, {{t|gd|aonta|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|спо̏разӯм|m}}, {{t|sh|до̏гово̄р|m}}, {{t|sh|у̏гово̄р|m}}
 *: Roman: {{t+|sh|spȍrazūm|m}}, {{t+|sh|dȍgovōr|m}}, {{t+|sh|ȕgovōr|m}}
-* Slovak: {{t+|sk|dohoda|f}}
-* Slovene: {{t+|sl|pogodba|f}}
+* Slovak: {{t+|sk|dohoda|f}}, {{t|sk|zmluva|f}}
+* Slovene: {{t+|sl|pogodba|f}}, {{t|sl|dogovor|m}}
 * Spanish: {{t+|es|acuerdo|m}}, {{t+|es|convenio|m}}, {{t+|es|contrato|m}}
 * Swahili: {{t+|sw|maagano}}
 * Swedish: {{t+|sv|avtal|n}}
-* Tajik: {{t|tg|созишнома}}, {{t|tg|тавофуқ}}, {{t|tg|шартнома}}, {{t|tg|аҳднома}}
+* Tajik: {{t|tg|созишнома}}, {{t|tg|тавофуқ}}, {{t|tg|шартнома}}, {{t|tg|аҳднома}}, {{t|tg|паймон}}
 * Thai: {{t+|th|ความตกลง}} {{qualifier|international law}}, {{t|th|ข้อตกลง}} {{qualifier|any other sense}}, {{t+|th|กติกา}}
 * Turkish: {{t+|tr|sözleşme}}, {{t+|tr|mukavele}}
 * Turkmen: {{t|tk|şertnama}}
-* Ukrainian: {{t|uk|уго́да|f}}, {{t|uk|до́говір|m}}
+* Ukrainian: {{t|uk|уго́да|f}}, {{t|uk|до́говір|m}} {{t+|uk|умо́ва|f}}
 * Urdu: {{t|ur|اقرارنامه|tr=iqrār-nāma}}
 * Uyghur: {{t|ug|شەرتنامە‎}}
 * Uzbek: {{t+|uz|shartnoma}}, {{t+|uz|ahdnoma}}, {{t+|uz|ahd}}
@@ -270,7 +273,8 @@ Morphologically {{suffix|en|agree|ment|nocat=1}}
 * Kyrgyz: {{t+|ky|тууралаштыруу}}
 * Latin: {{t|la|congruentia|f}}
 * Norman: {{t|nrf|accord|m}}
-* Norwegian: {{t+|no|kongruens|m}}
+* Norwegian:
+*: Bokmål: {{t+|nb|kongruens|m}}
 * Polish: {{t+|pl|związek zgody|m}}, {{t|pl|kongruencja|f}}
 * Portuguese: {{t+|pt|concordância|f}}
 * Romanian: {{t+|ro|acord|n}}
@@ -291,7 +295,6 @@ Morphologically {{suffix|en|agree|ment|nocat=1}}
 * Indonesian: {{t+check|id|perjanjian}}, {{t+check|id|persetujuan}}, {{t+check|id|kesepakatan}}
 {{trans-mid}}
 * Romanian: {{t+check|ro|acord|n}}, {{t+check|ro|înțelegere|f}}
-* Serbo-Croatian: {{t+check|sh|dogovor}}, {{t-check|sh|договор|sc=Cyrl}}
 * Telugu: {{t+check|te|అంగీకారం}}, {{t+check|te|ఒప్పందం}}, {{t+check|te|ఒడంబడిక}}
 {{trans-bottom}}
 
