@@ -16,7 +16,7 @@ From {{inh|de|gmh|wagen}}, from {{inh|de|goh|wagan}}, from {{inh|de|gmw-pro|*wag
 Cognate with {{cog|nl|wagen}}, {{cog|en|wain}} (and {{m|en|wagon}}, borrowed from Dutch), {{cog|fy|wein}}, {{cog|da|vogn}}, {{cog|sv|vagn}}. {{doublet|de|Waggon}}, which was borrowed from English.
 
 ====Noun====
-{{de-noun|m||Wagen|pl2=Wägen|Wägelchen}}
+{{de-noun|m,,-:^|dim=Wägelchen}}
 
 # a wheeled vehicle for transporting anything
 ## a [[car]], an [[automobile]], a [[vehicle]]
@@ -36,8 +36,7 @@ Cognate with {{cog|nl|wagen}}, {{cog|en|wain}} (and {{m|en|wagon}}, borrowed fro
 * The plural {{m|de|Wägen}} is standard in [[Austrian German]]. In Germany it is chiefly colloquial and heard most commonly in southern regions. In some parts of central and northern Germany, both plurals are used with ''Wägen'' preferred for small trolleys, but ''Wagen'' for cars.
 
 =====Declension=====
-{{de-decl-noun-m|s}}
-{{de-decl-noun-m|s|pl=Wägen}}
+{{de-ndecl|m,,-:^}}
 
 =====Derived terms=====
 {{der3|de
@@ -84,12 +83,12 @@ Cognate with {{cog|nl|wagen}}, {{cog|en|wain}} (and {{m|en|wagon}}, borrowed fro
 ===Etymology 2===
 
 ====Noun====
-{{de-noun|n||-}}
+{{de-noun|n.sg}}
 
 # {{gerund of|de|wagen}}
 
 =====Declension=====
-{{de-decl-noun-n|s|n=sg}}
+{{de-ndecl|n.sg}}
 
 ===Further reading===
 * {{R:DWDS}}
