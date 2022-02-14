@@ -41,9 +41,9 @@
 * Asturian: {{t|ast|primer ministru|m}}
 * Azerbaijani: {{t|az|baş nazir}}
 * Basque: {{t|eu|lehen ministro}}
-* Belarusian: {{t|be|прэм'е́р-міні́стр|m|sc=Cyrl}}, {{t|be|прэм'е́р|m|sc=Cyrl}}, {{t|be|прэм'е́р-міні́стрка|f}}, {{t|be|прэм'е́рка|f}}
-* Bengali: {{t|bn|প্রধানমন্ত্রী|sc=Beng}}, {{t|bn|উজিরে আজম|tr=uzire azôm}}
-* Bulgarian: {{t|bg|мини́стър-председа́тел|m|sc=Cyrl}}, {{t|bg|премие́р|m|sc=Cyrl}}
+* Belarusian: {{t|be|прэм'е́р-міні́стр|m}}, {{t|be|прэм'е́р-міні́стар|m}}, {{t|be|прэм'е́р-міні́стрка|f}}, {{t|be|прэм'е́р-міні́старка|f}}, {{t|be|прэм'е́р|m}}, {{t|be|прэм'е́рка|f}}
+* Bengali: {{t|bn|প্রধানমন্ত্রী}}, {{t|bn|উজিরে আজম|tr=uzire azôm}}
+* Bulgarian: {{t|bg|мини́стър-председа́тел|m}}, {{t|bg|мини́стър-председа́телка|f}}, {{t|bg|премие́р|m}}, {{t|bg|премие́рка|f}}
 * Burmese: {{t+|my|ဝန်ကြီးချုပ်}}
 * Buryat: {{t|bua|юрэнхы һайд}}
 * Catalan: {{t|ca|primer ministre|m}}
@@ -52,7 +52,7 @@
 *: Cantonese: {{t|yue|首相|tr=sau2 soeng3}} {{qualifier|of the UK, Japan, etc.}}, {{t+|cmn|總理}}, {{t+|cmn|总理|tr=zung2 lei5}} {{qualifier|of Australia, New Zealand, Canada, etc.}}
 *: Mandarin: {{t+|cmn|首相|tr=shǒuxiàng}} {{qualifier|of the UK, Japan, etc.}}, {{t+|cmn|總理}}, {{t+|cmn|总理|tr=zǒnglǐ}} {{qualifier|of Australia, New Zealand, Canada, etc.}}
 *: Min Nan: {{t+|nan|首相|tr=siú-siòng}} {{qualifier|of the UK, Japan, etc.}}, {{t+|nan|總理}}, {{t|nan|总理|tr=chóng-lí}} {{qualifier|of Australia, New Zealand, Canada, etc.}}
-* Czech: {{t+|cs|premiér|m}}, {{t+|cs|ministerský předseda|m}}, {{t+|cs|premiérka|f}}
+* Czech: {{t+|cs|premiér|m}}, {{t+|cs|premiérka|f}}, {{t+|cs|ministerský předseda|m}}, {{t+|cs|ministerská předsedkyně|f}}
 * Danish: {{t+|da|statsminister|c}}, {{t|da|premierminister|c}}
 * Dutch: {{t+|nl|eerste minister|m}}, {{t+|nl|premier|m}}, {{t+|nl|minister-president|m}}
 * Esperanto: {{t|eo|ĉefministro}}, {{t|eo|ministroprezidanto}}, {{t|eo|premiero}}
@@ -77,7 +77,7 @@
 * Irish: {{t|ga|príomh-aire|m}}
 * Italian: {{t|it|primo ministro|m}}, {{t|it|prima ministra|f}}
 * Japanese: {{t+|ja|首相|tr=しゅしょう, shushō}}
-* Kazakh: {{t|kk|премьер-министр|sc=Cyrl}}
+* Kazakh: {{t|kk|премьер-министр}}
 * Khmer: {{t|km|នាយករដ្ឋមន្ត្រី}}, {{t+|km|អធិការបតី}}
 * Korean: {{t+|ko|총리(總理)}}, {{t+|ko|수상(首相)}}, {{t+|ko|각하(閣下)}} {{qualifier|honorific}}
 * Kyrgyz: {{t|ky|баш-министр}}, {{t|ky|премьер-министр}}
@@ -90,28 +90,27 @@
 * Maltese: {{t|mt|prim|m}}, {{t|mt|prim ministru|m}}
 * Manx: {{t|gv|ard-vinishter|m}}
 * Maori: {{t|mi|pirimia}}
-* Marathi: {{t|mr|प्रधान मंत्री|m|sc=Deva}}
+* Marathi: {{t|mr|प्रधान मंत्री|m}}
 * Mongolian:
-*: {{t|mn|ерөнхий сайд}} 
-*: {{t|mn|тэргүүн сайд}} {{qualifier|historical, Inner Mongolia}}
+*: Cyrillic: {{t|mn|ерөнхий сайд}}, {{t|mn|тэргүүн сайд}} {{qualifier|historical, Inner Mongolia}}
 * Norwegian:
 *: Bokmål: {{t+|no|statsminister|m}}
 *: Nynorsk: {{t|nn|statsminister|m}}
 * Occitan: {{t|oc|primièr ministre|m}}
 * Pashto: {{t|ps|لومړی وزير|m|tr=lumṛay wazír}}
 * Persian: {{t+|fa|نخست وزیر|tr=noxost vazir}}, {{t|fa|وزیر اعظم|tr=vazir-e a'zam}}
-* Polish: {{t+|pl|premier|m}}
+* Polish: {{t+|pl|premier|m}} {{qualifier|male or female}}
 * Portuguese: {{t+|pt|primeiro-ministro|m}}, {{t+|pt|premiê|m|f}}, {{t+|pt|premier|m|f}}
 * Romanian: {{t+|ro|prim-ministru|m}}, {{t+|ro|premier|m}}
-* Russian: {{t+|ru|премье́р-мини́стр|m}}, {{t+|ru|премье́р|m}}
+* Russian: {{t+|ru|премье́р-мини́стр|m}} {{qualifier|male or female}}, {{t+|ru|премье́р|m}} {{qualifier|male or female}}
 * Samogitian: {{t|sgs|mėnėstros pėrmėninks|m}}
 * Sanskrit: {{t|sa|प्रधान मंत्री|m}}
 * Scots: {{t|sco|prime meinster}}
 * Scottish Gaelic: {{t|gd|prìomhair|m}}
 * Semai: {{t|sea|perdane menteri}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|премијер|m}}, {{t|sh|премѝје̄рка|f}}
-*: Roman: {{t+|sh|premijer|m}}, {{t+|sh|premìjērka|f}}
+*: Cyrillic: {{t|sh|премѝје̄р|m}}, {{t|sh|премѝје̄рка|f}}
+*: Roman: {{t+|sh|premìjēr|m}}, {{t+|sh|premìjērka|f}}
 * Shan: {{t|shn|ဝုၼ်ႇၵျီးၶျုၵ်ႈ}}
 * Slovak: {{t|sk|predseda vlády|m}}, {{t|sk|predsedkyňa vlády|f}}, {{t|sk|premiér|m}}, {{t|sk|premiérka|f}}
 * Slovene: {{t|sl|premier|m}}, {{t|sl|premierka|f}}
@@ -127,7 +126,7 @@
 * Tongan: {{t|to|palemia}}
 * Turkish: {{t+|tr|başbakan}}
 * Turkmen: {{t|tk|premýer-ministr}}
-* Ukrainian: {{t+|uk|прем'є́р-міні́стр|m|sc=Cyrl}}, {{t+|uk|прем'є́р|m|sc=Cyrl}}, {{t|uk|прем'є́р-міні́стрка|f}}, {{t|uk|прем'є́рка|f}}
+* Ukrainian: {{t+|uk|прем'є́р-міні́стр|m}}, {{t|uk|прем'є́р-міні́стрка|f}}, {{t+|uk|прем'є́р|m}}, {{t|uk|прем'є́рка|f}}
 * Urdu: {{t|ur|وزیر اعظم|m|tr=vazīr-e-āzam}}, {{t|ur|پردھان منتری|m}}
 * Uyghur: {{t|ug|باش ۋەزىر}}, {{t|ug|باش مىنىستر}}
 * Uzbek: {{t|uz|bosh ministr}}, {{t|uz|bosh vazir}}
