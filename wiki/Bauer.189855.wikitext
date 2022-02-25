@@ -43,21 +43,21 @@ From {{bor|en|de|Bauer||farmer}}. Compare {{m|en|Bower}}.
 From {{inh|de|gmh|būre}}, {{m|gmh|gebūre}}, from {{inh|de|goh|būr}}, {{m|goh|gibūr}}, {{m|goh|gibūro}}, from {{inh|de|gem-pro|*būraz}}. Compare {{cog|en|boor}}.
 
 ====Noun====
-{{de-noun|m|Bauern|Bauern|Bäuerchen|dim2=Bäuerlein|f=Bäuerin}}
+{{de-noun|((<m.weak_n.[standard]>,<m,s,n.[colloquial]>))|dim=^chen,^lein|f=^in}}
 
-# [[farmer]], [[peasant]], [[boor]] {{q|male or of unspecified gender}}
+# [[farmer]] {{q|male or of unspecified gender}}
+#: {{syn|de|Landwirt|Farmer}}
+# [[peasant]] {{q|male or of unspecified gender}}
+# {{lb|de|pejorative}} [[boor]], [[yoken]], [[bumpkin]] {{q|male or of unspecified gender}}
 # {{lb|de|chess}} [[pawn]]
 # {{lb|de|card games}} [[jack]], [[knave]]
+#: {{syn|de|Bube<g:m>|Unter<g:m>}}
 
 =====Usage notes=====
 * ''Bauer'' is a weak noun in the standard language, but is part of a group of nouns which have a clear tendency to be strong colloquially, so one will often hear ''dem Bauer'' instead of ''dem Bauern''.
 
 =====Declension=====
-{{de-decl-noun-m|n|n}}
-
-=====Synonyms=====
-* {{sense|farmer}} {{l|de|Landwirt}}, {{l|de|Farmer}}
-* {{sense|playing card}} {{l|de|Bube|g=m}}, {{l|de|Unter|g=m}}
+{{de-ndecl|((<m.weak_n.[standard]>,<m,s,n.[colloquial]>))}}
 
 =====Derived terms=====
 {{der-top}}
@@ -94,16 +94,13 @@ From {{inh|de|gmh|būre}}, {{m|gmh|gebūre}}, from {{inh|de|goh|būr}}, {{m|goh|
 From {{inh|de|gmh|būr}}, from {{inh|de|goh|būr}}, from {{inh|de|gem-pro|*būraz}}.
 
 ====Noun====
-{{de-noun|n|g2=m|Bauers|Bauer}}
+{{de-noun|n:m}}
 
 # {{lb|de|archaic|or|regional}} [[birdcage]]
 #: {{syn|de|Vogelkäfig<g:m>|Vogelbauer<g:n,m>}}
 
 =====Declension=====
-; Neuter gender
-{{de-decl-noun-n|s}}
-; Masculine gender
-{{de-decl-noun-m|s}}
+{{de-ndecl|n:m}}
 
 =====Derived terms=====
 * {{l|de|Vogelbauer|g=m}}
