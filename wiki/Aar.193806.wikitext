@@ -56,16 +56,16 @@ From {{der|en|de|Aare}}, probably from a Celtic language.
 
 ==German==
 
-===Etymology===
-From {{inh|de|gmh|ar}}, {{m|gmh|arn}}, from {{inh|de|goh|aro}}, {{m|goh|arn}}, from {{inh|de|gem-pro|*arô}}.
-
 ===Pronunciation===
 * {{audio|de|De-Aar.ogg|audio}}
 * {{IPA|de|/aːɐ̯/}}
 * {{rhymes|de|aːɐ̯|s=1}}
 
-===Noun===
-{{de-noun|m|Aars|gen2=Aares|gen3=Aaren|Aare|pl2=Aaren}}
+===Etymology 1===
+From {{inh|de|gmh|ar}}, {{m|gmh|arn}}, from {{inh|de|goh|aro}}, {{m|goh|arn}}, from {{inh|de|gem-pro|*arô}}.
+
+====Noun====
+{{de-noun|((<m,es:s>,<m.weak>))}}
 
 # {{lb|de|poetic|formal|or|dated}} [[eagle]]
 #: {{syn|de|Adler}}
@@ -76,11 +76,22 @@ From {{inh|de|gmh|ar}}, {{m|gmh|arn}}, from {{inh|de|goh|aro}}, {{m|goh|arn}}, f
 #* '''1808''', {{w|Heinrich von Kleist}} († 1811), ''Die Herrmannschlacht. Ein Drama'', a drama, in: '''1870''', ''H. v. Kleists Werke. Kritisch durchgesehene Ausgabe. Erster Band'', edited by Heinrich Kurz, page 281:
 #*: {{quote|de|[...] der Habicht rupft / Die Brut des '''Aars''' [...]|the hawk fleeces / the '''eagle's''' brood}}
 
-====Declension====
-*Strong noun:
-{{de-decl-noun-m|(e)s|e}}
-*Weak noun:
-{{de-decl-noun-m|en|en}}
+=====Declension=====
+{{de-ndecl|((<m,es:s>,<m.weak>))}}
+
+===Etymology 2===
+
+====Proper noun====
+{{de-proper noun|f.article}}
+
+# {{place|de|tributary|riv/Rhine|in|c/Switzerland}}
+# {{place|de|left tributary|riv/Lahn|in|s/Rhineland-Palatinate,Hesse|c/Germany}}
+# {{place|de|left tributary|riv/Dill|in|s/Hesse|c/Germany}}
+# {{place|de|branch|riv/Ill|dept/Bas-Rhin|c/France}}
+# {{place|de|left tributary|riv/Twiste|s/Hesse|c/Germany}}
+
+=====Declension=====
+{{de-ndecl|f.article.sg}}
 
 ===Further reading===
 * {{R:Duden}}
