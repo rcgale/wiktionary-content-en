@@ -14,7 +14,9 @@ From {{inh|en|enm|accent}}, from {{der|en|frm|accent}}, from {{der|en|fro|acent}
 ====Noun====
 {{en-noun|~}}
 
-# {{lb|en|linguistics}} A higher-pitched or stronger [[articulation]] of a particular [[syllable]] of a word or phrase in order to [[distinguish]] it from the others or to [[emphasize]] it.
+# {{lb|en|linguistics}} A higher-pitched or stronger ([[loud]]er or [[long]]er) [[articulation]] of a particular [[syllable]] of a word or phrase in order to [[distinguish]] it from the others or to [[emphasize]] it.
+#: {{syn|en|stress}}
+#: {{hypo|en|stress|stress accent|pitch|pitch accent}}
 #: {{ux|en|In the word "careful", the '''accent''' is placed on the first syllable.}}
 # {{lb|en|figuratively}} Emphasis or importance in general.
 #: {{ux|en|At this hotel, the '''accent''' is on luxury.}}
@@ -63,14 +65,14 @@ The word "accent" is often used specifically to refer to manners of speech that 
 }}
 
 =====Translations=====
-{{trans-top|stronger articulation}}
-* Arabic: {{t|ar|نَبْر|m}}
+{{trans-top|higher-pitched or stronger articulation}}
+* Arabic: {{t|ar|نَبْر|m}}, {{t|ar|تَأْكِيد|m}}, {{t|ar|تَرْكِيز|m}}
 * Armenian: {{t+|hy|շեշտ}}
 * Asturian: {{t|ast|acentu|m}}
 * Azerbaijani: {{t+|az|vurğu}}
-* Bashkir: {{t|ba|баҫым|sc=Cyrl}}
+* Bashkir: {{t|ba|баҫым}}
 * Belarusian: {{t|be|на́ціск|m}}
-* Bulgarian: {{t+|bg|ударе́ние|n}}
+* Bulgarian: {{t+|bg|ударе́ние|n}}, {{t+|bg|акце́нт|m}}
 * Catalan: {{t+|ca|accent|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|重音|tr=zhòngyīn|sc=Hani}}, {{t+|cmn|腔調|sc=Hani}}, {{t+|cmn|腔調|tr=qiāngdiào|sc=Hani}}, {{t+|cmn|強勢}}, {{t+|cmn|强势|tr=qiángshì}}
@@ -80,21 +82,21 @@ The word "accent" is often used specifically to refer to manners of speech that 
 * Esperanto: {{t|eo|akcento}}
 * Estonian: {{t|et|rõhk}}
 * Faroese: {{t|fo|herðing|f}}
-* Finnish: {{t+|fi|paino}}
+* Finnish: {{t+|fi|paino}}, {{t+|fi|painotus}}
 * French: {{t+|fr|accent|m}}
 * Galician: {{t|gl|acento|m}}
 * German: {{t+|de|Betonung|f}}
-* Greek: {{t+|el|τόνος|m}}
+* Greek: {{t+|el|τόνος|m}}, {{t+|el|τονισμός|m}}
 *: Ancient: {{t|grc|τόνος|m}}
 * Hebrew: {{t+|he|טַעַם|m|tr=tá'am}}
-* Hungarian: {{t+|hu|hangsúly}}
+* Hungarian: {{t+|hu|hangsúly}}, {{t+|hu|nyomaték}}
 * Icelandic: {{t|is|áhersla|f}}
 * Ido: {{t+|io|acento}}
 * Indonesian: {{t+|id|aksen}}
 * Irish: {{t|ga|aiceann|m}}, {{t|ga|béim ghutha|f}}
 * Italian: {{t+|it|accento|m}}
 {{trans-mid}}
-* Japanese: {{t|ja|強音|tr=きょうおん, kyōon}}, {{t+|ja|強調|tr=きょうちょう, kyōchō}}, {{t+|ja|アクセント|tr=akusento}}, {{t+|ja|強勢|tr=きょうせい, kyōsei}}
+* Japanese: {{t|ja|強音|tr=きょうおん, kyōon}}, {{t+|ja|強調|tr=きょうちょう, kyōchō}}, {{t+|ja|アクセント|tr=akusento}}, {{t+|ja|強勢|tr=きょうせい, kyōsei}}, {{t|ja|重き|tr=おもき, omoki}}
 * Khmer: {{t|km|តានា}}
 * Korean: {{t|ko|강세}}
 * Kumyk: {{t|kum|ургъу}}
@@ -104,19 +106,23 @@ The word "accent" is often used specifically to refer to manners of speech that 
 * Malay: {{t|ms|aksen}}
 * Norman: {{t|nrf|accent|m}} {{qualifier|Jersey}}
 * Norwegian: {{t+|no|aksent|m}}, {{t+|no|trykk|n}}, {{t|no|betoning|m}}
+* Persian: {{t+|fa|تأکید|tr=ta'kid}}
 * Polish: {{t+|pl|akcent|m-in}}, {{t+|pl|nacisk|m-in}}
-* Portuguese: {{t+|pt|acento|m}}, {{t+|pt|tonicidade|f}}
+* Portuguese: {{t+|pt|acento|m}}, {{t+|pt|tonicidade|f}}, {{t+|pt|ênfase|f}}
 * Romanian: {{t+|ro|accent|n}}, {{t+|ro|intonație|f}}
-* Russian: {{t+|ru|ударе́ние|n}}
+* Russian: {{t+|ru|ударе́ние|n}}, {{t+|ru|акце́нт|m}}
 * Sardinian: {{t|sc|atzentu|m}}
 * Scottish Gaelic: {{t|gd|beum|m}}
-* Serbo-Croatian: {{t+|sh|naglasak|m}}, {{t|sh|нагласак|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|а̀кцент|m}}, {{t|sh|на́гласак|m}}
+*: Roman: {{t+|sh|àkcent|m}}, {{t+|sh|náglasak|m}}
 * Slovak: {{t+|sk|prízvuk|m}}
 * Slovene: {{t+|sl|naglàs|m-in}}
-* Spanish: {{t+|es|acento|m}}
+* Spanish: {{t+|es|acento|m}}, {{t+|es|énfasis|m}}
 * Swedish: {{t+|sv|accent|c}}, {{t+|sv|betoning|c}}
-* Turkish: {{t+|tr|vurgu}}
-* Ukrainian: {{t|uk|на́голос|m}}
+* Tagalog: {{t|tl|lundo}}
+* Turkish: {{t+|tr|vurgu}}, {{t+|tr|tonlama}}
+* Ukrainian: {{t|uk|на́голос|m}}, {{t+|uk|акце́нт|m}}
 * Uyghur: {{t|ug|ئۇرغۇ}}
 * Vietnamese: {{t+|vi|trọng âm}} ({{t|vi|重音|sc=Hani}})
 * Votic: {{t|vot|rõhka}}
