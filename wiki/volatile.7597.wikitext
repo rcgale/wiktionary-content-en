@@ -172,6 +172,8 @@ From {{etyl|frm|en}} {{m|frm|volatile}}, from {{etyl|la|en}} {{m|la|volātilis||
 
 # A [[chemical]] or [[compound]] that changes into a [[gas]] easily.
 # {{lb|en|programming}} A [[variable]] that is volatile, i.e. has its associated memory immediately updated with any change in value.
+#* '''2011''', Victor Pankratius, ‎Ali-Reza Adl-Tabatabai, ‎Walter Tichy, ''Fundamentals of Multicore Software Development'' (page 74)
+#*: Operations on C++ '''volatiles''' do put the compiler on notice that the object may be modified asynchronously, and hence are generally safer to use than ordinary variable accesses.
 
 ----
 
