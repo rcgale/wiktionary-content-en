@@ -14,13 +14,13 @@ Cognate with {{cog|ofs|arm}}, {{cog|osx|arm}}, {{cog|nl|arm}}, {{cog|goh|arm}} (
 ====Noun====
 {{ang-noun|m}}
 
-# [[arm]]
+# {{senseid|ang|arm}} [[arm]]
 
 =====Declension=====
 {{ang-decl-noun-a-m|earm}}
 
 =====Descendants=====
-* {{desctree|enm|arm}}
+* {{desctree|enm|arm|id=arm}}
 
 ===Etymology 2===
 From {{inh|ang|gem-pro|*armaz}}, further etymology uncertain.
@@ -30,7 +30,7 @@ Cognate with {{cog|ofs|erm}}, {{cog|osx|arm}}, {{cog|nl|arm}}, {{cog|goh|arm}} (
 ====Adjective====
 {{ang-adj}}
 
-# [[poor]], [[miserable]]
+# {{senseid|ang|poor}} [[poor]], [[miserable]]
 
 =====Declension=====
 {{ang-adecl|earm}}
@@ -39,9 +39,7 @@ Cognate with {{cog|ofs|erm}}, {{cog|osx|arm}}, {{cog|nl|arm}}, {{cog|goh|arm}} (
 * {{l|ang|earmcearig}}
 
 =====Descendants=====
-* {{desc|enm|arm}}
-** {{desc|en|arm}}
-** {{desc|sco|arm}}
+* {{desctree|enm|arm|id=poor}}
 
 {{topics|ang|Anatomy}}
 
