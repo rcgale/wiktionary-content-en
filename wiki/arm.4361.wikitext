@@ -996,14 +996,13 @@ From {{inh|odt|gmw-pro|*arm}}, from {{inh|odt|gem-pro|*armaz}}.
 ====Noun====
 {{head|odt|noun|g=m}}
 
-# {{topics|odt|Body parts}} [[#English|arm]]
+# {{senseid|odt|arm}} {{topics|odt|Body parts}} [[#English|arm]]
 
 =====Inflection=====
 {{rfinfl|odt|noun}}
 
 =====Descendants=====
-* {{desc|dum|arm}}
-** {{desc|nl|arm}}
+* {{desctree|dum|arm|id=arm}}
 
 =====Further reading=====
 * {{R:ONW|728|I}}
@@ -1014,7 +1013,7 @@ From {{inh|odt|gmw-pro|*arm}}, from {{inh|odt|gem-pro|*armaz}}.
 ====Adjective====
 {{head|odt|adjective}}
 
-# [[poor]]
+# {{senseid|odt|poor}} [[poor]]
 
 =====Inflection=====
 {{rfinfl|odt|adjective}}
@@ -1023,8 +1022,7 @@ From {{inh|odt|gmw-pro|*arm}}, from {{inh|odt|gem-pro|*armaz}}.
 * {{l|odt|armo}}
 
 =====Descendants=====
-* {{desc|dum|arm}}
-** {{desc|nl|arm}}
+* {{desctree|dum|arm|id=poor}}
 
 =====Further reading=====
 * {{R:ONW|2166|II}}
