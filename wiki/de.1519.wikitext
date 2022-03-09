@@ -53,15 +53,41 @@ From {{der|mul|fr|de}}.
 ==Alemannic German==
 
 ===Alternative forms===
-* {{l|gsw|der}} {{q|prevocalic}}
-* {{alter|gsw|dr||Bern}}
+* {{alter|gsw|der||preconsonantic & prevocalic}}
+* {{alter|gsw|der||prevocalic, besides preconsonantic ''de''}}
+* {{alter|gsw|d'r|dr||Bern}}
 
 ===Article===
 {{head|gsw|article}}
 
-# {{lb|gsw|definite|regional}} [[the]]
+# {{lb|gsw|definite}} [[the]]
+#* '''1879''', Leonhard Steiner, ''Glärnisch-Fahrt. Gedicht in Zürcher Mundart'', p. 10:
+#*: [...] Fründ der Natur [...]
+#* '''1879''', Leonhard Steiner, ''Glärnisch-Fahrt. Gedicht in Zürcher Mundart'', p. 30:
+#*: [...]; der erst und de zweit Stock [...]
 
 ====Declension====
+Zürich:
+{| class="wikitable"
+! rowspan="2" |  !! colspan="3" | Singular !! rowspan="2" | Plural
+|-
+! Masculine !! Feminine !! Neuter
+|-
+! Nominative
+| {{l|gsw|de}}<br/> {{l|gsw|der}} {{q|before a vowel}} || {{l|gsw|d'}} || {{l|gsw|'s}}<br/> (at the beginning of a sentence or verse: {{l|gsw|S'}}) || {{l|gsw|de}}, {{l|gsw|d'}}
+|-
+! Genitive
+|  || {{l|gsw|der}} ||  || 
+|-
+! Dative
+| {{l|gsw|dem}} || {{l|gsw|der}}, {{l|gsw|de}} || {{l|gsw|dem}} || {{l|gsw|de}}
+|-
+! Accusative
+| {{l|gsw|de}}<br/> {{l|gsw|der}} {{q|before a vowel}} || {{l|gsw|de}}, {{l|gsw|d'}}, {{l|gsw|d'-}} || {{l|gsw|'s}} || {{l|gsw|d'}}, {{l|gsw|d'-}}
+|}
+
+
+whatever:
 {{gsw-decl-definite article}}
 
 Other forms include:
