@@ -12,11 +12,11 @@
 From older {{m|sh|človek}}, from {{inh|sh|sla-pro|*čьlověkъ}}, {{m|sla-pro|*čelověkъ}}, from {{inh|sla-pro|ine-bsl-pro|*kelawaikas}}.
 
 ===Pronunciation===
-* {{sh-IPA|čȍvek}}
+* {{sh-IPA|čȍvek}} or {{sh-IPA|čòvek}}
 * {{hyphenation|sh|čo|vek}}
 
 ===Noun===
-{{sh-noun|g=m|head=čȍvek}}
+{{sh-noun|g=m|head=čȍvek|head2=čòvek}}
 
 # [[man]], [[person]]
 #: {{ux|sh|jeste li vid(j)eli ovog čov(j)eka?|t=have you seen this man?|inline=1}}
@@ -28,20 +28,41 @@ From older {{m|sh|človek}}, from {{inh|sh|sla-pro|*čьlověkъ}}, {{m|sla-pro|
 # [[person]] of [[integrity]], [[mensch]]
 
 ====Declension====
-{{sh-decl-noun|title=Irregular declension
+{{sh-decl-noun|title=Irregular declension, with nominative čȍvek
 |čȍvek|ljȗdi
-|čȍveka|ljúdī
-|čȍveku|ljúdima
-|čȍveka|ljȗde
+|čovèka|ljúdī
+|čovèku|ljúdima
+|čovèka|ljȗde
 |čȍveče|ljȗdi
-|čȍveku|ljúdima
-|čȍvekom|ljúdima
+|čovèku|ljúdima
+|čovèkom|ljúdima
+}}
+
+{{sh-decl-noun|title=Irregular declension, with nominative čòvek
+|čòvek|ljȗdi
+|čòveka|ljúdī
+|čòveku|ljúdima
+|čòveka|ljȗde
+|čȍveče|ljȗdi
+|čòveku|ljúdima
+|čòvekom|ljúdima
+}}
+
+{{sh-decl-noun|title=Archaic or dialectal plural
+||čòveci
+||čoveka
+||čovecima
+||čoveke
+||čoveci
+||čovecima
+||čovecima
 }}
 
 ===References===
 * {{R:sh:HJP|f1piWxA%3D}}
 * {{R:sh:RSHKJ|vol=6|page=891}}
 * {{R:sh:RSJ2007|1520}}
+* {{R:sh:RJA|čòvjek|68|2}}
 
 [[Category:Serbo-Croatian suppletive nouns]]
 [[Category:sh:People]]
