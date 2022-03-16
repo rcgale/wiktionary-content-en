@@ -1,19 +1,21 @@
 ==Serbo-Croatian==
 
 ===Alternative forms===
-* {{q|Ekavian}}: {{l|sh|čȍvek}}
-* {{q|Ikavian, Čakavian}}: {{l|sh|čovik}}, {{l|sh|človik}}
-* {{q|obsolete}}: {{l|sh|človek}}, {{l|sh|človjek}}
+* {{alter|sh|čȍvek||Ekavian}}
+* {{alter|sh|čovik|človik||Ikavian|Čakavian}}
+* {{alter|sh|človek||archaic|Kajkavian}}
+* {{alter|sh|človjek||obsolete}}
+* {{alter|sh|čoek|čojek|čȏk||regional|colloquial}}
 
 ===Etymology===
-From older {{m|sh|človjek}}, from {{der|sh|sla-pro|*čьlověkъ}}, {{m|sla-pro|*čelověkъ}}.
+From older {{m|sh|človjek}}, from {{der|sh|sla-pro|*čьlověkъ}}, {{m|sla-pro|*čelověkъ}}, from {{inh|sh|ine-bsl-pro|*kelawaikas}}.
 
 ===Pronunciation===
-* {{sh-IPA|čȍvjek}}
+* {{sh-IPA|čȍvjek}} or {{sh-IPA|čòvjek}}
 * {{hyphenation|sh|čo|vjek}}
 
 ===Noun===
-{{sh-noun|g=m|head=čȍvjek}}
+{{sh-noun|g=m|head=čȍvjek|head2=čòvjek}}
 
 # [[man]], [[person]]
 #: {{ux|sh|jeste li vid(j)eli ovog čov(j)eka?|t=have you seen this man?|inline=1}}
@@ -25,19 +27,40 @@ From older {{m|sh|človjek}}, from {{der|sh|sla-pro|*čьlověkъ}}, {{m|sla-pro
 # [[person]] of [[integrity]], [[mensch]]
 
 ====Declension====
-{{sh-decl-noun|title=Irregular declension
+{{sh-decl-noun|title=Irregular declension, with nominative čȍvjek
 |čȍvjek|ljȗdi
-|čȍvjeka|ljúdī
-|čȍvjeku|ljúdima
-|čȍvjeka|ljȗde
+|čovjèka|ljúdī
+|čovjèku|ljúdima
+|čovjèka|ljȗde
 |čȍvječe|ljȗdi
-|čȍvjeku|ljúdima
-|čȍvjekom|ljúdima
+|čovjèku|ljúdima
+|čovjèkom|ljúdima
+}}
+
+{{sh-decl-noun|title=Irregular declension, with nominative čòvjek
+|čòvjek|ljȗdi
+|čòvjeka|ljúdī
+|čòvjeku|ljúdima
+|čòvjeka|ljȗde
+|čȍvječe|ljȗdi
+|čòvjeku|ljúdima
+|čòvjekom|ljúdima
+}}
+
+{{sh-decl-noun|title=Archaic or dialectal plural
+||čòvjeci
+||čovjeka
+||čovjecima
+||čovjeke
+||čovjeci
+||čovjecima
+||čovjecima
 }}
 
 ===References===
 * {{R:sh:HJP|f1piWxA%3D}}
 * {{R:sh:RSHKJ|vol=6|page=891}}
 * {{R:sh:RSJ2007|1520}}
+* {{R:sh:RJA|čòvjek|68|2}}
 
 [[Category:sh:People]]
