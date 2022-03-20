@@ -24,7 +24,7 @@ Morphologically {{suffix|en|differ|ence|nocat=1}}.
 #* {{quote-journal|en|title=Towards the end of poverty| date=2013-06-01| volume=407| issue=8838| page=11| magazine={{w|The Economist}}| url=http://www.economist.com/news/leaders/21578665-nearly-1-billion-people-have-been-taken-out-extreme-poverty-20-years-world-should-aim| passage=But poverty’s scourge is fiercest below $1.25 (the average of the 15 poorest countries’ own poverty lines, measured in 2005 dollars and adjusted for '''differences''' in purchasing power): people below that level live lives that are poor, nasty, brutish and short.}}
 #: {{ux|en|There are three '''differences''' between these two pictures.}}
 # {{lb|en|countable}} A [[disagreement]] or [[argument]].
-#: ''We have our little '''differences''', but we are firm friends.''
+#: {{ux|en|We have our little '''differences''', but we are firm friends.}}
 #* {{RQ:Shakespeare Cymbeline|I|v|passage=What was the '''difference'''? It was a contention in public.}}
 #* '''1714''', {{w|Thomas Ellwood}}, '' The History of the Life of Thomas Ellwood: written by his own hand''
 #*: Away therefore went I with the constable, leaving the old warden and the young constable to compose their '''difference''' as they could.
@@ -35,12 +35,12 @@ Morphologically {{suffix|en|differ|ence|nocat=1}}.
 #: {{ux|en|It just won't make much '''difference''' to me.}}
 #: {{ux|en|It just won't make much of a '''difference''' to anyone.}}
 # {{senseid|en|subtraction}} {{lb|en|countable}} The result of a [[subtraction]]; sometimes the [[absolute value]] of this result.
-#: ''The '''difference''' between 3 and 21 is 18.''
+#: {{ux|en|The '''difference''' between 3 and 21 is 18.}}
 # {{lb|en|obsolete}} Choice; preference.
-#* {{RQ:Spenser Faerie Queene|book=II|canto=XII|passage=That now be chooseth with vile '''difference''' / To be a beast, and lack intelligence.}}
+#* {{RQ:Spenser Faerie Queene|book=II|canto=XII|passage=That now be chooseth with vile '''difference''' <br> To be a beast, and lack intelligence.}}
 # {{lb|en|heraldry}} An addition to a [[coat of arms]] to distinguish two people's [[bearing]]s which would otherwise be the same. See {{m|en|augmentation}} and {{m|en|cadency}}.
 # {{lb|en|logic}} The quality or attribute which is added to those of the [[genus]] to constitute a [[species]]; a [[differentia]].
-# {{lb|en|logic circuits}} A [[Boolean]] operation which is [[TRUE]] when the two input variables are different but is otherwise FALSE; the [[XOR]] operation (<math>\scriptstyle A \overline B + \overline A B</math>).
+# {{lb|en|logic circuits}} A [[Boolean]] operation which is [[true]] when the two input variables are different but is otherwise [[false]]; the [[XOR]] operation (<math>\scriptstyle A \overline B + \overline A B</math>).
 # {{lb|en|relational algebra}} the set of elements that are in one set but not another (<math>\scriptstyle A \overline B</math>).
 
 ====Synonyms====
@@ -125,7 +125,7 @@ Morphologically {{suffix|en|differ|ence|nocat=1}}.
 * Malayalam: {{t+|ml|വ്യത്യാസം}}
 * Middle English: {{t|enm|difference}}
 * Mongolian: {{t+|mn|ялгаа}}
-* Nepali: {{t|ne|फरक|tr=pharak}}, {{t+|ne|अन्तर|tr=antar}}
+* Nepali: {{t|ne|फरक}}, {{t+|ne|अन्तर}}
 * Norwegian:
 *: Bokmål: {{t+|nb|forskjell|m}}, {{t|nb|differanse|m}}
 *: Nynorsk: {{t|nn|skilnad|m}}, {{t|nn|forskjell|m}}, {{t|nn|differanse|m}}
@@ -329,7 +329,7 @@ Morphologically {{suffix|en|differ|ence|nocat=1}}.
 {{trans-mid}}
 * Hindi: {{t|hi|फ़रक़ करना}}
 * Ido: {{t+|io|diferar}}
-* Nepali: {{t|ne|फरक छुट्याउनू|tr=pharak chuṭyāunu}}
+* Nepali: {{t|ne|फरक छुट्याउनू}}
 * Persian: {{t+|fa|فرق گذاشتن|tr=farq gozâštan}}
 * Portuguese: {{t+|pt|diferenciar}}
 * Swedish: {{t+|sv|skilja}}, {{t|sv|skilja åt}}
