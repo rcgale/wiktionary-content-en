@@ -16,22 +16,16 @@ From the ending of the words {{m|en|quintuple}}, {{m|en|sextuple}}; from Latin {
 {{en-noun}}
 
 # {{lb|en|set theory}} A [[finite]] [[sequence]] of [[term]]s.
-#: ''A '''tuple''' is not merely a totally-ordered set because the same element can appear more than once in a '''tuple''': for example, <math>(a, b, a)</math> qualifies as a 3-'''tuple''' whereas it would not qualify as a totally-ordered set (of cardinality 3), because the set would be <math>\{a, b\}</math> where <math>a \le b </math> and <math>b \le a</math> so that <math>a = b</math>; i.e., it would actually be a one-element set, <math>\{a\}</math>, not even just two-element.''
-#: ''If commutativity were added to a [[tuple]], it would turn into a multiset or "bag". For example, words (of some alphabetic language) can be considered to be [[tuple]]s of letters. If the ordering requirement on those letters were lifted, then the word would become a multiset of letters equivalent to those of its anagrams.''
-# {{lb|en|computing}} A single [[row]] in a [[relational database]].
+#: {{hypo|en|n-tuple|q1=n terms|ordered pair|q2=two terms|triple|triplet|q3=three terms}}
+# {{lb|en|databases}} A single [[row]] in a [[relational database]].
 # {{lb|en|computing}} A [[set]] of comma-separated [[value]]s passed to a program or operating system as a [[parameter]] to a [[function]] [[call]].
-# {{lb|en|computing}} In some programming languages, a [[data type]] that is similar to but distinct from the [[list]] data type, whose instances are characterized by having a rather fixed [[arity]], and the elements of which instances can differ from each other by data type. (''Note'': this definition may overlap with the previous one.)
-#: ''Both Python and Haskell have a '''tuple''' data type as well as a list data type.''
-#: ''Unlike lists, '''tuples''' are not formed by [[cons]]ing.''
-
-====Synonyms====
-* {{sense|finite sequence of terms}} {{l|en|n-tuple|''n''-tuple}} (''when the sequence contains'' n ''terms''), [[ordered pair]] (''when the sequence contains exactly two terms''), [[triple]] ''or'' [[triplet]] (''when the sequence contains exactly three terms'')
+# {{lb|en|programming}} A fixed-size container [[data type]] similar to a [[list]] that can hold different types of elements.
+#: {{ux|en|Both Python and Haskell have a '''tuple''' data type as well as a list data type.}}
+#: {{ux|en|Unlike lists, '''tuples''' are not formed by [[cons]]ing.}}
 
 ====Related terms====
 * {{l|en|-tuple}}
-* {{l|en|ordered pair}}
 * {{l|en|tuplet}}
-* {{l|en|component}}
 
 ====Translations====
 {{trans-top|in set theory}}
@@ -53,7 +47,7 @@ From the ending of the words {{m|en|quintuple}}, {{m|en|sextuple}}; from Latin {
 * Swedish: {{t+|sv|tupel|c}}, {{t+|sv|tipel|c}}
 {{trans-bottom}}
 
-{{trans-top|row (record) in a database}}
+{{trans-top|single row in a database}}
 * Finnish: {{t+|fi|monikko}}
 * German: {{t+|de|Tupel|n}}
 * Japanese: {{t|ja|タプル|tr=tapuru|sc=Jpan}}, {{t+|ja|組|tr=kumi|sc=Jpan}}
@@ -69,6 +63,10 @@ From the ending of the words {{m|en|quintuple}}, {{m|en|sextuple}}; from Latin {
 {{trans-mid}}
 * Polish: {{t|pl|krotka|f}}
 * Russian: {{t+|ru|корте́ж|m|tr=kortɛ́ž}}
+{{trans-bottom}}
+
+{{trans-top|container data type}}
+{{trans-mid}}
 {{trans-bottom}}
 
 ===Anagrams===
