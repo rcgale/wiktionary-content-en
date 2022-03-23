@@ -8,6 +8,7 @@
 {{en-noun}}
 
 # {{lb|en|set theory|of a set}} The number of [[element]]s a given set contains.
+#: {{syn|en|power}}
 #: {{ux|en|The empty set has a '''cardinality''' of zero.}}
 #* {{quote-web|en|author=Johan de Jong|authorlink=|title=Set Theory|work=The Stacks Project|url=https://stacks.math.columbia.edu/download/sets.pdf|archiveurl=|archivedate=|location=|publisher=|year=2005|accessdate=2018-2-26|passage=The ''cardinality'' of a set ''A'' is the least ordinal ''α'' such that there exists a bijection between ''A'' and ''α''. We sometimes use the notation <math>\alpha = |A|</math> to indicate this.}}
 #* '''2006''', Michael Smithson, Jay Verkuilen, ''Fuzzy Set Theory: Applications in the Social Sciences'', {{w|SAGE Publications}}, [https://books.google.com.au/books?id=CZ_GVh2ApjIC&pg=PA37&dq=%22cardinality%22%7C%22cardinalities%22&hl=en&sa=X&ved=0ahUKEwjcj5ywv_DaAhWCg5AKHcJHCdYQ6AEIUjAJ#v=onepage&q=%22cardinality%22%7C%22cardinalities%22&f=false page 37],
@@ -20,9 +21,6 @@
 
 ====Usage notes====
 {{sense|set theory}} The cardinality of an infinite set is an infinite [[cardinal number]]. The smallest such number, called {{m|en|aleph-null}} and denoted {{m|mul|ℵ₀}}, describes the [[natural numbers]]; the next is {{m|en|aleph-one}}. While it is known that the cardinality of the [[real numbers]] is greater than aleph-null, it is the subject of the still unproven [[continuum hypothesis]] that it equals aleph-one.
-
-====Synonyms====
-* {{sense|in set theory}} {{l|en|power}}
 
 ====Related terms====
 * {{l|en|cardinal}}
