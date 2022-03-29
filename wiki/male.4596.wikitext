@@ -705,10 +705,108 @@ From {{inh|li|dum|mālen}}, from {{inh|li|odt|*malan}}, from {{inh|li|gmw-pro|*m
 
 ==Middle English==
 
-===Noun===
+===Etymology 1===
+{{etymid|enm|male}}
+{{bor+|enm|fro|masle}}, {{m|fro|malle}}, from {{der|enm|LL.|masclus}}, from {{der|enm|la|masculus}}; compare {{m|enm|femele}} and {{m|enm|masculyn}}.
+
+====Alternative forms====
+* {{alter|enm|madle|mascle|mal|masle|maule|mawle}}
+
+====Pronunciation====
+* {{IPA|enm|/ˈmaːl(ə)/|/ˈmaːdlə/|/ˈmaːdəl/}}
+
+====Noun====
+{{enm-noun}}
+
+# A [[man]]; a male [[human]] or [[animal]].
+# {{lb|enm|rare}} A "male" [[gem]] or [[plant]].
+# {{lb|enm|rare}} [[manhood|Manhood]]; the [[state]] of being {{l|en|male}}.
+
+=====Descendants=====
+* {{desc|en|male}}
+* {{desc|sco|male}}
+
+=====References=====
+* {{R:MED Online|māle|n.(1)|MED26621}}
+
+====Adjective====
+{{enm-adj}}
+
+# {{l|en|male}} {{gloss|of [[masculine]] sex or gender}}
+# {{n-g|Used in extended reference to supposedly "male" [[gems]], [[plants]], or astrological portents.}}
+
+=====Descendants=====
+* {{desc|en|male}}
+* {{desc|sco|male}}
+
+=====References=====
+* {{R:MED Online|māle|adj.(2)|MED26625}}
+
+===Etymology 2===
+{{etymid|enm|bag}}
+{{bor+|enm|xno|-}} and continental {{bor|enm|fro|male}}, from {{der|enm|frk|*malhu}}, from {{der|enm|gem-pro|*malhō}}.
+
+====Alternative forms====
+* {{alter|enm|maile|mayll|maylle}}
+
+====Pronunciation====
+* {{IPA|enm|/ˈmaːl(ə)/}}
+
+====Noun====
+{{enm-noun}}
+
+# A [[bag]], [[pack]], or [[wallet]].
+# The [[belly]] or one of its contents; a [[gut]].
+
+=====Descendants=====
+* {{desc|en|mail}}
+* {{desc|sco|mail}}
+
+=====References=====
+* {{R:MED Online|māl(e|n.(2)|MED26622}}
+
+===Etymology 3===
+{{etymid|enm|apple}}
+{{bor+|enm|la|mālum}}, from {{der|enm|grc|μῆλον}}, of unknown origin.
+
+====Alternative forms====
+* {{alter|enm|maal}}
+
+====Pronunciation====
+* {{IPA|enm|/maːl/}}
+
+====Noun====
+{{head|enm|noun}}
+
+# {{tlb|enm|mostly|Late ME|uncommon}} The [[appletree]] ({{m|mul|Malus domestica}}) or its fruit.
+
+=====References=====
+* {{R:MED Online|māl(e|n.(3)|MED26623}}
+
+===Etymology 4===
+
+====Noun====
 {{head|enm|noun}}
 
 # {{alt form|enm|mayle}}
+
+===Etymology 5===
+
+====Noun====
+{{head|enm|noun}}
+
+# {{lb|enm|Northern ME}} {{alt form|enm|mel}}
+
+[[Category:enm:Anatomy]]
+[[Category:enm:Astrology]]
+[[Category:enm:Bags]]
+[[Category:enm:Botany]]
+[[Category:enm:Fruits]]
+[[Category:enm:Male]]
+[[Category:enm:Male people]]
+[[Category:enm:Geology]]
+[[Category:enm:Organs]]
+[[Category:enm:Trees]]
 
 ----
 
@@ -784,9 +882,7 @@ From {{der|fro|ML.|mala}}, from {{der|fro|frk|*malhu|*malha|t=leather bag}}.
 
 ====Descendants====
 * {{desc|xno|male}}
-** {{desc|enm|male|bor=1}}, {{l|enm|maile}}, {{l|enm|mayll}}
-*** {{desc|en|mail}}
-*** {{desc|sco|male}}, {{l|sco|mail}}
+** {{desctree|enm|male|id=bag|bor=1}}
 ** {{desc|ga|mála|bor=1|unc=1}} {{q|or perhaps via English}}
 * {{desc|frm|malle}}
 ** {{desc|fr|malle}}
