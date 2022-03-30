@@ -238,8 +238,8 @@ From {{inh|en|enm|banke}}, from {{der|en|frm|banque}}, from {{der|en|roa-oit|ban
 * Finnish: {{tt+|fi|pankki}}
 * French: {{tt+|fr|banque|f}}
 * Fula:
-:* Adlam: {{tt|ff|𞤦𞤢𞤲𞤳𞤭}}
-:* Latin: {{tt|ff|banki}}
+*: Adlam: {{tt|ff|𞤦𞤢𞤲𞤳𞤭}}
+*: Latin: {{tt|ff|banki}}
 * Galician: {{tt+|gl|banco|m}}, {{tt|gl|banca|f}}
 * Georgian: {{tt|ka|ბანკი}}
 * German: {{tt+|de|Bank|f}}
@@ -259,7 +259,7 @@ From {{inh|en|enm|banke}}, from {{der|en|frm|banque}}, from {{der|en|roa-oit|ban
 * Irish: {{tt+|ga|banc}}
 * Italian: {{tt+|it|banca|f}}, {{tt+|it|banco|m}}
 * Japanese: {{tt+|ja|銀行|tr=ぎんこう, ginkō}}, {{tt|ja|バンク|tr=banku}}
-* Javanese: {{t|jv|bang}}
+* Javanese: {{tt|jv|bang}}
 * Kamba: {{tt|kam|mbengi}}
 * Kannada: {{tt+|kn|ಬ್ಯಾಂಕ್}}
 * Kazakh: {{tt+|kk|банк}}
@@ -296,7 +296,7 @@ From {{inh|en|enm|banke}}, from {{der|en|frm|banque}}, from {{der|en|roa-oit|ban
 * Norwegian:
 *: Bokmål: {{tt+|nb|bank|m}}
 * Oriya: {{tt+|or|ବାଙ୍କ୍}}
-* Oromo: {{t|om|baankii}}
+* Oromo: {{tt|om|baankii}}
 * Pashto: {{tt+|ps|بانک|m|tr=bānk}}
 * Persian: {{tt+|fa|بانک|tr=bânk}}
 * Plautdietsch: {{tt|pdt|Bank|f}}
@@ -350,56 +350,57 @@ From {{inh|en|enm|banke}}, from {{der|en|frm|banque}}, from {{der|en|roa-oit|ban
 {{trans-bottom}}
 
 {{trans-top|branch office}}{{multitrans|data=
-* Arabic: {{tt|ar|مَصْرِف|m}}, {{tt+|ar|بَنْك|m}}
-* Armenian: {{tt+|hy|բանկ}}, {{tt+|hy|դրամատուն}}
-* Asturian: {{tt|ast|bancu|m}}
-* Basque: {{tt|eu|banketxe}}
-* Breton: {{tt+|br|ti-bank|m}}
-* Bulgarian: {{tt|bg|банк}}
-* Burmese: {{tt+|my|ဘဏ်တိုက်}}
-* Catalan: {{tt+|ca|banc|m}}
+* Arabic: {{t|ar|مَصْرِف|m}}, {{t+|ar|بَنْك|m}}
+* Armenian: {{t+|hy|բանկ}}, {{t+|hy|դրամատուն}}
+* Asturian: {{t|ast|bancu|m}}
+* Basque: {{t|eu|banketxe}}
+* Breton: {{t+|br|ti-bank|m}}
+* Bulgarian: {{t|bg|банк}}
+* Burmese: {{t+|my|ဘဏ်တိုက်}}
+* Catalan: {{t+|ca|banc|m}}
 * Chinese:
-*: Mandarin: {{tt+|cmn|銀行}}, {{tt+|cmn|银行|tr=yínháng}}
-* Crimean Tatar: {{tt|crh|bank}}
-* Czech: {{tt+|cs|banka}}
-* Danish: {{tt+|da|bank}}, {{tt|da|bankfilial}}
-* Dutch: {{tt+|nl|bank|f}}
-* Esperanto: {{tt|eo|banko}}
-* Estonian: {{tt+|et|pank}}
-* Finnish: {{tt+|fi|pankki}}
-* French: {{tt+|fr|banque|f}}
-* German: {{tt+|de|Bank|f}}
-* Greek: {{tt+|el|τράπεζα|f}}, {{tt+|el|υποκατάστημα|n}}
-* Hebrew: {{tt+|he|בַּנְק|m|tr=bank}}
-* Icelandic: {{tt+|is|banki|m}}, {{tt|is|bankaútibú|n}}
-* Indonesian: {{tt+|id|bank}}
+*: Mandarin: {{t+|cmn|銀行}}, {{t+|cmn|银行|tr=yínháng}}
+* Crimean Tatar: {{t|crh|bank}}
+* Czech: {{t+|cs|banka}}
+* Danish: {{t+|da|bank}}, {{t|da|bankfilial}}
+* Dutch: {{t+|nl|bank|f}}
+* Esperanto: {{t|eo|banko}}
+* Estonian: {{t+|et|pank}}
+* Finnish: {{t+|fi|pankki}}
+* French: {{t+|fr|banque|f}}
+* German: {{t+|de|Bank|f}}
+* Greek: {{t+|el|τράπεζα|f}}, {{t+|el|υποκατάστημα|n}}
+* Hebrew: {{t+|he|בַּנְק|m|tr=bank}}
+* Icelandic: {{t+|is|banki|m}}, {{t|is|bankaútibú|n}}
+* Indonesian: {{t+|id|bank}}
 {{trans-mid}}
-* Interlingua: {{tt|ia|banca}}
-* Italian: {{tt+|it|banca|f}}
-* Japanese: {{tt+|ja|銀行|tr=ぎんこう, ginkō}}, {{tt|ja|バンク|tr=banku}}
-* Korean: {{tt+|ko|은행(銀行)}}
+* Interlingua: {{t|ia|banca}}
+* Italian: {{t+|it|banca|f}}
+* Japanese: {{t+|ja|銀行|tr=ぎんこう, ginkō}}, {{t|ja|バンク|tr=banku}}
+* Korean: {{t+|ko|은행(銀行)}}
 * Lü: {{t-needed|khb}}
-* Macedonian: {{tt|mk|ба́нка|f}}
-* Norman: {{tt|nrf|banque|f}} {{qualifier|Jersey}}
-* Norwegian: {{tt+|no|bank|m}}
-* Plautdietsch: {{tt|pdt|Bank|f}}
-* Polish: {{tt+|pl|bank|m-in}}
-* Portuguese: {{tt+|pt|banco|m}}
-* Russian: {{tt+|ru|банк|m}}
+* Macedonian: {{t|mk|ба́нка|f}}
+* Norman: {{t|nrf|banque|f}} {{qualifier|Jersey}}
+* Norwegian:
+*: Bokmål: {{t+|nb|bank|m}}
+* Plautdietsch: {{t|pdt|Bank|f}}
+* Polish: {{t+|pl|bank|m-in}}
+* Portuguese: {{t+|pt|banco|m}}
+* Russian: {{t+|ru|банк|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{tt|sh|банка|f}}
-*: Roman: {{tt+|sh|banka|f}}
-* Slovak: {{tt|sk|banka}}, {{tt|sk|pobočka}}
-* Slovene: {{tt+|sl|banka|f}}
+*: Cyrillic: {{t|sh|банка|f}}
+*: Roman: {{t+|sh|banka|f}}
+* Slovak: {{t|sk|banka}}, {{t|sk|pobočka}}
+* Slovene: {{t+|sl|banka|f}}
 * Sorbian:
-*: Lower Sorbian: {{tt|dsb|banka|f}}
-* Spanish: {{tt+|es|banco|m}}, {{tt+|es|sucursal|f}}
-* Swedish: {{tt+|sv|bank|c}}, {{tt+|sv|bankkontor|n}}
+*: Lower Sorbian: {{t|dsb|banka|f}}
+* Spanish: {{t+|es|banco|m}}, {{t+|es|sucursal|f}}
+* Swedish: {{t+|sv|bank|c}}, {{t+|sv|bankkontor|n}}
 * Turkish: {{t+|tr|banka}}
 * Ukrainian: {{t+|uk|банк|m}}
-* Volapük: {{tt+|vo|bank}}
-* West Frisian: {{tt|fy|bank}}
-* Zhuang: {{tt|za|ngaenzhangz}}
+* Volapük: {{t+|vo|bank}}
+* West Frisian: {{t|fy|bank}}
+* Zhuang: {{t|za|ngaenzhangz}}
 }}
 {{trans-bottom}}
 
