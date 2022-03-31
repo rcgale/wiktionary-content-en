@@ -243,10 +243,10 @@ From {{inh|dum|odt|bēn}}, from {{inh|dum|gmw-pro|*bain}}, from {{inh|dum|gem-pr
 ==Middle English==
 
 ===Etymology 1===
-From a conflation of {{inh|enm|ang|bēon}} and {{m|ang|wesan}}, from {{inh|enm|gem-pro|*beuną}} and {{m|gem-pro|*wesaną}}, from {{inh|enm|ine-pro|*bʰewHeti }} and a conflation of {{m|ine-pro|*h₂wéseti}} and {{m|ine-pro|*h₁ésti}}.
+From a conflation of {{inh|enm|ang|bēon}} and {{m|ang|wesan}}, from {{inh|enm|gmw-pro|*beun}} and {{m|gmw-pro|*wesan}}, from {{inh|enm|gem-pro|*beuną}} and {{m|gem-pro|*wesaną}}, from {{inh|enm|ine-pro|*bʰewHeti}} and a conflation of {{m|ine-pro|*h₂wéseti}} and {{m|ine-pro|*h₁ésti}}.
 
 ====Alternative forms====
-* {{alter|enm|beon|boen|bean|ben|be}}
+* {{alter|enm|be|bean|ben|beon|boen}}
 * {{q|from {{m|ine-pro||*h₁ésti}}|rare}} {{alter|enm|seen|sen}}
 
 ====Pronunciation====
@@ -256,11 +256,21 @@ From a conflation of {{inh|enm|ang|bēon}} and {{m|ang|wesan}}, from {{inh|enm|g
 ====Verb====
 {{enm-verb|is|beynge|was|been}}
 
-# to {{l|en|be}}
-#* '''1382''', {{w|John Wycliffe}}, translation of the Bible (John 1:48)
-#*: {{quote|enm|Bifor that Filip clepide thee, whanne thou '''were''' vndur the fige tree, Y saiy thee.}}
-#* '''1407''', ''{{w|The Testimony of William Thorpe}}'', pages 40–41
-#*: {{quote|enm|{{...}}Filip of Repintoun whilis he '''was''' a chanoun of Leycetre, Nycol Herforde, dane Geffrey of Pikeringe, monke of Biland and a maistir dyuynyte, and Ioon Purueye, and manye other whiche '''weren''' holden rightwise men and prudent{{...}}}}
+# {{lb|enm|intransitive}} To [[be]]; to [[exist]] or have [[existence]]:
+## {{lb|enm|intransitive}} To [[occur]]; to [[come]] to [[be]].
+## {{lb|enm|with adjective or adverb}} To [[be]] with a certain [[quality]] or in a certain [[situation]].
+## {{lb|enm|transitive}} To be [[to]] or [[for]] [[someone]] or [[something]]. 
+# {{lb|enm|copulative}} To [[be]] [[something]] or [[someone]].
+#* {{RQ:Wycliffe NT Lichfield|Revelation|3|15|118|v|column=1|I woot þi werkis · foꝛ nei[þer] þou art coold nei[þer] þou art hoot / I wolde þat þou '''were''' coold ei[þer] hoot|I know your actions: you aren't cold, but neither are you hot. I'd like it if you '''were''' either cold or hot.}}
+#* {{quote-book|enm|year=1407|title={{w|The Testimony of William Thorpe}}|pages=40–41|passage={{...}}Filip of Repintoun whilis he '''was''' a chanoun of Leycetre, Nycol Herforde, dane Geffrey of Pikeringe, monke of Biland and a maistir dyuynyte, and Ioon Purueye, and manye other whiche '''weren''' holden rightwise men and prudent{{...}}}}
+## {{lb|enm|with genitive}} To [[be]] someone's; to be in someone's possession.
+## {{lb|enm|auxiliary}} {{n-g|Forms the continuous present and perfect.}}
+## {{lb|enm|auxiliary}} {{n-g|Forms the perfect tense with some intransitive verbs.}}
+# {{lb|enm|auxiliary}} {{n-g|Forms various passive constructions.}}
+
+=====Usage notes=====
+* ''ben'' may be used elliptically if the subject, complement, or predicate is implicit.
+* The perfect tense is usually formed with {{m|enm|haven}}; see that entry for more.
 
 =====Conjugation=====
 {{enm-conj-irr|type=been}}
@@ -269,6 +279,9 @@ From a conflation of {{inh|enm|ang|bēon}} and {{m|ang|wesan}}, from {{inh|enm|g
 * {{desc|en|be}}; {{l|en|been}} {{q|dialectal}}
 * {{desc|sco|be}}
 * {{desc|yol|ba}}
+
+=====References=====
+* {{R:MED Online|bẹ̄n|v|MED4048}}
 
 ===Etymology 2===
 From {{der|enm|fro|-}} and {{der|enm|ML.|-}}, from {{der|enm|ar|بَان||ben tree}}.
