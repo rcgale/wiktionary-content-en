@@ -705,58 +705,68 @@ Note: In all these forms, ''mi'' is optional and only serves for emphasis.
 ===Etymology 2===
 From {{inh|hu|urj-pro|*mi}}.
 
-====Interjection====
-{{head|hu|interjection}}
-
-# {{lb|hu|poetic}} [[how]] …!, [[what]] (a) …!
-#: {{uxi|hu|'''Mi''' gyönyörűség!|'''What''' beauty!}}
-
-=====Synonyms=====
-* {{l-lite|hu|mily}} {{q-lite|also poetic}}
-* {{l-lite|hu|milyen}} {{q-lite|normal use}}
-* {{l-lite|hu|micsoda}} {{q-lite|normal, somewhat colloquial}}
-* {{l-lite|hu|minő}} {{q-lite|poetic and archaic}}
-
-====See also====
-See [[Template:hu-corr|the table of Hungarian correlatives]] for more terms.
-
 ====Pronoun====
 {{hu-pron|interrogative}}
 
 # {{senseid|hu|what}} {{lb|hu|interrogative}} [[what]]?
-#: {{uxi|hu|'''Mi''' van a kezedben?|'''What''' is in your hand?}}
+#: {{ux-lite|hu|'''Mi''' van a kezedben?|'''What''' is in your hand?|inline=y}}
 # {{lb|hu|after {{m-lite|hu|van}} or {{m-lite|hu|nincs}} in any tense and mood, followed by an infinitive}} [[something]], [[anything]], [[nothing]]
-#: {{uxi|hu|Nincs '''mit''' hozzátennem.|I have '''nothing''' to add.}}
-#: {{uxi|hu|Még szerencse, hogy volt '''mit''' enni!|It's lucky there was '''something''' to eat!}}
-#: {{uxi|hu|Örülnék, ha lenne '''mit''' nézni a tévében.|I would be glad if there were '''something''' to watch on TV.}}
-#: {{uxi|hu|Van '''mire''' tenni a vázát?|Is there '''anything''' to put the vase '''on'''?}}
+#: {{ux-lite|hu|Nincs '''mit''' hozzátennem.|I have '''nothing''' to add.|inline=y}}
+#: {{ux-lite|hu|Még szerencse, hogy volt '''mit''' enni!|It's lucky there was '''something''' to eat!|inline=y}}
+#: {{ux-lite|hu|Örülnék, ha lenne '''mit''' nézni a tévében.|I would be glad if there were '''something''' to watch on TV.|inline=y}}
+#: {{ux-lite|hu|Van '''mire''' tenni a vázát?|Is there '''anything''' to put the vase '''on'''?|inline=y}}
 
 =====Declension=====
 {{hu-infl-nom|mi|e}}{{hu-pos-tek|mi|je}}
 
 =====Derived terms=====
-{{top4}}
-* {{l-lite|hu|ami}}
-* {{l-lite|hu|akármi}}
-* {{l-lite|hu|bármi}}
-* {{l-lite|hu|mialatt}}
-* {{l-lite|hu|miáltal}}
-* {{l-lite|hu|micsoda}}
-* {{l-lite|hu|mielőtt}}
-* {{l-lite|hu|miféle}}
-* {{l-lite|hu|miképpen}}
-* {{l-lite|hu|miközben}}
-* {{l-lite|hu|mióta}}
-* {{l-lite|hu|miszerint}}
-* {{l-lite|hu|némi}}
-* {{l-lite|hu|semmi}}
-* {{l-lite|hu|valami}}
-* {{l-lite|hu|mi járatban vagy}}
-* {{l-lite|hu|mi újság}}
-{{bottom4}}
+{{col4|hu|title=Compound words with this term at the beginning
+|mialatt
+|miáltal
+|micsoda
+|mielőtt
+|miféle
+|miképpen
+|miközben
+|mióta
+|miszerint
+}}
+{{col4|hu|title=Compound words with this term at the end
+|ami
+|akármi
+|bármi
+|némi
+|semmi
+|valami
+}}
+{{col4|hu|title=Expressions
+|[[mi járatban vagy|mi járatban vagy?]]
+|[[mi újság|mi újság?]]
+}}
 
 =====See also=====
 See [[Template:hu-suff-pron|the table of pronominal adverbs from case suffixes]] for more terms.
+
+====Determiner====
+{{head-lite|hu|determiner|interrogative}}
+
+# {{lb|hu|now only in certain set phrases}} [[what]]?
+#: {{syn|hu|milyen|miféle}}
+#: {{ux-lite|hu|'''mi''' okból?|for '''what''' reason?|inline=y}}
+#: {{ux-lite|hu|'''mi''' célból?|for '''what''' purpose/goal?|inline=y}}
+#: {{ux-lite|hu|'''mi''' végből/végre?|to '''what''' end?|inline=y}}
+#: {{ux-lite|hu|'''mi''' módon?|in '''what''' manner?|inline=y}}
+#: {{ux-lite|hu|'''mi''' fán terem?|what kind of thing is it?|lit=on '''what''' tree is it produced?|inline=y}}
+
+====Interjection====
+{{head-lite|hu|interjection}}
+
+# {{lb|hu|poetic}} [[how]] …!, [[what]] (a) …!
+#: {{ux-lite|hu|'''Mi''' gyönyörűség!|'''What''' beauty!|inline=y}}
+#: {{syn|hu|mily|q1=poetic|milyen|q2=normal|micsoda|q3=normal, slightly colloquial|minő|q4=poetic and archaic}}
+
+====See also====
+See [[Template:hu-corr|the table of Hungarian correlatives]] for more terms.
 
 ===Etymology 3===
 {{rfe|hu}}
