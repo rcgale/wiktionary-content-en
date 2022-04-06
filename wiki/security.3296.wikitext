@@ -161,7 +161,7 @@
 * Chinese:
 *: Mandarin: {{t+|cmn|保護|sc=Hani}}, {{t+|cmn|保护|tr=bǎohù|sc=Hani}}, {{t+|cmn|保衛|sc=Hani}}, {{t+|cmn|保卫|tr=bǎowèi|sc=Hani}}
 * Dutch: {{t+|nl|beveiliging|f}}
-* Finnish: {{t+|fi|turva}}
+* Finnish: {{t+|fi|turva}}, {{t|fi|turvatoimi}}
 * French: {{t+|fr|sécurité|f}}, {{t+|fr|sécurisant|m}}
 * German: {{t+|de|Sicherheit|f}}, {{t+|de|Schutz|m}}
 * Greek: {{t+|el|ασφάλεια|f}}
@@ -180,7 +180,7 @@
 * Bulgarian: {{t+|bg|охрана|f}}
 * Czech: {{t|cs|ostraha|f}}
 * Dutch: {{t+|nl|veiligheidsdienst|m}}
-* Finnish: {{t|fi|turvallisuuspalvelu}}, {{t|fi|turvallisuusosasto}}
+* Finnish: {{t|fi|turvallisuuspalvelu}}, {{t|fi|turvallisuusosasto}}; {{t|fi|vartijat|p}}
 * Georgian: {{t-needed|ka}}
 * German: {{t+|de|Sicherheitsdienst|m}}
 * Greek: {{t+|el|ασφάλεια|f|sc=Grek}}
@@ -203,7 +203,7 @@
 {{trans-top|something that secures the fulfillment of an obligation}}
 * Azerbaijani: {{t+|az|girov}}
 * Bulgarian: {{t+|bg|гаранция|f}}
-* Finnish: {{t+|fi|takaus}}, {{t+|fi|takuu}}
+* Finnish: {{t+|fi|takaus}}, {{t+|fi|takuu}}, {{t|fi|vakuus}}
 * German: {{t+|de|Sicherheit|f}}
 * Greek: {{t+|el|εχέγγυο|n}}, {{t+|el|εγγύηση|f}}
 * Latvian: {{t|lv|drošība|f}}
@@ -215,7 +215,12 @@
 * Swedish: {{t+|sv|borgen|c}}, {{t+|sv|garanti|c}}, {{t+|sv|säkerhet|c}}
 {{trans-bottom}}
 
-{{trans-top|finance: tradable financial asset}}
+{{trans-top|legal: freedom from apprehension}}
+* Finnish: {{t|fi|turva}}, {{t|fi|turvallisuus}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|finance: tradeable financial asset}}
 * Bulgarian: {{t|bg|ценна книга|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|證券}}, {{t+|cmn|证券|tr=zhèngquàn}}
@@ -242,11 +247,16 @@
 * Ukrainian: {{t|uk|ці́нний папі́р|m}}
 {{trans-bottom}}
 
+{{trans-top|finance: proof of ownership of investment instruments}}
+* Finnish: {{t|fi|arvopaperi}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|finance: property temporarily relinquished}}
 * Azerbaijani: {{t+|az|girov}}
 * Czech: {{t|cs|zástava|f}}, {{t+|cs|záruka|f}}
 * Dutch: {{t+|nl|onderpand|n}}
-* Finnish: {{t+|fi|takaus}}, {{t+|fi|pantti}}, {{t+|fi|vakuus}}
+* Finnish: {{t+|fi|pantti}}, {{t+|fi|vakuus}}
 * German: {{t+|de|Sicherheit|f}}
 {{trans-mid}}
 * Greek:
@@ -256,6 +266,8 @@
 * Spanish: {{t+|es|prenda|f}}
 * Swedish: {{t+|sv|säkerhet|c}}
 {{trans-bottom}}
+
+{{trans-see|guarantee}}
 
 {{checktrans-top}}
 * Indonesian: {{qualifier|1}} {{t+check|id|keamanan}}, {{qualifier|3???}} {{t+check|id|sekuritas}}, {{qualifier|4}} {{t+check|id|jaminan}}
