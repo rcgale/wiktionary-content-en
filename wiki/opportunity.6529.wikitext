@@ -64,10 +64,10 @@
 * Armenian: {{t+|hy|հնարավորություն}}
 * Asturian: {{t|ast|oportunidá|f}}
 * Azerbaijani: {{t+|az|imkan}}, {{t+|az|fürsət}}
-* Bashkir: {{t|ba|форсат|sc=Cyrl}}
-* Belarusian: {{t|be|магчы́масць|f|sc=Cyrl}}, {{t|be|шанс|m|sc=Cyrl}}, {{t|be|шанц|m|sc=Cyrl}}
+* Bashkir: {{t|ba|форсат}}
+* Belarusian: {{t|be|магчы́масць|f}}, {{t|be|шанс|m}}, {{t|be|шанц|m}}
 * Bengali: {{t+|bn|মওকা}}
-* Bulgarian: {{t+|bg|възмо́жност|f|sc=Cyrl}}
+* Bulgarian: {{t+|bg|възмо́жност|f}}
 * Burmese: {{t+|my|အခွင့်အရေး}}
 * Catalan: {{t+|ca|oportunitat|f}}, {{t+|ca|ocasió|f}}
 * Chinese:
@@ -93,7 +93,7 @@
 * Italian: {{t+|it|occasione|f}}, {{t+|it|opportunità}}, {{t+|it|possibilità}}
 * Japanese: {{t+|ja|機会|tr=きかい, kikai}}
 * Kabuverdianu: {{t|kea|txansa}}, {{t|kea|xanse}}
-* Kazakh: {{t+|kk|мүмкіндік|sc=Cyrl}}
+* Kazakh: {{t+|kk|мүмкіндік}}
 * Khmer: {{t+|km|ឱកាស}}
 * Korean: {{t+|ko|기회(機會)}}
 * Kurdish:
@@ -104,14 +104,15 @@
 * Latin: {{t|la|opportūnitās|f}}, {{t|la|ampla|f}}
 * Latvian: {{t|lv|iespēja|f}}
 * Lithuanian: {{t|lt|próga|f}}
-* Macedonian: {{t|mk|можност|f|sc=Cyrl}}
+* Macedonian: {{t|mk|можност|f}}
 * Malayalam: {{t+|ml|അവസരം}}
 * Maltese: {{t|mt|opportunità|f}}
-* Mongolian: {{t+|mn|боломж}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|боломж}}
 * Navajo: {{t|nv|ashja}}
 * Northern Sami: {{t|se|vejolašvuohta}}
 * Norwegian:
-*: Bokmål: {{t+|nb|mulighet|m|f}}
+*: Bokmål: {{t+|nb|mulighet|m|f}}, {{t+|nb|sjanse|f}}
 * Occitan: {{t+|oc|oportunitat|f}}
 * Pashto: {{t+|ps|فرصت|m|tr=fersát}}
 * Persian: {{t+|fa|فرصت|tr=forsat}}
@@ -121,8 +122,8 @@
 * Romansch: {{t|rm|pussaivladad|f}} {{qualifier|Rumantsch Grischun}}
 * Russian: {{t+|ru|возмо́жность|f}}, {{t+|ru|шанс|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|прилика|f}}, {{t|sh|пригода|f}}
-*: Roman: {{t+|sh|prilika|f}}, {{t+|sh|prigoda|f}}
+*: Cyrillic: {{t|sh|при́лика|f}}, {{t|sh|при̏года|f}}
+*: Roman: {{t+|sh|prílika|f}}, {{t+|sh|prȉgoda|f}}
 * Slovak: {{t|sk|príležitosť|f}}
 * Slovene: {{t+|sl|priložnost|f}}
 * Sorbian:
@@ -130,13 +131,13 @@
 * Spanish: {{t+|es|oportunidad|f}}
 * Swahili: {{t+|sw|fursa}}
 * Swedish: {{t+|sv|tillfälle}}, {{t+|sv|möjlighet|c}}
-* Tajik: {{t|tg|фурсат|sc=Cyrl}}, {{t+|tg|имконият}}, {{t|tg|имкон}}
+* Tajik: {{t|tg|фурсат}}, {{t+|tg|имконият}}, {{t|tg|имкон}}
 * Tatar: {{t+|tt|форсат}}
 * Telugu: {{t+|te|అవకాశం}}
 * Thai: {{t+|th|โอกาส}}
 * Turkish: {{t+|tr|fırsat}}
 * Turkmen: {{t|tk|pursat}}
-* Ukrainian: {{t|uk|можли́вість|f|sc=Cyrl}}, {{t|uk|шанс|m|sc=Cyrl}}
+* Ukrainian: {{t|uk|можли́вість|f}}, {{t|uk|шанс|m}}
 * Urdu: {{t|ur|فرصت|f|tr=fursat}}, {{t|ur|موقع|m|tr=mauqa'}}
 * Uyghur: {{t|ug|پۇرسەت}}
 * Uzbek: {{t+|uz|imkoniyat}}, {{t+|uz|fursat}}
@@ -146,9 +147,9 @@
 
 {{trans-top|favorable circumstance or occasion}}
 * Asturian: {{t|ast|oportunidá|f}}
-* Bashkir: {{t|ba|форсат|sc=Cyrl}}
+* Bashkir: {{t|ba|форсат}}
 * Bengali: {{t+|bn|মওকা}}
-* Bulgarian: {{t|bg|удобен случай}}
+* Bulgarian: {{t|bg|[[удо́бен]] [[случа́й]]|m}}
 * Catalan: {{t+|ca|oportunitat|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|機會}}, {{t+|cmn|机会|tr=jīhuì}}
@@ -161,7 +162,6 @@
 * German: {{t+|de|Gelegenheit|f}}
 * Greek: {{t+|el|ευκαιρία|f}}
 *: Ancient: {{t|grc|εὐκαιρία|f}}, {{t|grc|καιρός|m}}
-
 {{trans-mid}}
 * Hungarian: {{t+|hu|alkalom}}
 * Italian: {{t+|it|opportunità|f}}, {{t+|it|occasione|f}}
@@ -172,7 +172,8 @@
 * Portuguese: {{t+|pt|oportunidade|f}}
 * Russian: {{t|ru|[[удо́бный]] [[слу́чай]]|m}}
 * Serbo-Croatian:
-*: Roman: {{t+|sh|prilika|f}}, {{t+|sh|prigoda|f}}
+*: Cyrillic: {{t|sh|при́лика|f}}, {{t|sh|при̏года|f}}
+*: Roman: {{t+|sh|prílika|f}}, {{t+|sh|prȉgoda|f}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|góźba|f}}
 * Spanish: {{t+|es|oportunidad|f}}
@@ -186,7 +187,6 @@
 * Indonesian: {{t+check|id|sempat|alt=kesempatan}} <!-- was "[[sempat|kesempatan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Italian: {{t+check|it|opportunità|f}}
 {{trans-mid}}
-* Norwegian: {{t+check|no|mulighet|f}}, {{t+check|no|sjanse|f}}
 * Persian: {{t+check|fa|فرصت|tr=forsat}}
 * Romanian: {{t+check|ro|oportunitate|f}}
 {{trans-bottom}}
