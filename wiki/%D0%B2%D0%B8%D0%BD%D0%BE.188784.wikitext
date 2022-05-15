@@ -1,9 +1,11 @@
 {{also|віно}}
+
 ==Bulgarian==
 
 ===Etymology===
 {{dercat|bg|itc-pro|ine-pro}}
-From {{inh|bg|cu|вино}}, from {{inh|bg|sla-pro|*vino}}, from {{der|bg|la|vīnum}}.
+{{inh+|bg|cu|вино}}, from {{inh|bg|sla-pro|*vīnò}}, from {{der|bg|la|vīnum}}.
+{{dercat|bg|itc-pro|ine-pro}}
 
 ===Pronunciation===
 * {{bg-IPA|ви́но}}
@@ -28,8 +30,8 @@ From {{inh|bg|cu|вино}}, from {{inh|bg|sla-pro|*vino}}, from {{der|bg|la|vī
 ==Macedonian==
 
 ===Etymology===
+From {{der|mk|cu|вино}}, from {{inh|mk|sla-pro|*vīnò}}, from {{der|mk|la|vīnum}}.
 {{dercat|mk|itc-pro|ine-pro}}
-From {{der|mk|cu|вино}}, from {{inh|mk|sla-pro|*vino}}, from {{der|mk|la|vīnum}}.
 
 ===Pronunciation===
 * {{mk-IPA|вино}}
@@ -67,8 +69,8 @@ From {{der|mk|cu|вино}}, from {{inh|mk|sla-pro|*vino}}, from {{der|mk|la|vī
 ==Old Church Slavonic==
 
 ===Etymology===
+{{inh+|cu|sla-pro|*vīnò}}, from {{der|cu|la|vīnum}}.
 {{dercat|cu|itc-pro|ine-pro}}
-From {{inh|cu|sla-pro|*vino}}, from {{der|cu|la|vīnum}}.
 
 ===Noun===
 {{cu-noun|n}}
@@ -88,10 +90,11 @@ From {{inh|cu|sla-pro|*vino}}, from {{der|cu|la|vīnum}}.
 ==Old East Slavic==
 
 ===Etymology===
-{{inh+|orv|sla-pro|*vino|t=wine}}
+{{inh+|orv|sla-pro|*vīnò|t=wine}}, from {{der|orv|la|vīnum}}.
+{{dercat|orv|itc-pro|ine-pro}}
 
 ===Noun===
-{{head|orv|noun|g=n}}
+{{head|orv|noun|head=вино́|g=n}}
 
 # [[grape]]
 # [[wine]]
@@ -102,10 +105,11 @@ From {{inh|cu|sla-pro|*vino}}, from {{der|cu|la|vīnum}}.
 {{rfinfl|orv|noun}}
 
 ====Descendants====
-* {{desc|be|віно́}}
+* {{desc|zle-ort|вино|вино́}}
+** {{desc|be|віно́}}
+** {{desc|rue|ви́но́}}
+** {{desc|uk|вино́}}
 * {{desc|ru|вино́}}
-* {{desc|rue|ви́но}}
-* {{desc|uk|вино́}}
 
 ===Further reading===
 * {{R:ru:SRJa|вино|182|2}}
@@ -117,7 +121,7 @@ From {{inh|cu|sla-pro|*vino}}, from {{der|cu|la|vīnum}}.
 ==Old Novgorodian==
 
 ===Etymology===
-Only attested as {{m|zle-ono||вина|pos=Gsg/Apl}} in year 1107±19. {{inh+|zle-ono|sla-pro|*vino|t=wine}}.
+Only attested as {{m|zle-ono||вина|pos=Gsg/Apl}} in year 1107±19. {{inh+|zle-ono|sla-pro|*vīnò|t=wine}}.
 
 ===Noun===
 {{head|zle-ono|noun|g=n}}
@@ -134,11 +138,53 @@ Only attested as {{m|zle-ono||вина|pos=Gsg/Apl}} in year 1107±19. {{inh+|zl
 
 ----
 
+==Old Ruthenian==
+[[Image:Wine glasses in the bar (Explored 2016-05-29) - Flickr - Maria Eklind.jpg|thumb|250px|(1) {{lang|zle-ort|вино́}} (wine)]][[Image:Close up grapes.jpg|thumb|250px|(2) {{lang|zle-ort|вино́}} (grape)]]
+
+===Alternative forms===
+* {{alter|zle-ort|вїно|alt1=вїно́|выно|alt2=выно́}}
+
+===Etymology===
+{{inh+|zle-ort|orv|вино|вино́}}, from {{inh|zle-ort|sla-pro|*vīnò}}, further borrowed from {{der|zle-ort|la|vīnum}}, ultimately from {{der|zle-ort|itc-pro|*wīnom}}. Cognate with {{cog|ru|вино́}}, {{cog|zle-ono|вино}}.
+{{dercat|zle-ort|ine-pro}}
+
+===Noun===
+{{head|zle-ort|noun|head=вино́|g=n-in|genitive|вина|nominative plural|вина|genitive plural|винъ}}
+
+# [[wine]]
+#* {{uxi|zle-ort|Вѣ же тоу готовизни много въ бретьяницахъ и въ погребѣхъ '''вина''' и медовѣ|t=}}
+#* {{uxi|zle-ort|Видѣл во снѣ Алеѯандер ижъ держалъ в рꙋку ꙗгодꙋ; а покинꙋвши на земли, терлъ ю своими ногами ижъ з неи '''вино''' вытиснꙋлъ|t=}}
+#* {{uxi|zle-ort|за поставенєм '''вїна''' през 6 недє дал злт 2|t=for the supply of '''wine''' after 6 weeks they gave 2 zlotys}}
+#* {{uxi|zle-ort|Оуважайте єретику, яко без мѧ и '''вына''' постъ отправовали стыи|t=}}
+# [[grape]]
+#* {{uxi|zle-ort|Збира́ю '''вино́''' зⸯ ви́ннои ма́тицѣ, або зⸯ ви́нницѣ|t=}}
+#: {{syn|zle-ort|виноградъ|alt1=виногра́дъ}}
+# [[vine]]
+#* {{uxi|zle-ort|та трава имѣєт листвїє подобно вѣтвїємъ дикого '''вина'''|t=}}
+#* {{uxi|zle-ort|… и присады садити и '''вино''' ѡкопывати борзо растет|t=}}
+#: {{syn|zle-ort|лоза|alt1=лоза́}}
+
+====Descendants====
+* {{desc|be|віно́}}
+* {{desc|rue|ви́но́}}
+* {{desc|uk|вино́}}
+
+====Further reading====
+* {{R:zle-ouk:ISUJa|вино|253}}
+* {{R:zle-ouk:ISUJa|выно|423}}
+* {{R:zle-ouk:SSUM|вино¹|175|1}}
+* {{R:zle-ouk:SUM-28|вино¹, віно|66|4}}
+* {{R:zle-obe:HSBM|вино|281|3|url=vino}}
+
+{{topics|zle-ort|Wines|Grapevines}}
+
+----
+
 ==Russian==
 
 ===Etymology===
+{{inh+|ru|orv|вино|вино́}}, from {{inh|ru|sla-pro|*vīnò}}, from {{der|ru|la|vīnum}}.
 {{dercat|ru|itc-pro|ine-pro}}
-{{inh+|ru|sla-pro|*vino}}, from {{der|ru|la|vīnum}}.
 
 ===Pronunciation===
 * {{ru-IPA|вино́}}
@@ -193,8 +239,8 @@ Only attested as {{m|zle-ono||вина|pos=Gsg/Apl}} in year 1107±19. {{inh+|zl
 ==Rusyn==
 
 ===Etymology===
+{{inh+|rue|zle-ort|вино|вино́}}, from {{inh|rue|orv|вино|вино́}}, from {{inh|rue|sla-pro|*vīnò}}, from {{der|rue|la|vīnum}}.
 {{dercat|rue|itc-pro|ine-pro}}
-From {{inh|rue|sla-pro|*vino}}, from {{der|rue|la|vīnum}}.
 
 ===Noun===
 {{rue-noun|g=n|head=ви́но}}
@@ -211,8 +257,8 @@ From {{inh|rue|sla-pro|*vino}}, from {{der|rue|la|vīnum}}.
 ==Serbo-Croatian==
 
 ===Etymology===
+{{inh+|sh|sla-pro|*vīnò}}, from {{der|sh|la|vīnum}}.
 {{dercat|sh|itc-pro|ine-pro}}
-From {{inh|sh|sla-pro|*vino}}, from {{der|sh|la|vīnum}}.
 
 ===Noun===
 {{sh-noun|g=n|head=ви́но}}
@@ -243,8 +289,8 @@ From {{inh|sh|sla-pro|*vino}}, from {{der|sh|la|vīnum}}.
 [[Image:Uk вино (піка (в гральних картах).png|thumb|250px|(2) {{lang|uk|вино́}} (spades) prevalence in Ukraine]]
 
 ===Etymology===
+{{inh+|uk|zle-ort|вино|вино́}}, from {{inh|uk|orv|вино|вино́}}, from {{inh|uk|sla-pro|*vīnò}}, from {{der|uk|la|vīnum}}.
 {{dercat|uk|itc-pro|ine-pro}}
-From {{inh|uk|sla-pro|*vino}}, from {{der|uk|la|vīnum}}.
 
 ===Pronunciation===
 * {{uk-IPA|вино́}}
