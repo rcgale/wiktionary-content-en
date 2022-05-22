@@ -164,14 +164,14 @@ Cognate with {{cog|is|hitta||to meet}}, {{cog|da|hitte||to find}}, {{cog|la|caed
 * Basque: {{tt+|eu|jo}}
 * Belarusian: {{tt|be|біць|impf}}, {{tt|be|пабі́ць|pf}}; {{tt|be|удара́ць|impf}}, {{tt|be|ўдара́ць|impf}}, {{tt|be|уда́рыць|pf}}, {{tt|be|ўда́рыць|pf}}
 * Bengali: {{tt|bn|আঘাত করা}}
-* Bulgarian: {{tt+|bg|улучвам}}, {{tt+|bg|у́дрям}}, {{tt+|bg|би́я|impf}}
+* Bulgarian: {{tt+|bg|у́дрям|impf}}, {{tt|bg|уда́ря|pf}}, {{tt+|bg|би́я|impf}}
 * Burmese: {{tt+|my|ရိုက်}}
 * Catalan: {{tt+|ca|colpejar}}, {{tt+|ca|batre}}, {{tt+|ca|pegar}}, {{tt+|ca|copejar}}
 * Cherokee: {{tt|chr|ᎬᏂᎭ}}
 * Chinese:
-*: Cantonese: {{tt|yue|打擊|tr=daa2 gik1}}
+*: Cantonese: {{tt|yue|打擊}}, {{tt|yue|打击|tr=daa2 gik1}}
 *: Mandarin: {{tt+|cmn|打擊}}, {{tt+|cmn|打击|tr=dǎjī}}
-* Czech: {{tt|cs|praštit}}, {{tt+|cs|uhodit}}, {{tt+|cs|udeřit}}
+* Czech: {{tt|cs|praštit|pf}}, {{tt+|cs|uhodit|pf}}, {{tt+|cs|udeřit|pf}}
 * Danish: {{tt+|da|slå}}
 * Dutch: {{tt+|nl|raken}}, {{tt+|nl|treffen}}, {{tt+|nl|slaan}}
 * Esperanto: {{tt+|eo|frapi}}, {{tt+|eo|bati}}, {{tt+|eo|trafi}}
@@ -198,23 +198,24 @@ Cognate with {{cog|is|hitta||to meet}}, {{cog|da|hitte||to find}}, {{cog|la|caed
 * Kazakh: {{tt+|kk|ұру}}, {{tt|kk|соғу}}
 * Khmer: {{tt+|km|វាយ}}
 * Korean: {{tt+|ko|치다}}
-* Kyrgyz: {{t+|ky|уруу}}
+* Kyrgyz: {{tt+|ky|уруу}}
 * Lao: {{tt|lo|ຕີ}}
 * Latgalian: {{tt|ltg|sist}}, {{tt|ltg|laubt}}, {{tt|ltg|dyurēt}}
 * Latin: {{tt|la|feriō}}, {{tt|la|battuo}}, {{tt|la|pello}}
 {{trans-mid}}
 * Latvian: {{tt+|lv|sist}}
-* Macedonian: {{tt|mk|удира}}, {{tt|mk|бие}}
+* Macedonian: {{tt|mk|удира|impf}}, {{tt|mk|бие|impf}}
 * Malay: {{tt+|ms|pukul}}
 * Mongolian:
-*: Cyrillic: {{t+|mn|цохих}}
+*: Cyrillic: {{tt+|mn|цохих}}
 * Nanai: {{tt|gld|дуктэ-}}
 * Nepali: {{tt|ne|ठोक्नु}}
 * Norman: {{tt|nrf|paffer}} {{qualifier|Jersey}}
-* Norwegian: {{tt+|no|slå}}
-*: Bokmål: {{t+|nb|slå}}
-*: Nynorsk: {{t|nn|slå}}
-* Old Church Slavonic: {{tt|cu|бити}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|slå}}
+*: Nynorsk: {{tt|nn|slå}}
+* Old Church Slavonic:
+*: Cyrillic: {{tt|cu|бити|impf}}
 * Oriya: {{tt+|or|ମାରିବା}}
 * Persian: {{tt+|fa|زدن|tr=zadan}}
 * Polish: {{t+|pl|uderzać|impf}}, {{t+|pl|uderzyć|pf}}
@@ -226,11 +227,11 @@ Cognate with {{cog|is|hitta||to meet}}, {{cog|da|hitte||to find}}, {{cog|la|caed
 * Sanskrit: {{tt+|sa|तुदति}}
 * Scottish Gaelic: {{tt|gd|buail}}
 * Serbo-Croatian:
-*: Cyrillic: {{tt|sh|у̀дарити}}, {{tt|sh|би̏ти}}, {{tt|sh|за̀бити}} {{qualifier|reflexive}}, {{tt|sh|опи́здити}} {{qualifier|vulgar}}
-*: Roman: {{tt+|sh|ùdariti}}, {{tt+|sh|bȉti}}, {{tt+|sh|zàbiti}} {{qualifier|reflexive}}, {{tt+|sh|opízditi}} {{qualifier|vulgar}}
+*: Cyrillic: {{tt|sh|у̀дарити|pf}}, {{tt|sh|би̏ти|impf}}, {{tt|sh|за̀бити|pf}}, {{tt|sh|опи́здити|pf}} {{qualifier|vulgar}}
+*: Roman: {{tt+|sh|ùdariti|pf}}, {{tt+|sh|bȉti|impf}}, {{tt+|sh|zàbiti|pf}}, {{tt+|sh|opízditi|pf}} {{qualifier|vulgar}}
 * Shor: {{tt|cjs|шабарға|tr=şabarğa}}
-* Slovak: {{tt|sk|udrieť}}, {{tt|sk|biť}}
-* Slovene: {{tt|sl|udariti}}, {{tt+|sl|bíti}}
+* Slovak: {{tt|sk|udrieť|pf}}, {{tt|sk|biť|impf}}
+* Slovene: {{tt|sl|udariti|pf}}, {{tt+|sl|bíti|impf}}
 * Sorbian:
 *: Lower Sorbian: {{tt|dsb|biś|impf}}, {{tt|dsb|deriś|pf}}
 * Spanish: {{tt+|es|golpear}}, {{tt+|es|pegar}}, {{tt+|es|batir}}, {{tt+|es|dar}}
@@ -241,12 +242,12 @@ Cognate with {{cog|is|hitta||to meet}}, {{cog|da|hitte||to find}}, {{cog|la|caed
 * Thai: {{tt+|th|ตี}}
 * Tok Pisin: {{tt|tpi|paitim}}, {{tt|tpi|kilim}}
 * Turkish: {{tt+|tr|vurmak}}
-* Turkmen: {{t|tk|urmak}}
+* Turkmen: {{tt|tk|urmak}}
 * Ugaritic: {{tt|uga|𐎎𐎃𐎕}}
 * Ukrainian: {{tt|uk|вдаря́ти|impf}}, {{tt|uk|вда́рити|pf}}, {{tt+|uk|би́ти|impf}}
 * Urdu: {{tt|ur|مارنا|tr=mārnā}}
-* Uyghur: {{t|ug|ئۇرماق}}
-* Uzbek: {{t+|uz|urmoq}}
+* Uyghur: {{tt|ug|ئۇرماق}}
+* Uzbek: {{tt+|uz|urmoq}}
 * Vietnamese: {{tt+|vi|đập}}, {{tt+|vi|đánh}}
 * Volapük: {{tt+|vo|flapön}}, {{tt|vo|leflapön}} {{qualifier|augmentative}}
 * Welsh: {{tt+|cy|taro}}
@@ -255,7 +256,7 @@ Cognate with {{cog|is|hitta||to meet}}, {{cog|da|hitte||to find}}, {{cog|la|caed
 {{trans-bottom}}
 
 {{trans-top|to come into contact with forcefully and suddenly}}
-* Bulgarian: {{tt+|bg|удрям}}
+* Bulgarian: {{tt+|bg|у́дрям|impf}}, {{tt|bg|уда́ря|pf}}
 * Catalan: {{tt+|ca|xocar}}
 * Danish: {{tt|da|slå imod}}
 * French: {{tt+|fr|cogner}}
@@ -264,7 +265,7 @@ Cognate with {{cog|is|hitta||to meet}}, {{cog|da|hitte||to find}}, {{cog|la|caed
 {{trans-mid}}
 * Polish: {{t+|pl|uderzać|impf}}, {{t+|pl|uderzyć|pf}}, {{t+|pl|stukać|impf}}, {{t+|pl|stuknąć|pf}}
 * Portuguese: {{tt+|pt|bater}}, {{tt|pt|[[chocar]]-[[se]]}}, {{tt+|pt|colidir}}
-* Russian: {{tt+|ru|ударяться|impf}}, {{tt+|ru|удариться|pf}}
+* Russian: {{tt+|ru|ударя́ться|impf}}, {{tt+|ru|уда́риться|pf}}
 * Spanish: {{tt+|es|dar}}, {{tt+|es|chocar}}
 * Swedish: {{tt|sv|slå emot}}
 * Tok Pisin: {{tt|tpi|paitim}}, {{tt|tpi|kilim}}
@@ -278,7 +279,7 @@ Cognate with {{cog|is|hitta||to meet}}, {{cog|da|hitte||to find}}, {{cog|la|caed
 
 {{trans-top|to manage to touch in the right place}}
 * Arabic: {{tt|ar|أَصَابَ}}
-* Bulgarian: {{tt+|bg|удрям}}, {{tt+|bg|поразявам}}
+* Bulgarian: {{tt+|bg|у́дрям|impf}}, {{tt|bg|уда́ря|pf}}, {{tt+|bg|поразя́вам|impf}}, {{tt+|bg|улу́чвам|impf}}, 
 * Catalan: {{tt+|ca|encertar}}
 * Czech: {{tt|cs|trefit}}
 * Danish: {{tt|da|træffe}}
@@ -289,12 +290,14 @@ Cognate with {{cog|is|hitta||to meet}}, {{cog|da|hitte||to find}}, {{cog|la|caed
 {{trans-mid}}
 * Irish: {{tt|ga|aimsigh}}
 * Japanese: {{tt+|ja|当てる|tr=あてる, ateru}}
-* Norwegian: {{tt+|no|treffe}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|treffe}}
 * Polish: {{t+|pl|trafiać|impf}}, {{t+|pl|trafić|pf}}
 * Portuguese: {{tt+|pt|acertar}}, {{tt+|pt|bater}}, {{tt+|pt|atingir}}
+* Russian: {{tt+|ru|попада́ть|impf}}, {{tt+|ru|попа́сть|pf}}, {{tt+|ru|поража́ть|impf}}, {{tt+|ru|порази́ть|pf}}
 * Spanish: {{tt+|es|acertar}}
 * Swedish: {{tt+|sv|träffa}}
-* Ukrainian: {{tt|uk|влуча́ти}}
+* Ukrainian: {{tt|uk|влуча́ти|impf}}
 {{trans-bottom}}
 
 {{trans-top|to kill a person on the instructions of a third party}}
@@ -311,17 +314,20 @@ Cognate with {{cog|is|hitta||to meet}}, {{cog|da|hitte||to find}}, {{cog|la|caed
 * Finnish: {{tt+|fi|käydä}}, {{tt+|fi|mennä}}, {{tt+|fi|pistäytyä}}
 {{trans-mid}}
 * German: {{tt+|de|treffen}}
-* Serbo-Croatian: {{tt|sh|скокнути до|tr=skoknuti do}} {{qualifier|informally}}
+* Serbo-Croatian:
+*: Cyrillic: {{tt|sh|ско̏кнути|pf}} {{qualifier|colloquial}}
+*: Roman: {{tt+|sh|skȍknuti|pf}} {{qualifier|colloquial}}
 {{trans-bottom}}
 
 {{trans-top|to encounter a difficulty}}
-* Bulgarian: {{tt+|bg|срещам}}
+* Bulgarian: {{tt+|bg|сре́щам|impf}}
 {{trans-mid}}
 * French: {{tt+|fr|taper|alt=se taper}}
 {{trans-bottom}}
 
 {{trans-top|in blackjack, to deal a card to}}
-* Norwegian: {{tt+|no|hit}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|hit}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -345,15 +351,16 @@ Cognate with {{cog|is|hitta||to meet}}, {{cog|da|hitte||to find}}, {{cog|la|caed
 * Finnish: {{tt+|fi|vaikeuttaa}}, {{tt+|fi|vahingoittaa}}, {{tt+|fi|haitata}}, {{tt+|fi|kärsiä}}
 * French: {{tt+|fr|frapper}}
 {{trans-mid}}
-* Norwegian: {{tt+|no|ramme}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|ramme}}
 * Swedish: {{tt+|sv|slå}}
 {{trans-bottom}}
 
 {{trans-top|to have sex with}}
 * French: {{tt+|fr|se taper}}
 * Serbo-Croatian:
-*: Cyrillic: {{tt|sh|опа́лити}}
-*: Roman: {{tt+|sh|opáliti}}
+*: Cyrillic: {{tt|sh|опа́лити|pf}}
+*: Roman: {{tt+|sh|opáliti|pf}}
 {{trans-mid}}
 {{trans-bottom}}
 
