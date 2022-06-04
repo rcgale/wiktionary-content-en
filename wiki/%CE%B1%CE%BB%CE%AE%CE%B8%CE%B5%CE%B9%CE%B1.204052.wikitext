@@ -2,11 +2,12 @@
 ==Greek==
 
 ===Etymology===
-From {{inh|el|grc|ἀλήθεια}}.
+Inherited from {{inh|el|grc|ἀλήθεια}}.
 
 ===Pronunciation===
-* {{IPA|el|/aˈliθça/}}
+* {{IPA|el|/aˈli.θça/}}
 * {{hyphenation|el|α|λή|θεια}}
+* Old {{hyphenation|el|α|λή|θει|α}}
 
 ===Adverb===
 {{el-adv}}
@@ -18,24 +19,29 @@ From {{inh|el|grc|ἀλήθεια}}.
 {{el-noun|f|αλήθειες}}
 
 # [[truth]]
-#: {{ux|el|Πες μου την '''αλήθεια'''.|Tell me the '''truth'''.}}
+#: {{uxi|el|Πες μου την '''αλήθεια'''.|Tell me the '''truth'''.}}
 
 ====Declension====
-{{el-nF-α-ες-3b2|αλήθει|αληθει|note=[[αληθείας]] is an alternative genitive singular form.}}
+{{el-nF-α-ες-3b2|αλήθει|αληθει|note=[[αληθείας]] is an alternative formal genitive singular form.}}
 
 ====Derived terms====
 * {{l|el|[[είναι]] [[αλήθεια]]|gloss=it is true}}
 * {{l|el|[[ορός]] [[της]] [[αλήθειας]]|g=m|gloss=truth serum}}
 
 ====Related terms====
-{{col2|el
+{{col2|el|sort=0|collapse=0
 |{{l|el|αληθεύω|t=to be true}}
-|{{l|el|αληθώς|t=truly, really}}
-|{{l|el|αληθινά|t=truly, veritably}}
 |{{l|el|αληθής|t=true}} {{qualifier|in Boolean logic}}
+|{{l|el|αληθινά|t=truly, veritably}}
 |{{l|el|αληθινός|t=true|pos=adjective}}
 |{{l|el|αληθοφανής|t=plausible, apparently true}}
+|{{l|el|αληθώς|pos=adverb|t=truly, really}} {{q|formal}}
 |{{l|el|αλησμόνητος|t=memorable}}
 |{{l|el|αληθοφάνεια|t=credibility|g=f}}
-|{{l|el|λησμονώ|t=to forget}}
+|{{l|el|λησμονάω}} / {{l|el|λησμονώ|t=forget}}
 }}
+{{el-see|and=1|noast=1|λήθη|g=f|t=oblivion}} & {{l|el|λανθάνω}}
+
+===Further reading===
+* {{R:Georgakas}}
+* {{R:DSMG}}
