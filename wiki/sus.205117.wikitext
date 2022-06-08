@@ -80,22 +80,29 @@ From {{inh|gsw|gmh|sus}}.
 {{head|gsw|adverb}}
 
 # [[otherwise]]
-#* {{rfc-sense|gsw|it's not quoted correctly, lacks author, title of the work, volume, title of the series (it's "Schwei­ze­ri­sches Archiv für Volks­kunde" or has both titles)}} {{quote-book|gsw
-|url=https://books.google.ch/books?id=BsrjAAAAMAAJ&q=%22sus+hett%22&dq=%22sus+hett%22
-|title=Archives suisses des traditions populaires
-|publisher=Schweizerische Gesellschaft für Volkskunde.
-|lccn=25014152
-|oclc=1715665
-|year=1969
+#* {{quote-journal|gsw
+|url=https://www.e-periodica.ch/digbib/view?pid=sav-001%3A1969%3A65%3A%3A137#164
+|journal=Schweizerisches Archiv für Volkskunde
+|publisher=Schweizerische Gesellschaft für Volkskunde
+|volume=65<!-- Band 65 -->
+|issue=3/4<!-- Heft 3/4 -->
+|year_published=1969
+|title=Die Sagen der Gemeinde Flums
+|trans-title=The sagas of the [[w:Flums|municipality Flums]]
+|author=Alois Senti<!-- Author of this article in the archives. -->
+|coauthor=Robert Wildhaber<!-- Conducted the interviews/surveys.  -->
+|year=1968/1969<!-- Originally collected by Johann Baptist Stoop (1861-1931) in Standard German as part of J. Kuoni's work "Sagen des Kantons St.Gallen". The Alemannic versions go back (in part) to Wildhaber's interviews/surveys in 1968/1969 (see page 128 for more). -->
 |page=154
-|passage=Äs seï ä schwarzä Maa mitemä Huet gsii, aber uuni Chopf. «Ich haa ds Büechli nid beï mer, '''sus''' hett nä aagsprocha...», heï dr Pfarrer Zwyfel gsäit. Gsii isch es dr Ggaueler.
-|t=It has [reportedly] been a black man with a hat but without a head. “I didn't have the booklet on me, '''otherwise''' I would have talked to him...” has pastor {{abbr|Zwyfel|translated: Doubt}} said [reportedly]. It has been the [Ggaueler?].
+|section=Vum Ggaueler
+|passage=138 {{...}} Äs seï ä schwarzä Maa mitemä Huet gsii, aber uuni Chopf. «Ich haa ds Büechli nid beï mer, '''sus''' hett nä aagsprocha...», heï dr Pfarrer Zwyfel gsäit. Gsii isch es dr Ggaueler.
+|t=138 {{...}} It has [reportedly] been a black man with a hat but without a head. “I don't have this booklet on me, '''otherwise''' I would have talked to him...” has pastor {{abbr|Zwyfel|translated: Doubt}} [reportedly] said. It has been the {{abbr|Ggaueler|demonym of "Ggaueli", a location in the municipality Flums near the Tschudiwiese; see also "Gaueli"}}.
 }}
 #* {{quote-book|gsw
 |url=https://books.google.ch/books?id=ESTbAAAAMAAJ&q=%22sus+hett%22&dq=%22sus+hett%22
 |title=Häxäwärch: Sibä Gschichtä im Flumsertiäläggt
 |author=Alois Senti
 |publisher=Verlag des Sarganserländers
+|location=Mels
 |lccn=72340077
 |oclc=249211944
 |year=1970
