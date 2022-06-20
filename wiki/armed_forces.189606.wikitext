@@ -13,14 +13,14 @@
 * Albanian: {{t-needed|sq}}
 * Arabic: {{t|ar|قُوَّات مُسَلَّحَة|f-p}}, {{t|ar|قُوَّات|f-p}}, {{t|ar|جَيْش|m}}
 * Armenian: {{t+|hy|զինված ուժեր|p}}
-* Azerbaijani: {{t|az|silahlı qüvvələr}}
+* Azerbaijani: {{t|az|silahlı qüvvələr|p}}
 * Basque: {{t|eu|armada |s}}
 * Belarusian: {{t|be|узбро́еныя сі́лы|f-p}}
 * Bulgarian: {{t|bg|въоръже́ни си́ли|f-p}}
-* Burmese: {{t-needed|my}}
+* Burmese: {{t+|my|ဗိုလ်ခြေ}}
 * Catalan: {{t+|ca|exèrcit|m}}, {{t|ca|forces armades|m-p}}
 * Chinese:
-*: Mandarin: {{t+|cmn|武裝部隊|sc=Hani}}, {{t+|cmn|武装部队|tr=wǔzhuāng bùduì|sc=Hani}}, {{t+|cmn|軍隊|sc=Hani}}, {{t+|cmn|军队|tr=jūnduì|sc=Hani}}
+*: Mandarin: {{t+|cmn|武裝部隊}}, {{t+|cmn|武装部队|tr=wǔzhuāng bùduì}}, {{t+|cmn|軍隊}}, {{t+|cmn|军队|tr=jūnduì}}
 * Czech: {{t+|cs|ozbrojené síly|f-p}}
 * Danish: {{t|da|forsvar|n}}
 * Dutch: {{t+|nl|leger|n}}, {{t+|nl|krijgsmacht|f}}, {{t+|nl|strijdmacht|f}}, {{t+|nl|strijdkrachten|p}}, {{t+|nl|heer|n}}, {{t+|nl|heir|n}}, {{t+|nl|troep|m}}, {{t+|nl|troepen|p}}, {{t+|nl|armee|f}}
@@ -34,7 +34,7 @@
 * German: {{t+|de|Streitkräfte|p}}
 * Greek: {{t+|el|στράτευμα|n}}
 * Greenlandic: {{t-needed|my}}
-* Hebrew: {{t+|he|כוחות מזוינים|m-p|tr=koẖót m'zuyyaním|alt=כּוֹחוֹת מְזֻיָּנִים}}
+* Hebrew: {{t+|he|כוחות מזוינים|m-p|tr=kokhót m'zuyyaním|alt=כּוֹחוֹת מְזֻיָּנִים \ כוחות מזוינים}}
 * Hindi: {{t+|hi|सेना|f}}, {{t+|hi|सैन्य|m}}
 * Hungarian: {{t|hu|fegyveres erők}}, {{t+|hu|haderő}}, {{t+|hu|karhatalom}}
 * Indonesian: {{t+|id|angkatan bersenjata}}, {{t+|id|tentara}}
@@ -42,20 +42,21 @@
 * Inuktitut: {{t-needed|iu}}
 * Italian: {{t|it|forze armate|f-p}}
 * Japanese: {{t+|ja|軍隊|tr=ぐんたい, guntai}}
-* Khmer: {{t|km|កងទ័ព|tr=kɑɑng toap|sc=Khmr}}, {{t|km|កងកម្លាំងប្រដាប់អាវុធ|tr=kɑɑŋ kɑmlaŋ prɑdap aavut|sc=Khmr}}, {{t|km|កងយោធពល|tr=kɑɑŋ yootʰeaʔ pʊəl|sc=Khmr}}, {{t|km|យោធពល|tr=yootʰea’ pʊəl|sc=Khmr}}
-* Korean: {{t+|ko|군대}}
-* Lao: {{t-needed|lo}}
+* Khmer: {{t|km|កងទ័ព}}, {{t|km|កងកម្លាំងប្រដាប់អាវុធ}}, {{t|km|កងយោធពល}}, {{t|km|យោធពល}}
+* Korean: {{t+|ko|군대(軍隊)}}
+* Lao: {{t|lo|ກອງກຳລັງ}}
 * Latvian: {{t|lv|bruņotie spēki|m-p}}, {{t|lv|armija|f}}
-* Lithuanian: {{t-needed|lt}}
+* Lithuanian: {{t+|lt|kariuomenė|f}}
 * Macedonian: {{t|mk|вооружени сили|f-p}}
 * Malay: {{t|ms|angkatan tentera}}
-* Mongolian: {{t|mn|зэвсэгт хүч}}
+* Mongolian:
+*: Cyrillic: {{t|mn|зэвсэгт хүч}}
 * Navajo: {{t|nv|siláołtsooí}}
 * Nogai: {{t|nog|савытлы куьшлер}}
 * Norwegian:
 *: Bokmål: {{t|nb|væpnede styrker|m-p}}, {{t|nb|krigsmakt|m|f}}
 *: Nynorsk: {{t|nn|væpna styrkar|m-p}}, {{t|nn|krigsmakt|f}}
-* Persian: {{t+|fa|نیروهای مسلح|tr=niruhā-ye mosallah}}, {{t|fa|نیروهای زیناوند|tr=nīruhā-ye zīnānd}}, {{t+|fa|لشکر|tr=laškar}}
+* Persian: {{t+|fa|نیروهای مسلح|tr=niruhâ-ye mosallah}}, {{t|fa|نیروهای زیناوند|tr=niruhâ-ye zinând}}, {{t+|fa|لشکر|tr=laškar}}
 * Polish: {{t+|pl|siły zbrojne|f-p}}
 * Portuguese: {{t|pt|forças armadas|f-p}}
 * Romanian: {{t|ro|forțe armate|f-p}}
@@ -64,10 +65,10 @@
 * Spanish: {{t|es|fuerzas armadas|f-p}}
 * Swedish: {{t+|sv|försvarsmakt|c}}, {{t+|sv|krigsmakt|c}}
 * Tagalog: {{t|tl|hukbong-sandatahan}}
-* Thai: {{t-needed|th}}
-* Turkish: {{t+|tr|silahlı kuvvetler}}
+* Thai: {{t|th|การทหาร}}, {{t+|th|กองทัพ}}, {{t|th|พลากร}}
+* Turkish: {{t+|tr|silahlı kuvvetler|p}}
 * Ukrainian: {{t+|uk|збро́йні си́ли|f-p}}
-* Vietnamese: {{t+|vi|quân đội }}, {{t|vi|lực lượng vũ trang }}
+* Vietnamese: {{t+|vi|quân đội}}, {{t|vi|lực lượng vũ trang}}
 * Welsh: {{t|cy|lluoedd arfog|m-p}}
 {{trans-bottom}}
 
