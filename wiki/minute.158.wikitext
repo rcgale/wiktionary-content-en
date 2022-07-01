@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology 1===
-From {{inh|en|enm|mynute}}, {{m|enm|minute}}, {{m|enm|mynet}}, from {{der|en|fro|minute}}, from {{der|en|ML.|minūta||60th of an hour; note}}. {{doublet|en|menu}}.
+From {{inh|en|enm|mynute}}, {{m|enm|minute}}, {{m|enm|mynet}}, from {{der|en|fro|minute}}, from {{der|en|ML.|minūta|t=60th of an hour; note}}. {{doublet|en|menu}}.
 
 ====Pronunciation====
 * {{enPR|mĭn'ĭt}}, {{IPA|en|/ˈmɪnɪt/}}
@@ -535,7 +535,7 @@ Borrowed from {{bor|en|la|minūtus||small", "petty}}, perfect passive participle
 ==Esperanto==
 
 ===Etymology===
-From {{suffix|eo|minuto|e}}.
+From {{suffix|eo|minuto|-e}}.
 
 ===Pronunciation===
 {{eo-IPA}}
@@ -563,9 +563,11 @@ From {{inh|fr|fro|minute}}, borrowed from {{bor|fr|la|minūta}}. Compare {{doubl
 # [[#Noun|minute]] (etymology 1, time unit, all same senses)
 
 ====Derived terms====
-* {{l|fr|à la dernière minute}}
-* {{l|fr|minute de silence}}
-* {{l|fr|minute papillon}}
+{{col3|fr
+|à la dernière minute
+|minute de silence
+|minute papillon
+}}
 
 ====Descendants====
 * {{desc|bor=1|gur|miniti}}
@@ -589,8 +591,11 @@ From {{inh|fr|fro|minute}}, borrowed from {{bor|fr|la|minūta}}. Compare {{doubl
 
 ==Italian==
 
+===Pronunciation===
+{{it-pr|^ù}}
+
 ===Adjective===
-{{it-adj-form|f-p}}
+{{head|it|adjective form}}
 
 # {{adj form of|it|minuto||f|p}}
 
@@ -600,6 +605,9 @@ From {{inh|fr|fro|minute}}, borrowed from {{bor|fr|la|minūta}}. Compare {{doubl
 ----
 
 ==Latin==
+
+===Pronunciation===
+* {{la-IPA|minūte}}
 
 ===Participle===
 {{la-part-form|minūte}}
@@ -631,13 +639,7 @@ Borrowed from {{bor|fro|ML.|minūta}}.
 {{fro-noun|f}}
 
 # {{l|en|minute}} {{gloss|one sixtieth of an hour}}
-
-====Coordinate terms====
-* {{l|fro|segont}}
-* {{l|fro|eure}}
-* {{l|fro|jor}}
-* {{l|fro|semaine}}
-* {{l|fro|an}}
+#: {{coordinate terms|fro|segont|eure|jor|semaine|an}}
 
 ====Descendants====
 * {{desc|frm|minute}}
@@ -654,6 +656,10 @@ Borrowed from {{bor|fro|ML.|minūta}}.
 ----
 
 ==Portuguese==
+
+===Pronunciation===
+{{pt-IPA}}
+* {{hyph|pt|mi|nu|te}}
 
 ===Verb===
 {{head|pt|verb form}}
