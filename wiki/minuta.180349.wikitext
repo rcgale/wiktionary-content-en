@@ -11,8 +11,8 @@
 ==Czech==
 
 ===Pronunciation===
-* {{audio|cs|Cs-minuta.ogg|audio}}
 * {{cs-IPA}}
+* {{audio|cs|Cs-minuta.ogg|audio}}
 * {{rhymes|cs|uta|s=3}}
 * {{hyphenation|cs|mi|nu|ta}}
 
@@ -65,6 +65,7 @@ From {{bor|cs|de|Minute}}, from {{der|cs|LL.|minūta}}.
 ==French==
 
 ===Pronunciation===
+* {{fr-IPA}}
 * {{audio|fr|LL-Q150 (fra)-Lyokoï-minuta.wav|Audio}}
 * {{homophones|fr|minutas|minutât}}
 
@@ -88,8 +89,11 @@ From {{bor|cs|de|Minute}}, from {{der|cs|LL.|minūta}}.
 
 ==Italian==
 
+===Pronunciation===
+{{it-pr|^ù}}
+
 ===Adjective===
-{{it-adj-form|f-s}}
+{{head|it|adjective form}}
 
 # {{adj form of|it|minuto||f|s}}
 
@@ -104,6 +108,10 @@ From {{bor|cs|de|Minute}}, from {{der|cs|LL.|minūta}}.
 ----
 
 ==Latin==
+
+===Pronunciation===
+* {{la-IPA|ann=1|minūta}}
+* {{la-IPA|ann=1|minūtā}}
 
 ===Participle===
 {{la-part-form|minūta}}
@@ -123,7 +131,7 @@ From {{bor|cs|de|Minute}}, from {{der|cs|LL.|minūta}}.
 ==Lower Sorbian==
 
 ===Etymology===
-Borrowed from {{bor|dsb|fro|minute}}, from {{der|dsb|ML.|minūta||60th of an hour", "note}}.
+Borrowed from {{bor|dsb|fro|minute}}, from {{der|dsb|ML.|minūta|t=60th of an hour", "note}}.
 
 ===Noun===
 {{dsb-noun|f|dim=minutka}}
@@ -156,7 +164,12 @@ From {{bor|mt|it|minuto}}.
 #: {{syn|mt|dqiqa|q=obsolete}}
 
 ====Related terms====
-{{col4|mt|minutament|minutant|minutarju|minutiera}}
+{{col4|mt
+|minutament
+|minutant
+|minutarju
+|minutiera
+}}
 
 {{c|mt|Time}}
 
@@ -174,7 +187,7 @@ Borrowed from {{bor|oc|ML.|minūta}}. Compare {{m|oc|menut}}.
 ===Noun===
 {{oc-noun|f}}
 
-# [[minute]] (''unit of time'')
+# [[minute]] {{gloss|unit of time}}
 
 [[Category:oc:Time]]
 
@@ -188,7 +201,7 @@ Borrowed from {{bor|oc|ML.|minūta}}. Compare {{m|oc|menut}}.
 ===Noun===
 {{pl-noun|f}}
 
-# [[minute]] {{gl|''unit of time''}}
+# [[minute]] {{gloss|unit of time}}
 
 ====Declension====
 {{pl-decl-noun-f|minu|t}}
@@ -203,6 +216,10 @@ Borrowed from {{bor|oc|ML.|minūta}}. Compare {{m|oc|menut}}.
 
 ==Portuguese==
 
+===Pronunciation===
+{{pt-IPA}}
+* {{hyph|pt|mi|nu|ta}}
+
 ===Verb===
 {{head|pt|verb form}}
 
@@ -213,7 +230,7 @@ Borrowed from {{bor|oc|ML.|minūta}}. Compare {{m|oc|menut}}.
 ==Romansch==
 
 ===Alternative forms===
-* {{qualifier|Puter|Vallader}} {{l|rm|minut}}
+* {{alter|rm|minut||Puter|Vallader}}
 
 ===Etymology===
 Borrowed from {{bor|rm|ML.|minūta}}.
@@ -231,7 +248,7 @@ Borrowed from {{bor|rm|ML.|minūta}}.
 ==Serbo-Croatian==
 
 ===Alternative forms===
-* {{l|sh|mìnūt}} {{qualifier|Bosnian, Serbian}}
+* {{alter|sh|mìnūt||Bosnian|Serbian}}
 
 ===Pronunciation===
 * {{IPA|sh|/minǔːta/}}
@@ -264,7 +281,7 @@ Borrowed from {{bor|rm|ML.|minūta}}.
 ===Noun===
 {{sl-noun|minȗta|f}}
 
-# [[minute]] (unit of time)
+# [[minute]] {{gloss|unit of time}}
 
 ====Inflection====
 {{sl-decl-noun-f|minút}}
@@ -278,15 +295,18 @@ Borrowed from {{bor|rm|ML.|minūta}}.
 ===Etymology===
 Borrowed from {{bor|es|ML.|minūta}}. Compare {{m|es|minuto}}, {{m|es|menudo}}.
 
+===Pronunciation===
+{{es-IPA}}
+
 ===Noun===
 {{es-noun|f}}
 
 # rough [[draft]]
 # [[bill]]; [[fee]]
-# [[list]] (of various things)
+# [[list]] {{q|of various things}}
 # [[snack]]; quick meal
-# [[menu]] (in a restaurant)
-# [[minute]]; [[note]] (of e.g. a meeting)
+# [[menu]] {{q|in a restaurant}}
+# [[minute]]; [[note]] {{q|of e.g. a meeting}}
 
 ===Further reading===
 * {{R:DRAE}}
