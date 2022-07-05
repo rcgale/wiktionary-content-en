@@ -3,7 +3,7 @@
 
 ===Etymology===
 {{root|en|ine-pro|*mew-}}
-From {{inh|en|enm|-}}, from {{der|en|fro|-}}, from {{der|en|la|mōbilis||easy to be moved, moveable}}, from {{m|la|moveō||move}}.
+From {{inh|en|enm|-}}, from {{der|en|fro|-}}, from {{der|en|la|mōbilis|t=easy to be moved, moveable}}, from {{m|la|moveō|t=move}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|en|/ˈməʊbaɪl/|/ˈməʊbʌɪl/}}
@@ -49,14 +49,13 @@ From {{inh|en|enm|-}}, from {{der|en|fro|-}}, from {{der|en|la|mōbilis||easy to
 # {{lb|en|biology}} Capable of being moved, aroused, or excited; capable of spontaneous movement.
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|MASH}}
-* {{l|en|mobile crane}}
-* {{l|en|mobile library}}
-{{der-mid}}
-* {{l|en|mobile phone}}
-* {{l|en|mobile station}}
-{{der-bottom}}
+{{col3|en
+|MASH
+|mobile crane
+|mobile library
+|mobile phone
+|mobile station
+}}
 
 ====Translations====
 {{trans-top|capable of being moved}}
@@ -161,8 +160,8 @@ From {{inh|en|enm|-}}, from {{der|en|fro|-}}, from {{der|en|la|mōbilis||easy to
 * Korean: {{t|ko|모빌}}
 * Norwegian: {{t+|no|uro|m}}
 * Spanish: {{t+|es|móvil|m}}
-* Swedish: {{t+|sv|mobil}}
-* Turkish: {{t+|tr|dekorasyon|n}}
+* Swedish: {{t+|sv|mobil|c}}
+* Turkish: {{t+|tr|dekorasyon}}
 * Welsh: {{t|cy|symudyn|m}}
 {{trans-bottom}}
 
@@ -174,13 +173,12 @@ From {{inh|en|enm|-}}, from {{der|en|fro|-}}, from {{der|en|la|mōbilis||easy to
 {{trans-bottom}}
 
 ===Related terms===
-{{rel-top}}
-* {{l|en|mobility}}
-* {{l|en|mobilization}}
-{{rel-mid}}
-* {{l|en|mobilize}}
-* {{l|en|move}}
-{{rel-bottom}}
+{{col4|en
+|mobility
+|mobilization
+|mobilize
+|move
+}}
 {{rootsee|en|mew}}
 
 ===Further reading===
@@ -248,11 +246,12 @@ Borrowed from {{bor|fr|la|mōbilis}}. {{doublet|fr|meuble}}.
 * {{l|fr|immobile}}
 
 ====Derived terms====
-{{col3|fr
+{{col4|fr
 |fête mobile
 |igloo mobile
 |station mobile
-|téléphone mobile}}
+|téléphone mobile
+}}
 
 ====Descendants====
 * {{desc|tr|mobil|bor=1}}
@@ -336,6 +335,9 @@ Probably borrowed from {{bor|it|la|mōbilis}}.
 ----
 
 ==Latin==
+
+===Pronunciation===
+* {{la-IPA|mōbile}}
 
 ===Adjective===
 {{la-adj-form|mōbile}}
