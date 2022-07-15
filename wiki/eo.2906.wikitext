@@ -101,13 +101,13 @@ From {{inh|ga|sga|eó}}, from {{inh|ga|cel-pro|*iwos}}, from {{inh|ga|ine-pro|*h
 
 ==Latin==
 
-===Pronunciation===
-* {{la-IPA|eō}}
-* {{audio|la|la-cls-eo.ogg|Audio (Classical)}}
-
 ===Etymology 1===
 {{root|la|ine-pro|*h₁ey-}}
 From {{inh|la|itc-pro|*eō}}, from {{inh|la|ine-pro|*h₁éyti}}.
+
+====Pronunciation====
+* {{la-IPA|eō}}
+* {{audio|la|la-cls-eo.ogg|Audio (Classical)}}
 
 ====Verb====
 {{la-verb|irreg.p3inf|eō}}
@@ -173,8 +173,8 @@ Monosyllabic conjugations were increasingly avoided in Classical Latin and into 
 }}
 
 =====Descendants=====
-In every case there has been extensive suppletion with other verbs. In many cases /j-/ has been extended from conjugations such as {{m|la|eāmus}} (> /ˈjamus/)<ref>Attested already in Pompeii per Väänänen 1981: §77</ref> to the whole paradigm, hence the initial consonant of Italian {{m|it|gire}}, etc.
-{{top4}}
+In every case there has been extensive suppletion with other verbs. In many cases /j-/ has been extended from conjugations such as {{m|la|eāmus}} (> /ˈjamus/)<ref>Attested already in Pompeii per Väänänen, Veikko. 1981. ''Introduction au latin vulgaire''. Paris: Kincksieck. §77.</ref> to the whole paradigm, hence the initial consonant of Italian {{m|it|gire}}, etc.
+{{top3}}
 * Balkan Romance:
 ** {{desc|ro|ii}}
 * Dalmatian:
@@ -187,17 +187,15 @@ In every case there has been extensive suppletion with other verbs. In many case
 ** {{desc|ist|zì}}
 ** {{desc|lld|jì|jir}}
 ** {{desc|rm|ir|eir}}
-* Northern Gallo-Romance:
+* Gallo-Romance:
+** {{desc|frp|ir}} {{qualifier|rare infinitive form of ''allar''}}, {{l|frp|ir-}} {{qualifier|future/conditional stem of [[alar#Franco-Provençal|allar]]}}
 ** {{desc|fr|ir-}} {{qualifier|future/conditional stem of [[aller#French|aller]]}}
-** {{desc|wa|djans}} {{qualifier|1st plural person indicative present form of [[aler#Walloon|aler]], from ''eamus''}}
-* Central Gallo-Romance:
-** {{desc|frp|ir}} {{qualifier|rare infinitive form of ''allar''}}
-*** {{desc|frp|ir-}} {{qualifier|future/conditional stem of [[alar#Franco-Provençal|allar]]}}
-* Southern Gallo-Romance:
-** {{desc|an|ir}}
+** {{desc|wa|djans}} {{qualifier|1st plural person indicative present form of [[aler#Walloon|aler]], from Latin {{m|la|eāmus}}}}
+* Occitano-Romance:
 ** {{desc|ca|ir-}} {{q|future/conditional stem in northern dialects}}<ref>{{R:DCVB|ir}}</ref>
 ** {{desc|pro|ir}} {{q|only in certain dialects}}
 * Ibero-Romance:
+** {{desc|an|ir}}
 ** {{desc|ast|dir}}
 ** {{desc|ext|dir}}
 ** {{desc|gl|ir}}
@@ -207,16 +205,66 @@ In every case there has been extensive suppletion with other verbs. In many case
 ** {{desc|es|ir}}
 {{bottom}}
 
-=====References=====
+====References====
 * {{R:L&S|eo|eo1}}
 * {{R:Elementary Lewis}}
 * {{R:Gaffiot}}
 * {{R:M&A}}
-* Väänänen, Veikko. 1981. ''Introduction au latin vulgaire''. Paris: Kincksieck.
-{{reflist}}
+<references/>
 
 ===Etymology 2===
-Declined from {{m|la|is}}. Somewhere it stands as if for ''eō locō/tempore'' ("this/that place/time, there, till"), somewhere it stand as if for ''eō modō'' ("this/that mode/way, thus"). Compare {{m|la|eā}}.
+From earlier {{m|la|egō̆}}. Attested in the sixth century CE.<ref>{{R:FEW|30|207|ego}}</ref>
+
+====Pronoun====
+{{head|la|pronoun|first person||nominative}}
+
+# {{lb|la|Vulgar Latin|non-standard}} [[I]]
+
+=====Descendants=====
+{{top3}}
+* Balkan Romance:
+** {{desc|rup|io|eu|iou}}
+** {{desc|ruo|io}}
+** {{desc|ruq|io|i̯o}}
+** {{desc|ro|eu}}
+* Dalmatian:
+** {{desc|dlm|ju|nolb=1}}
+* Italo-Romance:
+** {{desc|co|eiu}}
+** {{desc|sdn|e}}
+** {{desc|it|io}}
+*** {{desc|bor=1|ia|io}}
+** {{desc|nap|io|ijo}}
+** {{desc|sdc|eu}}, {{desc|sdc|éiu|nolb=1}}
+** {{desc|scn|eu|iu|jù|jò}}
+* Padanian:
+** {{desc|fur|jo}}
+** {{desc|rm|jau|eau}}
+* Northern Gallo-Romance:
+** {{desctree|fro|je}}
+* Southern Gallo-Romance:
+** {{desc|an|yo}}
+** {{desc|ca|jo}}
+** {{desc|pro|eu|ieu}}
+*** {{desc|oc-gas|jo}}
+*** {{desc|oc-lan|ieu}}
+* Ibero-Romance:
+** {{desc|roa-ole|you|yo}}
+*** {{desc|ast|yo}}
+*** {{desc|ext|yo}}
+*** {{desc|roa-leo|you}}
+*** {{desc|mwl|you}}
+** {{desctree|roa-opt|eu}}
+** {{desc|osp|yo}}
+*** {{desc|lad|yo}} / {{l|lad|ייו}}
+*** {{desc|es|yo}} {{see desc}}
+{{bottom}}
+
+====References====
+<references/>
+
+===Etymology 3===
+Declined from {{m|la|is}}. Sometimes it stands as if for ''eō tempore/locō'' ("in that time/place"), sometimes as if for ''eō modō'' ("that way"). Compare {{m|la|eā}}.
 
 ====Adverb====
 {{la-adv|eō|-}}
@@ -242,7 +290,7 @@ Declined from {{m|la|is}}. Somewhere it stands as if for ''eō locō/tempore'' (
 * {{R:Gaffiot}}
 * {{R:M&A}}
 
-===Etymology 3===
+===Etymology 4===
 {{nonlemma}}
 
 ====Pronoun====
@@ -250,7 +298,7 @@ Declined from {{m|la|is}}. Somewhere it stands as if for ''eō locō/tempore'' (
 
 # {{inflection of|la|is||abl|m//n|s}}
 
-===References===
+====References====
 <references />
 * [https://www.dizionario-latino.com/dizionario-latino-italiano.php?lemma=OBVIAM100 Dizionario Latino, Olivetti]
 
