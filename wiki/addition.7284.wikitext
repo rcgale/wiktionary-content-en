@@ -258,7 +258,7 @@ Sense of “what is [[added]]” dates from 14th century, from {{inh|en|enm|addi
 ==French==
 
 ===Etymology===
-Borrowed from {{bor|fr|la|additiō|additiō, additiōnis}}.
+{{lbor|fr|la|additiō|additiō, additiōnis}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -269,8 +269,12 @@ Borrowed from {{bor|fr|la|additiō|additiō, additiōnis}}.
 ===Noun===
 {{fr-noun|f}}
 
-# {{l|en|addition}} {{gloss|act of adding; thing added; in arithmetic}}
-# [[bill]] {{qualifier|UK}}, [[check]] {{qualifier|US}} {{qualifier|in a restaurant, etc}}
+# {{lb|fr|arithmetic}} [[#English|addition]] {{gloss|operation of adding a number to another}}
+#: {{cot|fr|soustraction|multiplication|division}}
+# [[bill]], [[check]] {{gloss|written note of goods sold, services rendered, or work done, with the price or charge, in a bar or a restaurant}}
+
+====Derived terms====
+* {{l|fr|additionner}}
 
 ====Descendants====
 * {{desc|tr|adisyon|bor=1}}
