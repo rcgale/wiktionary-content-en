@@ -614,9 +614,6 @@ From {{inh|nd|bnt-pro|*gáá-}}.
 
 ==Norwegian Bokmål==
 
-===Alternative forms===
-* {{l|nb|A-}}
-
 ===Etymology 1===
 From the first letter of the Norwegian alphabet {{m|nb|a}}, from {{der|nb|la|a}}, from {{der|nb|grc|Α|t=alpha}}, likely through the {{der|nb|ett|-}} language, from {{der|nb|phn|𐤀}}, from Proto-Canaanite [[Image:Protoalef.svg|20px]], from Proto-Sinaitic [[Image:Proto-semiticA-01.svg|20px]], from {{der|nb|egy|𓃾}}.
 
@@ -629,10 +626,10 @@ From the first letter of the Norwegian alphabet {{m|nb|a}}, from {{der|nb|la|a}}
 
 ====Prefix====
 {{head|nb|prefix}}
-# indicating the [[first]] or [[best]] in something
-#: ''a-lag''
-#:: a-team
+
+# {{senseid|nb|first}} indicating the [[first]] or [[best]] in something
 #: {{syn|nb|a|A-}}
+#: {{prefixusex|nb|lag|a-lag}}
 
 ===Etymology 2===
 From {{der|nb|grc|ἀ-||not, without}}, from {{der|nb|grk-pro|*ə-||un-, not; without, lacking}}, from {{der|nb|ine-pro|*n̥-||not, un-}}. {{doublet|nb|u-}}.
@@ -642,34 +639,27 @@ Compare {{l|nb|an-}} ({{m|grc|ἀν-}} immediately preceding a vowel).
 ====Prefix====
 {{head|nb|prefix}}
 
-# [[#English|a-]] {{q|not, without, opposite of}}
-#: {{ux|nb|apolitisk|apolitical|inline=1}}
-#: {{ux|nb|asosial|asocial|inline=1}}
-#: {{ux|nb|asymmetrisk|asymmetrical|inline=1}}
-#: {{ux|nb|agnostiker|agnostic|inline=1}}
+# {{senseid|nb|not}} [[#English|a-]] {{q|not, without, opposite of}}
 #: {{syn|nb|a|an-}}
+#: {{prefixusex|nb|politisk|t1=political|apolitisk|t2=apolitical}}
+#: {{prefixusex|nb|sosial|t1=social|asosial|t2=asocial}}
+#: {{prefixusex|nb|symmetrisk|t1=symmetrical|asymmetrisk|t2=asymmetrical}}
+#: {{prefixusex|nb|gnostiker|t1=gnostic|agnostiker|t2=agnostic}}
 
 =====Derived terms=====
 {{prefixsee|nb}}
 
 =====Alternative forms=====
-* {{l|nb|an-}}
+* {{alter|nb|an-}}
 
 ===Etymology 3===
-{{root|nb|ine-pro|*temh₁-}}
-First letter of the word {{l|nb|atom||atom}}, from {{der|nb|grc|ἄτομος||indivisible, uncut, undivided}}, '''both''' from {{m|grc|ἀ-||not, without}}, from {{der|nb|grk-pro|*ə-||un-, not; without, lacking}}, from {{der|nb|ine-pro|*n̥-||not, un-}} + '''and''' from {{m|grc|τέμνω||I cut, hew, wound, butcher}}, from {{der|nb|ine-pro|*tm̥-n-h₁-}}, from {{m|ine-pro|*temh₁-||to cut}}.
 
 ====Prefix====
 {{head|nb|prefix}}
 
-# short form of {{l|nb|atom-}}
-#: ''a-bombe''
-#:: atom bomb (a-bomb)
-
-=====Synonyms=====
-* {{l|nb|A-}}
-* {{l|nb|an-}}
-* {{l|nb|a}}
+# {{senseid|nb|atom}} {{short for|nb|atom-}}
+#: {{syn|nb|A-|an-|a}}
+#: {{prefixusex|nb|bombe|a-bombe}}
 
 ===References===
 * {{R:The Bokmål Dictionary}}
