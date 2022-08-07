@@ -1,18 +1,21 @@
 {{also|north-east|Northeast|North East}}
 ==English==
-{{wikipedia}}
+[[File:Compass-icon bb NE.svg|thumb|Northeast.]]
+{{wp}}
 
 ===Alternative forms===
-* {{l|en|north-east}} {{lb|en|UK|common}}
-* {{l|en|nor'-east}}
+* {{alt|en|north-east||UK}}
+* {{alt|en|nor'-east}}
+* {{alt|en|NE||abbreviation}}
 
 ===Etymology===
-{{compound|en|north|east}}
+From {{compound|en|north|east}}.
 
 ===Noun===
-{{en-noun}}
+{{en-noun|-|+}}
 
-# The [[compass point]] halfway between [[north]] and [[east]], specifically 45°, abbreviated as [[NE]].
+# The [[compass point]] halfway between [[north]] and [[east]]; specifically at a [[bearing]] of 45°.
+#: {{ant|en|southwest}}
 #* {{quote-book
 |en
 |year=1972
@@ -30,16 +33,25 @@
 #* '''1990''', United States. Congress. House. Committee on Agriculture. Subcommittee on Conservation, Credit, and Rural Development, ''Rural Economic Development: Hearings'' (page 1604)
 #*: The task of discussing priority concerns for this region is complicated by the fact that there are essentially two rural '''northeasts'''.
 
-====Antonyms====
-* {{l|en|southwest}}
-
 ====Coordinate terms====
 * {{list:compass points/en}}
 
 ====Derived terms====
-* {{l|en|northeastern}}
-* {{l|en|northeast by east}}
-* {{l|en|northeast by north}}
+{{col4|en
+|northeasterly
+|northeastern
+|northeastwards
+|north-northeast
+|north-northeasterly
+|north-northeastern
+|north-northeastwards
+|east-northeast
+|east-northeasterly
+|east-northeastern
+|east-northeastwards
+|northeast by east
+|northeast by north
+}}
 
 ====Translations====
 {{trans-top|compass point}}
@@ -110,12 +122,11 @@
 ===Adjective===
 {{en-adj|-}}
 
-# Towards the northeast; [[northeastward]].
-# In the northeast; [[northeastern]].
-# From the northeast, [[northeasterly]].
-
-====Antonyms====
-* {{l|en|southwest}}
+# Of, in or pertaining to the northeast; [[northeastern]].
+# Towards the northeast; [[northeastward]]s.
+#: {{ux|en|A '''northeast''' course.}}
+# Coming from the northeast; [[northeasterly]].
+#: {{ux|en|A '''northeast''' wind.}}
 
 ====Translations====
 {{trans-see|northeastward}}
@@ -152,4 +163,4 @@
 
 [[Category:English 2-syllable words]]
 [[Category:English locatives]]
-[[Category:en:Compass points]]
+{{C|en|Compass points}}
