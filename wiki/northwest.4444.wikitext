@@ -1,9 +1,12 @@
+{{also|north-west|North West}}
 ==English==
-{{wikipedia|Northwest}}
+[[File:Compass-icon bb NW.svg|thumb|Northwest.]]
+{{wp}}
 
 ===Alternative forms===
-* {{alter|en|north-west}} {{lb|en|UK|common}}
-* {{q|shortened}} {{alter|en|nor west|nor'-west|norwest}}
+* {{alt|en|north-west||UK}}
+* {{alt|en|nor'-west}}
+* {{alt|en|NW||abbreviation}}
 
 ===Etymology===
 From {{compound|en|north|west}}.
@@ -16,21 +19,37 @@ From {{compound|en|north|west}}.
 * {{hyph|en|north|west}}
 
 ===Noun===
-{{en-noun}}
+{{en-noun|-|+}}
 
-# The [[compass point]] halfway between [[north]] and [[west]], bearing 315°, abbreviated as [[NW]].
+# The [[intercardinal]] [[compass point]] halfway between [[west]] and [[north]]; specifically at a [[bearing]] of 315°.
+#: {{ant|en|southeast}}
 
 ====Coordinate terms====
-* {{list:compass points/en}}
+{{list:compass points/en}}
 
 ====Derived terms====
-* {{l|en|northwest by north}}
-* {{l|en|northwest by west}}
-* {{l|en|Northwest Germanic}}
-* {{l|en|Northwest Passage}}
-* {{l|en|Northwest Territories}}
-* {{l|en|Old Northwest}}
-* {{l|en|Pacific Northwest}}
+====Derived terms====
+{{col4|en
+|North West
+|Northwest Germanic
+|Northwest Passage
+|Northwest Territories
+|northwesterly
+|northwestern
+|northwestwards
+|north-northwest
+|north-northwesterly
+|north-northwestern
+|north-northwestwards
+|west-northwest
+|west-northwesterly
+|west-northwestern
+|west-northwestwards
+|northwest by west
+|northwest by north
+|Old Northwest
+|Pacific Northwest
+}}
 
 ====Translations====
 {{trans-top|compass point}}
@@ -101,13 +120,13 @@ From {{compound|en|north|west}}.
 {{trans-bottom}}
 
 ===Adjective===
-{{en-adj|-}}
+{{en-adj|-|more}}
 
-# Of or pertaining to the northwest; [[northwestern]].
-# Towards the northwest; [[northwestward]]s.
-#: ''a '''northwest''' course''
-# From the northwest, [[northwesterly]].
-#: ''a '''northwest''' wind''
+# Of, in or pertaining to the northwest; [[northwestern]].
+# Towards the northwest; [[northwestward]].
+#: {{ux|en|A '''northwest''' course.}}
+# Coming from the northwest; [[northwesterly]].
+#: {{ux|en|A '''northwest''' wind.}}
 
 ====Translations====
 {{trans-top|northwestern}}
@@ -143,6 +162,12 @@ From {{compound|en|north|west}}.
 * Telugu: {{t|te|వాయవ్య}}
 * Turkish: {{t+|tr|kuzeybatı}}
 {{trans-bottom}}
+
+===Adverb===
+{{en-adv|-|more}}
+
+# Towards the northwest; [[northwestward]]s.
+#: {{ux|en|We are travelling '''northwest''' at the moment.}}
 
 ===Anagrams===
 * {{anagrams|en|a=ehnorsttw|net worths|went short}}
