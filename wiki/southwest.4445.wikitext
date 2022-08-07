@@ -1,10 +1,12 @@
 {{also|south-west|Southwest|South West}}
 ==English==
-{{wikipedia|Southwest}}
+[[File:Compass-icon bb SW.svg|thumb|Southwest.]]
+{{wp}}
 
 ===Alternative forms===
-* {{l|en|south-west}} {{lb|en|UK|common}}
-* {{l|en|sou'-west}}
+* {{alt|en|south-west||UK}}
+* {{alt|en|sou'-west}}
+* {{alt|en|SW||abbreviation}}
 
 ===Etymology===
 From {{inh|en|enm|southwest}}, {{m|enm|southewest}}, from {{inh|en|ang|sūþwest}} and {{m|ang|sūþanwestan}}, equivalent to {{compound|en|south|west}}. Cognate with {{cog|fy|súdwest}}, {{cog|nl|zuidwest}}, {{cog|de|Südwesten}}, {{cog|da|sydvest}}, {{cog|sv|sydväst}}.
@@ -16,9 +18,10 @@ From {{inh|en|enm|southwest}}, {{m|enm|southewest}}, from {{inh|en|ang|sūþwest
 * {{rhymes|en|ɛst|s=2}}
 
 ===Noun===
-{{en-noun|-|s}}
+{{en-noun|-|+}}
 
-# The [[compass point]] halfway between [[south]] and [[west]], specifically 225°, abbreviated as [[SW]].
+# The [[intercardinal]] [[compass point]] halfway between [[south]] and [[west]]; specifically at a [[bearing]] of 225°.
+#: {{ant|en|northeast}}
 #* {{RQ:Ferguson Zollenstein|IV|40}}
 #*: So this was my future home, I thought!{{...}}Backed by towering hills, the but faintly discernible purple line of the French boundary off to the '''southwest''', a sky of palest Gobelin flecked with fat, fleecy little clouds, it in truth looked a dear little city; the city of one's dreams.
 
@@ -26,8 +29,21 @@ From {{inh|en|enm|southwest}}, {{m|enm|southewest}}, from {{inh|en|ang|sūþwest
 * {{list:compass points/en}}
 
 ====Derived terms====
-* {{l|en|southwest by south}}
-* {{l|en|southwest by west}}
+{{col4|en
+|southwesterly
+|southwestern
+|southwestwards
+|south-southwest
+|south-southwesterly
+|south-southwestern
+|south-southwestwards
+|west-southwest
+|west-southwesterly
+|west-southwestern
+|west-southwestwards
+|southwest by west
+|southwest by south
+}}
 
 ====Translations====
 {{trans-top|compass point}}
@@ -98,11 +114,13 @@ From {{inh|en|enm|southwest}}, {{m|enm|southewest}}, from {{inh|en|ang|sūþwest
 {{trans-bottom}}
 
 ===Adjective===
-{{en-adj|-}}
+{{en-adj|-|more}}
 
-# Of or pertaining to the southwest; [[southwestern]].
-# Towards the southwest, [[southwestward]]s, [[southwestern]].
-# From the southwest, [[southwesterly]]
+# Of, in or pertaining to the southwest; [[southwestern]].
+# Towards the southwest; [[southwestward]].
+#: {{ux|en|A '''southwest''' course.}}
+# Coming from the southwest; [[southwesterly]].
+#: {{ux|en|A '''southwest''' wind.}}
 
 ====Translations====
 {{trans-top|southwestern}}
@@ -134,6 +152,12 @@ From {{inh|en|enm|southwest}}, {{m|enm|southewest}}, from {{inh|en|ang|sūþwest
 * Turkish: {{t+|tr|güneybatı}}
 {{trans-bottom}}
 
+===Adverb===
+{{en-adv|-|more}}
+
+# Towards the southwest; [[southwestward]]s.
+#: {{ux|en|We are travelling '''southwest''' at the moment.}}
+
+{{C|en|Compass points}}
 [[Category:English 2-syllable words]]
 [[Category:English locatives]]
-[[Category:en:Compass points]]
