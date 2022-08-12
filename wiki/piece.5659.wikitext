@@ -198,7 +198,7 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * Afrikaans: {{t|af|stuk}}
 * Albanian: {{t+|sq|copë}}
 * Arabic: {{t|ar|قِطْعَة|f}}
-*: Egyptian Arabic: {{t|arz|حتة|f|tr=ḥeta|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|حتة|f|tr=ḥeta}}
 *: Hijazi Arabic: {{t|acw|قِطْعَة|f|tr=giṭʿa}}, {{t|acw|شَقْفَة|f|tr=šagfa}}
 *: Moroccan Arabic: {{t|ary|طرف|tr=ṭarf}}
 * Armenian: {{t+|hy|մաս}}, {{t+|hy|կտոր}}
@@ -207,13 +207,13 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * Belarusian: {{t|be|кусо́к|m}}, {{t+|be|кава́лак|m}}, {{t+|be|ча́стка|f}}
 * Belizean Creole: {{t|bzj|pees}}
 * Bengali: {{t|bn|কেতা|tr=qeta}}, {{t|bn|টুকরা}}, {{t|bn|তরফ|tr=tôrôf}}
-* Bulgarian: {{t+|bg|парче|n}}, {{t+|bg|част|f}}
+* Bulgarian: {{t+|bg|парче́|n}}, {{t+|bg|част|f}}
 * Burmese: {{t+|my|အပိုင်းအစ}}, {{t+|my|အပိုင်း}}, {{t+|my|အစ}}
 * Catalan: {{t+|ca|peça|f}}, {{t+|ca|tros|m}}
 * Chamicuro: {{t|ccc|naspejka}}
 * Chinese:
-*: Cantonese: {{t|yue|嚿|tr=gau6|sc=Hani}}, {{t|yue|塊|sc=Hani}}, {{t|yue|块|tr=faai3|sc=Hani}}
-*: Mandarin: {{t+|cmn|片|tr=piàn|sc=Hani}}, {{t+|cmn|塊|sc=Hani}}, {{t+|cmn|块|tr=kuài|sc=Hani}}, {{t+|cmn|片段|tr=piànduàn|sc=Hani}}, {{t+|cmn|部分|tr=bùfen|sc=Hani}}
+*: Cantonese: {{t|yue|嚿|tr=gau6}}, {{t|yue|塊}}, {{t|yue|块|tr=faai3}}
+*: Mandarin: {{t+|cmn|片|tr=piàn}}, {{t+|cmn|塊}}, {{t+|cmn|块|tr=kuài}}, {{t+|cmn|片段|tr=piànduàn}}, {{t+|cmn|部分|tr=bùfen}}
 * Czech: {{t+|cs|kus|m}}
 * Danish: {{t+|da|stykke|n}}, {{t+|da|del|c}}
 * Dutch: {{t+|nl|stuk|n}}, {{t+|nl|deel|n}}, {{t+|nl|onderdeel|n}}
@@ -227,7 +227,7 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * Greek: {{t+|el|κομμάτι|n}}
 * Haitian Creole: {{t|ht|moso}}
 * Hebrew: {{t+|he|חֵלֶק|m|tr=khélek}}
-* Hindi: {{t|hi|टुकड़ा|m}}, {{t+|hi|खंड}}, {{t+|hi|भाग|m}}, {{t+|hi|हिस्सा|m}}
+* Hindi: {{t|hi|टुकड़ा|m}}, {{t+|hi|खंड|m}}, {{t+|hi|भाग|m}}, {{t+|hi|हिस्सा|m}}
 * Hungarian: {{t+|hu|darab}}
 * Icelandic: {{t+|is|hluti|m}}, {{t|is|stykki|n}}
 * Irish: {{t+|ga|píosa|m}}, {{t|ga|giota|m}}, {{t|ga|boim|m}} {{qualifier|literary}}
@@ -235,7 +235,7 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * Japanese: {{qualifier|part}} {{t+|ja|部分|tr=ぶぶん, bubun}}, {{qualifier|small part}} {{t|ja|一切れ|tr=ひときれ, hitokire}}, {{t|ja|一片|tr=いっぺん, ippen}}, {{qualifier|fish, meat}} {{t+|ja|切り身|tr=きりみ, kirimi}}
 * Kazakh: {{t|kk|кесек}}
 * Khmer: {{t+|km|ដុំ}}
-* Korean: {{t+|ko|조각}}, {{t+|ko|부분}}, {{t+|ko|쪽}}
+* Korean: {{t+|ko|조각}}, {{t+|ko|부분(部分)}}, {{t+|ko|쪽}}
 * Kurdish:
 *: Central Kurdish: {{t+|ckb|پارچە}}
 * Kyrgyz: {{t+|ky|үзүм}}
@@ -249,15 +249,16 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * Macedonian: {{t|mk|парче|n}}, {{t|mk|дел|m}}
 * Maltese: {{t|mt|biċċa|f}}
 * Maori: {{t|mi|wāhanga}}
-* Mongolian: {{t+|mn|зүсэм|sc=Cyrl}}, {{t+|mn|хэрчим|sc=Cyrl}}, {{t+|mn|нөхөөс|sc=Cyrl}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|зүсэм}}, {{t+|mn|хэрчим}}, {{t+|mn|нөхөөс}}
 * Norman: {{t|nrf|morcé|m}} {{qualifier|Jersey|Guernsey}}
 * Norwegian:
 *: Bokmål: {{t+|nb|stykke|n}}
 *: Nynorsk: {{t|nn|stykke|n}}
 * Occitan: {{t+|oc|pèça|f}}
 * Old English: {{t|ang|styċċe}}
-* Pashto: {{t+|ps|ټوټه}}
-* Persian: {{t+|fa|تکه|tr=tekke|sc=fa-Arab}}, {{t+|fa|پارچه|tr=pârče}}, {{t+|fa|قطعه|tr=qet'e}}
+* Pashto: {{t+|ps|ټوټه|f|tr=ṭoṭa}}
+* Persian: {{t+|fa|تکه|tr=tekke}}, {{t+|fa|پارچه|tr=pârče}}, {{t+|fa|قطعه|tr=qet'e}}
 * Polish: {{t+|pl|kawałek|m}}, {{t+|pl|część|f}}, {{t+|pl|element|m}}
 * Portuguese: {{t+|pt|peça|f}}, {{t+|pt|pedaço|m}}, {{t+|pt|parte|f}}
 * Quechua: {{t|qu|p'aki}}
@@ -267,15 +268,15 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * Sanskrit: {{t+|sa|खण्ड}}
 * Scottish Gaelic: {{t|gd|bìdeag|f}}, {{t|gd|criomag|f}}, {{t|gd|mìr|m}}, {{t|gd|pìos|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|парче|n|sc=Cyrl}}, {{t|sh|део|m|sc=Cyrl}}, {{t|sh|част|f|sc=Cyrl}}, {{t|sh|комад|m|sc=Cyrl}}
-*: Roman: {{t+|sh|parče|n}}, {{t+|sh|deo|m}}, {{t+|sh|čast|f}}, {{t+|sh|komad|m}}
+*: Cyrillic: {{t|sh|па́рче|n}}, {{t|sh|де̏о|m}}, {{t|sh|ко̀ма̄д|m}}
+*: Roman: {{t+|sh|párče|n}}, {{t+|sh|dȅo|m}}, {{t+|sh|kòmād|m}}
 * Slovak: {{t+|sk|kus|m}}, {{t|sk|kúsok|m}}
 * Slovene: {{t+|sl|kos|m}}, {{t+|sl|del|m}}
 * Spanish: {{t+|es|pieza|f}}, {{t+|es|pedazo|m}}, {{t+|es|trozo|m}}
 * Swahili: {{t+|sw|kipande}}, {{t+|sw|gawo}}
 * Swedish: {{t+|sv|stycke|n}}, {{t+|sv|bit|c}}
 * Tajik: {{t|tg|тикка}}, {{t|tg|порча}}, {{t|tg|лӯнда}}
-* Tamil: {{t+|ta|துண்டு|sc=Taml}}
+* Tamil: {{t+|ta|துண்டு}}
 * Thai: {{t+|th|อัน}}, {{t+|th|ชิ้น}}
 * Tibetan: {{t-needed|bo}}
 * Tok Pisin: {{t+|tpi|hap}}
@@ -315,7 +316,7 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * Armenian: {{t+|hy|խաղաքար}}
 * Azerbaijani: {{t+|az|daş}}, {{t|az|fiqur}} {{qualifier|chess}}
 * Belarusian: {{t|be|фігу́ра|f}}, {{t|be|фі́шка|f}}
-* Bulgarian: {{t+|bg|фи́гура|f|sc=Cyrl}}
+* Bulgarian: {{t+|bg|фи́гура|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|棋子|tr=qízǐ}}
 * Czech: {{t+|cs|figura|f}}, {{t+|cs|kámen|m}}
@@ -326,8 +327,8 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 {{trans-mid}}
 * Italian: {{t+|it|pezzo|m}}
 * Japanese: {{t|ja|ピース|tr=pīsu}}, {{t+|ja|駒|tr=こま, koma}}
-* Korean: {{t+|ko|기물}}, {{t|ko|피스}}
-* Persian: {{t+|fa|مهره|tr=mohre|sc=fa-Arab}}
+* Korean: {{t+|ko|기물(器物)}}, {{t|ko|피스}}
+* Persian: {{t+|fa|مهره|tr=mohre}}
 * Polish: {{t+|pl|pionek|m}}
 * Portuguese: {{t+|pt|peça|f}}
 * Russian: {{t+|ru|фигу́ра|f}}, {{t+|ru|фи́шка|f}}
@@ -363,8 +364,9 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * Italian: {{t+|it|brano|m}}, {{t+|it|pezzo|m}}
 {{trans-mid}}
 * Japanese: {{t+|ja|作品|tr=さくひん, sakuhin}}
-* Korean: {{t+|ko|작품}}
-* Mongolian: {{t+|mn|зохиол|sc=Cyrl}}, {{t+|mn|жүжиг|sc=Cyrl}}
+* Korean: {{t+|ko|작품(作品)}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|зохиол}}, {{t+|mn|жүжиг}}
 * Polish: {{t+|pl|dzieło|n}}, {{t+|pl|praca|f}}, {{t+|pl|utwór|m}} {{qualifier|chiefly literary work or musical composition}}, {{t+|pl|sztuka|f}} {{qualifier|dramatic work}}
 * Portuguese: {{t+|pt|peça|f}}
 * Russian: {{t+|ru|произведе́ние|n}}, {{t+|ru|пье́са|f}} {{qualifier|music piece, play}}
@@ -374,9 +376,10 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 {{trans-bottom}}
 
 {{trans-top|article published in the press}}
-* Bulgarian: {{t+|bg|статия|f}}
+* Bulgarian: {{t+|bg|ста́тия|f}}
 * Finnish: {{t+|fi|juttu}}
 {{trans-mid}}
+* Russian: {{t+|ru|статья́|f}}
 {{trans-bottom}}
 
 {{trans-top|artillery gun}}
@@ -451,7 +454,7 @@ It could be argued that the phrase was never meant (not even metaphorically) to 
 * Indonesian: {{t+check|id|potong}}
 * Italian: {{t+check|it|pezzo|m}}
 {{trans-mid}}
-* Persian: {{t+check|fa|تکه|tr=tekke|sc=fa-Arab}}
+* Persian: {{t+check|fa|تکه|tr=tekke}}
 * Spanish: {{t+check|es|pedazo|m}}, {{t+check|es|trozo|m}}
 * Turkish: {{t+check|tr|tane}}
 * Volapük: {{t+check|vo|balat}}
