@@ -20,7 +20,7 @@
 ----
 
 ==Italian==
-{{ordinalbox|it|1º|2º|3º|primo|terzo|card=due}}
+{{number box|it}}
 
 ===Pronunciation===
 {{it-pr|secóndo<audio:It-un secondo.ogg>}}
@@ -35,13 +35,13 @@ From {{inh|it|la|secundus||he who [[follow]]s, second}}, from {{m|la|sequor||to 
 ====Adjective====
 {{it-adj}}
 
-# {{lb|it|before the noun}} [[second]]
+# {{lb|it|ordinal|before the noun}} [[second]]
 # {{lb|it|in names of monarchs and popes|after the name}} the [[second]]
 
 ====Noun====
 {{it-noun|m}}
 
-# [[second]] {{gloss|unit of time}}
+# {{lb|it|fractional}} [[second]] {{gloss|unit of time}}
 # second {{gloss|in boxing or duelling}}
 # [[second mate]], [[executive officer]] {{gloss|in the navy}}
 # [[main course]] {{gloss|of a meal}}
@@ -75,9 +75,4 @@ From {{der|it|la|secundum|secundum|pos=preposition and adverb|after, behind, acc
 =====Derived terms=====
 * {{l|it|secondo me}}
 
-===See also===
-* [[Appendix:Italian numbers]]
-
 {{C|it|Time}}
-
-{{cln|it|ordinal numbers}}
