@@ -10,6 +10,7 @@
 # [[height]]
 
 ===Etymology 2===
+From {{der|ace|poz-pro|*maləm}}.
 
 ====Noun====
 {{head|ace|noun}}
@@ -26,7 +27,8 @@
 ==Brunei Malay==
 
 ===Etymology===
-Compare {{cog|ms|malam}}.
+{{dercat|kxd|poz-mly-pro|inh=1}}
+From {{inh|kxd|poz-pro|*maləm}}.
 
 ===Pronunciation===
 * {{IPA|kxd|/malam/}}
@@ -36,6 +38,8 @@ Compare {{cog|ms|malam}}.
 {{head|kxd|noun}}
 
 # The time of the day between [[dusk]] and [[midnight]]; [[evening]] or [[night]].
+
+{{C|kxd|Times of day}}
 
 ----
 
@@ -59,7 +63,8 @@ A clipping of {{m|ha|malami}}.
 ==Iban==
 
 ===Etymology===
-From {{inh|ms|poz-pro|*maləm|t=night, darkness}}.
+{{dercat|iba|poz-mly-pro|inh=1}}
+From {{inh|iba|poz-pro|*maləm|t=night, darkness}}.
 
 ===Pronunciation===
 * {{IPA|iba|/malam/}}
@@ -67,11 +72,13 @@ From {{inh|ms|poz-pro|*maləm|t=night, darkness}}.
 
 ===Noun===
 {{head|iba|noun}}
-#[[night]]
+
+# [[night]]
 
 ====Derived terms====
-{{der4|iba|semalam}}
-{{der4|iba|demalam}}
+{{der4|iba|demalam|semalam}}
+
+{{C|iba|Times of day}}
 
 ----
 
@@ -82,14 +89,14 @@ From {{inh|ms|poz-pro|*maləm|t=night, darkness}}.
 * {{rhymes|id|am|s=2}}
 
 ===Etymology 1===
-From {{inh|id|ms|malam}}, 
-from {{inh|id|ms-cla|malam}}.
+{{dercat|kxd|poz-mly-pro|inh=1}}
+From {{inh|id|ms|malam}}, from {{inh|id|ms-cla|malam}}, from {{inh|id|poz-pro|*maləm}}.
 
 ====Alternative forms====
 * {{l|id|malem}} {{q|nonstandard}}
 
 ====Noun====
-{{id-noun}}
+{{id-noun|pl=malam-malam}}
 
 # [[night]]
 
@@ -116,7 +123,7 @@ Borrowed from {{bor|id|jv|malam|tr={{l|jv|ꦩꦭꦩ꧀|tr=-}}|t=}}, probably fro
 ===Further reading===
 * {{R:KBBI Daring}}
 
-[[Category:id:Time]]
+{{C|id|Times of day}}
 
 ----
 
@@ -137,6 +144,7 @@ Borrowed from {{bor|id|jv|malam|tr={{l|jv|ꦩꦭꦩ꧀|tr=-}}|t=}}, probably fro
 ==Malay==
 
 ===Etymology===
+{{dercat|ms|poz-mly-pro|inh=1}}
 From {{inh|ms|poz-pro|*maləm|t=night, darkness}}.
 
 ===Pronunciation===
@@ -154,9 +162,15 @@ From {{inh|ms|poz-pro|*maləm|t=night, darkness}}.
 ====Derived terms====
 {{der4|ms|semalam}}
 
+====Descendants====
+* {{desc|id|malam}}
+* {{desc|bor=1|tft|malam}}
+
 ===Further reading===
 * {{R:PRPM}}
 * [https://www.trussel2.com/acd/acd-s_m.htm#11519 Austronesian Comparative Dictionary - *malem]
+
+{{C|ms|Times of day}}
 
 ----
 
@@ -176,11 +190,18 @@ From {{der|tft|ms|malam}}.
 ===References===
 * {{R:tft:Hayami-Allen:2001}}
 
+{{C|tft|Times of day}}
+
 ----
 
 ==Yakan==
+
+===Etymology===
+From {{der|yka|poz-pro|*maləm}}.
 
 ===Noun===
 {{head|yka|noun}}
 
 # [[evening]], [[eve]]
+
+{{C|yka|Times of day}}
