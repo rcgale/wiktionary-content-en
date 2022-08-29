@@ -159,9 +159,9 @@ Risk management and risk mitigation experts (such as actuaries, systems engineer
 * Latin: {{t|la|calamitas|f}}
 * Latvian: {{t|lv|gadījums|m}}
 * Lithuanian: {{t+|lt|įvykis|m}}
-{{trans-mid}}
 * Low German:
 *: German Low German: {{t+|nds-de|Unfall|m}}
+{{trans-mid}}
 * Macedonian: {{t|mk|несреќа|f}}, {{t|mk|незгода|f}}
 * Malay: {{t|ms|kemalangan}}
 * Malayalam: {{t+|ml|അപകടം}}
@@ -173,7 +173,8 @@ Risk management and risk mitigation experts (such as actuaries, systems engineer
 *: Bokmål: {{t+|no|ulykke|m|f}}, {{t+|no|uhell|n}}, {{t|no|ulykkestilfelle|n}}
 *: Nynorsk: {{t|nn|ulukke|f}}, {{t|nn|ulykke|f}}, {{t|nn|uhell|n}}
 * Oromo: {{t|om|balaa}}
-* Persian: {{t+|fa|تصادف|tr=tasâdof}}
+* Pashto: {{t+|ps|پېښه|f|tr=pex̌a}}, {{t+|ps|حادثه|f|tr=hādesa}}
+* Persian: {{t+|fa|تصادف|tr=tasâdof}}, {{t+|fa|حادثه|tr=hâdese}}, {{t+|fa|سانحه|tr=sânehe}}
 * Polish: {{t+|pl|wypadek|m-in}}
 * Portuguese: {{t+|pt|acidente|m}}
 * Romanian: {{t+|ro|accident|n}}
@@ -190,7 +191,7 @@ Risk management and risk mitigation experts (such as actuaries, systems engineer
 * Swahili: {{t+|sw|ajali}}
 * Swedish: {{t+|sv|olycka|c}}
 * Tagalog: {{t+|tl|aksidente}}, {{t|tl|disgrasya}}, {{t+|tl|sakuna}}
-* Tajik: {{t+|tg|авария}}, {{t+|tg|фалокат}}, {{t+|tg|тасодуф}}, {{t+|tg|садама}}
+* Tajik: {{t+|tg|авария}}, {{t+|tg|фалокат}}, {{t+|tg|тасодуф}}, {{t+|tg|садама}}, {{t|tg|сониҳа}}
 * Thai: {{t+|th|อุบัติเหตุ}}
 * Tigrinya: {{t|ti|ሓደጋ}}, {{t|ti|ሃንደበት}}
 * Turkish: {{t+|tr|kaza}}
@@ -199,7 +200,7 @@ Risk management and risk mitigation experts (such as actuaries, systems engineer
 * Urdu: {{t+|ur|حادثہ|m|tr=hādsā}}
 * Uyghur: {{t|ug|ئاۋارىيە}}, {{t|ug|ھادىسە}}
 * Uzbek: {{t+|uz|avariya}}, {{t+|uz|falokat}}, {{t+|uz|balo}}, {{t+|uz|tasodif}}, {{t+|uz|baxtsizlik}}
-* Vietnamese: {{t+|vi|sự cố}}
+* Vietnamese: {{t+|vi|sự cố}}, {{t+|vi|tai nạn}}
 * Walloon: {{t+|wa|accidint|m}}, {{t+|wa|kénte|f}}
 * Westrobothnian: {{t|gmq-bot|ofäl|f}}
 * Yiddish: {{t|yi|אַקצידענט|m}}
@@ -207,7 +208,8 @@ Risk management and risk mitigation experts (such as actuaries, systems engineer
 {{trans-bottom}}
 
 {{trans-top|chance event}}
-* Arabic: {{t|ar|مُصَادَفَة|f}}
+* Arabic: {{t|ar|مُصَادَفَة|f}}, {{t+|ar|صُدْفَة|f}}, {{t+|ar|صِدْفَة|f}}
+* Belarusian: {{t|be|вы́падак|m}}
 * Danish: {{t|da|tilfældighed|c}}, {{t+|da|tilfælde|n}}
 * Dutch: {{t+|nl|toeval|n}}
 * Finnish: {{t+|fi|sattuma}}, {{t+|fi|vahinko}}
@@ -218,16 +220,19 @@ Risk management and risk mitigation experts (such as actuaries, systems engineer
 *: German Low German: {{t|nds-de|Tofall|m}}
 * Malayalam: {{t+|ml|ആകസ്മികം}}
 * Portuguese: {{t+|pt|acidente|m}}
+* Russian: {{t+|ru|слу́чай|m}}
+* Ukrainian: {{t|uk|ви́падок|m}}
 {{trans-bottom}}
 
 {{trans-top|chance}}
-* Arabic: {{t+|ar|صُدْفَة|f}}
+* Arabic: {{t+|ar|صُدْفَة|f}}, {{t+|ar|صِدْفَة|f}}
 * Finnish: {{t+|fi|sattuma}}
 * Japanese: {{t+|ja|偶然|tr=ぐうぜん, gūzen}}
-{{trans-mid}}
 * Korean: {{t+|ko|우연(偶然)}}
+{{trans-mid}}
 * Latin: {{t|la|temeritās|f}}
 * Malayalam: {{t+|ml|ആകസ്മികം}}
+* Russian: {{t+|ru|слу́чай|m}}
 {{trans-bottom}}
 
 {{trans-top|transport: unintended event that causes damage}}
@@ -239,8 +244,9 @@ Risk management and risk mitigation experts (such as actuaries, systems engineer
 * Armenian: {{t+|hy|վթար}}
 * Azerbaijani: {{t+|az|qəza}}
 * Basque: {{t+|eu|istripu}}
+* Belarusian: {{t|be|ава́рыя|f}}, {{t|be|сутыкне́нне|n}}, {{t|be|даро́жна-тра́нспартнае здарэ́нне|n}} {{qualifier|traffic accident}}, {{t|be|ДТЗ|n}}
 * Bislama: {{t|bi|aksidong}}, {{t|bi|bang}}
-* Bulgarian: {{t+|bg|катастро́фа|f}}
+* Bulgarian: {{t+|bg|катастро́фа|f}}, {{t+|bg|ава́рия|f}}, {{t|bg|пътнотра́нспортно произше́ствие|n}} {{qualifier|traffic accident}}
 * Catalan: {{t+|ca|accident|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|車禍}}, {{t+|cmn|车祸|tr=chēhuò}}
@@ -253,13 +259,14 @@ Risk management and risk mitigation experts (such as actuaries, systems engineer
 * French: {{t+|fr|accident|m}}
 * Galician: {{t|gl|accidente|m}}
 * Georgian: {{t-needed|ka}}
-{{trans-mid}}
 * German: {{t+|de|Unfall|m}}
 * Hebrew: {{t+|he|תְאוּנָה|f|tr=te'uná}}
 * Hungarian: {{t+|hu|baleset}}
 * Indonesian: {{t+|id|kecelakaan}}
+{{trans-mid}}
 * Italian: {{t+|it|incidente|m}}
 * Japanese: {{t+|ja|事故|tr=じこ, jiko}}
+* Kazakh: {{t|kk|жол-көлік оқиғасы}} {{qualifier|traffic accident}}
 * Korean: {{t+|ko|사고(事故)}}
 * Lao: {{t|lo|ອຸບັດເຫດ}}
 * Lithuanian: {{t|lt|autoįvykis|m}}, {{t+|lt|įvykis|m}}
@@ -271,10 +278,11 @@ Risk management and risk mitigation experts (such as actuaries, systems engineer
 * Polish: {{t+|pl|wypadek|m-in}}
 * Portuguese: {{t+|pt|acidente|m}}
 * Romanian: {{t+|ro|accident|n}}
-* Russian: {{t+|ru|ава́рия|f}}, {{t+|ru|столкнове́ние|n}}
+* Russian: {{t+|ru|ава́рия|f}}, {{t+|ru|столкнове́ние|n}}, {{t+|ru|доро́жно-тра́нспортное происше́ствие|n}} {{qualifier|traffic accident}}, {{t+|ru|ДТП|n}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|у̀дес|m}}
 *: Roman: {{t+|sh|ùdes|m}}
+* Slovak: {{t+|sk|nehoda|f}}
 * Spanish: {{t+|es|accidente}}
 * Swahili: {{t+|sw|ajali}}
 * Swedish: {{t+|sv|trafikolycka|c}}
