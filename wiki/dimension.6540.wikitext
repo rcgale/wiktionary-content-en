@@ -293,6 +293,10 @@ From {{der|en|la|dīmēnsiō|dīmēnsiō, dīmēnsiōnem}}.
 {{en-verb}}
 
 # {{lb|en|transitive}} To [[mark]], [[cut]] or [[shape]] something to specified dimensions.
+# {{lb|en|transitive|programming}} To specify the size of (an [[array]] or similar [[data structure]]); to [[allocate]].
+#: {{hyponyms|en|redimension}}
+#* '''2002''', James D. Foxall, ‎Wendy Haro-Chun, ''SAMS Teach Yourself C# in 24 Hours'' (page 268)
+#*: '''Dimension''' an array to hold only as much data as you intend to put into it.
 
 ====Translations====
 {{trans-top|to mark, cut or shape something to specified dimensions}}
