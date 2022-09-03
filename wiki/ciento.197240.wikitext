@@ -20,7 +20,7 @@ From {{bor|nhe|es|ciento}}.
 ----
 
 ==Spanish==
-{{number box|es|100}}
+{{number box|es}}
 
 ===Etymology===
 From {{inh|es|osp|-}}, from {{inh|es|la|centum}}, from {{inh|es|itc-pro|*kentom}}, from {{inh|es|ine-pro|*ḱm̥tóm}}.
@@ -31,25 +31,13 @@ From {{inh|es|osp|-}}, from {{inh|es|la|centum}}, from {{inh|es|itc-pro|*kentom}
 * {{homophones|es|siento}} {{qualifier|depending on region}}
 
 ===Number===
-{{head|es|numeral|cardinal numeral||plural|cientos}}
+{{es-card}}
 
-# {{lb|es|cardinal number}} [[one-hundred]] {{gloss|100}}
+# [[one hundred]] {{gl|100}} {{q|only in compounds followed by lower numerals}} 
+#: {{uxi|es|'''Ciento''' dos personas vinieron.|t='''One hundred''' and two people came.}}
 
 ====Usage notes====
-* When used as an adjective before the modified noun, the [[apocopate]] form {{m|es|cien}} is used instead of {{m|es||ciento}}.
-:: '''''cien''' casas'' – “a hundred houses”
-* In composite numbers, the form {{m|es||cien}} is used before larger numbers components, {{m|es||ciento}} before smaller numbers:
-:: '''''cien''' mil pesos'' – “a hundred thousand pesos” ($100,000)
-:: '''''ciento''' noventa pesos'' – “a hundred ninety pesos” ($190)
-* When used substantively to indicate the number 100 itself, {{m|es||cien}} is more common in modern usage:
-:: ''los números de uno hasta el '''cien''''' – “the numbers from one to a hundred”
-:: ''hay dos '''cienes''' en el papel'' – “there are two hundreds on the paper” (two occurrences of the number one hundred)
-* In the indefinite sense, {{m|es||ciento}} is used:
-:: '''''cientos''' de pesos'' – “hundreds of pesos”
-* To indicate [[percentage#English|percentage]]s, {{m|es||ciento}} is usually used, with regional exceptions, especially for 100%:
-:: ''cincuenta por '''ciento''''' – “fifty percent”
-:: '''''cien''' por '''cien''''' – “a hundred percent”
-:: '''''ciento''' por '''ciento''''' – “a hundred percent”
+* See {{m|es|cien}} for usage of {{m|es|cien}} vs. {{m|es|ciento}}.
 
 ====Derived terms====
 * {{l|es|ciento y la madre}}
@@ -69,7 +57,12 @@ From {{inh|es|osp|-}}, from {{inh|es|la|centum}}, from {{inh|es|itc-pro|*kentom}
 * {{desc|bor=1|lmw|ṣijénto}}
 * {{desc|bor=1|tl|siyento}}
 
+===Noun===
+{{es-noun|m}}
+
+# [[hundred]] {{gloss|100 units of something}}
+#: {{ux|es|Compré dos '''cientos''' de manzanas.|t=I bought two '''hundred''' apples.|lit=I bought two hundreds of apples}}
+# {{lb|es|in the plural}} [[hundred]]s {{gl|an indefinite number consisting of several hundred}}
+
 ===Further reading===
 * {{R:es:DRAE}}
-
-{{cln|es|cardinal numbers}}
