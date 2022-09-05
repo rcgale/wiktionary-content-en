@@ -25,23 +25,34 @@ Shortening of {{der|en|enm|mappemounde}}, {{m|enm|mapemounde|t=world map}}, from
 {{en-noun}}
 
 # A visual [[representation]] of an [[area]], whether real or imaginary, showing the relative positions of places and other features.
+#: {{syn|en|plan|chart}}
 #: ''a '''map''' of Australia'', ''a '''map''' of Lilliput''
 #* {{quote-journal|en|year=2012|month=March&ndash;April| author=[[w:Brian Hayes (scientist)|Brian Hayes]]| title=Pixels or Perish| volume=100| issue=2| page=106| magazine={{w|American Scientist}}| url=http://www.americanscientist.org/issues/pub/pixels-or-perish| passage=Drawings and pictures are more than mere ornaments in scientific discourse. Blackboard sketches, geological '''maps''', diagrams of molecular structure, astronomical photographs, MRI images, the many varieties of statistical charts and graphs: These pictorial devices are indispensable tools for presenting evidence, for explaining a theory, for telling a story.}}
-#* '''2016''', [https://web.archive.org/web/20170925022505/https://learningenglish.voanews.com/a/lets-learn-english-lesson-4/3168920.html VOA Learning English] (public domain)
-#*: Anna, it is a '''map'''.
+#* {{quote-web|en
+|year=2016
+|url=https://web.archive.org/web/20170925022505/https://learningenglish.voanews.com/a/lets-learn-english-lesson-4/3168920.html
+|title=Learning English ''(public domain)''
+|in=VOA
+|passage=Anna, it is a '''map'''.}}
 #*:: {{audio|en|Anna, it is a map.ogg|Audio (US)}}
 # A graphical or logical representation of any structure or system, showing the [[position]]s of or [[relationship]]s between its components.
+#: {{syn|en|plan|chart}}
 #: ''a '''map''' of the Earth's magnetic field''
-#* '''2005''', Craig Steiner, ''The 8051/8052 Microcontroller'' (page 9)
-#*: The 256 bytes of internal RAM are subdivided as shown in the memory '''map''' above.
+#* {{quote-book|en
+|year=2005
+|author=Craig Steiner
+|title=The 8051/8052 Microcontroller
+|page=9
+|passage=The 256 bytes of internal RAM are subdivided as shown in the memory '''map''' above.}}
 #* {{quote-journal|en|year=2012|month=March-April|author=[[w:Terry Sejnowski|Terrence J. Sejnowski]]| title=Well-connected Brains| volume=100| issue=2|page=171
 |magazine={{w|American Scientist}}
 |url=http://www.americanscientist.org/bookshelf/pub/well-connected-brains
 |passage=Creating a complete '''map''' of the human connectome would therefore be a monumental milestone but not the end of the journey to understanding how our brains work.}}
 # {{lb|en|mathematics}} A [[function]]. [[Category:en:Functions]]
+#: {{syn|en|mapping|function}}
 #: Let <math>f</math> be a '''map''' from <math>\mathbb{R}</math> to <math>\mathbb{R}</math>
 # {{lb|en|entomology}} Any of various [[nymphalid]] butterflies of the genera ''[[w:Araschnia|Araschnia]]'' (especially, {{taxlink|Araschnia levana|species|ver=160924}}) and ''[[w:Cyrestis|Cyrestis]]'', having map-like markings on the wings.
-# {{lb|en|UK|old-fashioned}} The [[face]].
+# {{lb|en|UK|dated}} The [[face]].
 #* {{quote-book
 |en
 |year=1960
@@ -50,19 +61,15 @@ Shortening of {{der|en|enm|mappemounde}}, {{m|enm|mapemounde|t=world map}}, from
 |section=chapter X
 |passage=And as the eye rested on him, he too filled me with pity and terror, for his '''map''' was flushed and his manner distraught. He looked like Jack Dempsey at the conclusion of his first conference with Gene Tunney, the occasion, if you remember, when he forgot to duck.}}
 # {{lb|en|board games|video games}} An imaginary or fictional area, often predefined and confined, where a game or a session thereof takes place.
+#: {{syn|en|level|stage}}
 #: {{ux|en|I don't want to play this '''map''' again!}}
 #* {{quote-web|en
 |title=''Evolve'' Review: Middle of the food chain|author=Steven Strom|date=Feb 14 2015|site=Ars Technica|passage=On top of that, each of ''Evolve's'' '''maps''' are dim, open arenas with little to interact with besides the occasional hostile organism.
 |url=https://arstechnica.com/gaming/2015/02/evolve-review-middle-of-the-food-chain/}}
+# {{lb|en|computing}} {{syn of|en|associative array}}.
 
 ====Usage notes====
 For the most part, ''map'' and ''function'' are synonyms in mathematics, and are frequently used interchangeably; however, certain branches of mathematics sometimes use ''map'' in a specialised sense to mean a function that preserves some important property in that branch of mathematics, i.e. a [[morphism]]. For instance, in [[topology]], ''map'' may specifically mean a [[continuous function]], and in [[linear algebra]] it may specifically mean a [[linear transformation]].
-
-====Synonyms====
-* {{l|en|plan}}
-* {{l|en|chart}}
-* {{sense|mathematics}} {{l|en|mapping}}, {{l|en|function}}.
-* {{sense|video games}} {{l|en|level}}, {{l|en|stage}}.
 
 ====Hyponyms====
 {{col3|en|argument map|concept map|Hénon map|mind map|overworld map|roadmap|texture map|thematic map|topic map}}
@@ -262,6 +269,8 @@ For the most part, ''map'' and ''function'' are synonyms in mathematics, and are
 * Finnish: {{t|fi|karttaperhonen}}
 * Russian: {{t|ru|пестрокрыльница изменчивая}}
 {{trans-bottom}}
+
+{{trans-see|associative array}}
 
 ===Verb===
 {{en-verb}}
