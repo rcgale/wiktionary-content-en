@@ -137,9 +137,9 @@ From {{inh|en|enm|bagge}}, borrowed from {{der|en|non|baggi|t=bag, pack, satchel
 * Bashkir: {{t|ba|тоҡ}}, {{qualifier|small}} {{t|ba|тоҡсай}}
 * Basque: {{t|eu|poltsa}}
 * Belarusian: {{t|be|су́мка|f}}, {{t|be|мяшо́к|m}}, {{t|be|то́рба|f}}
-* Bengali: {{t|bn|ব্যাগ|sc=Beng}}
+* Bengali: {{t|bn|ব্যাগ}}
 * Bulgarian: {{t+|bg|торба́|f}}, {{t+|bg|ча́нта|f}}, {{t+|bg|чува́л|m}}, {{t+|bg|плик|m}} {{q|paper}}
-* Burmese: {{t+|my|အိတ်|sc=Mymr}}
+* Burmese: {{t+|my|အိတ်}}
 * Catalan: {{t+|ca|bossa|f}}
 * Cherokee: {{t|chr|ᏕᎦᎵᏗ}}
 * Chichewa: {{t|ny|thumba}}
@@ -149,7 +149,7 @@ From {{inh|en|enm|bagge}}, borrowed from {{der|en|non|baggi|t=bag, pack, satchel
 *: Mandarin: {{t+|cmn|包|tr=bāo}}, {{t+|cmn|袋|tr=dài}}
 * Cornish: {{t|kw|sagh|m}}
 * Czech: {{t+|cs|taška|f}}, {{t+|cs|pytel|m}}
-* Danish: {{t|da|bærepose}}, {{t+|da|sæk}}, {{t+|da|taske}}
+* Danish: {{t|da|bærepose|c}}, {{t+|da|sæk|c}}, {{t+|da|taske|c}}
 * Dutch: {{t+|nl|zak|m}}, {{t+|nl|tas|f}}
 * Dzongkha: {{t|dz|ཕད་ཅུང}}
 * East Malay: {{t|id|uncaŋ}}
@@ -169,7 +169,7 @@ From {{inh|en|enm|bagge}}, borrowed from {{der|en|non|baggi|t=bag, pack, satchel
 * Gujarati: {{t+|gu|થેલી|f}}
 * Haitian Creole: {{t|ht|sak}}, {{t|ht|sachè}}
 * Hausa: {{t|ha|jaka}}
-* Hebrew: {{t+|he|תִּיק|tr=tik}}
+* Hebrew: {{t+|he|תִּיק|m|tr=tik}}
 * Hindi: {{t+|hi|बैग|m}}, {{t+|hi|खीसा|m}}, {{t+|hi|झोला|m}}
 * Hungarian: {{t+|hu|táska}}, {{t+|hu|zsák}}, {{t+|hu|szatyor}}, {{t+|hu|tasak}}
 * Icelandic: {{t+|is|poki}}
@@ -181,7 +181,7 @@ From {{inh|en|enm|bagge}}, borrowed from {{der|en|non|baggi|t=bag, pack, satchel
 * Kabuverdianu: {{t|kea|bolsa}}
 * Kazakh: {{t|kk|сумка}}, {{t+|kk|сөмке}}, {{t|kk|дорба}}
 * Khmer: {{t|km|កប៉ៅ}}
-* Korean: {{t+|ko|가방}}, {{t+|ko|봉지}}, {{t+|ko|봉투}}
+* Korean: {{t+|ko|가방}}, {{t+|ko|봉지(封紙)}}, {{t+|ko|봉투(封套)}}
 * Kyrgyz: {{t+|ky|сумка}}, {{t+|ky|мүшөк}}
 * Ladino: {{t|lad|bolsa}}, {{t|lad|chanta}}, {{t|lad|ibé}}, {{t|lad|sako}}, {{t|lad|torba}}
 * Lao: {{t+|lo|ກະເປົາ}}, {{t|lo|ຖົງ}}
@@ -198,7 +198,8 @@ From {{inh|en|enm|bagge}}, borrowed from {{der|en|non|baggi|t=bag, pack, satchel
 * Mbyá Guaraní: {{t|gun|voxa}}
 * Middle English: {{t|enm|bagge}}, {{t|enm|male}}
 * Mizo: {{t|lus|ip}}, {{t|lus|ịp}}
-* Mongolian: {{t+|mn|уут}}, {{t+|mn|шуудай}}, {{t+|mn|тор}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|уут}}, {{t+|mn|шуудай}}, {{t+|mn|тор}}
 * Nepali: {{t|ne|झोला}}, {{t|ne|थैलो}}, {{t|ne|ब्याग}}
 * Norman: {{t|nrf|puk}}, {{t|nrf|pouque}}
 * Norwegian:
@@ -208,7 +209,7 @@ From {{inh|en|enm|bagge}}, borrowed from {{der|en|non|baggi|t=bag, pack, satchel
 * Old English: {{t|ang|codd|m}}
 * Oromo: {{t|om|korojoo}}
 * Ossetian: {{t|os|голлаг}}
-* Pashto: {{t|ps|تېله|f|tr=telá}}
+* Pashto: {{t|ps|تېله|f|tr=tela}}
 * Persian: {{t+|fa|کیسه|tr=kise}}, {{t+|fa|کیف|tr=kif}}, {{t+|fa|ساک|tr=sâk}}
 * Plautdietsch: {{t|pdt|Sak|m}}
 * Polish: {{t+|pl|torba|f}}, {{t+|pl|torebka|f}}, {{t+|pl|worek|m}}
@@ -219,8 +220,8 @@ From {{inh|en|enm|bagge}}, borrowed from {{der|en|non|baggi|t=bag, pack, satchel
 * Russian: {{t+|ru|су́мка|f}} {{qualifier|with handles}}, {{t+|ru|мешо́к|m}} {{qualifier|sack}}, {{t+|ru|паке́т|m}} {{qualifier|of plastic or paper}}, {{t+|ru|то́рба|f}}
 * Scottish Gaelic: {{t|gd|màileid|f}}, {{t|gd|baga|m}}, {{t|gd|poca|m}}, {{qualifier|bagpipes}} {{t|gd|màla}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|торба|f}}
-*: Roman: {{t+|sh|torba|f}}
+*: Cyrillic: {{t|sh|то́рба|f}}
+*: Roman: {{t+|sh|tórba|f}}
 * Slovak: {{t|sk|taška|f}}, {{t|sk|vrece}}, {{t|sk|vrecko}}
 * Slovene: {{t+|sl|torba|f}}
 * Somali: {{t|so|kiish}}
@@ -228,7 +229,7 @@ From {{inh|en|enm|bagge}}, borrowed from {{der|en|non|baggi|t=bag, pack, satchel
 *: Lower Sorbian: {{t|dsb|měch|m}}
 * Spanish: {{t+|es|bolsa|f}}, {{qualifier|in certain contexts}} {{t+|es|saco|m}}, {{qualifier|Panama - a 'paper bag' in Cuba}} {{t+|es|cartucho|m}}, {{qualifier|Dominican Republic|Ecuador}} {{t+|es|funda|m}}, {{qualifier|Cuba}} {{t+|es|jaba|f}}, {{qualifier|Colombia}} {{t+|es|talego|m}}
 * Swahili: {{t+|sw|mfuko}}
-* Swedish: {{t+|sv|väska|c}}, {{t+|sv|säck}}, {{t+|sv|kasse}}
+* Swedish: {{t+|sv|väska|c}}, {{t+|sv|säck|c}}, {{t+|sv|kasse|c}}
 * Tagalog: {{t+|tl|supot}}, {{t|tl|bulsa}}, {{t|tl|bag}}
 * Tajik: {{t+|tg|сумка}}, {{t|tg|киф}}, {{t|tg|халта}}
 * Tamil: {{t+|ta|பை}}
@@ -242,7 +243,7 @@ From {{inh|en|enm|bagge}}, borrowed from {{der|en|non|baggi|t=bag, pack, satchel
 * Turkmen: {{t+|tk|bukja}}, {{t|tk|sumka}}, {{t|tk|torba}}
 * Turoyo: {{t|tru|ܫ̰ܰܢܛܰܐ‎}}
 * Ukrainian: {{t|uk|су́мка|f}}, {{t|uk|мішо́к|m}} {{qualifier|sack}}, {{t+|uk|то́рба|f}}, {{t|uk|чува́л|m}}
-* Urdu: {{t|ur|بیگ|m|tr=baig|sc=ur-Arab}}
+* Urdu: {{t|ur|بیگ|m|tr=baig}}
 * Uyghur: {{t|ug|خالتا}}, {{t|ug|قاپ}}, {{t|ug|سومكا}}
 * Uzbek: {{t+|uz|sumka}}, {{t+|uz|qopcha}}, {{t+|uz|xalta}}
 * Venetian: {{t+|vec|spòrta|f}}
@@ -261,7 +262,7 @@ From {{inh|en|enm|bagge}}, borrowed from {{der|en|non|baggi|t=bag, pack, satchel
 * Arabic: {{t+|ar|كِيس|m}}
 *: Gulf Arabic: {{t|afb|چيس|m|tr=čīs}}
 * Czech: {{t+|cs|sáček|m}}
-* Danish: {{t+|da|pose}}
+* Danish: {{t+|da|pose|c}}
 * Dutch: {{t+|nl|zakje|n}}
 * Finnish: {{t+|fi|pussi}}, {{t+|fi|ostoskassi}}, {{t+|fi|muovipussi}}, {{t+|fi|muovikassi}}
 * French: {{t+|fr|sachet|m}}, {{t+|fr|cornet|m}}
@@ -269,9 +270,10 @@ From {{inh|en|enm|bagge}}, borrowed from {{der|en|non|baggi|t=bag, pack, satchel
 {{trans-mid}}
 * Hungarian: {{t+|hu|zacskó}}
 * Italian: {{t+|it|sacchetto|m}}
-* Norwegian: {{t+|no|pose|m}}
+* Norwegian:
+*: Bokmål: {{t+|nb|pose|m}}
 * Romanian: {{t+|ro|pungă|f}}
-* Russian: {{t+|ru|пакет|m}}
+* Russian: {{t+|ru|паке́т|m}}
 * Swedish: {{t+|sv|påse|c}}
 {{trans-bottom}}
 
@@ -283,7 +285,7 @@ From {{inh|en|enm|bagge}}, borrowed from {{der|en|non|baggi|t=bag, pack, satchel
 * Finnish: {{t+|fi|juttu}}
 {{trans-mid}}
 * French: {{t+|fr|tasse de thé|f}}, {{t+|fr|truc|m}}
-* Russian: {{t+|ru|тема|f}}
+* Russian: {{t+|ru|те́ма|f}}
 {{trans-bottom}}
 
 {{trans-top|ugly woman}}
@@ -327,7 +329,7 @@ From {{inh|en|enm|bagge}}, borrowed from {{der|en|non|baggi|t=bag, pack, satchel
 * Icelandic: {{t+check|is|poki|m}}
 * Indonesian: {{t+check|id|tas}}
 * Interlingua: {{t-check|ia|sacco}}, {{t-check|ia|bursa}}, {{t-check|ia|tasca}}
-* Korean: {{t+check|ko|자루|sc=Kore}}, {{t+check|ko|포대(包袋)}}, {{t+check|ko|가방|sc=Kore}}
+* Korean: {{t+check|ko|자루}}, {{t+check|ko|포대(包袋)}}, {{t+check|ko|가방}}
 {{trans-mid}}
 * Kurdish:
 *: Northern Kurdish: {{t+check|kmr|çewal|m}}, {{t+check|kmr|tûr|m}}, {{t+check|kmr|torbe|m}}, {{t+check|kmr|kîs|m}}, {{t+check|kmr|telîs|m}}, {{t+check|kmr|çante|m}}
