@@ -267,13 +267,13 @@ From {{inh|et|fiu-fin-pro|*tupa}}, from {{der|et|gem-pro|*stubō}}. Cognate to {
 * {{hyphenation|id|tu|ba}}
 
 ===Etymology 1===
-{{inh+|id|ms|tuba}}, from {{inh|id|poz-mly-pro|*tuba}}, from {{inh|id|poz-pro|*tubah}}, from {{inh|id|map-pro|*tubah|t=''Derris elliptica''}}.
+{{inh+|id|ms|tuba}}, from {{inh|id|ms-cla|توبا|tr=tuba}}, from {{inh|id|ms-old||tr=tūva}}, from {{inh|id|poz-mly-pro|*tuba}}, from {{inh|id|poz-pro|*tubah}}, from {{inh|id|map-pro|*tubah|t=''Derris elliptica''}}.
 
 ====Noun====
 {{id-noun|head=|pl=duplication}}
 
 # [[poison]]
-#: {{syn|id|racun}}
+#: {{hyper|id|racun}}
 # a Malayan plant whose roots are a significant source of [[rotenone]], {{taxlink|Derris malaccensis|species|ver=170218}}.
 
 ====Derived terms====
@@ -305,6 +305,7 @@ From {{der|id|la|tuba||tube, trumpet, military trumpet}}.
 * {{R:KBBI Daring}}
 
 ----
+
 ==Italian==
 {{wikipedia|lang=it}}
 
@@ -426,20 +427,22 @@ From {{inh|liv|fiu-fin-pro|*tupa}}. Related to {{cog|fi|tupa}}.
 ==Malay==
 
 ===Etymology===
-From {{inh|ms|poz-mly-pro|*tuba}}, from {{inh|ms|poz-pro|*tubah}}, from {{inh|ms|map-pro|*tubah}}.
+Attested in the {{w|Kota Kapur inscription}}, 686 AD, as {{m+|ms-old||tr=tūva}}, from {{inh|ms|poz-mly-pro|*tuba}}, from {{inh|ms|poz-pro|*tubah}}, from {{inh|ms|map-pro|*tubah}}.
 
 ===Pronunciation===
 * {{IPA|ms|/tuba/}}
+* {{a|Johor-Riau}} {{IPA|ms|[ˈtuba]|[ˈtubə]}}
 * {{rhymes|ms|uba|ba|a}}
-* {{a|Johor-Riau}} {{IPA|ms|[tubə]}}
 
 ===Noun===
 {{ms-noun|j=توبا}}
 
-# [[poison]] that is made out of root
+# {{lb|ms|fishing}} [[fish]] [[poison]] made from plant roots
+#: {{hyper|ms|racun}}
+# a Malayan plant whose roots are a significant source of [[rotenone]], {{taxlink|Derris malaccensis|species|ver=170218}}.
 
 ====Derived terms====
-{{ms-der|21|21+31|310|320}}
+{{ms-der|21|21+31|310|310+222|320|320+222|tuba tikus}}
 
 ====Descendants====
 * {{desc|id|tuba}}
