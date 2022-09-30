@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology===
-{{bor|en|NL.|fricativus}}, from Classical {{der|en|la|fricāre}}, present active infinitive of {{m|la|fricō||I rub}}.
+{{bor|en|NL.|fricativus}}, from {{der|en|la|fricāre}}, present active infinitive of {{m|la|fricō|t=I rub}}.
 
 ===Pronunciation===
 * {{a|UK|US}} {{enPR|frĭk'ətĭv}}, {{IPA|en|/ˈfɹɪkətɪv/}}
@@ -19,17 +19,19 @@
 #* {{RQ:Beckett Watt|text=Watt listened for a time, for the voice was far from unmelodious. The '''fricatives''' in particular were pleasing.}}
 
 ====Derived terms====
-* {{l|en|dental fricative}}
-* {{l|en|groove fricative}}
-* {{l|en|lateral fricative}}
-* {{l|en|slit fricative}}
+{{col4|en
+|dental fricative
+|groove fricative
+|lateral fricative
+|slit fricative
+}}
 
 ====Translations====
 {{trans-top|consonant}}
 * Arabic: {{t|ar|اِحْتِكَاكِي|m}}, {{t|ar|رَخْو}}, {{t|ar|صَوْت اِحْتِكَاكِي}}, {{t|ar|صَوْت رَخْو}}
-* Armenian: {{t+|hy|շփական|sc=Armn}}
+* Armenian: {{t+|hy|շփական}}
 * Chinese:
-*: Mandarin: {{t+|cmn|擦音|tr=cāyīn|sc=Hani}}
+*: Mandarin: {{t+|cmn|擦音|tr=cāyīn}}
 * Czech: {{t|cs|frikativa|f}}
 * Danish: {{t|da|hæmmelyd|c}}, {{t|da|frikativ|c}}
 * Dutch: {{t+|nl|fricatief|m}}, {{t+|nl|wrijfklank|m}}
@@ -61,13 +63,14 @@
 # {{lb|en|phonetics}} produced by air flowing through a restriction in the oral cavity.
 
 ====Derived terms====
-{{der3|en
-|fricativise|fricativize
-|fricativisation|fricativization
+{{col3|en
+|[[fricativise]], [[fricativize]]
+|[[fricativisation]], [[fricativization]]
 |fricatively
 |fricativeness
 |nonfricative
-|prefricative}}
+|prefricative
+}}
 
 ====Related terms====
 * {{l|en|friction}}
@@ -80,8 +83,8 @@
 * Danish: {{t|da|frikativ}}
 * French: {{t+|fr|fricatif}}
 * Georgian: {{t|ka|ფრიკატიული}}, {{t|ka|ნაპრალოვანი}}
-{{trans-mid}}
 * German: {{t+|de|frikativ}}
+{{trans-mid}}
 * Italian: {{t+|it|fricativo}}
 * Polish: {{t|pl|trący}}, {{t+|pl|szczelinowy}}, {{t|pl|frykatywny}}
 * Portuguese: {{t+|pt|fricativo}}
@@ -109,15 +112,21 @@
 * {{fr-IPA}}
 * {{audio|fr|LL-Q150 (fra)-WikiLucas00-fricative.wav|Audio}}
 
-===Noun===
+===Etymology 1===
+Substantive feminine of {{m|fr|fricatif}}.
+
+====Noun====
 {{fr-noun|f}}
 
 # {{lb|fr|phonetics}} {{l|en|fricative}}
 
-===Adjective===
+===Etymology 2===
+{{nonlemma}}
+
+====Adjective====
 {{head|fr|adjective form}}
 
-# {{feminine singular of|fr|fricatif}}
+# {{adj form of|fr|fricatif||f|s}}
 
 ===Further reading===
 * {{R:TLFi}}
@@ -126,8 +135,11 @@
 
 ==Italian==
 
+===Pronunciation===
+{{it-pr|^ì}}
+
 ===Adjective===
-{{head|it|adjective form|g=f-p}}
+{{head|it|adjective form}}
 
 # {{adj form of|it|fricativo||f|p}}
 
