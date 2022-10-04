@@ -2,7 +2,7 @@
 ==Translingual==
 
 ===Symbol===
-{{mul-symbol}}
+{{head-lite|mul|symbols|langname=Translingual|sc=Latn}}
 
 # {{ISO 639|2&3}}
 
@@ -367,7 +367,7 @@ Akin to {{cog|es|mano}}, from {{inh|an|la|manus}}.
 * {{bcl-IPA}}
 
 ===Adverb===
-{{head|bcl|adverb}}
+{{head-lite|bcl|adverbs|langname=Bikol Central}}
 
 # [[also]]
 
@@ -408,7 +408,7 @@ Compare {{cog|tl|man}}.
 * {{ceb-IPA|mán}}
 
 ===Particle===
-{{head|ceb|particle}}
+{{head-lite|ceb|particles|langname=Cebuano}}
 
 # {{n-g|gives information; could be omitted}}
 #: {{ux-lite|ceb|(Person 1): Hain man si Pedro?<br>(Person 2): Tua '''man''' 'to siya sa Carcar|(Person 1): Where is Pedro?<br>(Person 2): He is/was there in Carcar}}
@@ -776,7 +776,7 @@ From {{der|de|gml|man}}. A contraction of {{der|de|osx|newan||none other than}}.
 From {{inh|nds-de|gml|man}}. A contraction of {{inh|nds-de|osx|newan||none other than}}. Compare a similar contraction in {{cog|nl|maar||only}}.
 
 ===Conjunction===
-{{head|nds-de|conjunction}}
+{{head-lite|nds-de|conjunctions|langname=German Low German}}
 
 # {{lb|nds-de|in many dialects, including|_|Low Prussian}} [[only]]; [[but]]
 
@@ -897,7 +897,7 @@ From {{inh|lld|la|manus}}.
 ==Latvian==
 
 ===Pronoun===
-{{head|lv|pronoun form}}
+{{head-lite|lv|pronoun forms|langname=Latvian}}
 
 # [[to]] [[me]]; {{lv-inflection of|es|dat|s|||pro}}
 
@@ -924,7 +924,7 @@ From {{inh|lij|la|manus}}.
 * {{IPA|lt|[man]}}
 
 ===Pronoun===
-{{head|lt|pronoun form|head=mán}}
+{{head-lite|lt|pronoun forms|head=mán|langname=Lithuanian}}
 
 # {{lt-form-pronoun|1s|d|aš}}
 #: {{ux|lt|[[duok|Dúok]] '''mán''' [[tas|tą̃]] [[knỹgą]].|Give me that book.}}
@@ -934,7 +934,7 @@ From {{inh|lij|la|manus}}.
 ==Lombard==
 
 ===Alternative forms===
-* {{l|lmo|ma}}, {{l|lmo|mà}} (''Eastern orthographies'')
+* {{alter|lmo|ma|mà||Eastern orthographies}}
 
 ===Etymology===
 From {{der|lmo|la|manus}}.
@@ -1105,7 +1105,7 @@ From {{inh|nrf|fro|main}}, {{m|fro|mein}}, {{m|fro|man}}, from {{inh|nrf|la|manu
 From {{inh|frr|ofs|mīn}}, from {{inh|frr|gmw-pro|*mīn}}.
 
 ===Pronoun===
-{{head|frr|pronoun|g=m|feminine|min|neuter|min|plural|min}}
+{{head-lite|frr|pronouns|g=m|feminine|min|neuter|min|plural|min|langname=North Frisian}}
 
 # {{lb|frr|Föhr-Amrum dialect}} [[my]]
 
@@ -1124,7 +1124,7 @@ From {{inh|frr|ofs|mīn}}, from {{inh|frr|gmw-pro|*mīn}}.
 ==Northern Sami==
 
 ===Pronoun===
-{{head|se|pronoun form}}
+{{head-lite|se|pronoun forms|langname=Northern Sami}}
 
 # {{inflection of|se|mii||acc//gen|s}}
 
@@ -1422,7 +1422,7 @@ From {{der|pap|es|mano}}.
 ==Romani==
 
 ===Pronoun===
-{{head|rom|pronoun form}}
+{{head-lite|rom|pronoun forms|langname=Romani}}
 
 # {{inflection of|rom|me||acc}}
 
@@ -1431,7 +1431,7 @@ From {{der|pap|es|mano}}.
 ==Sambali==
 
 ===Adverb===
-{{head|xsb|adverb}}
+{{head-lite|xsb|adverbs|langname=Sambali}}
 
 # [[also]]
 
@@ -1448,12 +1448,12 @@ From {{der|pap|es|mano}}.
 Borrowed from {{bor|stq|gml|man}}. Related to {{cog|nds-de|man}} and {{cog|sv|men}}.
 
 ====Conjunction====
-{{head|stq|conjunction}}
+{{head-lite|stq|conjunctions|langname=Saterland Frisian}}
 
 # [[but]]
 
 ====Adverb====
-{{head|stq|adverb}}
+{{head-lite|stq|adverbs|langname=Saterland Frisian}}
 
 # [[but]], [[just]]
 
@@ -1802,7 +1802,7 @@ From {{inh|sv|gmq-osw|man}}, from {{inh|sv|non|mǫn}}, from {{inh|sv|gem-pro|*ma
 * {{tl-IPA|mán}}
 
 ===Adverb===
-{{head|tl|adverb}}
+{{head-lite|tl|adverbs|langname=Tagalog}}
 
 # [[although]]; [[even if]]; [[even though]]
 # [[also]]
@@ -1843,10 +1843,7 @@ From {{der|tpi|en|man}}.
 * {{l|tpi|meri}}
 
 ====Derived terms====
-* {{l|tpi|bigman}}
-* {{l|tpi|konman}}
-* {{l|tpi|manmeri}}
-* {{l|tpi|paniman}}
+{{der2|tpi|bigman|konman|manmeri|paniman}}
 
 ----
 
@@ -2052,9 +2049,9 @@ From {{inh|fy|ofs|man}}, from {{inh|fy|gmw-pro|*mann}}, from {{inh|fy|gem-pro|*m
 ===Noun===
 {{fy-noun|c|manlju|pl2=mannen|mantsje}}
 
-#  [[#English|man]]
+# [[#English|man]]
 #: {{cot|fy|frou}}
-#  [[husband]]
+# [[husband]]
 #: {{cot|fy|frou}}
 
 ====Further reading====
@@ -2075,15 +2072,14 @@ From {{inh|gmq-bot|non|meðan}}, from {{inh|gmq-bot|gem-pro|*medanō}}.
 *: {{rhymes|gmq-bot|ɑ̀ːn|èːðan}}
 
 ===Conjunction===
-{{head|head=mān|gmq-bot|conjunction}}
+{{head-lite|head=mān|gmq-bot|conjunctions|langname=Westrobothnian}}
 
 # [[meanwhile]], [[as long as]], [[while]], [[whilst]]
 #: ''tyst '''man''' jag sȯf''
 #:: be quiet '''while''' I sleep
 
 ====Alternative forms====
-* {{l|gmq-bot|mea}}
-* {{l|gmq-bot|meda}}
+* {{alter|gmq-bot|mea|meda}}
 
 ----
 
@@ -2095,9 +2091,7 @@ From {{inh|gmq-bot|non|meðan}}, from {{inh|gmq-bot|gem-pro|*medanō}}.
 # [[neck]]
 
 ====Derived terms====
-* {{l|wim|man awal}}
-* {{l|wim|man ngaat}}
-* {{l|wim|man poonchal}}
+{{der2|wim|man awal|man ngaat|man poonchal}}
 
 ----
 
@@ -2141,8 +2135,8 @@ From {{inh|zea|dum|man}}, from {{inh|zea|odt|man}}, from {{inh|zea|gmw-pro|*mann
 ===Noun===
 {{zea-noun|m|mannen}}
 
-#  [[#English|man]]
-#  [[husband]]
+# [[#English|man]]
+# [[husband]]
 
 [[Category:zea:Family members]]
 [[Category:zea:People]]
