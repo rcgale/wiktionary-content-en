@@ -1,7 +1,8 @@
 ==Polish==
+{{wp|lang=pl}}
 
 ===Etymology===
-{{bor+|pl|en|logarithm}}.
+{{intnat|pl}}; compare {{cog|en|logarithm}}, {{cog|fr|logarithme}}, {{cog|de|Logarithmus}}, ultimately from {{der|pl|NL.|logarithmus}}, from {{der|pl|grc|λόγος}} + {{m|grc|ἀριθμός}}.
 
 ===Pronunciation===
 {{pl-p|a=Pl-logarytm.ogg}}
@@ -9,26 +10,21 @@
 ===Noun===
 {{pl-noun|m-in}}
 
-# [[logarithm]]
+# {{lb|pl|arithmetic}} [[logarithm]]
 
 ====Declension====
-{{pl-decl-noun
-|logarytm|logarytmy
-|logarytmu|logarytmów
-|logarytmowi|logarytmom
-|logarytm|logarytmy
-|logarytmem|logarytmami
-|logarytmie|logarytmach
-|logarytmie|logarytmy
-}}
+{{pl-decl-noun-m-in}}
 
 ====Derived terms====
 {{col3|pl|title=adjective|logarytmiczny}}
 {{col3|pl|title=noun|antylogarytm}}
-{{col3|pl|title=verb|logarytmować}}
+{{col3|pl|title=verb|logarytmować<g:impf>}}
+
+====Related terms====
+{{col3|pl|title=adverb|logarytmicznie}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
 * {{R:pl:PWN}}
 
-{{C|pl|Mathematics}}
+{{C|pl|Functions}}
