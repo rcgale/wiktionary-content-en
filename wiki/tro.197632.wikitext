@@ -22,9 +22,6 @@ From {{inh|ca|roa-oca|tro}}, from {{inh|ca|VL.|*tronus}}, a noun based on {{der|
 * {{R:DNV}}
 * {{R:DCVB}}
 
-===References===
-<references/>
-
 {{topics|ca|Weather}}
 
 ----
@@ -35,7 +32,7 @@ From {{inh|ca|roa-oca|tro}}, from {{inh|ca|VL.|*tronus}}, a noun based on {{der|
 * {{IPA|da|/troːˀ/|[ˈtˢʁ̥oˀ]}}
 
 ===Etymology 1===
-From {{inh|da|gmq-oda|tro}}, late {{inh|da|non|trú}}, either a native derivation from the verb or borrowed from {{bor|da|gml|trouwe}}, {{m|gml|trūwe}}, from {{der|da|gem-pro|*trewwō||fidelity, pledge}}, cognate with {{cog|en|truce}}, {{cog|de|Treue||loyalty}}.
+From {{inh|da|gmq-oda|tro}}, late {{inh|da|non|trú}}, either a native derivation from the verb or borrowed from {{bor|da|gml|trouwe}}, {{m|gml|trūwe}}, from {{der|da|gem-pro|*trewwō|t=fidelity, pledge}}, cognate with {{cog|en|truce}}, {{cog|de|Treue|t=loyalty}}.
 
 ====Noun====
 {{da-noun|en|-}}
@@ -44,7 +41,7 @@ From {{inh|da|gmq-oda|tro}}, late {{inh|da|non|trú}}, either a native derivatio
 # [[confidence]]
 # [[trust]]
 # [[faith]]
-#: {{ux|da|Ingen kultur eller civilisation uden '''tro''' på guder.|No culture or civilization without '''faith''' in gods.}}
+#: {{uxi|da|Ingen kultur eller civilisation uden '''tro''' på guder.|No culture or civilization without '''faith''' in gods.}}
 
 =====Inflection=====
 {{da-decl|en|n=sg}}
@@ -53,7 +50,7 @@ From {{inh|da|gmq-oda|tro}}, late {{inh|da|non|trú}}, either a native derivatio
 * {{pedia|lang=da}}
 
 ===Etymology 2===
-From {{inh|da|non|trúa}}, from {{inh|da|gem-pro|*trūwāną||to trust}}, cognate with {{cog|en|trow}} and {{cog|de|trauen}}. Derived from the adjective {{m|gem-pro|*trūaz||trustful}}, see below.
+From {{inh|da|non|trúa}}, from {{inh|da|gem-pro|*trūwāną|t=to trust}}, cognate with {{cog|en|trow}} and {{cog|de|trauen}}. Derived from the adjective {{m|gem-pro|*trūaz|t=trustful}}, see below.
 
 ====Verb====
 {{head|da|verb|past tense|troede|past participle|troet}}
@@ -65,7 +62,7 @@ From {{inh|da|non|trúa}}, from {{inh|da|gem-pro|*trūwāną||to trust}}, cognat
 {{da-conj|tro||er|ede|h|et|||tros|}}
 
 ===Etymology 3===
-From {{inh|da|non|trúr}}, from {{inh|da|gem-pro|*trūaz||trustful}}, related to {{inh|da|gem-pro|*trewwaz||loyal, trustworthy}}.
+From {{inh|da|non|trúr}}, from {{inh|da|gem-pro|*trūaz|t=trustful}}, related to {{inh|da|gem-pro|*trewwaz|t=loyal, trustworthy}}.
 
 ====Adjective====
 {{da-adj|tro|tro}}
@@ -129,20 +126,20 @@ Borrowed from {{bor|eo|fr|trop}}, ultimately of {{der|eo|frk|-}} origin. Compare
 {{io-bor|eo=tro||trop||troppo}}
 
 ===Pronunciation===
-* {{IPA|io|/tro/}}
+{{io-IPA}}
 
 ===Adverb===
 {{io-adv}}
 
 # [[too]] (much)
-#: {{ux|io|Elua filiino irus, ma la voyo esas '''tro''' longa.|t=Her daughter would go, but the road is '''too''' long.}}
+#: {{uxi|io|Elua filiino irus, ma la voyo esas '''tro''' longa.|Her daughter would go, but the road is '''too''' long.}}
 
 ----
 
 ==Louisiana Creole French==
 
 ===Etymology===
-From {{inh|lou|fr|trop||too much}}.
+From {{inh|lou|fr|trop|t=too much}}.
 
 ===Pronunciation===
 * {{IPA|lou|/tɾo/}}
@@ -153,7 +150,7 @@ From {{inh|lou|fr|trop||too much}}.
 # [[too much]]
 
 ===Usage notes===
-* May be followed by [[bokou]].
+* May be followed by {{m|lou|bokou}}.
 
 ----
 
@@ -166,9 +163,7 @@ Borrowed from {{bor|nrf|non|trog}}.
 {{nrf-noun|m}}
 
 # {{lb|nrf|Jersey}} [[kneading trough]]
-
-====Synonyms====
-* {{l|nrf|tro à pain}}
+#: {{syn|nrf|tro à pain}}
 
 ----
 
@@ -178,15 +173,13 @@ Borrowed from {{bor|nrf|non|trog}}.
 From {{inh|nb|non|trú|pos=n}}, {{m|non|trúa|pos=v}}, and {{m|non|trúr|pos=a}}.
 
 ====Alternative forms====
-* {{l|nb|tru}}
+* {{alt|nb|tru}}
 
 ====Adjective====
 {{head|nb|adjective|indeclinable}}
 
 # [[faithful]], [[loyal]]
-
-=====Antonyms=====
-* {{l|nb|utro}}
+#: {{ant|nb|utro}}
 
 =====Derived terms=====
 * {{l|nb|naturtro}}
@@ -199,10 +192,12 @@ From {{inh|nb|non|trú|pos=n}}, {{m|non|trúa|pos=v}}, and {{m|non|trúr|pos=a}}
 # [[trust]], [[confidence]]
 
 =====Derived terms=====
-* {{l|nb|folketro}}
-* {{l|nb|gudstro}}
-* {{l|nb|overtro}}
-* {{l|nb|troverdig}}
+{{col4|nb
+|folketro
+|gudstro
+|overtro
+|troverdig
+}}
 
 ====Verb====
 {{head|nb|verb|present tense|tror|past tense|trodde|past participle|trodd|present participle|troende}}
@@ -212,9 +207,10 @@ From {{inh|nb|non|trú|pos=n}}, {{m|non|trúa|pos=v}}, and {{m|non|trúr|pos=a}}
 # to have [[faith]]
 
 ===Etymology 2===
+{{nonlemma}}
 
 ====Alternative forms====
-* {{l|nb|trådde}}, {{l|nb|trådte}}
+* {{alt|nb|trådde|trådte}}
 
 ====Verb====
 {{nb-verb-form}}
@@ -261,7 +257,7 @@ From {{inh|nn|non|trǫð}}, same as {{doublet|notext=1|nn|trø}}.
 {{nonlemma}}
 
 ====Alternative forms====
-* {{l|nn|trod}} {{nn-former-context|2012}}
+* {{alt|nn|trod}} {{nn-former-context|2012}}
 
 ====Verb====
 {{head|nn|verb form}}
@@ -301,8 +297,8 @@ From {{inh|fro|VL.|*traucum|t=hole}} (compare {{cog|LL.|traugum}} in the Capitul
 Possibly borrowed from {{bor|pt|fr|trop}}.
 
 ===Pronunciation===
-* {{a|BR}} {{IPA|pt|/ˈtɾo/}}
-* {{rhymes|pt|o}}
+{{pt-IPA|br=trô}}
+* {{rhymes|pt|o|s=1}}
 
 ===Adverb===
 {{head|pt|adverb}}
@@ -315,7 +311,7 @@ Possibly borrowed from {{bor|pt|fr|trop}}.
 ==Scottish Gaelic==
 
 ===Alternative forms===
-* {{l|gd|troimh}}
+* {{alt|gd|troimh}}
 
 ===Etymology===
 From {{inh|gd|sga|tremi}}, {{m|sga|tre}}, from {{inh|gd|cel-pro|*trimo-}}, {{m|cel-pro|*trē}}, from {{inh|gd|ine-pro|*terh₂-}}.
@@ -327,7 +323,7 @@ From {{inh|gd|sga|tremi}}, {{m|sga|tre}}, from {{inh|gd|cel-pro|*trimo-}}, {{m|c
 
 ====Usage notes====
 * [[lenite|Lenites]] the following word.
-* If the [[definite article]] in the [[singular]] follows, the preposition and the article amalgamate into [[tron#Scottish Gaelic|tron]].
+* If the [[definite article]] in the [[singular]] follows, the preposition and the article amalgamate into {{m|gd|tron}}.
 
 ====Derived terms====
 * The following prepositional pronouns:
@@ -385,15 +381,23 @@ From {{inh|sv|gmq-osw|tro|trō}}, from {{inh|sv|non|trú}}, from {{inh|sv|gem-pr
 {{sv-noun|c|-}}
 
 # [[faith]], [[belief]]
-#: {{ux|sv|Ingen kultur eller civilisation utan '''tro''' på gudar.|No culture or civilization without '''faith''' in gods.}}
+#: {{uxi|sv|Ingen kultur eller civilisation utan '''tro''' på gudar.|No culture or civilization without '''faith''' in gods.}}
 # {{lb|sv|dated}} [[allegiance]]
-#: {{ux|sv|svära konungen '''tro''' och loven|t=swear allegiance to the king}}
+#: {{uxi|sv|svära konungen '''tro''' och loven|swear allegiance to the king}}
 
 =====Declension=====
 {{sv-noun-unc-irreg-c|2=tron}}
 
 =====Related terms=====
-{{rel3|sv|god tro|ond tro|trofast|trohet|trosfrihet|troslära|trossamfund}}
+{{col4|sv
+|god tro
+|ond tro
+|trofast
+|trohet
+|trosfrihet
+|troslära
+|trossamfund
+}}
 
 ===Etymology 2===
 From {{inh|sv|gmq-osw|troa|trōa}}, {{m|gmq-osw|tro|trōa}}, from {{inh|sv|non|trúa}}, from {{inh|sv|gem-pro|*trūwāną}}.
@@ -402,19 +406,23 @@ From {{inh|sv|gmq-osw|troa|trōa}}, {{m|gmq-osw|tro|trōa}}, from {{inh|sv|non|t
 {{sv-verb-reg|tro|r|dde}}
 
 # to [[believe]]
-#: {{ux|sv|'''tro''' alla om gott|t='''think''' well of everybody}}
-#: {{ux|sv|'''tro''' på något|t=[[believe in|'''believe''' in]] something}}
-#: {{ux|sv|'''tro''' något om någon|t='''believe''' something of someone}}
+#: {{uxi|sv|'''tro''' alla om gott|'''think''' well of everybody}}
+#: {{uxi|sv|'''tro''' på något|[[believe in|'''believe''' in]] something}}
+#: {{uxi|sv|'''tro''' något om någon|'''believe''' something of someone}}
 # to [[think]]; to consider correct, but being unable to [[prove]] it
-#: {{ux|sv|Det har '''trotts''' mycket kring den här utvecklingen, men det har inte varit fastslaget i data vad som verkligen håller på att ske – förrän nu.|t=Much has been '''speculated''' concerning this development, but it hasn't been proven by data what really is happening - until now.}}
+#: {{ux|sv|Det har '''trotts''' mycket kring den här utvecklingen, men det har inte varit fastslaget i data vad som verkligen håller på att ske – förrän nu.|Much has been '''speculated''' concerning this development, but it hasn't been proven by data what really is happening - until now.}}
 # to [[think]]; to consider something correct that is not correct.
-#: {{ux|sv|Hon '''trodde''' att Oslo var Danmarks huvudstad.|t=She '''thought''' that Oslo was the capital of Denmark.}}
+#: {{uxi|sv|Hon '''trodde''' att Oslo var Danmarks huvudstad.|She '''thought''' that Oslo was the capital of Denmark.}}
 
 =====Conjugation=====
 {{sv-conj-wk|tro|end=vw}}
 
 =====Related terms=====
-{{rel3|sv|troende|trolig|trovärdig}}
+{{col3|sv
+|troende
+|trolig
+|trovärdig
+}}
 
 ===Further reading===
 * {{R:SO}}
@@ -434,7 +442,7 @@ From {{inh|vi|mkh-vie-pro|*p-lɔː}}.
 
 ===Pronunciation===
 {{vi-ipa}}
-*{{audio|vi|LL-Q9199 (vie)-Jessica Nguyen (Pamputt)-tro.wav|Audio (Hồ Chí Minh City)}}
+* {{audio|vi|LL-Q9199 (vie)-Jessica Nguyen (Pamputt)-tro.wav|Audio (Hồ Chí Minh City)}}
 
 ===Noun===
 {{vi-noun|[[𤊣]], [[𤉓]], [[𪿙]], [[𤉕]], [[𬊐]], [[炭]], [[烣]], [[爐]]}}
@@ -453,7 +461,7 @@ From {{inh|vi|mkh-vie-pro|*p-lɔː}}.
 * {{rhymes|cy|oː}}
 
 ===Etymology 1===
-From {{inh|cy|cel-pro|*tro}}, related to {{cog|xbm|tro}} and middle {{cog|kw|tro}}.<ref>{{R:cy:GPC|tro}}</ref>  The ultimate origin is unclear; sometimes said to be from {{der|cy|grc|Τροία||Troy}}, referring to the city's maze-like walls, but this could just be a similarity enforced by folk etymology.<ref>Biology and Human Affairs. (1975). United Kingdom: British Social Biology Council, p. 66</ref><ref>Lindsay, J. (1963). A Short History of Culture, from Prehistory to the Renaissance. United States: Citadel Press, p. 126</ref> It could instead be from corruptions of {{m|cy|troed||foot}},<ref>{{R:cel:EDPC|head=treget-|pages=389}}</ref> {{der|cy|la|torqueo||I turn}}, or {{cog|la|tropus}}/{{cog|grc|τρόπος||a turn}}.  Also compare {{cog|fr|troller||to stroll, drag, wander about}}.<ref>Worcester, J. E. (1910). Worcester's Academic Dictionary: A New Etymological Dictionary of the English Language. United States: Lippincott, p. 551</ref> More at [[w:Caerdroia#Etymology|Caerdroia]].
+From {{inh|cy|cel-pro|*tro}}, related to {{cog|xbm|tro}} and middle {{cog|kw|tro}}.<ref>{{R:cy:GPC|tro}}</ref>  The ultimate origin is unclear; sometimes said to be from {{der|cy|grc|Τροία|t=Troy}}, referring to the city's maze-like walls, but this could just be a similarity enforced by folk etymology.<ref>Biology and Human Affairs. (1975). United Kingdom: British Social Biology Council, p. 66</ref><ref>Lindsay, J. (1963). A Short History of Culture, from Prehistory to the Renaissance. United States: Citadel Press, p. 126</ref> It could instead be from corruptions of {{m|cy|troed|t=foot}},<ref>{{R:cel:EDPC|head=treget-|pages=389}}</ref> {{der|cy|la|torqueo|t=I turn}}, or {{cog|la|tropus}}/{{cog|grc|τρόπος|t=a turn}}.  Also compare {{cog|fr|troller|t=to stroll, drag, wander about}}.<ref>Worcester, J. E. (1910). Worcester's Academic Dictionary: A New Etymological Dictionary of the English Language. United States: Lippincott, p. 551</ref> More at [[w:Caerdroia#Etymology|Caerdroia]].
 
 ====Noun====
 {{cy-noun|m|troeon}}
@@ -470,7 +478,11 @@ From {{inh|cy|cel-pro|*tro}}, related to {{cog|xbm|tro}} and middle {{cog|kw|tro
 * {{l|cy|troi}}
 
 =====Derived terms=====
-{{der2|cy|am y tro|tro pedol|dros dro}}
+{{col3|cy
+|am y tro
+|tro pedol
+|dros dro
+}}
 
 ===References===
 <references/>
