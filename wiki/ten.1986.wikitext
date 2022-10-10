@@ -678,16 +678,53 @@ From {{inh|ppl|azc-nah-pro|*teːn-}}, from {{inh|ppl|azc-pro|*tïni}}. Compare {
 
 # [[this]] {{gl|nearby}}
 
-====Declension====
-{{pl-decl-pronoun
-|ten|ta|to|ci|te
-|tego|tej|tego|tych|tych
-|temu|tej|temu|tym|tym
-|tego/ten|tę/tą|to|tych|te
-|tym|tą|tym|tymi|tymi
-|tym|tej|tym|tych|tych
-|width=40
-}}
+{| class="wikitable" style="text-align:center;"
+|-
+! 
+! m
+! f
+! n
+! vir pl
+! nvir pl
+|-
+| Nom
+| ten
+| ta
+| to
+| ci
+| te
+|-
+| Gen
+| tego
+| tej
+| tego
+| colspan="2" | tych
+|-
+| Dat
+| temu
+| tej
+| temu
+| colspan="2" | tym
+|-
+| Acc
+| tego/ten
+| tę/tą
+| to
+| tych
+| te
+|-
+| Instr
+| tym
+| tą
+| tym
+| colspan="2" | tymi
+|-
+| Loc
+| tym
+| tej
+| tym
+| colspan="2" | tych
+|}
 
 ====Usage notes====
 The feminine accusative singular form [[tą#Pronoun|''tą'']] is only acceptable in colloquial speech, not in formal writing.
