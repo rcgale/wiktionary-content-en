@@ -74,13 +74,13 @@
 * Afrikaans: {{t+|af|woordeboek}}
 * Akan: {{t-needed|ak}}
 * Albanian: {{t+|sq|fjalor|m}}
-* Ambonese Malay: {{t|abs|kamus}}
 * American Sign Language: {{t|ase|D@NearPalm-PalmDown-OpenB@CenterChesthigh-PalmUp CirclesMidlineContact}}
 * Amharic: {{t+|am|መዝገበ ቃላት}}
 * Arabic: {{t+|ar|قَامُوس|m}}, {{t+|ar|مُعْجَم|m}}
 * Aragonese: {{t|an|diccionario|m}}
 * Armenian: {{t+|hy|բառարան}}
 *: Old Armenian: {{t|xcl|բառգիրք}}
+* Aromanian: {{t|rup|dicționar|m}}
 * Assamese: {{t|as|অভিধান}}
 * Asturian: {{t|ast|diccionariu|m}}
 * Avar: {{t|av|словарь}}, {{t|av|къамус}} {{q|dated}}
@@ -97,17 +97,20 @@
 * Buryat: {{t|bua|толи}}
 * Catalan: {{t+|ca|diccionari|m}}
 * Chakma: {{t|ccp|𑄇𑄧𑄙𑄖𑄢|tr=kadhātārā}}
+* Chamorro: {{t|ch|diksinario}}, {{t|ch|diksionario}}
 * Chechen: {{t|ce|словарь}}, {{t|ce|дошам}}, {{t|ce|лугӏат}}
 * Cherokee: {{t|chr|ᏗᏕᏠᏆᏍᏙᏗ}}
 * Chinese:
 *: Cantonese: {{t|yue|字典|tr=zi6 din2}}, {{t|yue|詞典}}, {{t|yue|词典|tr=ci4 din2}}
 *: Dungan: {{t|dng|хуадян}}, {{t|dng|цыдян}}, {{t|dng|зыдян}} {{q|character dictionary}}
+*: Hakka: {{t|hak|字典|tr=sṳ-tién, si4 diên3}}
 *: Mandarin: {{t+|cmn|字典|tr=zìdiǎn}} {{q|character dictionary}}, {{t+|cmn|詞典}}, {{t+|cmn|词典|tr=cídiǎn}}, {{t+|cmn|辭典}}, {{t+|cmn|辞典|tr=cídiǎn}} {{q|alternative forms}}
 *: Min Nan: {{t+|nan|字典|tr=lī-tián / jī-tián}}, {{t|nan|詞典}}, {{t|nan|词典|tr=sû-tián}}
 *: Wu: {{t|wuu|字典|tr=zr ti}}, {{t|wuu|詞典}}, {{t|wuu|词典|tr=zr ti}}
 * Chukchi: {{t|ckt|ысловар|tr=yslovar}}, {{t|ckt|вэтгавкаԓекаԓ|tr=vėtgavkaḷekaḷ}}
 * Chuvash: {{t|cv|словарь}}, {{t|cv|сӑмахсен кӗнеки}}, {{t|cv|сӑмахсар}}
 * Cornish: {{t|kw|gerlyver|m}}
+* Corsican: {{t|co|dizziunariu|m}}
 * Crimean Tatar: {{t|crh|luğat}}
 * Czech: {{t+|cs|slovník|m}}
 * Danish: {{t+|da|ordbog|c}}
@@ -125,6 +128,7 @@
 * Franco-Provençal: {{t|frp|dikchonéro}}
 * French: {{t+|fr|dictionnaire|m}}, {{t+|fr|dico|m}} {{q|informal}}
 *: Middle French: {{t|frm|dictionnaire|m}}
+* Friulian: {{t|fur|dizionari|m}}
 * Fula:
 *: Adlam: {{t|ff|𞤧𞤢𞤺𞥆𞤭𞤼𞤮𞤪𞤣𞤫}}
 *: Latin script: {{t|ff|saggitorde}}
@@ -135,6 +139,7 @@
 * Greek: {{t+|el|λεξικό|n}}
 *: Ancient: {{t|grc|λέξεις|f-p}}, {{t|grc|λεξῐκόν|n}}, {{t|grc|γλῶσσαι|f-p}}
 * Greenlandic: {{t+|kl|ordbogi}}
+* Guarani: {{t+|gn|ñe'ẽndy}}
 * Guerrero Amuzgo: {{t|amu|tzoⁿ 'tzítyui' jñ'o}}
 * Gujarati: {{t|gu|શબ્દકોશ}}
 * Haitian Creole: {{t|ht|diksyonè}}
@@ -149,6 +154,7 @@
 * Icelandic: {{t+|is|orðabók|f}}
 * Ido: {{t+|io|vortolibro}}
 * Igbo: {{t|ig|nkowaokwu}}
+* Ilokano: {{t|ilo|diksionario}}
 * Indonesian: {{t+|id|kamus}}
 * Ingush: {{t|inh|дошлорг}}
 * Interlingua: {{t+|ia|dictionario}}
@@ -169,7 +175,8 @@
 * Khakas: {{t|kjh|сӧстік}}
 * Khmer: {{t+|km|វចនានុក្រម}}, {{t+|km|បទានុក្រម}}
 * Kikuyu: {{t|ki|kamusi}}
-* Komi-Permyak: {{t|koi|кывчукӧр}}
+* Komi-Permyak: {{t|koi|кывчукӧр}}, {{t|koi|кывкуд}}
+* Komi-Zyrian: {{t|kpv|кывчукӧр}}, {{t|kpv|кывкуд}}, {{t-check|kpv|словар}}
 * Korean: {{t+|ko|사전(辭典)}}, {{t+|ko|자전(字典)}} {{q|character dictionary}}, {{t+|ko|자서(字書)}}
 * Kumyk: {{t|kum|сёзлюк}}
 * Kurdish:
@@ -186,30 +193,39 @@
 * Ligurian: {{t|lij|dizionario|m}}
 * Limburgish: {{t+|li|diksjenaer}}, {{t+|li|waordebook}}
 * Lithuanian: {{t+|lt|žodynas|m}}
+* Livonian: {{t|liv|sõnārōntõz}}
+* Lombard: {{t|lmo|disionare|m}} {{q|Brescia}}
 * Low German:
 *: German Low German: {{t|nds-de|Wöörbook|n}}, {{t|nds-de|Woordenbook|n}}
 * Luhya: {{t|luy|ekamusi}}
-* Lule Sami: {{t|smj|báhkogirjje}}
-{{trans-mid}}
 * Luxembourgish: {{t+|lb|Dictionnaire|m}}, {{t+|lb|Wierderbuch|n}}
 * Lü: {{t|khb|ᦈᦹᧈᦶᦑᧃ}}
 * Macedonian: {{t+|mk|ре́чник|m}}
+{{trans-mid}}
 * Malagasy: {{t+|mg|rakibolana}}
 * Malay: {{t+|ms|kamus}}, {{t|ms|buku katan}}
+*: Ambonese Malay: {{t|abs|kamus}}
 * Malayalam: {{t+|ml|നിഘണ്ടു}}
 * Maltese: {{t+|mt|dizzjunarju|m}}
 * Manchu: {{t|mnc|ᠪᡠᠯᡝᡴᡠ ᠪᡳᡨ᠌ᡥᡝ}}, {{t|mnc|ᡥᡝᡵᡤᡝᠨ ᡴᠣᠣᠯᡳ ᠪᡳᡨ᠌ᡥᡝ}}
+* Mansi: {{t|mns|словарь}}
 * Manx: {{t|gv|fockleyr|m}}
 * Maori: {{t|mi|pukapuka taki kupu}}
 * Marathi: {{t|mr|शब्दकोष|m}}, {{t|mr|विश्वकोष|m}}
+* Mari:
+*: Hill: {{t|mrj|лӹмдер}}
+*: Meadow: {{t|chm|мутер}}
+* Marshallese: {{t|mh|tūkjinede}}
 * Mauritian Creole: {{t|mfe|diksioner}}
 * Meru: {{t|mer|kamusi}}
 * Middle Persian: {{t|pal|𐭯𐭥𐭧𐭭𐭢|ts=frahang}}
+* Mirandese: {{t|mwl|dicionairo|m}}
 * Moksha: {{t|mdf|валкс}}
 * Mongolian:
 *: Cyrillic: {{t+|mn|толь бичиг}}, {{t+|mn|толь}}
 *: Mongolian: {{t|mn|ᠲᠣᠯᠢ ᠪᠢᠴᠢᠭ᠋}}, {{t|mn|ᠲᠣᠯᠢ}}
 * Nahuatl: {{t+|nah|tlahtōltecpantiliztli}}
+* Nanai: {{t|gld|словарь}}
 * Navajo: {{t|nv|naaltsoos saad bee siʼánígíí}}
 * Naxi: {{t|nxq|ceeqdiai}}
 * Neapolitan: {{t|nap|dezziunario}}, {{t|nap|dezziunàrio}}
@@ -218,7 +234,6 @@
 * Nepali: {{t+|ne|शब्दकोश}}
 * Nogai: {{t|nog|соьзлик}}
 * Norman: {{t|nrf|dictionnaithe}} {{q|Jersey}}
-* Northern Sami: {{t|se|sátnegirji}}
 * Norwegian:
 *: Bokmål: {{t+|nb|ordbok|m|f}}
 *: Nynorsk: {{t+|nn|ordbok|f}}
@@ -232,8 +247,9 @@
 * Papiamentu: {{t|pap|dikshonario}}
 * Pashto: {{t+|ps|قاموس|tr=qâmos}}, {{t|ps|وييپانګه|f|tr=wëyipânga}}
 * Persian: {{t+|fa|لغت‌نامه|tr=loğat-nâme}}, {{t+|fa|فرهنگ|tr=farhang}}, {{t+|fa|واژه‌نامه|tr=vâže-nâme}}, {{t+|fa|لغت|tr=loğat}}, {{t+|fa|قاموس|tr=qâmus}}
+* Piedmontese: {{t|pms|dissiunari|m}}
 * Plautdietsch: {{t|pdt|Wieedabuak|n}}
-* Polish: {{t+|pl|słownik|m-in}}, {{t+|pl|leksykon|m}}
+* Polish: {{t+|pl|słownik|m-in}}, {{t+|pl|leksykon|m}}, {{t|pl|dykcjonarz|m-in}} {{q|archaic}}
 * Portuguese: {{t+|pt|dicionário|m}}
 * Punjabi: {{t+|pa|ਸ਼ਬਦਕੋਸ਼}}, {{t|pa|ਡਿਕਸ਼ਨਰੀ}}
 * Quechua: {{t|qu|simi qullqa}}
@@ -241,22 +257,28 @@
 * Romansch: {{t|rm|pledari|m}}, {{t|rm|dicziunari|m}}, {{t|rm|vocabulari|m}}, {{t|rm|glossari|m}}
 * Russian: {{t+|ru|слова́рь|m}}
 * Rusyn: {{t|rue|сло́вник|m}}
-* Rwanda-Rundi: {{t-needed|rw}}
+* Rwanda-Rundi: {{t|rw|inkoranya|c9|c10}}
+* Sami:
+*: Inari: {{t|smn|sänikirje}}
+*: Lule: {{t|smj|báhkogirjje}}
+*: Northern: {{t|se|sátnegirji}}
+*: Skolt: {{t|sms|sääʹnnǩeʹrjj}}
+*: Southern: {{t|sma|baakoegærja}}
 * Samogitian: {{t|sgs|žuodīns}}
 * Sanskrit: {{t+|sa|शब्दकोश|m}}, {{t+|sa|निघण्टु|m}}, {{t+|sa|अभिधान|n}}, {{t+|sa|शब्दसंग्रह|m}}
 * Sardinian: {{t|sc|dizionariu|m}}
 * Scots: {{t|sco|dictionar}}
 * Scottish Gaelic: {{t|gd|faclair|m}}
+* Selkup: {{t|sel|эҗефат}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|ре̑чнӣк|m}}, {{t|sh|рје̑чнӣк|m}}
 *: Roman: {{t+|sh|rȇčnīk|m}}, {{t+|sh|rjȇčnīk|m}}
 * Shona: {{t|sn|duramahwi}}, {{t|sn|duramazwi}}
 * Shor: {{t|cjs|сӧстӱк|tr=söstük}}
 * Sicilian: {{t+|scn|dizziunariu|m}}, {{t|scn|vocabbulariu|m}}
-* Silesian: {{t|szl|dykcjůnoř|m}}
+* Silesian: {{t|szl|dykcjůnoř|m}}, {{t|szl|dykcjōnorz}}
 * Sindhi: {{t+check|sd|لغت|alt=لُغَتُ}}<!-- links didn't work for Sindhi-->, {{t|sd|कोश|tr=koś}}
 * Sinhalese: {{t|si|ශබ්ද කෝෂය}}, {{t|si|ශබ්දකෝෂය}}
-* Skolt Sami: {{t|sms|sääʹnnǩerjj}}
 * Slovak: {{t+|sk|slovník|m}}
 * Slovene: {{t+|sl|slovar|m}}
 * Somali: {{t+|so|qaamuus}}, {{t|so|abwan-ka}}
@@ -266,9 +288,9 @@
 * Sotho: {{t+|st|bukantswe}}
 * Southern Altai: {{t|alt|сӧзлик}}
 * Southern Ohlone: {{t|css|riica pappel}}
-* Southern Sami: {{t|sma|baakoegærja}}
 * Spanish: {{t+|es|diccionario|m}}
 * Sranan Tongo: {{t|srn|wortubuku}}
+* Swabian: {{t|swb|Werdrbuach}}
 * Swahili: {{t+|sw|kamusi|c5}}
 * Swedish: {{t+|sv|ordbok|c}}, {{t+|sv|lexikon|n}}
 * Tabasaran: {{t|tab|словарь}}
@@ -292,14 +314,19 @@
 * Uzbek: {{t+|uz|lugʻat}}, {{t+|uz|qomus}}
 *: Cyrillic: {{t+|uz|луғат}}
 * Venda: {{t|ve|ṱhalusamaipfi}}
+* Venetian: {{t|vec|disionario|m}}
 * Veps: {{t|vep|vajehnik}}
 * Vietnamese: {{t+|vi|từ điển}}, {{t+|vi|tự điển}} ({{t+|vi|字典}}) {{q|dated, character dictionary}}
 * Volapük: {{t+|vo|vödabuk}}, {{t|vo|vödasbuk}} {{q|older term, now obsolete; compare {{l|de|Wörterbuch}}}}
+* Votic: {{t|vot|sõnatširja}}
 * Võro: {{t|vro|sõnaraamat}}
 * Wallisian: {{t|wls|tikisionalio}}
 * Walloon: {{t+|wa|motî}}
 * Welsh: {{t+|cy|geiriadur|m}}
-* West Frisian: {{t+|fy|wurdboek|n}}
+* Frisian:
+*: North: {{t|frr|wurdenbuk}}
+*: Saterland: {{t|stq|Woudebouk|n}}
+*: West: {{t+|fy|wurdboek|n}}
 * Western Cham: {{t|cja|اينآلآڠ}}
 * Wolof: {{t|wo|diksoneer}}
 * Xhosa: {{t|xh|idikshinari|c5}}
