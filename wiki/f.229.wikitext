@@ -584,12 +584,41 @@ The letter '''''F'''''/'''''f''''' (like '''''H'''''/'''''h''''', and '''''O''''
 From Gaj's Latin alphabet {{m|sh|f}}, from {{der|mul|cs|-}} alphabet {{m|cs|f}}, which is a modification of upper case Latin letter {{m|mul|F}}, from Greek {{der|mul|grc|-}} letter {{m|grc|Ϝ||digamma}}, derived from the {{der|mul|phn|-}} letter {{m|phn|𐤅||waw}}, from the {{der|mul|egy|-}} hieroglyph {{m|egy|𓏲}}. Pronunciation as {{IPA|sl|/fə/}} is initial Slovene (phoneme plus a fill vowel) and the second pronunciation is probably taken from {{der|sl|de|f}}.
 
 ====Pronunciation====
-* {{qualifier|phoneme}}: {{IPA|sl|/f/|[v]}}
-* {{qualifier|letter name}}: {{sl-IPA|fə̏|ȅf}}
-* {{audio|sl|Sl-nt-f.ogg|Audio (letter name, non-tonal)}}
-* {{audio|sl|Sl-nt-ef.ogg|Audio (letter name, non-tonal)}}
-* {{rhymes|sl|ə|ɛf}}
-* {{homophones|sl|F|f}}
+* Phoneme
+{{sl-pronounce
+|IPAt={{IPA|sl|/f/|[v]}}
+|SNPTt={{SNPT|/f/|[v]}}
+|IPAnt={{IPA|sl|/f/|[v]}}
+|SNPTnt={{SNPT|/f/|[v]}}
+}}
+
+* Letter name
+{{sl-pronounce
+|nt=f
+|phonetic=fə̀, èf
+|tonal=ə̏, ȅ
+|IPAt={{IPA|sl|[ˈfə̂]|[ˈɛ̂f]}}
+|SNPTt={{SNPT|[fə̏]|[ȅf]}}
+|IPAnt={{IPA|sl|[ˈfə]|[ˈɛf]}}
+|SNPTnt={{SNPT|[fə̀]|[èf]}}
+|audiont={{audio|sl|Sl-nt-f.ogg|Audio:}}, {{audio|sl|Sl-nt-ef.ogg}}
+}}
+{{sl-pronounce-other
+|rhymes={{rhymes|sl|ə|ɛf}}
+|rhymesSNPT=ə̀, èf
+|hyphenation={{hyphenation|sl|f}}
+|homophonest={{homophones|sl|F|f}}
+|homophonesnt={{homophones|sl|F|f}}
+|alp=*fə̀
+|car=*fə̏
+|vk=*fə̏
+|si=*fə̏
+|lc=*fə̏
+|uc=*fə̏
+|ss=*fə̏
+|ns=*fə̏
+|pan=*fə̏
+}}
 
 ====Letter====
 {{sl-letter|upper=F|lower=f}}
@@ -626,10 +655,23 @@ From Gaj's Latin alphabet {{m|sh|f}}, from {{der|mul|cs|-}} alphabet {{m|cs|f}},
 From {{m|en|f}}, an abbreviation for {{m|en|fuck}}, from {{inh|en|enm|*fukken}}, probably from {{der|en|gem-pro|*fukkōną#Etymology_2}}, from {{der|en|ine-pro|*pewǵ-|t=to strike, punch, stab}}.
 
 ====Pronunciation====
-* {{sl-IPA|ȅf}}
-* {{audio|sl|Sl-nt-ef.ogg|Audio (letter name, non-tonal)}}
-* {{rhymes|sl|ɛf}}
-* {{homophones|sl|F|f}}
+{{sl-pronounce
+|nt=f
+|phonetic=èf
+|tonal=ȅ
+|IPAt={{IPA|sl|[ˈɛ̂f]}}
+|SNPTt={{SNPT|[ȅf]}}
+|IPAnt={{IPA|sl|[ˈɛf]}}
+|SNPTnt={{SNPT|[èf]}}
+|audiont={{audio|sl|Sl-nt-ef.ogg|Audio:}}
+}}
+{{sl-pronounce-other
+|rhymes={{rhymes|sl|ɛf}}
+|rhymesSNPT=èf
+|hyphenation={{hyphenation|sl|f}}
+|homophonest={{homophones|sl|F|f}}
+|homophonesnt={{homophones|sl|F|f}}
+}}
 
 ====Interjection====
 {{head-lite|sl|interjections|langname=Slovene}}
@@ -654,7 +696,42 @@ From {{m|en|f}}, an abbreviation for {{m|en|fuck}}, from {{inh|en|enm|*fukken}},
 A dialectal variant of {{l|sl|v}} made by analogy to {{l|sl|s}}/{{l|sl|z}} in dialects where [{{IPAlink|w}}] turned into [{{IPAlink|v}}] and got its devoiced part, [{{IPAlink|f}}].
 
 ====Pronunciation====
-* {{sl-IPA|f}} {{q|see also usage notes}}
+* Noramlly
+{{sl-pronounce
+|nt=f
+|IPAt={{IPA|sl|[f]}}
+|SNPTt={{SNPT|[f]}}
+|IPAnt={{IPA|sl|[f]}}
+|SNPTnt={{SNPT|[f]}}
+}}
+
+*Otside usual context
+{{sl-pronounce
+|nt=f
+|phonetic=fə̀
+|tonal=ə̏
+|IPAt={{IPA|sl|[ˈfə̂]}}
+|SNPTt={{SNPT|[fə̏]}}
+|IPAnt={{IPA|sl|[ˈfə]}}
+|SNPTnt={{SNPT|[fə̀]}}
+|audiont={{audio|sl|Sl-nt-f.ogg|Audio:}}
+}}
+{{sl-pronounce-other
+|rhymes={{rhymes|sl|ə}}
+|rhymesSNPT=ə̀
+|hyphenation={{hyphenation|sl|f}}
+|homophonest={{homophones|sl|F|f}}
+|homophonesnt={{homophones|sl|F|f}}
+|alp=*və̀
+|car=*və̏
+|vk=*və̏
+|si=*və̏
+|lc=*və̏
+|uc=*və̏
+|ss=*və̏
+|ns=*və̏
+|pan=*və̏
+}}
 
 ====Preposition====
 {{sl-prep|-}}
