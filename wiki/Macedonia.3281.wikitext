@@ -101,7 +101,7 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 *: Mandarin: {{t+|cmn|馬其頓}}, {{t+|cmn|马其顿|tr=Mǎqídùn}}
 * Coptic: {{t|cop|ⲙⲁⲕⲉⲇⲟⲛⲓⲁ}}
 * Czech: {{t+|cs|Makedonie|f}}
-* Danish: {{t+|da|Makedonien}}
+* Danish: {{t+|da|Makedonien|n}}
 * Dutch: {{t+|nl|Macedonië|n}}
 * Egyptian: {{t-egy|mjgꜣdn|h=G20-g-A-d:n:t*t}}
 * Esperanto: {{t+|eo|Makedonio}}, {{t|eo|Antikva Makedonio}}, {{t|eo|Pramakedonio}}
@@ -112,8 +112,8 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 * German: {{t+|de|Makedonien|n}}
 * Greek: {{t+|el|Μακεδονία|f}}
 *: Ancient: {{t|grc|Μακεδονία|f}}
-* Hebrew: {{t|he|מוקדון|tr=mokedon|m}}, {{t+|he|מָקֶדוֹנְיָה|f|tr=makedonya}}
-* Hindi: {{t|hi|मैसिडोनिया}}, {{t+|hi|मैसेडोनिया}}, {{t+|hi|मकदूनिया|m}}
+* Hebrew: {{t|he|מוקדון|f|tr=mokedon}}, {{t+|he|מָקֶדוֹנְיָה|f|tr=makedonya}}
+* Hindi: {{t|hi|मैसिडोनिया|m}}, {{t+|hi|मैसेडोनिया|m}}, {{t+|hi|मकदूनिया|m}}
 * Hungarian: {{t+|hu|Makedónia}}
 * Irish: {{t|ga|Macadóin|f|alt=An Mhacadóin}}
 {{trans-mid}}
@@ -125,7 +125,9 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 * Malay: {{t|ms|Makadunia}}
 * Maori: {{t|mi|Makerōnia}}
 * Norman: {{t|nrf|Macédoine|f}} {{q|Jersey}}
-* Norwegian: {{t+|no|Makedonia}}
+* Norwegian:
+*: Bokmål: {{t+|nb|Makedonia|n}}
+*: Nynorsk: {{t+|nn|Makedonia|n}}
 * Polish: {{t+|pl|Macedonia|f}}
 * Portuguese: {{t+|pt|Macedónia|f}} {{qualifier|Portugal}}, {{t+|pt|Macedônia|f}} {{qualifier|Brazil}}
 * Romanian: {{t+|ro|Macedonia|f}}
@@ -135,7 +137,7 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 *: Roman: {{t+|sh|Makèdōnija|f}}
 * Slovene: {{t+|sl|Makedónija|f}}
 * Spanish: {{t|es|Reino de Macedonia|m}}
-* Swedish: {{t+|sv|Makedonien}}
+* Swedish: {{t+|sv|Makedonien|n}}
 * Tagalog: {{t|tl|Masedonya}}
 * Tigrinya: {{t|ti|መቆዶንያ}}
 * Turkish: {{t+|tr|Makedonya}}
@@ -163,7 +165,7 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 *: Mandarin: {{t+|cmn|馬其頓}}, {{t+|cmn|马其顿|tr=Mǎqídùn}}
 * Cornish: {{t|kw|Makedoni|f}}
 * Czech: {{t+|cs|Makedonie|f}}
-* Danish: {{t+|da|Makedonien}}
+* Danish: {{t+|da|Makedonien|n}}
 * Dhivehi: {{t|dv|މެސެޑޯނިއާ}}
 * Dutch: {{t+|nl|Macedonië|n}}
 * Esperanto: {{t+|eo|Makedonio}}, {{t|eo|Respubliko de Makedonio}}
@@ -177,7 +179,7 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 * Greek: {{t+|el|Μακεδονία|f}} {{qualifier|rare, literal}}, {{t+|el|Σκόπια|f}}, {{t|el|πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας|f}}, {{t+|el|ΠΓΔΜ|f}} {{qualifier|provisional references}}
 * Hausa: {{t|ha|Masedoniya}}
 * Hebrew: {{t+|he|מָקֶדוֹנְיָה|f|tr=makedonya}}
-* Hindi: {{t|hi|मैसिडोनिया}}, {{t+|hi|मैसेडोनिया}}, {{t+|hi|मकदूनिया|m}}
+* Hindi: {{t|hi|मैसिडोनिया|m}}, {{t+|hi|मैसेडोनिया|m}}, {{t+|hi|मकदूनिया|m}}
 * Hungarian: {{t+|hu|Macedónia}}
 * Icelandic: {{t+|is|Makedónía|f}}
 * Irish: {{t|ga|Macadóin|alt=An Mhacadóin|f}}, {{t|ga|Iar-Phoblacht Iúgslavach na Macadóine|f}}, {{t|ga|Poblacht Iar-Iúgslavach na Macadóine|f}}
@@ -193,15 +195,16 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 * Lithuanian: {{t+|lt|Makedonija|f}}
 * Macedonian: {{t+|mk|Македонија|f}}, {{t+|mk|Република Македонија|f}}
 * Malay: {{t|ms|Makedonia}}
-* Maltese: il-{{t|mt|Maċedonja}}, ir-{{t|mt|Repubblika tal-Maċedonja}}
+* Maltese: {{t|mt|Maċedonja|f|alt=il-Maċedonja}}, ir-{{t|mt|Repubblika tal-Maċedonja}}
 * Maori: {{t|mi|Makeronia}}
-* Mongolian: {{t+|mn|Македон}}
-* Navajo: {{t|nv|Masedóonya|sc=Latn}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|Македон}}
+* Navajo: {{t|nv|Masedóonya}}
 * Norman: {{t|nrf|Macédoine|f}} {{q|Jersey}}
-* Norwegian: {{t+|no|Makedonia}}
+* Norwegian:
 *: Bokmål: {{t+|nb|Makedonia|n}}
 *: Nynorsk: {{t+|nn|Makedonia|n}}
-* Pashto: {{t|ps|مقدونيه|f|tr=maqdunyá}}
+* Pashto: {{t|ps|مقدونيه|f|tr=maqdunya}}
 * Persian: {{t+|fa|مقدونیه|tr=maqduniye}}, {{t|fa|مکادونیه|tr=makâduniye}}
 * Polish: {{t+|pl|Macedonia|f}}
 * Portuguese: {{t+|pt|Macedónia|f}} {{qualifier|Portugal}}, {{t+|pt|Macedônia|f}} {{qualifier|Brazil}}
@@ -217,7 +220,7 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 * Slovak: {{t+|sk|Macedónsko|n}}
 * Slovene: {{t+|sl|Makedónija|f}}
 * Spanish: {{t+|es|Macedonia|f}}, {{t+|es|República de Macedonia|f}}
-* Swedish: (Forna Jugoslaviska Republiken) {{t+|sv|Makedonien}}
+* Swedish: (Forna Jugoslaviska Republiken) {{t+|sv|Makedonien|n}}
 * Tagalog: {{t|tl|Masedonya}}
 * Tajik: {{t|tg|Мақдуния}}
 * Thai: {{t+|th|มาซิโดเนีย}}
@@ -225,7 +228,7 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 * Turkish: {{t+|tr|Makedonya}}
 * Turkmen: {{t|tk|Makedoniýa}}
 * Ukrainian: {{t+|uk|Македо́нія|f}}, {{t|uk|Респу́бліка Македо́нія|f}}
-* Urdu: {{t|ur|میسیڈونیا|tr=meseḍoniyā}}, {{t|ur|مقدونیہ|tr=maqdūniya}}
+* Urdu: {{t|ur|میسیڈونیا|m|tr=meseḍoniyā}}, {{t|ur|مقدونیہ|m|tr=maqdūniya}}
 * Uyghur: {{t|ug|ماكېدونىيە}}
 * Uzbek: {{t+|uz|Makedoniya}}
 * Vietnamese: {{t|vi|cộng hòa Ma-xê-đô-ni-a}}, {{t|vi|Ma-xê-đô-ni-a}}
@@ -242,7 +245,7 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 * Chinese:
 *: Mandarin: {{t+|cmn|馬其頓}}, {{t+|cmn|马其顿|tr=Mǎqídùn}}
 * Czech: {{t+|cs|Makedonie|f}}
-* Danish: {{t+|da|Makedonien}}, {{t|da|Græsk Makedonien}}
+* Danish: {{t+|da|Makedonien|n}}, {{t|da|Græsk Makedonien|n}}
 * Dutch: {{t+|nl|Macedonië|n}}
 * Esperanto: {{t+|eo|Makedonio}}, {{t|eo|Greka Makedonio}}
 * Estonian: {{t+|et|Makedoonia}}
@@ -252,7 +255,7 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 * German: {{t+|de|Makedonien|n}}
 * Greek: {{t+|el|Μακεδονία|f}}
 * Hebrew: {{t+|he|מָקֶדוֹנְיָה|f|tr=makedonya}}
-* Hindi: {{t|hi|मैसिडोनिया}}, {{t+|hi|मैसेडोनिया}}, {{t+|hi|मकदूनिया|m}}
+* Hindi: {{t|hi|मैसिडोनिया|m}}, {{t+|hi|मैसेडोनिया|m}}, {{t+|hi|मकदूनिया|m}}
 * Irish: {{t|ga|Macadóin na Gréige|f}}
 * Italian: {{t+|it|Macedonia|f}}
 {{trans-mid}}
@@ -260,7 +263,9 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 * Korean: {{t+|ko|^마케도니아}}, {{t+|ko|^마께도니아}} {{qualifier|North Korea}}
 * Macedonian: {{t|mk|Егејска Македонија|f}}, {{t|mk|Беломо́рска Македонија|f}}, {{t|mk|Приморска Македонија|f}}
 * Norman: {{t|nrf|Macédoine|f}}
-* Norwegian: {{t+|no|Makedonia}}
+* Norwegian:
+*: Bokmål: {{t+|nb|Makedonia|n}}
+*: Nynorsk: {{t+|nn|Makedonia|n}}
 * Polish: {{t+|pl|Macedonia|f}}
 * Portuguese: {{t+|pt|Macedónia|f}} {{qualifier|Portugal}}, {{t+|pt|Macedônia|f}} {{qualifier|Brazil}}
 * Romanian: {{t+|ro|Macedonia|f}}
@@ -270,7 +275,7 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 *: Roman: {{t+|sh|Makèdōnija|f}}
 * Slovene: {{t+|sl|Makedónija|f}}
 * Spanish: {{t+|es|Macedonia|f}}
-* Swedish: {{t+|sv|Makedonien}}
+* Swedish: {{t+|sv|Makedonien|n}}
 * Tagalog: {{t|tl|Masedonya}}
 * Turkish: {{t+|tr|Makedonya}}
 * Võro: {{t|vro|Makõdoonia}}
