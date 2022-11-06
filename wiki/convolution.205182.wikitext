@@ -1,6 +1,6 @@
 ==English==
+[[File:Keychain with text "Encryption is key".jpg|right|thumb|A [[keyring]] is a helix containing two '''convolutions''' (360° turns).]]
 {{wikipedia}}
-{{wikipedia|convolution (computer science)}}
 
 ===Etymology===
 Borrowed from {{bor|en|la|convolutus||to roll together}}, past participle of {{m|la|convolvere}}, from {{m|la|con-}} + {{m|la|volvere||to roll}}, with the suffix {{m|en|-tion}}. Equivalent to {{suffix|en|convolute|ion}}.
@@ -14,10 +14,23 @@ Borrowed from {{bor|en|la|convolutus||to roll together}}, past participle of {{m
 # A [[twist]] or [[fold]].
 # Any of the [[fold]]s on the [[surface]] of the [[brain]].
 # The shape of something [[rotating]]; a [[vortex]].
-# State or condition of being [[convoluted]].
-# {{lb|en|mathematics}} A form of [[moving]] [[average]].
+# The state or condition of being [[convoluted]].
+# {{lb|en|mathematics|functional analysis}} A mathematical operation on two functions that produces a third that expresses how the shape of one is modified by the other; the [[integral]] of the product of the two functions after one is reflected about the ''y''-axis and shifted along the ''x''-axis.
+#: {{coordinate terms|en|deconvolution}}
+#* '''1997''', Richard Tolimieri, Myoung An, Chao Lu, ''Algorithms for Discrete Fourier Transform and '''Convolution''''', 2nd Edition, Springer, [https://books.google.com.au/books?id=Na3hBwAAQBAJ&pg=PA101&dq=%22convolution%22%7C%22convolutions%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjpmf_sopn7AhU47TgGHSilCCsQ6AF6BAheEAI#v=onepage&q=%22convolution%22%7C%22convolutions%22&f=false page 101],
+#*: Linear '''convolution''' is one of the most frequent computations carried out in digital signal processing (DSP).
+#* '''1994''', Semen B. Yakubovich, Yurii F. Luchko, ''The Hypergeometric Approach to Integral Transforms and '''Convolutions''''', Springer, [https://books.google.com.au/books?id=VKz9CAAAQBAJ&pg=PA183&dq=%22convolution%22%7C%22convolutions%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjpmf_sopn7AhU47TgGHSilCCsQ6AF6BAhhEAI#v=onepage&q=%22convolution%22%7C%22convolutions%22&f=false page 183],
+#*: In Chapter 11 we considered <math>H</math>-'''convolutions''' of generalized <math>H</math>-transforms. These '''convolutions''' are bilinear, commutative and associative operations{{...}}.
 # {{lb|en|computing}} A function which maps a [[tuple]] of [[sequences]] into a sequence of tuples.
-# One 360° turn in a spring or similar helix.   A keyring contains 2 convolutions.
+# One 360° turn in a spring or similar helix.
+
+====Usage notes====
+* {{sense|functional analysis}} The term refers to both the result function and to the process of computing it.
+
+====Derived terms====
+* {{l|en|convolutional}}
+* {{l|en|convolution theorem}}
+* {{l|en|convolution transform}}
 
 ====Related terms====
 * {{l|en|convolve}}
@@ -50,11 +63,12 @@ Borrowed from {{bor|en|la|convolutus||to roll together}}, past participle of {{m
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|mathematics: form of moving average}}
+{{trans-top|mathematics: mathematical operation on two functions}}
 * Chinese:
 *: Mandarin: {{t|cmn|卷積}}, {{t|cmn|卷积|tr=juǎnjī|sc=Hani}}, {{t|cmn|褶積}}, {{t|cmn|褶积|tr=zhějī}}
 * Hungarian: {{t+|hu|konvolúció}}
 * Icelandic: {{t|is|földun|f}}
+* Italian: {{t|convoluzione|f}}
 {{trans-mid}}
 * Kurdish:
 *: Central Kurdish: {{t+|ckb|لوول}}, {{t+|ckb|پێچ}}
@@ -75,9 +89,19 @@ Borrowed from {{bor|en|la|convolutus||to roll together}}, past participle of {{m
 {{trans-mid}}
 {{trans-bottom}}
 
-====Further reading====
+===See also===
+* {{l|en|autocorrelation}}
+* {{l|en|cross-correlation}}
+
+===References===
 * {{R:Webster 1913}}
 * {{R:Century 1911}}
+
+===Further reading===
+* {{pedia|Convolution (disambiguation)}}
+* {{pedia|Convolution (computer science)}}
+* [https://mathworld.wolfram.com/Convolution.html Convolution] on {{w|MathWorld|Wolfram MathWorld}}
+* [https://encyclopediaofmath.org/wiki/Convolution_of_functions Convolution of functions] on {{w|Encyclopedia of Mathematics}}
 
 ----
 
