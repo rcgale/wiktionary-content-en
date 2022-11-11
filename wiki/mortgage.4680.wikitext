@@ -35,7 +35,7 @@ From {{inh|en|enm|morgage}} and {{der|en|frm|mortgage}}, from {{der|en|xno|morga
 * Albanian: {{t+|sq|hipotekë|f}}
 * Arabic: {{t+|ar|رَهْن|m}}, {{t|ar|رَهْن عَقَارِيّ|m}}
 *: Egyptian Arabic: {{t|arz|رهن|m|tr=rahn}}
-* Armenian: {{t+|hy|հիպոթեկ|sc=Armn}}
+* Armenian: {{t+|hy|հիպոթեկ}}
 * Asturian: {{t|ast|hipoteca|f}}
 * Azerbaijani: {{t|az|ipoteka}}
 * Basque: {{t+|eu|hipoteka}}
@@ -43,37 +43,37 @@ From {{inh|en|enm|morgage}} and {{der|en|frm|mortgage}}, from {{der|en|xno|morga
 * Bulgarian: {{t+|bg|ипоте́ка|f}}
 * Catalan: {{t+|ca|hipoteca|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|抵押|tr=dǐyā|sc=Hani}}, {{t|cmn|[[抵押]][[貸款]]|sc=Hani}}, {{t|cmn|[[抵押]][[贷款]]|tr=dǐyā dàikuǎn|sc=Hani}}, {{t+|cmn|按揭|tr=ànjiē|sc=Hani}}, {{qualifier|home loan}} {{t+|cmn|房貸|sc=Hani}}, {{t+|cmn|房贷|tr=fángdài|sc=Hani}}
+*: Mandarin: {{t+|cmn|抵押|tr=dǐyā}}, {{t|cmn|[[抵押]][[貸款]]}}, {{t|cmn|[[抵押]][[贷款]]|tr=dǐyā dàikuǎn}}, {{t+|cmn|按揭|tr=ànjiē}}, {{qualifier|home loan}} {{t+|cmn|房貸}}, {{t+|cmn|房贷|tr=fángdài}}
 * Cornish: {{t|kw|marwostel|m}}
 * Czech: {{t+|cs|hypotéka|f}}
-* Danish: {{t|da|pant}}
+* Danish: {{t|da|pant|n}}
 * Dutch: {{t+|nl|hypotheek|m}}
 * Esperanto: {{t|eo|hipoteko}}
 * Finnish: {{t+|fi|asuntolaina}}, {{t+|fi|kiinnelaina}}
 * French: {{t+|fr|hypothèque|f}}
 * Friulian: {{t|fur|ipoteche|f}}
 * Galician: {{t|gl|hipoteca|f}}
-* Georgian: {{t|ka|იპოთეკა|sc=Geor}}, {{t|ka|გირაო}}
+* Georgian: {{t|ka|იპოთეკა}}, {{t|ka|გირაო}}
 * German: {{t+|de|Hypothek|f}}
-* Greek: {{t+|el|υποθήκη|f|sc=Grek}}
+* Greek: {{t+|el|υποθήκη|f}}
 *: Ancient: {{t|grc|ὑποθήκη|f}}
-* Hebrew: {{t+|he|משכנתא|f|tr=mashkánta|sc=Hebr}}
-* Hindi: {{t+|hi|गिरो}}, {{t+|hi|रेहन|m}}
+* Hebrew: {{t+|he|מַשְׁכַּנְתָּא|f|tr=mashkánta}}
+* Hindi: {{t+|hi|रेहन|m}}, {{t+check|hi|गिरो|m}}
 * Hungarian: {{t+|hu|jelzálog}}, {{t|hu|jelzálogkölcsön}}, {{t+|hu|jelzáloghitel}}
 * Ido: {{t+|io|hipoteko}}
 * Indonesian: {{t+|id|hipotek}}
 * Interlingua: {{t|ia|hypotheca}}
 * Irish: {{t|ga|morgáiste|m}}
 * Italian: {{t+|it|ipoteca|f}}
-* Japanese: {{t+|ja|抵当|tr=ていとう, teitō|sc=Jpan}}, {{t+|ja|抵当権|tr=ていとうけん, teitōken|sc=Jpan}}, {{t|ja|住宅ローン|tr=じゅうたくローン, jūtaku-rōn|sc=Jpan}}
-* Kazakh: {{t|kk|ипотека|sc=Cyrl}}
-* Khmer: {{t|km|និក្ខេប|tr=nikkʰeɛp|sc=Khmr}}
+* Japanese: {{t+|ja|抵当|tr=ていとう, teitō}}, {{t+|ja|抵当権|tr=ていとうけん, teitōken}}, {{t|ja|住宅ローン|tr=じゅうたくローン, jūtaku rōn}}
+* Kazakh: {{t|kk|ипотека}}
+* Khmer: {{t|km|និក្ខេប}}
 * Korean: {{t+|ko|저당(抵當)}}, {{t+|ko|저당권(抵當權)}}, {{t|ko|모기지 론}}
 {{trans-mid}}
-* Kyrgyz: {{t|ky|ипотека|sc=Cyrl}}
+* Kyrgyz: {{t|ky|ипотека}}
 * Latin: {{t|la|pignus|n}}, {{t|la|hypotheca|f}}
-* Latvian: {{t|lv|hipotēka}}
-* Lithuanian: {{t|lt|ipoteka}}
+* Latvian: {{t|lv|hipotēka|f}}
+* Lithuanian: {{t|lt|ipoteka|f}}
 * Lower Sorbian: {{t|dsb|hypoteka|f}}
 * Luxembourgish: {{t|lb|Hypothéik|f}}
 * Malay: {{t|ms|gadai janji}}
@@ -82,12 +82,13 @@ From {{inh|en|enm|morgage}} and {{der|en|frm|mortgage}}, from {{der|en|xno|morga
 * Manx: {{t|gv|gioaldeeaght}}
 * Maori: {{t|mi|mōkete}}
 * Mirandese: {{t|mwl|heipoteca|f}}
-* Mongolian: {{t|mn|моргейж}}
+* Mongolian:
+*: Cyrillic: {{t|mn|моргейж}}
 * Norman: {{t|nrf|hypothèque|f}}
-* Norwegian: {{t|no|hypotek|n}}
+* Norwegian:
 *: Bokmål: {{t|nb|hypotek|m}}
 * Occitan: {{t|oc|emprecairada|f}}, {{t|oc|empenhoradura|f}}
-* Persian: {{t+|fa|رهن|tr=rahn|sc=fa-Arab}}
+* Persian: {{t+|fa|رهن|tr=rahn}}
 * Polish: {{t+|pl|hipoteka|f}}
 * Portuguese: {{t+|pt|hipoteca|f}}
 * Romanian: {{t+|ro|ipotecă|f}}
@@ -95,18 +96,18 @@ From {{inh|en|enm|morgage}} and {{der|en|frm|mortgage}}, from {{der|en|xno|morga
 * Russian: {{t+|ru|ипоте́ка|f}}
 * Scottish Gaelic: {{t|gd|morgaidse}}
 * Serbo-Croatian:
-*: Latin: {{t+|sh|hipoteka|f|sc=Cyrl}}
-*: Cyrillic: {{t|sh|хипотека|f|sc=Cyrl}}
+*: Cyrillic: {{t|sh|хипоте́ка|f}}
+*: Roman: {{t+|sh|hipotéka|f}}
 * Slovak: {{t+|sk|hypotéka|f}}
 * Slovene: {{t+|sl|hipoteka|f}}, {{t|sl|zastavitev|f}}
 * Spanish: {{t+|es|hipoteca|f}}
 * Swahili: {{t|sw|rehani}}
 * Swedish: {{t+|sv|hypotek|n}}
-* Tajik: {{t|tg|гаравпулӣ|sc=Cyrl}}
-* Tatar: {{t|tt|ипотека|sc=Cyrl}}
+* Tajik: {{t|tg|гаравпулӣ}}
+* Tatar: {{t|tt|ипотека}}
 * Thai: {{t+|th|จำนอง}}
 * Turkish: {{t+|tr|ipotek}}, {{t+|tr|rehin}}, {{t+|tr|tutu}}
-* Ukrainian: {{t+|uk|іпоте́ка|sc=Cyrl}}
+* Ukrainian: {{t+|uk|іпоте́ка}}
 * Upper Sorbian: {{t|hsb|hypoteka|f}}
 * Uzbek: {{t+|uz|ipoteka}}
 * Vietnamese: {{t|vi|quyền cầm cố}}
