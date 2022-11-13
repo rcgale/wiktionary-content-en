@@ -94,10 +94,13 @@ From {{der|en|frm|dérivatif}}, from {{der|en|la|dērīvātus}}, perfect passive
 #: {{cot|en|cognate}}
 # {{lb|en|finance}} A [[financial instrument]] whose value depends on the valuation of an [[underlying]] [[asset]]; such as a [[warrant]], an [[option]] etc.
 # {{lb|en|chemistry}} A [[chemical]] derived from another.
-# {{lb|en|calculus}} The [[derived function]] of a [[function]] (the [[slope]] at a [[certain]] [[point]] on some [[curve]] <math>f(x)</math>) [[Category:en:Functions]]
-#: ''The derivative of <math>f:f(x) = x^2</math> is <math>f':f'(x) = 2x</math>''
-# {{lb|en|calculus}} The value of this function for a given value of its independent variable.
-#: ''The derivative of <math>f(x) = x^2</math> at x = 3 is <math>f'(3) = 2 * 3 = 6</math>.''
+# {{lb|en|calculus}} One of the two fundamental objects of study in [[calculus]] (the other being [[integral|integration]]), which quantifies the [[rate]] of [[change]], [[tangency]], and other qualities arising from [[local]] behavior of a [[function]].
+## {{lb|en|Of a function of a [[univariate|single variable]] <math>f(x)</math>}} The [[derived function]] of <math>f(x)</math>: the function giving the [[instantaneous]] rate of change of <math>f</math>; equivalently, the function giving the [[slope]] of the line [[tangent]] to the [[graph]] of <math>f</math>. Written <math>f'(x)</math> or <math>\frac{df}{dx}</math> in {{w|Leibnitz's notation}}, <math>\dot{f}(x)</math> in {{w|Notation_for_differentiation#Newton's_notation|Newton's notation}} (the latter used particularly when the independent [[variable]] is time). [[Category:en:Functions]]
+##: {{ux|en|The derivative of <math>x^2</math> is <math>2x</math>; if <math>f(x) = x^2</math>, then <math>f'(x) = 2x</math>}}
+## The value of such a derived function for a given value of its independent variable: the rate of change of a function at a point in its [[domain]].
+##: {{ux|en|The derivative of <math>f(x)=x^3</math> at <math>x=2</math> is 12.}}
+## {{lb|en|Of more general [[class]]es of functions}} Any of several related [[generalization]]s of the derivative: the {{w|directional derivative}}, [[partial derivative]], {{w|Fréchet derivative}}, {{w|functional derivative}}, [[etc.]]
+## {{lb|en|generally}} The [[linear]] [[operator]] that maps functions to their [[derived functions]], usually written <math>D</math>; the simplest [[differential operator]].
 
 ====Synonyms====
 * {{sense|something derived}} {{l|en|derivate}}, {{l|en|offshoot}}, {{l|en|spinoff}}
