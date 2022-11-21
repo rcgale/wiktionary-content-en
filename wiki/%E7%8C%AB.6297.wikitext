@@ -55,10 +55,16 @@
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|ねこ}}
+{{IPAfont|⟨neko<sub>1</sub>⟩}} → {{IPAchar|/neko/}}
 
-{{IPAfont|*⟨ni<sub>1</sub>a-ko<sub>1</sub>ma⟩}} → {{IPAfont|⟨ne<sub>1</sub>ko<sub>1</sub>ma⟩}} → {{IPAchar|/nekoma/}} → {{IPAchar|/neko/}}
+From {{inh|ja|ojp|sort=ねこ|-}}. Cognate with {{cog|mvi|ja|にか|tr=nika|pos=Tarama dialect|cat}} via unknown Japonic substratum.
+Many dialects with Tokyo type accent, including the standard Japanese in Tokyo, pronounce this word in <HL> tone, the same as the current Keihan type accent has, instead of <LH> as expected from the Heian Kyoto accent <LL>. The confusion seems to be due to it is from compound word origin.
 
-From {{inh|ja|ojp|sort=ねこ|-}}.  Shortened from earlier ''nekoma'' (see below).
+One theory describes that this word is shortened from earlier {{ja-r|猫|linkto=|ねこま}} below, but this word's first appearance in literature is earlier than that.
+
+First attested in ''Shin'yaku Kegonkyō Ongi Shiki'' (新訳華厳経音義私記), 794.
+:{{RQ:Shin'yaku Kegonkyō Ongi Shiki}}
+: {{ux|ja|猫狸 [...] ニ又漢云野貍、倭言上'''尼古'''、下多〻既|Cat and raccoon dog, [...] both of them are called {{m|ja||野貍|tr=yari}} in Chinese; the former is called {{m|ja||'''尼古'''|tr={{IPAfont|⟨neko<sub>1</sub>⟩}} → neko}} while the latter is called {{m|ja|狸|多〻既|tr={{IPAfont|⟨tatake<sub>2</sub>⟩}} → tatake}} in Japanese.}}
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ねこ|acc=1|acc_ref=DJR,NHK|a=Ja-neko-anglonative.oga}}
@@ -69,9 +75,6 @@ From {{inh|ja|ojp|sort=ねこ|-}}.  Shortened from earlier ''nekoma'' (see below
 # a [[cat]]
 #: {{ja-usex|'''猫'''[[が#Etymology 2|が]][[二%]][[匹%]][[居る]][[。]]|'''ねこ''' が に%ひき %いる。|There are two '''cats'''.}}
 #: {{ja-usex|[[家]][[に#Etymology 2|に]][[は#Etymology 2|は]]'''猫'''が[[三]]匹[[います]]。|いえ に は '''ねこ''' が さんびき います。|There are three '''cats''' in the house.}}
-#* {{RQ:Wamyō Ruijushō|7|56}}
-#*: {{lang|ja|猫: 野王案、猫、音苗、禰古麻、下總本有和名二字興河海抄引此合、本草和名同訓、或省云'''禰古'''、新撰字鏡、狸、'''禰古'''、按狸一名猫、見本草和名、似虎而小、熊捕鼠為糧}}
-# {{clipping of|ja|猫車|tr=nekoguruma|t=wheelbarrow}}
 
 =====Derived terms=====
 {{der-top}}
@@ -109,11 +112,12 @@ From {{inh|ja|ojp|sort=ねこ|-}}.  Shortened from earlier ''nekoma'' (see below
 ===Etymology 2===
 {{ja-kanjitab|yomi=k|ねこま}}
 
-{{IPAfont|*⟨ni<sub>1</sub>a-ko<sub>1</sub>ma⟩}} → {{IPAfont|⟨ne<sub>1</sub>ko<sub>1</sub>ma⟩}} → {{IPAchar|/nekoma/}}
+According to ''Wamyō Ruijushō'' (931–938), {{ja-r|猫|linkto=|ねこ}} above is short for this word.
+: {{RQ:Wamyō Ruijushō|7|56}}
+: {{lang|ja|猫: 野王案、猫、音苗、'''禰古麻'''、下總本有和名二字興河海抄引此合、本草和名同訓、或省云禰古、新撰字鏡、狸、禰古、按狸一名猫、見本草和名、似虎而小、熊捕鼠為糧}}
 
-From {{inh|ja|ojp|sort=ねこま|-}}.  Originally a compound of {{compound|ja|sort=ねこま|にゃ|tr1=nya|t1=[[onomatopoeia]] for the sound a cat makes (compare {{noncog|en|[[mew]], [[meow]]}})|こま|tr2=koma|t2=four-legged animal}}. {{rfv-etym|ja}}
-
-Obsolete; replaced by shorter form ''neko'' in modern Japanese.
+One theory describes the first mola <ne> is [[onomatopoeia]] for the sound a cat makes (cf. {{ja-r|にゃ}}; compare {{noncog|en|[[mew]], [[meow]]}}). The last two molae <ko<sub>1</sub>ma> can accord with {{ja-r|熊|くま|bear}} if it were from Proto-Japonic *kòmà, as a sense of "four-legged animal".
+{{rfv-etym|ja}}
 
 ====Pronunciation====
 {{ja-pron|yomi=k|ねこま}}
@@ -122,8 +126,6 @@ Obsolete; replaced by shorter form ''neko'' in modern Japanese.
 {{ja-noun|ねこま}}
 
 # {{lb|ja|sort=ねこま|obsolete}} a [[cat]]
-#* {{RQ:Wamyō Ruijushō|7|56}}
-#*: {{lang|ja|猫: 野王案、猫、音苗、'''禰古麻'''、下總本有和名二字興河海抄引此合、本草和名同訓、或省云禰古、新撰字鏡、狸、禰古、按狸一名猫、見本草和名、似虎而小、熊捕鼠為糧}}
 
 ===References===
 <references/>
