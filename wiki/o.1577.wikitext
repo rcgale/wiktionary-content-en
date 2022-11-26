@@ -2376,16 +2376,16 @@ From {{inh|yol|enm|o}}.
 ===Etymology 1===
 
 ====Pronunciation====
-* {{sense-lite|phoneme}} {{yo-IPA|o}}
-* {{sense-lite|letter name}} {{yo-IPA|ó}}
+* {{sense-lite|phoneme}} {{IPA-lite|yo|/ō/}} <!-- {{yo-IPA|o}} -->
+* {{sense-lite|letter name}} {{IPA-lite|yo|/ó/}} <!-- {{yo-IPA|ó}} -->
 
 ====Letter====
-{{yo-letter|upper=O|lower=o}}
+{{head-lite|yo|letters|lower case||upper case|O|langname=Yoruba}} <!-- {{yo-letter|upper=O|lower=o}} -->
 
 # {{Latn-def-lite|yo|letter|16|ó|langname=Yoruba}}
 
 ====Noun====
-{{yo-pos|noun|ó}}
+{{head-lite|yo|nouns|head=ó|langname=Yoruba}} <!-- {{yo-pos|noun|ó}} -->
 
 # {{Latn-def-lite|yo|name|O|o|langname=Yoruba}}
 
@@ -2396,36 +2396,36 @@ From {{inh|yol|enm|o}}.
 ===Etymology 2===
 
 ====Pronunciation====
-* {{yo-IPA|ō}}
+* {{IPA-lite|yo|/ō/}} <!-- {{yo-IPA|ō}} -->
 
 ====Pronoun====
-{{yo-pos|pronoun|o}}
+{{head-lite|yo|pronouns|head=o|langname=Yoruba}} <!-- {{yo-pos|pronoun|o}} -->
 
 # [[you]] {{gl|second-person singular non-honorific personal pronoun}}
 
 ===Etymology 3===
 
 ====Pronunciation====
-* {{yo-IPA|ó}}
+* {{IPA-lite|yo|/ó/}} <!-- {{yo-IPA|ó}} -->
 
 ====Pronoun====
-{{yo-pos|pronoun|ó}}
+{{head-lite|yo|pronouns|head=ó|langname=Yoruba}} <!-- {{yo-pos|pronoun|ó}} -->
 
 # [[he]]/[[she]]/[[it]] {{gl|third-person singular non-honorific personal pronoun}}
 
 ===Etymology 4===
 
 ====Pronunciation====
-* {{sense-lite|mid-tone}} {{yo-IPA|ō}}
-* {{sense-lite|high-tone}} {{yo-IPA|ó}}
+* {{sense-lite|mid-tone}} {{IPA-lite|yo|/ō/}} <!-- {{yo-IPA|ō}} -->
+* {{sense-lite|high-tone}} {{IPA-lite|yo|/ó/}} <!-- {{yo-IPA|ó}} -->
 
 ====Pronoun====
-{{yo-pos|pronoun|o}}
+{{head-lite|yo|pronouns|head=o|langname=Yoruba}} <!-- {{yo-pos|pronoun|o}} -->
 
 # [[him]], [[her]], [[it]] {{gl|third-person singular object pronoun following a [[monosyllabic]] verb with a high-tone /o/}}
 
 ====Pronoun====
-{{yo-pos|pronoun|ó}}
+{{head-lite|yo|pronouns|head=ó|langname=Yoruba}} <!-- {{yo-pos|pronoun|ó}} -->
 
 # [[him]], [[her]], [[it]] {{gl|third-person singular object pronoun following a [[monosyllabic]] verb with a low- or mid-tone /o/}}
 
@@ -2435,13 +2435,13 @@ From {{inh|yol|enm|o}}.
 ===Etymology 5===
 
 ====Pronunciation====
-* {{yo-IPA|ō}}
+* {{IPA-lite|yo|/ō/}} <!-- {{yo-IPA|ō}} -->
 
 ====Interjection====
-{{yo-pos|interjection|o}}
+{{head-lite|yo|interjections|head=o|langname=Yoruba}} <!-- {{yo-pos|interjection|o}} -->
 
 # {{n-g-lite|Used at the end of sentences to [[emphasize]] a statement.}}
-#: {{uxi|yo|ẹ ṣeun '''o'''|thank you'''!'''}}
+#: {{ux-lite|inline=1|yo|ẹ ṣeun '''o'''|thank you'''!'''}}
 
 =====Alternative forms=====
 * {{alt|yo|oo}}, {{alt|yo|ooo}} etc. (depending on the amount of emphasis)
@@ -2450,10 +2450,10 @@ From {{inh|yol|enm|o}}.
 {{clipping|yo|kò}}.
 
 ====Pronunciation====
-* {{yo-IPA|ò}}
+* {{IPA-lite|yo|/ò/}} <!-- {{yo-IPA|ò}} -->
 
 ====Particle====
-{{yo-pos|particle|ò}}
+{{head-lite|yo|particles|head=ò|langname=Yoruba}} <!-- {{yo-pos|particle|ò}} -->
 
 # [[not]] {{q-lite|placed before a verb to negate it, frequently used after personal pronouns}}
 
@@ -2461,12 +2461,13 @@ From {{inh|yol|enm|o}}.
 {{clipping|yo|wò}}
 
 ====Pronunciation====
-*{{yo-IPA|ò}}
+* {{IPA-lite|yo|/ò/}} <!-- {{yo-IPA|ò}} -->
 
 ====Verb====
-{{yo-verb|ò}}
+{{head-lite|yo|verbs|head=ò|langname=Yoruba}} <!-- {{yo-verb|ò}} -->
+
 # {{lb|yo|Èkìtì}} {{altform|yo|wò|t=to look at}}
-#: {{uxi|yo|mò í '''ò''' ẹ|I am '''looking at''' you!!}}
+#: {{ux-lite|inline=1|yo|mò í '''ò''' ẹ|I am '''looking at''' you!!}}
 
 ----
 
