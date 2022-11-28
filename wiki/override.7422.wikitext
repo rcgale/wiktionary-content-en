@@ -8,7 +8,7 @@ From {{inh|en|enm|overriden}}, from {{inh|en|ang|oferrīdan}}, equivalent to {{p
 ** {{audio|en|LL-Q1860 (eng)-Vealhurl-override1.wav|Audio (UK)}}
 * {{a|US}} {{IPA|en|/oʊ.vəɹˈɹaɪd/}}
 
-===Verb===
+====Verb====
 {{en-verb|overrides|overriding|overrode|overridden}}
 
 # To [[ride]] [[across]] or [[beyond]] something.
@@ -25,10 +25,10 @@ From {{inh|en|enm|overriden}}, from {{inh|en|ang|oferrīdan}}, equivalent to {{p
 # {{lb|en|object-oriented}} To define a new behaviour of a [[method]] by creating the same [[method]] of the [[superclass]] with the same name and [[signature]].
 #: {{ux|en|How the cat runs is defined in the method <code>run()</code> of the class <code>Cat</code>, which '''overrides''' the same method with the same signature of superclass called <code>Mammal</code>.}}
 
-====Usage notes====
+=====Usage notes=====
 * The form {{m|en|overrode}} is sometimes used as a past participle, in place of the standard {{m|en|overridden}}.
 
-====Derived terms====
+=====Derived terms=====
 * [[nonoverridable]]
 * [[nonoverridability]]
 * [[nonoverridden]]
@@ -36,7 +36,7 @@ From {{inh|en|enm|overriden}}, from {{inh|en|ang|oferrīdan}}, equivalent to {{p
 * [[overridable]]
 * [[unoverridable]]
 
-====Translations====
+=====Translations=====
 {{trans-top|to ride across or beyond something}}
 * Finnish: {{t|fi|[[ratsastaa]] [[poikki]]}}, {{t|fi|[[ratsastaa]] [[yli]]}}
 * French: {{t+|fr|outrepasser}}
@@ -85,7 +85,7 @@ From {{inh|en|enm|overriden}}, from {{inh|en|ang|oferrīdan}}, equivalent to {{p
 * Vietnamese: {{t|vi|ghi đè}}
 {{trans-bottom}}
 
-====See also====
+=====See also=====
 * {{sense|programming}} {{l|en|overload}}
 
 ===Pronunciation 2===
@@ -94,7 +94,7 @@ From {{inh|en|enm|overriden}}, from {{inh|en|ang|oferrīdan}}, equivalent to {{p
 * {{a|US}} {{IPA|en|/ˈoʊ.vəɹˌɹaɪd/}}
 ** {{audio|en|En-us-override.ogg|Audio (US)}}
 
-===Noun===
+====Noun====
 {{en-noun}}
 
 # A [[mechanism]], [[device]] or [[procedure]] used to [[counteract]] an [[automatic]] [[control]].
@@ -102,7 +102,7 @@ From {{inh|en|enm|overriden}}, from {{inh|en|ang|oferrīdan}}, equivalent to {{p
 # A device for prioritizing audio signals, such that certain signals receive priority over others.
 # {{lb|en|object-oriented}} A [[method]] with the same name and [[signature]] as a method in a [[superclass]], which runs instead of that method, when an object of the [[subclass]] is involved.
 
-====Translations====
+=====Translations=====
 {{trans-top|A mechanism, device or procedure used to counteract an automatic control}}
 * Japanese: {{t|ja|オーバーライド|tr=ōbāraido}}
 {{trans-mid}}
