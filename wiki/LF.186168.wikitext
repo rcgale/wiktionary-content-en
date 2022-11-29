@@ -18,17 +18,29 @@
 
 # {{initialism of|en|[[left]] [[foot]]}}
 # {{lb|en|computing}} {{initialism of|en|line feed}}
-# {{lb|en|electronics}} {{initialism of|en|low frequency}}
+# {{lb|en|electronics|telecommunications}} {{initialism of|en|low frequency}}
 #: {{cot|en|MF|HF|VHF|UHF|SHF}}
 # {{lb|en|baseball}} {{initialism of|en|left field|nodot=1}}, {{initialism of|en|left fielder}}
-# {{lb|en|architecture|Engineering|Construction}} {{init of|en|linear feet}}
+# {{lb|en|architecture|engineering|construction}} {{init of|en|linear feet}}
 # {{lb|en|linguistics}} {{initialism of|en|logical form}}
+# {{lb|en|optics|imaging|photography}} {{abbreviation of|en|light field}}
 
 ====Derived terms====
-* {{sense|electronics}} [[VLF]], [[ELF]]
+{{col3|en|title=electronics, telecommunications|
+|VLF
+|ELF
+}}
 
-====See also====
-* {{sense|electronics}} [[RF]], [[LW]], [[MW]], [[SW]]
+====Coordinate terms====
+{{col3|en|title=electronics, telecommunications|
+|RF
+|LW
+|MW
+|SW
+}}
+{{col3|en|title=light field|
+|[[radiance field]] ([[RF]])
+}}
 
 ===Adjective===
 {{head|en|adjective}}
