@@ -145,7 +145,7 @@ From {{inh|akl|poz-pro|*mamaq}}, compare {{cog-lite|ms|mamah}}.
 
 ====Pronunciation====
 * {{hyph-lite|bcl|ma|ma}}
-* {{bcl-IPA}}
+* {{IPA-lite|bcl|/ˈmama/}} <!-- {{bcl-IPA}} -->
 
 ====Noun====
 {{head-lite|bcl|nouns|head=máma|masculine|papa|langname=Bikol Central}}
@@ -158,7 +158,7 @@ From {{inh|akl|poz-pro|*mamaq}}, compare {{cog-lite|ms|mamah}}.
 
 ====Pronunciation====
 * {{hyph-lite|bcl|ma|ma}}
-* {{bcl-IPA|mamâ}}
+* {{IPA-lite|bcl|/maˈmaʔ/}} <!-- {{bcl-IPA|mamâ}} -->
 
 ====Noun====
 {{head-lite|bcl|nouns|head=mamâ|langname=Bikol Central}}
@@ -195,7 +195,7 @@ From {{der-lite|ca|la|mamma}}.
 # {{lb|ca|anatomy}} [[mamma]]
 
 ====Derived terms====
-* {{l|ca|càncer de mama|t=[[breast cancer]]}}
+* {{l-lite|ca|càncer de mama|t=[[breast cancer]]}}
 
 ====Related terms====
 {{rel2|ca
@@ -378,7 +378,7 @@ From {{der-lite|pov|pt|mama}}. Cognate with {{cog-lite|kea|mama}}.
 ==Hungarian==
 
 ===Pronunciation===
-* {{hu-IPA}}
+* {{IPA-lite|hu|[ˈmɒmɒ]}} <!-- {{hu-IPA}} -->
 * {{audio|hu|Hu-mama.ogg|Audio}}
 * {{hyph-lite|hu|ma|ma}}
 * {{rhymes-lite|hu|mɒ|s=2}}
@@ -388,7 +388,7 @@ From {{der-lite|pov|pt|mama}}. Cognate with {{cog-lite|kea|mama}}.
 
 # [[mom]], [[mum]]
 #: {{syn-lite|hu|anya|anyu|édesanya|anyuka|anyuci}}
-#: {{cot|hu|papa}}
+#: {{coord-lite|hu|papa}}
 # {{lb|hu|dialectal}} [[grandmom]]
 
 ====Declension====
@@ -1175,7 +1175,7 @@ From {{inh-lite|tpi|en|mama}}.
 {{head-lite|tpi|nouns|langname=Tok Pisin}}
 
 # [[mother]]
-#: {{ant|tpi|papa}}
+#: {{ant-lite|tpi|papa}}
 #* {{RQ:Buk Baibel|Jenesis|3|20|passage=Man i kolim meri bilong em Iv, long wanem, em i tumbuna '''mama''' bilong olgeta manmeri.}}
 
 ====Derived terms====
