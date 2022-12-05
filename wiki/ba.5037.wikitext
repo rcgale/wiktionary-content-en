@@ -495,35 +495,36 @@ From {{inh|bto|poz-pro|*bahaq}}, from {{inh|bto|map-pro|*baSaq}}.
 ==Irish==
 
 ===Etymology 1===
+{{nonlemma}}
 
 ====Pronunciation====
-* {{a|Munster|Aran}} {{IPA|ga|/bˠɑ/}}
-* {{a|Connemara|Mayo}} {{IPA|ga|/bˠa/}}
-* {{a|Ulster}} {{IPA|ga|/bˠɑh/}}<ref>{{R:ga:Ó Searcaigh|2}}</ref>
+* {{a|Munster|Ulster}} {{IPA|ga|/bˠɑh/|ref={{R:ga:SjPh|50}} !!! {{R:ga:Ó Searcaigh|2}}}}
+* {{a|Aran}} {{IPA-lite|ga|/bˠɑ/}}
+* {{a|Connemara|Mayo}} {{IPA-lite|ga|/bˠa/}}
 
 ====Noun====
-{{head|ga|noun plural form|g=f-p}}
+{{head-lite|ga|noun forms|g=f-p|langname=Irish}}
 
 # {{plural of|ga|bó}}
 #: {{uxi|ga|Tá na '''ba''' sa mhá.|The cows are in the field.}}
 
 ===Etymology 2===
-From {{inh|ga|sga|ba}}.
+From {{inh-lite|ga|sga|ba}}.
 
 ====Alternative forms====
-* {{sense|affirmative}} {{l|ga|b’}} {{qualifier|used before a vowel sound except for the pronouns ''é'', ''í'', ''iad'', ''ea''}}
-* {{sense|relative}} {{l|ga|ab}} {{qualifier|used before a vowel sound}}
+* {{sense|affirmative}} {{alt|ga|b’||used before a vowel sound except for the pronouns ''é'', ''í'', ''iad'', ''ea''}}
+* {{sense|relative}} {{alt|ga|ab||used before a vowel sound}}
 * {{alter|ga|badh||archaic}}
 * {{alter|ga|budh||superseded}}
-* {{alter|ga|dob|dob'}} {{q|dialectal equivalent of {{m|ga|b’}}}}
+* {{alter|ga|dob|dob'||dialectal equivalent of {{m-lite|ga|b’}}}}
 
 ====Pronunciation====
-* {{IPA|ga|/bˠə/}}
+* {{IPA-lite|ga|/bˠə/}}
 
 ====Particle====
-{{head|ga|particle}} {{qualifier|triggers {{ga-mut-link|l}}}}
+{{head-lite|ga|particles|langname=Irish|triggers {{ga-mut-link|l}}}}
 
-# {{inflection of|ga|is||past//cond|aff}}
+# {{infl of|ga|is||past//cond|aff}}
 #: {{uxi|ga|'''Ba''' é Dónall an múinteoir.|Dónall was the teacher.}}
 #: {{uxi|ga|'''Ba''' mhaith liom cupán tae.|I would like a cup of tea.}}
 # {{inflection of|ga|is||past//cond|dir|rel}} {{gloss|used to introduce the comparative/superlative form of adjectives}}
