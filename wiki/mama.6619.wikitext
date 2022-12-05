@@ -748,7 +748,7 @@ From {{der-lite|mfe|fr|maman}}.
 # [[mother]]
 
 ===Etymology 2===
-From {{der|mfe|hi|मामा}} and {{der|mfe|mr|मामा}}.
+From {{der-lite|mfe|hi|मामा|sc=Deva|tr=māmā}} and {{der-lite|mfe|mr|मामा|sc=Deva|tr=māmā}}.
 
 ====Noun====
 {{head-lite|mfe|nouns|langname=Mauritian Creole}}
@@ -974,7 +974,7 @@ From {{inh|rw|bnt-pro|*mààmá}}.
 ==Sardinian==
 
 ===Etymology===
-From {{inh-lite|sc|la|mamma}}, from {{der|sc|grc|μάμμη}}.
+From {{inh-lite|sc|la|mamma}}, from {{der-lite|sc|grc|μάμμη|sc=polytonic|tr=mámmē}}.
 
 ===Pronunciation===
 * {{IPA-lite|sc|/ˈmama/}}
@@ -1108,11 +1108,11 @@ From {{inh-lite|es|la|mamma}}.
 From {{inh|tl|poz-pro|*mama}}, from {{inh|tl|map-pro|*mamah||father’s brother}}. Also possibly borrowed from {{bor|tl|sa|माम}} or from {{bor|tl|ta|மாமா}}. Compare {{cog-lite|ms|mamak}}.
 
 ====Pronunciation====
-* {{tl-IPA|mamà}}
+* {{IPA-lite|tl|/ˈmamaʔ/|[ˈmɐ.mɐʔ]}} <!-- {{tl-IPA|mamà}} -->
 * {{hyph-lite|tl|ma|ma}}
 
 ====Noun====
-{{tl-noun|mamà}}
+{{head-lite|tl|nouns|head=mamà|cat2=terms without Baybayin script|langname=Tagalog}} <!-- {{tl-noun|mamà}} -->
 
 # {{n-g-lite|a term used in referring to, or in addressing, a male unknown to the speaker}}
 #: {{syn-lite|tl|mang|manong}}
@@ -1130,9 +1130,9 @@ Each pronunciation has a different source:
 
 ====Pronunciation====
 * {{hyph-lite|tl|ma|ma}}
-* {{tl-IPA|mamá}} {{q|Spanish Pronunciation}}
+* {{IPA-lite|tl|/maˈma/|[mɐˈma]}} <!-- {{tl-IPA|mamá}} --> {{q|Spanish Pronunciation}}
 * {{IPA-lite|tl|/mama/|[ma.ma]}} {{q|Hokkien Pronunciation}}
-* {{tl-IPA|mama}} {{q|English Pronunciation}}
+* {{IPA-lite|tl|/ˈmama/|[ˈmɐ.mɐ]}} <!-- {{tl-IPA|mama}} --> {{q|English Pronunciation}}
 
 ====Noun====
 {{tl-noun|mama|mamá|m=papa}}
@@ -1145,10 +1145,10 @@ From {{inh|tl|phi-pro|*mamaq}}, from {{inh|tl|poz-pro|*mamaq||chew without inten
 
 ====Pronunciation====
 * {{hyph-lite|tl|ma|ma}}
-* {{tl-IPA|mamâ}}
+* {{IPA-lite|tl|/maˈmaʔ/|[mɐˈmaʔ]}} <!-- {{tl-IPA|mamâ}} -->
 
 ====Noun====
-{{tl-noun|mamâ}}
+{{head-lite|tl|nouns|head=mamâ|cat2=terms without Baybayin script|langname=Tagalog}} <!-- {{tl-noun|mamâ}} -->
 
 # [[betelnut]] [[chew]]ing
 
