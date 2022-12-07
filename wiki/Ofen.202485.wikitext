@@ -1,13 +1,6 @@
 {{also|ofèn|Öfen|of'en}}
 ==German==
 
-===Etymology===
-{{dercat|de|gem-pro|ine-pro|inh=1}}
-From {{inh|de|gmh|oven}}, from {{inh|de|goh|ofan}}, from {{inh|de|gmw-pro|*ofn}}.
-
-{{rel-top|Cognates}}
-See also {{cog|nl|oven}}, {{cog|nds|Aven}}, {{cog|nds-de|[[Aven]], [[Awen]], [[Owen]]}}, {{cog|fy|ûne}}, {{cog|en|oven}}, {{cog|da|ovn}}, {{cog|sv|ugn}}, {{cog|is|ofn}}, {{cog|got|auhns|sc=Latn}}; also {{cog|sa|उखा}}, {{cog|xcl|ակութ}}, {{cog|sq|anë}}, {{cog|la|aulla}}, {{m|la|olla}}, {{cog|grc|ἰπνός}}. {{rel-bottom}}
-
 ===Pronunciation===
 * {{IPA|de|/ˈoːfən/|[ˈoːfən]|[ˈoːfn̩]}}
 * {{audio|de|De-Ofen.ogg|audio}}
@@ -16,7 +9,14 @@ See also {{cog|nl|oven}}, {{cog|nds|Aven}}, {{cog|nds-de|[[Aven]], [[Awen]], [[O
 * {{hyphenation|de|Ofen}}
 * {{hyphenation|de|O|fen}} {{q|1996–2006}}
 
-===Noun===
+===Etymology 1===
+{{dercat|de|gem-pro|ine-pro|inh=1}}
+From {{inh|de|gmh|oven}}, from {{inh|de|goh|ofan}}, from {{inh|de|gmw-pro|*ofn}}.
+
+{{rel-top|Cognates}}
+See also {{cog|nl|oven}}, {{cog|nds|Aven}}, {{cog|nds-de|[[Aven]], [[Awen]], [[Owen]]}}, {{cog|fy|ûne}}, {{cog|en|oven}}, {{cog|da|ovn}}, {{cog|sv|ugn}}, {{cog|is|ofn}}, {{cog|got|auhns|sc=Latn}}; also {{cog|sa|उखा}}, {{cog|xcl|ակութ}}, {{cog|sq|anë}}, {{cog|la|aulla}}, {{m|la|olla}}, {{cog|grc|ἰπνός}}. {{rel-bottom}}
+
+====Noun====
 {{de-noun|m,,^|dim=Öfchen,Öflein}}
 
 # [[oven]] ({{clipping of|de|Backofen|nocap=1}})
@@ -26,10 +26,10 @@ See also {{cog|nl|oven}}, {{cog|nds|Aven}}, {{cog|nds-de|[[Aven]], [[Awen]], [[O
 #: {{syn|de|Hochofen}}, {{syn|de|Feuerofen}}
 # [[kiln]] ({{clipping of|de|Brennofen|nocap=1}})
 
-====Declension====
+=====Declension=====
 {{de-ndecl|m,,^}}
 
-====Hyponyms====
+=====Hyponyms=====
 {{col3|de|
 |{{l|de|Hochofen}}
 |{{l|de|Brennofen}}
@@ -46,21 +46,24 @@ See also {{cog|nl|oven}}, {{cog|nds|Aven}}, {{cog|nds-de|[[Aven]], [[Awen]], [[O
 |{{l|de|Kanonenofen||potbelly stove}}
 }}
 
-====Derived terms====
+=====Derived terms=====
 {{der3|de|Backofen
 |heißer Ofen
 |{{l|de|Ofenrohr|g=n}}
 |{{l|de|Ofenkartoffel}}
 }}
 
-====See also====
+=====See also=====
 * {{l|de|Herd}}
 
-===Proper noun===
+===Etymology 2===
+From {{m|de|Ofen||oven}}, a literal translation of the {{der|de|hu|-}} name of neighbouring [[Pest]] by conflation, from {{der|de|cu|пещь||furnace, oven}}.
+
+====Proper noun====
 {{de-proper noun|n}}
 
-# [[Buda]], the western part of the Hungarian capital [[Budapest]].
-#: {{syn|de|Buda<q:more common, at least outside Austria>}}
+# {{lb|de|chiefly|Austria}} [[Buda]], the western part of the Hungarian capital [[Budapest]].
+#: {{syn|de|Buda}}
 
 ===Further reading===
 * {{R:Duden}}
