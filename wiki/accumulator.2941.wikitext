@@ -25,10 +25,10 @@ From {{bor|en|la|accumulātor}}, agent noun of {{m|la|accumulō||pile up}}, {{su
 # {{lb|en|engineering|hydraulics}} A container which stores hydraulic power for release, in the form of a pressurized fluid (often suspended within a larger tank of fluid under pressure).
 #: {{syn|en|shock absorber}}
 # {{lb|en|programming}} A [[register]] or [[variable]] used for holding the intermediate results of a [[computation]] or [[data]] [[transfer]].
-#* '''1986''', Jules H. Gilder, ''Apple IIc and IIe Assembly Language'', Springer Science & Business Media ({{ISBN|9781468464245}}), page {{gbooks|e8olBAAAQBAJ|139}}:
-#*: The contents of the memory location and '''accumulator''' are NOT altered, but the Negative, Zero and Carry flags are conditioned according to the result of the subtraction.
-#* '''2011''', Oliver Sturm, ''Functional Programming in C#'', John Wiley & Sons ({{ISBN|9780470971109}}), page {{gbooks|gE9BukqrsrMC|122}}:
-#*: The function  signature has changed to include the additional parameter '''accumulator'''. This  parameter, in a way, takes on the job of the return value.
+#* {{quote-book|en|year=1986|author=Jules H. Gilder|title=Apple IIc and IIe Assembly Language|publisher=Springer Science & Business Media|isbn=9781468464245|page={{gbooks|e8olBAAAQBAJ|139}}
+|passage=The contents of the memory location and '''accumulator''' are NOT altered, but the Negative, Zero and Carry flags are conditioned according to the result of the subtraction.}}
+#* {{quote-book|en|year=2011|author=Oliver Sturm|title=Functional Programming in C#|publisher=John Wiley & Sons|isbn=9780470971109|page={{gbooks|gE9BukqrsrMC|122}}
+|passage=The function  signature has changed to include the additional parameter '''accumulator'''. This  parameter, in a way, takes on the job of the return value.}}
 # {{lb|en|finance}} A [[derivative]] contract under which the seller commits to sell shares of an underlying security at a certain [[strike price]], which the buyer is obligated to buy.
 #: {{syn|en|share forward accumulator}}
 #* {{quote-book|en|year=2014|author=Jerome Yen|author2=Kin Keung Lai|title=Emerging Financial Derivatives|publisher=Routledge|isbn=9781317638889
