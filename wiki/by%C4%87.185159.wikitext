@@ -1,8 +1,47 @@
 {{also|byc}}
+==Old Polish==
+
+===Etymology===
+{{inh+|zlw-opl|sla-pro|*byti}}, from {{inh|zlw-opl|ine-bsl-pro|*bū́ˀtei}}, from {{inh|zlw-opl|ine-pro|*bʰúHt}}, the present forms are from {{m|ine-pro|*h₁ésti}}.
+
+===Verb===
+{{head|zlw-opl|verb|g=impf|indeterminate|bywać}}
+# {{lb|zlw-opl|intransitive}} to [[be]], [[exist]]
+# {{lb|zlw-opl|intransitive}} to [[be]] {{qualifier|indicates sameness or membership in a class}} {{+obj|zlw-opl|nom|or|ins}}
+#: {{coi|zlw-opl|'''jestem''' kowalem|'''I am''' a blacksmith}}
+# {{lb|zlw-opl|intransitive}} to [[be]] {{qualifier|auxilary verb used for [[predication]]}} {{+obj|zlw-opl|adjective}}
+#: {{ux|zlw-opl|'''Jestem''' zmęczona.|t=I '''am''' tired.|inline=1}}
+# {{lb|zlw-opl|intransitive}} {{non-gloss definition|In future tense, forms future tense of imperfective verbs.}} {{+obj|pl|infinitive|or|verb in past tense}}
+#: {{ux|zlw-opl|'''Będę''' biegać.|t='''I'll be''' running.|inline=1}}
+#: {{ux|zlw-opl|'''Będę''' biegał.|t='''I'll be''' running.|inline=1}}
+
+====Conjugation====
+{{rfinfl|zlw-opl|noun}}
+
+====Derived terms====
+{{col3|zlw-opl|title=nouns|[[nabytek]] {{g|m}}|[[pobyt]] {{g|m}}|[[przybytek]] {{g|m}}|[[bydło]] {{g|n}}|[[byt]] {{g|m}}}}
+{{col3|zlw-opl|title=verbs|
+[[dobywać]] {{g|impf}}, [[dobyć]] {{g|pf}}|
+[[wydobywać]] {{g|impf}}|
+[[nabywać]] {{g|impf}}, [[nabyć]] {{g|pf}}|
+[[obyć]] {{g|pf}}|
+[[odbywać]] {{g|impf}}, [[odbyć]] {{g|pf}}|
+[[przebywać]] {{g|impf}}, [[przebyć]] {{g|pf}}|
+[[przybywać]] {{g|impf}}|
+[[ubywać]] {{g|impf}}, [[ubyć]] {{g|pf}}|
+[[zbywać]] {{g|impf}}, [[zbyć]] {{g|pf}}|
+[[pozbywać]] {{g|impf}}, [[pozbyć]] {{g|pf}}|
+[[bywać]] {{g|impf}}}}
+{{col3|zlw-opl|title=adjectives|zbyteczny}}
+
+===References===
+* {{R:zlw-opl:SPJSP|być}}
+* {{R:zlw-opl:SSP1953|być|182|3}}
+
 ==Polish==
 
 ===Etymology===
-{{inh+|pl|zlw-opl|być|być (być/bycz/bicz/biczi/byczi/?byczy)}}<ref>{{R:zlw-opl:SSP1953|1. Być|182|3}}</ref><ref>{{R:zlw-opl:SPJSP|być|811}}</ref>, from {{inh|pl|sla-pro|*byti}}, from {{inh|pl|ine-bsl-pro|*bū́ˀtei}}. The aorist/infinitive stem derives from {{der|pl|ine-pro|*bʰuH-}}, the present stem from {{m|ine-pro|*h₁es-}}. Cognates include {{cog|lv|būt}}, {{cog|lt|būti}}, {{cog|ga|bí}}, {{cog|ae|𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌}} and {{cog|sa|भवति}}.
+{{inh+|pl|zlw-opl|być}}, from {{inh|pl|sla-pro|*byti}}, from {{inh|pl|ine-bsl-pro|*bū́ˀtei}}. The aorist/infinitive stem derives from {{der|pl|ine-pro|*bʰuH-}}, the present stem from {{m|ine-pro|*h₁es-}}. Cognates include {{cog|lv|būt}}, {{cog|lt|būti}}, {{cog|ga|bí}}, {{cog|ae|𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌}} and {{cog|sa|भवति}}.
 
 ===Pronunciation===
 {{pl-p|a=pl-być.ogg}}
@@ -54,9 +93,6 @@ The object is either in [[nominative]] or [[instrumental case]]; the former is o
 ====Related terms====
 {{col3|pl|title=noun|bydło|byt}}
 {{col3|pl|title=verbs|bawić|bywać}}
-
-===References===
-<references/>
 
 ===Further reading===
 * {{R:pl:WSJP}}
