@@ -1,47 +1,72 @@
 ==English==
+{{was wotd|2023|January|11}}
 
 ===Etymology===
-From {{der|en|LL.|animalculum}}.
+{{multiple images
+|direction = vertical
+|image1 = Human Spermatozoa, Scanning Electron Micrograph.jpg
+|caption1 = A [[scanning electron micrograph]] of [[human#Adjective|human]] [[spermatozoon|spermatozoa]], formerly known as animalcules ''(sense 1)''.
+|image2 = Animalcules observed by anton van leeuwenhoek c1795 1228575.jpg
+|caption2 = An 18th-century [[illustration]] of animalcules ''(sense 2)'' [[see#Verb|seen]] through [[microscope]]s.
+}}
+
+{{root|en|ine-pro|*h₂enh₁-|*-lós}}
+{{lbor|en|LL.|animalculum|t=lowly or small animal}} + [[w:English language|English]] {{m|en|-cule|pos={{glossary|diminutive}} {{glossary|suffix}}}}. {{m|LL.||Animalculum}} is derived from {{der|en|la|animal|t=animal; living creature}} + {{m|la|-culum|pos=suffix}};<ref>{{R:OED Online|pos=n|id=7753|date=December 2022|nodot=1}}; {{R:Lexico|pos=n}}</ref> and {{m|la||animal}} from {{m|la|animāle}}, the {{glossary|nominative}} {{glossary|neuter}} {{glossary|singular}} of {{m|la|animālis|t=animate, living; relating to living creatures}}, from {{m|la|anima|t=breath; life; soul, spirit}} (ultimately from {{der|en|ine-pro|*h₂enh₁-|t=to breathe}}) + {{m|la|-ālis|pos=suffix forming {{glossary|adjective}}s of relationship}}. The English word is analysable as {{suffix|en|animal|cule}}.
 
 ===Pronunciation===
-* {{IPA|en|/ænɪˈmælkjuːl/}}
-** {{audio|en|LL-Q1860 (eng)-Vealhurl-animalcule.wav|Audio (UK)}}
+* {{a|RP}} {{IPA|en|/ænɪˈmælkjuːl/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-animalcule.wav|Audio (Southern England)}}
+* {{a|GA}} {{IPA|en|/ˌænəˈmælˌkjul/}}
+* {{hyphenation|en|ani|mal|cule}}
 
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|obsolete}} A small [[animal]]. {{defdate|16th|20th c.}}
-#* {{quote-book|1=en|year=1929|author=Sir Arthur Conan Doyle|authorlink=Arthur Conan Doyle|title=When the World Screamed|url=http://gutenberg.net.au/ebooks01/0100031h.html|passage='Is it not evident that if a parasitic '''animalcule''' desired to call its attention it would sink a hole in its shell and so stimulate its sensory apparatus?'}}
-# A [[microscopic]] aquatic animal or [[protozoan]]. {{defdate|from 17th c.}}
-#* {{quote-book|en|year=2011|author=John Jeremiah Sullivan|title=Pulphead|passage=If we are part of nature, then we are synonymous with it at the metaphysical level, every bit as much as the first all-but-inorganic '''animalcules''' that ever formed a chain of themselves in the blow hole of a primordial sea vent.}}
-# {{lb|en|now|historical}} A [[spermatozoon]]. {{defdate|from 17th c.}}
+# {{lb|en|physiology|historical}} A [[sperm cell]] or [[spermatozoon]]; also, the [[embryo]] that was formerly thought to be [[contain]]ed inside a spermatozoon in a [[fully]] [[developed#Adjective|developed]] [[state#Noun|state]]. {{defdate|from 17th c.}}
 #* '''2001''', David M Friedman, ''A Mind of its Own'', Robert Hale 2009, p. 60:
 #*: Inside the '''animalcules''' in the thickest part of the semen he saw ‘all manner of great and small vessels […].’
+# {{lb|en|zoology|archaic}} A [[microscopic]] [[aquatic#Adjective|aquatic]] [[animal#Noun|animal]], including [[protozoan|protozoa]] and [[rotifer]]s. {{defdate|from 17th c.}}
+#* {{quote-book|en|year=2011|author=John Jeremiah Sullivan|title=Pulphead|passage=If we are part of nature, then we are synonymous with it at the metaphysical level, every bit as much as the first all-but-inorganic '''animalcules''' that ever formed a chain of themselves in the blow hole of a primordial sea vent.}}
+# {{lb|en|obsolete}} A [[small#Adjective|small]] animal. {{defdate|16th|20th c.}}
+#* {{quote-book|1=en|year=1929|author=Sir Arthur Conan Doyle|authorlink=Arthur Conan Doyle|title=When the World Screamed|url=http://gutenberg.net.au/ebooks01/0100031h.html|passage='Is it not evident that if a parasitic '''animalcule''' desired to call its attention it would sink a hole in its shell and so stimulate its sensory apparatus?'}}
 
 ====Synonyms====
 * {{l|en|animalculum}}
 
 ====Hyponyms====
-* {{l|en|eye animalcule}}
-* {{l|en|globe animalcule}}
-* {{l|en|rotifer}} or [[wheel animalcule]]
-* {{l|en|paramecium}} or [[slipper animalcule]]
-* {{l|en|stentor}} or [[trumpet animalcule]]
-* {{l|en|peritrich}} or [[bell animalcule]]
-* {{l|en|heliozoa}} or [[sun animalcule]]
-* {{l|en|amoeba}} or [[proteus animalcule]]
+{{col3|en
+|[[bell animalcule]] ([[peritrich]])
+|eye animalcule
+|globe animalcule
+|[[proteus animalcule]] ([[amoeba]])
+|[[slipper animalcule]] ([[paramecium]])
+|[[sun animalcule]] ([[heliozoa]])
+|[[trumpet animalcule]] ([[stentor]])
+|[[wheel animalcule]] ([[rotifer]])
+}}
 
 ====Translations====
-{{trans-top|microscopic animal, protozoan}}
+{{trans-see|sperm cell or spermatozoon|spermatozoon}}
+
+{{trans-top|embryo that was formerly thought to be contained inside a spermatozoon in a fully developed state}}
+* Finnish: {{t-needed|fi}}
+{{trans-bottom}}
+
+{{trans-top|microscopic aquatic animal, including protozoa and rotifers}}
 * Catalan: {{t|ca|animàlcul|m}}
 * Finnish: {{t+|fi|alkueläin}}
 * French: {{t+|fr|animalcule|m}}
 * Ido: {{t+|io|animaleto}}
-{{trans-mid}}
 * Portuguese: {{t|pt|animálculo|m}}
 * Spanish: {{t+|es|animálculo|m}}
 * Volapük: {{t|vo|nimil}}
 {{trans-bottom}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{pedia}}
 
 [[Category:en:Lifeforms]]
 
