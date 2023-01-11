@@ -1881,10 +1881,61 @@ From {{inh|fro|la|hīc}}.
 
 ==Old Irish==
 
-===Preposition===
-{{head-lite|sga|prepositions|langname=Old Irish}}
+===Etymology===
+From {{inh|sga|cel-pro|*en}} (compare {{cog-lite|cy|yn}}), from {{inh|sga|ine-pro|*h₁én}} (compare {{cog-lite|en|in}}, {{cog-lite|la|in}}, {{cog-lite|grc|ἐν}}).
 
-# {{alt sp|sga|hi}}
+The third-person singular masculine and neuter inflected dative form {{m-lite|sga|and}} is ''not'' derived from a contraction with a pronoun. Instead, it was originally an adverb with an independent etymology. See its page for its etymology.
+
+====Preposition====
+{{head-lite|langname=Old Irish|Old Irish|prepositions|triggers eclipsis}}
+
+# [[in]] {{+obj|sga|dat}}
+# [[into]] {{+obj|sga|acc}}
+# [[in regard to]], [[as to]] {{+obj|sga|dat}}
+{{seeCites|sga}}
+
+=====Inflection=====
+{{sga-prep-infl
+|1sg         = [[indium]]([[indiumm|m]])
+|1sg-em      = indiumsa
+|2sg         = indiut
+|2sg-em      = [[indiutsu|indiuts]]([[indiutsiu|i]])[[indiutsu|u]]
+|3sgm-dat    = and
+|3sgm-dat-em = andsom
+|3sgm-acc    = ind
+|3sgm-acc-em = indsom
+|3sgf-dat    = indi
+|3sgf-acc    = inte
+|3sgf-acc-em = intesi
+|1pl         = indiunn
+|1pl-em      = indiunni
+|2pl         = indib
+|2pl-em      = indibsi
+|3pl-dat     = indib
+|3pl-dat-em  = [[indibsom]], [[indibsem]]
+|3pl-acc     = intiu
+}}
+
+Combinations with the definite article:
+* {{l-lite|sga|isin}} {{q-lite|accusative masculine/feminine singular}}
+* {{l-lite|sga|issa}} {{q-lite|accusative neuter singular}}
+* {{l-lite|sga|isind}} {{q-lite|dative singular}}
+* {{l-lite|sga|isna}} {{q-lite|accusative plural}}
+* {{l-lite|sga|isnaib}} {{q-lite|dative plural}}
+
+Combinations with possessive determiners:
+* {{l-lite|sga|im|t=in my}} {{q-lite|1st person singular}}
+* {{l-lite|sga|inna}}, {{l-lite|sga|na|t=in his/her/its/their}} {{q-lite|3rd person}}
+
+The form {{m-lite|sga||i}} is unchanged in combination with a relative pronoun.
+
+=====Descendants=====
+* {{desc|ga|i}}
+* {{desc|gd|an}}
+* {{desc|gv|ayns}}
+
+====Further reading====
+* {{R:sga:Thurneysen|s=842|pp=518–22}}
 
 ----
 
