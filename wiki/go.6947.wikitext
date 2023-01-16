@@ -462,12 +462,12 @@ Cognate with {{cog-lite|sco|gae|t=to go}}, {{cog-lite|fy|gean|t=to go}}, {{cog-l
 * Cherokee: {{tt|chr|ᎡᎦ}}
 * Chickasaw: {{tt|cic|aya}}, {{tt|cic|ayya}}, {{tt|cic|iyya}}
 * Chinese:
-*: Cantonese: {{tt|yue|去|tr=heoi<sup>3</sup>}}
+*: Cantonese: {{t-simple|yue|去|sc=Hani|tr=heoi<sup>3</sup>|langname=Chinese}}
 *: Dungan: {{tt|dng|чў}}
-*: Hakka: {{tt|hak|去|tr=hi}}
-*: Mandarin: {{tt+|cmn|去|tr=qù}}
-*: Min Dong: {{tt|cdo|行|tr=giàng}}
-*: Min Nan: {{tt+|nan|去|tr=khì}}, {{tt+|nan|來去|tr=lâi-khì}}
+*: Hakka: {{t-simple|hak|去|sc=Hani|tr=hi|langname=Chinese}}
+*: Mandarin: {{t-simple|cmn|去|sc=Hani|tr=qù|langname=Chinese|interwiki=1}}
+*: Min Dong: {{t-simple|cdo|行|sc=Hani|tr=giàng|langname=Chinese}}
+*: Min Nan: {{t-simple|nan|去|sc=Hani|tr=khì}}, {{tt+|nan|來去|tr=lâi-khì|langname=Chinese|interwiki=1}}
 * Classical Nahuatl: {{tt|nci|yauh}}
 * Cornish: {{tt|kw|mos}}
 * Crimean Tatar: {{tt|crh|ket}}
@@ -653,7 +653,7 @@ Cognate with {{cog-lite|sco|gae|t=to go}}, {{cog-lite|fy|gean|t=to go}}, {{cog-l
 {{trans-top|of a machine, to work}}
 * Catalan: {{tt+|ca|funcionar}}
 * Chinese:
-*: Mandarin: {{tt+|cmn|運作}}, {{tt+|cmn|运作|tr=yùnzuò}}, {{tt+|cmn|工作|tr=gōngzuò}}
+*: Mandarin: {{t-simple|cmn|運作|sc=Hant|langname=Chinese|interwiki=1}}, {{t-simple|cmn|运作|sc=Hans|tr=yùnzuò|interwiki=1}}, {{t-simple|cmn|工作|sc=Hani|tr=gōngzuò|interwiki=1}}, {{t-simple|cmn|運轉|sc=Hant|interwiki=1}}, {{t-simple|cmn|运转|sc=Hans|tr=yùnzhuǎn|interwiki=1}}, {{t-simple|cmn|運行|sc=Hant|interwiki=1}} {{t-simple|cmn|运行|sc=Hans|tr=yùnxíng|interwiki=1}}
 * Czech: {{tt+|cs|fungovat}}
 * Finnish: {{tt+|fi|toimia}}
 * French: {{tt+|fr|fonctionner}}, {{tt+|fr|marcher}}
@@ -731,7 +731,7 @@ Cognate with {{cog-lite|sco|gae|t=to go}}, {{cog-lite|fy|gean|t=to go}}, {{cog-l
 * Arabic: {{tt+|ar|ذَهَبَ}}, {{tt|ar|زَالَ}}, {{tt+|ar|اِخْتَفَى}}
 * Catalan: {{tt+|ca|desaparèixer}}, {{tt|ca|[[anar-se]][[’n]]}}
 * Chinese:
-*: Mandarin: {{tt+|cmn|走|tr=zǒu}}, {{tt+|cmn|消失|tr=xiāoshī}}
+*: Mandarin: {{t-simple|cmn|走|sc=Hani|tr=zǒu|langname=Chinese|interwiki=1}}, {{t-simple|cmn|消失|sc=Hani|tr=xiāoshī|langname=Chinese|interwiki=1}}
 * Czech: {{tt+|cs|odejít}}
 * Dutch: {{tt+|nl|verdwijnen}}, {{tt+|nl|weggaan}}
 * Esperanto: {{tt+|eo|foriri}}
@@ -903,7 +903,6 @@ Cognate with {{cog-lite|sco|gae|t=to go}}, {{cog-lite|fy|gean|t=to go}}, {{cog-l
 * Guaraní: {{t+check|gn|ha}}
 * Indonesian: {{t+check|id|pergi}}
 * Interlingua: {{t-check|ia|ir}}, {{t+check|ia|vader}}
-* Mandarin: {{t+check|cmn|走|tr=zǒu}}, {{t+check|cmn|达到|tr=dádào}} (1), {{t+check|cmn|运转|tr=yùnzhuǎn}} (5), {{t+check|cmn|运行|tr=yùnxíng}}
 * Mongolian: {{t+check|mn|явах}}
 * Tupinambá: {{t-check|tpn|só}}
 * West Frisian: {{t+check|fy|gean}}
@@ -982,6 +981,8 @@ Cognate with {{cog-lite|sco|gae|t=to go}}, {{cog-lite|fy|gean|t=to go}}, {{cog-l
 =====Translations=====
 {{trans-top|turn at something}}{{multitrans|data=
 * Catalan: {{tt+|ca|volta|f}}, {{tt+|ca|torn|m}}
+* Chinese:
+*: Mandarin: {{t-simple|cmn|輪到|sc=Hant|langname=Chinese|interwiki=1}}, {{t-simple|cmn|轮到|sc=Hans|tr=lún dào|langname=Chinese|interwiki=1}}
 * Czech: {{tt+|cs|tah|m}}
 * Esperanto: {{tt+|eo|vico}}
 * Finnish: {{tt+|fi|vuoro}}, {{tt+|fi|siirto}}
@@ -1001,7 +1002,7 @@ Cognate with {{cog-lite|sco|gae|t=to go}}, {{cog-lite|fy|gean|t=to go}}, {{cog-l
 {{trans-top|attempt}}
 * Catalan: {{tt|ca|temptativa|f}}, {{tt+|ca|intent|m}}
 * Chinese:
-*: Mandarin: {{tt+|cmn|嘗試}}, {{tt+|cmn|尝试||tr=chángshì}}
+*: Mandarin: {{t-simple|cmn|嘗試|sc=Hant|langname=Chinese|interwiki=1}}, {{t-simple|cmn|尝试|sc=Hans|tr=chángshì|langname=Chinese|interwiki=1}}
 * Esperanto: {{tt|eo|provo}}
 * Finnish: {{tt+|fi|yritys}}
 * French: {{tt+|fr|essai|m}}
@@ -1030,8 +1031,6 @@ Cognate with {{cog-lite|sco|gae|t=to go}}, {{cog-lite|fy|gean|t=to go}}, {{cog-l
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Chinese:
-*: Mandarin: {{t+check|cmn|轮到|tr=lún dào}}, {{t+check|cmn|尝试|tr=chángshì}}, {{t+check|cmn|排泄|tr=páixiè}}
 * Interlingua: {{t-check|ia|vice}}, {{t-check|ia|torno}}, {{t-check|ia|tentativa}}
 * Romanian: {{t+check|ro|rând|n}}, {{t+check|ro|încercare|f}}, {{t+check|ro|tentativă|f}}
 }}
@@ -1073,8 +1072,8 @@ From the {{der-lite|en|ja|碁|tr=go}}, one character of the game's more usual Ja
 * Burmese: {{tt|my|ဂို}}
 * Catalan: {{tt+|ca|go|m}}
 * Chinese:
-*: Cantonese: {{tt|yue|圍棋}}, {{tt|yue|围棋}}
-*: Mandarin: {{tt+|cmn|圍棋}}, {{tt+|cmn|围棋}}
+*: Cantonese: {{t-simple|yue|圍棋|sc=Hant|langname=Chinese|interwiki=1}}, {{t-simple|yue|围棋|sc=Hans|tr=wai<sup>4</sup> kei<sup>4-2</sup>|langname=Chinese|interwiki=1}}
+*: Mandarin: {{t-simple|cmn|圍棋|sc=Hant|langname=Chinese|interwiki=1}}, {{t-simple|cmn|围棋|sc=Hans|tr=wéiqí|langname=Chinese|interwiki=1}}
 * Czech: {{tt+|cs|go|n}}
 * Danish: {{tt+|da|go}}
 * Dutch: {{tt+|nl|go|n}}
