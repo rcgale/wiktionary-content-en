@@ -30,7 +30,8 @@ According to the [[w:Oxford English Dictionary|Oxford English Dictionary]], the 
 #: {{ux|en|We need to set another '''cover''' for the Smith party.}}
 # {{lb|en|music}} A new performance or [[rerecording]] of a previously recorded song; a [[cover version]]; a [[cover song]].
 # {{lb|en|cricket}} A [[fielding]] [[position]] on the [[off]] side, between [[point]] and [[mid off]], about 30° [[forward]] of [[square]]; a [[fielder]] in this position.
-# {{lb|en|topology}} A set (more often known as a ''[[family]]'') of sets, whose union contains the given set.
+# {{lb|en|combinatorics|topology}} A [[collection]] (or ''[[family]]'') of subsets of a given set, whose union contains every element of said original set.
+#: {{hyponyms|en|exact cover|partition}}
 #: {{ux|en|The open intervals are a '''cover''' for the real numbers.}}
 # {{lb|en|philately}} An [[envelope]] complete with [[stamp]]s and [[postmark]]s etc.
 # {{lb|en|military}} A [[solid]] [[object]], including [[terrain]], that provides [[protection]] from [[enemy]] fire.
