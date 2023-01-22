@@ -2681,20 +2681,141 @@ An unstressed variety of {{inh-lite|zea|dum|die}}.
 From {{inh|zu|bnt-pro|*-dàì}}. The expected reflex would be '''-le''', however it was changed due to analogy with its class 8, 9, and 10 forms ('''zinde''', '''inde''', '''zinde''').
 
 ===Adjective===
-{{zu-adj|de}}
+{{head-lite|zu|adjectives|head=-de|langname=Zulu}} <!-- {{zu-adj|de}} -->
 
 # [[long]]
 # [[tall]], [[high]]
 
 ====Inflection====
-{{zu-infl-adj|L}}
+<!-- {{zu-infl-adj|L}} -->
+{| class="wikitable inflection-table vsSwitcher" data-toggle-category="inflection" style="border-style: double; border-width: 3px; margin: 0;"
+|-
+! class="vsToggleElement" style="background: #CCC; min-width: 20em; text-align: left;" colspan="5" | Adjective concord, tone L
+|- class="vsHide"
+| style="min-width: 8em;" |
+! style="min-width: 12em;", colspan="2" | Modifier
+! style="min-width: 12em;", colspan="2" | Copulative
+|- class="vsHide"
+! !! positive
+! negative
+! positive
+! negative
+|- class="vsHide"
+! 1st singular
+| <span class="Latn" lang="zu">[[engimude#Zulu|engimude]]</span>
+| <span class="Latn" lang="zu">[[engingemude#Zulu|engingemude]]</span>
+| <span class="Latn" lang="zu">[[ngimude#Zulu|ngimude]]</span>
+| <span class="Latn" lang="zu">[[angimude#Zulu|angimude]]</span>
+|- class="vsHide"
+! 2nd singular
+| <span class="Latn" lang="zu">[[omude#Zulu|omude]]</span>
+| <span class="Latn" lang="zu">[[ongemude#Zulu|ongemude]]</span>
+| <span class="Latn" lang="zu">[[umude#Zulu|umude]]</span>
+| <span class="Latn" lang="zu">[[awumude#Zulu|awumude]]</span>
+|- class="vsHide"
+! 1st plural
+| <span class="Latn" lang="zu">[[esibade#Zulu|esibade]]</span>
+| <span class="Latn" lang="zu">[[esingebade#Zulu|esingebade]]</span>
+| <span class="Latn" lang="zu">[[sibade#Zulu|sibade]]</span>
+| <span class="Latn" lang="zu">[[asibade#Zulu|asibade]]</span>
+|- class="vsHide"
+! 2nd plural
+| <span class="Latn" lang="zu">[[enibade#Zulu|enibade]]</span>
+| <span class="Latn" lang="zu">[[eningebade#Zulu|eningebade]]</span>
+| <span class="Latn" lang="zu">[[nibade#Zulu|nibade]]</span>
+| <span class="Latn" lang="zu">[[anibade#Zulu|anibade]]</span>
+|- class="vsHide"
+! Class 1
+| <span class="Latn" lang="zu">[[omude#Zulu|omude]]</span>
+| <span class="Latn" lang="zu">[[ongemude#Zulu|ongemude]]</span>
+| <span class="Latn" lang="zu">[[mude#Zulu|mude]]</span>
+| <span class="Latn" lang="zu">[[akamude#Zulu|akamude]]</span>
+|- class="vsHide"
+! Class 2
+| <span class="Latn" lang="zu">[[abade#Zulu|abade]]</span>
+| <span class="Latn" lang="zu">[[abangebade#Zulu|abangebade]]</span>
+| <span class="Latn" lang="zu">[[bade#Zulu|bade]]</span>
+| <span class="Latn" lang="zu">[[ababade#Zulu|ababade]]</span>
+|- class="vsHide"
+! Class 3
+| <span class="Latn" lang="zu">[[omude#Zulu|omude]]</span>
+| <span class="Latn" lang="zu">[[ongemude#Zulu|ongemude]]</span>
+| <span class="Latn" lang="zu">[[mude#Zulu|mude]]</span>
+| <span class="Latn" lang="zu">[[awumude#Zulu|awumude]]</span>
+|- class="vsHide"
+! Class 4
+| <span class="Latn" lang="zu">[[emide#Zulu|emide]]</span>
+| <span class="Latn" lang="zu">[[engemide#Zulu|engemide]]</span>
+| <span class="Latn" lang="zu">[[mide#Zulu|mide]]</span>
+| <span class="Latn" lang="zu">[[ayimide#Zulu|ayimide]]</span>
+|- class="vsHide"
+! Class 5
+| <span class="Latn" lang="zu">[[elide#Zulu|elide]]</span>
+| <span class="Latn" lang="zu">[[elingelide#Zulu|elingelide]]</span>
+| <span class="Latn" lang="zu">[[lide#Zulu|lide]]</span>
+| <span class="Latn" lang="zu">[[alilide#Zulu|alilide]]</span>
+|- class="vsHide"
+! Class 6
+| <span class="Latn" lang="zu">[[amade#Zulu|amade]]</span>
+| <span class="Latn" lang="zu">[[angemade#Zulu|angemade]]</span>
+| <span class="Latn" lang="zu">[[made#Zulu|made]]</span>
+| <span class="Latn" lang="zu">[[awamade#Zulu|awamade]]</span>
+|- class="vsHide"
+! Class 7
+| <span class="Latn" lang="zu">[[eside#Zulu|eside]]</span>
+| <span class="Latn" lang="zu">[[esingeside#Zulu|esingeside]]</span>
+| <span class="Latn" lang="zu">[[side#Zulu|side]]</span>
+| <span class="Latn" lang="zu">[[asiside#Zulu|asiside]]</span>
+|- class="vsHide"
+! Class 8
+| <span class="Latn" lang="zu">[[ezinde#Zulu|ezinde]]</span>
+| <span class="Latn" lang="zu">[[ezingezinde#Zulu|ezingezinde]]</span>
+| <span class="Latn" lang="zu">[[zinde#Zulu|zinde]]</span>
+| <span class="Latn" lang="zu">[[azizinde#Zulu|azizinde]]</span>
+|- class="vsHide"
+! Class 9
+| <span class="Latn" lang="zu">[[ende#Zulu|ende]]</span>
+| <span class="Latn" lang="zu">[[engende#Zulu|engende]]</span>, <span class="Latn" lang="zu">[[engeyinde#Zulu|engeyinde]]</span>
+| <span class="Latn" lang="zu">[[inde#Zulu|inde]]</span>, <span class="Latn" lang="zu">[[yinde#Zulu|yinde]]</span>
+| <span class="Latn" lang="zu">[[ayiyinde#Zulu|ayiyinde]]</span>
+|- class="vsHide"
+! Class 10
+| <span class="Latn" lang="zu">[[ezinde#Zulu|ezinde]]</span>
+| <span class="Latn" lang="zu">[[ezingezinde#Zulu|ezingezinde]]</span>
+| <span class="Latn" lang="zu">[[zinde#Zulu|zinde]]</span>
+| <span class="Latn" lang="zu">[[azizinde#Zulu|azizinde]]</span>
+|- class="vsHide"
+! Class 11
+| <span class="Latn" lang="zu">[[olude#Zulu|olude]]</span>
+| <span class="Latn" lang="zu">[[olungelude#Zulu|olungelude]]</span>
+| <span class="Latn" lang="zu">[[lude#Zulu|lude]]</span>
+| <span class="Latn" lang="zu">[[alulude#Zulu|alulude]]</span>
+|- class="vsHide"
+! Class 14
+| <span class="Latn" lang="zu">[[obude#Zulu|obude]]</span>
+| <span class="Latn" lang="zu">[[obungebude#Zulu|obungebude]]</span>
+| <span class="Latn" lang="zu">[[bude#Zulu|bude]]</span>
+| <span class="Latn" lang="zu">[[abubude#Zulu|abubude]]</span>
+|- class="vsHide"
+! Class 15
+| <span class="Latn" lang="zu">[[okude#Zulu|okude]]</span>
+| <span class="Latn" lang="zu">[[okungekude#Zulu|okungekude]]</span>
+| <span class="Latn" lang="zu">[[kude#Zulu|kude]]</span>
+| <span class="Latn" lang="zu">[[akukude#Zulu|akukude]]</span>
+|- class="vsHide"
+! Class 17
+| <span class="Latn" lang="zu">[[okude#Zulu|okude]]</span>
+| <span class="Latn" lang="zu">[[okungekude#Zulu|okungekude]]</span>
+| <span class="Latn" lang="zu">[[kude#Zulu|kude]]</span>
+| <span class="Latn" lang="zu">[[akukude#Zulu|akukude]]</span>
+|}[[Category:Zulu adjectives with tone L|DE]]
 
 ====Derived terms====
 * {{l-lite|zu|dana|-dana}}
 * {{l-lite|zu|ubude}}
 
 ===Verb===
-{{zu-verb|de}}
+{{head-lite|zu|verbs|head=-de|langname=Zulu}} <!-- {{zu-verb|de}} -->
 
 # {{lb|zu|auxiliary}} [[always]] {{+obj|zu|participial}}
 
