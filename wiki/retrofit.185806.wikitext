@@ -1,60 +1,94 @@
 ==English==
-{{wikipedia}}
+{{was wotd|2023|February|2}}
 
 ===Etymology===
-{{prefix|en|retro|fit}}
+The {{glossary|verb}} is derived from {{prefix|en|retro|pos1={{glossary|prefix}} meaning ‘back; backward’|fit|t2=to equip, supply}}.<ref>Compare {{R:OED Online|pos=v|id=164504|date=March 2022|nodot=1}}; {{R:Lexico|pos=v}}</ref>
+
+The {{glossary|noun}}, which is first attested later than the verb, is either derived:<ref>{{R:OED Online|pos=n|id=164503|date=March 2022|nodot=1}}; {{R:Lexico|pos=n}}</ref>
+* from the verb (see above); or
+* from {{prefix|en|retro|fit|t2=act of fitting; conformity of elements one to another}}.
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|en|/ˈɹɛt.ɹəʊˌfɪt/}}
-** {{audio|en|LL-Q1860 (eng)-Vealhurl-retrofit.wav|Audio (UK)}}
+* {{glossary|Verb}}:
+** {{a|RP}} {{IPA|en|/ˌɹɛtɹəʊˈfɪt/|/ˈɹɛtɹə(ʊ)ˌfɪt/}}
+** {{a|GA}} {{IPA|en|/ˌɹɛtɹoʊˈfɪt/|/ˈɹɛtɹoʊˌfɪt/}}
+* {{glossary|Noun}}:
+** {{a|RP}} {{IPA|en|/ˈɹɛtɹə(ʊ)ˌfɪt/}}
+** {{audio|en|LL-Q1860 (eng)-Vealhurl-retrofit.wav|Audio (Southern England)}}
+** {{a|GA}} {{IPA|en|/ˈɹɛtɹoʊˌfɪt/}}
+* {{hyphenation|en|re|tro|fit}}
 
 ===Verb===
-{{en-verb|++}} {{lb|en|transitive|or|intransitive}}
+{{en-verb|++}} {{lb|en|originally|US}}
 
-# To [[add]] or [[substitute]] new [[part]]s or [[component]]s to some [[device]], [[structure]] etc., that were not previously [[available]]; to [[modernize]]
-#* {{quote-journal|en|date=2020 January 2|author=Richard Clinnick|title=Midlands Metro welcomes new catenary-free trams|journal=Rail|page=16|text=Trams dating from 2012 have been '''retro-fitted''' with lithium batteries, with the conversions starting in 2018.}}
-# To fix an older [[version]] (or older versions) as part of the same process of fixing the newest version; to [[backport]]
-#: {{ux|en|The bug was so bad that we had to '''retrofit''' our patch to the last three releases, as well as the newest release.}}
+# {{lb|en|transitive}}
+## To [[supply#Verb|supply]] (a [[device]], [[structure#Noun|structure]], etc.) with [[new#Adjective|new]] [[component#Noun|components]] or [[part#Noun|parts]] that were not [[previously]] [[available]] or [[install#Verb|installed]]; to [[modernize]].
+##* {{quote-journal|en|author=Richard Clinnick|title=Midlands Metro Welcomes New Catenary-free Trams|magazine=[[w:Rail (magazine)|Rail]]|location=Peterborough, Cambridgeshire|publisher=[[w:Bauer Media Group|Bauer Media]]|date=2 January 2020|page=16|issn=0953-4563|oclc=999467860|passage=Trams dating from 2012 have been '''retro-fitted''' with lithium batteries, with the conversions starting in 2018.}}
+## To [[add#Verb|add]] or [[substitute#Verb|substitute]] (new components or parts) that were not previously available for or installed in a device, structure, etc.
+## {{lb|en|computing}} {{synonym of|en|backport|t=to [[retroactively]] supply to (a [[previous#Adjective|previous]] [[version#Noun|version]] of a [[software]] [[product#Noun|product]]) a [[fix#Noun|fix]], or a new [[feature#Noun|feature]], at the same [[time#Noun|time]] or after supplying it to the [[current#Adjective|current]] version; to retroactively supply (a fix or a new feature) to a previous version of a software product at the same time or after supplying it to the current version}}
+##: {{ux|en|The bug was so bad that we had to '''retrofit''' our patch to the last three releases, as well as the newest release.}}
+## {{lb|en|figuratively}} To [[give#Verb|give]] new [[characteristic#Noun|characteristics]] or [[make#Verb|make]] [[alteration]]s (to someone or something) to [[suit#Verb|suit]] them to [[changed#Adjective|changed]] [[circumstance#Noun|circumstances]].
+# {{lb|en|intransitive}} To supply a device, structure, etc., with new components or parts that were not previously available or installed.
+
+====Derived terms====
+* {{l|en|retrofittable}}
+* {{l|en|retrofitted|pos=adjective}}
+* {{l|en|retrofitter}}
+* {{l|en|retrofitting|pos=noun}}
 
 ====Translations====
-{{trans-top|To add or substitute new parts to some device that were not previously available}}
+{{trans-top-also|(''transitive'') to supply (a device, structure, etc.) with new components or parts that were not previously available or installed|modernize}}
 * Catalan: {{t+|ca|modernitzar}}
 * Finnish: {{t|fi|jälkikäteisasennus}}
 * German: {{t+|de|nachrüsten}}
 * Spanish: {{t+|es|modernizar}}
 {{trans-bottom}}
 
-{{trans-top|To fix an older version}}
-* Catalan: {{t+|ca|corregir}} retroactivament
-* Spanish: {{t+|es|corregir}} retroactivamente
+{{trans-top|(''transitive'') to add or substitute (new components or parts) that were not previously available for or installed in a device, structure, etc.}}
+* Finnish: {{t-needed|fi}}
+{{trans-bottom}}
+
+{{trans-see|''synonym of'' backport|backport}}
+
+{{trans-top|to give new characteristics or make alterations (to someone or something) to suit them to changed circumstances}}
+* Finnish: {{t-needed|fi}}
+{{trans-bottom}}
+
+{{trans-top|(''intransitive'') to supply a device, structure, etc., with new components or parts that were not previously available or installed}}
+* Finnish: {{t-needed|fi}}
 {{trans-bottom}}
 
 ===Noun===
-{{en-noun}}
+{{en-noun}} {{lb|en|originally|US}}
 
-# Something that has been retrofitted
-# The act of retrofitting
+# An [[act#Noun|act]] of [[supply#Verb|supplying]] a [[device]], [[structure#Noun|structure]], etc., with [[new#Adjective|new]] [[component#Noun|components]] or [[part#Noun|parts]] that were not [[previously]] [[available]] or [[install#Verb|installed]]; a [[retrofitting#Noun|retrofitting]].
+# A [[change#Noun|change]] [[make#Verb|made]] to a device, structure, etc., by [[introduce|introducing]] components or parts that were not previously available or installed.
 
 ====Translations====
-{{trans-top|something that has been retrofitted}}
-* Finnish: {{t|fi|jälkikäteisasennettu}}
-{{trans-bottom}}
-
-{{trans-top|act of retrofitting}}
-* Catalan: {{t+|ca|correcció}} retroactiva
-* Finnish: {{t|fi|jälkikäteisasentaminen}}, {{t|fi|jälkikäteisasennus}}
+{{trans-top-also|act of supplying a device, structure, etc., with new components or parts that were not previously available or installed|retrofitting}}
+* Catalan: {{t|ca|[[correcció]] [[retroactiva]]}}
+* Finnish: {{t|fi|jälkikäteisasennus}}, {{t|fi|jälkikäteisasentaminen}}
 * German: {{t|de|Nachrüsten|n}}, {{t|de|Umrüsten|n}}
-* Spanish: {{t+|es|corrección}} retroactiva
+* Spanish: {{t|es|[[corrección]] [[retroactiva]]}}
 * Turkish: {{t|tr|teknik uyarlama}}
 {{trans-bottom}}
 
-===Adjective===
-{{en-adj|-}}
+{{trans-top|change made to a device, structure, etc., by introducing components or parts that were not previously available or installed}}
+* Finnish: {{t-needed|fi}}
+{{trans-bottom}}
 
-# of, relating to, or being a retrofit
+{{checktrans-top}}
+* Finnish: {{t|fi|jälkikäteisasennettu}}
+{{trans-bottom}}
 
 ===References===
-* {{R:Lexico}}
+<references/>
+
+===Further reading===
+* {{pedia|retrofitting}}
+* {{pedia|retrofit (disambiguation)}}
+
+[[Category:English heteronyms]]
 
 ----
 
