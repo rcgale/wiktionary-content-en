@@ -812,7 +812,7 @@ From {{der-lite|ht|fr|mur}}.
 ==Hungarian==
 
 ===Pronunciation===
-* {{hu-IPA}}
+* {{IPA-lite|hu|[ˈmi]}} <!-- {{hu-IPA}} -->
 * {{audio|hu|Hu-mi.ogg|Audio}}
 * {{rhymes-lite|hu|mi|s=1}}
 
@@ -820,12 +820,13 @@ From {{der-lite|ht|fr|mur}}.
 From {{inh|hu|urj-pro|*me}}.
 
 ====Pronoun====
-{{hu-pron|personal}}
+{{head-lite|hu|pronouns|cat2=personal pronouns|langname=Hungarian}} <!-- {{hu-pron|personal}} -->
 
 # {{senseid|hu|personal}} {{lb|hu|personal}} [[we]]
 
 =====Declension=====
-{{hu-decl-perspron|unk|ünk|nk|acc=minket}}
+<!-- {{hu-decl-perspron|unk|ünk|nk|acc=minket}} -->
+{{hu-decl-perspron/mi}}
 
 =====Alternative forms=====
 * {{l-lite|hu|mink}} {{q-lite|dialectal}}
@@ -839,7 +840,7 @@ Note: In all these forms, ''mi'' is optional and only serves for emphasis.
 From {{inh|hu|urj-pro|*mi}}.
 
 ====Pronoun====
-{{hu-pron|interrogative}}
+{{head-lite|hu|pronouns|cat2=interrogative pronouns|langname=Hungarian}} <!-- {{hu-pron|interrogative}} -->
 
 # {{senseid|hu|what}} {{lb|hu|interrogative}} [[what]]?
 #: {{ux-lite|hu|'''Mi''' van a kezedben?|'''What''' is in your hand?|inline=y}}
@@ -850,7 +851,8 @@ From {{inh|hu|urj-pro|*mi}}.
 #: {{ux-lite|hu|Van '''mire''' tenni a vázát?|Is there '''anything''' to put the vase '''on'''?|inline=y}}
 
 =====Declension=====
-{{hu-infl-nom|mi|e}}{{hu-pos-tek|mi|je}}
+<!-- {{hu-infl-nom|mi|e}}{{hu-pos-tek|mi|je}} -->
+{{hu-infl-nom/mi (interrogative)}}{{hu-pos-tek/mi (interrogative)}}
 
 =====Derived terms=====
 {{col4|hu|title=Compound words with this term at the beginning
@@ -911,19 +913,24 @@ From {{inh|hu|urj-pro|*mi}}.
 
 ====Noun====
 [[Image:Szolmizáció.JPG|thumb|solmisation]]
-{{hu-noun|k}}
+{{head-lite|hu|nouns|plural|mik|langname=Hungarian}} <!-- {{hu-noun|k}} -->
 
 # {{senseid|hu|solfege-3}} [[mi#English|mi]] (a syllable used in [[solfège]] to represent the third note of a major scale)
-#: {{cot|hu|dó|ré|fá|szó#Hungarian: solfege-5|lá|ti#Hungarian: solfege-7}}
+#: {{coord-lite|hu|dó|ré|fá|szó|id4=solfege-5|lá|ti|id6=solfege-7}}
 
 =====Declension=====
 Its inflected forms are uncommon.
-{{hu-infl-nom|mi|e|esm_sg=y}}{{hu-pos-tek|mi|je}} or (as a means of distinction from the inflection of the interrogative pronoun) {{hu-infl-nom|mi-|e|esm_sg=y}}{{hu-pos-tek|mi-|je}} <!-- esm_sg: "ezt a hangot nem fogadom el mi(-)ül"-->
+{{hu-infl-nom|mi|e|esm_sg=y}}{{hu-pos-tek/mi (interrogative)}}<!-- {{hu-pos-tek|mi|je}} --> or (as a means of distinction from the inflection of the interrogative pronoun) {{hu-infl-nom|mi-|e|esm_sg=y}}{{hu-pos-tek|mi-|je}} <!-- esm_sg: "ezt a hangot nem fogadom el mi(-)ül"-->
 
 ===Further reading===
+<!--
 * {{R:ErtSz|1|we}}
 * {{R:ErtSz|2|what}}
 * {{R:ErtSz|3|mi [in music]}}
+-->
+* {{sense|we}} [https://www.arcanum.com/hu/online-kiadvanyok/Lexikonok-a-magyar-nyelv-ertelmezo-szotara-1BE8B/mi-1-3F964 mi]&#x20;in {{w|Géza Bárczi|Bárczi, Géza}} and {{w|László Országh}}. ''A magyar nyelv értelmező szótára'' (‘The Explanatory Dictionary of the Hungarian Language’). Budapest: Akadémiai Kiadó, 1959–1962. Fifth&nbsp;ed., 1992: [[Special:BookSources/9630535793|→ISBN]]
+* {{sense|what}} [https://www.arcanum.com/hu/online-kiadvanyok/Lexikonok-a-magyar-nyelv-ertelmezo-szotara-1BE8B/mi-2-3F973 mi]&#x20;in {{w|Géza Bárczi|Bárczi, Géza}} and {{w|László Országh}}. ''A magyar nyelv értelmező szótára'' (‘The Explanatory Dictionary of the Hungarian Language’). Budapest: Akadémiai Kiadó, 1959–1962. Fifth&nbsp;ed., 1992: [[Special:BookSources/9630535793|→ISBN]]
+* {{sense|mi [in music]}} [https://www.arcanum.com/hu/online-kiadvanyok/Lexikonok-a-magyar-nyelv-ertelmezo-szotara-1BE8B/mi-3-3F999 mi]&#x20;in {{w|Géza Bárczi|Bárczi, Géza}} and {{w|László Országh}}. ''A magyar nyelv értelmező szótára'' (‘The Explanatory Dictionary of the Hungarian Language’). Budapest: Akadémiai Kiadó, 1959–1962. Fifth&nbsp;ed., 1992: [[Special:BookSources/9630535793|→ISBN]]
 * {{q-lite|Hungarian}} [https://web.archive.org/web/20160324012424/http://cotcot.hu/cikk/2008/07/01/mi-ez-szolmizacio An article on solfège with hand signs]
 <!--hard-coded to save memory-->
 
