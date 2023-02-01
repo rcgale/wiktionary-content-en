@@ -58,7 +58,9 @@ Borrowed from {{bor|fr|de|Schild}}.
 ==German==
 
 ===Etymology===
-From {{inh|de|gmh|schilt}}, from {{inh|de|goh|skilt}}, {{m|goh|skild}}, from {{inh|de|gmw-pro|*skeldu|t=shield}}, from {{inh|de|gem-pro|*skelduz|t=shield}}, from {{der|de|ine-pro|*(s)keyt-}}, {{m|ine-pro|*(s)keyd-}}, {{m|ine-pro|*keyt-|t=shield, cover}}. Compare {{cog|nl|schild}}, {{cog|en|shield}}, {{cog|da|skjold}}.
+From {{inh|de|gmh|schilt|g=m}} (“shield”, genitive {{m|gmh||schiltes}} or {{m|gmh||schildes}}), from {{inh|de|goh|skilt}}, from {{inh|de|gmw-pro|*skeldu}}, from {{inh|de|gem-pro|*skelduz|t=shield}}, from {{der|de|ine-pro|*(s)keyt-|t=shield, cover}}. Cognate with {{cog|nl|schild}}, {{cog|en|shield}}, {{cog|da|skjold}}.
+
+The ''-ld-'' is due to sporadic revoicing, reinforced by unshifted forms in [[Central German|Central]] and [[Low German]] (cf. {{m|de|dulden}}, {{m|de|Geld}} etc.). The neuter gender spread southward from {{der|de|gml|schilt}}. It established itself in general Standard German for the derived sense “sign”, but not for the traditional sense “shield”. However, northern speakers often fail to make the distinction (see below).<ref>[http://www.wienerzeitung.at/meinungen/glossen/389738_Der-Schild-oder-das-Schild.html Der Schild oder das Schild?], Wiener Zeitung Online</ref>
 
 ===Pronunciation===
 * {{IPA|de|/ʃɪlt/}}
@@ -67,50 +69,14 @@ From {{inh|de|gmh|schilt}}, from {{inh|de|goh|skilt}}, {{m|goh|skild}}, from {{i
 * {{homophones|de|schilt}}
 
 ===Noun===
-{{de-noun|m,s:es,e}} '''or'''<br>
-{{de-noun|n[regionally],s:es,er}}
+{{de-noun|n,es:s,er|dim=chen}}
 
-# [[shield]], [[buckler]] {{gloss|defensive weapon}}
-# {{lb|de|heraldry}} [[shield]]
-
-====Usage notes====
-In official use ([[Standard German]]), the word '''Schild''' in this sense is exclusively masculine. However, in large parts of Germany, namely Northern and Central Germany, the word is also used in the neuter variant (plural '''Schilder''') with no difference made between ''shield'' and ''sign''. <ref>[http://www.wienerzeitung.at/meinungen/glossen/389738_Der-Schild-oder-das-Schild.html Der Schild oder das Schild?], Wiener Zeitung Online</ref>
-
-====Declension====
-{{de-ndecl|m,s:es,e}}
-{{de-ndecl|n[regionally],s:es,er}}
-
-====Derived terms====
-{{col4|de
-|etwas im Schilde führen
-|Schilddrüse
-|Schildfuß
-|Schildhaupt
-|Schildknorpel
-|Schildkröte
-|Schildlaus
-|Schildpatt
-|Schildrand
-|Schildstraße
-|Schildteilung
-|Schildwache
-|Schildwanze
-|Herzschild
-|Schutzschild
-|Schwarzschild
-|Wappenschild
-}}
-
-====See also====
-* {{l|de|Schildbürger}}
-
-====References====
-<references/>
-
-===Noun===
-{{de-noun|n,s:es,er|dim=chen}}
-
-# [[sign]], [[plate]]
+# [[sign]], [[plate]] {{gloss|flat surface bearing information}}
+#: {{ux|de|Was steht dahinten auf dem '''Schild'''?|What does that '''sign''' say over there?}}
+# {{lb|de|often|also|diminutive}} [[label]], [[tag]] {{gloss|piece of paper etc. on a product}}
+#: {{syn|de|Etikett}}
+#: {{ux|de|Du musst noch das '''Schild''' an deinem neuen Hemd abschneiden.|You still have to cut off the '''label''' from your new shirt.}}
+# {{lb|de|nonstandard|or|informal|northern and central Germany}} {{alternative form of|de|Schild|t=shield|pos=noun 2 below}}
 
 ====Declension====
 {{de-ndecl|n,s:es,er}}
@@ -132,13 +98,50 @@ In official use ([[Standard German]]), the word '''Schild''' in this sense is ex
 |Rothschild
 }}
 
+===Noun===
+{{de-noun|m,es:s,e}}
+
+# [[shield]], [[buckler]] {{gloss|defensive weapon}}
+#: {{ux|de|Mittelalterliche '''Schilde''' waren oft sehr schwer.|Medieval '''shields''' were often quite heavy.}}
+# {{lb|de|figurative}} [[protection]], [[protector]]
+#: {{ux|de|Die Stasi begriff sich als '''Schild''' und Schwert der Partei.|The [[Stasi]] considered itself the Party’s '''shield''' and sword.}}
+# {{lb|de|heraldry}} [[shield]]
+
+====Declension====
+{{de-ndecl|m,s:es,e}}
+
+====Derived terms====
+{{col4|de
+|etwas im Schilde führen
+|Schildbürger
+|Schilddrüse
+|Schildfuß
+|Schildhaupt
+|Schildknorpel
+|Schildkröte
+|Schildlaus
+|Schildpatt
+|Schildrand
+|Schildstraße
+|Schildteilung
+|Schildwache
+|Schildwanze
+|Herzschild
+|Schutzschild
+|Schwarzschild
+|Wappenschild
+}}
+
 ===Proper noun===
-{{de-proper noun|surname}}
+{{de-proper noun|m:f,s:-[with an article],s:-}}
 
 # {{surname|de}}
 
 ====Declension====
 {{de-ndecl|surname}}
+
+===References===
+<references/>
 
 ===Further reading===
 * {{R:DWDS}}
