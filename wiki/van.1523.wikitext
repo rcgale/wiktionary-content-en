@@ -616,13 +616,13 @@ From {{inh|hu|ohu|vagyon}}. See Hungarian {{m|hu|volt}}.
 # {{lb|hu|copulative}} to [[be]], to [[exist]]
 #: {{syn|hu|létezik}}
 #: {{ant|hu|nincs}}
-# to [[have]]; someone ({{m|hu|-nak}}/{{m|hu|-nek}}) has something ({{m|hu|-ja}}/{{m|hu|-je}}/{{m|hu|-a}}/{{m|hu|-e}})
-#: {{uxi|hu|Péter'''nek''' '''van''' egy kutyá'''ja'''.|Peter '''has''' a dog.}}
+# to [[have]]; someone ({{hu-case|nak}}) has something ({{m|hu|-a}}/{{m|hu|-e}}/{{m|hu|-ja}}/{{m|hu|-je}})
+#: {{uxi|hu|Péter'''nek van''' egy kutyá'''ja'''.|Peter '''has''' a dog.}}
 # [[there is]]
 #: {{uxi|hu|'''Van''' itt valaki?|'''Is there''' anybody here?}}
 # to [[be]] ({{non-gloss definition|auxiliary verb indicating a type of [[passive]] voice along with the adverbial participle form of the main verb}})
 #: {{uxi|hu|A probléma még '''nincs megoldva'''.|The question '''isn’t''' yet '''solved'''.}}
-#* '''1846''', {{w|János Arany}}, ''{{w|Toldi trilogy|Toldi}}'',<sup>[http://mek.oszk.hu/00500/00597/html/toldi02.htm#01_06]</sup>, canto 6, stanza 13, prose translation by Anton N. Nyerges:<sup>[https://mek.oszk.hu/00500/00595/html/epics2.htm#4]</sup>
+#* '''1846''', {{w|János Arany}}, ''{{w|Toldi trilogy|Toldi}}'',<sup>[http://mek.oszk.hu/00500/00597/html/toldi02.htm#01_06]</sup>, canto&nbsp;6, stanza&nbsp;13, prose translation by Anton N. Nyerges:<sup>[https://mek.oszk.hu/00500/00595/html/epics2.htm#4]</sup>
 #*: {{ux|hu|„Szakmány módra '''van''' rám '''mérve''' minden óra: / Jöttem kegyelmedhez búcsuvevő szóra.”|“Every hour '''is measured''' as though by contract. / I come to bid you now farewell.”}}
 
 ====Usage notes====
@@ -644,15 +644,15 @@ From {{inh|hu|ohu|vagyon}}. See Hungarian {{m|hu|volt}}.
 *:: {{uxi|hu|Hogy '''van'''?|How '''is''' he? (''also'' How '''are''' you?, ''formal singular'')}}
 *:: {{uxi|hu|El '''van''' törve.|It '''is''' broken.}}
 
-* The negative form is {{l|hu|nincs}} or {{l|hu|nincsen}} and {{l|hu|sincs}} or {{l|hu|sincsen}} (the latter two expressing 'is not … either').
+* The negative form is {{l|hu|nincs}} or {{l|hu|nincsen}} and {{l|hu|sincs}} or {{l|hu|sincsen}} (the latter two expressing “is not … either”).
 *: {{uxi|hu|'''Nincs''' pénzem.|I '''don't have''' any money.}}
-*: {{uxi|hu|Itt '''sincs''' étel.|There ''''isn't''' any food here '''either'''.}}
+*: {{uxi|hu|Itt '''sincs''' étel.|There ''''isn’t''' any food here '''either'''.}}
 * If the predicate includes an adjective or a noun, that is, if it answers the question ''who, what'' etc. (see above), the third person present forms are omitted again, only ''nem'' remains:
 *: {{uxi|hu|Béla '''nem''' tanár.|Béla '''is not''' a teacher.}}
 
 {{sense|exist, there is, to have}} (''have'' is expressed by ''there is'' in Hungarian):
 *: {{uxi|hu|'''Van''' egy ház a hegyen.|'''There is''' a house on the mountain.}}
-*: {{uxi|hu|'''Van''' egy kutyám.|I '''have''' a dog.|lit='''There is''' a dog-of-mine.}}
+*: {{uxi|hu|'''Van''' egy kutyám.|I '''have''' a dog.|lit='''There is''' a dog-[of]-mine.}}
 
 ====Conjugation====
 {{hu-conj-van}}
@@ -662,13 +662,13 @@ From {{inh|hu|ohu|vagyon}}. See Hungarian {{m|hu|volt}}.
 * {{l|hu|vanogat}}
 {{hu-verbpref|sep=4|van|el|hátra|ki|le|meg|oda}}
 <!-- "hátravan" is written without spaces in the sense "it will take place afterwards" [ezután kerül rá sor] and with a space in a sense like "igen hátra vagyunk a fejlődésben", 'we are rather behind in terms of development', based on Magyar helyesírási szótár, Budapest, Akadémiai, 2017, page 221 -->
-{{der3|hu|title=Expressions
+{{col3|hu|title=Expressions
 |a falnak is füle van
 |az éremnek két oldala van
 |benne van a korban
 |elege van
 |elemében van
-|hogy van
+|[[hogy van|hogy van?]]
 |igaza van
 |melege van
 |minden rosszban van valami jó
@@ -679,7 +679,6 @@ From {{inh|hu|ohu|vagyon}}. See Hungarian {{m|hu|volt}}.
 |van benne valami
 |vége van
 }}
-
 <!-- ===References===
 <references/>
 -->
