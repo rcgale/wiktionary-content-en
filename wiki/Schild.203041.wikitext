@@ -60,7 +60,7 @@ Borrowed from {{bor|fr|de|Schild}}.
 ===Etymology===
 From {{inh|de|gmh|schilt|g=m}} (“shield”, genitive {{m|gmh||schiltes}} or {{m|gmh||schildes}}), from {{inh|de|goh|skilt}}, from {{inh|de|gmw-pro|*skeldu}}, from {{inh|de|gem-pro|*skelduz|t=shield}}, from {{der|de|ine-pro|*(s)keyt-|t=shield, cover}}. Cognate with {{cog|nl|schild}}, {{cog|en|shield}}, {{cog|da|skjold}}.
 
-The ''-ld-'' is due to sporadic revoicing, reinforced by unshifted forms in [[Central German|Central]] and [[Low German]] (cf. {{m|de|dulden}}, {{m|de|Geld}} etc.). The neuter gender spread southward from {{der|de|gml|schilt}}. It established itself in general Standard German for the derived sense “sign”, but not for the traditional sense “shield”. However, northern speakers often don't make the distinction (see below).<ref name="Wiener Zeitung">[http://www.wienerzeitung.at/meinungen/glossen/389738_Der-Schild-oder-das-Schild.html Der Schild oder das Schild?], Wiener Zeitung Online</ref>
+The ''-ld-'' is due to sporadic revoicing, reinforced by unshifted forms in [[Central German|Central]] and [[Low German]] (cf. {{m|de|dulden}}, {{m|de|Geld}} etc.). The neuter gender spread southward from {{der|de|gml|schilt}}. It established itself in general Standard German for the derived sense “sign”, but not for the traditional sense “shield”. 
 
 ===Pronunciation===
 * {{IPA|de|/ʃɪlt/}}
@@ -69,29 +69,24 @@ The ''-ld-'' is due to sporadic revoicing, reinforced by unshifted forms in [[Ce
 * {{homophones|de|schilt}}
 
 ===Noun===
-{{de-noun|n,es:s,er|dim=lein,chen,ken[rare,also Ruhrpöttisch]}}
+{{de-noun|n,es:s,er|dim=chen,lein}}
 
 # [[sign]], [[plate]] {{gloss|flat surface bearing information}}
 #: {{ux|de|Was steht dahinten auf dem '''Schild'''?|What does that '''sign''' say over there?}}
 # {{lb|de|often|also|diminutive}} [[label]], [[tag]] {{gloss|piece of paper etc. on a product}}
 #: {{syn|de|Etikett}}
 #: {{ux|de|Du musst noch das '''Schild''' an deinem neuen Hemd abschneiden.|You still have to cut off the '''label''' from your new shirt.}}
-# {{lb|de|nonstandard|or|informal|northern and central Germany}} {{alternative form of|de|Schild|t=shield|pos=noun 2 below}}
-#: {{ux|de|Mittelalterliche '''Schilde''' waren oft sehr schwer.|Medieval '''shields''' were often quite heavy.}}
-# {{lb|de|nonstandard|or|informal|northern and central Germany}} {{alternative form of|de|Schild|t=protector|pos=noun 2 below}}
+# {{lb|de|nonstandard|or|informal|northern and central Germany}} {{alternative form of|de|Schild|t=shield, protector|pos=noun 2 below}}
+#: {{ux|de|Mittelalterliche '''Schilder''' waren oft sehr schwer.|Medieval '''shields''' were often quite heavy.}}
 #: {{ux|de|Die Stasi begriff sich als (das) '''Schild''' und Schwert der Partei.|The [[Stasi]] considered itself the Party’s [i.e. the SED's] '''shield''' and sword.}}
 
 ====Usage notes====
-* In official use, {{m|de|Schild|t=shield; protector}} is exclusively masculine. However, in large parts of Germany, namely Northern and Central Germany, the word is also used in the neuter variant (plural {{m|de|Schilder}}) with no difference made between ''shield; protector'' and ''sign, label''. <ref name="Wiener Zeitung" />
+* In official use, {{m|de||Schild}} in the sense of “shield, protector” is exclusively masculine. However, in northern and central Germany the word is also used in the neuter form (plural {{m|de||Schilder}}) with no difference made between the senses.<ref name="Wiener Zeitung">[http://www.wienerzeitung.at/meinungen/glossen/389738_Der-Schild-oder-das-Schild.html Der Schild oder das Schild?], Wiener Zeitung Online</ref>
 
 ====Declension====
 {{de-ndecl|n,s:es,er}}
 
 ====Derived terms====
-{{col4|de
-|Schildlein
-|Rothschild
-}}
 {{col4|de|title=sense: sign, label
 |Hinweisschild
 |Klingelschild
@@ -106,9 +101,12 @@ The ''-ld-'' is due to sporadic revoicing, reinforced by unshifted forms in [[Ce
 |Schilderwald
 |Beschilderung
 }}
-{{col4|de|title=sense: shield
-|Schutzschild
-|Wappenschild
+{{col4|de|title=regional diminutives
+|Schilderl
+|Schildken
+|Schildl
+|Schildle
+|Schildli
 }}
 
 ===Noun===
@@ -126,6 +124,7 @@ The ''-ld-'' is due to sporadic revoicing, reinforced by unshifted forms in [[Ce
 ====Derived terms====
 {{col4|de
 |etwas im Schilde führen
+|Rothschild
 |Schildbürger
 |Schilddrüse
 |Schildfuß
@@ -145,9 +144,6 @@ The ''-ld-'' is due to sporadic revoicing, reinforced by unshifted forms in [[Ce
 |Schwarzschild
 |Wappenschild
 }}
-
-====Usage notes====
-* ''See above.''
 
 ===Proper noun===
 {{de-proper noun|m:f,s:-[with an article],s:-}}
