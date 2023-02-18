@@ -12,8 +12,16 @@
 ===Noun===
 {{en-noun|-}}
 
-# {{lb|en|systematics}} The [[systematics|systematic]] study of [[organism]] [[relationship]]s based on [[evolutionary]] similarities and differences.
-#* {{quote-journal|en|{{w|William Morton Wheeler}}|George Baur’s Life and Writings|The American Naturalist|volume=33|page=16|text=Thereupon he went to Leipzig, and during the winter of 1880–81 and the following summer semester studied comparative anatomy with Leuckart, geology with Credner, and '''phylogenetics''' with Carus.}}
+# {{lb|en|biology|systematics}} The study of the [[evolutionary]] history and [[relationship]]s among or within groups of [[organism]]s, through [[computational]] methods that focus on observed [[heritable]] traits.
+#* {{quote-journal|en|{{w|William Morton Wheeler}}|year=''[[circa#Latin|c.]]'' 1899|George Baur’s Life and Writings|The American Naturalist|volume=33|page=16|text=Thereupon he went to Leipzig, and during the winter of 1880–81 and the following summer semester studied comparative anatomy with Leuckart, geology with Credner, and '''phylogenetics''' with Carus.}}
+#* '''2005''', Stephen Bryant, Gerard Bouffard, ''Bioinformatics'', Wiley, [https://books.google.com.au/books?id=Us9pAAAAMAAJ&q=%22An+especially+concise+introduction+to+molecular+phylogenetics+is+provided+by+Hillis+et+al.+(1993).+The+danger+of+generating+incorrect+results+is+inherently+greater+in+computational+phylogenetics+than+in+many+other+fields+of+science.%22&dq=%22An+especially+concise+introduction+to+molecular+phylogenetics+is+provided+by+Hillis+et+al.+(1993).+The+danger+of+generating+incorrect+results+is+inherently+greater+in+computational+phylogenetics+than+in+many+other+fields+of+science.%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj5nsr8wJ79AhVhcWwGHfGmAocQ6AF6BAgHEAI page 366],
+#*: An especially concise introduction to molecular '''phylogenetics''' is provided by Hillis et al. (1993).
+#*: The danger of generating incorrect results is inherently greater in computational '''phylogenetics''' than in many other fields of science.
+#* '''2011''', Emmanuel Paradis, ''Analysis of '''Phylogenetics''' and Evolution with R'', Springer, [https://books.google.com.au/books?id=FsScWggkW_cC&pg=PR7&dq=%22phylogenetics%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj_6bbBsp79AhXBqZUCHauaAi4Q6AF6BAgQEAI#v=onepage&q=%22phylogenetics%22&f=false page vii],
+#*: A difficult task was to review the development of the many new packages contributing to '''phylogenetics''' and evolutionary biology.
+
+====Derived terms====
+* {{l|en|cultural phylogenetics}}
 
 ====Related terms====
 * {{l|en|phylogenetic}}
@@ -24,6 +32,7 @@
 {{trans-top|study of organism relationships}}
 * French: {{t+|fr|phylogénie|f}}
 * German: {{t+|de|Phylogenese|f}}
+* Italian: {{t|it|filogenesi|f}}, {{t|it|filogenia|f}}
 * Japanese: {{t|ja|系統学|tr=keitō-gaku}}
 * Khmer: {{t|km|សាខាពន្ធុវិទ្យា|tr=sa khar pon tu vit tyea|sc=Khmr}}
 * Polish: {{t+|pl|filogeneza|f}}
@@ -32,3 +41,7 @@
 * Spanish: {{t|es|filogenia|f}}
 * Vietnamese: [[phân loại]] [[theo]] [[tiến hóa]]
 {{trans-bottom}}
+
+===Further reading===
+* {{pedia|Computational phylogenetics}}
+* {{pedia|Comparative method}}
