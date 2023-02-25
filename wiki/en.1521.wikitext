@@ -1854,34 +1854,71 @@ From {{inh-lite|slr|trk-pro|sc=Latinx|*ēn-}}. Cognate with {{cog-lite|tr|inmek}
 ----
 
 ==Slovene==
-{{number box/sl|1|nič|dva<!--
--->|card=en|cardalt=èn<!--
--->|ord=prvi|ordalt=pŕvi<!--
--->|cardadvalt=ênkrat<!--
--->|mult=enojen|multalt=enójen<!--
--->}}
+{{number box|sl|1}}
 
 ===Etymology===
 Contraction of earlier {{m-lite|sl|eden|êden}}, from {{der-lite|sl|sla-pro|sc=Latinx|*(j)edinъ}}, ultimately from {{der-lite|sl|ine-pro|sc=Latinx|*óynos||one, single}}.
 
-===Pronunciation===
+===Pronunciation 1===
 * {{sl-IPA|ȅn}}
 
-===Numeral===
+====Numeral====
 {{sl-num|ȅn}}
 
 # [[one]]
 
-====Usage notes====
-The form {{m-lite|sl|eden|êden}} is used when the word does not modify a noun directly, but stands in predicate position. When counting or reciting numbers, the feminine form {{m-lite|sl|ena|êna}} is normally used.
+=====Usage notes=====
+The form {{m-lite|sl|eden|éden}} is used when the word does not modify a noun directly, but stands in predicate position. When counting or reciting numbers, the feminine form {{m-lite|sl|ena|éna}} is normally used (see the number box).
 
-====Inflection====
-{{sl-decl-num-en}}
+=====Declension=====
+{{sl-decl-adj-table2-head|accent=1|decl=1|irreg=vowel lengthening to acute, irregular isolated forms}}
+{{sl-decl-adj-table2-indef|ȅn|énega|énemu|énem|énim|ȅn|éna|éne|éni|éno|éni|éno|ȇna|éno|énega|énemu|éno|énem|énim|ȇno|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]}}
+{{sl-decl-adj-table2-other|1=énega|4={{l|sl|éno}}, {{l|sl|énega}}}}
 
-====Derived terms====
-* {{l-lite|sl|enota|enôta}}
+=====Derived terms=====
+* {{l-lite|sl|enota|enóta}}
 
 [[Category:Slovene cardinal numbers]]
+
+====Determiner====
+{{sl-det|ȅn}}
+
+# {{lb|sl|colloquial}} [[some]] {{gloss|someone/something – indefinite determiner}}
+#: {{uxi|sl|'''Eni''' moški stojijo tam.|'''Some''' man are standing there.}}
+#: {{syn|sl|nekȁk|nekȁkšen}}
+# {{lb|sl|colloquial|also unstressed}} [[some]] {{gloss|someone/something arbitrary – unspecified determiner}}
+#: {{syn|sl|kāk|kākšen}}
+
+=====Declension=====
+{{sl-decl-adj-table2-head|accent=1|decl=1|irreg=vowel lengthening to acute, irregular isolated forms}}
+{{sl-decl-adj-table2-indef|
+ȅn|énega|énemu|énem|énim|ȅn|
+éna|éne|éni|éno|éni|éno|ȇna|
+éno|énega|énemu|éno|énem|énim|ȇno|
+éna|énih|énima|éna|énih|énima|ȇna|
+éni|énih|énima|éna|énih|énima|ȇni|
+éni|énih|énima|éna|énih|énima|ȇni|
+éni|énih|énim|éne|énih|énimi|ȇni|
+éne|énih|énim|éne|énih|énimi|ȇne|
+éna|énih|énim|éne|énih|énimi|ȇna}}
+{{sl-decl-adj-table2-other|1=énega|4={{l|sl|éno}}, {{l|sl|énega}}}}
+
+====Noun====
+{{sl-noun|ȅn|m-an}}
+
+# {{lb|sl|regional}} {{altform|sl|éden}}
+
+===Pronunciation 2===
+* {{sl-IPA|en}}
+
+===Article===
+{{head-lite|sl|articles|langname=Slovene}}
+
+# {{lb|sl|colloquial|regional}} [[a]]
+#: {{uxi|sl|To je '''ena''' velika izmišljotina!|This is '''a''' big made-up story.}}
+
+===Further reading===
+{{R:sl:FR}}
 
 ----
 
