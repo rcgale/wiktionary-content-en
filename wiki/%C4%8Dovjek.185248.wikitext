@@ -11,22 +11,37 @@
 From older {{m|sh|človjek}}, from {{der|sh|sla-pro|*čьlověkъ}}, {{m|sla-pro|*čelověkъ}}, from {{inh|sh|ine-bsl-pro|*kelawaikas}}.
 
 ===Pronunciation===
-* {{sh-IPA|čȍvjek}} or {{sh-IPA|čòvjek}}
+* {{sh-IPA|čòvjek}} or {{sh-IPA|čȍvjek}}
 * {{hyphenation|sh|čo|vjek}}
 
 ===Noun===
-{{sh-noun|g=m|head=čȍvjek|head2=čòvjek}}
+{{sh-noun|g=m|head=čòvjek|head2=čȍvjek}}
 
 # [[man]], [[person]]
-#: {{ux|sh|jeste li vid(j)eli ovog čov(j)eka?|t=have you seen this man?|inline=1}}
-#: {{ux|sh|ti si mrtav čov(j)ek|t=you're a dead man|inline=1}}
-#: {{ux|sh|zanemarite čov(j)eka iza zav(j)ese|t=pay no attention to the man behind the curtain|inline=1}}
+#: {{ux|sh|Jeste li vid(j)eli ovog čov(j)eka?|t=Have you seen this man?|inline=1}}
+#: {{ux|sh|Ti si mrtav čov(j)ek.|t=You're a dead man.|inline=1}}
+#: {{ux|sh|Zanemarite čov(j)eka iza zav(j)ese.|t=Pay no attention to the man behind the curtain.|inline=1}}
 # [[human]]
-#: {{ux|sh|ne želim biti čov(j)ek, želim biti robot!|t=I don't want to be human, I want to be a robot!|inline=1}}
-#: {{ux|sh|nisi zao, samo si...čov(j)ek|t=you're not evil, you're just...human|inline=1}}
+#: {{ux|sh|Ne želim biti čov(j)ek, želim biti robot!|t=I don't want to be human, I want to be a robot!|inline=1}}
+#: {{ux|sh|Nisi zao, samo si...čov(j)ek.|t=You're not evil, you're just...human.|inline=1}}
 # [[person]] of [[integrity]], [[mensch]]
+#* {{quote-book|1=sh|author=Vuk Stefanović Karadžić|authorlink=Vuk Stefanović Karadžić|title=Srpske narodne poslovice [Serbian Folk Proverbs]|url=https://archive.org/details/srpskenarodnepos00kara/page/26|location=Beč|year=1849|page=27|text=Боље се с '''чоеком''' побити него с рђом целивати. <small>У Грбљу.</small>|tr=Bolje se s '''čoekom''' pobiti nego s rđom celivati. <small>U Grblju.</small>|t=It is better to fight with a [proper] man than to kiss with an unworthy one [literally: to kiss with rust]. <small>From [[w:Grbalj|Grbalj]].</small>}}
+# used as an indefinite, general subject; any person in a given situation
+#* {{quote-book|1=sh|author=Ante Kovačić|authorlink=Ante Kovačić|title=Fiškal [The Advocate]|url=https://lektire.skole.hr/djela/fiskal/|location=Zagreb|year=1882|year_published=2013|publisher=Bulaja naklada|isbn=978-953-328-202-2|page=28|text=Vrijeme i narav bijahu neopisivo sumorni. U takvim časovima '''čovjek''' biva zlovoljan, dremovan i nezadovoljan.|t=The weather and nature were indescribably dismal. In such moments, one becomes ill-willed, drowsy and dissatisfied.}}
+
 
 ====Declension====
+
+{{sh-decl-noun|title=Irregular declension, with nominative čòvjek
+|čòvjek|ljȗdi
+|čòvjeka|ljúdī
+|čòvjeku|ljúdima
+|čòvjeka|ljȗde
+|čȍvječe / čòvječe|ljȗdi
+|čòvjeku|ljúdima
+|čòvjekom|ljúdima
+}}
+
 {{sh-decl-noun|title=Irregular declension, with nominative čȍvjek
 |čȍvjek|ljȗdi
 |čovjèka|ljúdī
@@ -37,24 +52,14 @@ From older {{m|sh|človjek}}, from {{der|sh|sla-pro|*čьlověkъ}}, {{m|sla-pro
 |čovjèkom|ljúdima
 }}
 
-{{sh-decl-noun|title=Irregular declension, with nominative čòvjek
-|čòvjek|ljȗdi
-|čòvjeka|ljúdī
-|čòvjeku|ljúdima
-|čòvjeka|ljȗde
-|čȍvječe|ljȗdi
-|čòvjeku|ljúdima
-|čòvjekom|ljúdima
-}}
-
-{{sh-decl-noun|title=Archaic or dialectal plural
+{{sh-decl-noun|title=Archaic or slang plural, with nominative čòvjek
 ||čòvjeci
-||čovjeka
-||čovjecima
-||čovjeke
-||čovjeci
-||čovjecima
-||čovjecima
+||čȍvjēkā / čòvjēkā
+||čòvjecima
+||čòvjeke
+||čòvjeci
+||čòvjecima
+||čòvjecima
 }}
 
 ===References===
@@ -62,5 +67,7 @@ From older {{m|sh|človjek}}, from {{der|sh|sla-pro|*čьlověkъ}}, {{m|sla-pro
 * {{R:sh:RSHKJ|vol=6|page=891}}
 * {{R:sh:RSJ2007|1520}}
 * {{R:sh:RJA|čòvjek|68|2}}
+* {{cite-book|author=Brabec, Ivan|author2=Hraste, Mate|author3=Živković, Sreten|title=Gramatika hrvatskosrpskoga jezika|edition=8th|publisher=Školska knjiga|year=1968|section=§81.B.I.2.a)|page=55}}
+* {{cite-book|author=Vukušić, Stjepan|author2=Zoričić, Ivan|author3=Graselli-Vukušić, Marija|title=Naglasak u hrvatskome književnom jeziku|series=Velika hrvatska gramatika|seriesvolume=4|location=Zagreb|publisher=Globus|year=2007|section=§94|page=41|isbn=953-167-170-2}}
 
 [[Category:sh:People]]
