@@ -163,7 +163,7 @@ When used between two reduplicated words, it may be pronounced with neutral tone
 {{zh-hanzi-lite|sort=一00}}
 
 # {{lb|zh|music}} {{n-g-lite|[[Kunqu]] [[gongche]] [[notation]] for the [[note]] [[low ti]] (7̣).}}
-#: {{zh-syn|乙|q1=Cantonese opera}}
+#: {{zh-syn|乙|tr=-|q1=Cantonese opera}}
 
 ====Derived terms====
 {{zh-der|𪛙|hide_pron=1}}
@@ -218,8 +218,9 @@ Contraction of {{l-lite|zh|sc=Hani|一個|tr=yī gè}} ({{zh-ref|Zhou, 1998}}).
 * {{thcwd|1}}
 * {{thcwd|2}}
 
-{{zh-cat|Beginning|Elementary|One}}
-{{catlangname|zh|cardinal numbers|numbers|numeral symbols|numerals}}
+<!--{{zh-cat|Beginning|Elementary|One}}
+{{catlangname|zh|cardinal numbers|numbers|numeral symbols|numerals}}-->
+[[Category:Beginning Mandarin|一00]][[Category:Elementary Mandarin|一00]][[Category:zh:One|一00]][[Category:Chinese numbers|一00]][[Category:Chinese numeral symbols|一00]]
 
 ----
 
@@ -274,13 +275,13 @@ Contraction of {{l-lite|zh|sc=Hani|一個|tr=yī gè}} ({{zh-ref|Zhou, 1998}}).
 
 From {{der-lite|ja|ltc|-|sort=いち}} {{ltc-l|一}}.
 
-The {{m|ja|呉音|tr=goon|lit=[[Wu]] [[sound]]}} reading, so likely the initial borrowing from {{cog-lite|ltc|-}}.
+The {{m-lite|ja|sc=Jpan|呉音|tr=goon|lit=[[Wu]] [[sound]]}} reading, so likely the initial borrowing from {{cog-lite|ltc|-}}.
 
 Compare modern {{cog-lite|nan-hok|-}} reading {{m-lite|nan-hok||it}}.
 
 ====Alternative forms====
-* {{q-lite|financial/formal form}} {{ja-l|壱}}, {{ja-l|弌}}
-* {{q-lite|ancient form}} {{ja-l|𪩩}}
+* {{q-lite|financial/formal form}} {{l-lite|ja|sc=Jpan|壱}}, {{l-lite|ja|sc=Jpan|弌}}
+* {{q-lite|ancient form}} {{l-lite|ja|sc=Jpan|𪩩}}
 
 ====Pronunciation====
 {{ja-pron|いち|acc=2|acc_ref=DJR,NHK|a=Ja-1-ichi.ogg}}
@@ -443,10 +444,10 @@ Compare modern {{cog-lite|nan-hok|-}} reading {{m-lite|nan-hok||it}}.
 
 From {{der-lite|ja|ltc|-|sort=いつ}} {{ltc-l|一}}.
 
-The {{m|ja|漢音|tr=kan'on|lit=[[Han]] [[sound]]}} reading, so likely a later borrowing from {{cog-lite|ltc|-}}.
+The {{m-lite|ja|sc=Jpan|漢音|tr=kan'on|lit=[[Han]] [[sound]]}} reading, so likely a later borrowing from {{cog-lite|ltc|-}}.
 
 ====Alternative forms====
-* {{q-lite|financial form}} {{ja-l|壱}}, {{ja-l|弌}}
+* {{q-lite|financial form}} {{l-lite|ja|sc=Jpan|壱}}, {{l-lite|ja|sc=Jpan|弌}}
 
 ====Pronunciation====
 {{ja-pron|いつ|acc=1|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK}}
@@ -574,7 +575,7 @@ Long-pronounced form of ''hi'' above.
 ===Etymology 6===
 {{ja-kanjitab|yomi=i|いい}}
 
-Borrowing from {{bor|ja|cmn|一|sort=いい}} in the Qing Dynasty.
+Borrowing from {{bor-lite|ja|cmn|一|sort=いい}} in the Qing Dynasty.
 
 ====Pronunciation====
 {{ja-pron|イー|acc=1|acc_ref=DJR}}
