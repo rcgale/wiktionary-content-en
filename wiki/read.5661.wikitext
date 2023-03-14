@@ -168,7 +168,7 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 * Belarusian: {{tt|be|чыта́ць|impf}}, {{tt|be|прачыта́ць|pf}}
 * Bengali: {{tt+|bn|পড়া}}
 * Breton: {{tt+|br|lenn}}
-* Bulgarian: {{tt+|bg|че́та}}, {{tt|bg|прочета́}}
+* Bulgarian: {{tt+|bg|чета́|impf}}, {{tt|bg|прочета́|pf}}
 * Burmese: {{tt+|my|ဖတ်}}, {{tt+|my|စာဖတ်}}
 * Catalan: {{tt+|ca|llegir}}
 * Central Atlas Tamazight: {{tt|tzm|ɣer}}
@@ -254,7 +254,9 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 * Maori: {{tt|mi|rīti}}
 * Marathi: {{tt+|mr|वाचणे}}
 * Minangkabau: {{t|min|baco}}
-* Mongolian: {{tt+|mn|унших}}
+* Mongolian:
+*: Cyrillic: {{tt+|mn|унших}}
+*: Mongolian: {{tt|mn|ᠤᠩᠰᠢᠬᠤ}}
 * Nepali: {{tt|ne|पढ्नु}}
 * Moroccan Amazigh: {{tt|zgh|ⵖⵔ}}
 * Nahuatl: {{tt|nah|pōhua}}
@@ -265,9 +267,9 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 * Norman: {{tt|nrf|liéthe}}
 * North Frisian: {{qualifier|Mooring dialect}} {{tt|frr|leese}}, {{qualifier|Föhr-Amrum}} {{tt|frr|lees}}
 * Northern Sami: {{tt|se|lohkat}}
-* Norwegian: {{tt+|no|lese}}
-*: Bokmål: {{t+|nb|lese}}
-*: Nynorsk: {{t+|nn|lesa}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|lese}}
+*: Nynorsk: {{tt+|nn|lesa}}
 * Occitan: {{tt+|oc|legir}}
 * Okinawan: {{tt|ryu|読むん|tr=yumun}}
 * Old English: {{tt|ang|rǣdan}}
@@ -276,9 +278,9 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 * Oriya: {{tt|or|ପଢିବା}}
 * Oromo: {{tt|om|beekuu}}
 * Papiamentu: {{t|pap|lesa}}
-* Pashto: {{tt+|ps|لوستل|tr=lwástǝ́l}}
+* Pashto: {{tt+|ps|لوستل|tr=lwastǝl}}
 * Pennsylvania German: {{tt|pdc|lese}}
-* Persian: {{tt+|fa|خواندن|tr=xândan}}, {{t|fa|خوندن|tr=xundan}} {{qualifier|colloquial Tehrani}}
+* Persian: {{tt+|fa|خواندن|tr=xândan}}, {{tt|fa|خوندن|tr=xundan}} {{qualifier|colloquial Tehrani}}
 * Piedmontese: {{tt|pms|lese}}
 * Polish: {{tt+|pl|czytać|impf}}, {{tt+|pl|przeczytać|pf}}
 * Portuguese: {{tt+|pt|ler}}
@@ -319,7 +321,7 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 * Turkish: {{tt+|tr|okumak}}
 * Turkmen: {{tt|tk|okamak}}
 * Ukrainian: {{tt+|uk|чита́ти|impf}}, {{tt|uk|прочита́ти|pf}}
-* Urdu: {{tt|ur|پڑھنا|tr=paṛhnā}}
+* Urdu: {{tt|ur|پَڑھنا|tr=paṛhnā}}
 * Uyghur: {{tt|ug|ئوقۇماق}}
 * Uzbek: {{tt+|uz|oʻqimoq}}
 * Venetian: {{tt|vec|lèzar}}, {{tt|vec|lèzer}}, {{tt|vec|lezar}}, {{tt|vec|lezer}}, {{tt|vec|lèxar}}, {{tt|vec|lèxer}}, {{tt+|vec|leđer}}
@@ -348,7 +350,7 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 * Belarusian: {{tt|be|чыта́ць|impf}}
 * Bengali: {{t-needed|bn}}
 * Breton: {{t+|br|lenn}}
-* Bulgarian: {{tt+|bg|че́та}}, {{tt|bg|прочета́}}
+* Bulgarian: {{tt+|bg|чета́|impf}}, {{tt|bg|прочета́|pf}}
 * Burmese: {{tt+|my|ဖတ်}}
 * Catalan: {{tt+|ca|llegir}}
 * Chechen: {{tt|ce|еша}}
@@ -394,13 +396,17 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 * Manchu: {{tt|mnc|ᡥᡡᠯᠠᠮᠪᡳ}}
 * Manx: {{tt|gv|lhaih}}
 * Maori: {{tt|mi|kōrero}}, {{tt|mi|pānui}}
-* Mongolian: {{tt+|mn|унших}}
+* Mongolian:
+*: Cyrillic: {{tt+|mn|унших}}
+*: Mongolian: {{tt|mn|ᠤᠩᠰᠢᠬᠤ}}
 * Nepali: {{tt|ne|वाचन गर्नु}}
 * Ngazidja Comorian: {{tt|zdj|u[[somea]]}}
 * Norman: {{tt|nrf|liéthe}}
-* Norwegian: {{tt+|no|lese}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|lese}}
+*: Nynorsk: {{tt+|nn|lesa}}
 * Oriya: {{t-needed|or}}
-* Persian: {{tt+|fa|خواندن|tr=xândan}}
+* Persian: {{tt+|fa|خواندن|tr=xândan}}, {{tt|fa|خوندن|tr=xundan}} {{qualifier|colloquial Tehrani}}
 * Piedmontese: {{tt|pms|lese}}
 * Polish: {{tt+|pl|czytać|impf}}, {{tt+|pl|odczytywać}}, {{tt+|pl|odczytać}}
 * Portuguese: {{tt+|pt|ler}}
@@ -423,10 +429,10 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 * Tahitian: {{t|ty|taió}}
 * Tamil: {{t-needed|ta}}
 * Telugu: {{tt+|te|వల్లెవేయు}}
-* Thai: {{tt+|th|อ่าน}}, {{tt|th|อ่านออกเสียง|tr=àan òk sĭang}}
+* Thai: {{tt+|th|อ่าน}}, {{tt|th|[[อ่าน]][[ออก]][[เสียง]]|tr=àan ɔ̀ɔk sǐiang}}
 * Tongan: {{t|to|laua}}
 * Turkish: {{tt+|tr|okumak}}
-* Urdu: {{t-needed|ur}}
+* Urdu: {{tt|ur|پَڑھنا|tr=paṛhnā}}
 * Vietnamese: {{tt+|vi|đọc}}
 * Welsh: {{tt+|cy|darllen}}
 * West Frisian: {{tt+|fy|lêze}}
@@ -436,7 +442,7 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 {{trans-top|to interpret or infer a meaning, significance, thought, intention, etc. from}}
 * Asturian: {{tt+|ast|lleer}}
 * Bashkir: {{tt|ba|уҡыу}}, {{tt|ba|[[уҡыу|уҡый]] [[белеү]]}}
-* Bulgarian: {{tt+|bg|че́та}}
+* Bulgarian: {{tt+|bg|чета́|impf}}, {{tt|bg|прочета́|pf}}
 * Catalan: {{tt+|ca|llegir}}
 * Czech: {{tt+|cs|číst}}, {{tt|cs|být gramotný}}
 * Dutch: {{tt+|nl|lezen}}
@@ -455,9 +461,11 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 * Latvian: {{tt+|lv|lasīt}}
 * Manx: {{tt|gv|lhaih}}
 * Norman: {{tt|nrf|liéthe}}
-* Norwegian: {{tt+|no|lese}}
-* Persian: {{tt+|fa|خواندن|tr=xândan}}
-* Polish: {{tt+|pl|czytać}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|lese}}
+*: Nynorsk: {{tt+|nn|lesa}}
+* Persian: {{tt+|fa|خواندن|tr=xândan}}, {{tt|fa|خوندن|tr=xundan}} {{qualifier|colloquial Tehrani}}
+* Polish: {{tt+|pl|czytać|impf}}
 * Portuguese: {{tt+|pt|ler}}
 * Romanian: {{tt|ro|putea citi}}, {{tt+|ro|citi}}, {{tt+|ro|lectura}}
 * Russian: {{tt+|ru|чита́ть|impf}}, {{tt+|ru|прочита́ть|pf}}
@@ -465,19 +473,20 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 {{trans-bottom}}
 
 {{trans-top|to consist of certain text}}
-* Bulgarian: {{tt+|bg|глася}}
+* Bulgarian: {{tt+|bg|глася́|impf}}
 * Finnish: {{tt+|fi|lukea}}
 * Greek: {{tt+|el|γράφω}}
 * Hungarian: {{tt+|hu|olvasható}}, {{tt+|hu|áll}}, {{tt+|hu|hangzik}}
 * Indonesian: {{tt+|id|berbunyi}}
 * Portuguese: {{tt+|pt|dizer}}
+* Russian: {{tt+|ru|гласи́ть|impf}}
 * Spanish: {{tt+|es|decir}} {{qualifier|Latin America}}, {{tt+|es|poner}} {{qualifier|Spain}}
 * Vietnamese: {{tt+|vi|chỉ}}, {{tt+|vi|đề}}
 {{trans-bottom}}
 
 {{trans-top|of text, etc., to be interpreted or read in a particular way}}
 * Basque: {{tt|eu|atzeman}}
-* Bulgarian: {{tt+|bg|тълкувам}}
+* Bulgarian: {{tt+|bg|тълку́вам|impf}}
 * Catalan: {{tt|ca|llegir-se}}
 * Czech: {{t-check|cs|[[číst]] se}}
 * Dutch: {{tt|nl|gelezen worden}}
@@ -488,9 +497,10 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 * Indonesian: {{tt+|id|dibaca}}
 * Italian: {{tt|it|leggersi}}
 * Latin: {{tt+|la|legor}}
-* Polish: {{tt|pl|czytać się}}
+* Polish: {{tt+|pl|czytać|impf|alt=czytać się}}
 * Portuguese: {{tt|pt|ler-se}}
 * Romanian: {{tt|ro|a fi citit}}, {{tt|ro|a fi lecturat}}
+* Russian: {{tt+|ru|толкова́ть|impf}}
 * Spanish: {{tt|es|leerse}}, {{tt|es|interpertase}}, {{tt+|es|entenderse}}
 * Vietnamese: {{tt+|vi|viết}}, {{tt+|vi|ghi}}
 {{trans-bottom}}
@@ -504,7 +514,7 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 {{trans-bottom}}
 
 {{trans-top|to be able to hear (in a radio connection)}}
-* Bulgarian: {{tt+|bg|чу́вам}}
+* Bulgarian: {{tt+|bg|чу́вам|impf}}
 * Catalan: {{tt+|ca|sentir}}
 * Dutch: {{tt+|nl|ontvangen}}, {{tt+|nl|horen}}
 * Estonian: {{tt+|et|kuulma}}
@@ -516,7 +526,8 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 * Italian: {{tt+|it|ricevere}}
 * Kurdish:
 *: Northern Kurdish: {{tt+|kmr|bîstin}}, {{tt+|kmr|bihîstin}}
-* Norwegian: {{tt+|no|forstå}}, {{tt+|no|høre}}, {{tt+|no|oppfatte}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|forstå}}, {{tt+|nb|høre}}, {{tt+|nb|oppfatte}}
 * Portuguese: {{tt+|pt|copiar}}
 * Swedish: {{tt+|sv|förstå}}, {{tt+|sv|höra}}, {{tt+|sv|uppfatta}}
 {{trans-bottom}}
@@ -540,7 +551,8 @@ Unlike the much less common {{m|en|sic pro}} which is set off in brackets, admon
 * Latin: {{tt|la|studere}}
 * Malayalam: {{tt+|ml|പഠിക്കുക}}
 * Nahuatl: {{tt+|nah|machtia}}
-* Norwegian: {{tt+|no|studere}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|studere}}
 * Polish: {{tt+|pl|czytać}}, {{tt+|pl|studiować}}
 * Portuguese: {{tt+|pt|estudar}}
 * Russian: {{tt+|ru|изуча́ть}}
