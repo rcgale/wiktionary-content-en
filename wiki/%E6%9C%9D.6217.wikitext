@@ -274,7 +274,7 @@ While ''asa'' and ''ashita'' represent the same time period, ''asa'' was associa
 ===Etymology 3===
 {{etymid|ja|chō}}
 {{ja-kanjitab|yomi=o|ちょう}}
-{{IPAchar|/teu/}} → {{IPAchar|/t͡ɕeu/}} → {{IPAchar|/t͡ɕoː/}}
+{{IPAchar-lite|/teu/}} → {{IPAchar-lite|/t͡ɕeu/}} → {{IPAchar-lite|/t͡ɕoː/}}
 
 The “morning” and “Korea” senses are from {{der|ja|ltc|sort=ちよう|-}} {{ltc-l|朝|id=1}}.
 
@@ -392,12 +392,12 @@ From {{der|ko|ltc|-}} {{ltc-l|朝|id=1}}.
 # {{hanja form of-lite|조|[[Joseon]]}}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ko-l|^조선|朝鮮}}
-* {{ko-l|조식|朝食}}
-* {{ko-l|조석|朝夕}}
-* {{ko-l|조례|朝禮}}
-{{der-bottom}}
+{{der-top|Compounds}}{{ko-l/multi|data=
+* {{ko-l/args|^조선|朝鮮}}
+* {{ko-l/args|조식|朝食}}
+* {{ko-l/args|조석|朝夕}}
+* {{ko-l/args|조례|朝禮}}
+}}{{der-bottom}}
 
 ===Etymology 2===
 From {{der|ko|ltc|-}} {{ltc-l|朝|id=2}}.
@@ -417,10 +417,10 @@ From {{der|ko|ltc|-}} {{ltc-l|朝|id=2}}.
 # {{hanja form of-lite|조|[[dynasty]]; [[imperial]] [[court]]}}
 
 ====Compounds====
-{{der-top|Compounds}}
-* {{ko-l|왕조|王朝}}
-* {{ko-l|조정|朝廷}}
-{{der-bottom}}
+{{der-top|Compounds}}{{ko-l/multi|data=
+* {{ko-l/args|왕조|王朝}}
+* {{ko-l/args|조정|朝廷}}
+}}{{der-bottom}}
 
 ===References===
 * {{R:hanjadoc|4783}}
@@ -443,13 +443,13 @@ From {{der|ko|ltc|-}} {{ltc-l|朝|id=2}}.
 ==Old Japanese==
 
 ===Compounds===
-* {{m|ojp|朝臣|tr=aso<sub>2</sub>mi<sub>1</sub>}}, {{m|ojp|朝臣|tr=aso<sub>2</sub>}}
-* {{m|ojp|朝庭|tr=mi<sub>1</sub>kado<sub>1</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝臣|tr=aso<sub>2</sub>mi<sub>1</sub>}}, {{m-lite|ojp|sc=Jpan|朝臣|tr=aso<sub>2</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝庭|tr=mi<sub>1</sub>kado<sub>1</sub>}}
 
 ===Etymology 1===
 From {{inh|ojp|jpx-pro|sort=あさ|*asa}}.
 
-The ''as-'' stem refers to “the morning” or “[[after]] the [[dawn]]”, possibly cognate with or an [[apophony|apophonic]] form of {{m|ojp|明日|tr=asu||[[tomorrow]]}}.
+The ''as-'' stem refers to “the morning” or “[[after]] the [[dawn]]”, possibly cognate with or an [[apophony|apophonic]] form of {{m-lite|ojp|sc=Jpan|明日||tr=asu|[[tomorrow]]}}.
 
 ====Noun====
 {{head|ojp|noun|tr=asa|kana|あさ|sort=あさ}}
@@ -462,42 +462,42 @@ The ''as-'' stem refers to “the morning” or “[[after]] the [[dawn]]”, po
 
 =====Derived terms=====
 {{der-top4}}
-* {{m|ojp|朝寢|tr=asai}}
-* {{m|ojp|朝影|tr=asakage<sub>2</sub>}}
-* {{m|ojp|朝柏|tr=asakasipa}}
-* {{m|ojp|朝霞|tr=asakasumi<sub>1</sub>}}
-* {{m|ojp|朝風|tr=asakaze}}
-* {{m|ojp|朝川|tr=asakapa}}
-* {{m|ojp|朝顏|tr=asagapo}}
-* {{m|ojp|朝髮の|tr=asakami<sub>1</sub> no<sub>2</sub>}}
-* {{m|ojp|朝烏|tr=asagarasu}}
-* {{m|ojp|朝狩り|tr=asagari}}
-* {{m|ojp|朝霧|tr=asagi<sub>2</sub>ri}}
-* {{m|ojp|朝雲|tr=asakumo}}
-* {{m|ojp|朝明け|tr=asake<sub>2</sub>}}
-* {{m|ojp|朝東風|tr=*asago<sub>2</sub>ti}}
-* {{m|ojp|朝毎|tr=asago<sub>2</sub>to<sub>2</sub>}}
-* {{m|ojp|朝去らず|tr=asa sarazu}}
-* {{m|ojp|朝霜|tr=asasimo}}
-* {{m|ojp|朝立つ|tr=asatatu}}
-* {{m|ojp|朝月の|tr=asaduki<sub>2</sub> no<sub>2</sub>}}
-* {{m|ojp|朝月夜|tr=asadukuyo<sub>1</sub>}}
-* {{m|ojp|朝妻|tr=asaduma}}
-* {{m|ojp|朝露|tr=asatuyu}}
-* {{m|ojp|朝戸|tr=asato<sub>1</sub>}}
-* {{m|ojp|朝床|tr=asado<sub>2</sub>ko<sub>2</sub>}}
-* {{m|ojp|朝鳥の|tr=asato<sub>2</sub>ri no<sub>2</sub>}}
-* {{m|ojp|朝菜|tr=asana}}
-* {{m|ojp|朝凪|tr=asanagi<sub>1</sub>}}
-* {{m|ojp|朝な朝な|tr=asa na 'sa na}}
-* {{m|ojp|朝に日に|tr=asa ni ke<sub>2</sub> ni}}
-* {{m|ojp|朝寢髪|tr=asanegami<sub>1</sub>}}
-* {{m|ojp|朝羽振る|tr=asapapuru}}
-* {{m|ojp|朝日|tr=asapi<sub>1</sub>}}
-* {{m|ojp|朝開き|tr=asabi<sub>1</sub>raki<sub>1</sub>}}
-* {{m|ojp|朝宮|tr=asami<sub>1</sub>ya}}
-* {{m|ojp|朝宵|tr=asayo<sub>2</sub>pi<sub>1</sub>}}
-* {{m|ojp|今朝|tr=ke<sub>1</sub>sa}}
+* {{m-lite|ojp|sc=Jpan|朝寢|tr=asai}}
+* {{m-lite|ojp|sc=Jpan|朝影|tr=asakage<sub>2</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝柏|tr=asakasipa}}
+* {{m-lite|ojp|sc=Jpan|朝霞|tr=asakasumi<sub>1</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝風|tr=asakaze}}
+* {{m-lite|ojp|sc=Jpan|朝川|tr=asakapa}}
+* {{m-lite|ojp|sc=Jpan|朝顏|tr=asagapo}}
+* {{m-lite|ojp|sc=Jpan|朝髮の|tr=asakami<sub>1</sub> no<sub>2</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝烏|tr=asagarasu}}
+* {{m-lite|ojp|sc=Jpan|朝狩り|tr=asagari}}
+* {{m-lite|ojp|sc=Jpan|朝霧|tr=asagi<sub>2</sub>ri}}
+* {{m-lite|ojp|sc=Jpan|朝雲|tr=asakumo}}
+* {{m-lite|ojp|sc=Jpan|朝明け|tr=asake<sub>2</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝東風|tr=*asago<sub>2</sub>ti}}
+* {{m-lite|ojp|sc=Jpan|朝毎|tr=asago<sub>2</sub>to<sub>2</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝去らず|tr=asa sarazu}}
+* {{m-lite|ojp|sc=Jpan|朝霜|tr=asasimo}}
+* {{m-lite|ojp|sc=Jpan|朝立つ|tr=asatatu}}
+* {{m-lite|ojp|sc=Jpan|朝月の|tr=asaduki<sub>2</sub> no<sub>2</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝月夜|tr=asadukuyo<sub>1</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝妻|tr=asaduma}}
+* {{m-lite|ojp|sc=Jpan|朝露|tr=asatuyu}}
+* {{m-lite|ojp|sc=Jpan|朝戸|tr=asato<sub>1</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝床|tr=asado<sub>2</sub>ko<sub>2</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝鳥の|tr=asato<sub>2</sub>ri no<sub>2</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝菜|tr=asana}}
+* {{m-lite|ojp|sc=Jpan|朝凪|tr=asanagi<sub>1</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝な朝な|tr=asa na 'sa na}}
+* {{m-lite|ojp|sc=Jpan|朝に日に|tr=asa ni ke<sub>2</sub> ni}}
+* {{m-lite|ojp|sc=Jpan|朝寢髪|tr=asanegami<sub>1</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝羽振る|tr=asapapuru}}
+* {{m-lite|ojp|sc=Jpan|朝日|tr=asapi<sub>1</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝開き|tr=asabi<sub>1</sub>raki<sub>1</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝宮|tr=asami<sub>1</sub>ya}}
+* {{m-lite|ojp|sc=Jpan|朝宵|tr=asayo<sub>2</sub>pi<sub>1</sub>}}
+* {{m-lite|ojp|sc=Jpan|今朝|tr=ke<sub>1</sub>sa}}
 {{der-bottom}}
 
 =====Descendants=====
@@ -516,7 +516,7 @@ Possibly from {{com|ojp|sort=あした||alt1=朝|tr1=asa|t1=[[morning]]|pos1=see
 {{seeCites|ojp}}
 
 =====Derived terms=====
-* {{m|ojp|朝夕へ|tr=asitayupupe<sub>1</sub>}}
+* {{m-lite|ojp|sc=Jpan|朝夕へ|tr=asitayupupe<sub>1</sub>}}
 
 =====Descendants=====
 * {{desc|ja|[[朝]], [[明日]]|tr=ashita}}
