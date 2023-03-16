@@ -24,7 +24,7 @@
 {{Han compound|穴|工|c1=s|c2=p|t1=cave, hole|ls=psc}}.
 
 ===Etymology===
-From {{inh|zh|sit-pro|*(g/k)uŋ||hole; orifice; inner part}}. {{och-l|孔|hole}} is probably the endoactive derivation of {{och-l|空|id=1|hollow; empty}} ({{zh-ref|Schuessler, 2007}}). Cognate with {{cog|bo|ཁུང||hole}}, {{cog|kac|ladi '''hku'''||nostril}}, {{cog|cdm|घाङ्‌|tr=gʰaŋ|t=hole}}, {{cog|my|အခေါင်||hollow place; cavity}}, {{cog|nxq|ko³³||cave; hole; pit}} (STEDT).
+From {{inh-lite|zh|sit-pro|*(g/k)uŋ||hole; orifice; inner part}}. {{och-l|孔|gloss=hole}} is probably the endoactive derivation of {{och-l|空|id=1|gloss=hollow; empty}} ({{zh-ref|Schuessler, 2007}}). Cognate with {{cog|bo|ཁུང||hole}}, {{cog-lite|kac|ladi hku|ladi '''hku'''|nostril}}, {{cog|cdm|घाङ्‌|tr=gʰaŋ|t=hole}}, {{cog|my|အခေါင်||hollow place; cavity}}, {{cog|nxq|ko³³||cave; hole; pit}} (STEDT).
 
 ===Pronunciation 1===
 {{zh-pron
@@ -79,10 +79,10 @@ From {{inh|zh|sit-pro|*(g/k)uŋ||hole; orifice; inner part}}. {{och-l|孔|hole}}
 # {{lb|zh|Min Nan|Taiwanese Hakka}} [[hole]]; [[cavity]]
 
 =====Synonyms=====
-* {{sense|empty}} {{q|Cantonese|euphemistic}} {{zh-l|吉|tr=gat<sup>1</sup>}}
-* {{sense|hungry}}
+* {{sense-lite|empty}} {{q-lite|Cantonese|euphemistic}} {{zh-l|吉|tr=gat<sup>1</sup>}}
+* {{sense-lite|hungry}}
 {{zh-dial|餓}}
-* {{sense|hole}}
+* {{sense-lite|hole}}
 {{zh-dial|孔}}
 
 ====Compounds====
@@ -129,11 +129,11 @@ From {{inh|zh|sit-pro|*(g/k)uŋ||hole; orifice; inner part}}. {{och-l|孔|hole}}
 # {{lb|zh|Min Nan}} [[zero]]
 
 =====Synonyms=====
-* {{sense|zero}}
+* {{sense-lite|zero}}
 {{zh-dial|零}}
-* {{sense|spare time}}
+* {{sense-lite|spare time}}
 {{zh-syn-saurus|閒暇}}
-* {{sense|empty}} {{q|Cantonese}} {{zh-l|*吉}}
+* {{sense-lite|empty}} {{q-lite|Cantonese}} {{zh-l|*吉}}
 
 ====Compounds====
 {{zh-der|hide_pron=1|不得空|偷空|做空頭/做空头|填空|屢空/屡空|得空|抄空兒/抄空儿|抽空|拖空子|拿空子|捉空|攙空/搀空|支空頭/支空头|有空|沒得空兒/没得空儿|沒空/没空|法定空地|瞅空兒/瞅空儿|空乏|空位|空便|空古絕今/空古绝今|空地|空地稅/空地税|空子|空心|空房|空暇|空格兒/空格儿|空檔/空档|空當兒/空当儿|空當子/空当子|空白|空白點/空白点|空缺|空肚兒/空肚儿|空閒/空闲|空隙|空頭/空头|空頭支票/空头支票|空頭敕/空头敕|空頭禍/空头祸|空額/空额|簞瓢屢空/箪瓢屡空|背空子|覷空/觑空|趁空|趕空兒/赶空儿|鑽空子/钻空子|閒空/闲空}}
@@ -150,7 +150,7 @@ From {{inh|zh|sit-pro|*(g/k)uŋ||hole; orifice; inner part}}. {{och-l|孔|hole}}
 ====Definitions====
 {{zh-hanzi}}
 
-# {{†}} {{zh-alt-form|孔|[[hole]]; [[cave]]; [[mouth]]}}
+# {{†}} {{zh-alt-form|孔|gloss=[[hole]]; [[cave]]; [[mouth]]}}
 
 ===Descendants===
 {{CJKV||くう|공|không}}
@@ -181,9 +181,9 @@ From {{inh|zh|sit-pro|*(g/k)uŋ||hole; orifice; inner part}}. {{och-l|孔|hole}}
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=k|そら|alt=虚}}
-{{IPAfont|⟨so<sub>1</sub>ra⟩}} → *{{IPAchar|/sʷora/}} → {{IPAchar|/sora/}}
+{{IPAfont|⟨so<sub>1</sub>ra⟩}} → *{{IPAchar-lite|/sʷora/}} → {{IPAchar-lite|/sora/}}
 
-From {{inh|ja|ojp|sort=そら|-}}, apparently from {{inh|ja|jpx-pro|sort=そら|*sora}}.
+From {{inh-lite|ja|ojp|sort=そら|-}}, apparently from {{inh-lite|ja|jpx-pro|sort=そら|*sora}}.
 
 Found in the ''{{w|Kojiki}}'' c. 712 CE.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
@@ -240,7 +240,7 @@ Cognate with {{m|ja|殻|tr=kara||[[shell]]}}.<ref name="KDJ">{{R:Kokugo Dai Jite
 ===Etymology 3===
 {{ja-kanjitab|くう|yomi=goon}}
 
-From {{der|ja|ltc|sort=くう|-}} {{ltc-l|空}}.
+From {{der-lite|ja|ltc|sort=くう|-}} {{ltc-l|空}}.
 
 The Buddhist senses are a translation of {{der|ja|sa|sort=くう|शून्यता}}.
 
@@ -308,9 +308,9 @@ From {{der|ko|ltc|sort=공|-}} {{ltc-l|空}}.
 {{ko-hanja-search}}
 {{ko-hanja|비다|빌|공}}
 
-# {{hanja form of|공|[[empty]]; [[void]]}}
-# {{hanja form of|공|[[sky]]; [[air]]}}
-# {{hanja form of|공|[[zero]]}}
+# {{hanja form of-lite|공|[[empty]]; [[void]]}}
+# {{hanja form of-lite|공|[[sky]]; [[air]]}}
+# {{hanja form of-lite|공|[[zero]]}}
 
 ====Compounds====
 {{der-top3|Compounds}}{{ko-l/multi|data=
@@ -391,7 +391,7 @@ Borrowed from {{bor|ryu|ja|空|tr=sora}} (or more exactly, an earlier form of it
 As remarked by Igarashi (2022)<ref>Igarashi, Yosuke. "[https://www.degruyter.com/document/doi/10.1515/opli-2022-0193/html Reconstruction of Ryukyuan tone classes of Middle Japanese Class 2.4 and 2.5 nouns]".</ref>, the inherited meaning of this term in Ryukyuan languages is not "sky", but "treetop".
 
 ===Pronunciation===
-* {{IPA|ryu|/suɾa/|sort=すら}}
+* {{IPA-lite|ryu|/suɾa/|sort=すら}}
 
 ===Noun===
 {{ryu-noun|すら}}
@@ -412,9 +412,9 @@ As remarked by Igarashi (2022)<ref>Igarashi, Yosuke. "[https://www.degruyter.com
 |nom=không-tdcndg;tdcntd;gdhn;bonet;genibrel;taberd, khung-tdcndg;tdcntd;gdhn, khỏng-gdhn;btcn;taberd, khong-tdcndg, cung-gdhn, khống-bonet
 }}
 
-# {{chu han form of|không|[[empty]]; [[void]]}}
-# {{chu han form of|không|[[air]]; [[sky]]}}
-# {{chu han form of|không|[[zero]]; [[none]]}}
+# {{chu Han form of-lite|không|[[empty]]; [[void]]}}
+# {{chu Han form of-lite|không|[[air]]; [[sky]]}}
+# {{chu Han form of-lite|không|[[zero]]; [[none]]}}
 
 ====Compounds====
 {{der-top3|Compounds}}
