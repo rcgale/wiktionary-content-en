@@ -139,7 +139,7 @@ Cognate with {{cog|dum|gumpen||to jump}}, {{cog|nds|jumpen||to jump}}, {{cog|gmh
 * Chinese:
 *: Cantonese: {{t|yue|跳|tr=tiu3}}
 *: Mandarin: {{t+|cmn|跳|tr=tiào}}, {{t+|cmn|蹦跳|tr=bèngtiào}}, {{t+|cmn|蹦|tr=bèng}}
-* Czech: {{t+|cs|skočit|pf}}, {{t+|cs|skákat|impf}}
+* Czech: {{t+|cs|skákat|impf}}, {{t+|cs|skočit|pf}}
 * Dalmatian: {{t|dlm|satur}}
 * Danish: {{t+|da|springe}}, {{t+|da|hoppe}}
 * Dutch: {{t+|nl|springen}}, {{t+|nl|opspringen}}
@@ -169,7 +169,7 @@ Cognate with {{cog|dum|gumpen||to jump}}, {{cog|nds|jumpen||to jump}}, {{cog|gmh
 * Japanese: {{t+|ja|跳ぶ|tr=とぶ, tobu}}, {{t+|ja|ジャンプ|tr=janpu suru|alt=ジャンプする}}
 * Javanese: {{t+|jv|mlumpat}}
 * Kazakh: {{t+|kk|секіру}}
-* Khmer: {{t+|km|លោត|tr=loot|sc=Khmr}}
+* Khmer: {{t+|km|លោត}}
 * Korean: {{t+|ko|뛰다}}, {{t|ko|점프하다}}
 * Kyrgyz: {{t+|ky|секирүү}}
 * Lao: {{t|lo|ໂດດ}}, {{t|lo|ກະໂດດ}}
@@ -179,22 +179,24 @@ Cognate with {{cog|dum|gumpen||to jump}}, {{cog|nds|jumpen||to jump}}, {{cog|gmh
 * Lithuanian: {{t+|lt|šokti}}, {{t|lt|šokinėti}}
 * Lombard: {{t+|lmo|saltà}}
 * Luxembourgish: {{t|lb|sprangen}}
-* Macedonian: {{t|mk|ско́ка}}, {{t|mk|скокне}}
+* Macedonian: {{t|mk|ско́ка|impf}}, {{t|mk|ско́кне|pf}}
 * Malay: {{t+|ms|melompat}}
 * Malayalam: {{t+|ml|ചാടുക}}
 * Maltese: {{t|mt|qabeż}}
 * Maori: {{t|mi|panau}} {{qualifier|of a fish out of water}}, {{t|mi|oma}}
-* Mongolian: {{t+|mn|харайх}}, {{t+|mn|үсрэх}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|харайх}}, {{t+|mn|үсрэх}}
 * Neapolitan: {{t|nap|zumpà}}
 * Norman: {{t|nrf|sauter}} {{qualifier|Jersey}}
 * Northern Sami: {{t|se|njuiket}}
-* Norwegian: {{t+|no|hoppe}}
+* Norwegian:
+*: Bokmål: {{t+|nb|hoppe}}
 * Occitan: {{t+|oc|sautar}}
 * Old English: {{t|ang|hlēapan}}
 * Oromo: {{t|om|utaaluu}}
 * Persian: {{t+|fa|پریدن|tr=paridan}}, {{t+|fa|جهیدن|tr=jahidan}}, {{t+|fa|جستن|tr=jastan}}
 * Piedmontese: {{t|pms|sauté}}
-* Polish: {{t+|pl|skakać}}, {{t+|pl|skoczyć}}
+* Polish: {{t+|pl|skakać|impf}}, {{t+|pl|skoczyć|pf}}
 * Portuguese: {{t+|pt|saltar}}, {{t+|pt|pular}}
 * Quechua: {{t+|qu|tusuy}}
 * Romanian: {{t+|ro|sări}}, {{t+|ro|sălta}}
@@ -204,15 +206,15 @@ Cognate with {{cog|dum|gumpen||to jump}}, {{cog|nds|jumpen||to jump}}, {{cog|gmh
 * Sardinian: {{t|sc|saltai}}, {{t|sc|saltare}}, {{t|sc|sartare}}
 * Scottish Gaelic: {{t|gd|leum}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|скочити|pf|sc=Cyrl}}, {{t|sh|скакати|impf|sc=Cyrl}}
-*: Roman: {{t+|sh|skočiti|pf}}, {{t+|sh|skakati|impf}}
+*: Cyrillic: {{t|sh|ска́кати|impf}}, {{t|sh|ско̀чити|pf}}
+*: Roman: {{t+|sh|skákati|impf}}, {{t+|sh|skòčiti|pf}}
 * Sicilian: {{t+|scn|satari}}, {{t+|scn|sautari}}
-* Slovak: {{t|sk|skočiť|pf}}
-* Slovene: {{t|sl|skočiti|pf}}
+* Slovak: {{t|sk|skákať|impf}}, {{t|sk|skočiť|pf}}
+* Slovene: {{t|sl|skakati|impf}}, {{t|sl|skočiti|pf}}
 * Somali: {{t|so|boodid}}
 * Sorbian:
-*: Lower Sorbian: {{t|dsb|skócyś|pf}}, {{t|dsb|skokaś|impf}}
-*: Upper Sorbian: {{t|hsb|skočić|pf}}, {{t+|hsb|skakać|impf}}
+*: Lower Sorbian: {{t|dsb|skokaś|impf}}, {{t|dsb|skócyś|pf}}
+*: Upper Sorbian: {{t+|hsb|skakać|impf}}, {{t|hsb|skočić|pf}}
 * Spanish: {{t+|es|saltar}}, {{t+|es|brincar}}
 * Sranan Tongo: {{t|srn|dyompo}}
 * Swedish: {{t+|sv|hoppa}}
@@ -223,8 +225,8 @@ Cognate with {{cog|dum|gumpen||to jump}}, {{cog|nds|jumpen||to jump}}, {{cog|gmh
 * Tibetan: {{t-needed|bo}}
 * Turkish: {{t+|tr|zıplamak}}, {{t+|tr|sekmek}}
 * Turkmen: {{t+|tk|bökmek}}
-* Ukrainian: {{t|uk|стриба́ти|impf}}, {{t|uk|скака́ти|impf}}
-* Urdu: {{t|ur|کودنا|tr=kūdnā}}
+* Ukrainian: {{t|uk|стриба́ти|impf}}, {{t|uk|стрибну́ти|impf}}, {{t|uk|скака́ти|impf}}, {{t|uk|скакну́ти|pf}}
+* Urdu: {{t|ur|کُودْنا|tr=kūdnā}}
 * Uyghur: {{t-needed|ug}}
 * Uzbek: {{t+|uz|sakramoq}}, {{t+|uz|irgʻimoq}}
 * Venetian: {{t|vec|saltar}}
@@ -241,7 +243,7 @@ Cognate with {{cog|dum|gumpen||to jump}}, {{cog|nds|jumpen||to jump}}, {{cog|gmh
 * Chickasaw: {{t|cic|malli}}, {{t|cic|mallittakaali}}
 * Chinese:
 *: Mandarin: {{t+|cmn|跳|tr=tiào}}
-* Czech: {{t+|cs|skočit}}, {{t+|cs|skákat}}
+* Czech: {{t+|cs|skákat|impf}}, {{t+|cs|skočit|pf}}
 * Danish: {{t+|da|springe}}, {{t+|da|hoppe}}
 * Dutch: {{t+|nl|springen}}
 * Finnish: {{qualifier|[[alas]]}} {{t+|fi|hypätä}}
@@ -250,24 +252,27 @@ Cognate with {{cog|dum|gumpen||to jump}}, {{cog|nds|jumpen||to jump}}, {{cog|gmh
 * Georgian: {{t|ka|ჩახტომა}}
 * German: {{t+|de|springen}}
 * Greek: {{t+|el|πηδάω}}, {{t+|el|σαλτάρω}}
-* Hebrew: {{t+|he|קפץ|tr=kafáts}}
+* Hebrew: {{t+|he|קָפַץ|tr=kafáts}}
 * Italian: {{t+|it|saltare}}
 * Japanese: {{t|ja|飛び降りる|tr=とびおりる, tobioriru}}
-* Macedonian: {{t|mk|скока}}
-* Mongolian: {{t+|mn|үсрэх}}, {{t+|mn|дэвхрэх}}
+* Macedonian: {{t|mk|ско́ка|impf}}, {{t|mk|ско́кне|pf}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|үсрэх}}, {{t+|mn|дэвхрэх}}
 * Malayalam: {{t+|ml|ചാടുക}}
 * Norman: {{t|nrf|sauter}} {{qualifier|Jersey}}
-* Norwegian: {{t+|no|hoppe}}
+* Norwegian:
+*: Bokmål: {{t+|nb|hoppe}}
 * Old English: {{t|ang|hlēapan}}
-* Persian: {{t|fa|پایین پریدن|tr=paeyn paridan}}
-* Polish: {{t+|pl|skakać}}, {{t+|pl|skoczyć}}
+* Persian: {{t|fa|پایین پریدن|tr=pâyin paridan}}
+* Polish: {{t+|pl|skakać|impf}}, {{t+|pl|skoczyć|impf}}
 * Portuguese: {{t+|pt|saltar}}, {{t+|pt|pular}}
 * Romanian: {{t+|ro|sări}}, {{t+|ro|sălta}}
-* Russian: {{t+|ru|пры́гать|impf}}, {{t+|ru|пры́гнуть|pf}}, {{t+|ru|спрыгивать|impf}}, {{t+|ru|спрыгнуть|pf}}
+* Russian: {{t+|ru|пры́гать|impf}}, {{t+|ru|пры́гнуть|pf}}, {{t+|ru|спры́гивать|impf}}, {{t+|ru|спры́гнуть|pf}}
 * Scottish Gaelic: {{t|gd|leum}}
-* Slovene: {{t|sl|skočiti}}
+* Slovene: {{t|sl|skakati|impf}}, {{t|sl|skočiti|pf}}
 * Sorbian:
-*: Lower Sorbian: {{t|dsb|skócyś|pf}}, {{t|dsb|skokaś|impf}}
+*: Lower Sorbian: {{t|dsb|skokaś|impf}}, {{t|dsb|skócyś|pf}}
+*: Upper Sorbian: {{t+|hsb|skakać|impf}}, {{t|hsb|skočić|pf}}
 * Spanish: {{t+|es|saltar}}
 * Swedish: {{t+|sv|hoppa}}
 * Thai: {{t+|th|กระโดด}}, {{t+|th|โดด}}
@@ -276,7 +281,7 @@ Cognate with {{cog|dum|gumpen||to jump}}, {{cog|nds|jumpen||to jump}}, {{cog|gmh
 
 {{trans-top|employ a parachute to leave an aircraft or elevated location}}
 * Basque: {{t+|eu|jauzi egin}}, {{t+|eu|salto egin}}
-* Bulgarian: {{t+|bg|скачам}}
+* Bulgarian: {{t+|bg|ска́чам|impf}}, {{t|bg|ско́ча|pf}}
 * Catalan: {{t+|ca|saltar}}
 * Danish: {{t+|da|springe}}
 * Dutch: {{qualifier|parachutespringen}} {{t+|nl|springen}}
@@ -285,25 +290,26 @@ Cognate with {{cog|dum|gumpen||to jump}}, {{cog|nds|jumpen||to jump}}, {{cog|gmh
 * Georgian: {{t|ka|გადახტომა}}
 * German: {{t+|de|springen}}
 * Greek: {{t+|el|πηδάω}}, {{t+|el|σαλτάρω}}
-* Hebrew: {{t+|he|קפץ|m|tr=kafáts}}
+* Hebrew: {{t+|he|קָפַץ|m|tr=kafáts}}
 * Italian: {{t+|it|saltare}}
-* Japanese: (command) {{t+|ja|降下}}！
-* Macedonian: {{t|mk|скока}}
-* Norwegian: {{t+|no|hoppe}}
-* Persian: {{t+|fa|پرش|tr=pareš}}
-* Polish: {{t+|pl|skakać}}, {{t+|pl|skoczyć}}
+* Japanese: {{q|command}} {{t+|ja|降下！|tr=こうか！, kōka!}}
+* Macedonian: {{t|mk|ско́ка|impf}}, {{t|mk|ско́кне|pf}}
+* Norwegian:
+*: Bokmål: {{t+|nb|hoppe}}
+* Persian: {{t+|fa|پریدن|tr=paridan}}
+* Polish: {{t+|pl|skakać|impf}}, {{t+|pl|skoczyć|pf}}
 * Portuguese: {{t+|pt|saltar}}, {{t+|pt|pular}}
 * Romanian: {{t+|ro|sări}}
 * Russian: {{t+|ru|пры́гать|impf}}, {{t+|ru|пры́гнуть|pf}}, {{t+|ru|спрыгивать|impf}}, {{t+|ru|спрыгнуть|pf}}
 * Scottish Gaelic: {{t|gd|leum}}
-* Slovene: {{t|sl|skočiti}}
+* Slovene: {{t|sl|skakati|impf}}, {{t|sl|skočiti|pf}}
 * Spanish: {{t+|es|saltar}}
 * Swedish: {{t+|sv|hoppa}}
 * Thai: {{t+|th|กระโดด}}, {{t+|th|โดด}}
 {{trans-bottom}}
 
 {{trans-top|react to a sudden stimulus by jerking the body violently}}
-* Bulgarian: {{t+|bg|подскачам}}
+* Bulgarian: {{t+|bg|подска́чам|impf}}, {{t|bg|подско́ча|pf}}
 * Catalan: {{t+|ca|sobresaltar}}
 * Chickasaw: {{t|cic|mallittakaali}}
 * Danish: {{t|da|spjætte}}, {{t|da|fare sammen}}
@@ -313,52 +319,55 @@ Cognate with {{cog|dum|gumpen||to jump}}, {{cog|nds|jumpen||to jump}}, {{cog|gmh
 * Galician: {{t|gl|espuliñar}}, {{t|gl|atoutar}}, {{t|gl|atorar}}, {{t|gl|atortar}}, {{t|gl|trafugar}}
 * Georgian: {{t|ka|ახტომა}}, {{t|ka|შეკრთომა}}
 * German: {{t+|de|zucken}}
-* Hebrew: {{t+|he|קפץ|tr=kafáts}}
-* Macedonian: {{t|mk|скокнува}}
+* Hebrew: {{t+|he|קָפַץ|tr=kafáts}}
+* Macedonian: {{t|mk|ско́кнува|impf}}, {{t|mk|ско́кне|pf}}
 * Malayalam: {{t|ml|പേടിച്ച് ചാടുക}}, {{t+|ml|തുള്ളുക}}
-* Norwegian: {{t|no|skvette}}
-* Polish: {{t+|pl|podskoczyć}}
+* Norwegian:
+*: Bokmål: {{t|nb|skvette}}
+* Polish: {{t+|pl|podskakiwać|impf}}, {{t+|pl|podskoczyć|pf}}
 * Portuguese: {{t|pt|sobressaltar}}
 * Romanian: {{t+|ro|tresări}}
 * Russian: {{t+|ru|вска́кивать|impf}}, {{t+|ru|вскочи́ть|pf}}, {{t+|ru|подпры́гивать|impf}}, {{t+|ru|подпрыгнуть|pf}}, {{t+|ru|вздра́гивать|impf}}, {{t+|ru|вздро́гнуть|pf}}
 * Scottish Gaelic: {{t|gd|leum}}
-* Slovene: {{t|sl|skočiti}}, {{t|sl|poskočiti}}
+* Slovene: {{t|sl|skakati|impf}}, {{t|sl|skočiti|pf}}, {{t|sl|poskakovati|impf}}, {{t|sl|poskočiti|pf}}
 * Swedish: {{t+|sv|hoppa till}}, {{t+|sv|hoppa}}
 {{trans-bottom}}
 
 {{trans-top|employ a move in certain board games in which one piece moves over another}}
 * Basque: {{t+|eu|jauzi egin}}, {{t+|eu|salto egin}}
-* Bulgarian: {{t+|bg|прескачам}}
+* Bulgarian: {{t+|bg|преска́чам|impf}}, {{t|bg|преско́ча|pf}}
 * Catalan: {{t+|ca|saltar}}
 * Danish: {{t+|da|springe}}
 * Dutch: {{t+|nl|springen}}, {{t+|nl|zetten}}
 * Finnish: {{t+|fi|hypätä}}
 * Galician: {{t|gl|rebrincar}}, {{t|gl|salvar}}, {{t|gl|resbar}}, {{t|gl|avantuxar}}
 * Italian: {{t+|it|saltare}}
-* Macedonian: {{t|mk|прескокнува}}
-* Norwegian: {{t|no|hoppe over}}
+* Macedonian: {{t|mk|преско́кнува|impf}}, {{t|mk|пре́скокне|pf}}
+* Norwegian:
+*: Bokmål: {{t|nb|hoppe over}}
 * Portuguese: {{t+|pt|saltar}}, {{t+|pt|pular}}
 * Romanian: {{t+|ro|sări}} {{qualifier|peste}}
 * Russian: {{t+|ru|перепры́гивать|impf}}, {{t+|ru|перепры́гнуть|pf}}, {{t+|ru|перескакивать|impf}}, {{t+|ru|перескочить|pf}}
-* Slovene: {{t|sl|preskočiti}}
+* Slovene: {{t|sl|preskakovati|impf}}, {{t|sl|preskočiti|pf}}
 * Swedish: {{t+|sv|hoppa}}, {{t+|sv|hoppa över}}
 {{trans-bottom}}
 
 {{trans-top|move to a position in (a queue/line) that is further forward}}
-* Bulgarian: {{t+|bg|прескачам}}
+* Bulgarian: {{t+|bg|преска́чам|impf}}, {{t|bg|преско́ча|pf}}
 * Catalan: {{t+|ca|saltar}}
 * Danish: {{t|da|springe over}}
 * Dutch: {{t+|nl|voordringen}}
 * Finnish: {{t+|fi|etuilla}}
 * French: {{t+|fr|doubler}}
 * Galician: {{t|gl|avantar}}, {{t|gl|avantuxar}}
-* Hebrew: {{t+|he|קפץ|tr=kafáts}}
+* Hebrew: {{t+|he|קָפַץ|tr=kafáts}}
 * Italian: {{t+|it|saltare}}
 * Japanese: {{t|ja|飛び越す|tr=とびこす, tobikosu}}
-* Macedonian: {{t|mk|прескокнува}}
-* Norwegian: {{t|no|snike}}, {{t|no|gå forbi}}
+* Macedonian: {{t|mk|преско́кнува|impf}}, {{t|mk|пре́скокне|pf}}
+* Norwegian:
+*: Bokmål: {{t|nb|snike}}, {{t|nb|gå forbi}}
 * Portuguese: {{t+|pt|furar}}
-* Slovene: {{t|sl|preskočiti}}
+* Slovene: {{t|sl|preskakovati|impf}}, {{t|sl|preskočiti|pf}}
 * Spanish: {{t+|es|saltar}}
 * Swedish: {{t+|sv|smita före}}, {{t|sv|gå förbi}}
 * Thai: {{t+|th|แซง}}
