@@ -1161,7 +1161,8 @@ From {{bor-lite|vi|mul|sin}}, from {{der-lite|vi|en|sine}}, from {{der-lite|vi|l
 * {{rhymes|cy|iːn|s=1}}
 
 ===Etymology 1===
-From {{bor|en|cy|scene}}, from {{der|cy|frm|scene}}, from {{der|cy|la|scaena}}, {{m|la|scēna}}, from {{der|cy|grc|σκηνή||scene, stage}}, ultimately from {{der|cy|ine-pro|*(s)ḱeh₃ih₂}}. Doublet of {{l|cy|cysgod|t=shade, shadow}}.
+{{root|cy|(s)ḱeh₃-}}
+From {{bor|en|cy|scene}}, from {{der|cy|frm|scene}}, from {{der|cy|la|scaena}}, {{m|la|scēna}}, from {{der|cy|grc|σκηνή||scene, stage}}, ultimately from {{der|cy|ine-pro|*(s)ḱeh₃ih₂}}, from {{der|cy|ine-pro|*(s)ḱeh₃-||darkness, shadow}}. {{doublet|cy|cysgod|t1=shade, shadow}}.
 
 ====Noun====
 {{cy-noun|f|sinau}}
@@ -1170,20 +1171,26 @@ From {{bor|en|cy|scene}}, from {{der|cy|frm|scene}}, from {{der|cy|la|scaena}}, 
 #: {{uxi|cy|y '''sin''' bop Gymraeg|the Welsh-language pop '''scene'''}}
 
 ===Etymology 2===
-{{bor+|cy|en|sine}}.
+From {{bor|cy|en|sine}}, from {{der|cy|la|sinus||curve, bend; bosom}}, a translation of {{der|cy|ar|جَيْب||bosom}}, from {{der|cy|sa|ज्या||sine, chord, bowstring}} through {{der|cy|sa|जीव||sine, chord, life, existence}}. {{doublet|en|sinws|t1=sinus}}.
 
 ====Noun====
 {{cy-noun|m|sinau}}
 
-# [[sine]]
+# {{lb|cy|trigonometry|mathematics}} [[sine]]
 
 ===Etymology 3===
-From {{bor-lite|cy|enm|sine}}, from {{der-lite|cy|fro|signe}}.
+{{root|cy|ine-pro|*sek-}}
+From {{bor|cy|enm|sine}}, from {{der|cy|fro|signe}}, from {{der|cy|la|signum}}, ultimatedly from {{der|cy|ine-pro|*sek-||to cut}} or {{m|ine-pro|*sekʷ-||to follow}}; {{doublet|cy|hesg|t1=sedges, rushes}} if the former, {{doublet|cy|chwedl|t1=tale|ateb|t2=to answer|gohebu|t3=to correspond}} if the latter.
 
 ====Noun====
 {{cy-noun|m|sinau}}
 
-# [[sign]], [[symbol]], [[emblem]]
+# {{lb|cy|obsolete}} [[sign]]
+#: {{syn|cy|arwydd}}
+# {{lb|cy|obsolete}} [[symbol]]
+#: {{syn|cy|symbol}}
+# {{lb|cy|obsolete}} [[emblem]]
+#: {{syn|cy|arwyddlun}}
 
 ===References===
 * {{R:cy:GPC|sin}}
