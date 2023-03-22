@@ -2,11 +2,11 @@
 ==Czech==
 
 ===Alternative forms===
-* {{qualifier|informal}} {{l|cs|bejt}}
+* {{alt|cs|bejt||informal}}
 
 ===Etymology===
 {{dercat|cs|ine-bsl-pro|ine-pro|inh=1}}
-From {{inh|cs|zlw-ocs|býti}}, from {{inh|cs|sla-pro|*byti}}.
+{{inh+|cs|zlw-ocs|býti}}, from {{inh|cs|sla-pro|*byti}}.
 
 ===Pronunciation===
 * {{cs-IPA}}
@@ -21,16 +21,17 @@ From {{inh|cs|zlw-ocs|býti}}, from {{inh|cs|sla-pro|*byti}}.
 # to [[be]]
 #: {{uxi|cs|Ten kabát '''je''' vlhký|The coat '''is''' wet.}}
 # to [[be]] {{gloss|to exist}}
+#: {{syn|cs|existovat}}
 #: {{uxi|cs|[[bylo nebylo]]|[[once upon a time]].}}
-# {{lb|cs|auxiliary}} {{non-gloss definition|Used to form [[past tense]] forms of verbs with [[past participle]]s.}}
+# {{lb|cs|auxiliary}} {{n-g|used to form [[past tense]] forms of verbs with [[past participle]]s}}
 #: {{uxi|cs|Jel '''jsem''' do Prahy.|I went to Prague.}}
-# {{lb|cs|auxiliary}} {{non-gloss definition|Used to form [[future tense]] forms of verbs with [[infinitive]]s.}}
+# {{lb|cs|auxiliary}} {{n-g|used to form [[future tense]] forms of verbs with [[infinitive]]s}}
 #: {{uxi|cs|'''Budu''' ti pomáhat.|I will be helping you.}}
-# {{lb|cs|auxiliary}} {{non-gloss definition|Used to form [[conditional mood]] forms of verbs with [[past participle]]s.}}
+# {{lb|cs|auxiliary}} {{n-g|used to form [[conditional mood]] forms of verbs with [[past participle]]s}}
 #: {{uxi|cs|Já '''bych''' to neudělal.|I would not do it.}}
-# {{lb|cs|auxiliary}} {{non-gloss definition|Used to form [[passive voice]] forms of verbs with [[passive participles]].}}
+# {{lb|cs|auxiliary}} {{n-g|used to form [[passive voice]] forms of verbs with [[passive participles]]}}
 #: {{uxi|cs|'''Jsem''' překvapen.|I am surprised.}}
-# {{lb|cs|auxiliary}} {{non-gloss definition|Used to form [[conditional]] forms of verbs with [[past participles|past]] and [[passive participle]]s.}}
+# {{lb|cs|auxiliary}} {{n-g|used to form [[conditional]] forms of verbs with [[past participles|past]] and [[passive participle]]s}}
 #: {{uxi|cs|'''Byl''' by tam šel, kdyby ho '''byli''' pozvali.|He would have gone there if they had invited him.}}
 
 ====Conjugation====
@@ -49,9 +50,6 @@ From {{inh|cs|zlw-ocs|býti}}, from {{inh|cs|sla-pro|*byti}}.
 |tr2 pres=jsouc
 |tr1 past=byv
 |future=bud}}
-
-====Synonyms====
-* {{sense|to exist}} {{l|cs|existovat}}
 
 ====Antonyms====
 * {{l|cs|nebýt}}
@@ -73,4 +71,4 @@ From {{inh|cs|zlw-ocs|býti}}, from {{inh|cs|sla-pro|*byti}}.
 * {{R:cs-de:Kott|býti|1208|7}}
 * {{R:cs:LF|Slovesa bezpříznaká v dialektech česko-slovenských. 1. Jsem, býti.|373|14|author=[[w:cs:Vavřinec Josef Dušek|Vavřinec Josef Dušek]]}}
 
-[[Category:Czech irregular verbs]]
+{{cln|cs|irregular verbs}}
