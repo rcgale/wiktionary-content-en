@@ -143,10 +143,12 @@ From {{inh|en|ang|port}}, borrowed from {{der|en|la|portus||port, harbour}}, ult
 #: {{ux|en|'''Port''' your helm!}}
 
 =====Translations=====
+{{multitrans|data=
 {{trans-top|to turn or put to the left or larboard side of a ship}}
-* Bulgarian: {{t|bg|завивам наляво}}
-* Maori: {{t|mi|tīrau}}
+* Bulgarian: {{tt|bg|завивам наляво}}
+* Maori: {{tt|mi|tīrau}}
 {{trans-bottom}}
+}}
 
 ===Etymology 2===
 Inherited from the {{inh|en|ang|port}}, from the {{der|en|la|porta||passage, gate}}, reinforced by the {{der|en|fro|porte}}. {{doublet|en|porta}}.
@@ -235,14 +237,16 @@ From {{der|en|fro|porter}}, from {{der|en|la|portāre||carry}}. Akin to {{m-lite
 * {{l|en|at the high port}}
 
 =====Translations=====
+{{multitrans|data=
 {{trans-top|computing: program adapted to work on a different platform; act of adapting}}
-* Finnish: {{t+|fi|sovitus}}, {{t+|fi|sovittaminen}}, {{t|fi|porttaaminen}} {{q|informal}}, {{t|fi|porttaus}} {{q|informal}}
-* Norwegian: {{t|no|porting|m}}
-* Spanish: {{t|es|versión portada}}
-* Swahili: {{t+|sw|mabandari}}
-* Swedish: {{t+|sv|portering|c}}, {{t|sv|portning|c}}
-* Vietnamese: {{t|vi|phiên bản chuyển đổi}}
+* Finnish: {{tt+|fi|sovitus}}, {{tt+|fi|sovittaminen}}, {{tt|fi|porttaaminen}} {{q|informal}}, {{tt|fi|porttaus}} {{q|informal}}
+* Norwegian: {{tt|no|porting|m}}
+* Spanish: {{tt|es|versión portada}}
+* Swahili: {{tt+|sw|mabandari}}
+* Swedish: {{tt+|sv|portering|c}}, {{tt|sv|portning|c}}
+* Vietnamese: {{tt|vi|phiên bản chuyển đổi}}
 {{trans-bottom}}
+}}
 
 ===Etymology 4===
 Named from {{der|en|pt|Porto}}, a city in [[Portugal]] where the wines were originally shipped from.
@@ -257,35 +261,37 @@ Named from {{der|en|pt|Porto}}, a city in [[Portugal]] where the wines were orig
 * {{l|en|porto}}, {{l|en|port wine}}
 
 =====Translations=====
+{{multitrans|data=
 {{trans-top|fortified wine}}
-* Armenian: {{t+|hy|պորտվեյն}}
-* Bulgarian: {{t|bg|портвайн|m}}
+* Armenian: {{tt+|hy|պորտվեյն}}
+* Bulgarian: {{tt|bg|портвайн|m}}
 * Chinese:
-*: Cantonese: {{t|yue|砵酒|tr=but1 zau2}}
-* Czech: {{t|cs|portské|n}}
-* Dutch: {{t+|nl|porto}}, {{t+|nl|port|m}}
-* Estonian: {{t|et|portvein}}
-* Finnish: {{t+|fi|portviini}}
-* French: {{t|fr|vin de Porto|m}}
-* Galician: {{t+|gl|porto|m}}
-* German: {{t+|de|Portwein|m}}
-* Greek: {{t|el|πορτό|n}}, {{q|rare}} {{t|el|οίνος Πορτογαλίας|m}}
-* Hungarian: {{t|hu|portói bor}}, {{t|hu|portói}}
-* Icelandic: {{t|is|púrtvín|n}}, {{t|is|portvín|n}}
-* Irish: {{t|ga|pórt|m}}, {{t|ga|pórtfhíon|m}}
-* Italian: {{t+|it|porto|m}}
-* Japanese: {{t|ja|ポートワイン|tr=pōto wain|sc=Jpan}}, {{t|ja|ポート・ワイン|tr=pōto wain|sc=Jpan}}
-* Korean: {{t|ko|포트 와인}}
-* Maori: {{t|mi|pōta}}
-* Norman: {{t|nrf|vîn d'Porto|m}}
-* Norwegian: {{t+|no|portvin|m}}, {{q|slang}} {{t+|no|port|m}}
-* Polish: {{t+|pl|porto|n}}, {{t+|pl|portwajn|m-in}}
-* Portuguese: {{t+|pt|vinho do Porto|m}}
-* Russian: {{t+|ru|портве́йн|m}}
-* Spanish: {{t|es|vino de Oporto|m}}
-* Swahili: {{t+|sw|mabandari}}
-* Swedish: {{t+|sv|portvin|n}}
+*: Cantonese: {{tt|yue|砵酒|tr=but1 zau2}}
+* Czech: {{tt|cs|portské|n}}
+* Dutch: {{tt+|nl|porto}}, {{tt+|nl|port|m}}
+* Estonian: {{tt|et|portvein}}
+* Finnish: {{tt+|fi|portviini}}
+* French: {{tt|fr|vin de Porto|m}}
+* Galician: {{tt+|gl|porto|m}}
+* German: {{tt+|de|Portwein|m}}
+* Greek: {{tt|el|πορτό|n}}, {{q|rare}} {{tt|el|οίνος Πορτογαλίας|m}}
+* Hungarian: {{tt|hu|portói bor}}, {{tt|hu|portói}}
+* Icelandic: {{tt|is|púrtvín|n}}, {{tt|is|portvín|n}}
+* Irish: {{tt|ga|pórt|m}}, {{tt|ga|pórtfhíon|m}}
+* Italian: {{tt+|it|porto|m}}
+* Japanese: {{tt|ja|ポートワイン|tr=pōto wain|sc=Jpan}}, {{tt|ja|ポート・ワイン|tr=pōto wain|sc=Jpan}}
+* Korean: {{tt|ko|포트 와인}}
+* Maori: {{tt|mi|pōta}}
+* Norman: {{tt|nrf|vîn d'Porto|m}}
+* Norwegian: {{tt+|no|portvin|m}}, {{q|slang}} {{tt+|no|port|m}}
+* Polish: {{tt+|pl|porto|n}}, {{tt+|pl|portwajn|m-in}}
+* Portuguese: {{tt+|pt|vinho do Porto|m}}
+* Russian: {{tt+|ru|портве́йн|m}}
+* Spanish: {{tt|es|vino de Oporto|m}}
+* Swahili: {{tt+|sw|mabandari}}
+* Swedish: {{tt+|sv|portvin|n}}
 {{trans-bottom}}
+}}
 
 ===Etymology 5===
 {{abbreviation of|en|portmanteau}}
