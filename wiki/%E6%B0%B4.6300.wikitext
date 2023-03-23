@@ -714,9 +714,11 @@ From {{inh-lite|okn|jpx-ryu-pro|sc=Latinx|*mezu|sort=みじ}}.
 }}
 
 ====Compounds====
-* {{l-lite|ryu|sc=Jpan|雨水|tr=ushī}}
-* {{l-lite|ryu|sc=Jpan|天水|tr=tinshī}}
-* {{l-lite|ryu|sc=Jpan|水鶏|tr=kumirā}}
+{{ryu-r/multi|data=
+* {{ryu-r/args|雨水|うしー}}
+* {{ryu-r/args|天水|てぃんしー}}
+* {{ryu-r/args|水鶏|くみらー}}
+}}
 
 ===Etymology===
 From earlier {{m-lite|ryu|sc=Jpan||水|tr=midu → midzu → mizu}}, attested in 1711 in the {{m-lite|ja|sc=Jpan|混効験集|tr=Konkōkenshū}}, itself from {{inh-lite|ryu|jpx-ryu-pro|sc=Latinx|*mezu|sort=みじ}}.
@@ -735,17 +737,16 @@ Cognate with {{cog-lite|ja|sc=Jpan|水|tr=mizu}}, {{cog-lite|ojp|sc=Jpan|水|tr=
 # [[water]]
 
 ====Derived terms====
-{{der-top3}}
-* {{l-lite|ryu|sc=Jpan|水牛|tr=mijiushi}}
-* {{l-lite|ryu|sc=Jpan|大水|tr=ūmiji}}
-* {{l-lite|ryu|sc=Jpan|塩水|tr=sūmiji}}
-* {{l-lite|ryu|sc=Jpan|溜まい水|tr=tamaimiji}}
-* {{l-lite|ryu|sc=Jpan|手水|tr=chūji}}
-* {{l-lite|ryu|sc=Jpan|生水|tr=namamiji}}
-* {{l-lite|ryu|sc=Jpan|飲ん水|tr=nunmiji}}
-* {{l-lite|ryu|sc=Jpan|湯水|tr=yūmiji}}
-{{der-bottom}}
-{{attn|ryu|needs convertion to ryu-r}}
+{{der-top3}}{{ryu-r/multi|data=
+* {{ryu-r/args|水%牛|みじ%うし}}
+* {{ryu-r/args|大%水|うー%みじ}}
+* {{ryu-r/args|塩%水|すー%みじ}}
+* {{ryu-r/args|溜%まい%水|た%まい%みじ}}
+* {{ryu-r/args|手水|ちゅーじ}}
+* {{ryu-r/args|生%水|なま%みじ}}
+* {{ryu-r/args|飲%ん%水|ぬ%ん%みじ}}
+* {{ryu-r/args|湯%水|ゆー%みじ}}
+}}{{der-bottom}}
 
 ===References===
 <references/>
