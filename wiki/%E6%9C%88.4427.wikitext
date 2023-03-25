@@ -80,7 +80,7 @@ Various alternative etymologies have also been proposed:
 # moon-[[shaped]] [[object]]s
 # {{lb|zh|literary|sort=月00}} [[moonlight]]
 # [[month]] {{zh-mw|m,c:個|h:隻}}
-#: {{zh-syn|月份|tr1=yuèfèn|號頭|q2=Wu|tr2=-}}
+#: {{zh-syn|月份|tr1=yuèfèn|號頭/号头|q2=Wu|tr2=-}}
 # [[monthly]]
 #: {{zh-co|月薪|'''monthly''' wage|tr='''yuè'''xīn}}
 # {{zh-classifier|months}}
@@ -98,9 +98,9 @@ Various alternative etymologies have also been proposed:
 ====Descendants====
 {{CJKV|月|げつ|j2=がつ|j3=がち|or=''gwachi''|월|nguyệt|v2=ngoạt|o=月|ぐゎち}}
 ''Others'':
-* {{desc|bor=1|pcc|nguad|t=month}}
-* {{desc|bor=1|th|งวด|t=appointed time|unc=1}}
-* {{desc|bor=1|za|nyied|t=moon; month}}
+* {{desc|bor=1|pcc}} {{l-lite|pcc|nguad||month}}
+* {{desc|bor=1|unc=1|th}} {{l-lite|th|sc=Thai|งวด||tr=ngûuat|appointed time}}
+* {{desc|bor=1|za}} {{l-lite|za|nyied||moon; month}}
 
 ====See also====
 {{rel-top4|Months of the year}}
@@ -119,13 +119,13 @@ Various alternative etymologies have also been proposed:
 {{rel-bottom}}
 
 ===Etymology 2===
-{{zh-see|肉|a}}
+{{zh-see|肉|a|[[meat]]; [[flesh]]; [[pork]]; etc.}}
 
 ===Etymology 3===
-{{zh-see|夕|a}}
+{{zh-see|夕|a|[[night]]; [[evening]]; [[dusk]]}}
 
 ===Etymology 4===
-{{zh-see|明|a}}
+{{zh-see|明|a|[[bright]]; [[light]]; [[brilliant]]; [[clear]]; [[limpid]]; etc.}}
 
 ===References===
 * {{R:yue:Hanzi}}
@@ -299,7 +299,7 @@ The {{m-lite|ja|sc=Jpan|漢音|tr=kan'on}} reading, so likely a later borrowing.
 {{ja-pos|counter|げつ|hhira=ぐゑつ}}
 
 # a month as a [[duration]] of [[time]]
-# {{lb|ja|possibly|_|obsolete}} month of the year
+# {{lb|ja|possibly|obsolete}} month of the year
 
 =====Usage notes=====
 When used in most compounds or when counting a number of months with {{m-lite|ja|sc=Jpan|ヶ|tr=ka}}, {{lang-lite|ja|sc=Jpan|月}} is pronounced {{m-lite|ja|sc=Jpan|げつ|tr=getsu}}. When used in compounds for modern months of the year, it is pronounced {{m-lite|ja|sc=Jpan|がつ|tr=gatsu}}. When used for poetic or lunar months, it is pronounced {{m-lite|ja|sc=Jpan|つき|tr=tsuki}}.
@@ -392,7 +392,7 @@ Either a shift in sense from the ''low-ranking prostitute'' meaning above, or a 
 ====Adjective====
 {{ja-adj|infl=nari|がち|hhira=ぐわち}}
 
-# {{lb|ja|sort=かち|archaic|possibly|_|obsolete}} [[crude]], [[unrefined]], [[hickish]]
+# {{lb|ja|sort=かち|archaic|possibly|obsolete}} [[crude]], [[unrefined]], [[hickish]]
 #: {{syn-lite|ja|sc=Jpan|野暮|tr=yabo}}
 
 =====Inflection=====
@@ -400,7 +400,7 @@ Either a shift in sense from the ''low-ranking prostitute'' meaning above, or a 
 
 ====Noun====
 {{ja-noun|がち|hhira=ぐわち}}
-# {{lb|ja|sort=かち|archaic|possibly|_|obsolete}} something or someone that/who is crude, unrefined, hickish
+# {{lb|ja|sort=かち|archaic|possibly|obsolete}} something or someone that/who is crude, unrefined, hickish
 #: {{syn-lite|ja|sc=Jpan|野暮|tr=yabo}}
 
 ===References===
@@ -414,7 +414,7 @@ Either a shift in sense from the ''low-ranking prostitute'' meaning above, or a 
 ==Korean==
 
 ===Etymology===
-From {{der-lite|ko|ltc|sort=월|-}} {{ltc-l|月}}.
+From {{der-lite|ko|ltc|sort=월|-}} {{ltc-l|月|tr=ŋʉɐt̚}}.
 {{hanja-ety
 |dk={{okm-l|ᅌᅯᇙ〮|ngwélq|link=no}}
 |m={{okm-l|월〮|wél}}
@@ -555,7 +555,7 @@ From {{der-lite|ko|ltc|sort=월|-}} {{ltc-l|月}}.
 ==Kunigami==
 
 ===Kanji===
-{{head|xug|Han character}}
+{{head-lite|xug|sc=Jpan|Han characters}}
 {{ja-readings|kun=[[しちー]] (shichī)}}
 
 ===Etymology===
@@ -565,13 +565,13 @@ From {{inh-lite|xug|jpx-ryu-pro|sc=Latinx|*tuki|sort=しちい}}.
 * {{IPA-lite|xug|/ɕi̻t͡ɕiː/|sort=しちい}}
 
 ===Noun===
-{{head|xug|noun|hiragana|しちー|romaji|shichī|sort=しちい}}
+{{head-lite|xug|sc=Jpan|nouns|hiragana|しちー|romaji|shichī|sort=しちい|f2sc=Latn}}
 # the [[moon]]
 
 ==Miyako==
 
 ===Kanji===
-{{head|mvi|Han character}}
+{{head-lite|mvi|sc=Jpan|Han characters}}
 {{ja-readings|kun=[[つぃきぃ]] (tsïksï)}}
 
 ===Etymology===
@@ -582,7 +582,7 @@ From {{inh-lite|mvi|jpx-ryu-pro|sc=Latinx|*tuki|sort=ついきい}}.
 * {{a|Ōgami}} {{IPA-lite|mvi|/ks̩.ks̩/}}
 
 ===Noun===
-{{head|mvi|noun|hiragana|つぃきぃ|romaji|tsïksï|sort=つぃきぃ}}
+{{head-lite|mvi|sc=Jpan|nouns|hiragana|つぃきぃ|romaji|tsïksï|sort=つぃきぃ|f2sc=Latn}}
 # the [[moon]]
 # a [[month]]
 # {{lb|mvi|abbreviation}} [[Monday]]
@@ -685,7 +685,7 @@ From {{inh-lite|ojp|jpx-pro|sort=つき|*tukuy}}.
 Likely a shift from ''tuku'' below, derived through a fusion with {{m-lite|ojp|sc=Jpan|い|tr=i<sub>2</sub>|pos=emphatic nominal particle}}. Compare the development of {{m-lite|ojp|sc=Jpan|神||tr=kamu → [[kami|kami<sub>2</sub>]]|[[Shinto]] [[deity]]}}.
 
 ====Noun====
-{{head|ojp|noun|tr=tuki<sub>2</sub>|kana|つき|sort=つき}}
+{{head-lite|ojp|sc=Jpan|nouns|tr=tuki<sub>2</sub>|kana|つき|sort=つき}}
 
 # the [[moon]]
 # a [[month]]
@@ -705,7 +705,7 @@ Likely a shift from ''tuku'' below, derived through a fusion with {{m-lite|ojp|s
 Possibly from {{inh-lite|ojp|jpx-pro|sort=つき|*tuku}}.
 
 ====Noun====
-{{head|ojp|noun|tr=tuku|kana|つく}}
+{{head-lite|ojp|sc=Jpan|nouns|tr=tuku|kana|つく}}
 
 # {{lb|ojp|sort=つく|regional|Eastern {{cog-lite|ojp|-}}}} the moon
 # {{lb|ojp|regional|Eastern Old Japanese}} a month
@@ -734,7 +734,7 @@ Possibly from {{inh-lite|ojp|jpx-pro|sort=つき|*tuku}}.
 # {{han tu form of-lite|nhục|{{alt form|vi|肉||[[meat]] [[radical]]}}}}
 
 ====Compounds====
-{{der-top5|Compounds derived from {{vi-l-lite|月|nguyệt}}}}
+{{der-top|Compounds derived from {{vi-l-lite|月|nguyệt}}}}
 * {{vi-l-lite|月表|nguyệt biểu}}
 * {{vi-l-lite|月俸|nguyệt bổng}}
 * {{vi-l-lite|月琴|nguyệt cầm}}
@@ -757,7 +757,7 @@ Possibly from {{inh-lite|ojp|jpx-pro|sort=つき|*tuku}}.
 * {{vi-l-lite|歲月|tuế nguyệt}}
 * {{vi-l-lite|三個月|tam cá nguyệt}}
 {{der-bottom}}
-{{der-top5|Compounds derived from {{vi-l-lite|月|ngoạt}}}}
+{{der-top|Compounds derived from {{vi-l-lite|月|ngoạt}}}}
 * {{vi-l-lite|月經|ngoạt kinh}}
 * {{vi-l-lite|正月|chánh ngoạt}}
 * {{vi-l-lite|菊月|cúc ngoạt}}
@@ -772,7 +772,7 @@ Possibly from {{inh-lite|ojp|jpx-pro|sort=つき|*tuku}}.
 ==Yaeyama==
 
 ===Kanji===
-{{head|rys|Han character}}
+{{head-lite|rys|sc=Jpan|Han characters}}
 {{ja-readings|kun=[[つぃきぃ]] (tsïkï)}}
 
 ===Etymology===
@@ -782,7 +782,7 @@ From {{inh-lite|rys|jpx-ryu-pro|sort=ついきい|*tuki}}.
 * {{IPA-lite|rys|/t͡sɨ̥kɨ/|sort=つぃきぃ}}
 
 ===Noun===
-{{head|rys|noun|hiragana|つぃきぃ|romaji|tsïkï|sort=つぃきぃ}}
+{{head-lite|rys|sc=Jpan|nouns|hiragana|つぃきぃ|romaji|tsïkï|sort=つぃきぃ|f2sc=Latn}}
 
 # the [[moon]]
 
@@ -791,7 +791,7 @@ From {{inh-lite|rys|jpx-ryu-pro|sort=ついきい|*tuki}}.
 ==Yonaguni==
 
 ===Kanji===
-{{head|yoi|Han character}}
+{{head-lite|yoi|sc=Jpan|Han characters}}
 {{ja-readings|kun=[[ってぃー]] (ttī)}}
 
 ===Etymology===
@@ -801,7 +801,7 @@ From {{inh-lite|yoi|jpx-ryu-pro|sort=っていい|*tuki}}.
 * {{IPA-lite|yoi|/tˀiː/|sort=ってぃい}}
 
 ===Noun===
-{{head|yoi|noun|hiragana|ってぃー|romaji|ttī|sort=ってぃい}}
+{{head-lite|yoi|sc=Jpan|nouns|hiragana|ってぃー|romaji|ttī|sort=ってぃい|f2sc=Latn}}
 
 # the [[moon]]
 
