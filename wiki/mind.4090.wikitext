@@ -232,8 +232,8 @@ From {{inh-lite|en|enm|minde}}, {{m-lite|enm|munde|münde}}, {{m-lite|enm|ȝemü
 * {{desc|ms|minda|bor=1}}
 
 ====Translations====
-{{trans-top|ability for rational thought}}
 {{multitrans|data=
+{{trans-top|ability for rational thought}}
 * Ainu: {{tt|ain|ケウトゥㇺ|tr=kewtum}}, {{tt|ain|ラㇺ|tr=ram}}, {{tt|ain|ラマ|tr=rama}}, {{tt|ain|ラマッ|tr=ramat}}, {{tt|ain|ラム|tr=ramu}}
 * Albanian: {{tt+|sq|mendje|f}}
 * Amharic: {{tt|am|አዕምሮ}}
@@ -250,7 +250,7 @@ From {{inh-lite|en|enm|minde}}, {{m-lite|enm|munde|münde}}, {{m-lite|enm|ȝemü
 * Basque: {{tt|eu|adimen}}, {{tt+|eu|buru}}, {{tt|eu|gogo}}, {{tt+|eu|sen}}
 * Belarusian: {{tt|be|ро́зум|m}}
 * Bengali: {{tt+|bn|মন}}
-* Breton: {{t+|br|poell|m}}
+* Breton: {{tt+|br|poell|m}}
 * Bulgarian: {{tt+|bg|ум|m}}, {{tt+|bg|ра́зум|m}}, {{tt+|bg|ми́съл|f}}, {{tt+|bg|а́къл|m}}
 * Burmese: {{tt+|my|စိတ်|sc=Mymr}}
 * Catalan: {{tt+|ca|ment|f}}
@@ -276,7 +276,7 @@ From {{inh-lite|en|enm|minde}}, {{m-lite|enm|munde|münde}}, {{m-lite|enm|ȝemü
 * Greek: {{tt+|el|νους|m}}, {{tt+|el|διάνοια|f}}, {{tt+|el|μυαλό|n}}
 *: Ancient: {{tt|grc|νοῦς|m}}, {{tt|grc|φρήν|f}}
 * Guaraní: {{tt|gn|anãngua}}, {{tt|gn|apytu'ũ}}
-* Gujarati: {{t+|gu|મન}}
+* Gujarati: {{tt+|gu|મન}}
 * Hawaiian: {{tt|haw|manaʻo}}, {{tt|haw|waihona}}, {{tt|haw|noʻonoʻa}}, {{tt|haw|naʻau}}
 * Hebrew: {{tt+|he|רוּחַ|tr=ruaħ|f}}, {{tt+|he|מוח|m}}, {{tt+|he|שׂכל|m|tr=sekhel|sc=Hebr}}
 * Higaonon: {{tt|mba|hunahuna}}
@@ -284,7 +284,7 @@ From {{inh-lite|en|enm|minde}}, {{m-lite|enm|munde|münde}}, {{m-lite|enm|ȝemü
 * Hungarian: {{tt+|hu|értelem}}, {{tt+|hu|elme}}
 * Icelandic: {{tt+|is|hugur|m}}
 * Ido: {{tt+|io|mento}}
-* Igbo: {{t+|ig|uchè}}
+* Igbo: {{tt+|ig|uchè}}
 * Irish: {{tt+|ga|intinn|f}}, {{tt|ga|meabhair|f}}
 *: Middle Irish: {{tt|mga|menma|m}}
 *: Old Irish: {{tt|sga|menmae|m}}
@@ -319,8 +319,8 @@ From {{inh-lite|en|enm|minde}}, {{m-lite|enm|munde|münde}}, {{m-lite|enm|ȝemü
 * Old Church Slavonic:
 *: Cyrillic: {{tt|cu|оумъ|m}}, {{tt|cu|разоумъ|m}}
 * Old East Slavic: {{tt|orv|розумъ|m}}
-* Old English: {{t|ang|mōd|n}}
-* Old Norse: {{t|non|hugur|m}}
+* Old English: {{tt|ang|mōd|n}}
+* Old Norse: {{tt|non|hugur|m}}
 * Oriya: {{t-needed|or}}
 * Pali: {{tt|pi|sati|f}}
 * Pashto: {{tt+|ps|ذهن|m|tr=zehn}}, {{tt+|ps|عقل|m|tr=áqəl}}
@@ -505,13 +505,13 @@ From {{inh-lite|en|enm|minde}}, {{m-lite|enm|munde|münde}}, {{m-lite|enm|ȝemü
 * Swedish: {{tt+|sv|ande|c}}, {{tt+|sv|själ|c}}
 * Telugu: {{tt+|te|వేదాంతం|sc=Telu}}
 * Ukrainian: {{tt+|uk|ро́зум|m}}
-}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Irish: {{t-check|ga|méin|f}}
-* Spanish: {{t+check|es|ánimo|m}}
+* Irish: {{tt-check|ga|méin|f}}
+* Spanish: {{tt+check|es|ánimo|m}}
 {{trans-bottom}}
+}}<!-- close {{multitrans}} -->
 
 ===Verb===
 {{en-verb}}
@@ -601,10 +601,10 @@ From {{inh-lite|en|enm|minde}}, {{m-lite|enm|munde|münde}}, {{m-lite|enm|ȝemü
 * {{desc|bor=1|zh|mind|MIND}}
 
 ====Translations====
+{{multitrans|data=
 {{trans-see|to remember|remember}}
 
 {{trans-top|to pay attention to, take note of}}
-{{multitrans|data=
 * Bulgarian: {{tt+|bg|внимавам}}
 * Chinese:
 *: Mandarin: {{tt+|cmn|注意|tr=zhùyì}}
@@ -678,8 +678,8 @@ From {{inh-lite|en|enm|minde}}, {{m-lite|enm|munde|münde}}, {{m-lite|enm|ȝemü
 {{trans-top|to put in mind; to remind}}
 * Bulgarian: {{tt+|bg|помня}}
 * Finnish: {{tt+|fi|muistuttaa}}
-}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
+}}<!-- close {{multitrans}} -->
 
 ===See also===
 * {{pedia}}
@@ -701,7 +701,7 @@ Borrowed from {{bor-lite|yue|en|mind}}.
 }}
 
 ===Verb===
-{{head|zh|verb}}
+{{head-lite|zh|sc=Hani|verbs}}
 
 # {{lb|zh|Hong Kong Cantonese}} to mind; to [[care]] about
 #* {{zh-x|她 即 說：「我 對 呢{ni1}個 人 No comment。（覺{gok3}得 佢 抽 你 水？）No comment，點解 你哋 唔 話 搵 梁 朝 偉 同 我 合作，我 唔 怕，亦都 好 希望 梁 朝 偉 抽 我 水，佢 點 抽 我 都 唔 mi{a}n{a}d{i1}。」||C|ref='''2016''' June 2, ''{{w|Oriental Daily News}}'', [https://hk.on.cc/hk/bkn/cnt/entertainment/20160602/bkn-20160602175229745-0602_00862_001.html {{lang|zh|《杜如風恨畀梁朝偉抽水：我唔Mind》}}]}}
@@ -714,7 +714,7 @@ Borrowed from {{bor-lite|yue|en|mind}}.
 ==Danish==
 
 ===Verb===
-{{head|da|verb form}}
+{{head-lite|da|verb forms}}
 
 # {{imperative of|da|minde}}
 
@@ -724,7 +724,7 @@ Borrowed from {{bor-lite|yue|en|mind}}.
 {{nonlemma}}
 
 ===Pronoun===
-{{head|et|pronoun form}}
+{{head-lite|et|pronoun forms}}
 
 # {{inflection of|et|mina||par|s}}
 
@@ -802,7 +802,7 @@ The possessive sense can be expressed with {{m-lite|hu|minden}}.
 }}
 
 ===Conjunction===
-{{head|hu|conjunction}}
+{{head-lite|hu|conjunctions}}
 
 # {{lb|hu|formal}} [[both]]... [[and]]..., [[as well as]]
 #: {{uxi|hu|'''mind''' a magánéletben, '''mind''' a munkában|'''both''' in private life '''and''' in work}}
