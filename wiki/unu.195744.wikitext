@@ -237,7 +237,7 @@ From {{inh|ro|la|ūnus}}, from {{inh|ro|itc-ola|oinos}}, from {{inh|ro|itc-pro|*
 * {{l|ro|uni}}
 
 ==Sardinian==
-{{cardinalbox|sc|0|1|2|zeru|duos|ord=primu}}
+{{cardinalbox|sc|0|1|2|zeru|duos|ord=primu|mult=solu|dis=singularmente}}
 
 ===Etymology===
 From {{inh|sc|la|ūnus}}, from {{inh|sc|itc-ola|oinos}}, from {{inh|sc|itc-pro|*oinos}}, from {{inh|sc|ine-pro|*óynos||one, single}}.
@@ -245,15 +245,28 @@ From {{inh|sc|la|ūnus}}, from {{inh|sc|itc-ola|oinos}}, from {{inh|sc|itc-pro|*
 ===Pronunciation===
 * {{IPA|sc|/ˈunu/}}
 
-===Article===
-{{head|sc|article|g=m|feminine|una|masculine plural|unos|feminine plural|unas}}
-
-# [[a]], [[an]]
-
 ===Numeral===
 {{head|sc|numeral}}
 
-# [[one]]
+# {{lb|sc|Logudorese|Campidanese|Nuorese}} [[one]]
+
+===Article===
+{{head|sc|article|g=m|feminine|una}}
+
+# {{lb|sc|Logudorese|Campidanese|Nuorese}} [[a]], [[an]] {{gl|indefinite article}}
+
+====Usage notes====
+* When preceded by {{m|sc|cun}} {{q|Logudorese, Campidanese}}/{{m|sc|chin}} {{q|Nuorese}} or {{m|sc|in}}, a [[prothetic]] {{IPAchar|[d]}} is inserted, ortographically realized as {{m|sc|d'}} (e.g. Logudorese {{m|sc|[[cun]] [[d']]'''una''' [[rosa]]||with '''a''' rose}}), .
+
+====Derived terms====
+* {{l|sc|in d'unu}}
+{{col1|sc|title=Logudorese|una cun}}
+{{col1|sc|title=Campidanese|[[suncuna]] {{q|perhaps}}}}
+{{col1|sc|title=Nuorese|uneddu}}
+
+===References===
+* {{R:sc:Rubattu2006}}
+* {{R:sc:WagnerDES|únu}}
 
 {{cln|sc|cardinal numbers}}
 
