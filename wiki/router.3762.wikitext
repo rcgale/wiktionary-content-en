@@ -56,7 +56,7 @@
 * Marathi: {{t|mr|राउटर}}
 * Portuguese: {{t+|pt|roteador|m}}
 * Russian: {{t+|ru|маршрутиза́тор|m}}
-* Spanish: {{t+|es|router|m}}, {{t|es|enrutador|m}}, {{t|es|ruteador|m}}, {{t|es|direccionador|m}}
+* Spanish: {{t+|es|router|m}}, {{t|es|rúter|m}}, {{t|es|enrutador|m}}, {{t|es|ruteador|m}}, {{t|es|direccionador|m}}, {{t|es|encaminador|m}}
 * Ukrainian: {{t+|uk|маршрутиза́тор|m}}
 {{trans-bottom}}
 
@@ -113,7 +113,7 @@
 * Sinhalese: {{t|si|රවුටරය}}
 * Slovak: {{t|sk|smerovač|m}}, {{t|sk|router|m}}
 * Slovene: {{t|sl|usmerjevalnik|m}}
-* Spanish: {{t+|es|router|m}}, {{t|es|enrutador|m}}, {{t|es|ruteador|m}}, {{t|es|direccionador|m}}
+* Spanish: {{t+|es|router|m}}, {{t|es|rúter|m}}, {{t|es|enrutador|m}}, {{t|es|ruteador|m}}, {{t|es|direccionador|m}}, {{t|es|encaminador|m}}
 * Swedish: {{t+|sv|router|c}}
 * Tagalog: {{t|tl|router}}
 * Tajik: {{t|tg|маршрутизатор}}
@@ -132,6 +132,7 @@
 
 =====See also=====
 * {{l|en|firewall}}
+* {{l|en|modem}}
 * {{pedia|routing (EDA)}}
 
 ===Etymology 2===
@@ -199,7 +200,7 @@ Borrowed from {{bor|nl|en|router}}.
 ===Noun===
 {{nl-noun|m|-s|routertje}}
 
-# {{lb|nl|Internet}} [[#English|router]] (networking device)
+# {{lb|nl|Internet}} [[#English|router]] {{gloss|networking device}}
 
 ==French==
 
@@ -269,8 +270,8 @@ Borrowed from {{bor|nl|en|router}}.
 ===Noun===
 {{es-noun|m|routers|pl2=router}}
 
-# [[#English|router]]
-#: {{syn|es|enrutador|direccionador|encaminador}}
+# {{lb|es|Internet|telecommunications}} [[#English|router]] {{gloss|networking device}}
+#: {{syn|es|enrutador|direccionador|encaminador|ruteador}}
 
 ====Usage notes====
 {{es-unadapted}}
