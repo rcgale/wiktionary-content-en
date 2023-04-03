@@ -327,12 +327,20 @@ From {{m|cs|robota}}. {{coin|cs|nobycat=1|Josef Čapek}}, it first appeared in t
 * {{cs-IPA}}
 
 ===Noun===
-{{cs-noun|m}}
+{{cs-noun|m-an}}
 
-# {{l|en|robot}}
+# {{l|en|robot}} {{q|in humanoid form}}
 
 ====Declension====
-{{cs-decl-noun-auto|ma|rob|o|t}}
+{{cs-ndecl|m.an}}
+
+===Noun===
+{{cs-noun|m-an|g2=m-in}}
+
+# {{l|en|robot}} {{q|in non-humanoid form}}
+
+====Declension====
+{{cs-ndecl|((m,m.an))}}
 
 ====Related terms====
 {{col-auto|cs
