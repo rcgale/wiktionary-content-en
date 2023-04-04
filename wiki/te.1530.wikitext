@@ -566,27 +566,27 @@ From {{inh-lite|fi|urj-fin-pro|*tek}}, from {{inh-lite|fi|urj-pro|sc=Latinx|*te}
 {{fi-pronunciation}}
 
 ===Pronoun===
-{{head-lite|fi|pronouns|cat2=personal pronouns|stem|tei-}}
+{{head-lite|fi|pronouns|cat2=personal pronouns}}
 
 # {{lb|fi|personal}} [[you]] {{gloss|second-person plural; when addressing many persons or when addressing politely or formally one person}}
 
 ====Usage notes====
 * Depending on the context, the pronoun can sometimes be omitted in written language if the text remains fluent &ndash; the pronoun is in spoken language practically always used (compare the usage of {{m-lite|fi|sinä||you {{g|s}}}}).
-* When addressing politely or formally one person in a written form, it is recommendable to capitalize the pronoun: {{m-lite|fi|Te}}.
-* When addressing one person, the active past participle must be ''singular'' in negative past indicative, in present perfect of all moods both affirmative and negative and past perfect indicative &mdash; because there is ''one'' person addressed:
-:* {{ux-lite|inline=1|fi|'''Te''' ette ''ollut'' täällä silloin.|''You were'' not here at that time.}} {{qualifier|negative past indicative}}
-:* {{ux-lite|inline=1|fi|'''Te''' olette ''ollut'' täällä silloin.|''You'' have ''been'' here at that time.}} {{qualifier|affirmative present perfect indicative}}
-:* {{ux-lite|inline=1|fi|'''Te''' ette ole ''ollut'' täällä silloin.|''You'' have not ''been'' here at that time.}} {{qualifier|negative present perfect indicative}}
-:* {{ux-lite|inline=1|fi|'''Te''' olisitte ''ollut'' täällä silloin.|''You'' would have ''been'' here at that time.}} {{qualifier|affirmative present perfect conditional}}
-:* {{ux-lite|inline=1|fi|'''Te''' ette olisi ''ollut'' täällä silloin.|''You'' would have not ''been'' here at that time.}} {{qualifier|negative present perfect conditional}}
-:* {{ux-lite|inline=1|fi|'''Te''' lienette ''ollut'' täällä silloin.|''You'' have probably ''been'' here at that time.}} {{qualifier|affirmative present perfect potential}}
-:* {{ux-lite|inline=1|fi|'''Te''' ette liene ''ollut'' täällä silloin.|''You'' haven't probably ''been'' here at that time.}} {{qualifier|negative present perfect potential}}
-:* {{ux-lite|inline=1|fi|'''Te''' olitte ''ollut'' täällä silloin.|''You'' had ''been'' here at that time.}} {{qualifier|affirmative past perfect indicative}}
-:* {{ux-lite|inline=1|fi|'''Te''' ette ollut ''ollut'' täällä silloin.|''You'' had not ''been'' here at that time.}} {{qualifier|negative past perfect indicative; note '''ollut''' twice}}
+* When addressing one person politely or formally, it is recommended to capitalize the pronoun in writing: {{m-lite|fi|Te}}.
+* When addressing only one person, the active past participle must be in the ''singular'' in the compound forms that use it (e.g. negative, perfect, pluperfect forms):
+** {{ux-lite|inline=1|fi|'''Te''' ette <u>ollut</u> täällä silloin.|'''You''' <u>were</u> not here at that time.|q=negative past indicative}}
+** {{ux-lite|inline=1|fi|'''Te''' olette <u>ollut</u> täällä silloin.|'''You''' have <u>been</u> here at that time.|q=affirmative present perfect indicative}}
+** {{ux-lite|inline=1|fi|'''Te''' ette ole <u>ollut</u> täällä silloin.|'''You''' have not <u>been</u> here at that time.|q=negative present perfect indicative}}
+** {{ux-lite|inline=1|fi|'''Te''' olisitte <u>ollut</u> täällä silloin.|'''You''' would have <u>been</u> here at that time.|q=affirmative present perfect conditional}}
+** {{ux-lite|inline=1|fi|'''Te''' ette olisi <u>ollut</u> täällä silloin.|'''You''' would have not <u>been</u> here at that time.|q=negative present perfect conditional}}
+** {{ux-lite|inline=1|fi|'''Te''' lienette <u>ollut</u> täällä silloin.|'''You''' have probably <u>been</u> here at that time.|q=affirmative present perfect potential}}
+** {{ux-lite|inline=1|fi|'''Te''' ette liene <u>ollut</u> täällä silloin.|'''You''' haven't probably <u>been</u> here at that time.|q=negative present perfect potential}}
+** {{ux-lite|inline=1|fi|'''Te''' olitte <u>ollut</u> täällä silloin.|'''You''' had <u>been</u> here at that time.|q=affirmative past perfect indicative}}
+** {{ux-lite|inline=1|fi|'''Te''' ette ollut <u>ollut</u> täällä silloin.|'''You''' had not <u>been</u> here at that time.|q=negative past perfect indicative; note the duplicate {{m|fi||ollut}}}}
 
 ====Declension====
-* Irregular. The [[comitative]] and [[instructive]] forms don't exist; the [[abessive]] is hardly used.
-* In addition to the standard set of cases, '''''te''''' and other personal pronouns have a specific [[accusative]] form, {{m-lite|fi|teidät}}.
+* Irregular (inflectional stem {{m-lite|fi||tei-}}, as if in the plural). The [[comitative]] and [[instructive]] forms don't exist; the [[abessive]] is hardly used.
+* In addition to the standard set of cases, {{m-lite|fi||te}} and other personal pronouns have a specific [[accusative]] form, {{m-lite|fi|teidät}}.
 
 {{fi-decl-pron|1s=[[sinä]]|2s=[[sinun]]|3s=[[sinua]]|4s=[[sinut]]|5s=[[sinussa]]|6s=[[sinusta]]|7s=[[sinuun]]|8s=[[sinulla]]|9s=[[sinulta]]|10s=[[sinulle]]|11s=[[sinuna]]|12s=[[sinuksi]]|14s=[[sinutta]]|1p='''te'''|2p=[[teidän]]|3p=[[teitä]]|4p=[[teidät]]|5p=[[teissä]]|6p=[[teistä]]|7p=[[teihin]]|8p=[[teillä]]|9p=[[teiltä]]|10p=[[teille]]|11p=[[teinä]]|12p=[[teiksi]]|14p=[[teittä]]|adv=no}}
 
