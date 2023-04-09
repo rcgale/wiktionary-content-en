@@ -19,17 +19,20 @@
 * {{hyphenation|cs|Mer|kur}}
 
 ===Proper noun===
-{{cs-proper noun|m}}
+{{cs-proper noun|m-an}}
 
-# {{label|cs|Roman god|animate}} [[Mercury]] {{gloss|Roman god}}
-# {{senseid|cs|Q308}}{{label|cs|astronomy|inanimate}} [[Mercury]], the first planet in the [[Solar System]]
+# {{lb|cs|Roman god}} [[Mercury]] {{gloss|Roman god}}
 
 ====Declension====
-; animate
-{{cs-decl-noun-sg|Merkur|Merkura|Merkuru|Merkura|Merkure|Merkuru|Merkurem}}
+{{cs-ndecl|m.an.sg}}
 
-; inanimate
-{{cs-decl-noun-sg|Merkur|Merkuru|Merkuru|Merkur|Merkure|Merkuru|Merkurem}}
+===Proper noun===
+{{cs-proper noun|m-in}}
+
+# {{senseid|cs|Q308}}{{lb|cs|astronomy}} [[Mercury]], the first planet in the [[Solar System]]
+
+====Declension====
+{{cs-ndecl|m.sg.gena:u}}
 
 ====Derived terms====
 {{col-auto|cs|merkurský|Merkurův|Merkuřan}}
