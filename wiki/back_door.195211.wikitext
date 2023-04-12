@@ -140,6 +140,7 @@
 |text=As an example, the generation algorithm for '''backdoored''' [[w:Dual_EC_DRBG|Dual EC]] picks a fixed group element Q, a random exponent d, and outputs as public key the pair P = Qd and Q. The secret key is d. (We use multiplicative notation for simplicity.){{nb...}}}}
 #* {{quote-book|en|date=2019-07-18|author=Gilberto Najera-Gutierrez|author2=Juned Ahmed Ansari|author3=Daniel Teixeira|author4=Abhinav Singh|title=Improving your Penetration Testing Skills: Strengthen your defense against web attacks with Kali Linux and Metasploit|publisher=Packt Publishing Ltd|isbn=9781838644949|page=453
 |text=Back in the session, we will rename the httpd.exe file to httpd.exe.backup, upload the '''backdoored''' version, and rename it to httpd.exe: msf exploit(handler) &gt; sessions -i 1 [*] Starting interaction with 1... meterpreter &gt; cd{{nb...}}}}
+
 ====Translations====
 {{trans-top|to attempt to accomplish by indirect means}}
 * Finnish: {{t+|fi|kähmiä}}
