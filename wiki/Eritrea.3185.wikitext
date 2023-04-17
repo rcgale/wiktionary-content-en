@@ -182,16 +182,19 @@
 # {{place|nhn|country|cont/Africa|t=Eritrea}}
 
 ==Czech==
-{{wikipedia|lang=cs}}
+{{wp|lang=cs}}
 
 ===Pronunciation===
 * {{cs-IPA}}
-* {{audio|cs|Cs-Eritrea.ogg|Audio}}
+* {{audio|cs|Cs-{{PAGENAME}}.ogg|Audio}}
 
 ===Proper noun===
-{{cs-proper noun|f}}
+{{cs-proper noun|f|adj=eritrejský}}
 
-# {{l|en|Eritrea}}
+# {{transclude sense|cs|Eritrea|id=Q986}}
+
+====Declension====
+{{cs-ndecl|f.sg}}
 
 ====Related terms====
 {{col-auto|cs|eritrejský|Eritrejec}}
@@ -199,8 +202,7 @@
 ===Further reading===
 * {{R:cs:KNLA}}
 * {{R:cs:SSJC}}
-
-{{C|cs|Countries in Africa}}
+* {{R:cs:IJP}}
 
 ==Danish==
 
