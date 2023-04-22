@@ -1,16 +1,23 @@
 ==Polish==
 {{number box|pl}}
 
+===Alternative forms===
+* {{alt|pl|pierwy||Middle Polish}}
+
 ===Etymology===
-{{inh+|pl|zlw-opl|pierwy}} in the superlative form, from {{der|pl|sla-pro|*pьrvъ|gloss=first}}, from {{der|pl|ine-bsl-pro|*pírˀwas}}, from {{der|pl|ine-pro|*preh₂-|*pr̥h₂wós}} or {{der|pl|ine-pro|*pró|*pr̥h₃wós}}.
+{{dercat|pl|ine-bsl-pro|ine-pro}}
+{{inh+|pl|zlw-opl|pierwy}} in the superlative form, from {{der|pl|sla-pro|*pьrvъ|gloss=first}}. {{etydate|15th century|ref={{R:zlw-opl:SPJSP}}}}
 
 ===Pronunciation===
 {{pl-p|a=pl-pierwszy.ogg}}
 
 ===Numeral===
-{{head|pl|numeral|g=m|abbreviation|1.}}
+{{head|pl|numeral|abbreviation|1.}}
 
-# [[first]]
+# [[first]] {{gl|in order}}
+# [[first]] {{gl|in time}}
+# [[first]] {{gl|most important}}
+# [[first]] {{gl|best in some regard}}
 
 ===Adjective===
 {{pl-adj|-|adv=-}}
@@ -21,6 +28,29 @@
 ====Declension====
 {{pl-decl-adj-auto}}
 
+===Noun===
+{{pl-noun|m-in}}
+
+# {{ng|Denotes first day of the month}} [[first]]
+
+====Declension====
+{{pl-decl-noun
+|noms=pierwszy
+|gens=pierwszego
+|dats=pierwszemu
+|accs=pierwszy
+|inss=pierwszym
+|locs=pierwszym
+|vocs=pierwszy
+|nomp=pierwsze
+|genp=pierwszych
+|datp=pierwszym
+|accp=pierwsze
+|insp=pierwszymi
+|locp=pierwszych
+|vocp=pierwsze
+}}
+
 ====Derived terms====
 {{col-auto|pl|title=adjectives|pierwszoligowy|pierwszomajowy|pierwszoplanowy|pierwszoroczny|pierwszorzędny}}
 {{col-auto|pl|title=nouns|pierwszak|pierwszeństwo|pierwszoklasista|pierwszoklasistka|pierwszoligowiec|pierwiastek|biopierwiastek}}
@@ -29,9 +59,20 @@
 * {{desc|be|пе́ршы|bor=1}}
 * {{desc|uk|пе́рший|bor=1}}
 
+===Trivia===
+{{pl-freq 1990|225|345|151|119|96|936|43|366|1}}
+
+===References===
+{{reflist}}
+
 ===Further reading===
 * {{R:pl:WSJP}}
 * {{R:pl:PWN}}
+* {{R:pl:SXVII|PIERWSZY_I|8815|date=23.03.2023}}
+* {{R:pl:SJP1807}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900||164|4}}
+* {{R:pl:NFJP}}
 
 {{cln|pl|ordinal numbers}}
 {{C|pl|One}}
