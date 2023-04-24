@@ -325,7 +325,7 @@ From {{inh|kw|cel-bry-pro|*mi}}, from {{inh|kw|cel-pro|*mī}}.
 ==Czech==
 
 ===Etymology===
-{{inh+|cs|sla-pro|*my}}, from {{der|cs|ine-pro|*wéy}}.
+{{inh+|cs|zlw-ocs|my}}, from {{inh|cs|sla-pro|*my}}, from {{inh|cs|ine-pro|*wéy}}.
 
 ===Pronunciation===
 * {{cs-IPA}}
@@ -420,6 +420,49 @@ From {{inh|gv|sga|má}}, from {{inh|gv|cel-pro|*mā}}, {{m|cel-pro|*ma}} (compar
 
 # {{alt form|enm|mi}}
 
+==Old Czech==
+
+===Etymology===
+{{inh+|zlw-ocs|sla-pro|*my}}.
+
+===Pronoun===
+{{head|zlw-ocs|pronoun}}
+
+# [[we]]; {{n-g|first person plural}}
+
+====Declension====
+{{rfinfl|zlw-ocs|pronoun}}
+
+====Descendants====
+* {{desc|cs|my}}
+
+===References===
+* {{R:zlw-ocs:Gebauer|my}}
+
+{{cln|zlw-ocs|personal pronouns}}
+
+==Old Polish==
+
+===Etymology===
+{{inh+|zlw-opl|sla-pro|*my}}. {{etydate|14th century}}
+
+===Pronoun===
+{{head|zlw-opl|pronoun}}
+
+# [[we]]; {{n-g|first person plural}}
+# [[we]]; [[I]] {{n-g|royal first person plural}}
+
+====Declension====
+{{rfinfl|zlw-opl|pronoun}}
+
+====Descendants====
+* {{desc|pl|my}}
+
+===References===
+* {{R:zlw-opl:SPJSP}}
+
+{{cln|zlw-opl|personal pronouns}}
+
 ==Polish==
 {{wp|lang=pl}}
 
@@ -427,12 +470,15 @@ From {{inh|gv|sga|má}}, from {{inh|gv|cel-pro|*mā}}, {{m|cel-pro|*ma}} (compar
 {{pl-p|a=Pl-my.ogg}}
 
 ===Etymology 1===
-{{inh+|pl|sla-pro|*my}}, from {{der|pl|ine-pro|*me-}}.
+{{dercat|pl|inh=2|sla-pro|ine-pro}}
+{{inh+|pl|zlw-opl|my}}.  {{etydate|14th century|ref={{R:zlw-opl:SPJSP}}}}
 
 ====Pronoun====
 {{head|pl|pronoun}}
 
 # [[we]]; {{n-g|first person plural}}
+# [[we]]; [[I]] {{n-g|royal first person plural}}
+# [[we]]; [[I]] {{n-g|editorial first person plural}}
 
 =====Declension=====
 {{pl-decl-noun-pl|tantum=p
@@ -462,7 +508,13 @@ From {{inh|gv|sga|má}}, from {{inh|gv|cel-pro|*mā}}, {{m|cel-pro|*ma}} (compar
 ===Further reading===
 * {{R:pl:WSJP}}
 * {{R:pl:PWN}}
+* {{R:pl:SXVI|+|67921}}
+* {{R:pl:SXVII|MY|16005|date=22.06.2021}}
+* {{R:pl:SJP1807}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900||1081|2}}
 
+{{cln|pl|personal pronouns}}
 {{C|pl|Greek letter names}}
 
 ==Portuguese==
@@ -471,6 +523,22 @@ From {{inh|gv|sga|má}}, from {{inh|gv|cel-pro|*mā}}, {{m|cel-pro|*ma}} (compar
 {{pt-pron}}
 
 # {{obsolete form of|pt|mim}}
+
+==Silesian==
+
+===Etymology===
+{{dercat|szl|inh=1|ine-pro}}
+{{inh+|pl|sla-pro|*my}}.
+
+===Noun===
+{{head|szl|pronoun}}
+
+# [[we]]; {{n-g|first person plural}}
+
+===Further reading===
+* {{R:szl:silling}}
+
+{{cln|szl|personal pronouns}}
 
 ==Slovak==
 
