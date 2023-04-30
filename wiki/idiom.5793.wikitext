@@ -240,26 +240,31 @@ From {{der|id|nl|idioom}}.
 ==Polish==
 {{wp|lang=pl}}
 
+===Etymology===
+{{rfe|pl}}
+
 ===Pronunciation===
 {{pl-p|a=Pl-idiom.ogg}}
 
 ===Noun===
-{{pl-noun|m-in}}
+{{pl-noun|m-in|dim=idiomek}}
 
-# {{l|en|idiom}} {{gl|idiomatic expression}}
+# {{lb|pl|lexicography|figure of speech}} [[idiom]], [[phraseme]], [[phraseological]] [[unit]], [[phraseologism]], [[set]] [[expression]], [[set phrase]], [[turn of phrase]]
+#: {{syn|pl|frazeologizm|idiomat|idiomatyzm|związek frazeologiczny}}
 # {{l|en|idiom}} {{gl|artistic style}}
-# {{lb|pl|rare|dated}} {{l|en|idiom}} {{gl|language or language variety}}
+#: {{syn|pl|idiomat|idiomatyka}}
+# {{lb|pl|dated|linguistics|rare}} {{l|en|idiom}} {{gl|language or language variety}}
+#: {{syn|pl|idiomatyzm}}
 
 ====Declension====
-{{pl-decl-noun
-|idiom|idiomy
-|idiomu|idiomów
-|idiomowi|idiomom
-|idiom|idiomy
-|idiomem|idiomami
-|idiomie|idiomach
-|idiomie|idiomy
-}}
+{{pl-decl-noun-m-in}}
+
+====Related terms====
+{{col-auto|pl|title=adjective|idiomatyczny}}
+
+====Related terms====
+{{col-auto|pl|title=adverb|idiomatycznie}}
+{{col-auto|pl|title=nouns|idiomat|idiomatyczność|idiomatyka|idiomatyzm}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
