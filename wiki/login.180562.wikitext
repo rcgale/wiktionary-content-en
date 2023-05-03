@@ -15,12 +15,15 @@ From the verb {{m|en|log in}}.
 {{en-noun}}
 
 # {{lb|en|computing}} A [[combination]] of a [[user]]'s [[identification]] and [[password]] used to enter a [[computer]], [[program]], [[network]], etc.
-#: ''I've forgotten my '''login''' again.''
+#: {{ux|en|I've forgotten my '''login''' again.}}
 # {{lb|en|computing}} The [[process]] of logging in.
-#: ''Your '''login''' failed because you weren't connected to the office network.''
+#: {{ux|en|Your '''login''' failed because you weren't connected to the office network.}}
 
 ====Synonyms====
 * {{l|en|logon}}
+
+====Derived terms====
+* [[login CSRF]]
 
 ====Related terms====
 * {{l|en|log in}}
