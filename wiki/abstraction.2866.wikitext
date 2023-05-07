@@ -34,8 +34,8 @@ From {{inh|en|enm|abstraccyone}}; either from {{der|en|frm|abstraction}} or from
 # An [[idea]] of an [[idealistic]], [[unrealistic]] or [[visionary]] [[nature]].
 # The result of mentally abstracting an idea; the [[product]] of any mental [[process]] involving a [[synthesis]] of: [[separation]], [[despecification]], [[generalization]], and [[ideation]] in any of a number of [[combination]]s.
 # {{lb|en|geology}} The merging of two river valleys by the larger of the two deepening and widening so much so, as to assimilate the smaller.
-# {{lb|en|computing}} Any generalization technique that ignores or hides details to capture some kind of commonality between different [[instances]] for the purpose of controlling the intellectual complexity of [[engineered]] systems, particularly [[software]] systems.
-# {{lb|en|computing}} Any intellectual construct produced through the technique of abstraction.
+# {{lb|en|computing}} Hiding implementation details from the [[interface]] of a component, to decrease complexity through [[interdependency]] and improve [[modularity]], or a construct that serves as such.
+#: {{ux|en|Files are an '''abstraction''' provided by the file system for storing data, so that applications do not have to care how that data is stored.}}
 
 ====Synonyms====
 * {{sense|the act of generalization}} {{l|en|universalization}}; see also [[Thesaurus:generalization]]
