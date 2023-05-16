@@ -44,26 +44,26 @@ From {{suffix|en|national|ity}}, perhaps after {{uder|en|fr|nationalité}}; ulti
 * Afrikaans: {{t|af|nasionaliteit}}
 * Albanian: {{t+|sq|kombësi|f}}
 * Arabic: {{t|ar|جِنْسِيَّة|f}}
-* Armenian: {{t+|hy|ազգություն|sc=Armn}}, {{t+|hy|քաղաքացիություն|sc=Armn}} {{qualifier|citizenship}}
+* Armenian: {{t+|hy|ազգություն}}, {{t+|hy|քաղաքացիություն}} {{qualifier|citizenship}}
 * Azerbaijani: {{t|az|milliyyət}}
 * Bashkir: {{t|ba|милләт}}
-* Belarusian: {{t+|be|нацыяна́льнасць|f|sc=Cyrl}}, {{t|be|грамадзя́нства|n|sc=Cyrl}} {{qualifier|citizenship}}
-* Bulgarian: {{t+|bg|национа́лност|f|sc=Cyrl}}, {{t|bg|гражда́нство|n|sc=Cyrl}} {{qualifier|citizenship}}
+* Belarusian: {{t+|be|нацыяна́льнасць|f}}, {{t|be|грамадзя́нства|n}} {{qualifier|citizenship}}
+* Bulgarian: {{t+|bg|национа́лност|f}}, {{t|bg|гра́жданство|n}} {{qualifier|citizenship}}
 * Burmese: {{t+|my|အမျိုးသား}}
 * Catalan: {{t|ca|nacionalitat|f}}
 * Chinese:
 *: Cantonese: {{t|yue|國籍}}
-*: Mandarin: {{t+|cmn|國籍|tr=guójí}}
+*: Mandarin: {{t+|cmn|國籍}}
 * Czech: {{t+|cs|národnost|f}} (''ethnicity''), {{t+|cs|občanství|n}} (''citizenship'')
 * Danish: {{t+|da|nationalitet|c}}
-* Dutch: {{t+|nl|nationaliteit|f}}, {{t+|nl|staatsburgerschap|n}}
+* Dutch: {{t+|nl|nationaliteit|f}}, {{t+|nl|staatsburgerschap|n}} {{qualifier|citizenship}}
 * Faroese: {{t|fo|tjóðskapur|m}}
 * Finnish: {{t+|fi|kansallisuus}}
 * French: {{t+|fr|nationalité|f}}
 * Galician: {{t+|gl|nacionalidade|f}}
 * Georgian: {{t|ka|ეროვნება}}, {{t|ka|მოქალაქეობა}} {{qualifier|citizenship}}
-* German: {{t+|de|Nationalität}}
-* Greek: {{t+|el|εθνικότητα|f|sc=Grek}}
+* German: {{t+|de|Nationalität|f}}
+* Greek: {{t+|el|εθνικότητα|f}}
 * Haitian Creole: {{t|ht|nasyonalite}}
 * Hindi: {{t+|hi|राष्ट्रीयता|f}}, {{t+|hi|कौमियत|f}}
 * Hungarian: {{t+|hu|nemzetiség}} {{qualifier|of a nation}}, {{t+|hu|állampolgárság}} {{qualifier|of a state}}
@@ -71,21 +71,21 @@ From {{suffix|en|national|ity}}, perhaps after {{uder|en|fr|nationalité}}; ulti
 * Indonesian: {{t+|id|bangsa}}, {{t+|id|kebangsaan}}
 * Irish: {{t|ga|náisiúntacht|f}}
 * Italian: {{t+|it|nazionalità|f}}
-* Japanese: {{t+|ja|国籍|tr=こくせき, kokuseki|sc=Jpan}}
+* Japanese: {{t+|ja|国籍|tr=こくせき, kokuseki}}
 * Kazakh: {{t+|kk|ұлт}}
-* Khmer: {{t+|km|សញ្ជាតិ|tr=sanh chiet|sc=Khmr}}
+* Khmer: {{t+|km|សញ្ជាតិ}}
 * Korean: {{t+|ko|국적(國籍)}}
 * Kyrgyz: {{t+|ky|улут}}
 * Lao: {{t+|lo|ສັນຊາດ}}
 * Luxembourgish: {{t|lb|Nationalitéit}}
-* Macedonian: {{t|mk|националност|f}}
+* Macedonian: {{t|mk|национа́лност|f}}
 * Malay: {{t|ms|kerakyatan}}, {{t|ms|kewarganegaraan}}
 * Norman: {{t|nrf|nâtionalité|f}}
-* Norwegian: {{t+|no|nasjonalitet|m}}
+* Norwegian:
 *: Bokmål: {{t+|nb|nasjonalitet|m}}
 *: Nynorsk: {{t|nn|nasjonalitet|m}}
-* Persian: {{t+|fa|ملیت|tr=melliyyat}}
-* Polish: {{t+|pl|narodowość|f}} (''ethnicity''), {{t+|pl|obywatelstwo|n}} (''citizenship'')
+* Persian: {{t+|fa|مِلِّیَت|tr=melliyyat}}
+* Polish: {{t+|pl|narodowość|f}} {{qualifier|ethnicity}}, {{t+|pl|obywatelstwo|n}} {{qualifier|citizenship}}
 * Portuguese: {{t+|pt|nacionalidade|f}}
 * Romani: {{t|rom|themutnipen|m}}
 * Romanian: {{t+|ro|naționalitate|f}}
@@ -104,29 +104,31 @@ From {{suffix|en|national|ity}}, perhaps after {{uder|en|fr|nationalité}}; ulti
 * Thai: {{t+|th|สัญชาติ}}
 * Turkish: {{t+|tr|milliyet}}
 * Turkmen: {{t|tk|millet}}
-* Ukrainian: {{t|uk|наро́дність|f}}, {{t|uk|громадя́нство|n|sc=Cyrl}} {{qualifier|citizenship}}
+* Ukrainian: {{t+|uk|націона́льність|f}}, {{t|uk|наро́дність|f}}, {{t|uk|громадя́нство|n}} {{qualifier|citizenship}}
 * Urdu: {{t|ur|قَومِیَّت|f|tr=qaumiyyat}}
 * Uyghur: {{t|ug|مىللەت}}
 * Uzbek: {{t+|uz|millat}}
-* Vietnamese: {{t+|vi|quốc tịch}}
+* Vietnamese: {{t+|vi|quốc tịch}} ({{t|vi|國籍}})
 {{trans-bottom}}
 
 {{trans-top|national character or identity}}
 * Arabic: {{t|ar|جِنْسِيَّة|f}}
-* Armenian: {{t+|hy|ազգություն|sc=Armn}}
-* Burmese: {{t+|my|လူမျိုး|sc=Mymr}}
+* Armenian: {{t+|hy|ազգություն}}
+* Belarusian: {{t+|be|нацыяна́льнасць|f}}
+* Burmese: {{t+|my|လူမျိုး}}
 * Chinese:
-*: Mandarin: {{t+|cmn|国籍|tr=guójí}}, {{t+|cmn|國籍}}
+*: Cantonese: {{t|yue|國籍}}
+*: Mandarin: {{t+|cmn|國籍}}
 * Czech: {{t+|cs|národní}} {{t+|cs|charakter|m}}
-* Dutch: {{t+|nl|nationaliteit|f}}, {{t+|nl|volksaard}}
+* Dutch: {{t+|nl|nationaliteit|f}}, {{t+|nl|volksaard|f}}
 * Finnish: {{t+|fi|kansallisuus}}
-* Greek: {{t+|el|ιθαγένεια|f|sc=Grek}}, {{t+|el|εθνικότητα|f|sc=Grek}}
+* Greek: {{t+|el|ιθαγένεια|f}}, {{t+|el|εθνικότητα|f}}
 * Hungarian: {{t+|hu|nemzetiség}}
 * Indonesian: {{t+|id|nasionalisme}}
 * Portuguese: {{t+|pt|nacionalidade|f}}
-* Russian: {{t+|ru|национа́льность|f}}
+* Russian: {{t+|ru|национа́льность|f}}, {{t+|ru|наро́дность|f}}
 * Swahili: {{t+|sw|uraya}}, {{t+|sw|utaifa}}
-* Ukrainian: {{t+|uk|націона́льність|f}}
+* Ukrainian: {{t+|uk|націона́льність|f}}, {{t|uk|наро́дність|f}}
 {{trans-bottom}}
 
 {{trans-top|people belonging to a nation or state}}
@@ -154,7 +156,7 @@ From {{suffix|en|national|ity}}, perhaps after {{uder|en|fr|nationalité}}; ulti
 {{checktrans-top|citizenship}}
 * Indonesian: {{t-check|id|kewarganegaraan}}
 * Interlingua: {{t-check|ia|nationalitate}}
-* Telugu: {{t-check|te|జాతీయత|sc=Telu}}
+* Telugu: {{t-check|te|జాతీయత}}
 {{trans-bottom}}
 
 ===See also===
