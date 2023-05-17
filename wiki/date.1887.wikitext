@@ -246,7 +246,7 @@ From {{inh|en|enm|date}}, from {{der|en|fro|date}}, from {{der|en|LL.|data}}, fr
 * Burmese: {{tt+|my|ရက်စွဲ}}, {{tt+|my|နေ့စွဲ}}
 * Catalan: {{tt+|ca|data|f}}
 * Chinese:
-*: Mandarin: {{tt+|cmn|日期|tr=rìqī}}, {{tt+|cmn|日子|tr=rìzi}}, {{tt+|cmn|年月日|tr=niányuèrì}}
+*: Mandarin: {{tt+|cmn|日期}}, {{tt+|cmn|日子|tr=rìzi}}, {{tt+|cmn|年月日}}
 * Czech: {{tt+|cs|datum|n}}
 * Danish: {{tt+|da|dato|c}}
 * Dutch: {{tt+|nl|datum|m}}
@@ -269,7 +269,7 @@ From {{inh|en|enm|date}}, from {{der|en|fro|date}}, from {{der|en|LL.|data}}, fr
 * Kashmiri : {{tt|ks|تٲریٖخ|}}
 * Kazakh: {{tt+|kk|дата}}
 * Khmer: {{tt|km|កាលបរិច្ឆេត}}
-* Korean: {{tt|ko|연월일}}, {{tt+|ko|월일}}, {{tt+|ko|날짜}}
+* Korean: {{tt|ko|연월일(年月日)}}, {{tt+|ko|월일(月日)}}, {{tt+|ko|날짜}}
 * Kyrgyz: {{tt+|ky|дата}}, {{tt|ky|число}}
 * Ladin: {{tt|lld|data|f}}
 * Lao: {{tt|lo|ວັນທີ່}}
@@ -277,11 +277,13 @@ From {{inh|en|enm|date}}, from {{der|en|fro|date}}, from {{der|en|LL.|data}}, fr
 * Lithuanian: {{tt+|lt|data|f}}
 * Macedonian: {{tt|mk|датум|m}}
 * Malay: {{tt+|ms|tarikh}}, {{tt|ms|tanggal}}
-* Mongolian: {{tt+|mn|огноо}}
+* Mongolian:
+*: Cyrillic: {{tt+|mn|огноо}}
 * Navajo: {{tt|nv|yoołkááł}}
 * Nepali: {{tt|ne|मिति}}, {{tt|ne|तिथि}}, {{tt|ne|डेट}}
-* Norwegian: {{tt+|no|dato|m}}
-* Pashto: {{tt+|ps|تاريخ|m|tr=tāríx}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|dato|m}}
+* Pashto: {{tt+|ps|تاريخ|m|tr=tārix}}
 * Persian: {{tt+|fa|تاریخ|tr=târix}}
 * Plautdietsch: {{tt|pdt|Dotem|m}}
 * Polish: {{tt+|pl|data|f}}
@@ -320,8 +322,8 @@ From {{inh|en|enm|date}}, from {{der|en|fro|date}}, from {{der|en|LL.|data}}, fr
 * Bulgarian: {{tt+|bg|да́та|f}}
 * Catalan: {{tt+|ca|data|f}}
 * Chinese:
-*: Cantonese: {{tt|yue|日期|tr=jat6 kei4}}
-*: Mandarin: {{tt+|cmn|日期|tr=rìqī}}
+*: Cantonese: {{tt|yue|日期}}
+*: Mandarin: {{tt+|cmn|日期}}
 * Czech: {{tt+|cs|datum|n}}
 * Danish: {{tt+|da|dato|c}}, {{tt|da|tidspunkt|n}}
 * Dutch: {{tt+|nl|datum|m}}
@@ -368,7 +370,7 @@ From {{inh|en|enm|date}}, from {{der|en|fro|date}}, from {{der|en|LL.|data}}, fr
 * Slovene: {{tt+|sl|datum|m}}
 * Spanish: {{tt+|es|fecha|f}}, {{tt+|es|data|f}}
 * Swahili: {{tt+|sw|tarehe}}
-* Swedish: {{tt+|sv|datum}}
+* Swedish: {{tt+|sv|datum|n}}
 * Tagalog: {{tt|tl|taburaw}}, {{tt|tl|petsa}}
 * Telugu: {{tt+|te|తేది}}
 * Thai: {{tt+|th|วันที่}}
