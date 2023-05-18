@@ -6,6 +6,8 @@
 
 # The act or process by which one thing is embedded in another.
 # {{lb|en|mathematics}} A map which maps a subspace (smaller structure) to the whole space (larger structure).
+# {{lb|en|machine learning|AI}} A representation of a unit of [[text#Noun|text]] (such as a [[word#Noun|word]] or [[token#Noun|token]]) as a [[vector#Noun|vector]], which [[encode#Verb|encodes]] the [[context#Noun|context]] in which it is used.
+#* {{RQ:NYT|archiveurl=https://web.archive.org/web/20230517091124/https://www.nytimes.com/2023/05/01/science/ai-speech-language.html|author=Oliver Whang|title=A.I. Is Getting Better at Mind-Reading|date=1 May 2023|passage=A few years ago, Dr. [Alexander] Huth noticed that particular pieces of these maps — so-called context '''embeddings''', which capture the semantic features, or meanings, of phrases — could be used to predict how the brain lights up in response to language.}}
 
 ====Derived terms====
 {{der2|en|postembedding|deep embedding|Plücker embedding|self-embedding|shallow embedding|Yoneda embedding}}
@@ -31,3 +33,6 @@
 {{head|en|verb form}}
 
 # {{present participle of|en|embed|nocat=1}}
+
+===Further reading===
+* {{pedia|Word embedding}}
