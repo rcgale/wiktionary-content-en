@@ -21,8 +21,10 @@ From {{uder|en|frm|volatile}}, from {{uder|en|la|volātilis||flying; swift; temp
 # [[fickle|Fickle]].
 # [[temporary|Temporary]] or [[ephemeral]].
 # {{lb|en|of a situation}} Potentially [[violent]].
-# {{lb|en|computing|of a variable}} Having its associated [[memory]] immediately updated with any changes in value.
-# {{lb|en|computing|of memory}} Whose content is lost when the [[computer]] is powered down
+# {{lb|en|programming|of a variable etc.}} Having its associated [[memory]] immediately updated with any changes in value.
+#* '''2010''', Jon Jagger, ‎Nigel Perry, ‎Peter Sestoft, ''Annotated C# Standard'' (page 467)
+#*: This method stores a value into a non-'''volatile''' field called <code>result</code>, then stores true in the '''volatile''' field <code>finished</code>. The main thread waits for the field <code>finished</code> to be set to true, then reads the field <code>result</code>.
+# {{lb|en|computing|of memory}} Whose content is lost when the [[computer]] is powered down.
 # {{lb|en|obsolete}} Passing through the air on wings, or by the buoyant force of the atmosphere; flying; having the power to fly.
 {{rfex|en}}
 
