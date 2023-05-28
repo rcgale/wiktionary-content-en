@@ -179,7 +179,7 @@ The surname is popularly known to be prevalent among [[Hui]] Muslims, where it i
 </div>
 {{ja-kanjitab|うま|yomi=k}}
 
-From {{inh|ja|ojp|-|sort=うま}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Recorded in the [[w:Nihon Shoki|Nihon Shoki]] of 720 {{CE}} as having been brought over from the Korean peninsula kingdom of [[w:Baekje|Baekje]], with the earlier reading of ''ma''. The initial ''m'' sound was apparently emphasized,<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> possibly similar to ''*mma'', becoming then ''uma'' or ''muma'', via processes also seen in the word {{m|ja|梅|tr=ume, mume|t=plum}}. However, Pellard simply reconstructs {{cog|jpx-pro|*uma}} and treats the mentioned processes as secondary.<ref>{{cite-journal|last=Pellard|first=Thomas|title=Ryukyuan perspectives on the proto-Japonic vowel system|url=https://hal.archives-ouvertes.fr/hal-01289288/file/Pellard_2013_Ryukyuan_perspectives_on_the_proto-Japonic_vowel_system.pdf|editors=Frellesvig, Bjarke; Sells, Peter|journal=Japanese/Korean Linguistics|issue=20|publisher=CSLI Publications|year=2013|page=85|isbn=978-1-57586-638-3}}</ref>
+From {{inh-lite|ja|ojp|-|sort=うま}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Recorded in the [[w:Nihon Shoki|Nihon Shoki]] of 720 {{CE}} as having been brought over from the Korean peninsula kingdom of [[w:Baekje|Baekje]], with the earlier reading of ''ma''. The initial ''m'' sound was apparently emphasized,<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> possibly similar to ''*mma'', becoming then ''uma'' or ''muma'', via processes also seen in the word {{m|ja|梅|tr=ume, mume|t=plum}}. However, Pellard simply reconstructs {{cog|jpx-pro|*uma}} and treats the mentioned processes as secondary.<ref>{{cite-journal|last=Pellard|first=Thomas|title=Ryukyuan perspectives on the proto-Japonic vowel system|url=https://hal.archives-ouvertes.fr/hal-01289288/file/Pellard_2013_Ryukyuan_perspectives_on_the_proto-Japonic_vowel_system.pdf|editors=Frellesvig, Bjarke; Sells, Peter|journal=Japanese/Korean Linguistics|issue=20|publisher=CSLI Publications|year=2013|page=85|isbn=978-1-57586-638-3}}</ref>
 
 The ''ma'' sound denoting "horse" is common to a number of languages of central Asia, where horses were first domesticated, which has led some to speculate about a possible cognate root (but no consensus on any kind of relation exists). Compare {{ncog|mnc|ᠮᠣᡵᡳᠨ|t=horse}}, {{ncog|mn|морь|t=horse}}, {{ncog|ko|말|t=horse}}, {{ncog|cmn|馬|tr=mǎ|t=horse}}, and {{ncog|ine-pro|*márkos|t=horse}} and descendants such as {{ncog|ga|marc|t=horse|pos=archaic}} or {{ncog|en|mare|t=female horse}}. More at {{m|ine-pro|*márkos}}.
 
@@ -240,12 +240,14 @@ From {{der|ja|ltc|sort=は'|-}} {{ltc-l|馬}}.  The {{m|ja|漢音|tr=[[kan'on]]}
 {{ko-hanja|말|마}}<br>
 {{ko-hanja|성|마}}
 
-# {{hanja form of|마|[[horse]] (in compounds)}}
+# {{hanja form of-lite|마|[[horse]] (in compounds)}}
 
 ====Compounds====
-* {{ko-l|마차|馬車|horse-drawn carriage}}
-* {{ko-l|경마|競馬|horserace}}
-* {{ko-l|천리마|千里馬|mythical winged horse}}
+{{ko-l/multi|data=
+* {{ko-l/args|마차|馬車|horse-drawn carriage}}
+* {{ko-l/args|경마|競馬|horserace}}
+* {{ko-l/args|천리마|千里馬|mythical winged horse}}
+}}
 
 ===See also===
 * {{ko-l|말}}
@@ -292,8 +294,8 @@ Cognate with {{cog|ja|馬}}.
 ====Noun====
 {{vi-noun|sc=Hani|mã|rs=馬00}}
 
-# {{han tu form of|mã|[[horse]]}}
-# {{han tu form of|mã|{{lb|vi|xiangqi}} a [[knight]]; any [[piece]] labeled with {{lang|vi|馬}}}}
+# {{han tu form of-lite|mã|[[horse]]}}
+# {{han tu form of-lite|mã|{{lb|vi|xiangqi}} a [[knight]]; any [[piece]] labeled with {{lang|vi|馬}}}}
 
 =====Derived terms=====
 {{der-top3}}
@@ -319,14 +321,14 @@ Cognate with {{cog|ja|馬}}.
 ====Verb====
 {{vi-verb|sc=Hani|mựa|rs=馬00}}
 
-# {{Nom form of|mựa|{{lb|vi|dialectal}} [[don't]]}}
+# {{Nom form of-lite|mựa|{{lb|vi|dialectal}} [[don't]]}}
 
 ===Etymology 4===
 
 ====Noun====
 {{vi-noun|sc=Hani|mả|rs=馬00}}
 
-# {{Nom form of|mả|[[tomb]]; [[grave]]}}
+# {{Nom form of-lite|mả|[[tomb]]; [[grave]]}}
 #* {{RQ:Nguyen Dinh Chieu LVT 1916|lines=921–922|passage={{vi-ruby|小童庄及哙㗍<br>𦣰陵边馬哭嘆徘徊|tiểu đồng chẳng kịp hỏi han / nằm lăn bên mả khóc than bồi hồi}}|translation=Before the page has a chance to pay a visit,<br>He throws himself down upon the '''grave''', crying, lamenting, fretting.}}
 
 ===Etymology 5===
@@ -334,7 +336,7 @@ Cognate with {{cog|ja|馬}}.
 ====Verb====
 {{vi-verb|sc=Hani|mở|rs=馬00}}
 
-# {{Nom form of|mở|to [[open]]}}
+# {{Nom form of-lite|mở|to [[open]]}}
 
 ===Etymology 6===
 
