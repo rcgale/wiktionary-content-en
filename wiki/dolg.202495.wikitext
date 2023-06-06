@@ -52,15 +52,43 @@ From {{inh|sl|sla-pro|*dъlgъ}}.
 
 ====Pronunciation====
 * {{sl-IPA|dȏłg}}
+* {{hyphenation|sl|dolg}}
 
 ====Noun====
-{{sl-noun|dȏlg|m-in}}
+{{sl-noun|dȏłg|m-in}}
 
 # [[debt]]
+#: {{syn|sl|debet|kredit|posojilo|puf}}
+# {{lb|sl|obsolete}} [[sin]], [[guilt]]{{sl-ref|SSKJ}}
+#: {{syn|sl|pregreha|greh|krivda|krivica|zadolženje}}
 
-=====Inflection=====
-{{sl-decl-noun-m-ov|dôlg||á}}
-{{rfinfl|sl|noun}}<!-- accusative plural also dolgé, locative plural also dolgéh -->
+{{sl-infl-noun|gender=m|dółg|dōłg|dȏłg|dołg|stemtone=c|declension type=1|openmid?=yes|accent=4b|animate?=in|ov infix?=yes|
+|accpl={{l|sl|dołgȏve}}, ''{{l|sl|dołgẹ̑}}''
+|locpl={{l|sl|dołgȏvih}}, ''{{l|sl|dolgẹ́h}}''}}
+
+====Derived terms====
+{{der4|sl
+|delati dolgove
+|vzeti na dolg
+|biti na dolgu
+|ostati na dolgu
+|tičati v dolgovih
+|biti v dolgovih
+|obljuba dela dolg
+|častni dolg
+|neizterljivi dolg
+|dọ́łžən
+|dołžȃn
+|nedọ̑łžən
+|dołžnọ̑st
+|nedọ̑łžnost
+|dolžník
+|dolgováti
+|obdolžīti
+|obdolžénəc
+|oddolžīti
+|zadolžīti
+}}
 
 ===Further reading===
-* {{R:sl:Fran}}
+{{R:sl:FR}}
