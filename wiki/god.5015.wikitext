@@ -755,13 +755,27 @@ From {{inh|sl|sla-pro|*godъ}}, from {{inh|sl|ine-bsl-pro|*gadás}}, from {{inh|
 {{sl-noun|gọ̑d|m-in}}
 
 # [[name day]]
+#: {{syn|sl|godovni dan|godovno|imendan}}
+# [[name day]] [[celebration]]
+#: {{syn|sl|godovanje}}
+# {{lb|sl|obsolete}} [[anniversary]]{{sl-ref|SSKJ}}
+#: {{syn|sl|obletnica}}
 
-====Inflection====
-{{sl-decl-noun-m-ov|gód||ú}}
-{{sl-decl-noun-m-ov|gód}}
+{{sl-infl-noun|gender=m|||gọ̑d|god|stemtone=c|declension type=1|accent=4b|animate?=in
+|gensg=godȗ}}
+
+{{sl-infl-noun|gender=m|above=*singular only|title=no|||gọ̑d|god|stemtone=c|declension type=1|accent=1|animate?=in
+|nomdu=–|genpl=–|datdu=–|accdu=–|locpl=–|insdu=–|vocdu=–|nompl=–|datpl=–|accpl=–|inspl=–|vocpl=–}}
+
+===Derived terms===
+{{der4|sl
+|godováti
+|godọ̑vnik
+|pogọ̑du
+}}
 
 ===Further reading===
-* {{R:sl:Fran}}
+{{R:sl:FR}}
 
 {{c|sl|Calendar terms}}
 
