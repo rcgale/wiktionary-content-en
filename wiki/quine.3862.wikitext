@@ -34,8 +34,8 @@ Senses related to self-reference are {{coin|en|Douglas Hofstadter|in=1979|nocap=
 #*: The solution is to make a '''quine''' that is also a λ-expression (instead of a list of statements). This is possible, thanks to S-expressions. The way the '''quine''' works relies on the fact that its code is a list of statements and that the last one can take a list of the previous ones as arguments.
 #* {{quote-book|en|year=2012|author=Pietro Liò|author2=Dinesh Verma|title=Biologically Inspired Networking and Sensing: Algorithms and Architectures|publisher=IGI Global Snippet|isbn=9781613500934
 |passage='''Quines''' exist for any programming language that is Turing complete and it is a common challenge for students to come up with a '''Quine''' in their language of choice. The '''Quine''' Page provides a comprehensive list of such programs in various languages.}}
-#* '''2013''', Brian, ''[//groups.google.com/d/msg/talk.religion.buddhism/Denn9TZywdo/edWL0Sat5cwJ Re: "Mountains will be Mountains"]'', talk.religion.buddhism, Usenet
-#*: Upon receiving a "QUINE" request by the client, the server will first send a 01 OK response, and will then provide the client with a '''quine''' in the programming language used to implement the server.
+#* {{quote-newsgroup|en|year=2013|author=Brian|title=[//groups.google.com/d/msg/talk.religion.buddhism/Denn9TZywdo/edWL0Sat5cwJ Re: "Mountains will be Mountains"]|newsgroup=talk.religion.buddhism
+|passage=Upon receiving a "QUINE" request by the client, the server will first send a 01 OK response, and will then provide the client with a '''quine''' in the programming language used to implement the server.}}
 
 ====Translations====
 {{trans-top|program that outputs its own source code}}
