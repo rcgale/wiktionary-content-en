@@ -402,23 +402,164 @@ From {{inh|sh|sla-pro|*ledъ}}, from {{inh|sh|ine-bsl-pro|*ledús}}.
 ==Slovene==
 {{wp|lang=sl}}
 
-===Etymology===
+===Etymology 1===
 From {{inh|sl|sla-pro|*ledъ}}, from {{inh|sl|ine-bsl-pro|*ledús}}.
 
-===Pronunciation===
+====Pronunciation====
 * {{sl-IPA|lẹ̑d}}
+* {{rhymes|sl|eːd}}
+* {{hyphenation|sl|led}}
+* {{homophones|sl|let|LED}}
 
-===Noun===
+====Noun====
 {{sl-noun|lẹ̑d|m-in}}
 
 # [[ice]]
+# {{lb|sl|literary}} [[emotional]] [[coldness]]
+# {{lb|sl|gastronomy}} [[icing]]
 
-====Inflection====
-{{sl-decl-noun-m-ov|léd||ú|n=sg}}
-{{sl-decl-noun-m|léd|n=sg}}
+{{sl-infl-noun
+|title=1|||lẹ̑d|led|stemtone=c
+|gender=m
+|declension type=1
+|accent=4b
+|animate?=in
+|irregtitle=m1gensg
+|infix=ov
+|above=*rarely in plural{{sl-ref|SP}}
+|gensg=ledȗ
+}}
+{{sl-infl-noun
+|title=no
+|lẹ́d
+|lẹ̄d
+|lẹ̑d
+|led
+|stemtone=c
+|gender=m
+|declension type=1
+|subtype?=h
+|accent=1
+|animate?=in
+|n=sg
+|infix=ov
+|above=*rarely in plural{{sl-ref|SP}}
+}}
+
+====Synonyms====
+* {{q|sense 2}}
+{{col4|sl
+|brezčutnost
+|brezdušnost
+|ledenost
+}}
+
+* {{q|sense 3}}
+{{col4|sl
+|glazura
+}}
+
+====Antonyms====
+* {{q|sense 2}}
+{{col4|sl
+|sočutje
+|sočustvo
+|sočutnost
+|sožalje
+|sotrpljenje
+}}
+
+====Derived terms====
+{{der4|sl
+|kegljanje na ledu
+|plavajoči led
+|plavni led
+|polarni led
+|tečajni led
+|hladen kot led
+|prebiti led
+|dati na led
+|deti na led
+|pogubni led
+|iti na led
+|speljati na led
+|spraviti na led
+|v snegu in ledu
+|na jeziku med, v srcu led
+|sveti Matija led razbija, če ga ni, ga pa naredi
+|osel gre samo enkrat na led
+|jadranje na ledu
+|hokej na ledu
+|suhi led
+|biti na tankem ledu
+|dati speljati na led
+|gladek kot led
+|mrzel kot led
+|spolzek kot led
+|stati na tankem ledu
+|znajti na tankem ledu
+|posaditi na led
+|ledíšče
+|ledẹ̑n
+|ledeník
+|ledeníca
+|ledẹ̄nka
+|ledenẹ́ti
+|oledenẹ́ti
+|poledenẹ́ti
+|zaledenẹ́ti
+|poledenȋtəv
+|zledenẹ́ti
+|zledenīti
+|sladolẹ̑d
+|sladolẹ̑dar
+|sladolẹ̑dən
+}}
+
+===Etymology 2===
+Borrowed from {{bor|sl|en|LED}}, an abbreviation for {{l|en|light}} {{l|en|emitting}} {{l|en|diode}}.
+
+====Pronunciation====
+* {{sl-IPA|lẹ̑d}}
+* {{rhymes|sl|eːd}}
+* {{hyphenation|sl|led}}
+* {{homophones|sl|let|LED}}
+
+====Noun====
+{{sl-noun|lẹ̑d|f}}
+
+# {{lb|sl|uncommon}} [[LED]], [[light]] [[emitting]] [[diode]]
+
+{{sl-infl-noun
+|title=1
+|||lẹd||stemtone=c
+|gender=f
+|declension type=3
+|accent=1
+|below=Unlike some other nouns that follow third declensions, this one is often used in plural.
+}}
+
+====Synonyms====
+{{col4|sl
+|LED
+|svetleča dioda
+|LED-dioda
+|LED dioda
+|ledica
+}}
+
+====Derived terms====
+{{der4|sl
+|lẹ̑dica
+}}
+
+===See also===
+* {{l|sl|voda}}
+* {{l|sl|para}}
+* {{l|sl|dioda}}
 
 ===Further reading===
-* {{R:sl:Fran}}
+{{R:sl:FR}}
 
 {{c|sl|Ice}}
 
