@@ -708,15 +708,53 @@ From {{inh|en|enm|number}}, {{m|enm|nombre}}, {{m|enm|numbre}}, {{m|enm|noumbre}
 ====Verb====
 {{en-verb}}
 
-# {{lb|en|transitive}} To [[label]] (items) with numbers; to [[assign]] numbers to (items).
-#: '''''Number''' the baskets so that we can find them easily.''
 # {{lb|en|intransitive}} To [[total]] or [[count]]; to [[amount]] to.
-#: ''I don’t know how many books are in the library, but they must '''number''' in the thousands.''
+#: {{ux|en|I don’t know how many books are in the library, but they must '''number''' in the thousands.}}
+# {{lb|en|transitive|passive}} To [[limit]] to a certain number; to [[reckon]] (as by fate) to be few in number.
+#: {{ux|en|The old man knew that his days were '''numbered'''.}}
+# {{lb|en|transitive|literary|or|archaic}} To [[count]]; to [[determine]] the quantity of.
+#: {{ux|en|The king ordered that all his subjects be '''numbered'''.}}
+#: {{ux|en|Who can '''number''' all the stars and who can count the desert sands?}}
+# {{lb|en|transitive}} To [[label]] (items) with numbers; to [[assign]] numbers to (items).
+#: {{ux|en|'''Number''' the baskets so that we can find them easily.}}
+# {{lb|en|transitive|with ''[[off]]''}} To [[call out]] and [[assign]] a series of numbers (usually to a number of people in turn).
+#: {{ux|en|Shelley '''numbered''' off the group into two teams for the baseball game.}}
+# {{lb|en|transitive|with ''[[among]]''}} To [[classify]] or [[include]] (in a group of things)
+#: {{ux|en|Alexander the Great's army '''numbered''' an elite cavalry among its ranks.}}
+# {{lb|en|intransitive|with ''[[among]]''}} To be classified or included (in a certain group or category of things).
+#: {{ux|en|Her horses '''number''' among the fastest in her country.}}
 
 =====Derived terms=====
 * {{l|en|number among}}
 
 =====Translations=====
+
+{{trans-top|to total; to amount to}}
+* Asturian: {{tt|ast|numberar}}
+* Bulgarian: {{tt+|bg|наброявам}}
+* Catalan: {{tt+|ca|comptar}}, {{tt+|ca|sumar}}
+* Czech: {{tt+|cs|počítat|alt=počítat se}}
+* Esperanto: {{tt|eo|nombri}}
+* Finnish: {{tt+|fi|olla}}, {{tt+|fi|nousta}}
+* German: {{tt+|de|zählen}}
+* Gothic: {{tt|got|𐌲𐌰𐍂𐌰𐌸𐌾𐌰𐌽}}
+* Hungarian: {{tt|hu|a [[szám|száma/számuk]] (…[[van]])|lit=its/their number is…}}, {{tt+|hu|kitesz|alt=kitesz (-t)}}, {{tt+|hu|rúg|alt=rúg (-ra/-re)}}
+* Irish: {{tt|ga|uimhrigh}}
+* Italian: {{tt+|it|ammontare}}
+* Macedonian: {{tt|mk|избројува}}, {{tt|mk|набројува}}
+* Portuguese: {{tt+|pt|amontar}}
+* Russian: {{tt+|ru|насчи́тывать}}, {{tt+|ru|исчисля́ться}}
+* Turkish: {{tt+|tr|saymak}}
+}}
+{{trans-bottom}}
+
+{{trans-top|to be limited to a certain number}}
+{{trans-bottom}}
+
+{{trans-top-also|literary: to count|count}}
+* French: {{t+|fr|nombrer}}
+{{trans-bottom}}
+
 {{trans-top|label with numbers; assign numbers to}}{{multitrans|data=
 * Aramaic:
 *: Syriac: {{tt|syc|ܡܢܐ|tr=mna|sc=Syrc}}
@@ -752,23 +790,15 @@ From {{inh|en|enm|number}}, {{m|enm|nombre}}, {{m|enm|numbre}}, {{m|enm|noumbre}
 * Welsh: {{tt+|cy|rhifo}}
 {{trans-bottom}}
 
-{{trans-top|to total; to amount to}}
-* Asturian: {{tt|ast|numberar}}
-* Bulgarian: {{tt+|bg|наброявам}}
-* Catalan: {{tt+|ca|comptar}}, {{tt+|ca|sumar}}
-* Czech: {{tt+|cs|počítat|alt=počítat se}}
-* Esperanto: {{tt|eo|nombri}}
-* Finnish: {{tt+|fi|olla}}, {{tt+|fi|nousta}}
-* German: {{tt+|de|zählen}}
-* Gothic: {{tt|got|𐌲𐌰𐍂𐌰𐌸𐌾𐌰𐌽}}
-* Hungarian: {{tt|hu|a [[szám|száma/számuk]] (…[[van]])|lit=its/their number is…}}, {{tt+|hu|kitesz|alt=kitesz (-t)}}, {{tt+|hu|rúg|alt=rúg (-ra/-re)}}
-* Irish: {{tt|ga|uimhrigh}}
-* Italian: {{tt+|it|ammontare}}
-* Macedonian: {{tt|mk|избројува}}, {{tt|mk|набројува}}
-* Portuguese: {{tt+|pt|amontar}}
-* Russian: {{tt+|ru|насчи́тывать}}, {{tt+|ru|исчисля́ться}}
-* Turkish: {{tt+|tr|saymak}}
-}}
+{{trans-top|to call out and assign numbers}}
+{{trans-bottom}}
+
+{{trans-top|to classify or include (among)}}
+* French: {{t+|fr|compter}}
+{{trans-bottom}}
+
+{{trans-top|to be classified or included (among)}}
+* French: {{t+|fr|compter}}
 {{trans-bottom}}
 
 =====See also=====
