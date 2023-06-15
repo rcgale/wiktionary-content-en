@@ -36,23 +36,100 @@ From {{inh|sh|sla-pro|*straxъ}}.
 {{topics|sh|Fear}}
 
 ==Slovene==
+{{wp|lang=sl}}
+
+===Alternative forms===
+* {{l|sl|ſtrah}} {{q|Bohorič alphabet}}
 
 ===Etymology===
-From {{inh|sl|sla-pro|*straxъ}}.
+From {{inh|sl|sla-pro|*straxъ}}, from {{inh|sl|ine-bsl-pro|*strākš-}}, from {{inh|sl|ine-pro|*(s)treg-}}.
 
 ===Pronunciation===
 * {{sl-IPA|strȃh}}
+* {{rhymes|sl|aːx}}
+* {{hyphenation|sl|strah}}
 
 ===Noun===
 {{sl-noun|strȃh|m-in}}
 
 # [[fear]]
+#: {{syn|sl|bojazen|panika|plahota|pristrah|tesnoba}}
+# {{lb|sl|archaic}} [[horror]], [[unpleasantness]]{{sl-ref|SSKJ}}
+#: {{uxi|sl|'''Strah''' je, če zapade dva metra snega.|'''It''' is '''horrible''' if two meters of snow fall.}}
+#: {{syn|sl|groza|grozota|srh|prepast}}
+# [[phantom]], [[ghost]] {{gloss|a scary mythical creature}}
+#: {{syn|sl|fantom|duhovina|strašilo|bavbav}}
 
-====Inflection====
-{{sl-decl-noun-m-ov|stráh||ú}}
-{{sl-decl-noun-m|stráh}}
+====Usage notes====
+To express that someone is scared, impersonal ''be'' is used:
+* {{uxi|sl|Strah me je psov.|I am scared of dogs.|lit=There is fear of dogs to me.}}
+See the usage notes under ''{{l|sl|biti}}'' for more information.
+
+====Declension====
+{{sl-infl-noun
+|||strȃh|strah|stemtone=c
+|gender=m
+|declension type=1
+|subtype?=h
+|accent=4b
+|animate?=in
+|irregtitle=m1gensg
+|infix=ov
+}}
+{{sl-infl-noun
+|||strȃh|strah|stemtone=c
+|gender=m
+|declension type=1
+|subtype?=h
+|accent=1
+|animate?=in
+|infix=ov
+}}
+
+===Derived terms===
+{{der4|sl
+|strah in groza
+|strah leze v kosti
+|imeti strah
+|nagnati strah v kosti
+|vliti strah v kosti
+|videti strahove tam, kjer jih ni
+|videti povsod same strahove
+|napol mrtev od strahu
+|vzeti v strah
+|biti v strahu
+|imeti v strahu
+|ura strahov
+|ostati za strah
+|strah ima velike oči
+|strah je sredi votel, okoli ga pa nič ni
+|nočni strah
+|narediti iz strahu
+|delati brez strahu
+|narediti brez strahu
+|naganjati strah v kosti
+|poganjati strah v kosti
+|pognati strah v kosti
+|biti strah za stolček
+|vlivati strah v kosti
+|suhi strah
+|krtov strah
+|krtičji strah
+|strȃšən
+|strašȃnski
+|strašīti
+|strašílo
+|prestrášiti
+|ustrášiti
+|ustrahováti
+|zastrašīti
+}}
+
+===See also===
+* {{l|sl|bati||to fear}}
+* {{l|sl|ostrekel}}
 
 ===Further reading===
-* {{R:Fran}}
+{{R:sl:FR}}
 
-{{topics|sl|Emotions}}
+{{topics|sl|Emotions|Ghosts}}
