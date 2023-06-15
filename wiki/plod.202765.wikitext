@@ -189,16 +189,56 @@ From {{inh|sl|sla-pro|*plodъ}}.
 ===Noun===
 {{sl-noun|plọ̑d|m-in}}
 
-# [[fruit]] (part of plant)
+# [[fruit]] (seed-bearing part of plant)
+#: {{syn|sl|sad|sadež}}
+# [[fetus]] after the third month of [[gestation]]
+#: {{syn|sl|fetus}}
+# {{lb|sl|literary}} [[result]], [[outcome]]
+#: {{syn|sl|rezultat|izraz|odraz|pridobitev|otrok|output|posledica|produkt|sad}}
+# {{lb|sl|literary}} [[achievement]]
+#: {{syn|sl|dosežek|doseg|rezultat|uspeh|činitev|dobitek|dobitev|domet|dosegljaj|iztržek|produkt|proizvod|sad|žetev}}
+# {{lb|sl|literary|rare}} [[consequence]]
+#: {{syn|sl|posledica|nasledek|nastopek|posledek}}
+#: {{ant|sl|vzrok|razlog|vzročnik}}
+# {{lb|sl|obsolete}} [[tribe]]{{sl-ref|Pleteršnik, 2014}}
+#: {{syn|sl|pleme}}
 
-====Inflection====
-{{sl-decl-noun-m-ov|plód||ú}}
-{{sl-decl-noun-m|plód}}
-
-====Derived terms====
-* {{l|sl|plọ́den}}
+====Declension====
+{{sl-infl-noun
+|||plọ̑d|plod|stemtone=c
+|gender=m
+|declension type=1
+|subtype?=h
+|accent=4b
+|animate?=in
+|irregtitle=m1gensg
+|infix=ov
+}}
+{{sl-infl-noun
+|||plọ̑d|plod|stemtone=c
+|gender=m
+|declension type=1
+|subtype?=h
+|accent=1
+|animate?=in
+|above=* in dual and plural stylistically marked
+}}
+===Derived terms===
+{{der4|sl
+|plọ́den
+|plọ́dnost
+|plodovȋt
+|plodīti
+|oplodīti
+|oplojeváti
+|oplájati
+|razplodīti
+|razplojeváti
+|zaplodīti
+|zaplojeváti
+}}
 
 ===Further reading===
-* {{R:Fran}}
+{{R:sl:FR}}
 
-[[Category:sl:Botany]]
+{{c|sl|Botany|Tribes}}
