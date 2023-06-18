@@ -96,28 +96,65 @@ From {{inh|sh|sla-pro|*męso}}, from {{inh|sh|ine-pro|*mḗms}}.
 ==Slovene==
 
 ===Etymology===
-From {{inh|sl|sla-pro|*męso}}.
+From {{inh|sl|sla-pro|*męso}}, back-formed from {{m|ine-bsl-pro||*mēnsā́ˀ}}, the plural of {{inh|sla-pro|ine-bsl-pro|*mḗns}}, from {{inh|sla-pro|ine-pro|*mḗms}}.
 
 ===Pronunciation===
 * {{sl-IPA|mesọ̑}}
+* {{rhymes|sl|oː}}
+* {{hyphenation|sl|me|so}}
 
 ===Noun===
 {{sl-noun|mesọ̑|n}}
 
-# [[meat]] (food which comes from muscle)
-# [[flesh]]
+# {{lb|sl|usually|uncountable}} [[meat]] (food which comes from muscle)
+#: {{syn|sl|mesek|mesce|mesnina}}
+# {{lb|sl|uncountable}} [[flesh]]
+#: {{syn|sl|mišičje|mišičevje|muskulatura}}
+# {{lb|sl|by extension}} [[flesh]] {{gloss|edible part of fruits, vegetables and fungi}}
+# {{lb|sl|literary|rare}} [[human]] [[body]]
+#: {{syn|sl|telo|fizis|telesce|telesno|telešček|život}}
+# {{lb|sl|vulgar|uncommon|uncountable}} [[slave]]s
+#: {{syn|sl|suženj|rob|sužnji|sužnjik}}
+#: {{ant|sl|svobodnjak}}
 
-====Inflection====
-{{sl-decl-noun-n|mes}}<!-- mesó, mesó, mesá, mêsu/mésu, mêsu/mésu, mêsom/mésom; mési, mési, més, ?, ?, ?; mésa, mésa, més, ?, ?, ? -->
+====Declension====
+{{sl-infl-noun
+|mẹ́s|mẹ̄s|mẹ̑s|mes|stemtone=c
+|gender=n
+|declension type=1
+|subtype?=h
+|accent=4b
+|irregtitle=n1acc
+|openmid?=n
+|datsg2=mēsu|locsg2=mēsu|datsg3=mēsi|locsg3=mēsi|itdatsg3=y|itlocsg3=y
+|bottom=In some regions, the accented ''e'' may be open-mid throughout <!---not known if allows both accents in those forms as well-->}}
 
 ====Derived terms====
-* {{l|sl|mesojédec}}
+{{der4|sl
+|mesojẹ́dəc
+|beseda postane meso
+|dati meso in kosti
+|vsak človek je iz mesa
+|imeti rad mlado meso
+|duh je sicer voljan, ali meso je slabo
+|kazati meso
+|meso in kri
+|preiti v meso in kri
+|belo meso
+|rdeče meso
+|divje meso
+|mesẹ̑n
+|mésən
+|mesníca
+|mesár
+|mesaríca
+|mesáriti
+|razmesáriti
+}}
 
 ===Further reading===
-* {{R:sl:Fran}}
-
-[[Category:Slovene neuter o-stem nouns with mobile accent]]
-{{c|sl|Meats}}
+{{R:sl:FR}}
+{{c|sl|Meats|Fruits|Anatomy|Body parts|People|Slavery}}
 
 ==Spanish==
 
