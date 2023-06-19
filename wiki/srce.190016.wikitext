@@ -38,12 +38,17 @@ From {{inh|sh|sla-pro|*sьrdьce}}, from {{inh|sh|ine-bsl-pro|*śirˀdís}}, fro
 ==Slovene==
 {{wikipedia|lang=sl}}
 
+===Alternative forms===
+* {{l|sl|ſrze}} {{q|Bohorič alphabet}}
+
 ===Etymology===
 {{dercat|sl|ine-bsl-pro|ine-pro|inh=1}}
 From {{inh|sl|sla-pro|*sьrdьce}}.
 
 ===Pronunciation===
 * {{sl-IPA|srcẹ̑}}
+* {{rhymes|sl|eː}}
+* {{hyphenation|sl|sr|ce}}
 
 ===Noun===
 {{sl-noun|srcẹ̑|n}}
@@ -53,15 +58,19 @@ From {{inh|sl|sla-pro|*sьrdьce}}.
 # [[heart]] {{gloss|metaphor for the seat of human emotion}}
 # {{m|mul|♥}}, [[hearts]] in [[card game|card]]- and [[boardgame]]s
 
-====Inflection====
-<!--{{sl-decl-noun-n|src}}-->
-{{sl-decl-noun|srcé|sŕci|sŕca|srcé|sŕci|sŕca|srcá|sŕc|sŕc|sŕcu|sŕcema|sŕcem|sŕcu|sŕcih|sŕcih|sŕcem|sŕcema|sŕci}}<!-- srcé, srcé, srcá, sŕcu, sŕcu, sŕcem; sŕci, sŕci, sŕc, sŕcema, sŕcih, sŕcema; sŕca, sŕca, sŕc, sŕcem, sŕcih, sŕci -->
+====Declension====
+{{sl-infl-noun
+|sŕc|sr̄c|sȓc|src|stemtone=c
+|gender=n
+|declension type=1
+|subtype?=s
+|accent=4b
+}}
 
 ====See also====
 {{table:suits/sl}}
 
 ===Further reading===
-* {{R:sl:Fran}}
+{{R:sl:FR}}
 
-[[Category:Slovene neuter o-stem nouns with mobile accent]]
 {{topics|sl|Organs}}
