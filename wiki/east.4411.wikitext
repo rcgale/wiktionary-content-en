@@ -563,7 +563,8 @@ From {{inh|en|enm|est}}, from {{inh|en|ang|ēast}}, from {{inh|en|gmw-pro|*austr
 
 ===Etymology===
 {{root|ang|ine-pro|*h₂ews-|id=dawn}}
-From {{inh|ang|gmw-pro|*austr}}, from {{inh|ang|gem-pro|*austrą}}, from {{der|ang|ine-pro|*h₂ews-||eastern}}. Cognate with {{cog|ofs|āst}}, {{cog|osx|ost}}, {{cog|nl|oost}}, {{cog|goh|ōst}}, {{cog|de|Osten}}, {{cog|non|austr}}. The Indo-European root is also the source of {{cog|la|auster||southerly}} and {{m|la|aurora||dawn}}, {{cog|lv|austrumi||easterly}}, {{cog|sla-pro|*utro}}.
+{{dercat|ang|gem-pro|ine-pro|inh=2}}
+From {{inh|ang|gmw-pro|*austr}}.
 
 ===Pronunciation===
 * {{ang-IPA|ēast}}
@@ -571,7 +572,7 @@ From {{inh|ang|gmw-pro|*austr}}, from {{inh|ang|gem-pro|*austrą}}, from {{der|a
 ===Noun===
 {{ang-noun|head=ēast|m}}
 
-# the {{l|en|east}}
+# {{senseid|ang|noun}} the {{l|en|east}}
 
 ====Declension====
 {{ang-decl-noun-a-m|ēast}}
@@ -587,7 +588,7 @@ From {{inh|ang|gmw-pro|*austr}}, from {{inh|ang|gem-pro|*austrą}}, from {{der|a
 ===Adjective===
 {{ang-adj|ēast}}
 
-# [[eastern]], [[easterly]]
+# {{senseid|ang|adjective}} [[eastern]], [[easterly]]
 
 ====Declension====
 {{ang-adecl|ēast}}
@@ -595,7 +596,7 @@ From {{inh|ang|gmw-pro|*austr}}, from {{inh|ang|gem-pro|*austrą}}, from {{der|a
 ===Adverb===
 {{ang-adv|ēast}}
 
-# [[from]] the east
+# {{senseid|ang|adverb}} [[from]] the east
 # towards the east
 
 {{topics|ang|Compass points}}
