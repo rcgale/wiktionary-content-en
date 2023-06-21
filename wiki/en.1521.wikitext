@@ -1779,6 +1779,8 @@ Contraction of earlier {{m-lite|sl|eden|êden}}, from {{der-lite|sl|sla-pro|sc=L
 
 ===Pronunciation 1===
 * {{sl-IPA|ȅn}}
+* {{rhymes|sl|ɛn}}
+* {{hyphenation|sl|en}}
 
 ====Numeral====
 {{sl-num|ȅn}}
@@ -1789,8 +1791,7 @@ Contraction of earlier {{m-lite|sl|eden|êden}}, from {{der-lite|sl|sla-pro|sc=L
 The form {{m-lite|sl|eden|éden}} is used when the word does not modify a noun directly, but stands in predicate position. When counting or reciting numbers, the feminine form {{m-lite|sl|ena|éna}} is normally used (see the number box).
 
 =====Declension=====
-{{sl-decl-adj-table2-head|accent=1|decl=1|irreg=vowel lengthening to acute, irregular isolated forms}}
-{{sl-decl-adj-table2-indef|ȅn|énega|énemu|énem|énim|ȅn|éna|éne|éni|éno|éni|éno|ȇna|éno|énega|énemu|éno|énem|énim|ȇno|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]|[[en|–]]}}
+{{sl-decl-num2|ȅn|énega|énemu|énem|énim|ȅn|éna|éne|éni|éno|éni|éno|ȇna|éno|énega|énemu|éno|énem|énim|ȇno|n=sg}}
 {{sl-decl-adj-table2-other|1=énega|4={{l|sl|éno}}, {{l|sl|énega}}}}
 
 =====Derived terms=====
@@ -1806,18 +1807,8 @@ The form {{m-lite|sl|eden|éden}} is used when the word does not modify a noun d
 #: {{syn|sl|kāk|kākšen}}
 
 =====Declension=====
-{{sl-decl-adj-table2-head|accent=1|decl=1|irreg=vowel lengthening to acute, irregular isolated forms}}
-{{sl-decl-adj-table2-indef|
-ȅn|énega|énemu|énem|énim|ȅn|
-éna|éne|éni|éno|éni|éno|ȇna|
-éno|énega|énemu|éno|énem|énim|ȇno|
-éna|énih|énima|éna|énih|énima|ȇna|
-éni|énih|énima|éna|énih|énima|ȇni|
-éni|énih|énima|éna|énih|énima|ȇni|
-éni|énih|énim|éne|énih|énimi|ȇni|
-éne|énih|énim|éne|énih|énimi|ȇne|
-éna|énih|énim|éne|énih|énimi|ȇna}}
-{{sl-decl-adj-table2-other|1=énega|4={{l|sl|éno}}, {{l|sl|énega}}}}
+{{sl-infl-adj|declension type=1|accent=1|
+én||ȇn}}
 
 ====Noun====
 {{sl-noun|ȅn|m-an}}
