@@ -1,6 +1,5 @@
 {{also|Venn-diagram|venndiagram}}
 ==English==
-{{wikipedia}}
 [[Image:Venn3tab.svg|thumb|250px|A 3-set '''Venn diagram''', which is split by contours into 8 simply connected regions.]]
 
 ===Etymology===
@@ -10,6 +9,9 @@ Named after {{w|John Venn}} (1834–1923), British mathematician and philosopher
 {{en-noun|head=[[w:John Venn|Venn]] [[diagram]]}}
 
 # {{lb|en|set theory}} A diagram representing some [[set]]s by contours of closed shapes, such as circles or ellipses (and sometimes also the [[universal set]] as a rectangle enclosing all of these shapes), and indicating the relationships between the sets: by overlapping the shapes to show that the corresponding sets have a [[non-empty]] [[intersection]], and by possibly (but not necessarily) enclosing all of the sets (which are proper subsets of the universal set) within a universal set (represented typically by a rectangle); such that the total number of simply connected regions is <math style="vertical-align:-0%;">2^n</math>, where ''n'' is the number of depicted sets which are proper subsets of the universal set.
+
+====Hypernyms====
+* [[diagram]]
 
 ====Translations====
 {{trans-top|diagram representing sets by circles}}
@@ -31,11 +33,15 @@ Named after {{w|John Venn}} (1834–1923), British mathematician and philosopher
 * Spanish: {{t|es|diagrama de Venn|m}}
 * Swedish: {{t+|sv|Venndiagram|n}}
 * Tagalog: {{t|tl|guhiting Venn}}
+* Turkish: {{t|tr|Venn diyagramı}}
 {{trans-bottom}}
 
 ===See also===
 * {{l|en|Euler diagram}}
 * {{l|en|logic diagram}}
+
+===Further reading===
+* {{pedia}}
 
 [[Category:English eponyms]]
 [[Category:en:Visualization]]
