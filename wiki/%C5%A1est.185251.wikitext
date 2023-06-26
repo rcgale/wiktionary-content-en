@@ -48,27 +48,46 @@ From {{inh|sh|sla-pro|*šestь}}, from {{der|sh|ine-pro|*swéḱs}}.
 [[Category:sh:Six]]
 
 ==Slovene==
-{{number box/sl|6|pet|sedem<!--
--->|card=šest|cardalt=šést<!--
--->|ordalt=šêsti<!--
--->|mult=šestoren|multalt=šestóren<!--
--->}}
+{{number box|sl|6}}
 
 ===Etymology===
-From {{inh|sl|sla-pro|*šestь}}, from {{der|sl|ine-pro|*swéḱs}}.
+From {{inh|sl|sla-pro|*šestь}}, from {{inh|sl|ine-pro|*swéḱs}}.
 
 ===Pronunciation===
 * {{sl-IPA|šẹ̑st}}
+* {{rhymes|sl|eːst}}
+* {{hyphenation|sl|šest}}
 
 ===Numeral===
 {{sl-num|šẹ̑st}}
 
 # [[six]]
 
-====Inflection====
-{{sl-decl-num|šest}}
+====Declension====
+{{sl-decl-num|šẹ̑st|šést}}
+
+* less common
+{{sl-decl-num|šẹ̑st|declension type=2}}
+
+===Noun===
+{{sl-noun|šẹ̑st|n}}
+
+# number [[six]]
+
+====Declension====
+{{sl-infl-noun
+|||šẹ̑st||stemtone=c
+|gender=n
+|declension type=3
+|accent=1
+|n=sg
+|below=To express dual and plural, the phrase ''število šest'' 'number six' is used, e.g. ''dve '''števili šest''' sta napisani'', or, informally, also ''{{l|sl|šestka}}''.
+}}
 
 [[Category:Slovene cardinal numbers]]
+
+===Further reading===
+{{R:sl:FR}}
 
 ==Zazaki==
 
