@@ -36,23 +36,46 @@ From {{inh|sh|sla-pro|*devętь}}, ultimately from {{der|sh|ine-pro|*h₁néwn̥
 * {{l|sh|dèvētka}}
 
 ==Slovene==
-{{number box/sl|9|osem|deset|card=devet|cardalt=devét|ordalt=devêti}}
+{{number box|sl|9}}
+
+===Alternative forms===
+* {{l|sl|deuet}} {{q|Bohorič alphabet}}
 
 ===Etymology===
 From {{inh|sl|sla-pro|*devętь}}, ultimately from {{der|sl|ine-pro|*h₁néwn̥}}.
 
 ===Pronunciation===
 * {{sl-IPA|devẹ̑t}}
+* {{rhymes|sl|eːt}}
+* {{hyphenation|sl|de|vet}}
 
 ===Numeral===
 {{sl-num|devẹ̑t}}
 
 # [[nine]]
 
-====Inflection====
-{{sl-decl-num|devet}}
+====Declension====
+{{sl-decl-num|devẹ̑t|devét}}
 
-===Further reading===
-* {{R:sl:Fran}}
+* less common
+{{sl-decl-num|devẹ̑t|declension type=2}}
+
+===Noun===
+{{sl-noun|devẹ̑t|n}}
+
+# number [[nine]]
+
+====Declension====
+{{sl-infl-noun
+|||devẹ̑t||stemtone=c
+|gender=n
+|declension type=3
+|accent=1
+|n=sg
+|below=To express dual and plural, the phrase ''število devet'' 'number nine' is used, e.g. ''dve '''števili devet''' sta napisani'', or, informally, also ''{{l|sl|devetka}}''.
+}}
 
 [[Category:Slovene cardinal numbers]]
+
+===Further reading===
+{{R:sl:FR}} {{c|sl|Nine}}
