@@ -245,6 +245,7 @@ From {{inh|lv|ine-bsl-pro|*beź}}. Cognates include {{cog|ltg|bez}} and {{cog|lt
 
 =====Descendants=====
 * {{desc|pl|bez|id=elder}}
+* {{desc|szl|bes|id=elder}}
 
 ===Etymology 2===
 {{etymid|zlw-opl|without}}
@@ -266,6 +267,7 @@ From {{inh|lv|ine-bsl-pro|*beź}}. Cognates include {{cog|ltg|bez}} and {{cog|lt
 
 =====Descendants=====
 * {{desc|pl|bez|id=without}}
+* {{desc|szl|bez|id=without}}
 
 ===Etymology 3===
 {{etymid|zlw-opl|through}}
@@ -278,11 +280,12 @@ From {{m|zlw-opl|bez}}, due to confusion with the rhyming preposition {{m|zlw-op
 
 =====Descendants=====
 * {{desc|pl|bez|id=through}}
+* {{desc|szl|bez|id=through}}
 
 ===References===
-<references/>
-* {{R:zlw-opl:SPJSP|2. bez, beze}}
-* {{R:zlw-opl:SPJSP|1. bez|281}}
+{{reflist}}
+:* {{R:zlw-opl:SPJSP|2. bez, beze}}
+:* {{R:zlw-opl:SPJSP|1. bez|281}}
 
 {{C|zlw-opl|Moschatel family plants}}
 
@@ -448,7 +451,8 @@ Borrowed from {{bor|sh|ota|بز|tr=bez}}, from {{der|sh|ar|بَزّ}}. Akin to {
 
 ===Etymology 1===
 {{etymid|szl|without}}
-{{inh+|szl|sla-pro|*bez}}.
+{{dercat|szl|sla-pro|inh=1}}
+{{inh+|szl|zlw-opl|bez|id=without}}.
 
 ====Preposition====
 {{head|szl|preposition}} {{+obj|szl|gen}}
@@ -460,7 +464,7 @@ Borrowed from {{bor|sh|ota|بز|tr=bez}}, from {{der|sh|ar|بَزّ}}. Akin to {
 
 ===Etymology 2===
 {{etymid|szl|through}}
-Conflation with {{m|szl|przez}}.
+{{inh+|szl|zlw-opl|bez|id=through}}.
 
 ====Preposition====
 {{head|szl|preposition}} {{+obj|szl|acc}}
