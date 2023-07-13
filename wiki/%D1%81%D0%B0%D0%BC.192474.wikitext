@@ -220,10 +220,28 @@ From {{inh|uk|sla-pro|*samъ}}.
 ===Pronoun===
 {{head|uk|pronoun|g=m}}
 
-# {{lb|uk|definitive pronoun|emphatic}} [[self]]: {{qualifier|я сам, сама́}} [[myself]], {{qualifier|ти сам, сама́}} [[yourself]], {{qualifier|він сам}} [[himself]], {{qualifier|вона́ сама́}} [[herself]], {{qualifier|воно́ само́}} [[itself]], {{qualifier|ми сами́, самі́}} [[ourselves]], {{qualifier|ви сами́, самі́}} [[yourselves]], {{qualifier|вони́ сами́, самі́}} [[themselves]]
+# {{lb|uk|definitive pronoun|emphatic}} [[self]], -[[self]]
 
 ====Declension====
-{{uk-pro-sam|сам}}
+{{uk-adecl-manual
+|nom_m=сам
+|nom_n=саме́,само́
+|nom_f=сама́
+|nom_p=сами́,самі́
+|gen_m=само́го
+|gen_f=само́ї
+|gen_p=сами́х
+|dat_m=само́му
+|dat_f=самі́й
+|dat_p=сами́м
+|acc_f=саму́
+|ins_m=сами́м
+|ins_f=само́ю
+|ins_p=сами́ми
+|loc_m=само́му,самі́м
+|loc_f=самі́й
+|loc_p=сами́х
+}}
 
 ===Further reading===
 * {{R:uk:SUM-11}}
