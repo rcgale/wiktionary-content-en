@@ -2,21 +2,21 @@
 {{wikipedia|lang=fi}}
 
 ===Etymology 1===
-An archaic active present participle form of the verb {{m|fi|syödä}} ({{suffix|fi|syödä|alt1=syö-|pa|alt2=pä|id2=participial}}), meaning "one who eats", so called because the disease was once believed to be caused by a worm that eats the body from inside; thus the archaic terms {{m|fi|ruumiinmato|lit=worm of the body}} and {{m|fi|koi||moth}}.
+An archaic active present participle form of the verb {{m|fi|syödä}} ({{suffix|fi|syödä|alt1=syö-|pa|alt2=pä|id2=participial}}). {{lit|that which eats}}, so called because the disease was once believed to be caused by a worm that eats the body from inside. Compare the archaic synonyms {{m|fi|ruumiinmato|lit=worm of the body}} and {{m|fi|koi|lit=moth}}.
 
 ====Pronunciation====
 {{fi-p}}
 
 ====Noun====
-{{head|fi|noun}}
+{{fi-noun}}
 
 # {{lb|fi|pathology}} [[cancer]]
+#: {{syn|fi|karsino-|qq1=compounds|koi|koiska|ruumiinmato|qq4=all archaic}}
+# {{lb|fi|figuratively}} [[cancer]], [[corruption]], [[rot]] {{gl|a spreading evil}}
+#: {{syn|fi|korruptio|mädännäisyys|mädätys|mätä}}
 
 =====Declension=====
 {{fi-decl-koira|syö|p|v|ä}}
-
-=====Synonyms=====
-* {{l|fi|koi}}, {{l|fi|koiska}}, {{l|fi|ruumiinmato}} {{qualifier|archaic}}
 
 =====Compounds=====
 {{der-top3|compounds}}
@@ -89,10 +89,8 @@ From {{m|fi|syödä||to eat}}.
 {{head|fi|verb form}}
 
 # {{infl of|fi|syödä||3|s|pres|ind|enclitic=-pä}}
-#: '''''Syöpä''' hän kiltisti puuronsa!''
-#:: How kindly he '''eats''' his porridge!
+#: {{ux|'''Syöpä''' hän kiltisti puuronsa!|How kindly he '''eats''' his porridge!}}
 # {{infl of|fi|syödä||2|s|pres|imp|enclitic=-pä}}
-#: '''''Syöpä''' kiltisti puurosi!''
-#:: '''Would you be''' so kind '''to eat''' your porridge!
+#: {{ux|fi\'''Syöpä''' kiltisti puurosi!|'''Would you be''' so kind '''to eat''' your porridge!}}
 
 [[Category:fi:Diseases]]
