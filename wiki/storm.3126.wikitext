@@ -420,98 +420,158 @@ From {{inh|en|enm|storm|t=disturbed state of the atmosphere; heavy precipitation
 * {{l|en|blizzard}}
 
 ===Etymology 2===
-The {{glossary|verb}} is derived from {{der|en|enm|stormen}}, {{m|enm|sturmen}}, from {{der|en|ang|styrman|t=to storm, rage; make a great noise, cry aloud, shout}}, from {{der|en|gmw-pro|*sturmijan}}, from {{der|en|gem-pro|*sturmijaną|t=to storm}}. Cognate with {{cog|nl|stormen|t=to storm; bluster}}, {{cog|nds|stormen|t=to storm}}, {{cog|de|stürmen|t=to storm; rage; attack; assault}}, {{cog|sv|storma|t=to storm; bluster}}, {{cog|is|storma|t=to storm}}.
+The {{glossary|verb}} is derived from {{inh|en|enm|stormen|t=of the wind: to blow violently; to cause to roll or toss}},<ref name="MED">{{R:MED Online|entry=stormen|pos=v|id=MED43117}}</ref> from {{m|enm|storm|pos=noun}} (see [[#Etymology 1|etymology 1]]) + {{m|enm|-en|pos={{glossary|suffix}} forming the {{glossary|infinitive}}s of {{glossary|verb}}s}}.<ref>{{R:MED Online|entry=-en|pos=''suf.''(3)|noformat=1|id=MED13518}}</ref><ref>{{R:OED Online|pos=v|date=July 2023|nodot=1}}; {{R:Lexico|pos=v}}</ref>
+
+Compare {{cog|enm|sturmen|t=to attack (someone) with great force}},<ref>{{R:MED Online|entry=sturmen|pos=v|id=MED43493}}</ref> from {{cog|ang|styrman|t=to rage, storm; to make a great noise, cry aloud, shout, storm}}, from {{cog|gmw-pro|*sturmijan|t=to storm}}, from {{cog|gem-pro|*sturmijaną|t=to storm}}, from {{m|gem-pro|*sturmaz|t=a storm}} (see etymology 1) + {{m|gem-pro|*-janą|pos=suffix forming {{glossary|causative}}s from {{glossary|strong verb}}s, with a sense of ‘to cause to do [''the action of the verb'']’}}.<ref>Compare {{R:OED Online|entry=† sturme|url=https://www.oed.com/dictionary/sturme_v|pos=v|date=July 2023}}</ref> The Middle English word did not survive into modern English.
 
 The {{glossary|noun}} is derived from the verb.<ref name="OED"/>
+
+{{rel-top|cognates}}
+* {{cog|nl|stormen|t=to bluster, storm}}
+* {{cog|de|stürmen|t=to rage, storm; to assault, attack}}
+* {{cog|is|storma|t=to storm}}
+* {{cog|nds|stormen|t=to storm}}
+* {{cog|sv|storma|t=to bluster, storm}}
+{{rel-bottom}}
 
 ====Verb====
 {{en-verb}}
 
-# {{lb|en|impersonal}} (weather ''it'') To be [[violent]], with [[strong]] [[wind]]s and usually [[rain]], [[thunder]], [[lightning]], or [[snow]].
+# {{lb|en|impersonal|chiefly|US}} ''Preceded by the [[dummy subject]]'' '''[[it#Pronoun|it]]''': to [[have#Verb|have]] [[strong#Adjective|strong]] [[wind#Noun|winds]] and usually [[lightning#Noun|lightning]] and [[thunder#Noun|thunder]], and/or [[hail#Noun|hail]], [[rain#Noun|rain]], or [[snow#Noun|snow]].
 #: {{ux|en|It '''stormed''' throughout the night.}}
-# {{lb|en|intransitive}} {{lb|en|metaphor}} To [[rage]] or [[fume]]; to be in a [[violent]] [[temper]].
-#* {{RQ:Swift Directions to Servants}}
-#*: The master '''storms''', the lady scolds.
-# {{lb|en|intransitive|with adverbial of direction}} To move [[quickly]] and [[noisily]] like a [[#Noun|storm]], usually in a state of [[uproar]] or [[anger]].
-#: {{ux|en|She '''stormed''' out of the room.}}
-#* {{quote-journal|en|year=1960|month=October|author=P. Ransome-Wallis|title=Modern motive power of the German Federal Railway: Part Two|journal=Trains Illustrated|page=611|text=A lovely crisp exhaust: a feeling of almost unlimited power combined with complete freedom of running: and, to crown it all, a most melodious and wholly American chime whistle&mdash;these were my immediate impressions as we '''stormed''' rapidly out of Göttingen, intent on winning back some of the lost time.}}
-# {{lb|en|transitive}} [army; crowd, rioters] To [[assault]] (a significant building) with the aim to gain power over it.
-#: {{ux|en|Troops '''stormed''' the complex.}}
-#: {{ux|en|the '''storming''' of the [[Bastille]]}}
-#* {{quote-book
-|en
-|year=1974
-|origyear=1973
-|last=Karol
-|first=K. S.
-|chapter=The August of the Ultra-Left
-|translator=Mervyn Jones
-|title=The Second Chinese Revolution
-|url=https://archive.org/details/secondchineserev0000karo/
-|publisher={{w|Hill and Wang}}
-|LCCN=73-91174
-|OCLC=482659617
-|page=278
-|pageurl=https://archive.org/details/secondchineserev0000karo/page/278/
-|text=The crowd was patient and never dreamed of '''storming''' Chungnanhai (which could scarcely have resisted a mass assault) and the most battle-tested groups made no attempt to send their commandos to kidnap the “highest leader.” Calm—if one may use the word—prevailed, and the group leaders were content to lead their followers in chanting slogans against Liu and quotations from Mao. The Chairman, like Vice-Chairman Lin Piao, had been away on a tour of inspection in the provinces since early July; at the time of the siege of Chungnanhai, he was in Wuhan.}}
-# {{lb|en|transitive}} {{lb|en|rare|poetic}} to assault, gain power over (heart, mind+).
-#* {{quote-song|en|lyricist=Thomas Morell|composer=George Frideric Handel|title=''Theodora''|url=http://opera.stanford.edu/iu/libretti/theodora.htm|year=1750|passage=No engine can a tyrant find, to '''storm''' the truth-supported mind.}}
+# {{lb|en|transitive}}
+## To [[make#Verb|make]] (someone or something) [[stormy]]; to [[agitate]] (someone or something) [[violently]].
+## {{lb|en|figuratively}}
+### To [[disturb#Verb|disturb]] or [[trouble#Verb|trouble]] (someone).
+###: {{synonyms|en|Thesaurus:annoy}}
+### To [[use#Verb|use]] ([[harsh#Adjective|harsh]] [[language]]).
+## {{lb|en|chiefly|military}} To violently [[assault#Verb|assault]] (a [[fortified#Adjective|fortified]] [[position#Noun|position]] or [[stronghold]], a [[building#Noun|building]], etc.) with the [[aim#Noun|aim]] of [[gain#Verb|gaining]] [[control#Noun|control]] of it.
+##: {{ux|en|the '''storming''' of the [[Bastille]]}}
+##: {{ux|en|Troops '''stormed''' the complex.}}
+##* {{quote-book|en|author=K. S. Karol|chapter=The August of the Ultra-Left|translator=Mervyn Jones|title=The Second Chinese Revolution|publisher={{w|Hill and Wang}}|year=1973|year_published=1974|page=278|pageurl=https://archive.org/details/secondchineserev0000karo/page/278/mode/1up|isbn=|passage=The crowd was patient and never dreamed of '''storming''' Chungnanhai (which could scarcely have resisted a mass assault) and the most battle-tested groups made no attempt to send their commandos to kidnap the “highest leader.” Calm—if one may use the word—prevailed, and the group leaders were content to lead their followers in chanting slogans against Liu and quotations from Mao. The Chairman, like Vice-Chairman Lin Piao, had been away on a tour of inspection in the provinces since early July; at the time of the siege of Chungnanhai, he was in Wuhan.}}
+### {{lb|en|figuratively|often|poetic}} To assault or gain control or [[power#Noun|power]] over (someone's [[heart#Noun|heart]], [[mind#Noun|mind]], etc.).
+###* {{quote-song|en|lyricist=Thomas Morell|composer=George Frideric Handel|title=Theodora|url=http://opera.stanford.edu/iu/libretti/theodora.htm|year=1750|passage=No engine can a tyrant find, to '''storm''' the truth-supported mind.}}
+## {{lb|en|Britain|dialectal|agriculture}} To [[protect]] ([[seed#Noun|seed]]-[[hay#Noun|hay]]) from stormy weather by [[put#Verb|putting]] [[sheaf#Noun|sheaves]] of them into [[small#Adjective|small]] [[stack#Noun|stacks]].
+# {{lb|en|intransitive}}
+## Of the [[weather#Noun|weather]]: to be [[violent#Adjective|violent]], with strong winds and usually lightning and thunder, and/or hail, rain, or snow.
+## To be [[expose]]d to harsh (especially [[cold#Adjective|cold]]) weather.
+## {{lb|en|figuratively}}
+### To [[move#Verb|move]] [[noisily]] and [[quickly]] like a [[storm#Noun|storm]] ''(noun {{senseno|en|weather}})'', usually in a [[state#Noun|state]] of [[anger#Noun|anger]] or [[uproar#Noun|uproar]].
+###: {{ux|en|She '''stormed''' out of the room.}}
+###* {{quote-journal|en|year=1960|month=October|author=P. Ransome-Wallis|title=Modern motive power of the German Federal Railway: Part Two|journal=Trains Illustrated|page=611|passage=A lovely crisp exhaust: a feeling of almost unlimited power combined with complete freedom of running: and, to crown it all, a most melodious and wholly American chime whistle&mdash;these were my immediate impressions as we '''stormed''' rapidly out of Göttingen, intent on winning back some of the lost time.}}
+### {{lb|en|by extension|chiefly|military}} To move quickly in the [[course#Noun|course]] of an assault on a fortified position or stronghold, a building, etc.
+### To be in a violent [[temper#Noun|temper]]; to use harsh language; to [[fume#Verb|fume]], to [[rage#Verb|rage]].
+###* {{RQ:Swift Directions to Servants|passage=The master '''storms''', the lady scolds.}}
+
+=====Conjugation=====
+{{en-conj|old=1}}
 
 =====Derived terms=====
-* {{l|en|bestorm}}
+{{col3|en
+|{{l|en|barnstorm|pos=verb}}
+|bestorm
+|outstorm
+|stormable
+|{{l|en|stormed|pos=adjective}}
+|stormer
+|{{l|en|storming|pos=adjective, noun}}
+|yarnstorm
+}}
 
 =====Translations=====
-{{trans-top|to storm}}{{multitrans|data=
+{{trans-top|to have strong winds and usually lightning and thunder, and/or hail, rain, or snow}}{{multitrans|data=
 * Esperanto: {{tt|eo|ŝtormi}}
+* Finnish: {{t-needed|fi}}
+* Macedonian: {{t-needed|mk}}
 * Turkish: {{tt+|tr|esmek}}
 {{trans-bottom}}
 
-{{trans-top|to move quickly and noisily}}
-* Bulgarian: {{tt+|bg|фуча}}
-* Dutch: {{tt+|nl|stormen}}
-* Finnish: {{tt+|fi|rynnätä}}, {{tt|fi|rynnistää}}
-* Hebrew: {{tt+|he|סער|m|tr=saár}}
-* Italian: {{tt+|it|irrompere}}, {{tt+|it|precipitarsi}}, {{tt|it|catapultarsi}}
-* Portuguese: {{tt+|pt|irromper}}
-* Slovene: {{tt|sl|vihrati}}
-* Swedish: {{tt+|sv|storma}}
+{{trans-top|to make (someone or something) stormy; to agitate (someone or something) violently}}
+* Finnish: {{t-needed|fi}}
+* Macedonian: {{t-needed|mk}}
 {{trans-bottom}}
 
-{{trans-top|to rage or fume}}
-* Bulgarian: {{tt+|bg|бушувам}}
-* Chinese:
-*: Mandarin: {{tt+|cmn|大发雷霆}}
-* Hebrew: {{tt+|he|סער|m|tr=saár}}, {{tt+|he|זעף|m|tr=zaáf}}
-* Italian: {{tt|it|[[dare]] in [[escandescenze]]}}, {{tt|it|[[uscire]] dai [[gangheri]]}}, {{tt|it|[[dare]] di [[testa]]}}
-* Maori: {{tt|mi|rutu}}
+{{trans-see|to disturb or trouble (someone)|disturb|trouble}}
+
+{{trans-top|to use (harsh language)}}
+* Finnish: {{t-needed|fi}}
+* Macedonian: {{t-needed|mk}}
 {{trans-bottom}}
 
-{{trans-top|to assault}}
+{{trans-top|to violently assault (a fortified position or stronghold, a building, etc.) with the aim of gaining control of it}}
 * Arabic: {{t-needed|ar}}
-* Bulgarian: {{tt+|bg|щурмува́м|sc=Cyrl}}
+* Bulgarian: {{tt+|bg|щурмува́м}}
 * Chinese:
 *: Mandarin: {{tt+|cmn|突袭}}
 * Dutch: {{tt+|nl|bestormen}}
 * Esperanto: {{t-needed|eo}}
 * Finnish: {{tt|fi|rynnäköidä}}
-* French: {{tt|fr|donner l’assaut}}, {{tt+|fr|assaillir}}
+* French: {{tt+|fr|assaillir}}, {{tt|fr|donner l’assaut}}
 * German: {{tt+|de|stürmen}}
-* Hebrew: {{tt+|he|הסתער|m|tr=histaér}}
+* Hebrew: {{tt+|he|הסתער|tr=histaér|m}}
 * Hungarian: {{tt+|hu|rohamoz}}
 * Italian: {{tt+|it|assaltare}}, {{tt+|it|attaccare}}, {{tt|it|[[prendere]] d'[[assalto]]}}
 * Japanese: {{t-needed|ja}}
-* Latin: {{tt|la|expugnō}}, {{tt|la|assultō}}
+* Latin: {{tt|la|assultō}}, {{tt|la|expugnō}}
+* Macedonian: {{t-needed|mk}}
 * Maori: {{tt|mi|pāhoro}}, {{tt|mi|taiapu}}
 * Polish: {{tt+|pl|szturmować|impf}}
 * Portuguese: {{tt+|pt|assaltar}}
-* Romanian: {{tt+|ro|ataca}}, {{tt+|ro|asalta}}
+* Romanian: {{tt+|ro|asalta}}, {{tt+|ro|ataca}}
 * Russian: {{tt+|ru|штурмова́ть|impf}}
 * Slovene: {{tt|sl|napasti}}, {{tt|sl|naskočiti}}
 * Spanish: {{tt+|es|irrumpir}}
 * Swedish: {{tt+|sv|storma}}
 * Thai: {{t-needed|th}}
-* Turkish: {{tt+|tr|hücum etmek}}, {{tt|tr|hücuma kalkmak}}
-}}
+* Turkish: {{tt|tr|hücuma kalkmak}}, {{tt+|tr|hücum etmek}}
+{{trans-bottom}}
+
+{{trans-top|to assault or gain control or power over (someone’s heart, mind, etc.)}}
+* Finnish: {{t-needed|fi}}
+* Macedonian: {{t-needed|mk}}
+{{trans-bottom}}
+
+{{trans-top|to protect (seed-hay) from stormy weather by putting sheaves of them into small stacks}}
+* Finnish: {{t-needed|fi}}
+* Macedonian: {{t-needed|mk}}
+{{trans-bottom}}
+
+{{trans-top|of the weather: to be violent, with strong winds and usually lightning and thunder, and/or hail, rain, or snow}}
+* Finnish: {{t-needed|fi}}
+* Macedonian: {{t-needed|mk}}
+{{trans-bottom}}
+
+{{trans-top|to be exposed to harsh (especially cold) weather}}
+* Finnish: {{t-needed|fi}}
+* Macedonian: {{t-needed|mk}}
+{{trans-bottom}}
+
+{{trans-top|to move noisily and quickly like a storm}}
+* Bulgarian: {{tt+|bg|фуча}}
+* Dutch: {{tt+|nl|stormen}}
+* Finnish: {{tt+|fi|rynnätä}}, {{tt|fi|rynnistää}}
+* Hebrew: {{tt+|he|סער|tr=saár|m}}
+* Italian: {{tt|it|catapultarsi}}, {{tt+|it|irrompere}}, {{tt+|it|precipitarsi}}
+* Macedonian: {{t-needed|mk}}
+* Portuguese: {{tt+|pt|irromper}}
+* Slovene: {{tt|sl|vihrati}}
+* Swedish: {{tt+|sv|storma}}
+{{trans-bottom}}
+
+{{trans-top|to move quickly in the course of an assault on a fortified position or stronghold, a building, etc.}}
+* Finnish: {{t-needed|fi}}
+* Macedonian: {{t-needed|mk}}
+{{trans-bottom}}
+
+{{trans-top-also|to be in a violent temper; to use harsh language|fume|rage}}
+* Bulgarian: {{tt+|bg|бушувам}}
+* Chinese:
+*: Mandarin: {{tt+|cmn|大发雷霆}}
+* Finnish: {{t-needed|fi}}
+* Hebrew: {{tt+|he|סער|tr=saár|m}}, {{tt+|he|זעף|tr=zaáf|m}}
+* Italian: {{tt|it|[[dare]] di [[testa]]}}, {{tt|it|[[dare]] in [[escandescenze]]}}, {{tt|it|[[uscire]] dai [[gangheri]]}}
+* Macedonian: {{t-needed|mk}}
+* Maori: {{tt|mi|rutu}}
 {{trans-bottom}}
 
 ====Noun====
