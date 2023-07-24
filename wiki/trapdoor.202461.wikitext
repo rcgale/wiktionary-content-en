@@ -3,8 +3,7 @@
 {{wikipedia}}
 
 ===Alternative forms===
-* {{l|en|trap door}}
-* {{l|en|trap-door}}
+* {{alt|en|trap door|trap-door}}
 
 ===Etymology===
 {{compound|en|trap|door}}
@@ -77,6 +76,11 @@
 * German: {{t+check|de|Falltür|f}}
 * Italian: {{t+check|it|botola|f}}
 {{trans-bottom}}
+
+===Verb===
+{{en-verb}}
+
+# {{lb|en|cryptography|transitive}} To [[subvert]] (a cryptographic scheme) by means of a secret parameter that makes the [[trapdoor function]] easy to compute.
 
 ===References===
 <references/>
