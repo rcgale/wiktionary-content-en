@@ -513,24 +513,42 @@ Compare {{cog|ang|speld||splinter}}, {{cog|goh|spaltan||to split}}, {{cog|sga|sl
 
 ==Swedish==
 
-===Etymology===
-From {{inh|sv|gmq-osw|split}}, borrowed from {{der|sv|gml|spliten|t=to split}}.
+===Etymology 1===
+From {{inh|sv|gmq-osw|split}}, borrowed from {{der|sv|gml|spliten|t=to split}}. {{etydate|1533}}
 
-===Noun===
-{{head|sv|noun|g=n|g2=c}}
+====Pronunciation====
+* {{IPA|sv|/spliːt/}}
+
+====Noun====
+{{sv-noun|n}}
 
 # [[discord]], [[strife]], [[dissension]]
 #: ''Det blir avunden och '''splitet''', som blir Sveriges fördärv.''
 #:: It is the envy and the strife, that will be Sweden's demise.
+
+=====Declension=====
+{{sv-noun-unc-irreg-n|2=splitet}}
+
+=====Derived terms=====
+* {{l|sv|så split}}
+
+===Etymology 2===
+{{bor+|sv|en|split}}. {{etydate|1974}}
+
+====Pronunciation====
+* {{IPA|sv|/splɪtː/}}
+
+====Noun====
+{{sv-noun|c}}
+
 # a [[#English|split]] (of shares in a company)
 # a [[side split]], a [[straddle split]] (in gymnastics)
 
-====Declension====
-{{sv-noun-unc-irreg-n|2=splitet|definitions=1}}
-{{sv-infl-noun-c-ar|definitions=2, 3}}
-{{sv-infl-noun-c-ar|2=splitt|definitions=2, 3}}
+=====Declension=====
+{{sv-infl-noun-c-ar}}
+{{sv-infl-noun-c-ar|2=splitt}}
 
-====See also====
+=====See also=====
 * {{l|sv|aktiesplit}}
 * {{l|sv|spagat}}
 * {{l|sv|splits}}
