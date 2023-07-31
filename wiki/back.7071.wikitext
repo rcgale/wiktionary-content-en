@@ -355,7 +355,7 @@ In linguistic use describing the position of the tongue, the comparative {{m|en|
 #: {{ux|en|He sat in the '''back''' of the room.}}
 ## The side of any object which is opposite the [[front]] or useful side.
 ##: {{ux|en|Turn the book over and look at the '''back'''.}}
-### The edge of a book which is [[bind|bound]].
+### {{senseid|en|bound edge of book}} The edge of a book which is [[bind|bound]].
 ###: {{ux|en|The titles are printed on the '''backs''' of the books.}}
 ### {{lb|en|printing}} The inside [[margin]] of a page.
 ###* {{quote-book|en|1841|{{w|William Savage (printer)|William Savage}}| page=472| edition=1965 Ayer Publishing ed.| title=[http://books.google.com/books?id=sS4H3hax5hAC A Dictionary of the Art of Printing]| isbn=0833731289| passage=Convenience and custom have familiarised us to the printed page being a little higher than the middle of the leaf, and to its having a little more margin at the fore edge than in the '''back'''.}}
@@ -390,6 +390,7 @@ In linguistic use describing the position of the tongue, the comparative {{m|en|
 =====Synonyms=====
 * {{sense|side opposite the visible side}} {{l|en|reverse}}
 * {{sense|rear of the body}} {{l|en|dorsum}}
+* {{sense|bound edge of book}} {{l|en|spine|id=bound edge of book}}
 
 =====Antonyms=====
 * {{sense|side opposite the front or useful side}} {{l|en|front}}
@@ -718,21 +719,7 @@ In linguistic use describing the position of the tongue, the comparative {{m|en|
 * Telugu: {{tt+|te|వెనుక}}
 {{trans-bottom}}
 
-{{trans-top|the edge of a book which is bound}}
-* Bulgarian: {{t|bg|корица|f}}
-* Czech: {{tt+|cs|hřbet|m}}
-* Dutch: {{tt+|nl|rug|m}}
-* Esperanto: {{tt+|eo|dorso}}
-* Finnish: {{tt+|fi|selkä}}, {{tt|fi|selkämys}}
-* German: {{tt+|de|Rücken|m}}, {{tt+|de|Buchrücken|m}}
-* Pashto: {{tt+|ps|شا|tr=šâ}}, {{tt|ps|څټ|tr=śëṭ}}
-* Portuguese: {{tt+|pt|lombada|f}}
-* Romanian: {{tt+|ro|sfârșit|n}}
-* Russian: {{tt+|ru|корешо́к|m}}
-* Spanish: {{tt+|es|lomo|m}}
-* Swedish: {{tt+|sv|rygg|c}}
-* Zulu: {{tt|zu|umqolo|c3|c4}}
-{{trans-bottom}}
+{{trans-see|the edge of a book which is bound|spine|id=bound edge of book}}
 
 {{trans-top|the backrest, the part of a piece of furniture which receives the human back}}
 * Bulgarian: {{t|bg|облегалка|f}}
