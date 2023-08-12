@@ -4,16 +4,17 @@
 
 ===Pronunciation===
 * {{IPA|bar|/ˈkʰenɐ/}}
+* {{hyphenation|bar|ken|na}}
 
 ===Etymology 1===
 {{root|bar|ine-pro|*ǵneh₃-}}
-From {{inh|bar|gmh|kunnen}}, from {{inh|bar|goh|kunnan}}, from {{inh|bar|gmw-pro|*kunnan}}. Cognate with {{cog|de|können}}.
+From {{inh|bar|gmh|kunnen}}, from {{inh|bar|goh|kunnan}}, from {{inh|bar|gmw-pro|*kunnan}}. Cognate with {{cog|de|können}}, {{cog|en|can}}, {{cog|nl|kan}}.
 
 ====Alternative forms====
 * {{alter|bar|kinna}}
 
 ====Verb====
-{{bar-verb|pp=kenna|subj=kannt}}
+{{bar-verb|pp=kenna}}
 
 # {{lb|bar|auxiliary}} [[can]], to [[be able to]]
 
@@ -26,10 +27,10 @@ From {{inh|bar|gmh|kunnen}}, from {{inh|bar|goh|kunnan}}, from {{inh|bar|gmw-pro
 |pres-pl=kennan
 |pres-pl2=kents
 <!--Subjunctive-->
-|subj-sg=kànt
-|subj-sg2=kànst
-|subj-pl=kàntn
-|subj-pl2=kànts
+|subj-sg=kànt, kuntat
+|subj-sg2=kànst, kuntast
+|subj-pl=kàntn, kuntadn
+|subj-pl2=kànts, kuntats
 <!--Imperative-->
 |imp-sg=-
 <!--Participles-->
@@ -37,13 +38,37 @@ From {{inh|bar|gmh|kunnen}}, from {{inh|bar|goh|kunnan}}, from {{inh|bar|gmw-pro
 }}
 
 ===Etymology 2===
-Cognate with {{cog|de|kennen}}.
+{{root|bar|ine-pro|*ǵneh₃-}}
+From {{inh|bar|goh|kennan}}, from {{inh|bar|gmw-pro|*kannijan||to know}}, from {{inh|bar|gem-pro|*kannijaną||to know}}, a causative form of {{m|gem-pro|*kunnaną}} formed with the suffix {{m|gem-pro|*-janą}}. Cognate with {{cog|de|kennen}}, {{cog|nl|kennen}}, {{cog|sco|-}} and {{cog|en|ken||to know}}.
 
 ====Verb====
 {{bar-verb|pp=kennt}}
 
-# to [[know]], to be acquainted with; to be familiar with
-# to [[recognize]], [[perceive]]
+# {{lb|bar|transitive}} to [[know]], to be acquainted with; to be familiar with
+# {{lb|bar|transitive}} to [[recognize]], [[perceive]]
+
+=====Conjugation=====
+{{bar-conj
+<!--Present-->
+|pres-sg1=kenn
+|pres-sg2=kennst
+|pres-sg3=kennt
+|pres-pl=kennan
+|pres-pl2=kennts
+<!--Subjunctive-->
+|subj-sg=kennat
+|subj-sg2=kennast
+|subj-pl=kennadn
+|subj-pl2=kennats
+<!--Imperative-->
+|imp-sg=-
+<!--Participles-->
+|part-past=kennt
+}}
+
+=====Derived terms=====
+* {{l|bar|auskenna}}
+* {{l|bar|kennalerna}}
 
 ==Estonian==
 
