@@ -16,14 +16,14 @@ From {{inh|en|enm|ministre}}, from {{der|en|fro|ministre}}, from {{der|en|la|min
 {{wikipedia}}
 {{en-noun}}
 
-# {{senseid|en|cleric}} A person who is trained to preach, to perform religious ceremonies, and to afford [[pastoral]] care at a [[Protestant]] [[church]].
+# {{senseid|en|cleric}} {{lb|en|religion}} A person who is trained to preach, to perform religious ceremonies, and to afford [[pastoral]] care at a [[Protestant]] [[church]].
 #: {{ux|en|The '''minister''' said a prayer on behalf of the entire [[congregation]].}}
-# A politician who heads a '''[[ministry]]''' (national or regional government department for [[public service]]).
+# {{senseid|en|government}} {{lb|en|government}} A politician who heads a [[ministry]]
 #: {{ux|en|He was newly appointed to be '''Minister''' of the Interior.}}
 #: {{syn|en|Thesaurus:government minister}}
 #* {{quote-book|en|year=1661 (first printed)|author={{w|Francis Bacon}}|title=A Letter of Advice to the Duke of Buckingham|text='''Ministers''' to kings, whose eyes, ears, and hands they are, must be answerable to God and man.}}
-# In [[diplomacy]], the rank of diplomat directly below [[ambassador]].
-# A [[servant]]; a [[subordinate]]; an [[officer]] or [[assistant]] of [[inferior]] [[rank]]; hence, an [[agent]], an [[instrument]].
+# {{senseid|en|diplomacy}} In [[diplomacy]], the rank of diplomat directly below [[ambassador]].
+# {{senseid|en|servant}} A [[servant]]; a [[subordinate]]; an [[officer]] or [[assistant]] of [[inferior]] [[rank]]; hence, an [[agent]], an [[instrument]].
 #* {{RQ:Shakespeare Winter's Tale|act=III|scene=ii|page=287|column=2|passage={{nb...}}, I choſe&nbsp;/ ''Camillo'' for the '''miniſter''', to poyſon&nbsp;/ My friend ''Polixenes:'' {{...}}}}
 #* {{RQ:KJV|Exodus|24|13|page=162|column=1|text=And Moſes roſe vp, and his '''miniſter''' Ioſhua: and Moſes went vp into the mount of God.}}
 
@@ -247,7 +247,7 @@ Not to be confused with {{m|en|minster}}.
 ===Anagrams===
 * {{anagrams|en|a=eiimnrst|Tenriism|Terminis|interims|ministre|smirnite}}
 
-{{c|en|Government|Occupations|People|Religion}}
+{{c|en|Occupations|People|Religion}}
 
 ==Danish==
 {{wikipedia|lang=da}}
@@ -258,7 +258,7 @@ From {{bor|da|la|minister}}.
 ===Noun===
 {{head|da|noun|g=c|definite singular|ministeren|indefinite plural|ministre|definite plural|ministrene}}
 
-# a [[#English|minister]] {{gloss|a politician who heads a ministry}}
+# {{transclude sense|da|minister|id=government}}
 
 ====Descendants====
 * {{desc|kl|ministeri|bor=1}}
@@ -280,7 +280,7 @@ Borrowed from {{bor|nl|fr|ministre}}. Used in political contexts since the 16th 
 ====Noun====
 {{nl-noun|m|-s|ministertje}}
 
-# A {{l|en|minister}}, a person who is commissioned by the government for public service.
+# {{transclude sense|nl|minister|id=government}}
 
 ===Etymology 2===
 {{root|nl|ine-pro|*mey-}}
@@ -289,7 +289,7 @@ From {{bor|nl|la|minister}}. Used in this sense since at least 1269.
 ====Noun====
 {{nl-noun|m|-s|ministertje}}
 
-# {{lb|nl|religion}} A servant of a [[monastery]], or assistent of a priest.
+# {{lb|nl|religion}} A servant of a [[monastery]], or assistant of a priest.
 
 =====Descendants=====
 * {{desc|pap|minister|bor=1}}
@@ -310,7 +310,7 @@ From {{bor|nl|la|minister}}. Used in this sense since at least 1269.
 ===Noun===
 {{et-noun|ministri|ministrit}}
 
-# {{l|en|minister}}
+# {{transclude sense|et|minister|id=government}}
 
 ====Declension====
 {{et-decl-õpik|minist|ri|er}}
@@ -340,13 +340,44 @@ From {{bor|nl|la|minister}}. Used in this sense since at least 1269.
 ===Noun===
 {{head|smn|noun}}
 
-# [[#English|minister]] {{gloss|politician}}
+# {{transclude sense|smn|minister|id=government}}
 
 ====Inflection====
 {{smn-decl-noun-odd|minister}}
 
 ====Derived terms====
 * {{l|smn|ruttâminister}}
+
+==Kashubian==
+
+===Alternative forms===
+* {{alt|csb|minyster}}
+
+===Etymology===
+{{dercat|csb|fr|la}}
+{{bor+|csb|de|Minister}}.
+
+===Pronunciation===
+* {{csb-IPA}}
+* {{hyph|csb|caption=Syllabification|mi|nis|ter}}
+
+===Noun===
+{{csb-noun|m-pr|adj=ministrów|adj2=ministersczi|adj3=ministerialny}}
+
+# {{transclude sense|csb|minister|id=government}}
+
+====Declension====
+{{csb-decl-noun|minister|ministra|ministrowi|ministra|ministrã|ministrze|[[minister]]/[[ministrze]]|ministrowie|ministrów|ministróm|ministrów|ministrama|ministrach|ministrowie}}
+
+====Derived terms====
+{{col-auto|csb|title=noun|ministerstwò}}
+
+===Further reading===
+* {{R:csb:SJP1893|mińister|101}}
+* {{R:csb:SPK|+|vol=1|page=1040}}
+* {{R:csb:ISKJ|+|3551}}
+
+{{C|csb|Occupations}}
 
 ==Ladin==
 
@@ -397,7 +428,7 @@ From {{inh|la|itc-pro|*minosteros}}. Equivalent to {{m|la|minus}} + comparative 
 ** {{desc|fr|ministre}}
 ** {{desc|enm|ministre}}
 *** {{desc|en|minister}}
-* {{desc|pl|minister}}
+* {{desctree|zlw-opl|minister|lbor=1}}
 * {{desc|pt|ministro}}
 * {{desc|ro|ministru}}
 * {{desc|ru|мини́стр}}
@@ -433,7 +464,7 @@ From {{inh|la|itc-pro|*minosteros}}. Equivalent to {{m|la|minus}} + comparative 
 ===Noun===
 {{nb-noun-m3}}
 
-# {{lb|nb|government}} a {{l|en|minister}} {{q|politician who heads a ministry}}
+# {{transclude sense|ng|minister|id=government}}
 
 ====Derived terms====
 {{col3|nb
@@ -455,7 +486,7 @@ From {{inh|la|itc-pro|*minosteros}}. Equivalent to {{m|la|minus}} + comparative 
 ===Noun===
 {{nn-noun-m1||ministr}}
 
-# {{lb|nn|government}} a {{l|en|minister}} {{q|politician who heads a ministry}}
+# {{transclude sense|nn|minister|id=government}}
 
 ====Derived terms====
 {{col3|nn
@@ -470,18 +501,56 @@ From {{inh|la|itc-pro|*minosteros}}. Equivalent to {{m|la|minus}} + comparative 
 ===References===
 * {{R:The Nynorsk Dictionary}}
 
+==Old Polish==
+
+===Etymology===
+{{lbor|zlw-opl|la|minister}}.<ref>{{R:pl:WSWO}}</ref><ref>{{R:pl:Bańkowski}}</ref><ref>{{R:pl:SJPD}}</ref> {{etydate|1484}}
+
+===Pronunciation===
+* {{zlw-opl-IPA}}
+
+===Noun===
+{{zlw-opl-noun|m-pr|adj=ministrowski}}
+
+# {{lb|zlw-opl|religion}} {{l|en|minister|id=servant}} {{gl|senior member of the tertiary fraternity, assistant and deputy of the monk who takes care of the fraternity}}
+#* {{RQ:zlw-opl:Reg|716|1484|'''Ministrovye''' albo prelaczy thego braczthva (ministri loci) mayą sye o tho vczyecz do bysskupow|'''Ministrowie''' albo prełaci tego bractwa (ministri loci) mają sie o to uciec do biskupow|-}}
+
+====Descendants====
+* {{desc|pl|minister}}
+* {{desc|szl|minister}}
+
+===References===
+{{reflist}}
+:* {{R:zlw-opl:SPJSP}}
+
 ==Polish==
 
 ===Etymology===
-{{bor+|pl|la|minister}}.
+{{dercat|pl|la}}
+{{inh+|pl|zlw-opl|minister}}. {{sl|pl|fr|ministre|id=government}}<ref>{{R:pl:Bańkowski}}</ref>
 
 ===Pronunciation===
 {{pl-p|a=LL-Q809 (pol)-Poemat-minister.wav}}
 
 ===Noun===
-{{pl-noun|m-pr}}
+{{pl-noun|m-pr|f=minister|f2=ministerka|abbr=min.}}
 
-# {{lb|pl|politics}} {{l|en|minister}}
+# {{senseid|pl|government}} {{l|en|minister|id=government}} {{gl|a politician who heads a [[ministry]]}}
+# [[high-ranking]] [[official]] in the [[Chancellery]] of the [[President]] of the [[Republic of Poland]]
+# {{transclude sense|pl|minister|id=cleric|lb=obsolete}}
+# {{lb|pl|obsolete}} [[protestant]] [[preacher]]
+#: {{syn|pl|predykant}}
+# {{lb|pl|obsolete|Roman Catholicism}} [[abbot]], [[prior]] {{gl|high-ranking member of a monastery}}
+#: {{syn|pl|opat|przeor}}
+# {{lb|pl|obsolete}} {{l|en|minister|id=servant}} {{gl|assistant in a Jesuit cloister}}
+# {{lb|pl|obsolete}} [[head]] of a [[Franciscan]] [[cloister]]
+# {{lb|pl|obsolete}} [[official]] {{gl|person who works in government}}
+#: {{syn|pl|oficjalista}}
+# {{lb|pl|Middle Polish|biblical|expressive}} [[priest]] of [[pagan]] [[cult]]s
+# {{lb|pl|Middle Polish|Roman Catholocism|derogatory|ironic}} [[heretical]] [[priest]]; [[supporter]] of [[heresy]]
+# {{lb|pl|Middle Polish}} [[Catholic]] [[preacher]]
+# {{lb|pl|Middle Polish}} [[steward]] {{gl|chief administrator of a medieval manor}}
+#: {{syn|pl|klucznik|szafarz|włodarz}}
 
 ====Declension====
 {{pl-decl-noun-m-pr|minist|r|ministrowie|minister}}
@@ -489,13 +558,28 @@ From {{inh|la|itc-pro|*minosteros}}. Equivalent to {{m|la|minus}} + comparative 
 ===Noun===
 {{pl-noun|f|indecl=1}}
 
-# {{lb|pl|politics}} {{femeq|pl|minister|t={{l|en|minister}}}}
+# {{lb|pl|goverment}} {{femeq|pl|minister|t={{l|en|minister|id=government}}}}
+
+====Derived terms====
+{{col-auto|pl|title=adjective|ministerialny|ministerski}}
+{{col-auto|pl|title=adverb|ministerialnie}}
+{{col-auto|pl|title=nouns|minister bez teki|prezes Rady Ministrów|Rada Ministrów|ministerstwo}}
+
+====Related terms====
+{{col-auto|pl|title=noun|ministerium}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
 * {{R:pl:PWN}}
+* {{R:pl:SXVI|+|66805}}
+* {{R:pl:SXVII|MINISTER|479|SPas|06.03.2013}}
+* {{R:pl:SJP1807}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900||990|2}}
+* {{R:pl:SgOWiM|+|158|4}}
+* {{R:pl:NFJP}}
 
-{{C|pl|Occupations}}
+{{C|pl|Paganism|Occupations}}
 
 ==Romanian==
 
@@ -510,6 +594,29 @@ From {{inh|la|itc-pro|*minosteros}}. Equivalent to {{m|la|minus}} + comparative 
 ====Related terms====
 * {{l|ro|ministru}}
 
+==Silesian==
+
+===Etymology===
+{{dercat|szl|la}}
+{{inh+|szl|zlw-opl|minister}}.
+
+===Pronunciation===
+* {{szl-IPA}}
+* {{hyph|szl|caption=Syllabification|mi|nis|ter}}
+
+===Noun===
+{{szl-noun|m-pr|adj=ministeryjalny}}
+
+# {{transclude sense|szl|minister|id=government}}
+
+====Related terms====
+{{col-auto|szl|title=noun|ministeryjŏ}}
+
+===Further reading===
+* {{R:szl:silling}}
+
+{{C|szl|Occupations}}
+
 ==Swedish==
 
 ===Pronunciation===
@@ -518,7 +625,7 @@ From {{inh|la|itc-pro|*minosteros}}. Equivalent to {{m|la|minus}} + comparative 
 ===Noun===
 {{sv-noun|c}}
 
-# a [[#English|minister]] (member of government, cabinet)
+# {{transclude sense|sv|minister|id=government}}
 # a [[#English|minister]] (in the foreign affairs administration)
 
 ====Declension====
@@ -536,7 +643,6 @@ From {{inh|la|itc-pro|*minosteros}}. Equivalent to {{m|la|minus}} + comparative 
 |utrikesminister
 }}
 
-[[Category:sv:Government]]
 [[Category:sv:Occupations]]
 
 ==West Frisian==
@@ -550,7 +656,7 @@ Borrowed from {{bor|fy|fr|ministre}}.
 ===Noun===
 {{fy-noun|c|ministers}}
 
-# [[#English|minister]] (of a [[government]])
+# {{transclude sense|fy|minister|id=government}}
 
 ====Derived terms====
 * {{l|fy|minister-presidint}}
