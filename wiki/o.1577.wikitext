@@ -58,14 +58,14 @@ Image:Fraktur letter O.png|Uppercase and lowercase '''O''' in [[Fraktur]]
 {{en-letter|upper=O|lower=o}}
 
 # {{Latn-def-lite|en|letter|15|o}}
-# {{altform|en|ο}}, ''the fifteenth [[letter]] of the [[Classical Greek|Classical]] and [[Modern Greek]] [[alphabet]]s, called [[omicron]] and'' {{lb|en|astronomy}} ''[[used]] as an [[abbreviation]] of [[omicron]] in [[star]] [[name]]s.''
+# {{alt form-lite|en|ο}}, ''the fifteenth [[letter]] of the [[Classical Greek|Classical]] and [[Modern Greek]] [[alphabet]]s, called [[omicron]] and'' {{lb|en|astronomy}} ''[[used]] as an [[abbreviation]] of [[omicron]] in [[star]] [[name]]s.''
 #: {{ux-lite|en|The system's {{w|Bayer designation}} is '''o Persei'''.}}
 
 =====See also=====
 * {{list:Latin script letters/en/simple}}
 
 ====Number====
-{{en-number|upper=O|lower=o}}
+{{head-lite|en|numbers|lower case||upper case|O}}<!--{{en-number|upper=O|lower=o}}-->
 
 # {{Latn-def-lite|en|ordinal|15|o}}
 
@@ -537,7 +537,7 @@ From {{inh-lite|fax|roa-opt|ou}}, from {{inh-lite|fax|la|aut||or}}.
 * This is used in all conjugations except for affirmative non-accomplished (where the long form is used).
 
 =====Alternative forms=====
-* {{alter|ff|mo}}
+* {{alt|ff|mo}}
 
 =====Derived terms=====
 * {{l-lite|ff|makko}} {{q-lite|possessive pronoun}}
@@ -1366,8 +1366,10 @@ From earlier ''lo'', ''la'', from {{inh-lite|roa-opt|la|illum}}, ''illam''  (the
 # [[for]] {{+obj|zlw-opl|acc}}
 
 =====Descendants=====
-* {{desc|pl|o|id=preposition}}
-* {{desc|szl|ô}}
+{{des-top}}
+* {{l-lite|pl|o|id=preposition}}
+* {{l-lite|szl|ô}}
+{{des-bottom}}
 
 ===Etymology 2===
 {{etymid|zlw-opl|interjection}}
@@ -1780,15 +1782,12 @@ From {{inh-lite|gd|mga|ó}}, from {{inh-lite|gd|sga|ó}}. Cognates include {{cog
 ===Etymology 1===
 
 ====Pronunciation====
-* {{q-lite|phoneme}} {{IPA-lite|sh|/o/}}
+* {{IPA-lite|sh|/o/|qual1=phoneme}}
 
 ====Letter====
-{{sh-letter}}
+{{head-lite|sh|letters|lower case||upper case|O|Cyrillic spelling|о}}<!--The croatian template is objectively{{sh-letter}}-->
 
-# The 21st letter of the Serbo-Croatian Latin alphabet ([[gajica]]), preceded by {{l-lite|sh|nj}} and followed by {{l-lite|sh|p}}.
-
-=====Alternative forms=====
-* {{l-lite|sh|O}} {{q-lite|uppercase}}
+# The 21st letter of the Serbo-Croatian Latin alphabet ([[gajica]]), preceded by {{l-lite|sh|nj}} and followed by {{l-lite|sh|p}}. <!--{{Latn-def-lite|sh|letter|30}}-->
 
 ===Etymology 2===
 From {{inh-lite|sh|sla-pro|sc=Latnx|*o(b)}}, from {{der-lite|sh|ine-pro|sc=Latnx|*h₃ebʰi}}. See {{m-lite|sh|o-}}, {{m-lite|sh|ob-}}.
@@ -2603,7 +2602,7 @@ From {{inh-lite|yol|enm|o}}.
 ====Verb====
 {{head-lite|yo|verbs|head=ò}} <!-- {{yo-verb|ò}} -->
 
-# {{lb|yo|Èkìtì}} {{altform|yo|wò|t=to look at}}
+# {{lb|yo|Èkìtì}} {{alt form-lite|yo|wò|t=to look at}}
 #: {{ux-lite|inline=1|yo|mò í '''ò''' ẹ|I am '''looking at''' you!!}}
 
 ==Zaghawa==
