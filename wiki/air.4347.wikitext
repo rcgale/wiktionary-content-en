@@ -1102,49 +1102,79 @@ From {{inh|sco|enm|er}}, from {{inh|sco|ang|ǣr}}, from {{inh|sco|gmw-pro|*airi}
 * {{a|south Barra|Vatersay}} {{IPA|gd|[ɛr̝]}}
 
 ===Etymology 1===
-{{dercat|gd|cel-pro|ine-pro|inh=2}}
-From {{der|gd|sga|for}}. Cognates include {{cog|ga|ar}} and {{cog|gv|er}}.
+From a conflation of three {{inh|gd|sga|-}} prepositions:
+# {{m|sga|ar|}}, {{m|sga|air||for}} (triggering lenition), from {{inh|gd|cel-pro|sc=Latnx|*ɸare||in front of}}, from {{inh|gd|ine-pro|sc=Latnx|*pr̥h₂i}}. Cognates include {{cog|grc|sc=Polyt|παρά||tr=pará|beside}} and {{cog|en|fore}}.
+# {{m|sga|for||on}} (triggering no mutation), from {{inh|gd|cel-pro|sc=Latnx|*uɸor||over, on}} (compare {{cog|cy|ar}}, {{cog|br|war}}), from {{inh|gd|ine-pro|sc=Latnx|*upér}} (compare {{cog|la|super}}, {{cog|grc|sc=Polyt|ὑπέρ|tr=hupér}}, {{cog|ang|ofer}}).
+# {{m|sga|íar||after}} (triggering eclipsis), from {{inh|gd|cel-pro|sc=Latnx|*eɸirom||after, behind}}, from {{der|gd|ine-pro|sc=Latnx|*h₁epi}}.
+Cognates include {{cog|ga|ar}} and {{cog|gv|er}}.
 
 ====Preposition====
 {{gd-prep|dat|-L}}
 
 # [[on]], [[upon]]
 #: {{uxi|gd|'''air''' bàrr a' bhalla|'''on''' top of the wall}}
-#: {{uxi|gd|Tha mi '''air''' an rathan|I'm '''on''' my way.}}
+#: {{uxi|gd|tha mi '''air''' an rathad|I'm '''on''' my way}}
+#: {{uxi|gd|'''air''' m' fhacal, chan innis mi dhi|'''on''' my word, I will not tell her}}
+#: {{uxi|gd|{{l|gd|beag air bheag|beag '''air''' bheag}}|little '''by''' little|lit=little '''on''' little}}
 # [[of]], [[concerning]]
 #: {{uxi|gd|iomradh '''air''' do ghliocas|a report '''of''' thy wisdom}}
-# [[for]], [[on account of]]
-#: {{uxi|gd|'''air''' an aobhar sin|'''for''' that reason}}
 # [[by]]
 #: {{uxi|gd|'''air''' ainm|'''by''' name}}
-
-=====Usage notes=====
-* The word '''air''' and its derivates are used in many idioms:
-*: {{ux|gd|Dè an t-ainm a tha ort?|What's your name? (What the name that is '''on you'''?)|inline=1}}
-*: {{ux|gd|Tha an t-acras orm.|t=I'm hungry. (The hunger is '''on me'''.)|inline=1}}
+# {{n-g|Used idiomatically to indicate inalienable possession, feelings and minor medical conditions}}
+#: {{uxi|gd|dè an t-ainm a tha '''ort'''?|what's your name?|lit=what the name that is '''on you'''?}}
+#: {{uxi|gd|tha an t-acras '''orm'''|I'm hungry|lit=the hunger is '''on me'''}}
+#: {{uxi|gd|tha an {{l|gd|cnatan}} '''oirre'''|she has a bad cold|lit=the cold is '''on her'''}}
+# [[for]], [[on account of]], [[by means of]], [[through]], [[within]] {{q|triggers lenition}}
+#: {{uxi|gd|'''air''' an adhbhar sin|'''for''' that reason}}
+#: {{uxi|gd|'''air''' bheag de làithean|'''within''' a few days}}
+# {{n-g|Used with a verbal noun to indicate a state}} {{q|triggers lenition}}
+#: {{uxi|gd|bha mi '''air''' bhoil às dèidh dhomh siud fhaicinn|I was enraged after I saw that}}
+#: {{uxi|gd|bhiomaid '''air''' chall nan robh sinn anns a' choille ud|we'd be lost if we were in that forest}}
+#: {{uxi|gd|thèid mi '''air''' chèilidh air mo sheanmhair|I will visit my grandmother}}
+# {{qualifier|in conjunction with the verb {{m|gd|bi}}}} [[must]], [[have to]]
+#: {{uxi|gd|tha e '''air''' ri phàigheadh|he has to pay|lit=it is '''on him''' to pay}}
+# {{qualifier|in one common phrase}} [[or]] {{q|triggers lenition}}
+#: {{uxi|gd|rud {{l|gd|air choreigin|'''air''' choreigin}}|something '''or''' other}}
+# {{n-g|Used with a verbal noun to indicate the perfect tense}}; [[after]]
+#: {{uxi|gd|tha mi '''air''' an obair a dhèanamh|I have done the work|lit=I am '''after''' the work its doing}}
+#: {{uxi|gd|bha iad uile '''air''' falbh sa mhadainn|they had all left in the morning|lit=they were all '''after''' leaving in the morning}}
+#: {{uxi|gd|bhithinn '''air''' faighinn às leis|I would have gotten away with it|lit=I would be '''after''' getting away with it}}
 
 =====Inflection=====
 {{gd-prep-infl|1sg=orm|2sg=ort|3sgm=air|3sgf=oirre|1pl=oirnn|2pl=oirbh|3pl=orra}}
 
 =====Derived terms=====
 {{der3|gd|{{l|gd|air dheireadh||behind; late}}
-|{{l|gd|air fhichead||twenty-...}}
 |{{l|gd|air sgàth||for the sake of}}
 |{{l|gd|airson||for}}}}
-
-===Etymology 2===
-From {{inh|gd|sga|for}}. Cognates include {{cog|ga|air}} and {{cog|gv|er}}.
 
 ====Pronoun====
 {{head|gd|prepositional pronoun}}
 
 # {{inflection of|gd|air||3|sg|m}}: [[on]] [[him]], [[on]] [[it]]
 
-=====Inflection=====
-{{gd-prep-infl|1sg=orm|2sg=ort|3sgm=air|3sgf=oirre|1pl=oirnn|2pl=oirbh|3pl=orra|root=air}}
+===Etymology 2===
+Reduced form of {{m|gd|thar}}.
+
+====Alternative forms====
+* {{alter|gd|ar}}
+
+====Preposition====
+{{gd-prep|gen|L}} 
+
+# {{form of|gd|form|thar}}; {{n-g|rarely used outwith the old counting system}}
+#: {{uxi|gd|{{l|gd|deich air fhichead|deich '''air''' fhichead}}|thirty|lit=ten over twenty}}
+#: {{uxi|gd|a' dol '''air''' beinn|going '''over''' a mountain}}
+
+=====Usage notes=====
+* The rule that this preposition governs the genitive is inconsistent.
+
+=====Derived terms=====
+* {{l|gd|air fhichead||twenty-...}}
 
 ===References===
 * {{R:Dwelly}}
+* {{R:MacBain}}
 * ''A Pronouncing and Etymological Dictionary of the Gaelic Language'' (John Grant, Edinburgh, 1925, Complied by Malcolm MacLennan)
 
 ==Veps==
