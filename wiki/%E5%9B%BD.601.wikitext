@@ -132,8 +132,8 @@ From {{inh|ja|ojp|sort=くに|-}}, from {{inh|ja|jpx-pro|*konuy|sort=くに}}. A
 # a [[country]] as in a [[nation]], a [[state]]
 #* {{quote-book
 |ja|genre=fiction
-||{{w|lang=ja|藤子・F・不二雄|Fujiko F. Fujio}}
-|{{lw|ja|ドラえもん のび太とアニマル惑星|{{ruby|のび[太](た)とアニマル[惑星](プラネット)}}}}
+|author={{w|lang=ja|藤子・F・不二雄|Fujiko F. Fujio}}
+|title={{lw|ja|ドラえもん のび太とアニマル惑星|{{ruby|のび[太](た)とアニマル[惑星](プラネット)}}}}
 |trans-title={{w|Doraemon: Nobita and the Animal Planet|Nobita and the Animal Planet}}
 |location=Tokyo
 |publisher=Shogakukan
@@ -142,7 +142,7 @@ From {{inh|ja|ojp|sort=くに|-}}, from {{inh|ja|jpx-pro|*konuy|sort=くに}}. A
 |origdate=Nov 25 1990
 |isbn=4-09-140610-6
 |volume=10
-||27
+|page=27
 |series={{lw|ja|大長編ドラえもん}}
 |seriesvolume=10}}
 #*: {{ja-usex|ねえねえ、今の地%図みた⁉|^ねえ ねえ、いま の ち%ず みた⁉|Hey, did you see that map!?}}{{ja-usex|みた！いったいここはなんという'''国'''だろう。|みた！いったい ここ は なん と いう '''くに''' だろう。|I did! I wonder what '''country''' this is.}}{{ja-usex|'''クニ'''？'''クニ''' って なあに。|'''Country'''? What’s a '''country'''?}}{{ja-usex|アメリカとか中%国とかいろいろあるじゃない。|^アメリカ とか ^ちゅう%ごく とか いろいろ ある じゃ ない。|You know, countries. There are a bunch of them like America and China.}}{{ja-usex|ぼくらは日%本からきたんだけど…。|^ぼくら は ^にっ%ぽん から きた ん だ けど…。|We’re from Japan, by the way...}}{{ja-usex|ニッポン？きいたことない。|ニッポン？き.いた こと ない。|Japan? I’ve never heard of that before.}}
@@ -150,9 +150,7 @@ From {{inh|ja|ojp|sort=くに|-}}, from {{inh|ja|jpx-pro|*konuy|sort=くに}}. A
 # a [[province]] of ancient Japan
 # the [[national]] [[government]] in ancient Japan; the national [[capital]] in ancient Japan
 # one's [[birthplace]], where one is from, one's [[home]]
-#*{{quote-book|ja||
-|{{lw|ja|夏子の酒}}|
-|183
+#*{{quote-book|ja|title={{lw|ja|夏子の酒}}|page=183
 |last=Oze
 |first=Akira
 |authorlink=Akira Oze
