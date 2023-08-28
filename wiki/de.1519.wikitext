@@ -1887,15 +1887,17 @@ From {{inh-lite|ro|la|de|dē}}.
 * {{rhymes-lite|ro|e|s=1}}
 
 ===Conjunction===
-{{head|ro|conjunction}}
+{{ro-conjunction}}
 
-# {{lb|ro|literary|or|informal}} {{syn of|ro|dacă||if}}
+# {{lb|ro|informal|or|literary}} {{syn of|ro|dacă||if}}
 # {{lb|ro|with the {{glink|optative mood}}}} [[if only]]
 # {{lb|ro|colloquial}} to the effect that
 #: {{syn-lite|ro|încât|că|q2=colloquial}}
 
 ====Usage notes====
-As a colloquial synonym of {{m-lite|ro|încât}}, {{m-lite|ro|de}} can only be used in simple constructions and without any coordinative adverbs ({{m-lite|ro|atât}}, {{m-lite|ro|așa}}). Thus, {{m-lite|ro|de}} can be used in the sentence ''{{lang|ro|Vântul bate de ridică praful}}'' (“The wind blows [so hard] it raises dust”), but not if the first half was ''{{lang|ro|Vântul bate atât de tare}}''.
+In the meaning of “if”, {{m-lite|ro||de}} is not typically directly followed by any word other than a verb, a pronoun (accusative or reflexive, but not nominative) or the word {{m-lite|ro|nu||no}}. The more common and neutral {{m-lite|ro|dacă}} is under no such restrictions.
+
+As a colloquial synonym of {{m-lite|ro|încât}}, {{m-lite|ro||de}} can only be used in simple constructions and without any coordinative adverbs ({{m-lite|ro|atât}}, {{m-lite|ro|așa}}—which are also connected to the following adjectives by {{m|ro||de}}). Thus, {{m-lite|ro|de}} can be used in the sentence ''{{lang|ro|Vântul bate de ridică praful}}'' (“The wind blows [so hard] it raises dust”), but not if the first half was ''{{lang|ro|Vântul bate atât de tare}}''. Conversely, {{m|ro|încât}} and {{m|ro|că}} would be unusual in such simple sentences.
 
 ===Preposition===
 {{ro-prep|a}}
@@ -1903,8 +1905,11 @@ As a colloquial synonym of {{m-lite|ro|încât}}, {{m-lite|ro|de}} can only be u
 # [[from]]
 #: {{ux-lite|ro|Casa mea nu este departe '''de''' aici.|My house is not far from here.|inline=1}}
 # [[of]]
-#: {{ux-lite|ro|Beau o ceașcă '''de''' ceai|I’m drinking a cup '''of''' tea|inline=1}}
+#: {{ux-lite|ro|Beau o ceașcă '''de''' ceai.|I’m drinking a cup '''of''' tea.|inline=1}}
 #: {{ux-lite|ro|Este profesor '''de''' matematică|He’s a teacher '''of''' mathematics.|inline=1}}
+# [[for]] {{gl|intended for a certain destination}}
+#: {{ux-lite|ro|În magazin hainele '''de''' bărbați sunt în stânga, iar cele '''de''' femei în dreapta.|In the shop, men’s clothes are on there left, while women’s are on the right.}}
+#: {{ux|ro|Își pune cizmele '''de''' lucru.|He puts his work boots on.|inline=1}}
 # {{ng|Connects a numeral whose tens are greater than 1 to the determinated noun.}}
 #: {{ux-lite|ro|Suma este de două sute șaisprezece lei și patruzeci și patru '''de''' bani.|The sum is 216 lei and 44 bani.}}
 # {{ng|Forms an [[adverbial number|adverbial numeral]].}}
@@ -1913,14 +1918,14 @@ As a colloquial synonym of {{m-lite|ro|încât}}, {{m-lite|ro|de}} can only be u
 #: {{ux-lite|ro|Motocicleta merge destul '''de''' repede.|The motorbike is going pretty fast.|inline=1}}
 #: {{ux-lite|ro|Casa aceasta are o culoare nepotrivit '''de''' intensă.|This house has an inappropriately bright colour.}}
 # {{ng|Introducing the doer of a {{glink|passive}} verb or participle}}: [[by]]
-#: {{ux-lite|ro|''Viața ca o pradă'' e o carte scrisă '''de''' Marin Preda.|''Life as prey'' is a book written '''by''' Marin Preda|inline=1}}
+#: {{ux-lite|ro|''Viața ca o pradă'' e o carte scrisă '''de''' Marin Preda.|''Life as prey'' is a book written '''by''' Marin Preda.}}
 # {{lb|ro|only of festive dates}} [[on]]
 #: {{ux-lite|ro|'''De''' Anul Nou sau '''de''' 1 Mai se petrece.|'''On''' New Year or May Day one celebrates.}}
 # {{ng|Indicates the recipients of an equal distribution:}} [[per]], [[a]]
 #: {{ux-lite|ro|Se împart rațiile de 2 litri de apă '''de''' persoană.|The rations of 2 litres of water '''per''' person are being distributed.}}
 
 ====Usage notes====
-In the sense of “by”, {{m-lite|ro|de}} can be followed by {{m-lite|ro|către}} for clarification and to no change in meaning. This is typical of formal language.
+In the sense of “by”, {{m-lite|ro|de}} can be followed by {{m-lite|ro|către}} for clarification and to no change in meaning. This is typical of, but not restricted to, formal language.
 
 ====Derived terms====
 * {{l-lite|ro|de ce}}
@@ -1930,6 +1935,15 @@ In the sense of “by”, {{m-lite|ro|de}} can be followed by {{m-lite|ro|către
 * {{l-lite|ro|de tot}}
 * {{l-lite|ro|deoarece}}
 * {{l-lite|ro|din}}
+
+===Pronoun===
+{{ro-pron|inv}}
+
+# {{lb|ro|informal|or|regional}} {{ng|Relative pronoun:}} [[who]], [[whom]], to [[whom]].
+#: {{syn-lite|ro|care}}
+
+====Usage notes====
+{{m-lite|ro||De}} can replace any form of {{m-lite|ro|care}} in the nominative, accusative and dative case.
 
 ===References===
 * {{R:DEX}}
