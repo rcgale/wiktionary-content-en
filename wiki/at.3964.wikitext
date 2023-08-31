@@ -709,45 +709,35 @@ Borrowed from {{bor-lite|de|en|at|id=sign}}.
 * {{a|Connemara|Mayo|Ulster}} {{IPA-lite|ga|/at̪ˠ/}}
 
 ===Etymology 1===
-From {{inh-lite|ga|sga|att||swelling, protuberance, tumour}}.
+From {{inh-lite|ga|sga|att||swelling, protuberance, tumour}}.<ref>{{R:DIL|4925|head=att}}</ref>
 
 ====Noun====
-{{ga-noun|m|ait|~anna|vngen=ata}}
+{{head-lite|ga|nouns|g=m|genitive singular as substantive|ait|genitive singular as verbal noun|ata|plural|atanna}}
 
 # [[swelling]]
 #* {{RQ:ga-Finck|II|11}}
-#*: ''tā '''at''' ə l̄āv m inīnə.''
-#*:: {{small|''conventional orthography:''}} {{l-lite|ga||Tá '''at''' i lámh m’iníne.}}
-#*::: My daughter has a swelling on her hand.
+#*: {{quote|ga|''tā '''at''' ə l̄āv m inīnə.''|norm=Tá '''at''' i lámh m’iníne.|t=My daughter has a swelling on her hand.}}
 #* {{RQ:ga-Finck|II|11}}
-#*: ''tā šȧxt '''n-at''' i n-ə wunāl.''
-#*:: {{small|''conventional orthography:''}} {{l-lite|ga||Tá seacht '''n-at''' ina mhuineál.}}
-#*::: He has seven swellings on his neck.
+#*: {{quote|ga|''tā šȧxt '''n-at''' i n-ə wunāl.''|norm=Tá seacht '''n-at''' ina mhuineál.|t=He has seven swellings on his neck.}}
 #* {{RQ:ga-Finck|II|11}}
-#*: ''kiŕ də lāv ə n̄-isḱə leš n̥ '''t-at''' ə wȳlū.''
-#*:: {{small|''conventional orthography:''}} {{l-lite|ga||Cuir do lámh in uisce leis an '''t-at''' a maolú.}}
-#*::: Put your hand in water to reduce the swelling.
+#*: {{quote|ga|''kiŕ də lāv ə n̄-isḱə leš n̥ '''t-at''' ə wȳlū.''|norm=Cuir do lámh in uisce leis an '''t-at''' a maolú.|t=Put your hand in water to reduce the swelling.}}
 # {{verbal noun of|ga|at}}
 
 =====Declension=====
 {{ga-decl-m1|a|t|it|pl=tanna|strong=yes}}
 
 ===Etymology 2===
-From {{inh-lite|ga|sga|attaid||pos=v|swells, dilates, increases}}, from {{m-lite|sga|att||swelling, protuberance, tumour}}.
+From {{inh-lite|ga|sga|attaid||pos=v|swells, dilates, increases}}, from {{m-lite|sga|att||swelling, protuberance, tumour}}.<ref>{{R:DIL|4929|head=attaid}}</ref>
 
 ====Verb====
-{{ga-verb|pres=~ann|fut=~faidh|vn=~|pp=ata}}
+{{head|ga|verbs|present|atann|future|atfaidh|verbal noun|at|past participle|ata}}
 
 # {{lb|ga|intransitive}} [[swell]]
 #: {{syn|ga|borr}}
 #* {{RQ:ga-Finck|II|11}}
-#*: ''tā ə h-ēdn̥ '''atī'''.''
-#*:: {{small|''conventional orthography:''}} {{l-lite|ga||Tá a héadan '''ataithe'''.}}
-#*::: Her face is swollen.
+#*: {{quote|ga|''tā ə h-ēdn̥ '''atī'''.''|norm=Tá a héadan '''ataithe'''.|t=Her face is swollen.}}
 #* {{RQ:ga-Finck|II|11}}
-#*: ''tā mə lāv '''atī'''.''
-#*:: {{small|''conventional orthography:''}} {{l-lite|ga||Tá mo lámh '''ataithe'''.}}
-#*::: My hand is swollen.
+#*: {{quote|ga|''tā mə lāv '''atī'''.''|norm=Tá mo lámh '''ataithe'''.|t=My hand is swollen.}}
 # {{lb|ga|intransitive}} [[bloat]]
 # {{lb|ga|intransitive|of sea}} [[heave]]
 
@@ -758,10 +748,11 @@ From {{inh-lite|ga|sga|attaid||pos=v|swells, dilates, increases}}, from {{m-lite
 ===Mutation===
 {{ga-mut}}
 
+===References===
+<references/>
+
 ===Further reading===
 * {{R:ga:Ó Dónaill}}
-* {{R:DIL|4925|head=att}}
-* {{R:DIL|4929|head=attaid}}
 * {{R:ga:Dinneen 1904|42}}
 * {{R:ga:Dinneen 1927|ataim}}
 * {{R:ga:NEID}}
