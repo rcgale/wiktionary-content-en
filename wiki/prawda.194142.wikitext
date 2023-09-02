@@ -54,58 +54,69 @@
 {{wp|lang=pl}}
 
 ===Etymology===
-{{inh+|pl|sla-pro|*pravьda}}. {{surf|pl|prawy|-da}}. Cognates include {{cog|sk|pravda}}, {{cog|cs|pravda}}.
+{{dercat|pl|sla-pro|inh=1}}
+{{inh+|pl|zlw-opl|prawda}}. {{surf|pl|prawy|-da}}. For sense {{senseno|pl|food}}, compare {{cog|fr|ration}}/{{m|fr|raison}}.
 
 ===Pronunciation===
-{{pl-p|a=Pl-prawda.ogg}}
+{{pl-p|a=Pl-prawda.ogg|mp=práwda}}
 
 ===Noun===
 {{pl-noun|f}}
 
-# [[truth]]
+# [[truth]] {{gl|that which is concordant with reality}} {{+preo|pl|o|loc|means=about whom/what}}
+#: {{ant|pl|bujda|fałsz|kit|lipa|nieprawda}}
 #: {{uxi|pl|Czy to '''prawda''', że Ciebie zdradził?|Is it '''true''' that he cheated on you?}}
-
-===Interjection===
-{{head|pl|interjection}}
-
-# [[right]]
+# [[truth]] {{gl|view that most people hold}}
+# {{lb|pl|obsolete}} [[correctness]]; [[justice]], [[fairness]]
+# {{lb|pl|obsolete}} [[rightness]]
 #: {{syn|pl|racja}}
-#: {{ant|pl|kłamstwo|nieprawda|fałsz}}
+#: {{coi|pl|mieć '''prawdę'''|to be '''right'''|q=obsolete}}
+# {{lb|pl|obsolete}} [[promise]]
+#: {{syn|pl|obietnica}}
+# {{senseid|pl|food}} {{lb|pl|obsolete}} [[food]]; [[feed]] {{gl|that which is eaten, especially of animals}}
+
+===Particle===
+{{head|pl|particle}}
+
+# {{ng|Used to assert the speakers agreement}}; [[right]]
+#: {{ant|pl|nieprawda}}
+#: {{uxi|pl|„Poszedłeś na imprezę?" „'''Prawda'''."|"You went to the party?" "'''Right'''."}}
+# {{ng|Used as a question tag asking for agreement}}; [[right]]?
+#: {{syn|pl|nieprawda}}
+#: {{uxi|pl|Podobają ci się, '''prawda'''?|You like them, '''right'''?}}
+# {{ng|Used as a filler word}}; [[right]]
+#: {{uxi|pl|Więc tam siedziałem, '''prawda''', i nagle widzę...|So I'm sitting there, '''right''', and I suddenly I see...}}
 
 ====Declension====
 {{pl-decl-noun-f|praw|d}}
 
 ====Derived terms====
-{{col-auto|pl|title=verbs
-|mijać się z prawdą<g:impf>
-|spojrzeć prawdzie w oczy<g:impf>
-|[[sprawdzać]] {{g|impf}}, [[sprawdzić]] {{g|pf}}
-}}
 {{col-auto|pl|title=adjectives|prawdziwy|prawdomówny|prawdopodobny|prawicowy}}
-{{col-auto|pl|title=adverbs
-|Bogiem a prawdą
-|co prawda
-|prawda w oczy kole
-|prawdę powiedziawszy
-|prawdę mówiąc
-|doprawdy
-|naprawdę
-|wprawdzie
-|zaprawdę
-}}
-{{col-auto|pl|title=nouns
-|naga prawda
-|prawdziwek
-|prawdomówca
-|prawdopodobieństwo
-|prawica
-|prawicowiec
-|święta prawda
-}}
+{{col-auto|pl|title=adverbs|Bogiem a prawdą|prawdę powiedziawszy|doprawdy|naprawdę|wprawdzie|zaprawdę}}
+{{col-auto|pl|title=interjections|co prawda, to prawda|gówno prawda}}
+{{col-auto|pl|title=nouns|naga prawda|prawdziwek|prawdomówca|prawdopodobieństwo|prawica|prawicowiec|święta prawda|godzina prawdy|serum prawdy|słowa prawdy}}
+{{col-auto|pl|title=particles|po prawdzie|co prawda|prawdę mówiąc}}
+{{col-auto|pl|title=phrase|prawda leży pośrodku}}
+{{col-auto|pl|title=proverb|prawda w oczy kole}}
+{{pl-derived verbs|sprawdzić/sprawdzać}}
+{{pl-derived verbs|spojrzeć prawdzie w oczy/-|minąć się z prawdą/mijać się z prawdą|stanąć w prawdzie/stawać w prawdzie}}
+
+===Trivia===
+{{pl-freq 1990|4|1|17|44|123|189|300|431|1}}
+
+===References===
+{{reflist}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
 * {{R:pl:PWN}}
+* {{R:pl:SXVI|+|91788}}
+* {{R:pl:SXVII|PRAWDA|15510|RB|08.03.2016}}
+* {{R:pl:SJP1807}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900||975|4}}
+* {{R:pl:SgOWiM|+|6|7}}
+* {{R:pl:NFJP}}
 * {{R:pl:SEUW|+|119}}
 
 ===Anagrams===
