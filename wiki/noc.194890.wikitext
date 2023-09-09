@@ -1,5 +1,4 @@
 {{also|NOC|noć|nóc|nốc|noč|Noč|nọc}}
-
 ==Albanian==
 
 ===Noun===
@@ -56,23 +55,41 @@
 ==Kashubian==
 
 ===Etymology===
-{{inh+|csb|sla-pro|*noťь}}, from {{inh|csb|ine-bsl-pro|*náktis}}, from {{inh|csb|ine-pro|*nókʷts}}.
+{{dercat|csb|ine-bsl-pro|ine-pro|inh=2}}
+{{inh+|csb|sla-pro|*noťь}}.
+
+===Pronunciation===
+* {{csb-IPA}}
+* {{hyph|csb|caption=Syllabification|noc}}
 
 ===Noun===
-{{csb-noun|f}}
+{{csb-noun|f|adj=nocny}}
 
 # [[night]]
+# [[south]]
+
+====Declension====
+{{csb-decl-noun|noc|nocë|nocë|noc|nocą|nocë|noc|noce|noców|nocóm|noce|nocama|nocach|noce}}
+
+====Derived terms====
+{{csb-derived verbs|-/nocowac}}
+
+====Related terms====
+{{col-auto|csb|title=nouns|nocnica}}
 
 ===Further reading===
-* {{R:csb:ISKJ|{{PAGENAME}}|6709}}
-* {{R:csb:SPK|+}}
+* {{R:csb:SJP1893|+|120}}
+* {{R:csb:Trepczyk:1994|+|387|1}}
+* {{R:csb:SPK|+|vol=2|page=176}}
+* {{R:csb:ISKJ|+|6709}}
 
-{{C|csb|Times of day}}
+{{C|csb|Compass points|Times of day}}
 
 ==Lower Sorbian==
 
 ===Etymology===
-From {{inh|dsb|sla-pro|*noťь}}, from {{inh|dsb|ine-bsl-pro|*náktis}}, from {{inh|dsb|ine-pro|*nókʷts}}.
+{{dercat|dsb|ine-bsl-pro|ine-pro|inh=2}}
+{{inh+|dsb|sla-pro|*noťь}}.
 
 ===Pronunciation===
 * {{IPA|dsb|/ˈnɔt͡s/}}
@@ -80,7 +97,7 @@ From {{inh|dsb|sla-pro|*noťь}}, from {{inh|dsb|ine-bsl-pro|*náktis}}, from {{
 ===Noun===
 {{dsb-noun|f|dim=nocka}}
 
-# {{l|en|night}}
+# [[night]]
 
 ====Declension====
 {{dsb-decl-noun-9|noc}}
@@ -92,7 +109,7 @@ From {{inh|dsb|sla-pro|*noťь}}, from {{inh|dsb|ine-bsl-pro|*náktis}}, from {{
 * {{R:dsb:Muka}}
 * {{R:dsb:Starosta}}
 
-{{c|dsb|Times of day}}
+{{C|dsb|Times of day}}
 
 ==Norman==
 
@@ -107,6 +124,7 @@ From {{inh|dsb|sla-pro|*noťь}}, from {{inh|dsb|ine-bsl-pro|*náktis}}, from {{
 ==Old Czech==
 
 ===Etymology===
+{{dercat|zlw-ocs|ine-bsl-pro|ine-pro|inh=2}}
 {{inh+|zlw-ocs|sla-pro|*noťь}}.
 
 ===Pronunciation===
@@ -138,7 +156,8 @@ From {{inh|dsb|sla-pro|*noťь}}, from {{inh|dsb|ine-bsl-pro|*náktis}}, from {{
 {{wp|lang=pl}}
 
 ===Etymology===
-{{inh+|pl|zlw-opl|noc}}, from {{inh|pl|sla-pro|*noťь}}, from {{inh|pl|ine-bsl-pro|*náktis}}, from {{inh|pl|ine-pro|*nókʷts}}.
+{{dercat|pl|sla-pro|ine-bsl-pro|ine-pro|inh=3}}
+{{inh+|pl|zlw-opl|noc}}.
 
 ===Pronunciation===
 {{pl-p|a=Pl-noc.ogg}}
@@ -166,19 +185,19 @@ From {{inh|dsb|sla-pro|*noťь}}, from {{inh|dsb|ine-bsl-pro|*náktis}}, from {{
 ==Silesian==
 
 ===Etymology===
-{{dercat|szl|ine-bsl-pro|ine-pro|inh=2}}
-{{inh+|szl|sla-pro|*noťь}}.
+{{dercat|pl|sla-pro|ine-bsl-pro|ine-pro|inh=3}}
+{{inh+|pl|zlw-opl|noc}}.
 
 ===Pronunciation===
 {{szl-pr}}
 
 ===Noun===
-{{szl-noun|f}}
+{{szl-noun|f|adj=nocny}}
 
 # [[night]]
 
-====Derived terms====
-{{col-auto|szl|title=adjective|nocny}}
+====Declension====
+{{szl-decl-noun|noc|nocy|nocy|noc|nocōm|nocy|nocy|noce|nocy|nocōm|noce|[[nocami]]/[[nocōma]]|nocach|noce}}
 
 ===Further reading===
 * {{R:szl:silling}}
@@ -186,9 +205,11 @@ From {{inh|dsb|sla-pro|*noťь}}, from {{inh|dsb|ine-bsl-pro|*náktis}}, from {{
 {{C|szl|Times of day}}
 
 ==Slovak==
+{{wp|lang=sk}}
 
 ===Etymology===
-{{inh+|sk|sla-pro|*noťь}}, from {{inh|sk|ine-bsl-pro|*náktis}}, from {{inh|sk|ine-pro|*nókʷts}}.
+{{dercat|sk|ine-bsl-pro|ine-pro|inh=2}}
+{{inh+|sk|sla-pro|*noťь}}.
 
 ===Pronunciation===
 * {{sk-IPA}}
