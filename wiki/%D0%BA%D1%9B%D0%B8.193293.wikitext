@@ -1,16 +1,16 @@
 ==Serbo-Croatian==
 
 ===Alternative forms===
-* {{q|by analogy with oblique stem forms}}: {{l|sh|sc=Cyrl|кће̑р}}
-** {{q|colloquial}}: {{l|sh|sc=Cyrl|кће́рка}}
-*** {{q|aphaeretic variant}}: {{l|sh|sc=Cyrl|ће́рка}}
-** {{q|aphaeretic variant}}: {{l|sh|sc=Cyrl|ће̑р}}
-* {{q|aphaeretic variant}}: {{l|sh|sc=Cyrl|ћи̑}}
-* (''Čakavian, Kajkavian''): {{l|sh|hći}}
-** {{q|by analogy with oblique stem forms}}: {{l|sh|hćer}}
+* {{alt|sh|кће̑р||by analogy with oblique stem forms}}
+** {{q|colloquial}}: {{alt|sh|sc1=Cyrl|кће́рка}}
+*** {{q|aphaeretic variant}}: {{alt|sh|sc1=Cyrl|ће́рка}}
+** {{q|aphaeretic variant}}: {{alt|sh|sc1=Cyrl|ће̑р}}
+* {{alt|sh|ћи̑||aphaeretic variant}}
+* {{alt|sh|hći||Čakavian||Kajkavian|}}
+** {{q|by analogy with oblique stem forms}}: {{alt|sh|hćer}}
 
 ===Etymology===
-From {{inh|sh|sla-pro|*dъ̏ťi}}, from {{inh|sh|ine-bsl-pro|*duktḗ}}, from {{inh|sh|ine-pro|*dʰugh₂tḗr}}.
+{{inh+|sh|sla-pro|*dъ̏ťi}}, from {{inh|sh|ine-bsl-pro|*duktḗ}}, from {{inh|sh|ine-pro|*dʰugh₂tḗr}}.
 
 ===Pronunciation===
 * {{sh-IPA|кћи̑}}
@@ -22,7 +22,7 @@ From {{inh|sh|sla-pro|*dъ̏ťi}}, from {{inh|sh|ine-bsl-pro|*duktḗ}}, from {{
 #: {{ux|sh|она је моја кћи|t=she is my daughter|inline=1}}
 
 ====Declension====
-{{sh-decl-noun|sc=Cyrl
+{{sh-decl-noun
 |кћи̑|кће̏ри
 |кће̏ри|кћѐрӣ
 |кћери|кћерима
@@ -32,4 +32,4 @@ From {{inh|sh|sla-pro|*dъ̏ťi}}, from {{inh|sh|ine-bsl-pro|*duktḗ}}, from {{
 |кће̑рју|кћерима
 }}
 
-[[Category:sh:Female family members]]
+{{C|sh|Female family members}}
