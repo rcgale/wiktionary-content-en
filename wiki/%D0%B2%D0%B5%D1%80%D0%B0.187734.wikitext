@@ -86,11 +86,11 @@ Cognate with {{cog|cu|вѣра}}, {{cog|uk|ві́ра}}, {{cog|bg|вя́ра}}, 
 
 ===Etymology 1===
 {{dercat|sh|ine-bsl-pro|ine-pro|inh=1}}
-From {{inh|sh|sla-pro|*věra}}.
+{{inh+|sh|sla-pro|*věra}}.
 
 ====Alternative forms====
-* {{alter|sh|вје̏ра||Ijekavian}}
-* {{alter|sh|vira||Ikavian}}
+* {{alt|sh|вје̏ра||Ijekavian}}
+* {{alt|sh|vira||Ikavian}}
 
 ====Pronunciation====
 * {{IPA|sh|/ʋêra/}}
@@ -103,7 +103,7 @@ From {{inh|sh|sla-pro|*věra}}.
 # [[religion]]
 
 =====Declension=====
-{{sh-decl-noun|sc=Cyrl
+{{sh-decl-noun
 |ве̏ра|вере
 |вере|ве̑ра̄
 |вери|верама
@@ -117,7 +117,7 @@ From {{inh|sh|sla-pro|*věra}}.
 * {{l|sh|вѐрскӣ}}
 
 ===Etymology 2===
-From {{bor|sh|it|vera}}.
+{{bor+|sh|it|vera}}.
 
 ====Pronunciation====
 * {{IPA|sh|/ʋêːra/}}
@@ -129,7 +129,7 @@ From {{bor|sh|it|vera}}.
 # [[wedding ring]]
 
 =====Declension=====
-{{sh-decl-noun|sc=Cyrl
+{{sh-decl-noun
 |ве̑ра|вере
 |вере|ве̑ра̄
 |вери|верама
@@ -139,4 +139,4 @@ From {{bor|sh|it|vera}}.
 |вером|верама
 }}
 
-[[Category:sh:Religion]]
+{{C|sh|Religion}}
