@@ -113,21 +113,43 @@ Ale iże tacy złośnicy ku odpiraniu swej złości wzięli sobie w obyczaj mies
 
 ===Etymology===
 {{dercat|szl|sla-pro|ine-bsl-pro|ine-pro|inh=3}}
-{{inh+|szl|zlw-opl|góra}}.
+{{inh+|szl|zlw-opl|góra}}. {{senseno|pl|mine|uc=1}} is preserved in terms such as {{m|pl|górnik}}.
 
 ===Pronunciation===
-{{pl-p|a=Pl-góra.ogg|hh=Góra,Gura}}
+{{pl-p|a=Pl-góra.ogg|hh=Góra,Gura|mp=+}}
 
 ===Noun===
-{{pl-noun|f|dim=górka}}
+{{pl-noun|f|dim=górka|abbr=g.}} {{+obj|pl|case|means=}} {{+preo|pl|prep|case|means=}}
 
-# [[mountain]]
+# {{lb|pl|countable}} [[mountain]]
 #: {{uxi|pl|Klasztor znajdował się na szczycie wysokiej '''góry'''.|The monastery was situated on the top of a high '''mountain'''.}}
-# [[top]]
+# {{lb|pl|uncountable}} [[top]] {{gl|higher part of some object; upmost part of something}}
+#: {{ant|pl|dół}}
 #: {{uxi|pl|'''Góra''' strony powinna być pusta.|The '''top''' of the page should be empty.}}
-# {{lb|pl|colloquial}} [[higher-up]]s
-#: {{uxi|pl|Nie pomogę wam w tym projekcie, dopóki '''góra''' go nie przyklepie.|I won't help you with this project until the '''higher-ups''' sign off on it.}}
+## {{lb|pl|uncountable}} [[upstairs]]; [[attic]]
+## {{lb|pl|colloquial}} [[higher-up]]s
+##: {{syn|pl|władza}}
+##: {{uxi|pl|Nie pomogę wam w tym projekcie, dopóki '''góra''' go nie przyklepie.|I won't help you with this project until the '''higher-ups''' sign off on it.}}
+## {{lb|pl|uncountable|music}} [[upper range]] of a [[singer]]
+## {{lb|pl|countable|obsolete}} [[up]]per [[course]] of a [[river]]
+##: {{hyper|pl|bieg}}
+# {{lb|pl|countable}} [[pile]] {{gl|collection of things one on top of the other}}
+#: {{syn|pl|kopiec|kupa|sterta|stos}}
 # {{lb|pl|in the plural}} [[mountains]], [[mountain range]]
+# {{senseid|pl|mine}} {{lb|pl|countable|obsolete}} [[mine]] {{gl|place for extracting resources}}
+#: {{syn|pl|kopialnia}}
+# {{lb|pl|countable|obsolete|except in set phrases}} [[advantage]] {{gl|condition, circumstance, opportunity or means, particularly favorable or chance to success, or to any desired end}}
+#: {{syn|pl|przewaga}}
+#: {{coi|pl|[[wziąć górę|wziąć '''górę''']]/[[brać górę|brać '''górę''']]|to [[get the better of|get the '''better''' of]]}}
+# {{lb|pl|countable|Middle Polish|geography}} [[cape]] {{gl|piece or point of land, extending beyond the adjacent coast into a sea or lake}}
+#: {{syn|pl|przylądek}}
+# {{lb|pl|countable|Middle Polish}} [[beginning]], [[start]] {{gl|first part of something}}
+#: {{syn|pl|początek}}
+# {{lb|pl|Middle Polish}} [[surface]] {{gl|external part of something}}
+#: {{syn|pl|wierzch}}
+# {{lb|pl|Middle Polish}} {{def-uncertain|pl|nohypothesis=1}}
+#* {{RQ:pl:ZapWar|page=1505 nr 2000|Iakosz thy nam czlovyekya {{...}} sz '''gory''' szvrzadem wszyal wszwoya cząscz crą czyreyowska thamo wgorze podla poszw gwalthem.|-}}
+#* {{RQ:pl:Murm|page=21|Mons pharetratus {{...}} Der Kocherſberg. Sárczaná '''gorá'''.|-}}
 
 ====Declension====
 {{pl-decl-noun-f}}
@@ -147,8 +169,20 @@ Ale iże tacy złośnicy ku odpiraniu swej złości wzięli sobie w obyczaj mies
 #: {{syn|pl|najwyżej}}
 #: {{uxi|pl|Skończę za dwa, '''góra''' trzy dni.|I'll finish in two, three days '''at most'''.}}
 
+===Trivia===
+{{pl-freq 1990|46|10|16|66|34|172|334|135|1}}
+
+===References===
+{{reflist}}
+
 ===Further reading===
 * {{R:pl:WSJP}}
 * {{R:pl:PWN}}
+* {{R:pl:SXVI|gora|53352}}
+* {{R:pl:SXVII|}}
+* {{R:pl:SJP1807}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900||887|1}}
+* {{R:pl:SgOWiM|+|305|2}}
 
 {{C|pl|Landforms}}
