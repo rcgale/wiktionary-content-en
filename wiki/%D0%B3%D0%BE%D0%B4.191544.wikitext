@@ -142,7 +142,7 @@ Germanic cognates include
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{inh|sh|sla-pro|*godъ}}, from {{inh|sh|ine-bsl-pro|*gadás}}, from {{inh|sh|ine-pro|*gʰedʰ-}}. Cognate with {{cog|sl|god}}, {{cog|cu|годъ}}, {{cog|ru|год}}.
+{{inh+|sh|sla-pro|*godъ}}, from {{inh|sh|ine-bsl-pro|*gadás}}, from {{inh|sh|ine-pro|*gʰedʰ-}}. Cognate with {{cog|sl|god}}, {{cog|cu|годъ}}, {{cog|ru|год}}.
 
 ===Pronunciation===
 * {{IPA|sh|/ɡôːd/}}
@@ -155,7 +155,7 @@ From {{inh|sh|sla-pro|*godъ}}, from {{inh|sh|ine-bsl-pro|*gadás}}, from {{inh|
 # [[ring]] (on a tree)
 
 ====Declension====
-{{sh-decl-noun|sc=Cyrl
+{{sh-decl-noun
 |го̑д|го̏дови
 |года|годова
 |году|годовима
@@ -180,8 +180,7 @@ From {{inh|sh|sla-pro|*godъ}}, from {{inh|sh|ine-bsl-pro|*gadás}}, from {{inh|
 #: како год хоћеш — however you want it, however you wish
 #: колико год (да) кошта, желим га — whatever it costs, I want it
 
-[[Category:sh:Calendar terms]]
-[[Category:sh:Trees]]
+{{C|sh|Calendar terms|Trees}}
 
 ==Ukrainian==
 
