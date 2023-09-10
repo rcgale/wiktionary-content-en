@@ -99,11 +99,11 @@ From {{m|ru|цвести́}}.
 ==Serbo-Croatian==
 
 ===Alternative forms===
-* (''Ijekavian''): {{l|sh|sc=Cyrl|цвије̑т}}
-* (''Ikavian''): {{l|sh|cvȋt}}
+* {{alt|sh|цвије̑т||Ijekavian|}}
+* {{alt|sh|cvȋt||Ikavian|}}
 
 ===Etymology===
-From {{inh|sh|sla-pro|*květъ}}.
+{{inh+|sh|sla-pro|*květъ}}.
 
 ===Noun===
 {{sh-noun|g=m|head=цве̑т}}
@@ -114,7 +114,7 @@ From {{inh|sh|sla-pro|*květъ}}.
 # {{lb|sh|archaic}} [[color]]
 
 ====Declension====
-{{sh-decl-noun|sc=Cyrl
+{{sh-decl-noun
 |цвет|цветови
 |цвета|цветова
 |цвету|цветовима
@@ -124,4 +124,4 @@ From {{inh|sh|sla-pro|*květъ}}.
 |цветом|цветовима
 }}
 
-[[Category:sh:Flowers]]
+{{C|sh|Flowers}}
