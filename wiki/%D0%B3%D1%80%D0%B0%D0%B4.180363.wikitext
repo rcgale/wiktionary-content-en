@@ -194,7 +194,7 @@ Cognate with {{cog|lt|gruodas}} ({{cog|ine-bsl-pro|*grōda-}}), {{cog|la|grandō
 ==Serbo-Croatian==
 
 ===Etymology 1===
-From {{inh|sh|sla-pro|*gȏrdъ}}, from {{inh|sh|ine-bsl-pro|*gárdas}}, from {{inh|sh|ine-pro|*gʰerdʰ-|*gʰórdʰos}}.
+{{inh+|sh|sla-pro|*gȏrdъ}}, from {{inh|sh|ine-bsl-pro|*gárdas}}, from {{inh|sh|ine-pro|*gʰerdʰ-|*gʰórdʰos}}.
 
 ====Pronunciation====
 * {{sh-IPA|гра̑д}}
@@ -207,7 +207,7 @@ From {{inh|sh|sla-pro|*gȏrdъ}}, from {{inh|sh|ine-bsl-pro|*gárdas}}, from {{i
 # {{lb|sh|usually after the preposition {{m|sh|у}}}} [[downtown]], city centre
 
 =====Declension=====
-{{sh-decl-noun|sc=Cyrl
+{{sh-decl-noun
 |гра̑д|гра̏дови
 |гра̑да|гра̏до̄ва̄
 |гра̑ду|гра̏довима
@@ -218,7 +218,7 @@ From {{inh|sh|sla-pro|*gȏrdъ}}, from {{inh|sh|ine-bsl-pro|*gárdas}}, from {{i
 }}
 
 ===Etymology 2===
-From {{inh|sh|sla-pro|*gradъ}}, from {{der|sh|ine-pro|*greh₃d-}} or {{m|ine-pro|*ǵʰreh₃d-}}.
+{{inh+|sh|sla-pro|*gradъ}}, from {{der|sh|ine-pro|*greh₃d-}} or {{m|ine-pro|*ǵʰreh₃d-}}.
 
 ====Pronunciation====
 * {{sh-IPA|гра̏д}}
@@ -229,7 +229,7 @@ From {{inh|sh|sla-pro|*gradъ}}, from {{der|sh|ine-pro|*greh₃d-}} or {{m|ine-p
 # [[hail]]
 
 =====Declension=====
-{{sh-decl-noun|sc=Cyrl
+{{sh-decl-noun
 |град|гради
 |града|гради
 |граду|градима
@@ -240,7 +240,7 @@ From {{inh|sh|sla-pro|*gradъ}}, from {{der|sh|ine-pro|*greh₃d-}} or {{m|ine-p
 }}
 
 ===Etymology 3===
-From {{bor|sh|la|gradus}}.
+{{bor+|sh|la|gradus}}.
 
 ====Pronunciation====
 * {{sh-IPA|гра̑д}}
@@ -249,10 +249,10 @@ From {{bor|sh|la|gradus}}.
 {{sh-noun|g=m|head=гра̑д}}
 
 # {{lb|sh|mathematics}} [[gradian]]
-# [[degree]] (measuring unit in various systems; the more usual and general term is {{m|sh|sc=Cyrl|сте̏пе̄н}} or {{m|sh|sc=Cyrl|сту̑пањ}})
+# [[degree]] (measuring unit in various systems; the more usual and general term is {{m|sh|сте̏пе̄н}} or {{m|sh|сту̑пањ}})
 
 =====Declension=====
-{{sh-decl-noun|sc=Cyrl
+{{sh-decl-noun
 |гра̑д|гради
 |града|гра́дӣ / гра́да̄
 |граду|градима
@@ -262,7 +262,7 @@ From {{bor|sh|la|gradus}}.
 |градом|градима
 }}
 
-{{c|sh|Buildings|Ice|Polities|Places|Units of measure}}
+{{C|sh|Buildings|Ice|Polities|Places|Units of measure}}
 
 ==Ukrainian==
 
