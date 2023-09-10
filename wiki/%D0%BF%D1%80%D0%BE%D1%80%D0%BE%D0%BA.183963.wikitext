@@ -55,7 +55,7 @@
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{inh|sh|sla-pro|*prorokъ}}.
+{{inh+|sh|sla-pro|*prorokъ}}.
 
 ===Noun===
 {{sh-noun|g=m|head=про̀рок}}
@@ -63,7 +63,7 @@ From {{inh|sh|sla-pro|*prorokъ}}.
 # [[prophet]] (one who speaks by divine inspiration)
 
 ====Declension====
-{{sh-decl-noun|sc=Cyrl
+{{sh-decl-noun
 |пророк|пророци
 |пророка|пророка
 |пророку|пророцима
@@ -74,10 +74,9 @@ From {{inh|sh|sla-pro|*prorokъ}}.
 }}
 
 ====Related terms====
-* {{l|sh|sc=Cyrl|про̀рећи}}
+* {{l|sh|про̀рећи}}
 
-[[Category:sh:People]]
-[[Category:sh:Religion]]
+{{C|sh|People|Religion}}
 
 ==Ukrainian==
 {{wp|lang=uk}}
