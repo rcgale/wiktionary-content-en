@@ -136,11 +136,11 @@ From {{inh|ru|orv|вѣкъ}}, from {{inh|ru|sla-pro|*věkъ}}.
 ==Serbo-Croatian==
 
 ===Alternative forms===
-* {{alter|sh|вије̑к||Ijekavian}}
-* {{alter|sh|ви̑к||Ikavian}}
+* {{alt|sh|вије̑к||Ijekavian}}
+* {{alt|sh|ви̑к||Ikavian}}
 
 ===Etymology===
-From {{inh|sh|sla-pro|*věkъ}}.
+{{inh+|sh|sla-pro|*věkъ}}.
 
 ===Noun===
 {{sh-noun|g=m|head=ве̑к}}
@@ -150,7 +150,7 @@ From {{inh|sh|sla-pro|*věkъ}}.
 # [[lifetime]]
 
 ====Declension====
-{{sh-decl-noun|sc=Cyrl
+{{sh-decl-noun
 |ве̑к|ве̏кови
 |века|векова
 |веку|вековима
@@ -161,7 +161,6 @@ From {{inh|sh|sla-pro|*věkъ}}.
 }}
 
 ====Derived terms====
-* {{l|sh|sc=Cyrl|ве̏чан}}
+* {{l|sh|ве̏чан}}
 
-[[Category:sh:Hundred]]
-[[Category:sh:Time]]
+{{C|sh|Hundred|Time}}
