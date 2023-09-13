@@ -845,19 +845,22 @@ Probably from a {{inh|ro|VL.||*eas}}, from {{inh|ro|la|habēbās}}.
 ===Etymology 1===
 
 ====Noun====
-{{head|sei|noun|plural|aaita}}
+{{sei-noun||aaita}}
 
 # his [[father]]
 
 =====Declension=====
-{{sei-decl-rel|2=aaita|a=hapee}}
+{{sei-decl-rel|3p=aaita|a=hapee|1s=hii}}
+
+====Derived terms====
+{{col-auto|sei|queaa<t:to have as father>}}
 
 ===Etymology 2===
 
-====Preposition====
-{{head|sei|preposition}}
+====Adverb====
+{{head|sei|adverb}}
 
-# [[still]] {{qualifier|used with nominalized third person verbs}}
+# {{lb|sei|rare}} [[still]] {{qualifier|used with nominalized third person verbs}}
 
 ===References===
 * {{R:sei:dict|page=43}}
