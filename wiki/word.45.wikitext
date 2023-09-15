@@ -371,7 +371,7 @@ In computing, the size (length) of a word, while being fixed in a particular mac
 * Chinese:
 *: Cantonese: {{t|yue|詞|tr=ci4}}
 *: Dungan: {{t|dng|цы}}
-*: Mandarin: {{tt+|cmn|詞|tr=cí}}, {{tt+|cmn|單詞|tr=dāncí}}, {{tt+|cmn|詞語|tr=cíyǔ}}
+*: Mandarin: {{tt+|cmn|詞|tr=cí}}, {{tt+|cmn|單詞}}, {{tt+|cmn|詞語}}
 * Chukchi: {{tt|ckt|вэтгав|tr=vėtgav}}
 * Chuvash: {{tt|cv|сӑмах}}
 * Classical Nahuatl: {{tt|nci|tēntli}}, {{tt|nci|tlahtōlli}}
@@ -502,8 +502,8 @@ In computing, the size (length) of a word, while being fixed in a particular mac
 * Ossetian: {{tt|os|дзырд}}, {{tt|os|ныхас}}
 * Pali: {{t|pi|pada|n}}
 * Papiamentu: {{tt|pap|palabra|f}}
-* Pashto: {{tt+|ps|لغت|tr=luġat}}, {{tt|ps|کلمه|tr=kalimâ}}
-* Persian: {{tt+|fa|واژه|tr=vâže}}, {{tt+|fa|کلمه|tr=kalame}}, {{tt+|fa|لغت|tr=loğat}}
+* Pashto: {{tt+|ps|لغت|tr=luġat}}, {{tt|ps|کلمه|tr=kalimā}}
+* Persian: {{tt+|fa|واژِه|tr=vâže}}, {{tt+|fa|کَلِمِه|tr=kaleme}}, {{tt+|fa|لُغَت|tr=loğat}}
 * Piedmontese: {{t|pms|mòt|m}}, {{t|pms|vos|f}}, {{tt|pms|paròla|f}}
 * Plautdietsch: {{tt+|pdt|Wuat|n}}
 * Polabian: {{tt|pox|slüvǘ|n}}
@@ -569,7 +569,7 @@ In computing, the size (length) of a word, while being fixed in a particular mac
 * Udmurt: {{tt|udm|кыл}}
 * Ugaritic: {{tt|uga|𐎅𐎆𐎚}}
 * Ukrainian: {{tt+|uk|сло́во|n}}
-* Urdu: {{tt|ur|شبد|m|tr=śabd}}, {{tt|ur|بات|f|tr=bāt}}, {{tt+|ur|کلمہ|m}}, {{tt+|ur|لغت|m|tr=luġat}}, {{t+|ur|لفظ|m|tr=lafz}}
+* Urdu: {{tt|ur|شَبْد|m|m}}, {{tt|ur|بات|f}}, {{tt+|ur|کَلِمَہ|m}}, {{tt+|ur|لُغَت|m}}, {{t+|ur|لَفْظ|m}}
 * Uyghur: {{tt|ug|سۆز}}
 * Uzbek: {{tt+|uz|soʻz}}
 * Venetian: {{tt|vec|paroła|f}}, {{tt|vec|paròła|f}}, {{tt|vec|paròla|f}}
@@ -612,8 +612,9 @@ In computing, the size (length) of a word, while being fixed in a particular mac
 * Italian: {{tt+|it|word|m}}
 * Japanese: {{tt+|ja|言語|tr=げんご, gengo}}
 * Macedonian: {{tt+|mk|збор|m}}
-* Norwegian: {{tt+|no|ord|n}}
-* Persian: {{tt+|fa|واژه|tr=vâže}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|ord|n}}
+* Persian: {{tt+|fa|واژِه|tr=vâže}}
 * Portuguese: {{tt+|pt|palavra|f}}
 * Romanian: {{tt+|ro|cuvânt|n}}
 * Russian: {{tt+|ru|сло́во|n}}
@@ -654,7 +655,7 @@ In computing, the size (length) of a word, while being fixed in a particular mac
 {{trans-see|proverb}}
 
 {{trans-top|news, tidings}}
-* Bulgarian: {{t+|bg|известие|n}}
+* Bulgarian: {{t+|bg|изве́стие|n}}
 * Finnish: {{tt+|fi|uutiset|p}}, {{tt+|fi|sana}}
 * Malay: {{tt+|ms|berita}}, {{tt+|ms|khabar}}, {{tt|ms|kabar}}
 * Maori: {{tt+|mi|pūrongo}}
@@ -665,7 +666,7 @@ In computing, the size (length) of a word, while being fixed in a particular mac
 {{trans-bottom}}
 
 {{trans-top-also|order, request, expression of will|order|request}}
-* Bulgarian: {{t+|bg|команда|f}}, {{t+|bg|заповед|f}}
+* Bulgarian: {{t+|bg|кома́нда|f}}, {{t+|bg|за́повед|f}}
 * Finnish: {{tt+|fi|sana}}
 * Russian: {{tt+|ru|сло́во|n}}
 {{trans-bottom}}
@@ -675,10 +676,10 @@ In computing, the size (length) of a word, while being fixed in a particular mac
 * Albanian: {{tt+|sq|sharje|f}}
 * Armenian: {{tt+|hy|խոսք}}, {{tt+|hy|խոստում}}
 * Breton: {{tt+|br|ger|m}}
-* Bulgarian: {{t+|bg|обещание|n}}, {{t+|bg|дума|f}}
+* Bulgarian: {{t+|bg|обеща́ние|n}}, {{t+|bg|ду́ма|f}}
 * Catalan: {{tt+|ca|paraula|f}}
 * Chinese:
-*: Mandarin: {{tt+|cmn|諾言|tr=nuòyán}}
+*: Mandarin: {{tt+|cmn|諾言}}
 * Czech: {{tt+|cs|slovo|n}}, {{tt+|cs|slib|m}}
 * Dutch: {{tt+|nl|erewoord|n}}, {{tt+|nl|woord|n}}
 * Finnish: {{tt+|fi|sana}}
@@ -697,8 +698,9 @@ In computing, the size (length) of a word, while being fixed in a particular mac
 * Malay: {{tt+|ms|janji}}
 * Malayalam: {{tt+|ml|വാക്ക്}}
 * Middle English: {{tt|enm|word}}
-* Norwegian: {{tt+|no|ord|n}}, {{tt+|no|lovnad|m}}
-* Persian: {{tt+|fa|پیمان|tr=peymân}}, {{tt+|fa|قول|tr=qol}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|ord|n}}, {{tt+|nb|lovnad|m}}
+* Persian: {{tt+|fa|پِیمان|tr=peymân}}, {{tt+|fa|قول|tr=qol}}
 * Polish: {{tt+|pl|słowo|n}}
 * Portuguese: {{tt+|pt|palavra|f}}, {{tt+|pt|promessa|f}}
 * Romanian: {{tt|ro|[[cuvânt]] [[de]] [[onoare]]|n}}
@@ -726,12 +728,12 @@ In computing, the size (length) of a word, while being fixed in a particular mac
 * Bulgarian: {{t+|bg|спор|m}}
 * Dutch: {{tt+|nl|woordenwisseling|f}}
 * Finnish: {{tt+|fi|riita}}, {{tt+|fi|kiista}}, {{tt+|fi|sanailu}}, {{tt|fi|sananvaihto}}
-* Norwegian: {{tt|no|krangel|m}}
+* Norwegian:
+*: Bokmål: {{tt|nb|krangel|m}}
 * Russian: {{tt+|ru|перебра́нка|f}}
 {{trans-bottom}}
 
 {{trans-top|Christ}}
-* Arabic: {{tt|ar|كلمة الله}}
 * Burmese: {{tt|my|နှုတ်ကပတ်တော်သည်}}
 * Chinese:
 *: Mandarin: {{tt+|cmn|道|tr=dào}}
@@ -741,11 +743,12 @@ In computing, the size (length) of a word, while being fixed in a particular mac
 * Middle English: {{tt|enm|word}}
 * Occitan: {{tt+|oc|vèrbe|m}}, {{tt+|oc|vèrb|m}}
 * Oriya: {{tt+|or|ବାକ୍ୟ}}
-* Tajik: {{tt|tg|Калом}}
+* Tajik: {{tt+|tg|калом}}
 * Telugu: {{tt+|te|దేవుడు}}
 {{trans-bottom}}
 
 {{trans-top|the word of God}}
+* Arabic: {{tt|ar|كَلِمَةُ اللهِ|f}}
 * Armenian: {{tt+|hy|բան}}
 * Catalan: {{tt+|ca|paraula|f}}
 * Czech: {{tt|cs|slovo boží|n}}
@@ -763,8 +766,9 @@ In computing, the size (length) of a word, while being fixed in a particular mac
 * Macedonian: {{tt|mk|божја реч|f}}
 * Malay: {{tt|ms|sabda}}, {{tt|ms|firman}}
 * Maore Comorian: {{tt|swb|Urongozi wa Mungu|c11}}
-* Norwegian: {{tt+|no|ord|n}}
-* Persian: {{tt+|fa|گفتار|tr=goftâr}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|ord|n}}
+* Persian: {{tt+|fa|گُفْتار|tr=goftâr}}
 * Polish: {{tt|pl|Słowo Boże|n}}
 * Portuguese: {{tt+|pt|verbo}}, {{tt+|pt|palavra|f}}, {{tt|pt|palavra do Senhor|f}}, {{tt|pt|palavra divina|f}}, {{tt|pt|palavra de Deus|f}}
 * Romanian: {{tt+|ro|cuvânt|n}}
