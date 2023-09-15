@@ -252,12 +252,12 @@
 * Chichewa: {{tt|ny|mtengo}}
 * Chickasaw: {{t|cic|itti'}}
 * Chinese:
-*: Cantonese: {{tt|yue|樹|tr=syu6}}, {{tt|yue|樹木|tr=syu6 muk6}}
+*: Cantonese: {{tt|yue|樹|tr=syu6}}, {{tt|yue|樹木}}
 *: Dungan: {{tt|dng|фу}}
 *: Gan: {{tt|gan|樹|tr=xy5}}
 *: Hakka: {{tt|hak|樹|tr=su}}, {{tt|hak|樹仔|tr=su-é}}
 *: Jin: {{tt|cjy|樹}}
-*: Mandarin: {{tt+|cmn|樹|tr=shù}}, {{tt+|cmn|喬木|tr=qiáomù}}, {{tt+|cmn|樹木|tr=shùmù}}
+*: Mandarin: {{tt+|cmn|樹|tr=shù}}, {{tt+|cmn|喬木}}, {{tt+|cmn|樹木}}
 *: Min Bei: {{tt|mnp|樹|tr=chiū / sṳ̄}}
 *: Min Dong: {{tt|cdo|樹|tr=chéu}}, {{tt|cdo|𣗬|tr=chéu}}
 *: Min Nan: {{tt+|nan|樹|tr=chhiū / sū / sī}}, {{tt|nan|𣗬|tr=chhiū}}, {{tt|nan|樹叢|tr=sū-chông / chhiū-châng}} {{qualifier|Hokkien}}, {{tt+|nan|樹仔|tr=chhiū-á}}
@@ -431,7 +431,9 @@
 * Mizo: {{t|lus|thing}}
 * Mòcheno: {{tt|mhn|pa'm|m}}
 * Mon: {{tt+|mnw|ဆု|tr=chu}}
-* Mongolian: {{tt+|mn|мод}}
+* Mongolian:
+*: Cyrillic: {{tt+|mn|мод}}
+*: Mongolian: {{tt|mn|ᠮᠣᠳᠤ}}
 * Motu: {{tt|meu|au}}
 * Mwani: {{tt|wmw|muti}}
 * Nahuatl:
@@ -485,10 +487,10 @@
 * Panamint: {{tt|par|huuppin}}
 * Pangasinan: {{t|pag|kiew}}
 * Papiamentu: {{t|pap|palu}}
-* Pashto: {{tt+|ps|ونه|f|tr=wᶕna}}, {{tt+|ps|درخته|f|tr=dráxta}}
+* Pashto: {{tt+|ps|ونه|f|tr=wᶕna}}, {{tt+|ps|درخته|f|tr=draxta}}
 * Pela: {{t|bxd|sak⁵⁵}}, {{t|bxd|sak⁵⁵ kɛ̃⁵⁵}}
 * Pennsylvania German: {{tt|pdc|Baam}}
-* Persian: {{tt+|fa|درخت|tr=deraxt}}, {{tt+|fa|دار|tr=dâr}}
+* Persian: {{tt+|fa|دِرَخْت|tr=deraxt}}, {{tt+|fa|دَرَخْت|tr=daraxt}}, {{tt+|fa|دار|tr=dâr}}
 * Piedmontese: {{t|pms|erbo|m}}
 * Pipil: {{tt|ppl|kwawit}}, {{tt|ppl|cuahuit}}
 * Plautdietsch: {{tt+|pdt|Boom|m}}
@@ -584,7 +586,7 @@
 * Ugaritic: {{tt|uga|𐎓𐎕}}
 * Ukrainian: {{tt+|uk|де́рево|n}}
 * Umbundu: {{tt|umb|uti}}
-* Urdu: {{tt|ur|پیڑ|m|tr=peṛ}}, {{tt|ur|ورکش|tr=varkś}}, {{tt|ur|درخت|m|tr=daraxt}}
+* Urdu: {{tt|ur|پیڑ|m}}, {{tt|ur|دَرَخْت|m}}
 * Uyghur: {{tt+|ug|دەرەخ}}
 * Uzbek: {{tt+|uz|daraxt}}
 * Venetian: {{tt|vec|alber|m}}, {{tt+|vec|àlbaro|m}}
@@ -628,7 +630,7 @@
 {{trans-top|shoe tree}}
 * Fijian: {{t|fj|vu ni kau}}
 * German: {{t+|de|Schuhspanner|m}}
-* Japanese: {{t|ja|靴型|tr=kutsugata}}
+* Japanese: {{t|ja|靴型|tr=くつがた, kutsugata}}
 * Macedonian: {{t|mk|калап|m}}
 * Polish: {{t+|pl|prawidło|n}}
 * Russian: {{t+|ru|распо́рка|f}}
@@ -652,24 +654,24 @@
 * Finnish: {{t+|fi|puu}}
 * German: {{t+|de|Baum|m}}
 * Italian: {{t+|it|albero|m}}
-* Japanese: {{t+|ja|木|tr=ki}}
-* Korean: {{t|ko|트리}}, {{t+|ko|나무}}, {{t|ko|수형도}}
+* Japanese: {{t+|ja|木|tr=き, ki}}
+* Korean: {{t|ko|트리}}, {{t+|ko|나무}}, {{t|ko|수형도(樹形圖)}}
 * Lithuanian: {{t+|lt|medis|m}}
 * Macedonian: {{t|mk|дрво|n}}
-* Persian: {{t+|fa|درخت}}
+* Persian: {{tt+|fa|دِرَخْت|tr=deraxt}}, {{tt+|fa|دَرَخْت|tr=daraxt}}
 * Polish: {{t+|pl|drzewo|n}}
 * Portuguese: {{t+|pt|árvore|f}}
 * Russian: {{t+|ru|де́рево|n}}
 * Swahili: {{t+|sw|mti}}
 * Swedish: {{t+|sv|träd|n}}
-* Thai: {{t|th|แผนภาพต้นไม้|tr=pànaepâap dtôn máai}}
+* Thai: {{t|th|[[แผนภาพ]][[ต้นไม้]]|tr=pɛ̌ɛn-pâap dtôn-máai}}
 {{trans-bottom}}
 
 {{trans-top|''(computing theory)'' recursive data structure}}
 * Finnish: {{t+|fi|puu}}
 * German: {{t+|de|Baum|m}}
 * Italian: {{t+|it|albero|m}}
-* Japanese: {{t|ja|ツリー構造|tr=tsurī-kōzo}}
+* Japanese: {{t|ja|[[ツリー]][[構造]]|tr=ツリーこうぞう, tsurī kōzo}}
 * Lithuanian: {{t+|lt|medis|m}}
 * Macedonian: {{t|mk|дрво|n}}
 * Polish: {{t+|pl|drzewo|n}}
@@ -683,7 +685,7 @@
 {{trans-top|''(graphical user interface)'' tree list}}
 * German: {{t+|de|Baum|m}}
 * Italian: {{t+|it|albero|m}}
-* Japanese: {{t|ja|ツリーリスト|tr=tsurī-risuto}}
+* Japanese: {{t|ja|ツリーリスト|tr=tsurī risuto}}
 * Lithuanian: {{t+|lt|medis|m}}
 * Macedonian: {{t|mk|дрво|n}}
 * Russian: {{t+|ru|де́рево|n}}
