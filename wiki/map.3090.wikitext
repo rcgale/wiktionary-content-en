@@ -276,6 +276,64 @@ For the most part, ''map'' and ''function'' are synonyms in mathematics, and are
 ===Verb===
 {{en-verb}}
 
+# {{lb|en|transitive}} To [[represent]] by means of a map.
+#: {{ux|en|This large atlas '''maps''' the whole world in very great detail.}}
+#: {{ux|en|Figure 3 '''maps''' the pressure distribution within the human circulatory system.}}
+# {{lb|en|transitive}} To create a map of; to examine or survey in order to gather information for a map.
+#: {{ux|en|The team is '''mapping''' the route of the new railway line.}}
+#: {{ux|en|The space probe is '''mapping''' the Earth's gravitational field.}}
+#: {{ux|en|This equipment is designed to '''map''' the neurons of the human brain in three dimensions.}}
+# {{lb|en|intransitive|followed by a "[[to]]" phrase}} To have a direct relationship; to [[correspond]].
+#: ''This doesn't '''map''' to my understanding of how things should work.''
+#* {{quote-journal|1=en|year=2019|author=Li Huang; James Lambert|title=Another Arrow for the Quiver: A New Methodology for Multilingual Researchers|journal=Journal of Multilingual and Multicultural Development|doi=10.1080/01434632.2019.1596115|page=8|text=Significantly, the aural-oral data does not '''map''' closely to the visual linguistic landscape at NIE.}}
+# {{lb|en|transitive|followed by a "[[to]]" phrase}} To create a direct relationship to; to create a [[correspondence]] with.
+#: {{ux|en|'''Map''' "volume down" to the F2 key.|q=computing}}
+# {{lb|en|mathematics|transitive|followed by a "[[to]]" phrase}} To act as a [[function]] on something, taking it ''[[to]]'' something else.
+#: <math>f</math> '''maps''' <math>A</math> to <math>B</math>, '''mapping''' every <math>a\in A</math> to <math>f(a)\in B</math>.
+# {{lb|en|transitive|computing}} To [[assign]] a [[drive letter]] to a shared [[folder]].
+
+====Derived terms====
+* {{l|en|map out}}
+
+====Descendants====
+* {{desc|sv|mappa|bor=1}}
+
+====Translations====
+{{trans-top|to create a visual representation of a territory}}
+* Bulgarian: {{t|bg|картирам}}
+* Danish: {{t+|da|kortlægge}}
+* Dutch: {{t+|nl|afbeelden}}, {{t|nl|in kaart brengen}}
+* Finnish: {{t+|fi|kartoittaa}}
+* French: {{t+|fr|cartographier}}
+* German: {{t+|de|abbilden}}, {{t+|de|kartografieren}}
+* Hungarian: {{t+|hu|feltérképez}}, {{t+|hu|leképez}}
+* Italian: {{t+|it|mappare}}
+* Macedonian: {{t|mk|картографира}}
+* Maori: {{t|mi|whakamahere}}
+* Norwegian:
+*: Bokmål: {{t|nb|kartlegge}}
+*: Nynorsk: {{t|nn|kartleggja}}, {{t|nn|kartleggje}}, {{t|nn|kartlegga}}, {{t|nn|kartlegge}}
+* Occitan: {{t|oc|mapar}}, {{t|oc|cartografiar}}
+* Portuguese: {{t|pt|mapear}}
+* Romanian: {{t+check|ro|cartografia|alt=a cartografia}} <!-- was "a [[cartografia]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Slovak: {{t|sk|zmapovať}}
+* Swahili: {{t+|sw|ramani}}
+* Swedish: {{t+|sv|kartlägga}}
+{{trans-bottom}}
+
+{{trans-top|to act as a function on}}
+* Finnish: {{t+|fi|kuvata}}
+* French: {{t+|fr|mapper}}, {{t|fr|faire correspondre}}, {{t+|fr|appliquer}}
+* German: {{t+|de|abbilden}}
+* Hungarian: {{t+|hu|leképez}}
+* Portuguese: {{t|pt|mapear}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Slovak: {{t-check|sk|okresliť}}, {{t-check|sk|opísať}}
+* Vietnamese: {{t+check|vi|bản đồ}}
+{{trans-bottom}}
+
 ===References===
 * {{R:OneLook}}
 
