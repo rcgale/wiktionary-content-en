@@ -1671,37 +1671,12 @@ Compare {{cog-lite|de|den}}.
 * {{IPA-lite|pdc|/də/}}
 
 ===Article===
-{{head-lite|pdc|articles|definite|g=p}}
+{{head|pdc|article form|definite|g=p}}
 
-# [[the]]
+# {{inflection of|pdc|der||dat|p|t=[[the]]}}
 
 ====Declension====
-{| style="margin-left:0.5em; margin-bottom:0.5em; border: 1px solid #AAAAAA; border-collapse:collapse;" cellpadding="5" rules="all"
-|-
-! width="65" bgcolor="#F4F4F4" |
-! bgcolor="#EEEEB0" | Masculine
-! bgcolor="#EEEEB0" | Feminine
-! bgcolor="#EEEEB0" | Neuter
-! bgcolor="#CEEEC0" | Plural
-|-
-| bgcolor="#DDDDFF" | '''[[nominative|Nominative]]'''
-| align="center" | {{l-self-lite|pdc|der}}
-| align="center" | {{l-self-lite|pdc|die}}
-| align="center" | {{l-self-lite|pdc|es}}
-| align="center" | {{l-self-lite|pdc|die}}
-|-
-| bgcolor="#DDDDFF" | '''[[accusative|Accusative]]'''
-| align="center" | {{l-self-lite|pdc|der}}
-| align="center" | {{l-self-lite|pdc|die}}
-| align="center" | {{l-self-lite|pdc|es}}
-| align="center" | {{l-self-lite|pdc|die}}
-|-
-| bgcolor="#DDDDFF" | '''[[dative|Dative]]'''
-| align="center" | {{l-self-lite|pdc|dem}}
-| align="center" | {{l-self-lite|pdc|der}}
-| align="center" | {{l-self-lite|pdc|em}}
-| align="center" | {{l-self-lite|pdc|de}}
-|}
+{{pdc-decl-definite article}}
 
 ===Pronoun===
 {{head-lite|pdc|pronouns}}
