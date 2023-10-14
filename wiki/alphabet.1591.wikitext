@@ -1,21 +1,275 @@
+{{also|Alphabet}}
 ==English==
 
 ===Etymology===
-====See also====
-* Appendix:Hebrew alphabet
-* Appendix:Macedonian alphabet
-* Appendix:Swedish spelling alphabet
-* Category:Alphabets
+<div>From {{inh|en|enm|alphabete}}, borrowed from {{der|en|LL.|alphabētum}}, from {{der|en|grc|ἀλφάβητος}}, from {{m|grc|ἄλφα}} and {{m|grc|βῆτα}}, the names of the first two letters of the [[Greek alphabet]], {{m|grc|Α}} and {{m|grc|Β}}, lowercase forms {{m|grc|α|tr=-}} and {{m|grc|β|tr=-}}. The Greek names derived from {{m|en|aleph}}, the name of the {{der|en|phn|-}} letter {{m|phn|𐤀||ox}} and {{m|en|beth}}, the name of the letter {{m|phn|𐤁||house}}, so called because they were pictograms of those objects, having developed from the Egyptian hieroglyphs <hiero>F1</hiero> ({{m|egy|𓃾}}) and <hiero>pr</hiero> ({{m|egy|𓉐}}).</div> {{doublet|en|alfabeto}}.
 
-===Verb===
+===Pronunciation===
+* {{IPA|en|/ˈæl.fə.bɛt/}}
+* {{qualifier|uncommon}} {{IPA|en|/ˈæl.fə.bɪt/}}
+* {{audio|en|en-us-alphabet.ogg|Audio (US)}}
+* {{hyphenation|en|al|pha|bet}}
 
-# {{lb|en|rare}} To designate by the [[letter]]s of the [[alphabet]]; to arrange alphabetically.
+===Noun===
+{{en-noun}}
+
+# The set of [[letter]]s used when writing in a [[language]].
+#: {{ux|en|The Greek '''alphabet''' has only twenty-four letters.}}
+#: {{ux|en|In the first year of school, pupils are taught to recite the '''alphabet'''.}}
+# A [[writing system]] in which [[letter]]s represent [[phoneme]]s. {{qualifier|Contrast e.g. ''[[logography]]'', a writing system in which each character represents a word, and ''[[syllabary]]'', in which each character represents a syllable.}}
+## A [[writing system]] in which there are [[letter]]s for the [[consonant]] ''and'' [[vowel]] [[phoneme]]s. {{qualifier|Contrast e.g. ''[[abjad]]''.}}
+# {{lb|en|computer science}} A typically [[finite]] [[set]] of distinguishable [[symbol]]s.
+#: {{ux|en|Let <math>L</math> be a regular language over the '''alphabet''' <math>\Sigma</math>.}}
+# {{lb|en|India|Hong Kong|Singapore|Malaysia}} An individual [[letter]] of an alphabet; an alphabetic character.
+#* {{quote-book|en|year=2002|author=Eugene E. Dike|title=African myth of creation in African form of writing|publisher=Monsenstein und Vannerdat|isbn=3936600406|page=30|passage=We realize the fact that the '''alphabet''' A has been used in many world scripts as a vowel with the others AEIOU.}}
+#* {{quote-book|en|year=2005|author=Satinder Bal Gupta|title=Comprehensive Discrete Mathematics & Structures|publisher=Laxmi Publications|page=237|passage=There are 26 '''alphabets''' in English.}}
+# The [[simplest]] [[rudiment]]s; [[element]]s.
+#* {{quote-journal|en|year=1828|author=w:Thomas Babington Macaulay|title=The Constitutional History of England: From the Accession of Henry VII, to the Death of George II, by Henry Hallam|work=The Edinburgh Review|volume=18|passage=The very '''alphabet''' of our law.}}
+# {{lb|en|Internet slang|political}} An agent of the [[FBI]], the [[CIA]], or another such government agency.
 
 ====Synonyms====
-*
+* {{l|en|ABC}}, {{l|en|absey}}
+
+====Hypernyms====
+* {{sense|linguistics}} {{l|en|signary}}
+
+====Derived terms====
+{{col4|en|collapse=0
+|[[alphanumeric]][[alphanumerical|(-al)]] <small>{{q|by clipping}}</small>
+|alphabetarian
+|[[alphabeted]] {{q|adj.}}
+|[[alphabetic]][[alphabetical|(-al)]] → [[alphabetically]], [[multialphabetic|multi-]], [[polyalphabetic|poly-]], [[prealphabetic]]
+|alphabetiform
+|alphabetism
+|alphabetitis
+|[[alphabetize]] / [[alphabetise|-ise]]
+|alphabetlike
+|multialphabet
+|semi-alphabet
+}}
+{{col4|en|title=Expressions with language/script names|collapse=0
+|[[Arabic alphabet]] <small>{{q|redirecting to [[Arabic script|Ar. script]]}}</small>
+|[[Cyrillic alphabet]] <small>{{q|redirecting to [[Cyrillic#Proper noun|Cyrillic]]}}</small>
+|Devanagari alphabet
+|Glagolitic alphabet
+|Gothic alphabet
+|Greek alphabet
+|Latin alphabet
+|[[Proto-Canaanite alphabet|Proto-Canaanite al.]]<!-- for compactness-->
+|Roman alphabet
+|Morse alphabet|international phonetic alphabet}}
+{{col4|en|title=Expressions with other terms|collapse=0
+|alphabet agency
+|alphabet book
+|alphabet boy
+|alphabet mafia
+|alphabet of desire
+|alphabet soup
+|Euclidean alphabet
+|finger alphabet
+|[[Fraser alphabet]] <small>{{q|synonym of [[Fraser script]]}}</small>
+|[[ICAO spelling alphabet|ICAO spelling alph.]]<!-- for compactness-->
+|[[International Phonetic Alphabet|Int’l Phonetic Alph.]]<!-- for compactness-->
+|manual alphabet
+|movable alphabet|moveable alphabet
+|[[NATO phonetic alphabet|NATO phonetic alph.]]<!-- for compactness-->
+|phonetic alphabet
+|[[phonetic spelling alphabet|phonetic spelling al.]]<!-- for compactness-->
+|Raguileo alphabet
+|Shavian alphabet
+|Theban alphabet
+|spelling alphabet
+|weighted alphabet
+|Zhuyin alphabet
+}}
+
+====Related terms====
+{{col3|en
+|[[alphabetary]] {{q|obsolete}}
+|alphabetician
+|analphabet
+}}
+
+====Translations====
+{{trans-top|an ordered set of letters used in a language}}
+* Abkhaz: {{t|ab|алфавит}}
+* Adyghe: {{t|ady|тхыпкъылъэ}}
+* Afrikaans: {{t+|af|alfabet}}
+* Albanian: {{t+|sq|alfabet|m}}
+* Alemannic German: {{t|gsw|Alphabet}}
+* Amharic: {{t|am|ፊደል}}
+* Apache:
+*: Western Apache: {{t|apw|biabcʼhíí}} {{qualifier|their alphabet}}, {{t|apw|abcʼhí}}
+* Arabic: {{t|ar|حُرُوف الْهِجَاء|m-p}}, {{t+|ar|أَبْجَد|m}}, {{t|ar|أَلِفْبَاء|m}}, {{t|ar|أَلِفْبَائِيَّة|f}}, {{t|ar|أَبْجَدِيَّة|f}}
+* Aramaic: {{t|arc|ܐܠܦܒܝܬ}}
+* Armenian: {{t+|hy|այբուբեն}}
+* Assamese: {{t|as|বৰ্ণমালা}}
+* Asturian: {{t+|ast|alfabetu|m}}
+* Azerbaijani: {{t+|az|əlifba}}
+* Bashkir: {{t|ba|әлифба}}
+* Basque: {{t+|eu|alfabeto}}
+* Belarusian: {{t|be|алфаві́т|m}}, {{t|be|а́збука|f}}, {{t|be|альфабэ́т|m}}, {{t|be|абяца́дла|f}}, {{t|be|абэцэ́да|f}} {{qualifier|Latin alphabet}}
+* Bengali: {{t|bn|বর্ণমালা}}
+* Bikol Central: {{t|bcl|alpabeto}}
+* Breton: {{t+|br|lizherenneg|f}}
+* Bulgarian: {{t+|bg|а́збука|f}}, {{t|bg|алфави́та|f}} {{qualifier|dated}}
+* Burmese: {{t+|my|အက္ခရာ}}
+* Catalan: {{t+|ca|alfabet|m}}, {{t+|ca|abecedari|m}}
+* Chinese:
+*: Dungan: {{t|dng|зыму}}, {{t|dng|элифбе}}
+*: Mandarin: {{t+|cmn|字母|tr=zìmǔ}}, {{t+|cmn|字母表|tr=zìmǔbiǎo}}, {{t|cmn|字母系統|tr=zìmǔ xìtǒng}}
+* Chuvash: {{t|cv|алфавит}}
+* Cornish: {{t|kw|lytherennek|f}}, {{t|kw|abecedari|m}}
+* Corsican: {{t+|co|alfabetu|m}}
+* Czech: {{t+|cs|abeceda|f}}
+* Danish: {{t+|da|alfabet|n}}
+* Dhivehi: {{t|dv|އަލިފުބާ}}
+* Dinka: {{t|din|kïndegɔ̈t}}
+* Dutch: {{t+|nl|ABC|n}}, {{t+|nl|alfabet|n}}
+* Esperanto: {{t+|eo|alfabeto}}
+* Estonian: {{t+|et|tähestik}}, {{t+|et|alfabeet}}
+* Faroese: {{t|fo|bókstavarað|n}}, {{t|fo|stavrað|n}}, {{t|fo|stavarað|n}}
+* Finnish: {{t+|fi|aakkoset|p}}, {{t+|fi|aakkosto}}, {{t|fi|aakkosisto}}
+* French: {{t+|fr|alphabet|m}}
+* Gagauz: {{t|gag|alfavit}}
+* Galician: {{t+|gl|alfabeto|m}}
+* Georgian: {{t+|ka|ანბანი}}
+* German: {{t+|de|ABC|n}}, {{t+|de|Alphabet|n}}
+* Greek: {{t+|el|αλφάβητο|n}}, {{t+|el|αλφαβήτα|f}}
+*: Ancient: {{t|grc|ἀλφάβητος|m}}
+* Greenlandic: {{t|kl|alfabet}}, {{t|kl|oqaasiliuutissat}}, {{t|kl|qanermissarissat}}
+* Guaraní: {{t|gn|achegety}}
+* Haitian Creole: {{t|ht|abese}}
+* Hebrew: {{t+|he|אָלֶף־בֵּית|m|tr=alef-bét}}, {{t+|he|אָלֶפְבֵּית|m|tr=alefbét}}
+* Hindi: {{t+|hi|वर्णमाला|f}}, {{t|hi|मूलाक्षर|m}}, {{t+|hi|अक्षरमाला|f}}
+* Hungarian: {{t+|hu|ábécé}}
+* Icelandic: {{t+|is|stafróf|n}}
+* Ido: {{t+|io|alfabeto}}
+* Indonesian: {{t+|id|abjad}}, {{t+|id|alfabet}}, {{t+|id|aksara}}
+* Interlingua: {{t|ia|alphabeto}}
+* Irish: {{t+|ga|aibítir|f}}, {{t|ga|aibidil|f}}
+*: Old Irish: {{t|sga|apgitir|f}}
+* Italian: {{t+|it|alfabeto|m}}
+* Japanese: {{t+|ja|アルファベット|tr=arufabetto}} {{q|often of Roman and other foreign alphabets}}, {{t+|ja|文字|tr=もじ, moji}}
+* Javanese: {{t+|jv|aksara}}, {{t|jv|alfabèt}}
+* Kannada: {{t+|kn|ಅಕ್ಷರಮಾಲೆ}}
+* Kazakh: {{t|kk|әліпби}}, {{t|kk|әліппе}}, {{t+|kk|алфавит}}
+* Khmer: {{t+|km|អក្ខរក្រម}}, {{t+|km|អក្សរ}}
+* Korean: {{t+|ko|알파벳}} {{q|often of Roman and other foreign alphabets}}, {{t+|ko|문자(文字)}}, {{t+|ko|음소문자(音素文字)}}
+* Kumyk: {{t|kum|алифба}}
+* Kurdish:
+*: Northern Kurdish: {{t+|kmr|alfabe}}
+* Kyrgyz: {{t+|ky|алфавит}}, {{t+|ky|алиппе}}
+* Lakota: {{t|lkt|oówaptaya}}
+* Lao: {{t|lo|ໂຕຫນັງສື}}, {{t|lo|ແມ່ກໍກາ}}, {{t|lo|ອັກສອນ}}
+* Latin: {{t+|la|alphabetum|n}}, {{t+|la|abecedārium|n}}
+* Latvian: {{t|lv|alfabēts|m}}
+* Lithuanian: {{t+|lt|abėcėlė|f}}, {{t+|lt|alphabet|m}}, {{t|lt|alfabetas|m}}
+* Luxembourgish: {{t+|lb|Alphabet|n}}
+* Macedonian: {{t|mk|азбука|f}}
+* Malagasy: {{t+|mg|abidy}}
+* Malay: {{t+|ms|abjad}}, {{t+|ms|huruf}}, {{t+|ms|aksara}}
+*: Jawi: {{t|ms|ابجد}}, {{t|ms|حروف}}, {{t|ms|اکسارا}}
+* Malayalam: {{t+|ml|അക്ഷരമാല}}
+* Maltese: {{t|mt|alfabet}}
+* Manx: {{t|gv|abbyrlhit}}
+* Maori: {{t|mi|tātai reta}}, {{t|mi|arapū}}
+* Marathi: {{t|mr|मुळाक्षरे}}, {{t|mr|वर्णमाला}}
+* Middle Dutch: {{t-needed|dum}}
+* Middle English: {{t|enm|abece}}
+* Mongolian:
+*: Cyrillic: {{t|mn|цагаан толгой}}
+* Navajo: {{t|nv|saad bee álʼíní}}, {{t|nv|áábée}}
+* Nepali: {{t|ne|वर्णमाला}}
+* Northern Sami: {{t|se|alfabēhta}}
+* Norwegian: {{t+|no|abc}}, {{t+|no|alfabet|n}}
+*: Bokmål: {{t+|nb|alfabet|n}}
+*: Nynorsk: {{t|nn|alfabet|n}}
+* Occitan: {{t+|oc|alfabet|m}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|аꙁъбоукꙑ|f}}, {{t|cu|азъбоукꙑ|f}}
+* Old East Slavic: {{t|orv|азбукꙑ|f}}
+* Old English: {{t|ang|stæfrof}}
+* Old Norse: {{t|non|stafróf}}
+* Oromo: {{t|om|qubee}}
+* Ossetian: {{t|os|абетӕ}}, {{t|os|алфавит}}
+* Pashto: {{t+|ps|الفبې|f|tr=alefbé}}
+* Pennsylvania German: {{t|pdc|Aa-Be-Ze}}
+* Persian: {{t+|fa|اَلِفْبا|tr=alefbâ}}
+* Polish: {{t+|pl|alfabet|m-in}}, {{t+|pl|abecadło|n}}
+* Portuguese: {{t|pt|abc|m}}, {{t+|pt|abecê|m}}, {{t+|pt|á-bê-cê|m}}, {{t+|pt|alfabeto|m}}, {{t+|pt|abecedário|m}}
+* Romani: {{t|rom|alfabéto|m}}
+* Romanian: {{t+|ro|alfabet|n}}
+* Russian: {{t+|ru|алфави́т|m}}, {{t+|ru|а́збука|f}}
+* Rusyn: {{t|rue|алфаві́т|m}}, {{t|rue|а́збука|f}}
+* Sanskrit: {{t+|sa|अक्षरसमाम्नाय|m}}
+* Scottish Gaelic: {{t|gd|aibidil|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|а̀збука|f}} {{qualifier|Cyrillic alphabet}}, {{t|sh|абеце́да|f}} {{qualifier|Roman alphabet}}, {{t|sh|алфа̀бе̄т|m}}
+*: Roman: {{t+|sh|àzbuka|f}} {{qualifier|Cyrillic alphabet}}, {{t+|sh|abecéda|f}} {{qualifier|Roman alphabet}}, {{t+|sh|alfàbēt|m}}
+* Skolt Sami: {{t|sms|alfabeʹtt}}
+* Slovak: {{t+|sk|abeceda|f}}
+* Slovene: {{t+|sl|abeceda|f}}
+* Southern Sami: {{t|sma|alfabeete}}
+* Spanish: {{t+|es|alfabeto|m}}, {{t+|es|abecedario|m}}
+* Swahili: {{t+|sw|alfabeti}}
+* Swedish: {{t+|sv|ABC|n}}, {{t+|sv|alfabet|n}}
+* Tagalog: {{t+|tl|alpabeto}}, {{t+|tl|abakada}},
+* Tajik: {{t+|tg|алифбо}}
+* Tamil: {{t|ta|அகரவரிசை}}, {{t+|ta|நெடுங்கணக்கு}}
+* Tatar: {{t+|tt|әлифба}}
+* Telugu: {{t+|te|అక్షరమాల}}
+* Thai: {{t+|th|ตัวอักษร}}, {{t+|th|อักษร}}
+* Tibetan: {{t|bo|ཀ་ཁ}}
+* Tigrinya: {{t|ti|ፊደል}}
+* Turkish: {{t+|tr|alfabe}}, {{t+|tr|abece}}
+* Turkmen: {{t|tk|elipbiý}}
+* Udi: {{t|udi|тӏетӏир}}
+* Ukrainian: {{t+|uk|абе́тка|f}}, {{t+|uk|алфаві́т|m}}, {{t+|uk|а́збука|f}}, {{t|uk|альфабе́т|m}}, {{t+|uk|алфа́віт|m}} {{qualifier|alternative stress|rare}}
+* Urdu: {{t|ur|حَرُوفِ تَہَجی}}, {{t|ur|اَلِف با}}, {{t+|ur|اَبْجَد}}
+* Uyghur: {{t|ug|ئالفابىت}}, {{t|ug|ئېلىپبە}}
+* Uzbek: {{t+|uz|alifbo}}
+* Vietnamese: {{t+|vi|bảng chữ cái}}
+* Vilamovian: {{t|wym|alfabet|n}}
+* Volapük: {{t+|vo|lafab}}
+* Võro: {{t|vro|tähistü}}
+* Walloon: {{t+|wa|alfabet}}
+* Welsh: {{t+|cy|gwyddor|f}}
+* West Frisian: {{t+|fy|alfabet|n}}
+* Winnebago: {{t|win|woowagax}}
+* Yakut: {{t|sah|алфавит}}
+* Yiddish: {{t+|yi|אַלף־בית|m|tr=alef-beys}} {{qualifier|Hebrew alphabet}}, {{t|yi|אַלפֿאַבעט|f}} {{qualifier|Latin alphabet}}, {{t|yi|גלחות|n|tr=galkhes}} {{qualifier|Latin alphabet}}, {{t|yi|אַזבוקע|f}} {{qualifier|Cyrillic alphabet}}
+* Yup'ik: {{t|esu|igat}}
+{{trans-bottom}}
+{{trans-top| in computer science}}
+* Esperanto: {{t+|eo|alfabeto}}
+{{trans-bottom}}
+
+====See also====
+{{col4|en
+|abecedary
+|abjad
+|abugida
+|script
+|syllabary
+|writing system
+|orthography
+}}
+* [[Appendix:Hebrew alphabet]]
+* [[Appendix:Macedonian alphabet]]
+* [[Appendix:Swedish spelling alphabet]]
+* [[:Category:Alphabets|Category:Alphabets]]
+
+===Verb===
+{{en-verb}}
+
+# {{lb|en|rare}} To [[designate]] by the [[letter]]s of the [[alphabet]]; to [[arrange]] alphabetically.
+
+====Synonyms====
+* {{l|en|alphabetize}}
 
 ====Further reading====
-*
+* {{pedia}}
 
 [[Category:en:Alphabets]]
 [[Category:en:Orthography]]
