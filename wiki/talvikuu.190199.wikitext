@@ -23,17 +23,30 @@
 [[Category:fi:Months]]
 
 ==Karelian==
-{{enum|krl|pimiekuu|pakkaškuu|Months of the year}}
+{{krl-regional|talvikuu|talvikuu}}
+{{enum|krl|pimiekuu|[[pakkaiskuu]]<br />[[pakkaškuu]]|Months of the year}}
 
 ===Etymology===
-{{compound|krl|talvi|kuu|t1=winter|t2=month|id2=moon}}
+From {{compound|krl|talvi|t1=winter|kuu|t2=month}}.
+
+===Pronunciation===
+* {{IPA|krl|/ˈtɑlʋiˌkuː/}}
+* {{hyph|krl|tal|vi|kuu}}
 
 ===Noun===
-{{head|krl|noun}}
+{{krl-noun|talvikuun|talvikuuta//talvikuuda}}
 
 # [[December]]
 
-====Related terms====
-* {{list:Gregorian calendar months/krl}}
+====Declension====
+{{krl-decl-V/pimie}}
+{{krl-decl-T/pimie}}
+{{krl-decl-poss}}
 
-[[Category:krl:Months]]
+====Synonyms====
+* {{q|South Karelian}} {{l|krl|dekabrʹa}}
+
+===References===
+* {{R:krl:Kondie:2022|page=9}}
+
+{{C|krl|Months}}
