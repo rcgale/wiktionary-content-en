@@ -9,7 +9,8 @@
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|networking}} A [[packet]] of [[data]] passed across a [[network]]
+# {{lb|en|networking}} A [[packet]] of [[data]] passed across a [[network]].
+#* {{RQ:RFC|768|title= User Datagram Protocol|author=w:Jon Postel|date=28 August 1980|passage=The pseudo  header  conceptually prefixed to the UDP header contains the source  address,  the destination  address,  the protocol,  and the  UDP length. This information gives protection against misrouted '''datagrams'''.}}
 
 ====Usage notes====
 * Although the specifications of the [[Internet Protocol]] say that datagrams are what pass through the network, the word ''packet'' is more commonly used.
