@@ -1,13 +1,27 @@
 {{also|sublimé}}
 ==English==
+{{was wotd|2023|October|25}}
 
 ===Pronunciation===
-* {{IPA|en|/səˈblaɪm/}}
-* {{audio|en|en-us-sublime.ogg|Audio (US)}}
+* {{a|RP|GA}} {{IPA|en|/səˈblaɪm/}}
+* {{audio|en|En-us-sublime.ogg|Audio (GA)}}
 * {{rhymes|en|aɪm|s=2}}
+* {{hyphenation|en|sub|lime}}
 
 ===Etymology 1===
-From {{inh|en|enm|sublimen}}, borrowed from {{der|en|fro|sublimer}}, from {{der|en|la|sublimō||to raise on high; to sublimate {{q|in Medieval Latin}}}}.
+{{PIE word|en|upó}}{{root|en|ine-pro|*Heh₃l-}}
+Partly from the following:
+
+* From {{inh|en|enm|sublimen}}, {{m|enm|sublime}}, {{m|enm|sublyme|t=to exalt, extol, glorify, honour; (''alchemy'') to refine (a substance) by vaporizing in a closed container; to obtain (a substance) by cooling vapour obtained through sublimation; to extract (a pure substance) from a mixture by sublimation; to sublimate (a substance)}},<ref>{{R:MED Online|entry=sublīmen|pos=v|id=MED43560}}</ref> from {{der|en|frm|sublimer}}, {{der|en|fro|sublimer|t=to exalt, glorify, honour; to refine (a substance) by vaporizing in a closed container; of a substance: to undergo sublimation}} (modern {{cog|fr|sublimer}}), and from its {{glossary|etymon}} {{der|en|la|sublīmāre}}, the {{glossary|present}} {{glossary|active}} {{glossary|infinitive}} of {{m|la|sublimō|t=to elevate, raise; to soar}} (compare {{cog|LL.|sublimō|t=to elevate, raise; to exalt, glorify, honour; to sublimate, vaporize}}), from {{m|la|sublīmis|t=elevated, raised; exalted, uplifted, sublime; elevated in style}}<ref name="OED v">{{R:OED Online|pos=v|id=1402234035|date=September 2023|nodot=1}}; {{R:Lexico|pos=v}}</ref> (from {{m|la|sub-|pos={{glossary|prefix}} meaning ‘under; up to’}} + possibly ultimately {{der|en|ine-pro|*Heh₃l-|t=to bend}} (whence {{cog|la|līmen|t=threshold}} and {{m|la|līmus|t=askew; sideways}})) + {{m|la|-ō|pos={{glossary|suffix}} forming regular first-{{glossary|conjugation}} {{glossary|verb}}s}}.
+* From {{m|en|sublime|pos=adjective}}.<ref name="OED v"/>
+
+{{rel-top|cognates}}
+* {{cog|ca|sublimar}}
+* {{cog|it|sublimar}}
+* {{cog|pro|sublimar}}
+* {{cog|pt|sublimar}}
+* {{cog|es|sublimar}}
+{{rel-bottom}}
 
 ====Verb====
 {{en-verb}}
@@ -22,8 +36,22 @@ From {{inh|en|enm|sublimen}}, borrowed from {{der|en|fro|sublimer}}, from {{der|
 # {{lb|en|transitive}} To dignify; to ennoble.
 #* {{RQ:Taylor Clerus Domini|paragraph=11|page=17|passage=An extraordinary miniſtery needs an extraordinary and a miraculous gift; that is a miraculous ''calling'' and ''vocation'' and ''deſignation'' by the holy Ghoſt; but an ordinary gift cannot '''ſublime''' an ordinary perſon to a ſupernaturall imployment; {{...}}}}
 
+=====Derived terms=====
+* {{l|en|resublime}}
+* {{l|en|sublimed|pos=adjective}}
+* {{l|en|sublimer}}
+* {{l|en|subliming|pos=adjective, noun}}
+
 =====Related terms=====
-* {{l|en|sublimation}}
+{{col3|en
+|resublimination
+|sublimate
+|{{l|en|sublimated|pos=adjective}}
+|{{l|en|sublimating|pos=adjective, noun}}
+|sublimation
+|sublimational
+|sublimator
+}}
 
 =====Translations=====
 {{trans-top|to sublimate}}
@@ -44,14 +72,22 @@ From {{inh|en|enm|sublimen}}, borrowed from {{der|en|fro|sublimer}}, from {{der|
 {{trans-bottom}}
 
 ===Etymology 2===
-From {{der|en|frm|sublime}}, from {{der|en|la|sublīmis||high}}, from {{m|la|sub-||up to, upwards}} + a root of uncertain affiliation often identified with {{der|en|la|līmis}}, ablative singular of {{m|la|līmus||oblique}} or {{m|la|līmen||threshold, entrance, lintel}}.
+The {{glossary|adjective}} is derived from {{der|en|frm|sublime|t=(''adjective'') admirable, excellent, perfect; placed in a high position; reaching a great height; of a person: of high office or rank; (''noun'') elevated style in writing; quality in art or nature inspiring awe, reverence, etc.}} (modern {{cog|fr|sublime}}), and from its {{glossary|etymon}} {{der|en|la|sublīmis}}, {{m|la|sublīmus|t=elevated, raised; exalted, uplifted, sublime|pos=adjective}}: see [[#Etymology 1|etymology 1]].<ref name="OED adj">{{R:OED Online|pos=adj.'' and ''n|id=8404089130|date=September 2023|nodot=1}}; {{R:Lexico|pos=adj}}</ref>
+ 
+The {{glossary|noun}} is derived from the adjective.<ref name="OED adj"/>
+
+{{rel-top|cognates}}
+* {{cog|ca|sublim}}
+* {{cog|it|sublime}}
+* {{cog|pt|sublime}}
+* {{cog|es|sublime}}
+{{rel-bottom}}
 
 ====Adjective====
 {{en-adj|er}}
 
 # [[noble|Noble]] and [[majestic]].
-#* {{quote-journal|en|year=1842|author=w:Thomas De Quincey|title=Cicero|journal=Blackwood's Edinburgh Magazine
-|passage=the '''sublime''' Julian leader}}
+#* {{quote-journal|en|year=1842|author=w:Thomas De Quincey|title=Cicero|journal=Blackwood's Edinburgh Magazine|passage=the '''sublime''' Julian leader}}
 # [[impressive|Impressive]] and [[awe-inspiring]], yet [[simple]].
 #: {{ux|en|'''sublime''' scenery}}
 #: {{ux|en|a '''sublime''' deed}}
@@ -60,21 +96,32 @@ From {{der|en|frm|sublime}}, from {{der|en|la|sublīmis||high}}, from {{m|la|sub
 #* {{quote-book|en|year=1897|author=John Munro| title=A Trip to Venus| chapter=VI| chapterurl={{fullurl:s:en:A_Trip_to_Venus/Chapter_VI}}| passage=We had entered the clouds. For half-an-hour we were muffled in a cold, damp mist, and total darkness, and had begun to think of going indoors when, all at once, the car burst into the pure and starlit region of the upper air. A cry of joyous admiration escaped from us all. The spectacle before us was indeed '''sublime'''.}}
 #* {{quote-book|en|year=1993| year_published=1995| author=Richard Klein| isbn=0330340166| publisher=Picador| location=London| title=Cigarettes are sublime| page=62| passage=Cigarettes are poison and they taste bad; they are not exactly beautiful, they are exactly '''sublime'''.}}
 # {{lb|en|obsolete}} Lifted up; high in place; exalted aloft; uplifted; lofty.
-#* {{RQ:Dryden Virgil|Aeneis
-|passage='''Sublime''' on these a tower of steel is reared.}}
+#* {{RQ:Dryden Virgil|Aeneis|passage='''Sublime''' on these a tower of steel is reared.}}
 # {{lb|en|obsolete}} Elevated by joy; elated.
 #* {{RQ:Milton Paradise Regained|book=Samson Agonistes|page=96|passage=While thir hearts were jocund and '''ſublime''', / Drunk with Idolatry, drunk with Wine,}}
 # Lofty of [[mien]]; haughty; proud.
 #* {{RQ:Spenser Faerie Queene|book=V|canto=VIII|stanza=30|passage=countenance '''sublime''' and insolent}}
-#* {{RQ:Milton Paradise Lost|book=4|url=https://books.google.com/books?id=F08CAAAAQAAJ&pg=PP118|passage=His fair large Front and Eye '''ſublime''' declar'd / Abſolute rule;}}
+#* {{RQ:Milton Paradise Lost|book=4|passage=His fair large Front and Eye '''ſublime''' declar'd / Abſolute rule;}}
 
 =====Derived terms=====
 * {{l|en|Sublime Porte}}
 * {{l|en|sublimeness}}
 
+=====Derived terms=====
+{{col3|en
+|oversublime
+|sublimely
+|sublimeness
+|{{l|en|sublimification}} {{qualifier|archaic}}
+|{{l|en|sublimified|pos=adjective}} {{qualifier|archaic}}
+|subliminal
+|{{l|en|sublimise}}, {{l|en|sublimize}}
+|sublimish
+}}
+
 =====Related terms=====
-* {{l|en|subliminal}}
 * {{l|en|sublimity}}
+* {{l|en|sublimityship}} {{qualifier|obsolete|rare}}
 
 =====Translations=====
 {{trans-top|noble and majestic}}
@@ -138,6 +185,14 @@ From {{der|en|frm|sublime}}, from {{der|en|la|sublīmis||high}}, from {{m|la|sub
 * Portuguese: {{t+|pt|sublime|m}}
 * Russian: {{t+|ru|возвышенное|n}}
 {{trans-bottom}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{pedia|sublime (literary)}}
+* {{pedia|sublime (philosophy)}}
+* {{pedia|2=sublim (disambiguation)}}
 
 ===Anagrams===
 * {{anagrams|en|a=beilmsu|blueism}}
