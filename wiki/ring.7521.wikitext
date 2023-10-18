@@ -1047,7 +1047,7 @@ From a shortening of {{der-lite|en|de|Zahlring||number(s) ring}} (coined by Germ
 # {{lb|en|algebra}} An [[algebraic structure]] which consists of a [[set]] with two [[binary operation]]s: an [[additive operation]] and a [[multiplicative operation]], such that the set is an [[abelian group]] under the additive operation, a [[monoid]] under the multiplicative operation, and such that the multiplicative operation is [[distributive]] with respect to the additive operation.
 #: {{ux|en|The set of integers, <math>\mathbb{Z}</math>, is the prototypical '''ring'''.}}
 # {{lb|en|algebra}} An algebraic structure as above, but only required to be a [[semigroup]] under the [[multiplicative operation]], that is, there need not be a multiplicative [[identity element]].
-#: {{ux|en|The definition of '''ring''' without unity allows, for instance, the set <math>2\mathbb{Z}</math> of even integers to be a ring.}}
+#: {{ux|en|The definition of '''ring''' without unity allows, for instance, the set <math>2\mathbb{Z}</math> of even integers to be a ring.}} {{synonyms|en|rng}}
 
 =====Hypernyms=====
 * {{l-lite|en|pseudo-ring}}
