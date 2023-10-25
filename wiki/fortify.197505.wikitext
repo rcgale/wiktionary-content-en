@@ -1,8 +1,9 @@
 ==English==
+{{was wotd|2023|November|7}}
 
 ===Etymology===
-{{root|en|ine-pro|*bʰerǵʰ-|*dʰeh₁-}}
-From {{inh|en|enm|fortifien}}, from {{der|en|fro|fortifier}}, from {{der|en|la|fortificō}}.
+{{root|en|ine-pro|*bʰerǵʰ-|*dʰerǵʰ-|*dʰeh₁-}}
+From Late {{inh|en|enm|fortifien}}, {{m|enm|fortfien|t=to strengthen (a castle, etc.) from attack; to strengthen (an army, etc.); to strengthen (a person), aid, support; to reinforce, support; to improve; to increase the efficacy of}},<ref>{{R:MED Online|entry=fortifīen|pos=v|id=MED17284}}</ref> from {{der|en|fro|fortifier}} (modern {{cog|fr|fortifier}}), from {{der|en|LL.|fortificāre}}, the {{glossary|present}} {{glossary|active}} {{glossary|infinitive}} of {{m|LL.|fortificō|t=to strengthen, fortify}}, from {{der|en|la|fortis|t=powerful, strong}} (ultimately from {{der|en|ine-pro|*bʰerǵʰ-|t=to ascend, rise up; to be elevated or up high}} or {{m|ine-pro|*dʰerǵʰ-|t=to be firm; robust, strong}}) + {{m|la|-ficō|pos={{glossary|suffix}} forming {{glossary|causative}} or {{glossary|factitive}}, or other {{glossary|verb}}s}}.<ref>Compare {{R:OED Online|pos=v|id=5156362693|date=September 2023|nodot=1}}; {{R:Lexico|pos=v}}</ref>
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|en|/ˈfɔːtɪfaɪ/}}
@@ -29,8 +30,20 @@ From {{inh|en|enm|fortifien}}, from {{der|en|fro|fortifier}}, from {{der|en|la|f
 * {{sense|To strengthen military defenses}} {{l|en|castellate}}, {{l|en|incastle}}, {{l|en|incastellate}}; ''see also'' '''{{l|en|strengthen}}''' ''and'' '''{{l|en|secure}}'''
 * {{sense|To impart strength}} See also [[Thesaurus:strengthen]]
 
+====Conjugation====
+{{en-conj|es|old=1|pres_2sg_old=fortifiest|pres_3sg=fortifies|pres_3sg_old=fortifieth|past=fortified|past_2sg_old=fortifiedst}}
+
 ====Derived terms====
-* {{l|en|biofortify}}
+{{col3|en
+|biofortify
+|{{l|en|defortify}} {{qualifier|obsolete|rare}}
+|fortifiable
+|{{l|en|fortified|pos=adjective}}
+|fortifier
+|{{l|en|fortifying|pos=adjective, noun}}
+|refortify
+|unfortify
+}}
 
 ====Related terms====
 * {{l|en|fort}}
@@ -39,9 +52,9 @@ From {{inh|en|enm|fortifien}}, from {{der|en|fro|fortifier}}, from {{der|en|la|f
 
 ====Translations====
 {{trans-top|increase the defenses of}}
-* Bulgarian: {{t+|bg|укрепявам|sc=Cyrl}}
+* Bulgarian: {{t+|bg|укрепявам}}
 * Chinese:
-*: Mandarin: {{t+|cmn|加強|tr=jiāqiáng}}, {{t+|cmn|設防|tr=shèfáng}}
+*: Mandarin: {{t+|cmn|加強}}, {{t+|cmn|設防}}
 * Danish: {{t+|da|befæste}}
 * Esperanto: {{t|eo|fortigi}}, {{t|eo|fortikigi}}
 * Finnish: {{t+|fi|vahvistaa}}, {{t+|fi|linnoittaa}}
@@ -52,7 +65,7 @@ From {{inh|en|enm|fortifien}}, from {{der|en|fro|fortifier}}, from {{der|en|la|f
 * Ido: {{t+|io|fortifikar}}, {{t+|io|fortigar}}
 * Italian: {{t-needed|it}}
 * Korean: {{t|ko|강하게 하다}}
-* Latin: {{t|la|corrōborō}}, {{t|la|firmo}}, {{t|la|fortifico}}, {{t+|la|munio}}, {{t|la|praemunio}}, {{t|la|ēmūniō}}
+* Latin: {{t|la|fortificō}}, {{t|la|corrōborō}}, {{t|la|ēmūniō}}, {{t|la|firmo}}, {{t+|la|munio}}, {{t|la|praemunio}}
 * Middle English: {{t|enm|garnysshen}}
 * Norwegian:
 *: Bokmål: {{t|nb|befeste}}
@@ -60,17 +73,17 @@ From {{inh|en|enm|fortifien}}, from {{der|en|fro|fortifier}}, from {{der|en|la|f
 * Portuguese: {{t+|pt|fortificar}}, {{t+|pt|fortalecer}}
 * Quechua: {{t|qu|pukaray}}
 * Romanian: {{t+|ro|fortifica}}
-* Russian: {{t+|ru|укрепля́ть|impf|sc=Cyrl}}, {{t+|ru|укрепи́ть|pf|sc=Cyrl}}
+* Russian: {{t+|ru|укрепля́ть|impf}}, {{t+|ru|укрепи́ть|pf}}
 * Spanish: {{t+|es|fortalecer}}
 * Swedish: {{t+|sv|befästa}}
 {{trans-bottom}}
 
 {{trans-top|impart strength or vigor to}}
-* Bulgarian: {{t+|bg|усилвам|sc=Cyrl}}, {{t+|bg|подсилвам|sc=Cyrl}}
+* Bulgarian: {{t+|bg|усилвам}}, {{t+|bg|подсилвам}}
 * Chinese:
-*: Mandarin: {{t+|cmn|增強|tr=zēngqiáng}}, {{t+|cmn|振作|tr=zhènzuò}}, {{t+|cmn|壯膽|tr=zhuàngdǎn}}
+*: Mandarin: {{t+|cmn|增強}}, {{t+|cmn|振作}}, {{t+|cmn|壯膽}}
 * Danish: {{t|da|forstærke}}
-* Finnish: {{t+|fi|vahvistaa}}, {{t+|fi|terästää}}
+* Finnish: {{t+|fi|terästää}}, {{t+|fi|vahvistaa}}
 * French: {{t+|fr|renforcer}}
 * German: {{t+|de|stärken}}
 * Irish: {{t|ga|daingnigh}}
@@ -84,10 +97,10 @@ From {{inh|en|enm|fortifien}}, from {{der|en|fro|fortifier}}, from {{der|en|la|f
 
 {{trans-top|add spirits to wine}}
 * Chinese:
-*: Mandarin: {{t+|cmn|加強|tr=jiāqiáng}}, {{t+|cmn|強化|tr=qiánghuà}}
+*: Mandarin: {{t+|cmn|加強}}, {{t+|cmn|強化}}
 * Danish: {{t|da|spidse}}
 * Dutch: {{t+|nl|versterken}}
-* Finnish: {{t|fi|väkevöidä}}, {{t+|fi|terästää}}
+* Finnish: {{t+|fi|terästää}}, {{t|fi|väkevöidä}}
 * German: {{t+|de|verstärken}}
 * Italian: {{t-needed|it}}
 * Portuguese: {{t-needed|pt}}
@@ -98,11 +111,11 @@ From {{inh|en|enm|fortifien}}, from {{der|en|fro|fortifier}}, from {{der|en|la|f
 {{trans-bottom}}
 
 {{trans-top|increase the nutritional value}}
-* Bulgarian: {{t+|bg|подсилвам|sc=Cyrl}}
+* Bulgarian: {{t+|bg|подсилвам}}
 * Chinese:
-*: Mandarin: {{t+|cmn|強化|tr=qiánghuà}}
+*: Mandarin: {{t+|cmn|強化}}
 * Danish: {{t|da|berige}}
-* Finnish: {{t+|fi|vahvistaa}}, {{t|fi|vahventaa}}, {{t+|fi|terästää}}
+* Finnish: {{t+|fi|terästää}}, {{t|fi|vahventaa}}, {{t+|fi|vahvistaa}}
 * French: {{t+|fr|supplémenter}}
 * German: {{t+|de|anreichern}}
 * Italian: {{t+|it|arricchire}}
@@ -113,4 +126,13 @@ From {{inh|en|enm|fortifien}}, from {{der|en|fro|fortifier}}, from {{der|en|la|f
 * Swedish: {{t+|sv|berika}}
 {{trans-bottom}}
 
-[[Category:English 3-syllable words]]
+===References===
+<references/>
+
+===Further reading===
+* {{pedia|food fortification}}
+* {{pedia|fortification}}
+* {{pedia|fortified wine}}
+* {{pedia|2=fortify (disambiguation)}}
+
+[[Category:English terms suffixed with -fy]]
