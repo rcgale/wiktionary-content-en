@@ -95,6 +95,32 @@
 ===Anagrams===
 * {{anagrams|it|a=aimntu|manitù|munita}}
 
+==Kashubian==
+
+
+===Alternative forms===
+* {{alt|csb|mënuta|manuta||regional}}
+
+===Etymology===
+{{dercat|csb|zlw-opl|la}}
+{{bor+|csb|pl|minuta}}.
+
+===Pronunciation===
+* {{csb-IPA}}
+* {{hyph|csb|caption=Syllabification|mi|nu|ta}}
+
+===Noun===
+{{csb-noun|f|dim=minutka|adj=minutowi}}
+
+# [[minute]] {{gl|unit of time equal to sixty seconds}}
+# [[minute]] {{gl|short amount of time}}
+
+===Further reading===
+* {{R:csb:SPK|+}}
+* {{R:csb:ISKJ|+|18356}}
+
+{{C|csb|Time|Units of measure}}
+
 ==Latin==
 
 ===Pronunciation===
@@ -173,36 +199,76 @@ Borrowed from {{bor|oc|ML.|minūta}}. Compare {{m|oc|menut}}.
 
 [[Category:oc:Time]]
 
+==Old Polish==
+
+===Etymology===
+{{lbor|zlw-opl|la|minūta}}.<ref>{{R:pl:Bańkowski|minuta 2}}</ref><ref>{{R:pl:WSWO}}</ref><ref>{{R:pl:USJP}}</ref><ref>{{R:pl:SJPD}}</ref> {{etydate|1420}}
+
+===Pronunciation===
+* {{zlw-opl-IPA}}
+
+===Noun===
+{{zlw-opl-noun|f}}
+
+# [[concept]], [[rough draft]] {{gl|preliminary drafting of a document without legal force}}
+#* {{RQ:zlw-opl:MMAe|VIII|460|1420|To, czso mi dali vinø panowye ot krolya y ot koroni pospolstwa, tegom wschego... praw, a ginako tego zapissa albo compromissa-m nye widal, gedno yakom gy z '''minuti''' przet krolem czedl y oprawil|To, cso mi dali winę panowie ot krola i ot korony pospolstwa, tegom wszego... praw, a jinako tego zapisa albo kompromisa-m nie wydał, jedno jakom ji z '''minuty''' przed krolem czetł i oprawił|-}}
+
+====Descendants====
+* {{desc|pl|minuta}}
+* {{desc|szl|minuta}}
+
+===References===
+{{reflist}}
+:* {{R:zlw-opl:SPJSP}}
+
 ==Polish==
 {{wp|lang=pl}}
 
 ===Etymology===
-{{bor+|pl|la|[[minūta|(pars hōrae) minūta (prīma)]]}}. {{doublet|pl|menu}}.
+{{dercat|pl|la}}
+{{inh+|pl|zlw-opl|minuta}}. {{doublet|pl|menu}}. {{sl|pl|fr|minute|senseid=time}} and {{sl|pl|de|Minute|notext=1}}.<ref>{{R:pl:Bańkowski|minuta 1}}</ref>
 
 ===Pronunciation===
-{{pl-p|a=Pl-minuta.ogg}}
+{{pl-p|a=Pl-minuta.ogg|mp=+}}
 
 ===Noun===
-{{pl-noun|f|dim=minutka}}
+{{pl-noun|f|dim=minutka|adj=minutowy|abbr=min|abbr2=min.}}
 
-# [[minute]] {{gloss|unit of time}}
+# {{senseid|pl|time}} [[minute]] {{gl|unit of time equal to sixty seconds}}
 # [[minute]] {{gl|short moment}}
 #: {{syn|pl|chwila|moment|sekunda}}
 # {{lb|pl|geometry}} [[arcminute]] {{gl|1/60th of a degree}}
+# {{lb|pl|obsolete}} [[abstract]] {{gl|document without a stamp or seal}}
 
 ====Declension====
 {{pl-decl-noun-f}}
 
 ====Derived terms====
-{{col-auto|pl|title=adjective|minutowy}}
-{{col-auto|pl|title=nouns|minutaż|minutnik}}
+{{col-auto|pl|title=adverbs|z minuty na minutę}}
+{{col-auto|pl|title=particles|z minutami}}
+{{col-auto|pl|title=nouns|minutaż|minutnik|pięć minut}}
 
 ====Related terms====
-{{col-auto|pl|title=noun|minuteczka}}
+{{col-auto|pl|title=nouns|minuteczka}}
+
+====Descendants====
+* {{desc|csb|minuta|bor=1|alts=1}}
+
+===Trivia===
+{{pl-freq 1990|27|24|7|29|22|109|568|249|1}}
+
+===References===
+{{reflist}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
 * {{R:pl:PWN}}
+* {{R:pl:SXVI|+|66821}}
+* {{R:pl:SXVII|MINUTA|2870|ER|21.05.2021}}
+* {{R:pl:SJP1807}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900||992|2}}
+* {{R:pl:SgOWiM|+|158|4}}
 
 {{C|pl|Time|Units of measure}}
 
@@ -238,6 +304,30 @@ Borrowed from {{bor|rm|ML.|minūta}}.
 
 [[Category:rm:Time]]
 [[Category:rm:Units of measure]]
+
+==Silesian==
+{{wp|lang=szl}}
+
+===Etymology===
+{{dercat|szl|la}}
+{{inh+|szl|zlw-opl|minuta}}.
+
+===Pronunciation===
+{{szl-pr}}
+
+===Noun===
+{{szl-noun|f|dim=minutka}}
+
+# [[minute]] {{gl|unit of time equal to sixty seconds}}
+
+====Declension====
+{{szl-decl-noun|minuta|minuty|minucie|minutã|minutōm|minucie|minuto|minuty|minut|minutōm|minuty|[[minutami]]/[[minutōma]]|minutach|minuty}}
+
+===Further reading===
+* {{R:szl:dykcjonorz}}
+* {{R:szl:silling}}
+
+{{C|szl|Time|Units of measure}}
 
 ==Serbo-Croatian==
 
