@@ -39,8 +39,9 @@ From {{bor|en|de|Bauer||farmer}}. Compare {{m|en|Bower}}.
 * {{rhymes|de|aʊ̯ɐ|s=2}}
 
 ===Etymology 1===
+{{etymid|de|farmer}}
 {{root|de|ine-pro|*bʰuH-}}
-From {{inh|de|gmh|būre}}, {{m|gmh|gebūre}}, from {{inh|de|goh|būr}}, {{m|goh|gibūr}}, {{m|goh|gibūro}}, from {{inh|de|gem-pro|*būraz}}. Compare {{cog|en|boor}}.
+From {{inh|de|gmh|būre}}, {{m|gmh|gebūre}}, from {{inh|de|goh|būr|id=peasant|t=peasant}}, {{m|goh|gibūr}}, {{m|goh|gibūro}}, from {{inh|de|gem-pro|*būraz|id=inhabitant|t=inhabitant}}. Compare {{cog|en|boor}}.
 
 ====Noun====
 {{de-noun|((<m.weak.[*standard]>,<m,s,n.[informal]>))|dim=^chen,^lein|f=^in|f2=Bäurin}}
@@ -63,23 +64,21 @@ From {{inh|de|gmh|būre}}, {{m|gmh|gebūre}}, from {{inh|de|goh|būr}}, {{m|goh|
 {{table:chess pieces/de}}
 
 =====Derived terms=====
-{{der-top}}
-* {{l|de|bäuerlich}}
-* {{l|de|Bauernfrühstück|g=n}}
-* {{l|de|Bauernhof|g=m}}
-* {{l|de|Bauerschaft}} (cf. {{l|de|Weiler}})
-* {{l|de|Bauersleute}}
-* {{l|de|Bauersmann}}, {{l|de|Bauersfrau}}
-* {{l|de|Bergbauer}}
-* {{l|de|Biobauer}}, {{l|de|Biobäuerin}}
-* {{l|de|Doppelbauer}}
-* {{l|de|Freibauer}}, {{l|de|Freibäuerin}}
-* {{l|de|kalter Bauer|g=m}}
-* {{l|de|Milchbauer}}, {{l|de|Milchbäuerin}}
-* {{l|de|Reisbauer}}, {{l|de|Reisbäuerin}}
-* {{l|de|Schweinebauer}}, {{l|de|Schweinebäuerin}}
-* {{l|de|Bauersmann}}, {{l|de|Bauersfrau}}, {{l|de|Bauersleute}}
-{{der-bottom}}
+{{col-auto|de
+|bäuerlich
+|Bauernfrühstück<g:n>
+|Bauernhof<g:m>
+|Bauerschaft
+|Bergbauer
+|[[Biobauer]], [[Biobäuerin|-bäuerin]]
+|Doppelbauer
+|[[Freibauer]], [[Freibäuerin|-bäuerin]]
+|kalter Bauer<g:m>
+|[[Milchbauer]], [[Milchbäuerin|-bäuerin]]
+|[[Reisbauer]], [[Reisbäuerin|-bäuerin]]
+|[[Schweinebauer]], [[Schweinebäuerin|-bäuerin]]
+|[[Bauersmann]], [[Bauersfrau|-frau]], [[Bauersleute|-leute]]
+}}
 
 ====Proper noun====
 {{de-proper noun|surname}}
@@ -90,8 +89,9 @@ From {{inh|de|gmh|būre}}, {{m|gmh|gebūre}}, from {{inh|de|goh|būr}}, {{m|goh|
 {{de-ndecl|surname}}
 
 ===Etymology 2===
+{{etymid|de|birdcage}}
 {{root|de|ine-pro|*bʰuH-}}
-From {{inh|de|gmh|būr}}, from {{inh|de|goh|būr}}, from {{inh|de|gem-pro|*būraz}}.
+From {{der|de|gmh|būr}}, from {{der|de|goh|būr|id=dwelling|t=dwelling}}, from {{inh|de|gem-pro|*būraz|id=dwelling|t=dwelling}}.
 
 ====Noun====
 {{de-noun|n:m}}
@@ -106,6 +106,7 @@ From {{inh|de|gmh|būr}}, from {{inh|de|goh|būr}}, from {{inh|de|gem-pro|*būra
 * {{l|de|Vogelbauer|g=m}}
 
 ===Etymology 3===
+{{etymid|de|builder}}
 {{root|de|ine-pro|*bʰuH-}}
 From {{suffix|de|bauen|er}}.
 
@@ -118,7 +119,7 @@ From {{suffix|de|bauen|er}}.
 {{de-ndecl|m}}
 
 =====Hyponyms=====
-{{col3|de
+{{col-auto|de
 |Anlagenbauer
 |Bootsbauer
 |Geigenbauer
