@@ -216,24 +216,47 @@ From {{inh|ang|gmw-pro|*būr}}, from {{inh|ang|gem-pro|*būraz}}. Cognate with {
 
 ==Old High German==
 
-===Etymology===
+===Etymology 1===
+{{etymid|goh|dwelling}}
 {{root|goh|ine-pro|*bʰuH-}}
-From {{inh|goh|gmw-pro|*būr}}, from {{inh|goh|gem-pro|*būraz}}, whence also {{cog|ang|būr}}, {{cog|non|búr}}.
+From {{inh|goh|gmw-pro|*būr}}, from {{inh|goh|gem-pro|*būraz|id=dwelling|t=dwelling}}, whence also {{cog|ang|būr}}, {{cog|non|búr}}.
+
+====Noun====
+{{goh-noun|head=būr|m}}
+
+# [[dwelling]], [[quarters]], [[bower]]
+#: {{ux|goh|brūd in '''būre'''|a bride in the '''bower'''}}
+
+=====Declension=====
+{{goh-decl-noun-a-m|būr}}
+
+=====Descendants=====
+* {{desc|gmh|būr}}
+** {{desc|de|Bauer|t=birdcage|id=birdcage}}
+
+===Etymology 2===
+{{etymid|goh|peasant}}
+From {{inh|goh|gmw-pro|*būr}}, from {{inh|goh|gem-pro|*būraz|id=inhabitant|t=inhabitant}}.
 
 ===Noun===
 {{goh-noun|head=būr|m}}
 
-# {{l|en|dwelling}}, {{l|en|quarters}}, {{l|en|bower}}
-#: {{ux|goh|brūd in '''būre'''|a bride in the '''bower'''}}
-# {{l|en|peasant}}, {{l|en|farmer}}
+# [[peasant]], [[farmer]]
 
 ====Declension====
 {{goh-decl-noun-a-m|būr}}
 
+====Derived terms====
+* {{l|goh|gibūro}}
+* {{l|goh|gibūr}}
+
 ====Descendants====
-* {{desc|gmh|būr}}
-** {{desc|de|Bauer|t=birdcage}}
-** {{desc|yi|פּויער|t=farmer}}
+* {{desc|gmh|būre|t=neighbor, farmer, peasant|der=1}}
+** {{desc|de|Bauer|t=farmer|id=farmer}}
+** {{desc|lb|Bauer}}
+** {{desc|mhn|pauer}}
+** {{desc|pdc|Bauer}}
+** {{desc|yi|פּויער}}
 
 ==Old Norse==
 
