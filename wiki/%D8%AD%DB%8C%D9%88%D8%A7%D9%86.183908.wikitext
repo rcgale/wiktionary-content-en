@@ -13,7 +13,7 @@
 [[Image:Animal diversity October 2007 with Trilobite.jpg|thumb|{{lang|ota|حیوانات}}]]
 
 ===Etymology===
-Borrowed from {{bor|ota|ar|حَيَوَان}}, probably through {{bor|ota|fa|حیوان|tr=heyvân}}. {{root|ota|ar|ح ي و}}
+{{bor+|ota|ar|حَيَوَان}}. {{root|ota|ar|ح ي و}}
 
 ===Noun===
 {{head|ota|noun|tr=hayvan|plural|حیوانات|f1tr=hayvanat}}
@@ -24,22 +24,22 @@ Borrowed from {{bor|ota|ar|حَيَوَان}}, probably through {{bor|ota|fa|ح�
 # [[beast of burden]], [[draught animal]], any [[animal]] that carries or pulls a [[load]]
 
 ====Derived terms====
-{{col2|ota
-|{{l|ota|حیوان ناطق|tr=hayvan-ı natık|t=human, man}}
-|{{l|ota|حیوانجه|tr=hayvanca|t=brutal, wild}}
-|{{l|ota|حیوانلق|tr=hayvanlık|t=brutishness, brutality}}
-|{{l|ota|حیوانی|tr=hayvanı|t=pertaining to animals}}
+{{col-auto|ota
+|حیوان ناطق<tr:hayvan-ı natık><t:human, man>
+|حیوانجه<tr:hayvanca><t:brutal, wild>
+|حیوانلق<tr:hayvanlık><t:brutishness, brutality>
+|حیوانی<tr:hayvanı><t:pertaining to animals>
 }}
 
 ====Related terms====
-* {{l|ota|حیوانیت|tr=hevaniyet}}
+{{col-auto|ota|حیوانیت<tr:hevaniyet>}}
 
 ====Descendants====
 * {{desc|tr|hayvan}}
 * {{desc|bor=1|sq|hajvan}}
 * {{desc|bor=1|el|χαϊβάνι}}
 * {{desc|bor=1|mk|ајван}}
-* {{desc|bor=1|sh|hajvan}} / {{l|sh|хајван}}
+* {{desc|bor=1|sh|hajvan//хајван}}
 
 ===Further reading===
 * {{R:tr:OTK|hayvan|vol=1|page=1917}}
@@ -52,10 +52,10 @@ Borrowed from {{bor|ota|ar|حَيَوَان}}, probably through {{bor|ota|fa|ح�
 {{C|ota|Animals}}
 
 ==Persian==
-{{wikipedia|lang=fa}}
+{{wp|lang=fa}}
 
 ===Etymology===
-From {{bor|fa|ar|حَيَوَان}}.
+{{bor+|fa|ar|حَيَوَان}}. {{root|fa|ar|ح ي و}}
 
 ===Pronunciation===
 {{fa-IPA|hay`vān}}
@@ -67,11 +67,11 @@ From {{bor|fa|ar|حَيَوَان}}.
 
 # [[animal]]
 #: {{syn|fa|جانْوَر|tr=jânvar}}
-#: {{uxi|fa|حیوان وحشی|tr='''heyvân'''-e vahši|t=wild '''animal'''}}
+#: {{coi|fa|حیوان وحشی|tr='''heyvân'''-e vahši|t=wild '''animal'''}}
 # {{lb|fa|offensive}} [[beast]], [[brute]]; person who behaves [[wildly]]
 # {{lb|fa|literary}} [[life]], [[vital force]]; {{lb|fa|in particular}} [[eternal]] [[life]]
 #: {{syn|fa|حیات|tr=hayât}}
-#: {{uxi|fa|آب حیوان|tr=âb-e '''heyvân'''|t=water of '''life'''}}
+#: {{coi|fa|آب حیوان|tr=âb-e '''heyvân'''|t=water of '''life'''}}
 #* {{RQ:Masnavi|I|2596|آب حیوان خوان مخوان این را سخن / روح نو بین در تن حرف کهن‌‌|âb-i-'''haywân''' xwân maxwân en râ suxan / rûh-i-naw ben dar tan-i-harf-i-kuhan|Call it the Water of '''Life''', call it not a discourse: behold the new spirit in the body of the old letter!.}}
 
 {{c|fa|Animals}}
@@ -79,23 +79,22 @@ From {{bor|fa|ar|حَيَوَان}}.
 ==Punjabi==
 
 ===Etymology===
-{{bor+|pa|fa-cls|حَیْوَان}}, from {{der|pa|ar|حَيَوَان}}.
+{{bor+|pa|fa-cls|حَیْوَان}}, from {{der|pa|ar|حَيَوَان}}. {{root|pa|ar|ح ي و}}
 
 ===Noun===
 {{pa-noun|g=m|tr=haivān|gur=ਹੈਵਾਨ}}
 
 # [[animal]]
+#: {{syn|pa|جانور|tr=jānvar}}
 # [[beast]]
+#: {{syn|pa|جانور|tr=jānvar}}
 
-====Synonyms====
-* {{l|pa|جانور|tr=jānvar}}
-
-[[Category:pa:Animals]]
+{{C|pa|Animals}}
 
 ==Urdu==
 
 ===Etymology===
-{{bor+|ur|fa-cls|حَیْوَان}}, from {{der|ur|ar|حَيَوَان}}.
+{{bor+|ur|fa-cls|حَیْوَان}}, from {{der|ur|ar|حَيَوَان}}. {{root|ur|ar|ح ي و}}
 
 ===Pronunciation===
 * {{ur-IPA|haivān}}
@@ -104,14 +103,11 @@ From {{bor|fa|ar|حَيَوَان}}.
 {{ur-noun|head=حَیوان|g=m}}
 
 # [[beast]]
+#: {{syn|ur|جانْوَر}}
 # [[animal]]
-
-====Synonyms====
-* {{l|ur|جانْوَر}}
+#: {{syn|ur|جانْوَر}}
 
 ====Derived terms====
-* {{l|ur|حیوانی|tr=haivānī}}
-* {{l|ur|حیوانیت|tr=haivāniyat|t=bestiality}}
-* {{l|ur|حیوانیات|tr=haivāniyāt|t=zoology}}
+{{col-auto|ur|حَیْوانی|حَیْوانِیَت<t:bestiality>|حَیْوانِیات<t:zoology>}}
 
-[[Category:ur:Animals]]
+{{C|ur|Animals}}
