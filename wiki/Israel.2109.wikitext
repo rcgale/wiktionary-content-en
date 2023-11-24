@@ -26,10 +26,10 @@ From {{der|en|enm|Israel}}, from {{der|en|ang|-}}, borrowed from {{der|en|la|Isr
 ===Proper noun===
 {{en-proper noun|Israels}}
 
-# {{senseid|en|Q801}}The [[State of Israel]], a modern country in the [[Middle East]], at the eastern [[shore]] of the [[Mediterranean]].
-# The {{w|Land of Israel}}, the ancestral homeland of the [[Jewish]] people, a [[region]] that is roughly [[coextensive]] with the {{w|State of Israel}}.
-# {{lb|en|historical}} An ancient [[kingdom]] that occupied roughly the same area in ancient times.
-# {{lb|en|historical}} An ancient [[kingdom]] that occupied the northern part of this area, as distinct from [[Judah]].
+# {{sid|en|Q801}}{{place|en|modern country|r/Western Asia|in the|r/Middle East|at the eastern [[shore]] of the [[Mediterranean]]|official=State of Israel}}.
+# {{sid|en|Q155321}}{{lb|en|Biblical}}{{place|en|A Biblical <<region>> of <<r/Western Asia>> roughly [[coextensive]] with the modern {{w|State of Israel}}, known in the Bible as the {{w|Land of Israel}} and considered the ancestral homeland of the [[Jewish]] people}}.
+# {{sid|en|Q3185305}}{{lb|en|historical}}{{place|en|ancient kingdom|r/Western Asia|roughly [[coextensive]] with the modern {{w|State of Israel}} and the {{w|Land of Israel}}}}.
+# {{sid|en|Q230407}}{{lb|en|historical}}{{place|en|ancient kingdom|that occupied the northern part of the {{w|Land of Israel}} and modern {{w|State of Israel}}, as distinct from [[Judah]]}}.
 # The [[Jew]]s, taken collectively.
 # {{given name|en|male|from=Hebrew}}, notably borne by [[Jacob]] (after Genesis 32:28).
 #* {{RQ:King James Version|Genesis|32|28|passage=And he said, Thy name shall be called no more Jacob, but '''Israel''': for as a prince hast thou power with God and with men, and hast prevailed.}}
@@ -286,7 +286,7 @@ From {{der|en|enm|Israel}}, from {{der|en|ang|-}}, borrowed from {{der|en|la|Isr
 
 ====See also====
 * [[Appendix:Countries of the world]]
-* {{list:countries of Asia/en}}{{topics|en|Countries in Asia}}
+* {{list:countries of Asia/en}}
 * {{l|en|Irving}} {{qualifier|surname used to anglicize ''Israel''}}
 * {{l|en|Zion}}, {{l|en|Judea}}
 
@@ -299,9 +299,7 @@ From {{der|en|enm|Israel}}, from {{der|en|ang|-}}, borrowed from {{der|en|la|Isr
 ===Anagrams===
 * {{anagrams|en|a=aeilrs|Alires|Isreal|Lieras|Sailer|Sal Rei|ariels|railes|realis|relais|resail|sailer|serail|serial}}
 
-[[Category:en:Countries in Asia]]
 [[Category:en:Individuals]]
-[[Category:en:Israel]]
 
 ==Afrikaans==
 {{wp|lang=af}}
@@ -312,7 +310,7 @@ From {{der|en|enm|Israel}}, from {{der|en|ang|-}}, borrowed from {{der|en|la|Isr
 ===Proper noun===
 {{af-proper noun}}
 
-# {{senseid|af|Q801}}{{place|af|country|r/Western Asia|in the|r/Middle East|t=Israel|tid=Q801|capital=af:Jerusalem}}
+# {{tcl|af|Israel|id=Q801}}
 
 ====Related terms====
 {{col-auto|af
@@ -332,12 +330,10 @@ From {{der|en|enm|Israel}}, from {{der|en|ang|-}}, borrowed from {{der|en|la|Isr
 ===Proper noun===
 {{ast-proper noun|m}}
 
-# {{l|en|Israel}} {{gloss|the state}}
+# {{tcl|ast|Israel|id=Q801}}
 
 ====Related terms====
 * {{l|ast|israelín}}
-
-[[Category:ast:Countries]]
 
 ==Catalan==
 {{wikipedia|lang=ca}}
@@ -349,27 +345,25 @@ From {{der|en|enm|Israel}}, from {{der|en|ang|-}}, borrowed from {{der|en|la|Isr
 ===Proper noun===
 {{ca-proper noun|m}}
 
-# {{l|en|Israel}}
+# {{tcl|ca|Israel|id=Q801}}
 # {{given name|ca|male|eq=Israel}}
 
 ====Related terms====
 * {{l|ca|israelià}}
-
-{{C|ca|Countries}}
 
 ==Central Huasteca Nahuatl==
 
 ===Proper noun===
 {{head|nch|proper noun}}
 
-# {{place|nch|country|cont/Asia|t=Israel}}
+# {{tcl|nch|Israel|id=Q801}}
 
 ==Central Nahuatl==
 
 ===Proper noun===
 {{head|nhn|proper noun}}
 
-# {{place|nhn|country|cont/Asia|t=Israel}}
+# {{tcl|nhn|Israel|id=Q801}}
 
 ==Finnish==
 {{wikipedia|lang=fi}}
@@ -383,7 +377,7 @@ From {{der|fi|hbo|יִשְׂרָאֵל|tr=yisra'él}}.
 ===Proper noun===
 {{fi-proper noun}}
 
-# [[#English|Israel]]
+# {{tcl|fi|Israel|id=Q801}}
 
 ====Declension====
 {{fi-decl-risti|n=sg|Israel|||a|i=0}}
@@ -393,9 +387,6 @@ From {{der|fi|hbo|יִשְׂרָאֵל|tr=yisra'él}}.
 
 ===Anagrams===
 * {{anagrams|fi|a=aeilrs|laseri}}
-
-[[Category:fi:Countries]]
-[[Category:fi:Middle East]]
 
 ==German==
 
@@ -422,10 +413,7 @@ From {{der|fi|hbo|יִשְׂרָאֵל|tr=yisra'él}}.
 ===Proper noun===
 {{de-proper noun|toponym}}
 
-# {{place|de|country|r/Western Asia|t=Israel}}
-
-====Synonyms====
-* {{sense|State of Israel}} {{l|de|Staat Israel}} {{qualifier|official name}}
+# {{tcl|de|Israel|id=Q801|place_official=de:Staat Israel}}
 
 ====Derived terms====
 * {{l|de|israelisch}}
@@ -456,7 +444,7 @@ From {{der|fi|hbo|יִשְׂרָאֵל|tr=yisra'él}}.
 ===Proper noun===
 {{head|iba|proper noun}}
 
-# {{place|iba|country|cont/Asia|t=Israel}}
+# {{tcl|iba|Israel|id=Q801}}
 
 ===Adjective===
 {{head|iba|adjective}}
@@ -477,10 +465,7 @@ From {{bor|id|nl|Israël}}, from {{der|id|dum|israel}}, from {{der|id|odt|israel
 {{head|id|proper noun|head=}}
 
 # {{l|en|Israel}}:
-## {{senseid|id|Q801}}The [[State of Israel]], a modern country in the [[Middle East]], at the eastern [[shore]] of the [[Mediterranean]].
-## The {{w|Land of Israel}}, a [[region]] that is roughly [[coextensive]] with the {{w|State of Israel}}.
-## {{lb|id|historical}} An ancient [[kingdom]] that occupied roughly the same area in ancient times.
-## {{lb|id|historical}} An ancient [[kingdom]] that occupied the northern part of this area, as distinct from [[Judah]].
+## {{tcl|id|Israel|id=Q801,Q155321,Q3185305,Q230407|indent=##|t=-}}
 ## The [[Jew]]s, taken collectively.
 ##: {{syn|id|Yahudi}}
 
@@ -511,9 +496,9 @@ From {{bor|id|nl|Israël}}, from {{der|id|dum|israel}}, from {{der|id|odt|israel
 ===Proper noun===
 {{la-proper noun|((Isrāēl<0>,Isrāēl<3>))|g=m}}
 
-# {{lb|la|Late Latin}} {{l|en|Israel}}, another name of the patriarch [[Jacob]]
+# {{lb|la|Late Latin|Ecclesiastical Latin}} {{l|en|Israel}}, another name of the patriarch [[Jacob]]
 #* {{Q|la|Jerome|Vulgate|Genesis|32|28|quote=At ille: Nequaquam, inquit, Iacob appellabitur nomen tuum, sed '''Israhel''': quoniam si contra Deum fortis fuisti quanto magis contra homines praevalebis.}}
-# {{lb|la|New Latin}} {{place|la|country|r/Middle East|t=Israel}}
+# {{lb|la|New Latin}} {{tcl|la|Israel|id=Q801}}
 
 ====Declension====
 {{la-ndecl|((Isrāēl<0>,Isrāēl<3>))}}
@@ -526,8 +511,7 @@ From {{bor|id|nl|Israël}}, from {{der|id|dum|israel}}, from {{der|id|odt|israel
 * {{R:L&S}}
 <references />
 
-{{C|la|Judaism|Biblical characters|Countries in Asia}}
-[[Category:Ecclesiastical Latin]]
+{{C|la|Judaism|Biblical characters}}
 
 ==Norwegian Bokmål==
 {{wikipedia|lang=no}}
@@ -535,7 +519,7 @@ From {{bor|id|nl|Israël}}, from {{der|id|dum|israel}}, from {{der|id|odt|israel
 ===Proper noun===
 {{head|nb|proper noun}}
 
-# {{l|en|Israel}}
+# {{tcl|nb|Israel|id=Q801}}
 
 ====Derived terms====
 * {{l|nb|israeler}}
@@ -545,15 +529,13 @@ From {{bor|id|nl|Israël}}, from {{der|id|dum|israel}}, from {{der|id|odt|israel
 * {{l|nb|israelitt}}
 * {{l|nb|israelittisk}}
 
-[[Category:nb:Countries]]
-
 ==Norwegian Nynorsk==
 {{wikipedia|lang=nn}}
 
 ===Proper noun===
 {{head|nn|proper noun}}
 
-# {{l|en|Israel}}
+# {{tcl|nn|Israel|id=Q801}}
 
 ====Derived terms====
 * {{l|nn|israelar}}
@@ -563,14 +545,12 @@ From {{bor|id|nl|Israël}}, from {{der|id|dum|israel}}, from {{der|id|odt|israel
 * {{l|nn|israelitt}}
 * {{l|nn|israelittisk}}
 
-[[Category:nn:Countries]]
-
 ==Plautdietsch==
 
 ===Noun===
 {{head|pdt|proper noun|g=n}}
 
-# [[Israel]]
+# {{tcl|pdt|Israel|id=Q801}}
 
 ==Portuguese==
 
@@ -584,8 +564,7 @@ From {{bor|id|nl|Israël}}, from {{der|id|dum|israel}}, from {{der|id|odt|israel
 ===Proper noun===
 {{pt-proper noun|m}}
 
-# {{place|pt|historical region|in the southern|contregion/Levant|t1=Israel}}
-# {{place|pt|country|in|contregion/the Middle East|continent/Asia|t1=Israel}}
+# {{tcl|pt|Israel|id=Q801,Q155321}}
 # {{given name|pt|male|eq=Israel}}
 
 ====Usage notes====
@@ -608,7 +587,7 @@ From {{bor|id|nl|Israël}}, from {{der|id|dum|israel}}, from {{der|id|odt|israel
 ===Proper noun===
 {{head|ro|proper noun|g=n}}
 
-# {{l|en|Israel}}
+# {{tcl|ro|Israel|id=Q801}}
 
 ====Declension====
 {{ro-noun-n|n=sg}}
@@ -624,7 +603,7 @@ From {{bor|id|nl|Israël}}, from {{der|id|dum|israel}}, from {{der|id|odt|israel
 ===Proper noun===
 {{es-proper noun|m}}
 
-# {{l|en|Israel}}
+# {{tcl|es|Israel|id=Q801}}
 # [[Jacob]]
 #* {{RQ:Santa Biblia|Genesis|32|28}}
 #*: {{quote|es|Y él dijo: No se dirá más tu nombre Jacob, sino '''Israel''': porque has peleado con Dios y con los hombres, y has vencido.|t=And he said, Thy name shall be called no more Jacob, but '''Israel''': for as a prince hast thou power with God and with men, and hast prevailed. (KJV)}}
@@ -639,15 +618,13 @@ From {{bor|id|nl|Israël}}, from {{der|id|dum|israel}}, from {{der|id|odt|israel
 ===Anagrams===
 * {{anagrams|es|liarse|raíles}}
 
-{{C|es|Countries in Asia}}
-
 ==Swedish==
 {{wikipedia|lang=sv}}
 
 ===Proper noun===
 {{sv-proper noun|n}}
 
-# {{l|en|Israel}}
+# {{tcl|sv|Israel|id=Q801}}
 
 ====Related terms====
 * {{l|sv|israel}}
@@ -655,8 +632,6 @@ From {{bor|id|nl|Israël}}, from {{der|id|dum|israel}}, from {{der|id|odt|israel
 
 ===References===
 * {{R:svenska.se|saol}}
-
-[[Category:sv:Countries in Asia]]
 
 ==Tagalog==
 
@@ -670,8 +645,8 @@ From {{bor|id|nl|Israël}}, from {{der|id|dum|israel}}, from {{der|id|odt|israel
 ===Proper noun===
 {{tl-proper noun|Israél|b={{tl-bay sc}}}}
 
-# {{place|tl|country|r/Western Asia|t=Israel}}
-# {{lb|tl|Biblical}} {{l|en|Israel}} {{gl|a historical region in the southern Levant}}
+# {{tcl|tl|Israel|id=Q801}}
+# {{lb|tl|Biblical}} {{tcl|tl|Israel|id=Q155321}}
 # {{given name|tl|male|eq=Israel}}
 
 ====Related terms====
@@ -686,7 +661,7 @@ From {{bor|id|nl|Israël}}, from {{der|id|dum|israel}}, from {{der|id|odt|israel
 ===Proper noun===
 {{cy-proper noun|f}}
 
-# {{place|cy|country|cont/Asia|t=Israel}}
+# {{tcl|cy|Israel|id=Q801}}
 
 ====Derived terms====
 * {{l|cy|Gwladwriaeth Israel||State of Israel}}
