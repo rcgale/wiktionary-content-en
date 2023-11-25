@@ -65,8 +65,8 @@ Compare {{cog|enm|Inde}} and {{m|enm|Ynde}} from {{cog|fro|Ynde}} (original form
 ===Proper noun===
 {{en-proper noun|Indias}}
 
-# {{senseid|en|Q668}}{{place|en|country|r/South Asia|official=Republic of India}}.
-# {{lb|en|chiefly|historical|proscribed|_|in modern use}} An area of land in Southern Asia, traditionally delimited by the [[Himalayas]] and the [[Indus]] river; the [[Indian subcontinent]].
+# {{senseid|en|Q668}}{{place|en|country|r/South Asia|capital=New Delhi|official=Republic of India}}.
+# {{senseid|en|region}}{{lb|en|chiefly|historical|proscribed|_|in modern use}} {{place|en|region|r/South Asia|traditionally delimited by the [[Himalayas]] and the [[Indus]] river; the [[Indian subcontinent]]}}.
 # {{lb|en|historical|often "British India"}} A territory of the British Empire, chiefly comprising the modern day countries of India, [[Pakistan]], [[Bangladesh]], [[Bhutan]], [[Nepal]] and [[Burma]].
 # {{given name|en|female}}
 
@@ -466,8 +466,7 @@ From {{bor|id|nl|India}}, from {{der|id|la|India}}, from {{der|id|grc|Ἰνδί�
 ===Proper noun===
 {{ga-proper noun|f|head=An India|na h[[India]]|na h[[Indiacha]]}}
 
-# {{tcl|ga|India|id=Q668}}
-#: {{syn|ga|Poblacht na hIndia}}
+# {{tcl|ga|India|id=Q668|place_official=ga:Poblacht na hIndia}}
 
 ====Usage notes====
 Always preceded by the definite article.
@@ -527,7 +526,7 @@ Borrowed from {{bor|la|grc|Ἰνδία}}, from {{der|la|grc|Ἰνδός|t=the In
 ===Proper noun===
 {{la-proper noun|India<1>}}
 
-# {{lb|la|Late Latin}} {{place|la|region|r/South Asia|t1=India}}
+# {{lb|la|Late Latin}} {{tcl|la|India|id=region}}
 # {{lb|la|New Latin}} {{tcl|la|India|id=Q668}}
 
 ====Declension====
