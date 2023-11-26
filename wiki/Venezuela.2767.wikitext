@@ -11,7 +11,7 @@ From {{bor|en|es|Venezuela}}, from {{der|en|it|Veneziola}}, diminutive of {{m|it
 ===Proper noun===
 {{en-proper noun}}
 
-# {{senseid|en|Q717}}{{place|en|country|cont/South America|official=Bolivarian Republic of Venezuela}}.
+# {{senseid|en|Q717}}{{place|en|country|cont/South America|caplc=Caracas|official=Bolivarian Republic of Venezuela}}.
 
 ====Derived terms====
 * {{l|en|Venezuelan}}
@@ -136,7 +136,7 @@ From {{bor|en|es|Venezuela}}, from {{der|en|it|Veneziola}}, diminutive of {{m|it
 ===Proper noun===
 {{ast-proper noun|f}}
 
-# {{place|ast|country|cont/South America|t1=Venezuela}}
+# {{tcl|ast|Venezuela|id=Q717}}
 
 ====Related terms====
 * {{l|ast|venezolanu}}
@@ -146,7 +146,7 @@ From {{bor|en|es|Venezuela}}, from {{der|en|it|Veneziola}}, diminutive of {{m|it
 ===Proper noun===
 {{head|nch|proper noun}}
 
-# {{place|nch|country|cont/South America|t1=Venezuela}}
+# {{tcl|nch|Venezuela|id=Q717}}
 
 ==Central Nahuatl==
 
@@ -156,7 +156,7 @@ Borrowed from {{bor|nhn|es|Venezuela}}.
 ===Proper noun===
 {{head|nhn|proper noun}}
 
-# {{place|nhn|country|cont/South America|t1=Venezuela}}
+# {{tcl|nhn|Venezuela|id=Q717}}
 
 ==Czech==
 {{wp|lang=cs}}
@@ -167,7 +167,7 @@ Borrowed from {{bor|nhn|es|Venezuela}}.
 ===Proper noun===
 {{cs-proper noun|f|adj=venezuelský|dem=Venezuelan|dem2=Venezuelec}}
 
-# {{place|cs|country|cont/South America|t1=Venezuela|capital=Caracas}}
+# {{tcl|cs|Venezuela|id=Q717}}
 
 ====Declension====
 {{cs-ndecl|f.sg}}
@@ -192,7 +192,7 @@ Borrowed from {{bor|nl|es|Venezuela}}, from {{der|nl|it|Veneziola}}.
 ===Proper noun===
 {{nl-proper noun|n}}
 
-# {{place|nl|country|cont/South America|t1=Venezuela}} {{defdate|from 19th c.}}
+# {{tcl|nl|Venezuela|id=Q717}} {{defdate|from 19th c.}}
 # {{lb|nl|historical}} {{l|en|Venezuela}} {{gloss|South American province of the Spanish Empire}} {{defdate|from 18th c.}}
 
 ====Derived terms====
@@ -210,7 +210,7 @@ From {{der|fi|es|Venezuela}}.
 ===Proper noun===
 {{fi-proper noun}}
 
-# {{place|fi|country|cont/South America|t1=Venezuela}}
+# {{tcl|fi|Venezuela|id=Q717}}
 
 ====Declension====
 {{fi-decl-kulkija|n=sg|Venezuel|a}}
@@ -227,7 +227,7 @@ From {{der|fi|es|Venezuela}}.
 ===Proper noun===
 {{fr-proper noun|m}}
 
-# {{place|fr|country|cont/South America|t1=Venezuela}}
+# {{tcl|fr|Venezuela|id=Q717}}
 
 ====Related terms====
 * {{l|fr|vénézuélien}}
@@ -248,8 +248,7 @@ From {{bor|de|es|Venezuela}}, from {{der|de|osp|Veneçuela}} (diminutive of {{m|
 ===Proper noun===
 {{de-proper noun|toponym}}
 
-# {{place|de|country|cont/South America|t1=Venezuela}}
-#: {{syn|de|Bolivarische Republik Venezuela}}
+# {{tcl|de|Venezuela|id=Q717|place_official=de:Bolivarische Republik Venezuela}}
 
 ====Derived terms====
 * {{l|de|Venezolaner}}
@@ -260,8 +259,8 @@ From {{bor|de|es|Venezuela}}, from {{der|de|osp|Veneçuela}} (diminutive of {{m|
 ===Proper noun===
 {{head|ht|proper noun}}
 
-# {{place|ht|country|cont/South America|t1=Venezuela}}
-#*{{quote-journal
+# {{tcl|ht|Venezuela|id=Q717}}
+#* {{quote-journal
 |ht
 |title=Rankont ann Itali ant Anvwaye Espesyal Etazini ak Larisi sou Kriz Venezuela a
 |journal=Lavwadlamerik
@@ -281,7 +280,7 @@ From {{bor|de|es|Venezuela}}, from {{der|de|osp|Veneçuela}} (diminutive of {{m|
 ===Proper noun===
 {{head|hu|proper noun}}
 
-# {{place|hu|country|cont/South America|t1=Venezuela|cat1=Venezuela}}
+# {{tcl|hu|Venezuela|id=Q717}}
 
 ====Declension====
 {{hu-infl-nom|Venezuelá|o|n=sg}}{{hu-pos-tok|Venezuelá|n=sg}}
@@ -298,7 +297,7 @@ From {{bor|de|es|Venezuela}}, from {{der|de|osp|Veneçuela}} (diminutive of {{m|
 ===Proper noun===
 {{it-proper noun|m}}
 
-# {{place|it|country|cont/South America|t1=Venezuela}}
+# {{tcl|it|Venezuela|id=Q717}}
 
 ====Related terms====
 * {{l|it|Venezia}}
@@ -314,7 +313,7 @@ From {{bor|de|es|Venezuela}}, from {{der|de|osp|Veneçuela}} (diminutive of {{m|
 ===Proper noun===
 {{head|nb|proper noun}}
 
-# {{place|nb|country|cont/South America|t1=Venezuela}}
+# {{tcl|nb|Venezuela|id=Q717}}
 
 ====Related terms====
 * {{l|nb|venezuelaner}}
@@ -326,7 +325,7 @@ From {{bor|de|es|Venezuela}}, from {{der|de|osp|Veneçuela}} (diminutive of {{m|
 ===Proper noun===
 {{head|nn|proper noun}}
 
-# {{place|nn|country|cont/South America|t1=Venezuela}}
+# {{tcl|nn|Venezuela|id=Q717}}
 
 ====Related terms====
 * {{l|nn|venezuelan}}, {{l|nn|venezuelanar}}
@@ -341,7 +340,7 @@ From {{bor|de|es|Venezuela}}, from {{der|de|osp|Veneçuela}} (diminutive of {{m|
 ===Proper noun===
 {{pt-proper noun|f}}
 
-# {{place|pt|country|continent/South America|t1=Venezuela}}
+# {{tcl|pt|Venezuela|id=Q717}}
 
 ====Derived terms====
 * {{l|pt|venezuelano}}
@@ -354,7 +353,7 @@ From {{bor|de|es|Venezuela}}, from {{der|de|osp|Veneçuela}} (diminutive of {{m|
 ===Proper noun===
 {{ro-proper noun|f}}
 
-# {{place|ro|country|cont/South America|t1=Venezuela}}
+# {{tcl|ro|Venezuela|id=Q717}}
 
 ==Slovak==
 {{wp|lang=sk}}
@@ -365,7 +364,7 @@ From {{bor|de|es|Venezuela}}, from {{der|de|osp|Veneçuela}} (diminutive of {{m|
 ===Proper noun===
 {{sk-proper noun|f|gen=Venezuely|decl=žena}}
 
-# {{place|sk|country|cont/South America|t=Venezuela}}
+# {{tcl|sk|Venezuela|id=Q717}}
 
 ===References===
 * {{R:sk:SDK}}
@@ -382,7 +381,7 @@ From {{bor|de|es|Venezuela}}, from {{der|de|osp|Veneçuela}} (diminutive of {{m|
 ===Proper noun===
 {{es-proper noun|f}}
 
-# {{place|es|country|cont/South America|t1=Venezuela}}
+# {{tcl|es|Venezuela|id=Q717}}
 # {{place|es|town|province/Ciego de Ávila|c/Cuba}}
 
 ====Related terms====
@@ -396,7 +395,8 @@ From {{bor|de|es|Venezuela}}, from {{der|de|osp|Veneçuela}} (diminutive of {{m|
 
 ===Proper noun===
 {{sv-proper noun|n}}
-# {{place|sv|country|cont/South America|t1=Venezuela}}
+
+# {{tcl|sv|Venezuela|id=Q717}}
 
 ====Related terms====
 * {{l|sv|venezuelan}}
@@ -407,7 +407,7 @@ From {{bor|de|es|Venezuela}}, from {{der|de|osp|Veneçuela}} (diminutive of {{m|
 ===Proper noun===
 {{tt-pos|proper noun|l}}
 
-# {{place|tt|country|cont/South America|t1=Venezuela}}
+# {{tcl|tt|Venezuela|id=Q717}}
 
 ====Declension====
 {{tt-latin-noun|nıñ|ga|nı|da|dan}}
@@ -417,7 +417,7 @@ From {{bor|de|es|Venezuela}}, from {{der|de|osp|Veneçuela}} (diminutive of {{m|
 ===Proper noun===
 {{tr-proper noun}}
 
-# {{place|tr|country|cont/South America|t1=Venezuela}}
+# {{tcl|tr|Venezuela|id=Q717}}
 
 ====Declension====
 {{tr-decl-noun-unc
@@ -441,4 +441,4 @@ From {{bor|de|es|Venezuela}}, from {{der|de|osp|Veneçuela}} (diminutive of {{m|
 ===Proper noun===
 {{head|nhw|proper noun}}
 
-# {{place|nhw|country|cont/South America|t1=Venezuela}}
+# {{tcl|nhw|Venezuela|id=Q717}}
