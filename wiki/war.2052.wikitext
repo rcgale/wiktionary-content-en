@@ -745,6 +745,31 @@ From {{inh|goh|gmw-pro|*wār}}, from {{inh|goh|gem-pro|*wēraz}}, whence also {{
 ** {{desc|lb|wouer}}
 ** {{desc|yi|וואָר}}
 
+==Old Polish==
+
+===Etymology===
+{{inh+|zlw-opl|sla-pro|*vȃrъ|t=boiling; boiling liquid}}. Compare {{cog|zlw-ocs|var}}, {{cog|zlw-osk|var}}. {{etydate|1499}}
+
+===Pronunciation===
+* {{zlw-opl-IPA}}
+
+===Noun===
+{{zlw-opl-noun|m}}
+
+# [[boiling]] [[water]]
+#* {{RQ:zlw-opl:MMAe|XVIII|number=622|3=1499|4=Tako ony rzeczy parzyl od syebye, yako pssy z kuchnyey parzą '''varem'''|5=Tako ony rzeczy parzył od siebie, jako psy z kuchniej parzą '''warem'''}}
+# [[batch]] of a [[beer]]
+#* {{RQ:zlw-opl:StPPP|IX|number=1251|3=1499|4=Post sex annos debet... Stanislao... per sexagenam soluere de censv et eciam per tenam siliqui a qualibet ceruisia al. '''warv'''|5=Post sex annos debet... Stanislao... per sexagenam soluere de censv et eciam per tenam siliqui a qualibet ceruisia al. '''waru'''}}
+
+====Related terms====
+{{col-auto|zlw-opl|title=nouns|warz|warza|warzanie|warząchew|warzenie|warzywo}}
+
+====Descendants====
+* {{desc|pl|war}}
+
+===References===
+* {{R:zlw-opl:SPJSP}}
+
 ==Old Saxon==
 
 ===Etymology===
@@ -765,13 +790,13 @@ From {{inh|osx|gmw-pro|*wār}}, from {{inh|osx|gem-pro|*wēraz}}, from {{inh|osx
 {{pl-p|a=LL-Q809 (pol)-Poemat-war.wav}}
 
 ===Etymology 1===
-{{inh+|pl|zlw-opl|war}}, from {{inh|pl|sla-pro|*varъ}}.
+{{inh+|pl|zlw-opl|war}}, from {{inh|pl|sla-pro|*vȃrъ|t=boiling; boiling liquid}}. {{surf|+deverbal|pl|wrzeć}} or {{m|pl|warzyć}}. Compare {{cog|csb|wôr}}.
 
 ====Noun====
 {{pl-noun|m-in}}
 
 # {{lb|pl|obsolete}} [[boiling]] [[water]] or other [[liquid]]
-# {{lb|pl|obsolete}} [[extreme]] [[heat]]
+#: {{syn|pl|wrzątek|ukrop|kipiatok}}
 
 =====Declension=====
 {{pl-decl-noun-m-in|tantum=s}}
@@ -780,12 +805,24 @@ From {{inh|osx|gmw-pro|*wār}}, from {{inh|osx|gem-pro|*wēraz}}, from {{inh|osx
 {{col-auto|pl|title=verb|warzyć}}
 
 ===Etymology 2===
-{{rfe|pl}}
+{{inh+|pl|sla-pro|*vȃrъ|t=heat}}.
 
 ====Noun====
 {{pl-noun|m-in}}
 
-# [[var]], {{w|volt-ampere reactive}} {{gl|unit of electrical power}}
+# {{lb|pl|obsolete|dialectal}} [[extreme]] [[heat]]
+#: {{syn|pl|upał|gorąc|skwar|spiekota}}
+
+=====Declension=====
+{{pl-decl-noun-m-in|tantum=s}}
+
+===Etymology 3===
+{{bor+|pl|en|var}}.
+
+====Noun====
+{{pl-noun|m-in}}
+
+# {{lb|pl|physics}} [[var]], {{w|volt-ampere reactive}} {{gl|unit of electrical power}}
 
 =====Declension=====
 {{pl-decl-noun-m-in}}
