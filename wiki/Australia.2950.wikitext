@@ -31,13 +31,13 @@ See also [[Terra Australis]].
 ===Proper noun===
 {{en-proper noun}}
 
-# {{senseid|en|Q408}}{{place|en|country|cont/Oceania|official=Commonwealth of Australia}}.
+# {{senseid|en|Q408}}{{place|en|country/and/island|cont/Oceania|capital=Canberra|official=Commonwealth of Australia}}.
 #* '''1693''': translation of a French novel by Jacques Sadeur (believed to be a pen name of [[w:Gabriel de Foigny|Gabriel de Foigny]]) titled ''Les Aventures de Jacques Sadeur dans la Découverte et le Voiage de la Terre Australe'' published 1692, translation published in [[London]] in 1693. Quoted in ''The Australian Language'' by Sidney J. Baker, second edition, 1966, chapter XIX, section 1, pages 388-9.
 #*: ''This is all that I can have a certain knowledge of as to that side of '''Australia''' ...''
 <!-- w:Gabriel de Foigny is currently a redlink, but one which also appears in w:French literature of the 17th century, so might hopefully get something one day -->
 #* '''1814''', {{w|Matthew Flinders}}, ''A Voyage to Terra Australis'', volume 1 ([http://www.gutenberg.org/etext/12929 at Project Gutenberg])
 #*: ''Had I permitted myself any innovation upon the original term, it would have been to convert it into '''AUSTRALIA'''; as being more agreeable to the ear, and an assimilation to the names of the other great portions of the earth.''
-# {{senseid|en|Q3960}}{{lb|en|geology}} The [[continent]] of Australia-New Guinea. [[New Guinea]] and the intervening islands are also on the Australian tectonic plate and are thus geologically considered part of the continent.
+# {{senseid|en|Q3960}}{{lb|en|geology}} {{place|en|continent|consisting of the islands of [[Australia]], [[New Guinea]] and intervening islands}}. [[New Guinea]] and the intervening islands are also on the Australian tectonic plate and are thus geologically considered part of the continent.
 
 ====Synonyms====
 * {{sense|country}} {{l|en|Aussie}} {{qualifier|uncommon colloquial}}, [[Aussieland]] {{qualifier|colloquial}}, [[land down under]], [[New Holland]] {{qualifier|historical}}, [[Oz]] {{qualifier|colloquial}}, [[Terra Australis]] {{qualifier|historical}}, [[Upsidedownland]] {{qualifier|colloquial}}, {{l|en|Stralia}}, {{l|en|Straya}} {{q|colloquial}}
@@ -357,7 +357,7 @@ See also [[Terra Australis]].
 ===Proper noun===
 {{ast-proper noun|f}}
 
-# {{place|ast|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|ast|Australia|id=Q408,Q3960}}
 
 ====Related terms====
 * {{l|ast|australianu}}
@@ -370,7 +370,7 @@ See also [[Terra Australis]].
 ===Proper noun===
 {{eu-proper noun|in}}
 
-# {{place|eu|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|eu|Australia|id=Q408,Q3960}}
 
 ====Declension====
 {{eu-decl-proper-inanim}}
@@ -386,14 +386,14 @@ See also [[Terra Australis]].
 ===Proper noun===
 {{head|nch|proper noun}}
 
-# {{place|nch|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|nch|Australia|id=Q408,Q3960}}
 
 ==Central Nahuatl==
 
 ===Proper noun===
 {{head|nhn|proper noun}}
 
-# {{place|nhn|country|cont/Oceania|t=Australia}}
+# {{tcl|nhn|Australia|id=Q408,Q3960}}
 
 ==Finnish==
 
@@ -409,7 +409,7 @@ From {{der|fi|la|austrālis|austrālia}}.
 ===Proper noun===
 {{fi-proper noun}}
 
-# {{place|fi|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|fi|Australia|id=Q408,Q3960}}
 
 ====Declension====
 {{fi-decl-kulkija|n=sg|Australi|a}}
@@ -428,7 +428,7 @@ In Australia = [[Australiassa]].
 ===Proper noun===
 {{gl-proper noun|f}}
 
-# {{place|gl|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|gl|Australia|id=Q408,Q3960}}
 
 ====Related terms====
 * {{l|gl|australiano}}
@@ -441,16 +441,14 @@ From {{bor|kl|en|Australia}} (cognate with {{bor|kl|da|Australien}}).
 ===Noun===
 {{head|kl|noun}}
 
-# {{place|kl|country|continent/Oceania|t1=Australia}}
-
-[[Category:kl:Continents]]
+# {{tcl|kl|Australia|id=Q408,Q3960}}
 
 ==Ido==
 
 ===Proper noun===
 {{head|io|proper noun}}
 
-# {{place|io|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|io|Australia|id=Q408,Q3960}}
 
 ====See also====
 * {{list:continents/io}}
@@ -465,14 +463,14 @@ From {{bor|kl|en|Australia}} (cognate with {{bor|kl|da|Australien}}).
 ===Proper noun===
 {{head|id|proper noun}}
 
-# {{place|id|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|id|Australia|id=Q408,Q3960}}
 
 ==Interlingua==
 
 ===Proper noun===
 {{head|ia|proper noun}}
 
-# {{place|ia|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|ia|Australia|id=Q408,Q3960}}
 
 ==Italian==
 {{wikipedia|lang=it}}
@@ -483,7 +481,7 @@ From {{bor|kl|en|Australia}} (cognate with {{bor|kl|da|Australien}}).
 ===Proper noun===
 {{it-proper noun|f}}
 
-# {{place|it|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|it|Australia|id=Q408,Q3960}}
 
 ====Derived terms====
 * {{l|it|australiano}}
@@ -495,15 +493,17 @@ From {{bor|kl|en|Australia}} (cognate with {{bor|kl|da|Australien}}).
 * {{anagrams|it|a=aaailrstu|saltuaria}}
 
 ==Latin==
+
 ===Etymology===
 From {{l|la|austrālis||southern}} + a latinization of Ancient Greek {{l|grc|-ία}}.
+
 ===Pronunciation===
 * {{la-IPA|Austrālia}}
 
 ===Proper noun===
-{{la-proper noun|Austrālia<1>}}
+{{la-proper noun|Austrālia<1>}} {{tlb|la|New Latin}}
 
-# {{lb|la|New Latin}} {{l|en|Australia}}
+# {{tcl|la|Australia|id=Q408,Q3960}}
 
 ====Declension====
 {{la-ndecl|Austrālia<1>}}
@@ -526,7 +526,7 @@ From {{uder|ms|en|Australia}}, from {{uder|ms|la|terra austrālis incōgnita||un
 ===Proper noun===
 {{head|ms|proper noun}}
 
-# {{place|ms|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|ms|Australia|id=Q408,Q3960}}
 
 ==Norwegian Bokmål==
 {{wikipedia|lang=no}}
@@ -537,7 +537,7 @@ From {{uder|ms|en|Australia}}, from {{uder|ms|la|terra austrālis incōgnita||un
 ===Proper noun===
 {{head|nb|proper noun}}
 
-# {{place|nb|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|nb|Australia|id=Q408,Q3960}}
 
 ====Related terms====
 * {{l|nb|australier}}
@@ -552,7 +552,7 @@ From {{uder|ms|en|Australia}}, from {{uder|ms|la|terra austrālis incōgnita||un
 ===Proper noun===
 {{head|nn|proper noun}}
 
-# {{place|nn|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|nn|Australia|id=Q408,Q3960}}
 
 ====Related terms====
 * {{l|nn|australiar}}
@@ -569,7 +569,7 @@ From {{uder|ms|en|Australia}}, from {{uder|ms|la|terra austrālis incōgnita||un
 ===Proper noun===
 {{head|pl|proper noun|g=f}}
 
-# {{place|pl|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|pl|Australia|id=Q408,Q3960}}
 
 ====Declension====
 {{pl-decl-noun-sing|Australia
@@ -598,8 +598,7 @@ From {{uder|ms|en|Australia}}, from {{uder|ms|la|terra austrālis incōgnita||un
 ===Proper noun===
 {{ro-proper noun|f}}
 
-# {{place|ro|country|continent/Oceania|t1=Australia}}
-# {{place|ro|continent|t1=Australia}}
+# {{tcl|ro|Australia|id=Q408,Q3960}}
 
 ====Declension====
 {{ro-noun-f-ie|Australi|n=sg}}
@@ -613,8 +612,7 @@ From {{uder|ms|en|Australia}}, from {{uder|ms|la|terra austrālis incōgnita||un
 ===Proper noun===
 {{head|scn|proper noun|g=f}}
 
-# {{place|scn|country|continent/Oceania|t1=Australia}}
-# {{place|scn|continent|t1=Australia}}
+# {{tcl|scn|Australia|id=Q408,Q3960}}
 
 ====See also====
 * {{list:continents/scn}}
@@ -628,7 +626,7 @@ From {{uder|ms|en|Australia}}, from {{uder|ms|la|terra austrālis incōgnita||un
 ===Proper noun===
 {{es-proper noun|f}}
 
-# {{place|es|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|es|Australia|id=Q408,Q3960}}
 
 ====Derived terms====
 * {{l|es|Australia Meridional}}
@@ -640,7 +638,7 @@ From {{uder|ms|en|Australia}}, from {{uder|ms|la|terra austrālis incōgnita||un
 ===Proper noun===
 {{head|sw|proper noun}}
 
-# {{place|sw|continent|;and|country|cont/Oceania|t=Australia}}
+# {{tcl|sw|Australia|id=Q408,Q3960}}
 
 ===See also===
 * {{list:continents/sw}}
