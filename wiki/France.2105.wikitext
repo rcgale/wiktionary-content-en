@@ -8,7 +8,7 @@
 * {{sense|country}} {{l|en|Fraunce}} {{qualifier|obsolete}}
 
 ===Etymology===
-From {{inh|en|enm|France}}, from {{der|en|fro|France}}, from {{der|en|la|Francia}}, from {{m|la|Francī}}, the name of a Germanic tribe, of unclear (but {{der|en|gem-pro|-}}) origin.<ref>A. C. Murray, ''From Roman to Merovingian Gaul: A Reader''. Broadview Press Ltd, 2000. p. 1.</ref> Believed to be most likely from {{der|en|frk|*Frankō||a Frank}}, from {{der|en|gem-pro|*frankô||javelin}}, ultimately from {{der|en|ine-pro|*preng-||pole, stalk}}. Compare {{m|en|Frank}}.  Displaced native {{ncog|ang|Francland}}.
+From {{inh|en|enm|France}}, from {{der|en|fro|France}}, from {{der|en|la|Francia}}, from {{m|la|Francī}}, the name of a Germanic tribe, of unclear (but {{der|en|gem-pro|-}}) origin.<ref>A. C. Murray, ''From Roman to Merovingian Gaul: A Reader''. Broadview Press Ltd, 2000. p. 1.</ref> Believed to be most likely from {{der|en|frk|*Frankō||a Frank}}, from {{der|en|gem-pro|*frankô||javelin}}, ultimately from {{der|en|ine-pro|*preng-||pole, stalk}}. Compare {{m|en|Frank}}. Displaced native {{ncog|ang|Francland}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|en|/fɹɑːns/|/fɹæns/}}
@@ -19,7 +19,7 @@ From {{inh|en|enm|France}}, from {{der|en|fro|France}}, from {{der|en|la|Francia
 ===Proper noun===
 {{en-proper noun|-|Frances}}
 
-# {{senseid|en|Q142}}{{place|en|country|in western|cont/Europe|{{,}} Member state of the [[European Union]] (since 1993), having <<capital/Paris>> as its capital city, bounded by Belgium, Luxembourg, Germany, Switzerland, Italy, Monaco, Andorra and Spain|official=French Republic}}
+# {{senseid|en|Q142}}{{place|en|country|r/Western Europe|caplc=Paris|official=French Republic}}.
 #* {{quote-book|en|year=1837| year_published= 1977 |page=237|title= w:Mauprat |author= w:George Sand|tlr=Stanley Young|publisher=Cassandra Editions|url= https://books.google.co.nz/books?id=NTTeAwAAQBAJ |isbn= 9780897338677 |passage= For a long time the dormouse and polecat had seemed to him overfeeble enemies for his restless valour, even as the granary floor seemed to afford too narrow a field. Every day he read the papers of the previous day in the servants' hall of the houses he visited, and it appeared to him that this war in America, which was hailed as the awakening of the spirit of liberty and justice in the New World, ought to produce a revolution in '''France'''.}}
 #* {{quote-book|en|year=1998|author=Shanny Peer|title=France on Display: Peasants, Provincials, and Folklore|isbn=0791437108|page=2|passage=Although scholars have offered different chronologies and causalities for the move toward modernity, most have resolved the paradox of the two '''Frances''' by placing them in sequence: "diverse '''France''' gave way over time as modern centralized '''France''' gathered force."}}
 #* {{quote-journal
@@ -313,7 +313,7 @@ From {{inh|en|enm|France}}, from {{der|en|fro|France}}, from {{der|en|la|Francia
 ===Proper noun===
 {{head|frp|proper noun}}
 
-# {{place|frp|country|cont/Europe|t=France}}
+# {{tcl|frp|France|id=Q142}}
 
 ==French==
 {{wikipedia|lang=fr}}
@@ -329,7 +329,7 @@ From {{inh|en|enm|France}}, from {{der|en|fro|France}}, from {{der|en|la|Francia
 ===Proper noun===
 {{fr-proper noun|f}}
 
-# {{place|fr|country|r/Western Europe|t=France}}
+# {{tcl|fr|France|id=Q142}}
 # {{given name|fr|female}}
 # {{surname|fr|French}}
 
@@ -376,7 +376,7 @@ From {{inh|en|enm|France}}, from {{der|en|fro|France}}, from {{der|en|la|Francia
 ===Proper noun===
 {{head|fur|proper noun|g=f}}
 
-# {{place|fur|country|cont/Europe|t=France}}
+# {{tcl|fur|France|id=Q142}}
 
 ====Related terms====
 * {{l|fur|francês}}
@@ -392,7 +392,7 @@ From {{inh|frm|fro|France}}.
 ===Proper noun===
 {{head|frm|proper noun|g=f}}
 
-# {{place|frm|country|cont/Europe|t1=France}}
+# {{tcl|frm|France|id=Q142}}
 
 ====Descendants====
 * {{desc|fr|France}} {{see desc}}
@@ -416,9 +416,7 @@ From {{inh|nrf|fro|France}}, from {{inh|nrf|ML.|-}} or {{inh|nrf|LL.|Francia}}, 
 ===Proper noun===
 {{nrf-proper noun|f}}
 
-# {{lb|nrf|Jersey}} {{l|en|France}}
-
-{{c|nrf|Countries in Europe|France}}
+# {{lb|nrf|Jersey}} {{tcl|nrf|France|id=Q142}}
 
 ==Old French==
 [[File:Excerpt from Chanson de Roland ms. Oxford p. 7.png|thumb|right|Excerpt from the Oxford manuscript of {{w|The Song of Roland}} showing 'francs' and 'france' without capital letters.]]
@@ -436,7 +434,7 @@ From {{inh|fro|ML.|-}} or {{inh|fro|LL.|Francia}}, from {{m|la|Francī}}, the na
 ===Proper noun===
 {{fro-proper noun|f}}
 
-# {{l|en|France}} {{gloss|country}}
+# {{tcl|fro|France|id=Q142}}
 
 ====Related terms====
 * {{l|fro|françois}}
