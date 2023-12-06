@@ -21,7 +21,7 @@ From {{der|en|sla-pro|*bělъ||white}} + ''-a-'' (connecting morpheme) + {{der|e
 ===Proper noun===
 {{en-proper noun}}
 
-# {{senseid|en|Q184}}{{place|en|country|cont/Europe|official=Republic of Belarus}} (Belarusian: {{l|be|Рэспу́бліка Белару́сь}}).
+# {{sid|en|Q184}}{{place|en|country|r/Eastern Europe|official=Republic of Belarus|caplc=Minsk}}.
 
 ====Synonyms====
 * {{l|en|Belorussia}} {{q|nonstandard or historical}}
@@ -205,7 +205,7 @@ From {{der|en|sla-pro|*bělъ||white}} + ''-a-'' (connecting morpheme) + {{der|e
 ===Proper noun===
 {{af-proper noun}}
 
-# {{senseid|af|Q184}}{{place|af|country|r/Eastern Europe|t=Belarus|capital=af:Minsk}}
+# {{tcl|af|Belarus|id=Q184|place_capital=af:Minsk}}
 #: {{syn|af|Wit-Rusland}}
 
 ====Derived terms====
@@ -225,7 +225,7 @@ From {{der|en|sla-pro|*bělъ||white}} + ''-a-'' (connecting morpheme) + {{der|e
 ===Proper noun===
 {{az-proper noun}}
 
-# {{place|az|country|cont/Europe|t=Belarus}}
+# {{tcl|az|Belarus|id=Q184}}
 
 ====Declension====
 {{az-decl-noun|a|c}}
@@ -244,7 +244,7 @@ Borrowed from {{bor|nl|be|Белару́сь}}.
 ===Proper noun===
 {{nl-proper noun|n}}
 
-# {{place|nl|country|cont/Europe|t=Belarus}}
+# {{tcl|nl|Belarus|id=Q184}}
 #: {{syn|nl|Wit-Rusland|Belaroes|q2=rare|Wit-Roethenië|q3=obsolete}}
 
 ====Usage notes====
@@ -262,8 +262,8 @@ Borrowed from {{bor|nl|be|Белару́сь}}.
 ===Noun===
 {{nl-noun|m|-en|Belarusje}}
 
-# A [[make]] of [[tractor]], named for {{l|en|Belarus}}
-#*{{quote-journal|nl|format=advertisement
+# a [[make]] of [[tractor]], named for {{l|en|Belarus}}
+#* {{quote-journal|nl|format=advertisement
 |date=17 October 1964
 |newspaper=Nieuwsblad van het Noorden
 |location=Groningen
@@ -287,7 +287,7 @@ Borrowed from {{bor|nl|be|Белару́сь}}.
 ===Proper noun===
 {{de-proper noun|toponym}}
 
-# {{lb|de|officialese}} {{place|de|country|r/Eastern Europe|t=Belarus}}
+# {{lb|de|officialese}} {{tcl|de|Belarus|id=Q184}}
 #: {{syn|de|Weißrussland|Weißruthenien|q2=obsolete|Belorußland|q3=East Germany}}
 
 ====Declension====
@@ -321,7 +321,7 @@ Borrowed from {{bor|nl|be|Белару́сь}}.
 ===Proper noun===
 {{head|id|proper noun|head=Bélarus}}
 
-# {{senseid|id|Q184}}[[Belarus]]: {{place|id|country|cont/Europe|official=Republic of Belarus}} (Belarusian: {{l|be|Рэспу́бліка Белару́сь}}).
+# {{tcl|id|Belarus|id=Q184}}
 
 ===Adjective===
 {{id-adj|head=Bélarus}}
@@ -342,7 +342,7 @@ Borrowed from {{bor|nl|be|Белару́сь}}.
 ===Proper noun===
 {{mt-proper noun|head=Il-Belarus|g=m}}
 
-# {{synonym of|mt|Belarussja}}: {{place|mt|country|cont/Europe|t=Belarus}}
+# {{synonym of|mt|Belarussja}}: {{tcl|mt|Belarus|id=Q184}}
 
 ==Portuguese==
 
@@ -352,15 +352,14 @@ Borrowed from {{bor|nl|be|Белару́сь}}.
 ===Proper noun===
 {{pt-proper noun|f}}
 
-# {{syn of|pt|Bielorrússia}}
-
-{{C|pt|Belarus}}
+# {{syn of|pt|Bielorrússia}}: {{tcl|pt|Belarus|id=Q184}}
 
 ==Swedish==
 
 ===Proper noun===
 {{sv-proper noun|n}}
-# {{place|sv|country|in eastern|continent/Europe|t1=Belarus}}
+
+# {{tcl|sv|Belarus|id=Q184}}
 
 ====Synonyms====
 * {{l|sv|Vitryssland}}
@@ -383,7 +382,7 @@ From {{bor|tl|en|Belarus}} or {{bor|tl|es|Belarús}}.
 ===Proper noun===
 {{tl-proper noun|Belarús}}
 
-# {{place|tl|country|cont/Europe|t=Belarus}}
+# {{tcl|tl|Belarus|id=Q184}}
 
 ==Turkmen==
 {{wp|lang=tk}}
@@ -391,7 +390,7 @@ From {{bor|tl|en|Belarus}} or {{bor|tl|es|Belarús}}.
 ===Proper noun===
 {{head|tk|proper noun}}
 
-# {{place|tk|country|cont/Europe|t=Belarus}}
+# {{tcl|tk|Belarus|id=Q184}}
 #: {{syn|tk|Belorussiýa}}
 
 ====Declension====
@@ -410,7 +409,7 @@ From {{bor|uz|ru|Белару́сь}}, from {{der|uz|be|Белару́сь}}.
 ===Proper noun===
 {{uz-proper noun}}
 
-# {{place|uz|country|cont/Europe|t=Belarus}}
+# {{tcl|uz|Belarus|id=Q184}}
 
 ====Declension====
 {{uz-decl-noun}}
