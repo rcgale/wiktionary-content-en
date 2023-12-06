@@ -20,10 +20,10 @@ Unclear; see {{cog|ro|Moldova}} for theories.
 ===Proper noun===
 {{en-proper noun}}
 
-# {{senseid|en|Q217}} {{place|en|country|cont/Europe|caplc=Chișinău|official=Republic of Moldova}}.
-# {{senseid|en|Q209754}} A [[region]] in eastern [[Romania]] adjacent to the country of Moldova, once part of the principality of Moldova.
+# {{sid|en|Q217}}{{place|en|country|r/Eastern Europe|caplc=Chișinău|official=Republic of Moldova}}.
+# {{sid|en|Q209754}}{{place|en|region|in eastern|c/Romania|*adjacent to the country of [[Moldova]], once part of the principality of Moldova}}.
 #: {{syn|en|Moldavia|Romanian Moldavia|Western Moldavia}}
-# {{place|en|river|c/Romania}}.
+# {{sid|en|Q539053}}{{place|en|river|c/Romania}}.
 
 ====Related terms====
 * {{l|en|Moldavian}}, {{l|en|Moldovian}}
@@ -143,15 +143,13 @@ Unclear; see {{cog|ro|Moldova}} for theories.
 * {{pedia}}
 * {{pedia|Moldova (river)}}
 
-[[Category:en:Regions of Romania]]
-
 ==Acehnese==
 {{wikipedia|lang=ace}}
 
 ===Proper noun===
 {{head|ace|proper noun}}
 
-# {{l|en|Moldova}}
+# {{tcl|ace|Moldova|id=Q217}}
 
 {{c|ace|Countries|Countries in Europe}}
 
@@ -161,9 +159,7 @@ Unclear; see {{cog|ro|Moldova}} for theories.
 ===Proper noun===
 {{ast-proper noun}}
 
-# {{l|en|Moldova}} {{gloss|country}}
-
-{{c|ast|Countries|Countries in Europe}}
+# {{tcl|ast|Moldova|id=Q217}}
 
 ==Estonian==
 
@@ -173,7 +169,7 @@ From {{der|et|ro|Moldova}}.
 ===Proper noun===
 {{et-proper noun}}
 
-# {{l|en|Moldova}}
+# {{tcl|et|Moldova|id=Q217}}
 
 ====Inflection====
 {{et-decl-ohutu|Moldova}}
@@ -198,7 +194,7 @@ From {{der|fi|ro|Moldova}}.
 ===Proper noun===
 {{fi-proper noun}}
 
-# [[#English|Moldova]]
+# {{tcl|fi|Moldova|id=Q217}}
 
 ====Declension====
 {{fi-decl-koira|n=sg|Moldov|||a}}
@@ -220,7 +216,7 @@ From {{der|fi|ro|Moldova}}.
 ===Proper noun===
 {{head|gag|proper noun}}
 
-# {{place|gag|country|cont/Europe|t=Moldova}}
+# {{tcl|gag|Moldova|id=Q217}}
 #* {{quote-journal|gag|date=2021-10-21|url=http://anasozu.com/tika-baskan-yardimcisi-dr-mahmut-cevik-ukrayna-hem-moldova-gagauzlarina-yapilan-proektlari-konustuk/|title=TİKA Başkan Yardımcısı Dr. Mahmut ÇEVİK: Ukrayna hem Moldova gagauzlarına yapılan proektları konuştuk|journal=Ana Sözü|text=Nicä bildirdi TİKA Başkan Yardımcısı Dr. Mahmut ÇEVİK, buluşmak zamanında Ukrayna hem '''Moldova''' gagauzlarına cümne, kultura hem başka uurlarda Türk İşbirlii hem Koordinaţiya Agenstvosunun (TİKA) tarafından yapılacek hem yapılması lääzım olan proektların kolaylıkları konuşuldu.}}
 
 ==Galician==
@@ -228,7 +224,7 @@ From {{der|fi|ro|Moldova}}.
 ===Proper noun===
 {{gl-proper noun|f}}
 
-# {{l|en|Moldova}}
+# {{tcl|gl|Moldova|id=Q217}}
 
 {{C|gl|Countries|Countries in Europe}}
 
@@ -246,8 +242,8 @@ From {{der|fi|ro|Moldova}}.
 ===Proper noun===
 {{head|hu|proper noun}}
 
-# {{place|hu|country|cont/Europe|t=Moldova}}
-#: {{syn|hu|Moldovai Köztársaság|Moldávia}}
+# {{tcl|hu|Moldova|id=Q217|place_official=hu:Moldovai Köztársaság}}
+#: {{syn|hu|Moldávia}}
 
 ====Declension====
 {{hu-infl-nom|Moldová|o|n=sg}}{{hu-pos-tok|Moldová|n=sg}}
@@ -273,7 +269,7 @@ From {{der|fi|ro|Moldova}}.
 ===Proper noun===
 {{head|io|proper noun}}
 
-# {{l|en|Moldova}}
+# {{tcl|io|Moldova|id=Q217}}
 
 ===See also===
 * {{list:countries of Europe/io}}
@@ -294,7 +290,7 @@ Borrowed from {{bor|lv|ro|Moldova}}, from the name of the [[w:Moldova River|Mold
 ===Proper noun===
 {{lv-proper noun|f|4th}}
 
-# {{place|lv|country|r/Eastern Europe|capital=Chișinău|t1=Moldova}}
+# {{tcl|lv|Moldova|id=Q217}}
 #: {{ux|lv|'''Moldovas''' karogs|the flag of '''Moldova'''|inline=1}}
 #: {{ux|lv|'''Moldovas''' prezidents|the president of '''Moldova'''|inline=1}}
 #: {{ux|lv|'''Moldova''' atrodas starp Rumāniju un Ukrainu|'''Moldova''' is located between Romania and Ukraine|inline=1}}
@@ -320,7 +316,7 @@ Borrowed from {{bor|lv|ro|Moldova}}, from the name of the [[w:Moldova River|Mold
 ===Proper noun===
 {{mt-proper noun|head=Il-Moldova|g=f}}
 
-# {{transclude sense|mt|Moldova|id=Q217}}
+# {{tcl|mt|Moldova|id=Q217}}
 #: {{syn|mt|Moldovja<alt:Il-Moldovja>}}
 
 ==Norman==
@@ -331,9 +327,7 @@ Borrowed from {{bor|lv|ro|Moldova}}, from the name of the [[w:Moldova River|Mold
 ===Proper noun===
 {{nrf-proper noun}}
 
-# {{lb|nrf|Jersey}} [[Moldavia]]
-
-{{c|nrf|Countries|Countries in Europe}}
+# {{lb|nrf|Jersey}} {{tcl|nrf|Moldova|id=Q217}}
 
 ==Norwegian Bokmål==
 {{wikipedia|lang=nb}}
@@ -342,7 +336,7 @@ Borrowed from {{bor|lv|ro|Moldova}}, from the name of the [[w:Moldova River|Mold
 ===Proper noun===
 {{head|nb|proper noun}}
 
-# {{l|en|Moldova}}, or {{l|en|Moldavia}}
+# {{tcl|nb|Moldova|id=Q217}}
 
 ====Related terms====
 * {{l|nb|moldover}}
@@ -356,7 +350,7 @@ Borrowed from {{bor|lv|ro|Moldova}}, from the name of the [[w:Moldova River|Mold
 ===Proper noun===
 {{head|nn|proper noun}}
 
-# {{l|en|Moldova}}, or {{l|en|Moldavia}}
+# {{tcl|nn|Moldova|id=Q217}}
 
 ====Related terms====
 * {{l|nn|moldovar}}
@@ -375,8 +369,7 @@ Borrowed from {{bor|lv|ro|Moldova}}, from the name of the [[w:Moldova River|Mold
 ===Proper noun===
 {{pt-proper noun|f}}
 
-# {{syn of|pt|Moldávia}}
-#: {{syn|pt|República da Moldova|q1=formal}}
+# {{syn of|pt|Moldávia}}: {{tcl|pt|Moldova|id=Q217|place_official=pt:República da Moldova<q:formal>}}
 
 ==Romanian==
 {{wikipedia|lang=ro}}
@@ -399,10 +392,9 @@ For more theories see {{pedia|Name of Moldova|Name of Moldova|i=1}}
 ===Proper noun===
 {{ro-proper noun|f}}
 
-# {{place|ro|river|c/Romania|t1=Moldova}}
-# {{place|ro|country|continent/Europe|t1=Moldova}}
-#: {{syn|ro|Republica Moldova}}
-# {{place|ro|region|c/Romania|t1=Moldova}}
+# {{tcl|ro|Moldova|id=Q217|place=official=ro:Republica Moldova}}
+# {{tcl|ro|Moldova|id=Q539053}}
+# {{tcl|ro|Moldova|id=Q209754|t=#|t2=Western Moldavia}}
 
 ====Declension====
 {{ro-noun-f-ă|Moldov|n=sg}}
@@ -422,7 +414,7 @@ For more theories see {{pedia|Name of Moldova|Name of Moldova|i=1}}
 ===Proper noun===
 {{head|sw|proper noun}}
 
-# {{place|sw|country|continent/Europe|t1=Moldova}}
+# {{tcl|sw|Moldova|id=Q217}}
 
 ==Uzbek==
 {{wikipedia|lang=uz}}
@@ -430,7 +422,7 @@ For more theories see {{pedia|Name of Moldova|Name of Moldova|i=1}}
 ===Noun===
 {{uz-proper noun}}
 
-# {{l|en|Moldova}}
+# {{tcl|uz|Moldova|id=Q217}}
 
 ====Declension====
 {{uz-decl-noun}}
