@@ -15,11 +15,11 @@ From {{der|en|gmh|Luccelemburc}}, from {{der|en|goh|Lucilinburhuc}}, ultimately 
 ===Proper noun===
 {{en-proper noun}}
 
-# {{senseid|en|Q32}} {{place|en|state|in|r/ Europe|official=Grand Duchy of Luxembourg}}. It has borders with [[Belgium]], [[France]] and [[Germany]], and is a member state of the [[European Union]].
-# {{senseid|en|Q1126}} {{place|en|province|r/Wallonia|c/Belgium}}.
-# {{senseid|en|Q1842}} {{place|en|capital city|c/Luxembourg}}.
+# {{senseid|en|Q32}}{{place|en|small country|r/Western Europe|caplc=Luxembourg|official=Grand Duchy of Luxembourg}}.
+# {{senseid|en|Q1126}}{{place|en|province|r/Wallonia|c/Belgium}}.
+# {{senseid|en|Q1842}}{{place|en|capital city|c/Luxembourg|tclt=+|tclt2=+ City}}.
 #: {{synonyms|en|Luxembourg City}}
-# {{senseid|en|Q691741}} {{place|en|One of the twelve <<canton>>s of the <<c:pref/Luxembourg>>, which includes its capital city}}.
+# {{senseid|en|Q691741}}{{place|en|One of the twelve <<canton>>s of the <<c:pref/Luxembourg>>, which includes its capital city}}.
 
 ====Derived terms====
 * {{l|en|Luxembourger}}
@@ -271,11 +271,11 @@ From {{der|en|gmh|Luccelemburc}}, from {{der|en|goh|Lucilinburhuc}}, ultimately 
 ===Proper noun===
 {{fr-proper noun|m}}
 
-# {{place|fr|country|r/Central Europe|t1=Luxembourg|tid1=Q32}}
-# {{place|fr|province|r/Wallonia|c/Belgium|t1=Luxembourg|tid1=Q1126}}
+# {{tcl|fr|Luxembourg|id=Q32}}<!-- country -->
+# {{tcl|fr|Luxembourg|id=Q1126}}<!-- province of Belgium -->
 #: {{mero|fr|Arlon|Attert|Aubange|Bastogne|Bertogne|Bertrix|Bouillon|Chiny|Daverdisse|Durbuy|Érezée|Étalle|Fauvillers|Florenville|Gouvy|Habay|Herbeumont|Hotton|Houffalize|La Roche-en-Ardenne|Léglise|Libin|Libramont-Chevigny|Manhay|Marche-en-Famenne|Martelange|Meix-devant-Virton|Messancy|Musson|Nassogne|Neufchâteau|Paliseul|Rendeux|Rouvroy|Sainte-Ode|Saint-Hubert|Saint-Léger|Tellin|Tenneville|Tintigny|Vaux-sur-Sûre|Vielsalm|Virton|Wellin}}
-# {{place|fr|capital city|c/Luxembourg|t1=Luxembourg|tid1=Q1842}}
-# {{place|fr|canton|c:pref/Luxembourg|t1=Luxembourg|tid1=Q691741}}
+# {{tcl|fr|Luxembourg|id=Q1842}}<!-- capital city -->
+# {{tcl|fr|Luxembourg|id=Q691741}}<!-- canton of Luxembourg -->
 # {{ellipsis of|fr|jardin du Luxembourg}} {{gloss|garden in Paris}}
 
 ====See also====
@@ -293,9 +293,7 @@ From {{der|en|gmh|Luccelemburc}}, from {{der|en|goh|Lucilinburhuc}}, ultimately 
 ===Proper noun===
 {{head|hu|proper noun}}
 
-# {{place|hu|capital city|c/Luxembourg|t1=Luxembourg}}
-# {{place|hu|canton|c/Luxembourg|which includes its capital city|t1=Luxembourg}}
-# {{place|hu|province|r/Wallonia|c/Belgium|t1=Luxembourg}}
+# {{tcl|hu|Luxembourg|id=Q1126,Q1842,Q691741}}
 
 ====Usage notes====
 This spelling (with {{m|hu||-bourg}}) is used for the city, canton, or province, while {{m|hu|Luxemburg}} with {{m|hu||-u-}} for the country.<ref>{{R:MHSz 2017}}</ref><ref>{{R:OsirisHelyes 2006}}</ref>
@@ -318,10 +316,7 @@ This spelling (with {{m|hu||-bourg}}) is used for the city, canton, or province,
 ===Proper noun===
 {{head|nb|proper noun}}
 
-# {{place|nb|country|r/Central Europe|t1=Luxembourg|tid1=Q32}}
-# {{place|nb|province|r/Wallonia|c/Belgium|t1=Luxembourg|tid1=Q1126}}
-# {{place|nb|capital city|c/Luxembourg|t1=Luxembourg|tid1=Q1842}}
-# {{place|nb|canton|c:pref/Luxembourg|t1=Luxembourg|tid1=Q691741}}
+# {{tcl|nb|Luxembourg|id=Q32,Q1126,Q1842,Q691741}}
 
 ====Related terms====
 * {{l|nb|luxembourger}}, {{l|nb|luxemburger}}
@@ -336,10 +331,7 @@ This spelling (with {{m|hu||-bourg}}) is used for the city, canton, or province,
 ===Proper noun===
 {{head|nn|proper noun}}
 
-# {{place|nn|country|r/Central Europe|t1=Luxembourg|tid1=Q32}}
-# {{place|nn|province|r/Wallonia|c/Belgium|t1=Luxembourg|tid1=Q1126}}
-# {{place|nn|capital city|c/Luxembourg|t1=Luxembourg|tid1=Q1842}}
-# {{place|nn|canton|c:pref/Luxembourg|t1=Luxembourg|tid1=Q691741}}
+# {{tcl|nn|Luxembourg|id=Q32,Q1126,Q1842,Q691741}}
 
 ====Related terms====
 * {{l|nn|luxembourgar}}, {{l|nn|luxemburgar}}
