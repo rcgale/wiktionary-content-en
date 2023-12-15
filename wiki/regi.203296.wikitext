@@ -16,7 +16,11 @@
 #: {{syn|ca|sumptuós}}
 
 ====Related terms====
-{{rel3|ca|regne|rei|reina}}
+{{col-auto|ca
+|regne
+|rei
+|reina
+}}
 
 ===Further reading===
 * {{R:ca:IEC2}}
@@ -24,8 +28,7 @@
 ==Esperanto==
 
 ===Pronunciation===
-* {{audio|eo|LL-Q143 (epo)-Robin van der Vliet-regi.wav|Audio}}
-{{eo-IPA}}
+{{eo-IPA|a=LL-Q143 (epo)-Robin van der Vliet-regi.wav}}
 
 ===Verb===
 {{eo-head}}
@@ -48,19 +51,21 @@
 {{eo-conj}}
 
 ====Derived terms====
-{{rel3
-|eo|{{l|eo|registaro|t=government}}
+{{col-auto|eo
+|registaro<t:government>
 }}
 
-====Related terms====
-* {{l|eo|estri|t=to lead; to head, be the leader}}
+===See also===
+{{col-auto|eo
+|estri<t:to lead; to head, be the leader>
+}}
 
 {{eo BRO|3}}
 
 ==Estonian==
 
 ===Etymology===
-From {{inh|et|urj-fin-pro|*reki}}.
+{{inh+|et|urj-fin-pro|*reki}}.
 
 ===Noun===
 {{et-noun|ree|rege}}
@@ -70,7 +75,7 @@ From {{inh|et|urj-fin-pro|*reki}}.
 ==Indonesian==
 
 ===Etymology===
-From {{bor|id|nl|regie|t=management}}, from {{der|id|fr|régie|t=administration, commission, state management}}, {{m|fr|régir|t=to govern}}, from {{der|id|la|regere}}.
+{{bor+|id|nl|regie|t=management}}, from {{der|id|fr|régie|t=administration, commission, state management}}, {{m|fr|régir|t=to govern}}, from {{der|id|la|regere}}.
 
 ===Pronunciation===
 * {{IPA|id|[ˈreɡi]}}
@@ -78,7 +83,8 @@ From {{bor|id|nl|regie|t=management}}, from {{der|id|fr|régie|t=administration,
 
 ===Noun===
 {{id-noun|head=}}
-# {{l|en|monopolistic}} {{l|en|government}}-owned {{l|en|company}}.
+
+# [[monopolistic]] [[government]]-owned [[company]]
 
 ===Further reading===
 * {{R:KBBI Daring}}
@@ -110,7 +116,7 @@ From {{bor|id|nl|regie|t=management}}, from {{der|id|fr|régie|t=administration,
 ==Karelian==
 
 ===Etymology===
-From {{inh|krl|urj-fin-pro|*reki}}, compare {{cog|fi|reki}}.
+{{inh+|krl|urj-fin-pro|*reki}}, compare {{cog|fi|reki}}.
 
 ===Noun===
 {{krl-noun|rien|regie}}
@@ -118,6 +124,10 @@ From {{inh|krl|urj-fin-pro|*reki}}, compare {{cog|fi|reki}}.
 # [[sledge]], [[sleigh]]
 
 ==Latin==
+
+===Pronunciation===
+* {{la-IPA|ann=1|rēgī}}
+* {{la-IPA|ann=1|regī}}
 
 ===Noun===
 {{head|la|noun form|head=rēgī}}
@@ -132,7 +142,7 @@ From {{inh|krl|urj-fin-pro|*reki}}, compare {{cog|fi|reki}}.
 ==Ludian==
 
 ===Etymology===
-From {{inh|lud|urj-fin-pro|*reki}}, akin to {{cog|fi|reki}}.
+{{inh+|lud|urj-fin-pro|*reki}}, akin to {{cog|fi|reki}}.
 
 ===Noun===
 {{head|lud|noun}}
@@ -142,7 +152,7 @@ From {{inh|lud|urj-fin-pro|*reki}}, akin to {{cog|fi|reki}}.
 ==Norwegian Nynorsk==
 
 ===Etymology===
-From {{bor|nn|fr|-}}, derived from {{der|nn|la|rego|regere|to reign, control}}.
+{{bor+|nn|fr|-}}, derived from {{der|nn|la|rego|regere|t=to reign, control}}.
 
 ===Noun===
 {{nn-noun-m1}}
@@ -151,8 +161,10 @@ From {{bor|nn|fr|-}}, derived from {{der|nn|la|rego|regere|to reign, control}}.
 # [[leadership]]
 
 ====Related terms====
-* {{l|nn|regissera}}, {{l|nn|regissere}}
-* {{l|nn|regissør}}
+{{col-auto|nn
+|[[regissera]]/[[regissere]]
+|regissør
+}}
 
 ===References===
 * {{R:The Nynorsk Dictionary}}
@@ -163,7 +175,7 @@ From {{bor|nn|fr|-}}, derived from {{der|nn|la|rego|regere|to reign, control}}.
 ==Old Norse==
 
 ===Etymology===
-[[minced oath]] of {{m|non|ergi}}.
+[[minced oath|Minced oath]] of {{m|non|ergi}}.
 
 ===Noun===
 {{non-noun|f|regi}}
@@ -174,9 +186,11 @@ From {{bor|nn|fr|-}}, derived from {{der|nn|la|rego|regere|to reign, control}}.
 {{non-decl-f-in|reg}}
 
 ====Related terms====
-* {{l|non|ragr}}
+{{col-auto|non
+|ragr
+}}
 
-[[Category:Old Norse minced oaths]]
+{{catlangname|non|minced oaths}}
 
 ==Portuguese==
 
@@ -198,7 +212,7 @@ From {{bor|nn|fr|-}}, derived from {{der|nn|la|rego|regere|to reign, control}}.
 ==Swedish==
 
 ===Etymology===
-From {{bor|sv|fr|régie}}.
+{{bor+|sv|fr|régie}}.
 
 ===Pronunciation===
 * {{IPA|sv|/rɛˈɧiː/}}
@@ -214,8 +228,10 @@ From {{bor|sv|fr|régie}}.
 {{sv-noun-unc-irreg-c}}
 
 ====Related terms====
-* {{l|sv|regissera}}
-* {{l|sv|regissör}}
+{{col-auto|sv
+|regissera
+|regissör
+}}
 
 ===Further reading===
 * {{R:SO}}
