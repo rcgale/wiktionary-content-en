@@ -269,17 +269,6 @@ Formerly {{m|en|unite}}, a later form of {{m|en|unity}}; see {{m|en|unity}}.
 * Slovak: {{t-check|sk|jednotka|f}}
 {{trans-bottom}}
 
-===Adjective===
-{{en-adj|-}}
-
-# For each unit.
-#: ''We have to keep our unit costs down if we want to make a profit.''
-# {{lb|en|mathematics}} Having a size or magnitude of one.
-#* {{quote-book|en|year=1990|author=William W. S. Wei|title=Time Series Analysis|isbn=0201159112|page=9}}
-#*: Consider the following time sequence
-#*:: <math>Z_t=A\sin(\omega t+\theta)</math>,
-#*: where <math>A</math> is a random variable with a zero mean and a '''unit''' variance and <math>\theta</math> is a random variable with a uniform distribution on the interval <math>[-\pi,\pi]</math> independent of <math>A</math>.
-
 ====Derived terms====
 {{der3
 |en|absolute unit
@@ -307,6 +296,17 @@ Formerly {{m|en|unite}}, a later form of {{m|en|unity}}; see {{m|en|unity}}.
 |unit trust
 |allocation unit|angstrom unit|API unit|application protocol data unit|arbitrary unit|atomic mass unit|auxiliary power unit|B unit|B-unit|bargaining unit|base unit|Bodansky unit|British thermal unit|Bubnoff unit|Carnegie unit|cat unit|concrete masonry unit|consumer unit|control unit|customary unit|derived unit|detoxification unit|DI unit|diesel multiple unit|Dobson unit|effects unit|electric multiple unit|electromagnetic unit|excavation unit|family unit|federative unit|field unit|first unit|flux unit|formula unit|Friedman unit|fundamental unit|garbage disposal unit|Haugh unit|head unit|Heaviside unit function|high dependency unit|hypothetical taxonomic unit|imaginary unit|in-law unit|intensive care unit|intensive-care unit|intonation unit|IRE unit|K-9 unit|King-Armstrong unit|lexical unit|livestock unit|local administrative unit|map unit|message unit|monetary unit|moon unit|morphic unit|motor unit|mountain unit|natural unit|non-unit|operational taxonomic unit|parental unit|penalty unit|pilosebaceous unit|Planck unit|propwash deflection unit|prosodic unit|quantum processing unit|quantum unit of spin|rectified linear unit|repeat unit|repeating unit|rhythmic unit|Scoville heat unit|Scoville unit|second unit|shower unit|social unit|stock-keeping unit|Svedberg unit|T-unit|tone-bearing unit|unit cell|unit circle|unit disk|unit fine|unit fraction|unit function|unit hyperbola|unit interval|unit jar|unit matrix|unit of measure|unit of measurement|unit operation|unit price|unit pricing|unit sphere|unit test|unit testing|unit vector|urotoxic unit|USP unit|visual display unit|wall unit|waste disposal unit
 }}
+
+===Adjective===
+{{en-adj|-}}
+
+# For each unit.
+#: ''We have to keep our unit costs down if we want to make a profit.''
+# {{lb|en|mathematics}} Having a size or magnitude of one.
+#* {{quote-book|en|year=1990|author=William W. S. Wei|title=Time Series Analysis|isbn=0201159112|page=9}}
+#*: Consider the following time sequence
+#*:: <math>Z_t=A\sin(\omega t+\theta)</math>,
+#*: where <math>A</math> is a random variable with a zero mean and a '''unit''' variance and <math>\theta</math> is a random variable with a uniform distribution on the interval <math>[-\pi,\pi]</math> independent of <math>A</math>.
 
 ====Translations====
 {{trans-top|for each unit}}
