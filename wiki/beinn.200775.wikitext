@@ -18,15 +18,17 @@ From {{inh|is|non|beinn}}, from {{inh|is|gem-pro|*bainaz}}.
 {{is-decl-adj-3|b|ei|n}}
 
 ====Derived terms====
-* {{l|is|beint}}
-* {{l|is|óbeinn}}
-* {{l|is|í beinni}}
-* {{l|is|bein ræða}}
+{{col-auto|is
+|beint
+|óbeinn
+|í beinni
+|bein ræða
+}}
 
 ==Irish==
 
 ===Pronunciation===
-* {{a|Ulster}} {{IPA|ga|/bʲein̠ʲ/}}<ref>{{R:ga:Quiggin|52}}</ref>
+* {{a|Ulster}} {{IPA|ga|/bʲein̠ʲ/|ref={{R:ga:Quiggin|52}}}}
 
 ===Verb===
 {{head|ga|verb form}}
@@ -37,12 +39,12 @@ From {{inh|is|non|beinn}}, from {{inh|is|gem-pro|*bainaz}}.
 {{ga-mut}}
 
 ===References===
-<references/>
+{{reflist|size=smaller}}
 
 ==Manx==
 
 ===Etymology===
-From {{inh|gv|sga|benn|t=peak, point, prong, pinnacle}}, from {{der|gv|cel-pro|*benno-|t=peak, top}}.
+From {{der|gv|sga|benn|t=peak, point, prong, pinnacle}}<ref>{{R:DIL|5654|head=benn}}</ref>, from {{der|gv|cel-pro|*bandā|t=peak, top}}.
 
 ===Noun===
 {{gv-noun|m|beinnyn|pl2=binn|beinnee}}
@@ -52,13 +54,13 @@ From {{inh|gv|sga|benn|t=peak, point, prong, pinnacle}}, from {{der|gv|cel-pro|*
 # [[ben]]
 # [[summit]], [[pinnacle]], [[apex]]
 #: {{syn|gv|ard-veinn|baare|mullagh}}
-# [[tine of deer]]
+# [[tine]] of [[deer]]
 
 ===Mutation===
 {{gv-mut-cons|b|einn}}
 
 ===References===
-* {{R:DIL|5654|head=benn}}
+{{reflist|siez=smaller}}
 
 ==Old Irish==
 
@@ -68,7 +70,10 @@ From {{inh|gv|sga|benn|t=peak, point, prong, pinnacle}}, from {{der|gv|cel-pro|*
 ===Verb===
 {{sga-verb form|·beinn}}
 
-# {{inflection of|sga|attá|at·tá|1|s|cond|;|1|s|past|subj}}
+# {{inflection of|sga|at·tá||1s|cond|;|1s|past|subj}}
+
+===Mutation===
+{{sga-mutation|b|einn|p=·}}
 
 ==Old Norse==
 
@@ -85,7 +90,7 @@ From {{inh|non|gem-pro|*bainaz}}.
 {{non-decl-adj|bein|5=beinn}}
 
 =====Descendants=====
-{{top2}}
+{{desc-top}}
 * {{desc|is|beinn}}
 * {{desc|fo|beinur}}
 * {{desc|nn|bein}}
@@ -95,9 +100,9 @@ From {{inh|non|gem-pro|*bainaz}}.
 * {{desc|bor=1|enm|beyn|bayn|bayne|bain}}
 ** {{desc|sco|bein|bien}}
 ** {{desc|en|bain}}
-{{bottom}}
+{{desc-bottom}}
 
-====References====
+====Further reading====
 * {{R:Zoega}}
 
 ===Etymology 2===
@@ -115,13 +120,13 @@ From {{m|non|bein|g=n||bone, leg}}, from {{der|non|gem-pro|*bainą}}, also from 
 * {{l|non|berbeinn||bare-legged}}
 * {{l|non|digrbeinn||thick-legged}}
 
-====References====
+====Further reading====
 * [https://archive.org/stream/concisedictionar001857#page/46 -beinn] in ''A Concise Dictionary of Old Icelandic'', G. T. Zoëga, Clarendon Press, 1910, at [https://archive.org/details/concisedictionar001857 Internet Archive].
 
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{inh|gd|sga|benn|t=peak, point, pinnacle}}, from {{der|gd|cel-pro|*benno-}}, {{m|cel-pro|*bandā|t=peak, top}}.
+From {{der|gd|sga|benn|t=peak, point, pinnacle}}<ref>{{R:DIL|5654|head=benn}}</ref>, from {{der|gd|cel-pro|*bandā|t=peak, top}}. {{doublet|gd|beann}}.
 
 ===Pronunciation===
 * {{IPA|gd|/peiɲ/|/pɤiɲ/}}
@@ -131,7 +136,7 @@ From {{inh|gd|sga|benn|t=peak, point, pinnacle}}, from {{der|gd|cel-pro|*benno-}
 
 # [[mountain]], [[hill]]
 #: {{syn|gd|monadh|sliabh}}
-#: {{ux|gd|mar an ceò thall air a' '''bheinn'''|inline=1|as the distant mist on the '''hill'''}}
+#: {{uxi|gd|mar an ceò thall air a' '''bheinn'''|as the distant mist on the '''hill'''}}
 # [[pinnacle]]
 # [[bin]]
 # [[head]], [[top]], [[high]] [[place]]
@@ -146,7 +151,9 @@ From {{inh|gd|sga|benn|t=peak, point, pinnacle}}, from {{der|gd|cel-pro|*benno-}
 ===Mutation===
 {{gd-mut-cons|b|einn}}
 
+===References===
+{{reflist|size=smaller}}
+
 ===Further reading===
 * {{R:Dwelly}}
-* ''A Pronouncing and Etymological Dictionary of the Gaelic Language'' (John Grant, Edinburgh, 1925, Compiled by Malcolm MacLennan)
-* {{R:DIL|5654|head=benn}}
+* {{R:gd:MacLennan}}
