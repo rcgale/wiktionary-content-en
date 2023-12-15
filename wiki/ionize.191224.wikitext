@@ -1,10 +1,10 @@
 ==English==
 
 ===Alternative forms===
-* {{l|en|ionise}}
+* {{alt|en|ionise}}
 
 ===Etymology===
-{{suffix|en|ion|ize}}
+{{suffix|en|ion|-ize}}
 
 ===Pronunciation===
 * {{enPR|ī'-ə-nīz}}, {{IPA|en|/ˈaɪ.ə.naɪz/}}
@@ -16,13 +16,13 @@
 # {{lb|en|physical chemistry}} To [[dissociate]] [[atom]]s or [[molecule]]s into [[electrically]] [[charge]]d [[species]]; to be thus dissociated.
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|deionize}}
-* {{l|en|ionization}}
-* {{l|en|ionizer}}
-* {{l|en|ionizing}}
-* {{l|en|non-ionizing radiation}}
-{{der-bottom}}
+{{col-auto|en
+|deionize
+|ionization
+|ionizer
+|ionizing
+|non-ionizing radiation
+}}
 
 ====Translations====
 {{trans-top|to dissociate atoms or molecules into electrically charged species}}
@@ -46,8 +46,8 @@
 * Telugu: {{t|te|అయనీకరణం చెందు}}, {{t|te|అయనీకరించు}}
 {{trans-bottom}}
 
-[[Category:English ergative verbs]]
-[[Category:en:Ions]]
+{{catlangname|en|ergative verbs}}
+{{C|en|Ions}}
 
 ==Galician==
 
@@ -57,6 +57,10 @@
 # {{gl-reinteg-verb form of|ionizar}}
 
 ==Portuguese==
+
+===Pronunciation===
+{{pt-IPA}}
+* {{hyph|pt|io|ni|ze}}
 
 ===Verb===
 {{head|pt|verb form}}
