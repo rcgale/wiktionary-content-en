@@ -21,7 +21,7 @@ The symbol ''tan'' is prescribed by the ISO 80000-2:2019 standard. The symbol {{
 * {{rhymes|en|æn|s=1}}
 
 ===Etymology 1===
-Borrowed from {{bor|en|fr|tan||tanbark}}, from {{der|en|cel-gau|tanno-||green oak}}&nbsp;– compare {{cog|br|tann||red oak}}, {{cog|oco|tannen}}&nbsp;–, from {{der|en|cel-pro|*tannos||green oak}}, of uncertain origin, but perhaps from {{der|en|ine-pro|*dʰonu|*(s)dʰonu|fir}}. Per this hypothesis, related to {{cog|hit|tr=tanau|t=fir}}, {{cog|la|femur}}, genitive {{m|la|feminis||thigh}}, {{cog|de|Tann||woods}}, {{m|de|Tanne||fir}}, {{cog|sq|thanë||cranberry bush}}, {{cog|grc|θάμνος||thicket}}, {{cog|ae|𐬚𐬀𐬥𐬎𐬎𐬀𐬭𐬆}}, {{cog|sa|धनु|tr=dhánu}}.
+Borrowed from {{bor|en|fr|tan||tanbark}}, from {{der|en|cel-gau|*tannos||green oak}}&nbsp;– compare {{cog|br|tann||red oak}}, {{cog|oco|tannen}}&nbsp;–, from {{der|en|cel-pro|*tannos||green oak}}, of uncertain origin, but perhaps from {{der|en|ine-pro|*dʰonu|*(s)dʰonu|fir}}. Per this hypothesis, related to {{cog|hit|tr=tanau|t=fir}}, {{cog|la|femur}}, genitive {{m|la|feminis||thigh}}, {{cog|de|Tann||woods}}, {{m|de|Tanne||fir}}, {{cog|sq|thanë||cranberry bush}}, {{cog|grc|θάμνος||thicket}}, {{cog|ae|𐬚𐬀𐬥𐬎𐬎𐬀𐬭𐬆}}, {{cog|sa|धनु|tr=dhánu}}.
 
 ====Noun====
 {{en-noun}}
@@ -320,13 +320,8 @@ It may either be a figurative use of the usual verb {{m-self|en|tan|t=to cause t
 ===Anagrams===
 * {{anagrams|en|a=ant|-ant|ANT|Ant|Ant.|NAT|NTA|Nat|Nat.|TNA|a'n't|an't|ant|ant-|ant.|nat}}
 
-[[Category:English cardinal numbers]]
-[[Category:English ergative verbs]]
-[[Category:en:Browns]]
-[[Category:en:Colors]]
-[[Category:en:Dairy products]]
-[[Category:en:Hides]]
-[[Category:en:Skin]]
+{{cln|en|cardinal numbers|ergative verbs}}
+{{C|en|Browns|Colors|Dairy products|Hides|Skin}}
 
 ==Ainu==
 
@@ -363,15 +358,10 @@ From {{inh|br|cel-pro|*teɸnets||fire}} (compare {{cog|sga|teine}}, {{cog|cy|tâ
 ===Noun===
 {{br-noun|m|p=tanioù}}
 
-# {{l|en|fire}}
+# [[fire]]
 
 ====Inflection====
-{{br-noun-mutation
-|t
-|an
-|anioù
-|g=m
-}}
+{{br-noun-mutation|t|an|anioù|g=m}}
 
 ==Catalan==
 
@@ -386,9 +376,7 @@ From {{inh|br|cel-pro|*teɸnets||fire}} (compare {{cog|sga|teine}}, {{cog|cy|tâ
 # {{lb|ca|in comparisons|tan ... {{l|ca|com}}}} [[as]] ... as
 
 ====Derived terms====
-{{col3|ca
-|tan bon punt
-}}
+* {{l|ca|tan bon punt}}
 
 ====Related terms====
 * {{l|ca|tant|gloss=so much, so many}}
@@ -411,7 +399,7 @@ From {{inh|kw|cel-pro|*teɸnets||fire}} (compare {{cog|sga|teine}}, {{cog|cy|tâ
 ===Noun===
 {{kw-noun|m|r}}
 
-# {{l|en|fire}}
+# [[fire]]
 
 ===Mutation===
 {{kw-mut-cons|t|an}}
@@ -424,7 +412,7 @@ From {{inh|kw|cel-pro|*teɸnets||fire}} (compare {{cog|sga|teine}}, {{cog|cy|tâ
 * {{homophones|fr|tans|tant|taon|temps}}
 
 ===Etymology 1===
-Probably from {{der|fr|cel-gau|*tanno-||oak}}, from {{der|fr|la|tannum||oak bark}} {{rfv-etym|fr}}. Ultimately from {{der|fr|cel-pro|*tanno-||green oak}}.
+From {{der|fr|la|tannum||oak bark}}, from {{der|fr|cel-gau|*tannos||oak}}, from  {{der|fr|cel-pro|*tannos||green oak}}.
 
 ====Noun====
 {{fr-noun|m}}
@@ -877,7 +865,7 @@ From {{der|srn|en|stand}}.
 ===Verb===
 {{head|srn|verb}}
 
-# to {{l|en|stay}}, to [[reside]]
+# to [[stay]], to [[reside]]
 # to stay, to [[remain]] in a state
 
 ==Swedish==
