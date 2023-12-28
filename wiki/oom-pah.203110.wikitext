@@ -16,12 +16,7 @@
 
 # {{lb|en|music genre}} A [[genre]] of Germanic music (especially Bavarian music) typically involving [[brass]] instruments.
 # {{lb|en|music}} A [[bassline]] characteristic of such music, alternating lower and higher [[note]]s or [[chord]]s on the beat, or in a mid-high-low-high sequence.
-#: {{ux|en|An '''oom-pah''' bassline:<br><score sound="1">{
-<<
-\new Voice {\voiceOne \clef bass \set Staff.midiInstrument = #"muted trumpet" c8 r g, r c r g, r c r g, r c r g, r}
-\new Voice {\voiceTwo \clef bass \set Staff.midiInstrument = #"muted trumpet" r8 <c e g>-. r <c e g>-. r <c e g>-. r <c e g>-. r <c e g>-. r <c e g>-. r <c e g>-. r <c e g>-.}
->>
-}</score>}}
+#: {{ux|en|An '''oom-pah''' bassline:<br><score sound>{\clef bass<<{\set Staff.midiInstrument=#"muted trumpet"\repeat unfold4{c8r g,r}}\\\new Staff\with{midiInstrument="muted trumpet"}{\clef bass\repeat unfold8{r8<c e g>-.}}>>}</score>}}
 
 ====Derived terms====
 * {{l|en|oompah-like}}
