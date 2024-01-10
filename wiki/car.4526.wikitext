@@ -661,12 +661,12 @@ From {{inh|rup|la|carrus}}, from {{der|rup|cel-gau|*karros}}. Compare {{cog|ro|c
 
 ==Catalan==
 
-===Pronunciation===
-* {{ca-IPA|carr}}
-* {{rhymes|ca|aɾ|s=1}}
-
 ===Etymology 1===
-From {{inh|ca|la|carus|cārus}}.
+{{inh+|ca|la|cārus}}.
+
+====Pronunciation====
+* {{ca-IPA|carr|bal=ca<q:Mallorca,Menorca>,carr<q:Ibiza>}}<!-- per GDLC, DCVB -->
+* {{rhymes|ca|aɾ|s=1}}
 
 ====Adjective====
 {{ca-adj}}
@@ -678,13 +678,29 @@ From {{inh|ca|la|carus|cārus}}.
 #: {{syn|ca|estimat|amat|apreciat}}
 
 ===Etymology 2===
-From {{inh|ca|la|quare|quārē|how; why}}. Compare {{cog|fr|car}}.
+{{inh+|ca|la|quārē||how; why}}. Compare {{cog|fr|car}}.
+
+====Pronunciation====
+* {{ca-IPA|carr|bal=?}}<!-- FIXME: pronun for this meaning not given in DCVB -->
+* {{rhymes|ca|aɾ|s=1}}
 
 ====Conjunction====
 {{head|ca|conjunction}}
 
-# [[as]], [[since]], [[because]], [[for]]
+# {{lb|ca|archaic}} [[as]], [[since]], [[because]], [[for]]
 #: {{syn|ca|perquè}}
+
+===Etymology 3===
+{{bor+|ca|gkm|κάροιον|t=yard, spar}}, from {{der|ca|grc|κεραίᾱ}}.
+
+====Pronunciation====
+* {{ca-IPA|carr}}<!-- per GDLC, DCVB -->
+* {{rhymes|ca|aɾ|s=1}}
+
+====Noun====
+{{ca-noun|m}}
+
+# {{lb|ca|nautical}} [[foreyard]]
 
 ===Further reading===
 * {{R:ca:DCVB}}
