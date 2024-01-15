@@ -4,17 +4,42 @@
 * {{alter|ru|э́тотъ||ru-PRO}}
 
 ===Etymology===
-{{m|ru|тотъ}} with the expressive prefix {{af|ru|э-}} (from {{inh|ru|ine-pro|*éy}}), winning over {{m|ru|сей}} in the nineteenth century. Compare {{cog|sa|एतद्}}.
+From {{m|ru|тотъ}} with the expressive prefix {{af|ru|э-}} (from {{inh|ru|ine-pro|*éy}}), winning over {{m|ru|сей}} in the 19th century. Compare {{cog|sa|एतद्}}.
 
 ===Pronunciation===
 * {{ru-IPA|э́тот}}
 * {{audio|ru|Ru-{{PAGENAME}}.ogg|Audio}}
 
 ===Determiner===
+{{etymid|ru|determiner}}
 {{head|ru|determiner|head=э́тот|g=m|demonstrative}}
 
-# {{n-g|proximal demonstrative adjective and pronoun}}, [[this]]
-#: {{syn|ru|сей<q:dated or poetic>}}
+# {{n-g|Mostly proximal [[demonstrative determiner#English|demonstrative determiner]]. Usually translated as "[[this]]"/"[[these]]", but can occasionally be translated as "[[that]]"/"[[those]]" and, in some cases, the English [[definite article#English|definite article]], "[[the]]".}}
+#: {{syn|ru|да́нный<q:partial>|сей<q:dated or poetic>|тот<q:partial><id:determiner>}}
+#: {{ux|ru|'''Э́та''' [[моде́ль]] [[сто́ит]] [[пятьсо́т]] [[рубле́й]], [[а]] [[вот]] '''э́та''' [[моде́ль]] [[сто́ит]] [[семьсо́т]].|subst=моде́ль//модэ́ль|'''This''' model costs five hundred roubles, and '''this''' model costs seven hundred.}}
+#: {{ux|ru|'''Э́тот''' [[я́ркий]] [[объе́кт]] - [[Вене́ра]], [[а]] [[вот]] '''э́тот''' [[мига́ющий]] [[свет]] - [[самолёт]].|'''That''' bright object is Venus, and '''that''' flashing light is a plane.|footer=(''May be used to indicate something physically or mentally distal to the speaker and translated as "that"/"those".'')}}
+#: {{ux|ru|[[я|Я]] [[сде́лал]] '''э́ти''' [[рису́нки]] [[вчера́]].|I made '''these''' drawings yesterday.}}
+#: {{ux|ru|[[вы|Вы]] [[должны́]] [[неме́дленно]] [[поки́нуть]] '''э́тот''' [[райо́н]].|You have to leave '''the''' area immediately.|footer=(''May be translated as "the" when "the" is implied to mean "this", essentially taking on some of the role of the English definite article, in this case avoiding ambiguity over which region.'')}}
+
+====Derived terms====
+* {{l|ru|в э́ти дни́}}
+* {{l|ru|в э́то вре́мя}}
+* {{l|ru|как произно́сится э́то сло́во}}
+* {{l|ru|с э́того моме́нта}}
+
+===Pronoun===
+{{etymid|ru|pronoun}}
+{{head|ru|pronoun|head=э́тот|g=m|demonstrative}}
+
+# [[this]]/[[that]] [[one]], [[these]]/[[those]] ([[ones]])
+#: {{syn|ru|да́нный<q:partial>|сей<q:dated or poetic>|тот<q:partial><id:pronoun>}}
+#: {{ux|ru|'''Э́та''' [[моде́ль]] [[сто́ит]] [[пятьсо́т]] [[рубле́й]], [[а]] [[вот]] '''э́та''' [[сто́ит]] [[семьсо́т]].|subst=моде́ль//модэ́ль|This model costs five hundred roubles, and '''this one''' costs seven hundred.|footer=(''Translated as "this" when indicating something physically or mentally proximal to the speaker.'')}}
+#: {{ux|ru|'''Э́тот''' [[я́ркий]] [[объе́кт]] - [[Вене́ра]], [[а]] [[вот]] '''э́тот''' - [[Си́риус]].|That bright object is Venus, and '''that one''' is Sirius.|footer=(''Translated as "that" when indicating something physically or mentally distal to the speaker.'')}}
+#: {{ux|ru|[[мне|Мне]] [[нра́вятся]] [[мно́гие]] [[её]] [[рису́нки]], [[а]] [[вот]] '''э́ти''' - [[не]] [[о́чень]].|I like many of her drawings, but '''these (ones)''' not so much.}}
+
+====Usage notes====
+* See {{m|ru|э́то|id=pronoun}} for additional pronoun senses specific to the neuter singular.
+* {{anchor|Russian:_overlap}} Although in theory proximal, use of {{m-self|ru|э́тот}} overlaps with that of the English distal demonstrative pronouns, ''[[that]]'' and ''[[those]]''. The theoretically distal Russian demonstrative pronoun, {{m|ru|тот|id=pronoun}}, is mostly used in a few mostly grammatically supportive roles.
 
 ====Declension====
 {{ru-decl-adj-irreg
@@ -36,9 +61,6 @@
 |pre_f=э́той
 |pre_p=э́тих
 }}
-
-====Derived terms====
-* {{l|ru|поэ́тому}}
 
 ====Related terms====
 * {{l|ru|тот}}
