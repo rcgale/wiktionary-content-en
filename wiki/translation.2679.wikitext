@@ -66,11 +66,11 @@ From {{inh|en|enm|translacioun|t=transfer, translation}}, from {{der|en|xno|tran
 * Carpathian Rusyn: {{t|rue|перекла́д|m}}
 * Catalan: {{t+|ca|traducció|f}}
 * Chinese:
-*: Cantonese: {{t|yue|翻譯|tr=faan1 jik6}}
+*: Cantonese: {{t|yue|翻譯}}
 *: Dungan: {{t|dng|фанйи}}
 *: Hakka: {{t|hak|翻譯|tr=fân-yi̍t}}
-*: Mandarin: {{t+|cmn|翻譯|tr=fānyì}}
-*: Min Dong: {{t|cdo|翻譯|tr=huăng-ĭk}}
+*: Mandarin: {{t+|cmn|翻譯}}
+*: Min Dong: {{t|cdo|翻譯}}
 *: Min Nan: {{t+|nan|翻譯|tr=hoan-ia̍k, hoan-e̍k}}
 *: Wu: {{t|wuu|翻譯}}
 * Czech: {{t|cs|překládání|n}}, {{t|cs|překlad|m}}
@@ -127,9 +127,9 @@ From {{inh|en|enm|translacioun|t=transfer, translation}}, from {{der|en|xno|tran
 * Occitan: {{t+|oc|traduccion|f}}
 * Odia: {{t|or|ଅନୁବାଦ}}, {{t+|or|ତରଜମା}}
 * Old English: {{t|ang|wending|f}}
-* Pashto: {{t+|ps|ترجمه|f|tr=tarǰomá}}, {{t+|ps|ژباړنه|f|tr=žbārǝ́na}}
+* Pashto: {{t+|ps|ترجمه|f|tr=tarjoma}}, {{t+|ps|ژباړنه|f|tr=žbārǝna}}
 * Pennsylvania German: {{t|pdc|Iwwersetzing|f}}
-* Persian: {{t+|fa|ترجمه|tr=tarjome}}, {{t+|fa|برگردان|tr=bargardân}}
+* Persian:
 *: Iranian Persian: {{t+|fa-ira|تَرْجُمِه}}, {{t+|fa-ira|بَرْگَرْدان}}
 *: Classical Persian: {{t+|fa-cls|تَرْجُمَه}}, {{t+|fa-cls|بَرْگَرْدَان}}
 * Plautdietsch: {{t|pdt|Äwasatunk|f}}
@@ -165,7 +165,7 @@ From {{inh|en|enm|translacioun|t=transfer, translation}}, from {{der|en|xno|tran
 * Turkish: {{t+|tr|çeviri}}, {{t+|tr|tercüme}}
 * Turkmen: {{t|tk|terjime}}
 * Ukrainian: {{t+|uk|пере́клад|m}}
-* Urdu: {{t|ur|ترجمہ|m|tr=tarjama}}
+* Urdu: {{t|ur|تَرْجَمَہ|m}}
 * Uyghur: {{t+|ug|تەرجىمە}}
 * Uzbek: {{t+|uz|tarjima}}
 * Vietnamese: {{t+|vi|thông dịch|alt=sự thông dịch}}, {{t+|vi|phiên dịch}}
@@ -178,7 +178,7 @@ From {{inh|en|enm|translacioun|t=transfer, translation}}, from {{der|en|xno|tran
 {{trans-bottom}}
 
 {{trans-top|conversion of something from one form to another}}
-* Bulgarian: {{t+|bg|прехвърляне|n}}
+* Bulgarian: {{t+|bg|прехвъ́рляне|n}}
 * Czech: {{t|cs|převedení|n}}, {{t|cs|překlopení|n}}
 * Finnish: {{t+|fi|muuntaminen}}, {{t+|fi|kääntäminen}}
 * Maori: {{t|mi|whakaahuakētanga}}, {{t|mi|whakarerekētanga}}
@@ -199,11 +199,11 @@ From {{inh|en|enm|translacioun|t=transfer, translation}}, from {{der|en|xno|tran
 * Catalan: {{t+|ca|traducció|f}}
 * Cherokee: {{t|chr|ᎠᏁᏢᏔᏅᎯ}}, {{t|chr|ᎠᏁᏟᏔᏅᎢ}}
 * Chinese:
-*: Cantonese: {{t|yue|翻譯|tr=faan1 jik6}}
+*: Cantonese: {{t|yue|翻譯}}
 *: Dungan: {{t|dng|фанйи}}
 *: Hakka: {{t|hak|翻譯|tr=fân-yi̍t}}
-*: Mandarin: {{t+|cmn|翻譯|tr=fānyì}}, {{t+|cmn|譯文|tr=yìwén}}
-*: Min Dong: {{t|cdo|翻譯|tr=huăng-ĭk}}
+*: Mandarin: {{t+|cmn|翻譯}}, {{t+|cmn|譯文}}
+*: Min Dong: {{t|cdo|翻譯}}
 *: Min Nan: {{t+|nan|翻譯|tr=hoan-ia̍k, hoan-e̍k}}
 *: Wu: {{t|wuu|翻譯|tr=fe hhiq}}
 * Czech: {{t+|cs|překlad|m}}
@@ -232,7 +232,7 @@ From {{inh|en|enm|translacioun|t=transfer, translation}}, from {{der|en|xno|tran
 * Javanese: {{t|jv|pertalan}}
 * Kazakh: {{t|kk|аударма}}
 * Khmer: {{t|km|ការបកប្រែ}}
-* Korean: {{t+|ko|번역(飜譯)}}, {{t|ko|번역문}}
+* Korean: {{t+|ko|번역(飜譯)}}, {{t|ko|번역문(飜譯文)}}
 * Kurdish:
 *: Central Kurdish: {{t+|ckb|وەرگێڕ}}
 * Kyrgyz: {{t+|ky|котормо}}
@@ -245,13 +245,16 @@ From {{inh|en|enm|translacioun|t=transfer, translation}}, from {{der|en|xno|tran
 * Maltese: {{t+|mt|traduzzjoni|f}}
 * Marathi: {{t+|mr|अनुवाद|m}}, {{t+|mr|भाषांतर|n}}
 * Middle English: {{t|enm|translacioun}}
-* Mongolian: {{t+|mn|орчуулга}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|орчуулга}}
 * Norwegian:
 *: Bokmål: {{t+|nb|oversettelse|m}}
 *: Nynorsk: {{t|nn|omsetjing|f}}, {{t|nn|omsetting|f}}
 * Old English: {{t|ang|wending|f}}
 * Pennsylvania German: {{t|pdc|Iwwersetzing|f}}
-* Persian: {{t+|fa|ترجمه|tr=tarjome}}, {{t+|fa|برگردان|tr=bargardân}}
+* Persian:
+*: Iranian Persian: {{t+|fa-ira|تَرْجُمِه}}, {{t+|fa-ira|بَرْگَرْدان}}
+*: Classical Persian: {{t+|fa-cls|تَرْجُمَه}}, {{t+|fa-cls|بَرْگَرْدَان}}
 * Plautdietsch: {{t|pdt|Äwasatunk|f}}
 * Polish: {{t+|pl|tłumaczenie|n}}, {{t+|pl|przekład|m}}
 * Portuguese: {{t+|pt|tradução|f}}
@@ -287,7 +290,7 @@ From {{inh|en|enm|translacioun|t=transfer, translation}}, from {{der|en|xno|tran
 {{trans-bottom}}
 
 {{trans-top|of forces in a gearbox}}
-* Bulgarian: {{t|bg|превключване|n}}
+* Bulgarian: {{t|bg|превклю́чване|n}}
 * Czech: {{t+|cs|převod|m}}
 * Dutch: {{t+|nl|transmissie|f}}, {{t|nl|overzetting|f}}
 * Finnish: {{t+|fi|välitys}}, {{t+|fi|välityssuhde}}
@@ -305,7 +308,7 @@ From {{inh|en|enm|translacioun|t=transfer, translation}}, from {{der|en|xno|tran
 {{trans-bottom}}
 
 {{trans-top|math, physics: motion without deformation or rotation}}
-* Bulgarian: {{t|bg|транслация|f}}
+* Bulgarian: {{t|bg|трансла́ция|f}}
 * Czech: {{t|cs|translace|f}}
 * Danish: {{t|da|forflyttelse|c}}
 * Dutch: {{t+|nl|translatie|f}}
@@ -317,7 +320,7 @@ From {{inh|en|enm|translacioun|t=transfer, translation}}, from {{der|en|xno|tran
 * Indonesian: {{t+|id|translasi}}
 * Irish: {{t|ga|aistriú|m}}
 * Italian: {{t+|it|traslazione|f}}
-* Japanese: {{t|ja|平行移動|tr=heikōidō}}
+* Japanese: {{t|ja|[[平行]][[移動]]|tr=へいこういどう, heikō idō}}
 * Latin: {{t+|la|translatio|f}}
 * Luxembourgish: {{t|lb|Translatioun|f}}
 * Macedonian: {{t|mk|трансла́ција|f}}
