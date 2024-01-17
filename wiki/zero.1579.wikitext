@@ -912,15 +912,19 @@ From {{der|it|NL.|zerum}}, from {{der-lite|it|ML.|zephirum}}, from {{der|it|ar|�
 {{number box|pl}}
 
 ===Etymology===
-{{bor+|pl|fr|zéro}}, from {{der-lite|pl|it|zero}}, from {{m-lite|it|zefiro}}, from {{der-lite|pl|ML.|zephirum}}, from {{der|pl|ar|صِفْر||nothing, [[cipher]]}}. {{dbt|pl|cyfra|szyfr}}.
+{{dercat|pl|it|ML.|ar}}
+{{bor+|pl|fr|zéro}}.<ref>{{R:pl:WSWO}}</ref><ref>{{R:pl:USJP}}</ref> {{etydate|1781|ref={{R:pl:SJP1807}}}} {{dbt|pl|cyfra|szyfr}}.
 
 ===Pronunciation===
 {{pl-p|a=Pl-zero.ogg}}
 
-===Numeral===
-{{head-lite|pl|numerals|langname=Polish}}
+===Noun===
+{{pl-noun|n|adj=zerowy}}
 
-# {{l-lite|en|zero}}
+# [[zero#English|zero]] {{gl|numeric symbol that represents the cardinal number zero}}
+# [[zero#English|zero]] {{gl|point on a scale at which numbering or measurement originates}}
+# [[zero#English|zero]] {{gl|nothing, or none; lack of something}}
+# {{lb|pl|derogatory}} [[zero#English|zero]] {{gl|person of little or no importance}}
 
 ====Declension====
 {{pl-decl-noun-n}}
@@ -930,15 +934,26 @@ From {{der|it|NL.|zerum}}, from {{der-lite|it|ML.|zephirum}}, from {{der|it|ar|�
 
 ====Derived terms====
 {{col-auto|pl|title=adverb|od zera}}
-{{col-auto|pl|title=nouns|godzina zero|zero bezwzględne|zerówka}}
-{{col-auto|pl|title=verbs|zerować|wyzerować|wyzerowywać}}
+{{col-auto|pl|title=nouns|godzina zero|punkt zero|strefa zero|zero bezwzględne|zerówka}}
+{{col-auto|pl|title=phrases|wybiła godzina zero}}
+{{pl-derived verbs|-/zerować}}
+{{pl-derived verbs|wyjść na zero/wychodzić na zero}}
+
+===Trivia===
+{{pl-freq 1990|25|43|0|3|5|76|854|768|2}}
+
+===References===
+{{reflist}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
 * {{R:pl:PWN}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900||446|8}}
+* {{R:pl:NFJP}}
 
-[[Category:Polish cardinal numbers]]
-[[Category:pl:Zero]]
+{{cln|pl|cardinal numbers}}
+{{C|pl|Zero}}
 
 ==Portuguese==
 {{number box|pt}}
