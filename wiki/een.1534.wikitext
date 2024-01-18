@@ -254,21 +254,26 @@ When only the first letter of {{m|nl|één}} is capitalised, the acute accent is
 [[Category:German Low German cardinal numbers]]
 
 ==Hunsrik==
-{{cardinalbox|hrx|0|1|2|null|zweu|ord=eerst}}
+{{number box|hrx}}
 
 ===Etymology===
-From {{inh|hrx|gmh|ein}}, from {{inh|hrx|goh|ein}}, from {{inh|hrx|gmw-pro|*ain}}, from {{inh|hrx|gem-pro|*ainaz}}, from {{inh|hrx|ine-pro|*óynos}}.
+{{root|hrx|ine-pro|*óynos}}
+{{inh+|hrx|gmh|ein}}, from {{inh|hrx|goh|ein}}, from {{inh|hrx|gmw-pro|*ain}}, from {{inh|hrx|gem-pro|*ainaz}}, from {{inh|hrx|ine-pro|*óynos}}.<ref>{{R:hrx:Boll|p=181}}</ref>
+
+Cognate with {{cog|de|ein}} and {{cog|lb|een}}.
 
 ===Pronunciation===
 * {{IPA|hrx|/eːn/}}
+* {{rhyme|hrx|eːn|s=1}}
+* {{hyph|hrx|een}}
 
 ===Numeral===
-{{head|hrx|numeral}}
+{{head|hrx|numeral|cat2=cardinal numbers|nominative||masculine/neuter dative|eem|feminine dative|eener}}
 
-# {{cln|hrx|cardinal numbers}} [[one]]
+# [[one]]
 
-===Further reading===
-* [http://www.hunsrik.org/Lexi/SearchResult?searchStr=een Online Hunsrik Dictionary]
+===References===
+<references/>
 
 ==Luxembourgish==
 {{cardinalbox|lb||1|2||zwee}}
