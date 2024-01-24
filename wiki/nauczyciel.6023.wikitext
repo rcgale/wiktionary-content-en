@@ -1,29 +1,77 @@
+==Old Polish==
+
+===Etymology===
+{{inh+|zlw-opl|sla-pro|*naučiteljь}}. {{surf|zlw-opl|nauczyć|-ciel}}. {{etydate|1484}}
+
+===Pronunciation===
+* {{zlw-opl-IPA}}
+
+===Noun===
+{{zlw-opl-noun|m|f=nauczycielka}}
+
+# [[teacher]] {{gl|one who teaches}}
+#* {{RQ:zlw-opl:Reg|718|1484|Yakyego a kogo sobye mayą nabyczi '''nyuczyczyela''' (de informatore ipsorum)|Jakiego a kogo sobie mają nabyć(i) '''nauczyciela''' (de informatore ipsorum)|-}}
+
+====Related terms====
+{{col-auto|zlw-opl|title=nouns|nauczenie|nauczony|nauka}}
+{{zlw-opl-derived verbs|nauczyć/nauczać|-/uczyć}}
+
+====Descendants====
+* {{desc|zlw-mas|naûcÿcziel}}
+* {{desc|pl|nauczyciel}}
+* {{desc|szl|nauczyciel}}
+
+===References===
+* {{R:pl:Boryś}}
+* {{R:pl:Sławski}}
+* {{R:pl:Bańkowski}}
+* {{R:zlw-opl:SPJSP}}
+
+{{C|zlw-opl|Education|Male people|Professions}}
+
 ==Polish==
 {{wp|lang=pl}}
 
 ===Etymology===
-{{inh+|pl|sla-pro|*naučiteľь}}. {{surf|pl|nauczyć|-ciel}}.
+{{inh+|pl|sla-pro|*naučiteľь}}. {{surf|pl|nauczyć|-ciel}}. {{displaced|zlw-mpl|uczyciel}}.
 
 ===Pronunciation===
-{{pl-p|na.u'czy.ciel|a=Pl-nauczyciel.ogg}}
+{{pl-p|na.u'czy.ciel|a=Pl-nauczyciel.ogg|mp=+|mp2=nauczyciél}}
 
 ===Noun===
-{{pl-noun|m-pr|f=nauczycielka}}
+{{pl-noun|m-pr|f=nauczycielka|f2=nauczyciel|adj=nauczycielski|adj2=nauczycielowy<q:obsolete>}}
 
-# [[teacher]]
+# [[teacher]] {{gl|person who teaches, especially one employed in a school}}
 #: {{syn|pl|belfer|q1=colloquial, derogatory}}
+# {{lb|pl|literary|metaphorically}} [[teacher]], [[mentor]] {{gl|person or thing that causes one to be more aware or behave differently}}
+
+====Usage notes====
+The genitive plural form {{m|pl|nauczycielów}} is obsolete.
 
 ====Declension====
-{{pl-decl-noun-m-pr}}
+{{pl-decl-noun-m-pr|genp=nauczyciel/nauczycielów}}
 
 ====Derived terms====
-{{col-auto|pl|nauczycielski|nauczycielstwo}}
+{{col-auto|pl|title=nouns|nauczycielstwo}}
 
-====Related terms====
-{{col-auto|pl|nauka|uczyć}}
+===Noun===
+{{pl-noun|f|m=nauczycielka|indecl=1}}
+
+# {{femeq|pl|nauczyciel|t=[[teacher]]}} {{gl|one who teaches}}
+#: {{syn|pl|nauczycielka<q:more common>}}
+
+===Trivia===
+{{pl-freq 1990|5|25|27|5|9|71|908|275|2}}
+
+===References===
+{{reflist}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
 * {{R:pl:PWN}}
+* {{R:pl:SXVI|+|68864}}
+* {{R:pl:SJP1807}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900||194|3}}
 
-{{C|pl|Education|Male people|Occupations}}
+{{C|pl|Education|Female people|Male people|Occupations}}
