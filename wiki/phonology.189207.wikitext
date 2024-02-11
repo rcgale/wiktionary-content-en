@@ -1,60 +1,59 @@
 ==English==
+{{was wotd|2024|February|21}}
 
 ===Etymology===
-{{root|en|ine-pro|*bʰeh₂-|id=speak}}
-From {{af|en|phono-|-logy}}.
+{{root|en|ine-pro|*bʰeh₂-|id=speak|*leǵ-|*-éh₂}}
+From {{confix|en|phono|pos1={{glossary|prefix}} denoting sound|logy|pos2={{glossary|suffix}} denoting a branch of learning, or a study of a particular subject}}.<ref>{{R:OED Online|pos=n|id=1081818036|date=July 2023|nodot=1}}; {{R:Lexico|pos=n|url=https://web.archive.org/web/20210506150729/https://www.lexico.com/definition/phonology}}</ref>
 
 ===Pronunciation===
-* {{a|RP}} {{IPA|en|/fəˈnɒ.lə.d͡ʒi/}}
-** {{audio|en|LL-Q1860 (eng)-Vealhurl-phonology.wav|Audio (Southern England)}}
-* {{a|US}} {{IPA|en|/fəˈnɑ.lə.d͡ʒi/}}
-* {{a|AU}} {{IPA|en|/fəˈnɔl.ə.d͡ʒi/}}
+* {{a|RP}} {{IPA|en|/fəˈnɒləd͡ʒi/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-phonology.wav|Audio (Southern England)}}
+* {{a|GA}} {{IPA|en|/fəˈnɑləd͡ʒi/|/foʊ-/}}
+* {{a|AU}} {{IPA|en|/fəˈnɔləd͡ʒi/}}
 * {{rhymes|en|ɒlədʒi|s=4}}
 * {{hyphenation|en|pho|no|lo|gy}}
 
 ===Noun===
-{{wikipedia}}
-{{en-noun|~}}
+{{en-noun|~}} {{term-label|en|linguistics}}
 
-# {{lb|en|linguistics|uncountable}} The study of the way sounds [[function]] in [[language]]s, including [[phoneme]]s, [[syllable]] structure, [[stress]], [[accent]], [[intonation]], and which sounds are distinctive units within a language.
-# {{lb|en|linguistics|countable}} The way sounds function within a given [[language]]; a phonological system.
-#* {{quote-text|en|year=1856|title=Journal of the Indian Archipelago and Eastern Asia|publisher=Mission Press|page=16
-|passage=The Achean, the ancient Malayu and other mixed '''phonologies''' possessing a considerable degree of harshness, were thus formed.}}
+# {{lb|en|uncountable}} The [[study#Noun|study]] of the [[way#Noun|way]] [[sound#Noun|sounds]] [[function#Verb|function]] in [[language]]s, including [[accent#Noun|accent]], [[intonation]], [[phoneme]]s, [[stress#Noun|stress]], and [[syllable#Noun|syllable]] [[structure#Noun|structure]], and which sounds are [[distinctive#Adjective|distinctive]] [[unit#Noun|units]] within a language; {{lb|en|countable}} the way sounds function within a [[given#Adjective|given]] language; a [[phonological]] [[system]].
+#: {{synonyms|en|orthoepy|soundlore<q:dated>}}
+#* {{quote-text|en|year=1856|title=Journal of the Indian Archipelago and Eastern Asia|publisher=Mission Press|page=16|passage=The Achean, the ancient Malayu and other mixed '''phonologies''' possessing a considerable degree of harshness, were thus formed.}}
 #* {{quote-book|en|year=1997|author=Jacek Fisiak|title=Trends in Linguistics: Studies in Middle English Linguistics|isbn=3110152428|publisher=Walter de Gruyter|page=545
 |passage=Crucially, the neat separateness of '''phonologies''' which my account seems to imply is an abstraction and does not mean that the '''phonologies''' represented different regional or social dialects.}}
 #* {{quote-text|en|year=2005|author=Charles W. Kreidler|title=Phonology|page=219
 |passage=Thus, underlying ‘agtus’ was converted first into ‘āgtus’ by the vowel lengthening rule, and then into ‘āktus’ by the ancient persistent rule. This example has previously been interpreted as indicating that new rules can enter a '''phonology''' elsewhere than at depth I.}}
-
-====Synonyms====
-* {{sense|study of pronunciation}} {{l|en|orthoepy}}, {{l|en|soundlore}}
+# {{lb|en|by extension|uncountable}} The study of the way [[component#Noun|components]] of [[sign#Noun|signs]] function in a [[sign language]], and which components are distinctive units within the language; {{lb|en|countable}} the way components of signs function within a given sign language.
 
 ====Hypernyms====
-* {{l|en|linguistics}}, {{l|en|phonetics}}
+* {{l|en|linguistics}}
+* {{l|en|phonetics}}
 
 ====Derived terms====
-{{der2|en
+{{col3|en
+|articulatory phonology
 |phonologic
 |phonological
 |phonologically
-|phonologist|articulatory phonology
+|phonologist
 |sociophonology
 }}
 
 ====Translations====
-{{trans-top|subfield of linguistics concerned with the way sounds function in languages}}
+{{trans-top|study of the way sounds function in languages}}
 * Afrikaans: {{t|af|fonologie}}
 * Albanian: {{t+|sq|fonologji|f}}
-* Arabic: {{t|ar|فُونُولُوجِيَّا|f|tr=funulujiyyā}}, {{t|ar|عِلْمُ ٱلْأَصْوَاتِ ٱللُّغَوِيَّةِ|m}}, {{t|ar|نُطْقِيَّات|f-p}}, {{t|ar|اَلتَّصْرِيفُ ٱلصَّوْتِيُّ|m}}
+* Arabic: {{t|ar|فُونُولُوجِيَّا|f|tr=funulujiyyā}}, {{t|ar|عِلْمُ ٱلْأَصْوَاتِ ٱللُّغَوِيَّةِ|m}}, {{t|ar|اَلتَّصْرِيفُ ٱلصَّوْتِيُّ|m}}, {{t|ar|نُطْقِيَّات|f-p}}
 * Armenian: {{t+|hy|հնչույթաբանություն}}
 * Asturian: {{t|ast|fonoloxía|f}}
 * Azerbaijani: {{t|az|fonologiya}}
-* Belarusian: {{t|be|фанало́гія|f|sc=Cyrl}}
-* Bengali: {{t|bn|ধ্বনিতত্ত্ব|sc=Beng}}
-* Bulgarian: {{t|bg|фоноло́гия|f|sc=Cyrl}}
+* Belarusian: {{t|be|фанало́гія|f}}
+* Bengali: {{t|bn|ধ্বনিতত্ত্ব}}
+* Bulgarian: {{t|bg|фоноло́гия|f}}
 * Catalan: {{t|ca|fonologia|f}}
 * Cebuano: {{t|ceb|ponolohiya}}
 * Chinese:
-*: Mandarin: {{t+|cmn|音韻學|tr=yīnyùnxué}}, {{t+|cmn|音位學|tr=yīnwèixué}}, {{t+|cmn|音系學|tr=yīnxìxué}}
+*: Mandarin: {{t+|cmn|音位學}}, {{t+|cmn|音系學}}, {{t+|cmn|音韻學}}
 * Czech: {{t|cs|fonologie|f}}
 * Danish: {{t+|da|fonologi|c}}
 * Dutch: {{t+|nl|klankleer|m|f}}
@@ -69,7 +68,7 @@ From {{af|en|phono-|-logy}}.
 * Georgian: {{t|ka|ფონოლოგია}}
 * German: {{t+|de|Phonologie|f}}, {{t+|de|Phonemik|f}}
 * Greek: {{t+|el|φωνολογία|f}}
-* Hindi: {{t|hi|स्वनिमविज्ञान|m|sc=Deva}}, {{t+|hi|ध्वनित}}
+* Hindi: {{t|hi|स्वनिमविज्ञान|m}}, {{t+|hi|ध्वनित}}
 * Hungarian: {{t+|hu|fonológia}}
 * Icelandic: {{t|is|hljóðkerfisfræði|f}}
 * Indonesian: {{t+|id|fonologi}}
@@ -77,10 +76,10 @@ From {{af|en|phono-|-logy}}.
 * Irish: {{t|ga|fóineolaíocht|f}}, {{t|ga|foghareolaíocht|f}}
 * Italian: {{t+|it|fonologia|f}}
 * Japanese: {{t+|ja|音韻論|tr=おんいんろん, on'inron}}
-* Kazakh: {{t|kk|фонология|sc=Cyrl}}
-* Khmer: {{t|km|សូរវិទ្យា|tr=so vi tyea|sc=Khmr}}
+* Kazakh: {{t|kk|фонология}}
+* Khmer: {{t|km|សូរវិទ្យា|tr=so vi tyea}}
 * Korean: {{t+|ko|음운론}}, {{t|ko|어음학}}
-* Kyrgyz: {{t|ky|фонология|sc=Cyrl}}
+* Kyrgyz: {{t|ky|фонология}}
 * Lao: {{t-needed|lo}}
 * Latin: {{t|la|phonologia|f}}
 * Latvian: {{t|lv|fonoloģija|f}}
@@ -96,9 +95,9 @@ From {{af|en|phono-|-logy}}.
 * Romanian: {{t+|ro|fonologie|f}}
 * Russian: {{t+|ru|фоноло́гия|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|фоноло̀гија|f|sc=Cyrl}}
+*: Cyrillic: {{t|sh|фоноло̀гија|f}}
 *: Roman: {{t+|sh|fonològija|f}}
-* Sindhi: {{t+|sd|وايوڀياسُ|m|tr=Viobhiyaasu|sc=Arab}}
+* Sindhi: {{t+|sd|وايوڀياسُ|m|tr=Viobhiyaasu}}
 * Slovak: {{t+|sk|fonológia|f}}
 * Slovene: {{t|sl|fonologija|f}}
 * Spanish: {{t+|es|fonología|f}}
@@ -109,7 +108,7 @@ From {{af|en|phono-|-logy}}.
 * Thai: {{t+|th|สัทวิทยา|tr=sàt wít-tá-yaa}}, {{t|th|สรวิทยา|tr=sŏn wít-tá-yaa}}
 * Tibetan: {{t|bo|སྒྲ་སྦྱོར་རིག་པ}}
 * Turkish: {{t+|tr|sesbilim}}, {{t+|tr|fonoloji}}
-* Ukrainian: {{t|uk|фоноло́гія|f|sc=Cyrl}}
+* Ukrainian: {{t|uk|фоноло́гія|f}}
 * Urdu: {{t|ur|صوتیات|tr=sautiyāt}}
 * Uzbek: {{t+|uz|fonologiya}}
 * Vietnamese: {{t+|vi|âm vị học}}
@@ -121,22 +120,33 @@ From {{af|en|phono-|-logy}}.
 {{trans-top|way sounds function within a given language}}
 * Cebuano: {{t|ceb|ponolohiya}}
 * Chinese:
-*: Mandarin: {{t+|cmn|音系|tr=yīnxì}}
+*: Mandarin: {{t+|cmn|音系}}
 * Danish: {{t|da|lydsystem|n}}
 * Finnish: {{t+|fi|fonologia}}
 * Galician: {{t+|gl|fonoloxía|f}}
 * Georgian: {{t|ka|ფონოლოგია}}, {{t|ka|ფონეტიკა}}
 * Portuguese: {{t+|pt|fonologia|f}}
-* Russian: {{t+|ru|фоне́тика|f|tr=fonɛ́tika|sc=Cyrl}}, {{t+|ru|фоноло́гия|f|sc=Cyrl}}
+* Russian: {{t+|ru|фоне́тика|f|tr=fonɛ́tika}}, {{t+|ru|фоноло́гия|f}}
 * Swahili: {{t|sw|fonolojia}}
 * Tagalog: {{t|tl|tinigan}}
 {{trans-bottom}}
 
+{{trans-top|study of the way components of signs function in a sign language; way components of signs function within a given sign language}}
+* Finnish: {{t-needed|fi}}
+* Macedonian: {{t-needed|mk}}
+{{trans-bottom}}
+
 {{checktrans-top}}
-* Korean: {{t-check|ko|음운 조직|sc=Hang}}, {{t+check|ko|음성|sc=Hang}} {{t+check|ko|음성학|sc=Hang}}
+* Korean: {{t-check|ko|음운 조직}}, {{t+check|ko|음성}} {{t+check|ko|음성학}}
 {{trans-bottom}}
 
 ====See also====
 * {{l|en|tonology}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{pedia}}
 
 [[Category:en:Phonology]]
