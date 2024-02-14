@@ -1,72 +1,109 @@
 ==English==
+{{was wotd|2024|February|24}}
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|en|/fɹɔːt/}}
-** {{audio|en|LL-Q1860 (eng)-Vealhurl-fraught.wav |Audio (Southern England)}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-fraught.wav|Audio (Southern England)}}
 * {{a|GA}} {{IPA|en|/fɹɔt/}}
-** {{a|cot-caught}} {{IPA|en|/fɹɑt/}}
-* {{rhymes|en|ɔːt|s=1}}
+* {{a|Canada|cot-caught}} {{IPA|en|/fɹɑt/}}
 * {{homophones|en|frot|q1=in accents with the [[cot-caught merger]]}}
+* {{rhymes|en|ɔːt|s=1}}
 
 ===Etymology 1===
-{{root|en|ine-pro|*h₂eyḱ-}}
-From {{der|en|enm|fraght}}, {{m|enm|freght}}, from {{der|en|dum|vracht}} or {{der|en|gml|vracht||freight money}}, ultimately from {{der|en|gem-pro|*fra-|pos=intensive prefix}} + {{der|en|gem-pro|*aihtiz||possession}}, from {{der|en|ine-pro|*h₂eyḱ-||to possess}}. Cognate with {{cog|goh|frēht||earnings}}, {{cog|ang|ǣht||owndom}}, and a {{doublet|en|freight|nocap=1}}. More at {{m|en|for-}}, {{m|en|own}}. Adjective from {{der|en|enm|-}}, passive participle of the verb {{m|enm|fraughten}}, from {{der|en|dum|vrachten}}.
+{{root|en|ine-pro|*pro-|*h₂eyḱ-}}
+From {{der|en|enm|fraught}}, {{m|enm|fraght}}, {{m|enm|freght|t=transport of goods or people (usually by water); charge for such transport; facilities for such transport; cargo or passengers of a ship; ballast of a ship; goods in general; (''figurative'') burden; charge}},<ref>{{R:MED Online|pos=n|id=MED17589}}</ref> from {{der|en|dum|vracht}}, {{m|dum|vrecht}}, or {{der|en|gml|vracht}}, {{m|gml|vrecht|t=cargo, freight; charge for transport of goods}}, from {{der|en|gem-pro|*fra-aihtiz}}, from {{m|gem-pro|*fra-|pos={{glossary|intensifying}} {{glossary|prefix}}}} + {{der|en|gem-pro|*aihtiz|t=acquisition; possessions, property}} (ultimately from {{der|en|ine-pro|*h₂eyḱ-|t=to come into possession of, obtain; to own, possess}}).<ref>{{R:OED Online|pos=n|id=8263947680|date=December 2023}}</ref> {{doublet|en|freight}}.
+
+{{rel-top|cognates}}
+* {{cog|da|fragt}}
+* {{cog|ang|ǣht|t=livestock; property; possession; power}}
+* {{cog|goh|frēht|t=earnings}} (modern {{cog|de|fracht}})
+* {{cog|sv|frakt}}
+{{rel-bottom}}
 
 ====Noun====
-{{en-noun|-|s}}
+{{en-noun|-|s}} {{term-label|en|obsolete|also|figurative}}
 
-# {{lb|en|obsolete}} The [[hire]] of a ship or boat to transport [[cargo]].
-# {{lb|en|obsolete}} Money paid to hire a ship or boat to transport cargo; [[freight]]
-#: {{ux|en|'''fraught''' money}}
-# {{lb|en|obsolete}} The [[transportation]] of goods, especially in a ship or boat.
-# {{lb|en|obsolete}} A ship's [[cargo]], [[lading]] or [[freight]].
-#* {{RQ:Marlowe Jew of Malta|I|text=Well, go,<br>And bid the merchants and my men despatch,<br>And come ashore, and see the '''fraught''' discharg'd.}}
-#* {{quote-book|en|year=1596|author=w:William Shakespeare; {{w|Thomas Kyd}} ''(uncertain)''|title=[[w:Edward III (play)|Edward III]]|section=act III, scene iv|url=https://archive.org/stream/cu31924013134337|passage={{...}} And now behold after my winters toyle,<br>My paynefull voyage on the boyſtrous ſea,<br>Of warres deuouring gulphes and ſteely rocks,<br>I bring my '''fraught''' vnto the wiſhed port<br>My Summers hope, my trauels ſweet reward {{...}}}}
-# {{lb|en|Scotland}} A [[load]]; a [[burden]].
-# {{lb|en|Scotland}} Two [[bucketful]]s (of water).
+# {{lb|en|nautical}}
+## The [[hire#Noun|hire]] of a [[boat#Noun|boat]] or [[ship#Noun|ship]] to [[transport#Verb|transport]] [[cargo]].
+## [[money#Noun|Money]] [[pay#Verb|paid]] to [[hire#Verb|hire]] a [[vessel#Noun|vessel]] for this [[purpose#Noun|purpose]]; [[freight#Noun|freight]].
+##: {{hyponyms|en|boatage|shippage<q:dated>}}
+##: {{ux|en|'''fraught''' money}}
+## The [[transportation]] of [[goods]], especially in a boat or ship.
+##: {{hyponyms|en|boatage|shippage<q:dated>}}
+## A ship's cargo; freight, [[lading#Noun|lading]].
+##* {{RQ:Marlowe Jew of Malta|I|text=Well, go, / And bid the merchants and my men despatch, / And come ashore, and see the '''fraught''' discharg'd.}}
+##* {{quote-book|en|year=1596|author=w:William Shakespeare; {{w|Thomas Kyd}} ''(uncertain)''|title=[[w:Edward III (play)|Edward III]]|section=act III, scene iv|url=https://archive.org/stream/cu31924013134337|passage={{...}} And now behold after my winters toyle, / My paynefull voyage on the boyſtrous ſea, / Of warres deuouring gulphes and ſteely rocks, / I bring my '''fraught''' vnto the wiſhed port / My Summers hope, my trauels ſweet reward {{...}}}}
+# {{lb|en|obsolete|except|Scotland}}
+## [[two#Numeral|Two]] [[bucketful]]s.
+## {{lb|en|figurative}} A [[burden#Noun|burden]], a [[load#Noun|load]].
 
 =====Derived terms=====
+* {{l|en|disfraught}} {{qualifier|obsolete|rare}}
+* {{l|en|enfraught}} {{qualifier|obsolete|rare}}
 * {{l|en|fraught-free}}
 
 =====Related terms=====
 * {{l|en|freight}}
 
 ===Etymology 2===
-From {{inh|en|enm|fraghten}}, {{m|enm|fraughten}}, {{m|enm|freghten}}, from {{der|en|dum|vrachten}}, {{m|dum|vrechten}}, from the noun (see above).
+The {{glossary|verb}} is derived from {{inh|en|enm|fraughten}}, {{m|enm|fraghten}}, {{m|enm|freghten|t=to hire (a ship, etc.) for transporting goods; to load (a ship, etc.) with cargo or passengers; to store, stow away; (''figurative'') to provide an ample supply of (goods, income, etc.)}},<ref name="MED">{{R:MED Online|entry=fraughten|pos=v|id=MED17591}}</ref> from {{der|en|dum|vrachten}}, {{m|dum|vrechten}}, from {{m|dum|vracht}}, {{m|dum|vrecht|pos=noun}} (see [[#Etymology 1|etymology 1]]) + {{m|dum|-en|pos={{glossary|suffix}} forming {{glossary|infinitive}}s of verbs}}.<ref>Compare {{R:OED Online|pos=v|id=6999029489|date=July 2023}}</ref>
+
+The {{glossary|adjective}} is derived from {{inh|en|enm|fraught}}, {{m|enm|fraght|t=burdened, loaded}}, the {{glossary|past}} {{glossary|participle}} of {{m|enm|fraughten}}, {{m|enm|fraghten|pos=verb}} (see above).<ref name="MED"/><ref>{{R:OED Online|pos=adj|id=1181806093|date=December 2023|nodot=1}}; {{R:Lexico|pos=adj}}</ref>
 
 ====Verb====
 {{en-verb|||fraught|past2=fraughted}}
 
-# {{lb|en|transitive|obsolete|_|except in past participle}} To [[load]] (a ship, cargo etc.).
-#* {{RQ:Marlowe Jew of Malta|I|text=The ships are safe thou say'st, and richly '''fraught'''?}}
-# {{lb|en|intransitive|obsolete}} To form the cargo of a vessel.
-#* {{RQ:Shakespeare Tempest|text=Had I been any god of power, I would<br>Have sunk the sea within the earth, or e'er<br>It should the good ship so have swallow'd and<br>The '''fraughting''' souls within her.}}
+# {{lb|en|transitive|also|figurative}}
+## {{lb|en|nautical|obsolete}} To [[load#Verb|load]] (a [[boat#Noun|boat]], [[ship#Noun|ship]], or other [[vessel#Noun|vessel]]) with [[cargo]].
+##* {{RQ:Marlowe Jew of Malta|I|text=The ships are safe thou say'st, and richly '''fraught'''?}}
+## {{lb|en|figurative|archaic|or|obsolete}} ''Followed by'' '''[[with#Preposition|with]]''': to [[furnish#Verb|furnish]] or [[provide]] (something).
+##: {{synonyms|en|equip|supply}}
+## {{lb|en|Scotland|nautical|obsolete}} To [[hire#Verb|hire]] (a vessel) to [[transport#Verb|transport]] cargo or [[passenger]]s.
+## {{lb|en|Scotland|nautical|obsolete}} To [[transport#Verb|transport]] (cargo or passengers) in a vessel; to [[freight#Verb|freight]].
+# {{lb|en|intransitive|obsolete}} To [[form#Verb|form]] the cargo or passengers of a vessel.
+#* {{RQ:Shakespeare Tempest|text=Had I been any god of power, I would / Have sunk the sea within the earth, or e'er / It should the good ship so have swallow'd and / The '''fraughting''' souls within her.|footer=An adjective use.}}
+
+=====Translations=====
+{{trans-see|to furnish or provide (something)|furnish|provide}}
 
 ====Adjective====
 {{en-adj}}
 
-# {{lb|en|of a cargo-carrier}} [[laden|Laden]].
+# {{lb|en|nautical}} Of a [[boat#Noun|boat]], [[ship#Noun|ship]], or other [[vessel#Noun|vessel]]: [[laden#Adjective|laden]] with [[cargo]].
+#: {{antonyms|en|unfraught}}
 #* {{RQ:Shakespeare Merchant of Venice|II|viii|passage=a vessel of our country richly '''fraught'''}}
-# {{lb|en|figuratively|with ''with''}} [[loaded|Loaded]] up or [[charged]] with; accompanied by; [[entailing]].
-#* {{RQ:South Twelve Sermons|passage=a discourse '''fraught''' with all the commending excellences of speech}}
-#* {{quote-text|en|year=a. 1865|author=w:Isaac Taylor|title=Epidemic Whims
+# {{lb|en|figurative}}
+#: {{antonyms|en|unfraught}}
+## ''Followed by'' '''[[with#Preposition|with]]''': [[carry#Verb|carrying]], or [[charged#Adjective|charged]] or [[load up|loaded up]] with (usually something [[negative#Adjective|negative]]); [[accompany|accompanied]] by; [[entail#Verb|entailing]].
+##* {{RQ:South Twelve Sermons|passage=a discourse '''fraught''' with all the commending excellences of speech}}
+##* {{quote-text|en|year=a. 1865|author=w:Isaac Taylor|title=Epidemic Whims
 |passage=enterprises '''fraught''' with world-wide benefits}}
-#* {{quote-book|1=en|year=1936|author=Rollo Ahmed|title=The Black Art|publisher=Long|location=London|page=22|passage=The simplest action was '''fraught''' with danger, and could only be accomplished with the aid of talismans and counter-spells[.]}}
-#* {{quote-book|en|year=2005|author=w:Plato|title=Sophist|translator=Lesley Brown|page=236d
+##* {{quote-book|1=en|year=1936|author=Rollo Ahmed|title=The Black Art|publisher=Long|location=London|page=22|passage=The simplest action was '''fraught''' with danger, and could only be accomplished with the aid of talismans and counter-spells[.]}}
+##* {{quote-book|en|year=2005|author=w:Plato|title=Sophist|translator=Lesley Brown|page=236d
 |passage={{...}} all these matters are '''fraught''' with paradox, just as they always have been}}
-# {{lb|en|with ''with''}} Furnished, [[equipped]].
-# [[distressed|Distressed]] or causing distress, for example through [[complexity]].
-#: {{ux|en|a '''fraught''' relationship; a '''fraught''' process}}
-#* {{quote-journal|en|author=Oliver Brown| title=Oscar Pistorius jailed for five years – sport afforded no protection against his tragic fallibilities: Bladerunner's punishment for killing Reeva Steenkamp is but a frippery when set against the burden that her bereft parents, June and Barry, must carry &#91;print version: No room for sentimentality in this tragedy, 13 September 2014, p.&nbsp;S22&#93;|url=http://www.telegraph.co.uk/news/worldnews/oscar-pistorius/11089621/Oscar-Pistorius-jailed-for-five-years-sport-afforded-no-protection-against-his-tragic-fallibilities.html| work={{w|The Daily Telegraph}} (Sport)| date=21 October 2014| passage=But ever since the concept of "hamartia" recurred through Aristotle's ''Poetics'', in an attempt to describe man's ingrained iniquity, our impulse has been to identify a telling defect in those brought suddenly and dramatically low. With [[w:Oscar Pistorius|[Oscar] Pistorius]], that task is '''fraught'''.}}
-#* {{quote-journal|en|date=2022 December 14|author=Robin Leleux|title=A royal occasion as heritage projects honoured: Sudbury Hill|journal=RAIL|issue=972|page=57|text=Installing lift shafts in station buildings which were not originally designed to accommodate them can be a '''fraught''' exercise, but a necessary one if the legitimate aspiration of the travelling public for step-free access is to be achieved. At Sudbury Hill, on London Underground's Piccadilly Line extension out to the north-western suburbs, Transport for London has achieved this with aplomb.}}
+## {{lb|en|specifically}} Carrying or loaded with [[anxiety]], [[fear#Noun|fear]], or [[stress#Noun|stress]], for example, due to [[complexity]] or [[difficulty]]; [[distressed#Adjective|distressed]]; also, [[cause#Verb|causing]] [[distress#Noun|distress]]; [[distressing#Adjective|distressing]].
+##: {{collocation|en|a '''fraught''' relationship&emsp;&emsp;&emsp; a '''fraught''' process}}
+##* {{quote-journal|en|author=Oliver Brown|title=Oscar Pistorius jailed for five years – sport afforded no protection against his tragic fallibilities: Bladerunner's punishment for killing Reeva Steenkamp is but a frippery when set against the burden that her bereft parents, June and Barry, must carry [print version: No room for sentimentality in this tragedy, 13 September 2014, page&nbsp;S22]|url=http://www.telegraph.co.uk/news/worldnews/oscar-pistorius/11089621/Oscar-Pistorius-jailed-for-five-years-sport-afforded-no-protection-against-his-tragic-fallibilities.html|work={{w|The Daily Telegraph}} (Sport)|date=21 October 2014|passage=But ever since the concept of "hamartia" recurred through Aristotle's ''Poetics'', in an attempt to describe man's ingrained iniquity, our impulse has been to identify a telling defect in those brought suddenly and dramatically low. With [[w:Oscar Pistorius|[Oscar] Pistorius]], that task is '''fraught'''.}}
+##* {{quote-journal|en|date=2022 December 14|author=Robin Leleux|title=A royal occasion as heritage projects honoured: Sudbury Hill|journal=RAIL|issue=972|page=57|text=Installing lift shafts in station buildings which were not originally designed to accommodate them can be a '''fraught''' exercise, but a necessary one if the legitimate aspiration of the travelling public for step-free access is to be achieved. At Sudbury Hill, on London Underground's Piccadilly Line extension out to the north-western suburbs, Transport for London has achieved this with aplomb.}}
+## ''Followed by'' '''with''': [[furnished#Adjective|furnished]], [[provided#Adjective|provided]].
+##: {{synonyms|en|equipped|supplied}}
 
 =====Derived terms=====
-{{der2|en|fate-fraught|full-fraught}}
+{{col3|en
+|befraught
+|fate-fraught
+|{{l|en|fraughtage}} {{qualifier|obsolete}}
+|{{l|en|fraughting|pos=adjective, noun}}
+|full-fraught
+|{{l|en|overfraught|pos=adjective, verb}}
+|{{l|en|refraught}} {{qualifier|obsolete|rare}}
+|unfraught
+}}
 
 =====Translations=====
-{{trans-top|laden}}
+{{trans-top|of a boat, ship, or other vessel: laden with cargo}}
 * Armenian:  {{t-needed|hy}}
-* Bulgarian: {{t+|bg|натоварен|sc=Cyrl}}
+* Bulgarian: {{t+|bg|натоварен}}
 * Dutch: {{t+|nl|beladen}}
 * French: {{t+|fr|chargé}}
 * Galician:  {{t-needed|gl}}
@@ -75,17 +112,17 @@ From {{inh|en|enm|fraghten}}, {{m|enm|fraughten}}, {{m|enm|freghten}}, from {{de
 * Korean:  {{t-needed|ko}}
 * Norwegian:  {{t-needed|no}}
 * Portuguese: {{t+|pt|sobrecarregado}}
-* Russian: {{t+|ru|нагру́женный|sc=Cyrl}}, {{t+|ru|гру́женый|sc=Cyrl}}
+* Russian: {{t+|ru|нагру́женный}}, {{t+|ru|гру́женый}}
 * Serbo-Croatian:  {{t-needed|sh}}
 * Spanish: {{t+|es|cargado}}
 * Welsh:  {{t-needed|cy}}
 {{trans-bottom}}
 
-{{trans-top|charged or accompanied with}}
+{{trans-top|carrying, or charged or loaded up with (usually something negative)}}
 * Afrikaans:  {{t-needed|af}}
 * Arabic: {{t|ar|مَمْلُوء}}
 * Armenian:  {{t-needed|hy}}
-* Bulgarian: {{t+|bg|изпълнен|sc=Cyrl}}
+* Bulgarian: {{t+|bg|изпълнен}}
 * Dutch: {{t+|nl|beladen}}, {{t+|nl|vol}}
 * Finnish: {{t|fi|-täyteinen}}
 * French: {{t+|fr|chargé}}, {{t+|fr|plein}}, {{t+|fr|rempli}}
@@ -98,7 +135,7 @@ From {{inh|en|enm|fraghten}}, {{m|enm|fraughten}}, {{m|enm|freghten}}, from {{de
 * Norwegian: {{t+|no|full}}
 * Persian: {{t+|fa|آکنده|tr=âkande}}
 * Portuguese: {{t+|pt|repleto}}
-* Russian: {{t+|ru|по́лный|sc=Cyrl}}, {{t+|ru|преиспо́лненный|sc=Cyrl}}, {{t+|ru|чрева́тый|sc=Cyrl}}
+* Russian: {{t+|ru|по́лный}}, {{t+|ru|преиспо́лненный}}, {{t+|ru|чрева́тый}}
 * Serbo-Croatian:  {{t-needed|sh}}
 * Spanish: {{t+|es|cargado}}
 * Swedish: {{t+|sv|full}}, {{t+|sv|hell}}
@@ -106,9 +143,9 @@ From {{inh|en|enm|fraghten}}, {{m|enm|fraughten}}, {{m|enm|freghten}}, from {{de
 * Welsh:  {{t-needed|cy}}
 {{trans-bottom}}
 
-{{trans-top|distressed}}
-* Armenian:  {{t-needed|hy}}
-* Bulgarian: {{t+|bg|загрижен|sc=Cyrl}}
+{{trans-top-also|carrying or loaded with anxiety, fear, or stress|distressed}}
+* Armenian: {{t-needed|hy}}
+* Bulgarian: {{t+|bg|загрижен}}
 * Dutch: {{t+|nl|bezorgd}}
 * Finnish: {{t+|fi|huolestunut}}
 * French: {{t+|fr|stressant}}, {{t+|fr|tendu}}
@@ -119,16 +156,20 @@ From {{inh|en|enm|fraghten}}, {{m|enm|fraughten}}, {{m|enm|freghten}}, from {{de
 * Italian: {{t+|it|teso}}
 * Norwegian:  {{t-needed|no}}
 * Portuguese: {{t+|pt|problemático}}, {{t|pt|inquietante}}
-* Russian: {{t+|ru|удручённый|sc=Cyrl}}, {{t+|ru|пода́вленный|sc=Cyrl}}
+* Russian: {{t+|ru|удручённый}}, {{t+|ru|пода́вленный}}
 * Spanish: {{t+|es|angustiado}}, {{t+|es|tenso}}
 * Swedish: {{t|sv|belastad}}
 * Turkish: {{t+|tr|endişeli}}, {{t+|tr|kaygılı}}
 * Welsh:  {{t-needed|cy}}
 {{trans-bottom}}
 
+{{trans-see|causing distress|distressing}}
+
 ===References===
-* {{R:OED2}}
-* {{R:Etymonline}}
+<references/>
+
+===Further reading===
+* {{R:Online Etymology Dictionary}}
 
 [[Category:en:Emotions]]
 [[Category:en:Units of measure]]
