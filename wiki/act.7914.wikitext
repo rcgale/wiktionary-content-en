@@ -9,17 +9,17 @@
 ==English==
 {{wikipedia}}
 
-===Etymology===
-{{root|en|ine-pro|*h₂eǵ-}}
-From {{inh|en|enm|acte}}, from {{der|en|fro|acte}}, from {{der|en|la|ācta||register of events}}, plural of {{m|la|āctum||decree, law}}, from {{m|la|ago|agere|to do, to act}}, ultimately from {{der|en|ine-pro|*h₂éǵeti}}. Compare {{cog|de|Akte||file}}. Partially displaced {{m|en|deed}}, from {{noncog|ang|dǣd||act, deed}}.
-
 ===Pronunciation===
 * {{enPR|ăkt}}, {{IPA|en|/ækt/}}
 * {{a|[[:w:AAVE|AAVE]]}} {{IPA|en|/æk/}}
 * {{audio|en|en-us-act.ogg|Audio (US)}}
 * {{rhymes|en|ækt|s=1}}
 
-===Noun===
+===Etymology 1===
+{{root|en|ine-pro|*h₂eǵ-}}
+From {{inh|en|enm|acte}}, from {{der|en|fro|acte}}, from {{der|en|la|ācta||register of events}}, plural of {{m|la|āctum||decree, law}}, from {{m|la|ago|agere|to do, to act}}, ultimately from {{der|en|ine-pro|*h₂éǵeti}}. Compare {{cog|de|Akte||file}}. Partially displaced {{m|en|deed}}, from {{noncog|ang|dǣd||act, deed}}.
+
+====Noun====
 {{en-noun|~}}
 
 # {{lb|en|countable}} Something done, a [[deed]].
@@ -47,18 +47,18 @@ From {{inh|en|enm|acte}}, from {{der|en|fro|acte}}, from {{der|en|la|ācta||regi
 #: ''to put on an '''act'''''
 # {{senseid|en|act of parliament}} {{lb|en|law}} {{ellipsis of|en|act of parliament}}
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|something done}} {{l|en|deed}}; see also [[Thesaurus:action]]
 * {{sense|product of a legislative body}} {{l|en|statute}}
 * {{sense|display of behavior}} {{l|en|pretense}}
 
-====Meronyms====
+=====Meronyms=====
 * {{sense|drama}} {{l|en|scene}}
 
-====Holonyms====
+=====Holonyms=====
 * {{sense|drama}} {{l|en|play}}
 
-====Derived terms====
+=====Derived terms=====
 {{col3|en
 |actless||enabling act|juggling act
 |act of attainder
@@ -106,7 +106,7 @@ From {{inh|en|enm|acte}}, from {{der|en|fro|acte}}, from {{der|en|la|ācta||regi
 |stamp act
 }}
 
-====Related terms====
+=====Related terms=====
 {{col3|en
 |action
 |active
@@ -114,7 +114,7 @@ From {{inh|en|enm|acte}}, from {{der|en|fro|acte}}, from {{der|en|la|ācta||regi
 |agent
 }}
 
-====Translations====
+=====Translations=====
 {{trans-top|deed}}
 * American Sign Language: {{t|ase|C@SideTrunkhigh-PalmDown-C@SideTrunkhigh-PalmDown RoundVertSidetoside-RoundVertSidetoside}}
 * Arabic: {{t+|ar|عَمَل|m}}
@@ -376,7 +376,7 @@ From {{inh|en|enm|acte}}, from {{der|en|fro|acte}}, from {{der|en|la|ācta||regi
 * Lithuanian: {{t-check|lt|veika|f}}, {{t+check|lt|veiksmas|m}}
 {{trans-bottom}}
 
-===Verb===
+====Verb====
 {{en-verb}}
 
 # {{lb|en|intransitive}} To [[do]] something.
@@ -414,10 +414,10 @@ From {{inh|en|enm|acte}}, from {{der|en|fro|acte}}, from {{der|en|la|ācta||regi
 #* {{RQ:Pope Essay on Man|passage=Self-love, the spring of motion, '''acts''' the soul.}}
 # {{lb|en|obsolete|Scotland|transitive}} To [[enact]]; to [[decree]].<ref name=DSL>{{R:DSL|pos=v}}</ref>
 
-====Conjugation====
+=====Conjugation=====
 {{en-conj|old=1}}
 
-====Derived terms====
+=====Derived terms=====
 {{col3|en
 |act a fool
 |act chicken
@@ -452,7 +452,7 @@ From {{inh|en|enm|acte}}, from {{der|en|fro|acte}}, from {{der|en|la|ācta||regi
 |underreact
 }}
 
-====Related terms====
+=====Related terms=====
 {{col3|en
 |action
 |activate
@@ -460,7 +460,7 @@ From {{inh|en|enm|acte}}, from {{der|en|fro|acte}}, from {{der|en|la|ācta||regi
 |deactivate
 }}
 
-====Translations====
+=====Translations=====
 {{trans-top|to do something}}
 * Afrikaans: {{t+|af|doen}}
 * American Sign Language: {{t|ase|C@SideTrunkhigh-PalmDown-C@SideTrunkhigh-PalmDown RoundVertSidetoside-RoundVertSidetoside}}
@@ -659,6 +659,15 @@ From {{inh|en|enm|acte}}, from {{der|en|fro|acte}}, from {{der|en|la|ācta||regi
 * Spanish: {{t+check|es|actuar}}
 * Ute: {{t-check|ute|tɨ'gai}}
 {{trans-bottom}}
+
+===Etymology 2===
+{{clipping|en|actually}}.
+
+====Adverb====
+{{en-adv}}
+
+# {{lb|en|text messaging}} {{clipping of|en|actually}}
+#: {{ux|en|james did u '''act''' enjoy that juice? looked like u were gagging icl}}
 
 ===References===
 <references/>
