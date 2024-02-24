@@ -859,7 +859,7 @@ Borrowed from {{bor|sga|la|portus}}.
 
 ===Etymology===
 {{dercat|pl|la|itc-pro|ine-pro}}{{root|pl|ine-pro|*per-|id=fare}}
-{{inh+|pl|zlw-opl|port}}. {{doublet|pl|fiord|t1=fjord}}.
+{{inh+|pl|zlw-opl|port}}. {{sl|pl|en|port|senseid=computing!!networking}}. {{doublet|pl|fiord|t1=fjord}}.
 
 ===Pronunciation===
 {{pl-p|a=Pl-port.ogg|mp=+}}
@@ -867,8 +867,22 @@ Borrowed from {{bor|sga|la|portus}}.
 ===Noun===
 {{pl-noun|m-in|adj=portowy|dim=porcik}}
 
-# {{l|en|port}}, [[harbour]] {{gl|area for ships}}
-# {{l|en|port}}, a town or city containing such a place
+# {{tcl|pl|port|id=harbour}}
+# {{tcl|pl|port|id=port city}}
+# [[harbor]], [[haven]] {{gl|place of safety}}
+#: {{syn|pl|azyl|przystań|schronienie}}
+# {{senseid|pl|computing}} {{lb|pl|computing}} {{l|en|port}} {{gl|logical or physical construct in and from which data are transferred}}
+# {{senseid|pl|networking}} {{lb|pl|computing|networking}} {{l|en|port}} {{gl|number that delimits a connection for specific processes or parts of a network service}}
+# {{lb|pl|Middle Polish}} [[goal]], [[aim]] {{gl|intent of one's actions}}
+#: {{syn|pl|cel}}
+# {{lb|pl|Middle Polish}} [[harbor]], [[haven]] {{gl|one who gives a place of safety}}
+# {{lb|pl|Middle Polish}} [[gate]] {{gl|place where one enters}}
+#: {{syn|pl|wrote}}
+# {{lb|pl|Middle Polish}} [[warehouse]]
+#: {{syn|pl|magazyn|skład}}
+# {{lb|pl|Middle Polish}} {{ng|A type of [[tax]].}}
+# {{lb|pl|Middle Polish}} [[papal]] [[estate]]; {{def-uncertain|pl|undetailed=1|nohypothesis=1}}
+#* {{RQ:pl:KrowObr|page=75|izali Papieſz [...]/ niewymamił [...]/ na Ceſárzach/ [...]/ rozmáite Páńſtwá/ Kroleſthwá/ Kxięſtwá/ Powiáty/ Miáſtá/ '''Porty'''/ Zamki/ Wśi/ Cżyńſze/ Mytá/ Folwárki/ y inſze rozmáite płáty.|-}}
 
 ====Declension====
 {{pl-decl-noun-m-in}}
