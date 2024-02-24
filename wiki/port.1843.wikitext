@@ -648,6 +648,26 @@ From {{der|lld|la|portus}}.
 # [[harbour]], {{l|en|port}}
 #: {{syn|mt|marsa|q=archaic}}
 
+==Masurian==
+
+===Etymology===
+{{dercat|zlw-mas|la|itc-pro|ine-pro}}{{root|zlw-mas|ine-pro|*per-|id=fare}}
+{{inh+|zlw-mas|zlw-opl|port}}.
+
+===Pronunciation===
+* {{zlw-mas-IPA}}
+* {{hyph|zlw-mas|caption=Syllabification|port}}
+
+===Noun===
+{{zlw-mas-noun|m-in}}
+
+# {{tcl|zlw-mas|port|id=harbour}}
+
+===Further reading===
+* {{R:zlw-mas:SgOWiM|+|255|6}}
+
+{{C|zlw-mas|Ports and harbours}}
+
 ==Norman==
 
 ===Etymology===
@@ -809,17 +829,43 @@ Borrowed from {{bor|sga|la|portus}}.
 ===Further reading===
 * {{R:DIL|34476}}
 
+==Old Polish==
+
+===Etymology===
+{{dercat|zlw-opl|itc-pro|ine-pro}}{{root|zlw-opl|ine-pro|*per-|id=fare}}
+{{lbor|zlw-opl|la|portus}}. {{etydate|1471}}
+
+===Pronunciation===
+* {{zlw-opl-IPA}}
+
+===Noun===
+{{zlw-opl-noun|m}}
+
+# {{tcl|zlw-opl|port|id=harbour}}
+#* {{RQ:zlw-opl:MPKJ|V|135|1471|Applicuimus przistalischmy kv '''portu''' (inde navigantes... applicuimus Samum Act 20, 15)|Applicuimus przystalismy ku '''portu''' (inde navigantes... applicuimus Samum Act 20, 15)|-}}
+
+====Descendants====
+* {{desc|zlw-mas|port}}
+* {{desctree|pl|port}}
+
+===References===
+* {{R:pl:Bańkowski}}
+* {{R:zlw-opl:SPJSP||11500}}
+
+{{C|zlw-opl|Ports and harbours}}
+
 ==Polish==
 {{wp|lang=pl}}
 
 ===Etymology===
-Ultimately borrowed from {{der|pl|la|portus}}, from {{der|pl|ine-pro|*pértus|t=crossing}}. Compare {{cog|fr|-}} and {{cog|en|port}}. {{doublet|pl|fiord|t1=fjord}}.
+{{dercat|pl|la|itc-pro|ine-pro}}{{root|pl|ine-pro|*per-|id=fare}}
+{{inh+|pl|zlw-opl|port}}. {{doublet|pl|fiord|t1=fjord}}.
 
 ===Pronunciation===
 {{pl-p|a=Pl-port.ogg}}
 
 ===Noun===
-{{pl-noun|m-in}}
+{{pl-noun|m-in|adj=portowy|dim=porcik}}
 
 # {{l|en|port}}, [[harbour]] {{gl|area for ships}}
 # {{l|en|port}}, a town or city containing such a place
@@ -827,17 +873,29 @@ Ultimately borrowed from {{der|pl|la|portus}}, from {{der|pl|ine-pro|*pértus|t=
 ====Declension====
 {{pl-decl-noun-m-in}}
 
-====Derived terms====
-{{col-auto|pl|portowy}}
-
 ====Related terms====
-{{col-auto|pl|title=noun|awanport|aeroport}}
+{{col-auto|pl|title=noun|awanport|aeroport|port lotniczy|suchy port}}
+
+====Descendants====
+* {{desc|csb|pòrt|bor=1}}
+
+===Trivia===
+{{pl-freq 1990|11|33|10|4|6|64|1026|408|1}}
+
+===References===
+{{reflist}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
 * {{R:pl:PWN}}
+* {{R:pl:SXVI|+|89163}}
+* {{R:pl:SXVII|PORT|11994|SPas|01.10.2019}}
+* {{R:pl:SJP1807}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900||719|4}}
+* {{R:pl:NFJP}}
 
-{{C|pl|Places}}
+{{C|pl|Ports and harbours}}
 
 ==Romanian==
 
