@@ -39,18 +39,18 @@ From {{inh|sa|iir-pro|*kr̥šnás||black}}, from {{inh|sa|ine-pro|*kr̥snós||bl
 Cognate with {{cog|sla-pro|*čьrnъ}} (whence {{cog|cu|чрънъ||black}} (Glagolitic spelling {{m|cu|ⱍⱃⱏⱀⱏ}}), {{cog|ru|чёрный}}, {{cog|bg|черен}}, {{cog|mk|црн}}, {{cog|cs|černý}}, {{cog|pl|czarny}}, {{cog|sk|čierny}}), {{cog|prg|kirsnan||black}}, {{cog|lt|kir̃snas}}.
 
 ===Pronunciation===
-{{sa-IPA}}
+* {{a|Vedic}} {{IPA|sa|/kɻ̩ʂ.ɳɐ́/|/kɻ̩́ʂ.ɳɐ/}}
+{{sa-IPA|novedic=1}}
 
 ===Adjective===
-{{sa-adj}}
+{{sa-adj|tr=kṛṣṇá}}
 
 # [[black]], [[dark]], dark-blue
-#* {{Q|sa||RV|1|35|2|quote=आ '''कृ॒ष्णेन॒''' रज॑सा॒ वर्त॑मानो निवे॒शय॑न्न॒मृतं॒ मर्त्यं॑ च ।<br> हि॒र॒ण्यये॑न सवि॒ता रथे॒ना दे॒वो या॑ति॒ भुव॑नानि॒ पश्य॑न् ॥|trans=Revolving through the darkened firmament, arousing mortal and immortal, the divine Savitā travels in his golden chariot, beholding the (several) worlds.}}
+#* {{Q|sa||RV|1|35|2|quote=आ '''कृ॒ष्णेन॒''' रज॑सा॒ वर्त॑मानो निवे॒शय॑न्न॒मृतं॒ मर्त्यं॑ च ।<br> हि॒र॒ण्यये॑न सवि॒ता रथे॒ना दे॒वो या॑ति॒ भुव॑नानि॒ पश्य॑न् ॥|trans=Revolving through the '''darkened''' firmament, arousing mortal and immortal, the divine Savitā travels in his golden chariot, beholding the (several) worlds.}}
 #* {{Q|sa||RV|10|20|9|quote='''कृ॒ष्णः''' श्वे॒तो॑ऽरु॒षो यामो॑ अस्य ब्र॒ध्न ऋ॒ज्र उ॒त शोणो॒ यश॑स्वान् ।|trans=His chariot is '''black''', white, red, tawny, dark red, crimson, and glorious; the progenitor of all has given him a chariot of gold.}}
 
 ====Declension====
-{{sa-decl-noun-m}}
-{{sa-decl-noun-n}}
+{{sa-decl-adj-mfn|kṛṣṇá|kṛṣṇā́|kṛṣṇá}}
 
 ====Descendants====
 * Dardic:
@@ -113,21 +113,20 @@ Cognate with {{cog|sla-pro|*čьrnъ}} (whence {{cog|cu|чрънъ||black}} (Gla
 * {{desc|si|කෘෂ්ණ|bor=1}}
 
 ===Noun===
-{{sa-noun|tr=kṛṣṇá|g=m}}
+{{sa-noun|tr=kṛ́ṣṇa|g=m}}
 
 # [[black]] (the colour) or dark-blue
+# an [[antelope]]
+# a kind of [[animal]] feeding on carrion
 
 ====Declension====
-{{sa-decl-noun-m|kṛṣṇá}}
+{{sa-decl-noun-m|kṛ́ṣṇa}}
 
 ===Noun===
-{{sa-noun|tr=kṛ́ṣṇa|tr2=kṛṣṇá|g=m}}
+{{sa-noun|tr=kṛṣṇá|g=m}}
 
 # [[waning]] period of the [[lunar phase]] from [[full moon]] to [[new moon]]
 # the fourth or {{m|sa|कलियुग|tr=kali-yuga}}
-# an [[antelope]]
-# a kind of [[animal]] feeding on carrion
-# [[blackness]], [[darkness]]
 # the black part of the [[eye]]
 # the black spots in the [[moon]]
 # a kind of [[demon]] or [[spirit]] of darkness
@@ -136,5 +135,16 @@ Cognate with {{cog|sla-pro|*čьrnъ}} (whence {{cog|cu|чрънъ||black}} (Gla
 
 ====Declension====
 {{sa-decl-noun-m}}
+
+===Noun===
+{{sa-noun|tr=kṛṣṇá|g=n}}
+
+# [[blackness]], [[darkness]]
+
+====Declension====
+{{sa-decl-noun-n|kṛṣṇá}}
+
+===References===
+* {{R:MW|}}
 
 [[Category:sa:Colors]]
