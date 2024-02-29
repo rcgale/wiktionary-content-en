@@ -45,8 +45,8 @@ Borrowed from {{bor|en|sco|Swethin}}, {{m|sco|Swadne}} (also {{m|sco|Swaden}}), 
 * Afrikaans: {{t|af|Swede}}
 * Albanian: {{t|sq|Suedi|f}} {{qualifier|indefinite}}, {{t+|sq|Suedia|f}} {{qualifier|definite}}
 * Amharic: {{t|am|ስዊድን}}
-* Arabic: {{t+|ar|السُّوَيْد|f|tr=al-suwayd}}
-*: Hijazi Arabic: {{t|acw|السُّويد|f|m|tr=as-suwēd}}
+* Arabic: {{t+|ar|السُّوَيْد|f}} {{qualifier|definite}}
+*: Hijazi Arabic: {{t|acw|السُّويد|f|m|tr=as-suwēd}} {{qualifier|definite}}
 * Aragonese: {{t|an|Suecia|f}}
 * Armenian: {{t+|hy|Շվեդիա}}
 * Aromanian: {{t|rup|Suidii|f}} {{qualifier|indefinite}}, {{t|rup|Suidia|f}} {{qualifier|definite}}
@@ -70,16 +70,16 @@ Borrowed from {{bor|en|sco|Swethin}}, {{m|sco|Swadne}} (also {{m|sco|Swaden}}), 
 * Chechen: {{t|ce|Швеци}}
 * Cherokee: {{t|chr|ᏍᏫᏕᏂ}}
 * Chinese:
-*: Cantonese: {{t|yue|瑞典|tr=seoi6 din2}}
+*: Cantonese: {{t|yue|瑞典}}
 *: Hakka: {{t|hak|瑞典|tr=Shuì-tién}}
-*: Mandarin: {{t+|cmn|瑞典|tr=Ruìdiǎn}}
+*: Mandarin: {{t+|cmn|瑞典}}
 *: Min Nan: {{t|nan|瑞典|tr=Sūi-tián}}
 * Chuvash: {{t|cv|Швеци}}
 * Cornish: {{t|kw|Swedherwyk}}, {{t|kw|Sweden|m}}
 * Corsican: {{t|co|Svezia|f}}
 * Crimean Tatar: {{t|crh|İsveç}}
 * Czech: {{t+|cs|Švédsko|n}}
-* Danish: {{t+|da|Sverige}}
+* Danish: {{t+|da|Sverige|n}}
 * Dhivehi: {{t|dv|ސުވިޑެން}}
 * Dutch: {{t+|nl|Zweden|n}}
 * Dzongkha: {{t|dz|སུའི་ཌན}}
@@ -108,8 +108,8 @@ Borrowed from {{bor|en|sco|Swethin}}, {{m|sco|Swadne}} (also {{m|sco|Swaden}}), 
 * Haitian Creole: {{t|ht|Syèd}}
 * Hausa: {{t|ha|Suwedan}}
 * Hawaiian: {{t|haw|Kuekene}}
-* Hebrew: {{t|he|שוודיה|f|tr=sh'védya|alt=שְׁװֶדְיָה \ שְׁוֶדְיָה}}
-* Hindi: {{t+|hi|स्वीडन}}
+* Hebrew: {{t|he|שוודיה|f|tr=shvédya|alt=שְׁװֶדְיָה \ שְׁוֶדְיָה}}
+* Hindi: {{t+|hi|स्वीडन|m}}
 * Hungarian: {{t+|hu|Svédország}}
 * Icelandic: {{t+|is|Svíþjóð|f}}
 * Ido: {{t+|io|Suedia}}
@@ -117,9 +117,9 @@ Borrowed from {{bor|en|sco|Swethin}}, {{m|sco|Swadne}} (also {{m|sco|Swaden}}), 
 * Indonesian: {{t+|id|Swedia}}
 * Interlingua: {{t|ia|Svedia}}
 * Inuktitut: {{t|iu|ᔅᕗᕆᑭ}}, {{t|iu|Svuriki}}
-* Irish: {{t|ga|Sualainn|f|alt=An tSualainn}}, {{t|ga|Ríocht na Sualainne|f}}
+* Irish: {{t|ga|Sualainn|f|alt=An tSualainn}}
 * Italian: {{t+|it|Svezia|f}}
-* Japanese: {{t+|ja|スウェーデン|tr=Suwēden}}, {{t+|ja|瑞典|tr=Suwēden}}
+* Japanese: {{t+|ja|スウェーデン|tr=Suwēden}}, {{t+|ja|瑞典|tr=スウェーデン, Suwēden}}
 * Javanese: {{t|jv|Swedia}}
 * Kabardian: {{t|kbd|Шуэц}}
 * Kalmyk: {{t|xal|Сведин Нутг}}
@@ -134,7 +134,7 @@ Borrowed from {{bor|en|sco|Swethin}}, {{m|sco|Swadne}} (also {{m|sco|Swaden}}), 
 * Komi-Zyrian: {{t|kpv|Швеция}}
 * Kongo: {{t|kg|Suedi}}
 * Konkani: {{t|kok|स्विडन}}
-* Korean: {{t+|ko|^스웨덴}}, {{t+|ko|^스웨리예}} {{q|North Korea}}, {{t+|ko|^서전}} {{q|archaic}}
+* Korean: {{t+|ko|^스웨덴}}, {{t+|ko|^스웨리예}} {{q|North Korea}}, {{t+|ko|^서전(瑞典)}} {{q|archaic}}
 * Kurdish:
 *: Central Kurdish: {{t|ckb|سوید}}
 *: Northern Kurdish: {{t+|kmr|Swêd}}
@@ -143,7 +143,7 @@ Borrowed from {{bor|en|sco|Swethin}}, {{m|sco|Swadne}} (also {{m|sco|Swaden}}), 
 * Ladino: {{t|lad|Suesia}}
 * Lao: {{t+|lo|ສະວີເດັນ}}, {{t|lo|ຊູແອດ}}
 * Latgalian: {{t|ltg|Švedeja|f}}
-* Latin: {{t+|la|Suēcia|f}}
+* Latin: {{t+|la|Suēcia|f}} {{q|New Latin}}
 * Latvian: {{t|lv|Zviedrija|f}}
 * Ligurian: {{t|lij|Sveçia}}
 * Limburgish: {{t|li|Zwaede}}
@@ -160,7 +160,7 @@ Borrowed from {{bor|en|sco|Swethin}}, {{m|sco|Swadne}} (also {{m|sco|Swaden}}), 
 * Malagasy: {{t+|mg|Soeda}}
 * Malay: {{t+|ms|Sweden}}
 * Malayalam: {{t|ml|സ്വീഡന്‍}}
-* Maltese: {{t|mt|Żvezja}}
+* Maltese: {{t|mt|Żvezja|f}}, {{t|mt|Żvezja|f|alt=L-Iżvezja}} {{qualifier|definite}}
 * Manchu: {{t|mnc|ᠰᡳᡶᡳᠶ᠋ᡝᠰᠺᠣ}}
 * Manx: {{t|gv|Soolyn|f|alt=Y Toolyn}}
 * Maori: {{t|mi|Wīreni}}, {{t|mi|Huītene}}
@@ -170,7 +170,9 @@ Borrowed from {{bor|en|sco|Swethin}}, {{m|sco|Swadne}} (also {{m|sco|Swaden}}), 
 * Mazanderani: {{t|mzn|سوئد}}
 * Meänkieli: {{t|fit|Ruotti}}
 * Moksha: {{t|mdf|Шведмастор}}
-* Mongolian: {{t+|mn|Швед}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|Швед}}
+*: Mongolian: {{t|mn|ᠱᠸᠧᠳ᠋}}
 * Nahuatl: {{t|nah|Suecatlān}}
 * Nauruan: {{t|na|Sweden}}, {{t|na|Widen}}
 * Neapolitan: {{t|nap|Sguezia}}
@@ -183,13 +185,14 @@ Borrowed from {{bor|en|sco|Swethin}}, {{m|sco|Swadne}} (also {{m|sco|Swaden}}), 
 *: Nynorsk: {{t+|nn|Sverige|n}}
 * Occitan: {{t+|oc|Suècia|f}}
 * Odia: {{t|or|ସ୍ୱିଡେନ}}
-* Old Church Slavonic: {{t|cu|Свеньско}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|Свеньско|n}} {{q|modern}}
 * Old English: {{t|ang|Swēoland|n}}, {{t|ang|Swēorīċe|n}}
 * Ossetian: {{t|os|Швеци}}
 * Papiamentu: {{t|pap|Suecia}}
 * Pashto: {{t+|ps|سويډن|m|tr=swiḍán}}
 * Pennsylvania German: {{t|pdc|Schweden|n}}
-* Persian: {{t+|fa|سوئد|tr=su'ed}}
+* Persian:
 *: Dari: {{t|prs|سْوِیدَن}}, {{t|prs|سُوِیدَن}}
 *: Iranian Persian: {{t+|fa-ira|سوئِد}}
 * Piedmontese: {{t|pms|Svessia}}
@@ -197,7 +200,9 @@ Borrowed from {{bor|en|sco|Swethin}}, {{m|sco|Swadne}} (also {{m|sco|Swaden}}), 
 * Polish: {{t+|pl|Szwecja|f}}
 * Pontic Greek: {{t|pnt|Σουηδία}}
 * Portuguese: {{t+|pt|Suécia|f}}
-* Punjabi: {{t|pa|ਸਵੀਡਨ}}
+* Punjabi:
+*: Gurmukhi: {{t|pa|ਸਵੀਡਨ|m}}
+*: Shahmukhi: {{t|pa|سَوِیڈَن|m}}
 * Quechua: {{t|qu|Suysya}}
 * Rarotongan: {{t|rar|Tuitene}}
 * Romanian: {{t+|ro|Suedia|f}}
@@ -233,6 +238,7 @@ Borrowed from {{bor|en|sco|Swethin}}, {{m|sco|Swadne}} (also {{m|sco|Swaden}}), 
 * Somali: {{t|so|Sweden}}, {{t|so|Iswiidhan}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|Šwedska|f}}
+*: Upper Sorbian: {{t|hsb|Šwedska|f}}
 * Spanish: {{t+|es|Suecia|f}}
 * Sundanese: {{t|su|Swédia}}
 * Swahili: {{t+|sw|Uswidi}}
@@ -252,8 +258,7 @@ Borrowed from {{bor|en|sco|Swethin}}, {{m|sco|Swadne}} (also {{m|sco|Swaden}}), 
 * Turkmen: {{t|tk|Şwesiýa}}
 * Udmurt: {{t|udm|Швеция}}
 * Ukrainian: {{t+|uk|Шве́ція|f}}
-* Upper Sorbian: {{t|hsb|Šwedska}}
-* Urdu: {{t|ur|سویڈن|tr=svīḍan}}
+* Urdu: {{t|ur|سْوِیڈَن⁩|m}}
 * Uyghur: {{t|ug|شۋېتسىيە}}
 * Uzbek: {{t+|uz|Shvetsiya}}
 * Venetian: {{t|vec|Svezsia}}
@@ -269,7 +274,7 @@ Borrowed from {{bor|en|sco|Swethin}}, {{m|sco|Swadne}} (also {{m|sco|Swaden}}), 
 * Western Panjabi: {{t+|pnb|سویڈن}}
 * Wolof: {{t|wo|Suweed}}
 * Yakut: {{t|sah|Швеция}}
-* Yiddish: {{t|yi|שוועדן}}
+* Yiddish: {{t|yi|שוועדן|n}}
 * Yoruba: {{t|yo|Swídìn}}
 * Zazaki: {{qualifier|Southern Zazaki}} {{t+|zza|İswec}}
 * Zealandic: {{t|zea|Zweden}}
