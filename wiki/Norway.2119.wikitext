@@ -77,8 +77,8 @@ From {{inh|en|enm|Norwey}}, {{m|enm|Norweye}}, {{m|enm|Northwey}}, {{m|enm|Norwe
 * Afrikaans: {{t|af|Noorweë}}
 * Albanian: {{t|sq|Norvegji|f}} {{qualifier|indefinite}}, {{t+|sq|Norvegjia|f}} {{qualifier|definite}}
 * Amharic: {{t|am|ኖርዌይ}}
-* Arabic: {{t|ar|النُّرْوِيج|f}}, {{t|ar|النُّرْوِيج|f|tr=an-nurwēg}}, {{t|ar|نُرْوِيج|f}}, {{t|ar|نُرْوِيج|f|tr=nurwēg}}, {{t|ar|النَّرُوج|f}}, {{t|ar|نَرُوج|f}}
-*: Hijazi Arabic: {{t|acw|النُّرْويج|f|tr=an-nurwīj}}
+* Arabic: {{t|ar|النُّرْوِيج|f}} {{qualifier|definite}}, {{t|ar|النُّرْوِيج|f|tr=an-nurwēg}} {{qualifier|definite}}, {{t|ar|نُرْوِيج|f}}, {{t|ar|نُرْوِيج|f|tr=nurwēg}}, {{t|ar|النَّرُوج|f}} {{qualifier|definite}}, {{t|ar|نَرُوج|f}}
+*: Hijazi Arabic: {{t|acw|النُّرْويج|f|tr=an-nurwīj}} {{qualifier|definite}}
 * Armenian: {{t|hy|Նորվեգիա}}
 * Aromanian: {{t|rup|Nurveghii|f}} {{qualifier|indefinite}}, {{t|rup|Nurveghia}} {{qualifier|definite}}, {{t|rup|Nãrvãyii}} {{qualifier|indefinite}},  {{t|rup|Nãrvãyia}} {{qualifier|definite}}
 * Assamese: {{t|as|নৰৱে}}
@@ -120,7 +120,7 @@ From {{inh|en|enm|Norwey}}, {{m|enm|Norweye}}, {{m|enm|Northwey}}, {{m|enm|Norwe
 * Greenlandic: {{t+|kl|Norge}}
 * Hausa: {{t|ha|Norwe}}, {{t|ha|Nowe}}
 * Hawaiian: {{t|haw|Nolewai}}
-* Hebrew: {{t+|he|נורווגיה|f|tr=norvégya|alt=נורווגיה \ נוֹרְוֶגְיָה}} (cf. {{t+|he|נוֹרְבֶגְיָה|f}})
+* Hebrew: {{t+|he|נורווגיה|f|tr=norvégya|alt=נורווגיה \ נוֹרְוֶגְיָה}}
 * Hiligaynon: {{t|hil|Norwega}}
 * Hindi: {{t+|hi|नॉर्वे|m}}
 * Hungarian: {{t+|hu|Norvégia}}
@@ -142,7 +142,7 @@ From {{inh|en|enm|Norwey}}, {{m|enm|Norweye}}, {{m|enm|Northwey}}, {{m|enm|Norwe
 * Kven: {{t|fkv|Norja}}, {{t|fkv|Ruiđa}}
 * Kyrgyz: {{t|ky|Норвегия}}
 * Lao: {{t|lo|ນອກແວ}}
-* Latin: {{t|la|Norvegia|f}}
+* Latin: {{t|la|Norvegia|f}} {{qualifier|New Latin}}
 * Latvian: {{t|lv|Norvēģija|f}}
 * Limburgish: {{t|li|Nórwaeg|n}}
 * Lithuanian: {{t+|lt|Norvegija|f}}
@@ -152,12 +152,12 @@ From {{inh|en|enm|Norwey}}, {{m|enm|Norweye}}, {{m|enm|Northwey}}, {{m|enm|Norwe
 * Luxembourgish: {{t+|lb|Norwegen|n}}
 * Macedonian: {{t+|mk|Норвешка|f}}
 * Malay: {{t+|ms|Norway}}
-* Maltese: {{t|mt|Norveġja}}, {{t|mt|Norveġja|f|alt=In-Norveġja}} {{qualifier|definite}}
+* Maltese: {{t|mt|Norveġja|f|alt=In-Norveġja}} {{qualifier|definite}}
 * Manx: {{t|gv|Loghlyn}}
 * Maori: {{t|mi|Nōwei}}, {{t|mi|Norowe}}
-* Mongolian:, {{t|mn|ᠨᠣᠷᠸᠠᠢ}} {{qualifier|China}}
+* Mongolian:
 *: Cyrillic: {{t+|mn|Норвеги}}
-*: Mongolian: {{t|mn|ᠨᠣᠷᠸᠧᠭᠢ}}
+*: Mongolian: {{t|mn|ᠨᠣᠷᠸᠧᠭᠢ}}, {{t|mn|ᠨᠣᠷᠸᠠᠢ}} {{qualifier|China}}
 * Norman: {{t|nrf|Norouague|f}}
 * Northern Sami: {{t|se|Norga}}
 * Norwegian:
@@ -170,7 +170,7 @@ From {{inh|en|enm|Norwey}}, {{m|enm|Norweye}}, {{m|enm|Northwey}}, {{m|enm|Norwe
 * Ossetian: {{t|os|Норвеги}}
 * Pashto: {{t|ps|ناروې|f|tr=nārwe}}
 * Pennsylvania German: {{t|pdc|Norwegen|n}}
-* Persian: {{t+|fa|نروژ|tr=norvež}}
+* Persian:
 *: Iranian Persian: {{t+|fa-ira|نُرْوِژ⁩}}
 * Pite Sami: {{t|sje|Vuodna}}
 * Polish: {{t+|pl|Norwegia|f}}
@@ -208,7 +208,7 @@ From {{inh|en|enm|Norwey}}, {{m|enm|Norweye}}, {{m|enm|Northwey}}, {{m|enm|Norwe
 * Turkish: {{t+|tr|Norveç}}
 * Turkmen: {{t|tk|Norwegiýa}}
 * Ukrainian: {{t+|uk|Норве́гія|f}}, {{t|uk|Норве́ґія|f}}
-* Urdu: {{t|ur|نارْوے|m|tr=nārve}}, {{t|ur|نُرْوِژ|m|tr=norvež}}
+* Urdu: {{t|ur|نارْوے|m}}, {{t|ur|نُرْوِژ|m}}
 * Uyghur: {{t|ug|نورۋېگىيە}}
 * Uzbek: {{t+|uz|Norvegiya}}
 * Vietnamese: {{t+|vi|Na Uy}} ({{t|vi|挪威}})
