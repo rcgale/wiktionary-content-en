@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{bor|en|af|nek}}. {{doublet|en|neck}}.
+{{bor+|en|af|nek}}. {{doublet|en|neck}}.
 
 ===Noun===
 {{en-noun}}
@@ -23,9 +23,7 @@ From {{inh|af|nl|nek}}.
 ===Noun===
 {{af-noun|nekke}}
 
-# {{l|en|neck}}
-
-{{c|af|Anatomy}}
+# {{lb|af|anatomy}} [[neck]]
 
 ==Dutch==
 
@@ -46,19 +44,23 @@ From {{inh|nl|dum|nacke}}, {{m|dum|necke}}, from {{inh|nl|odt|*nakko}}, from {{i
 #: {{syn|nl|hals}}
 
 =====Derived terms=====
-* {{l|nl|geelnekara}}
-* {{l|nl|langnek}}
-* {{l|nl|nekken}}
-* {{l|nl|nekkramp}}
-* {{l|nl|nekschot}}
-* {{l|nl|nekslag}}
-* {{l|nl|nekvel}}
+{{col-auto|nl
+|geelnekara
+|langnek
+|nekken
+|nekkramp
+|nekschot
+|nekslag
+|nekvel
+}}
 
 =====Descendants=====
+{{top2}}
 * {{desc|af|nek}}
 * {{desc|dcr|nek}}
 * {{desc|djk|neki|bor=1|unc=1}}
 * {{desc|bor=1|pap|nèk|nek}}
+{{bottom}}
 
 ===Etymology 2===
 {{nonlemma}}
@@ -77,15 +79,13 @@ From {{inh|nl|dum|nacke}}, {{m|dum|necke}}, from {{inh|nl|odt|*nakko}}, from {{i
 From {{der|eo|la|nec}}, used in identical fashion ({{m|la|nec...nec}}). Compare {{cog|it|né}}, {{cog|fr|ni}}, {{cog|es|ni}}.
 
 ===Pronunciation===
-* {{audio|eo|LL-Q143 (epo)-Lepticed7-nek.wav|Audio:}}
-{{eo-IPA}}
+{{eo-IPA|a=LL-Q143 (epo)-Lepticed7-nek.wav}}
 
 ===Conjunction===
 {{eo-head|pos=conjunctions}}
 
 # [[neither]], [[nor]]
-#: '''nek''' ... '''nek''' ...
-#:: '''neither''' ... '''nor''' ...
+#: {{ux|eo|'''nek''' ... '''nek''' ...|'''neither''' ... '''nor''' ...}}
 #: {{ux|eo|Li estas '''nek''' altkreska '''nek''' malaltkreska.|He is '''neither''' tall '''nor''' short.}}
 #* {{quote-text|eo|year=1910|author=J. A. Mitchell|translator=Lehman Wendelld|title=La lasta Usonano|url=http://www.gutenberg.org/etext/25386
 |passage=La Usonanoj posedis '''nek''' literaturon, '''nek''' arton, '''nek''' muzikon proprajn.
@@ -97,15 +97,15 @@ From {{der|eo|la|nec}}, used in identical fashion ({{m|la|nec...nec}}). Compare 
 ==Ido==
 
 ===Etymology===
-Borrowed from {{bor|io|eo|nek}}, from {{der|io|la|nec}}.
+{{io-bor|eo=nek|la=nec}}
 
 ===Pronunciation===
-* {{IPA|io|/nek/}}
+{{io-IPA}}
 
 ===Conjunction===
 {{head|io|conjunction}}
 
-# {{l|en|neither}}, {{l|en|nor}}
+# [[neither]], [[nor]]
 
 ==Malay==
 
@@ -189,7 +189,7 @@ Akin to {{cog|ms|naik}}.
 * {{alt|sh|neka}}
 
 ===Etymology===
-{{inh+|sh|sla-pro|*nekъ}}. Compare [[Polish]] {{m|pl|niech}} and Slovak {{m|sk|nech}}.
+{{inh+|sh|sla-pro|*nekъ}}. Compare {{cog|pl|niech}} and {{cog|sk|nech}}.
 
 ===Particle===
 {{head|sh|particle}}
@@ -242,4 +242,4 @@ From {{der|wuh|cmn|-}} {{zh-l|牛|tr=-}}.
 ===Pronoun===
 {{head|yur|pronoun}}
 
-# first person singular pronoun; [[I]]
+# {{n-g|first person singular pronoun}}; [[I]]
