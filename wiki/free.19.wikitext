@@ -67,9 +67,12 @@ The verb comes from {{inh|en|enm|freen}}, {{m|enm|freoȝen}}, from {{inh|en|ang|
 ## {{lb|en|by extension|chiefly|used in advertising}} {{cap|complimentary}}.
 ##: {{ux|en|Buy a TV to get a '''free''' DVD player!}}
 # {{lb|en|abstract}} [[unconstrained|Unconstrained]].
-## {{lb|en|mathematics}} Unconstrained by [[relator]]s.
-##: {{ux|en|the '''free''' group on three generators}}
-## {{lb|en|mathematics|logic}} Unconstrained by [[quantifier]]s.
+## {{lb|en|algebra|of an [[algebraic structure]]}} {{non-gloss|In any of various technical senses}} [[generic]], [[universal]].
+### {{lb|en|most generally|category theory|of an object <math>F</math> in a [[concrete]] category, with respect to a set <math>X</math> and a map <math>i</math> from <math>X</math> to the underlying set of <math>F</math>}} Such that any map <math>f</math> from <math>X</math> to the underlying set of an object <math>A</math> in the same category as <math>F</math> induces a map <math>\bar f</math> from <math>F</math> to <math>A</math> which is compatible with <math>f</math> (i.e. such that <math>f = \bar f \circ i</math>).
+### {{lb|en|group theory|of a group}} Having a set of [[generators]] which satisfy no [[non-trivial]] [[relation]]s; equivalently, being the group of [[reduced word]]s on a set of generators.
+###: {{ux|en|The [[fundamental group]] of the [[figure eight]] is '''free''' of rank 2.}}
+### {{lb|en|[[commutative algebra]]|of a [[module]]}} Having a [[linearly independent]] set of generators (called a [[basis]]).
+## {{lb|en|logic|of a [[variable]]}} Unconstrained by [[quantifier]]s.
 ##: {{ux|en|<math>z</math> is the '''free''' variable in <math>\forall x\exists y:xy=z</math>.}}
 ##: {{ant|en|bound}}
 ## {{lb|en|programming}} Unconstrained of [[identifier]]s, not [[bound]].
