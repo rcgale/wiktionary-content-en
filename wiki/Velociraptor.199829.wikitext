@@ -10,7 +10,7 @@
 # {{taxon|genus|family|Dromaeosauridae|the [[velociraptor]] [[dinosaur]]}}
 
 ====Hypernyms====
-* {{sense|genus}} {{ll|mul|Dinosauria}}&nbsp;- superorder; [[Saurischia]]&nbsp;- order; [[Eusaurischia]]&nbsp;- taxon; [[Theropoda]]&nbsp;- suborder; [[Tetanurae]]&nbsp;- infraorder; [[Avetheropoda]], [[Coelurosauria]], [[Maniraptoriformes]], [[Eumaniraptora]], [[Deinonychosauria]]&nbsp;- taxa; [[Dromaeosauroidea]]&nbsp;- superfamily; [[Dromaeosauridae]]&nbsp;- family; [[Velociraptorinae]]&nbsp;- subfamily
+* {{sense|genus}} {{taxfmt|Dinosauria|superorder}}&nbsp;- superorder; {{taxfmt|Saurischia|order}}&nbsp;- order; {{taxfmt|Eusaurischia|clade}}&nbsp;- taxon; {{taxfmt|Theropoda|suborder}}&nbsp;- suborder; {{taxfmt|Tetanurae|infraorder}}&nbsp;- infraorder; {{taxfmt|Avetheropoda|clade}}, {{taxfmt|Coelurosauria|clade}}, [[Maniraptoriformes]], [[Eumaniraptora]], [[Deinonychosauria]]&nbsp;- taxa; [[Dromaeosauroidea]]&nbsp;- superfamily; {{taxfmt|Dromaeosauridae|family}}&nbsp;- family; {{taxfmt|Velociraptorinae|subfamily}}&nbsp;- subfamily
 
 ====Hyponyms====
 * {{sense|genus}} {{taxlink|Velociraptor mongoliensis|species}}
