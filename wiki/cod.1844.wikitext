@@ -84,7 +84,7 @@ The plural form ''cod'' has become more common than the form ''cods''.
 =====Hypernyms=====
 * {{taxlink|Anacanthini|order}}
 * {{l|en|demersal}}
-* {{ll|mul|Gadiformes}}
+* {{taxfmt|Gadiformes|order}}
 * {{l|en|whitefish}}
 
 =====Hyponyms=====
@@ -99,22 +99,22 @@ The plural form ''cod'' has become more common than the form ''cods''.
 
 =====Derived terms=====
 {{der4|en|title=terms derived from ''cod'' (fish)
-|{{vern|Antarctic cod}} (''{{ll|mul|Dissostichus mawsoni}}'' ({{ll|mul|Nototheniidae}}))
-|{{l|en|Atlantic cod}} (''{{ll|mul|Gadus morhua}}'' ({{ll|mul|Gadidae}}))
-|{{l|en|Atlantic tomcod}} (''{{ll|mul|Microgadus tomcod}}'' ({{ll|mul|Gadidae}}))
-|[[bank cod]] {{ll|mul|Nototheniidae}}
-|{{vern|barramundi cod}} ({{taxlink|Chromileptes altivelis|species}}, {{taxlink|Epinephelus altivellis|species}} ({{ll|mul|Serranidae}}))
-|{{vern|bastard cod}} ({{taxlink|Ophiodon elongatus|species}} ({{ll|mul|Hexagrammidae}}))
+|{{vern|Antarctic cod}} ({{taxfmt|Dissostichus mawsoni|species}} ({{taxfmt|Nototheniidae|family}}))
+|{{l|en|Atlantic cod}} ({{taxfmt|Gadus morhua|species}} ({{taxfmt|Gadidae|family}}))
+|{{l|en|Atlantic tomcod}} ({{taxfmt|Microgadus tomcod|species}} ({{taxfmt|Gadidae|family}}))
+|[[bank cod]] {{taxfmt|Nototheniidae|family}}
+|{{vern|barramundi cod}} ({{taxlink|Chromileptes altivelis|species}}, {{taxlink|Epinephelus altivellis|species}} ({{taxfmt|Serranidae|family}}))
+|{{vern|bastard cod}} ({{taxlink|Ophiodon elongatus|species}} ({{taxfmt|Hexagrammidae|family}}))
 |[[bay cod]]|cod liver
 |[[black cod]] ({{taxlink|Anoplopoma fimbria|species}} ({{taxlink|Anoplopomatidae|family}}))
 |{{l|en|black-arse cod}}<!--sic-->
 |{{vern|Bloomfield River cod}} ({{taxlink|Guyu wujalwujalensis|species}} ({{taxlink|Percichthyidae|family}}))
 |{{l|en|blue cod}} ({{taxlink|Parapercis colias|species}} ([[Pinguipedidae]]))
 |{{vern|bluenose cod}} ({{taxlink|Maccullochella macquariensis|species}})
-|{{vern|breaksea cod}} ({{taxlink|Epinephelides armatus|species}} ({{ll|mul|Serranidae}}))
+|{{vern|breaksea cod}} ({{taxlink|Epinephelides armatus|species}} ({{taxfmt|Serranidae|family}}))
 |{{vern|brown cod}}
-|{{vern|brown spotted reef cod}} ({{taxlink|Epinephelus chlorostigma|species}} ({{ll|mul|Serranidae}}))
-|{{vern|buffalo cod}} ({{taxlink|Ophiodon elongatus|species}} ({{ll|mul|Hexagrammidae}}))
+|{{vern|brown spotted reef cod}} ({{taxlink|Epinephelus chlorostigma|species}} ({{taxfmt|Serranidae|family}}))
+|{{vern|buffalo cod}} ({{taxlink|Ophiodon elongatus|species}} ({{taxfmt|Hexagrammidae|family}}))
 |{{l|en|Cape Cod}}
 |{{vern|chiseltooth grenadier cod}}
 |{{vern|clam cod}}
@@ -131,7 +131,7 @@ The plural form ''cod'' has become more common than the form ''cods''.
 |{{l|en|cod fishery}}, {{l|en|cod-fishery}}
 |{{l|en|cod fishing}}, {{l|en|cod-fishing}}
 |{{l|en|cod hook}}, {{l|en|cod-hook}}
-|{{vern|cod icefish}} ({{ll|mul|Nototheniidae}})
+|{{vern|cod icefish}} ({{taxfmt|Nototheniidae|family}})
 |{{l|en|Cod League}}
 |{{l|en|codlet}}
 |{{l|en|codline}}, {{l|en|cod line}}, {{l|en|cod-line}}
@@ -145,9 +145,9 @@ The plural form ''cod'' has become more common than the form ''cods''.
 |{{l|en|codsound}}, {{l|en|cod-sound}}
 |{{l|en|Cod Wars}}
 |{{vern|cod worm}} ({{taxlink|Lernaeocera branchialis|species}})
-|{{vern|common cod}} (''{{ll|mul|Gadus morhua}}'' ({{ll|mul|Gadidae}}))
+|{{vern|common cod}} ({{taxfmt|Gadus morhua|species}} ({{taxfmt|Gadidae|family}}))
 |{{l|en|coral cod}}
-|{{l|en|cultus cod}}, {{l|en|cultus-cod}} ({{taxlink|Ophiodon elongatus|species}} ({{ll|mul|Hexagrammidae}}))
+|{{l|en|cultus cod}}, {{l|en|cultus-cod}} ({{taxlink|Ophiodon elongatus|species}} ({{taxfmt|Hexagrammidae|family}}))
 |{{l|en|cured cod}}
 |{{l|en|deep-water cod}}
 |{{l|en|dry cod}}
@@ -161,15 +161,15 @@ The plural form ''cod'' has become more common than the form ''cods''.
 |[[George's cod]]
 |{{vern|gray cod}}, {{l|en|graycod}}
 |{{vern|green cod}}
-|{{l|en|Greenland cod}} ({{taxlink|Gadus ogac|species}} ({{ll|mul|Gadidae}}))
+|{{l|en|Greenland cod}} ({{taxlink|Gadus ogac|species}} ({{taxfmt|Gadidae|family}}))
 |{{vern|grenadier cod}}
 |{{vern|grey cod}}, {{l|en|greycod}}
 |{{vern|herring cod}}
-|{{vern|honeycomb rockcod}} ({{taxlink|Epinephelus chlorostigma|species}} ({{ll|mul|Serranidae}}))
+|{{vern|honeycomb rockcod}} ({{taxlink|Epinephelus chlorostigma|species}} ({{taxfmt|Serranidae|family}}))
 |{{l|en|Hook and Cod Wars}}
 |{{l|en|inshore cod}}
 |{{vern|long-finned cod}}
-|{{l|en|ling cod}}, {{l|en|lingcod}} ({{taxlink|Ophiodon elongatus|species}} ({{ll|mul|Hexagrammidae}}))
+|{{l|en|ling cod}}, {{l|en|lingcod}} ({{taxlink|Ophiodon elongatus|species}} ({{taxfmt|Hexagrammidae|family}}))
 |{{vern|lockee cod}}, {{l|en|lockee-cod}}
 |{{vern|Magellanic rockcod}}
 |{{vern|Maori cod}}
@@ -177,7 +177,7 @@ The plural form ''cod'' has become more common than the form ''cods''.
 |{{vern|Mary River cod}}
 |{{vern|morid cod}}
 |{{vern|Murray cod}}
-|{{vern|New Zealand cod}} ({{taxlink|Parapercis colias|species}} ({{ll|mul|Pinguipedidae}}))
+|{{vern|New Zealand cod}} ({{taxlink|Parapercis colias|species}} ({{taxfmt|Pinguipedidae|family}}))
 |{{vern|native cod}}
 |{{vern|night cod}}
 |{{vern|Pacific cod}}
@@ -190,7 +190,7 @@ The plural form ''cod'' has become more common than the form ''cods''.
 |{{vern|red rock cod}}
 |{{vern|reef cod}}
 |{{vern|Richmond River cod}}
-|{{l|en|rock cod}}, {{l|en|rockcod}} ({{taxlink|Lotella rhacina|species}} ({{ll|mul|Moridae}}))
+|{{l|en|rock cod}}, {{l|en|rockcod}} ({{taxlink|Lotella rhacina|species}} ({{taxfmt|Moridae|family}}))
 |{{w|Sacred Cod}}
 |[[saffron cod]] ({{taxlink|Eleginus gracilis|species}})
 |{{l|en|salt cod}}
@@ -200,20 +200,20 @@ The plural form ''cod'' has become more common than the form ''cods''.
 |{{l|en|sleepy cod}}
 |{{vern|small-headed cod}}
 |{{vern|smallscaled cod}}
-|{{vern|soft cod}} ({{taxlink|Lotella rhacina|species}} ({{ll|mul|Moridae}}))
+|{{vern|soft cod}} ({{taxlink|Lotella rhacina|species}} ({{taxfmt|Moridae|family}}))
 |{{l|en|tadpole cod}}
 |{{vern|tiger cod}}
-|{{l|en|tomcod}} (''{{ll|mul|Microgadus tomcod}}'' ({{ll|mul|Gadidae}}))
-|[[tommycod]] (''{{ll|mul|Microgadus tomcod}}'' ({{ll|mul|Gadidae}}))
+|{{l|en|tomcod}} ({{taxfmt|Microgadus tomcod|species}} ({{taxfmt|Gadidae|family}}))
+|[[tommycod]] ({{taxfmt|Microgadus tomcod|species}} ({{taxfmt|Gadidae|family}}))
 |{{vern|toothed cod}}
 |{{l|en|trout cod}} ({{taxlink|Maccullochella macquariensis|species}})
-|{{vern|true cod}} (''{{ll|mul|Gadus}}'' spp. ({{ll|mul|Gadidae}}))
+|{{vern|true cod}} ({{taxfmt|Gadus|genus}} spp. ({{taxfmt|Gadidae|family}}))
 |{{vern|unicorn cod}}, {{l|en|unicorn-cod}} ({{taxlink|Bregmaceros mcclellandi|species}})
 |{{vern|vermilion rockcod}} ({{taxlink|Sebastes miniatus|species}})
-|{{vern|white cod}} (''{{ll|mul|Gadus morhua}}'' ({{ll|mul|Gadidae}}))
-|{{vern|winter cod}} (''{{ll|mul|Microgadus tomcod}}'' ({{ll|mul|Gadidae}}))
+|{{vern|white cod}} ({{taxfmt|Gadus morhua|species}} ({{taxfmt|Gadidae|family}}))
+|{{vern|winter cod}} ({{taxfmt|Microgadus tomcod|species}} ({{taxfmt|Gadidae|family}}))
 |{{vern|worm cod}}
-|Arctic cod ({{taxlink|Arctogadus glacialis|species}}), ({{taxlink|Boreogadus saida|species}} ({{ll|mul|Gadidae}}))
+|Arctic cod ({{taxlink|Arctogadus glacialis|species}}), ({{taxlink|Boreogadus saida|species}} ({{taxfmt|Gadidae|family}}))
 |[[blue eye cod]] ({{taxlink|Hyperoglyphe antarctica|species}})
 |cod end|cod psychologist|cod psychology|cod reggae|cod-liver oil|cow cod soup|power cod}}
 
