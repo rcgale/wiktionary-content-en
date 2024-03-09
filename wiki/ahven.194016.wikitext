@@ -18,7 +18,7 @@ Cognate with {{cog|fi|ahven}}, {{cog|krl|ahven}}, {{cog|vro|ahhun'}}, {{cog|sjt|
 
 # a [[European perch]] {{q|a species of fish of the [[Percidae]] family, {{taxlink2|Perca fluviatilis|species}}}} {{rfex|et}}
 # a [[perch]] {{gloss|any fish of the genus {{taxlink2|Perca|species}}}}
-# {{lb|et|in plural}} [[Percidae]] {{gloss|taxonomic family in the order {{taxlink2|Perciformes|species}}}} {{rfquote|et}}
+# {{lb|et|in plural}} {{taxfmt|Percidae|family}} {{gloss|taxonomic family in the order {{taxlink2|Perciformes|species}}}} {{rfquote|et}}
 
 ====Declension====
 {{et-decl-õpik|ahven|a}}
@@ -42,9 +42,9 @@ From {{inh|fi|urj-fin-pro|*ahvën}}.
 ===Noun===
 {{fi-noun}}
 
-# [[European perch]], ''[[Perca fluviatilis]]''.
+# [[European perch]], {{taxfmt|Perca fluviatilis|species}}.
 # [[perch]] {{gloss|any fish in the genus ''[[Perca]]''}}
-# {{lb|fi|in plural}} [[Percidae]] {{gloss|taxonomic family in the order [[Perciformes]]}}
+# {{lb|fi|in plural}} {{taxfmt|Percidae|family}} {{gloss|taxonomic family in the order [[Perciformes]]}}
 # {{lb|fi|colloquial|in compounds}} [[bass]]
 # {{lb|fi|in compounds}} [[perciform]]; short for {{m|fi|ahvenkala||perciform fish}}, see e.g. {{m|fi|seeprakirjoahven}}
 
