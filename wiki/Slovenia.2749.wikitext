@@ -23,7 +23,7 @@
 * Abkhaz: {{t|ab|Словентәыла}}, {{t|ab|Словениа}}
 * Afrikaans: {{t|af|Slowenië}}
 * Albanian: {{t|sq|Slloveni|f}} {{qualifier|indefinite}}, {{t+|sq|Sllovenia|f}} {{qualifier|definite}}
-* Amharic: {{t|am|ስሎቬኒያ|sc=Ethi}}
+* Amharic: {{t|am|ስሎቬኒያ}}
 * Arabic: {{t|ar|سْلُوفِينِيَا|f|tr=slovēniyā}}
 *: Hijazi Arabic: {{t|acw|سلوفينيا|f|tr=slōfēnya, slōvēnya}}
 * Aramaic: {{t|arc|ܣܠܘܒܢܝܐ}}
@@ -32,13 +32,13 @@
 * Assamese: {{t|as|স্লোভেনিয়া}}
 * Asturian: {{t+|ast|Eslovenia}}
 * Azerbaijani: {{t+|az|Sloveniya}}
-* Bashkir: {{t|ba|Словения|sc=Cyrl}}
+* Bashkir: {{t|ba|Словения}}
 * Basque: {{t+|eu|Eslovenia}}
-* Belarusian: {{t|be|Славе́нія|f|sc=Cyrl}}
-* Bengali: {{t+|bn|স্লোভেনিয়া|sc=Beng}}
+* Belarusian: {{t|be|Славе́нія|f}}
+* Bengali: {{t+|bn|স্লোভেনিয়া}}
 * Breton: {{t|br|Slovenia}}
-* Bulgarian: {{t+|bg|Слове́ния|f|sc=Cyrl}}
-* Burmese: {{t|my|ဆလိုဗေးနီးယား|sc=Mymr}}
+* Bulgarian: {{t+|bg|Слове́ния|f}}
+* Burmese: {{t|my|ဆလိုဗေးနီးယား}}
 * Buryat: {{t|bua|Словени}}
 * Carpathian Rusyn: {{t|rue|Слове́нія|f}}
 * Catalan: {{t+|ca|Eslovènia}}
@@ -50,7 +50,7 @@
 * Chuvash: {{t|cv|Словени}}
 * Crimean Tatar: {{t|crh|Sloveniya}}
 * Czech: {{t+|cs|Slovinsko|n}}
-* Danish: {{t+|da|Slovenien}}
+* Danish: {{t+|da|Slovenien|n}}
 * Dhivehi: {{t+|dv|ސުލޮވީނިއާ}}
 * Dutch: {{t+|nl|Slovenië|n}}
 * Esperanto: {{t|eo|Slovenio}}, {{t|eo|Slovenujo}}
@@ -67,8 +67,8 @@
 * Greek: {{t+|el|Σλοβενία|f}}
 * Gujarati: {{t|gu|સ્લોવેનિયા}}
 * Hausa: {{t|ha|Sloveniya}}, {{t|ha|Sulobeniya}}
-* Hebrew: {{t+|he|סְלוֹבֶנְיָה|f|tr=sloveniya}}
-* Hindi: {{t+|hi|स्लोवेनिया|sc=Deva}}
+* Hebrew: {{t+|he|סְלוֹבֶנְיָה|f|tr=slovénya}}
+* Hindi: {{t+|hi|स्लोवेनिया|m}}
 * Hungarian: {{t+|hu|Szlovénia}}
 * Icelandic: {{t+|is|Slóvenía|f}}
 * Ido: {{t+|io|Slovenia}}
@@ -78,39 +78,40 @@
 * Japanese: {{t+|ja|スロヴェニア|tr=Surovenia}}, {{t+|ja|スロベニア|tr=Surobenia}}
 * Kannada: {{t+|kn|ಸ್ಲೊವೇನಿಯ}}
 * Kashubian: {{t|csb|Słoweniô|f}}
-* Kazakh: {{t+|kk|Словения|sc=Cyrl}}
+* Kazakh: {{t+|kk|Словения}}
 * Khmer: {{t|km|ស្លូវេនី}}
 * Korean: {{t+|ko|^슬로베니아}}
 * Kurdish:
 *: Northern Kurdish: {{t+|kmr|Slovenya|f}}
-* Kyrgyz: {{t|ky|Словения|sc=Cyrl}}
+* Kyrgyz: {{t|ky|Словения}}
 * Lao: {{t|lo|ສະໂລເວນີ}}
-* Latin: {{t|la|Slovenia|f}}
+* Latin: {{t|la|Slovēnia|f}} {{q|New Latin}}
 * Latvian: {{t+|lv|Slovēnija|f}}
 * Lithuanian: {{t+|lt|Slovėnija|f}}
-* Macedonian: {{t+|mk|Словенија|f|sc=Cyrl}}
+* Macedonian: {{t+|mk|Словенија|f}}
 * Malay: {{t+|ms|Slovenia}}
 * Malayalam: {{t|ml|സ്ലൊവീന്യ}}
 * Maltese: is-{{t|mt|Slovenja}}
 * Maori: {{t|mi|Horowinia}}
 * Marathi: {{t|mr|स्लोव्हेनिया}}
-* Mongolian: {{t|mn|Словени|sc=Cyrl}}
+* Mongolian:
+*: Cyrillic: {{t|mn|Словени}}
+*: Mongolian: {{t|mn|ᠰᠯᠤᠸᠧᠨ᠋ᠢ}}
 * Navajo: {{t|nv|Táʼídziilnii Bikéyah}}
 * Nepali: {{t|ne|स्लोभेनिया}}
 * Norman: {{t|nrf|Slovénie|f}}
 * Northern Sami: {{t|se|Slovenia}}
-* Norwegian: {{t+|no|Slovenia}}
+* Norwegian:
 *: Bokmål: {{t+|nb|Slovenia|n}}
+*: Nynorsk: {{t+|nn|Slovenia|n}}
 * Odia: {{t|or|ସ୍ଲୋଭେନିଆ}}
 * Old Church Slavonic:
 *: Cyrillic: {{t|cu|Словѣнїꙗ|f}} {{qualifier|modern}}
-* Pashto: {{t|ps|سلوويني|f|tr=slowení}}
-* Persian: {{t+|fa|اسلوونی|tr=esloveni}}
+* Pashto: {{t|ps|سلوويني|f|tr=sloweni}}
+* Persian:
 *: Iranian Persian: {{t+|fa-ira|اِسْلووِنی|tr=esloveni}}
 * Polish: {{t+|pl|Słowenia|f}}
-* Portuguese:
-*: Brazilian: {{t+|pt|Eslovênia|f}}
-*: European: {{t+|pt|Eslovénia|f}}
+* Portuguese: {{t+|pt|Eslovénia|f}} {{q|European}}, {{t+|pt|Eslovênia|f}} {{q|Brazilian}}
 * Punjabi:
 *: Gurmukhi: {{t|pa|ਸਲੋਵੇਨੀਆ|m}}
 * Quechua: {{t|qu|Isluwinya}}
@@ -119,11 +120,11 @@
 * Samogitian: {{t|sgs|Slovienėjė|f}}
 * Scots: {{t|sco|Slovenie}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|Сло̀ве̄нија|f|sc=Cyrl}}
+*: Cyrillic: {{t|sh|Сло̀ве̄нија|f}}
 *: Roman: {{t+|sh|Slòvēnija|f}}
 * Shan: {{t|shn|မိူင်းသလူဝ်ႇဝေးၼီးယႃး}}
 * Silesian: {{t|szl|Słowyńijo|f}}
-* Sinhalese: {{t|si|ස්‍ලොවෙනියාව|sc=Sinh}}
+* Sinhalese: {{t|si|ස්‍ලොවෙනියාව}}
 * Slovak: {{t|sk|Slovinsko}}
 * Slovene: {{t+|sl|Slovénija|f}}
 * Sorbian:
@@ -133,24 +134,24 @@
 * Swahili: {{t+|sw|Slovenia}}
 * Swedish: {{t+|sv|Slovenien|c}}
 * Tagalog: {{t|tl|Eslobenya}}, {{t|tl|Islobenya}}
-* Tajik: {{t|tg|Словения|sc=Cyrl}}
+* Tajik: {{t|tg|Словения}}
 * Tamil: {{t|ta|சுலோவீனியா}}
-* Tatar: {{t|tt|Словения|sc=Cyrl}}
+* Tatar: {{t|tt|Словения}}
 * Telugu: {{t|te|స్లోవేనియా}}
 * Thai: {{t+|th|สโลวีเนีย}}
 * Tibetan: {{t|bo|སི་ལོ་ཝེ་ནི་ཡ}}
 * Tigrinya: {{t|ti|ስሎቬኒያ}}
 * Turkish: {{t+|tr|Slovenya}}
 * Turkmen: {{t|tk|Sloweniýa}}
-* Ukrainian: {{t+|uk|Слове́нія|f|sc=Cyrl}}
-* Urdu: {{t|ur|سلووینیا|tr=sloveniyā|sc=ur-Arab}}, {{t|ur|سْلووینِیا⁩|m}}
+* Ukrainian: {{t+|uk|Слове́нія|f}}
+* Urdu: {{t|ur|سْلووینِیا⁩|m}}
 * Uyghur: {{t|ug|سلوۋېنىيە}}
 * Uzbek: {{t+|uz|Sloveniya}}
 * Vietnamese: {{t|vi|Xlô-ven-ni-a}}
 * Võro: {{t|vro|Sloveeniä}}
 * West Frisian: {{t+|fy|Sloveenje}}
 * Yakut: {{t|sah|Словения}}
-* Yiddish: {{t|yi|סלאָוועניע}}
+* Yiddish: {{t|yi|סלאָוועניע|f}}
 * Yoruba: {{t|yo|Silofania}}
 * Zhuang: {{t|za|Slovenia}}
 {{trans-bottom}}
