@@ -193,7 +193,7 @@ The Min native word for “person”; used as a replacement character for {{l|zh
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=1|rs=人00}}
+{{ja-kanji}}
 
 ====Readings====
 {{ja-readings
@@ -221,6 +221,8 @@ The Min native word for “person”; used as a replacement character for {{l|zh
 {{IPAfont|⟨pi<sub>1</sub>to<sub>2</sub>⟩}} → {{IPAfont|*/pʲitə/}} → {{IPAfont|/fito/}} → {{IPAfont|/hito/}} → {{IPAfont|/çito/}}
 
 From {{inh|ja|ojp|-}}, from {{inh|ja|jpx-pro|*pitə}}.
+
+First attested in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref>{{R:Nihon Kokugo Daijiten Concise}}</ref>
 
 ====Pronunciation====
 {{ja-pron|ひと|acc=0|dev=1|acc_ref=NHK,SMK5,DJR}}
@@ -301,8 +303,8 @@ From {{inh|ja|ojp|-}}, from {{inh|ja|jpx-pro|*pitə}}.
 # {{lb|ja|archaic}} {{n-g|[[second person|second-person]] [[personal pronoun]]}}: [[you]]
 
 ===Etymology 2===
-{{ja-kanjitab|yomi=goon|にん}}
-''[[呉音|Go-on]]'' borrowing from {{der|ja|ltc-ear|-}} {{ltc-l|人}}. Compare {{w|Shanghainese}} ''nyin''.
+{{ja-kanjitab|にん|y=goon}}
+From {{der|ja|ltc-ear|-|sort=にん}} {{ltc-l|人}}. The ''{{glink/ja|goon}}'' reading, so likely the initial borrowing. Compare {{w|Shanghainese}} ''nyin''.
 
 ====Pronunciation====
 {{ja-pron|にん|acc=1}}
@@ -350,8 +352,8 @@ From {{inh|ja|ojp|-}}, from {{inh|ja|jpx-pro|*pitə}}.
 # [[man]]
 
 ===Etymology 3===
-{{ja-kanjitab|じん|yomi=kanon}}
-''[[漢音|Kan-on]]'' borrowing from {{der|ja|ltc-lat|人}}; compare {{cog|cmn|人|tr=rén}}.
+{{ja-kanjitab|じん|y=kanon}}
+From {{der|ja|ltc-lat|-|sort=じん}} {{ltc-l|人}}. The {{glink/ja|kan'on}} reading, so likely a later borrowing. Compare {{cog|cmn|人|tr=rén}}.
 
 ====Pronunciation====
 {{ja-pron|じん|acc=1|acc_ref=DJR}}
@@ -449,11 +451,11 @@ There is one notable exception:
 {{ja-pos|affix|じん}}
 
 # [[man]]
-# {{short for|ja|人造|tr=jinzō|nodot=1}}: [[artificial]], [[synthetic]]
+# {{short for|ja|人造|tr=jinzō|nodot=1|sort=じん}}: [[artificial]], [[synthetic]]
 
 ===Etymology 4===
 {{ja-kanjitab|り|yomi=i}}
-From {{inh|ja|ojp|-}}. The proto-form may have been ''-ri'' or ''-tari'', see {{m|ja|二人|tr=futari|lit=two people}}.
+From {{inh|ja|ojp|-}}. The [[protoform]] may have been ''-ri'' or ''-tari'', see {{m|ja|二人|tr=futari|lit=two people}}.
 
 ====Counter====
 {{ja-pos|counter|り}}
