@@ -65,7 +65,7 @@
 * Estonian: {{tt+|et|Malta}}
 * Faroese: {{tt|fo|Malta|n}}
 * Finnish: {{tt+|fi|Malta}}
-* French: {{tt+|fr|Malte}}
+* French: {{tt+|fr|Malte|f}}
 * Friulian: {{tt|fur|Malte|f}}
 * Galician: {{tt+|gl|Malta|f}}
 * Georgian: {{tt+|ka|მალტა}}
@@ -97,7 +97,7 @@
 * Ladin: {{t-needed|lld}}
 * Ladino: {{t-needed|lad}}
 * Lao: {{tt|lo|ມານ}}, {{tt|lo|ປະເທດມານ}}, {{t|lo|ມານຕາ}}
-* Latin: {{tt+|la|Melita}}
+* Latin: {{tt+|la|Melita|f}}
 * Latvian: {{tt|lv|Malta|f}}
 * Lithuanian: {{tt+|lt|Malta|f}}
 * Luhya: {{tt|luy|Malta}}
@@ -111,22 +111,22 @@
 * Marathi: {{tt|mr|माल्टा}}
 * Meru: {{tt|mer|Malta}}
 * Mongolian:
-*: Cyrillic: {{tt|mn|Мальт}}
+*: Cyrillic: {{tt|mn|Мальта}}
 * Nepali: {{t|ne|माल्टा}}
 * Norman: {{tt|nrf|Malte|f}}
 * Northern Sami: {{tt|se|Malta}}
 * Norwegian:
-*: Norwegian Bokmål: {{tt+|nb|Malta|n}}
-*: Norwegian Nynorsk: {{tt+|nn|Malta|n}}
+*: Bokmål: {{tt+|nb|Malta|n}}
+*: Nynorsk: {{tt+|nn|Malta|n}}
 * Occitan: {{tt+|oc|Malta|f}}
 * Odia: {{t|or|ମାଲଟା}}
 * Old Church Slavonic:
 *: Cyrillic: {{t|cu|Малта|f}} {{qualifier|modern}}
 * Ossetian: {{t|os|Мальтӕ}}
 * Pashto: {{t|ps|مالتا|f|tr=māltā}}
-* Persian: {{tt+|fa|مالت|tr=mâlt}}
-*: Dari: {{t|prs|مَالْتَا}}
-*: Iranian Persian: {{t+|fa-ira|مالْت}}
+* Persian:
+*: Dari: {{tt|prs|مَالْتَا}}
+*: Iranian Persian: {{tt+|fa-ira|مالْت}}
 * Polish: {{tt+|pl|Malta|f}}
 * Portuguese: {{tt+|pt|Malta|f}}
 * Punjabi:
@@ -158,7 +158,7 @@
 * Turkish: {{tt+|tr|Malta}}
 * Turkmen: {{tt|tk|Malta}}
 * Ukrainian: {{tt+|uk|Ма́льта|f}}
-* Urdu: {{tt|ur|مالْٹا|m|tr=mālṭā}}
+* Urdu: {{tt|ur|مالْٹا|m}}
 * Uyghur: {{t|ug|مالتا}}
 * Uzbek: {{tt+|uz|Malta}}
 * Veps: {{t-needed|vep}}
@@ -183,16 +183,16 @@
 * Chinese:
 *: Mandarin: {{tt|cmn|[[馬耳他]][[島]]|tr=Mǎ'ěrtā dǎo}}
 * Czech: {{tt+|cs|Malta|f}}
-* Danish: {{tt+|da|Malta}}
-* Dutch: {{tt+|nl|Malta}}
+* Danish: {{tt+|da|Malta|n}}
+* Dutch: {{tt+|nl|Malta|n}}
 * Esperanto: {{tt+|eo|Malto}}
 * Estonian: {{tt+|et|Malta}}
 * Faroese: {{tt|fo|Malta|f}}
 * Finnish: {{tt+|fi|Malta}}
-* French: {{tt+|fr|Malte}}
+* French: {{tt+|fr|Malte|f}}
 * Galician: {{tt+|gl|Malta}}
 * Georgian: {{tt+|ka|მალტა}}
-* German: {{tt+|de|Malta}}
+* German: {{tt+|de|Malta|n}}
 * Greek: {{tt+|el|Μάλτα|f}}
 *: Ancient: {{tt|grc|Μελίτη|f}}
 * Hebrew: {{tt+|he|מַלְטָה|f|tr=maltá}}
@@ -210,10 +210,12 @@
 * Norman: {{tt|nrf|Malte|f}}
 * Northern Sami: {{tt|se|Malta}}
 * Norwegian:
-*: Bokmål: {{tt+|nb|Malta}}
-*: Nynorsk: {{tt+|nn|Malta}}
+*: Bokmål: {{tt+|nb|Malta|n}}
+*: Nynorsk: {{tt+|nn|Malta|n}}
 * Ottoman Turkish: {{tt|ota|مالطه|tr=malte}}
-* Persian: {{tt+|fa|مالت|tr=mâlt}}
+* Persian:
+*: Dari: {{tt|prs|مَالْتَا}}
+*: Iranian Persian: {{tt+|fa-ira|مالْت}}
 * Polish: {{tt+|pl|Malta|f}}
 * Portuguese: {{tt+|pt|Malta|f}}
 * Romanian: {{tt+|ro|Malta|f}}
@@ -230,12 +232,12 @@
 * Swedish: {{tt+|sv|Malta|n}}
 * Thai: {{tt+|th|มอลตา}}
 * Turkish: {{tt+|tr|Malta}}
-* Urdu: {{tt|ur|مالْٹا|m|tr=mālṭā}}
+* Urdu: {{tt|ur|مالْٹا|m}}
 }}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Ido: {{tt+|io|Malta}}
+* Ido: {{t+check|io|Malta}}
 {{trans-bottom}}
 
 ===See also===
