@@ -56,7 +56,7 @@
 
 From {{inh|ja|ojp|-}}. Cognate with {{cog|mvi|にか|tr=nika|pos={{w|Tarama, Okinawa|Tarama}} and {{w|Minna Island (Tarama, Okinawa)|Minna}} dialects|t=cat}} via unknown Japonic substratum.
 
-A comparison of accent patterns between the dialects shows some confusion:<ref name="GNHD">{{R:Hirayama et al 1992-1994|pages=3847-3849}}</ref>
+A comparison of accent patterns between the dialects shows some confusion (see dialectal data):
 * One group of dialects behaves as if <LF> was the Heian Kyoto accent pattern: many dialects with the Tokyo type accent, including the standard Japanese in Tokyo, pronounce this word with an <HL-L> pitch pattern, and in some non-mainstream Keihan type dialects as well, this word has a corresponding <LF> pitch pattern.
 * Another group of dialects behaves as if <LL> was the Heian Kyoto accent pattern: the mainstream Keihan type dialects pronounce this word with an <HL> pitch pattern, and in a few of the Tokyo type dialects, this word has a corresponding <LH-L> pitch pattern.
 
@@ -64,13 +64,80 @@ As a result, this term is one example of words that have the same pitch accent p
 
 One theory explains that ''neko'' is shortened from earlier {{ja-r|猫|linkto=猫#Japanese:_nekoma|ねこま}}, but ''neko'' has a first appearance in literature earlier than that for ''nekoma''.
 
-First attested in the {{m|ja||新訳華厳経音義私記|tr={{w|Shin'yaku Kegonkyō Ongi Shiki}}}} of 794.
+First attested in the {{m|ja||新訳華厳経音義私記|tr={{w|Shin'yaku Kegonkyō Ongi Shiki}}}} of 794.<ref name="JDB">{{R:JDB|page=559}}</ref>
 
 :{{RQ:Shin'yaku Kegonkyō Ongi Shiki}}
 : {{ux|ja|猫狸 [...] ニ又漢云野貍、倭言上'''尼古'''、下多〻既|Cat and raccoon dog, [...] both of them are called {{m|ja||野貍|tr=yari}} in Chinese; the former is called {{m|ja||'''尼古'''|tr={{IPAfont|⟨neko<sub>1</sub>⟩}} → neko}} while the latter is called {{m|ja|狸|多〻既|tr={{IPAfont|⟨tatake<sub>2</sub>⟩}} → tatake}} in Japanese.}}
 
 ====Pronunciation====
-{{ja-pron|ねこ|acc=1|acc_ref=DJR,NHK|a=Ja-neko-anglonative.oga}}
+{{ja-pron|ねこ|acc=1|acc_ref=<ref name="KDJ2O">{{R:Nihon Kokugo Daijiten 2 Online|ね‐こ 【猫】|lid=200203402ba3i88350md|kotobank=猫}}</ref>,DJR,NHK|a=Ja-neko-anglonative.oga}}
+{{ja-dialectdata
+|Hokkaido=ne⸢ko⸣
+|Rebun=ne̞⸢gô
+|Aomori=ne̞⸢gô
+|Hirosaki=ne̞⸢gô
+|Hachinohe=ne̞⸣go
+|Iwate=ne̞⸣go
+|Ashiro=ne̞⸢go⸣
+|Miyagi=ne̞go
+|Akita=ne̞⸣go
+|Kawabe=ne̞⸣go
+|Yamagata=ne̞go
+|Fukushima=ne̞go
+|Aizu=ne̞go
+|Ibaraki=ne̞go
+|Tochigi=neko
+|Gunma=ne⸣ko
+|Saitama=ne⸣ko
+|Chiba=ne⸣go
+|Sodegaura=neko
+|Tokyo=ne⸣ko
+|Okutama=ne⸣ko
+|Kanagawa=ne⸣ko
+|Niigata=ne⸣ko
+|Sado=⸢neko
+|Toyama=ne⸢ko⸣
+|Gokayama=ne⸢ko⸣
+|Ishikawa=ne⸢ko
+|Nanao=ne⸢ko ~ ne⸢go
+|Fukui=neko ~ nekome (vulgar)
+|Yamanashi=ne⸣ko
+|Nagano=ne⸣ko
+|Akiyama=ne⸣ko
+|Gifu=ne⸣ko
+|Shizuoka=ne⸣ko
+|Aichi=ne⸣ko
+|Mie=ne⸢ko⸣
+|Shiga=ne⸣ko
+|Kyoto=ne⸣ko
+|Osaka=ne⸣ko
+|Kishiwada=ne⸣ko
+|Hyogo=ne⸢kô
+|Nara=ne⸣ko
+|Totsugawa=ne⸢ko⸣
+|Wakayama=ne⸣ko
+|Tottori=ne⸣ko ~ ⸢ɲaːko (childish)
+|Shimane=ne̞⸢ko⸣
+|Okayama=ne⸣ko
+|Hiroshima=ne⸣ko
+|Yuki=ne⸣ko
+|Yamaguchi=ne⸣ko
+|Tokushima=ne⸣ko
+|Kagawa=ne⸢kô
+|Ehime=ne⸢ko⸣
+|Oshu=neko
+|Kochi=ne⸢ko⸣
+|Fukuoka=ne⸣ko
+|Saga=⸣neko
+|Nagasaki=ne⸢ko⸣
+|Fukue=neko
+|Kumamoto=ne⸢ko⸣
+|Oita=ne⸣ko
+|Miyazaki=ɲeko
+|Kagoshima=ne⸢ko⸣|
+Koshiki=ne⸢ko⸣
+|other=Ishikawa, Tottori {{m|ja|2=|3=ニコ|tr=niko}}, Kagoshima {{m|ja|2=|3=ネゴ|tr=nego}}, Chiba {{m|ja|2=|3=ネコ゚|tr=ne'ngo}}, Tokushima {{m|ja|2=|3=ネコー|tr=nekō}}<ref name="KDJ2O"/>
+}}
 
 ====Noun====
 {{ja-noun|count=匹|ねこ|ネコ}}
@@ -114,22 +181,24 @@ First attested in the {{m|ja||新訳華厳経音義私記|tr={{w|Shin'yaku Kegon
 
 ===Etymology 2===
 {{etymid|ja|nekoma}}
-{{ja-kanjitab|yomi=k|ねこま}}
+{{ja-kanjitab|yomi=k|ねこま|alt=猫ま}}
 
 According to the {{m|ja||{{w|ja|和名類聚抄}}|tr={{w|Wamyō Ruijushō}}}}, 931–938, {{ja-r|猫|linkto=猫#Japanese:_neko|ねこ}} is short for this word.
 : {{RQ:Wamyō Ruijushō|7|56}}
-: {{ux|ja|猫: 野王案、猫、音苗、'''禰古麻'''、下總本有和名二字興河海抄引此合、本草和名同訓、或省云禰古、新撰字鏡、狸、禰古、按狸一名猫、見本草和名、似虎而小、熊捕鼠為糧|t=Cat. Recorded as a long jewel. The Chinese reading is myō; [in Japanese it is read as] ''nekoma''. <sub>''(please add a translation of the rest of this usage example) {{attn|ja|please do this}}''</sub>}}
+: {{ux|ja|猫: 野王案、猫、音苗、'''禰古麻'''、下總本有和名二字興河海抄引此合、本草和名同訓、或省云禰古、新撰字鏡、狸、禰古、按狸一名猫、見本草和名、似虎而小、熊捕鼠為糧|t=Cat. Recorded as a long jewel. The Chinese reading is myō; [in Japanese it is read as] ''nekoma''. {{sub|(please add a translation of the rest of this usage example) {{attn|ja|please do this}}''}} }}
 
-One theory describes the first [[mora]] <ne> as [[onomatopoeia]] for the sound a cat makes (cf. {{ja-r|にゃ}}; compare {{noncog|en|[[mew]], [[meow]]}}). The last two morae <ko<sub>1</sub>ma> might accord with {{ja-r|熊|くま|bear}} if it were from Proto-Japonic ''*kòmà'', in the sense of "four-legged animal". {{rfv-etym|ja}}
-The Heian Kyoto accent of this word is <LHL>; note that in compound words for species names, the pitch pattern may be simplised to <-HL> when the final element is a 2-mora noun {{rfv-etym|ja}}, and the presence or absence of this phenomenon could explain the accent confusion in ''neko''.
+One theory describes the first [[mora]] <ne> as [[onomatopoeia]] for the sound a cat makes (cf. {{ja-r|にゃ}}; compare {{noncog|en|[[mew]], [[meow]]}}). The last two morae <ko<sub>1</sub>ma> might accord with {{ja-r|熊|くま|bear}} if it were from {{m+|jpx-pro|*koma|pos=class 2.3 <LL>}}, in the sense of "four-legged animal". The Heian Kyoto accent of this word is <LHL>; note that in compound words for species names, the pitch pattern may be simplised to <-HL> when the final element is a 2-mora noun {{rfv-etym|ja}}, and the presence or absence of this phenomenon could explain the accent confusion in ''neko''.
 {{rfv-etym|ja}}
 
-However, ''nekoma'' is first cited to 918 in the {{m|ja||{{w|lang=ja|本草和名}}|tr=Honzō Wamyō|pos=the oldest surviving dictionary of medicine in Japan}},<ref name="KDJ2-nekoma">{{R:Nihon Kokugo Daijiten 2|猫ま}}</ref> while [[猫#Japanese:_neko|''neko'']] is first attested in 794.
+However, ''nekoma'' is first cited to 918 in the {{m|ja||{{w|lang=ja|本草和名}}|tr=Honzō Wamyō|pos=the oldest surviving dictionary of medicine in Japan}},<ref name="KDJ2o-nekoma"/> while [[猫#Japanese:_neko|''neko'']] is first attested in 794.
 : {{RQ:Honzō Wamyō}}
 : {{ux|ja|家狸、一名猫、和名'''禰古末'''|t=A house raccoon; also called a cat; the Japanese name is ''nekoma''.}}
 
 ====Pronunciation====
 {{ja-pron|ねこま}}
+{{ja-dialectdata|disable=1|other=Gifu (Hida) {{m|ja|2=|3=ねこま|tr=nekoma|t=a backpack made with the skin or straw of {{m|ja|檜|tr=hinoki|t=cypress tree}}}}<ref name="KDJ2o-nekoma">{{R:Nihon Kokugo Daijiten 2 Online|ねこ‐ま 【猫─】|lid=20020340afc3z5F8P39w|kotobank=猫ま}}</ref><ref name="NHDJ">{{R:Nihon Hōgen Daijiten Online|ねこ【猫】|lid=20100LD01247900}}</ref>
+}}
+<!--Do not be tricked by the reference title! （1）檜の皮やわらで編んだ、一種の背囊。長野県下伊那郡054／愛知県南設楽郡054《ねこがき》 岩手県九戸郡011 《ねこざ》 岐阜県飛驒 502／ 郡上郡 504／ 静岡県周智郡・磐田郡 521／ 愛知県北設楽郡 011 《ねこだ》 飛驒 ※094／ 富山県婦負郡 054／ 福井県大野郡 438／ 長野県 054／ 岐阜県飛驒 502／ 郡上郡 504／ 愛知県南設楽郡 054／ 奈良県吉野郡 685 《ねこま》 岐阜県飛驒 502 -->
 
 ====Noun====
 {{ja-noun|ねこま}}
