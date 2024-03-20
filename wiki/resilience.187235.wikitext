@@ -15,17 +15,23 @@ From {{suffix|en|[[resilio#Latin|resilio]]|ence}}, from {{uder|en|la|resiliō||t
 # {{lb|en|psychology|neuroscience}} The mental ability to recover quickly from [[depression]], [[illness]] or [[misfortune]].
 # {{lb|en|physics}} The physical property of material that can resume its shape after being [[stretched]] or [[deformed]]; [[elasticity]].
 # The positive capacity of an organizational system or company to adapt and return to equilibrium after a crisis, failure or any kind of disruption, including: an [[outage]], natural disasters, man-made disasters, terrorism, or similar (particularly [[IT]] systems, [[archive]]s).
+#: {{ant|en|fragility|brittleness}}
+#: {{cot|en|adaptability|adaptiveness|antifragility|flexibility}}
 #* {{quote-journal|en|date=2023 October 18|title=Network News: Carmont: NR pays nearly £1m in out-of-court settlements|journal=RAIL|issue=994|page=15|text=Network Rail previously said it is determined to build upon the "significant changes" it has made since the accident, which have "helped us to manage the risk of severe weather to the network". It has invested millions to improve the '''resilience''' of the railway.}}
-# The capacity to resist destruction or defeat, especially when under extreme pressure.
+# {{lb|en|literal|or|figurative}} The capacity to resist destruction or defeat, especially when under extreme pressure.
+#: {{ant|en|fragility|brittleness}}
+#: {{cot|en|antifragility|toughness}}
 
 ====Derived terms====
-* [[rebound resilience]]
+* {{l|en|rebound resilience}}
 
 ====Related terms====
-* {{l|en|resile}}
-* {{l|en|resiliency}}
-* {{l|en|resilient}}
-* {{l|en|result}}
+{{col3|en
+|resile
+|resiliency
+|resilient
+|result
+}}
 
 ====Translations====
 {{trans-top|mental ability}}
@@ -92,7 +98,10 @@ From {{suffix|en|[[resilio#Latin|resilio]]|ence}}, from {{uder|en|la|resiliō||t
 {{trans-bottom}}
 
 ====See also====
-* {{l|en|sustainability}}
+{{col3|en
+|self-sufficiency
+|sustainability
+}}
 
 ===Further reading===
 * {{pedia}}
