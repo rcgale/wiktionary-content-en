@@ -182,12 +182,13 @@ Alternatively, {{zh-ref|Gong (1995)}} reconstructs {{cog|och|-}} ''*hljədx'' an
 * {{thcwd|823}}
 * {{R:zh:SinicaGlyph|147}}
 
-<!--{{zh-cat|Water|Beginning|Inorganic compounds}}-->[[Category:zh:Water|水00]][[Category:Beginning Mandarin|水00]][[Category:zh:Inorganic compounds|水00]]
+{{cat|cmn|Beginning Mandarin}}
+{{C|zh|Inorganic compounds|Water}}
 
 ==Japanese==
 
 ===Kanji===
-{{ja-kanji|grade=1|rs=水00}}
+{{ja-kanji}}
 
 ====Readings====
 {{ja-readings
@@ -222,6 +223,8 @@ Alternatively, {{zh-ref|Gong (1995)}} reconstructs {{cog|och|-}} ''*hljədx'' an
 
 From {{inh|ja|ojp|-}}, from {{inh|ja|jpx-pro|*mentu}}. Ryukyuan cognates support the existence of the first vowel having an initial mid vowel.
 
+First attested in the ''{{w|Kojiki}}'' of 712 {{CE}}.<ref name="NKD">{{R:Nihon Kokugo Daijiten Concise}}</ref>
+
 Possibly cognate with {{m|ja|瑞||tr=mizu|[[freshness]], [[youth]]}}.
 
 Possible cognate with {{cog|tuw-pro|*mū}}, {{cog|juc|木克|tr=mu-ke|ts=muke}}, {{cog|mnc|ᠮᡠᡴᡝ|tr=muke}}, {{cog|zkg|買||tr=*me|river; water}}, {{cog|mn|мөрөн||tr=mörön|river}}, {{cog|ko|물||tr=mul|water}}.
@@ -245,7 +248,7 @@ Possible cognate with {{cog|tuw-pro|*mū}}, {{cog|juc|木克|tr=mu-ke|ts=muke}},
 # {{lb|ja|sumo}} {{short for|ja|力水|tr=chikara mizu|dot=:}} water [[offer]]ed to [[sumo]] [[wrestler]]s before a [[bout]]
 
 ====Usage notes====
-Note that, while ''mizu'' is the most general Japanese term for “{{m|en|water}}”, it does refer specifically to “{{m|en|[[water]] that is not [[hot]]}}”.  Meanwhile, the word {{m|ja|湯|tr=yu}} refers specifically to “{{m|en|hot water}}”.  Consider {{m|ja|水風呂||tr=mizu-buro|[[cold]]-[[water]] [[bath]]}}, contrasting with {{m|ja|風呂||tr=furo|pos=implying hot water|[[bath]]}}.
+* Note that, while ''mizu'' is the most general Japanese term for “{{m|en|water}}”, it does refer specifically to “{{m|en|[[water]] that is not [[hot]]}}”.  Meanwhile, the word {{m|ja|湯|tr=yu}} refers specifically to “{{m|en|hot water}}”.  Consider {{m|ja|水風呂||tr=mizu-buro|[[cold]]-[[water]] [[bath]]}}, contrasting with {{m|ja|風呂||tr=furo|pos=implying hot water|[[bath]]}}.
 
 =====Derived terms=====
 {{der-top3}}
@@ -360,14 +363,14 @@ Note that, while ''mizu'' is the most general Japanese term for “{{m|en|water}
 {{ja-kanjitab|み|yomi=k}}
 {{IPAfont|⟨mi<sub>1</sub>⟩}} → *{{IPAchar|/mʲi/}} → {{IPAchar|/mi/}}
 
-From {{inh|ja|ojp|-|sort=み}}.
+From {{inh|ja|ojp|-}}.
 
-Typically found in compounds.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+Typically found in compounds.<ref name="NKD"/>
 
 ====Affix====
 {{ja-pos|affix|み}}
 
-# {{n-g|Combining form of {{m|ja||みず|tr=mizu}} above}}
+# {{combining form of|ja|みず||water}} above
 
 =====Derived terms=====
 {{der-top3}}
@@ -409,7 +412,7 @@ Typically found in compounds.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 From {{der|ja|ltc|sort=すい|-}} {{ltc-l|水}}.
 
-Compare modern {{cog|cmn|水|tr=[[shuǐ]]}}, modern {{cog|hak|水|tr=súi}}.
+Compare modern {{cog|cmn|水}}, modern {{cog|hak|水|tr=súi}}.
 
 ====Pronunciation====
 {{ja-pron|すい|acc=1|acc_ref=DJR}}
@@ -428,7 +431,7 @@ Compare modern {{cog|cmn|水|tr=[[shuǐ]]}}, modern {{cog|hak|水|tr=súi}}.
 # [[water]]
 # [[body of water]]
 # [[fluid]], [[liquid]]
-# {{short for|ja|水素|tr=suiso|nodot=1}}: [[hydrogen]]
+# {{short for|ja|水素|tr=suiso|nodot=1|sort=すい}}: [[hydrogen]]
 
 =====Derived terms=====
 {{der-top4}}
@@ -537,7 +540,7 @@ Compare modern {{cog|cmn|水|tr=[[shuǐ]]}}, modern {{cog|hak|水|tr=súi}}.
 {{ja-kanjitab|もい|yomi=irr}}
 {{IPAfont|⟨mopi<sub>1</sub>⟩}} → *{{IPAchar|/mopʲi/}} → {{IPAchar|/moɸi/}} → {{IPAchar|/mowi/}} → {{IPAchar|/moi/}}
 
-From {{inh|ja|ojp|-|sort=もい}}.  Via [[metonymy]] from the word {{m|ja|[[椀]], [[盌]]||tr=moi|[[bowl]]}}, from the meaning of “that which [[go]]es in the {{m|ja|[[椀]], [[盌]]||tr=moi|[[bowl]]}}”.<ref name="DJR"/><ref name="KDJ"/>
+From {{inh|ja|ojp|-}}.  Via [[metonymy]] from the word {{m|ja|[[椀]], [[盌]]||tr=moi|[[bowl]]}}, from the meaning of “that which [[go]]es in the {{m|ja|[[椀]], [[盌]]||tr=moi|[[bowl]]}}”.<ref name="NKD"/><ref name="DJR"/>
 
 ====Pronunciation====
 {{ja-pron|もい}}
@@ -545,7 +548,7 @@ From {{inh|ja|ojp|-|sort=もい}}.  Via [[metonymy]] from the word {{m|ja|[[椀]
 ====Noun====
 {{ja-noun|もい|hist=もひ}}
 
-# {{lb|ja|sort=もい|obsolete}} [[drinking water]]
+# {{lb|ja|obsolete|sort=もい}} [[drinking water]]
 
 =====Derived terms=====
 {{ja-r/multi|data=
@@ -559,7 +562,7 @@ From {{inh|ja|ojp|-|sort=もい}}.  Via [[metonymy]] from the word {{m|ja|[[椀]
 ===References===
 <references/>
 
-[[Category:ja:Water|みず]]
+{{C|ja|Inorganic compounds|Water}}
 
 ==Korean==
 
@@ -694,7 +697,7 @@ From {{inh|mvi|jpx-ryu-pro|*mezu}}.
 * {{R:Miyako Dialect Dictionary|ミズ|MY14438}}
 * {{R:Online Miyako Dictionary|みず}}
 
-[[Category:mvi:Water|みず]]
+{{C|mvi|Inorganic compounds|Water}}
 
 ==Northern Amami-Oshima==
 {{attention|ryn}}
@@ -710,7 +713,7 @@ From {{inh|ryn|jpx-ryu-pro|*mezu}}.
 
 # [[water]]
 
-[[Category:ryn:Water|むいずい]]
+{{C|ryn|Inorganic compounds|Water}}
 
 ==Oki-No-Erabu==
 
@@ -728,7 +731,7 @@ From {{inh|okn|jpx-ryu-pro|*mezu}}.
 ===References===
 * {{R:JLect|みじ【水】|60|miji}}
 
-[[Category:okn:Water|みじ]]
+{{C|okn|Inorganic compounds|Water}}
 
 ==Okinawan==
 
@@ -756,7 +759,7 @@ The word underwent a pronunciation change due to the shifting of {{IPAchar|/u/}}
 Cognate with {{cog|ja|水|tr=mizu}}, {{cog|ojp|水|tr=mi<sub>1</sub>du}}.
 
 ===Pronunciation===
-* {{ryu-pron|みずぃ|acc=1|acc_ref=OGJ}}
+{{ryu-pron|みずぃ|acc=1|acc_ref=OGJ}}
 
 ===Noun===
 {{ryu-head|noun|みじ}}
@@ -777,9 +780,9 @@ Cognate with {{cog|ja|水|tr=mizu}}, {{cog|ojp|水|tr=mi<sub>1</sub>du}}.
 
 ===References===
 <references/>
-* {{R:JLect|みじ【水】|60|miji}}
+:* {{R:JLect|みじ【水】|60|miji}}
 
-[[Category:ryu:Water|みじ]]
+{{C|ryn|Inorganic compounds|Water}}
 
 ==Southern Amami-Oshima==
 
@@ -794,7 +797,7 @@ From {{inh|ams|jpx-ryu-pro|*mezu}}.
 
 # [[water]]
 
-[[Category:ams:Water|むぃでぃ]]
+{{C|ams|Inorganic compounds|Water}}
 
 ==Southern Bai==
 {{rfv|bfs}}
@@ -855,7 +858,7 @@ Possibly also related to {{cog|ko|물|tr=mul}}, {{cog|okm|밀||tr=mil|[[water]]}
 * {{R:JLect|みん【水】|1098|min}}
 * {{cite-book|editor=Nicolas Tranter|title=The Languages of Japan and Korea|publisher=Routledge|section=Yonaguni|page=415|isbn=0415462878}}
 
-[[Category:yoi:Water|みん]]
+{{C|yoi|Inorganic compounds|Water}}
 
 ==Yoron==
 
@@ -875,4 +878,4 @@ Possibly also related to {{cog|ko|물|tr=mul}}, {{cog|okm|밀||tr=mil|[[water]]}
 ===References===
 * {{R:JLect|みじ【水】|60|min}}
 
-[[Category:yox:Water|みじ]]
+{{C|yox|Inorganic compounds|Water}}
