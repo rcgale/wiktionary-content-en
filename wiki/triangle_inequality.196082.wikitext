@@ -5,8 +5,11 @@
 
 {{wikipedia}}
 
-# {{lb|en|analysis}} The [[inequality]] that states that the [[magnitude]] of the [[sum]] of two [[vector]]s is less than or equal to the sum of the magnitudes of the vectors, or any equivalent inequality in other [[space]]s.
+# {{lb|en|analysis}} The [[inequality]] that states that the [[magnitude]] of the [[sum]] of two [[vector]]s is less than or equal to the sum of the magnitudes of the vectors.
 #: <math>\|\mathbf x + \mathbf y\| \leq \|\mathbf x\| + \|\mathbf y\|</math>
+# {{lb|en|analysis}} The [[inequality]] that states that the [[distance]] between two [[point]]s is less than or equal to the sum of the distances between the the first two points and some third point.
+#: <math>d(x,z) \leq d(x,y) + d(y,z)</math>
+# {{lb|en|analysis|by [[abstraction]]}} Either of the above two inequalities, considered as one of the [[axiom]]s which a function must satisfy to be a [[norm]] or [[metric]] respectively.
 
 ====Translations====
 {{trans-top|the triangle inequality}}
