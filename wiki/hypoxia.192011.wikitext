@@ -9,17 +9,27 @@
 ===Noun===
 {{en-noun|~}}
 
-# {{lb|en|pathology}} A condition in which [[tissue]]s (especially the [[blood]]) are deprived of an adequate supply of [[oxygen]]; [[anoxia]] {{defdate|from 1940s}}
+# {{lb|en|pathology}} A condition in which [[tissue]]s are deprived of an adequate supply of [[oxygen]] {{defdate|from 1940s}}.
+#: {{ant|en|hyperoxia}}
+#: {{hypo|en|anoxia|stagnant hypoxia}}
+#: {{cot|en|normoxia|pseudohypoxia}}
 # A reduced concentration of dissolved oxygen in an [[aquatic]] environment.
+#: {{ant|en|hyperoxia}}
+#: {{hypo|en|anoxia}}
+#: {{cot|en|normoxia}}
 
 ====Derived terms====
-* {{l|en|hypoxial}}
-* {{l|en|hypoxic}}
-* {{l|en|pseudohypoxia}}
-* [[stagnant hypoxia]]
+{{col3|en
+|{{l|en|hypoxial|pos=adj}}
+|{{l|en|hypoxic|pos=adj}}
+}}
 
 ====Related terms====
-* {{l|en|normoxia}}
+{{col3|en
+|hyperoxemia
+|hypoxemia
+|normoxemia
+}}
 
 ====Translations====
 {{trans-top|condition in which tissues are deprived of oxygen}}
@@ -42,10 +52,7 @@
 {{trans-bottom}}
 
 ====See also====
-* {{l|en|anoxia}}
 * {{l|en|altitude sickness}}
-* {{l|en|hyperoxia}}
-* {{l|en|hypoxemia}}
 
 ===Further reading===
 * {{pedia}}
