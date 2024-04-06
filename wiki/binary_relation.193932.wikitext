@@ -14,7 +14,8 @@
 # {{lb|en|set theory|order theory|"on" or "between" sets A and B}} A [[subset]] of the [[Cartesian product]] ''A''×''B''.
 
 ====Usage notes====
-For a binary relation <math>R</math>, the notation <math>a R b</math> signifies that <math>(a,b) \in R</math>, and one may say that <math>a</math> is in binary relation <math>R</math> to <math>b</math>.
+*If <math>R</math> is a relation between <math>A</math> and <math>B</math>, then <math>A</math> is called the ''[[domain]]'' of the relation, and <math>B</math> is called the ''[[codomain]]'' of the relation.
+*For a binary relation <math>R</math>, the notation <math>a R b</math> signifies that <math>(a,b) \in R</math>, and one may say that <math>a</math> is in binary relation <math>R</math> to <math>b</math>. 
 
 ====Synonyms====
 * {{sense|order theory}} {{l|en|correspondence}}, {{l|en|dyadic relation}}, {{l|en|2-place relation}}
