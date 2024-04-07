@@ -16,16 +16,21 @@ From {{bor|en|it|-}} and {{der|en|mt|Malta}}, from {{der|en|ar|مَالِطَا}
 ===Proper noun===
 {{en-proper noun}}
 
-# {{senseid|en|Q233}}{{place|en|country/and/archipelago|r/Southern Europe|in the|sea/Mediterranean Sea|capital=Valletta|official=Republic of Malta}}.
-# {{senseid|en|Q193896}} {{place|en|The largest <<island>> of the [[w:Maltese archipelago|Maltese archipelago]] of <<country/Malta>>}}.
+# {{senseid|en|Q233}} {{place|en|island country|r/Southern Europe|capital=Valletta}}.
+# {{place|en|archipelago|in the|sea:Suf/Mediterranean|a=The}} [[composing]] the [[country]].
+# {{senseid|en|Q193896}} {{place|en|largest island|in the|archipelago:Suf/Maltese|a=The}}.
 # {{senseid|en|Q963370}} {{place|en|small city/county seat|co/Phillips County|s/Montana|c/USA}}.
 
 ====Synonyms====
-* {{sense|country}} {{l|en|Republic of Malta}}
-* {{sense|island}} {{l|en|Malta Island}}
+* {{sense|country}} {{l|en|Republic of Malta}} {{q|official}}
+* {{sense|archipelago}} {{l|en|Maltese Archipelago}}
+* {{sense|island}} {{l|en|Malta Island}}; {{l|en|Melita}}, {{l|en|Melite}} {{q|historical}}
 
 ====Derived terms====
-{{der2|en|Knight of Malta|Maltese}}
+{{der3|en
+|Knight of Malta
+|Maltese
+}}
 
 ====Translations====
 {{trans-top|id=Q233|republic}}{{multitrans|data=
@@ -70,8 +75,8 @@ From {{bor|en|it|-}} and {{der|en|mt|Malta}}, from {{der|en|ar|مَالِطَا}
 * Galician: {{tt+|gl|Malta|f}}
 * Georgian: {{tt+|ka|მალტა}}
 * German: {{tt+|de|Malta}}
-* Greek: {{tt+|el|Μάλτα|f}}
-*: Ancient: {{t-needed|grc}}
+* Greek: 
+*: Modern: {{tt+|el|Μάλτα|f}}
 * Gujarati: {{t|gu|માલ્ટા}}
 * Hausa: {{tt|ha|Malta}}
 * Hebrew: {{tt+|he|מַלְטָה|f|tr=maltá}}
@@ -193,8 +198,9 @@ From {{bor|en|it|-}} and {{der|en|mt|Malta}}, from {{der|en|ar|مَالِطَا}
 * Galician: {{tt+|gl|Malta}}
 * Georgian: {{tt+|ka|მალტა}}
 * German: {{tt+|de|Malta|n}}
-* Greek: {{tt+|el|Μάλτα|f}}
+* Greek: 
 *: Ancient: {{tt|grc|Μελίτη|f}}
+*: Modern: {{tt+|el|Μάλτα|f}}
 * Hebrew: {{tt+|he|מַלְטָה|f|tr=maltá}}
 * Hindi: {{tt+|hi|माल्टा|m}}
 * Hungarian: {{tt+|hu|Málta}}
@@ -216,6 +222,7 @@ From {{bor|en|it|-}} and {{der|en|mt|Malta}}, from {{der|en|ar|مَالِطَا}
 * Persian:
 *: Dari: {{tt|prs|مَالْتَا}}
 *: Iranian Persian: {{tt+|fa-ira|مالْت}}
+* Phoenician: {{t|phn|𐤀𐤍𐤍‎|tr='nn}}
 * Polish: {{tt+|pl|Malta|f}}
 * Portuguese: {{tt+|pt|Malta|f}}
 * Romanian: {{tt+|ro|Malta|f}}
