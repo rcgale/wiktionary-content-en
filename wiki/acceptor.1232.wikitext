@@ -1,7 +1,7 @@
 ==English==
 
 ===Alternative forms===
-* {{qualifier|obsolete|rare}} [[acceptour]]
+* {{alt|en|acceptour||obsolete|rare}}
 
 ===Etymology===
 From {{inh|en|enm|acceptour}}, from {{der|en|la|acceptor}}, with the meanings from {{m|en|accept}}.
@@ -23,27 +23,35 @@ From {{inh|en|enm|acceptour}}, from {{der|en|la|acceptor}}, with the meanings fr
 # {{lb|en|comptheory}} A kind of [[finite-state machine]] whose [[binary]] [[output]] indicates whether or not a received [[input]] was accepted.
 
 ====Derived terms====
-{{col-auto|en|acceptress|alloacceptor|isoacceptor|phosphoacceptor|photoacceptor|acceptorless}}
+{{col6|en
+|acceptorless
+|acceptress
+|alloacceptor
+|isoacceptor
+|phosphoacceptor
+|photoacceptor
+}}
 
 ====Translations====
 {{trans-top|one who accepts}}
 * Arabic: {{t+|ar|قَابِل}}
 * Catalan: {{t+|ca|acceptant|m|f}}
 * Finnish: {{t+|fi|vastaanottaja}}
-* French: {{t+|fr|accepteur|m}}
+* French: {{t+|fr|accepteur|m}}, {{t+|fr|acceptrice|f}}
 * Ido: {{t+|io|aceptanto}}
 * Indonesian: {{t|id|[[terima|penerima]]}}, {{t+|id|akseptor}}
-* Latin: {{t|la|acceptator}}
+* Latin: {{t|la|acceptātor|m}}, {{t|la|acceptātrīx|f}}
 * Norwegian: ''comm'' {{t|no|akseptant|c}}
-* Portuguese: {{t|pt|aceitador|m}}
+* Portuguese: {{t|pt|aceitador|m}}, {{t|pt|aceitadora|f}}
 * Russian: {{t+|ru|акцепта́нт|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|а̀кцептор|m}}
 *: Roman: {{t+|sh|àkceptor|m}}
-* Spanish: {{t+|es|aceptador|m}}
+* Spanish: {{t+|es|aceptador|m}}, {{t+|es|aceptadora|f}}
 {{trans-bottom}}
 
 {{trans-top|in law}}
+* French: {{t+|fr|accepteur|m}}, {{t+|fr|acceptrice|f}}
 * Polish: {{t+|pl|akceptant|m}}
 {{trans-bottom}}
 
@@ -72,10 +80,10 @@ From {{inh|en|enm|acceptour}}, from {{der|en|la|acceptor}}, with the meanings fr
 * {{la-IPA}}
 
 ===Etymology 1===
-{{suffix|la|accipiō|-tor}}.
+From {{suf|la|accipiō|-tor}}.
 
 ====Noun====
-{{la-noun|acceptor<3>}}
+{{la-noun|acceptor<3>|f=acceptrīx}}
 
 # [[receiver]]
 # [[approver]]
