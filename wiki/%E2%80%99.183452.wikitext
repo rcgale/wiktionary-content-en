@@ -60,7 +60,7 @@ The ASCII apostrophe may be used for all language-specific forms listed below:
 ##: {{ux|hy|Ժաննա դ’Արկ|t=Joan of Arc|inline=1}}
 
 ====Usage notes====
-The Armenian character U+055A ARMENIAN APOSTROPHE is spurious. U+2019 RIGHT SINGLE QUOTATION MARK should be used instead.<ref>[https://r12a.github.io/scripts/armn/hy.html#vs_encoding]</ref>
+* According to the Unicode Standard, U+055A ARMENIAN APOSTROPHE has the same shape and function as the Latin apostrophe at U+2019 RIGHT SINGLE QUOTATION MARK, which is preferred.<ref>[https://www.unicode.org/versions/Unicode15.0.0/ch07.pdf#page=35 The Unicode Standard 15.0, page 322]</ref>
 
 ====See also====
 * {{Armn-script}}
