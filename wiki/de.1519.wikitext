@@ -1984,11 +1984,12 @@ From {{inh|ro|la|dē}}.
 ===Conjunction===
 {{ro-conjunction}}
 
-# {{lb|ro|informal|or|literary}} {{syn of|ro|dacă||if}}
+# {{lb|ro|informal|or|literary}} [[if]]
+#: {{syn|ro|dacă<qq:most usual>|să<qq:relatively uncommon>}}
 # {{lb|ro|with the {{glink|optative mood}}}} [[if only]]
-# {{lb|ro|informal}} to the effect that
+# {{lb|ro|informal}} [[that]] {{gl|to the effect that}}
 #: {{syn|ro|încât|că<q:informal>}}
-#: {{ux|ro|Am așteptat '''de''' {{nobr|m-am}} plictisit.|I waited [so much] '''that''' I got bored.}}
+#: {{ux|ro|Am așteptat '''de''' {{nobr|ne-am}} plictisit.|We waited [so much] '''that''' we got bored.}}
 #: {{ux|ro|Cum a jucat echipa '''de''' a pierdut așa de rău?|How did the team play '''to''' lose so badly?}}
 #: {{ux|ro|E o căldură '''de''' nu ar ieși nimeni din casă.|There’s [such] heat '''that''' no one would go outside.}}
 #: {{ux|ro|Mașina a demarat '''de''' {{nobr|i-au}} scârțâit cauciucurile.|The car sped off [so fast] '''that''' its tyres screeched.}}
@@ -1999,7 +2000,7 @@ From {{inh|ro|la|dē}}.
 ====Usage notes====
 In the meaning of “if”, {{m|ro||de}} is not typically directly followed by any word other than a verb, a pronoun (accusative or reflexive, but not nominative) or the word {{m|ro|nu||no}}. The more common and style-neutral {{m|ro|dacă}} is under no such restrictions.
 
-As an informal synonym of {{m|ro|încât}}, {{m|ro||de}} can only be used in simple constructions and without any coordinative adverbs ({{m|ro|atât}}, {{m|ro|așa}}). Thus, it can be used in the sentence {{m|ro||Vântul bate de ridică praful|The wind blows [so hard] it raises dust}}, but not if the first half were {{m|ro||Vântul bate atât de tare}}. Conversely, {{m|ro|încât}} and {{m|ro|că}} would not be used in such simple sentences.
+As an informal synonym of {{m|ro|încât}}, {{m|ro||de}} is used in simple constructions without any coordinative adverbs like {{m|ro|atât}}, {{m|ro|așa||so}}; therefore, a part of the sentence (“so much”, “so hard”, etc.) is missing and must be inferred. {{m|ro|încât|Încât}} and {{m|ro|că}}, while equivalent in meaning, require a coordinative adverb and so are not readily interchangeable with {{m|ro||de}}.
 
 ===Preposition===
 {{ro-prep|a}}
@@ -2007,15 +2008,16 @@ As an informal synonym of {{m|ro|încât}}, {{m|ro||de}} can only be used in sim
 # [[of]]
 #: {{ux|ro|Beau o ceașcă '''de''' ceai.|I’m drinking a cup '''of''' tea.}}
 #: {{ux|ro|Este profesor '''de''' matematică|He’s a teacher '''of''' mathematics.}}
-# {{lb|ro|only before spatial adverbs and prepositions}} {{ng|Indicates source of motion or origin:}} [[from]]
-#: {{ux|ro|Stația nu este departe '''de''' aici.|The station is not far '''from''' here.}}
+# {{lb|ro|before spatial adverbs and prepositions}} {{ng|Indicates source of motion:}} [[from]].<ref name="from" group="usage note"/>
 #: {{ux|ro|Apa picură '''de''' sus.|The water drips '''from''' above.}}
-#: {{ux|ro|Prefer mâncarea '''de''' acolo.|I prefer the food '''from''' there.}}
 #: {{ux|ro|'''De''' unde vine sunetul?|Where does the sound come '''from'''?}}
 #: {{ux|ro|Gloanțele acestea nu sunt bune decât '''de''' aproape.|These bullets are only good '''from''' a short distance.}}
 #: {{ux|ro|Seara la ora de vârf toată lumea se întoarce '''de''' la serviciu.|In the evening during rush hour everybody is returning '''from''' work.}}
 #: {{ux|ro|Ia plasa '''de''' lângă radiator! O să se topească!|Take the bag away '''from''' near the heater! It will melt!}}
 #: {{ux|ro|O foaie de hârtie poate fi trasă repede '''de''' sub un pahar.|A sheet of paper can be quickly pulled '''from''' under a glass.}}
+# {{lb|ro|before spatial adverbs and prepositions}} {{ng|Indicates source of origin:}} [[from]].<ref name="from" group="usage note"/>
+#: {{ux|ro|Mâncarea '''de''' acolo e bună.|The food '''from''' there is good.}}
+#: {{ux|ro|Pământul '''de''' sub Turnul din Pisa este prea moale.|The earth from under the Leaning Tower of Pisa is too soft.}}
 # {{lb|ro|with adverbs of time, precisely referenced time-related nouns{{,}} or prepositions or conjunctions of time}} [[of]], [[from]], [['s|’s]]
 #: {{ux|ro|Ziua '''de''' mâine va fi mai bună decât ziua '''de''' azi.|Tomorrow will be better than today.|lit=the day '''of''' tomorrow”, “the day '''of''' today}}
 #: {{ux|ro|Întâlnirile '''de''' mâine, '''de''' marți și '''de''' săptămâna viitoare se amână.|Tomorrow'''’s''', Tuesday'''’s''' and next week'''’s''' meetings are being postponed.}}
@@ -2032,11 +2034,13 @@ As an informal synonym of {{m|ro|încât}}, {{m|ro||de}} can only be used in sim
 # {{ng|Introduces a measure or a measurable or describable trait:}} [[of]]
 #: {{ux|ro|Suma este '''de''' zece lei.|The sum is 10 lei.|lit=The sum is '''of''' ten lei.}}
 #: {{ux|ro|A fost instalat un stâlp '''de''' șase metri înălțime.|A pole six metres in height was installed.|lit='''of''' six metres in height}}
+#: {{ux|ro|Un procent '''de''' 40% din populația orașului este '''de''' etnie maghiară.|A percentage '''of''' 40% out of the town’s population is '''of''' Hungarian ethnicity.}}
 #: {{ux|ro|―&nbsp;'''De''' ce culoare este casa? ―&nbsp;'''De''' culoare galbenă.|“What colour is the house?” “Yellow in colour”.}}
-# {{ng|Introduces the doer of a {{glink|passive}} verb or participle}}: [[by]].
-#: {{ux|ro|Constantinopolul a fost cucerit '''de''' otomani.|Constantinople was conquered '''by''' the Ottomans.}}
+#: {{ux|ro|Nu mai cumpăr niciodată energizant '''de''' doi lei.|I’ll never buy a two lei energy drink again.|lit=an energy drink '''of''' two lei}}
+# {{ng|Introduces the doer of a {{glink|passive}} verb or participle}}: [[by]].<ref name="by" group="usage note"/>
+#: {{ux|ro|Programul este susținut '''de''' statul român.|The program is supported '''by''' the Romanian state.}}
 # {{ng|Introduces the author of a work:}} [[by]].
-# {{ng|Connects a cardinal numeral who is a multiple of 100 or whose tens are greater than 1 to the determinated noun.}}
+# {{ng|Connects a cardinal numeral who is a multiple of 100 or whose tens are greater than 1 to the determinated noun.}}<ref name="num" group="usage note"/>
 #: {{ux|ro|În cont sunt două sute șaisprezece lei și patruzeci și patru '''de''' bani.|In the account there are 216 lei and 44 bani.}}
 # {{ng|Connects most adverbs other than certain basic ones to the determinated adjectives or adverbs.}}
 #: {{ux|ro|Sunt nemaipomenit '''de''' atent să ajung suficient '''de''' devreme.|I’m exceedingly careful to arrive sufficiently early.}}
@@ -2044,19 +2048,20 @@ As an informal synonym of {{m|ro|încât}}, {{m|ro||de}} can only be used in sim
 #: {{ux|ro|E atât '''de''' frumos afară.|It’s so beautiful outside.}}
 # {{ng|Follows certain adverbs of position (as well as the temporal adverb {{m|ro|înainte}}) to form prepositional phrases.}}
 #: {{ux|ro|Este bine să locuiești aproape '''de''' centrul orașului.|It is good to live near the city centre.}}
+#: {{ux|ro|Stația nu este departe '''de''' aici.|The station is not far '''from''' here.}}
 #: {{ux|ro|Dincolo '''de''' munți se află Transilvania.|Beyond the mountains lies Transylvania.}}
 #: {{ux|ro|Aceste clădiri au fost construite înainte '''de''' Primul Război Mondial.|These buildings were built before the First World War.}}
 # {{ng|Marks the point of action of a force of grip:}} [[by]].
 #: {{ux|ro|Nu lua iepurele '''de''' urechi.|Do not grab the rabbit '''by''' the ears.}}
 #: {{ux|ro|Plăcile se prind numai '''de''' margini.|Vinyls are held '''by''' the edges only.}}
 #: {{ux|ro|L-a mușcat câinele '''de''' mână.|The dog bit him '''by''' the hand.}}
-# {{lb|ro|informal|outside|certain constructions|;|regarding physical or mental states or traits of living beings}} [[for]], [[because of]], [[out of]]
+# {{lb|ro|informal|outside|certain constructions|;|regarding physical or mental states or traits of living beings}} [[for]], [[because of]], [[out of]]<ref name="due" group="usage note"/>
 #: {{syn|ro|de la<qq:colloquial>|din cauza}}
 #: {{ux|ro|La ora șase încă eram buimac '''de''' somn.|At six I was still groggy '''for''' lack of sleep.}}
 #: {{ux|ro|Unii prizonieri au murit '''de''' foame, iar ceilalți '''de''' diverse boli.|Some of the prisoners died '''of''' hunger, and the rest '''of''' various diseases.}}
-#: {{ux|ro|O să îți pierzi capul '''de''' amețit ce ești.|You’ll lose your own head '''for''' being so absent-minded.|lit='''for''' absent-minded that you are}}
+#: {{ux|ro|O să îți pierzi capul '''de''' zăpăcit ce ești.|You’ll lose your own head '''for''' being so absent-minded.|lit='''for''' absent-minded that you are}}
 #: {{ux|ro|În casa asta nu se poate locui '''de''' multe ce lipsesc.|One cannot live in this house '''for''' how many things are missing.|lit='''for''' many that are missing}}
-#: {{ux|ro|Muncitorii deja sunt obosiți '''de''' atâta drum.|The workers are already tired '''for''' having come such a long way.|lit='''because of''' so much road}}
+#: {{ux|ro|Muncitorii deja sunt obosiți '''de''' atâta drum.|The workers are already tired '''for''' having come such a long way.|lit='''because of''' so much journey}}
 # {{lb|ro|informal|chiefly in the negative}} {{ng|Indicates the cause of a hindrance, physical or otherwise:}} [[because of]]
 #: {{ux|ro|Unii oameni stau în ușă fără să își dea seama că alții nu pot trece '''de''' ei.|Some people stand in the doorway without realising that others cannot pass '''because''' of them.}}
 #: {{ux|ro|Nu se vede '''de''' ceață.|There is no visibility '''because of''' fog.}}
@@ -2065,7 +2070,7 @@ As an informal synonym of {{m|ro|încât}}, {{m|ro||de}} can only be used in sim
 # {{ng|Forms an [[adverbial number|adverbial numeral]] with {{m|ro|ori}} or {{m|ro|dăți}}.}}
 #: {{ux|ro|'''De''' câte ori a bătut ceasul? '''De''' șase ori.|How many times did the pendulum clock strike? Six times.}}
 # {{ng|Precedes numbers and letters when they are themselves counted.}}
-#: {{ux|ro|Dacă ai un opt, o să îți trebuiască trei '''de''' zece ca să îți iasă media zece.|If you have one grade of 8 (equivalent of a B), you’ll need three 10s (equivalent of an A) to still get an average grade of 10.}}
+#: {{ux|ro|Dacă ai un opt, o să îți trebuiască trei '''de''' zece ca să îți iasă media zece.|If you have one grade of 8 (equivalent of a B), you’ll need three 10’s (equivalent of an A) to still get an average grade of 10.}}
 #: {{ux|ro|„Nu fi” nu se scrie cu doi '''de''' i, ci cu unul.|{{m|ro||Nu fi|don’t be}} isn’t written with two i’s, but with one.}}
 # {{lb|ro|after indications of position or before numerals, time coordinates{{,}} or the word {{m|ro|atât}}}} [[than]]
 #: {{syn|ro|decât<qq:mutually exclusive in use>}}
@@ -2085,7 +2090,11 @@ As an informal synonym of {{m|ro|încât}}, {{m|ro||de}} can only be used in sim
 #: {{syn|ro|pe<qq:of regular dates>}}
 #: {{ux|ro|'''De''' Anul Nou sau '''de''' 1 Mai se petrece.|'''On''' New Year or May Day one celebrates.}}
 #: {{ux|ro|{{nobr|Mi-am}} luat concediu '''de''' ziua mea de naștere.|'''On''' my birthday I took a day off.}}
-# {{lb|ro|informal}} {{syn of|ro|despre||about, of}}
+# {{lb|ro|informal}} Against a sum of money or the equivalent value of something.
+#: {{ux|ro|'''De''' cincizeci de lei am luat cafea și '''de''' restul zahăr.|I bought fifty lei'''’s worth of''' coffee, and sugar '''with''' the remainder.}}
+#: {{ux|ro|Poftim cinci lei, ia-ți bomboane '''de''' ei.|Here’s five lei, buy yourself candy '''with''' it.}}
+#: {{ux|ro|'''De''' bonuri de masă nu se poate cumpăra alcool.|One cannot buy alcohol '''with''' meal vouchers.}}
+# {{lb|ro|informal}} {{syn of|ro|despre||about, of}}.<ref name="bout" group="usage note"/>
 #: {{ux|ro|Ce știe lumea '''de''' economie?|What do people know '''about''' economy?}}
 #: {{ux|ro|Tocmai vorbeam '''de''' tine.|We were just talking '''about''' you.}}
 # {{lb|ro|informal}} {{ng|Connects an often negative qualifier to a noun or pronoun}}: [[of]] a.
@@ -2096,7 +2105,7 @@ As an informal synonym of {{m|ro|încât}}, {{m|ro||de}} can only be used in sim
 #: {{coi|ro|an '''de''' an|year '''by''' year, annualy}}
 #: {{ux|ro|Minut '''de''' minut se aude semnalul.|The signal is heard every minute.|lit=minute '''by''' minute}}
 # {{lb|ro|colloquial}} {{ng|Stands between two reduplications of a noun, with the resulting construction signifying that said noun is distinguished in its class in an impressive way.}}
-#: {{ux|ro|Am văzut azi la magazin pantofi '''de''' pantofi. Bine, aveau și niște prețuri '''de''' prețuri.|I saw some world-class shoes at the store today. Okay, they also had some crazy high prices.}}
+#: {{ux|ro|Am văzut azi la magazin pantofi '''de''' pantofi. Bine, aveau și niște prețuri '''de''' prețuri.|I saw some world-class shoes at the store today. Well, they also had some crazy high prices.}}
 #: {{ux|ro|Mi-a venit o idee '''de''' idee.|I’ve just had an excellent idea.}}
 #: {{ux|ro|Toți se cred șmecheri '''de''' șmecheri.|They all think they’re some real cool guys.}}
 # {{ng|Indicates a specific train by its origin station.}}
@@ -2105,22 +2114,16 @@ As an informal synonym of {{m|ro|încât}}, {{m|ro||de}} can only be used in sim
 #: {{ux|ro|Rația e de 2 litri de apă '''de''' persoană.|The ration is 2 litres of water '''per''' person.}}
 
 ====Usage notes====
-In the sense of “from”, {{m|ro||de}} must contract into {{m|ro|în||in}} to form {{m|ro|din}}, into {{m|ro|între||between}} to form {{m|ro|dintre}}, and analogously into all adverbs derived from {{m|ro||în}}. The combination {{m|ro|de la}} is [[lexicalize|lexicalised]].
-
-When in a passive construction, {{m|ro||de}} can be followed by {{m|ro|către}} for clarification and to no change in meaning. This is typical of, but not restricted to, formal language.
-
-The {{m|ro||de}} that connects numerals to nouns may be omitted, but only in very formal, financial or legal language.
-
-Of the constructions using {{m|ro||de}} to mean “because of”, those that are not restricted to colloquial language are those referring to common bodily states: {{m|ro||de [[foame]]|because of hunger}}, {{m|ro||de [[sete]]|because of thirst}}, {{m|ro||de [[frig]]|because of cold}}, {{m|ro||de [[cald]]|because of heat}}, {{m|ro||de [[frică]]|for fear}}, {{m|ro||de [[somn]]|for lack of sleep}}, as well as with the name of any disease. Informally, an optional correlative sentence can be added using the connector {{m|ro|ce}}.
+{{reflist|group=usage note|refs=
+<ref name=from>In the sense of “from”, {{m|ro||de}} must contract into {{m|ro|în||in}} to form {{m|ro|din}}, into {{m|ro|între||between}} to form {{m|ro|dintre}}, and analogously into all adverbs derived from {{m|ro||în}}. The combination {{m|ro|de la}} is [[lexicalize|lexicalised]].</ref>
+<ref name="by" group="usage note">When in a passive construction, {{m|ro||de}} can be followed by {{m|ro|către}} for clarification and to no change in meaning. This is typical of, but not restricted to, formal language.</ref><ref name="num" group="usage note">The {{m|ro||de}} that connects numerals to nouns may be omitted, but only in very formal, financial or legal language.</ref><ref name="due" group="usage note">Of the constructions using {{m|ro||de}} to mean “because of”, those that are not restricted to colloquial language are those referring to common bodily states: {{m|ro||de [[foame]]|because of hunger}}, {{m|ro||de [[sete]]|because of thirst}}, {{m|ro||de [[frig]]|because of cold}}, {{m|ro||de [[cald]]|because of heat}}, {{m|ro||de [[frică]]|for fear}}, {{m|ro||de [[somn]]|for lack of sleep}}, as well as with the name of any disease. Informally, an optional correlative sentence can be added using the connector {{m|ro|ce}}.
 
 This meaning of {{m|ro||de}} is very similar to one of the senses of {{m|ro|de la}}. Most of the time, however, they are not interchangeable:
 
 * {{m|ro||De}} can precede either a noun or an adjective, whereas {{m|ro|de la}} only precedes nouns.
 * When preceding nouns, a cause introduced by {{m|ro||de}} generally represents a feeling that is experienced, while the cause introduced by {{m|ro|de la}} generally represents an event or an activity that worked to lead to a result in a manner understood by itself. Compare {{m|ro||de oboseală|out of exhaustion}} with {{m|ro||de la alergat|from all the running around|pos=which is understood to have led to exhaustion}}.
 * The previous point can be disregarded if the determiner {{m|ro|atâta||so much}} is prepended to the noun, in which case {{m|ro||de}} is valid either way: {{m|ro||de atâta alergat|from so much running around}}.
-* {{m|ro||De}} is more likely to have negative connotations than {{m|ro|de la}}.
-
-In the sense of “about”, it can only be used after a verb, and not copulatively (“is about”) or after a noun (“a discussion about”). {{m|ro|despre|Despre}}, however, can be used in any of these situations.
+* {{m|ro||De}} is more likely to have negative connotations than {{m|ro|de la}}.</ref><ref name="bout" group="usage note">In the sense of “about”, it can only be used after a verb, and not copulatively (“is about”) or after a noun (“a discussion about”). {{m|ro|despre|Despre}}, however, can be used in any of these situations.</ref>|style=lower-alpha}}
 
 ====Derived terms====
 * {{l|ro|cum de}}
