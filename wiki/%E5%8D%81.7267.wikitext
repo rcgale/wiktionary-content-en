@@ -91,17 +91,20 @@ From {{inh|zh|sit-pro|*gip}}.
 * {{desc|za|cib|bor=1}}
 
 {{cat|cmn|Beginning Mandarin}}
+{{cln|zh|numeral symbols}}
+{{C|zh|Ten}}
 
 ==Japanese==
+{{cardinalbox|ja|9|10|11|九|十一}}
 
 ===Kanji===
-{{ja-kanji|grade=1|rs=十00}}
+{{ja-kanji}}
 
 ====Readings====
 {{ja-readings
 |goon=じゅう<じふ
 |kanon=しゅう<しふ
-|kanyoon=じっ<じふ, じゅっ
+|kanyoon=じっ, じゅっ
 |kun=と-, とお-<とを-, そ-
 |nanori=い, か, かず, ぎ, さ, し, しげ, そう, ただ, ち, とみ, ね, ひさし, ま, みつ, みつる, る, わ
 }}
@@ -119,17 +122,16 @@ From {{inh|zh|sit-pro|*gip}}.
 
 ===Etymology 1===
 {{ja-kanjitab|yomi=goon|じゅう|alt=拾:financial}}
-{{ja-kanjitab|yomi=kanyo|じっ}}
-{{cardinalbox|ja|9|10|11|九|十一}}
+{{ja-kanjitab|yomi=kanyo|じっ|clearright=y}}
 {{IPAchar|/ʑipʉ/}} → {{IPAchar|/ʑiɸu/}} → <span style="display:inline-block; vertical-align: middle;><span style="float:left;">{{IPAchar|/ʑɨu/}} → {{IPAchar|/ʑuː/}}</span><span style="float:left;clear:both;">{{IPAchar|/ʑiʔ/}} → {{IPAchar|/ʑi~̚/}}</span></span>
 
-From {{der|ja|ltc|sort=しゆう'|-}} {{ltc-l|十}}.
+From {{der|ja|ltc|-}} {{ltc-l|十}}.
 
 ====Pronunciation====
 {{ja-pron|じゅう|acc=1|acc_ref=DJR|a=ja-10-jyuu.ogg}}
 
 ====Numeral====
-{{ja-pos|numeral|じゅう|hhira=じふ}}
+{{ja-pos|numeral|じゅう|hist=じふ}}
 
 # [[ten]], [[10]]
 
@@ -162,16 +164,13 @@ From {{der|ja|ltc|sort=しゆう'|-}} {{ltc-l|十}}.
 =====Proverbs=====
 * {{ja-r|一を聞いて十を知る|いち を き.いて じゅう を しる}}
 
-=====Coordinate terms=====
-{{japanese number}}
-
 ====Noun====
-{{ja-noun|じゅう|hhira=じふ}}
+{{ja-noun|じゅう|hist=じふ}}
 
 # a [[ten]]-[[year-old]]
 
 ====Affix====
-{{ja-pos|affix|じゅう|じっ|hhira=じふ}}
+{{ja-pos|affix|じゅう|じっ|hist=じふ}}
 
 # [[ten]], [[10]]
 # [[tenth]]
@@ -208,15 +207,13 @@ From {{der|ja|ltc|sort=しゆう'|-}} {{ltc-l|十}}.
 {{ja-kanjitab|yomi=k|とお}}
 {{IPAfont|⟨to<sub>2</sub>wo⟩}} → *{{IPAchar|/təwo/}} → {{IPAchar|/towo/}} → {{IPAchar|/toː/}}
 
-From {{inh|ja|ojp|sort=とお|-}}.
-
-Ultimately from {{inh|ja|jpx-pro|sort=とお|*təwə}}.
+From {{inh|ja|ojp|sort=とお|-}}, ultimately from {{inh|ja|jpx-pro|sort=とお|*təwə}}.
 
 ====Pronunciation====
 {{ja-pron|とお|acc=1|acc_ref=DJR}}
 
 ====Numeral====
-{{ja-pos|numeral|とお|hhira=とを}}
+{{ja-pos|numeral|とお|hist=とを}}
 
 # [[ten]], [[10]]
 
@@ -246,8 +243,7 @@ Ultimately from {{inh|ja|jpx-pro|sort=とお|*təwə}}.
 
 ===Etymology 3===
 {{ja-kanjitab|yomi=k|と}}
-
-Shift from ''tō'' above.<ref>{{R:Kokugo Dai Jiten}}</ref>
+Shift from ''tō'' above.<ref>{{R:Nihon Kokugo Daijiten Concise}}</ref>
 
 ====Pronunciation====
 {{ja-pron|と|acc=1|acc_ref=DJR}}
@@ -272,7 +268,7 @@ Shift from ''tō'' above.<ref>{{R:Kokugo Dai Jiten}}</ref>
 {{ja-kanjitab|yomi=k|そ}}
 {{IPAfont|⟨so<sub>1</sub>⟩}} → *{{IPAchar|/sʷo/}} → {{IPAchar|/so/}}
 
-From {{inh|ja|ojp|-}}.
+From {{inh|ja|ojp|-|sort=そ}}.
 
 Used in compounds.
 
@@ -296,7 +292,7 @@ Used in compounds.
 
 ===Etymology 5===
 {{ja-kanjitab|yomi=i|しい}}
-From {{bor|ja|cmn|sort=しい|十|tr=shí}}.<ref>{{R:Daijisen}}</ref>
+From {{bor|ja|cmn|sort=しい|十|tr=shí}}.<ref>{{R:Digital-Daijisen}}</ref>
 
 ====Numeral====
 {{ja-pos|numeral|シー}}
@@ -309,11 +305,13 @@ From {{bor|ja|cmn|sort=しい|十|tr=shí}}.<ref>{{R:Daijisen}}</ref>
 * {{ja-r/args|十%錦|シー%チン}}
 }}
 
+===Coordinate terms===
+{{japanese number}}
+
 ===References===
 <references/>
 
 [[Category:Japanese numeral symbols|10]]
-[[Category:Japanese numerals]]
 {{topics|ja|Ten}}
 
 ==Korean==
