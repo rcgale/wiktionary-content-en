@@ -20,7 +20,7 @@
 #* {{RQ:zlw-opl:OrtMac|110|Wszythky '''pyszma''' szą ludzyom zostawyony na wyedzenye y na navką|Wszytki '''pisma''' są ludziom zostawiony na wiedzenie i na naukę|-}}
 #* {{RQ:zlw-opl:WokRacz|151v|1442|Notula '''pysmo''' listowe|Notula '''pismo''' listowe}}
 # [[written]] [[piece]] or [[work]]
-#: {{coi|zlw-opl|'''pismo''' święte|holy '''scripture'''}}
+#: {{coi|zlw-opl|[[Pismo Święte|'''Pismo''' Święte]]|holy '''scripture'''}}
 #* {{RQ:zlw-opl:Gałka|4|Lachowie, Niemczowie, ... wøtpiczeli w mowie y fschego '''pisma''' slowie, Wikleph prawdą powie|Lachowie, Niemcowie, ... wątpicieli w mowie i wszego '''pisma''' słowie, Wiklef prawdę powie|-}}
 #* {{RQ:zlw-opl:Gn|176b|A tocz gesth skonane podluk prostego '''pyszma''' te tho... svøthe ewangelie|A toć jest skonanie podług prostego '''Pisma''' te to... święte ewanjelije|-}}
 #* {{RQ:zlw-opl:De nativ|22|Falszyvy Szydovye blądzą, '''pysma''' szwyąthego nye vydzą|Fałszywi Żydowie błądzą, '''Pisma''' świętego nie widzą|-}}
@@ -52,25 +52,57 @@
 {{inh+|pl|zlw-opl|pismo}}.
 
 ===Pronunciation===
-{{pl-p|a=Pl-pismo.ogg}}
+{{pl-p|a=Pl-pismo.ogg|mp=+}}
 
 ===Noun===
 {{pl-noun|n|dim=pisemko}}
 
-# [[script]], [[handwriting]] {{gl|characteristic style of writing}}
-# {{lb|pl|linguistics}} [[script]], [[writing system]]
-# [[script]], [[scripture]] {{gl|written document}}
+# {{lb|pl|countable|linguistics}} [[script]], [[writing system]] {{gl|system of graphemes used to record sounds or concepts; all letters making up a given alphabet}}
+# {{lb|pl|countable}} [[script]], [[writing]] {{gl|way of communicating using graphic signs; act of writing; ability to write}}
+# {{lb|pl|uncountable}} [[handwriting]] {{gl|way of writing letters and numbers}}
+# {{lb|pl|countable}} [[script]], [[scripture]] {{gl|document, especially official, written by hand or typed}} {{+preo|pl|do|gen|means=to whom}}
+# {{lb|pl|countable}} [[serial]], [[periodical]], [[magazine]] {{gl|publication issued regularly}}
+#: {{syn|pl|czasopismo|periodyk}}
+# {{lb|pl|chiefly|in the plural}} [[literature]] {{gl|literary, scientific, journalistic or other texts, treated as a whole, separated due to authorship, topic or period in which they were created}}
+# {{lb|pl|obsolete|uncountable}} [[script]], [[text]]; [[writing]] {{gl|that what is written}}
+#: {{syn|pl|tekst}}
+# {{lb|pl|Middle Polish|countable}} [[inscription]]
+#: {{syn|pl|napis}}
+# {{lb|pl|Middle Polish|uncountable}} [[language]]; [[text]] {{gl|written material in a given language}}
+# {{lb|pl|Middle Polish|countable}} [[letter]]; [[literal]] [[meaning]] {{gl|literal interpretation of something}}
+# {{lb|pl|Middle Polish}} [[script]]; [[literature]]; [[writing]] {{def-unc|pl|undetailed=1|nh=1}}
+#* {{RQ:pl:Mącz|page=195d|Literatura, '''Piſmo'''/ Też nauká.|-}}
+#* {{RQ:pl:Mącz|page=424b|Stylus etiam, Piſánie/ '''piſmo'''.|-}}
+#* {{RQ:pl:Calep|page=956b|Scriptus – '''Pyſmo'''.|-}}
+
+====Usage notes====
+The locative singular form {{m|pl|pismie}} is {{glink|obsolete}}.
 
 ====Declension====
-{{pl-decl-noun-n}}
+{{pl-decl-noun-n|locs=piśmie/pismie}}
 
 ====Derived terms====
-{{col-auto|pl|title=adjective|pisemny}}
-{{col-auto|pl|title=nouns|dziejopismo|pismo klinowe}}
+{{col-auto|pl|title=adjectives|pisemny|na piśmie}}
+{{col-auto|pl|title=nouns|dziejopismo|pismo klinowe|pismo gotyckie|pismo hieratyczne|pismo klinowe|pismo przewodnie|Pismo Święte|pismo techniczne|rzutnik pisma|uczony w piśmie}}
+{{col-auto|pl|title=proverbs|słowa ulatują, pismo pozostaje}}
+{{pl-derived verbs|wyczuć pismo nosem/czuć pismo nosem}}
+
+===Trivia===
+{{pl-freq 1990|17|17|7|10|5|56|1156|370|1}}
+
+===References===
+{{reflist}}
 
 ===Further reading===
-* {{R:pl:WSJP}}
+* {{R:pl:WSJP|pismo|3575}}
+* {{R:pl:WSJP|pisma|37320}}
 * {{R:pl:PWN}}
+* {{R:pl:SXVI|+|83473}}
+* {{R:pl:SXVII|PISMO|4989||27.04.2009}}
+* {{R:pl:SJP1807}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900||208|4}}
+* {{R:pl:NFJP}}
 
 {{C|pl|Writing|Writing systems}}
 
@@ -107,6 +139,32 @@
 * {{R:sh:HJP|eV1mXBI%3D}}
 
 {{C|sh|Alphabets|Writing}}
+
+==Silesian==
+
+===Etymology===
+{{dercat|szl|sla-pro|inh=1}}
+{{inh+|szl|zlw-opl|pismo}}.
+
+===Pronunciation===
+{{szl-pr}}
+
+===Noun===
+{{szl-noun|n|dim=pisymko}}
+
+# [[letter]] {{gl|written or printed communication}}
+#: {{syn|szl|list}}
+
+====Declension====
+{{szl-decl-noun|pismo|pisma|pismu|pismo|pismym|piśmie|pismo|pisma|[[pism]]/[[pismōw]]|pismōm|pisma|[[pismami]]/[[pismōma]]|pismach|pisma}}
+
+===Further reading===
+* {{R:szl:dykcjonorz}}
+* {{R:szl:silling}}
+* {{R:szl:ZPJŚ|+|111}}
+* {{R:szl:Wencel:2023|+|477}}
+
+{{C|szl|Post|Writing}}
 
 ==Slovene==
 
