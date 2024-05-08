@@ -35,7 +35,7 @@
 {{rfv|bca}}
 
 ===Noun===
-{{head|bca|nouns|tr=xuix}}
+{{head-lite|bca|nouns|tr=xuix}}
 
 # {{form of|bca|hanzi form|xuix}}
 #* {{quote-book|bca|year=1450|author=Yang Fu ({{lang|zh|楊黼}})|title={{lang|bca|《詞記山花——咏蒼洱境》}}|passage=煴煊茶'''水'''㱔呼𪢂|t=Boiling tea '''water''', greeting each other.}} <!-- from 赵橹《白文<山花碑>译释》1988 -->
@@ -678,7 +678,7 @@ From {{der|ko|ltc|sort=수|-}} {{ltc-l|水}}.
 {{rfv|lay}}
 
 ===Noun===
-{{head|lay|nouns|tr=ɕy³³}}
+{{head-lite|lay|nouns|tr=ɕy³³}}
 
 # hanzi form of [[ɕy³³]] ([[water]])
 
@@ -689,7 +689,7 @@ From {{der|ko|ltc|sort=수|-}} {{ltc-l|水}}.
 {{mvi-kanji}}
 
 ===Etymology===
-From {{inh|mvi|jpx-ryu-pro|*mezu}}.
+From {{inh|mvi|jpx-ryu-pro|*medu}}. This form preserves the initial pJ *e that was raised to ''i'' in Central Japanese.
 
 ===Pronunciation===
 * {{IPA|mvi|[mid͡zz̩]}}
@@ -712,7 +712,7 @@ From {{inh|mvi|jpx-ryu-pro|*mezu}}.
 {{ryn-kanji}}
 
 ===Etymology===
-From {{inh|ryn|jpx-ryu-pro|*mezu}}.
+From {{inh|ryn|jpx-ryu-pro|*medu}}. This form preserves the initial pJ *e that was raised to ''i'' in Central Japanese.
 
 ===Noun===
 {{ryn-head|noun|むぃずぃ}}
@@ -727,7 +727,7 @@ From {{inh|ryn|jpx-ryu-pro|*mezu}}.
 {{okn-kanji}}
 
 ===Etymology===
-From {{inh|okn|jpx-ryu-pro|*mezu}}.
+From {{inh|okn|jpx-ryu-pro|*medu}}.
 
 ===Noun===
 {{okn-head|noun|みじ}}
@@ -768,7 +768,7 @@ Cognate with {{cog|ja|水|tr=mizu}}, {{cog|ojp|水|tr=mi<sub>1</sub>du}}.
 {{ryu-pron|みずぃ|acc=1|acc_ref=OGJ}}
 
 ===Noun===
-{{ryu-head|noun|みじ}}
+{{ryu-head|noun|みじ|hist=みずぃ}}
 
 # [[water]]
 
@@ -790,13 +790,58 @@ Cognate with {{cog|ja|水|tr=mizu}}, {{cog|ojp|水|tr=mi<sub>1</sub>du}}.
 
 {{C|ryu|Inorganic compounds|Water}}
 
+==Old Japanese==
+
+===Etymology 1===
+From {{inh|ojp|jpx-pro|*mentu}}. Ryukyuan cognates support the existence of the first vowel having an initial mid vowel.
+
+Possibly cognate with {{m|ojp|瑞||tr=mi₁du|[[freshness]], [[youth]]}}. {{rfv-etym|ojp}}
+
+Possible cognate with {{cog|tuw-pro|*mū}}, {{cog|juc|木克|tr=mu-ke|ts=muke}}, {{cog|mnc|ᠮᡠᡴᡝ|tr=muke}}, {{cog|zkg|買||tr=*me|river; water}}, {{cog|mn|мөрөн||tr=mörön|river}}, {{cog|ko|물||tr=mul|water}}.
+
+====Noun====
+{{head-lite|ojp|noun|tr=mi₁du|kana|みづ}}
+
+# [[water]]
+
+====Derived terms====
+{{col|ojp|3|
+|水碓<tr:mi₁du-usu><t:a mortar to hull from a mill>
+|湖<tr:mi₁du-u₁mi₁><t:a lake>
+|水江<tr:mi₁du-ye><t:a water bay>
+|水掻<tr:mi₁du-kaki₁><t:a stroke of water>
+|水陰<tr:mi₁du-kage₂><t:water shade; shadow reflected in water>
+|水陰草<tr:mi₁du-kage₂-kusa><t:grass growing in water shade>
+|みづかふ<tr:mi₁du-kapu><t:to give a barn animal water>
+|水城<tr:mi₁du-ki₂><t:a fortress to store water into a bank to protect against enemies>
+|水茎<tr:mi₁du-kuki₂><t:fresh stalk hanging from a hill or ''mi₁du-ki₂''>
+|水蓼<tr:mi₁du-tade><t:knotweed growing from the shore>
+|水たまる<tr:mi₁du-tamaru><pos:allusion to {{m|ojp|池|tr=ike₂|t=pond}}; possibly meaning "filled up with water">
+|水伝ふ<tr:mi₁du-tutapu><pos:allusion to {{m|ojp|磯|tr=iso₁|t=rocky shore}}; possibly meaning "water going through shores">
+|水鳥<tr:mi₁du-to₂ri><t:waterfowl, water bird>
+|水鳥の<tr:mi₁du-to₂ri no₂><pos:allusion to the nature or representation of {{m|ojp|水鳥|tr=mi₁du-to₂ri}}>
+|准<tr:mi₁du-bakari><t:spirit level>
+|始水<tr:mi₁du-pana><t:onset of water>
+|清水<tr:simi₁du, semi₁do₁ (EOJ variant)>
+}}
+
+===Etymology 2===
+
+====Prefix====
+{{head-lite|ojp|prefix|tr=mi₁|kana|み}}
+
+# [[water]]
+
+===Quotations===
+{{seeCites|ojp}}
+
 ==Southern Amami-Oshima==
 
 ===Kanji===
 {{ams-kanji}}
 
 ===Etymology===
-From {{inh|ams|jpx-ryu-pro|*mezu}}.
+From {{inh|ams|jpx-ryu-pro|*medu}}.
 
 ===Noun===
 {{ams-head|noun|むぃっ}}
@@ -848,12 +893,12 @@ From {{inh|ams|jpx-ryu-pro|*mezu}}.
 {{yoi-kanji}}
 
 ===Etymology===
-From {{inh|yoi|jpx-ryu-pro|*mezu}}.
+From {{inh|yoi|jpx-ryu-pro|*medu}}.
 
 Possibly also related to {{cog|ko|물|tr=mul}}, {{cog|okm|밀||tr=mil|[[water]]}}.
 
 ===Pronunciation===
-* {{IPA|yoi|[miŋ]}}
+* {{IPA|yoi|[míŋ]}} (tone class A)
 
 ===Noun===
 {{yoi-head|noun|みん|みーん}}
@@ -872,9 +917,12 @@ Possibly also related to {{cog|ko|물|tr=mul}}, {{cog|okm|밀||tr=mil|[[water]]}
 {{yox-kanji}}
 
 ===Etymology===
-From {{inh|yox|jpx-ryu-pro|*mezu}}.
+From {{inh|yox|jpx-ryu-pro|*medu}}.
 
 Possibly also related to {{cog|ko|물|tr=mul}}, {{cog|okm|밀||tr=mil|[[water]]}}.
+
+===Pronunciation===
+* {{a|Mugiya Higashi-ku}} {{IPA|yox|[mìdʑì]}} (tone class A)
 
 ===Noun===
 {{yox-head|noun|みじ}}
