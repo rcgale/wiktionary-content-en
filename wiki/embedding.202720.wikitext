@@ -5,7 +5,12 @@
 {{en-noun}}
 
 # The act or process by which one thing is embedded in another.
-# {{lb|en|mathematics}} A map which maps a subspace (smaller structure) to the whole space (larger structure).
+# {{lb|en|mathematics}} A [[map]] which, in any of several technical senses, represents the containment of one structure inside another.
+## {{lb|en|topology}} A [[continuous]] map which  is also a [[homeomorphism]] between its [[domain]] and its [[image]] (considered with the [[subspace topology]] induced by its [[codomain]]).
+## {{lb|en|[[differential topology]]}} An [[immersion]] which is also a topological embedding; equivalently, a [[diffeomorphism]]  whose image is a [[submanifold]] of its [[codomain]].
+## {{lb|en|[[field]] theory|[[Galois theory]]}} A [[ring]] [[homomorphism]] between [[fields]] (''the name deriving from the fact that all such maps are [[injective]]'').
+## {{lb|en|analysis}} A map between [[metric space]]s which preserves [[distance]]s up to some [[scaling]] factor (called the [[distortion]]).
+## {{lb|en|category theory}} A [[injective]] [[morphism]] in a [[concrete]] [[category]] which is also [[initial]].
 # {{lb|en|machine learning|AI}} A representation of a unit of [[text#Noun|text]] (such as a [[word#Noun|word]] or [[token#Noun|token]]) as a [[vector#Noun|vector]], which [[encode#Verb|encodes]] the [[context#Noun|context]] in which it is used.
 #: {{coi|en|word '''embeddings'''}}
 #* {{quote-journal|en|author=Hannah Devlin|quotee=w:Arvind Narayanan|title=AI programs exhibit racial and gender biases, research reveals|work=The Guardian|date=2017-04-13|url=https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals|issn=0261-3077|passage=“A major reason we chose to study word '''embeddings''' is that they have been spectacularly successful in the last few years in helping computers make sense of language,” said Arvind Narayanan, a computer scientist at Princeton University and the paper’s senior author.}}
