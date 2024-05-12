@@ -2900,32 +2900,35 @@ from {{inh|sv|gem-pro|*ek}}.
 * Abecedario pronunciation is from {{der|tl|es|i}}.
 
 ====Pronunciation====
-* {{sense|letter name|Filipino alphabet}} {{IPA|tl|/ˈʔaj/|[ˈʔaɪ̯]}} <!-- {{tl-IPA}} -->
-* {{sense|letter name|Abakada alphabet|Abecedario}} {{IPA|tl|/ʔi/|[ʔɪ]}} <!-- {{tl-IPA}} -->
-* {{sense|phoneme}} {{IPA|tl|/i/|[ɪ]}} <!-- {{tl-IPA}} -->
-* {{rhymes|tl|aj|i|s=1}}
-* {{hyph|tl|i}} <!-- {{hyph|tl|i}} -->
+{{tl-pr
+|áy<qq:letter name, Filipino alphabet>
+|í<qq:letter name, Abakada alphabet, Abecedario>
+|-í<qq:phoneme, stressed>
+|-i<qq:phoneme, unstressed>
+|syll=i
+|new=1
+}}
 
 ====Letter====
-{{head|tl|letters|lower case||upper case|I|Baybayin spelling|ᜀᜌ᜔|f3sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-letter|b=ay}}
 
-# {{Latn-def|tl|letter|9|ay|alphabet name={{w|Filipino alphabet}}}}
+# {{tl-letter-def|9|ay|alph=fil}}
 
 ====Letter====
-{{head|tl|letters|lower case||upper case|I|Baybayin spelling|ᜁ|f3sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-letter|b=i}}
 
-# {{Latn-def|tl|letter|8|i|alphabet name={{w|Abakada alphabet}}}}
-# {{lb|tl|historical}} {{Latn-def|tl|letter|10|i|alphabet name={{w|Filipino orthography#Adoption of the Latin script|Abecedario}}}}
+# {{tl-letter-def|8|i|alph=abak}}
+# {{lb|tl|historical}} {{tl-letter-def|10|i|alph=abec}}
 
 =====See also=====
 * {{list:Latin script letters/tl/simple}}
 
 ====Noun====
-{{head|tl|nouns|Baybayin spelling|ᜁ|f1sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-noun|b=+}}
 
-# {{Latn-def|tl|name|I|i|nocap=0|dot=,}} ''in the {{w|Abakada alphabet}}.''
+# {{tl-letter name|I|i|alph=abak}}
 #: {{syn|tl|ay|q1=in the Filipino alphabet}}
-# {{lb|tl|historical}} {{Latn-def|tl|name|I|i|nocap=0|dot=,}} ''in the {{w|Filipino orthography#Adoption of the Latin script|Abecedario}}.''
+# {{lb|tl|historical}} {{tl-letter name|I|i|alph=abec}}
 #: {{syn|tl|ay|q1=in the Filipino alphabet}}
 
 =====See also=====
@@ -2940,9 +2943,9 @@ from {{inh|sv|gem-pro|*ek}}.
 * {{hyph|tl|i}}
 
 ====Noun====
-{{head|tl|nouns|Baybayin spelling|ᜁ|f1sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-noun|b=+}}
 
-# {{Latn-def|tl|name|E|e|nocap=0|dot=,}} ''in the {{w|Filipino alphabet}}.''
+# {{tl-letter name|E|e|alph=fil}}
 #: {{syn|tl|e|q1=in the Abakada alphabet and Abecedario}}
 
 =====See also=====
