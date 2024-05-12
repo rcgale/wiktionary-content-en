@@ -2673,21 +2673,25 @@ From Gay's Latin alphabet {{m|sh|A}}, from {{der|mul|cs|-}} alphabet {{m|cs|A}},
 * Abecedario pronunciation is from {{der|tl|es|A}}.
 
 ===Pronunciation===
-* {{sense|letter name|Filipino alphabet}} {{IPA|tl|/ˈʔej/|[ˈʔɛɪ̯]}} <!-- {{tl-IPA}} -->
-* {{sense|letter name|Abakada alphabet|Abecedario}} {{IPA|tl|/ˈʔa/|[ˈʔɐ]}} <!-- {{tl-IPA}} -->
-* {{sense|phoneme}} {{IPA|tl|/a/|[a~ɐ]}} <!-- {{tl-IPA}} -->
-* {{rhymes|tl|ej|a|s=1}}
+{{tl-pr
+|éy<qq:letter name, Filipino alphabet>
+|á<qq:letter name, Abakada alphabet, Abecedario>
+|-á<qq:phoneme, stressed>
+|-ā<qq:phoneme, unstressed>
+|syll=A
+|new=1
+}}
 
 ===Letter===
-{{head|tl|letters|upper case||lower case|a|Baybayin spelling|ᜁᜌ᜔|f3sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-letter|b=ey}}
 
-# {{Latn-def|tl|letter|1|ey|alphabet name={{w|Filipino alphabet}}}}
+# {{tl-letter-def|1|ey|alph=fil}}
 
 ===Letter===
-{{head|tl|letters|upper case||lower case|a|Baybayin spelling|ᜀ|f3sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-letter|b=a}}
 
-# {{Latn-def|tl|letter|1|a|alphabet name={{w|Abakada alphabet}}}}
-# {{lb|tl|historical}} {{Latn-def|tl|letter|1|a|alphabet name={{w|Filipino orthography#Adoption of the Latin script|Abecedario}}}}
+# {{tl-letter-def|1|a|alph=abak}}
+# {{lb|tl|historical}} {{tl-letter-def|1|a|alph=abec}}
 
 ====See also====
 * {{list:Latin script letters/tl/simple}}
