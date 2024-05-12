@@ -788,22 +788,17 @@ This variant of preposition {{l|sl|v}} is used only before words that start with
 * Abecedario pronunciation is from {{der-lite|tl|es|f}}.
 
 ===Pronunciation===
-* {{hyph-lite|tl|f}} <!-- {{hyph|tl|f}} -->
-* {{sense-lite|letter name|Filipino alphabet}}
-** {{IPA-lite|tl|/ˈʔef/|[ˈʔɛf]}} <!-- {{tl-IPA|ef}} -->
-** {{IPA-lite|tl|/ˈʔep/|[ˈʔɛp]}} <!-- {{tl-IPA|ep}} -->
-* {{sense-lite|letter name|Abecedario}}
-** {{IPA-lite|tl|/ˈʔefe/|[ˈʔɛ.fɛ]}} <!-- {{tl-IPA|efe}} -->
-** {{IPA-lite|tl|/ˈʔepe/|[ˈʔɛ.pɛ]}} <!-- {{tl-IPA|epe}} -->
-* {{sense-lite|phoneme}}
-** {{IPA-lite|tl|/f/|[f]}} <!-- {{tl-IPA|f}} -->
-** {{IPA-lite|tl|/p/|[p]}} <!-- {{tl-IPA|p}} -->
-* {{rhymes-lite|tl|ef|ep|efe|epe|s1=1|s2=1|s3=2|s4=2}}
+{{tl-pr
+|éf<qq:letter name, Filipino alphabet>
+|éfe<qq:letter name, Abecedario>
+|+<qq:phoneme>
+|new=1
+}}
 
 ===Letter===
-{{head-lite|tl|letters|lower case||upper case|F|Baybayin spelling|ᜁᜉ᜔|f3sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-letter|b=ef}}
 
-# {{Latn-def-lite|tl|letter|6|ef|alphabet name={{w|Filipino alphabet}}}}
+# {{tl-letter-def|6|ef|alph=fil}}
 
 ====Usage notes====
 * This letter is mostly used only in Spanish-based spellings, proper nouns, or unadapted loanwords.
@@ -813,9 +808,9 @@ This variant of preposition {{l|sl|v}} is used only before words that start with
 * {{list:Latin script letters/tl}}
 
 ===Letter===
-{{head-lite|tl|letters|lower case||upper case|F|Baybayin spelling|ᜁᜉᜒ|f3sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-letter|b=efe}}
 
-# {{lb|tl|historical}} {{Latn-def-lite|tl|letter|7|efe|alphabet name={{w|Filipino orthography#Adoption of the Latin script|Abecedario}}}}
+# {{lb|tl|historical}} {{tl-letter-def|7|efe|alph=abec}}
 
 ===Further reading===
 * {{R:Pambansang Diksiyonaryo}}
