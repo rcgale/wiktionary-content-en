@@ -2198,31 +2198,33 @@ For purely factual statements, {{m|srn|sa}} is more common. This marker is mostl
 * Abecedario pronunciation is from {{der|tl|es|o}}.
 
 ====Pronunciation====
-* {{sense|letter name}} {{tl-IPA|bullets=0}}
-* {{sense|letter name|Filipino alphabet alternative}} {{tl-IPA|ʔow|bullets=0}}
-* {{sense|phoneme}} {{IPA|tl|/o/|[o]}}
-* {{rhymes|tl|o|ow|s=1}}
-* {{hyph|tl|o}}
+{{tl-pr
+|ó<qq:letter name>
+|ów<qq:letter name, Filipino alphabet alternative>
+|-ó<qq:phoneme, stressed or unstressed>
+|syll=o
+|new=1
+}}
 
 ====Letter====
-{{head|tl|letters|lower case||upper case|O|Baybayin spelling|ᜂ|f3sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-letter|b=o}}
 
-# {{Latn-def|tl|letter|17|o|alphabet name={{w|Filipino alphabet}}}}
-# {{Latn-def|tl|letter|13|o|alphabet name={{w|Abakada alphabet}}}}
-# {{lb|tl|historical}} {{Latn-def|tl|letter|18|o|alphabet name={{w|Filipino orthography#Adoption of the Latin script|Abecedario}}}}
+# {{tl-letter-def|17|o|alph=fil}}
+# {{tl-letter-def|13|o|alph=abak}}
+# {{lb|tl|historical}} {{tl-letter-def|18|o|alph=abec}}
 
 =====See also=====
 * {{list:Latin script letters/tl/simple}}
 
 ====Noun====
-{{head|tl|nouns|Baybayin spelling|ᜂ|f1sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-noun|b=+}}
 
-# {{Latn-def|tl|name|O|o|nocap=0|dot=,}} ''in the {{w|Filipino alphabet}}.''
-# {{Latn-def|tl|name|O|o|nocap=0|dot=,}} ''in the {{w|Abakada alphabet}}.''
-# {{lb|tl|historical}} {{Latn-def|tl|name|O|o|nocap=0|dot=,}} ''in the {{w|Filipino orthography#Adoption of the Latin script|Abecedario}}.''
+# {{tl-letter name|O|o|alph=fil}}
+# {{tl-letter name|O|o|alph=abak}}
+# {{lb|tl|historical}} {{tl-letter name|O|o|alph=abec}}
 
 =====Alternative forms=====
-* {{alt|tl|ow}} – ''Filipino alphabet letter''
+* {{alt|tl|ow||Filipino alphabet letter}}
 
 =====See also=====
 * {{list:Latin script letter names/tl/simple}}
@@ -2232,12 +2234,10 @@ For purely factual statements, {{m|srn|sa}} is more common. This marker is mostl
 {{bor+|tl|es|o||or}}, from {{der|tl|la|aut}}.
 
 ====Pronunciation====
-* {{IPA|tl|/o/|[o]}}
-* {{rhymes|tl|o|s=1}}
-* {{hyph|tl|o}}
+{{tl-pr}}
 
 ====Conjunction====
-{{head|tl|conjunctions|Baybayin spelling|ᜂ|f1sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-head|conjunction|b=+}}
 
 # [[or]]
 #: {{syn|tl|o kaya|dili kaya|kung|q3=inclusive, obsolete}}
@@ -2253,11 +2253,10 @@ Compare {{cog|nan-hbl|乎|tr=hôⁿ / hô͘}}, {{cog|en|oh}} and {{cog|es|oh}}.
 * {{alt|tl|oh}}
 
 ====Pronunciation====
-{{tl-IPA}}
-* {{rhymes|tl|o|s=1}}
+{{tl-pr}}
 
 ====Particle====
-{{head|tl|particles|Baybayin spelling|ᜂ|f1sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-head|particle|b=+}}
 
 # {{lb|tl|informal}} {{n-g|sentence-ending particle used to express warning or to catch someone's attention.}}
 #: {{ux|tl|Nandiyan na naman siya '''o'''.|He's at it again, '''see?'''}}
@@ -2267,7 +2266,7 @@ Compare {{cog|nan-hbl|乎|tr=hôⁿ / hô͘}}, {{cog|en|oh}} and {{cog|es|oh}}.
 {{col3|tl|ay|oy}}
 
 ====Interjection====
-{{head|tl|interjections|Baybayin spelling|ᜂ|f1sc=Tglg|cat2=terms with Baybayin script}} {{tlb|tl|informal}}
+{{tl-head|interjection|b=+}} {{tlb|tl|informal}}
 
 # {{n-g|expression of surprise, wonder, amazement, or awe}}: [[oh]]!
 #: {{ux|tl|Hayop naman '''oh'''!|Damn it, '''argh'''!}}
