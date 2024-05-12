@@ -705,16 +705,18 @@ Mostly used in loan words and foreign names. Also used in old inscriptions and t
 * Abecedario pronunciation is from {{der-lite|tl|es|X}}.
 
 ===Pronunciation===
-* {{sense-lite|letter name|Filipino alphabet}} {{IPA-lite|tl|/ʔeks/|[ʔɛks]}} <!-- {{tl-IPA|eks}} -->
-* {{sense-lite|letter name|Abecedario}} {{IPA-lite|tl|/ˈʔekis/|[ˈʔɛ.xɪs]}} <!-- {{tl-IPA|ekis}} -->
-* {{sense-lite|phoneme}} {{IPA-lite|tl|/ks/|[ks]}} <!-- {{tl-IPA|ks}} -->
-* {{sense-lite|phoneme|some Spanish loanwords}} {{IPA-lite|tl|/h/|[h]}} <!-- {{tl-IPA|h}} -->
-* {{rhymes-lite|tl|eks|ekis|s=1|s2=2}}
+{{tl-pr
+|éks<qq:letter name, Filipino alphabet>
+|ekis<qq:letter name, Abecedario>
+|ks<qq:phoneme>
+|h<qq:phoneme, some Spanish loanwords>
+|new=1
+}}
 
 ===Letter===
-{{head-lite|tl|letters|upper case||lower case|x|Baybayin spelling|ᜁᜃ᜔ᜐ᜔|f3sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-letter|b=eks}}
 
-# {{Latn-def-lite|tl|letter|26|eks|alphabet name={{w|Filipino alphabet}}}}
+# {{tl-letter-def|26|eks|alph=fil}}
 
 ====Usage notes====
 * This letter is mostly used only in proper nouns, unadapted loanwords, or Spanish-based spellings.
@@ -726,9 +728,9 @@ Mostly used in loan words and foreign names. Also used in old inscriptions and t
 * {{list:Latin script letters/tl/simple}}
 
 ===Letter===
-{{head-lite|tl|letters|upper case||lower case|x|Baybayin spelling|ᜁᜃᜒᜐ᜔|f3sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-letter|b=ekis}}
 
-# {{lb|tl|historical}} {{Latn-def-lite|tl|letter|26|equis|ekis|alphabet name={{w|Filipino orthography#Adoption of the Latin script|Abecedario}}}}
+# {{lb|tl|historical}} {{tl-letter-def|26|equis|ekis|alph=abec}}
 
 ===Further reading===
 * {{R:Pambansang Diksiyonaryo}}
