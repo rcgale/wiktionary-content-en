@@ -898,30 +898,32 @@ Used chiefly in recent loanwords and foreign proper nouns.
 * Abecedario pronunciation is from {{der|tl|es|y}}.
 
 ====Pronunciation====
-{{tl-IPA|way|pre={{sense|letter name|Filipino alphabet}}}}
-{{tl-IPA|ya|pre={{sense|letter name|Abakada alphabet}}}}
-{{tl-IPA|ye|pre={{sense|letter name|Abecedario}}}}
-* {{sense|phoneme}} {{IPA|tl|/j/|[j]}}
-* {{sense|phoneme|used as a vowel}} {{IPA|tl|/i/|[ɪ]}}
-* {{rhymes|tl|aj|a|e|s=1}}
+{{tl-pr
+|wáy<qq:letter name, Filipino alphabet>
+|yá<qq:letter name, Abakada alphabet>
+|yé<qq:letter name, Abecedario>
+|raw:/j/ [j]<qq:phoneme>
+|-i<qq:phoneme, used as a vowel>
+|new=1
+}}
 
 ====Letter====
-{{head|tl|letters|lower case||upper case|Y|Baybayin spelling|{{tl-bay sc|way}}|f3sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-letter|b=way}}
 
-# {{Latn-def|tl|letter|27|way|alphabet name={{w|Filipino alphabet}}}}
+# {{tl-letter-def|27|way|alph=fil}}
 
 =====See also=====
 * {{list:Latin script letters/tl}}
 
 ====Letter====
-{{head|tl|letter|lower case||upper case|Y|Baybayin spelling|{{tl-bay sc|ya}}|f3sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-letter|b=ya}}
 
-# {{Latn-def|tl|letter|20|ya|alphabet name={{w|Abakada alphabet}}}}
+# {{tl-letter-def|20|ya|alph=abak}}
 
 ====Letter====
-{{head|tl|letter|lower case||upper case|Y|Baybayin spelling|{{tl-bay sc|ye}}|f3sc=Tglg|cat2=terms with Baybayin script}}
+{{tl-letter|b=ye}}
 
-# {{lb|tl|historical}} {{Latn-def|tl|letter|27|ye|alphabet name={{w|Filipino orthography#Adoption of the Latin script|Abecedario}}}}
+# {{lb|tl|historical}} {{tl-letter-def|27|ye|alph=abec}}
 
 ===Etymology 2===
 {{bor+|tl|es|y}}.
