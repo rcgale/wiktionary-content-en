@@ -37,7 +37,7 @@
 {{trans-top}}
 * Esperanto: {{t|eo|Askio}}
 * French: {{t+|fr|ASCII|m}}
-* Japanese: {{t|ja|ASCII}}, {{t|ja|アスキー|tr=asukī}}
+* Japanese: {{t|ja|ASCII|tr=asukī}}, {{t|ja|アスキー|tr=asukī}}
 * Marathi: {{t|mr|आस्की}}, {{t|mr|अ‍ॅस्की}}
 * Portuguese: {{t+|pt|ASCII|m}}
 {{trans-bottom}}
@@ -70,3 +70,26 @@
 {{pt-proper noun|m}}
 
 # {{lb|pt|computing}} {{l|en|ASCII}} {{gloss|a 7-bit character encoding}}
+
+==Japanese==
+{{wp|lang=ja}}
+
+===Etymology===
+{{bor+|ja|en|ASCII}}.<ref name="DJR"/>
+
+===Pronunciation===
+{{ja-pron|アスキー|acc=1|acc_ref=DJR|dev=2}}
+
+===Proper noun===
+{{ja-pos|proper|アスキー}}
+
+# [[#English|ASCII]] {{gl|character encoding}}
+
+====Derived terms====
+* {{ja-r|ASCIIファイル|アスキー ファイル}}
+
+====See also====
+* {{ja-r|アスキーアート|アスキー アート}}
+
+===References===
+<references/>
