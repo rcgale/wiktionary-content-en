@@ -1,34 +1,65 @@
 ==English==
-
-===Alternative forms===
-* {{l|en|savor}} {{q|chiefly US}}
+{{was wotd|2024|June|18}}
 
 ===Pronunciation===
-* {{IPA|en|/ˈseɪvə(ɹ)/}}
+* {{IPA|en|/ˈseɪvə/|a=RP}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-savour.wav|Audio (Southern England)}}
+* {{IPA|en|/ˈseɪvəɹ/|a=GA}}
+* {{audio|en|En-au-saver.ogg|Audio (AU)}}
+* {{homophones|en|saver}}
 * {{rhymes|en|eɪvə(ɹ)|s=2}}
-* {{audio|en|LL-Q1860 (eng)-Vealhurl-savour.wav |Audio (Southern England)}}
+* {{hyphenation|en|sav|our}}
 
 ===Etymology 1===
-{{root|en|ine-pro|*seh₁p-}}
-From {{inh|en|enm|savour}}, from {{der|en|fro|savour}}, from {{der|en|la|sapor||taste, flavor}}, from {{m|la|sapiō||taste of, have a flavor of}}. {{doublet|en|sapor}}.
+{{root|en|ine-pro|*seh₁p-|*-os|*-s}}
+From {{inh|en|enm|savour|t=flavour; flavouring; taste; smell; appetite; characteristic; essence; attractiveness; delight, pleasure; knowledge, wisdom}},<ref>{{R:MED Online|entry=sāvǒur|pos=n|id=MED38653}}</ref> from {{der|en|xno|saveur}}, {{m|xno|savor}}, {{m|xno|savour}}, and {{der|en|fro|saveur}}, {{m|fro|savor}}, {{m|fro|savour|t=flavour; flavouring; taste; scent; delight, pleasure; knowledge, wisdom}} (modern {{cog|fr|saveur}}), from {{der|en|la|sapor|t=flavour; taste; scent; smell}},<ref>{{R:OED Online|entry=savour {{!}} savor|pos=n|id=5411002190|date=March 2024|nodot=1}}; {{R:Lexico|pos=n}}</ref> from {{m|la|sapiō|t=to taste of (something); to have a flavour}} (ultimately from {{der|en|ine-pro|*sep-|*seh₁p-, *sep-|to taste; to try out}}) + {{m|la|-or|pos={{glossary|suffix}} forming third-{{glossary|declension}} {{glossary|masculine}} {{glossary|abstract noun}}s}}. {{doublet|en|sapor}}.
+
+{{rel-top|cognates}}
+* {{cog|ca|sabor}}
+* {{cog|fr|saveur}}
+* {{cog|it|sapore}}
+* {{cog|pro|sabor}}
+* {{cog|pt|sabor}}
+* {{cog|es|sabor}}
+{{rel-bottom}}
 
 ====Noun====
-{{en-noun|~}} {{lb|en|British spelling}}
+{{en-noun|~}} {{term-label|en|British spelling}}
 
 # The specific [[taste]] or [[smell]] of something.
 #* {{RQ:Falkner Moonfleet|chapter=5|passage=He held out to me a bowl of steaming broth, that filled the room with a '''savour''' sweeter, ten thousand times, to me than every rose and lily of the world; yet would not let me drink it at a gulp, but made me sip it with a spoon like any baby.}}
-#* {{RQ:Vance Nobody|I
-|passage=Little disappointed, then, she turned attention to "Chat of the Social World," gossip which exercised potent fascination upon the girl's intelligence. She devoured with more avidity than she had her food those pretentiously phrased chronicles of the snobocracy {{...}} distilling therefrom an acid envy that robbed her napoleon of all its '''savour'''.}}
+#* {{RQ:Vance Nobody|I|passage=Little disappointed, then, she turned attention to "Chat of the Social World," gossip which exercised potent fascination upon the girl's intelligence. She devoured with more avidity than she had her food those pretentiously phrased chronicles of the snobocracy {{...}} distilling therefrom an acid envy that robbed her napoleon of all its '''savour'''.}}
 # A [[distinctive]] [[sensation]].
-#* {{quote-text|en|year=1650|author=w:Richard Baxter|title=The Saints Everlasting Rest
-|passage=Why is not my life a continual joy, and the '''savour''' of heaven perpetually upon my spirit?}}
+#* {{quote-text|en|year=1650|author=w:Richard Baxter|title=The Saints Everlasting Rest|passage=Why is not my life a continual joy, and the '''savour''' of heaven perpetually upon my spirit?}}
 # Sense of smell; power to scent, or trace by scent.
-#* {{RQ:Herbert Temple
-|passage=beyond my '''savour'''}}
+#* {{RQ:Herbert Temple|passage=beyond my '''savour'''}}
 # Pleasure; appreciation; relish.
 
+====Alternative forms====
+* {{alter|en|savor}} {{qualifier|chiefly US}}
+
+====Derived terms====
+{{col3|en
+|{{l|en|savoured|pos=adjective}} ({{l|en|savored}})
+|{{l|en|savourless}} ({{l|en|savorless}})
+|{{l|en|savourlessness}} ({{l|en|savorlessness}})
+|{{l|en|savourly}} ({{l|en|savorly}})
+|{{l|en|savoursome}} ({{l|en|savorsome}})
+|{{l|en|spendsavour}} {{qualifier|obsolete}}
+}}
+
+====Related terms====
+{{col3|en
+|sapor
+|{{l|en|savourous}} ({{l|en|savorous}})
+|{{l|en|savourily}} ({{l|en|savorily}})
+|{{l|en|savouriness}} ({{l|en|savoriness}})
+|{{l|en|savoury}} ({{l|en|savory}})
+|{{l|en|unsavoury}} ({{l|en|unsavory}})
+}}
+
 =====Translations=====
-{{trans-top|the specific taste or smell of something}}
+{{trans-top|specific taste or smell of something}}
 * Bulgarian: {{t+|bg|вкус|m}}
 * Chinese:
 *: Mandarin: {{t-needed|cmn}}
@@ -46,7 +77,7 @@ From {{inh|en|enm|savour}}, from {{der|en|fro|savour}}, from {{der|en|la|sapor||
 * Turkish: {{t+|tr|çeşni}}
 {{trans-bottom}}
 
-{{trans-top|a distinctive sensation}}
+{{trans-top|distinctive sensation}}
 * Chinese:
 *: Mandarin: {{t-needed|cmn}}
 * Finnish: {{t+|fi|viehätys}}, {{t|fi|sivumaku}}, {{t+|fi|mielenkiinto}}
@@ -55,10 +86,18 @@ From {{inh|en|enm|savour}}, from {{der|en|fro|savour}}, from {{der|en|la|sapor||
 {{trans-bottom}}
 
 ===Etymology 2===
-From {{inh|en|enm|savour}}, from {{der|en|fro|savourer}}, from {{m|fro|savour}}, or possibly {{der|en|LL.|sapōrāre}}, present active infinitive of {{m|la|sapōrō}}, from {{m|la|sapor||taste, flavor}}, from {{m|la|sapiō||taste of, have a flavor of}}.
+From {{inh|en|enm|savouren}}, {{m|enm|savour|t=to be tasty; to give flavour; to have flavour; to taste or enjoy the taste of (something); to be able to smell; to have a smell; to smell (something); to enjoy; to give pleasure; to know, understand; to learn; to have a spiritual experience}},<ref>{{R:MED Online|entry=sāvǒuren|pos=v|id=MED38656}}</ref> from {{der|en|xno|savorer}}, {{m|xno|savourer}}, {{der|en|frm|savorer}}, {{m|frm|savourer}}, and {{der|en|fro|savorer}}, {{m|fro|savourer|t=to give flavour; to have flavour; to be pleasant; to taste or enjoy the taste of (something); to enjoy; to know, perceive}} (modern {{cog|fr|savourer}}), from {{der|en|LL.|sapōrāre}}, the {{glossary|present}} {{glossary|active}} {{glossary|infinitive}} of {{m|LL.|sapōrō|t=to give flavour, make tasty; to give pleasure}}, from {{der|en|la|sapor|t=flavour; taste; scent; smell}} (see [[#Etymology 1|etymology 1]])<ref>{{R:OED Online|entry=savour {{!}} savor|pos=v|id=3626738198|date=December 2023|nodot=1}}; {{R:Lexico|pos=v}}</ref> + {{m|la|-ō|pos=suffix forming regular first-{{glossary|conjugation}} {{glossary|verb}}s}}.
+
+{{rel-top|cognates}}
+* {{cog|fr|savourer}}
+* {{cog|it|saporare}}, {{m|it|savorare}} {{qualifier|obsolete}}
+* {{cog|pro|saborir}}
+* {{cog|pt|saborear}}
+* {{cog|es|saborear}}
+{{rel-bottom}}
 
 ====Verb====
-{{en-verb}} {{lb|en|British spelling}}
+{{en-verb}} {{term-label|en|British spelling}}
 
 # {{lb|en|intransitive}} To possess a particular taste or smell, or a distinctive quality.
 #* {{RQ:Shakespeare Twelfth Night|V|i|passage=This '''savours''' not much of distraction.}}
@@ -71,6 +110,20 @@ From {{inh|en|enm|savour}}, from {{der|en|fro|savourer}}, from {{m|fro|savour}},
 # {{lb|en|transitive|archaic}} To [[season]].
 #* '''1974''', W. R. Barron, ''{{w|Sir Gawain and the Green Knight}}'' (modern translation)
 #*: {{...}} divers sorts of fish; some baked in bread, some broiled on the coals, some seethed, some in gravy '''savoured''' with spices, and all with condiments so cunning that it caused him delight.
+
+====Alternative forms====
+* {{alter|en|savor}} {{qualifier|chiefly US}}
+
+====Derived terms====
+{{col3|en
+|{{l|en|missavour}} {{qualifier|obsolete|rare}}
+|{{l|en|outsavour}}
+|{{l|en|savourable}} ({{l|en|savorable}})
+|{{l|en|savoured|pos=adjective}} ({{l|en|savored}})
+|{{l|en|savourer}} ({{l|en|savorer}})
+|{{l|en|savouring|pos=adjective, noun}} ({{l|en|savoring}})
+|{{l|en|unsavour}} {{qualifier|obsolete}}
+}}
 
 =====Translations=====
 {{trans-top|to possess a particular taste or smell, or a distinctive quality}}
@@ -113,6 +166,12 @@ From {{inh|en|enm|savour}}, from {{der|en|fro|savourer}}, from {{m|fro|savour}},
 {{checktrans-top}}
 * Spanish: {{t+check|es|saborear}}
 {{trans-bottom}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{pedia|savor|savor (disambiguation)}}
 
 ===Anagrams===
 * {{anagrams|en|a=aorsuv|varous}}
