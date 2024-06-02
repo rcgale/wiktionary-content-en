@@ -89,7 +89,7 @@ From {{inh|en|enm|wher}}, from {{inh|en|ang|hwǣr|t=where|lit=at what place}}, f
 *: Hakka: {{tt|hak|哪仔|tr=nai-é}}, {{tt|hak|哪位|tr=nai-vi}}
 *: Hokkien: {{tt+|nan-hbl|佗位|tr=tó-ūi}}
 *: Jin: {{tt|cjy|哪裡|tr=na2 le1}}
-*: Mandarin: {{tt+|cmn|哪裡|tr=nǎli}}, {{tt+|cmn|哪兒|tr=nǎr}}
+*: Mandarin: {{qualifier|if the place is unknown or is an answer of a question}} {{tt+|cmn|哪裡|tr=nǎli}}, {{tt+|cmn|哪兒|tr=nǎr}}, {{qualifier|if the place is certain}} {{tt+|cmn|那裡|tr=nàli}}, {{tt+|cmn|那兒|tr=nàr}}
 *: Wu: {{tt|wuu|啥地方}}, {{tt|wuu|阿裡}}
 *: Xiang: {{tt|hsn|哪裡|tr=la3 li}}
 * Crimean Tatar: {{tt|crh|qayerge}}
@@ -118,7 +118,7 @@ From {{inh|en|enm|wher}}, from {{inh|en|ang|hwǣr|t=where|lit=at what place}}, f
 * Indonesian: {{tt+|id|mana}}, {{tt+|id|di mana}}, {{tt+|id|ke mana}}
 * Interlingua: {{tt+|ia|ubi}}
 * Italian: {{tt+|it|dove}}
-* Japanese: {{tt+|ja|何処|alt=何処に|tr=どこに, doko ni}}, {{tt+|ja|どこ|alt=どこに|tr=doko ni}}
+* Japanese: {{qualifier|if the place is unknown or is an answer of a question}} {{tt+|ja|どこ|tr=doko}}, {{qualifier|if the place is certain}} {{tt+|ja|そこ|tr=soko}}
 * Javanese: {{tt|id|endi}}, {{tt|id|ing ngendi}}
 * Kabuverdianu: {{tt|kea|undi}}
 * Kalmyk: {{tt|xal|альд}}
@@ -217,7 +217,7 @@ From {{inh|en|enm|wher}}, from {{inh|en|ang|hwǣr|t=where|lit=at what place}}, f
 * Hungarian: {{tt+|hu|ahova}}, {{tt+|hu|ahová}}
 * Icelandic: {{tt|is|þangað sem}}
 * Italian: {{tt+|it|laddove}}
-* Japanese: {{tt+|ja|何処|alt=何処へ|tr=どこへ, doko e}}, {{tt+|ja|どこ|alt=どこへ|tr=doko e}}
+* Japanese: {{tt+|ja|どこ|alt=どこへ|tr=doko e}}
 * Korean: {{tt+|ko|으로|alt=-으로}}
 * Kyrgyz: {{tt|ky|каякка}}
 * Latvian: {{tt+|lv|kur}}, {{tt|lv|kurp}}
@@ -246,6 +246,16 @@ From {{inh|en|enm|wher}}, from {{inh|en|ang|hwǣr|t=where|lit=at what place}}, f
 {{trans-top|wherever}}
 * Assamese: {{tt|as|য’ত}}
 * Bikol Central: {{tt|bcl|dawa sain}}
+* Chinese:
+*: Cantonese: {{tt+|yue|邊度|tr=bin1 dou6}}, {{tt|yue|邊處|tr=bin1 syu3, bin1 syu3-2}}
+*: Dungan: {{tt|dng|нани}}, {{tt|dng|натар}}
+*: Eastern Min: {{tt|cdo|底所|tr=diē-nē̤, dē̤-nē̤}}
+*: Hakka: {{tt|hak|哪仔|tr=nai-é}}, {{tt|hak|哪位|tr=nai-vi}}
+*: Hokkien: {{tt+|nan-hbl|佗位|tr=tó-ūi}}
+*: Jin: {{tt|cjy|哪裡|tr=na2 le1}}
+*: Mandarin: {{tt+|cmn|哪裡|tr=nǎli}}, {{tt+|cmn|哪兒|tr=nǎr}}
+*: Wu: {{tt|wuu|啥地方}}, {{tt|wuu|阿裡}}
+*: Xiang: {{tt|hsn|哪裡|tr=la3 li}}
 * Finnish: {{tt+|fi|minne}}, {{tt|fi|sinne minne}}
 * French: {{tt+|fr|où que}}
 * Galician: {{tt+|gl|onde}}
@@ -253,7 +263,7 @@ From {{inh|en|enm|wher}}, from {{inh|en|ang|hwǣr|t=where|lit=at what place}}, f
 *: Ancient: {{tt|grc|ὅποι}}, {{tt|grc|ὅπου}}
 * Hindi: {{tt+|hi|जहाँ}}, {{tt+|hi|जिधर}}
 * Italian: {{tt+|it|laddove}}
-* Japanese: {{tt|ja|する所はどこでも}}
+* Japanese: {{tt+|ja|とこ|tr=toko}}
 * Korean: {{tt+|ko|든지|alt=어디든지}}
 * Malay: {{tt+|ms|mana-mana}}
 * Swedish: {{tt|sv|vartän}}
