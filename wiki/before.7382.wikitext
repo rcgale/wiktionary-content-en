@@ -1,13 +1,11 @@
 ==English==
 
 ===Alternative forms===
-* {{l|en|befo}} {{q|pronunciation spelling}}
-* {{l|en|befo'}} {{q|pronunciation spelling}}
-* {{l|en|b4}} {{q|Internet slang}}
-* {{l|en|be4}} {{q|Internet slang}}
+* {{alt|en|befo|befo'||pronunciation spelling}}
+* {{alt|en|b4|be4||Internet slang}}
 
 ===Etymology===
-From {{inh|en|enm|before}}, {{m|enm|bifore}} (adverb and preposition), from {{inh|en|ang|beforan}}, from {{m|ang|be-}} + {{m|ang|foran||before}}, from {{m|ang|fore}}, from {{der|en|gem-pro|*furai}}, from {{der|en|ine-pro|*per-||front}}. Cognate with {{cog|stq|befoar|t=before}}, {{cog|nds-de|bevör|t=before}}, {{cog|de|bevor|t=before}}.
+{{inh+|en|enm|before//bifore}}, from {{inh|en|ang|beforan}}, from {{m|ang|be-}} + {{m|ang|foran||before}}, from {{m|ang|fore}}, from {{der|en|gem-pro|*furai}}, from {{der|en|ine-pro|*per-||front}}. Cognate with {{cog|stq|befoar|t=before}}, {{cog|nds-de|bevör|t=before}}, {{cog|de|bevor|t=before}}.
 
 ===Pronunciation===
 * {{enPR|bĭfôʹ|a=RP}}, {{IPA|en|/bɪˈfɔː/}}
@@ -22,9 +20,13 @@ From {{inh|en|enm|before}}, {{m|enm|bifore}} (adverb and preposition), from {{in
 {{en-prep}}
 
 # Earlier than (in time).
+#: {{syn|en|by|no later than|previous to|prior to|ere<qq:obsolete>}}
+#: {{ant|en|after|[[later]] than}}
 #: {{ux|en|I want this done '''before''' Monday.}}
 #* {{RQ:Churchill Celebrity|chapter=5|passage=We made an odd party '''before''' the arrival of the Ten, particularly when the Celebrity dropped in for lunch or dinner.}}
 # In front of in space.
+#: {{syn|en|ahead of|in front of}}
+#: {{ant|en|behind}}
 #: {{ux|en|He stood '''before''' me.}}
 #: {{ux|en|We sat '''before''' the fire to warm ourselves.}}
 #* {{RQ:Milton Paradise Lost|12|passage=His angel, who shall go / '''Before''' them in a cloud and pillar of fire.}}
@@ -45,28 +47,20 @@ From {{inh|en|enm|before}}, {{m|enm|bifore}} (adverb and preposition), from {{in
 #* {{RQ:Carlyle Sartor Resartus|The Phœnix|164|The golden age{{...}}is '''before''' us.}}
 #* {{RQ:Dunsany Pegana||76|There is an Eternity behind thee as well as one '''before'''. Hast thou bewailed the aeons that passed without thee, who art so much afraid of the aeons that shall pass?}}
 # In front of, according to a formal system of ordering items.
+#: {{syn|en|ahead of}}
+#: {{ant|en|after}}
 #: {{ux|en|In alphabetical order, "cat" comes '''before''' "dog", "canine" '''before''' feline".}}
 # At a higher or greater position than, in a ranking.
 #: {{ux|en|An entrepreneur puts market share and profit '''before''' quality, and amateur intrinsic qualities '''before''' economical considerations.}}
 #* {{RQ:KJV|John|1|15||He that cometh after me is preferred '''before''' me.}}
 
-====Synonyms====
-* {{sense|earlier than in time}} {{l|en|by}}, [[no later than]], [[previous to]], [[prior to]], {{l|en|ere}} {{q|obsolete}}
-* {{sense|in front of in space}} {{l|en|ahead of}}, [[in front of]]
-* {{sense|in front of according to an ordering system}} [[ahead of]]
-
-====Antonyms====
-* {{antsense|earlier than in time}} {{l|en|after}}, {{l|en|later}} than
-* {{antsense|in front of in space}} {{l|en|behind}}
-* {{antsense|in front of according to an ordering system}} {{l|en|after}}
-
 ====Translations====
 {{trans-top|earlier than}}
 * Albanian: {{t+|sq|para}}
 * Arabic: {{t+|ar|قَبْلَ}}
-*: Egyptian Arabic: {{t|arz|قبل|tr=ʔabl|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|قبل|tr=ʔabl}}
 *: Hijazi Arabic: {{t|acw|قَبل|tr=gabil}}
-*: Moroccan Arabic: {{t|ary|ڭبل|tr=gbəl|alt=ڭْبل}}, {{t|ary|قبل|tr=qbəl|alt=قْبل}}
+*: Moroccan Arabic: {{t|ary|قبل|tr=qbal}}
 * Armenian: {{t+|hy|առաջ}}, {{t+|hy|մինչեւ}}
 * Aromanian: {{t|rup|nãnti}}, {{t+|rup|ninti}}, {{t|rup|nãinti}}
 * Ashkun: {{t|ask|nustāri}}
@@ -170,7 +164,7 @@ From {{inh|en|enm|before}}, {{m|enm|bifore}} (adverb and preposition), from {{in
 {{trans-top|in front of in space}}
 * Albanian: {{t+|sq|para}}
 * Arabic: {{t+|ar|قَبْلَ}}, {{t|ar|أَمَامَ}}, {{t|ar|قُدَّامَ}}, {{t|ar|بَيْنَ يَدَيْ}}
-*: Moroccan Arabic: {{t|ary|ڭدام|tr=gəddæm|alt=ڭدّام}}
+*: Moroccan Arabic: {{t|ary|قدام|tr=quddām}}, {{t|ary|قبالة|tr=qbāla}}
 * Armenian: {{t+|hy|առջև}}, {{t+|hy|առջևում}}
 * Ashkun: {{t|ask|nustāri}}
 * Bashkir: {{qualifier|when specific object is specified}} {{t|ba|алдында}}, {{qualifier|when no specific object is specified}} {{t|ba|алда}}
@@ -336,23 +330,19 @@ From {{inh|en|enm|before}}, {{m|enm|bifore}} (adverb and preposition), from {{in
 {{en-adv|-}}
 
 # At an earlier time.
+#: {{syn|en|previously}}
+#: {{ant|en|after}}
 #: {{ux|en|I've never done this '''before'''.}}
 #: {{ux|en|This achievement far exceeded anything that had come '''before'''.}}
 #* {{RQ:Maxwell Mirror and the Lamp|chapter=12|passage=All this was extraordinarily distasteful to Churchill. It was ugly, gross. Never '''before''' had he felt such repulsion when the vicar displayed his characteristic bluntness or coarseness of speech. In the present connexion—or rather as a transition from the subject that started their conversation—such talk had been distressingly out of place.}}
 # {{lb|en|chiefly literary or poetic}} In advance in position or sequence; ahead.
+#: {{syn|en|ahead}}
 #: {{ux|en|We walked behind while they went '''before'''.}}
 # {{lb|en|uncommon}} At the front end.
+#: {{syn|en|in front}}
+#: {{ant|en|behind}}
 #* {{quote-text|en|year=1896|author=w:Hilaire Belloc|title=The Bad Child’s Book of Beasts|chapter=[[s:The Bad Child's Book Of Beasts/The Elephant|The Elephant]]
 |passage=When people call this beast to mind,<br/>They marvel more and more<br/>At such a {{smallcaps|little}} tail behind,<br/>So <big>LARGE</big> a trunk '''before'''.}}
-
-====Synonyms====
-* {{sense|at an earlier time}} {{l|en|previously}}
-* {{sense|in advance}} {{l|en|ahead}}
-* {{sense|at the front end}} {{l|en|in front}}
-
-====Antonyms====
-* {{antsense|at an earlier time}} {{l|en|after}}
-* {{antsense|at the front end}} {{l|en|behind}}
 
 ====Translations====
 {{trans-top|at an earlier time}}
@@ -453,10 +443,8 @@ From {{inh|en|enm|before}}, {{m|enm|bifore}} (adverb and preposition), from {{in
 |title=[http://www.rte.ie/sport/soccer/2011/1111/estonia_ireland_report.html Estonia 0-4 Republic of Ireland]
 |passage=Stephen Ward then had to time his tackle excellently to deny Tarmo Kink as the Wolves winger slid the ball out of play '''before''' the Estonian could attempt to beat Given.}}
 # {{lb|en|informal}} [[rather|Rather]] or [[sooner]] than.
+#: {{syn|en|lest}}
 #: {{ux|en|I'll die '''before''' I'll tell you anything about it.}}
-
-====Synonyms====
-* {{sense|rather than}} {{l|en|lest}}
 
 ====Translations====
 {{trans-top|in advance of the time when}}
@@ -516,6 +504,5 @@ From {{inh|en|enm|before}}, {{m|enm|bifore}} (adverb and preposition), from {{in
 ===Anagrams===
 * {{anagrams|en|a=beefor|borfee}}
 
-[[Category:English locatives]]
-[[Category:English sequence adverbs]]
-[[Category:en:Time]]
+{{cln|en|locatives|sequence adverbs}}
+{{C|en|Time}}
