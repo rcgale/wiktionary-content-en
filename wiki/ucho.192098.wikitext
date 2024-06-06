@@ -13,7 +13,8 @@ Perhaps ultimately from {{der|rmq|sa|अवश्या|gloss=dew}}
 {{wp|lang=cs}}
 
 ===Etymology===
-{{inh+|cs|zlw-ocs|ucho}}, from {{inh|cs|sla-pro|*uxo}}, from {{inh|cs|ine-bsl-pro|*aušis}}, from {{inh|cs|ine-pro|*h₂ṓws}}.
+{{dercat|zlw-osk|ine-bsl-pro|ine-pro|inh=2}}
+{{inh+|cs|zlw-ocs|ucho}}, from {{inh|cs|sla-pro|*uxo}}.
 
 ===Pronunciation===
 * {{cs-IPA}}
@@ -90,7 +91,8 @@ Probably {{onomatopoeic|mzs|nocap=1}}.
 ==Old Czech==
 
 ===Etymology===
-{{inh+|zlw-ocs|sla-pro|*uxo}}, from {{der|zlw-ocs|ine-pro|*h₂ous-}}.
+{{dercat|zlw-ocs|ine-bsl-pro|ine-pro|inh=2}}
+{{inh+|zlw-ocs|sla-pro|*uxo}}.
 
 ===Pronunciation===
 * {{zlw-ocs-IPA}}
@@ -98,7 +100,7 @@ Probably {{onomatopoeic|mzs|nocap=1}}.
 ===Noun===
 {{zlw-ocs-noun|g=n}}
 
-# [[ear]]
+# {{lb|zlw-ocs|anatomy}} [[ear]] {{gl|organ of hearing}}
 
 ====Declension====
 {{zlw-ocs-ndecl|n.nomdu:uši.gendu:ušú.datdu:ušima}}
@@ -109,19 +111,19 @@ Probably {{onomatopoeic|mzs|nocap=1}}.
 ===Further reading===
 * {{R:zlw-ocs:Gebauer}}
 
-[[Category:zlw-ocs:Anatomy]]
-[[Category:zlw-ocs:Organs]]
+{{C|zlw-ocs|Organs}}
 
 ==Old Polish==
 
 ===Etymology===
-{{inh+|zlw-opl|sla-pro|*uxo}}.
+{{dercat|zlw-osk|ine-bsl-pro|ine-pro|inh=2}}
+{{inh+|zlw-opl|sla-pro|*uxo}}. {{etydate|14th century}}
 
 ===Pronunciation===
 * {{zlw-opl-IPA}}
 
 ===Noun===
-{{zlw-opl-noun|n}}
+{{zlw-opl-noun|n|adj=uszny}}
 
 # {{lb|zlw-opl|anatomy|attested in|Lesser Poland}} [[ear]] {{gl|organ of hearing}}
 #* {{RQ:zlw-opl:Fl|17, 48|Lud, iegosz iesm ne znal, sluszil my, w slusze '''vcha''' (in auditu auris) posluszal me|Lud, jegoż jesm nie znał, służył mi, w słusze '''ucha''' (in auditu auris) posłuszał mie|-}}
@@ -129,17 +131,51 @@ Probably {{onomatopoeic|mzs|nocap=1}}.
 #* {{RQ:zlw-opl:Puł|118 arg. 8|Bo nygeden stwyrdzon bywa, yen nye slucha duchownyma '''vszyma''', czo by myal naszlyadowacz|Bo nijeden stwirdzon bywa, jen nie słucha duchownyma '''uszyma''', co by miał naśladować|-}}
 # {{lb|zlw-opl|attested in|Greater Poland}} [[handle]] {{gl|grip of a basket, kettle etc.}}
 #* {{RQ:zlw-opl:Erz|113|c. 1500|Ansa '''vcho''' albo rąkoyescz|Ansa '''ucho''' albo rękojeść|-}}
+#* {{RQ:zlw-opl:WokPet IV|11|XV p. post.|Duas ansas '''vszy'''|Duas ansas '''uszy'''|-}}
+#* {{RQ:zlw-opl:WokLub|10v|c. 1500|Ansa eyn handhab an eynem krug oder kandel '''vcho''' albo rąkoyescz|Ansa eyn handhab an eynem krug oder kandel '''ucho''' albo rękojeść|-}}
 
 ====Derived terms====
 {{col-auto|zlw-opl|title=adverbs|po uszy}}
-{{col-auto|zlw-opl|title=nouns|mysze uszy}}
+{{col-auto|zlw-opl|title=nouns|mysze uszy|uszko}}
 {{zlw-opl-derived verbs|nachylić ucho/-|poczuć uszyma/-}}
+
+====Related terms====
+{{col-auto|zlw-opl|title=nouns|uszaciec|uszatek}}
 
 ====Descendants====
 * {{desc|pl|ucho}}
+* {{desc|szl|ucho}}
 
 ===References===
+* {{R:pl:Boryś}}
+* {{R:pl:Mańczak}}
 * {{R:zlw-opl:SPJSP}}
+* {{R:zlw-opl:Rozariusze|+|508}}
+
+{{C|zlw-opl|Organs}}
+
+==Old Slovak==
+
+===Etymology===
+{{dercat|zlw-osk|ine-bsl-pro|ine-pro|inh=2}}
+{{inh+|zlw-osk|sla-pro|*uxo}}. {{etydate|1473}}
+
+===Pronunciation===
+* {{zlw-opl-IPA}}
+
+===Noun===
+{{zlw-osk-noun|n}}
+
+# {{lb|zlw-osk|anatomy}} [[ear]] {{gl|organ of hearing}}
+# {{lb|zlw-osk|by extension}} any object [[resemble|resembling]] an [[ear]]
+
+====Descendants====
+* {{desc|sk|ucho}}
+
+===References===
+* {{R:sk:HSSJ}}
+
+{{C|zlw-osk|Organs}}
 
 ==Polish==
 {{wp|lang=pl}}
@@ -149,12 +185,12 @@ Probably {{onomatopoeic|mzs|nocap=1}}.
 {{inh+|pl|zlw-opl|ucho}}.
 
 ===Pronunciation===
-{{pl-p|a=Pl-ucho.ogg}}
+{{pl-p|a=Pl-ucho.ogg|a2=LL-Q809 (pol)-Olaf-ucho.wav|ac=Audio 1|ac2=Audio 2|mp=+}}
 
 ===Noun===
 {{pl-noun|n|dim=uszko|aug=uszysko}}
 
-# [[ear]] {{gl|body part}}
+# {{lb|pl|anatomy}} [[ear]] {{gl|organ of hearing}}
 # {{lb|pl|colloquial}} [[snitch]], [[informant]]
 
 ====Declension====
@@ -169,9 +205,38 @@ Probably {{onomatopoeic|mzs|nocap=1}}.
 }}
 
 ====Derived terms====
-{{col-auto|pl|title=adjective|bezuchy}}
-{{col-auto|pl|title=particle|uszywiście}}
-{{pl-derived verbs|-/kłaść w uszy|położyć uszy po sobie/kłaść uszy po sobie}}
+{{col-auto|pl|title=adjectives|bezuchy|za chudy w uszach}}
+{{col-auto|pl|title=adverbs|aż się uszy trzęsą|na ucho|na własne uszy|po uszy|uczciwszy uszy}}
+{{col-auto|pl|title=nouns|gumowe ucho|ośle uszy|słoniowe ucho|ucho od śledzia|ucho środkowe|ucho wewnętrzne|ucho zewnętrzne}}
+{{col-auto|pl|title=particles|uszywiście}}
+{{col-auto|pl|title=phrases|bębenki w uszach popękają|słoń nadepnął na ucho|uszy pękają}}
+{{col-auto|pl|title=proverbs|póty dzban wodę nosi, póki się ucho nie urwie|słuchać uchem, a nie brzuchem|ściany mają uszy}}
+{{pl-derived verbs|położyć uszy po sobie/kłaść uszy po sobie
+|obić się o uszy/obijać się o uszy
+|wpaść w ucho/wpadać w ucho
+|wyjść uszami/wychodzić uszami
+|zadzwonić w uszach/dzwonić w uszach
+|-/jednym uchem wpuszczać, a drugim wypuszczać
+|-/kłaść w uszy
+|-/mieć po uszy
+|-/mieć swoje za uszami
+|natrzeć uszu/nacierać uszu
+|nadstawić ucha/nadstawiać ucha
+|-/nawijać makaron na uszy
+|nie uwierzyć własnym uszom/nie wierzyć własnym uszom
+|odmrozić sobie uszy na złość mamie/odmrażać sobie uszy na złość mamie
+|puścić mimo uszu/puszczać mimo uszu
+|-/siedzieć po uszy w gównie
+|-/sięgać prawą ręką do lewego ucha
+|-/słuchać jednym uchem
+|-/strzyc uszami
+|stulić uszy/stulać uszy
+|uśmiechnąć się od ucha do ucha/uśmiechać się od ucha do ucha
+|wyciągnąć kogoś za uszy/wyciągać kogoś za uszy
+|zatkać uszy/zatykać uszy
+|przejść przez ucho igielne/przechodzić przez ucho igielne
+|uszy spuchną/uszy puchną
+|uszy zwiędły/uszy więdną}}
 
 ===Noun===
 {{pl-noun|n|dim=uszko|aug=uszysko}}
@@ -181,13 +246,24 @@ Probably {{onomatopoeic|mzs|nocap=1}}.
 # [[earflap]]
 
 ====Declension====
-{{pl-decl-noun-n|u|ch}}
+{{pl-decl-noun-n}}
+
+===Trivia===
+{{pl-freq 1990|14|1|3|21|15|54|1204|620|2}}
+
+===References===
+{{reflist}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
 * {{R:pl:PWN}}
+* {{R:pl:SXVI|+|20330}}
+* {{R:pl:SXVII|UCHO|6756|SPas|22.11.2013}}
+* {{R:pl:SJP1807}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900||208|7}}
 
-{{C|pl|Anatomy|Body parts}}
+{{C|pl|Organs}}
 
 ==Romani==
 
@@ -199,11 +275,36 @@ From {{der|rom|sa|उच्च|tr=uchcha|t=high, elevated}}.
 
 # [[high]]
 
+==Silesian==
+
+===Etymology===
+{{dercat|szl|sla-pro|ine-bsl-pro|ine-pro|inh=3}}
+{{inh+|szl|zlw-opl|ucho}}.
+
+===Pronunciation===
+{{szl-pr}}
+
+===Noun===
+{{szl-noun|n|dim=uszko}}
+
+# {{lb|szl|anatomy}} [[ear]] {{gl|organ of hearing}}
+
+====Declension====
+{{szl-decl-noun|ucho|ucha|uchu|ucho|uchym|uszu|ucho|uszy|[[uszy]]/[[uszōw]]|uszōm|uszy|uszami|uszach|uszy}}
+
+===Further reading===
+* {{R:szl:dykcjonorz}}
+* {{R:szl:silling}}
+* {{R:szl:ZPJŚ|+|145}}
+
+{{C|szl|Organs}}
+
 ==Slovak==
 {{wp|lang=sk}}
 
 ===Etymology===
-{{inh+|sk|sla-pro|*uxo}}, from {{der|sk|ine-pro|*h₂ous-}}.
+{{dercat|zlw-opl|ine-bsl-pro|ine-pro|inh=2}}
+{{inh+|sk|zlw-osk|ucho}}, from {{inh|sk|sla-pro|*uxo}}.
 
 ===Pronunciation===
 * {{IPA|sk|/ˈu.xɔ/}}
@@ -228,4 +329,4 @@ From {{der|rom|sa|उच्च|tr=uchcha|t=high, elevated}}.
 ===Further reading===
 * {{R:sk:SDK}}
 
-{{C|sk|Anatomy}}
+{{C|sk|Organs}}
