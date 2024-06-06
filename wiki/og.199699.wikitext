@@ -20,14 +20,38 @@
 ==Cebuano==
 
 ===Alternative forms===
-* {{alt|ceb|ug||nonstandard}}
-* {{alt|ceb|-g||contraction, after vowels}}
+* {{alt|ceb|ug}}
+* {{alt|ceb|-g||contraction, appended to the preceding word}}
+
+===Etymology===
+Standardized form of {{m|ceb|ug}} as the indefinite marker. Compare {{cog|hil|kag}}, {{cog|bcl|sa}}, {{cog|hil|sa}}.
 
 ===Article===
 {{head|ceb|article}}
 
-# {{ngd|Indefinite article, used as object marker for nouns other than personal names.}}
-#: {{ux|ceb|Nagluto ko '''og''' [[bugas]].|I am cooking rice.}}
+# {{n-g|indefinite indirect marker for nouns other than personal names.}}
+#: {{cot|ceb|sa|lb=for definite nouns}}
+#: {{ux|ceb|'''Mi'''kaon '''og isda''' ang iring.|The cat ate '''''a'' fish'''.}}
+#: {{ux|ceb|'''Gi'''kaon '''og iring''' ang isda.|'''''A'' cat''' ate the fish.}}
+# {{n-g|refers to motion towards an indefinite location}}:
+#: {{ux|ceb|Moadto siya '''og''' merkado unya.|He's going '''to ''a''''' market later.|inline=1}}
+# {{n-g|refers to accompaniment with an indefinite partner or object}}: [[with]] [[a]]
+#: {{syn|ceb|[[uban#Cebuano|uban]] ('''og'''/[[ang#Cebuano|ang]])|[[kuyog#Cebuano|kuyog]] (og/[[ang#Cebuano|ang]])}}
+#: {{ux|ceb|Nagpakuyog si Juan '''og''' guwardiya.|Juan went '''with ''a''''' security guard.|inline=1}}
+# {{n-g|refers to the definite tool or instrument used for doing}}: [[with]], [[through]], [[by]]
+#: {{syn|ceb|[[gamit#Cebuano|gamit]] ([[ang#Cebuano|ang]])}}
+#: {{ux|ceb|Iyang gibunalan '''og''' silhig.|He striked him '''with ''a''''' broom.|inline=1}}
+# {{n-g|shows relation between two grammatical parts}}:
+## {{n-g|preceding infinitives}} {{q|replacing a prefix {{m|ceb|pag-}}}}
+##: {{ux|ceb|Naglisod ko '''og''' saka.|I had a hard time going up.|inline=1}}
+## {{n-g|with adjectives of manner}}
+##: {{ux|ceb|Nilakaw siya '''og''' kusog.|He walked away fast.|inline=1}}
+## {{n-g|after {{m|ceb|ayaw|t=don't}}}}
+##: {{ux|ceb|Ayaw '''og''' adto.|Don't go.|inline=1}}
+# {{q|adjective + '''og''' + noun}} {{n-g|having, possessing as an attribute}}:
+#: {{syn|ceb|may}}
+#: {{ux|ceb|Dako og bukton.|Having big arms.|inline=1}}
+#: {{ux|ceb|Kanindot niya og mata!|What beautiful eyes s/he has!|inline=1}}
 
 ====See also====
 {{ceb-markers}}
