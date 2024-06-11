@@ -19,8 +19,6 @@
 |passage=Exponentiation is essentially a move to the '''''power set'''''—the set of all subsets of a given set. This is one of the reasons why Bertrand Russell's paradox is indeed a paradox: We cannot find a universal set because no set can contain its own '''power set'''!}}
 
 ====Usage notes====
-The power ''set'' is more properly a {{m|en|family}} of sets (or possibly, in this case, a ''family of subsets''), rather than a [[set]].
-
 Denoted using the notation ''P''(''S'') with any one of several fonts for the letter "P" (usually uppercase). Examples include: <math>\mathcal{P}(S)</math>, <math>\wp(S)</math> (with the ''{{w|Weierstrass p}}''), <math>\mathbb{P}(S)</math> and 𝒫(''S'').<br>
 An alternative notation is <math>2^S\!\!</math>, derived from the consideration that a set <math>T</math> in the power set is fully characterised by determining, for each element of <math>S</math>, whether it is or is not in <math>T</math>.
 
