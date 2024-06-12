@@ -29,36 +29,44 @@ Borrowed from {{bor|nl|id|bahasa}}, ultimately from {{der|nl|sa|भाषा||la
 * {{alt|id|basa||colloquial}}
 
 ===Etymology===
-From {{inh|id|ms|bahasa}}, from {{bor+|id|sa|भाषा||language}}.
+From {{inh|id|ms|bahasa}}, from {{der|id|sa|भाषा||language}}.
 
 ===Pronunciation===
 * {{IPA|id|/baˈha.sa/}}
-* {{audio|id|LL-Q9240 (ind)-Xbypass-bahasa.wav}}
-* {{rhymes|id|asa|sa|a|s=3}}
+* {{rhymes|id|sa|s=3}}
 * {{hyph|id|ba|ha|sa}}
 
 ===Noun===
 {{head|id|noun}}
 
-# {{l|en|language}}
-## {{lb|id|linguistics}} a body of words, and set of methods of combining them (called a grammar), understood by a community and used as a form of communication.
-##: {{uxi|id|'''bahasa''' [[Indonesia]]|Indonesian '''language'''}}
-## {{lb|id|computing}} a {{l|en|computer language}}; a {{l|en|machine language}}.
+# [[language]]
+## {{senseid|id|Q315}} a [[body]] of [[word]]s, and set of methods of combining them (called a [[grammar]]), understood by a [[community]] and used as a form of [[communication]]
+## a [[sublanguage]]: the [[slang]] of a [[particular]] [[community]] or [[jargon]] of a [[particular]] [[specialist]] [[field]]
+## the expression of thought (the communication of meaning) in a specified way; that which communicates something, as language does
+## a body of sounds, signs and/or signals by which animals communicate, and by which plants are sometimes also thought to communicate
+## the particular words used in a speech or a [[passage]] of text
+## {{lb|id|computing}} a computer language; a machine language
 ##: {{syn|id|bahasa komputer|bahasa mesin}}
-# {{l|en|decorum}}, appropriate social behavior.
 
 ====Derived terms====
-{{der4|id|title=Affixed terms
+{{der4|id
+| bahasakan
 | berbahasa
 | berbahasa-bahasa
 | kebahasaan
-| membahasakan
-| memperbahasakan
 | perbahasa
+| perbahasakan
 | perbahasaan
 | sebahasa
 }}
-{{der4|id|title=Hyponyms
+{{der4|id
+| alih bahasa
+| juru bahasa
+| pakar bahasa
+| tata bahasa
+| warna bahasa
+}}
+{{der4|id
 | bahasa aglutinatif
 | bahasa akusatif
 | bahasa alamiah
@@ -73,22 +81,27 @@ From {{inh|id|ms|bahasa}}, from {{bor+|id|sa|भाषा||language}}.
 | bahasa bangsawan
 | bahasa berfleksi
 | bahasa bermajas
+| bahasa bernada
 | bahasa berorientasi aplikasi
 | bahasa buatan
 | bahasa buku
 | bahasa bunga
 | bahasa campuran
+| bahasa cinta
 | bahasa daerah
 | bahasa dagang
 | bahasa dalam
 | bahasa definisi data
 | bahasa diinterpretasikan
 | bahasa ergatif
+| bahasa etalon
 | bahasa flektif
 | bahasa gaul
+| bahasa generasi kedua
 | bahasa generasi keempat
 | bahasa generasi kelima
 | bahasa generasi ketiga
+| bahasa generasi pertama
 | bahasa grafik
 | bahasa gunung
 | bahasa halus
@@ -96,6 +109,7 @@ From {{inh|id|ms|bahasa}}, from {{bor+|id|sa|भाषा||language}}.
 | bahasa hibrida
 | bahasa hidup
 | bahasa ibu
+| bahasa ilmu
 | bahasa imigran
 | bahasa induk
 | bahasa inflektif
@@ -109,6 +123,8 @@ From {{inh|id|ms|bahasa}}, from {{bor+|id|sa|भाषा||language}}.
 | bahasa kanak-kanak
 | bahasa kasar
 | bahasa kawat
+| bahasa kebangsaan
+| bahasa kebun binatang
 | bahasa kedua
 | bahasa kentum
 | bahasa kerabat
@@ -124,10 +140,14 @@ From {{inh|id|ms|bahasa}}, from {{bor+|id|sa|भाषा||language}}.
 | bahasa level tinggi
 | bahasa lingo
 | bahasa lisan
+| bahasa liturgis
 | bahasa madya
 | bahasa markah
 | bahasa markah hiperteks
 | bahasa mati
+| bahasa mendaki
+| bahasa mendatar
+| bahasa menurun
 | bahasa mesin
 | bahasa modern
 | bahasa moyang
@@ -151,6 +171,8 @@ From {{inh|id|ms|bahasa}}, from {{bor+|id|sa|भाषा||language}}.
 | bahasa pers
 | bahasa persatuan
 | bahasa pinggiran
+| bahasa planet
+| bahasa politik
 | bahasa portabel
 | bahasa program
 | bahasa prokem
@@ -186,13 +208,11 @@ From {{inh|id|ms|bahasa}}, from {{bor+|id|sa|भाषा||language}}.
 | bahasa umum
 | bahasa visual
 | bahasa vokalis
-|}}
-{{der4|id|title=Compound terms
-| alih bahasa
-| juru bahasa
-| pakar bahasa
-| tata bahasa
-| warna bahasa
+}}
+
+====Related terms====
+{{rel4|id
+| bahas
 }}
 
 ====Descendants====
@@ -201,8 +221,6 @@ From {{inh|id|ms|bahasa}}, from {{bor+|id|sa|भाषा||language}}.
 
 ===Further reading===
 * {{R:KBBI Daring}}
-
-[[Category:id:Language]]
 
 ==Malay==
 
