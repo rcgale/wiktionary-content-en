@@ -90,8 +90,8 @@
 From {{inh|ga|sga|molt||wether}}, from {{inh|ga|cel-pro|*moltos||sheep}} (compare {{cog|cy|mollt}}, {{cog|cel-gau|*multon-}}).
 
 ===Pronunciation===
-* {{IPA|ga|/mˠɞl̪ˠt̪ˠ/|/mˠɞl̪ˠh/|ref2={{R:ga:SjPh|50}}|a=Munster}}; {{IPA|ga|/mˠɔl̪ˠt̪ˠ/|/mˠɔl̪ˠh/|ref2={{R:ga:SjPh|89}}}}
-* {{IPA|ga|/mˠɔl̪ˠt̪ˠ/|ref={{R:ga:Quiggin|43}}|a=Ulster}}
+* {{IPA|ga|/mˠɞl̪ˠt̪ˠ/|/mˠɞl̪ˠh/|ref2={{R:ga:SjPh|50|section=90}}|a=Munster|;|/mˠɔl̪ˠt̪ˠ/|/mˠɔl̪ˠh/|ref4={{R:ga:SjPh|89|section=177}}}}
+* {{IPA|ga|/mˠɔl̪ˠt̪ˠ/|ref={{R:ga:Quiggin|43|110}}|a=Ulster}}
 
 ===Noun===
 {{ga-noun|m|moilt|moilt}}
@@ -111,18 +111,12 @@ From {{inh|ga|sga|molt||wether}}, from {{inh|ga|cel-pro|*moltos||sheep}} (compar
 ===Further reading===
 * {{R:ga:Ó Dónaill}}
 
-[[Category:ga:Sheep]]
+{{C|ga|Male animals|People|Sheep}}
 
 ==Old French==
 
 ===Alternative forms===
-{{top2}}
-* {{l|fro|mult}}
-* {{l|fro|mout}}
-* {{l|fro|multe}}
-* {{l|fro|mot}}
-* {{l|fro|mut}}
-{{bottom}}
+* {{alt|fro|mult|mout|multe|mot|mut}}
 
 ===Etymology===
 From {{inh|fro|la|multum|pos=adv}}, neuter of {{m|la|multus}}.
@@ -159,7 +153,7 @@ From {{inh|fro|la|multum|pos=adv}}, neuter of {{m|la|multus}}.
 From {{inh|sga|cel-pro|*moltos||sheep}} (compare {{cog|cy|mollt}}, {{cog|cel-gau|*multon-}}, source of {{cog|fr|mouton}}).
 
 ===Pronunciation===
-* {{IPA|sga|/mol͈t/}}
+* {{IPA|sga|[mol͈t]}}
 
 ===Noun===
 {{sga-noun|m|muilt|muilt}}
@@ -170,10 +164,8 @@ From {{inh|sga|cel-pro|*moltos||sheep}} (compare {{cog|cy|mollt}}, {{cog|cel-gau
 {{sga-decl-o-masc|muilt}}
 
 ====Derived terms====
-{{der2|sga
-|moltán
-|moltrad
-}}
+* {{l|sga|moltán}}
+* {{l|sga|moltrad}}
 
 ====Descendants====
 * {{desc|ga|molt}}
@@ -186,7 +178,7 @@ From {{inh|sga|cel-pro|*moltos||sheep}} (compare {{cog|cy|mollt}}, {{cog|cel-gau
 ===Further reading===
 * {{R:DIL|32502}}
 
-[[Category:sga:Sheep]]
+{{C|sga|Male animals|Sheep}}
 
 ==Scottish Gaelic==
 
@@ -195,4 +187,5 @@ From {{inh|sga|cel-pro|*moltos||sheep}} (compare {{cog|cy|mollt}}, {{cog|cel-gau
 
 # {{alternative form of|gd|mult}}
 
-[[Category:gd:Male animals]]
+===Mutation===
+{{gd-mut-cons|m|olt}}
