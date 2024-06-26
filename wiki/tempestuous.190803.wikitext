@@ -1,24 +1,39 @@
 ==English==
+{{was wotd|2024|November|18}}
 
 ===Etymology===
-From {{inh|en|enm|tempestuous}}, {{m|enm|tempestious}}, variants of {{m|enm|tempestous}}, from {{der|en|fro|tempesteus}}, {{m|fro|tempestos}}, {{m|fro|tempestuose}}, from {{der|en|la|tempestuōsus}}, equivalent to {{suffix|en|tempest|uous}}.
+{{root|en|ine-pro|*temh₁-|*ten-|*-wénts}}
+From Late {{inh|en|enm|tempestious}}, {{m|enm|tempestous}}, {{m|enm|tempestuous|t=stormy, turbulent, tempestuous}},<ref>{{R:MED Online|entry=tempestǒus|pos=adj|id=MED44729}}</ref> from {{der|en|xno|tempestous}}, and {{der|en|fro|tempesteus}}, {{m|fro|tempestos}}, {{m|fro|tempestous}}, {{m|fro|tempestuose}} (modern {{cog|fr|tempétueux}}), and directly from its {{glossary|etymon}} {{der|en|la|tempestuōsus|t=stormy, turbulent, tempestuous; impetuous}},<ref>{{R:OED Online|pos=adj|id=8277167332|date=June 2024|nodot=1}}; {{R:Lexico|pos=adj|nodot=1}}; {{R:OED Online|entry=† tempestous|pos=adj|id=6283413656|date=July 2023}}</ref> from {{m|la|tempestās}}, {{m|la|tempestūs|t=point or period of time; season; weather, specifically bad weather; storm, tempest}} (from {{m|la|tempus|t=period of time; (''rare'') weather}}, possibly from {{der|en|ine-pro|*temh₁-|t=to cut}} or {{m|ine-pro|*ten-|t=to extend, stretch}}) + {{m|la|-ōsus|pos={{glossary|suffix}} meaning ‘full of; overly; prone to’ forming {{glossary|adjective}}s from {{glossary|noun}}s}}. The English word is equivalent to {{affix|en|tempest|-uous}} (a variant of {{m|en|-ous|pos=suffix forming adjectives from nouns, denoting the presence of a quality, typically in abundance}}).
+
+===Pronunciation===
+* {{IPA|en|/tɛmˈpɛs.tjʊ.əs/|/-t͡ʃʊ-/|a=RP}}
+* {{IPA|en|/tɛmˈpɛst͡ʃə.wəs/|/tɛmˈpɛs.t͡ʃəs/|a=GA}}
+* {{hyphenation|en|tem|pest|u|ous}}
 
 ===Adjective===
 {{en-adj}}
 
-# Of, or resembling, a [[tempest]]; [[stormy]], [[tumultuous]].
-#: {{synonyms|en|blustery|windy}}
+# Of, [[pertain]]ing to, or [[resemble|resembling]], a [[tempest#Noun|tempest]]; also, of a [[place#Noun|place]]: [[frequently]] [[experience#Verb|experiencing]] tempests; (very) [[stormy]].
+#: {{coordinate terms|en|blustery|rainy|thundery|windy}}
 #* {{RQ:Shakespeare Tempest|act=I|scene=i|passage=[On a ship at sea]: a '''tempestuous''' noise of thunder and lightening heard.}}
 #* {{RQ:Bentley Confutation of Atheism|sermon=World 3|pages=25–26|pageref=25|passage=[T]he Months of ''March'' and ''September'', the tvvo Æquinoxes of Our year, are the moſt vvindy and '''tempeſtuous''', the moſt unſettled and unequable of Seaſons in moſt Countries of the VVorld.}}
 #* {{RQ:Doyle Return of Sherlock Holmes|story=The Adventure of the Golden Pince-Nez|passage=It was a wild, '''tempestuous''' night towards the close of November. {{...}} Outside the wind howled down Baker Street, while the rain beat fiercely against the windows. It was strange there in the very depths of the town, with ten miles of man's handiwork on every side of us, to feel the iron grip of Nature, and to be conscious that to the huge elemental forces all London was no more than the molehills that dot the fields.}}
+# {{lb|en|figurative}} [[characterize|Characterized]] by [[disorderly]], [[frenetic]], or [[violent#Adjective|violent]] [[activity]]; stormy, [[tumultuous]], [[turbulent]]; also, of a [[person#Noun|person]], their [[behavior|behaviour]] or [[nature#Noun|nature]], etc.: characterized by [[bout#Noun|bouts]] of [[bad#Adjective|bad]] [[temper#Noun|temper]] or [[sudden#Adjective|sudden]] [[change#Noun|changes]] of [[mood#Noun|mood]]; [[impetuous]], stormy, [[temperamental]].
+#: {{ux|en|After their '''tempestuous''' argument, they did not speak to each other for weeks.}}
+
+====Alternative forms====
+* {{alter|en|tempestous}} {{qualifier|obsolete}}
 
 ====Derived terms====
 * {{l|en|tempestuously}}
 * {{l|en|tempestuousness}}
 * {{l|en|tempestuosity}}
 
+====Related terms====
+* {{l|en|tempest}}
+
 ====Translations====
-{{trans-top-also|of or resembling a tempest|stormy}}
+{{trans-top-also|of, pertaining to, or resembling, a tempest; of a place: frequently experiencing tempests|stormy}}
 * Bulgarian: {{t+|bg|бурен}}, {{t+|bg|бушуващ}}
 * Catalan: {{t|ca|tempestuós}}
 * Chinese:
@@ -29,8 +44,18 @@ From {{inh|en|enm|tempestuous}}, {{m|enm|tempestious}}, variants of {{m|enm|temp
 * German: {{t+|de|stürmisch}}
 * Irish: {{t|ga|anfach}}, {{t|ga|anfúil}}
 * Japanese: {{t-needed|ja}}
-* Maori: {{t|mi|tākaha}}, {{t|mi|hūkerikeri}}, {{t|mi|whakarawarawa}}, {{t|mi|whakarawarawa}}, {{t|mi|niwhaniwha}}
+* Maori: {{t|mi|hūkerikeri}}, {{t|mi|niwhaniwha}}, {{t|mi|tākaha}}, {{t|mi|whakarawarawa}}
 * Romanian: {{t+|ro|tempestuos}}
 * Spanish: {{t+|es|tempestuoso}}, {{t+|es|proceloso}}
 * Ukrainian: {{t+|uk|бурхли́вий}}
 {{trans-bottom}}
+
+{{trans-see|characterized by disorderly, frenetic, or violent activity|stormy|tumultuous|turbulent}}
+{{trans-see|of a person, their behaviour or nature, etc.: characterized by bouts of bad temper or sudden changes of mood|impetuous|stormy|temperamental}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{pedia|storm}}
+* {{pedia|tempest|tempest (disambiguation)}}
