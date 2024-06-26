@@ -80,8 +80,8 @@ From {{inh|de|gmh|beginnen}}, from {{inh|de|goh|biginnan}}, from {{inh|de|gmw-pr
 ==Middle Dutch==
 
 ===Etymology===
-{{dercat|dum|gmw-pro|gem-pro|inh=2}}
-From {{inh|dum|odt|biginnan}}
+{{dercat|dum|gem-pro|inh=1}}
+From {{inh|dum|odt|biginnan}}, from {{inh|dum|gmw-pro|*biginnan}}.
 
 ===Verb===
 {{dum-verb}}
@@ -89,12 +89,14 @@ From {{inh|dum|odt|biginnan}}
 # to [[begin]], to [[start]]
 # to [[arise]], to [[originate]]
 
-====Inflection====
+====Conjugation====
 {{rfinfl|dum|verb}}
 
 ====Derived terms====
-* {{l|dum|beginninge}}
-* {{l|dum|beginsel}}
+{{col-auto|dum
+|beginninge
+|beginsel
+}}
 
 ====Descendants====
 * {{desc|nl|beginnen}}
