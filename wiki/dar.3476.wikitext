@@ -252,7 +252,7 @@ From {{inh|nl|dum|darne}}, by metathesis from {{m|dum|dorne}}, from {{inh|nl|odt
 ===Noun===
 {{nl-noun|m|-en|darretje}}
 
-# [[drone]] {{gloss|non-working male bee, ant or wasp}}
+# [[drone]] {{gl|non-working male bee, ant or wasp}}
 
 ===Anagrams===
 * {{l|nl|rad}}
@@ -273,8 +273,8 @@ From {{inh|ovd|non|þar}}, from {{inh|ovd|gem-pro|*þar}}. Cognate with {{cog|sv
 ===Conjunction===
 {{ovd-con}}
 
-# [[where]] {{gloss|relative}}
-# [[when]] {{gloss|relative}}
+# [[where]] {{gl|relative}}
+# [[when]] {{gl|relative}}
 # [[since]], [[because]]
 
 ==French==
@@ -575,12 +575,12 @@ From {{inh|pt|roa-opt|dar}}, from {{inh|pt|la|do|alt=dare|t=to give}}, from {{in
 {{pt-verb}}
 
 # {{lb|pt|ditransitive}} to [[give]]
-## {{lb|pt|with '''[[a]]''', '''[[para]]''', or an indirect objective pronoun}}
+## {{+obj|pt|&transitive + :a<ll:Portugal>/:para<ll:Brazil>/indirect&object&pronoun}}
 ### to transfer one’s possession of something to someone without anything in return
 ###: {{ux|pt| '''Dar'''-te-'''ei''' um livro.|t=I '''will give''' you a book.}}
 ###: {{syn|pt|ceder}}
 ###: {{ant|pt|receber}}
-### to [[hand over]] {{gloss|to pass something into someone’s hand}}
+### to [[hand over]] {{gl|to pass something into someone’s hand}}
 ###: {{ux|pt|'''Dá'''-me tua mão.|t='''Give''' me your hand.}}
 ###: {{syn|pt|entregar|passar}}
 ### to make a present or gift of
@@ -591,46 +591,48 @@ From {{inh|pt|roa-opt|dar}}, from {{inh|pt|la|do|alt=dare|t=to give}}, from {{in
 ###: {{ux|pt|A Igreja '''dá''' conforto aos pobres.|t=The Church '''gives''' the poor comfort.}}
 ###: {{ux|pt|Ele '''dá''' aulas de latim.|t=He '''gives''' Latin classes.}}
 ###: {{syn|pt|oferecer}}
-### to [[administer]] {{gloss|to cause to take (medicine)}}
+### to [[administer]] {{gl|to cause to take (medicine)}}
 ###: {{ux|pt|'''Demos'''-lhe insulina. / '''Demos''' insulina a ele.|t='''We gave''' him insulin.}}
 ###: {{syn|pt|administrar}}
 ### {{lb|pt|transitive}} to [[give]]; to [[issue]]; to [[emit]]
 ###: {{ux|pt|O João vai-nos '''dar''' recomendações. /O João '''dar''-nos''-á''' recomendações.|t=John '''will give''' us recommendations.}}
 ###: {{ux|pt|Ele gosta de '''dar''' ordens.|t=He likes '''issuing''' orders.}}
-## {{lb|pt|with the indirect object taking '''[[em]]''' or an indirect objective pronoun}}
+## {{+obj|pt|&transitive + :em/indirect&object&pronoun}}
 ### to carry out a physical interaction with something
 ###: {{ux|pt|Ela me '''deu''' um beijo./Ela '''deu'''-me um beijo.|t=She '''gave''' me a kiss.}}
 ### to cause a sensation or feeling
 ###: {{ux|pt|A cerca me '''deu''' um choque elétrico./A cerca '''deu'''-me um choque elétrico.|t=The fence '''gave''' me an electric shock.}}
 ###: {{ux|pt|Essa música me '''dá''' medo./Essa música '''dá'''-me medo.|t=That song frightens me.|lit=That song '''gives''' me fear.}}
-### to [[cause]] {{gloss|to produce as a result}}
+### to [[cause]] {{gl|to produce as a result}}
 ###: {{ux|pt|Comer rápido '''dá''' azia em você. / Comer rápido '''dá'''-te azia.|t=Eating quickly '''gives''' you a heartburn.}}
 ## to [[yield]]; to [[produce]]; to [[generate]]
 ##: {{ux|pt|Esse poço '''dava''' água.|t=That well '''used to produce''' water.}}
 ##: {{ux|pt|As macieiras '''dão''' maçãs.|t=Apple trees '''produce''' apples.}}
-# {{lb|pt|impersonal|transitive|followed by '''[[para]]''' when transitive}} to be [[possible]], [[can]]
+# {{lb|pt|impersonal}} to be [[possible]], [[can]] {{+obj|pt|:para(subject&pronoun<qq:optional> + pers&inf)<for someone to do something>}}
 #: {{ux|pt|Não '''dá''' para ele fazer isso.|He '''can't''' do that.}}
 #: {{ux|pt|– '''Dá''' para o alcançarmos?<br>– '''Dá'''.|– '''Can''' we reach him?<br>– Yes, we '''can'''.}}
-# {{lb|pt|transitive}} to [[throw]] {{gloss|to organise an event}}
+# {{lb|pt|transitive}} to [[throw]] {{gl|to organise an event}}
 #: {{ux|pt|'''Darei''' uma festa amanhã.|t='''I’ll throw''' a party tomorrow.}}
-# {{lb|pt|[[Appendix:Glossary#transitive|transitive]] with '''[[que]]'''; [[Appendix:Glossary#impersonal|impersonal]] with '''[[em]]'''}} to [[report]] {{gloss|[[publish]] or [[broadcast]] news}}
-#: {{ux|pt|O jornal '''deu''' que se cancelaram os eventos. / '''Deu''' no jornal que se cancelaram os eventos.|t=The newspaper '''reported''' that the events had been cancelled.}}
-# {{indtr|pt|em|direct=1}} to [[result]] in
+# {{lb|pt|transitive}} to [[report]] {{gl|to [[publish]] or [[broadcast]] news}} {{+obj|pt|:que(clause)<that ...>}}
+#: {{ux|pt|O jornal '''deu''' que se cancelaram os eventos.|t=The newspaper '''reported''' that the events had been cancelled.}}
+# {{lb|pt|impersonal}} to be [[report]]ed {{gl|to be published or broadcasted, of news}} {{+obj|pt|:em<a source> + :que(clause)<that ...>}}
+#: {{ux|pt|'''Deu''' no jornal que se cancelaram os eventos.|t=The newspaper '''reported''' that the events had been cancelled.|lit='''It was reported''' in the newspaper that ...}}
+# {{lb|pt|intransitive|or|transitive}} to [[result]] in, to [[lead]] to {{+obj|pt|:em/transitive<a result>}}
 #: {{ux|pt|Não te preocupes, não '''dará''' em nada.|t=Don’t worry, it won’t '''lead to''' anything.}}
-# {{indtr|pt|para|aux=personal infinitive|.transitive|.or}} to [[suffice]], to be enough
-#: {{ux|pt|Com dez euros já '''dá''' para almoçar hoje.|t=Ten euros '''are enough''' to have lunch today.}}
+# {{lb|pt|impersonal|intransitive|or|auxiliary}} to [[suffice]], to be [[enough]] {{+obj|pt|:para<for something>|:para(subject&pronoun<qq:optional> + pers&inf)<for doing something>}}
+#: {{ux|pt|Com dez euros já '''dá''' para almoçar hoje.|t=Ten euros '''are enough''' to have lunch today.|lit=With ten euros '''it''' already '''suffices''' to have lunch today.}}
 #: {{syn|pt|bastar}}
-# {{lb|pt|transitive}} to [[make]] {{gloss|to tend or be able to become}}
+# {{lb|pt|transitive}} to [[make]] {{gl|to tend or be able to become}}
 #: {{ux|pt|Ela '''daria''' uma boa professora.|t=She would '''make''' a good teacher.}}
-# {{indtr|pt|por|como|ditr=1}} to [[consider]] {{gl|assign some quality to}}
+# {{lb|pt|transitive}} to [[consider]] {{gl|assign some quality}} {{+obj|direct&object<someone/something> + :por/:como<as something>}}
 #: {{ux|pt|Depois de semanas procurando, '''deram'''-nos como desaparecidos.|t=After weeks of searching, '''they considered''' us to be missing.}}
 #: {{syn|pt|considerar}}
-# {{indtr|pt|.colloquial}} to [[defeat]] by a given score
-#: {{ux|pt|A minha equipa vai dar dois a zero à tua.|My team will beat yours 2-nil.}}
-#: {{ux|pt|Meu time vai '''dar''' de dois a zero no seu.|My team will beat yours 2-nil.}}
-# {{lb|pt|intransitive}} to [[come across]], to [[bump into]] {{gl|to find something accidentally or in an unexpected condition}} {{+obj|pt|:com}}
+# {{lb|pt|<<transitive>> (<<Portugal>>) or <<intransitive>> (<<Brazil>>)|colloquial}} to [[defeat]] by a given score {{+obj|pt|direct&object<ll:Portugal>/:de<ll:Brazil><a score> + :a<ll:Portugal>/:em<ll:Brazil><someone or someone's team>}}
+#: {{ux|pt|A minha equipa vai dar dois a zero à tua.|My team will beat yours 2-nil.|l=Portugal}}
+#: {{ux|pt|Meu time vai '''dar''' de dois a zero no seu.|My team will beat yours 2-nil.|l=Brazil}}
+# {{lb|pt|intransitive}} to [[come across]], to [[bump into]] {{gl|to find someone or something accidentally or in an unexpected condition}} {{+obj|pt|:com<someone/something>}}
 #: {{ux|pt|'''Dei''' de cara com a Sandra hoje de manhã.|I '''bumped into''' Sandra this morning.}}
-# {{indtr|pt|para|ditr=1|intr=1|.Brazil|.vulgar|.slang}} to [[put out]], to allow to be sexually [[penetrate|penetrated]]
+# {{lb|pt|Brazil|vulgar|slang}} to [[put out]], to allow to be sexually [[penetrate|penetrated]] {{+obj|pt|:para<someone>}}
 #: {{ux|pt|'''Dei''' pra ele.|I '''put out''' for him.}}
 
 ====Conjugation====
@@ -775,7 +777,7 @@ Possibly a reduced form of {{m|gd|nuair|t=when}} (MacBain)<ref>{{R:MacBain|head=
 ===Conjunction===
 {{head|gd|conjunctions}}
 
-# {{lb|gd|Ross-shire|Inverness-shire|Mull|Perthshire}} [[when]] {{gloss|relative/non-interrogative}}
+# {{lb|gd|Ross-shire|Inverness-shire|Mull|Perthshire}} [[when]] {{gl|relative/non-interrogative}}
 #: {{syn|gd|nuair}}
 #* {{quote-book|gd|author=Roy G. Wentworth|title=Rannsachadh air Fòn-eòlas Dualchainnt Ghàidhlig Gheàrrloch, Siorrachd Rois|year=2005|page=3|url=https://www.dias.ie/celt/celt-publications-2/celt-gaidhlig-ghearrloch/|text=Bha sinne air na cuairteachdainn leis a’ Ghàidhlig '''dar a''' bha sinn nana cloinn|t=We had been surrounded with Gaelic '''when''' we were children}}
 
@@ -868,8 +870,8 @@ From {{inh|sl|sla-pro|*darъ}}, from {{inh|sl|ine-pro|*déh₃rom}}.
 ===Noun===
 {{sl-noun|dȃr|m-in}}
 
-# [[gift]] {{gloss|a talent or natural ability}}
-# {{lb|sl|archaic}} [[gift]] {{gloss|something given to another voluntarily, without charge}}
+# [[gift]] {{gl|a talent or natural ability}}
+# {{lb|sl|archaic}} [[gift]] {{gl|something given to another voluntarily, without charge}}
 #: {{syn|sl|darílo}}
 # {{lb|sl|usually|in the plural|obsolete}} [[immolation]]{{sl-ref|SSKJ}}
 #: {{syn|sl|darovȃnje}}
@@ -947,7 +949,7 @@ From {{inh|es|la|do|alt=dō}}, from {{inh|es|itc-pro|*didō}}, from {{inh|es|ine
 #: {{ux|es|'''Dimos''' con María.|We '''encountered''' Maria.}}
 #: {{ux|es|'''Dimos''' con el edificio después de tres horas.|We finally '''found''' the building after three hours.}}
 # {{lb|es|transitive}} to [[hit]] [[upon]]
-# {{indtr|es|a|.colloquial|intr=1}} to [[press]], [[activate]]
+# {{lb|es|intransitive|colloquial}} to [[press]], [[activate]] {{+obj|es|:a<a button, mechanism, etc.>}}
 #: {{ux|inline=1|es|'''dar'''le al botón|to '''press''' the button}}
 # {{lb|es|transitive|colloquial}} to [[ruin]]; [[mess up]]
 #: {{ux|inline=1|es|Me '''dio''' la noche|It '''ruined''' the night for me}}
