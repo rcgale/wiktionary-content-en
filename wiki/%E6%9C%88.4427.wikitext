@@ -151,13 +151,13 @@ Various alternative etymologies have also been proposed:
 |kanon=げつ<げつ<ぐゑつ
 |kanyoon=がつ<ぐわつ
 |kun=つき-
-|nanori=おと, す, もり, がっ, ずき
+|nanori=おと, す, もり
 }}
 
 ====Compounds====
 {{der-top4|Compounds}}{{ja-r/multi|data=
-* {{ja-r/args|月%行%事|がち%ぎょう%じ|rom=-}}, {{ja-r/args|月%行%司|がち%ぎょう%じ}}
-* {{ja-r/args|月%輪|がち%りん}}, {{ja-r/args|月%輪|がつ%りん}}
+* {{ja-r/args|月%行%事|がち%ぎょう%じ|rom=-}}, {{ja-r/args|月%行%司|がち%-ぎょう%じ}}
+* {{ja-r/args|月%輪|がち%りん}}
 * {{ja-r/args|月代|さかやり}}
 * {{ja-r/args|如月|きさらぎ}}
 * {{ja-r/args|海月|くらげ}}
@@ -170,7 +170,9 @@ Various alternative etymologies have also been proposed:
 {{ja-kanjitab|つき|yomi=k}}
 {{IPAfont|⟨tuki<sub>2</sub>⟩}} → *{{IPAfont|/tukɨ/}} → *{{IPAfont|/t͡sukɨ/}} → {{IPAfont|/t͡suki/}}
 
-From {{inh|ja|ojp|月|tr=tuki<sub>2</sub>}}, ultimately from {{inh|ja|jpx-pro|*tukui}}.<ref name="Perard 2012">{{cite-web|first=Thomas|last=Pellard|title=日琉祖語の分岐年代|work=琉球諸語と古代日本語に関する比較言語学的研究」ワークショップ|year=2012|url=http://kikigengo.jp/nishihara/lib/exe/fetch.php?media=library:references:rkoj-pellard.pdf|page=6}}</ref> For the vowel alternation, see [[WT:AJPX#Standalone forms and combining forms]].
+From {{inh|ja|ojp|月|tr=tuki<sub>2</sub>}}, ultimately from {{inh|ja|jpx-pro|*tukui}}.<ref name="Perard 2012">{{cite-web|first=Thomas|last=Pellard|title=日琉祖語の分岐年代|work=琉球諸語と古代日本語に関する比較言語学的研究」ワークショップ|year=2012|url=http://kikigengo.jp/nishihara/lib/exe/fetch.php?media=library:references:rkoj-pellard.pdf|page=6}}</ref>
+
+For the vowel alternation, see [[WT:AJPX#Standalone forms and combining forms]].
 
 ====Pronunciation====
 {{ja-pron|つき|acc=2|dev=1|acc_ref=DJR,NHK}}
@@ -179,7 +181,7 @@ From {{inh|ja|ojp|月|tr=tuki<sub>2</sub>}}, ultimately from {{inh|ja|jpx-pro|*t
 {{ja-noun|つき}}
 
 # the [[moon]]
-#: {{syn|ja|太陰|tr=taiin|ムーン|tr2=mūn}}
+#: {{syn|ja|太陰|tr=taiin|ムーン|tr2=Mūn}}
 # {{lb|ja|astronomy}} a [[natural]] [[satellite]]
 # [[moonlight]], [[moonbeam]]
 #: {{syn|ja|月光|tr=gekkō|月影|tr2=tsukikage}}
@@ -252,29 +254,30 @@ From {{inh|ja|ojp|月|tr=tuki<sub>2</sub>}}, ultimately from {{inh|ja|jpx-pro|*t
 {{IPAfont|/ɡʷatɨ/}} → {{IPAfont|/ɡʷat͡su/}} → {{IPAfont|/ɡat͡su/}}
 
 From {{der|ja|ltc|sort=かつ|月|tr=ŋʉɐt̚}}.
-The {{m|ja|慣用音|tr=kan'yōon}} reading, a pronunciation in common usage based on a corruption of the {{cog|ltc|-}} borrowing.
+
+The {{m|ja|慣用音|tr=kan’yōon|lit=[[common]]-[[use]] [[sound]]}} reading, a pronunciation in common usage based on a corruption of the {{cog|ltc|-}} borrowing.
 
 ====Pronunciation====
 {{ja-pron|がつ}}
-* Some dictionaries apparently classify this reading as both {{m|ja|呉音|tr=goon}} and {{m|ja|慣用音|tr=kan'yōon}}.
+* Some dictionaries apparently classify this reading as both {{m|ja|呉音|tr=goon}} and {{m|ja||慣用音|tr=kan’yōon}}.
 
 ====Suffix====
 {{ja-pos|suffix|がつ|hhira=ぐわつ}}
 
-# month of the year
+# [[month]] of the [[year]]
 
 =====Derived terms=====
 * {{ja-r|正%月|しょう%がつ}}
 {{ja-number-counter:月(がつ)}}
 
 ====Affix====
-{{ja-pos|suffix|がつ|hhira=ぐわつ}}
+{{ja-pos|affix|がつ|hhira=ぐわつ}}
 
-# moon
-# month
+# [[moon]]
+# [[month]]
 
 =====Usage notes=====
-When used in most compounds or when counting a number of months with {{m|ja|ヶ|tr=ka}}, {{lang|ja|月}} is pronounced {{m|ja|げつ|tr=getsu}}. When used in compounds for modern months of the year, it is pronounced {{m|ja|がつ|tr=gatsu}}. When used for poetic or lunar months, it is pronounced {{m|ja|つき|tr=tsuki}}.
+When used in most compounds or when counting a number of months with {{m|ja|ヶ|tr=ka}}, {{lang|ja|月}} is pronounced {{m|ja||げつ|tr=getsu}}. When used in compounds for modern months of the year, it is pronounced {{m|ja||がつ|tr=gatsu}}. When used for poetic or lunar months, it is pronounced {{m|ja||つき|tr=tsuki}}.
 
 =====Derived terms=====
 {{der-top|Derived terms from がつ}}{{ja-r/multi|data=
@@ -285,6 +288,7 @@ When used in most compounds or when counting a number of months with {{m|ja|ヶ|
 * {{ja-r/args|月%天|がっ%てん}}
 * {{ja-r/args|月%天%子|^がっ%てん%し}}
 * {{ja-r/args|月%日|がっ%ぴ}}
+* {{ja-r/args|月%輪|がつ%りん}}
 }}{{der-bottom}}
 
 ===Etymology 3===
@@ -294,7 +298,7 @@ When used in most compounds or when counting a number of months with {{m|ja|ヶ|
 
 From {{der|ja|ltc|sort=かつ|月|tr=ŋʉɐt̚}}.
 
-The {{m|ja|漢音|tr=kan'on}} reading, so likely a later borrowing. Compare modern {{cog|hak|月|tr=ngie̍t}}, {{cog|nan|月|tr=ge̍h}}.
+The {{m|ja|漢音|tr=kan’on|lit=[[Han]]-[[sound]]}} reading, so likely a later borrowing. Compare modern {{cog|hak|月|tr=ngie̍t}}, {{cog|nan|月|tr=ge̍h}}.
 
 ====Pronunciation====
 {{ja-pron|げつ|acc=1|acc_ref=DJR}}
@@ -302,11 +306,11 @@ The {{m|ja|漢音|tr=kan'on}} reading, so likely a later borrowing. Compare mode
 ====Counter====
 {{ja-pos|counter|げつ|hhira=ぐゑつ}}
 
-# a month as a [[duration]] of [[time]]
-# {{lb|ja|possibly|obsolete}} month of the year
+# a [[month]] {{gl|as a [[duration]] of [[time]]}}
+# {{lb|ja|possibly|obsolete}} month of the [[year]]
 
 =====Usage notes=====
-When used in most compounds or when counting a number of months with {{m|ja|ヶ|tr=ka}}, {{lang|ja|月}} is pronounced {{m|ja|げつ|tr=getsu}}. When used in compounds for modern months of the year, it is pronounced {{m|ja|がつ|tr=gatsu}}. When used for poetic or lunar months, it is pronounced {{m|ja|つき|tr=tsuki}}.
+When used in most compounds or when counting a number of months with {{m|ja|ヶ|tr=ka}}, {{lang|ja|月}} is pronounced {{m|ja||げつ|tr=getsu}}. When used in compounds for modern months of the year, it is pronounced {{m|ja||がつ|tr=gatsu}}. When used for poetic or lunar months, it is pronounced {{m|ja||つき|tr=tsuki}}.
 
 =====Derived terms=====
 * {{ja-r|ヶ月|かげつ|rom=-kagetsu}}
@@ -319,9 +323,9 @@ When used in most compounds or when counting a number of months with {{m|ja|ヶ|
 ====Affix====
 {{ja-pos|affix|げつ}}
 
-# moon
-# month
-# menstruation, menstrual cycle
+# [[moon]]
+# [[month]]
+# [[menstruation]], [[menstrual cycle]]
 
 =====Derived terms=====
 {{der-top|Derived terms from げつ}}{{ja-r/multi|data=
@@ -343,7 +347,6 @@ When used in most compounds or when counting a number of months with {{m|ja|ヶ|
 * {{ja-r/args|月%末|げつ%まつ}}
 * {{ja-r/args|月%夜|げつ%や}}
 * {{ja-r/args|月%曜|げつ%よう}}
-** {{ja-r/args|月%曜%日|げつ%よう%び}}
 * {{ja-r/args|月%例|げつ%れい}}
 * {{ja-r/args|雨%月|う%げつ}}
 * {{ja-r/args|観%月|かん%げつ}}
@@ -371,7 +374,7 @@ When used in most compounds or when counting a number of months with {{m|ja|ヶ|
 
 First attested in the {{w|Edo period}}.
 
-Appears to be a [[poetic]] use of the {{m|ja|呉音|tr=goon}} reading, in reference to a rank of {{m|ja|端女郎||tr=hashi jorō|low-end prostitute}} in the Kansai region. According to a popular song, a {{m|ja|月||tr=gachi|moon}} prostitute cost one {{m|ja|匁|tr=monme|pos=old unit of [[currency]], worth roughly 3.75 [[gram]]s of [[silver]]}}, a {{m|ja|影||tr=kage|shadow}} prostitute cost two ''monme'', and a {{m|ja|汐||tr=shio|[[tide]]; [[loveliness]]}} prostitute cost three ''monme''.<ref name="DJR"/><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+Appears to be a [[poetic]] use of the {{m|ja|呉音|tr=goon|lit=[[Wu]]-[[sound]]}} reading, in reference to a rank of {{m|ja|端女郎||tr=hashi jorō|low-end prostitute}} in the Kansai region. According to a popular song, a {{m|ja|月||tr=gachi|moon}} prostitute cost one {{m|ja|匁|tr=monme|pos=old unit of [[currency]], worth roughly 3.75 [[gram]]s of [[silver]]}}, a {{m|ja|影||tr=kage|shadow}} prostitute cost two ''monme'', and a {{m|ja|汐||tr=shio|[[tide]]; [[loveliness]]}} prostitute cost three ''monme''.<ref name="DJR"/><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
 
 ====Pronunciation====
 {{ja-pron|がち}}
@@ -379,17 +382,15 @@ Appears to be a [[poetic]] use of the {{m|ja|呉音|tr=goon}} reading, in refere
 ====Noun====
 {{ja-noun|がち|hhira=ぐわち}}
 
-# {{lb|ja|sort=かち|Kansai|historical}} during the Edo period, a [[low]] [[rank]] of low-end [[prostitute]]
+# {{lb|ja|sort=かち|Kansai|historical}} during the [[Edo]] [[period]], a [[low]] [[rank]] of low-end [[prostitute]]
 
 =====Derived terms=====
 * {{ja-r|月 の 女%郎|がち の じょ%ろう}}
 
 ===Etymology 5===
-{{ja-kanjitab|yomi=goon|がち}}
-Either a shift in sense from the ''low-ranking prostitute'' meaning above, or a shift in [[pronunciation]] from {{m|ja|頑痴||tr=ganchi|[[stubborn]] and [[stupid]]}}.<ref name="DJR"/><ref name="KDJ"/>
+{{ja-kanjitab|yomi=goon|がち|ateji=y|alt=瓦智}}
 
-====Alternative forms====
-* {{ja-l|瓦智}} {{q|ateji}}
+Either a shift in sense from the ''low-ranking prostitute'' meaning above, or a shift in [[pronunciation]] from {{m|ja|[[頑]][[痴]]|tr=ganchi|lit=[[stubborn]] and [[stupid]]}}.<ref name="DJR"/><ref name="KDJ"/>
 
 ====Pronunciation====
 {{ja-pron|がち}}
@@ -406,7 +407,7 @@ Either a shift in sense from the ''low-ranking prostitute'' meaning above, or a 
 ====Noun====
 {{ja-noun|がち|hhira=ぐわち}}
 
-# {{lb|ja|sort=かち|archaic|possibly|obsolete}} something or someone that/who is crude, unrefined, hickish
+# {{lb|ja|sort=かち|archaic|possibly|obsolete}} [[something]] that {{gl|or [[someone]] who}} is [[crude]], [[unrefined]], or [[hickish]]
 #: {{syn|ja|野暮|tr=yabo}}
 
 ===References===
