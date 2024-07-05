@@ -19,23 +19,30 @@ From {{der|en|enm|sinonyme}}, from {{der|en|la|synōnymum}}, from {{der|en|grc|�
 
 # {{lb|en|semantics|strictly}} A [[word]] whose [[meaning]] is the same as that of another word.
 #: {{ant|en|antonym|opposite}}
-#: {{hyper|en|equivalent}}
-#: {{cot|en|near-synonym|parasynonym|plesionym|;|coordinate term|cohyponym}}
+#: {{hyper|en
+|equivalent|;
+<!--|semantic relation--><!--Wiktionary chooses not to enter that term because it was judged to be [[WT:SOP]], but it is nonetheless the hypernymic [[noun phrase]]-->
+}}
+#: {{cot|en
+|coordinate term|cohyponym|;<!--fellow type of the same larger class-->
+|comeronym|;<!--fellow part of the same larger whole-->
+|hypernym|hyperonym|;<!--class that subsumes this type-->
+|hyponym|;<!--subtype of this type-->
+|near-synonym|parasynonym|plesionym|;<!--nearly the same, not elsewhere classifiable-->
+|metonym|synechdoche|;<!--aspect or fellow cast as representative-->
+|antiphrasis|;<!--intentionally discrepant meaning-->
+}}
 # {{lb|en|semantics|loosely}} A [[word]] or [[phrase]] with a [[meaning]] that is the same as, or very similar to, another word or phrase.
 #: {{ux|en|“Happy” is a '''synonym''' of “glad”.}}
 #* {{quote-book|en|passage=The proportion of English words that have an exact '''synonym''' is small.|author=William T. Parry; Edward A. Hacker|title=Aristotelian Logic|year=1991|url=http://books.google.com/books?id=rJceFowdGEAC}}
 # {{senseid|en|zoology}} {{lb|en|zoology}} Any of the formal names for a taxon, including the [[valid name]] (i.e. the [[senior synonym]]).
+#: {{syn|en|poecilonym}}
 # {{lb|en|taxonomy|botany}} Any name for a taxon, usually a validly published, formally accepted one, but often also an unpublished name.
 # {{lb|en|databases}} An alternative (often shorter) [[name]] defined for an [[object]] in a [[database]].
 #* {{quote-book|en|year=2011|author=Paul Nielsen; Uttam Parui|title=Microsoft SQL Server 2008 Bible|passage='''Synonyms''' are part of the SQL standard and are used frequently by Oracle DBAs. Note that Oracle includes both private and public synonyms.}}
 
 ====Synonyms====
-* {{l|en|synonymum}} {{q|non-native speakers' English}}
-* {{l|en|poecilonym}} {{q|zoological sense}}
-
-====Coordinate terms====
-* {{l|en|coordinate term}}, {{l|en|hypernym}}, {{l|en|hyponym}}<!--These three have especial pedagogic value here and thus should appear here, whereas the rest can be gotten via clickthrough below instead. Regarding *why* these three have especial differentiation value here: Think on it and ye shall 'aha'.-->
-* More: see [[Wiktionary:Semantic relations]]<!--The hypernym above them all is [[semantic relation]] (Wiktionary chooses not to enter that term because it was judged to be [[WT:SOP]], but it is nonetheless the hypernymic [[noun phrase]].)-->
+* {{sense|all senses}} {{l|en|synonymum}} {{q|non-native speakers' English}}
 
 ====Derived terms====
 {{col3|en|near-synonym|parasynonym|quasi-synonym|synonymic|synonymist|synonymous|junior synonym|objective synonym|subjective synonym|synonym ring|synonymize|heterotypic synonym|homotypic synonym|synonymy|nomenclatural synonym|textonym}}
