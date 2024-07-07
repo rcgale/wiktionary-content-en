@@ -159,21 +159,21 @@ From {{inh|pt|roa-opt|esperar}}, {{inh+|pt|la|spērō|spērāre|nocap=1}}.
 {{pt-verb}}
 
 # to [[wait]]
-## {{senseid|pt|to await}} {{indtr|pt|por|intr=1|direct=1}} to [[wait]] (for); to [[await]]
+## {{senseid|pt|to await}} {{lb|pt|transitive|or|intransitive}} to [[wait]] (for); to [[await]] {{+obj|pt|dirobj/:por<something>}}
 ##: {{uxi|pt|Eu '''espero''' por sua resposta.|I '''await''' your response.}}
 ##: {{uxi|pt|Fiquei '''esperando''' no carro.|I '''waited''' in the car.}}
 ##: {{syn|pt|aguardar}}
-## {{senseid|pt|to wait for something to happen}} {{lb|pt|transitive|auxiliary|_|with a verb in the personal infinitive as the second object}} to [[wait]] for {{gl|not to do anything until}}
+## {{senseid|pt|to wait for something to happen}} {{lb|pt|catenative}} to [[wait]] {{+obj|pt|subject&pronoun<qq:optional><for someone> + pers&inf<to do something>}}
 ##: {{uxi|pt|'''Espere''' o João chegar.|'''Wait''' for John to arrive.}}
 ##: {{syn|pt|aguardar}}
 # to [[hope]]
-## {{senseid|pt|to hope for}} {{indtr|pt|por}} to [[hope]] for {{gl|to really want something}}
+## {{senseid|pt|to hope for}} {{lb|pt|intransitive}} to [[hope]] for {{gl|to really want}} {{+obj|pt|:por<something>}}
 ##: {{uxi|pt|Eles '''esperam''' pelo fim da guerra.|They '''hope''' for the end of the war.}}
-## {{senseid|pt|to hope that}} {{indtr|pt|que|ditr=1|aux=present subjunctive}} to [[hope]] (that) someone does something
+## {{senseid|pt|to hope that}} {{lb|pt|transitive}} to [[hope]] {{+obj|pt|:que(sub-cl)<that someone does something>}}
 ##: {{uxi|pt|Eu '''espero''' que gostes do presente.|I '''hope''' you like the gift.}}
-## {{senseid|pt|to hope something can be done}} {{lb|pt|auxiliary|_|with a verb in the personal or impersonal infinitive}} to [[hope]] something can be done
+## {{senseid|pt|to hope something can be done}} {{lb|pt|catenative}} to [[hope]] {{+obj|pt|inf<to do something>|subject&pronoun<qq:optional><for someone> + pers&inf<to something>}}
 ##: {{uxi|pt|'''Esperávamos''' comer alguma coisa hoje.|'''We were hoping''' to eat something today.}}
-# {{senseid|pt|to expect}} {{indtr|pt|por|intr=1|direct=1}} to [[expect]]; to [[anticipate]] {{gl|to know or think that something will happen}}
+# {{senseid|pt|to expect}} to [[expect]]; to [[anticipate]] {{gl|to know or think that something will happen}} {{+obj|pt|dirobj/:por<something>}}
 #: {{uxi|pt|É melhor do que eu '''esperava'''.|It is better than I '''expected'''.}}
 #: {{uxi|pt|Eu já '''esperava''' por isso mesmo.|I was '''expecting this''' anyway.}}
 #: {{syn|pt|aguardar}}
@@ -196,20 +196,20 @@ From {{inh|es|osp|esperar}}, {{inh+|es|la|spērō|spērāre|nocap=1}}.
 ===Verb===
 {{es-verb}}
 
-# {{lb|es|transitive}} to [[hope]] for, [[hope]] to {{q|with a subjunctive or same-subject infinitive}}
+# {{lb|es|transitive|or|catenative}} to [[hope]] {{+obj|es|dirobj<for something>/inf<to do something>/:que(sub-cl)<that something happens>}}
 #: {{syn|es|[[tener]] [[esperanza]] de que}}
 #: {{coi|es|'''esperar''' con interés|to look forward to, to eagerly await}}
 #: {{uxi|es|En vano '''esperaron''' mejores días.|They '''hoped for''' better days in vain.}}
 #: {{uxi|es|'''Esperamos''' llegar a viejos juntos.|We '''hope''' we'll grow old together.}}
 #: {{uxi|es|Ella '''espera''' ya estar casada cuando tenga treinta.|She '''hopes''' she'll be already married when she's 30 years old.}}
 #: {{uxi|es|'''Espera''' que no sea necesario.|He '''hopes''' it won't be necessary.}}
-# {{lb|es|transitive}} to [[expect]] {{q|often with a verb in the indicative}}
+# {{lb|es|transitive|or|catenative}} to [[expect]] {{+obj|es|dirobj<something>/inf<to do something>/:que(ind-cl)<that something happens>}}
 #: {{syn|es|anticipar}}
 #: {{uxi|es|Ellos '''esperan''' encontrar muchas dificultades.|They '''expect''' to come across many hardships.}}
 #: {{uxi|es|'''Esperamos''' un clima adverso mañana.|We're '''expecting''' unfavourable weather tomorrow.}}
 #: {{uxi|es|Los estudiantes '''esperan''' que no será fácil el examen.|The students '''expect''' the exam won't be easy.}}
 #: {{uxi|es|Los huéspedes '''esperan''' que les ayudaremos.|The guests '''expect''' we'll help them.}}
-# {{lb|es|intransitive|or|transitive}} to [[wait]], [[wait for]], [[await]] {{q|possibly with ''[[a#Spanish|a]]'' + subjunctive}}
+# {{lb|es|intransitive|or|transitive}} to [[wait]], [[wait for|wait (for)]] {{+obj|es|dirobj<for something>/:[[a]] [[que]](sub-cl)<for something to happen><q*:optionally>}}
 #: {{uxi|es|Por favor '''espera''' [[aquí]].|Please '''wait''' here.}}
 #: {{uxi|es|Te '''he esperado''' por media hora.|I '''have waited for''' you for half an hour.}}
 #: {{uxi|es|'''Espero''' con ansias tu llegada.|I '''am''' anxiously '''waiting for''' your arrival.}}
