@@ -1,6 +1,10 @@
 ==English==
 {{was wotd|2021|September|29}}
 
+===Alternative forms===
+* {{alt|en|ischaemia||British spelling}}
+* {{alt|en|ischæmia||British spelling|obsolete}}
+
 ===Etymology===
 [[File:Peripheral Cyanosis due to Ischemia.jpg|thumb|upright|An ischemia in the [[blood vessel]]s of the [[foot#Noun|foot]], leading to {{l|en|cyanosis|t=a [[blue#Noun|blue]] [[discolouration]] of the [[skin#Noun|skin]]}} in the [[toe#Noun|toes]].]]
 
@@ -25,22 +29,12 @@ The {{glossary|plural}} form {{m|en|ischemiae}} is also from {{der|en|NL.|ischae
 {{en-noun|~|+|ischemiae}} {{lb|en|American spelling}}
 
 # {{lb|en|cardiology|pathology}} [[local#Adjective|Local]] [[disturbance]] in [[blood#Noun|blood]] [[circulation]] due to [[mechanical#Adjective|mechanical]] [[obstruction]] of the [[blood supply]] (for example, [[embolism]], [[thrombosis]], or [[vasoconstriction]]).
-
-====Alternative forms====
-* {{l|en|ischaemia}} {{qualifier|British spelling}}
-* {{l|en|ischæmia}} {{qualifier|British spelling, obsolete}}
-
-====Antonyms====
-* {{l|en|reperfusion}}
-
-====Hypernyms====
-* {{l|en|malperfusion}}
-
-====Coordinate terms====
-* {{l|en|hypoperfusion}}
+#: {{ant|en|reperfusion}}
+#: {{hyper|en|malperfusion}}
+#: {{coord|en|hypoperfusion}}
 
 ====Derived terms====
-{{col4|en|collapse=n
+{{col-auto|en|collapse=n
 |antiischemic
 |extraischemic
 |intraischemic
@@ -66,7 +60,7 @@ The {{glossary|plural}} form {{m|en|ischemiae}} is also from {{der|en|NL.|ischae
 * Chinese:
 *: Mandarin: {{t+|cmn|缺血|tr=quēxuè}}
 * Czech: {{t|cs|ischémie|f}}
-* Danish: {{t|da|iskæmi}}
+* Danish: {{t|da|iskæmi|?}}
 * Dutch: {{t+|nl|ischemie|f}}
 * Esperanto: {{t|eo|iskemio}}
 * Estonian: {{t|et|isheemia}}
@@ -74,10 +68,11 @@ The {{glossary|plural}} form {{m|en|ischemiae}} is also from {{der|en|NL.|ischae
 * French: {{t+|fr|ischémie|f}}
 * German: {{t+|de|Ischämie|f}}
 * Greek: {{t+|el|ισχαιμία|f}}
-* Hebrew: {{t|he|איסכמיה}}
-* Hindi: {{t|hi|स्थानिक अरक्तता}}
+* Hebrew: {{t|he|איסכמיה|?}}
+* Hindi: {{t|hi|स्थानिक अरक्तता|?}}
 * Hungarian: {{t+|hu|iszkémia}}
 * Icelandic: {{t|is|blóðþurrð|f}}
+* Ido: {{t+|io|iskemio}}
 * Indonesian: {{t+|id|iskemia}}
 * Interlingua: {{t|ia|ischemia}}
 * Italian: {{t+|it|ischemia|f}}
@@ -92,17 +87,17 @@ The {{glossary|plural}} form {{m|en|ischemiae}} is also from {{der|en|NL.|ischae
 *: Nynorsk: {{t|nn|iskemi|m}}
 * Persian: {{t|fa|ایسکمی}}
 * Polish: {{t+|pl|niedokrwienie|n}}
-* Portuguese: {{t+|pt|isquemia}}
-* Romanian: {{t+|ro|ischemie}}
+* Portuguese: {{t+|pt|isquemia|f}}
+* Romanian: {{t+|ro|ischemie|f}}
 * Russian: {{t+|ru|ишеми́я|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|исхе́мија}}
+*: Cyrillic: {{t|sh|исхе́мија|f}}
 *: Roman: {{t+|sh|ishémija|f}}
 * Spanish: {{t+|es|isquemia|f}}
 * Thai: {{t|th|การขาดเลือดเฉพาะที่}}
 * Turkish: {{t+|tr|iskemi}}
-* Ukrainian: {{t|uk|ішемі́я}}
-* Urdu: {{t|ur|اقفار}}
+* Ukrainian: {{t|uk|ішемі́я|?}}
+* Urdu: {{t|ur|اقفار|?}}
 * Uzbek: {{t|uz|ishemiya}}
 * Vietnamese: {{t|vi|thiếu máu cục bộ}}
 {{trans-bottom}}
@@ -116,10 +111,26 @@ The {{glossary|plural}} form {{m|en|ischemiae}} is also from {{der|en|NL.|ischae
 ==Italian==
 {{wikipedia|lang=it}}
 
+===Etymology===
+From {{der|it|NL.|ischaemia}}, from {{der|it|grc|ἴσχαιμος|t=stoppage of blood flow}}, from {{m|grc|ῐ̓́σχω|t=to hold back, restrain; to stay, stop}} + {{m|grc|αἷμᾰ|t=blood}}. {{surf|it|isco-|-emia}}.
+
+===Pronunciation===
+{{it-pr|^ì}}
+
 ===Noun===
 {{it-noun|f}}
 
-# {{lb|it|pathology}} [[ischaemia]], {{l|en|ischemia}}
+# {{lb|it|pathology}} [[ischaemia]], [[#English|ischemia]]
 
 ====Derived terms====
-* {{l|it|ischemico}}
+{{col-auto|it|ischemico}}
+
+====Related terms====
+{{col-auto|it|ischemizzare}}
+
+===Further reading===
+* {{R:it:DiPI}}
+* {{R:it:Hoepli}}
+* {{R:it:Garzanti}}
+* {{R:it:Olivetti|ischemìa}}
+* {{R:it:Trec}}
