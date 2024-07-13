@@ -559,8 +559,15 @@ Possibly ultimately from a Congolese name for the animal, via {{cog|pt|-}}, via 
 
 ==Polish==
 {{wp|lang=pl}}
-[[File:Zebras Rwanda.JPG|thumb|zebry (#1)]]
-[[File:AbbeyRoadZebraCrossingRevisited.jpg|thumb|zebra (#2)]]
+{{multiple images
+|direction = vertical
+| align = right
+| total_height = 230
+| image1 = Zebras Rwanda.JPG
+| caption1 = zebry {{senseno|pl|animal}}
+| image2 = AbbeyRoadZebraCrossingRevisited.jpg
+| caption2 = zebra {{senseno|pl|road}}
+}}
 
 ===Etymology===
 {{dercat|pl|pt|roa-opt|VL.|la}}
@@ -572,8 +579,8 @@ Possibly ultimately from a Congolese name for the animal, via {{cog|pt|-}}, via 
 ===Noun===
 {{pl-noun|f}}
 
-# {{l|en|zebra}} {{gl|any equid of the subgenus ''[[Hippotigris]]''}}
-# {{lb|pl|colloquial}} [[crosswalk]], [[pedestrian crossing]], [[zebra crossing]] {{gl|pedestrian crossing featuring broad white stripes}}
+# {{senseid|pl|animal}} {{l|en|zebra}} {{gl|any equid of the subgenus {{taxfmt|Hippotigris|subgenus}}}}
+# {{senseid|pl|road}} {{lb|pl|colloquial}} [[crosswalk]], [[pedestrian crossing]], [[zebra crossing]] {{gl|pedestrian crossing featuring broad white stripes}}
 #: {{syn|pl|pasy|przejście dla pieszych}}
 # [[black and white]] [[striped]] [[pattern]]
 
@@ -587,8 +594,9 @@ Possibly ultimately from a Congolese name for the animal, via {{cog|pt|-}}, via 
 * {{desc|csb|zebra|bor=1}}
 
 ===Further reading===
-* {{R:pl:WSJP}}
+* {{R:pl:WSJP||12163}}
 * {{R:pl:PWN}}
+* {{R:pl:PWN Encyclopedia|zebry}}
 
 {{C|pl|Equids|Roads}}
 
