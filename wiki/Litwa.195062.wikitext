@@ -3,28 +3,62 @@
 {{wp|lang=pl}}
 
 ===Etymology===
-{{inh+|pl|sla-pro|*Litъva}}, from {{der|pl|olt|Lietuva}}.
+{{dercat|pl|olt}}
+{{inh+|pl|sla-pro|*Litъva}}.
 
 ===Pronunciation===
-{{pl-p|a=Pl-Litwa.ogg|a2=LL-Q809 (pol)-Gower-Litwa.wav|ac=Audio 1|ac2=Audio 2|hh=litwa}}
+{{pl-p|a=Pl-Litwa.ogg|a2=LL-Q809 (pol)-Gower-Litwa.wav|a3=LL-Q809 (pol)-Renvoy-Litwa.wav|ac=Audio 1|ac2=Audio 2|ac3=Audio 3|hh=litwa}}
 
 ===Proper noun===
-{{pl-proper noun|f}}
+{{pl-prop|f|adj=litewski}}
 
 # {{place|pl|country|r/Eastern Europe|t=Lithuania}}
+# {{lb|pl|colloquial|historical}} [[Grand Duchy of Lithuania]] {{gl|former European state from the 13th century until 1795, encompassing the territory of modern-day Lithuania and Belarus, a large part of Ukraine, and small parts of Russia and Poland}}
+#: {{syn|pl|Wielkie Księstwo Litewskie}}
+
+====Declension====
+{{pl-decl-noun-f|tantum=s}}
+
+====Derived terms====
+{{col-auto|pl|title=nouns|litewka|Litwaczka|Litwak|Litwin|Litwinka}}
+
+====Related terms====
+{{col-auto|pl|title=adjectives|litwacki}}
+{{col-auto|pl|title=nouns|litewskość|litewszczyzna|litwaczka|litwak|litwinizacja}}
+{{col-auto|pl|title=verbs|litwinizować<g:impf>|zlitwinizować<g:pf>}}
+
+===Proper noun===
+{{pl-prop|m-pr}}
+
+# {{surname|pl|g=m}}
+
+====Declension====
+{{pl-decl-noun
+|Litwa|Litwowie
+|Litwy|Litwów
+|Litwie|Litwom
+|Litwę|Litwów
+|Litwą|Litwami
+|Litwie|Litwach
+|Litwo|Litwowie
+}}
+
+===Proper noun===
+{{pl-prop|f}}
+
+# {{surname|pl|g=f}}
 
 ====Declension====
 {{pl-decl-noun-f}}
 
-====Derived terms====
-{{col-auto|pl|title=adjective|litewski}}
-{{col-auto|pl|title=nouns|Litwin|Litwinka}}
-
 ===Further reading===
 * {{R:pl:WSJP}}
 * {{R:pl:PWN}}
+* {{R:pl:PWN Encyclopedia}}
+* {{R:pl:ISNP|Litwa}}
 
 {{cln|pl|exonyms}}
+{{C|pl|Historical polities|Places in Belarus|Places in Lithuania|Places in Poland|Places in Russia|Places in Ukraine}}
 
 ==Silesian==
 {{wp|lang=szl}}
