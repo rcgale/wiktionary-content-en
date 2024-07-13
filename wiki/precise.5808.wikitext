@@ -17,13 +17,14 @@ From {{der|en|frm|précis}}, from {{der|en|la|praecisus}}, perfect passive parti
 ===Adjective===
 {{en-adj|more|er}}
 
-# [[exact|Exact]], [[accurate]].
+# {{lb|en|broadly}} Both [[exact]] and [[accurate]].
 #: {{ant|en|inexact|imprecise}}
 #* {{quote-book|en|year=1921|author=Bertrand Russell|title=[[S:The Analysis of Mind/Lecture IX|The Analysis of Mind]]|passage=A memory is "'''precise'''" when the occurrences that would verify it are narrowly circumscribed: for instance, "I met Jones" is '''precise''' as compared to "I met a man." A memory is "accurate" when it is both precise and true, i.e. in the above instance, if it was Jones I met.}}
 #* {{quote-journal|1=en|year=2018|author=James Lambert|title=A multitude of ‘lishes’: The nomenclature of hybridity|journal=English World-Wide|page=7|url=https://www.researchgate.net/publication/318367113_A_multitude_of_lishes_The_nomenclature_of_hybridity
 |text=Individually, some of these definitions fall into the common definitional trap of being overly '''precise'''.}}
-# {{lb|en|sciences|of experimental results}} [[consistent|Consistent]], [[cluster]]ed close together, [[agree]]ing with each other {{q|this does ''not'' mean that they cluster near the [[true]], [[correct]], or [[accurate]] value}}.
-#: {{ant|en|inconsistent|varying}}
+# {{lb|en|sciences|engineering|of data|strictly}} [[consistent|Consistent]], [[cluster]]ed close together, [[agree]]ing with each other {{q|this does ''not'' mean that they cluster near the [[true]], [[correct]], or [[accurate]] value}}.
+#: {{ant|en|imprecise|;|inconsistent|varying}}
+#: {{cot|en|accurate}}
 # [[adhere|Adhering]] too much to rules; [[prim]] or [[punctilious]].
 
 ====Synonyms====
@@ -104,6 +105,11 @@ From {{der|en|frm|précis}}, from {{der|en|la|praecisus}}, perfect passive parti
 * Swedish: {{t+|sv|noggrann}}
 * West Frisian: {{t|fy|preciis}}
 {{trans-bottom}}
+
+====See also====
+{{col-auto|en
+|repeatable<!--precision and repeatability are closely correlated both semantically and mathematically in the sci and engr senses of the words-->
+}}
 
 ===Verb===
 {{en-verb}}
