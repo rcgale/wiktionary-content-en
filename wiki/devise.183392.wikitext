@@ -2,17 +2,17 @@
 ==English==
 {{wikipedia}}
 
-===Etymology===
-{{PIE word|en|dwóh₁}}
-From {{inh|en|enm|devisen}}, {{m|enm|devysen}}, from {{der|en|fro|deviser}}, from {{der|en|VL.|devisō}}, from {{der|en|la|dīvisō}}, frequentative of {{m|la|dīvidō}}.
-
 ===Pronunciation===
 * {{IPA|en|/dɪˈvaɪz/}}
 * {{audio|en|en-us-devise.ogg|a=US}}
 * {{rhymes|en|aɪz|s=2}}
 * {{hyph|en|de|vise}}
 
-===Verb===
+===Etymology 1===
+{{PIE word|en|dwóh₁}}
+From {{inh|en|enm|devisen}}, {{m|enm|devysen}}, from {{der|en|fro|deviser}}, from {{der|en|VL.|devisō}}, from {{der|en|la|dīvisō}}, frequentative of {{m|la|dīvidō}}.
+
+====Verb====
 {{en-verb}}
 
 # {{lb|en|transitive}} To use one’s [[intellect]] to [[plan]] or [[design]] (something).
@@ -31,7 +31,7 @@ From {{inh|en|enm|devisen}}, {{m|enm|devysen}}, from {{der|en|fro|deviser}}, fro
 # {{lb|en|obsolete}} To [[imagine]]; to [[guess]].
 #* {{RQ:Shakespeare Romeo and Juliet|3|1|passage=I do protest I neuer iniur’d thee, <br>But lou’d thee better then thou can’st '''deuise''': <br>Till thou shalt know the reason of my loue.}}
 
-====Translations====
+=====Translations=====
 {{trans-top|use the intellect to plan or design}}
 * Albanian: {{t+|sq|krijoj}}, {{t+|sq|sajoj}}
 * Armenian: {{t-needed|hy}}
@@ -91,7 +91,10 @@ From {{inh|en|enm|devisen}}, {{m|enm|devysen}}, from {{der|en|fro|deviser}}, fro
 * Turkish: {{t|tr|miras bırakmak}}
 {{trans-bottom}}
 
-===Noun===
+===Etymology 2===
+From {{bor|en|frm|devise}}.<ref>{{R:OED Online|pos=n|id=1200884934}}</ref> {{doublet|en|device}}.
+
+====Noun====
 {{en-noun}}
 
 # The act of leaving real property in a will.
@@ -103,12 +106,15 @@ From {{inh|en|enm|devisen}}, {{m|enm|devysen}}, from {{der|en|fro|deviser}}, fro
 #* {{quote-book|en|year=2010|author=Carl Anderson|title=Fragments of a Scattered Brain|isbn=1453547460|page=83
 |passage=I don't know how I got to be so sour on life, but I'm constantly in solitary confinement of my own '''devise''', {{...}}}}
 
-====Derived terms====
+=====Derived terms=====
 {{der2|en|point-devise|residuary devise}}
 
 ===See also===
 * {{l|en|device}}
 * {{l|en|devising}}
+
+===References===
+<references/>
 
 ===Anagrams===
 * {{anagrams|en|a=deeisv|sieved|viséed}}
@@ -133,7 +139,7 @@ From {{inh|en|enm|devisen}}, {{m|enm|devysen}}, from {{der|en|fro|deviser}}, fro
 {{wikipedia|lang=fr}}
 
 ===Etymology===
-From {{m|fr|deviser}}. The financial sense is a {{semantic loan|fr|de|Devise|nocap=1}}.
+From {{inh|fr|fro|devise|t=division, separation; heraldic band, emblem}}, from {{m|fro|deviser}}. The financial sense is a {{semantic loan|fr|de|Devise|nocap=1}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -146,13 +152,13 @@ From {{m|fr|deviser}}. The financial sense is a {{semantic loan|fr|de|Devise|noc
 # {{lb|fr|finance}} [[asset]]s in foreign [[currency]]
 # {{lb|fr|finance|by extension}} currency
 
+====Descendants====
+* {{desc|tr|döviz|bor=1}}
+
 ===Verb===
 {{head|fr|verb form}}
 
 # {{inflection of|fr|deviser||1//3|s|pres|ind//sub|;|2|s|imp}}
-
-====Descendants====
-* {{desc|tr|döviz|bor=1}}
 
 ===Further reading===
 * {{R:fr:TLFi}}
