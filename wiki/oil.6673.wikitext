@@ -558,10 +558,11 @@ From {{inh|en|enm|oilen}}, {{m|enm|oylen}}, from the noun (see above).
 ==Irish==
 
 ===Pronunciation===
-* {{IPA|ga|/ɛlʲ/|/ɪlʲ/}}
+* {{IPA|ga|/ɛlʲ/|/ɪlʲ/|ref2={{R:ga:Finck|II|89}}}}
 
 ===Etymology 1===
-From {{inh|ga|sga|ail}}, {{m|sga|oil|t=disgrace, reproach; act of reproaching; blemish, defect}}.
+{{etymid|ga|disgrace}}
+From {{inh|ga|sga|ail}}, {{m|sga|oil|t=disgrace, reproach}}.<ref>{{R:DIL|955|head=2 ail (‘disgrace, reproach’)}}</ref>
 
 ====Noun====
 {{ga-noun|f|~e|-}}
@@ -573,8 +574,9 @@ From {{inh|ga|sga|ail}}, {{m|sga|oil|t=disgrace, reproach; act of reproaching; b
 {{ga-decl-f2-nopl|o|il|ile}}
 
 ===Etymology 2===
+{{etymid|ga|nourish}}
 {{root|ga|ine-pro|*h₂el-|id=grow}}
-From {{inh|ga|sga|ailid}}, {{m|sga|oilid|t=nourishes, rears, fosters}} (compare {{m|ga|altram|t=fosterage}}, from a verbal noun of {{m|sga|ailid}}).
+From {{inh|ga|sga|ailid}}, {{m|sga|oilid|t=nourishes, rears, fosters}} (compare {{m|ga|altram|t=fosterage}}, from a verbal noun of {{m|sga|ailid}}).<ref>{{R:DIL|1016|head=1 ailid (‘nourish, foster’}}</ref>
 
 ====Verb====
 {{ga-verb|pres=oileann|fut=oilfidh|vn=oiliúint|pp=~te}}
@@ -587,7 +589,11 @@ From {{inh|ga|sga|ailid}}, {{m|sga|oilid|t=nourishes, rears, fosters}} (compare 
 =====Conjugation=====
 {{ga-conj-1a|o|i|l|slender|vn=oiliúint}}
 
+=====Derived terms=====
+* {{l|ga|ailiúnas}}
+
 ===Etymology 3===
+{{etymid|ga|stone}}
 
 ====Noun====
 {{ga-noun|f|oileach|~eacha}}
@@ -598,6 +604,7 @@ From {{inh|ga|sga|ailid}}, {{m|sga|oilid|t=nourishes, rears, fosters}} (compare 
 {{ga-decl-f5|o|il|ileach|ileacha}}
 
 ===Etymology 4===
+{{etymid|ga|suit}}
 
 ====Verb====
 {{ga-verb|pres=~eann|fut=~fidh|vn=oiliúint|pp=~te}}
@@ -610,11 +617,11 @@ From {{inh|ga|sga|ailid}}, {{m|sga|oilid|t=nourishes, rears, fosters}} (compare 
 ===Mutation===
 {{ga-mut}}
 
+===References===
+{{reflist|size=smaller}}
+
 ===Further reading===
 * {{R:ga:Ó Dónaill}}
-* {{R:DIL|955|head=2 ail (‘disgrace, reproach’)}}
-* {{R:DIL|1016|head=1 ailid (‘nourish, foster’}}
-* {{R:ga:Finck|II|89}}
 
 ==Middle English==
 
