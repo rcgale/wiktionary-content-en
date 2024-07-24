@@ -223,7 +223,7 @@ Adverbs comprise a fundamental category of words in most languages. In English, 
 ==Estonian==
 
 ===Etymology===
-{{rfe|et}}
+From {{der|et|la|adverbium}}.
 
 ===Pronunciation===
 * {{et-IPA|adˈverb}}
@@ -233,16 +233,28 @@ Adverbs comprise a fundamental category of words in most languages. In English, 
 ===Noun===
 {{et-noun|adverbi|adverbi}}
 
-# {{lb|et|part of speech}} {{l|en|adverb}}
+# {{lb|et|part of speech|uncommon}} {{l|en|adverb}}
+#: {{syn|et|määrsõna}}
 
 ====Declension====
 {{et-decl-riik|adverb|||i}}
 
-====Compounds====
-{{col-auto|et|afiksaaladverb|kausaaladverbiaal|lokaaladverbiaal|temporaaladverbiaal}}
-
 ====Derived terms====
-{{col-auto|et|adverbiline|adverbiaal|adverbiaalne}}
+{{col-auto|et
+|adverbiline
+|adverbiaal
+|adverbistuma
+}}
+
+====Compounds====
+{{col-auto|et
+|ajaadverb
+|kohaadverb
+|hulgaadverb
+|lihtadverb
+|liitadverb
+|viisiadverb
+}}
 
 ===References===
 * {{R:Sõnaveeb}}
