@@ -7,6 +7,7 @@
 # {{lb|en|graph theory}} A [[graph]] in which the [[edge]]s are [[ordered pair]]s, so that, if the edge (a, b) is in the graph, the edge (b, a) need not be in the graph and is distinct from (a, b) if it is.
 #: {{syn|en|digraph}}
 #: {{ant|en|undirected graph}}
+#: {{cot|en|oriented graph}}
 #: {{ux|en|A '''directed graph''' (A, R) is a set of vertices A together with an incidence relation R: if aRb then there is an edge going from A to B.}}
 
 ====Translations====
