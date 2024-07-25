@@ -1,28 +1,62 @@
-{{also|śnieg|snieg|sniég|Śnieg}}
-==Polish==
-{{wp|lang=pl}}
+{{also|snieg|sniég|Śnieg}}
+==Old Polish==
+
+===Alternative forms===
+* {{alt|zlw-opl|śnig}}
 
 ===Etymology===
-{{inh+|pl|zlw-opl|śnieg}}, from {{inh|pl|sla-pro|*sněgъ}}, from {{inh|pl|ine-bsl-pro|*snáigas}}, from {{inh|pl|ine-pro|*snóygʷʰos}}.
+{{dercat|zlw-opl|ine-bsl-pro|ine-pro|inh=2}}
+{{inh+|zlw-opl|sla-pro|*sněgъ}}.
 
 ===Pronunciation===
-{{pl-p|a=pl-śnieg.ogg|hh=Śnieg}}
+* {{zlw-opl-IPA}}
 
 ===Noun===
-{{pl-noun|m-in|dim=śnieżek}}
+{{zlw-opl-noun|m-in}}
 
-# [[snow]]
+# [[snow]] {{gl|frozen, crystalline state of water that falls as precipitation}}
+# [[snow]], [[snowfall]] {{gl|blanket of frozen, crystalline water}}
+
+====Descendants====
+* {{desc|pl|śnieg}}
+* {{desc|szl|śniyg}}
+
+===References===
+* {{R:zlw-opl:SPJSP}}
+
+{{C|zlw-opl|Snow|Winter}}
+
+==Polish==
+{{wp|lang=pl}}
+[[File:Pilsko stacja wyciagu1.jpg|thumb|śnieg]]
+
+===Etymology===
+{{dercat|pl|sla-pro|ine-bsl-pro|ine-pro|inh=3}}
+{{inh+|pl|zlw-opl|śnieg}}. {{sl|pl|en|snow|senseid=cocaine}}.
+
+===Pronunciation===
+{{pl-p|a=Pl-śnieg.ogg|a2=LL-Q809 (pol)-Olaf-śnieg.wav|ac=Audio 1|ac2=Audio 2|hh=Śnieg}}
+
+===Noun===
+{{pl-noun|m-in|dim=śnieżek|adj=śniegowy}}
+
+# {{lb|pl|uncountable}} [[snow]] {{gl|frozen, crystalline state of water that falls as precipitation}}
+#: {{hyper|pl|opad}}
+# {{lb|pl|countable}} [[snow]], [[snowfall]] {{gl|blanket of frozen, crystalline water}}
+# {{senseid|pl|cocaine}} {{lb|pl|uncountable|slang}} [[snow]] {{gl|cocaine}}
+#: {{syn|pl|biała dama|biała śmierć|biały proszek|koka|kokaina}}
 
 ====Declension====
-{{pl-decl-noun-masc-inani|śnie|g|u}}
+{{pl-decl-noun-m-in}}
 
 ====Derived terms====
-{{col-auto|pl|title=adjectives|bezśnieżny|śniegowy|śnieżny|śnieżysty}}
+{{col-auto|pl|title=adjectives|śnieżny|śnieżysty}}
 {{col-auto|pl|title=nouns|przebiśnieg|śnieżka|śnieżnik|śnieżyca|śnieżynka}}
-{{col-auto|pl|title=verb|śnieżyć}}
+{{col-auto|pl|title=verbs|śnieżyć<g:impf>}}
 
 ===Further reading===
-* {{R:pl:WSJP}}
+* {{R:pl:WSJP||4355}}
 * {{R:pl:PWN}}
+* {{R:pl:PWN Encyclopedia}}
 
-{{C|pl|Snow|Winter}}
+{{C|pl|Alkaloids|Pharmaceutical drugs|Recreational drugs|Snow|Winter}}
