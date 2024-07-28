@@ -1,11 +1,10 @@
 ==English==
 
 ===Alternative forms===
-* {{qualifier|obsolete}} [[accusasiowne]] {{qualifier|15th century}}
-* {{qualifier|obsolete}} [[accusacion]] {{qualifier|15th century}}
+* {{alt|en|accusacion|accusasiowne||obsolete|15th century}}
 
 ===Etymology===
-First attested in the late 14th century. From {{inh|en|enm|accusacion}}, borrowed from {{der|en|fro|acusacion}} (French {{m|fr|accusation}}), from {{der|en|la|accūsātiō||accusation, indictment}}, from {{m|la|accūsō||blame, accuse}}. {{doublet|en|accusatio}}. More at {{m|en|accuse}}. Equivalent to {{suffix|en|accuse|-ation}}
+First attested in the late 14th century. {{inh+|en|enm|accusacion}}, borrowed from {{der|en|fro|acusacion}} (French: {{m|fr|accusation}}), from {{der|en|la|accūsātiō||accusation, indictment}}, from {{m|la|accūsō||blame, accuse}}. {{doublet|en|accusatio}}. More at {{m|en|accuse}}. Equivalent to {{suf|en|accuse|-ation}}.
 
 ===Pronunciation===
 * {{IPA|en|/ˌæk.ju.ˈzeɪ.ʃən/|/ˌæk.jə.ˈzeɪ.ʃən/}}
@@ -26,16 +25,26 @@ First attested in the late 14th century. From {{inh|en|enm|accusacion}}, borrowe
 #: {{coi|en|an '''accusation''' of a crime}}
 
 ====Synonyms====
-* {{l|en|allegation}}
-* {{l|en|assertion}}
-* {{l|en|censure}}
-* {{l|en|charge}}
-* {{l|en|crimination}}
-* {{l|en|detection}} {{q|obsolete}}
-* {{l|en|impeachment}}
+{{col4|en
+|allegation
+|assertion
+|censure
+|charge
+|crimination
+|detection<qq:obsolete>
+|impeachment
+}}
 
 ====Derived terms====
-{{col-auto|en| counteraccusation|interaccusation|misaccusation|preaccusation|reaccusation|blood accusation|hackusation}}
+{{col4|en
+|blood accusation
+|counteraccusation
+|hackusation
+|interaccusation
+|misaccusation
+|preaccusation
+|reaccusation
+}}
 
 ====Translations====
 {{trans-top|act of accusing or charging with a crime}}
@@ -178,9 +187,18 @@ First attested in the late 14th century. From {{inh|en|enm|accusacion}}, borrowe
 * {{l|fr|chef d'accusation}}
 
 ====Related terms====
-* {{l|fr|accuser}}
+{{col4|fr
+|accusable
+|accusateur
+|accusatif
+|accusatoire
+|accusatrice
+|accuser
+|accuser coup
+|accuser réception
+}}
 
-====References====
+===References===
 * {{R:DAF8}}
 
 ===Further reading===
@@ -191,4 +209,4 @@ First attested in the late 14th century. From {{inh|en|enm|accusacion}}, borrowe
 ===Noun===
 {{ia-noun|es}}
 
-# [[#English|accusation]]
+# {{l|en|accusation}}
