@@ -1,20 +1,38 @@
 ==Estonian==
-{{wikipedia|lang=et}}
+{{wp|lang=et}}
+
+===Alternative forms===
+* {{alt|et|K||abbreviation}}
 
 ===Etymology===
-From {{affix|et|kolma-|t1=third|pos1=see {{m|et|kolm}}|päev|t2=day}}.
+{{com|et|kolmas|t1=third|päev|t2=day}}
 
 ===Pronunciation===
-* {{et-IPA/old|kolmapäev}}
-* {{et-IPA/old|kolmappäev}} {{qualifier|sometimes}}
+* {{et-IPA|kolma+bäev}}
+* {{et-IPA|kolmappäev}}
+* {{rhymes|et|æe̯v|s=3}}
+* {{hyph|et|kol|ma|päev}}
 
 ===Noun===
+{{enum|et|teisipäev|neljapäev|day of the week|K}}
 {{et-noun|kolmapäeva|kolmapäeva}}
 
-# [[Wednesday]]
+# [[Wednesday]] {{gl|third day of the week}}
+#: {{syn|et|kesknädal<q:uncommon>}}
 
 ====Declension====
-{{et-decl-külm|kolmapäe|v|v|a}}
+{{et-decl-külm|kolmapäev|||a}}
 
-====See also====
-{{table:days of the week/et}}
+====Derived terms====
+{{col-auto|et
+|kolmapäevak
+|kolmapäevane
+|kolmapäeviti
+}}
+
+===See also===
+* {{list:days of the week/et}}
+
+===References===
+* {{R:Sõnaveeb}}
+* {{R:et:EKSS}}
