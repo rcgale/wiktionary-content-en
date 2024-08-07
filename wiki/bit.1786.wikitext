@@ -27,17 +27,18 @@ Cognate with {{cog|fy|bit}}, {{cog|stq|Bit}}, {{cog|nl|bit}}, {{cog|nds-de|Beet}
 # {{senseid|en|metal in horse's mouth}} A piece of metal placed in a horse's mouth and connected to the reins to direct the animal.
 #: {{ux|en|A horse hates having a '''bit''' put in its mouth.}}
 # A [[rotary]] [[cut]]ting [[tool]] fitted to a [[drill]], used to [[bore]] [[hole]]s.
-# {{lb|en|dated|British}} A coin of a specified value.
-#: {{ux|en|a threepenny '''bit'''}}
-# {{lb|en|obsolete|Canada}} A ten-[[cent]] piece, [[dime]].
-#* {{quote-text|en|year=1941|author=w:Emily Carr|title=w:Klee Wyck|url=http://www.gutenberg.net.au/ebooks01/0100131h.html|chapter=10
-|passage=The smallest coin we had in Canada in early days was a dime, worth ten cents. The Indians called this coin "a '''Bit'''". Our next coin, double in buying power and in size, was a twenty-five cent piece and this the Indians called "Two Bits".}}
-# {{lb|en|now|US}} A unit of currency or coin in the Americas worth a fraction of a Spanish dollar; now specifically, an eighth of a US [[dollar]].
-#: {{ux|en|A quarter is two '''bits'''.}}
-#* {{quote-text|en|year=1789|author=w:Olaudah Equiano|title=The Interesting Narrative|volume=I|chapter=6
+# {{ngd|Applied to a various small units of currency and coins.}}
+## {{lb|en|dated|British}} A coin of a specified value.
+##: {{co|en|a threepenny '''bit'''}}
+## {{senseid|en|silver coin}} {{lb|en|historical|US|and|Canada}} A unit of [[currency]] worth one [[eighth]] of a [[dollar]], originally a [[Spanish]] dollar but later also US or Canadian; also, a [[coin]] with this value, in particular the [[silver]] [[Spanish]] [[real]].
+##: {{ux|en|A quarter is two '''bits'''.}}
+##* {{RQ:Pynchon Crying Lot|page=16|passage=He left after shaking her down for four '''bits''' for carrying the bags.}}
+## {{lb|en|obsolete|US|and|Canada}} A coin of a [[value]] [[similar]] but not equal to this, in particular the ‘[[short bit]]’, i.e. the ten-[[cent]] piece or [[dime]].
+##* {{quote-text|en|year=1941|author=w:Emily Carr|title=w:Klee Wyck|url=http://www.gutenberg.net.au/ebooks01/0100131h.html|chapter=10
+|passage=The smallest coin we had in Canada in early days was a dime, worth ten cents. The Indians called this coin “a '''Bit'''”. Our next coin, double in buying power and in size, was a twenty-five cent piece and this the Indians called “Two Bits”.}}
+## {{lb|en|historical}} A unit of currency and coin of the [[British]] [[West Indies]] worth six {{w|Black dog (coin)|black dogs}}, originally one-eighth of a Spanish dollar but later increasingly [[debase]]d.
+##* {{quote-text|en|year=1789|author=w:Olaudah Equiano|title=The Interesting Narrative|volume=I|chapter=6
 |passage=I trusted to the Lord to be with me; and at one of our trips to St. Eustatia, a Dutch island, I bought a glass tumbler with my half '''bit''', and when I came to Montserrat I sold it for a '''bit''', or sixpence.}}
-#* {{RQ:Pynchon Crying Lot|page=16|passage=He left after shaking her down for four '''bits''' for carrying the bags.}}
-# {{senseid|en|silver coin}} {{lb|en|historical|US}} In the southern and southwestern states, a small silver coin (such as the [[real]]) formerly current; commonly, one worth about {{frac|12|1|2}} cents; also, the sum of {{frac|12|1|2}} cents.
 # A [[small]] [[amount]] of something.
 #: {{ux|en|There were '''bits''' of paper all over the floor.}}
 #: {{ux|en|Does your leg still hurt? —Just a '''bit''' now.}}
@@ -356,9 +357,9 @@ See [[bite]]
 {{head|en|verb form}}
 
 # {{infl of|en|bite||spast}}
-#: ''Your dog '''bit''' me!''
+#: {{ux|en|Your dog '''bit''' me!}}
 # {{lb|en|informal|_|in|_|US|archaic|_|in|_|UK}} {{inflection of|en|bite||past|part}}, [[bitten]]
-#: ''I have been '''bit''' by your dog!''
+#: {{ux|en|I have been '''bit''' by your dog!}}
 
 ====Adjective====
 {{en-adj|-}}
@@ -390,8 +391,8 @@ See [[bite]]
 # {{lb|en|computing}} The smallest unit of storage in a [[digital computer]], consisting of a binary digit.
 #: {{syn|en|b}}
 # {{senseid|en|datum}} {{lb|en|information theory|cryptography}} Any [[datum]] that may take on one of exactly two values.
-#: {{ux|en|status '''bits''' on IRC}}
-#: {{ux|en|permission '''bits''' in a file system}}
+#: {{co|en|status '''bits''' on IRC}}
+#: {{co|en|permission '''bits''' in a file system}}
 # {{lb|en|information theory}} A [[unit of measure]] for [[information entropy]].
 #* {{quote-web|en|date=2011-05-17
 |author=Lisa Grossman
