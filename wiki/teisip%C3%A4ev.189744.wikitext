@@ -1,20 +1,36 @@
 ==Estonian==
-{{wikipedia|lang=et}}
+{{wp|lang=et}}
+
+===Alternative forms===
+* {{alt|et|T||abbreviation}}
 
 ===Etymology===
-From {{af|et|teisi-|t1=second|pos1=see {{m|et|teine}}|päev|t2=day}}.
+{{com|et|teine|alt1=teisi-|t1=second|päev|t2=day}}
 
 ===Pronunciation===
-* {{et-IPA/old|teisipäev}}
-* {{et-IPA/old|teisippäev}} {{qualifier|sometimes}}
+* {{et-IPA|teisi+bäev}}
+* {{et-IPA|teisippäev}}
+* {{rhymes|et|æe̯v|s=3}}
+* {{hyph|et|tei|si|päev}}
 
 ===Noun===
+{{enum|et|esmaspäev|kolmapäev|day of the week|T}}
 {{et-noun|teisipäeva|teisipäeva}}
 
-# [[Tuesday]]
+# [[Tuesday]] {{gl|second day of the week}}
 
 ====Declension====
-{{et-decl-külm|teisipäe|v|v|a}}
+{{et-decl-külm|teisipäev|||a}}
 
-====See also====
-{{table:days of the week/et}}
+====Derived terms====
+{{col-auto|et
+|teisipäevane
+|teisipäeviti
+}}
+
+===See also===
+* {{list:days of the week/et}}
+
+===References===
+* {{R:Sõnaveeb}}
+* {{R:et:EKSS}}
