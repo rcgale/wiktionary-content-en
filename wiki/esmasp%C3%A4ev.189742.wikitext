@@ -1,19 +1,36 @@
 ==Estonian==
-{{wikipedia|lang=et}}
+{{wp|lang=et}}
+
+===Alternative forms===
+* {{alt|et|E||abbreviation}}
 
 ===Etymology===
-From {{affix|et|esmas-|t1=first|pos1=see {{m|et|esimene}}|päev|t2=day}}.
+{{affix|et|esma-|t1=primary|-s-|päev|t3=day}}
 
 ===Pronunciation===
-* {{et-IPA}}
+* {{et-IPA|esmas+päev}}
+* {{rhymes|et|æe̯v|s=3}}
+* {{hyph|et|es|mas|päev}}
 
 ===Noun===
+{{enum|et|pühapäev|teisipäev|day of the week|E}}
 {{et-noun|esmaspäeva|esmaspäeva}}
 
-# [[Monday]]
+# [[Monday]] {{gl|first day of the week}}
 
 ====Declension====
-{{et-decl-külm|esmaspäe|v|v|a}}
+{{et-decl-külm|esmaspäev|||a}}
 
-====See also====
-{{table:days of the week/et}}
+====Derived terms====
+{{col-auto|et
+|esmaspäevak
+|esmaspäevane
+|sinine esmaspäev
+}}
+
+===See also===
+* {{list:days of the week/et}}
+
+===References===
+* {{R:Sõnaveeb}}
+* {{R:et:EKSS}}
