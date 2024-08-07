@@ -1,27 +1,49 @@
 ==Estonian==
-{{wikipedia|lang=et}}
+{{wp|lang=et}}
+
+===Alternative forms===
+* {{alt|et|L||abbreviation}}
+* {{alt|et|lauba||dialectal}}
 
 ===Etymology===
-From {{af|et|laug|lang1=non|päev}}. {{partial calque|et|non|laugardagr}}; compare {{cog|is|laugardagur}}, {{cog|fi|lauantai}}. Cognate to {{cog|vot|laukopäive}} and {{cog|izh|laukopäivä}}.
+From {{com|et|laug|lang1=non|t1=bath, bathing|päev|t2=day}}. {{pclq|et|non|laugardagr}}; compare {{cog|is|laugardagur}}. Cognate with {{cog|fi|lauantai}}, {{cog|vot|laukopäive}} and {{cog|izh|laukopäivä}}.
 
 ===Pronunciation===
-* {{et-IPA/old|laupäev}}
-* {{et-IPA/old|lauppäev}} {{qualifier|sometimes}}
+* {{et-IPA|lau+bäev}}
+* {{et-IPA|lauppäev}}
+* {{rhymes|et|æe̯v|s=2}}
+* {{hyph|et|lau|päev}}
 
 ===Noun===
+{{enum|et|reede|pühapäev|day of the week|L}}
 {{et-noun|laupäeva|laupäeva}}
 
-# [[Saturday]]
+# [[Saturday]] {{gl|sixth day of the week}}
+# the [[day]] [[preceding]] a [[holiday]]
 
 ====Declension====
-{{et-decl-külm|laupäe|v|v|a}}
+{{et-decl-külm|laupäev|||a}}
 
 ====Derived terms====
-* {{l|et|laupäevane}}
-* {{l|et|laupäeviti}}
+{{col-auto|et
+|laupäevak
+|laupäevane
+|laupäeviti
+}}
 
-====Related terms====
-* {{l|et|jõululaupäev}}
+====Compounds====
+{{col-auto|et
+|jaanilaupäev
+|jõululaupäev
+|kadrilaupäev
+|mardilaupäev
+|näärilaupäev
+|surmalaupäev
+}}
 
-====See also====
-{{table:days of the week/et}}
+===See also===
+* {{list:days of the week/et}}
+
+===References===
+* {{R:Sõnaveeb}}
+* {{R:et:EKSS}}
