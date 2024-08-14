@@ -382,23 +382,21 @@ From {{inh|la|itc-ola|quom}}, from {{der|la|ine-pro|*kʷóm}}, accusative of {{m
 * {{alt|la|quum||pcl}}
 
 ====Conjunction====
-{{head|la|conjunction|followed by the [[subjunctive]]}}
+{{head|la|conjunction}}
 
-# when, after {{q|causal|with imperfect subjunctive or pluperfect subjunctive}}
-# [[because]], [[since]]
-# [[although]]
-
-{{head|la|conjunction|followed by the [[indicative]]}}
-
-# when, while {{q|temporal|with present indicative or perfect indicative}}
+# {{+obj|la|sub}} 
+## {{lb|la|causal}} [[when]], [[after]] {{+obj|la|impf&subj/plup&subj}} 
+## [[because]], [[since]]
+## [[although]]
+# {{+obj|la|ind}} 
+## {{lb|la|temporal}} when, [[while]] {{+obj|la|pres&ind/perf&ind}} 
 
 =====Usage notes=====
-* In the sense of [[when]], if there is no causal link between the verb in the dependent clause and the verb in the main clause (sometimes called an inverted cum-clause, as the 'main action' of the sentence occurs in the dependent clause), the indicative is used rather than the subjunctive.
-*: ''per viam ambulābāmus cum pugnam vīdimus.'' [not ''*vīderīmus''] — "We were walking through the street when we saw a fight."
-Often coupled with {{l|la|tum}}
-# Such that "tum x, cum y" = "then x, when y"
-#"cum x tum y"="not only x but also y"
-#* {{Q|la|Titus Livius|Ab Urbe Condita|I|13|quote={{l|la|movet}} {{l|la|res}} '''cum''' {{l|la|multitudinem}} '''tum''' {{l|la|duces}}|t=This event '''not only''' shocked the crowd '''but also''' the commanders}}
+* In the sense of [[when]], if there is no causal link between the verb in the dependent clause and the verb in the main clause (sometimes called an inverted {{m|la||cum}}-clause, as the 'main action' of the sentence occurs in the dependent clause), the indicative is used rather than the subjunctive.
+*: {{m|la||Per viam ambulābāmus '''cum''' pugnam vīdimus.}} [not {{m|la||*vīderīmus}}]
+*::We were walking through the street '''when''' we saw a fight.
+* Often coupled with {{m|la|tum}}, such that {{m|la||tum X, cum Y}} means "then X, when Y", and {{m|la||cum X tum Y}} means "not only X but also Y".
+*: {{Q|la|Titus Livius|Ab Urbe Condita|I|13|quote={{l|la|movet}} {{l|la|res}} '''cum''' {{l|la|multitudinem}} '''tum''' {{l|la|duces}}|t=This event '''not only''' shocked the crowd '''but also''' the commanders}}
 
 =====Coordinate terms=====
 * {{l|la|tum}}
