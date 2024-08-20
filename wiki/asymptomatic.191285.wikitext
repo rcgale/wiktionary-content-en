@@ -1,20 +1,27 @@
 ==English==
+{{was wotd|2024|August|22}}
 
 ===Etymology===
-From {{pre|en|a|symptomatic}}.
+{{PIE word|en|ḱóm}}{{root|en|ine-pro|*sem-|*peth₂-}}
+The {{glossary|adjective}} is derived from {{affix|en|a-|pos1={{glossary|prefix}} meaning ‘not’|symptomatic}}. The {{glossary|noun}} is derived from the adjective.<ref>{{R:OED Online|pos=adj.'' and ''n|id=5675482659|date=June 2024|nodot=1}}; {{R:Lexico|pos=adj}}</ref>
 
 ===Pronunciation===
+* {{IPA|en|/ˌeɪsɪm(p)təˈmætɪk/|a=RP}}
+* {{IPA|en|/ˌeɪˌsɪm(p)təˈmætɪk/|[-ɾɪk]|a=GA}}
 * {{rhymes|en|ætɪk|s=5}}
+* {{hyphenation|en|asym|ptom|at|ic}}
 
 ===Adjective===
 {{en-adj|-}}
 
-# {{lb|en|pathology}} Not exhibiting any [[symptom]]s of disease, as for example in [[subclinical]] cases.
-#: {{syn|en|symptomless}}
-#: {{ant|en|symptomatic}}
+# {{lb|en|pathology}} Not [[exhibit#Verb|exhibiting]] any [[symptom]]s of [[disease#Noun|disease]], as for example in a [[case#Noun|case]] which is {{l|en|subclinical|t=without [[sign#Noun|signs]] [[detectable]] by [[physical examination]] or [[laboratory]] [[test#Noun|test]]}}.
+#: {{synonyms|en|symptomless}}
+#: {{antonyms|en|symptomatic}}
 
 ====Derived terms====
-{{col-auto|en|neuroasymptomatic|asymptomatically|asymptomaticity}}
+* {{l|en|asymptomatically}}
+* {{l|en|asymptomaticity}}
+* {{l|en|neuroasymptomatic}}
 
 ====Translations====
 {{trans-top|not exhibiting any symptoms of disease}}
@@ -28,8 +35,9 @@ From {{pre|en|a|symptomatic}}.
 * Esperanto: {{t-needed|eo}}
 * Finnish: {{t+|fi|oireeton}}
 * French: {{t+|fr|asymptomatique}}
+* Galician: {{t-needed|gl}}
 * German: {{t+|de|symptomfrei}}
-* Hungarian: {{t+|hu|tünetmentes}}, {{t|hu|aszimptomatikus}}
+* Hungarian: {{t|hu|aszimptomatikus}}, {{t+|hu|tünetmentes}}
 * Italian: {{t+|it|asintomatico}}
 * Japanese: {{t-needed|ja}}
 * Korean: {{t|ko|무증상}}
@@ -41,17 +49,29 @@ From {{pre|en|a|symptomatic}}.
 * Romanian: {{t+|ro|asimptomatic}}
 * Russian: {{t+|ru|бессимпто́мный}}
 * Spanish: {{t+|es|asintomático}}
-* Swedish: {{t+|sv|symtomfri}}, {{t+|sv|asymtomatisk}}
+* Swedish: {{t+|sv|asymtomatisk}}, {{t+|sv|symtomfri}}
 * Thai: {{t-needed|th}}
 * Turkish: {{t|tr|asemptomatik}}, {{t|tr|semptomsuz}}
 {{trans-bottom}}
 
 ===Noun===
-{{en-noun}}
+{{en-noun}} {{term-label|en|pathology}}
 
-# A [[patient]] who exhibits no [[symptom]]s of [[disease]].
-#* {{quote-journal|en|date=July 8, 2015|author=Rachel Jenkins; et al.|title=Prevalence of malaria parasites in adults and its determinants in malaria endemic area of Kisumu County, Kenya|journal=Malaria Journal|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4495611/|doi=10.1186/s12936-015-0781-5|volume=14|issue=|pages=
-|passage=Despite these efforts, such a high adult prevalence of parasites emphasises the relevance of the adult malaria parasite reservoir on the transmission of disease in both children and adults and it supports the need for further consideration and research evaluation of treatment of '''asymptomatics''', including approaches such as intermittent screening and treatment (IST) as part of an integrated malaria control programme, if malaria elimination is to be achieved.}}
+# A [[person#Noun|person]] or an [[animal#Noun|animal]] that [[exhibit#Verb|exhibits]] no [[symptom]]s of [[disease#Noun|disease]].
+#* {{quote-journal|en|author=Rachel Jenkins [''et al.'']|title=Prevalence of Malaria Parasites in Adults and Its Determinants in Malaria Endemic Area of Kisumu County, Kenya|journal=w:Malaria Journal|location=London|publisher=w:BioMed Central|date=8 July 2015|doi=10.1186/s12936-015-0781-5|volume=14|section=article 263|page=5|column=2|issn=1475-2875|oclc=891213153|passage=[S]uch a high adult prevalence of parasites emphasises the relevance of the adult malaria parasite reservoir on the transmission of disease in both children and adults and it supports the need for further consideration and research evaluation of treatment of '''asymptomatics''', including approaches such as intermittent screening and treatment (IST) as part of an integrated malaria control programme, if malaria elimination is to be achieved.}}
+# ''Preceded by'' '''[[the#Article|the]]''': people or animals that exhibit no symptoms of disease regarded [[collectively]].
+
+====Translations====
+{{trans-top|person or animal that exhibits no symptoms of disease; people or animals that exhibit no symptoms of disease regarded collectively}}
+* Finnish: {{t-needed|fi}}
+* Galician: {{t-needed|gl}}
+{{trans-bottom}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{pedia}}
 
 ==Interlingua==
 
