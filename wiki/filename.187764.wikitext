@@ -15,17 +15,12 @@ Solidification of {{m|en|file name}}, compounded from {{com|en|file|name}}. Rela
 {{en-noun}}
 
 # {{lb|en|computing}} The [[name]] [[assign]]ed to a [[file]] in a [[file system]].
-
-====Hypernyms====
-* {{l|en|name}}
-
-====Hyponyms====
-* {{l|en|8.3}} filename
-* {{l|en|long filename}}, {{l|en|LFN}}
-* {{l|en|short filename}}, {{l|en|SFN}}
-
-====Derived terms====
-* [[filename extension]]
+#: {{hyper|en|name|< [[identifier]]}}
+#: {{hypo|en|long filename|LFN|short filename|SFN|[[8.3]] filename}}
+#: {{hol|en|filespec|pathname}}
+#: {{mer|en|filename extension|extension<id:filename extension>}}
+#: {{comeronyms|en|filepath|path<id:filepath>}}
+#: {{nearsyn|en|basename}}
 
 ====Translations====
 {{trans-top|name assigned to a file}}
