@@ -17,8 +17,8 @@ Borrowed from {{bor|en|la|convolutus||to roll together}}, past participle of {{m
 # The state or condition of being [[convoluted]].
 # {{lb|en|mathematics|functional analysis}} A mathematical operation on two functions that produces a third that expresses how the shape of one is modified by the other; the [[integral]] of the product of the two functions after one is reflected about the ''y''-axis and shifted along the ''x''-axis.
 #: {{coordinate terms|en|deconvolution}}
-#* The proper method in dealing with distribution functions and their '''convolutions''' (“Faltungen”) is the method of Fourier transforms, first applied systematically by Levy in his book on the calculus of probability.
-#*: [[w:Aurel Wintner|Aurel Wintner]], 1934
+#* '''1934''', [[w:Aurel Wintner|Aurel Wintner]], {{rfdatek|Wintner}}<!--title?-->
+#*: The proper method in dealing with distribution functions and their '''convolutions''' (“Faltungen”) is the method of Fourier transforms, first applied systematically by Levy in his book on the calculus of probability.
 #* {{quote-book|en|year=1997|author=Richard Tolimieri; Myoung An; Chao Lu|title=Algorithms for Discrete Fourier Transform and '''Convolution'''|edition=2nd|pageurl=https://books.google.com.au/books?id=Na3hBwAAQBAJ&pg=PA101&dq=%22convolution%22%7C%22convolutions%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjpmf_sopn7AhU47TgGHSilCCsQ6AF6BAheEAI#v=onepage&q=%22convolution%22%7C%22convolutions%22&f=false|page=101|publisher=Springer
 |passage=Linear '''convolution''' is one of the most frequent computations carried out in digital signal processing (DSP).}}
 #* {{quote-book|en|year=1994|author=Semen B. Yakubovich; Yurii F. Luchko|title=The Hypergeometric Approach to Integral Transforms and '''Convolutions'''|pageurl=https://books.google.com.au/books?id=VKz9CAAAQBAJ&pg=PA183&dq=%22convolution%22%7C%22convolutions%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjpmf_sopn7AhU47TgGHSilCCsQ6AF6BAhhEAI#v=onepage&q=%22convolution%22%7C%22convolutions%22&f=false|page=183|publisher=Springer
@@ -30,10 +30,8 @@ Borrowed from {{bor|en|la|convolutus||to roll together}}, past participle of {{m
 * {{sense|functional analysis}} The term refers to both the result function and to the process of computing it.
 
 ====Derived terms====
-* {{l|en|convolutional}}
-* {{l|en|convolution theorem}}
-* {{l|en|convolution transform}}
-* {{l|en|Titchmarsh convolution theorem}}
+{{col-auto|en|autoconvolution|convolutionless|reconvolution
+|convolutional|convolution theorem|convolution transform|Titchmarsh convolution theorem}}
 
 ====Related terms====
 * {{l|en|convolve}}
