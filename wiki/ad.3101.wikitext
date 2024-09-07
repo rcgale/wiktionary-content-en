@@ -248,10 +248,10 @@ From {{inh|da|gmq-oda|at}}, from {{inh|da|non|at}}, from {{inh|da|gem-pro|*at}}.
 ==Hungarian==
 
 ===Alternative forms===
-* {{l|hu|ád}} {{gloss|archaic}}
+* {{alt|hu|ád||archaic|or|dialectal}}
 
 ===Etymology===
-From {{inh|hu|urj-pro|*ëmta-}}.<ref>See notes on the reconstruction page.</ref><ref>{{R:Uralonet|11}}</ref><ref>{{R:UESz}}</ref> Cognates include {{cog|fi|antaa}} and {{cog|et|andma}}.
+{{inh+|hu|urj-pro|*ëmta-}}.<ref>See notes on the reconstruction page.</ref><ref>{{R:Uralonet|11}}</ref><ref>{{R:UESz}}</ref> Cognates include {{cog|fi|antaa}} and {{cog|et|andma}}.
 
 ===Pronunciation===
 * {{hu-IPA}}
@@ -261,9 +261,12 @@ From {{inh|hu|urj-pro|*ëmta-}}.<ref>See notes on the reconstruction page.</ref>
 ===Verb===
 {{hu-verb}}
 
-# {{lb|hu|transitive}} to [[give]] (to someone {{hu-case|nak}}; optionally as something {{hu-case|ul}})
-#: {{syn|hu|átad|odaad|ajándékoz|nyújt|átnyújt}}
-#: {{ux|hu|'''Adok''' Sándor'''nak''' egy könyvet.|I '''give''' Sándor a book.|inline=1}}
+# {{lb|hu|transitive}} to [[give]] or [[shift]] (something) to or near someone or somewhere
+#: {{syn|hu|átad|juttat|helyez|nyújt}}
+#: {{hypo|hu|idead|odaad}}
+# {{lb|hu|transitive}} to [[give]] (something) to someone ({{hu-case|nak}}) as a gift
+#: {{syn|hu|adományoz|ajándékoz}}
+#: {{uxi|hu|'''Adtam''' Sándor'''nak''' egy könyvet.|I '''gave''' Sándor a book.}}
 # {{lb|hu|transitive}} to [[throw]], [[organize]], [[hold]], [[give]] (a party/celebration/dinner, especially in honour of someone)
 #: {{syn|hu|rendez|szervez|tart|csap}}
 #: {{uxi|hu|Vacsorát '''adtak''' a győztes tiszteleté'''re'''.|They '''held''' a dinner '''in''' the winner's honor.}}
