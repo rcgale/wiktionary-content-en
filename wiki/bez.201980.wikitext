@@ -355,9 +355,10 @@ From {{m|zlw-opl|bez}}, due to confusion with the rhyming preposition {{m|zlw-op
 
 ==Polish==
 {{wp|lang=pl}}
+[[File:Sambucus nigra 004.jpg|thumb|bez]]
 
 ===Pronunciation===
-{{pl-pr|q1=isolated|a=Pl-bez.ogg|hh=Bes,bez-|mp=#|kuj=#}}
+{{pl-pr|a=Pl-bez.ogg|hh=Bes;bez-|mp=#|kuj=#}}
 
 ===Etymology 1===
 {{etymid|pl|elder}}{{dercat|pl|sla-pro|ine-pro|inh=2}}
@@ -382,9 +383,9 @@ From {{m|zlw-opl|bez}}, due to confusion with the rhyming preposition {{m|zlw-op
 {{inh+|pl|zlw-opl|bez}}.
 
 ====Preposition====
-{{head|pl|preposition}} {{+obj|pl|gen}}
+{{pl-prep}}
 
-# [[without]], [[lacking]]
+# [[without]], [[lacking]] {{+obj|pl|gen<what>}}
 #: {{ant|pl|z}}
 #: {{uxi|pl|Proszę o kawę '''bez''' mleka.|A coffee '''with no''' milk, please.}}
 # {{lb|pl|Middle Polish}} [[minus]], [[less]]
@@ -408,11 +409,11 @@ From {{m|zlw-opl|bez}}, due to confusion with the rhyming preposition {{m|zlw-op
 {{inh+|pl|zlw-opl|bez|id=through}}.
 
 ====Preposition====
-{{head|pl|preposition}} {{+obj|pl|acc}}
+{{pl-prep}}
 
-# {{lb|pl|Poznań}} [[because of]]
+# {{lb|pl|Poznań}} [[because of]] {{+obj|pl|acc<what>}}
 #: {{syn|pl|z powodu}}
-# {{lb|pl|dialectal|Kujawy}} [[across]], [[through]]
+# {{lb|pl|dialectal|Kujawy}} [[across]], [[through]] {{+obj|pl|acc<what>}}
 #: {{syn|pl|przez}}
 #* {{quote-book|1=pl|year=2000|author=Aneta Majkowska|title=Polszczyzna mówiona mieszkańców Częstochowy|page=185|text=''Nie tu szosą tylko drogą polną '''bez''' pola my jechali z chłopem sąsiadki.''|t=We drove '''through''' the fields with the neighbor's man, not on the paved road, but on a dirt road.}}
 
@@ -422,13 +423,14 @@ From {{m|zlw-opl|bez}}, due to confusion with the rhyming preposition {{m|zlw-op
 ====Noun====
 {{head|pl|noun form|g=f}}
 
-# {{inflection of|pl|beza||gen|p}}
+# {{infl of|pl|beza||gen|p}}
 
 ===References===
 {{reflist}}
 
 ===Further reading===
-* {{R:pl:WSJP}}
+* {{R:pl:WSJP|bez I|39925}}
+* {{R:pl:WSJP|bez II|27417}}
 * {{R:pl:PWN}}
 * {{R:pl:SXVI|+|43611}}
 * {{R:pl:SXVI|bez, beze, biez|43612}}
