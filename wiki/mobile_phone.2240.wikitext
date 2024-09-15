@@ -1,9 +1,10 @@
 ==English==
-[[Image:Several mobile phones.png|thumb|mobile phones]]
-{{wikipedia}}
+{{img
+|image1=Several mobile phones.png|caption1={{lang|en|mobile phones}}
+}}
 
 ===Etymology===
-From {{compound|en|mobile|phone}}.
+From {{af|en|mobile|phone}}.
 
 ===Pronunciation===
 * {{audio|en|LL-Q1860 (eng)-PerfectSoundWhatever-mobile phone.wav|a=CA}}
@@ -12,29 +13,18 @@ From {{compound|en|mobile|phone}}.
 {{en-noun}}
 
 # A [[portable]] telephone that connects with the telephone network over radio wave transmission.
-
-====Synonyms====
-* {{l|en|cell}}, {{l|en|cellphone}}/{{l|en|cell phone}} {{qualifier|mainly US, Canada{{,}} and New Zealand}}
-* {{l|en|cellular}}, {{l|en|cellular mobile}}, {{l|en|cellular phone}}, {{l|en|cellular telephone}}
-* {{l|en|handphone}} {{qualifier|mainly Indonesia, Malaysia, Philippines, South Korea, Hawaii{{,}} and Singapore}}
-* {{l|en|mobile}} {{qualifier|mainly UK, Ireland, Australia, Hong Kong, India{{,}} and Singapore}}
-* {{l|en|mobile telephone}}
-
-====Hypernyms====
-* {{l|en|phone}}
-
-====Hyponyms====
-* {{l|en|feature phone}}
-* {{l|en|smartphone}}
+#: {{syn|en|cellular|cellular mobile|cellular phone|cellular telephone|cell<qq:mainly US, Canada{{,}} and New Zealand>|cellphone//cell phone<qq:mainly US, Canada{{,}} and New Zealand>|handphone<qq:mainly Indonesia, Malaysia, Philippines, South Korea, Hawaii{{,}} and Singapore>|mobile<qq:mainly UK, Ireland, Australia, Hong Kong, India{{,}} and Singapore>|mobile telephone}}
+#: {{hyper|en|phone}}
+#: {{hypo|en|feature phone|smartphone}}
 
 ====Translations====
 {{trans-top|portable telephone}}
 * Afrikaans: {{t+|af|selfoon}}, {{t|af|sellulêre telefoon}}
 * Albanian: {{t|sq|telefon celular|m}}
 * Amharic: {{t|am|ነፋስ ስልክ}}, {{t|am|ተንቀሳቃሽ ስልክ}}, {{t|am|ሞባይል ስልክ}}
-* Arabic: {{t+|ar|جَوَّال|m}}, {{t+|ar|هَاتِف مَحْمُول|m}}, {{t|ar|هَاتِف خَلَوِيّ|m}}, {{t|ar|هَاتِف مُتَحَرَّك|m}}, {{t|ar|هَاتِف النَّقَّال|m}}, {{t|ar|مُوبِيل|m}}
+* Arabic: {{t+|ar|جَوَّال|m}}, {{t+|ar|هَاتِف مَحْمُول|m}}, {{t|ar|هَاتِف خَلَوِيّ|m}}, {{t|ar|هَاتِف نَقَّال|m}}, {{t|ar|مُوبَيْل|m}}
 *: Hijazi Arabic: {{t|acw|جَوَّال|m|tr=jawwāl}}
-*: Moroccan Arabic: {{t|ary|بورطابل|m|tr=burṭabl}}, {{t|ary|تلفون|tr=tilifun}}
+*: Moroccan Arabic: {{t|ary|بورطابل|m|tr=pūrṭābl}}, {{t|ary|تلفون|tr=tilifūn}}
 * Armenian: {{t+|hy|բջջային հեռախոս}}, {{t+|hy|բջջային}}
 * Assamese: {{t|as|ম’বাইল ফোন}}
 * Azerbaijani: {{t|az|mobil telefon}}
@@ -159,5 +149,8 @@ From {{compound|en|mobile|phone}}.
 * Zulu: {{t|zu|umakhalekhukhwini}}
 {{trans-bottom}}
 
-[[Category:en:Mobile phones]]
-[[Category:English adjective-noun compound nouns]]
+===Further reading===
+* {{pedia}}
+
+{{C|en|Mobile phones}}
+{{cln|en|adjective-noun compound nouns}}
