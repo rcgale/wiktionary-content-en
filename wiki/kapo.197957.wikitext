@@ -134,26 +134,43 @@ From {{der|fi|it|capotasto}}.
 {{wp|lang=pl|kapo (obóz koncentracyjny)|kapo}}
 
 ===Pronunciation===
-{{pl-p|a=LL-Q809 (pol)-Nostrix-kapo.wav}}
+{{pl-p|a=LL-Q809 (pol)-Olaf-kapo.wav|a2=LL-Q809 (pol)-Nostrix-kapo.wav|ac=Audio 1|ac2=Audio 2}}
 
 ===Etymology 1===
-{{bor+|pl|de|Kapo}}, from {{der|pl|it|capo}}, from {{der|pl|VL.||*capum}}, from {{der|pl|la|caput}}, from {{der|pl|itc-pro|*kaput}}, from {{der|pl|ine-pro|*kauput-}}, {{m|ine-pro|*kaput-}}.
+{{dercat|pl|it|VL.|la|itc-pro|ine-pro}}
+{{bor+|pl|de|Kapo}}.
 
 ====Noun====
-{{pl-noun|m-pr|indecl=yes}} or {{pl-noun|f|indecl=yes}}
+{{pl-noun|m-pr,f|indecl=1}}
 
-# {{lb|pl|historical|Nazism}} {{l|en|kapo}} {{gl|male or female}}
+# {{lb|pl|historical|Nazism}} {{l|en|kapo}} {{gl|prisoner in a Nazi concentration camp who was given food and privileges in return for supervising other prisoners doing forced labor}}
+
+=====Declension=====
+{{pl-decl-noun
+|kapo|kapowie/kapy (deprecative)
+|kapa|kapów
+|kapowi|kapom
+|kapa|kapów
+|kapem|kapami
+|kapie|kapach
+|kapo|kapowie/kapy (deprecative)
+}}
+
+or
+
+Indeclinable.
 
 ===Etymology 2===
 {{nonlemma}}
 
 ====Noun====
-{{head|pl|noun form}}
+{{head|pl|noun form|g=f}}
 
-# {{inflection of|pl|kapa||voc|s}}
+# {{infl of|pl|kapa||voc|s}}
 
 ===Further reading===
-* {{R:pl:WSJP}}
+* {{R:pl:WSJP||71882}}
 * {{R:pl:PWN}}
+* {{R:pl:PWN Encyclopedia}}
 
-{{C|pl|People}}
+{{C|pl|People|World War II}}
