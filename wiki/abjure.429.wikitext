@@ -1,82 +1,114 @@
 {{also|abjuré}}
 ==English==
+{{was wotd|2024|September|22}}
 
 ===Etymology===
 {{root|en|ine-pro|*h₂yew-}}
-From {{inh|en|enm|abjuren}}, from {{der|en|la|abiūrō|t=deny upon oath}} (possibly via {{der|en|frm|abiurer|abjurer}}), formed from {{m|la|ab|t=from, away from}} + {{m|la|iūro|t=swear or take an oath}}, from {{m|la|iūs|t=law, right, duty}}.<ref>{{R:CDOE|page=3}}</ref>
+From Late {{inh|en|enm|abjuren|t=to give up (something); to recant or renounce (something) under oath}},<ref>{{R:MED Online|entry=abjūren|pos=v|id=MED108}}</ref> from {{der|en|xno|abjurer}}, {{der|en|frm|abiurer}}, {{m|frm|abjurer}}, and {{der|en|fro|abjurer|t=to reject or renounce (something) on oath}} (modern {{cog|fr|abjurer}}), and from their {{glossary|etymon}} {{der|en|la|abiūrāre}}, the {{glossary|present}} {{glossary|active}} {{glossary|infinitive}} of {{m|la|abiūrō|t=to deny on oath, recant, renounce, repudiate, abjure}}, from {{m|la|ab-|pos={{glossary|prefx}} meaning ‘away from, from’}} + {{m|la|iūro|t=to take an oath, swear, vow}} (ultimately from {{der|en|ine-pro|*h₂yew-|t=(''adjective'') right; straight; upright; (''noun'') justice; law; right}}.<ref>{{R:OED Online|pos=v|id=9097270146|date=September 2024|nodot=1}}; {{R:Lexico|pos=v}}</ref>
 
 ===Pronunciation===
-* {{IPA|en|/æbˈd͡ʒʊɹ/|/əbˈd͡ʒʊɹ/|a=US}}
-* {{audio|en|en-us-abjure.ogg|a=US}}
-* {{audio|en|en-ca-abjure.ogg|a=CA}}
+* {{IPA|en|/əbˈd͡ʒʊə/|/-ˈd͡ʒɔː/|a=RP}}
+* {{IPA|en|/æbˈd͡ʒʊ(ə)ɹ/|/əb-/|a=GA}}
+* {{audio|en|En-us-abjure.ogg|a=GA}}
+* {{audio|en|En-ca-abjure.ogg|a=CA}}
 * {{rhymes|en|ʊə(ɹ)|s=2}}
+* {{hyphenation|en|ab|jure}}
 
 ===Verb===
-{{en-verb}}
+{{en-verb}} {{term-label|en|formal}}
 
-# {{lb|en|transitive}} To [[renounce]] upon [[oath]]; to [[forswear]]; to [[disavow]]. {{defdate|First attested around 1350 to 1470.}}<ref name=SOED>{{R:SOED5|page=5}}</ref>
-#: {{co|en|to '''abjure''' allegiance to a prince}}
-#: {{coi|en|to '''abjure''' the realm|footer=(to swear to abandon it forever)}}
-#* {{quote-text|en|year=1786|author=w:William Beckford|title=Vathek; an Arabian Tale
-|passage=adore then the terrestrial influences, and '''abjure''' Mahomet.}}
-# {{lb|en|transitive|obsolete|historical}} To cause one to renounce or recant. {{defdate|First attested around 1350 to 1470.}}<ref name=SOED/>
-# {{lb|en|transitive}} To [[reject]] with [[solemnity]]; to abandon [[forever]]; to [[repudiate]]; to [[disclaim]]. {{defdate|First attested around 1350 to 1470.}}<ref name=SOED/>
-#: {{co|en|to '''abjure''' errors}}
-#* {{quote-book|en|year=1610|title=s:The Tempest|author={{w|William Shakespeare|Shakespeare}}|section=act 5 scene 1|passage=But this rough magic I here '''abjure''' [...]}}
-# {{lb|en|transitive}} To abstain from; to [[avoid]]; to [[shun]].
-#* {{quote-text|en|year=1902|author=Robert Marshall Grade|title=The Haunted Major
-|passage=Except during the season in town, she spends her year in golfing, either at St Magnus or Pau, for, like all good Americans, she has long since '''abjured''' her native soil.}}
-
-====Synonyms====
-* {{sense|to renounce upon oath}} {{l|en|disavow}}, {{l|en|forswear}}, {{l|en|renounce}}; See also [[Thesaurus:repudiate]] or [[Thesaurus:recant]]
-* {{sense|to cause one to renounce or recant}}
-* {{sense|to reject with solemnity}} {{l|en|disclaim}}, {{l|en|repudiate}}
-* {{sense|to abstain from}} {{l|en|avoid}}, {{l|en|shun}}; See also [[Thesaurus:avoid]]
+# {{lb|en|transitive}}
+## To [[solemnly]] [[reject#Verb|reject]] (someone or something); to [[abandon#Verb|abandon]] (someone or something) [[forever#Adverb|forever]]; to [[disavow]], to [[disclaim]], to [[repudiate]]. {{defdate|from 15th c.}}
+##: {{synonyms|en|renounce|Thesaurus:repudiate}}
+##: {{ux|en|to '''abjure''' errors}}
+##* {{quote-book|en|year=1610|title=s:The Tempest|author={{w|William Shakespeare|Shakespeare}}|section=act 5 scene 1|passage=But this rough magic I here '''abjure''' [...]}}
+##* {{quote-text|en|year=1902|author=Robert Marshall Grade|title=The Haunted Major|passage=Except during the season in town, she spends her year in golfing, either at St Magnus or Pau, for, like all good Americans, she has long since '''abjured''' her native soil.}}
+## {{lb|en|historical}} To [[renounce#Verb|renounce]] (something) upon [[oath#Noun|oath]]; to [[forswear]]; specifically, to [[recant]] or [[retract#Verb|retract]] (a [[heresy]] or some other [[opinion#Noun|opinion]]); to [[withdraw#Verb|withdraw]]. {{defdate|from 15th c.}}
+##: {{synonyms|en|disavow|renounce|Thesaurus:recant}}
+##: {{ux|en|to '''abjure''' allegiance to a prince}}
+##* {{quote-text|en|year=1786|author=w:William Beckford|title=Vathek; an Arabian Tale|passage=adore then the terrestrial influences, and '''abjure''' Mahomet.}}
+## {{lb|en|historical}} To [[cause#Verb|cause]] (someone) to recant or retract (a heresy or some other opinion). {{defdate|from 15th c.}}
+## {{lb|en|chiefly|law|historical}}
+### ''Especially in'' '''[[abjure the realm]]''': to [[swear#Verb|swear]] an oath to [[leave#Verb|leave]] (a [[place#Noun|place]]) forever.
+### {{lb|en|obsolete|rare}} To cause or [[compel]] (someone) to leave a place forever; to [[banish]].
+# {{lb|en|intransitive}}
+## To solemnly reject; to abandon forever.
+## {{lb|en|historical}} To recant or retract a heresy on oath.
+## {{lb|en|chiefly|law|historical}} To swear an oath to leave a place forever.
 
 ====Derived terms====
-{{col-auto|en|abjuratory|abjurement|abjure the realm
-|abjurer}}
+{{col3|en
+|abjuratory
+|{{l|en|abjured|pos=adjective}}
+|abjurement
+|abjurer
+|abjure the realm
+|{{l|en|abjuring|pos=adjective, noun}}
+}}
 
 ====Related terms====
-{{rootsee|en|ine|h₂yew}}
+* {{l|en|abjuration}}
 
 ====Translations====
-{{trans-top|to renounce upon oath}}
-* Bulgarian: {{t|bg|[[отри́чам]] [[се]] [[под]] [[кле́тва]]}}
+{{trans-top-also|(''transitive'') to solemnly reject (someone or something); to abandon (someone or something) forever; (''intransitive'') to solemnly reject; to abandon forever|disavow|disclaim|repudiate}}
+* Bulgarian: {{t+|bg|отхвъ́рлям}}, {{t+|bg|отказвам|alt=отка́звам се}}
 * Catalan: {{t+|ca|abjurar}}
-* Czech: {{t|cs|zříci se|pf}}, {{t+|cs|vzdát se|pf}}, {{t+|cs|odvolat|pf}}, {{t+|cs|zavrhnout|pf}}
-* Dutch: {{t+|nl|afzweren}}, {{t|nl|[[verzaken]] [[aan]] een [[eed]]}}
-* French: {{t+|fr|abjurer}}
-* German: {{t+|de|abschwören}}
-* Italian: {{t+|it|abiurare}}
-* Occitan: {{t+|oc|abjurar}}
-* Portuguese: {{t+|pt|abjurar}}
-* Russian: {{t+|ru|отрека́ться|impf}}, {{t+|ru|отре́чься|pf}}, {{t|ru|[[кля́твенно]] [[отрека́ться]]}}, {{t|ru|[[отрица́ть]] [[под]] [[присяга|прися́гой]]}}
-* Spanish: {{t+|es|abjurar}}
-* Swedish: {{t|sv|avsvära}}
-{{trans-bottom}}
-
-{{trans-top|to renounce with solemnity}}
-* Bulgarian: {{t+|bg|отказвам|alt=отка́звам се}}, {{t+|bg|отхвъ́рлям}}
-* Catalan: {{t+|ca|abjurar}}
-* Dutch: {{t+|nl|afzweren}}, {{t+|nl|herroepen}}, {{qualifier|aan}} {{t+|nl|verzaken}}
+* Dutch: ({{m|nl|aan}}) {{t+|nl|verzaken}}, {{t+|nl|afzweren}}, {{t+|nl|herroepen}}
 * Esperanto: {{t-check|eo|rezigni}}
+* Finnish: {{t-needed|fi}}
 * French: {{t+|fr|abjurer}}
-* German: {{qualifier|with dative}} {{t+|de|abschwören}}
+* Galician: {{t-needed|gl}}
+* German: {{t+|de|abschwören}} {{qualifier|with dative}}
 * Italian: {{t+|it|abiurare}}
 * Polish: {{t+|pl|wyrzec się|pf}}, {{t+|pl|wyrzekać się|impf}}
 * Portuguese: {{t+|pt|abjurar}}
 * Russian: {{t+|ru|отка́зываться|impf}}, {{t+|ru|отказа́ться|pf}}, {{t|ru|[[торже́ственно]] [[отрека́ться]]}}
 * Spanish: {{t+|es|abjurar}}
+* Ukrainian: {{t-needed|uk}}
+{{trans-bottom}}
+
+{{trans-top-also|to renounce (something) upon oath|forswear}}
+* Bulgarian: {{t|bg|[[отри́чам]] [[се]] [[под]] [[кле́тва]]}}
+* Catalan: {{t+|ca|abjurar}}
+* Czech: {{t+|cs|odvolat|pf}}, {{t+|cs|vzdát se|pf}}, {{t+|cs|zavrhnout|pf}}, {{t|cs|zříci se|pf}}
+* Dutch: {{t+|nl|afzweren}}, {{t|nl|[[verzaken]] [[aan]] een [[eed]]}}
+* Finnish: {{t-needed|fi}}
+* French: {{t+|fr|abjurer}}
+* Galician: {{t-needed|gl}}
+* German: {{t+|de|abschwören}}
+* Italian: {{t+|it|abiurare}}
+* Occitan: {{t+|oc|abjurar}}
+* Portuguese: {{t+|pt|abjurar}}
+* Russian: {{t|ru|[[кля́твенно]] [[отрека́ться]]}}, {{t+|ru|отрека́ться|impf}}, {{t+|ru|отре́чься|pf}}, {{t|ru|[[отрица́ть]] [[под]] [[присяга|прися́гой]]}}
+* Spanish: {{t+|es|abjurar}}
+* Swedish: {{t|sv|avsvära}}
+* Ukrainian: {{t-needed|uk}}
+{{trans-bottom}}
+
+{{trans-see|(''transitive'') to recant or retract (a heresy or some other opinion); (''intransitive'') to recant or retract a heresy on oath|recant|retract|withdraw}}
+
+{{trans-top|to cause (someone) to recant or retract (a heresy or some other opinion)}}
+* Finnish: {{t-needed|fi}}
+* Galician: {{t-needed|gl}}
+{{trans-bottom}}
+
+{{trans-top|(''transitive'') to swear an oath to leave (a place) forever; (''intransitive'') to swear an oath to leave a place forever}}
+* Finnish: {{t-needed|fi}}
+* Galician: {{t-needed|gl}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 * Interlingua: {{t-check|ia|abjurar}}
-* Vietnamese: {{t-check|vi|tuyên bố bỏ}}, {{t-check|vi|nguyện bỏ}}, {{t+check|vi|rút lui}}, {{t-check|vi|thề bỏ}}
+* Vietnamese: {{t-check|vi|nguyện bỏ}}, {{t+check|vi|rút lui}}, {{t-check|vi|thề bỏ}}, {{t-check|vi|tuyên bố bỏ}}
 {{trans-bottom}}
 
 ===References===
 <references/>
+
+===Further reading===
+* {{pedia|abjuration}}
+* {{R:CDOE|page=3}}
+* {{R:SOED5|page=5}}
 
 ===Anagrams===
 * {{anagrams|en|a=abejru|Juarbe}}
