@@ -1,11 +1,11 @@
 ==English==
-{{wikipedia}}
+{{wp}}
 
 ===Alternative forms===
-* {{l|en|micro-processor}}
+* {{alt|en|micro-processor}}
 
 ===Etymology===
-From {{prefix|en|micro|processor}}.
+From {{af|en|micro-|processor}}.
 
 ===Pronunciation===
 * {{audio|en|LL-Q1860 (eng)-Vininn126-microprocessor.wav|a=US}}
@@ -16,6 +16,7 @@ From {{prefix|en|micro|processor}}.
 # {{lb|en|computer hardware}} The entire [[CPU]] of a [[computer]] on a single [[integrated circuit]] ([[chip]]).
 #* {{quote-text|en|year=1992|author=Michael A. Miller|title=The 68000 Microprocessor Family: Architecture, Programming, and Applications|page=47
 |passage=When the '''microprocessor''' decodes the JSR opcode, it stores the operand into the TEMP register and pushes the current contents of the PC ($00 0128) onto the stack.}}
+#* {{quote-book|en|year=2007|author=Uwe Meyer-Baese|chapter=Microprocessor Design|title=Digital Signal Processing with Field Programmable Gate Arrays|edition=3rd|location=Berlin|publisher=w:Springer Science+Business Media|isbn=9783540726128|page={{gbooks|7rg0RP0bMgUC|536|μP|altpg=537}}|passage=When you think of current '''microprocessors''' (μPs), the Intel Itanium processor with 592 million transistors may come to mind. {{...}} Clearly today's FPGAs will not be able to implement such a top-of-the-range μP with a single FPGA.}}
 
 ====Related terms====
 * {{l|en|nanoprocessor}}
