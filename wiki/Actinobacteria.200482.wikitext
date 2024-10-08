@@ -8,15 +8,15 @@ From {{prefix|mul|actino|Bacteria}}.
 {{taxoninfl|i=1}}
 
 # A group of [[gram-positive]] [[bacteria]]
-## {{taxon|phylum|subkingdom|Posibacteria|i=1|now {{taxlink|Actinomycetota|phylum}} in ''[[Bacteria]]}}
-## {{taxon|class|phylum|{{taxlink|Actinomycetota|phylum}}|i=1}}
+## {{taxon|phylum|subkingdom|Posibacteria|i=1|now {{taxfmt|Actinomycetota|phylum}} in ''[[Bacteria]]}}
+## {{taxon|class|phylum|{{taxfmt|Actinomycetota|phylum|i=1}}|i=1|now {{taxlink|Actinomycetes (Classis)|class|Actinomycetes|i=1}}}}
 
 ====Usage notes====
 * Also sometimes a [[division]].
-* As a phylum, this is now superseded by the term {{taxlink|Actinomycetota|phylum}} in the [https://ncbiinsights.ncbi.nlm.nih.gov/2021/12/10/ncbi-taxonomy-prokaryote-phyla-added/ NCBI Taxonomy].
+* As a phylum, this is now superseded by the term {{taxfmt|Actinomycetota|phylum|i=1}} in the [https://ncbiinsights.ncbi.nlm.nih.gov/2021/12/10/ncbi-taxonomy-prokaryote-phyla-added/ NCBI Taxonomy].
 
 ====Synonyms====
-* {{sense|phylum}} ''{{taxlink|Actinomycetota|phylum}}''
+* {{sense|phylum}} {{taxfmt|Actinomycetota|phylum|i=1}}
 
 ====Hypernyms====
 * {{sense|class}} [[Prokaryota]]&nbsp;- superkingdom; {{taxfmt|Bacteria|kingdom}}&nbsp;- kingdom; {{taxfmt|Posibacteria|subkingdom|i=1}}&nbsp;- subkingdom
