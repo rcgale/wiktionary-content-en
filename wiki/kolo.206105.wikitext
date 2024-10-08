@@ -3,7 +3,7 @@
 {{wikipedia|Kolo (dance)}}
 
 ===Etymology===
-Borrowing from {{bor|en|sh|kolo}} and {{bor|en|sl|kolo}}, from {{der|en|sla-pro|*kolo||wheel}}.
+{{bor+|en|sh|kolo}} and {{bor|en|sl|kolo}}, from {{der|en|sla-pro|*kolo|t=wheel}}.
 
 ===Pronunciation===
 * {{IPA|en|/ˈkəʊləʊ/|a=RP}}
@@ -96,9 +96,10 @@ Common {{der|eo|roa}}, from {{der|eo|la|collum}}.
 # [[neck]]
 
 ====Derived terms====
-{{der2
-|eo|{{l|eo|kolumo|t=[[collar]]}}
-|{{l|eo|markolo|t=[[strait]]}}
+{{col-auto|eo
+|kolumo<t:[[collar]]>
+|markolo<t:[[strait]]>
+|uterkolo<t:cervix>
 }}
 
 {{eo BRO|4}}
@@ -189,6 +190,13 @@ From {{inh|fi|urj-fin-pro|*kolo}}, from {{inh|fi|fiu-pro|*kolɜ}}.
 
 ==Ido==
 
+===Etymology===
+{{io-bor|eo=kolo|la=collum|it=collo|es=cuello}}
+
+===Pronunciation===
+{{io-IPA}}
+* {{rhymes|io|olo|s=2}}
+
 ===Noun===
 {{io-noun|kol}}
 
@@ -197,7 +205,7 @@ From {{inh|fi|urj-fin-pro|*kolo}}, from {{inh|fi|fiu-pro|*kolɜ}}.
 ==Ingrian==
 
 ===Etymology===
-From {{suffix|izh|lang1=urj-fin-pro|*kolo|t1=hole|-o|id2=denominal}}. Cognates include {{cog|fi|kolo}} and {{cog|et|kolu}}.
+From {{af|izh|*kolo<lang:urj-fin-pro><t:hole>|-o<id:denominal>}}. Cognates include {{cog|fi|kolo}} and {{cog|et|kolu}}.
 
 ===Pronunciation===
 * {{izh-p|S=koloj}}
@@ -263,7 +271,7 @@ From {{suffix|izh|lang1=urj-fin-pro|*kolo|t1=hole|-o|id2=denominal}}. Cognates i
 ==Old High German==
 
 ===Etymology===
-Borrowed from {{bor|goh|la|caulis}}.
+{{bor+|goh|la|caulis}}.
 
 ===Noun===
 {{goh-noun|m}}
@@ -453,7 +461,7 @@ From {{der|pap|nl|kool}}.
 ==Sranan Tongo==
 
 ===Etymology===
-Borrowed from {{bor|srn|nl|kool}}.
+{{bor+|srn|nl|kool}}.
 
 ===Noun===
 {{head|srn|noun}}
@@ -491,7 +499,7 @@ From {{inh|to|poz-oce-pro}} (compare {{cog|fj|koro}}).
 ==Votic==
 
 ===Etymology===
-From {{suffix|vot|lang1=urj-fin-pro|*kolo|t1=hole|-o}}. Cognates include {{cog|izh|kolo}} and {{cog|fi|kolo}}.
+From {{af|vot|*kolo<t:hole><lang:urj-fin-pro>|-o}}. Cognates include {{cog|izh|kolo}} and {{cog|fi|kolo}}.
 
 ===Pronunciation===
 {{vot-p}}
@@ -516,9 +524,7 @@ From {{suffix|vot|lang1=urj-fin-pro|*kolo|t1=hole|-o}}. Cognates include {{cog|i
 {{head|jmx|noun}}
 
 # [[turkey cock]]
-
-====Coordinate terms====
-* {{l|jmx|tiu̱ún|t=turkey hen}}
+#: {{coord|jmx|tiu̱ún<t:turkey hen>}}
 
 ===References===
 * {{R:jmx:Pequeño diccionario 2014|page=8}}
