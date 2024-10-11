@@ -139,7 +139,7 @@ Since the middle of the 20th century, the term ''science'' is normally used to i
 * [[art]]
 
 =====Derived terms=====
-{{der4
+{{col-auto
 |en|Bachelor of Science|science lab
 |blind with science
 |computer science
@@ -177,9 +177,14 @@ Since the middle of the 20th century, the term ''science'' is normally used to i
 |domestic sciences|university of applied sciences| anti-science|bread science|crank science|creation science|decision science|economic science|popular science|fish sciences}}
 
 =====Related terms=====
-{{rel2|en
+{{col-auto|en
 |engineering
 |technology}}
+
+=====Descendants=====
+* {{desc|ja|サイエンス|bor=1}}
+* {{desc|ms|sains|bor=1}}
+* {{desc|sw|sayansi|bor=1}}
 
 =====Translations=====
 {{trans-top|collective discipline of learning acquired through the scientific method}}{{multitrans|data=
@@ -560,6 +565,9 @@ See {{m|en|scion}}.
 ====Related terms====
 {{col-auto|fr|scientificité|scientifique|scientiste}}
 
+====Descendants====
+* {{desc|km|ស្យង់|bor=1}}
+
 ===References===
 <references/>
 
@@ -592,7 +600,7 @@ See {{m|en|scion}}.
 # {{lb|enm|rare}} [[verifiability]]; [[trust]] in knowledge.
 
 ====Descendants====
-* {{desc|en|science}}
+* {{desc|en|science}} {{see desc}}
 * {{desc|sco|science}}
 
 ====References====
@@ -612,7 +620,7 @@ See {{m|en|scion}}.
 # [[knowledge]]
 
 ====Descendants====
-* {{desc|fr|science}}
+* {{desc|fr|science}} {{see desc}}
 
 ==Old French==
 
@@ -628,13 +636,6 @@ See {{m|en|scion}}.
 # [[knowledge]]; [[wisdom]]
 
 ====Descendants====
-* {{desc|enm|science|bor=1}}
-** {{desc|en|science}}
-*** {{desc|ja|サイエンス|bor=1}}
-*** {{desc|ms|sains|bor=1}}
-**** {{desc|id|sains|bor=1}}
-*** {{desc|sw|sayansi|bor=1}}
-* {{desc|frm|science}}
-** {{desc|fr|science}}
-*** {{desc|km|ស្យង់|bor=1}}
+* {{desctree|enm|science|bor=1}}
+* {{desctree|frm|science}}
 * {{desc|nrf|scienche}}
