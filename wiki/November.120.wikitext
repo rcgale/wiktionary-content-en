@@ -332,7 +332,7 @@ Displaced native {{ncog|ang|blōtmōnaþ|lit=sacrifice month}}, so called becaus
 ==German==
 
 ===Etymology===
-From {{der|de|la|November}}, from {{m|la|novem||nine}}.
+{{etymon|de|inh|gmh>november>November|id=eleventh month|text=1}}
 
 ===Pronunciation===
 * {{IPA|de|/noˈvɛmbɐ/}}
@@ -350,6 +350,7 @@ From {{der|de|la|November}}, from {{m|la|novem||nine}}.
 
 ====Descendants====
 * {{desc|et|november|bor=1}}
+* {{desc|hrx|November|bor=1}}
 * {{desc|csb|nowember|bor=1}}
 
 ===See also===
@@ -364,20 +365,15 @@ From {{der|de|la|November}}, from {{m|la|novem||nine}}.
 ==Hunsrik==
 
 ===Etymology===
-{{bor+|hrx|de|November}}.<ref>{{R:hrx:Boll|p=119}}</ref>
+{{etymon|hrx|bor|de>November>eleventh month|id=eleventh month|text=+}}<ref>{{R:hrx:Boll|119|1}}</ref>
 
 ===Pronunciation===
-* {{IPA|hrx|/ˌnoːˈvɛmpɐ/}}
-* {{rhyme|hrx|ɛmpɐ|s=3}}
-* {{hyph|hrx|No|vem|ber}}
+{{hrx-pr|Noovémber}}
 
 ===Noun===
 {{hrx-noun|m|pl=November}}
 
 # {{l|en|November}}
-
-====Declension====
-{{hrx-ndecl-m|November}}
 
 ===See also===
 * {{list:Gregorian calendar months/hrx}}
@@ -413,6 +409,7 @@ From {{bor|id|nl|november}}, from {{der|id|la|November||ninth month}}, from Lati
 ==Latin==
 
 ===Etymology===
+{{etymon|la|novem>nine|id=eleventh month}}
 By [[haplology]] from earlier {{m|la||*nove(m)-mēmbris|t=of or pertaining to the ninth month}}, from earlier {{m|la||*novem-mēnsris}}, from {{m|la|novem||nine}} + {{m|la||*mēnsris}}, from {{m|la|mensis|mens-|t=month}} + {{m|la|-ris}}. In the {{w|Roman calendar}}, the year began with {{m|la|Mārtius|t=March}}, and {{m|la||November}} was the ninth month of the year.
 
 ===Pronunciation===
@@ -485,7 +482,10 @@ By [[haplology]] from earlier {{m|la||*nove(m)-mēmbris|t=of or pertaining to th
 * {{desc|sq|nëntor|clq=1}}
 * {{desc|cim|nòinte maanont|clq=1}}
 {{bottom}}
-
+; Borrowings
+{{top2}}
+* {{desctree|gmh|november|bor=1}}
+{{bottom}}
 ; Unsorted borrowings
 ''These borrowings are ultimately but perhaps not directly from Latin. They are organized into geographical and language family groups, not by etymology.''
 {{top2}}
@@ -531,26 +531,18 @@ By [[haplology]] from earlier {{m|la||*nove(m)-mēmbris|t=of or pertaining to th
 *** {{desc|lv|novembris}}
 *** {{desc|liv|novembõr}}
 ** Germanic
-*** {{desc|gsw|Novämber}}
-*** {{desc|bar|Novemba}}
-*** {{desc|cim|november}}
 *** {{desc|da|november}}
 *** {{desctree|nl|november}}
 *** {{desc|nds-nl|november}}
 *** {{desc|fo|november}}
-*** {{desctree|de|November}}
 *** {{desc|nds-de|November}}
 *** {{desc|is|nóvember}}
-*** {{desc|ksh|Novemmber|Novvämmbe|Novëmmbo}}
 *** {{desc|li|nevèmber}}
-*** {{desc|lb|November}}
 *** {{desc|frr|nofember|nowämber}}
 *** {{desc|no|-}} {{l|nb|november}}
-*** {{desc|pdc|November}}
 *** {{desc|sv|november}}
 *** {{desc|vls|November}}
 *** {{desc|fy|novimber}}
-*** {{desc|yi|נאָוועמבער}}
 ** Slavic
 *** {{desc|bg|ноември}}
 *** {{desc|dsb|nowember}}
