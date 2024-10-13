@@ -310,7 +310,7 @@ From {{inh|en|enm|-}}, from late {{der|en|ang|-}}, from {{der|en|fro|septembre}}
 ==German==
 
 ===Etymology===
-From {{bor|de|la|September}}, from {{m|la|septem||seven}}.
+{{etymon|de|inh|gmh>september>September|id=ninth month|text=1}}
 
 ===Pronunciation===
 * {{IPA|de|/zɛpˈtɛmbɐ/}}
@@ -327,6 +327,7 @@ From {{bor|de|la|September}}, from {{m|la|septem||seven}}.
 
 ====Descendants====
 * {{desc|et|september|bor=1}}
+* {{desc|hrx|September|bor=1}}
 * {{desc|csb|zeptember|bor=1}}
 
 ===See also===
@@ -343,21 +344,16 @@ From {{bor|de|la|September}}, from {{m|la|septem||seven}}.
 ==Hunsrik==
 
 ===Etymology===
-{{bor+|hrx|de|September}}.<ref>{{R:hrx:Boll|p=150}}</ref>
+{{etymon|hrx|bor|de>September>ninth month|id=ninth month|text=+}}<ref>{{R:hrx:Boll|150|1}}</ref>
 
 ===Pronunciation===
-* {{IPA|hrx|/ˌseːpˈtɛmpɐ/}}
-* {{rhyme|hrx|ɛmpɐ|s=3}}
-* {{hyph|hrx|Sep|tem|ber}}
+{{hrx-pr|Seeptémber}}
 
 ===Noun===
 {{hrx-noun|m|pl=September}}
 
 # {{l|en|September}}
-#: {{ux|hrx|Im '''September''' rehnd’s immer fiel.|It always rains a lot in '''September '''.}}
-
-====Declension====
-{{hrx-ndecl-m|September}}
+#: {{ux|hrx|Im '''September''' rehnd’s immer fiel.|It always rains a lot in '''September'''.}}
 
 ===See also===
 * {{list:Gregorian calendar months/hrx}}
@@ -393,6 +389,7 @@ From {{bor|id|nl|september}}, from {{der|id|la|September||seventh month}}, from 
 * {{alt|la|september}}
 
 ===Etymology===
+{{etymon|la|septem>seven|id=ninth month}}
 By [[haplology]] from earlier {{m|la||*septemo-mēmbris|t=of or pertaining to the seventh month}}, from {{inh|la|itc-pro||*septemo-mēnzris}}, from {{m|la|septem|t=seven}} + {{m|la||*mēnsris}}, from {{affix|la|mensis|alt1=mens-|t1=month|-ris|nocat=1}}. In the {{w|Roman calendar}}, the year began with {{m|la|Mārtius|t=March}}, and {{m-self|la|September}} was the seventh month of the year.
 
 ===Pronunciation===
@@ -465,16 +462,7 @@ By [[haplology]] from earlier {{m|la||*septemo-mēmbris|t=of or pertaining to th
 *** {{desc|es|setiembre}}; {{l|es|septiembre}} {{q|semi-learned}} {{see desc}}
 * {{desc|grc|Σεπτέμβριος|bor=1}} {{see desc}}
 * {{desctree|fr|septembre|bor=1}}
-* {{desc|gmh|september|bor=1}}
-** {{desc|gsw|Septämber}}
-** {{desc|bar|Septemba}}
-** {{desc|cim|septembar|alts=1}}
-** {{desctree|de|September}}
-** {{desc|hrx|September}}
-** {{desc|ksh|Sepptämmber}}
-** {{desc|lb|September}}
-** {{desc|pdc|September}}
-** {{desc|yi|סעפּטעמבער}}
+* {{desctree|gmh|september|bor=1}}
 * {{desc|nrf|-|bor=1}}
 *: Jersey: {{l|nrf|september}}
 *: Guernsey: {{l|nrf|séptember}}
