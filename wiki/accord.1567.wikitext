@@ -1,10 +1,6 @@
 ==English==
 {{was wotd|2008|August|2}}
 
-===Etymology===
-{{root|en|ine-pro|*ḱerd-}}
-From {{inh|en|enm|accorden}}, {{m|enm|acorden}}, borrowed from {{der|en|fro|acorder}} (compare modern French {{m|fr|accord}} and {{m|en|accorder}}), from {{der|en|VL.|*accordāre}}, from {{der|en|la|concordo|concordāre}} via suffix substitution (with {{der|en|la|ad-}}), ultimately from {{der|en|ine-pro|[[*ḱḗr]] ~ [[*ḱr̥d-]]}}, and thus distantly related to {{cog|en|heart}} (via {{cog|gem-pro|*hertô}}).
-
 ===Pronunciation===
 * {{IPA|en|/əˈkɔːd/|a=UK}}
 * {{IPA|en|/əˈkɔɹd/|a=US}}
@@ -12,7 +8,11 @@ From {{inh|en|enm|accorden}}, {{m|enm|acorden}}, borrowed from {{der|en|fro|acor
 * {{audio|en|en-au-accord.ogg|a=AU}}
 * {{rhymes|en|ɔː(ɹ)d|s=2}}
 
-===Noun===
+===Etymology 1===
+{{root|en|ine-pro|*ḱerd-}}
+From {{inh|en|enm|accord}}, from {{der|en|fro|acort}}, from {{m|fro|acorder}} (see [[#Etymology 2|verb below]]).<ref>{{R:MED Online|entry=accō̆rd|pos=n|id=MED289}}</ref><ref>{{R:OED Online|pos=n|id=3835341814}}</ref>
+
+====Noun====
 {{en-noun|~}}
 
 # Agreement or [[concurrence]] of opinion, will, or action.
@@ -35,20 +35,20 @@ From {{inh|en|enm|accorden}}, {{m|enm|acorden}}, borrowed from {{der|en|fro|acor
 #: {{ux|en|Nobody told me to do it. I did it of my own '''accord'''.}}
 #* {{RQ:KJV|Leviticus|25|5|passage=That which groweth of its own '''accord''' of thy harvest thou shalt not reap.}}
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|concurrence of opinion}} {{l|en|consent}}, {{l|en|assent}}
 * {{sense|international agreement}} {{l|en|treaty}}
 
-====Derived terms====
-* {{l|en|bon-accord}}
+=====Derived terms=====
 * {{l|en|in accord}}
 * {{l|en|of one's own accord}}
 * {{l|en|with one accord}}
 
-====Related terms====
+=====Related terms=====
+* {{l|en|bon-accord}}
 * {{l|en|chord}}
 
-====Translations====
+=====Translations=====
 {{trans-top|agreement or concurrence of opinion}}
 * Arabic: {{t|ar|تَفَاهُم|m}}
 * Belarusian: {{t|be|пагадне́нне|n}}
@@ -103,7 +103,10 @@ From {{inh|en|enm|accorden}}, {{m|enm|acorden}}, borrowed from {{der|en|fro|acor
 
 {{trans-see|agreement}}
 
-===Verb===
+===Etymology 2===
+From {{inh|en|enm|accorden}}, {{m|enm|acorden}}, borrowed from {{der|en|fro|acorder}} (compare modern French {{m|fr|accord}} and {{m|en|accorder}}), from {{der|en|VL.|*accordāre}}, from {{der|en|la|concordo|concordāre}} via suffix substitution (with {{der|en|la|ad-}}), ultimately from {{der|en|ine-pro|[[*ḱḗr]] ~ [[*ḱr̥d-]]}}, and thus distantly related to {{cog|en|heart}} (via {{cog|gem-pro|*hertô}}).
+
+====Verb====
 {{en-verb}}
 
 # {{lb|en|transitive}} To make to agree or [[correspond]]; to suit one thing to another; to [[adjust]].
@@ -125,10 +128,10 @@ From {{inh|en|enm|accorden}}, {{m|enm|acorden}}, borrowed from {{der|en|fro|acor
 # {{lb|en|intransitive|obsolete}} To give consent.
 # {{lb|en|intransitive|archaic}} To arrive at an agreement.
 
-====Derived terms====
+=====Derived terms=====
 {{col-auto|en|accordant|accord with|accordance|according|accordingly|accordment|defence accord}}
 
-====Translations====
+=====Translations=====
 {{trans-top|transitive: to make to agree or correspond}}
 * Bulgarian: {{t+|bg|съгласувам}}
 * Finnish: {{t+|fi|mukauttaa}}
@@ -157,6 +160,9 @@ From {{inh|en|enm|accorden}}, {{m|enm|acorden}}, borrowed from {{der|en|fro|acor
 * Spanish: {{t+|es|conceder}}, {{t+|es|conferir}}, {{t+|es|otorgar}}
 * Ukrainian: {{t+|uk|надава́ти}}
 {{trans-bottom}}
+
+===References===
+<references/>
 
 ===Anagrams===
 * {{anagrams|en|a=accdor|Cradoc}}
