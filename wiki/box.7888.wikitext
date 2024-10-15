@@ -1591,35 +1591,32 @@ From {{der|la|grc|βῶξ}}.
 ==Middle English==
 <!--this Middle English entry was created using Template:new enm entry-->
 
+===Alternative forms===
+* {{alter|enm|boxe}}
+
 ===Pronunciation===
 * {{IPA|enm|/ˈbɔks/}}
 * {{rhymes|enm|ɔks|s=1}}
 
 ===Etymology 1===
-{{etymid|enm|tree}}
-{{inh+|enm|ang|box}}, from {{inh|enm|gmw-pro|*buhs}}, from {{der|enm|la|buxus}}, possibly from {{der|enm|grc|πύξος}}.
-
-====Alternative forms====
-* {{alter|enm|boxe}}
+{{etymid|enm|box tree}}
+{{etymon|enm|inh|ang>box>box tree|id=box tree|text=1}}
 
 ====Noun====
-{{head|enm|noun}}
+{{enm-noun|boxes}}
 
-# A {{l|en|box}} [[tree]] {{gloss|the tree {{taxfmt|Buxus sempervirens|species}}}}
-# The [[wood]] of this [[tree]]; [[boxwood]].
+# [[box tree]] {{gloss|the tree {{taxfmt|Buxus sempervirens|species}}}}
+# the [[wood]] of this [[tree]]; [[boxwood]]
 
 =====Descendants=====
-* {{desc|en|box|id=tree}}
+* {{desc|en|box|id=box tree}}
 
 =====References=====
 * {{R:MED Online|box|n.(1)|MED5757}}
 
 ===Etymology 2===
-{{etymid|enm|jar}}
-From {{inh|enm|ang|box}}, from {{inh|enm|gmw-pro|*buhs}}, from {{der|enm|la|buxus|id=box tree}} in extended use.
-
-====Alternative forms====
-* {{alter|enm|boxe}}
+{{etymid|enm|container}}
+{{etymon|enm|inh|ang>box>container|id=container|text=1}}
 
 ====Noun====
 {{enm-noun|boxes}}
@@ -1630,29 +1627,24 @@ From {{inh|enm|ang|box}}, from {{inh|enm|gmw-pro|*buhs}}, from {{der|enm|la|buxu
 # {{lb|enm|anatomy}} The [[socket]] of a [[joint]].
 
 =====Descendants=====
-* {{desc|en|box|id=box}} {{see desc}}
+* {{desc|en|box|id=container}} {{see desc}}
 * {{desc|sco|box}}
-
-=====References=====
-* {{R:MED Online|entry=box|pos=n.(2)|id=MED5758}}
 
 ===Etymology 3===
 {{etymon|enm|id=blow}}
 {{unk|enm}}; see {{m+|en|box|id=blow|t=blow with the fist}} for more.
 
-====Alternative forms====
-* {{alter|enm|boxe}}
-
 ====Noun====
-{{head|enm|noun}}
+{{enm-noun|boxes}}
 
-# A [[blow]] with the [[fist]].
+# {{l|en|box}} {{gl|a blow with the fist}}
 
 =====Descendants=====
-* {{desc|en|box|id=box}}
+* {{desc|en|box|id=blow}} {{see desc}}
 * {{desc|sco|box}}
 
-=====References=====
+===References===
+* {{R:MED Online|entry=box|pos=n.(2)|id=MED5758}}
 * {{R:MED Online|entry=box|pos=n.(3)|id=MED5759}}
 
 {{C|enm|Containers|Medical equipment|Trees|Woods|Violence}}
