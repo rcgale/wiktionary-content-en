@@ -1659,34 +1659,46 @@ From {{inh|enm|ang|box}}, from {{inh|enm|gmw-pro|*buhs}}, from {{der|enm|la|buxu
 
 ==Old English==
 
-===Etymology===
-From {{inh|ang|gmw-pro|*buhs}}.
-
 ===Pronunciation===
 * {{ang-IPA|box}}
+
+===Etymology 1===
+{{etymon|ang|inh|gmw-pro>*buhs>box tree|id=box tree|text=1}}
+
+====Noun====
+{{ang-noun|m}}
+
+# [[box tree]]
+
+=====Declension=====
+{{ang-decl-noun-a-m|box}}
+
+====Descendants====
+* {{desctree|enm|box|id=tree}}
+
+===Etymology 2===
+{{etymon|ang|inh|gmw-pro>*buhsā>box|id=container|text=1}}
 
 ===Noun===
 {{ang-noun|m}}
 
 # {{l|en|box}}
-# [[box tree]]
 
-====Declension====
+=====Declension=====
 {{ang-decl-noun-a-m|box}}
 
-====Derived terms====
-* {{l|ang|boxtrēow}}
-* {{l|ang|byxen}}
-* {{l|ang|ġewyrtbox}}
-* {{l|ang|sāpbox}}
-* {{l|ang|sealfbox}}
+=====Derived terms=====
+{{col-auto|ang
+|boxtrēow
+|byxen
+|ġewyrtbox
+|sāpbox
+|sealfbox}}
 
 ====Descendants====
 * {{desctree|enm|box|id=jar}}
 
-{{topics|ang|Containers}}
-{{topics|ang|Trees}}
-{{C|en|Genitalia}}
+{{C|ang|Containers|Trees}}
 
 ==Portuguese==
 {{was fwotd|pt|2013|May|9}}
