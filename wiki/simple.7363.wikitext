@@ -467,34 +467,43 @@ From {{af|eo|simpla|-e}}.
 {{number box|fr|1}}
 {{fr-adj}}
 
-# [[single]] (multiplier)
-#: {{ux|fr|comptabilité en partie '''simple''' et double|'''single'''-entry and double-entry bookkeeping}}
-#: {{ux|fr|passer du '''simple''' au double, du '''simple''' au triple…|to double, triple…}}
-# {{l|en|simple}}
-#: {{uxi|fr|Un homme '''simple'''|A '''simple''' man}}
+# [[single]]
+#: {{coi|fr|comptabilité [[en partie simple|en partie '''simple''']]|[[single-entry|'''single'''-entry]] bookkeeping}}
+# [[#English|simple]], [[straightforward]], [[easy]]
+#: {{nearsyn|fr|facile}}
+#: {{ant|fr|complexe|compliqué}}
+#: {{coi|fr|[[simple comme bonjour|'''simple''' comme bonjour]]|[[easy as pie|'''easy''' as pie]]}}
+# [[#English|simple]], [[unsophisticated]], [[unpretentious]]
+#: {{coi|fr|un homme '''simple'''|a '''simple''' man}}
+# {{lb|fr|grammar}} [[synthetic]]; non [[analytic]]
+#: {{cot|fr|composé|antérieur}}
+#: {{coi|fr|[[futur simple|futur '''simple''']]|[[simple future|'''simple''' future]]}}
+#: {{coi|fr|[[passé simple|passé '''simple''']]|[[past historic tense]]|lit=[[simple past|'''simple''' past]]}}
+# {{lb|fr|grammar}}
+#: {{cot|fr|complexe}}
+#: {{coi|fr|[[phrase simple|phrase '''simple''']]|[[simple phrase|'''simple''' phrase]]}}
+# {{lb|fr|chemistry}} [[#English|simple]], [[uncompounded]]
+#: {{cot|fr|composé}}
+#: {{coi|fr|[[corps simple|corps '''simple''']]}}
 # [[one-way]]
-#: {{uxi|fr|Un billet '''simple'''|A '''one-way''' ticket}}
+#: {{coi|fr|un [[aller simple|aller '''simple''']]|a '''one-way''' ticket}}
+#: {{coi|fr|un billet '''simple'''|a '''one-way''' ticket}}
 # [[mere]]
-#: {{uxi|fr|Un '''simple''' soldat|A '''mere''' soldier}}
-
-====Usage notes====
-The second and third meanings are taken when the adjective is placed after the noun. The fourth meaning is taken when it is located before the noun.
+#: {{coi|fr|un '''simple''' soldat|a '''mere''' soldier}}
 
 ====Derived terms====
 {{col3|fr
-|aller simple
-|corps simple
 |dans le plus simple appareil
 |dans son plus simple appareil
-|en partie simple
-|futur simple
-|passé simple
-|phrase simple
 |réduire à sa plus simple expression
-|simple comme bonjour
 |simple d'esprit
-|simplement
 }}
+
+====Derived terms====
+* {{l|fr|simplet}}
+* {{l|fr|simplement}}
+* {{l|fr|simplicité}}
+* {{l|fr|simplifier}}
 
 ====Descendants====
 * {{desc|bor=1|ro|simplu}}
@@ -502,11 +511,10 @@ The second and third meanings are taken when the adjective is placed after the n
 ===Noun===
 {{fr-noun|m}}
 
-# one-way ticket
+# {{rfdef|fr}}
+#: {{coi|fr|passer du '''simple''' au double|to double}}
+#: {{coi|fr|passer du '''simple''' au triple|to triple}}
 # {{lb|fr|baseball}} [[single#Noun|single]]
-
-====Related terms====
-{{rel4|fr|aller simple|simplement|simplicité|simplifier}}
 
 ===Further reading===
 * {{R:fr:TLFi}}
