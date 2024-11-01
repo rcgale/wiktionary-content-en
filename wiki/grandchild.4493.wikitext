@@ -50,6 +50,7 @@ From {{prefix|en|grand|child}}.
 * Avar: {{t|av|васасул вас}}, {{t|av|ясальул яс}}
 * Azerbaijani: {{t+|az|nəvə}}
 * Basque: {{t+|eu|biloba}}
+* Belarusian: {{t|be|уну́к|m}}, {{t|be|ўнук|m}}, {{t|be|уну́чка|f}}, {{t|be|ўну́чка|f}}
 * Bengali: {{t+|bn|নাতি}} {{q|grandson}}, {{t+|bn|নাতনি}} {{q|granddaughter}}
 * Bikol Central: {{t+|bcl|makuapo}}
 * Breton: {{t+|br|bugel-bihan|f}}
@@ -75,7 +76,7 @@ From {{prefix|en|grand|child}}.
 *: Ancient: {{t|grc|ἔγγονος|m}}
 * Hawaiian: {{t|haw|moʻopuna}}
 * Hebrew: {{t+|he|נכד|m|tr=nekhed}}
-* Hindi: {{t+|hi|नाती|m}}, {{t+|hi|पोता|m}}, {{t+|hi|पोती|f}}
+* Hindi: {{t+|hi|पोता|m}} {{qualifier|son's son}}, {{t+|hi|नाती|m}} {{qualifier|daughter's son}}, {{t+|hi|पोती|f}} {{qualifier|son's daughter}}, {{t+|hi|नातिन|f}} {{qualifier|daughter's daughter }}
 * Hungarian: {{t+|hu|unoka}}
 * Icelandic: {{t+|is|barnabarn|n}}
 * Ido: {{t+|io|nepoto}}
@@ -85,8 +86,8 @@ From {{prefix|en|grand|child}}.
 * Italian: {{t+|it|nipote|m|f}}
 * Japanese: {{t+|ja|孫|tr=まご, mago}}
 * Kalenjin: {{t|kln|mjokoret}}
-* Khmer: {{t+|km|ចៅ|tr=chav}}, {{t+|km|នត្តា|tr=noattaa}}
-* Korean: {{t+|ko|손주}}, {{t|ko|외손주}}
+* Khmer: {{t+|km|ចៅ}}, {{t+|km|នត្តា}}
+* Korean: {{t+|ko|손주(孫胄)}}, {{t|ko|외손주(外孫胄)}}
 * Kurdish:
 *: Northern Kurdish: {{t+|kmr|nevî}}, {{t+|kmr|torin}}
 * Ladino: {{t|lad|inyeto}}, {{t|lad|inyeta}}
@@ -97,9 +98,8 @@ From {{prefix|en|grand|child}}.
 * Lithuanian: {{t|lt|vaikaitis}}, {{t|lt|anūkas}}
 * Lushootseed: {{t|lut|ʔibac}}
 * Macedonian: {{t+|mk|внук|m}}, {{t|mk|вну́ка|f}}
-* Malay:
+* Malay: {{t+|ms|cucu}}
 *: Jawi: {{t+|ms|چوچو}}
-*: Rumi: {{t+|ms|cucu}}
 * Malayalam: {{t|ml|പേരക്കുട്ടി}}, {{t+|ml|പേരക്കിടാവ്}}
 * Maltese: {{t|mt|neputi|m}}, {{t|mt|neputija|f}}
 * Manx: {{t|gv|cloan ny clienney|f}}, {{t|gv|oe|f}}
@@ -117,7 +117,9 @@ From {{prefix|en|grand|child}}.
 *: Nynorsk: {{t|nn|barnebarn|n}}
 * Ossetian: {{t|os|фыртыфырт}}, {{t|os|чызджыфырт}}
 * Pennsylvania German: {{t|pdc|Kinnskind|n}}
-* Persian: {{t+|fa|نوه|tr=nave}}
+* Persian:
+*: Dari: {{t+|prs|نَوَاسَه}}, {{t+|prs|نَبَسَه}}
+*: Iranian Persian: {{t+|fa-ira|نَوِه}}, {{t+|fa-ira|نَبَسِه}} {{qualifier|archaic}}
 * Polish: {{t|pl|wnuczę|n}}
 * Portuguese: {{t+|pt|neto|m}}, {{t+|pt|neta|f}}
 * Quechua: {{t|qu|willka}}
@@ -133,6 +135,7 @@ From {{prefix|en|grand|child}}.
 * Swahili: {{t+|sw|mjukuu}}
 * Swedish: {{t+|sv|barnbarn|n}}
 * Tagalog: {{t+|tl|apo}}
+* Tajik: {{t|tg|набера}}, {{t|tg|навоса}}
 * Talysh:
 *: Asalemi: {{t|tly|نوه|tr=nava}}
 * Taos: {{t|twf|mą́kuna}}
@@ -141,6 +144,7 @@ From {{prefix|en|grand|child}}.
 * Turkish: {{t+|tr|torun}}
 * Tuvan: {{t|tyv|уруунуң уруу}}, {{t|tyv|уруунуң оглу}}, {{t|tyv|оглунуң уруу}}, {{t|tyv|оглунуң оглу}}
 * Ukrainian: {{t|uk|внуча́|n}}, {{t|uk|онуча́|n}}, {{t|uk|унуча́|n}}
+* Urdu: {{t|ur|پوتا|m}} {{qualifier|son's son}}, {{t|ur|ناتی|m}} {{qualifier|daughter's son}}, {{t|ur|پوتی|f}} {{qualifier|son's daughter}}, {{t|ur|ناتِن|f}} {{qualifier|daughter's daughter}}
 * Vietnamese: {{t+|vi|cháu}}
 * Volapük: {{t+|vo|poscil}}
 * Welsh: {{t+|cy|ŵyr|m}}
