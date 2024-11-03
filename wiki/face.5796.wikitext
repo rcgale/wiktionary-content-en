@@ -3,14 +3,15 @@
 ==English==
 
 ===Etymology===
-From {{inh|en|enm|face}}, from {{der|en|fro|face}}, from {{der|en|LL.|facia}}, from {{der|en|la|faciēs||form, appearance}}. {{doublet|en|facies}}. Displaced native {{noncog|enm|onlete||face, countenance, appearance}}, {{m|enm|anleth||face}}, from {{noncog|ang|anwlite}}, {{m|ang|andwlita}}, compare {{noncog|de|Antlitz}}; {{noncog|ang|ansīen||face}}, {{noncog|enm|neb||face, nose}} (from {{noncog|ang|nebb}}), {{noncog|enm|leer|ler, leor, leer|face, cheek, countenance}} (from {{noncog|ang|hlēor}}), and non-native {{noncog|enm|vis||face, appearance, look}} (from {{noncog|fro|vis}}) and {{noncog|enm|chere|t=face}} from {{noncog|fro|chere}}.
+{{etymon|en|id=front part of the head|inh|enm>face>front part of the head|tree=1}}
+From {{inh|en|enm|face}}, from {{der|en|fro|face}}, from {{der|en|LL.|facia}}, from {{der|en|la|faciēs||form, appearance}}. {{doublet|en|facies}}. Displaced native {{displaced|enm|onlete||face, countenance, appearance}}, {{m|enm|anleth||face}}, from {{noncog|ang|anwlite}}, {{m|ang|andwlita}}, compare {{noncog|de|Antlitz}}; {{noncog|ang|ansīen||face}}, {{noncog|enm|neb||face, nose}} (from {{noncog|ang|nebb}}), {{noncog|enm|leer|ler, leor, leer|face, cheek, countenance}} (from {{noncog|ang|hlēor}}), and non-native {{noncog|enm|vis||face, appearance, look}} (from {{noncog|fro|vis}}) and {{noncog|enm|chere|t=face}} from {{noncog|fro|chere}}.
 
 ===Pronunciation===
 * {{enPR|fās|a=RP,GA}}, {{IPA|en|/feɪs/}}
-** {{audio|en|En-us-face.ogg|a=GA}}
 * {{IPA|en|/fɛjs/|a=SSB}}
-* {{audio|en|En-au-face.ogg|a=AU}}
 * {{IPA|en|/feːs/|a=Fiji}}
+* {{audio|en|en-us-face.ogg|a=GA}}
+* {{audio|en|en-au-face.ogg|a=AU}}
 * {{rhymes|en|eɪs|s=1}}
 
 ===Noun===
@@ -480,7 +481,7 @@ From {{inh|fur|LL.|facia}}, from {{inh|fur|la|faciēs||face, shape}}.
 ===Noun===
 {{fur-noun|f|pl=facis}}
 
-# {{l|en|face}}
+# {{l|en|face}}Prologue
 
 ==Interlingua==
 
@@ -536,22 +537,18 @@ From {{inh|fur|LL.|facia}}, from {{inh|fur|la|faciēs||face, shape}}.
 ==Middle English==
 
 ===Etymology 1===
-Borrowed from {{bor|enm|fro|face}}, from {{der|enm|LL.|facia}}, from {{w|Classical Latin|Classical}} {{der|enm|la|faciēs}}.
+{{etymon|enm|id=front part of the head|bor|fro>face>front part of the head}}
+{{bor+|enm|fro|face}}, from {{der|enm|LL.|facia}}, from {{der|enm|la|faciēs}}.
 
 ====Pronunciation====
-* {{IPA|enm|/ˈfaːs(ə)/}}
+* {{IPA|enm|/ˈfaː.s(ə)/}}
 
 ====Noun====
 {{enm-noun}}
 
 # {{lb|enm|anatomy}} {{l|en|face}}
-#* '''14{{sup|th}} C.''', {{w|Chaucer}}, ''[[s:The Canterbury Tales/General Prologue|General Prologue]]''
-#*: Boold was hir '''face''', and fair, and reed of hewe.
-#*:: Bold was her '''face''', and fair, and red of hue.
-
-=====Synonyms=====
-* {{l|enm|visage}}
-* {{l|enm|cheer}}
+#: {{syn|enm|cheer|visage}}
+#* {{RQ:Chaucer Canterbury Tales|version=Hg|Prologue||Boold was hir '''face''', and fair, and reed of hewe.|Bold was her '''face''', and fair, and red of hue.}}
 
 =====Descendants=====
 * {{desc|en|face}} {{see desc}}
@@ -577,6 +574,7 @@ Borrowed from {{bor|enm|fro|face}}, from {{der|enm|LL.|facia}}, from {{w|Classic
 * {{alt|fro|fache||northern}}
 
 ===Etymology===
+{{etymon|fro|id=front part of the head|inh|LL.>facia>face}}
 From {{inh|fro|LL.|facia}}, from {{inh|fro|la|faciēs||face, shape}}.
 
 ===Noun===
@@ -602,7 +600,7 @@ From {{inh|fro|LL.|facia}}, from {{inh|fro|la|faciēs||face, shape}}.
 
 ==Portuguese==
 {{wikipedia|lang=pt}}
-[[Image:Monsieur Sarazin.jpg|thumb|150px|face]]
+[[File:Monsieur Sarazin.jpg|thumb|150px|face]]
 
 ===Etymology===
 From {{inh|pt|roa-opt|façe}}, {{m|roa-opt|faz}}, from {{inh|pt|la|faciēs}}. {{doublet|pt|fácies}}.
