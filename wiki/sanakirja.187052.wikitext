@@ -2,16 +2,18 @@
 ==Finnish==
 
 ===Etymology===
-{{compound|fi|sana|kirja|t1=word|t2=book}}; a {{calque|nocap=1|fi|sv|ordbok}}.
+{{compound|fi|sana|kirja|t1=word|t2=book}}; a {{calque|nocap=1|fi|sv|ordbok}}. The computing sense is a {{sl|fi|en|dictionary|nocap=1}}.
 
 ===Pronunciation===
-{{fi-pronunciation|sana-kirja}}
+{{fi-p|sana-kirja}}
 
 ===Noun===
 {{fi-noun}}
 
 # [[dictionary]]
 #: {{ux|fi|Wikisanakirja on vapaa '''sanakirja'''.|Wiktionary is a free '''dictionary'''.}}
+# {{lb|fi|computing}} [[dictionary]], [[associative array]]
+#: {{synsee|fi|hakurakenne}}
 
 ====Declension====
 {{fi-decl-kala|sanakirj|||a}}
