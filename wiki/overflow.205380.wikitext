@@ -1,8 +1,8 @@
 ==English==
-{{wikipedia|lang=en}}
+{{wp}}
 
 ===Etymology===
-From {{inh|en|enm|overflowen}}, from {{inh|en|ang|oferflōwan}}, equivalent to {{prefix|en|over|flow}}.
+From {{inh|en|enm|overflowen}}, from {{inh|en|ang|oferflōwan}}, equivalent to {{af|en|over-|flow}}.
 
 ===Pronunciation===
 * {{a|en|RP}}
@@ -19,7 +19,9 @@ From {{inh|en|enm|overflowen}}, from {{inh|en|ang|oferflōwan}}, equivalent to {
 {{en-noun|~}}
 
 # The [[spillage]] resultant from overflow; [[excess]].
-# [[outlet|Outlet]] for escape of excess material.
+#* {{quote-text|en|year=1943|title=Climatological Data|page=8
+|passage=High crests of these '''overflows''' were: Manhattan, 23.0 feet, 8.0 above bankful, on June 16–17; Wamego, 20.8 feet, 4.8 feet above bankful, on June 17; Topeka, 26.8 feet, 5.8 feet above bankful, on June 17; {{...}}}}
+# {{1|outlet}} for escape of excess material.
 # {{lb|en|computing}} The situation where a value exceeds the available [[numeric]] [[range]].
 
 ====Derived terms====
@@ -84,11 +86,22 @@ From {{inh|en|enm|overflowen}}, from {{inh|en|ang|oferflōwan}}, equivalent to {
 #* {{quote-book|en|year=1851|author=Herman Melville|title=Moby-Dick|passage=So when they were working that evening at the pumps, there was on this head no small gamesomeness slily going on among them, as they stood with their feet continually '''overflowed''' by the rippling clear water {{...}}}}
 # {{lb|en|transitive}} To cause an [[#Noun|overflow]]. {{rfex|en}}
 # {{lb|en|intransitive}} To [[flow]] [[over]] the [[edge]] of a [[container]].
+#* {{quote-book|en|year=2018| title=A Cycle of the West|author=John G. Neihardt | page=461| passage=The shadows had begun to '''overflow''' Their stagnant puddles on the nightward side, When presently the roar of battle died}}
 #: {{ux|en|The waters '''overflowed''' into the Ninth Ward.}}
 # {{lb|en|intransitive}} To [[exceed]] [[limit]]s or [[capacity]].
 #: {{ux|en|The hospital ER was '''overflowing''' with flu cases.}}
 ## {{lb|en|computing|ambitransitive}} To (cause to) [[exceed]] the available [[numeric]] [[range]].
 ##: {{ux|en|Calculating 255+1 will '''overflow''' an eight-bit byte.}}
+##* {{quote-book
+|year=2008
+|author=Adam Oxford
+|title=Windows Vista - Autumn 2008
+|pageurl=https://books.google.com/books?id=4NIDAAAAMBAJ&pg=PA67
+|issn=1933-6608
+|page=67
+|publisher=Future US
+|1=en
+|passage=Some programs, especially online games, tend to have coding problems that leave them with memory holes - in other words, they don't delete information from your PC's memory once they're finished with it, they just keep adding and adding until everything '''overflows'''. Eventually, this can cause the game to crash to desktop, but adding more memory can help prevent this.}}
 # {{lb|en|intransitive}} To be [[superabundant]]; to [[abound]].
 #* {{quote-text|en|year=1857|author=Eustace Rogers Conder|title=Josiah Conder: A Memoir
 |passage=I see and feel that I want the first requisite — a heart '''overflowing''' with Divine love towards sinners}}
