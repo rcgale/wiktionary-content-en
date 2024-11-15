@@ -1,65 +1,78 @@
 ==English==
-{{wikipedia}}
+{{was wotd|2024|November|22}}
 
 ===Etymology===
-From {{uder|en|grc|δέον||that which is binding, needful, right, proper}} + {{m|en|-logy}}. The specialised sense in normative ethics is due to C. D. Broad.
+{{root|en|ine-pro|*deh₁-|*leǵ-}}
+{{lbor|en|grc|δέον|t=that which is binding, needful, proper, or right}} + [[w:English language|English]] {{affix|en|-ology}} (a variant of {{m|en|-logy|pos={{glossary|suffix}} denoting a branch of learning or a study of a particular subject}}). {{m|grc||Δέον}} is the {{glossary|neuter}} {{glossary|present}} {{glossary|participle}} of {{m|grc|δεῖ|t=it behoves one to, it is necessary to, one must}},<ref>{{R:OED Online|pos=n|id=1582219015|date=July 2023}}{{R:Lexico}}</ref> from {{m|grc|δέω|t=to bind, tie; to fasten; to fetter}}, ultimately from {{der|en|ine-pro|*deh₁-|t=to bind}}.
+
+{{senseno|en|ethics|uc=1}} (“''synonym of'' ethics”) was {{coinage|en|Jeremy Bentham|nat=the English|occ=philosopher|nocap=1}} (1748–1832) to refer to [[censorial]] or [[dicastic]] ethics (ethics based on judgment), while {{senseno|en|normative theory}} (“normative ethical theory that the morality of an action should be based on whether the action follows certain obligations or rules”) was {{coinage|en|Charlie Dunbar Broad|w=C. D. Broad|nat=the English|occ=philosopher|nocap=1}} (1887–1971) in his book ''Five Types of Ethical Theory'' (1930): see the quotations.
 
 ===Pronunciation===
-* {{IPA|en|/ˌdiːɒnˈtɒləd͡ʒi/}}
+* {{IPA|en|/ˌdiːɒnˈtɒləd͡ʒi/|a=RP}}
 * {{audio|en|LL-Q1860 (eng)-Vealhurl-deontology.wav|a=Southern England}}
+* {{IPA|en|/diˌɑnˈtɑləd͡ʒi/|a=GA}}
 * {{rhymes|en|ɒlədʒi|s=5}}
+* {{hyphenation|en|de|on|to|lo|gy}}
 
 ===Noun===
-{{en-noun|-|+}}
+{{en-noun|-|+}} {{term-label|en|ethics}}
 
-# {{lb|en|ethics}} [[ethics|Ethics]]. {{defdate|from c. 1826}}
+# {{senseid|en|ethics}}{{synonym of|en|ethics|t=the [[study#Noun|study]] of [[principle#Noun|principles]] [[relate|relating]] to [[right#Adjective|right]] and [[wrong#Adjective|wrong]] [[conduct#Noun|conduct]]}} {{defdate|from c. 1826}}
+#: {{synonyms|en|moral philosophy}}
 #* {{quote-text|en|year=1826|author=Jeremy West (Rev. VI. 448)|passage=Ethics has received the more expressive name of '''Deontology'''}}
 #* {{quote-text|en|year=1834|editor=Bowring (1834)|passage=Deontology is derived from the Greek words, το δεον (that which is proper) and Λογια, knowledge — meaning the knowledge of what is right and proper; and it is here specially applied to the subject of morals, or that part of the field of action which is not the object of public legislation. As an art, it is the doing what is fit to be done; as a science, the knowing what is fit to be done on every occasion." '''Deontology''' or, The science of morality : in which the harmony and co-incidence of duty and self-interest, virtue and felicity, prudence and benevolence, are explained and exemplified|author=Jeremy Bentham (of MSS)|page=21}}
-# {{lb|en|ethics}} The [[normative ethics|normative ethical]] position that judges the morality of an action based on the action's adherence to rules or obligations rather than either the inherent [[goodness]] or the [[consequence]]s of those actions. {{defdate|from 1930}}
+# {{senseid|en|normative theory}}{{lb|en|specifically}} The [[normative ethics|normative ethical]] [[theory]] that the [[morality]] of an [[action#Noun|action]] should be [[base#Verb|based]] on whether the action [[follow#Verb|follows]] certain [[obligation]]s or [[rule#Noun|rules]], rather than on either its [[inherent]] [[goodness#Noun|goodness]] or its [[consequence]]s. {{defdate|from 1930}}
 
 ====Coordinate terms====
-{{col4|en
-|consequentialism
-|teleology
-|utilitarianism
-|virtue ethics
-}}
+* {{l|en|consequentialism}}
+* {{l|en|teleology}}
+* {{l|en|utilitarianism}}
+* {{l|en|virtue ethics}}
 
 ====Derived terms====
-{{col4|en
-|deontological
-|deontologist
-}}
+* {{l|en|deontological}}
+* {{l|en|deontologist}}
 
 ====Related terms====
-{{col4|en
-|deontic
-}}
+* {{l|en|deontic}}
 
 ====Translations====
-{{trans-top|ethical study of duties, obligations, and rights}}
+{{trans-top-also|''synonym of'' ethics|ethics}}
 * Armenian: {{t+|hy|դեոնտոլոգիա}}
 * Bashkir: {{t|ba|деонтология}}
 * Chinese:
-*: Mandarin: {{t|cmn|義務論|tr=yìwùlùn}}, {{t|cmn|道義論|tr=dàoyìlùn}}, {{t+|cmn|本務論|tr=běnwùlùn}}
+*: Mandarin: {{t+|cmn|本務論|tr=běnwùlùn}}, {{t|cmn|道義論|tr=dàoyìlùn}}, {{t|cmn|義務論|tr=yìwùlùn}}
 * Dutch: {{t+|nl|deontologie|f}}
-* Finnish: {{t+|fi|deontologia}}, {{t|fi|velvollisuusoppi}}, {{t|fi|velvollisuusetiikka}}, {{t|fi|sääntöetiikka}}, {{t|fi|deontologinen etiikka}}
+* Finnish: {{t+|fi|deontologia}}, {{t|fi|deontologinen etiikka}}, {{t|fi|sääntöetiikka}}, {{t|fi|velvollisuusetiikka}}, {{t|fi|velvollisuusoppi}}
 * French: {{t+|fr|déontologie}}
 * Hungarian: {{t|hu|deontológia}}, {{t|hu|kötelességetika}}, {{t|hu|kötelességtan}}
 * Icelandic: {{t|is|skyldufræði|f}}
 * Indonesian: {{t+|id|tata susila}}
 * Irish: {{t|ga|dualeolaíocht|f}}
 * Kazakh: {{t|kk|деонтология}}, {{t|kk|парызтану}}
-* Khmer: {{t|km|ករណីយកិច្ចវិទ្យា|tr=ka’ra’nəy kəch vityie|sc=Khmr}}
+* Khmer: {{t|km|ករណីយកិច្ចវិទ្យា}}
 * Kyrgyz: {{t|ky|деонтология}}
 * Malay: {{t|ms|deontologi}}, {{t|ms|tata susila}}
 * Persian: {{t|fa|اخلاق وظیفه‌گرا}}
-* Serbo-Croatian: {{t+|sh|deontologija|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|деонтологија|f}}
+*: Roman: {{t+|sh|deontologija|f}}
 * Spanish: {{t+|es|deontología|f}}
-* Vietnamese: {{t|vi|đạo nghĩa học}} ({{t|vi|道義學|sc=Hani}})
+* Vietnamese: {{t|vi|đạo nghĩa học}} ({{t|vi|道義學}})
+{{trans-bottom}}
+
+{{trans-top|normative ethical theory that the morality of an action should be based on whether the action follows certain obligations or rules}}
+* Finnish: {{t+|fi|deontologia}}
+* French: {{t-needed|fr}}
+* German: {{t-needed|de}}
+* Macedonian: {{t-needed|mk}}
 {{trans-bottom}}
 
 ===References===
-* {{R:Webster 1913}}
+<references/>
+
+===Further reading===
+* {{pedia}}
 * {{R:Century 1911}}
+* {{R:Webster 1913}}
 * {{R:OneLook}}
