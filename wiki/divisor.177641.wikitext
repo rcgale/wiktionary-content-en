@@ -12,10 +12,16 @@
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|arithmetic}} A number or [[expression]] by which another is to be [[divide]]d.
+# {{lb|en|arithmetic}} In an [[expression]] involving [[division]], the number by which another number is being [[divide]]d.
 #: {{ux|en|In "42 ÷ 3" the '''divisor''' is the 3.}}
-# An [[integer]] that divides another integer an [[integral]] number of times.
+# An [[integer]] that divides another integer an [[integral]] number of times, the former being called a ''divisor of'' the latter.
+#: {{ux|en|10 is a '''divisor''' of 100, but not of 101.}}
 #: {{ux|en|The positive '''divisors''' of 6 are 1, 2, 3 and 6.}}
+## {{lb|en|algebra|more generally}} A [[ring]] [[element]] which can be multiplied (by some other ring element) to yield a third ring element, the first being called a '''divisor of''' the third. If the ring is [[noncommutative]], then one specifies whether a divisor is [[left]], [[right]], or [[two-sided]].
+# {{lb|en|mathematics|algebraic geometry}} ''Any of several kinds of [[formal]] object associated to an [[algebraic variety]], [[scheme]], etc., which play a role similar to that of [[homology]] or [[cohomology]] groups in the study of [[topological space]]s.
+## {{lb|en|in the study of [[Riemann surfaces]]}} An element of the [[free]] [[abelian group]] on the [[points]] of the space.
+## {{lb|en|on a [[variety]] (or [[integral]] [[locally Noetherian]] [[scheme]])}} A [[Weil divisor]]: an element of the free abelian group on the [[codimension]]-1 subvarieties (or subschemes).
+## {{lb|en|on a [[variety]] (or [[integral]] [[Noetherian]] [[scheme]])}} A [[Cartier divisor]]; see {{pedia|Divisor_(algebraic_geometry)#Cartier_divisors|Cartier divisors}}
 
 ====Derived terms====
 {{col-auto|en|divisorial|nondivisor
