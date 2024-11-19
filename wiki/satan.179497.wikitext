@@ -122,29 +122,29 @@ From {{m|nn|Satan}}.
 
 ==Slovak==
 
-===Etymology 1===
-{{der+|sk|la-ecc|Satan|satān}}, from {{der|sk|grc|Σατάν}}, {{m|grc|Σατᾶν}} from {{der|sk|he|שָׂטָן|t=adversary, accuser|tr=śāṭān}}.<ref>{{R:sk:Králik|satan|522}}</ref>
-
-====Pronunciation====
-* {{IPA|sk|[ˈsa.tan]}}
+===Pronunciation===
+* {{sk-IPA}}
 * {{rhymes|sk|an|tan}}
 * {{hyphenation|sk|sa|tan}}
 
+===Etymology 1===
+{{der+|sk|la-ecc|Satan|satān}}, from {{der|sk|grc|Σατάν}}, {{m|grc|Σατᾶν}} from {{der|sk|he|שָׂטָן|t=adversary, accuser|tr=śāṭān}}.<ref>{{R:sk:Králik|satan|522}}</ref>
+
 ====Noun====
-{{sk-noun|m-pr|gen=satana|pl=satani|decl=chlap}}
+{{sk-noun|m-pr|adj=satanský}}
 
 # [[Satan]], the [[Devil]], the supreme [[evil]] spirit, who rules [[Hell]]
 # {{label|sk|expressive|pejorative}} a [[person]] or [[animal]] regarded as particularly [[malignant]], [[detestable]], or evil
 
 =====Declension=====
-{{sk-decl-noun-chlap|satan}}
+{{sk-ndecl|m-pr}}
 
 =====Alternative forms=====
 * {{alt|sk|satanáš|g=m}}
 
 =====Related terms=====
 {{col-auto|sk
-|[[satanský]], [[satansky]]
+|[[satansky]]
 |satanstvo<g:n>
 |{{l|sk|satanista|g=m}}, {{l|sk|satanistka|g=f}}, {{l|sk|satanistický}}, {{l|sk|satanizmus|g=m}}
 }}
@@ -152,19 +152,14 @@ From {{m|nn|Satan}}.
 ===Etymology 2===
 Shortening of the taxonomic name {{l|sk|hríb satanský}}, a calque of the species name ''{{w|Rubroboletus satanas}}''. See {{m|sk|satan}}, etymology 1.
 
-====Pronunciation====
-* {{IPA|sk|[ˈsa.tan]}}
-* {{rhymes|sk|an|tan}}
-* {{hyphenation|sk|sa|tan}}
-
 ====Noun====
-{{sk-noun|m-in|gen=satana|pl=satany|decl=dub}}
+{{sk-noun|m-in}}
 
 # {{label|sk|colloquial}} a [[poisonous]] [[fungus]] of the [[bolete]] family, {{taxlink|Rubroboletus satanas|species}} (earlier: {{taxlink|Boletus satanas|species}}), with a pale cap and a red-patterned stem
 #: {{syn|sk|hríb satanský|q1=taxonomic name}}
 
 =====Declension=====
-{{sk-decl-noun|satan|satana|satanu|satan|satane|satanom|satany|satanov|satanom|satany|satanoch|satanmi}}
+{{sk-ndecl|m-in}}
 
 =====Related terms=====
 {{col-auto|sk
