@@ -46,7 +46,7 @@ From {{der|fo|da|skrå||chewing tobacco}}. Compare {{cog|is|skro}}.
 From {{inh|is|non|skrá}}, from {{inh|is|gem-pro|*skrahō}}.
 
 ====Noun====
-{{is-noun/old|f|skrár|gen2=skráar|skrár}}
+{{is-noun|f,r:ar}}
 
 # [[list]], [[register]], [[file]], [[directory]]
 # {{lb|is|computing}} [[file]]
@@ -54,7 +54,7 @@ From {{inh|is|non|skrá}}, from {{inh|is|gem-pro|*skrahō}}.
 # {{lb|is|archaic}} dried [[skin]], [[parchment]]
 
 =====Declension=====
-{{is-decl-noun-f-s1|skr|á|ar=?}}
+{{is-ndecl|f,r:ar}}
 
 =====Synonyms=====
 * {{sense|computer file}} {{l|is|tölvuskrá}}, {{l|is|fæll}}
@@ -76,13 +76,13 @@ From {{inh|is|non|skrá}}, from {{inh|is|gem-pro|*skrahō}}.
 ===Etymology 2===
 
 ====Noun====
-{{is-noun/old|f|skráar|skrár}}
+{{is-noun|f,r:ar}}
 
 # [[door]] [[lock]]
 #: {{ux|is|Lykillinn stendur í '''skránni'''.|The key is in '''the lock'''.}}
 
 =====Declension=====
-{{is-decl-noun-f-s1|skr|á|ar=ar}}
+{{is-ndecl|f,r:ar}}
 
 =====Derived terms=====
 * {{l|is|skráargat}} (a keyhole)
@@ -94,8 +94,8 @@ From {{der|is|non|skrá}}, from the noun {{m|non|skrá}} (see [[#Etymology 1 2|E
 ====Verb====
 {{is-verb-weak|skráði|skráð}}
 
-# {{lb|is|transitive|governs the accusative}} to [[record]], [[write down]], [[note]]
-# {{lb|is|transitive|governs the accusative}} to [[register]] (record in an official register, etc., e.g. a person or a car)
+# {{lb|is|transitive}} to [[record]], [[write down]], [[note]] {{+obj|is|acc}}
+# {{lb|is|transitive}} to [[register]] (record in an official register, etc., e.g. a person or a car) {{+obj|is|acc}}
 
 =====Conjugation=====
 {{rfinfl|is|verb}}
