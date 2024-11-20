@@ -304,11 +304,11 @@ Cognate with {{cog|fy|sjen||to see}}, {{cog|nl|zien||to see}}, {{cog|nds|sehn}},
 * Oromo: {{tt|om|ilaaluu}}
 * Ossetian: {{tt|os|уынын}}
 * Ottoman Turkish: {{tt|ota|گورمك|tr=görmek}}
-* Pannonian Rusyn: {{t|rsk|видзиц|impf}}, {{t|rsk|увидзиц|pf}}
+* Pannonian Rusyn: {{tt|rsk|видзиц|impf}}, {{tt|rsk|увидзиц|pf}}
 * Pashto: {{t-needed|ps}}
-* Persian: {{tt+|fa|دیدَن|tr=didan}}
-*: Dari: {{t+|prs|دِیدَن}}
-*: Iranian Persian: {{t+|fa-ira|دیدَن}}
+* Persian:
+*: Dari: {{tt+|prs|دِیدَن}}
+*: Iranian Persian: {{tt+|fa-ira|دیدَن}}
 * Piedmontese: {{tt|pms|vëdde}}
 * Pipil: {{tt|ppl|tachia}}, {{tt|ppl|-ita}}
 * Polish: {{tt+|pl|widzieć}}, {{tt+|pl|dostrzegać}}
@@ -374,7 +374,7 @@ Cognate with {{cog|fy|sjen||to see}}, {{cog|nl|zien||to see}}, {{cog|nds|sehn}},
 * Udi: {{tt|udi|акӏсун}}
 * Udmurt: {{tt|udm|адӟыны}}
 * Ugaritic: {{tt|uga|𐎈𐎄𐎊}}
-* Ukrainian: {{tt+|uk|ба́чити}}, {{tt|uk|ви́діти}} {{q|dialectal}}
+* Ukrainian: {{tt+|uk|ба́чити|impf}}, {{tt|uk|ви́діти|impf}} {{q|dialectal}}
 * Umbundu: {{tt|umb|okuvandja}}
 * Urdu: {{tt|ur|دیکْھنا}}
 * Uyghur: {{tt|ug|كۆرمەك}}
@@ -408,11 +408,11 @@ Cognate with {{cog|fy|sjen||to see}}, {{cog|nl|zien||to see}}, {{cog|nds|sehn}},
 * Armenian: {{tt+|hy|հասկանալ}}
 * Bashkir: {{tt|ba|аңлау}}, {{tt|ba|төшөнөү}}
 * Belarusian: {{t|be|разуме́ць|impf}}, {{t|be|зразуме́ць|pf}}
-* Bulgarian: {{tt+|bg|разбирам}}
+* Bulgarian: {{tt+|bg|разби́рам|impf}}, {{tt|bg|разбера́|pf}}
 * Burmese: {{tt+|my|မြင်}}
 * Catalan: {{tt+|ca|comprendre}}, {{tt+|ca|entendre}}
 * Chinese:
-*: Mandarin: {{tt+|cmn|明白|tr=míngbai}}
+*: Mandarin: {{tt+|cmn|明白|tr=míngbai}}, {{tt+|cmn|懂|tr=dǒng}}, {{tt|cmn|了解//暸解|tr=liǎojiě}}, {{tt+|cmn|理解|tr=lǐjiě}}
 * Danish: {{tt+|da|forstå}}
 * Dutch: {{tt+|nl|begrijpen}}
 * Esperanto: {{tt+|eo|vidi}}
@@ -430,42 +430,44 @@ Cognate with {{cog|fy|sjen||to see}}, {{cog|nl|zien||to see}}, {{cog|nds|sehn}},
 * Icelandic: {{tt+|is|skil}}, {{tt|is|fatta}}
 * Italian: {{tt+|it|capire}}
 * Jamaican Creole: {{tt|jam|see}}
-* Japanese: {{tt|ja|[[理解]]する|tr=りかいする, rikaisuru}}
+* Japanese: {{tt+|ja|分かる|tr=わかる, wakaru}}, {{tt+|ja|理解|tr=りかいする, rikai suru|alt=理解する}}
 * Javanese: {{tt+|jv|weruh}}
 * Kazakh: {{tt+|kk|түсіну}}
-* Korean: {{tt+|ko|이해하다}}, {{tt+|ko|알다}}
+* Korean: {{tt+|ko|알다}}, {{tt+|ko|이해하다}}, {{tt|ko|리해하다}} {{qualifier|North Korea}}
 * Latin: {{tt+|la|video}}
 * Latvian: {{tt+|lv|redzēt}}, {{tt|lv|saprast}}
-* Macedonian: {{tt|mk|сфаќа}}, {{t|mk|ра́збира|impf}}, {{t|mk|ра́збере|pf}}
+* Macedonian: {{tt|mk|сфаќа|impf}}, {{tt|mk|сфати|pf}}, {{tt|mk|ра́збира|impf}}, {{tt|mk|ра́збере|pf}}
 * Norman: {{tt|nrf|vaie}}
-* Norwegian: {{tt+|no|skjønne}}, {{tt+|no|forstå}}
-*: Bokmål: {{t+|nb|skjønne}}, {{t+|nb|forstå}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|skjønne}}, {{tt+|nb|forstå}}
 * Old Saxon: {{tt|osx|farstandan}}
-* Persian: {{tt+|fa|فهمیدن}}
-*: Iranian Persian: {{t+|fa-ira|فَهْمیدَن}}
+* Persian:
+*: Dari: {{tt+|prs|فَهْمِیدَن}}
+*: Iranian Persian: {{tt+|fa-ira|فَهْمیدَن}}
 * Polish: {{tt+|pl|rozumieć|impf}}, {{tt+|pl|zrozumieć|pf}}
 * Portuguese: {{tt+|pt|entender}}, {{tt+|pt|ver}}
-* Russian: {{tt+|ru|понима́ть}}, {{t+|ru|поня́ть|pf}}
+* Russian: {{tt+|ru|понима́ть|impf}}, {{tt+|ru|поня́ть|pf}}
 * Sanskrit: {{tt+|sa|वेत्ति}}
 * Serbo-Croatian:
 *: Cyrillic: {{qualifier|intransitive}} {{tt|sh|схваћати}}, {{qualifier|transitive}} {{tt|sh|схватити}}
 *: Roman: {{qualifier|intransitive}} {{tt|sh|shvaćati}}, {{qualifier|transitive}} {{tt+|sh|shvatiti}}
 * Sicilian: {{tt+|scn|vidiri}}
-* Slovak: {{tt|sk|chápať}}
+* Slovak: {{tt|sk|chápať|impf}}
 * Spanish: {{tt+|es|entender}}, {{tt+|es|ver}}, {{t+|es|veer}}
 * Swedish: {{tt+|sv|förstå}}
 * Turkish: {{tt+|tr|anlamak}}
-* Ukrainian: {{tt+|uk|розумі́ти|impf}}, {{t|uk|зрозумі́ти|pf}}
+* Ukrainian: {{tt+|uk|розумі́ти|impf}}, {{tt|uk|зрозумі́ти|pf}}
 * Welsh: {{tt+|cy|deall}}
 * Zulu: {{tt|zu|-[[qonda]]}}, {{tt|zu|-[[bona]]}}
 {{trans-bottom}}
 
 {{trans-top|to meet, to visit}}
-* Bulgarian: {{tt+|bg|посещавам}}, {{tt+|bg|навестявам}}
+* Bulgarian: {{tt+|bg|посеща́вам|impf}}, {{tt+|bg|посетя́|pf}}, {{tt+|bg|навестя́вам|impf}}, {{tt|bg|навестя́|pf}}
 * Finnish: {{tt+|fi|tavata}}, {{tt+|fi|nähdä}}
 * Hungarian: {{tt+|hu|meglátogat}}, {{tt+|hu|látogat}}, {{tt+|hu|felkeres}}, {{tt+|hu|elmegy}}
 * Jamaican Creole: {{tt|jam|link}}
 * Malayalam: {{tt+|ml|കാണുക}}
+* Russian: {{tt+|ru|посеща́ть|impf}}, {{tt+|ru|посети́ть|pf}}, {{tt+|ru|навеща́ть|impf}}, {{tt+|ru|навести́ть|pf}}
 * Spanish: {{t+|es|ver}}, {{t+|es|veer}}
 * Tocharian B: {{tt|txb|läk-}}
 }}<!-- close {{multitrans}} -->
