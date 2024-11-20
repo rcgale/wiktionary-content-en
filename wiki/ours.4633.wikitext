@@ -8,7 +8,7 @@ From {{inh|en|enm|oures}}, attested since the 1300s. Equivalent to {{suffix|en|o
 
 ===Pronunciation===
 * {{IPA|en|/ˈaʊəz/|/ɑːz/|a=RP}}
-* {{IPA|en|/ˈaʊɚz/|/ɑɹz/|a=GA}}
+* {{IPA|en|/ˈaʊəɹz/|/ɑɹz/|a=GA}}
 * {{audio|en|en-us-ours.ogg|a=US}}
 * {{rhymes|en|aʊə(ɹ)z|ɑː(ɹ)z|s=2}}
 * {{homophones|en|hours}}
@@ -20,7 +20,11 @@ From {{inh|en|enm|oures}}, attested since the 1300s. Equivalent to {{suffix|en|o
 #: {{ux|en|You can't take that! It's '''ours'''!}}
 
 ====Derived terms====
-{{col-auto|en|both of ours|friend of ours|of ours}}
+{{col-auto|en
+|both of ours
+|friend of ours
+|of ours
+}}
 
 ====Translations====
 {{trans-top|that which belongs to us}}
@@ -88,21 +92,20 @@ From {{inh|en|enm|oures}}, attested since the 1300s. Equivalent to {{suffix|en|o
 ==French==
 
 ===Etymology===
-{{dercat|fr|ine-pro|<}}
-{{inh+|fr|frm|ours}}, from {{inh|fr|fro|urs}}, from {{inh|fr|la|ursus}}.
+{{etymon|fr|id=bear|inh|frm>ours>bear|tree=1|text=++}}
 
 The Early Modern French pronunciation was {{IPAchar|/uʁ/}} before consonants, {{IPAchar|/uʁz/}} before vowels, and {{IPAchar|/uʁs/}} in [[pausa]]. For the most part, the pausal pronunciations were eventually lost, but in some cases they were re-established as the basic form (reinforced in part by the spelling, in part by related words; in this case perhaps the feminine {{m|fr|ourse}}).
 
 ===Pronunciation===
-* {{fr-IPA|ourse}} {{q|standard}}
-* {{fr-IPA}} {{q|archaic pronunciation, either for both numbers or only for the plural}}
-* {{audio|fr|Fr-ours.ogg}}
+* {{fr-IPA|ourse|qq=standard}}
+* {{fr-IPA|qq=archaic pronunciation, either for both numbers or only for the plural}}
+* {{audio|fr|fr-ours.ogg}}
 * {{hmp|fr|ourse|ourses}}
 
 ===Noun===
 {{fr-noun|m|f=+}}
 
-# [[bear]] (animal)
+# [[bear]]
 # {{lb|fr|figurative}} {{n-g|A person like a bear:}}
 ## [[loner]], someone who [[avoid]]s [[company]] {{datedef|since 1671}}
 ##: {{coi|fr|faire l''''ours'''|t=to be a '''loner'''}}
@@ -115,15 +118,29 @@ The Early Modern French pronunciation was {{IPAchar|/uʁ/}} before consonants, {
 # {{lb|fr|slang}} [[prison]], [[jail]]
 
 ====Derived terms====
-{{col3|fr
+{{col-auto|fr
 |ail des ours
 |herbe aux ours
-|il ne faut pas vendre la peau de l'ours avant de l'avoir tué|nounours|oreille d'ours|ours à face courte|ours à lunette|ours blanc|ours brun|ours en peluche|ours mal léché|ours malais|ours marin|ours noir|ours polaire|ourson}}
+|il ne faut pas vendre la peau de l'ours avant de l'avoir tué
+|nounours
+|oreille d'ours
+|ours à face courte
+|ours à lunette
+|ours blanc
+|ours brun
+|ours en peluche
+|ours mal léché
+|ours malais
+|ours marin
+|ours noir
+|ours polaire
+|ourson
+}}
 
 ====Descendants====
 * {{desc|ht|ous}}
 * {{desc|lou|lours|lous}}
-* {{desc|mfe|lurs}}
+* {{desc|mfe|lours|lurs}}
 * {{desc|crs|lours}}
 
 ===Further reading===
@@ -142,12 +159,12 @@ The Early Modern French pronunciation was {{IPAchar|/uʁ/}} before consonants, {
 ==Middle French==
 
 ===Etymology===
-From {{inh|frm|fro|urs}}, from {{inh|frm|la|ursus}}.
+{{etymon|frm|id=bear|inh|fro>urs>bear|tree=1|text=++}}
 
 ===Noun===
 {{frm-noun|m|ours|f=ourse}}
 
-# [[bear]] {{gloss|mammal}}
+# [[bear]]
 
 ====Descendants====
 * {{desc|fr|ours}}
