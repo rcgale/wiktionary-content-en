@@ -1,15 +1,12 @@
 ==English==
+[[File:Undirected.svg|thumb|A simple '''undirected graph'''.]]
 
 ===Noun===
 {{en-noun}}
 
 # {{lb|en|graph theory}} A [[graph]] in which the [[edge]]s are not [[ordered]], so the edge (a, b) is identical to the edge (b, a).
-
-====Synonyms====
-* {{l|en|graph}}
-
-====Antonyms====
-* {{l|en|directed graph}}
+#: {{syn|en|graph}}
+#: {{ant|en|directed graph}}
 
 ====Translations====
 {{trans-top|type of graph}}
@@ -23,3 +20,6 @@
 * Korean: {{t|ko|무향 그래프}}
 * Portuguese: {{t|pt|grafo não-orientado|m}}
 {{trans-bottom}}
+
+===Further reading===
+* {{pedia|Graph (discrete mathematics)|section=Graph}}
