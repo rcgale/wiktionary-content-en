@@ -330,7 +330,7 @@ From {{inh|gl|roa-opt|veer}}, from {{inh|gl|la|vidēre}}, present active infinit
 From {{inh|is|non|verr}}, from {{inh|is|gem-pro|*weraz}}, from {{inh|is|ine-pro|*wiHrós}}. Cognate with {{cog|en|were-}}.
 
 ====Noun====
-{{is-noun/old|m|vers|verar}}
+{{is-noun|m.dat-:i/-}}
 
 # {{lb|is|poetic|literary}} a [[husband]]
 #: {{syn|is|bóndi|eiginmaður|ektamaður|maður}}
@@ -338,37 +338,41 @@ From {{inh|is|non|verr}}, from {{inh|is|gem-pro|*weraz}}, from {{inh|is|ine-pro|
 #: {{syn|is|karl|karlmaður|maður}}
 
 =====Declension=====
-{{is-decl-noun-m-s1|v|e|r|i=?-}}
+{{is-ndecl|m.dat-:i/-}}
 
 ===Etymology 2===
 A 19th century alteration of earlier {{m|is|vör}}, from {{der|is|non|vǫrr}}, from {{der|is|gem-pro|*warzuz}}.
 
+====Alternative forms====
+* {{alt|is|var|vör}}
+
 ====Noun====
-{{is-noun/old|m|vers|verir}} ''or''
-{{is-noun/old|n|vers|ver}}
+{{is-noun|m,,ir}} ''or (regionally)''<br />
+{{is-noun|n}}
 
 # a [[line]] in the [[water]] made by the movement of an [[oar]] or a [[boat]]
+#: {{syn|is|árarfar<q:of an oar>|kjölrák<q:of a boat>}}
 
 =====Declension=====
-{{is-decl-noun-m-s2|v|e|r|}} ''or''
-{{is-decl-noun-n-s|v|e|r}}
-
-=====Synonyms=====
-* {{sense|line in the water}} {{qualifier|of an oar}} {{l|is|árarfar}}, {{qualifier|of a boat}} {{l|is|kjölrák}}, {{l|is|var}}, {{l|is|vör}}
+{{is-ndecl|m,,ir}}
+{{is-ndecl|n}}
 
 ===Etymology 3===
 From {{inh|is|non|ver}}, of the same meaning. Origin uncertain, but probably related to {{m|is|vari||liquid}} and to {{cog|ang|wær||sea}}.
 
 ====Noun====
-{{is-noun/old|n|vers|-}}
+{{is-noun|n.sg}}
 
 # {{lb|is|poetic}} the [[sea]], the [[ocean]]
+
+=====Declension=====
+{{is-ndecl|n.sg}}
 
 ===Etymology 4===
 The same as {{cog|no|vær||fishing harbor, fishing village}}, other cognates including {{cog|ang|wer}} (whence modern {{cog|en|weir}}), {{cog|osx|werr}}, {{cog|gml|were}}/{{m|gml|wer}}, {{cog|gmh|wer}} (whence {{cog|de|Wehr}}). Probably from {{inh|is|gem-pro|*warjaz}}, {{m|gem-pro|*warją||dam, weir}}, related to {{m|is|vör|g=f||landing space for a boat}} and to {{m|is|verja||protect}}. The root meaning would then be a guarded or fenced off place.
 
 ====Noun====
-{{is-noun/old|n|vers|ver}}
+{{is-noun|n}}
 
 # [[fishing]] center
 # a place where a flock of birds makes its nests (and eggs may be gathered or birds caught)
@@ -380,7 +384,7 @@ The same as {{cog|no|vær||fishing harbor, fishing village}}, other cognates inc
 # {{n-g|a generic suffix for proper names of community centers, shopping centers, or names of [[businesses]]}}
 
 =====Declension=====
-{{is-decl-noun-n-s|v|e|r}}
+{{is-ndecl|n}}
 
 =====Derived terms=====
 {{der4|is|Húnaver
@@ -392,12 +396,12 @@ The same as {{cog|no|vær||fishing harbor, fishing village}}, other cognates inc
 From {{inh|is|gem-pro|*wazą}}. Related to {{cog|fo|ver}}, {{cog|da|vår}}, {{cog|sv|var}}, all meaning the same, and {{cog|no|ver}}, {{m|no|vær}}, meaning the same, but also “bag, jar, place to store things”. Compare {{m|is|vasi||pocket}}.
 
 ====Noun====
-{{is-noun/old|n|vers|ver}}
+{{is-noun|n}}
 
-# a [[cover]] made of [[cloth]] (e.g. a [[pillow case]] or duvet cover)
+# a [[cover]] made of [[cloth]] {{q|e.g. a [[pillow case]] or [[duvet]] cover}}
 
 =====Declension=====
-{{is-decl-noun-n-s|v|e|r}}
+{{is-ndecl|n}}
 
 =====Derived terms=====
 {{der3|is|koddaver
