@@ -2,10 +2,10 @@
 {{wp}}
 
 ===Alternative forms===
-* {{alt|en|musitian}} {{qualifier|obsolete}}
+* {{alt|en|musitian||obsolete}}
 
 ===Etymology===
-From {{inh|en|enm|musician}}, {{m|enm|musicien}}, from {{der|en|fro|musicien|t=musician}}, equivalent to {{af|en|music|-ian}}.
+{{inh+|en|enm|musician}}, {{m|enm|musicien}}, from {{der|en|fro|musicien|t=musician}}, equivalent to {{af|en|music|-ian}}.
 
 ===Pronunciation===
 * {{hyphenation|en|mu|si|cian}}
@@ -27,28 +27,30 @@ From {{inh|en|enm|musician}}, {{m|enm|musicien}}, from {{der|en|fro|musicien|t=m
 
 ====Hyponyms====
 * See also [[Thesaurus:musician]]
-* {{l|en|instrumentalist}}
-* {{l|en|conductor}}
-* {{l|en|musicianess}}
-* {{l|en|recording artist}}
-* {{l|en|singer}}
-* {{l|en|singer-songwriter}}
-* {{l|en|songwriter}}
-* {{l|en|composer}}
-* {{l|en|arranger}}
-* {{l|en|vocalist}}
+{{col5|en
+|arranger
+|composer
+|conductor
+|instrumentalist
+|musicianess
+|recording artist
+|singer
+|singer-songwriter
+|songwriter
+|vocalist
+}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|musicianer}}
-* {{l|en|musicianess}}
-* {{l|en|musicianship}}
-* {{l|en|muso}}
-* {{l|en|outsider musician}}
-* {{l|en|pop musician}}
-* {{l|en|session musician}}
-* {{l|en|street musician}}
-{{der-bottom}}
+{{col4|en
+|musicianer
+|musicianess
+|musicianship
+|muso
+|outsider musician
+|pop musician
+|session musician
+|street musician
+}}
 
 ====Translations====
 {{trans-top|person who performs or writes music}}
@@ -76,7 +78,7 @@ From {{inh|en|enm|musician}}, {{m|enm|musicien}}, from {{der|en|fro|musicien|t=m
 * Danish: {{t+|da|musiker|c}}
 * Dutch: {{t+|nl|muzikant|m}}, {{t+|nl|muzikante|f}}, {{t+|nl|musicus|m|f}}
 * Emilian: {{t-needed|egl}}
-* Esperanto: {{t+|eo|muzikisto}}
+* Esperanto: {{t+|eo|muzikisto}}, {{t|eo|muzikistino}} {{q|female}}
 * Estonian: {{t+|et|muusik}}
 * Extremaduran: {{t-needed|ext}}
 * Finnish: {{t+|fi|muusikko}}
@@ -86,7 +88,7 @@ From {{inh|en|enm|musician}}, {{m|enm|musicien}}, from {{der|en|fro|musicien|t=m
 * Galician: {{t+|gl|músico|m}}, {{t+|gl|música|f}}
 * Gallo: {{t-needed|roa-gal}}
 * Georgian: {{t|ka|მუსიკოსი}}
-* German: {{t+|de|Musiker|m}}, {{q|amateur also}} {{t+|de|Musikant|m}}, {{q|rare}} {{t+|de|Tonkünstler|m}}, {{q|humorous}} {{t+|de|Musikus|m}}
+* German: {{t+|de|Musiker|m}}, {{t+|de|Musikerin|f}},  {{t+|de|Musikant|m}} {{q|amateur also}} {{t+|de|Musikantin|f}} {{q|amateur also}}, {{t+|de|Tonkünstler|m}} {{q|rare}}, {{t+|de|Tonkünstlerin|f}} {{q|rare}}, {{t+|de|Musikus|m}} {{q|humorous}}
 * Greek: {{t+|el|μουσικός|m|f}}
 *: Ancient: {{t|grc|μουσικός|m}}
 * Greenlandic: {{t|kl|nipilersortartoq}}
@@ -143,11 +145,11 @@ From {{inh|en|enm|musician}}, {{m|enm|musicien}}, from {{der|en|fro|musicien|t=m
 * Scottish Gaelic: {{t|gd|ceòladair|m}}, {{t|gd|neach-ciùil|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|му̀зича̄р|m}}, {{t|sh|му̀зича̄рка|f}}, {{t|sh|гла̀збенӣк|m}}, {{t|sh|гла̀збеница|f}} {{qualifier|Croatia}}
-*: Roman: {{t+|sh|mùzičār|m}}, {{t+|sh|mùzičārka|f}}, {{t+|sh|glàzbenīk|m}}, {{t+|sh|glàzbenica|f}} {{qualifier|Croatia}}
+*: Roman: {{t+|sh|mùzičār|m}}, {{t+|sh|mùzičārka|f}}, {{t+|sh|glàzbenīk|m}}, {{t+|sh|glàzbenica|f}} {{q|Croatia}}
 * Slovak: {{t|sk|hudobník|m}}, {{t|sk|hudobníčka|f}}, {{t|sk|muzikant|m}}, {{t|sk|muzikantka|f}}
 * Slovene: {{t+|sl|glasbenik|m}}, {{t|sl|glasbenica|f}}
 * Sotho: {{t|st|sebini}}
-* Spanish: {{t+|es|músico|m}}, {{t+|es|música|f}}, {{t|es|musicante|m|f}}, {{t|es|musicastro|m}} {{qualifier|disparaging}}, {{t+|es|saltimbanqui|m}} {{qualifier|itinerant|Panama}}
+* Spanish: {{t+|es|músico|m}}, {{t+|es|música|f}}, {{t|es|musicante|m|f}}, {{t|es|musicastro|m}} {{q|disparaging}}, {{t+|es|saltimbanqui|m}} {{q|itinerant|Panama}}
 * Sranan Tongo: {{t|srn|pokuman}}
 * Swahili: {{t+|sw|mwimbaji}}, {{t+|sw|mwanamuziki}}
 * Swedish: {{t+|sv|musikant|c}}, {{t+|sv|musiker|c}}
@@ -165,7 +167,7 @@ From {{inh|en|enm|musician}}, {{m|enm|musicien}}, from {{der|en|fro|musicien|t=m
 * Volapük: {{t+|vo|musigan}}
 * Welsh: {{t+|cy|cerddwr|m}}
 * West Frisian: {{t|fy|muzikus|m|f}}, {{t|fy|muzikant|m}}, {{t|fy|muzikante|f}}, {{t|fy|muzykman|m}}
-* Yiddish: {{t|yi|מוזיקער|m}}
+* Yiddish: {{t|yi|מוזיקער|m}}, {{t|yi|מוזיקאַנט|m}}, {{t|yi|מוזיקאַנטקע|f}}
 {{trans-bottom}}
 
 {{c|en|Musicians|People}}
