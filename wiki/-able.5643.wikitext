@@ -5,7 +5,7 @@
 * {{l|en|-ible}} {{qualifier|not productive}}
 
 ===Etymology===
-From {{inh|en|enm|-able}}, borrowed from {{der|en|fro|-able}}, from {{der|en|la|-ābilis}}, from {{m|la|-a-}} or {{m|la|-i-}} + {{m|la|-bilis||capable or worthy of being acted upon}}, from {{der|en|ine-pro|-}} i-stem form {{m|ine-pro|*-dʰli-}} of {{m|ine-pro|*-dʰlom||instrumental suffix}}. Not closely related etymologically, though currently related semantically, to ''[[able]]''. Displaced native {{ncog|ang|-endlīc}}.
+{{inh+|en|enm|-able}}, {{bor+|enm|fro|-able|nocap=1}}, from {{inh|fro|la|-ābilis}}, from {{m|la|-a-}} or {{m|la|-i-}} + {{m|la|-bilis||capable or worthy of being acted upon}}, from {{der|en|ine-pro|-}} i-stem form {{m|ine-pro|*-dʰli-}} of {{m|ine-pro|*-dʰlom||instrumental suffix}}. Not closely related etymologically, though currently related semantically, to ''[[able]]''. Displaced native {{ncog|ang|-endlīc}}.
 
 ===Pronunciation===
 * {{IPA|en|/ə.bl̩/|a=US}}
@@ -170,9 +170,10 @@ From {{der|ast|la|-ābilis}}.
 ==Catalan==
 
 ===Etymology===
-From {{der|ca|la|-ābilis}}. <!-- Would hesitate to call this inherited, as the /b/ has not vocalized. -N. -->
+{{der+|ca|la|-ābilis}}. <!-- Would hesitate to call this inherited, as the /b/ has not vocalized. -N. -->
 
 ===Pronunciation===
+{{rfap|ca}}
 * {{ca-IPA}}
 
 ===Suffix===
@@ -186,12 +187,17 @@ From {{der|ca|la|-ābilis}}. <!-- Would hesitate to call this inherited, as the 
 ====Derived terms====
 {{suffixsee|ca}}
 
+===References===
+* {{R:IEC2}}
+
 ==French==
 
 ===Etymology===
+{{etymon|fr|id=est|inh|frm>-able>est|tree=1}}
 {{inh+|fr|frm|-able}}, from {{inh|fr|fro|-able}}, from {{inh|fr|la|-ābilis}}.
 
 ===Pronunciation===
+{{rfap|fr|extra-Metropolitan}}
 * {{fr-IPA}}
 * {{audio|fr|LL-Q150 (fra)-Lyokoï--able.wav}}
 
@@ -209,7 +215,10 @@ From {{der|ca|la|-ābilis}}. <!-- Would hesitate to call this inherited, as the 
 * {{alt|gl|-ábel}}
 
 ===Etymology===
-From {{der|gl|la|-ābilis}}.
+{{inh+|gl|la|-ābilis}}.
+
+===Pronunciation===
+{{rfp|gl}} {{rfap|gl}}
 
 ===Suffix===
 {{gl-adj}}
@@ -248,7 +257,11 @@ From {{suffixsee|gl}}.
 ==Middle French==
 
 ===Etymology===
-From {{inh|frm|fro|-able}}, from {{inh|frm|la|-ābilis}}.
+{{etymon|frm|id=est|inh|fro>-able>est|tree=1}}
+{{inh+|frm|fro|-able}}, from {{inh|fro|la|-ābilis}}.
+
+===Pronunciation===
+{{rfp|frm}}
 
 ===Suffix===
 {{head|frm|suffix|plural|-ables}}
@@ -258,11 +271,18 @@ From {{inh|frm|fro|-able}}, from {{inh|frm|la|-ābilis}}.
 ====Descendants====
 * {{desc|fr|-able}}
 
+====References====
+* {{R:TLFi}}
+* {{R:Godefroy}}
+
 ==Norwegian Bokmål==
 
 ===Alternative forms===
 * {{alt|nb|-abel}}
 * {{alt|nb|-abelt}}
+
+===Etymology===
+{{nonlemma}}
 
 ===Pronunciation===
 * {{IPA|nb|/ˈɑːblə/}}
@@ -281,7 +301,11 @@ From {{inh|frm|fro|-able}}, from {{inh|frm|la|-ābilis}}.
 ==Old French==
 
 ===Etymology===
-From {{inh|fro|la|-ābilis}}.
+{{etymon|fro|id=est|inh|la>-ābilis>est|tree=1}}
+{{inh+|fro|la|-ābilis}}.
+
+===Pronunciation===
+{{rfp|fro}}
 
 ===Suffix===
 {{head|fro|suffix|plural|-ables}}
@@ -292,12 +316,14 @@ From {{inh|fro|la|-ābilis}}.
 #: {{suffixusex|fro|forsener|t1=to become insane or enraged|forsenable|t2=maddening}}
 
 ====Descendants====
-* {{desc|frm|-able}}
-** {{desc|fr|-able}}
+* {{desctree|frm|-able}}
 * {{desctree|enm|-able|bor=1|noalts=1}}
 
 ====References====
-http://zeus.atilf.fr/scripts/dmfX.exe?IDF=dmfXaabb;ISIS=isis_dmfL.txt;s=s14033bb8;XMODE=STELLa
+* {{R:TLFi}}
+* {{R:Godefroy}}
+* {{R:Anglo-Norman On-Line Hub}}
+* http://zeus.atilf.fr/scripts/dmfX.exe?IDF=dmfXaabb;ISIS=isis_dmfL.txt;s=s14033bb8;XMODE=STELLa
 
 ==Spanish==
 
@@ -305,6 +331,7 @@ http://zeus.atilf.fr/scripts/dmfX.exe?IDF=dmfXaabb;ISIS=isis_dmfL.txt;s=s14033bb
 {{inh+|es|osp|-}}, from {{inh|es|la|-ābilis}}.
 
 ===Pronunciation===
+{{rfap|es}}
 {{es-pr}}
 
 ===Suffix===
