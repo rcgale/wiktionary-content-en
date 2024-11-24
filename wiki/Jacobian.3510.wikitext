@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology 1===
-From {{suffix|en|Jacobi|an}}, after {{w|Carl Gustav Jacob Jacobi}}, a German mathematician of the 19th century.
+From {{af|en|Jacobi|-an}}, after {{w|Carl Gustav Jacob Jacobi}}, a German mathematician of the 19th century.
 
 ====Pronunciation====
 * {{enPR|yä-kõ'-bi-un}}, {{IPA|en|/jɑːˈkəʊ.bi.ən/}}
@@ -24,7 +24,11 @@ From {{suffix|en|Jacobi|an}}, after {{w|Carl Gustav Jacob Jacobi}}, a German mat
 {{en-noun}}
 
 # {{lb|en|calculus}} A Jacobian [[matrix]] or its associated [[operator]].
+#* {{quote-journal|en|year=2016|date=|author=Kyle E. Niemeyer; Nicholas J. Curtis; Chih-Jen Sung|title=pyJac: analytical Jacobian generator for chemical kinetics|journal=arXiv|url=http://arxiv.org/abs/1605.03262|doi=|volume=|issue=|pages=
+|passage=As a demonstration, we first establish the correctness of the '''Jacobian''' matrices for kinetic models of hydrogen, methane, ethylene, and isopentanol oxidation, then demonstrate the performance achievable on CPUs and GPUs using pyJac via matrix evaluation timing comparisons.. }}
 # {{lb|en|calculus}} The [[determinant]] of such a matrix.
+#* {{quote-journal|en|year=2015|date=|author=Ping Ngai Chung; Craig Costello; Benjamin Smith|title=Fast, uniform, and compact scalar multiplication for elliptic curves and genus 2 Jacobians with applications to signature schemes|journal=arXiv|url=http://arxiv.org/abs/1510.03174|doi=|volume=|issue=|pages=
+|passage=In terms of per-bit security, elliptic curves and '''Jacobians''' of genus 2 curves appear to be roughly equivalent. However, when it comes to efficient and side-channel-aware implementations, we see a curious divergence.}}
 
 =====Translations=====
 {{trans-top|Jacobian matrix}}
@@ -43,7 +47,7 @@ From {{suffix|en|Jacobi|an}}, after {{w|Carl Gustav Jacob Jacobi}}, a German mat
 * {{pedia}}
 
 ===Etymology 2===
-From {{suf|en|Jacob|ian}}.
+From {{af|en|Jacob|-ian}}.
 
 ====Adjective====
 {{en-adj}}
