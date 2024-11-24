@@ -27,7 +27,7 @@ The verb comes from {{inh|en|enm|freen}}, {{m|enm|freoȝen}}, from {{inh|en|ang|
 ===Adjective===
 {{en-adj|er|more}}
 
-# {{lb|en|social}} [[unconstrained|Unconstrained]].
+# {{senseid|en|unconstrained, socially}} {{lb|en|social}} [[unconstrained|Unconstrained]].
 #: {{ux|en|He was given '''free''' rein to do whatever he wanted.}}
 #* {{RQ:Shakespeare Tempest|5|1|passage=Quickly, spirit! / Thou shalt [[ere]] long be '''free'''.}}
 #* {{quote-book|en|year=1899|author=w:Stephen Crane
@@ -38,25 +38,27 @@ The verb comes from {{inh|en|enm|freen}}, {{m|enm|freoȝen}}, from {{inh|en|ang|
 |passage=Policing the relationship between government and business in a '''free''' society is difficult. Businesspeople have every right to lobby governments, and civil servants to take jobs in the private sector.}}
 #: {{syn|en|unconstrained|unfettered|unhindered}}
 #: {{ant|en|constrained|restricted}}
-## Not [[imprisoned]] or [[enslaved]].
+## {{senseid|en|not imprisoned or enslaved}} Not [[imprisoned]] or [[enslaved]].
+##: {{collocation|en|'''Free''' Blacks}}
 ##: {{ux|en|a '''free''' man}}
 ##: {{ant|en|bound|enslaved|imprisoned}}
-## [[generous|Generous]]; [[liberal]].
+## {{senseid|en|generous, liberal}} [[generous|Generous]]; [[liberal]].
 ##: {{ux|en|He's very '''free''' with his money.}}
-## {{lb|en|obsolete}} Clear of offence or crime; guiltless; innocent.
+## {{senseid|en|guiltless, innocent, obsoletely}} {{lb|en|obsolete}} Clear of offence or crime; guiltless; innocent.
 ##* {{quote-book|en|author=w:John Dryden|title=[[w:Oedipus (Dryden play)|Oedipus: A Tragedy]]| year=1679| page=59| passage=My hands are guilty, but my heart is '''free'''.}}
-## Without [[obligation]]s.
+## {{senseid|en|without obligations}} Without [[obligation]]s.
 ##: {{ux|en|'''free''' time}}
-## To be enjoyed by anyone freely.
+## {{senseid|en|to be enjoyed by anyone freely}} To be enjoyed by anyone freely.
 ##: {{ux|en|a '''free''' school}}
 ##* {{quote-book|en|author=w:William Shakespeare| title={{w|Taming of the Shrew}}, I, ii| year=1590-2| passage=Why, sir, I pray, are not the streets as '''free''' / For me as for you?}}
-## {{lb|en|of a government, country}} Upholding individual rights.
+## {{senseid|en|upholding individual rights, nonauthoritarian}} {{lb|en|of a government, country}} Upholding individual rights.
+#: {{collocation|en|the '''Free''' World}}
 ##: {{ux|en|This is a '''free''' country.}}
-## {{lb|en|software}} With no or only freedom-preserving [[limitation]]s on distribution or modification.
+## {{senseid|en|of software, licensed in an open way}} {{lb|en|software}} With no or only freedom-preserving [[limitation]]s on distribution or modification.
 ##: {{ux|en|OpenOffice is [[free software|'''free''' software]].}}
 ##: {{syn|en|libre}}
 ##: {{ant|en|proprietary|nonfree}}
-## {{lb|en|software}} Intended for [[release]], as opposed to a [[checked]] version.
+## {{senseid|en|of software, intended for release}} {{lb|en|software}} Intended for [[release]], as opposed to a [[checked]] version.
 # {{senseid|en|free of charge}} Obtainable without any [[payment]].
 #* {{quote-journal|en|date=2013-07-20|volume=408|issue=8845|magazine=w:The Economist
 |title=[http://www.economist.com/news/http://www.economist.com/news/business/21582001-army-new-online-courses-scaring-wits-out-traditional-universities-can-they The attack of the MOOCs]
@@ -65,10 +67,10 @@ The verb comes from {{inh|en|enm|freen}}, {{m|enm|freoȝen}}, from {{inh|en|ang|
 #: {{ux|en|It's '''free''' real estate.}}
 #: {{syn|en|free of charge|gratis}}
 #: {{antonyms|en|paid}}
-## {{lb|en|by extension|chiefly|used in advertising}} {{cap|complimentary}}.
+## {{senseid|en|gratis in a complimentary way}} {{lb|en|by extension|chiefly|used in advertising}} {{cap|complimentary}}.
 ##: {{ux|en|Buy a TV to get a '''free''' DVD player!}}
-# {{lb|en|abstract}} [[unconstrained|Unconstrained]].
-## {{lb|en|algebra|of an [[algebraic structure]]}} {{non-gloss|In any of various technical senses}} [[generic]], [[universal]].
+# {{senseid|en|unconstrained, abstractly}} {{lb|en|abstract}} [[unconstrained|Unconstrained]].
+## {{senseid|en|albegraically generic or universal}} {{lb|en|algebra|of an [[algebraic structure]]}} {{non-gloss|In any of various technical senses}} [[generic]], [[universal]].
 ### {{lb|en|most generally|category theory|of an object <math>F</math> in a [[concrete]] category, with respect to a set <math>X</math> and a map <math>i</math> from <math>X</math> to the underlying set of <math>F</math>}} Such that any map <math>f</math> from <math>X</math> to the underlying set of an object <math>A</math> in the same category as <math>F</math> induces a map <math>\bar f</math> from <math>F</math> to <math>A</math> which is compatible with <math>f</math> (i.e. such that <math>f = \bar f \circ i</math>).
 ### {{lb|en|group theory|of a group}} Having a set of [[generators]] which satisfy no [[non-trivial]] [[relation]]s; equivalently, being the group of [[reduced word]]s on a set of generators.
 ###: {{ux|en|The [[fundamental group]] of the [[figure eight]] is '''free''' of rank 2.}}
@@ -79,22 +81,22 @@ The verb comes from {{inh|en|enm|freen}}, {{m|enm|freoȝen}}, from {{inh|en|ang|
 ## {{lb|en|programming}} Unconstrained of [[identifier]]s, not [[bound]].
 ##: {{syn|en|unbound}}
 ##: {{ant|en|bound}}
-## {{lb|en|linguistics}} {{q|of a morpheme}} That can be used by itself, [[unattached]] to another [[morpheme]].
-# {{lb|en|physical}} [[unconstrained|Unconstrained]].
-## Unobstructed, without [[blockage]]s.
+## {{senseid|en|of a morpheme, unbound}} {{lb|en|linguistics}} {{q|of a morpheme}} That can be used by itself, [[unattached]] to another [[morpheme]].
+# {{senseid|en|unconstrained, physically or mechanically}} {{lb|en|physical}} [[unconstrained|Unconstrained]].
+## {{senseid|en|of a drain, not blocked}} Unobstructed, without [[blockage]]s.
 ##: {{ux|en|the drain was '''free'''}}
 ##: {{syn|en|clear|unobstructed}}
 ##: {{ant|en|blocked|obstructed}}
-## Unattached or uncombined.
+## {{senseid|en|of a molecule, unbound, e.g., radical}} Unattached or uncombined.
 ##: {{ux|en|a '''free''' radical}}
 ##: {{syn|en|loose|unfastened|Thesaurus:loose}}
-## Not currently in use; not taken; unoccupied.
+## {{senseid|en|not in use, unoccupied, available for use}} Not currently in use; not taken; unoccupied.
 ##: {{ux|en|You can sit on this chair; it's '''free'''.}}
-## {{lb|en|botany|mycology}} Not [[attached]]; [[loose]].
+## {{senseid|en|in mycology, unattached or loose}} {{lb|en|botany|mycology}} Not [[attached]]; [[loose]].
 ##: {{ux|en|In this group of mushrooms, the gills are '''free'''.}}
 ##* {{RQ:Schuster Hepaticae|volume=V|page=7|text=Furthermore, the '''free''' anterior margin of the lobule is arched toward the lobe and is often involute{{...}}}}
-## {{lb|en|military}} Of a [[rocket]] or [[missile]]: not under the control of a [[guidance]] [[system]] after being launched.
-# Without; not containing (what is specified); exempt; clear; liberated.
+## {{senseid|en|of a rocket or missile, unguided}} {{lb|en|military}} Of a [[rocket]] or [[missile]]: not under the control of a [[guidance]] [[system]] after being launched.
+# {{senseid|en|without, not containing or having, liberated from}} Without; not containing (what is specified); exempt; clear; liberated.
 #: {{syn|en|without}}
 #: {{ux|en|We had a wholesome, filling meal, '''free''' of meat.&emsp; I would like to live '''free''' from care in the mountains.}}
 #* {{quote-book|en|author=w:Gilbert Burnet| title=The History of the Reformation of the Church of England| year=1679-1715| passage=princes declaring themselves '''free''' from the obligations of their treaties}}
@@ -105,7 +107,8 @@ The verb comes from {{inh|en|enm|freen}}, {{m|enm|freoȝen}}, from {{inh|en|ang|
 #* {{quote-book|en|author=w:John Dryden| title=w:The Hind and the Panther| year=1697| chapter=Part 3, line 1245| passage=He therefore makes all birds, of every sect, / '''Free''' of his farm.}}
 # {{lb|en|UK|legal|obsolete}} Certain or honourable; the opposite of ''[[base]]''.
 #: {{ux|en|'''free''' service;&emsp; '''free''' socage}}
-# {{lb|en|legal}} Privileged or individual; the opposite of ''[[common]]''.
+# {{senseid|en|legally, privileged or individual, proprietary, not common}} {{lb|en|legal}} Privileged or individual; proprietary.
+#: {{ant|en|common|nonproprietary}}
 #: {{ux|en|a '''free''' fishery;&emsp; a '''free''' warren}}
 
 ====Usage notes====
