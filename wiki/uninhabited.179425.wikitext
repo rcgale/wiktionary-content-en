@@ -13,7 +13,9 @@ From {{prefix|en|un|inhabited}}.
 
 # Not [[inhabited]]; having no [[inhabitant]]s.
 #: {{syn|en|inhabitantless|peopleless|Thesaurus:uninhabited}}
+#: {{ant|en|inhabited}}
 # {{lb|en|[[type theory]]|of a [[type]]}} Not having a [[term]].
+#: {{ant|en|inhabited}}
 #* {{quote-book|en|year=2017|editors=Stergios Chatzikyriakidis; Zhaohui Luo|title=Modern Perspectives in Type-Theoretical Semantics|publisher=Springer|isbn=9783319504223|page=282|pageurl=https://books.google.com/books?id=iEEUDgAAQBAJ&pg=PA282&dq=%22uninhabited%22+type&hl=&cd=1&source=gbs_api#v=onepage&q=%22uninhabited%22%20type&f=false|text=This is not a contradiction since an '''uninhabited''' type has no complete terms and a probability distribution over an empty type is ill defined anyway.}}
 #* {{quote-book|en|year=2021|author=Dean Wampler|title=Programming Scala|chapter=13|edition=3rd|publisher=O'Reilly|isbn=978-1-492-07789-3|brackets=on|passage=Unlike <code>Null</code>, <code>Nothing</code> has no instances. We say the type is '''''uninhabited'''''.}}
 
