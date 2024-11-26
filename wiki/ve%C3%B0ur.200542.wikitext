@@ -66,19 +66,17 @@ From {{inh|fo|non|veðr||weather}}.
 * {{rhymes|is|ɛːðʏr|s=2}}
 
 ===Etymology 1===
-From {{der|is|non|veðr||weather}}.
+{{inh+|is|non|veðr||weather}}.
 
 ====Noun====
-{{is-noun|n}}
+{{is-noun|@@:weather}}
 
 # [[weather]]
+#: {{syn|is|veðurfar}}
 # [[storm]]
 
 =====Declension=====
-{{is-ndecl|n}}
-
-=====Synonyms=====
-* {{sense|weather}} {{l|is|veðurfar}}
+{{is-ndecl|n|id=weather}}
 
 =====Derived terms=====
 {{der3|is|title=in phrases
@@ -93,87 +91,87 @@ From {{der|is|non|veðr||weather}}.
 ''(in compound words):''
 {{rel-top|Compound words derived from {{m|is|veður||weather}}.}}
 * {{l|is|aftakaveður}}
-* {{l|is|Alþjóðaveðurfræðistofnunin}} ([[WMO]], World Meteorological Organisation)
-* {{l|is|bjart veður}}, {{l|is|bjart}} (light, fair weather)
-* {{l|is|bjart veður á milli}}, {{l|is|bjart á milli}}, {{l|is|bjart öðru hverju}} (bright intervals)
-* {{l|is|borgaveðurfar}} (urban climate)
-* {{l|is|breytilegt}}, {{l|is|breytilegt veður}} (variable, unsettled weather)
-* {{l|is|búveðurfræði}} (agrometeorology, agroclimatology)
-* {{l|is|fagurt veður}} (fair)
-* {{l|is|flugveðurfræði}} (aviation meteorology)
-* {{l|is|flugveðurspá}} (aviation forecast)
-* {{l|is|flugveðurstöð}} (aeronautical meteorological station)
-* {{l|is|flugveðurstofa}} (aeronautical meteorological office)
-* {{l|is|flugveðurþjónusta}} (aeronautical weather service)
-* {{l|is|flugveðurútvarp}} (VOLMET broadcast)
-* {{l|is|fornveðurfar}} (paleoclimate)
-* {{l|is|fornveðurfræði}} (paleoclimatology)
-* {{l|is|hafrænt veðurfar}} (oceanic climate)
-* {{l|is|háloftaveðurfræði}} (aerology)
-* {{l|is|heilsuveðurfræði}} (climatology)
-* {{l|is|huglæg veðurspá}} (subjective forecasting)
-* {{l|is|lágmarksveðurskilyrði}} (minimum weather conditions)
-* {{l|is|landslagsbundið veðurfar}} (topoclimate)
-* {{l|is|lífveðurfræði}} (bioclimatology, bioclimatics)
-* {{l|is|ofsaveður}} (violent storm)
-* {{l|is|ofurþrumuveður}} (supercell storm)
-* {{l|is|óveður}}, {{l|is|illvirði}}, {{l|is|vonskuveður}} (heavy weather, storm)
-* {{l|is|óveðursboð}}, {{l|is|SIGMET-skeyti}} (SIGMET message)
-* {{l|is|sjálfvirk veðurstöð}} (automatic weather station)
-* {{l|is|slagveður}} (rainstorm)
-* {{l|is|þrumuveður}} (thunderstorm)
-* {{l|is|veðurathugun}} (meteorological observation, observation, weather observation)
-* {{l|is|veðurathugunarmaður}} (observer, weather observer)
-* {{l|is|veðurathugunarstöð}}, {{l|is|veðurstöð}} (observation station, weather station)
-* {{l|is|veðurbarinn}}, {{l|is|veðraður}} (weathered)
-* {{l|is|veðurbelgur}} (sounding balloon)
-* {{l|is|Veðurboði}} (meteorological information system)
+* {{l|is|Alþjóðaveðurfræðistofnunin||[[WMO]], World Meteorological Organisation}}
+* {{l|is|bjart veður}}, {{l|is|bjart||light, fair weather}}
+* {{l|is|bjart veður á milli}}, {{l|is|bjart á milli}}, {{l|is|bjart öðru hverju||bright intervals}}
+* {{l|is|borgaveðurfar||urban climate}}
+* {{l|is|breytilegt}}, {{l|is|breytilegt veður||variable, unsettled weather}}
+* {{l|is|búveðurfræði||agrometeorology, agroclimatology}}
+* {{l|is|fagurt veður||fair}}
+* {{l|is|flugveðurfræði||aviation meteorology}}
+* {{l|is|flugveðurspá||aviation forecast}}
+* {{l|is|flugveðurstöð||aeronautical meteorological station}}
+* {{l|is|flugveðurstofa||aeronautical meteorological office}}
+* {{l|is|flugveðurþjónusta||aeronautical weather service}}
+* {{l|is|flugveðurútvarp||VOLMET broadcast}}
+* {{l|is|fornveðurfar||paleoclimate}}
+* {{l|is|fornveðurfræði||paleoclimatology}}
+* {{l|is|hafrænt veðurfar||oceanic climate}}
+* {{l|is|háloftaveðurfræði||aerology}}
+* {{l|is|heilsuveðurfræði||climatology}}
+* {{l|is|huglæg veðurspá||subjective forecasting}}
+* {{l|is|lágmarksveðurskilyrði||minimum weather conditions}}
+* {{l|is|landslagsbundið veðurfar||topoclimate}}
+* {{l|is|lífveðurfræði||bioclimatology, bioclimatics}}
+* {{l|is|ofsaveður||violent storm}}
+* {{l|is|ofurþrumuveður||supercell storm}}
+* {{l|is|óveður}}, {{l|is|illvirði}}, {{l|is|vonskuveður||heavy weather, storm}}
+* {{l|is|óveðursboð}}, {{l|is|SIGMET-skeyti||SIGMET message}}
+* {{l|is|sjálfvirk veðurstöð||automatic weather station}}
+* {{l|is|slagveður||rainstorm}}
+* {{l|is|þrumuveður||thunderstorm}}
+* {{l|is|veðurathugun||meteorological observation, observation, weather observation}}
+* {{l|is|veðurathugunarmaður||observer, weather observer}}
+* {{l|is|veðurathugunarstöð}}, {{l|is|veðurstöð||observation station, weather station}}
+* {{l|is|veðurbarinn}}, {{l|is|veðraður||weathered}}
+* {{l|is|veðurbelgur||sounding balloon}}
+* {{l|is|Veðurboði||meteorological information system}}
 * {{l|is|veðurdagur}}
-* {{l|is|veðureðlisfræði}} (physical meteorology)
-* {{l|is|veðurfar}} (climate)
-* {{l|is|veðurflaug}} (sounding rocket)
-* {{l|is|veðurfræði}} (meteorology)
-* {{l|is|veðurhæð}} (wind force)
-* {{l|is|veðurhorfur}} (weather outlook, weather forecast, forecast)
-* {{l|is|veðurkanni}} (radiosonde, radio sonde)
-* {{l|is|veðurkort}} (synoptic weather chart, weather map)
-* {{l|is|veðurkortafræði}} (synoptic meteorology)
-* {{l|is|veðurkortalýsing}} (general inference)
-* {{l|is|veðurlag}} (circulation type)
-* {{l|is|veðurlýsing}} (meteorological report)
-* {{l|is|veðurratsjá}} (weather radar, cloud and collision warning system)
-* {{l|is|veðurrit}} (meteogram)
-* {{l|is|veðurskeytalykill}} (meteorological code)
-* {{l|is|veðurskeytastöð}} (synoptic station)
-* {{l|is|veðurskeyti}} (weather report)
-* {{l|is|veðurskilyrði}} (meteorological conditions, weather conditions)
-* {{l|is|veðurskip}} (ocean station vessel, ocean weather station)
-* {{l|is|veðurspá}} (forecast, weather forecast)
-* {{l|is|veðurspjall}} (briefing, meteorological briefing)
-* {{l|is|veðurstöð}} (veðurathugunarstöð, weather station)
-* {{l|is|veðurstofa}} (meteorological authority, meteorological office)
-* {{l|is|Veðurstofa Íslands}} (Icelandic Meteorological Office)
-* {{l|is|veðurþilfar}} (weather deck)
-* {{l|is|veðurþistill}} (stemless carline thistle, {{taxlink|Carlina acaulis|species}})
-* {{l|is|veðurþjónusta}} (meteorological services)
-* {{l|is|veðurþolinn}} (weatherproof)
-* {{l|is|veðurtungl}} (weather satellite)
-* {{l|is|veðurupplýsingar}} (meteorological information)
-* {{l|is|veðurupplýsingarás}} (meteorological operational channel)
-* {{l|is|veðurvitni}} (climate proxy)
+* {{l|is|veðureðlisfræði||physical meteorology}}
+* {{l|is|veðurfar||climate}}
+* {{l|is|veðurflaug||sounding rocket}}
+* {{l|is|veðurfræði||meteorology}}
+* {{l|is|veðurhæð||wind force}}
+* {{l|is|veðurhorfur||weather outlook, weather forecast, forecast}}
+* {{l|is|veðurkanni||radiosonde, radio sonde}}
+* {{l|is|veðurkort||synoptic weather chart, weather map}}
+* {{l|is|veðurkortafræði||synoptic meteorology}}
+* {{l|is|veðurkortalýsing||general inference}}
+* {{l|is|veðurlag||circulation type}}
+* {{l|is|veðurlýsing||meteorological report}}
+* {{l|is|veðurratsjá||weather radar, cloud and collision warning system}}
+* {{l|is|veðurrit||meteogram}}
+* {{l|is|veðurskeytalykill||meteorological code}}
+* {{l|is|veðurskeytastöð||synoptic station}}
+* {{l|is|veðurskeyti||weather report}}
+* {{l|is|veðurskilyrði||meteorological conditions, weather conditions}}
+* {{l|is|veðurskip||ocean station vessel, ocean weather station}}
+* {{l|is|veðurspá||forecast, weather forecast}}
+* {{l|is|veðurspjall||briefing, meteorological briefing}}
+* {{l|is|veðurstöð||veðurathugunarstöð, weather station}}
+* {{l|is|veðurstofa||meteorological authority, meteorological office}}
+* {{l|is|Veðurstofa Íslands||Icelandic Meteorological Office}}
+* {{l|is|veðurþilfar||weather deck}}
+* {{l|is|veðurþistill||stemless carline thistle, {{taxlink|Carlina acaulis|species}}}}
+* {{l|is|veðurþjónusta||meteorological services}}
+* {{l|is|veðurþolinn||weatherproof}}
+* {{l|is|veðurtungl||weather satellite}}
+* {{l|is|veðurupplýsingar||meteorological information}}
+* {{l|is|veðurupplýsingarás||meteorological operational channel}}
+* {{l|is|veðurvitni||climate proxy}}
 {{rel-bottom}}
 
 ===Etymology 2===
 From {{der|is|non|veðr||wether}}.
 
 ====Noun====
-{{is-noun|m,s:ar.#}}
+{{is-noun|@@:ram}}
 
 # {{lb|is|archaic|or|poetic}} [[ram]]
 # {{lb|is|archaic}} [[battering ram]]
 
 =====Declension=====
-{{is-ndecl|m,s:ar.#}}
+{{is-ndecl|m,s:ar.#|id=ram}}
 
 ===Etymology 3===
 Compare {{cog|fo|veður}}, {{m|fo|veðrur}}, of the same meaning. Perhaps ultimately.{{attention|is|Check the "perhaps ultimately", sounds like an unfinished sentence.}}
@@ -183,12 +181,12 @@ Compare {{cog|fo|veður}}, {{m|fo|veðrur}}, of the same meaning. Perhaps ultima
 * {{alt|is|veðri|g=m}}
 
 ====Noun====
-{{is-noun|m,s:ar.#}}
+{{is-noun|@@:spike}}
 
-# one of several (normally four) [[spike]]s at the ends of a hiking pole
+# {{lb|is|archaic}} one of several (normally four) [[spike]]s at the ends of a hiking pole
 
 =====Declension=====
-{{is-ndecl|m,s:ar.#}}
+{{is-ndecl|m,s:ar.#|id=spike}}
 
 ===Etymology 4===
 
