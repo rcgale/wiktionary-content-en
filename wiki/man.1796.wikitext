@@ -1446,17 +1446,15 @@ From {{inh|nds-de|gml|man}}. A contraction of {{inh|nds-de|osx|newan||none other
 From {{inh|is|non|man}}, perhaps from {{inh|is|gem-pro|*gamaną}} (with unstressed prefix {{m|gem-pro|*ga-}}).
 
 ====Noun====
-{{is-noun|n}}
+{{is-noun|@@:slave}}
 
 # {{lb|is|obsolete|uncountable|collective}} [[slave]]s
-# {{lb|is|archaic|countable}} a female slave
+# {{lb|is|archaic|countable}} [[female]] [[slave]]
+#: {{syn|is|ambátt}}
 # {{lb|is|archaic|or|poetic|countable}} [[maiden]]
 
 =====Declension=====
-{{is-ndecl|n}}
-
-=====Synonyms=====
-* {{sense|female slave}} {{l|is|ambátt}}
+{{is-ndecl|n|id=slave}}
 
 =====Derived terms=====
 * {{l|is|mansal}}
@@ -1466,32 +1464,27 @@ From {{inh|is|non|man}}, perhaps from {{inh|is|gem-pro|*gamaną}} (with unstress
 From {{m|is|mana||to dare [someone] [to do something]}}.
 
 ====Noun====
-{{is-noun|n.sg}}
+{{is-noun|@@:dare}}
 
 # the act of [[dare|daring]] someone to do something; [[provocation]], [[dare]]
 
 =====Declension=====
-{{is-ndecl|n.sg}}
+{{is-ndecl|n.sg|id=dare}}
 
 ===Etymology 3===
 Appears in [[w:Guðbrandur Þorláksson|Guðbrandur Þorláksson’s]] 1584 Bible translation. Borrowed from {{bor|is|de|Man}} (in Luther’s 1534 German Bible), from {{der|is|he|מן||tr=mān|manna}}.
 
 ====Noun====
-{{head|is|nouns|g=n|indeclinable}}
+{{is-noun|n.sg.indecl}}
 
 # {{lb|is|biblical|obsolete}} [[manna]]
+#: {{syn|is|manna}}
 #* {{quote-book|is|tlr=Guðbrandur Þorláksson|chapter=Exodus. Aun''n''ur Bok Moſe|title=Biblia, Þad Er Øll Heiloͤg Ritning vtloͤgd a Norrænu|url=http://baekur.is/bok/000036975/1/5/Biblia_thad_er_oll_heilog_Bindi_1_Bls_5|location=Hólar|publisher=Jón Jónsson|year=1584|page=76|section=chapter 16, verse 33|passage=Og Moſes ſegde til Aaron / Tak þier eina Føtu / og legg eirn Gomor fullan af '''Man''' þar i / og lꜳt þad vardueitaſt fyrer DROTTNI til ydar ep[t]erkomande Kynkuijſla}}
-
-=====Declension=====
-{{rfinfl|is|noun}}
-
-=====Synonyms=====
-* {{sense|manna}} {{l|is|manna}}
 
 ===Etymology 4===
 
 ====Verb====
-{{head|is|verb forms}}
+{{head|is|verb form}}
 
 # {{inflection of|is|muna||1|s|pres|ind}}; I remember
 #: {{ux|is|Ég '''man''' ekki.|I don't '''remember'''.}}
