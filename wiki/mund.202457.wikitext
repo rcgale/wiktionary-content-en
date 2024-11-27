@@ -148,16 +148,16 @@ From {{inh|da|non|muðr}}, {{m|non|munnr}}, from {{inh|da|gem-pro|*munþaz}}, co
 * {{rhymes|is|ʏnt|s=1}}
 
 ===Etymology 1===
-From {{inh|is|non|mund}}, from {{inh|is|gem-pro|*mundō}}.
+{{inh+|is|non|mund}}, from {{inh|is|gem-pro|*mundō}}.
 
 ====Noun====
-{{is-noun|f}}
+{{is-noun|@@:hand}}
 
 # {{lb|is|poetic}} [[hand]]
 #: {{syn|is|hönd}}
 
 =====Declension=====
-{{is-ndecl|f}}
+{{is-ndecl|f|id=hand}}
 
 =====Derived terms=====
 * {{l|is|morgunstund gefur gull í mund||the early bird catches the worm}}
@@ -166,14 +166,12 @@ From {{inh|is|non|mund}}, from {{inh|is|gem-pro|*mundō}}.
 Related to {{der|is|non|munda||to aim, to strive}}, Old High German {{m|goh|muntar||keen, eager}}, from {{der|is|gem-pro|*mundraz|t=alert}}.
 
 ====Noun====
-{{is-noun|f}} ''or''<br />
-{{is-noun|n.sg}}
+{{is-noun|@@}}
 
 # {{ng|used only in set phrases}}
 
 =====Declension=====
-{{is-ndecl|f}}
-{{is-ndecl|n.sg}}
+{{is-ndecl|f|n.sg}}
 
 =====Derived terms=====
 * {{l|is|í sömu mund}}/{{l|is|í sama mund||at the same time}}
