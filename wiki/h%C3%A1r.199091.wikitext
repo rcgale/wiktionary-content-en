@@ -25,7 +25,7 @@ From {{der|fo|non|hár}}, from {{der|fo|gem-pro|*hērą}}, from {{der|fo|ine-pro
 * {{rhymes|is|auːr|s=1}}
 
 ===Etymology 1===
-From {{der|is|non|hár}}, {{m|non|hór}}, from {{der|is|gem-pro|*hauhaz}}.
+{{inh+|is|non|hár}}, {{m|non|hór}}, from {{inh|is|gem-pro|*hauhaz}}.
 
 ====Adjective====
 {{is-adj|hærri|hæstur}}
@@ -39,16 +39,16 @@ From {{der|is|non|hár}}, {{m|non|hór}}, from {{der|is|gem-pro|*hauhaz}}.
 * {{l|is|há-}}
 
 ===Etymology 2===
-From {{der|is|non|hár}}, from {{der|is|gem-pro|*hērą}}.
+{{inh+|is|non|hár}}, from {{inh|is|gem-pro|*hērą}}.
 
 ====Noun====
-{{is-noun|n}}
+{{is-noun|@@:hair}}
 
 # {{senseid|is|hair}} [[hair]]
 #: {{ux|is|Þú hefur fallegt '''hár'''.|You have pretty hair.}}
 
 =====Declension=====
-{{is-ndecl|n}}
+{{is-ndecl|n|id=hair}}
 
 =====Derived terms=====
 * {{l|is|hárgreiðsla}}
@@ -66,13 +66,13 @@ Cognate with the {{cog|fo|háur}}, {{m|fo|hávur}},<ref>{{R:Íslensk orðsifjab�
 {{etystub|is}}
 
 ====Noun====
-{{is-noun|m.v}}
+{{is-noun|@@:dogfish}}
 
 # {{lb|is|archaic}} a [[dogfish]]
 #: {{syn|is|háfiskur|háfur}}
 
 =====Declension=====
-{{is-ndecl|m.v}}
+{{is-ndecl|m.v|id=dogfish}}
 
 =====Related terms=====
 * {{l|is|há-}}
@@ -83,12 +83,12 @@ Cognate with the {{cog|fo|háur}}, {{m|fo|hávur}},<ref>{{R:Íslensk orðsifjab�
 {{etystub|is}}
 
 ====Noun====
-{{is-noun|m,,ir}}
+{{is-noun|@@:oarlock}}
 
 # {{lb|is|archaic}} [[oarlock]], [[thole]]
 
 =====Declension=====
-{{is-ndecl|m,,ir}}
+{{is-ndecl|m,,ir|id=oarlock}}
 
 ===References===
 <references/>
