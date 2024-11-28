@@ -73,17 +73,15 @@ From {{inh|is|non|sárr}}, from {{inh|is|gem-pro|*sairaz}}.
 {{is-adj|sárari|sárastur}}
 
 # [[painful]], [[sore]]
+#: {{syn|is|kvalafullur}}
 #: {{ux|is|Á! Þetta er '''sárt'''!|Ouch! This '''hurts'''!}}
 # [[bitter]], [[distressing]]
+#: {{syn|is|átakanlegur}}
 # [[hurt]], [[offended]], [[embittered]]
+#: {{syn|is|gramur}}
 
 =====Inflection=====
 {{is-decl-adj-1|s|á|r}}
-
-=====Synonyms=====
-* {{sense|painful}} {{l|is|kvalafullur}}
-* {{sense|distressing}} {{l|is|átakanlegur}}
-* {{sense|embittered}} {{l|is|gramur}}
 
 =====Derived terms=====
 {{der3|is|{{l|is|eiga um sárt að binda||to have suffered a great loss}}
@@ -94,16 +92,16 @@ From {{inh|is|non|sárr}}, from {{inh|is|gem-pro|*sairaz}}.
 }}
 
 ===Etymology 2===
-From {{inh|is|non|sár}}, from {{inh|is|gem-pro|*sairą}}. Cognate with {{cog|sv|sår}}.
+{{inh+|is|non|sár}}, from {{inh|is|gem-pro|*sairą}}. Cognate with {{cog|sv|sår}}.
 
 ====Noun====
-{{is-noun|n}}
+{{is-noun|@@:wound}}
 
 # a [[wound]]
 #: {{syn|is|und<l:poetic>}}
 
 =====Declension=====
-{{is-ndecl|n}}
+{{is-ndecl|n|id=woudn}}
 
 =====Derived terms=====
 {{der3|is|{{l|is|fótasár||venous ulcers, stasis ulcer, varicose ulcers}}
@@ -113,15 +111,15 @@ From {{inh|is|non|sár}}, from {{inh|is|gem-pro|*sairą}}. Cognate with {{cog|sv
 }}
 
 ===Etymology 3===
-From {{inh|is|non|sár}}, from {{inh|is|gem-pro|*saihaz}}.
+{{inh+|is|non|sár}}, from {{inh|is|gem-pro|*saihaz}}.
 
 ====Noun====
-{{is-noun|m,,ir}}
+{{is-noun|@@:cask}}
 
 # {{lb|is|archaic}} [[cask]]
 
 =====Declension=====
-{{is-ndecl|m,,ir}}
+{{is-ndecl|m,,ir|id=cask}}
 
 ===Anagrams===
 * {{l|is|rás}}, {{l|is|árs}}
