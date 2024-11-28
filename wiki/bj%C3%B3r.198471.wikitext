@@ -49,35 +49,31 @@ From {{der|fo|non|bjórr}}, from {{der|fo|gem-pro|*beuzą}}.
 
 ===Etymology 1===
 {{wikipedia|Bjór (nagdýr)|beaver|lang=is}}
-From {{der|is|non|bjórr}}, from {{der|is|gem-pro|*bebruz}}.
+{{inh+|is|non|bjórr}}, from {{inh|is|gem-pro|*bebruz}}.
 
 ====Noun====
-{{is-noun|m}}
+{{is-noun|@@:beaver}}
 
-# a [[beaver]]
+# [[beaver]]
+#: {{syn|is|bifur}}
 # {{lb|is|dated}} [[fur]]
 
 =====Declension=====
-{{is-ndecl|m}}
-
-=====Synonyms=====
-* {{sense|beaver}} {{l|is|bifur}}
+{{is-ndecl|m|id=beaver}}
 
 ===Etymology 2===
 {{wikipedia|Bjór (öl)|beer|lang=is}}
-From {{der|is|non|bjórr}}, from {{der|is|gem-pro|*beuzą}}.
+{{inh+|is|non|bjórr}}, from {{inh|is|gem-pro|*beuzą}}.
 
 ====Noun====
-{{is-noun|m}}
+{{is-noun|@@:beer}}
 
 # [[beer]]
 # [[malt liquor]], [[malt beer]]
+#: {{syn|is|maltöl}}
 
 =====Declension=====
-{{is-ndecl|m}}
-
-=====Synonyms=====
-* {{sense|malt liquor}} {{l|is|maltöl}}
+{{is-ndecl|m|id=beer}}
 
 =====Derived terms=====
 {{der-top}}
@@ -92,28 +88,26 @@ From {{der|is|non|bjórr}}, from {{der|is|gem-pro|*beuzą}}.
 {{der-bottom}}
 
 =====See also=====
-* [[öl]]
+* {{l|is|öl}}
 
 ===Etymology 3===
 {{wikipedia|Bjór (byggingarlist)|pediment|lang=is}}
 
 ====Noun====
-{{is-noun/old|m|bjórs|bjórar}}
+{{is-noun|@@:pediment}}
 
-# {{lb|is|architecture}} a [[pediment]]
+# {{lb|is|architecture}} [[pediment]]
+#: {{syn|is|gaflbrík|gaflhlað}}
 
 =====Declension=====
-{{rfinfl|is|noun}}
-
-=====Synonyms=====
-* {{sense|pediment}} {{l|is|gaflbrík}}, {{l|is|gaflhlað}}
+{{is-ndecl|m|id=pediment}}
 
 =====Derived terms=====
-* {{l|is|dyrabjór}} (a door pediment)
-* {{l|is|gluggabjór}} (a window pediment)
+* {{l|is|dyrabjór||a door pediment}}
+* {{l|is|gluggabjór||a window pediment}}
 
 =====See also=====
-* [[gaflflötur]] (a tympanum)
+* {{l|is|gaflflötur||a tympanum}}
 
 {{C|is|Beverages|Mammals}}
 
