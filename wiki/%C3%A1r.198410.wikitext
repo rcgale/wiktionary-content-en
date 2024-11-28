@@ -222,7 +222,7 @@ From {{der|hu|de|Ar||are}} and {{der|hu|fr|are||are}}, from {{der|hu|la|ārea||t
 * {{rhymes|is|auːr|s=1}}
 
 ===Etymology 1===
-From {{der|is|non|ár}}, from {{der|is|gem-pro|*airi}}. Cognates include: {{cog|got|𐌰𐌹𐍂|t=early}}, {{cog|ang|ār}} and {{m|ang|ærlice}} ({{cog|en|early}}).<ref name="torp">Alf Torp, "Nynorsk Etymologisk Ordbok", Oslo 1992 (reprint), {{ISBN|82-90520-17-4}}; ''aarlege'', ''aar''</ref>
+{{inh+|is|non|ár}}, from {{inh|is|gem-pro|*airi}}. Cognates include: {{cog|got|𐌰𐌹𐍂|t=early}}, {{cog|ang|ār}} and {{m|ang|ærlice}} ({{cog|en|early}}).<ref name="torp">Alf Torp, "Nynorsk Etymologisk Ordbok", Oslo 1992 (reprint), {{ISBN|82-90520-17-4}}; ''aarlege'', ''aar''</ref>
 
 ====Adverb====
 {{is-adv}}
@@ -234,10 +234,10 @@ From {{der|is|non|ár}}, from {{der|is|gem-pro|*airi}}. Cognates include: {{cog|
 
 ===Etymology 2===
 {{root|is|ine-pro|*yeh₁r-}}
-From {{inh|is|non|ár|t=year}}, from {{inh|is|gem-pro|*jērą}}, from {{der|is|ine-pro|*yeh₁r-}}. Cognates include: {{cog|nl|jaar}} and {{cog|af|jaar}}, {{cog|en|year}}, {{cog|de|Jahr}}, {{cog|da|år}}, {{cog|nb|år}} and {{cog|sv|år}}.
+{{inh+|is|non|ár|t=year}}, from {{inh|is|gem-pro|*jērą}}, from {{der|is|ine-pro|*yeh₁r-}}. Cognates include: {{cog|nl|jaar}} and {{cog|af|jaar}}, {{cog|en|year}}, {{cog|de|Jahr}}, {{cog|da|år}}, {{cog|nb|år}} and {{cog|sv|år}}.
 
 ====Noun====
-{{is-noun|n}}
+{{is-noun|@@:year}}
 
 # [[year]]
 # {{inflection of|is|ár||indef|acc|s}}
@@ -245,7 +245,7 @@ From {{inh|is|non|ár|t=year}}, from {{inh|is|gem-pro|*jērą}}, from {{der|is|i
 # {{inflection of|is|ár||indef|acc|p}}
 
 =====Declension=====
-{{is-ndecl|n}}
+{{is-ndecl|n|id=year}}
 
 =====Derived terms=====
 {{der4|is
@@ -262,12 +262,12 @@ From {{inh|is|non|ár|t=year}}, from {{inh|is|gem-pro|*jērą}}, from {{der|is|i
 From {{der|is|non|ár}}, from {{der|is|gem-pro|*airō}}. Cognates include: {{cog|ang|ār||oar}} ({{cog|en|oar}}).<ref name="torp"/>
 
 ====Noun====
-{{is-noun|f,,ar}}
+{{is-noun|@@:oar}}
 
 # [[oar]]
 
 =====Declension=====
-{{is-ndecl|f,,ar}}
+{{is-ndecl|f,,ar|id=oar}}
 
 =====Derived terms=====
 {{der2|is
@@ -283,7 +283,7 @@ From {{der|is|non|ár}}, from {{der|is|gem-pro|*airō}}. Cognates include: {{cog
 {{nonlemma}}
 
 ====Noun====
-{{head|is|noun form}} {{g|f}}
+{{head|is|noun form|g=f}}
 
 # {{inflection of|is|á||indef|gen|s|;|indef|nom|p|;|indef|acc|p|t=river}}
 
