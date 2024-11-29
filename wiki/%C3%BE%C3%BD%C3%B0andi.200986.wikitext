@@ -1,15 +1,28 @@
 ==Icelandic==
 {{wikipedia|Þýðandi|Þýðandi (''disambiguation'')|mul=Þýðandi (tölvunarfræði)|mullabel=Compiler (''computing'')|lang=is}}
 
+===Etymology 1===
+From {{af|is|þýða<t:to translate>|-andi#Etymology_2<pos:deverbal agentive suffix>}}.
+
 ===Noun===
-{{is-noun/old|m|þýðanda|þýðendur}}
+{{is-noun|@@}}
 
 # a [[translator]]
+#: {{syn|is|túlkur|útleggjari|qq1=m|qq2=m}}
 # {{lb|is|computing}} a [[compiler]]
 #: {{ux|is|Hvaða '''þýðanda''' notarðu?|What '''compiler''' do you use?}}
 
 ====Declension====
-{{rfinfl|is|noun}}
+{{is-ndecl|m}}
+
+===References===
+* {{R:is:BÍN}}
+* {{R:is:Íslensk orðabók}}
+* {{R:Islex}}
+* {{R:is:Íðorðabanki}}
+
+===Etymology 2===
+From {{af|is|þýða<t:to translate>|-andi#Etymology_1<pos:present participle suffix>}}.
 
 ===Verb===
 {{head|is|verb form}}
@@ -22,4 +35,7 @@
 
 ====See also====
 * {{l|is|túlka}}
-* {{l|is|túlkur}}
+* {{l|is|vistþýða}}
+
+===References===
+* {{R:is:BÍN|þýða}}
