@@ -1,24 +1,25 @@
 ==English==
 [[File:Hohenzollern Haus Wappen.svg|thumb|150px|A '''quarterly''' coat of arms (Hohenzollern)]]
 
-===Etymology===
-From {{suffix|en|quarter|ly|id2=adjectival}}.
+===Etymology 1===
+From {{af|en|quarter|-ly|id2=adjectival|pos2=adjectival}}.
 
-===Adjective===
+====Adjective====
 {{en-adj|-}}
 
 # Occurring once every [[quarter]] year (three months); taking place [[quarter-yearly]].
 #: {{ux|en|'''quarterly''' rent payments}}
+#* {{quote-journal|en|author=Priya Krishnakumar|title=Murders rose sharply in 2020 but data is lacking across much of the country|magazine=w:CNN|url=https://www.cnn.com/2021/09/27/politics/uniform-crime-report-2020/index.html|date=2021-09-27|passage=The FBI began publishing national '''quarterly''' crime reports last year, but has not done so for the first two quarters of 2021, stating that they require at least 60% of agencies to submit NIBRS data in order to publish '''quarterly''' data.}}
 # {{lb|en|heraldry}} (of a [[coat of arms]]) Divided into four parts crosswise.
 #: {{ux|en|The arms of Hohenzollern is '''quarterly''' argent and sable.}}
 
-====Derived terms====
-* [[quarterly court]]
+=====Derived terms=====
+* {{l|en|quarterly court}}
 
-====Related terms====
+=====Related terms=====
 * {{l|en|quarter day}}
 
-====Translations====
+=====Translations=====
 {{trans-top|occurring once every quarter year}}
 * Bulgarian: {{t|bg|тримесечен}}
 * Catalan: {{t|ca|trimestral}}
@@ -55,17 +56,42 @@ From {{suffix|en|quarter|ly|id2=adjectival}}.
 * Swedish: {{t+|sv|kvadrerad}}, {{t+|sv|fyrdelad}}
 {{trans-bottom}}
 
-===Adverb===
+====Noun====
+{{en-noun}}
+
+# A [[periodical]] [[publication]] that appears four times per year.
+#* {{quote-journal|en|author=Scott Zamost and Drew Griffin|title=FBI battling ‘rash of sexting’ among its employees|magazine=w:CNN|url=https://www.cnn.com/2013/02/21/us/fbi-misbehavior/index.html|date=2013-02-22|passage=“We’re hoping (that) getting the message out in the '''quarterlies''' is going to teach people, as well as their supervisors … you can’t do this stuff,” FBI assistant director Candice Will told CNN this week.}}
+
+=====Translations=====
+{{trans-top|periodical publication}}
+* Chinese:
+*: Mandarin: {{t+|cmn|季刊|tr=jìkān}}
+* Estonian: {{t|et|kvartaliajakiri}}
+* Finnish: {{t|fi|neljännesvuosijulkaisu}}
+* German: {{t|de|Vierteljahresschrift|n}}
+* Japanese: {{t+|ja|季刊|tr=きかん, kikan|sc=Jpan}}, {{t+|ja|季刊誌|tr=きかんし, kikanshi|sc=Jpan}}
+* Kurdish:
+*: Northern Kurdish: {{t|kmr|kovara sêmehî|f}}
+* Polish: {{t+|pl|kwartalnik|m}}
+* Russian: {{t|ru|трёхме́сячник|m}}
+* Scottish Gaelic: {{t|gd|ràitheachan|m}}
+* Vietnamese: {{t|vi|quý san}} {{qualifier|magazine}}
+{{trans-bottom}}
+
+===Etymology 2===
+From {{af|en|quarter|-ly|id2=adverbial|pos2=adverbial suffix}}.
+
+====Adverb====
 {{en-adv|-}}
 
 # Once every [[quarter]] year (three months).
 # {{lb|en|heraldry}} In the four, or in two diagonally opposite, quarters of a shield.
 #* {{quote-journal|en|year=1950|month=June|author=Michael Robbins|title=Heraldry of London Underground Railways|journal=Railway Magazine|page=380|text=It consisted of the arms of the City of London, Middlesex (three seaxes, or Saxon swords), Buckingham (a swan), and Hertford (a hart), arranged '''quarterly''', on a background of crimson and ermine mantling {{...}}.}}
 
-====Derived terms====
+=====Derived terms=====
 {{der2|en| quarterly quartered}}
 
-====Translations====
+=====Translations=====
 {{trans-top|once every quarter year}}
 * Catalan: {{t+|ca|trimestralment}}
 * Chinese:
@@ -89,29 +115,8 @@ From {{suffix|en|quarter|ly|id2=adjectival}}.
 * Turkish: {{t|tr|üç ayda bir}}
 {{trans-bottom}}
 
-===Noun===
-{{en-noun}}
-
-# A [[periodical]] [[publication]] that appears four times per year.
-
-====Translations====
-{{trans-top|periodical publication}}
-* Chinese:
-*: Mandarin: {{t+|cmn|季刊|tr=jìkān}}
-* Estonian: {{t|et|kvartaliajakiri}}
-* Finnish: {{t|fi|neljännesvuosijulkaisu}}
-* German: {{t|de|Vierteljahresschrift|n}}
-* Japanese: {{t+|ja|季刊|tr=きかん, kikan|sc=Jpan}}, {{t+|ja|季刊誌|tr=きかんし, kikanshi|sc=Jpan}}
-* Kurdish:
-*: Northern Kurdish: {{t|kmr|kovara sêmehî|f}}
-* Polish: {{t+|pl|kwartalnik|m}}
-* Russian: {{t|ru|трёхме́сячник|m}}
-* Scottish Gaelic: {{t|gd|ràitheachan|m}}
-* Vietnamese: {{t|vi|quý san}} {{qualifier|magazine}}
-{{trans-bottom}}
-
 ===See also===
-* [[grand-quarterly]]
+* {{l|en|grand-quarterly}}
 
 {{cln|en|3-syllable words|frequency adverbs}}
 {{C|en|Time|Periodicals}}
