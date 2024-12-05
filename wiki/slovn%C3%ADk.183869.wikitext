@@ -3,7 +3,7 @@
 {{wp|lang=cs}}
 
 ===Etymology===
-From {{suffix|cs|slovo|ník|t1=word}}. Compare {{cog|sk|slovník}}, {{cog|pl|słownik}}, {{cog|uk|словник}}.
+From {{suf|cs|slovo<t:word>|ník}}. Compare {{cog|sk|slovník}}, {{cog|pl|słownik}} and {{cog|uk|словни́к}}.
 
 ===Pronunciation===
 * {{cs-IPA}}
@@ -25,14 +25,7 @@ From {{suffix|cs|slovo|ník|t1=word}}. Compare {{cog|sk|slovník}}, {{cog|pl|sł
 {{cs-ndecl|m}}
 
 ====Derived terms====
-{{col-auto|cs
-|slovníček
-|slovníkový
-|slovníkář
-|řízený slovník
-|encyklopedický slovník
-|naučný slovník
-|datový slovník}}
+{{col-auto|cs|slovníkář|řízený slovník|encyklopedický slovník|naučný slovník|datový slovník|Wikislovník}}
 
 ====Related terms====
 {{col-auto|cs|sloveso|slovní|slovo|slovosled}}
@@ -48,13 +41,13 @@ From {{suffix|cs|slovo|ník|t1=word}}. Compare {{cog|sk|slovník}}, {{cog|pl|sł
 {{wp|lang=sk}}
 
 ===Etymology===
-From {{af|sk|slovo|-ník}}. Compare {{cog|cs|slovník}}, {{cog|pl|słownik}}, {{cog|uk|словник}}.
+From {{suf|sk|slovo<t:word>|ník}}. Compare {{cog|cs|slovník}}, {{cog|pl|słownik}} and {{cog|uk|словни́к}}.
 
 ===Pronunciation===
 * {{sk-IPA}}
 
 ===Noun===
-{{sk-noun|m-in|gen=slovníka|pl=slovníky|genpl=slovníkov|decl=dub}}
+{{sk-noun|m-in|adj=slovníkový|dim=slovníček}}
 
 # [[dictionary]]
 #: {{syn|sk|lexikón}}
@@ -62,7 +55,13 @@ From {{af|sk|slovo|-ník}}. Compare {{cog|cs|slovník}}, {{cog|pl|słownik}}, {{
 #: {{syn|sk|[[slovný|slovná]] [[zásoba]]}}
 
 ====Declension====
-{{sk-decl-noun|slovník|slovníka|slovníku|slovník|slovníku|slovníkom|slovníky|slovníkov|slovníkom|slovníky|slovníkoch|slovníkmi}}
+{{sk-ndecl|m-in}}
+
+====Derived terms====
+{{col-auto|sk|slovnikár|Wikislovník}}
+
+====Related terms====
+{{col-auto|sk|sloveso|slovný|slovo|slovosled}}
 
 ===Further reading===
 * {{R:sk:SDK}}
