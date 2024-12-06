@@ -61,6 +61,7 @@ From {{inh|gl|roa-opt|doze}}, from {{inh|gl|la|duodecim}}.
 * {{l|gl|ducia}}
 
 ===Etymology 2===
+{{etymon|gl|inh|roa-opt>doce>sweet|id=sweet}}
 From {{inh|gl|roa-opt|doce}}, from {{inh|gl|la|dulcis|t=sweet}}.
 [[File:VI festa da filloa da pedra e V Certame de Cociña de Filloas da Pedra. A Baña. Galiza.jpg|thumb|''Doces'' (''confections'')]]
 
@@ -85,10 +86,6 @@ From {{inh|gl|roa-opt|doce}}, from {{inh|gl|la|dulcis|t=sweet}}.
 # [[sweet]] ([[candy]]), [[confection]]
 
 ====References====
-* {{R:gl:DDGM}}
-* {{R:gl:DDGM|doze}}
-* {{R:gl:CX}}
-* {{R:gl:CX|doze}}
 * {{R:gl:DDLG}}
 * {{R:gl:TILG}}
 * {{R:TLPGP}}
@@ -127,34 +124,39 @@ From {{inh|gl|roa-opt|doce}}, from {{inh|gl|la|dulcis|t=sweet}}.
 ==Old Galician-Portuguese==
 
 ===Alternative forms===
-* {{l|roa-opt|doçe}}
+* {{alt|roa-opt|doçe}}
 
 ===Etymology===
+{{etymon|roa-opt|inh|la>dulcis>sweet|id=sweet}}
 From {{inh|roa-opt|la|dulcem}}, accusative of {{m|la|dulcis|t=sweet}}.
 
 ===Pronunciation===
-* {{IPA|roa-opt|/ˈdo.t͡se/}}
+* {{IPA|roa-opt|/ˈdot͡se/}}
+* {{rhyme|roa-opt|ot͡se|s=2}}
+* {{hyph|roa-opt|do|ce}}
 
 ===Adjective===
-{{head|roa-opt|adjective|plural|doces}}
+{{roa-opt-adj|mf}}
 
-# {{l|en|sweet}}
-#* {{roa-opt-cite-cantigas|E|278|http://www.pbm.com/~lindahl/cantigas/facsimiles/E/498small.gif}}
-#*: {{...}} que ſon mais '''doceſ''' ca mel {{...}}
-#*:: {{...}} which are '''sweet'''er than honey {{...}}
+# [[sweet]]
+#* {{RQ:roa-opt:Cantigas de Santa Maria|E|278|http://www.pbm.com/~lindahl/cantigas/facsimiles/E/498small.gif|text={{...}} que ſon mais '''doceſ''' ca mel {{...}}|t={{...}} which are '''sweet'''er than honey {{...}}}}
 
 ====Descendants====
+* {{desc|fax|doci}}
 * {{desc|gl|doce}}
-* {{desc|mwl|doce}}
-* {{desc|pt|doce}}
-** {{desc|mzs|dóci}}
-** {{desc|pap|dushi|unc=1}}
-** {{desc|cri|dochi}}
+* {{desc|pt|doce}} {{see desc}}
+
+===References===
+* {{R:roa-opt:DDGM}}
+* {{R:roa-opt:CX}}
 
 ==Portuguese==
 
 ===Etymology===
-From {{inh|pt|roa-opt|doce}}, from {{inh|pt|la|dulcis|dulcem|t=sweet}}. Compare {{cog|scn|duci}}.
+{{etymon|pt|inh|roa-opt>doce>sweet|id=sweet}}
+From {{inh|pt|roa-opt|doce}}, from {{inh|pt|la|dulcis|dulcem|t=sweet}}. {{doublet|pt|Dulce}}.
+
+Compare {{cog|gn|doce}} and {{cog|scn|duci}}.
 
 ===Pronunciation===
 {{pt-IPA|dôce}}
@@ -172,6 +174,8 @@ From {{inh|pt|roa-opt|doce}}, from {{inh|pt|la|dulcis|dulcem|t=sweet}}. Compare 
 
 ====Descendants====
 * {{desc|mzs|dóci}}
+* {{desc|pap|dushi|unc=1}}
+* {{desc|cri|dochi}}
 
 ===Noun===
 {{pt-noun|m}}
@@ -186,7 +190,7 @@ From {{inh|pt|roa-opt|doce}}, from {{inh|pt|la|dulcis|dulcem|t=sweet}}. Compare 
 {{col-auto|pt|adoçado|adoçar|adocicado|adocicar|doçaria|doceiro}}
 
 ====Descendants====
-* {{desc|hrx|Doss}}
+* {{desc|hrx|Doss|bor=1}}
 
 ===Further reading===
 * {{R:pt:Priberam}}
