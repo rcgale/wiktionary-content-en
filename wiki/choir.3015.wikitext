@@ -5,7 +5,7 @@
 [[File:Evensong in York Minster.jpg|thumb|350px|right|A cathedral '''choir'''.]]
 
 ===Etymology===
-From {{inh|en|enm|quer}}, {{m|enm|quere}}, from {{der|en|fro|quer}}, from {{der|en|la|chorus}}, from {{der|en|grc|χορός||company of dancers or singers}}. Modern spelling influenced by {{m|en|chorus}} and {{m+|fr|chœur}}. {{doublet|en|quire|chorus|hora}}.
+From {{inh|en|enm|quer}}, {{m|enm|quere}}, from {{der|en|fro|quer}}, from {{der|en|la|chorus}}, from {{der|en|grc|χορός||company of dancers or singers}}. Modern spelling influenced by {{m|en|chorus}} and {{m+|fr|chœur}}. {{doublet|en|quire|id1=architecture|chorus|hora}}.
 
 ===Pronunciation===
 * {{IPA|en|/kwaɪə(ɹ)/|a=UK|/kwa(ɹ)/|qq2=rapid speech}}<ref group="en-ref" name="PoCudzemu45" />
@@ -20,17 +20,17 @@ From {{inh|en|enm|quer}}, {{m|enm|quere}}, from {{der|en|fro|quer}}, from {{der|
 {{en-noun}}
 
 # A [[group]] of people who [[sing]] together; a [[company]] of people who are [[train]]ed to sing together.
-#: {{alti|en|quire|q=archaic}}
+#: {{alti|en|quire<id:architecture>|q=archaic}}
 #: {{ux|en|The church '''choir''' practices Thursday nights.}}
 #* {{RQ:Maxwell Mirror and the Lamp|chapter=5|passage=Then everybody once more knelt, and soon the blessing was pronounced. The '''choir''' and the clergy trooped out slowly, [&hellip;], down the nave to the western door. [&hellip;] At a seemingly immense distance the surpliced group stopped to say the last prayer.}}
-# {{lb|en|architecture}} {{uncommon form|en|quire||one quarter of a cruciform church, or the architectural area of a church used by the choir, often near the apse}}
+# {{lb|en|architecture}} {{uncommon form|en|quire|id=architecture||one quarter of a cruciform church, or the architectural area of a church used by the choir, often near the apse}}
 #* {{RQ:Maxwell Mirror and the Lamp|chapter=5|passage=Here, in the transept and '''choir''', where the service was being held, one was conscious every moment of an increasing brightness; colours glowing vividly beneath the circular chandeliers, and the rows of small lights on the choristers' desks flashed and sparkled in front of the boys' faces, deep linen collars, and red neckbands.}}
 # {{qualifier|Christian [[angelology]]}} One of the nine [[rank]]s or [[order]]s of [[angel]]s.
 #: {{ux|en|Seraphim, Cherubim, and Thrones are three of the '''choirs''' of angels.}}
 # Set of strings (one per note) for a [[harpsichord]].
 
 ====Usage notes====
-* Although {{m|en||choir}} and {{m|en|quire}} originated as two spellings of the same word, they have gradually diverged in meaning in modern English.
+* Although {{m|en||choir}} and {{m|en|quire|id=architecture}} originated as two spellings of the same word, they have gradually diverged in meaning in modern English.
 
 ====Derived terms====
 {{col-auto|en|antechoir|antichoir|choirboy|choirchild|choirgirl|choirleader|choirless|choirlike|choirman|choirmaster|choirmate|choirmistress|choirstall|choirwise|polychoir|retrochoir|chorister|Nikon choir|choir boy|choir organ|choir school|choir screen|dawn choir|join the choir invisible|preach to the choir|brass choir}}
@@ -38,7 +38,7 @@ From {{inh|en|enm|quer}}, {{m|enm|quere}}, from {{der|en|fro|quer}}, from {{der|
 ====Related terms====
 * {{l|en|choral}}
 * {{l|en|chorus}}
-* {{l|en|quire}}
+* {{l|en|quire|id=architecture}}
 
 ====Translations====
 {{trans-top|singing group}}
@@ -157,9 +157,10 @@ From {{inh|en|enm|quer}}, {{m|enm|quere}}, from {{der|en|fro|quer}}, from {{der|
 {{trans-bottom}}
 
 ===Verb===
-{{en-verb|pres_3sg2=quires|pres_ptc2=quiring|past2=quired}}
+{{en-verb}}
 
 # {{lb|en|intransitive}} To sing in concert.
+#: {{alti|en|quire<id:architecture>|q=poetic}}
 #* {{quote-text|en|year=1859|title=The Presbyterian Magazine|volume=9|page=423
 |passage=The great aim of this book is to secure congregational singing, which the churches must come to, at last, after a long interval of '''choiring'''.}}
 
