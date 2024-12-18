@@ -63,8 +63,13 @@ Partially displaced native English {{m|en|onefold}}.
 #: {{syn|en|basic|plain|uncomplex|uncomplicated}}
 #: {{ant|en|complex|compound|complicated}}
 ## {{lb|en|chemistry|pharmacology}} Consisting of one [[single]] substance; [[uncompounded]].
-## {{lb|en|mathematics|algebra|of an [[algebraic structure]]}} [[indecomposable|Indecomposable]] (via [[direct sum]]s): such that the [[kernel]] of any [[homomorphism]] (with domain the object in question) either contains only a single element or contains the whole structure. ''Thus a [[group]] is simple if it has no [[nontrivial]] [[proper]] [[normal subgroup]]s; a [[ring]] is simple if it contains no nontrivial [[two-sided ideal]]s; a [[module]] is simple if it contains no nontrivial proper [[submodule]]s; etc.
-## {{lb|en|algebra|of a [[semigroup]]}} Having no nontrivial [[ideal]]s.
+## {{lb|en|algebra|loosely|of an [[algebraic structure]]}} Being non-[[trivial]], and admitting no [[proper]] non-[[trivial]] [[quotient|quotients]].
+### {{lb|en|[[group theory]]|of a [[group]]}} Being non-[[trivial]], and having no [[proper]] non-trivial [[normal subgroup|normal subgroups]]. 
+### {{lb|en|algebra|of a [[semigroup]]}} Being non-[[trivial]] and having no [[proper]] non-trivial [[ideal|ideals]].
+### {{lb|en|[[module theory]]|of a [[module]]}} Being non-[[trivial]], and having no [[proper]] non-trivial [[submodule|submodules]]. 
+### {{lb|en|[[ring theory]]|of a [[ring]]}} Being non-[[zero]], and having no [[proper]] non-zero [[two-sided ideal|two-sided ideals]]. For [[commutative]] rings, this definition coincides with that of a [[field]].
+### {{lb|en|[[universal algebra]]|of an [[algebraic structure]]}} Containing more than one [[element]], and such that the only [[congruence|congruences]] on the structure are the [[diagonal relation]] (the [[equivalence relation]] <math>a \equiv b \iff a = b</math>) and the [[universal relation]] (the equivalence relation such that <math>a \equiv b</math> for all <math>a, b</math>).
+### {{lb|en|[[category theory]]|of an [[object]] in a [[category]] with a [[terminal object]]}} Being non-[[isomorphic]] to the terminal object, and such that its only [[quotient object|quotient objects]] (up to [[isomorphism]]) are the terminal object and itself.
 ## {{lb|en|mathematics|[[real analysis]]|[[measure theory]]|of a [[real-valued]] [[function]]}} Equal to a finite [[linear combination]] of [[indicator function]]s on [[measurable set]]s.
 ## {{lb|en|botany}} Not [[compound]], but possibly [[lobed]].
 ## Using [[steam]] only once in its [[cylinders]], in contrast to a [[compound]] engine, where steam is used more than once in [[high-pressure]] and [[low-pressure]] cylinders. {{q|of a steam engine}}
