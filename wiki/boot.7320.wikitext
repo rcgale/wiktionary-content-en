@@ -596,7 +596,7 @@ From {{inh|af|nl|boot}}.
 ==Dutch==
 
 ===Etymology===
-From {{inh|nl|dum|boot}}, from {{der|nl|enm|bot|t=boat, ship}}, from {{der|nl|ang|bāt}}, from  {{der|nl|gmw-pro|*bait}}, from {{der|nl|gem-pro|*baitaz}}.
+From {{inh|nl|dum|boot|g=m}}, from {{der|nl|enm|bot|t=boat, ship}}, from {{der|nl|ang|bāt}}, from  {{der|nl|gmw-pro|*bait}}, from {{der|nl|gem-pro|*baitaz}}.
 
 ===Pronunciation===
 * {{IPA|nl|/boːt/|q2=Belgium|[boːt]|q3=Netherlands|[boʊ̯t]|q4=Holland also|[bɔu̯t]}}
@@ -606,12 +606,16 @@ From {{inh|nl|dum|boot}}, from {{der|nl|enm|bot|t=boat, ship}}, from {{der|nl|an
 * {{rhymes|nl|oːt|s=1}}
 
 ===Noun===
-{{nl-noun|m|-en|+}}
+{{nl-noun|m|g2=f|-en|+}}
 
 # [[boat]]
 #: {{ux|nl|We gaan dit weekend varen op onze nieuwe '''boot'''.|We're going boating on our new '''boat''' this weekend.}}
 #: {{ux|nl|De vissers gebruikten hun kleine '''bootjes''' om de zee op te gaan.|The fishermen used their small '''boats''' to go out to sea.}}
 #: {{ux|nl|Het eiland is alleen bereikbaar per '''boot''' of per helikopter.|The island is only accessible by '''boat''' or helicopter.}}
+
+====Usage notes====
+The original gender dating from Middle Dutch is masculine, still preserved in southern regiolects. In the 17th century, ''boot'' was predominantly considered neuter in northern Dutch (possibly influenced by German), and in the 18th century the feminine gender was generalised in written language.<br>
+An obsolete plural is ''boots''.
 
 ====Synonyms====
 * {{l|nl|schip}}
@@ -644,6 +648,9 @@ From {{inh|nl|dum|boot}}, from {{der|nl|enm|bot|t=boat, ship}}, from {{der|nl|an
 ** {{desc|jvn|boṭo|bor=1}}
 ** {{desc|arw|botu|bor=1}}
 ** {{desc|srm|bóto|bor=1}}
+
+===References===
+* {{R:WNT|M010325}}
 
 {{C|nl|Watercraft}}
 
