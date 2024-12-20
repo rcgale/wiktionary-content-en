@@ -36,13 +36,13 @@ From {{der|fo|non|annarr}}, from the {{der|fo|gem-pro|*anþeraz}}; whence also E
 From {{inh|is|non|annarr}}, from the {{inh|is|gem-pro|*anþeraz}}; whence also English {{m|en|other}}.
 
 ====Pronoun====
-{{head|is|pronoun|feminine|önnur|neuter|annað}}
+{{is-adj|@@:pronoun|pos=pronouns}}
 
 # [[other]], [[another]], [[else]]
 
 =====Declension=====
 Follows a regular strong adjectival declension, except for masculine accusative ''annan'' instead of *''aðran'', neuter ''annað'' instead of *''annart'' and exhibiting the Old Norse sound change ''-nnr-'' > ''-ðr-''.
-{{is-decl-adj-annar}}
+{{is-adecl|irreg|id=pronoun}}
 
 =====Derived terms=====
 * {{l|is|eins og hver annar}}
@@ -50,12 +50,13 @@ Follows a regular strong adjectival declension, except for masculine accusative 
 
 ====Adjective====
 {{number box|is}}
-{{is-adj/old}}
+{{is-adj|@@:ordinal}}
 
 # {{cln|is|ordinal numbers}} [[second]]
 
 =====Declension=====
-As pronoun (see above).
+As above.
+{{is-adecl|irreg|id=ordinal}}
 
 ===Etymology 2===
 
@@ -63,6 +64,8 @@ As pronoun (see above).
 {{head|is|verb form}}
 
 # {{verb form of|is|anna||2s|pres|ind|;|3s|pres|ind}}
+
+===Etymology 3===
 
 ====Noun====
 {{head|is|noun form}}
