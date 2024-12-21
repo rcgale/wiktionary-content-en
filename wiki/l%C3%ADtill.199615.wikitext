@@ -14,7 +14,10 @@ From {{inh|is|non|lítill}}, from {{der|is|gem-pro|*lītilaz}}. Cognate with {{c
 # [[little]], [[insignificant]]
 
 ====Declension====
-{{is-adecl|con.vstem:litil.str_acc_m:lítinn.str_nom_n:lítið.comp:minni.comp_wk_m+comp_wk_f:minni:minnu[when functioning as a noun].comp_wk_n:minna:minnu[when functioning as a noun].sup:minnstur}}
+{{is-adecl
+|con.vstem:litil.str_acc_m:lítinn.str_nom_n:lítið.comp:minni.comp_wk_m+comp_wk_f:minni:minnu[when functioning as a noun].comp_wk_n:minna:minnu[when functioning as a noun].sup:minnstur
+|deriv=con.vstem:litil.str_acc_m:lítinn.str_nom_n:lítið.comp:minni.sup:minnstur
+}}<!-- derivs don't have the equivalent of [[minnu]] -->
 
 ====Derived terms====
 {{der-top}}
