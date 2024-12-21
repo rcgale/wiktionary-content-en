@@ -15,6 +15,9 @@ From {{inh|is|non|einn}}, from {{inh|is|gem-pro|*ainaz}}, from {{inh|is|ine-pro|
 
 # [[one]]
 
+====Declension====
+{{is-adecl|-comp.str_nom_n:eitt.str_acc_m:einn|id=one}}
+
 ===Pronoun===
 {{head|is|pronoun|cat2=indefinite pronouns}}
 
@@ -22,14 +25,15 @@ From {{inh|is|non|einn}}, from {{inh|is|gem-pro|*ainaz}}, from {{inh|is|ine-pro|
 #: {{syn|is|einhver|maður}}
 
 ===Adjective===
-{{is-adj/old}}
+{{is-adj|@@:alone}}
 
 # [[alone]]
 #: {{syn|is|aleinn|einsamall}}
 #* {{quote-journal|is|journal=Sunnanfari; mánaðarblað með myndum|year=1894|text=Ég er '''einn''', svo óttalega '''einn'''.|t=I am '''alone''', so terribly '''alone'''.|page=20|volume=IV|issue=3|author=Sigfús B. Blöndal|title=Skapbrigði (sex kvæði frá ýmsum tímum)}}
 
 ====Declension====
-{{is-decl-einn}}
+* Note the difference in declension between {{m|is|einn}} in the meaning "one", with accusative masculine singular {{m|is||einn}}, and "alone", with accusative masculine singular {{m|is||einan}}.
+{{is-adecl|comp.sup.str_nom_n:eitt|id=alone}}
 
 ====Derived terms====
 {{der-top3}}
