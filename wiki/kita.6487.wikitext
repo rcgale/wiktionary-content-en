@@ -387,11 +387,19 @@ From {{inh|ms|poz-mly-pro|*kita(ʔ)}}, from {{inh|ms|poz-pro|*(i-)kita}}, from {
 ===Pronoun===
 {{ms-pronoun|j=کيت}}
 
-# [[we]], [[us]], [[our]] {{qualifier|inclusive of the person spoken to}}
-# [[I]], [[me]], [[my]]
+# [[we]], [[us]] {{qualifier|inclusive of the person spoken to}}
+#: {{ant|ms|kami}}
+# {{lb|ms|informal}} [[we]], [[us]] {{qualifier|exclusive of the person spoken to}}
+#: {{syn|ms|kita orang|kami}}
+# {{lb|ms|informal}} [[I]], [[me]]
+#: {{syn|ms|saya|aku}}
+# {{lb|ms|archaic}} [[you]]
+# {{lb|ms|Brunei|humble}} [[you]] {{gloss|singular}}
 
 ====Derived terms====
-* {{l|ms|kekitaan}}
+{{der2|ms
+| kekitaan
+}}
 
 ====Descendants====
 * {{desc|id|kita}}
@@ -399,8 +407,10 @@ From {{inh|ms|poz-mly-pro|*kita(ʔ)}}, from {{inh|ms|poz-pro|*(i-)kita}}, from {
 * {{desc|max|kita|t=I|q1=first person singular personal pronoun}}
 
 ===See also===
-* {{l|ms|kami|gloss=exclusive of the person spoken to}}
 {{ms-personal pronouns}}
+
+===Further reading===
+* {{R:PRPM}}
 
 ===Anagrams===
 {{anagrams|ms|ikat|tika}}
