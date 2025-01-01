@@ -73,33 +73,36 @@ From {{bor|ha|en|team}}.
 ==Indonesian==
 
 ===Pronunciation===
-* {{IPA|id|[ˈtɪm]}}
-* {{hyphenation|id|tim}}
+{{id-pr}}
 
 ===Etymology 1===
-From {{bor|id|nl|team}}, from {{der|id|en|team}}, from {{der|id|enm|teme}}, from {{der|id|ang|tēam||child-bearing, offspring, [[brood]], set of draught animals}}, from {{der|id|gem-pro|*taumaz||that which draws or pulls}}, from {{der|id|gem-pro|*taugijaną}}, {{m|gem-pro|*tugōną}}, {{m|gem-pro|*teuhōną}}, {{m|gem-pro|*teuhaną||to lead, bring, pull, draw}}, from {{der|id|ine-pro|*dewk-||to pull, lead}}.
+{{dercat|id|enm|ang|gem-pro|ine-pro}}
+From {{bor|id|nl|team}}, from {{der|id|en|team}}, from {{der|id|enm|teme}}.
 
 ====Noun====
-{{id-noun|head=}}
+{{id-noun}}
 
-# [[team]], any group of people involved in the same activity, especially sports or work.
-#: {{syn|id|kelompok|regu}}
+# [[team]] {{gl|any group of people involved in the same activity, especially sports or work}}
+#: {{syn|id|regu}}
 
 ===Etymology 2===
-* From {{bor|id|en|steam}}, from {{der|id|enm|steem}}, {{m|enm|stem}}, from {{der|id|ang|stēam||steam, hot exhalation, hot breath; that which emits vapour; blood}}, from {{der|id|gem-pro|*staumaz||steam, vapour, breath}}, from {{der|id|ine-pro|*dʰew-||to whirl, waft, stink, shake; steam, haze, smoke}}.
-* From {{bor|id|nan-hbl|-}} {{zh-l|𤆤|tr=tīm}} or {{zh-l|燖|tr=tīm}} or {{zh-l|𤌯|tr=tīm}}.
+From {{bor|id|nan-hbl|-}} {{zh-l|𤆤|tr=tīm}}.
 
 ====Verb====
-{{id-verb|head=}}
+{{head|id|verb|active|mengetim|passive|ditim}}
 
-# to [[steam]] {{gloss|cook with steam}}
-#: {{syn|id|mengetim}}
+# to [[steam]] {{gl|to cook with steam, especially of a Chinese cooking}}
+#: {{syn|id|kukus}}
+
+====Adjective====
+{{id-adj}}
+
+# [[steamed]] {{gl|cooked by steaming}}
 
 =====Derived terms=====
-{{der4|id|
-| mengetim
-| pengetim
-| pengetiman
+{{col-auto|id
+|pengetim|t1=steamer
+|pengetiman|t2=steaming
 }}
 
 ===Etymology 3===
@@ -107,7 +110,7 @@ From {{bor|id|nl|team}}, from {{der|id|en|team}}, from {{der|id|enm|teme}}, from
 ====Noun====
 {{id-noun}}
 
-# {{nonstandard spelling of|id|tin}}
+# {{ns form|id|tin}}
 
 ===Further reading===
 * {{R:KBBI Daring}}
