@@ -124,7 +124,7 @@ From {{der|en|fr|are}}.
 * Ottoman Turkish: {{t|ota|آر}}
 * Polish: {{t+|pl|ar|m-in}}
 * Portuguese: {{t+|pt|are|m}}
-* Romanian: {{t+|ro|ar|n}}
+* Romanian: {{t+|ro|ar|m}}
 * Russian: {{t+|ru|ар|m}}
 * Slovak: {{t|sk|ár|m}}
 * Spanish: {{t+|es|área|f}}
@@ -158,7 +158,7 @@ Sometimes used deliberately as a form of [[classist]] humour, as a mocking imita
 ===Anagrams===
 * {{anagrams|en|a=aer|'ear|ear|Rea|rea|EAR|REA|aer-|ReA|aër-|Aer|ERA|era|Rae}}
 
-{{cln|en|auxiliary verb forms|heteronyms|irregular verb forms|three-letter words}}
+{{cln|en|auxiliary verb forms|heteronyms|irregular verb forms|3-letter words}}
 
 ==Basque==
 
@@ -185,11 +185,11 @@ Borrowed from {{bor|nl|fr|are}}, from {{der|nl|la|ārea}}.
 ===Pronunciation===
 * {{IPA|nl|/ˈaː.rə/}}
 * {{audio|nl|Nl-are.ogg}}
-* {{hyphenation|nl|are}}
+* {{hyph|nl|are}}
 * {{rhyme|nl|aːrə}}
 
 ===Noun===
-{{nl-noun|f|aren|pl2=ares|-}}
+{{nl-noun|f|-en|pl2=-s|-}}
 
 # {{l|en|are}}, a [[unit]] of [[surface]] [[area]]
 
@@ -242,11 +242,7 @@ From {{bor|id|nl|are}}, from {{der|id|fr|are}}, from {{der|id|la|ārea}}. {{doub
 # {{l|en|are}}: an SI unit of area equal to 100 square metres, or a former unit of approximately the same extent.
 
 ====Related terms====
-{{col4|id|
-| area
-| areal
-| hektare
-}}
+{{col4|id||area|areal|hektare}}
 
 ===Further reading===
 * {{R:KBBI Daring}}
@@ -262,7 +258,7 @@ Variant of {{m|it|aere}}.
 ====Noun====
 {{it-noun|m}}
 
-# {{tlb|it|archaic}} {{alt form|it|aere}}
+# {{archaic form of|it|aere}}
 
 ===Etymology 2===
 {{nonlemma}}
@@ -351,7 +347,7 @@ Variant of {{m|it|aere}}.
 ====Verb====
 {{head|enm|verb form}}
 
-# {{alternative form of|enm|aren}}
+# {{alt form of|enm|aren}}
 
 [[Category:West Midland Middle English]]
 [[Category:Kentish Middle English]]
@@ -470,29 +466,36 @@ From {{inh|ofs|gmw-pro|*auʀā}}, from {{inh|ofs|gem-pro|*ausô}}.
 
 ==Romanian==
 
-===Etymology===
-Cf. {{cog|la|habēret}}, {{m|la|habuerit}}. Compare {{cog|rup|ari}}. See also {{cog|ro|ar}}, used in a periphrastic construction of the conditional.
-
 ===Pronunciation===
-* {{IPA|ro|/ˈare/}}
+* {{IPA|ro|/ˈa.re/}}
 * {{audio|ro|LL-Q7913 (ron)-Andreea Teodoraa-are.wav}}
 * {{rhymes|ro|are|s=2}}
 * {{hyph|ro|a|re}}
 
-===Verb===
-{{head|ro|verb form}}
+===Etymology 1===
+Compare {{cog|la|habēret}}, {{m|la|habuerit}}. Compare {{cog|rup|ari}}. See also {{m|ro|ar}}, auxiliary used in a periphrastic construction of the conditional.
 
-# {{verb form of|ro|avea||3s|pres|ind}}
+====Verb====
+{{h|ro|verb form}}
 
-====See also====
+# {{infl of|ro|avea||t=to have|3s|ind|pres}}
+
+=====See also=====
 * {{l|ro|a}}
+
+===Etymology 2===
+
+====Verb====
+{{h|ro|verb form}}
+
+# {{infl of|ro|ara|t=to plow||3|s//p|subj|pres}}
 
 ==Scots==
 
 ===Etymology===
-From {{inh|sco|enm|are}}, from {{inh|sco|ang|ār|t=honor, worth, dignity}}, from {{inh|sco|gmw-pro|*aiʀu}}, from {{inh|sco|gem-pro|*aizō|t=respect, honour}}, from {{m|gem-pro|*ais-|t=to honour, respect, revere}}. 
+From {{inh|sco|enm|are}}, from {{inh|sco|ang|ār|t=honor, worth, dignity}}, from {{inh|sco|gmw-pro|*aiʀu}}, from {{inh|sco|gem-pro|*aizō|t=respect, honour}}, from {{m|gem-pro|*ais-||to honour, respect, revere}}. 
 
-Cognate with {{cog|nl|eer|t=honour, credit}}, {{cog|de|Ehre|t=honour, glory}}, {{cog|la|erus|t=master, professor}}.
+Cognate with {{cog|nl|eer||honour, credit}}, {{cog|de|Ehre||honour, glory}}, {{cog|la|erus||master, professor}}.
 
 ===Noun===
 {{sco-noun|-}}
