@@ -14,14 +14,21 @@ From {{der|en|fa|آذربایجان|tr=âzarbâyjân}}, from {{der|en|ar|أَذ�
 ===Proper noun===
 {{en-proper noun}}
 
-# {{senseid|en|Q227}}{{place|en|country|r/South Caucasus|cont/Asia,Europe|official=Republic of Azerbaijan|capital=Baku}}.
-#: {{syn|en|North Azerbaijan}}
-# {{senseid|en|Q274536}}{{place|en|region|in northwestern|c/Iran}}.
+# {{senseid|en|Q274536}}{{lb|en|original sense}} {{place|en|region|in northwestern|c/Iran|where ancient [[Atropatene]] was located}}.
 #: {{syn|en|Iranian Azerbaijan|South Azerbaijan<q:politically loaded>}}
+#* {{quote-book|en|year=1830|page=206|title=The life of Sheikh Mohammad Ali Hazin|passage=Tahmâsb Coli Khân went to '''Azerbâïjân''', and having liberated its capital, Tabriz, {{…}}}}
+#* {{quote-book|en|year=1886|title=Works Issued by the Hakluyt Society|page=clxi|passage=Among these were '''Azerbaijan''' and Shirvan, where disorders had freshly broken out, {{…}}}}
+# {{senseid|en|Q227}}{{century|20}} {{place|en|country|r/South Caucasus|cont/Asia,Europe|official=Republic of Azerbaijan|capital=Baku}}.
+#: {{syn|en|Caucasian Azerbaijan|North Azerbaijan}}
+#: {{near-synonyms|en|Shirvan<q:historical>}}
 
 ====Derived terms====
-* {{l|en|East Azerbaijan}}
-* {{l|en|West Azerbaijan}}
+{{col|en|Caucasian Azerbaijan
+|East Azerbaijan
+|North Azerbaijan
+|South Azerbaijan
+|West Azerbaijan
+}}
 
 ====Related terms====
 {{col|en
@@ -32,6 +39,9 @@ From {{der|en|fa|آذربایجان|tr=âzarbâyjân}}, from {{der|en|ar|أَذ�
 }}
 
 ====Translations====
+{{trans-top|id=Q274536|region}}
+{{trans-bottom}}
+
 {{trans-top|id=Q227|country}}
 * Abaza: {{t|abq|Азербайджан}}
 * Abkhaz: {{t|ab|Азербаиџьан}}
