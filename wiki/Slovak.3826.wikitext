@@ -292,26 +292,37 @@ From {{der|sh|sk|Slovák}}.
 ==Slovene==
 
 ===Etymology===
-From {{der|sl|sk|Slovák}}.
+{{bor+|sl|sk|Slovák}}.
 
 ===Pronunciation===
 * {{sl-IPA|Slovák}}
+* {{rhymes|sl|àːk|s=2}}
+* {{hyph|sl|Slo|vak}}
 
 ===Noun===
 {{sl-noun|Slovák|m-an|f=Slovákinja}}
 
-# [[#English|Slovak]], [[Slovakian]] (male person)
+# {{l|en|Slovak}}, [[Slovakian]]
 
-====Inflection====
-{{sl-decl-noun-m|Slovák|a=1}}
+====Declension====
+{{sl-infl-noun
+|||Slovák||stemtone=c
+|gender=m
+|declension type=1
+|accent=1
+|animate?=an
+|genpl=[[Slovákov]], [[Slovȃkov]]
+|locpl=[[Slovákih]], [[Slovȃkih]]
+|inspl=[[Slováki]], [[Slovȃki]]
+}}
 
 ====Related terms====
-* {{l|sl|Slováška}}
-* {{l|sl|slováški}}
-* {{l|sl|slováščina}}
+{{col|sl|title=adjectives|slovȃški}}
+{{col|sl|title=nouns|slováščina<g:f>}}
+{{col|sl|title=proper nouns|Slovȃška<g:f>}}
 
 ===Further reading===
-{{R:sl:FR}}
+* {{R:sl:FR}}
 
 {{C|sl|Male people|Nationalities}}
 
