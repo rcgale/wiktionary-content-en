@@ -36,7 +36,7 @@ From {{inh|en|enm|midnight}}, from {{inh|en|ang|midniht}}, from {{inh|en|gem-pro
 
 ====Translations====
 {{trans-top|middle of the night}}
-* Arabic: {{t|ar|مُنْتَصَف اَللَّيْل|m}}
+* Arabic: {{t|ar|مُنْتَصَف لَيْل|m}}, {{t|ar|مُنْتَصَف اللَّيْل|m}} {{qualifier|definite}}
 * Assyrian Neo-Aramaic: {{t|aii|ܦܲܠܓܵܐ ܕܠܲܝܠܹܐ|tr=pālga d-layle|m}}
 * Big Nambas: {{t|nmb|p'ət lihat}}
 * Bikol Central: {{t+|bcl|matanga}}
@@ -60,10 +60,10 @@ From {{inh|en|enm|midnight}}, from {{inh|en|ang|midniht}}, from {{inh|en|gem-pro
 * Hindi: {{t|hi|आधी रात|f}}, {{t+|hi|आधीरात|f}}, {{t+|hi|अधरात|f}}, {{t+|hi|मध्यरात|f}}, {{t+|hi|मध्यरात्रि|f}}
 * Hungarian: {{t+|hu|éjfél}}
 * Ingrian: {{t|izh|pooliöö}}, {{t|izh|syänöö}}
-* Japanese: {{t+|ja|夜中|tr=yonaka}}, {{t+|ja|真夜中|tr=mayonaka}}, {{t+|ja|夜半|tr=yahan}}
+* Japanese: {{t+|ja|夜中|tr=よなか, yonaka}}, {{t+|ja|真夜中|tr=まよなか, mayonaka}}, {{t+|ja|夜半|tr=やはん, yahan}}
 * Kapampangan: {{t|pam|kapitangang-bengi}}, {{t|pam|kapitnang-bengi}}
 * Karok: {{t|kyh|ikxarám'aachip}}
-* Korean: {{t+|ko|한밤중}}, {{t+|ko|한밤}}
+* Korean: {{t+|ko|한밤중}}, {{t+|ko|한밤}}, {{t+|ko|야밤}}, {{t+|ko|밤중}}
 * Kumyk: {{t|kum|гечорта|tr=geçorta}}
 * Latin: {{t|la|[[media]] [[nox]]|f}}, {{q|Medieval}} {{t|la|intempestum|n}}
 * Malayalam: {{t|ml|അർദ്ധരാത്രി}}
@@ -76,7 +76,7 @@ From {{inh|en|enm|midnight}}, from {{inh|en|ang|midniht}}, from {{inh|en|gem-pro
 * Spanish: {{t+|es|medianoche|f}}, {{t+|es|madrugada|f}}
 * Tagalog: {{t+|tl|hatinggabi}}
 * Turkish: {{t+|tr|gece yarısı}}
-* Urdu: {{t|ur|آدھی رات|f|tr=ādhī rāt}}
+* Urdu: {{t|ur|آدھی رات|f}}
 * Walloon: {{t+|wa|emey nute}}
 * Welsh: {{t+|cy|hanner nos}}, {{t+|cy|canol nos}}
 * Zazaki: {{t|zza|nimsew}}
@@ -158,7 +158,7 @@ From {{inh|en|enm|midnight}}, from {{inh|en|ang|midniht}}, from {{inh|en|gem-pro
 * Irish: {{t|ga|meán oíche|f}}
 * Istriot: {{t|ist|miezanuotto}}
 * Italian: {{t+|it|mezzanotte|f}}
-* Japanese: {{t|ja|[[午前]]0[[時]]|tr=gozen reiji}}, {{t+|ja|真夜中|tr=まよ​なか, mayonaka}}, {{t+|ja|正子|tr=しょうし, shōshi}}
+* Japanese: {{t|ja|[[午前]]0[[時]]|tr=ごぜんれいじ, gozen reiji}}, {{t+|ja|真夜中|tr=まよ​なか, mayonaka}}, {{t+|ja|正子|tr=しょうし, shōshi}}
 * Kabuverdianu: {{t|kea|meia-noti}}
 * Kalmyk: {{t|xal|сөөни өрәл}}, {{t|xal|сө дүл}}
 * Kannada: {{t+|kn|ಮಧ್ಯರಾತ್ರಿ}}
@@ -219,8 +219,8 @@ From {{inh|en|enm|midnight}}, from {{inh|en|ang|midniht}}, from {{inh|en|gem-pro
 * Occitan: {{t+|oc|mièjanuèch|f}}, {{t+|oc|mièjanuèit|f}}
 * Ossetian: {{t|os|ӕмби́сӕхсӕв}}
 * Papiamentu: {{t|pap|meyanochi}}
-* Pashto: {{t+|ps|نيمه شپه|f|tr=nímašpa}}
-* Persian: {{t+|fa|نیمه شب|tr=nime šab}}, {{t|fa|نیمه‌شب|tr=nime-šab}}, {{t|fa|نصف شب|tr=nesf-e šab}}
+* Pashto: {{t+|ps|نيمه شپه|f|tr=níma špa}}
+* Persian:
 *: Iranian Persian: {{t+|fa-ira|نیمِه‌شَب}}, {{t+|fa-ira|نیمِه شَب}}, {{t|fa-ira|نِصْفِ شَب}}
 * Piedmontese: {{t|pms|mesaneuit}}
 * Plains Cree: {{t|crk|ᐊᐱᐦᑕᑎᐱᐢᑲᐤ|tr=apihtatipiskaw}}
@@ -237,8 +237,8 @@ From {{inh|en|enm|midnight}}, from {{inh|en|ang|midniht}}, from {{inh|en|gem-pro
 * Scots: {{t|sco|midnicht}}
 * Scottish Gaelic: {{t|gd|meadhan-oidhche|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|по́ноћ|f|sc=Cyrl}}
-*: Roman: {{t|sh|pónoć|f|sc=Latn}}
+*: Cyrillic: {{t|sh|по́ноћ|f}}
+*: Roman: {{t|sh|pónoć|f}}
 * Shor: {{t|cjs|орта тӱн}}
 * Sicilian: {{t|scn|menzannòtti|f}}, {{t|scn|menzannùotti|f}} {{qualifier|Palermo dialect}}
 * Slovak: {{t|sk|polnoc|f}}
@@ -267,7 +267,7 @@ From {{inh|en|enm|midnight}}, from {{inh|en|ang|midniht}}, from {{inh|en|gem-pro
 * Turkmen: {{t|tk|ýary gije}}
 * Udmurt: {{t|udm|уйшор}}
 * Ukrainian: {{t+|uk|пі́вніч|f}}
-* Urdu: {{t|ur|آدھی رات|f|tr=ādhī rāt}}, {{t|ur|نصف شب|tr=nisf śab}}
+* Urdu: {{t|ur|آدھی رات|f}}, {{t|ur|نِصْفِ شَب|?}}
 * Uyghur: {{t|ug|يېرىم كىچە}}
 * Uzbek: {{t|uz|yarim kecha}}, {{t|uz|yarim tun}}
 * Venetan: {{t|vec|mezanote|f}}
