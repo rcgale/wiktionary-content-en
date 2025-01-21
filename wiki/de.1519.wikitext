@@ -1341,17 +1341,27 @@ From {{inh|nds|gml|de|dê}}, from {{inh|nds|osx|the|thē}}.
 * There is the only plural article and like English 'the' is used for nouns of every gender and class. Indefinite nouns in plural are used without article, again as in English.
 
 ====Declension====
-{| class="wikitable"
-|  || Sg. m. || Sg. f. || Sg. n. || Pl.
+{{inflection-table-top|title=-}}
+! rowspan="2" |
+! colspan="3" | singular
+! rowspan="2" | plural
 |-
-| Nom. || de  || de  || {{l|nds|dat}} || de
+! class="secondary" | masculine
+! class="secondary" | feminine
+! class="secondary" | neuter
 |-
-| Gen. || des || der ||  || der
+! nominative
+| de  || de  || {{l|nds|dat}} || de
 |-
-| Dat. || dem<br />den || der<br />de ||  || den
+! genitive
+| des || der ||  || der
 |-
-| Acc. || den || de || {{l|nds|dat}} || de
-|}
+! dative
+| dem<br />den || der<br />de ||  || den
+|-
+! accusative
+| den || de || {{l|nds|dat}} || de
+{{inflection-table-bottom}}
 
 ===Pronoun===
 {{head|nds|pronouns|g=m|g2=f|neuter|dat}}
