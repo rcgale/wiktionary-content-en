@@ -824,7 +824,7 @@ From {{inh|osx|gmw-pro|*karu}}. Cognate with {{cog|ang|caru}}, {{cog|goh|chara|t
 ==Turkish==
 
 ===Etymology 1===
-{{inh+|tr|ota|قره|tr=kara}}, from {{inh|tr|trk-pro|*kara|t=dark, black}}.
+{{inh+|tr|ota|قره|tr=kara}}, from {{inh|tr|trk-oat|قَرَه|tr=qara}}, from {{inh|tr|trk-pro|*kara|t=dark, black}}. Compare {{cog|az|qara}}, {{cog|gag|kara}}, {{cog|tk|gara}}, {{cog|uz|qora}}.
 
 ====Pronunciation====
 * {{IPA|tr|/kaˈɾa/}}
@@ -837,11 +837,13 @@ From {{inh|osx|gmw-pro|*karu}}. Cognate with {{cog|ang|caru}}, {{cog|goh|chara|t
 # [[black]], [[dark]]
 #: {{syn|tr|siyah}}
 #: {{ant|tr|ak|beyaz}}
-#: {{uxi|tr|'''kara''' büyü|[[black magic|'''black''' magic]]}}
+
 # [[brunette]]
 # [[dark]] [[skinned]]
 # {{lb|tr|figuratively}} [[evil]], [[wicked]], [[villainous]]
+#: {{uxi|tr|'''kara''' büyü|[[black magic|'''black''' magic]]}}
 # {{lb|tr|figuratively|archaic}} [[courageous]]
+# {{lb|tr|figurative}} [[sad]], [[woeful]], [[dark]]
 
 =====Declension=====
 {{tr-pred-v-adj|ı}}
@@ -855,11 +857,16 @@ From {{inh|osx|gmw-pro|*karu}}. Cognate with {{cog|ang|caru}}, {{cog|goh|chara|t
 # {{topics|tr|Colors}} [[black]]
 #: {{syn|tr|siyah}}
 #: {{ant|tr|ak}}
-# {{senseid|tr|land}} [[land]], [[field]]
-#: {{ant|tr|deniz}}
-#: {{uxi|tr|kara göründü!|[[land ahoy]]!}}
-#: {{uxi|tr|kara, deniz ve hava kuvvetleri|land, sea, and air forces}}
+# {{lb|tr|figurative}} [[slander]]
+#: {{syn|tr|iftira}}
 # {{lb|tr|archaic}} [[north]]
+# {{lb|tr|Samsun|Ordu}} [[fault]], [[mistake]]
+#: {{ux|tr|ben karamı söylüyorum inkâr etmiyorum|I tell my mistakes and do not deny them}}
+# {{lb|tr|Çorum}} [[gendarmerie]]
+# {{lb|tr|Konya}} [[key]]
+#: {{syn|tr|anahtar}}
+# {{lb|tr|Urfa}} a [[black]] person
+#: {{syn|tr|zenci|arap|siyahi}}
 
 =====Declension=====
 {{tr-infl-noun-v|a|poss=1}}
@@ -871,12 +878,37 @@ From {{inh|osx|gmw-pro|*karu}}. Cognate with {{cog|ang|caru}}, {{cog|goh|chara|t
 {{table:colors/tr}}
 
 ===Etymology 2===
+{{inh+|tr|ota|قاره|tr=kara}}, from {{der|tr|ar|قَارَّة}}.
+
+====Noun====
+{{tr-noun|yı|lar}}
+
+# {{senseid|tr|land}} [[land]], [[field]]
+#: {{ant|tr|deniz}}
+#: {{uxi|tr|kara göründü!|[[land ahoy]]!}}
+#: {{uxi|tr|kara, deniz ve hava kuvvetleri|land, sea, and air forces}}
+
+=====Declension=====
+{{tr-infl-noun-v|a|poss=1}}
+
+===Etymology 3===
 {{nonlemma}}
 
 ====Verb====
 {{head|tr|verb form}}
 
 # {{inflection of|tr|karmak||3s|opt}}
+
+===Etymology 4===
+
+====Noun====
+{{head|tr|noun}}
+
+# {{lb|tr|Artvin}} {{alt form of|tr|kere}}
+
+===Further reading===
+* {{R:tr:TDK}}
+* {{R:tr:DS|kara}}
 
 ==Veps==
 
