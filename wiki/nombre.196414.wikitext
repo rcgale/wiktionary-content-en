@@ -39,7 +39,7 @@
 ===Noun===
 {{ca-noun|m}}
 
-# [[number]], [[quantity]]
+# [[number]]; [[quantity]]
 
 ====Derived terms====
 {{col4|ca
@@ -63,8 +63,7 @@
 }}
 
 ====Related terms====
-* {{l|ca|nombrós}}
-* {{l|ca|numerari}}
+{{col|ca|nombrós|numerari}}
 
 ====See also====
 * {{l|ca|número}}
@@ -76,11 +75,11 @@
 * {{R:ca:DCVB}}
 
 ==French==
-{{wikipedia|lang=fr}}
+{{wp|lang=fr}}
 
 ===Etymology===
 {{dercat|fr|itc-pro|ine-pro|inh=1}}
-{{inh+|fr|fro|nombre}}, {{m|fro|nonbre}}, from {{inh|fr|la|numerus}}. {{doublet|fr|numéro}}.
+{{inh+|fr|frm|nombre}}, from {{inh|fr|fro|nombre}}, {{m|fro|nonbre}}, from {{inh|fr|la|numerus}}. {{doublet|fr|numéro}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -96,6 +95,7 @@
 {{fr-noun|m}}
 
 # [[number]]
+#* {{quote-book|fr|title=Histoire des paysans, depuis la fin du moyen âge jusqu'à nos jours : 1200-1850|trans-title=History of peasants, from the end of the Middle Ages to our own times: 1200-1850|author=w:fr:Eugène Bonnemère|location=Paris|publisher=F. Chamerot|year=1856|volume=2|page=447|text=Souvent deux familles prennent une ferme indivise, et les bénéfices sont partagés proportionnellement au '''nombre''' d’enfants et aux services qu’ils rendent.|t=Two families often set up an undivided farm, and the profits are shared in proportion to the '''number''' of children and to the work they do.}}
 
 ====Usage notes====
 The word {{m|fr|nombre}} refers to a quantity or a mathematical concept, e.g. a number of items in a set, real numbers, complex numbers, etc., while its doublet {{m|fr|numéro}} refers to a label made of digits, e.g. a rank, a jersey number, a phone number or a winning lottery number.
@@ -128,14 +128,32 @@ The word {{m|fr|nombre}} refers to a quantity or a mathematical concept, e.g. a 
 
 ==Ladino==
 
-===Etymology===
-{{dercat|lad|ine-pro|inh=1}}
-From {{inh|lad|osp|nomre}}, {{m|osp|nomne}}, {{inh|lad|la|nōmen}}.
+===Etymology 1===
+{{dercat|lad|itc-pro|ine-pro|inh=2}}
+{{inh+|lad|osp|nomre}}, {{m|osp|nomne}}, from {{inh|lad|la|nōmen}}.
 
-===Noun===
-{{lad-noun|g=m}}
+====Pronunciation====
+* {{audio|lad|lad-nombre.ogg|a=Türkiye}}
+
+====Noun====
+{{lad-noun|g=m|heb=נומברי}}<ref name="Folkmasa">{{R:lad:Folkmasa}}</ref>
 
 # [[name]]
+#* {{quote-book|lad|author=Salamon Bicerano|title=Relatos en lingua judeo-espanyola|url=https://books.google.com/books?id=n6wdAQAAIAAJ|publisher=Gözlem Gazetecilik Basın ve Yayın A.Ş.|year=1997|page=252|pageurl=https://books.google.com/books?id=n6wdAQAAIAAJ&q=sintiria|ISBN=9789757304302|text={{...}} en el kamino para ir a la inaugurasion de la Şara de Atatürk, kreyemos ke Demirel se sintiria komo en su kaza en bat‐Yam, onde el '''nombre''' de Atatürk tiene valor komo en Turkiya.|t=On the way to get to Şara de Atatürk’s inauguration, we believe that Demirel shall be heard as in his house on bat‐Yam, where Atatürk’s '''name''' carries weight as in Türkiye.}}
+#* {{quote-book|lad|author=Myriam Moscona, Jacobo Sefamí|coauthors=Martín Fierro, José Hernández|title=Por mi boka: Textos de la diáspora sefardí en ladino|url=https://books.google.com/books?id=9WkSAgAAQBAJ|publisher=Penguin Random House Grupo Editorial México|year=2013|page=222|pageurl=https://books.google.com/books?id=9WkSAgAAQBAJ&pg=PT222|ISBN=9786073119740|text=Ma, kuando se akodro ke el valiante Amadis no kedo satisfecho de yamarse solo “Amadis” i adjusto el '''nombre''' de su reynado i patria para darle fama, i se yamo “Amadis de Gaula”, I el kijo azer lo mizmo, komo un buen kavayero, adjustar al suyo el '''nombre''' de la suya, i yamarse “don Kishot de la Mancha”, ke asegun el, deklarava klaramente su linaje i patria, i la onorava en tomandola por alkunya.|t=Nevertheless, when {{q-g|someone}} remembered that the valiant Amadis was left unsatisfied in merely being called ‘Amadis’, {{q-g|he}} added the '''name''' of his kingdom and homeland to make himself famous, and he called himself ‘Amadis of Gaula’, and he kept repeating himself, like a good knight, adding to his '''name''' the name of his homeland, and calling himself ‘don Koshot de la Mancha’, as according to him, it was clearly declaring his lineage and homeland, and he was esteeming it in treating it like family.}}
+#* {{quote-journal|lad|title=Ko-Abitasyones|author=Eliz Gatenyo|date=2020-11-25|work=Şalom Gazetesi|url=https://www.salom.com.tr/arsiv/haber/116659/koabitasyones|passage=Mösyö Ehrlich era lehli (ashkenazi) komo ya se entiende de su '''nombre'''.|t=Mösyö Ehrlich was Lehli (Ashkenazi), as is already understood from his '''name'''.}}
+
+===Etymology 2===
+{{nonlemma}}
+
+====Verb====
+{{head|lad|verb form|Hebrew spelling|נומברי}}
+
+# {{inflection of|lad|nombrar||1|s|pres|sub}}
+# {{inflection of|lad|nombrar||3|s|pres|sub}}
+
+====References====
+<references/>
 
 ==Middle English==
 
@@ -177,9 +195,27 @@ From {{inh|lad|osp|nomre}}, {{m|osp|nomne}}, {{inh|lad|la|nōmen}}.
 ====Verb====
 {{head|enm|verb}}
 
-# {{alt form|enm|nombren}}
+# {{altform|enm|nombren}}
 
 {{C|enm|Collectives|Mathematics|Shapes|Writing}}
+
+==Middle French==
+
+===Etymology===
+{{dercat|frm|itc-pro|ine-pro|inh=1}}
+{{inh+|frm|fro|nombre}}, {{m|fro|nonbre}}, from {{inh|frm|la|numerus}}.
+
+===Noun===
+{{frm-noun|m}}
+
+# [[number]] {{gl|[[abstract]] [[entity]] used to [[describe]] [[quantity]]}}
+#* {{quote-text|frm|year=1520|author=Étienne de La Roche|title=L'arismethique novellement composee|pageurl=https://books.google.co.uk/books?id=9xg8AAAAcAAJ&pg=PT26|page=26
+|passage=Maintenant pour trouuer le tiers '''nombꝛe''' ſouſtraiℨ.4. ½ qui ſont le ſecond '''nombꝛe''' de.6. ¼ qui eſt cõmun.|t=Now to find the third '''number''', subtract 4.5, which is the twoth '''number''' of 6.25, which is common.}}
+# [[number]] {{gl|[[quantity]]}}
+#* {{quote-book|frm|author=Pedro Díaz, Dallier|title=Nouueaux advertissemens trescertains venus du paÿs des Indes Meridionales {{...}}|url=https://books.google.com/books?id=5oKyU4fCie4C|year=1571|page=5|pageurl=https://books.google.com/books?id=5oKyU4fCie4C&q=nombre|text=Mais considerant que les Chrestiens nouvellement faits en ce pays, estoient en si grand '''nombre''' que nous ne les pouvions visiter
+|t=But considering that the newly made Christians in this country were so numerous that we could not visit all of them}}
+
+{{C|frm|Collectives|Mathematics|Shapes|Writing}}
 
 ==Navarro-Aragonese==
 
@@ -206,7 +242,7 @@ From {{inh|lad|osp|nomre}}, {{m|osp|nomne}}, {{inh|lad|la|nōmen}}.
 
 ===Etymology===
 {{dercat|oc|itc-pro|ine-pro|inh=1}}
-From {{inh|oc|pro|nombre}}, from {{inh|oc|la|numerus}}.
+{{inh+|oc|pro|nombre}}, from {{inh|oc|la|numerus}}.
 
 ===Pronunciation===
 * {{audio|oc|LL-Q14185 (oci)-Davidgrosclaude-nombre.wav}}
@@ -235,8 +271,7 @@ From {{inh|oc|pro|nombre}}, from {{inh|oc|la|numerus}}.
 {{es-pr|+<audio:LL-Q1321 (spa)-Rodelar-nombre.wav<a:Spain>><audio:LL-Q1321 (spa)-Rodrigo5260-nombre.wav<a:Peru>>}}
 
 ===Alternative forms===
-* {{alt|es|n.||abbreviation}}
-* {{alt|es|nonbre||obsolete}}
+* {{alt|es|n.|qq=abbreviation|nonbre|qq2=obsolete}}
 
 ===Etymology 1===
 {{dercat|es|itc-pro|ine-pro|inh=2}}
@@ -292,9 +327,6 @@ From {{inh|oc|pro|nombre}}, from {{inh|oc|la|numerus}}.
 {{head|es|verb form}}
 
 # {{es-verb form of|nombrar}}
-
-===References===
-<references/>
 
 ===Further reading===
 * {{R:es:DRAE}}
