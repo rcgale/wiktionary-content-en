@@ -74,7 +74,7 @@
 *: {{rhymes|is|aːðʏr|s1=2|ʏr|s2=1}}
 
 ===Noun===
-{{is-noun|@@}}
+{{is-noun|@@:noun}}
 
 # [[human being]], [[person]], [[humanity]], [[mankind]], [[man]] (generic)
 #: {{syn|is|manneskja}}
@@ -92,7 +92,7 @@
 #: {{ux|is|[[færa|Færðu]] '''manninn''' [[þinn]].|Move your '''piece'''.}}
 
 ====Declension====
-{{is-ndecl|m,s,^/^ir.decllemma:mannur}}
+{{is-ndecl|m,,^/^ir.decllemma:mannur|id=noun}}
 
 ====Derived terms====
 {{col5|is
@@ -140,7 +140,7 @@
 * {{R:is:Islex}}
 
 ===Pronoun===
-{{head|is|pronoun|cat2=indefinite pronouns}}
+{{is-noun|@@:pronoun|pos=pronoun}}{{cln|is|indefinite pronouns}}
 
 # [[one]], [[you]]
 #: {{ux|is|'''Maður''' [[gera|gerir]] [[þetta]] [[svona]].|'''You''' do it like this./'''One''' does it like this.}}
@@ -150,6 +150,9 @@
 * The pronoun ''maður'' declines as the noun, but cannot take the definite article.
 * It is placed in a clause in the same way as the noun, but the difference is in the stress: as a pronoun, it never takes the main stress in a sentence.
 * It also cannot be substituted with the pronoun {{m|is|hann}} due to being a pronoun itself. Usage of [[þú]] for the [[fourth person]] is {{lg|proscribed}}.
+
+====Declension====
+{{is-ndecl|m.sg.indef.decllemma:mannur|id=pronoun}}
 
 ====Derived terms====
 * {{l|is|maður veit aldrei||one never knows}}
