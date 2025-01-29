@@ -100,9 +100,9 @@ Compare {{cog|ro|di}}, employed with horses or oxen for the same purpose.
 ==Alemannic German==
 
 ===Alternative forms===
-* {{alter|gsw|der||preconsonantic & prevocalic}}
-* {{alter|gsw|der||prevocalic, besides preconsonantic ''de''}}
-* {{alter|gsw|d'r|dr||Bern}}
+* {{alt|gsw|der||preconsonantic & prevocalic}}
+* {{alt|gsw|der||prevocalic, besides preconsonantic ''de''}}
+* {{alt|gsw|d'r|dr||Bern}}
 
 ===Article===
 {{head|gsw|articles}}
@@ -398,7 +398,7 @@ From {{der|ceb|es|de}}.
 ==Cimbrian==
 
 ===Alternative forms===
-* {{alter|cim|di||Luserna}}
+* {{alt|cim|di||Luserna}}
 
 ===Article===
 {{head|cim|article forms}}
@@ -450,7 +450,8 @@ From {{der|kw|cnx|de}}, from {{der|kw|oco|doy}}, glossed in ''Vocabularium Corni
 ==Dalmatian==
 
 ===Etymology===
-{{inh+|dlm|la|de|dē}}.
+{{etymon|dlm|id=of|inh|la>dē>of}}
+{{etymon|dlm|id=from|inh|la>dē>from|tree=1|text=++}}
 
 ===Preposition===
 {{head|dlm|prepositions}}
@@ -509,7 +510,7 @@ An unstressed variety of {{inh|nl|dum|die}}. See {{m|nl|die}} for more informati
 ===Article===
 {{head|nl|articles}}
 
-# [[the]] {{gloss|definite article, masculine and feminine singular, plural}}
+# [[the]] {{gl|definite article, masculine and feminine singular, plural}}
 #: {{uxi|nl|'''De''' man|The man (masculine singular)}}
 #: {{uxi|nl|'''De''' vrouw|The woman (feminine singular)}}
 #: {{uxi|nl|Het boek|The book (neuter singular)}}
@@ -616,20 +617,20 @@ From {{der|eo|la|de|dē}}, {{der|eo|fr|de}}, {{der|eo|es|de}}.
 ====Preposition====
 {{fr-prep}}
 
-# [[of]] {{gloss|expresses belonging}}
+# [[of]] {{gl|expresses belonging}}
 #: {{ux|inline=1|fr|Paris est la capitale '''de''' la France.|Paris is the capital '''of''' France.}}
 #* {{quote-book|fr|year=1837|author=Louis Viardot|title=''L’Ingénieux Hidalgo Don Quichotte de la Manche''<sup>[[s:fr: L’Ingénieux Hidalgo Don Quichotte de la Manche|fr.Wikisource]]</sup>, translation of ''El ingenioso hidalgo Don Quijote de la Mancha'' by Miguel de Cervantes Saavedra|chapter=I|passage=Dans une bourgade '''de''' la Manche, dont je ne veux pas me rappeler le nom, vivait, il n’y a pas longtemps, un [[hidalgo]] ....|t=In a village of La Mancha, whose name I do not want to remember, lived, not long ago, an hidalgo ....}}
-# of {{gloss|used to express property or association}}
+# of {{gl|used to express property or association}}
 #: {{ux|inline=1|fr|Œuvres '''de''' Fermat|Fermat'''’s''' Works}}
 #: {{ux|inline=1|fr|Elle est la femme '''de''' mon ami.|She is my friend’'''s''' wife.}}
 #: {{ux|inline=1|fr|le voisin '''de''' Gabriel|Gabriel''''s''' neighbor}}
-# [[from]] {{gloss|used to indicate origin}}
+# [[from]] {{gl|used to indicate origin}}
 #: {{ux|inline=1|fr|Elle vient '''de''' France.|She comes '''from''' France.}}
 #: {{ux|inline=1|fr|Êtes-vous '''de''' Suisse ?|Are you '''from''' Switzerland?}}
 #: {{ux|inline=1|fr|Ce fromage vient '''d’'''Espagne.|This cheese is '''from''' Spain.}}
 #: {{ux|inline=1|fr|C’est '''de''' l’ouest de la France.|It’s '''from''' the west of France.}}
 #: {{ux|inline=1|fr|Le train va '''de''' Paris à Bordeaux.|The train goes '''from''' Paris to Bordeaux.}}
-# [[of]] {{gloss|indicates an amount}}
+# [[of]] {{gl|indicates an amount}}
 #: {{ux|inline=1|fr|5 kilos '''de''' pommes.|5 kilograms '''of''' apples.}}
 #: {{ux|inline=1|fr|Un verre '''de''' vin|A glass '''of''' wine}}
 #: {{ux|inline=1|fr|Une portion '''de''' frites|A portion '''of''' fries}}
@@ -640,7 +641,7 @@ From {{der|eo|la|de|dē}}, {{der|eo|fr|de}}, {{der|eo|es|de}}.
 #: {{ux|inline=1|fr|Un chien '''de''' garde|A guarddog}}
 #: {{ux|inline=1|fr|Une voiture '''de''' sport|A sportscar}}
 #: {{ux|inline=1|fr|Un stade '''de''' football|A football stadium}}
-# [[from]] {{gloss|used to indicate the start of a time or range}}
+# [[from]] {{gl|used to indicate the start of a time or range}}
 #: {{ux|inline=1|fr|'''De''' 9:00 à 11:00 je ne serai pas libre.|'''From''' 9 to 11 I won’t be free.}}
 #: {{ux|inline=1|fr|Je travaille '''de''' huit heures à midi.|I work '''from''' 8 o'clock to noon.}}
 #: {{uxi|fr|un groupe '''de''' cinq à huit personnes|a group of ['''from'''] five to eight people}}
@@ -649,7 +650,7 @@ From {{der|eo|la|de|dē}}, {{der|eo|fr|de}}, {{der|eo|es|de}}.
 #: {{uxi|fr|Il [[continuer|continue]] '''de''' m’embêter.|He keeps annoying me.}}
 #: {{ux|inline=1|fr|Elle m’a dit '''de''' venir.|She told me to come.}}
 #: {{uxi|fr|Nous vous [[exhorter|exhortons]] '''de''' venir.|We urge you to come.}}
-# [[by]] {{gloss|indicates the amount of change}}
+# [[by]] {{gl|indicates the amount of change}}
 #: {{ux|inline=1|fr|Boire trois tasses par jour réduirait '''de''' 20 % les risques de contracter une maladie.|Drinking three cups a day would reduce the risks of catching an illness '''by''' 20%.}}
 
 =====Usage notes=====
@@ -719,7 +720,7 @@ Before a word beginning with a vowel sound, {{m|fr|de}} elides to {{m|fr|d'|d’
 
 # [[of]]; [[from]]
 #: {{ux|gl|Veño '''de''' Lugo.|I come '''from''' Lugo.}}
-# {{sid|gl|belonging to}} {{l|en|of}}; {{l|en|-'s}} {{gloss|belonging to}}
+# {{sid|gl|belonging to}} {{l|en|of}}; {{l|en|-'s}} {{gl|belonging to}}
 #: {{ux|gl|Socorro é a avoa '''de''' Clara e '''de''' Daniel.|Socorro is Clara and Daniel''''s''' grandmother}}
 
 ====Usage notes====
@@ -792,7 +793,7 @@ For the adverbial use, compare {{ncog|pl|ale}}.
 
 # [[but]]
 #: {{syn|hu|viszont|azonban|ám|ugyanakkor|ellenben}}
-# (oh) [[yes]]!, [[surely]]! {{gloss|used as a positive contradiction to a negative statement}}
+# (oh) [[yes]]!, [[surely]]! {{gl|used as a positive contradiction to a negative statement}}
 #: {{syn|hu|de igen}}
 #: {{ux|inline=1|hu|Nem voltál itt! – '''De''' ott voltam.|You weren’t here! – '''Yes''' I was!}}
 
@@ -826,7 +827,7 @@ For the adverbial use, compare {{ncog|pl|ale}}.
 ==Hunsrik==
 
 ===Alternative forms===
-* {{alter|hrx|te||Wiesemann spelling system}}
+* {{alt|hrx|te||Wiesemann spelling system}}
 
 ===Etymology===
 From {{inh|hrx|gmh|der}}, from {{inh|hrx|goh|der}}, {{m|goh|ther}}, replacing the original masculine and feminine nominative forms from {{der|hrx|gem-pro|*sa}}, by analogy with the adjective inflection.
@@ -856,12 +857,12 @@ From {{inh|hrx|gmh|der}}, from {{inh|hrx|goh|der}}, {{m|goh|ther}}, replacing th
 ====Preposition====
 {{head|io|prepositions}}
 
-# [[from]] {{gloss|indicating departure, dependency, starting point, origin or derivation}}
+# [[from]] {{gl|indicating departure, dependency, starting point, origin or derivation}}
 #: {{ux|io|Me kompris la frukti '''de''' la merkato.|I bought the fruits '''from''' the market.}}
-# [[of]] {{gloss|with a noun: indicating measurement, quantity, amount, content}}
+# [[of]] {{gl|with a noun: indicating measurement, quantity, amount, content}}
 #: {{ux|io|Me esis un '''de''' kin en la konkurso.|I was one '''of''' five in the competition.}}
 #: {{ux|io|Me prizas tre multe tasego '''de''' kafeo ye la matino.|I really like a big cup '''of''' coffee in the morning.}}
-# [[of]] {{gloss|with an adjective: indicating measurement, dimension}}
+# [[of]] {{gl|with an adjective: indicating measurement, dimension}}
 #: {{ux|io|Me havas tri boteli plena '''de''' aquo.|I have three bottles '''of''' water.}}
 # {{n-g|with a title of nobility}}
 #: {{ux|io|Rejio '''de''' Anglia|Queen '''of''' England}}
@@ -933,7 +934,7 @@ From {{bor|id|nl|dee}}.
 From {{inh|ga|sga|di||of, from}}.
 
 ====Alternative forms====
-* {{alter|ga|d’||used before a vowel sound}}
+* {{alt|ga|d’||used before a vowel sound}}
 
 ====Pronunciation====
 * {{IPA|ga|/dʲɛ/|/dʲə/}}
@@ -966,7 +967,7 @@ See also: [[:Category:Irish phrasal verbs formed with "de"]]
 From {{inh|ga|sga|de||of/from him}}.
 
 ====Alternative forms====
-* {{alter|ga|dhe|dó|dhó}}
+* {{alt|ga|dhe|dó|dhó}}
 
 ====Pronunciation====
 * {{IPA|ga|/dʲɛ/}}
@@ -1088,10 +1089,14 @@ From {{inh|lld|la|de|dē}}.
 #: {{cot|lad|desde}}
 #* {{quote-journal|lad|journal=La Lettre Sépharade|url=https://books.google.com/books?id=blwwAQAAIAAJ|numbers=1–19|publisher=La Lettre Sépharade|year=2000|page=6|pageurl=https://books.google.com/books?id=blwwAQAAIAAJ&q=komeres|text=Kuando vyenen '''de''' Israel los paryentes i amigos, syempre fazemos notchadas a mi kaza {{...}}|t=When relatives and friends come '''from''' Israel, we always throw night parties at my house.}}
 # [[of]] {{gl|expressing composition or substance}}
-#* {{quote-book|lad|author=Enrique Saporta y Beja|title=En torno de la torre blanca|url=https://books.google.com/books?id=660dAQAAIAAJ|publisher=Editions Vidas Largas
-|year=1982|page=71|pageurl=https://books.google.com/books?id=660dAQAAIAAJ&q=abutargo|text=En un bokal '''de''' vidro avia manos '''de''' abutargo estifadas las unas sovre las otras.|t=There were dry caviar hands in a glass vase, one compressed over the other.}}
+#* {{quote-book|lad|author=Enrique Saporta y Beja|title=En torno de la torre blanca|url=https://books.google.com/books?id=660dAQAAIAAJ|publisher=Editions Vidas Largas|year=1982|page=71|pageurl=https://books.google.com/books?id=660dAQAAIAAJ&q=abutargo|text=En un bokal '''de''' vidro avia manos '''de''' abutargo estifadas las unas sovre las otras.|t=There were dry caviar hands in a glass vase, one compressed over the other.}}
 # [[about]] {{gl|concerning or with regard to}}
 #* {{quote-book|lad|author=Matilda Koén-Sarano|title=Por el plazer de kontar|url=https://books.google.com/books?id=fY1iAAAAMAAJ|year=2006|page=401|pageurl=https://books.google.com/books?id=fY1iAAAAMAAJ&q=Auschwitz|text={{...}} i el ke izo mas empresión fue naturalmente Haím Refael, ke kontó '''de''' la Shoá i '''de''' estadía en Auschwitz i '''de''' komo kedó en vida.|t=And the one who made the biggest impression was, naturally, Haím Refael, who recounted the Shoah, the stay in Auschwitz, and how he kept alive.}}
+# [[of]]; [[from]] {{gl|indicating cause}}
+#* {{quote-journal|lad|passage=Mösyö Ehrlich era lehli (ashkenazi) komo ya se entiende '''de''' su nombre.|translation=Mösyö Ehrlich was Lehli (Ashkenazi), as is already understood '''from''' his name.|title=Ko-Abitasyones|author=Eliz Gatenyo|date=2020-11-25|work=Şalom Gazetesi|url=https://www.salom.com.tr/haber/116659/koabitasyones}}
+# [[from]] {{gl|with the separation, exclusion or differentiation of}}
+#* {{quote-book|lad|author=Reuben Eliyahu Israel|title=Traducsion libera de las poezias ebraicas de Roş Aşana i Kipur|url=https://digitalcollections.lib.washington.edu/digital/collection/p16786coll3/id/4098|location=Craiova|publisher=Institutul Grafic, I. Samitca şi D. Baraş, Socieatate in Comandita|year=1910|page=10|pageurl=https://digitalcollections.lib.washington.edu/digital/collection/p16786coll3/id/4058|OCLC=1091680857|text=Si mis vizinos (goliian) mis defectos<br/>Si aleşavan⁵) '''de''' mi como de muertos.|t=If my neighbours sense my defects, if they keep away '''from''' me like the dead.}}
+#* {{quote-book|lad|author=Moshe 'Ha-Elion|tlr=Avner Perets|title=במחנות המות|url=https://books.google.com/books?id=7aAdAQAAIAAJ|publisher=מכון מעלה אדומים|year=2000|page=47|pageurl=https://books.google.com/books?id=7aAdAQAAIAAJ&q=ansia|ISBN=9789659032204|text=''Staran por siempre libres '''de''' teles, '''de''' kadenas, {{...}} '''de''' ambre i '''de''' penas.''|t=Forever are they free '''from''' iron wires, '''from''' chains,  '''from''' hunger and '''from''' pains.}}
 # [[than]] {{gl|in certain phrases}}
 #: {{cot|lad|ke}}
 #* {{quote-journal|lad
@@ -1101,9 +1106,17 @@ From {{inh|lld|la|de|dē}}.
 |journal=Şalom
 |passage=Kada anyo, mas '''de''' un milion de personas se van a Auschwitz para rekordar los ke murieron.
 |t=Every year, more '''than''' a million people go to Auschwitz to remember those who died.}}
+# {{n-g|used after certain verbs before an [[infinitive]], often translated into English as a [[gerund]] or an infinitive}}
+#* {{quote-book|lad|author=Enrique Saporta y Beja|title=En torno de la torre blanca|url=https://books.google.com/books?id=660dAQAAIAAJ|publisher=Editions Vidas Largas|year=1982|page=163|pageurl=https://books.google.com/books?id=660dAQAAIAAJ&q=terrasas|text=Era el uzo en akeya notche '''de''' komer en los balkones o las terrasas.|t=It was habitual in that night '''to''' dine on the balconies and flat roofs.}}
 
 ====Usage notes====
 Sometimes before a word beginning with a vowel sound, {{m|lad|de}} elides to {{m|lad|d’}}. Before the article {{m|lad|el}}, it frequently contracts with the article into {{m|lad|del}}. Nevertheless, these contractions are not compulsory in Judezmo as they are in French and Spanish.
+
+===Derived terms===
+{{col|lad|de ke}}
+
+===Related terms===
+{{col|lad|deske|desde}}
 
 ===References===
 <references/>
@@ -1161,10 +1174,10 @@ From {{inh|lsi|tbq-lob-pro}}, from {{inh|lsi|sit-pro|*daj||do, make}}. Cognates 
 ====Preposition====
 {{la-prep|dē|ablative|id=preposition}}
 
-# [[of]], [[concerning]], [[about]]
-#: {{uxi|la|{{l|la|actum}} {{l|la|est}} de {{l|la|aliquo}}|t=It is over for someone, [[seal someone's fate|someone's fate is sealed]]}}
+# [[of]]; [[concerning]]; [[about]]
+#: {{uxi|la|{{l|la|actum}} {{l|la|est}} de {{l|la|aliquo}}|t=It is over for someone, [[seal someone's fate|someone’s fate is sealed]]}}
 #: {{uxi|la|'''de''' rebus mathematicis|t='''concerning''' mathematical things}}
-#* {{quote-book|la|year=c. 1772|author=Finnur Jónsson|title=Historia Ecclesiastica Islandiæ|page=1|url=http://books.google.com/books?id=6bwFAAAAQAAJ&lpg=PA313&ots=xwtdVF7_5p&dq=-Salvelinus%20-Crymostygius%20thingvallensis&pg=PA1#v=onepage&q&f=false|text='''De''' introductione religionis Christianæ in Islandiam.|t='''Of''' the introduction of Christianity to Iceland.}}
+#* {{quote-book|la|year=c. 1772|author=Finnur Jónsson|title=Historia Ecclesiastica Islandiæ|page=1|url=https://books.google.com/books?id=6bwFAAAAQAAJ&lpg=PA313&ots=xwtdVF7_5p&dq=-Salvelinus%20-Crymostygius%20thingvallensis&pg=PA1#v=onepage&q&f=false|text='''De''' introductione religionis Christianæ in Islandiam.|t='''Of''' the introduction of Christianity to Iceland.}}
 # [[from]], [[away]] from, [[down]] from, out of; {{n-g|in general to indicate the person or place from which any thing is taken, etc., with verbs of taking away, depriving, demanding, requesting, inquiring, buying; as {{m|la|capere}}, {{m|la|sumere}}, {{m|la|emere}}, {{m|la|quaerere}}, {{m|la|discere}}, {{m|la|trahere}}, etc., and their compounds}}.
 #: {{uxi|la|emere '''de''' aliquo|t=to buy '''from''' someone}}
 #: {{uxi|la|aliquid mercari '''de''' aliquo|t=to buy something '''from''' someone}}
@@ -1253,12 +1266,13 @@ From {{inh|lsi|tbq-lob-pro}}, from {{inh|lsi|sit-pro|*daj||do, make}}. Cognates 
 * {{desc|rm|da}}
 * {{desc|scn|di}}
 * {{desc|osp|de}}
+** {{desc|lad|de|di|די}}
 ** {{desc|es|de}}
 {{col-bottom}}
 
 ====References====
-* [http://www.perseus.tufts.edu/hopper/resolveform?type=exact&lookup=de&lang=latin de] in {{cite-book|author=Charlton T. Lewis and Charles Short|title=[[w:A Latin Dictionary|A Latin Dictionary]]|publisher=Clarendon Press|location=Oxford|year=1879}}
-* [http://www.perseus.tufts.edu/hopper/resolveform?type=exact&lookup=de&lang=latin de] in {{cite-book|author=Charlton T. Lewis|title=An Elementary Latin Dictionary|publisher=Harper & Brothers|location=New York|year=1891}}
+* [https://www.perseus.tufts.edu/hopper/resolveform?type=exact&lookup=de&lang=latin de] in {{cite-book|author=Charlton T. Lewis and Charles Short|title=[[w:A Latin Dictionary|A Latin Dictionary]]|publisher=Clarendon Press|location=Oxford|year=1879}}
+* [https://www.perseus.tufts.edu/hopper/resolveform?type=exact&lookup=de&lang=latin de] in {{cite-book|author=Charlton T. Lewis|title=An Elementary Latin Dictionary|publisher=Harper & Brothers|location=New York|year=1891}}
 * {{R:du Cange}}
 * {{R:Gaffiot}}
 * {{R:M&A}}
@@ -1341,14 +1355,14 @@ Inherited from {{inh|lou|fr|deux|t=two}}, from {{inh|lou|frm|deux}}, from {{inh|
 ===Numeral===
 {{head|lou|numeral}}
 
-# {{alternative form of|lou|dé|t=two}}
+# {{altform|lou|dé|t=two}}
 
 ==Low German==
 
 ===Alternative forms===
-* {{l|nds|dee}} {{q|for the pronoun}}
-* {{l|nds|dei}}
-* {{l|nds|de}}, {{l|nds|dé}} {{q|´ denoting a raising of the voice}}, {{l|nds|dè}} {{q|` denoting a swallow up or shorting}} {{q|all three used together; Grafschaft Bentheim}}
+* {{alt|nds|dee||for the pronoun}}
+* {{alt|nds|dei}}
+* {{alt|nds|de}}, {{l|nds|dé}} {{q|´ denoting a raising of the voice}}, {{alt|nds|dè}} {{q|` denoting a swallow up or shorting}} {{q|all three used together; Grafschaft Bentheim}}
 
 ===Etymology===
 From {{inh|nds|gml|de|dê}}, from {{inh|nds|osx|the|thē}}.
@@ -1721,14 +1735,14 @@ From {{der|nn|fr|de}}, {{der|nn|la|de|dē}}.
 # [[from]]
 
 =====Alternative forms=====
-* {{alter|oc|d'||before a vowel}}
+* {{alt|oc|d'||before a vowel}}
 
 ===Etymology 2===
 
 ====Noun====
 {{oc-noun|f}}
 
-# [[dee]] {{gloss|the letter d, D}}
+# [[dee]] {{gl|the letter d, D}}
 
 {{C|oc|Latin letter names}}
 
@@ -1760,8 +1774,8 @@ From {{der|nn|fr|de}}, {{der|nn|la|de|dē}}.
 ==Old Galician-Portuguese==
 
 ===Alternative forms===
-* [[d-]] {{qualifier|elided form when followed by a word which begins with a vowel}}
-* [[D-]] {{qualifier|elided form when followed by a capitalised word which begins with a vowel}}
+* {{alt|roa-opt|d-||elided form when followed by a word which begins with a vowel}}
+* {{alt|roa-opt|D-||elided form when followed by a capitalised word which begins with a vowel}}
 
 ===Etymology===
 {{etymon|roa-opt|id=of|inh|la>dē>of}}
@@ -1961,43 +1975,43 @@ From the first letter of {{m|pl|dupa}}.
 ===Preposition===
 {{head|pt|prepositions}}
 
-# {{sid|pt|in relation to}} [[of]] {{gloss|in relation to}}
+# {{sid|pt|in relation to}} [[of]] {{gl|in relation to}}
 #* {{RQ:mul:Rowling Harry Potter|pt-BR|6|page=138|text=O protesto '''de''' Hermione foi abafado por uma risadinha alta.|t=Hermione's objection was interrupted by a loud little laugh.}}
 #: {{uxi|pt|os amigos '''d'''ele|his friends|lit=the friends '''of''' him}}
-## {{sid|pt|forms compounds}} [[of]] {{gloss|forms compounds; often untranslated}}
+## {{sid|pt|forms compounds}} [[of]] {{gl|forms compounds; often untranslated}}
 ##: {{uxi|pt|fones '''de''' ouvido|headphones|lit=phones '''of''' ear}}
 ##: {{uxi|pt|acampamento '''de''' verão|summer camp}}
-## {{sid|pt|about}} [[of]]; [[about]] {{gloss|on the subject of}}
+## {{sid|pt|about}} [[of]]; [[about]] {{gl|on the subject of}}
 ##: {{uxi|pt|'''Do''' que estavam falando?|What were they talking '''about'''?}}
-## {{sid|pt|belonging to}} [[of]]; [[-'s]] {{gloss|belonging to}}
+## {{sid|pt|belonging to}} [[of]]; [[-'s]] {{gl|belonging to}}
 ##: {{uxi|pt|a casa '''de''' alguém|someone''''s''' house}}
-## {{sid|pt|made by}} [[-'s]] {{gloss|made by}}
+## {{sid|pt|made by}} [[-'s]] {{gl|made by}}
 ##: {{uxi|pt|Você provou o bolo '''da''' minha mãe?|Have you tried my mother'''’s''' cake?}}
-## {{sid|pt|part of}} [[of]] {{gloss|being a part of}}
+## {{sid|pt|part of}} [[of]] {{gl|being a part of}}
 ##: {{uxi|pt|capa '''do''' livro|cover '''of the''' book}}
-## {{sid|pt|day of a month}} [[of]] {{gloss|introduces the month a given day is part of}}
+## {{sid|pt|day of a month}} [[of]] {{gl|introduces the month a given day is part of}}
 ##: {{uxi|pt|Primeiro '''de''' janeiro.|First '''of''' January.}}
-## {{sid|pt|object of agent noun}} [[of]] {{gloss|introduces the object of an agent noun}}
+## {{sid|pt|object of agent noun}} [[of]] {{gl|introduces the object of an agent noun}}
 ##: {{uxi|pt|Hitler foi um exterminador '''de''' judeus.|Hitler was an exterminator '''of''' Jews.}}
-## {{sid|pt|introduces a placename}} [[of]] {{gloss|introduces the name of a place following its hypernym}}
+## {{sid|pt|introduces a placename}} [[of]] {{gl|introduces the name of a place following its hypernym}}
 ##: {{uxi|pt|A vila '''de''' Iorque.|The village '''of''' York.}}
-# {{sid|pt|made of}} [[of]]; [[-en]] {{gloss|made or consisting of}}
+# {{sid|pt|made of}} [[of]]; [[-en]] {{gl|made or consisting of}}
 #: {{uxi|pt|'''De''' que é feito?|What is this made '''of'''?|lit='''Of''' what is made this?}}
-## {{sid|pt|-long}} [[-long]] {{gloss|having the duration of}}
+## {{sid|pt|-long}} [[-long]] {{gl|having the duration of}}
 ##: {{uxi|pt|um filme '''de''' duas horas|a two hour'''-long''' movie}}
-## {{sid|pt|indicates composition of a collective or quantitative noun}} [[of]] {{gloss|indicates the composition of a given collective or quantitative noun}}
+## {{sid|pt|indicates composition of a collective or quantitative noun}} [[of]] {{gl|indicates the composition of a given collective or quantitative noun}}
 ##: {{uxi|pt|Milhares '''de''' pessoas vieram.|Thousands '''of''' people came.}}
-## {{sid|pt|characterised by}} [[of]] {{gloss|characterised by; having the given quality}}
+## {{sid|pt|characterised by}} [[of]] {{gl|characterised by; having the given quality}}
 ##: {{uxi|pt|O templo não é mais um local '''de''' paz.|The temple is no longer a place '''of''' peace.}}
-# {{sid|pt|introduces noun that applies an adjective}} [[of]] {{gloss|introduces the noun that applies a given adjective or past participle}}
+# {{sid|pt|introduces noun that applies an adjective}} [[of]] {{gl|introduces the noun that applies a given adjective or past participle}}
 #: {{uxi|pt|Um balde cheio '''de''' água.|A bucket full '''of''' water.}}
-# {{sid|pt|from}} [[from]] {{gloss|born in or coming out of}}
+# {{sid|pt|from}} [[from]] {{gl|born in or coming out of}}
 #: {{uxi|pt|'''De''' onde você é?|Where are you '''from'''?}}
 # {{sid|pt|by means of}} [[by means of]]; [[by]]
 #: {{uxi|pt|Eu sempre vou trabalhar '''de''' ônibus.|I always go to work '''by''' bus.}}
-# {{sid|pt|in the role of}} [[as]] {{gloss|in the role of}}
+# {{sid|pt|in the role of}} [[as]] {{gl|in the role of}}
 #: {{uxi|pt|Na festa, ele estava '''de''' bruxo.|At the party, he was '''dressed as a''' wizard.}}
-# {{sid|pt|wearing}} [[in]] {{gloss|wearing}}
+# {{sid|pt|wearing}} [[in]] {{gl|wearing}}
 #: {{uxi|pt|Homens '''de''' Preto|''Men '''in''' Black''}}
 
 ====Usage notes====
@@ -2124,7 +2138,8 @@ When followed by an article, a pronoun, a demonstrative pronoun or adjective, or
 * {{alt|ro|dă|di||dialectal}}
 
 ===Etymology===
-From {{inh|ro|la|dē}}.
+{{etymon|ro|id=of|inh|la>dē>of}}
+{{etymon|ro|id=from|inh|la>dē>from|tree=1|text=++}}
 
 ===Pronunciation===
 * {{IPA|ro|/de/}}
@@ -2223,7 +2238,7 @@ Additionally, in these constructions {{m|ro||de}} is normally directly followed 
 #: {{ux|ro|Dacă ai un opt, o să îți trebuiască trei '''de''' zece ca să îți iasă media zece.|If you have one grade of 8 (equivalent of a B), you’ll need three 10’s (equivalent of an A) to still get an average grade of 10.}}
 #: {{ux|ro|„Nu fi” nu se scrie cu doi '''de''' i, ci cu unul.|{{m|ro||Nu fi|don’t be}} isn’t written with two i’s, but with one.}}
 # {{lb|ro|after indications of position or before numerals, time coordinates{{,}} or the word {{m|ro|atât}}}} [[than]]
-#: {{syn|ro|decât<qq:mutually exclusive in use>}}
+#: {{cot|ro|decât<qq:mutually exclusive in use>}}
 #: {{ux|ro|Puține orașe se află mai jos '''de''' nivelul mării.|Few cities are situated lower '''than''' sea level.}}
 #: {{ux|ro|''Război și pace'' are mai mult '''de''' o mie de pagini.|''War and Peace'' has more '''than''' a thousand pages.}}
 #: {{ux|ro|A trecut mai puțin '''de''' jumătate din vacanță.|Less '''than''' half of summer break has passed.}}
@@ -2237,7 +2252,7 @@ Additionally, in these constructions {{m|ro||de}} is normally directly followed 
 #: {{ux|ro|Compania noastră este prezentă în România '''de''' șase ani.|Our company has been present in Romania '''for''' six years.}}
 #: {{ux|ro|Nu {{nobr|te-am}} mai văzut '''de''' multă vreme.|I haven’t seen you '''in''' a long time.}}
 # {{lb|ro|only of festive dates}} [[on]]
-#: {{syn|ro|pe<qq:of regular dates>}}
+#: {{cot|ro|pe<qq:of regular dates>}}
 #: {{ux|ro|'''De''' Anul Nou sau '''de''' 1 Mai se petrece.|'''On''' New Year or May Day one celebrates.}}
 #: {{ux|ro|{{nobr|Mi-am}} luat concediu '''de''' ziua mea de naștere.|'''On''' my birthday I took a day off.}}
 # {{lb|ro|informal}} Against a sum of money or the equivalent value of something.
@@ -2360,7 +2375,7 @@ Replacement of accusative {{m|ro|care}} preceded by a preposition is done with a
 ==Scottish Gaelic==
 
 ===Alternative forms===
-* {{alter|gd|dhe}}
+* {{alt|gd|dhe}}
 
 ===Etymology===
 {{dercat|gd|cel-pro|ine-pro|inh=2}}
@@ -2453,28 +2468,28 @@ From {{inh|nr|bnt-pro|*-dàì}}.
 
 # [[of]]; [['s]]; {{n-g|used after the thing owned and before the owner}}
 #: {{ux|es|Constitución española '''de''' 1812|Spanish constitution '''of''' 1812}}
-#: {{ux|es|la cola '''del''' perro|'''the''' dog'''’s''' tail}}
-# [[from]] {{gloss|with the source or provenance of or at}}
+#: {{ux|es|la cola '''de'''l perro|the dog'''’s''' tail}}
+# [[from]] {{gl|with the source or provenance of or at}}
 #: {{ux|es|Soy '''de''' España.|I’m '''from''' Spain.}}
 #: {{ux|inline=1|es|agua '''de''' manantial|springwater}}
-# [[of]] {{gloss|expressing composition, substance}}
+# [[of]] {{gl|expressing composition, substance}}
 #: {{ux|inline=1|es|una mesa '''de''' madera|a '''wooden''' table}}
-# [[about]] {{gloss|concerning; with regard to}}
+# [[about]] {{gl|concerning; with regard to}}
 #: {{syn|es|sobre|acerca de}}
 #: {{ux|es|Están hablando '''del''' pasado.|They’re talking '''about''' the past.}}
 #: {{uxi|es|[[tratar|tratarse]] '''de'''|to be '''about'''; to concern}}
-# [[of]], [[from]] {{gloss|indicating cause}}
+# [[of]]; [[from]] {{gl|indicating cause}}
 #: {{ux|es|Murió '''de''' hambre.|He died '''of''' hunger.}}
-# [[of]] {{gloss|indicates a quality or characteristic}}
+# [[of]] {{gl|indicates a quality or characteristic}}
 #: {{ux|es|un hombre '''de''' fe|a man '''of''' faith}}
-# [[from]] {{gloss|with the origin, starting point or initial reference of or at}}
+# [[from]] {{gl|with the origin, starting point or initial reference of or at}}
 #: {{syn|es|desde}}
 #: {{ux|es|el vuelo '''de''' Miami a Chicago|the flight '''from''' Miami to Chicago}}
-# [[of]] {{gloss|indicates the subject or cause of the adjective}}
+# [[of]] {{gl|indicates the subject or cause of the adjective}}
 #: {{uxi|es|[[harto]] '''de'''|sick '''of'''; tired '''of'''}}
-# [[from]] {{gloss|with the separation, exclusion or differentiation of}}
+# [[from]] {{gl|with the separation, exclusion or differentiation of}}
 #: {{ux|es|Nos protege '''del''' frío.|It protects us '''from''' the cold.}}
-# [[than]] {{gloss|in certain phrases}}
+# [[than]] {{gl|in certain phrases}}
 #: {{ux|inline=1|es|más '''de'''|more '''than'''}}
 #: {{ux|inline=1|es|menos '''de'''|less '''than''', fewer '''than'''}}
 # {{n-g|used to construct compound nouns (with [[attributive noun]]s)}}
@@ -2746,7 +2761,7 @@ The sense "south" comes from the fact that the south is on the right-hand side o
 ====Adjective====
 {{head|cy|adjectives|feminine singular|de|plural|de|not [[Appendix:Glossary#comparable|comparable]]|cat2=uncomparable adjectives}}
 
-# [[right]] {{gloss|opposite of left}}
+# [[right]] {{gl|opposite of left}}
 # [[south]], [[southern]] (abbreviation: {{l|cy|D}})
 
 =====Derived terms=====
@@ -2872,7 +2887,7 @@ From {{inh|xh|bnt-pro|*-dàì}}.
 ==Yoruba==
 
 ===Alternative forms===
-* {{alter|yo|دعِ}}
+* {{alt|yo|دعِ}}
 
 ===Etymology 1===
 {{etymid|yo|tie down}}
