@@ -165,12 +165,12 @@ Thurgau:
 ==Asturian==
 
 ===Etymology===
-From {{inh|ast|la|de|dē}}.
+{{inh+|ast|la|de|dē}}.
 
 ===Preposition===
 {{head|ast|prepositions}}
 
-# [[of]], [[from]]
+# [[of]]; [[from]]
 
 ====Usage notes====
 * The preposition {{m|ast|de}} contracts to {{m|ast|d'}} before a word beginning with a vowel or {{m|ast|h|h-}}: {{m|ast|Asturies|d'Asturies|of Asturias}}, {{m|ast|hermanu|d'hermanu|of a brother}}.
@@ -251,7 +251,7 @@ Cognate with German {{cog|de|die}}.
 # {{Latn-def|ca|name|D|d}}
 
 ===Etymology 2===
-From {{inh|ca|la|de|dē}}.
+{{inh+|ca|la|de|dē}}.
 
 ====Pronunciation====
 * {{ca-IPA}}
@@ -259,7 +259,7 @@ From {{inh|ca|la|de|dē}}.
 ====Preposition====
 {{head|ca|prepositions|before vowel or h|d'}}
 
-# [[of]], [[from]]
+# [[of]]; [[from]]
 
 ====Further reading====
 * {{R:ca:IEC2}}
@@ -450,7 +450,7 @@ From {{der|kw|cnx|de}}, from {{der|kw|oco|doy}}, glossed in ''Vocabularium Corni
 ==Dalmatian==
 
 ===Etymology===
-From {{inh|dlm|la|de|dē}}.
+{{inh+|dlm|la|de|dē}}.
 
 ===Preposition===
 {{head|dlm|prepositions}}
@@ -576,7 +576,7 @@ From {{der|eo|la|de|dē}}, {{der|eo|fr|de}}, {{der|eo|es|de}}.
 ==Fala==
 
 ===Etymology===
-From {{inh|fax|roa-opt|de}}, from {{inh|fax|la|de|dē|of; from}}.
+{{etymon|fax|id=of|inh|roa-opt>de>of|tree=1|text=++}} Cognate with {{cog|pt|de}}.
 
 ===Preposition===
 {{head|fax|prepositions}}
@@ -707,7 +707,7 @@ Before a word beginning with a vowel sound, {{m|fr|de}} elides to {{m|fr|d'|d’
 ==Galician==
 
 ===Etymology===
-From {{inh|gl|la|de|dē}}.
+{{etymon|gl|id=of|inh|roa-opt>de>of|tree=1|text=++}} Cognate with {{cog|pt|de}}.
 
 ===Pronunciation===
 * {{IPA|gl|/dɪ/}}
@@ -717,9 +717,9 @@ From {{inh|gl|la|de|dē}}.
 ===Preposition===
 {{head|gl|prepositions}}
 
-# [[of]], [[from]]
+# [[of]]; [[from]]
 #: {{ux|gl|Veño '''de''' Lugo.|I come '''from''' Lugo.}}
-# {{senseid|gl|belonging to}} {{l|en|of}}; {{l|en|-'s}} {{gloss|belonging to}}
+# {{sid|gl|belonging to}} {{l|en|of}}; {{l|en|-'s}} {{gloss|belonging to}}
 #: {{ux|gl|Socorro é a avoa '''de''' Clara e '''de''' Daniel.|Socorro is Clara and Daniel''''s''' grandmother}}
 
 ====Usage notes====
@@ -758,7 +758,7 @@ The preposition ''de'' contracts to ''d-'' before articles, before third-person 
 ==Haitian Creole==
 
 ===Etymology===
-From {{inh|ht|fr|deux||two}}, from {{inh|ht|frm|deux}}, from {{inh|ht|fro|deus}}, from {{inh|ht|la|duōs}}, masculine accusative plural of {{m|la|duo}}, from {{inh|ht|itc-pro|*duō}}, from {{inh|ht|ine-pro|*dwóh₁}}.
+{{inh+|ht|fr|deux||two}}, from {{inh|ht|frm|deux}}, from {{inh|ht|fro|deus}}, from {{inh|ht|la|duōs}}, masculine accusative plural of {{m|la|duo}}, from {{inh|ht|itc-pro|*duō}}, from {{inh|ht|ine-pro|*dwóh₁}}.
 
 ===Pronunciation===
 * {{IPA|ht|/de/}}
@@ -1063,22 +1063,50 @@ From {{inh|lld|la|de|dē}}.
 ===Preposition===
 {{head|lld|prepositions}}
 
-# [[of]], [[from]]
+# [[of]]; [[from]]
 
 ====Derived terms====
-* {{l|lld|dl}}
-* {{l|lld|dla}}
-* {{l|lld|di}}
-* {{l|lld|dles}}
+{{col|lld|dl|dla|di|dles}}
 
 ==Ladino==
 
-===Preposition===
-{{head|lad|prepositions|[[:Appendix:Roman script|Latin spelling]], [[:Appendix:Hebrew alphabet|Hebrew spelling]]|די}}
+===Alternative forms===
+* {{alt|lad|di||Sarajevo‎}}
 
-# [[of]]
-#* {{quote-journal|lad|title=Hanukah Alegre|journal=Şalom Gazetesi|year=2019|url=http://www.salom.com.tr/koseyazisi-112944-hanukah_alegre.html|author=Silvyo OVADYA|passage=Alhad la noche vamos a asender la primera kandela '''de''' muestras Hanukiyas.|translation=Sunday night we're going to light the first candle '''of''' our Hanukiyas.}}
-# [[from]]
+===Etymology===
+{{etymon|lad|id=of|inh|osp>de>of|tree=1|text=++}} Cognate with {{cog|es|de}}.
+
+===Pronunciation===
+* {{audio|lad|lad-de.ogg|a=Netanya}}
+
+===Preposition===
+{{lad-prep|heb=די}}<ref name="Folkmasa">{{R:lad:Folkmasa}}</ref>
+
+# [[of]]; [[-'s]] {{gl|indicates ownership}}
+#* {{quote-journal|lad|title=Hanukah Alegre|journal=Şalom Gazetesi|year=2019|url=https://www.salom.com.tr/arsiv/koseyazisi/112944/hanukah-alegre|author=Silvyo OVADYA|passage=Alhad la noche vamos a asender la primera kandela '''de''' muestras Hanukiyas.|translation=Sunday night we’re going to light the first candle '''of''' our Hanukiyas.}}
+# [[from]]; [[of]] {{gl|with the source or provenance of or at}}
+#: {{cot|lad|desde}}
+#* {{quote-journal|lad|journal=La Lettre Sépharade|url=https://books.google.com/books?id=blwwAQAAIAAJ|numbers=1–19|publisher=La Lettre Sépharade|year=2000|page=6|pageurl=https://books.google.com/books?id=blwwAQAAIAAJ&q=komeres|text=Kuando vyenen '''de''' Israel los paryentes i amigos, syempre fazemos notchadas a mi kaza {{...}}|t=When relatives and friends come '''from''' Israel, we always throw night parties at my house.}}
+# [[of]] {{gl|expressing composition or substance}}
+#* {{quote-book|lad|author=Enrique Saporta y Beja|title=En torno de la torre blanca|url=https://books.google.com/books?id=660dAQAAIAAJ|publisher=Editions Vidas Largas
+|year=1982|page=71|pageurl=https://books.google.com/books?id=660dAQAAIAAJ&q=abutargo|text=En un bokal '''de''' vidro avia manos '''de''' abutargo estifadas las unas sovre las otras.|t=There were dry caviar hands in a glass vase, one compressed over the other.}}
+# [[about]] {{gl|concerning or with regard to}}
+#* {{quote-book|lad|author=Matilda Koén-Sarano|title=Por el plazer de kontar|url=https://books.google.com/books?id=fY1iAAAAMAAJ|year=2006|page=401|pageurl=https://books.google.com/books?id=fY1iAAAAMAAJ&q=Auschwitz|text={{...}} i el ke izo mas empresión fue naturalmente Haím Refael, ke kontó '''de''' la Shoá i '''de''' estadía en Auschwitz i '''de''' komo kedó en vida.|t=And the one who made the biggest impression was, naturally, Haím Refael, who recounted the Shoah, the stay in Auschwitz, and how he kept alive.}}
+# [[than]] {{gl|in certain phrases}}
+#: {{cot|lad|ke}}
+#* {{quote-journal|lad
+|title=Nunka Te Olvides
+|author=Dora NİYEGO
+|date=2018-1-17
+|journal=Şalom
+|passage=Kada anyo, mas '''de''' un milion de personas se van a Auschwitz para rekordar los ke murieron.
+|t=Every year, more '''than''' a million people go to Auschwitz to remember those who died.}}
+
+====Usage notes====
+Sometimes before a word beginning with a vowel sound, {{m|lad|de}} elides to {{m|lad|d’}}. Before the article {{m|lad|el}}, it frequently contracts with the article into {{m|lad|del}}. Nevertheless, these contractions are not compulsory in Judezmo as they are in French and Spanish.
+
+===References===
+<references/>
 
 ==Lashi==
 
@@ -1109,7 +1137,7 @@ From {{inh|lsi|tbq-lob-pro}}, from {{inh|lsi|sit-pro|*daj||do, make}}. Cognates 
 ==Latin==
 
 ===Etymology 1===
-From {{der|la|ett|-}}. Etruscan names of [[stop]]s were the stop followed by /eː/.<ref>(2012) The Unicode Consortium, ''The Unicode Standard: Version 6.1 – Core Specification''. {{ISBN|978-1-936213-02-3}}, page 468; citing: (1985) Geoffrey Sampson, ''Writing Systems: A Linguistic Introduction'', Stanford, CA: Stanford University Press. {{ISBN|0-8047-1254-9}}.</ref>
+{{der+|la|ett|-}}. Etruscan names of [[stop]]s were the stop followed by /eː/.<ref>(2012) The Unicode Consortium, ''The Unicode Standard: Version 6.1 – Core Specification''. {{ISBN|978-1-936213-02-3}}, page 468; citing: (1985) Geoffrey Sampson, ''Writing Systems: A Linguistic Introduction'', Stanford, CA: Stanford University Press. {{ISBN|0-8047-1254-9}}.</ref>
 
 ====Pronunciation====
 * {{la-IPA|dē}}
@@ -1125,7 +1153,7 @@ From {{der|la|ett|-}}. Etruscan names of [[stop]]s were the stop followed by /e�
 ===Etymology 2===
 {{etymon|la|id=of|inh|itc-pro>*dē>of}}
 {{etymon|la|id=from|inh|itc-pro>*dē>from|tree=1}}
-From {{inh|la|itc-pro|*dē}}, from an instrumental singular form of {{der|la|ine-pro|*de}}. Also in [[suffixes]] ''-dam, -dum, -de, -dō'' (e.g. {{m|la|quondam}}, {{m|la|inde}}, {{m|la|unde}}, {{m|la|quando|quandō}}), {{m|la|donec|dōnec}}, {{cog|grc|δέ}}, {{m|grc|δή}}, {{cog|en|to}}.
+{{inh+|la|itc-pro|*dē}}, from an instrumental singular form of {{der|la|ine-pro|*de}}. Also in [[suffixes]] ''-dam, -dum, -de, -dō'' (e.g. {{m|la|quondam}}, {{m|la|inde}}, {{m|la|unde}}, {{m|la|quando|quandō}}), {{m|la|donec|dōnec}}, {{cog|grc|δέ}}, {{m|grc|δή}}, {{cog|en|to}}.
 
 ====Pronunciation====
 * {{la-IPA|dē}}
@@ -1488,12 +1516,12 @@ From {{der|mfe|fr|deux}}, from {{inh|mfe|frm|deux}}, from {{inh|mfe|fro|deus}}, 
 ==Mirandese==
 
 ===Etymology===
-From {{inh|mwl|la|de|dē}}.
+{{inh+|mwl|la|de|dē}}.
 
 ===Preposition===
 {{head|mwl|prepositions}}
 
-# [[of]], [[from]]
+# [[of]]; [[from]]
 #: {{ux|inline=1|mwl|Pertual ye un paíç localizado ne l sudoeste '''de''' la Ouropa.|Portugal is a country located in the south-west '''of''' Europe.}}
 
 ==Mòcheno==
@@ -1684,7 +1712,7 @@ From {{der|nn|fr|de}}, {{der|nn|la|de|dē}}.
 ==Occitan==
 
 ===Etymology 1===
-Inherited from {{inh|oc|la|de|dē}}.
+{{etymon|ocp|id=from|inh|pro>de>from|tree=1|text=++}}
 
 ====Preposition====
 {{head|oc|prepositions}}
@@ -1737,7 +1765,7 @@ Inherited from {{inh|oc|la|de|dē}}.
 
 ===Etymology===
 {{etymon|roa-opt|id=of|inh|la>dē>of}}
-From {{inh|roa-opt|la|de|dē|of; from}}.
+{{etymon|roa-opt|id=from|inh|la>dē>from|tree=1|text=++}}
 
 ===Pronunciation===
 * {{IPA|roa-opt|/de/}}
@@ -1746,14 +1774,17 @@ From {{inh|roa-opt|la|de|dē|of; from}}.
 {{head|roa-opt|prepositions}}
 
 # [[of]]
-#* {{roa-opt-cite-cantigas|To|5|http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob018.gif}}
-#*: Eſta ·xviiii· é como ſṫa maria aiudou · á emperadriz '''de''' roma · a ſofrer as grãdes coitaſ per que paſſou.
-#*:: This 19th is how Holy Mary helped the empress '''of''' Rome suffer the great pains she underwent.
+#* {{roa-opt-cite-cantigas|To|5|https://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob018.gif|text=Eſta ·xviiii· é como ſṫa maria aiudou · á emperadriz '''de''' roma · a ſofrer as grãdes coitaſ per que paſſou.|t=This 19th is how Holy Mary helped the empress '''of''' Rome suffer the great pains she underwent.}}
 
 ====Descendants====
 * {{desc|fax|de}}
 * {{desc|gl|de}}
 * {{desc|pt|de}}
+
+===References===
+* {{R:roa-opt:CX}}
+* {{R:roa-opt:DDGM}}
+* {{R:roa-opt:UC|1028}}
 
 ==Old Irish==
 
@@ -1763,7 +1794,7 @@ From {{inh|roa-opt|la|de|dē|of; from}}.
 ===Preposition===
 {{head|sga|prepositions}}
 
-# {{senseid|sga|preposition}} {{alt form|sga|di|t=of, from}}
+# {{sid|sga|preposition}} {{alt form|sga|di|t=of, from}}
 #* {{RQ:sga:Glosses|Sg|26|b|7}}
 #*: {{quote|sga|'''De''' dliguth trá inna n-il-toimdden sin, is de gaibthi “{{m|la||igitur}}”; {{m|la||quasi dixisset}} “Ní fail ní nád taí mo dligeth-sa fair i ndegaid na comroircnech.”
 |'''Of''' the law then, of those many opinions, it is thereof that he recites “{{m|la||igitur}}”; as if he had said, “There is nothing which my law does not touch upon after the erroneous ones.}}
@@ -1771,11 +1802,11 @@ From {{inh|roa-opt|la|de|dē|of; from}}.
 ===Pronoun===
 {{head|sga|prepositional pronouns}}
 
-# {{senseid|sga|inflected preposition}} {{infl of|sga|di|t=of, from||3|s|m//n}}
+# {{sid|sga|inflected preposition}} {{infl of|sga|di|t=of, from||3|s|m//n}}
 #* {{RQ:sga:Glosses|Sg|26|b|7}}
 #*: {{quote|sga|De dliguth trá inna n-il-toimdden sin, is '''de''' gaibthi “{{m|la||igitur}}”; {{m|la||quasi dixisset}} “Ní fail ní nád taí mo dligeth-sa fair i ndegaid na comroircnech.”
 |Of the law then, of those many opinions, it is '''thereof''' that he recites “{{m|la||igitur}}”; as if he had said, “There is nothing which my law does not touch upon after the erroneous ones.}}
-# {{senseid|sga|with comparative}} {{n-g|Used after the comparative degree of an adjective in the meaning of English {{m-g|the}} before a comparative}}
+# {{sid|sga|with comparative}} {{n-g|Used after the comparative degree of an adjective in the meaning of English {{m-g|the}} before a comparative}}
 #: {{ux|inline=1|sga|lía '''de'''|the more|lit=more of it}}
 #* {{RQ:sga:Glosses|Ml|23|d|23}}
 #*: {{quote|sga|Cía thés hí loc bes ardu, ní ardu '''de'''; ní samlid són dúnni, air ⟨im⟩mi ardu-ni '''de''' tri dul isna lucu arda.
@@ -1785,13 +1816,57 @@ From {{inh|roa-opt|la|de|dē|of; from}}.
 ==Old Occitan==
 
 ===Etymology===
-From {{inh|pro|la|de|dē}}.
+{{etymon|pro|id=of|inh|la>dē>of}}
+{{etymon|pro|id=from|inh|la>dē>from|tree=1|text=++}}
 
 ===Preposition===
 {{head|pro|prepositions}}
 
 # [[of]]
 # [[from]]
+
+==Old Spanish==
+
+===Etymology===
+{{etymon|osp|id=of|inh|la>dē>of}}
+{{etymon|osp|id=from|inh|la>dē>from|tree=1|text=++}}
+
+===Preposition===
+{{head|osp|preposition}}
+
+# [[of]]; [[-'s]] {{gl|indicates ownership}}
+#* {{quote-text|osp|year=c. 1250|author=w:Alfonso X|title=Lapidario|section=f. 1v
+|passage={{...}} Rey don alfonso {{...}} Sennor '''de''' caſtiella '''de''' Toledo '''de''' Leon '''de''' Gallizia '''de''' Seuilla '''de''' cordoua '''de''' Murcia '''de''' Jahen. ⁊ '''de'''l Algarbe.
+|t=King don Alfonso, lord '''of''' Castile, '''of''' Toledo, '''of''' León, '''of''' Galicia, '''of''' Seville, '''of''' Cordoba, '''of''' Murcia, '''of''' Jaén and '''of''' the Algarve.}}
+# [[from]]; [[of]] {{gl|with the source or provenance of or at}}
+#* {{quote-text|osp|year=c. 1200|author=Almeric|title=w:Fazienda de Ultramar|section=f. 77v. b.
+|passage=alli luego guio el eſtrella alos tres reyes magos que uinjeron '''de''' orient.
+|t=There the star later guided the Three Wise Men that came '''from''' the east.}}
+# [[of]] {{gl|expressing composition or substance}}
+#* {{quote-text|osp|year=c. 1200|author=Almeric|title=w:Fazienda de Ultramar|section=ff. 66r. b.-66v. a.
+|passage=e ſus mugieres beuiã el uino e loauan a ſos dios '''de''' oro e '''de''' plata e '''de''' aramne e '''de''' fiero e '''de''' piedra e '''de''' madero.
+|t=And their wives drank the wine and they worshiped their gods '''of''' gold and silver, '''of''' bronze, iron, stone and wood.}}
+# [[about]] {{gl|concerning or with regard to}}
+#* {{quote-text|osp|year=c. 1250|author=w:Alfonso X|title=Lapidario|section=f. 118v
+|passage=Et dixieron los ſabios en el libro '''de''' las piedras que la uerde atal uirtut. que quien la engaſtonare en ſortija. la traxiere conſigo. nõ aura la enfermedat a que dizen ydropiſia.
+|t=And in the ''Book of Stones'' the wise men claimed that the green stone possesses such virtue that he who mounts it on a ring and has it with him will not suffer from the illness they call dropsy.}}
+# [[of]] {{gl|indicates a quality or characteristic}}
+#* {{Q|osp|Alfonso Chirino|Menor daño de la medicina (Escorial, b.IV.34)|115r|year=ca. 1429|refn=<ref>as shown in the RAE's Diachronic Corpus of Spanish (CORDE), accessed 2021-02-27</ref>|quote={{...}} vn pañezuelo '''de''' buen diaquilon|t=A cloth piece '''of''' good [[diachylon]].}}
+# [[than]] {{gl|in certain phrases}}
+#: {{cot|osp|que}}
+#* {{quote-text|osp|year=c. 1200|author=Almerich|title=w:Fazienda de Ultramar|section=f. 82r
+|passage=Al dia ſeteno dixierõ lo ellos aſãſõ. Q̃ es mas dulce q̃ la miel o q̃l es mas fuerte '''de'''l leon. dixo ſãpſõ. Si nõ araſſedes cõ mẏ uaq̃ella. nõ ſoltariedes mi adeuinãçiella.
+|translation=On the seventh day, they said to Samson, “What is sweeter than honey? Or what is stronger '''than''' a lion?” Samson said, “If you had not plowed with my heifer, you would not have solved my little riddle!”}}
+
+====Descendants====
+* {{desc|lad|de|די}}
+* {{desc|es|de}}
+
+===Derived terms===
+{{col|osp|del}}
+
+===References===
+* {{R:osp:TDMS|163}}
 
 ==Papuan Malay==
 
@@ -1875,7 +1950,7 @@ From the first letter of {{m|pl|dupa}}.
 * {{alt|pt|d'||archaic|except for fixed terms}}
 
 ===Etymology===
-From {{inh|pt|roa-opt|de||of}}, from {{inh|pt|la|de|dē|of}}.
+{{etymon|pt|id=of|inh|roa-opt>de>of|tree=1|text=++}} Cognate with {{cog|gl|de}}.
 
 ===Pronunciation===
 {{pt-IPA}}
@@ -1886,43 +1961,43 @@ From {{inh|pt|roa-opt|de||of}}, from {{inh|pt|la|de|dē|of}}.
 ===Preposition===
 {{head|pt|prepositions}}
 
-# {{senseid|pt|in relation to}} [[of]] {{gloss|in relation to}}
+# {{sid|pt|in relation to}} [[of]] {{gloss|in relation to}}
 #* {{RQ:mul:Rowling Harry Potter|pt-BR|6|page=138|text=O protesto '''de''' Hermione foi abafado por uma risadinha alta.|t=Hermione's objection was interrupted by a loud little laugh.}}
 #: {{uxi|pt|os amigos '''d'''ele|his friends|lit=the friends '''of''' him}}
-## {{senseid|pt|forms compounds}} [[of]] {{gloss|forms compounds; often untranslated}}
+## {{sid|pt|forms compounds}} [[of]] {{gloss|forms compounds; often untranslated}}
 ##: {{uxi|pt|fones '''de''' ouvido|headphones|lit=phones '''of''' ear}}
 ##: {{uxi|pt|acampamento '''de''' verão|summer camp}}
-## {{senseid|pt|about}} [[of]]; [[about]] {{gloss|on the subject of}}
+## {{sid|pt|about}} [[of]]; [[about]] {{gloss|on the subject of}}
 ##: {{uxi|pt|'''Do''' que estavam falando?|What were they talking '''about'''?}}
-## {{senseid|pt|belonging to}} [[of]]; [[-'s]] {{gloss|belonging to}}
+## {{sid|pt|belonging to}} [[of]]; [[-'s]] {{gloss|belonging to}}
 ##: {{uxi|pt|a casa '''de''' alguém|someone''''s''' house}}
-## {{senseid|pt|made by}} [[-'s]] {{gloss|made by}}
+## {{sid|pt|made by}} [[-'s]] {{gloss|made by}}
 ##: {{uxi|pt|Você provou o bolo '''da''' minha mãe?|Have you tried my mother'''’s''' cake?}}
-## {{senseid|pt|part of}} [[of]] {{gloss|being a part of}}
+## {{sid|pt|part of}} [[of]] {{gloss|being a part of}}
 ##: {{uxi|pt|capa '''do''' livro|cover '''of the''' book}}
-## {{senseid|pt|day of a month}} [[of]] {{gloss|introduces the month a given day is part of}}
+## {{sid|pt|day of a month}} [[of]] {{gloss|introduces the month a given day is part of}}
 ##: {{uxi|pt|Primeiro '''de''' janeiro.|First '''of''' January.}}
-## {{senseid|pt|object of agent noun}} [[of]] {{gloss|introduces the object of an agent noun}}
+## {{sid|pt|object of agent noun}} [[of]] {{gloss|introduces the object of an agent noun}}
 ##: {{uxi|pt|Hitler foi um exterminador '''de''' judeus.|Hitler was an exterminator '''of''' Jews.}}
-## {{senseid|pt|introduces a placename}} [[of]] {{gloss|introduces the name of a place following its hypernym}}
+## {{sid|pt|introduces a placename}} [[of]] {{gloss|introduces the name of a place following its hypernym}}
 ##: {{uxi|pt|A vila '''de''' Iorque.|The village '''of''' York.}}
-# {{senseid|pt|made of}} [[of]]; [[-en]] {{gloss|made or consisting of}}
+# {{sid|pt|made of}} [[of]]; [[-en]] {{gloss|made or consisting of}}
 #: {{uxi|pt|'''De''' que é feito?|What is this made '''of'''?|lit='''Of''' what is made this?}}
-## {{senseid|pt|-long}} [[-long]] {{gloss|having the duration of}}
+## {{sid|pt|-long}} [[-long]] {{gloss|having the duration of}}
 ##: {{uxi|pt|um filme '''de''' duas horas|a two hour'''-long''' movie}}
-## {{senseid|pt|indicates composition of a collective or quantitative noun}} [[of]] {{gloss|indicates the composition of a given collective or quantitative noun}}
+## {{sid|pt|indicates composition of a collective or quantitative noun}} [[of]] {{gloss|indicates the composition of a given collective or quantitative noun}}
 ##: {{uxi|pt|Milhares '''de''' pessoas vieram.|Thousands '''of''' people came.}}
-## {{senseid|pt|characterised by}} [[of]] {{gloss|characterised by; having the given quality}}
+## {{sid|pt|characterised by}} [[of]] {{gloss|characterised by; having the given quality}}
 ##: {{uxi|pt|O templo não é mais um local '''de''' paz.|The temple is no longer a place '''of''' peace.}}
-# {{senseid|pt|introduces noun that applies an adjective}} [[of]] {{gloss|introduces the noun that applies a given adjective or past participle}}
+# {{sid|pt|introduces noun that applies an adjective}} [[of]] {{gloss|introduces the noun that applies a given adjective or past participle}}
 #: {{uxi|pt|Um balde cheio '''de''' água.|A bucket full '''of''' water.}}
-# {{senseid|pt|from}} [[from]] {{gloss|born in or coming out of}}
+# {{sid|pt|from}} [[from]] {{gloss|born in or coming out of}}
 #: {{uxi|pt|'''De''' onde você é?|Where are you '''from'''?}}
-# {{senseid|pt|by means of}} [[by means of]]; [[by]]
+# {{sid|pt|by means of}} [[by means of]]; [[by]]
 #: {{uxi|pt|Eu sempre vou trabalhar '''de''' ônibus.|I always go to work '''by''' bus.}}
-# {{senseid|pt|in the role of}} [[as]] {{gloss|in the role of}}
+# {{sid|pt|in the role of}} [[as]] {{gloss|in the role of}}
 #: {{uxi|pt|Na festa, ele estava '''de''' bruxo.|At the party, he was '''dressed as a''' wizard.}}
-# {{senseid|pt|wearing}} [[in]] {{gloss|wearing}}
+# {{sid|pt|wearing}} [[in]] {{gloss|wearing}}
 #: {{uxi|pt|Homens '''de''' Preto|''Men '''in''' Black''}}
 
 ====Usage notes====
@@ -2397,7 +2472,7 @@ From {{inh|nr|bnt-pro|*-dàì}}.
 [[Image:DE ligature.svg|thumb|upright|right|Spanish preposition “de” written as a ligature in capitals]]
 [[Image:DE ligature.JPG|thumb|right|Hand-painted preposition “DE” in the wild]]
 
-{{inh+|es|osp|de}}, from {{inh|es|la|de|dē}}.
+{{etymon|es|id=from|inh|osp>de>from|tree=1|text=++}} Cognate with {{cog|lad|de}}.
 
 ====Preposition====
 {{head|es|prepositions}}
@@ -2412,7 +2487,7 @@ From {{inh|nr|bnt-pro|*-dàì}}.
 #: {{ux|inline=1|es|una mesa '''de''' madera|a '''wooden''' table}}
 # [[about]] {{gloss|concerning; with regard to}}
 #: {{syn|es|sobre|acerca de}}
-#: {{ux|es|Están hablando '''del''' pasado.|They're talking '''about''' the past.}}
+#: {{ux|es|Están hablando '''del''' pasado.|They’re talking '''about''' the past.}}
 #: {{uxi|es|[[tratar|tratarse]] '''de'''|to be '''about'''; to concern}}
 # [[of]], [[from]] {{gloss|indicating cause}}
 #: {{ux|es|Murió '''de''' hambre.|He died '''of''' hunger.}}
@@ -2445,7 +2520,7 @@ From {{inh|nr|bnt-pro|*-dàì}}.
 * May form an all-capital ligature {{m|es|Đ}}.
 
 =====Derived terms=====
-{{col|es|del|dequeísmo}}
+{{col|es|daquel|daquella|daqui|del|dél|dela|delas|della|dellas|dello|dellos|delos|desa|desas|dese|deso|desos|desta|désta|destas|déstas|deste|déste|desto|désto|destos|déstos|dequeísmo}}
 
 =====Related terms=====
 {{col|es|desde}}
