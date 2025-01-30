@@ -111,10 +111,10 @@ The adverb and interjection are from the verb.
 * Assamese: {{t|as|ক}}
 * Bashkir: {{t|ba|әйтеү}}, {{t|ba|тейеү}}
 * Big Nambas: {{t|nmb|ivr}}
-* Bulgarian: {{t+|bg|ка́звам|impf}}
+* Bulgarian: {{t+|bg|ка́звам|impf}}, {{t+|bg|ка́жа|pf}}
 * Catalan: {{t+|ca|dir}}
 * Chinese:
-*: Hokkien: {{t|nan-hbl|讲|tr=kóng}}
+*: Hokkien: {{t|nan-hbl|講|tr=kóng}}
 *: Mandarin: {{t+|cmn|說|tr=shuō}}
 * Czech: {{t+|cs|říkat|impf}}, {{t+|cs|říct|pf}}
 * Dutch: {{t+|nl|zeggen}}
@@ -147,6 +147,7 @@ The adverb and interjection are from the verb.
 * Nǀuu: {{t|ngh|ka}}
 * Oromo: {{t|om|jechuu}}
 * Persian:
+*: Dari {{t+|prs|گُفْتَن}}
 *: Iranian Persian: {{t+|fa-ira|گُفْتَن}}
 * Polish: {{t+|pl|powiadać|impf}}, {{t+|pl|powiedzieć|pf}}
 * Portuguese: {{t+|pt|dizer}}, {{t+|pt|dire}}
@@ -197,7 +198,7 @@ The adverb and interjection are from the verb.
 *: Tashelhit: {{tt|shi|ini}}
 * Brahui: {{tt|brh|par}}
 * Breton: {{tt+|br|lavaret}}
-* Bulgarian: {{tt+|bg|произнасям|impf}}
+* Bulgarian: {{tt+|bg|ка́звам|impf}}, {{tt+|bg|ка́жа|pf}}
 * Burmese: {{tt+|my|ဆို}}, {{tt+|my|ပြော}}
 * Catalan: {{tt+|ca|dir}}
 * Chechen: {{tt|ce|ала}}
@@ -206,11 +207,11 @@ The adverb and interjection are from the verb.
 * Chinese:
 *: Cantonese: {{tt+|yue|講|tr=gong2}}
 *: Eastern Min: {{tt|cdo|講|tr=kóng, káng}}
-*: Hokkien: {{tt|nan-hbl|讲|tr=kóng}}, {{tt|nan-hbl|说|tr=seh}}
+*: Hokkien: {{tt|nan-hbl|講|tr=kóng}}, {{tt|nan-hbl|說|tr=seh}}
 *: Mandarin: {{tt+|cmn|說|tr=shuō}} {{qualifier|say, speak, pronounce}}, {{tt+|cmn|告訴|tr=gàosu}} {{qualifier|tell (somebody)}}
 *: Wu: {{tt|wuu|講}}
 * Cornish: {{tt|kw|leverel}}, {{tt|kw|lawl}}
-* Czech: {{tt+|cs|říct|impf}}, {{tt+|cs|povědět|pf}}
+* Czech: {{tt+|cs|říkat|impf}}, {{tt+|cs|říct|impf}}, {{tt+|cs|povědět|pf}}
 * Dalmatian: {{tt|dlm|decro}}
 * Danish: {{tt+|da|sige}}
 * Dutch: {{tt+|nl|zeggen}}, {{tt+|nl|luiden}}, {{tt+|nl|opzeggen}}
@@ -279,7 +280,8 @@ The adverb and interjection are from the verb.
 * Malayalam: {{tt|ml|പറയുന്നു}}, {{tt|ml|ശബ്ദിക്കുന്നു}}
 * Manx: {{tt|gv|abbyr}}
 * Marathi: {{tt+|mr|म्हणणे}}
-* Mongolian: {{tt+|mn|хэлэх}}
+* Mongolian:
+*: Cyrillic: {{tt+|mn|хэлэх}}
 * Nanai: {{tt|gld|ун-}}
 * Nepali: {{tt+|ne|भन्नु}}, {{tt|ne|बोल्नु}}
 * Norman: {{tt|nrf|dithe}}
@@ -296,11 +298,14 @@ The adverb and interjection are from the verb.
 * Old Saxon: {{tt|osx|seggian}}
 * Ottoman Turkish: {{tt|ota|سویله‌مك|tr=söylemek}}
 * Pashto: {{tt|ps|ويل|tr=wayᶕl}}, {{tt+|ps|اظهارول|tr=ezhārawᶕl}}
-* Persian: {{tt+|fa|گفتن|tr=goftan}}
+* Persian:
+*: Dari {{tt+|prs|گُفْتَن}}
+*: Iranian Persian: {{tt+|fa-ira|گُفْتَن}}
 * Piedmontese: {{t|pms|dì}}
 * Polish: {{tt+|pl|mówić|impf}}, {{tt+|pl|powiadać|impf}}, {{tt+|pl|powiedzieć|pf}}, {{tt+|pl|wymawiać}}, {{tt+|pl|rzec|impf}}
 * Portuguese: {{tt+|pt|dizer}}, {{tt+|pt|falar}}
-* Punjabi: {{tt|pa|ਕਹਿਣਾ}}
+* Punjabi:
+*: Gurmukhi: {{tt|pa|ਕਹਿਣਾ}}
 * Quechua: {{tt|qu|ñiy}}, {{tt|qu|nii}}
 * Rapa Nui: {{tt|rap|ki}}
 * Romanian: {{tt+|ro|zice}}, {{tt+|ro|spune}}
@@ -314,16 +319,16 @@ The adverb and interjection are from the verb.
 * Sassarese: {{tt|sdc|fabiddà}}
 * Scottish Gaelic: {{tt|gd|abair}}, {{tt+|gd|can}}
 * Serbo-Croatian:
-*: Cyrillic: {{tt|sh|рећи|impf}}, {{tt|sh|говорити|impf}}, {{tt|sh|казати|pf}}
-*: Roman: {{tt+|sh|rȅći|impf}}, {{tt+|sh|govoriti|impf}}, {{tt+|sh|kázati|pf}}
+*: Cyrillic: {{tt|sh|ре̏ћи|impf}}, {{tt|sh|гово̀рити|impf}}, {{tt|sh|ка́зати|pf}}
+*: Roman: {{tt+|sh|rȅći|impf}}, {{tt+|sh|govòriti|impf}}, {{tt+|sh|kázati|pf}}
 * Shan: {{t-needed|shn}}
 * Sicilian: {{tt+|scn|diri}}, {{tt+|scn|dìciri}}
-* Sindhi: {{t|sd|چَوَڻُ|tr=chavaNu}}
+* Sindhi: {{t|sd|چَوَڻُ|tr=cavaṇu}}
 * Sinhalese: {{tt|si|කියනවා}}
 * Slovak: {{tt+|sk|hovoriť|impf}}, {{tt|sk|povedať|pf}}
 * Slovene: {{tt+|sl|reči|impf}}, {{tt+|sl|povedati|pf}}
 * Sorbian:
-*: Lower Sorbian: {{tt|dsb|groniś}}
+*: Lower Sorbian: {{tt|dsb|groniś|impf|pf}}
 * Spanish: {{tt+|es|decir}}
 * Sundanese: {{tt|su|carios}}
 * Swedish: {{tt+|sv|säga}}
@@ -341,7 +346,7 @@ The adverb and interjection are from the verb.
 * Turkmen: {{tt|tk|diýmek}}
 * Udmurt: {{tt|udm|шуыны}}
 * Ukrainian: {{tt+|uk|говори́ти|impf}}, {{tt+|uk|каза́ти|impf}}, {{tt+|uk|сказа́ти|pf}}
-* Urdu: {{tt|ur|کہنا|tr=kahnā}}
+* Urdu: {{tt|ur|کَہْنا}}
 * Uyghur: {{tt|ug|دېمەك}}
 * Uzbek: {{tt+|uz|demoq}}, {{tt+|uz|gapirmoq}}
 * Vietnamese: {{tt+|vi|nói}}
@@ -361,7 +366,7 @@ The adverb and interjection are from the verb.
 * Bashkir: {{t|ba|һөйләү}}
 * Berber:
 *: Tashelhit: {{t|shi|ɣr}}
-* Bulgarian: {{t+|bg|декламирам}}
+* Bulgarian: {{t+|bg|деклами́рам|impf|pf}}
 * Burmese: {{t+|my|ပြော}}
 * Catalan: {{t+|ca|recitar}}, {{t+|ca|declamar}}
 * Dutch: {{t+|nl|opzeggen}}
@@ -382,9 +387,11 @@ The adverb and interjection are from the verb.
 * Norman: {{t|nrf|dithe}}
 * Norwegian:
 *: Bokmål: {{t|nb|resitere}}, {{t|nb|forrette}}
-* Persian: {{t|fa|باز خواندن|tr=bâz xândan}}
+* Persian:
+*: Iranian Persian: {{t+|fa-ira|باز خوانْدَن}}
 * Portuguese: {{t+|pt|recitar}}
-* Serbo-Croatian: {{t+|sh|recitírati}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|recitírati}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|groniś}}
 * Turkish: {{t+|tr|söylemek}}, {{t+|tr|okumak}}
@@ -400,7 +407,7 @@ The adverb and interjection are from the verb.
 * Bashkir: {{t|ba|әйтеү}}, {{t|ba|һөйләү}}
 * Berber:
 *: Tashelhit: {{t|shi|ini}}
-* Bulgarian: {{t+|bg|говоря}}
+* Bulgarian: {{t+|bg|гово́ря|impf}}
 * Catalan: {{t+|ca|dir}}
 * Chickasaw: {{t|cic|aachi}}
 * Chinese:
@@ -442,15 +449,18 @@ The adverb and interjection are from the verb.
 *: Norwegian Nynorsk: {{t|nn|seia}}, {{t|nn|seie}}
 * Old Turkic: {{t|otk|𐱅𐰃|ts=té-}}
 * Ottoman Turkish: {{t|ota|دیمك|tr=demek}}
-* Persian: {{t+|fa|گفتن|tr=goftan}}
+* Persian:
+*: Dari {{t+|prs|گُفْتَن}}
+*: Iranian Persian: {{t+|fa-ira|گُفْتَن}}
 * Polish: {{t+|pl|mówić}}
 * Portuguese: {{t+|pt|dizer}}, {{t+|pt|falar}}
 * Ratahan: {{t|rth|maoman}}
 * Romanian: {{t+|ro|zice}}, {{t+|ro|spune}}
 * Romansch: {{t|rm|dir}}
 * Russian: {{t+|ru|говори́ть|impf}}, {{t+|ru|сказа́ть|pf}}, {{t+|ru|сообща́ть|impf}}, {{t+|ru|сообщи́ть|pf}}
-* Serbo-Croatian: {{t+|sh|rȅći}}, {{t+|sh|kázati}}
-* Slovak: {{t|sk|povedať}}, {{t+|sk|hovoriť}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|rȅći}}, {{t+|sh|kázati}}
+* Slovak: {{t+|sk|hovoriť|impf}}, {{t|sk|povedať|pf}}
 * Slovene: {{t+|sl|reči}}, {{t|sl|praviti}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|groniś}}
@@ -483,11 +493,13 @@ The adverb and interjection are from the verb.
 * Norwegian:
 *: Norwegian Bokmål: {{t+|no|si}}, {{t+|nb|opplyse}}, {{t+|nb|fortelle|alt=fortelle om}}, {{t+|nb|vise}}
 *: Norwegian Nynorsk: {{t|nn|seia}}, {{t|nn|seie}}
-* Persian: {{t+|fa|نمایاندن|tr=namâyândan}}, {{t+|fa|نمودن|tr=nemudan}}
+* Persian:
+*: Iranian Persian: {{t+|fa-ira|نَمایانْدَن}}, {{t+|fa-ira|نِمودَن}}
 * Portuguese: {{t+|pt|dizer}}
 * Russian: {{t+|ru|гласи́ть|impf}}
-* Serbo-Croatian: {{t+|sh|kázati}}
-* Slovak: {{t+|sk|hovoriť}}, {{t|sk|povedať}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|kázati}}
+* Slovak: {{t+|sk|hovoriť|impf}}, {{t|sk|povedať|pf}}
 * Slovene: {{t+|sl|reči}}, {{t|sl|praviti}}
 * Spanish: {{t+|es|decir}}, {{t+|es|poner}}
 * Swedish: {{t+|sv|stå}}
@@ -514,7 +526,7 @@ The adverb and interjection are from the verb.
 {{trans-bottom}}
 
 {{trans-top|imperative: let's say}}
-* Bulgarian: {{t|bg|да кажем}}
+* Bulgarian: {{t|bg|да ка́жем}}
 * Burmese: {{t+|my|ပေါ့}}
 * Dutch: {{t|nl|laten wij zeggen}}
 * Esperanto: {{t|eo|ni diru}}
@@ -544,9 +556,7 @@ The adverb and interjection are from the verb.
 * Ido: {{t+check|io|dicar}}
 * Indonesian: {{t+check|id|kata|alt=berkata}} {{attention|id|2=was "[[kata|berkata]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t+check|id|kata|alt=mengatakan}} {{attention|id|2=was "[[kata|mengatakan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t+check|id|sebut|alt=menyebutkan}} {{attention|id|2=was "[[sebut|menyebutkan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t+check|id|tutur|alt=bertutur}} {{attention|id|2=was "[[tutur|bertutur]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Interlingua: {{t-check|ia|dicer}}
-* Korean: {{t+check|ko|말하다}}
 * Manchu: {{t-check|mnc|sembi}}, {{t-check|mnc|hendumbi}}
-* Persian: {{t+check|fa|گفتن|tr=goftan}}, {{t+check|fa|گو|tr=gu}} {{qualifier|present tense}}
 * Swedish: {{t+check|sv|säga}}
 * Tagalog: {{t-check|tl|magsabi}}
 * Telugu: {{t+check|te|చెప్పు}}
