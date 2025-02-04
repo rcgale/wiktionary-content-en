@@ -10,28 +10,35 @@ From {{inh|en|enm|with}}, from {{inh|en|ang|wiþ|t=against, opposite, toward, wi
 * {{sense|[[w:eye dialect|eye dialect]]}} {{l|en|wi'}}, {{l|en|wit}}, {{l|en|wit'}}, {{l|en|wid}}, {{l|en|wif}}, {{l|en|wiv}}
 
 ====Pronunciation====
-; preconsonantal, final
-* {{IPA|en|/wɪð/|/wɪθ/|q2=less often|a=UK}}
-** {{IPA|en|/wɪi/|a=Yorkshire}}
-** {{IPA|en|/wɪv/|a=Cockney}}
-** {{audio|en|en-uk-with.ogg|a=UK}}
-* {{IPA|en|/wɪθ/|/wɪð/|a=GA}}
-** {{audio|en|en-us-with.ogg|a=US}}
-* {{IPA|en|/wɪt/|/wɪf/|/wɪ/|a=AAVE}}<ref>Carol Genetti, ''How Languages Work: An Introduction to Language and Linguistics'' (2014)</ref>
-* {{IPA|en|/wɪθ/|/wɪð/|q2=less often|a=CA}}
-** {{IPA|en|[wɪt~wɪʔ]|[wɪd]|a=Ottawa Valley}}
-* {{IPA|en|/wɪθ/|/wɪð/|q2=less often|a=AusE}}
-* {{IPA|en|/wəθ/|/wəð/|a=NZ}}
+* {{audio|en|en-uk-with.ogg|a=UK}}
+* {{audio|en|en-us-with.ogg|a=US}}
 * {{rhymes|en|ɪθ|ɪð|s=1}}
-<!-- 1 syllable words !-->
-; prevocalic
-* {{IPA|en|/wɪð/|a=UK}}
-* {{IPA|en|/wɪθ/|/wɪð/|a=GA}}
-* {{IPA|en|/wɪθ/|/wɪð/|a=CA}}
-** {{IPA|en|[wɪɾ̥~wɪɾ]|a=Ottawa Valley}}
-* {{IPA|en|/wɪθ/|/wɪð/|a=AU}}
-* {{IPA|en|/wəθ/|/wəð/|a=NZ}}
-* {{rhymes|en|ɪð|ɪθ|s=1}}
+{| class="wikitable"
+|-
+! rowspan="2" colspan="2" | accent !! colspan="2" | preconsonantal, final !! rowspan="2" | prevocalic
+|-
+! scope=col | more often || less often
+|-
+| rowspan="3" | {{a|en|UK}} || {{a|en|RP}} || {{IPAfont|/wɪð/}} || {{IPAfont|/wɪθ/}} || rowspan="3" | {{IPAfont|/wɪð/}}
+|-
+| {{a|en|Yorkshire}} || colspan="2" |{{IPAfont|wɪi}}
+|-
+| {{a|en|Cockney}} || colspan="2" | {{IPAfont|wɪv}}
+|-
+| colspan="2" | {{a|en|South Asia}} || {{IPAfont|/wɪd̪/}} || {{IPAfont|/wɪt̪/}} || {{IPAfont|/wɪd̪/}}
+|-
+| rowspan="2" | {{a|en|US}} || {{a|en|AAVE}} || colspan="3" | {{IPAfont|/wɪt/, /wɪf/, /wɪ/}}<ref>Carol Genetti, ''How Languages Work: An Introduction to Language and Linguistics'' (2014)</ref>
+|-
+| {{a|en|GA}} || rowspan="3" | {{IPAfont|/wɪθ/}} || rowspan="3" | {{IPAfont|/wɪð/}} || rowspan="3" | {{IPAfont|/wɪθ/, /wɪð/}}
+|-
+| colspan="2" | {{a|en|AU}}
+|-
+| rowspan="2" | {{a|en|CA}} || {{a|en|[[w:Standard_Canadian_English|Standard]]}}
+|-
+| {{a|en|[[w:Ottawa Valley|Ottawa Valley]]}} || colspan="2 |{{IPAfont|[wɪt~wɪʔ]}} || {{IPAfont|[wɪɾ̥~wɪɾ]}}
+|-
+| colspan="2" | {{a|en|NZ}} || colspan="3" | {{IPAfont|/wəθ/, /wəð/}}
+|}
 
 ====Preposition====
 {{en-prep}}
