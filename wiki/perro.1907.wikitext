@@ -12,9 +12,40 @@
 ===Noun===
 {{cbk-noun}}
 
-# [[dog]]
+# {{tcl|cbk|dog|id=Q144}}
 
 {{C|cbk|Dogs|Mammals}}
+
+==Ladino==
+{{wp|lang=lad}}
+
+===Noun===
+{{lad-noun|g=m|heb=פירו}}<ref name="Folkmasa">{{R:lad:Folkmasa}}</ref>
+
+# {{altform|lad|pero}}
+#* {{quote-book|lad|author=Enrique Saporta y Beja|title=En torno de la torre blanca|url=https://books.google.com/books?id=660dAQAAIAAJ|publisher=Editions Vidas Largas
+|year=1982|page=221|pageurl=https://books.google.com/books?id=660dAQAAIAAJ&q=errantes|text=La limpyeza era el fetcho de una banda de '''perros''' errantes, flakos i yenos de pulgas ke se kargavan de desbarasar los montones de suzyeda.|t=Cleanliness was in a pack of stray '''dogs'''’ {{q-g|best}} interest, as they were weak and lousy from so much filth.}}
+
+===References===
+<references/>
+
+==Old Spanish==
+
+===Etymology===
+{{unc|osp}}. Perhaps from a call used for dogs; compare {{ncog|gl|apurrar||set the dogs on}}. Another theory derives it from {{der|osp|xib|-}}; compare {{cog|ast|perru}}. If so, it may be related to {{cog|es|zorro}}.
+
+===Verb===
+{{osp-noun|m}}
+
+# {{tcl|osp|dog|id=Q144|lb=pejorative}} {{defdate|ca. 1200}}
+#: {{syn|osp|can}}
+
+====Descendants====
+* {{desc|lad|pero|perro|פירו}}
+* {{desctree|es|perro}}
+
+===References===
+* {{R:osp:TDMS|391}}
 
 ==Portuguese==
 
@@ -36,12 +67,12 @@
 #: {{syn|pt|teimoso}}
 
 ====Derived terms====
-* {{l|pt|emperrar}}
+{{col|pt|emperrar}}
 
 ===Noun===
 {{pt-noun|m}}
 
-# {{lb|pt|rare}} [[dog]]
+# {{tcl|pt|dog|id=Q144|lb=rare}}
 #: {{syn|pt|cão|cachorro}}
 # {{lb|pt|figurative}} [[mischievous]] person
 
@@ -53,16 +84,17 @@
 [[File:Anabel orla do fila.jpg|thumb|un '''perro''']]
 
 ===Etymology===
-From {{inh|es|osp|perro}} (ca. 1200), of {{unc|es|nocap=1}} origin. Originally had a pejorative connotation, but soon began to supplant the Latin word {{m|es|can}}. Perhaps from a call used for dogs; compare {{ncog|gl|apurrar||set the dogs on}}. Another theory derives it from {{der|es|xib|-}}, compare {{cog|ast|perru}}. If so, it may be related to {{cog|es|zorro}}.
+{{inh+|es|osp|perro||cur}} (ca. 1200), of {{unc|es|nocap=1}} origin. Originally had a pejorative connotation, but soon began to supplant the Latin word {{m|es|can}}. Perhaps from a call used for dogs; compare {{ncog|gl|apurrar||set the dogs on}}. Another theory derives it from {{der|es|xib|-}}; compare {{cog|ast|perru}}. If so, it may be related to {{cog|es|zorro}}.
 
 ===Pronunciation===
 {{es-pr|+<audio:LL-Q1321 (spa)-Millars-perro.wav<a:Spain>>}}
 
 ===Noun===
-{{es-noun|m|f=+}}
+{{es-noun|m|f=+|dim=perrillo|dim2=perrito}}
 
-# [[dog]] {{gl|animal}}
+# {{tcl|es|dog|id=Q144}}
 #: {{syn|es|can<q:formal>|chucho<q:colloquial>}}
+#: {{coi|es|'''perro''' [[callejero]]|[[stray dog|stray '''dog''']]}}
 # {{lb|es|Chile}} [[clothes peg]], [[clothespin]]
 #: {{hypo|es|cachorro|quiltro}}
 # {{lb|es|pejorative}} [[asshole]] {{gl|despicable person}}
@@ -78,9 +110,9 @@ From {{inh|es|osp|perro}} (ca. 1200), of {{unc|es|nocap=1}} origin. Originally h
 ===Adjective===
 {{es-adj}}
 
-# [[doggy]], [[doggish]]
+# [[doggy]] or [[doggish]]
 # [[awful]]
-# [[wicked]], [[mean]]
+# [[wicked]]; [[mean]]
 
 ===See also===
 * {{l|es|pichicho}}
