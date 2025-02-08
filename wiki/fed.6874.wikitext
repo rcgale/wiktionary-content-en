@@ -1,11 +1,10 @@
 {{also|Fed|FED|-fed|Fed.}}
 ==English==
-{{wikipedia|FED}}
 
 ===Pronunciation===
+* {{IPA|en|/fɛd/}}
 * {{audio|en|en-us-fed.ogg|a=US}}
 * {{rhymes|en|ɛd|s=1}}
-* {{IPA|en|/fɛd/}}
 
 ===Etymology 1===
 {{clipping|en|federal}}.
@@ -13,34 +12,46 @@
 ====Noun====
 {{en-noun}}
 
-# {{lb|en|US|derogatory|slang}} A federal government officer or official, especially an [[FBI]], [[CIA]], [[NSA]], [[ATF]]{{,}} or [[DEA]] agent.
-#: ''That corrupt '''fed''' was caught taking bribes from a mobster!''
-## {{lb|en|Australia|slang}} A federal police officer; an officer of the [[AFP]].
-# {{lb|en|London|[[Toronto]]|especially|MLE|MTE|slang}} A [[police officer]].
-#* '''2022''', 15 March, ''Kill the Bill protester who led ‘f*** the feds’ chant jailed over police car torching'' (in ''Metro'' newspaper)
-#*: Jasmine York led chants of ‘f*** the f***ing '''feds'''’ as a crowd marched on Bristol’s Bridewell police station.
-# {{lb|en|Canada|in the plural}} The Canadian federal government.
+# {{lb|en|slang|derogatory}} A [[federal]] [[government]] [[officer]] or [[official]].
+#: {{ux|en|That corrupt '''fed''' was caught taking bribes from a mobster!}}
+# {{lb|en|MLE|MTE|slang}} A [[police officer]].
+#: {{syn|en|Thesaurus:police officer}}
+#* {{quote-web|en|date=2022-03-15|author=<!-- Metro News Reporter -->|title=Kill the Bill protester who led ‘f*** the feds’ chant jailed over police car torching|work=[[w:Metro (British newspaper)|Metro]]|url=https://metro.co.uk/2022/03/15/kill-the-bill-protester-who-torched-a-police-car-is-jailed-16275915/
+|passage=Jasmine York led chants of ‘f*** the f***ing '''feds'''’ as a crowd marched on Bristol’s Bridewell police station.}}
+# {{lb|en|Canada|in the plural}} The Canadian [[federal]] [[government]].
 #: {{ux|en|Salmon were becoming scarce in the river until the '''feds''' stepped in.}}
 
-=====Synonyms=====
-* {{sense|police officer}} see [[Thesaurus:police officer]]
-
 =====Derived terms=====
-{{col|en|fedpost
+{{col|en
+|fedpost
 }}
 
 ===Etymology 2===
-{{clipping|en|federation}}.
+From {{m|en|federation}}.
 
 ====Noun====
 {{en-noun}}
 
-# {{lb|en|weightlifting|colloquial}} A [[federation]] in which [[powerlifter]]s organize to [[compete]].
+# {{lb|en|weightlifting|slang}} A [[federation]] in which [[powerlifter]]s organize to [[compete]].
+# {{lb|en|computing|telecommunications}} {{clipping of|en|federation}}
 
 =====Derived terms=====
-* {{l|en|e-fed}}
+{{col|en
+|e-fed
+}}
+
+====Verb====
+{{en-verb}}
+
+# {{lb|en|computing|telecommunications}} {{clipping of|en|federate}}
+
+=====Related terms=====
+{{col|en
+|defed
+}}
 
 ===Etymology 3===
+{{non-lemma}}
 
 ====Verb====
 {{head|en|verb form}}
@@ -48,7 +59,8 @@
 # {{infl of|en|feed||ed-form}}
 
 =====Derived terms=====
-{{col|en|belt-fed
+{{col|en
+|belt-fed
 |bloodfed
 |cornfed
 |fedpost
@@ -69,6 +81,7 @@
 * {{anagrams|en|a=def|DEF|Def.|DfE|FDE|def}}
 
 {{cln|en|irregular past participles|irregular simple past forms}}
+{{C|en|Law enforcement|Fediverse}}
 
 ==Danish==
 
@@ -155,12 +168,13 @@ From {{der|da|non|fit}}.
 ==Hungarian==
 
 ===Alternative forms===
-* {{l|hu|föd}} {{q|dialectal}}
+* {{alt|hu|föd||dialectal}}
 
 ===Etymology===
-According to different sources:
-# From {{inh|hu|fiu-pro|*pentɜ-||to shut, cover}}.<ref>{{R:Uralonet|744}}</ref><ref>{{R:Zaicz 2006}}</ref>
-# From {{der|hu|fiu-pro|-}} {{m|urj-pro|*pintä-||to close, cover}}. Likely cognate with {{cog|fi|pinne}} and {{cog|udm|поди}}.<ref>[http://starling.rinet.ru/cgi-bin/response.cgi?root=config&morpho=0&basename=\data\uralic\uralet.dbf&first=1&off=&text_proto=&method_proto=substring&ic_proto=on&text_meaning=to+close&method_meaning=substring&ic_meaning=on&text_germmean=&method_germmean=substring&ic_germmean=on&text_fin=&method_fin=substring&ic_fin=on&text_est=&method_est=substring&ic_est=on&text_saa=&method_saa=substring&ic_saa=on&text_mrd=&method_mrd=substring&ic_mrd=on&text_mar=&method_mar=substring&ic_mar=on&text_udm=&method_udm=substring&ic_udm=on&text_kom=&method_kom=substring&ic_kom=on&text_khn=&method_khn=substring&ic_khn=on&text_man=&method_man=substring&ic_man=on&text_ugr=fed&method_ugr=substring&ic_ugr=on&text_smd=&method_smd=substring&ic_smd=on&text_nen=&method_nen=substring&ic_nen=on&text_enc=&method_enc=substring&ic_enc=on&text_nga=&method_nga=substring&ic_nga=on&text_slk=&method_slk=substring&ic_slk=on&text_kam=&method_kam=substring&ic_kam=on&text_janh=&method_janh=substring&ic_janh=on&text_samm2=&method_samm2=substring&ic_samm2=on&text_redei=&method_redei=substring&ic_redei=on&text_add=&method_add=substring&ic_add=on&text_reshet=&method_reshet=substring&ic_reshet=on&text_yuk=&method_yuk=substring&ic_yuk=on&text_lit=&method_lit=substring&ic_lit=on&text_any=&method_any=substring&sort=number&ic_any=on Starostin's Uralic Database, Entry #754]</ref>
+{{unc|hu}}. According to different sources:
+
+* From {{inh|hu|fiu-pro|*pentɜ-||to shut, cover}}.<ref>{{R:Uralonet|744}}</ref><ref>{{R:Zaicz 2006}}</ref>
+* From {{der|hu|fiu-pro|-}} {{m|urj-pro|*pintä-||to close, cover}}. Likely cognate with {{cog|fi|pinne}} and {{cog|udm|поди}}.<ref>[http://starling.rinet.ru/cgi-bin/response.cgi?root=config&morpho=0&basename=\data\uralic\uralet.dbf&first=1&off=&text_proto=&method_proto=substring&ic_proto=on&text_meaning=to+close&method_meaning=substring&ic_meaning=on&text_germmean=&method_germmean=substring&ic_germmean=on&text_fin=&method_fin=substring&ic_fin=on&text_est=&method_est=substring&ic_est=on&text_saa=&method_saa=substring&ic_saa=on&text_mrd=&method_mrd=substring&ic_mrd=on&text_mar=&method_mar=substring&ic_mar=on&text_udm=&method_udm=substring&ic_udm=on&text_kom=&method_kom=substring&ic_kom=on&text_khn=&method_khn=substring&ic_khn=on&text_man=&method_man=substring&ic_man=on&text_ugr=fed&method_ugr=substring&ic_ugr=on&text_smd=&method_smd=substring&ic_smd=on&text_nen=&method_nen=substring&ic_nen=on&text_enc=&method_enc=substring&ic_enc=on&text_nga=&method_nga=substring&ic_nga=on&text_slk=&method_slk=substring&ic_slk=on&text_kam=&method_kam=substring&ic_kam=on&text_janh=&method_janh=substring&ic_janh=on&text_samm2=&method_samm2=substring&ic_samm2=on&text_redei=&method_redei=substring&ic_redei=on&text_add=&method_add=substring&ic_add=on&text_reshet=&method_reshet=substring&ic_reshet=on&text_yuk=&method_yuk=substring&ic_yuk=on&text_lit=&method_lit=substring&ic_lit=on&text_any=&method_any=substring&sort=number&ic_any=on Starostin's Uralic Database, Entry #754]</ref>
 
 ===Pronunciation===
 * {{hu-IPA}}
@@ -171,30 +185,26 @@ According to different sources:
 {{hu-verb}}
 
 # {{lb|hu|transitive}} to [[cover]]
-#: {{syndiff|hu|Thesaurus:fed}}
+#: {{syn|hu|Thesaurus:fed}}
 
 ====Conjugation====
 {{hu-conj-ek|f|e|d}}
 
 ====Derived terms====
-{{col4|hu
+{{col|hu
 |fedés
 |fedetlen
 |fedez
 |fedezet
-}}
-{{hu-verbpref|fed|át|be|el|fel|föl|le}}
-{{col2|hu|title=Expressions
 |nem fedi a valóságot
 }}
+{{hu-verbpref|fed|át|be|el|fel|föl|le}}
 
 ===See also===
-{{col3|hu
-|fedd<qq:“to chide, reprimand, scold”>
-}}
+* {{l|hu|fedd|t=to chide, reprimand, scold}}
 
 ===References===
-<references/>
+{{reflist}}
 
 ===Further reading===
 * {{R:ErtSz}}
@@ -222,4 +232,4 @@ According to different sources:
 {{vo-decl-noun}}
 
 ====Derived terms====
-* {{l|de|fedalän||federal state, [[Bundesstaat]]}}
+* {{l|de|fedalän|t=federal state, [[Bundesstaat]]}}
