@@ -9,11 +9,11 @@ Cognate with {{cog|nl|vlieden}}, {{cog|de|fliehen}}, {{cog|is|flýja}}, {{cog|sv
 ===Pronunciation===
 * {{IPA|en|/fliː/}}
 * {{rhymes|en|iː|s=1}}
-* {{audio|en|en-us-flee.ogg|a=US}}
+** {{audio|en|en-us-flee.ogg|a=US}}
 * {{homophones|en|flea}}
 
 ===Verb===
-{{en-verb|flees|fleeing|fled}}
+{{en-verb|flees|fleeing|fled|past2=fleed|past2_qual=nonstandard}}
 
 # {{lb|en|intransitive}} To [[run]] [[away]]; to [[escape]].
 #: {{ux|en|The prisoner tried to '''flee''', but was caught by the guards.}}
@@ -29,7 +29,8 @@ Cognate with {{cog|nl|vlieden}}, {{cog|de|fliehen}}, {{cog|is|flýja}}, {{cog|sv
 #: {{ux|en|Ethereal products '''flee''' once freely exposed to air.}}
 
 ====Derived terms====
-{{col|en|beflee
+{{col4|en
+|beflee
 |everfleeing
 |fill and flee
 |fleeable
@@ -39,7 +40,11 @@ Cognate with {{cog|nl|vlieden}}, {{cog|de|fliehen}}, {{cog|is|flýja}}, {{cog|sv
 }}
 
 ====Related terms====
-* {{l|en|flight}}
+{{col4|en
+|flight
+|flow
+|fly
+}}
 
 ====Translations====
 {{trans-top|to run away; to escape}}
