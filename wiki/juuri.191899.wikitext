@@ -9,6 +9,7 @@
 ==Finnish==
 
 ===Etymology 1===
+{{etymid|fi|root}}
 From {{inh|fi|urj-fin-pro|*juuri}}, from {{inh|fi|urj-fpr-pro|*jowre}}. Cognates include {{cog|myv|юр}}.
 
 ====Pronunciation====
@@ -30,26 +31,6 @@ From {{inh|fi|urj-fin-pro|*juuri}}, from {{inh|fi|urj-fpr-pro|*jowre}}. Cognates
 =====Declension=====
 {{fi-decl-pieni|juur|a}}
 
-====Adverb====
-{{fi-adv|-}}
-
-# [[right]], [[just]], [[exactly]], [[precisely]]
-#: {{syn|fi|tismalleen|täsmälleen}}
-#: {{uxi|fi|'''juuri''' niin|'''just''' right}}
-#: {{uxi|fi|'''juuri''' nyt|'''right''' now}}
-#: {{ux|fi|Hän tuli '''juuri''' oikeaan aikaan.|He came at '''exactly''' the right time.}}
-# [[just now]]; very close to [[now]], either [[presently]], (very) [[recently]] or (very) [[shortly]], [[just about]]
-#: {{syn|fi|juuri nyt|q1=presently|äsken|q2=just now, very recently|}}
-#: {{ux|fi|Juna lähtee '''juuri'''.|The train is '''just about''' to leave.}}
-#: {{ux|fi|'''Juurihan''' minä saavuin.|But I '''just''' arrived.}}
-# {{lb|fi|negative polarity}} [[hardly]], (not) that [[much]], (not) that [[many]]
-#: {{ux|fi|Hän ei '''juuri'''(kaan) lue kirjoja.|He '''hardly''' reads any books.}}
-#: {{ux|fi|En maksanut siitä '''juuri''' mitään tammikuun alennusmyynnissä.|I got it for '''next to''' nothing in the January sales.}}
-#: {{ux|fi|Hän teeskentelee tietäväistä, mutta oikeasti hän ei tiedä '''juuri''' mitään.|He pretends to be knowledgeable, but actually he knows '''next to''' nothing.}}
-# [[barely]], [[just]] [[barely]], [[just about]]
-#: {{syn|fi|hädin tuskin|nipin napin|juuri ja juuri}}
-#: {{ux|fi|Ruokaa riittää '''juuri''' neljälle.|There's '''just barely''' enough food for four people.}}
-
 =====Derived terms=====
 {{col|fi
 |-juurinen
@@ -61,16 +42,14 @@ From {{inh|fi|urj-fin-pro|*juuri}}, from {{inh|fi|urj-fpr-pro|*jowre}}. Cognates
 |juures
 |juureton
 |juureva
-|juuri ja juuri<t:barely, only just>
 |juuria
-|juurikaan
 |juurikas
-|juurikin
 |Juurikka
 |Juurinen
 |juuristo
 |juurittaa
 |juurtaa
+|perin juurin
 }}
 
 {{col|fi|title=compounds
@@ -164,8 +143,6 @@ From {{inh|fi|urj-fin-pro|*juuri}}, from {{inh|fi|urj-fpr-pro|*jowre}}. Cognates
 |nenänjuuri
 |nuolijuuri
 |paljasjuurinen
-|perin juurin
-|perinjuurinen
 |persiljanjuuri
 |pesäjuuri
 |piipunjuuri
@@ -202,9 +179,46 @@ From {{inh|fi|urj-fin-pro|*juuri}}, from {{inh|fi|urj-fpr-pro|*jowre}}. Cognates
 }}
 
 ====Further reading====
-* {{R:fi:KTSK|accessdate=2023-07-01}}
+* {{R:fi:KTSK|num=1|accessdate=2025-02-10}}
 
 ===Etymology 2===
+{{etymid|fi|just}}
+{{suf|fi|juuri|id1=root|i|id2=adverbial|pos2={{fi-adverbial-case|i-lative}}}}
+
+====Pronunciation====
+{{rfp|fi}} <!-- * or not? -->
+
+====Adverb====
+{{fi-adv|-}}
+
+# [[right]], [[just]], [[exactly]], [[precisely]]
+#: {{syn|fi|tismalleen|täsmälleen}}
+#: {{uxi|fi|'''juuri''' niin|'''just''' right}}
+#: {{uxi|fi|'''juuri''' nyt|'''right''' now}}
+#: {{ux|fi|Hän tuli '''juuri''' oikeaan aikaan.|He came at '''exactly''' the right time.}}
+# [[just now]]; very close to [[now]], either [[presently]], (very) [[recently]] or (very) [[shortly]], [[just about]]
+#: {{syn|fi|juuri nyt|q1=presently|äsken|q2=just now, very recently|}}
+#: {{ux|fi|Juna lähtee '''juuri'''.|The train is '''just about''' to leave.}}
+#: {{ux|fi|'''Juurihan''' minä saavuin.|But I '''just''' arrived.}}
+# {{lb|fi|negative polarity}} [[hardly]], (not) that [[much]], (not) that [[many]]
+#: {{ux|fi|Hän ei '''juuri'''(kaan) lue kirjoja.|He '''hardly''' reads any books.}}
+#: {{ux|fi|En maksanut siitä '''juuri''' mitään tammikuun alennusmyynnissä.|I got it for '''next to''' nothing in the January sales.}}
+#: {{ux|fi|Hän teeskentelee tietäväistä, mutta oikeasti hän ei tiedä '''juuri''' mitään.|He pretends to be knowledgeable, but actually he knows '''next to''' nothing.}}
+# [[barely]], [[just]] [[barely]], [[just about]]
+#: {{syn|fi|hädin tuskin|nipin napin|juuri ja juuri}}
+#: {{ux|fi|Ruokaa riittää '''juuri''' neljälle.|There's '''just barely''' enough food for four people.}}
+
+=====Derived terms=====
+{{col|fi
+|juuri ja juuri<t:barely, only just>
+|juurikaan
+|juurikin
+}}
+
+====Further reading====
+* {{R:fi:KTSK|num=2|accessdate=2025-02-10}}
+
+===Etymology 3===
 
 ====Pronunciation====
 {{fi-p-3-conn}}
