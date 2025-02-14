@@ -19,30 +19,32 @@ From {{inh|en|enm|gramere}}, from {{der|en|fro|gramaire||classical learning}}, f
 ===Noun===
 {{en-noun|~}}
 
-# {{senseid|en|Q8091}}A [[system]] of [[rule]]s and [[principle]]s for speaking and writing a [[language]].
-# {{lb|en|uncountable|linguistics}} The study of the internal structure of words ([[morphology]]) and the use of words in the construction of phrases and sentences ([[syntax]]).
-# A [[book]] [[describe|describing]] the rules of grammar of a language.
+# {{senseid|en|Q8091}}{{lb|en|linguistics}} A [[system]] of [[rule]]s and [[principle]]s for the structure of a [[language]], or of languages in general.
+## {{lb|en|linguistics}} The study of such a system.
+# A [[book]] [[describe|describing]] the grammar ({{senseno|en|Q8091}}) of a language.
+# [[actual|Actual]] or [[presumed]] [[prescriptive]] [[notions]] about the correct use of a language.
 # {{lb|en|computing theory}} A formal system specifying the [[syntax]] of a language.
 #* '''2006''', Patrick Blackburn · Johan Bos · Kristina Striegnitz, ''[https://web.archive.org/web/20130515090602/http://www.learnprolognow.org/lpnpage.php?pagetype=html&pageid=lpn-htmlse33 Learn Prolog Now!]'', §8.2
 #*: Because real lexicons are big and complex, from a software engineering perspective it is best to write simple [[grammar]]s that have a simple, well-defined way, of pulling out the information they need from vast lexicons. That is, [[grammar]]s should be thought of as separate entities which can access the information contained in lexicons. We can then use specialised mechanisms for efficiently storing the lexicon and retrieving data from it.
-# [[actual|Actual]] or [[presumed]] [[prescriptive]] [[notions]] about the correct use of a language.
 # {{lb|en|computing theory}} A [[formal system]] defining a [[formal language]]
-# The basic [[rule]]s or [[principle]]s of a field of [[knowledge]] or a particular [[skill]].
+# {{lb|en|metaphorical}} The basic [[rule]]s or [[principle]]s of a field of [[knowledge]] or a particular [[skill]].
 #* {{quote-text|en|year=2011|author=w:Javier Solana; {{w|Daniel Innerarity}}, Project Syndicate|title=The New Grammar of Power|url=https://www.project-syndicate.org/commentary/solana10/English
 |passage=We must learn a new '''grammar''' of power in a world that is made up more of the common good – or the common bad – than of self-interest or national interest.}}
 # {{lb|en|British|archaic}} A [[book]] describing these [[rule]]s or [[principle]]s; a [[textbook]].
 #: {{ux|en|a '''grammar''' of geography}}
 #* {{quote-book|en|year=1926|author=[[w:G. K. Chesterton|G[ilbert] K[eith] Chesterton]]|chapter=VI: A Summary|title=The Outline of Sanity|location=w:London|publisher= [[w:Methuen & Co.|Methuen & Co. Ltd.]]|oclc=776601877|passage=To turn this sort of mixture of a gossip and a gospel into anything like a '''grammar''' of Distributism has been quite impossible.}}
-# {{lb|en|UK}} A [[grammar school]].
+# {{lb|en|British}} A [[grammar school]].
 #* {{quote-journal|en|date=11 January 2012|author=Graeme Paton|title=A green light for more '''grammars'''?|work=The Daily Telegraph}}
 # {{lb|en|cellular automata}} A set of component [[pattern]]s, along with the rules for connecting them, which can be combined to form more complex patterns such as large [[still life]]s, [[oscillator]]s, and [[spaceship]]s.
 #* {{quote-newsgroup|en|date=1991-04-04|author=Bill Gosper|title=LIFELINE:in search of the newsletter|newsgroup=comp.theory.cell-automata|url=https://groups.google.com/g/comp.theory.cell-automata/c/6hQ-m96x9YY/m/49ZreIK6Nu0J|text=Hickerson has a computer program which found a spaceship with speed c/3. In fact a whole '''grammar''' of them.}}
 #* {{quote-newsgroup|en|date=1992-08-27|author=David Bell|title=Spaceships in Conway's Life (Part 2a)|newsgroup=comp.theory.cell-automata|url=https://groups.google.com/g/comp.theory.cell-automata/c/qh_NpNRSNVw/m/N22g8-nZ7S8J|text=Within a few hours of finding the first period 2 ship, Dean had discovered a '''grammar''' for constructing an infinite number of different short, wide, period 2 spaceships. A '''grammar''' is an "alphabet" of "components", along with rules for the possible sequences of connections between components. Components are simply the identifiable pieces of a ship which reappear over and over in different ships in different combinations.}}
 #* {{quote-newsgroup|en|date=1994-01-21|author=Harold McIntosh|title=de Bruijn diagrams|newsgroup=comp.theory.cell-automata|url=https://groups.google.com/g/comp.theory.cell-automata/c/-aKSgAIwX-Y/m/QUF1_8wT2Q0J|text=Dean's discovery included a much more plentiful family than just the light, medium, and heavy weight spaceships that have been known since the beginning, which he was able to organize into a series of tiles and a '''grammar''' for them.}}
 
+====Usage notes====
+Colloquially, ''grammar'' ({{senseno|en|Q8091}}) is often used to refer specifically to the internal structure of words ({{m|en|morphology}}) and the structure of phrases and sentences ({{m|en|syntax}}) of a language (which are subsumed in linguistics under the label {{m|en|morphosyntax}}), without reference to other aspects of grammar, such as the sounds of the language.
+
 ====Synonyms====
 * {{sense|study & field of study in medieval Latin contexts}} {{l|en|glomery}}
-* {{sense|linguistics}} {{l|en|morpho-syntax}} {{qualifier|from the relationship between morphology and syntax}}
 
 ====Hyponyms====
 * {{l|en|context-sensitive grammar}}
