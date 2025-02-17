@@ -14,19 +14,79 @@
 ===References===
 * {{R:Useinov-Mireev 2002}}
 
+==Gagauz==
+{{gag-variant|шу}}
+
+===Alternative forms===
+* {{alt|gag|șu||pre-1950's spelling}}
+* {{alt|gag|şı||unstressed}}
+
+===Etymology===
+{{inh+|gag|trk-oat|شول|tr=şol}}, from earlier {{inh|gag|trk-oat|اوش اول|tr=uş ol}}, see there for more. Cognate with {{cog|kk|сол}} and {{cog|ba|шул}}. <ref>{{R:tr:Nişanyan}}</ref>
+
+===Pronunciation===
+* {{IPA|gag|/ʃu/|q=stressed}}
+* {{IPA|gag|/ʃɨ/|q=unstressed}}
+
+===Determiner===
+{{head|gag|determiner}}
+
+# {{lb|gag|[[distal]]}} [[that]], that over there
+
+===Pronoun===
+{{head|gag|pronoun|accusative|şunu|plural|şunnar}}
+
+# {{lb|gag|[[distal]]}} [[that]], that over there
+
+====Declension====
+{{gag-decl-noun|
+|şu|şunnar
+|şunu|şunnarı
+|şuna|şunnara
+|şunda|şunnarda
+|şundan|şunnardan
+|şunun|şunnarın}}
+
+====Derived terms====
+{{col2|gag
+|te şu
+|şu-bu
+|şu takım
+|şukadar
+|şura
+}}
+
+====Related terms====
+{{col2|gag
+|şölä
+|şindi
+}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{R:gag:Ciachir:1938|page=90|șu}}
+* {{R:gag:Baskakov:1973|page=572|шу}}
+
 ==Turkish==
 
 ===Etymology===
-From {{inherited|tr|trk-oat|شو|tr=şu}}, from {{m|trk-oat|شل|tr=şol}} (by analogy of {{m|tr|bu||this}}), from earlier {{m|trk-oat|tr=uş ol}}, equivalent to {{m|tr|uş||lo!}} + {{m|tr|o||she, he, it, that}}. Compare {{m|tr|şimdi||now}}, {{m|tr|işte||lo!}}. Cognate with {{cog|kk|сол}} and {{cog|ba|шул}}.
+{{inh+|tr|ota|شو|tr=şu}}, from {{inh|tr|trk-oat|شول|tr=şol}}, from earlier {{m|trk-oat|اوش اول|tr=uş ol}}. {{surf|tr|uş|ol}}. Cognate with {{cog|kk|сол}} and {{cog|ba|шул}}.
 
 ===Pronunciation===
 * {{IPA|tr|/ʃu/}}
 
-===Pronoun===
-{{head|tr|pronoun}}
+===Determiner===
+{{head|tr|determiner}}   
 
-# [[that]] (that over there)
+# {{lb|tr|[[distal]]}} [[that]], that [[over there]] 
 #: {{ux|tr|'''Şu''' kedi diğerlerinden daha zayıf.|'''That''' cat is thinner than the others.}}
+
+===Pronoun===
+{{head|tr|pronoun|accusative|şunu|plural|şunlar}}
+
+# {{lb|tr|[[distal]]}} [[that]] (that over there)
 #: {{ux|tr|'''Şuna''' bak!|Look '''at that'''!}}
 #: {{ux|tr|'''Şunlar''' senin arkadaşların değil mi?|Aren't '''those''' your friends?}}
 
@@ -40,6 +100,33 @@ From {{inherited|tr|trk-oat|شو|tr=şu}}, from {{m|trk-oat|شل|tr=şol}} (by a
 |şunun|şunların
 }}
 
+====Derived terms====
+{{col2|tr
+|şu bu
+|şunca
+|şuncacık
+|şurada
+|şusu busu
+|şu kadar
+|şu kadar ki
+|şundan
+|şu denli
+|şuna bak
+}}
+
+====Related terms====
+{{col2|tr
+|uş
+|işte
+|şimdi
+|şöyle
+|şura
+|işbu
+}}
+
 ====See also====
-* {{l|tr|bu}}
-* {{l|tr|o}}
+{{col2|tr|bu|o}}
+
+===Further reading===
+* {{R:tr:TDK}}
+* {{R:tr:Nişanyan}}
