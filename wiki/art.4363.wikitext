@@ -398,13 +398,13 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Norman: {{tt|nrf|art|m}}
 * Northern Sami: {{tt|se|dáidda}}
 * Norwegian:
-*: Bokmål: {{tt+|nb|kunst}}
+*: Bokmål: {{tt+|nb|kunst|m}}
 * Occitan: {{tt+|oc|art|m}}
 * Old English: {{tt|ang|cræft|m}}
 * Ossetian: {{tt|os|аивад}}
 * Ottoman Turkish: {{t|ota|صنعت|tr=sanʼat, zanʼat}}, {{t|ota|فن|tr=fenn}}, {{t|ota|هنر|tr=hüner}}
 * Pashto: {{tt+|ps|صنعت|m|tr=san'át}}, {{tt|ps|آرت|m|tr=ārt}}, {{tt|ps|هنر|m|tr=honár}}, {{tt+|ps|فن|m|tr=fan}}
-* Persian: {{tt+|fa|هنر|tr=honar}}, {{tt+|fa|فن|tr=fann}}
+* Persian:
 *: Iranian Persian: {{t+|fa-ira|هُنَر}}, {{t+|fa-ira|فَنّ}}
 * Polish: {{tt+|pl|sztuka|f}}
 * Portuguese: {{tt+|pt|arte|f}}
@@ -433,7 +433,7 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Turkish: {{tt+|tr|sanat}}, {{tt+|tr|zanaat}}, {{tt+|tr|elişi}}, {{tt+|tr|dörüt}}, {{tt+|tr|epik}}
 * Turkmen: {{tt|tk|sungat}}, {{tt|tk|çeperçilik}}
 * Ukrainian: {{tt+|uk|мисте́цтво|n}}
-* Urdu: {{tt|ur|فن|m|tr=fan}}, {{t|ur|فَن|m}}
+* Urdu: {{tt|ur|فَن|m}}
 * Uyghur: {{tt|ug|سەنئەت}}
 * Uzbek: {{tt+|uz|sanʼat}}
 * Vietnamese: {{tt+|vi|nghệ thuật}} ({{tt|vi|藝術}})
@@ -449,7 +449,8 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Armenian: {{tt+|hy|արվեստ}}
 * Azerbaijani: {{tt+|az|sənət}}, {{tt+|az|incəsənət}}
 * Basque: {{tt|eu|arte}}
-* Bulgarian: {{tt+|bg|изкуство|n}}
+* Belarusian: {{tt+|be|маста́цтва|n}}
+* Bulgarian: {{tt+|bg|изку́ство|n}}
 * Chinese:
 *: Mandarin: {{tt+|cmn|藝術|tr=yìshù}}
 * Czech: {{tt+|cs|umění|n}}
@@ -466,13 +467,14 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Italian: {{tt+|it|arte|f}}
 * Japanese: {{tt+|ja|技術|tr=ぎじゅつ, gijutsu}}, {{tt+|ja|芸術|tr=げいじゅつ, geijutsu}}, {{tt+|ja|アート|tr=āto}}
 * Kannada: {{tt+|kn|ಕಲೆ}}
-* Korean: {{tt+|ko|미술}}
-* Latin: {{tt+|la|ars}}
+* Korean: {{tt+|ko|미술(美術)}}
+* Latin: {{tt+|la|ars|f}}
 * Lithuanian: {{tt+|lt|menas|m}}, {{tt+|lt|menas|m}}
 * Luxembourgish: {{tt|lb|Konscht|f}}
 * Macedonian: {{tt|mk|уметност|f}}
 * Marathi: {{tt|mr|कला|f}}
-* Norwegian: {{tt+|no|kunst}}
+* Norwegian:
+*: Bokmål: {{tt+|nb|kunst|m}}
 * Old English: {{tt|ang|cræft|m}}
 * Ottoman Turkish: {{t|ota|صنعت|tr=sanʼat, zanʼat}}, {{t|ota|فن|tr=fenn}}
 * Persian:
@@ -503,14 +505,14 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Bashkir: {{t|ba|сәнғәт}}
 * Belarusian: {{t+|be|маста́цтва|n}}
 * Bengali: {{t+|bn|শিল্পকলা}}, {{t+|bn|কলা}}
-* Bulgarian: {{tt+|bg|уме́ние}}, {{t+|bg|изку́ство|n}}
+* Bulgarian: {{tt+|bg|уме́ние|n}}, {{t+|bg|изку́ство|n}}
 * Chinese:
 *: Mandarin: {{tt+|cmn|藝術|tr=yìshù}}
 * Czech: {{tt+|cs|umění|n}}
 * Danish: {{t+|da|kunst|c}}
 * Dutch: {{tt+|nl|kunst|f}}
 * Finnish: {{tt+|fi|taide}}
-* French: {{t+check|fr|art|m}}
+* French: {{t+|fr|art|m}}
 * Greek: {{tt+|el|τέχνη|f}}
 *: Ancient Greek: {{tt|grc|τέχνη|f}}
 * Hebrew: {{t+|he|אׇמָּנוּת|f|tr=omanút}}
@@ -532,9 +534,12 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Macedonian: {{t|mk|уметност|f}}
 * Malay: {{t+|ms|seni}}
 * Marathi: {{tt|mr|कला|f}}
+* Mongolian:
+*: Cyrillic: {{tt+|mn|урлаг}}
+*: Mongolian: {{tt|mn|ᠤᠷᠠᠯᠢᠭ}}
 * Northwestern Ojibwa: {{t|ojb|zhizhoobii'iganaatig-inendaagozi}}
 * Norwegian:
-*: Bokmål: {{t+|nb|kunst|m}}
+*: Bokmål: {{tt+|nb|kunst|m}}
 * Old English: {{tt|ang|cræft|m}}
 * Ottoman Turkish: {{t|ota|صنعت|tr=sanʼat, zanʼat}}, {{t|ota|فن|tr=fenn}}
 * Persian:
@@ -561,7 +566,7 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Urdu: {{t|ur|فَن|m}}
 * Uyghur: {{t|ug|سەنئەت}}
 * Uzbek: {{t+|uz|sanʻat}}
-* Vietnamese: {{t+|vi|nghệ thuật}}, {{t|vi|藝術}}
+* Vietnamese: {{tt+|vi|nghệ thuật}} ({{tt|vi|藝術}})
 * Welsh: {{tt+|cy|celfyddyd|f}}
 {{trans-bottom}}
 
@@ -587,6 +592,7 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 {{trans-top|aesthetic value}}
 * Afrikaans: {{tt+|af|kuns}}
 * Arabic: {{tt|ar|فَنّ|m}}, {{qualifier|plural}} {{tt|ar|فُنُون|m-p}}
+* Belarusian: {{t+|be|маста́цтва|n}}
 * Chinese:
 *: Mandarin: {{tt+|cmn|藝術|tr=yìshù}}
 * Dutch: {{tt+|nl|kunstwerk}}
@@ -600,7 +606,7 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Romanian: {{tt+|ro|artă}}
 * Russian: {{tt+|ru|иску́сство|n}}
 * Turkish: {{tt|tr|sanatsallık}}
-* Ukrainian: {{tt+|uk|мистецтво|n}}
+* Ukrainian: {{tt+|uk|мисте́цтво|n}}
 * Welsh: {{tt+|cy|celfyddyd|f}}
 {{trans-bottom}}
 
@@ -609,6 +615,7 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Albanian: {{tt+|sq|zeje|f}}, {{tt+|sq|vepër|m}}
 * Arabic: {{tt|ar|فَنّ|m}}, {{qualifier|plural}} {{tt|ar|فُنُون|m-p}}
 * Armenian: {{tt+|hy|արվեստ}}
+* Belarusian: {{t+|be|маста́цтва|n}}
 * Chinese:
 *: Mandarin: {{tt+|cmn|藝術|tr=yìshù}}
 * Czech: {{tt+|cs|umění|n}}
@@ -630,6 +637,7 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Spanish: {{tt+|es|arte|m}}
 * Swedish: {{tt+|sv|konstverk|n}}
 * Turkish: {{tt+|tr|eser}}, {{tt+|tr|yapıt}}, {{tt+|tr|sanat eseri}}
+* Ukrainian: {{tt+|uk|мисте́цтво|n}}
 * Yiddish: {{tt|yi|קונסטווערק}}
 {{trans-bottom}}
 
@@ -637,6 +645,7 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Afrikaans: {{tt+|af|kunste}}
 * Arabic: {{tt|ar|فَنّ|m}}, {{qualifier|plural}} {{tt|ar|فُنُون|m-p}}
 * Armenian: {{tt+|hy|արվեստ}}
+* Belarusian: {{t+|be|маста́цтва|n}}
 * Chinese:
 *: Mandarin: {{tt+|cmn|藝術|tr=yìshù}}
 * Czech: {{tt+|cs|umění|n}}
@@ -649,7 +658,7 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Macedonian: {{tt|mk|уметност|f}}
 * Malayalam: {{tt+|ml|കല}}
 * Marathi: {{tt|mr|कला|f}}
-* Persian: {{tt+|fa|هنر|tr=honar}}
+* Persian:
 *: Iranian Persian: {{t+|fa-ira|هُنَر}}
 * Portuguese: {{tt+|pt|arte|f}}
 * Russian: {{tt+|ru|иску́сство|n}}
@@ -657,6 +666,7 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Slovak: {{tt+|sk|umenie|n}}
 * Swedish: {{tt+|sv|konst|c}}
 * Tagalog: {{tt|tl|sining}}
+* Ukrainian: {{tt+|uk|мисте́цтво|n}}
 {{trans-bottom}}
 
 {{trans-top|nonscientific branch of learning}}
@@ -674,7 +684,7 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 {{trans-top|skill}}
 * Afrikaans: {{tt+|af|kuns}}
 * Armenian: {{tt+|hy|արվեստ}}
-* Bulgarian: {{tt+|bg|умение}}
+* Bulgarian: {{tt+|bg|уме́ние|n}}
 * Chinese:
 *: Mandarin: {{tt+|cmn|藝術|tr=yìshù}}, {{tt+|cmn|技術|tr=jìshù}}
 * Czech: {{tt+|cs|umění|n}}
@@ -685,8 +695,8 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Italian: {{tt+|it|arte|f}}
 * Latin: {{tt+|la|ars}}
 * Macedonian: {{tt|mk|ве́штина|f}}
-* Persian: {{tt+|fa|هنر|tr=honar}}
-*: Iranian Persian: {{t+|fa-ira|هُنَر}}
+* Persian:
+*: Iranian Persian: {{tt+|fa-ira|هُنَر}}
 * Portuguese: {{tt+|pt|arte|f}}
 * Russian: {{tt+|ru|иску́сство|n}}, {{tt+|ru|уме́ние|n}}, {{tt+|ru|мастерство́|n}}
 * Scots: {{tt|sco|airt}}
@@ -701,10 +711,8 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Albanian: {{t+check|sq|art|m}}
 * Aragonese: {{t-check|an|arte|f}}
 * Basque: {{t-check|eu|arte}}
-* Belarusian: {{t-check|be|Мастацтва}}
 * Bengali: {{t+check|bn|শিল্প}}
 * Breton: {{t+check|br|arz|m}}, {{t+check|br|arzoù}}
-* Bulgarian: {{t+check|bg|изкуство|n}}
 * Catalan: {{qualifier|in plural only f}} {{t+check|ca|art|m|f}}
 * Corsican: {{t+check|co|arti|f}}
 * Esperanto: {{t+check|eo|arto}}
@@ -724,10 +732,8 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Luxembourgish: {{t-check|lb|Konscht|f}}
 * Maltese: {{t-check|mt|arti|f}}, {{t-check|mt|toi}}
 * Nahuatl: {{t-check|nah|toltecayotl}}
-* Norwegian: {{t+check|no|kunst|m}}
 * Occitan: {{t-check|oc|arti}}, {{t+check|oc|ars|f}}
 * Ossetian: {{t-check|os|аивад}}
-* Persian: {{t+check|fa|هنر|tr=honar}}
 * Romanian: {{t+check|ro|artă|f}}
 * Sardinian: {{t-check|sc|arti|f}}
 * Serbo-Croatian: {{t-check|sh|umetnost|f}}, {{t+check|sh|umjetnost|f}}
@@ -738,7 +744,6 @@ From {{inh|en|enm|art}}, from {{der|en|fro|art}}, from {{der|en|la|artem}}, accu
 * Telugu: {{t+check|te|కళ}}
 * Thai: {{t+check|th|ศิลปะ}}
 * Turkish: {{t+check|tr|sanat}} [-tı]
-* Ukrainian: {{t+check|uk|мистецтво|n}}
 * Vietnamese: {{t+check|vi|nghệ thuật}}, {{qualifier|rare}} {{t-check|vi|nghệ-thuật}} ([[藝術]])
 * West Frisian: {{t-check|fy|keunst|f}}
 * Yiddish: {{t-check|yi|קונסט|m|f}}
