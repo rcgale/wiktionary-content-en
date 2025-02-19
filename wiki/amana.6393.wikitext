@@ -25,24 +25,29 @@ From {{bor|ha|ar|أَمَانَة}}.
 ==Old Tupi==
 [[File:Chuva sobre a Ilha do Mel.jpg|thumb|amana]]
 
-===Etymology===
-{{etymon|tpw|der|tup-gua-pro>*aman>rain|afeq|-a>nominalizer suffix|id=rain|text=++}}
-
-Cognate with {{cognate|gn|ama}}.
+===Alternative forms===
+{{tpw-spellings
+|vlb=amãna}}
 
 ===Pronunciation===
 * {{IPA|tpw|[ãˈmã.na]}}
 * {{rhyme|tpw|ãna|s=3}}
 * {{hyph|tpw|a|ma|na}}
 
-===Noun===
+===Etymology 1===
+{{etymon|tpw|inh|tup-gua-pro>*aman>rain|afeq|-a>nominalizer suffix|id=rain|text=++}}
+
+Cognate with {{cognate|gn|ama}}.
+
+====Noun====
 {{tpw-noun}}
 
-# [[rain]]
-# [[rainwater]]
-{{rfq|tpw}}
+# [[rain]] {{gl|condensed water falling from a cloud}}
+#* {{RQ:tpw:VLB|Escampar a chuua|122|1|Opigc '''amana'''.|Opyk '''amana'''.|The '''rain''' ceased.}}
+# [[rainwater]] {{gl|water sourced from rain}}<ref>{{R:tpw:VLB|Aguoa da chuiua|24|1|Amãna|Amana}}</ref>
+#* {{RQ:tpw:Figueira Arte||48|Açape monhang '''amana'''|Asapemonhang '''amana'''|I make a path for the '''rainwater'''}}
 
-====Derived terms====
+=====Derived terms=====
 {{col|tpw
 |amãberaba
 <!-- |amana-tupaba -->
@@ -50,13 +55,27 @@ Cognate with {{cognate|gn|ama}}.
 |amanusu
 |amanybá
 |amãpytuna
-|amãsununga}}
+|amãsununga
+|amana 'ara}}
 
-====Descendants====
+=====Descendants=====
 * {{desc|yrl|amana}}
 
-===Further reading===
-* {{R:pt:Navarro 2013|column=1|entry=amana|page=29}}
+===Etymology 2===
+{{nonlemma}}
+
+====Noun====
+{{tpw-noun|p}}
+
+# {{gerund of|tpw|aman||to encircle}}
+#* {{RQ:tpw:Anchieta Livrinho|Guaraparim|149v|161–163|page2=283|column=2
+|Jndi cori tiaço, / Temimino repenhana / aunhenhe cetama '''amana'''
+|I ndi kori t'îasó, / Temiminõ repenhana / aûnhenhẽ setama '''amana'''.
+|Let's go with him today, attack the Temiminó, immediatly '''encircling''' their land.}}
+
+===References===
+<references />
+* {{R:pt:Navarro 2013|+|29|1}}
 
 {{C|tpw|Rain|Atmospheric phenomena}}
 
