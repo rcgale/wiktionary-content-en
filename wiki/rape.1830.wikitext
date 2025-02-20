@@ -110,7 +110,7 @@ In legal contexts, the definition of the crime of rape can have a significantly 
 * Assamese: {{t|as|ধৰ্ষণ}}, {{t|as|বলাৎকাৰ}}
 * Azerbaijani: {{t|az|zorlama}}
 * Basque: {{t+|eu|bortxaketa}}
-* Belarusian: {{t|be|згвалтава́нне|n}}
+* Belarusian: {{t|be|згвалтава́нне|n}}, {{t|be|згвалтава́ньне|n}}
 * Bengali: {{t+|bn|ধর্ষণ}}
 * Bulgarian: {{t+|bg|изнаси́лване|n}}
 * Burmese: {{t+|my|မုဒိမ်း}}
@@ -131,7 +131,7 @@ In legal contexts, the definition of the crime of rape can have a significantly 
 * German: {{t+|de|Vergewaltigung|f}}, {{t+|de|Schändung|f}}, {{t+|de|Notzucht|f}}
 * Greek: {{t+|el|βιασμός|m}}
 * Hebrew: {{t+|he|אונס|m|tr='ónes|alt=אֹנֶס / אונס}}
-* Hindi: {{t+|hi|बलात्कार|m}}, {{t+|hi|धर्षण|m}}, {{t|hi|यौन उत्पीडन}}
+* Hindi: {{t+|hi|बलात्कार|m}}, {{t+|hi|धर्षण|m}}, {{t-check|hi|यौन उत्पीडन|m}}<!-- sexual harassment-->
 * Hungarian: {{t|hu|erőszakos közösülés}}, {{t+|hu|megerőszakolás}}, {{t+|hu|nemi erőszak}}
 * Icelandic: {{t+|is|nauðgun|f}}
 * Ido: {{t+|io|violaco}}
@@ -144,7 +144,7 @@ In legal contexts, the definition of the crime of rape can have a significantly 
 * Kashmiri: {{t|ks|بےٚ صدری}}, {{t|ks|ناجأیِز کرُن}}
 * Kazakh: {{t|kk|зорлау}}, {{t|kk|күштеу}}
 * Khmer: {{t|km|ការធ្វើបាប}}
-* Korean: {{t+|ko|강간}}, {{t|ko|성폭행}}
+* Korean: {{t+|ko|강간(強姦)}}, {{t|ko|성폭행(性暴行)}}
 * Kyrgyz: {{t+|ky|зордуктоо}}, {{t+|ky|басымчалоо}}
 * Lao: {{t|lo|ຂົ່ມຂືນ}}, {{t|lo|ການຂົ່ມຂືນ}}
 * Latin: {{t|la|raptus|m}}, {{t|la|stuprum|n}}, {{t|la|illata pudicitiae}}
@@ -157,19 +157,20 @@ In legal contexts, the definition of the crime of rape can have a significantly 
 * Maori: {{t|mi|pāwhera}}
 * Marathi: {{t|mr|बलात्कार|m}}
 * Mongolian:
-*: Cyrillic: {{t+|mn|хүчиндэх}}, {{t|mn|нөжидлэх}} {{qual|China, legal}}
-*: Mongolian: {{t|mn|ᠬᠦᠴᠦᠨᠳᠡᠬᠦ}}, {{t|mn|ᠨᠥᠵᠢᠳᠯᠡᠬᠦ}}
+*: Cyrillic: {{t+check|mn|хүчиндэх}}, {{t-check|mn|нөжидлэх}} {{qual|China, legal}}<!-- these are verbs, not nouns-->
+*: Mongolian: {{t-check|mn|ᠬᠦᠴᠦᠨᠳᠡᠬᠦ}}, {{t-check|mn|ᠨᠥᠵᠢᠳᠯᠡᠬᠦ}}
 * Norman: {{t|nrf|viol|m}}
 * Norwegian:
 *: Bokmål: {{t+|nb|voldtekt}}
 *: Nynorsk: {{t|nn|valdtekt|f}}
 * Occitan: {{t+|oc|viòl|m}}
 * Old English: {{t|ang|nīedhǣmed|n}}
-* Persian: {{t+|fa|تجاوز جنسی|tr=tajâvoz-e jensi}}, {{t+|fa|تجاوز|tr=tajâvoz}}
+* Persian:
 *: Iranian Persian: {{t+|fa-ira|تَجاوُز}}, {{t+|fa-ira|تَجاوُزِ جِنْسی}}
 * Polish: {{t+|pl|gwałt|m-in}}
 * Portuguese: {{t+|pt|estupro|m}}, {{t+|pt|violação|f}}
-* Punjabi: {{t|pa|ਜਬਰ ਜ਼ਨਾਹ|m}}, {{t+|pa|ਬਲਾਤਕਾਰ|m}}
+* Punjabi:
+*: Gurmukhi: {{t|pa|ਜਬਰ ਜ਼ਨਾਹ|m}}, {{t+|pa|ਬਲਾਤਕਾਰ|m}}
 * Romanian: {{t+|ro|viol|n}}
 * Russian: {{t+|ru|изнаси́лование|n}}
 * Scottish Gaelic: {{t|gd|èigneachadh|m}}
@@ -189,7 +190,7 @@ In legal contexts, the definition of the crime of rape can have a significantly 
 * Turkish: {{t|tr|ırza tecavüz}}, {{t|tr|ırza geçme}}, {{t+|tr|tecavüz|alt=tecâvüz}}, {{t|tr|göğen}}
 * Turkmen: {{t|tk|zorlama}}
 * Ukrainian: {{t|uk|зґвалтува́ння|n}}
-* Urdu: {{t|ur|زْیادتی|f|tr=zyādtī}}, {{t|ur|ریپ|m|tr=rēp}}
+* Urdu: {{t|ur|زِیَادَتِی|f}}, {{t|ur|ریپ|m}}
 * Uzbek: {{t|uz|zoʻrlash}}
 * Vietnamese: {{t|vi|cưỡng hiếp}}, {{t+|vi|hiếp dâm}}, {{t+|vi|hãm hiếp}}
 * Welsh: {{t+|cy|trais|m}}
