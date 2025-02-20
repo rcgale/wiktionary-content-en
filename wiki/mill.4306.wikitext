@@ -1044,29 +1044,37 @@ From {{inh|en|enm|mylne}}, {{m|enm|mille}}, from {{inh|en|ang|mylen}}, from {{in
 {{trans-bottom}}
 
 ===Etymology 2===
-{{wikipedia|Mill (currency)}}
+{{etymid|en|ultimately from der-en-la-millesimum}}
 Ultimately from {{der|en|la|millesimum}}.
+{{wikipedia|mill (currency)}}
 
 ====Noun====
 [[File:MillToken.jpeg|thumb|[[Missouri]] mill token.]]
 {{en-noun}}
 
-# An obsolete [[coin]] worth one thousandth of a US [[dollar]], or one tenth of a [[cent]].
-# One [[thousandth]] part, particularly in [[millage]] rates of property tax.
-
-=====Synonyms=====
-* {{sense|one thousandth part}} {{l|en|permille}}, {{l|en|‰}}, {{l|en|₥}}
-
-=====Coordinate terms=====
-* {{sense|one thousandth part}}
-* {{l|en|percent}}
-* {{l|en|basis point}}
+# {{senseid|en|one thousandth part (of anything)}} One [[thousandth#Adjective|thousandth]] part.
+## {{senseid|en|one thousandth part of a US dollar}} One [[thousandth#Noun|thousandth]] of a [[US dollar]], or one [[tenth#Noun|tenth]] of a [[cent#Noun|cent]].
+##: {{alti|en|mille#Noun}}
+##: {{hol|en|cent#Noun|<|dollar#Noun}}
+##: {{ux|en|The U.S. has never minted a '''mill''' coin, but the Coinage Act of 1792 describes this and other subdivisions of the U.S. dollar.}}<!--See [[w:mill (currency)]] and [[w:coins of the United States dollar]]-->
+## {{senseid|en|one thousandth part in millage rates}} One [[thousandth#Adjective|thousandth]] part in [[millage]] rates of [[property tax]].
+##: {{ux|en|They predict that the rate will probably go up by several '''mills''' next year.}}
+## {{senseid|en|one thousandth part of an inch}} {{lb|en|engineering|manufacturing}} {{alt form of|en|mil||one [[thousandth#Noun|thousandth]] of an [[inch#Noun|inch]]}}.
+##: {{syn|en|thou#Noun}}
+##: {{ux|en|For this task, I prefer the plastic sheeting that is 10 '''mills''' thick.}}
+## {{senseid|en|millimeter, elliptically}} {{lb|en|informal}} {{ellipsis of|en|millimeter}}
+##: {{alti|en|mil#Noun}}
+##: {{syn|en|mm#Translingual}}
+##: {{ux|en|For this task, I prefer the plastic bars that are 10 '''mills''' in diameter.}}
 
 =====Derived terms=====
-* {{l|en|millage}}
-
-=====Derived terms=====
-* {{l|en|per mill}}
+{{col|en
+|millage
+|per mill
+|permille
+|‰#Translingual
+|₥#Translingual
+}}
 
 =====Translations=====
 {{trans-top|coin}}{{multitrans|data=
@@ -1080,6 +1088,14 @@ Ultimately from {{der|en|la|millesimum}}.
 * Finnish: {{tt+|fi|tuhannesosa}}
 }}
 {{trans-bottom}}
+
+====See also====
+{{col|en
+|percent
+|%#Translingual
+|basis point
+|bp<id:basis point or basis points>
+}}
 
 ===Etymology 3===
 {{etymid|en|clipping of _million_}}
