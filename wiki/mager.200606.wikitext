@@ -2,7 +2,7 @@
 ==Danish==
 
 ===Etymology 1===
-From {{der|da|gmq-oda|maghær}}, from {{der|da|non|magr||thin, meager}}, from {{der|da|gem-pro|*magraz}}, from {{der|da|ine-pro|*mh₂ḱrós}}.
+From {{der|da|gmq-oda|maghær}}, from {{der|da|non|magr||thin, meager}}, from {{der|da|gem-pro|*magraz}}, from {{der|da|ine-pro|*mh₂ḱrós}}. Compare {{cognate|grc|μακρός}}
 
 ====Pronunciation====
 * {{IPA|da|[ˈmæˀjɐ]|[ˈmæˀɐ]|[ˈmɑwˀɐ]}}
@@ -11,15 +11,23 @@ From {{der|da|gmq-oda|maghær}}, from {{der|da|non|magr||thin, meager}}, from {{
 ====Adjective====
 {{da-adj}}
 
-# [[lean]]
+# [[lean]] {{q|low in fat. Food etc.}}
+#:{{syn|da|fedtfattig}}
 # [[thin]], [[spare]], [[skinny]], [[scrawny]]
+#:{{syn|da|tynd|spinkel}}
+#:{{ant|da|fed|kraftig}}
 # [[poor]], [[meagre]]
+#:{{syn|da|ufrugtbar|fattig}}
 
 =====Inflection=====
-{{da-infl-adj|magr}}
+{{da-infl-adj|magr|est}}
+
+===Derived Terms===
+*{{l|da|magerhed}}
+*{{l|da|radmager}}
 
 ===Etymology 2===
-From {{der|da|la|magus}}.
+Via {{der|da|de|Magier}}, from {{der|da|la|magus}} and {{der|da|grc|μάγος}}, ultimately from {{der|da|peo|𐎶𐎦𐏁|ts=maguš}}. See also {{m|da|magi}}
 
 ====Pronunciation====
 * {{IPA|da|[ˈmæˀjɐ]|[ˈmæˀɐ]|[ˈmæˀɡ̊ɐ]}}
@@ -27,7 +35,7 @@ From {{der|da|la|magus}}.
 ====Noun====
 {{da-noun|en|e}}
 
-# [[mage]]
+#{{lb|da|rare}} [[mage]]
 
 =====Inflection=====
 {{da-noun-infl|en|e|ne}}
