@@ -4,13 +4,12 @@
 {{was wotd|2006|December|17}}
 
 ===Pronunciation===
-* {{enPR|rō′bŏt}}
-* {{IPA|en|/ˈɹəʊ.bɒt/|a=UK}}
-* {{IPA|en|/ˈɹoʊ.bɑt/|a=US,CA}}
-** {{audio|en|en-us-robot.ogg|a=California}}
+* {{IPA|en|/ˈɹəʊ.bɒt/|a=RP}}
+* {{IPA|en|/ˈɹoʊ.bɑt/|a=GA,CA}}
+* {{audio|en|en-us-robot.ogg|a=California}}
 * {{IPA|en|/ˈɹəʉ.bɔt/|a=AU}}
-** {{audio|en|en-au-robot.ogg|a=Queensland}}
-* {{qualifier|rare|dated}} {{enPR|rō′bət}}, {{IPA|en|/ˈɹoʊ.bət/}}
+* {{audio|en|en-au-robot.ogg|a=Queensland}}
+* {{IPA|en|/ˈɹəʊ.bət/|q=rare, dated}}
 
 ===Etymology 1===
 From {{der|en|de|Robot}}, from a West Slavic language, ultimately related to Etymology 2, below.
@@ -25,19 +24,20 @@ From {{der|en|de|Robot}}, from a West Slavic language, ultimately related to Ety
 |passage=Although the '''''robot''''' varied from region to region, it was rarely less than burdensome.}}
 
 ===Etymology 2===
+[[File:Paris Motor Show 2018, Paris (1Y7A1752).jpg|thumb|An industrial '''robot''' ({{senseno|en|Q11012}}) engraving on a metal plate]]
 {{etymid|en|R.U.R.}}
 {{root|en|ine-pro|*h₃erbʰ-}}
-{{etymon|en|id=mechanical being|bor|cs>robot>mechanical being|tree=1}}
-Borrowed from {{bor|en|cs|robot}}, from {{m|cs|robota||drudgery, servitude}}. Coined in the 1920 science-fiction play ''{{w|R.U.R.|R.U.R. (Rossum's Universal Robots)}}'' by {{w|Karel Čapek}} after having been suggested to him by his brother {{w|Josef Čapek|Josef}}, and taken into English without change.<ref>{{cite-web |en|url=https://blog.archive.org/2021/03/24/major-scifi-discovery-hiding-in-plain-sight-at-the-internet-archive/ |title=Major SciFi Discovery Hiding in Plain Sight at the Internet Archive |last=Adams |first=Caralee |date=2021-03-24 |publisher={{w|Internet Archive}} |work=Internet Archive Blogs }}</ref>
+{{etymon|en|id=Q11012|bor|cs>robot>Q11012|tree=1}}
+
+{{bor+|en|cs|robot}}, from {{m|cs|robota||drudgery, servitude}}. Coined in the 1920 science-fiction play ''{{w|R.U.R.}}'' by {{w|Karel Čapek}} after having been suggested to him by his brother {{w|Josef Čapek|Josef}}.<ref>{{cite-web|en|date=2021-03-24|last=Adams|first=Caralee|title=Major SciFi Discovery Hiding in Plain Sight at the Internet Archive|publisher=w:Internet Archive|work=Internet Archive Blogs|url=https://blog.archive.org/2021/03/24/major-scifi-discovery-hiding-in-plain-sight-at-the-internet-archive/}}</ref>
 
 ====Noun====
 {{en-noun}}
-[[File:Paris Motor Show 2018, Paris (1Y7A1752).jpg|thumb|An industrial '''robot''' (sense 2) engraving on a metal plate.]]
 
 # {{lb|en|chiefly|science fiction}} An [[intelligent]] [[mechanical]] [[being]] [[design]]ed to look like a [[human]] or other [[creature]], and usually made from [[metal]]. {{defdate|from 20th c.}}
 #* {{RQ:Capek Selver RUR|page=17|passage=Young Rossum invented a worker with a minimum amount of requirements. He had to simplify him. He rejected everything that did not contribute directly to the progress of work—everything that makes man more expensive. In fact, he rejected man and made the '''Robot'''. My dear Miss Glory, the '''Robots''' are not people. Mechanically they are more perfect than we are, they have an enormously developed intelligence, but they have no soul.}}
 #* {{quote-journal|en|date=26 January 2010|author=Tom Chivers; Iain McDiarmid|work=The Telegraph|passage=The '''robots''' in Dick's novel, loosely adapted by Ridley Scott into the film Blade Runner, were so similar to humans that when they went rogue, trained bounty hunters were called in to perform psychological tests to see whether suspected androids lacked human empathy.}}
-# A [[machine]] built to carry out some [[complex]] [[task]] or group of tasks by physically [[move|moving]], especially one which can be [[programmed]]. {{defdate|from 20th c.}}
+# {{senseid|en|Q11012}} A [[machine]] built to carry out some [[complex]] [[task]] or group of tasks by physically [[move|moving]], especially one which can be [[programmed]]. {{defdate|from 20th c.}}
 #: {{syn|en|Thesaurus:robot}}
 #: {{hyper|en|automaton}}
 #: {{hypo|en|android}}
@@ -51,23 +51,61 @@ Borrowed from {{bor|en|cs|robot}}, from {{m|cs|robota||drudgery, servitude}}. Co
 # {{lb|en|dance}} A style of [[dance]] popular in [[disco]] in which the dancer [[imitate]]s the stiff movements of a stereotypical [[android]] robot.
 
 =====Hyponyms=====
-{{col3|en
-|swarm robot}}
+{{col|en
+|swarm robot
+}}
 
 =====Derived terms=====
-{{col3|en
+{{col|en
 |-bot
-|bot|robot tax
+|anthrobot
+|antirobot
+|biorobot
+|biot
+|bot
+|Brobot
+|cobot
+|frozen robot syndrome
+|healthcare robot
+|housebot
+|kidnapped robot problem
+|microrobot
+|millirobot
+|Mobot
+|multirobot
+|nanorobot
 |robo-
-|robotess|robot jockey
+|roboid
+|robomb
+|robot chess
+|robot jockey
+|robot revolution
+|robot tax
+|roboteer
+|robotesque
+|robotess
 |robothood
 |robotic
-|roboticist|anthrobot|antirobot|biorobot|biot|Brobot|cobot|microrobot|millirobot|Mobot|multirobot|nanorobot|roboid|robomb|roboteer|robotesque|roboticide|robotise|robotism|robotization|robotize|robotkind|robotness|robotocracy|robotology|robotrix|robotry|telerobot|Zogbot
+|roboticide
+|roboticist
 |robotics
+|robotise
+|robotism
+|robotization
+|robotize
+|robotkind
 |robotless
 |robotlike
-|robot revolution
-|frozen robot syndrome|healthcare robot|housebot|kidnapped robot problem|robot chess|soft robot|Web robot}}
+|robotness
+|robotocracy
+|robotology
+|robotrix
+|robotry
+|soft robot
+|telerobot
+|Web robot
+|Zogbot
+}}
 
 =====Descendants=====
 * {{desc|ar|رُوبُوت|رُوبُوط|bor=1}}
@@ -255,7 +293,7 @@ Possibly overlapping with the sense of {{m|en|robot||a person who does not seem 
 * {{l|en|robot revolution}}
 
 ===References===
-<references />
+{{reflist}}
 
 ===Further reading===
 * {{pedia}}
@@ -265,13 +303,14 @@ Possibly overlapping with the sense of {{m|en|robot||a person who does not seem 
 ===Anagrams===
 * {{anagrams|en|a=boort|boort|torob}}
 
+{{cln|en|terms derived from fiction}}
 {{C|en|Dances|Internet|People|Robotics|Stock characters}}
 
 ==Afrikaans==
 {{was fwotd|af|2021|January|25}}
 
 ===Etymology===
-Borrowed from {{bor|af|en|robot}}.
+{{etymon|af|id=Q11012|bor|en>robot>Q11012|text=++}}
 
 ===Pronunciation===
 * {{IPA|af|/ˈrʊə̯.bɔt/}}
@@ -280,15 +319,18 @@ Borrowed from {{bor|af|en|robot}}.
 ===Noun===
 {{af-noun|robotte}}
 
-# [[#English|robot]]
+# {{l|en|robot}}
 # [[traffic light]]
 #* '''1997''', Riana Scheepers, ''Dogters van Afrika. Verhale oor Suid-Afrikaanse Vroue'', Tafelberg (publ.).
 #*: {{quote|af|As die '''robotte''' na groen oorslaan, brul hulle en storm vorentoe.|When the '''traffic lights''' switch to green, they roar and storm forward.}}
 
+{{cln|af|terms derived from fiction}}
+{{C|af|Robotics}}
+
 ==Basque==
 
 ===Etymology===
-Ultimately from {{der|eu|cs|robot}}.
+{{etymon|eu|id=Q11012|bor|cs>robot>Q11012|text=++}}
 
 ===Pronunciation===
 {{eu-pr}}
@@ -296,21 +338,27 @@ Ultimately from {{der|eu|cs|robot}}.
 ===Noun===
 {{eu-noun|an}}
 
-# [[#English|robot]]
+# {{l|en|robot}}
 
 ====Declension====
 {{eu-decl-anim}}
 
 ====Related terms====
-{{col|eu|robotika<t:robotics>|robotiko<t:robotic>}}
+{{col|eu
+|robotika
+|robotiko
+}}
 
 ===Further reading===
 * {{R:EH}}
 
+{{cln|eu|terms derived from fiction}}
+{{C|eu|Robotics}}
+
 ==Catalan==
 
 ===Etymology===
-From {{der|ca|cs|robot}}.
+{{etymon|ca|id=Q11012|bor|cs>robot>Q11012|text=++}}
 
 ===Pronunciation===
 * {{ca-IPA|ò}}<!-- per GDLC, DNV -->
@@ -323,7 +371,7 @@ From {{der|ca|cs|robot}}.
 # {{l|en|robot}}
 
 ====Derived terms====
-{{col3|ca|robot de cuina|robòtica|robotitzar}}
+{{col|ca|robot de cuina|robòtica|robotitzar}}
 
 ===Further reading===
 * {{R:ca:IEC2}}
@@ -331,6 +379,7 @@ From {{der|ca|cs|robot}}.
 * {{R:ca:DNV}}
 * {{R:ca:DCVB}}
 
+{{cln|ca|terms derived from fiction}}
 {{C|ca|Robotics}}
 
 ==Cebuano==
@@ -340,7 +389,7 @@ From {{der|ca|cs|robot}}.
 From {{der|ceb|en|robot}}, from {{der|ceb|cs|robot}}, from {{m|cs|robota||drudgery, servitude}}. Coined in the 1921 science-fiction play ''[[W:R.U.R. (Rossum's Universal Robots)|R.U.R. (Rossum's Universal Robots)]]'' by {{w|Karel Čapek}} after having been suggested to him by his brother {{w|Josef Čapek|Josef}}.
 
 ===Pronunciation===
-* {{hyphenation|ceb|ro|bot}}
+* {{hyph|ceb|ro|bot}}
 
 ===Noun===
 {{head|ceb|noun}}
@@ -350,13 +399,14 @@ From {{der|ceb|en|robot}}, from {{der|ceb|cs|robot}}, from {{m|cs|robota||drudge
 # {{lb|ceb|figuratively}} a [[person]] who does not seem to have any [[emotions]]
 # a style of [[dance]] popular in [[disco]] whereby the dancer impersonates the movement of a robot
 
+{{cln|ceb|terms derived from fiction}}
 {{C|ceb|Robotics|Dances|Science fiction}}
 
 ==Czech==
 
 ===Etymology===
-{{etymon|cs|id=mechanical being|from|cs>robota>serfdom|tree=1}}
-From {{m|cs|robota}}. {{coin|cs|nobycat=1|Q454568}}, it first appeared in the 1921 science-fiction play ''{{w|R.U.R.}}'' by his brother {{w|Karel Čapek}}.
+{{etymon|cs|id=Q11012|robota>serfdom|tree=1}}
+From {{m|cs|robota}}. {{coinage|cs|Q454568|nobycat=1}}, it first appeared in the 1921 science-fiction play ''{{w|R.U.R.}}'' by his brother {{w|Karel Čapek}}.
 
 ===Pronunciation===
 * {{cs-IPA}}
@@ -396,11 +446,12 @@ From {{m|cs|robota}}. {{coin|cs|nobycat=1|Q454568}}, it first appeared in the 19
 * {{R:cs:IJP}}
 
 {{cln|cs|terms derived from fiction}}
+{{C|cs|Robotics}}
 
 ==Danish==
 
 ===Etymology===
-Ultimately from {{der|da|cs|robot}}.
+{{etymon|da|id=Q11012|bor|cs>robot>Q11012|text=++}}
 
 ===Pronunciation===
 * {{IPA|da|[ʁoˈbʌd]}}<!--from DDO-->
@@ -412,6 +463,9 @@ Ultimately from {{der|da|cs|robot}}.
 
 ===References===
 * {{R:DDO}}
+
+{{cln|da|terms derived from fiction}}
+{{C|da|Robotics}}
 
 ==Dutch==
 
@@ -443,10 +497,13 @@ Borrowed, likely from {{bor|nl|de|Robot}}, from {{der|nl|cs|robot}}. The plural 
 ===Anagrams===
 * {{l|nl|boort}}
 
+{{cln|nl|terms derived from fiction}}
+{{C|nl|Robotics}}
+
 ==French==
 
 ===Etymology===
-From {{der|fr|cs|robot}}.
+{{etymon|fr|id=Q11012|bor|cs>robot>Q11012|text=++}}
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -470,8 +527,14 @@ From {{der|fr|cs|robot}}.
 ===Further reading===
 * {{R:fr:TLFi}}
 
+{{cln|fr|terms derived from fiction}}
+{{C|fr|Robotics}}
+
 ==Galician==
-{{wp|lang=gl}}
+{{wikipedia|lang=gl}}
+
+===Etymology===
+{{etymon|gl|id=Q11012|bor|cs>robot>Q11012|text=++}}
 
 ===Pronunciation===
 {{gl-pr|rȯbòt}}
@@ -484,6 +547,9 @@ From {{der|fr|cs|robot}}.
 
 ===References===
 * {{R:gl:DRAG}}
+
+{{cln|gl|terms derived from fiction}}
+{{C|gl|Robotics}}
 
 ==Hungarian==
 
@@ -502,7 +568,8 @@ From {{der|hu|bar|robat}}, {{m|bar|robold}}, from {{der|hu|cs|robota||forced lab
 # {{lb|hu|figuratively}} [[hard]] [[work]], [[drudgery]]
 
 =====Declension=====
-{{hu-infl-nom|roboto|o}}{{hu-pos-otok|robot|j|jai}}
+{{hu-infl-nom|roboto|o}}
+{{hu-pos-otok|robot|j|jai}}
 
 =====Derived terms=====
 {{col4|hu
@@ -516,10 +583,11 @@ From {{der|hu|cs|robot}}, from {{m|cs|robota||forced labour, drudgery}}. Coined 
 ====Noun====
 {{hu-noun|ok}}
 
-# [[#English|robot]]
+# {{l|en|robot}}
 
 =====Declension=====
-Same as above.
+{{hu-infl-nom|roboto|o}}
+{{hu-pos-otok|robot|j|jai}}
 
 =====Derived terms=====
 {{col4|hu
@@ -530,14 +598,15 @@ Same as above.
 }}
 
 ===Further reading===
-* {{sense|socage; drudgery}} {{R:ErtSz}}
+* {{R:ErtSz}}
 
-{{cln|hu|terms with multiple lemma etymologies|terms with multiple noun etymologies}}
+{{cln|hu|terms derived from fiction|terms with multiple lemma etymologies|terms with multiple noun etymologies}}
+{{C|hu|Robotics}}
 
 ==Indonesian==
 
 ===Etymology===
-From {{bor|id|en|robot}}, from {{der|id|cs|robot}}.
+{{etymon|id|id=Q11012|bor|en>robot>Q11012|text=++}}
 
 ===Pronunciation===
 {{id-pr|rò.bòt}}
@@ -545,7 +614,7 @@ From {{bor|id|en|robot}}, from {{der|id|cs|robot}}.
 ===Noun===
 {{id-noun}}
 
-# [[#English|robot]]
+# {{l|en|robot}}
 
 ====Derived terms====
 {{col|id
@@ -561,10 +630,13 @@ From {{bor|id|en|robot}}, from {{der|id|cs|robot}}.
 ===Further reading===
 * {{R:KBBI Daring}}
 
+{{cln|id|terms derived from fiction}}
+{{C|id|Robotics}}
+
 ==Italian==
 
 ===Etymology===
-{{ubor|it|fr|robot}}, from {{der|it|cs|robot}}.
+{{etymon|it|id=Q11012|bor|fr>robot>Q11012|text=++}}
 
 ===Pronunciation===
 {{it-pr|robó**,ròbot<r:DiPI>}}
@@ -579,10 +651,13 @@ From {{bor|id|en|robot}}, from {{der|id|cs|robot}}.
 * {{l|it|robot da cucina}}
 
 ===References===
-<references />
+{{reflist}}
 
 ===Anagrams===
 * {{anagrams|it|a=boort|botro|torbo}}
+
+{{cln|it|terms derived from fiction}}
+{{C|it|Robotics}}
 
 ==Jamaican Creole==
 
@@ -598,17 +673,11 @@ From {{bor|id|en|robot}}, from {{der|id|cs|robot}}.
 
 # {{lb|jam|slang}} [[illegal]] [[taxi]]
 #: {{ux|jam|Mi n'ave nuh big money fi spen' pon taxi. See one '''robot''' a come deh. Mek wi tek it.|I don't have a lot of money to spend on a cab. Here's an '''illegal taxi'''. Let's take that.}}
-#* {{quote-web|en
-|termlang=jam
-|text=“Slang expression for a vehicle that is operating as a taxi without the proper license that is required.  {{...}}”
-|title=Robot&nbsp;– Patois Definition
-|url=https://jamaicanpatwah.com/term/Robot/1578#.YELSwv4o-V4
-|work=Jamaican Patwah
-|year=2013
-}}
+#* {{quote-web|en|termlang=jam|year=2013|work=Jamaican Patwah|title=Robot&nbsp;– Patois Definition|url=https://jamaicanpatwah.com/term/Robot/1578#.YELSwv4o-V4
+|text=“Slang expression for a vehicle that is operating as a taxi without the proper license that is required.  {{...}}”}}
 
 ====See also====
-* [[route taxi]]
+* {{l|jam|route taxi}}
 
 ===Further reading===
 * {{R:jam:JamPat|robot|1578}}
@@ -633,39 +702,44 @@ From {{bor|id|en|robot}}, from {{der|id|cs|robot}}.
 {{wikipedia|lang=no}}
 
 ===Etymology===
-{{bor+|nb|cs|robot}}.
+{{etymon|nb|id=Q11012|bor|cs>robot>Q11012|text=++}}
 
 ===Noun===
 {{nb-noun-m1}}
 
-# a {{l|en|robot}}
+# {{l|en|robot}}
 
 ===References===
 * {{R:The Bokmål Dictionary}}
+
+{{cln|nb|terms derived from fiction}}
+{{C|nb|Robotics}}
 
 ==Norwegian Nynorsk==
 {{wikipedia|lang=nn}}
 
 ===Etymology===
-{{bor+|nn|cs|robot}}.
+{{etymon|nn|id=Q11012|bor|cs>robot>Q11012|text=++}}
 
 ===Noun===
 {{nn-noun-m1}}
 
-# a {{l|en|robot}}
+# {{l|en|robot}}
 
 ===References===
 * {{R:The Nynorsk Dictionary}}
 
+{{cln|nn|terms derived from fiction}}
+{{C|nn|Robotics}}
+
 ==Polish==
-{{wp|lang=pl}}
+{{wikiedia|lang=pl}}
 
 ===Etymology===
-{{etymon|pl|id=mechanical being|bor|cs>robot>mechanical being|tree=1}}
-{{bor+|pl|cs|robot}}.
+{{etymon|pl|id=Q11012|bor|cs>robot>Q11012|text=++}}
 
 ===Pronunciation===
-{{pl-pr|a=Pl-robot.ogg}}
+{{pl-pr|a=pl-robot.ogg}}
 
 ===Noun===
 {{pl-noun|m-anml|f=robotka<id:robot><q:rare>}}
@@ -689,6 +763,7 @@ From {{bor|id|en|robot}}, from {{der|id|cs|robot}}.
 * {{R:pl:WSJP}}
 * {{R:pl:PWN}}
 
+{{cln|pl|terms derived from fiction}}
 {{C|pl|Robotics|Science fiction}}
 
 ==Portuguese==
@@ -704,7 +779,7 @@ From {{bor|id|en|robot}}, from {{der|id|cs|robot}}.
 ==Romanian==
 
 ===Etymology===
-{{bor+|ro|fr|robot}}, from {{der|ro|cs|robot}}.
+{{etymon|ro|id=Q11012|bor|fr>robot>Q11012|text=++}}
 
 ===Noun===
 {{ro-noun|m|roboți}}
@@ -714,7 +789,13 @@ From {{bor|id|en|robot}}, from {{der|id|cs|robot}}.
 ====Declension====
 {{ro-noun-m|pl=roboți}}
 
+{{cln|ro|terms derived from fiction}}
+{{C|ro|Robotics}}
+
 ==Serbo-Croatian==
+
+===Etymology===
+{{etymon|sh|id=Q11012|bor|cs>robot>Q11012|text=++}}
 
 ===Pronunciation===
 * {{sh-IPA|rȍbot}}
@@ -736,11 +817,14 @@ From {{bor|id|en|robot}}, from {{der|id|cs|robot}}.
 |robotom|robotima
 }}
 
+{{cln|sh|terms derived from fiction}}
+{{C|sh|Robotics}}
+
 ==Slovene==
-{{wp|lang=sl}}
+{{wikipedia|lang=sl}}
 
 ===Etymology===
-{{bor+|sl|cs|robot}}.
+{{etymon|sl|id=Q11012|bor|cs>robot>Q11012|text=++}}
 
 ===Pronunciation===
 * {{sl-IPA|robọ̑t}}
@@ -748,18 +832,21 @@ From {{bor|id|en|robot}}, from {{der|id|cs|robot}}.
 ===Noun===
 {{sl-noun|robọ̑t|m-an}}
 
-# [[#English|robot]]
+# {{l|en|robot}}
 
 ====Inflection====
 {{sl-decl-noun-m|robót|a=1}}
 
 ===Further reading===
-{{R:sl:FR}}
+* {{R:sl:FR}}
+
+{{cln|sl|terms derived from fiction}}
+{{C|sl|Robotics}}
 
 ==Spanish==
 
 ===Etymology===
-{{bor+|es|en|robot}}, from {{der|es|cs|-}}.
+{{etymon|es|id=Q11012|bor|en>robot>Q11012|text=++}}
 
 ===Pronunciation===
 {{es-pr}}
@@ -781,15 +868,14 @@ From {{bor|id|en|robot}}, from {{der|id|cs|robot}}.
 ===Further reading===
 * {{R:es:DRAE}}
 
-{{C|es|Engineering|Mechanics}}
+{{cln|es|terms derived from fiction}}
+{{C|es|Robotics}}
 
 ==Swedish==
-{{wikipedia|lang=sv|Robot (olika betydelser)|Robot (different meanings)}}
+{{wikipedia|lang=sv}}
 
 ===Etymology===
-{{bor+|sv|cs|robot}}. {{coinage|sv|Karel Čapek|in=1920|nat=Czech|occ=author|nocat=1}} via the play {{w|R.U.R.}}. Attested in Swedish since 1921.
-
-In weaponry sense attested since 1944.
+{{etymon|sv|id=Q11012|bor|cs>robot>Q11012|text=++}} {{etydate|1921}}. The weaponry sense attested since 1944.
 
 ===Noun===
 {{sv-noun|c}}
@@ -806,25 +892,27 @@ In weaponry sense attested since 1944.
 {{sv-infl-noun-c-ar}}
 
 ====Derived terms====
-{{sense|Robot}}
-* {{l|sv|industrirobot||industrial robot}}
-* {{l|sv|robotdammsugare||robotic vacuum cleaner}}
-* {{l|sv|robotgräsklippare||robotic lawnmower}}
-* {{l|sv|robotkirurg||robotic surgeon}}
+{{sense|robot}}
+{{col|sv
+|industrirobot
+|robotdammsugare
+|robotgräsklippare
+|robotkirurg
+}}
 
-{{sense|Weaponry}}
-{{col2|sv
-|antiballistisk robot<t:anti-ballistic missile>
-|attackrobot<t:air-to-surface missile>
-|ballistisk robot<t:ballistic missile>
-|jaktrobot<t:air-to-air missile>
-|kryssningsrobot<t:cruise missile>
-|luftvärnsrobot<t:surface-to-air missile>
-|interkontinental ballistisk robot<t:ICBM>
-|målsökande robot<t:homing missile>
-|robotattack<t:missile attack>
-|robotkryssare<t:guided-missile cruiser>
-|sjömålsrobot<t:anti-ship missile>
+{{sense|weaponry}}
+{{col|sv
+|antiballistisk robot
+|attackrobot
+|ballistisk robot
+|jaktrobot
+|kryssningsrobot
+|luftvärnsrobot
+|interkontinental ballistisk robot
+|målsökande robot
+|robotattack
+|robotkryssare
+|sjömålsrobot
 }}
 
 ===References===
@@ -832,13 +920,12 @@ In weaponry sense attested since 1944.
 * {{R:svenska.se|SAOB}}
 
 {{cln|sv|terms derived from fiction}}
-{{C|sv|Robotics}}
-{{C|sv|Explosives}}
+{{C|sv|Explosives|Robotics}}
 
 ==Tagalog==
 
 ===Etymology===
-{{bor+|tl|en|robot}}, from {{der|tl|cs|robot}}, from {{m|cs|robota||drudgery, servitude}}.
+{{etymon|tl|id=Q11012|bor|en>robot>Q11012|text=++}}
 
 ===Pronunciation===
 {{tl-pr}}
@@ -851,11 +938,14 @@ In weaponry sense attested since 1944.
 ===Further reading===
 * {{R:Pambansang Diksiyonaryo}}
 
+{{cln|tl|terms derived from fiction}}
+{{C|tl|Robotics}}
+
 ==Turkish==
-{{wp|lang=tr}}
+{{wikipedia|lang=tr}}
 
 ===Etymology===
-{{bor+|tr|fr|robot}}, from {{der|tr|cs|robot}}.
+{{etymon|tr|id=Q11012|bor|fr>robot>Q11012|text=++}}
 
 ===Pronunciation===
 * {{IPA|tr|/ɾoˈbot/}}
@@ -865,32 +955,34 @@ In weaponry sense attested since 1944.
 ===Noun===
 {{tr-noun|u|lar}}
 
-# [[#English|robot]] {{defdate|from 1933}}
+# {{l|en|robot}} {{defdate|from 1933}}
 # {{ellipsis of|tr|mutfak robotu||food processor}}
 
 ====Declension====
 {{tr-infl-noun-c|o}}
 
 ====Derived terms====
-{{col3|tr
+{{col|tr
 |mutfak robotu
 |robot çizim
 |robot gibi
 |robotik
 |robotlaşmak
-|robot resim}}
+|robot resim
+}}
 
 ===Further reading===
 * {{R:tr:TDK}}
 * {{R:tr:Nişanyan}}
 * {{R:lugatim}}
 
-{{c|tr|Kitchenware}}
+{{cln|tr|terms derived from fiction}}
+{{C|tr|Kitchenware|Robotics}}
 
 ==Vietnamese==
 
 ===Etymology===
-From {{bor|vi|en|robot}}.
+{{etymon|vi|id=Q11012|bor|en>robot>Q11012|text=++}}
 
 ===Pronunciation===
 {{vi-IPA|rô bốt}}
@@ -898,12 +990,15 @@ From {{bor|vi|en|robot}}.
 ===Noun===
 {{vi-noun}}
 
-# [[#English|robot]]
+# {{l|en|robot}}
+
+{{cln|vi|terms derived from fiction}}
+{{C|vi|Robotics}}
 
 ==Welsh==
 
 ===Etymology===
-{{bor+|cy|en|robot}}, from {{der|cy|cs|robot}}.
+{{etymon|cy|id=Q11012|bor|en>robot>Q11012|text=++}}
 
 ===Noun===
 {{cy-noun|m|robotiaid|pl2=robotau}}
@@ -920,4 +1015,5 @@ The plural form {{m|cy|robotiaid}} is preferred for humanoid robots or androids 
 ===Further reading===
 * {{R:cy:GPC}}
 
+{{cln|cy|terms derived from fiction}}
 {{C|cy|Robotics}}
