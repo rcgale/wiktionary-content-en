@@ -14,7 +14,7 @@ Ultimately, from {{der|en|non|Finnland}}, equivalent to {{af|en|Finn|-land}}. Co
 ===Proper noun===
 {{en-prop|-|s}}
 
-# {{senseid|en|Q33}} {{place|en|country|a=A Nordic|having borders with [[Sweden]], [[Norway]] and [[Russia]] in|cont/Europe|official=Republic of Finland}}.
+# {{senseid|en|Q33}}{{place|en|country|a=A Nordic|having borders with [[Sweden]], [[Norway]] and [[Russia]] in|cont/Europe|official=Republic of Finland|tcl=a <<country>> in <<r/Northern Europe>>}}.
 #* {{quote-journal|en|author=Eliza Mackintosh|title=No more excuses on resettling refugees, European Commission warns|magazine=w:CNN|url=https://www.cnn.com/2017/03/02/europe/european-countries-not-meeting-refugee-resettling-obligations/index.html|date=2017-03-02|passage=And so far just two member states, Malta and '''Finland''', are on track to meet their resettling obligations.}}
 #* {{seemoreCites|en}}
 
@@ -260,7 +260,7 @@ Ultimately, from {{der|en|non|Finnland}}, equivalent to {{af|en|Finn|-land}}. Co
 {{trans-bottom}}
 
 ====See also====
-{{list:countries in Europe/en}}{{C|en|Countries in Europe}}
+{{list:countries in Europe/en}}
 
 {{cln|en|terms suffixed with -land|exonyms}}
 
@@ -270,7 +270,7 @@ Ultimately, from {{der|en|non|Finnland}}, equivalent to {{af|en|Finn|-land}}. Co
 ===Proper noun===
 {{af-proper noun}}
 
-# {{place|af|country|r/Northern Europe|t=Finland|capital=af:Helsinki}}
+# {{tcl|af|Finland|id=Q33|place_caplc=Helsinki}}
 
 ====Related terms====
 * {{l|af|Fin}}
@@ -281,9 +281,8 @@ Ultimately, from {{der|en|non|Finnland}}, equivalent to {{af|en|Finn|-land}}. Co
 ===Proper noun===
 {{head|br|proper noun}}
 
-# {{l|en|Finland}}
+# {{tcl|br|Finland|id=Q33}}
 
-{{C|br|Countries}}
 {{cln|br|exonyms}}
 
 ==Danish==
@@ -346,7 +345,7 @@ Borrowed and first attested in the 16th century Dutch translation of Olaus Magnu
 * {{l|nb|finlender}}, {{l|nb|finlending}}, {{l|nb|finne}}
 * {{l|nb|finlandsk}}, {{l|nb|finsk}}
 
-{{cln|no|exonyms}}
+{{cln|nb|exonyms}}
 
 ==Norwegian Nynorsk==
 {{wikipedia|lang=nn}}
@@ -377,9 +376,8 @@ From {{inh|sv|non|Finnland}}.
 ===Proper noun===
 {{sv-proper noun|n}}
 
-# {{place|sv|country|cont/Europe|t=Finland}}.
-#: {{syn|sv|Republiken Finland}}
-# {{lb|sv|historic}} Finland {{gl|one of the four regions of Sweden, together with [[Götaland]], [[Svealand]] and [[Norrland]]}}
+# {{tcl|sv|Finland|id=Q33|place_official=Republiken Finland}}
+# {{lb|sv|historic}} {{l|en|Finland}} {{gl|one of the four regions of Sweden, together with [[Götaland]], [[Svealand]] and [[Norrland]]}}
 
 ====Derived terms====
 * {{l|sv|finlandssvensk}}
