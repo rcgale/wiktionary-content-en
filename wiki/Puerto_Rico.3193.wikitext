@@ -20,9 +20,9 @@ From {{bor|en|es|Puerto Rico||lit=Rich Port}}. In US English, the name is common
 ===Proper noun===
 {{en-proper noun|nolinkhead=1}}
 
-# {{place|en|A self-governing <<commonwealth>> and <<dependent territory>> of the <<c/United States>> in the [[Caribbean]]}}.
+# {{sid|en|Q1183}}{{place|en|A self-governing <<commonwealth>> and <<dependent territory>> of the <<c/United States>> in the <<r/Caribbean>>|tcl=a <<commonwealth>>, <<island>> and <<dependent territory>> of the <<c/United States>> in the <<r/Caribbean>>}}.
 #: {{syn|en|Commonwealth of Puerto Rico|q1=official name|PR|q2=symbol}}
-# {{place|en|The <<island>> comprising most of that territory}}.
+# {{sid|en|Q2076337}}{{place|en|The <<island>> comprising most of that territory}}.
 #: {{ux|en|The indigenous Taíno name for the island of '''Puerto Rico''' was 'Borikén', which literally means "Homeland of the People".}}
 
 ====Synonyms====
@@ -118,7 +118,7 @@ From {{der|nb|es|Puerto Rico}}.
 ===Proper noun===
 {{head|nb|proper noun|head=[[puerto|Puerto]] [[rico|Rico]]}}
 
-# {{place|nb|a <<commonwealth>>, <<island>> and <<dependent territory>> of the <<c/United States>> in the [[Caribbean]]|t=Puerto Rico}}
+# {{tcl|nb|Puerto Rico|id=Q1183}}
 
 ====Related terms====
 * {{l|nb|puertoricaner}}, {{l|nb|puertorikaner}}
@@ -133,7 +133,7 @@ From {{der|nn|es|Puerto Rico}}.
 ===Proper noun===
 {{head|nn|proper noun|head=[[puerto|Puerto]] [[rico|Rico]]}}
 
-# {{place|nn|a <<commonwealth>>, <<island>> and <<dependent territory>> of the <<c/United States>> in the [[Caribbean]]|t=Puerto Rico}}
+# {{tcl|nn|Puerto Rico|id=Q1183}}
 
 ====Related terms====
 * {{l|nn|puertoricanar}}, {{l|nn|puertorikanar}}
@@ -144,7 +144,7 @@ From {{der|nn|es|Puerto Rico}}.
 ===Proper noun===
 {{ro-proper noun|n}}
 
-# {{place|ro|a <<commonwealth>>, <<island>> and <<dependent territory>> of the <<c/United States>> in the [[Caribbean]]|t=Puerto Rico}}
+# {{tcl|ro|Puerto Rico|id=Q1183}}
 
 ==Spanish==
 
@@ -157,8 +157,7 @@ From {{der|nn|es|Puerto Rico}}.
 ===Proper noun===
 {{head|es|proper noun|head=[[puerto|Puerto]] [[rico|Rico]]}}
 
-# {{place|es|a <<commonwealth>>, <<island>> and <<dependent territory>> of the <<c/United States>> in the [[Caribbean]]|t=Puerto Rico}}
-#: {{syn|es|Estado Libre Asociado de Puerto Rico}}
+# {{tcl|es|Puerto Rico|id=Q1183|place_official=Estado Libre Asociado de Puerto Rico}}
 
 ==Swedish==
 {{wikipedia|lang=sv}}
@@ -166,7 +165,7 @@ From {{der|nn|es|Puerto Rico}}.
 ===Proper noun===
 {{sv-proper noun|n}}
 
-# {{place|sv|a <<commonwealth>>, <<island>> and <<dependent territory>> of the <<c/United States>> in the [[Caribbean]]|t=Puerto Rico}}
+# {{tcl|sv|Puerto Rico|id=Q1183}}
 
 ====Related terms====
 * {{l|sv|puertorican}}
