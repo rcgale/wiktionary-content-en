@@ -95,7 +95,8 @@ Introduced by [[w:René Descartes|René Descartes]] in the context of mathematic
 {{head|en|numeral}}
 
 # {{senseid|en|quantity}} An unknown [[quantity]] or unknown value.
-#: {{ux|en|Let '''x''' represent the forecast traffic flow in 20 years’ time.}}
+#: {{alti|en|x<id:quantity>}}
+#: {{ux|en|Let '''''X''''' represent the forecast traffic flow in 20 years’ time.}}
 
 =====Derived terms=====
 {{col3|en
@@ -118,7 +119,7 @@ Introduced by [[w:René Descartes|René Descartes]] in the context of mathematic
 }}
 
 =====Translations=====
-{{trans-top|unknown quantity or unknown value}}{{multitrans|data=
+{{trans-top|unknown quantity or unknown value|id=quantity}}{{multitrans|data=
 * Arabic: {{tt+|ar|س|tr=sīn}} {{q-lite|unknown variable}}
 * Finnish: {{tt+|fi|X}}, {{t+|fi|tuntematon}}
 * French: {{tt+|fr|X}}
@@ -237,7 +238,7 @@ From {{m|en|Christ}} by abbreviation, {{obor|en|grc|Χ|pos=letter [[chi]]|nocap=
 {{col3|en
 |Xian
 |Xianity
-|Xmas
+|Xmas,X-mas
 |Xmastide
 |Xt
 |Xtian
