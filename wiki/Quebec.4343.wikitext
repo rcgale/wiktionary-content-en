@@ -64,7 +64,7 @@ From {{bor|en|fr|Québec}}, from {{der|en|alq|kepék|gloss=(it) narrows}}. Cogna
 ===Proper noun===
 {{en-proper noun|-|s}}
 
-# {{place|en|province|in eastern|c/Canada}}.
+# {{sid|en|Q176}}{{place|en|province|in eastern|c/Canada|capital=Quebec City|largest city=Montreal}}.
 #* {{quote-book
 |en
 |year=1996
@@ -78,10 +78,8 @@ From {{bor|en|fr|Québec}}, from {{der|en|alq|kepék|gloss=(it) narrows}}. Cogna
 |page=9
 |pageurl=https://archive.org/details/directinterventi0000blac/page/9/
 |text=And of course, in July 1967 De Gaulle did come to Canada. He made his speeches in '''Quebec''', was enthusiastically received on the Chemin du Roy, shouted “Vive le '''Quebec''' libre” in Montreal and, on learning of the reaction of the Canadian government, returned to Paris without going to Ottawa.}}
-# {{place|en|capital city|p:pref/Quebec|/Canada}}.
-
-====Synonyms====
-* {{sense|capital city of Quebec}} {{l|en|Quebec City}}, [[Québec City]]
+# {{sid|en|Q2145}}{{place|en|capital city|p:pref/Quebec|c/Canada|tcl_t=+|tcl_t2=+ City}}.
+#: {{syn|en|Quebec City|Québec City}}
 
 ====Derived terms====
 * {{sense|province}} {{l|en|QC}}, [[Que.]], [[Que]], [[Qc.]], [[Qc]], [[P.Q.]], [[P. Q.]], [[PQ]] {{qualifier|abbreviation}}
@@ -191,8 +189,7 @@ From {{bor|en|fr|Québec}}, from {{der|en|alq|kepék|gloss=(it) narrows}}. Cogna
 ===Proper noun===
 {{ca-proper noun|m}}
 
-# {{place|ca|province|c/Canada|t1=Quebec}}
-# {{place|ca|capital city|p:pref/Quebec|/Canada|t1=Quebec|t2=Quebec City}}
+# {{tcl|ca|Quebec|id=Q176,Q2145}}
 
 ====Derived terms====
 * {{l|ca|quebequès}}
@@ -208,8 +205,7 @@ From {{der|fi|fr|Québec}}, from {{der|fi|alq|kepék}}.
 ===Proper noun===
 {{fi-proper noun}}
 
-# {{place|fi|province|c/Canada|t1=Quebec}}
-# {{place|fi|capital city|p:pref/Quebec|/Canada|t1=Quebec|t2=Quebec City}}
+# {{tcl|fi|Quebec|id=Q176,Q2145}}
 
 ====Declension====
 * When written:
@@ -231,8 +227,7 @@ From {{der|fi|fr|Québec}}, from {{der|fi|alq|kepék}}.
 ===Proper noun===
 {{de-proper noun|toponym}}
 
-# {{place|de|{{l|en|Quebec}}, a province of <<c/Canada>>}}.
-# {{place|de|[[Quebec City]], the <<capital city>> of the province}}.
+# {{tcl|de|Quebec|id=Q176,Q2145}}
 
 ====Declension====
 {{de-ndecl|toponym}}
@@ -260,8 +255,7 @@ From {{der|fi|fr|Québec}}, from {{der|fi|alq|kepék}}.
 ===Proper noun===
 {{pl-proper noun|m-in}}
 
-# {{place|pl|province|c/Canada|t1=Quebec}}
-# {{place|pl|capital city|p:pref/Quebec|/Canada|t1=Quebec|t2=Quebec City}}
+# {{tcl|pl|Quebec|id=Q176,Q2145}}
 
 ====Declension====
 {{pl-decl-noun-m-in|inss=Quebekiem|tantum=s}}
@@ -282,7 +276,8 @@ From {{der|fi|fr|Québec}}, from {{der|fi|alq|kepék}}.
 ===Proper noun===
 {{pt-proper noun|m}}
 
-# {{alternative form of|pt|Quebeque}}
+# {{alternative form of|pt|Quebeque}}:
+## {{tcl|pt|Quebec|id=Q176,Q2145|indent=##}}
 
 ==Slovak==
 
@@ -292,7 +287,8 @@ From {{der|fi|fr|Québec}}, from {{der|fi|alq|kepék}}.
 ===Proper noun===
 {{sk-proper noun|m-in|gen=Quebecu}}
 
-# {{alt form|sk|Québec}}
+# {{alt form|sk|Québec}}:
+## {{tcl|sk|Quebec|id=Q176,Q2145|indent=##}}
 
 ===References===
 * {{R:sk:SDK}}
@@ -311,8 +307,7 @@ From {{der|fi|fr|Québec}}, from {{der|fi|alq|kepék}}.
 ===Proper noun===
 {{es-proper noun|m}}
 
-# {{place|es|province|c/Canada|t1=Quebec}}
-# {{place|es|capital city|p:pref/Quebec|/Canada|t1=Quebec|t2=Quebec City}}
+# {{tcl|es|Quebec|id=Q176,Q2145}}
 
 ====Derived terms====
 {{col|es|quebequense|quebequés}}
