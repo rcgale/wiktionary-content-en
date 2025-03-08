@@ -12,10 +12,10 @@ From {{der|en|la|-}}, literally “New Scotland”, from {{m|la|nova}}, feminine
 ===Proper noun===
 {{en-propn|nolinkhead=1}}
 
-# {{place|en|province|in eastern|c/Canada|capital=Halifax}}.
+# {{sid|en|Q1952}}{{place|en|province|in eastern|c/Canada|capital=Halifax}}.
 #: {{holonyms|en|Maritimes|Maritime provinces}}
 #: {{meronyms|en|Nova Scotia peninsula|Cape Breton Island}}
-# {{place|en|peninsula|on the coast of the|ocean/Atlantic}}, comprising most of the province of Nova Scotia; {{w|Nova Scotia peninsula}}.
+# {{sid|en|Q2657206}}{{place|en|peninsula|on the coast of the|ocean/Atlantic|comprising most of the province of Nova Scotia|tcl_t=+|tcl_t2=Nova Scotia peninsula}}; {{w|Nova Scotia peninsula}}.
 
 ====Derived terms====
 * {{l|en|Nova Scotia Duck Tolling Retriever}}
@@ -96,7 +96,7 @@ From {{der|en|la|-}}, literally “New Scotland”, from {{m|la|nova}}, feminine
 ===Proper noun===
 {{fi-proper noun|head=Nova Scotia}}
 
-# {{place|fi|province|in eastern|c/Canada|t1=Nova Scotia}}
+# {{tcl|fi|Nova Scotia|id=Q1952}}
 
 ====Declension====
 {{fi-decl-kulkija|n=sg|Nova Scoti|a}}
@@ -115,9 +115,7 @@ From {{der|en|la|-}}, literally “New Scotland”, from {{m|la|nova}}, feminine
 ===Proper noun===
 {{la-proper noun|[[novus|Nova]]<+.loc> [[Scōtia]]<1.loc>}}
 
-# {{lb|la|New Latin}} {{l|en|Nova Scotia}}{{C|la|Places in Canada}}{{C|la|Provinces of Canada}}
+# {{lb|la|New Latin}} {{tcl|la|Nova Scotia|id=Q1952}}
 
 ====Declension====
 {{la-ndecl|Nova<+.loc> Scōtia<1.loc>}}
-
-{{C|la|Canada}}
