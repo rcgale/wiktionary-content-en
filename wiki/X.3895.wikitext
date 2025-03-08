@@ -159,7 +159,7 @@ Introduced by [[w:René Descartes|René Descartes]] in the context of mathematic
 ====Letter====
 {{en-letter}}
 
-# {{Latn-def|en|letter|24|ex}}
+# {{senseid|en|letter}} {{Latn-def|en|letter|24|ex}}
 
 =====See also=====
 {{list:Latin script letters/en}}
@@ -171,8 +171,8 @@ Introduced by [[w:René Descartes|René Descartes]] in the context of mathematic
 # {{lb|en|lacrosse}} The spot behind the [[goal]].
 
 =====Derived terms=====
-* {{sense|cross mark}} {{l|en|X marks the spot}}, {{l|en|X out}}, {{l|en|XXX}}
-* {{sense|signature mark}} {{l|en|XO}}, {{l|en|xo}}, {{l|en|XOXO}}, {{l|en|xoxo}}
+{{col|en|title=cross mark|X marks the spot|X out|XXX}}
+{{col|en|title=signature mark|XO//xo,XOXO//xoxo}}
 
 =====Translations=====
 {{trans-see|cross#noun}}
@@ -180,7 +180,8 @@ Introduced by [[w:René Descartes|René Descartes]] in the context of mathematic
 ====Adjective====
 {{en-adj|-}}
 
-# {{U|intersex}} or [[non-binary]] {{q-lite|in passports and identification documents}}.
+# {{senseid|en|intersex or non-binary}} {{U|intersex}} or [[non-binary]] {{q-lite|in passports and identification documents}}.
+#: {{alti|en|x<id:intersex or non-binary>}}
 #: {{cot|en|M|F}}
 
 ===Etymology 3===
@@ -238,7 +239,7 @@ From {{m|en|Christ}} by abbreviation, {{obor|en|grc|Χ|pos=letter [[chi]]|nocap=
 {{col3|en
 |Xian
 |Xianity
-|Xmas,X-mas
+|Xmas//X-mas
 |Xmastide
 |Xt
 |Xtian
