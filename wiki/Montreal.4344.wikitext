@@ -21,9 +21,9 @@ From {{bor|en|fr|Montréal}}; from {{m|fr|Mont Royal|gloss=[[Mount Royal]]}} {{g
 {{en-proper noun}}
 
 # {{place|en|place|p/Quebec|c/Canada}}, at the confluence of the Ottawa and Saint-Lawrence Rivers
-## {{place|en|A river <<port>>, the <<largest city>> in <<p/Quebec>>, <<c/Canada>>}}.
+## {{sid|en|Q340}}{{place|en|A river <<port>>, the <<largest city>> in <<p/Quebec>>, <<c/Canada>>|tcl=an <<island>> on which is situated the <<largest city>> in <<p/Quebec>>, <<c/Canada>>}}.
 ##: {{syn|en|City of Montreal}}
-## {{place|en|island|p/Quebec|c/Canada}}, on which the city is situated.
+## {{sid|en|Q292354}}{{place|en|island|p/Quebec|c/Canada}}, on which the city is situated.
 ##: {{syn|en|Island of Montreal|Montreal Island}}
 ##: {{cot|en|514}}
 ## {{ellipsis of|en|Montreal Archipelago}}; {{place|en|archipelago|on the|river/Saint Lawrence River|in|p/Quebec|c/Canada}}, which contains the island.
@@ -36,10 +36,10 @@ From {{bor|en|fr|Montréal}}; from {{m|fr|Mont Royal|gloss=[[Mount Royal]]}} {{g
 ##: {{syn|en|County of Montreal|Montreal County}}
 ## {{place|en|district|p/Quebec|c/Canada}}, containing the county.
 ##: {{syn|en|District of Montreal|Montreal District}}
-### {{lb|en|judicial}} {{place|en|judicial district|p/Quebec|c/Canada}}
-### {{lb|en|historical}} {{place|en|former administrative district|p/Quebec|c/Canada}}
-## {{lb|en|historical}} {{place|en|district|p/Quebec|cc/British North America}}
-## {{lb|en|historical}} {{place|en|district|p/Canada|cc/New France}}
+### {{lb|en|judicial}} {{place|en|judicial district|p/Quebec|c/Canada}}.
+### {{lb|en|historical}} {{place|en|former administrative district|p/Quebec|c/Canada}}.
+## {{lb|en|historical}} {{place|en|district|p/Quebec|cc/British North America}}.
+## {{lb|en|historical}} {{place|en|district|p/Canada|cc/New France}}.
 # {{place|en|river|dist/Algoma,Sudbury|p/Ontario|c/Canada}}.
 # {{place|en|river|dist/Timiskaming|p/Ontario|c/Canada}}.
 # {{place|en|river|cdiv/No. 18|p/Saskatchewan|c/Canada}}.
@@ -145,8 +145,7 @@ From {{bor|en|fr|Montréal}}; from {{m|fr|Mont Royal|gloss=[[Mount Royal]]}} {{g
 ===Proper noun===
 {{ca-proper noun|m|head=[[mont|Mont]][[real]]}}
 
-# {{place|ca|largest city|p/Quebec|c/Canada|t1=Montreal}}
-# {{place|ca|island|p/Quebec|c/Canada|the site of the city of [[Montreal]]|t1=Montreal}}
+# {{tcl|ca|Montreal|id=Q340}}
 
 ==German==
 {{wikipedia|lang=de}}
@@ -158,7 +157,7 @@ From {{bor|en|fr|Montréal}}; from {{m|fr|Mont Royal|gloss=[[Mount Royal]]}} {{g
 ===Proper noun===
 {{de-proper noun|toponym}}
 
-# {{place|de|largest city|p/Quebec|c/Canada|t1=Montreal}}
+# {{tcl|de|Montreal|id=Q340}}
 
 ==Middle French==
 
@@ -181,14 +180,14 @@ From {{bor|en|fr|Montréal}}; from {{m|fr|Mont Royal|gloss=[[Mount Royal]]}} {{g
 ===Proper noun===
 {{head|nb|proper noun}}
 
-# {{alt form|nb|Montréal|nocap=1}}, {{place|nb|a=the|largest city|p/Quebec|c/Canada}}
+# {{alt form|nb|Montréal|nocap=1}}, {{tcl|nb|Montreal|id=Q340}}
 
 ==Norwegian Nynorsk==
 
 ===Proper noun===
 {{head|nn|proper noun}}
 
-# {{alt form|nn|Montréal|nocap=1}}, {{place|nn|a=the|largest city|p/Quebec|c/Canada}}
+# {{alt form|nn|Montréal|nocap=1}}, {{tcl|nn|Montreal|id=Q340}}
 
 ==Polish==
 {{wp|lang=pl}}
@@ -202,7 +201,7 @@ From {{bor|en|fr|Montréal}}; from {{m|fr|Mont Royal|gloss=[[Mount Royal]]}} {{g
 ===Proper noun===
 {{pl-proper noun|m-in}}
 
-# {{place|pl|largest city|p/Quebec|c/Canada|t1=Montreal}}
+# {{tcl|pl|Montreal|id=Q340}}
 
 ====Declension====
 {{pl-decl-noun-m-in|tantum=s}}
@@ -227,7 +226,7 @@ Borrowed from {{bor|pt|fr|Montréal}}.
 ===Proper noun===
 {{pt-proper noun|f}}
 
-# {{place|pt|largest city|p/Quebec|c/Canada|t1=Montreal}}
+# {{tcl|pt|Montreal|id=Q340}}
 
 ==Slovak==
 
@@ -237,7 +236,7 @@ Borrowed from {{bor|pt|fr|Montréal}}.
 ===Proper noun===
 {{sk-proper noun|m-in|gen=Montrealu|decl=dub}}
 
-# {{place|sk|largest city|p/Quebec|c/Canada|t=Montreal}}
+# {{tcl|sk|Montreal|id=Q340}}
 
 ===References===
 * {{R:sk:SDK}}
@@ -253,7 +252,7 @@ Borrowed from {{bor|pt|fr|Montréal}}.
 ===Proper noun===
 {{es-proper noun|f}}
 
-# {{place|es|largest city|p/Quebec|c/Canada|t1=Montreal}}
+# {{tcl|es|Montreal|id=Q340}}
 
 ==Turkish==
 
@@ -266,7 +265,7 @@ From {{der|tr|fr|Montréal}}
 ===Noun===
 {{tr-noun|i|ler}}
 
-# [[Montreal]]
+# {{tcl|tr|Montreal|id=Q340}}
 
 ====Declension====
 {{tr-infl-noun-c|e|poss=1}}
