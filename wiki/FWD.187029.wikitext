@@ -4,11 +4,21 @@
 ===Noun===
 {{en-noun|~}}
 
-# {{abbreviation of|en|forward}} <!--really noun?-->
-# {{lb|en|automotive}} {{initialism of|en|front-wheel drive}}
+# {{senseid|en|forward}} {{abbreviation of|en|forward}}
+#: {{ant|en|RWD<id:rewind><gloss:rewind>}}
+#: {{hypo|en|FF<id:fast-forward><gloss:fast-forward>}}
+# {{senseid|en|front-wheel drive}} {{lb|en|automotive}} {{initialism of|en|front-wheel drive}}
+# {{senseid|en|four-wheel drive}} {{lb|en|automotive}} {{initialism of|en|four-wheel drive}}
 
 ====Related terms====
-* {{qualifier|automotive}} [[RWD]], [[AWD]], [[4WD]], [[2WD]]
+{{col|en
+|4x2<gloss:four-by-two>
+|4x4<gloss:four-by-four>
+|2WD<id:two-wheel drive><gloss:two-wheel drive>
+|4WD<id:four-wheel drive><gloss:four-wheel drive>
+|AWD<id:all-wheel drive><gloss:all-wheel drive>
+|RWD<id:rear-wheel drive><gloss:rear-wheel drive>
+}}
 
 ===Anagrams===
 * {{anagrams|en|a=dfw|DFW|FDW}}
