@@ -29,15 +29,15 @@ In verb sense “to stir”, from {{m|en|swizzle stick||stick for stirring alcoh
 ===Verb===
 {{en-verb}}
 
-# To [[stir]] or [[mix]].
+# {{lb|en|informal|transitive}} To [[stir]] or [[mix]].
 #: {{ux|en|She '''swizzled''' the milk into her coffee.}}
+# {{lb|en|informal|transitive}} To [[drink]]; to [[swill]].
+#* {{quote-book|en|year=1958|author=w:Baynard Kendrick|title=Reservations for Death|passage=I checked it all over after Mona got in, while you were '''swizzling''' beer in that saloon.}}
 # {{lb|en|programming}} To [[permute]] [[bits]], or elements of a [[vector]].
 # {{lb|en|programming|transitive}} To [[convert]] [[portable]] [[symbol]]s or [[position]]s to [[memory]]-dependent [[pointer]]s during [[deserialization]].
 # {{lb|en|programming|[[Objective-C]]|transitive}} To change a [[class]]'s [[dispatch table]] in order to resolve [[message]]s from an existing [[selector]] to a new [[implementation]].
 #: {{hyper|en|monkey patch}}
 #* {{quote-book|en|year=2016|author=David Thiel|title=iOS Application Security: The Definitive Guide for Hackers and Developers|publisher=No Starch Press|isbn=9781593277543|page=25|pageurl=https://books.google.com/books?id=iAYvDwAAQBAJ&lpg=PA24&dq=%22swizzled%20ObjC&hl=&pg=PA25#v=onepage&q&f=false|text=If you or a loved one want to implement method '''swizzling''', you may want to consider using a fairly well-tested wrapper package, such as <code>JRSwizzle</code>. Apple may reject applications that appear to use method '''swizzling''' in a dangerous way.}}
-# To [[drink]]; to [[swill]].
-#* {{quote-book|en|year=1958|author=w:Baynard Kendrick|title=Reservations for Death|passage=I checked it all over after Mona got in, while you were '''swizzling''' beer in that saloon.}}
 
 ====Antonyms====
 * {{antsense|convert symbols to pointers}} {{l|en|unswizzle}}
