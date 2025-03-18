@@ -58,7 +58,7 @@ From {{bor|en|ko|한글|t=Korean script}}.
 * Kazakh: {{t|kk|[[Корей]] [[жазу|жазуы]]}}
 * Korean: {{t+|ko|한글}} {{qualifier|South Korea}}, {{t+|ko|조선글}} {{qualifier|North Korea}}, {{t+|ko|언문(諺文)}}
 * Persian: {{t|fa|هانگول|tr=hângul}}
-* Polish: {{t+|pl|hangul|m}}, {{t+|pl|hangeul|m}}, {{t+|pl|hangyl|m}}
+* Polish: {{t+|pl|hangul|m}}
 * Portuguese: {{t+|pt|hangul|m}}
 * Punjabi: {{t|pa|ਹਾਂਗਗੁਲ}}
 * Russian: {{t+|ru|хангы́ль|m}}, {{qualifier|North Korea}} {{t|ru|чосонгы́ль|m}}
@@ -110,12 +110,14 @@ From {{bor|fi|ko|한글}}.
 
 ==Polish==
 {{wp|lang=pl}}
+[[File:Hangul chosongul fontembed.svg|thumb|hangul]]
 
 ===Alternative forms===
 * {{alt|pl|hangeul|hangyl}}
 
 ===Etymology===
-{{bor+|pl|ko|한글}}, from {{m|ko|한}} + {{m|ko|글}}.
+{{dercat|pl|ko}}
+{{bor+|pl|en|hangul}}.
 
 ===Pronunciation===
 {{pl-pr|a=LL-Q809 (pol)-Olaf-hangul.wav}}
@@ -123,7 +125,7 @@ From {{bor|fi|ko|한글}}.
 ===Noun===
 {{pl-noun|m-in}}
 
-# {{l|en|hangul}} {{gl|Korean phonetic script}}
+# {{l|en|hangul}} {{gl|phonetic alphabet used to write the Korean language}}
 
 ====Declension====
 {{pl-decl-noun-m-in|tantum=s}}
@@ -131,7 +133,7 @@ From {{bor|fi|ko|한글}}.
 ===Further reading===
 * {{R:pl:PWN}}
 
-{{C|pl|Korea|Writing systems}}
+{{C|pl|Korean|Writing systems}}
 
 ==Portuguese==
 {{wikipedia|lang=pt}}
