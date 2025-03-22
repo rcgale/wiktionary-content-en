@@ -16,8 +16,8 @@ From {{bor|en|ja|-}} {{ja-r|広%島|^ひろ%しま}}.
 ===Proper noun===
 {{en-proper noun}}
 
-# {{place|en|prefecture|in southwestern|isl/Honshu|c/Japan}}.
-# {{place|en|capital city|pref/Hiroshima|c/Japan}}. It was the target of the first [[atomic bomb]] dropped in [[warfare]] on August 6, 1945.
+# {{sid|en|Q617375}}{{place|en|prefecture|in southwestern|isl/Honshu|c/Japan}}.
+# {{sid|en|Q34664}}{{place|en|capital city|pref/Hiroshima|c/Japan|;|the target of the first [[atomic bomb]] dropped in [[warfare]] on August 6, 1945}}.
 #* {{quote-av
 |en
 |date=August 6, 1945
@@ -94,7 +94,7 @@ The bomb dropped on Hiroshima, was the [[uranium]]-fired [[Little Boy]]. Three d
 ===Proper noun===
 {{de-proper noun|toponym}}
 
-# {{place|de|city|c/Japan|t=Hiroshima}}
+# {{tcl|de|Hiroshima|id=Q617375,Q34664}}
 
 ==Japanese==
 
@@ -115,7 +115,8 @@ The bomb dropped on Hiroshima, was the [[uranium]]-fired [[Little Boy]]. Three d
 ===Proper noun===
 {{pl-prop|f|adj=hiroshimski}}
 
-# {{alt sp|pl|Hiroszima}}
+# {{alt sp|pl|Hiroszima}}:
+## {{tcl|pl|Hiroshima|id=Q617375,Q34664|indent=##}}
 
 ====Declension====
 {{pl-decl-noun-f|tantum=s}}
@@ -124,7 +125,6 @@ The bomb dropped on Hiroshima, was the [[uranium]]-fired [[Little Boy]]. Three d
 * {{R:pl:PWN Encyclopedia}}
 
 {{cln|pl|exonyms}}
-{{C|pl|Cities in Hiroshima Prefecture|Cities in Japan|Hiroshima|Hiroshima Prefecture|Places in Hiroshima Prefecture|Places in Japan|Prefectural capitals of Japan|Prefectures of Japan}}
 
 ==Portuguese==
 
@@ -134,4 +134,5 @@ The bomb dropped on Hiroshima, was the [[uranium]]-fired [[Little Boy]]. Three d
 ===Proper noun===
 {{pt-proper noun|f}}
 
-# {{alternative form of|pt|Hiroxima}}
+# {{alternative form of|pt|Hiroxima}}:
+## {{tcl|pt|Hiroshima|id=Q617375,Q34664|indent=##}}
