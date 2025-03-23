@@ -131,8 +131,12 @@ From {{inh|en|enm|comparatif}}, from {{der|en|frm|comparatif}}, from {{der|en|la
 {{wikipedia}}
 {{en-noun}}
 
-# {{lb|en|grammar}} A construction showing a [[relative]] [[quality]], in English usually formed by adding ''[[more]]'' or appending ''[[-er]]''. For example, the comparative of ''green'' is ''greener''; of ''evil'', ''more evil''.
-# {{lb|en|grammar}} A word in the comparative form.
+# {{lb|en|grammar}} The [[degree of comparison]] of an [[adjective]] or [[adverb]] used when comparing two entities in terms of a certain [[property]] or a certain [[way]] of [[do|doing]] something. In English, the [[comparative of superiority]] is formed by adding the suffix {{m|en|-er}} or the word {{m|en|more}} (e.g. ''bigger'', ''more fully''); the [[comparative of equality]], by adding the word {{m|en|as}} (e.g. ''as big'', ''as fully''); the [[comparative of inferiority]], by adding the word {{m|en|less}} (e.g. ''less big'', ''less fully'').
+#: {{syn|en|comparative degree}}
+#: {{hyper|en|degree of comparison}}
+#: {{coord|en|positive|superlative}}
+#: {{hypo|en|comparative of superiority|comparative of equality|comparative of inferiority}}
+# {{lb|en|grammar}} An adjective or adverb in the comparative degree.
 # {{lb|en|mostly|in the plural}} [[data|Data]] used to make a comparison.
 #* {{quote-book|en|year=2010|author=Barry Smith|title=Introductory Financial Accounting and Reporting|page=171|passage=Investment ratios are positive. Comparative or trend data are required to draw final conclusions. The absence of '''comparatives''' and trend data constrains the conclusions.}}
 # {{lb|en|obsolete}} An [[equal]]; a [[rival]]; a [[compeer]].
@@ -140,11 +144,8 @@ From {{inh|en|enm|comparatif}}, from {{der|en|frm|comparatif}}, from {{der|en|la
 # {{lb|en|obsolete}} One who makes [[comparison]]s; one who [[affect]]s [[wit]].
 #* {{RQ:Shakespeare Henry 4-1|III|ii|line=67|text=Every beardless vain '''comparative'''.}}
 
-====Synonyms====
-* {{sense|grammar: degree}} {{l|en|comparative degree}}
-
 ====Translations====
-{{trans-top|grammatical construction}}
+{{trans-top|degree of comparison}}
 * Albanian: {{t|sq|shkalla krahasore|f}}
 * Arabic: {{t|ar|دَرَجَة نِسْبِيَّة|f}}
 * Belarusian: {{t|be|вышэ́йшая ступе́нь|f}}, {{t|be|параўна́льная ступе́нь|f}}
@@ -191,7 +192,7 @@ From {{inh|en|enm|comparatif}}, from {{der|en|frm|comparatif}}, from {{der|en|la
 * Welsh: {{t|cy|gradd gymharol|f}}
 {{trans-bottom}}
 
-{{trans-top|word in comparative form}}
+{{trans-top|adjective or adverb in the comparative degree}}
 * Catalan: {{t|ca|comparatiu|m}}
 * Czech: {{t+|cs|komparativ|m}}
 * French: {{t+|fr|comparatif|m}}
@@ -212,11 +213,6 @@ From {{inh|en|enm|comparatif}}, from {{der|en|frm|comparatif}}, from {{der|en|la
 * Swedish: {{t+|sv|komparativ|n}}
 * Vietnamese: {{t|vi|cấp so sánh}}
 {{trans-bottom}}
-
-===Related terms===
-* {{l|en|absolute comparative}}
-* {{l|en|degrees of comparison}}
-* {{l|en|superlative}}
 
 ===See also===
 * {{l|en|absolute superlative}}, {{l|en|relative superlative}}, {{l|en|comparative superlative}}
