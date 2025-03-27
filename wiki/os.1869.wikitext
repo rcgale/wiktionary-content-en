@@ -443,6 +443,9 @@ From {{inh|gl|roa-opt|os}}, from {{inh|gl|VL.|*los}}, from {{inh|gl|la|illōs}},
 # {{lb|gl|definite}} [[the]]
 #: {{ux|gl|Libros que encerran '''os''' fondos secretos da cencia.|Books that contain '''the''' secret treasures of science.}}
 
+=====See also=====
+{{gl-articles}}
+
 =====Usage notes=====
 The definite article ''o'' (in all its forms) regularly forms contractions when it follows the prepositions {{m|gl|a||to}}, {{m|gl|con||with}}, {{m|gl|de||of, from}}, and {{m|gl|en||in}}. For example, ''con os'' ("with the") contracts to {{m|gl|cos}}, and ''en os'' ("in the") contracts to {{m|gl|nos}}.
 
@@ -464,7 +467,77 @@ The definite article ''o'' (in all its forms) regularly forms contractions when 
 # {{inflection of|gl|eles||acc}}
 
 =====See also=====
-{{gl-articles}}
+{{inflection-table-top|title= Galician personal pronouns|palette=yellow|tall=yes|class=very-narrow gl-personal-pronouns}}
+|-
+! class="outer" | number
+! colspan="2" | person
+! nominative<br/>(subject)
+! accusative<br/>(direct object)
+! dative<br/>(indirect object)
+! {{l|en|prepositional pronoun|prepositional}}
+! prepositional<br/>with [[con]]
+|-
+! class="outer" rowspan="4" | singular
+! colspan="2" | first
+| [[eu]]
+| colspan="2" | [[me]]
+| [[min]]
+| [[comigo]]
+|-
+! colspan="2" | second
+| [[ti]]
+| [[te]]
+| [[che]]
+| [[ti]]
+| [[contigo]]
+|-
+! rowspan="2" | third
+! class="secondary" | {{g|m}}
+| [[el]]
+| [[o]] ([[lo]], [[no]])
+| rowspan="2" | [[lle]]
+| [[el]]
+| [[con]] [[el]]
+|-
+! class="secondary" | {{g|f}}
+| [[ela]]
+| [[a]] ([[la]], [[na]])
+| [[ela]]
+| [[con]] [[ela]]
+|-
+! class="outer" rowspan="4" | plural
+! colspan="2" | first
+| [[nós]]<br/> [[nosoutros]] {{g|m}} <br/> [[nosoutras]] {{g|f}}
+| colspan="2" | [[nos]] 
+| [[nós]]
+| class="nowrap" | [[connosco]] 
+|-
+! colspan="2" | second
+| [[vós]] <br/> [[vosoutros]] {{g|m}} <br/> [[vosoutras]]{{g|f}}
+| colspan="2" | [[vos]]
+| [[vós]]
+| [[convosco]]
+|-
+! rowspan="2" | third
+! class="secondary" | {{g|m}}
+| [[eles]]
+| class="nowrap" | [[os]] ([[los]], [[nos]])
+| rowspan="2" | [[lles]]
+| [[eles]]
+| [[con]] [[eles]] 
+|-
+! class="secondary" | {{g|f}}
+| [[elas]]
+| class="nowrap" | [[as]] ([[las]], [[nas]])
+| [[elas]]
+| [[con]] [[elas]]
+|-
+! colspan="3" | reflexive third /<br> indefinite
+| &mdash;
+| colspan="2" | [[se]]
+| [[si]]
+| [[consigo]] 
+{{inflection-table-bottom}}
 
 ===Further reading===
 * {{R:gl:DRAG|o}}
