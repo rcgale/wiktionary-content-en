@@ -26,7 +26,7 @@ The specific form ''"Taiwan"'' in English emerged from the letters of {{bor|en|c
 ===Proper noun===
 {{en-proper noun}}
 
-# {{sid|en|Q865}}{{place|en|An <<archipelago>> and partly-recognized <<country>> in <<region/East Asia>>|official=Republic of China|capital=Taipei}}. {{defdate|from 20th c.}}
+# {{sid|en|Q865}}{{place|en|A partly-recognized <<country>> in <<region/East Asia>> consisting of a main <<island>> and 167 smaller islands|official=Republic of China|capital=Taipei}}. {{defdate|from 20th c.}}
 #: {{syn|en|Chinese Taipei|Republic of China|ROC|Formosa|Taiwan, Penghu, Kinmen, and Matsu}}
 #* {{quote-book
 |en
@@ -66,7 +66,7 @@ The specific form ''"Taiwan"'' in English emerged from the letters of {{bor|en|c
 |work=w:EFE
 |text='''Taiwan''' carried out an unprecedented military drill Tuesday, a day ahead of its National Day celebrations, in Taoyuan in northern parts of the country.<br>The drill was attended by Taiwanese president Tsai Ing-wen, and President of Paraguay Mario Abdo Benitez, who is on a state visit to '''Taiwan''' until Thursday.}}
 #* {{seemoreCites|en}}
-# {{place|en|island|between the [[Taiwan Strait]] and [[Philippine Sea]] in|r/East Asia}}. {{defdate|1600s}}
+# {{sid|en|Q22502}}{{place|en|island|between the [[Taiwan Strait]] and [[Philippine Sea]] in|r/East Asia}}. {{defdate|1600s}}
 #: {{syn|en|Formosa}}
 #* {{quote-book
 |en
@@ -109,9 +109,9 @@ The specific form ''"Taiwan"'' in English emerged from the letters of {{bor|en|c
 |pageurl=https://archive.org/details/mandateforchange00eise/page/460/
 |text=As a result of the Sino-Japanese War of 1894-95, China lost to Japan the important islands of '''Taiwan''' (Formosa) and the Pescadores, lying about a hundred miles off the Chinese coast.}}
 #* {{seemoreCites|en}}
-# {{place|en|administrative division|including Taiwan and nearby islands}}.
+# {{lb|en|historical}} {{place|en|former administrative division|including Taiwan and nearby islands}}.
 #: {{syn|en|Formosa}}
-## {{lb|en|historical}} {{place|en|prefecture}} of [[Fujian]], [[China]] ([[Qing]] Empire) (1683–1885).
+## {{lb|en|historical}} {{place|en|A <<former prefecture>> of [[Fujian]] province in <<emp/China>> ([[Qing]] Empire) (1683–1885)}}.
 ##* {{quote-journal
 |en
 |year=1864
@@ -174,7 +174,7 @@ The specific form ''"Taiwan"'' in English emerged from the letters of {{bor|en|c
 |pageurl=https://archive.org/details/chinesetaiwanyea0032unse/page/281/
 |text=President Ma further noted that in 1683 during the Qing dynasty (1644-1911) the emperor formally included the Diaoyutais as territory of China in '''Taiwan''' Prefecture, Fujian Province. In 1812, the Diaoyutais were placed under the administration of the Kavalan Office of the '''Taiwan''' prefectural government, he added, pointing out that the ''Record of Missions to Taiwan and Adjacent Waters'' {{lang|zh|《臺海使槎錄》}} and the ''Illustrations of Taiwan'' {{lang|zh|《全臺圖説》}} prove that China effectively ruled over the Diaoyutai Islets during the Qing Dynasty.}}
 ##* {{seemoreCites|en}}
-## {{lb|en|historical}} {{place|en|province}} of [[China]] ([[Qing]] Empire) (1885–1895).
+## {{lb|en|historical}} {{place|en|A <<former province>> of <<empire/China>> ([[Qing]] Empire) (1885–1895)}}.
 ##* {{quote-book
 |en
 |year=1896
@@ -215,7 +215,7 @@ The specific form ''"Taiwan"'' in English emerged from the letters of {{bor|en|c
 |pageurl=https://archive.org/details/internationalre00morsgoog/page/861/
 |text=The Chinese forces holding Formosa numbered about 50,000 men, and its defence was ably conducted by Liu Ming-chüan, then imperial High Commissioner ''ad hoc'' afterwards first governor of the newly created province of '''Taiwan'''.}}
 ##* {{seemoreCites|en}}
-## {{lb|en|historical}} {{place|en|dependency}} of [[Japan]] (1895–1945).
+## {{lb|en|historical}} {{place|en|A <<former dependency>> of <<empire/Japan>> (1895–1945)}}.
 ##* {{quote-book
 |en
 |year=1902
@@ -257,7 +257,7 @@ The specific form ''"Taiwan"'' in English emerged from the letters of {{bor|en|c
 |column=5
 |text=Amoy is one of the three Chinese ports closer to the Japanese colony of '''Taiwan''' (Formosa) than are any ports in the Japanese Empire proper.}}
 ##* {{seemoreCites|en}}
-## {{place|en|province}} of [[Taiwan]] ([[Republic of China]]) (from 1945).
+## {{place|en|A <<province>> of <<c/Taiwan>> ([[Republic of China]]) (from 1945)}}.
 ##* {{quote-journal
 |en
 |date=February 16, 1946
@@ -700,7 +700,7 @@ The specific form ''"Taiwan"'' in English emerged from the letters of {{bor|en|c
 ===Anagrams===
 * {{anagrams|en|a=aaintw|atwain}}
 
-{{c|en|Asteroids|Provinces of China}}
+{{C|en|Asteroids}}
 
 ==Afrikaans==
 {{wp|lang=af}}
@@ -715,8 +715,8 @@ The specific form ''"Taiwan"'' in English emerged from the letters of {{bor|en|c
 ===Proper noun===
 {{af-proper noun}}
 
-# {{place|af|country|r/East Asia|t=Taiwan|t2=Republic of China|capital=af:Taipei}}
-# {{place|af|island|r/East Asia|t=Taiwan}}
+# {{tcl|af|Taiwan|id=Q865|place_capital=Taipei}}
+# {{tcl|af|Taiwan|id=Q22502}}
 #: {{syn|af|Formosa}}
 
 ====Derived terms====
@@ -736,13 +736,11 @@ From possibly either {{bor|ca|es|Taiwán}} or {{bor|ca|en|Taiwan}}.
 ===Proper noun===
 {{ca-proper noun|m}}
 
-# {{l|en|Taiwan}}
+# {{tcl|ca|Taiwan|id=Q865,Q22502}}
 
 ====Derived terms====
 * {{l|ca|estret de Taiwan}}
 * {{l|ca|taiwanès}}
-
-{{C|ca|Countries|Islands}}
 
 ==Czech==
 {{wp|lang=cs|Tchaj-wan}}
@@ -754,7 +752,8 @@ From possibly either {{bor|ca|es|Taiwán}} or {{bor|ca|en|Taiwan}}.
 ===Proper noun===
 {{cs-proper noun|m-in|adj=taiwanský|dem=Taiwanec}}
 
-# {{alt form|cs|Tchaj-wan}}
+# {{alt form|cs|Tchaj-wan}}:
+## {{tcl|cs|Taiwan|id=Q865,Q22502|indent=##}}
 
 ====Declension====
 {{cs-ndecl|m.sg.locě:u}}
@@ -766,16 +765,12 @@ From possibly either {{bor|ca|es|Taiwán}} or {{bor|ca|en|Taiwan}}.
 ===Proper noun===
 {{head|da|proper noun}}
 
-# {{l|en|Taiwan}}
-
-====Synonyms====
-* {{l|da|Republikken Kina}}
+# {{tcl|da|Taiwan|id=Q865|place_official=Republikken Kina}}
+# {{tcl|da|Taiwan|id=Q22502}}
 
 ====Related terms====
 * {{l|da|taiwaner}}
 * {{l|da|taiwansk}}
-
-{{C|da|Countries|Countries in Asia|Islands}}
 
 ==Dutch==
 [[Image:AMH-6844-KB_View_of_city_and_Fort_Zeelandia_on_Taiwan.jpg|thumb|{{w|Fort Zeelandia (Taiwan)|Fort Zeelandia}} (circa 1670), on the former sandbank of ''"Taiwan"''/''"Taywan"'' (now silted up and connected to the island as modern-day {{w|Anping District}}, [[Tainan]])]]
@@ -785,7 +780,7 @@ From possibly either {{bor|ca|es|Taiwán}} or {{bor|ca|en|Taiwan}}.
 
 ===Etymology===
 {{dercat|nl|fos}}
-The modern form ''"Taiwan"'' may possibly be from {{bor|nl|en|Taiwan}}, or way older reminiscent of older forms like {{m|nl|Tayouan}}, from possibly {{der|nl|fos|-}}.
+The modern form ''"Taiwan"'' may possibly be from {{bor|nl|en|Taiwan}}, or reminiscent of older forms like {{m|nl|Tayouan}}, from possibly {{der|nl|fos|-}}.
 
 ===Pronunciation===
 * {{audio|nl|Nl-Taiwan.ogg}}
@@ -793,9 +788,7 @@ The modern form ''"Taiwan"'' may possibly be from {{bor|nl|en|Taiwan}}, or way o
 ===Proper noun===
 {{nl-proper noun|n}}
 
-# {{l|en|Taiwan}}
-
-{{C|nl|Countries in Asia|Islands}}
+# {{tcl|nl|Taiwan|id=Q865,Q22502}}
 
 ==Finnish==
 {{wikipedia|lang=fi}}
@@ -810,7 +803,7 @@ From {{der|fi|en|Taiwan}}, see it for more.
 ===Proper noun===
 {{fi-proper noun}}
 
-# [[#English|Taiwan]]
+# {{tcl|fi|Taiwan|id=Q865,Q22502}}
 
 ====Declension====
 {{fi-decl-risti|n=sg|Taiwan|||a|i=0}}
@@ -823,8 +816,6 @@ From {{der|fi|en|Taiwan}}, see it for more.
 {{col|fi|title=compounds
 |taiwaninmakaki
 }}
-
-{{C|fi|Countries|Countries in Asia|Islands}}
 
 ==German==
 {{wikipedia|lang=de}}
@@ -844,11 +835,9 @@ The modern form ''"Taiwan"'' may possibly be from {{bor|de|en|Taiwan}}, or way o
 ===Noun===
 {{de-proper noun|toponym}}
 
-# {{place|de|an <<island>> and partly-recognized <<country>> in <<r/East Asia>>|t=Taiwan}}
-
-====Synonyms====
-* {{sense|island}} {{l|de|Formosa}}
-* {{sense|state}} {{l|de|Republik China}}
+# {{tcl|de|Taiwan|id=Q865|place_official=Republik China}}
+# {{tcl|de|Taiwan|id=Q22502}}
+#: {{syn|de|Formosa}}
 
 ====Derived terms====
 * {{l|de|Taiwaner}}, {{l|de|Taiwanese}}, {{l|de|taiwanesisch}}, {{l|de|taiwanisch}}
@@ -869,22 +858,12 @@ The modern form may possibly be from {{bor|id|en|Taiwan}} or way older form remi
 ===Proper noun===
 {{head|id|proper noun}}
 
-# {{l|en|Taiwan}}
-## common name for a country in [[East Asia]]. Official name: [[Republic of China]]. Its capital is [[Taipei]]. {{defdate|from 20th c.}}
-##: {{syn|id|Republik Tiongkok}}
-## a large island between the [[Taiwan Strait]] and [[Philippine Sea]], also known as [[Formosa]]
-## an [[administrative]] [[division]] centered on the island of Taiwan
-### {{lb|id|historical}} an administrative division of the [[Qing dynasty|Qing]] ([[Ching]]) dynasty ([[Manchu]])
-#### {{lb|id|historical}} a {{w|Taiwan Prefecture|prefecture}} of [[Fujian]]
-#### {{lb|id|historical}} a {{w|Taiwan_Province#Qing_Empire|province}}. {{defdate|from late 19th c.}}
-### {{lb|id|historical}} a [[colony]] of [[Japan]]. {{defdate|from late 19th c.}}
-### a {{w|Taiwan Province|province}} of the [[Republic of China]]. {{defdate|from 20th c.}}
-### a [[claim]]ed province of the [[People's Republic of China]] ([[mainland China]]). {{defdate|from mid 20th c.}}
-## {{lb|id|historical}} [[Tainan]] ([[major]] city in [[southern]] Taiwan; former [[capital city]])
-## {{lb|id|astronomy}} {{w|2169 Taiwan}}, a main belt [[asteroid]]. {{defdate|from mid 20th c.}}
+# {{tcl|id|Taiwan|id=Q865|place_official=Republik Tiongkok}}
+# {{tcl|id|Taiwan|id=Q22502}}
+# {{lb|id|astronomy}} {{w|2169 Taiwan}}, a main belt [[asteroid]]. {{defdate|from mid 20th c.}}
 
 ====See also====
-{{list:countries in Asia/id}}{{C|id|Countries in Asia}}
+{{list:countries in Asia/id}}
 
 ===References===
 <references/>
@@ -896,7 +875,7 @@ The modern form may possibly be from {{bor|id|en|Taiwan}} or way older form remi
 ===Proper noun===
 {{head|ia|proper noun}}
 
-# [[#English|Taiwan]]
+# {{tcl|ia|Taiwan|id=Q865,Q22502}}
 
 ==Italian==
 {{wikipedia|lang=it}}
@@ -908,15 +887,13 @@ The modern form may possibly be from {{bor|id|en|Taiwan}} or way older form remi
 ===Proper noun===
 {{it-proper noun|m}}
 
-# {{l|en|Taiwan}}
+# {{tcl|it|Taiwan|id=Q865,Q22502}}
 
 ====Derived terms====
 * {{l|it|taiwanese}}
 
 ====See also====
 * {{l|it|Formosa}}
-
-{{C|it|Countries|Countries in Asia|Islands}}
 
 ==Japanese==
 
@@ -937,18 +914,16 @@ The modern form may possibly be from {{bor|id|en|Taiwan}} or way older form remi
 ===Pronunciation===
 {{mh-ipa-rows|tahy'iwan}}
 
-===Derived terms===
-* {{l|mh|ri-Taiwan}}
-
 ===Proper noun===
 {{mh-head|proper noun}}
 
-# [[#English|Taiwan]].
+# {{tcl|mh|Taiwan|id=Q865,Q22502}}
+
+====Derived terms====
+* {{l|mh|ri-Taiwan}}
 
 ===References===
 * {{meod-ref|ConcordT.htm#Taiwan}}
-
-{{topics|mh|Asia|Countries|Islands|Countries in Asia}}
 
 ==Norwegian Bokmål==
 {{wikipedia|lang=no}}
@@ -957,16 +932,12 @@ The modern form may possibly be from {{bor|id|en|Taiwan}} or way older form remi
 ===Proper noun===
 {{head|nb|proper noun}}
 
-# {{l|en|Taiwan}}
-
-====Synonyms====
-* {{l|nb|Republikken Kina}}
+# {{tcl|nb|Taiwan|id=Q865|place_official=Republikken Kina}}
+# {{tcl|nb|Taiwan|id=Q22502}}
 
 ====Related terms====
 * {{l|nb|taiwaner}}
 * {{l|nb|taiwansk}}
-
-{{C|nb|Countries|Countries in Asia|Islands}}
 
 ==Norwegian Nynorsk==
 {{wikipedia|lang=nn}}
@@ -975,16 +946,12 @@ The modern form may possibly be from {{bor|id|en|Taiwan}} or way older form remi
 ===Proper noun===
 {{head|nn|proper noun}}
 
-# {{l|en|Taiwan}}
-
-====Synonyms====
-* {{l|nn|Republikken Kina}}
+# {{tcl|nn|Taiwan|id=Q865|place_official=Republikken Kina}}
+# {{tcl|nn|Taiwan|id=Q22502}}
 
 ====Related terms====
 * {{l|nn|taiwanar}}
 * {{l|nn|taiwansk}}
-
-{{C|nn|Countries|Countries in Asia|Islands}}
 
 ==Orizaba Nahuatl==
 {{dercat|nlv|cmn|fos}}
@@ -995,7 +962,7 @@ The modern form may possibly be from {{bor|id|en|Taiwan}} or way older form remi
 ===Proper noun===
 {{head|nlv|proper noun}}
 
-# {{place|nlv|country|cont/Asia|t=Taiwan}}
+# {{tcl|nlv|Taiwan|id=Q865,Q22502}}
 
 ==Portuguese==
 
@@ -1013,9 +980,9 @@ The modern form may possibly be from {{bor|id|en|Taiwan}} or way older form remi
 ===Proper noun===
 {{pt-proper noun|m}}
 
-# {{place|pt|country|in East|continent/Asia|t1=Taiwan|t2=Republic of China}}
-#: {{syn|pt|Formosa|República da China}}
-# {{place|pt|island|ocean/the Pacific Ocean|c/Taiwan|def=the main island of the Republic of China|t1=Taiwan|t2=Formosa}}
+# {{tcl|pt|Taiwan|id=Q865|place_official=República da China}}
+#: {{syn|pt|Formosa}}
+# {{tcl|pt|Taiwan|id=Q22502}}
 #: {{syn|pt|Formosa|Ilha Formosa}}
 
 ====Derived terms====
@@ -1029,7 +996,7 @@ The modern form may possibly be from {{bor|id|en|Taiwan}} or way older form remi
 ===Proper noun===
 {{sk-proper noun|m-in|dem1=Taiwančan|dem2=Taiwanec|fdem1=Taiwančanka|fdem2=Taiwanka|adj=taiwanský}}
 
-# {{l|en|Taiwan}} (a country in East Asia)
+# {{tcl|sk|Taiwan|id=Q865,Q22502}}
 
 ====Declension====
 {{sk-decl-noun-sg|Taiwan|Taiwanu|Taiwane|Taiwan|Taiwane|Taiwanom}}
@@ -1050,9 +1017,8 @@ The modern form may possibly be from {{bor|id|en|Taiwan}} or way older form remi
 ===Proper noun===
 {{sv-proper noun|n}}
 
-# {{place|sv|country|in East|continent/Asia|t1=Taiwan|t2=Republic of China}}
-#: {{syn|sv|Republiken Kina}}
-# {{place|sv|island|cont/Asia|t=Taiwan}}
+# {{tcl|sv|Taiwan|id=Q865|place_official=Republiken Kina}}
+# {{tcl|sv|Taiwan|id=Q22502}}
 #: {{syn|sv|Formosa}}
 
 ====Related terms====
@@ -1070,9 +1036,9 @@ The modern form may possibly be from {{bor|id|en|Taiwan}} or way older form remi
 ===Proper noun===
 {{cy-proper noun|m}}
 
-# {{place|cy|country|cont/Asia|t=Taiwan}}
-# {{place|cy|island|cont/Asia|t=Taiwan}}
+# {{tcl|cy|Taiwan|id=Q865}}
+# {{tcl|cy|Taiwan|id=Q22502}}
 #: {{syn|cy|Fformosa}}
 
 ====Coordinate terms====
-{{list:countries in Asia/cy}}{{topics|cy|Countries in Asia}}
+{{list:countries in Asia/cy}}
