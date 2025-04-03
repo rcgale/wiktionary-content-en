@@ -102,24 +102,24 @@ From {{der|eo|la|pāx|t=peace}}.
 
 ==Latin==
 
-===Etymology===
+===Etymology 1===
 {{etymon|la|id=pacify|der|ine-pro>*peh₂ḱ->join}}
-From {{inh|la|itc-pro|*pakō}}, from {{der|la|ine-pro|*peh₂ḱ-|t=to join, fasten}}; or, a [[denominal]] formed from {{m|la|pāx|t=peace}} + {{m|la|-ō|pos=verb-forming suffix}}.
+From {{af|la|pāx|t1=peace|-ō|id2=denominative|pos2=verb-forming suffix forming verbs from nouns or adjectives}}.<ref name="De Vaan">{{R:itc:EDL|head=pāx, pācis|page=452}}</ref> 
 
-===Pronunciation===
+====Pronunciation====
 * {{la-IPA|pācō}}
 
-===Verb===
+====Verb====
 {{la-verb|1+|pācō}}
 
 # to make [[peaceful]], [[pacify]], [[quiet]], [[soothe]]; [[subdue]]
 #: {{syn|la|pācificō|expugnō|superō|dēvincō|subiciō|subigō|ēvincō|domō|opprimō}}
 # {{lb|la|Late or Medieval Latin}} to [[settle]], [[satisfy]]
 
-====Conjugation====
+=====Conjugation=====
 {{la-conj|1+|pācō}}
 
-====Derived terms====
+=====Derived terms=====
 {{col4
 |la|compācō
 |pācātē
@@ -130,7 +130,7 @@ From {{inh|la|itc-pro|*pakō}}, from {{der|la|ine-pro|*peh₂ḱ-|t=to join, fas
 |perpācō
 }}
 
-====Related terms====
+=====Related terms=====
 {{col3
 |la|pācālis
 |pācātōrius
@@ -143,7 +143,7 @@ From {{inh|la|itc-pro|*pakō}}, from {{der|la|ine-pro|*peh₂ḱ-|t=to join, fas
 |pāx
 }}
 
-====Descendants====
+=====Descendants=====
 {{top2}}
 * Eastern Romance:
 ** {{desc|ro|păca}} {{desc|ro|împăca|der=1|nolb=1}}
@@ -177,11 +177,34 @@ From {{inh|la|itc-pro|*pakō}}, from {{der|la|ine-pro|*peh₂ḱ-|t=to join, fas
 ** {{desc|it|pacare|bor=1}}
 {{bottom}}
 
+===Etymology 2===
+According to De Vaan 2008, explained by Meiser 2003 as a thematized derivative of an older root aorist from {{der|la|ine-pro|*peh₂ḱ-|t=to join, fasten}}.<ref name="De Vaan"/> Compare the inchoative {{m|la|pacīscor}}. If pronounced with [g], as advocated by some ancient sources, it would come instead from this root's variant form {{m|ine-pro|*peh₂ǵ-}}: compare {{m|la|pangō}}. The perfect form {{m|la|pepigī}} can be interpreted as a form of {{m|la|pangō}}.
+
+====Alternative forms====
+* {{alt|la|pagō}}
+
+====Pronunciation====
+* {{la-IPA|pacō}}
+* {{la-IPA|pagō}}
+
+====Verb====
+{{la-verb|3|pacō|pepig|pact}}
+
+# to come to an agreement 
+#* {{RQ:Paul.Fest.|page=363|line=6
+|passage='Talionis' mentionem fieri in XII. ait Verrius hoc modo: "Si membrum rupit, ni cum eo '''pacit''', talio esto."|translation=Verrius says [[talion]] (retaliation in kind) is mentioned in the Twelve [Tables] in the following manner: "If [someone] breaks [another's] limb, let there be talion unless [the first] '''comes to an agreement''' with him."}}
+#* {{Q|la||Rhetorica ad Herennium|2|20|quote=Pacta sunt quae legibus observanda sunt, hoc modo—"Rem ubi '''pacunt''', orato. Ni '''pacunt''', in comitio aut in foro ante meridiem causam coniciunto."}}
+#* {{Q|la|Quintus Terentius Scaurus|De Orthographia|15|12|quote=Ego autem contenderim magis supervacuam esse c quam k, quoniam k, ut apud Graecos, satis vim etiam c litterae exprimat, sed quosdam figura deceptos, qua non solum apud nos, verum etiam apud antiquos Graecorum g littera notabatur, ut testatur foedus Graeciae † camelo aereo in hortis Caesaris in aede Fortis Fortunae incisum, ubi pro Γ haec forma posita est, item XII tabulae, ubi est 'ni '''pacunt'''' per hanc formam, quod male quidam per c enuntiant (est enim praeteritum eius pepigi a pango, ut tango tetigi, non paxi, ut a dico dixi), credidisse nobis k deesse et hanc quidem k dixisse, ceterum pro ea nota adiecta a Spurio Carvilio novam formam g litterae positam.}}
+
 ===References===
+<references/>
+
+===Further reading===
 * {{R:L&S}}
 * {{R:Elementary Lewis}}
 * {{R:Gaffiot}}
 * {{R:M&A}}
+* {{R:TLL|pangō|10|part=1|205|12}}
 
 ==Pali==
 
