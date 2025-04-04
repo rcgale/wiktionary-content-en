@@ -30,14 +30,24 @@ From {{inh|is|non|bíða}}, from {{inh|is|gem-pro|*bīdaną}}.
 ===Verb===
 {{is-verb-strong|beið|biðu|beðið}}
 
-# {{lb|is|intransitive}} to [[wait]]
-#: {{uxi|is|'''Bíddu''' eftir mér!|'''Wait''' for me!}}
-#: {{uxi|is|'''Bíddu'''!|'''Wait'''!}}
-# to [[wait for]] something {{+obj|is|gen}}
-#: {{syn|is|bíða eftir<q:less formal>}}
-#: {{uxi|is|'''Bíddu''' mín.|'''Wait for''' me.}}
-# to [[abide]], [[undergo]], [[suffer]] (some fate, usually something bad) {{+obj|is|acc}}
-#: {{ux|is|Karþagómenn '''biðu''' ósigur fyrir Rómverjum.|The Carthaginians '''suffered''' defeat at the hands of the Romans.}}
+# [[wait]]
+## {{lb|is|intransitive}} to [[wait]] {{+obj|is|:eftir(dat)<for whom>}}
+##: {{uxi|is|'''Bíddu''' eftir mér!|'''Wait''' for me!}}
+##: {{uxi|is|'''Bíddu'''!|'''Wait'''!}}
+## {{lb|is|formal|less|_|common}} to [[wait for]], [[await]] {{+obj|is|gen<for whom>}}
+##: {{uxi|is|'''Bíddu''' mín.|'''Wait for''' me.}}
+# {{lb|is|intransitive}} to [[wait]], [[pile up]], be [[on the docket]]
+#: {{ux|is|[[verkefni|Verkefnin]] '''bíða''' [[í]] [[hrönn|hrönnum]].|The tasks '''are piling up'''.}}
+# {{lb|is|transitive}} to [[await]], [[wait for]]; to be on someone's [[to-do list]] {{+obj|is|gen<for what/whom>}}
+#: {{ux|is|[[stjórn|Stjórnarinnar]] '''bíða''' [[margur|mörg]] [[verkefni|verkefnin]].|The government has many tasks to get to.}}
+#: {{ux|is|[[margur|Mörg]] [[verkefni]] '''bíða''' [[úrlausn|úrlausnar]].|Many projects '''await''' a resolution.}}
+# {{+obj|is|acc/gen +:fyrir<qq:optional>(dat)<against whom>}}
+## [[receive]]
+##: {{syn|is|hljóta|fá|öðlast}}
+##: {{coi|is|'''bíða''' [[einhver|e-s]] [[aldrei]] [[bót|bætur]]|never be the same after smth}}
+## to [[abide]], [[undergo]], [[suffer]] (some fate, usually something bad)
+##: {{coi|is|'''bíða''' [[tjón]]|'''receive''' an injury}}
+##: {{ux|is|Karþagómenn '''biðu''' ósigur fyrir Rómverjum.|The Carthaginians '''suffered''' defeat at the hands of the Romans.}}
 
 ====Conjugation====
 {{is-conj-s1|b|ð|e=e|mp=-}}
@@ -50,15 +60,23 @@ From {{inh|is|non|bíða}}, from {{inh|is|gem-pro|*bīdaną}}.
 |bíða hnekki
 |bíða í ofvæni
 |bíða lægri hlut
+|bíða með
 |bíða ósigur
 |bíða tjón
+|bíða við
+|láta bíða
+|sem skammt er að bíða
 }}
 
 ====Related terms====
 * {{l|is|bið}}
+* {{l|is|beiða}}
 
-===References===
-* {{R:Íslensk orðsifjabók 1989}}
+====References====
+* {{R:is:IO}}
+* {{R:is:BÍN}}
+* {{R:is:Íslensk orðabók}}
+* {{R:is:Islex}}
 
 [[Category:Most used Icelandic verbs]]
 
