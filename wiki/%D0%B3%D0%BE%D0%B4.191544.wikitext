@@ -4,7 +4,7 @@
 
 ===Etymology===
 {{root|be|ine-pro|*gʰedʰ-}}
-From {{inh|be|zle-obe|годъ}}, from {{inh|be|orv|годъ}}, from {{inh|be|sla-pro|*godъ}}, from {{inh|be|ine-bsl-pro|*gadás}}, from {{der|be|ine-pro|*gʰedʰ-}}.
+From {{inh|be|zle-ort|годъ}}<ref>{{R:zle-obe:HSBM|годъ|28|7|god}}</ref>, from {{inh|be|orv|годъ}}, from {{inh|be|sla-pro|*godъ}}, from {{inh|be|ine-bsl-pro|*gadás}}, from {{der|be|ine-pro|*gʰedʰ-}}.
 
 ===Pronunciation===
 * {{be-IPA}}
@@ -13,23 +13,47 @@ From {{inh|be|zle-obe|годъ}}, from {{inh|be|orv|годъ}}, from {{inh|be|sl
 ===Noun===
 {{be-noun|год<c.gena:u>}}
 
-# [[year]] (time it takes for the Earth to complete one revolution around the Sun)
+# [[year]] {{gl|a calendar period from January 1 to December 31 that has its own sequence number, counting from the epoch}}
 #: {{syn|be|рок|q1=obsolete}}
+#* {{RQ:be:s|Rodnyje zierniaty (1916)|page=189
+|Najbolšyje pažary byli u 1715, 1737, 1741, 1748 i 1749 '''hadoch'''.
+|The largest fires occurred in the '''years''' 1715, 1737, 1741, 1748, and 1749.}}
+#* {{RQ:be:s|На Заходнім фронце без перамен (1931)|page=165
+|Мінаюць месяцы. Гэта лета 1918 '''году''' — самае крывавае і самае цяжкае.
+|The months pass by. This summer '''of the year''' 1918 is the most bloody and the most difficult.}}
+#* {{RQ:be:s|У капцюрох Г.П.У. (1937)|page=70
+|У 1927—30 '''гадох''' расстрэлы адбываліся звычайна зьмярканьнем на магільніку.
+|In the '''years''' 1927—1930, firing squad executions usually took place in the burial ground at dusk.}}
 
 ====Declension====
-{{be-ndecl-manual|год|гады́
-|го́да, го́ду|гадо́ў
-|го́ду|гада́м
-|год|гады́
-|го́дам|гада́мі
-|го́дзе|гада́х
-|count=гады́}}
+{{be-ndecl|год<c.gen:го́да.gen:го́ду[The -у ending is used in Taraškievica].locpl:гада́х.locpl:гадо́х[The -ох ending is optionally used in Taraškievica].count:гады́>}}
+
+===Noun===
+{{be-noun|год<c.gena>}}
+
+# [[year]] {{gl|a unit of time equal to the time taken for the Earth to undergo a full cycle of seasons}}
+#: {{syn|be|рок|q1=obsolete}}
+#* {{quote-book|be|year=1929|origyear=1835|author=w:Nikolai Gogol|translator=w:Makar Kraŭcoŭ|title=[[s:be:Тарас Бульба (1929)|Тарас Бульба]]|original=s:ru:Тарас Бульба|location=w:Vilnius|publisher=«Віленскае Выдавецтва» Б. Клецкіна
+|newversion=English translation from|translator2=w:Isabel F. Hapgood|title2=[[s:Taras Bulba|Taras Bulba. A Tale of the Cossacks]]|year2=1916
+|page=57|pageurl=https://be.wikisource.org/wiki/Старонка:Тарас_Бульба_(1929).pdf/65
+|text=— Таму, што сам стары пан у месьце: ён ужо '''паўтара года''', як сядзіць ваяводаю ў Дубне.
+|t="Because the old nobleman himself is in the city: he has been Voevod of Dubno for the last '''year and a half'''."}}
+#* {{RQ:be:s|Домбі і сын|page=102
+|Каля '''года''' місіс Піпчын ахоўвала і апекавала маленькага Поля і яго сястру.
+|origtext=en:Mrs. Pipchin had kept watch and ward over little Paul and his sister for nearly '''twelve months'''.}}
+
+====Declension====
+{{be-ndecl|год<c.gena.locpl:гада́х.locpl:гадо́х[The -ох ending is optionally used in Taraškievica].count:гады́>}}
 
 ====Derived terms====
 * (''periods of years''): {{l|be|дзесяціго́ддзе}}, {{l|be|дваццаціго́ддзе}}, {{l|be|трыццаціго́ддзе}}, {{l|be|саракаго́ддзе}}, {{l|be|пяцідзесяціго́ддзе}}, {{l|be|шасцідзесяціго́ддзе}}, {{l|be|сямідзесяціго́ддзе}}, {{l|be|васьмідзесяціго́ддзе}}, {{l|be|дзевяностаго́ддзе}}, {{l|be|стаго́ддзе}}
 
 ===References===
+<references/>
+
+===Further reading===
 * {{R:be:slounik.org}}
+* {{R:be:TSBM}}
 
 {{topics|be|Time}}
 
