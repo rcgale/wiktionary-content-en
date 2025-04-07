@@ -6,7 +6,7 @@
 * {{s|abbreviation}} {{l|en|Cz.}}
 
 ===Etymology===
-From {{bor|en|pl|Czech}}, from {{der|en|cs|Čech}}, ultimately a variation and contraction of {{der|en|sla-pro|*čelověkъ||human}}.
+{{ubor|en|pl|Czech}}, from {{der|en|zlw-opl|Czech}}, from {{der|en|zlw-ocs|Čech}}, ultimately a variation and contraction of {{der|en|sla-pro|*čelověkъ||human}}.
 
 ===Pronunciation===
 * {{enPR|chĕk}}, {{IPA|en|/t͡ʃɛk/}}
@@ -366,43 +366,71 @@ From {{bor|en|pl|Czech}}, from {{der|en|cs|Čech}}, ultimately a variation and c
 
 {{C|en|Czech Republic|Ethnonyms|Languages|Nationalities}}
 
-==Polish==
+==Old Polish==
 
 ===Etymology===
-{{bor+|pl|cs|Čech}}.
+{{bor+|zlw-opl|zlw-ocs|Čech}}. {{etydate|1440}}.
+
+===Pronunciation===
+* {{zlw-opl-IPA}}
+
+===Proper noun===
+{{zlw-opl-prop|m-an!}}
+
+# {{lb|zlw-opl|attested in|Greater Poland}} {{l|en|Czech}} {{gl|person from Czechia}}
+#* {{RQ:zlw-opl:WokLub|19v|c. 1500|Bohemus est aliquis de Bohemia '''Czech'''|Bohemus est aliquis de Bohemia '''Czech'''|-}}
+# {{surname|zlw-opl|g=m}}
+
+====Descendants====
+* {{desctree|pl|Czech|id=Bohemian}}
+* {{desc|szl|Czech}}
+
+===References===
+* {{R:zlw-opl:SSNO||412|1}}
+* {{R:zlw-opl:Rozariusze|+|979}}
+
+{{C|zlw-opl|Czech Republic|People|Nationalities}}
+
+==Polish==
 
 ===Pronunciation===
 {{pl-pr|a=Pl-Czech.ogg}}
 
-===Noun===
+===Etymology 1===
+{{etymon|pl|id=Bohemian}}
+{{inh+|pl|zlw-opl|Czech}}.
+
+====Noun====
 {{pl-noun|m-pr|f=Czeszka}}
 
-# {{l|en|Czech}}
-# [[Bohemian]]
+# {{l|en|Czech}}; [[Bohemian]]
 
-====Declension====
+====Declension=====
 {{pl-decl-noun-masc-pers|Cze|ch|Czesi}}
 
-===Proper noun===
+====Proper noun====
 {{pl-proper noun|m-pr}}
 
 # {{surname|pl|g=m}}
 
-====Declension====
+=====Declension=====
 {{pl-decl-noun-m-pr|nomp=Czechowie}}
 
-===Proper noun===
+====Proper noun====
 {{pl-proper noun|f|indecl=1}}
 
 # {{surname|pl|g=f}}
+
+=====Descendants=====
+* {{desc|en|Czech}}
+
+===Etymology 2===
+{{nonlemma}}
 
 ===Proper noun===
 {{head|pl|proper noun form|g=p}}
 
 # {{inflection of|pl|Czechy||gen}}
-
-====Related terms====
-{{col|pl|Czechy|czeski}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
