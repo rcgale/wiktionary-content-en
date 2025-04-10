@@ -25,31 +25,32 @@
 #: {{ux|en|I only use the library for the '''encyclopedia''', as we’ve got most other books here.}}
 #: {{ux|en|My old '''encyclopedia''' has been gathering dust on the shelf for the past decade.}}
 #* {{quote-book|en
-|by=Jean-Baptiste le Rond d'Alembert
-|title=The '''Encyclopedia''' of Diderot & d'Alembert Collaborative Translation Project
-|original=Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers
+|author=Jean-Baptiste le Rond d'Alembert
+|title=Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers
+|title2=The '''Encyclopedia''' of Diderot & d'Alembert Collaborative Translation Project
 |translators=Richard N. Schwab; Walter E. Rex.
-|publisher=Michigan Publishing, University of Michigan Library
+|publisher2=Michigan Publishing, University of Michigan Library
 |location=Paris
 |location2=[[w:Ann Arbor, Michigan|Ann Arbor]]
 |year=1751
-|format2=online
+|format2=Web
 |url=https://quod.lib.umich.edu/d/did/
 |volume=1
 |chapter=Discours Préliminaire
-|trans-chapter=Preliminary Discourse
+|chapter2=Preliminary Discourse
 |chapterurl=https://quod.lib.umich.edu/cgi/t/text/text-idx?c=did;rgn=main;view=text;idno=did2222.0001.083
 |pages=1–45
 |date2=April 18, 2009
 |text=The '''Encyclopedia''' which we are presenting to the public is, as its title declares, the work of a society of men of letters. Were we not of their number, we might venture to affirm that they are all favorably known or worthy of being so.}}
 #* {{quote-book|en
-|title='''Encyclopedia''' Americana
+<!-- This title is in New Latin (see [[encyclopaedia#Latin]]), not English, so we don't embolden it -->
+|title=Encyclopedia Americana
 |year=1920
 |editor=[[w:George Edwin Rines|George Edwin Rines]]
 |url=https://en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)
 |volume_plain=Volume X: Egusquiza – Falsetto
 |volumeurl=https://en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)/Volume_X:_Egusquiza_-_Falsetto
-|section='''Encyclopædia'''
+|section='''Encyclopædia''' <!-- article name -->
 |sectionurl=https://en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)/Encyclop%C3%A6dia
 |text=The first '''encyclopædia''' written in English and with the articles alphabetically arranged was the [[w:Lexicon Technicum|‘Lexicon Technicum,’]] {{...}} [in 1704], by [[w:John Harris (writer)|John Harris]], a London clergyman. This was a useful and popular work, though it omitted from its scope theology, biography, antiquity and poetry.}}
 #* {{quote-song|en
@@ -74,19 +75,19 @@
 |text=[The Origins] can best be summarized, maybe, as an '''encyclopedia''' in the guise of an etymological dictionary, by a writer already centuries removed from some of his material.}}
 #* {{quote-web|en
 <!-- Do not highlight (''') "Encyclop[a]edia" here because it is Latin, not English -->
-<!-- In English it'd be "British Encyclopedia" instead -->
+<!-- It means "British Encyclopedia" -->
 |title=Encyclop[a]edia Britannica celebrates 250th anniversary
 |last=Zackal|first=Justin
 |date=July 5, 2018
 |site=SRU News
 |publisher=[[w:Slippery Rock University|Slippery Rock University]]
-|location=[[w:Slippery Rock, Pennsylvania|Slippery Rock, PA]]
+|location=[[w:Slippery Rock, Pennsylvania|Slippery Rock]]
 |url=https://www.sru.edu/news/070518a
 |archiveurl=https://web.archive.org/web/20240301233503/https://www.sru.edu/news/070518a
-|quotee=Jason Hilton ([[Assoc. Prof.]] of Education)
+|quotee=Jason Hilton ([[associate professor|Assoc. Prof.]] of Education)
 |text='''Encyclopedias''' were the original worldwide web. {{...}} There was a time when you couldn't connect to the rest of the world and '''encyclopedias''' gave you that insight and they contained what people knew about everything.}}
 #* {{quote-web|en
-|title=The Numinous World of Pliny the Elder
+|title=The [[numinous|Numinous]] World of Pliny the Elder
 |last=Gershon|first=Livia
 |date=March 5, 2025
 |site=JSTOR Daily
@@ -95,9 +96,9 @@
 |text=[[w:Pliny the Elder|Pliny the Elder]]’s [[w:Natural History (Pliny)|Natural History]] is a go-to source for understanding what ancient Romans believed about the world and the model for every '''encyclopedia''' since. }}
 # {{senseid|en|concept}} [[similarly|Similarly]] [[comprehensive]] [[work]]s in other [[format]]s.
 #: {{ux|en|[[w:Wikipedia|Wikipedia]] is an online '''encyclopedia''' that anyone can edit.<sup><small>[citation needed]</small></sup>}}
-#: {{ux|en|The Ancient [[Mesopotamian]]s never got to write an '''encyclopedia''' on stone.}}
+#: {{ux|en|The ancient [[Mesopotamian]]s never got to write an '''encyclopedia''' on stone.}}
 #* {{quote-web|en
-|title=Internet Encyclopedias in Flux
+|title=Internet '''Encyclopedias''' in Flux
 |last=Goldsborough|first=Reid
 |date=April 15, 2009
 |site=InformationToday
@@ -105,7 +106,7 @@
 |archiveurl=https://web.archive.org/web/20240814034214/https://www.infotoday.com/LinkUp/Internet-Encyclopedias-in-Flux-61468.shtml
 |text=To gain market share, Microsoft gave away its CD-ROM '''encyclopedia''' with many new computers, a strategy similar to those it has used in other areas.}}
 #* {{quote-web|en
-<!-- Do not highlight (''') "Encyclopaedia" on these two lines; see line 76's comment for why -->
+<!-- "Encyclopaedia" here is in Latin, not English, so we don't embolden (''') it -->
 |title=Encyclopaedia Britannica to Mark 250th Anniversary and 25th Year on the Internet
 |author=Encyclopaedia Britannica Group
 |date=December 06, 2018
@@ -115,18 +116,17 @@
 |archiveurl=https://web.archive.org/web/20241205153528/https://www.prnewswire.com/news-releases/encyclopaedia-britannica-to-mark-250th-anniversary-and-25th-year-on-the-internet-300761072.html
 |text=The anniversary also coincides with the 25th anniversary of Britannica Online (eb.com), the first '''encyclopedia''' on the Internet and one of the first major publications on the World Wide Web.}}
 #* {{quote-web|en
-|title=Online State Encyclopedias
+|title=Online State '''Encyclopedias'''
 |last=Ferington|first=Esther
 |date=September 2019 <!-- Search for "2019-09" in the page's source code and see it for yourself -->
 |site=NEH Projects
 |publisher=[[w:National Endowment for the Humanities|National Endowment for the Humanities]]
 |url=https://www.neh.gov/project/online-state-encyclopedias
 |archiveurl=https://web.archive.org/web/20250329191303/https://www.neh.gov/project/online-state-encyclopedias
-<!-- Do not highlight (''') "[New Georgia] Encyclopedia"; see line 76's comment for why -->
-|text=The New Georgia Encyclopedia, which describes itself as “the first state '''encyclopedia''' designed exclusively for online publication,” went live in 2004.}}
-# {{senseid|en|summary}} {{lb|en|dated|specifically}} A [[comprehensive]] summary of [[scientific]] and [[artistic]] [[knowledge]], or of a branch thereof.
+|text=The New Georgia '''Encyclopedia''', which describes itself as “the first state '''encyclopedia''' designed exclusively for online publication,” went live in 2004.}}
+# {{senseid|en|summary}} {{lb|en|dated|specifically}} The circle of [[art]]s and [[science]]s (see [[#Etymology|Etymology]]); a [[comprehensive]] summary of [[knowledge]], or of a branch thereof.
 #: {{ux|en|His life's work is a four-volume '''encyclopedia''' of aviation topics.}}
-#: {{ux|en|I have no idea how to build a model railroad, so I'm gonna look it up on Trainpedia, the '''encyclopedia''' for all things [[w:model train|model train]].}}
+#: {{ux|en|I have no idea how to build this model railroad, so I'm gonna look it up on Trainpedia, the '''encyclopedia''' for all things [[w:model train|model train]].}}
 #* {{quote-book|en
 |title=The '''Encyclopedia''' of Heavy Metal
 |mainauthor=Daniel Bukszpan
@@ -142,7 +142,7 @@
 |author=Ronnie James Dio
 |text=Daniel Bukszpan presents for your viewing and reading pleasure, The '''Encyclopedia''' of Heavy Metal. {{...}} I see my own life reflected in the pages of the '''Encyclopedia'''. We all wanted to be bigger than life, but never as big as our heroes.}}
 #* {{quote-book|en
-|title=Concise Encyclopedia of Languages of the World
+|title=Concise '''Encyclopedia''' of Languages of the World
 |editors=Keith Brown; Sarah Ogilvie
 |year2=2010
 |publisher2=[[w:Elsevier Science|Elsevier Science]]
@@ -173,24 +173,6 @@
 |page=viii
 |pageurl=https://google.com/books/edition/The_Encyclopedia_of_Obesity_and_Eating_D/7RXwwXjHiMQC?gbpv=1&dq=encyclopedia&pg=PR8&printsec=frontcover
 |text=Since the publication of the second edition of the '''encyclopedia''', there have been numerous developments in the obesity and eating disorders field.}}
-#* {{quote-book|en
-|title=The '''Encyclopedia''' of Celtic Mythology and Folklore
-|author=Patricia Monaghan
-|date=May 14, 2014
-|publisher=Facts On File, Inc.
-|location=United States
-|isbn=9781438110370
-|format=eBook
-|url=https://google.com/books/edition/The_Encyclopedia_of_Celtic_Mythology_and/nd9R6GQBB_0C}}
-#* {{quote-web|en
-|title=How the Omni Hotel renovated history
-|last=Mack|first=Justin
-|date=February 20, 2025
-|site=Axios Indianapolis
-|publisher=Axios Media
-|url=https://www.axios.com/local/indianapolis/2025/02/20/omni-hotel-renovated-history-green-book-site
-|archiveurl=https://web.archive.org/web/20250410055501/https://www.axios.com/local/indianapolis/2025/02/20/omni-hotel-renovated-history-green-book-site
-|text=From the 1930s through the mid-1960s, the guides [Green Books] served as '''encyclopedias''' of businesses and resources nationwide that welcomed Black travelers.}}
 
 ====Usage notes====
 * The spelling ''encyclopedia'' is standard in American English, common in Canadian English, accepted in Australian and International English, and also very common in British English although [[nonstandard]]. Oxford spelling prefers the etymologized form ''encyclopaedia'', which restores the ''αι'' diphthong in Ancient Greek ''παιδεία''. The variant with the ''æ'' ligature still appears in the titles of some encyclopaedic works, but it is otherwise archaic in ordinary usage.
