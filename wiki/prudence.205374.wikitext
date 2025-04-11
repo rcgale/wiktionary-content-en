@@ -16,7 +16,7 @@ From {{inh|en|enm|prudence|t=discretion; foresight; knowledge; intelligence, wis
 {{en-noun|~}}
 
 # {{lb|en|uncountable}} The [[quality#Noun|quality]] or [[state#Noun|state]] of being [[prudent]]: [[circumspection]] and [[good#Adjective|good]] [[judgment]] in [[know#Verb|knowing]] how best to [[act#Verb|act]]; {{lb|en|countable|archaic}} an [[instance#Noun|instance]] of this.
-#: {{synonyms|en|discretion|farsightedness|foresightedness|judiciousness|providence<q:archaic>|prudentness<q:rare>|prudency}}
+#: {{synonyms|en|cautel<q:obsolete>|discretion|farsightedness|foresightedness|judiciousness|providence<q:archaic>|prudentness<q:rare>|prudency}}
 #: {{antonyms|en|imprudence|rashness|recklessness|unprudence<q:obsolete>}}
 #* {{RQ:Hale Mankind|passage='''Prudence''', which is principally in reference to actions to be done, the due means, order, season, method of doing or not doing}}
 #* {{quote-text|en|year=1777|author=w:Richard Brinsley Sheridan|title=The School for Scandal|section=IV.iii|passage='''Prudence''' like experience must be paid for—}}
@@ -39,8 +39,16 @@ From {{inh|en|enm|prudence|t=discretion; foresight; knowledge; intelligence, wis
 |imprudent
 |imprudently
 |imprudentness
+|jurisprude
+|jurisprudence
+|jurisprudent
+|jurisprudential
+|jurisprudentialist
+|jurisprudentially
+|macroprudential
 |prudency
 |prudent
+|prudential
 |prudentness<qq:rare>
 |unprudent<qq:obsolete>
 |unprudential<qq:obsolete>
@@ -48,34 +56,34 @@ From {{inh|en|enm|prudence|t=discretion; foresight; knowledge; intelligence, wis
 
 ====Translations====
 {{trans-top|quality or state of being prudent}}
-* Arabic: {{t|ar|تَقِيَّة|f}}, {{t+|ar|عَقْل|m}}, {{t|ar|حِكْمَة|f}}, {{t|ar|رَأْي|m}}, {{t+|ar|حِلْم|m}}
+* Arabic: {{t+|ar|عَقْل|m}}, {{t+|ar|حَيْطَة|f}}/{{t+|ar|حِيطَة|f}}, {{t|ar|حِكْمَة|f}}, {{t+|ar|حِلْم|m}}, {{t|ar|رَأْي|m}}, {{t|ar|تَقِيَّة|f}}
 * Aramaic: {{t|arc|מדברנותא|f}}
 * Azerbaijani: {{t+|az|ehtiyat}}
-* Bulgarian: {{t+|bg|благоразумие|n}}, {{t+|bg|предпазливост|f}}, {{t+|bg|разсъдливост|f}}, {{t+|bg|мъ́дрост|f}}
+* Bulgarian: {{t+|bg|благоразу́мие|n}}, {{t+|bg|мъ́дрост|f}}, {{t+|bg|предпазливост|f}}, {{t+|bg|разсъдли́вост|f}}, {{t|bg|разсъди́телност|f}}
 * Catalan: {{t|ca|prudència|f}}
 * Cherokee: {{t|chr|ᎨᏯᏔᎯ}}
 * Chinese:
 *: Mandarin: {{t+|cmn|謹慎}}, {{t+|cmn|審慎}}
-* Czech: {{t+|cs|obezřetnost|alt=obezřetnos}}
+* Czech: {{t+|cs|obezřetnost}}
 * Esperanto: {{t|eo|prudento}}
 * Finnish: {{t+|fi|harkitsevuus}}, {{t+|fi|varovaisuus}}
 * French: {{t+|fr|prudence|f}}, {{t+|fr|sagesse|f}}
-* Galician: {{t|gl|prudencia|f}}
+* Galician: {{t|gl|prudencia|f}}, {{t|gl|cordura|f}}
 * German: {{t+|de|Besonnenheit|f}}, {{t+|de|Klugheit|f}}, {{t+|de|Umsicht|f}}, {{t+|de|Grütze|f}} {{qualifier|informal}}
 * Greek:
-*: Ancient Greek: {{t|grc|σοφῐ́ᾱ|f}}, {{t|grc|πρᾰπίς|f}}
-*: Ancient: {{t|grc|φρόνησις|f}}
+*: Ancient Greek: {{t|grc|σοφῐ́ᾱ|f}}, {{t|grc|πρᾰπίς|f}}, {{t|grc|φρόνησις|f}}
 * Hungarian: {{t|hu|átgondoltság}}, {{t+|hu|gondosság}}, {{t+|hu|körültekintés}}, {{t+|hu|megfontoltság}}, {{t+|hu|óvatosság}}
 * Irish: {{t|ga|críonnacht|f}}
-* Italian: {t+|it|prudenza|f}}, {{t+|it|previdenza|f}}, {{t+|it|precauzione|f}}, {{t+|it|cautela|f}}, {{t+|it|avvedutezza|f}}
-* Japanese: {{t+|ja|思慮|tr=しりょ, shiryo}}, {{t+|ja|慮|tr=りょ, ryo}}, {{t+|ja|分別|tr=ふんべつ, funbetsu}}, {{t|ja|才略|tr=さいりゃく, sairyaku}}, {{t+|ja|魂|tr=たましい, tamashī}}
+* Italian: {{t+|it|prudenza|f}}, {{t+|it|previdenza|f}}, {{t+|it|avvedutezza|f}}, {{t+|it|cautela|f}}, {{t+|it|oculatezza|f}}, {{t+|it|precauzione|f}}
+* Japanese: {{t+|ja|分別|tr=ふんべつ, funbetsu}}, {{t+|ja|慮|tr=りょ, ryo}}, {{t|ja|才略|tr=さいりゃく, sairyaku}}, {{t+|ja|慎重|tr=しんちょう, shinchō}}, {{t+|ja|思慮|tr=しりょ, shiryo}}, {{t+|ja|魂|tr=たましい, tamashī}}
 * Kazakh: {{t|kk|абайлағыштық}}, {{t|kk|мұқияттылық}}
 * Latin: {{t|la|prudentia|f}}
 * Macedonian: {{t|mk|претпа́зливост|f}}, {{t|mk|проми́сленост|f}}
 * Maori: {{t|mi|matawhāititanga}}, {{t|mi|ngārahu}}, {{t|mi|ngārehu}}
 * Occitan: {{t+|oc|prudéncia|f}}
 * Persian: {{t+|fa|کیاست|tr=kiyâsat}}, {{t+|fa|تدبیر|tr=tadbir}}
-* Polish: {{t+|pl|przezorność|f}}, {{t+|pl|roztropność|f}}, {{t+|pl|uwaga|f}} {{qualifier|Middle Polish}}
+* Polish: {{t+|pl|przezorność|f}}, {{t+|pl|roztropność|f}}
+*: Middle Polish: {{t+|pl|uwaga|f}}
 * Portuguese: {{t+|pt|prudência|f}}, {{t+|pt|tento|m}}, {{t+|pt|tino|m}}
 * Romanian: {{t+|ro|prudență|f}}
 * Russian: {{t+|ru|благоразумность|f}}, {{t+|ru|дальновидность|f}}, {{t+|ru|осмотрительность|f}}, {{t+|ru|расчётливость|f}}
