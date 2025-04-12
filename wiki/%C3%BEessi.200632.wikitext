@@ -8,12 +8,12 @@ From {{inh|is|non}} ''*þes-'', ''þessi'' {{qualifier|neuter plural}}, {{m|non|
 * {{rhymes|is|ɛsːɪ|s=2}}
 
 ===Pronoun===
-{{is-adj|@@}}
+{{head|is|pronoun|feminine|þessi|neuter|þetta}}
 
 # {{lb|is|demonstrative}} [[this]], [[that]] {{q|referring to both persons and things}}
 
 ====Declension====
-{{is-adecl|builtin|pos=pronoun}}
+{{is-decl-pron-þessi}}
 
 ====Derived terms====
 * {{l|is|þetta er hebreska fyrir mér}}
@@ -26,7 +26,7 @@ From {{inh|is|non}} ''*þes-'', ''þessi'' {{qualifier|neuter plural}}, {{m|non|
 ==Old Norse==
 
 ===Alternative forms===
-* {{alt|non|sjá}}
+* {{l|non|sjá}}
 
 ===Etymology===
 From the same ultimate origin as {{m|non|sá}} and {{m|non|þat}}. Related to {{cog|ang|se}}. Cognate with {{cog|ang|þes}}, {{cog|goh|dese}}, {{cog|en|this}} and {{cog|de|diese}}.
@@ -34,7 +34,7 @@ From the same ultimate origin as {{m|non|sá}} and {{m|non|þat}}. Related to {{
 ===Pronoun===
 {{head|non|pronoun|cat2=demonstrative pronouns|neuter|þetta}}
 
-# {{alternative form of|non|sjá}}
+# {{alternative form of|non|sjá}}.
 
 ====Declension====
 {{non-decl-pron-sjá}}
