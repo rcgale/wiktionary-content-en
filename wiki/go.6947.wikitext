@@ -1028,7 +1028,7 @@ Cognate with {{cog|sco|gae||to go}}, {{cog|fy|gean||to go}}, {{cog|nl|gaan||to g
 #* {{quote-book|en|year=1839|author=Charles Dickens|title=Nicholas Nickleby|passage=The images of Mrs. Squeers, my daughter, and my son Wackford, all short of vittles, is perpetually before me; every other consideration melts away and vanishes, in front of these; the only number in all arithmetic that I know of, as a husband and a father, is number one, under this here most fatal '''go'''!}}
 #* {{RQ:Haggard She|passage="Supposing now that some of them were to slip into the boat at night and cut the cable, make off with her? That would be a pretty '''go''', that would."}}
 #* {{quote-av|en|date=2018-02-11|author=Colin Dexter; Russell Lewis|actor=w:Roger Allam|role=DCI Fred Thursday|medium=TV series|title=Endeavour(Cartouche)|season=5|number=2|time=01:02:03|text=“It’s a rum '''go''' and no mistake.”}}
-# An [[approval]] or permission to do something, or that which has been approved.
+# {{senseid|en|approval}} An [[approval]] or permission to do something, or that which has been approved.
 #: {{syn|en|green light}}
 #: {{ux|en|We will begin as soon as the boss says it's a '''go'''.}}
 #* {{quote-text|en|year=1894|author=w:Bret Harte|title=s:The Sheriff of Siskyou
@@ -1116,6 +1116,7 @@ Cognate with {{cog|sco|gae||to go}}, {{cog|fy|gean||to go}}, {{cog|nl|gaan||to g
 {{trans-top|approval}}
 * Catalan: {{tt+|ca|aprovació|f}}
 * Czech: {{tt+|cs|souhlas|m}}
+* Dutch: {{t+|nl|go}}, {{t+|nl|groen licht}}
 * Finnish: {{tt+|fi|lupa}}
 * French: {{tt+|fr|approbation|f}}, {{tt+|fr|feu vert|m}}
 * Italian: {{tt+|it|approvazione}}
@@ -1339,18 +1340,29 @@ From {{der|cs|ja|-}} {{ja-r|碁|ご}}.
 
 ==Dutch==
 
-===Etymology===
-{{dercat|nl|zh}}
-From {{der|nl|ja|-}} {{ja-r|碁|ご}}.
-
 ===Pronunciation===
+* {{IPA|nl|/ɡoː/|/ɣoː/<a:board game, occasionally among older players>}}
 * {{audio|nl|Nl-go.ogg}}
 * {{rhymes|nl|oː|s=1}}
 
-===Noun===
+===Etymology 1===
+{{dercat|nl|zh}}
+From {{bor|nl|ja|-}} {{ja-r|碁|ご}}.
+
+====Noun====
 {{nl-noun|n|-|-}}
 
 # {{lb|nl|board games}} {{l|en|go}}
+
+===Etymology 2===
+From {{bor|nl|en|go}}.
+
+====Noun====
+{{nl-noun|m|go's|-}}
+
+# [[#English: approval|go]], an approval or permission to do something
+#: {{syn|nl|groen licht}}
+#: {{ux|nl|Hebben we al een '''go'''?|Do we have a '''go''' already?}}
 
 ==Esperanto==
 
