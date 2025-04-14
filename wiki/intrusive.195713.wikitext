@@ -16,6 +16,8 @@
 #: {{ux|en|Did it ever cross your mind that he might find all those questions you ask '''intrusive'''?}}
 # {{lb|en|geology}} Of rocks: forced, while in a [[plastic]] or molten state, into the cavities or between the cracks or layers of other rocks.
 # {{lb|en|linguistics}} [[epenthetic]]
+# {{lb|en|programming}} Designating a type of [[collection#Noun|collection]] in which each [[item#Noun|item]] keeps track of what collection it is in, rather than the more conventional approach of a collection keeping track of what items it contains. An intrusive collection does not "own" its contents and a single item can be part of multiple intrusive collections.
+#: {{ux|en|an '''intrusive''' [[linked list#Noun|linked list]]}}
 
 ====Synonyms====
 * {{l|en|unwelcome}}
