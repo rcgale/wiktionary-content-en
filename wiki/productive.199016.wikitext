@@ -19,7 +19,7 @@
 |passage=Moreover, this relationship is a '''productive''' one, in the sense that when new Adjectives are created (e.g. ''ginormous'' concocted out of ''gigantic'' and ''enormous''), then the corresponding Adverb form (in this case ''ginormously'') can also be used. And in those exceptional cases where Adverbs do not end in ''-ly'', they generally have the same form as the corresponding Adjective, as with ''hard'', ''fast'', etc.}}
 # {{lb|en|medicine}} Of a [[cough]], producing [[mucus]] or [[sputum]] from the [[respiratory]] [[tract]].
 # {{lb|en|medicine}} Of [[inflammation]], producing new [[tissue]].
-# {{lb|en|set theory}} A type of [[set]] of [[natural number]]s, related to [[mathematical logic]]. <!--see CREATIVE AND PRODUCTIVE SETS article on Wikipedia-->
+# {{lb|en|set theory}} A type of [[set]] of [[natural number]]s, related to [[mathematical logic]]; a set <math>S</math> is ''productive'' if there exists a total recursive function <math>f</math> such that <math>\forall x\in\mathbb{N}, ~~ W_x\subseteq S \Rightarrow f(x)\in A\setminus W_x</math>, where <math>W_x</math> is a recursive function whose Gödel number is <math>x</math>. <!--see CREATIVE AND PRODUCTIVE SETS article on Wikipedia-->
 #: {{ux|en|a '''productive''' set}}
 
 ====Usage notes====
