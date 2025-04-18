@@ -1,7 +1,7 @@
 ==Esperanto==
 
 ===Etymology===
-From {{der|eo|fr|consentir}}, {{der|eo|it|consentire}}, ultimately from {{der|eo|la|cōnsentiō|cōnsentīre|t=to agree, accord, harmonize; to assent to}}.
+{{der+|eo|fr|consentir}}, {{der+|eo|it|consentire|nocap=1}}, ultimately {{der+|eo|la|cōnsentiō|cōnsentīre|t=to agree, accord, harmonize; to assent to|nocap=1}}. Compare {{cog|en|consent}}, {{cog|de|konsentieren}}, {{cog|es|consentir}}, {{cog|ca|consentir}}, {{cog|pt|consentir}}.
 
 ===Pronunciation===
 {{eo-IPA|a=LL-Q143 (epo)-Lepticed7-konsenti.wav}}
@@ -9,13 +9,31 @@ From {{der|eo|fr|consentir}}, {{der|eo|it|consentire}}, ultimately from {{der|eo
 ===Verb===
 {{eo-head}}
 
-# {{lb|eo|intransitive}} to [[agree]], [[consent]]
+# {{senseid|eo|admit that, consent}} {{lb|eo|ambitransitive}} to [[admit]] {{gl|that}}, to [[agree]] {{gl|with}}, to [[approve]] {{gl|of}}, to [[concur]] {{gl|with}}, to [[consent]], to [[be]] [[in]] [[accord]] {{gl|with}}, to [[be]] [[in]] [[harmony]] {{gl|with}}, to [[share]] [[common]] [[opinion]] {{gl|with}}
+#: {{syn|eo|aprobi}}
+#: {{hyper|eo|samopinii|pensi}}
+#* {{quote-book|1=eo|title=La Batalo de la Vivo|passage={{...}}ili ĉiuj '''konsentis''', ke{{nb...}}.|year=1891|trans-title=The Battle of Life|chapter=Parto dua.|trans-chapter=Chapter 2|translation={{...}}they all '''agreed''' that{{nb...}}.|year_published=1891|url=https://tekstaro.com/pl/prenitutantekston.pl?nomo=la-batalo-de-l-vivo|translator=Zamenhofa, Ludoviko Lazaro|last1=Dickens|first1=Charles}}
+# {{senseid|eo|accede to, permit}} {{lb|eo|ambitransitive}} to [[accede]] {{gl|to}}, to [[acquiesce]] {{gl|in}}, to [[comply]] {{ng|fall in}} {{gl|with}}, to [[permit]]
+#: {{syn|eo|cedi}}
+#: {{hyper|eo|[[mal-|mal]][[rifuzi]]}}
+#* {{quote-book|1=eo|title=Proverbaro esperanta|passage=K: Kiu pri ŝtelo silentas, tiu ŝtelon '''konsentas'''.{{...}}V: Vane vi tentas, mi ne '''konsentos'''.|year=1910|isbn=978-4-640-07609-0|editor=Rogister, Camille|trans-title=Esperanto Proverbs|translation=One who remains silent about theft, '''consents''' to theft.{{...}}You tempt in vain, I will not '''consent'''.|year_published=1974|publisher=Stafeto|location=La Laguna|url=https://www.steloj.de/esperanto/proverb/|oclc=969622666|last1=Zamenhofa|first1=Ludoviko Lazaro}}
+# {{senseid|eo|agree to}} {{lb|eo|transitive}} to [[agree]] {{gl|to}}, to [[consent]] {{gl|to}}
+#: {{syn|eo|cedi|jesi}}
+#: {{hyper|eo|akcepti}}
+#* {{quote-book|1=eo|title=Kastelo de Prelongo|passage=La markizo{{...|tiel facile}}'''konsentis''' la peton de sia filino{{nb...|nur ĉar, fonde de lia koro, lin tre kontentigis tiu intermeto}}.|page=172|year=1907|isbn=978-91-7303-169-1|trans-title=Castle of Prelongo|chapter=Ĉapitro Kvara|chapterurl=https://tekstaro.com/t?nomo=kastelo-de-prelongo&uzistreketojn=0&tipo=&sekcio=prelongo4&antauasekcio=1&postasekcio=1|trans-chapter=Chapter Fourth|line=8{{ndash}}10|translation=The marquis{{...|so easily}}'''agreed''' to his daughter's request{{nb...|only because, deep down in his heart, he was very satisfied with this intervention}}.|year_published=2002|publisher=Inko|location=Tyresö|url=https://tekstaro.com/s?nomo=kastelo-de-prelongo&tipo=&uzistreketojn=0|oclc=186442833|ol=25310423M|id=[https://www.goodreads.com/book/show/13641109 Goodreads], [https://libstc.cc/#/stc/nid:978bcy7aox7y7lzmnxku3611u Nexus/STC]|last1=Vallienne|first1=Henri}}
+#* {{quote-book|1=eo|title=Marta|passage={{mdash}} Mi '''konsentus''' tian pagon, {{mdash}} ŝi diris, {{mdash}} se oni akceptus min kune kun mia malgranda filineto.|year=1910|trans-title=Martha|chapter=II|trans-chapter=2|translation={{mdash}} I would '''accept''' this payment {{mdash}} she said {{mdash}} if I were taken in with my little daughter.|year_published=1924|publisher=Esperantista Centra Librejo|location=Parizo|edition=2.|url=https://www.steloj.de/esperanto/marta/|translator=Zamenhofa, Ludoviko Lazaro|last1=Orzeszkowa|first1=Eliza}}
+
+====Usage notes====
+For {{senseno|eo|admit that, consent}}: {{m|eo|akordi}} is a [[parasynonym]], as it expresses a natural, habitual commonality ([[accord]]) of opinions; while {{m|eo|konsenti}} in {{senseno|eo|admit that, consent}} means such commonality on a special point, obtained only after hesitation and/or discussion.
 
 ====Conjugation====
-{{eo-conj|intr=yes}}
+{{eo-conj}}
 
 ====Related terms====
 * {{l|eo|antaŭkonsenti||to agree on in advance; to prearrange}}
+
+===References===
+* {{R:eo:ReVo}}
 
 {{eo BRO|4}}
 
