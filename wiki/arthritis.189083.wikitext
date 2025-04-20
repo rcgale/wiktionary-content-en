@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{uder|en|la|-}}, from {{uder|en|grc|ἀρθρῖτις||joint-disease, gout}}, from {{m|grc|ἄρθρον||a joint}}. {{surf|en|arthr-|-itis}}.
+From {{uder|en|la|arthrītis}}, from {{uder|en|grc|ἀρθρῖτις||joint-disease, gout}}, from {{m|grc|ἄρθρον||a joint}}. {{surf|en|arthr-|-itis}}.
 
 ===Pronunciation===
 * {{IPA|en|/ɑːˈθɹ(a)ɪtɪs/|a=RP}}
@@ -41,9 +41,9 @@ From {{uder|en|la|-}}, from {{uder|en|grc|ἀρθρῖτις||joint-disease, gou
 * Bulgarian: {{t|bg|артри́т|m}}
 * Catalan: {{t+|ca|artritis|f}}
 * Chinese:
-*: Cantonese: {{t|yue|關節炎|tr=gwaan1 zit3 jim4}}
+*: Cantonese: {{t|yue|關節炎}}
 *: Hakka: {{t|hak|關節炎|tr=kôan-chiet-yàm}}
-*: Mandarin: {{t+|cmn|關節炎|tr=guānjiéyán}}
+*: Mandarin: {{t+|cmn|關節炎}}
 * Czech: {{t+|cs|artritida|f}}
 * Danish: {{t|da|gigt|c}}, {{t|da|ledbetændelse|c}}
 * Dhivehi: {{t|dv|ހުޅުތައް ދުޅަވުން}}
@@ -61,13 +61,14 @@ From {{uder|en|la|-}}, from {{uder|en|grc|ἀρθρῖτις||joint-disease, gou
 * Hindi: {{t+|hi|गठिया}}, {{t|hi|संधि शोथ|m}}
 * Hungarian: {{t+|hu|ízületi gyulladás}}, {{t+|hu|artritisz}}, {{t+|hu|arthritis}}
 * Icelandic: {{t+|is|gigt|f}}, {{t|is|liðbólga|f}}
+* Interlingua: {{t|ia|arthritis}}
 * Irish: {{t|ga|airtríteas|m}}
 * Italian: {{t+|it|artrite}}
 * Japanese: {{t+|ja|関節炎|tr=かんせつえん, kansetsuen}}
 * Kazakh: {{t|kk|шорбуын}}
 * Khiamniungan Naga: {{t|kix|ūtsēikīoh}}
 * Korean: {{t+|ko|관절염(關節炎)}}
-* Latin: {{t|la|podagra|f}} {{qualifier|in the foot}}, {{t|la|cheragra|f}} {{qualifier|in the hand}}
+* Latin: {{t|la|podagra|f}} {{qualifier|in the foot}}, {{t|la|cheragra|f}} {{qualifier|in the hand}}; {{t|la|arthritis|f}}
 * Latvian: {{t-needed|lv}}
 * Luhya: {{t|luy|bubimbe}}
 * Macedonian: {{t|mk|воспаление на зглобовите|n}}, {{t|mk|артритис|n}}
@@ -78,7 +79,7 @@ From {{uder|en|la|-}}, from {{uder|en|grc|ἀρθρῖτις||joint-disease, gou
 * Nepali: {{t|ne|बाथ}}
 * Norwegian: {{t|no|artritt|m}}, {{t|no|leddgikt|c}}, {{t|no|leddbetennelse}}
 * Plautdietsch: {{t|pdt|Rietinj|f}}
-* Polish: {{t+|pl|artretyzm|m}}, {{t|pl|zapalenie stawów|n}}
+* Polish: {{t+|pl|artretyzm|m-in}}, {{t|pl|zapalenie stawów|n}}
 * Portuguese: {{t+|pt|artrite|f}}
 * Punjabi: {{t|pa|ਗਠੀਆ}}
 * Romanian: {{t+|ro|artrită|f}}, {{t+|ro|artroză|f}}
@@ -92,7 +93,7 @@ From {{uder|en|la|-}}, from {{uder|en|grc|ἀρθρῖτις||joint-disease, gou
 * Thai: {{t|th|ข้ออักเสบ}}
 * Turkish: {{t+|tr|artrit}}, {{t|tr|eklem iltihabı}}
 * Ukrainian: {{t+|uk|артри́т|m}}
-* Vietnamese: {{t|vi|viêm khớp}} ({{t|vi|炎級|sc=Hani}})
+* Vietnamese: {{t|vi|viêm khớp}} ({{t|vi|炎級}})
 * Welsh: {{t|cy|gwynegon}}
 {{trans-bottom}}
 
@@ -114,7 +115,32 @@ From {{uder|en|la|-}}, from {{uder|en|grc|ἀρθρῖτις||joint-disease, gou
 ===Noun===
 {{ia-noun|-}}
 
-# {{l|en|arthritis}}
+# {{l|en|arthritis}} {{gl|inflammation of a joint}}
 
 ====Related terms====
 * {{l|ia|arthritic}}
+
+{{C|ia|Diseases|Rheumatology}}
+
+==Latin==
+
+===Etymology===
+{{bor+|la|grc|ἀρθρῖτῐς}}.
+
+===Pronunciation===
+* {{la-IPA|arthrītis}}
+* {{hyph|la|ar|thrī|tis}}
+
+===Noun===
+{{la-noun|arthrītis/arthrītid<3.F>}}
+
+# {{l|en|arthritis}} {{gl|inflammation of a joint}}
+
+====Declension====
+{{la-ndecl|arthrītis/arthrītid<3.F>}}
+
+===Further reading===
+* {{R:L&S}}
+* {{R:Gaffiot}}
+
+{{C|la|Diseases|Rheumatology}}
