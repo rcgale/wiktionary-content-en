@@ -12,9 +12,9 @@ From {{bor|en|fr|Meuse}}.
 ===Proper noun===
 {{en-proper noun}}
 
-# {{place|en|river|cont/Europe}} that flows about 901 km (560 mi) from [[France]] through [[Belgium]] and the [[Netherlands]] to the [[North Sea]].
+# {{sid|en|Q41986}}{{place|en|river|passing through the|dept:pref/Haute-Marne,Vosges,Meuse,Ardennes|*in|c/France|the|p:pref:also/Namur,Liège,Limburg|*in|c/Belgium|and the|p:pref:also/Limburg,North Brabant,Gelderland,South Holland|in the|c/Netherlands|def=A <<major river>> that flows about 901 km (560 mi) from <<c/France>> through <<c/Belgium>> and the <<c/Netherlands>> to the [[North Sea]]|tcl_t=+|tcl_t2=Maas}}.
 #: {{syn|en|Maas}}
-# {{place|en|department|in||r/Grand Est|c/France|capital=Bar-le-Duc}} ([[INSEE]] code 55).
+# {{sid|en|Q12631}}{{place|en|department|r/Grand Est|c/France|capital=Bar-le-Duc|tcl_noextratext=1}} ([[INSEE]] code 55).
 
 ====Translations====
 {{trans-top|river}}
@@ -58,8 +58,6 @@ From {{bor|en|fr|Meuse}}.
 ===Anagrams===
 * {{anagrams|en|a=eemsu|emeus|sue me}}
 
-{{C|en|Rivers in Belgium|Rivers in France|Rivers in the Netherlands}}
-
 ==French==
 
 ===Etymology===
@@ -75,8 +73,8 @@ From {{der|fr|la|Mosa}}, from a {{uder|fr|cel|-}} source.
 ===Proper noun===
 {{fr-proper noun|f}}
 
-# {{place|fr|<<major river>> in northeastern <<c/France>>, <<c/Belgium>> and the <<c/Netherlands>>|t=Meuse|t2=Maas}}
-# {{place|fr|department|r/Grand Est|c/France|t=Meuse}}
+# {{tcl|fr|Meuse|id=Q41986}}
+# {{tcl|fr|Meuse|id=Q12631}}
 #: {{mero|fr|Bar-le-Duc}}
 
 ====Derived terms====
