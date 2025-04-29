@@ -3,13 +3,13 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{der|en|fr|Ain}}.
+{{bor+|en|fr|Ain}}.
 
 ===Proper noun===
 {{en-proper noun}}
 
-# {{place|en|department|r/Auvergne-Rhône-Alpes|c/France|capital=Bourg-en-Bresse}} ([[INSEE]] code 01).
-# {{place|en|river|in eastern|c/France|which flows from the [[Jura]] Mountains into the [[Rhône]] River}}.
+# {{sid|en|Q3083}}{{place|en|department|r/Auvergne-Rhône-Alpes|c/France|capital=Bourg-en-Bresse|tcl_noextratext=1}} ([[INSEE]] code 01).
+# {{sid|en|Q405836}}{{place|en|river|in the|dept/Jura,Ain|in eastern|c/France|flowing from the [[Jura]] Mountains into the [[Rhône]] River}}.
 
 ====Translations====
 {{trans-top|department}}
@@ -47,8 +47,7 @@ Named after the [[w:Ain (river)|River Ain]], from {{der|fr|ML.|Hinnis}}, from ea
 ===Proper noun===
 {{fr-proper noun|m}}
 
-# {{place|fr|department|r/Auvergne-Rhône-Alpes|c/France|t=Ain}}
-# {{place|fr|river|in eastern|c/France|t=Ain}}
+# {{tcl|fr|Ain|id=Q3083,Q405836}}
 
 ====Derived terms====
 * {{l|fr|ainois}}
@@ -60,12 +59,13 @@ Named after the [[w:Ain (river)|River Ain]], from {{der|fr|ML.|Hinnis}}, from ea
 ==Portuguese==
 
 ===Etymology===
-Borrowed from {{bor|pt|fr|Ain}}.
+{{bor+|pt|fr|Ain}}.
 
 ===Pronunciation===
 {{pt-IPA}}
 
 ===Proper noun===
-{{pt-proper noun|m}}
+{{pt-proper noun|m}}{{attn|pt|check gender of river}}
 
+# {{tcl|pt|Ain|id=Q3083,Q405836}}
 # {{place|pt|department|c/France|t1=Ain}}
