@@ -1,6 +1,6 @@
 {{also|Vanuatú}}
 ==English==
-{{wikipedia}}
+{{wp}}
 
 ===Etymology===
 {{bor+|en|bi|Vanuatu}}.
@@ -40,13 +40,13 @@
 * Bulgarian: {{t|bg|Вануа́ту|n}}
 * Burmese: {{t|my|ဗနွားတူ}}
 * Chinese:
-*: Mandarin: {{t+|cmn|瓦努阿圖|tr=Wǎnǔ'ātú}}
+*: Mandarin: {{t+|cmn|瓦努阿圖}}
 * Czech: {{t+|cs|Vanuatu|n}}
 * Danish: {{t+|da|Vanuatu|n}}
 * Dutch: {{t+|nl|Vanuatu|n}}
 * Esperanto: {{t+|eo|Vanuatuo}}
 * Estonian: {{t+|et|Vanuatu}}
-* Faroese: {{t|fo|Vanuatu}}
+* Faroese: {{t|fo|Vanuatu|n}}
 * Finnish: {{t+|fi|Vanuatu}}
 * French: {{t+|fr|Vanuatu|m}}
 * Georgian: {{t|ka|ვანუატუ}}
@@ -55,6 +55,7 @@
 * Hawaiian: {{t|haw|ʻĀinawohi}}
 * Hebrew: {{t|he|וָנוּאָטוּ|f|tr=vanuatu}}
 * Hindi: {{t+|hi|वानूआतू|m}}
+* Hungarian: {{t+|hu|Vanuatu}} {{q|short name}}, {{t|hu|Vanuatui Köztársaság}} {{q|official name}}
 * Indonesian: {{t+|id|Vanuatu}}
 * Interlingua: {{t|ia|Vanuatu}}
 * Irish: {{t|ga|Vanuatú|m}}, {{t|ga|Poblacht Vanuatú|f}}
@@ -105,7 +106,7 @@
 * Turkish: {{t+|tr|Vanuatu}}
 * Turkmen: {{t|tk|Wanuatu}}
 * Ukrainian: {{t|uk|Вануа́ту|n}}
-* Urdu: {{t|ur|وانواتو|m|tr=vānūātū}}
+* Urdu: {{t|ur|وَانُوَاتُو|m}}
 * Uyghur: {{t|ug|ۋانۇئاتۇ}}
 * Uzbek: {{t+|uz|Vanuatu}}
 * Vietnamese: {{t|vi|Va-nu-a-tu}}, {{t|vi|Tân Đảo}}
@@ -132,7 +133,11 @@
 ==Bislama==
 
 ===Etymology===
-From {{m|und||vanua|land}} (from {{der|bi|map-pro|*banua}}) + {{m|und||tu|stand}}, likely from Raga.
+From {{m|und||vanua|land}} (from {{der|bi|map-pro|*banua}}) + {{m|und||tu|stand}}, likely {{bor+|bi|lml|nocap=1}}. {{etystub|bi|Replace the "und" language code with the correct one.}}
+
+===Pronunciation===
+{{rfp|bi}}
+{{rfap|bi}}
 
 ===Proper noun===
 {{head|bi|proper noun}}
@@ -161,11 +166,15 @@ From {{m|und||vanua|land}} (from {{der|bi|map-pro|*banua}}) + {{m|und||tu|stand}
 * {{R:cs:IJP}}
 
 ==Dutch==
-{{wikipedia|lang=nl}}
+{{wp|lang=nl}}
+
+===Etymology===
+{{bor+|nl|bi|Vanuatu}}.
 
 ===Pronunciation===
-* {{IPA|nl|/ˌvan.ua.ˈtu/}}
+* {{IPA|nl|/ˌvɑn.uɑˈtu/}}
 * {{audio|nl|Nl-Vanuatu.ogg}}
+* {{rhymes|nl|u|s=3}}
 * {{hyph|nl|Van|ua|tu}}
 
 ===Proper noun===
@@ -176,10 +185,12 @@ From {{m|und||vanua|land}} (from {{der|bi|map-pro|*banua}}) + {{m|und||tu|stand}
 ==Faroese==
 
 ===Etymology===
-From {{bor|fo|bi|Vanuatu}}, from {{der|fo|map}} {{m|und|vanua|land}} (from {{der|fo|map-pro|*banua}}) + {{m|und||tu|stand}}.
+{{bor+|fo|bi|Vanuatu}}.
 
 ===Pronunciation===
 * {{IPA|fo|/van.uˈɑː.tu/}}
+* {{rhymes|fo|ɑːtu|s=4}}
+* {{hyph|fo|Van|u|a|tu}}
 
 ===Proper noun===
 {{head|fo|proper noun|g=n}}
@@ -259,15 +270,18 @@ From {{der|fi|bi|Vanuatu}}.
 ==Hungarian==
 {{swp|lang=hu}}
 
+===Etymology===
+{{bor+|hu|bi|Vanuatu}}.
+
 ===Pronunciation===
 * {{hu-IPA}}
-* {{hyphenation|hu|Va|nu|a|tu}}
 * {{rhymes|hu|tu|s=4}}
+* {{hyph|hu|Va|nu|a|tu}}
 
 ===Proper noun===
 {{head|hu|proper noun}}
 
-# {{tcl|hu|Vanuatu|id=Q686|place_official=hu:Vanuatui Köztársaság}}
+# {{tcl|hu|Vanuatu|id=Q686|place_official=Vanuatui Köztársaság}}
 
 ====Declension====
 {{hu-infl-nom|Vanuatu|o|n=sg}}{{hu-pos-tok|Vanuatu|n=sg}}
@@ -374,13 +388,16 @@ From {{der|fi|bi|Vanuatu}}.
 {{C|sk|Countries in Oceania}}
 
 ==Spanish==
-{{wikipedia|lang=es}}
+{{wp|lang=es}}
+
+===Etymology===
+{{bor+|es|bi|Vanuatu}}.
 
 ===Pronunciation===
 {{es-pr|+<audio:LL-Q1321 (spa)-Rodelar-Vanuatu.wav>}}
 
 ===Proper noun===
-{{es-proper noun}}
+{{es-proper noun|m}}
 
 # {{tcl|es|Vanuatu|id=Q686}}
 
