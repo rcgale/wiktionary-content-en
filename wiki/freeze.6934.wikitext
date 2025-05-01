@@ -14,9 +14,12 @@ From {{inh|en|enm|fresen}}, from {{inh|en|ang|frēosan||to freeze}}, from {{inh|
 Cognate with {{cog|sco|frese||to freeze}}, {{cog|stq|frjoze|t=to freeze}}, {{cog|fy|frieze||to freeze}}, {{cog|nl|vriezen||to freeze}}, {{cog|nds|freren}}, {{m|nds|freern}}, {{m|nds|fresen||to freeze}}, {{cog|de|frieren||to freeze}}, {{cog|da|fryse||to freeze}}, {{cog|no|fryse}}, {{cog|sv|frysa||to freeze}}, {{cog|la|pruīna||hoarfrost}}, {{cog|cy|-}} (Northern) {{m|cy|rhew||frost, ice}}, and {{cog|sa|प्रुष्व||tr=pruṣvá|water drop, frost}}.
 
 ====Verb====
-{{en-verb|freezes|freezing|froze|frozen|past_ptc2=froze|past_ptc2_qual=now colloquial}}
+{{en-verb|freeze<,,froze:frore[archaic],frozen:froze[now colloquial]:frore#Etymology 2[archaic]>}}
 
 # {{lb|en|intransitive|copulative}} Especially of a [[liquid]], to become [[solid]] due to low [[temperature]].
+#: {{syn|en|solidify}}
+#: {{ant|en|defrost|liquify|unfreeze}}
+#: {{hypo|en|deep-freeze}}
 #: {{ux|en|The lake '''froze''' solid.}}
 #* '''1855''', [[w:Henry Wadsworth Longfellow|Henry Wadsworth Longfellow]], ''[[s:The Song of Hiawatha/Book 20|The Song of Hiawatha]]'', Book XX: ''The Famine'',
 #*: Ever thicker, thicker, thicker / '''Froze''' the ice on lake and river,
@@ -34,7 +37,7 @@ Cognate with {{cog|sco|frese||to freeze}}, {{cog|stq|frjoze|t=to freeze}}, {{cog
 #: {{ux|en|It's '''freezing''' in here!}}
 #: {{ux|en|Don't go outside wearing just a t-shirt; you'll '''freeze'''!}}
 # {{lb|en|intransitive}} (of machines and software) To come to a sudden [[halt]], stop working ([[function]]ing).
-#: {{syn|en|freeze up}}
+#: {{syn|en|freeze up|grind to a halt|hang|lock up|seize|seize up}}
 #: {{ux|en|Since the last update, the program '''freezes''' after a few minutes of use.}}
 # {{lb|en|intransitive}} (of people and other animals) To [[stop]] (become [[motionless]]) or be stopped due to [[attentiveness]], [[fear]], [[surprise]], etc.
 #: {{syn|en|freeze up}}
@@ -42,6 +45,7 @@ Cognate with {{cog|sco|frese||to freeze}}, {{cog|stq|frjoze|t=to freeze}}, {{cog
 #* {{quote-text|en|year=1916|author=w:Edgar Rice Burroughs|title=[[s:Tarzan and the Jewels of Opar/Chapter III|Tarzan and the Jewels of Opar]]|chapter=III|passage=As Tarzan rose upon the body of his kill to scream forth his hideous victory cry into the face of the moon the wind carried to his nostrils something which '''froze''' him to statuesque immobility and silence.}}
 #* {{quote-text|en|year=1935|author=w:Robert E. Howard|title=[[s:Jewels of Gwahlur/Chapter IV|Jewels of Gwahlur]]|chapter=IV|passage=They '''froze''' on their knees, their faces turned upward with a ghastly blue hue in the sudden glare of a weird light that burst blindingly up near the lofty roof and then burned with a throbbing glow.}}
 # {{lb|en|transitive}} To cause someone to become motionless.
+#: {{syn|en|halt|immobilize|See also [[Thesaurus:immobilize]]}}
 #* {{quote-book|en|author=w:Agatha Christie|title=Murder on the Orient Express|location=London|publisher=HarperCollins|year=1934|year_published= 2017|chapter=4|page=102|passage=Dr Constantine sniggered and Mrs Hubbard immediately '''froze''' him with a glance.}}
 # {{lb|en|figuratively}} To lose or cause to lose warmth of feeling; to [[shut out]]; to ostracize.
 #: {{ux|en|Over time, he '''froze''' towards her, and ceased to react to her friendly advances.}}
@@ -60,17 +64,6 @@ Cognate with {{cog|sco|frese||to freeze}}, {{cog|stq|frjoze|t=to freeze}}, {{cog
 #: {{ux|en|Pressing the pause button will '''freeze''' the video playback.}}
 #: {{ux|en|Playback will '''freeze''' if you pause the video.}}
 # {{lb|en|transitive|ice hockey}} To trap (the [[puck]]) so that it cannot be played.
-
-=====Synonyms=====
-* {{sense|become solid}} {{l|en|solidify}}
-* {{sense|stop functioning}} {{l|en|freeze up}}, {{l|en|grind to a halt}}, {{l|en|hang}}, {{l|en|lock up}}, {{l|en|seize}}, {{l|en|seize up}}
-* {{sense|cause someone to become motionless}} {{l|en|halt}}, {{l|en|immobilize}}; See also [[Thesaurus:immobilize]]
-
-=====Antonyms=====
-* {{antsense|become solid}} {{l|en|defrost}}, {{l|en|liquify}}, {{l|en|unfreeze}}
-
-=====Hyponyms=====
-* {{sense|become solid}} {{l|en|deep-freeze}}
 
 =====Derived terms=====
 {{col|en|adfreeze
@@ -130,7 +123,10 @@ Cognate with {{cog|sco|frese||to freeze}}, {{cog|stq|frjoze|t=to freeze}}, {{cog
 }}
 
 =====Related terms=====
-* {{l|en|frost}}
+{{col|en
+|frore
+|frost
+}}
 
 =====Descendants=====
 * {{desc|mt|ffriża|bor=1}}
