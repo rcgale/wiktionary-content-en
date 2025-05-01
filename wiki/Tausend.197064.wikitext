@@ -2,57 +2,58 @@
 ==German==
 
 ===Etymology===
-See {{m|de|tausend}}. Euphemism perhaps from {{m|de|Tausendkünstler}}.
+Nominalization of {{m|de|tausend}}. The interjection is short either for {{m|de||potz tausend Teufel}} (16th century) or for {{der|de|gmh|tûsentlisteler}}, later {{m|de|Tausendkünstler|t=the devil as a master of a thousand ruses, arts}}
 
 ===Pronunciation===
-* {{IPA|de|/ˈtaʊ̯zn̩t/}}
+* {{IPA|de|/ˈtaʊ̯zənt/|[ˈtaʊ̯.zn̩t]}}
 * {{audio|de|De-Tausend.ogg}}
 * {{hyph|de|Tau|send}}
 
 ===Noun===
-{{de-noun|n,s,-}}
+{{de-noun|n,s,-[see usage notes]:e:en}}
 
-# [[thousand]] {{gloss|unity of one thousand things}}
+# [[thousand]] {{gloss|set or unit of one thousand items}}
 #: {{uxi|de|ein halbes '''Tausend'''|half a '''thousand'''}}
+#: {{ux|de|Nach dem ersten '''Tausend''' habe ich noch zwei weitere '''Tausend''' bestellt.|After the first '''thousand''' I ordered two more '''thousands'''.}} 
+# {{lb|de|in the plural}} [[thousands]], [[a lot]] {{gloss|unspecified large quantity}}
+#: {{ux|de|Es kamen '''Tausende''' Zuschauer / von Zuschauern.|t=There were '''thousands''' of spectators.}}
+#: {{ux|de|Es kamen viele '''Tausend(e)''' Zuschauer / von Zauschauern.|t=There were many '''thousands''' spectators.}}
+#: {{ux|de|Die '''Tausende(n)''' (von) Zuschauer(n) waren begeistert.|t=The '''thousands''' of spectators were ethusiastic.}}
+
+====Usage notes====
+* In sense 1, the plural is always unchanged. In sense 2, it can be unchanged optionally after an indefinite numeral such as {{m|de|[[viel]]e}} or {{m|de|[[etlich]]e}}. Otherwise the standard plural for sense 2 is {{m|de||Tausende}}. However, it is also fairly common to use adjectival declension in the plural, meaning that the form becomes {{m|de||Tausenden}} after articles and determiners, otherwise {{m|de||Tausende}}.
+* A following noun may be added as an [[apposition]] or with {{m|de|von|t=of}}.
 
 ====Declension====
-{{de-ndecl|n,s,-}}
+{{de-ndecl|n,s,-:e:en}}
 
 ====Alternative forms====
 * {{alter|de|Tsd.||abbreviation}}
+* {{alter|de|tausend|tausende||indefinite sense only}}
 
 ====Derived terms====
-* {{l|de|v. T.}}
+* {{l|de|von Tausend}} ({{l|de|v. T.}})
 
 ===Noun===
-{{de-noun|n,s,e}}
-
-# [[thousands]]; [[a lot]] {{gloss|unspecified large quantity}}
-#: {{uxi|de|viele '''Tausend''' Mal / '''Tausende''' Male|'''thousands''' of times}}
-
-====Declension====
-{{de-ndecl|n,s,e}}
-
-====Alternative forms====
-* {{alter|de|tausend|tausende}}
-
-===Noun===
-{{de-noun|f,en}}
+{{de-noun|f}}
 
 # {{lb|de|cardinal}} [[thousand]] {{gloss|the number}}
+#: {{ux|de|(Die) '''Tausend''' ist die kleine vierstellige Zahl.|'''Thousand''' is the smallest four-digit number.}}
+#: {{ux|de|Was bedeutet die '''Tausend''', die du hier aufgeschrieben hast?|What does this '''thousand''' mean that you wrote down here?}}
 
 ====Declension====
-{{de-ndecl|f,en}}
+{{de-ndecl|f}}
 
 ====Coordinate terms====
 {{de-cardinals}}
 
-===Noun===
-{{head|de|noun|g=m}}
+===Interjection===
+{{head|de|interjection|head=Tausend!}}
 
-# {{lb|de|colloquial|dated}} {{euphemistic form of|de|Teufel|t=devil}}
+# {{lb|de|minced oath|colloquial|dated}} {{euphemistic form of|de|[[Teufel]]!|t=devil!}}
 
 ====Related terms====
+* {{l|de|potztausend}}
 * {{l|de|Tausendkünstler}}
 * {{l|de|Tausendsassa}}
 
