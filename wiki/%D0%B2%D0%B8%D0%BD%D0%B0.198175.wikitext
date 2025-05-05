@@ -7,23 +7,32 @@
 * {{rhymes|bg|na|s=2}}
 
 ===Etymology 1===
-From {{inh|bg|sla-pro|*vina}}, formally an action noun of an unattested ''*вия'' ({{cog|sla-pro||*viti|t=to prosecute, to hunt}}), from {{cog|ine-pro|*weyh₁-||to chase}} + {{affix|bg|-на|id1=action suffix}}. Cognate with {{cog|lv|vaina}}.
+{{inh+|bg|sla-pro|*vina}}. Synchronically, an old verbal noun from root {{cog|ine-pro|*weyh₁-||to chase, to pursue}} + {{affix|bg|-на|id1=action suffix}}. Cognate with {{cog|lv|vaina||fault}}.
 
 ====Noun====
 {{bg-noun|вина́|f}}
 
 # [[guilt]], [[blame]]
+#: {{uxi|bg|признавам/отричам '''вина'''|to plead/not to plead '''guilty'''}}
+#: {{uxi|bg|хвърлям '''вината''' върху някого|to cast the '''blame''' on s.o.}}
+#: {{uxi|bg|изкупувам нечия '''вина'''|to redeem s.o. '''guilt'''}}
+# [[fault]], [[accountability]] {{gloss|cause for some bad situation}}
+#: {{uxi|bg|по '''вина''' на някого|through s.o. '''fault'''}}
+#: {{uxi|bg|нося '''вина''' за|to be responsible for [something bad]|lit=to carry '''accountability''' for}}
 
 =====Declension=====
 {{bg-ndecl|вина́<>}}
 
 =====Derived terms=====
-* {{l|bg|виня́||to blame}}
-* {{l|bg|вино́вен||guilty}}
-** {{l|bg|вино́вник||culprit, offender}}
+{{col|bg|title=verbs|виня́<qq:causative-iterative>}}
+{{col|bg|title=adjective|вино́вен|вини́телен|винова́т<q:dialectal>|неви́нен}}
 
-=====Related terms=====
-* {{l|bg|война́||war}}
+====References====
+* {{R:bg:RBE}}
+* {{R:bg:RBE2}}
+* {{R:bg:Gerov|вина́|125|1}}
+* {{R:bg:BER|вина|148|1}}
+* {{R:cu:SR|вина|00951}}
 
 ===Etymology 2===
 
@@ -32,10 +41,6 @@ From {{inh|bg|sla-pro|*vina}}, formally an action noun of an unattested ''*ви�
 
 # {{inflection of|bg|ви́но||indef|p}}
 # {{inflection of|bg|вино́||indef|p}}
-
-===References===
-* {{R:bg:RBE}}
-* {{R:bg:RBE2}}
 
 ===Anagrams===
 * {{anagrams|bg|a=авин|нива}}
