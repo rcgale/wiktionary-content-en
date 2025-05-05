@@ -2,13 +2,15 @@
 {{wp}}
 
 ===Pronunciation===
-* {{q|noun|verb}} {{IPA|en|/ˈkɒndənseɪt/}}
+; verb
+* {{IPA|en|/ˈkɒndənseɪt/}}
 * {{audio|en|LL-Q1860 (eng)-Vealhurl-condensate.wav|a=Southern England}}
-* {{q|adjective}} {{IPA|en|/ˈkɒndənseɪt/|/ˈkɒndənsət/}}
+; adjective, noun
+* {{IPA|en|/ˈkɒndənseɪt/|/ˈkɒndənsət/}}
 * {{audio|en|LL-Q1860 (eng)-Vealhurl-condensate2.wav|a=Southern England}}
 
 ===Etymology 1===
-From {{af|en|condense|-ate|id2=substantive|pos2=noun-forming suffix}} or directly from a [[substantivation]] of the adjective below.
+From {{af|en|condense|-ate|id2=substantive|pos2=noun-forming suffix}}. Alternatively, {{backform|en|condensation|nocap=1}}.
 
 ====Noun====
 {{en-noun}}
@@ -22,10 +24,19 @@ From {{af|en|condense|-ate|id2=substantive|pos2=noun-forming suffix}} or directl
 =====Derived terms=====
 {{col|en|anticondensate|biocondensate|noncondensate|polycondensate|quasicondensate|Bose-Einstein condensate|fermionic condensate|ghost condensate|subcondensate|biomolecular condensate}}
 
-=====Related terms=====
+=====See also=====
 {{col|en
-|condenser
-|condensation
+|autolysate
+|distillate
+|diffusate
+|eluate#Noun
+|exudate
+|filtrand
+|filtrate
+|filtride
+|hemolysate
+|leachate
+|lysate
 }}
 
 =====Translations=====
@@ -43,23 +54,8 @@ From {{af|en|condense|-ate|id2=substantive|pos2=noun-forming suffix}} or directl
 * Tagalog: {{t|tl|kinintay}}
 {{trans-bottom}}
 
-====See also====
-{{col|en
-|autolysate
-|distillate
-|diffusate
-|eluate#Noun
-|exudate
-|filtrand
-|filtrate
-|filtride
-|hemolysate
-|leachate
-|lysate
-}}
-
 ===Etymology 2===
-From earlier [[condensat]], {{bor+|en|la|condēnsātus|t=condensed|nocap=1}} (see etymology at {{l|en|-ate|id=verb}}). Equivalent to {{af|la|condēnsō|-ate|lang1=la|t1=to condense|id2=verb|pos2=verb-forming suffix|nocat=1}} or {{af|en|condense|-ate|id2=verb}}.
+First attested circa 1550; {{bor+|en|la|condēnsātus|nocap=1}}, {{glossary|perfect}} {{glossary|passive}} {{glossary|participle}} of {{m|la|condēnsō}}, see {{af|en|-ate|id1=verb|pos1=verb-forming suffix}} and {{af|en|-ate|id1=verb|pos1=adjective-forming suffix}}.
 
 ====Verb====
 {{en-verb}}
@@ -67,15 +63,18 @@ From earlier [[condensat]], {{bor+|en|la|condēnsātus|t=condensed|nocap=1}} (se
 # {{lb|en|obsolete|ambitransitive|uncommon}} To [[condense]].
 #* {{RQ:Hammond Sermon|passage=As they say a little critical learning makes one proud; if there were more it would '''condensate''' and compact itself into less room}}
 
-===Etymology 3===
-From earlier [[condensat]], {{bor+|en|la|condēnsātus|t=condensed|nocap=1}} (see etymology at {{l|en|-ate|id=adjective}}). Equivalent to {{af|en|condēnsō|-ate|lang1=la|t1=to condense|id2=adjective|pos2=adjective-forming suffix}}.
-
 ====Adjective====
 {{en-adj}}
 
 # {{lb|en|obsolete}} Made dense; [[condensed]].
 #* {{quote-text|en|year=1622|author={{w|Henry Peacham (born 1578)|Henry Peacham (Jr.)}}|title=The Compleat Gentleman
 |passage=Water {{...}} thickened or '''condensate'''.}}
+
+===Related terms===
+{{col|en
+|condenser
+|condensation
+}}
 
 ===References===
 * {{R:Webster 1913}}
