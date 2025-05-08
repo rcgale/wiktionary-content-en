@@ -14,7 +14,8 @@ From {{inh|en|enm|diffinicioun}}, from {{der|en|frm|definition}}, from {{der|en|
 ===Noun===
 {{en-noun|~}}
 
-# {{senseid|en|Q101072}}{{lb|en|semantics|lexicography}} A statement of the [[meaning]] of a [[word]] or word group or a sign or symbol ([[dictionary]] definitions).
+# {{senseid|en|Q101072}}{{lb|en|semantics|lexicography}} A [[statement]] of the [[meaning]] of a [[word#Noun|word]], word group, [[sign#Noun|sign]]{{,}} or [[symbol#Noun|symbol]]; especially, a [[dictionary definition]].
+<!--hyponyms are at H4 heading below-->
 #: {{ux|en|Your '''definition''' of "elephant" needs to be more precise than "a big animal with large ears".}}
 #* {{quote-book
 |en
@@ -52,15 +53,16 @@ From {{inh|en|enm|diffinicioun}}, from {{der|en|frm|definition}}, from {{der|en|
 # {{lb|en|bodybuilding}} The degree to which individual [[muscle]]s are [[distinct]] on the [[body]].
 # {{lb|en|programming}} A statement which provides a previous declaration with a value or body of a subroutine (in the case of function).
 # {{lb|en|mathematics}} A statement that establishes the [[referent]] of a term or [[notation]].
-# {{lb|en|crosswording}} The part of a cryptic clue which [[define]]s but does not [[indicate]] the solution.
+# {{senseid|en|part of a cryptic crossword clue}} {{lb|en|crosswording}} The part of a cryptic clue which [[define]]s but does not [[indicate]] the solution.
+#: {{cot|en|wordplay<id:part of a cryptic crossword clue>}}
 #* {{quote-book|en|year=2014|author=Henry Howarth|title=Learn How to Solve Cryptic Crosswords: A Course for Beginners|publisher=Lulu.com|isbn=9780992738204|page=59
 |text=However, some clues include words that do not form part of the wordplay or the '''definition'''.}}
 
 ====Synonyms====
-* See also [[Thesaurus:definition]]
+* See [[Thesaurus:definition]]
 
 ====Hyponyms====
-{{col4|en|circular definition|cryptic definition|double definition|extended definition
+{{col|en|circular definition|cryptic definition|double definition|extended definition
 |conceptual definition
 |dictionary definition
 |enumerative definition
