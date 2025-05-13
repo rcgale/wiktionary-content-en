@@ -17,9 +17,9 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 ===Proper noun===
 {{en-proper noun}}
 
+# {{sid|en|Q103251}}{{place|en|A <<geographic region>> in <<r/Southeast Europe>> in the <<r/Balkans>> which includes the Republic of <<c:also/North Macedonia>>, the region of Macedonia in <<c/Greece>>, the [[Pirin]] region of <<c/Bulgaria>>, and small parts of <<c/Albania>> and <<c/Serbia>>|tcl=a <<geographic region>> in <<r/Southeast Europe>> in the <<r/Balkans>>, including <<c:also/North Macedonia>> and parts of <<c/Greece,Bulgaria,Albania,Serbia>>}}.
 # {{sid|en|Q83958}}{{place|en|An <<ancient>> [[Greek]] <<kingdom>> in <<r/Southeast Europe>> in the <<r/Balkans>>, located to the north of [[Thessaly]], comprising the Greek city of [[Thessaloniki]] and its surroundings|tcl=an <<ancient>> [[Greek]] <<kingdom>> in <<r/Southeast Europe>>}}.
 #: {{syn|en|Macedon}}
-# {{sid|en|Q81734}}{{place|en|geographic region/and/former administrative region|c/Greece|comprising the regions of [[West Macedonia]], [[Central Macedonia]] and the East Macedonia part of the region of [[East Macedonia and Thrace]]|tcl=a <<geographic region>> and <<former administrative region>> of <<c/Greece>>}}.
 # {{sid|en|Q221}}{{place|en|The former name of [[North Macedonia]], a <<country>> in <<r/Southeast Europe>> in the <<r/Balkans>>, or one of its predecessor incarnations, such as the [[Socialist Republic of Macedonia]] in Yugoslavia|tcl=the former name of [[North Macedonia]], a <<country>> in <<r/Southeast Europe>> in the <<r/Balkans>>|cat=North Macedonia}}.
 #* {{quote-book
 |en
@@ -30,10 +30,15 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 |isbn=9780804779241
 |page=166
 |passage=But all this took time and delayed the start of the Communist-led uprising in '''Macedonia''' until October 11, 1941, that is, almost three months after it began in other parts of Yugoslavia. The CPY only had a few members in '''Macedonia''' at the time {{...}}}}
-# {{sid|en|Q103251}}{{place|en|A <<geographic region>> in <<r/Southeast Europe>> in the <<r/Balkans>> which includes the Republic of <<c:also/North Macedonia>>, the region of Macedonia in <<c/Greece>>, the [[Pirin]] region of <<c/Bulgaria>>, and small parts of <<c/Albania>> and <<c/Serbia>>|tcl=a <<geographic region>> in <<r/Southeast Europe>> in the <<r/Balkans>>, including <<c:also/North Macedonia>> and parts of <<c/Greece,Bulgaria,Albania,Serbia>>}}.
+# {{sid|en|Q81734}}{{place|en|geographic region/and/former administrative region|c/Greece|comprising the regions of [[West Macedonia]], [[Central Macedonia]] and the East Macedonia part of the region of [[East Macedonia and Thrace]]|tcl=a <<geographic region>> and <<former administrative region>> of <<c/Greece>>}}.
 # {{sid|en|Q3275099}}{{place|en|geographic region|in southwestern|c/Bulgaria|full=Pirin Macedonia,Bulgarian Macedonia}}.
 
 ====Synonyms====
+{{sense|region across many countries}}
+{{col|en
+|Greater Macedonia
+|Vardaska
+}}
 {{sense|ancient kingdom conquered by Rome}}
 {{col|en
 |Macedon
@@ -67,11 +72,6 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 |Pirin Macedonia
 |Bulgarian Macedonia
 }}
-{{sense|region across many countries}}
-{{col|en
-|Greater Macedonia
-|Vardaska
-}}
 
 ====Derived terms====
 {{col|en
@@ -102,6 +102,23 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 }}
 
 ====Translations====
+{{trans-top|id=Q103251|modern geographical region}}
+* Afrikaans: {{t|af|Masedonië}}
+* Bulgarian: {{t+|bg|Македо́ния|f}}
+* Catalan: {{t+|ca|Macedònia|f}}
+* Esperanto: {{t+|eo|Makedonio}}
+* Finnish: {{t+|fi|Makedonia}}
+* Georgian: {{t|ka|მაკედონია}}
+* German: {{t+|de|Makedonien|n}}
+* Macedonian: {{t+|mk|Македонија|f}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|Макєдонїꙗ|f}}
+* Portuguese: {{t+|pt|Macedónia|f}} {{qualifier|Portugal}}, {{t+|pt|Macedônia|f}} {{qualifier|Brazil}}
+* Romanian: {{t+|ro|Macedonia|f}}
+* Tagalog: {{t|tl|Masedonya}}
+* Turkish: {{t+|tr|Makedonya}}
+{{trans-bottom}}
+
 {{trans-top|id=Q83958|ancient kingdom}}
 * Afrikaans: {{t|af|Masedonië}}
 * Arabic: {{t|ar|مَقْدُونِيَا|f}}
@@ -297,23 +314,6 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 * Võro: {{t|vro|Makõdoonia}}
 {{trans-bottom}}
 
-{{trans-top|id=Q103251|modern geographical region}}
-* Afrikaans: {{t|af|Masedonië}}
-* Bulgarian: {{t+|bg|Македо́ния|f}}
-* Catalan: {{t+|ca|Macedònia|f}}
-* Esperanto: {{t+|eo|Makedonio}}
-* Finnish: {{t+|fi|Makedonia}}
-* Georgian: {{t|ka|მაკედონია}}
-* German: {{t+|de|Makedonien|n}}
-* Macedonian: {{t+|mk|Македонија|f}}
-* Old Church Slavonic:
-*: Cyrillic: {{t|cu|Макєдонїꙗ|f}}
-* Portuguese: {{t+|pt|Macedónia|f}} {{qualifier|Portugal}}, {{t+|pt|Macedônia|f}} {{qualifier|Brazil}}
-* Romanian: {{t+|ro|Macedonia|f}}
-* Tagalog: {{t|tl|Masedonya}}
-* Turkish: {{t+|tr|Makedonya}}
-{{trans-bottom}}
-
 {{trans-top|region of Bulgaria}}
 * Bulgarian: {{t|bg|Пиринска Македония|f}}, {{t+|bg|Македония|f}}
 * Catalan: {{t+|ca|Macedònia|f}}
@@ -336,7 +336,7 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 {{trans-bottom}}
 
 ===See also===
-{{list:countries in Europe/en}}{{C|en|Countries in Europe}}
+{{list:countries in Europe/en}}
 * [[Appendix:Countries of the world|Countries of the world]]
 * {{l|en|Skopje}}
 * {{pedia|North Macedonia}}
@@ -360,12 +360,10 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 ===Proper noun===
 {{head|ast|proper noun}}
 
-# [[#English|Macedonia]]
+# {{tcl|ast|Macedonia|id=Q103251,Q83958,Q221,Q81734,Q3275099}}
 
 ====Derived terms====
 * {{l|ast|macedoniu}}
-
-{{C|ast|Countries}}
 
 ==Galician==
 {{wikipedia|lang=gl}}
@@ -376,12 +374,10 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 ===Proper noun===
 {{gl-proper noun|f}}
 
-# [[North Macedonia]] (modern republic)
+# {{tcl|gl|Macedonia|id=Q103251,Q83958,Q221,Q81734,Q3275099}}
 
 ====Related terms====
 * {{l|gl|Antiga República Iugoslava da Macedonia}}
-
-{{C|gl|Countries}}
 
 ==Ido==
 {{wikipedia|lang=io}}
@@ -392,10 +388,10 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 ===Proper noun===
 {{head|io|proper noun}}
 
-# [[#English|Macedonia]]
+# {{tcl|io|Macedonia|id=Q103251,Q83958,Q221,Q81734,Q3275099}}
 
 ===See also===
-{{list:countries in Europe/io}}{{topics|io|Countries in Europe}}
+{{list:countries in Europe/io}}
 
 ==Italian==
 {{wikipedia|lang=it}}
@@ -406,7 +402,7 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 ===Proper noun===
 {{it-proper noun|f}}
 
-# {{l|en|Macedonia}} (all senses)
+# {{tcl|it|Macedonia|id=Q103251,Q83958,Q221,Q81734,Q3275099}}
 
 ====Related terms====
 * {{l|it|macedone}}
@@ -416,7 +412,6 @@ From {{bor|en|grc|Μακεδονία||Macedonia}}, from {{m|grc|μακεδονί
 ===Anagrams===
 * {{anagrams|it|a=aacdeimno|demoniaca|emaciando}}
 
-{{C|it|Countries in Europe}}
 {{cln|it|exonyms}}
 
 ==Latin==
@@ -433,7 +428,7 @@ From {{bor|la|grc|Μακεδονία|t=Macedonia}}, from {{m|grc|μακεδον�
 ===Proper noun===
 {{la-proper noun|Macedonia<1>}}
 
-# [[#English|Macedonia]]
+# {{tcl|la|Macedonia|id=Q103251,Q83958,Q221,Q81734,Q3275099}}
 
 ====Declension====
 {{la-ndecl|Macedonia<1.loc>}}
@@ -445,8 +440,6 @@ From {{bor|la|grc|Μακεδονία|t=Macedonia}}, from {{m|grc|μακεδον�
 ===References===
 * {{R:Gaffiot}}
 * {{R:Smith's Geography}}
-
-{{C|la|Countries in Europe}}
 
 ==Polish==
 {{wp|lang=pl}}
@@ -461,10 +454,7 @@ From {{bor|la|grc|Μακεδονία|t=Macedonia}}, from {{m|grc|μακεδον�
 ===Proper noun===
 {{pl-prop|f|adj=macedoński}}
 
-# {{place|pl|region|in|c/Albania,Bulgaria,Greece,North Macedonia,Serbia|t=Macedonia}}
-# {{place|pl|ancient kingdom|in the|r/Balkans|in|r/Southeast Europe|t=Macedonia}}
-# {{place|pl|administrative region|c/Greece|t=Macedonia}}
-# {{place|pl|former name of <<c/North Macedonia>>, a <<country>> in the <<r/Balkans>> in <<r/Southeast Europe>>|t=Macedonia}}
+# {{tcl|pl|Macedonia|id=Q103251,Q83958,Q221,Q81734,Q3275099}}
 
 ====Declension====
 {{pl-decl-noun-f|tantum=s}}
@@ -495,7 +485,7 @@ From {{bor|la|grc|Μακεδονία|t=Macedonia}}, from {{m|grc|μακεδον�
 ===Proper noun===
 {{head|ro|proper noun|g=f}}
 
-# {{l|en|Macedonia}}
+# {{tcl|ro|Macedonia|id=Q103251,Q83958,Q221,Q81734,Q3275099}}
 
 ====Declension====
 {{ro-country|Macedoniei|gend=f}}
@@ -503,8 +493,6 @@ From {{bor|la|grc|Μακεδονία|t=Macedonia}}, from {{m|grc|μακεδον�
 ====Related terms====
 * {{l|ro|macedonean}}
 * {{l|ro|macedoromân}}
-
-{{C|ro|Countries in Europe}}
 
 ==Spanish==
 {{wikipedia|lang=es}}
@@ -515,12 +503,11 @@ From {{bor|la|grc|Μακεδονία|t=Macedonia}}, from {{m|grc|μακεδον�
 ===Proper noun===
 {{es-proper noun|f}}
 
-# {{l|en|Macedonia}}
+# {{tcl|es|Macedonia|id=Q103251,Q83958,Q221,Q81734,Q3275099}}
 
 ====Derived terms====
 {{col|es|Antigua República Yugoslava de Macedonia|Macedonia del Norte}}
 
-{{C|es|Countries}}
 {{cln|es|exonyms}}
 
 ==Welsh==
@@ -529,11 +516,9 @@ From {{bor|la|grc|Μακεδονία|t=Macedonia}}, from {{m|grc|μακεδον�
 ===Proper noun===
 {{cy-proper noun|f}}
 
-# {{place|cy|region|in|c/Albania,Bulgaria,Greece,North Macedonia,Serbia|t=Macedonia}}
-# {{place|cy|ancient kingdom|in the|r/Balkans|in|r/Southeast Europe|t=Macedonia}}
-# {{place|cy|administrative region|c/Greece|t=Macedonia}}
-# [[North Macedonia]], a country in Southeastern [[Europe]], or one of its predecessor incarnations, such as the [[Socialist Republic of Macedonia]] in [[Yugoslavia]]
+# {{tcl|cy|Macedonia|id=Q103251,Q83958,Q221}}
 #: {{syn|cy|Gogledd Macedonia}}
+# {{tcl|cy|Macedonia|id=Q81734,Q3275099}}
 
 ====Derived terms====
 * {{l|cy|Gogledd Macedonia||North Macedonia}}
