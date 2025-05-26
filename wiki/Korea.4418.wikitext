@@ -27,7 +27,7 @@ Some Korean authors claim an Arabic intermediary instead, but this is impossible
 ===Proper noun===
 {{en-proper noun|~}}
 
-# {{senseid|en|Q18097}}{{place|en|A <<region>> and <<peninsula>> consisting of two <<countries>> in <<r/East Asia>>, commonly known as [[South Korea]] and [[North Korea]]; formerly a single country}}.
+# {{senseid|en|Q18097}}{{place|en|A <<geographic region>> consisting of two <<countries>> in <<r/East Asia>>, commonly known as [[South Korea]] and [[North Korea]]; formerly a single country}}.
 #* {{quote-book
 |en
 |year=1780
@@ -53,8 +53,9 @@ Some Korean authors claim an Arabic intermediary instead, but this is impossible
 |page=246
 |pageurl=https://archive.org/details/thatremindsme0000bark/page/246/
 |text=Then I told the delegates of the trip which I had taken with my wife, Jane, into '''Korea''' on the previous Thanksgiving, and of how I had celebrated my seventy-fourth birthday on the snowy mountains of '''Korea''', eating from a mess kit with the men in uniform.}}
-## {{short for|en||the [[Republic of Korea]]|nodot=y}}  ([[South Korea]]).
-## {{lb|en|recently less common}} {{short for|en|the [[Democratic People's Republic of Korea]]|nodot=y}} ([[North Korea]]).
+## {{lb|en|informal}} [[South Korea]]: {{tcl|en|South Korea|id=Q884}}.
+## {{lb|en|rare}} [[North Korea]]: {{tcl|en|North Korea|id=Q423}}.
+# {{sid|en|Q483134}}{{place|en|peninsula|in|r/East Asia|occupied by the countries of [[North Korea]] and [[South Korea]]|full=Korean Peninsula}}.
 
 ====Derived terms====
 {{col|en
@@ -241,7 +242,7 @@ Some Korean authors claim an Arabic intermediary instead, but this is impossible
 ===Proper noun===
 {{cs-proper noun|f|adj=korejský|dem=Korejec|fdem=Korejka}}
 
-# {{place|cs|two <<countries>> in <<r/East Asia>>, [[North Korea]] and [[South Korea]]|t1=Korea}}
+# {{tcl|cs|Korea|id=Q18097,Q483134}}
 
 ====Declension====
 {{cs-ndecl|f}}
@@ -270,7 +271,7 @@ Ultimately, from {{der|nl|ko|^고려}}.
 ===Proper noun===
 {{nl-proper noun|n}}
 
-# {{l|en|Korea}}
+# {{tcl|nl|Korea|id=Q18097,Q483134}}
 
 ====Derived terms====
 * {{l|nl|Koreaan}}
@@ -291,7 +292,7 @@ Ultimately, from {{der|fo|ko|^고려}}.
 ===Proper noun===
 {{head|fo|proper noun|g=n}}
 
-# [[#English|Korea]]
+# {{tcl|fo|Korea|id=Q18097,Q483134}}
 
 ====Declension====
 {{fo-decl-proper-noun-s-indef|Korea|Korea|Korea|Korea}}
@@ -301,7 +302,6 @@ Ultimately, from {{der|fo|ko|^고려}}.
 * {{l|fo|Norðurkorea}}
 * {{l|fo|Suðurkorea}}
 
-{{C|fo|Countries}}
 {{cln|fo|exonyms}}
 
 ==Finnish==
@@ -315,19 +315,16 @@ From {{der|fi|ko|^고려}}.
 ===Proper noun===
 {{fi-proper noun}}
 
-# [[#English|Korea]] {{gloss|ancient country}}
-# [[#English|Korea]] {{gloss|either of the two current Korean states}}
-# [[#English|Korea]] {{gloss|Korean peninsula}}
+# {{tcl|fi|Korea|id=Q18097}}
+#: {{syn|fi|Etelä-Korea<t:South Korea>|Pohjois-Korea<t:North Korea>}}
+# {{tcl|fi|Korea|id=Q483134}}
+#: {{syn|fi|Korean niemimaa<t:Korean Peninsula>}}
 
 ====Usage notes====
 * Plural may be used of North and South Korea collectively.
 
 ====Declension====
 {{fi-decl-kulkija|Kore|a}}
-
-====Synonyms====
-* {{sense|current state}} {{l|fi|Etelä-Korea}}, {{l|fi|Pohjois-Korea}}
-* {{sense|peninsula}} {{l|fi|Korean niemimaa}}
 
 ====Derived terms====
 {{col|fi
@@ -358,7 +355,7 @@ From {{der|fi|ko|^고려}}.
 ===Proper noun===
 {{head|de|proper noun|g=n|genitive|Koreas|plural|Korea}}
 
-# [[#English|Korea]]
+# {{tcl|de|Korea|id=Q18097,Q483134}}
 
 ====Usage notes====
 * The plural refers to both {{l|de|Südkorea}} ({{l|de|Republik Korea}}) and {{l|de|Nordkorea}} ({{l|de|Demokratische Volksrepublik Korea}}), and does occur in forms like "die beiden Korea".
@@ -378,8 +375,7 @@ From {{der|fi|ko|^고려}}.
 ===Proper noun===
 {{head|hu|proper noun}}
 
-# {{l|en|Korea}} {{gloss|ancient country}}
-# {{l|en|Korea}} {{gloss|either of the two current Korean states}}
+# {{tcl|hu|Korea|id=Q18097,Q483134}}
 
 ====Declension====
 {{hu-infl-nom|Koreá|o|n=sg}}{{hu-pos-tok|Koreá|n=sg}}
@@ -402,7 +398,7 @@ From {{inh|id|ms|Korea}}, ultimately from [[Sino-Korean|Sino-]]{{der|id|ko|^고�
 ===Proper noun===
 {{id-proper noun|head=Koréa}}
 
-# {{l|en|Korea}}
+# {{tcl|id|Korea|id=Q18097,Q483134}}
 
 ====Compounds====
 {{col|id
@@ -412,8 +408,6 @@ From {{inh|id|ms|Korea}}, ultimately from [[Sino-Korean|Sino-]]{{der|id|ko|^고�
 
 ===Further reading===
 * {{R:KBBI Daring}}
-
-{{C|id|Countries}}
 
 ==Malay==
 {{wikipedia|lang=ms}}
@@ -429,7 +423,7 @@ Ultimately from [[Sino-Korean|Sino-]]{{der|ms|ko|^고려(高麗)}}.
 ===Proper noun===
 {{ms-proper noun|j=کوريا}}
 
-# {{l|en|Korea}}
+# {{tcl|ms|Korea|id=Q18097,Q483134}}
 
 ====Derived terms====
 {{col|ms
@@ -453,14 +447,13 @@ From {{der|nb|ko|^고려}}.
 ===Proper noun===
 {{head|nb|proper noun}}
 
-# {{l|en|Korea}} {{q|region and former country in East Asia, now divided into [[North Korea]] and [[South Korea]]}}
+# {{tcl|nb|Korea|id=Q18097,Q483134}}
 
 ====Related terms====
 * {{l|nb|Nord-Korea}}, {{l|nb|Sør-Korea}}
 * {{l|nb|koreaner}}, {{l|nb|nordkoreaner}}, {{l|nb|sørkoreaner}}
 * {{l|nb|koreansk}}, {{l|nb|nordkoreansk}}, {{l|nb|sørkoreansk}}
 
-{{C|nb|Countries}}
 {{cln|no|exonyms}}
 
 ==Norwegian Nynorsk==
@@ -472,14 +465,12 @@ From {{der|nn|ko|^고려}}.
 ===Proper noun===
 {{head|nn|proper noun}}
 
-# {{l|en|Korea}} {{q|region and former country in East Asia, now divided into [[North Korea]] and [[South Korea]]}}
+# {{tcl|nn|Korea|id=Q18097,Q483134}}
 
 ====Related terms====
 * {{l|nn|Nord-Korea}}, {{l|nn|Sør-Korea}}
 * {{l|nn|korean}}, {{l|nn|koreanar}}, {{l|nn|nordkorean}}, {{l|nn|nordkoreanar}}, {{l|nn|sørkorean}}, {{l|nn|sørkoreanar}}
 * {{l|nn|koreansk}}, {{l|nn|nordkoreansk}}, {{l|nn|sørkoreansk}}
-
-{{C|nn|Countries}}
 
 ==Polish==
 [[Image:Locator map of Korea.svg|thumb|Map of Korea]]
@@ -493,8 +484,7 @@ From {{der|pl|ko|^고려}}.
 ===Proper noun===
 {{pl-proper noun|f}}
 
-# {{lb|pl|historical}} {{l|en|Korea||an ancient country in East Asia}}
-# {{lb|pl|informal}} {{place|pl|two <<countries>> in <<r/East Asia>>, [[North Korea]] and [[South Korea]]|t1=Korea}}
+# {{tcl|pl|Korea|id=Q18097,Q483134}}
 
 ====Declension====
 {{pl-decl-noun
@@ -530,7 +520,7 @@ From {{der|pl|ko|^고려}}.
 ===Proper noun===
 {{head|sw|proper noun}}
 
-# {{l|en|Korea}}
+# {{tcl|sw|Korea|id=Q18097,Q483134}}
 
 ====Derived terms====
 * {{l|sw|Korea ya Kaskazini}}
@@ -548,7 +538,7 @@ From {{der|sv|ko|^고려}}.
 ===Proper noun===
 {{sv-proper noun|n}}
 
-# {{l|en|Korea}}
+# {{tcl|sv|Korea|id=Q18097,Q483134}}
 
 ===See also===
 * {{l|sv|Nordkorea}}
@@ -564,7 +554,6 @@ From {{der|sv|ko|^고려}}.
 ===Anagrams===
 * {{anagrams|sv|a=aekor|arkeo-}}
 
-{{C|sv|Countries}}
 {{cln|sv|exonyms}}
 
 ==Tagalog==
@@ -578,13 +567,10 @@ From {{der|sv|ko|^고려}}.
 ===Proper noun===
 {{tl-proper noun|b=Koreya}}
 
-# {{l|en|Korea}} {{gl|ancient country}}
-# {{l|en|Korea}} {{gl|either of the two current Korean states}}
+# {{tcl|tl|Korea|id=Q18097,Q483134}}
 
 ====Derived terms====
 {{col3|tl|Korean|Koreano|Koreana|Hilagang Korea|Timog Korea}}
 
 ===Further reading===
 * {{R:Pambansang Diksiyonaryo}}
-
-{{C|tl|Countries|Peninsulas}}
