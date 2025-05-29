@@ -17,7 +17,7 @@
 #* '''1740''', James Thomson (''lyrics''), Thomas Arne (''music''), ''{{w|Rule, Britannia!}}''
 #*: ''Rule, '''Britannia'''! '''Britannia''' rule the waves / Britons never, never shall be slaves''
 #* {{quote-journal|en|year=1951|month=October|author=R. S. McNaught|title=Lines of Approach|journal=Railway Magazine|pages=703-704|text=I recall the height of comfort attained by the green-cushioned "first" with starched white antimacassars and a pretentious grey floor mat on which it seemed a sacrilege to stand, as it was embellished with the North Western conception of '''Britannia''', complete with trident.}}
-# {{C|en|Places in the Roman Empire}}{{lb|en|historical}} A [[province]] of the [[Roman Empire]] covering most of the island of [[Britain]].
+# {{sid|en|Q185103}}{{lb|en|historical}} {{place|en|province|emp/Roman Empire|covering most of the island of [[Britain]]}}.
 #: {{syn|en|Roman Britain}}
 # {{place|en|number of places|c/Canada}}:
 ## {{place|en|neighbourhood|city/Calgary|p/Alberta}}.
@@ -69,8 +69,8 @@
 ===Proper noun===
 {{fi-proper noun}}
 
-# {{lb|fi|ambiguously}} [[United Kingdom]], [[Great Britain]], [[Britain]] {{gloss|used to refer to the state of United Kingdom or its largest island consisting of England, Scotland and Wales}}
-# [[Britain]] {{gloss|Roman province}}
+# {{tcl|fi|Britain|id=Q145,Q23666}}
+# {{tcl|fi|Britannia|id=province}}
 # [[#English|Britannia]] {{gloss|female personification of Britain}}
 
 ====Declension====
@@ -100,7 +100,7 @@
 
 # {{lb|it|archaic}} [[Great Britain]], [[Britain]]
 #: {{syn|it|Bretagna|q1=usual term}}
-# [[Britain]] {{gloss|Roman province}}
+# {{tcl|it|Britannia|id=province}}
 # {{l|en|Britannia}} {{gloss|female personification of Britain}}
 
 ===Anagrams===
@@ -129,9 +129,9 @@ The Ancient Greek name is ultimately from a {{der|la|cel|-}} ethnonym, reconstru
 {{la-proper noun|Britannia<1.loc.both>}}
 
 # {{place|la|t=Britain|region|r/Western Europe|the country of the [[Briton]]s}}
-# {{place|la|t=Great Britain|island|r/Western Europe}}
+# {{place|la|t=Great Britain|island|r/Western Europe|cat=United Kingdom}}
 #: {{syn|la|Albiōn}}
-# {{place|la|t=Britannia|Roman province|r/Western Europe|on the island of [[Great Britain]]}}
+# {{place|la|t=Britannia|province|emp/Roman Empire|in|r/Western Europe|on the island of [[Great Britain]]}}
 # {{lb|la|Medieval Latin}} {{place|la|t=Brittany|region/and/peninsula|in modern|c/France|populated by speakers of [[Breton]]}}
 #: {{syn|la|Armorica}}
 # {{lb|la|Medieval Latin}} {{place|la|t=Wales|region|in the modern|c/United Kingdom|populated by speakers of [[Welsh]]}}
@@ -207,5 +207,3 @@ The Ancient Greek name is ultimately from a {{der|la|cel|-}} ethnonym, reconstru
 * {{R:Smith's Geography|BRITANNICAE INSULAE or BRITANNIA|britannicae-insulae}}
 * {{R:Gaffiot|page=228|column=3}}
 * {{R:Georges|columns=865–866}}
-
-{{C|la|United Kingdom}}
