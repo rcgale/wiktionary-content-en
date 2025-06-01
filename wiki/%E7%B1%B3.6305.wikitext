@@ -156,8 +156,8 @@ From {{inh|zh|sit-pro|*ma-j ~ mej||rice; paddy}}. Cognate with {{cog|grt|mi||ric
 
 # [[rice]]
 # {{lb|ja|ateji}} [[meter]]
-# {{lb|ja|ateji}} [[America]]
-# {{lb|ja|ateji}} [[United States]]
+# {{lb|ja|ateji}} {{place|ja|supercontinent|t=America}}
+# {{lb|ja|ateji}} {{place|ja|country|cont/North America|t=United States|t2=America}}
 
 ====Readings====
 {{ja-readings
@@ -411,10 +411,10 @@ From {{der|ja|ltc|-}} {{ltc-l|米}}.
 {{ja-pos|affix|べい|hhira=べい}}
 
 # [[rice]]
-# {{short for|ja|[[アメリカ合衆国]]／[[亜米利加合衆国]]|tr=Amerika Gasshūkoku|t={{place|ja|t=United States|country}}}}
+# {{place|ja|@abbr of:アメリカ合衆国<tr:Amerika Gasshūkoku>,亜米利加合衆国<tr:Amerika Gasshūkoku>|country|cont/North America|t=United States|sort=べい}}
 #: {{ja-r|米国|^べいこく|[[US]]}}
 #: {{ja-r|linkto=w:ja:日米関係|日米関係|^にち-^べい かんけい|{{w|Japan–United States relations}}}}
-# {{short for|ja|[[アメリカ]]／[[亜米利加]]|tr=Amerika|t={{place|ja|t=the Americas|region}}}}
+# {{place|ja|@abbr of:アメリカ<tr:Amerika>,亜米利加<tr:Amerika>|supercontinent|t=America|t2=the [[Americas]]]|sort=べい}}
 #: {{ja-r|南米|^なんべい|[[South America]]}}
 
 =====Derived terms=====
@@ -533,7 +533,7 @@ From {{der|ko|ltc|-|sort=미}} {{ltc-l|米}}.
 ===Proper noun===
 {{vi-proper noun|sc=Hani}}
 
-# {{vi-Han form of|Mễ|{{lb|vi|Overseas Vietnamese|_|or|_|obsolete}} {{place|vi|country|cont/North America|t=Mexico}}}}
+# {{vi-Han form of|Mễ|nodot=1}}: {{lb|vi|Overseas Vietnamese|or|obsolete}} {{place|vi|country|cont/North America|t=Mexico|nocat=1}}
 
 ====Compounds====
 * {{vi-l|米西基|Mễ Tây Cơ|[[Mexico]]}}
