@@ -186,9 +186,11 @@ From {{inh|nrf|fro|livre}}, a {{slbor|nocap=1|nrf|la|liber|liber, librum}}.
 # {{lb|nrf|Jersey}} [[book]]
 
 =====Derived terms=====
-{{col3|nrf|garder les livres<t:to keep books, book-keep>
+{{col|nrf
+|garder les livres<t:to keep books, book-keep>
 |livre d'exèrcice<t:exercise book>
-|livre d'priéthes<t:prayer book>}}
+|livre d'priéthes<t:prayer book>
+}}
 
 =====Related terms=====
 * {{l|nrf|librairie||bookshop}}
@@ -231,8 +233,7 @@ From {{der|nrf|la|libra}}.
 {{fro-noun|m}}
 
 # [[book]] {{gloss|collection of sheets of paper in a specific order}}
-#* {{quote-book
-|fro
+#* {{quote-book|fro
 |year=1260–1267
 |author=w:Brunetto Latini
 |title='''Livres''' dou Tresor
