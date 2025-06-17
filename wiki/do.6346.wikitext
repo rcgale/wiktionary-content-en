@@ -1021,7 +1021,7 @@ From confusion between {{inh|ga|mga|ro-}} (in perfect), {{m|mga|no-}} (in imperf
 ====Particle====
 {{head|ga|particle|triggers {{ga-mut-link|l}}}}
 
-# {{lb|ga|Munster|literary}} {{n-g|prefixed before the preterite, imperfect and conditional forms of a verb}}
+# {{senseid|ga|past}} {{lb|ga|Munster|literary}} {{n-g|prefixed before the preterite, imperfect and conditional forms of a verb}}
 #: {{ux|inline=1|ga|'''do''' mhol sé|he praised}}
 
 ===Etymology 2===
@@ -1033,7 +1033,7 @@ Reanalysis of {{m-self|ga|do|t={{n-g|past tense marker}}}} and the early modern 
 ====Particle====
 {{head|ga|particle|triggers {{ga-mut-link|l}}}}
 
-# {{lb|ga|Munster|literary}} {{n-g|relative marker (in direct relative clauses)}}
+# {{senseid|ga|relative}} {{lb|ga|Munster|literary}} {{n-g|relative marker (in direct relative clauses)}}
 #: {{ux|inline=1|ga|an cailín '''do''' mholann sé|the girl that he praises}}
 
 =====Usage notes=====
@@ -1048,15 +1048,15 @@ From {{inh|ga|sga|do}}, from {{inh|ga|cel-pro|*do||to, for}}.<ref>{{R:DIL|17096|
 
 ====Pronunciation====
 * {{IPA|ga|/d̪ˠɔ/|/d̪ˠə/}}
-* {{IPA|ga|/ɡə/|a=Connacht}} {{qualifier|as if spelled ''go''; ''do'' and {{m|ga|go||to, up to, until}} have largely become conflated in this dialect}}
-* {{IPA|ga|/ə/|/ə.ɣ-/|q2=before ⟨a/á, o/ó, u/ú⟩|/ə.j-/|q3=before ⟨e/é, i/í⟩|ref3={{R:ga:Quiggin|73|191}}|a=Ulster,colloquial}}
+* {{IPA|ga|a=Connacht|/ɡə/|qq=as if spelled ''go''; ''do'' and {{m|ga|go||to, up to, until}} have largely become conflated in this dialect}}
+* {{IPA|ga|a=Ulster|q=colloquial|/ə/|/ə.ɣ-/|q2=before ⟨a/á, o/ó, u/ú⟩|/ə.j-/|q3=before ⟨e/é, i/í⟩|ref3={{R:ga:Quiggin|73|191}}}}
 
 ====Preposition====
 {{ga-prep|d|l}}
 
-# [[to]], [[for]]
+# {{senseid|ga|to/for}} [[to]], [[for]]
 #: {{ux|inline=1|ga|'''do''' chara|to a friend, for a friend}}
-# {{n-g|used with the possessive determiners ''mo'', ''do'', ''bhur'' to indicate the direct object of a verbal noun, in place of ''ag'' after a form of ''bí'' in the progressive aspect}}
+# {{senseid|ga|object of verbal noun}} {{n-g|used with the possessive determiners ''mo'', ''do'', ''bhur'' to indicate the direct object of a verbal noun, in place of ''ag'' after a form of ''bí'' in the progressive aspect}}
 #: {{ux|inline=1|ga|Tá sé '''do''' mo ghortú.|It’s hurting me.}}
 #: {{ux|inline=1|ga|Bhí sé '''do''' d’fhiafraí.|He was inquiring about you {{g|s}}.}}
 #: {{ux|inline=1|ga|Bhí sibh '''do''' bhur gcloí.|You {{g|p}} were being overthrown.}}
@@ -1092,16 +1092,19 @@ From {{inh|ga|sga|do}}, from {{inh|ga|cel-pro|*towe||your, thy}}; compare {{cog|
 ====Determiner====
 {{head|ga|determiners|cat2=possessive determiners|triggers {{ga-mut-link|l}}}}
 
-# your (singular)
+# {{senseid|ga|your}} your {{g|s}}
 #: {{ux|ga|Cá bhfuil '''do''' charr?|Where is your car?}}
 
 ====See also====
 {{Irish personal pronouns}}
 
 ===References===
-{{reflist|size=smaller}}
+{{col-top|1|ref}}
+{{reflist|cols=2}}
+{{col-bottom}}
 
 ===Further reading===
+* {{R:ga:Dinneen|p=347}}
 * {{R:ga:Ó Dónaill}}
 * {{R:ga:EID}}
 * {{R:ga:NEID}}
