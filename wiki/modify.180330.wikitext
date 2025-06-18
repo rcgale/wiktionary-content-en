@@ -16,8 +16,8 @@ From {{inh|en|enm|modifien}}, from {{der|en|frm|modifier}}, from {{der|en|la|mod
 # {{lb|en|transitive}} To [[change]] [[part]] of.
 #: {{ux|en|Her publisher advised her to '''modify''' a few parts of the book to make it easier to read.}}
 # {{lb|en|intransitive}} To be or become modified.
-# {{lb|en|transitive}} To set bounds to; to moderate.
-# {{lb|en|grammar|transitive}} To qualify the meaning of.
+# {{lb|en|transitive}} To set bounds to; to [[moderate]].
+# {{lb|en|transitive|grammar}} To [[qualify]] the [[meaning]] of.
 #* {{quote-book|en|year=1977|author=Linda R. Waugh|url=https://books.google.com/books?id=NckUAAAAIAAJ&pg=PA156&dq=adjectives+modify&hl=en&sa=X&ved=0ahUKEwj-kr-SqLLiAhUHPK0KHYJyAxsQ6AEIQjAE#v=onepage&q=adjectives%20modify&f=false|title=A Semantic Analysis of Word Order: Position of the Adjective in French|text=There is inherently no ordering to the modification and no hierarchy of modification: that is, both adjectives '''modify''' the substantive and both apply equally to the substantive{{...}}}}
 #* {{quote-book|en|year=2016|author=Allen Ascher|url=https://books.google.com/books?id=vs25DQAAQBAJ&pg=PA192&dq=nouns+modify&hl=en&sa=X&ved=0ahUKEwiG5bzgqLLiAhUBbKwKHSa0DLYQ6AEIRjAF#v=onepage&q=nouns%20modify&f=false|title=The New Harbrace Guide: Genres for Composing|text=Adjectives '''modify''' nouns.}}
 
@@ -35,6 +35,8 @@ From {{inh|en|enm|modifien}}, from {{der|en|frm|modifier}}, from {{der|en|la|mod
 
 ====Translations====
 {{trans-top|to change part of}}
+* Aragonese: {{t|an|modificar}}
+* Basque: {{t+|eu|aldatu}}
 * Belarusian: {{t|be|мадыфікава́ць|impf|pf}}
 * Breton: {{t+|br|kemmañ}}
 * Bulgarian: {{t+|bg|изменям}}, {{t+|bg|променям}}
@@ -46,28 +48,38 @@ From {{inh|en|enm|modifien}}, from {{der|en|frm|modifier}}, from {{der|en|la|mod
 * Dutch: {{t+|nl|modificeren}}, {{t+|nl|veranderen}}
 * Esperanto: {{t|eo|modifi}}, {{t|eo|aliigi}}
 * Estonian: {{t|et|muutma}}
-* Finnish: {{t+|fi|muokata}}, {{t+|fi|muunnella}}, {{t+|fi|määrittää}} {{qualifier|grammar}}
+* Finnish: {{t+|fi|muokata}}, {{t+|fi|muunnella}}
 * French: {{t+|fr|modifier}}
 * Galician: {{t+|gl|modificar}}
 * German: {{t+|de|ändern}}, {{t+|de|abändern}}, {{t+|de|modifizieren}}
 * Greek: {{t+|el|μετατρέπω}}
+* Guarani: {{t|gn|moambue}}
 * Hungarian: {{t+|hu|módosít}}
-* Indonesian: {{t|id|mengoprek}}
+* Ido: {{t+|io|modifikar}}
+* Indonesian: {{t|id|mengoprek}}, {{t+|id|memodifikasi}}
 * Interlingua: {{t|ia|modificar}}
 * Italian: {{t+|it|modificare}}
 * Korean: {{t+|ko|수정하다}}
 * Ladin: {{t|lld|muder}}
 * Latin: {{t|la|adaptō}}
+* Malagasy: {{t+|mg|manova}}
 * Maori: {{t|mi|whakarerekē}}, {{t|mi|whakakē}}
+* Northern Sami: {{t|se|earáhuhttit}}, {{t|se|rievdadit}}
+* Norwegian: {{t|no|modifisere}}
+* Occitan: {{t+|oc|modificar}}
 * Polish: {{t+|pl|modyfikować}}, {{t+|pl|zmieniać}}
 * Portuguese: {{t+|pt|modificar}}
 * Romanian: {{t+|ro|modifica}}
 * Russian: {{t+|ru|изменя́ть}}, {{t+|ru|модифици́ровать}}
+* Sardinian:
+*: Campidanese: {{t|sc|modificai}}
 * Spanish: {{t+|es|modificar}}
+* Swahili: {{t|sw|-sahihisha}}
 * Swedish: {{t+|sv|modifiera}}
 * Tibetan: {{t|bo|སྒྱུར་བཅོས་གཏོང}}, {{t|bo|བཟོ་བཅོས་རྒྱག}}
-* Turkish: {{t|tr|modifiye etmek}}
+* Turkish: {{t|tr|modifiye etmek}}, {{t+|tr|değiştirmek}}
 * Ukrainian: {{t|uk|модифікува́ти|impf|pf}}
+* Venetan: {{t|vec|canbiare}}
 {{trans-bottom}}
 
 {{trans-top|to be or become modified}}
@@ -78,10 +90,12 @@ From {{inh|en|enm|modifien}}, from {{der|en|frm|modifier}}, from {{der|en|la|mod
 * Indonesian: {{t|id|terkoprek}}
 * Romanian: {{t+|ro|modifica|alt=a (se) modifica}}
 * Russian: {{t+|ru|изменя́ться}}, {{t+|ru|модифици́роваться}}
+* Turkish: {{t+|tr|değişmek}}
 {{trans-bottom}}
 
-{{trans-top|in grammar, to qualify another word or phrase}}
-* Bulgarian:  {{t-needed|bg}}
+{{trans-top|(grammar) to qualify another word or phrase}}
+* Bulgarian: {{t-needed|bg}}
+* Finnish: {{t+|fi|määrittää}}
 * French: {{t+|fr|modifier}}
 * Greek: {{t+|el|προσδιορίζω}}
 * Korean: {{t|ko|수식하다|tr=susikada}}
@@ -95,3 +109,5 @@ From {{inh|en|enm|modifien}}, from {{der|en|frm|modifier}}, from {{der|en|la|mod
 
 ===Anagrams===
 * {{anagrams|en|a=dfimoy|domify}}
+
+{{cln|en|ergative verbs}}
