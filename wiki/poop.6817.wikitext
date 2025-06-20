@@ -128,9 +128,10 @@ From {{inh|en|enm|poupe}}, {{m|enm|pope}}, from {{der|en|fro|pope}}, {{m|fro|pou
 ====Noun====
 {{en-noun|~}}
 
-# {{senseid|en|stern}} {{lb|en|nautical}} The [[stern]] of a [[ship]].
-#: {{syn|en|stern}}
-#: {{ant|en|bow}}
+# {{senseid|en|Q273062}} {{lb|en|nautical}} The [[rear]] part (after end) of a [[ship]] or other [[vessel]].
+#: {{syn|en|stern<id:Q273062>|aft<id:Q273062>}}
+#: {{ant|en|bow<id:Q301897>|stem<id:Q301897>|forestem<id:Q301897>|prow<id:Q301897>|prore<id:Q301897>}}
+#: {{hol|en|watercraft<id:Q1229765>|<|vessel<id:Q16391167>}}
 #* {{seeCites|en}}
 # {{lb|en|nautical}} The [[poop deck]].
 #* {{RQ:Eddison Worm|page=18|passage=Omens thicken upon us {{...}} Next, the stumbling of the King whenas he went upon the '''poop''' of the long ship which bare us on this voyage to these islands.}}
