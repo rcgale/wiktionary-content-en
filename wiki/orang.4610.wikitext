@@ -147,41 +147,55 @@ From {{inh|id|ms|orang}}, from {{inh|id|ms-old|urang}}, from {{inh|id|poz-mly-pr
 
 ==Malay==
 
+===Alternative forms===
+* {{alt|ms|org||abbreviation|Internet|texting}}
+
 ===Etymology===
 {{inh+|ms|poz-mly-pro|*uraŋ||person}}, from {{inh|ms|poz-pro|*uʀaŋ||outsider}}. Possible cognate with {{cog|jv|wong}}.
 
 First attested in the {{w|Telaga Batu inscription}}, 683 CE, as {{m+|ms-old|tr=urang}}.
 
 ===Pronunciation===
-{{ms-IPA}}
+{{ms-IPA|a=Baku,Johor-Riau}}
 * {{audio|ms|Ms-MY-orang.ogg|a=Malaysia}}
 * {{rhyme|ms|oraŋ|s=2}}
 * {{hyph|ms|o|rang}}
 
 ===Noun===
-{{ms-noun|pl=-|j=اورڠ}}
+{{ms-noun|j=اورڠ}}
 
-# [[person]]; [[people]]
-# [[human being]]
+# [[person]]; [[people]]<ref name=KD4>{{R:KD4}}</ref>
+# [[human being]]<ref name=KD4/>
 #: {{syn|ms|manusia}}
 
 ====Derived terms====
-{{ms-der|orang utan|orang-orang}}
+{{ms-der|340
+| orang utan}}
 
 ====Descendants====
-* {{desc|id|orang}}
+* {{desc|id|orang|inh=1}}
 
 ===Classifier===
-{{ms-classifier}}
+{{ms-classifier|j=اورڠ}}
 
-# {{n-g|classifier for human beings}}
+# {{n-g|classifier for human beings}}<ref name=KD4/>
 #: {{uxi|ms|se'''orang''' lelaki|'''a''' man}}
 
 ===Pronoun===
 {{ms-pronoun|j=اورڠ}}
 
-# {{lb|ms|dialectal}} [[I]], [[me]], [[my]] {{gl|used when speaking to [[parent]]}}
+# {{lb|ms|dialectal}} [[I]], [[me]], [[my]] {{gl|used when speaking to [[parent]], or any respected [[elder]]}}
 #: {{syn|ms|saya}}
+#: {{ux|ms|'''Orang''' tak buat semua benda ni. Sumpah!|'''I''' didn't do all of these. (I) swear!}}
+
+====Derived terms====
+{{col|ms
+| kita orang<t:[[we]]; [[us]]; [[our]]>
+| dia orang<t:[[they]]; [[them]]; [[their]]>
+}}
+
+===References===
+{{reflist}}
 
 ===Further reading===
 * {{R:PRPM}}
