@@ -1,44 +1,61 @@
 {{also|Tamale}}
 ==English==
-{{wikipedia}}
-[[File:Tamales.jpg|thumb|Two '''tamales'''.]]
+{{wp}}
+[[File:Tamales.jpg|thumb|{{l|en|two|Two}} '''tamales''' ({{senseno|en|Q1147853}}).]]
 
 ===Etymology===
-{{back-form|en}} from the plural {{m|en|tamales}}, from {{der|en|es|tamales}}, plural of {{m|es|tamal}}, from {{der|en|nah|tamalli||wrapped}}.
+{{back-form|en}} from the plural {{m|en|tamales}}, {{lg|derived terms|derived}} from [[Latin American]] {{der|en|es|tamales}}, plural of {{m|es|tamal}}, {{der+|en|nah|tamalli<t:[[wrap]]ped>|nocap=1}}, {{der+|en|azc-pro|nocap=1}}.<ref name="AHD-tamale">{{R:AHD}}</ref> Compare {{cog|ood|čïmait||[[tortilla]]}}, {{cog|hop|tïma||[[stone]] [[griddle]] [[for]] [[cook]]ing [[corn]] [[flatbread]]}}, {{cog|ute|tïʔma-||[[to]] [[roast]] [[under]] [[ash]]es}}.<ref name="AHD-tamale" />
 
 ===Pronunciation===
-* {{IPA|en|/tə.ˈmɑ.leɪ/|/tə.ˈmɑ.li/}}
-* {{audio|en|LL-Q1860 (eng)-Vealhurl-tamale.wav|a=Southern England}}
-* {{homophones|en|tomalley}}
+* {{enPR|tə-mä'''′'''lē}}<ref name="AHD-tamale" />
+* {{IPA|en|/təˈmɑː.liː/|a=RP}}
+*: {{audio|en|LL-Q1860 (eng)-Vealhurl-tamale.wav|a=Southern England}}
+* {{IPA|en|/təˈmɑ.li/|a=GenAm,CanE}}
+*: {{IPA|en|/təˈmɒ.li/|a=CanE}}
+* {{IPA|en|/təˈmɐː.liː/|a=AuE,NZE}}
+* {{IPA|en|/təˈma.li/|a=ScE}}
+* {{IPA|en|/ʈaˈmaː.liː/|a=InE}}
+* {{rhymes|en|ɑːli|s=3}}
+* {{hmp|en|tomalley}}
+* {{hyph|en|ta|ma|le}}<ref name="AHD-tamale" />
 
 ===Noun===
 {{en-noun}}
 
-# A Mexican dish of [[cornmeal]] dough shell filled with various ingredients (e.g. chopped beef, pork, sweet filling) then steamed in corn [[husks]].
+# {{senseid|en|Q1147853}} A Mexican dish of [[cornmeal]] dough shell filled with various ingredients (e.g. chopped beef, pork, sweet filling) then steamed in corn [[husks]].
+#: {{syn|en|humita|tamal}}
 
 ====Usage notes====
 * The standard Spanish singular is {{m|es|tamal}}, and thus some proscribe '''''tamale''''' as an incorrect back-formation, preferring to use {{m|en|tamal}} as the English singular. The similarity of '''''tamale''''' to the ancestral Nahuatl {{m|nah|tamalli}} is not generally cited in support of the English usage of '''''tamale''''' as its spelling does not match with the Nahuatl spelling and the word originally entered via Spanish in the form of ''tamales''.
 
-====Synonyms====
-* {{l|en|humita}}
-* {{l|en|tamal}}
-
 ====Derived terms====
-{{col|en| big tamale|tamale pie|hot tamale}}
+{{col|en
+|big tamale
+|hot tamale
+|tamale pie
+}}
 
 ====Related terms====
-* {{l|en|tamalera}}
-* {{l|en|tamalero}}
-* {{l|en|tamalito}}
+{{col|en
+|tamalera
+|tamalero
+|tamalito
+}}
 
 ====Translations====
-{{trans-top|Mexican dish}}
+{{trans-top|Mexican dish|id=Q1147853}}
 * Isthmus Zapotec: {{t|zai|gueta guu}}
 * Navajo: {{t|nv|ałchʼįʼ beʼestłʼóní}}, {{t|nv|Naakaii bintsidígoʼí}}, {{t|nv|nijiloʼí}}
-* Spanish: {{t+|es|tamal|m}}, {{t|es|pishque|m}} {{qualifier|Guatemala}}
+* Spanish: {{t+|es|tamal|m}}, {{t+|es|tamale|m}} {{q|dialect}}, {{t|es|pishque|m}} {{q|Guatemala}}
 * Tagalog: {{t+|tl|tamales}}
 * Taos: {{t|twf|tomòliʼína}}
 {{trans-bottom}}
+
+===References===
+{{reflist}}
+
+===Further reading===
+* {{R:OneLook}}
 
 ===Anagrams===
 * {{anagrams|en|a=aaelmt|malate|meatal}}
@@ -46,6 +63,7 @@
 {{C|en|Foods|Maize (food)}}
 
 ==Spanish==
+{{wp|lang=es}}
 
 ===Pronunciation===
 {{es-pr}}
@@ -53,12 +71,18 @@
 ===Noun===
 {{es-noun|m}}
 
-# {{lb|es|dialect}} {{l|en|tamale}}
+# {{senseid|es|Q1147853}} {{lb|es|dialect}} {{l|en|tamale}} {{gl|Mexican dish}}
 
 ====Derived terms====
-{{col|es|tamalera|tamaleada|tamalito}}
+{{col|es
+|tamaleada
+|tamalera
+|tamalito
+}}
 
 ====Related terms====
-{{col|es|tamal}}
+{{col|es
+|tamal
+}}
 
-{{C|es|Foods}}
+{{C|es|Foods|Maize (food)}}
