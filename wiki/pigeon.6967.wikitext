@@ -1,10 +1,10 @@
 {{also|Pigeon}}
 ==English==
 {{wikipedia}}
-[[File:Speckled Pigeon (Columba guinea) (51607709638).jpg|thumb|A speckled pigeon ({{taxfmt|Columba guinea|species}})]]
+[[File:Speckled Pigeon (Columba guinea) (51607709638).jpg|thumb|A speckled '''pigeon''' ({{taxfmt|Columba guinea|species}}; {{senseno|en|Q2984138}})]]
 
 ===Pronunciation===
-* {{IPA|en|/ˈpɪ.dʒɪn/|/ˈpɪ.dʒən/|a=RP}}
+* {{IPA|en|/ˈpɪ.dʒɪn/|/ˈpɪ.dʒən/|a=UK,US}}
 * {{IPA|en|/ˈpə.dʒən/|a=NZ}}
 * {{IPA|en|/ˈpiː.dʒan/|/ˈpiː.dʒi.jan/|a=Indic}}
 * {{audio|en|en-us-pigeon.ogg|a=US}}
@@ -13,10 +13,11 @@
 * {{hmp|en|pidgin}}
 
 ===Etymology 1===
-{{inh+|en|enm|pygeoun}}, borrowed from {{der|en|fro|pyjon}}, inherited from {{der|en|LL.|pipio|pīpiōnem|t=chirping bird}}, derived from {{der|en|la|pipio|pīpiāre|t=chirp}}, of imitative origin. Partly displaced native {{ncog|en|dove}}.
+{{etymon|en|id=Q2984138|inh|enm>pygeoun>Q2984138|tree=1}}
+{{inh+|en|enm|pygeoun}}, borrowed from {{der|en|fro|pyjon}}, inherited from {{der|en|LL.|pipio|pīpiōnem|chirping bird|id=chirping bird}}, derived from {{der|en|la|pipio|pīpiāre|to chirp|id=to chirp}}, of imitative origin. Partly displaced native {{ncog|en|dove}}.
 
 ====Alternative forms====
-* {{alt|en|pidgeon||chiefly archaic}}
+* {{alt|en|pidgeon||archaic}}
 
 ====Noun====
 {{en-noun|~}}
@@ -491,13 +492,13 @@
 * {{l|en|squeaker}}
 
 ===Etymology 2===
-From {{m|en|pidgin English}}, from a {{bor|en|cpi|-}} pronunciation of {{der|en|en|business}} during trade in the {{w|Far East}}. See {{m|en|pidgin}}.
+From pidgin English, from a {{bor|en|cpi|-}} pronunciation of {{der|en|en|business}} during trade in the {{w|Far East}}. See {{m|en|pidgin}}.
 
 ====Noun====
 {{en-noun|~}}
 
 # {{lb|en|archaic|idiomatic|UK|informal}} Concern or [[responsibility]].
-#: {{ux|en|It's his/her '''pigeon'''.}}
+#: {{ux|en|It's their '''pigeon'''.}}
 
 ===References===
 * {{R:Hotten Slang Dictionary}}
@@ -511,7 +512,8 @@ From {{m|en|pidgin English}}, from a {{bor|en|cpi|-}} pronunciation of {{der|en|
 ==French==
 
 ===Etymology===
-{{inh+|fr|fro|pyjon}}, from {{inh|fr|LL.|pipio|pīpiōnem|t=chirping bird}}, from {{der|fr|la|pipio|pīpiāre|t=chirp}}.
+{{etymon|fr|id=Q2984138|inh|fro>pyjon>Q2984138|tree=1}}
+{{inh+|fr|fro|pyjon}}, from {{inh|fr|LL.|pipio|pīpiōnem|chirping bird|id=chirping bird}}, from {{der|fr|la|pipio|pīpiāre|to chirp|id=to chirp}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -526,7 +528,7 @@ From {{m|en|pidgin English}}, from a {{bor|en|cpi|-}} pronunciation of {{der|en|
 #: {{syn|fr|lampiste}}
 
 ====Derived terms====
-{{col4|fr
+{{col|fr
 |aile de pigeon
 |je me suis fait pigeonner
 |je me suis laissé pigeonner
@@ -584,7 +586,7 @@ From {{m|en|pidgin English}}, from a {{bor|en|cpi|-}} pronunciation of {{der|en|
 }}
 
 ===See also===
-{{col4|fr
+{{col|fr
 |colombiculteur
 |colombicultrice
 |colombiculture
@@ -602,14 +604,15 @@ From {{m|en|pidgin English}}, from a {{bor|en|cpi|-}} pronunciation of {{der|en|
 * {{R:fr:TLFi}}
 
 ===Anagrams===
-* {{l|fr|poigne}}
+* {{anagrams|fr|a=eginop|poigne}}
 
 {{C|fr|Columbids}}
 
 ==Norman==
 
 ===Etymology===
-{{inh+|nrf|fro|pyjon}}, from {{inh|nrf|LL.|pipio|pīpiōnem|t=chirping bird}}, from {{der|nrf|la|pipio|pīpiāre|t=chirp}}.
+{{etymon|nrf|id=Q2984138|inh|fro>pyjon>Q2984138}}
+{{inh+|nrf|fro|pyjon}}, from {{inh|nrf|LL.|pipio|pīpiōnem|chirping bird|id=chirping bird}}, from {{der|nrf|la|pipio|pīpiāre|to chirp|id=to chirp}}.
 
 ===Noun===
 {{nrf-noun|m}}
@@ -617,9 +620,14 @@ From {{m|en|pidgin English}}, from a {{bor|en|cpi|-}} pronunciation of {{der|en|
 # {{lb|nrf|Jersey}} {{l|en|pigeon}}
 
 ====Derived terms====
-{{col3|nrf|d'mié-pigeon,p'tit pigeon d'France<t:turtledove>
-|pigeon d'colombyi<t:stock dove>
-|pigeon d'mé,pigeon d'falaise<t:rock dove>
-|pigeon ramyi,pigeon sauvage<t:wood pigeon>}}
+{{col|nrf
+|d'mié-pigeon
+|p'tit pigeon d'France
+|pigeon d'colombyi
+|pigeon d'mé
+|pigeon d'falaise
+|pigeon ramyi
+|pigeon sauvage
+}}
 
-{{topics|nrf|Columbids}}
+{{C|nrf|Columbids}}
